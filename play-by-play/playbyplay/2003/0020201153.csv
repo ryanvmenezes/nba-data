@@ -1,0 +1,503 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020201153,0,12,0,1,7:44 PM,12:00,,,,,
+0020201153,1,10,0,1,7:45 PM,12:00,Jump Ball Ilgauskas vs. Thomas: Tip to Palacio,,,,
+0020201153,2,5,1,1,7:46 PM,11:52,Palacio Bad Pass Turnover (P1.T1),,,,
+0020201153,3,2,1,1,7:46 PM,11:38,,,MISS Thomas 17' Jump Shot,,
+0020201153,4,4,0,1,7:46 PM,11:36,Davis REBOUND (Off:0 Def:1),,,,
+0020201153,5,2,1,1,7:47 PM,11:27,MISS Boozer 8' Jump Shot,,,,
+0020201153,6,4,0,1,7:47 PM,11:25,Ilgauskas REBOUND (Off:1 Def:0),,,,
+0020201153,7,5,2,1,7:47 PM,11:22,Ilgauskas Lost Ball Turnover (P1.T2),,Thomas STEAL (1 STL),,
+0020201153,8,5,1,1,7:47 PM,11:03,,,Eisley Bad Pass Turnover (P1.T1),,
+0020201153,9,2,46,1,7:47 PM,10:45,MISS Miles 5' Running Jump Shot,,,,
+0020201153,10,4,0,1,7:48 PM,10:44,Miles REBOUND (Off:1 Def:0),,,,
+0020201153,11,6,2,1,7:48 PM,10:44,,,Thomas S.FOUL (P1.T1),,
+0020201153,12,3,11,1,7:48 PM,10:44,Miles Free Throw 1 of 2 (1 PTS),,,0 - 1,1
+0020201153,13,3,12,1,7:48 PM,10:44,Miles Free Throw 2 of 2 (2 PTS),,,0 - 2,2
+0020201153,14,2,1,1,7:49 PM,10:24,Palacio BLOCK (1 BLK),,MISS Eisley 3' Jump Shot,,
+0020201153,15,4,0,1,7:49 PM,10:24,,,Knicks Rebound,,
+0020201153,16,2,1,1,7:49 PM,10:20,,,MISS Thomas 15' Jump Shot,,
+0020201153,17,4,0,1,7:49 PM,10:19,Ilgauskas REBOUND (Off:1 Def:1),,,,
+0020201153,18,2,1,1,7:49 PM,10:10,MISS Miles 17' Jump Shot,,,,
+0020201153,19,4,0,1,7:49 PM,10:09,,,Houston REBOUND (Off:0 Def:1),,
+0020201153,20,1,1,1,7:49 PM,10:02,,,Houston 12' Jump Shot (2 PTS),2 - 2,TIE
+0020201153,21,6,2,1,7:49 PM,10:02,Miles S.FOUL (P1.T1),,,,
+0020201153,22,3,10,1,7:49 PM,10:02,,,Houston Free Throw 1 of 1 (3 PTS),3 - 2,-1
+0020201153,23,1,47,1,7:50 PM,9:48,Ilgauskas 11' Turnaround Jump Shot (2 PTS) (Boozer 1 AST),,,3 - 4,1
+0020201153,24,1,63,1,7:50 PM,9:32,,,Weatherspoon 16' Fadeaway Jumper (2 PTS),5 - 4,-1
+0020201153,25,2,1,1,7:50 PM,9:09,MISS Miles 16' Jump Shot,,,,
+0020201153,26,4,0,1,7:50 PM,9:07,,,Knicks Rebound,,
+0020201153,27,5,1,1,7:51 PM,8:53,Boozer STEAL (1 STL),,Sprewell Bad Pass Turnover (P1.T2),,
+0020201153,28,1,8,1,7:51 PM,8:45,Ilgauskas 1' Slam Dunk (4 PTS) (Davis 1 AST),,,5 - 6,1
+0020201153,29,2,1,1,7:51 PM,8:23,,,MISS Houston 15' Jump Shot,,
+0020201153,30,4,0,1,7:51 PM,8:21,Boozer REBOUND (Off:0 Def:1),,,,
+0020201153,31,2,1,1,7:52 PM,8:07,MISS Palacio 21' Jump Shot,,,,
+0020201153,32,4,0,1,7:52 PM,8:05,,,Knicks Rebound,,
+0020201153,33,6,3,1,7:52 PM,8:05,Boozer L.B.FOUL (P1.T2),,,,
+0020201153,34,2,46,1,7:52 PM,7:51,,,MISS Eisley 5' Running Jump Shot,,
+0020201153,35,4,0,1,7:52 PM,7:48,,,Weatherspoon REBOUND (Off:1 Def:0),,
+0020201153,36,1,1,1,7:52 PM,7:45,,,Thomas 10' Jump Shot (2 PTS) (Weatherspoon 1 AST),7 - 6,-1
+0020201153,37,1,1,1,7:53 PM,7:32,Miles 18' Jump Shot (4 PTS) (Davis 2 AST),,,7 - 8,1
+0020201153,38,2,1,1,7:53 PM,7:14,,,MISS Houston 15' Jump Shot,,
+0020201153,39,4,0,1,7:53 PM,7:12,Davis REBOUND (Off:0 Def:2),,,,
+0020201153,40,6,1,1,7:53 PM,7:08,,,Sprewell P.FOUL (P1.T2),,
+0020201153,41,2,63,1,7:53 PM,7:00,MISS Ilgauskas 13' Fadeaway Jumper,,,,
+0020201153,42,4,0,1,7:53 PM,6:57,Boozer REBOUND (Off:1 Def:1),,,,
+0020201153,44,7,2,1,7:54 PM,6:44,,,Weatherspoon Violation:Defensive Goaltending,,
+0020201153,43,1,5,1,7:54 PM,6:44,Palacio 1' Layup (2 PTS) (Davis 3 AST),,,7 - 10,3
+0020201153,45,1,1,1,7:54 PM,6:28,,,Houston 15' Jump Shot (5 PTS) (Eisley 1 AST),9 - 10,1
+0020201153,46,2,1,1,7:54 PM,6:15,MISS Davis 11' Jump Shot,,,,
+0020201153,47,4,0,1,7:54 PM,6:12,,,Weatherspoon REBOUND (Off:1 Def:1),,
+0020201153,48,6,2,1,7:54 PM,6:08,Davis S.FOUL (P1.T3),,,,
+0020201153,49,3,11,1,7:55 PM,6:08,,,Thomas Free Throw 1 of 2 (3 PTS),10 - 10,TIE
+0020201153,50,3,12,1,7:55 PM,6:08,,,Thomas Free Throw 2 of 2 (4 PTS),11 - 10,-1
+0020201153,51,2,1,1,7:55 PM,5:52,MISS Ilgauskas 17' Jump Shot,,,,
+0020201153,52,4,0,1,7:55 PM,5:50,Davis REBOUND (Off:1 Def:2),,,,
+0020201153,53,5,2,1,7:56 PM,5:49,Davis Lost Ball Turnover (P1.T3),,Eisley STEAL (1 STL),,
+0020201153,54,2,1,1,7:56 PM,5:40,,,MISS Houston 22' Jump Shot,,
+0020201153,55,4,0,1,7:56 PM,5:38,Ilgauskas REBOUND (Off:1 Def:2),,,,
+0020201153,56,1,8,1,7:56 PM,5:31,Ilgauskas 1' Slam Dunk (6 PTS) (Davis 4 AST),,,11 - 12,1
+0020201153,57,2,1,1,7:56 PM,5:11,,,MISS Eisley 24' 3PT Jump Shot,,
+0020201153,58,4,0,1,7:56 PM,5:09,Ilgauskas REBOUND (Off:1 Def:3),,,,
+0020201153,59,5,1,1,7:56 PM,4:58,Davis Bad Pass Turnover (P2.T4),,Houston STEAL (1 STL),,
+0020201153,60,1,8,1,7:56 PM,4:53,,,Houston  Slam Dunk (7 PTS),13 - 12,-1
+0020201153,61,2,1,1,7:57 PM,4:35,MISS Davis 16' Jump Shot,,,,
+0020201153,62,4,0,1,7:57 PM,4:34,,,Weatherspoon REBOUND (Off:1 Def:2),,
+0020201153,63,5,1,1,7:57 PM,4:29,,,Eisley Bad Pass Turnover (P2.T3),,
+0020201153,64,9,1,1,7:57 PM,4:29,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,
+0020201153,68,1,1,1,8:00 PM,4:04,Ilgauskas 17' Jump Shot (8 PTS) (Davis 5 AST),,,13 - 14,1
+0020201153,69,6,1,1,8:00 PM,3:52,Davis P.FOUL (P2.T4),,,,
+0020201153,70,1,1,1,8:00 PM,3:48,,,Sprewell 13' Jump Shot (2 PTS),15 - 14,-1
+0020201153,71,2,63,1,8:01 PM,3:24,MISS Ilgauskas 13' Fadeaway Jumper,,,,
+0020201153,73,4,0,1,8:01 PM,3:22,Palacio REBOUND (Off:1 Def:0),,,,
+0020201153,72,2,4,1,8:01 PM,3:22,MISS Palacio 1' Tip Shot,,,,
+0020201153,74,4,0,1,8:01 PM,3:20,,,Thomas REBOUND (Off:0 Def:1),,
+0020201153,75,1,5,1,8:01 PM,3:14,,,Weatherspoon 2' Layup (4 PTS) (Sprewell 1 AST),17 - 14,-3
+0020201153,76,1,3,1,8:01 PM,2:56,Palacio 5' Hook Shot (4 PTS),,,17 - 16,-1
+0020201153,77,2,46,1,8:02 PM,2:38,,,MISS Sprewell 7' Running Jump Shot,,
+0020201153,78,4,0,1,8:02 PM,2:34,Boozer REBOUND (Off:1 Def:2),,,,
+0020201153,79,9,1,1,8:02 PM,2:30,,,Knicks Timeout: Regular (Reg.1 Short 0),,
+0020201153,83,1,1,1,8:05 PM,2:22,Palacio 16' Jump Shot (6 PTS) (Miles 1 AST),,,17 - 18,1
+0020201153,84,2,1,1,8:05 PM,2:07,,,MISS Sprewell 17' Jump Shot,,
+0020201153,85,4,0,1,8:05 PM,2:05,Palacio REBOUND (Off:1 Def:1),,,,
+0020201153,86,2,47,1,8:05 PM,1:49,MISS Miles 14' Turnaround Jump Shot,,,,
+0020201153,87,4,0,1,8:05 PM,1:47,,,Eisley REBOUND (Off:0 Def:1),,
+0020201153,88,2,1,1,8:06 PM,1:40,,,MISS Eisley 25' 3PT Jump Shot,,
+0020201153,89,4,0,1,8:06 PM,1:38,Boozer REBOUND (Off:1 Def:3),,,,
+0020201153,90,1,42,1,8:06 PM,1:23,Palacio 2' Driving Layup (8 PTS),,,17 - 20,3
+0020201153,91,1,1,1,8:06 PM,1:08,,,Thomas 17' Jump Shot (6 PTS) (Eisley 2 AST),19 - 20,1
+0020201153,92,1,63,1,8:06 PM,0:50,Boozer 7' Fadeaway Jumper (2 PTS),,,19 - 22,3
+0020201153,94,1,1,1,8:07 PM,0:39,,,Eisley 17' Jump Shot (2 PTS),21 - 22,1
+0020201153,95,5,2,1,8:07 PM,0:23,Boozer Lost Ball Turnover (P1.T5),,Weatherspoon STEAL (1 STL),,
+0020201153,96,8,0,1,8:07 PM,0:15,SUB: Jones FOR Davis,,,,
+0020201153,97,1,1,1,8:08 PM,0:12,,,Houston 17' Jump Shot (9 PTS) (Eisley 3 AST),23 - 22,-1
+0020201153,98,6,1,1,8:08 PM,0:02,,,Eisley P.FOUL (P1.T3),,
+0020201153,100,2,63,1,8:08 PM,0:00,MISS Palacio 16' Fadeaway Jumper,,Eisley BLOCK (1 BLK),,
+0020201153,101,4,0,1,8:08 PM,0:00,CAVALIERS Rebound,,,,
+0020201153,102,13,0,1,8:08 PM,0:00,,,,23 - 22,-1
+0020201153,104,12,0,2,8:11 PM,12:00,,,,23 - 22,-1
+0020201153,105,6,1,2,8:11 PM,11:46,Ilgauskas P.FOUL (P1.T1),,,,
+0020201153,106,6,2,2,8:12 PM,11:38,Miles S.FOUL (P2.T2),,,,
+0020201153,107,3,11,2,8:12 PM,11:38,,,Postell Free Throw 1 of 2 (1 PTS),24 - 22,-2
+0020201153,108,8,0,2,8:12 PM,11:38,SUB: Davis FOR Miles,,,,
+0020201153,109,3,12,2,8:12 PM,11:38,,,Postell Free Throw 2 of 2 (2 PTS),25 - 22,-3
+0020201153,110,2,1,2,8:13 PM,11:13,MISS Palacio 16' Jump Shot,,,,
+0020201153,111,4,0,2,8:13 PM,11:12,,,Weatherspoon REBOUND (Off:1 Def:3),,
+0020201153,112,5,1,2,8:13 PM,11:06,,,Ward Bad Pass Turnover (P1.T4),,
+0020201153,113,2,1,2,8:13 PM,10:56,MISS Davis 16' Jump Shot,,,,
+0020201153,114,4,0,2,8:13 PM,10:55,,,Ward REBOUND (Off:0 Def:1),,
+0020201153,115,2,1,2,8:14 PM,10:47,,,MISS Doleac 18' Jump Shot,,
+0020201153,116,4,0,2,8:14 PM,10:45,Boozer REBOUND (Off:1 Def:4),,,,
+0020201153,117,2,1,2,8:14 PM,10:38,MISS Boozer 16' Jump Shot,,,,
+0020201153,118,4,0,2,8:14 PM,10:36,,,Anderson REBOUND (Off:0 Def:1),,
+0020201153,119,2,1,2,8:14 PM,10:31,,,MISS Postell 15' Jump Shot,,
+0020201153,120,4,0,2,8:14 PM,10:29,,,Doleac REBOUND (Off:1 Def:0),,
+0020201153,121,2,1,2,8:14 PM,10:24,,,MISS Doleac 19' Jump Shot,,
+0020201153,122,4,0,2,8:14 PM,10:23,,,Doleac REBOUND (Off:2 Def:0),,
+0020201153,123,1,1,2,8:14 PM,10:19,,,Doleac 10' Jump Shot (2 PTS),27 - 22,-5
+0020201153,124,5,1,2,8:14 PM,10:05,Palacio Bad Pass Turnover (P2.T6),,Ward STEAL (1 STL),,
+0020201153,125,6,2,2,8:14 PM,10:01,Ilgauskas S.FOUL (P2.T3),,,,
+0020201153,126,8,0,2,8:15 PM,10:01,,,SUB: Knight FOR Weatherspoon,,
+0020201153,127,8,0,2,8:15 PM,10:01,SUB: Brown FOR Boozer,,,,
+0020201153,128,8,0,2,8:15 PM,10:01,SUB: Mihm FOR Ilgauskas,,,,
+0020201153,129,8,0,2,8:15 PM,10:01,SUB: Diop FOR Palacio,,,,
+0020201153,130,3,11,2,8:15 PM,10:01,,,Anderson Free Throw 1 of 2 (1 PTS),28 - 22,-6
+0020201153,131,3,12,2,8:15 PM,10:01,,,Anderson Free Throw 2 of 2 (2 PTS),29 - 22,-7
+0020201153,132,6,1,2,8:16 PM,9:49,,,Knight P.FOUL (P1.T1),,
+0020201153,133,5,1,2,8:16 PM,9:41,Brown Bad Pass Turnover (P1.T7),,,,
+0020201153,134,1,63,2,8:16 PM,9:30,,,Ward 16' Fadeaway Jumper (2 PTS),31 - 22,-9
+0020201153,135,9,1,2,8:16 PM,9:24,CAVALIERS Timeout: Regular (Full 2 Short 0),,,,
+0020201153,139,1,65,2,8:19 PM,9:15,Mihm 4' Jump Hook Shot (2 PTS) (Jones 1 AST),,,31 - 24,-7
+0020201153,140,1,1,2,8:19 PM,9:01,,,Knight 19' Jump Shot (2 PTS) (Ward 1 AST),33 - 24,-9
+0020201153,141,2,1,2,8:19 PM,8:43,MISS Mihm 20' Jump Shot,,,,
+0020201153,142,4,0,2,8:19 PM,8:40,,,Ward REBOUND (Off:0 Def:2),,
+0020201153,143,2,1,2,8:19 PM,8:28,,,MISS Postell 15' Jump Shot,,
+0020201153,144,4,0,2,8:19 PM,8:26,Mihm REBOUND (Off:0 Def:1),,,,
+0020201153,145,2,1,2,8:20 PM,8:18,MISS Brown 9' Jump Shot,,,,
+0020201153,146,4,0,2,8:20 PM,8:16,,,Knight REBOUND (Off:0 Def:1),,
+0020201153,147,1,1,2,8:20 PM,8:02,,,Anderson 24' 3PT Jump Shot (5 PTS) (Ward 2 AST),36 - 24,-12
+0020201153,148,1,1,2,8:20 PM,7:49,Davis 16' Jump Shot (2 PTS),,,36 - 26,-10
+0020201153,149,1,1,2,8:20 PM,7:32,,,Anderson 18' Jump Shot (7 PTS) (Knight 1 AST),38 - 26,-12
+0020201153,150,1,1,2,8:21 PM,7:15,Davis 16' Jump Shot (4 PTS) (Mihm 1 AST),,,38 - 28,-10
+0020201153,151,2,1,2,8:21 PM,6:57,,,MISS Ward 26' 3PT Jump Shot,,
+0020201153,152,4,0,2,8:21 PM,6:55,Jones REBOUND (Off:0 Def:1),,,,
+0020201153,153,2,1,2,8:21 PM,6:43,MISS Davis 22' Jump Shot,,,,
+0020201153,154,4,0,2,8:21 PM,6:42,,,Knight REBOUND (Off:0 Def:2),,
+0020201153,155,6,1,2,8:21 PM,6:38,Jones P.FOUL (P1.T4),,,,
+0020201153,156,2,1,2,8:22 PM,6:35,,,MISS Anderson 25' 3PT Jump Shot,,
+0020201153,157,4,0,2,8:22 PM,6:32,Brown REBOUND (Off:0 Def:1),,,,
+0020201153,158,6,1,2,8:22 PM,6:28,,,Knight P.FOUL (P2.T2),,
+0020201153,159,2,1,2,8:22 PM,6:19,MISS Davis 16' Jump Shot,,,,
+0020201153,160,4,0,2,8:22 PM,6:17,,,Ward REBOUND (Off:0 Def:3),,
+0020201153,161,1,5,2,8:22 PM,6:12,,,Anderson 2' Layup (9 PTS) (Ward 3 AST),40 - 28,-12
+0020201153,162,6,2,2,8:22 PM,6:12,Jones S.FOUL (P2.PN),,,,
+0020201153,163,3,10,2,8:23 PM,6:12,,,Anderson Free Throw 1 of 1 (10 PTS),41 - 28,-13
+0020201153,165,2,47,2,8:23 PM,5:56,MISS Diop 14' Turnaround Jump Shot,,,,
+0020201153,166,4,0,2,8:23 PM,5:53,Brown REBOUND (Off:1 Def:1),,,,
+0020201153,167,2,5,2,8:23 PM,5:51,MISS Mihm 2' Layup,,Ward BLOCK (1 BLK),,
+0020201153,168,4,0,2,8:23 PM,5:47,,,Doleac REBOUND (Off:2 Def:1),,
+0020201153,169,2,1,2,8:23 PM,5:40,,,MISS Postell 16' Jump Shot,,
+0020201153,170,4,0,2,8:23 PM,5:38,Jones REBOUND (Off:0 Def:2),,,,
+0020201153,171,2,1,2,8:24 PM,5:28,MISS Jones 24' 3PT Jump Shot,,,,
+0020201153,172,4,0,2,8:24 PM,5:26,Diop REBOUND (Off:1 Def:0),,,,
+0020201153,173,2,1,2,8:24 PM,5:21,MISS Mihm 16' Jump Shot,,,,
+0020201153,174,4,0,2,8:24 PM,5:20,Davis REBOUND (Off:2 Def:2),,,,
+0020201153,175,6,2,2,8:24 PM,5:19,,,Knight S.FOUL (P3.T3),,
+0020201153,176,9,4,2,8:24 PM,5:19,,,,,
+0020201153,178,8,0,2,8:26 PM,5:19,SUB: Ilgauskas FOR Diop,,,,
+0020201153,179,8,0,2,8:26 PM,5:19,,,SUB: Nailon FOR Knight,,
+0020201153,180,3,11,2,8:26 PM,5:19,MISS Davis Free Throw 1 of 2,,,,
+0020201153,181,4,1,2,8:26 PM,5:19,CAVALIERS Rebound,,,,
+0020201153,182,3,12,2,8:26 PM,5:19,Davis Free Throw 2 of 2 (5 PTS),,,41 - 29,-12
+0020201153,183,1,1,2,8:27 PM,5:04,,,Ward 24' 3PT Jump Shot (5 PTS) (Anderson 1 AST),44 - 29,-15
+0020201153,184,1,42,2,8:27 PM,4:52,Davis 2' Driving Layup (7 PTS),,,44 - 31,-13
+0020201153,185,6,1,2,8:27 PM,4:37,Ilgauskas P.FOUL (P3.PN),,,,
+0020201153,186,8,0,2,8:27 PM,4:37,,,SUB: Williams FOR Ward,,
+0020201153,187,8,0,2,8:28 PM,4:37,SUB: Miles FOR Jones,,,,
+0020201153,188,3,11,2,8:28 PM,4:37,,,Anderson Free Throw 1 of 2 (11 PTS),45 - 31,-14
+0020201153,189,8,0,2,8:28 PM,4:37,SUB: Diop FOR Ilgauskas,,,,
+0020201153,190,3,12,2,8:28 PM,4:37,,,Anderson Free Throw 2 of 2 (12 PTS),46 - 31,-15
+0020201153,191,1,63,2,8:29 PM,4:26,Davis 12' Fadeaway Jumper (9 PTS) (Brown 1 AST),,,46 - 33,-13
+0020201153,192,6,2,2,8:29 PM,4:26,,,Postell S.FOUL (P1.T4),,
+0020201153,193,3,10,2,8:29 PM,4:26,Davis Free Throw 1 of 1 (10 PTS),,,46 - 34,-12
+0020201153,194,2,1,2,8:29 PM,4:07,,,MISS Postell 4' Jump Shot,,
+0020201153,195,4,0,2,8:29 PM,4:05,Mihm REBOUND (Off:0 Def:2),,,,
+0020201153,196,2,44,2,8:29 PM,3:56,MISS Miles 1' Reverse Layup,,Doleac BLOCK (1 BLK),,
+0020201153,197,4,0,2,8:30 PM,3:54,Mihm REBOUND (Off:1 Def:2),,,,
+0020201153,198,1,3,2,8:30 PM,3:52,Mihm 4' Hook Shot (4 PTS),,,46 - 36,-10
+0020201153,199,2,1,2,8:30 PM,3:35,,,MISS Nailon 18' Jump Shot,,
+0020201153,200,4,0,2,8:30 PM,3:34,Diop REBOUND (Off:1 Def:1),,,,
+0020201153,201,2,1,2,8:30 PM,3:20,MISS Miles 18' Jump Shot,,,,
+0020201153,202,4,0,2,8:30 PM,3:19,,,Doleac REBOUND (Off:2 Def:2),,
+0020201153,203,6,2,2,8:30 PM,3:15,Brown S.FOUL (P1.PN),,,,
+0020201153,204,3,11,2,8:30 PM,3:15,,,Postell Free Throw 1 of 2 (3 PTS),47 - 36,-11
+0020201153,205,3,12,2,8:31 PM,3:15,,,Postell Free Throw 2 of 2 (4 PTS),48 - 36,-12
+0020201153,206,1,63,2,8:31 PM,2:56,Davis 9' Fadeaway Jumper (12 PTS),,,48 - 38,-10
+0020201153,207,2,1,2,8:31 PM,2:34,,,MISS Postell 20' Jump Shot,,
+0020201153,208,4,0,2,8:31 PM,2:32,Diop REBOUND (Off:1 Def:2),,,,
+0020201153,209,1,1,2,8:32 PM,2:25,Davis 15' Jump Shot (14 PTS) (Brown 2 AST),,,48 - 40,-8
+0020201153,210,5,2,2,8:32 PM,2:08,Brown STEAL (1 STL),,Williams Lost Ball Turnover (P1.T5),,
+0020201153,211,5,2,2,8:32 PM,2:04,Miles Lost Ball Turnover (P1.T8),,,,
+0020201153,212,9,1,2,8:32 PM,2:04,,,Knicks Timeout: Regular (Reg.2 Short 0),,
+0020201153,214,8,0,2,8:34 PM,2:04,SUB: Palacio FOR Brown,,,,
+0020201153,216,2,1,2,8:34 PM,1:39,,,MISS Anderson  3PT Jump Shot,,
+0020201153,217,4,0,2,8:35 PM,1:37,Miles REBOUND (Off:1 Def:1),,,,
+0020201153,218,1,1,2,8:35 PM,1:18,Davis 16' Jump Shot (16 PTS) (Miles 2 AST),,,48 - 42,-6
+0020201153,219,1,44,2,8:35 PM,0:57,,,Anderson 2' Reverse Layup (14 PTS),50 - 42,-8
+0020201153,220,6,1,2,8:36 PM,0:36,,,Nailon P.FOUL (P1.PN),,
+0020201153,221,3,11,2,8:36 PM,0:36,MISS Mihm Free Throw 1 of 2,,,,
+0020201153,222,4,1,2,8:36 PM,0:36,CAVALIERS Rebound,,,,
+0020201153,223,3,12,2,8:36 PM,0:36,Mihm Free Throw 2 of 2 (5 PTS),,,50 - 43,-7
+0020201153,225,2,1,2,8:37 PM,0:21,,,MISS Postell 24' 3PT Jump Shot,,
+0020201153,226,4,0,2,8:37 PM,0:19,Mihm REBOUND (Off:1 Def:3),,,,
+0020201153,227,2,1,2,8:37 PM,0:06,MISS Davis 3' Jump Shot,,Anderson BLOCK (1 BLK),,
+0020201153,228,4,0,2,8:37 PM,0:03,Davis REBOUND (Off:3 Def:2),,,,
+0020201153,229,2,1,2,8:37 PM,0:02,MISS Davis 4' Jump Shot,,,,
+0020201153,230,4,0,2,8:37 PM,0:01,CAVALIERS Rebound,,,,
+0020201153,231,6,3,2,8:37 PM,0:01,,,Postell L.B.FOUL (P2.PN),,
+0020201153,232,3,11,2,8:37 PM,0:01,Mihm Free Throw 1 of 2 (6 PTS),,,50 - 44,-6
+0020201153,233,3,12,2,8:38 PM,0:01,Mihm Free Throw 2 of 2 (7 PTS),,,50 - 45,-5
+0020201153,234,9,2,2,8:38 PM,0:01,,,Knicks Timeout: Short (Reg.2 Short 1),,
+0020201153,241,13,0,2,8:40 PM,0:00,,,,50 - 45,-5
+0020201153,243,12,0,3,8:55 PM,12:00,,,,50 - 45,-5
+0020201153,244,1,1,3,8:55 PM,11:46,,,Thomas 16' Jump Shot (8 PTS) (Eisley 4 AST),52 - 45,-7
+0020201153,245,6,1,3,8:55 PM,11:27,,,Thomas P.FOUL (P2.T1),,
+0020201153,246,2,63,3,8:56 PM,11:18,MISS Ilgauskas 17' Fadeaway Jumper,,,,
+0020201153,247,4,0,3,8:56 PM,11:16,CAVALIERS Rebound,,,,
+0020201153,248,2,47,3,8:56 PM,11:14,MISS Ilgauskas 4' Turnaround Jump Shot,,,,
+0020201153,249,4,0,3,8:56 PM,11:11,,,Thomas REBOUND (Off:0 Def:2),,
+0020201153,250,1,1,3,8:56 PM,10:57,,,Thomas 16' Jump Shot (10 PTS) (Eisley 5 AST),54 - 45,-9
+0020201153,251,2,63,3,8:57 PM,10:42,MISS Davis 17' Fadeaway Jumper,,,,
+0020201153,252,4,0,3,8:57 PM,10:40,Davis REBOUND (Off:4 Def:2),,,,
+0020201153,253,1,1,3,8:57 PM,10:36,Davis 14' Jump Shot (18 PTS),,,54 - 47,-7
+0020201153,254,1,1,3,8:57 PM,10:16,,,Eisley 22' Jump Shot (4 PTS),56 - 47,-9
+0020201153,255,5,4,3,8:57 PM,10:01,Boozer Traveling Turnover (P2.T9),,,,
+0020201153,256,2,1,3,8:58 PM,9:49,,,MISS Eisley 25' 3PT Jump Shot,,
+0020201153,257,4,0,3,8:58 PM,9:48,Ilgauskas REBOUND (Off:1 Def:4),,,,
+0020201153,258,6,1,3,8:58 PM,9:39,,,Sprewell P.FOUL (P2.T2),,
+0020201153,259,6,2,3,8:58 PM,9:33,,,Weatherspoon S.FOUL (P1.T3),,
+0020201153,260,3,11,3,8:59 PM,9:33,Davis Free Throw 1 of 2 (19 PTS),,,56 - 48,-8
+0020201153,261,3,12,3,8:59 PM,9:33,Davis Free Throw 2 of 2 (20 PTS),,,56 - 49,-7
+0020201153,262,6,1,3,8:59 PM,9:22,Palacio P.FOUL (P1.T1),,,,
+0020201153,263,2,1,3,8:59 PM,9:20,,,MISS Sprewell 24' 3PT Jump Shot,,
+0020201153,264,4,0,3,8:59 PM,9:18,Boozer REBOUND (Off:1 Def:5),,,,
+0020201153,265,2,1,3,9:00 PM,9:06,MISS Davis 18' Jump Shot,,,,
+0020201153,266,4,0,3,9:00 PM,9:05,Ilgauskas REBOUND (Off:2 Def:4),,,,
+0020201153,267,1,5,3,9:00 PM,9:03,Ilgauskas 1' Layup (10 PTS),,,56 - 51,-5
+0020201153,268,5,1,3,9:00 PM,8:58,,,Thomas Bad Pass Turnover (P1.T6),,
+0020201153,269,2,1,3,9:00 PM,8:51,MISS Davis 19' Jump Shot,,,,
+0020201153,270,4,0,3,9:00 PM,8:50,Miles REBOUND (Off:2 Def:1),,,,
+0020201153,271,2,1,3,9:00 PM,8:43,MISS Davis 25' 3PT Jump Shot,,,,
+0020201153,272,4,0,3,9:00 PM,8:41,,,Sprewell REBOUND (Off:0 Def:1),,
+0020201153,273,6,2,3,9:01 PM,8:37,Davis S.FOUL (P3.T2),,,,
+0020201153,274,3,11,3,9:01 PM,8:37,,,MISS Sprewell Free Throw 1 of 2,,
+0020201153,275,4,1,3,9:01 PM,8:37,,,Knicks Rebound,,
+0020201153,276,3,12,3,9:01 PM,8:37,,,Sprewell Free Throw 2 of 2 (3 PTS),57 - 51,-6
+0020201153,277,5,2,3,9:01 PM,8:14,Boozer Lost Ball Turnover (P3.T10),,Houston STEAL (2 STL),,
+0020201153,278,1,5,3,9:02 PM,8:09,,,Thomas 1' Layup (12 PTS) (Eisley 6 AST),59 - 51,-8
+0020201153,279,1,1,3,9:02 PM,7:49,Miles 19' Jump Shot (6 PTS) (Boozer 2 AST),,,59 - 53,-6
+0020201153,280,1,1,3,9:02 PM,7:32,,,Thomas 16' Jump Shot (14 PTS) (Eisley 7 AST),61 - 53,-8
+0020201153,281,2,1,3,9:03 PM,7:08,MISS Palacio 16' Jump Shot,,,,
+0020201153,282,4,0,3,9:03 PM,7:06,,,Sprewell REBOUND (Off:0 Def:2),,
+0020201153,283,1,1,3,9:03 PM,6:58,,,Thomas 18' Jump Shot (16 PTS) (Houston 1 AST),63 - 53,-10
+0020201153,284,9,1,3,9:03 PM,6:56,CAVALIERS Timeout: Regular (Full 3 Short 0),,,,
+0020201153,288,6,2,3,9:05 PM,6:42,,,Thomas S.FOUL (P3.T4),,
+0020201153,289,3,11,3,9:05 PM,6:42,Ilgauskas Free Throw 1 of 2 (11 PTS),,,63 - 54,-9
+0020201153,290,3,12,3,9:06 PM,6:42,Ilgauskas Free Throw 2 of 2 (12 PTS),,,63 - 55,-8
+0020201153,291,1,8,3,9:06 PM,6:25,,,Weatherspoon 1' Slam Dunk (6 PTS) (Sprewell 2 AST),65 - 55,-10
+0020201153,292,2,1,3,9:06 PM,6:05,MISS Ilgauskas 12' Jump Shot,,,,
+0020201153,293,4,0,3,9:06 PM,6:04,,,Weatherspoon REBOUND (Off:1 Def:4),,
+0020201153,294,1,1,3,9:07 PM,5:58,,,Houston 25' 3PT Jump Shot (12 PTS) (Eisley 8 AST),68 - 55,-13
+0020201153,295,6,1,3,9:07 PM,5:44,,,Thomas P.FOUL (P4.PN),,
+0020201153,296,8,0,3,9:07 PM,5:44,SUB: Jones FOR Ilgauskas,,,,
+0020201153,297,3,11,3,9:07 PM,5:44,Davis Free Throw 1 of 2 (21 PTS),,,68 - 56,-12
+0020201153,298,8,0,3,9:07 PM,5:44,,,SUB: Doleac FOR Thomas,,
+0020201153,299,3,12,3,9:07 PM,5:44,Davis Free Throw 2 of 2 (22 PTS),,,68 - 57,-11
+0020201153,300,2,1,3,9:08 PM,5:31,,,MISS Doleac 17' Jump Shot,,
+0020201153,301,4,0,3,9:08 PM,5:30,Miles REBOUND (Off:2 Def:2),,,,
+0020201153,302,1,1,3,9:08 PM,5:12,Jones 24' 3PT Jump Shot (3 PTS) (Miles 3 AST),,,68 - 60,-8
+0020201153,303,5,1,3,9:09 PM,4:50,Davis STEAL (1 STL),,Eisley Bad Pass Turnover (P3.T7),,
+0020201153,304,5,1,3,9:09 PM,4:44,Palacio Bad Pass Turnover (P3.T11),,,,
+0020201153,305,2,5,3,9:09 PM,4:32,,,MISS Sprewell 3' Layup,,
+0020201153,306,4,0,3,9:09 PM,4:30,Miles REBOUND (Off:2 Def:3),,,,
+0020201153,307,1,5,3,9:09 PM,4:19,Boozer 2' Layup (4 PTS) (Davis 6 AST),,,68 - 62,-6
+0020201153,308,1,1,3,9:09 PM,4:03,,,Houston 17' Jump Shot (14 PTS) (Eisley 9 AST),70 - 62,-8
+0020201153,309,5,2,3,9:10 PM,3:50,Davis Lost Ball Turnover (P3.T12),,Houston STEAL (3 STL),,
+0020201153,310,5,1,3,9:10 PM,3:46,,,Eisley Bad Pass Turnover (P4.T8),,
+0020201153,311,8,0,3,9:10 PM,3:46,,,SUB: Knight FOR Doleac,,
+0020201153,312,8,0,3,9:10 PM,3:46,SUB: Parker FOR Palacio,,,,
+0020201153,313,1,1,3,9:10 PM,3:28,Boozer 15' Jump Shot (6 PTS) (Parker 1 AST),,,70 - 64,-6
+0020201153,314,2,1,3,9:11 PM,3:12,,,MISS Houston 24' 3PT Jump Shot,,
+0020201153,315,4,0,3,9:11 PM,3:11,Parker REBOUND (Off:0 Def:1),,,,
+0020201153,316,2,1,3,9:11 PM,3:02,MISS Parker 13' Jump Shot,,,,
+0020201153,318,4,0,3,9:11 PM,3:00,Jones REBOUND (Off:1 Def:2),,,,
+0020201153,317,2,4,3,9:11 PM,3:00,MISS Jones 1' Tip Shot,,,,
+0020201153,319,4,0,3,9:11 PM,2:58,,,Knight REBOUND (Off:0 Def:3),,
+0020201153,320,1,1,3,9:11 PM,2:40,,,Eisley 24' 3PT Jump Shot (7 PTS) (Knight 2 AST),73 - 64,-9
+0020201153,321,2,1,3,9:11 PM,2:25,MISS Davis 18' Jump Shot,,,,
+0020201153,322,4,0,3,9:11 PM,2:23,,,Houston REBOUND (Off:0 Def:2),,
+0020201153,323,6,1,3,9:11 PM,2:19,Jones P.FOUL (P3.T3),,,,
+0020201153,324,9,1,3,9:12 PM,2:19,,,Knicks Timeout: Regular (Reg.3 Short 1),,
+0020201153,327,8,0,3,9:13 PM,2:19,,,SUB: Ward FOR Eisley,,
+0020201153,328,6,2,3,9:14 PM,2:03,Davis S.FOUL (P4.T4),,,,
+0020201153,329,3,11,3,9:14 PM,2:03,,,Sprewell Free Throw 1 of 2 (4 PTS),74 - 64,-10
+0020201153,330,3,12,3,9:15 PM,2:03,,,MISS Sprewell Free Throw 2 of 2,,
+0020201153,331,4,0,3,9:15 PM,2:02,Boozer REBOUND (Off:1 Def:6),,,,
+0020201153,332,1,42,3,9:15 PM,1:49,Davis 2' Driving Layup (24 PTS) (Parker 2 AST),,,74 - 66,-8
+0020201153,333,6,2,3,9:15 PM,1:49,,,Weatherspoon S.FOUL (P2.PN),,
+0020201153,334,3,10,3,9:15 PM,1:49,Davis Free Throw 1 of 1 (25 PTS),,,74 - 67,-7
+0020201153,335,2,1,3,9:16 PM,1:31,Boozer BLOCK (1 BLK),,MISS Weatherspoon 5' Jump Shot,,
+0020201153,336,4,0,3,9:16 PM,1:29,Boozer REBOUND (Off:1 Def:7),,,,
+0020201153,337,1,42,3,9:16 PM,1:23,Parker 1' Driving Layup (2 PTS),,,74 - 69,-5
+0020201153,338,8,0,3,9:16 PM,1:11,,,SUB: Anderson FOR Weatherspoon,,
+0020201153,339,1,1,3,9:16 PM,1:06,,,Anderson  3PT Jump Shot (17 PTS) (Sprewell 3 AST),77 - 69,-8
+0020201153,340,2,1,3,9:17 PM,0:50,MISS Miles 9' Jump Shot,,Anderson BLOCK (2 BLK),,
+0020201153,341,4,0,3,9:17 PM,0:50,CAVALIERS Rebound,,,,
+0020201153,342,2,1,3,9:17 PM,0:41,MISS Parker 25' 3PT Jump Shot,,,,
+0020201153,343,4,0,3,9:17 PM,0:39,,,Knicks Rebound,,
+0020201153,344,2,1,3,9:18 PM,0:16,,,MISS Anderson 6' Jump Shot,,
+0020201153,346,4,0,3,9:18 PM,0:16,,,Knight REBOUND (Off:1 Def:3),,
+0020201153,345,1,5,3,9:18 PM,0:16,,,Knight 1' Layup (4 PTS),79 - 69,-10
+0020201153,348,6,4,3,9:18 PM,0:01,Jones OFF.Foul (P4),,,,
+0020201153,349,5,5,3,9:18 PM,0:01,Jones Foul Turnover (P1.T13),,,,
+0020201153,350,2,1,3,9:18 PM,0:00,,,MISS Knight 36' 3PT Jump Shot,,
+0020201153,351,4,0,3,9:18 PM,0:00,,,Knicks Rebound,,
+0020201153,352,13,0,3,9:18 PM,0:00,,,,79 - 69,-10
+0020201153,354,12,0,4,9:21 PM,12:00,,,,79 - 69,-10
+0020201153,355,5,1,4,9:21 PM,11:41,Miles Bad Pass Turnover (P2.T14),,Knight STEAL (1 STL),,
+0020201153,356,5,2,4,9:21 PM,11:36,Davis STEAL (2 STL),,Houston Lost Ball Turnover (P1.T9),,
+0020201153,357,2,1,4,9:21 PM,11:33,MISS Davis 17' Jump Shot,,,,
+0020201153,358,4,0,4,9:21 PM,11:31,,,Anderson REBOUND (Off:0 Def:2),,
+0020201153,359,1,1,4,9:21 PM,11:21,,,Houston 25' 3PT Jump Shot (17 PTS) (Anderson 2 AST),82 - 69,-13
+0020201153,360,1,1,4,9:22 PM,10:59,Boozer 17' Jump Shot (8 PTS) (Davis 7 AST),,,82 - 71,-11
+0020201153,361,1,59,4,9:22 PM,10:32,,,Knight 2' Finger Roll (6 PTS) (Anderson 3 AST),84 - 71,-13
+0020201153,362,2,1,4,9:23 PM,10:14,MISS Jones 21' Jump Shot,,,,
+0020201153,363,4,0,4,9:23 PM,10:12,,,Ward REBOUND (Off:0 Def:4),,
+0020201153,364,1,49,4,9:23 PM,10:07,,,Anderson 1' Driving Dunk (19 PTS) (Ward 4 AST),86 - 71,-15
+0020201153,365,6,1,4,9:23 PM,9:47,,,Ward P.FOUL (P1.T1),,
+0020201153,366,8,0,4,9:23 PM,9:47,SUB: Ilgauskas FOR Jones,,,,
+0020201153,367,8,0,4,9:24 PM,9:47,,,SUB: Doleac FOR Houston,,
+0020201153,368,1,1,4,9:24 PM,9:42,Davis 17' Jump Shot (27 PTS) (Boozer 3 AST),,,86 - 73,-13
+0020201153,369,2,1,4,9:24 PM,9:27,,,MISS Sprewell 18' Jump Shot,,
+0020201153,370,4,0,4,9:24 PM,9:26,Ilgauskas REBOUND (Off:2 Def:5),,,,
+0020201153,371,6,2,4,9:24 PM,9:10,,,Anderson S.FOUL (P1.T2),,
+0020201153,372,3,11,4,9:24 PM,9:10,Boozer Free Throw 1 of 2 (9 PTS),,,86 - 74,-12
+0020201153,373,3,12,4,9:25 PM,9:10,Boozer Free Throw 2 of 2 (10 PTS),,,86 - 75,-11
+0020201153,374,2,1,4,9:25 PM,8:57,,,MISS Anderson 18' Jump Shot,,
+0020201153,375,4,0,4,9:25 PM,8:54,Boozer REBOUND (Off:1 Def:8),,,,
+0020201153,376,6,2,4,9:25 PM,8:43,,,Knight S.FOUL (P4.T3),,
+0020201153,377,9,4,4,9:25 PM,8:43,,,,,
+0020201153,380,8,0,4,9:28 PM,8:43,,,SUB: Postell FOR Sprewell,,
+0020201153,381,3,11,4,9:28 PM,8:43,Ilgauskas Free Throw 1 of 2 (13 PTS),,,86 - 76,-10
+0020201153,382,3,12,4,9:28 PM,8:43,Ilgauskas Free Throw 2 of 2 (14 PTS),,,86 - 77,-9
+0020201153,383,6,1,4,9:28 PM,8:37,Parker P.FOUL (P1.T1),,,,
+0020201153,384,2,1,4,9:29 PM,8:23,,,MISS Doleac 18' Jump Shot,,
+0020201153,385,4,0,4,9:29 PM,8:21,Davis REBOUND (Off:4 Def:3),,,,
+0020201153,386,2,63,4,9:29 PM,8:07,MISS Ilgauskas 7' Fadeaway Jumper,,,,
+0020201153,387,4,0,4,9:29 PM,8:05,,,Anderson REBOUND (Off:0 Def:3),,
+0020201153,388,2,1,4,9:29 PM,7:53,,,MISS Postell 18' Jump Shot,,
+0020201153,389,4,0,4,9:29 PM,7:52,Boozer REBOUND (Off:1 Def:9),,,,
+0020201153,390,2,1,4,9:29 PM,7:39,MISS Ilgauskas 8' Jump Shot,,,,
+0020201153,391,4,0,4,9:29 PM,7:36,,,Knight REBOUND (Off:1 Def:4),,
+0020201153,392,1,1,4,9:30 PM,7:23,,,Postell 23' Jump Shot (6 PTS) (Knight 3 AST),88 - 77,-11
+0020201153,393,1,1,4,9:30 PM,6:59,Boozer 5' Jump Shot (12 PTS) (Davis 8 AST),,,88 - 79,-9
+0020201153,394,6,2,4,9:30 PM,6:59,,,Postell S.FOUL (P3.T4),,
+0020201153,395,3,10,4,9:30 PM,6:59,Boozer Free Throw 1 of 1 (13 PTS),,,88 - 80,-8
+0020201153,396,1,1,4,9:31 PM,6:39,,,Doleac 18' Jump Shot (4 PTS) (Ward 5 AST),90 - 80,-10
+0020201153,397,2,1,4,9:31 PM,6:24,MISS Miles 4' Jump Shot,,,,
+0020201153,398,4,0,4,9:31 PM,6:23,,,Knight REBOUND (Off:1 Def:5),,
+0020201153,399,5,2,4,9:31 PM,6:17,,,Ward Lost Ball Turnover (P2.T10),,
+0020201153,400,1,47,4,9:31 PM,5:58,Davis 15' Turnaround Jump Shot (29 PTS),,,90 - 82,-8
+0020201153,401,2,8,4,9:32 PM,5:41,Miles BLOCK (1 BLK),,MISS Knight 1' Slam Dunk,,
+0020201153,402,4,0,4,9:32 PM,5:36,Ilgauskas REBOUND (Off:2 Def:6),,,,
+0020201153,403,1,1,4,9:32 PM,5:33,Boozer 17' Jump Shot (15 PTS) (Davis 9 AST),,,90 - 84,-6
+0020201153,404,9,1,4,9:32 PM,5:29,,,Knicks Timeout: Regular (Reg.4 Short 1),,
+0020201153,406,8,0,4,9:34 PM,5:29,,,SUB: Williams FOR Ward,,
+0020201153,408,2,1,4,9:35 PM,5:17,,,MISS Postell 17' Jump Shot,,
+0020201153,409,4,0,4,9:35 PM,5:15,,,Williams REBOUND (Off:1 Def:0),,
+0020201153,410,2,1,4,9:35 PM,5:04,,,MISS Knight 3' Jump Shot,,
+0020201153,411,4,0,4,9:35 PM,5:03,Boozer REBOUND (Off:1 Def:10),,,,
+0020201153,412,2,1,4,9:35 PM,4:42,MISS Davis 25' 3PT Jump Shot,,,,
+0020201153,413,4,0,4,9:35 PM,4:39,Miles REBOUND (Off:3 Def:3),,,,
+0020201153,414,2,5,4,9:35 PM,4:37,MISS Miles 2' Layup,,Doleac BLOCK (2 BLK),,
+0020201153,415,4,0,4,9:35 PM,4:35,Miles REBOUND (Off:4 Def:3),,,,
+0020201153,416,6,1,4,9:35 PM,4:34,,,Anderson P.FOUL (P2.PN),,
+0020201153,417,3,11,4,9:36 PM,4:34,Davis Free Throw 1 of 2 (30 PTS),,,90 - 85,-5
+0020201153,418,8,0,4,9:36 PM,4:34,,,SUB: Weatherspoon FOR Doleac,,
+0020201153,419,8,0,4,9:36 PM,4:34,,,SUB: Thomas FOR Knight,,
+0020201153,420,3,12,4,9:36 PM,4:34,Davis Free Throw 2 of 2 (31 PTS),,,90 - 86,-4
+0020201153,421,5,2,4,9:36 PM,4:19,,,Anderson Lost Ball Turnover (P1.T11),,
+0020201153,422,8,0,4,9:37 PM,4:19,,,SUB: Houston FOR Postell,,
+0020201153,423,2,5,4,9:37 PM,4:01,MISS Davis 2' Layup,,,,
+0020201153,425,4,0,4,9:37 PM,3:59,Ilgauskas REBOUND (Off:3 Def:6),,,,
+0020201153,424,1,4,4,9:37 PM,3:59,Ilgauskas 2' Tip Shot (16 PTS),,,90 - 88,-2
+0020201153,426,2,63,4,9:37 PM,3:37,,,MISS Weatherspoon 8' Fadeaway Jumper,,
+0020201153,427,4,0,4,9:37 PM,3:35,Ilgauskas REBOUND (Off:3 Def:7),,,,
+0020201153,428,2,63,4,9:38 PM,3:14,MISS Davis 18' Fadeaway Jumper,,,,
+0020201153,429,4,0,4,9:38 PM,3:13,,,Weatherspoon REBOUND (Off:1 Def:5),,
+0020201153,430,6,2,4,9:38 PM,3:07,Parker S.FOUL (P2.T2),,,,
+0020201153,431,3,11,4,9:38 PM,3:07,,,Anderson Free Throw 1 of 2 (20 PTS),91 - 88,-3
+0020201153,432,3,12,4,9:38 PM,3:07,,,Anderson Free Throw 2 of 2 (21 PTS),92 - 88,-4
+0020201153,433,5,1,4,9:39 PM,2:55,Davis Bad Pass Turnover (P4.T15),,Anderson STEAL (1 STL),,
+0020201153,434,5,1,4,9:39 PM,2:41,Boozer STEAL (2 STL),,Thomas Bad Pass Turnover (P2.T12),,
+0020201153,435,9,1,4,9:39 PM,2:29,CAVALIERS Timeout: Regular (Full 4 Short 0),,,,
+0020201153,437,8,0,4,9:41 PM,2:29,,,SUB: Sprewell FOR Anderson,,
+0020201153,439,5,11,4,9:42 PM,2:16,CAVALIERS Turnover: Shot Clock (T#16),,,,
+0020201153,440,2,5,4,9:42 PM,2:05,Miles BLOCK (2 BLK),,MISS Houston 1' Layup,,
+0020201153,441,4,0,4,9:42 PM,2:02,Miles REBOUND (Off:4 Def:4),,,,
+0020201153,442,2,1,4,9:43 PM,1:41,MISS Parker 24' 3PT Jump Shot,,,,
+0020201153,443,4,0,4,9:43 PM,1:37,Davis REBOUND (Off:5 Def:3),,,,
+0020201153,444,1,42,4,9:43 PM,1:33,Davis 1' Driving Layup (33 PTS),,,92 - 90,-2
+0020201153,445,2,1,4,9:43 PM,1:19,,,MISS Houston 19' Jump Shot,,
+0020201153,446,4,0,4,9:43 PM,1:17,Boozer REBOUND (Off:1 Def:11),,,,
+0020201153,447,2,1,4,9:43 PM,1:07,MISS Miles 16' Jump Shot,,,,
+0020201153,448,4,0,4,9:43 PM,1:05,Ilgauskas REBOUND (Off:4 Def:7),,,,
+0020201153,449,2,5,4,9:43 PM,1:04,MISS Ilgauskas 1' Layup,,Williams BLOCK (1 BLK),,
+0020201153,450,4,0,4,9:43 PM,1:03,,,Weatherspoon REBOUND (Off:1 Def:6),,
+0020201153,451,5,10,4,9:44 PM,0:55,,,Knicks Turnover: 8 Second Violation (T#13),,
+0020201153,452,9,1,4,9:44 PM,0:55,CAVALIERS Timeout: Regular (Full 5 Short 0),,,,
+0020201153,457,2,1,4,9:46 PM,0:37,MISS Ilgauskas 9' Jump Shot,,,,
+0020201153,458,4,0,4,9:46 PM,0:33,,,Sprewell REBOUND (Off:0 Def:3),,
+0020201153,459,2,42,4,9:46 PM,0:15,,,MISS Williams 3' Driving Layup,,
+0020201153,460,4,0,4,9:46 PM,0:14,Ilgauskas REBOUND (Off:4 Def:8),,,,
+0020201153,461,2,1,4,9:47 PM,0:04,MISS Davis 14' Jump Shot,,Thomas BLOCK (1 BLK),,
+0020201153,462,4,0,4,9:47 PM,0:04,CAVALIERS Rebound,,,,
+0020201153,463,6,3,4,9:47 PM,0:04,,,Houston L.B.FOUL (P1.PN),,
+0020201153,464,3,11,4,9:47 PM,0:04,Boozer Free Throw 1 of 2 (16 PTS),,,92 - 91,-1
+0020201153,465,3,12,4,9:47 PM,0:04,Boozer Free Throw 2 of 2 (17 PTS),,,92 - 92,TIE
+0020201153,466,9,1,4,9:47 PM,0:04,,,Knicks Timeout: Regular (Reg.5 Short 1),,
+0020201153,468,8,0,4,9:49 PM,0:04,,,SUB: Ward FOR Williams,,
+0020201153,469,8,0,4,9:49 PM,0:04,SUB: Palacio FOR Ilgauskas,,,,
+0020201153,470,6,1,4,9:49 PM,0:02,Miles P.FOUL (P3.T3),,,,
+0020201153,471,2,1,4,9:50 PM,0:00,,,MISS Weatherspoon 14' Jump Shot,,
+0020201153,472,4,0,4,9:50 PM,0:00,,,Knicks Rebound,,
+0020201153,473,13,0,4,9:50 PM,0:00,,,,92 - 92,TIE
+0020201153,475,12,0,5,9:52 PM,5:00,,,,92 - 92,TIE
+0020201153,476,10,0,5,9:52 PM,5:00,Jump Ball Ilgauskas vs. Thomas: Tip to Parker,,,,
+0020201153,477,2,1,5,9:53 PM,4:40,MISS Boozer 17' Jump Shot,,,,
+0020201153,478,4,0,5,9:53 PM,4:37,,,Thomas REBOUND (Off:0 Def:3),,
+0020201153,479,2,1,5,9:53 PM,4:26,,,MISS Sprewell 17' Jump Shot,,
+0020201153,480,4,0,5,9:53 PM,4:25,Ilgauskas REBOUND (Off:4 Def:9),,,,
+0020201153,481,2,5,5,9:53 PM,4:08,MISS Davis  Layup,,,,
+0020201153,483,4,0,5,9:53 PM,4:06,Davis REBOUND (Off:6 Def:3),,,,
+0020201153,482,2,4,5,9:53 PM,4:06,MISS Davis 1' Tip Shot,,,,
+0020201153,485,4,0,5,9:53 PM,4:04,Davis REBOUND (Off:7 Def:3),,,,
+0020201153,484,2,4,5,9:53 PM,4:04,MISS Davis 1' Tip Shot,,,,
+0020201153,486,4,0,5,9:53 PM,4:02,Miles REBOUND (Off:5 Def:4),,,,
+0020201153,487,1,1,5,9:53 PM,4:01,Davis 13' Jump Shot (35 PTS) (Miles 4 AST),,,92 - 94,2
+0020201153,488,6,4,5,9:54 PM,3:50,,,Weatherspoon OFF.Foul (P3),,
+0020201153,489,5,5,5,9:54 PM,3:50,,,Weatherspoon Foul Turnover (P1.T14),,
+0020201153,490,6,2,5,9:54 PM,3:38,,,Thomas S.FOUL (P5.T1),,
+0020201153,491,3,11,5,9:54 PM,3:38,Ilgauskas Free Throw 1 of 2 (17 PTS),,,92 - 95,3
+0020201153,492,8,0,5,9:55 PM,3:38,,,SUB: Knight FOR Thomas,,
+0020201153,493,3,12,5,9:55 PM,3:38,MISS Ilgauskas Free Throw 2 of 2,,,,
+0020201153,494,4,0,5,9:55 PM,3:38,,,Knight REBOUND (Off:1 Def:6),,
+0020201153,495,2,1,5,9:55 PM,3:20,,,MISS Knight 18' Jump Shot,,
+0020201153,496,4,0,5,9:55 PM,3:19,Miles REBOUND (Off:5 Def:5),,,,
+0020201153,497,6,1,5,9:55 PM,3:01,,,Houston P.FOUL (P2.T2),,
+0020201153,498,1,1,5,9:56 PM,2:51,Ilgauskas 10' Jump Shot (19 PTS) (Boozer 4 AST),,,92 - 97,5
+0020201153,499,2,1,5,9:56 PM,2:31,,,MISS Houston 7' Jump Shot,,
+0020201153,501,4,0,5,9:56 PM,2:29,,,Weatherspoon REBOUND (Off:2 Def:6),,
+0020201153,500,2,4,5,9:56 PM,2:29,,,MISS Weatherspoon 1' Tip Shot,,
+0020201153,502,4,0,5,9:56 PM,2:26,Ilgauskas REBOUND (Off:4 Def:10),,,,
+0020201153,503,2,63,5,9:57 PM,2:09,MISS Davis 16' Fadeaway Jumper,,,,
+0020201153,504,4,0,5,9:57 PM,2:07,,,Knicks Rebound,,
+0020201153,505,6,1,5,9:57 PM,2:01,Parker P.FOUL (P3.T1),,,,
+0020201153,506,2,1,5,9:58 PM,1:47,,,MISS Knight 18' Jump Shot,,
+0020201153,507,4,0,5,9:58 PM,1:45,Parker REBOUND (Off:0 Def:2),,,,
+0020201153,509,6,2,5,9:58 PM,1:27,,,Knight S.FOUL (P5.T3),,
+0020201153,510,8,0,5,9:58 PM,1:27,,,SUB: Thomas FOR Knight,,
+0020201153,511,3,11,5,9:58 PM,1:27,MISS Ilgauskas Free Throw 1 of 2,,,,
+0020201153,512,4,1,5,9:58 PM,1:27,CAVALIERS Rebound,,,,
+0020201153,513,3,12,5,9:58 PM,1:27,Ilgauskas Free Throw 2 of 2 (20 PTS),,,92 - 98,6
+0020201153,514,2,1,5,9:59 PM,1:13,,,MISS Ward 25' 3PT Jump Shot,,
+0020201153,515,4,0,5,9:59 PM,1:11,Boozer REBOUND (Off:1 Def:12),,,,
+0020201153,517,2,43,5,9:59 PM,0:57,MISS Miles 2' Alley Oop Layup,,,,
+0020201153,518,4,0,5,9:59 PM,0:52,Boozer REBOUND (Off:2 Def:12),,,,
+0020201153,519,2,1,5,9:59 PM,0:47,MISS Miles 14' Jump Shot,,,,
+0020201153,520,4,0,5,9:59 PM,0:45,,,Houston REBOUND (Off:0 Def:3),,
+0020201153,521,5,1,5,9:59 PM,0:42,Miles STEAL (1 STL),,Houston Bad Pass Turnover (P2.T15),,
+0020201153,522,6,1,5,10:00 PM,0:38,,,Ward P.FOUL (P2.PN),,
+0020201153,523,9,1,5,10:00 PM,0:38,CAVALIERS Timeout: Regular (Full 6 Short 0),,,,
+0020201153,527,3,11,5,10:02 PM,0:38,Parker Free Throw 1 of 2 (3 PTS),,,92 - 99,7
+0020201153,528,3,12,5,10:02 PM,0:38,Parker Free Throw 2 of 2 (4 PTS),,,92 - 100,8
+0020201153,529,9,1,5,10:02 PM,0:38,,,Knicks Timeout: Regular (Reg.6 Short 1),,
+0020201153,533,1,1,5,10:04 PM,0:34,,,Thomas 20' Jump Shot (18 PTS) (Ward 6 AST),94 - 100,6
+0020201153,534,6,1,5,10:04 PM,0:33,,,Sprewell P.FOUL (P3.PN),,
+0020201153,535,3,11,5,10:04 PM,0:33,MISS Miles Free Throw 1 of 2,,,,
+0020201153,536,4,1,5,10:04 PM,0:33,CAVALIERS Rebound,,,,
+0020201153,537,3,12,5,10:05 PM,0:33,MISS Miles Free Throw 2 of 2,,,,
+0020201153,538,4,0,5,10:05 PM,0:33,,,Ward REBOUND (Off:0 Def:5),,
+0020201153,539,9,1,5,10:05 PM,0:33,,,Knicks Timeout: Regular (Reg.7 Short 1),,
+0020201153,543,8,0,5,10:07 PM,0:33,SUB: Palacio FOR Ilgauskas,,,,
+0020201153,544,6,1,5,10:07 PM,0:31,Palacio P.FOUL (P2.T2),,,,
+0020201153,545,1,5,5,10:08 PM,0:24,,,Thomas 1' Layup (20 PTS) (Houston 2 AST),96 - 100,4
+0020201153,546,6,1,5,10:08 PM,0:23,,,Houston P.FOUL (P3.PN),,
+0020201153,547,3,11,5,10:08 PM,0:23,Davis Free Throw 1 of 2 (36 PTS),,,96 - 101,5
+0020201153,548,3,12,5,10:08 PM,0:23,Davis Free Throw 2 of 2 (37 PTS),,,96 - 102,6
+0020201153,549,1,1,5,10:09 PM,0:12,,,Thomas 25' 3PT Jump Shot (23 PTS) (Ward 7 AST),99 - 102,3
+0020201153,550,6,1,5,10:09 PM,0:12,,,Ward P.FOUL (P3.PN),,
+0020201153,551,3,11,5,10:09 PM,0:12,Parker Free Throw 1 of 2 (5 PTS),,,99 - 103,4
+0020201153,552,3,12,5,10:10 PM,0:12,Parker Free Throw 2 of 2 (6 PTS),,,99 - 104,5
+0020201153,553,2,1,5,10:10 PM,0:06,,,MISS Houston 26' 3PT Jump Shot,,
+0020201153,554,4,0,5,10:10 PM,0:03,Davis REBOUND (Off:7 Def:4),,,,
+0020201153,555,13,0,5,10:10 PM,0:00,,,,99 - 104,5

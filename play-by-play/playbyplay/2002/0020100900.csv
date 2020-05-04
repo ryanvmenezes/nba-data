@@ -1,0 +1,458 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100900,0,12,0,1,7:12 PM,12:00,,,,,
+0020100900,1,10,0,1,7:12 PM,12:00,Jump Ball White vs. Potapenko: Tip to Laettner,,,,
+0020100900,2,5,1,1,7:13 PM,11:45,Alexander Bad Pass Turnover (P1.T1),,Walker STEAL (1 STL),,
+0020100900,3,1,5,1,7:13 PM,11:41,,,Pierce  Layup (2 PTS) (Walker 1 AST),2 - 0,-2
+0020100900,4,1,1,1,7:13 PM,11:17,Alexander 19' Jump Shot (2 PTS) (Whitney 1 AST),,,2 - 2,TIE
+0020100900,5,1,5,1,7:14 PM,10:58,,,Walker 3' Layup (2 PTS) (Delk 1 AST),4 - 2,-2
+0020100900,6,1,1,1,7:14 PM,10:39,Laettner 13' Jump Shot (2 PTS) (Hamilton 1 AST),,,4 - 4,TIE
+0020100900,7,1,1,1,7:14 PM,10:22,,,Delk 21' Jump Shot (2 PTS),6 - 4,-2
+0020100900,8,1,5,1,7:15 PM,10:03,Hamilton 1' Layup (2 PTS),,,6 - 6,TIE
+0020100900,9,6,2,1,7:15 PM,10:03,,,Delk S.FOUL (P1.T1),,
+0020100900,10,3,10,1,7:15 PM,10:03,Hamilton Free Throw 1 of 1 (3 PTS),,,6 - 7,1
+0020100900,11,1,1,1,7:15 PM,9:51,,,Delk 18' Jump Shot (4 PTS) (Potapenko 1 AST),8 - 7,-1
+0020100900,12,2,1,1,7:16 PM,9:33,MISS Hamilton 10' Jump Shot,,,,
+0020100900,13,4,0,1,7:16 PM,9:31,,,Walker REBOUND (Off:0 Def:1),,
+0020100900,14,1,1,1,7:16 PM,9:26,,,Anderson 15' Jump Shot (2 PTS) (Walker 2 AST),10 - 7,-3
+0020100900,15,1,8,1,7:16 PM,9:09,White 1' Slam Dunk (2 PTS) (Alexander 1 AST),,,10 - 9,-1
+0020100900,16,2,1,1,7:16 PM,8:51,White BLOCK (1 BLK),,MISS Potapenko 5' Jump Shot,,
+0020100900,17,4,0,1,7:16 PM,8:48,Hamilton REBOUND (Off:0 Def:1),,,,
+0020100900,18,6,2,1,7:17 PM,8:42,,,Anderson S.FOUL (P1.T2),,
+0020100900,19,3,11,1,7:17 PM,8:42,MISS White Free Throw 1 of 2,,,,
+0020100900,20,4,1,1,7:17 PM,8:42,WIZARDS Rebound,,,,
+0020100900,21,3,12,1,7:17 PM,8:42,White Free Throw 2 of 2 (3 PTS),,,10 - 10,TIE
+0020100900,22,2,1,1,7:17 PM,8:25,White BLOCK (2 BLK),,MISS Walker 4' Jump Shot,,
+0020100900,23,4,0,1,7:17 PM,8:22,,,Walker REBOUND (Off:1 Def:1),,
+0020100900,24,1,5,1,7:17 PM,8:21,,,Walker 2' Layup (4 PTS),12 - 10,-2
+0020100900,25,2,1,1,7:18 PM,8:11,MISS Hamilton 17' Jump Shot,,,,
+0020100900,26,4,0,1,7:18 PM,8:10,White REBOUND (Off:1 Def:0),,,,
+0020100900,27,2,5,1,7:18 PM,8:07,MISS White 2' Layup,,,,
+0020100900,28,4,0,1,7:18 PM,8:06,,,Potapenko REBOUND (Off:0 Def:1),,
+0020100900,29,5,1,1,7:18 PM,7:59,Alexander STEAL (1 STL),,Anderson Bad Pass Turnover (P1.T1),,
+0020100900,30,6,2,1,7:18 PM,7:56,,,Pierce S.FOUL (P1.T3),,
+0020100900,31,3,11,1,7:18 PM,7:56,Alexander Free Throw 1 of 2 (3 PTS),,,12 - 11,-1
+0020100900,32,3,12,1,7:18 PM,7:56,Alexander Free Throw 2 of 2 (4 PTS),,,12 - 12,TIE
+0020100900,33,2,1,1,7:19 PM,7:46,Laettner BLOCK (1 BLK),,MISS Walker 6' Jump Shot,,
+0020100900,34,4,0,1,7:19 PM,7:44,,,Walker REBOUND (Off:2 Def:1),,
+0020100900,35,1,5,1,7:19 PM,7:43,,,Walker  Layup (6 PTS),14 - 12,-2
+0020100900,36,9,1,1,7:19 PM,7:36,WIZARDS Timeout: Regular (Full 1 Short 0),,,,
+0020100900,38,2,1,1,7:21 PM,7:22,MISS Whitney 20' Jump Shot,,,,
+0020100900,39,4,0,1,7:21 PM,7:20,,,Celtics Rebound,,
+0020100900,40,5,1,1,7:22 PM,7:07,White STEAL (1 STL),,Pierce Bad Pass Turnover (P1.T2),,
+0020100900,41,1,1,1,7:22 PM,6:46,Alexander 16' Jump Shot (6 PTS),,,14 - 14,TIE
+0020100900,42,2,1,1,7:22 PM,6:28,,,MISS Delk 17' Jump Shot,,
+0020100900,43,4,0,1,7:22 PM,6:25,White REBOUND (Off:1 Def:1),,,,
+0020100900,44,1,42,1,7:23 PM,6:22,Hamilton 1' Driving Layup (5 PTS) (White 1 AST),,,14 - 16,2
+0020100900,45,2,1,1,7:23 PM,6:02,,,MISS Anderson 18' Jump Shot,,
+0020100900,46,4,0,1,7:23 PM,5:58,,,Anderson REBOUND (Off:1 Def:0),,
+0020100900,47,6,2,1,7:23 PM,5:58,White S.FOUL (P1.T1),,,,
+0020100900,48,3,11,1,7:23 PM,5:58,,,Anderson Free Throw 1 of 2 (3 PTS),15 - 16,1
+0020100900,49,8,0,1,7:24 PM,5:58,SUB: Brown FOR White,,,,
+0020100900,50,8,0,1,7:24 PM,5:58,,,SUB: McCarty FOR Delk,,
+0020100900,51,8,0,1,7:24 PM,5:58,,,SUB: Rogers FOR Potapenko,,
+0020100900,52,3,12,1,7:24 PM,5:58,,,Anderson Free Throw 2 of 2 (4 PTS),16 - 16,TIE
+0020100900,53,2,1,1,7:24 PM,5:45,MISS Hamilton 15' Jump Shot,,,,
+0020100900,54,4,0,1,7:24 PM,5:43,,,Pierce REBOUND (Off:0 Def:1),,
+0020100900,55,2,1,1,7:24 PM,5:34,,,MISS McCarty 12' Jump Shot,,
+0020100900,56,4,0,1,7:24 PM,5:32,,,Rogers REBOUND (Off:1 Def:0),,
+0020100900,57,2,5,1,7:24 PM,5:30,,,MISS Rogers 2' Layup,,
+0020100900,58,4,0,1,7:25 PM,5:28,,,McCarty REBOUND (Off:1 Def:0),,
+0020100900,59,2,1,1,7:25 PM,5:26,,,MISS Pierce 26' 3PT Jump Shot,,
+0020100900,60,4,0,1,7:25 PM,5:24,Whitney REBOUND (Off:0 Def:1),,,,
+0020100900,61,2,1,1,7:25 PM,5:12,MISS Hamilton 6' Jump Shot,,,,
+0020100900,62,4,0,1,7:25 PM,5:10,,,Pierce REBOUND (Off:0 Def:2),,
+0020100900,63,2,1,1,7:25 PM,5:03,,,MISS McCarty 25' 3PT Jump Shot,,
+0020100900,64,4,0,1,7:25 PM,5:01,Alexander REBOUND (Off:0 Def:1),,,,
+0020100900,65,6,1,1,7:25 PM,4:56,,,McCarty P.FOUL (P1.T4),,
+0020100900,66,8,0,1,7:25 PM,4:56,SUB: Lue FOR Whitney,,,,
+0020100900,67,2,1,1,7:26 PM,4:46,MISS Laettner 19' Jump Shot,,,,
+0020100900,68,4,0,1,7:26 PM,4:44,WIZARDS Rebound,,,,
+0020100900,69,2,1,1,7:26 PM,4:37,MISS Alexander 19' Jump Shot,,,,
+0020100900,70,4,0,1,7:26 PM,4:36,Brown REBOUND (Off:1 Def:0),,,,
+0020100900,71,1,5,1,7:26 PM,4:33,Laettner 1' Layup (4 PTS) (Brown 1 AST),,,16 - 18,2
+0020100900,72,2,1,1,7:27 PM,4:09,,,MISS Walker 25' 3PT Jump Shot,,
+0020100900,73,4,0,1,7:27 PM,4:09,WIZARDS Rebound,,,,
+0020100900,74,5,1,1,7:27 PM,3:49,Alexander Bad Pass Turnover (P2.T2),,McCarty STEAL (1 STL),,
+0020100900,75,5,1,1,7:27 PM,3:46,Hamilton STEAL (1 STL),,McCarty Bad Pass Turnover (P1.T3),,
+0020100900,76,1,1,1,7:27 PM,3:43,Hamilton 6' Jump Shot (7 PTS),,,16 - 20,4
+0020100900,77,2,1,1,7:28 PM,3:25,,,MISS Rogers 10' Jump Shot,,
+0020100900,78,4,0,1,7:28 PM,3:23,Laettner REBOUND (Off:0 Def:1),,,,
+0020100900,79,5,2,1,7:28 PM,3:14,Laettner Lost Ball Turnover (P1.T3),,Walker STEAL (2 STL),,
+0020100900,80,2,1,1,7:28 PM,3:07,,,MISS McCarty 20' Jump Shot,,
+0020100900,81,4,0,1,7:28 PM,3:05,Brown REBOUND (Off:1 Def:1),,,,
+0020100900,82,5,1,1,7:28 PM,3:03,Lue Bad Pass Turnover (P1.T4),,,,
+0020100900,83,2,1,1,7:29 PM,2:52,,,MISS Anderson 18' Jump Shot,,
+0020100900,84,4,0,1,7:29 PM,2:50,Laettner REBOUND (Off:0 Def:2),,,,
+0020100900,85,5,1,1,7:29 PM,2:42,Hamilton Bad Pass Turnover (P1.T5),,Rogers STEAL (1 STL),,
+0020100900,86,1,1,1,7:29 PM,2:30,,,Rogers 25' 3PT Jump Shot (3 PTS) (McCarty 1 AST),19 - 20,1
+0020100900,87,1,7,1,7:30 PM,2:03,Laettner 1' Dunk (6 PTS) (Hamilton 2 AST),,,19 - 22,3
+0020100900,88,9,1,1,7:30 PM,1:56,,,Celtics Timeout: Regular (Reg.1 Short 0),,
+0020100900,90,8,0,1,7:32 PM,1:56,,,SUB: Delk FOR McCarty,,
+0020100900,91,8,0,1,7:32 PM,1:56,,,SUB: Potapenko FOR Rogers,,
+0020100900,92,8,0,1,7:32 PM,1:56,,,SUB: Williams FOR Anderson,,
+0020100900,93,8,0,1,7:32 PM,1:56,SUB: Jones FOR Laettner,,,,
+0020100900,94,2,1,1,7:33 PM,1:47,,,MISS Walker  3PT Jump Shot,,
+0020100900,95,4,0,1,7:33 PM,1:44,Hamilton REBOUND (Off:0 Def:2),,,,
+0020100900,96,2,1,1,7:33 PM,1:37,MISS Brown 4' Jump Shot,,,,
+0020100900,97,4,0,1,7:33 PM,1:36,,,Walker REBOUND (Off:2 Def:2),,
+0020100900,98,5,2,1,7:33 PM,1:31,Brown STEAL (1 STL),,Walker Lost Ball Turnover (P1.T4),,
+0020100900,99,2,1,1,7:33 PM,1:17,MISS Hamilton 15' Jump Shot,,,,
+0020100900,100,4,0,1,7:33 PM,1:15,,,Pierce REBOUND (Off:0 Def:3),,
+0020100900,101,1,1,1,7:33 PM,1:08,,,Delk 26' 3PT Jump Shot (7 PTS),22 - 22,TIE
+0020100900,102,2,1,1,7:33 PM,0:51,MISS Jones 16' Jump Shot,,,,
+0020100900,103,4,0,1,7:33 PM,0:49,,,Potapenko REBOUND (Off:0 Def:2),,
+0020100900,104,1,1,1,7:34 PM,0:44,,,Pierce 25' 3PT Jump Shot (5 PTS) (Delk 2 AST),25 - 22,-3
+0020100900,105,1,1,1,7:34 PM,0:21,Alexander 16' Jump Shot (8 PTS),,,25 - 24,-1
+0020100900,106,6,1,1,7:34 PM,0:06,Lue P.FOUL (P1.T2),,,,
+0020100900,107,8,0,1,7:34 PM,0:06,SUB: Nesby FOR Hamilton,,,,
+0020100900,108,1,1,1,7:35 PM,0:00,,,Pierce 26' 3PT Jump Shot (8 PTS),28 - 24,-4
+0020100900,109,13,0,1,7:35 PM,0:00,,,,28 - 24,-4
+0020100900,111,12,0,2,7:38 PM,12:00,,,,28 - 24,-4
+0020100900,112,6,2,2,7:38 PM,11:44,Nesby S.FOUL (P1.T1),,,,
+0020100900,113,3,11,2,7:38 PM,11:44,,,Williams Free Throw 1 of 2 (1 PTS),29 - 24,-5
+0020100900,114,3,12,2,7:38 PM,11:44,,,Williams Free Throw 2 of 2 (2 PTS),30 - 24,-6
+0020100900,115,2,1,2,7:39 PM,11:24,MISS Lue 14' Jump Shot,,,,
+0020100900,116,4,0,2,7:39 PM,11:22,Nesby REBOUND (Off:1 Def:0),,,,
+0020100900,117,1,1,2,7:39 PM,11:18,Lue 26' 3PT Jump Shot (3 PTS) (Nesby 1 AST),,,30 - 27,-3
+0020100900,118,2,1,2,7:39 PM,11:08,,,MISS Pierce 18' Jump Shot,,
+0020100900,119,4,0,2,7:39 PM,11:06,Jones REBOUND (Off:0 Def:1),,,,
+0020100900,120,2,1,2,7:40 PM,11:00,MISS Jones 10' Jump Shot,,,,
+0020100900,121,4,0,2,7:40 PM,10:58,Nesby REBOUND (Off:2 Def:0),,,,
+0020100900,122,1,1,2,7:40 PM,10:53,Alexander 18' Jump Shot (10 PTS) (Lue 1 AST),,,30 - 29,-1
+0020100900,123,2,1,2,7:40 PM,10:33,,,MISS Rogers 15' Jump Shot,,
+0020100900,124,4,0,2,7:40 PM,10:31,,,Potapenko REBOUND (Off:1 Def:2),,
+0020100900,125,2,1,2,7:40 PM,10:26,,,MISS Williams 3' Jump Shot,,
+0020100900,126,4,0,2,7:40 PM,10:24,,,Rogers REBOUND (Off:2 Def:0),,
+0020100900,127,5,2,2,7:40 PM,10:23,,,Rogers Lost Ball Turnover (P1.T5),,
+0020100900,128,5,1,2,7:41 PM,10:11,Brown Bad Pass Turnover (P1.T6),,Rogers STEAL (2 STL),,
+0020100900,129,6,1,2,7:41 PM,10:11,Jones P.FOUL (P1.T2),,,,
+0020100900,130,8,0,2,7:41 PM,10:11,SUB: Haywood FOR Brown,,,,
+0020100900,131,8,0,2,7:41 PM,10:11,,,SUB: Anderson FOR Pierce,,
+0020100900,132,1,1,2,7:41 PM,10:00,,,Delk 25' 3PT Jump Shot (10 PTS) (Williams 1 AST),33 - 29,-4
+0020100900,133,1,1,2,7:42 PM,9:42,Jones 12' Jump Shot (2 PTS) (Lue 2 AST),,,33 - 31,-2
+0020100900,134,5,2,2,7:42 PM,9:34,Jones STEAL (1 STL),,Rogers Lost Ball Turnover (P2.T6),,
+0020100900,135,2,1,2,7:42 PM,9:26,MISS Nesby 19' Jump Shot,,,,
+0020100900,136,4,0,2,7:42 PM,9:25,Lue REBOUND (Off:1 Def:0),,,,
+0020100900,137,1,46,2,7:42 PM,9:23,Lue 8' Running Jump Shot (5 PTS),,,33 - 33,TIE
+0020100900,138,1,1,2,7:43 PM,9:02,,,Williams 10' Jump Shot (4 PTS),35 - 33,-2
+0020100900,139,2,1,2,7:43 PM,8:44,MISS Jones 8' Jump Shot,,,,
+0020100900,140,4,0,2,7:43 PM,8:43,WIZARDS Rebound,,,,
+0020100900,141,9,4,2,7:43 PM,8:42,,,,,
+0020100900,143,8,0,2,7:45 PM,8:42,,,SUB: Blount FOR Rogers,,
+0020100900,144,8,0,2,7:45 PM,8:42,,,SUB: Walker FOR Potapenko,,
+0020100900,145,5,1,2,7:46 PM,8:25,Alexander Bad Pass Turnover (P3.T7),,Anderson STEAL (1 STL),,
+0020100900,146,6,1,2,7:46 PM,8:25,Lue P.FOUL (P2.T3),,,,
+0020100900,147,6,1,2,7:46 PM,8:16,Jones P.FOUL (P2.T4),,,,
+0020100900,148,8,0,2,7:46 PM,8:16,SUB: Hamilton FOR Alexander,,,,
+0020100900,149,1,3,2,7:46 PM,8:01,,,Blount 5' Hook Shot (2 PTS) (Anderson 1 AST),37 - 33,-4
+0020100900,150,6,1,2,7:47 PM,7:48,,,Blount P.FOUL (P1.T1),,
+0020100900,151,1,1,2,7:47 PM,7:37,Nesby 20' Jump Shot (2 PTS),,,37 - 35,-2
+0020100900,152,2,1,2,7:47 PM,7:19,Haywood BLOCK (1 BLK),,MISS Walker 12' Jump Shot,,
+0020100900,153,4,0,2,7:47 PM,7:17,,,Walker REBOUND (Off:3 Def:2),,
+0020100900,154,5,1,2,7:48 PM,7:12,,,Walker Bad Pass Turnover (P2.T7),,
+0020100900,155,2,1,2,7:48 PM,6:57,MISS Lue 7' Jump Shot,,,,
+0020100900,156,4,0,2,7:48 PM,6:55,Nesby REBOUND (Off:3 Def:0),,,,
+0020100900,157,1,4,2,7:48 PM,6:53,Nesby 1' Tip Shot (4 PTS),,,37 - 37,TIE
+0020100900,158,5,2,2,7:48 PM,6:41,,,Blount Lost Ball Turnover (P1.T8),,
+0020100900,159,8,0,2,7:48 PM,6:41,SUB: Laettner FOR Jones,,,,
+0020100900,160,8,0,2,7:48 PM,6:41,,,SUB: Pierce FOR Williams,,
+0020100900,161,9,1,2,7:49 PM,6:38,WIZARDS Timeout: Regular (Full 2 Short 0),,,,
+0020100900,163,2,1,2,7:51 PM,6:23,MISS Hamilton 15' Jump Shot,,,,
+0020100900,164,4,0,2,7:51 PM,6:21,,,Anderson REBOUND (Off:1 Def:1),,
+0020100900,165,1,5,2,7:51 PM,6:15,,,Anderson  Layup (6 PTS),39 - 37,-2
+0020100900,166,6,2,2,7:51 PM,6:15,Haywood S.FOUL (P1.PN),,,,
+0020100900,167,3,10,2,7:51 PM,6:15,,,Anderson Free Throw 1 of 1 (7 PTS),40 - 37,-3
+0020100900,168,2,1,2,7:52 PM,5:58,MISS Nesby 26' 3PT Jump Shot,,,,
+0020100900,169,4,0,2,7:52 PM,5:56,,,Anderson REBOUND (Off:1 Def:2),,
+0020100900,170,2,5,2,7:52 PM,5:45,,,MISS Blount 2' Layup,,
+0020100900,171,4,0,2,7:52 PM,5:42,,,Walker REBOUND (Off:4 Def:2),,
+0020100900,172,1,5,2,7:52 PM,5:40,,,Walker 2' Layup (8 PTS),42 - 37,-5
+0020100900,173,6,2,2,7:52 PM,5:30,,,Blount S.FOUL (P2.T2),,
+0020100900,174,8,0,2,7:53 PM,5:30,SUB: White FOR Haywood,,,,
+0020100900,175,3,11,2,7:53 PM,5:30,Hamilton Free Throw 1 of 2 (8 PTS),,,42 - 38,-4
+0020100900,176,8,0,2,7:53 PM,5:30,,,SUB: Rogers FOR Blount,,
+0020100900,177,3,12,2,7:53 PM,5:30,Hamilton Free Throw 2 of 2 (9 PTS),,,42 - 39,-3
+0020100900,178,5,1,2,7:53 PM,5:13,,,Pierce Bad Pass Turnover (P2.T9),,
+0020100900,179,8,0,2,7:54 PM,5:13,SUB: Whitney FOR Lue,,,,
+0020100900,180,2,1,2,7:54 PM,4:56,MISS Nesby 21' Jump Shot,,,,
+0020100900,181,4,0,2,7:54 PM,4:54,,,Delk REBOUND (Off:0 Def:1),,
+0020100900,182,2,1,2,7:54 PM,4:47,,,MISS Delk 11' Jump Shot,,
+0020100900,183,4,0,2,7:54 PM,4:46,White REBOUND (Off:1 Def:2),,,,
+0020100900,184,1,5,2,7:54 PM,4:39,Hamilton 1' Layup (11 PTS) (Laettner 1 AST),,,42 - 41,-1
+0020100900,185,2,1,2,7:55 PM,4:18,,,MISS Walker 19' Jump Shot,,
+0020100900,186,4,0,2,7:55 PM,4:17,WIZARDS Rebound,,,,
+0020100900,187,2,1,2,7:55 PM,3:58,MISS Whitney 17' Jump Shot,,,,
+0020100900,188,4,0,2,7:55 PM,3:57,,,Walker REBOUND (Off:4 Def:3),,
+0020100900,189,6,1,2,7:55 PM,3:46,White P.FOUL (P2.PN),,,,
+0020100900,190,3,11,2,7:56 PM,3:46,,,Walker Free Throw 1 of 2 (9 PTS),43 - 41,-2
+0020100900,191,3,12,2,7:56 PM,3:46,,,Walker Free Throw 2 of 2 (10 PTS),44 - 41,-3
+0020100900,192,5,1,2,7:56 PM,3:31,Nesby Bad Pass Turnover (P1.T8),,,,
+0020100900,193,1,49,2,7:57 PM,3:14,,,Pierce 1' Driving Dunk (10 PTS),46 - 41,-5
+0020100900,194,6,2,2,7:57 PM,2:53,,,Rogers S.FOUL (P1.T3),,
+0020100900,196,9,1,2,7:58 PM,2:53,,,Celtics Timeout: Regular (Reg.2 Short 0),,
+0020100900,197,3,11,2,8:00 PM,2:53,White Free Throw 1 of 2 (4 PTS),,,46 - 42,-4
+0020100900,198,3,12,2,8:00 PM,2:53,White Free Throw 2 of 2 (5 PTS),,,46 - 43,-3
+0020100900,199,2,1,2,8:01 PM,2:33,,,MISS Pierce 20' Jump Shot,,
+0020100900,200,4,0,2,8:01 PM,2:31,White REBOUND (Off:1 Def:3),,,,
+0020100900,201,1,1,2,8:01 PM,2:12,Whitney 21' Jump Shot (2 PTS),,,46 - 45,-1
+0020100900,202,2,1,2,8:01 PM,1:55,,,MISS Anderson 5' Jump Shot,,
+0020100900,203,4,0,2,8:01 PM,1:53,Hamilton REBOUND (Off:0 Def:3),,,,
+0020100900,204,6,2,2,8:02 PM,1:42,,,Delk S.FOUL (P2.T4),,
+0020100900,205,3,11,2,8:02 PM,1:42,White Free Throw 1 of 2 (6 PTS),,,46 - 46,TIE
+0020100900,206,8,0,2,8:02 PM,1:42,,,SUB: Williams FOR Delk,,
+0020100900,207,3,12,2,8:02 PM,1:42,MISS White Free Throw 2 of 2,,,,
+0020100900,208,4,0,2,8:02 PM,1:41,,,Pierce REBOUND (Off:0 Def:4),,
+0020100900,209,6,2,2,8:03 PM,1:29,White S.FOUL (P3.PN),,,,
+0020100900,210,8,0,2,8:03 PM,1:29,SUB: Brown FOR White,,,,
+0020100900,211,3,11,2,8:03 PM,1:29,,,MISS Williams Free Throw 1 of 2,,
+0020100900,212,4,1,2,8:03 PM,1:29,,,Celtics Rebound,,
+0020100900,213,3,12,2,8:03 PM,1:29,,,MISS Williams Free Throw 2 of 2,,
+0020100900,214,4,0,2,8:04 PM,1:27,,,Rogers REBOUND (Off:3 Def:0),,
+0020100900,215,1,4,2,8:04 PM,1:25,,,Rogers 2' Tip Shot (5 PTS),48 - 46,-2
+0020100900,216,5,2,2,8:04 PM,1:10,Brown Lost Ball Turnover (P2.T9),,Rogers STEAL (3 STL),,
+0020100900,217,1,46,2,8:04 PM,1:02,,,Walker 10' Running Jump Shot (12 PTS) (Rogers 1 AST),50 - 46,-4
+0020100900,218,2,5,2,8:04 PM,0:36,MISS Hamilton 3' Layup,,,,
+0020100900,219,4,0,2,8:05 PM,0:34,Brown REBOUND (Off:2 Def:1),,,,
+0020100900,220,5,2,2,8:05 PM,0:30,Brown Lost Ball Turnover (P3.T10),,Williams STEAL (1 STL),,
+0020100900,221,1,5,2,8:05 PM,0:26,,,Pierce 2' Layup (12 PTS) (Walker 3 AST),52 - 46,-6
+0020100900,222,6,11,2,8:05 PM,0:20,,,,,
+0020100900,223,3,16,2,8:05 PM,0:20,,,Pierce Free Throw Technical (13 PTS),53 - 46,-7
+0020100900,224,9,2,2,8:06 PM,0:18,WIZARDS Timeout: Short (Full 2 Short 1),,,,
+0020100900,226,8,0,2,8:06 PM,0:18,,,SUB: Potapenko FOR Rogers,,
+0020100900,227,8,0,2,8:07 PM,0:18,SUB: Lue FOR Nesby,,,,
+0020100900,228,5,1,2,8:07 PM,0:01,Brown Bad Pass Turnover (P4.T11),,Potapenko STEAL (1 STL),,
+0020100900,229,2,1,2,8:07 PM,0:00,,,MISS Walker 29' 3PT Jump Shot,,
+0020100900,230,4,0,2,8:07 PM,0:00,,,Celtics Rebound,,
+0020100900,231,13,0,2,8:07 PM,0:00,,,,53 - 46,-7
+0020100900,234,12,0,3,8:23 PM,12:00,,,,53 - 46,-7
+0020100900,235,2,5,3,8:23 PM,11:44,White BLOCK (3 BLK),,MISS Potapenko 3' Layup,,
+0020100900,236,4,0,3,8:23 PM,11:41,White REBOUND (Off:1 Def:4),,,,
+0020100900,237,5,1,3,8:23 PM,11:41,White Bad Pass Turnover (P1.T12),,Pierce STEAL (1 STL),,
+0020100900,238,6,1,3,8:23 PM,11:41,Alexander P.FOUL (P1.T1),,,,
+0020100900,239,2,1,3,8:24 PM,11:24,,,MISS Walker 24' 3PT Jump Shot,,
+0020100900,240,4,0,3,8:24 PM,11:24,WIZARDS Rebound,,,,
+0020100900,241,6,3,3,8:24 PM,11:24,,,Potapenko L.B.FOUL (P1.T1),,
+0020100900,242,2,1,3,8:24 PM,11:04,MISS Whitney 27' 3PT Jump Shot,,,,
+0020100900,243,4,0,3,8:24 PM,11:01,Alexander REBOUND (Off:1 Def:1),,,,
+0020100900,244,5,2,3,8:24 PM,10:59,Alexander Lost Ball Turnover (P4.T13),,Delk STEAL (1 STL),,
+0020100900,245,2,5,3,8:25 PM,10:51,,,MISS Pierce 3' Layup,,
+0020100900,246,4,0,3,8:25 PM,10:49,White REBOUND (Off:1 Def:5),,,,
+0020100900,247,1,42,3,8:25 PM,10:44,Alexander 2' Driving Layup (12 PTS) (Whitney 2 AST),,,53 - 48,-5
+0020100900,248,1,1,3,8:25 PM,10:20,,,Delk 24' 3PT Jump Shot (13 PTS) (Pierce 1 AST),56 - 48,-8
+0020100900,249,1,1,3,8:26 PM,10:03,Whitney 21' Jump Shot (4 PTS) (Laettner 2 AST),,,56 - 50,-6
+0020100900,250,2,1,3,8:26 PM,9:43,,,MISS Anderson 25' 3PT Jump Shot,,
+0020100900,251,4,0,3,8:26 PM,9:41,,,Potapenko REBOUND (Off:2 Def:2),,
+0020100900,252,1,5,3,8:26 PM,9:36,,,Pierce 1' Layup (15 PTS) (Walker 4 AST),58 - 50,-8
+0020100900,253,2,1,3,8:26 PM,9:18,MISS Hamilton 13' Jump Shot,,,,
+0020100900,254,4,0,3,8:26 PM,9:16,,,Potapenko REBOUND (Off:2 Def:3),,
+0020100900,255,6,1,3,8:27 PM,9:10,Alexander P.FOUL (P2.T2),,,,
+0020100900,256,2,5,3,8:27 PM,8:57,,,MISS Pierce 1' Layup,,
+0020100900,257,4,0,3,8:27 PM,8:56,,,Pierce REBOUND (Off:1 Def:4),,
+0020100900,258,1,5,3,8:27 PM,8:55,,,Pierce 3' Layup (17 PTS),60 - 50,-10
+0020100900,259,9,1,3,8:27 PM,8:45,WIZARDS Timeout: Regular (Full 3 Short 1),,,,
+0020100900,261,2,1,3,8:29 PM,8:30,MISS Laettner 15' Jump Shot,,,,
+0020100900,262,4,0,3,8:29 PM,8:29,,,Walker REBOUND (Off:4 Def:4),,
+0020100900,263,1,44,3,8:29 PM,8:23,,,Walker 1' Reverse Layup (14 PTS),62 - 50,-12
+0020100900,264,6,2,3,8:30 PM,8:04,,,Pierce S.FOUL (P2.T2),,
+0020100900,265,3,11,3,8:30 PM,8:04,Hamilton Free Throw 1 of 2 (12 PTS),,,62 - 51,-11
+0020100900,266,3,12,3,8:30 PM,8:04,MISS Hamilton Free Throw 2 of 2,,,,
+0020100900,267,4,0,3,8:30 PM,8:03,,,Pierce REBOUND (Off:1 Def:5),,
+0020100900,268,6,4,3,8:31 PM,7:55,,,Anderson OFF.Foul (P2),,
+0020100900,269,5,5,3,8:31 PM,7:55,,,Anderson Foul Turnover (P2.T10),,
+0020100900,270,7,1,3,8:31 PM,7:55,,,Celtics Violation: Delay of game Violation,,
+0020100900,271,5,8,3,8:31 PM,7:44,White 3 Second Violation Turnover (P2.T14),,,,
+0020100900,272,2,1,3,8:31 PM,7:32,,,MISS Delk 25' 3PT Jump Shot,,
+0020100900,273,4,0,3,8:31 PM,7:30,White REBOUND (Off:1 Def:6),,,,
+0020100900,274,1,5,3,8:32 PM,7:27,Hamilton 1' Layup (14 PTS) (Whitney 3 AST),,,62 - 53,-9
+0020100900,275,1,5,3,8:32 PM,7:05,,,Pierce 2' Layup (19 PTS) (Anderson 2 AST),64 - 53,-11
+0020100900,276,1,5,3,8:32 PM,6:46,Hamilton 1' Layup (16 PTS) (Laettner 3 AST),,,64 - 55,-9
+0020100900,278,8,0,3,8:33 PM,6:33,,,SUB: Williams FOR Delk,,
+0020100900,340,10,0,3,8:33 PM,6:33,Jump Ball Laettner vs. Potapenko: Tip to Hamilton,,,,
+0020100900,294,5,1,3,8:33 PM,6:33,Laettner STEAL (1 STL),,Potapenko Bad Pass Turnover (P1.T11),,
+0020100900,307,5,2,3,8:33 PM,6:33,Hamilton Lost Ball Turnover (P2.T15),,,,
+0020100900,280,2,1,3,8:33 PM,6:23,Laettner BLOCK (2 BLK),,MISS Potapenko 6' Jump Shot,,
+0020100900,281,4,0,3,8:33 PM,6:23,WIZARDS Rebound,,,,
+0020100900,282,8,0,3,8:33 PM,6:23,SUB: Jones FOR Laettner,,,,
+0020100900,283,2,1,3,8:34 PM,6:19,MISS Hamilton 7' Jump Shot,,,,
+0020100900,284,4,0,3,8:34 PM,6:17,,,Potapenko REBOUND (Off:2 Def:4),,
+0020100900,285,2,1,3,8:34 PM,5:57,,,MISS Anderson 19' Jump Shot,,
+0020100900,286,4,0,3,8:34 PM,5:54,Hamilton REBOUND (Off:0 Def:4),,,,
+0020100900,287,6,2,3,8:34 PM,5:43,,,Pierce S.FOUL (P3.T3),,
+0020100900,288,3,11,3,8:35 PM,5:43,Alexander Free Throw 1 of 2 (13 PTS),,,64 - 56,-8
+0020100900,290,8,0,3,8:35 PM,5:43,,,SUB: Rogers FOR Potapenko,,
+0020100900,291,3,12,3,8:35 PM,5:43,Alexander Free Throw 2 of 2 (14 PTS),,,64 - 57,-7
+0020100900,292,2,1,3,8:36 PM,5:30,,,MISS Rogers 25' 3PT Jump Shot,,
+0020100900,293,4,0,3,8:36 PM,5:27,White REBOUND (Off:1 Def:7),,,,
+0020100900,295,1,3,3,8:36 PM,5:09,Jones 8' Hook Shot (4 PTS) (Hamilton 3 AST),,,64 - 59,-5
+0020100900,297,6,1,3,8:36 PM,4:53,Alexander P.FOUL (P3.T3),,,,
+0020100900,298,8,0,3,8:37 PM,4:53,,,SUB: Delk FOR Anderson,,
+0020100900,299,1,1,3,8:37 PM,4:45,,,Rogers 26' 3PT Jump Shot (8 PTS) (Pierce 2 AST),67 - 59,-8
+0020100900,300,6,4,3,8:37 PM,4:32,Whitney OFF.Foul (P1),,,,
+0020100900,301,5,5,3,8:37 PM,4:32,Whitney Foul Turnover (P1.T16),,,,
+0020100900,303,1,63,3,8:38 PM,4:21,,,Pierce 16' Fadeaway Jumper (21 PTS),69 - 59,-10
+0020100900,304,2,1,3,8:38 PM,4:03,MISS Jones 11' Jump Shot,,,,
+0020100900,305,4,0,3,8:38 PM,4:02,,,Pierce REBOUND (Off:1 Def:6),,
+0020100900,306,1,5,3,8:38 PM,3:56,,,Rogers 1' Layup (10 PTS) (Pierce 3 AST),71 - 59,-12
+0020100900,308,1,63,3,8:38 PM,3:32,Hamilton 12' Fadeaway Jumper (18 PTS) (Alexander 2 AST),,,71 - 61,-10
+0020100900,309,2,1,3,8:39 PM,3:11,,,MISS Rogers 25' 3PT Jump Shot,,
+0020100900,310,4,0,3,8:39 PM,3:10,WIZARDS Rebound,,,,
+0020100900,311,6,3,3,8:39 PM,3:10,,,Williams L.B.FOUL (P1.T4),,
+0020100900,312,8,0,3,8:39 PM,3:10,SUB: Brown FOR White,,,,
+0020100900,313,8,0,3,8:39 PM,3:10,SUB: Nesby FOR Alexander,,,,
+0020100900,314,8,0,3,8:39 PM,3:10,,,SUB: Potapenko FOR Walker,,
+0020100900,315,6,1,3,8:40 PM,2:57,,,Potapenko P.FOUL (P2.PN),,
+0020100900,316,9,1,3,8:40 PM,2:57,,,Celtics Timeout: Regular (Reg.3 Short 0),,
+0020100900,318,3,11,3,8:42 PM,2:57,Hamilton Free Throw 1 of 2 (19 PTS),,,71 - 62,-9
+0020100900,319,3,12,3,8:42 PM,2:57,Hamilton Free Throw 2 of 2 (20 PTS),,,71 - 63,-8
+0020100900,321,2,1,3,8:43 PM,2:35,,,MISS Pierce 26' 3PT Jump Shot,,
+0020100900,322,4,0,3,8:43 PM,2:33,Whitney REBOUND (Off:0 Def:2),,,,
+0020100900,324,8,0,3,8:43 PM,2:22,,,SUB: Anderson FOR Pierce,,
+0020100900,325,8,0,3,8:43 PM,2:22,,,SUB: Walker FOR Potapenko,,
+0020100900,323,10,0,3,8:43 PM,2:22,Jump Ball Hamilton vs. Rogers: Tip to Walker,,,,
+0020100900,336,5,0,3,8:43 PM,2:22,Hamilton No Turnover (P3.T17),,Rogers STEAL (4 STL),,
+0020100900,328,6,2,3,8:44 PM,2:10,Brown S.FOUL (P1.T4),,,,
+0020100900,330,3,11,3,8:44 PM,2:10,,,MISS Rogers Free Throw 1 of 2,,
+0020100900,331,4,1,3,8:44 PM,2:10,,,Celtics Rebound,,
+0020100900,332,3,12,3,8:44 PM,2:10,,,Rogers Free Throw 2 of 2 (11 PTS),72 - 63,-9
+0020100900,333,5,2,3,8:45 PM,1:51,Hamilton Lost Ball Turnover (P4.T18),,Delk STEAL (2 STL),,
+0020100900,334,6,2,3,8:45 PM,1:49,Hamilton S.FOUL (P1.PN),,,,
+0020100900,337,3,11,3,8:45 PM,1:49,,,Delk Free Throw 1 of 2 (14 PTS),73 - 63,-10
+0020100900,338,3,12,3,8:45 PM,1:49,,,Delk Free Throw 2 of 2 (15 PTS),74 - 63,-11
+0020100900,341,2,1,3,8:46 PM,1:32,MISS Nesby 20' Jump Shot,,,,
+0020100900,342,4,0,3,8:46 PM,1:32,Jones REBOUND (Off:1 Def:1),,,,
+0020100900,343,6,1,3,8:46 PM,1:32,,,Delk P.FOUL (P3.PN),,
+0020100900,344,3,11,3,8:46 PM,1:32,MISS Jones Free Throw 1 of 2,,,,
+0020100900,346,4,1,3,8:46 PM,1:32,WIZARDS Rebound,,,,
+0020100900,347,8,0,3,8:46 PM,1:32,SUB: Lue FOR Whitney,,,,
+0020100900,348,3,12,3,8:46 PM,1:32,Jones Free Throw 2 of 2 (5 PTS),,,74 - 64,-10
+0020100900,349,2,1,3,8:47 PM,1:15,,,MISS Walker 5' Jump Shot,,
+0020100900,350,4,0,3,8:47 PM,1:14,Brown REBOUND (Off:2 Def:2),,,,
+0020100900,351,1,1,3,8:47 PM,0:53,Hamilton 16' Jump Shot (22 PTS),,,74 - 66,-8
+0020100900,352,5,2,3,8:48 PM,0:42,,,Williams Lost Ball Turnover (P1.T12),,
+0020100900,353,6,1,3,8:48 PM,0:27,,,Williams P.FOUL (P2.PN),,
+0020100900,354,3,11,3,8:48 PM,0:27,Lue Free Throw 1 of 2 (6 PTS),,,74 - 67,-7
+0020100900,355,8,0,3,8:49 PM,0:27,SUB: Alexander FOR Hamilton,,,,
+0020100900,356,3,12,3,8:49 PM,0:27,Lue Free Throw 2 of 2 (7 PTS),,,74 - 68,-6
+0020100900,357,5,1,3,8:49 PM,0:05,,,Anderson Bad Pass Turnover (P3.T13),,
+0020100900,358,8,0,3,8:49 PM,0:05,SUB: Hamilton FOR Jones,,,,
+0020100900,359,8,0,3,8:50 PM,0:05,SUB: Whitney FOR Brown,,,,
+0020100900,360,8,0,3,8:50 PM,0:05,,,SUB: McCarty FOR Delk,,
+0020100900,361,1,8,3,8:50 PM,0:00,Nesby 1' Slam Dunk (6 PTS) (Lue 3 AST),,,74 - 70,-4
+0020100900,362,13,0,3,8:50 PM,0:00,,,,74 - 70,-4
+0020100900,364,12,0,4,8:53 PM,12:00,,,,74 - 70,-4
+0020100900,365,1,1,4,8:53 PM,11:47,Nesby 19' Jump Shot (8 PTS) (Laettner 4 AST),,,74 - 72,-2
+0020100900,366,5,1,4,8:53 PM,11:32,,,Walker Bad Pass Turnover (P3.T14),,
+0020100900,367,6,11,4,8:53 PM,11:32,,,Pierce T.FOUL (P3.T0),,
+0020100900,368,3,16,4,8:53 PM,11:32,MISS Alexander Free Throw Technical,,,,
+0020100900,369,4,1,4,8:53 PM,11:32,WIZARDS Rebound,,,,
+0020100900,370,2,1,4,8:54 PM,11:12,MISS Alexander 16' Jump Shot,,,,
+0020100900,371,4,0,4,8:54 PM,11:10,,,Rogers REBOUND (Off:3 Def:1),,
+0020100900,372,1,46,4,8:54 PM,11:01,,,Walker 7' Running Jump Shot (16 PTS),76 - 72,-4
+0020100900,373,2,5,4,8:55 PM,10:49,MISS Laettner 2' Layup,,,,
+0020100900,374,4,0,4,8:55 PM,10:48,,,McCarty REBOUND (Off:1 Def:1),,
+0020100900,375,1,1,4,8:55 PM,10:39,,,Pierce 26' 3PT Jump Shot (24 PTS) (Anderson 3 AST),79 - 72,-7
+0020100900,376,1,7,4,8:55 PM,10:17,Alexander 1' Dunk (16 PTS) (Lue 4 AST),,,79 - 74,-5
+0020100900,377,1,5,4,8:55 PM,9:58,,,Walker 2' Layup (18 PTS),81 - 74,-7
+0020100900,378,6,2,4,8:55 PM,9:58,Laettner S.FOUL (P1.T1),,,,
+0020100900,379,3,10,4,8:56 PM,9:58,,,Walker Free Throw 1 of 1 (19 PTS),82 - 74,-8
+0020100900,380,1,46,4,8:56 PM,9:37,Lue 14' Running Jump Shot (9 PTS),,,82 - 76,-6
+0020100900,381,1,1,4,8:57 PM,9:19,,,Pierce 26' 3PT Jump Shot (27 PTS) (Rogers 2 AST),85 - 76,-9
+0020100900,382,9,1,4,8:57 PM,9:09,WIZARDS Timeout: Regular (Full 4 Short 1),,,,
+0020100900,383,8,0,4,8:57 PM,9:09,SUB: Jones FOR Laettner,,,,
+0020100900,385,8,0,4,8:57 PM,9:09,,,SUB: Delk FOR Anderson,,
+0020100900,386,9,1,4,8:58 PM,9:09,WIZARDS Timeout: Regular (Full 5 Short 1),,,,
+0020100900,387,8,0,4,8:59 PM,9:09,,,SUB: Williams FOR McCarty,,
+0020100900,388,8,0,4,8:59 PM,9:09,,,SUB: Potapenko FOR Rogers,,
+0020100900,389,6,1,4,8:59 PM,8:55,,,Williams P.FOUL (P3.T1),,
+0020100900,390,8,0,4,9:00 PM,8:55,SUB: White FOR Brown,,,,
+0020100900,391,1,1,4,9:00 PM,8:50,Alexander 18' Jump Shot (18 PTS) (Lue 5 AST),,,85 - 78,-7
+0020100900,392,1,8,4,9:00 PM,8:28,,,Pierce 2' Slam Dunk (29 PTS) (Williams 2 AST),87 - 78,-9
+0020100900,393,6,4,4,9:00 PM,8:16,Jones OFF.Foul (P3),,,,
+0020100900,394,5,5,4,9:00 PM,8:16,Jones Foul Turnover (P1.T19),,,,
+0020100900,395,8,0,4,9:01 PM,8:16,SUB: Hamilton FOR Nesby,,,,
+0020100900,396,1,5,4,9:01 PM,8:02,,,Pierce 2' Layup (31 PTS) (Walker 5 AST),89 - 78,-11
+0020100900,397,1,1,4,9:01 PM,7:45,Hamilton 19' Jump Shot (24 PTS),,,89 - 80,-9
+0020100900,398,6,2,4,9:02 PM,7:29,Alexander S.FOUL (P4.T2),,,,
+0020100900,399,3,11,4,9:02 PM,7:29,,,Potapenko Free Throw 1 of 2 (1 PTS),90 - 80,-10
+0020100900,401,3,12,4,9:02 PM,7:29,,,MISS Potapenko Free Throw 2 of 2,,
+0020100900,402,4,0,4,9:03 PM,7:28,Alexander REBOUND (Off:1 Def:2),,,,
+0020100900,403,2,1,4,9:03 PM,7:09,MISS Lue 26' 3PT Jump Shot,,,,
+0020100900,404,4,0,4,9:03 PM,7:06,Hamilton REBOUND (Off:1 Def:4),,,,
+0020100900,405,2,1,4,9:03 PM,7:03,MISS Alexander 11' Jump Shot,,,,
+0020100900,406,4,0,4,9:03 PM,7:01,Jones REBOUND (Off:2 Def:1),,,,
+0020100900,407,2,5,4,9:03 PM,7:01,MISS Jones 3' Layup,,,,
+0020100900,408,4,0,4,9:03 PM,7:01,Alexander REBOUND (Off:2 Def:2),,,,
+0020100900,409,1,5,4,9:03 PM,7:01,Alexander 1' Layup (20 PTS),,,90 - 82,-8
+0020100900,410,6,2,4,9:03 PM,7:01,,,Walker S.FOUL (P1.T2),,
+0020100900,411,3,10,4,9:03 PM,7:01,Alexander Free Throw 1 of 1 (21 PTS),,,90 - 83,-7
+0020100900,412,5,1,4,9:04 PM,6:47,,,Williams Bad Pass Turnover (P2.T15),,
+0020100900,413,2,1,4,9:04 PM,6:25,MISS Jones 19' Jump Shot,,,,
+0020100900,414,4,0,4,9:04 PM,6:23,,,Pierce REBOUND (Off:1 Def:7),,
+0020100900,415,6,1,4,9:05 PM,6:07,Hamilton P.FOUL (P2.T3),,,,
+0020100900,416,2,1,4,9:05 PM,5:54,,,MISS Pierce 25' 3PT Jump Shot,,
+0020100900,417,4,0,4,9:05 PM,5:51,White REBOUND (Off:1 Def:8),,,,
+0020100900,418,5,1,4,9:06 PM,5:39,Hamilton Bad Pass Turnover (P5.T20),,Delk STEAL (3 STL),,
+0020100900,419,6,1,4,9:06 PM,5:37,Lue P.FOUL (P3.T4),,,,
+0020100900,420,9,4,4,9:06 PM,5:37,,,,,
+0020100900,422,5,2,4,9:08 PM,5:19,Lue STEAL (1 STL),,Williams Lost Ball Turnover (P3.T16),,
+0020100900,423,6,1,4,9:08 PM,5:19,,,Delk P.FOUL (P4.T3),,
+0020100900,424,2,1,4,9:09 PM,5:09,MISS Hamilton 12' Jump Shot,,,,
+0020100900,425,4,0,4,9:09 PM,5:08,,,Delk REBOUND (Off:0 Def:2),,
+0020100900,426,2,1,4,9:09 PM,4:52,,,MISS Delk 27' 3PT Jump Shot,,
+0020100900,427,4,0,4,9:09 PM,4:50,Hamilton REBOUND (Off:1 Def:5),,,,
+0020100900,428,6,2,4,9:09 PM,4:41,,,Williams S.FOUL (P4.T4),,
+0020100900,429,3,11,4,9:09 PM,4:41,Hamilton Free Throw 1 of 2 (25 PTS),,,90 - 84,-6
+0020100900,430,3,12,4,9:10 PM,4:41,Hamilton Free Throw 2 of 2 (26 PTS),,,90 - 85,-5
+0020100900,431,2,1,4,9:10 PM,4:27,,,MISS Pierce 24' 3PT Jump Shot,,
+0020100900,432,4,0,4,9:10 PM,4:25,Lue REBOUND (Off:1 Def:1),,,,
+0020100900,433,2,1,4,9:10 PM,4:22,MISS Alexander 18' Jump Shot,,,,
+0020100900,434,4,0,4,9:10 PM,4:21,,,Celtics Rebound,,
+0020100900,435,6,3,4,9:10 PM,4:21,Jones L.B.FOUL (P4.PN),,,,
+0020100900,436,3,11,4,9:11 PM,4:21,,,MISS Williams Free Throw 1 of 2,,
+0020100900,437,4,1,4,9:11 PM,4:21,,,Celtics Rebound,,
+0020100900,438,3,12,4,9:11 PM,4:21,,,MISS Williams Free Throw 2 of 2,,
+0020100900,439,4,0,4,9:11 PM,4:20,White REBOUND (Off:1 Def:9),,,,
+0020100900,440,1,1,4,9:11 PM,3:56,Hamilton 26' 3PT Jump Shot (29 PTS) (Lue 6 AST),,,90 - 88,-2
+0020100900,441,9,1,4,9:11 PM,3:53,,,Celtics Timeout: Regular (Reg.4 Short 0),,
+0020100900,443,8,0,4,9:13 PM,3:53,,,SUB: Anderson FOR Williams,,
+0020100900,444,1,41,4,9:14 PM,3:34,,,Pierce 2' Running Layup (33 PTS),92 - 88,-4
+0020100900,445,6,2,4,9:14 PM,3:34,Alexander S.FOUL (P5.PN),,,,
+0020100900,446,3,10,4,9:14 PM,3:34,,,Pierce Free Throw 1 of 1 (34 PTS),93 - 88,-5
+0020100900,447,1,1,4,9:15 PM,3:16,Jones 14' Jump Shot (7 PTS) (Hamilton 4 AST),,,93 - 90,-3
+0020100900,448,1,5,4,9:15 PM,2:54,,,Anderson  Layup (9 PTS) (Walker 6 AST),95 - 90,-5
+0020100900,450,6,2,4,9:16 PM,2:39,,,Walker S.FOUL (P2.PN),,
+0020100900,451,3,11,4,9:16 PM,2:39,MISS White Free Throw 1 of 2,,,,
+0020100900,452,4,1,4,9:16 PM,2:39,WIZARDS Rebound,,,,
+0020100900,453,3,12,4,9:16 PM,2:39,MISS White Free Throw 2 of 2,,,,
+0020100900,454,4,0,4,9:16 PM,2:38,,,Pierce REBOUND (Off:1 Def:8),,
+0020100900,455,1,1,4,9:17 PM,2:17,,,Delk 17' Jump Shot (17 PTS),97 - 90,-7
+0020100900,456,1,5,4,9:17 PM,1:57,Hamilton 2' Layup (31 PTS),,,97 - 92,-5
+0020100900,457,2,1,4,9:18 PM,1:41,,,MISS Delk 17' Jump Shot,,
+0020100900,458,4,0,4,9:18 PM,1:39,,,Potapenko REBOUND (Off:3 Def:4),,
+0020100900,459,1,1,4,9:18 PM,1:27,,,Anderson 18' Jump Shot (11 PTS) (Pierce 4 AST),99 - 92,-7
+0020100900,460,9,1,4,9:18 PM,1:27,WIZARDS Timeout: Regular (Full 6 Short 1),,,,
+0020100900,462,6,1,4,9:20 PM,1:22,,,Potapenko P.FOUL (P3.PN),,
+0020100900,463,3,11,4,9:20 PM,1:22,White Free Throw 1 of 2 (7 PTS),,,99 - 93,-6
+0020100900,464,3,12,4,9:20 PM,1:22,White Free Throw 2 of 2 (8 PTS),,,99 - 94,-5
+0020100900,465,5,1,4,9:21 PM,1:04,Hamilton STEAL (2 STL),,Pierce Bad Pass Turnover (P3.T17),,
+0020100900,466,5,2,4,9:21 PM,1:00,Hamilton Lost Ball Turnover (P6.T21),,,,
+0020100900,467,2,1,4,9:22 PM,0:36,,,MISS Walker 25' 3PT Jump Shot,,
+0020100900,468,4,0,4,9:22 PM,0:36,White REBOUND (Off:1 Def:10),,,,
+0020100900,469,6,1,4,9:22 PM,0:36,,,Potapenko P.FOUL (P4.PN),,
+0020100900,470,3,11,4,9:22 PM,0:36,MISS White Free Throw 1 of 2,,,,
+0020100900,471,4,1,4,9:22 PM,0:36,WIZARDS Rebound,,,,
+0020100900,472,3,12,4,9:22 PM,0:36,MISS White Free Throw 2 of 2,,,,
+0020100900,473,4,0,4,9:23 PM,0:34,Alexander REBOUND (Off:3 Def:2),,,,
+0020100900,474,1,5,4,9:23 PM,0:32,White 2' Layup (10 PTS),,,99 - 96,-3
+0020100900,475,1,1,4,9:23 PM,0:08,,,Pierce 26' 3PT Jump Shot (37 PTS),102 - 96,-6
+0020100900,476,9,1,4,9:23 PM,0:08,WIZARDS Timeout: Regular (Full 7 Short 1),,,,
+0020100900,478,8,0,4,9:25 PM,0:08,,,SUB: McCarty FOR Potapenko,,
+0020100900,479,8,0,4,9:25 PM,0:08,SUB: Whitney FOR White,,,,
+0020100900,480,1,1,4,9:25 PM,0:04,Alexander 25' 3PT Jump Shot (24 PTS) (Lue 7 AST),,,102 - 99,-3
+0020100900,481,6,1,4,9:25 PM,0:03,Lue P.FOUL (P4.PN),,,,
+0020100900,482,3,11,4,9:25 PM,0:03,,,Delk Free Throw 1 of 2 (18 PTS),103 - 99,-4
+0020100900,483,3,12,4,9:26 PM,0:03,,,Delk Free Throw 2 of 2 (19 PTS),104 - 99,-5
+0020100900,484,9,2,4,9:26 PM,0:03,WIZARDS Timeout: Short (Full 7 Short 2),,,,
+0020100900,486,2,1,4,9:27 PM,0:00,MISS Jones 26' 3PT Jump Shot,,,,
+0020100900,487,4,0,4,9:27 PM,0:00,WIZARDS Rebound,,,,
+0020100900,488,13,0,4,9:27 PM,0:00,,,,104 - 99,-5

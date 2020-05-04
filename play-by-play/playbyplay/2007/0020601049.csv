@@ -1,0 +1,418 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020601049,0,12,0,1,8:43 PM,12:00,,,,,
+0020601049,1,10,0,1,8:43 PM,12:00,Jump Ball Wallace vs. Aldridge: Tip to Brown,,,,
+0020601049,2,1,5,1,8:43 PM,11:46,Deng  Layup (2 PTS) (Hinrich 1 AST),,,0 - 2,2
+0020601049,3,1,1,1,8:43 PM,11:20,,,Jack 25' 3PT Jump Shot (3 PTS) (Randolph 1 AST),3 - 2,-1
+0020601049,4,2,1,1,8:44 PM,10:59,MISS Hinrich 14' Jump Shot,,,,
+0020601049,5,4,0,1,8:44 PM,10:57,,,Aldridge REBOUND (Off:0 Def:1),,
+0020601049,6,6,14,1,8:44 PM,10:54,Gordon FLAGRANT.FOUL.TYPE1 (P1.T1),,,,
+0020601049,7,3,18,1,8:44 PM,10:54,,,Webster Free Throw Flagrant 1 of 2 (1 PTS),4 - 2,-2
+0020601049,8,3,19,1,8:44 PM,10:54,,,Webster Free Throw Flagrant 2 of 2 (2 PTS),5 - 2,-3
+0020601049,9,2,1,1,8:45 PM,10:37,,,MISS Aldridge 17' Jump Shot,,
+0020601049,10,4,0,1,8:45 PM,10:35,Hinrich REBOUND (Off:0 Def:1),,,,
+0020601049,11,1,1,1,8:45 PM,10:27,Brown 16' Jump Shot (2 PTS) (Hinrich 2 AST),,,5 - 4,-1
+0020601049,12,5,8,1,8:46 PM,10:10,,,Randolph 3 Second Violation Turnover (P1.T1),,
+0020601049,13,1,1,1,8:46 PM,9:57,Gordon 15' Jump Shot (2 PTS),,,5 - 6,1
+0020601049,14,1,1,1,8:46 PM,9:43,,,Randolph 16' Jump Shot (2 PTS),7 - 6,-1
+0020601049,15,2,1,1,8:46 PM,9:25,MISS Gordon 17' Jump Shot,,,,
+0020601049,16,4,0,1,8:46 PM,9:22,,,Randolph REBOUND (Off:0 Def:1),,
+0020601049,17,6,1,1,8:47 PM,9:13,Brown P.FOUL (P1.T2),,,,
+0020601049,18,6,2,1,8:47 PM,9:05,Gordon S.FOUL (P2.T3),,,,
+0020601049,19,8,0,1,8:47 PM,9:05,SUB: Duhon FOR Gordon,,,,
+0020601049,20,3,11,1,8:47 PM,9:05,,,Randolph Free Throw 1 of 2 (3 PTS),8 - 6,-2
+0020601049,21,3,12,1,8:48 PM,9:05,,,MISS Randolph Free Throw 2 of 2,,
+0020601049,22,4,0,1,8:48 PM,9:03,Wallace REBOUND (Off:0 Def:1),,,,
+0020601049,23,1,1,1,8:48 PM,8:50,Deng 19' Jump Shot (4 PTS) (Hinrich 3 AST),,,8 - 8,TIE
+0020601049,25,1,1,1,8:48 PM,8:30,,,Randolph 18' Jump Shot (5 PTS),10 - 8,-2
+0020601049,26,2,1,1,8:49 PM,8:15,MISS Deng 18' Jump Shot,,,,
+0020601049,27,4,0,1,8:49 PM,8:13,,,Webster REBOUND (Off:0 Def:1),,
+0020601049,28,6,1,1,8:49 PM,7:57,Deng P.FOUL (P1.T4),,,,
+0020601049,29,3,11,1,8:49 PM,7:57,,,Jack Free Throw 1 of 2 (4 PTS),11 - 8,-3
+0020601049,30,3,12,1,8:49 PM,7:57,,,Jack Free Throw 2 of 2 (5 PTS),12 - 8,-4
+0020601049,31,6,1,1,8:50 PM,7:51,,,Jack P.FOUL (P1.T1),,
+0020601049,32,2,1,1,8:50 PM,7:43,MISS Deng 18' Jump Shot,,,,
+0020601049,33,4,0,1,8:50 PM,7:41,,,Randolph REBOUND (Off:0 Def:2),,
+0020601049,34,1,1,1,8:50 PM,7:23,,,Aldridge 5' Jump Shot (2 PTS) (Jack 1 AST),14 - 8,-6
+0020601049,35,5,2,1,8:51 PM,7:07,Hinrich Lost Ball Turnover (P1.T1),,Jack STEAL (1 STL),,
+0020601049,36,1,5,1,8:51 PM,7:01,,,Aldridge  Layup (4 PTS) (Jack 2 AST),16 - 8,-8
+0020601049,37,9,1,1,8:51 PM,7:00,BULLS Timeout: Regular (Full 1 Short 0),,,,
+0020601049,39,1,5,1,8:54 PM,6:49,Wallace  Layup (2 PTS) (Hinrich 4 AST),,,16 - 10,-6
+0020601049,40,6,2,1,8:54 PM,6:49,,,Aldridge S.FOUL (P1.T2),,
+0020601049,41,3,10,1,8:54 PM,6:49,Wallace Free Throw 1 of 1 (3 PTS),,,16 - 11,-5
+0020601049,42,2,1,1,8:55 PM,6:27,Hinrich BLOCK (1 BLK),,MISS Randolph 14' Jump Shot,,
+0020601049,43,4,0,1,8:55 PM,6:27,,,Trail Blazers Rebound,,
+0020601049,44,5,1,1,8:55 PM,6:23,Hinrich STEAL (1 STL),,Udoka Bad Pass Turnover (P1.T2),,
+0020601049,45,1,5,1,8:55 PM,6:19,Deng  Layup (6 PTS) (Hinrich 5 AST),,,16 - 13,-3
+0020601049,46,1,5,1,8:55 PM,6:00,,,Aldridge  Layup (6 PTS) (Jack 3 AST),18 - 13,-5
+0020601049,47,5,1,1,8:56 PM,5:43,Deng Bad Pass Turnover (P1.T2),,Aldridge STEAL (1 STL),,
+0020601049,48,1,5,1,8:56 PM,5:37,,,Aldridge  Layup (8 PTS) (Jack 4 AST),20 - 13,-7
+0020601049,50,1,1,1,8:56 PM,5:21,Hinrich 26' 3PT Jump Shot (3 PTS),,,20 - 16,-4
+0020601049,51,6,1,1,8:56 PM,5:13,Brown P.FOUL (P2.PN),,,,
+0020601049,52,8,0,1,8:56 PM,5:13,SUB: Allen FOR Wallace,,,,
+0020601049,53,8,0,1,8:57 PM,5:13,SUB: Thomas FOR Brown,,,,
+0020601049,54,3,11,1,8:57 PM,5:13,,,Randolph Free Throw 1 of 2 (6 PTS),21 - 16,-5
+0020601049,55,3,12,1,8:57 PM,5:13,,,Randolph Free Throw 2 of 2 (7 PTS),22 - 16,-6
+0020601049,56,6,1,1,8:57 PM,5:04,,,Webster P.FOUL (P1.T3),,
+0020601049,57,6,1,1,8:58 PM,4:59,,,Jack P.FOUL (P2.T4),,
+0020601049,58,8,0,1,8:58 PM,4:59,,,SUB: Rodriguez FOR Jack,,
+0020601049,59,2,47,1,8:58 PM,4:47,MISS Allen 13' Turnaround Jump Shot,,,,
+0020601049,60,4,0,1,8:58 PM,4:45,,,Randolph REBOUND (Off:0 Def:3),,
+0020601049,61,6,4,1,8:59 PM,4:32,,,Randolph OFF.Foul (P1),,
+0020601049,62,5,5,1,8:59 PM,4:32,,,Randolph Foul Turnover (P2.T3),,
+0020601049,63,1,7,1,8:59 PM,4:14,Deng  Dunk (8 PTS) (Hinrich 6 AST),,,22 - 18,-4
+0020601049,64,6,4,1,9:00 PM,3:53,,,Randolph OFF.Foul (P2),,
+0020601049,65,5,5,1,9:00 PM,3:53,,,Randolph Foul Turnover (P3.T4),,
+0020601049,66,6,11,1,9:00 PM,3:53,,,Randolph T.FOUL (P2.T4),,
+0020601049,67,8,0,1,9:01 PM,3:53,,,SUB: Outlaw FOR Randolph,,
+0020601049,68,3,16,1,9:01 PM,3:53,Hinrich Free Throw Technical (4 PTS),,,22 - 19,-3
+0020601049,69,5,2,1,9:01 PM,3:37,Allen Lost Ball Turnover (P1.T3),,Rodriguez STEAL (1 STL),,
+0020601049,70,6,1,1,9:01 PM,3:36,Hinrich P.FOUL (P1.PN),,,,
+0020601049,71,3,11,1,9:02 PM,3:36,,,Rodriguez Free Throw 1 of 2 (1 PTS),23 - 19,-4
+0020601049,72,8,0,1,9:02 PM,3:36,SUB: Sefolosha FOR Hinrich,,,,
+0020601049,73,8,0,1,9:02 PM,3:36,,,SUB: Jones FOR Webster,,
+0020601049,74,3,12,1,9:02 PM,3:36,,,MISS Rodriguez Free Throw 2 of 2,,
+0020601049,75,4,0,1,9:02 PM,3:33,Deng REBOUND (Off:0 Def:1),,,,
+0020601049,76,1,1,1,9:02 PM,3:20,Deng 12' Jump Shot (10 PTS) (Thomas 1 AST),,,23 - 21,-2
+0020601049,77,1,63,1,9:03 PM,2:56,,,Aldridge 12' Fadeaway Jumper (10 PTS),25 - 21,-4
+0020601049,78,2,1,1,9:03 PM,2:30,MISS Duhon 25' 3PT Jump Shot,,,,
+0020601049,79,4,0,1,9:03 PM,2:27,,,Jones REBOUND (Off:0 Def:1),,
+0020601049,80,6,1,1,9:03 PM,2:18,Sefolosha P.FOUL (P1.PN),,,,
+0020601049,82,9,1,1,9:03 PM,2:18,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,
+0020601049,84,8,0,1,9:06 PM,2:18,,,SUB: Magloire FOR Aldridge,,
+0020601049,85,8,0,1,9:06 PM,2:18,SUB: Wallace FOR Allen,,,,
+0020601049,86,8,0,1,9:06 PM,2:18,SUB: Griffin FOR Thomas,,,,
+0020601049,87,3,11,1,9:06 PM,2:18,,,Jones Free Throw 1 of 2 (1 PTS),26 - 21,-5
+0020601049,88,3,12,1,9:06 PM,2:18,,,Jones Free Throw 2 of 2 (2 PTS),27 - 21,-6
+0020601049,89,2,1,1,9:07 PM,1:55,MISS Wallace 13' Jump Shot,,,,
+0020601049,90,4,0,1,9:07 PM,1:51,,,Outlaw REBOUND (Off:0 Def:1),,
+0020601049,91,2,1,1,9:07 PM,1:38,,,MISS Outlaw 19' Jump Shot,,
+0020601049,92,4,0,1,9:07 PM,1:36,Sefolosha REBOUND (Off:0 Def:1),,,,
+0020601049,93,1,1,1,9:07 PM,1:30,Deng 20' Jump Shot (12 PTS) (Duhon 1 AST),,,27 - 23,-4
+0020601049,94,5,40,1,9:07 PM,1:25,,,Rodriguez Out of Bounds Lost Ball Turnover (P1.T5),,
+0020601049,96,2,63,1,9:08 PM,1:10,MISS Wallace 7' Fadeaway Jumper,,,,
+0020601049,97,4,0,1,9:08 PM,1:08,,,Outlaw REBOUND (Off:0 Def:2),,
+0020601049,98,6,2,1,9:09 PM,0:59,Sefolosha S.FOUL (P2.PN),,,,
+0020601049,99,3,11,1,9:09 PM,0:59,,,Rodriguez Free Throw 1 of 2 (2 PTS),28 - 23,-5
+0020601049,100,3,12,1,9:09 PM,0:59,,,Rodriguez Free Throw 2 of 2 (3 PTS),29 - 23,-6
+0020601049,101,5,7,1,9:09 PM,0:52,Sefolosha Discontinue Dribble Turnover (P1.T4),,,,
+0020601049,102,6,1,1,9:09 PM,0:45,Duhon P.FOUL (P1.PN),,,,
+0020601049,103,3,11,1,9:10 PM,0:45,,,Rodriguez Free Throw 1 of 2 (4 PTS),30 - 23,-7
+0020601049,104,3,12,1,9:10 PM,0:45,,,Rodriguez Free Throw 2 of 2 (5 PTS),31 - 23,-8
+0020601049,105,2,5,1,9:10 PM,0:31,MISS Sefolosha  Layup,,,,
+0020601049,107,4,0,1,9:10 PM,0:31,Sefolosha REBOUND (Off:1 Def:1),,,,
+0020601049,106,1,4,1,9:10 PM,0:31,Sefolosha  Tip Shot (2 PTS),,,31 - 25,-6
+0020601049,108,6,2,1,9:10 PM,0:31,,,Udoka S.FOUL (P1.PN),,
+0020601049,109,3,10,1,9:10 PM,0:31,MISS Sefolosha Free Throw 1 of 1,,,,
+0020601049,110,4,0,1,9:11 PM,0:30,Wallace REBOUND (Off:1 Def:1),,,,
+0020601049,112,5,2,1,9:11 PM,0:12,Duhon Lost Ball Turnover (P1.T5),,Magloire STEAL (1 STL),,
+0020601049,113,5,1,1,9:11 PM,0:09,Wallace STEAL (1 STL),,Magloire Bad Pass Turnover (P1.T6),,
+0020601049,114,2,1,1,9:11 PM,0:07,MISS Griffin 20' Jump Shot,,,,
+0020601049,115,4,0,1,9:11 PM,0:04,,,Udoka REBOUND (Off:0 Def:1),,
+0020601049,116,6,1,1,9:11 PM,0:04,Griffin P.FOUL (P1.PN),,,,
+0020601049,117,3,11,1,9:12 PM,0:04,,,MISS Udoka Free Throw 1 of 2,,
+0020601049,118,4,1,1,9:12 PM,0:04,,,Trail Blazers Rebound,,
+0020601049,119,3,12,1,9:12 PM,0:04,,,MISS Udoka Free Throw 2 of 2,,
+0020601049,120,4,0,1,9:12 PM,0:02,Wallace REBOUND (Off:1 Def:2),,,,
+0020601049,122,2,1,1,9:12 PM,0:00,MISS Griffin 46' 3PT Jump Shot,,,,
+0020601049,124,4,0,1,9:12 PM,0:00,BULLS Rebound,,,,
+0020601049,123,13,0,1,9:12 PM,0:00,,,,31 - 25,-6
+0020601049,126,12,0,2,9:15 PM,12:00,,,,31 - 25,-6
+0020601049,127,8,0,2,9:16 PM,11:48,,,SUB: Webster FOR Udoka,,
+0020601049,128,1,1,2,9:16 PM,11:42,,,Rodriguez 20' Jump Shot (7 PTS),33 - 25,-8
+0020601049,129,2,1,2,9:16 PM,11:23,MISS Deng 10' Jump Shot,,Outlaw BLOCK (1 BLK),,
+0020601049,130,4,0,2,9:16 PM,11:20,,,Rodriguez REBOUND (Off:0 Def:1),,
+0020601049,131,5,1,2,9:17 PM,11:17,Deng STEAL (1 STL),,Rodriguez Bad Pass Turnover (P2.T7),,
+0020601049,132,1,52,2,9:17 PM,11:13,Deng  Alley Oop Dunk (14 PTS) (Hinrich 7 AST),,,33 - 27,-6
+0020601049,133,8,0,2,9:17 PM,10:54,,,SUB: Jack FOR Rodriguez,,
+0020601049,134,5,11,2,9:17 PM,10:45,,,Trail Blazers Turnover: Shot Clock (T#8),,
+0020601049,135,2,1,2,9:18 PM,10:33,MISS Hinrich 24' 3PT Jump Shot,,,,
+0020601049,136,4,0,2,9:18 PM,10:30,Gordon REBOUND (Off:1 Def:0),,,,
+0020601049,137,8,0,2,9:18 PM,10:19,SUB: Thomas FOR Deng,,,,
+0020601049,138,2,1,2,9:18 PM,10:10,MISS Gordon 19' Jump Shot,,,,
+0020601049,139,4,0,2,9:19 PM,10:08,Griffin REBOUND (Off:1 Def:0),,,,
+0020601049,140,1,1,2,9:19 PM,10:03,Griffin 6' Jump Shot (2 PTS) (Hinrich 8 AST),,,33 - 29,-4
+0020601049,141,2,3,2,9:19 PM,9:37,,,MISS Magloire 7' Hook Shot,,
+0020601049,142,4,0,2,9:19 PM,9:35,Thomas REBOUND (Off:0 Def:1),,,,
+0020601049,143,2,46,2,9:19 PM,9:10,MISS Hinrich 8' Running Jump Shot,,,,
+0020601049,144,4,0,2,9:20 PM,9:08,,,Magloire REBOUND (Off:0 Def:1),,
+0020601049,145,2,1,2,9:20 PM,8:47,Thomas BLOCK (1 BLK),,MISS Magloire 7' Jump Shot,,
+0020601049,146,4,0,2,9:20 PM,8:44,Gordon REBOUND (Off:1 Def:1),,,,
+0020601049,147,1,41,2,9:20 PM,8:41,Gordon  Running Layup (4 PTS),,,33 - 31,-2
+0020601049,148,2,1,2,9:21 PM,8:19,,,MISS Jones  3PT Jump Shot,,
+0020601049,149,4,0,2,9:21 PM,8:16,Wallace REBOUND (Off:1 Def:3),,,,
+0020601049,150,5,1,2,9:21 PM,8:15,Wallace Bad Pass Turnover (P1.T6),,Jones STEAL (1 STL),,
+0020601049,151,9,1,2,9:21 PM,8:12,,,Trail Blazers Timeout: Regular (Reg.2 Short 0),,
+0020601049,153,8,0,2,9:23 PM,8:12,,,SUB: Randolph FOR Outlaw,,
+0020601049,155,7,2,2,9:23 PM,8:04,Thomas Violation:Defensive Goaltending,,,,
+0020601049,154,1,5,2,9:23 PM,8:04,,,Magloire  Layup (2 PTS) (Randolph 2 AST),35 - 31,-4
+0020601049,156,2,1,2,9:24 PM,7:49,MISS Gordon 26' 3PT Jump Shot,,,,
+0020601049,157,4,0,2,9:24 PM,7:47,,,Jones REBOUND (Off:0 Def:2),,
+0020601049,158,1,1,2,9:24 PM,7:36,,,Webster 22' Jump Shot (4 PTS) (Jones 1 AST),37 - 31,-6
+0020601049,159,5,2,2,9:24 PM,7:21,Gordon Lost Ball Turnover (P1.T7),,Randolph STEAL (1 STL),,
+0020601049,160,5,4,2,9:25 PM,7:01,,,Randolph Traveling Turnover (P4.T9),,
+0020601049,161,8,0,2,9:25 PM,7:01,SUB: Deng FOR Griffin,,,,
+0020601049,162,1,1,2,9:25 PM,6:39,Hinrich 25' 3PT Jump Shot (7 PTS) (Gordon 1 AST),,,37 - 34,-3
+0020601049,163,6,17,2,9:26 PM,6:27,BULLS T.Foul (Def. 3 Sec Thomas ),,,,
+0020601049,164,3,16,2,9:26 PM,6:27,,,Randolph Free Throw Technical (8 PTS),38 - 34,-4
+0020601049,166,5,4,2,9:26 PM,6:20,,,Randolph Traveling Turnover (P5.T10),,
+0020601049,167,2,1,2,9:27 PM,5:55,MISS Hinrich 25' 3PT Jump Shot,,,,
+0020601049,168,4,0,2,9:27 PM,5:53,,,Randolph REBOUND (Off:0 Def:4),,
+0020601049,169,2,1,2,9:27 PM,5:47,,,MISS Webster 24' 3PT Jump Shot,,
+0020601049,170,4,0,2,9:27 PM,5:45,,,Jones REBOUND (Off:1 Def:2),,
+0020601049,171,5,4,2,9:27 PM,5:29,,,Jack Traveling Turnover (P1.T11),,
+0020601049,172,9,1,2,9:27 PM,5:29,,,,,
+0020601049,174,1,1,2,9:30 PM,5:14,Deng 14' Jump Shot (16 PTS) (Thomas 2 AST),,,38 - 36,-2
+0020601049,175,2,1,2,9:30 PM,4:58,,,MISS Webster 12' Jump Shot,,
+0020601049,177,4,0,2,9:30 PM,4:55,,,Webster REBOUND (Off:1 Def:1),,
+0020601049,176,2,4,2,9:30 PM,4:55,,,MISS Webster  Tip Shot,,
+0020601049,178,4,0,2,9:30 PM,4:54,Wallace REBOUND (Off:1 Def:4),,,,
+0020601049,179,2,5,2,9:30 PM,4:44,MISS Thomas  Layup,,Jones BLOCK (1 BLK),,
+0020601049,180,4,0,2,9:30 PM,4:43,Wallace REBOUND (Off:2 Def:4),,,,
+0020601049,181,5,1,2,9:31 PM,4:43,Wallace Bad Pass Turnover (P2.T8),,,,
+0020601049,182,8,0,2,9:31 PM,4:43,,,SUB: Aldridge FOR Webster,,
+0020601049,183,8,0,2,9:31 PM,4:43,,,SUB: Outlaw FOR Magloire,,
+0020601049,184,2,1,2,9:31 PM,4:23,,,MISS Randolph 18' Jump Shot,,
+0020601049,185,4,0,2,9:31 PM,4:21,Thomas REBOUND (Off:0 Def:2),,,,
+0020601049,186,2,1,2,9:31 PM,4:15,MISS Gordon 24' 3PT Jump Shot,,,,
+0020601049,187,4,0,2,9:31 PM,4:13,,,Outlaw REBOUND (Off:0 Def:3),,
+0020601049,188,2,1,2,9:32 PM,4:00,,,MISS Aldridge 20' Jump Shot,,
+0020601049,189,4,0,2,9:32 PM,3:56,Hinrich REBOUND (Off:0 Def:2),,,,
+0020601049,190,1,7,2,9:32 PM,3:45,Deng  Dunk (18 PTS) (Wallace 1 AST),,,38 - 38,TIE
+0020601049,191,1,47,2,9:32 PM,3:22,,,Aldridge 11' Turnaround Jump Shot (12 PTS) (Jack 5 AST),40 - 38,-2
+0020601049,192,2,46,2,9:32 PM,3:07,MISS Hinrich 11' Running Jump Shot,,,,
+0020601049,193,4,0,2,9:32 PM,3:05,Wallace REBOUND (Off:3 Def:4),,,,
+0020601049,194,2,1,2,9:33 PM,2:55,MISS Thomas 13' Jump Shot,,,,
+0020601049,195,4,0,2,9:33 PM,2:53,,,Jack REBOUND (Off:0 Def:1),,
+0020601049,196,6,2,2,9:33 PM,2:42,Wallace S.FOUL (P1.T1),,,,
+0020601049,197,9,1,2,9:33 PM,2:42,BULLS Timeout: Regular (Full 2 Short 0),,,,
+0020601049,199,8,0,2,9:35 PM,2:42,,,SUB: Webster FOR Jones,,
+0020601049,200,8,0,2,9:35 PM,2:42,SUB: Brown FOR Gordon,,,,
+0020601049,201,8,0,2,9:35 PM,2:42,SUB: Duhon FOR Thomas,,,,
+0020601049,202,3,11,2,9:36 PM,2:42,,,Randolph Free Throw 1 of 2 (9 PTS),41 - 38,-3
+0020601049,203,3,12,2,9:36 PM,2:42,,,Randolph Free Throw 2 of 2 (10 PTS),42 - 38,-4
+0020601049,204,2,1,2,9:36 PM,2:27,MISS Hinrich 24' 3PT Jump Shot,,,,
+0020601049,205,4,0,2,9:36 PM,2:25,,,Jack REBOUND (Off:0 Def:2),,
+0020601049,206,2,1,2,9:37 PM,2:04,,,MISS Outlaw 21' Jump Shot,,
+0020601049,207,4,0,2,9:37 PM,2:02,Hinrich REBOUND (Off:0 Def:3),,,,
+0020601049,208,1,1,2,9:37 PM,1:47,Hinrich 21' Jump Shot (9 PTS) (Duhon 2 AST),,,42 - 40,-2
+0020601049,209,5,1,2,9:37 PM,1:22,Hinrich STEAL (2 STL),,Aldridge Bad Pass Turnover (P1.T12),,
+0020601049,210,2,1,2,9:37 PM,1:10,MISS Deng 20' Jump Shot,,,,
+0020601049,211,4,0,2,9:38 PM,1:08,,,Aldridge REBOUND (Off:0 Def:2),,
+0020601049,212,2,1,2,9:38 PM,0:51,Brown BLOCK (1 BLK),,MISS Randolph 15' Jump Shot,,
+0020601049,213,4,0,2,9:38 PM,0:51,,,Trail Blazers Rebound,,
+0020601049,214,8,0,2,9:38 PM,0:51,,,SUB: Magloire FOR Randolph,,
+0020601049,215,8,0,2,9:38 PM,0:51,,,SUB: Rodriguez FOR Jack,,
+0020601049,216,5,2,2,9:38 PM,0:48,Deng STEAL (2 STL),,Webster Lost Ball Turnover (P1.T13),,
+0020601049,217,2,1,2,9:38 PM,0:42,MISS Duhon 24' 3PT Jump Shot,,,,
+0020601049,218,4,0,2,9:38 PM,0:39,,,Aldridge REBOUND (Off:0 Def:3),,
+0020601049,219,1,1,2,9:39 PM,0:22,,,Webster 24' 3PT Jump Shot (7 PTS) (Rodriguez 1 AST),45 - 40,-5
+0020601049,220,6,1,2,9:39 PM,0:03,,,Rodriguez P.FOUL (P1.T1),,
+0020601049,221,6,1,2,9:39 PM,0:01,,,Rodriguez P.FOUL (P2.PN),,
+0020601049,222,3,11,2,9:40 PM,0:01,MISS Hinrich Free Throw 1 of 2,,,,
+0020601049,223,4,1,2,9:40 PM,0:01,BULLS Rebound,,,,
+0020601049,224,3,12,2,9:40 PM,0:01,Hinrich Free Throw 2 of 2 (10 PTS),,,45 - 41,-4
+0020601049,226,2,1,2,9:40 PM,0:00,,,MISS Outlaw 68' 3PT Jump Shot,,
+0020601049,228,4,0,2,9:40 PM,0:00,,,Trail Blazers Rebound,,
+0020601049,227,13,0,2,9:40 PM,0:00,,,,45 - 41,-4
+0020601049,230,12,0,3,9:56 PM,12:00,,,,45 - 41,-4
+0020601049,231,6,4,3,9:57 PM,11:48,,,Webster OFF.Foul (P2),,
+0020601049,232,5,5,3,9:57 PM,11:48,,,Webster Foul Turnover (P2.T14),,
+0020601049,233,1,1,3,9:57 PM,11:33,Deng 10' Jump Shot (20 PTS) (Brown 1 AST),,,45 - 43,-2
+0020601049,234,1,1,3,9:58 PM,11:07,,,Jack 27' 3PT Jump Shot (8 PTS),48 - 43,-5
+0020601049,235,1,5,3,9:58 PM,10:50,Deng  Layup (22 PTS) (Hinrich 9 AST),,,48 - 45,-3
+0020601049,236,6,2,3,9:58 PM,10:37,Brown S.FOUL (P3.T1),,,,
+0020601049,237,3,11,3,9:59 PM,10:37,,,Randolph Free Throw 1 of 2 (11 PTS),49 - 45,-4
+0020601049,238,3,12,3,9:59 PM,10:37,,,MISS Randolph Free Throw 2 of 2,,
+0020601049,239,4,0,3,9:59 PM,10:35,Brown REBOUND (Off:0 Def:1),,,,
+0020601049,240,2,1,3,9:59 PM,10:22,MISS Gordon 26' 3PT Jump Shot,,,,
+0020601049,241,4,0,3,9:59 PM,10:22,Wallace REBOUND (Off:4 Def:4),,,,
+0020601049,242,6,1,3,9:59 PM,10:22,,,Jones P.FOUL (P1.T1),,
+0020601049,243,1,1,3,10:00 PM,10:04,Deng 16' Jump Shot (24 PTS),,,49 - 47,-2
+0020601049,244,5,8,3,10:00 PM,9:42,,,Aldridge 3 Second Violation Turnover (P2.T15),,
+0020601049,245,2,1,3,10:01 PM,9:27,MISS Hinrich 19' Jump Shot,,,,
+0020601049,246,4,0,3,10:01 PM,9:25,,,Randolph REBOUND (Off:0 Def:5),,
+0020601049,247,1,1,3,10:01 PM,9:06,,,Jones 21' Jump Shot (4 PTS) (Jack 6 AST),51 - 47,-4
+0020601049,248,1,1,3,10:01 PM,8:48,Gordon 22' Jump Shot (6 PTS) (Deng 1 AST),,,51 - 49,-2
+0020601049,250,5,8,3,10:02 PM,8:27,,,Randolph 3 Second Violation Turnover (P6.T16),,
+0020601049,251,1,1,3,10:02 PM,8:11,Brown 18' Jump Shot (4 PTS) (Hinrich 10 AST),,,51 - 51,TIE
+0020601049,252,9,1,3,10:02 PM,8:04,,,Trail Blazers Timeout: Regular (Reg.3 Short 0),,
+0020601049,254,5,40,3,10:05 PM,7:50,,,Jack Out of Bounds Lost Ball Turnover (P2.T17),,
+0020601049,255,1,1,3,10:06 PM,7:37,Deng 21' Jump Shot (26 PTS),,,51 - 53,2
+0020601049,256,10,0,3,10:06 PM,7:25,Jump Ball Wallace vs. Jack: Tip to Hinrich,,,,
+0020601049,257,5,2,3,10:06 PM,7:25,Wallace STEAL (2 STL),,Jack Lost Ball Turnover (P3.T18),,
+0020601049,258,6,2,3,10:07 PM,7:15,,,Aldridge S.FOUL (P2.T2),,
+0020601049,259,3,11,3,10:07 PM,7:15,MISS Brown Free Throw 1 of 2,,,,
+0020601049,260,4,1,3,10:07 PM,7:15,BULLS Rebound,,,,
+0020601049,261,3,12,3,10:07 PM,7:15,Brown Free Throw 2 of 2 (5 PTS),,,51 - 54,3
+0020601049,262,6,4,3,10:07 PM,7:08,,,Jack OFF.Foul (P3),,
+0020601049,263,5,5,3,10:07 PM,7:08,,,Jack Foul Turnover (P4.T19),,
+0020601049,264,2,1,3,10:08 PM,6:53,MISS Deng 19' Jump Shot,,,,
+0020601049,265,4,0,3,10:08 PM,6:51,,,Randolph REBOUND (Off:0 Def:6),,
+0020601049,266,1,1,3,10:08 PM,6:33,,,Webster 23' Jump Shot (9 PTS) (Randolph 3 AST),53 - 54,1
+0020601049,267,2,1,3,10:08 PM,6:14,MISS Hinrich 20' Jump Shot,,,,
+0020601049,269,4,0,3,10:08 PM,6:12,Brown REBOUND (Off:1 Def:1),,,,
+0020601049,268,2,1,3,10:08 PM,6:12,MISS Brown 6' Jump Shot,,,,
+0020601049,270,4,0,3,10:09 PM,6:10,Wallace REBOUND (Off:5 Def:4),,,,
+0020601049,271,1,1,3,10:09 PM,6:07,Gordon 18' Jump Shot (8 PTS) (Deng 2 AST),,,53 - 56,3
+0020601049,272,1,1,3,10:09 PM,5:46,,,Randolph 18' Jump Shot (13 PTS) (Jack 7 AST),55 - 56,1
+0020601049,273,2,1,3,10:09 PM,5:27,MISS Gordon 25' 3PT Jump Shot,,,,
+0020601049,274,4,0,3,10:09 PM,5:25,,,Webster REBOUND (Off:1 Def:2),,
+0020601049,275,2,5,3,10:09 PM,5:19,Wallace BLOCK (1 BLK),,MISS Jack  Layup,,
+0020601049,276,4,0,3,10:09 PM,5:18,,,Aldridge REBOUND (Off:1 Def:3),,
+0020601049,277,1,5,3,10:09 PM,5:16,,,Aldridge  Layup (14 PTS),57 - 56,-1
+0020601049,279,6,2,3,10:10 PM,5:07,,,Randolph S.FOUL (P3.T3),,
+0020601049,280,8,0,3,10:10 PM,5:07,,,SUB: Outlaw FOR Jones,,
+0020601049,281,3,11,3,10:10 PM,5:07,Brown Free Throw 1 of 2 (6 PTS),,,57 - 57,TIE
+0020601049,282,3,12,3,10:10 PM,5:07,Brown Free Throw 2 of 2 (7 PTS),,,57 - 58,1
+0020601049,284,6,1,3,10:11 PM,4:52,Wallace P.FOUL (P2.T2),,,,
+0020601049,285,2,1,3,10:11 PM,4:42,,,MISS Aldridge 20' Jump Shot,,
+0020601049,286,4,0,3,10:11 PM,4:40,Hinrich REBOUND (Off:0 Def:4),,,,
+0020601049,287,1,1,3,10:11 PM,4:32,Gordon 18' Jump Shot (10 PTS),,,57 - 60,3
+0020601049,288,5,40,3,10:12 PM,4:20,,,Jack Out of Bounds Lost Ball Turnover (P5.T20),,
+0020601049,289,1,1,3,10:12 PM,4:06,Gordon  3PT Jump Shot (13 PTS) (Wallace 2 AST),,,57 - 63,6
+0020601049,290,2,5,3,10:13 PM,3:38,,,MISS Randolph  Layup,,
+0020601049,291,4,0,3,10:13 PM,3:36,Brown REBOUND (Off:1 Def:2),,,,
+0020601049,292,5,7,3,10:13 PM,3:34,Hinrich Discontinue Dribble Turnover (P2.T9),,,,
+0020601049,293,8,0,3,10:13 PM,3:34,,,SUB: Rodriguez FOR Jack,,
+0020601049,294,1,5,3,10:13 PM,3:21,,,Webster  Layup (11 PTS) (Randolph 4 AST),59 - 63,4
+0020601049,295,6,1,3,10:14 PM,3:08,,,Rodriguez P.FOUL (P3.T4),,
+0020601049,296,9,1,3,10:14 PM,3:08,BULLS Timeout: Regular (Full 3 Short 0),,,,
+0020601049,298,2,1,3,10:17 PM,2:54,MISS Gordon 25' 3PT Jump Shot,,,,
+0020601049,299,4,0,3,10:17 PM,2:51,,,Rodriguez REBOUND (Off:0 Def:2),,
+0020601049,300,1,66,3,10:17 PM,2:29,,,Rodriguez 20' Jump Bank Shot (9 PTS),61 - 63,2
+0020601049,301,1,63,3,10:18 PM,2:05,Gordon 9' Fadeaway Jumper (15 PTS),,,61 - 65,4
+0020601049,302,6,1,3,10:18 PM,1:48,Brown P.FOUL (P4.T3),,,,
+0020601049,303,8,0,3,10:18 PM,1:48,,,SUB: Magloire FOR Aldridge,,
+0020601049,304,8,0,3,10:18 PM,1:48,SUB: Thomas FOR Brown,,,,
+0020601049,305,2,5,3,10:19 PM,1:41,,,MISS Outlaw  Layup,,
+0020601049,306,4,0,3,10:19 PM,1:40,Wallace REBOUND (Off:5 Def:5),,,,
+0020601049,307,6,1,3,10:19 PM,1:33,,,Magloire P.FOUL (P1.PN),,
+0020601049,308,3,11,3,10:19 PM,1:33,Gordon Free Throw 1 of 2 (16 PTS),,,61 - 66,5
+0020601049,309,8,0,3,10:19 PM,1:33,SUB: Duhon FOR Hinrich,,,,
+0020601049,310,3,12,3,10:19 PM,1:33,Gordon Free Throw 2 of 2 (17 PTS),,,61 - 67,6
+0020601049,311,6,4,3,10:20 PM,1:25,,,Rodriguez OFF.Foul (P4),,
+0020601049,312,5,5,3,10:20 PM,1:25,,,Rodriguez Foul Turnover (P3.T21),,
+0020601049,313,8,0,3,10:20 PM,1:25,,,SUB: Dickau FOR Webster,,
+0020601049,314,2,63,3,10:21 PM,1:10,MISS Gordon 15' Fadeaway Jumper,,,,
+0020601049,315,4,0,3,10:21 PM,1:08,,,Dickau REBOUND (Off:0 Def:1),,
+0020601049,316,1,5,3,10:21 PM,0:52,,,Magloire  Layup (4 PTS) (Dickau 1 AST),63 - 67,4
+0020601049,317,1,1,3,10:22 PM,0:38,Deng 16' Jump Shot (28 PTS),,,63 - 69,6
+0020601049,318,2,5,3,10:22 PM,0:25,Thomas BLOCK (2 BLK),,MISS Randolph  Layup,,
+0020601049,319,4,0,3,10:22 PM,0:23,Duhon REBOUND (Off:0 Def:1),,,,
+0020601049,320,2,1,3,10:22 PM,0:01,MISS Thomas 17' Jump Shot,,,,
+0020601049,321,4,0,3,10:22 PM,0:00,Wallace REBOUND (Off:6 Def:5),,,,
+0020601049,322,2,1,3,10:22 PM,0:00,MISS Wallace 9' Jump Shot,,,,
+0020601049,324,4,0,3,10:22 PM,0:00,Deng REBOUND (Off:1 Def:1),,,,
+0020601049,323,2,4,3,10:22 PM,0:00,MISS Deng  Tip Shot,,,,
+0020601049,326,4,0,3,10:22 PM,0:00,BULLS Rebound,,,,
+0020601049,325,13,0,3,10:22 PM,0:00,,,,63 - 69,6
+0020601049,328,12,0,4,10:25 PM,12:00,,,,63 - 69,6
+0020601049,329,2,1,4,10:26 PM,11:38,MISS Deng 18' Jump Shot,,,,
+0020601049,330,4,0,4,10:26 PM,11:37,,,Trail Blazers Rebound,,
+0020601049,331,2,1,4,10:26 PM,11:18,,,MISS Outlaw 16' Jump Shot,,
+0020601049,332,4,0,4,10:26 PM,11:17,Wallace REBOUND (Off:6 Def:6),,,,
+0020601049,333,6,1,4,10:26 PM,11:17,,,Magloire P.FOUL (P2.T1),,
+0020601049,334,2,5,4,10:27 PM,10:58,MISS Thomas  Layup,,,,
+0020601049,335,4,0,4,10:27 PM,10:57,Thomas REBOUND (Off:1 Def:2),,,,
+0020601049,336,2,5,4,10:27 PM,10:56,MISS Thomas  Layup,,,,
+0020601049,337,4,0,4,10:27 PM,10:55,,,Randolph REBOUND (Off:0 Def:7),,
+0020601049,338,6,2,4,10:27 PM,10:39,Duhon S.FOUL (P2.T1),,,,
+0020601049,339,3,11,4,10:28 PM,10:39,,,Randolph Free Throw 1 of 2 (14 PTS),64 - 69,5
+0020601049,340,3,12,4,10:28 PM,10:39,,,Randolph Free Throw 2 of 2 (15 PTS),65 - 69,4
+0020601049,341,1,1,4,10:28 PM,10:25,Deng 22' Jump Shot (30 PTS),,,65 - 71,6
+0020601049,343,1,1,4,10:29 PM,10:10,,,Jack 17' Jump Shot (10 PTS) (Magloire 1 AST),67 - 71,4
+0020601049,344,2,1,4,10:29 PM,9:52,MISS Hinrich 21' Jump Shot,,,,
+0020601049,345,4,0,4,10:29 PM,9:50,Wallace REBOUND (Off:7 Def:6),,,,
+0020601049,346,1,47,4,10:29 PM,9:48,Hinrich 7' Turnaround Jump Shot (12 PTS) (Wallace 3 AST),,,67 - 73,6
+0020601049,347,6,2,4,10:29 PM,9:48,,,Magloire S.FOUL (P3.T2),,
+0020601049,348,8,0,4,10:30 PM,9:48,,,SUB: Webster FOR Outlaw,,
+0020601049,349,8,0,4,10:30 PM,9:48,,,SUB: Aldridge FOR Randolph,,
+0020601049,351,8,0,4,10:30 PM,9:48,SUB: Brown FOR Thomas,,,,
+0020601049,352,3,10,4,10:30 PM,9:48,Hinrich Free Throw 1 of 1 (13 PTS),,,67 - 74,7
+0020601049,353,2,5,4,10:30 PM,9:25,,,MISS Jack  Layup,,
+0020601049,354,4,0,4,10:31 PM,9:23,Wallace REBOUND (Off:7 Def:7),,,,
+0020601049,355,5,1,4,10:31 PM,9:16,Duhon Bad Pass Turnover (P2.T10),,Dickau STEAL (1 STL),,
+0020601049,356,1,3,4,10:31 PM,9:10,,,Aldridge 8' Hook Shot (16 PTS) (Magloire 2 AST),69 - 74,5
+0020601049,357,6,17,4,10:31 PM,8:55,,,Trail Blazers T.Foul (Def. 3 Sec Magloire ),,
+0020601049,358,9,1,4,10:31 PM,8:55,,,,,
+0020601049,361,8,0,4,10:34 PM,8:55,SUB: Gordon FOR Duhon,,,,
+0020601049,362,3,16,4,10:34 PM,8:55,Hinrich Free Throw Technical (14 PTS),,,69 - 75,6
+0020601049,363,2,1,4,10:34 PM,8:49,MISS Hinrich 17' Jump Shot,,,,
+0020601049,364,4,0,4,10:34 PM,8:47,,,Aldridge REBOUND (Off:1 Def:4),,
+0020601049,365,2,1,4,10:34 PM,8:34,,,MISS Aldridge 19' Jump Shot,,
+0020601049,366,4,0,4,10:34 PM,8:34,,,Trail Blazers Rebound,,
+0020601049,367,6,3,4,10:34 PM,8:34,Brown L.B.FOUL (P5.T2),,,,
+0020601049,368,8,0,4,10:34 PM,8:34,SUB: Thomas FOR Brown,,,,
+0020601049,369,1,1,4,10:35 PM,8:22,,,Dickau 25' 3PT Jump Shot (3 PTS),72 - 75,3
+0020601049,370,1,1,4,10:35 PM,8:09,Hinrich 24' 3PT Jump Shot (17 PTS) (Deng 3 AST),,,72 - 78,6
+0020601049,371,1,42,4,10:35 PM,7:53,,,Dickau  Driving Layup (5 PTS),74 - 78,4
+0020601049,372,2,1,4,10:35 PM,7:41,MISS Gordon 26' 3PT Jump Shot,,,,
+0020601049,373,4,0,4,10:35 PM,7:39,Wallace REBOUND (Off:8 Def:7),,,,
+0020601049,374,1,1,4,10:36 PM,7:27,Hinrich 17' Jump Shot (19 PTS) (Deng 4 AST),,,74 - 80,6
+0020601049,375,2,1,4,10:36 PM,6:59,,,MISS Jack 24' 3PT Jump Shot,,
+0020601049,376,4,0,4,10:36 PM,6:56,,,Magloire REBOUND (Off:1 Def:1),,
+0020601049,377,1,46,4,10:36 PM,6:47,,,Dickau 14' Running Jump Shot (7 PTS),76 - 80,4
+0020601049,378,5,40,4,10:37 PM,6:34,Deng Out of Bounds Lost Ball Turnover (P2.T11),,,,
+0020601049,379,8,0,4,10:37 PM,6:34,SUB: Duhon FOR Gordon,,,,
+0020601049,380,2,1,4,10:37 PM,6:18,,,MISS Dickau 21' Jump Shot,,
+0020601049,381,4,0,4,10:37 PM,6:16,,,Aldridge REBOUND (Off:2 Def:4),,
+0020601049,383,2,5,4,10:38 PM,6:00,Thomas BLOCK (3 BLK),,MISS Dickau  Layup,,
+0020601049,384,4,0,4,10:38 PM,5:58,Duhon REBOUND (Off:0 Def:2),,,,
+0020601049,385,6,14,4,10:38 PM,5:56,,,Webster FLAGRANT.FOUL.TYPE1 (P3.T3),,
+0020601049,386,9,1,4,10:38 PM,5:56,BULLS Timeout: Regular (Full 4 Short 0),,,,
+0020601049,388,3,18,4,10:40 PM,5:56,Deng Free Throw Flagrant 1 of 2 (31 PTS),,,76 - 81,5
+0020601049,389,3,19,4,10:41 PM,5:56,Deng Free Throw Flagrant 2 of 2 (32 PTS),,,76 - 82,6
+0020601049,391,7,2,4,10:41 PM,5:53,,,Aldridge Violation:Defensive Goaltending,,
+0020601049,390,1,5,4,10:41 PM,5:53,Duhon  Layup (2 PTS) (Hinrich 11 AST),,,76 - 84,8
+0020601049,392,5,4,4,10:42 PM,5:32,,,Dickau Traveling Turnover (P1.T22),,
+0020601049,393,8,0,4,10:42 PM,5:32,,,SUB: Randolph FOR Magloire,,
+0020601049,394,1,5,4,10:42 PM,5:13,Thomas  Layup (2 PTS) (Deng 5 AST),,,76 - 86,10
+0020601049,395,2,1,4,10:43 PM,4:45,,,MISS Randolph 20' Jump Shot,,
+0020601049,396,4,0,4,10:43 PM,4:43,Thomas REBOUND (Off:1 Def:3),,,,
+0020601049,397,1,1,4,10:43 PM,4:31,Deng 17' Jump Shot (34 PTS),,,76 - 88,12
+0020601049,398,9,1,4,10:43 PM,4:22,,,Trail Blazers Timeout: Regular (Reg.4 Short 0),,
+0020601049,401,8,0,4,10:46 PM,4:22,,,SUB: Outlaw FOR Dickau,,
+0020601049,402,6,4,4,10:46 PM,4:14,,,Randolph OFF.Foul (P4),,
+0020601049,403,5,5,4,10:46 PM,4:14,,,Randolph Foul Turnover (P7.T23),,
+0020601049,404,2,1,4,10:47 PM,3:59,MISS Hinrich 20' Jump Shot,,,,
+0020601049,405,4,0,4,10:47 PM,3:57,,,Aldridge REBOUND (Off:2 Def:5),,
+0020601049,406,6,1,4,10:47 PM,3:53,Thomas P.FOUL (P1.T3),,,,
+0020601049,407,1,1,4,10:47 PM,3:41,,,Outlaw 13' Jump Shot (2 PTS) (Randolph 5 AST),78 - 88,10
+0020601049,408,1,7,4,10:48 PM,3:23,Deng  Dunk (36 PTS) (Wallace 4 AST),,,78 - 90,12
+0020601049,409,1,1,4,10:48 PM,3:00,,,Randolph 20' Jump Shot (17 PTS) (Jack 8 AST),80 - 90,10
+0020601049,410,2,5,4,10:48 PM,2:46,MISS Thomas  Layup,,,,
+0020601049,411,4,0,4,10:48 PM,2:44,,,Outlaw REBOUND (Off:0 Def:4),,
+0020601049,412,1,5,4,10:48 PM,2:38,,,Aldridge  Layup (18 PTS) (Outlaw 1 AST),82 - 90,8
+0020601049,413,1,5,4,10:49 PM,2:24,Hinrich  Layup (21 PTS),,,82 - 92,10
+0020601049,414,2,1,4,10:49 PM,2:06,,,MISS Aldridge 19' Jump Shot,,
+0020601049,415,4,0,4,10:49 PM,2:04,Wallace REBOUND (Off:8 Def:8),,,,
+0020601049,416,6,1,4,10:49 PM,1:49,,,Aldridge P.FOUL (P3.T4),,
+0020601049,417,1,1,4,10:49 PM,1:43,Deng 21' Jump Shot (38 PTS) (Hinrich 12 AST),,,82 - 94,12
+0020601049,418,9,1,4,10:50 PM,1:43,,,Trail Blazers Timeout: Regular (Reg.5 Short 0),,
+0020601049,419,5,2,4,10:52 PM,1:38,Hinrich STEAL (3 STL),,Webster Lost Ball Turnover (P3.T24),,
+0020601049,420,2,5,4,10:52 PM,1:15,MISS Thomas  Layup,,,,
+0020601049,421,4,0,4,10:52 PM,1:13,,,Randolph REBOUND (Off:0 Def:8),,
+0020601049,422,1,7,4,10:52 PM,1:08,,,Aldridge  Dunk (20 PTS) (Jack 9 AST),84 - 94,10
+0020601049,423,1,5,4,10:52 PM,0:52,Duhon  Layup (4 PTS) (Wallace 5 AST),,,84 - 96,12
+0020601049,424,6,2,4,10:52 PM,0:52,,,Jack S.FOUL (P4.PN),,
+0020601049,425,8,0,4,10:53 PM,0:52,SUB: Sefolosha FOR Deng,,,,
+0020601049,426,8,0,4,10:53 PM,0:52,SUB: Allen FOR Wallace,,,,
+0020601049,427,8,0,4,10:53 PM,0:52,SUB: Khryapa FOR Hinrich,,,,
+0020601049,428,3,10,4,10:53 PM,0:52,Duhon Free Throw 1 of 1 (5 PTS),,,84 - 97,13
+0020601049,429,9,2,4,10:53 PM,0:52,,,Trail Blazers Timeout: Short (Reg.5 Short 1),,
+0020601049,430,8,0,4,10:54 PM,0:52,SUB: Griffin FOR Thomas,,,,
+0020601049,431,6,1,4,10:54 PM,0:45,Sefolosha P.FOUL (P3.T4),,,,
+0020601049,433,2,1,4,10:55 PM,0:39,,,MISS Webster 25' 3PT Jump Shot,,
+0020601049,434,4,0,4,10:55 PM,0:36,,,Aldridge REBOUND (Off:3 Def:5),,
+0020601049,435,2,1,4,10:55 PM,0:32,,,MISS Outlaw 19' Jump Shot,,
+0020601049,436,4,0,4,10:55 PM,0:30,Sefolosha REBOUND (Off:1 Def:2),,,,
+0020601049,437,6,1,4,10:55 PM,0:29,,,Jack P.FOUL (P5.PN),,
+0020601049,438,3,11,4,10:55 PM,0:29,Duhon Free Throw 1 of 2 (6 PTS),,,84 - 98,14
+0020601049,439,3,12,4,10:55 PM,0:29,MISS Duhon Free Throw 2 of 2,,,,
+0020601049,440,4,0,4,10:56 PM,0:26,,,Webster REBOUND (Off:1 Def:3),,
+0020601049,441,1,1,4,10:56 PM,0:14,,,Webster 26' 3PT Jump Shot (14 PTS),87 - 98,11
+0020601049,442,6,1,4,10:56 PM,0:14,,,Webster P.FOUL (P4.PN),,
+0020601049,443,3,11,4,10:56 PM,0:14,Griffin Free Throw 1 of 2 (3 PTS),,,87 - 99,12
+0020601049,444,3,12,4,10:57 PM,0:14,Griffin Free Throw 2 of 2 (4 PTS),,,87 - 100,13
+0020601049,445,1,1,4,10:57 PM,0:04,,,Outlaw 18' Jump Shot (4 PTS) (Webster 1 AST),89 - 100,11
+0020601049,447,13,0,4,10:57 PM,0:00,,,,89 - 100,11

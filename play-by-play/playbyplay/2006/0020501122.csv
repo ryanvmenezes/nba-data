@@ -1,0 +1,507 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020501122,0,12,0,1,7:16 PM,12:00,,,,,
+0020501122,1,10,0,1,7:16 PM,12:00,Jump Ball Smith vs. Arenas: Tip to Thomas,,,,
+0020501122,2,6,2,1,7:17 PM,11:56,Ivey S.FOUL (P1.T1),,,,
+0020501122,3,3,11,1,7:17 PM,11:56,,,Jamison Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0020501122,10,3,12,1,7:17 PM,11:56,,,MISS Jamison Free Throw 2 of 2,,
+0020501122,5,4,0,1,7:18 PM,11:52,,,Thomas REBOUND (Off:1 Def:0),,
+0020501122,6,1,7,1,7:18 PM,11:50,,,Thomas 2' Dunk (2 PTS),3 - 0,-3
+0020501122,7,5,1,1,7:18 PM,11:44,Harrington Bad Pass Turnover (P1.T1),,Arenas STEAL (1 STL),,
+0020501122,8,5,1,1,7:18 PM,11:39,Smith STEAL (1 STL),,Jeffries Bad Pass Turnover (P1.T1),,
+0020501122,9,1,7,1,7:18 PM,11:35,Smith  Dunk (2 PTS),,,3 - 2,-1
+0020501122,11,1,1,1,7:19 PM,11:18,,,Arenas 25' 3PT Jump Shot (3 PTS) (Jamison 1 AST),6 - 2,-4
+0020501122,13,5,1,1,7:19 PM,10:55,Johnson Bad Pass Turnover (P1.T2),,Arenas STEAL (2 STL),,
+0020501122,15,9,2,1,7:19 PM,10:54,,,Wizards Timeout: Short (Reg.0 Short 1),,
+0020501122,17,5,2,1,7:20 PM,10:35,Smith STEAL (2 STL),,Arenas Lost Ball Turnover (P1.T2),,
+0020501122,18,1,1,1,7:21 PM,10:24,Harrington 19' Jump Shot (2 PTS) (Ivey 1 AST),,,6 - 4,-2
+0020501122,19,2,1,1,7:21 PM,10:11,,,MISS Jamison 13' Jump Shot,,
+0020501122,20,4,0,1,7:21 PM,10:09,,,Jeffries REBOUND (Off:1 Def:0),,
+0020501122,21,5,2,1,7:21 PM,10:06,Johnson STEAL (1 STL),,Jeffries Lost Ball Turnover (P2.T3),,
+0020501122,22,6,1,1,7:21 PM,10:06,,,Jeffries P.FOUL (P1.T1),,
+0020501122,24,6,2,1,7:22 PM,9:55,,,Thomas S.FOUL (P1.T2),,
+0020501122,26,3,11,1,7:22 PM,9:55,Pachulia Free Throw 1 of 2 (1 PTS),,,6 - 5,-1
+0020501122,27,3,12,1,7:22 PM,9:55,Pachulia Free Throw 2 of 2 (2 PTS),,,6 - 6,TIE
+0020501122,29,2,1,1,7:23 PM,9:45,,,MISS Jamison 25' 3PT Jump Shot,,
+0020501122,30,4,0,1,7:23 PM,9:42,,,Thomas REBOUND (Off:2 Def:0),,
+0020501122,31,2,1,1,7:23 PM,9:37,,,MISS Jamison 9' Jump Shot,,
+0020501122,32,4,0,1,7:23 PM,9:37,,,Wizards Rebound,,
+0020501122,33,1,65,1,7:23 PM,9:25,,,Thomas 4' Jump Hook Shot (4 PTS) (Arenas 1 AST),8 - 6,-2
+0020501122,34,1,7,1,7:24 PM,9:06,Pachulia 1' Dunk (4 PTS) (Ivey 2 AST),,,8 - 8,TIE
+0020501122,35,6,1,1,7:24 PM,8:54,Ivey P.FOUL (P2.T2),,,,
+0020501122,36,8,0,1,7:24 PM,8:54,SUB: Childress FOR Ivey,,,,
+0020501122,38,1,1,1,7:25 PM,8:44,,,Jamison 12' Jump Shot (3 PTS) (Jeffries 1 AST),10 - 8,-2
+0020501122,39,2,1,1,7:25 PM,8:28,MISS Harrington 25' 3PT Jump Shot,,,,
+0020501122,40,4,0,1,7:25 PM,8:25,,,Arenas REBOUND (Off:0 Def:1),,
+0020501122,41,2,1,1,7:25 PM,8:21,,,MISS Arenas 25' 3PT Jump Shot,,
+0020501122,42,4,0,1,7:25 PM,8:18,,,Thomas REBOUND (Off:3 Def:0),,
+0020501122,43,2,5,1,7:25 PM,8:15,Smith BLOCK (1 BLK),,MISS Thomas  Layup,,
+0020501122,44,4,0,1,7:25 PM,8:15,Harrington REBOUND (Off:0 Def:1),,,,
+0020501122,45,5,39,1,7:25 PM,8:15,Harrington Step Out of Bounds Turnover (P2.T3),,,,
+0020501122,47,2,5,1,7:26 PM,8:04,,,MISS Jeffries 3' Layup,,
+0020501122,48,4,0,1,7:26 PM,8:02,,,Ruffin REBOUND (Off:1 Def:0),,
+0020501122,49,1,5,1,7:26 PM,8:02,,,Ruffin 2' Layup (2 PTS),12 - 8,-4
+0020501122,51,6,2,1,7:26 PM,8:02,Smith S.FOUL (P1.T3),,,,
+0020501122,50,3,10,1,7:26 PM,8:02,,,Ruffin Free Throw 1 of 1 (3 PTS),13 - 8,-5
+0020501122,119,5,1,1,7:26 PM,7:53,HAWKS Turnover: Bad Pass (T#4),,,,
+0020501122,52,2,5,1,7:26 PM,7:50,Harrington BLOCK (1 BLK),,MISS Thomas  Layup,,
+0020501122,53,4,0,1,7:27 PM,7:50,HAWKS Rebound,,,,
+0020501122,54,2,1,1,7:27 PM,7:38,MISS Childress 21' Jump Shot,,,,
+0020501122,56,4,0,1,7:27 PM,7:34,,,Arenas REBOUND (Off:0 Def:2),,
+0020501122,57,1,5,1,7:27 PM,7:29,,,Arenas 1' Layup (5 PTS),15 - 8,-7
+0020501122,58,2,1,1,7:27 PM,7:15,MISS Johnson 25' 3PT Jump Shot,,,,
+0020501122,59,4,0,1,7:27 PM,7:14,Smith REBOUND (Off:1 Def:0),,,,
+0020501122,87,6,2,1,7:28 PM,7:14,,,Ruffin S.FOUL (P1.T3),,
+0020501122,61,3,11,1,7:28 PM,7:14,Smith Free Throw 1 of 2 (3 PTS),,,15 - 9,-6
+0020501122,63,3,12,1,7:28 PM,7:14,Smith Free Throw 2 of 2 (4 PTS),,,15 - 10,-5
+0020501122,65,2,1,1,7:28 PM,6:59,,,MISS Jamison 26' 3PT Jump Shot,,
+0020501122,66,4,0,1,7:28 PM,6:56,Harrington REBOUND (Off:0 Def:2),,,,
+0020501122,67,6,2,1,7:29 PM,6:49,,,Jeffries S.FOUL (P2.T4),,
+0020501122,69,8,0,1,7:29 PM,6:49,SUB: Williams FOR Harrington,,,,
+0020501122,70,3,11,1,7:29 PM,6:49,Johnson Free Throw 1 of 2 (1 PTS),,,15 - 11,-4
+0020501122,71,3,12,1,7:29 PM,6:49,Johnson Free Throw 2 of 2 (2 PTS),,,15 - 12,-3
+0020501122,72,8,0,1,7:29 PM,6:49,,,SUB: Storey FOR Jeffries,,
+0020501122,75,5,1,1,7:30 PM,6:35,,,Arenas Bad Pass Turnover (P2.T4),,
+0020501122,76,5,2,1,7:30 PM,6:26,Childress Lost Ball Turnover (P1.T5),,Arenas STEAL (3 STL),,
+0020501122,82,5,4,1,7:31 PM,6:13,,,Arenas Traveling Turnover (P3.T5),,
+0020501122,83,1,1,1,7:31 PM,5:58,Johnson 20' Jump Shot (4 PTS) (Pachulia 1 AST),,,15 - 14,-1
+0020501122,85,2,1,1,7:31 PM,5:41,,,MISS Storey 18' Jump Shot,,
+0020501122,86,4,0,1,7:31 PM,5:39,Williams REBOUND (Off:0 Def:1),,,,
+0020501122,88,2,1,1,7:32 PM,5:28,MISS Smith 4' Jump Shot,,,,
+0020501122,89,4,0,1,7:32 PM,5:27,,,Storey REBOUND (Off:0 Def:1),,
+0020501122,90,6,1,1,7:32 PM,5:27,Pachulia P.FOUL (P1.T4),,,,
+0020501122,158,9,1,1,7:32 PM,5:27,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0020501122,94,5,1,1,7:34 PM,5:12,Pachulia STEAL (1 STL),,Ruffin Bad Pass Turnover (P1.T6),,
+0020501122,95,1,5,1,7:34 PM,5:08,Childress  Layup (2 PTS) (Johnson 1 AST),,,15 - 16,1
+0020501122,96,1,1,1,7:35 PM,4:43,,,Arenas 26' 3PT Jump Shot (8 PTS),18 - 16,-2
+0020501122,97,1,5,1,7:35 PM,4:25,Smith  Layup (6 PTS) (Johnson 2 AST),,,18 - 18,TIE
+0020501122,99,1,1,1,7:35 PM,3:59,,,Arenas 24' 3PT Jump Shot (11 PTS) (Storey 1 AST),21 - 18,-3
+0020501122,100,9,2,1,7:36 PM,3:52,HAWKS Timeout: Short (Full 1 Short 1),,,,
+0020501122,104,2,1,1,7:37 PM,3:42,MISS Smith 21' Jump Shot,,,,
+0020501122,106,4,0,1,7:37 PM,3:40,Childress REBOUND (Off:1 Def:0),,,,
+0020501122,105,1,64,1,7:37 PM,3:40,Childress  Follow Up Dunk (4 PTS),,,21 - 20,-1
+0020501122,108,2,1,1,7:37 PM,3:16,,,MISS Storey 21' Jump Shot,,
+0020501122,109,4,0,1,7:37 PM,3:15,,,Ruffin REBOUND (Off:2 Def:0),,
+0020501122,110,1,1,1,7:37 PM,3:10,,,Jamison 25' 3PT Jump Shot (6 PTS) (Arenas 2 AST),24 - 20,-4
+0020501122,111,1,1,1,7:37 PM,2:54,Smith 6' Jump Shot (8 PTS),,,24 - 22,-2
+0020501122,112,2,1,1,7:38 PM,2:44,,,MISS Arenas 26' 3PT Jump Shot,,
+0020501122,113,4,0,1,7:38 PM,2:42,,,Thomas REBOUND (Off:4 Def:0),,
+0020501122,114,2,1,1,7:38 PM,2:36,,,MISS Jamison 9' Jump Shot,,
+0020501122,115,4,0,1,7:38 PM,2:34,Childress REBOUND (Off:1 Def:1),,,,
+0020501122,116,1,52,1,7:38 PM,2:31,Smith  Alley Oop Dunk (10 PTS) (Childress 1 AST),,,24 - 24,TIE
+0020501122,117,9,1,1,7:38 PM,2:23,,,Wizards Timeout: Regular (Reg.1 Short 1),,
+0020501122,120,8,0,1,7:40 PM,2:23,,,SUB: Thomas FOR Ruffin,,
+0020501122,121,8,0,1,7:40 PM,2:23,,,SUB: Blatche FOR Storey,,
+0020501122,122,8,0,1,7:40 PM,2:23,SUB: Lue FOR Smith,,,,
+0020501122,123,8,0,1,7:40 PM,2:23,SUB: Batista FOR Pachulia,,,,
+0020501122,124,8,0,1,7:40 PM,2:23,SUB: Harrington FOR Johnson,,,,
+0020501122,126,2,1,1,7:41 PM,2:05,,,MISS Arenas 5' Jump Shot,,
+0020501122,127,4,0,1,7:41 PM,2:05,,,Wizards Rebound,,
+0020501122,129,2,5,1,7:41 PM,2:02,,,MISS Blatche  Layup,,
+0020501122,131,4,0,1,7:41 PM,2:01,,,Blatche REBOUND (Off:1 Def:0),,
+0020501122,130,1,5,1,7:41 PM,2:01,,,Blatche  Layup (2 PTS),26 - 24,-2
+0020501122,133,6,2,1,7:41 PM,1:43,,,Thomas S.FOUL (P2.PN),,
+0020501122,135,8,0,1,7:42 PM,1:43,,,SUB: Haywood FOR Thomas,,
+0020501122,136,3,11,1,7:42 PM,1:43,Harrington Free Throw 1 of 2 (3 PTS),,,26 - 25,-1
+0020501122,138,3,12,1,7:42 PM,1:43,Harrington Free Throw 2 of 2 (4 PTS),,,26 - 26,TIE
+0020501122,140,6,1,1,7:43 PM,1:24,Childress P.FOUL (P1.PN),,,,
+0020501122,142,3,11,1,7:43 PM,1:24,,,Arenas Free Throw 1 of 2 (12 PTS),27 - 26,-1
+0020501122,143,3,12,1,7:43 PM,1:24,,,Arenas Free Throw 2 of 2 (13 PTS),28 - 26,-2
+0020501122,144,6,2,1,7:44 PM,1:14,,,Haywood S.FOUL (P1.PN),,
+0020501122,146,3,11,1,7:44 PM,1:14,Williams Free Throw 1 of 2 (1 PTS),,,28 - 27,-1
+0020501122,147,3,12,1,7:44 PM,1:14,Williams Free Throw 2 of 2 (2 PTS),,,28 - 28,TIE
+0020501122,149,1,1,1,7:45 PM,1:00,,,Arenas 20' Jump Shot (15 PTS) (Thomas 1 AST),30 - 28,-2
+0020501122,151,6,2,1,7:45 PM,0:40,,,Blatche S.FOUL (P1.PN),,
+0020501122,152,3,11,1,7:45 PM,0:40,MISS Williams Free Throw 1 of 2,,,,
+0020501122,153,4,1,1,7:45 PM,0:40,HAWKS Rebound,,,,
+0020501122,154,3,12,1,7:46 PM,0:40,MISS Williams Free Throw 2 of 2,,,,
+0020501122,155,4,0,1,7:46 PM,0:38,,,Thomas REBOUND (Off:0 Def:1),,
+0020501122,157,1,1,1,7:46 PM,0:27,,,Jamison 13' Jump Shot (8 PTS),32 - 28,-4
+0020501122,159,5,39,1,7:47 PM,0:06,Williams Step Out of Bounds Turnover (P1.T6),,,,
+0020501122,161,2,5,1,7:47 PM,0:00,,,MISS Arenas  Layup,,
+0020501122,162,4,0,1,7:47 PM,0:00,HAWKS Rebound,,,,
+0020501122,165,13,0,1,7:47 PM,0:00,,,,32 - 28,-4
+0020501122,167,12,0,2,7:50 PM,12:00,,,,32 - 28,-4
+0020501122,168,6,1,2,7:50 PM,11:50,,,Arenas P.FOUL (P1.T1),,
+0020501122,169,8,0,2,7:50 PM,11:50,,,SUB: Taylor FOR Arenas,,
+0020501122,170,2,1,2,7:51 PM,11:42,MISS Harrington 24' 3PT Jump Shot,,,,
+0020501122,171,4,0,2,7:51 PM,11:40,,,Taylor REBOUND (Off:0 Def:1),,
+0020501122,172,1,7,2,7:51 PM,11:38,,,Jamison  Dunk (10 PTS) (Taylor 1 AST),34 - 28,-6
+0020501122,173,2,1,2,7:51 PM,11:19,MISS Lue 19' Jump Shot,,,,
+0020501122,175,4,0,2,7:51 PM,11:16,Williams REBOUND (Off:1 Def:1),,,,
+0020501122,174,1,5,2,7:51 PM,11:16,Williams  Layup (4 PTS),,,34 - 30,-4
+0020501122,176,2,1,2,7:52 PM,10:57,,,MISS Jamison 19' Jump Shot,,
+0020501122,177,4,0,2,7:52 PM,10:56,Childress REBOUND (Off:1 Def:2),,,,
+0020501122,179,2,1,2,7:52 PM,10:35,MISS Harrington 16' Jump Shot,,,,
+0020501122,180,4,0,2,7:52 PM,10:33,Williams REBOUND (Off:2 Def:1),,,,
+0020501122,189,2,40,2,7:52 PM,10:33,MISS Williams 3' Layup,,Blatche BLOCK (1 BLK),,
+0020501122,206,4,0,2,7:52 PM,10:33,HAWKS Rebound,,,,
+0020501122,181,8,0,2,7:52 PM,10:33,SUB: Johnson FOR Harrington,,,,
+0020501122,182,8,0,2,7:53 PM,10:33,,,SUB: Jeffries FOR Blatche,,
+0020501122,183,2,5,2,7:53 PM,10:33,MISS Batista  Layup,,,,
+0020501122,184,4,0,2,7:53 PM,10:16,Batista REBOUND (Off:1 Def:0),,,,
+0020501122,185,1,5,2,7:53 PM,10:13,Batista  Layup (2 PTS),,,34 - 32,-2
+0020501122,188,5,1,2,7:53 PM,9:53,Williams STEAL (1 STL),,Thomas Bad Pass Turnover (P1.T7),,
+0020501122,190,8,0,2,7:53 PM,9:51,SUB: Smith FOR Williams,,,,
+0020501122,191,2,1,2,7:54 PM,9:41,MISS Johnson 16' Jump Shot,,,,
+0020501122,193,4,0,2,7:54 PM,9:39,,,Jamison REBOUND (Off:0 Def:1),,
+0020501122,194,5,1,2,7:54 PM,9:29,,,Thomas Bad Pass Turnover (P2.T8),,
+0020501122,197,2,1,2,7:55 PM,9:08,MISS Johnson  3PT Jump Shot,,,,
+0020501122,198,4,0,2,7:55 PM,9:07,,,Taylor REBOUND (Off:0 Def:2),,
+0020501122,199,2,5,2,7:55 PM,9:01,Smith BLOCK (2 BLK),,MISS Taylor  Layup,,
+0020501122,200,4,0,2,7:55 PM,8:59,Johnson REBOUND (Off:0 Def:1),,,,
+0020501122,201,2,5,2,7:55 PM,8:54,MISS Johnson  Layup,,,,
+0020501122,202,4,0,2,7:55 PM,8:53,Smith REBOUND (Off:2 Def:0),,,,
+0020501122,204,9,4,2,7:55 PM,8:49,,,,,
+0020501122,208,8,0,2,7:57 PM,8:49,SUB: Pachulia FOR Batista,,,,
+0020501122,209,10,0,2,7:58 PM,8:48,Jump Ball Smith vs. Haywood: Tip to Thomas,,,,
+0020501122,210,5,2,2,7:58 PM,8:48,Smith Lost Ball Turnover (P1.T7),,Jeffries STEAL (1 STL),,
+0020501122,218,6,1,2,7:58 PM,8:48,Smith P.FOUL (P2.T1),,,,
+0020501122,211,8,0,2,7:58 PM,8:44,SUB: Harrington FOR Smith,,,,
+0020501122,214,1,1,2,7:58 PM,8:29,,,Jeffries 26' 3PT Jump Shot (3 PTS) (Thomas 2 AST),37 - 32,-5
+0020501122,215,6,1,2,7:59 PM,8:08,,,Jeffries P.FOUL (P3.T2),,
+0020501122,216,3,11,2,7:59 PM,8:08,Pachulia Free Throw 1 of 2 (5 PTS),,,37 - 33,-4
+0020501122,217,3,12,2,7:59 PM,8:08,MISS Pachulia Free Throw 2 of 2,,,,
+0020501122,219,4,0,2,7:59 PM,8:05,Pachulia REBOUND (Off:1 Def:0),,,,
+0020501122,220,1,5,2,8:00 PM,7:58,Johnson  Layup (6 PTS),,,37 - 35,-2
+0020501122,221,6,2,2,8:00 PM,7:58,,,Jeffries S.FOUL (P4.T3),,
+0020501122,223,3,10,2,8:00 PM,7:58,Johnson Free Throw 1 of 1 (7 PTS),,,37 - 36,-1
+0020501122,225,2,1,2,8:00 PM,7:41,,,MISS Thomas 24' 3PT Jump Shot,,
+0020501122,226,4,0,2,8:00 PM,7:40,Harrington REBOUND (Off:0 Def:3),,,,
+0020501122,227,1,5,2,8:00 PM,7:38,Pachulia  Layup (7 PTS) (Johnson 3 AST),,,37 - 38,1
+0020501122,228,6,2,2,8:00 PM,7:38,,,Taylor S.FOUL (P1.T4),,
+0020501122,229,8,0,2,8:01 PM,7:38,,,SUB: Ruffin FOR Jeffries,,
+0020501122,230,3,10,2,8:01 PM,7:38,Pachulia Free Throw 1 of 1 (8 PTS),,,37 - 39,2
+0020501122,231,2,1,2,8:01 PM,7:21,,,MISS Jamison 26' 3PT Jump Shot,,
+0020501122,232,4,0,2,8:01 PM,7:19,,,Thomas REBOUND (Off:1 Def:1),,
+0020501122,233,2,1,2,8:01 PM,7:10,,,MISS Taylor 26' 3PT Jump Shot,,
+0020501122,234,4,0,2,8:01 PM,7:09,Pachulia REBOUND (Off:1 Def:1),,,,
+0020501122,235,1,1,2,8:02 PM,6:55,Harrington 15' Jump Shot (6 PTS) (Lue 1 AST),,,37 - 41,4
+0020501122,236,9,1,2,8:02 PM,6:53,,,Wizards Timeout: Regular (Reg.2 Short 1),,
+0020501122,238,8,0,2,8:03 PM,6:53,,,SUB: Arenas FOR Thomas,,
+0020501122,240,1,1,2,8:04 PM,6:32,,,Arenas 21' Jump Shot (17 PTS),39 - 41,2
+0020501122,242,1,1,2,8:05 PM,6:11,Lue 25' 3PT Jump Shot (3 PTS),,,39 - 44,5
+0020501122,243,2,5,2,8:05 PM,5:54,,,MISS Ruffin  Layup,,
+0020501122,244,4,0,2,8:05 PM,5:54,,,Wizards Rebound,,
+0020501122,245,6,3,2,8:05 PM,5:54,Harrington L.B.FOUL (P1.T2),,,,
+0020501122,246,2,1,2,8:05 PM,5:45,,,MISS Taylor 7' Jump Shot,,
+0020501122,247,4,0,2,8:05 PM,5:43,Pachulia REBOUND (Off:1 Def:2),,,,
+0020501122,248,2,1,2,8:05 PM,5:33,MISS Pachulia 16' Jump Shot,,,,
+0020501122,249,4,0,2,8:05 PM,5:31,,,Haywood REBOUND (Off:0 Def:1),,
+0020501122,250,1,1,2,8:06 PM,5:22,,,Jamison 24' 3PT Jump Shot (13 PTS) (Arenas 3 AST),42 - 44,2
+0020501122,251,2,1,2,8:06 PM,5:01,MISS Johnson 19' Jump Shot,,,,
+0020501122,252,4,0,2,8:06 PM,4:59,,,Ruffin REBOUND (Off:2 Def:1),,
+0020501122,253,1,7,2,8:06 PM,4:52,,,Haywood  Dunk (2 PTS) (Ruffin 1 AST),44 - 44,TIE
+0020501122,254,6,2,2,8:06 PM,4:52,Harrington S.FOUL (P2.T3),,,,
+0020501122,255,8,0,2,8:06 PM,4:52,SUB: Williams FOR Harrington,,,,
+0020501122,257,8,0,2,8:07 PM,4:52,SUB: Grundy FOR Lue,,,,
+0020501122,258,3,10,2,8:07 PM,4:52,,,Haywood Free Throw 1 of 1 (3 PTS),45 - 44,-1
+0020501122,259,6,4,2,8:07 PM,4:44,Childress OFF.Foul (P2),,,,
+0020501122,260,5,5,2,8:07 PM,4:44,Childress Foul Turnover (P2.T8),,,,
+0020501122,261,5,1,2,8:08 PM,4:31,Childress STEAL (1 STL),,Arenas Bad Pass Turnover (P4.T9),,
+0020501122,262,5,1,2,8:08 PM,4:18,Grundy Bad Pass Turnover (P1.T9),,,,
+0020501122,263,8,0,2,8:08 PM,4:18,SUB: Batista FOR Childress,,,,
+0020501122,264,2,5,2,8:08 PM,4:03,,,MISS Taylor  Layup,,
+0020501122,265,4,0,2,8:08 PM,4:02,Batista REBOUND (Off:1 Def:1),,,,
+0020501122,266,6,1,2,8:09 PM,3:51,,,Haywood P.FOUL (P2.PN),,
+0020501122,267,3,11,2,8:09 PM,3:51,Pachulia Free Throw 1 of 2 (9 PTS),,,45 - 45,TIE
+0020501122,268,3,12,2,8:09 PM,3:51,MISS Pachulia Free Throw 2 of 2,,,,
+0020501122,269,4,0,2,8:09 PM,3:49,,,Haywood REBOUND (Off:0 Def:2),,
+0020501122,270,5,1,2,8:09 PM,3:29,Pachulia STEAL (2 STL),,Arenas Bad Pass Turnover (P5.T10),,
+0020501122,271,2,1,2,8:10 PM,3:20,MISS Grundy 11' Jump Shot,,,,
+0020501122,272,4,0,2,8:10 PM,3:18,Williams REBOUND (Off:3 Def:1),,,,
+0020501122,273,1,1,2,8:10 PM,3:14,Grundy 24' 3PT Jump Shot (3 PTS) (Johnson 4 AST),,,45 - 48,3
+0020501122,274,1,1,2,8:10 PM,2:55,,,Haywood 5' Jump Shot (5 PTS) (Taylor 2 AST),47 - 48,1
+0020501122,275,6,4,2,8:10 PM,2:43,Pachulia OFF.Foul (P2),,,,
+0020501122,276,5,5,2,8:10 PM,2:43,Pachulia Foul Turnover (P1.T10),,,,
+0020501122,277,9,1,2,8:10 PM,2:43,HAWKS Timeout: Regular (Full 2 Short 1),,,,
+0020501122,278,8,0,2,8:12 PM,2:43,,,SUB: Thomas FOR Ruffin,,
+0020501122,279,8,0,2,8:12 PM,2:43,SUB: Edwards FOR Pachulia,,,,
+0020501122,280,1,5,2,8:13 PM,2:28,,,Taylor  Layup (2 PTS) (Haywood 1 AST),49 - 48,-1
+0020501122,281,1,1,2,8:13 PM,2:06,Williams 22' Jump Shot (6 PTS) (Johnson 5 AST),,,49 - 50,1
+0020501122,282,2,1,2,8:14 PM,1:48,,,MISS Jamison 19' Jump Shot,,
+0020501122,283,4,0,2,8:14 PM,1:46,Grundy REBOUND (Off:0 Def:1),,,,
+0020501122,284,1,42,2,8:14 PM,1:38,Johnson  Driving Layup (9 PTS),,,49 - 52,3
+0020501122,286,7,2,2,8:14 PM,1:18,Batista Violation:Defensive Goaltending,,,,
+0020501122,285,1,1,2,8:14 PM,1:18,,,Thomas 6' Jump Shot (6 PTS),51 - 52,1
+0020501122,288,2,1,2,8:14 PM,1:04,MISS Williams 20' Jump Shot,,,,
+0020501122,289,4,0,2,8:14 PM,1:02,,,Jamison REBOUND (Off:0 Def:2),,
+0020501122,290,2,1,2,8:15 PM,0:53,,,MISS Jamison 27' 3PT Jump Shot,,
+0020501122,291,4,0,2,8:15 PM,0:52,Batista REBOUND (Off:1 Def:2),,,,
+0020501122,292,1,1,2,8:15 PM,0:40,Grundy 26' 3PT Jump Shot (6 PTS) (Johnson 6 AST),,,51 - 55,4
+0020501122,293,6,1,2,8:15 PM,0:23,Edwards P.FOUL (P1.T4),,,,
+0020501122,294,6,2,2,8:16 PM,0:12,Williams S.FOUL (P1.PN),,,,
+0020501122,295,8,0,2,8:16 PM,0:12,,,SUB: Ruffin FOR Haywood,,
+0020501122,296,3,11,2,8:16 PM,0:12,,,Arenas Free Throw 1 of 2 (18 PTS),52 - 55,3
+0020501122,297,3,12,2,8:17 PM,0:12,,,Arenas Free Throw 2 of 2 (19 PTS),53 - 55,2
+0020501122,298,2,1,2,8:17 PM,0:00,MISS Grundy 20' Jump Shot,,,,
+0020501122,299,4,0,2,8:17 PM,0:00,,,Wizards Rebound,,
+0020501122,300,13,0,2,8:17 PM,0:00,,,,53 - 55,2
+0020501122,302,12,0,3,8:33 PM,12:00,,,,53 - 55,2
+0020501122,303,5,4,3,8:34 PM,11:48,Johnson Traveling Turnover (P2.T11),,,,
+0020501122,305,1,1,3,8:34 PM,11:27,,,Jeffries 11' Jump Shot (5 PTS),55 - 55,TIE
+0020501122,306,2,1,3,8:35 PM,11:10,MISS Johnson 20' Jump Shot,,,,
+0020501122,307,4,0,3,8:35 PM,11:08,,,Arenas REBOUND (Off:0 Def:3),,
+0020501122,308,6,1,3,8:35 PM,11:02,Ivey P.FOUL (P3.T1),,,,
+0020501122,310,2,1,3,8:35 PM,10:56,,,MISS Arenas 17' Jump Shot,,
+0020501122,311,4,0,3,8:35 PM,10:54,Smith REBOUND (Off:2 Def:1),,,,
+0020501122,312,2,1,3,8:36 PM,10:42,MISS Ivey 21' Jump Shot,,,,
+0020501122,313,4,0,3,8:36 PM,10:40,,,Ruffin REBOUND (Off:2 Def:2),,
+0020501122,314,5,2,3,8:36 PM,10:27,Harrington STEAL (1 STL),,Thomas Lost Ball Turnover (P1.T11),,
+0020501122,315,2,1,3,8:36 PM,10:17,MISS Smith 26' 3PT Jump Shot,,,,
+0020501122,316,4,0,3,8:36 PM,10:15,,,Ruffin REBOUND (Off:2 Def:3),,
+0020501122,317,6,2,3,8:36 PM,10:08,Ivey S.FOUL (P4.T2),,,,
+0020501122,318,3,11,3,8:37 PM,10:08,,,MISS Arenas Free Throw 1 of 2,,
+0020501122,319,4,1,3,8:37 PM,10:08,,,Wizards Rebound,,
+0020501122,320,8,0,3,8:37 PM,10:08,SUB: Childress FOR Ivey,,,,
+0020501122,321,3,12,3,8:37 PM,10:08,,,Arenas Free Throw 2 of 2 (20 PTS),56 - 55,-1
+0020501122,322,1,3,3,8:37 PM,9:55,Smith 5' Hook Shot (12 PTS) (Harrington 1 AST),,,56 - 57,1
+0020501122,323,2,1,3,8:38 PM,9:36,,,MISS Arenas 25' 3PT Jump Shot,,
+0020501122,324,4,0,3,8:38 PM,9:35,Smith REBOUND (Off:2 Def:2),,,,
+0020501122,325,1,1,3,8:38 PM,9:24,Smith 19' Jump Shot (14 PTS) (Harrington 2 AST),,,56 - 59,3
+0020501122,326,1,1,3,8:39 PM,9:07,,,Jamison 26' 3PT Jump Shot (16 PTS) (Arenas 4 AST),59 - 59,TIE
+0020501122,327,2,1,3,8:39 PM,8:54,MISS Pachulia 15' Jump Shot,,,,
+0020501122,328,4,0,3,8:39 PM,8:52,Smith REBOUND (Off:3 Def:2),,,,
+0020501122,329,2,1,3,8:39 PM,8:51,MISS Johnson 24' 3PT Jump Shot,,,,
+0020501122,330,4,0,3,8:39 PM,8:48,,,Ruffin REBOUND (Off:2 Def:4),,
+0020501122,331,2,1,3,8:39 PM,8:38,Smith BLOCK (3 BLK),,MISS Jamison 9' Jump Shot,,
+0020501122,332,4,0,3,8:39 PM,8:36,Pachulia REBOUND (Off:1 Def:3),,,,
+0020501122,333,1,5,3,8:39 PM,8:26,Pachulia  Layup (11 PTS) (Smith 1 AST),,,59 - 61,2
+0020501122,334,1,5,3,8:40 PM,8:08,,,Jamison  Layup (18 PTS) (Arenas 5 AST),61 - 61,TIE
+0020501122,335,6,2,3,8:40 PM,7:48,,,Thomas S.FOUL (P3.T1),,
+0020501122,336,3,11,3,8:40 PM,7:48,MISS Pachulia Free Throw 1 of 2,,,,
+0020501122,337,4,1,3,8:40 PM,7:48,HAWKS Rebound,,,,
+0020501122,338,3,12,3,8:40 PM,7:48,Pachulia Free Throw 2 of 2 (12 PTS),,,61 - 62,1
+0020501122,339,2,1,3,8:41 PM,7:34,Pachulia BLOCK (1 BLK),,MISS Arenas 4' Jump Shot,,
+0020501122,340,4,0,3,8:41 PM,7:33,,,Wizards Rebound,,
+0020501122,341,2,1,3,8:41 PM,7:24,,,MISS Jeffries 15' Jump Shot,,
+0020501122,342,4,0,3,8:41 PM,7:22,Harrington REBOUND (Off:0 Def:4),,,,
+0020501122,343,6,2,3,8:42 PM,7:08,,,Ruffin S.FOUL (P2.T2),,
+0020501122,344,3,11,3,8:42 PM,7:08,Harrington Free Throw 1 of 2 (7 PTS),,,61 - 63,2
+0020501122,345,3,12,3,8:42 PM,7:08,Harrington Free Throw 2 of 2 (8 PTS),,,61 - 64,3
+0020501122,346,5,1,3,8:43 PM,6:56,Harrington STEAL (2 STL),,Jamison Bad Pass Turnover (P1.T12),,
+0020501122,347,2,1,3,8:43 PM,6:49,MISS Harrington 4' Jump Shot,,,,
+0020501122,349,4,0,3,8:43 PM,6:47,Harrington REBOUND (Off:1 Def:4),,,,
+0020501122,348,2,4,3,8:43 PM,6:47,MISS Harrington  Tip Shot,,,,
+0020501122,351,4,0,3,8:43 PM,6:45,Harrington REBOUND (Off:2 Def:4),,,,
+0020501122,350,1,4,3,8:43 PM,6:45,Harrington  Tip Shot (10 PTS),,,61 - 66,5
+0020501122,352,1,49,3,8:43 PM,6:29,,,Arenas  Driving Dunk (22 PTS),63 - 66,3
+0020501122,353,5,41,3,8:43 PM,6:17,Pachulia Poss Lost Ball Turnover (P2.T12),,,,
+0020501122,354,2,1,3,8:44 PM,5:59,,,MISS Jamison 10' Jump Shot,,
+0020501122,355,4,0,3,8:44 PM,5:57,Childress REBOUND (Off:1 Def:3),,,,
+0020501122,356,6,2,3,8:44 PM,5:54,,,Arenas S.FOUL (P2.T3),,
+0020501122,357,9,1,3,8:44 PM,5:54,HAWKS Timeout: Regular (Full 3 Short 1),,,,
+0020501122,358,8,0,3,8:47 PM,5:54,SUB: Williams FOR Harrington,,,,
+0020501122,359,8,0,3,8:47 PM,5:54,,,SUB: Thomas FOR Ruffin,,
+0020501122,360,3,11,3,8:47 PM,5:54,Childress Free Throw 1 of 2 (5 PTS),,,63 - 67,4
+0020501122,361,3,12,3,8:47 PM,5:54,MISS Childress Free Throw 2 of 2,,,,
+0020501122,362,4,0,3,8:47 PM,5:53,,,Thomas REBOUND (Off:4 Def:1),,
+0020501122,363,2,1,3,8:47 PM,5:36,,,MISS Jamison 19' Jump Shot,,
+0020501122,364,4,0,3,8:47 PM,5:35,Pachulia REBOUND (Off:1 Def:4),,,,
+0020501122,365,6,2,3,8:48 PM,5:28,,,Jamison S.FOUL (P1.T4),,
+0020501122,366,3,11,3,8:48 PM,5:28,Pachulia Free Throw 1 of 2 (13 PTS),,,63 - 68,5
+0020501122,367,8,0,3,8:48 PM,5:28,,,SUB: Haywood FOR Thomas,,
+0020501122,368,3,12,3,8:48 PM,5:28,Pachulia Free Throw 2 of 2 (14 PTS),,,63 - 69,6
+0020501122,369,5,1,3,8:49 PM,5:14,Childress STEAL (2 STL),,Arenas Bad Pass Turnover (P6.T13),,
+0020501122,370,2,5,3,8:49 PM,5:07,MISS Williams  Layup,,,,
+0020501122,371,4,0,3,8:49 PM,5:06,Smith REBOUND (Off:4 Def:2),,,,
+0020501122,372,6,2,3,8:49 PM,5:05,,,Thomas S.FOUL (P1.PN),,
+0020501122,373,3,11,3,8:49 PM,5:05,MISS Smith Free Throw 1 of 2,,,,
+0020501122,375,4,0,3,8:49 PM,5:05,HAWKS Rebound,,,,
+0020501122,374,3,12,3,8:49 PM,5:05,Smith Free Throw 2 of 2 (15 PTS),,,63 - 70,7
+0020501122,376,2,1,3,8:50 PM,4:46,Williams BLOCK (1 BLK),,MISS Jeffries 13' Jump Shot,,
+0020501122,377,4,0,3,8:50 PM,4:42,Williams REBOUND (Off:3 Def:2),,,,
+0020501122,378,6,4,3,8:50 PM,4:39,Pachulia OFF.Foul (P3),,,,
+0020501122,379,5,5,3,8:50 PM,4:39,Pachulia Foul Turnover (P3.T13),,,,
+0020501122,380,2,1,3,8:51 PM,4:28,,,MISS Arenas 21' Jump Shot,,
+0020501122,381,4,0,3,8:51 PM,4:27,Pachulia REBOUND (Off:1 Def:5),,,,
+0020501122,382,5,4,3,8:51 PM,4:18,Williams Traveling Turnover (P2.T14),,,,
+0020501122,384,2,1,3,8:51 PM,4:04,,,MISS Arenas 20' Jump Shot,,
+0020501122,385,4,0,3,8:51 PM,4:03,Pachulia REBOUND (Off:1 Def:6),,,,
+0020501122,386,6,2,3,8:52 PM,3:57,,,Arenas S.FOUL (P3.PN),,
+0020501122,387,8,0,3,8:52 PM,3:57,SUB: Batista FOR Pachulia,,,,
+0020501122,388,3,11,3,8:52 PM,3:57,Williams Free Throw 1 of 2 (7 PTS),,,63 - 71,8
+0020501122,389,3,12,3,8:52 PM,3:57,Williams Free Throw 2 of 2 (8 PTS),,,63 - 72,9
+0020501122,390,1,1,3,8:53 PM,3:42,,,Jamison 5' Jump Shot (20 PTS),65 - 72,7
+0020501122,391,2,1,3,8:53 PM,3:23,MISS Smith 25' 3PT Jump Shot,,,,
+0020501122,392,4,0,3,8:53 PM,3:23,,,Wizards Rebound,,
+0020501122,393,1,1,3,8:53 PM,3:14,,,Arenas  3PT Jump Shot (25 PTS),68 - 72,4
+0020501122,394,1,5,3,8:54 PM,2:50,Williams  Layup (10 PTS) (Smith 2 AST),,,68 - 74,6
+0020501122,395,1,1,3,8:54 PM,2:28,,,Arenas 25' 3PT Jump Shot (28 PTS) (Jeffries 2 AST),71 - 74,3
+0020501122,396,6,1,3,8:54 PM,2:17,,,Arenas P.FOUL (P4.PN),,
+0020501122,397,9,1,3,8:54 PM,2:17,,,Wizards Timeout: Regular (Reg.3 Short 1),,
+0020501122,399,8,0,3,8:57 PM,2:17,,,SUB: Ruffin FOR Jeffries,,
+0020501122,400,8,0,3,8:57 PM,2:17,SUB: Lue FOR Johnson,,,,
+0020501122,401,3,11,3,8:57 PM,2:17,Childress Free Throw 1 of 2 (6 PTS),,,71 - 75,4
+0020501122,402,3,12,3,8:57 PM,2:17,Childress Free Throw 2 of 2 (7 PTS),,,71 - 76,5
+0020501122,403,2,1,3,8:57 PM,2:02,,,MISS Arenas 23' Jump Shot,,
+0020501122,404,4,0,3,8:58 PM,2:00,Williams REBOUND (Off:3 Def:3),,,,
+0020501122,405,6,2,3,8:58 PM,1:52,,,Ruffin S.FOUL (P3.PN),,
+0020501122,406,3,11,3,8:58 PM,1:52,Williams Free Throw 1 of 2 (11 PTS),,,71 - 77,6
+0020501122,407,8,0,3,8:58 PM,1:52,SUB: Harrington FOR Smith,,,,
+0020501122,408,3,12,3,8:58 PM,1:52,MISS Williams Free Throw 2 of 2,,,,
+0020501122,409,4,0,3,8:59 PM,1:51,,,Arenas REBOUND (Off:0 Def:4),,
+0020501122,410,2,1,3,8:59 PM,1:34,,,MISS Jamison 19' Jump Shot,,
+0020501122,411,4,0,3,8:59 PM,1:31,,,Haywood REBOUND (Off:1 Def:2),,
+0020501122,412,5,4,3,8:59 PM,1:30,,,Arenas Traveling Turnover (P7.T14),,
+0020501122,413,2,1,3,8:59 PM,1:16,MISS Williams 6' Jump Shot,,,,
+0020501122,414,4,0,3,8:59 PM,1:14,,,Jamison REBOUND (Off:0 Def:3),,
+0020501122,415,6,2,3,9:00 PM,1:02,Harrington S.FOUL (P3.T3),,,,
+0020501122,416,3,11,3,9:00 PM,1:02,,,MISS Haywood Free Throw 1 of 2,,
+0020501122,417,4,1,3,9:00 PM,1:02,,,Wizards Rebound,,
+0020501122,418,3,12,3,9:00 PM,1:02,,,Haywood Free Throw 2 of 2 (6 PTS),72 - 77,5
+0020501122,419,1,1,3,9:01 PM,0:42,Lue 25' 3PT Jump Shot (6 PTS),,,72 - 80,8
+0020501122,420,6,2,3,9:01 PM,0:29,Batista S.FOUL (P1.PN),,,,
+0020501122,421,8,0,3,9:01 PM,0:29,SUB: Smith FOR Harrington,,,,
+0020501122,422,3,11,3,9:01 PM,0:29,,,Arenas Free Throw 1 of 2 (29 PTS),73 - 80,7
+0020501122,424,8,0,3,9:02 PM,0:29,,,SUB: Booth FOR Jamison,,
+0020501122,425,3,12,3,9:02 PM,0:29,,,MISS Arenas Free Throw 2 of 2,,
+0020501122,426,4,0,3,9:02 PM,0:28,,,Arenas REBOUND (Off:1 Def:4),,
+0020501122,427,2,1,3,9:02 PM,0:26,,,MISS Arenas 18' Jump Shot,,
+0020501122,428,4,0,3,9:02 PM,0:25,,,Arenas REBOUND (Off:2 Def:4),,
+0020501122,429,6,2,3,9:03 PM,0:04,Batista S.FOUL (P2.PN),,,,
+0020501122,430,3,11,3,9:03 PM,0:04,,,Arenas Free Throw 1 of 2 (30 PTS),74 - 80,6
+0020501122,431,8,0,3,9:03 PM,0:04,,,SUB: Taylor FOR Booth,,
+0020501122,432,3,12,3,9:03 PM,0:04,,,Arenas Free Throw 2 of 2 (31 PTS),75 - 80,5
+0020501122,433,2,1,3,9:04 PM,0:00,MISS Childress 27' 3PT Jump Shot,,,,
+0020501122,434,4,0,3,9:04 PM,0:00,,,Taylor REBOUND (Off:0 Def:3),,
+0020501122,435,13,0,3,9:04 PM,0:00,,,,75 - 80,5
+0020501122,438,12,0,4,9:06 PM,12:00,,,,75 - 80,5
+0020501122,439,2,1,4,9:07 PM,11:43,,,MISS Jamison 6' Jump Shot,,
+0020501122,442,4,0,4,9:07 PM,11:37,,,Haywood REBOUND (Off:2 Def:2),,
+0020501122,441,2,4,4,9:07 PM,11:37,,,MISS Haywood  Tip Shot,,
+0020501122,443,4,0,4,9:07 PM,11:35,Batista REBOUND (Off:1 Def:3),,,,
+0020501122,444,2,1,4,9:07 PM,11:28,MISS Lue 19' Jump Shot,,,,
+0020501122,445,4,0,4,9:07 PM,11:27,,,Jamison REBOUND (Off:0 Def:4),,
+0020501122,446,1,5,4,9:07 PM,11:18,,,Taylor  Layup (4 PTS),77 - 80,3
+0020501122,447,5,4,4,9:08 PM,11:01,Batista Traveling Turnover (P1.T15),,,,
+0020501122,448,2,1,4,9:08 PM,10:42,,,MISS Taylor  3PT Jump Shot,,
+0020501122,449,4,0,4,9:08 PM,10:40,,,Haywood REBOUND (Off:3 Def:2),,
+0020501122,450,2,1,4,9:08 PM,10:37,,,MISS Jamison 25' 3PT Jump Shot,,
+0020501122,451,4,0,4,9:08 PM,10:35,Harrington REBOUND (Off:2 Def:5),,,,
+0020501122,452,6,2,4,9:08 PM,10:31,,,Jamison S.FOUL (P2.T1),,
+0020501122,453,3,11,4,9:09 PM,10:31,Childress Free Throw 1 of 2 (8 PTS),,,77 - 81,4
+0020501122,454,3,12,4,9:09 PM,10:31,Childress Free Throw 2 of 2 (9 PTS),,,77 - 82,5
+0020501122,455,5,2,4,9:10 PM,10:15,Harrington STEAL (3 STL),,Arenas Lost Ball Turnover (P8.T15),,
+0020501122,456,6,3,4,9:10 PM,10:13,,,Arenas L.B.FOUL (P5.T2),,
+0020501122,457,6,11,4,9:10 PM,10:13,,,Arenas T.FOUL (P5.T2),,
+0020501122,458,3,16,4,9:10 PM,10:13,Lue Free Throw Technical (7 PTS),,,77 - 83,6
+0020501122,459,8,0,4,9:10 PM,10:13,SUB: Johnson FOR Williams,,,,
+0020501122,460,2,1,4,9:11 PM,9:51,MISS Johnson 16' Jump Shot,,,,
+0020501122,461,4,0,4,9:11 PM,9:49,,,Jamison REBOUND (Off:0 Def:5),,
+0020501122,462,6,2,4,9:12 PM,9:41,Batista S.FOUL (P3.T1),,,,
+0020501122,463,3,11,4,9:12 PM,9:41,,,Arenas Free Throw 1 of 2 (32 PTS),78 - 83,5
+0020501122,464,8,0,4,9:12 PM,9:41,SUB: Pachulia FOR Batista,,,,
+0020501122,465,8,0,4,9:12 PM,9:41,,,SUB: Thomas FOR Haywood,,
+0020501122,466,3,12,4,9:12 PM,9:41,,,Arenas Free Throw 2 of 2 (33 PTS),79 - 83,4
+0020501122,467,1,1,4,9:13 PM,9:25,Childress 24' 3PT Jump Shot (12 PTS) (Harrington 3 AST),,,79 - 86,7
+0020501122,468,2,1,4,9:13 PM,9:08,,,MISS Arenas 20' Jump Shot,,
+0020501122,469,4,0,4,9:13 PM,9:06,Harrington REBOUND (Off:2 Def:6),,,,
+0020501122,470,2,5,4,9:13 PM,9:04,MISS Childress  Layup,,,,
+0020501122,471,4,0,4,9:13 PM,9:02,,,Jamison REBOUND (Off:0 Def:6),,
+0020501122,472,1,1,4,9:13 PM,8:54,,,Jamison 22' Jump Shot (22 PTS) (Arenas 6 AST),81 - 86,5
+0020501122,474,1,1,4,9:14 PM,8:28,Johnson 5' Jump Shot (11 PTS) (Harrington 4 AST),,,81 - 88,7
+0020501122,475,2,1,4,9:14 PM,8:10,,,MISS Arenas 25' 3PT Jump Shot,,
+0020501122,476,4,0,4,9:14 PM,8:09,Childress REBOUND (Off:1 Def:4),,,,
+0020501122,477,6,4,4,9:14 PM,8:05,Pachulia OFF.Foul (P4),,,,
+0020501122,478,5,5,4,9:14 PM,8:05,Pachulia Foul Turnover (P4.T16),,,,
+0020501122,479,9,4,4,9:14 PM,8:05,,,,,
+0020501122,481,8,0,4,9:16 PM,8:05,,,SUB: Haywood FOR Thomas,,
+0020501122,482,8,0,4,9:17 PM,8:05,SUB: Smith FOR Childress,,,,
+0020501122,483,2,1,4,9:17 PM,7:48,,,MISS Jamison 19' Jump Shot,,
+0020501122,484,4,0,4,9:17 PM,7:46,Harrington REBOUND (Off:2 Def:7),,,,
+0020501122,485,6,1,4,9:17 PM,7:33,,,Jeffries P.FOUL (P5.T3),,
+0020501122,486,8,0,4,9:18 PM,7:33,,,SUB: Ruffin FOR Taylor,,
+0020501122,487,9,1,4,9:18 PM,7:33,HAWKS Timeout: Regular (Full 4 Short 1),,,,
+0020501122,490,2,1,4,9:21 PM,7:22,MISS Harrington 25' 3PT Jump Shot,,,,
+0020501122,491,4,0,4,9:21 PM,7:20,,,Ruffin REBOUND (Off:2 Def:5),,
+0020501122,492,2,5,4,9:21 PM,7:01,,,MISS Arenas  Layup,,
+0020501122,493,4,0,4,9:21 PM,7:00,,,Haywood REBOUND (Off:4 Def:2),,
+0020501122,494,2,5,4,9:21 PM,6:58,,,MISS Jamison  Layup,,
+0020501122,495,4,0,4,9:21 PM,6:57,Pachulia REBOUND (Off:1 Def:7),,,,
+0020501122,496,6,2,4,9:21 PM,6:37,,,Haywood S.FOUL (P3.T4),,
+0020501122,497,3,11,4,9:22 PM,6:37,Pachulia Free Throw 1 of 2 (15 PTS),,,81 - 89,8
+0020501122,498,3,12,4,9:22 PM,6:37,Pachulia Free Throw 2 of 2 (16 PTS),,,81 - 90,9
+0020501122,499,6,1,4,9:22 PM,6:25,Pachulia P.FOUL (P5.T2),,,,
+0020501122,500,8,0,4,9:23 PM,6:25,SUB: Childress FOR Pachulia,,,,
+0020501122,501,6,1,4,9:23 PM,6:18,Harrington P.FOUL (P4.T3),,,,
+0020501122,502,2,1,4,9:24 PM,6:10,,,MISS Jamison 12' Jump Shot,,
+0020501122,503,4,0,4,9:24 PM,6:09,Johnson REBOUND (Off:0 Def:2),,,,
+0020501122,505,1,1,4,9:24 PM,5:45,Smith 26' 3PT Jump Shot (18 PTS) (Harrington 5 AST),,,81 - 93,12
+0020501122,506,2,1,4,9:24 PM,5:29,,,MISS Jamison 24' 3PT Jump Shot,,
+0020501122,507,4,0,4,9:24 PM,5:28,Smith REBOUND (Off:4 Def:3),,,,
+0020501122,508,5,1,4,9:24 PM,5:26,Harrington Bad Pass Turnover (P3.T17),,Jamison STEAL (1 STL),,
+0020501122,509,1,5,4,9:25 PM,5:22,,,Jamison 3' Layup (24 PTS) (Jeffries 3 AST),83 - 93,10
+0020501122,510,1,46,4,9:25 PM,5:00,Johnson 3' Running Jump Shot (13 PTS),,,83 - 95,12
+0020501122,511,1,1,4,9:25 PM,4:49,,,Arenas 25' 3PT Jump Shot (36 PTS),86 - 95,9
+0020501122,512,6,2,4,9:25 PM,4:49,Lue S.FOUL (P1.T4),,,,
+0020501122,513,3,10,4,9:25 PM,4:49,,,Arenas Free Throw 1 of 1 (37 PTS),87 - 95,8
+0020501122,514,1,1,4,9:26 PM,4:28,Smith 25' 3PT Jump Shot (21 PTS) (Lue 2 AST),,,87 - 98,11
+0020501122,515,2,1,4,9:26 PM,4:09,Smith BLOCK (4 BLK),,MISS Jeffries 5' Jump Shot,,
+0020501122,516,4,0,4,9:26 PM,4:05,,,Haywood REBOUND (Off:5 Def:2),,
+0020501122,517,2,5,4,9:26 PM,4:01,,,MISS Haywood  Layup,,
+0020501122,519,4,0,4,9:26 PM,4:00,,,Haywood REBOUND (Off:6 Def:2),,
+0020501122,518,1,7,4,9:26 PM,4:00,,,Haywood  Dunk (8 PTS),89 - 98,9
+0020501122,520,1,1,4,9:27 PM,3:42,Johnson 24' 3PT Jump Shot (16 PTS) (Lue 3 AST),,,89 - 101,12
+0020501122,521,1,1,4,9:27 PM,3:31,,,Arenas 19' Jump Shot (39 PTS),91 - 101,10
+0020501122,522,2,1,4,9:28 PM,3:00,MISS Johnson 25' 3PT Jump Shot,,,,
+0020501122,523,4,0,4,9:28 PM,2:58,,,Jamison REBOUND (Off:0 Def:7),,
+0020501122,524,2,1,4,9:28 PM,2:50,,,MISS Arenas 15' Jump Shot,,
+0020501122,525,4,0,4,9:28 PM,2:49,,,Haywood REBOUND (Off:7 Def:2),,
+0020501122,526,1,5,4,9:28 PM,2:49,,,Haywood  Layup (10 PTS),93 - 101,8
+0020501122,527,6,2,4,9:28 PM,2:49,Harrington S.FOUL (P5.PN),,,,
+0020501122,528,9,1,4,9:28 PM,2:49,,,Wizards Timeout: Regular (Reg.4 Short 1),,
+0020501122,529,8,0,4,9:30 PM,2:49,SUB: Pachulia FOR Harrington,,,,
+0020501122,531,3,10,4,9:30 PM,2:49,,,MISS Haywood Free Throw 1 of 1,,
+0020501122,532,4,0,4,9:30 PM,2:47,,,Ruffin REBOUND (Off:3 Def:5),,
+0020501122,533,2,1,4,9:30 PM,2:42,,,MISS Arenas 26' 3PT Jump Shot,,
+0020501122,534,4,0,4,9:30 PM,2:41,,,Haywood REBOUND (Off:8 Def:2),,
+0020501122,535,6,2,4,9:31 PM,2:41,Smith S.FOUL (P3.PN),,,,
+0020501122,536,3,11,4,9:31 PM,2:41,,,MISS Haywood Free Throw 1 of 2,,
+0020501122,537,4,1,4,9:31 PM,2:41,,,Wizards Rebound,,
+0020501122,538,3,12,4,9:31 PM,2:41,,,Haywood Free Throw 2 of 2 (11 PTS),94 - 101,7
+0020501122,539,1,1,4,9:31 PM,2:21,Lue 15' Jump Shot (9 PTS),,,94 - 103,9
+0020501122,540,2,1,4,9:32 PM,2:06,,,MISS Jamison 25' 3PT Jump Shot,,
+0020501122,541,4,0,4,9:32 PM,2:04,Smith REBOUND (Off:4 Def:4),,,,
+0020501122,542,6,1,4,9:32 PM,2:02,,,Ruffin P.FOUL (P4.PN),,
+0020501122,543,3,11,4,9:32 PM,2:02,MISS Smith Free Throw 1 of 2,,,,
+0020501122,544,4,1,4,9:32 PM,2:02,HAWKS Rebound,,,,
+0020501122,545,8,0,4,9:32 PM,2:02,,,SUB: Thomas FOR Ruffin,,
+0020501122,546,3,12,4,9:32 PM,2:02,Smith Free Throw 2 of 2 (22 PTS),,,94 - 104,10
+0020501122,547,1,1,4,9:33 PM,1:57,,,Thomas 25' 3PT Jump Shot (3 PTS) (Arenas 7 AST),97 - 104,7
+0020501122,548,1,1,4,9:33 PM,1:35,Smith  3PT Jump Shot (25 PTS) (Johnson 7 AST),,,97 - 107,10
+0020501122,549,9,1,4,9:33 PM,1:35,,,Wizards Timeout: Regular (Reg.5 Short 1),,
+0020501122,552,6,3,4,9:36 PM,1:33,Smith L.B.FOUL (P4.PN),,,,
+0020501122,553,3,11,4,9:36 PM,1:33,,,Arenas Free Throw 1 of 2 (40 PTS),98 - 107,9
+0020501122,554,8,0,4,9:36 PM,1:33,,,SUB: Ruffin FOR Haywood,,
+0020501122,555,3,12,4,9:36 PM,1:33,,,Arenas Free Throw 2 of 2 (41 PTS),99 - 107,8
+0020501122,556,2,1,4,9:37 PM,1:09,MISS Lue 16' Jump Shot,,,,
+0020501122,557,4,0,4,9:37 PM,1:07,Childress REBOUND (Off:2 Def:4),,,,
+0020501122,558,6,1,4,9:37 PM,1:04,,,Thomas P.FOUL (P2.PN),,
+0020501122,560,3,11,4,9:37 PM,1:04,Johnson Free Throw 1 of 2 (17 PTS),,,99 - 108,9
+0020501122,561,3,12,4,9:38 PM,1:04,Johnson Free Throw 2 of 2 (18 PTS),,,99 - 109,10
+0020501122,562,2,1,4,9:38 PM,0:54,,,MISS Jamison 9' Jump Shot,,
+0020501122,563,4,0,4,9:38 PM,0:53,,,Ruffin REBOUND (Off:4 Def:5),,
+0020501122,564,2,1,4,9:38 PM,0:51,,,MISS Thomas 27' 3PT Jump Shot,,
+0020501122,565,4,0,4,9:38 PM,0:49,Lue REBOUND (Off:0 Def:1),,,,
+0020501122,566,6,1,4,9:38 PM,0:49,,,Ruffin P.FOUL (P5.PN),,
+0020501122,567,3,11,4,9:38 PM,0:49,Lue Free Throw 1 of 2 (10 PTS),,,99 - 110,11
+0020501122,568,3,12,4,9:38 PM,0:49,Lue Free Throw 2 of 2 (11 PTS),,,99 - 111,12
+0020501122,569,9,1,4,9:39 PM,0:49,,,Wizards Timeout: Regular (Reg.6 Short 1),,
+0020501122,570,8,0,4,9:40 PM,0:49,,,SUB: Blatche FOR Ruffin,,
+0020501122,571,8,0,4,9:41 PM,0:49,SUB: Harrington FOR Pachulia,,,,
+0020501122,572,2,1,4,9:41 PM,0:44,,,MISS Jamison 4' Jump Shot,,
+0020501122,573,4,0,4,9:41 PM,0:42,Johnson REBOUND (Off:0 Def:3),,,,
+0020501122,574,6,1,4,9:41 PM,0:38,,,Blatche P.FOUL (P2.PN),,
+0020501122,576,3,11,4,9:41 PM,0:38,Johnson Free Throw 1 of 2 (19 PTS),,,99 - 112,13
+0020501122,577,8,0,4,9:42 PM,0:38,SUB: Williams FOR Lue,,,,
+0020501122,578,8,0,4,9:42 PM,0:38,,,SUB: Taylor FOR Arenas,,
+0020501122,579,8,0,4,9:42 PM,0:38,,,SUB: Storey FOR Jamison,,
+0020501122,581,8,0,4,9:42 PM,0:38,SUB: Smith FOR Smith,,,,
+0020501122,582,3,12,4,9:42 PM,0:38,Johnson Free Throw 2 of 2 (20 PTS),,,99 - 113,14
+0020501122,583,1,1,4,9:42 PM,0:31,,,Storey 22' Jump Shot (2 PTS) (Thomas 3 AST),101 - 113,12
+0020501122,584,6,1,4,9:42 PM,0:28,,,Blatche P.FOUL (P3.PN),,
+0020501122,585,3,11,4,9:43 PM,0:28,Smith Free Throw 1 of 2 (1 PTS),,,101 - 114,13
+0020501122,586,3,12,4,9:43 PM,0:28,MISS Smith Free Throw 2 of 2,,,,
+0020501122,587,4,0,4,9:43 PM,0:26,,,Blatche REBOUND (Off:1 Def:1),,
+0020501122,588,5,2,4,9:43 PM,0:20,Johnson STEAL (2 STL),,Blatche Lost Ball Turnover (P1.T16),,
+0020501122,589,13,0,4,9:44 PM,0:00,,,,101 - 114,13

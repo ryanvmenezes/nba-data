@@ -1,0 +1,461 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020800676,0,12,0,1,9:10 PM,12:00,,,,,
+0020800676,1,10,0,1,9:10 PM,12:00,Jump Ball Dampier vs. Biedrins: Tip to Nowitzki,,,,
+0020800676,2,1,58,1,9:12 PM,11:38,Dampier 9' Turnaround Hook Shot (2 PTS),,,0 - 2,2
+0020800676,3,1,79,1,9:12 PM,11:27,,,Ellis 23' Pullup Jump Shot (2 PTS),2 - 2,TIE
+0020800676,4,2,1,1,9:12 PM,11:15,MISS Kidd 17' Jump Shot,,,,
+0020800676,5,4,0,1,9:12 PM,11:14,,,Crawford REBOUND (Off:0 Def:1),,
+0020800676,6,2,1,1,9:12 PM,11:04,,,MISS Azubuike 25' 3PT Jump Shot,,
+0020800676,7,4,0,1,9:12 PM,11:03,MAVERICKS Rebound,,,,
+0020800676,8,2,1,1,9:12 PM,10:53,MISS Howard 20' Jump Shot,,,,
+0020800676,9,4,0,1,9:13 PM,10:51,,,Jackson REBOUND (Off:0 Def:1),,
+0020800676,10,2,1,1,9:13 PM,10:42,,,MISS Ellis 20' Jump Shot,,
+0020800676,11,4,0,1,9:13 PM,10:41,Howard REBOUND (Off:0 Def:1),,,,
+0020800676,12,1,46,1,9:13 PM,10:34,Howard 10' Running Jump Shot (2 PTS),,,2 - 4,2
+0020800676,13,6,2,1,9:13 PM,10:23,Dampier S.FOUL (P1.T1),,,,
+0020800676,14,3,11,1,9:13 PM,10:23,,,Jackson Free Throw 1 of 2 (1 PTS),3 - 4,1
+0020800676,16,3,12,1,9:13 PM,10:23,,,Jackson Free Throw 2 of 2 (2 PTS),4 - 4,TIE
+0020800676,18,2,63,1,9:14 PM,10:12,MISS Nowitzki 13' Fadeaway Jumper,,,,
+0020800676,19,4,0,1,9:14 PM,10:10,,,Biedrins REBOUND (Off:0 Def:1),,
+0020800676,20,1,79,1,9:14 PM,10:01,,,Jackson 22' Pullup Jump Shot (4 PTS) (Ellis 1 AST),6 - 4,-2
+0020800676,21,2,1,1,9:14 PM,9:44,MISS Nowitzki 10' Jump Shot,,,,
+0020800676,22,4,0,1,9:14 PM,9:42,Dampier REBOUND (Off:1 Def:0),,,,
+0020800676,23,1,72,1,9:14 PM,9:41,Dampier  Putback Layup (4 PTS),,,6 - 6,TIE
+0020800676,25,2,1,1,9:15 PM,9:31,Dampier BLOCK (1 BLK),,MISS Biedrins 4' Jump Shot,,
+0020800676,26,4,0,1,9:15 PM,9:29,Kidd REBOUND (Off:0 Def:1),,,,
+0020800676,27,2,42,1,9:15 PM,9:25,MISS Wright  Driving Layup,,,,
+0020800676,28,4,0,1,9:15 PM,9:25,,,Warriors Rebound,,
+0020800676,29,1,56,1,9:16 PM,9:05,,,Jackson 8' Running Hook Shot (6 PTS),8 - 6,-2
+0020800676,30,6,2,1,9:16 PM,8:51,,,Jackson S.FOUL (P1.T1),,
+0020800676,31,3,11,1,9:16 PM,8:51,Nowitzki Free Throw 1 of 2 (1 PTS),,,8 - 7,-1
+0020800676,33,3,12,1,9:16 PM,8:51,Nowitzki Free Throw 2 of 2 (2 PTS),,,8 - 8,TIE
+0020800676,35,1,79,1,9:17 PM,8:31,,,Jackson 24' 3PT Pullup Jump Shot (9 PTS) (Azubuike 1 AST),11 - 8,-3
+0020800676,36,1,79,1,9:17 PM,8:15,Wright 18' Pullup Jump Shot (2 PTS),,,11 - 10,-1
+0020800676,37,1,79,1,9:17 PM,7:54,,,Jackson 26' 3PT Pullup Jump Shot (12 PTS) (Crawford 1 AST),14 - 10,-4
+0020800676,38,5,1,1,9:18 PM,7:34,Kidd Bad Pass Turnover (P1.T1),,Biedrins STEAL (1 STL),,
+0020800676,39,1,5,1,9:18 PM,7:23,,,Biedrins  Layup (2 PTS) (Jackson 1 AST),16 - 10,-6
+0020800676,40,9,1,1,9:18 PM,7:16,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,
+0020800676,44,2,63,1,9:22 PM,7:01,MISS Nowitzki 10' Fadeaway Jumper,,,,
+0020800676,45,4,0,1,9:22 PM,6:58,,,Biedrins REBOUND (Off:0 Def:2),,
+0020800676,46,2,42,1,9:22 PM,6:52,,,MISS Azubuike  Driving Layup,,
+0020800676,47,4,0,1,9:22 PM,6:49,Wright REBOUND (Off:0 Def:1),,,,
+0020800676,48,1,5,1,9:23 PM,6:37,Nowitzki  Layup (4 PTS),,,16 - 12,-4
+0020800676,49,1,79,1,9:23 PM,6:17,,,Crawford 25' 3PT Pullup Jump Shot (3 PTS),19 - 12,-7
+0020800676,50,1,42,1,9:23 PM,6:00,Wright  Driving Layup (4 PTS),,,19 - 14,-5
+0020800676,51,5,1,1,9:23 PM,5:51,Wright STEAL (1 STL),,Jackson Bad Pass Turnover (P1.T1),,
+0020800676,52,1,90,1,9:23 PM,5:48,Wright  Running Slam Dunk (6 PTS),,,19 - 16,-3
+0020800676,53,2,1,1,9:24 PM,5:32,,,MISS Ellis 10' Jump Shot,,
+0020800676,54,4,0,1,9:24 PM,5:31,,,Biedrins REBOUND (Off:1 Def:2),,
+0020800676,55,5,4,1,9:24 PM,5:31,,,Biedrins Traveling Turnover (P1.T2),,
+0020800676,56,1,8,1,9:24 PM,5:23,Dampier  Slam Dunk (6 PTS) (Howard 1 AST),,,19 - 18,-1
+0020800676,57,5,2,1,9:24 PM,5:08,Wright STEAL (2 STL),,Crawford Lost Ball Turnover (P1.T3),,
+0020800676,58,1,42,1,9:24 PM,4:59,Nowitzki  Driving Layup (6 PTS),,,19 - 20,1
+0020800676,59,2,1,1,9:25 PM,4:37,,,MISS Ellis 20' Jump Shot,,
+0020800676,60,4,0,1,9:25 PM,4:36,Howard REBOUND (Off:0 Def:2),,,,
+0020800676,61,2,46,1,9:25 PM,4:30,MISS Howard 9' Running Jump Shot,,Biedrins BLOCK (1 BLK),,
+0020800676,62,4,0,1,9:25 PM,4:30,MAVERICKS Rebound,,,,
+0020800676,63,8,0,1,9:25 PM,4:30,,,SUB: Maggette FOR Ellis,,
+0020800676,64,8,0,1,9:25 PM,4:30,,,SUB: Morrow FOR Azubuike,,
+0020800676,65,1,63,1,9:26 PM,4:20,Nowitzki 13' Fadeaway Jumper (8 PTS),,,19 - 22,3
+0020800676,66,2,79,1,9:26 PM,4:03,,,MISS Crawford 25' 3PT Pullup Jump Shot,,
+0020800676,67,4,0,1,9:26 PM,4:02,Wright REBOUND (Off:0 Def:2),,,,
+0020800676,68,2,5,1,9:26 PM,3:51,MISS Nowitzki  Layup,,,,
+0020800676,69,4,0,1,9:26 PM,3:49,Dampier REBOUND (Off:2 Def:0),,,,
+0020800676,70,1,92,1,9:26 PM,3:48,Dampier  Putback Slam Dunk (8 PTS),,,19 - 24,5
+0020800676,71,9,1,1,9:26 PM,3:45,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020800676,73,8,0,1,9:29 PM,3:45,SUB: Terry FOR Howard,,,,
+0020800676,75,2,41,1,9:30 PM,3:34,,,MISS Biedrins  Running Layup,,
+0020800676,76,4,0,1,9:30 PM,3:32,Kidd REBOUND (Off:0 Def:2),,,,
+0020800676,77,2,79,1,9:30 PM,3:21,MISS Kidd 14' Pullup Jump Shot,,,,
+0020800676,78,4,0,1,9:30 PM,3:19,,,Crawford REBOUND (Off:0 Def:2),,
+0020800676,79,1,47,1,9:30 PM,3:05,,,Jackson 8' Turnaround Jump Shot (14 PTS),21 - 24,3
+0020800676,80,6,1,1,9:30 PM,2:52,,,Crawford P.FOUL (P1.T2),,
+0020800676,81,8,0,1,9:31 PM,2:52,SUB: Bass FOR Dampier,,,,
+0020800676,82,8,0,1,9:31 PM,2:52,,,SUB: Ellis FOR Crawford,,
+0020800676,83,7,5,1,9:31 PM,2:43,,,Jackson Violation:Kicked Ball,,
+0020800676,84,2,1,1,9:32 PM,2:35,MISS Bass 18' Jump Shot,,,,
+0020800676,86,4,0,1,9:32 PM,2:33,Nowitzki REBOUND (Off:1 Def:0),,,,
+0020800676,85,1,4,1,9:32 PM,2:33,Nowitzki  Tip Shot (10 PTS),,,21 - 26,5
+0020800676,88,2,1,1,9:32 PM,2:23,,,MISS Jackson 13' Jump Shot,,
+0020800676,90,4,0,1,9:32 PM,2:21,,,Biedrins REBOUND (Off:2 Def:2),,
+0020800676,89,2,72,1,9:32 PM,2:21,,,MISS Biedrins  Putback Layup,,
+0020800676,91,4,0,1,9:32 PM,2:19,Bass REBOUND (Off:0 Def:1),,,,
+0020800676,92,2,63,1,9:32 PM,2:12,MISS Nowitzki 17' Fadeaway Jumper,,,,
+0020800676,93,4,0,1,9:32 PM,2:10,,,Biedrins REBOUND (Off:2 Def:3),,
+0020800676,94,1,63,1,9:32 PM,1:57,,,Maggette 22' Fadeaway Jumper (2 PTS),23 - 26,3
+0020800676,95,2,1,1,9:33 PM,1:32,MISS Wright  3PT Jump Shot,,,,
+0020800676,96,4,0,1,9:33 PM,1:31,,,Biedrins REBOUND (Off:2 Def:4),,
+0020800676,97,2,1,1,9:33 PM,1:12,,,MISS Ellis 25' 3PT Jump Shot,,
+0020800676,98,4,0,1,9:33 PM,1:10,Bass REBOUND (Off:0 Def:2),,,,
+0020800676,99,1,79,1,9:33 PM,1:04,Terry 24' 3PT Pullup Jump Shot (3 PTS) (Kidd 1 AST),,,23 - 29,6
+0020800676,100,2,42,1,9:33 PM,0:40,Bass BLOCK (1 BLK),,MISS Maggette  Driving Layup,,
+0020800676,101,4,0,1,9:34 PM,0:40,,,Warriors Rebound,,
+0020800676,102,8,0,1,9:34 PM,0:40,SUB: Barea FOR Kidd,,,,
+0020800676,103,8,0,1,9:34 PM,0:40,SUB: Singleton FOR Nowitzki,,,,
+0020800676,104,2,63,1,9:34 PM,0:34,,,MISS Jackson 16' Fadeaway Jumper,,
+0020800676,105,4,0,1,9:34 PM,0:32,Bass REBOUND (Off:0 Def:3),,,,
+0020800676,106,1,46,1,9:34 PM,0:16,Terry 6' Running Jump Shot (5 PTS),,,23 - 31,8
+0020800676,107,6,1,1,9:35 PM,0:04,Barea P.FOUL (P1.T2),,,,
+0020800676,108,8,0,1,9:35 PM,0:04,,,SUB: Turiaf FOR Biedrins,,
+0020800676,110,1,1,1,9:35 PM,0:00,,,Maggette 22' Jump Shot (4 PTS) (Ellis 2 AST),25 - 31,6
+0020800676,111,13,0,1,9:35 PM,0:00,,,,25 - 31,6
+0020800676,113,12,0,2,9:39 PM,12:00,,,,25 - 31,6
+0020800676,114,1,63,2,9:39 PM,11:43,,,Jackson 19' Fadeaway Jumper (16 PTS),27 - 31,4
+0020800676,115,1,79,2,9:39 PM,11:22,Terry 13' Pullup Jump Shot (7 PTS),,,27 - 33,6
+0020800676,116,1,73,2,9:40 PM,11:11,,,Ellis  Driving Reverse Layup (4 PTS),29 - 33,4
+0020800676,117,6,2,2,9:40 PM,11:11,Barea S.FOUL (P2.T1),,,,
+0020800676,118,3,10,2,9:40 PM,11:11,,,Ellis Free Throw 1 of 1 (5 PTS),30 - 33,3
+0020800676,120,2,5,2,9:40 PM,10:56,MISS Singleton  Layup,,Turiaf BLOCK (1 BLK),,
+0020800676,121,4,0,2,9:40 PM,10:54,,,Jackson REBOUND (Off:0 Def:2),,
+0020800676,122,2,1,2,9:40 PM,10:50,,,MISS Morrow 17' Jump Shot,,
+0020800676,123,4,0,2,9:40 PM,10:49,Howard REBOUND (Off:0 Def:3),,,,
+0020800676,124,5,40,2,9:41 PM,10:38,Barea Out of Bounds Lost Ball Turnover (P1.T2),,,,
+0020800676,125,5,4,2,9:41 PM,10:24,,,Ellis Traveling Turnover (P1.T4),,
+0020800676,126,1,78,2,9:41 PM,10:09,Bass 6' Floating Jump Shot (2 PTS),,,30 - 35,5
+0020800676,127,2,42,2,9:42 PM,9:59,Bass BLOCK (2 BLK),,MISS Maggette  Driving Layup,,
+0020800676,128,4,0,2,9:42 PM,9:59,,,Warriors Rebound,,
+0020800676,129,2,42,2,9:42 PM,9:53,Singleton BLOCK (1 BLK),,MISS Ellis  Driving Layup,,
+0020800676,131,4,0,2,9:42 PM,9:50,,,Maggette REBOUND (Off:1 Def:0),,
+0020800676,130,1,72,2,9:42 PM,9:50,,,Maggette  Putback Layup (6 PTS),32 - 35,3
+0020800676,132,2,63,2,9:43 PM,9:35,MISS Terry 16' Fadeaway Jumper,,,,
+0020800676,133,4,0,2,9:43 PM,9:32,,,Jackson REBOUND (Off:0 Def:3),,
+0020800676,134,6,1,2,9:43 PM,9:32,Bass P.FOUL (P1.T2),,,,
+0020800676,135,6,1,2,9:43 PM,9:14,Barea P.FOUL (P3.T3),,,,
+0020800676,136,8,0,2,9:43 PM,9:14,SUB: Kidd FOR Barea,,,,
+0020800676,137,5,1,2,9:44 PM,9:13,,,Jackson Bad Pass Turnover (P2.T5),,
+0020800676,138,1,73,2,9:44 PM,8:59,Bass  Driving Reverse Layup (4 PTS),,,32 - 37,5
+0020800676,139,2,1,2,9:44 PM,8:45,,,MISS Maggette 20' Jump Shot,,
+0020800676,140,4,0,2,9:44 PM,8:44,Bass REBOUND (Off:0 Def:4),,,,
+0020800676,141,5,40,2,9:44 PM,8:42,Terry Out of Bounds Lost Ball Turnover (P1.T3),,,,
+0020800676,142,9,4,2,9:44 PM,8:42,,,,,
+0020800676,145,8,0,2,9:47 PM,8:42,,,SUB: Azubuike FOR Jackson,,
+0020800676,146,8,0,2,9:47 PM,8:42,,,SUB: Crawford FOR Ellis,,
+0020800676,147,8,0,2,9:47 PM,8:42,,,SUB: Randolph FOR Morrow,,
+0020800676,148,1,63,2,9:47 PM,8:29,,,Maggette 15' Fadeaway Jumper (8 PTS),34 - 37,3
+0020800676,149,6,4,2,9:48 PM,8:15,Bass OFF.Foul (P2),,,,
+0020800676,150,5,5,2,9:48 PM,8:15,Bass Foul Turnover (P1.T4),,,,
+0020800676,151,1,79,2,9:48 PM,7:57,,,Turiaf 21' Pullup Jump Shot (2 PTS) (Maggette 1 AST),36 - 37,1
+0020800676,152,6,1,2,9:49 PM,7:45,,,Crawford P.FOUL (P2.T1),,
+0020800676,153,6,4,2,9:49 PM,7:37,Terry OFF.Foul (P1),,,,
+0020800676,154,5,5,2,9:49 PM,7:37,Terry Foul Turnover (P2.T5),,,,
+0020800676,155,8,0,2,9:49 PM,7:37,SUB: Nowitzki FOR Singleton,,,,
+0020800676,156,8,0,2,9:50 PM,7:37,,,SUB: Biedrins FOR Turiaf,,
+0020800676,157,2,1,2,9:50 PM,7:26,,,MISS Maggette 18' Jump Shot,,
+0020800676,158,4,0,2,9:50 PM,7:25,Howard REBOUND (Off:0 Def:4),,,,
+0020800676,159,1,79,2,9:50 PM,7:19,Howard 25' 3PT Pullup Jump Shot (5 PTS) (Kidd 2 AST),,,36 - 40,4
+0020800676,160,2,79,2,9:50 PM,7:02,,,MISS Crawford 17' Pullup Jump Shot,,
+0020800676,161,4,0,2,9:50 PM,7:01,Nowitzki REBOUND (Off:1 Def:1),,,,
+0020800676,162,6,3,2,9:50 PM,7:01,,,Biedrins L.B.FOUL (P1.T2),,
+0020800676,163,8,0,2,9:50 PM,7:01,,,SUB: Jackson FOR Randolph,,
+0020800676,165,1,79,2,9:51 PM,6:48,Bass 16' Pullup Jump Shot (6 PTS) (Howard 2 AST),,,36 - 42,6
+0020800676,166,1,42,2,9:51 PM,6:35,,,Azubuike  Driving Layup (2 PTS) (Jackson 2 AST),38 - 42,4
+0020800676,167,6,2,2,9:51 PM,6:28,,,Biedrins S.FOUL (P2.T3),,
+0020800676,168,3,11,2,9:51 PM,6:28,Bass Free Throw 1 of 2 (7 PTS),,,38 - 43,5
+0020800676,170,3,12,2,9:52 PM,6:28,Bass Free Throw 2 of 2 (8 PTS),,,38 - 44,6
+0020800676,172,5,4,2,9:52 PM,6:11,,,Crawford Traveling Turnover (P2.T6),,
+0020800676,173,8,0,2,9:52 PM,6:11,,,SUB: Turiaf FOR Biedrins,,
+0020800676,174,6,2,2,9:53 PM,5:57,,,Turiaf S.FOUL (P1.T4),,
+0020800676,176,9,1,2,9:53 PM,5:57,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,
+0020800676,179,3,11,2,9:55 PM,5:57,Bass Free Throw 1 of 2 (9 PTS),,,38 - 45,7
+0020800676,181,3,12,2,9:56 PM,5:57,Bass Free Throw 2 of 2 (10 PTS),,,38 - 46,8
+0020800676,183,2,42,2,9:56 PM,5:45,,,MISS Azubuike  Driving Layup,,
+0020800676,184,4,0,2,9:56 PM,5:45,MAVERICKS Rebound,,,,
+0020800676,185,1,46,2,9:57 PM,5:33,Howard 11' Running Jump Shot (7 PTS) (Kidd 3 AST),,,38 - 48,10
+0020800676,186,6,2,2,9:57 PM,5:33,,,Azubuike S.FOUL (P1.PN),,
+0020800676,187,8,0,2,9:57 PM,5:33,,,SUB: Randolph FOR Azubuike,,
+0020800676,189,8,0,2,9:57 PM,5:33,SUB: Dampier FOR Bass,,,,
+0020800676,190,3,10,2,9:57 PM,5:33,MISS Howard Free Throw 1 of 1,,,,
+0020800676,192,4,0,2,9:57 PM,5:32,,,Turiaf REBOUND (Off:0 Def:1),,
+0020800676,193,2,5,2,9:58 PM,5:21,Kidd BLOCK (1 BLK),,MISS Maggette  Layup,,
+0020800676,194,4,0,2,9:58 PM,5:19,Dampier REBOUND (Off:2 Def:1),,,,
+0020800676,195,1,79,2,9:58 PM,5:15,Terry 11' Pullup Jump Shot (9 PTS) (Kidd 4 AST),,,38 - 50,12
+0020800676,196,1,47,2,9:58 PM,4:50,,,Randolph 16' Turnaround Jump Shot (2 PTS) (Turiaf 1 AST),40 - 50,10
+0020800676,197,6,2,2,9:58 PM,4:42,,,Turiaf S.FOUL (P2.PN),,
+0020800676,198,8,0,2,9:58 PM,4:42,,,SUB: Biedrins FOR Turiaf,,
+0020800676,199,8,0,2,9:59 PM,4:42,,,SUB: Ellis FOR Crawford,,
+0020800676,200,3,11,2,9:59 PM,4:42,Nowitzki Free Throw 1 of 2 (11 PTS),,,40 - 51,11
+0020800676,202,3,12,2,9:59 PM,4:42,Nowitzki Free Throw 2 of 2 (12 PTS),,,40 - 52,12
+0020800676,204,2,71,2,9:59 PM,4:24,,,MISS Biedrins  Finger Roll Layup,,
+0020800676,205,4,0,2,9:59 PM,4:23,,,Randolph REBOUND (Off:1 Def:0),,
+0020800676,206,2,3,2,9:59 PM,4:16,,,MISS Randolph 6' Hook Shot,,
+0020800676,207,4,0,2,10:00 PM,4:14,Kidd REBOUND (Off:0 Def:3),,,,
+0020800676,208,5,2,2,10:00 PM,4:07,Kidd Lost Ball Turnover (P2.T6),,Randolph STEAL (1 STL),,
+0020800676,209,2,63,2,10:00 PM,3:52,,,MISS Jackson 15' Fadeaway Jumper,,
+0020800676,210,4,0,2,10:00 PM,3:50,Dampier REBOUND (Off:2 Def:2),,,,
+0020800676,211,1,47,2,10:01 PM,3:41,Nowitzki 15' Turnaround Jump Shot (14 PTS) (Kidd 5 AST),,,40 - 54,14
+0020800676,212,2,1,2,10:01 PM,3:32,,,MISS Ellis 18' Jump Shot,,
+0020800676,213,4,0,2,10:01 PM,3:30,MAVERICKS Rebound,,,,
+0020800676,214,1,79,2,10:01 PM,3:11,Howard  3PT Pullup Jump Shot (10 PTS) (Terry 1 AST),,,40 - 57,17
+0020800676,215,6,2,2,10:02 PM,2:56,Kidd S.FOUL (P1.T4),,,,
+0020800676,217,9,1,2,10:02 PM,2:56,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020800676,219,8,0,2,10:05 PM,2:56,,,SUB: Azubuike FOR Maggette,,
+0020800676,220,3,11,2,10:05 PM,2:56,,,MISS Jackson Free Throw 1 of 2,,
+0020800676,221,4,1,2,10:05 PM,2:56,,,Warriors Rebound,,
+0020800676,222,3,12,2,10:05 PM,2:56,,,Jackson Free Throw 2 of 2 (17 PTS),41 - 57,16
+0020800676,224,1,47,2,10:06 PM,2:41,Nowitzki 15' Turnaround Jump Shot (16 PTS) (Kidd 6 AST),,,41 - 59,18
+0020800676,225,5,4,2,10:06 PM,2:20,,,Randolph Traveling Turnover (P1.T7),,
+0020800676,226,1,79,2,10:06 PM,2:16,Nowitzki 16' Pullup Jump Shot (18 PTS) (Terry 2 AST),,,41 - 61,20
+0020800676,227,6,1,2,10:06 PM,2:10,Howard P.FOUL (P1.PN),,,,
+0020800676,228,3,11,2,10:07 PM,2:10,,,Jackson Free Throw 1 of 2 (18 PTS),42 - 61,19
+0020800676,230,8,0,2,10:07 PM,2:10,,,SUB: Maggette FOR Randolph,,
+0020800676,231,3,12,2,10:07 PM,2:10,,,Jackson Free Throw 2 of 2 (19 PTS),43 - 61,18
+0020800676,233,2,46,2,10:08 PM,1:47,MISS Howard 15' Running Jump Shot,,,,
+0020800676,235,4,0,2,10:08 PM,1:45,Dampier REBOUND (Off:3 Def:2),,,,
+0020800676,234,1,72,2,10:08 PM,1:45,Dampier  Putback Layup (10 PTS),,,43 - 63,20
+0020800676,236,1,8,2,10:08 PM,1:36,,,Maggette  Slam Dunk (10 PTS) (Jackson 3 AST),45 - 63,18
+0020800676,237,2,47,2,10:08 PM,1:22,MISS Nowitzki 17' Turnaround Jump Shot,,,,
+0020800676,238,4,0,2,10:08 PM,1:20,,,Maggette REBOUND (Off:1 Def:1),,
+0020800676,239,6,2,2,10:08 PM,1:11,Howard S.FOUL (P2.PN),,,,
+0020800676,240,3,11,2,10:08 PM,1:11,,,Maggette Free Throw 1 of 2 (11 PTS),46 - 63,17
+0020800676,242,8,0,2,10:09 PM,1:11,SUB: Wright FOR Howard,,,,
+0020800676,243,3,12,2,10:09 PM,1:11,,,Maggette Free Throw 2 of 2 (12 PTS),47 - 63,16
+0020800676,245,6,1,2,10:09 PM,1:06,,,Ellis P.FOUL (P1.PN),,
+0020800676,246,3,11,2,10:09 PM,1:06,Kidd Free Throw 1 of 2 (1 PTS),,,47 - 64,17
+0020800676,248,3,12,2,10:10 PM,1:06,MISS Kidd Free Throw 2 of 2,,,,
+0020800676,250,4,0,2,10:10 PM,1:05,,,Maggette REBOUND (Off:1 Def:2),,
+0020800676,251,2,1,2,10:10 PM,0:51,,,MISS Jackson 23' Jump Shot,,
+0020800676,252,4,0,2,10:10 PM,0:51,Nowitzki REBOUND (Off:1 Def:2),,,,
+0020800676,253,5,40,2,10:10 PM,0:45,Wright Out of Bounds Lost Ball Turnover (P1.T7),,,,
+0020800676,254,2,5,2,10:10 PM,0:37,Dampier BLOCK (2 BLK),,MISS Ellis  Layup,,
+0020800676,255,4,0,2,10:10 PM,0:35,Nowitzki REBOUND (Off:1 Def:3),,,,
+0020800676,256,6,9,2,10:10 PM,0:35,,,Maggette C.P.FOUL (P1.PN),,
+0020800676,257,3,25,2,10:11 PM,0:35,Terry Free Throw Clear Path 1 of 2 (10 PTS),,,47 - 65,18
+0020800676,259,3,26,2,10:11 PM,0:35,Terry Free Throw Clear Path 2 of 2 (11 PTS),,,47 - 66,19
+0020800676,263,9,2,2,10:12 PM,0:35,MAVERICKS Timeout: Short (Full 2 Short 1),,,,
+0020800676,265,8,0,2,10:12 PM,0:35,,,SUB: Watson FOR Ellis,,
+0020800676,266,1,79,2,10:13 PM,0:29,Terry 25' 3PT Pullup Jump Shot (14 PTS) (Dampier 1 AST),,,47 - 69,22
+0020800676,267,2,1,2,10:13 PM,0:20,,,MISS Watson 18' Jump Shot,,
+0020800676,268,4,0,2,10:13 PM,0:18,Dampier REBOUND (Off:3 Def:3),,,,
+0020800676,269,5,1,2,10:13 PM,0:04,Terry Bad Pass Turnover (P3.T8),,Jackson STEAL (1 STL),,
+0020800676,270,2,42,2,10:13 PM,0:01,Kidd BLOCK (2 BLK),,MISS Watson  Driving Layup,,
+0020800676,271,4,0,2,10:13 PM,0:01,,,Warriors Rebound,,
+0020800676,273,13,0,2,10:14 PM,0:00,,,,47 - 69,22
+0020800676,275,12,0,3,10:33 PM,12:00,,,,47 - 69,22
+0020800676,276,2,63,3,10:34 PM,11:47,,,MISS Ellis 11' Fadeaway Jumper,,
+0020800676,277,4,0,3,10:34 PM,11:43,Kidd REBOUND (Off:0 Def:4),,,,
+0020800676,278,5,1,3,10:34 PM,11:33,Kidd Bad Pass Turnover (P3.T9),,Ellis STEAL (1 STL),,
+0020800676,279,5,1,3,10:34 PM,11:31,Kidd STEAL (1 STL),,Crawford Bad Pass Turnover (P3.T8),,
+0020800676,280,2,86,3,10:34 PM,11:10,MISS Nowitzki 16' Turnaround Fadeaway Shot,,,,
+0020800676,281,4,0,3,10:34 PM,11:09,Dampier REBOUND (Off:4 Def:3),,,,
+0020800676,282,6,3,3,10:34 PM,11:09,,,Biedrins L.B.FOUL (P3.T1),,
+0020800676,283,1,79,3,10:35 PM,11:00,Kidd 23' Pullup Jump Shot (3 PTS),,,47 - 71,24
+0020800676,284,2,44,3,10:35 PM,10:42,,,MISS Jackson  Reverse Layup,,
+0020800676,286,4,0,3,10:35 PM,10:41,Howard REBOUND (Off:0 Def:5),,,,
+0020800676,285,5,41,3,10:35 PM,10:40,Howard Poss Lost Ball Turnover (P1.T10),,Azubuike STEAL (1 STL),,
+0020800676,313,2,40,3,10:35 PM,10:36,,,MISS Ellis  Layup,,
+0020800676,319,4,0,3,10:35 PM,10:36,,,Biedrins REBOUND (Off:3 Def:4),,
+0020800676,322,2,72,3,10:35 PM,10:35,,,MISS Biedrins  Putback Layup,,
+0020800676,325,4,0,3,10:35 PM,10:34,,,Biedrins REBOUND (Off:4 Def:4),,
+0020800676,327,2,53,3,10:35 PM,10:34,,,MISS Biedrins  Tip Shot,,
+0020800676,344,4,0,3,10:35 PM,10:31,,,Biedrins REBOUND (Off:5 Def:4),,
+0020800676,332,2,72,3,10:35 PM,10:29,,,MISS Biedrins  Putback Layup,,
+0020800676,337,4,0,3,10:35 PM,10:27,,,Biedrins REBOUND (Off:6 Def:4),,
+0020800676,288,1,4,3,10:36 PM,10:26,,,Biedrins 7' Tip Shot (4 PTS),49 - 71,22
+0020800676,289,6,1,3,10:36 PM,10:08,,,Biedrins P.FOUL (P4.T2),,
+0020800676,290,8,0,3,10:36 PM,10:08,,,SUB: Turiaf FOR Biedrins,,
+0020800676,291,2,1,3,10:37 PM,10:03,MISS Howard 23' Jump Shot,,,,
+0020800676,292,4,0,3,10:37 PM,10:02,,,Ellis REBOUND (Off:0 Def:1),,
+0020800676,293,1,1,3,10:37 PM,9:47,,,Azubuike 25' 3PT Jump Shot (5 PTS) (Ellis 3 AST),52 - 71,19
+0020800676,294,1,44,3,10:37 PM,9:27,Nowitzki  Reverse Layup (20 PTS),,,52 - 73,21
+0020800676,295,5,1,3,10:37 PM,9:14,Kidd STEAL (2 STL),,Jackson Bad Pass Turnover (P3.T9),,
+0020800676,296,2,42,3,10:38 PM,9:10,MISS Dampier  Driving Layup,,Azubuike BLOCK (1 BLK),,
+0020800676,297,4,0,3,10:38 PM,9:10,MAVERICKS Rebound,,,,
+0020800676,298,2,63,3,10:38 PM,8:58,MISS Nowitzki 17' Fadeaway Jumper,,,,
+0020800676,299,4,0,3,10:38 PM,8:56,,,Jackson REBOUND (Off:0 Def:4),,
+0020800676,300,2,1,3,10:38 PM,8:49,,,MISS Jackson 23' Jump Shot,,
+0020800676,301,4,0,3,10:38 PM,8:48,Kidd REBOUND (Off:0 Def:5),,,,
+0020800676,303,1,79,3,10:38 PM,8:40,Howard 15' Pullup Jump Shot (12 PTS) (Kidd 7 AST),,,52 - 75,23
+0020800676,304,1,42,3,10:39 PM,8:17,,,Azubuike  Driving Layup (7 PTS),54 - 75,21
+0020800676,305,1,79,3,10:39 PM,8:06,Howard 16' Pullup Jump Shot (14 PTS),,,54 - 77,23
+0020800676,306,6,2,3,10:39 PM,7:49,Howard S.FOUL (P3.T1),,,,
+0020800676,307,3,11,3,10:39 PM,7:49,,,Jackson Free Throw 1 of 2 (20 PTS),55 - 77,22
+0020800676,309,3,12,3,10:40 PM,7:49,,,Jackson Free Throw 2 of 2 (21 PTS),56 - 77,21
+0020800676,311,5,2,3,10:40 PM,7:38,Wright Lost Ball Turnover (P2.T11),,Crawford STEAL (1 STL),,
+0020800676,312,5,1,3,10:40 PM,7:33,Nowitzki STEAL (1 STL),,Ellis Bad Pass Turnover (P2.T10),,
+0020800676,314,2,1,3,10:41 PM,7:20,MISS Wright 25' 3PT Jump Shot,,,,
+0020800676,315,4,0,3,10:41 PM,7:19,,,Ellis REBOUND (Off:0 Def:2),,
+0020800676,316,6,2,3,10:41 PM,7:14,Nowitzki S.FOUL (P1.T2),,,,
+0020800676,318,3,11,3,10:41 PM,7:14,,,Ellis Free Throw 1 of 2 (6 PTS),57 - 77,20
+0020800676,321,8,0,3,10:41 PM,7:14,,,SUB: Biedrins FOR Azubuike,,
+0020800676,323,3,12,3,10:41 PM,7:14,,,Ellis Free Throw 2 of 2 (7 PTS),58 - 77,19
+0020800676,326,7,5,3,10:42 PM,7:07,,,Ellis Violation:Kicked Ball,,
+0020800676,328,2,63,3,10:42 PM,6:53,MISS Nowitzki 20' Fadeaway Jumper,,,,
+0020800676,329,4,0,3,10:42 PM,6:50,,,Jackson REBOUND (Off:0 Def:5),,
+0020800676,330,6,4,3,10:43 PM,6:43,,,Crawford OFF.Foul (P3),,
+0020800676,331,5,5,3,10:43 PM,6:43,,,Crawford Foul Turnover (P4.T11),,
+0020800676,333,2,1,3,10:43 PM,6:35,MISS Howard 15' Jump Shot,,,,
+0020800676,335,4,0,3,10:43 PM,6:33,Dampier REBOUND (Off:5 Def:3),,,,
+0020800676,336,1,79,3,10:43 PM,6:22,Howard 24' 3PT Pullup Jump Shot (17 PTS) (Kidd 8 AST),,,58 - 80,22
+0020800676,339,2,1,3,10:43 PM,6:06,,,MISS Jackson 18' Jump Shot,,
+0020800676,340,4,0,3,10:43 PM,6:05,Dampier REBOUND (Off:5 Def:4),,,,
+0020800676,341,1,1,3,10:44 PM,6:00,Howard 15' Jump Shot (19 PTS) (Kidd 9 AST),,,58 - 82,24
+0020800676,342,9,1,3,10:44 PM,5:59,,,Warriors Timeout: Regular (Reg.3 Short 0),,
+0020800676,347,1,79,3,10:47 PM,5:43,,,Turiaf 18' Pullup Jump Shot (4 PTS) (Biedrins 1 AST),60 - 82,22
+0020800676,348,5,1,3,10:47 PM,5:26,Howard Bad Pass Turnover (P2.T12),,Jackson STEAL (2 STL),,
+0020800676,349,5,1,3,10:47 PM,5:24,Howard STEAL (1 STL),,Jackson Bad Pass Turnover (P4.T12),,
+0020800676,350,2,5,3,10:48 PM,5:17,MISS Nowitzki  Layup,,,,
+0020800676,351,4,0,3,10:48 PM,5:15,,,Turiaf REBOUND (Off:0 Def:2),,
+0020800676,352,5,1,3,10:48 PM,5:06,,,Turiaf Bad Pass Turnover (P1.T13),,
+0020800676,354,1,1,3,10:48 PM,4:43,Wright 25' 3PT Jump Shot (9 PTS) (Dampier 2 AST),,,60 - 85,25
+0020800676,355,6,2,3,10:49 PM,4:25,Howard S.FOUL (P4.T3),,,,
+0020800676,356,3,11,3,10:49 PM,4:25,,,Jackson Free Throw 1 of 2 (22 PTS),61 - 85,24
+0020800676,358,8,0,3,10:49 PM,4:25,SUB: Terry FOR Howard,,,,
+0020800676,359,8,0,3,10:49 PM,4:25,,,SUB: Watson FOR Ellis,,
+0020800676,360,3,12,3,10:49 PM,4:25,,,Jackson Free Throw 2 of 2 (23 PTS),62 - 85,23
+0020800676,362,2,47,3,10:50 PM,4:11,MISS Nowitzki 18' Turnaround Jump Shot,,,,
+0020800676,363,4,0,3,10:50 PM,4:08,,,Crawford REBOUND (Off:0 Def:3),,
+0020800676,364,1,5,3,10:50 PM,3:57,,,Jackson  Layup (25 PTS),64 - 85,21
+0020800676,365,2,63,3,10:50 PM,3:38,MISS Nowitzki 13' Fadeaway Jumper,,,,
+0020800676,366,4,0,3,10:51 PM,3:36,,,Crawford REBOUND (Off:0 Def:4),,
+0020800676,367,2,1,3,10:51 PM,3:31,,,MISS Crawford 19' Jump Shot,,
+0020800676,368,4,0,3,10:51 PM,3:30,Terry REBOUND (Off:0 Def:1),,,,
+0020800676,369,9,1,3,10:51 PM,3:26,MAVERICKS Timeout: Regular (Full 3 Short 1),,,,
+0020800676,372,8,0,3,10:54 PM,3:26,,,SUB: Maggette FOR Jackson,,
+0020800676,373,2,1,3,10:55 PM,3:09,MISS Terry 25' 3PT Jump Shot,,,,
+0020800676,374,4,0,3,10:55 PM,3:08,,,Biedrins REBOUND (Off:6 Def:5),,
+0020800676,375,2,63,3,10:55 PM,2:54,Nowitzki BLOCK (1 BLK),,MISS Crawford 14' Fadeaway Jumper,,
+0020800676,376,4,0,3,10:55 PM,2:53,,,Warriors Rebound,,
+0020800676,377,8,0,3,10:55 PM,2:53,SUB: Bass FOR Nowitzki,,,,
+0020800676,378,2,1,3,10:55 PM,2:48,,,MISS Maggette 15' Jump Shot,,
+0020800676,379,4,0,3,10:55 PM,2:46,Kidd REBOUND (Off:0 Def:6),,,,
+0020800676,380,5,1,3,10:56 PM,2:28,Bass Bad Pass Turnover (P2.T13),,,,
+0020800676,381,2,63,3,10:56 PM,2:05,,,MISS Crawford 18' Fadeaway Jumper,,
+0020800676,382,4,0,3,10:56 PM,2:03,Bass REBOUND (Off:0 Def:5),,,,
+0020800676,383,2,1,3,10:56 PM,1:48,MISS Terry 21' Jump Shot,,,,
+0020800676,384,4,0,3,10:57 PM,1:48,Dampier REBOUND (Off:6 Def:4),,,,
+0020800676,385,6,3,3,10:57 PM,1:48,,,Turiaf L.B.FOUL (P3.T3),,
+0020800676,386,8,0,3,10:57 PM,1:48,,,SUB: Morrow FOR Crawford,,
+0020800676,387,2,1,3,10:57 PM,1:32,MISS Bass 17' Jump Shot,,,,
+0020800676,388,4,0,3,10:57 PM,1:30,Dampier REBOUND (Off:7 Def:4),,,,
+0020800676,389,2,1,3,10:57 PM,1:25,MISS Kidd 25' 3PT Jump Shot,,,,
+0020800676,390,4,0,3,10:57 PM,1:24,,,Maggette REBOUND (Off:1 Def:3),,
+0020800676,391,6,2,3,10:57 PM,1:19,Wright S.FOUL (P1.T4),,,,
+0020800676,392,3,11,3,10:58 PM,1:19,,,Maggette Free Throw 1 of 2 (13 PTS),65 - 85,20
+0020800676,394,8,0,3,10:58 PM,1:19,,,SUB: Kurz FOR Biedrins,,
+0020800676,395,3,12,3,10:58 PM,1:19,,,Maggette Free Throw 2 of 2 (14 PTS),66 - 85,19
+0020800676,397,6,2,3,10:58 PM,1:10,,,Kurz S.FOUL (P1.PN),,
+0020800676,398,3,11,3,10:59 PM,1:10,MISS Terry Free Throw 1 of 2,,,,
+0020800676,399,4,1,3,10:59 PM,1:10,MAVERICKS Rebound,,,,
+0020800676,400,3,12,3,10:59 PM,1:10,Terry Free Throw 2 of 2 (15 PTS),,,66 - 86,20
+0020800676,402,6,1,3,10:59 PM,1:03,Wright P.FOUL (P2.PN),,,,
+0020800676,403,3,11,3,10:59 PM,1:03,,,Maggette Free Throw 1 of 2 (15 PTS),67 - 86,19
+0020800676,405,3,12,3,11:00 PM,1:03,,,Maggette Free Throw 2 of 2 (16 PTS),68 - 86,18
+0020800676,407,6,2,3,11:00 PM,0:54,,,Kurz S.FOUL (P2.PN),,
+0020800676,408,3,11,3,11:00 PM,0:54,Bass Free Throw 1 of 2 (11 PTS),,,68 - 87,19
+0020800676,410,3,12,3,11:00 PM,0:54,Bass Free Throw 2 of 2 (12 PTS),,,68 - 88,20
+0020800676,412,1,79,3,11:01 PM,0:42,,,Turiaf 17' Pullup Jump Shot (6 PTS) (Watson 1 AST),70 - 88,18
+0020800676,413,6,1,3,11:01 PM,0:33,,,Maggette P.FOUL (P2.PN),,
+0020800676,414,3,11,3,11:01 PM,0:33,Terry Free Throw 1 of 2 (16 PTS),,,70 - 89,19
+0020800676,416,8,0,3,11:02 PM,0:33,SUB: Singleton FOR Dampier,,,,
+0020800676,417,3,12,3,11:02 PM,0:33,Terry Free Throw 2 of 2 (17 PTS),,,70 - 90,20
+0020800676,419,2,1,3,11:02 PM,0:18,,,MISS Watson 17' Jump Shot,,
+0020800676,420,4,0,3,11:02 PM,0:17,Kidd REBOUND (Off:0 Def:7),,,,
+0020800676,421,1,79,3,11:02 PM,0:01,Singleton 16' Pullup Jump Shot (2 PTS) (Wright 1 AST),,,70 - 92,22
+0020800676,422,2,1,3,11:03 PM,0:00,,,MISS Morrow 40' 3PT Jump Shot,,
+0020800676,423,4,0,3,11:03 PM,0:00,,,Warriors Rebound,,
+0020800676,424,13,0,3,11:03 PM,0:00,,,,70 - 92,22
+0020800676,426,12,0,4,11:06 PM,12:00,,,,70 - 92,22
+0020800676,427,2,42,4,11:06 PM,11:41,MISS Bass  Driving Layup,,Randolph BLOCK (1 BLK),,
+0020800676,428,4,0,4,11:06 PM,11:41,MAVERICKS Rebound,,,,
+0020800676,429,1,63,4,11:07 PM,11:37,Singleton 18' Fadeaway Jumper (4 PTS) (Barea 1 AST),,,70 - 94,24
+0020800676,430,1,79,4,11:07 PM,11:20,,,Morrow 19' Pullup Jump Shot (2 PTS),72 - 94,22
+0020800676,432,7,2,4,11:07 PM,11:06,,,Randolph Violation:Defensive Goaltending,,
+0020800676,431,1,5,4,11:07 PM,11:06,Singleton  Layup (6 PTS) (Terry 3 AST),,,72 - 96,24
+0020800676,433,6,2,4,11:07 PM,11:06,,,Turiaf S.FOUL (P4.T1),,
+0020800676,434,3,10,4,11:08 PM,11:06,Singleton Free Throw 1 of 1 (7 PTS),,,72 - 97,25
+0020800676,436,1,80,4,11:08 PM,10:53,,,Maggette 19' Step Back Jump Shot (18 PTS) (Watson 2 AST),74 - 97,23
+0020800676,437,1,79,4,11:08 PM,10:36,Terry 20' Pullup Jump Shot (19 PTS) (Bass 1 AST),,,74 - 99,25
+0020800676,438,1,90,4,11:08 PM,10:18,,,Randolph  Running Slam Dunk (4 PTS) (Maggette 2 AST),76 - 99,23
+0020800676,439,5,4,4,11:09 PM,10:02,Bass Traveling Turnover (P3.T14),,,,
+0020800676,440,1,63,4,11:09 PM,9:51,,,Maggette 17' Fadeaway Jumper (20 PTS) (Turiaf 2 AST),78 - 99,21
+0020800676,441,5,21,4,11:10 PM,9:32,Howard Palming Turnover (P3.T15),,,,
+0020800676,442,6,2,4,11:10 PM,9:22,Singleton S.FOUL (P1.T1),,,,
+0020800676,443,3,11,4,11:10 PM,9:22,,,Maggette Free Throw 1 of 2 (21 PTS),79 - 99,20
+0020800676,445,3,12,4,11:10 PM,9:22,,,MISS Maggette Free Throw 2 of 2,,
+0020800676,447,4,0,4,11:11 PM,9:21,Bass REBOUND (Off:0 Def:6),,,,
+0020800676,448,1,80,4,11:11 PM,9:10,Singleton 15' Step Back Jump Shot (9 PTS) (Barea 2 AST),,,79 - 101,22
+0020800676,449,2,1,4,11:11 PM,8:53,,,MISS Randolph 18' Jump Shot,,
+0020800676,450,4,0,4,11:11 PM,8:52,Barea REBOUND (Off:0 Def:1),,,,
+0020800676,451,1,79,4,11:11 PM,8:36,Bass 17' Pullup Jump Shot (14 PTS) (Barea 3 AST),,,79 - 103,24
+0020800676,452,6,1,4,11:12 PM,8:23,Barea P.FOUL (P4.T2),,,,
+0020800676,453,9,4,4,11:12 PM,8:23,,,,,
+0020800676,455,8,0,4,11:14 PM,8:23,SUB: Carroll FOR Howard,,,,
+0020800676,456,8,0,4,11:14 PM,8:23,,,SUB: Azubuike FOR Maggette,,
+0020800676,457,2,46,4,11:15 PM,8:16,,,MISS Morrow 11' Running Jump Shot,,
+0020800676,458,4,0,4,11:15 PM,8:13,Singleton REBOUND (Off:0 Def:1),,,,
+0020800676,459,1,79,4,11:15 PM,7:56,Terry  3PT Pullup Jump Shot (22 PTS) (Bass 2 AST),,,79 - 106,27
+0020800676,460,2,79,4,11:15 PM,7:36,,,MISS Morrow 24' 3PT Pullup Jump Shot,,
+0020800676,461,4,0,4,11:15 PM,7:35,Barea REBOUND (Off:0 Def:2),,,,
+0020800676,462,2,1,4,11:15 PM,7:26,MISS Bass 16' Jump Shot,,,,
+0020800676,463,4,0,4,11:15 PM,7:25,Singleton REBOUND (Off:1 Def:1),,,,
+0020800676,464,2,1,4,11:16 PM,7:16,MISS Carroll 8' Jump Shot,,,,
+0020800676,466,4,0,4,11:16 PM,7:14,Singleton REBOUND (Off:2 Def:1),,,,
+0020800676,465,2,53,4,11:16 PM,7:14,MISS Singleton  Tip Shot,,,,
+0020800676,468,4,0,4,11:16 PM,7:12,Bass REBOUND (Off:1 Def:6),,,,
+0020800676,467,2,53,4,11:16 PM,7:12,MISS Bass  Tip Shot,,,,
+0020800676,469,4,0,4,11:16 PM,7:06,,,Turiaf REBOUND (Off:0 Def:3),,
+0020800676,470,2,1,4,11:16 PM,7:03,,,MISS Azubuike 18' Jump Shot,,
+0020800676,471,4,0,4,11:16 PM,7:02,Singleton REBOUND (Off:2 Def:2),,,,
+0020800676,472,1,1,4,11:16 PM,6:50,Singleton 25' 3PT Jump Shot (12 PTS) (Barea 4 AST),,,79 - 109,30
+0020800676,473,2,1,4,11:16 PM,6:26,,,MISS Turiaf 17' Jump Shot,,
+0020800676,474,4,0,4,11:16 PM,6:25,Singleton REBOUND (Off:2 Def:3),,,,
+0020800676,475,2,42,4,11:17 PM,6:18,MISS Barea  Driving Layup,,,,
+0020800676,476,4,0,4,11:17 PM,6:16,,,Morrow REBOUND (Off:0 Def:1),,
+0020800676,477,1,42,4,11:17 PM,6:12,,,Azubuike  Driving Layup (9 PTS) (Randolph 1 AST),81 - 109,28
+0020800676,478,9,1,4,11:17 PM,6:04,MAVERICKS Timeout: Regular (Full 4 Short 1),,,,
+0020800676,480,8,0,4,11:19 PM,6:04,SUB: Hollins FOR Terry,,,,
+0020800676,481,8,0,4,11:19 PM,6:04,,,SUB: Kurz FOR Turiaf,,
+0020800676,482,1,79,4,11:20 PM,5:54,Carroll 23' Pullup Jump Shot (2 PTS) (Barea 5 AST),,,81 - 111,30
+0020800676,483,1,79,4,11:20 PM,5:37,,,Morrow 20' Pullup Jump Shot (4 PTS),83 - 111,28
+0020800676,484,2,3,4,11:20 PM,5:16,MISS Bass 6' Hook Shot,,,,
+0020800676,485,4,0,4,11:20 PM,5:14,Hollins REBOUND (Off:1 Def:0),,,,
+0020800676,486,6,2,4,11:20 PM,5:14,,,Randolph S.FOUL (P1.T2),,
+0020800676,487,3,11,4,11:21 PM,5:14,MISS Hollins Free Throw 1 of 2,,,,
+0020800676,488,4,1,4,11:21 PM,5:14,MAVERICKS Rebound,,,,
+0020800676,489,3,12,4,11:21 PM,5:14,MISS Hollins Free Throw 2 of 2,,,,
+0020800676,491,4,0,4,11:21 PM,5:13,,,Morrow REBOUND (Off:0 Def:2),,
+0020800676,492,6,1,4,11:21 PM,5:06,Hollins P.FOUL (P1.T3),,,,
+0020800676,494,1,1,4,11:22 PM,4:53,,,Azubuike  3PT Jump Shot (12 PTS) (Watson 3 AST),86 - 111,25
+0020800676,495,2,1,4,11:22 PM,4:35,MISS Carroll 22' Jump Shot,,,,
+0020800676,496,4,0,4,11:22 PM,4:34,,,Randolph REBOUND (Off:1 Def:1),,
+0020800676,497,2,42,4,11:22 PM,4:29,,,MISS Randolph  Driving Layup,,
+0020800676,498,4,0,4,11:22 PM,4:27,Carroll REBOUND (Off:0 Def:1),,,,
+0020800676,499,2,5,4,11:22 PM,4:22,MISS Barea  Layup,,,,
+0020800676,501,4,0,4,11:22 PM,4:21,Bass REBOUND (Off:2 Def:6),,,,
+0020800676,500,2,4,4,11:22 PM,4:21,MISS Bass  Tip Shot,,,,
+0020800676,502,4,0,4,11:22 PM,4:18,,,Azubuike REBOUND (Off:0 Def:1),,
+0020800676,503,1,1,4,11:22 PM,4:13,,,Watson 24' 3PT Jump Shot (3 PTS) (Azubuike 2 AST),89 - 111,22
+0020800676,504,2,1,4,11:23 PM,3:51,MISS Barea 25' 3PT Jump Shot,,,,
+0020800676,505,4,0,4,11:23 PM,3:50,,,Morrow REBOUND (Off:0 Def:3),,
+0020800676,506,1,79,4,11:23 PM,3:44,,,Morrow 18' Pullup Jump Shot (6 PTS),91 - 111,20
+0020800676,507,1,5,4,11:23 PM,3:21,Singleton  Layup (14 PTS) (Bass 3 AST),,,91 - 113,22
+0020800676,508,2,1,4,11:23 PM,3:05,,,MISS Kurz 19' Jump Shot,,
+0020800676,509,4,0,4,11:23 PM,3:03,Hollins REBOUND (Off:1 Def:1),,,,
+0020800676,510,5,1,4,11:24 PM,2:49,Hollins Bad Pass Turnover (P1.T16),,Randolph STEAL (2 STL),,
+0020800676,511,1,90,4,11:24 PM,2:46,,,Randolph  Running Slam Dunk (6 PTS),93 - 113,20
+0020800676,512,6,2,4,11:24 PM,2:22,,,Kurz S.FOUL (P3.T3),,
+0020800676,513,9,1,4,11:24 PM,2:22,,,Warriors Timeout: Regular (Reg.4 Short 0),,
+0020800676,517,8,0,4,11:26 PM,2:22,,,SUB: Davidson FOR Randolph,,
+0020800676,518,3,11,4,11:26 PM,2:22,Bass Free Throw 1 of 2 (15 PTS),,,93 - 114,21
+0020800676,520,3,12,4,11:27 PM,2:22,Bass Free Throw 2 of 2 (16 PTS),,,93 - 115,22
+0020800676,522,2,1,4,11:27 PM,2:11,,,MISS Kurz 19' Jump Shot,,
+0020800676,523,4,0,4,11:27 PM,2:09,Barea REBOUND (Off:0 Def:3),,,,
+0020800676,524,2,1,4,11:28 PM,1:51,MISS Carroll 21' Jump Shot,,,,
+0020800676,525,4,0,4,11:28 PM,1:50,,,Azubuike REBOUND (Off:0 Def:2),,
+0020800676,526,2,42,4,11:28 PM,1:46,,,MISS Azubuike  Driving Layup,,
+0020800676,527,4,0,4,11:28 PM,1:43,Bass REBOUND (Off:2 Def:7),,,,
+0020800676,529,2,1,4,11:28 PM,1:26,MISS Singleton  3PT Jump Shot,,,,
+0020800676,530,4,0,4,11:28 PM,1:25,Bass REBOUND (Off:3 Def:7),,,,
+0020800676,531,2,5,4,11:28 PM,1:07,MISS Hollins  Layup,,Azubuike BLOCK (2 BLK),,
+0020800676,532,4,0,4,11:28 PM,1:04,,,Kurz REBOUND (Off:0 Def:1),,
+0020800676,533,2,1,4,11:28 PM,0:58,,,MISS Morrow 17' Jump Shot,,
+0020800676,534,4,0,4,11:29 PM,0:56,Bass REBOUND (Off:3 Def:8),,,,
+0020800676,535,6,2,4,11:29 PM,0:53,,,Watson S.FOUL (P1.T4),,
+0020800676,536,3,11,4,11:29 PM,0:53,Carroll Free Throw 1 of 2 (3 PTS),,,93 - 116,23
+0020800676,538,3,12,4,11:29 PM,0:53,Carroll Free Throw 2 of 2 (4 PTS),,,93 - 117,24
+0020800676,540,5,40,4,11:30 PM,0:41,,,Morrow Out of Bounds Lost Ball Turnover (P1.T14),,
+0020800676,541,2,1,4,11:30 PM,0:21,MISS Barea 21' Jump Shot,,,,
+0020800676,542,4,0,4,11:30 PM,0:20,,,Davidson REBOUND (Off:0 Def:1),,
+0020800676,543,2,1,4,11:30 PM,0:09,,,MISS Kurz 21' Jump Shot,,
+0020800676,544,4,0,4,11:30 PM,0:08,Hollins REBOUND (Off:1 Def:2),,,,
+0020800676,546,13,0,4,11:30 PM,0:00,,,,93 - 117,24

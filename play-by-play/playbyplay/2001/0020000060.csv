@@ -1,0 +1,460 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000060,0,12,0,1,2:10 PM,12:00,,,,,
+0020000060,1,10,0,1,2:12 PM,12:00,Jump Ball Wallace vs. Wright: Tip to Smith,,,,
+0020000060,2,1,1,1,2:12 PM,11:41,Smith 19' Jump Shot (2 PTS),,,0 - 2,2
+0020000060,3,5,2,1,2:13 PM,11:23,Davis STEAL (1 STL),,Wright Lost Ball Turnover (P1.T1),,
+0020000060,4,1,5,1,2:13 PM,11:06,Wallace  Layup (2 PTS) (Pippen 1 AST),,,0 - 4,4
+0020000060,5,2,1,1,2:13 PM,10:50,,,MISS Wright 12' Jump Shot,,
+0020000060,6,4,0,1,2:13 PM,10:48,Davis REBOUND (Off:0 Def:1),,,,
+0020000060,7,5,2,1,2:14 PM,10:27,Stoudamire Lost Ball Turnover (P1.T1),,,,
+0020000060,8,2,42,1,2:14 PM,10:12,Davis BLOCK (1 BLK),,MISS Henderson  Driving Layup,,
+0020000060,10,4,0,1,2:14 PM,10:10,,,Wright REBOUND (Off:1 Def:0),,
+0020000060,9,1,8,1,2:14 PM,10:09,,,Wright  Slam Dunk (2 PTS),2 - 4,2
+0020000060,11,5,21,1,2:14 PM,9:53,Smith Palming Turnover (P1.T2),,,,
+0020000060,12,2,1,1,2:15 PM,9:38,,,MISS McLeod 9' Jump Shot,,
+0020000060,13,4,0,1,2:15 PM,9:34,TRAIL BLAZERS Rebound,,,,
+0020000060,14,2,1,1,2:15 PM,9:28,MISS Smith 25' 3PT Jump Shot,,,,
+0020000060,15,4,0,1,2:15 PM,9:26,Davis REBOUND (Off:1 Def:1),,,,
+0020000060,16,2,1,1,2:15 PM,9:14,MISS Pippen 24' 3PT Jump Shot,,,,
+0020000060,17,4,0,1,2:15 PM,9:12,,,Hawks Rebound,,
+0020000060,18,6,1,1,2:16 PM,9:04,Smith P.FOUL (P1.T1),,,,
+0020000060,19,2,3,1,2:16 PM,8:50,Davis BLOCK (2 BLK),,MISS Wright 6' Hook Shot,,
+0020000060,20,4,0,1,2:16 PM,8:49,,,Hawks Rebound,,
+0020000060,21,2,1,1,2:17 PM,8:48,,,MISS Terry 18' Jump Shot,,
+0020000060,22,4,0,1,2:17 PM,8:48,,,Hawks Rebound,,
+0020000060,23,5,11,1,2:17 PM,8:48,,,Hawks Turnover: Shot Clock (T#2),,
+0020000060,24,1,1,1,2:17 PM,8:32,Pippen 23' Jump Shot (2 PTS) (Wallace 1 AST),,,2 - 6,4
+0020000060,25,6,1,1,2:17 PM,8:25,Stoudamire P.FOUL (P1.T2),,,,
+0020000060,26,2,1,1,2:18 PM,8:16,,,MISS Jackson 24' 3PT Jump Shot,,
+0020000060,27,4,0,1,2:18 PM,8:13,Wallace REBOUND (Off:0 Def:1),,,,
+0020000060,28,1,1,1,2:18 PM,8:05,Pippen 23' Jump Shot (4 PTS) (Stoudamire 1 AST),,,2 - 8,6
+0020000060,29,9,1,1,2:18 PM,7:55,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0020000060,31,2,1,1,2:20 PM,7:48,,,MISS McLeod 9' Jump Shot,,
+0020000060,33,4,0,1,2:21 PM,7:45,,,Wright REBOUND (Off:2 Def:0),,
+0020000060,32,1,5,1,2:21 PM,7:45,,,Wright  Layup (4 PTS),4 - 8,4
+0020000060,34,2,1,1,2:21 PM,7:19,MISS Wallace 22' Jump Shot,,,,
+0020000060,35,4,0,1,2:21 PM,7:17,,,Wright REBOUND (Off:2 Def:1),,
+0020000060,36,6,2,1,2:22 PM,7:10,Wallace S.FOUL (P1.T3),,,,
+0020000060,37,3,11,1,2:22 PM,7:10,,,Henderson Free Throw 1 of 2 (1 PTS),5 - 8,3
+0020000060,38,3,12,1,2:22 PM,7:10,,,Henderson Free Throw 2 of 2 (2 PTS),6 - 8,2
+0020000060,39,2,1,1,2:22 PM,6:51,MISS Wallace 4' Jump Shot,,,,
+0020000060,41,4,0,1,2:22 PM,6:49,Davis REBOUND (Off:2 Def:1),,,,
+0020000060,40,2,4,1,2:22 PM,6:49,MISS Davis  Tip Shot,,,,
+0020000060,42,4,0,1,2:22 PM,6:47,,,Wright REBOUND (Off:2 Def:2),,
+0020000060,43,2,1,1,2:23 PM,6:39,,,MISS McLeod 17' Jump Shot,,
+0020000060,44,4,0,1,2:23 PM,6:36,Pippen REBOUND (Off:0 Def:1),,,,
+0020000060,45,5,2,1,2:23 PM,6:31,Pippen Lost Ball Turnover (P1.T3),,McLeod STEAL (1 STL),,
+0020000060,46,1,49,1,2:23 PM,6:28,,,Terry  Driving Dunk (2 PTS) (McLeod 1 AST),8 - 8,TIE
+0020000060,47,2,46,1,2:23 PM,6:07,MISS Stoudamire 16' Running Jump Shot,,,,
+0020000060,48,4,0,1,2:23 PM,6:05,,,Jackson REBOUND (Off:0 Def:1),,
+0020000060,49,2,42,1,2:23 PM,5:56,,,MISS Henderson  Driving Layup,,
+0020000060,50,4,0,1,2:23 PM,5:53,Davis REBOUND (Off:2 Def:2),,,,
+0020000060,51,1,1,1,2:23 PM,5:50,Smith 8' Jump Shot (4 PTS) (Stoudamire 2 AST),,,8 - 10,2
+0020000060,52,2,5,1,2:24 PM,5:32,Davis BLOCK (3 BLK),,MISS Jackson  Layup,,
+0020000060,53,4,0,1,2:24 PM,5:30,Wallace REBOUND (Off:0 Def:2),,,,
+0020000060,54,1,5,1,2:24 PM,5:28,Stoudamire  Layup (2 PTS) (Wallace 2 AST),,,8 - 12,4
+0020000060,55,1,5,1,2:24 PM,5:11,,,Jackson  Layup (2 PTS),10 - 12,2
+0020000060,56,1,1,1,2:24 PM,4:53,Pippen 25' 3PT Jump Shot (7 PTS) (Smith 1 AST),,,10 - 15,5
+0020000060,57,1,1,1,2:25 PM,4:39,,,Wright 10' Jump Shot (6 PTS) (Terry 1 AST),12 - 15,3
+0020000060,58,2,1,1,2:25 PM,4:22,MISS Smith 9' Jump Shot,,,,
+0020000060,59,4,0,1,2:25 PM,4:19,,,Henderson REBOUND (Off:0 Def:1),,
+0020000060,60,2,1,1,2:25 PM,4:11,,,MISS Wright 14' Jump Shot,,
+0020000060,61,4,0,1,2:25 PM,4:09,Wallace REBOUND (Off:0 Def:3),,,,
+0020000060,62,2,42,1,2:25 PM,4:02,MISS Stoudamire  Driving Layup,,,,
+0020000060,63,4,0,1,2:25 PM,4:00,,,Wright REBOUND (Off:2 Def:3),,
+0020000060,64,5,2,1,2:25 PM,3:58,Stoudamire STEAL (1 STL),,Wright Lost Ball Turnover (P2.T3),,
+0020000060,65,2,1,1,2:25 PM,3:56,MISS Pippen 24' 3PT Jump Shot,,,,
+0020000060,66,4,0,1,2:25 PM,3:54,,,Wright REBOUND (Off:2 Def:4),,
+0020000060,67,6,4,1,2:26 PM,3:40,,,Henderson OFF.Foul (P1),,
+0020000060,68,5,5,1,2:26 PM,3:40,,,Henderson Foul Turnover (P1.T4),,
+0020000060,69,8,0,1,2:26 PM,3:40,,,SUB: Maloney FOR Terry,,
+0020000060,70,8,0,1,2:26 PM,3:40,SUB: Kemp FOR Davis,,,,
+0020000060,71,1,1,1,2:26 PM,3:18,Smith 17' Jump Shot (6 PTS),,,12 - 17,5
+0020000060,72,2,1,1,2:27 PM,3:02,Pippen BLOCK (1 BLK),,MISS McLeod 19' Jump Shot,,
+0020000060,73,4,0,1,2:27 PM,2:59,,,McLeod REBOUND (Off:1 Def:0),,
+0020000060,74,2,1,1,2:27 PM,2:56,,,MISS McLeod 6' Jump Shot,,
+0020000060,75,4,0,1,2:27 PM,2:54,Pippen REBOUND (Off:0 Def:2),,,,
+0020000060,76,2,5,1,2:27 PM,2:49,MISS Stoudamire  Layup,,,,
+0020000060,77,4,0,1,2:27 PM,2:47,Smith REBOUND (Off:1 Def:0),,,,
+0020000060,78,5,1,1,2:27 PM,2:46,Smith Bad Pass Turnover (P2.T4),,McLeod STEAL (2 STL),,
+0020000060,79,2,1,1,2:27 PM,2:40,,,MISS Jackson 17' Jump Shot,,
+0020000060,80,4,0,1,2:27 PM,2:35,Wallace REBOUND (Off:0 Def:4),,,,
+0020000060,81,1,42,1,2:27 PM,2:34,Pippen  Driving Layup (9 PTS) (Wallace 3 AST),,,12 - 19,7
+0020000060,82,6,4,1,2:27 PM,2:17,,,Wright OFF.Foul (P1),,
+0020000060,83,5,5,1,2:27 PM,2:17,,,Wright Foul Turnover (P3.T5),,
+0020000060,84,9,1,1,2:28 PM,2:17,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,
+0020000060,94,8,0,1,2:28 PM,2:17,SUB: Augmon FOR Pippen,,,,
+0020000060,96,8,0,1,2:28 PM,2:17,,,SUB: Crawford FOR Wright,,
+0020000060,103,8,0,1,2:28 PM,2:17,,,SUB: Robinson FOR Jackson,,
+0020000060,86,2,1,1,2:30 PM,1:57,MISS Kemp 21' Jump Shot,,,,
+0020000060,87,4,0,1,2:30 PM,1:53,,,McLeod REBOUND (Off:1 Def:1),,
+0020000060,90,2,1,1,2:31 PM,1:36,Wallace BLOCK (1 BLK),,MISS Maloney 18' Jump Shot,,
+0020000060,91,4,0,1,2:31 PM,1:34,,,Maloney REBOUND (Off:1 Def:0),,
+0020000060,92,1,5,1,2:31 PM,1:34,,,McLeod  Layup (2 PTS) (Maloney 1 AST),14 - 19,5
+0020000060,93,6,2,1,2:31 PM,1:34,Kemp S.FOUL (P1.T4),,,,
+0020000060,95,3,10,1,2:31 PM,1:34,,,McLeod Free Throw 1 of 1 (3 PTS),15 - 19,4
+0020000060,99,6,2,1,2:32 PM,1:21,,,Robinson S.FOUL (P1.T1),,
+0020000060,100,3,11,1,2:32 PM,1:21,Smith Free Throw 1 of 2 (7 PTS),,,15 - 20,5
+0020000060,101,3,12,1,2:32 PM,1:21,MISS Smith Free Throw 2 of 2,,,,
+0020000060,102,4,0,1,2:32 PM,1:20,,,McLeod REBOUND (Off:1 Def:2),,
+0020000060,104,5,2,1,2:32 PM,1:03,Stoudamire STEAL (2 STL),,Crawford Lost Ball Turnover (P1.T6),,
+0020000060,105,1,42,1,2:32 PM,1:00,Stoudamire  Driving Layup (4 PTS),,,15 - 22,7
+0020000060,106,2,1,1,2:33 PM,0:46,,,MISS Robinson  3PT Jump Shot,,
+0020000060,107,4,0,1,2:33 PM,0:43,,,Crawford REBOUND (Off:1 Def:0),,
+0020000060,108,2,1,1,2:33 PM,0:40,,,MISS McLeod 24' 3PT Jump Shot,,
+0020000060,109,4,0,1,2:33 PM,0:38,Augmon REBOUND (Off:0 Def:1),,,,
+0020000060,110,5,8,1,2:33 PM,0:26,Kemp 3 Second Violation Turnover (P1.T5),,,,
+0020000060,111,8,0,1,2:33 PM,0:26,SUB: Davis FOR Wallace,,,,
+0020000060,112,8,0,1,2:34 PM,0:26,SUB: Anthony FOR Stoudamire,,,,
+0020000060,113,2,42,1,2:34 PM,0:06,,,MISS Maloney  Driving Layup,,
+0020000060,114,4,0,1,2:34 PM,0:03,Augmon REBOUND (Off:0 Def:2),,,,
+0020000060,115,1,1,1,2:34 PM,0:00,Anthony 25' 3PT Jump Shot (3 PTS) (Augmon 1 AST),,,15 - 25,10
+0020000060,116,13,0,1,2:34 PM,0:00,,,,15 - 25,10
+0020000060,118,12,0,2,2:37 PM,12:00,,,,15 - 25,10
+0020000060,119,1,1,2,2:37 PM,11:43,,,Johnson  3PT Jump Shot (3 PTS) (Crawford 1 AST),18 - 25,7
+0020000060,120,1,5,2,2:37 PM,11:26,Kemp  Layup (2 PTS) (Augmon 2 AST),,,18 - 27,9
+0020000060,121,1,1,2,2:38 PM,11:16,,,Crawford 19' Jump Shot (2 PTS) (Johnson 1 AST),20 - 27,7
+0020000060,122,1,1,2,2:38 PM,10:48,Kemp 23' Jump Shot (4 PTS) (Wells 1 AST),,,20 - 29,9
+0020000060,123,1,1,2,2:39 PM,10:22,,,Terry 20' Jump Shot (4 PTS),22 - 29,7
+0020000060,124,1,1,2,2:39 PM,10:00,Augmon 4' Jump Shot (2 PTS),,,22 - 31,9
+0020000060,125,6,2,2,2:39 PM,10:00,,,Johnson S.FOUL (P1.T1),,
+0020000060,126,3,10,2,2:39 PM,10:00,Augmon Free Throw 1 of 1 (3 PTS),,,22 - 32,10
+0020000060,128,7,3,2,2:40 PM,9:46,Davis Violation:Lane,,,,
+0020000060,127,1,42,2,2:40 PM,9:46,,,Terry  Driving Layup (6 PTS),24 - 32,8
+0020000060,129,1,1,2,2:40 PM,9:35,Anthony 25' 3PT Jump Shot (6 PTS) (Augmon 3 AST),,,24 - 35,11
+0020000060,130,2,1,2,2:40 PM,9:19,,,MISS Johnson  3PT Jump Shot,,
+0020000060,131,4,0,2,2:40 PM,9:16,Anthony REBOUND (Off:0 Def:1),,,,
+0020000060,132,1,1,2,2:40 PM,9:11,Anthony 18' Jump Shot (8 PTS),,,24 - 37,13
+0020000060,135,6,10,2,2:41 PM,9:04,,,,,
+0020000060,136,1,1,2,2:41 PM,8:49,,,Crawford 25' 3PT Jump Shot (5 PTS) (Terry 2 AST),27 - 37,10
+0020000060,137,6,4,2,2:41 PM,8:42,Kemp OFF.Foul (P2),,,,
+0020000060,138,5,5,2,2:41 PM,8:42,Kemp Foul Turnover (P2.T6),,,,
+0020000060,139,9,4,2,2:42 PM,8:42,,,,,
+0020000060,141,1,1,2,2:44 PM,8:28,,,Johnson 15' Jump Shot (5 PTS) (Robinson 1 AST),29 - 37,8
+0020000060,142,2,1,2,2:45 PM,8:02,MISS Augmon 6' Jump Shot,,,,
+0020000060,143,4,0,2,2:45 PM,7:59,,,Wright REBOUND (Off:2 Def:5),,
+0020000060,144,1,42,2,2:45 PM,7:52,,,Terry  Driving Layup (8 PTS),31 - 37,6
+0020000060,145,2,1,2,2:45 PM,7:34,MISS Anthony 25' 3PT Jump Shot,,,,
+0020000060,146,4,0,2,2:45 PM,7:34,TRAIL BLAZERS Rebound,,,,
+0020000060,147,6,3,2,2:45 PM,7:34,,,Crawford L.B.FOUL (P1.T2),,
+0020000060,148,8,0,2,2:45 PM,7:34,SUB: Wallace FOR Kemp,,,,
+0020000060,149,6,1,2,2:46 PM,7:30,,,Robinson P.FOUL (P2.T3),,
+0020000060,150,8,0,2,2:46 PM,7:30,,,SUB: Jackson FOR Robinson,,
+0020000060,151,1,1,2,2:46 PM,7:16,Wells 23' Jump Shot (2 PTS) (Anthony 1 AST),,,31 - 39,8
+0020000060,152,7,2,2,2:47 PM,6:58,Wallace Violation:Defensive Goaltending,,,,
+0020000060,153,1,42,2,2:47 PM,6:46,,,Terry  Driving Layup (10 PTS),33 - 39,6
+0020000060,154,1,1,2,2:48 PM,6:21,Wallace 21' Jump Shot (4 PTS) (Augmon 4 AST),,,33 - 41,8
+0020000060,155,6,1,2,2:48 PM,6:03,Wells P.FOUL (P1.T1),,,,
+0020000060,156,6,1,2,2:49 PM,5:52,Davis P.FOUL (P1.T2),,,,
+0020000060,157,9,1,2,2:49 PM,5:52,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,
+0020000060,159,8,0,2,2:51 PM,5:52,,,SUB: Henderson FOR Crawford,,
+0020000060,160,6,2,2,2:51 PM,5:44,Anthony S.FOUL (P1.T3),,,,
+0020000060,161,3,11,2,2:51 PM,5:44,,,Terry Free Throw 1 of 2 (11 PTS),34 - 41,7
+0020000060,162,3,12,2,2:52 PM,5:44,,,Terry Free Throw 2 of 2 (12 PTS),35 - 41,6
+0020000060,163,1,1,2,2:52 PM,5:25,Anthony 24' 3PT Jump Shot (11 PTS) (Augmon 5 AST),,,35 - 44,9
+0020000060,164,1,1,2,2:53 PM,5:08,,,Jackson 11' Jump Shot (4 PTS),37 - 44,7
+0020000060,165,2,1,2,2:53 PM,4:57,MISS Wells  3PT Jump Shot,,,,
+0020000060,166,4,0,2,2:53 PM,4:54,,,Jackson REBOUND (Off:0 Def:2),,
+0020000060,167,2,1,2,2:53 PM,4:39,,,MISS Terry 25' 3PT Jump Shot,,
+0020000060,168,4,0,2,2:53 PM,4:37,Davis REBOUND (Off:2 Def:3),,,,
+0020000060,169,2,1,2,2:53 PM,4:18,MISS Wells 14' Jump Shot,,,,
+0020000060,170,4,0,2,2:54 PM,4:16,Davis REBOUND (Off:3 Def:3),,,,
+0020000060,171,1,5,2,2:54 PM,4:14,Wells  Layup (4 PTS) (Davis 1 AST),,,37 - 46,9
+0020000060,172,5,2,2,2:54 PM,3:51,Wells STEAL (1 STL),,Jackson Lost Ball Turnover (P1.T7),,
+0020000060,173,5,1,2,2:54 PM,3:47,Wells Bad Pass Turnover (P1.T7),,Terry STEAL (1 STL),,
+0020000060,174,1,1,2,2:54 PM,3:41,,,Jackson 18' Jump Shot (6 PTS) (Terry 3 AST),39 - 46,7
+0020000060,175,1,1,2,2:54 PM,3:21,Anthony 24' 3PT Jump Shot (14 PTS) (Wallace 4 AST),,,39 - 49,10
+0020000060,176,5,1,2,2:55 PM,2:51,Wallace STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T8),,
+0020000060,177,2,1,2,2:55 PM,2:45,MISS Anthony 24' 3PT Jump Shot,,,,
+0020000060,178,4,0,2,2:55 PM,2:41,,,Hawks Rebound,,
+0020000060,179,9,1,2,2:55 PM,2:41,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0020000060,181,8,0,2,2:57 PM,2:41,SUB: Pippen FOR Wells,,,,
+0020000060,182,8,0,2,2:58 PM,2:41,SUB: Kemp FOR Davis,,,,
+0020000060,183,8,0,2,2:58 PM,2:41,SUB: Smith FOR Augmon,,,,
+0020000060,184,8,0,2,2:58 PM,2:41,SUB: Stoudamire FOR Anthony,,,,
+0020000060,185,8,0,2,2:58 PM,2:41,,,SUB: McLeod FOR Johnson,,
+0020000060,186,1,3,2,2:58 PM,2:26,,,Wright 8' Hook Shot (8 PTS) (Terry 4 AST),41 - 49,8
+0020000060,187,1,1,2,2:59 PM,2:02,Wallace 7' Jump Shot (6 PTS),,,41 - 51,10
+0020000060,188,2,3,2,2:59 PM,1:46,Wallace BLOCK (2 BLK),,MISS Henderson 3' Hook Shot,,
+0020000060,190,4,0,2,2:59 PM,1:42,,,Henderson REBOUND (Off:1 Def:1),,
+0020000060,189,1,5,2,2:59 PM,1:42,,,Henderson  Layup (4 PTS),43 - 51,8
+0020000060,191,2,1,2,2:59 PM,1:24,MISS Pippen 25' 3PT Jump Shot,,,,
+0020000060,192,4,0,2,2:59 PM,1:22,,,Wright REBOUND (Off:2 Def:6),,
+0020000060,193,2,3,2,3:00 PM,0:59,,,MISS Henderson 6' Hook Shot,,
+0020000060,194,4,0,2,3:00 PM,0:57,Kemp REBOUND (Off:0 Def:1),,,,
+0020000060,195,2,1,2,3:00 PM,0:49,MISS Kemp 20' Jump Shot,,,,
+0020000060,196,4,0,2,3:00 PM,0:47,,,McLeod REBOUND (Off:1 Def:3),,
+0020000060,197,5,1,2,3:00 PM,0:44,Kemp STEAL (1 STL),,Terry Bad Pass Turnover (P1.T9),,
+0020000060,198,5,21,2,3:00 PM,0:43,Kemp Palming Turnover (P3.T8),,,,
+0020000060,199,1,1,2,3:01 PM,0:34,,,Wright 15' Jump Shot (10 PTS) (Terry 5 AST),45 - 51,6
+0020000060,200,2,1,2,3:01 PM,0:22,MISS Wallace 22' Jump Shot,,,,
+0020000060,201,4,0,2,3:01 PM,0:19,,,Jackson REBOUND (Off:0 Def:3),,
+0020000060,202,9,2,2,3:01 PM,0:15,,,Hawks Timeout: Short (Reg.2 Short 1),,
+0020000060,204,9,2,2,3:02 PM,0:15,TRAIL BLAZERS Timeout: Short (Full 2 Short 1),,,,
+0020000060,205,8,0,2,3:02 PM,0:15,SUB: Harvey FOR Kemp,,,,
+0020000060,206,6,1,2,3:03 PM,0:08,Stoudamire P.FOUL (P2.T4),,,,
+0020000060,207,5,2,2,3:03 PM,0:01,,,Jackson Lost Ball Turnover (P2.T10),,
+0020000060,208,2,1,2,3:04 PM,0:00,MISS Stoudamire 44' 3PT Jump Shot,,,,
+0020000060,209,4,0,2,3:04 PM,0:00,TRAIL BLAZERS Rebound,,,,
+0020000060,210,13,0,2,3:04 PM,0:00,,,,45 - 51,6
+0020000060,212,12,0,3,3:20 PM,12:00,,,,45 - 51,6
+0020000060,213,2,42,3,3:20 PM,11:41,,,MISS Wright  Driving Layup,,
+0020000060,214,4,0,3,3:20 PM,11:37,Smith REBOUND (Off:1 Def:1),,,,
+0020000060,215,2,5,3,3:21 PM,11:33,MISS Davis  Layup,,,,
+0020000060,216,4,0,3,3:21 PM,11:32,,,Henderson REBOUND (Off:1 Def:2),,
+0020000060,217,1,5,3,3:21 PM,11:26,,,Wright  Layup (12 PTS) (Jackson 1 AST),47 - 51,4
+0020000060,218,6,1,3,3:21 PM,11:11,,,Wright P.FOUL (P2.T1),,
+0020000060,219,1,1,3,3:22 PM,10:56,Pippen 25' 3PT Jump Shot (12 PTS) (Wallace 5 AST),,,47 - 54,7
+0020000060,220,2,5,3,3:22 PM,10:44,Wallace BLOCK (3 BLK),,MISS McLeod  Layup,,
+0020000060,221,4,0,3,3:22 PM,10:42,,,Henderson REBOUND (Off:2 Def:2),,
+0020000060,222,6,2,3,3:22 PM,10:42,Pippen S.FOUL (P1.T1),,,,
+0020000060,223,3,11,3,3:22 PM,10:42,,,Henderson Free Throw 1 of 2 (5 PTS),48 - 54,6
+0020000060,224,3,12,3,3:22 PM,10:42,,,Henderson Free Throw 2 of 2 (6 PTS),49 - 54,5
+0020000060,225,5,2,3,3:23 PM,10:38,Stoudamire Lost Ball Turnover (P2.T9),,McLeod STEAL (3 STL),,
+0020000060,226,2,1,3,3:23 PM,10:29,,,MISS McLeod 17' Jump Shot,,
+0020000060,227,4,0,3,3:23 PM,10:27,Stoudamire REBOUND (Off:0 Def:1),,,,
+0020000060,228,1,42,3,3:23 PM,10:17,Wallace  Driving Layup (8 PTS),,,49 - 56,7
+0020000060,229,6,2,3,3:23 PM,9:56,Wallace S.FOUL (P2.T2),,,,
+0020000060,230,3,11,3,3:23 PM,9:56,,,MISS Henderson Free Throw 1 of 2,,
+0020000060,231,4,1,3,3:23 PM,9:56,,,Hawks Rebound,,
+0020000060,232,3,12,3,3:24 PM,9:56,,,Henderson Free Throw 2 of 2 (7 PTS),50 - 56,6
+0020000060,233,1,8,3,3:24 PM,9:36,Davis  Slam Dunk (2 PTS) (Smith 2 AST),,,50 - 58,8
+0020000060,234,2,1,3,3:25 PM,9:22,,,MISS Wright 14' Jump Shot,,
+0020000060,235,4,0,3,3:25 PM,9:20,Pippen REBOUND (Off:0 Def:3),,,,
+0020000060,236,5,2,3,3:25 PM,9:16,Stoudamire Lost Ball Turnover (P3.T10),,,,
+0020000060,237,6,4,3,3:25 PM,9:02,,,Jackson OFF.Foul (P1),,
+0020000060,238,5,5,3,3:25 PM,9:02,,,Jackson Foul Turnover (P3.T11),,
+0020000060,239,6,1,3,3:26 PM,8:49,,,Henderson P.FOUL (P2.T2),,
+0020000060,240,2,1,3,3:26 PM,8:42,MISS Davis 5' Jump Shot,,,,
+0020000060,241,4,0,3,3:26 PM,8:40,,,Henderson REBOUND (Off:2 Def:3),,
+0020000060,242,6,1,3,3:26 PM,8:37,Stoudamire P.FOUL (P3.T3),,,,
+0020000060,243,2,1,3,3:27 PM,8:29,,,MISS Jackson 19' Jump Shot,,
+0020000060,244,4,0,3,3:27 PM,8:27,Davis REBOUND (Off:3 Def:4),,,,
+0020000060,245,1,1,3,3:27 PM,8:21,Smith 25' 3PT Jump Shot (10 PTS) (Stoudamire 3 AST),,,50 - 61,11
+0020000060,246,2,1,3,3:27 PM,7:59,,,MISS McLeod 11' Jump Shot,,
+0020000060,248,4,0,3,3:27 PM,7:56,,,Wright REBOUND (Off:3 Def:6),,
+0020000060,247,2,4,3,3:27 PM,7:56,,,MISS Wright  Tip Shot,,
+0020000060,249,4,0,3,3:27 PM,7:56,,,Wright REBOUND (Off:4 Def:6),,
+0020000060,250,6,2,3,3:27 PM,7:55,Davis S.FOUL (P2.T4),,,,
+0020000060,251,3,11,3,3:28 PM,7:55,,,MISS Wright Free Throw 1 of 2,,
+0020000060,252,4,1,3,3:28 PM,7:55,,,Hawks Rebound,,
+0020000060,253,8,0,3,3:28 PM,7:55,,,SUB: Johnson FOR McLeod,,
+0020000060,254,3,12,3,3:28 PM,7:55,,,Wright Free Throw 2 of 2 (13 PTS),51 - 61,10
+0020000060,255,2,1,3,3:29 PM,7:37,MISS Smith 20' Jump Shot,,,,
+0020000060,256,4,0,3,3:29 PM,7:34,Pippen REBOUND (Off:1 Def:3),,,,
+0020000060,257,1,1,3,3:29 PM,7:27,Wallace 21' Jump Shot (10 PTS) (Stoudamire 4 AST),,,51 - 63,12
+0020000060,275,2,40,3,3:29 PM,7:05,Smith BLOCK (1 BLK),,MISS Jackson  Layup,,
+0020000060,276,4,0,3,3:29 PM,7:05,Smith REBOUND (Off:1 Def:2),,,,
+0020000060,259,5,1,3,3:29 PM,6:58,Smith Bad Pass Turnover (P3.T11),,Jackson STEAL (1 STL),,
+0020000060,260,1,1,3,3:29 PM,6:54,,,Wright 12' Jump Shot (15 PTS) (Jackson 2 AST),53 - 63,10
+0020000060,261,2,5,3,3:30 PM,6:37,MISS Stoudamire  Layup,,Terry BLOCK (1 BLK),,
+0020000060,263,4,0,3,3:30 PM,6:34,Pippen REBOUND (Off:2 Def:3),,,,
+0020000060,262,2,5,3,3:30 PM,6:34,MISS Pippen  Layup,,,,
+0020000060,264,4,0,3,3:30 PM,6:32,,,Johnson REBOUND (Off:0 Def:1),,
+0020000060,265,2,1,3,3:30 PM,6:18,,,MISS Henderson 18' Jump Shot,,
+0020000060,266,4,0,3,3:30 PM,6:16,Stoudamire REBOUND (Off:0 Def:2),,,,
+0020000060,267,5,1,3,3:30 PM,6:15,Stoudamire Bad Pass Turnover (P4.T12),,Wright STEAL (1 STL),,
+0020000060,268,2,1,3,3:30 PM,6:11,,,MISS Wright 18' Jump Shot,,
+0020000060,269,4,0,3,3:30 PM,6:10,Wallace REBOUND (Off:0 Def:5),,,,
+0020000060,270,2,1,3,3:30 PM,6:04,MISS Davis 15' Jump Shot,,,,
+0020000060,271,4,0,3,3:30 PM,6:02,,,Hawks Rebound,,
+0020000060,272,6,4,3,3:30 PM,5:49,,,Wright OFF.Foul (P3),,
+0020000060,273,5,5,3,3:30 PM,5:49,,,Wright Foul Turnover (P4.T12),,
+0020000060,274,9,1,3,3:31 PM,5:49,TRAIL BLAZERS Timeout: Regular (Full 3 Short 1),,,,
+0020000060,278,8,0,3,3:32 PM,5:49,,,SUB: Crawford FOR Henderson,,
+0020000060,279,2,1,3,3:33 PM,5:33,MISS Pippen 23' Jump Shot,,,,
+0020000060,280,4,0,3,3:33 PM,5:31,,,Jackson REBOUND (Off:0 Def:4),,
+0020000060,281,2,5,3,3:33 PM,5:23,Davis BLOCK (4 BLK),,MISS Wright  Layup,,
+0020000060,282,4,0,3,3:33 PM,5:20,Davis REBOUND (Off:3 Def:5),,,,
+0020000060,283,1,1,3,3:33 PM,5:14,Stoudamire 22' Jump Shot (6 PTS) (Pippen 2 AST),,,53 - 65,12
+0020000060,284,6,1,3,3:34 PM,5:02,Pippen P.FOUL (P2.PN),,,,
+0020000060,285,3,11,3,3:34 PM,5:02,,,MISS Johnson Free Throw 1 of 2,,
+0020000060,286,4,1,3,3:34 PM,5:02,,,Hawks Rebound,,
+0020000060,287,3,12,3,3:34 PM,5:02,,,MISS Johnson Free Throw 2 of 2,,
+0020000060,288,4,0,3,3:34 PM,5:02,Davis REBOUND (Off:3 Def:6),,,,
+0020000060,289,5,1,3,3:35 PM,4:48,Stoudamire Bad Pass Turnover (P5.T13),,Terry STEAL (2 STL),,
+0020000060,290,2,5,3,3:35 PM,4:42,,,MISS Wright  Layup,,
+0020000060,291,4,0,3,3:35 PM,4:39,Stoudamire REBOUND (Off:0 Def:3),,,,
+0020000060,292,6,2,3,3:35 PM,4:35,,,Jackson S.FOUL (P2.T3),,
+0020000060,293,3,11,3,3:35 PM,4:35,Wallace Free Throw 1 of 2 (11 PTS),,,53 - 66,13
+0020000060,294,8,0,3,3:35 PM,4:35,,,SUB: Henderson FOR Wright,,
+0020000060,295,3,12,3,3:35 PM,4:35,Wallace Free Throw 2 of 2 (12 PTS),,,53 - 67,14
+0020000060,296,6,1,3,3:36 PM,4:23,Smith P.FOUL (P2.PN),,,,
+0020000060,297,3,11,3,3:36 PM,4:23,,,Jackson Free Throw 1 of 2 (7 PTS),54 - 67,13
+0020000060,298,3,12,3,3:36 PM,4:23,,,Jackson Free Throw 2 of 2 (8 PTS),55 - 67,12
+0020000060,299,1,5,3,3:37 PM,4:14,Smith  Layup (12 PTS),,,55 - 69,14
+0020000060,300,2,1,3,3:37 PM,3:53,Smith BLOCK (2 BLK),,MISS Jackson 4' Jump Shot,,
+0020000060,301,4,0,3,3:37 PM,3:51,Wallace REBOUND (Off:0 Def:6),,,,
+0020000060,302,2,1,3,3:38 PM,3:40,MISS Stoudamire 18' Jump Shot,,,,
+0020000060,303,4,0,3,3:38 PM,3:38,,,Crawford REBOUND (Off:1 Def:1),,
+0020000060,304,6,1,3,3:38 PM,3:31,Stoudamire P.FOUL (P4.PN),,,,
+0020000060,305,6,11,3,3:38 PM,3:31,Stoudamire T.FOUL (P4.PN),,,,
+0020000060,306,8,0,3,3:38 PM,3:31,SUB: Anthony FOR Stoudamire,,,,
+0020000060,307,3,16,3,3:38 PM,3:31,,,Jackson Free Throw Technical (9 PTS),56 - 69,13
+0020000060,308,3,11,3,3:39 PM,3:31,,,Terry Free Throw 1 of 2 (13 PTS),57 - 69,12
+0020000060,309,3,12,3,3:39 PM,3:31,,,Terry Free Throw 2 of 2 (14 PTS),58 - 69,11
+0020000060,310,6,1,3,3:39 PM,3:20,,,Terry P.FOUL (P1.T4),,
+0020000060,311,1,1,3,3:40 PM,3:06,Anthony  3PT Jump Shot (17 PTS) (Davis 2 AST),,,58 - 72,14
+0020000060,312,2,1,3,3:40 PM,2:47,,,MISS Crawford 25' 3PT Jump Shot,,
+0020000060,313,4,0,3,3:40 PM,2:45,Pippen REBOUND (Off:2 Def:4),,,,
+0020000060,314,2,42,3,3:40 PM,2:35,MISS Wallace  Driving Layup,,,,
+0020000060,316,4,0,3,3:40 PM,2:32,Davis REBOUND (Off:4 Def:6),,,,
+0020000060,315,1,5,3,3:41 PM,2:32,Davis  Layup (4 PTS),,,58 - 74,16
+0020000060,317,9,1,3,3:41 PM,2:26,,,Hawks Timeout: Regular (Reg.3 Short 1),,
+0020000060,319,8,0,3,3:43 PM,2:26,,,SUB: Maloney FOR Crawford,,
+0020000060,320,8,0,3,3:43 PM,2:26,,,SUB: Robinson FOR Jackson,,
+0020000060,321,8,0,3,3:43 PM,2:26,,,SUB: Wright FOR Terry,,
+0020000060,322,2,5,3,3:43 PM,2:09,Davis BLOCK (5 BLK),,MISS Henderson  Layup,,
+0020000060,324,4,0,3,3:43 PM,2:06,,,Henderson REBOUND (Off:3 Def:3),,
+0020000060,323,2,5,3,3:43 PM,2:06,Davis BLOCK (6 BLK),,MISS Henderson  Layup,,
+0020000060,325,4,0,3,3:43 PM,2:06,,,Henderson REBOUND (Off:4 Def:3),,
+0020000060,326,2,5,3,3:43 PM,2:06,Wallace BLOCK (4 BLK),,MISS Henderson  Layup,,
+0020000060,327,4,0,3,3:43 PM,2:06,,,Hawks Rebound,,
+0020000060,328,5,11,3,3:43 PM,2:06,,,Hawks Turnover: Shot Clock (T#13),,
+0020000060,329,1,5,3,3:44 PM,1:52,Wallace  Layup (14 PTS) (Davis 3 AST),,,58 - 76,18
+0020000060,330,2,1,3,3:44 PM,1:36,,,MISS Johnson 18' Jump Shot,,
+0020000060,331,4,0,3,3:44 PM,1:33,,,Henderson REBOUND (Off:5 Def:3),,
+0020000060,332,1,8,3,3:44 PM,1:31,,,Johnson  Slam Dunk (7 PTS) (Henderson 1 AST),60 - 76,16
+0020000060,333,1,1,3,3:45 PM,1:11,Smith 19' Jump Shot (14 PTS) (Pippen 3 AST),,,60 - 78,18
+0020000060,334,1,1,3,3:45 PM,0:49,,,Johnson 12' Jump Shot (9 PTS) (Robinson 2 AST),62 - 78,16
+0020000060,335,2,1,3,3:46 PM,0:28,MISS Smith 25' 3PT Jump Shot,,,,
+0020000060,336,4,0,3,3:46 PM,0:23,,,Wright REBOUND (Off:4 Def:7),,
+0020000060,337,2,46,3,3:46 PM,0:08,Davis BLOCK (7 BLK),,MISS Johnson 7' Running Jump Shot,,
+0020000060,338,4,0,3,3:46 PM,0:04,Pippen REBOUND (Off:2 Def:5),,,,
+0020000060,339,5,1,3,3:46 PM,0:01,Pippen Bad Pass Turnover (P2.T14),,,,
+0020000060,340,13,0,3,3:46 PM,0:00,,,,62 - 78,16
+0020000060,342,12,0,4,3:49 PM,12:00,,,,62 - 78,16
+0020000060,343,2,1,4,3:50 PM,11:39,MISS Anthony 24' 3PT Jump Shot,,,,
+0020000060,345,4,0,4,3:50 PM,11:36,Smith REBOUND (Off:2 Def:2),,,,
+0020000060,344,1,5,4,3:50 PM,11:36,Smith  Layup (16 PTS),,,62 - 80,18
+0020000060,346,2,1,4,3:50 PM,11:19,,,MISS Johnson 22' Jump Shot,,
+0020000060,347,4,0,4,3:50 PM,11:17,Augmon REBOUND (Off:0 Def:3),,,,
+0020000060,348,2,1,4,3:50 PM,11:02,MISS Kemp 23' Jump Shot,,,,
+0020000060,349,4,0,4,3:50 PM,11:00,,,Robinson REBOUND (Off:0 Def:1),,
+0020000060,350,1,5,4,3:50 PM,10:56,,,Johnson  Layup (11 PTS) (Maloney 2 AST),64 - 80,16
+0020000060,351,2,1,4,3:51 PM,10:33,MISS Wallace 20' Jump Shot,,,,
+0020000060,352,4,0,4,3:51 PM,10:31,,,Johnson REBOUND (Off:0 Def:2),,
+0020000060,353,1,1,4,3:51 PM,10:21,,,Johnson 19' Jump Shot (13 PTS) (Maloney 3 AST),66 - 80,14
+0020000060,354,1,1,4,3:51 PM,10:01,Smith 14' Jump Shot (18 PTS),,,66 - 82,16
+0020000060,355,2,1,4,3:52 PM,9:42,,,MISS Maloney 21' Jump Shot,,
+0020000060,356,4,0,4,3:52 PM,9:38,Anthony REBOUND (Off:0 Def:2),,,,
+0020000060,357,2,42,4,3:52 PM,9:34,MISS Anthony  Driving Layup,,,,
+0020000060,358,4,0,4,3:52 PM,9:31,,,Johnson REBOUND (Off:0 Def:3),,
+0020000060,359,2,1,4,3:52 PM,9:20,,,MISS Robinson  3PT Jump Shot,,
+0020000060,360,4,0,4,3:52 PM,9:18,,,Henderson REBOUND (Off:6 Def:3),,
+0020000060,361,6,1,4,3:52 PM,9:18,Kemp P.FOUL (P3.T1),,,,
+0020000060,362,8,0,4,3:53 PM,9:18,SUB: Wells FOR Smith,,,,
+0020000060,363,6,2,4,3:53 PM,9:02,Kemp S.FOUL (P4.T2),,,,
+0020000060,364,3,11,4,3:53 PM,9:02,,,MISS Wright Free Throw 1 of 2,,
+0020000060,365,4,1,4,3:53 PM,9:02,,,Hawks Rebound,,
+0020000060,366,3,12,4,3:53 PM,9:02,,,Wright Free Throw 2 of 2 (16 PTS),67 - 82,15
+0020000060,367,1,1,4,3:54 PM,8:45,Augmon 8' Jump Shot (5 PTS) (Wallace 6 AST),,,67 - 84,17
+0020000060,368,2,5,4,3:54 PM,8:28,,,MISS Wright  Layup,,
+0020000060,369,4,0,4,3:54 PM,8:26,Wells REBOUND (Off:0 Def:1),,,,
+0020000060,370,2,1,4,3:54 PM,8:17,MISS Augmon 12' Jump Shot,,,,
+0020000060,371,4,0,4,3:54 PM,8:15,,,Johnson REBOUND (Off:0 Def:4),,
+0020000060,372,6,1,4,3:55 PM,8:07,Wallace P.FOUL (P3.T3),,,,
+0020000060,373,9,4,4,3:55 PM,8:07,,,,,
+0020000060,375,8,0,4,3:56 PM,8:07,,,SUB: Crawford FOR Johnson,,
+0020000060,376,8,0,4,3:57 PM,8:07,,,SUB: McLeod FOR Robinson,,
+0020000060,377,8,0,4,3:57 PM,8:07,,,SUB: Jackson FOR Wright,,
+0020000060,378,8,0,4,3:57 PM,8:07,SUB: Davis FOR Wallace,,,,
+0020000060,379,3,11,4,3:57 PM,8:07,,,Henderson Free Throw 1 of 2 (8 PTS),68 - 84,16
+0020000060,380,3,12,4,3:57 PM,8:07,,,Henderson Free Throw 2 of 2 (9 PTS),69 - 84,15
+0020000060,381,6,4,4,3:58 PM,7:53,Wells OFF.Foul (P2),,,,
+0020000060,382,5,5,4,3:58 PM,7:53,Wells Foul Turnover (P2.T15),,,,
+0020000060,383,8,0,4,3:58 PM,7:53,,,SUB: Mottola FOR Henderson,,
+0020000060,384,6,2,4,3:58 PM,7:37,Augmon S.FOUL (P2.T4),,,,
+0020000060,385,8,0,4,3:58 PM,7:37,SUB: Stoudamire FOR Anthony,,,,
+0020000060,386,3,11,4,3:58 PM,7:37,,,MISS Mottola Free Throw 1 of 2,,
+0020000060,387,4,1,4,3:58 PM,7:37,,,Hawks Rebound,,
+0020000060,388,3,12,4,3:59 PM,7:37,,,Mottola Free Throw 2 of 2 (1 PTS),70 - 84,14
+0020000060,389,2,5,4,3:59 PM,7:18,MISS Wells  Layup,,,,
+0020000060,390,4,0,4,3:59 PM,7:16,,,Jackson REBOUND (Off:0 Def:5),,
+0020000060,391,1,1,4,3:59 PM,7:05,,,Jackson 25' 3PT Jump Shot (12 PTS) (Crawford 2 AST),73 - 84,11
+0020000060,392,1,42,4,4:00 PM,6:42,Stoudamire  Driving Layup (8 PTS),,,73 - 86,13
+0020000060,393,2,1,4,4:00 PM,6:25,,,MISS Crawford 19' Jump Shot,,
+0020000060,394,4,0,4,4:00 PM,6:23,Augmon REBOUND (Off:0 Def:4),,,,
+0020000060,395,2,1,4,4:00 PM,6:17,MISS Stoudamire 17' Jump Shot,,,,
+0020000060,396,4,0,4,4:00 PM,6:09,,,Jackson REBOUND (Off:0 Def:6),,
+0020000060,397,2,1,4,4:00 PM,6:07,,,MISS Jackson 15' Jump Shot,,
+0020000060,398,4,0,4,4:00 PM,6:05,Wells REBOUND (Off:0 Def:2),,,,
+0020000060,399,2,42,4,4:01 PM,6:01,MISS Wells  Driving Layup,,,,
+0020000060,400,4,0,4,4:01 PM,5:59,,,Maloney REBOUND (Off:1 Def:1),,
+0020000060,401,1,1,4,4:01 PM,5:54,,,McLeod 13' Jump Shot (5 PTS) (Jackson 3 AST),75 - 86,11
+0020000060,402,6,1,4,4:01 PM,5:39,,,Mottola P.FOUL (P1.T1),,
+0020000060,403,9,1,4,4:01 PM,5:39,TRAIL BLAZERS Timeout: Regular (Full 4 Short 1),,,,
+0020000060,405,8,0,4,4:03 PM,5:39,,,SUB: Terry FOR Mottola,,
+0020000060,406,8,0,4,4:03 PM,5:39,,,SUB: Wright FOR Maloney,,
+0020000060,407,1,1,4,4:04 PM,5:30,Kemp 16' Jump Shot (6 PTS),,,75 - 88,13
+0020000060,408,1,42,4,4:04 PM,5:16,,,Terry  Driving Layup (16 PTS),77 - 88,11
+0020000060,409,5,21,4,4:04 PM,5:02,Stoudamire Palming Turnover (P6.T16),,,,
+0020000060,410,1,1,4,4:04 PM,4:51,,,Wright 19' Jump Shot (18 PTS) (Terry 6 AST),79 - 88,9
+0020000060,411,2,1,4,4:05 PM,4:22,MISS Davis 12' Jump Shot,,,,
+0020000060,412,4,0,4,4:05 PM,4:20,Augmon REBOUND (Off:1 Def:4),,,,
+0020000060,413,8,0,4,4:06 PM,4:13,SUB: Pippen FOR Augmon,,,,
+0020000060,414,8,0,4,4:06 PM,4:13,SUB: Smith FOR Wells,,,,
+0020000060,415,8,0,4,4:07 PM,4:13,SUB: Wallace FOR Davis,,,,
+0020000060,416,6,4,4,4:07 PM,4:09,Smith OFF.Foul (P3),,,,
+0020000060,417,5,5,4,4:07 PM,4:09,Smith Foul Turnover (P4.T17),,,,
+0020000060,418,6,1,4,4:07 PM,3:58,Stoudamire P.FOUL (P5.PN),,,,
+0020000060,419,3,11,4,4:08 PM,3:58,,,Terry Free Throw 1 of 2 (17 PTS),80 - 88,8
+0020000060,420,3,12,4,4:08 PM,3:58,,,Terry Free Throw 2 of 2 (18 PTS),81 - 88,7
+0020000060,421,1,1,4,4:09 PM,3:34,Wallace 5' Jump Shot (16 PTS) (Kemp 1 AST),,,81 - 90,9
+0020000060,422,2,1,4,4:09 PM,3:09,,,MISS Jackson 9' Jump Shot,,
+0020000060,423,4,0,4,4:09 PM,3:07,,,Jackson REBOUND (Off:1 Def:6),,
+0020000060,424,5,11,4,4:09 PM,3:07,,,Hawks Turnover: Shot Clock (T#14),,
+0020000060,425,2,1,4,4:10 PM,2:50,MISS Smith 17' Jump Shot,,,,
+0020000060,426,4,0,4,4:10 PM,2:47,,,Terry REBOUND (Off:0 Def:1),,
+0020000060,427,2,5,4,4:10 PM,2:25,Pippen BLOCK (2 BLK),,MISS McLeod  Layup,,
+0020000060,428,4,0,4,4:10 PM,2:24,TRAIL BLAZERS Rebound,,,,
+0020000060,429,9,1,4,4:10 PM,2:24,,,Hawks Timeout: Regular (Reg.4 Short 1),,
+0020000060,431,8,0,4,4:12 PM,2:24,,,SUB: Henderson FOR Crawford,,
+0020000060,432,5,1,4,4:12 PM,2:14,Pippen Bad Pass Turnover (P3.T18),,Wright STEAL (2 STL),,
+0020000060,433,2,5,4,4:13 PM,2:08,,,MISS Jackson  Layup,,
+0020000060,435,4,0,4,4:13 PM,2:06,,,Henderson REBOUND (Off:7 Def:3),,
+0020000060,434,1,4,4,4:13 PM,2:06,,,Henderson  Tip Shot (11 PTS),83 - 90,7
+0020000060,436,2,1,4,4:13 PM,1:45,MISS Wallace 5' Jump Shot,,,,
+0020000060,437,4,0,4,4:13 PM,1:43,,,Henderson REBOUND (Off:7 Def:4),,
+0020000060,438,5,1,4,4:13 PM,1:34,,,Terry Bad Pass Turnover (P2.T15),,
+0020000060,439,2,1,4,4:14 PM,1:10,MISS Smith 19' Jump Shot,,,,
+0020000060,440,4,0,4,4:14 PM,1:09,,,Terry REBOUND (Off:0 Def:2),,
+0020000060,441,2,1,4,4:14 PM,1:02,,,MISS Jackson 18' Jump Shot,,
+0020000060,442,4,0,4,4:14 PM,0:59,Wallace REBOUND (Off:0 Def:7),,,,
+0020000060,443,2,1,4,4:14 PM,0:41,MISS Smith  3PT Jump Shot,,,,
+0020000060,444,4,0,4,4:14 PM,0:39,Wallace REBOUND (Off:1 Def:7),,,,
+0020000060,445,6,1,4,4:14 PM,0:39,,,McLeod P.FOUL (P1.T2),,
+0020000060,446,6,1,4,4:15 PM,0:35,,,Terry P.FOUL (P2.PN),,
+0020000060,447,6,11,4,4:15 PM,0:35,Wallace T.FOUL (P3.PN),,,,
+0020000060,448,6,11,4,4:15 PM,0:35,Wallace T.FOUL (P3.PN),,,,
+0020000060,449,11,1,4,4:15 PM,0:35,Wallace Ejection:Second Technical,,,,
+0020000060,450,8,0,4,4:15 PM,0:35,SUB: Davis FOR Wallace,,,,
+0020000060,451,3,16,4,4:15 PM,0:35,,,Jackson Free Throw Technical (13 PTS),84 - 90,6
+0020000060,452,3,16,4,4:15 PM,0:35,,,Jackson Free Throw Technical (14 PTS),85 - 90,5
+0020000060,453,3,11,4,4:16 PM,0:35,Stoudamire Free Throw 1 of 2 (9 PTS),,,85 - 91,6
+0020000060,454,3,12,4,4:16 PM,0:35,Stoudamire Free Throw 2 of 2 (10 PTS),,,85 - 92,7
+0020000060,455,9,1,4,4:16 PM,0:35,,,Hawks Timeout: Regular (Reg.5 Short 1),,
+0020000060,457,6,2,4,4:19 PM,0:30,Smith S.FOUL (P4.PN),,,,
+0020000060,458,3,11,4,4:19 PM,0:30,,,MISS Terry Free Throw 1 of 2,,
+0020000060,460,4,0,4,4:19 PM,0:30,,,Hawks Rebound,,
+0020000060,459,3,12,4,4:19 PM,0:30,,,Terry Free Throw 2 of 2 (19 PTS),86 - 92,6
+0020000060,461,6,1,4,4:20 PM,0:29,,,Terry P.FOUL (P3.PN),,
+0020000060,462,3,11,4,4:20 PM,0:29,Smith Free Throw 1 of 2 (19 PTS),,,86 - 93,7
+0020000060,463,3,12,4,4:20 PM,0:29,Smith Free Throw 2 of 2 (20 PTS),,,86 - 94,8
+0020000060,464,9,2,4,4:21 PM,0:29,,,Hawks Timeout: Short (Reg.5 Short 2),,
+0020000060,466,8,0,4,4:21 PM,0:29,,,SUB: Robinson FOR Henderson,,
+0020000060,467,8,0,4,4:21 PM,0:29,SUB: Augmon FOR Kemp,,,,
+0020000060,468,5,2,4,4:22 PM,0:23,,,Terry Lost Ball Turnover (P3.T16),,
+0020000060,469,9,2,4,4:22 PM,0:23,TRAIL BLAZERS Timeout: Short (Full 4 Short 2),,,,
+0020000060,470,6,1,4,4:23 PM,0:22,,,Terry P.FOUL (P4.PN),,
+0020000060,471,3,11,4,4:23 PM,0:22,Stoudamire Free Throw 1 of 2 (11 PTS),,,86 - 95,9
+0020000060,472,3,12,4,4:24 PM,0:22,MISS Stoudamire Free Throw 2 of 2,,,,
+0020000060,473,4,0,4,4:24 PM,0:20,,,Wright REBOUND (Off:4 Def:8),,
+0020000060,474,2,1,4,4:24 PM,0:11,,,MISS Wright 26' 3PT Jump Shot,,
+0020000060,475,4,0,4,4:24 PM,0:10,Stoudamire REBOUND (Off:0 Def:4),,,,
+0020000060,476,1,7,4,4:24 PM,0:06,Smith  Dunk (22 PTS) (Stoudamire 5 AST),,,86 - 97,11
+0020000060,477,7,1,4,4:24 PM,0:06,TRAIL BLAZERS Violation: Delay of game Violation,,,,
+0020000060,478,2,1,4,4:24 PM,0:02,,,MISS McLeod 43' 3PT Jump Shot,,
+0020000060,480,4,0,4,4:25 PM,0:00,,,Terry REBOUND (Off:1 Def:2),,
+0020000060,479,1,1,4,4:25 PM,0:00,,,Terry 18' Jump Shot (21 PTS),88 - 97,9
+0020000060,481,13,0,4,4:25 PM,0:00,,,,88 - 97,9

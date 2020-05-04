@@ -1,0 +1,396 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020501123,0,12,0,1,7:15 PM,12:00,,,,,
+0020501123,1,10,0,1,7:15 PM,12:00,Jump Ball Howard vs. Wallace: Tip to,,,,
+0020501123,2,1,3,1,7:16 PM,11:42,Howard 7' Hook Shot (2 PTS),,,0 - 2,2
+0020501123,3,2,1,1,7:16 PM,11:23,,,MISS Wallace 13' Jump Shot,,
+0020501123,4,4,0,1,7:16 PM,11:22,Howard REBOUND (Off:0 Def:1),,,,
+0020501123,5,2,1,1,7:16 PM,11:03,MISS Nelson 18' Jump Shot,,,,
+0020501123,6,4,0,1,7:16 PM,11:02,,,Wallace REBOUND (Off:0 Def:1),,
+0020501123,7,2,1,1,7:17 PM,10:50,,,MISS Wallace 17' Jump Shot,,
+0020501123,8,4,0,1,7:17 PM,10:48,MAGIC Rebound,,,,
+0020501123,9,1,1,1,7:17 PM,10:31,Nelson 19' Jump Shot (2 PTS),,,0 - 4,4
+0020501123,10,1,5,1,7:17 PM,10:16,,,Prince  Layup (2 PTS) (Wallace 1 AST),2 - 4,2
+0020501123,11,1,1,1,7:18 PM,9:55,Turkoglu 9' Jump Shot (2 PTS),,,2 - 6,4
+0020501123,12,1,1,1,7:18 PM,9:39,,,Wallace 12' Jump Shot (2 PTS) (Prince 1 AST),4 - 6,2
+0020501123,13,5,2,1,7:18 PM,9:16,Howard Lost Ball Turnover (P1.T1),,Wallace STEAL (1 STL),,
+0020501123,14,2,1,1,7:19 PM,9:07,,,MISS Wallace 26' 3PT Jump Shot,,
+0020501123,15,4,0,1,7:19 PM,9:05,Stevenson REBOUND (Off:0 Def:1),,,,
+0020501123,16,2,1,1,7:19 PM,8:56,MISS Battie 6' Jump Shot,,Wallace BLOCK (1 BLK),,
+0020501123,17,4,0,1,7:19 PM,8:53,,,Wallace REBOUND (Off:0 Def:1),,
+0020501123,18,2,1,1,7:19 PM,8:44,,,MISS Delfino 21' Jump Shot,,
+0020501123,19,4,0,1,7:19 PM,8:42,Battie REBOUND (Off:0 Def:1),,,,
+0020501123,20,1,5,1,7:19 PM,8:26,Nelson  Layup (4 PTS) (Howard 1 AST),,,4 - 8,4
+0020501123,21,5,1,1,7:19 PM,8:11,Nelson STEAL (1 STL),,Wallace Bad Pass Turnover (P1.T1),,
+0020501123,22,1,1,1,7:20 PM,8:05,Turkoglu 24' 3PT Jump Shot (5 PTS) (Nelson 1 AST),,,4 - 11,7
+0020501123,23,9,1,1,7:20 PM,7:56,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0020501123,25,2,3,1,7:22 PM,7:44,,,MISS Prince 8' Hook Shot,,
+0020501123,26,4,0,1,7:22 PM,7:42,Howard REBOUND (Off:0 Def:2),,,,
+0020501123,27,6,2,1,7:22 PM,7:38,,,Wallace S.FOUL (P1.T1),,
+0020501123,28,3,11,1,7:23 PM,7:38,Battie Free Throw 1 of 2 (1 PTS),,,4 - 12,8
+0020501123,29,3,12,1,7:23 PM,7:38,MISS Battie Free Throw 2 of 2,,,,
+0020501123,30,4,0,1,7:23 PM,7:37,,,Wallace REBOUND (Off:0 Def:2),,
+0020501123,31,2,5,1,7:23 PM,7:18,Stevenson BLOCK (1 BLK),,MISS Delfino  Layup,,
+0020501123,32,4,0,1,7:23 PM,7:16,Turkoglu REBOUND (Off:0 Def:1),,,,
+0020501123,33,1,1,1,7:24 PM,7:11,Stevenson 19' Jump Shot (2 PTS) (Turkoglu 1 AST),,,4 - 14,10
+0020501123,34,6,2,1,7:24 PM,6:49,Nelson S.FOUL (P1.T1),,,,
+0020501123,35,3,11,1,7:24 PM,6:49,,,Billups Free Throw 1 of 2 (1 PTS),5 - 14,9
+0020501123,36,3,12,1,7:25 PM,6:49,,,Billups Free Throw 2 of 2 (2 PTS),6 - 14,8
+0020501123,37,1,65,1,7:25 PM,6:30,Howard 7' Jump Hook Shot (4 PTS) (Turkoglu 2 AST),,,6 - 16,10
+0020501123,38,1,1,1,7:26 PM,6:11,,,Billups 20' Jump Shot (4 PTS),8 - 16,8
+0020501123,39,2,5,1,7:26 PM,5:50,MISS Howard  Layup,,Wallace BLOCK (2 BLK),,
+0020501123,40,4,0,1,7:26 PM,5:48,,,Delfino REBOUND (Off:0 Def:1),,
+0020501123,41,2,5,1,7:26 PM,5:43,,,MISS Delfino  Layup,,
+0020501123,42,4,0,1,7:26 PM,5:41,Turkoglu REBOUND (Off:0 Def:2),,,,
+0020501123,43,2,5,1,7:26 PM,5:34,MISS Howard  Layup,,,,
+0020501123,44,4,0,1,7:26 PM,5:33,Howard REBOUND (Off:1 Def:2),,,,
+0020501123,45,6,2,1,7:26 PM,5:33,,,Delfino S.FOUL (P1.T2),,
+0020501123,46,8,0,1,7:26 PM,5:33,,,SUB: Delk FOR Delfino,,
+0020501123,47,3,11,1,7:27 PM,5:33,MISS Howard Free Throw 1 of 2,,,,
+0020501123,48,4,1,1,7:27 PM,5:33,MAGIC Rebound,,,,
+0020501123,49,3,12,1,7:27 PM,5:33,Howard Free Throw 2 of 2 (5 PTS),,,8 - 17,9
+0020501123,50,1,1,1,7:27 PM,5:18,,,Wallace 14' Jump Shot (4 PTS) (Billups 1 AST),10 - 17,7
+0020501123,51,1,1,1,7:28 PM,4:56,Stevenson 21' Jump Shot (4 PTS) (Nelson 2 AST),,,10 - 19,9
+0020501123,52,1,1,1,7:28 PM,4:35,,,Billups 20' Jump Shot (6 PTS),12 - 19,7
+0020501123,53,5,1,1,7:28 PM,4:24,Nelson Bad Pass Turnover (P1.T2),,Wallace STEAL (2 STL),,
+0020501123,54,1,66,1,7:29 PM,4:08,,,Wallace 8' Jump Bank Shot (2 PTS),14 - 19,5
+0020501123,55,1,5,1,7:29 PM,3:48,Battie  Layup (3 PTS) (Nelson 3 AST),,,14 - 21,7
+0020501123,56,6,1,1,7:29 PM,3:30,Nelson P.FOUL (P2.T2),,,,
+0020501123,57,8,0,1,7:29 PM,3:30,SUB: Arroyo FOR Nelson,,,,
+0020501123,58,1,42,1,7:30 PM,3:23,,,Delk  Driving Layup (2 PTS),16 - 21,5
+0020501123,61,2,1,1,7:30 PM,2:55,MISS Battie 25' 3PT Jump Shot,,,,
+0020501123,62,4,0,1,7:30 PM,2:53,,,Wallace REBOUND (Off:0 Def:2),,
+0020501123,63,2,1,1,7:30 PM,2:45,,,MISS Wallace 25' 3PT Jump Shot,,
+0020501123,64,4,0,1,7:30 PM,2:42,,,Pistons Rebound,,
+0020501123,65,9,1,1,7:31 PM,2:42,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0020501123,69,8,0,1,7:32 PM,2:42,,,SUB: McDyess FOR Wallace,,
+0020501123,70,8,0,1,7:33 PM,2:42,SUB: Dooling FOR Battie,,,,
+0020501123,71,8,0,1,7:33 PM,2:42,SUB: Milicic FOR Stevenson,,,,
+0020501123,72,1,63,1,7:33 PM,2:26,,,Delk 10' Fadeaway Jumper (4 PTS),18 - 21,3
+0020501123,73,1,5,1,7:34 PM,2:10,Turkoglu  Layup (7 PTS) (Milicic 1 AST),,,18 - 23,5
+0020501123,74,1,1,1,7:34 PM,1:44,,,McDyess 21' Jump Shot (2 PTS) (Billups 2 AST),20 - 23,3
+0020501123,75,1,1,1,7:35 PM,1:22,Milicic 21' Jump Shot (2 PTS) (Turkoglu 3 AST),,,20 - 25,5
+0020501123,76,2,66,1,7:35 PM,1:02,,,MISS McDyess 7' Jump Bank Shot,,
+0020501123,77,4,0,1,7:35 PM,1:01,Arroyo REBOUND (Off:0 Def:1),,,,
+0020501123,78,1,63,1,7:35 PM,0:46,Turkoglu 19' Fadeaway Jumper (9 PTS),,,20 - 27,7
+0020501123,79,2,1,1,7:36 PM,0:35,,,MISS Billups 21' Jump Shot,,
+0020501123,80,4,0,1,7:36 PM,0:33,Milicic REBOUND (Off:0 Def:1),,,,
+0020501123,81,2,1,1,7:36 PM,0:13,MISS Dooling 19' Jump Shot,,,,
+0020501123,82,4,0,1,7:36 PM,0:11,,,Delk REBOUND (Off:0 Def:1),,
+0020501123,83,1,42,1,7:36 PM,0:02,,,Delk  Driving Layup (6 PTS),22 - 27,5
+0020501123,84,6,2,1,7:36 PM,0:02,Milicic S.FOUL (P1.T3),,,,
+0020501123,85,8,0,1,7:37 PM,0:02,,,SUB: Hunter FOR Billups,,
+0020501123,86,3,10,1,7:37 PM,0:02,,,Delk Free Throw 1 of 1 (7 PTS),23 - 27,4
+0020501123,87,2,1,1,7:37 PM,0:00,MISS Turkoglu 57' 3PT Jump Shot,,,,
+0020501123,88,4,0,1,7:37 PM,0:00,MAGIC Rebound,,,,
+0020501123,89,13,0,1,7:37 PM,0:00,,,,23 - 27,4
+0020501123,92,12,0,2,7:40 PM,12:00,,,,23 - 27,4
+0020501123,93,1,1,2,7:40 PM,11:42,,,Delk 25' 3PT Jump Shot (10 PTS),26 - 27,1
+0020501123,94,1,56,2,7:41 PM,11:23,Turkoglu 6' Running Hook Shot (11 PTS),,,26 - 29,3
+0020501123,95,6,2,2,7:41 PM,11:23,,,Hunter S.FOUL (P1.T1),,
+0020501123,96,8,0,2,7:41 PM,11:23,,,SUB: Evans FOR Prince,,
+0020501123,97,3,10,2,7:41 PM,11:23,Turkoglu Free Throw 1 of 1 (12 PTS),,,26 - 30,4
+0020501123,98,5,1,2,7:41 PM,11:08,,,McDyess Bad Pass Turnover (P1.T2),,
+0020501123,99,6,1,2,7:42 PM,11:01,,,Evans P.FOUL (P1.T2),,
+0020501123,100,2,1,2,7:42 PM,10:56,MISS Arroyo 20' Jump Shot,,,,
+0020501123,101,4,0,2,7:42 PM,10:55,,,Pistons Rebound,,
+0020501123,102,5,1,2,7:42 PM,10:41,Dooling STEAL (1 STL),,McDyess Bad Pass Turnover (P2.T3),,
+0020501123,103,1,7,2,7:43 PM,10:36,Turkoglu  Dunk (14 PTS) (Dooling 1 AST),,,26 - 32,6
+0020501123,104,5,11,2,7:43 PM,10:08,,,Pistons Turnover: Shot Clock (T#4),,
+0020501123,106,5,1,2,7:44 PM,9:45,Turkoglu Bad Pass Turnover (P1.T3),,McDyess STEAL (1 STL),,
+0020501123,107,2,1,2,7:44 PM,9:39,,,MISS Evans 20' Jump Shot,,
+0020501123,108,4,0,2,7:44 PM,9:37,Milicic REBOUND (Off:0 Def:2),,,,
+0020501123,109,2,1,2,7:44 PM,9:31,MISS Turkoglu 25' 3PT Jump Shot,,,,
+0020501123,110,4,0,2,7:44 PM,9:29,Howard REBOUND (Off:2 Def:2),,,,
+0020501123,111,1,42,2,7:44 PM,9:15,Arroyo  Driving Layup (2 PTS),,,26 - 34,8
+0020501123,112,9,1,2,7:44 PM,9:06,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0020501123,115,8,0,2,7:46 PM,9:06,,,SUB: Wallace FOR Wallace,,
+0020501123,116,8,0,2,7:46 PM,9:06,SUB: Battie FOR Turkoglu,,,,
+0020501123,117,8,0,2,7:46 PM,9:06,SUB: Ariza FOR Howard,,,,
+0020501123,118,1,44,2,7:47 PM,8:58,,,Delk  Reverse Layup (12 PTS),28 - 34,6
+0020501123,119,1,1,2,7:47 PM,8:34,Battie 17' Jump Shot (5 PTS),,,28 - 36,8
+0020501123,120,2,1,2,7:48 PM,8:16,,,MISS McDyess 19' Jump Shot,,
+0020501123,121,4,0,2,7:48 PM,8:14,,,Evans REBOUND (Off:1 Def:0),,
+0020501123,122,5,2,2,7:48 PM,8:02,Arroyo STEAL (1 STL),,Delk Lost Ball Turnover (P1.T5),,
+0020501123,123,2,1,2,7:48 PM,7:46,MISS Dooling 21' Jump Shot,,,,
+0020501123,124,4,0,2,7:48 PM,7:44,,,Hunter REBOUND (Off:0 Def:1),,
+0020501123,125,1,5,2,7:48 PM,7:40,,,Delk  Layup (14 PTS) (McDyess 1 AST),30 - 36,6
+0020501123,126,1,3,2,7:49 PM,7:16,Milicic 8' Hook Shot (4 PTS),,,30 - 38,8
+0020501123,127,2,1,2,7:49 PM,6:49,Milicic BLOCK (1 BLK),,MISS Wallace 20' Jump Shot,,
+0020501123,128,4,0,2,7:49 PM,6:47,Battie REBOUND (Off:0 Def:2),,,,
+0020501123,129,1,7,2,7:49 PM,6:43,Ariza  Dunk (2 PTS) (Arroyo 1 AST),,,30 - 40,10
+0020501123,130,1,1,2,7:50 PM,6:14,,,McDyess 19' Jump Shot (4 PTS) (Delk 1 AST),32 - 40,8
+0020501123,131,2,3,2,7:50 PM,6:02,MISS Battie 7' Hook Shot,,,,
+0020501123,132,4,0,2,7:50 PM,6:00,,,Wallace REBOUND (Off:0 Def:3),,
+0020501123,133,2,1,2,7:50 PM,5:52,,,MISS Wallace 25' 3PT Jump Shot,,
+0020501123,134,4,0,2,7:50 PM,5:50,Ariza REBOUND (Off:0 Def:1),,,,
+0020501123,135,1,47,2,7:51 PM,5:36,Milicic 11' Turnaround Jump Shot (6 PTS) (Arroyo 2 AST),,,32 - 42,10
+0020501123,136,5,2,2,7:51 PM,5:21,Dooling STEAL (2 STL),,Delk Lost Ball Turnover (P2.T6),,
+0020501123,137,2,7,2,7:51 PM,5:14,MISS Dooling  Dunk,,Evans BLOCK (1 BLK),,
+0020501123,138,4,0,2,7:51 PM,5:12,Ariza REBOUND (Off:1 Def:1),,,,
+0020501123,139,1,5,2,7:51 PM,5:09,Ariza  Layup (4 PTS),,,32 - 44,12
+0020501123,140,9,2,2,7:51 PM,5:03,,,Pistons Timeout: Short (Reg.2 Short 1),,
+0020501123,142,9,4,2,7:52 PM,5:03,,,,,
+0020501123,143,8,0,2,7:54 PM,5:03,,,SUB: Billups FOR Hunter,,
+0020501123,145,2,1,2,7:54 PM,4:44,,,MISS Wallace 16' Jump Shot,,
+0020501123,146,4,0,2,7:54 PM,4:42,Ariza REBOUND (Off:1 Def:2),,,,
+0020501123,147,1,1,2,7:54 PM,4:37,Arroyo 19' Jump Shot (4 PTS),,,32 - 46,14
+0020501123,148,6,4,2,7:55 PM,4:21,,,Billups OFF.Foul (P1),,
+0020501123,149,5,5,2,7:55 PM,4:21,,,Billups Foul Turnover (P1.T7),,
+0020501123,150,8,0,2,7:55 PM,4:21,,,SUB: Prince FOR Evans,,
+0020501123,151,7,1,2,7:55 PM,4:21,,,Pistons Violation: Delay of game Violation,,
+0020501123,152,1,66,2,7:55 PM,4:05,Battie 6' Jump Bank Shot (7 PTS),,,32 - 48,16
+0020501123,153,2,1,2,7:55 PM,3:48,,,MISS Wallace 25' 3PT Jump Shot,,
+0020501123,154,4,0,2,7:55 PM,3:46,Ariza REBOUND (Off:1 Def:3),,,,
+0020501123,155,2,1,2,7:56 PM,3:37,MISS Milicic 22' Jump Shot,,,,
+0020501123,156,4,0,2,7:56 PM,3:36,MAGIC Rebound,,,,
+0020501123,157,6,3,2,7:56 PM,3:36,,,McDyess L.B.FOUL (P1.T3),,
+0020501123,158,5,1,2,7:56 PM,3:27,Ariza Bad Pass Turnover (P1.T4),,Delk STEAL (1 STL),,
+0020501123,159,1,5,2,7:56 PM,3:23,,,Billups  Layup (8 PTS) (Delk 2 AST),34 - 48,14
+0020501123,160,2,1,2,7:57 PM,3:03,MISS Battie 15' Jump Shot,,,,
+0020501123,161,4,0,2,7:57 PM,3:01,,,Delk REBOUND (Off:0 Def:2),,
+0020501123,162,6,2,2,7:57 PM,2:56,Battie S.FOUL (P1.T1),,,,
+0020501123,163,9,1,2,7:57 PM,2:56,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0020501123,166,8,0,2,7:59 PM,2:56,SUB: Howard FOR Milicic,,,,
+0020501123,167,8,0,2,7:59 PM,2:56,SUB: Turkoglu FOR Ariza,,,,
+0020501123,168,3,11,2,7:59 PM,2:56,,,MISS Prince Free Throw 1 of 2,,
+0020501123,169,4,1,2,7:59 PM,2:56,,,Pistons Rebound,,
+0020501123,170,3,12,2,7:59 PM,2:56,,,Prince Free Throw 2 of 2 (3 PTS),35 - 48,13
+0020501123,171,1,3,2,8:00 PM,2:40,Battie 7' Hook Shot (9 PTS),,,35 - 50,15
+0020501123,172,1,1,2,8:00 PM,2:19,,,Billups 12' Jump Shot (10 PTS),37 - 50,13
+0020501123,173,6,2,2,8:01 PM,1:51,,,Wallace S.FOUL (P2.T4),,
+0020501123,174,3,11,2,8:01 PM,1:51,Howard Free Throw 1 of 2 (6 PTS),,,37 - 51,14
+0020501123,175,3,12,2,8:01 PM,1:51,Howard Free Throw 2 of 2 (7 PTS),,,37 - 52,15
+0020501123,176,1,1,2,8:02 PM,1:36,,,Wallace 18' Jump Shot (6 PTS),39 - 52,13
+0020501123,177,2,56,2,8:02 PM,1:16,MISS Howard 6' Running Hook Shot,,,,
+0020501123,178,4,0,2,8:02 PM,1:14,,,Delk REBOUND (Off:0 Def:3),,
+0020501123,179,2,1,2,8:02 PM,1:05,,,MISS Wallace 25' 3PT Jump Shot,,
+0020501123,180,4,0,2,8:02 PM,1:03,Turkoglu REBOUND (Off:0 Def:3),,,,
+0020501123,181,6,2,2,8:02 PM,0:54,,,Prince S.FOUL (P1.PN),,
+0020501123,182,3,11,2,8:03 PM,0:54,Turkoglu Free Throw 1 of 2 (15 PTS),,,39 - 53,14
+0020501123,183,3,12,2,8:03 PM,0:54,Turkoglu Free Throw 2 of 2 (16 PTS),,,39 - 54,15
+0020501123,184,2,1,2,8:03 PM,0:35,,,MISS Prince 14' Jump Shot,,
+0020501123,185,4,0,2,8:04 PM,0:33,Battie REBOUND (Off:0 Def:3),,,,
+0020501123,186,2,3,2,8:04 PM,0:20,MISS Howard 7' Hook Shot,,,,
+0020501123,187,4,0,2,8:04 PM,0:19,,,Wallace REBOUND (Off:0 Def:4),,
+0020501123,188,6,1,2,8:04 PM,0:04,Arroyo P.FOUL (P1.T2),,,,
+0020501123,189,2,63,2,8:04 PM,0:00,,,MISS Billups 20' Fadeaway Jumper,,
+0020501123,190,4,0,2,8:04 PM,0:00,,,Pistons Rebound,,
+0020501123,191,13,0,2,8:05 PM,0:00,,,,39 - 54,15
+0020501123,193,12,0,3,8:21 PM,12:00,,,,39 - 54,15
+0020501123,194,6,2,3,8:22 PM,11:46,Battie S.FOUL (P2.T1),,,,
+0020501123,195,3,11,3,8:22 PM,11:46,,,Wallace Free Throw 1 of 2 (7 PTS),40 - 54,14
+0020501123,196,3,12,3,8:22 PM,11:46,,,MISS Wallace Free Throw 2 of 2,,
+0020501123,197,4,0,3,8:23 PM,11:45,Howard REBOUND (Off:2 Def:3),,,,
+0020501123,198,2,1,3,8:23 PM,11:23,MISS Turkoglu 26' 3PT Jump Shot,,,,
+0020501123,199,4,0,3,8:23 PM,11:22,,,Pistons Rebound,,
+0020501123,200,6,3,3,8:23 PM,11:22,Howard L.B.FOUL (P1.T2),,,,
+0020501123,201,5,2,3,8:24 PM,11:04,Stevenson STEAL (1 STL),,Delfino Lost Ball Turnover (P1.T8),,
+0020501123,202,1,1,3,8:24 PM,10:58,Stevenson 16' Jump Shot (6 PTS) (Turkoglu 4 AST),,,40 - 56,16
+0020501123,203,1,3,3,8:24 PM,10:39,,,Prince 6' Hook Shot (5 PTS),42 - 56,14
+0020501123,204,2,66,3,8:24 PM,10:14,MISS Howard 14' Jump Bank Shot,,,,
+0020501123,205,4,0,3,8:24 PM,10:12,,,Wallace REBOUND (Off:0 Def:5),,
+0020501123,206,1,1,3,8:25 PM,9:53,,,Delfino 22' Jump Shot (2 PTS) (Prince 2 AST),44 - 56,12
+0020501123,207,2,1,3,8:25 PM,9:31,MISS Stevenson 22' Jump Shot,,,,
+0020501123,208,4,0,3,8:25 PM,9:29,Howard REBOUND (Off:3 Def:3),,,,
+0020501123,209,5,1,3,8:25 PM,9:24,Howard Bad Pass Turnover (P2.T5),,Prince STEAL (1 STL),,
+0020501123,210,1,1,3,8:25 PM,9:05,,,Prince 16' Jump Shot (7 PTS),46 - 56,10
+0020501123,211,9,1,3,8:26 PM,9:00,MAGIC Timeout: Regular (Full 3 Short 0),,,,
+0020501123,215,2,1,3,8:28 PM,8:40,MISS Battie 20' Jump Shot,,,,
+0020501123,216,4,0,3,8:28 PM,8:38,Turkoglu REBOUND (Off:1 Def:3),,,,
+0020501123,217,2,3,3,8:28 PM,8:28,MISS Howard 8' Hook Shot,,Wallace BLOCK (3 BLK),,
+0020501123,218,4,0,3,8:28 PM,8:25,,,Billups REBOUND (Off:0 Def:1),,
+0020501123,219,6,2,3,8:29 PM,8:09,Turkoglu S.FOUL (P1.T3),,,,
+0020501123,220,3,11,3,8:29 PM,8:09,,,Prince Free Throw 1 of 2 (8 PTS),47 - 56,9
+0020501123,221,3,12,3,8:29 PM,8:09,,,Prince Free Throw 2 of 2 (9 PTS),48 - 56,8
+0020501123,222,2,1,3,8:30 PM,7:52,MISS Nelson 22' Jump Shot,,,,
+0020501123,223,4,0,3,8:30 PM,7:50,,,Wallace REBOUND (Off:0 Def:3),,
+0020501123,224,2,3,3,8:30 PM,7:37,,,MISS Wallace 9' Hook Shot,,
+0020501123,225,4,0,3,8:30 PM,7:35,Stevenson REBOUND (Off:0 Def:2),,,,
+0020501123,226,5,1,3,8:30 PM,7:31,Nelson Bad Pass Turnover (P2.T6),,,,
+0020501123,227,6,2,3,8:30 PM,7:20,Nelson S.FOUL (P3.T4),,,,
+0020501123,228,3,11,3,8:30 PM,7:20,,,Billups Free Throw 1 of 2 (11 PTS),49 - 56,7
+0020501123,229,3,12,3,8:31 PM,7:20,,,Billups Free Throw 2 of 2 (12 PTS),50 - 56,6
+0020501123,230,2,1,3,8:31 PM,7:04,MISS Nelson 20' Jump Shot,,,,
+0020501123,231,4,0,3,8:32 PM,7:02,,,Billups REBOUND (Off:0 Def:2),,
+0020501123,232,2,1,3,8:32 PM,6:57,,,MISS Delfino 24' 3PT Jump Shot,,
+0020501123,233,4,0,3,8:32 PM,6:55,Turkoglu REBOUND (Off:1 Def:4),,,,
+0020501123,234,6,2,3,8:32 PM,6:49,,,Delfino S.FOUL (P2.T1),,
+0020501123,235,3,11,3,8:32 PM,6:49,Howard Free Throw 1 of 2 (8 PTS),,,50 - 57,7
+0020501123,236,3,12,3,8:32 PM,6:49,MISS Howard Free Throw 2 of 2,,,,
+0020501123,237,4,0,3,8:33 PM,6:49,,,Prince REBOUND (Off:0 Def:1),,
+0020501123,238,1,46,3,8:33 PM,6:34,,,Prince 7' Running Jump Shot (11 PTS) (Billups 3 AST),52 - 57,5
+0020501123,239,2,42,3,8:33 PM,6:17,MISS Stevenson  Driving Layup,,,,
+0020501123,240,4,0,3,8:33 PM,6:16,,,Wallace REBOUND (Off:0 Def:6),,
+0020501123,241,2,1,3,8:33 PM,6:03,,,MISS Prince 18' Jump Shot,,
+0020501123,242,4,0,3,8:33 PM,6:01,Howard REBOUND (Off:3 Def:4),,,,
+0020501123,243,1,1,3,8:34 PM,5:50,Stevenson 18' Jump Shot (8 PTS) (Howard 2 AST),,,52 - 59,7
+0020501123,244,2,63,3,8:34 PM,5:27,,,MISS Prince 10' Fadeaway Jumper,,
+0020501123,245,4,0,3,8:34 PM,5:25,Howard REBOUND (Off:3 Def:5),,,,
+0020501123,246,6,4,3,8:34 PM,5:21,Stevenson OFF.Foul (P1),,,,
+0020501123,247,5,5,3,8:34 PM,5:21,Stevenson Foul Turnover (P1.T7),,,,
+0020501123,249,9,1,3,8:34 PM,5:21,,,Pistons Timeout: Regular (Reg.3 Short 1),,
+0020501123,251,8,0,3,8:36 PM,5:21,,,SUB: Delk FOR Delfino,,
+0020501123,252,2,1,3,8:37 PM,5:08,,,MISS Billups 25' 3PT Jump Shot,,
+0020501123,253,4,0,3,8:37 PM,5:06,Battie REBOUND (Off:0 Def:4),,,,
+0020501123,254,5,1,3,8:37 PM,4:55,Stevenson Bad Pass Turnover (P2.T8),,Wallace STEAL (1 STL),,
+0020501123,255,1,63,3,8:37 PM,4:36,,,Billups 13' Fadeaway Jumper (14 PTS),54 - 59,5
+0020501123,256,1,42,3,8:38 PM,4:14,Turkoglu  Driving Layup (18 PTS),,,54 - 61,7
+0020501123,257,2,1,3,8:38 PM,3:49,,,MISS Delk 17' Jump Shot,,
+0020501123,258,4,0,3,8:38 PM,3:47,Howard REBOUND (Off:3 Def:6),,,,
+0020501123,259,6,2,3,8:38 PM,3:41,,,Wallace S.FOUL (P3.T2),,
+0020501123,260,3,11,3,8:39 PM,3:41,Battie Free Throw 1 of 2 (10 PTS),,,54 - 62,8
+0020501123,261,8,0,3,8:39 PM,3:41,,,SUB: McDyess FOR Wallace,,
+0020501123,262,3,12,3,8:39 PM,3:41,Battie Free Throw 2 of 2 (11 PTS),,,54 - 63,9
+0020501123,263,1,47,3,8:40 PM,3:24,,,McDyess 13' Turnaround Jump Shot (6 PTS),56 - 63,7
+0020501123,264,6,2,3,8:40 PM,3:00,,,Prince S.FOUL (P2.T3),,
+0020501123,265,3,11,3,8:40 PM,3:00,Turkoglu Free Throw 1 of 2 (19 PTS),,,56 - 64,8
+0020501123,266,8,0,3,8:41 PM,3:00,,,SUB: Evans FOR Prince,,
+0020501123,267,3,12,3,8:41 PM,3:00,Turkoglu Free Throw 2 of 2 (20 PTS),,,56 - 65,9
+0020501123,268,6,2,3,8:41 PM,2:40,Battie S.FOUL (P3.PN),,,,
+0020501123,269,3,11,3,8:42 PM,2:40,,,MISS McDyess Free Throw 1 of 2,,
+0020501123,270,4,1,3,8:42 PM,2:40,,,Pistons Rebound,,
+0020501123,271,8,0,3,8:42 PM,2:40,SUB: Arroyo FOR Nelson,,,,
+0020501123,272,8,0,3,8:42 PM,2:40,SUB: Milicic FOR Battie,,,,
+0020501123,273,3,12,3,8:42 PM,2:40,,,MISS McDyess Free Throw 2 of 2,,
+0020501123,274,4,0,3,8:42 PM,2:40,Milicic REBOUND (Off:0 Def:3),,,,
+0020501123,275,7,5,3,8:43 PM,2:28,,,Delk Violation:Kicked Ball,,
+0020501123,276,6,2,3,8:43 PM,2:18,,,McDyess S.FOUL (P2.T4),,
+0020501123,277,3,11,3,8:43 PM,2:18,Howard Free Throw 1 of 2 (9 PTS),,,56 - 66,10
+0020501123,278,3,12,3,8:43 PM,2:18,MISS Howard Free Throw 2 of 2,,,,
+0020501123,279,4,0,3,8:44 PM,2:17,,,McDyess REBOUND (Off:0 Def:1),,
+0020501123,280,2,1,3,8:44 PM,2:01,,,MISS McDyess 20' Jump Shot,,
+0020501123,281,4,0,3,8:44 PM,1:59,,,Evans REBOUND (Off:2 Def:0),,
+0020501123,282,2,5,3,8:44 PM,1:58,,,MISS Evans  Layup,,
+0020501123,283,4,0,3,8:44 PM,1:56,,,Evans REBOUND (Off:3 Def:0),,
+0020501123,284,2,5,3,8:44 PM,1:53,,,MISS Evans  Layup,,
+0020501123,286,4,0,3,8:44 PM,1:51,,,McDyess REBOUND (Off:1 Def:1),,
+0020501123,285,1,64,3,8:44 PM,1:51,,,McDyess  Follow Up Dunk (8 PTS),58 - 66,8
+0020501123,287,2,5,3,8:44 PM,1:37,MISS Howard  Layup,,Wallace BLOCK (1 BLK),,
+0020501123,288,4,0,3,8:44 PM,1:35,Howard REBOUND (Off:4 Def:6),,,,
+0020501123,289,5,2,3,8:44 PM,1:30,Arroyo Lost Ball Turnover (P1.T9),,Billups STEAL (1 STL),,
+0020501123,290,1,7,3,8:45 PM,1:26,,,Evans  Dunk (2 PTS) (Billups 4 AST),60 - 66,6
+0020501123,291,2,5,3,8:45 PM,1:07,MISS Stevenson  Layup,,,,
+0020501123,292,4,0,3,8:45 PM,1:05,,,Wallace REBOUND (Off:0 Def:4),,
+0020501123,293,1,1,3,8:45 PM,0:59,,,Delk 25' 3PT Jump Shot (17 PTS) (Billups 5 AST),63 - 66,3
+0020501123,294,9,2,3,8:45 PM,0:59,MAGIC Timeout: Short (Full 3 Short 1),,,,
+0020501123,298,5,2,3,8:46 PM,0:50,Arroyo Lost Ball Turnover (P2.T10),,Billups STEAL (2 STL),,
+0020501123,299,1,51,3,8:46 PM,0:47,,,Evans  Reverse Dunk (4 PTS) (Billups 6 AST),65 - 66,1
+0020501123,300,6,1,3,8:47 PM,0:35,,,McDyess P.FOUL (P3.PN),,
+0020501123,302,3,11,3,8:47 PM,0:35,Howard Free Throw 1 of 2 (10 PTS),,,65 - 67,2
+0020501123,303,8,0,3,8:47 PM,0:35,SUB: Dooling FOR Stevenson,,,,
+0020501123,304,3,12,3,8:47 PM,0:35,MISS Howard Free Throw 2 of 2,,,,
+0020501123,305,4,0,3,8:48 PM,0:34,,,McDyess REBOUND (Off:1 Def:2),,
+0020501123,306,6,1,3,8:48 PM,0:16,Dooling P.FOUL (P1.PN),,,,
+0020501123,307,3,11,3,8:48 PM,0:16,,,MISS Delk Free Throw 1 of 2,,
+0020501123,308,4,1,3,8:48 PM,0:16,,,Pistons Rebound,,
+0020501123,309,3,12,3,8:48 PM,0:16,,,Delk Free Throw 2 of 2 (18 PTS),66 - 67,1
+0020501123,310,2,42,3,8:49 PM,0:00,MISS Dooling  Driving Layup,,,,
+0020501123,311,4,0,3,8:49 PM,0:00,,,Wallace REBOUND (Off:0 Def:5),,
+0020501123,312,13,0,3,8:49 PM,0:00,,,,66 - 67,1
+0020501123,314,12,0,4,8:52 PM,12:00,,,,66 - 67,1
+0020501123,315,1,1,4,8:53 PM,11:36,Turkoglu 19' Jump Shot (22 PTS),,,66 - 69,3
+0020501123,316,6,2,4,8:53 PM,11:12,Turkoglu S.FOUL (P2.T1),,,,
+0020501123,317,3,11,4,8:53 PM,11:12,,,MISS Wallace Free Throw 1 of 2,,
+0020501123,318,4,1,4,8:53 PM,11:12,,,Pistons Rebound,,
+0020501123,319,8,0,4,8:54 PM,11:12,,,SUB: Hunter FOR Billups,,
+0020501123,320,3,12,4,8:54 PM,11:12,,,MISS Wallace Free Throw 2 of 2,,
+0020501123,321,4,0,4,8:54 PM,11:11,Howard REBOUND (Off:4 Def:7),,,,
+0020501123,322,6,1,4,8:54 PM,10:58,,,Hunter P.FOUL (P2.T1),,
+0020501123,323,1,1,4,8:55 PM,10:49,Arroyo 20' Jump Shot (6 PTS),,,66 - 71,5
+0020501123,324,5,1,4,8:55 PM,10:33,Arroyo STEAL (2 STL),,Evans Bad Pass Turnover (P1.T9),,
+0020501123,325,1,47,4,8:55 PM,10:22,Turkoglu 14' Turnaround Jump Shot (24 PTS),,,66 - 73,7
+0020501123,326,9,1,4,8:55 PM,10:15,,,Pistons Timeout: Regular (Reg.4 Short 1),,
+0020501123,329,8,0,4,8:57 PM,10:15,,,SUB: Prince FOR Evans,,
+0020501123,330,6,1,4,8:58 PM,10:01,Turkoglu P.FOUL (P3.T2),,,,
+0020501123,331,2,63,4,8:59 PM,9:45,,,MISS McDyess 18' Fadeaway Jumper,,
+0020501123,332,4,0,4,8:59 PM,9:43,MAGIC Rebound,,,,
+0020501123,333,5,1,4,8:59 PM,9:28,Milicic Bad Pass Turnover (P1.T11),,Hunter STEAL (1 STL),,
+0020501123,334,10,0,4,9:00 PM,9:25,Jump Ball Dooling vs. Delk: Tip to Arroyo,,,,
+0020501123,335,5,2,4,9:00 PM,9:25,Dooling STEAL (3 STL),,Delk Lost Ball Turnover (P3.T10),,
+0020501123,336,2,1,4,9:00 PM,9:02,MISS Dooling 18' Jump Shot,,,,
+0020501123,337,4,0,4,9:00 PM,9:00,,,Hunter REBOUND (Off:0 Def:2),,
+0020501123,338,2,1,4,9:01 PM,8:45,,,MISS McDyess 15' Jump Shot,,
+0020501123,339,4,0,4,9:01 PM,8:44,Turkoglu REBOUND (Off:1 Def:5),,,,
+0020501123,340,5,11,4,9:01 PM,8:20,MAGIC Turnover: Shot Clock (T#12),,,,
+0020501123,341,2,5,4,9:02 PM,8:04,,,MISS McDyess  Layup,,
+0020501123,342,4,0,4,9:02 PM,8:02,Howard REBOUND (Off:4 Def:8),,,,
+0020501123,343,6,2,4,9:02 PM,7:57,,,Hunter S.FOUL (P3.T2),,
+0020501123,344,8,0,4,9:02 PM,7:57,SUB: Ariza FOR Turkoglu,,,,
+0020501123,345,8,0,4,9:02 PM,7:57,,,SUB: Billups FOR Hunter,,
+0020501123,346,3,11,4,9:02 PM,7:57,Arroyo Free Throw 1 of 2 (7 PTS),,,66 - 74,8
+0020501123,347,8,0,4,9:02 PM,7:57,,,SUB: Davis FOR Wallace,,
+0020501123,348,3,12,4,9:02 PM,7:57,Arroyo Free Throw 2 of 2 (8 PTS),,,66 - 75,9
+0020501123,349,6,2,4,9:03 PM,7:41,Ariza S.FOUL (P1.T3),,,,
+0020501123,350,3,11,4,9:03 PM,7:41,,,Prince Free Throw 1 of 2 (12 PTS),67 - 75,8
+0020501123,351,8,0,4,9:03 PM,7:41,SUB: Battie FOR Howard,,,,
+0020501123,352,3,12,4,9:03 PM,7:41,,,MISS Prince Free Throw 2 of 2,,
+0020501123,353,4,0,4,9:04 PM,7:41,Milicic REBOUND (Off:0 Def:4),,,,
+0020501123,354,2,5,4,9:04 PM,7:34,MISS Dooling  Layup,,,,
+0020501123,355,4,0,4,9:04 PM,7:33,,,McDyess REBOUND (Off:1 Def:3),,
+0020501123,356,6,2,4,9:04 PM,7:25,Arroyo S.FOUL (P2.T4),,,,
+0020501123,357,3,11,4,9:04 PM,7:25,,,Billups Free Throw 1 of 2 (15 PTS),68 - 75,7
+0020501123,358,3,12,4,9:04 PM,7:25,,,Billups Free Throw 2 of 2 (16 PTS),69 - 75,6
+0020501123,359,6,4,4,9:05 PM,7:10,Dooling OFF.Foul (P2),,,,
+0020501123,360,5,5,4,9:05 PM,7:10,Dooling Foul Turnover (P1.T13),,,,
+0020501123,361,6,2,4,9:05 PM,7:04,Ariza S.FOUL (P2.PN),,,,
+0020501123,362,3,11,4,9:05 PM,7:04,,,Billups Free Throw 1 of 2 (17 PTS),70 - 75,5
+0020501123,363,3,12,4,9:06 PM,7:04,,,Billups Free Throw 2 of 2 (18 PTS),71 - 75,4
+0020501123,365,1,3,4,9:06 PM,6:48,Milicic 7' Hook Shot (8 PTS),,,71 - 77,6
+0020501123,366,6,2,4,9:06 PM,6:31,Milicic S.FOUL (P2.PN),,,,
+0020501123,367,3,11,4,9:07 PM,6:31,,,Billups Free Throw 1 of 2 (19 PTS),72 - 77,5
+0020501123,368,3,12,4,9:07 PM,6:31,,,Billups Free Throw 2 of 2 (20 PTS),73 - 77,4
+0020501123,369,5,2,4,9:07 PM,6:21,Ariza Lost Ball Turnover (P2.T14),,Prince STEAL (2 STL),,
+0020501123,370,10,0,4,9:08 PM,6:19,Jump Ball Ariza vs. Prince: Tip to Delk,,,,
+0020501123,371,6,1,4,9:09 PM,6:01,Dooling P.FOUL (P3.PN),,,,
+0020501123,372,3,11,4,9:09 PM,6:01,,,Billups Free Throw 1 of 2 (21 PTS),74 - 77,3
+0020501123,374,8,0,4,9:10 PM,6:01,,,SUB: Maxiell FOR McDyess,,
+0020501123,375,3,12,4,9:10 PM,6:01,,,Billups Free Throw 2 of 2 (22 PTS),75 - 77,2
+0020501123,376,5,1,4,9:10 PM,5:42,Battie Bad Pass Turnover (P1.T15),,Maxiell STEAL (1 STL),,
+0020501123,377,1,1,4,9:11 PM,5:32,,,Prince  3PT Jump Shot (15 PTS) (Billups 7 AST),78 - 77,-1
+0020501123,378,9,1,4,9:11 PM,5:31,MAGIC Timeout: Regular (Full 4 Short 1),,,,
+0020501123,380,8,0,4,9:12 PM,5:31,SUB: Turkoglu FOR Ariza,,,,
+0020501123,382,5,1,4,9:13 PM,5:23,Milicic Bad Pass Turnover (P2.T16),,Prince STEAL (3 STL),,
+0020501123,383,1,1,4,9:13 PM,5:08,,,Billups 26' 3PT Jump Shot (25 PTS),81 - 77,-4
+0020501123,384,1,1,4,9:14 PM,4:48,Arroyo 17' Jump Shot (10 PTS) (Milicic 2 AST),,,81 - 79,-2
+0020501123,385,1,1,4,9:14 PM,4:29,,,Maxiell 12' Jump Shot (2 PTS) (Billups 8 AST),83 - 79,-4
+0020501123,386,1,66,4,9:14 PM,4:11,Turkoglu 10' Jump Bank Shot (26 PTS),,,83 - 81,-2
+0020501123,387,6,2,4,9:15 PM,3:54,Turkoglu S.FOUL (P4.PN),,,,
+0020501123,388,8,0,4,9:15 PM,3:54,SUB: Nelson FOR Arroyo,,,,
+0020501123,389,8,0,4,9:15 PM,3:54,SUB: Howard FOR Milicic,,,,
+0020501123,390,3,11,4,9:15 PM,3:54,,,Davis Free Throw 1 of 2 (1 PTS),84 - 81,-3
+0020501123,391,3,12,4,9:15 PM,3:54,,,Davis Free Throw 2 of 2 (2 PTS),85 - 81,-4
+0020501123,392,1,42,4,9:16 PM,3:31,Dooling  Driving Layup (2 PTS),,,85 - 83,-2
+0020501123,393,2,1,4,9:16 PM,3:08,,,MISS Prince 18' Jump Shot,,
+0020501123,394,4,0,4,9:16 PM,3:05,Howard REBOUND (Off:4 Def:9),,,,
+0020501123,395,2,1,4,9:16 PM,2:46,MISS Battie 17' Jump Shot,,,,
+0020501123,396,4,0,4,9:16 PM,2:44,Nelson REBOUND (Off:1 Def:0),,,,
+0020501123,397,1,40,4,9:17 PM,2:30,Howard  Layup (12 PTS) (Turkoglu 5 AST),,,85 - 85,TIE
+0020501123,398,9,1,4,9:17 PM,2:28,,,Pistons Timeout: Regular (Reg.5 Short 1),,
+0020501123,402,8,0,4,9:19 PM,2:28,,,SUB: McDyess FOR Maxiell,,
+0020501123,403,2,1,4,9:20 PM,2:11,,,MISS Billups 17' Jump Shot,,
+0020501123,404,4,0,4,9:20 PM,2:08,Turkoglu REBOUND (Off:1 Def:6),,,,
+0020501123,405,2,1,4,9:20 PM,1:52,MISS Nelson 17' Jump Shot,,,,
+0020501123,406,4,0,4,9:20 PM,1:50,,,McDyess REBOUND (Off:1 Def:4),,
+0020501123,407,2,1,4,9:20 PM,1:31,,,MISS Delk 11' Jump Shot,,
+0020501123,409,4,0,4,9:20 PM,1:30,,,Davis REBOUND (Off:1 Def:0),,
+0020501123,408,1,4,4,9:20 PM,1:30,,,Davis  Tip Shot (4 PTS),87 - 85,-2
+0020501123,410,2,1,4,9:21 PM,1:16,MISS Dooling 20' Jump Shot,,,,
+0020501123,411,4,0,4,9:21 PM,1:14,,,Pistons Rebound,,
+0020501123,412,2,5,4,9:21 PM,0:53,Howard BLOCK (1 BLK),,MISS Delk  Layup,,
+0020501123,413,4,0,4,9:21 PM,0:52,Howard REBOUND (Off:4 Def:10),,,,
+0020501123,414,1,1,4,9:21 PM,0:42,Nelson 20' Jump Shot (6 PTS),,,87 - 87,TIE
+0020501123,415,2,1,4,9:22 PM,0:27,,,MISS Billups 26' 3PT Jump Shot,,
+0020501123,416,4,0,4,9:22 PM,0:25,Dooling REBOUND (Off:0 Def:1),,,,
+0020501123,417,9,1,4,9:22 PM,0:17,MAGIC Timeout: Regular (Full 5 Short 1),,,,
+0020501123,421,1,63,4,9:24 PM,0:06,Nelson 12' Fadeaway Jumper (8 PTS),,,87 - 89,2
+0020501123,422,9,1,4,9:25 PM,0:06,,,Pistons Timeout: Regular (Reg.6 Short 1),,
+0020501123,424,6,2,4,9:27 PM,0:03,Battie S.FOUL (P4.PN),,,,
+0020501123,425,3,11,4,9:27 PM,0:03,,,MISS Delk Free Throw 1 of 2,,
+0020501123,426,4,1,4,9:27 PM,0:03,,,Pistons Rebound,,
+0020501123,427,9,2,4,9:28 PM,0:03,,,Pistons Timeout: Short (Reg.6 Short 2),,
+0020501123,428,8,0,4,9:28 PM,0:03,,,SUB: Evans FOR Davis,,
+0020501123,429,3,12,4,9:28 PM,0:03,,,MISS Delk Free Throw 2 of 2,,
+0020501123,430,4,0,4,9:29 PM,0:02,,,McDyess REBOUND (Off:2 Def:4),,
+0020501123,431,2,63,4,9:29 PM,0:00,,,MISS McDyess 9' Fadeaway Jumper,,
+0020501123,432,4,0,4,9:29 PM,0:00,Howard REBOUND (Off:4 Def:11),,,,
+0020501123,433,13,0,4,9:29 PM,0:00,,,,87 - 89,2

@@ -1,0 +1,461 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000971,0,12,0,1,12:42 PM,12:00,,,,,
+0020000971,1,10,0,1,12:42 PM,12:00,Jump Ball Miller vs. DeClercq: Tip to Fizer,,,,
+0020000971,2,2,5,1,12:42 PM,11:42,MISS World Peace  Layup,,,,
+0020000971,3,4,0,1,12:42 PM,11:39,,,DeClercq REBOUND (Off:0 Def:1),,
+0020000971,4,2,1,1,12:42 PM,11:34,,,MISS McGrady 26' 3PT Jump Shot,,
+0020000971,5,4,0,1,12:42 PM,11:31,,,Miller REBOUND (Off:1 Def:0),,
+0020000971,6,6,2,1,12:43 PM,11:29,Fizer S.FOUL (P1.T1),,,,
+0020000971,7,3,11,1,12:43 PM,11:29,,,MISS DeClercq Free Throw 1 of 2,,
+0020000971,8,4,1,1,12:43 PM,11:29,,,Magic Rebound,,
+0020000971,9,3,12,1,12:43 PM,11:29,,,DeClercq Free Throw 2 of 2 (1 PTS),1 - 0,-1
+0020000971,10,2,1,1,12:44 PM,11:05,MISS Miller 15' Jump Shot,,,,
+0020000971,11,4,0,1,12:44 PM,11:03,,,DeClercq REBOUND (Off:0 Def:2),,
+0020000971,12,1,1,1,12:44 PM,10:44,,,Armstrong 14' Jump Shot (2 PTS) (McGrady 1 AST),3 - 0,-3
+0020000971,13,2,1,1,12:45 PM,10:22,MISS World Peace 24' 3PT Jump Shot,,,,
+0020000971,14,4,0,1,12:45 PM,10:19,,,Armstrong REBOUND (Off:0 Def:1),,
+0020000971,15,1,7,1,12:45 PM,10:17,,,McGrady  Dunk (2 PTS) (Armstrong 1 AST),5 - 0,-5
+0020000971,16,5,1,1,12:45 PM,10:02,Fizer Bad Pass Turnover (P1.T1),,Outlaw STEAL (1 STL),,
+0020000971,17,5,2,1,12:45 PM,9:55,World Peace STEAL (1 STL),,McGrady Lost Ball Turnover (P1.T1),,
+0020000971,18,5,2,1,12:45 PM,9:49,World Peace Lost Ball Turnover (P1.T2),,Outlaw STEAL (2 STL),,
+0020000971,19,1,7,1,12:45 PM,9:44,,,McGrady  Dunk (4 PTS) (Armstrong 2 AST),7 - 0,-7
+0020000971,20,2,1,1,12:46 PM,9:19,MISS Mercer 14' Jump Shot,,McGrady BLOCK (1 BLK),,
+0020000971,21,4,0,1,12:46 PM,9:16,World Peace REBOUND (Off:1 Def:0),,,,
+0020000971,22,2,1,1,12:46 PM,9:14,MISS World Peace 27' 3PT Jump Shot,,,,
+0020000971,23,4,0,1,12:46 PM,9:14,BULLS Rebound,,,,
+0020000971,24,1,1,1,12:46 PM,9:03,World Peace 22' Jump Shot (2 PTS) (Fizer 1 AST),,,7 - 2,-5
+0020000971,25,1,5,1,12:47 PM,8:43,,,DeClercq  Layup (3 PTS) (Armstrong 3 AST),9 - 2,-7
+0020000971,26,2,1,1,12:47 PM,8:20,MISS Fizer 16' Jump Shot,,,,
+0020000971,27,4,0,1,12:47 PM,8:18,,,Miller REBOUND (Off:1 Def:1),,
+0020000971,28,2,1,1,12:47 PM,8:11,,,MISS Miller 12' Jump Shot,,
+0020000971,29,4,0,1,12:47 PM,8:09,,,DeClercq REBOUND (Off:1 Def:2),,
+0020000971,30,1,5,1,12:47 PM,8:08,,,DeClercq  Layup (5 PTS),11 - 2,-9
+0020000971,31,9,1,1,12:47 PM,8:01,BULLS Timeout: Regular (Full 1 Short 0),,,,
+0020000971,33,5,1,1,12:50 PM,7:52,Fizer Bad Pass Turnover (P2.T3),,Outlaw STEAL (3 STL),,
+0020000971,35,7,3,1,12:50 PM,7:44,Miller Violation:Lane,,,,
+0020000971,34,1,5,1,12:50 PM,7:44,,,DeClercq  Layup (7 PTS) (Armstrong 4 AST),13 - 2,-11
+0020000971,36,6,1,1,12:50 PM,7:28,,,McGrady P.FOUL (P1.T1),,
+0020000971,37,1,1,1,12:51 PM,7:14,World Peace 25' 3PT Jump Shot (5 PTS) (Mercer 1 AST),,,13 - 5,-8
+0020000971,38,2,1,1,12:51 PM,6:57,,,MISS Miller 18' Jump Shot,,
+0020000971,39,4,0,1,12:51 PM,6:54,Miller REBOUND (Off:0 Def:1),,,,
+0020000971,40,2,1,1,12:51 PM,6:47,MISS Mercer 14' Jump Shot,,,,
+0020000971,41,4,0,1,12:51 PM,6:46,,,McGrady REBOUND (Off:0 Def:1),,
+0020000971,42,2,1,1,12:51 PM,6:27,,,MISS Armstrong 16' Jump Shot,,
+0020000971,43,4,0,1,12:51 PM,6:25,,,Outlaw REBOUND (Off:1 Def:0),,
+0020000971,44,1,1,1,12:52 PM,6:18,,,Miller 26' 3PT Jump Shot (3 PTS) (Armstrong 5 AST),16 - 5,-11
+0020000971,45,1,1,1,12:52 PM,6:03,World Peace 20' Jump Shot (7 PTS) (Miller 1 AST),,,16 - 7,-9
+0020000971,46,2,5,1,12:52 PM,5:44,,,MISS McGrady  Layup,,
+0020000971,47,4,0,1,12:52 PM,5:42,,,McGrady REBOUND (Off:1 Def:1),,
+0020000971,48,2,5,1,12:52 PM,5:40,,,MISS McGrady  Layup,,
+0020000971,49,4,0,1,12:52 PM,5:37,Mercer REBOUND (Off:0 Def:1),,,,
+0020000971,50,1,1,1,12:52 PM,5:33,Hoiberg 19' Jump Shot (2 PTS) (Mercer 2 AST),,,16 - 9,-7
+0020000971,51,6,2,1,12:53 PM,5:27,World Peace S.FOUL (P1.T2),,,,
+0020000971,52,3,11,1,12:53 PM,5:27,,,MISS McGrady Free Throw 1 of 2,,
+0020000971,53,4,1,1,12:53 PM,5:27,,,Magic Rebound,,
+0020000971,54,3,12,1,12:53 PM,5:27,,,MISS McGrady Free Throw 2 of 2,,
+0020000971,55,4,0,1,12:54 PM,5:25,Miller REBOUND (Off:0 Def:2),,,,
+0020000971,56,1,3,1,12:54 PM,5:09,Fizer 6' Hook Shot (2 PTS) (Mercer 3 AST),,,16 - 11,-5
+0020000971,57,1,1,1,12:54 PM,4:44,,,DeClercq 14' Jump Shot (9 PTS) (Miller 1 AST),18 - 11,-7
+0020000971,58,2,1,1,12:55 PM,4:15,MISS Mercer 19' Jump Shot,,,,
+0020000971,59,4,0,1,12:55 PM,4:15,Miller REBOUND (Off:1 Def:2),,,,
+0020000971,60,5,11,1,12:55 PM,4:15,BULLS Turnover: Shot Clock (T#4),,,,
+0020000971,61,1,5,1,12:55 PM,3:57,,,DeClercq  Layup (11 PTS) (Outlaw 1 AST),20 - 11,-9
+0020000971,62,1,1,1,12:56 PM,3:45,Hoiberg 14' Jump Shot (4 PTS) (World Peace 1 AST),,,20 - 13,-7
+0020000971,63,6,4,1,12:56 PM,3:40,,,Outlaw OFF.Foul (P1),,
+0020000971,64,5,5,1,12:56 PM,3:40,,,Outlaw Foul Turnover (P1.T2),,
+0020000971,65,8,0,1,12:56 PM,3:40,,,SUB: Amaechi FOR DeClercq,,
+0020000971,66,8,0,1,12:56 PM,3:40,SUB: Bagaric FOR Miller,,,,
+0020000971,67,1,1,1,12:56 PM,3:23,Fizer 11' Jump Shot (4 PTS) (Mercer 4 AST),,,20 - 15,-5
+0020000971,68,1,5,1,12:57 PM,3:05,,,Miller  Layup (5 PTS),22 - 15,-7
+0020000971,69,6,2,1,12:57 PM,2:58,,,Amaechi S.FOUL (P1.T2),,
+0020000971,70,9,1,1,12:57 PM,2:58,,,Magic Timeout: Regular (Reg.1 Short 0),,
+0020000971,72,3,11,1,12:59 PM,2:58,Mercer Free Throw 1 of 2 (1 PTS),,,22 - 16,-6
+0020000971,73,3,12,1,12:59 PM,2:58,Mercer Free Throw 2 of 2 (2 PTS),,,22 - 17,-5
+0020000971,74,1,5,1,1:00 PM,2:45,,,Amaechi  Layup (2 PTS),24 - 17,-7
+0020000971,75,1,1,1,1:00 PM,2:27,Hoiberg 26' 3PT Jump Shot (7 PTS) (Mercer 5 AST),,,24 - 20,-4
+0020000971,76,6,2,1,1:00 PM,2:11,Bagaric S.FOUL (P1.T3),,,,
+0020000971,77,8,0,1,1:01 PM,2:11,,,SUB: Alexander FOR Armstrong,,
+0020000971,78,8,0,1,1:01 PM,2:11,,,SUB: Reid FOR Outlaw,,
+0020000971,79,3,11,1,1:01 PM,2:11,,,MISS McGrady Free Throw 1 of 2,,
+0020000971,80,4,1,1,1:01 PM,2:11,,,Magic Rebound,,
+0020000971,81,8,0,1,1:01 PM,2:11,SUB: Crawford FOR Hoiberg,,,,
+0020000971,82,3,12,1,1:01 PM,2:11,,,MISS McGrady Free Throw 2 of 2,,
+0020000971,83,4,0,1,1:01 PM,2:10,,,Magic Rebound,,
+0020000971,84,5,2,1,1:02 PM,1:52,Crawford STEAL (1 STL),,Alexander Lost Ball Turnover (P1.T3),,
+0020000971,85,1,1,1,1:02 PM,1:35,Mercer 18' Jump Shot (4 PTS) (World Peace 2 AST),,,24 - 22,-2
+0020000971,86,2,5,1,1:02 PM,1:19,,,MISS Amaechi  Layup,,
+0020000971,87,4,0,1,1:02 PM,1:19,BULLS Rebound,,,,
+0020000971,88,8,0,1,1:03 PM,1:19,,,SUB: Williams FOR Miller,,
+0020000971,89,1,1,1,1:03 PM,1:07,Mercer 17' Jump Shot (6 PTS) (Crawford 1 AST),,,24 - 24,TIE
+0020000971,90,6,1,1,1:03 PM,0:57,Mercer P.FOUL (P1.T4),,,,
+0020000971,91,5,1,1,1:04 PM,0:42,World Peace STEAL (2 STL),,McGrady Bad Pass Turnover (P2.T4),,
+0020000971,92,6,2,1,1:04 PM,0:35,,,Reid S.FOUL (P1.T3),,
+0020000971,93,3,11,1,1:04 PM,0:35,Mercer Free Throw 1 of 2 (7 PTS),,,24 - 25,1
+0020000971,94,8,0,1,1:04 PM,0:35,SUB: Benjamin FOR World Peace,,,,
+0020000971,95,3,12,1,1:04 PM,0:35,Mercer Free Throw 2 of 2 (8 PTS),,,24 - 26,2
+0020000971,96,1,5,1,1:05 PM,0:17,,,Williams  Layup (2 PTS) (Alexander 1 AST),26 - 26,TIE
+0020000971,97,1,5,1,1:05 PM,0:02,Mercer  Layup (10 PTS),,,26 - 28,2
+0020000971,98,2,1,1,1:05 PM,0:00,,,MISS McGrady 42' 3PT Jump Shot,,
+0020000971,100,4,0,1,1:05 PM,0:00,,,Magic Rebound,,
+0020000971,99,13,0,1,1:05 PM,0:00,,,,26 - 28,2
+0020000971,102,12,0,2,1:08 PM,12:00,,,,26 - 28,2
+0020000971,103,2,1,2,1:08 PM,11:47,Bagaric BLOCK (1 BLK),,MISS Williams 11' Jump Shot,,
+0020000971,104,4,0,2,1:08 PM,11:44,,,Miller REBOUND (Off:2 Def:1),,
+0020000971,105,2,1,2,1:08 PM,11:41,,,MISS Miller 26' 3PT Jump Shot,,
+0020000971,106,4,0,2,1:08 PM,11:38,Tarlac REBOUND (Off:0 Def:1),,,,
+0020000971,107,1,5,2,1:08 PM,11:36,Mercer  Layup (12 PTS) (Crawford 2 AST),,,26 - 30,4
+0020000971,108,6,1,2,1:08 PM,11:29,Bagaric P.FOUL (P2.T1),,,,
+0020000971,109,8,0,2,1:08 PM,11:29,,,SUB: Garrity FOR Reid,,
+0020000971,110,5,8,2,1:09 PM,11:23,,,Amaechi 3 Second Violation Turnover (P1.T5),,
+0020000971,111,2,1,2,1:09 PM,11:08,MISS Mercer 19' Jump Shot,,,,
+0020000971,112,4,0,2,1:09 PM,11:07,,,Miller REBOUND (Off:2 Def:2),,
+0020000971,113,2,1,2,1:10 PM,10:52,,,MISS Miller 24' 3PT Jump Shot,,
+0020000971,114,4,0,2,1:10 PM,10:48,Tarlac REBOUND (Off:0 Def:2),,,,
+0020000971,115,6,2,2,1:10 PM,10:35,,,Miller S.FOUL (P1.T1),,
+0020000971,116,3,11,2,1:10 PM,10:35,MISS Bagaric Free Throw 1 of 2,,,,
+0020000971,117,4,1,2,1:10 PM,10:35,BULLS Rebound,,,,
+0020000971,118,3,12,2,1:10 PM,10:35,MISS Bagaric Free Throw 2 of 2,,,,
+0020000971,119,4,0,2,1:10 PM,10:33,,,Miller REBOUND (Off:2 Def:3),,
+0020000971,120,1,5,2,1:11 PM,10:29,,,Miller  Layup (7 PTS),28 - 30,2
+0020000971,121,2,1,2,1:11 PM,10:06,MISS Crawford 19' Jump Shot,,,,
+0020000971,122,4,0,2,1:11 PM,10:04,,,Alexander REBOUND (Off:0 Def:1),,
+0020000971,123,1,1,2,1:11 PM,9:51,,,Williams 10' Jump Shot (4 PTS),30 - 30,TIE
+0020000971,124,1,7,2,1:12 PM,9:29,Benjamin  Dunk (2 PTS) (Crawford 3 AST),,,30 - 32,2
+0020000971,125,1,1,2,1:12 PM,9:09,,,Williams 13' Jump Shot (6 PTS) (Alexander 2 AST),32 - 32,TIE
+0020000971,126,6,2,2,1:12 PM,9:00,,,Miller S.FOUL (P2.T2),,
+0020000971,127,3,11,2,1:12 PM,9:00,Benjamin Free Throw 1 of 2 (3 PTS),,,32 - 33,1
+0020000971,128,8,0,2,1:13 PM,9:00,,,SUB: McGrady FOR Miller,,
+0020000971,129,3,12,2,1:13 PM,9:00,Benjamin Free Throw 2 of 2 (4 PTS),,,32 - 34,2
+0020000971,130,1,1,2,1:13 PM,8:43,,,Williams 19' Jump Shot (8 PTS) (Amaechi 1 AST),34 - 34,TIE
+0020000971,131,5,1,2,1:13 PM,8:24,Benjamin Bad Pass Turnover (P1.T5),,Williams STEAL (1 STL),,
+0020000971,132,1,1,2,1:14 PM,8:16,,,Alexander 11' Jump Shot (2 PTS),36 - 34,-2
+0020000971,133,5,4,2,1:14 PM,7:54,Bagaric Traveling Turnover (P1.T6),,,,
+0020000971,134,9,1,2,1:14 PM,7:54,,,,,
+0020000971,136,8,0,2,1:16 PM,7:54,SUB: World Peace FOR Mercer,,,,
+0020000971,137,8,0,2,1:16 PM,7:54,SUB: Hoiberg FOR Bagaric,,,,
+0020000971,138,8,0,2,1:16 PM,7:54,SUB: Fizer FOR Benjamin,,,,
+0020000971,139,8,0,2,1:16 PM,7:54,SUB: Miller FOR Tarlac,,,,
+0020000971,140,6,1,2,1:16 PM,7:40,World Peace P.FOUL (P2.T2),,,,
+0020000971,141,2,1,2,1:17 PM,7:29,,,MISS Williams 17' Jump Shot,,
+0020000971,142,4,0,2,1:17 PM,7:28,,,Amaechi REBOUND (Off:1 Def:0),,
+0020000971,143,6,1,2,1:17 PM,7:24,Miller P.FOUL (P1.T3),,,,
+0020000971,144,8,0,2,1:17 PM,7:24,,,SUB: Armstrong FOR Alexander,,
+0020000971,145,1,42,2,1:18 PM,7:16,,,Williams  Driving Layup (10 PTS) (Garrity 1 AST),38 - 34,-4
+0020000971,146,5,1,2,1:18 PM,6:50,Fizer Bad Pass Turnover (P3.T7),,Amaechi STEAL (1 STL),,
+0020000971,147,2,1,2,1:18 PM,6:44,,,MISS Garrity 26' 3PT Jump Shot,,
+0020000971,148,4,0,2,1:18 PM,6:41,Fizer REBOUND (Off:0 Def:1),,,,
+0020000971,149,8,0,2,1:19 PM,6:28,,,SUB: Doleac FOR Garrity,,
+0020000971,150,8,0,2,1:19 PM,6:28,,,SUB: Outlaw FOR Amaechi,,
+0020000971,151,2,1,2,1:19 PM,6:19,MISS World Peace 25' 3PT Jump Shot,,,,
+0020000971,152,4,0,2,1:19 PM,6:18,,,Outlaw REBOUND (Off:1 Def:1),,
+0020000971,153,6,1,2,1:19 PM,6:18,Fizer P.FOUL (P2.T4),,,,
+0020000971,154,6,1,2,1:19 PM,6:04,Crawford P.FOUL (P1.PN),,,,
+0020000971,155,3,11,2,1:20 PM,6:04,,,Williams Free Throw 1 of 2 (11 PTS),39 - 34,-5
+0020000971,156,3,12,2,1:20 PM,6:04,,,Williams Free Throw 2 of 2 (12 PTS),40 - 34,-6
+0020000971,157,2,1,2,1:20 PM,5:45,MISS Crawford 28' 3PT Jump Shot,,,,
+0020000971,158,4,0,2,1:20 PM,5:43,Miller REBOUND (Off:2 Def:2),,,,
+0020000971,159,2,1,2,1:21 PM,5:28,MISS Crawford 19' Jump Shot,,,,
+0020000971,160,4,0,2,1:21 PM,5:26,,,McGrady REBOUND (Off:1 Def:2),,
+0020000971,161,1,5,2,1:21 PM,5:20,,,Williams  Layup (14 PTS) (McGrady 2 AST),42 - 34,-8
+0020000971,162,9,1,2,1:21 PM,5:14,BULLS Timeout: Regular (Full 2 Short 0),,,,
+0020000971,164,8,0,2,1:23 PM,5:14,SUB: Mercer FOR Crawford,,,,
+0020000971,165,5,1,2,1:23 PM,5:06,Fizer Bad Pass Turnover (P4.T8),,Doleac STEAL (1 STL),,
+0020000971,166,1,1,2,1:24 PM,4:51,,,Doleac 12' Jump Shot (2 PTS) (Armstrong 6 AST),44 - 34,-10
+0020000971,167,5,2,2,1:24 PM,4:29,Mercer Lost Ball Turnover (P1.T9),,Williams STEAL (2 STL),,
+0020000971,168,5,1,2,1:24 PM,4:26,Fizer STEAL (1 STL),,Outlaw Bad Pass Turnover (P2.T6),,
+0020000971,169,2,1,2,1:24 PM,4:18,MISS Fizer 14' Jump Shot,,,,
+0020000971,170,4,0,2,1:24 PM,4:16,,,Outlaw REBOUND (Off:1 Def:2),,
+0020000971,171,2,1,2,1:24 PM,4:11,,,MISS Doleac 17' Jump Shot,,
+0020000971,172,4,0,2,1:24 PM,4:10,Hoiberg REBOUND (Off:0 Def:1),,,,
+0020000971,173,1,7,2,1:24 PM,4:04,Fizer  Dunk (6 PTS) (Mercer 6 AST),,,44 - 36,-8
+0020000971,174,2,1,2,1:25 PM,3:47,Miller BLOCK (1 BLK),,MISS Armstrong 8' Jump Shot,,
+0020000971,175,4,0,2,1:25 PM,3:45,World Peace REBOUND (Off:1 Def:1),,,,
+0020000971,176,5,1,2,1:25 PM,3:43,World Peace Bad Pass Turnover (P2.T10),,Outlaw STEAL (4 STL),,
+0020000971,177,1,1,2,1:25 PM,3:35,,,Armstrong  3PT Jump Shot (5 PTS) (Outlaw 2 AST),47 - 36,-11
+0020000971,178,2,5,2,1:25 PM,3:14,MISS Fizer  Layup,,,,
+0020000971,179,4,0,2,1:25 PM,3:12,,,Outlaw REBOUND (Off:1 Def:3),,
+0020000971,180,1,5,2,1:25 PM,3:08,,,Williams  Layup (16 PTS) (Outlaw 3 AST),49 - 36,-13
+0020000971,181,1,1,2,1:26 PM,2:51,Hoiberg 24' 3PT Jump Shot (10 PTS) (Mercer 7 AST),,,49 - 39,-10
+0020000971,182,9,1,2,1:26 PM,2:44,,,Magic Timeout: Regular (Reg.2 Short 0),,
+0020000971,184,8,0,2,1:28 PM,2:44,,,SUB: Miller FOR Williams,,
+0020000971,185,2,1,2,1:28 PM,2:36,,,MISS Armstrong 21' Jump Shot,,
+0020000971,186,4,0,2,1:28 PM,2:33,,,McGrady REBOUND (Off:2 Def:2),,
+0020000971,187,2,1,2,1:28 PM,2:26,,,MISS Armstrong 24' 3PT Jump Shot,,
+0020000971,188,4,0,2,1:28 PM,2:24,,,Doleac REBOUND (Off:1 Def:0),,
+0020000971,189,2,5,2,1:28 PM,2:22,,,MISS Doleac  Layup,,
+0020000971,190,4,0,2,1:28 PM,2:20,Fizer REBOUND (Off:0 Def:2),,,,
+0020000971,191,5,1,2,1:29 PM,2:07,Fizer Bad Pass Turnover (P5.T11),,McGrady STEAL (1 STL),,
+0020000971,192,2,1,2,1:29 PM,1:57,,,MISS Armstrong  3PT Jump Shot,,
+0020000971,193,4,0,2,1:29 PM,1:54,Fizer REBOUND (Off:0 Def:3),,,,
+0020000971,194,6,2,2,1:29 PM,1:33,,,Doleac S.FOUL (P1.T3),,
+0020000971,196,3,11,2,1:30 PM,1:33,Miller Free Throw 1 of 2 (1 PTS),,,49 - 40,-9
+0020000971,197,3,12,2,1:30 PM,1:33,MISS Miller Free Throw 2 of 2,,,,
+0020000971,198,4,0,2,1:30 PM,1:32,BULLS Rebound,,,,
+0020000971,199,5,3,2,1:30 PM,1:20,Mercer Out Of Bounds Turnover (P2.T12),,,,
+0020000971,200,1,5,2,1:31 PM,1:11,,,Miller  Layup (9 PTS) (Armstrong 7 AST),51 - 40,-11
+0020000971,201,1,1,2,1:31 PM,1:00,Fizer 20' Jump Shot (8 PTS) (Hoiberg 1 AST),,,51 - 42,-9
+0020000971,202,2,1,2,1:31 PM,0:41,,,MISS McGrady 25' 3PT Jump Shot,,
+0020000971,203,4,0,2,1:32 PM,0:39,,,McGrady REBOUND (Off:3 Def:2),,
+0020000971,204,1,1,2,1:32 PM,0:37,,,McGrady 20' Jump Shot (6 PTS),53 - 42,-11
+0020000971,205,8,0,2,1:32 PM,0:36,SUB: Tarlac FOR Fizer,,,,
+0020000971,206,9,2,2,1:32 PM,0:36,BULLS Timeout: Short (Full 2 Short 1),,,,
+0020000971,208,1,1,2,1:33 PM,0:27,Tarlac 13' Jump Shot (2 PTS) (Hoiberg 2 AST),,,53 - 44,-9
+0020000971,209,9,2,2,1:33 PM,0:24,,,Magic Timeout: Short (Reg.2 Short 1),,
+0020000971,210,8,0,2,1:34 PM,0:24,,,SUB: Garrity FOR Outlaw,,
+0020000971,211,8,0,2,1:34 PM,0:24,SUB: Benjamin FOR World Peace,,,,
+0020000971,212,2,1,2,1:35 PM,0:04,,,MISS Doleac 16' Jump Shot,,
+0020000971,213,4,0,2,1:35 PM,0:02,Hoiberg REBOUND (Off:0 Def:2),,,,
+0020000971,214,2,1,2,1:35 PM,0:00,MISS Benjamin 42' 3PT Jump Shot,,,,
+0020000971,216,4,0,2,1:35 PM,0:00,BULLS Rebound,,,,
+0020000971,215,13,0,2,1:35 PM,0:00,,,,53 - 44,-9
+0020000971,218,12,0,3,1:51 PM,12:00,,,,53 - 44,-9
+0020000971,219,5,1,3,1:51 PM,11:47,World Peace STEAL (3 STL),,McGrady Bad Pass Turnover (P3.T7),,
+0020000971,220,2,1,3,1:51 PM,11:34,MISS Mercer 20' Jump Shot,,,,
+0020000971,221,4,0,3,1:51 PM,11:32,,,Miller REBOUND (Off:2 Def:4),,
+0020000971,222,6,2,3,1:52 PM,11:28,World Peace S.FOUL (P3.T1),,,,
+0020000971,223,3,11,3,1:52 PM,11:28,,,McGrady Free Throw 1 of 2 (7 PTS),54 - 44,-10
+0020000971,224,3,12,3,1:52 PM,11:28,,,McGrady Free Throw 2 of 2 (8 PTS),55 - 44,-11
+0020000971,225,1,5,3,1:53 PM,11:12,Fizer  Layup (10 PTS),,,55 - 46,-9
+0020000971,226,2,1,3,1:53 PM,11:01,,,MISS Miller 6' Jump Shot,,
+0020000971,228,4,0,3,1:53 PM,10:59,,,McGrady REBOUND (Off:4 Def:2),,
+0020000971,227,2,4,3,1:53 PM,10:59,,,MISS McGrady  Tip Shot,,
+0020000971,230,4,0,3,1:53 PM,10:57,,,McGrady REBOUND (Off:5 Def:2),,
+0020000971,229,2,4,3,1:53 PM,10:57,,,MISS McGrady  Tip Shot,,
+0020000971,231,4,0,3,1:53 PM,10:56,Miller REBOUND (Off:2 Def:3),,,,
+0020000971,232,6,1,3,1:53 PM,10:56,,,Miller P.FOUL (P3.T1),,
+0020000971,233,2,1,3,1:53 PM,10:41,MISS Fizer 19' Jump Shot,,,,
+0020000971,234,4,0,3,1:53 PM,10:38,,,Miller REBOUND (Off:2 Def:5),,
+0020000971,235,6,2,3,1:53 PM,10:34,Miller S.FOUL (P2.T2),,,,
+0020000971,236,3,11,3,1:54 PM,10:34,,,Outlaw Free Throw 1 of 2 (1 PTS),56 - 46,-10
+0020000971,237,3,12,3,1:54 PM,10:34,,,MISS Outlaw Free Throw 2 of 2,,
+0020000971,238,4,0,3,1:54 PM,10:33,Fizer REBOUND (Off:0 Def:4),,,,
+0020000971,239,2,5,3,1:54 PM,10:17,MISS World Peace  Layup,,McGrady BLOCK (2 BLK),,
+0020000971,240,4,0,3,1:55 PM,10:16,BULLS Rebound,,,,
+0020000971,241,2,1,3,1:55 PM,10:08,MISS Mercer 15' Jump Shot,,Outlaw BLOCK (1 BLK),,
+0020000971,242,4,0,3,1:55 PM,10:08,BULLS Rebound,,,,
+0020000971,243,5,11,3,1:55 PM,10:08,BULLS Turnover: Shot Clock (T#13),,,,
+0020000971,244,2,1,3,1:55 PM,9:58,,,MISS Armstrong 18' Jump Shot,,
+0020000971,245,4,0,3,1:55 PM,9:56,Miller REBOUND (Off:2 Def:4),,,,
+0020000971,246,1,1,3,1:55 PM,9:46,Miller 6' Jump Shot (3 PTS),,,56 - 48,-8
+0020000971,247,2,1,3,1:55 PM,9:38,,,MISS McGrady 26' 3PT Jump Shot,,
+0020000971,248,4,0,3,1:56 PM,9:36,Miller REBOUND (Off:2 Def:5),,,,
+0020000971,249,1,1,3,1:56 PM,9:16,Fizer 10' Jump Shot (12 PTS),,,56 - 50,-6
+0020000971,250,9,1,3,1:56 PM,9:14,,,Magic Timeout: Regular (Reg.3 Short 1),,
+0020000971,252,1,5,3,1:59 PM,8:59,,,Amaechi  Layup (4 PTS) (Outlaw 4 AST),58 - 50,-8
+0020000971,253,2,1,3,1:59 PM,8:35,MISS Miller 13' Jump Shot,,Amaechi BLOCK (1 BLK),,
+0020000971,254,4,0,3,1:59 PM,8:32,,,Outlaw REBOUND (Off:1 Def:4),,
+0020000971,255,2,1,3,1:59 PM,8:17,,,MISS Miller 27' 3PT Jump Shot,,
+0020000971,256,4,0,3,1:59 PM,8:15,Miller REBOUND (Off:2 Def:6),,,,
+0020000971,257,2,5,3,2:00 PM,8:03,MISS Mercer  Layup,,,,
+0020000971,258,4,0,3,2:00 PM,8:00,,,Outlaw REBOUND (Off:1 Def:5),,
+0020000971,259,1,5,3,2:00 PM,7:55,,,Miller  Layup (11 PTS) (Armstrong 8 AST),60 - 50,-10
+0020000971,260,1,5,3,2:00 PM,7:38,Miller  Layup (5 PTS) (Mercer 8 AST),,,60 - 52,-8
+0020000971,261,5,2,3,2:00 PM,7:25,Mercer STEAL (1 STL),,McGrady Lost Ball Turnover (P4.T8),,
+0020000971,262,2,1,3,2:00 PM,7:18,MISS World Peace 22' Jump Shot,,,,
+0020000971,263,4,0,3,2:00 PM,7:16,Fizer REBOUND (Off:1 Def:4),,,,
+0020000971,264,2,1,3,2:00 PM,7:15,MISS Fizer 15' Jump Shot,,,,
+0020000971,265,4,0,3,2:00 PM,7:12,,,McGrady REBOUND (Off:5 Def:3),,
+0020000971,266,2,5,3,2:01 PM,7:04,,,MISS Outlaw  Layup,,
+0020000971,267,4,0,3,2:01 PM,7:01,Fizer REBOUND (Off:1 Def:5),,,,
+0020000971,268,1,1,3,2:01 PM,6:39,Mercer 23' Jump Shot (14 PTS) (Hoiberg 3 AST),,,60 - 54,-6
+0020000971,269,6,1,3,2:01 PM,6:22,Miller P.FOUL (P3.T3),,,,
+0020000971,270,8,0,3,2:02 PM,6:22,SUB: Tarlac FOR Fizer,,,,
+0020000971,271,2,1,3,2:02 PM,6:07,,,MISS Amaechi 26' 3PT Jump Shot,,
+0020000971,273,4,0,3,2:02 PM,6:04,,,McGrady REBOUND (Off:6 Def:3),,
+0020000971,272,1,7,3,2:02 PM,6:04,,,McGrady  Dunk (10 PTS),62 - 54,-8
+0020000971,274,2,1,3,2:03 PM,5:47,MISS Miller 5' Jump Shot,,Amaechi BLOCK (2 BLK),,
+0020000971,275,4,0,3,2:03 PM,5:45,Miller REBOUND (Off:3 Def:6),,,,
+0020000971,276,2,1,3,2:03 PM,5:44,MISS Miller 5' Jump Shot,,Outlaw BLOCK (2 BLK),,
+0020000971,277,4,0,3,2:03 PM,5:44,BULLS Rebound,,,,
+0020000971,278,6,1,3,2:03 PM,5:38,,,Armstrong P.FOUL (P1.T2),,
+0020000971,279,2,1,3,2:03 PM,5:29,MISS Mercer 21' Jump Shot,,,,
+0020000971,280,4,0,3,2:03 PM,5:26,Mercer REBOUND (Off:1 Def:1),,,,
+0020000971,281,1,1,3,2:03 PM,5:21,Hoiberg 26' 3PT Jump Shot (13 PTS) (Mercer 9 AST),,,62 - 57,-5
+0020000971,282,5,2,3,2:04 PM,5:04,World Peace STEAL (4 STL),,Outlaw Lost Ball Turnover (P3.T9),,
+0020000971,283,6,2,3,2:04 PM,5:00,,,Miller S.FOUL (P4.T3),,
+0020000971,284,8,0,3,2:04 PM,5:00,,,SUB: Reid FOR Outlaw,,
+0020000971,285,3,11,3,2:04 PM,5:00,Hoiberg Free Throw 1 of 2 (14 PTS),,,62 - 58,-4
+0020000971,286,8,0,3,2:04 PM,5:00,,,SUB: Williams FOR Miller,,
+0020000971,287,3,12,3,2:04 PM,5:00,Hoiberg Free Throw 2 of 2 (15 PTS),,,62 - 59,-3
+0020000971,288,1,1,3,2:05 PM,4:39,,,Williams 7' Jump Shot (18 PTS) (McGrady 3 AST),64 - 59,-5
+0020000971,289,1,1,3,2:05 PM,4:26,World Peace 19' Jump Shot (9 PTS) (Miller 2 AST),,,64 - 61,-3
+0020000971,290,6,2,3,2:05 PM,4:17,Tarlac S.FOUL (P1.T4),,,,
+0020000971,292,3,11,3,2:05 PM,4:17,,,Amaechi Free Throw 1 of 2 (5 PTS),65 - 61,-4
+0020000971,293,3,12,3,2:06 PM,4:17,,,Amaechi Free Throw 2 of 2 (6 PTS),66 - 61,-5
+0020000971,294,6,1,3,2:06 PM,4:05,,,McGrady P.FOUL (P2.T4),,
+0020000971,295,8,0,3,2:06 PM,4:05,,,SUB: Doleac FOR Amaechi,,
+0020000971,296,2,1,3,2:07 PM,3:55,MISS Hoiberg 28' 3PT Jump Shot,,,,
+0020000971,297,4,0,3,2:07 PM,3:53,,,Doleac REBOUND (Off:1 Def:1),,
+0020000971,298,2,1,3,2:07 PM,3:44,,,MISS McGrady 8' Jump Shot,,
+0020000971,299,4,0,3,2:07 PM,3:41,Miller REBOUND (Off:3 Def:7),,,,
+0020000971,300,2,5,3,2:07 PM,3:28,MISS World Peace  Layup,,,,
+0020000971,301,4,0,3,2:07 PM,3:27,World Peace REBOUND (Off:2 Def:1),,,,
+0020000971,302,6,2,3,2:07 PM,3:26,,,Reid S.FOUL (P2.PN),,
+0020000971,303,3,11,3,2:07 PM,3:26,World Peace Free Throw 1 of 2 (10 PTS),,,66 - 62,-4
+0020000971,304,3,12,3,2:07 PM,3:26,World Peace Free Throw 2 of 2 (11 PTS),,,66 - 63,-3
+0020000971,305,1,5,3,2:08 PM,3:15,,,Reid  Layup (2 PTS) (Armstrong 9 AST),68 - 63,-5
+0020000971,306,6,2,3,2:08 PM,3:15,Miller S.FOUL (P4.PN),,,,
+0020000971,307,3,10,3,2:08 PM,3:15,,,Reid Free Throw 1 of 1 (3 PTS),69 - 63,-6
+0020000971,308,2,1,3,2:09 PM,2:56,MISS World Peace 25' 3PT Jump Shot,,,,
+0020000971,309,4,0,3,2:09 PM,2:53,Miller REBOUND (Off:4 Def:7),,,,
+0020000971,310,6,1,3,2:09 PM,2:53,,,Williams P.FOUL (P1.PN),,
+0020000971,311,9,1,3,2:09 PM,2:53,BULLS Timeout: Regular (Full 3 Short 1),,,,
+0020000971,313,8,0,3,2:11 PM,2:53,SUB: Crawford FOR Hoiberg,,,,
+0020000971,314,3,11,3,2:11 PM,2:53,Miller Free Throw 1 of 2 (6 PTS),,,69 - 64,-5
+0020000971,315,3,12,3,2:11 PM,2:53,MISS Miller Free Throw 2 of 2,,,,
+0020000971,316,4,0,3,2:12 PM,2:52,Tarlac REBOUND (Off:1 Def:2),,,,
+0020000971,317,2,1,3,2:12 PM,2:37,MISS Tarlac 13' Jump Shot,,,,
+0020000971,318,4,0,3,2:12 PM,2:35,Mercer REBOUND (Off:2 Def:1),,,,
+0020000971,319,6,2,3,2:12 PM,2:25,,,Reid S.FOUL (P3.PN),,
+0020000971,320,8,0,3,2:12 PM,2:25,SUB: Fizer FOR Miller,,,,
+0020000971,321,3,11,3,2:12 PM,2:25,Tarlac Free Throw 1 of 2 (3 PTS),,,69 - 65,-4
+0020000971,322,3,12,3,2:12 PM,2:25,Tarlac Free Throw 2 of 2 (4 PTS),,,69 - 66,-3
+0020000971,323,1,1,3,2:13 PM,2:04,,,Armstrong 26' 3PT Jump Shot (8 PTS) (McGrady 4 AST),72 - 66,-6
+0020000971,324,5,1,3,2:13 PM,1:55,Crawford Bad Pass Turnover (P1.T14),,Armstrong STEAL (1 STL),,
+0020000971,325,1,5,3,2:13 PM,1:51,,,Williams  Layup (20 PTS) (Armstrong 10 AST),74 - 66,-8
+0020000971,326,1,1,3,2:14 PM,1:32,World Peace 15' Jump Shot (13 PTS),,,74 - 68,-6
+0020000971,327,1,5,3,2:14 PM,1:13,,,Williams  Layup (22 PTS) (Armstrong 11 AST),76 - 68,-8
+0020000971,328,1,1,3,2:14 PM,0:55,Tarlac 6' Jump Shot (6 PTS) (World Peace 3 AST),,,76 - 70,-6
+0020000971,329,1,7,3,2:14 PM,0:35,,,Reid  Dunk (5 PTS) (McGrady 5 AST),78 - 70,-8
+0020000971,330,5,1,3,2:15 PM,0:21,Fizer Bad Pass Turnover (P6.T15),,McGrady STEAL (2 STL),,
+0020000971,331,2,1,3,2:15 PM,0:14,,,MISS McGrady 16' Jump Shot,,
+0020000971,332,4,0,3,2:15 PM,0:12,Mercer REBOUND (Off:2 Def:2),,,,
+0020000971,333,1,1,3,2:15 PM,0:01,Mercer 15' Jump Shot (16 PTS),,,78 - 72,-6
+0020000971,334,13,0,3,2:15 PM,0:00,,,,78 - 72,-6
+0020000971,337,12,0,4,2:18 PM,12:00,,,,78 - 72,-6
+0020000971,338,2,1,4,2:18 PM,11:36,MISS Benjamin 21' Jump Shot,,,,
+0020000971,339,4,0,4,2:18 PM,11:32,Tarlac REBOUND (Off:2 Def:2),,,,
+0020000971,340,1,1,4,2:19 PM,11:29,Crawford 26' 3PT Jump Shot (3 PTS) (Hoiberg 4 AST),,,78 - 75,-3
+0020000971,341,6,1,4,2:19 PM,11:15,Benjamin P.FOUL (P1.T1),,,,
+0020000971,342,8,0,4,2:19 PM,11:15,,,SUB: Outlaw FOR McGrady,,
+0020000971,343,1,1,4,2:19 PM,11:04,,,Garrity 26' 3PT Jump Shot (3 PTS) (Alexander 3 AST),81 - 75,-6
+0020000971,344,2,1,4,2:20 PM,10:47,MISS Hoiberg 21' Jump Shot,,,,
+0020000971,345,4,0,4,2:20 PM,10:45,Tarlac REBOUND (Off:3 Def:2),,,,
+0020000971,346,1,1,4,2:20 PM,10:43,Hoiberg 20' Jump Shot (17 PTS) (Crawford 4 AST),,,81 - 77,-4
+0020000971,347,2,1,4,2:20 PM,10:19,,,MISS Alexander 19' Jump Shot,,
+0020000971,348,4,0,4,2:20 PM,10:17,Tarlac REBOUND (Off:3 Def:3),,,,
+0020000971,349,6,1,4,2:20 PM,10:06,,,Williams P.FOUL (P2.T1),,
+0020000971,352,8,0,4,2:20 PM,10:06,,,SUB: Armstrong FOR Alexander,,
+0020000971,350,3,11,4,2:21 PM,10:06,Benjamin Free Throw 1 of 2 (5 PTS),,,81 - 78,-3
+0020000971,351,3,12,4,2:21 PM,10:06,Benjamin Free Throw 2 of 2 (6 PTS),,,81 - 79,-2
+0020000971,353,2,5,4,2:21 PM,9:52,,,MISS Williams  Layup,,
+0020000971,354,4,0,4,2:21 PM,9:50,Benjamin REBOUND (Off:0 Def:1),,,,
+0020000971,356,6,1,4,2:22 PM,9:33,,,Reid P.FOUL (P4.T2),,
+0020000971,357,1,1,4,2:22 PM,9:25,Fizer 16' Jump Shot (14 PTS) (Tarlac 1 AST),,,81 - 81,TIE
+0020000971,358,2,1,4,2:22 PM,8:59,,,MISS Armstrong 25' 3PT Jump Shot,,
+0020000971,359,4,0,4,2:22 PM,8:56,,,Williams REBOUND (Off:1 Def:0),,
+0020000971,360,2,4,4,2:22 PM,8:54,,,MISS Williams  Tip Shot,,
+0020000971,361,4,0,4,2:22 PM,8:51,Tarlac REBOUND (Off:3 Def:4),,,,
+0020000971,362,2,1,4,2:23 PM,8:35,MISS Fizer 10' Jump Shot,,Reid BLOCK (1 BLK),,
+0020000971,363,4,0,4,2:23 PM,8:32,,,Outlaw REBOUND (Off:1 Def:6),,
+0020000971,364,2,1,4,2:23 PM,8:27,Benjamin BLOCK (1 BLK),,MISS Garrity 3' Jump Shot,,
+0020000971,366,4,0,4,2:23 PM,8:27,,,Magic Rebound,,
+0020000971,365,9,1,4,2:23 PM,8:27,,,,,
+0020000971,368,8,0,4,2:25 PM,8:27,,,SUB: McGrady FOR Williams,,
+0020000971,369,8,0,4,2:25 PM,8:27,,,SUB: Miller FOR Reid,,
+0020000971,371,10,0,4,2:25 PM,8:27,Jump Ball Benjamin vs. Garrity: Tip to Miller,,,,
+0020000971,372,1,1,4,2:25 PM,8:16,,,Miller 26' 3PT Jump Shot (14 PTS) (Armstrong 12 AST),84 - 81,-3
+0020000971,373,2,1,4,2:26 PM,7:58,MISS Benjamin 11' Jump Shot,,McGrady BLOCK (3 BLK),,
+0020000971,374,4,0,4,2:26 PM,7:56,,,McGrady REBOUND (Off:6 Def:4),,
+0020000971,375,2,1,4,2:26 PM,7:41,,,MISS Garrity  3PT Jump Shot,,
+0020000971,376,4,0,4,2:26 PM,7:38,Fizer REBOUND (Off:1 Def:6),,,,
+0020000971,377,6,1,4,2:26 PM,7:35,,,Miller P.FOUL (P5.T3),,
+0020000971,378,8,0,4,2:27 PM,7:35,,,SUB: Williams FOR Miller,,
+0020000971,379,8,0,4,2:27 PM,7:35,SUB: Mercer FOR Benjamin,,,,
+0020000971,380,1,3,4,2:27 PM,7:19,Fizer 6' Hook Shot (16 PTS),,,84 - 83,-1
+0020000971,381,6,19,4,2:27 PM,7:09,Fizer Taunting (P2.T1),,,,
+0020000971,382,3,16,4,2:27 PM,7:09,,,Armstrong Free Throw Technical (9 PTS),85 - 83,-2
+0020000971,383,1,5,4,2:28 PM,7:02,,,Armstrong  Layup (11 PTS) (McGrady 6 AST),87 - 83,-4
+0020000971,384,6,1,4,2:28 PM,6:45,,,Garrity P.FOUL (P1.T4),,
+0020000971,385,8,0,4,2:28 PM,6:45,SUB: World Peace FOR Crawford,,,,
+0020000971,386,5,1,4,2:29 PM,6:35,Hoiberg Bad Pass Turnover (P1.T16),,Outlaw STEAL (5 STL),,
+0020000971,387,1,1,4,2:29 PM,6:28,,,Garrity 24' 3PT Jump Shot (6 PTS) (McGrady 7 AST),90 - 83,-7
+0020000971,388,7,2,4,2:29 PM,6:03,,,Garrity Violation:Defensive Goaltending,,
+0020000971,389,8,0,4,2:30 PM,6:03,SUB: Miller FOR Tarlac,,,,
+0020000971,390,2,1,4,2:30 PM,5:50,MISS Mercer 20' Jump Shot,,,,
+0020000971,391,4,0,4,2:30 PM,5:47,Fizer REBOUND (Off:2 Def:6),,,,
+0020000971,392,1,5,4,2:30 PM,5:42,Miller  Layup (8 PTS) (Fizer 2 AST),,,90 - 85,-5
+0020000971,393,6,2,4,2:30 PM,5:42,,,Outlaw S.FOUL (P2.PN),,
+0020000971,394,9,1,4,2:30 PM,5:42,BULLS Timeout: Regular (Full 4 Short 1),,,,
+0020000971,396,3,10,4,2:32 PM,5:42,Miller Free Throw 1 of 1 (9 PTS),,,90 - 86,-4
+0020000971,397,2,1,4,2:33 PM,5:28,,,MISS McGrady 7' Jump Shot,,
+0020000971,398,4,0,4,2:33 PM,5:24,Miller REBOUND (Off:4 Def:8),,,,
+0020000971,399,5,4,4,2:33 PM,5:09,Fizer Traveling Turnover (P7.T17),,,,
+0020000971,400,2,1,4,2:34 PM,4:54,,,MISS Williams 20' Jump Shot,,
+0020000971,401,4,0,4,2:34 PM,4:51,World Peace REBOUND (Off:2 Def:2),,,,
+0020000971,402,2,1,4,2:34 PM,4:30,MISS Mercer 11' Jump Shot,,,,
+0020000971,403,4,0,4,2:34 PM,4:28,,,Williams REBOUND (Off:1 Def:1),,
+0020000971,404,1,5,4,2:34 PM,4:23,,,Outlaw  Layup (3 PTS) (Armstrong 13 AST),92 - 86,-6
+0020000971,405,6,4,4,2:35 PM,4:01,Mercer OFF.Foul (P2),,,,
+0020000971,406,5,5,4,2:35 PM,4:01,Mercer Foul Turnover (P3.T18),,,,
+0020000971,407,6,11,4,2:35 PM,4:01,Mercer T.FOUL (P2.T1),,,,
+0020000971,408,8,0,4,2:35 PM,4:01,,,SUB: Miller FOR Williams,,
+0020000971,409,3,16,4,2:35 PM,4:01,,,Armstrong Free Throw Technical (12 PTS),93 - 86,-7
+0020000971,410,2,5,4,2:36 PM,3:50,Miller BLOCK (2 BLK),,MISS Outlaw  Layup,,
+0020000971,411,4,0,4,2:36 PM,3:49,,,McGrady REBOUND (Off:7 Def:4),,
+0020000971,412,6,1,4,2:36 PM,3:49,Mercer P.FOUL (P3.T2),,,,
+0020000971,413,2,5,4,2:36 PM,3:38,,,MISS Garrity  Layup,,
+0020000971,414,4,0,4,2:36 PM,3:37,,,Garrity REBOUND (Off:1 Def:0),,
+0020000971,415,2,5,4,2:36 PM,3:34,,,MISS Garrity  Layup,,
+0020000971,416,4,0,4,2:36 PM,3:33,,,Outlaw REBOUND (Off:2 Def:6),,
+0020000971,417,5,2,4,2:37 PM,3:21,,,Outlaw Lost Ball Turnover (P4.T10),,
+0020000971,418,2,1,4,2:37 PM,2:58,MISS Fizer 14' Jump Shot,,,,
+0020000971,419,4,0,4,2:37 PM,2:55,,,Armstrong REBOUND (Off:0 Def:2),,
+0020000971,420,6,2,4,2:37 PM,2:53,World Peace S.FOUL (P4.T3),,,,
+0020000971,421,9,1,4,2:37 PM,2:53,,,Magic Timeout: Regular (Reg.4 Short 1),,
+0020000971,423,3,11,4,2:40 PM,2:53,,,Armstrong Free Throw 1 of 2 (13 PTS),94 - 86,-8
+0020000971,424,3,12,4,2:40 PM,2:53,,,Armstrong Free Throw 2 of 2 (14 PTS),95 - 86,-9
+0020000971,425,6,2,4,2:40 PM,2:36,,,Outlaw S.FOUL (P3.PN),,
+0020000971,426,3,11,4,2:40 PM,2:36,World Peace Free Throw 1 of 2 (14 PTS),,,95 - 87,-8
+0020000971,427,3,12,4,2:41 PM,2:36,MISS World Peace Free Throw 2 of 2,,,,
+0020000971,428,4,0,4,2:41 PM,2:35,,,Magic Rebound,,
+0020000971,429,1,7,4,2:41 PM,2:26,,,McGrady  Dunk (12 PTS) (Garrity 2 AST),97 - 87,-10
+0020000971,430,1,5,4,2:41 PM,2:05,Miller  Layup (11 PTS) (Fizer 3 AST),,,97 - 89,-8
+0020000971,431,6,2,4,2:41 PM,2:05,,,Outlaw S.FOUL (P4.PN),,
+0020000971,432,3,10,4,2:42 PM,2:05,MISS Miller Free Throw 1 of 1,,,,
+0020000971,433,4,0,4,2:42 PM,2:04,,,Magic Rebound,,
+0020000971,434,6,3,4,2:42 PM,2:04,World Peace L.B.FOUL (P5.T4),,,,
+0020000971,435,2,5,4,2:42 PM,1:44,Mercer BLOCK (1 BLK),,MISS Outlaw  Layup,,
+0020000971,436,4,0,4,2:42 PM,1:42,,,Outlaw REBOUND (Off:3 Def:6),,
+0020000971,437,2,5,4,2:43 PM,1:40,Miller BLOCK (3 BLK),,MISS Outlaw  Layup,,
+0020000971,438,4,0,4,2:43 PM,1:40,,,Magic Rebound,,
+0020000971,439,2,5,4,2:43 PM,1:38,World Peace BLOCK (1 BLK),,MISS Armstrong  Layup,,
+0020000971,440,4,0,4,2:43 PM,1:38,,,Magic Rebound,,
+0020000971,441,5,11,4,2:43 PM,1:38,,,Magic Turnover: Shot Clock (T#11),,
+0020000971,442,2,5,4,2:43 PM,1:28,MISS World Peace  Layup,,McGrady BLOCK (4 BLK),,
+0020000971,443,4,0,4,2:43 PM,1:28,BULLS Rebound,,,,
+0020000971,444,5,2,4,2:44 PM,1:23,Fizer Lost Ball Turnover (P8.T19),,Outlaw STEAL (6 STL),,
+0020000971,445,6,1,4,2:44 PM,1:00,Fizer P.FOUL (P3.PN),,,,
+0020000971,446,3,11,4,2:44 PM,1:00,,,Garrity Free Throw 1 of 2 (7 PTS),98 - 89,-9
+0020000971,447,3,12,4,2:44 PM,1:00,,,Garrity Free Throw 2 of 2 (8 PTS),99 - 89,-10
+0020000971,448,9,1,4,2:45 PM,1:00,BULLS Timeout: Regular (Full 5 Short 1),,,,
+0020000971,449,2,1,4,2:47 PM,0:54,MISS Hoiberg 16' Jump Shot,,,,
+0020000971,450,4,0,4,2:47 PM,0:52,,,Miller REBOUND (Off:2 Def:6),,
+0020000971,451,6,1,4,2:47 PM,0:51,Miller P.FOUL (P5.PN),,,,
+0020000971,452,3,11,4,2:47 PM,0:51,,,MISS Miller Free Throw 1 of 2,,
+0020000971,453,4,1,4,2:47 PM,0:51,,,Magic Rebound,,
+0020000971,454,8,0,4,2:47 PM,0:51,,,SUB: Williams FOR McGrady,,
+0020000971,455,8,0,4,2:47 PM,0:51,SUB: Crawford FOR Miller,,,,
+0020000971,457,8,0,4,2:48 PM,0:51,,,SUB: Hudson FOR Outlaw,,
+0020000971,458,3,12,4,2:48 PM,0:51,,,MISS Miller Free Throw 2 of 2,,
+0020000971,459,4,0,4,2:48 PM,0:49,World Peace REBOUND (Off:2 Def:3),,,,
+0020000971,460,1,5,4,2:48 PM,0:40,Fizer  Layup (18 PTS) (Crawford 5 AST),,,99 - 91,-8
+0020000971,461,6,1,4,2:48 PM,0:39,Crawford P.FOUL (P2.PN),,,,
+0020000971,462,3,11,4,2:48 PM,0:39,,,Armstrong Free Throw 1 of 2 (15 PTS),100 - 91,-9
+0020000971,463,3,12,4,2:49 PM,0:39,,,MISS Armstrong Free Throw 2 of 2,,
+0020000971,464,4,0,4,2:49 PM,0:35,Hoiberg REBOUND (Off:0 Def:3),,,,
+0020000971,465,1,7,4,2:49 PM,0:30,Mercer  Dunk (18 PTS) (Hoiberg 5 AST),,,100 - 93,-7
+0020000971,466,6,1,4,2:49 PM,0:29,Crawford P.FOUL (P3.PN),,,,
+0020000971,467,3,11,4,2:49 PM,0:29,,,Armstrong Free Throw 1 of 2 (16 PTS),101 - 93,-8
+0020000971,468,3,12,4,2:49 PM,0:29,,,Armstrong Free Throw 2 of 2 (17 PTS),102 - 93,-9
+0020000971,469,9,1,4,2:50 PM,0:29,BULLS Timeout: Regular (Full 6 Short 1),,,,
+0020000971,471,8,0,4,2:51 PM,0:29,SUB: Tarlac FOR World Peace,,,,
+0020000971,472,5,1,4,2:51 PM,0:27,Hoiberg Bad Pass Turnover (P2.T20),,Hudson STEAL (1 STL),,
+0020000971,473,6,1,4,2:51 PM,0:24,Fizer P.FOUL (P4.PN),,,,
+0020000971,474,3,11,4,2:52 PM,0:24,,,MISS Miller Free Throw 1 of 2,,
+0020000971,475,4,1,4,2:52 PM,0:24,,,Magic Rebound,,
+0020000971,476,3,12,4,2:52 PM,0:24,,,Miller Free Throw 2 of 2 (15 PTS),103 - 93,-10
+0020000971,477,2,1,4,2:52 PM,0:19,MISS Crawford 25' 3PT Jump Shot,,,,
+0020000971,478,4,0,4,2:52 PM,0:16,Mercer REBOUND (Off:3 Def:2),,,,
+0020000971,479,1,1,4,2:52 PM,0:13,Hoiberg 22' Jump Shot (19 PTS) (Mercer 10 AST),,,103 - 95,-8
+0020000971,480,13,0,4,2:53 PM,0:00,,,,103 - 95,-8

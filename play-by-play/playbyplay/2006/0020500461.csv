@@ -1,0 +1,473 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020500461,0,12,0,1,8:00 PM,12:00,,,,,
+0020500461,1,10,0,1,8:00 PM,12:00,Jump Ball Collins vs. Howard: Tip to Francis,,,,
+0020500461,2,2,5,1,8:00 PM,11:37,,,MISS Francis  Layup,,
+0020500461,3,4,0,1,8:00 PM,11:36,,,Battie REBOUND (Off:1 Def:0),,
+0020500461,4,2,4,1,8:00 PM,11:34,,,MISS Battie  Tip Shot,,
+0020500461,5,4,0,1,8:00 PM,11:33,,,Battie REBOUND (Off:2 Def:0),,
+0020500461,6,2,4,1,8:00 PM,11:32,,,MISS Battie  Tip Shot,,
+0020500461,7,4,0,1,8:00 PM,11:31,,,Battie REBOUND (Off:3 Def:0),,
+0020500461,8,1,53,1,8:00 PM,11:30,,,Battie  Tip Shot (2 PTS),2 - 0,-2
+0020500461,9,6,1,1,8:00 PM,11:23,,,Battie P.FOUL (P1.T1),,
+0020500461,10,2,1,1,8:01 PM,11:13,MISS Jefferson 22' Jump Shot,,,,
+0020500461,11,4,0,1,8:01 PM,11:12,Collins REBOUND (Off:1 Def:0),,,,
+0020500461,12,2,1,1,8:01 PM,11:05,MISS Kidd  3PT Jump Shot,,,,
+0020500461,13,4,0,1,8:01 PM,11:03,Krstic REBOUND (Off:1 Def:0),,,,
+0020500461,14,2,1,1,8:01 PM,10:59,MISS Krstic 16' Jump Shot,,,,
+0020500461,15,4,0,1,8:01 PM,10:58,Krstic REBOUND (Off:2 Def:0),,,,
+0020500461,16,2,46,1,8:01 PM,10:42,MISS Carter 12' Running Jump Shot,,,,
+0020500461,17,4,0,1,8:01 PM,10:41,,,Hill REBOUND (Off:0 Def:1),,
+0020500461,18,2,1,1,8:02 PM,10:24,,,MISS Stevenson 16' Jump Shot,,
+0020500461,19,4,0,1,8:02 PM,10:21,NETS Rebound,,,,
+0020500461,20,2,5,1,8:02 PM,10:03,MISS Carter  Layup,,Howard BLOCK (1 BLK),,
+0020500461,21,4,0,1,8:02 PM,10:00,,,Howard REBOUND (Off:0 Def:1),,
+0020500461,22,2,42,1,8:02 PM,9:54,,,MISS Hill  Driving Layup,,
+0020500461,23,4,0,1,8:02 PM,9:53,Kidd REBOUND (Off:0 Def:1),,,,
+0020500461,24,1,49,1,8:02 PM,9:51,Jefferson  Driving Dunk (2 PTS) (Kidd 1 AST),,,2 - 2,TIE
+0020500461,25,1,40,1,8:02 PM,9:35,,,Battie  Layup (4 PTS) (Hill 1 AST),4 - 2,-2
+0020500461,26,1,1,1,8:03 PM,9:21,Collins 19' Jump Shot (2 PTS) (Carter 1 AST),,,4 - 4,TIE
+0020500461,27,2,1,1,8:03 PM,9:01,,,MISS Hill 15' Jump Shot,,
+0020500461,28,4,0,1,8:03 PM,8:59,,,Howard REBOUND (Off:1 Def:1),,
+0020500461,29,1,1,1,8:03 PM,8:44,,,Battie 15' Jump Shot (6 PTS) (Francis 1 AST),6 - 4,-2
+0020500461,30,6,1,1,8:04 PM,8:27,,,Hill P.FOUL (P1.T2),,
+0020500461,31,1,1,1,8:04 PM,8:12,Collins 19' Jump Shot (4 PTS) (Jefferson 1 AST),,,6 - 6,TIE
+0020500461,32,2,1,1,8:05 PM,7:51,,,MISS Battie 15' Jump Shot,,
+0020500461,33,4,0,1,8:05 PM,7:49,Kidd REBOUND (Off:0 Def:2),,,,
+0020500461,34,6,2,1,8:05 PM,7:43,,,Battie S.FOUL (P2.T3),,
+0020500461,35,3,11,1,8:05 PM,7:43,Jefferson Free Throw 1 of 2 (3 PTS),,,6 - 7,1
+0020500461,36,8,0,1,8:05 PM,7:43,,,SUB: Kasun FOR Battie,,
+0020500461,37,3,12,1,8:06 PM,7:43,MISS Jefferson Free Throw 2 of 2,,,,
+0020500461,38,4,0,1,8:06 PM,7:42,Kidd REBOUND (Off:1 Def:2),,,,
+0020500461,39,1,49,1,8:06 PM,7:29,Krstic  Driving Dunk (2 PTS) (Kidd 2 AST),,,6 - 9,3
+0020500461,40,6,2,1,8:06 PM,7:29,,,Kasun S.FOUL (P1.T4),,
+0020500461,41,3,10,1,8:06 PM,7:29,Krstic Free Throw 1 of 1 (3 PTS),,,6 - 10,4
+0020500461,42,1,1,1,8:07 PM,7:07,,,Hill 16' Jump Shot (2 PTS),8 - 10,2
+0020500461,43,6,2,1,8:07 PM,6:50,,,Stevenson S.FOUL (P1.PN),,
+0020500461,44,3,11,1,8:07 PM,6:50,Carter Free Throw 1 of 2 (1 PTS),,,8 - 11,3
+0020500461,45,3,12,1,8:08 PM,6:50,Carter Free Throw 2 of 2 (2 PTS),,,8 - 12,4
+0020500461,46,2,42,1,8:08 PM,6:40,,,MISS Francis  Driving Layup,,
+0020500461,47,4,0,1,8:08 PM,6:39,,,Kasun REBOUND (Off:1 Def:0),,
+0020500461,48,5,4,1,8:08 PM,6:37,,,Kasun Traveling Turnover (P1.T1),,
+0020500461,49,1,47,1,8:09 PM,6:16,Krstic 9' Turnaround Jump Shot (5 PTS) (Kidd 3 AST),,,8 - 14,6
+0020500461,50,5,2,1,8:09 PM,6:01,Kidd STEAL (1 STL),,Francis Lost Ball Turnover (P1.T2),,
+0020500461,51,6,1,1,8:09 PM,6:00,,,Francis P.FOUL (P1.PN),,
+0020500461,52,3,11,1,8:09 PM,6:00,Kidd Free Throw 1 of 2 (1 PTS),,,8 - 15,7
+0020500461,53,3,12,1,8:10 PM,6:00,Kidd Free Throw 2 of 2 (2 PTS),,,8 - 16,8
+0020500461,54,6,2,1,8:10 PM,5:42,Collins S.FOUL (P1.T1),,,,
+0020500461,55,9,1,1,8:10 PM,5:42,NETS Timeout: Regular (Full 1 Short 0),,,,
+0020500461,57,3,11,1,8:13 PM,5:42,,,Howard Free Throw 1 of 2 (1 PTS),9 - 16,7
+0020500461,58,3,12,1,8:13 PM,5:42,,,Howard Free Throw 2 of 2 (2 PTS),10 - 16,6
+0020500461,59,6,1,1,8:13 PM,5:30,,,Kasun P.FOUL (P2.PN),,
+0020500461,60,3,11,1,8:14 PM,5:30,Krstic Free Throw 1 of 2 (6 PTS),,,10 - 17,7
+0020500461,61,3,12,1,8:14 PM,5:30,MISS Krstic Free Throw 2 of 2,,,,
+0020500461,62,4,0,1,8:14 PM,5:29,,,Hill REBOUND (Off:0 Def:2),,
+0020500461,63,1,46,1,8:14 PM,5:08,,,Francis 6' Running Jump Shot (2 PTS) (Hill 2 AST),12 - 17,5
+0020500461,64,2,1,1,8:15 PM,4:56,MISS Krstic 17' Jump Shot,,,,
+0020500461,65,4,0,1,8:15 PM,4:55,,,Howard REBOUND (Off:1 Def:2),,
+0020500461,66,6,2,1,8:15 PM,4:50,Jefferson S.FOUL (P1.T2),,,,
+0020500461,67,8,0,1,8:15 PM,4:50,,,SUB: Garrity FOR Kasun,,
+0020500461,68,3,11,1,8:15 PM,4:50,,,Hill Free Throw 1 of 2 (3 PTS),13 - 17,4
+0020500461,69,3,12,1,8:15 PM,4:50,,,Hill Free Throw 2 of 2 (4 PTS),14 - 17,3
+0020500461,70,5,1,1,8:15 PM,4:38,Kidd Bad Pass Turnover (P1.T1),,Francis STEAL (1 STL),,
+0020500461,71,1,42,1,8:16 PM,4:34,,,Francis  Driving Layup (4 PTS) (Hill 3 AST),16 - 17,1
+0020500461,72,5,1,1,8:16 PM,4:30,Kidd Bad Pass Turnover (P2.T2),,Stevenson STEAL (1 STL),,
+0020500461,73,5,39,1,8:16 PM,4:29,,,Stevenson Step Out of Bounds Turnover (P1.T3),,
+0020500461,74,2,42,1,8:16 PM,4:10,MISS Kidd  Driving Layup,,,,
+0020500461,75,4,0,1,8:16 PM,4:09,,,Howard REBOUND (Off:1 Def:3),,
+0020500461,76,1,1,1,8:16 PM,3:57,,,Garrity 26' 3PT Jump Shot (3 PTS) (Hill 4 AST),19 - 17,-2
+0020500461,77,9,2,1,8:17 PM,3:46,NETS Timeout: Short (Full 1 Short 1),,,,
+0020500461,79,2,1,1,8:18 PM,3:35,MISS Carter 26' 3PT Jump Shot,,,,
+0020500461,80,4,0,1,8:18 PM,3:34,,,Howard REBOUND (Off:1 Def:4),,
+0020500461,81,5,2,1,8:18 PM,3:16,Kidd STEAL (2 STL),,Francis Lost Ball Turnover (P2.T4),,
+0020500461,82,1,61,1,8:18 PM,3:12,Kidd  Driving Finger Roll (4 PTS),,,19 - 19,TIE
+0020500461,83,2,5,1,8:19 PM,2:47,,,MISS Hill  Layup,,
+0020500461,84,4,0,1,8:19 PM,2:46,Krstic REBOUND (Off:2 Def:1),,,,
+0020500461,85,5,1,1,8:19 PM,2:44,Krstic Bad Pass Turnover (P1.T3),,Francis STEAL (2 STL),,
+0020500461,86,1,8,1,8:19 PM,2:41,,,Howard  Slam Dunk (4 PTS),21 - 19,-2
+0020500461,87,1,42,1,8:19 PM,2:26,Carter  Driving Layup (4 PTS),,,21 - 21,TIE
+0020500461,88,1,1,1,8:19 PM,2:09,,,Hill 16' Jump Shot (6 PTS),23 - 21,-2
+0020500461,89,2,5,1,8:20 PM,1:54,MISS Kidd  Layup,,,,
+0020500461,90,4,0,1,8:20 PM,1:51,,,Howard REBOUND (Off:1 Def:5),,
+0020500461,91,9,1,1,8:20 PM,1:49,,,Magic Timeout: Regular (Reg.1 Short 0),,
+0020500461,93,8,0,1,8:22 PM,1:49,SUB: Robinson FOR Collins,,,,
+0020500461,94,8,0,1,8:22 PM,1:49,,,SUB: Nelson FOR Francis,,
+0020500461,95,8,0,1,8:22 PM,1:49,,,SUB: Turkoglu FOR Hill,,
+0020500461,96,10,0,1,8:22 PM,1:49,Jump Ball Kidd vs. Howard: Tip to Nelson,,,,
+0020500461,97,6,4,1,8:23 PM,1:38,,,Howard OFF.Foul (P1),,
+0020500461,98,5,5,1,8:23 PM,1:38,,,Howard Foul Turnover (P1.T5),,
+0020500461,99,8,0,1,8:23 PM,1:38,SUB: Vaughn FOR Kidd,,,,
+0020500461,100,1,1,1,8:23 PM,1:25,Jefferson 16' Jump Shot (5 PTS) (Carter 2 AST),,,23 - 23,TIE
+0020500461,101,1,1,1,8:23 PM,1:06,,,Stevenson 14' Jump Shot (2 PTS) (Nelson 1 AST),25 - 23,-2
+0020500461,102,2,1,1,8:23 PM,0:51,MISS Vaughn 19' Jump Shot,,,,
+0020500461,103,4,0,1,8:24 PM,0:50,Carter REBOUND (Off:1 Def:0),,,,
+0020500461,104,1,7,1,8:24 PM,0:49,Carter  Dunk (6 PTS),,,25 - 25,TIE
+0020500461,105,1,8,1,8:24 PM,0:40,,,Howard  Slam Dunk (6 PTS) (Nelson 2 AST),27 - 25,-2
+0020500461,106,6,2,1,8:24 PM,0:40,Jefferson S.FOUL (P2.T3),,,,
+0020500461,108,8,0,1,8:24 PM,0:40,SUB: Murray FOR Jefferson,,,,
+0020500461,109,3,10,1,8:24 PM,0:40,,,MISS Howard Free Throw 1 of 1,,
+0020500461,110,4,0,1,8:24 PM,0:39,Robinson REBOUND (Off:0 Def:1),,,,
+0020500461,111,1,1,1,8:24 PM,0:29,Vaughn 17' Jump Shot (2 PTS) (Carter 3 AST),,,27 - 27,TIE
+0020500461,112,2,1,1,8:25 PM,0:04,,,MISS Garrity 25' 3PT Jump Shot,,
+0020500461,113,4,0,1,8:25 PM,0:03,NETS Rebound,,,,
+0020500461,114,1,1,1,8:25 PM,0:00,Carter 32' 3PT Jump Shot (9 PTS) (Robinson 1 AST),,,27 - 30,3
+0020500461,115,18,0,1,8:26 PM,0:00,,,,27 - 30,3
+0020500461,116,13,0,1,8:26 PM,0:00,,,,27 - 30,3
+0020500461,118,12,0,2,8:28 PM,12:00,,,,27 - 30,3
+0020500461,119,2,63,2,8:29 PM,11:44,MISS Carter 19' Fadeaway Jumper,,,,
+0020500461,120,4,0,2,8:29 PM,11:42,,,Turkoglu REBOUND (Off:0 Def:1),,
+0020500461,121,6,2,2,8:29 PM,11:24,Murray S.FOUL (P1.T1),,,,
+0020500461,122,8,0,2,8:29 PM,11:24,SUB: Padgett FOR Krstic,,,,
+0020500461,123,3,11,2,8:29 PM,11:24,,,Turkoglu Free Throw 1 of 2 (1 PTS),28 - 30,2
+0020500461,124,3,12,2,8:30 PM,11:24,,,Turkoglu Free Throw 2 of 2 (2 PTS),29 - 30,1
+0020500461,125,2,1,2,8:30 PM,11:02,MISS Carter 17' Jump Shot,,,,
+0020500461,126,4,0,2,8:30 PM,11:01,,,Garrity REBOUND (Off:0 Def:1),,
+0020500461,127,6,2,2,8:31 PM,10:40,Robinson S.FOUL (P1.T2),,,,
+0020500461,128,3,11,2,8:31 PM,10:40,,,Turkoglu Free Throw 1 of 2 (3 PTS),30 - 30,TIE
+0020500461,129,3,12,2,8:31 PM,10:40,,,Turkoglu Free Throw 2 of 2 (4 PTS),31 - 30,-1
+0020500461,130,2,1,2,8:32 PM,10:19,MISS Robinson 27' 3PT Jump Shot,,,,
+0020500461,131,4,0,2,8:32 PM,10:18,,,Battie REBOUND (Off:3 Def:1),,
+0020500461,132,6,2,2,8:32 PM,10:14,Vaughn S.FOUL (P1.T3),,,,
+0020500461,133,9,1,2,8:32 PM,10:14,NETS Timeout: Regular (Full 2 Short 1),,,,
+0020500461,135,3,11,2,8:34 PM,10:14,,,Hill Free Throw 1 of 2 (7 PTS),32 - 30,-2
+0020500461,136,3,12,2,8:34 PM,10:14,,,Hill Free Throw 2 of 2 (8 PTS),33 - 30,-3
+0020500461,137,1,47,2,8:35 PM,9:58,Robinson 7' Turnaround Jump Shot (2 PTS) (Padgett 1 AST),,,33 - 32,-1
+0020500461,138,6,1,2,8:35 PM,9:48,Vaughn P.FOUL (P2.T4),,,,
+0020500461,139,5,1,2,8:35 PM,9:40,Murray STEAL (1 STL),,Nelson Bad Pass Turnover (P1.T6),,
+0020500461,140,1,1,2,8:36 PM,9:31,Padgett  3PT Jump Shot (3 PTS) (Carter 4 AST),,,33 - 35,2
+0020500461,142,1,1,2,8:38 PM,9:06,,,Hill 18' Jump Shot (10 PTS) (Nelson 3 AST),35 - 35,TIE
+0020500461,143,6,4,2,8:38 PM,8:50,Robinson OFF.Foul (P2),,,,
+0020500461,144,5,5,2,8:38 PM,8:50,Robinson Foul Turnover (P1.T4),,,,
+0020500461,145,8,0,2,8:39 PM,8:50,SUB: Kidd FOR Carter,,,,
+0020500461,146,8,0,2,8:39 PM,8:50,,,SUB: Francis FOR Garrity,,
+0020500461,147,6,4,2,8:39 PM,8:39,,,Francis OFF.Foul (P2),,
+0020500461,148,5,5,2,8:39 PM,8:39,,,Francis Foul Turnover (P3.T7),,
+0020500461,149,2,5,2,8:39 PM,8:26,MISS Murray  Layup,,,,
+0020500461,150,4,0,2,8:39 PM,8:24,,,Turkoglu REBOUND (Off:0 Def:2),,
+0020500461,151,2,42,2,8:39 PM,8:20,,,MISS Hill  Driving Layup,,
+0020500461,152,4,0,2,8:39 PM,8:19,,,Turkoglu REBOUND (Off:1 Def:2),,
+0020500461,153,1,4,2,8:39 PM,8:18,,,Turkoglu  Tip Shot (6 PTS),37 - 35,-2
+0020500461,154,2,1,2,8:40 PM,8:00,MISS Robinson 18' Jump Shot,,,,
+0020500461,155,4,0,2,8:40 PM,7:59,Murray REBOUND (Off:1 Def:0),,,,
+0020500461,156,5,1,2,8:40 PM,7:50,Robinson Bad Pass Turnover (P2.T5),,Turkoglu STEAL (1 STL),,
+0020500461,157,2,42,2,8:40 PM,7:45,,,MISS Turkoglu  Driving Layup,,
+0020500461,158,4,0,2,8:40 PM,7:44,Kidd REBOUND (Off:1 Def:3),,,,
+0020500461,159,1,1,2,8:40 PM,7:38,Vaughn 17' Jump Shot (4 PTS) (Kidd 4 AST),,,37 - 37,TIE
+0020500461,160,1,42,2,8:40 PM,7:18,,,Hill  Driving Layup (12 PTS),39 - 37,-2
+0020500461,161,6,2,2,8:40 PM,7:18,Murray S.FOUL (P2.PN),,,,
+0020500461,162,3,10,2,8:41 PM,7:18,,,MISS Hill Free Throw 1 of 1,,
+0020500461,163,4,0,2,8:41 PM,7:17,Robinson REBOUND (Off:0 Def:2),,,,
+0020500461,164,2,1,2,8:41 PM,7:04,MISS Murray 26' 3PT Jump Shot,,,,
+0020500461,165,4,0,2,8:41 PM,7:02,,,Turkoglu REBOUND (Off:1 Def:3),,
+0020500461,166,2,42,2,8:41 PM,6:56,Murray BLOCK (1 BLK),,MISS Hill  Driving Layup,,
+0020500461,167,4,0,2,8:41 PM,6:55,,,Francis REBOUND (Off:1 Def:0),,
+0020500461,168,1,7,2,8:41 PM,6:54,,,Francis  Dunk (6 PTS),41 - 37,-4
+0020500461,169,6,2,2,8:42 PM,6:29,,,Turkoglu S.FOUL (P1.T1),,
+0020500461,170,8,0,2,8:43 PM,6:29,SUB: Collins FOR Robinson,,,,
+0020500461,171,8,0,2,8:43 PM,6:29,SUB: Jefferson FOR Murray,,,,
+0020500461,172,3,11,2,8:43 PM,6:29,Padgett Free Throw 1 of 2 (4 PTS),,,41 - 38,-3
+0020500461,173,3,12,2,8:43 PM,6:29,Padgett Free Throw 2 of 2 (5 PTS),,,41 - 39,-2
+0020500461,174,5,1,2,8:43 PM,6:17,Padgett STEAL (1 STL),,Francis Bad Pass Turnover (P4.T8),,
+0020500461,175,2,1,2,8:44 PM,6:04,MISS Padgett 27' 3PT Jump Shot,,,,
+0020500461,176,4,0,2,8:44 PM,6:03,,,Turkoglu REBOUND (Off:1 Def:4),,
+0020500461,177,2,1,2,8:44 PM,5:53,,,MISS Nelson 22' Jump Shot,,
+0020500461,178,4,0,2,8:44 PM,5:52,Kidd REBOUND (Off:1 Def:4),,,,
+0020500461,179,6,2,2,8:44 PM,5:34,,,Battie S.FOUL (P3.T2),,
+0020500461,180,9,4,2,8:44 PM,5:34,,,,,
+0020500461,181,8,0,2,8:46 PM,5:34,SUB: Carter FOR Vaughn,,,,
+0020500461,182,8,0,2,8:47 PM,5:34,,,SUB: Howard FOR Battie,,
+0020500461,183,3,11,2,8:47 PM,5:34,Padgett Free Throw 1 of 2 (6 PTS),,,41 - 40,-1
+0020500461,184,3,12,2,8:47 PM,5:34,Padgett Free Throw 2 of 2 (7 PTS),,,41 - 41,TIE
+0020500461,185,2,46,2,8:48 PM,5:20,,,MISS Turkoglu 4' Running Jump Shot,,
+0020500461,186,4,0,2,8:48 PM,5:19,,,Howard REBOUND (Off:2 Def:5),,
+0020500461,187,1,5,2,8:48 PM,5:17,,,Howard  Layup (8 PTS),43 - 41,-2
+0020500461,188,1,1,2,8:48 PM,4:59,Carter 20' Jump Shot (11 PTS) (Kidd 5 AST),,,43 - 43,TIE
+0020500461,189,2,1,2,8:48 PM,4:39,,,MISS Hill 13' Jump Shot,,
+0020500461,190,4,0,2,8:49 PM,4:38,Padgett REBOUND (Off:0 Def:1),,,,
+0020500461,191,1,7,2,8:49 PM,4:34,Jefferson  Dunk (7 PTS) (Kidd 6 AST),,,43 - 45,2
+0020500461,192,2,1,2,8:49 PM,4:14,,,MISS Turkoglu 26' 3PT Jump Shot,,
+0020500461,193,4,0,2,8:49 PM,4:13,,,Nelson REBOUND (Off:1 Def:0),,
+0020500461,194,1,1,2,8:49 PM,3:55,,,Hill 18' Jump Shot (14 PTS) (Turkoglu 1 AST),45 - 45,TIE
+0020500461,195,6,2,2,8:50 PM,3:34,,,Turkoglu S.FOUL (P2.T3),,
+0020500461,196,3,11,2,8:50 PM,3:34,MISS Jefferson Free Throw 1 of 2,,,,
+0020500461,197,4,1,2,8:50 PM,3:34,NETS Rebound,,,,
+0020500461,198,8,0,2,8:50 PM,3:34,SUB: Krstic FOR Padgett,,,,
+0020500461,199,3,12,2,8:50 PM,3:34,Jefferson Free Throw 2 of 2 (8 PTS),,,45 - 46,1
+0020500461,200,2,42,2,8:51 PM,3:17,,,MISS Turkoglu  Driving Layup,,
+0020500461,201,4,0,2,8:51 PM,3:16,Collins REBOUND (Off:1 Def:1),,,,
+0020500461,202,6,4,2,8:51 PM,3:11,Jefferson OFF.Foul (P3),,,,
+0020500461,203,5,5,2,8:51 PM,3:11,Jefferson Foul Turnover (P1.T6),,,,
+0020500461,204,8,0,2,8:51 PM,3:11,SUB: Vaughn FOR Jefferson,,,,
+0020500461,205,2,3,2,8:52 PM,2:53,,,MISS Howard 7' Hook Shot,,
+0020500461,206,4,0,2,8:52 PM,2:52,Kidd REBOUND (Off:1 Def:5),,,,
+0020500461,207,6,2,2,8:52 PM,2:48,,,Turkoglu S.FOUL (P3.T4),,
+0020500461,208,9,1,2,8:52 PM,2:48,,,Magic Timeout: Regular (Reg.2 Short 0),,
+0020500461,210,3,11,2,8:54 PM,2:48,Kidd Free Throw 1 of 2 (5 PTS),,,45 - 47,2
+0020500461,211,3,12,2,8:55 PM,2:48,Kidd Free Throw 2 of 2 (6 PTS),,,45 - 48,3
+0020500461,212,2,46,2,8:55 PM,2:32,,,MISS Turkoglu 12' Running Jump Shot,,
+0020500461,213,4,0,2,8:55 PM,2:31,,,Hill REBOUND (Off:1 Def:2),,
+0020500461,214,2,5,2,8:55 PM,2:30,Carter BLOCK (1 BLK),,MISS Hill  Layup,,
+0020500461,215,4,0,2,8:55 PM,2:29,,,Howard REBOUND (Off:3 Def:5),,
+0020500461,216,6,4,2,8:55 PM,2:27,,,Howard OFF.Foul (P2),,
+0020500461,217,5,5,2,8:55 PM,2:27,,,Howard Foul Turnover (P2.T9),,
+0020500461,218,8,0,2,8:55 PM,2:27,,,SUB: Stevenson FOR Turkoglu,,
+0020500461,219,1,1,2,8:56 PM,2:08,Kidd 24' 3PT Jump Shot (9 PTS) (Krstic 1 AST),,,45 - 51,6
+0020500461,220,2,3,2,8:56 PM,1:52,,,MISS Howard 7' Hook Shot,,
+0020500461,221,4,0,2,8:56 PM,1:51,Collins REBOUND (Off:1 Def:2),,,,
+0020500461,222,2,1,2,8:56 PM,1:46,MISS Kidd 22' Jump Shot,,,,
+0020500461,223,4,0,2,8:56 PM,1:44,,,Magic Rebound,,
+0020500461,224,1,47,2,8:57 PM,1:26,,,Nelson 16' Turnaround Jump Shot (2 PTS),47 - 51,4
+0020500461,225,1,3,2,8:57 PM,1:04,Krstic 7' Hook Shot (8 PTS),,,47 - 53,6
+0020500461,226,2,1,2,8:58 PM,0:39,,,MISS Hill 12' Jump Shot,,
+0020500461,227,4,0,2,8:58 PM,0:38,Kidd REBOUND (Off:1 Def:6),,,,
+0020500461,228,5,1,2,8:58 PM,0:35,Kidd Bad Pass Turnover (P3.T7),,Nelson STEAL (1 STL),,
+0020500461,229,5,2,2,8:58 PM,0:27,Collins STEAL (1 STL),,Stevenson Lost Ball Turnover (P2.T10),,
+0020500461,230,2,42,2,8:58 PM,0:22,MISS Kidd  Driving Layup,,Francis BLOCK (1 BLK),,
+0020500461,231,4,0,2,8:58 PM,0:20,Vaughn REBOUND (Off:1 Def:0),,,,
+0020500461,232,2,1,2,8:58 PM,0:06,MISS Carter 25' 3PT Jump Shot,,,,
+0020500461,233,4,0,2,8:58 PM,0:05,Krstic REBOUND (Off:3 Def:1),,,,
+0020500461,234,1,1,2,8:58 PM,0:03,Krstic 13' Jump Shot (10 PTS),,,47 - 55,8
+0020500461,237,18,0,2,8:59 PM,0:00,,,,47 - 55,8
+0020500461,238,13,0,2,8:59 PM,0:00,,,,47 - 55,8
+0020500461,240,12,0,3,9:19 PM,12:00,,,,47 - 55,8
+0020500461,241,2,3,3,9:19 PM,11:46,MISS Krstic 6' Hook Shot,,,,
+0020500461,242,4,0,3,9:19 PM,11:45,,,Hill REBOUND (Off:1 Def:3),,
+0020500461,243,2,42,3,9:20 PM,11:27,,,MISS Francis  Driving Layup,,
+0020500461,244,4,0,3,9:20 PM,11:26,,,Howard REBOUND (Off:4 Def:5),,
+0020500461,245,2,5,3,9:20 PM,11:25,,,MISS Howard  Layup,,
+0020500461,246,4,0,3,9:20 PM,11:24,,,Howard REBOUND (Off:5 Def:5),,
+0020500461,247,6,2,3,9:20 PM,11:23,Kidd S.FOUL (P1.T1),,,,
+0020500461,248,3,11,3,9:20 PM,11:23,,,MISS Howard Free Throw 1 of 2,,
+0020500461,249,4,1,3,9:20 PM,11:23,,,Magic Rebound,,
+0020500461,250,3,12,3,9:20 PM,11:23,,,MISS Howard Free Throw 2 of 2,,
+0020500461,251,4,0,3,9:21 PM,11:22,Jefferson REBOUND (Off:0 Def:1),,,,
+0020500461,252,1,1,3,9:21 PM,11:07,Carter 18' Jump Shot (13 PTS) (Kidd 7 AST),,,47 - 57,10
+0020500461,253,2,1,3,9:21 PM,10:50,,,MISS Stevenson 20' Jump Shot,,
+0020500461,254,4,0,3,9:21 PM,10:49,Krstic REBOUND (Off:3 Def:2),,,,
+0020500461,255,6,17,3,9:21 PM,10:40,,,Magic T.Foul (Def. 3 Sec Hill ),,
+0020500461,256,3,16,3,9:21 PM,10:40,Carter Free Throw Technical (14 PTS),,,47 - 58,11
+0020500461,257,6,1,3,9:22 PM,10:35,,,Stevenson P.FOUL (P2.T1),,
+0020500461,258,2,46,3,9:22 PM,10:29,MISS Carter 5' Running Jump Shot,,,,
+0020500461,259,4,0,3,9:22 PM,10:28,,,Hill REBOUND (Off:1 Def:4),,
+0020500461,260,2,47,3,9:22 PM,10:17,,,MISS Battie 7' Turnaround Jump Shot,,
+0020500461,261,4,0,3,9:22 PM,10:16,Kidd REBOUND (Off:1 Def:7),,,,
+0020500461,262,6,4,3,9:23 PM,10:06,Krstic OFF.Foul (P1),,,,
+0020500461,263,5,5,3,9:23 PM,10:06,Krstic Foul Turnover (P2.T8),,,,
+0020500461,264,8,0,3,9:23 PM,10:06,,,SUB: Turkoglu FOR Hill,,
+0020500461,265,1,66,3,9:23 PM,9:42,,,Francis 12' Jump Bank Shot (8 PTS),49 - 58,9
+0020500461,266,1,7,3,9:24 PM,9:21,Collins  Dunk (6 PTS) (Kidd 8 AST),,,49 - 60,11
+0020500461,267,5,1,3,9:24 PM,9:01,Kidd STEAL (3 STL),,Francis Bad Pass Turnover (P5.T11),,
+0020500461,268,1,7,3,9:24 PM,8:56,Jefferson  Dunk (10 PTS) (Krstic 2 AST),,,49 - 62,13
+0020500461,269,9,1,3,9:24 PM,8:55,,,Magic Timeout: Regular (Reg.3 Short 0),,
+0020500461,271,5,40,3,9:27 PM,8:35,,,Howard Out of Bounds Lost Ball Turnover (P3.T12),,
+0020500461,272,2,5,3,9:27 PM,8:21,MISS Collins  Layup,,Battie BLOCK (1 BLK),,
+0020500461,273,4,0,3,9:27 PM,8:19,,,Francis REBOUND (Off:1 Def:1),,
+0020500461,274,5,6,3,9:27 PM,8:17,,,Francis Double Dribble Turnover (P6.T13),,
+0020500461,275,2,1,3,9:28 PM,8:00,MISS Jefferson 24' 3PT Jump Shot,,,,
+0020500461,276,4,0,3,9:28 PM,7:59,,,Francis REBOUND (Off:1 Def:2),,
+0020500461,277,2,5,3,9:28 PM,7:38,,,MISS Stevenson  Layup,,
+0020500461,278,4,0,3,9:28 PM,7:36,,,Magic Rebound,,
+0020500461,279,1,42,3,9:28 PM,7:29,,,Turkoglu  Driving Layup (8 PTS) (Stevenson 1 AST),51 - 62,11
+0020500461,280,1,1,3,9:29 PM,7:04,Krstic 17' Jump Shot (12 PTS) (Carter 5 AST),,,51 - 64,13
+0020500461,281,2,1,3,9:29 PM,6:53,,,MISS Francis 26' 3PT Jump Shot,,
+0020500461,282,4,0,3,9:29 PM,6:52,,,Howard REBOUND (Off:6 Def:5),,
+0020500461,283,1,7,3,9:29 PM,6:50,,,Howard  Dunk (10 PTS),53 - 64,11
+0020500461,284,2,1,3,9:30 PM,6:37,MISS Kidd 18' Jump Shot,,,,
+0020500461,285,4,0,3,9:30 PM,6:36,,,Howard REBOUND (Off:6 Def:6),,
+0020500461,286,6,4,3,9:30 PM,6:19,,,Turkoglu OFF.Foul (P4),,
+0020500461,287,5,5,3,9:30 PM,6:19,,,Turkoglu Foul Turnover (P1.T14),,
+0020500461,288,1,5,3,9:30 PM,6:04,Krstic  Layup (14 PTS) (Jefferson 2 AST),,,53 - 66,13
+0020500461,289,6,17,3,9:31 PM,5:43,NETS T.Foul (Def. 3 Sec Krstic ),,,,
+0020500461,290,3,16,3,9:31 PM,5:43,,,Turkoglu Free Throw Technical (9 PTS),54 - 66,12
+0020500461,291,1,47,3,9:31 PM,5:31,,,Battie 7' Turnaround Jump Shot (8 PTS),56 - 66,10
+0020500461,292,2,1,3,9:32 PM,5:06,MISS Kidd 25' 3PT Jump Shot,,,,
+0020500461,293,4,0,3,9:32 PM,5:05,,,Magic Rebound,,
+0020500461,294,8,0,3,9:32 PM,5:05,,,SUB: Nelson FOR Turkoglu,,
+0020500461,295,2,1,3,9:33 PM,4:48,,,MISS Battie 19' Jump Shot,,
+0020500461,296,4,0,3,9:33 PM,4:47,Jefferson REBOUND (Off:0 Def:2),,,,
+0020500461,297,6,1,3,9:33 PM,4:42,,,Nelson P.FOUL (P1.T2),,
+0020500461,298,2,1,3,9:33 PM,4:34,MISS Jefferson 20' Jump Shot,,,,
+0020500461,299,4,0,3,9:33 PM,4:33,,,Nelson REBOUND (Off:1 Def:1),,
+0020500461,300,2,42,3,9:33 PM,4:28,,,MISS Stevenson  Driving Layup,,
+0020500461,301,4,0,3,9:33 PM,4:27,,,Magic Rebound,,
+0020500461,302,2,46,3,9:34 PM,4:22,,,MISS Nelson 7' Running Jump Shot,,
+0020500461,303,4,0,3,9:34 PM,4:21,Krstic REBOUND (Off:3 Def:3),,,,
+0020500461,304,2,1,3,9:34 PM,4:15,MISS Carter 26' 3PT Jump Shot,,,,
+0020500461,305,4,0,3,9:34 PM,4:14,,,Nelson REBOUND (Off:1 Def:2),,
+0020500461,306,2,42,3,9:34 PM,4:08,Carter BLOCK (2 BLK),,MISS Nelson  Driving Layup,,
+0020500461,307,4,0,3,9:34 PM,4:06,,,Battie REBOUND (Off:4 Def:1),,
+0020500461,308,1,1,3,9:34 PM,4:01,,,Battie 5' Jump Shot (10 PTS) (Nelson 4 AST),58 - 66,8
+0020500461,309,9,1,3,9:34 PM,3:58,NETS Timeout: Regular (Full 3 Short 1),,,,
+0020500461,311,6,1,3,9:37 PM,3:42,,,Stevenson P.FOUL (P3.T3),,
+0020500461,312,1,46,3,9:37 PM,3:31,Jefferson 6' Running Jump Shot (12 PTS) (Kidd 9 AST),,,58 - 68,10
+0020500461,313,6,2,3,9:37 PM,3:31,,,Francis S.FOUL (P3.T4),,
+0020500461,314,3,10,3,9:38 PM,3:31,Jefferson Free Throw 1 of 1 (13 PTS),,,58 - 69,11
+0020500461,315,6,2,3,9:38 PM,3:19,Collins S.FOUL (P2.T2),,,,
+0020500461,316,3,11,3,9:38 PM,3:19,,,Francis Free Throw 1 of 2 (9 PTS),59 - 69,10
+0020500461,317,3,12,3,9:38 PM,3:19,,,Francis Free Throw 2 of 2 (10 PTS),60 - 69,9
+0020500461,318,1,1,3,9:39 PM,3:05,Carter 19' Jump Shot (16 PTS) (Kidd 10 AST),,,60 - 71,11
+0020500461,319,2,47,3,9:39 PM,2:44,,,MISS Battie 7' Turnaround Jump Shot,,
+0020500461,320,4,0,3,9:39 PM,2:42,Collins REBOUND (Off:1 Def:3),,,,
+0020500461,321,1,5,3,9:39 PM,2:36,Jefferson  Layup (15 PTS) (Kidd 11 AST),,,60 - 73,13
+0020500461,322,9,2,3,9:40 PM,2:30,,,Magic Timeout: Short (Reg.3 Short 1),,
+0020500461,324,1,3,3,9:41 PM,2:19,,,Howard 4' Hook Shot (12 PTS) (Francis 2 AST),62 - 73,11
+0020500461,325,6,1,3,9:41 PM,2:07,,,Stevenson P.FOUL (P4.PN),,
+0020500461,326,8,0,3,9:41 PM,2:07,SUB: Robinson FOR Collins,,,,
+0020500461,327,3,11,3,9:42 PM,2:07,MISS Carter Free Throw 1 of 2,,,,
+0020500461,328,4,1,3,9:42 PM,2:07,NETS Rebound,,,,
+0020500461,329,3,12,3,9:42 PM,2:07,Carter Free Throw 2 of 2 (17 PTS),,,62 - 74,12
+0020500461,330,6,1,3,9:42 PM,1:57,Kidd P.FOUL (P2.T3),,,,
+0020500461,331,2,1,3,9:43 PM,1:46,,,MISS Nelson 25' 3PT Jump Shot,,
+0020500461,332,4,0,3,9:43 PM,1:45,Carter REBOUND (Off:1 Def:1),,,,
+0020500461,333,1,1,3,9:43 PM,1:29,Robinson  3PT Jump Shot (5 PTS) (Kidd 12 AST),,,62 - 77,15
+0020500461,334,2,42,3,9:43 PM,1:16,Robinson BLOCK (1 BLK),,MISS Stevenson  Driving Layup,,
+0020500461,335,4,0,3,9:43 PM,1:14,,,Magic Rebound,,
+0020500461,336,8,0,3,9:43 PM,1:14,SUB: Vaughn FOR Kidd,,,,
+0020500461,337,8,0,3,9:44 PM,1:14,SUB: Murray FOR Jefferson,,,,
+0020500461,338,2,1,3,9:44 PM,1:05,,,MISS Stevenson 22' Jump Shot,,
+0020500461,339,4,0,3,9:44 PM,1:04,,,Howard REBOUND (Off:7 Def:6),,
+0020500461,340,6,2,3,9:44 PM,1:03,Robinson S.FOUL (P3.PN),,,,
+0020500461,341,3,11,3,9:44 PM,1:03,,,Howard Free Throw 1 of 2 (13 PTS),63 - 77,14
+0020500461,342,8,0,3,9:44 PM,1:03,,,SUB: Augmon FOR Stevenson,,
+0020500461,343,3,12,3,9:45 PM,1:03,,,MISS Howard Free Throw 2 of 2,,
+0020500461,344,4,0,3,9:45 PM,1:02,Robinson REBOUND (Off:0 Def:3),,,,
+0020500461,345,2,1,3,9:45 PM,0:47,MISS Robinson 16' Jump Shot,,,,
+0020500461,346,4,0,3,9:45 PM,0:45,,,Battie REBOUND (Off:4 Def:2),,
+0020500461,347,2,8,3,9:45 PM,0:37,,,MISS Howard  Slam Dunk,,
+0020500461,348,4,0,3,9:45 PM,0:36,Robinson REBOUND (Off:0 Def:4),,,,
+0020500461,349,2,42,3,9:45 PM,0:32,MISS Carter  Driving Layup,,,,
+0020500461,350,4,0,3,9:45 PM,0:31,Murray REBOUND (Off:2 Def:0),,,,
+0020500461,351,1,7,3,9:45 PM,0:30,Murray  Dunk (2 PTS),,,63 - 79,16
+0020500461,352,6,19,3,9:46 PM,0:30,,,Battie Taunting (P3.PN),,
+0020500461,353,3,16,3,9:46 PM,0:30,Carter Free Throw Technical (18 PTS),,,63 - 80,17
+0020500461,354,8,0,3,9:46 PM,0:30,SUB: Padgett FOR Krstic,,,,
+0020500461,355,8,0,3,9:46 PM,0:30,SUB: McInnis FOR Carter,,,,
+0020500461,356,8,0,3,9:46 PM,0:30,,,SUB: Garrity FOR Battie,,
+0020500461,357,5,2,3,9:47 PM,0:07,Padgett STEAL (2 STL),,Howard Lost Ball Turnover (P4.T15),,
+0020500461,358,1,1,3,9:47 PM,0:01,Robinson 25' 3PT Jump Shot (8 PTS) (Murray 1 AST),,,63 - 83,20
+0020500461,359,13,0,3,9:47 PM,0:00,,,,63 - 83,20
+0020500461,361,12,0,4,9:50 PM,12:00,,,,63 - 83,20
+0020500461,362,1,1,4,9:50 PM,11:44,,,Garrity 20' Jump Shot (5 PTS) (Nelson 5 AST),65 - 83,18
+0020500461,363,1,1,4,9:50 PM,11:24,Vaughn 18' Jump Shot (6 PTS) (Robinson 2 AST),,,65 - 85,20
+0020500461,364,1,42,4,9:51 PM,11:13,,,Nelson  Driving Layup (4 PTS),67 - 85,18
+0020500461,365,2,1,4,9:51 PM,10:53,MISS Padgett 20' Jump Shot,,,,
+0020500461,366,4,0,4,9:51 PM,10:51,,,Francis REBOUND (Off:1 Def:3),,
+0020500461,367,6,2,4,9:51 PM,10:44,Murray S.FOUL (P3.T1),,,,
+0020500461,368,3,11,4,9:52 PM,10:44,,,Howard Free Throw 1 of 2 (14 PTS),68 - 85,17
+0020500461,369,3,12,4,9:52 PM,10:44,,,Howard Free Throw 2 of 2 (15 PTS),69 - 85,16
+0020500461,370,2,1,4,9:53 PM,10:22,MISS Vaughn 17' Jump Shot,,,,
+0020500461,371,4,0,4,9:53 PM,10:21,Murray REBOUND (Off:3 Def:0),,,,
+0020500461,372,2,46,4,9:53 PM,10:07,MISS Robinson 12' Running Jump Shot,,,,
+0020500461,373,4,0,4,9:53 PM,10:05,,,Francis REBOUND (Off:1 Def:4),,
+0020500461,374,2,42,4,9:53 PM,9:59,McInnis BLOCK (1 BLK),,MISS Nelson  Driving Layup,,
+0020500461,375,4,0,4,9:53 PM,9:58,McInnis REBOUND (Off:0 Def:1),,,,
+0020500461,376,5,39,4,9:53 PM,9:57,McInnis Step Out of Bounds Turnover (P1.T9),,,,
+0020500461,377,9,1,4,9:53 PM,9:57,,,Magic Timeout: Regular (Reg.4 Short 1),,
+0020500461,379,6,1,4,9:56 PM,9:56,Padgett P.FOUL (P1.T2),,,,
+0020500461,380,5,1,4,9:56 PM,9:38,Vaughn STEAL (1 STL),,Francis Bad Pass Turnover (P7.T16),,
+0020500461,381,1,1,4,9:57 PM,9:18,McInnis 17' Jump Shot (2 PTS) (Robinson 3 AST),,,69 - 87,18
+0020500461,382,1,1,4,9:57 PM,9:04,,,Garrity 25' 3PT Jump Shot (8 PTS) (Howard 1 AST),72 - 87,15
+0020500461,383,1,1,4,9:57 PM,8:35,Robinson 15' Jump Shot (10 PTS) (McInnis 1 AST),,,72 - 89,17
+0020500461,384,1,42,4,9:57 PM,8:25,,,Nelson  Driving Layup (6 PTS),74 - 89,15
+0020500461,385,9,1,4,9:58 PM,8:21,NETS Timeout: Regular (Full 4 Short 1),,,,
+0020500461,387,8,0,4,10:00 PM,8:21,,,SUB: Stevenson FOR Augmon,,
+0020500461,388,8,0,4,10:00 PM,8:21,,,SUB: Turkoglu FOR Francis,,
+0020500461,389,5,1,4,10:00 PM,8:07,Robinson Bad Pass Turnover (P3.T10),,Garrity STEAL (1 STL),,
+0020500461,390,5,2,4,10:00 PM,7:52,Murray STEAL (2 STL),,Nelson Lost Ball Turnover (P2.T17),,
+0020500461,391,2,43,4,10:00 PM,7:47,MISS Padgett  Alley Oop Layup,,,,
+0020500461,392,4,0,4,10:00 PM,7:45,,,Nelson REBOUND (Off:1 Def:3),,
+0020500461,393,6,1,4,10:00 PM,7:38,Padgett P.FOUL (P2.T3),,,,
+0020500461,394,8,0,4,10:01 PM,7:38,SUB: Kidd FOR Vaughn,,,,
+0020500461,395,8,0,4,10:01 PM,7:38,SUB: Jefferson FOR Murray,,,,
+0020500461,396,2,5,4,10:01 PM,7:26,,,MISS Howard  Layup,,
+0020500461,397,4,0,4,10:01 PM,7:25,Kidd REBOUND (Off:1 Def:8),,,,
+0020500461,398,2,42,4,10:01 PM,7:23,MISS Padgett  Driving Layup,,Howard BLOCK (2 BLK),,
+0020500461,399,4,0,4,10:01 PM,7:21,NETS Rebound,,,,
+0020500461,400,2,1,4,10:01 PM,7:17,MISS Robinson 15' Jump Shot,,,,
+0020500461,401,4,0,4,10:01 PM,7:16,,,Garrity REBOUND (Off:0 Def:2),,
+0020500461,402,5,1,4,10:02 PM,7:05,Robinson STEAL (1 STL),,Nelson Bad Pass Turnover (P3.T18),,
+0020500461,403,2,1,4,10:02 PM,6:49,MISS McInnis 14' Jump Shot,,,,
+0020500461,404,4,0,4,10:02 PM,6:48,NETS Rebound,,,,
+0020500461,405,6,3,4,10:02 PM,6:48,,,Garrity L.B.FOUL (P1.T1),,
+0020500461,406,8,0,4,10:02 PM,6:48,SUB: Carter FOR Padgett,,,,
+0020500461,407,1,1,4,10:03 PM,6:34,Kidd 25' 3PT Jump Shot (12 PTS) (Jefferson 3 AST),,,74 - 92,18
+0020500461,408,2,1,4,10:03 PM,6:14,Kidd BLOCK (1 BLK),,MISS Turkoglu 16' Jump Shot,,
+0020500461,409,4,0,4,10:03 PM,6:12,Jefferson REBOUND (Off:0 Def:3),,,,
+0020500461,410,5,2,4,10:03 PM,6:08,McInnis Lost Ball Turnover (P2.T11),,Nelson STEAL (2 STL),,
+0020500461,411,1,1,4,10:03 PM,6:00,,,Stevenson 14' Jump Shot (4 PTS) (Nelson 6 AST),76 - 92,16
+0020500461,412,1,47,4,10:03 PM,5:37,Kidd 17' Turnaround Jump Shot (14 PTS) (McInnis 2 AST),,,76 - 94,18
+0020500461,413,1,1,4,10:04 PM,5:25,,,Stevenson 18' Jump Shot (6 PTS),78 - 94,16
+0020500461,414,5,1,4,10:04 PM,5:08,McInnis Bad Pass Turnover (P3.T12),,Nelson STEAL (3 STL),,
+0020500461,415,1,42,4,10:04 PM,5:05,,,Nelson  Driving Layup (8 PTS),80 - 94,14
+0020500461,416,2,46,4,10:04 PM,4:42,MISS Carter 7' Running Jump Shot,,,,
+0020500461,417,4,0,4,10:04 PM,4:41,Kidd REBOUND (Off:2 Def:8),,,,
+0020500461,418,5,1,4,10:05 PM,4:32,Kidd Bad Pass Turnover (P4.T13),,Stevenson STEAL (2 STL),,
+0020500461,419,6,4,4,10:05 PM,4:26,,,Stevenson OFF.Foul (P5),,
+0020500461,420,5,5,4,10:05 PM,4:26,,,Stevenson Foul Turnover (P3.T19),,
+0020500461,421,8,0,4,10:05 PM,4:26,SUB: Krstic FOR Robinson,,,,
+0020500461,422,2,1,4,10:05 PM,4:11,MISS Jefferson 23' Jump Shot,,,,
+0020500461,423,4,0,4,10:05 PM,4:10,,,Nelson REBOUND (Off:1 Def:4),,
+0020500461,424,2,5,4,10:06 PM,4:04,,,MISS Stevenson  Layup,,
+0020500461,425,4,0,4,10:06 PM,4:03,,,Magic Rebound,,
+0020500461,426,6,3,4,10:06 PM,4:03,Krstic L.B.FOUL (P2.T4),,,,
+0020500461,427,8,0,4,10:06 PM,4:03,SUB: Vaughn FOR McInnis,,,,
+0020500461,428,1,1,4,10:06 PM,3:59,,,Turkoglu 21' Jump Shot (11 PTS) (Garrity 1 AST),82 - 94,12
+0020500461,429,6,2,4,10:07 PM,3:46,,,Turkoglu S.FOUL (P5.T2),,
+0020500461,430,3,11,4,10:07 PM,3:46,Carter Free Throw 1 of 2 (19 PTS),,,82 - 95,13
+0020500461,431,3,12,4,10:07 PM,3:46,Carter Free Throw 2 of 2 (20 PTS),,,82 - 96,14
+0020500461,432,5,2,4,10:07 PM,3:40,Vaughn STEAL (2 STL),,Nelson Lost Ball Turnover (P4.T20),,
+0020500461,433,1,5,4,10:07 PM,3:36,Carter  Layup (22 PTS) (Jefferson 4 AST),,,82 - 98,16
+0020500461,434,6,2,4,10:07 PM,3:36,,,Stevenson S.FOUL (P6.T3),,
+0020500461,435,8,0,4,10:08 PM,3:36,,,SUB: Morris FOR Stevenson,,
+0020500461,436,3,10,4,10:08 PM,3:36,Carter Free Throw 1 of 1 (23 PTS),,,82 - 99,17
+0020500461,437,2,3,4,10:09 PM,3:20,,,MISS Howard 7' Hook Shot,,
+0020500461,438,4,0,4,10:09 PM,3:19,Kidd REBOUND (Off:2 Def:9),,,,
+0020500461,439,2,1,4,10:09 PM,3:13,MISS Kidd 18' Jump Shot,,,,
+0020500461,440,4,0,4,10:09 PM,3:11,,,Morris REBOUND (Off:0 Def:1),,
+0020500461,441,1,1,4,10:09 PM,3:05,,,Garrity  3PT Jump Shot (11 PTS) (Nelson 7 AST),85 - 99,14
+0020500461,442,5,2,4,10:09 PM,2:43,Krstic Lost Ball Turnover (P3.T14),,Nelson STEAL (4 STL),,
+0020500461,443,1,1,4,10:09 PM,2:34,,,Nelson 25' 3PT Jump Shot (11 PTS) (Garrity 2 AST),88 - 99,11
+0020500461,444,9,1,4,10:10 PM,2:31,NETS Timeout: Regular (Full 5 Short 1),,,,
+0020500461,446,2,1,4,10:12 PM,2:14,MISS Jefferson  3PT Jump Shot,,,,
+0020500461,447,4,0,4,10:12 PM,2:13,,,Nelson REBOUND (Off:1 Def:5),,
+0020500461,448,1,1,4,10:12 PM,2:07,,,Turkoglu 25' 3PT Jump Shot (14 PTS) (Nelson 8 AST),91 - 99,8
+0020500461,449,1,1,4,10:12 PM,1:40,Carter 9' Jump Shot (25 PTS) (Kidd 13 AST),,,91 - 101,10
+0020500461,450,6,2,4,10:13 PM,1:24,Carter S.FOUL (P1.PN),,,,
+0020500461,451,3,11,4,10:13 PM,1:24,,,MISS Nelson Free Throw 1 of 2,,
+0020500461,452,4,1,4,10:13 PM,1:24,,,Magic Rebound,,
+0020500461,453,3,12,4,10:14 PM,1:24,,,Nelson Free Throw 2 of 2 (12 PTS),92 - 101,9
+0020500461,454,2,42,4,10:14 PM,1:00,MISS Vaughn  Driving Layup,,,,
+0020500461,455,4,0,4,10:14 PM,0:58,,,Morris REBOUND (Off:0 Def:2),,
+0020500461,456,1,42,4,10:14 PM,0:53,,,Nelson  Driving Layup (14 PTS),94 - 101,7
+0020500461,457,6,1,4,10:15 PM,0:40,,,Morris P.FOUL (P1.T4),,
+0020500461,458,6,1,4,10:15 PM,0:37,,,Turkoglu P.FOUL (P6.PN),,
+0020500461,459,8,0,4,10:16 PM,0:37,,,SUB: Francis FOR Turkoglu,,
+0020500461,460,3,11,4,10:16 PM,0:37,Carter Free Throw 1 of 2 (26 PTS),,,94 - 102,8
+0020500461,461,3,12,4,10:16 PM,0:37,Carter Free Throw 2 of 2 (27 PTS),,,94 - 103,9
+0020500461,462,6,2,4,10:17 PM,0:29,Krstic S.FOUL (P3.PN),,,,
+0020500461,463,3,11,4,10:17 PM,0:29,,,Howard Free Throw 1 of 2 (16 PTS),95 - 103,8
+0020500461,464,3,12,4,10:17 PM,0:29,,,Howard Free Throw 2 of 2 (17 PTS),96 - 103,7
+0020500461,465,6,1,4,10:17 PM,0:29,,,Garrity P.FOUL (P2.PN),,
+0020500461,466,3,11,4,10:18 PM,0:29,Kidd Free Throw 1 of 2 (15 PTS),,,96 - 104,8
+0020500461,467,3,12,4,10:18 PM,0:29,Kidd Free Throw 2 of 2 (16 PTS),,,96 - 105,9
+0020500461,468,1,42,4,10:18 PM,0:23,,,Nelson  Driving Layup (16 PTS),98 - 105,7
+0020500461,469,6,1,4,10:18 PM,0:22,,,Francis P.FOUL (P4.PN),,
+0020500461,470,3,11,4,10:19 PM,0:22,Vaughn Free Throw 1 of 2 (7 PTS),,,98 - 106,8
+0020500461,471,3,12,4,10:19 PM,0:22,Vaughn Free Throw 2 of 2 (8 PTS),,,98 - 107,9
+0020500461,472,1,42,4,10:19 PM,0:18,,,Francis  Driving Layup (12 PTS),100 - 107,7
+0020500461,473,6,1,4,10:19 PM,0:16,,,Nelson P.FOUL (P2.PN),,
+0020500461,474,3,11,4,10:20 PM,0:16,Vaughn Free Throw 1 of 2 (9 PTS),,,100 - 108,8
+0020500461,475,3,12,4,10:20 PM,0:16,Vaughn Free Throw 2 of 2 (10 PTS),,,100 - 109,9
+0020500461,476,5,1,4,10:20 PM,0:15,,,Nelson Bad Pass Turnover (P5.T21),,
+0020500461,477,5,1,4,10:20 PM,0:14,Kidd Bad Pass Turnover (P5.T15),,Garrity STEAL (2 STL),,
+0020500461,478,1,5,4,10:20 PM,0:12,,,Morris  Layup (2 PTS) (Garrity 3 AST),102 - 109,7
+0020500461,479,6,1,4,10:20 PM,0:12,,,Morris P.FOUL (P2.PN),,
+0020500461,480,3,11,4,10:21 PM,0:12,Carter Free Throw 1 of 2 (28 PTS),,,102 - 110,8
+0020500461,481,3,12,4,10:21 PM,0:12,Carter Free Throw 2 of 2 (29 PTS),,,102 - 111,9
+0020500461,482,2,1,4,10:21 PM,0:07,,,MISS Nelson 27' 3PT Jump Shot,,
+0020500461,483,4,0,4,10:21 PM,0:06,,,Howard REBOUND (Off:8 Def:6),,
+0020500461,484,1,5,4,10:21 PM,0:04,,,Howard  Layup (19 PTS),104 - 111,7
+0020500461,485,6,1,4,10:22 PM,0:04,,,Francis P.FOUL (P5.PN),,
+0020500461,486,3,11,4,10:22 PM,0:04,Carter Free Throw 1 of 2 (30 PTS),,,104 - 112,8
+0020500461,487,3,12,4,10:22 PM,0:04,Carter Free Throw 2 of 2 (31 PTS),,,104 - 113,9
+0020500461,488,1,42,4,10:22 PM,0:00,,,Nelson  Driving Layup (18 PTS),106 - 113,7
+0020500461,489,13,0,4,10:23 PM,0:00,,,,106 - 113,7

@@ -1,0 +1,401 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000821,0,12,0,1,2:14 PM,12:00,,,,,
+0020000821,1,10,0,1,2:14 PM,12:00,Jump Ball Abdur-Rahim vs. Nowitzki: Tip to Reeves,,,,
+0020000821,2,1,1,1,2:15 PM,11:42,Reeves 5' Jump Shot (2 PTS),,,0 - 2,2
+0020000821,3,1,41,1,2:15 PM,11:24,,,Nash 1' Running Layup (2 PTS),2 - 2,TIE
+0020000821,4,2,1,1,2:15 PM,11:10,MISS Dickerson 25' 3PT Jump Shot,,,,
+0020000821,5,4,0,1,2:15 PM,11:09,,,Mavericks Rebound,,
+0020000821,6,1,1,1,2:15 PM,10:55,,,Nash 6' Jump Shot (4 PTS),4 - 2,-2
+0020000821,7,1,5,1,2:16 PM,10:42,Abdur-Rahim 1' Layup (2 PTS) (Bibby 1 AST),,,4 - 4,TIE
+0020000821,8,6,2,1,2:16 PM,10:42,,,Buckner S.FOUL (P1.T1),,
+0020000821,9,3,10,1,2:16 PM,10:42,Abdur-Rahim Free Throw 1 of 1 (3 PTS),,,4 - 5,1
+0020000821,10,5,1,1,2:16 PM,10:26,,,Nash Bad Pass Turnover (P1.T1),,
+0020000821,11,5,1,1,2:17 PM,10:19,Bibby Bad Pass Turnover (P1.T1),,,,
+0020000821,12,1,47,1,2:17 PM,9:58,,,Howard 8' Turnaround Jump Shot (2 PTS),6 - 5,-1
+0020000821,13,6,1,1,2:17 PM,9:51,,,Finley P.FOUL (P1.T2),,
+0020000821,14,1,1,1,2:18 PM,9:42,Abdur-Rahim 4' Jump Shot (5 PTS) (Bibby 2 AST),,,6 - 7,1
+0020000821,15,2,1,1,2:18 PM,9:35,,,MISS Nash 5' Jump Shot,,
+0020000821,16,4,0,1,2:18 PM,9:33,Reeves REBOUND (Off:0 Def:1),,,,
+0020000821,17,2,5,1,2:18 PM,9:28,MISS Abdur-Rahim 2' Layup,,,,
+0020000821,18,4,0,1,2:18 PM,9:26,,,Nowitzki REBOUND (Off:0 Def:1),,
+0020000821,19,1,1,1,2:18 PM,9:20,,,Nowitzki 26' 3PT Jump Shot (3 PTS) (Finley 1 AST),9 - 7,-2
+0020000821,20,5,1,1,2:18 PM,9:05,Long Bad Pass Turnover (P1.T2),,Nowitzki STEAL (1 STL),,
+0020000821,21,2,1,1,2:18 PM,8:58,,,MISS Howard 12' Jump Shot,,
+0020000821,22,4,0,1,2:18 PM,8:57,Dickerson REBOUND (Off:0 Def:1),,,,
+0020000821,23,1,1,1,2:19 PM,8:47,Bibby 26' 3PT Jump Shot (3 PTS) (Abdur-Rahim 1 AST),,,9 - 10,1
+0020000821,24,1,1,1,2:19 PM,8:32,,,Nowitzki 26' 3PT Jump Shot (6 PTS) (Nash 1 AST),12 - 10,-2
+0020000821,25,6,2,1,2:19 PM,8:10,,,Nowitzki S.FOUL (P1.T3),,
+0020000821,26,3,11,1,2:20 PM,8:10,Reeves Free Throw 1 of 2 (3 PTS),,,12 - 11,-1
+0020000821,27,3,12,1,2:20 PM,8:10,Reeves Free Throw 2 of 2 (4 PTS),,,12 - 12,TIE
+0020000821,28,1,5,1,2:20 PM,7:53,,,Buckner  Layup (2 PTS) (Finley 2 AST),14 - 12,-2
+0020000821,29,2,1,1,2:20 PM,7:46,MISS Bibby 25' 3PT Jump Shot,,,,
+0020000821,30,4,0,1,2:20 PM,7:43,Abdur-Rahim REBOUND (Off:1 Def:0),,,,
+0020000821,31,2,5,1,2:20 PM,7:42,MISS Abdur-Rahim 2' Layup,,Nowitzki BLOCK (1 BLK),,
+0020000821,32,4,0,1,2:21 PM,7:39,,,Finley REBOUND (Off:0 Def:1),,
+0020000821,33,1,5,1,2:21 PM,7:27,,,Finley 6' Layup (2 PTS),16 - 12,-4
+0020000821,34,2,1,1,2:21 PM,7:08,MISS Dickerson 14' Jump Shot,,,,
+0020000821,35,4,0,1,2:21 PM,7:05,,,Nowitzki REBOUND (Off:0 Def:2),,
+0020000821,36,6,2,1,2:21 PM,7:01,Abdur-Rahim S.FOUL (P1.T1),,,,
+0020000821,37,3,11,1,2:22 PM,7:01,,,Nowitzki Free Throw 1 of 2 (7 PTS),17 - 12,-5
+0020000821,38,3,12,1,2:22 PM,7:01,,,Nowitzki Free Throw 2 of 2 (8 PTS),18 - 12,-6
+0020000821,39,1,1,1,2:22 PM,6:44,Dickerson 11' Jump Shot (2 PTS) (Long 1 AST),,,18 - 14,-4
+0020000821,40,2,5,1,2:22 PM,6:26,,,MISS Howard  Layup,,
+0020000821,41,4,0,1,2:22 PM,6:23,,,Howard REBOUND (Off:1 Def:0),,
+0020000821,42,1,5,1,2:23 PM,6:22,,,Howard 1' Layup (4 PTS),20 - 14,-6
+0020000821,43,2,1,1,2:23 PM,6:04,MISS Dickerson 20' Jump Shot,,,,
+0020000821,44,4,0,1,2:23 PM,6:03,,,Howard REBOUND (Off:1 Def:1),,
+0020000821,45,1,1,1,2:23 PM,5:51,,,Buckner 18' Jump Shot (4 PTS) (Nowitzki 1 AST),22 - 14,-8
+0020000821,46,9,1,1,2:23 PM,5:42,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,
+0020000821,50,5,1,1,2:26 PM,5:31,Bibby Bad Pass Turnover (P2.T3),,Buckner STEAL (1 STL),,
+0020000821,51,1,5,1,2:26 PM,5:27,,,Nowitzki  Layup (10 PTS) (Buckner 1 AST),24 - 14,-10
+0020000821,52,1,5,1,2:26 PM,5:11,Dickerson 1' Layup (4 PTS) (Bibby 3 AST),,,24 - 16,-8
+0020000821,53,6,1,1,2:27 PM,5:01,Reeves P.FOUL (P1.T2),,,,
+0020000821,54,6,4,1,2:27 PM,4:54,,,Howard OFF.Foul (P1),,
+0020000821,55,5,5,1,2:27 PM,4:54,,,Howard Foul Turnover (P1.T2),,
+0020000821,56,5,1,1,2:27 PM,4:47,Bibby Bad Pass Turnover (P3.T4),,Nash STEAL (1 STL),,
+0020000821,57,1,8,1,2:27 PM,4:42,,,Finley  Slam Dunk (4 PTS) (Nash 2 AST),26 - 16,-10
+0020000821,58,2,1,1,2:28 PM,4:22,MISS Abdur-Rahim 5' Jump Shot,,,,
+0020000821,59,4,0,1,2:28 PM,4:20,Long REBOUND (Off:1 Def:0),,,,
+0020000821,60,2,1,1,2:28 PM,4:12,MISS Long 13' Jump Shot,,,,
+0020000821,61,4,0,1,2:28 PM,4:11,Reeves REBOUND (Off:1 Def:1),,,,
+0020000821,62,1,40,1,2:28 PM,4:08,Reeves 3' Layup (6 PTS),,,26 - 18,-8
+0020000821,63,1,5,1,2:28 PM,3:55,,,Buckner 1' Layup (6 PTS) (Nowitzki 2 AST),28 - 18,-10
+0020000821,64,5,1,1,2:29 PM,3:35,Bibby Bad Pass Turnover (P4.T5),,Nowitzki STEAL (2 STL),,
+0020000821,65,1,7,1,2:29 PM,3:31,,,Finley 1' Dunk (6 PTS) (Nowitzki 3 AST),30 - 18,-12
+0020000821,66,2,1,1,2:29 PM,3:11,MISS Long 20' Jump Shot,,,,
+0020000821,67,4,0,1,2:29 PM,3:09,Abdur-Rahim REBOUND (Off:2 Def:0),,,,
+0020000821,68,1,5,1,2:29 PM,3:08,Abdur-Rahim  Layup (7 PTS),,,30 - 20,-10
+0020000821,69,1,1,1,2:29 PM,2:55,,,Finley 18' Jump Shot (8 PTS),32 - 20,-12
+0020000821,70,1,43,1,2:29 PM,2:42,Abdur-Rahim 1' Alley Oop Layup (9 PTS) (Reeves 1 AST),,,32 - 22,-10
+0020000821,71,6,1,1,2:30 PM,2:23,Bibby P.FOUL (P1.T3),,,,
+0020000821,72,9,1,1,2:30 PM,2:23,,,Mavericks Timeout: Regular (Reg.1 Short 0),,
+0020000821,75,8,0,1,2:32 PM,2:23,SUB: Strickland FOR Long,,,,
+0020000821,76,1,1,1,2:33 PM,2:09,,,Finley 19' Jump Shot (10 PTS),34 - 22,-12
+0020000821,77,5,1,1,2:33 PM,1:57,Reeves Bad Pass Turnover (P1.T6),,Nash STEAL (2 STL),,
+0020000821,78,1,1,1,2:33 PM,1:51,,,Nowitzki 26' 3PT Jump Shot (13 PTS) (Nash 3 AST),37 - 22,-15
+0020000821,79,2,1,1,2:33 PM,1:26,MISS Bibby 7' Jump Shot,,,,
+0020000821,80,4,0,1,2:33 PM,1:26,Bibby REBOUND (Off:1 Def:0),,,,
+0020000821,81,5,1,1,2:33 PM,1:26,Bibby Bad Pass Turnover (P5.T7),,,,
+0020000821,82,1,1,1,2:34 PM,1:07,,,Howard 14' Jump Shot (6 PTS) (Finley 3 AST),39 - 22,-17
+0020000821,83,5,4,1,2:34 PM,0:54,Reeves Traveling Turnover (P2.T8),,,,
+0020000821,84,8,0,1,2:34 PM,0:54,SUB: Massenburg FOR Reeves,,,,
+0020000821,85,1,1,1,2:35 PM,0:35,,,Howard 8' Jump Shot (8 PTS) (Nash 4 AST),41 - 22,-19
+0020000821,86,2,1,1,2:35 PM,0:23,MISS Strickland  3PT Jump Shot,,,,
+0020000821,87,4,0,1,2:35 PM,0:22,GRIZZLIES Rebound,,,,
+0020000821,88,6,3,1,2:35 PM,0:22,,,Nash L.B.FOUL (P1.T4),,
+0020000821,89,8,0,1,2:35 PM,0:22,,,SUB: Eisley FOR Nash,,
+0020000821,90,1,1,1,2:36 PM,0:03,Abdur-Rahim 17' Jump Shot (11 PTS) (Strickland 1 AST),,,41 - 24,-17
+0020000821,91,2,1,1,2:36 PM,0:00,,,MISS Buckner 13' Jump Shot,,
+0020000821,92,4,0,1,2:36 PM,0:00,,,Mavericks Rebound,,
+0020000821,93,13,0,1,2:36 PM,0:00,,,,41 - 24,-17
+0020000821,95,12,0,2,2:39 PM,12:00,,,,41 - 24,-17
+0020000821,96,2,1,2,2:39 PM,11:42,,,MISS Howard 9' Jump Shot,,
+0020000821,97,4,0,2,2:39 PM,11:40,Abdur-Rahim REBOUND (Off:2 Def:1),,,,
+0020000821,98,6,2,2,2:40 PM,11:27,,,Howard S.FOUL (P2.T1),,
+0020000821,99,3,11,2,2:40 PM,11:27,Abdur-Rahim Free Throw 1 of 2 (12 PTS),,,41 - 25,-16
+0020000821,100,3,12,2,2:40 PM,11:27,Abdur-Rahim Free Throw 2 of 2 (13 PTS),,,41 - 26,-15
+0020000821,101,2,5,2,2:40 PM,11:09,,,MISS Buckner  Layup,,
+0020000821,102,4,0,2,2:40 PM,11:07,Massenburg REBOUND (Off:0 Def:1),,,,
+0020000821,103,2,5,2,2:41 PM,11:02,MISS Strickland 1' Layup,,Nowitzki BLOCK (2 BLK),,
+0020000821,104,4,0,2,2:41 PM,11:02,GRIZZLIES Rebound,,,,
+0020000821,106,8,0,2,2:41 PM,11:02,SUB: Jones FOR Dickerson,,,,
+0020000821,107,1,5,2,2:41 PM,10:47,Massenburg 2' Layup (2 PTS) (Jones 1 AST),,,41 - 28,-13
+0020000821,108,1,1,2,2:41 PM,10:32,,,Nowitzki  3PT Jump Shot (16 PTS) (Finley 4 AST),44 - 28,-16
+0020000821,109,1,1,2,2:42 PM,10:14,Abdur-Rahim 14' Jump Shot (15 PTS) (Jones 2 AST),,,44 - 30,-14
+0020000821,110,2,1,2,2:42 PM,9:57,,,MISS Nowitzki  3PT Jump Shot,,
+0020000821,111,4,0,2,2:42 PM,9:54,,,Howard REBOUND (Off:2 Def:1),,
+0020000821,112,2,1,2,2:42 PM,9:37,,,MISS Nowitzki 18' Jump Shot,,
+0020000821,113,4,0,2,2:42 PM,9:34,Abdul-Rauf REBOUND (Off:0 Def:1),,,,
+0020000821,114,1,7,2,2:43 PM,9:20,Abdur-Rahim  Dunk (17 PTS) (Abdul-Rauf 1 AST),,,44 - 32,-12
+0020000821,115,6,1,2,2:43 PM,9:10,Jones P.FOUL (P1.T1),,,,
+0020000821,116,8,0,2,2:43 PM,9:10,,,SUB: Najera FOR Buckner,,
+0020000821,117,8,0,2,2:43 PM,9:10,,,SUB: Bradley FOR Howard,,
+0020000821,118,5,2,2,2:43 PM,8:57,Abdur-Rahim STEAL (1 STL),,Najera Lost Ball Turnover (P1.T3),,
+0020000821,119,1,5,2,2:43 PM,8:52,Abdur-Rahim 1' Layup (19 PTS) (Abdul-Rauf 2 AST),,,44 - 34,-10
+0020000821,120,6,2,2,2:43 PM,8:52,,,Finley S.FOUL (P2.T2),,
+0020000821,121,9,4,2,2:44 PM,8:52,,,,,
+0020000821,125,3,10,2,2:46 PM,8:52,Abdur-Rahim Free Throw 1 of 1 (20 PTS),,,44 - 35,-9
+0020000821,126,1,41,2,2:47 PM,8:38,,,Finley  Running Layup (12 PTS),46 - 35,-11
+0020000821,127,1,1,2,2:47 PM,8:13,Abdul-Rauf 22' Jump Shot (2 PTS),,,46 - 37,-9
+0020000821,128,1,8,2,2:48 PM,7:58,,,Bradley 1' Slam Dunk (2 PTS) (Finley 5 AST),48 - 37,-11
+0020000821,129,1,1,2,2:48 PM,7:41,Abdul-Rauf 19' Jump Shot (4 PTS),,,48 - 39,-9
+0020000821,130,6,1,2,2:48 PM,7:19,Strickland P.FOUL (P1.T2),,,,
+0020000821,131,8,0,2,2:48 PM,7:19,,,SUB: Nash FOR Finley,,
+0020000821,132,2,1,2,2:49 PM,7:06,,,MISS Eisley 19' Jump Shot,,
+0020000821,133,4,0,2,2:49 PM,7:01,Massenburg REBOUND (Off:0 Def:2),,,,
+0020000821,134,1,1,2,2:49 PM,6:54,Abdul-Rauf 23' Jump Shot (6 PTS) (Strickland 2 AST),,,48 - 41,-7
+0020000821,135,2,5,2,2:49 PM,6:36,,,MISS Nash 2' Layup,,
+0020000821,136,4,0,2,2:49 PM,6:34,Abdur-Rahim REBOUND (Off:2 Def:2),,,,
+0020000821,137,1,1,2,2:49 PM,6:29,Jones  3PT Jump Shot (3 PTS) (Abdul-Rauf 3 AST),,,48 - 44,-4
+0020000821,138,9,1,2,2:50 PM,6:26,,,Mavericks Timeout: Regular (Reg.2 Short 0),,
+0020000821,140,8,0,2,2:52 PM,6:26,,,SUB: Howard FOR Nowitzki,,
+0020000821,142,2,1,2,2:52 PM,6:13,,,MISS Nash 8' Jump Shot,,
+0020000821,143,4,0,2,2:52 PM,6:10,Jones REBOUND (Off:0 Def:1),,,,
+0020000821,144,2,1,2,2:52 PM,6:06,MISS Strickland 19' Jump Shot,,,,
+0020000821,145,4,0,2,2:52 PM,6:04,,,Bradley REBOUND (Off:0 Def:1),,
+0020000821,146,1,1,2,2:53 PM,5:57,,,Eisley 25' 3PT Jump Shot (3 PTS) (Nash 5 AST),51 - 44,-7
+0020000821,147,2,1,2,2:53 PM,5:42,MISS Abdul-Rauf 11' Jump Shot,,,,
+0020000821,148,4,0,2,2:53 PM,5:40,,,Najera REBOUND (Off:0 Def:1),,
+0020000821,149,1,1,2,2:53 PM,5:30,,,Howard 5' Jump Shot (10 PTS) (Nash 6 AST),53 - 44,-9
+0020000821,150,5,2,2,2:53 PM,5:13,Abdur-Rahim Lost Ball Turnover (P1.T9),,Najera STEAL (1 STL),,
+0020000821,151,5,1,2,2:53 PM,5:08,,,Nash Bad Pass Turnover (P2.T4),,
+0020000821,152,8,0,2,2:53 PM,5:08,SUB: Swift FOR Massenburg,,,,
+0020000821,153,6,1,2,2:54 PM,4:54,,,Najera P.FOUL (P1.T3),,
+0020000821,154,8,0,2,2:54 PM,4:54,SUB: Bibby FOR Abdul-Rauf,,,,
+0020000821,155,1,1,2,2:54 PM,4:39,Bibby  3PT Jump Shot (6 PTS) (Jones 3 AST),,,53 - 47,-6
+0020000821,156,2,1,2,2:55 PM,4:27,,,MISS Howard 9' Jump Shot,,
+0020000821,157,4,0,2,2:55 PM,4:24,Strickland REBOUND (Off:0 Def:1),,,,
+0020000821,158,6,2,2,2:55 PM,4:21,,,Bradley S.FOUL (P1.T4),,
+0020000821,159,3,11,2,2:55 PM,4:21,MISS Strickland Free Throw 1 of 2,,,,
+0020000821,160,4,1,2,2:55 PM,4:21,GRIZZLIES Rebound,,,,
+0020000821,161,3,12,2,2:55 PM,4:21,Strickland Free Throw 2 of 2 (1 PTS),,,53 - 48,-5
+0020000821,162,2,1,2,2:56 PM,3:58,,,MISS Bradley 15' Jump Shot,,
+0020000821,163,4,0,2,2:56 PM,3:56,GRIZZLIES Rebound,,,,
+0020000821,164,6,3,2,2:56 PM,3:56,,,Nash L.B.FOUL (P2.PN),,
+0020000821,165,9,2,2,2:56 PM,3:56,GRIZZLIES Timeout: Short (Full 1 Short 1),,,,
+0020000821,167,8,0,2,2:57 PM,3:56,,,SUB: Nowitzki FOR Bradley,,
+0020000821,168,3,11,2,2:57 PM,3:56,MISS Jones Free Throw 1 of 2,,,,
+0020000821,169,4,1,2,2:57 PM,3:56,GRIZZLIES Rebound,,,,
+0020000821,170,3,12,2,2:58 PM,3:56,Jones Free Throw 2 of 2 (4 PTS),,,53 - 49,-4
+0020000821,171,2,1,2,2:58 PM,3:41,,,MISS Eisley 17' Jump Shot,,
+0020000821,172,4,0,2,2:58 PM,3:39,,,Najera REBOUND (Off:1 Def:1),,
+0020000821,173,1,5,2,2:58 PM,3:38,,,Najera 1' Layup (2 PTS),55 - 49,-6
+0020000821,174,5,1,2,2:58 PM,3:24,Bibby Bad Pass Turnover (P6.T10),,Howard STEAL (1 STL),,
+0020000821,175,1,5,2,2:58 PM,3:19,,,Nowitzki 2' Layup (18 PTS) (Eisley 1 AST),57 - 49,-8
+0020000821,176,1,1,2,2:59 PM,3:00,Abdur-Rahim 20' Jump Shot (22 PTS) (Strickland 3 AST),,,57 - 51,-6
+0020000821,177,5,1,2,2:59 PM,2:45,Swift STEAL (1 STL),,Eisley Bad Pass Turnover (P1.T5),,
+0020000821,178,2,1,2,2:59 PM,2:38,MISS Bibby 25' 3PT Jump Shot,,,,
+0020000821,179,4,0,2,2:59 PM,2:37,GRIZZLIES Rebound,,,,
+0020000821,180,6,3,2,2:59 PM,2:37,,,Nash L.B.FOUL (P3.PN),,
+0020000821,181,9,1,2,2:59 PM,2:37,GRIZZLIES Timeout: Regular (Full 2 Short 1),,,,
+0020000821,183,8,0,2,3:01 PM,2:37,,,SUB: Finley FOR Nash,,
+0020000821,184,8,0,2,3:02 PM,2:37,SUB: Dickerson FOR Jones,,,,
+0020000821,185,3,11,2,3:02 PM,2:37,Abdur-Rahim Free Throw 1 of 2 (23 PTS),,,57 - 52,-5
+0020000821,186,3,12,2,3:02 PM,2:37,MISS Abdur-Rahim Free Throw 2 of 2,,,,
+0020000821,187,4,0,2,3:02 PM,2:35,,,Nowitzki REBOUND (Off:0 Def:3),,
+0020000821,189,7,3,2,3:02 PM,2:21,Swift Violation:Lane,,,,
+0020000821,188,1,1,2,3:02 PM,2:21,,,Howard 4' Jump Shot (12 PTS),59 - 52,-7
+0020000821,190,2,1,2,3:03 PM,2:05,MISS Swift 6' Jump Shot,,,,
+0020000821,191,4,0,2,3:03 PM,2:03,,,Finley REBOUND (Off:0 Def:2),,
+0020000821,192,2,5,2,3:03 PM,1:56,,,MISS Howard  Layup,,
+0020000821,193,4,0,2,3:03 PM,1:53,Swift REBOUND (Off:0 Def:1),,,,
+0020000821,194,1,1,2,3:03 PM,1:39,Abdur-Rahim 25' 3PT Jump Shot (26 PTS) (Bibby 4 AST),,,59 - 55,-4
+0020000821,195,2,5,2,3:03 PM,1:18,Abdur-Rahim BLOCK (1 BLK),,MISS Eisley 2' Layup,,
+0020000821,196,4,0,2,3:03 PM,1:15,Abdur-Rahim REBOUND (Off:2 Def:3),,,,
+0020000821,197,2,1,2,3:03 PM,1:10,MISS Strickland 25' 3PT Jump Shot,,,,
+0020000821,198,4,0,2,3:04 PM,1:08,Abdur-Rahim REBOUND (Off:3 Def:3),,,,
+0020000821,199,5,1,2,3:04 PM,1:05,Strickland Bad Pass Turnover (P1.T11),,Nowitzki STEAL (3 STL),,
+0020000821,200,5,1,2,3:04 PM,1:01,Abdur-Rahim STEAL (2 STL),,Nowitzki Bad Pass Turnover (P1.T6),,
+0020000821,201,2,1,2,3:04 PM,0:48,MISS Bibby 24' 3PT Jump Shot,,,,
+0020000821,202,4,0,2,3:04 PM,0:46,,,Nowitzki REBOUND (Off:0 Def:4),,
+0020000821,203,1,1,2,3:04 PM,0:41,,,Nowitzki 13' Jump Shot (20 PTS),61 - 55,-6
+0020000821,204,5,4,2,3:05 PM,0:34,Strickland Traveling Turnover (P2.T12),,,,
+0020000821,205,1,1,2,3:05 PM,0:26,,,Finley 21' Jump Shot (14 PTS),63 - 55,-8
+0020000821,206,1,8,2,3:05 PM,0:10,Swift 1' Slam Dunk (2 PTS),,,63 - 57,-6
+0020000821,207,6,1,2,3:05 PM,0:05,Dickerson P.FOUL (P1.T3),,,,
+0020000821,208,1,8,2,3:06 PM,0:01,,,Howard 1' Slam Dunk (14 PTS),65 - 57,-8
+0020000821,209,2,1,2,3:06 PM,0:00,MISS Swift 36' 3PT Jump Shot,,,,
+0020000821,210,4,0,2,3:06 PM,0:00,GRIZZLIES Rebound,,,,
+0020000821,211,13,0,2,3:06 PM,0:00,,,,65 - 57,-8
+0020000821,213,12,0,3,3:23 PM,12:00,,,,65 - 57,-8
+0020000821,214,2,1,3,3:23 PM,11:38,,,MISS Nash 19' Jump Shot,,
+0020000821,215,4,0,3,3:23 PM,11:38,Long REBOUND (Off:1 Def:1),,,,
+0020000821,216,6,3,3,3:23 PM,11:38,,,Buckner L.B.FOUL (P2.T1),,
+0020000821,217,5,4,3,3:24 PM,11:29,Bibby Traveling Turnover (P7.T13),,,,
+0020000821,218,2,1,3,3:24 PM,11:17,,,MISS Finley 7' Jump Shot,,
+0020000821,219,4,0,3,3:24 PM,11:15,Long REBOUND (Off:1 Def:2),,,,
+0020000821,220,1,1,3,3:24 PM,11:01,Reeves 17' Jump Shot (8 PTS) (Abdur-Rahim 2 AST),,,65 - 59,-6
+0020000821,221,5,2,3,3:25 PM,10:44,Dickerson STEAL (1 STL),,Finley Lost Ball Turnover (P1.T7),,
+0020000821,222,2,1,3,3:25 PM,10:31,MISS Abdur-Rahim 18' Jump Shot,,,,
+0020000821,223,4,0,3,3:25 PM,10:29,Bibby REBOUND (Off:2 Def:0),,,,
+0020000821,224,1,1,3,3:25 PM,10:15,Dickerson 25' 3PT Jump Shot (7 PTS) (Bibby 5 AST),,,65 - 62,-3
+0020000821,225,2,1,3,3:25 PM,9:56,,,MISS Bradley 8' Jump Shot,,
+0020000821,226,4,0,3,3:25 PM,9:52,Abdur-Rahim REBOUND (Off:3 Def:4),,,,
+0020000821,227,5,1,3,3:26 PM,9:39,Bibby Bad Pass Turnover (P8.T14),,Finley STEAL (1 STL),,
+0020000821,228,1,1,3,3:26 PM,9:26,,,Buckner 10' Jump Shot (8 PTS) (Finley 6 AST),67 - 62,-5
+0020000821,229,2,1,3,3:27 PM,9:03,MISS Bibby 19' Jump Shot,,,,
+0020000821,230,4,0,3,3:27 PM,9:01,,,Bradley REBOUND (Off:0 Def:2),,
+0020000821,233,7,3,3,3:27 PM,8:58,Dickerson Violation:Lane,,,,
+0020000821,231,1,5,3,3:27 PM,8:58,,,Nash 2' Layup (6 PTS) (Howard 1 AST),69 - 62,-7
+0020000821,234,6,4,3,3:27 PM,8:46,Dickerson OFF.Foul (P2),,,,
+0020000821,235,5,5,3,3:27 PM,8:46,Dickerson Foul Turnover (P1.T15),,,,
+0020000821,236,2,1,3,3:28 PM,8:30,,,MISS Finley 17' Jump Shot,,
+0020000821,237,4,0,3,3:28 PM,8:27,Long REBOUND (Off:1 Def:3),,,,
+0020000821,238,1,5,3,3:28 PM,8:21,Dickerson 1' Layup (9 PTS) (Long 2 AST),,,69 - 64,-5
+0020000821,239,2,1,3,3:28 PM,8:04,,,MISS Nash 25' 3PT Jump Shot,,
+0020000821,240,4,0,3,3:28 PM,8:02,Bibby REBOUND (Off:2 Def:1),,,,
+0020000821,241,1,7,3,3:28 PM,7:59,Abdur-Rahim 2' Dunk (28 PTS) (Bibby 6 AST),,,69 - 66,-3
+0020000821,242,9,1,3,3:28 PM,7:58,,,Mavericks Timeout: Regular (Reg.3 Short 0),,
+0020000821,245,8,0,3,3:30 PM,7:58,,,SUB: Najera FOR Bradley,,
+0020000821,246,2,1,3,3:31 PM,7:36,,,MISS Howard 14' Jump Shot,,
+0020000821,247,4,0,3,3:31 PM,7:34,Long REBOUND (Off:1 Def:4),,,,
+0020000821,248,1,5,3,3:31 PM,7:26,Reeves 1' Layup (10 PTS) (Abdur-Rahim 3 AST),,,69 - 68,-1
+0020000821,249,2,1,3,3:31 PM,7:08,,,MISS Najera 15' Jump Shot,,
+0020000821,250,4,0,3,3:31 PM,7:06,Reeves REBOUND (Off:1 Def:2),,,,
+0020000821,251,5,2,3,3:31 PM,6:57,Abdur-Rahim Lost Ball Turnover (P2.T16),,Najera STEAL (2 STL),,
+0020000821,252,2,1,3,3:31 PM,6:52,,,MISS Buckner 10' Jump Shot,,
+0020000821,253,4,0,3,3:32 PM,6:50,Dickerson REBOUND (Off:0 Def:2),,,,
+0020000821,254,6,1,3,3:32 PM,6:45,,,Howard P.FOUL (P3.T2),,
+0020000821,255,8,0,3,3:32 PM,6:45,,,SUB: Nowitzki FOR Buckner,,
+0020000821,256,1,1,3,3:32 PM,6:28,Reeves 6' Jump Shot (12 PTS) (Long 3 AST),,,69 - 70,1
+0020000821,257,6,1,3,3:32 PM,6:17,Dickerson P.FOUL (P3.T1),,,,
+0020000821,258,1,1,3,3:33 PM,6:10,,,Nash 17' Jump Shot (8 PTS),71 - 70,-1
+0020000821,259,6,1,3,3:33 PM,5:57,,,Nowitzki P.FOUL (P2.T3),,
+0020000821,260,1,1,3,3:34 PM,5:48,Reeves 14' Jump Shot (14 PTS) (Dickerson 1 AST),,,71 - 72,1
+0020000821,261,1,1,3,3:34 PM,5:25,,,Nash 17' Jump Shot (10 PTS),73 - 72,-1
+0020000821,262,2,1,3,3:34 PM,5:04,MISS Reeves 17' Jump Shot,,,,
+0020000821,263,4,0,3,3:34 PM,5:02,,,Howard REBOUND (Off:2 Def:2),,
+0020000821,264,1,46,3,3:34 PM,4:56,,,Nowitzki 7' Running Jump Shot (22 PTS) (Finley 7 AST),75 - 72,-3
+0020000821,265,2,1,3,3:35 PM,4:37,MISS Dickerson 21' Jump Shot,,,,
+0020000821,266,4,0,3,3:35 PM,4:32,,,Najera REBOUND (Off:1 Def:2),,
+0020000821,267,1,5,3,3:35 PM,4:28,,,Nash 1' Layup (12 PTS),77 - 72,-5
+0020000821,268,9,1,3,3:35 PM,4:26,GRIZZLIES Timeout: Regular (Full 3 Short 1),,,,
+0020000821,272,1,1,3,3:38 PM,4:07,Dickerson 15' Jump Shot (11 PTS) (Abdur-Rahim 4 AST),,,77 - 74,-3
+0020000821,273,5,1,3,3:38 PM,3:49,,,Nash Bad Pass Turnover (P3.T8),,
+0020000821,274,6,4,3,3:39 PM,3:39,Abdur-Rahim OFF.Foul (P2),,,,
+0020000821,275,5,5,3,3:39 PM,3:39,Abdur-Rahim Foul Turnover (P3.T17),,,,
+0020000821,276,1,8,3,3:39 PM,3:26,,,Najera 1' Slam Dunk (4 PTS) (Finley 8 AST),79 - 74,-5
+0020000821,277,6,4,3,3:39 PM,3:13,Dickerson OFF.Foul (P4),,,,
+0020000821,278,5,5,3,3:39 PM,3:13,Dickerson Foul Turnover (P2.T18),,,,
+0020000821,279,6,4,3,3:40 PM,3:01,,,Howard OFF.Foul (P4),,
+0020000821,280,5,5,3,3:40 PM,3:01,,,Howard Foul Turnover (P2.T9),,
+0020000821,281,8,0,3,3:40 PM,3:01,SUB: Strickland FOR Dickerson,,,,
+0020000821,282,1,1,3,3:40 PM,2:44,Long 22' Jump Shot (2 PTS) (Bibby 7 AST),,,79 - 76,-3
+0020000821,283,1,41,3,3:40 PM,2:34,,,Nash 5' Running Layup (14 PTS),81 - 76,-5
+0020000821,284,2,1,3,3:40 PM,2:25,MISS Reeves 14' Jump Shot,,,,
+0020000821,285,4,0,3,3:40 PM,2:23,,,Nowitzki REBOUND (Off:0 Def:5),,
+0020000821,286,1,5,3,3:41 PM,2:16,,,Howard 2' Layup (16 PTS) (Finley 9 AST),83 - 76,-7
+0020000821,287,6,2,3,3:41 PM,2:16,Abdur-Rahim S.FOUL (P3.T2),,,,
+0020000821,288,8,0,3,3:41 PM,2:16,SUB: Swift FOR Reeves,,,,
+0020000821,289,3,10,3,3:41 PM,2:16,,,MISS Howard Free Throw 1 of 1,,
+0020000821,290,4,0,3,3:42 PM,2:14,Long REBOUND (Off:1 Def:5),,,,
+0020000821,291,2,1,3,3:42 PM,1:55,MISS Strickland 9' Jump Shot,,,,
+0020000821,292,4,0,3,3:42 PM,1:53,Strickland REBOUND (Off:1 Def:1),,,,
+0020000821,293,2,5,3,3:42 PM,1:51,MISS Strickland 1' Layup,,Najera BLOCK (1 BLK),,
+0020000821,294,4,0,3,3:42 PM,1:48,,,Nash REBOUND (Off:0 Def:1),,
+0020000821,295,5,1,3,3:42 PM,1:48,,,Nash Bad Pass Turnover (P4.T10),,
+0020000821,296,2,1,3,3:43 PM,1:23,MISS Strickland 26' 3PT Jump Shot,,,,
+0020000821,297,4,0,3,3:43 PM,1:22,GRIZZLIES Rebound,,,,
+0020000821,298,5,11,3,3:43 PM,1:22,GRIZZLIES Turnover: Shot Clock (T#19),,,,
+0020000821,299,6,1,3,3:43 PM,1:12,Swift P.FOUL (P1.T3),,,,
+0020000821,300,1,47,3,3:44 PM,1:05,,,Howard 12' Turnaround Jump Shot (18 PTS),85 - 76,-9
+0020000821,301,1,1,3,3:44 PM,0:49,Abdur-Rahim 12' Jump Shot (30 PTS),,,85 - 78,-7
+0020000821,302,2,1,3,3:44 PM,0:37,,,MISS Nowitzki 17' Jump Shot,,
+0020000821,303,4,0,3,3:44 PM,0:36,,,Mavericks Rebound,,
+0020000821,304,1,7,3,3:45 PM,0:28,,,Najera 1' Dunk (6 PTS) (Howard 2 AST),87 - 78,-9
+0020000821,305,1,5,3,3:45 PM,0:04,Swift 1' Layup (4 PTS) (Long 4 AST),,,87 - 80,-7
+0020000821,306,5,1,3,3:45 PM,0:02,Strickland STEAL (1 STL),,Nowitzki Bad Pass Turnover (P2.T11),,
+0020000821,307,1,1,3,3:45 PM,0:00,Bibby 26' 3PT Jump Shot (9 PTS) (Strickland 4 AST),,,87 - 83,-4
+0020000821,308,13,0,3,3:46 PM,0:00,,,,87 - 83,-4
+0020000821,310,12,0,4,3:49 PM,12:00,,,,87 - 83,-4
+0020000821,311,1,1,4,3:49 PM,11:41,Abdur-Rahim 25' 3PT Jump Shot (33 PTS) (Bibby 8 AST),,,87 - 86,-1
+0020000821,312,5,1,4,3:49 PM,11:25,Abdur-Rahim STEAL (3 STL),,Nowitzki Bad Pass Turnover (P3.T12),,
+0020000821,313,1,5,4,3:50 PM,11:21,Strickland 1' Layup (3 PTS),,,87 - 88,1
+0020000821,314,1,1,4,3:50 PM,10:59,,,Eisley 26' 3PT Jump Shot (6 PTS) (Finley 10 AST),90 - 88,-2
+0020000821,315,1,1,4,3:50 PM,10:42,Bibby 21' Jump Shot (11 PTS) (Abdur-Rahim 5 AST),,,90 - 90,TIE
+0020000821,316,2,5,4,3:51 PM,10:20,,,MISS Bradley 3' Layup,,
+0020000821,317,4,0,4,3:51 PM,10:20,Long REBOUND (Off:1 Def:6),,,,
+0020000821,318,6,3,4,3:51 PM,10:20,,,Buckner L.B.FOUL (P3.T1),,
+0020000821,330,8,0,4,3:51 PM,10:20,SUB: Jones FOR Strickland,,,,
+0020000821,319,5,2,4,3:51 PM,10:03,Swift Lost Ball Turnover (P1.T20),,Eisley STEAL (1 STL),,
+0020000821,320,1,1,4,3:52 PM,9:55,,,Buckner 5' Jump Shot (10 PTS) (Finley 11 AST),92 - 90,-2
+0020000821,321,1,41,4,3:52 PM,9:37,Bibby 4' Running Layup (13 PTS),,,92 - 92,TIE
+0020000821,322,6,1,4,3:52 PM,9:14,Long P.FOUL (P1.T1),,,,
+0020000821,323,8,0,4,3:52 PM,9:14,SUB: Abdul-Rauf FOR Bibby,,,,
+0020000821,324,1,1,4,3:53 PM,9:06,,,Finley 5' Jump Shot (16 PTS) (Nowitzki 4 AST),94 - 92,-2
+0020000821,325,2,1,4,3:53 PM,8:49,MISS Jones  3PT Jump Shot,,,,
+0020000821,326,4,0,4,3:53 PM,8:45,,,Buckner REBOUND (Off:0 Def:1),,
+0020000821,327,2,1,4,3:53 PM,8:32,,,MISS Finley 6' Jump Shot,,
+0020000821,328,4,0,4,3:53 PM,8:28,Jones REBOUND (Off:0 Def:2),,,,
+0020000821,329,1,1,4,3:54 PM,8:13,Abdur-Rahim 3' Jump Shot (35 PTS),,,94 - 94,TIE
+0020000821,331,2,1,4,3:54 PM,8:00,,,MISS Nowitzki 26' 3PT Jump Shot,,
+0020000821,332,4,0,4,3:54 PM,7:58,Swift REBOUND (Off:0 Def:2),,,,
+0020000821,333,5,2,4,3:54 PM,7:53,Abdul-Rauf Lost Ball Turnover (P1.T21),,Eisley STEAL (2 STL),,
+0020000821,334,2,1,4,3:54 PM,7:38,,,MISS Finley 4' Jump Shot,,
+0020000821,335,4,0,4,3:54 PM,7:36,Swift REBOUND (Off:0 Def:3),,,,
+0020000821,336,2,1,4,3:54 PM,7:23,MISS Abdul-Rauf 15' Jump Shot,,,,
+0020000821,337,4,0,4,3:55 PM,7:20,,,Bradley REBOUND (Off:0 Def:3),,
+0020000821,338,2,1,4,3:55 PM,7:06,,,MISS Eisley 17' Jump Shot,,
+0020000821,339,4,0,4,3:55 PM,7:04,Jones REBOUND (Off:0 Def:3),,,,
+0020000821,340,5,1,4,3:55 PM,6:55,Jones Bad Pass Turnover (P1.T22),,Bradley STEAL (1 STL),,
+0020000821,341,1,5,4,3:55 PM,6:51,,,Nowitzki 1' Layup (24 PTS),96 - 94,-2
+0020000821,342,9,1,4,3:55 PM,6:47,GRIZZLIES Timeout: Regular (Full 4 Short 1),,,,
+0020000821,344,8,0,4,3:58 PM,6:47,,,SUB: Nash FOR Finley,,
+0020000821,345,8,0,4,3:58 PM,6:47,SUB: Dickerson FOR Abdul-Rauf,,,,
+0020000821,346,8,0,4,3:58 PM,6:47,SUB: Bibby FOR Jones,,,,
+0020000821,347,7,2,4,3:58 PM,6:34,,,Bradley Violation:Defensive Goaltending,,
+0020000821,348,1,1,4,3:59 PM,6:19,Bibby 25' 3PT Jump Shot (16 PTS),,,96 - 97,1
+0020000821,349,6,2,4,3:59 PM,5:59,Bibby S.FOUL (P2.T2),,,,
+0020000821,350,9,4,4,3:59 PM,5:59,,,,,
+0020000821,354,3,11,4,4:01 PM,5:59,,,MISS Eisley Free Throw 1 of 2,,
+0020000821,355,4,1,4,4:01 PM,5:59,,,Mavericks Rebound,,
+0020000821,356,3,12,4,4:02 PM,5:59,,,Eisley Free Throw 2 of 2 (7 PTS),97 - 97,TIE
+0020000821,358,6,17,4,4:02 PM,5:46,,,Mavericks T.Foul (Def. 3 Sec Bradley ),,
+0020000821,359,3,16,4,4:03 PM,5:46,Abdur-Rahim Free Throw Technical (36 PTS),,,97 - 98,1
+0020000821,360,8,0,4,4:03 PM,5:46,,,SUB: Finley FOR Buckner,,
+0020000821,361,8,0,4,4:03 PM,5:46,,,SUB: Howard FOR Bradley,,
+0020000821,362,6,1,4,4:03 PM,5:35,,,Eisley P.FOUL (P1.T2),,
+0020000821,363,1,41,4,4:04 PM,5:23,Bibby 1' Running Layup (18 PTS),,,97 - 100,3
+0020000821,364,6,2,4,4:05 PM,4:59,Long S.FOUL (P2.T3),,,,
+0020000821,365,3,13,4,4:05 PM,4:59,,,Nowitzki Free Throw 1 of 3 (25 PTS),98 - 100,2
+0020000821,366,3,14,4,4:05 PM,4:59,,,Nowitzki Free Throw 2 of 3 (26 PTS),99 - 100,1
+0020000821,367,8,0,4,4:05 PM,4:59,,,SUB: Bradley FOR Eisley,,
+0020000821,368,3,15,4,4:05 PM,4:59,,,Nowitzki Free Throw 3 of 3 (27 PTS),100 - 100,TIE
+0020000821,369,2,1,4,4:06 PM,4:44,MISS Abdur-Rahim 5' Jump Shot,,,,
+0020000821,370,4,0,4,4:06 PM,4:42,,,Nash REBOUND (Off:0 Def:2),,
+0020000821,371,6,2,4,4:06 PM,4:39,Long S.FOUL (P3.T4),,,,
+0020000821,372,3,11,4,4:06 PM,4:39,,,Nowitzki Free Throw 1 of 2 (28 PTS),101 - 100,-1
+0020000821,373,3,12,4,4:06 PM,4:39,,,Nowitzki Free Throw 2 of 2 (29 PTS),102 - 100,-2
+0020000821,374,1,1,4,4:07 PM,4:23,Bibby 23' Jump Shot (20 PTS),,,102 - 102,TIE
+0020000821,375,6,2,4,4:07 PM,4:04,Abdur-Rahim S.FOUL (P4.PN),,,,
+0020000821,376,3,11,4,4:07 PM,4:04,,,MISS Howard Free Throw 1 of 2,,
+0020000821,377,4,1,4,4:07 PM,4:04,,,Mavericks Rebound,,
+0020000821,378,3,12,4,4:08 PM,4:04,,,MISS Howard Free Throw 2 of 2,,
+0020000821,379,4,0,4,4:08 PM,4:03,Swift REBOUND (Off:0 Def:4),,,,
+0020000821,380,2,1,4,4:09 PM,3:41,MISS Abdur-Rahim 14' Jump Shot,,,,
+0020000821,381,4,0,4,4:09 PM,3:39,,,Nash REBOUND (Off:0 Def:3),,
+0020000821,382,6,1,4,4:09 PM,3:27,Swift P.FOUL (P2.PN),,,,
+0020000821,383,3,11,4,4:09 PM,3:27,,,Nash Free Throw 1 of 2 (15 PTS),103 - 102,-1
+0020000821,384,3,12,4,4:09 PM,3:27,,,Nash Free Throw 2 of 2 (16 PTS),104 - 102,-2
+0020000821,385,6,2,4,4:10 PM,3:12,,,Bradley S.FOUL (P2.T3),,
+0020000821,386,3,11,4,4:10 PM,3:12,Swift Free Throw 1 of 2 (5 PTS),,,104 - 103,-1
+0020000821,387,3,12,4,4:10 PM,3:12,Swift Free Throw 2 of 2 (6 PTS),,,104 - 104,TIE
+0020000821,388,2,1,4,4:11 PM,2:58,,,MISS Nowitzki 15' Jump Shot,,
+0020000821,389,4,0,4,4:11 PM,2:57,,,Nowitzki REBOUND (Off:1 Def:5),,
+0020000821,390,1,46,4,4:11 PM,2:47,,,Nash 4' Running Jump Shot (18 PTS),106 - 104,-2
+0020000821,391,2,1,4,4:11 PM,2:23,MISS Bibby 26' 3PT Jump Shot,,,,
+0020000821,392,4,0,4,4:11 PM,2:20,,,Bradley REBOUND (Off:0 Def:4),,
+0020000821,393,6,2,4,4:12 PM,2:13,Bibby S.FOUL (P3.PN),,,,
+0020000821,394,9,1,4,4:12 PM,2:13,,,Mavericks Timeout: Regular (Reg.4 Short 0),,
+0020000821,397,8,0,4,4:14 PM,2:13,SUB: Abdul-Rauf FOR Swift,,,,
+0020000821,398,3,11,4,4:14 PM,2:13,,,Bradley Free Throw 1 of 2 (3 PTS),107 - 104,-3
+0020000821,399,3,12,4,4:14 PM,2:13,,,Bradley Free Throw 2 of 2 (4 PTS),108 - 104,-4
+0020000821,400,1,42,4,4:15 PM,2:00,Bibby  Driving Layup (22 PTS),,,108 - 106,-2
+0020000821,401,6,2,4,4:15 PM,1:42,Abdur-Rahim S.FOUL (P5.PN),,,,
+0020000821,402,8,0,4,4:15 PM,1:42,,,SUB: Eisley FOR Bradley,,
+0020000821,403,3,11,4,4:15 PM,1:42,,,Nowitzki Free Throw 1 of 2 (30 PTS),109 - 106,-3
+0020000821,404,3,12,4,4:15 PM,1:42,,,Nowitzki Free Throw 2 of 2 (31 PTS),110 - 106,-4
+0020000821,405,2,1,4,4:16 PM,1:22,MISS Dickerson 19' Jump Shot,,,,
+0020000821,406,4,0,4,4:16 PM,1:21,GRIZZLIES Rebound,,,,
+0020000821,407,6,10,4,4:16 PM,1:21,,,,,
+0020000821,409,10,0,4,4:17 PM,1:21,Jump Ball Abdur-Rahim vs. Nowitzki: Tip to Nash,,,,
+0020000821,410,5,2,4,4:17 PM,1:21,Abdur-Rahim Lost Ball Turnover (P4.T23),,Nowitzki STEAL (4 STL),,
+0020000821,411,2,1,4,4:17 PM,1:04,,,MISS Nowitzki 20' Jump Shot,,
+0020000821,412,4,0,4,4:17 PM,1:02,Dickerson REBOUND (Off:0 Def:3),,,,
+0020000821,413,1,1,4,4:17 PM,0:54,Abdul-Rauf 6' Jump Shot (8 PTS) (Bibby 9 AST),,,110 - 108,-2
+0020000821,414,1,1,4,4:18 PM,0:35,,,Howard 12' Jump Shot (20 PTS) (Nash 7 AST),112 - 108,-4
+0020000821,415,9,1,4,4:18 PM,0:35,GRIZZLIES Timeout: Regular (Full 5 Short 1),,,,
+0020000821,418,8,0,4,4:20 PM,0:35,,,SUB: Buckner FOR Nowitzki,,
+0020000821,419,6,1,4,4:20 PM,0:31,,,Nash P.FOUL (P4.T4),,
+0020000821,420,1,1,4,4:21 PM,0:23,Bibby 19' Jump Shot (24 PTS),,,112 - 110,-2
+0020000821,421,6,1,4,4:21 PM,0:20,Bibby P.FOUL (P4.PN),,,,
+0020000821,422,3,11,4,4:21 PM,0:20,,,Nash Free Throw 1 of 2 (19 PTS),113 - 110,-3
+0020000821,423,3,12,4,4:21 PM,0:20,,,Nash Free Throw 2 of 2 (20 PTS),114 - 110,-4
+0020000821,424,9,1,4,4:21 PM,0:20,GRIZZLIES Timeout: Regular (Full 6 Short 1),,,,
+0020000821,427,2,1,4,4:23 PM,0:14,MISS Bibby 25' 3PT Jump Shot,,,,
+0020000821,428,4,0,4,4:23 PM,0:11,,,Nash REBOUND (Off:0 Def:4),,
+0020000821,429,6,1,4,4:23 PM,0:09,Bibby P.FOUL (P5.PN),,,,
+0020000821,430,3,11,4,4:24 PM,0:09,,,Nash Free Throw 1 of 2 (21 PTS),115 - 110,-5
+0020000821,431,3,12,4,4:24 PM,0:09,,,Nash Free Throw 2 of 2 (22 PTS),116 - 110,-6
+0020000821,432,1,1,4,4:24 PM,0:02,Bibby 22' Jump Shot (26 PTS) (Dickerson 2 AST),,,116 - 112,-4
+0020000821,433,13,0,4,4:24 PM,0:00,,,,116 - 112,-4

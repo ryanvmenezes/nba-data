@@ -1,0 +1,476 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021100551,0,12,0,1,7:04 PM,12:00,,,,,
+0021100551,1,10,0,1,7:05 PM,12:00,Jump Ball Dalembert vs. Jordan: Tip to Lowry,,,,
+0021100551,2,6,1,1,7:06 PM,11:49,,,Foye P.FOUL (P1.T1),,
+0021100551,3,2,5,1,7:06 PM,11:39,MISS Dalembert 2' Layup,,Griffin BLOCK (1 BLK),,
+0021100551,4,4,0,1,7:06 PM,11:38,Dalembert REBOUND (Off:1 Def:0),,,,
+0021100551,5,2,5,1,7:06 PM,11:36,MISS Dalembert 3' Layup,,,,
+0021100551,6,4,0,1,7:06 PM,11:36,,,Jordan REBOUND (Off:0 Def:1),,
+0021100551,7,6,2,1,7:06 PM,11:31,Parsons S.FOUL (P1.T1),,,,
+0021100551,8,3,11,1,7:06 PM,11:31,,,Butler Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0021100551,10,3,12,1,7:06 PM,11:31,,,Butler Free Throw 2 of 2 (2 PTS),2 - 0,-2
+0021100551,12,1,1,1,7:07 PM,11:15,Dalembert 15' Jump Shot (2 PTS),,,2 - 2,TIE
+0021100551,13,2,80,1,7:07 PM,10:56,,,MISS Butler 18' Step Back Jump Shot,,
+0021100551,14,4,0,1,7:07 PM,10:54,Lowry REBOUND (Off:0 Def:1),,,,
+0021100551,15,1,1,1,7:07 PM,10:48,Dalembert 20' Jump Shot (4 PTS) (Parsons 1 AST),,,2 - 4,2
+0021100551,17,1,1,1,7:09 PM,10:17,,,Paul 16' Jump Shot (2 PTS),4 - 4,TIE
+0021100551,18,2,1,1,7:09 PM,10:01,MISS Scola 9' Jump Shot,,,,
+0021100551,19,4,0,1,7:09 PM,10:00,,,Butler REBOUND (Off:0 Def:1),,
+0021100551,20,2,1,1,7:09 PM,9:49,,,MISS Butler 19' Jump Shot,,
+0021100551,21,4,0,1,7:09 PM,9:48,Martin REBOUND (Off:0 Def:1),,,,
+0021100551,22,1,42,1,7:09 PM,9:33,Parsons 2' Driving Layup (2 PTS),,,4 - 6,2
+0021100551,24,2,3,1,7:10 PM,9:10,,,MISS Griffin 7' Hook Shot,,
+0021100551,25,4,0,1,7:10 PM,9:09,ROCKETS Rebound,,,,
+0021100551,26,2,1,1,7:10 PM,8:52,MISS Martin 18' Jump Shot,,,,
+0021100551,27,4,0,1,7:10 PM,8:50,,,Butler REBOUND (Off:0 Def:2),,
+0021100551,28,2,1,1,7:10 PM,8:42,,,MISS Paul 10' Jump Shot,,
+0021100551,29,4,0,1,7:11 PM,8:41,,,Jordan REBOUND (Off:1 Def:1),,
+0021100551,31,7,2,1,7:11 PM,8:40,Dalembert Violation:Defensive Goaltending,,,,
+0021100551,30,1,1,1,7:11 PM,8:40,,,Jordan 7' Jump Shot (2 PTS),6 - 6,TIE
+0021100551,32,2,1,1,7:11 PM,8:24,MISS Dalembert 13' Jump Shot,,,,
+0021100551,56,4,0,1,7:11 PM,8:23,Scola REBOUND (Off:1 Def:0),,,,
+0021100551,57,5,40,1,7:11 PM,8:22,Scola Out of Bounds Lost Ball Turnover (P1.T1),,,,
+0021100551,34,2,3,1,7:11 PM,8:05,,,MISS Griffin 6' Hook Shot,,
+0021100551,35,4,0,1,7:11 PM,8:04,Dalembert REBOUND (Off:1 Def:1),,,,
+0021100551,37,7,2,1,7:12 PM,7:50,,,Jordan Violation:Defensive Goaltending,,
+0021100551,36,1,3,1,7:12 PM,7:50,Scola 5' Hook Shot (2 PTS),,,6 - 8,2
+0021100551,38,2,56,1,7:12 PM,7:31,,,MISS Jordan 9' Running Hook Shot,,
+0021100551,39,4,0,1,7:12 PM,7:29,Scola REBOUND (Off:1 Def:1),,,,
+0021100551,40,1,5,1,7:13 PM,7:22,Dalembert 2' Layup (6 PTS) (Lowry 1 AST),,,6 - 10,4
+0021100551,41,1,44,1,7:13 PM,7:15,,,Foye 3' Reverse Layup (2 PTS) (Paul 1 AST),8 - 10,2
+0021100551,42,1,1,1,7:13 PM,7:02,Lowry 25' 3PT Jump Shot (3 PTS) (Martin 1 AST),,,8 - 13,5
+0021100551,43,1,1,1,7:13 PM,6:50,,,Foye 25' 3PT Jump Shot (5 PTS) (Griffin 1 AST),11 - 13,2
+0021100551,44,1,42,1,7:13 PM,6:38,Martin 3' Driving Layup (2 PTS),,,11 - 15,4
+0021100551,45,6,1,1,7:13 PM,6:34,Martin P.FOUL (P1.T2),,,,
+0021100551,46,1,52,1,7:14 PM,6:26,,,Jordan 1' Alley Oop Dunk (4 PTS) (Paul 2 AST),13 - 15,2
+0021100551,47,1,5,1,7:14 PM,6:09,Lowry 2' Layup (5 PTS) (Martin 2 AST),,,13 - 17,4
+0021100551,48,5,1,1,7:15 PM,5:46,Parsons STEAL (1 STL),,Paul Bad Pass Turnover (P1.T1),,
+0021100551,49,1,5,1,7:15 PM,5:42,Martin 2' Layup (4 PTS) (Parsons 2 AST),,,13 - 19,6
+0021100551,50,1,1,1,7:15 PM,5:29,,,Butler 14' Jump Shot (4 PTS) (Paul 3 AST),15 - 19,4
+0021100551,51,2,46,1,7:15 PM,5:14,MISS Martin 18' Running Jump Shot,,,,
+0021100551,52,4,0,1,7:15 PM,5:12,,,Paul REBOUND (Off:0 Def:1),,
+0021100551,53,1,1,1,7:15 PM,5:06,,,Butler 25' 3PT Jump Shot (7 PTS) (Paul 4 AST),18 - 19,1
+0021100551,54,9,1,1,7:16 PM,4:54,ROCKETS Timeout: Regular (Full 1 Short 0),,,,
+0021100551,63,8,0,1,7:16 PM,4:54,,,SUB: Williams FOR Foye,,
+0021100551,60,1,1,1,7:18 PM,4:49,Dalembert 14' Jump Shot (8 PTS) (Martin 3 AST),,,18 - 21,3
+0021100551,61,2,1,1,7:19 PM,4:24,,,MISS Butler 25' 3PT Jump Shot,,
+0021100551,62,4,0,1,7:19 PM,4:23,Scola REBOUND (Off:1 Def:2),,,,
+0021100551,64,1,1,1,7:19 PM,4:08,Martin 25' 3PT Jump Shot (7 PTS) (Lowry 2 AST),,,18 - 24,6
+0021100551,65,9,2,1,7:19 PM,4:02,,,Clippers Timeout: Short (Reg.0 Short 1),,
+0021100551,67,8,0,1,7:20 PM,4:02,,,SUB: Martin FOR Jordan,,
+0021100551,68,2,1,1,7:21 PM,3:50,Dalembert BLOCK (1 BLK),,MISS Griffin 5' Jump Shot,,
+0021100551,69,4,0,1,7:21 PM,3:49,Lowry REBOUND (Off:0 Def:2),,,,
+0021100551,70,2,1,1,7:21 PM,3:33,MISS Martin 25' 3PT Jump Shot,,,,
+0021100551,72,4,0,1,7:21 PM,3:31,Parsons REBOUND (Off:1 Def:0),,,,
+0021100551,71,2,87,1,7:21 PM,3:31,MISS Parsons 1' Putback Dunk,,,,
+0021100551,73,4,0,1,7:21 PM,3:29,Scola REBOUND (Off:2 Def:2),,,,
+0021100551,74,2,1,1,7:21 PM,3:27,MISS Scola 15' Jump Shot,,,,
+0021100551,75,4,0,1,7:21 PM,3:27,,,Griffin REBOUND (Off:0 Def:1),,
+0021100551,76,1,1,1,7:22 PM,3:12,,,Williams 25' 3PT Jump Shot (3 PTS) (Paul 5 AST),21 - 24,3
+0021100551,77,2,5,1,7:22 PM,3:06,MISS Martin 2' Layup,,,,
+0021100551,78,4,0,1,7:22 PM,3:04,,,Martin REBOUND (Off:0 Def:1),,
+0021100551,79,2,47,1,7:22 PM,2:51,,,MISS Butler 12' Turnaround Jump Shot,,
+0021100551,80,4,0,1,7:22 PM,2:49,Dalembert REBOUND (Off:1 Def:2),,,,
+0021100551,81,2,47,1,7:22 PM,2:35,MISS Scola 9' Turnaround Jump Shot,,,,
+0021100551,82,4,0,1,7:22 PM,2:34,,,Martin REBOUND (Off:0 Def:2),,
+0021100551,83,2,1,1,7:22 PM,2:29,,,MISS Paul 26' 3PT Jump Shot,,
+0021100551,84,4,0,1,7:22 PM,2:28,Scola REBOUND (Off:2 Def:3),,,,
+0021100551,85,1,42,1,7:22 PM,2:19,Parsons 2' Driving Layup (4 PTS),,,21 - 26,5
+0021100551,86,9,1,1,7:23 PM,2:10,,,Clippers Timeout: Regular (Reg.1 Short 1),,
+0021100551,88,8,0,1,7:25 PM,2:10,SUB: Williams FOR Parsons,,,,
+0021100551,89,8,0,1,7:25 PM,2:10,,,SUB: Simmons FOR Butler,,
+0021100551,90,6,1,1,7:25 PM,2:03,Lowry P.FOUL (P1.T3),,,,
+0021100551,91,8,0,1,7:25 PM,2:03,,,SUB: Bledsoe FOR Paul,,
+0021100551,92,8,0,1,7:26 PM,2:03,,,SUB: Evans FOR Griffin,,
+0021100551,93,8,0,1,7:26 PM,2:03,SUB: Dragic FOR Lowry,,,,
+0021100551,94,2,5,1,7:26 PM,1:57,Dalembert BLOCK (2 BLK),,MISS Martin 2' Layup,,
+0021100551,95,4,0,1,7:26 PM,1:56,,,Clippers Rebound,,
+0021100551,96,2,1,1,7:26 PM,1:51,,,MISS Williams 20' Jump Shot,,
+0021100551,97,4,0,1,7:26 PM,1:50,Scola REBOUND (Off:2 Def:4),,,,
+0021100551,98,6,2,1,7:27 PM,1:30,,,Simmons S.FOUL (P1.T2),,
+0021100551,99,3,11,1,7:27 PM,1:30,Martin Free Throw 1 of 2 (8 PTS),,,21 - 27,6
+0021100551,101,3,12,1,7:27 PM,1:30,Martin Free Throw 2 of 2 (9 PTS),,,21 - 28,7
+0021100551,103,1,79,1,7:28 PM,1:18,,,Williams 15' Pullup Jump Shot (5 PTS),23 - 28,5
+0021100551,104,2,1,1,7:28 PM,1:02,MISS Williams 25' 3PT Jump Shot,,,,
+0021100551,105,4,0,1,7:28 PM,1:01,,,Evans REBOUND (Off:0 Def:1),,
+0021100551,106,6,1,1,7:28 PM,1:00,Dalembert P.FOUL (P1.T4),,,,
+0021100551,107,8,0,1,7:28 PM,0:59,SUB: Patterson FOR Dalembert,,,,
+0021100551,108,2,1,1,7:29 PM,0:36,,,MISS Simmons 21' Jump Shot,,
+0021100551,109,4,0,1,7:29 PM,0:34,,,Evans REBOUND (Off:1 Def:1),,
+0021100551,110,1,1,1,7:29 PM,0:20,,,Martin 20' Jump Shot (2 PTS) (Bledsoe 1 AST),25 - 28,3
+0021100551,111,1,1,1,7:29 PM,0:01,Scola 10' Jump Shot (4 PTS) (Martin 4 AST),,,25 - 30,5
+0021100551,112,13,0,1,7:30 PM,0:00,,,,25 - 30,5
+0021100551,114,12,0,2,7:32 PM,12:00,,,,25 - 30,5
+0021100551,115,6,2,2,7:33 PM,11:51,Lee S.FOUL (P1.T1),,,,
+0021100551,116,3,13,2,7:33 PM,11:51,,,Williams Free Throw 1 of 3 (6 PTS),26 - 30,4
+0021100551,118,3,14,2,7:33 PM,11:51,,,Williams Free Throw 2 of 3 (7 PTS),27 - 30,3
+0021100551,120,3,15,2,7:33 PM,11:51,,,Williams Free Throw 3 of 3 (8 PTS),28 - 30,2
+0021100551,122,2,80,2,7:34 PM,11:34,MISS Dragic 15' Step Back Jump Shot,,,,
+0021100551,123,4,0,2,7:34 PM,11:32,,,Evans REBOUND (Off:1 Def:2),,
+0021100551,124,5,4,2,7:34 PM,11:29,,,Williams Traveling Turnover (P1.T2),,
+0021100551,125,5,4,2,7:34 PM,11:21,Scola Traveling Turnover (P2.T2),,,,
+0021100551,126,2,1,2,7:35 PM,11:03,,,MISS Martin 13' Jump Shot,,
+0021100551,127,4,0,2,7:35 PM,11:02,Dragic REBOUND (Off:0 Def:1),,,,
+0021100551,128,1,5,2,7:35 PM,10:58,Scola 3' Layup (6 PTS) (Williams 1 AST),,,28 - 32,4
+0021100551,129,2,1,2,7:35 PM,10:35,,,MISS Martin 17' Jump Shot,,
+0021100551,130,4,0,2,7:35 PM,10:35,Dragic REBOUND (Off:0 Def:2),,,,
+0021100551,131,2,1,2,7:35 PM,10:21,MISS Dragic 25' 3PT Jump Shot,,,,
+0021100551,132,4,0,2,7:36 PM,10:21,,,Evans REBOUND (Off:1 Def:3),,
+0021100551,133,1,79,2,7:36 PM,10:08,,,Williams 19' Pullup Jump Shot (10 PTS),30 - 32,2
+0021100551,134,6,1,2,7:36 PM,9:55,,,Martin P.FOUL (P1.T1),,
+0021100551,135,2,1,2,7:37 PM,9:48,MISS Patterson 19' Jump Shot,,,,
+0021100551,136,4,0,2,7:37 PM,9:47,,,Evans REBOUND (Off:1 Def:4),,
+0021100551,137,2,1,2,7:37 PM,9:23,,,MISS Martin 29' 3PT Jump Shot,,
+0021100551,138,4,0,2,7:37 PM,9:23,,,Clippers Rebound,,
+0021100551,139,5,11,2,7:37 PM,9:23,,,Clippers Turnover: Shot Clock (T#3),,
+0021100551,140,2,1,2,7:38 PM,9:09,MISS Scola 18' Jump Shot,,,,
+0021100551,141,4,0,2,7:38 PM,9:08,,,Bledsoe REBOUND (Off:0 Def:1),,
+0021100551,142,1,44,2,7:38 PM,9:00,,,Bledsoe 2' Reverse Layup (2 PTS),32 - 32,TIE
+0021100551,143,9,1,2,7:38 PM,8:53,ROCKETS Timeout: Regular (Full 2 Short 0),,,,
+0021100551,145,8,0,2,7:39 PM,8:53,SUB: Dalembert FOR Scola,,,,
+0021100551,147,2,1,2,7:40 PM,8:40,MISS Lee 19' Jump Shot,,,,
+0021100551,148,4,0,2,7:40 PM,8:39,Dalembert REBOUND (Off:2 Def:2),,,,
+0021100551,149,1,1,2,7:41 PM,8:22,Lee 25' 3PT Jump Shot (3 PTS) (Patterson 1 AST),,,32 - 35,3
+0021100551,150,2,79,2,7:41 PM,7:56,,,MISS Bledsoe 15' Pullup Jump Shot,,
+0021100551,151,4,0,2,7:41 PM,7:54,Williams REBOUND (Off:0 Def:1),,,,
+0021100551,152,2,63,2,7:41 PM,7:36,MISS Williams 19' Fadeaway Jumper,,,,
+0021100551,153,4,0,2,7:41 PM,7:35,,,Evans REBOUND (Off:1 Def:5),,
+0021100551,154,2,1,2,7:42 PM,7:18,,,MISS Williams 27' 3PT Jump Shot,,
+0021100551,155,4,0,2,7:42 PM,7:17,Dalembert REBOUND (Off:2 Def:3),,,,
+0021100551,156,5,2,2,7:42 PM,7:10,Williams Lost Ball Turnover (P1.T3),,Martin STEAL (1 STL),,
+0021100551,157,6,1,2,7:42 PM,7:08,Dragic P.FOUL (P1.T2),,,,
+0021100551,158,8,0,2,7:42 PM,7:08,,,SUB: Paul FOR Bledsoe,,
+0021100551,159,8,0,2,7:42 PM,7:08,SUB: Lowry FOR Dragic,,,,
+0021100551,160,2,1,2,7:43 PM,6:55,,,MISS Williams 20' Jump Shot,,
+0021100551,161,4,0,2,7:43 PM,6:54,,,Clippers Rebound,,
+0021100551,162,8,0,2,7:43 PM,6:54,,,SUB: Jordan FOR Evans,,
+0021100551,163,6,26,2,7:43 PM,6:49,,,Martin Offensive Charge Foul (P2.T2),,
+0021100551,164,5,5,2,7:43 PM,6:49,,,Martin Foul Turnover (P1.T4),,
+0021100551,165,2,1,2,7:44 PM,6:34,MISS Patterson 20' Jump Shot,,,,
+0021100551,166,4,0,2,7:44 PM,6:33,,,Simmons REBOUND (Off:0 Def:1),,
+0021100551,168,7,2,2,7:44 PM,6:16,Dalembert Violation:Defensive Goaltending,,,,
+0021100551,167,1,1,2,7:44 PM,6:16,,,Paul 9' Jump Shot (4 PTS),34 - 35,1
+0021100551,169,2,1,2,7:44 PM,6:00,MISS Williams 12' Jump Shot,,,,
+0021100551,170,4,0,2,7:44 PM,6:00,,,Simmons REBOUND (Off:0 Def:2),,
+0021100551,171,2,1,2,7:45 PM,5:37,,,MISS Williams 25' 3PT Jump Shot,,
+0021100551,172,4,0,2,7:45 PM,5:37,,,Jordan REBOUND (Off:2 Def:1),,
+0021100551,173,1,5,2,7:45 PM,5:35,,,Jordan 1' Layup (6 PTS),36 - 35,-1
+0021100551,174,6,2,2,7:45 PM,5:35,Williams S.FOUL (P1.T3),,,,
+0021100551,175,9,1,2,7:45 PM,5:35,,,,,
+0021100551,177,8,0,2,7:47 PM,5:35,SUB: Martin FOR Williams,,,,
+0021100551,178,8,0,2,7:47 PM,5:35,,,SUB: Butler FOR Martin,,
+0021100551,179,8,0,2,7:47 PM,5:35,,,SUB: Griffin FOR Simmons,,
+0021100551,180,3,10,2,7:48 PM,5:35,,,MISS Jordan Free Throw 1 of 1,,
+0021100551,182,4,0,2,7:48 PM,5:35,Patterson REBOUND (Off:0 Def:1),,,,
+0021100551,183,1,3,2,7:48 PM,5:19,Dalembert 4' Hook Shot (10 PTS) (Lee 1 AST),,,36 - 37,1
+0021100551,184,1,1,2,7:49 PM,4:52,,,Griffin 18' Jump Shot (2 PTS) (Paul 6 AST),38 - 37,-1
+0021100551,185,2,3,2,7:49 PM,4:34,MISS Dalembert 5' Hook Shot,,Jordan BLOCK (1 BLK),,
+0021100551,186,4,0,2,7:49 PM,4:32,,,Williams REBOUND (Off:0 Def:1),,
+0021100551,187,2,1,2,7:49 PM,4:19,,,MISS Griffin 20' Jump Shot,,
+0021100551,188,4,0,2,7:49 PM,4:18,Dalembert REBOUND (Off:2 Def:4),,,,
+0021100551,189,1,1,2,7:49 PM,4:05,Martin 25' 3PT Jump Shot (12 PTS),,,38 - 40,2
+0021100551,190,2,1,2,7:50 PM,3:41,,,MISS Griffin 22' Jump Shot,,
+0021100551,192,4,0,2,7:50 PM,3:40,,,Clippers Rebound,,
+0021100551,191,6,3,2,7:50 PM,3:40,Dalembert L.B.FOUL (P2.T4),,,,
+0021100551,193,8,0,2,7:50 PM,3:40,SUB: Scola FOR Patterson,,,,
+0021100551,194,8,0,2,7:50 PM,3:40,,,SUB: Foye FOR Williams,,
+0021100551,195,1,7,2,7:50 PM,3:30,,,Griffin 2' Dunk (4 PTS) (Paul 7 AST),40 - 40,TIE
+0021100551,196,2,1,2,7:51 PM,3:05,MISS Martin 14' Jump Shot,,,,
+0021100551,198,4,0,2,7:51 PM,3:04,Dalembert REBOUND (Off:3 Def:4),,,,
+0021100551,197,1,87,2,7:51 PM,3:04,Dalembert 1' Putback Dunk (12 PTS),,,40 - 42,2
+0021100551,199,1,1,2,7:51 PM,2:44,,,Paul 10' Jump Shot (6 PTS),42 - 42,TIE
+0021100551,200,1,5,2,7:52 PM,2:20,Dalembert  Layup (14 PTS) (Lee 2 AST),,,42 - 44,2
+0021100551,201,2,5,2,7:52 PM,2:08,,,MISS Paul 3' Layup,,
+0021100551,202,4,0,2,7:52 PM,2:07,,,Paul REBOUND (Off:1 Def:1),,
+0021100551,203,2,1,2,7:52 PM,2:01,,,MISS Foye 24' 3PT Jump Shot,,
+0021100551,204,4,0,2,7:52 PM,2:00,Dalembert REBOUND (Off:3 Def:5),,,,
+0021100551,205,1,1,2,7:52 PM,1:45,Lee  3PT Jump Shot (6 PTS) (Martin 5 AST),,,42 - 47,5
+0021100551,206,9,1,2,7:52 PM,1:30,,,Clippers Timeout: Regular (Reg.2 Short 1),,
+0021100551,208,8,0,2,7:54 PM,1:30,SUB: Patterson FOR Dalembert,,,,
+0021100551,209,2,1,2,7:55 PM,1:18,,,MISS Butler 17' Jump Shot,,
+0021100551,210,4,0,2,7:55 PM,1:17,Lowry REBOUND (Off:0 Def:3),,,,
+0021100551,211,2,1,2,7:55 PM,1:01,MISS Lowry 25' 3PT Jump Shot,,,,
+0021100551,212,4,0,2,7:55 PM,1:01,,,Jordan REBOUND (Off:2 Def:2),,
+0021100551,213,1,3,2,7:56 PM,0:46,,,Griffin 6' Hook Shot (6 PTS),44 - 47,3
+0021100551,214,6,2,2,7:56 PM,0:46,Patterson S.FOUL (P1.PN),,,,
+0021100551,217,7,3,2,7:56 PM,0:46,Martin Violation:Lane,,,,
+0021100551,219,3,10,2,7:57 PM,0:46,,,Griffin Free Throw 1 of 1 (7 PTS),45 - 47,2
+0021100551,221,2,46,2,7:57 PM,0:28,MISS Lowry 14' Running Jump Shot,,,,
+0021100551,222,4,0,2,7:57 PM,0:27,,,Paul REBOUND (Off:1 Def:2),,
+0021100551,223,2,47,2,7:57 PM,0:03,,,MISS Paul 12' Turnaround Jump Shot,,
+0021100551,224,4,0,2,7:58 PM,0:03,,,Clippers Rebound,,
+0021100551,225,5,11,2,7:58 PM,0:03,,,Clippers Turnover: Shot Clock (T#5),,
+0021100551,226,2,46,2,7:58 PM,0:00,MISS Lowry 6' Running Jump Shot,,,,
+0021100551,227,4,0,2,7:58 PM,0:00,ROCKETS Rebound,,,,
+0021100551,228,13,0,2,7:58 PM,0:00,,,,45 - 47,2
+0021100551,231,12,0,3,8:14 PM,12:00,,,,45 - 47,2
+0021100551,232,2,1,3,8:15 PM,11:45,,,MISS Paul 14' Jump Shot,,
+0021100551,233,4,0,3,8:15 PM,11:42,,,Griffin REBOUND (Off:1 Def:1),,
+0021100551,234,6,1,3,8:15 PM,11:34,Parsons P.FOUL (P2.T1),,,,
+0021100551,235,5,1,3,8:16 PM,11:21,Lowry STEAL (1 STL),,Foye Bad Pass Turnover (P1.T6),,
+0021100551,236,6,4,3,8:16 PM,11:19,Scola OFF.Foul (P1),,,,
+0021100551,237,5,5,3,8:16 PM,11:19,Scola Foul Turnover (P3.T4),,,,
+0021100551,238,1,5,3,8:17 PM,11:01,,,Foye 3' Layup (7 PTS) (Griffin 2 AST),47 - 47,TIE
+0021100551,239,1,1,3,8:17 PM,10:44,Dalembert 13' Jump Shot (16 PTS) (Martin 6 AST),,,47 - 49,2
+0021100551,240,1,58,3,8:17 PM,10:23,,,Griffin 8' Turnaround Hook Shot (9 PTS),49 - 49,TIE
+0021100551,241,1,1,3,8:17 PM,10:06,Parsons 25' 3PT Jump Shot (7 PTS) (Martin 7 AST),,,49 - 52,3
+0021100551,242,1,46,3,8:18 PM,9:45,,,Paul 8' Running Jump Shot (8 PTS),51 - 52,1
+0021100551,243,6,2,3,8:18 PM,9:45,Lowry S.FOUL (P2.T2),,,,
+0021100551,244,3,10,3,8:18 PM,9:45,,,Paul Free Throw 1 of 1 (9 PTS),52 - 52,TIE
+0021100551,246,6,1,3,8:19 PM,9:29,,,Griffin P.FOUL (P1.T1),,
+0021100551,247,1,42,3,8:19 PM,9:22,Lowry 2' Driving Layup (7 PTS),,,52 - 54,2
+0021100551,248,6,2,3,8:19 PM,9:22,,,Jordan S.FOUL (P1.T2),,
+0021100551,249,3,10,3,8:20 PM,9:22,Lowry Free Throw 1 of 1 (8 PTS),,,52 - 55,3
+0021100551,251,6,1,3,8:21 PM,9:07,Scola P.FOUL (P2.T3),,,,
+0021100551,252,1,46,3,8:21 PM,8:54,,,Butler 8' Running Jump Shot (9 PTS),54 - 55,1
+0021100551,253,1,73,3,8:21 PM,8:42,Parsons 2' Driving Reverse Layup (9 PTS),,,54 - 57,3
+0021100551,254,6,2,3,8:21 PM,8:42,,,Jordan S.FOUL (P2.T3),,
+0021100551,255,3,10,3,8:22 PM,8:42,MISS Parsons Free Throw 1 of 1,,,,
+0021100551,257,4,0,3,8:22 PM,8:42,,,Paul REBOUND (Off:1 Def:3),,
+0021100551,258,6,2,3,8:22 PM,8:33,Dalembert S.FOUL (P3.T4),,,,
+0021100551,259,3,11,3,8:22 PM,8:33,,,Paul Free Throw 1 of 2 (10 PTS),55 - 57,2
+0021100551,261,3,12,3,8:22 PM,8:33,,,Paul Free Throw 2 of 2 (11 PTS),56 - 57,1
+0021100551,263,1,5,3,8:23 PM,8:20,Lowry 3' Layup (10 PTS) (Scola 1 AST),,,56 - 59,3
+0021100551,264,6,2,3,8:23 PM,8:20,,,Foye S.FOUL (P2.T4),,
+0021100551,265,3,10,3,8:23 PM,8:20,Lowry Free Throw 1 of 1 (11 PTS),,,56 - 60,4
+0021100551,267,1,1,3,8:24 PM,8:05,,,Foye 25' 3PT Jump Shot (10 PTS) (Griffin 3 AST),59 - 60,1
+0021100551,268,2,1,3,8:24 PM,7:50,MISS Martin 26' 3PT Jump Shot,,,,
+0021100551,269,4,0,3,8:24 PM,7:49,Dalembert REBOUND (Off:4 Def:5),,,,
+0021100551,270,1,49,3,8:24 PM,7:40,Parsons 1' Driving Dunk (11 PTS),,,59 - 62,3
+0021100551,271,6,2,3,8:25 PM,7:29,Lowry S.FOUL (P3.PN),,,,
+0021100551,272,3,11,3,8:25 PM,7:29,,,Griffin Free Throw 1 of 2 (10 PTS),60 - 62,2
+0021100551,274,3,12,3,8:25 PM,7:29,,,MISS Griffin Free Throw 2 of 2,,
+0021100551,276,4,0,3,8:26 PM,7:29,Scola REBOUND (Off:2 Def:5),,,,
+0021100551,277,2,1,3,8:26 PM,7:05,MISS Lowry 22' Jump Shot,,,,
+0021100551,278,4,0,3,8:26 PM,7:04,,,Jordan REBOUND (Off:2 Def:3),,
+0021100551,280,2,1,3,8:26 PM,6:52,,,MISS Griffin 20' Jump Shot,,
+0021100551,282,4,0,3,8:26 PM,6:51,,,Jordan REBOUND (Off:3 Def:3),,
+0021100551,281,1,87,3,8:26 PM,6:51,,,Jordan 1' Putback Dunk (8 PTS),62 - 62,TIE
+0021100551,283,6,2,3,8:27 PM,6:39,,,Foye S.FOUL (P3.PN),,
+0021100551,284,3,11,3,8:27 PM,6:39,Martin Free Throw 1 of 2 (13 PTS),,,62 - 63,1
+0021100551,286,3,12,3,8:27 PM,6:39,Martin Free Throw 2 of 2 (14 PTS),,,62 - 64,2
+0021100551,288,1,1,3,8:28 PM,6:27,,,Paul 17' Jump Shot (13 PTS),64 - 64,TIE
+0021100551,289,2,1,3,8:28 PM,6:05,MISS Martin 15' Jump Shot,,,,
+0021100551,290,4,0,3,8:28 PM,6:05,,,Griffin REBOUND (Off:1 Def:2),,
+0021100551,291,6,4,3,8:28 PM,6:00,,,Foye OFF.Foul (P4),,
+0021100551,292,5,5,3,8:28 PM,6:00,,,Foye Foul Turnover (P2.T7),,
+0021100551,293,9,1,3,8:28 PM,6:00,ROCKETS Timeout: Regular (Full 3 Short 0),,,,
+0021100551,296,8,0,3,8:31 PM,6:00,,,SUB: Williams FOR Foye,,
+0021100551,297,2,79,3,8:31 PM,5:48,MISS Martin 12' Pullup Jump Shot,,,,
+0021100551,298,4,0,3,8:31 PM,5:47,,,Griffin REBOUND (Off:1 Def:3),,
+0021100551,299,6,2,3,8:31 PM,5:33,Dalembert S.FOUL (P4.PN),,,,
+0021100551,300,3,11,3,8:32 PM,5:33,,,Griffin Free Throw 1 of 2 (11 PTS),65 - 64,-1
+0021100551,303,8,0,3,8:32 PM,5:33,SUB: Patterson FOR Dalembert,,,,
+0021100551,304,3,12,3,8:32 PM,5:33,,,MISS Griffin Free Throw 2 of 2,,
+0021100551,306,4,0,3,8:33 PM,5:33,Scola REBOUND (Off:2 Def:6),,,,
+0021100551,307,6,1,3,8:33 PM,5:31,,,Jordan P.FOUL (P3.PN),,
+0021100551,308,3,11,3,8:33 PM,5:31,Scola Free Throw 1 of 2 (7 PTS),,,65 - 65,TIE
+0021100551,310,8,0,3,8:33 PM,5:31,,,SUB: Martin FOR Jordan,,
+0021100551,311,3,12,3,8:33 PM,5:31,Scola Free Throw 2 of 2 (8 PTS),,,65 - 66,1
+0021100551,313,2,1,3,8:34 PM,5:17,,,MISS Butler 19' Jump Shot,,
+0021100551,314,4,0,3,8:34 PM,5:16,,,Griffin REBOUND (Off:2 Def:3),,
+0021100551,315,2,5,3,8:34 PM,5:14,,,MISS Griffin 3' Layup,,
+0021100551,316,4,0,3,8:34 PM,5:13,Scola REBOUND (Off:2 Def:7),,,,
+0021100551,317,6,1,3,8:34 PM,5:02,,,Williams P.FOUL (P1.PN),,
+0021100551,318,3,11,3,8:34 PM,5:02,Martin Free Throw 1 of 2 (15 PTS),,,65 - 67,2
+0021100551,320,3,12,3,8:35 PM,5:02,Martin Free Throw 2 of 2 (16 PTS),,,65 - 68,3
+0021100551,322,6,1,3,8:35 PM,4:48,Patterson P.FOUL (P2.PN),,,,
+0021100551,326,3,11,3,8:37 PM,4:48,,,Butler Free Throw 1 of 2 (10 PTS),66 - 68,2
+0021100551,328,3,12,3,8:37 PM,4:48,,,Butler Free Throw 2 of 2 (11 PTS),67 - 68,1
+0021100551,330,5,1,3,8:37 PM,4:33,Lowry Bad Pass Turnover (P1.T5),,,,
+0021100551,331,2,1,3,8:38 PM,4:18,,,MISS Paul 27' 3PT Jump Shot,,
+0021100551,332,4,0,3,8:38 PM,4:17,Scola REBOUND (Off:2 Def:8),,,,
+0021100551,333,2,1,3,8:38 PM,4:02,MISS Martin 25' 3PT Jump Shot,,,,
+0021100551,334,4,0,3,8:38 PM,4:01,,,Griffin REBOUND (Off:2 Def:4),,
+0021100551,335,2,1,3,8:38 PM,3:45,,,MISS Williams 20' Jump Shot,,
+0021100551,337,4,0,3,8:38 PM,3:43,,,Martin REBOUND (Off:1 Def:2),,
+0021100551,336,2,5,3,8:38 PM,3:43,,,MISS Martin 1' Layup,,
+0021100551,339,4,0,3,8:38 PM,3:41,,,Griffin REBOUND (Off:3 Def:4),,
+0021100551,338,2,5,3,8:38 PM,3:41,,,MISS Griffin 2' Layup,,
+0021100551,341,4,0,3,8:38 PM,3:40,,,Martin REBOUND (Off:2 Def:2),,
+0021100551,340,1,7,3,8:38 PM,3:40,,,Martin 2' Dunk (4 PTS),69 - 68,-1
+0021100551,342,2,77,3,8:39 PM,3:27,MISS Lowry 3' Driving Jump Shot,,,,
+0021100551,343,4,0,3,8:39 PM,3:25,,,Griffin REBOUND (Off:3 Def:5),,
+0021100551,344,5,1,3,8:39 PM,3:24,Martin STEAL (1 STL),,Griffin Bad Pass Turnover (P1.T8),,
+0021100551,345,10,0,3,8:39 PM,3:23,Jump Ball Martin vs. Williams: Tip to Parsons,,,,
+0021100551,346,1,1,3,8:40 PM,3:11,Lowry 27' 3PT Jump Shot (14 PTS),,,69 - 71,2
+0021100551,347,6,27,3,8:40 PM,2:55,Scola Personal Block Foul (P3.PN),,,,
+0021100551,348,9,1,3,8:40 PM,2:55,,,Clippers Timeout: Regular (Reg.3 Short 1),,
+0021100551,350,8,0,3,8:42 PM,2:55,SUB: Smith FOR Scola,,,,
+0021100551,352,3,11,3,8:42 PM,2:55,,,Paul Free Throw 1 of 2 (14 PTS),70 - 71,1
+0021100551,354,3,12,3,8:43 PM,2:55,,,Paul Free Throw 2 of 2 (15 PTS),71 - 71,TIE
+0021100551,356,6,2,3,8:43 PM,2:39,,,Paul S.FOUL (P1.PN),,
+0021100551,357,3,11,3,8:44 PM,2:39,MISS Lowry Free Throw 1 of 2,,,,
+0021100551,358,4,1,3,8:44 PM,2:39,ROCKETS Rebound,,,,
+0021100551,359,8,0,3,8:44 PM,2:39,,,SUB: Foye FOR Butler,,
+0021100551,360,3,12,3,8:44 PM,2:39,MISS Lowry Free Throw 2 of 2,,,,
+0021100551,362,4,0,3,8:44 PM,2:39,,,Griffin REBOUND (Off:3 Def:6),,
+0021100551,363,6,1,3,8:45 PM,2:18,Smith P.FOUL (P1.PN),,,,
+0021100551,364,3,11,3,8:45 PM,2:18,,,Griffin Free Throw 1 of 2 (12 PTS),72 - 71,-1
+0021100551,366,3,12,3,8:45 PM,2:18,,,MISS Griffin Free Throw 2 of 2,,
+0021100551,368,4,0,3,8:45 PM,2:18,Smith REBOUND (Off:0 Def:1),,,,
+0021100551,369,1,1,3,8:45 PM,2:08,Martin 25' 3PT Jump Shot (19 PTS),,,72 - 74,2
+0021100551,370,5,11,3,8:46 PM,1:41,,,Clippers Turnover: Shot Clock (T#9),,
+0021100551,371,8,0,3,8:46 PM,1:41,,,SUB: Evans FOR Griffin,,
+0021100551,372,6,4,3,8:46 PM,1:35,Smith OFF.Foul (P2),,,,
+0021100551,373,5,5,3,8:46 PM,1:35,Smith Foul Turnover (P1.T6),,,,
+0021100551,374,8,0,3,8:47 PM,1:35,SUB: Williams FOR Parsons,,,,
+0021100551,375,2,42,3,8:47 PM,1:21,,,MISS Paul 1' Driving Layup,,
+0021100551,376,4,0,3,8:47 PM,1:20,Patterson REBOUND (Off:0 Def:2),,,,
+0021100551,377,2,1,3,8:48 PM,1:02,MISS Patterson 8' Jump Shot,,,,
+0021100551,378,4,0,3,8:48 PM,1:00,,,Evans REBOUND (Off:1 Def:6),,
+0021100551,379,1,1,3,8:48 PM,0:43,,,Foye 25' 3PT Jump Shot (13 PTS) (Paul 8 AST),75 - 74,-1
+0021100551,380,2,46,3,8:48 PM,0:25,MISS Williams 10' Running Jump Shot,,,,
+0021100551,381,4,0,3,8:48 PM,0:24,,,Foye REBOUND (Off:0 Def:1),,
+0021100551,382,9,2,3,8:48 PM,0:21,,,Clippers Timeout: Short (Reg.3 Short 2),,
+0021100551,384,1,1,3,8:50 PM,0:00,,,Paul 22' Jump Shot (17 PTS),77 - 74,-3
+0021100551,385,13,0,3,8:50 PM,0:00,,,,77 - 74,-3
+0021100551,387,12,0,4,8:53 PM,12:00,,,,77 - 74,-3
+0021100551,388,1,1,4,8:53 PM,11:38,Williams 25' 3PT Jump Shot (3 PTS),,,77 - 77,TIE
+0021100551,389,5,1,4,8:54 PM,11:13,Williams STEAL (1 STL),,Williams Bad Pass Turnover (P2.T10),,
+0021100551,390,6,2,4,8:54 PM,11:10,,,Paul S.FOUL (P2.T1),,
+0021100551,391,3,11,4,8:54 PM,11:10,Williams Free Throw 1 of 2 (4 PTS),,,77 - 78,1
+0021100551,394,8,0,4,8:54 PM,11:10,,,SUB: Butler FOR Paul,,
+0021100551,395,3,12,4,8:54 PM,11:10,Williams Free Throw 2 of 2 (5 PTS),,,77 - 79,2
+0021100551,397,1,42,4,8:55 PM,10:54,,,Foye 4' Driving Layup (15 PTS),79 - 79,TIE
+0021100551,398,1,1,4,8:55 PM,10:40,Patterson 17' Jump Shot (2 PTS) (Williams 2 AST),,,79 - 81,2
+0021100551,399,5,1,4,8:55 PM,10:25,Smith STEAL (1 STL),,Evans Bad Pass Turnover (P1.T11),,
+0021100551,400,5,4,4,8:56 PM,10:19,Patterson Traveling Turnover (P1.T7),,,,
+0021100551,401,1,1,4,8:56 PM,10:05,,,Martin 21' Jump Shot (6 PTS) (Williams 1 AST),81 - 81,TIE
+0021100551,402,2,47,4,8:56 PM,9:48,MISS Dragic 12' Turnaround Jump Shot,,,,
+0021100551,403,4,0,4,8:56 PM,9:46,Patterson REBOUND (Off:1 Def:2),,,,
+0021100551,404,2,1,4,8:57 PM,9:30,MISS Williams 25' 3PT Jump Shot,,,,
+0021100551,405,4,0,4,8:57 PM,9:29,Smith REBOUND (Off:1 Def:1),,,,
+0021100551,406,5,4,4,8:57 PM,9:06,Lee Traveling Turnover (P1.T8),,,,
+0021100551,407,2,79,4,8:57 PM,8:56,,,MISS Williams 19' Pullup Jump Shot,,
+0021100551,408,4,0,4,8:57 PM,8:53,Williams REBOUND (Off:0 Def:2),,,,
+0021100551,409,2,46,4,8:58 PM,8:47,MISS Williams 7' Running Jump Shot,,,,
+0021100551,410,4,0,4,8:58 PM,8:45,,,Evans REBOUND (Off:1 Def:7),,
+0021100551,411,1,1,4,8:58 PM,8:33,,,Martin 22' Jump Shot (8 PTS) (Foye 1 AST),83 - 81,-2
+0021100551,412,2,79,4,8:58 PM,8:09,MISS Williams 14' Pullup Jump Shot,,,,
+0021100551,413,4,0,4,8:58 PM,8:07,,,Martin REBOUND (Off:2 Def:3),,
+0021100551,414,2,1,4,8:59 PM,7:50,,,MISS Martin 19' Jump Shot,,
+0021100551,415,4,0,4,8:59 PM,7:48,Smith REBOUND (Off:1 Def:2),,,,
+0021100551,416,9,1,4,8:59 PM,7:41,ROCKETS Timeout: Regular (Full 4 Short 0),,,,
+0021100551,418,8,0,4,9:01 PM,7:41,SUB: Martin FOR Williams,,,,
+0021100551,419,8,0,4,9:01 PM,7:41,SUB: Scola FOR Patterson,,,,
+0021100551,421,2,1,4,9:01 PM,7:29,MISS Dragic 10' Jump Shot,,,,
+0021100551,422,4,0,4,9:01 PM,7:28,,,Evans REBOUND (Off:1 Def:8),,
+0021100551,423,5,2,4,9:02 PM,7:17,Dragic STEAL (1 STL),,Foye Lost Ball Turnover (P3.T12),,
+0021100551,424,6,1,4,9:02 PM,7:15,,,Martin P.FOUL (P3.T2),,
+0021100551,425,8,0,4,9:02 PM,7:15,,,SUB: Paul FOR Foye,,
+0021100551,426,8,0,4,9:02 PM,7:15,,,SUB: Griffin FOR Evans,,
+0021100551,427,2,1,4,9:03 PM,7:04,MISS Scola 6' Jump Shot,,,,
+0021100551,428,4,0,4,9:03 PM,7:03,,,Griffin REBOUND (Off:3 Def:7),,
+0021100551,429,6,11,4,9:03 PM,7:01,,,,,
+0021100551,430,3,16,4,9:03 PM,7:01,,,MISS Paul Free Throw Technical,,
+0021100551,431,4,1,4,9:03 PM,7:01,,,Clippers Rebound,,
+0021100551,432,8,0,4,9:03 PM,7:01,SUB: Lowry FOR Dragic,,,,
+0021100551,433,1,3,4,9:04 PM,6:51,,,Martin 9' Hook Shot (10 PTS) (Paul 9 AST),85 - 81,-4
+0021100551,434,1,3,4,9:04 PM,6:37,Scola 6' Hook Shot (10 PTS),,,85 - 83,-2
+0021100551,435,6,2,4,9:04 PM,6:37,,,Martin S.FOUL (P4.T3),,
+0021100551,436,8,0,4,9:04 PM,6:37,SUB: Dalembert FOR Smith,,,,
+0021100551,440,8,0,4,9:04 PM,6:37,,,SUB: Jordan FOR Martin,,
+0021100551,437,3,10,4,9:05 PM,6:37,MISS Scola Free Throw 1 of 1,,,,
+0021100551,439,4,0,4,9:05 PM,6:37,,,Jordan REBOUND (Off:3 Def:4),,
+0021100551,441,2,1,4,9:05 PM,6:21,,,MISS Paul 14' Jump Shot,,
+0021100551,442,4,0,4,9:05 PM,6:21,ROCKETS Rebound,,,,
+0021100551,443,6,3,4,9:05 PM,6:21,,,Jordan L.B.FOUL (P4.T4),,
+0021100551,444,2,3,4,9:06 PM,6:05,MISS Dalembert 9' Hook Shot,,,,
+0021100551,445,4,0,4,9:06 PM,6:03,,,Jordan REBOUND (Off:3 Def:5),,
+0021100551,446,1,79,4,9:06 PM,5:56,,,Williams 16' Pullup Jump Shot (12 PTS),87 - 83,-4
+0021100551,447,2,46,4,9:06 PM,5:35,MISS Martin 10' Running Jump Shot,,,,
+0021100551,448,4,0,4,9:06 PM,5:33,,,Jordan REBOUND (Off:3 Def:6),,
+0021100551,449,2,1,4,9:06 PM,5:15,,,MISS Paul 15' Jump Shot,,
+0021100551,450,4,0,4,9:07 PM,5:14,Martin REBOUND (Off:0 Def:2),,,,
+0021100551,451,5,2,4,9:07 PM,5:01,Lowry Lost Ball Turnover (P2.T9),,Paul STEAL (1 STL),,
+0021100551,453,9,1,4,9:07 PM,4:55,,,,,
+0021100551,457,1,1,4,9:10 PM,4:40,,,Paul 18' Jump Shot (19 PTS),89 - 83,-6
+0021100551,459,2,1,4,9:10 PM,4:24,MISS Martin  3PT Jump Shot,,,,
+0021100551,460,4,0,4,9:11 PM,4:22,,,Jordan REBOUND (Off:3 Def:7),,
+0021100551,461,2,1,4,9:11 PM,4:10,Dalembert BLOCK (3 BLK),,MISS Butler 4' Jump Shot,,
+0021100551,462,4,0,4,9:11 PM,4:08,,,Griffin REBOUND (Off:4 Def:7),,
+0021100551,463,5,2,4,9:11 PM,4:05,Scola STEAL (1 STL),,Griffin Lost Ball Turnover (P2.T13),,
+0021100551,464,1,1,4,9:11 PM,3:53,Lee  3PT Jump Shot (9 PTS) (Martin 8 AST),,,89 - 86,-3
+0021100551,465,2,1,4,9:11 PM,3:26,,,MISS Butler 21' Jump Shot,,
+0021100551,466,4,0,4,9:11 PM,3:25,Martin REBOUND (Off:0 Def:3),,,,
+0021100551,467,1,5,4,9:12 PM,3:11,Lee 1' Layup (11 PTS) (Dalembert 1 AST),,,89 - 88,-1
+0021100551,468,9,1,4,9:12 PM,3:11,,,Clippers Timeout: Regular (Reg.4 Short 2),,
+0021100551,472,1,1,4,9:15 PM,2:59,,,Paul 20' Jump Shot (21 PTS),91 - 88,-3
+0021100551,473,6,1,4,9:15 PM,2:44,,,Jordan P.FOUL (P5.PN),,
+0021100551,474,3,11,4,9:15 PM,2:44,Martin Free Throw 1 of 2 (20 PTS),,,91 - 89,-2
+0021100551,476,3,12,4,9:15 PM,2:44,Martin Free Throw 2 of 2 (21 PTS),,,91 - 90,-1
+0021100551,478,2,46,4,9:16 PM,2:19,,,MISS Paul 21' Running Jump Shot,,
+0021100551,479,4,0,4,9:16 PM,2:15,,,Jordan REBOUND (Off:4 Def:7),,
+0021100551,480,2,1,4,9:16 PM,2:04,,,MISS Paul 6' Jump Shot,,
+0021100551,481,4,0,4,9:16 PM,2:02,Lowry REBOUND (Off:0 Def:4),,,,
+0021100551,482,2,1,4,9:16 PM,1:56,MISS Martin 24' 3PT Jump Shot,,,,
+0021100551,484,4,0,4,9:17 PM,1:55,Scola REBOUND (Off:3 Def:8),,,,
+0021100551,483,1,4,4,9:17 PM,1:55,Scola 2' Tip Shot (12 PTS),,,91 - 92,1
+0021100551,485,6,1,4,9:17 PM,1:36,Scola P.FOUL (P4.T1),,,,
+0021100551,486,5,8,4,9:18 PM,1:25,,,Griffin 3 Second Violation Turnover (P3.T14),,
+0021100551,487,9,2,4,9:18 PM,1:25,ROCKETS Timeout: Short (Full 4 Short 1),,,,
+0021100551,490,5,1,4,9:20 PM,1:14,Lowry Bad Pass Turnover (P3.T10),,Williams STEAL (1 STL),,
+0021100551,491,1,5,4,9:20 PM,1:11,,,Williams 3' Layup (14 PTS),93 - 92,-1
+0021100551,492,1,1,4,9:20 PM,0:59,Martin 16' Jump Shot (23 PTS),,,93 - 94,1
+0021100551,493,6,2,4,9:20 PM,0:49,Dalembert S.FOUL (P5.PN),,,,
+0021100551,494,3,11,4,9:21 PM,0:49,,,Paul Free Throw 1 of 2 (22 PTS),94 - 94,TIE
+0021100551,496,3,12,4,9:21 PM,0:49,,,Paul Free Throw 2 of 2 (23 PTS),95 - 94,-1
+0021100551,498,9,1,4,9:21 PM,0:49,ROCKETS Timeout: Regular (Full 5 Short 1),,,,
+0021100551,501,2,46,4,9:23 PM,0:33,MISS Lowry 9' Running Jump Shot,,,,
+0021100551,502,4,0,4,9:23 PM,0:32,Scola REBOUND (Off:4 Def:8),,,,
+0021100551,503,6,1,4,9:23 PM,0:31,,,Paul P.FOUL (P3.PN),,
+0021100551,504,3,11,4,9:24 PM,0:31,Scola Free Throw 1 of 2 (13 PTS),,,95 - 95,TIE
+0021100551,506,3,12,4,9:24 PM,0:31,Scola Free Throw 2 of 2 (14 PTS),,,95 - 96,1
+0021100551,508,9,2,4,9:24 PM,0:31,,,Clippers Timeout: Short (Reg.4 Short 3),,
+0021100551,511,1,1,4,9:26 PM,0:25,,,Paul 12' Jump Shot (25 PTS),97 - 96,-1
+0021100551,512,9,2,4,9:26 PM,0:25,ROCKETS Timeout: Short (Full 5 Short 2),,,,
+0021100551,515,6,2,4,9:28 PM,0:18,,,Paul S.FOUL (P4.PN),,
+0021100551,516,3,11,4,9:28 PM,0:18,MISS Dalembert Free Throw 1 of 2,,,,
+0021100551,517,4,1,4,9:28 PM,0:18,ROCKETS Rebound,,,,
+0021100551,519,8,0,4,9:28 PM,0:18,,,SUB: Martin FOR Williams,,
+0021100551,520,3,12,4,9:28 PM,0:18,Dalembert Free Throw 2 of 2 (17 PTS),,,97 - 97,TIE
+0021100551,522,9,1,4,9:28 PM,0:18,,,Clippers Timeout: Regular (Reg.5 Short 3),,
+0021100551,525,8,0,4,9:30 PM,0:18,,,SUB: Williams FOR Jordan,,
+0021100551,526,18,0,4,9:31 PM,0:00,,,,,
+0021100551,527,13,0,4,9:32 PM,0:00,,,,97 - 97,TIE
+0021100551,529,12,0,5,9:34 PM,5:00,,,,97 - 97,TIE
+0021100551,530,10,0,5,9:34 PM,5:00,Jump Ball Dalembert vs. Griffin: Tip to,,,,
+0021100551,531,2,63,5,9:35 PM,4:32,,,MISS Griffin 21' Fadeaway Jumper,,
+0021100551,532,4,0,5,9:35 PM,4:30,Dalembert REBOUND (Off:4 Def:6),,,,
+0021100551,533,1,3,5,9:35 PM,4:09,Scola 10' Hook Shot (16 PTS),,,97 - 99,2
+0021100551,534,5,2,5,9:36 PM,3:45,Scola STEAL (2 STL),,Griffin Lost Ball Turnover (P4.T15),,
+0021100551,535,5,1,5,9:36 PM,3:37,Martin Bad Pass Turnover (P1.T11),,Griffin STEAL (1 STL),,
+0021100551,536,1,1,5,9:36 PM,3:18,,,Butler 24' 3PT Jump Shot (14 PTS) (Williams 2 AST),100 - 99,-1
+0021100551,537,2,42,5,9:37 PM,2:55,MISS Martin 2' Driving Layup,,,,
+0021100551,538,4,0,5,9:37 PM,2:55,,,Clippers Rebound,,
+0021100551,539,6,3,5,9:37 PM,2:55,Scola L.B.FOUL (P5.T1),,,,
+0021100551,540,2,1,5,9:37 PM,2:32,,,MISS Paul 27' 3PT Jump Shot,,
+0021100551,541,4,0,5,9:37 PM,2:31,Lowry REBOUND (Off:0 Def:5),,,,
+0021100551,542,6,2,5,9:38 PM,2:18,,,Butler S.FOUL (P1.T1),,
+0021100551,543,3,11,5,9:38 PM,2:18,Martin Free Throw 1 of 2 (24 PTS),,,100 - 100,TIE
+0021100551,545,3,12,5,9:38 PM,2:18,Martin Free Throw 2 of 2 (25 PTS),,,100 - 101,1
+0021100551,547,2,1,5,9:39 PM,1:56,,,MISS Martin 9' Jump Shot,,
+0021100551,548,4,0,5,9:39 PM,1:55,Dalembert REBOUND (Off:4 Def:7),,,,
+0021100551,550,1,79,5,9:39 PM,1:34,Lee 22' Pullup Jump Shot (13 PTS),,,100 - 103,3
+0021100551,551,9,1,5,9:39 PM,1:34,,,Clippers Timeout: Regular (Reg.6 Short 3),,
+0021100551,556,1,88,5,9:42 PM,1:22,,,Griffin 2' Driving Slam Dunk (14 PTS) (Paul 10 AST),102 - 103,1
+0021100551,557,2,1,5,9:42 PM,1:06,MISS Martin 21' Jump Shot,,,,
+0021100551,558,4,0,5,9:42 PM,1:04,,,Martin REBOUND (Off:2 Def:4),,
+0021100551,559,1,79,5,9:43 PM,0:50,,,Paul 9' Pullup Jump Shot (27 PTS),104 - 103,-1
+0021100551,560,9,1,5,9:43 PM,0:50,ROCKETS Timeout: Regular (Full 6 Short 2),,,,
+0021100551,563,5,1,5,9:45 PM,0:49,Martin Bad Pass Turnover (P2.T12),,Griffin STEAL (2 STL),,
+0021100551,564,5,2,5,9:45 PM,0:30,Dalembert STEAL (1 STL),,Paul Lost Ball Turnover (P2.T16),,
+0021100551,565,2,1,5,9:45 PM,0:08,MISS Martin 22' Jump Shot,,,,
+0021100551,566,4,0,5,9:45 PM,0:06,,,Martin REBOUND (Off:2 Def:5),,
+0021100551,567,6,1,5,9:45 PM,0:05,Lee P.FOUL (P2.T2),,,,
+0021100551,568,6,1,5,9:46 PM,0:04,Lowry P.FOUL (P4.PN),,,,
+0021100551,569,3,11,5,9:46 PM,0:04,,,MISS Paul Free Throw 1 of 2,,
+0021100551,570,4,1,5,9:46 PM,0:04,,,Clippers Rebound,,
+0021100551,571,3,12,5,9:46 PM,0:04,,,Paul Free Throw 2 of 2 (28 PTS),105 - 103,-2
+0021100551,573,9,2,5,9:47 PM,0:04,ROCKETS Timeout: Short (Full 6 Short 3),,,,
+0021100551,575,2,1,5,9:48 PM,0:01,MISS Martin 26' 3PT Jump Shot,,,,
+0021100551,576,4,0,5,9:48 PM,0:00,Dalembert REBOUND (Off:5 Def:7),,,,
+0021100551,577,2,45,5,9:49 PM,0:00,MISS Dalembert 8' Jump Shot,,,,
+0021100551,578,4,0,5,9:49 PM,0:00,ROCKETS Rebound,,,,
+0021100551,579,13,0,5,9:49 PM,0:00,,,,105 - 103,-2

@@ -1,0 +1,453 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020400706,0,12,0,1,7:45 PM,12:00,,,,,
+0020400706,1,10,0,1,7:45 PM,12:00,Jump Ball O'Neal vs. Foyle: Tip to Fisher,,,,
+0020400706,2,2,1,1,7:45 PM,11:49,,,MISS Claxton 18' Jump Shot,,
+0020400706,3,4,0,1,7:45 PM,11:47,Jones REBOUND (Off:0 Def:1),,,,
+0020400706,4,2,47,1,7:45 PM,11:31,MISS O'Neal 7' Turnaround Jump Shot,,,,
+0020400706,5,4,0,1,7:45 PM,11:29,O'Neal REBOUND (Off:1 Def:0),,,,
+0020400706,6,1,5,1,7:45 PM,11:26,Haslem  Layup (2 PTS) (O'Neal 1 AST),,,0 - 2,2
+0020400706,7,2,5,1,7:46 PM,11:13,Haslem BLOCK (1 BLK),,MISS Claxton  Layup,,
+0020400706,8,4,0,1,7:46 PM,11:11,Wade REBOUND (Off:0 Def:1),,,,
+0020400706,9,1,1,1,7:46 PM,11:06,Jones 18' Jump Shot (2 PTS),,,0 - 4,4
+0020400706,10,1,1,1,7:46 PM,10:50,,,Fisher 20' Jump Shot (2 PTS) (Richardson 1 AST),2 - 4,2
+0020400706,11,1,44,1,7:46 PM,10:29,Jones  Reverse Layup (2 PTS) (Haslem 1 AST),,,2 - 6,4
+0020400706,12,2,1,1,7:47 PM,10:19,,,MISS Richardson 19' Jump Shot,,
+0020400706,13,4,0,1,7:47 PM,10:17,Haslem REBOUND (Off:0 Def:1),,,,
+0020400706,14,1,42,1,7:47 PM,9:56,O'Neal  Driving Layup (2 PTS),,,2 - 8,6
+0020400706,15,1,5,1,7:47 PM,9:41,,,Foyle  Layup (2 PTS) (Claxton 1 AST),4 - 8,4
+0020400706,16,5,41,1,7:47 PM,9:23,Wade Poss Lost Ball Turnover (P1.T1),,,,
+0020400706,17,1,5,1,7:48 PM,9:06,,,Richardson  Layup (2 PTS) (Dunleavy 1 AST),6 - 8,2
+0020400706,18,2,47,1,7:48 PM,8:45,MISS O'Neal 6' Turnaround Jump Shot,,,,
+0020400706,19,4,0,1,7:48 PM,8:43,,,Dunleavy REBOUND (Off:0 Def:1),,
+0020400706,20,1,47,1,7:48 PM,8:32,,,Fisher 18' Turnaround Jump Shot (4 PTS) (Foyle 1 AST),8 - 8,TIE
+0020400706,21,6,2,1,7:49 PM,8:21,,,Dunleavy S.FOUL (P1.T1),,
+0020400706,22,3,11,1,7:49 PM,8:21,MISS Jones Free Throw 1 of 2,,,,
+0020400706,23,4,1,1,7:49 PM,8:21,HEAT Rebound,,,,
+0020400706,24,3,12,1,7:49 PM,8:21,Jones Free Throw 2 of 2 (3 PTS),,,8 - 9,1
+0020400706,25,1,1,1,7:50 PM,8:07,,,Fisher 19' Jump Shot (6 PTS) (Richardson 2 AST),10 - 9,-1
+0020400706,26,5,1,1,7:50 PM,7:51,Wade Bad Pass Turnover (P2.T2),,Richardson STEAL (1 STL),,
+0020400706,27,1,1,1,7:50 PM,7:46,,,Fisher 18' Jump Shot (8 PTS) (Richardson 3 AST),12 - 9,-3
+0020400706,28,2,1,1,7:50 PM,7:31,MISS Jones 18' Jump Shot,,,,
+0020400706,29,4,0,1,7:50 PM,7:29,,,Dunleavy REBOUND (Off:0 Def:2),,
+0020400706,30,1,3,1,7:50 PM,7:19,,,Richardson 6' Hook Shot (4 PTS),14 - 9,-5
+0020400706,31,7,2,1,7:51 PM,7:18,O'Neal Violation:Defensive Goaltending,,,,
+0020400706,32,2,46,1,7:51 PM,7:04,MISS Wade 7' Running Jump Shot,,,,
+0020400706,33,4,0,1,7:51 PM,7:02,,,Dunleavy REBOUND (Off:0 Def:3),,
+0020400706,34,1,42,1,7:51 PM,6:53,,,Dunleavy  Driving Layup (2 PTS),16 - 9,-7
+0020400706,35,9,1,1,7:51 PM,6:45,HEAT Timeout: Regular (Full 1 Short 0),,,,
+0020400706,39,1,3,1,7:54 PM,6:31,O'Neal 5' Hook Shot (4 PTS) (Jones 1 AST),,,16 - 11,-5
+0020400706,40,5,1,1,7:54 PM,6:17,Wade STEAL (1 STL),,Dunleavy Bad Pass Turnover (P1.T1),,
+0020400706,41,1,1,1,7:54 PM,6:12,Jones 25' 3PT Jump Shot (5 PTS) (Wade 1 AST),,,16 - 14,-2
+0020400706,42,6,2,1,7:54 PM,5:55,Haslem S.FOUL (P1.T1),,,,
+0020400706,43,3,11,1,7:55 PM,5:55,,,MISS Claxton Free Throw 1 of 2,,
+0020400706,44,4,1,1,7:55 PM,5:55,,,Warriors Rebound,,
+0020400706,45,3,12,1,7:55 PM,5:55,,,Claxton Free Throw 2 of 2 (1 PTS),17 - 14,-3
+0020400706,46,1,45,1,7:55 PM,5:35,O'Neal 9' Jump Shot (6 PTS) (Jones 2 AST),,,17 - 16,-1
+0020400706,47,2,1,1,7:56 PM,5:18,,,MISS Richardson 24' 3PT Jump Shot,,
+0020400706,48,4,0,1,7:56 PM,5:16,O'Neal REBOUND (Off:1 Def:1),,,,
+0020400706,49,5,1,1,7:56 PM,5:07,Wade Bad Pass Turnover (P3.T3),,Claxton STEAL (1 STL),,
+0020400706,50,2,1,1,7:56 PM,5:02,,,MISS Fisher 26' 3PT Jump Shot,,
+0020400706,51,4,0,1,7:56 PM,5:01,HEAT Rebound,,,,
+0020400706,52,6,3,1,7:56 PM,5:01,,,Richardson L.B.FOUL (P1.T2),,
+0020400706,53,8,0,1,7:56 PM,5:01,,,SUB: Davis FOR Foyle,,
+0020400706,54,1,66,1,7:57 PM,4:50,Jones 9' Jump Bank Shot (7 PTS) (Jones 1 AST),,,17 - 18,1
+0020400706,55,6,2,1,7:57 PM,4:50,,,Claxton S.FOUL (P1.T3),,
+0020400706,56,3,10,1,7:57 PM,4:50,Jones Free Throw 1 of 1 (8 PTS),,,17 - 19,2
+0020400706,57,2,1,1,7:57 PM,4:33,,,MISS Claxton 24' 3PT Jump Shot,,
+0020400706,58,4,0,1,7:57 PM,4:31,O'Neal REBOUND (Off:1 Def:2),,,,
+0020400706,59,2,1,1,7:57 PM,4:30,MISS Jones 25' 3PT Jump Shot,,,,
+0020400706,60,4,0,1,7:57 PM,4:28,,,Warriors Rebound,,
+0020400706,61,1,5,1,7:58 PM,4:16,,,Claxton  Layup (3 PTS) (Davis 1 AST),19 - 19,TIE
+0020400706,62,1,1,1,7:58 PM,4:01,Jones 6' Jump Shot (5 PTS),,,19 - 21,2
+0020400706,63,6,2,1,7:58 PM,4:01,,,Davis S.FOUL (P1.T4),,
+0020400706,64,8,0,1,7:58 PM,4:01,SUB: Butler FOR Wade,,,,
+0020400706,65,3,10,1,7:58 PM,4:01,Jones Free Throw 1 of 1 (6 PTS),,,19 - 22,3
+0020400706,66,1,1,1,7:59 PM,3:50,,,Richardson 16' Jump Shot (6 PTS),21 - 22,1
+0020400706,67,2,1,1,7:59 PM,3:38,MISS Butler 20' Jump Shot,,,,
+0020400706,68,4,0,1,7:59 PM,3:36,Haslem REBOUND (Off:1 Def:1),,,,
+0020400706,69,5,41,1,7:59 PM,3:29,Jones Poss Lost Ball Turnover (P1.T4),,,,
+0020400706,70,2,1,1,7:59 PM,3:13,,,MISS Richardson 19' Jump Shot,,
+0020400706,71,4,0,1,7:59 PM,3:09,Jones REBOUND (Off:0 Def:1),,,,
+0020400706,72,6,2,1,8:00 PM,2:52,,,Davis S.FOUL (P2.PN),,
+0020400706,73,9,1,1,8:00 PM,2:52,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020400706,77,3,11,1,8:03 PM,2:52,MISS O'Neal Free Throw 1 of 2,,,,
+0020400706,78,4,1,1,8:03 PM,2:52,HEAT Rebound,,,,
+0020400706,81,7,3,1,8:03 PM,2:52,,,Dunleavy Violation:Lane,,
+0020400706,82,3,12,1,8:04 PM,2:52,MISS O'Neal Free Throw 2 of 2,,,,
+0020400706,83,4,0,1,8:04 PM,2:50,,,Davis REBOUND (Off:0 Def:1),,
+0020400706,84,2,1,1,8:04 PM,2:36,,,MISS Claxton 21' Jump Shot,,
+0020400706,85,4,0,1,8:04 PM,2:34,Haslem REBOUND (Off:1 Def:2),,,,
+0020400706,86,1,47,1,8:04 PM,2:22,O'Neal 5' Turnaround Jump Shot (8 PTS),,,21 - 24,3
+0020400706,87,2,1,1,8:04 PM,2:04,,,MISS Fisher 20' Jump Shot,,
+0020400706,88,4,0,1,8:04 PM,2:02,O'Neal REBOUND (Off:1 Def:3),,,,
+0020400706,89,1,42,1,8:05 PM,1:53,Jones  Driving Layup (8 PTS),,,21 - 26,5
+0020400706,90,6,1,1,8:05 PM,1:38,Butler P.FOUL (P1.T2),,,,
+0020400706,91,8,0,1,8:05 PM,1:38,,,SUB: Pietrus FOR Claxton,,
+0020400706,92,8,0,1,8:05 PM,1:38,SUB: Dooling FOR Jones,,,,
+0020400706,93,2,1,1,8:06 PM,1:23,,,MISS Fisher 19' Jump Shot,,
+0020400706,94,4,0,1,8:06 PM,1:21,Haslem REBOUND (Off:1 Def:3),,,,
+0020400706,95,2,47,1,8:06 PM,0:58,MISS O'Neal 6' Turnaround Jump Shot,,,,
+0020400706,96,4,0,1,8:06 PM,0:55,,,Richardson REBOUND (Off:0 Def:1),,
+0020400706,97,1,42,1,8:06 PM,0:45,,,Fisher  Driving Layup (10 PTS),23 - 26,3
+0020400706,98,5,1,1,8:07 PM,0:33,Dooling Bad Pass Turnover (P1.T5),,Fisher STEAL (1 STL),,
+0020400706,99,6,1,1,8:07 PM,0:30,Dooling P.FOUL (P1.PN),,,,
+0020400706,100,3,11,1,8:07 PM,0:30,,,Fisher Free Throw 1 of 2 (11 PTS),24 - 26,2
+0020400706,101,3,12,1,8:07 PM,0:30,,,Fisher Free Throw 2 of 2 (12 PTS),25 - 26,1
+0020400706,102,1,3,1,8:08 PM,0:09,O'Neal 9' Hook Shot (10 PTS),,,25 - 28,3
+0020400706,103,2,1,1,8:08 PM,0:00,,,MISS Richardson 25' 3PT Jump Shot,,
+0020400706,104,4,0,1,8:08 PM,0:00,,,Warriors Rebound,,
+0020400706,105,13,0,1,8:08 PM,0:00,,,,25 - 28,3
+0020400706,107,12,0,2,8:11 PM,12:00,,,,25 - 28,3
+0020400706,108,2,47,2,8:11 PM,11:43,MISS Wade 13' Turnaround Jump Shot,,,,
+0020400706,109,4,0,2,8:12 PM,11:43,HEAT Rebound,,,,
+0020400706,110,6,3,2,8:12 PM,11:43,,,Foyle L.B.FOUL (P1.T1),,
+0020400706,111,2,5,2,8:12 PM,11:33,MISS Wade  Layup,,,,
+0020400706,112,4,0,2,8:12 PM,11:30,,,Warriors Rebound,,
+0020400706,113,5,41,2,8:12 PM,11:20,,,Fisher Poss Lost Ball Turnover (P1.T2),,
+0020400706,114,1,5,2,8:13 PM,11:06,Butler  Layup (2 PTS) (Doleac 1 AST),,,25 - 30,5
+0020400706,115,6,2,2,8:13 PM,11:06,,,Pietrus S.FOUL (P1.T2),,
+0020400706,116,3,10,2,8:13 PM,11:06,Butler Free Throw 1 of 1 (3 PTS),,,25 - 31,6
+0020400706,117,1,63,2,8:13 PM,10:51,,,Claxton 11' Fadeaway Jumper (5 PTS),27 - 31,4
+0020400706,118,5,1,2,8:14 PM,10:29,Wade Bad Pass Turnover (P4.T6),,Pietrus STEAL (1 STL),,
+0020400706,119,1,1,2,8:14 PM,10:23,,,Fisher 22' Jump Shot (14 PTS) (Pietrus 1 AST),29 - 31,2
+0020400706,120,6,2,2,8:14 PM,10:04,,,Najera S.FOUL (P1.T3),,
+0020400706,121,8,0,2,8:15 PM,10:04,,,SUB: Cabarkapa FOR Foyle,,
+0020400706,122,3,11,2,8:15 PM,10:04,Haslem Free Throw 1 of 2 (3 PTS),,,29 - 32,3
+0020400706,123,3,12,2,8:15 PM,10:04,MISS Haslem Free Throw 2 of 2,,,,
+0020400706,124,4,0,2,8:15 PM,10:02,,,Cabarkapa REBOUND (Off:0 Def:1),,
+0020400706,125,1,1,2,8:15 PM,9:52,,,Cabarkapa 21' Jump Shot (2 PTS) (Claxton 2 AST),31 - 32,1
+0020400706,126,2,1,2,8:16 PM,9:23,MISS Haslem 16' Jump Shot,,,,
+0020400706,127,4,0,2,8:16 PM,9:21,,,Claxton REBOUND (Off:0 Def:1),,
+0020400706,128,1,1,2,8:16 PM,9:16,,,Claxton 16' Jump Shot (7 PTS),33 - 32,-1
+0020400706,129,1,1,2,8:16 PM,9:00,Doleac 20' Jump Shot (2 PTS) (Dooling 1 AST),,,33 - 34,1
+0020400706,131,2,1,2,8:16 PM,8:45,,,MISS Fisher 25' 3PT Jump Shot,,
+0020400706,132,4,0,2,8:16 PM,8:43,Dooling REBOUND (Off:0 Def:1),,,,
+0020400706,133,5,2,2,8:17 PM,8:37,Doleac Lost Ball Turnover (P1.T7),,Pietrus STEAL (2 STL),,
+0020400706,134,1,5,2,8:17 PM,8:35,,,Claxton  Layup (9 PTS) (Pietrus 2 AST),35 - 34,-1
+0020400706,135,1,1,2,8:17 PM,8:22,Doleac 20' Jump Shot (4 PTS) (Dooling 2 AST),,,35 - 36,1
+0020400706,136,1,1,2,8:17 PM,8:04,,,Cabarkapa 22' Jump Shot (4 PTS) (Fisher 1 AST),37 - 36,-1
+0020400706,137,2,66,2,8:18 PM,7:43,MISS Wade 10' Jump Bank Shot,,,,
+0020400706,138,4,0,2,8:18 PM,7:41,,,Cabarkapa REBOUND (Off:0 Def:2),,
+0020400706,139,6,2,2,8:18 PM,7:37,Dooling S.FOUL (P2.T1),,,,
+0020400706,140,9,4,2,8:18 PM,7:37,,,,,
+0020400706,143,8,0,2,8:20 PM,7:37,SUB: O'Neal FOR Haslem,,,,
+0020400706,144,8,0,2,8:20 PM,7:37,SUB: Jones FOR Butler,,,,
+0020400706,161,8,0,2,8:21 PM,7:37,,,SUB: Foyle FOR Najera,,
+0020400706,145,3,11,2,8:21 PM,7:37,,,MISS Fisher Free Throw 1 of 2,,
+0020400706,146,4,1,2,8:21 PM,7:37,,,Warriors Rebound,,
+0020400706,147,3,12,2,8:21 PM,7:37,,,Fisher Free Throw 2 of 2 (15 PTS),38 - 36,-2
+0020400706,148,2,1,2,8:21 PM,7:24,MISS Dooling 19' Jump Shot,,,,
+0020400706,149,4,0,2,8:21 PM,7:22,,,Pietrus REBOUND (Off:0 Def:1),,
+0020400706,150,2,1,2,8:22 PM,7:16,,,MISS Fisher 20' Jump Shot,,
+0020400706,151,4,0,2,8:22 PM,7:13,,,Fisher REBOUND (Off:1 Def:0),,
+0020400706,153,1,1,2,8:22 PM,7:09,,,Cabarkapa 16' Jump Shot (6 PTS) (Fisher 2 AST),40 - 36,-4
+0020400706,154,2,47,2,8:22 PM,6:44,MISS O'Neal 9' Turnaround Jump Shot,,,,
+0020400706,155,4,0,2,8:22 PM,6:42,,,Cabarkapa REBOUND (Off:0 Def:3),,
+0020400706,156,2,1,2,8:22 PM,6:30,,,MISS Foyle 20' Jump Shot,,
+0020400706,157,4,0,2,8:22 PM,6:28,Doleac REBOUND (Off:0 Def:1),,,,
+0020400706,158,5,2,2,8:23 PM,6:18,O'Neal Lost Ball Turnover (P1.T8),,Pietrus STEAL (3 STL),,
+0020400706,159,2,5,2,8:23 PM,6:14,,,MISS Pietrus  Layup,,
+0020400706,160,4,0,2,8:23 PM,6:12,Doleac REBOUND (Off:0 Def:2),,,,
+0020400706,162,1,5,2,8:23 PM,5:53,Wade  Layup (2 PTS),,,40 - 38,-2
+0020400706,163,2,1,2,8:23 PM,5:31,,,MISS Cabarkapa 20' Jump Shot,,
+0020400706,164,4,0,2,8:23 PM,5:29,Dooling REBOUND (Off:0 Def:2),,,,
+0020400706,165,5,1,2,8:24 PM,5:12,O'Neal Bad Pass Turnover (P2.T9),,Claxton STEAL (2 STL),,
+0020400706,166,2,5,2,8:24 PM,5:02,Doleac BLOCK (1 BLK),,MISS Foyle  Layup,,
+0020400706,167,4,0,2,8:24 PM,5:00,Doleac REBOUND (Off:0 Def:3),,,,
+0020400706,168,2,1,2,8:24 PM,4:56,MISS Wade 11' Jump Shot,,,,
+0020400706,169,4,0,2,8:24 PM,4:54,,,Pietrus REBOUND (Off:0 Def:2),,
+0020400706,171,2,1,2,8:24 PM,4:42,,,MISS Pietrus 19' Jump Shot,,
+0020400706,172,4,0,2,8:24 PM,4:40,Doleac REBOUND (Off:0 Def:4),,,,
+0020400706,173,2,1,2,8:24 PM,4:32,MISS Wade 7' Jump Shot,,,,
+0020400706,174,4,0,2,8:24 PM,4:30,,,Fisher REBOUND (Off:1 Def:1),,
+0020400706,176,9,1,2,8:24 PM,4:28,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020400706,178,8,0,2,8:27 PM,4:28,,,SUB: Richardson FOR Fisher,,
+0020400706,179,8,0,2,8:27 PM,4:28,,,SUB: Dunleavy FOR Pietrus,,
+0020400706,180,8,0,2,8:27 PM,4:28,SUB: Jones FOR Dooling,,,,
+0020400706,181,1,7,2,8:27 PM,4:24,,,Richardson  Dunk (8 PTS) (Claxton 3 AST),42 - 38,-4
+0020400706,182,1,1,2,8:28 PM,4:04,Jones 12' Jump Shot (10 PTS),,,42 - 40,-2
+0020400706,183,6,2,2,8:28 PM,3:48,O'Neal S.FOUL (P1.T2),,,,
+0020400706,184,3,11,2,8:28 PM,3:48,,,Cabarkapa Free Throw 1 of 2 (7 PTS),43 - 40,-3
+0020400706,185,8,0,2,8:28 PM,3:48,SUB: Haslem FOR Doleac,,,,
+0020400706,186,3,12,2,8:28 PM,3:48,,,MISS Cabarkapa Free Throw 2 of 2,,
+0020400706,187,4,0,2,8:29 PM,3:46,Jones REBOUND (Off:0 Def:2),,,,
+0020400706,188,1,1,2,8:29 PM,3:32,Haslem 14' Jump Shot (5 PTS),,,43 - 42,-1
+0020400706,189,2,1,2,8:29 PM,3:17,,,MISS Dunleavy 24' 3PT Jump Shot,,
+0020400706,190,4,0,2,8:29 PM,3:15,O'Neal REBOUND (Off:1 Def:4),,,,
+0020400706,191,5,41,2,8:29 PM,3:10,Wade Poss Lost Ball Turnover (P5.T10),,,,
+0020400706,192,2,1,2,8:29 PM,3:02,,,MISS Dunleavy 21' Jump Shot,,
+0020400706,193,4,0,2,8:29 PM,3:00,O'Neal REBOUND (Off:1 Def:5),,,,
+0020400706,194,2,5,2,8:30 PM,2:55,MISS Haslem  Layup,,,,
+0020400706,195,4,0,2,8:30 PM,2:53,,,Foyle REBOUND (Off:0 Def:1),,
+0020400706,196,5,1,2,8:30 PM,2:43,,,Dunleavy Bad Pass Turnover (P2.T3),,
+0020400706,197,9,1,2,8:30 PM,2:43,HEAT Timeout: Regular (Full 2 Short 0),,,,
+0020400706,199,8,0,2,8:32 PM,2:43,,,SUB: Davis FOR Foyle,,
+0020400706,200,8,0,2,8:32 PM,2:43,,,SUB: Fisher FOR Cabarkapa,,
+0020400706,202,6,2,2,8:33 PM,2:33,,,Claxton S.FOUL (P2.T4),,
+0020400706,203,3,11,2,8:33 PM,2:33,Jones Free Throw 1 of 2 (9 PTS),,,43 - 43,TIE
+0020400706,204,3,12,2,8:33 PM,2:33,Jones Free Throw 2 of 2 (10 PTS),,,43 - 44,1
+0020400706,205,5,8,2,8:34 PM,2:14,,,Dunleavy 3 Second Violation Turnover (P3.T4),,
+0020400706,206,5,1,2,8:34 PM,2:03,Jones Bad Pass Turnover (P2.T11),,Richardson STEAL (2 STL),,
+0020400706,207,1,44,2,8:34 PM,1:57,,,Dunleavy  Reverse Layup (4 PTS),45 - 44,-1
+0020400706,208,1,5,2,8:34 PM,1:40,O'Neal  Layup (12 PTS) (Haslem 2 AST),,,45 - 46,1
+0020400706,209,2,1,2,8:35 PM,1:26,Wade BLOCK (1 BLK),,MISS Claxton 5' Jump Shot,,
+0020400706,210,4,0,2,8:35 PM,1:24,Haslem REBOUND (Off:1 Def:4),,,,
+0020400706,211,1,8,2,8:35 PM,1:14,Haslem  Slam Dunk (7 PTS) (Wade 2 AST),,,45 - 48,3
+0020400706,212,1,1,2,8:35 PM,0:53,,,Claxton 20' Jump Shot (11 PTS),47 - 48,1
+0020400706,213,1,1,2,8:35 PM,0:34,Jones  3PT Jump Shot (13 PTS) (O'Neal 2 AST),,,47 - 51,4
+0020400706,219,2,60,2,8:36 PM,0:24,,,MISS Richardson 10' Running Finger Roll,,
+0020400706,223,4,0,2,8:36 PM,0:23,,,Warriors Rebound,,
+0020400706,216,6,3,2,8:36 PM,0:23,O'Neal L.B.FOUL (P2.T3),,,,
+0020400706,217,9,2,2,8:36 PM,0:23,,,Warriors Timeout: Short (Reg.2 Short 1),,
+0020400706,218,8,0,2,8:37 PM,0:23,,,SUB: Cabarkapa FOR Davis,,
+0020400706,220,8,0,2,8:37 PM,0:23,SUB: Doleac FOR O'Neal,,,,
+0020400706,221,1,1,2,8:38 PM,0:02,,,Fisher 24' 3PT Jump Shot (18 PTS) (Claxton 4 AST),50 - 51,1
+0020400706,224,2,1,2,8:38 PM,0:00,MISS Jones 51' 3PT Jump Shot,,,,
+0020400706,225,4,0,2,8:38 PM,0:00,HEAT Rebound,,,,
+0020400706,226,13,0,2,8:38 PM,0:00,,,,50 - 51,1
+0020400706,228,12,0,3,8:56 PM,12:00,,,,50 - 51,1
+0020400706,229,1,51,3,8:56 PM,11:44,Wade  Reverse Dunk (4 PTS) (Jones 2 AST),,,50 - 53,3
+0020400706,230,2,1,3,8:57 PM,11:19,,,MISS Foyle 18' Jump Shot,,
+0020400706,231,4,0,3,8:57 PM,11:17,Jones REBOUND (Off:0 Def:2),,,,
+0020400706,232,2,47,3,8:57 PM,11:01,MISS O'Neal 8' Turnaround Jump Shot,,,,
+0020400706,233,10,0,3,8:57 PM,10:58,Jump Ball Haslem vs. Claxton: Tip to Jones,,,,
+0020400706,234,4,0,3,8:57 PM,10:58,HEAT Rebound,,,,
+0020400706,235,6,2,3,8:59 PM,10:50,,,Foyle S.FOUL (P2.T1),,
+0020400706,236,3,11,3,8:59 PM,10:50,O'Neal Free Throw 1 of 2 (13 PTS),,,50 - 54,4
+0020400706,239,7,3,3,8:59 PM,10:50,,,Foyle Violation:Lane,,
+0020400706,240,3,12,3,9:00 PM,10:50,MISS O'Neal Free Throw 2 of 2,,,,
+0020400706,241,4,0,3,9:00 PM,10:49,,,Dunleavy REBOUND (Off:0 Def:4),,
+0020400706,242,6,1,3,9:00 PM,10:40,Haslem P.FOUL (P2.T1),,,,
+0020400706,243,2,1,3,9:00 PM,10:31,,,MISS Fisher 19' Jump Shot,,
+0020400706,244,4,0,3,9:00 PM,10:29,Wade REBOUND (Off:0 Def:2),,,,
+0020400706,245,2,66,3,9:01 PM,10:20,MISS Wade 16' Jump Bank Shot,,,,
+0020400706,246,4,0,3,9:01 PM,10:18,O'Neal REBOUND (Off:2 Def:5),,,,
+0020400706,247,1,5,3,9:01 PM,10:16,O'Neal  Layup (15 PTS),,,50 - 56,6
+0020400706,248,6,2,3,9:01 PM,10:08,O'Neal S.FOUL (P3.T2),,,,
+0020400706,249,3,11,3,9:01 PM,10:08,,,Dunleavy Free Throw 1 of 2 (5 PTS),51 - 56,5
+0020400706,250,3,12,3,9:01 PM,10:08,,,MISS Dunleavy Free Throw 2 of 2,,
+0020400706,251,4,0,3,9:01 PM,10:07,Haslem REBOUND (Off:1 Def:5),,,,
+0020400706,252,1,5,3,9:02 PM,9:56,Jones  Layup (15 PTS) (Jones 3 AST),,,51 - 58,7
+0020400706,253,6,2,3,9:02 PM,9:56,,,Richardson S.FOUL (P2.T2),,
+0020400706,254,3,10,3,9:02 PM,9:56,MISS Jones Free Throw 1 of 1,,,,
+0020400706,255,4,0,3,9:02 PM,9:53,,,Dunleavy REBOUND (Off:0 Def:5),,
+0020400706,256,1,1,3,9:02 PM,9:47,,,Dunleavy 20' Jump Shot (7 PTS),53 - 58,5
+0020400706,257,2,5,3,9:02 PM,9:26,MISS Wade  Layup,,Foyle BLOCK (1 BLK),,
+0020400706,258,4,0,3,9:03 PM,9:24,HEAT Rebound,,,,
+0020400706,259,2,1,3,9:03 PM,9:21,MISS Jones 14' Jump Shot,,,,
+0020400706,260,4,0,3,9:03 PM,9:19,,,Foyle REBOUND (Off:0 Def:2),,
+0020400706,261,1,5,3,9:03 PM,9:13,,,Richardson  Layup (10 PTS) (Claxton 5 AST),55 - 58,3
+0020400706,262,5,15,3,9:03 PM,9:03,O'Neal Offensive Goaltending Turnover (P3.T12),,,,
+0020400706,263,6,11,3,9:03 PM,9:03,Wade T.FOUL (P0.T2),,,,
+0020400706,264,3,16,3,9:04 PM,9:03,,,Fisher Free Throw Technical (19 PTS),56 - 58,2
+0020400706,265,2,1,3,9:04 PM,8:53,,,MISS Claxton 13' Jump Shot,,
+0020400706,266,4,0,3,9:04 PM,8:51,Jones REBOUND (Off:0 Def:3),,,,
+0020400706,267,6,1,3,9:04 PM,8:48,,,Dunleavy P.FOUL (P2.T3),,
+0020400706,268,6,4,3,9:05 PM,8:41,Wade OFF.Foul (P1),,,,
+0020400706,269,5,5,3,9:05 PM,8:41,Wade Foul Turnover (P6.T13),,,,
+0020400706,270,1,1,3,9:05 PM,8:28,,,Dunleavy  3PT Jump Shot (10 PTS) (Claxton 6 AST),59 - 58,-1
+0020400706,271,2,61,3,9:06 PM,8:09,MISS Jones  Driving Finger Roll,,,,
+0020400706,273,4,0,3,9:06 PM,8:07,O'Neal REBOUND (Off:3 Def:5),,,,
+0020400706,272,1,64,3,9:06 PM,8:07,O'Neal  Follow Up Dunk (17 PTS),,,59 - 60,1
+0020400706,274,2,1,3,9:06 PM,7:43,,,MISS Richardson 24' 3PT Jump Shot,,
+0020400706,275,4,0,3,9:06 PM,7:41,Jones REBOUND (Off:0 Def:3),,,,
+0020400706,276,1,3,3,9:06 PM,7:29,O'Neal 9' Hook Shot (19 PTS),,,59 - 62,3
+0020400706,277,2,1,3,9:07 PM,7:10,,,MISS Claxton 18' Jump Shot,,
+0020400706,278,4,0,3,9:07 PM,7:08,Jones REBOUND (Off:0 Def:4),,,,
+0020400706,279,1,5,3,9:07 PM,6:53,Haslem  Layup (9 PTS) (O'Neal 3 AST),,,59 - 64,5
+0020400706,280,1,3,3,9:07 PM,6:33,,,Dunleavy 11' Hook Shot (12 PTS),61 - 64,3
+0020400706,281,6,2,3,9:08 PM,6:14,,,Fisher S.FOUL (P1.T4),,
+0020400706,282,8,0,3,9:08 PM,6:14,,,SUB: Davis FOR Foyle,,
+0020400706,283,3,11,3,9:08 PM,6:14,Wade Free Throw 1 of 2 (5 PTS),,,61 - 65,4
+0020400706,284,3,12,3,9:08 PM,6:14,Wade Free Throw 2 of 2 (6 PTS),,,61 - 66,5
+0020400706,285,5,41,3,9:09 PM,6:04,,,Richardson Poss Lost Ball Turnover (P1.T5),,
+0020400706,286,1,42,3,9:09 PM,5:54,Wade  Driving Layup (8 PTS),,,61 - 68,7
+0020400706,287,6,2,3,9:09 PM,5:54,,,Dunleavy S.FOUL (P3.PN),,
+0020400706,288,9,1,3,9:09 PM,5:54,HEAT Timeout: Regular (Full 3 Short 0),,,,
+0020400706,290,8,0,3,9:12 PM,5:54,,,SUB: Pietrus FOR Richardson,,
+0020400706,291,8,0,3,9:12 PM,5:54,SUB: Anderson FOR Haslem,,,,
+0020400706,292,3,10,3,9:13 PM,5:54,Wade Free Throw 1 of 1 (9 PTS),,,61 - 69,8
+0020400706,293,1,1,3,9:13 PM,5:44,,,Dunleavy 26' 3PT Jump Shot (15 PTS) (Claxton 7 AST),64 - 69,5
+0020400706,294,2,66,3,9:14 PM,5:18,MISS Wade 15' Jump Bank Shot,,,,
+0020400706,295,4,0,3,9:14 PM,5:16,,,Pietrus REBOUND (Off:0 Def:3),,
+0020400706,296,6,1,3,9:14 PM,5:07,Jones P.FOUL (P1.T3),,,,
+0020400706,297,2,1,3,9:14 PM,4:58,,,MISS Pietrus 20' Jump Shot,,
+0020400706,298,4,0,3,9:14 PM,4:56,O'Neal REBOUND (Off:3 Def:6),,,,
+0020400706,299,6,2,3,9:14 PM,4:52,,,Claxton S.FOUL (P3.PN),,
+0020400706,300,3,11,3,9:15 PM,4:52,MISS Wade Free Throw 1 of 2,,,,
+0020400706,301,4,1,3,9:15 PM,4:52,HEAT Rebound,,,,
+0020400706,302,3,12,3,9:15 PM,4:52,Wade Free Throw 2 of 2 (10 PTS),,,64 - 70,6
+0020400706,303,1,1,3,9:15 PM,4:42,,,Claxton 9' Jump Shot (13 PTS),66 - 70,4
+0020400706,304,1,5,3,9:16 PM,4:28,O'Neal  Layup (21 PTS),,,66 - 72,6
+0020400706,305,2,63,3,9:16 PM,4:11,,,MISS Claxton 10' Fadeaway Jumper,,
+0020400706,306,4,0,3,9:16 PM,4:09,O'Neal REBOUND (Off:3 Def:7),,,,
+0020400706,307,5,1,3,9:16 PM,4:00,Wade Bad Pass Turnover (P7.T14),,Pietrus STEAL (4 STL),,
+0020400706,308,6,1,3,9:16 PM,3:56,Anderson P.FOUL (P1.T4),,,,
+0020400706,309,8,0,3,9:16 PM,3:56,,,SUB: Richardson FOR Fisher,,
+0020400706,311,2,1,3,9:17 PM,3:40,O'Neal BLOCK (1 BLK),,MISS Richardson 8' Jump Shot,,
+0020400706,312,4,0,3,9:17 PM,3:38,Jones REBOUND (Off:0 Def:4),,,,
+0020400706,313,6,4,3,9:17 PM,3:34,Anderson OFF.Foul (P2),,,,
+0020400706,314,5,5,3,9:17 PM,3:34,Anderson Foul Turnover (P1.T15),,,,
+0020400706,315,8,0,3,9:17 PM,3:34,SUB: Dooling FOR Jones,,,,
+0020400706,316,5,40,3,9:17 PM,3:24,,,Claxton Out of Bounds Lost Ball Turnover (P1.T6),,
+0020400706,317,1,5,3,9:18 PM,3:11,Jones  Layup (17 PTS) (Dooling 3 AST),,,66 - 74,8
+0020400706,319,1,66,3,9:18 PM,2:58,,,Richardson 14' Jump Bank Shot (12 PTS),68 - 74,6
+0020400706,320,2,3,3,9:18 PM,2:35,MISS O'Neal 10' Hook Shot,,,,
+0020400706,321,4,0,3,9:18 PM,2:33,,,Richardson REBOUND (Off:0 Def:2),,
+0020400706,322,1,5,3,9:19 PM,2:25,,,Dunleavy  Layup (17 PTS) (Claxton 8 AST),70 - 74,4
+0020400706,323,1,1,3,9:19 PM,2:01,Dooling 20' Jump Shot (2 PTS) (O'Neal 4 AST),,,70 - 76,6
+0020400706,324,9,1,3,9:19 PM,1:51,,,Warriors Timeout: Regular (Reg.3 Short 1),,
+0020400706,326,8,0,3,9:21 PM,1:51,,,SUB: Cabarkapa FOR Claxton,,
+0020400706,327,8,0,3,9:21 PM,1:51,SUB: Doleac FOR O'Neal,,,,
+0020400706,328,8,0,3,9:22 PM,1:51,,,SUB: Najera FOR Davis,,
+0020400706,329,8,0,3,9:22 PM,1:51,SUB: Haslem FOR Anderson,,,,
+0020400706,330,2,3,3,9:22 PM,1:35,,,MISS Richardson 9' Hook Shot,,
+0020400706,331,4,0,3,9:22 PM,1:33,Haslem REBOUND (Off:1 Def:6),,,,
+0020400706,332,2,1,3,9:22 PM,1:20,MISS Jones  3PT Jump Shot,,,,
+0020400706,333,4,0,3,9:22 PM,1:18,,,Cabarkapa REBOUND (Off:0 Def:4),,
+0020400706,334,2,1,3,9:23 PM,1:13,,,MISS Dunleavy 26' 3PT Jump Shot,,
+0020400706,335,4,0,3,9:23 PM,1:11,HEAT Rebound,,,,
+0020400706,336,8,0,3,9:23 PM,1:11,,,SUB: Fisher FOR Dunleavy,,
+0020400706,337,8,0,3,9:23 PM,1:11,SUB: Anderson FOR Jones,,,,
+0020400706,338,1,1,3,9:23 PM,1:00,Dooling 20' Jump Shot (4 PTS),,,70 - 78,8
+0020400706,339,2,5,3,9:24 PM,0:49,,,MISS Najera  Layup,,
+0020400706,340,4,0,3,9:24 PM,0:47,Doleac REBOUND (Off:0 Def:5),,,,
+0020400706,341,2,44,3,9:24 PM,0:41,MISS Dooling  Reverse Layup,,,,
+0020400706,343,4,0,3,9:24 PM,0:38,Doleac REBOUND (Off:1 Def:5),,,,
+0020400706,342,1,4,3,9:24 PM,0:38,Doleac  Tip Shot (6 PTS),,,70 - 80,10
+0020400706,344,6,1,3,9:24 PM,0:36,Anderson P.FOUL (P3.PN),,,,
+0020400706,345,3,11,3,9:24 PM,0:36,,,Richardson Free Throw 1 of 2 (13 PTS),71 - 80,9
+0020400706,346,3,12,3,9:24 PM,0:36,,,Richardson Free Throw 2 of 2 (14 PTS),72 - 80,8
+0020400706,347,6,1,3,9:25 PM,0:18,,,Richardson P.FOUL (P3.PN),,
+0020400706,348,3,11,3,9:25 PM,0:18,MISS Dooling Free Throw 1 of 2,,,,
+0020400706,349,4,1,3,9:25 PM,0:18,HEAT Rebound,,,,
+0020400706,350,3,12,3,9:26 PM,0:18,Dooling Free Throw 2 of 2 (5 PTS),,,72 - 81,9
+0020400706,351,2,42,3,9:26 PM,0:02,,,MISS Richardson  Driving Layup,,
+0020400706,352,4,0,3,9:26 PM,0:00,Haslem REBOUND (Off:1 Def:7),,,,
+0020400706,353,13,0,3,9:26 PM,0:00,,,,72 - 81,9
+0020400706,355,12,0,4,9:29 PM,12:00,,,,72 - 81,9
+0020400706,356,2,1,4,9:29 PM,11:48,,,MISS Pietrus 26' 3PT Jump Shot,,
+0020400706,357,4,0,4,9:29 PM,11:46,Dooling REBOUND (Off:0 Def:3),,,,
+0020400706,358,2,1,4,9:30 PM,11:25,MISS Dooling 24' 3PT Jump Shot,,,,
+0020400706,359,4,0,4,9:30 PM,11:23,Haslem REBOUND (Off:2 Def:7),,,,
+0020400706,360,2,1,4,9:30 PM,11:09,MISS Dooling 4' Jump Shot,,,,
+0020400706,361,4,0,4,9:30 PM,11:05,Anderson REBOUND (Off:1 Def:0),,,,
+0020400706,362,2,5,4,9:30 PM,11:01,MISS Wade  Layup,,,,
+0020400706,363,4,0,4,9:30 PM,10:59,,,Pietrus REBOUND (Off:0 Def:4),,
+0020400706,364,2,1,4,9:30 PM,10:54,,,MISS Richardson 26' 3PT Jump Shot,,
+0020400706,365,4,0,4,9:30 PM,10:52,,,Richardson REBOUND (Off:1 Def:2),,
+0020400706,366,1,1,4,9:30 PM,10:49,,,Cabarkapa 20' Jump Shot (9 PTS) (Richardson 4 AST),74 - 81,7
+0020400706,367,2,5,4,9:31 PM,10:29,MISS Wade  Layup,,,,
+0020400706,369,4,0,4,9:31 PM,10:27,Haslem REBOUND (Off:3 Def:7),,,,
+0020400706,368,2,4,4,9:31 PM,10:27,MISS Haslem  Tip Shot,,,,
+0020400706,371,4,0,4,9:31 PM,10:26,Doleac REBOUND (Off:2 Def:5),,,,
+0020400706,370,2,4,4,9:31 PM,10:26,MISS Doleac  Tip Shot,,,,
+0020400706,373,4,0,4,9:31 PM,10:24,,,Fisher REBOUND (Off:1 Def:2),,
+0020400706,372,1,1,4,9:31 PM,10:20,,,Fisher 21' Jump Shot (21 PTS) (Richardson 5 AST),76 - 81,5
+0020400706,374,1,42,4,9:31 PM,9:55,Wade  Driving Layup (12 PTS),,,76 - 83,7
+0020400706,375,1,1,4,9:32 PM,9:34,,,Richardson 20' Jump Shot (16 PTS) (Dunleavy 2 AST),78 - 83,5
+0020400706,376,2,1,4,9:32 PM,9:11,MISS Doleac 19' Jump Shot,,,,
+0020400706,377,4,0,4,9:32 PM,9:07,,,Warriors Rebound,,
+0020400706,378,6,17,4,9:33 PM,8:43,HEAT T.Foul (Def. 3 Sec Doleac ),,,,
+0020400706,379,3,16,4,9:33 PM,8:43,,,Fisher Free Throw Technical (22 PTS),79 - 83,4
+0020400706,381,8,0,4,9:33 PM,8:43,,,SUB: Claxton FOR Pietrus,,
+0020400706,383,2,1,4,9:33 PM,8:43,,,MISS Richardson 23' Jump Shot,,
+0020400706,384,4,0,4,9:33 PM,8:41,Haslem REBOUND (Off:3 Def:8),,,,
+0020400706,385,6,4,4,9:34 PM,8:31,Wade OFF.Foul (P2),,,,
+0020400706,386,5,5,4,9:34 PM,8:31,Wade Foul Turnover (P8.T16),,,,
+0020400706,387,9,4,4,9:34 PM,8:31,,,,,
+0020400706,390,8,0,4,9:36 PM,8:31,SUB: O'Neal FOR Wade,,,,
+0020400706,391,8,0,4,9:36 PM,8:31,SUB: Jones FOR Doleac,,,,
+0020400706,392,8,0,4,9:36 PM,8:31,SUB: Butler FOR Anderson,,,,
+0020400706,393,8,0,4,9:36 PM,8:31,,,SUB: Foyle FOR Cabarkapa,,
+0020400706,394,2,1,4,9:36 PM,8:31,Dooling BLOCK (1 BLK),,MISS Claxton 12' Jump Shot,,
+0020400706,395,4,0,4,9:36 PM,8:29,Butler REBOUND (Off:0 Def:1),,,,
+0020400706,396,2,47,4,9:37 PM,8:10,MISS O'Neal 9' Turnaround Jump Shot,,,,
+0020400706,397,4,0,4,9:37 PM,8:08,,,Claxton REBOUND (Off:0 Def:2),,
+0020400706,398,2,42,4,9:37 PM,8:03,,,MISS Claxton  Driving Layup,,
+0020400706,399,4,0,4,9:37 PM,8:01,Butler REBOUND (Off:0 Def:2),,,,
+0020400706,400,5,2,4,9:37 PM,7:51,Haslem Lost Ball Turnover (P1.T17),,Claxton STEAL (3 STL),,
+0020400706,401,2,1,4,9:37 PM,7:45,,,MISS Fisher 25' 3PT Jump Shot,,
+0020400706,402,4,0,4,9:37 PM,7:43,,,Dunleavy REBOUND (Off:1 Def:5),,
+0020400706,403,1,42,4,9:37 PM,7:29,,,Dunleavy  Driving Layup (19 PTS),81 - 83,2
+0020400706,404,1,1,4,9:38 PM,7:07,Butler 25' 3PT Jump Shot (6 PTS) (O'Neal 5 AST),,,81 - 86,5
+0020400706,405,6,2,4,9:38 PM,6:51,Dooling S.FOUL (P3.T1),,,,
+0020400706,406,8,0,4,9:38 PM,6:51,SUB: Jones FOR Dooling,,,,
+0020400706,407,3,11,4,9:38 PM,6:51,,,Dunleavy Free Throw 1 of 2 (20 PTS),82 - 86,4
+0020400706,408,3,12,4,9:39 PM,6:51,,,Dunleavy Free Throw 2 of 2 (21 PTS),83 - 86,3
+0020400706,409,2,1,4,9:39 PM,6:39,MISS O'Neal 11' Jump Shot,,,,
+0020400706,410,4,0,4,9:39 PM,6:37,,,Fisher REBOUND (Off:1 Def:3),,
+0020400706,411,2,5,4,9:40 PM,6:19,Butler BLOCK (1 BLK),,MISS Fisher  Layup,,
+0020400706,412,4,0,4,9:40 PM,6:17,Jones REBOUND (Off:0 Def:5),,,,
+0020400706,413,2,1,4,9:40 PM,6:01,MISS Jones 19' Jump Shot,,,,
+0020400706,414,4,0,4,9:40 PM,5:59,,,Richardson REBOUND (Off:1 Def:3),,
+0020400706,415,1,1,4,9:40 PM,5:43,,,Claxton 22' Jump Shot (15 PTS) (Richardson 6 AST),85 - 86,1
+0020400706,417,1,5,4,9:40 PM,5:20,O'Neal  Layup (23 PTS),,,85 - 88,3
+0020400706,418,6,2,4,9:40 PM,5:20,,,Foyle S.FOUL (P3.T1),,
+0020400706,419,9,1,4,9:41 PM,5:20,HEAT Timeout: Regular (Full 4 Short 0),,,,
+0020400706,421,8,0,4,9:43 PM,5:20,,,SUB: Davis FOR Foyle,,
+0020400706,422,8,0,4,9:43 PM,5:20,SUB: Wade FOR Butler,,,,
+0020400706,423,3,10,4,9:43 PM,5:20,MISS O'Neal Free Throw 1 of 1,,,,
+0020400706,424,4,0,4,9:43 PM,5:18,,,Fisher REBOUND (Off:1 Def:4),,
+0020400706,425,2,1,4,9:43 PM,5:08,,,MISS Claxton 19' Jump Shot,,
+0020400706,426,4,0,4,9:43 PM,5:06,O'Neal REBOUND (Off:3 Def:8),,,,
+0020400706,427,6,1,4,9:44 PM,4:49,,,Davis P.FOUL (P3.T2),,
+0020400706,428,1,5,4,9:44 PM,4:39,O'Neal  Layup (25 PTS),,,85 - 90,5
+0020400706,429,2,63,4,9:45 PM,4:24,,,MISS Richardson 17' Fadeaway Jumper,,
+0020400706,430,4,0,4,9:45 PM,4:22,O'Neal REBOUND (Off:3 Def:9),,,,
+0020400706,431,1,1,4,9:45 PM,4:14,Wade 22' Jump Shot (14 PTS),,,85 - 92,7
+0020400706,432,1,1,4,9:45 PM,3:51,,,Dunleavy 24' 3PT Jump Shot (24 PTS) (Claxton 9 AST),88 - 92,4
+0020400706,433,1,42,4,9:45 PM,3:33,Jones  Driving Layup (19 PTS),,,88 - 94,6
+0020400706,434,2,5,4,9:46 PM,3:17,O'Neal BLOCK (2 BLK),,MISS Fisher  Layup,,
+0020400706,435,4,0,4,9:46 PM,3:15,O'Neal REBOUND (Off:3 Def:10),,,,
+0020400706,436,2,66,4,9:46 PM,3:00,MISS Wade 17' Jump Bank Shot,,,,
+0020400706,437,4,0,4,9:46 PM,2:58,,,Richardson REBOUND (Off:1 Def:4),,
+0020400706,438,2,5,4,9:46 PM,2:53,,,MISS Fisher  Layup,,
+0020400706,439,4,0,4,9:46 PM,2:52,Haslem REBOUND (Off:3 Def:9),,,,
+0020400706,440,1,7,4,9:46 PM,2:46,O'Neal  Dunk (27 PTS) (Wade 3 AST),,,88 - 96,8
+0020400706,441,9,1,4,9:46 PM,2:38,,,Warriors Timeout: Regular (Reg.4 Short 1),,
+0020400706,445,2,1,4,9:49 PM,2:34,,,MISS Dunleavy 21' Jump Shot,,
+0020400706,446,4,0,4,9:49 PM,2:32,Jones REBOUND (Off:0 Def:5),,,,
+0020400706,447,6,3,4,9:49 PM,2:32,,,Davis L.B.FOUL (P4.T3),,
+0020400706,448,1,66,4,9:49 PM,2:21,Jones 5' Jump Bank Shot (21 PTS) (O'Neal 6 AST),,,88 - 98,10
+0020400706,449,6,2,4,9:49 PM,2:21,,,Richardson S.FOUL (P4.T4),,
+0020400706,451,8,0,4,9:50 PM,2:21,SUB: Anderson FOR Haslem,,,,
+0020400706,452,3,10,4,9:50 PM,2:21,Jones Free Throw 1 of 1 (22 PTS),,,88 - 99,11
+0020400706,453,1,1,4,9:50 PM,2:05,,,Dunleavy 17' Jump Shot (26 PTS) (Davis 2 AST),90 - 99,9
+0020400706,454,2,1,4,9:51 PM,1:44,MISS O'Neal 9' Jump Shot,,,,
+0020400706,455,4,0,4,9:51 PM,1:42,,,Richardson REBOUND (Off:1 Def:5),,
+0020400706,456,2,1,4,9:51 PM,1:35,,,MISS Dunleavy 9' Jump Shot,,
+0020400706,457,4,0,4,9:51 PM,1:33,Wade REBOUND (Off:0 Def:3),,,,
+0020400706,458,6,2,4,9:51 PM,1:26,,,Claxton S.FOUL (P4.PN),,
+0020400706,459,3,11,4,9:52 PM,1:26,Wade Free Throw 1 of 2 (15 PTS),,,90 - 100,10
+0020400706,460,3,12,4,9:52 PM,1:26,Wade Free Throw 2 of 2 (16 PTS),,,90 - 101,11
+0020400706,461,1,1,4,9:52 PM,1:18,,,Richardson 25' 3PT Jump Shot (19 PTS) (Fisher 3 AST),93 - 101,8
+0020400706,462,2,61,4,9:52 PM,0:57,MISS Wade  Driving Finger Roll,,Davis BLOCK (1 BLK),,
+0020400706,463,4,0,4,9:52 PM,0:55,,,Davis REBOUND (Off:0 Def:2),,
+0020400706,464,6,2,4,9:53 PM,0:52,Anderson S.FOUL (P4.T2),,,,
+0020400706,465,3,11,4,9:53 PM,0:52,,,Claxton Free Throw 1 of 2 (16 PTS),94 - 101,7
+0020400706,467,8,0,4,9:53 PM,0:52,SUB: Haslem FOR Anderson,,,,
+0020400706,468,8,0,4,9:53 PM,0:52,,,SUB: Pietrus FOR Davis,,
+0020400706,469,3,12,4,9:54 PM,0:52,,,MISS Claxton Free Throw 2 of 2,,
+0020400706,470,4,0,4,9:54 PM,0:51,O'Neal REBOUND (Off:3 Def:11),,,,
+0020400706,471,6,1,4,9:54 PM,0:51,,,Pietrus P.FOUL (P2.PN),,
+0020400706,472,3,11,4,9:54 PM,0:51,MISS O'Neal Free Throw 1 of 2,,,,
+0020400706,473,4,1,4,9:54 PM,0:51,HEAT Rebound,,,,
+0020400706,474,8,0,4,9:55 PM,0:51,,,SUB: Davis FOR Pietrus,,
+0020400706,475,8,0,4,9:55 PM,0:51,SUB: Anderson FOR Haslem,,,,
+0020400706,476,3,12,4,9:55 PM,0:51,MISS O'Neal Free Throw 2 of 2,,,,
+0020400706,477,4,0,4,9:55 PM,0:50,,,Dunleavy REBOUND (Off:1 Def:6),,
+0020400706,478,1,42,4,9:55 PM,0:40,,,Richardson  Driving Layup (21 PTS),96 - 101,5
+0020400706,479,6,2,4,9:55 PM,0:31,,,Richardson S.FOUL (P5.PN),,
+0020400706,480,3,11,4,9:56 PM,0:31,Wade Free Throw 1 of 2 (17 PTS),,,96 - 102,6
+0020400706,481,3,12,4,9:56 PM,0:31,Wade Free Throw 2 of 2 (18 PTS),,,96 - 103,7
+0020400706,482,9,1,4,9:56 PM,0:31,,,Warriors Timeout: Regular (Reg.5 Short 1),,
+0020400706,486,2,1,4,9:58 PM,0:25,,,MISS Richardson 22' Jump Shot,,
+0020400706,487,4,0,4,9:58 PM,0:23,,,Davis REBOUND (Off:1 Def:2),,
+0020400706,488,2,1,4,9:58 PM,0:17,,,MISS Fisher 19' Jump Shot,,
+0020400706,489,4,0,4,9:58 PM,0:14,Jones REBOUND (Off:0 Def:6),,,,
+0020400706,490,6,1,4,9:58 PM,0:12,,,Claxton P.FOUL (P5.PN),,
+0020400706,491,3,11,4,9:59 PM,0:12,Jones Free Throw 1 of 2 (11 PTS),,,96 - 104,8
+0020400706,492,3,12,4,9:59 PM,0:12,Jones Free Throw 2 of 2 (12 PTS),,,96 - 105,9
+0020400706,493,5,1,4,9:59 PM,0:03,,,Fisher Bad Pass Turnover (P2.T7),,
+0020400706,494,13,0,4,9:59 PM,0:00,,,,96 - 105,9

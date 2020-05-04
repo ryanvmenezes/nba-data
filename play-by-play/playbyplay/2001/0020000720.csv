@@ -1,0 +1,436 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000720,0,12,0,1,2:40 PM,12:00,,,,,
+0020000720,1,10,0,1,2:41 PM,12:00,Jump Ball Foyle vs. Tsakalidis: Tip to Sura,,,,
+0020000720,2,1,5,1,2:42 PM,11:43,Blaylock  Layup (2 PTS) (Jamison 1 AST),,,0 - 2,2
+0020000720,3,1,1,1,2:42 PM,11:25,,,Robinson 13' Jump Shot (2 PTS) (Elie 1 AST),2 - 2,TIE
+0020000720,4,2,47,1,2:42 PM,11:10,MISS Jackson 12' Turnaround Jump Shot,,,,
+0020000720,5,4,0,1,2:42 PM,11:09,,,Kidd REBOUND (Off:0 Def:1),,
+0020000720,6,1,46,1,2:42 PM,11:01,,,Robinson 8' Running Jump Shot (4 PTS) (Kidd 1 AST),4 - 2,-2
+0020000720,7,2,47,1,2:43 PM,10:46,MISS Jackson 6' Turnaround Jump Shot,,,,
+0020000720,8,4,0,1,2:43 PM,10:45,,,Elie REBOUND (Off:0 Def:1),,
+0020000720,9,2,1,1,2:43 PM,10:33,,,MISS Marion 20' Jump Shot,,
+0020000720,10,4,0,1,2:43 PM,10:32,Blaylock REBOUND (Off:0 Def:1),,,,
+0020000720,11,1,42,1,2:43 PM,10:22,Sura  Driving Layup (2 PTS) (Blaylock 1 AST),,,4 - 4,TIE
+0020000720,12,2,1,1,2:43 PM,9:56,,,MISS Robinson 6' Jump Shot,,
+0020000720,13,4,0,1,2:43 PM,9:55,Jackson REBOUND (Off:0 Def:1),,,,
+0020000720,14,2,1,1,2:44 PM,9:48,MISS Blaylock 10' Jump Shot,,,,
+0020000720,15,4,0,1,2:44 PM,9:47,,,Tsakalidis REBOUND (Off:0 Def:1),,
+0020000720,16,1,42,1,2:44 PM,9:41,,,Kidd  Driving Layup (2 PTS) (Tsakalidis 1 AST),6 - 4,-2
+0020000720,17,2,1,1,2:44 PM,9:34,MISS Sura 1' Jump Shot,,,,
+0020000720,18,4,0,1,2:44 PM,9:31,,,Robinson REBOUND (Off:0 Def:1),,
+0020000720,19,1,5,1,2:44 PM,9:24,,,Marion  Layup (2 PTS) (Elie 2 AST),8 - 4,-4
+0020000720,20,2,1,1,2:44 PM,9:08,MISS Blaylock 20' Jump Shot,,,,
+0020000720,21,4,0,1,2:44 PM,9:07,,,Tsakalidis REBOUND (Off:0 Def:2),,
+0020000720,22,2,42,1,2:44 PM,9:02,,,MISS Kidd  Driving Layup,,
+0020000720,23,4,0,1,2:44 PM,9:01,Foyle REBOUND (Off:0 Def:1),,,,
+0020000720,24,2,1,1,2:45 PM,8:51,MISS Jamison 8' Jump Shot,,,,
+0020000720,25,4,0,1,2:45 PM,8:50,,,Tsakalidis REBOUND (Off:0 Def:3),,
+0020000720,26,2,1,1,2:45 PM,8:41,,,MISS Robinson 26' 3PT Jump Shot,,
+0020000720,27,4,0,1,2:45 PM,8:39,,,Marion REBOUND (Off:1 Def:0),,
+0020000720,28,2,1,1,2:45 PM,8:27,,,MISS Marion 19' Jump Shot,,
+0020000720,29,4,0,1,2:45 PM,8:26,Foyle REBOUND (Off:0 Def:2),,,,
+0020000720,30,2,5,1,2:45 PM,8:06,MISS Jamison 3' Layup,,,,
+0020000720,31,4,0,1,2:45 PM,8:05,,,Marion REBOUND (Off:1 Def:1),,
+0020000720,32,2,3,1,2:46 PM,7:51,,,MISS Tsakalidis 4' Hook Shot,,
+0020000720,33,4,0,1,2:46 PM,7:50,Jackson REBOUND (Off:0 Def:2),,,,
+0020000720,34,2,1,1,2:46 PM,7:43,MISS Blaylock 18' Jump Shot,,,,
+0020000720,35,4,0,1,2:46 PM,7:42,,,Robinson REBOUND (Off:0 Def:2),,
+0020000720,36,1,1,1,2:46 PM,7:35,,,Marion 6' Jump Shot (4 PTS) (Kidd 2 AST),10 - 4,-6
+0020000720,37,2,42,1,2:46 PM,7:15,MISS Sura  Driving Layup,,,,
+0020000720,38,4,0,1,2:46 PM,7:13,,,Marion REBOUND (Off:1 Def:2),,
+0020000720,39,2,1,1,2:47 PM,7:05,,,MISS Robinson 15' Jump Shot,,
+0020000720,40,4,0,1,2:47 PM,7:02,,,Tsakalidis REBOUND (Off:1 Def:3),,
+0020000720,41,2,3,1,2:47 PM,7:01,,,MISS Tsakalidis 4' Hook Shot,,
+0020000720,42,4,0,1,2:47 PM,7:00,Jamison REBOUND (Off:0 Def:1),,,,
+0020000720,43,2,1,1,2:47 PM,6:50,MISS Blaylock 4' Jump Shot,,Robinson BLOCK (1 BLK),,
+0020000720,44,4,0,1,2:47 PM,6:48,,,Marion REBOUND (Off:1 Def:3),,
+0020000720,45,6,2,1,2:47 PM,6:44,Sura S.FOUL (P1.T1),,,,
+0020000720,46,3,11,1,2:47 PM,6:44,,,Elie Free Throw 1 of 2 (1 PTS),11 - 4,-7
+0020000720,47,3,12,1,2:47 PM,6:44,,,Elie Free Throw 2 of 2 (2 PTS),12 - 4,-8
+0020000720,48,2,1,1,2:48 PM,6:32,MISS Sura 4' Jump Shot,,,,
+0020000720,49,4,0,1,2:48 PM,6:31,,,Kidd REBOUND (Off:0 Def:2),,
+0020000720,50,2,1,1,2:48 PM,6:21,,,MISS Marion 14' Jump Shot,,
+0020000720,51,4,0,1,2:48 PM,6:20,,,Tsakalidis REBOUND (Off:2 Def:3),,
+0020000720,52,6,2,1,2:48 PM,6:19,Jackson S.FOUL (P1.T2),,,,
+0020000720,53,3,11,1,2:48 PM,6:19,,,MISS Tsakalidis Free Throw 1 of 2,,
+0020000720,54,4,1,1,2:48 PM,6:19,,,Suns Rebound,,
+0020000720,55,3,12,1,2:49 PM,6:19,,,MISS Tsakalidis Free Throw 2 of 2,,
+0020000720,56,4,0,1,2:49 PM,6:17,Sura REBOUND (Off:0 Def:1),,,,
+0020000720,57,2,58,1,2:49 PM,6:02,MISS Jackson 4' Turnaround Hook Shot,,,,
+0020000720,58,4,0,1,2:49 PM,6:00,,,Tsakalidis REBOUND (Off:2 Def:4),,
+0020000720,59,1,1,1,2:49 PM,5:48,,,Tsakalidis 12' Jump Shot (2 PTS) (Kidd 3 AST),14 - 4,-10
+0020000720,60,9,1,1,2:49 PM,5:41,WARRIORS Timeout: Regular (Full 1 Short 0),,,,
+0020000720,62,1,59,1,2:52 PM,5:33,Jamison 5' Finger Roll (2 PTS) (Blaylock 2 AST),,,14 - 6,-8
+0020000720,63,2,47,1,2:52 PM,5:15,,,MISS Marion 12' Turnaround Jump Shot,,
+0020000720,64,4,0,1,2:52 PM,5:14,Foyle REBOUND (Off:0 Def:3),,,,
+0020000720,65,2,1,1,2:53 PM,4:56,MISS Jamison 15' Jump Shot,,,,
+0020000720,66,4,0,1,2:53 PM,4:55,,,Suns Rebound,,
+0020000720,67,6,3,1,2:53 PM,4:55,Foyle L.B.FOUL (P1.T3),,,,
+0020000720,68,8,0,1,2:53 PM,4:55,,,SUB: Delk FOR Elie,,
+0020000720,69,2,42,1,2:53 PM,4:34,,,MISS Marion  Driving Layup,,
+0020000720,71,4,0,1,2:53 PM,4:33,,,Tsakalidis REBOUND (Off:3 Def:4),,
+0020000720,70,2,4,1,2:53 PM,4:32,,,MISS Tsakalidis  Tip Shot,,
+0020000720,72,4,0,1,2:53 PM,4:31,Jamison REBOUND (Off:0 Def:2),,,,
+0020000720,73,5,1,1,2:53 PM,4:24,Jamison Bad Pass Turnover (P1.T1),,,,
+0020000720,74,8,0,1,2:53 PM,4:24,SUB: Hughes FOR Sura,,,,
+0020000720,75,2,1,1,2:54 PM,4:11,,,MISS Kidd 18' Jump Shot,,
+0020000720,76,4,0,1,2:54 PM,4:10,Jamison REBOUND (Off:0 Def:3),,,,
+0020000720,77,6,3,1,2:54 PM,4:10,,,Tsakalidis L.B.FOUL (P1.T1),,
+0020000720,78,8,0,1,2:54 PM,4:10,SUB: Cummings FOR Blaylock,,,,
+0020000720,79,2,1,1,2:54 PM,3:59,MISS Foyle 5' Jump Shot,,,,
+0020000720,80,4,0,1,2:54 PM,3:57,Jamison REBOUND (Off:1 Def:3),,,,
+0020000720,82,7,3,1,2:55 PM,3:56,,,Tsakalidis Violation:Lane,,
+0020000720,81,1,5,1,2:55 PM,3:56,Jamison 3' Layup (4 PTS),,,14 - 8,-6
+0020000720,83,2,5,1,2:55 PM,3:36,Foyle BLOCK (1 BLK),,MISS Robinson 3' Layup,,
+0020000720,84,4,0,1,2:55 PM,3:35,,,Suns Rebound,,
+0020000720,85,8,0,1,2:55 PM,3:35,SUB: Blount FOR Jackson,,,,
+0020000720,86,2,5,1,2:56 PM,3:27,,,MISS Marion 3' Layup,,
+0020000720,88,4,0,1,2:56 PM,3:26,,,Marion REBOUND (Off:2 Def:3),,
+0020000720,87,1,5,1,2:56 PM,3:25,,,Marion  Layup (6 PTS),16 - 8,-8
+0020000720,89,2,5,1,2:56 PM,3:15,MISS Foyle 3' Layup,,,,
+0020000720,90,4,0,1,2:56 PM,3:14,Foyle REBOUND (Off:1 Def:3),,,,
+0020000720,91,5,2,1,2:56 PM,3:03,Blount Lost Ball Turnover (P1.T2),,Delk STEAL (1 STL),,
+0020000720,92,2,1,1,2:56 PM,2:55,,,MISS Delk 10' Jump Shot,,
+0020000720,94,4,0,1,2:56 PM,2:54,,,Marion REBOUND (Off:3 Def:3),,
+0020000720,93,1,5,1,2:56 PM,2:52,,,Marion  Layup (8 PTS),18 - 8,-10
+0020000720,95,1,1,1,2:56 PM,2:33,Jamison 8' Jump Shot (6 PTS) (Foyle 1 AST),,,18 - 10,-8
+0020000720,96,2,1,1,2:57 PM,2:11,,,MISS Robinson 6' Jump Shot,,
+0020000720,97,4,0,1,2:57 PM,2:10,Blount REBOUND (Off:0 Def:1),,,,
+0020000720,98,9,1,1,2:57 PM,2:05,,,Suns Timeout: Regular (Reg.1 Short 0),,
+0020000720,100,8,0,1,2:59 PM,2:05,SUB: Jackson FOR Foyle,,,,
+0020000720,101,8,0,1,2:59 PM,2:05,,,SUB: Gugliotta FOR Tsakalidis,,
+0020000720,102,1,58,1,3:00 PM,2:00,Jamison 6' Turnaround Hook Shot (8 PTS) (Hughes 1 AST),,,18 - 12,-6
+0020000720,103,1,1,1,3:00 PM,1:40,,,Robinson 11' Jump Shot (6 PTS) (Delk 1 AST),20 - 12,-8
+0020000720,104,8,0,1,3:00 PM,1:29,,,SUB: Rogers FOR Marion,,
+0020000720,105,7,2,1,3:01 PM,1:24,,,Robinson Violation:Defensive Goaltending,,
+0020000720,106,2,1,1,3:01 PM,1:17,MISS Jamison 17' Jump Shot,,,,
+0020000720,107,4,0,1,3:01 PM,1:16,,,Gugliotta REBOUND (Off:0 Def:1),,
+0020000720,108,2,1,1,3:01 PM,1:00,,,MISS Kidd 6' Jump Shot,,
+0020000720,109,4,0,1,3:01 PM,0:59,Jackson REBOUND (Off:0 Def:3),,,,
+0020000720,110,5,1,1,3:02 PM,0:43,Hughes Bad Pass Turnover (P1.T3),,Gugliotta STEAL (1 STL),,
+0020000720,111,6,2,1,3:02 PM,0:39,Cummings S.FOUL (P1.T4),,,,
+0020000720,112,3,11,1,3:02 PM,0:39,,,Kidd Free Throw 1 of 2 (3 PTS),21 - 12,-9
+0020000720,113,8,0,1,3:02 PM,0:39,,,SUB: Tsakalidis FOR Robinson,,
+0020000720,114,3,12,1,3:02 PM,0:39,,,MISS Kidd Free Throw 2 of 2,,
+0020000720,115,4,0,1,3:02 PM,0:38,Blount REBOUND (Off:0 Def:2),,,,
+0020000720,116,1,1,1,3:03 PM,0:30,Jackson 16' Jump Shot (2 PTS) (Cummings 1 AST),,,21 - 14,-7
+0020000720,117,5,1,1,3:03 PM,0:13,Hughes STEAL (1 STL),,Rogers Bad Pass Turnover (P1.T1),,
+0020000720,118,2,1,1,3:03 PM,0:06,MISS Hughes 5' Jump Shot,,Delk BLOCK (1 BLK),,
+0020000720,119,4,0,1,3:03 PM,0:04,,,Gugliotta REBOUND (Off:0 Def:2),,
+0020000720,120,13,0,1,3:03 PM,0:00,,,,21 - 14,-7
+0020000720,122,12,0,2,3:06 PM,12:00,,,,21 - 14,-7
+0020000720,123,2,1,2,3:08 PM,11:39,,,MISS Gugliotta 14' Jump Shot,,
+0020000720,124,4,0,2,3:08 PM,11:38,,,Delk REBOUND (Off:1 Def:0),,
+0020000720,125,2,1,2,3:08 PM,11:37,,,MISS Gugliotta 17' Jump Shot,,
+0020000720,126,4,0,2,3:08 PM,11:36,,,Suns Rebound,,
+0020000720,127,5,11,2,3:08 PM,11:36,,,Suns Turnover: Shot Clock (T#2),,
+0020000720,128,1,1,2,3:08 PM,11:22,Hughes 16' Jump Shot (2 PTS) (Cummings 2 AST),,,21 - 16,-5
+0020000720,129,2,1,2,3:08 PM,11:06,,,MISS Rogers 17' Jump Shot,,
+0020000720,130,4,0,2,3:08 PM,11:05,Jackson REBOUND (Off:0 Def:4),,,,
+0020000720,131,1,1,2,3:09 PM,10:56,Jamison 25' 3PT Jump Shot (11 PTS) (Cummings 3 AST),,,21 - 19,-2
+0020000720,132,2,1,2,3:09 PM,10:39,,,MISS Rogers 19' Jump Shot,,
+0020000720,133,4,0,2,3:09 PM,10:38,Blount REBOUND (Off:0 Def:3),,,,
+0020000720,134,6,1,2,3:09 PM,10:34,,,Rogers P.FOUL (P1.T1),,
+0020000720,135,2,1,2,3:09 PM,10:31,MISS Jackson 18' Jump Shot,,,,
+0020000720,136,4,0,2,3:09 PM,10:30,,,Tsakalidis REBOUND (Off:3 Def:5),,
+0020000720,137,1,1,2,3:09 PM,10:23,,,Gugliotta 15' Jump Shot (2 PTS) (Del Negro 1 AST),23 - 19,-4
+0020000720,138,2,1,2,3:10 PM,10:12,MISS Jackson 4' Jump Shot,,Tsakalidis BLOCK (1 BLK),,
+0020000720,139,4,0,2,3:10 PM,10:10,,,Delk REBOUND (Off:1 Def:1),,
+0020000720,140,1,1,2,3:10 PM,10:04,,,Del Negro 20' Jump Shot (2 PTS) (Delk 2 AST),25 - 19,-6
+0020000720,141,2,1,2,3:10 PM,9:43,MISS Hughes 19' Jump Shot,,,,
+0020000720,142,4,0,2,3:10 PM,9:41,,,Delk REBOUND (Off:1 Def:2),,
+0020000720,143,5,2,2,3:10 PM,9:38,Hughes STEAL (2 STL),,Delk Lost Ball Turnover (P1.T3),,
+0020000720,144,1,1,2,3:10 PM,9:32,Cummings 17' Jump Shot (2 PTS),,,25 - 21,-4
+0020000720,145,2,1,2,3:11 PM,9:14,,,MISS Del Negro 15' Jump Shot,,
+0020000720,146,4,0,2,3:11 PM,9:13,Cummings REBOUND (Off:0 Def:1),,,,
+0020000720,147,6,2,2,3:11 PM,8:57,,,Rogers S.FOUL (P2.T2),,
+0020000720,148,9,4,2,3:11 PM,8:57,,,,,
+0020000720,150,8,0,2,3:13 PM,8:57,SUB: Sura FOR Jackson,,,,
+0020000720,151,8,0,2,3:13 PM,8:57,SUB: Foyle FOR Hughes,,,,
+0020000720,152,8,0,2,3:13 PM,8:57,SUB: Blaylock FOR Cummings,,,,
+0020000720,153,8,0,2,3:13 PM,8:57,,,SUB: Robinson FOR Rogers,,
+0020000720,154,3,11,2,3:13 PM,8:57,MISS Blount Free Throw 1 of 2,,,,
+0020000720,155,4,1,2,3:13 PM,8:57,WARRIORS Rebound,,,,
+0020000720,156,3,12,2,3:13 PM,8:57,Blount Free Throw 2 of 2 (1 PTS),,,25 - 22,-3
+0020000720,157,6,1,2,3:14 PM,8:45,Blount P.FOUL (P1.T1),,,,
+0020000720,158,1,1,2,3:14 PM,8:35,,,Gugliotta 15' Jump Shot (4 PTS) (Delk 3 AST),27 - 22,-5
+0020000720,159,5,1,2,3:15 PM,8:20,Foyle Bad Pass Turnover (P1.T4),,Robinson STEAL (1 STL),,
+0020000720,160,1,1,2,3:15 PM,8:13,,,Delk 20' Jump Shot (2 PTS),29 - 22,-7
+0020000720,161,2,1,2,3:15 PM,7:52,MISS Jamison 25' 3PT Jump Shot,,,,
+0020000720,162,4,0,2,3:15 PM,7:51,,,Tsakalidis REBOUND (Off:3 Def:6),,
+0020000720,163,1,42,2,3:15 PM,7:31,,,Delk  Driving Layup (4 PTS),31 - 22,-9
+0020000720,164,2,1,2,3:16 PM,7:18,MISS Blaylock 19' Jump Shot,,,,
+0020000720,165,4,0,2,3:16 PM,7:17,,,Tsakalidis REBOUND (Off:3 Def:7),,
+0020000720,166,6,4,2,3:16 PM,7:05,,,Robinson OFF.Foul (P1),,
+0020000720,167,5,5,2,3:16 PM,7:05,,,Robinson Foul Turnover (P1.T4),,
+0020000720,168,8,0,2,3:16 PM,7:05,,,SUB: Marion FOR Tsakalidis,,
+0020000720,169,1,42,2,3:16 PM,6:51,Sura  Driving Layup (4 PTS) (Blaylock 3 AST),,,31 - 24,-7
+0020000720,170,1,1,2,3:17 PM,6:37,,,Gugliotta 16' Jump Shot (6 PTS) (Robinson 1 AST),33 - 24,-9
+0020000720,171,5,1,2,3:17 PM,6:32,Blaylock Bad Pass Turnover (P1.T5),,Delk STEAL (2 STL),,
+0020000720,172,1,5,2,3:17 PM,6:25,,,Marion 3' Layup (10 PTS) (Robinson 2 AST),35 - 24,-11
+0020000720,173,9,1,2,3:17 PM,6:19,WARRIORS Timeout: Regular (Full 2 Short 0),,,,
+0020000720,175,8,0,2,3:19 PM,6:19,SUB: Jackson FOR Blount,,,,
+0020000720,176,8,0,2,3:19 PM,6:19,,,SUB: Kidd FOR Del Negro,,
+0020000720,177,2,1,2,3:20 PM,5:58,MISS Jackson 18' Jump Shot,,,,
+0020000720,179,4,0,2,3:20 PM,5:56,Jamison REBOUND (Off:2 Def:3),,,,
+0020000720,178,1,5,2,3:20 PM,5:55,Jamison  Layup (13 PTS),,,35 - 26,-9
+0020000720,180,2,1,2,3:20 PM,5:38,,,MISS Delk 20' Jump Shot,,
+0020000720,181,4,0,2,3:20 PM,5:37,Jackson REBOUND (Off:0 Def:5),,,,
+0020000720,182,1,8,2,3:20 PM,5:24,Jackson  Slam Dunk (4 PTS) (Sura 1 AST),,,35 - 28,-7
+0020000720,183,2,1,2,3:21 PM,5:09,,,MISS Delk 5' Jump Shot,,
+0020000720,184,4,0,2,3:21 PM,5:08,Jamison REBOUND (Off:2 Def:4),,,,
+0020000720,185,2,1,2,3:21 PM,4:55,MISS Jackson 17' Jump Shot,,,,
+0020000720,186,4,0,2,3:21 PM,4:54,,,Robinson REBOUND (Off:0 Def:3),,
+0020000720,187,1,5,2,3:21 PM,4:47,,,Marion  Layup (12 PTS) (Kidd 4 AST),37 - 28,-9
+0020000720,188,5,2,2,3:21 PM,4:36,Sura Lost Ball Turnover (P1.T6),,Kidd STEAL (1 STL),,
+0020000720,189,6,3,2,3:21 PM,4:35,Sura L.B.FOUL (P2.T2),,,,
+0020000720,190,1,8,2,3:22 PM,4:21,,,Gugliotta  Slam Dunk (8 PTS) (Kidd 5 AST),39 - 28,-11
+0020000720,191,2,1,2,3:22 PM,4:00,MISS Sura  3PT Jump Shot,,,,
+0020000720,192,4,0,2,3:22 PM,3:59,,,Delk REBOUND (Off:1 Def:3),,
+0020000720,193,2,5,2,3:22 PM,3:40,,,MISS Robinson 3' Layup,,
+0020000720,194,4,0,2,3:22 PM,3:39,Jackson REBOUND (Off:0 Def:6),,,,
+0020000720,195,1,59,2,3:22 PM,3:35,Jamison  Finger Roll (15 PTS) (Jackson 1 AST),,,39 - 30,-9
+0020000720,196,1,1,2,3:23 PM,3:21,,,Delk 16' Jump Shot (6 PTS),41 - 30,-11
+0020000720,197,2,1,2,3:23 PM,3:03,MISS Jamison 15' Jump Shot,,,,
+0020000720,198,4,0,2,3:23 PM,3:01,,,Kidd REBOUND (Off:0 Def:3),,
+0020000720,199,1,42,2,3:23 PM,2:58,,,Kidd  Driving Layup (5 PTS),43 - 30,-13
+0020000720,200,2,1,2,3:23 PM,2:41,MISS Blaylock 16' Jump Shot,,,,
+0020000720,201,4,0,2,3:23 PM,2:40,,,Kidd REBOUND (Off:0 Def:4),,
+0020000720,202,1,1,2,3:23 PM,2:30,,,Robinson 24' 3PT Jump Shot (9 PTS) (Gugliotta 1 AST),46 - 30,-16
+0020000720,203,9,2,2,3:24 PM,2:26,WARRIORS Timeout: Short (Full 2 Short 1),,,,
+0020000720,204,9,1,2,3:24 PM,2:26,,,Suns Timeout: Regular (Reg.2 Short 0),,
+0020000720,206,8,0,2,3:26 PM,2:26,SUB: Blount FOR Foyle,,,,
+0020000720,207,2,1,2,3:27 PM,2:03,MISS Jamison 17' Jump Shot,,,,
+0020000720,208,4,0,2,3:27 PM,2:02,Sura REBOUND (Off:1 Def:1),,,,
+0020000720,209,2,5,2,3:27 PM,2:01,MISS Sura 3' Layup,,Marion BLOCK (1 BLK),,
+0020000720,210,4,0,2,3:27 PM,2:00,WARRIORS Rebound,,,,
+0020000720,211,5,1,2,3:27 PM,1:50,Jackson Bad Pass Turnover (P1.T7),,Marion STEAL (1 STL),,
+0020000720,212,2,1,2,3:27 PM,1:41,,,MISS Marion 14' Jump Shot,,
+0020000720,213,4,0,2,3:27 PM,1:40,Sura REBOUND (Off:1 Def:2),,,,
+0020000720,214,2,1,2,3:28 PM,1:23,MISS Jackson 4' Jump Shot,,Marion BLOCK (2 BLK),,
+0020000720,215,4,0,2,3:28 PM,1:21,Jackson REBOUND (Off:1 Def:6),,,,
+0020000720,216,1,3,2,3:28 PM,1:19,Jackson 4' Hook Shot (6 PTS),,,46 - 32,-14
+0020000720,217,5,2,2,3:28 PM,1:06,Jamison STEAL (1 STL),,Kidd Lost Ball Turnover (P1.T5),,
+0020000720,218,1,5,2,3:28 PM,1:01,Sura  Layup (6 PTS) (Blaylock 4 AST),,,46 - 34,-12
+0020000720,219,6,4,2,3:28 PM,0:43,,,Marion OFF.Foul (P1),,
+0020000720,220,5,5,2,3:28 PM,0:43,,,Marion Foul Turnover (P1.T6),,
+0020000720,221,5,2,2,3:29 PM,0:27,Sura Lost Ball Turnover (P2.T8),,Delk STEAL (3 STL),,
+0020000720,222,1,1,2,3:29 PM,0:21,,,Delk 5' Jump Shot (8 PTS),48 - 34,-14
+0020000720,223,2,1,2,3:29 PM,0:01,MISS Blaylock 17' Jump Shot,,,,
+0020000720,224,4,0,2,3:29 PM,0:00,,,Gugliotta REBOUND (Off:0 Def:3),,
+0020000720,225,13,0,2,3:29 PM,0:00,,,,48 - 34,-14
+0020000720,227,12,0,3,3:45 PM,12:00,,,,48 - 34,-14
+0020000720,228,1,1,3,3:46 PM,11:49,,,Kidd 17' Jump Shot (7 PTS),50 - 34,-16
+0020000720,229,5,3,3,3:47 PM,11:25,Foyle Out Of Bounds Turnover (P2.T9),,,,
+0020000720,230,1,5,3,3:47 PM,11:10,,,Tsakalidis  Layup (4 PTS),52 - 34,-18
+0020000720,231,2,1,3,3:47 PM,10:52,MISS Blaylock 25' 3PT Jump Shot,,,,
+0020000720,232,4,0,3,3:47 PM,10:52,,,Suns Rebound,,
+0020000720,233,2,1,3,3:48 PM,10:35,,,MISS Tsakalidis 10' Jump Shot,,
+0020000720,234,4,0,3,3:48 PM,10:34,,,Robinson REBOUND (Off:1 Def:3),,
+0020000720,235,1,1,3,3:48 PM,10:21,,,Marion 20' Jump Shot (14 PTS) (Elie 3 AST),54 - 34,-20
+0020000720,236,9,1,3,3:48 PM,10:13,WARRIORS Timeout: Regular (Full 3 Short 1),,,,
+0020000720,238,1,5,3,3:51 PM,10:03,Jamison  Layup (17 PTS) (Blaylock 5 AST),,,54 - 36,-18
+0020000720,239,2,1,3,3:51 PM,9:47,,,MISS Kidd 17' Jump Shot,,
+0020000720,240,4,0,3,3:51 PM,9:46,Foyle REBOUND (Off:1 Def:4),,,,
+0020000720,241,1,42,3,3:51 PM,9:40,Blaylock  Driving Layup (4 PTS),,,54 - 38,-16
+0020000720,242,2,1,3,3:51 PM,9:24,,,MISS Tsakalidis 11' Jump Shot,,
+0020000720,243,4,0,3,3:51 PM,9:23,Jackson REBOUND (Off:1 Def:7),,,,
+0020000720,244,5,4,3,3:51 PM,9:18,Blaylock Traveling Turnover (P2.T10),,,,
+0020000720,245,2,1,3,3:52 PM,9:05,Foyle BLOCK (2 BLK),,MISS Tsakalidis 5' Jump Shot,,
+0020000720,246,4,0,3,3:52 PM,9:03,Jamison REBOUND (Off:2 Def:5),,,,
+0020000720,247,1,1,3,3:52 PM,8:57,Jamison 14' Jump Shot (19 PTS) (Blaylock 6 AST),,,54 - 40,-14
+0020000720,248,9,1,3,3:52 PM,8:54,,,Suns Timeout: Regular (Reg.3 Short 0),,
+0020000720,250,5,4,3,3:54 PM,8:43,,,Kidd Traveling Turnover (P2.T7),,
+0020000720,251,1,41,3,3:55 PM,8:23,Sura 3' Running Layup (8 PTS),,,54 - 42,-12
+0020000720,252,2,1,3,3:55 PM,8:02,,,MISS Robinson  3PT Jump Shot,,
+0020000720,253,4,0,3,3:55 PM,8:01,Jackson REBOUND (Off:1 Def:8),,,,
+0020000720,254,2,1,3,3:56 PM,7:43,MISS Blaylock 5' Jump Shot,,Robinson BLOCK (2 BLK),,
+0020000720,255,4,0,3,3:56 PM,7:41,,,Elie REBOUND (Off:0 Def:2),,
+0020000720,256,1,42,3,3:56 PM,7:39,,,Elie  Driving Layup (4 PTS) (Kidd 6 AST),56 - 42,-14
+0020000720,257,2,1,3,3:56 PM,7:15,MISS Blaylock 12' Jump Shot,,,,
+0020000720,258,4,0,3,3:56 PM,7:14,,,Marion REBOUND (Off:3 Def:4),,
+0020000720,259,1,1,3,3:57 PM,6:52,,,Kidd 24' 3PT Jump Shot (10 PTS) (Marion 1 AST),59 - 42,-17
+0020000720,260,7,1,3,3:57 PM,6:47,,,Suns Violation: Delay of game Violation,,
+0020000720,261,2,1,3,3:57 PM,6:34,MISS Sura 20' Jump Shot,,,,
+0020000720,262,4,0,3,3:57 PM,6:32,Sura REBOUND (Off:2 Def:2),,,,
+0020000720,263,1,1,3,3:57 PM,6:28,Sura 25' 3PT Jump Shot (11 PTS),,,59 - 45,-14
+0020000720,264,6,2,3,3:57 PM,6:12,Jackson S.FOUL (P2.T1),,,,
+0020000720,265,8,0,3,3:58 PM,6:12,,,SUB: Gugliotta FOR Tsakalidis,,
+0020000720,266,8,0,3,3:58 PM,6:12,SUB: Hughes FOR Foyle,,,,
+0020000720,267,3,11,3,3:58 PM,6:12,,,Marion Free Throw 1 of 2 (15 PTS),60 - 45,-15
+0020000720,268,3,12,3,3:58 PM,6:12,,,MISS Marion Free Throw 2 of 2,,
+0020000720,269,4,0,3,3:58 PM,6:11,Jackson REBOUND (Off:1 Def:9),,,,
+0020000720,270,5,11,3,3:58 PM,5:48,WARRIORS Turnover: Shot Clock (T#11),,,,
+0020000720,271,5,1,3,3:59 PM,5:32,Jackson STEAL (1 STL),,Robinson Bad Pass Turnover (P2.T8),,
+0020000720,272,1,1,3,3:59 PM,5:18,Blaylock 24' 3PT Jump Shot (7 PTS) (Sura 2 AST),,,60 - 48,-12
+0020000720,273,6,2,3,4:00 PM,5:03,Jackson S.FOUL (P3.T2),,,,
+0020000720,274,8,0,3,4:00 PM,5:03,,,SUB: Delk FOR Elie,,
+0020000720,275,3,11,3,4:00 PM,5:03,,,Marion Free Throw 1 of 2 (16 PTS),61 - 48,-13
+0020000720,276,3,12,3,4:00 PM,5:03,,,MISS Marion Free Throw 2 of 2,,
+0020000720,277,4,0,3,4:00 PM,5:02,Jamison REBOUND (Off:2 Def:6),,,,
+0020000720,278,2,1,3,4:01 PM,4:41,MISS Jackson 12' Jump Shot,,,,
+0020000720,279,4,0,3,4:01 PM,4:40,,,Robinson REBOUND (Off:1 Def:4),,
+0020000720,280,2,1,3,4:01 PM,4:24,,,MISS Marion 8' Jump Shot,,
+0020000720,281,4,0,3,4:01 PM,4:23,Jackson REBOUND (Off:1 Def:10),,,,
+0020000720,282,5,1,3,4:01 PM,4:11,Sura Bad Pass Turnover (P3.T12),,Delk STEAL (4 STL),,
+0020000720,283,5,4,3,4:02 PM,3:51,,,Kidd Traveling Turnover (P3.T9),,
+0020000720,284,2,1,3,4:02 PM,3:35,MISS Hughes 13' Jump Shot,,Marion BLOCK (3 BLK),,
+0020000720,285,4,0,3,4:02 PM,3:34,WARRIORS Rebound,,,,
+0020000720,286,6,2,3,4:02 PM,3:31,,,Marion S.FOUL (P2.T1),,
+0020000720,287,3,11,3,4:03 PM,3:31,Sura Free Throw 1 of 2 (12 PTS),,,61 - 49,-12
+0020000720,288,3,12,3,4:03 PM,3:31,Sura Free Throw 2 of 2 (13 PTS),,,61 - 50,-11
+0020000720,289,2,5,3,4:03 PM,3:12,,,MISS Kidd 5' Layup,,
+0020000720,290,4,0,3,4:03 PM,3:11,Jackson REBOUND (Off:1 Def:11),,,,
+0020000720,291,2,1,3,4:03 PM,3:00,MISS Hughes 8' Jump Shot,,Robinson BLOCK (3 BLK),,
+0020000720,292,4,0,3,4:04 PM,2:59,Hughes REBOUND (Off:1 Def:0),,,,
+0020000720,293,2,1,3,4:04 PM,2:58,MISS Hughes 7' Jump Shot,,Robinson BLOCK (4 BLK),,
+0020000720,294,4,0,3,4:04 PM,2:58,WARRIORS Rebound,,,,
+0020000720,295,2,1,3,4:04 PM,2:49,MISS Sura 26' 3PT Jump Shot,,,,
+0020000720,296,4,0,3,4:04 PM,2:48,,,Marion REBOUND (Off:3 Def:5),,
+0020000720,297,2,1,3,4:04 PM,2:39,,,MISS Delk 21' Jump Shot,,
+0020000720,298,4,0,3,4:04 PM,2:38,WARRIORS Rebound,,,,
+0020000720,299,5,2,3,4:05 PM,2:24,Jackson Lost Ball Turnover (P2.T13),,Delk STEAL (5 STL),,
+0020000720,300,5,2,3,4:05 PM,2:15,,,Robinson Lost Ball Turnover (P3.T10),,
+0020000720,301,8,0,3,4:05 PM,2:15,SUB: Cummings FOR Blaylock,,,,
+0020000720,302,8,0,3,4:05 PM,2:15,,,SUB: Del Negro FOR Delk,,
+0020000720,303,5,1,3,4:05 PM,1:59,Cummings Bad Pass Turnover (P1.T14),,Gugliotta STEAL (2 STL),,
+0020000720,304,5,1,3,4:05 PM,1:56,Cummings STEAL (1 STL),,Gugliotta Bad Pass Turnover (P1.T11),,
+0020000720,305,2,5,3,4:05 PM,1:51,MISS Cummings 2' Layup,,Gugliotta BLOCK (1 BLK),,
+0020000720,306,4,0,3,4:05 PM,1:49,,,Del Negro REBOUND (Off:0 Def:1),,
+0020000720,307,1,1,3,4:06 PM,1:27,,,Robinson 12' Jump Shot (11 PTS) (Kidd 7 AST),63 - 50,-13
+0020000720,308,2,1,3,4:06 PM,1:02,MISS Jackson 5' Jump Shot,,Marion BLOCK (4 BLK),,
+0020000720,309,4,0,3,4:06 PM,0:59,Jackson REBOUND (Off:2 Def:11),,,,
+0020000720,310,2,5,3,4:06 PM,0:58,MISS Jackson 3' Layup,,Robinson BLOCK (5 BLK),,
+0020000720,311,4,0,3,4:06 PM,0:56,,,Del Negro REBOUND (Off:0 Def:2),,
+0020000720,312,1,59,3,4:06 PM,0:54,,,Kidd  Finger Roll (12 PTS),65 - 50,-15
+0020000720,313,6,1,3,4:07 PM,0:42,,,Robinson P.FOUL (P2.T2),,
+0020000720,314,6,4,3,4:07 PM,0:35,Jamison OFF.Foul (P1),,,,
+0020000720,315,5,5,3,4:07 PM,0:35,Jamison Foul Turnover (P2.T15),,,,
+0020000720,316,2,1,3,4:08 PM,0:17,,,MISS Kidd 11' Jump Shot,,
+0020000720,317,4,0,3,4:08 PM,0:16,Jackson REBOUND (Off:2 Def:12),,,,
+0020000720,318,6,2,3,4:08 PM,0:04,,,Marion S.FOUL (P3.PN),,
+0020000720,319,3,11,3,4:08 PM,0:04,Sura Free Throw 1 of 2 (14 PTS),,,65 - 51,-14
+0020000720,320,8,0,3,4:08 PM,0:04,SUB: Blount FOR Jamison,,,,
+0020000720,321,8,0,3,4:08 PM,0:04,SUB: Foyle FOR Jackson,,,,
+0020000720,322,3,12,3,4:09 PM,0:04,MISS Sura Free Throw 2 of 2,,,,
+0020000720,323,4,0,3,4:09 PM,0:03,,,Marion REBOUND (Off:3 Def:6),,
+0020000720,324,2,1,3,4:09 PM,0:01,,,MISS Marion 26' 3PT Jump Shot,,
+0020000720,325,4,0,3,4:09 PM,0:00,Foyle REBOUND (Off:1 Def:5),,,,
+0020000720,326,13,0,3,4:09 PM,0:00,,,,65 - 51,-14
+0020000720,328,12,0,4,4:10 PM,12:00,,,,65 - 51,-14
+0020000720,329,7,6,4,4:12 PM,11:47,,,Gugliotta Violation:Double Lane,,
+0020000720,330,1,42,4,4:12 PM,11:42,Hughes  Driving Layup (4 PTS),,,65 - 53,-12
+0020000720,331,6,2,4,4:13 PM,11:26,Blaylock S.FOUL (P1.T1),,,,
+0020000720,332,3,11,4,4:13 PM,11:26,,,Robinson Free Throw 1 of 2 (12 PTS),66 - 53,-13
+0020000720,333,3,12,4,4:13 PM,11:26,,,Robinson Free Throw 2 of 2 (13 PTS),67 - 53,-14
+0020000720,334,6,2,4,4:14 PM,11:13,,,Robinson S.FOUL (P3.T1),,
+0020000720,335,3,11,4,4:14 PM,11:13,MISS Hughes Free Throw 1 of 2,,,,
+0020000720,336,4,1,4,4:14 PM,11:13,WARRIORS Rebound,,,,
+0020000720,337,3,12,4,4:14 PM,11:13,MISS Hughes Free Throw 2 of 2,,,,
+0020000720,338,4,0,4,4:14 PM,11:12,,,Marion REBOUND (Off:3 Def:7),,
+0020000720,339,2,1,4,4:14 PM,11:01,,,MISS Robinson 16' Jump Shot,,
+0020000720,340,4,0,4,4:14 PM,11:00,Foyle REBOUND (Off:1 Def:6),,,,
+0020000720,341,2,1,4,4:15 PM,10:47,MISS Blaylock 22' Jump Shot,,,,
+0020000720,343,4,0,4,4:15 PM,10:46,Blount REBOUND (Off:1 Def:3),,,,
+0020000720,342,1,5,4,4:15 PM,10:45,Blount  Layup (3 PTS),,,67 - 55,-12
+0020000720,344,2,1,4,4:15 PM,10:29,,,MISS Kidd 17' Jump Shot,,
+0020000720,345,4,0,4,4:15 PM,10:28,,,Robinson REBOUND (Off:2 Def:4),,
+0020000720,346,2,47,4,4:15 PM,10:09,,,MISS Robinson 4' Turnaround Jump Shot,,
+0020000720,347,4,0,4,4:15 PM,10:08,Blaylock REBOUND (Off:0 Def:2),,,,
+0020000720,348,2,42,4,4:15 PM,10:03,MISS Blaylock  Driving Layup,,,,
+0020000720,349,4,0,4,4:15 PM,10:01,,,Marion REBOUND (Off:3 Def:8),,
+0020000720,350,2,1,4,4:15 PM,9:53,,,MISS Robinson 25' 3PT Jump Shot,,
+0020000720,351,4,0,4,4:15 PM,9:51,,,Marion REBOUND (Off:4 Def:8),,
+0020000720,352,2,5,4,4:15 PM,9:49,,,MISS Kidd 3' Layup,,
+0020000720,353,4,0,4,4:16 PM,9:47,Foyle REBOUND (Off:1 Def:7),,,,
+0020000720,354,2,5,4,4:16 PM,9:44,MISS Blaylock  Layup,,,,
+0020000720,355,4,0,4,4:16 PM,9:43,,,Del Negro REBOUND (Off:0 Def:3),,
+0020000720,356,2,1,4,4:16 PM,9:26,,,MISS Kidd 25' 3PT Jump Shot,,
+0020000720,357,4,0,4,4:16 PM,9:25,Blount REBOUND (Off:1 Def:4),,,,
+0020000720,358,5,2,4,4:16 PM,9:03,Blount Lost Ball Turnover (P2.T16),,Del Negro STEAL (1 STL),,
+0020000720,359,6,2,4,4:16 PM,8:58,Cummings S.FOUL (P2.T2),,,,
+0020000720,360,9,4,4,4:17 PM,8:58,,,,,
+0020000720,362,8,0,4,4:19 PM,8:58,SUB: Jamison FOR Foyle,,,,
+0020000720,363,8,0,4,4:19 PM,8:58,,,SUB: Tsakalidis FOR Robinson,,
+0020000720,364,3,11,4,4:19 PM,8:58,,,Marion Free Throw 1 of 2 (17 PTS),68 - 55,-13
+0020000720,365,3,12,4,4:20 PM,8:58,,,Marion Free Throw 2 of 2 (18 PTS),69 - 55,-14
+0020000720,367,2,1,4,4:20 PM,8:40,MISS Cummings 5' Jump Shot,,Tsakalidis BLOCK (2 BLK),,
+0020000720,368,4,0,4,4:20 PM,8:38,,,Marion REBOUND (Off:4 Def:9),,
+0020000720,369,1,1,4,4:20 PM,8:27,,,Marion 6' Jump Shot (20 PTS) (Kidd 8 AST),71 - 55,-16
+0020000720,370,6,2,4,4:20 PM,8:27,Blaylock S.FOUL (P2.T3),,,,
+0020000720,371,3,10,4,4:20 PM,8:27,,,Marion Free Throw 1 of 1 (21 PTS),72 - 55,-17
+0020000720,372,2,1,4,4:21 PM,8:14,MISS Jamison 15' Jump Shot,,,,
+0020000720,373,4,0,4,4:21 PM,8:13,Cummings REBOUND (Off:1 Def:1),,,,
+0020000720,374,2,1,4,4:21 PM,8:09,MISS Hughes 4' Jump Shot,,Tsakalidis BLOCK (3 BLK),,
+0020000720,375,4,0,4,4:21 PM,8:07,Hughes REBOUND (Off:2 Def:0),,,,
+0020000720,376,5,2,4,4:21 PM,8:06,Hughes Lost Ball Turnover (P2.T17),,Marion STEAL (2 STL),,
+0020000720,377,6,1,4,4:21 PM,8:02,Cummings P.FOUL (P3.T4),,,,
+0020000720,378,6,1,4,4:21 PM,7:50,Cummings P.FOUL (P4.PN),,,,
+0020000720,379,3,11,4,4:22 PM,7:50,,,Del Negro Free Throw 1 of 2 (3 PTS),73 - 55,-18
+0020000720,380,3,12,4,4:22 PM,7:50,,,Del Negro Free Throw 2 of 2 (4 PTS),74 - 55,-19
+0020000720,382,10,0,4,4:23 PM,7:40,Jump Ball Hughes vs. Gugliotta: Tip to Cummings,,,,
+0020000720,383,2,1,4,4:23 PM,7:28,MISS Hughes 20' Jump Shot,,,,
+0020000720,384,4,0,4,4:23 PM,7:26,,,Gugliotta REBOUND (Off:0 Def:4),,
+0020000720,385,2,5,4,4:23 PM,7:21,,,MISS Marion  Layup,,
+0020000720,386,4,0,4,4:23 PM,7:20,Blount REBOUND (Off:1 Def:5),,,,
+0020000720,387,1,42,4,4:23 PM,7:15,Jamison  Driving Layup (21 PTS) (Blount 1 AST),,,74 - 57,-17
+0020000720,388,1,5,4,4:24 PM,6:52,,,Kidd  Layup (14 PTS) (Gugliotta 2 AST),76 - 57,-19
+0020000720,389,1,1,4,4:24 PM,6:42,Hughes 8' Jump Shot (6 PTS) (Jamison 2 AST),,,76 - 59,-17
+0020000720,390,6,1,4,4:24 PM,6:26,Hughes P.FOUL (P1.PN),,,,
+0020000720,391,3,11,4,4:24 PM,6:26,,,Del Negro Free Throw 1 of 2 (5 PTS),77 - 59,-18
+0020000720,392,8,0,4,4:25 PM,6:26,SUB: Sura FOR Blaylock,,,,
+0020000720,393,3,12,4,4:25 PM,6:26,,,Del Negro Free Throw 2 of 2 (6 PTS),78 - 59,-19
+0020000720,394,1,59,4,4:25 PM,6:13,Jamison  Finger Roll (23 PTS),,,78 - 61,-17
+0020000720,395,1,1,4,4:25 PM,5:52,,,Marion 7' Jump Shot (23 PTS) (Del Negro 2 AST),80 - 61,-19
+0020000720,396,2,58,4,4:26 PM,5:30,MISS Hughes 6' Turnaround Hook Shot,,,,
+0020000720,397,4,0,4,4:26 PM,5:29,,,Gugliotta REBOUND (Off:0 Def:5),,
+0020000720,398,1,5,4,4:26 PM,5:23,,,Marion  Layup (25 PTS) (Kidd 9 AST),82 - 61,-21
+0020000720,399,6,2,4,4:26 PM,5:23,Blount S.FOUL (P2.PN),,,,
+0020000720,400,9,1,4,4:26 PM,5:23,WARRIORS Timeout: Regular (Full 4 Short 1),,,,
+0020000720,402,8,0,4,4:29 PM,5:23,,,SUB: Delk FOR Del Negro,,
+0020000720,403,3,10,4,4:29 PM,5:23,,,Marion Free Throw 1 of 1 (26 PTS),83 - 61,-22
+0020000720,404,1,1,4,4:29 PM,5:14,Cummings 17' Jump Shot (4 PTS),,,83 - 63,-20
+0020000720,405,6,2,4,4:29 PM,5:14,,,Delk S.FOUL (P1.T2),,
+0020000720,406,3,10,4,4:29 PM,5:14,Cummings Free Throw 1 of 1 (5 PTS),,,83 - 64,-19
+0020000720,407,1,1,4,4:30 PM,4:55,,,Marion 11' Jump Shot (28 PTS) (Tsakalidis 2 AST),85 - 64,-21
+0020000720,408,2,1,4,4:30 PM,4:43,MISS Jamison 25' 3PT Jump Shot,,,,
+0020000720,409,4,0,4,4:30 PM,4:42,,,Tsakalidis REBOUND (Off:3 Def:8),,
+0020000720,410,1,1,4,4:30 PM,4:36,,,Gugliotta 17' Jump Shot (10 PTS) (Kidd 10 AST),87 - 64,-23
+0020000720,411,1,47,4,4:30 PM,4:15,Hughes 10' Turnaround Jump Shot (8 PTS) (Jamison 3 AST),,,87 - 66,-21
+0020000720,412,1,42,4,4:31 PM,3:54,,,Delk  Driving Layup (10 PTS) (Marion 2 AST),89 - 66,-23
+0020000720,413,1,1,4,4:31 PM,3:45,Cummings 19' Jump Shot (7 PTS),,,89 - 68,-21
+0020000720,414,2,3,4,4:31 PM,3:24,,,MISS Tsakalidis 7' Hook Shot,,
+0020000720,415,4,0,4,4:31 PM,3:23,Hughes REBOUND (Off:2 Def:1),,,,
+0020000720,416,6,2,4,4:31 PM,3:13,,,Tsakalidis S.FOUL (P2.T3),,
+0020000720,417,8,0,4,4:32 PM,3:13,,,SUB: Perry FOR Kidd,,
+0020000720,418,8,0,4,4:32 PM,3:13,,,SUB: Santiago FOR Tsakalidis,,
+0020000720,419,3,11,4,4:32 PM,3:13,MISS Jamison Free Throw 1 of 2,,,,
+0020000720,420,4,1,4,4:32 PM,3:13,WARRIORS Rebound,,,,
+0020000720,421,8,0,4,4:32 PM,3:13,SUB: McPherson FOR Sura,,,,
+0020000720,422,8,0,4,4:32 PM,3:13,,,SUB: Del Negro FOR Marion,,
+0020000720,423,3,12,4,4:32 PM,3:13,Jamison Free Throw 2 of 2 (24 PTS),,,89 - 69,-20
+0020000720,424,6,1,4,4:32 PM,3:00,McPherson P.FOUL (P1.PN),,,,
+0020000720,425,3,11,4,4:33 PM,3:00,,,Del Negro Free Throw 1 of 2 (7 PTS),90 - 69,-21
+0020000720,426,3,12,4,4:33 PM,3:00,,,Del Negro Free Throw 2 of 2 (8 PTS),91 - 69,-22
+0020000720,427,1,3,4,4:33 PM,2:49,McPherson 3' Hook Shot (2 PTS) (Cummings 4 AST),,,91 - 71,-20
+0020000720,428,1,1,4,4:34 PM,2:30,,,Delk 18' Jump Shot (12 PTS),93 - 71,-22
+0020000720,429,1,56,4,4:34 PM,2:05,Jamison 5' Running Hook Shot (26 PTS) (Hughes 2 AST),,,93 - 73,-20
+0020000720,430,6,4,4,4:34 PM,1:47,,,Santiago OFF.Foul (P1),,
+0020000720,431,5,5,4,4:34 PM,1:47,,,Santiago Foul Turnover (P1.T12),,
+0020000720,432,9,1,4,4:35 PM,1:47,,,Suns Timeout: Regular (Reg.4 Short 0),,
+0020000720,434,8,0,4,4:36 PM,1:47,SUB: Garces FOR Jamison,,,,
+0020000720,435,5,1,4,4:37 PM,1:35,McPherson Bad Pass Turnover (P1.T18),,Del Negro STEAL (2 STL),,
+0020000720,436,2,1,4,4:37 PM,1:22,,,MISS Perry 19' Jump Shot,,
+0020000720,437,4,0,4,4:37 PM,1:21,Blount REBOUND (Off:1 Def:6),,,,
+0020000720,438,1,3,4,4:37 PM,1:14,Blount 3' Hook Shot (5 PTS) (Cummings 5 AST),,,93 - 75,-18
+0020000720,439,2,1,4,4:37 PM,1:06,,,MISS Delk 24' 3PT Jump Shot,,
+0020000720,440,4,0,4,4:37 PM,1:05,Garces REBOUND (Off:0 Def:1),,,,
+0020000720,441,6,2,4,4:38 PM,0:58,,,Santiago S.FOUL (P2.T4),,
+0020000720,442,3,11,4,4:38 PM,0:58,McPherson Free Throw 1 of 2 (3 PTS),,,93 - 76,-17
+0020000720,443,3,12,4,4:38 PM,0:58,McPherson Free Throw 2 of 2 (4 PTS),,,93 - 77,-16
+0020000720,444,2,1,4,4:38 PM,0:45,,,MISS Perry 20' Jump Shot,,
+0020000720,445,4,0,4,4:38 PM,0:43,Blount REBOUND (Off:1 Def:7),,,,
+0020000720,446,1,1,4,4:38 PM,0:35,Cummings 25' 3PT Jump Shot (10 PTS),,,93 - 80,-13
+0020000720,447,5,1,4,4:38 PM,0:14,Hughes STEAL (3 STL),,Gugliotta Bad Pass Turnover (P2.T13),,
+0020000720,448,1,1,4,4:39 PM,0:06,Cummings 25' 3PT Jump Shot (13 PTS) (Hughes 3 AST),,,93 - 83,-10
+0020000720,449,13,0,4,4:39 PM,0:00,,,,93 - 83,-10

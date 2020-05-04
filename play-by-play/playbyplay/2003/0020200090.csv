@@ -1,0 +1,427 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020200090,0,12,0,1,8:42 PM,12:00,,,,,
+0020200090,1,10,0,1,8:42 PM,12:00,Jump Ball Robinson vs. Wallace: Tip to Ginobili,,,,
+0020200090,2,6,1,1,8:43 PM,11:47,,,Wallace P.FOUL (P1.T1),,
+0020200090,3,2,1,1,8:44 PM,11:37,MISS Duncan 14' Jump Shot,,,,
+0020200090,4,4,0,1,8:44 PM,11:35,,,Pippen REBOUND (Off:0 Def:1),,
+0020200090,5,1,7,1,8:44 PM,11:28,,,Wallace 1' Dunk (2 PTS) (Pippen 1 AST),2 - 0,-2
+0020200090,6,2,42,1,8:44 PM,11:19,MISS Parker 3' Driving Layup,,Stoudamire BLOCK (1 BLK),,
+0020200090,7,4,0,1,8:44 PM,11:16,,,Patterson REBOUND (Off:0 Def:1),,
+0020200090,8,1,7,1,8:44 PM,10:59,,,Patterson 2' Dunk (2 PTS) (Stoudamire 1 AST),4 - 0,-4
+0020200090,9,2,1,1,8:44 PM,10:44,MISS Ginobili 24' 3PT Jump Shot,,,,
+0020200090,10,4,0,1,8:44 PM,10:41,,,Davis REBOUND (Off:0 Def:1),,
+0020200090,11,5,4,1,8:45 PM,10:34,,,Patterson Traveling Turnover (P1.T1),,
+0020200090,13,2,1,1,8:45 PM,10:11,MISS Duncan 12' Jump Shot,,,,
+0020200090,14,4,0,1,8:45 PM,10:08,Duncan REBOUND (Off:1 Def:0),,,,
+0020200090,15,1,1,1,8:45 PM,10:06,Duncan 2' Jump Shot (2 PTS),,,4 - 2,-2
+0020200090,17,1,1,1,8:46 PM,9:51,,,Stoudamire 9' Jump Shot (2 PTS),6 - 2,-4
+0020200090,18,6,2,1,8:46 PM,9:35,,,Wallace S.FOUL (P2.T2),,
+0020200090,19,3,11,1,8:46 PM,9:35,Ginobili Free Throw 1 of 2 (1 PTS),,,6 - 3,-3
+0020200090,20,8,0,1,8:46 PM,9:35,,,SUB: Sabonis FOR Wallace,,
+0020200090,21,3,12,1,8:46 PM,9:35,MISS Ginobili Free Throw 2 of 2,,,,
+0020200090,22,4,0,1,8:47 PM,9:34,,,Sabonis REBOUND (Off:0 Def:1),,
+0020200090,23,2,1,1,8:47 PM,9:21,,,MISS Davis 9' Jump Shot,,
+0020200090,24,4,0,1,8:47 PM,9:18,Robinson REBOUND (Off:0 Def:1),,,,
+0020200090,25,2,1,1,8:47 PM,9:08,MISS Bowen 19' Jump Shot,,,,
+0020200090,26,4,0,1,8:47 PM,9:05,,,Patterson REBOUND (Off:0 Def:2),,
+0020200090,27,1,1,1,8:47 PM,8:48,,,Stoudamire 7' Jump Shot (4 PTS),8 - 3,-5
+0020200090,28,5,2,1,8:48 PM,8:35,Bowen Lost Ball Turnover (P1.T1),,,,
+0020200090,29,2,1,1,8:48 PM,8:21,,,MISS Stoudamire 17' Jump Shot,,
+0020200090,30,4,0,1,8:48 PM,8:19,Robinson REBOUND (Off:0 Def:2),,,,
+0020200090,31,2,63,1,8:48 PM,8:14,MISS Ginobili 14' Fadeaway Jumper,,,,
+0020200090,32,4,0,1,8:48 PM,8:12,,,Patterson REBOUND (Off:0 Def:3),,
+0020200090,33,5,2,1,8:48 PM,7:54,Robinson STEAL (1 STL),,Sabonis Lost Ball Turnover (P1.T2),,
+0020200090,34,2,1,1,8:49 PM,7:38,MISS Duncan 16' Jump Shot,,,,
+0020200090,35,4,0,1,8:49 PM,7:36,,,Sabonis REBOUND (Off:0 Def:2),,
+0020200090,36,2,1,1,8:49 PM,7:15,,,MISS Pippen 22' Jump Shot,,
+0020200090,37,4,0,1,8:49 PM,7:13,Robinson REBOUND (Off:0 Def:3),,,,
+0020200090,38,2,1,1,8:49 PM,6:57,MISS Bowen  3PT Jump Shot,,,,
+0020200090,39,4,0,1,8:49 PM,6:55,,,Davis REBOUND (Off:0 Def:2),,
+0020200090,40,2,1,1,8:50 PM,6:37,,,MISS Stoudamire 21' Jump Shot,,
+0020200090,41,4,0,1,8:50 PM,6:35,Robinson REBOUND (Off:0 Def:4),,,,
+0020200090,42,9,1,1,8:50 PM,6:25,SPURS Timeout: Regular (Full 1 Short 0),,,,
+0020200090,44,2,1,1,8:53 PM,6:12,MISS Robinson 15' Jump Shot,,,,
+0020200090,45,4,0,1,8:53 PM,6:10,,,Patterson REBOUND (Off:0 Def:4),,
+0020200090,46,1,42,1,8:53 PM,5:57,,,Pippen 2' Driving Layup (2 PTS) (Sabonis 1 AST),10 - 3,-7
+0020200090,47,1,65,1,8:53 PM,5:41,Duncan 4' Jump Hook Shot (4 PTS) (Bowen 1 AST),,,10 - 5,-5
+0020200090,49,2,5,1,8:54 PM,5:17,Duncan BLOCK (1 BLK),,MISS Stoudamire 2' Layup,,
+0020200090,50,4,0,1,8:54 PM,5:14,,,Trail Blazers Rebound,,
+0020200090,51,1,46,1,8:54 PM,5:12,,,Pippen 8' Running Jump Shot (4 PTS),12 - 5,-7
+0020200090,52,6,2,1,8:54 PM,4:51,,,Davis S.FOUL (P1.T3),,
+0020200090,53,3,11,1,8:55 PM,4:51,Robinson Free Throw 1 of 2 (1 PTS),,,12 - 6,-6
+0020200090,54,8,0,1,8:55 PM,4:51,,,SUB: Daniels FOR Pippen,,
+0020200090,55,3,12,1,8:55 PM,4:51,MISS Robinson Free Throw 2 of 2,,,,
+0020200090,56,4,0,1,8:55 PM,4:48,SPURS Rebound,,,,
+0020200090,57,2,1,1,8:56 PM,4:42,MISS Duncan 18' Jump Shot,,,,
+0020200090,58,4,0,1,8:56 PM,4:40,,,Patterson REBOUND (Off:0 Def:5),,
+0020200090,59,2,1,1,8:56 PM,4:26,,,MISS Stoudamire 20' Jump Shot,,
+0020200090,60,4,0,1,8:56 PM,4:23,Robinson REBOUND (Off:0 Def:5),,,,
+0020200090,61,2,5,1,8:56 PM,4:01,MISS Bowen  Layup,,,,
+0020200090,62,4,0,1,8:56 PM,3:59,Robinson REBOUND (Off:1 Def:5),,,,
+0020200090,63,2,1,1,8:56 PM,3:57,MISS Robinson 9' Jump Shot,,,,
+0020200090,64,4,0,1,8:56 PM,3:56,,,Patterson REBOUND (Off:0 Def:6),,
+0020200090,65,5,1,1,8:56 PM,3:56,,,Patterson Bad Pass Turnover (P2.T3),,
+0020200090,66,8,0,1,8:57 PM,3:56,,,SUB: Wells FOR Patterson,,
+0020200090,67,8,0,1,8:57 PM,3:56,SUB: Jackson FOR Bowen,,,,
+0020200090,68,8,0,1,8:57 PM,3:56,SUB: Rose FOR Robinson,,,,
+0020200090,69,5,1,1,8:57 PM,3:49,Ginobili Bad Pass Turnover (P1.T2),,Daniels STEAL (1 STL),,
+0020200090,70,1,5,1,8:57 PM,3:45,,,Stoudamire 2' Layup (6 PTS) (Wells 1 AST),14 - 6,-8
+0020200090,71,5,1,1,8:57 PM,3:28,Jackson Bad Pass Turnover (P1.T3),,Sabonis STEAL (1 STL),,
+0020200090,72,6,2,1,8:57 PM,3:25,Parker S.FOUL (P1.T1),,,,
+0020200090,73,8,0,1,8:58 PM,3:25,,,SUB: Randolph FOR Sabonis,,
+0020200090,74,3,11,1,8:58 PM,3:25,,,Daniels Free Throw 1 of 2 (1 PTS),15 - 6,-9
+0020200090,75,8,0,1,8:58 PM,3:25,SUB: Kerr FOR Ginobili,,,,
+0020200090,76,3,12,1,8:58 PM,3:25,,,Daniels Free Throw 2 of 2 (2 PTS),16 - 6,-10
+0020200090,77,2,1,1,8:59 PM,3:14,MISS Jackson 22' Jump Shot,,,,
+0020200090,78,4,0,1,8:59 PM,3:12,,,Randolph REBOUND (Off:0 Def:1),,
+0020200090,79,1,5,1,8:59 PM,2:59,,,Randolph 2' Layup (2 PTS) (Stoudamire 2 AST),18 - 6,-12
+0020200090,80,2,5,1,8:59 PM,2:42,MISS Duncan 2' Layup,,,,
+0020200090,81,4,0,1,8:59 PM,2:40,Rose REBOUND (Off:1 Def:0),,,,
+0020200090,82,2,1,1,8:59 PM,2:38,MISS Rose 4' Jump Shot,,,,
+0020200090,83,4,0,1,8:59 PM,2:36,,,Stoudamire REBOUND (Off:0 Def:1),,
+0020200090,84,9,1,1,8:59 PM,2:31,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,
+0020200090,86,8,0,1,9:02 PM,2:31,SUB: Brown FOR Jackson,,,,
+0020200090,87,2,1,1,9:02 PM,2:19,,,MISS Wells 14' Jump Shot,,
+0020200090,88,4,0,1,9:02 PM,2:19,SPURS Rebound,,,,
+0020200090,89,6,3,1,9:02 PM,2:19,,,Davis L.B.FOUL (P2.T4),,
+0020200090,90,2,5,1,9:03 PM,2:06,MISS Rose 2' Layup,,Davis BLOCK (1 BLK),,
+0020200090,92,4,0,1,9:03 PM,2:04,Duncan REBOUND (Off:2 Def:0),,,,
+0020200090,91,1,5,1,9:03 PM,2:04,Duncan 2' Layup (6 PTS),,,18 - 8,-10
+0020200090,93,2,1,1,9:03 PM,1:43,,,MISS Randolph 18' Jump Shot,,
+0020200090,94,4,0,1,9:03 PM,1:41,,,Randolph REBOUND (Off:1 Def:1),,
+0020200090,95,2,5,1,9:03 PM,1:40,Duncan BLOCK (2 BLK),,MISS Randolph 3' Layup,,
+0020200090,96,4,0,1,9:03 PM,1:36,Brown REBOUND (Off:0 Def:1),,,,
+0020200090,97,2,1,1,9:03 PM,1:24,MISS Kerr 7' Jump Shot,,,,
+0020200090,98,4,0,1,9:03 PM,1:22,Rose REBOUND (Off:2 Def:0),,,,
+0020200090,99,5,2,1,9:04 PM,1:20,Rose Lost Ball Turnover (P1.T4),,Stoudamire STEAL (1 STL),,
+0020200090,100,2,1,1,9:04 PM,1:15,,,MISS Wells 25' 3PT Jump Shot,,
+0020200090,101,4,0,1,9:04 PM,1:12,Rose REBOUND (Off:2 Def:1),,,,
+0020200090,102,5,2,1,9:04 PM,1:10,Brown Lost Ball Turnover (P1.T5),,Stoudamire STEAL (2 STL),,
+0020200090,103,1,46,1,9:04 PM,0:54,,,Daniels 10' Running Jump Shot (4 PTS),20 - 8,-12
+0020200090,105,1,5,1,9:04 PM,0:39,Duncan 2' Layup (8 PTS),,,20 - 10,-10
+0020200090,106,6,2,1,9:05 PM,0:19,Rose S.FOUL (P1.T2),,,,
+0020200090,107,8,0,1,9:05 PM,0:19,SUB: Ferry FOR Parker,,,,
+0020200090,108,8,0,1,9:05 PM,0:19,SUB: Jackson FOR Brown,,,,
+0020200090,109,8,0,1,9:05 PM,0:19,,,SUB: Pippen FOR Stoudamire,,
+0020200090,110,3,11,1,9:05 PM,0:19,,,MISS Davis Free Throw 1 of 2,,
+0020200090,111,4,1,1,9:05 PM,0:19,,,Trail Blazers Rebound,,
+0020200090,112,3,12,1,9:06 PM,0:19,,,MISS Davis Free Throw 2 of 2,,
+0020200090,113,4,0,1,9:06 PM,0:15,Rose REBOUND (Off:2 Def:2),,,,
+0020200090,114,8,0,1,9:06 PM,0:03,,,SUB: Sabonis FOR Davis,,
+0020200090,115,5,2,1,9:06 PM,0:01,Duncan Lost Ball Turnover (P1.T6),,,,
+0020200090,116,5,1,1,9:06 PM,0:00,Rose STEAL (1 STL),,Wells Bad Pass Turnover (P1.T4),,
+0020200090,117,13,0,1,9:07 PM,0:00,,,,20 - 10,-10
+0020200090,119,12,0,2,9:09 PM,12:00,,,,20 - 10,-10
+0020200090,120,2,46,2,9:09 PM,11:43,,,MISS Daniels 6' Running Jump Shot,,
+0020200090,121,4,0,2,9:09 PM,11:40,Rose REBOUND (Off:2 Def:3),,,,
+0020200090,122,1,7,2,9:09 PM,11:37,Duncan 2' Dunk (10 PTS) (Kerr 1 AST),,,20 - 12,-8
+0020200090,123,2,1,2,9:10 PM,11:20,,,MISS Wells 17' Jump Shot,,
+0020200090,124,4,0,2,9:10 PM,11:18,Rose REBOUND (Off:2 Def:4),,,,
+0020200090,125,1,1,2,9:10 PM,10:56,Rose 15' Jump Shot (2 PTS) (Jackson 1 AST),,,20 - 14,-6
+0020200090,126,8,0,2,9:11 PM,10:37,,,SUB: Wallace FOR Sabonis,,
+0020200090,127,1,47,2,9:11 PM,10:29,,,Wallace 25' 3PT Turnaround Jump Shot (5 PTS) (Wells 2 AST),23 - 14,-9
+0020200090,128,5,4,2,9:11 PM,10:13,Rose Traveling Turnover (P2.T7),,,,
+0020200090,129,2,48,2,9:12 PM,9:57,Rose BLOCK (1 BLK),,MISS Randolph 3' Dunk,,
+0020200090,130,4,0,2,9:12 PM,9:54,Ferry REBOUND (Off:0 Def:1),,,,
+0020200090,131,1,1,2,9:12 PM,9:36,Ferry 18' Jump Shot (2 PTS) (Duncan 1 AST),,,23 - 16,-7
+0020200090,132,2,46,2,9:12 PM,9:12,,,MISS Wallace 6' Running Jump Shot,,
+0020200090,133,4,0,2,9:13 PM,9:10,Rose REBOUND (Off:2 Def:5),,,,
+0020200090,134,2,1,2,9:13 PM,8:59,MISS Jackson 22' Jump Shot,,,,
+0020200090,135,4,0,2,9:13 PM,8:57,,,Trail Blazers Rebound,,
+0020200090,136,8,0,2,9:13 PM,8:57,SUB: Robinson FOR Duncan,,,,
+0020200090,137,9,3,2,9:13 PM,8:57,,,,,
+0020200090,139,8,0,2,9:15 PM,8:57,,,SUB: Stoudamire FOR Daniels,,
+0020200090,140,8,0,2,9:15 PM,8:57,,,SUB: Davis FOR Randolph,,
+0020200090,141,1,1,2,9:15 PM,8:44,,,Wallace 8' Jump Shot (7 PTS),25 - 16,-9
+0020200090,142,1,1,2,9:16 PM,8:29,Jackson 17' Jump Shot (2 PTS) (Ferry 1 AST),,,25 - 18,-7
+0020200090,143,5,4,2,9:16 PM,8:15,,,Wells Traveling Turnover (P2.T5),,
+0020200090,144,2,5,2,9:16 PM,7:59,MISS Jackson  Layup,,,,
+0020200090,145,4,0,2,9:17 PM,7:56,Jackson REBOUND (Off:1 Def:0),,,,
+0020200090,146,1,1,2,9:17 PM,7:51,Ferry 22' Jump Shot (4 PTS) (Kerr 2 AST),,,25 - 20,-5
+0020200090,147,2,1,2,9:17 PM,7:37,,,MISS Pippen 16' Jump Shot,,
+0020200090,148,4,0,2,9:17 PM,7:35,Rose REBOUND (Off:2 Def:6),,,,
+0020200090,149,1,5,2,9:17 PM,7:29,Jackson 2' Layup (4 PTS) (Robinson 1 AST),,,25 - 22,-3
+0020200090,150,6,1,2,9:17 PM,7:11,Jackson P.FOUL (P1.T1),,,,
+0020200090,151,8,0,2,9:17 PM,7:11,SUB: Parker FOR Kerr,,,,
+0020200090,152,2,5,2,9:18 PM,7:05,,,MISS Wells 2' Layup,,
+0020200090,154,4,0,2,9:18 PM,7:01,,,Wallace REBOUND (Off:1 Def:0),,
+0020200090,153,1,64,2,9:18 PM,7:01,,,Wallace 1' Follow Up Dunk (9 PTS),27 - 22,-5
+0020200090,155,1,1,2,9:18 PM,6:46,Ferry  3PT Jump Shot (7 PTS) (Robinson 2 AST),,,27 - 25,-2
+0020200090,156,2,1,2,9:18 PM,6:25,Robinson BLOCK (1 BLK),,MISS Wallace 9' Jump Shot,,
+0020200090,157,4,0,2,9:18 PM,6:22,Rose REBOUND (Off:2 Def:7),,,,
+0020200090,158,2,5,2,9:19 PM,6:05,MISS Rose 2' Layup,,,,
+0020200090,160,4,0,2,9:19 PM,6:03,Robinson REBOUND (Off:2 Def:5),,,,
+0020200090,159,1,4,2,9:19 PM,6:03,Robinson 1' Tip Shot (3 PTS),,,27 - 27,TIE
+0020200090,161,6,2,2,9:19 PM,5:48,Robinson S.FOUL (P1.T2),,,,
+0020200090,162,9,1,2,9:19 PM,5:48,SPURS Timeout: Regular (Full 2 Short 0),,,,
+0020200090,164,8,0,2,9:21 PM,5:48,SUB: Duncan FOR Rose,,,,
+0020200090,165,3,11,2,9:22 PM,5:48,,,Wells Free Throw 1 of 2 (1 PTS),28 - 27,-1
+0020200090,166,3,12,2,9:22 PM,5:48,,,Wells Free Throw 2 of 2 (2 PTS),29 - 27,-2
+0020200090,167,8,0,2,9:22 PM,5:39,,,SUB: Patterson FOR Wells,,
+0020200090,168,2,1,2,9:23 PM,5:30,MISS Duncan 18' Jump Shot,,,,
+0020200090,169,4,0,2,9:23 PM,5:30,,,Trail Blazers Rebound,,
+0020200090,170,5,1,2,9:23 PM,5:12,Jackson STEAL (1 STL),,Stoudamire Bad Pass Turnover (P1.T6),,
+0020200090,171,1,7,2,9:23 PM,5:07,Duncan 2' Dunk (12 PTS) (Jackson 2 AST),,,29 - 29,TIE
+0020200090,172,2,1,2,9:24 PM,4:46,,,MISS Wallace 16' Jump Shot,,
+0020200090,173,4,0,2,9:24 PM,4:43,,,Davis REBOUND (Off:1 Def:2),,
+0020200090,174,1,1,2,9:24 PM,4:38,,,Pippen 25' 3PT Jump Shot (7 PTS) (Davis 1 AST),32 - 29,-3
+0020200090,175,2,1,2,9:24 PM,4:18,MISS Parker 16' Jump Shot,,,,
+0020200090,176,4,0,2,9:24 PM,4:16,,,Pippen REBOUND (Off:0 Def:2),,
+0020200090,179,1,5,2,9:25 PM,4:06,,,Davis 2' Layup (2 PTS),34 - 29,-5
+0020200090,180,6,2,2,9:25 PM,4:06,Robinson S.FOUL (P2.T3),,,,
+0020200090,181,8,0,2,9:25 PM,4:06,SUB: Bowen FOR Jackson,,,,
+0020200090,183,3,10,2,9:25 PM,4:06,,,Davis Free Throw 1 of 1 (3 PTS),35 - 29,-6
+0020200090,184,5,11,2,9:26 PM,3:41,SPURS Turnover: Shot Clock (T#8),,,,
+0020200090,185,8,0,2,9:26 PM,3:41,,,SUB: Sabonis FOR Davis,,
+0020200090,186,1,1,2,9:26 PM,3:22,,,Wallace 27' 3PT Jump Shot (12 PTS) (Patterson 1 AST),38 - 29,-9
+0020200090,187,2,1,2,9:26 PM,3:07,MISS Ferry 20' Jump Shot,,,,
+0020200090,188,4,0,2,9:27 PM,3:05,,,Patterson REBOUND (Off:0 Def:7),,
+0020200090,189,9,1,2,9:27 PM,2:57,,,Trail Blazers Timeout: Regular (Reg.2 Short 0),,
+0020200090,191,8,0,2,9:28 PM,2:57,SUB: Ginobili FOR Ferry,,,,
+0020200090,192,8,0,2,9:29 PM,2:57,,,SUB: Daniels FOR Pippen,,
+0020200090,193,1,49,2,9:29 PM,2:54,,,Daniels 3' Driving Dunk (6 PTS) (Sabonis 2 AST),40 - 29,-11
+0020200090,194,5,1,2,9:29 PM,2:47,Parker Bad Pass Turnover (P1.T9),,,,
+0020200090,195,2,1,2,9:30 PM,2:33,,,MISS Stoudamire 4' Jump Shot,,
+0020200090,196,4,0,2,9:30 PM,2:31,Duncan REBOUND (Off:2 Def:1),,,,
+0020200090,197,5,2,2,9:30 PM,2:29,Duncan Lost Ball Turnover (P2.T10),,Patterson STEAL (1 STL),,
+0020200090,198,5,1,2,9:30 PM,2:13,Bowen STEAL (1 STL),,Patterson Bad Pass Turnover (P3.T7),,
+0020200090,199,6,1,2,9:30 PM,2:09,,,Wallace P.FOUL (P3.T1),,
+0020200090,200,8,0,2,9:30 PM,2:09,,,SUB: Randolph FOR Wallace,,
+0020200090,201,1,1,2,9:30 PM,2:00,Parker 24' 3PT Jump Shot (3 PTS) (Bowen 2 AST),,,40 - 32,-8
+0020200090,202,1,42,2,9:31 PM,1:44,,,Randolph 2' Driving Layup (4 PTS) (Sabonis 3 AST),42 - 32,-10
+0020200090,203,6,17,2,9:31 PM,1:28,,,Trail Blazers T.Foul (Def. 3 Sec Sabonis ),,
+0020200090,204,3,16,2,9:31 PM,1:28,Robinson Free Throw Technical (4 PTS),,,42 - 33,-9
+0020200090,205,2,41,2,9:32 PM,1:25,MISS Duncan 2' Running Layup,,,,
+0020200090,206,4,0,2,9:32 PM,1:22,,,Randolph REBOUND (Off:1 Def:2),,
+0020200090,207,1,3,2,9:32 PM,1:08,,,Sabonis 2' Hook Shot (2 PTS) (Stoudamire 3 AST),44 - 33,-11
+0020200090,208,5,2,2,9:32 PM,0:51,Robinson Lost Ball Turnover (P1.T11),,Sabonis STEAL (2 STL),,
+0020200090,209,6,1,2,9:32 PM,0:51,Ginobili P.FOUL (P1.T4),,,,
+0020200090,210,2,44,2,9:33 PM,0:40,Robinson BLOCK (2 BLK),,MISS Randolph  Reverse Layup,,
+0020200090,211,4,0,2,9:33 PM,0:40,,,Trail Blazers Rebound,,
+0020200090,212,5,2,2,9:33 PM,0:32,,,Stoudamire Lost Ball Turnover (P2.T8),,
+0020200090,213,1,47,2,9:34 PM,0:20,Duncan 11' Turnaround Jump Shot (14 PTS),,,44 - 35,-9
+0020200090,214,6,2,2,9:34 PM,0:20,,,Stoudamire S.FOUL (P1.T2),,
+0020200090,215,8,0,2,9:34 PM,0:20,SUB: Rose FOR Robinson,,,,
+0020200090,216,3,10,2,9:34 PM,0:20,Duncan Free Throw 1 of 1 (15 PTS),,,44 - 36,-8
+0020200090,217,2,1,2,9:35 PM,0:00,,,MISS Daniels 29' 3PT Jump Shot,,
+0020200090,218,4,0,2,9:35 PM,0:00,,,Trail Blazers Rebound,,
+0020200090,219,13,0,2,9:35 PM,0:00,,,,44 - 36,-8
+0020200090,221,12,0,3,9:52 PM,12:00,,,,44 - 36,-8
+0020200090,222,6,1,3,9:53 PM,11:41,Parker P.FOUL (P2.T1),,,,
+0020200090,223,1,1,3,9:53 PM,11:28,,,Pippen 16' Jump Shot (9 PTS),46 - 36,-10
+0020200090,224,2,1,3,9:53 PM,11:09,MISS Parker 25' 3PT Jump Shot,,,,
+0020200090,225,4,0,3,9:53 PM,11:07,,,Wallace REBOUND (Off:1 Def:1),,
+0020200090,226,1,47,3,9:54 PM,10:50,,,Wallace 14' Turnaround Jump Shot (14 PTS) (Stoudamire 4 AST),48 - 36,-12
+0020200090,227,2,1,3,9:54 PM,10:35,MISS Robinson 13' Jump Shot,,,,
+0020200090,228,4,0,3,9:54 PM,10:32,,,Patterson REBOUND (Off:0 Def:8),,
+0020200090,229,1,1,3,9:54 PM,10:12,,,Patterson 16' Jump Shot (4 PTS) (Pippen 2 AST),50 - 36,-14
+0020200090,230,9,1,3,9:55 PM,10:03,SPURS Timeout: Regular (Full 3 Short 0),,,,
+0020200090,231,1,1,3,9:57 PM,9:49,Ginobili 25' 3PT Jump Shot (4 PTS) (Parker 1 AST),,,50 - 39,-11
+0020200090,232,2,1,3,9:57 PM,9:21,,,MISS Davis 13' Jump Shot,,
+0020200090,233,4,0,3,9:57 PM,9:19,Robinson REBOUND (Off:2 Def:6),,,,
+0020200090,234,2,1,3,9:58 PM,9:12,MISS Ginobili 24' 3PT Jump Shot,,,,
+0020200090,235,4,0,3,9:58 PM,9:09,Duncan REBOUND (Off:3 Def:1),,,,
+0020200090,236,2,47,3,9:58 PM,8:59,MISS Duncan 10' Turnaround Jump Shot,,,,
+0020200090,237,4,0,3,9:58 PM,8:56,,,Patterson REBOUND (Off:0 Def:9),,
+0020200090,238,2,1,3,9:58 PM,8:51,,,MISS Stoudamire 20' Jump Shot,,
+0020200090,239,4,0,3,9:58 PM,8:50,SPURS Rebound,,,,
+0020200090,240,2,1,3,9:58 PM,8:36,MISS Bowen  3PT Jump Shot,,,,
+0020200090,241,4,0,3,9:58 PM,8:33,,,Pippen REBOUND (Off:0 Def:3),,
+0020200090,242,1,1,3,9:59 PM,8:17,,,Wallace 11' Jump Shot (16 PTS) (Pippen 3 AST),52 - 39,-13
+0020200090,243,5,1,3,9:59 PM,7:53,Robinson Bad Pass Turnover (P2.T12),,,,
+0020200090,244,1,5,3,9:59 PM,7:46,,,Patterson 3' Layup (6 PTS),54 - 39,-15
+0020200090,245,1,42,3,9:59 PM,7:31,Parker 1' Driving Layup (5 PTS),,,54 - 41,-13
+0020200090,246,2,1,3,10:00 PM,7:10,,,MISS Stoudamire 22' Jump Shot,,
+0020200090,247,4,0,3,10:00 PM,7:08,Robinson REBOUND (Off:2 Def:7),,,,
+0020200090,248,1,1,3,10:00 PM,7:01,Bowen 19' Jump Shot (2 PTS) (Ginobili 1 AST),,,54 - 43,-11
+0020200090,249,9,1,3,10:00 PM,6:57,,,Trail Blazers Timeout: Regular (Reg.3 Short 0),,
+0020200090,250,8,0,3,10:02 PM,6:57,SUB: Rose FOR Robinson,,,,
+0020200090,251,8,0,3,10:02 PM,6:57,SUB: Jackson FOR Bowen,,,,
+0020200090,252,1,1,3,10:02 PM,6:37,,,Pippen 10' Jump Shot (11 PTS),56 - 43,-13
+0020200090,253,8,0,3,10:03 PM,6:23,SUB: Ferry FOR Ginobili,,,,
+0020200090,254,1,61,3,10:04 PM,6:13,Parker 3' Driving Finger Roll (7 PTS),,,56 - 45,-11
+0020200090,255,2,1,3,10:04 PM,5:54,,,MISS Wallace 17' Jump Shot,,
+0020200090,256,4,0,3,10:04 PM,5:52,,,Patterson REBOUND (Off:1 Def:9),,
+0020200090,257,2,5,3,10:04 PM,5:48,,,MISS Davis  Layup,,
+0020200090,258,4,0,3,10:04 PM,5:47,,,Trail Blazers Rebound,,
+0020200090,259,5,1,3,10:05 PM,5:26,,,Patterson Bad Pass Turnover (P4.T9),,
+0020200090,260,8,0,3,10:05 PM,5:21,,,SUB: Daniels FOR Patterson,,
+0020200090,261,8,0,3,10:05 PM,5:21,,,SUB: Wells FOR Stoudamire,,
+0020200090,262,9,2,3,10:06 PM,5:13,SPURS Timeout: Short (Full 3 Short 1),,,,
+0020200090,263,5,2,3,10:07 PM,5:06,Duncan Lost Ball Turnover (P3.T13),,Pippen STEAL (1 STL),,
+0020200090,264,2,1,3,10:07 PM,4:50,,,MISS Pippen 26' 3PT Jump Shot,,
+0020200090,265,4,0,3,10:07 PM,4:47,,,Davis REBOUND (Off:2 Def:2),,
+0020200090,266,1,43,3,10:07 PM,4:43,,,Pippen 1' Alley Oop Layup (13 PTS) (Davis 2 AST),58 - 45,-13
+0020200090,267,5,1,3,10:08 PM,4:28,Parker Bad Pass Turnover (P2.T14),,Pippen STEAL (2 STL),,
+0020200090,268,5,1,3,10:08 PM,4:24,,,Pippen Bad Pass Turnover (P1.T10),,
+0020200090,269,8,0,3,10:08 PM,4:24,,,SUB: Sabonis FOR Davis,,
+0020200090,270,6,2,3,10:08 PM,4:13,,,Sabonis S.FOUL (P1.T1),,
+0020200090,271,3,11,3,10:08 PM,4:13,Jackson Free Throw 1 of 2 (5 PTS),,,58 - 46,-12
+0020200090,272,3,12,3,10:09 PM,4:13,Jackson Free Throw 2 of 2 (6 PTS),,,58 - 47,-11
+0020200090,273,1,52,3,10:09 PM,3:53,,,Wallace 1' Alley Oop Dunk (18 PTS) (Wells 3 AST),60 - 47,-13
+0020200090,274,6,1,3,10:09 PM,3:39,,,Daniels P.FOUL (P1.T2),,
+0020200090,276,8,0,3,10:09 PM,3:39,,,SUB: Stoudamire FOR Daniels,,
+0020200090,275,1,5,3,10:10 PM,3:34,Jackson 1' Layup (8 PTS) (Parker 2 AST),,,60 - 49,-11
+0020200090,277,1,5,3,10:11 PM,3:18,,,Wells 2' Layup (4 PTS) (Wallace 1 AST),62 - 49,-13
+0020200090,278,5,1,3,10:11 PM,2:56,Ferry Bad Pass Turnover (P1.T15),,Pippen STEAL (3 STL),,
+0020200090,279,1,1,3,10:11 PM,2:40,,,Wells 17' Jump Shot (6 PTS) (Stoudamire 5 AST),64 - 49,-15
+0020200090,280,1,1,3,10:12 PM,2:21,Jackson 24' 3PT Jump Shot (11 PTS),,,64 - 52,-12
+0020200090,281,1,42,3,10:12 PM,2:01,,,Wells 2' Driving Layup (8 PTS),66 - 52,-14
+0020200090,282,6,2,3,10:12 PM,1:43,,,Sabonis S.FOUL (P2.T3),,
+0020200090,283,8,0,3,10:12 PM,1:43,SUB: Kerr FOR Parker,,,,
+0020200090,284,8,0,3,10:12 PM,1:43,SUB: Bowen FOR Ferry,,,,
+0020200090,285,3,11,3,10:13 PM,1:43,Rose Free Throw 1 of 2 (3 PTS),,,66 - 53,-13
+0020200090,286,3,12,3,10:13 PM,1:43,Rose Free Throw 2 of 2 (4 PTS),,,66 - 54,-12
+0020200090,287,8,0,3,10:13 PM,1:29,,,SUB: Randolph FOR Wallace,,
+0020200090,288,1,1,3,10:14 PM,1:24,,,Wells 21' Jump Shot (10 PTS) (Sabonis 4 AST),68 - 54,-14
+0020200090,289,6,1,3,10:14 PM,1:07,,,Randolph P.FOUL (P1.PN),,
+0020200090,290,8,0,3,10:14 PM,1:07,,,SUB: Patterson FOR Pippen,,
+0020200090,292,3,11,3,10:14 PM,1:07,Rose Free Throw 1 of 2 (5 PTS),,,68 - 55,-13
+0020200090,293,3,12,3,10:15 PM,1:07,Rose Free Throw 2 of 2 (6 PTS),,,68 - 56,-12
+0020200090,294,5,1,3,10:15 PM,0:56,Kerr STEAL (1 STL),,Stoudamire Bad Pass Turnover (P3.T11),,
+0020200090,295,6,3,3,10:15 PM,0:56,,,Stoudamire L.B.FOUL (P2.PN),,
+0020200090,296,3,11,3,10:15 PM,0:56,Kerr Free Throw 1 of 2 (1 PTS),,,68 - 57,-11
+0020200090,297,3,12,3,10:15 PM,0:56,Kerr Free Throw 2 of 2 (2 PTS),,,68 - 58,-10
+0020200090,298,9,2,3,10:16 PM,0:51,,,Trail Blazers Timeout: Short (Reg.3 Short 1),,
+0020200090,299,6,1,3,10:17 PM,0:45,Jackson P.FOUL (P2.T2),,,,
+0020200090,300,8,0,3,10:17 PM,0:45,,,SUB: Pippen FOR Randolph,,
+0020200090,301,6,2,3,10:18 PM,0:35,Bowen S.FOUL (P1.PN),,,,
+0020200090,302,3,11,3,10:18 PM,0:35,,,MISS Wells Free Throw 1 of 2,,
+0020200090,303,4,1,3,10:18 PM,0:35,,,Trail Blazers Rebound,,
+0020200090,304,8,0,3,10:18 PM,0:35,,,SUB: Davis FOR Sabonis,,
+0020200090,305,3,12,3,10:18 PM,0:35,,,Wells Free Throw 2 of 2 (11 PTS),69 - 58,-11
+0020200090,306,10,0,3,10:19 PM,0:21,Jump Ball Duncan vs. Wells: Tip to Pippen,,,,
+0020200090,307,5,2,3,10:19 PM,0:21,Rose Lost Ball Turnover (P3.T16),,Wells STEAL (1 STL),,
+0020200090,308,5,4,3,10:19 PM,0:17,,,Pippen Traveling Turnover (P2.T12),,
+0020200090,309,2,1,3,10:20 PM,0:03,MISS Jackson 23' Jump Shot,,,,
+0020200090,310,4,0,3,10:20 PM,0:00,,,Davis REBOUND (Off:2 Def:3),,
+0020200090,311,13,0,3,10:20 PM,0:00,,,,69 - 58,-11
+0020200090,313,12,0,4,10:23 PM,12:00,,,,69 - 58,-11
+0020200090,314,1,5,4,10:23 PM,11:42,Rose 1' Layup (8 PTS),,,69 - 60,-9
+0020200090,315,6,2,4,10:23 PM,11:42,,,Davis S.FOUL (P3.T1),,
+0020200090,316,3,10,4,10:24 PM,11:42,Rose Free Throw 1 of 1 (9 PTS),,,69 - 61,-8
+0020200090,317,2,1,4,10:24 PM,11:22,Bowen BLOCK (1 BLK),,MISS Wells 16' Jump Shot,,
+0020200090,318,4,0,4,10:24 PM,11:19,Rose REBOUND (Off:2 Def:8),,,,
+0020200090,319,5,1,4,10:24 PM,11:12,Duncan Bad Pass Turnover (P4.T17),,Wells STEAL (2 STL),,
+0020200090,320,6,1,4,10:24 PM,11:12,Kerr P.FOUL (P1.T1),,,,
+0020200090,321,8,0,4,10:25 PM,11:12,,,SUB: Randolph FOR Davis,,
+0020200090,322,8,0,4,10:25 PM,11:12,,,SUB: Daniels FOR Stoudamire,,
+0020200090,323,1,1,4,10:25 PM,10:58,,,Wells 24' 3PT Jump Shot (14 PTS),72 - 61,-11
+0020200090,324,2,1,4,10:25 PM,10:43,MISS Jackson 19' Jump Shot,,,,
+0020200090,325,4,0,4,10:25 PM,10:40,,,Daniels REBOUND (Off:0 Def:1),,
+0020200090,326,2,1,4,10:25 PM,10:29,,,MISS Wells 20' Jump Shot,,
+0020200090,327,4,0,4,10:26 PM,10:25,Duncan REBOUND (Off:3 Def:2),,,,
+0020200090,328,1,5,4,10:26 PM,10:15,Jackson 1' Layup (13 PTS),,,72 - 63,-9
+0020200090,329,1,5,4,10:26 PM,9:56,,,Randolph 3' Layup (6 PTS) (Patterson 2 AST),74 - 63,-11
+0020200090,330,2,1,4,10:26 PM,9:37,MISS Rose 14' Jump Shot,,,,
+0020200090,331,4,0,4,10:26 PM,9:35,,,Patterson REBOUND (Off:1 Def:10),,
+0020200090,332,6,2,4,10:27 PM,9:22,Bowen S.FOUL (P2.T2),,,,
+0020200090,333,8,0,4,10:27 PM,9:22,SUB: Parker FOR Kerr,,,,
+0020200090,334,3,11,4,10:27 PM,9:22,,,Sabonis Free Throw 1 of 2 (3 PTS),75 - 63,-12
+0020200090,335,3,12,4,10:27 PM,9:22,,,Sabonis Free Throw 2 of 2 (4 PTS),76 - 63,-13
+0020200090,336,6,1,4,10:28 PM,9:08,,,Wells P.FOUL (P1.T2),,
+0020200090,337,2,1,4,10:28 PM,8:57,MISS Jackson  3PT Jump Shot,,Wells BLOCK (1 BLK),,
+0020200090,338,4,0,4,10:28 PM,8:57,SPURS Rebound,,,,
+0020200090,339,9,3,4,10:28 PM,8:57,,,,,
+0020200090,341,6,2,4,10:31 PM,8:55,,,Wells S.FOUL (P2.T3),,
+0020200090,342,3,11,4,10:31 PM,8:55,Jackson Free Throw 1 of 2 (14 PTS),,,76 - 64,-12
+0020200090,343,3,12,4,10:31 PM,8:55,MISS Jackson Free Throw 2 of 2,,,,
+0020200090,344,4,0,4,10:31 PM,8:53,Rose REBOUND (Off:3 Def:8),,,,
+0020200090,345,2,5,4,10:32 PM,8:33,MISS Jackson  Layup,,Randolph BLOCK (1 BLK),,
+0020200090,346,4,0,4,10:32 PM,8:30,,,Patterson REBOUND (Off:1 Def:11),,
+0020200090,347,2,42,4,10:32 PM,8:27,,,MISS Wells 2' Driving Layup,,
+0020200090,349,4,0,4,10:32 PM,8:25,,,Randolph REBOUND (Off:2 Def:2),,
+0020200090,348,1,5,4,10:32 PM,8:25,,,Randolph 1' Layup (8 PTS),78 - 64,-14
+0020200090,350,2,1,4,10:32 PM,8:04,MISS Parker 17' Jump Shot,,,,
+0020200090,351,4,0,4,10:32 PM,8:02,,,Sabonis REBOUND (Off:0 Def:3),,
+0020200090,352,1,5,4,10:33 PM,7:43,,,Randolph 2' Layup (10 PTS) (Patterson 3 AST),80 - 64,-16
+0020200090,353,6,1,4,10:33 PM,7:32,,,Randolph P.FOUL (P2.T4),,
+0020200090,354,8,0,4,10:33 PM,7:32,SUB: Ferry FOR Bowen,,,,
+0020200090,355,8,0,4,10:33 PM,7:32,SUB: Robinson FOR Duncan,,,,
+0020200090,356,5,1,4,10:34 PM,7:20,Parker Bad Pass Turnover (P3.T18),,Daniels STEAL (2 STL),,
+0020200090,357,2,1,4,10:34 PM,7:06,,,MISS Wells 19' Jump Shot,,
+0020200090,358,4,0,4,10:34 PM,7:05,SPURS Rebound,,,,
+0020200090,359,2,42,4,10:34 PM,6:49,MISS Jackson 2' Driving Layup,,,,
+0020200090,360,4,0,4,10:34 PM,6:46,,,Sabonis REBOUND (Off:0 Def:4),,
+0020200090,361,2,5,4,10:35 PM,6:34,,,MISS Randolph 2' Layup,,
+0020200090,362,4,0,4,10:35 PM,6:32,Robinson REBOUND (Off:2 Def:8),,,,
+0020200090,363,2,1,4,10:35 PM,6:23,MISS Ferry  3PT Jump Shot,,,,
+0020200090,364,4,0,4,10:35 PM,6:20,,,Daniels REBOUND (Off:0 Def:2),,
+0020200090,365,2,65,4,10:35 PM,6:05,,,MISS Randolph 5' Jump Hook Shot,,
+0020200090,366,4,0,4,10:35 PM,6:03,Ferry REBOUND (Off:0 Def:2),,,,
+0020200090,367,6,2,4,10:35 PM,5:48,,,Patterson S.FOUL (P1.PN),,
+0020200090,368,9,1,4,10:36 PM,5:48,SPURS Timeout: Regular (Full 4 Short 1),,,,
+0020200090,370,8,0,4,10:37 PM,5:48,SUB: Duncan FOR Rose,,,,
+0020200090,371,8,0,4,10:37 PM,5:48,,,SUB: Wallace FOR Sabonis,,
+0020200090,372,3,11,4,10:38 PM,5:48,Jackson Free Throw 1 of 2 (15 PTS),,,80 - 65,-15
+0020200090,374,6,11,4,10:38 PM,5:48,Ferry T.FOUL (P0.T2),,,,
+0020200090,375,3,16,4,10:39 PM,5:48,,,Daniels Free Throw Technical (7 PTS),81 - 65,-16
+0020200090,376,3,12,4,10:39 PM,5:48,MISS Jackson Free Throw 2 of 2,,,,
+0020200090,377,4,0,4,10:39 PM,5:47,,,Wallace REBOUND (Off:1 Def:2),,
+0020200090,378,6,1,4,10:39 PM,5:43,Ferry P.FOUL (P1.T3),,,,
+0020200090,379,6,5,4,10:40 PM,5:43,Parker IN.FOUL (P3.T4),,,,
+0020200090,380,3,11,4,10:40 PM,5:43,,,Daniels Free Throw 1 of 2 (8 PTS),82 - 65,-17
+0020200090,381,8,0,4,10:41 PM,5:43,SUB: Bowen FOR Ferry,,,,
+0020200090,382,3,12,4,10:41 PM,5:43,,,MISS Daniels Free Throw 2 of 2,,
+0020200090,383,4,0,4,10:41 PM,5:42,Duncan REBOUND (Off:3 Def:3),,,,
+0020200090,384,2,56,4,10:41 PM,5:35,MISS Duncan 4' Running Hook Shot,,Wallace BLOCK (1 BLK),,
+0020200090,385,4,0,4,10:41 PM,5:33,,,Randolph REBOUND (Off:2 Def:3),,
+0020200090,386,2,1,4,10:41 PM,5:21,Robinson BLOCK (3 BLK),,MISS Patterson 13' Jump Shot,,
+0020200090,387,4,0,4,10:41 PM,5:17,,,Wallace REBOUND (Off:2 Def:2),,
+0020200090,388,5,1,4,10:41 PM,5:14,Jackson STEAL (2 STL),,Patterson Bad Pass Turnover (P5.T13),,
+0020200090,389,6,2,4,10:42 PM,5:07,,,Wallace S.FOUL (P4.PN),,
+0020200090,390,3,11,4,10:42 PM,5:07,MISS Duncan Free Throw 1 of 2,,,,
+0020200090,391,4,1,4,10:42 PM,5:07,SPURS Rebound,,,,
+0020200090,392,8,0,4,10:42 PM,5:07,,,SUB: Pippen FOR Patterson,,
+0020200090,393,8,0,4,10:42 PM,5:07,,,SUB: Stoudamire FOR Daniels,,
+0020200090,394,3,12,4,10:42 PM,5:07,Duncan Free Throw 2 of 2 (16 PTS),,,82 - 66,-16
+0020200090,395,1,1,4,10:42 PM,4:50,,,Randolph 18' Jump Shot (12 PTS) (Pippen 4 AST),84 - 66,-18
+0020200090,396,6,4,4,10:43 PM,4:32,Jackson OFF.Foul (P3),,,,
+0020200090,397,5,5,4,10:43 PM,4:32,Jackson Foul Turnover (P2.T19),,,,
+0020200090,398,8,0,4,10:43 PM,4:32,SUB: Willis FOR Duncan,,,,
+0020200090,399,5,2,4,10:43 PM,4:12,Jackson STEAL (3 STL),,Wallace Lost Ball Turnover (P1.T14),,
+0020200090,400,1,5,4,10:43 PM,4:08,Parker 2' Layup (9 PTS),,,84 - 68,-16
+0020200090,401,9,1,4,10:44 PM,3:56,,,Trail Blazers Timeout: Regular (Reg.4 Short 1),,
+0020200090,403,1,1,4,10:46 PM,3:48,,,Pippen 17' Jump Shot (15 PTS),86 - 68,-18
+0020200090,404,2,63,4,10:46 PM,3:24,MISS Jackson 8' Fadeaway Jumper,,,,
+0020200090,405,4,0,4,10:46 PM,3:21,,,Randolph REBOUND (Off:2 Def:4),,
+0020200090,406,2,1,4,10:47 PM,3:04,,,MISS Pippen 18' Jump Shot,,
+0020200090,407,4,0,4,10:47 PM,3:04,,,Trail Blazers Rebound,,
+0020200090,408,6,3,4,10:47 PM,3:04,Willis L.B.FOUL (P1.PN),,,,
+0020200090,409,8,0,4,10:47 PM,3:04,SUB: Kerr FOR Parker,,,,
+0020200090,410,8,0,4,10:47 PM,3:04,,,SUB: Daniels FOR Pippen,,
+0020200090,411,3,11,4,10:47 PM,3:04,,,Randolph Free Throw 1 of 2 (13 PTS),87 - 68,-19
+0020200090,412,3,12,4,10:47 PM,3:04,,,Randolph Free Throw 2 of 2 (14 PTS),88 - 68,-20
+0020200090,413,1,8,4,10:48 PM,2:50,Robinson 2' Slam Dunk (6 PTS) (Jackson 3 AST),,,88 - 70,-18
+0020200090,414,6,1,4,10:48 PM,2:27,Jackson P.FOUL (P4.PN),,,,
+0020200090,415,3,11,4,10:48 PM,2:27,,,MISS Wells Free Throw 1 of 2,,
+0020200090,416,4,1,4,10:48 PM,2:27,,,Trail Blazers Rebound,,
+0020200090,417,3,12,4,10:49 PM,2:27,,,Wells Free Throw 2 of 2 (15 PTS),89 - 70,-19
+0020200090,418,2,1,4,10:49 PM,2:16,MISS Jackson 22' Jump Shot,,,,
+0020200090,419,4,0,4,10:49 PM,2:14,,,Wells REBOUND (Off:0 Def:1),,
+0020200090,420,1,5,4,10:49 PM,2:04,,,Wells 1' Layup (17 PTS) (Wallace 2 AST),91 - 70,-21
+0020200090,421,6,2,4,10:49 PM,2:04,Jackson S.FOUL (P5.PN),,,,
+0020200090,422,3,10,4,10:50 PM,2:04,,,Wells Free Throw 1 of 1 (18 PTS),92 - 70,-22
+0020200090,423,2,1,4,10:50 PM,1:45,MISS Willis 4' Jump Shot,,,,
+0020200090,424,4,0,4,10:50 PM,1:43,,,Randolph REBOUND (Off:2 Def:5),,
+0020200090,425,6,2,4,10:50 PM,1:33,Bowen S.FOUL (P3.PN),,,,
+0020200090,426,3,11,4,10:51 PM,1:33,,,Wells Free Throw 1 of 2 (19 PTS),93 - 70,-23
+0020200090,427,8,0,4,10:51 PM,1:33,SUB: Brown FOR Bowen,,,,
+0020200090,428,8,0,4,10:51 PM,1:33,,,SUB: Woods FOR Wallace,,
+0020200090,429,3,12,4,10:51 PM,1:33,,,MISS Wells Free Throw 2 of 2,,
+0020200090,430,4,0,4,10:51 PM,1:32,Willis REBOUND (Off:0 Def:1),,,,
+0020200090,431,1,1,4,10:51 PM,1:16,Kerr 25' 3PT Jump Shot (5 PTS) (Jackson 4 AST),,,93 - 73,-20
+0020200090,432,1,1,4,10:52 PM,1:02,,,Woods 17' Jump Shot (2 PTS),95 - 73,-22
+0020200090,433,6,1,4,10:52 PM,0:53,,,Wells P.FOUL (P3.PN),,
+0020200090,434,8,0,4,10:52 PM,0:53,,,SUB: Patterson FOR Wells,,
+0020200090,435,3,11,4,10:52 PM,0:53,Willis Free Throw 1 of 2 (1 PTS),,,95 - 74,-21
+0020200090,436,3,12,4,10:52 PM,0:53,MISS Willis Free Throw 2 of 2,,,,
+0020200090,437,4,0,4,10:53 PM,0:52,,,Woods REBOUND (Off:0 Def:1),,
+0020200090,438,2,1,4,10:53 PM,0:36,,,MISS Patterson 20' Jump Shot,,
+0020200090,439,4,0,4,10:53 PM,0:35,SPURS Rebound,,,,
+0020200090,440,2,1,4,10:53 PM,0:21,MISS Willis 9' Jump Shot,,,,
+0020200090,441,4,0,4,10:53 PM,0:19,Brown REBOUND (Off:1 Def:1),,,,
+0020200090,442,2,1,4,10:53 PM,0:16,MISS Kerr 25' 3PT Jump Shot,,,,
+0020200090,443,4,0,4,10:54 PM,0:14,Brown REBOUND (Off:2 Def:1),,,,
+0020200090,444,1,44,4,10:54 PM,0:11,Brown 1' Reverse Layup (2 PTS),,,95 - 76,-19
+0020200090,445,13,0,4,10:54 PM,0:00,,,,95 - 76,-19

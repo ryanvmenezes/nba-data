@@ -1,0 +1,499 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020501095,1,12,0,1,7:16 PM,12:00,,,,,
+0020501095,2,10,0,1,7:16 PM,12:00,Jump Ball Sow vs. Perkins: Tip to Villanueva,,,,
+0020501095,3,2,42,1,7:17 PM,11:44,MISS James 4' Driving Layup,,Perkins BLOCK (1 BLK),,
+0020501095,4,4,0,1,7:17 PM,11:44,RAPTORS Rebound,,,,
+0020501095,5,2,1,1,7:17 PM,11:37,MISS Williams  3PT Jump Shot,,,,
+0020501095,6,4,0,1,7:17 PM,11:36,,,Celtics Rebound,,
+0020501095,7,6,3,1,7:17 PM,11:36,Sow L.B.FOUL (P1.T1),,,,
+0020501095,8,2,1,1,7:18 PM,11:19,,,MISS Szczerbiak  3PT Jump Shot,,
+0020501095,9,4,0,1,7:18 PM,11:17,Peterson REBOUND (Off:0 Def:1),,,,
+0020501095,10,1,1,1,7:18 PM,11:11,Villanueva 19' Jump Shot (2 PTS) (Peterson 1 AST),,,0 - 2,2
+0020501095,11,2,46,1,7:18 PM,10:57,,,MISS West 8' Running Jump Shot,,
+0020501095,12,4,0,1,7:18 PM,10:55,,,Pierce REBOUND (Off:1 Def:0),,
+0020501095,13,6,2,1,7:18 PM,10:55,Williams S.FOUL (P1.T2),,,,
+0020501095,14,3,11,1,7:18 PM,10:55,,,MISS Pierce Free Throw 1 of 2,,
+0020501095,15,4,1,1,7:18 PM,10:55,,,Celtics Rebound,,
+0020501095,16,3,12,1,7:19 PM,10:55,,,Pierce Free Throw 2 of 2 (1 PTS),1 - 2,1
+0020501095,17,1,1,1,7:19 PM,10:44,Peterson 17' Jump Shot (2 PTS) (Williams 1 AST),,,1 - 4,3
+0020501095,19,6,2,1,7:19 PM,10:21,Williams S.FOUL (P2.T3),,,,
+0020501095,20,3,11,1,7:20 PM,10:21,,,Szczerbiak Free Throw 1 of 2 (1 PTS),2 - 4,2
+0020501095,21,3,12,1,7:20 PM,10:21,,,Szczerbiak Free Throw 2 of 2 (2 PTS),3 - 4,1
+0020501095,22,1,1,1,7:21 PM,10:09,Peterson 20' Jump Shot (4 PTS) (Williams 2 AST),,,3 - 6,3
+0020501095,23,6,2,1,7:21 PM,10:09,,,Pierce S.FOUL (P1.T1),,
+0020501095,24,3,10,1,7:21 PM,10:09,Peterson Free Throw 1 of 1 (5 PTS),,,3 - 7,4
+0020501095,25,5,2,1,7:21 PM,9:55,Peterson STEAL (1 STL),,Pierce Lost Ball Turnover (P1.T1),,
+0020501095,26,1,44,1,7:21 PM,9:48,Villanueva  Reverse Layup (4 PTS) (Williams 3 AST),,,3 - 9,6
+0020501095,27,1,58,1,7:22 PM,9:29,,,Perkins 7' Turnaround Hook Shot (2 PTS) (West 1 AST),5 - 9,4
+0020501095,28,2,1,1,7:22 PM,9:16,MISS Villanueva  3PT Jump Shot,,,,
+0020501095,29,4,0,1,7:22 PM,9:14,,,Perkins REBOUND (Off:0 Def:1),,
+0020501095,30,10,0,1,7:22 PM,9:02,Jump Ball James vs. Pierce: Tip to Peterson,,,,
+0020501095,31,5,2,1,7:22 PM,9:02,James STEAL (1 STL),,Pierce Lost Ball Turnover (P2.T2),,
+0020501095,32,6,2,1,7:23 PM,8:56,,,Pierce S.FOUL (P2.T2),,
+0020501095,33,9,1,1,7:23 PM,8:56,RAPTORS Timeout: Regular (Full 1 Short 0),,,,
+0020501095,34,8,0,1,7:25 PM,8:56,,,SUB: Allen FOR Pierce,,
+0020501095,36,3,11,1,7:26 PM,8:56,Peterson Free Throw 1 of 2 (6 PTS),,,5 - 10,5
+0020501095,37,3,12,1,7:26 PM,8:56,Peterson Free Throw 2 of 2 (7 PTS),,,5 - 11,6
+0020501095,39,2,1,1,7:27 PM,8:36,,,MISS West 26' 3PT Jump Shot,,
+0020501095,40,4,0,1,7:27 PM,8:35,,,Celtics Rebound,,
+0020501095,41,5,11,1,7:27 PM,8:35,,,Celtics Turnover: Shot Clock (T#3),,
+0020501095,42,2,1,1,7:27 PM,8:23,MISS James 19' Jump Shot,,,,
+0020501095,43,4,0,1,7:27 PM,8:22,Villanueva REBOUND (Off:1 Def:0),,,,
+0020501095,44,6,2,1,7:28 PM,8:09,,,Gomes S.FOUL (P1.T3),,
+0020501095,45,3,11,1,7:28 PM,8:09,Villanueva Free Throw 1 of 2 (5 PTS),,,5 - 12,7
+0020501095,46,3,12,1,7:28 PM,8:09,Villanueva Free Throw 2 of 2 (6 PTS),,,5 - 13,8
+0020501095,47,6,1,1,7:29 PM,8:00,Villanueva P.FOUL (P1.T4),,,,
+0020501095,48,1,1,1,7:29 PM,7:52,,,Szczerbiak  3PT Jump Shot (5 PTS) (Gomes 1 AST),8 - 13,5
+0020501095,49,1,1,1,7:29 PM,7:37,Sow 18' Jump Shot (2 PTS) (Peterson 2 AST),,,8 - 15,7
+0020501095,50,5,4,1,7:29 PM,7:23,,,Perkins Traveling Turnover (P1.T4),,
+0020501095,51,2,47,1,7:30 PM,7:09,MISS Villanueva 9' Turnaround Jump Shot,,,,
+0020501095,52,4,0,1,7:30 PM,7:07,,,Szczerbiak REBOUND (Off:0 Def:1),,
+0020501095,53,1,1,1,7:30 PM,7:01,,,Szczerbiak 15' Jump Shot (7 PTS),10 - 15,5
+0020501095,54,2,47,1,7:30 PM,6:41,MISS Peterson 13' Turnaround Jump Shot,,,,
+0020501095,55,4,0,1,7:30 PM,6:39,Villanueva REBOUND (Off:2 Def:0),,,,
+0020501095,56,1,47,1,7:30 PM,6:36,Villanueva 8' Turnaround Jump Shot (8 PTS),,,10 - 17,7
+0020501095,57,6,4,1,7:31 PM,6:27,,,Perkins OFF.Foul (P1),,
+0020501095,58,5,5,1,7:31 PM,6:27,,,Perkins Foul Turnover (P2.T5),,
+0020501095,59,8,0,1,7:31 PM,6:27,,,SUB: LaFrentz FOR Perkins,,
+0020501095,60,6,2,1,7:31 PM,6:17,,,LaFrentz S.FOUL (P1.T4),,
+0020501095,61,3,11,1,7:31 PM,6:17,Peterson Free Throw 1 of 2 (8 PTS),,,10 - 18,8
+0020501095,62,3,12,1,7:32 PM,6:17,Peterson Free Throw 2 of 2 (9 PTS),,,10 - 19,9
+0020501095,63,1,1,1,7:32 PM,6:04,,,Szczerbiak 7' Jump Shot (9 PTS),12 - 19,7
+0020501095,64,2,46,1,7:32 PM,5:50,MISS Villanueva 11' Running Jump Shot,,,,
+0020501095,65,4,0,1,7:32 PM,5:48,,,LaFrentz REBOUND (Off:0 Def:1),,
+0020501095,66,2,1,1,7:32 PM,5:42,,,MISS West 25' 3PT Jump Shot,,
+0020501095,67,4,0,1,7:33 PM,5:40,Peterson REBOUND (Off:0 Def:2),,,,
+0020501095,68,2,47,1,7:33 PM,5:30,MISS Sow 9' Turnaround Jump Shot,,,,
+0020501095,69,4,0,1,7:33 PM,5:28,,,West REBOUND (Off:0 Def:1),,
+0020501095,70,5,1,1,7:33 PM,5:22,Sow STEAL (1 STL),,Szczerbiak Bad Pass Turnover (P1.T6),,
+0020501095,71,1,43,1,7:33 PM,5:16,Peterson  Alley Oop Layup (11 PTS) (James 1 AST),,,12 - 21,9
+0020501095,72,1,1,1,7:33 PM,4:54,,,Gomes 17' Jump Shot (2 PTS) (West 2 AST),14 - 21,7
+0020501095,73,2,42,1,7:34 PM,4:35,MISS Peterson  Driving Layup,,,,
+0020501095,74,4,0,1,7:34 PM,4:33,Sow REBOUND (Off:1 Def:0),,,,
+0020501095,75,2,4,1,7:34 PM,4:31,MISS Sow  Tip Shot,,,,
+0020501095,76,4,0,1,7:34 PM,4:30,,,Allen REBOUND (Off:0 Def:1),,
+0020501095,77,1,1,1,7:34 PM,4:25,,,LaFrentz 25' 3PT Jump Shot (3 PTS) (Allen 1 AST),17 - 21,4
+0020501095,78,2,46,1,7:34 PM,4:08,MISS James 5' Running Jump Shot,,,,
+0020501095,79,4,0,1,7:34 PM,4:06,,,Gomes REBOUND (Off:0 Def:1),,
+0020501095,80,1,44,1,7:34 PM,4:01,,,Allen  Reverse Layup (2 PTS) (West 3 AST),19 - 21,2
+0020501095,81,1,1,1,7:34 PM,3:45,Williams 21' Jump Shot (2 PTS) (Peterson 3 AST),,,19 - 23,4
+0020501095,82,1,1,1,7:35 PM,3:31,,,Gomes 17' Jump Shot (4 PTS) (Szczerbiak 1 AST),21 - 23,2
+0020501095,83,2,1,1,7:35 PM,3:17,MISS Williams  3PT Jump Shot,,,,
+0020501095,84,4,0,1,7:35 PM,3:15,,,LaFrentz REBOUND (Off:0 Def:2),,
+0020501095,85,1,42,1,7:35 PM,3:06,,,Allen  Driving Layup (4 PTS),23 - 23,TIE
+0020501095,86,7,1,1,7:35 PM,3:01,,,Celtics Violation: Delay of game Violation,,
+0020501095,87,1,55,1,7:36 PM,2:45,Sow 5' Hook Shot (4 PTS),,,23 - 25,2
+0020501095,88,2,1,1,7:36 PM,2:36,,,MISS Gomes 13' Jump Shot,,
+0020501095,89,4,0,1,7:36 PM,2:34,Sow REBOUND (Off:1 Def:1),,,,
+0020501095,90,1,5,1,7:36 PM,2:24,Williams  Layup (4 PTS) (James 2 AST),,,23 - 27,4
+0020501095,91,6,1,1,7:36 PM,2:08,Villanueva P.FOUL (P2.PN),,,,
+0020501095,92,9,4,1,7:37 PM,2:08,,,Celtics Timeout: Official (Reg.0 Short 0),,
+0020501095,95,8,0,1,7:39 PM,2:08,SUB: Bonner FOR Villanueva,,,,
+0020501095,96,8,0,1,7:39 PM,2:08,SUB: Graham FOR Williams,,,,
+0020501095,97,8,0,1,7:39 PM,2:08,SUB: Araujo FOR Sow,,,,
+0020501095,98,3,11,1,7:39 PM,2:08,,,MISS Gomes Free Throw 1 of 2,,
+0020501095,99,4,1,1,7:39 PM,2:08,,,Celtics Rebound,,
+0020501095,100,3,12,1,7:39 PM,2:08,,,MISS Gomes Free Throw 2 of 2,,
+0020501095,101,4,0,1,7:40 PM,2:08,James REBOUND (Off:0 Def:1),,,,
+0020501095,102,10,0,1,7:40 PM,2:06,Jump Ball James vs. West: Tip to Bonner,,,,
+0020501095,103,2,65,1,7:40 PM,1:49,MISS Araujo 9' Jump Hook Shot,,,,
+0020501095,104,4,0,1,7:40 PM,1:48,,,Gomes REBOUND (Off:0 Def:2),,
+0020501095,105,1,1,1,7:40 PM,1:38,,,LaFrentz 25' 3PT Jump Shot (6 PTS) (Szczerbiak 2 AST),26 - 27,1
+0020501095,106,2,1,1,7:41 PM,1:22,MISS James 25' 3PT Jump Shot,,,,
+0020501095,107,4,0,1,7:41 PM,1:20,,,West REBOUND (Off:0 Def:2),,
+0020501095,108,2,1,1,7:41 PM,1:13,,,MISS West 19' Jump Shot,,
+0020501095,109,4,0,1,7:41 PM,1:12,,,West REBOUND (Off:1 Def:2),,
+0020501095,110,1,1,1,7:41 PM,1:09,,,LaFrentz 24' 3PT Jump Shot (9 PTS) (West 4 AST),29 - 27,-2
+0020501095,111,2,58,1,7:41 PM,0:55,MISS Araujo 6' Turnaround Hook Shot,,,,
+0020501095,112,4,0,1,7:41 PM,0:53,,,LaFrentz REBOUND (Off:0 Def:3),,
+0020501095,113,5,1,1,7:41 PM,0:45,Graham STEAL (1 STL),,West Bad Pass Turnover (P1.T7),,
+0020501095,114,1,1,1,7:41 PM,0:36,Graham 15' Jump Shot (2 PTS),,,29 - 29,TIE
+0020501095,115,2,1,1,7:42 PM,0:18,,,MISS Gomes 13' Jump Shot,,
+0020501095,116,4,0,1,7:42 PM,0:16,,,Allen REBOUND (Off:1 Def:1),,
+0020501095,117,6,1,1,7:42 PM,0:15,Araujo P.FOUL (P1.PN),,,,
+0020501095,118,8,0,1,7:42 PM,0:15,,,SUB: Green FOR West,,
+0020501095,119,8,0,1,7:42 PM,0:15,,,SUB: Greene FOR Szczerbiak,,
+0020501095,120,3,11,1,7:42 PM,0:15,,,Allen Free Throw 1 of 2 (5 PTS),30 - 29,-1
+0020501095,122,8,0,1,7:43 PM,0:15,,,SUB: Scalabrine FOR Gomes,,
+0020501095,123,3,12,1,7:43 PM,0:15,,,Allen Free Throw 2 of 2 (6 PTS),31 - 29,-2
+0020501095,125,1,49,1,7:43 PM,0:09,Peterson  Driving Dunk (13 PTS),,,31 - 31,TIE
+0020501095,126,5,2,1,7:43 PM,0:01,Araujo STEAL (1 STL),,Green Lost Ball Turnover (P1.T8),,
+0020501095,127,13,0,1,7:43 PM,0:00,,,,31 - 31,TIE
+0020501095,129,12,0,2,7:46 PM,12:00,,,,31 - 31,TIE
+0020501095,130,2,1,2,7:47 PM,11:45,,,MISS LaFrentz 25' 3PT Jump Shot,,
+0020501095,131,4,0,2,7:47 PM,11:43,Bonner REBOUND (Off:0 Def:1),,,,
+0020501095,132,1,46,2,7:47 PM,11:28,Peterson 16' Running Jump Shot (15 PTS) (Barrett 1 AST),,,31 - 33,2
+0020501095,133,1,1,2,7:47 PM,11:02,,,Green 8' Jump Shot (2 PTS) (Scalabrine 1 AST),33 - 33,TIE
+0020501095,134,2,46,2,7:48 PM,10:45,MISS Graham 7' Running Jump Shot,,Green BLOCK (1 BLK),,
+0020501095,135,4,0,2,7:48 PM,10:43,Bonner REBOUND (Off:1 Def:1),,,,
+0020501095,136,1,40,2,7:48 PM,10:38,Araujo  Layup (2 PTS) (Barrett 2 AST),,,33 - 35,2
+0020501095,137,6,2,2,7:48 PM,10:38,,,Greene S.FOUL (P1.T1),,
+0020501095,138,3,10,2,7:48 PM,10:38,Araujo Free Throw 1 of 1 (3 PTS),,,33 - 36,3
+0020501095,139,2,1,2,7:48 PM,10:23,,,MISS Scalabrine 21' Jump Shot,,
+0020501095,140,4,0,2,7:48 PM,10:21,Bonner REBOUND (Off:1 Def:2),,,,
+0020501095,141,2,42,2,7:49 PM,10:07,MISS Barrett  Driving Layup,,Greene BLOCK (1 BLK),,
+0020501095,142,4,0,2,7:49 PM,10:05,,,Scalabrine REBOUND (Off:0 Def:1),,
+0020501095,143,5,2,2,7:49 PM,10:01,Graham STEAL (2 STL),,Greene Lost Ball Turnover (P1.T9),,
+0020501095,144,1,49,2,7:49 PM,9:56,Peterson  Driving Dunk (17 PTS) (Barrett 3 AST),,,33 - 38,5
+0020501095,145,8,0,2,7:49 PM,9:42,,,SUB: Pierce FOR Scalabrine,,
+0020501095,146,1,5,2,7:50 PM,9:38,,,LaFrentz  Layup (11 PTS) (Greene 1 AST),35 - 38,3
+0020501095,147,6,2,2,7:50 PM,9:38,Bonner S.FOUL (P1.T1),,,,
+0020501095,148,3,10,2,7:50 PM,9:38,,,MISS LaFrentz Free Throw 1 of 1,,
+0020501095,149,4,0,2,7:50 PM,9:38,Bonner REBOUND (Off:1 Def:3),,,,
+0020501095,150,5,2,2,7:51 PM,9:21,Graham Lost Ball Turnover (P1.T1),,Allen STEAL (1 STL),,
+0020501095,151,1,5,2,7:51 PM,9:16,,,LaFrentz  Layup (13 PTS) (Allen 2 AST),37 - 38,1
+0020501095,152,2,42,2,7:51 PM,8:58,MISS Barrett  Driving Layup,,,,
+0020501095,153,4,0,2,7:51 PM,8:56,,,LaFrentz REBOUND (Off:0 Def:4),,
+0020501095,154,6,2,2,7:51 PM,8:43,Barrett S.FOUL (P1.T2),,,,
+0020501095,155,9,4,2,7:51 PM,8:43,,,,,
+0020501095,157,8,0,2,7:54 PM,8:43,SUB: Sow FOR Araujo,,,,
+0020501095,158,3,11,2,7:54 PM,8:43,,,Green Free Throw 1 of 2 (3 PTS),38 - 38,TIE
+0020501095,159,3,12,2,7:54 PM,8:43,,,Green Free Throw 2 of 2 (4 PTS),39 - 38,-1
+0020501095,160,5,2,2,7:55 PM,8:28,Bonner Lost Ball Turnover (P1.T2),,Green STEAL (1 STL),,
+0020501095,161,1,7,2,7:55 PM,8:23,,,Allen  Dunk (8 PTS) (Green 1 AST),41 - 38,-3
+0020501095,162,6,18,2,7:55 PM,8:20,,,Celtics Foul,,
+0020501095,163,3,16,2,7:55 PM,8:20,Peterson Free Throw Technical (18 PTS),,,41 - 39,-2
+0020501095,165,2,1,2,7:56 PM,7:59,MISS Peterson 20' Jump Shot,,,,
+0020501095,166,4,0,2,7:56 PM,7:57,Bonner REBOUND (Off:2 Def:3),,,,
+0020501095,167,1,1,2,7:56 PM,7:46,Bonner 17' Jump Shot (2 PTS) (Barrett 4 AST),,,41 - 41,TIE
+0020501095,168,1,1,2,7:56 PM,7:29,,,Green 20' Jump Shot (6 PTS),43 - 41,-2
+0020501095,169,1,1,2,7:56 PM,7:14,Peterson 22' Jump Shot (20 PTS) (Barrett 5 AST),,,43 - 43,TIE
+0020501095,170,2,1,2,7:57 PM,7:01,,,MISS Green 22' Jump Shot,,
+0020501095,171,4,0,2,7:57 PM,6:59,Peterson REBOUND (Off:0 Def:3),,,,
+0020501095,172,1,1,2,7:57 PM,6:54,Graham 12' Jump Shot (4 PTS) (Peterson 4 AST),,,43 - 45,2
+0020501095,173,6,2,2,7:57 PM,6:39,Graham S.FOUL (P1.T3),,,,
+0020501095,174,3,11,2,7:57 PM,6:39,,,MISS Pierce Free Throw 1 of 2,,
+0020501095,175,4,1,2,7:57 PM,6:39,,,Celtics Rebound,,
+0020501095,176,3,12,2,7:57 PM,6:39,,,Pierce Free Throw 2 of 2 (2 PTS),44 - 45,1
+0020501095,177,2,1,2,7:58 PM,6:20,MISS Peterson 20' Jump Shot,,,,
+0020501095,178,4,0,2,7:58 PM,6:19,,,Pierce REBOUND (Off:1 Def:1),,
+0020501095,179,5,2,2,7:58 PM,6:15,Barrett STEAL (1 STL),,Green Lost Ball Turnover (P2.T10),,
+0020501095,180,2,1,2,7:58 PM,6:06,MISS Bonner 10' Jump Shot,,,,
+0020501095,181,4,0,2,7:58 PM,6:05,Sow REBOUND (Off:2 Def:1),,,,
+0020501095,182,2,5,2,7:58 PM,6:03,MISS Sow  Layup,,,,
+0020501095,183,4,0,2,7:58 PM,6:03,Sow REBOUND (Off:3 Def:1),,,,
+0020501095,184,2,4,2,7:58 PM,6:03,MISS Sow  Tip Shot,,,,
+0020501095,185,4,0,2,7:58 PM,6:03,Bonner REBOUND (Off:3 Def:3),,,,
+0020501095,186,1,5,2,7:58 PM,6:03,Bonner  Layup (4 PTS),,,44 - 47,3
+0020501095,187,6,2,2,7:58 PM,6:03,,,LaFrentz S.FOUL (P2.T2),,
+0020501095,188,8,0,2,7:59 PM,6:03,,,SUB: Gomes FOR Green,,
+0020501095,189,3,10,2,7:59 PM,6:03,Bonner Free Throw 1 of 1 (5 PTS),,,44 - 48,4
+0020501095,190,6,17,2,7:59 PM,5:48,RAPTORS T.Foul (Def. 3 Sec Sow ),,,,
+0020501095,191,9,4,2,7:59 PM,5:48,RAPTORS Timeout: Official (Full 1 Short 0),,,,
+0020501095,192,8,0,2,8:02 PM,5:48,,,SUB: Szczerbiak FOR Allen,,
+0020501095,193,8,0,2,8:02 PM,5:48,SUB: James FOR Barrett,,,,
+0020501095,194,3,16,2,8:02 PM,5:48,,,Pierce Free Throw Technical (3 PTS),45 - 48,3
+0020501095,195,2,1,2,8:02 PM,5:39,,,MISS Pierce 21' Jump Shot,,
+0020501095,196,4,0,2,8:02 PM,5:37,Sow REBOUND (Off:3 Def:2),,,,
+0020501095,197,1,1,2,8:03 PM,5:23,Bonner 25' 3PT Jump Shot (8 PTS) (Peterson 5 AST),,,45 - 51,6
+0020501095,198,1,44,2,8:03 PM,5:10,,,Pierce  Reverse Layup (5 PTS),47 - 51,4
+0020501095,199,6,2,2,8:03 PM,5:10,Bonner S.FOUL (P2.T4),,,,
+0020501095,201,3,10,2,8:03 PM,5:10,,,MISS Pierce Free Throw 1 of 1,,
+0020501095,206,8,0,2,8:03 PM,5:10,,,SUB: West FOR Greene,,
+0020501095,202,4,0,2,8:03 PM,5:09,Bonner REBOUND (Off:3 Def:4),,,,
+0020501095,204,5,4,2,8:03 PM,4:57,Bonner Traveling Turnover (P2.T3),,,,
+0020501095,205,6,1,2,8:04 PM,4:50,Peterson P.FOUL (P1.PN),,,,
+0020501095,207,3,11,2,8:04 PM,4:50,,,MISS Pierce Free Throw 1 of 2,,
+0020501095,208,4,1,2,8:04 PM,4:50,,,Celtics Rebound,,
+0020501095,209,3,12,2,8:05 PM,4:50,,,Pierce Free Throw 2 of 2 (6 PTS),48 - 51,3
+0020501095,211,2,1,2,8:05 PM,4:33,MISS Peterson 21' Jump Shot,,,,
+0020501095,212,4,0,2,8:05 PM,4:32,Bonner REBOUND (Off:4 Def:4),,,,
+0020501095,213,2,46,2,8:05 PM,4:17,MISS James 10' Running Jump Shot,,,,
+0020501095,214,4,0,2,8:05 PM,4:15,,,LaFrentz REBOUND (Off:0 Def:5),,
+0020501095,215,1,1,2,8:05 PM,4:08,,,West  3PT Jump Shot (3 PTS) (Szczerbiak 3 AST),51 - 51,TIE
+0020501095,216,2,1,2,8:06 PM,3:43,MISS Bonner 25' 3PT Jump Shot,,,,
+0020501095,217,4,0,2,8:06 PM,3:41,,,Pierce REBOUND (Off:1 Def:2),,
+0020501095,218,2,1,2,8:06 PM,3:34,,,MISS Pierce 8' Jump Shot,,
+0020501095,219,4,0,2,8:06 PM,3:32,,,Pierce REBOUND (Off:2 Def:2),,
+0020501095,220,1,1,2,8:06 PM,3:29,,,LaFrentz  3PT Jump Shot (16 PTS) (Pierce 1 AST),54 - 51,-3
+0020501095,221,1,1,2,8:06 PM,3:13,Bonner 25' 3PT Jump Shot (11 PTS) (James 3 AST),,,54 - 54,TIE
+0020501095,222,6,2,2,8:07 PM,2:54,Graham S.FOUL (P2.PN),,,,
+0020501095,223,9,4,2,8:07 PM,2:54,,,Celtics Timeout: Official (Reg.0 Short 0),,
+0020501095,224,8,0,2,8:09 PM,2:54,,,SUB: Perkins FOR LaFrentz,,
+0020501095,226,3,11,2,8:10 PM,2:54,,,Pierce Free Throw 1 of 2 (7 PTS),55 - 54,-1
+0020501095,227,3,12,2,8:10 PM,2:54,,,Pierce Free Throw 2 of 2 (8 PTS),56 - 54,-2
+0020501095,228,2,1,2,8:10 PM,2:39,MISS Graham 16' Jump Shot,,,,
+0020501095,229,4,0,2,8:10 PM,2:38,,,Pierce REBOUND (Off:2 Def:3),,
+0020501095,231,2,1,2,8:10 PM,2:21,,,MISS Pierce 25' 3PT Jump Shot,,
+0020501095,232,4,0,2,8:11 PM,2:19,Sow REBOUND (Off:3 Def:3),,,,
+0020501095,233,2,42,2,8:11 PM,2:11,MISS Peterson  Driving Layup,,,,
+0020501095,234,4,0,2,8:11 PM,2:09,,,Gomes REBOUND (Off:0 Def:3),,
+0020501095,235,2,42,2,8:11 PM,2:05,,,MISS Pierce  Driving Layup,,
+0020501095,236,4,0,2,8:11 PM,2:02,,,Gomes REBOUND (Off:1 Def:3),,
+0020501095,237,1,5,2,8:11 PM,2:01,,,Gomes  Layup (6 PTS),58 - 54,-4
+0020501095,238,1,1,2,8:11 PM,1:44,James 19' Jump Shot (2 PTS),,,58 - 56,-2
+0020501095,239,1,1,2,8:11 PM,1:24,,,Szczerbiak 25' 3PT Jump Shot (12 PTS) (West 5 AST),61 - 56,-5
+0020501095,240,6,17,2,8:12 PM,1:11,,,Celtics T.Foul (Def. 3 Sec Perkins ),,
+0020501095,241,8,0,2,8:12 PM,1:11,,,SUB: Allen FOR Pierce,,
+0020501095,242,8,0,2,8:12 PM,1:11,SUB: Araujo FOR Sow,,,,
+0020501095,243,3,16,2,8:12 PM,1:11,James Free Throw Technical (3 PTS),,,61 - 57,-4
+0020501095,244,6,2,2,8:13 PM,1:00,,,Perkins S.FOUL (P2.T3),,
+0020501095,245,3,11,2,8:13 PM,1:00,Graham Free Throw 1 of 2 (5 PTS),,,61 - 58,-3
+0020501095,246,3,12,2,8:13 PM,1:00,Graham Free Throw 2 of 2 (6 PTS),,,61 - 59,-2
+0020501095,247,6,1,2,8:13 PM,0:47,Araujo P.FOUL (P2.PN),,,,
+0020501095,248,3,11,2,8:14 PM,0:47,,,Szczerbiak Free Throw 1 of 2 (13 PTS),62 - 59,-3
+0020501095,249,3,12,2,8:14 PM,0:47,,,Szczerbiak Free Throw 2 of 2 (14 PTS),63 - 59,-4
+0020501095,250,6,1,2,8:15 PM,0:33,,,Gomes P.FOUL (P2.PN),,
+0020501095,251,3,11,2,8:15 PM,0:33,James Free Throw 1 of 2 (4 PTS),,,63 - 60,-3
+0020501095,253,8,0,2,8:15 PM,0:33,,,SUB: Green FOR Gomes,,
+0020501095,254,3,12,2,8:15 PM,0:33,James Free Throw 2 of 2 (5 PTS),,,63 - 61,-2
+0020501095,255,2,1,2,8:15 PM,0:21,,,MISS Green 24' 3PT Jump Shot,,
+0020501095,256,4,0,2,8:16 PM,0:20,Peterson REBOUND (Off:0 Def:4),,,,
+0020501095,257,2,1,2,8:16 PM,0:00,MISS Bonner 24' 3PT Jump Shot,,,,
+0020501095,258,4,0,2,8:16 PM,0:00,RAPTORS Rebound,,,,
+0020501095,259,13,0,2,8:16 PM,0:00,,,,63 - 61,-2
+0020501095,261,12,0,3,8:32 PM,12:00,,,,63 - 61,-2
+0020501095,262,5,4,3,8:33 PM,11:47,,,Perkins Traveling Turnover (P3.T11),,
+0020501095,263,6,2,3,8:33 PM,11:35,,,Perkins S.FOUL (P3.T1),,
+0020501095,264,3,11,3,8:33 PM,11:35,Williams Free Throw 1 of 2 (5 PTS),,,63 - 62,-1
+0020501095,265,3,12,3,8:33 PM,11:35,Williams Free Throw 2 of 2 (6 PTS),,,63 - 63,TIE
+0020501095,266,5,4,3,8:34 PM,11:21,,,Pierce Traveling Turnover (P3.T12),,
+0020501095,267,5,4,3,8:34 PM,11:08,Villanueva Traveling Turnover (P1.T4),,,,
+0020501095,268,6,2,3,8:35 PM,10:57,Sow S.FOUL (P2.T1),,,,
+0020501095,269,3,11,3,8:35 PM,10:57,,,Pierce Free Throw 1 of 2 (9 PTS),64 - 63,-1
+0020501095,270,3,12,3,8:35 PM,10:57,,,Pierce Free Throw 2 of 2 (10 PTS),65 - 63,-2
+0020501095,271,1,1,3,8:35 PM,10:45,Villanueva 22' Jump Shot (10 PTS) (Williams 4 AST),,,65 - 65,TIE
+0020501095,272,1,5,3,8:36 PM,10:25,,,Gomes  Layup (8 PTS) (West 6 AST),67 - 65,-2
+0020501095,273,2,47,3,8:36 PM,10:04,MISS Sow 8' Turnaround Jump Shot,,,,
+0020501095,274,4,0,3,8:36 PM,10:02,Villanueva REBOUND (Off:3 Def:0),,,,
+0020501095,275,2,5,3,8:36 PM,10:01,MISS Villanueva  Layup,,,,
+0020501095,276,4,0,3,8:36 PM,9:59,Villanueva REBOUND (Off:4 Def:0),,,,
+0020501095,277,1,5,3,8:36 PM,9:57,Villanueva  Layup (12 PTS),,,67 - 67,TIE
+0020501095,278,2,1,3,8:37 PM,9:42,,,MISS West 24' 3PT Jump Shot,,
+0020501095,279,4,0,3,8:37 PM,9:41,Villanueva REBOUND (Off:4 Def:1),,,,
+0020501095,280,2,1,3,8:37 PM,9:31,MISS Villanueva 20' Jump Shot,,,,
+0020501095,281,4,0,3,8:37 PM,9:30,,,Gomes REBOUND (Off:1 Def:4),,
+0020501095,282,1,1,3,8:37 PM,9:23,,,Pierce 17' Jump Shot (12 PTS),69 - 67,-2
+0020501095,283,1,42,3,8:37 PM,8:58,Williams  Driving Layup (8 PTS),,,69 - 69,TIE
+0020501095,284,2,1,3,8:38 PM,8:39,,,MISS Pierce 19' Jump Shot,,
+0020501095,285,4,0,3,8:38 PM,8:37,Williams REBOUND (Off:0 Def:1),,,,
+0020501095,286,5,1,3,8:38 PM,8:32,James Bad Pass Turnover (P1.T5),,,,
+0020501095,287,9,1,3,8:38 PM,8:32,,,Celtics Timeout: Regular (Reg.1 Short 0),,
+0020501095,290,1,5,3,8:41 PM,8:12,,,Gomes  Layup (10 PTS) (Perkins 1 AST),71 - 69,-2
+0020501095,291,5,2,3,8:41 PM,7:53,Villanueva Lost Ball Turnover (P2.T6),,Szczerbiak STEAL (1 STL),,
+0020501095,292,2,42,3,8:41 PM,7:47,Peterson BLOCK (1 BLK),,MISS Szczerbiak  Driving Layup,,
+0020501095,293,4,0,3,8:41 PM,7:45,,,Perkins REBOUND (Off:1 Def:1),,
+0020501095,294,1,5,3,8:41 PM,7:41,,,Perkins  Layup (4 PTS),73 - 69,-4
+0020501095,295,2,46,3,8:41 PM,7:29,MISS Peterson 8' Running Jump Shot,,,,
+0020501095,296,4,0,3,8:41 PM,7:28,Peterson REBOUND (Off:1 Def:4),,,,
+0020501095,297,6,4,3,8:41 PM,7:28,Peterson OFF.Foul (P2),,,,
+0020501095,298,5,5,3,8:41 PM,7:28,Peterson Foul Turnover (P1.T7),,,,
+0020501095,299,6,1,3,8:42 PM,7:13,Williams P.FOUL (P3.T2),,,,
+0020501095,300,6,2,3,8:43 PM,7:01,Williams S.FOUL (P4.T3),,,,
+0020501095,301,3,11,3,8:43 PM,7:01,,,Pierce Free Throw 1 of 2 (13 PTS),74 - 69,-5
+0020501095,302,8,0,3,8:43 PM,7:01,SUB: Bonner FOR Williams,,,,
+0020501095,303,3,12,3,8:43 PM,7:01,,,Pierce Free Throw 2 of 2 (14 PTS),75 - 69,-6
+0020501095,304,1,47,3,8:44 PM,6:45,Peterson 11' Turnaround Jump Shot (22 PTS),,,75 - 71,-4
+0020501095,305,1,1,3,8:44 PM,6:31,,,West 24' 3PT Jump Shot (6 PTS) (Gomes 2 AST),78 - 71,-7
+0020501095,306,2,1,3,8:44 PM,6:13,MISS Villanueva  3PT Jump Shot,,,,
+0020501095,307,4,0,3,8:44 PM,6:11,,,Perkins REBOUND (Off:1 Def:2),,
+0020501095,309,2,42,3,8:45 PM,6:07,,,MISS Gomes  Driving Layup,,
+0020501095,310,4,0,3,8:45 PM,6:06,RAPTORS Rebound,,,,
+0020501095,311,5,4,3,8:45 PM,5:56,Bonner Traveling Turnover (P3.T8),,,,
+0020501095,312,1,1,3,8:45 PM,5:41,,,Szczerbiak 24' 3PT Jump Shot (17 PTS) (Pierce 2 AST),81 - 71,-10
+0020501095,313,9,1,3,8:46 PM,5:38,RAPTORS Timeout: Regular (Full 2 Short 0),,,,
+0020501095,316,8,0,3,8:48 PM,5:38,SUB: Graham FOR Villanueva,,,,
+0020501095,317,2,1,3,8:48 PM,5:21,MISS James 20' Jump Shot,,,,
+0020501095,318,4,0,3,8:48 PM,5:20,,,Pierce REBOUND (Off:2 Def:4),,
+0020501095,319,6,2,3,8:49 PM,5:06,James S.FOUL (P1.T4),,,,
+0020501095,320,3,11,3,8:49 PM,5:06,,,Pierce Free Throw 1 of 2 (15 PTS),82 - 71,-11
+0020501095,321,3,12,3,8:49 PM,5:06,,,Pierce Free Throw 2 of 2 (16 PTS),83 - 71,-12
+0020501095,322,6,2,3,8:50 PM,4:55,,,Perkins S.FOUL (P4.T2),,
+0020501095,323,3,11,3,8:50 PM,4:55,James Free Throw 1 of 2 (6 PTS),,,83 - 72,-11
+0020501095,324,8,0,3,8:50 PM,4:55,,,SUB: LaFrentz FOR Perkins,,
+0020501095,325,3,12,3,8:50 PM,4:55,James Free Throw 2 of 2 (7 PTS),,,83 - 73,-10
+0020501095,326,2,1,3,8:51 PM,4:40,,,MISS Pierce 25' 3PT Jump Shot,,
+0020501095,327,4,0,3,8:51 PM,4:38,Peterson REBOUND (Off:1 Def:5),,,,
+0020501095,328,1,42,3,8:51 PM,4:34,Graham  Driving Layup (8 PTS) (Peterson 6 AST),,,83 - 75,-8
+0020501095,329,2,42,3,8:51 PM,4:10,Sow BLOCK (1 BLK),,MISS West  Driving Layup,,
+0020501095,330,4,0,3,8:51 PM,4:08,Bonner REBOUND (Off:4 Def:5),,,,
+0020501095,331,1,1,3,8:51 PM,4:03,Peterson 25' 3PT Jump Shot (25 PTS) (James 4 AST),,,83 - 78,-5
+0020501095,332,5,11,3,8:52 PM,3:36,,,Celtics Turnover: Shot Clock (T#13),,
+0020501095,333,1,46,3,8:52 PM,3:26,James 9' Running Jump Shot (9 PTS),,,83 - 80,-3
+0020501095,335,2,1,3,8:53 PM,3:09,,,MISS Szczerbiak  3PT Jump Shot,,
+0020501095,336,4,0,3,8:53 PM,3:07,Bonner REBOUND (Off:4 Def:6),,,,
+0020501095,337,2,1,3,8:53 PM,3:01,MISS Peterson 25' 3PT Jump Shot,,,,
+0020501095,338,4,0,3,8:53 PM,3:00,,,Celtics Rebound,,
+0020501095,339,6,3,3,8:53 PM,3:00,Sow L.B.FOUL (P3.PN),,,,
+0020501095,340,8,0,3,8:53 PM,3:00,,,SUB: Allen FOR Szczerbiak,,
+0020501095,341,8,0,3,8:53 PM,3:00,,,SUB: Greene FOR West,,
+0020501095,342,3,11,3,8:53 PM,3:00,,,MISS LaFrentz Free Throw 1 of 2,,
+0020501095,343,4,1,3,8:53 PM,3:00,,,Celtics Rebound,,
+0020501095,344,3,12,3,8:54 PM,3:00,,,LaFrentz Free Throw 2 of 2 (17 PTS),84 - 80,-4
+0020501095,345,1,1,3,8:54 PM,2:46,Graham 15' Jump Shot (10 PTS) (Bonner 1 AST),,,84 - 82,-2
+0020501095,346,5,1,3,8:55 PM,2:24,Sow STEAL (2 STL),,Allen Bad Pass Turnover (P1.T14),,
+0020501095,347,6,1,3,8:55 PM,2:18,,,Allen P.FOUL (P1.T3),,
+0020501095,348,8,0,3,8:55 PM,2:18,,,SUB: Scalabrine FOR Gomes,,
+0020501095,349,2,1,3,8:55 PM,2:10,MISS Peterson 25' 3PT Jump Shot,,,,
+0020501095,350,4,0,3,8:55 PM,2:09,Bonner REBOUND (Off:5 Def:6),,,,
+0020501095,351,1,1,3,8:55 PM,2:06,Bonner 7' Jump Shot (13 PTS),,,84 - 84,TIE
+0020501095,353,1,1,3,8:55 PM,1:45,,,LaFrentz 24' 3PT Jump Shot (20 PTS) (Allen 3 AST),87 - 84,-3
+0020501095,354,6,1,3,8:56 PM,1:35,,,Greene P.FOUL (P2.T4),,
+0020501095,355,6,2,3,8:56 PM,1:29,,,Allen S.FOUL (P2.PN),,
+0020501095,356,3,11,3,8:56 PM,1:29,James Free Throw 1 of 2 (10 PTS),,,87 - 85,-2
+0020501095,357,3,12,3,8:57 PM,1:29,James Free Throw 2 of 2 (11 PTS),,,87 - 86,-1
+0020501095,358,5,1,3,8:57 PM,1:19,James STEAL (2 STL),,Pierce Bad Pass Turnover (P4.T15),,
+0020501095,359,1,49,3,8:57 PM,1:16,James  Driving Dunk (13 PTS),,,87 - 88,1
+0020501095,360,2,1,3,8:57 PM,0:52,,,MISS LaFrentz  3PT Jump Shot,,
+0020501095,361,4,0,3,8:57 PM,0:50,Sow REBOUND (Off:3 Def:4),,,,
+0020501095,362,2,1,3,8:58 PM,0:40,MISS Bonner 24' 3PT Jump Shot,,,,
+0020501095,363,4,0,3,8:58 PM,0:38,,,Scalabrine REBOUND (Off:0 Def:2),,
+0020501095,364,2,1,3,8:58 PM,0:32,,,MISS Pierce 25' 3PT Jump Shot,,
+0020501095,365,4,0,3,8:58 PM,0:30,Graham REBOUND (Off:0 Def:1),,,,
+0020501095,366,6,2,3,8:58 PM,0:17,,,Scalabrine S.FOUL (P1.PN),,
+0020501095,367,3,11,3,8:58 PM,0:17,James Free Throw 1 of 2 (14 PTS),,,87 - 89,2
+0020501095,368,8,0,3,8:59 PM,0:17,,,SUB: Green FOR Scalabrine,,
+0020501095,369,3,12,3,8:59 PM,0:17,James Free Throw 2 of 2 (15 PTS),,,87 - 90,3
+0020501095,370,1,61,3,8:59 PM,0:01,,,Greene  Driving Finger Roll (2 PTS),89 - 90,1
+0020501095,373,18,0,3,9:01 PM,0:00,,,,89 - 90,1
+0020501095,374,13,0,3,9:01 PM,0:00,,,,89 - 90,1
+0020501095,376,12,0,4,9:04 PM,12:00,,,,89 - 90,1
+0020501095,377,2,1,4,9:04 PM,11:37,MISS Barrett 21' Jump Shot,,,,
+0020501095,378,4,0,4,9:04 PM,11:36,,,LaFrentz REBOUND (Off:0 Def:6),,
+0020501095,379,1,1,4,9:04 PM,11:20,,,Green 19' Jump Shot (8 PTS) (Allen 4 AST),91 - 90,-1
+0020501095,380,6,2,4,9:05 PM,10:59,,,Allen S.FOUL (P3.T1),,
+0020501095,381,3,11,4,9:05 PM,10:59,Peterson Free Throw 1 of 2 (26 PTS),,,91 - 91,TIE
+0020501095,382,3,12,4,9:05 PM,10:59,Peterson Free Throw 2 of 2 (27 PTS),,,91 - 92,1
+0020501095,383,2,42,4,9:06 PM,10:48,Sow BLOCK (2 BLK),,MISS Allen  Driving Layup,,
+0020501095,384,4,0,4,9:06 PM,10:47,Bonner REBOUND (Off:5 Def:7),,,,
+0020501095,385,1,1,4,9:06 PM,10:34,Graham 19' Jump Shot (12 PTS),,,91 - 94,3
+0020501095,386,1,1,4,9:06 PM,10:11,,,Greene 25' 3PT Jump Shot (5 PTS) (Allen 5 AST),94 - 94,TIE
+0020501095,387,2,1,4,9:07 PM,9:49,MISS Bonner 22' Jump Shot,,,,
+0020501095,388,4,0,4,9:07 PM,9:48,RAPTORS Rebound,,,,
+0020501095,389,6,3,4,9:07 PM,9:48,,,LaFrentz L.B.FOUL (P3.T2),,
+0020501095,390,1,42,4,9:07 PM,9:42,Sow  Driving Layup (6 PTS) (Barrett 6 AST),,,94 - 96,2
+0020501095,391,2,5,4,9:07 PM,9:36,,,MISS Green  Layup,,
+0020501095,392,4,0,4,9:07 PM,9:34,,,LaFrentz REBOUND (Off:1 Def:6),,
+0020501095,393,2,5,4,9:07 PM,9:32,,,MISS LaFrentz  Layup,,
+0020501095,394,4,0,4,9:07 PM,9:31,Peterson REBOUND (Off:1 Def:6),,,,
+0020501095,395,2,61,4,9:07 PM,9:27,MISS Peterson  Driving Finger Roll,,,,
+0020501095,396,4,0,4,9:07 PM,9:25,Barrett REBOUND (Off:1 Def:0),,,,
+0020501095,397,1,54,4,9:08 PM,9:22,Barrett  Running Tip Shot (2 PTS),,,94 - 98,4
+0020501095,398,1,1,4,9:08 PM,9:08,,,Scalabrine 25' 3PT Jump Shot (3 PTS) (LaFrentz 1 AST),97 - 98,1
+0020501095,399,2,5,4,9:08 PM,8:39,MISS Sow  Layup,,LaFrentz BLOCK (1 BLK),,
+0020501095,400,4,0,4,9:08 PM,8:38,,,LaFrentz REBOUND (Off:1 Def:7),,
+0020501095,401,6,2,4,9:09 PM,8:34,Peterson S.FOUL (P3.T1),,,,
+0020501095,402,6,11,4,9:09 PM,8:34,Peterson T.FOUL (P3.T1),,,,
+0020501095,403,9,4,4,9:09 PM,8:34,,,,,
+0020501095,404,8,0,4,9:11 PM,8:34,SUB: James FOR Sow,,,,
+0020501095,405,8,0,4,9:11 PM,8:34,SUB: Villanueva FOR Barrett,,,,
+0020501095,408,3,16,4,9:11 PM,8:34,,,Allen Free Throw Technical (9 PTS),98 - 98,TIE
+0020501095,409,3,11,4,9:11 PM,8:34,,,Allen Free Throw 1 of 2 (10 PTS),99 - 98,-1
+0020501095,410,3,12,4,9:11 PM,8:34,,,Allen Free Throw 2 of 2 (11 PTS),100 - 98,-2
+0020501095,411,2,1,4,9:12 PM,8:18,MISS Bonner 25' 3PT Jump Shot,,,,
+0020501095,412,4,0,4,9:12 PM,8:16,,,Scalabrine REBOUND (Off:0 Def:3),,
+0020501095,413,2,1,4,9:12 PM,7:50,,,MISS Allen  3PT Jump Shot,,
+0020501095,414,4,0,4,9:12 PM,7:49,,,Celtics Rebound,,
+0020501095,415,5,11,4,9:12 PM,7:49,,,Celtics Turnover: Shot Clock (T#16),,
+0020501095,417,2,63,4,9:13 PM,7:30,MISS Peterson 17' Fadeaway Jumper,,,,
+0020501095,418,4,0,4,9:13 PM,7:29,,,Scalabrine REBOUND (Off:0 Def:4),,
+0020501095,419,6,2,4,9:13 PM,7:22,Graham S.FOUL (P3.T2),,,,
+0020501095,420,3,11,4,9:13 PM,7:22,,,MISS Greene Free Throw 1 of 2,,
+0020501095,421,4,1,4,9:13 PM,7:22,,,Celtics Rebound,,
+0020501095,422,8,0,4,9:14 PM,7:22,,,SUB: Szczerbiak FOR Green,,
+0020501095,423,8,0,4,9:14 PM,7:22,,,SUB: Pierce FOR Scalabrine,,
+0020501095,424,8,0,4,9:14 PM,7:22,SUB: Williams FOR Bonner,,,,
+0020501095,425,3,12,4,9:14 PM,7:22,,,Greene Free Throw 2 of 2 (6 PTS),101 - 98,-3
+0020501095,426,2,7,4,9:14 PM,6:58,MISS Villanueva  Dunk,,,,
+0020501095,427,4,0,4,9:14 PM,6:56,Peterson REBOUND (Off:2 Def:6),,,,
+0020501095,428,2,46,4,9:14 PM,6:55,MISS Peterson 6' Running Jump Shot,,,,
+0020501095,429,4,0,4,9:14 PM,6:54,Villanueva REBOUND (Off:5 Def:1),,,,
+0020501095,430,1,4,4,9:15 PM,6:51,Villanueva  Tip Shot (14 PTS),,,101 - 100,-1
+0020501095,431,5,11,4,9:15 PM,6:28,,,Celtics Turnover: Shot Clock (T#17),,
+0020501095,432,8,0,4,9:15 PM,6:28,,,SUB: West FOR Greene,,
+0020501095,433,1,1,4,9:16 PM,6:09,Graham 14' Jump Shot (14 PTS) (Villanueva 1 AST),,,101 - 102,1
+0020501095,434,9,1,4,9:16 PM,6:01,,,Celtics Timeout: Regular (Reg.2 Short 0),,
+0020501095,436,8,0,4,9:18 PM,6:01,,,SUB: Gomes FOR LaFrentz,,
+0020501095,438,6,1,4,9:19 PM,5:54,Graham P.FOUL (P4.T3),,,,
+0020501095,439,6,2,4,9:19 PM,5:49,Graham S.FOUL (P5.T4),,,,
+0020501095,440,3,11,4,9:19 PM,5:49,,,MISS Pierce Free Throw 1 of 2,,
+0020501095,441,4,1,4,9:19 PM,5:49,,,Celtics Rebound,,
+0020501095,442,3,12,4,9:19 PM,5:49,,,Pierce Free Throw 2 of 2 (17 PTS),102 - 102,TIE
+0020501095,443,1,1,4,9:20 PM,5:37,James 16' Jump Shot (17 PTS) (Williams 5 AST),,,102 - 104,2
+0020501095,444,2,47,4,9:20 PM,5:19,,,MISS Pierce 15' Turnaround Jump Shot,,
+0020501095,445,4,0,4,9:20 PM,5:17,Williams REBOUND (Off:0 Def:2),,,,
+0020501095,446,2,1,4,9:20 PM,5:05,MISS Williams 26' 3PT Jump Shot,,,,
+0020501095,447,4,0,4,9:20 PM,5:04,,,Celtics Rebound,,
+0020501095,448,2,1,4,9:21 PM,4:43,,,MISS Gomes 14' Jump Shot,,
+0020501095,449,4,0,4,9:21 PM,4:41,Williams REBOUND (Off:0 Def:3),,,,
+0020501095,450,1,1,4,9:21 PM,4:26,Peterson 25' 3PT Jump Shot (30 PTS) (James 5 AST),,,102 - 107,5
+0020501095,451,5,2,4,9:22 PM,4:09,Peterson STEAL (2 STL),,Pierce Lost Ball Turnover (P5.T18),,
+0020501095,452,6,2,4,9:22 PM,3:59,,,Gomes S.FOUL (P3.T3),,
+0020501095,453,3,11,4,9:22 PM,3:59,James Free Throw 1 of 2 (18 PTS),,,102 - 108,6
+0020501095,454,8,0,4,9:23 PM,3:59,,,SUB: Greene FOR West,,
+0020501095,455,3,12,4,9:23 PM,3:59,James Free Throw 2 of 2 (19 PTS),,,102 - 109,7
+0020501095,456,5,1,4,9:23 PM,3:43,,,Greene Bad Pass Turnover (P2.T19),,
+0020501095,457,2,1,4,9:24 PM,3:25,MISS Peterson  3PT Jump Shot,,,,
+0020501095,458,4,0,4,9:24 PM,3:24,,,Allen REBOUND (Off:1 Def:2),,
+0020501095,459,1,66,4,9:24 PM,3:15,,,Szczerbiak 20' Jump Bank Shot (19 PTS) (Allen 6 AST),104 - 109,5
+0020501095,460,6,2,4,9:24 PM,3:15,Graham S.FOUL (P6.PN),,,,
+0020501095,461,8,0,4,9:24 PM,3:15,,,SUB: Green FOR Greene,,
+0020501095,462,8,0,4,9:24 PM,3:15,SUB: Sow FOR Graham,,,,
+0020501095,463,3,10,4,9:24 PM,3:15,,,Szczerbiak Free Throw 1 of 1 (20 PTS),105 - 109,4
+0020501095,464,5,1,4,9:25 PM,3:00,James Bad Pass Turnover (P2.T9),,Pierce STEAL (1 STL),,
+0020501095,465,6,2,4,9:25 PM,2:57,James S.FOUL (P2.PN),,,,
+0020501095,466,9,4,4,9:25 PM,2:57,RAPTORS Timeout: Official (Full 2 Short 0),,,,
+0020501095,469,3,11,4,9:28 PM,2:57,,,Pierce Free Throw 1 of 2 (18 PTS),106 - 109,3
+0020501095,470,3,12,4,9:28 PM,2:57,,,Pierce Free Throw 2 of 2 (19 PTS),107 - 109,2
+0020501095,471,5,2,4,9:28 PM,2:43,Williams Lost Ball Turnover (P1.T10),,Allen STEAL (2 STL),,
+0020501095,472,5,1,4,9:28 PM,2:38,Peterson STEAL (3 STL),,Allen Bad Pass Turnover (P2.T20),,
+0020501095,473,6,1,4,9:28 PM,2:38,,,Allen P.FOUL (P4.T4),,
+0020501095,474,2,1,4,9:29 PM,2:15,MISS Peterson 17' Jump Shot,,,,
+0020501095,475,4,0,4,9:29 PM,2:13,,,Green REBOUND (Off:0 Def:1),,
+0020501095,476,6,2,4,9:29 PM,2:06,Sow S.FOUL (P4.PN),,,,
+0020501095,477,9,1,4,9:29 PM,2:06,RAPTORS Timeout: Regular (Full 3 Short 0),,,,
+0020501095,480,3,11,4,9:31 PM,2:06,,,Gomes Free Throw 1 of 2 (11 PTS),108 - 109,1
+0020501095,481,3,12,4,9:32 PM,2:06,,,Gomes Free Throw 2 of 2 (12 PTS),109 - 109,TIE
+0020501095,482,2,1,4,9:32 PM,1:48,MISS Williams 8' Jump Shot,,,,
+0020501095,483,4,0,4,9:32 PM,1:47,,,Pierce REBOUND (Off:2 Def:5),,
+0020501095,484,6,1,4,9:32 PM,1:43,Sow P.FOUL (P5.PN),,,,
+0020501095,485,3,11,4,9:33 PM,1:43,,,Pierce Free Throw 1 of 2 (20 PTS),110 - 109,-1
+0020501095,486,8,0,4,9:33 PM,1:43,SUB: Bonner FOR Sow,,,,
+0020501095,487,3,12,4,9:33 PM,1:43,,,Pierce Free Throw 2 of 2 (21 PTS),111 - 109,-2
+0020501095,488,2,1,4,9:33 PM,1:26,MISS Peterson 24' 3PT Jump Shot,,,,
+0020501095,489,4,0,4,9:33 PM,1:24,Williams REBOUND (Off:1 Def:3),,,,
+0020501095,490,1,46,4,9:33 PM,1:18,James 7' Running Jump Shot (21 PTS),,,111 - 111,TIE
+0020501095,491,9,1,4,9:34 PM,1:18,,,Celtics Timeout: Regular (Reg.3 Short 0),,
+0020501095,493,8,0,4,9:35 PM,1:18,SUB: Sow FOR Bonner,,,,
+0020501095,494,2,5,4,9:36 PM,1:12,Villanueva BLOCK (1 BLK),,MISS Gomes  Layup,,
+0020501095,495,4,0,4,9:36 PM,1:11,,,Gomes REBOUND (Off:2 Def:4),,
+0020501095,496,1,5,4,9:36 PM,1:11,,,Gomes  Layup (14 PTS),113 - 111,-2
+0020501095,497,9,1,4,9:36 PM,1:07,RAPTORS Timeout: Regular (Full 4 Short 0),,,,
+0020501095,499,8,0,4,9:38 PM,1:07,SUB: Bonner FOR Sow,,,,
+0020501095,500,5,2,4,9:39 PM,1:03,Peterson Lost Ball Turnover (P2.T11),,Allen STEAL (3 STL),,
+0020501095,501,1,49,4,9:39 PM,1:00,,,Allen  Driving Dunk (13 PTS) (Green 2 AST),115 - 111,-4
+0020501095,502,2,1,4,9:39 PM,0:50,MISS James 24' 3PT Jump Shot,,,,
+0020501095,503,4,0,4,9:39 PM,0:49,,,Gomes REBOUND (Off:2 Def:5),,
+0020501095,504,6,1,4,9:39 PM,0:49,Bonner P.FOUL (P3.PN),,,,
+0020501095,505,3,11,4,9:39 PM,0:49,,,Gomes Free Throw 1 of 2 (15 PTS),116 - 111,-5
+0020501095,506,3,12,4,9:40 PM,0:49,,,Gomes Free Throw 2 of 2 (16 PTS),117 - 111,-6
+0020501095,507,9,2,4,9:40 PM,0:49,RAPTORS Timeout: Short (Full 4 Short 1),,,,
+0020501095,510,1,42,4,9:41 PM,0:47,Bonner  Driving Layup (15 PTS),,,117 - 113,-4
+0020501095,511,6,2,4,9:41 PM,0:47,,,Allen S.FOUL (P5.PN),,
+0020501095,512,3,10,4,9:41 PM,0:47,Bonner Free Throw 1 of 1 (16 PTS),,,117 - 114,-3
+0020501095,513,6,1,4,9:42 PM,0:39,Williams P.FOUL (P5.PN),,,,
+0020501095,514,3,11,4,9:42 PM,0:39,,,MISS Gomes Free Throw 1 of 2,,
+0020501095,515,4,1,4,9:42 PM,0:39,,,Celtics Rebound,,
+0020501095,516,3,12,4,9:42 PM,0:39,,,Gomes Free Throw 2 of 2 (17 PTS),118 - 114,-4
+0020501095,517,1,42,4,9:43 PM,0:31,James  Driving Layup (23 PTS),,,118 - 116,-2
+0020501095,518,6,1,4,9:43 PM,0:26,Peterson P.FOUL (P4.PN),,,,
+0020501095,519,3,11,4,9:43 PM,0:26,,,Green Free Throw 1 of 2 (9 PTS),119 - 116,-3
+0020501095,520,3,12,4,9:44 PM,0:26,,,MISS Green Free Throw 2 of 2,,
+0020501095,521,4,0,4,9:44 PM,0:25,Bonner REBOUND (Off:5 Def:8),,,,
+0020501095,522,2,42,4,9:44 PM,0:19,MISS Peterson  Driving Layup,,,,
+0020501095,523,4,0,4,9:44 PM,0:17,Williams REBOUND (Off:2 Def:3),,,,
+0020501095,524,2,4,4,9:44 PM,0:17,MISS Williams  Tip Shot,,,,
+0020501095,525,4,0,4,9:44 PM,0:17,,,Pierce REBOUND (Off:2 Def:6),,
+0020501095,526,6,1,4,9:44 PM,0:17,Bonner P.FOUL (P4.PN),,,,
+0020501095,527,3,11,4,9:44 PM,0:17,,,MISS Pierce Free Throw 1 of 2,,
+0020501095,528,4,1,4,9:44 PM,0:17,,,Celtics Rebound,,
+0020501095,529,3,12,4,9:45 PM,0:17,,,Pierce Free Throw 2 of 2 (22 PTS),120 - 116,-4
+0020501095,530,1,42,4,9:45 PM,0:12,Peterson  Driving Layup (32 PTS),,,120 - 118,-2
+0020501095,531,6,1,4,9:45 PM,0:11,Bonner P.FOUL (P5.PN),,,,
+0020501095,532,3,11,4,9:45 PM,0:11,,,Szczerbiak Free Throw 1 of 2 (21 PTS),121 - 118,-3
+0020501095,533,3,12,4,9:46 PM,0:11,,,Szczerbiak Free Throw 2 of 2 (22 PTS),122 - 118,-4
+0020501095,534,1,1,4,9:46 PM,0:06,James 22' Jump Shot (25 PTS),,,122 - 120,-2
+0020501095,535,1,49,4,9:46 PM,0:02,,,Green  Driving Dunk (11 PTS) (Allen 7 AST),124 - 120,-4
+0020501095,536,2,1,4,9:46 PM,0:00,MISS James 27' 3PT Jump Shot,,,,
+0020501095,537,4,0,4,9:46 PM,0:00,RAPTORS Rebound,,,,
+0020501095,538,13,0,4,9:46 PM,0:00,,,,124 - 120,-4

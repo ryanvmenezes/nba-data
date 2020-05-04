@@ -1,0 +1,419 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000221,0,12,0,1,2:09 PM,12:00,,,,,
+0020000221,1,10,0,1,2:12 PM,12:00,Jump Ball Davis vs. Nowitzki: Tip to Augmon,,,,
+0020000221,2,5,1,1,2:12 PM,11:38,Stoudamire Bad Pass Turnover (P1.T1),,Vaught STEAL (1 STL),,
+0020000221,3,2,1,1,2:12 PM,11:24,Pippen BLOCK (1 BLK),,MISS Nowitzki 19' Jump Shot,,
+0020000221,4,4,0,1,2:12 PM,11:21,Smith REBOUND (Off:0 Def:1),,,,
+0020000221,5,1,5,1,2:13 PM,11:19,Pippen  Layup (2 PTS) (Smith 1 AST),,,0 - 2,2
+0020000221,6,6,11,1,2:13 PM,11:14,,,,,
+0020000221,7,3,16,1,2:13 PM,11:14,,,Nash Free Throw Technical (1 PTS),1 - 2,1
+0020000221,8,1,7,1,2:14 PM,10:56,,,Vaught  Dunk (2 PTS) (Nash 1 AST),3 - 2,-1
+0020000221,9,9,2,1,2:14 PM,10:48,TRAIL BLAZERS Timeout: Short (Full 0 Short 1),,,,
+0020000221,11,8,0,1,2:14 PM,10:48,SUB: Anthony FOR Stoudamire,,,,
+0020000221,12,2,1,1,2:15 PM,10:38,MISS Davis 7' Jump Shot,,,,
+0020000221,13,4,0,1,2:15 PM,10:37,,,Nowitzki REBOUND (Off:0 Def:1),,
+0020000221,14,1,1,1,2:15 PM,10:32,,,Nowitzki 16' Jump Shot (2 PTS),5 - 2,-3
+0020000221,15,1,1,1,2:15 PM,10:15,Smith 10' Jump Shot (2 PTS),,,5 - 4,-1
+0020000221,16,6,1,1,2:15 PM,10:05,Smith P.FOUL (P1.T1),,,,
+0020000221,17,6,4,1,2:16 PM,9:56,,,Vaught OFF.Foul (P1),,
+0020000221,18,5,5,1,2:16 PM,9:56,,,Vaught Foul Turnover (P1.T1),,
+0020000221,19,8,0,1,2:16 PM,9:56,SUB: Wallace FOR Augmon,,,,
+0020000221,20,2,1,1,2:16 PM,9:43,MISS Anthony 21' Jump Shot,,,,
+0020000221,21,4,0,1,2:16 PM,9:42,,,Vaught REBOUND (Off:0 Def:1),,
+0020000221,22,1,5,1,2:16 PM,9:35,,,Nowitzki  Layup (4 PTS) (Laettner 1 AST),7 - 4,-3
+0020000221,23,2,5,1,2:16 PM,9:20,MISS Pippen  Layup,,Nowitzki BLOCK (1 BLK),,
+0020000221,25,4,0,1,2:17 PM,9:18,Smith REBOUND (Off:1 Def:1),,,,
+0020000221,24,1,4,1,2:17 PM,9:18,Smith  Tip Shot (4 PTS),,,7 - 6,-1
+0020000221,26,2,1,1,2:17 PM,8:59,,,MISS Nash 25' 3PT Jump Shot,,
+0020000221,27,4,0,1,2:17 PM,8:57,Davis REBOUND (Off:0 Def:1),,,,
+0020000221,28,2,1,1,2:17 PM,8:47,MISS Davis 4' Jump Shot,,,,
+0020000221,29,4,0,1,2:17 PM,8:46,,,Vaught REBOUND (Off:0 Def:2),,
+0020000221,30,2,42,1,2:17 PM,8:33,Davis BLOCK (1 BLK),,MISS Nash  Driving Layup,,
+0020000221,32,4,0,1,2:17 PM,8:30,,,Laettner REBOUND (Off:1 Def:0),,
+0020000221,31,1,5,1,2:17 PM,8:30,,,Laettner  Layup (2 PTS),9 - 6,-3
+0020000221,33,5,2,1,2:18 PM,8:17,Pippen Lost Ball Turnover (P1.T2),,Nash STEAL (1 STL),,
+0020000221,34,5,2,1,2:18 PM,8:14,Anthony STEAL (1 STL),,Nash Lost Ball Turnover (P1.T2),,
+0020000221,35,2,1,1,2:18 PM,8:06,MISS Wallace 3' Jump Shot,,,,
+0020000221,37,4,0,1,2:18 PM,8:03,Wallace REBOUND (Off:1 Def:0),,,,
+0020000221,36,2,5,1,2:18 PM,8:03,MISS Wallace  Layup,,,,
+0020000221,39,4,0,1,2:18 PM,8:02,Wallace REBOUND (Off:2 Def:0),,,,
+0020000221,38,1,4,1,2:18 PM,8:02,Wallace  Tip Shot (2 PTS),,,9 - 8,-1
+0020000221,40,5,2,1,2:18 PM,7:48,Pippen STEAL (1 STL),,Nash Lost Ball Turnover (P2.T3),,
+0020000221,41,1,42,1,2:18 PM,7:42,Pippen  Driving Layup (4 PTS),,,9 - 10,1
+0020000221,42,2,1,1,2:18 PM,7:25,,,MISS Finley 15' Jump Shot,,
+0020000221,43,4,0,1,2:18 PM,7:24,TRAIL BLAZERS Rebound,,,,
+0020000221,44,6,3,1,2:18 PM,7:24,,,Laettner L.B.FOUL (P1.T1),,
+0020000221,45,1,1,1,2:19 PM,7:04,Smith 14' Jump Shot (6 PTS) (Davis 1 AST),,,9 - 12,3
+0020000221,46,1,1,1,2:19 PM,6:54,,,Laettner 18' Jump Shot (4 PTS),11 - 12,1
+0020000221,47,2,1,1,2:19 PM,6:37,MISS Smith 25' 3PT Jump Shot,,,,
+0020000221,48,4,0,1,2:19 PM,6:35,,,Finley REBOUND (Off:0 Def:1),,
+0020000221,49,1,5,1,2:20 PM,6:25,,,Nowitzki  Layup (6 PTS) (Laettner 2 AST),13 - 12,-1
+0020000221,50,2,1,1,2:20 PM,6:08,MISS Pippen  3PT Jump Shot,,,,
+0020000221,51,4,0,1,2:20 PM,6:06,Davis REBOUND (Off:1 Def:1),,,,
+0020000221,52,2,1,1,2:20 PM,5:45,MISS Anthony 13' Jump Shot,,,,
+0020000221,53,4,0,1,2:20 PM,5:44,,,Laettner REBOUND (Off:1 Def:1),,
+0020000221,54,6,1,1,2:20 PM,5:43,Wallace P.FOUL (P1.T2),,,,
+0020000221,55,9,1,1,2:20 PM,5:43,TRAIL BLAZERS Timeout: Regular (Full 1 Short 1),,,,
+0020000221,57,2,1,1,2:23 PM,5:30,,,MISS Laettner 16' Jump Shot,,
+0020000221,58,4,0,1,2:23 PM,5:26,,,Laettner REBOUND (Off:2 Def:1),,
+0020000221,59,2,1,1,2:23 PM,5:19,,,MISS Finley 5' Jump Shot,,
+0020000221,61,4,0,1,2:23 PM,5:17,,,Vaught REBOUND (Off:1 Def:2),,
+0020000221,60,2,4,1,2:23 PM,5:17,,,MISS Vaught  Tip Shot,,
+0020000221,62,4,0,1,2:23 PM,5:15,Wallace REBOUND (Off:2 Def:1),,,,
+0020000221,63,5,2,1,2:23 PM,5:15,Wallace Lost Ball Turnover (P1.T3),,Finley STEAL (1 STL),,
+0020000221,64,6,2,1,2:23 PM,5:02,Pippen S.FOUL (P1.T3),,,,
+0020000221,65,3,11,1,2:23 PM,5:02,,,Nowitzki Free Throw 1 of 2 (7 PTS),14 - 12,-2
+0020000221,66,3,12,1,2:24 PM,5:02,,,Nowitzki Free Throw 2 of 2 (8 PTS),15 - 12,-3
+0020000221,67,6,4,1,2:24 PM,4:50,Davis OFF.Foul (P1),,,,
+0020000221,68,5,5,1,2:24 PM,4:50,Davis Foul Turnover (P1.T4),,,,
+0020000221,69,8,0,1,2:24 PM,4:50,SUB: Stoudamire FOR Anthony,,,,
+0020000221,70,8,0,1,2:24 PM,4:50,SUB: Kemp FOR Davis,,,,
+0020000221,71,5,1,1,2:25 PM,4:38,,,Nash Bad Pass Turnover (P3.T4),,
+0020000221,72,1,42,1,2:25 PM,4:31,Pippen  Driving Layup (6 PTS) (Stoudamire 1 AST),,,15 - 14,-1
+0020000221,73,1,1,1,2:26 PM,4:18,,,Vaught 19' Jump Shot (4 PTS) (Finley 1 AST),17 - 14,-3
+0020000221,74,2,1,1,2:26 PM,4:01,MISS Kemp 22' Jump Shot,,,,
+0020000221,75,4,0,1,2:26 PM,4:00,TRAIL BLAZERS Rebound,,,,
+0020000221,76,6,3,1,2:26 PM,4:00,,,Laettner L.B.FOUL (P2.T2),,
+0020000221,77,2,1,1,2:26 PM,3:45,MISS Smith 9' Jump Shot,,,,
+0020000221,78,4,0,1,2:26 PM,3:43,,,Nowitzki REBOUND (Off:0 Def:2),,
+0020000221,79,1,1,1,2:27 PM,3:35,,,Finley 22' Jump Shot (2 PTS) (Vaught 1 AST),19 - 14,-5
+0020000221,80,5,1,1,2:27 PM,3:25,Kemp Bad Pass Turnover (P1.T5),,,,
+0020000221,81,2,1,1,2:27 PM,3:16,,,MISS Vaught 17' Jump Shot,,
+0020000221,82,4,0,1,2:27 PM,3:15,Kemp REBOUND (Off:0 Def:1),,,,
+0020000221,83,2,1,1,2:27 PM,2:54,MISS Pippen 21' Jump Shot,,,,
+0020000221,84,4,0,1,2:27 PM,2:52,,,Vaught REBOUND (Off:1 Def:3),,
+0020000221,85,2,1,1,2:28 PM,2:38,,,MISS Nowitzki 14' Jump Shot,,
+0020000221,86,4,0,1,2:28 PM,2:33,,,Mavericks Rebound,,
+0020000221,87,9,1,1,2:28 PM,2:33,,,Mavericks Timeout: Regular (Reg.1 Short 0),,
+0020000221,89,8,0,1,2:30 PM,2:33,,,SUB: Bradley FOR Laettner,,
+0020000221,90,2,1,1,2:30 PM,2:22,,,MISS Finley 23' Jump Shot,,
+0020000221,91,4,0,1,2:30 PM,2:19,Stoudamire REBOUND (Off:0 Def:1),,,,
+0020000221,92,1,1,1,2:31 PM,2:12,Wallace 5' Jump Shot (4 PTS) (Stoudamire 2 AST),,,19 - 16,-3
+0020000221,93,2,1,1,2:31 PM,1:45,,,MISS Finley 14' Jump Shot,,
+0020000221,94,4,0,1,2:31 PM,1:43,Pippen REBOUND (Off:0 Def:1),,,,
+0020000221,95,6,1,1,2:31 PM,1:36,,,Vaught P.FOUL (P2.T3),,
+0020000221,96,3,11,1,2:32 PM,1:36,Kemp Free Throw 1 of 2 (1 PTS),,,19 - 17,-2
+0020000221,97,3,12,1,2:32 PM,1:36,Kemp Free Throw 2 of 2 (2 PTS),,,19 - 18,-1
+0020000221,98,2,1,1,2:33 PM,1:14,,,MISS Nowitzki 5' Jump Shot,,
+0020000221,99,4,0,1,2:33 PM,1:12,Smith REBOUND (Off:1 Def:2),,,,
+0020000221,100,1,42,1,2:33 PM,1:08,Pippen  Driving Layup (8 PTS) (Smith 2 AST),,,19 - 20,1
+0020000221,101,2,1,1,2:33 PM,0:58,,,MISS Bradley 19' Jump Shot,,
+0020000221,102,4,0,1,2:33 PM,0:56,Kemp REBOUND (Off:0 Def:2),,,,
+0020000221,103,1,5,1,2:33 PM,0:53,Smith  Layup (8 PTS) (Pippen 1 AST),,,19 - 22,3
+0020000221,104,6,2,1,2:33 PM,0:53,,,Nowitzki S.FOUL (P1.PN),,
+0020000221,105,3,10,1,2:33 PM,0:53,Smith Free Throw 1 of 1 (9 PTS),,,19 - 23,4
+0020000221,106,5,2,1,2:34 PM,0:40,Smith STEAL (1 STL),,Nowitzki Lost Ball Turnover (P1.T5),,
+0020000221,107,1,5,1,2:34 PM,0:35,Smith  Layup (11 PTS) (Pippen 2 AST),,,19 - 25,6
+0020000221,108,5,1,1,2:34 PM,0:16,Wallace STEAL (1 STL),,Nash Bad Pass Turnover (P4.T6),,
+0020000221,109,1,7,1,2:34 PM,0:11,Wallace  Dunk (6 PTS) (Stoudamire 3 AST),,,19 - 27,8
+0020000221,110,2,1,1,2:34 PM,0:01,,,MISS Vaught 19' Jump Shot,,
+0020000221,111,4,0,1,2:34 PM,0:00,Smith REBOUND (Off:1 Def:3),,,,
+0020000221,112,13,0,1,2:35 PM,0:00,,,,19 - 27,8
+0020000221,114,12,0,2,2:37 PM,12:00,,,,19 - 27,8
+0020000221,115,1,5,2,2:38 PM,11:43,,,Finley  Layup (4 PTS) (Nowitzki 1 AST),21 - 27,6
+0020000221,116,1,1,2,2:38 PM,11:21,Stoudamire 19' Jump Shot (2 PTS),,,21 - 29,8
+0020000221,117,2,1,2,2:38 PM,11:01,,,MISS Bradley 5' Jump Shot,,
+0020000221,118,4,0,2,2:38 PM,10:59,Kemp REBOUND (Off:0 Def:3),,,,
+0020000221,119,2,1,2,2:39 PM,10:54,MISS Stoudamire 25' 3PT Jump Shot,,,,
+0020000221,120,4,0,2,2:39 PM,10:52,,,Bradley REBOUND (Off:0 Def:1),,
+0020000221,121,1,1,2,2:39 PM,10:46,,,Alexander 17' Jump Shot (2 PTS) (Bradley 1 AST),23 - 29,6
+0020000221,122,1,42,2,2:39 PM,10:24,Kemp  Driving Layup (4 PTS),,,23 - 31,8
+0020000221,123,1,1,2,2:40 PM,9:58,,,Alexander 13' Jump Shot (4 PTS) (Nowitzki 2 AST),25 - 31,6
+0020000221,124,2,1,2,2:40 PM,9:34,MISS Smith 24' 3PT Jump Shot,,,,
+0020000221,125,4,0,2,2:40 PM,9:32,Augmon REBOUND (Off:1 Def:0),,,,
+0020000221,126,5,1,2,2:40 PM,9:15,Kemp Bad Pass Turnover (P2.T6),,Finley STEAL (2 STL),,
+0020000221,127,1,1,2,2:40 PM,9:09,,,Finley 16' Jump Shot (6 PTS),27 - 31,4
+0020000221,128,1,5,2,2:41 PM,8:45,Wallace  Layup (8 PTS) (Kemp 1 AST),,,27 - 33,6
+0020000221,129,6,1,2,2:41 PM,8:32,Wallace P.FOUL (P2.T1),,,,
+0020000221,130,9,4,2,2:41 PM,8:32,,,,,
+0020000221,132,8,0,2,2:43 PM,8:32,SUB: Pippen FOR Wallace,,,,
+0020000221,133,8,0,2,2:43 PM,8:32,SUB: Davis FOR Smith,,,,
+0020000221,134,1,42,2,2:44 PM,8:18,,,Finley  Driving Layup (8 PTS),29 - 33,4
+0020000221,135,6,4,2,2:44 PM,8:05,Kemp OFF.Foul (P1),,,,
+0020000221,136,5,5,2,2:44 PM,8:05,Kemp Foul Turnover (P3.T7),,,,
+0020000221,137,2,1,2,2:44 PM,7:52,,,MISS Eisley 25' 3PT Jump Shot,,
+0020000221,138,4,0,2,2:44 PM,7:50,,,Bradley REBOUND (Off:1 Def:1),,
+0020000221,139,1,1,2,2:45 PM,7:45,,,Finley 19' Jump Shot (10 PTS) (Alexander 1 AST),31 - 33,2
+0020000221,140,5,2,2,2:45 PM,7:29,Stoudamire Lost Ball Turnover (P2.T8),,Alexander STEAL (1 STL),,
+0020000221,141,2,1,2,2:45 PM,7:22,,,MISS Nowitzki 25' 3PT Jump Shot,,
+0020000221,142,4,0,2,2:45 PM,7:20,Kemp REBOUND (Off:0 Def:4),,,,
+0020000221,143,2,1,2,2:45 PM,7:02,MISS Kemp 21' Jump Shot,,,,
+0020000221,144,4,0,2,2:45 PM,7:00,,,Nowitzki REBOUND (Off:0 Def:3),,
+0020000221,145,6,1,2,2:45 PM,6:59,Pippen P.FOUL (P2.T2),,,,
+0020000221,146,8,0,2,2:46 PM,6:59,SUB: Wallace FOR Kemp,,,,
+0020000221,147,1,7,2,2:46 PM,6:47,,,Bradley  Dunk (2 PTS) (Nowitzki 3 AST),33 - 33,TIE
+0020000221,148,2,1,2,2:46 PM,6:22,MISS Stoudamire 19' Jump Shot,,,,
+0020000221,150,4,0,2,2:46 PM,6:20,Augmon REBOUND (Off:2 Def:0),,,,
+0020000221,149,1,7,2,2:46 PM,6:20,Augmon  Dunk (2 PTS),,,33 - 35,2
+0020000221,151,2,1,2,2:47 PM,6:02,,,MISS Alexander 18' Jump Shot,,
+0020000221,152,4,0,2,2:47 PM,6:00,,,Bradley REBOUND (Off:2 Def:1),,
+0020000221,153,2,1,2,2:47 PM,5:54,,,MISS Alexander 15' Jump Shot,,
+0020000221,154,4,0,2,2:47 PM,5:52,,,Bradley REBOUND (Off:3 Def:1),,
+0020000221,155,2,5,2,2:47 PM,5:49,Wallace BLOCK (1 BLK),,MISS Bradley  Layup,,
+0020000221,156,4,0,2,2:47 PM,5:46,Augmon REBOUND (Off:2 Def:1),,,,
+0020000221,157,2,1,2,2:47 PM,5:43,MISS Stoudamire 25' 3PT Jump Shot,,,,
+0020000221,158,4,0,2,2:47 PM,5:41,,,Nowitzki REBOUND (Off:0 Def:4),,
+0020000221,159,2,1,2,2:47 PM,5:36,,,MISS Finley 21' Jump Shot,,
+0020000221,160,4,0,2,2:47 PM,5:32,Wallace REBOUND (Off:2 Def:2),,,,
+0020000221,161,6,1,2,2:47 PM,5:28,,,Alexander P.FOUL (P1.T1),,
+0020000221,162,9,1,2,2:47 PM,5:28,TRAIL BLAZERS Timeout: Regular (Full 2 Short 1),,,,
+0020000221,164,8,0,2,2:49 PM,5:28,SUB: Anthony FOR Stoudamire,,,,
+0020000221,165,8,0,2,2:49 PM,5:28,,,SUB: Vaught FOR Bradley,,
+0020000221,166,8,0,2,2:50 PM,5:28,,,SUB: Laettner FOR Nowitzki,,
+0020000221,167,2,1,2,2:50 PM,5:21,MISS Wallace 5' Jump Shot,,,,
+0020000221,171,4,0,2,2:50 PM,5:19,Davis REBOUND (Off:2 Def:1),,,,
+0020000221,170,6,2,2,2:50 PM,5:19,,,Vaught S.FOUL (P3.T2),,
+0020000221,172,3,11,2,2:50 PM,5:19,Davis Free Throw 1 of 2 (1 PTS),,,33 - 36,3
+0020000221,173,3,12,2,2:50 PM,5:19,MISS Davis Free Throw 2 of 2,,,,
+0020000221,174,4,0,2,2:51 PM,5:19,,,Alexander REBOUND (Off:0 Def:1),,
+0020000221,175,1,1,2,2:51 PM,5:03,,,Alexander 20' Jump Shot (6 PTS) (Laettner 3 AST),35 - 36,1
+0020000221,176,1,42,2,2:51 PM,4:47,Augmon  Driving Layup (4 PTS),,,35 - 38,3
+0020000221,177,1,42,2,2:52 PM,4:28,,,Laettner  Driving Layup (6 PTS),37 - 38,1
+0020000221,178,1,8,2,2:52 PM,4:13,Wallace  Slam Dunk (10 PTS) (Augmon 1 AST),,,37 - 40,3
+0020000221,179,2,46,2,2:52 PM,3:56,,,MISS Eisley 4' Running Jump Shot,,
+0020000221,180,4,0,2,2:52 PM,3:52,Wallace REBOUND (Off:2 Def:3),,,,
+0020000221,181,8,0,2,2:53 PM,3:44,,,SUB: Nash FOR Eisley,,
+0020000221,182,1,42,2,2:53 PM,3:36,Anthony  Driving Layup (2 PTS),,,37 - 42,5
+0020000221,183,1,1,2,2:54 PM,3:10,,,Alexander 27' 3PT Jump Shot (9 PTS),40 - 42,2
+0020000221,184,5,2,2,2:54 PM,2:57,Anthony Lost Ball Turnover (P1.T9),,,,
+0020000221,185,9,1,2,2:54 PM,2:57,,,Mavericks Timeout: Regular (Reg.2 Short 0),,
+0020000221,187,5,2,2,2:56 PM,2:36,,,Finley Lost Ball Turnover (P1.T7),,
+0020000221,188,8,0,2,2:57 PM,2:36,SUB: Smith FOR Pippen,,,,
+0020000221,189,1,41,2,2:57 PM,2:14,Davis  Running Layup (3 PTS),,,40 - 44,4
+0020000221,190,6,2,2,2:58 PM,1:55,Davis S.FOUL (P2.T3),,,,
+0020000221,191,3,11,2,2:58 PM,1:55,,,Alexander Free Throw 1 of 2 (10 PTS),41 - 44,3
+0020000221,192,3,12,2,2:58 PM,1:55,,,Alexander Free Throw 2 of 2 (11 PTS),42 - 44,2
+0020000221,193,1,1,2,2:58 PM,1:39,Wallace 7' Jump Shot (12 PTS) (Anthony 1 AST),,,42 - 46,4
+0020000221,194,5,1,2,2:59 PM,1:17,,,Alexander Bad Pass Turnover (P1.T8),,
+0020000221,195,1,1,2,2:59 PM,1:10,Wallace 25' 3PT Jump Shot (15 PTS) (Augmon 2 AST),,,42 - 49,7
+0020000221,196,2,1,2,2:59 PM,0:47,,,MISS Alexander 25' 3PT Jump Shot,,
+0020000221,197,4,0,2,2:59 PM,0:46,,,Nash REBOUND (Off:1 Def:0),,
+0020000221,198,8,0,2,3:00 PM,0:44,,,SUB: Nowitzki FOR Vaught,,
+0020000221,199,8,0,2,3:00 PM,0:44,SUB: Perdue FOR Wallace,,,,
+0020000221,200,1,5,2,3:00 PM,0:38,,,Laettner  Layup (8 PTS) (Nash 2 AST),44 - 49,5
+0020000221,201,6,2,2,3:00 PM,0:38,Perdue S.FOUL (P1.PN),,,,
+0020000221,203,8,0,2,3:01 PM,0:38,SUB: Wallace FOR Perdue,,,,
+0020000221,204,3,10,2,3:01 PM,0:38,,,Laettner Free Throw 1 of 1 (9 PTS),45 - 49,4
+0020000221,205,6,1,2,3:01 PM,0:20,,,Alexander P.FOUL (P2.T3),,
+0020000221,207,6,4,2,3:02 PM,0:11,Smith OFF.Foul (P2),,,,
+0020000221,208,5,5,2,3:02 PM,0:11,Smith Foul Turnover (P1.T10),,,,
+0020000221,209,8,0,2,3:02 PM,0:11,SUB: Perdue FOR Wallace,,,,
+0020000221,210,5,4,2,3:02 PM,0:08,,,Nowitzki Traveling Turnover (P2.T9),,
+0020000221,211,8,0,2,3:02 PM,0:08,SUB: Wallace FOR Perdue,,,,
+0020000221,212,1,1,2,3:03 PM,0:00,Anthony 24' 3PT Jump Shot (5 PTS) (Smith 3 AST),,,45 - 52,7
+0020000221,213,13,0,2,3:03 PM,0:00,,,,45 - 52,7
+0020000221,215,6,11,2,3:04 PM,0:00,Smith T.FOUL (P2.PN),,,,
+0020000221,216,12,0,3,3:19 PM,12:00,,,,45 - 52,7
+0020000221,217,3,16,3,3:19 PM,12:00,,,Nash Free Throw Technical (2 PTS),46 - 52,6
+0020000221,218,2,1,3,3:20 PM,11:45,,,MISS Finley 25' 3PT Jump Shot,,
+0020000221,219,4,0,3,3:20 PM,11:43,,,Nash REBOUND (Off:2 Def:0),,
+0020000221,220,2,1,3,3:20 PM,11:36,,,MISS Nowitzki 4' Jump Shot,,
+0020000221,221,4,0,3,3:20 PM,11:33,Wallace REBOUND (Off:2 Def:4),,,,
+0020000221,222,2,1,3,3:20 PM,11:08,MISS Stoudamire 21' Jump Shot,,,,
+0020000221,223,4,0,3,3:21 PM,11:08,TRAIL BLAZERS Rebound,,,,
+0020000221,224,5,11,3,3:21 PM,11:08,TRAIL BLAZERS Turnover: Shot Clock (T#11),,,,
+0020000221,225,2,1,3,3:21 PM,10:48,,,MISS Laettner 19' Jump Shot,,
+0020000221,226,4,0,3,3:21 PM,10:47,Smith REBOUND (Off:1 Def:4),,,,
+0020000221,227,1,42,3,3:21 PM,10:37,Smith  Driving Layup (13 PTS),,,46 - 54,8
+0020000221,228,6,2,3,3:21 PM,10:21,Davis S.FOUL (P3.T1),,,,
+0020000221,229,3,11,3,3:22 PM,10:21,,,Nowitzki Free Throw 1 of 2 (9 PTS),47 - 54,7
+0020000221,230,3,12,3,3:22 PM,10:21,,,Nowitzki Free Throw 2 of 2 (10 PTS),48 - 54,6
+0020000221,231,5,3,3,3:22 PM,10:03,Stoudamire Out Of Bounds Turnover (P3.T12),,,,
+0020000221,232,9,2,3,3:23 PM,10:03,,,Mavericks Timeout: Short (Reg.2 Short 1),,
+0020000221,234,8,0,3,3:23 PM,10:03,,,SUB: Alexander FOR Nowitzki,,
+0020000221,235,2,1,3,3:24 PM,9:53,,,MISS Nash 21' Jump Shot,,
+0020000221,236,4,0,3,3:24 PM,9:51,Pippen REBOUND (Off:0 Def:2),,,,
+0020000221,237,1,42,3,3:24 PM,9:44,Pippen  Driving Layup (10 PTS),,,48 - 56,8
+0020000221,238,1,1,3,3:24 PM,9:23,,,Nash 25' 3PT Jump Shot (5 PTS) (Finley 2 AST),51 - 56,5
+0020000221,239,6,1,3,3:24 PM,9:05,,,Laettner P.FOUL (P3.T1),,
+0020000221,240,5,1,3,3:25 PM,8:59,Pippen Bad Pass Turnover (P2.T13),,Nash STEAL (2 STL),,
+0020000221,241,2,1,3,3:25 PM,8:50,,,MISS Nash 15' Jump Shot,,
+0020000221,242,4,0,3,3:25 PM,8:48,Davis REBOUND (Off:2 Def:2),,,,
+0020000221,243,6,2,3,3:25 PM,8:42,,,Nash S.FOUL (P1.T2),,
+0020000221,244,3,11,3,3:25 PM,8:42,Stoudamire Free Throw 1 of 2 (3 PTS),,,51 - 57,6
+0020000221,245,3,12,3,3:25 PM,8:42,Stoudamire Free Throw 2 of 2 (4 PTS),,,51 - 58,7
+0020000221,246,6,2,3,3:26 PM,8:24,Smith S.FOUL (P3.T2),,,,
+0020000221,247,3,11,3,3:26 PM,8:24,,,Alexander Free Throw 1 of 2 (12 PTS),52 - 58,6
+0020000221,248,3,12,3,3:27 PM,8:24,,,Alexander Free Throw 2 of 2 (13 PTS),53 - 58,5
+0020000221,249,1,1,3,3:27 PM,8:10,Wallace 5' Jump Shot (17 PTS) (Pippen 3 AST),,,53 - 60,7
+0020000221,250,2,5,3,3:27 PM,7:43,,,MISS Alexander  Layup,,
+0020000221,251,4,0,3,3:27 PM,7:40,Wallace REBOUND (Off:2 Def:5),,,,
+0020000221,252,2,42,3,3:28 PM,7:26,MISS Smith  Driving Layup,,,,
+0020000221,253,4,0,3,3:28 PM,7:24,,,Vaught REBOUND (Off:1 Def:4),,
+0020000221,254,1,1,3,3:28 PM,7:14,,,Vaught 20' Jump Shot (6 PTS),55 - 60,5
+0020000221,255,1,1,3,3:28 PM,7:01,Stoudamire 19' Jump Shot (6 PTS),,,55 - 62,7
+0020000221,256,5,1,3,3:29 PM,6:41,Stoudamire STEAL (1 STL),,Finley Bad Pass Turnover (P2.T10),,
+0020000221,257,2,5,3,3:29 PM,6:30,MISS Pippen  Layup,,,,
+0020000221,258,4,0,3,3:29 PM,6:28,,,Alexander REBOUND (Off:0 Def:2),,
+0020000221,259,2,46,3,3:29 PM,6:12,,,MISS Nash 8' Running Jump Shot,,
+0020000221,260,4,0,3,3:29 PM,6:11,,,Laettner REBOUND (Off:3 Def:1),,
+0020000221,261,2,1,3,3:29 PM,6:04,,,MISS Nash 24' 3PT Jump Shot,,
+0020000221,262,4,0,3,3:29 PM,6:02,Wallace REBOUND (Off:2 Def:6),,,,
+0020000221,263,1,8,3,3:29 PM,5:58,Pippen  Slam Dunk (12 PTS) (Stoudamire 4 AST),,,55 - 64,9
+0020000221,264,1,1,3,3:30 PM,5:38,,,Alexander 23' Jump Shot (15 PTS) (Laettner 4 AST),57 - 64,7
+0020000221,265,6,1,3,3:30 PM,5:26,,,Alexander P.FOUL (P3.T3),,
+0020000221,266,9,1,3,3:30 PM,5:26,TRAIL BLAZERS Timeout: Regular (Full 3 Short 1),,,,
+0020000221,268,8,0,3,3:32 PM,5:26,,,SUB: Najera FOR Laettner,,
+0020000221,269,8,0,3,3:32 PM,5:26,,,SUB: Bradley FOR Vaught,,
+0020000221,270,6,1,3,3:32 PM,5:21,,,Najera P.FOUL (P1.T4),,
+0020000221,271,2,1,3,3:33 PM,5:09,MISS Smith 27' 3PT Jump Shot,,,,
+0020000221,272,4,0,3,3:33 PM,5:06,,,Finley REBOUND (Off:0 Def:2),,
+0020000221,273,2,1,3,3:33 PM,4:59,Smith BLOCK (1 BLK),,MISS Alexander 20' Jump Shot,,
+0020000221,274,4,0,3,3:33 PM,4:54,Smith REBOUND (Off:1 Def:5),,,,
+0020000221,275,5,1,3,3:33 PM,4:53,Smith Bad Pass Turnover (P2.T14),,Nash STEAL (3 STL),,
+0020000221,276,1,1,3,3:33 PM,4:48,,,Alexander 19' Jump Shot (17 PTS) (Finley 3 AST),59 - 64,5
+0020000221,277,6,2,3,3:34 PM,4:27,,,Najera S.FOUL (P2.PN),,
+0020000221,278,3,11,3,3:34 PM,4:27,Pippen Free Throw 1 of 2 (13 PTS),,,59 - 65,6
+0020000221,279,3,12,3,3:34 PM,4:27,MISS Pippen Free Throw 2 of 2,,,,
+0020000221,280,4,0,3,3:34 PM,4:27,,,Alexander REBOUND (Off:0 Def:3),,
+0020000221,281,2,1,3,3:35 PM,4:11,,,MISS Finley 20' Jump Shot,,
+0020000221,282,4,0,3,3:35 PM,4:10,TRAIL BLAZERS Rebound,,,,
+0020000221,283,6,3,3,3:35 PM,4:10,,,Bradley L.B.FOUL (P1.PN),,
+0020000221,284,3,11,3,3:35 PM,4:10,Wallace Free Throw 1 of 2 (18 PTS),,,59 - 66,7
+0020000221,285,8,0,3,3:35 PM,4:10,,,SUB: Eisley FOR Nash,,
+0020000221,286,3,12,3,3:35 PM,4:10,Wallace Free Throw 2 of 2 (19 PTS),,,59 - 67,8
+0020000221,287,5,1,3,3:36 PM,4:00,,,Bradley Bad Pass Turnover (P1.T11),,
+0020000221,288,1,1,3,3:36 PM,3:52,Davis 16' Jump Shot (5 PTS),,,59 - 69,10
+0020000221,289,1,46,3,3:36 PM,3:28,,,Najera 8' Running Jump Shot (2 PTS),61 - 69,8
+0020000221,290,6,1,3,3:37 PM,3:17,,,Alexander P.FOUL (P4.PN),,
+0020000221,291,3,11,3,3:37 PM,3:17,Smith Free Throw 1 of 2 (14 PTS),,,61 - 70,9
+0020000221,292,3,12,3,3:37 PM,3:17,Smith Free Throw 2 of 2 (15 PTS),,,61 - 71,10
+0020000221,293,2,1,3,3:38 PM,3:05,,,MISS Najera 16' Jump Shot,,
+0020000221,294,4,0,3,3:38 PM,3:02,,,Eisley REBOUND (Off:1 Def:0),,
+0020000221,295,1,1,3,3:38 PM,2:56,,,Bradley 15' Jump Shot (4 PTS) (Alexander 2 AST),63 - 71,8
+0020000221,296,9,1,3,3:38 PM,2:49,,,Mavericks Timeout: Regular (Reg.3 Short 1),,
+0020000221,298,8,0,3,3:39 PM,2:49,,,SUB: Nowitzki FOR Finley,,
+0020000221,299,8,0,3,3:40 PM,2:49,SUB: Augmon FOR Pippen,,,,
+0020000221,300,8,0,3,3:40 PM,2:49,SUB: Kemp FOR Davis,,,,
+0020000221,301,1,1,3,3:41 PM,2:30,Kemp 17' Jump Shot (6 PTS) (Stoudamire 5 AST),,,63 - 73,10
+0020000221,302,2,1,3,3:41 PM,2:16,,,MISS Eisley 22' Jump Shot,,
+0020000221,303,4,0,3,3:41 PM,2:14,Augmon REBOUND (Off:2 Def:2),,,,
+0020000221,304,1,1,3,3:41 PM,2:00,Augmon 20' Jump Shot (6 PTS) (Stoudamire 6 AST),,,63 - 75,12
+0020000221,305,2,1,3,3:42 PM,1:40,,,MISS Alexander 23' Jump Shot,,
+0020000221,306,4,0,3,3:42 PM,1:38,Kemp REBOUND (Off:0 Def:5),,,,
+0020000221,307,2,1,3,3:42 PM,1:25,MISS Kemp 20' Jump Shot,,,,
+0020000221,308,4,0,3,3:42 PM,1:23,,,Alexander REBOUND (Off:0 Def:4),,
+0020000221,309,1,42,3,3:42 PM,1:16,,,Nowitzki  Driving Layup (12 PTS),65 - 75,10
+0020000221,310,6,1,3,3:42 PM,0:58,,,Eisley P.FOUL (P1.PN),,
+0020000221,311,3,11,3,3:42 PM,0:58,Smith Free Throw 1 of 2 (16 PTS),,,65 - 76,11
+0020000221,312,8,0,3,3:43 PM,0:58,,,SUB: Laettner FOR Najera,,
+0020000221,313,3,12,3,3:43 PM,0:58,Smith Free Throw 2 of 2 (17 PTS),,,65 - 77,12
+0020000221,314,1,1,3,3:44 PM,0:35,,,Alexander 25' 3PT Jump Shot (20 PTS) (Laettner 5 AST),68 - 77,9
+0020000221,315,1,1,3,3:44 PM,0:24,Kemp 22' Jump Shot (8 PTS) (Smith 4 AST),,,68 - 79,11
+0020000221,316,6,1,3,3:44 PM,0:04,Augmon P.FOUL (P1.T3),,,,
+0020000221,317,2,1,3,3:45 PM,0:00,,,MISS Alexander 27' 3PT Jump Shot,,
+0020000221,318,4,0,3,3:45 PM,0:00,TRAIL BLAZERS Rebound,,,,
+0020000221,319,13,0,3,3:45 PM,0:00,,,,68 - 79,11
+0020000221,321,12,0,4,3:48 PM,12:00,,,,68 - 79,11
+0020000221,322,2,1,4,3:48 PM,11:44,MISS Stoudamire 19' Jump Shot,,,,
+0020000221,323,4,0,4,3:48 PM,11:42,,,Eisley REBOUND (Off:1 Def:1),,
+0020000221,324,2,46,4,3:49 PM,11:22,,,MISS Finley 6' Running Jump Shot,,
+0020000221,325,4,0,4,3:49 PM,11:19,Augmon REBOUND (Off:2 Def:3),,,,
+0020000221,326,1,1,4,3:49 PM,11:07,Wallace 18' Jump Shot (21 PTS),,,68 - 81,13
+0020000221,327,7,2,4,3:49 PM,10:45,Wallace Violation:Defensive Goaltending,,,,
+0020000221,328,8,0,4,3:50 PM,10:45,SUB: Anthony FOR Stoudamire,,,,
+0020000221,329,2,1,4,3:50 PM,10:37,,,MISS Nowitzki 4' Jump Shot,,
+0020000221,330,4,0,4,3:50 PM,10:34,Kemp REBOUND (Off:0 Def:6),,,,
+0020000221,331,2,1,4,3:50 PM,10:22,MISS Wallace 24' 3PT Jump Shot,,,,
+0020000221,332,4,0,4,3:50 PM,10:19,,,Finley REBOUND (Off:0 Def:3),,
+0020000221,333,5,2,4,3:50 PM,10:14,Anthony STEAL (2 STL),,Finley Lost Ball Turnover (P3.T12),,
+0020000221,334,2,1,4,3:51 PM,9:50,MISS Wallace 19' Jump Shot,,,,
+0020000221,335,4,0,4,3:51 PM,9:50,TRAIL BLAZERS Rebound,,,,
+0020000221,336,5,11,4,3:51 PM,9:50,TRAIL BLAZERS Turnover: Shot Clock (T#15),,,,
+0020000221,337,6,11,4,3:51 PM,9:50,Wallace T.FOUL (P2.T0),,,,
+0020000221,338,3,16,4,3:51 PM,9:50,,,Nash Free Throw Technical (6 PTS),69 - 81,12
+0020000221,339,8,0,4,3:51 PM,9:50,SUB: Pippen FOR Smith,,,,
+0020000221,340,5,1,4,3:52 PM,9:42,Augmon STEAL (1 STL),,Nowitzki Bad Pass Turnover (P3.T13),,
+0020000221,341,6,4,4,3:52 PM,9:32,Wallace OFF.Foul (P3),,,,
+0020000221,342,5,5,4,3:52 PM,9:32,Wallace Foul Turnover (P2.T16),,,,
+0020000221,343,8,0,4,3:52 PM,9:32,SUB: Davis FOR Wallace,,,,
+0020000221,344,2,5,4,3:52 PM,9:11,Davis BLOCK (2 BLK),,MISS Eisley  Layup,,
+0020000221,345,4,0,4,3:52 PM,9:09,Davis REBOUND (Off:2 Def:3),,,,
+0020000221,346,5,4,4,3:53 PM,8:47,Kemp Traveling Turnover (P4.T17),,,,
+0020000221,347,9,4,4,3:53 PM,8:47,,,,,
+0020000221,349,8,0,4,3:55 PM,8:47,,,SUB: Alexander FOR Eisley,,
+0020000221,350,6,4,4,3:55 PM,8:34,,,Finley OFF.Foul (P1),,
+0020000221,351,5,5,4,3:55 PM,8:34,,,Finley Foul Turnover (P4.T14),,
+0020000221,352,7,1,4,3:56 PM,8:34,,,Mavericks Violation: Delay of game Violation,,
+0020000221,353,6,1,4,3:56 PM,8:24,,,Finley P.FOUL (P2.T1),,
+0020000221,354,5,1,4,3:56 PM,8:15,Kemp Bad Pass Turnover (P5.T18),,Alexander STEAL (2 STL),,
+0020000221,355,5,1,4,3:56 PM,8:12,,,Alexander Bad Pass Turnover (P2.T15),,
+0020000221,356,7,2,4,3:57 PM,7:57,,,Bradley Violation:Defensive Goaltending,,
+0020000221,357,2,5,4,3:57 PM,7:46,MISS Davis  Layup,,Bradley BLOCK (1 BLK),,
+0020000221,358,4,0,4,3:57 PM,7:43,,,Nowitzki REBOUND (Off:0 Def:5),,
+0020000221,359,2,5,4,3:57 PM,7:38,,,MISS Finley  Layup,,
+0020000221,360,4,0,4,3:57 PM,7:35,Augmon REBOUND (Off:2 Def:4),,,,
+0020000221,361,2,1,4,3:58 PM,7:21,MISS Pippen 24' 3PT Jump Shot,,,,
+0020000221,362,4,0,4,3:58 PM,7:18,,,Nowitzki REBOUND (Off:0 Def:6),,
+0020000221,363,6,2,4,3:58 PM,7:14,Davis S.FOUL (P4.T1),,,,
+0020000221,364,8,0,4,3:58 PM,7:14,SUB: Wallace FOR Kemp,,,,
+0020000221,365,9,1,4,3:58 PM,7:14,,,Mavericks Timeout: Regular (Reg.4 Short 1),,
+0020000221,367,3,11,4,4:00 PM,7:14,,,MISS Nowitzki Free Throw 1 of 2,,
+0020000221,368,4,1,4,4:00 PM,7:14,,,Mavericks Rebound,,
+0020000221,369,3,12,4,4:01 PM,7:14,,,Nowitzki Free Throw 2 of 2 (13 PTS),70 - 81,11
+0020000221,370,2,1,4,4:01 PM,6:59,MISS Davis 19' Jump Shot,,,,
+0020000221,371,4,0,4,4:01 PM,6:56,TRAIL BLAZERS Rebound,,,,
+0020000221,372,6,1,4,4:01 PM,6:54,,,Nash P.FOUL (P2.T2),,
+0020000221,373,2,1,4,4:02 PM,6:45,MISS Anthony 25' 3PT Jump Shot,,,,
+0020000221,374,4,0,4,4:02 PM,6:42,,,Nowitzki REBOUND (Off:0 Def:7),,
+0020000221,375,1,46,4,4:02 PM,6:35,,,Nowitzki 11' Running Jump Shot (15 PTS),72 - 81,9
+0020000221,376,1,1,4,4:02 PM,6:15,Augmon 5' Jump Shot (8 PTS),,,72 - 83,11
+0020000221,377,2,1,4,4:03 PM,5:53,,,MISS Finley 24' 3PT Jump Shot,,
+0020000221,378,4,0,4,4:03 PM,5:52,,,Nowitzki REBOUND (Off:1 Def:7),,
+0020000221,379,5,2,4,4:03 PM,5:42,Wallace STEAL (2 STL),,Finley Lost Ball Turnover (P5.T16),,
+0020000221,380,2,1,4,4:03 PM,5:33,MISS Augmon 5' Jump Shot,,,,
+0020000221,381,4,0,4,4:03 PM,5:31,Davis REBOUND (Off:3 Def:3),,,,
+0020000221,382,2,5,4,4:03 PM,5:29,MISS Davis  Layup,,,,
+0020000221,383,4,0,4,4:03 PM,5:28,Augmon REBOUND (Off:3 Def:4),,,,
+0020000221,384,6,1,4,4:03 PM,5:28,,,Nash P.FOUL (P3.T3),,
+0020000221,385,8,0,4,4:03 PM,5:28,SUB: Smith FOR Davis,,,,
+0020000221,386,6,1,4,4:04 PM,5:19,,,Alexander P.FOUL (P5.T4),,
+0020000221,387,8,0,4,4:04 PM,5:19,,,SUB: Vaught FOR Bradley,,
+0020000221,388,1,8,4,4:04 PM,5:11,Wallace  Slam Dunk (23 PTS) (Pippen 4 AST),,,72 - 85,13
+0020000221,389,1,1,4,4:05 PM,4:54,,,Nash 25' 3PT Jump Shot (9 PTS),75 - 85,10
+0020000221,390,2,1,4,4:05 PM,4:34,MISS Smith 13' Jump Shot,,,,
+0020000221,391,4,0,4,4:05 PM,4:33,,,Mavericks Rebound,,
+0020000221,392,6,3,4,4:05 PM,4:33,Augmon L.B.FOUL (P2.T2),,,,
+0020000221,393,2,5,4,4:06 PM,4:11,,,MISS Alexander  Layup,,
+0020000221,394,4,0,4,4:06 PM,4:10,,,Alexander REBOUND (Off:1 Def:4),,
+0020000221,395,5,4,4,4:06 PM,4:10,,,Alexander Traveling Turnover (P3.T17),,
+0020000221,396,1,1,4,4:06 PM,3:57,Wallace 9' Jump Shot (25 PTS) (Pippen 5 AST),,,75 - 87,12
+0020000221,397,1,42,4,4:06 PM,3:45,,,Nash  Driving Layup (11 PTS),77 - 87,10
+0020000221,398,2,1,4,4:07 PM,3:19,MISS Anthony 20' Jump Shot,,,,
+0020000221,400,4,0,4,4:07 PM,3:17,Smith REBOUND (Off:2 Def:5),,,,
+0020000221,399,2,4,4,4:07 PM,3:17,MISS Smith  Tip Shot,,,,
+0020000221,401,4,0,4,4:07 PM,3:14,Augmon REBOUND (Off:4 Def:4),,,,
+0020000221,402,1,1,4,4:07 PM,3:11,Wallace 5' Jump Shot (27 PTS) (Anthony 2 AST),,,77 - 89,12
+0020000221,403,2,1,4,4:07 PM,3:00,,,MISS Finley 25' 3PT Jump Shot,,
+0020000221,404,4,0,4,4:07 PM,2:55,,,Alexander REBOUND (Off:2 Def:4),,
+0020000221,405,9,1,4,4:07 PM,2:50,TRAIL BLAZERS Timeout: Regular (Full 4 Short 1),,,,
+0020000221,407,5,2,4,4:10 PM,2:44,Augmon STEAL (2 STL),,Vaught Lost Ball Turnover (P2.T18),,
+0020000221,408,6,2,4,4:10 PM,2:28,,,Nowitzki S.FOUL (P2.PN),,
+0020000221,409,3,11,4,4:10 PM,2:28,Wallace Free Throw 1 of 2 (28 PTS),,,77 - 90,13
+0020000221,410,8,0,4,4:11 PM,2:28,,,SUB: Eisley FOR Alexander,,
+0020000221,411,3,12,4,4:11 PM,2:28,MISS Wallace Free Throw 2 of 2,,,,
+0020000221,412,4,0,4,4:11 PM,2:27,,,Vaught REBOUND (Off:1 Def:5),,
+0020000221,413,6,1,4,4:11 PM,2:15,Anthony P.FOUL (P1.T3),,,,
+0020000221,414,1,1,4,4:12 PM,2:07,,,Nash 25' 3PT Jump Shot (14 PTS),80 - 90,10
+0020000221,415,1,1,4,4:12 PM,1:43,Anthony 25' 3PT Jump Shot (8 PTS) (Pippen 6 AST),,,80 - 93,13
+0020000221,416,2,1,4,4:12 PM,1:37,,,MISS Finley 25' 3PT Jump Shot,,
+0020000221,417,4,0,4,4:12 PM,1:35,,,Vaught REBOUND (Off:2 Def:5),,
+0020000221,418,6,2,4,4:13 PM,1:21,Smith S.FOUL (P4.T4),,,,
+0020000221,419,3,11,4,4:13 PM,1:21,,,Nowitzki Free Throw 1 of 2 (16 PTS),81 - 93,12
+0020000221,420,3,12,4,4:13 PM,1:21,,,Nowitzki Free Throw 2 of 2 (17 PTS),82 - 93,11
+0020000221,421,6,1,4,4:14 PM,1:07,,,Nowitzki P.FOUL (P3.PN),,
+0020000221,422,3,11,4,4:14 PM,1:07,Smith Free Throw 1 of 2 (18 PTS),,,82 - 94,12
+0020000221,423,3,12,4,4:14 PM,1:07,Smith Free Throw 2 of 2 (19 PTS),,,82 - 95,13
+0020000221,424,6,1,4,4:15 PM,1:00,Augmon P.FOUL (P3.PN),,,,
+0020000221,425,3,11,4,4:15 PM,1:00,,,Nash Free Throw 1 of 2 (15 PTS),83 - 95,12
+0020000221,426,3,12,4,4:15 PM,1:00,,,Nash Free Throw 2 of 2 (16 PTS),84 - 95,11
+0020000221,427,6,1,4,4:15 PM,0:51,,,Finley P.FOUL (P3.PN),,
+0020000221,428,8,0,4,4:16 PM,0:51,,,SUB: Alexander FOR Finley,,
+0020000221,429,3,11,4,4:16 PM,0:51,MISS Augmon Free Throw 1 of 2,,,,
+0020000221,430,4,1,4,4:16 PM,0:51,TRAIL BLAZERS Rebound,,,,
+0020000221,431,3,12,4,4:16 PM,0:51,MISS Augmon Free Throw 2 of 2,,,,
+0020000221,432,4,0,4,4:16 PM,0:51,,,Nowitzki REBOUND (Off:1 Def:8),,
+0020000221,433,5,1,4,4:16 PM,0:40,Wallace STEAL (3 STL),,Nash Bad Pass Turnover (P5.T19),,
+0020000221,434,2,42,4,4:17 PM,0:17,MISS Pippen  Driving Layup,,,,
+0020000221,435,4,0,4,4:17 PM,0:14,Pippen REBOUND (Off:1 Def:2),,,,
+0020000221,436,13,0,4,4:17 PM,0:00,,,,84 - 95,11

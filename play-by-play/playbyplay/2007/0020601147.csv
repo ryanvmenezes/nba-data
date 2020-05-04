@@ -1,0 +1,507 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020601147,0,12,0,1,7:35 PM,12:00,,,,,
+0020601147,1,10,0,1,7:36 PM,12:00,Jump Ball Dalembert vs. Smith: Tip to Wright,,,,
+0020601147,2,2,1,1,7:37 PM,11:44,,,MISS Williams 18' Jump Shot,,
+0020601147,3,4,0,1,7:37 PM,11:43,76ERS Rebound,,,,
+0020601147,4,2,1,1,7:37 PM,11:29,MISS Green 13' Jump Shot,,,,
+0020601147,5,4,0,1,7:37 PM,11:27,Miller REBOUND (Off:1 Def:0),,,,
+0020601147,6,10,0,1,7:38 PM,11:26,Jump Ball Miller vs. Wright: Tip to Smith,,,,
+0020601147,7,5,2,1,7:38 PM,11:26,Miller Lost Ball Turnover (P1.T1),,Wright STEAL (1 STL),,
+0020601147,9,5,2,1,7:38 PM,11:13,Iguodala STEAL (1 STL),,Smith Lost Ball Turnover (P1.T1),,
+0020601147,10,6,2,1,7:39 PM,11:09,,,Williams S.FOUL (P1.T1),,
+0020601147,11,3,11,1,7:39 PM,11:09,MISS Iguodala Free Throw 1 of 2,,,,
+0020601147,12,4,1,1,7:39 PM,11:09,76ERS Rebound,,,,
+0020601147,13,3,12,1,7:39 PM,11:09,Iguodala Free Throw 2 of 2 (1 PTS),,,0 - 1,1
+0020601147,14,1,51,1,7:40 PM,10:48,,,Jones  Reverse Dunk (2 PTS) (Lue 1 AST),2 - 1,-1
+0020601147,15,1,58,1,7:40 PM,10:27,Dalembert 5' Turnaround Hook Shot (2 PTS) (Iguodala 1 AST),,,2 - 3,1
+0020601147,16,2,1,1,7:40 PM,10:11,Dalembert BLOCK (1 BLK),,MISS Wright 6' Jump Shot,,
+0020601147,17,4,0,1,7:40 PM,10:09,Dalembert REBOUND (Off:0 Def:1),,,,
+0020601147,18,6,2,1,7:40 PM,10:06,,,Jones S.FOUL (P1.T2),,
+0020601147,19,3,11,1,7:41 PM,10:06,Hunter Free Throw 1 of 2 (1 PTS),,,2 - 4,2
+0020601147,20,3,12,1,7:41 PM,10:06,MISS Hunter Free Throw 2 of 2,,,,
+0020601147,21,4,0,1,7:41 PM,10:04,Miller REBOUND (Off:2 Def:0),,,,
+0020601147,22,2,1,1,7:41 PM,9:57,MISS Green 24' 3PT Jump Shot,,,,
+0020601147,23,4,0,1,7:41 PM,9:53,Hunter REBOUND (Off:1 Def:0),,,,
+0020601147,24,6,1,1,7:41 PM,9:53,,,Lue P.FOUL (P1.T3),,
+0020601147,25,2,1,1,7:42 PM,9:46,MISS Miller 6' Jump Shot,,,,
+0020601147,26,4,0,1,7:42 PM,9:45,,,Wright REBOUND (Off:0 Def:1),,
+0020601147,27,5,1,1,7:42 PM,9:33,Dalembert STEAL (1 STL),,Lue Bad Pass Turnover (P1.T2),,
+0020601147,28,1,8,1,7:42 PM,9:24,Dalembert  Slam Dunk (4 PTS) (Iguodala 2 AST),,,2 - 6,4
+0020601147,29,2,5,1,7:42 PM,9:02,Green BLOCK (1 BLK),,MISS Williams  Layup,,
+0020601147,30,4,0,1,7:42 PM,9:00,Dalembert REBOUND (Off:0 Def:2),,,,
+0020601147,31,1,52,1,7:43 PM,8:48,Iguodala  Alley Oop Dunk (3 PTS) (Miller 1 AST),,,2 - 8,6
+0020601147,32,1,7,1,7:43 PM,8:30,,,Smith  Dunk (2 PTS) (Wright 1 AST),4 - 8,4
+0020601147,33,2,1,1,7:43 PM,8:09,MISS Dalembert 17' Jump Shot,,,,
+0020601147,34,4,0,1,7:43 PM,8:07,Miller REBOUND (Off:3 Def:0),,,,
+0020601147,35,2,3,1,7:43 PM,8:04,MISS Hunter 6' Hook Shot,,,,
+0020601147,36,4,0,1,7:43 PM,8:02,,,Williams REBOUND (Off:0 Def:1),,
+0020601147,37,1,46,1,7:44 PM,7:54,,,Lue 15' Running Jump Shot (2 PTS),6 - 8,2
+0020601147,38,6,2,1,7:44 PM,7:39,,,Wright S.FOUL (P1.T4),,
+0020601147,39,3,11,1,7:44 PM,7:39,Iguodala Free Throw 1 of 2 (4 PTS),,,6 - 9,3
+0020601147,40,3,12,1,7:44 PM,7:39,Iguodala Free Throw 2 of 2 (5 PTS),,,6 - 10,4
+0020601147,41,6,2,1,7:45 PM,7:32,Iguodala S.FOUL (P1.T1),,,,
+0020601147,42,3,11,1,7:45 PM,7:32,,,Wright Free Throw 1 of 2 (1 PTS),7 - 10,3
+0020601147,43,3,12,1,7:45 PM,7:32,,,MISS Wright Free Throw 2 of 2,,
+0020601147,44,4,0,1,7:45 PM,7:30,Dalembert REBOUND (Off:0 Def:3),,,,
+0020601147,45,1,43,1,7:46 PM,7:15,Dalembert  Alley Oop Layup (6 PTS) (Iguodala 3 AST),,,7 - 12,5
+0020601147,46,1,1,1,7:46 PM,6:57,,,Williams 20' Jump Shot (2 PTS) (Lue 2 AST),9 - 12,3
+0020601147,47,1,5,1,7:46 PM,6:38,Hunter  Layup (3 PTS) (Dalembert 1 AST),,,9 - 14,5
+0020601147,48,2,1,1,7:47 PM,6:20,,,MISS Smith 24' 3PT Jump Shot,,
+0020601147,49,4,0,1,7:47 PM,6:18,,,Lue REBOUND (Off:1 Def:0),,
+0020601147,50,1,1,1,7:47 PM,6:16,,,Lue 19' Jump Shot (4 PTS),11 - 14,3
+0020601147,51,2,1,1,7:47 PM,5:58,MISS Hunter 9' Jump Shot,,Wright BLOCK (1 BLK),,
+0020601147,52,4,0,1,7:47 PM,5:56,Miller REBOUND (Off:4 Def:0),,,,
+0020601147,53,2,1,1,7:47 PM,5:52,MISS Green 26' 3PT Jump Shot,,,,
+0020601147,54,4,0,1,7:47 PM,5:51,,,Lue REBOUND (Off:1 Def:1),,
+0020601147,55,1,1,1,7:47 PM,5:47,,,Williams 9' Jump Shot (4 PTS) (Lue 3 AST),13 - 14,1
+0020601147,56,6,2,1,7:47 PM,5:47,Green S.FOUL (P1.T2),,,,
+0020601147,57,9,1,1,7:47 PM,5:47,76ERS Timeout: Regular (Full 1 Short 0),,,,
+0020601147,59,3,10,1,7:48 PM,5:47,,,Williams Free Throw 1 of 1 (5 PTS),14 - 14,TIE
+0020601147,60,8,0,1,7:50 PM,5:47,,,SUB: Johnson FOR Wright,,
+0020601147,62,2,1,1,7:51 PM,5:26,MISS Dalembert 15' Jump Shot,,,,
+0020601147,63,4,0,1,7:51 PM,5:24,,,Smith REBOUND (Off:0 Def:1),,
+0020601147,64,6,17,1,7:51 PM,5:09,76ERS T.Foul (Def. 3 Sec Miller ),,,,
+0020601147,65,3,16,1,7:51 PM,5:09,,,Lue Free Throw Technical (5 PTS),15 - 14,-1
+0020601147,66,8,0,1,7:51 PM,5:09,SUB: Carney FOR Green,,,,
+0020601147,67,6,1,1,7:52 PM,4:59,Carney P.FOUL (P1.T3),,,,
+0020601147,68,2,5,1,7:52 PM,4:50,,,MISS Smith  Layup,,
+0020601147,70,4,0,1,7:52 PM,4:49,,,Jones REBOUND (Off:1 Def:0),,
+0020601147,69,1,4,1,7:52 PM,4:49,,,Jones  Tip Shot (4 PTS),17 - 14,-3
+0020601147,71,1,1,1,7:52 PM,4:29,Carney 18' Jump Shot (2 PTS),,,17 - 16,-1
+0020601147,72,2,1,1,7:53 PM,4:17,,,MISS Johnson 24' 3PT Jump Shot,,
+0020601147,73,4,0,1,7:53 PM,4:15,76ERS Rebound,,,,
+0020601147,74,2,3,1,7:53 PM,3:50,MISS Hunter 10' Hook Shot,,,,
+0020601147,75,4,0,1,7:53 PM,3:48,,,Lue REBOUND (Off:1 Def:2),,
+0020601147,76,1,46,1,7:53 PM,3:44,,,Lue 12' Running Jump Shot (7 PTS),19 - 16,-3
+0020601147,77,2,3,1,7:54 PM,3:18,MISS Dalembert 6' Hook Shot,,,,
+0020601147,78,4,0,1,7:54 PM,3:17,,,Smith REBOUND (Off:0 Def:2),,
+0020601147,79,1,7,1,7:54 PM,3:13,,,Jones  Dunk (6 PTS) (Smith 1 AST),21 - 16,-5
+0020601147,80,6,2,1,7:54 PM,3:13,Dalembert S.FOUL (P1.T4),,,,
+0020601147,81,8,0,1,7:54 PM,3:13,SUB: Smith FOR Dalembert,,,,
+0020601147,82,3,10,1,7:54 PM,3:13,,,Jones Free Throw 1 of 1 (7 PTS),22 - 16,-6
+0020601147,83,2,1,1,7:55 PM,2:54,MISS Carney 24' 3PT Jump Shot,,,,
+0020601147,84,4,0,1,7:55 PM,2:53,Hunter REBOUND (Off:2 Def:0),,,,
+0020601147,85,9,1,1,7:55 PM,2:53,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0020601147,86,6,1,1,7:55 PM,2:53,,,Smith P.FOUL (P1.PN),,
+0020601147,88,8,0,1,7:57 PM,2:53,,,SUB: Shel. Williams FOR Smith,,
+0020601147,89,3,11,1,7:57 PM,2:53,Hunter Free Throw 1 of 2 (4 PTS),,,22 - 17,-5
+0020601147,90,3,12,1,7:58 PM,2:53,Hunter Free Throw 2 of 2 (5 PTS),,,22 - 18,-4
+0020601147,91,2,5,1,7:58 PM,2:37,,,MISS Johnson  Layup,,
+0020601147,92,4,0,1,7:58 PM,2:35,Iguodala REBOUND (Off:0 Def:1),,,,
+0020601147,93,5,4,1,7:58 PM,2:32,Iguodala Traveling Turnover (P1.T2),,,,
+0020601147,94,8,0,1,7:59 PM,2:32,SUB: Williams FOR Iguodala,,,,
+0020601147,95,8,0,1,7:59 PM,2:32,SUB: Green FOR Miller,,,,
+0020601147,96,1,1,1,7:59 PM,2:11,,,Lue 26' 3PT Jump Shot (10 PTS) (Williams 1 AST),25 - 18,-7
+0020601147,97,2,1,1,7:59 PM,1:51,MISS Green 25' 3PT Jump Shot,,,,
+0020601147,98,4,0,1,7:59 PM,1:48,,,Lue REBOUND (Off:1 Def:3),,
+0020601147,99,1,1,1,8:00 PM,1:41,,,Lue 19' Jump Shot (12 PTS),27 - 18,-9
+0020601147,100,1,42,1,8:00 PM,1:18,Carney  Driving Layup (4 PTS) (Williams 1 AST),,,27 - 20,-7
+0020601147,101,1,8,1,8:00 PM,1:12,,,Jones  Slam Dunk (9 PTS) (Johnson 1 AST),29 - 20,-9
+0020601147,102,1,5,1,8:00 PM,0:50,Smith  Layup (2 PTS) (Hunter 1 AST),,,29 - 22,-7
+0020601147,103,5,1,1,8:00 PM,0:47,,,Johnson Bad Pass Turnover (P1.T3),,
+0020601147,104,2,1,1,8:01 PM,0:30,MISS Smith 14' Jump Shot,,,,
+0020601147,105,4,0,1,8:01 PM,0:28,,,Shel. Williams REBOUND (Off:0 Def:1),,
+0020601147,106,6,2,1,8:01 PM,0:11,Williams S.FOUL (P1.PN),,,,
+0020601147,107,3,11,1,8:01 PM,0:11,,,MISS Lue Free Throw 1 of 2,,
+0020601147,108,4,1,1,8:01 PM,0:11,,,Hawks Rebound,,
+0020601147,109,3,12,1,8:02 PM,0:11,,,Lue Free Throw 2 of 2 (13 PTS),30 - 22,-8
+0020601147,110,1,1,1,8:02 PM,0:00,Williams 20' Jump Shot (2 PTS),,,30 - 24,-6
+0020601147,112,18,0,1,8:02 PM,0:00,,,,30 - 24,-6
+0020601147,113,13,0,1,8:02 PM,0:00,,,,30 - 24,-6
+0020601147,117,12,0,2,8:05 PM,12:00,,,,30 - 24,-6
+0020601147,118,6,4,2,8:06 PM,11:42,Dalembert OFF.Foul (P2),,,,
+0020601147,119,5,5,2,8:06 PM,11:42,Dalembert Foul Turnover (P1.T3),,,,
+0020601147,120,6,1,2,8:06 PM,11:30,Dalembert P.FOUL (P3.T1),,,,
+0020601147,121,8,0,2,8:07 PM,11:30,SUB: Amundson FOR Dalembert,,,,
+0020601147,122,2,1,2,8:07 PM,11:18,,,MISS Johnson 18' Jump Shot,,
+0020601147,123,4,0,2,8:07 PM,11:16,Smith REBOUND (Off:0 Def:1),,,,
+0020601147,124,1,44,2,8:07 PM,11:00,Williams  Reverse Layup (4 PTS) (Amundson 1 AST),,,30 - 26,-4
+0020601147,125,6,2,2,8:07 PM,11:00,,,Jones S.FOUL (P2.T1),,
+0020601147,126,8,0,2,8:08 PM,11:00,,,SUB: Williams FOR Jones,,
+0020601147,127,3,10,2,8:08 PM,11:00,MISS Williams Free Throw 1 of 1,,,,
+0020601147,128,4,0,2,8:08 PM,10:59,,,Shel. Williams REBOUND (Off:0 Def:2),,
+0020601147,129,1,46,2,8:08 PM,10:43,,,Smith 9' Running Jump Shot (4 PTS),32 - 26,-6
+0020601147,130,1,46,2,8:08 PM,10:26,Carney 13' Running Jump Shot (6 PTS),,,32 - 28,-4
+0020601147,131,2,1,2,8:09 PM,10:00,,,MISS Smith 5' Jump Shot,,
+0020601147,132,4,0,2,8:09 PM,9:58,Smith REBOUND (Off:0 Def:2),,,,
+0020601147,133,6,1,2,8:09 PM,9:58,,,Smith P.FOUL (P2.T2),,
+0020601147,134,8,0,2,8:09 PM,9:58,,,SUB: Ivey FOR Lue,,
+0020601147,135,6,1,2,8:09 PM,9:48,,,Ivey P.FOUL (P1.T3),,
+0020601147,136,2,63,2,8:10 PM,9:41,MISS Smith 12' Fadeaway Jumper,,,,
+0020601147,137,4,0,2,8:10 PM,9:39,,,Shel. Williams REBOUND (Off:0 Def:3),,
+0020601147,139,7,2,2,8:10 PM,9:27,Amundson Violation:Defensive Goaltending,,,,
+0020601147,138,1,42,2,8:10 PM,9:27,,,Ivey  Driving Layup (2 PTS) (Williams 2 AST),34 - 28,-6
+0020601147,140,2,1,2,8:11 PM,9:07,MISS Green 11' Jump Shot,,,,
+0020601147,141,4,0,2,8:11 PM,9:05,Amundson REBOUND (Off:1 Def:0),,,,
+0020601147,142,6,2,2,8:11 PM,8:52,,,Smith S.FOUL (P3.T4),,
+0020601147,143,9,4,2,8:11 PM,8:52,,,,,
+0020601147,145,3,11,2,8:11 PM,8:52,Smith Free Throw 1 of 2 (3 PTS),,,34 - 29,-5
+0020601147,146,8,0,2,8:13 PM,8:52,,,SUB: Medvedenko FOR Smith,,
+0020601147,147,3,12,2,8:14 PM,8:52,Smith Free Throw 2 of 2 (4 PTS),,,34 - 30,-4
+0020601147,148,2,1,2,8:15 PM,8:35,Amundson BLOCK (1 BLK),,MISS Ivey 4' Jump Shot,,
+0020601147,149,4,0,2,8:15 PM,8:34,Carney REBOUND (Off:0 Def:1),,,,
+0020601147,150,6,2,2,8:15 PM,8:32,,,Johnson S.FOUL (P1.PN),,
+0020601147,151,3,11,2,8:15 PM,8:32,Carney Free Throw 1 of 2 (7 PTS),,,34 - 31,-3
+0020601147,152,8,0,2,8:15 PM,8:32,SUB: Jones FOR Green,,,,
+0020601147,153,3,12,2,8:15 PM,8:32,Carney Free Throw 2 of 2 (8 PTS),,,34 - 32,-2
+0020601147,154,6,1,2,8:16 PM,8:15,Amundson P.FOUL (P1.T2),,,,
+0020601147,155,5,1,2,8:16 PM,8:01,Williams STEAL (1 STL),,Johnson Bad Pass Turnover (P2.T4),,
+0020601147,156,6,2,2,8:16 PM,7:59,,,Ivey S.FOUL (P2.PN),,
+0020601147,157,3,11,2,8:17 PM,7:59,Williams Free Throw 1 of 2 (5 PTS),,,34 - 33,-1
+0020601147,158,3,12,2,8:17 PM,7:59,MISS Williams Free Throw 2 of 2,,,,
+0020601147,159,4,0,2,8:17 PM,7:57,,,Medvedenko REBOUND (Off:0 Def:1),,
+0020601147,160,1,1,2,8:17 PM,7:37,,,Williams 16' Jump Shot (7 PTS) (Medvedenko 1 AST),36 - 33,-3
+0020601147,161,2,1,2,8:18 PM,7:15,MISS Carney 27' 3PT Jump Shot,,,,
+0020601147,162,4,0,2,8:18 PM,7:14,Jones REBOUND (Off:1 Def:0),,,,
+0020601147,163,2,5,2,8:18 PM,7:11,MISS Jones  Layup,,,,
+0020601147,164,4,0,2,8:18 PM,7:11,,,Medvedenko REBOUND (Off:0 Def:2),,
+0020601147,165,6,1,2,8:18 PM,7:11,Smith P.FOUL (P1.T3),,,,
+0020601147,166,2,1,2,8:18 PM,6:46,,,MISS Johnson 11' Jump Shot,,
+0020601147,167,4,0,2,8:18 PM,6:44,,,Ivey REBOUND (Off:1 Def:0),,
+0020601147,168,1,3,2,8:18 PM,6:42,,,Medvedenko 3' Hook Shot (2 PTS),38 - 33,-5
+0020601147,169,5,4,2,8:19 PM,6:17,Jones Traveling Turnover (P1.T4),,,,
+0020601147,170,1,1,2,8:19 PM,6:00,,,Medvedenko 15' Jump Shot (4 PTS) (Johnson 2 AST),40 - 33,-7
+0020601147,171,9,1,2,8:19 PM,5:53,76ERS Timeout: Regular (Full 2 Short 0),,,,
+0020601147,174,8,0,2,8:22 PM,5:53,SUB: Miller FOR Williams,,,,
+0020601147,175,8,0,2,8:22 PM,5:53,SUB: Iguodala FOR Carney,,,,
+0020601147,176,8,0,2,8:22 PM,5:53,,,SUB: Lue FOR Johnson,,
+0020601147,177,2,1,2,8:22 PM,5:43,MISS Iguodala 17' Jump Shot,,,,
+0020601147,178,4,0,2,8:22 PM,5:40,,,Williams REBOUND (Off:0 Def:2),,
+0020601147,179,6,1,2,8:22 PM,5:32,Jones P.FOUL (P1.T4),,,,
+0020601147,180,2,1,2,8:23 PM,5:17,,,MISS Lue 13' Jump Shot,,
+0020601147,181,4,0,2,8:23 PM,5:15,,,Lue REBOUND (Off:2 Def:3),,
+0020601147,182,2,1,2,8:23 PM,5:13,,,MISS Lue 15' Jump Shot,,
+0020601147,183,4,0,2,8:23 PM,5:11,Amundson REBOUND (Off:1 Def:1),,,,
+0020601147,184,6,17,2,8:23 PM,5:04,,,Hawks T.Foul (Def. 3 Sec Shel. Williams ),,
+0020601147,185,3,16,2,8:23 PM,5:04,Iguodala Free Throw Technical (6 PTS),,,40 - 34,-6
+0020601147,186,2,5,2,8:24 PM,4:57,MISS Amundson  Layup,,Medvedenko BLOCK (1 BLK),,
+0020601147,187,4,0,2,8:24 PM,4:54,Amundson REBOUND (Off:2 Def:1),,,,
+0020601147,188,2,3,2,8:24 PM,4:53,MISS Amundson 4' Hook Shot,,,,
+0020601147,189,4,0,2,8:24 PM,4:52,,,Shel. Williams REBOUND (Off:0 Def:4),,
+0020601147,190,6,4,2,8:24 PM,4:45,,,Shel. Williams OFF.Foul (P1),,
+0020601147,191,5,5,2,8:24 PM,4:45,,,Shel. Williams Foul Turnover (P1.T5),,
+0020601147,192,1,5,2,8:24 PM,4:31,Iguodala  Layup (8 PTS),,,40 - 36,-4
+0020601147,193,6,2,2,8:25 PM,4:12,Amundson S.FOUL (P2.PN),,,,
+0020601147,194,8,0,2,8:25 PM,4:12,SUB: Hunter FOR Amundson,,,,
+0020601147,195,3,11,2,8:25 PM,4:12,,,Medvedenko Free Throw 1 of 2 (5 PTS),41 - 36,-5
+0020601147,196,3,12,2,8:25 PM,4:12,,,Medvedenko Free Throw 2 of 2 (6 PTS),42 - 36,-6
+0020601147,197,6,17,2,8:26 PM,3:56,,,Hawks T.Foul (Def. 3 Sec Medvedenko ),,
+0020601147,198,3,16,2,8:26 PM,3:56,Iguodala Free Throw Technical (9 PTS),,,42 - 37,-5
+0020601147,199,2,3,2,8:27 PM,3:44,MISS Jones 2' Hook Shot,,,,
+0020601147,200,4,0,2,8:27 PM,3:44,,,Medvedenko REBOUND (Off:0 Def:3),,
+0020601147,201,6,3,2,8:27 PM,3:44,Jones L.B.FOUL (P2.PN),,,,
+0020601147,202,3,11,2,8:27 PM,3:44,,,Medvedenko Free Throw 1 of 2 (7 PTS),43 - 37,-6
+0020601147,203,3,12,2,8:27 PM,3:44,,,Medvedenko Free Throw 2 of 2 (8 PTS),44 - 37,-7
+0020601147,204,1,7,2,8:28 PM,3:27,Iguodala  Dunk (11 PTS) (Miller 2 AST),,,44 - 39,-5
+0020601147,205,1,66,2,8:28 PM,3:05,,,Williams 5' Jump Bank Shot (9 PTS) (Lue 4 AST),46 - 39,-7
+0020601147,206,2,3,2,8:29 PM,2:45,MISS Smith 4' Hook Shot,,,,
+0020601147,207,4,0,2,8:29 PM,2:43,,,Williams REBOUND (Off:0 Def:3),,
+0020601147,208,6,2,2,8:29 PM,2:28,Hunter S.FOUL (P1.PN),,,,
+0020601147,209,9,1,2,8:29 PM,2:28,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0020601147,211,3,11,2,8:29 PM,2:28,,,MISS Shel. Williams Free Throw 1 of 2,,
+0020601147,214,4,1,2,8:29 PM,2:28,,,Hawks Rebound,,
+0020601147,212,8,0,2,8:31 PM,2:28,SUB: Amundson FOR Smith,,,,
+0020601147,213,8,0,2,8:31 PM,2:28,SUB: Green FOR Jones,,,,
+0020601147,215,3,12,2,8:32 PM,2:28,,,Shel. Williams Free Throw 2 of 2 (1 PTS),47 - 39,-8
+0020601147,216,2,1,2,8:33 PM,2:07,MISS Miller 16' Jump Shot,,,,
+0020601147,217,4,0,2,8:33 PM,2:05,,,Williams REBOUND (Off:0 Def:4),,
+0020601147,218,2,1,2,8:33 PM,1:59,,,MISS Ivey 17' Jump Shot,,
+0020601147,219,4,0,2,8:33 PM,1:57,,,Shel. Williams REBOUND (Off:1 Def:4),,
+0020601147,220,2,1,2,8:33 PM,1:42,,,MISS Medvedenko 20' Jump Shot,,
+0020601147,221,4,0,2,8:33 PM,1:40,,,Williams REBOUND (Off:1 Def:4),,
+0020601147,222,1,1,2,8:33 PM,1:37,,,Ivey 17' Jump Shot (4 PTS) (Williams 3 AST),49 - 39,-10
+0020601147,223,2,1,2,8:33 PM,1:18,MISS Miller 15' Jump Shot,,,,
+0020601147,224,4,0,2,8:33 PM,1:17,,,Williams REBOUND (Off:1 Def:5),,
+0020601147,225,1,1,2,8:34 PM,1:00,,,Lue 14' Jump Shot (15 PTS),51 - 39,-12
+0020601147,226,2,1,2,8:34 PM,0:47,MISS Green 15' Jump Shot,,,,
+0020601147,227,4,0,2,8:34 PM,0:45,,,Shel. Williams REBOUND (Off:1 Def:5),,
+0020601147,228,6,4,2,8:34 PM,0:33,,,Shel. Williams OFF.Foul (P2),,
+0020601147,229,5,5,2,8:34 PM,0:33,,,Shel. Williams Foul Turnover (P2.T6),,
+0020601147,230,6,2,2,8:35 PM,0:21,,,Shel. Williams S.FOUL (P3.PN),,
+0020601147,231,3,11,2,8:35 PM,0:21,Iguodala Free Throw 1 of 2 (12 PTS),,,51 - 40,-11
+0020601147,233,8,0,2,8:35 PM,0:21,,,SUB: Johnson FOR Shel. Williams,,
+0020601147,234,8,0,2,8:35 PM,0:21,SUB: Williams FOR Amundson,,,,
+0020601147,235,3,12,2,8:35 PM,0:21,Iguodala Free Throw 2 of 2 (13 PTS),,,51 - 41,-10
+0020601147,236,9,2,2,8:36 PM,0:21,,,Hawks Timeout: Short (Reg.2 Short 1),,
+0020601147,237,2,1,2,8:37 PM,0:01,,,MISS Lue 5' Jump Shot,,
+0020601147,239,4,0,2,8:37 PM,0:01,,,Medvedenko REBOUND (Off:1 Def:3),,
+0020601147,238,1,4,2,8:37 PM,0:01,,,Medvedenko  Tip Shot (10 PTS),53 - 41,-12
+0020601147,240,2,1,2,8:38 PM,0:00,MISS Green 49' 3PT Jump Shot,,,,
+0020601147,241,4,0,2,8:38 PM,0:00,76ERS Rebound,,,,
+0020601147,242,13,0,2,8:38 PM,0:00,,,,53 - 41,-12
+0020601147,245,12,0,3,8:53 PM,12:00,,,,53 - 41,-12
+0020601147,246,7,5,3,8:54 PM,11:47,,,Wright Violation:Kicked Ball,,
+0020601147,247,6,2,3,8:54 PM,11:38,,,Jones S.FOUL (P3.T1),,
+0020601147,248,3,11,3,8:54 PM,11:38,Dalembert Free Throw 1 of 2 (7 PTS),,,53 - 42,-11
+0020601147,249,3,12,3,8:55 PM,11:38,Dalembert Free Throw 2 of 2 (8 PTS),,,53 - 43,-10
+0020601147,250,2,5,3,8:55 PM,11:19,,,MISS Smith  Layup,,
+0020601147,251,4,0,3,8:55 PM,11:18,,,Jones REBOUND (Off:2 Def:0),,
+0020601147,252,2,5,3,8:55 PM,11:17,,,MISS Jones  Layup,,
+0020601147,253,4,0,3,8:55 PM,11:17,,,Hawks Rebound,,
+0020601147,254,6,3,3,8:55 PM,11:17,Hunter L.B.FOUL (P2.T1),,,,
+0020601147,255,2,1,3,8:56 PM,11:03,,,MISS Williams 18' Jump Shot,,
+0020601147,256,4,0,3,8:56 PM,11:03,,,Hawks Rebound,,
+0020601147,257,5,1,3,8:56 PM,11:01,Green STEAL (1 STL),,Smith Bad Pass Turnover (P2.T7),,
+0020601147,258,5,1,3,8:56 PM,10:58,Green Bad Pass Turnover (P1.T5),,Williams STEAL (1 STL),,
+0020601147,259,2,1,3,8:56 PM,10:53,,,MISS Smith 7' Jump Shot,,
+0020601147,261,4,0,3,8:56 PM,10:51,,,Smith REBOUND (Off:1 Def:2),,
+0020601147,260,1,5,3,8:56 PM,10:51,,,Smith  Layup (6 PTS),55 - 43,-12
+0020601147,262,9,2,3,8:56 PM,10:49,76ERS Timeout: Short (Full 2 Short 1),,,,
+0020601147,263,2,1,3,8:57 PM,10:38,MISS Dalembert 9' Jump Shot,,,,
+0020601147,264,4,0,3,8:57 PM,10:37,,,Lue REBOUND (Off:2 Def:4),,
+0020601147,265,2,5,3,8:58 PM,10:22,Hunter BLOCK (1 BLK),,MISS Williams  Layup,,
+0020601147,266,4,0,3,8:58 PM,10:21,,,Williams REBOUND (Off:2 Def:5),,
+0020601147,267,6,2,3,8:58 PM,10:21,Hunter S.FOUL (P3.T2),,,,
+0020601147,268,3,11,3,8:58 PM,10:21,,,Williams Free Throw 1 of 2 (10 PTS),56 - 43,-13
+0020601147,269,3,12,3,8:58 PM,10:21,,,MISS Williams Free Throw 2 of 2,,
+0020601147,270,4,0,3,8:58 PM,10:19,Dalembert REBOUND (Off:0 Def:4),,,,
+0020601147,271,1,8,3,8:58 PM,10:10,Green  Slam Dunk (2 PTS) (Iguodala 4 AST),,,56 - 45,-11
+0020601147,272,2,1,3,8:59 PM,9:56,,,MISS Smith 16' Jump Shot,,
+0020601147,273,4,0,3,8:59 PM,9:54,Green REBOUND (Off:0 Def:1),,,,
+0020601147,274,2,1,3,8:59 PM,9:48,MISS Dalembert 12' Jump Shot,,,,
+0020601147,275,4,0,3,8:59 PM,9:46,,,Jones REBOUND (Off:2 Def:1),,
+0020601147,276,1,5,3,8:59 PM,9:42,,,Williams  Layup (12 PTS) (Jones 1 AST),58 - 45,-13
+0020601147,277,5,40,3,8:59 PM,9:21,Dalembert Out of Bounds Lost Ball Turnover (P2.T6),,,,
+0020601147,278,1,5,3,9:00 PM,9:15,,,Wright  Layup (3 PTS) (Smith 2 AST),60 - 45,-15
+0020601147,279,5,1,3,9:00 PM,8:55,Dalembert Bad Pass Turnover (P3.T7),,Wright STEAL (2 STL),,
+0020601147,280,1,7,3,9:00 PM,8:49,,,Jones  Dunk (11 PTS) (Smith 3 AST),62 - 45,-17
+0020601147,281,9,1,3,9:00 PM,8:36,76ERS Timeout: Regular (Full 3 Short 1),,,,
+0020601147,282,8,0,3,9:03 PM,8:36,SUB: Smith FOR Dalembert,,,,
+0020601147,283,6,2,3,9:03 PM,8:24,,,Wright S.FOUL (P2.T2),,
+0020601147,284,3,11,3,9:03 PM,8:24,Smith Free Throw 1 of 2 (5 PTS),,,62 - 46,-16
+0020601147,285,3,12,3,9:04 PM,8:24,Smith Free Throw 2 of 2 (6 PTS),,,62 - 47,-15
+0020601147,286,6,1,3,9:04 PM,8:23,Green P.FOUL (P2.T3),,,,
+0020601147,287,1,43,3,9:05 PM,8:04,,,Smith  Alley Oop Layup (8 PTS) (Williams 4 AST),64 - 47,-17
+0020601147,288,2,1,3,9:05 PM,7:48,MISS Green 26' 3PT Jump Shot,,,,
+0020601147,290,4,0,3,9:05 PM,7:46,Smith REBOUND (Off:1 Def:2),,,,
+0020601147,289,1,5,3,9:05 PM,7:46,Smith  Layup (8 PTS),,,64 - 49,-15
+0020601147,291,6,1,3,9:05 PM,7:31,Miller P.FOUL (P1.T4),,,,
+0020601147,292,2,1,3,9:06 PM,7:23,,,MISS Wright 17' Jump Shot,,
+0020601147,293,4,0,3,9:06 PM,7:21,Miller REBOUND (Off:4 Def:1),,,,
+0020601147,294,1,1,3,9:06 PM,7:08,Green 20' Jump Shot (4 PTS) (Miller 3 AST),,,64 - 51,-13
+0020601147,295,2,1,3,9:06 PM,6:40,,,MISS Lue 25' 3PT Jump Shot,,
+0020601147,296,4,0,3,9:07 PM,6:38,,,Hawks Rebound,,
+0020601147,297,9,1,3,9:07 PM,6:38,,,Hawks Timeout: Regular (Reg.3 Short 1),,
+0020601147,298,8,0,3,9:07 PM,6:38,,,SUB: Johnson FOR Wright,,
+0020601147,299,2,1,3,9:09 PM,6:32,,,MISS Lue 19' Jump Shot,,
+0020601147,300,4,0,3,9:09 PM,6:30,Smith REBOUND (Off:1 Def:3),,,,
+0020601147,301,6,2,3,9:09 PM,6:22,,,Johnson S.FOUL (P2.T3),,
+0020601147,302,3,11,3,9:10 PM,6:22,Iguodala Free Throw 1 of 2 (14 PTS),,,64 - 52,-12
+0020601147,303,3,12,3,9:10 PM,6:22,Iguodala Free Throw 2 of 2 (15 PTS),,,64 - 53,-11
+0020601147,304,2,5,3,9:10 PM,6:02,,,MISS Jones  Layup,,
+0020601147,305,4,0,3,9:10 PM,6:00,Smith REBOUND (Off:1 Def:4),,,,
+0020601147,306,2,1,3,9:11 PM,5:55,MISS Iguodala 16' Jump Shot,,,,
+0020601147,307,4,0,3,9:11 PM,5:53,,,Williams REBOUND (Off:2 Def:6),,
+0020601147,308,1,1,3,9:11 PM,5:40,,,Smith 19' Jump Shot (10 PTS) (Lue 5 AST),66 - 53,-13
+0020601147,309,1,1,3,9:11 PM,5:22,Green 16' Jump Shot (6 PTS) (Hunter 2 AST),,,66 - 55,-11
+0020601147,310,2,5,3,9:11 PM,5:10,Smith BLOCK (1 BLK),,MISS Williams  Layup,,
+0020601147,311,4,0,3,9:11 PM,5:08,,,Lue REBOUND (Off:3 Def:4),,
+0020601147,312,6,2,3,9:11 PM,5:06,Smith S.FOUL (P2.PN),,,,
+0020601147,313,3,11,3,9:12 PM,5:06,,,Williams Free Throw 1 of 2 (13 PTS),67 - 55,-12
+0020601147,314,8,0,3,9:12 PM,5:06,,,SUB: Shel. Williams FOR Jones,,
+0020601147,315,8,0,3,9:12 PM,5:06,SUB: Carney FOR Hunter,,,,
+0020601147,316,3,12,3,9:12 PM,5:06,,,Williams Free Throw 2 of 2 (14 PTS),68 - 55,-13
+0020601147,318,1,3,3,9:12 PM,4:52,Smith 6' Hook Shot (10 PTS) (Miller 4 AST),,,68 - 57,-11
+0020601147,319,1,44,3,9:13 PM,4:39,,,Johnson  Reverse Layup (2 PTS),70 - 57,-13
+0020601147,320,5,1,3,9:13 PM,4:29,Green Bad Pass Turnover (P2.T8),,Shel. Williams STEAL (1 STL),,
+0020601147,321,5,1,3,9:13 PM,4:25,Green STEAL (2 STL),,Lue Bad Pass Turnover (P2.T8),,
+0020601147,322,2,5,3,9:13 PM,4:19,MISS Miller  Layup,,,,
+0020601147,324,4,0,3,9:13 PM,4:18,Iguodala REBOUND (Off:1 Def:1),,,,
+0020601147,323,1,7,3,9:13 PM,4:18,Iguodala  Dunk (17 PTS),,,70 - 59,-11
+0020601147,325,5,1,3,9:13 PM,4:01,,,Johnson Bad Pass Turnover (P3.T9),,
+0020601147,326,2,1,3,9:14 PM,3:43,MISS Smith 19' Jump Shot,,,,
+0020601147,327,4,0,3,9:14 PM,3:41,,,Shel. Williams REBOUND (Off:1 Def:6),,
+0020601147,328,6,2,3,9:14 PM,3:20,Carney S.FOUL (P2.PN),,,,
+0020601147,329,8,0,3,9:14 PM,3:20,SUB: Williams FOR Green,,,,
+0020601147,330,3,11,3,9:14 PM,3:20,,,MISS Shel. Williams Free Throw 1 of 2,,
+0020601147,331,4,1,3,9:14 PM,3:20,,,Hawks Rebound,,
+0020601147,332,3,12,3,9:15 PM,3:20,,,MISS Shel. Williams Free Throw 2 of 2,,
+0020601147,333,4,0,3,9:15 PM,3:19,Carney REBOUND (Off:0 Def:2),,,,
+0020601147,334,1,42,3,9:15 PM,2:59,Miller  Driving Layup (2 PTS),,,70 - 61,-9
+0020601147,335,5,2,3,9:16 PM,2:31,Miller STEAL (1 STL),,Williams Lost Ball Turnover (P1.T10),,
+0020601147,336,1,44,3,9:16 PM,2:27,Williams  Reverse Layup (7 PTS) (Iguodala 5 AST),,,70 - 63,-7
+0020601147,337,6,2,3,9:16 PM,2:08,Miller S.FOUL (P2.PN),,,,
+0020601147,338,3,11,3,9:16 PM,2:08,,,Smith Free Throw 1 of 2 (11 PTS),71 - 63,-8
+0020601147,339,8,0,3,9:17 PM,2:08,,,SUB: Medvedenko FOR Williams,,
+0020601147,340,3,12,3,9:17 PM,2:08,,,Smith Free Throw 2 of 2 (12 PTS),72 - 63,-9
+0020601147,341,1,1,3,9:17 PM,1:54,Smith 16' Jump Shot (12 PTS) (Williams 2 AST),,,72 - 65,-7
+0020601147,342,5,1,3,9:17 PM,1:41,Carney STEAL (1 STL),,Smith Bad Pass Turnover (P3.T11),,
+0020601147,343,6,1,3,9:17 PM,1:40,,,Medvedenko P.FOUL (P1.T4),,
+0020601147,344,2,5,3,9:18 PM,1:23,MISS Iguodala  Layup,,Smith BLOCK (1 BLK),,
+0020601147,345,10,0,3,9:18 PM,1:23,Jump Ball Carney vs. Lue: Tip to Smith,,,,
+0020601147,346,4,0,3,9:18 PM,1:23,76ERS Rebound,,,,
+0020601147,347,2,1,3,9:18 PM,1:14,MISS Miller 26' 3PT Jump Shot,,,,
+0020601147,348,4,0,3,9:18 PM,1:12,,,Johnson REBOUND (Off:0 Def:1),,
+0020601147,349,1,7,3,9:19 PM,0:53,,,Shel. Williams  Dunk (3 PTS) (Lue 6 AST),74 - 65,-9
+0020601147,350,6,2,3,9:19 PM,0:40,,,Medvedenko S.FOUL (P2.PN),,
+0020601147,351,3,11,3,9:19 PM,0:40,Iguodala Free Throw 1 of 2 (18 PTS),,,74 - 66,-8
+0020601147,352,8,0,3,9:20 PM,0:40,,,SUB: Williams FOR Lue,,
+0020601147,353,3,12,3,9:20 PM,0:40,Iguodala Free Throw 2 of 2 (19 PTS),,,74 - 67,-7
+0020601147,354,2,1,3,9:20 PM,0:22,,,MISS Smith 27' 3PT Jump Shot,,
+0020601147,355,4,0,3,9:20 PM,0:20,Carney REBOUND (Off:0 Def:3),,,,
+0020601147,356,1,1,3,9:21 PM,0:01,Carney 26' 3PT Jump Shot (11 PTS) (Iguodala 6 AST),,,74 - 70,-4
+0020601147,357,2,1,3,9:21 PM,0:00,,,MISS Williams 44' 3PT Jump Shot,,
+0020601147,358,4,0,3,9:21 PM,0:00,,,Hawks Rebound,,
+0020601147,359,13,0,3,9:21 PM,0:00,,,,74 - 70,-4
+0020601147,361,12,0,4,9:24 PM,12:00,,,,74 - 70,-4
+0020601147,362,6,2,4,9:24 PM,11:51,Smith S.FOUL (P3.T1),,,,
+0020601147,363,3,11,4,9:24 PM,11:51,,,Medvedenko Free Throw 1 of 2 (11 PTS),75 - 70,-5
+0020601147,364,8,0,4,9:25 PM,11:51,SUB: Amundson FOR Smith,,,,
+0020601147,365,3,12,4,9:25 PM,11:51,,,Medvedenko Free Throw 2 of 2 (12 PTS),76 - 70,-6
+0020601147,366,2,1,4,9:26 PM,11:34,MISS Williams 27' 3PT Jump Shot,,,,
+0020601147,367,4,0,4,9:26 PM,11:32,,,Smith REBOUND (Off:1 Def:3),,
+0020601147,368,1,46,4,9:26 PM,11:16,,,Johnson 12' Running Jump Shot (4 PTS),78 - 70,-8
+0020601147,369,2,1,4,9:26 PM,10:56,MISS Green 19' Jump Shot,,,,
+0020601147,370,4,0,4,9:26 PM,10:55,Williams REBOUND (Off:1 Def:0),,,,
+0020601147,371,6,1,4,9:26 PM,10:55,,,Smith P.FOUL (P4.T1),,
+0020601147,372,8,0,4,9:27 PM,10:55,,,SUB: Lue FOR Smith,,
+0020601147,373,1,42,4,9:27 PM,10:44,Green  Driving Layup (8 PTS) (Miller 5 AST),,,78 - 72,-6
+0020601147,374,6,2,4,9:27 PM,10:44,,,Williams S.FOUL (P2.T2),,
+0020601147,375,3,10,4,9:27 PM,10:44,Green Free Throw 1 of 1 (9 PTS),,,78 - 73,-5
+0020601147,376,6,2,4,9:28 PM,10:21,Miller S.FOUL (P3.T2),,,,
+0020601147,377,3,11,4,9:28 PM,10:21,,,Williams Free Throw 1 of 2 (15 PTS),79 - 73,-6
+0020601147,378,3,12,4,9:28 PM,10:21,,,MISS Williams Free Throw 2 of 2,,
+0020601147,379,4,0,4,9:28 PM,10:21,76ERS Rebound,,,,
+0020601147,380,6,3,4,9:28 PM,10:21,,,Shel. Williams L.B.FOUL (P4.T3),,
+0020601147,382,2,1,4,9:29 PM,10:06,MISS Miller 17' Jump Shot,,,,
+0020601147,383,4,0,4,9:29 PM,10:05,76ERS Rebound,,,,
+0020601147,384,6,1,4,9:29 PM,10:05,,,Medvedenko P.FOUL (P3.T4),,
+0020601147,385,5,2,4,9:29 PM,9:56,Green Lost Ball Turnover (P3.T9),,Shel. Williams STEAL (2 STL),,
+0020601147,386,6,1,4,9:29 PM,9:49,Green P.FOUL (P3.T3),,,,
+0020601147,387,8,0,4,9:30 PM,9:49,SUB: Smith FOR Green,,,,
+0020601147,388,1,1,4,9:30 PM,9:43,,,Williams 17' Jump Shot (17 PTS) (Lue 7 AST),81 - 73,-8
+0020601147,389,2,1,4,9:30 PM,9:28,MISS Carney 26' 3PT Jump Shot,,,,
+0020601147,390,4,0,4,9:30 PM,9:26,,,Medvedenko REBOUND (Off:1 Def:4),,
+0020601147,391,2,1,4,9:30 PM,9:07,,,MISS Johnson 20' Jump Shot,,
+0020601147,392,4,0,4,9:30 PM,9:06,,,Hawks Rebound,,
+0020601147,393,2,1,4,9:31 PM,9:02,,,MISS Shel. Williams 14' Jump Shot,,
+0020601147,394,4,0,4,9:31 PM,9:00,Williams REBOUND (Off:1 Def:1),,,,
+0020601147,395,6,2,4,9:31 PM,8:53,,,Lue S.FOUL (P2.PN),,
+0020601147,396,9,4,4,9:31 PM,8:53,,,,,
+0020601147,397,8,0,4,9:33 PM,8:53,SUB: Jones FOR Miller,,,,
+0020601147,398,3,11,4,9:34 PM,8:53,MISS Amundson Free Throw 1 of 2,,,,
+0020601147,399,4,1,4,9:34 PM,8:53,76ERS Rebound,,,,
+0020601147,400,3,12,4,9:34 PM,8:53,Amundson Free Throw 2 of 2 (1 PTS),,,81 - 74,-7
+0020601147,401,1,1,4,9:34 PM,8:31,,,Medvedenko 20' Jump Shot (14 PTS),83 - 74,-9
+0020601147,402,1,42,4,9:35 PM,8:12,Williams  Driving Layup (9 PTS) (Smith 1 AST),,,83 - 76,-7
+0020601147,406,7,2,4,9:35 PM,7:50,Amundson Violation:Defensive Goaltending,,,,
+0020601147,405,1,42,4,9:35 PM,7:50,,,Lue  Driving Layup (17 PTS),85 - 76,-9
+0020601147,407,1,42,4,9:36 PM,7:29,Jones  Driving Layup (2 PTS) (Williams 3 AST),,,85 - 78,-7
+0020601147,408,6,2,4,9:36 PM,7:29,,,Shel. Williams S.FOUL (P5.PN),,
+0020601147,409,8,0,4,9:36 PM,7:29,SUB: Dalembert FOR Amundson,,,,
+0020601147,410,3,10,4,9:36 PM,7:29,Jones Free Throw 1 of 1 (3 PTS),,,85 - 79,-6
+0020601147,411,8,0,4,9:36 PM,7:29,,,SUB: Smith FOR Shel. Williams,,
+0020601147,412,2,5,4,9:37 PM,7:11,,,MISS Medvedenko  Layup,,
+0020601147,413,4,0,4,9:37 PM,7:09,Jones REBOUND (Off:1 Def:1),,,,
+0020601147,414,1,5,4,9:37 PM,7:06,Dalembert  Layup (10 PTS) (Williams 4 AST),,,85 - 81,-4
+0020601147,415,6,2,4,9:37 PM,7:06,,,Medvedenko S.FOUL (P4.PN),,
+0020601147,416,3,10,4,9:37 PM,7:06,Dalembert Free Throw 1 of 1 (11 PTS),,,85 - 82,-3
+0020601147,417,2,5,4,9:38 PM,6:42,,,MISS Lue  Layup,,
+0020601147,418,4,0,4,9:38 PM,6:41,,,Hawks Rebound,,
+0020601147,419,5,11,4,9:38 PM,6:41,,,Hawks Turnover: Shot Clock (T#12),,
+0020601147,420,2,1,4,9:38 PM,6:25,MISS Jones 19' Jump Shot,,,,
+0020601147,421,4,0,4,9:38 PM,6:23,,,Williams REBOUND (Off:2 Def:7),,
+0020601147,422,1,49,4,9:39 PM,6:06,,,Smith  Driving Dunk (14 PTS),87 - 82,-5
+0020601147,423,9,1,4,9:39 PM,5:57,76ERS Timeout: Regular (Full 4 Short 1),,,,
+0020601147,424,8,0,4,9:41 PM,5:57,,,SUB: Jones FOR Medvedenko,,
+0020601147,425,2,1,4,9:42 PM,5:38,MISS Williams 22' Jump Shot,,,,
+0020601147,426,4,0,4,9:42 PM,5:37,,,Hawks Rebound,,
+0020601147,427,6,3,4,9:42 PM,5:37,Jones L.B.FOUL (P3.T4),,,,
+0020601147,428,8,0,4,9:42 PM,5:37,SUB: Miller FOR Williams,,,,
+0020601147,429,8,0,4,9:42 PM,5:37,SUB: Iguodala FOR Jones,,,,
+0020601147,430,2,1,4,9:42 PM,5:26,,,MISS Smith 14' Jump Shot,,
+0020601147,431,4,0,4,9:42 PM,5:24,Smith REBOUND (Off:1 Def:5),,,,
+0020601147,432,6,2,4,9:42 PM,5:19,,,Williams S.FOUL (P3.PN),,
+0020601147,433,3,11,4,9:42 PM,5:19,Iguodala Free Throw 1 of 2 (20 PTS),,,87 - 83,-4
+0020601147,434,3,12,4,9:43 PM,5:19,Iguodala Free Throw 2 of 2 (21 PTS),,,87 - 84,-3
+0020601147,435,2,1,4,9:43 PM,5:00,,,MISS Williams 13' Jump Shot,,
+0020601147,436,4,0,4,9:44 PM,4:58,Smith REBOUND (Off:1 Def:6),,,,
+0020601147,437,6,4,4,9:44 PM,4:55,Miller OFF.Foul (P4),,,,
+0020601147,438,5,5,4,9:44 PM,4:55,Miller Foul Turnover (P2.T10),,,,
+0020601147,439,1,46,4,9:44 PM,4:43,,,Johnson 11' Running Jump Shot (6 PTS),89 - 84,-5
+0020601147,440,2,1,4,9:44 PM,4:22,MISS Smith 6' Jump Shot,,,,
+0020601147,442,4,0,4,9:44 PM,4:20,Dalembert REBOUND (Off:1 Def:4),,,,
+0020601147,441,1,64,4,9:44 PM,4:20,Dalembert  Follow Up Dunk (13 PTS),,,89 - 86,-3
+0020601147,443,2,5,4,9:45 PM,4:02,Dalembert BLOCK (2 BLK),,MISS Johnson  Layup,,
+0020601147,444,4,0,4,9:45 PM,4:00,Miller REBOUND (Off:4 Def:2),,,,
+0020601147,445,1,8,4,9:45 PM,3:57,Carney  Slam Dunk (13 PTS) (Miller 6 AST),,,89 - 88,-1
+0020601147,446,1,46,4,9:45 PM,3:34,,,Williams 14' Running Jump Shot (19 PTS) (Lue 8 AST),91 - 88,-3
+0020601147,447,2,1,4,9:46 PM,3:16,MISS Carney 29' 3PT Jump Shot,,,,
+0020601147,448,4,0,4,9:46 PM,3:15,Dalembert REBOUND (Off:2 Def:4),,,,
+0020601147,449,6,2,4,9:46 PM,3:15,,,Jones S.FOUL (P4.PN),,
+0020601147,450,3,11,4,9:46 PM,3:15,MISS Dalembert Free Throw 1 of 2,,,,
+0020601147,451,4,1,4,9:46 PM,3:15,76ERS Rebound,,,,
+0020601147,452,3,12,4,9:46 PM,3:15,Dalembert Free Throw 2 of 2 (14 PTS),,,91 - 89,-2
+0020601147,453,2,1,4,9:47 PM,2:55,,,MISS Johnson 26' 3PT Jump Shot,,
+0020601147,454,4,0,4,9:47 PM,2:53,76ERS Rebound,,,,
+0020601147,455,9,1,4,9:47 PM,2:53,,,Hawks Timeout: Regular (Reg.4 Short 1),,
+0020601147,456,2,1,4,9:50 PM,2:31,MISS Smith 15' Jump Shot,,,,
+0020601147,457,4,0,4,9:50 PM,2:30,,,Johnson REBOUND (Off:0 Def:2),,
+0020601147,458,2,1,4,9:50 PM,2:14,Dalembert BLOCK (3 BLK),,MISS Williams 12' Jump Shot,,
+0020601147,459,4,0,4,9:50 PM,2:10,Dalembert REBOUND (Off:2 Def:5),,,,
+0020601147,460,5,2,4,9:50 PM,2:06,Carney Lost Ball Turnover (P1.T11),,Lue STEAL (1 STL),,
+0020601147,461,9,1,4,9:50 PM,2:02,,,Hawks Timeout: Regular (Reg.5 Short 1),,
+0020601147,463,7,2,4,9:53 PM,1:48,Dalembert Violation:Defensive Goaltending,,,,
+0020601147,462,1,3,4,9:53 PM,1:48,,,Smith 4' Hook Shot (16 PTS),93 - 89,-4
+0020601147,464,8,0,4,9:54 PM,1:48,SUB: Green FOR Carney,,,,
+0020601147,465,9,2,4,9:54 PM,1:48,76ERS Timeout: Short (Full 4 Short 2),,,,
+0020601147,466,2,1,4,9:54 PM,1:37,MISS Iguodala  3PT Jump Shot,,,,
+0020601147,467,4,0,4,9:54 PM,1:36,76ERS Rebound,,,,
+0020601147,469,6,2,4,9:55 PM,1:35,,,Jones S.FOUL (P5.PN),,
+0020601147,470,3,11,4,9:55 PM,1:35,Smith Free Throw 1 of 2 (13 PTS),,,93 - 90,-3
+0020601147,471,3,12,4,9:55 PM,1:35,Smith Free Throw 2 of 2 (14 PTS),,,93 - 91,-2
+0020601147,472,9,2,4,9:56 PM,1:13,,,Hawks Timeout: Short (Reg.5 Short 2),,
+0020601147,473,2,1,4,9:57 PM,1:10,,,MISS Lue 19' Jump Shot,,
+0020601147,474,4,0,4,9:57 PM,1:08,Dalembert REBOUND (Off:2 Def:6),,,,
+0020601147,475,1,50,4,9:57 PM,0:56,Iguodala  Running Dunk (23 PTS),,,93 - 93,TIE
+0020601147,476,2,1,4,9:58 PM,0:35,,,MISS Smith 19' Jump Shot,,
+0020601147,477,4,0,4,9:58 PM,0:33,Iguodala REBOUND (Off:1 Def:2),,,,
+0020601147,478,10,0,4,9:58 PM,0:17,Jump Ball Iguodala vs. Johnson: Tip to Lue,,,,
+0020601147,479,5,2,4,9:58 PM,0:17,Iguodala Lost Ball Turnover (P2.T12),,Johnson STEAL (1 STL),,
+0020601147,480,2,1,4,9:59 PM,0:00,,,MISS Lue 15' Jump Shot,,
+0020601147,481,4,0,4,9:59 PM,0:00,Dalembert REBOUND (Off:2 Def:7),,,,
+0020601147,482,13,0,4,9:59 PM,0:00,,,,93 - 93,TIE
+0020601147,484,12,0,5,10:02 PM,5:00,,,,93 - 93,TIE
+0020601147,485,10,0,5,10:02 PM,5:00,Jump Ball Dalembert vs. Jones: Tip to Shel. Williams,,,,
+0020601147,486,1,1,5,10:03 PM,4:40,,,Lue 16' Jump Shot (19 PTS) (Johnson 3 AST),95 - 93,-2
+0020601147,487,1,1,5,10:03 PM,4:23,Green 24' 3PT Jump Shot (12 PTS) (Smith 2 AST),,,95 - 96,1
+0020601147,488,2,1,5,10:03 PM,3:57,,,MISS Williams 17' Jump Shot,,
+0020601147,489,4,0,5,10:03 PM,3:55,Iguodala REBOUND (Off:1 Def:3),,,,
+0020601147,490,2,5,5,10:04 PM,3:47,MISS Miller  Layup,,,,
+0020601147,491,4,0,5,10:04 PM,3:47,76ERS Rebound,,,,
+0020601147,492,6,3,5,10:04 PM,3:47,,,Williams L.B.FOUL (P4.T1),,
+0020601147,493,1,43,5,10:04 PM,3:43,Dalembert  Alley Oop Layup (16 PTS) (Iguodala 7 AST),,,95 - 98,3
+0020601147,494,2,1,5,10:04 PM,3:22,,,MISS Shel. Williams 19' Jump Shot,,
+0020601147,495,4,0,5,10:04 PM,3:20,Dalembert REBOUND (Off:2 Def:8),,,,
+0020601147,496,1,3,5,10:05 PM,3:14,Smith 2' Hook Shot (16 PTS) (Iguodala 8 AST),,,95 - 100,5
+0020601147,497,9,1,5,10:05 PM,3:02,,,Hawks Timeout: Regular (Reg.6 Short 2),,
+0020601147,498,1,46,5,10:07 PM,2:45,,,Johnson 5' Running Jump Shot (8 PTS),97 - 100,3
+0020601147,499,1,1,5,10:07 PM,2:29,Smith 17' Jump Shot (18 PTS) (Green 1 AST),,,97 - 102,5
+0020601147,500,1,1,5,10:08 PM,2:04,,,Williams 18' Jump Shot (21 PTS) (Lue 9 AST),99 - 102,3
+0020601147,501,1,1,5,10:08 PM,1:44,Iguodala 17' Jump Shot (25 PTS) (Smith 3 AST),,,99 - 104,5
+0020601147,503,1,42,5,10:08 PM,1:29,,,Lue  Driving Layup (21 PTS) (Johnson 4 AST),101 - 104,3
+0020601147,504,6,2,5,10:08 PM,1:29,Iguodala S.FOUL (P2.T1),,,,
+0020601147,505,3,10,5,10:08 PM,1:29,,,Lue Free Throw 1 of 1 (22 PTS),102 - 104,2
+0020601147,506,2,1,5,10:09 PM,1:11,MISS Iguodala 15' Jump Shot,,,,
+0020601147,507,4,0,5,10:09 PM,1:09,,,Lue REBOUND (Off:3 Def:5),,
+0020601147,508,5,11,5,10:09 PM,0:46,,,Hawks Turnover: Shot Clock (T#13),,
+0020601147,509,9,1,5,10:10 PM,0:46,76ERS Timeout: Regular (Full 5 Short 2),,,,
+0020601147,510,1,42,5,10:12 PM,0:24,Miller  Driving Layup (4 PTS),,,102 - 106,4
+0020601147,511,9,1,5,10:12 PM,0:24,,,Hawks Timeout: Regular (Reg.7 Short 2),,
+0020601147,512,1,42,5,10:14 PM,0:18,,,Lue  Driving Layup (24 PTS),104 - 106,2
+0020601147,513,6,1,5,10:15 PM,0:17,,,Lue P.FOUL (P3.T2),,
+0020601147,514,9,2,5,10:15 PM,0:17,76ERS Timeout: Short (Full 5 Short 3),,,,
+0020601147,515,6,1,5,10:16 PM,0:15,,,Lue P.FOUL (P4.PN),,
+0020601147,516,3,11,5,10:16 PM,0:15,Miller Free Throw 1 of 2 (5 PTS),,,104 - 107,3
+0020601147,517,3,12,5,10:17 PM,0:15,MISS Miller Free Throw 2 of 2,,,,
+0020601147,518,4,0,5,10:17 PM,0:15,,,Shel. Williams REBOUND (Off:1 Def:7),,
+0020601147,519,9,2,5,10:17 PM,0:15,,,Hawks Timeout: Short (Reg.7 Short 3),,
+0020601147,521,8,0,5,10:18 PM,0:15,,,SUB: Medvedenko FOR Jones,,
+0020601147,523,2,1,5,10:19 PM,0:09,,,MISS Williams 24' 3PT Jump Shot,,
+0020601147,524,4,0,5,10:19 PM,0:08,76ERS Rebound,,,,
+0020601147,525,6,3,5,10:19 PM,0:08,,,Lue L.B.FOUL (P5.PN),,
+0020601147,526,3,11,5,10:19 PM,0:08,Green Free Throw 1 of 2 (13 PTS),,,104 - 108,4
+0020601147,527,3,12,5,10:19 PM,0:08,Green Free Throw 2 of 2 (14 PTS),,,104 - 109,5
+0020601147,529,2,1,5,10:20 PM,0:01,,,MISS Lue 4' Jump Shot,,
+0020601147,530,4,0,5,10:20 PM,0:00,Smith REBOUND (Off:1 Def:7),,,,
+0020601147,531,13,0,5,10:20 PM,0:00,,,,104 - 109,5

@@ -1,0 +1,448 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021001115,0,12,0,1,9:12 PM,12:00,,,,,
+0021001115,1,10,0,1,9:12 PM,12:00,Jump Ball Nene vs. Dalembert: Tip to,,,,
+0021001115,2,7,4,1,9:12 PM,12:00,,,Dalembert Violation:Jump Ball,,
+0021001115,3,2,1,1,9:13 PM,11:47,MISS Martin 18' Jump Shot,,,,
+0021001115,4,4,0,1,9:13 PM,11:46,,,Thornton REBOUND (Off:0 Def:1),,
+0021001115,5,2,1,1,9:13 PM,11:35,,,MISS Garcia 26' 3PT Jump Shot,,
+0021001115,6,4,0,1,9:13 PM,11:31,Martin REBOUND (Off:0 Def:1),,,,
+0021001115,7,5,1,1,9:13 PM,11:13,Martin Bad Pass Turnover (P1.T1),,Cousins STEAL (1 STL),,
+0021001115,9,2,1,1,9:14 PM,11:01,,,MISS Cousins 18' Jump Shot,,
+0021001115,10,4,0,1,9:14 PM,10:59,Gallinari REBOUND (Off:0 Def:1),,,,
+0021001115,11,6,2,1,9:14 PM,10:51,,,Dalembert S.FOUL (P1.T1),,
+0021001115,12,3,11,1,9:14 PM,10:51,MISS Nene Free Throw 1 of 2,,,,
+0021001115,13,4,1,1,9:14 PM,10:51,NUGGETS Rebound,,,,
+0021001115,14,3,12,1,9:15 PM,10:51,MISS Nene Free Throw 2 of 2,,,,
+0021001115,16,4,0,1,9:15 PM,10:49,,,Dalembert REBOUND (Off:0 Def:1),,
+0021001115,17,1,1,1,9:15 PM,10:38,,,Thornton 25' 3PT Jump Shot (3 PTS) (Udrih 1 AST),3 - 0,-3
+0021001115,18,6,2,1,9:15 PM,10:20,,,Dalembert S.FOUL (P2.T2),,
+0021001115,19,3,11,1,9:16 PM,10:20,MISS Nene Free Throw 1 of 2,,,,
+0021001115,20,4,1,1,9:16 PM,10:20,NUGGETS Rebound,,,,
+0021001115,21,3,12,1,9:16 PM,10:20,MISS Nene Free Throw 2 of 2,,,,
+0021001115,23,4,0,1,9:16 PM,10:19,,,Dalembert REBOUND (Off:0 Def:2),,
+0021001115,24,5,40,1,9:16 PM,10:06,,,Udrih Out of Bounds Lost Ball Turnover (P1.T1),,
+0021001115,25,2,63,1,9:17 PM,9:55,MISS Chandler 16' Fadeaway Jumper,,Garcia BLOCK (1 BLK),,
+0021001115,26,4,0,1,9:17 PM,9:54,NUGGETS Rebound,,,,
+0021001115,28,1,7,1,9:17 PM,9:47,Nene  Dunk (2 PTS) (Gallinari 1 AST),,,3 - 2,-1
+0021001115,29,6,1,1,9:17 PM,9:33,Lawson P.FOUL (P1.T1),,,,
+0021001115,30,6,2,1,9:18 PM,9:20,Lawson S.FOUL (P2.T2),,,,
+0021001115,31,3,11,1,9:18 PM,9:20,,,Udrih Free Throw 1 of 2 (1 PTS),4 - 2,-2
+0021001115,33,8,0,1,9:18 PM,9:20,SUB: Felton FOR Lawson,,,,
+0021001115,34,3,12,1,9:18 PM,9:20,,,Udrih Free Throw 2 of 2 (2 PTS),5 - 2,-3
+0021001115,36,2,42,1,9:19 PM,8:59,MISS Chandler 2' Driving Layup,,Dalembert BLOCK (1 BLK),,
+0021001115,37,4,0,1,9:19 PM,8:56,Nene REBOUND (Off:1 Def:0),,,,
+0021001115,38,2,5,1,9:19 PM,8:55,MISS Nene 2' Layup,,,,
+0021001115,39,4,0,1,9:19 PM,8:55,NUGGETS Rebound,,,,
+0021001115,41,2,7,1,9:19 PM,8:48,MISS Gallinari 2' Dunk,,,,
+0021001115,42,4,0,1,9:19 PM,8:46,,,Dalembert REBOUND (Off:0 Def:3),,
+0021001115,43,2,1,1,9:19 PM,8:39,,,MISS Garcia 15' Jump Shot,,
+0021001115,44,4,0,1,9:19 PM,8:38,,,Dalembert REBOUND (Off:1 Def:3),,
+0021001115,45,2,1,1,9:19 PM,8:37,,,MISS Garcia 25' 3PT Jump Shot,,
+0021001115,46,4,0,1,9:19 PM,8:36,,,Kings Rebound,,
+0021001115,47,6,1,1,9:19 PM,8:36,Nene P.FOUL (P1.T3),,,,
+0021001115,48,1,1,1,9:20 PM,8:26,,,Thornton 27' 3PT Jump Shot (6 PTS) (Udrih 2 AST),8 - 2,-6
+0021001115,49,6,2,1,9:20 PM,8:13,,,Dalembert S.FOUL (P3.T3),,
+0021001115,50,3,11,1,9:20 PM,8:13,MISS Felton Free Throw 1 of 2,,,,
+0021001115,51,4,1,1,9:20 PM,8:13,NUGGETS Rebound,,,,
+0021001115,52,8,0,1,9:21 PM,8:13,,,SUB: Thompson FOR Dalembert,,
+0021001115,53,3,12,1,9:21 PM,8:13,Felton Free Throw 2 of 2 (1 PTS),,,8 - 3,-5
+0021001115,55,1,5,1,9:21 PM,7:56,,,Thornton 2' Layup (8 PTS) (Cousins 1 AST),10 - 3,-7
+0021001115,56,2,5,1,9:21 PM,7:46,MISS Nene  Layup,,Cousins BLOCK (1 BLK),,
+0021001115,57,4,0,1,9:21 PM,7:45,,,Cousins REBOUND (Off:0 Def:1),,
+0021001115,58,2,1,1,9:21 PM,7:39,,,MISS Garcia 26' 3PT Jump Shot,,
+0021001115,59,4,0,1,9:21 PM,7:37,Nene REBOUND (Off:1 Def:1),,,,
+0021001115,60,1,1,1,9:22 PM,7:31,Gallinari 20' Jump Shot (2 PTS) (Nene 1 AST),,,10 - 5,-5
+0021001115,61,1,1,1,9:22 PM,7:15,,,Cousins 20' Jump Shot (2 PTS) (Udrih 3 AST),12 - 5,-7
+0021001115,113,10,0,1,9:23 PM,7:03,Jump Ball Martin vs. Thompson: Tip to Felton,,,,
+0021001115,62,2,5,1,9:23 PM,6:54,MISS Felton 3' Layup,,,,
+0021001115,63,4,0,1,9:23 PM,6:53,,,Cousins REBOUND (Off:0 Def:2),,
+0021001115,64,1,47,1,9:23 PM,6:45,,,Thompson 7' Turnaround Jump Shot (2 PTS) (Udrih 4 AST),14 - 5,-9
+0021001115,65,5,41,1,9:23 PM,6:30,Nene Poss Lost Ball Turnover (P1.T2),,Udrih STEAL (1 STL),,
+0021001115,67,2,1,1,9:24 PM,6:21,Nene BLOCK (1 BLK),,MISS Cousins 3' Jump Shot,,
+0021001115,68,4,0,1,9:24 PM,6:19,Martin REBOUND (Off:0 Def:2),,,,
+0021001115,69,5,2,1,9:24 PM,6:17,Martin Lost Ball Turnover (P2.T3),,Udrih STEAL (2 STL),,
+0021001115,71,2,1,1,9:24 PM,6:06,,,MISS Udrih 7' Jump Shot,,
+0021001115,72,4,0,1,9:24 PM,6:05,Gallinari REBOUND (Off:0 Def:2),,,,
+0021001115,73,5,40,1,9:24 PM,6:01,Gallinari Out of Bounds Lost Ball Turnover (P1.T4),,,,
+0021001115,74,9,1,1,9:24 PM,6:01,NUGGETS Timeout: Regular (Full 1 Short 0),,,,
+0021001115,78,8,0,1,9:27 PM,5:45,SUB: Andersen FOR Nene,,,,
+0021001115,77,8,0,1,9:27 PM,5:45,SUB: Smith FOR Martin,,,,
+0021001115,79,1,1,1,9:27 PM,5:38,,,Thompson 17' Jump Shot (4 PTS) (Udrih 5 AST),16 - 5,-11
+0021001115,80,2,1,1,9:27 PM,5:16,MISS Gallinari 17' Jump Shot,,,,
+0021001115,81,4,0,1,9:27 PM,5:15,Chandler REBOUND (Off:1 Def:0),,,,
+0021001115,82,1,47,1,9:28 PM,5:12,Chandler 17' Turnaround Jump Shot (2 PTS),,,16 - 7,-9
+0021001115,83,5,1,1,9:28 PM,4:53,Smith STEAL (1 STL),,Thompson Bad Pass Turnover (P1.T2),,
+0021001115,84,1,5,1,9:28 PM,4:49,Smith 2' Layup (2 PTS),,,16 - 9,-7
+0021001115,85,1,1,1,9:28 PM,4:29,,,Thornton 25' 3PT Jump Shot (11 PTS),19 - 9,-10
+0021001115,86,6,2,1,9:28 PM,4:24,,,Cousins S.FOUL (P1.T4),,
+0021001115,87,3,11,1,9:29 PM,4:24,Gallinari Free Throw 1 of 2 (3 PTS),,,19 - 10,-9
+0021001115,89,8,0,1,9:29 PM,4:24,,,SUB: Greene FOR Garcia,,
+0021001115,90,8,0,1,9:29 PM,4:24,,,SUB: Evans FOR Cousins,,
+0021001115,91,3,12,1,9:29 PM,4:24,Gallinari Free Throw 2 of 2 (4 PTS),,,19 - 11,-8
+0021001115,93,2,7,1,9:29 PM,4:07,Andersen BLOCK (1 BLK),,MISS Greene 2' Dunk,,
+0021001115,94,4,0,1,9:30 PM,4:05,,,Udrih REBOUND (Off:1 Def:0),,
+0021001115,95,2,1,1,9:30 PM,4:00,,,MISS Thornton 26' 3PT Jump Shot,,
+0021001115,96,4,0,1,9:30 PM,3:59,Gallinari REBOUND (Off:0 Def:3),,,,
+0021001115,97,5,1,1,9:30 PM,3:54,Smith Bad Pass Turnover (P1.T5),,,,
+0021001115,98,8,0,1,9:30 PM,3:54,SUB: Harrington FOR Chandler,,,,
+0021001115,99,2,1,1,9:30 PM,3:35,,,MISS Udrih 26' 3PT Jump Shot,,
+0021001115,100,4,0,1,9:30 PM,3:34,NUGGETS Rebound,,,,
+0021001115,102,1,7,1,9:31 PM,3:21,Andersen 1' Dunk (2 PTS) (Smith 1 AST),,,19 - 13,-6
+0021001115,103,5,2,1,9:31 PM,3:05,Andersen STEAL (1 STL),,Udrih Lost Ball Turnover (P2.T3),,
+0021001115,104,1,73,1,9:31 PM,2:56,Harrington 2' Driving Reverse Layup (2 PTS),,,19 - 15,-4
+0021001115,105,1,1,1,9:31 PM,2:35,,,Udrih 27' 3PT Jump Shot (5 PTS) (Evans 1 AST),22 - 15,-7
+0021001115,106,2,63,1,9:32 PM,2:15,MISS Harrington 9' Fadeaway Jumper,,,,
+0021001115,107,4,0,1,9:32 PM,2:14,,,Thompson REBOUND (Off:0 Def:1),,
+0021001115,108,7,2,1,9:32 PM,2:08,Andersen Violation:Defensive Goaltending,,,,
+0021001115,109,1,42,1,9:32 PM,2:08,,,Evans 1' Driving Layup (2 PTS),24 - 15,-9
+0021001115,110,6,2,1,9:32 PM,2:08,Smith S.FOUL (P1.T4),,,,
+0021001115,111,9,1,1,9:33 PM,2:08,,,Kings Timeout: Regular (Reg.1 Short 0),,
+0021001115,114,8,0,1,9:34 PM,2:08,,,SUB: Cousins FOR Udrih,,
+0021001115,116,3,10,1,9:35 PM,2:08,,,Evans Free Throw 1 of 1 (3 PTS),25 - 15,-10
+0021001115,118,2,1,1,9:35 PM,1:53,MISS Felton 7' Jump Shot,,,,
+0021001115,119,4,0,1,9:35 PM,1:51,,,Evans REBOUND (Off:0 Def:1),,
+0021001115,120,6,1,1,9:35 PM,1:51,Andersen P.FOUL (P1.PN),,,,
+0021001115,121,3,11,1,9:36 PM,1:51,,,Evans Free Throw 1 of 2 (4 PTS),26 - 15,-11
+0021001115,123,3,12,1,9:36 PM,1:51,,,MISS Evans Free Throw 2 of 2,,
+0021001115,125,4,0,1,9:36 PM,1:50,Andersen REBOUND (Off:0 Def:1),,,,
+0021001115,126,6,4,1,9:36 PM,1:42,Harrington OFF.Foul (P1),,,,
+0021001115,127,5,5,1,9:36 PM,1:42,Harrington Foul Turnover (P1.T6),,,,
+0021001115,128,5,1,1,9:36 PM,1:31,,,Greene Bad Pass Turnover (P1.T4),,
+0021001115,129,1,1,1,9:37 PM,1:18,Smith 17' Jump Shot (4 PTS),,,26 - 17,-9
+0021001115,130,1,86,1,9:37 PM,0:54,,,Evans 16' Turnaround Fadeaway (6 PTS),28 - 17,-11
+0021001115,131,1,42,1,9:38 PM,0:39,Felton 1' Driving Layup (3 PTS),,,28 - 19,-9
+0021001115,132,6,2,1,9:38 PM,0:39,,,Thornton S.FOUL (P1.PN),,
+0021001115,133,3,10,1,9:38 PM,0:39,Felton Free Throw 1 of 1 (4 PTS),,,28 - 20,-8
+0021001115,136,5,2,1,9:38 PM,0:25,Harrington STEAL (1 STL),,Cousins Lost Ball Turnover (P1.T5),,
+0021001115,137,2,5,1,9:39 PM,0:03,MISS Harrington 3' Layup,,,,
+0021001115,138,4,0,1,9:39 PM,0:01,,,Thornton REBOUND (Off:0 Def:2),,
+0021001115,139,2,41,1,9:39 PM,0:00,,,MISS Thornton 56' 3PT Running Layup,,
+0021001115,140,4,0,1,9:39 PM,0:00,,,Kings Rebound,,
+0021001115,141,13,0,1,9:40 PM,0:00,,,,28 - 20,-8
+0021001115,143,12,0,2,9:42 PM,12:00,,,,28 - 20,-8
+0021001115,145,2,1,2,9:43 PM,11:37,,,MISS Cousins 20' Jump Shot,,
+0021001115,146,4,0,2,9:43 PM,11:36,,,Kings Rebound,,
+0021001115,147,5,11,2,9:43 PM,11:36,,,Kings Turnover: Shot Clock (T#6),,
+0021001115,148,1,1,2,9:44 PM,11:16,Harrington  3PT Jump Shot (5 PTS) (Smith 2 AST),,,28 - 23,-5
+0021001115,149,2,1,2,9:44 PM,11:04,,,MISS Greene  3PT Jump Shot,,
+0021001115,150,4,0,2,9:44 PM,11:03,Andersen REBOUND (Off:0 Def:2),,,,
+0021001115,151,2,42,2,9:44 PM,10:53,MISS Harrington 2' Driving Layup,,Cousins BLOCK (2 BLK),,
+0021001115,152,4,0,2,9:44 PM,10:52,Andersen REBOUND (Off:1 Def:2),,,,
+0021001115,153,6,2,2,9:44 PM,10:52,,,Cousins S.FOUL (P2.T1),,
+0021001115,154,3,11,2,9:44 PM,10:52,MISS Andersen Free Throw 1 of 2,,,,
+0021001115,155,4,1,2,9:44 PM,10:52,NUGGETS Rebound,,,,
+0021001115,156,8,0,2,9:45 PM,10:52,,,SUB: Casspi FOR Greene,,
+0021001115,157,8,0,2,9:45 PM,10:52,,,SUB: Garcia FOR Cousins,,
+0021001115,158,3,12,2,9:45 PM,10:52,Andersen Free Throw 2 of 2 (3 PTS),,,28 - 24,-4
+0021001115,160,1,1,2,9:45 PM,10:30,,,Thompson 12' Jump Shot (6 PTS) (Evans 2 AST),30 - 24,-6
+0021001115,161,1,52,2,9:46 PM,10:21,Smith  Alley Oop Dunk (6 PTS) (Felton 1 AST),,,30 - 26,-4
+0021001115,162,2,1,2,9:46 PM,10:03,,,MISS Evans 3' Jump Shot,,
+0021001115,274,4,0,2,9:46 PM,10:01,,,Evans REBOUND (Off:1 Def:1),,
+0021001115,276,2,53,2,9:46 PM,10:01,Andersen BLOCK (2 BLK),,MISS Evans 1' Tip Shot,,
+0021001115,163,4,0,2,9:46 PM,10:00,,,Garcia REBOUND (Off:1 Def:0),,
+0021001115,164,5,1,2,9:46 PM,9:57,Smith STEAL (2 STL),,Garcia Bad Pass Turnover (P1.T7),,
+0021001115,165,6,1,2,9:46 PM,9:57,,,Casspi P.FOUL (P1.T2),,
+0021001115,166,2,47,2,9:47 PM,9:43,MISS Harrington 7' Turnaround Jump Shot,,,,
+0021001115,167,4,0,2,9:47 PM,9:40,,,Thompson REBOUND (Off:0 Def:2),,
+0021001115,168,1,1,2,9:47 PM,9:31,,,Casspi 15' Jump Shot (2 PTS) (Evans 3 AST),32 - 26,-6
+0021001115,169,6,2,2,9:47 PM,9:25,,,Casspi S.FOUL (P2.T3),,
+0021001115,170,8,0,2,9:47 PM,9:25,SUB: Nene FOR Andersen,,,,
+0021001115,171,3,11,2,9:47 PM,9:25,Felton Free Throw 1 of 2 (5 PTS),,,32 - 27,-5
+0021001115,173,8,0,2,9:48 PM,9:25,,,SUB: Udrih FOR Thornton,,
+0021001115,174,8,0,2,9:48 PM,9:25,,,SUB: D. Jackson FOR Garcia,,
+0021001115,175,3,12,2,9:48 PM,9:25,Felton Free Throw 2 of 2 (6 PTS),,,32 - 28,-4
+0021001115,177,2,5,2,9:48 PM,9:07,Nene BLOCK (2 BLK),,MISS Casspi 2' Layup,,
+0021001115,178,4,0,2,9:48 PM,9:05,Smith REBOUND (Off:0 Def:1),,,,
+0021001115,179,1,1,2,9:48 PM,8:59,Lawson 26' 3PT Jump Shot (3 PTS) (Felton 2 AST),,,32 - 31,-1
+0021001115,180,1,1,2,9:49 PM,8:35,,,D. Jackson 16' Jump Shot (2 PTS) (Udrih 6 AST),34 - 31,-3
+0021001115,181,2,75,2,9:49 PM,8:16,MISS Harrington  Driving Finger Roll Layup,,,,
+0021001115,182,4,0,2,9:49 PM,8:15,,,D. Jackson REBOUND (Off:0 Def:1),,
+0021001115,183,2,1,2,9:49 PM,8:06,,,MISS Casspi 24' 3PT Jump Shot,,
+0021001115,184,4,0,2,9:49 PM,8:04,Nene REBOUND (Off:1 Def:2),,,,
+0021001115,185,2,1,2,9:49 PM,7:53,MISS Harrington 25' 3PT Jump Shot,,,,
+0021001115,186,4,0,2,9:49 PM,7:51,,,Casspi REBOUND (Off:0 Def:1),,
+0021001115,187,1,43,2,9:50 PM,7:34,,,Udrih 4' Alley Oop Layup (7 PTS) (Evans 4 AST),36 - 31,-5
+0021001115,188,1,42,2,9:50 PM,7:17,Lawson 2' Driving Layup (5 PTS),,,36 - 33,-3
+0021001115,189,1,5,2,9:50 PM,7:04,,,Evans 2' Layup (8 PTS) (Thompson 1 AST),38 - 33,-5
+0021001115,190,6,17,2,9:51 PM,6:52,,,Kings T.Foul (Def. 3 Sec Thompson ),,
+0021001115,191,9,4,2,9:51 PM,6:52,,,,,
+0021001115,193,8,0,2,9:53 PM,6:52,SUB: Chandler FOR Smith,,,,
+0021001115,194,8,0,2,9:53 PM,6:52,,,SUB: Thornton FOR Casspi,,
+0021001115,195,3,16,2,9:53 PM,6:52,Lawson Free Throw Technical (6 PTS),,,38 - 34,-4
+0021001115,197,2,63,2,9:54 PM,6:37,MISS Chandler 16' Fadeaway Jumper,,,,
+0021001115,198,4,0,2,9:54 PM,6:36,NUGGETS Rebound,,,,
+0021001115,199,5,11,2,9:54 PM,6:36,NUGGETS Turnover: Shot Clock (T#7),,,,
+0021001115,201,1,78,2,9:54 PM,6:16,,,Thompson 3' Floating Jump Shot (8 PTS) (Thornton 1 AST),40 - 34,-6
+0021001115,202,1,42,2,9:55 PM,5:58,Lawson 1' Driving Layup (8 PTS),,,40 - 36,-4
+0021001115,203,2,1,2,9:55 PM,5:44,,,MISS Thornton 20' Jump Shot,,
+0021001115,204,4,0,2,9:55 PM,5:43,Nene REBOUND (Off:1 Def:3),,,,
+0021001115,205,2,1,2,9:55 PM,5:33,MISS Harrington 26' 3PT Jump Shot,,,,
+0021001115,206,4,0,2,9:55 PM,5:31,Nene REBOUND (Off:2 Def:3),,,,
+0021001115,207,2,1,2,9:55 PM,5:28,MISS Lawson 26' 3PT Jump Shot,,,,
+0021001115,213,4,0,2,9:55 PM,5:26,Harrington REBOUND (Off:1 Def:0),,,,
+0021001115,208,5,0,2,9:55 PM,5:24,Harrington No Turnover (P2.T8),,D. Jackson STEAL (1 STL),,
+0021001115,209,1,42,2,9:55 PM,5:18,,,Evans 1' Driving Layup (10 PTS),42 - 36,-6
+0021001115,210,5,1,2,9:55 PM,5:11,Lawson Bad Pass Turnover (P1.T9),,,,
+0021001115,211,9,1,2,9:55 PM,5:11,NUGGETS Timeout: Regular (Full 2 Short 0),,,,
+0021001115,214,8,0,2,9:58 PM,5:11,,,SUB: Cousins FOR Thompson,,
+0021001115,215,8,0,2,9:58 PM,5:11,SUB: Gallinari FOR Harrington,,,,
+0021001115,216,1,75,2,9:58 PM,4:54,,,Evans 3' Driving Finger Roll Layup (12 PTS) (Udrih 7 AST),44 - 36,-8
+0021001115,217,2,42,2,9:59 PM,4:33,MISS Gallinari 3' Driving Layup,,,,
+0021001115,218,4,0,2,9:59 PM,4:32,Gallinari REBOUND (Off:1 Def:3),,,,
+0021001115,219,5,40,2,9:59 PM,4:32,Gallinari Out of Bounds Lost Ball Turnover (P2.T10),,,,
+0021001115,220,9,2,2,9:59 PM,4:25,,,Kings Timeout: Short (Reg.1 Short 1),,
+0021001115,223,8,0,2,10:00 PM,4:25,,,SUB: Thompson FOR Cousins,,
+0021001115,224,2,5,2,10:00 PM,4:15,,,MISS Thornton 3' Layup,,
+0021001115,225,4,0,2,10:00 PM,4:15,NUGGETS Rebound,,,,
+0021001115,227,5,4,2,10:01 PM,4:01,Nene Traveling Turnover (P2.T11),,,,
+0021001115,229,8,0,2,10:01 PM,3:44,,,SUB: Greene FOR Evans,,
+0021001115,230,8,0,2,10:01 PM,3:44,SUB: Smith FOR Felton,,,,
+0021001115,231,1,1,2,10:02 PM,3:36,,,Thornton 26' 3PT Jump Shot (14 PTS),47 - 36,-11
+0021001115,232,2,1,2,10:02 PM,3:20,MISS Chandler 24' 3PT Jump Shot,,,,
+0021001115,233,4,0,2,10:02 PM,3:19,Nene REBOUND (Off:3 Def:3),,,,
+0021001115,234,2,1,2,10:02 PM,3:16,MISS Nene 3' Jump Shot,,,,
+0021001115,236,4,0,2,10:02 PM,3:16,Nene REBOUND (Off:4 Def:3),,,,
+0021001115,235,2,4,2,10:02 PM,3:16,MISS Nene 1' Tip Shot,,,,
+0021001115,237,4,0,2,10:02 PM,3:16,,,Kings Rebound,,
+0021001115,238,6,3,2,10:02 PM,3:16,Nene L.B.FOUL (P2.T1),,,,
+0021001115,239,6,2,2,10:03 PM,3:04,Nene S.FOUL (P3.T2),,,,
+0021001115,240,3,11,2,10:03 PM,3:04,,,Udrih Free Throw 1 of 2 (8 PTS),48 - 36,-12
+0021001115,242,8,0,2,10:03 PM,3:04,SUB: Andersen FOR Nene,,,,
+0021001115,243,3,12,2,10:03 PM,3:04,,,Udrih Free Throw 2 of 2 (9 PTS),49 - 36,-13
+0021001115,245,1,1,2,10:04 PM,2:50,Smith 25' 3PT Jump Shot (9 PTS) (Gallinari 2 AST),,,49 - 39,-10
+0021001115,246,2,1,2,10:04 PM,2:29,,,MISS Thornton 25' 3PT Jump Shot,,
+0021001115,247,4,0,2,10:04 PM,2:28,,,D. Jackson REBOUND (Off:1 Def:1),,
+0021001115,248,5,39,2,10:04 PM,2:16,,,Udrih Step Out of Bounds Turnover (P3.T8),,
+0021001115,249,9,1,2,10:04 PM,2:16,,,Kings Timeout: Regular (Reg.2 Short 1),,
+0021001115,253,5,1,2,10:07 PM,2:00,Smith Bad Pass Turnover (P2.T12),,D. Jackson STEAL (2 STL),,
+0021001115,254,2,1,2,10:07 PM,1:44,,,MISS Greene 26' 3PT Jump Shot,,
+0021001115,255,4,0,2,10:07 PM,1:43,Gallinari REBOUND (Off:1 Def:4),,,,
+0021001115,256,1,42,2,10:08 PM,1:31,Lawson 2' Driving Layup (10 PTS),,,49 - 41,-8
+0021001115,257,2,1,2,10:08 PM,1:10,,,MISS Greene 16' Jump Shot,,
+0021001115,258,4,0,2,10:08 PM,1:09,Smith REBOUND (Off:0 Def:2),,,,
+0021001115,259,6,1,2,10:08 PM,1:00,,,Thornton P.FOUL (P2.T4),,
+0021001115,260,2,1,2,10:08 PM,0:50,MISS Chandler 3' Jump Shot,,,,
+0021001115,261,4,0,2,10:08 PM,0:49,,,Thornton REBOUND (Off:0 Def:3),,
+0021001115,262,1,5,2,10:08 PM,0:46,,,Thornton 1' Layup (16 PTS),51 - 41,-10
+0021001115,263,2,1,2,10:09 PM,0:40,MISS Chandler 20' Jump Shot,,,,
+0021001115,264,4,0,2,10:09 PM,0:39,,,Udrih REBOUND (Off:1 Def:1),,
+0021001115,265,2,1,2,10:09 PM,0:31,,,MISS Thornton 27' 3PT Jump Shot,,
+0021001115,266,4,0,2,10:09 PM,0:30,Gallinari REBOUND (Off:1 Def:5),,,,
+0021001115,267,2,1,2,10:09 PM,0:11,MISS Gallinari 25' 3PT Jump Shot,,,,
+0021001115,268,4,0,2,10:09 PM,0:10,,,Greene REBOUND (Off:0 Def:1),,
+0021001115,269,5,1,2,10:09 PM,0:01,,,Thornton Bad Pass Turnover (P1.T9),,
+0021001115,270,2,1,2,10:10 PM,0:00,MISS Smith 37' 3PT Jump Shot,,,,
+0021001115,271,4,0,2,10:10 PM,0:00,NUGGETS Rebound,,,,
+0021001115,272,13,0,2,10:10 PM,0:00,,,,51 - 41,-10
+0021001115,277,12,0,3,10:26 PM,12:00,,,,51 - 41,-10
+0021001115,278,5,40,3,10:26 PM,11:45,,,Cousins Out of Bounds Lost Ball Turnover (P2.T10),,
+0021001115,279,5,1,3,10:27 PM,11:22,Chandler Bad Pass Turnover (P1.T13),,Cousins STEAL (2 STL),,
+0021001115,280,2,1,3,10:27 PM,11:15,,,MISS Dalembert 18' Jump Shot,,
+0021001115,281,4,0,3,10:27 PM,11:14,Gallinari REBOUND (Off:1 Def:6),,,,
+0021001115,282,6,2,3,10:27 PM,11:08,,,Garcia S.FOUL (P1.T1),,
+0021001115,283,3,11,3,10:27 PM,11:08,Nene Free Throw 1 of 2 (3 PTS),,,51 - 42,-9
+0021001115,285,3,12,3,10:27 PM,11:08,Nene Free Throw 2 of 2 (4 PTS),,,51 - 43,-8
+0021001115,287,1,5,3,10:28 PM,10:53,,,Dalembert 3' Layup (2 PTS) (Cousins 2 AST),53 - 43,-10
+0021001115,288,1,1,3,10:28 PM,10:44,Harrington 19' Jump Shot (7 PTS) (Lawson 1 AST),,,53 - 45,-8
+0021001115,289,1,1,3,10:28 PM,10:24,,,Garcia 18' Jump Shot (2 PTS) (Cousins 3 AST),55 - 45,-10
+0021001115,290,6,2,3,10:29 PM,10:13,,,Udrih S.FOUL (P1.T2),,
+0021001115,291,3,11,3,10:29 PM,10:13,Lawson Free Throw 1 of 2 (11 PTS),,,55 - 46,-9
+0021001115,293,3,12,3,10:29 PM,10:13,Lawson Free Throw 2 of 2 (12 PTS),,,55 - 47,-8
+0021001115,295,2,1,3,10:29 PM,9:54,,,MISS Thornton 20' Jump Shot,,
+0021001115,296,4,0,3,10:30 PM,9:53,Gallinari REBOUND (Off:1 Def:7),,,,
+0021001115,297,1,75,3,10:30 PM,9:43,Harrington 2' Driving Finger Roll Layup (9 PTS),,,55 - 49,-6
+0021001115,298,1,1,3,10:30 PM,9:26,,,Cousins 19' Jump Shot (4 PTS) (Udrih 8 AST),57 - 49,-8
+0021001115,299,2,1,3,10:30 PM,9:11,MISS Harrington 27' 3PT Jump Shot,,,,
+0021001115,300,4,0,3,10:30 PM,9:10,,,Kings Rebound,,
+0021001115,302,2,1,3,10:31 PM,8:54,,,MISS Garcia 20' Jump Shot,,
+0021001115,303,4,0,3,10:31 PM,8:52,Chandler REBOUND (Off:1 Def:1),,,,
+0021001115,304,2,1,3,10:31 PM,8:46,MISS Gallinari 25' 3PT Jump Shot,,,,
+0021001115,305,4,0,3,10:31 PM,8:44,,,Dalembert REBOUND (Off:1 Def:4),,
+0021001115,306,5,1,3,10:31 PM,8:30,Gallinari STEAL (1 STL),,Cousins Bad Pass Turnover (P3.T11),,
+0021001115,307,1,5,3,10:31 PM,8:27,Gallinari 2' Layup (6 PTS) (Chandler 1 AST),,,57 - 51,-6
+0021001115,308,6,2,3,10:31 PM,8:27,,,Thornton S.FOUL (P3.T3),,
+0021001115,309,8,0,3,10:31 PM,8:27,,,SUB: Thompson FOR Cousins,,
+0021001115,310,3,10,3,10:32 PM,8:27,Gallinari Free Throw 1 of 1 (7 PTS),,,57 - 52,-5
+0021001115,312,2,1,3,10:32 PM,8:12,,,MISS Thompson 22' Jump Shot,,
+0021001115,313,4,0,3,10:32 PM,8:10,Nene REBOUND (Off:4 Def:4),,,,
+0021001115,314,1,1,3,10:32 PM,7:58,Chandler  3PT Jump Shot (5 PTS) (Nene 2 AST),,,57 - 55,-2
+0021001115,316,2,1,3,10:33 PM,7:29,,,MISS Garcia 22' Jump Shot,,
+0021001115,317,4,0,3,10:33 PM,7:28,Nene REBOUND (Off:4 Def:5),,,,
+0021001115,318,1,1,3,10:33 PM,7:17,Lawson 20' Jump Shot (14 PTS),,,57 - 57,TIE
+0021001115,319,9,1,3,10:33 PM,7:15,,,Kings Timeout: Regular (Reg.3 Short 1),,
+0021001115,322,8,0,3,10:36 PM,7:15,,,SUB: Evans FOR Garcia,,
+0021001115,323,5,1,3,10:36 PM,7:01,Chandler STEAL (1 STL),,Thompson Bad Pass Turnover (P2.T12),,
+0021001115,324,6,2,3,10:36 PM,6:57,,,Evans S.FOUL (P1.T4),,
+0021001115,325,3,11,3,10:36 PM,6:57,MISS Harrington Free Throw 1 of 2,,,,
+0021001115,326,4,1,3,10:36 PM,6:57,NUGGETS Rebound,,,,
+0021001115,327,3,12,3,10:37 PM,6:57,MISS Harrington Free Throw 2 of 2,,,,
+0021001115,329,4,0,3,10:37 PM,6:56,,,Thompson REBOUND (Off:0 Def:3),,
+0021001115,330,2,1,3,10:37 PM,6:42,,,MISS Thornton 25' 3PT Jump Shot,,
+0021001115,331,4,0,3,10:37 PM,6:40,,,Dalembert REBOUND (Off:2 Def:4),,
+0021001115,332,5,1,3,10:37 PM,6:37,Nene STEAL (1 STL),,Dalembert Bad Pass Turnover (P1.T13),,
+0021001115,333,1,7,3,10:37 PM,6:34,Harrington 1' Dunk (11 PTS) (Chandler 2 AST),,,57 - 59,2
+0021001115,334,2,47,3,10:37 PM,6:16,,,MISS Dalembert 5' Turnaround Jump Shot,,
+0021001115,335,4,0,3,10:37 PM,6:14,Chandler REBOUND (Off:1 Def:2),,,,
+0021001115,336,2,1,3,10:37 PM,6:08,MISS Lawson 25' 3PT Jump Shot,,,,
+0021001115,337,4,0,3,10:37 PM,6:06,,,Thompson REBOUND (Off:0 Def:4),,
+0021001115,338,6,2,3,10:38 PM,5:53,Harrington S.FOUL (P2.T1),,,,
+0021001115,339,6,11,3,10:38 PM,5:53,Harrington T.FOUL (P2.T1),,,,
+0021001115,340,3,16,3,10:38 PM,5:53,,,Udrih Free Throw Technical (10 PTS),58 - 59,1
+0021001115,344,8,0,3,10:39 PM,5:53,SUB: Felton FOR Harrington,,,,
+0021001115,347,8,0,3,10:39 PM,5:53,,,SUB: Cousins FOR Dalembert,,
+0021001115,342,3,11,3,10:39 PM,5:53,,,Thornton Free Throw 1 of 2 (17 PTS),59 - 59,TIE
+0021001115,345,3,12,3,10:39 PM,5:53,,,Thornton Free Throw 2 of 2 (18 PTS),60 - 59,-1
+0021001115,348,6,1,3,10:39 PM,5:43,,,Udrih P.FOUL (P2.PN),,
+0021001115,349,3,11,3,10:39 PM,5:43,Lawson Free Throw 1 of 2 (15 PTS),,,60 - 60,TIE
+0021001115,351,3,12,3,10:40 PM,5:43,Lawson Free Throw 2 of 2 (16 PTS),,,60 - 61,1
+0021001115,353,5,2,3,10:40 PM,5:24,Nene STEAL (2 STL),,Cousins Lost Ball Turnover (P4.T14),,
+0021001115,354,6,2,3,10:40 PM,5:21,,,Udrih S.FOUL (P3.PN),,
+0021001115,355,3,11,3,10:41 PM,5:21,Felton Free Throw 1 of 2 (7 PTS),,,60 - 62,2
+0021001115,357,8,0,3,10:41 PM,5:21,,,SUB: Jeter FOR Udrih,,
+0021001115,358,3,12,3,10:41 PM,5:21,Felton Free Throw 2 of 2 (8 PTS),,,60 - 63,3
+0021001115,360,1,1,3,10:41 PM,5:03,,,Cousins 18' Jump Shot (6 PTS) (Evans 5 AST),62 - 63,1
+0021001115,361,2,1,3,10:42 PM,4:49,MISS Chandler  3PT Jump Shot,,,,
+0021001115,362,4,0,3,10:42 PM,4:48,,,Jeter REBOUND (Off:0 Def:1),,
+0021001115,363,1,8,3,10:42 PM,4:44,,,Evans 2' Slam Dunk (14 PTS) (Jeter 1 AST),64 - 63,-1
+0021001115,364,1,75,3,10:42 PM,4:21,Nene 2' Driving Finger Roll Layup (6 PTS),,,64 - 65,1
+0021001115,366,8,0,3,10:43 PM,4:10,SUB: Smith FOR Chandler,,,,
+0021001115,367,2,1,3,10:43 PM,3:57,,,MISS Jeter 21' Jump Shot,,
+0021001115,368,4,0,3,10:43 PM,3:55,,,Cousins REBOUND (Off:1 Def:2),,
+0021001115,369,6,2,3,10:43 PM,3:39,Nene S.FOUL (P4.T2),,,,
+0021001115,370,3,11,3,10:44 PM,3:39,,,MISS Cousins Free Throw 1 of 2,,
+0021001115,371,4,1,3,10:44 PM,3:39,,,Kings Rebound,,
+0021001115,372,8,0,3,10:44 PM,3:39,SUB: Andersen FOR Nene,,,,
+0021001115,373,3,12,3,10:44 PM,3:39,,,Cousins Free Throw 2 of 2 (7 PTS),65 - 65,TIE
+0021001115,375,2,1,3,10:44 PM,3:25,MISS Gallinari 24' 3PT Jump Shot,,,,
+0021001115,376,4,0,3,10:44 PM,3:24,,,Evans REBOUND (Off:1 Def:2),,
+0021001115,377,6,4,3,10:45 PM,3:16,,,Evans OFF.Foul (P2),,
+0021001115,378,5,5,3,10:45 PM,3:16,,,Evans Foul Turnover (P1.T15),,
+0021001115,379,1,1,3,10:45 PM,3:03,Smith 21' Jump Shot (11 PTS),,,65 - 67,2
+0021001115,380,5,1,3,10:45 PM,2:44,Gallinari STEAL (2 STL),,Cousins Bad Pass Turnover (P5.T16),,
+0021001115,381,6,29,3,10:46 PM,2:34,,,Cousins Shooting Block Foul (P3.PN),,
+0021001115,383,9,1,3,10:46 PM,2:34,NUGGETS Timeout: Regular (Full 3 Short 0),,,,
+0021001115,386,8,0,3,10:48 PM,2:34,,,SUB: Udrih FOR Thornton,,
+0021001115,387,3,11,3,10:48 PM,2:34,MISS Gallinari Free Throw 1 of 2,,,,
+0021001115,388,4,1,3,10:48 PM,2:34,NUGGETS Rebound,,,,
+0021001115,389,3,12,3,10:48 PM,2:34,Gallinari Free Throw 2 of 2 (8 PTS),,,65 - 68,3
+0021001115,391,1,1,3,10:49 PM,2:18,,,Jeter 22' Jump Shot (2 PTS) (Evans 6 AST),67 - 68,1
+0021001115,392,1,52,3,10:49 PM,2:07,Andersen 2' Alley Oop Dunk (5 PTS) (Felton 3 AST),,,67 - 70,3
+0021001115,393,5,2,3,10:49 PM,1:51,Gallinari STEAL (3 STL),,Thompson Lost Ball Turnover (P3.T17),,
+0021001115,394,1,5,3,10:49 PM,1:47,Lawson 2' Layup (18 PTS),,,67 - 72,5
+0021001115,395,6,28,3,10:49 PM,1:41,Felton Personal Take Foul (P1.T3),,,,
+0021001115,396,8,0,3,10:50 PM,1:41,SUB: Forbes FOR Lawson,,,,
+0021001115,397,2,1,3,10:50 PM,1:32,,,MISS Evans 21' Jump Shot,,
+0021001115,398,4,0,3,10:50 PM,1:30,Smith REBOUND (Off:0 Def:3),,,,
+0021001115,399,2,1,3,10:50 PM,1:17,MISS Felton 24' 3PT Jump Shot,,,,
+0021001115,401,4,0,3,10:50 PM,1:15,Andersen REBOUND (Off:2 Def:2),,,,
+0021001115,400,2,5,3,10:50 PM,1:14,MISS Andersen 1' Layup,,,,
+0021001115,402,4,0,3,10:50 PM,1:12,,,Thompson REBOUND (Off:0 Def:5),,
+0021001115,403,1,42,3,10:51 PM,1:05,,,Cousins 1' Driving Layup (9 PTS) (Jeter 2 AST),69 - 72,3
+0021001115,404,1,1,3,10:51 PM,0:47,Smith 16' Jump Shot (13 PTS),,,69 - 74,5
+0021001115,405,1,84,3,10:51 PM,0:37,,,Evans 6' Running Bank Shot (16 PTS),71 - 74,3
+0021001115,406,5,40,3,10:51 PM,0:24,Gallinari Out of Bounds Lost Ball Turnover (P3.T14),,,,
+0021001115,407,8,0,3,10:52 PM,0:24,,,SUB: Casspi FOR Jeter,,
+0021001115,408,2,42,3,10:52 PM,0:02,,,MISS Evans 3' Driving Layup,,
+0021001115,409,4,0,3,10:52 PM,0:00,Forbes REBOUND (Off:0 Def:1),,,,
+0021001115,410,13,0,3,10:52 PM,0:00,,,,71 - 74,3
+0021001115,412,12,0,4,10:55 PM,12:00,,,,71 - 74,3
+0021001115,413,2,1,4,10:55 PM,11:43,MISS Smith 22' Jump Shot,,,,
+0021001115,414,4,0,4,10:55 PM,11:42,,,Kings Rebound,,
+0021001115,416,2,1,4,10:56 PM,11:25,,,MISS Casspi 12' Jump Shot,,
+0021001115,417,4,0,4,10:56 PM,11:25,NUGGETS Rebound,,,,
+0021001115,418,6,3,4,10:56 PM,11:25,,,Cousins L.B.FOUL (P4.T1),,
+0021001115,419,2,1,4,10:56 PM,11:13,MISS Felton 25' 3PT Jump Shot,,,,
+0021001115,420,4,0,4,10:57 PM,11:12,,,Casspi REBOUND (Off:0 Def:2),,
+0021001115,421,6,1,4,10:57 PM,11:12,Harrington P.FOUL (P3.T1),,,,
+0021001115,422,2,1,4,10:57 PM,11:00,,,MISS Udrih 16' Jump Shot,,
+0021001115,423,4,0,4,10:57 PM,10:59,Smith REBOUND (Off:0 Def:4),,,,
+0021001115,424,2,42,4,10:57 PM,10:44,MISS Harrington 1' Driving Layup,,,,
+0021001115,425,4,0,4,10:57 PM,10:43,,,Cousins REBOUND (Off:1 Def:3),,
+0021001115,426,6,4,4,10:57 PM,10:27,,,Thompson OFF.Foul (P1),,
+0021001115,427,5,5,4,10:57 PM,10:27,,,Thompson Foul Turnover (P4.T18),,
+0021001115,428,2,42,4,10:58 PM,10:13,MISS Forbes 2' Driving Layup,,,,
+0021001115,429,4,0,4,10:58 PM,10:12,,,Thompson REBOUND (Off:0 Def:6),,
+0021001115,430,1,1,4,10:58 PM,10:06,,,Udrih 17' Jump Shot (12 PTS) (Thornton 2 AST),73 - 74,1
+0021001115,431,2,1,4,10:58 PM,9:51,MISS Harrington 24' 3PT Jump Shot,,,,
+0021001115,432,4,0,4,10:58 PM,9:49,,,Casspi REBOUND (Off:0 Def:3),,
+0021001115,433,1,42,4,10:58 PM,9:41,,,Thornton 2' Driving Layup (20 PTS),75 - 74,-1
+0021001115,434,2,1,4,10:59 PM,9:20,MISS Harrington 3' Jump Shot,,,,
+0021001115,435,4,0,4,10:59 PM,9:19,Harrington REBOUND (Off:2 Def:0),,,,
+0021001115,436,1,5,4,10:59 PM,9:16,Harrington 2' Layup (13 PTS),,,75 - 76,1
+0021001115,437,6,4,4,10:59 PM,9:02,,,Thompson OFF.Foul (P2),,
+0021001115,438,5,5,4,10:59 PM,9:02,,,Thompson Foul Turnover (P5.T19),,
+0021001115,439,8,0,4,10:59 PM,9:02,SUB: Chandler FOR Forbes,,,,
+0021001115,440,8,0,4,10:59 PM,9:02,SUB: Nene FOR Andersen,,,,
+0021001115,441,8,0,4,11:00 PM,9:02,,,SUB: Dalembert FOR Cousins,,
+0021001115,442,1,5,4,11:00 PM,8:36,Harrington 3' Layup (15 PTS) (Smith 3 AST),,,75 - 78,3
+0021001115,443,5,2,4,11:00 PM,8:19,Nene STEAL (3 STL),,Udrih Lost Ball Turnover (P4.T20),,
+0021001115,444,6,1,4,11:00 PM,8:19,,,Udrih P.FOUL (P4.T2),,
+0021001115,445,9,4,4,11:01 PM,8:19,,,,,
+0021001115,447,8,0,4,11:03 PM,8:19,,,SUB: Evans FOR Thompson,,
+0021001115,449,2,42,4,11:03 PM,8:01,MISS Felton 1' Driving Layup,,,,
+0021001115,450,4,0,4,11:03 PM,8:00,Nene REBOUND (Off:5 Def:5),,,,
+0021001115,451,5,2,4,11:03 PM,7:50,Nene Lost Ball Turnover (P3.T15),,Casspi STEAL (1 STL),,
+0021001115,452,1,5,4,11:03 PM,7:45,,,Evans 2' Layup (18 PTS) (Udrih 9 AST),77 - 78,1
+0021001115,453,2,5,4,11:04 PM,7:21,MISS Harrington 1' Layup,,,,
+0021001115,454,4,0,4,11:04 PM,7:19,,,Udrih REBOUND (Off:1 Def:2),,
+0021001115,455,2,5,4,11:04 PM,7:15,Chandler BLOCK (1 BLK),,MISS Evans 2' Layup,,
+0021001115,456,4,0,4,11:04 PM,7:13,Felton REBOUND (Off:0 Def:1),,,,
+0021001115,457,2,1,4,11:04 PM,7:08,MISS Smith 25' 3PT Jump Shot,,,,
+0021001115,458,4,0,4,11:04 PM,7:08,,,Kings Rebound,,
+0021001115,459,6,3,4,11:04 PM,7:08,Harrington L.B.FOUL (P4.T2),,,,
+0021001115,460,6,2,4,11:05 PM,6:48,Smith S.FOUL (P2.T3),,,,
+0021001115,461,8,0,4,11:05 PM,6:48,SUB: Gallinari FOR Harrington,,,,
+0021001115,462,3,11,4,11:05 PM,6:48,,,MISS Casspi Free Throw 1 of 2,,
+0021001115,463,4,1,4,11:05 PM,6:48,,,Kings Rebound,,
+0021001115,464,3,12,4,11:06 PM,6:48,,,MISS Casspi Free Throw 2 of 2,,
+0021001115,466,4,0,4,11:06 PM,6:46,Nene REBOUND (Off:5 Def:6),,,,
+0021001115,467,1,63,4,11:06 PM,6:28,Smith 17' Fadeaway Jumper (15 PTS),,,77 - 80,3
+0021001115,468,6,2,4,11:07 PM,6:09,Smith S.FOUL (P3.T4),,,,
+0021001115,469,8,0,4,11:07 PM,6:09,SUB: Lawson FOR Felton,,,,
+0021001115,470,3,11,4,11:07 PM,6:09,,,Thornton Free Throw 1 of 2 (21 PTS),78 - 80,2
+0021001115,472,3,12,4,11:07 PM,6:09,,,Thornton Free Throw 2 of 2 (22 PTS),79 - 80,1
+0021001115,474,6,2,4,11:08 PM,5:51,,,Thornton S.FOUL (P4.T3),,
+0021001115,475,9,1,4,11:08 PM,5:51,NUGGETS Timeout: Regular (Full 4 Short 0),,,,
+0021001115,479,3,11,4,11:10 PM,5:51,Chandler Free Throw 1 of 2 (6 PTS),,,79 - 81,2
+0021001115,481,3,12,4,11:10 PM,5:51,Chandler Free Throw 2 of 2 (7 PTS),,,79 - 82,3
+0021001115,483,2,44,4,11:11 PM,5:34,Chandler BLOCK (2 BLK),,MISS Dalembert 3' Reverse Layup,,
+0021001115,484,4,0,4,11:11 PM,5:32,Chandler REBOUND (Off:1 Def:3),,,,
+0021001115,485,1,7,4,11:11 PM,5:28,Gallinari 2' Dunk (10 PTS) (Nene 3 AST),,,79 - 84,5
+0021001115,486,6,2,4,11:11 PM,5:28,,,Dalembert S.FOUL (P4.T4),,
+0021001115,487,8,0,4,11:11 PM,5:28,,,SUB: Cousins FOR Dalembert,,
+0021001115,488,3,10,4,11:12 PM,5:28,MISS Gallinari Free Throw 1 of 1,,,,
+0021001115,490,4,0,4,11:12 PM,5:27,,,Casspi REBOUND (Off:0 Def:4),,
+0021001115,491,1,1,4,11:12 PM,5:08,,,Evans 17' Jump Shot (20 PTS),81 - 84,3
+0021001115,492,1,1,4,11:12 PM,4:50,Lawson 15' Jump Shot (20 PTS) (Smith 4 AST),,,81 - 86,5
+0021001115,494,8,0,4,11:13 PM,4:29,,,SUB: Thompson FOR Casspi,,
+0021001115,495,8,0,4,11:13 PM,4:29,SUB: Felton FOR Chandler,,,,
+0021001115,496,2,1,4,11:13 PM,4:23,Nene BLOCK (3 BLK),,MISS Cousins 13' Jump Shot,,
+0021001115,497,4,0,4,11:13 PM,4:21,Nene REBOUND (Off:5 Def:7),,,,
+0021001115,498,1,8,4,11:13 PM,4:11,Nene 1' Slam Dunk (8 PTS) (Lawson 2 AST),,,81 - 88,7
+0021001115,499,9,1,4,11:13 PM,4:09,,,Kings Timeout: Regular (Reg.4 Short 1),,
+0021001115,503,1,42,4,11:16 PM,3:55,,,Thornton 1' Driving Layup (24 PTS) (Udrih 10 AST),83 - 88,5
+0021001115,504,1,1,4,11:16 PM,3:40,Gallinari 26' 3PT Jump Shot (13 PTS) (Felton 4 AST),,,83 - 91,8
+0021001115,505,2,42,4,11:17 PM,3:23,,,MISS Thornton 3' Driving Layup,,
+0021001115,506,4,0,4,11:17 PM,3:21,Gallinari REBOUND (Off:1 Def:8),,,,
+0021001115,507,1,1,4,11:17 PM,3:09,Felton 27' 3PT Jump Shot (11 PTS) (Lawson 3 AST),,,83 - 94,11
+0021001115,508,1,75,4,11:17 PM,2:47,,,Evans 1' Driving Finger Roll Layup (22 PTS),85 - 94,9
+0021001115,509,6,1,4,11:18 PM,2:40,,,Thompson P.FOUL (P3.PN),,
+0021001115,510,3,11,4,11:18 PM,2:40,Gallinari Free Throw 1 of 2 (14 PTS),,,85 - 95,10
+0021001115,514,3,12,4,11:18 PM,2:40,Gallinari Free Throw 2 of 2 (15 PTS),,,85 - 96,11
+0021001115,516,1,52,4,11:19 PM,2:34,,,Cousins 1' Alley Oop Dunk (11 PTS) (Evans 7 AST),87 - 96,9
+0021001115,517,1,5,4,11:19 PM,2:12,Nene 2' Layup (10 PTS) (Felton 5 AST),,,87 - 98,11
+0021001115,518,2,1,4,11:19 PM,1:53,,,MISS Evans 3' Jump Shot,,
+0021001115,519,4,0,4,11:19 PM,1:50,Nene REBOUND (Off:5 Def:8),,,,
+0021001115,520,1,75,4,11:19 PM,1:41,Smith 1' Driving Finger Roll Layup (17 PTS),,,87 - 100,13
+0021001115,521,1,1,4,11:20 PM,1:31,,,Thornton 27' 3PT Jump Shot (27 PTS),90 - 100,10
+0021001115,522,2,1,4,11:20 PM,1:12,MISS Gallinari 26' 3PT Jump Shot,,,,
+0021001115,523,4,0,4,11:20 PM,1:11,,,Udrih REBOUND (Off:1 Def:3),,
+0021001115,524,2,1,4,11:20 PM,1:06,,,MISS Udrih 25' 3PT Jump Shot,,
+0021001115,525,4,0,4,11:20 PM,1:04,Smith REBOUND (Off:0 Def:5),,,,
+0021001115,526,1,5,4,11:21 PM,0:44,Nene 3' Layup (12 PTS) (Felton 6 AST),,,90 - 102,12
+0021001115,527,2,1,4,11:21 PM,0:37,,,MISS Thornton 28' 3PT Jump Shot,,
+0021001115,528,4,0,4,11:21 PM,0:36,Nene REBOUND (Off:5 Def:9),,,,
+0021001115,529,1,51,4,11:21 PM,0:17,Gallinari 1' Reverse Dunk (17 PTS) (Felton 7 AST),,,90 - 104,14
+0021001115,530,2,1,4,11:21 PM,0:03,,,MISS Cousins 26' 3PT Jump Shot,,
+0021001115,531,4,0,4,11:21 PM,0:00,Nene REBOUND (Off:5 Def:10),,,,
+0021001115,532,13,0,4,11:21 PM,0:00,,,,90 - 104,14

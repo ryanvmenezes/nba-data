@@ -1,0 +1,462 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029900573,0,12,0,1,7:10 PM,12:00,,,,,
+0029900573,1,10,0,1,7:11 PM,12:00,Jump Ball Reeves vs. Wallace: Tip to Armstrong,,,,
+0029900573,2,6,1,1,7:11 PM,11:51,Reeves P.FOUL (P1.T1),,,,
+0029900573,3,5,13,1,7:12 PM,11:40,,,Amaechi Backcourt Turnover (P1.T1),,
+0029900573,4,1,1,1,7:12 PM,11:26,Bibby 16' Jump Shot (2 PTS),,,0 - 2,2
+0029900573,5,2,1,1,7:12 PM,11:11,,,MISS Amaechi 5' Jump Shot,,
+0029900573,6,4,0,1,7:12 PM,11:09,,,Amaechi REBOUND (Off:1 Def:0),,
+0029900573,7,2,1,1,7:12 PM,11:07,,,MISS Amaechi 4' Jump Shot,,
+0029900573,8,4,0,1,7:12 PM,11:04,Reeves REBOUND (Off:0 Def:1),,,,
+0029900573,9,2,1,1,7:13 PM,10:52,MISS Abdur-Rahim 14' Jump Shot,,,,
+0029900573,10,4,0,1,7:13 PM,10:51,,,Amaechi REBOUND (Off:1 Def:1),,
+0029900573,11,2,1,1,7:13 PM,10:36,,,MISS Amaechi 13' Jump Shot,,
+0029900573,12,4,0,1,7:13 PM,10:34,Bibby REBOUND (Off:0 Def:1),,,,
+0029900573,13,5,2,1,7:13 PM,10:27,Abdur-Rahim Lost Ball Turnover (P1.T1),,Outlaw STEAL (1 STL),,
+0029900573,14,1,5,1,7:13 PM,10:22,,,Armstrong 1' Layup (2 PTS) (Outlaw 1 AST),2 - 2,TIE
+0029900573,15,2,1,1,7:14 PM,10:01,MISS Bibby 17' Jump Shot,,,,
+0029900573,16,4,0,1,7:14 PM,9:59,,,Amaechi REBOUND (Off:1 Def:2),,
+0029900573,17,5,1,1,7:14 PM,9:57,Dickerson STEAL (1 STL),,Amaechi Bad Pass Turnover (P2.T2),,
+0029900573,18,5,1,1,7:14 PM,9:50,Abdur-Rahim Bad Pass Turnover (P2.T2),,Outlaw STEAL (2 STL),,
+0029900573,19,2,1,1,7:14 PM,9:43,,,MISS Armstrong 6' Jump Shot,,
+0029900573,21,4,0,1,7:14 PM,9:42,,,Abdul-Wahad REBOUND (Off:1 Def:0),,
+0029900573,20,1,7,1,7:14 PM,9:42,,,Abdul-Wahad 1' Dunk (2 PTS),4 - 2,-2
+0029900573,22,2,1,1,7:14 PM,9:16,MISS Dickerson 16' Jump Shot,,,,
+0029900573,24,4,0,1,7:14 PM,9:14,Harrington REBOUND (Off:1 Def:0),,,,
+0029900573,23,1,5,1,7:14 PM,9:14,Harrington 1' Layup (2 PTS),,,4 - 4,TIE
+0029900573,25,2,1,1,7:15 PM,8:57,,,MISS Armstrong 5' Jump Shot,,
+0029900573,26,4,0,1,7:15 PM,8:56,Reeves REBOUND (Off:0 Def:2),,,,
+0029900573,27,6,2,1,7:15 PM,8:42,,,Outlaw S.FOUL (P1.T1),,
+0029900573,28,3,13,1,7:15 PM,8:42,MISS Abdur-Rahim Free Throw 1 of 3,,,,
+0029900573,29,4,1,1,7:15 PM,8:42,GRIZZLIES Rebound,,,,
+0029900573,30,3,14,1,7:15 PM,8:42,Abdur-Rahim Free Throw 2 of 3 (1 PTS),,,4 - 5,1
+0029900573,31,3,15,1,7:15 PM,8:42,Abdur-Rahim Free Throw 3 of 3 (2 PTS),,,4 - 6,2
+0029900573,32,2,1,1,7:16 PM,8:25,,,MISS Abdul-Wahad 14' Jump Shot,,
+0029900573,33,4,0,1,7:16 PM,8:22,Abdur-Rahim REBOUND (Off:0 Def:1),,,,
+0029900573,34,2,1,1,7:16 PM,8:13,MISS Abdur-Rahim 19' Jump Shot,,,,
+0029900573,35,4,0,1,7:16 PM,8:11,,,Armstrong REBOUND (Off:0 Def:1),,
+0029900573,36,5,2,1,7:16 PM,8:06,Abdur-Rahim STEAL (1 STL),,Armstrong Lost Ball Turnover (P1.T3),,
+0029900573,37,2,1,1,7:16 PM,7:58,MISS Bibby 18' Jump Shot,,,,
+0029900573,38,4,0,1,7:16 PM,7:57,,,Amaechi REBOUND (Off:1 Def:3),,
+0029900573,39,1,1,1,7:17 PM,7:52,,,Armstrong 18' Jump Shot (4 PTS) (Amaechi 1 AST),6 - 6,TIE
+0029900573,40,6,2,1,7:17 PM,7:31,,,Wallace S.FOUL (P1.T2),,
+0029900573,41,3,11,1,7:17 PM,7:31,Reeves Free Throw 1 of 2 (1 PTS),,,6 - 7,1
+0029900573,42,3,12,1,7:17 PM,7:31,Reeves Free Throw 2 of 2 (2 PTS),,,6 - 8,2
+0029900573,43,2,1,1,7:18 PM,7:11,,,MISS Abdul-Wahad 10' Jump Shot,,
+0029900573,44,4,0,1,7:18 PM,7:09,Reeves REBOUND (Off:0 Def:3),,,,
+0029900573,45,5,1,1,7:19 PM,6:58,Abdur-Rahim Bad Pass Turnover (P3.T3),,Armstrong STEAL (1 STL),,
+0029900573,46,1,7,1,7:19 PM,6:53,,,Abdul-Wahad  Dunk (4 PTS) (Armstrong 1 AST),8 - 8,TIE
+0029900573,48,9,1,1,7:20 PM,6:50,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,
+0029900573,51,2,1,1,7:22 PM,6:28,MISS Dickerson 12' Jump Shot,,,,
+0029900573,52,4,0,1,7:22 PM,6:25,Abdur-Rahim REBOUND (Off:1 Def:1),,,,
+0029900573,53,1,1,1,7:22 PM,6:22,Dickerson  3PT Jump Shot (3 PTS) (Abdur-Rahim 1 AST),,,8 - 11,3
+0029900573,54,6,1,1,7:22 PM,6:08,Dickerson P.FOUL (P1.T2),,,,
+0029900573,55,5,4,1,7:23 PM,5:56,,,Amaechi Traveling Turnover (P3.T4),,
+0029900573,56,2,1,1,7:23 PM,5:34,MISS Harrington 20' Jump Shot,,Outlaw BLOCK (1 BLK),,
+0029900573,58,10,0,1,7:24 PM,5:33,Jump Ball Harrington vs. Outlaw: Tip to Armstrong,,,,
+0029900573,59,4,0,1,7:24 PM,5:33,,,Magic Rebound,,
+0029900573,60,5,1,1,7:24 PM,5:28,,,Armstrong Bad Pass Turnover (P2.T5),,
+0029900573,61,5,2,1,7:24 PM,5:21,Abdur-Rahim Lost Ball Turnover (P4.T4),,Wallace STEAL (1 STL),,
+0029900573,62,2,5,1,7:24 PM,5:15,,,MISS Abdul-Wahad 1' Layup,,
+0029900573,64,4,0,1,7:24 PM,5:14,,,Amaechi REBOUND (Off:2 Def:3),,
+0029900573,63,1,5,1,7:24 PM,5:14,,,Amaechi 1' Layup (2 PTS),10 - 11,1
+0029900573,65,2,1,1,7:25 PM,4:54,MISS Bibby 5' Jump Shot,,,,
+0029900573,66,4,0,1,7:25 PM,4:52,Bibby REBOUND (Off:1 Def:1),,,,
+0029900573,67,6,4,1,7:25 PM,4:45,Harrington OFF.Foul (P1),,,,
+0029900573,68,5,5,1,7:25 PM,4:45,Harrington Foul Turnover (P1.T5),,,,
+0029900573,69,8,0,1,7:25 PM,4:45,SUB: West FOR Abdur-Rahim,,,,
+0029900573,70,1,9,1,7:25 PM,4:33,,,Amaechi  Driving Dunk (4 PTS) (Armstrong 2 AST),12 - 11,-1
+0029900573,71,2,1,1,7:26 PM,4:13,MISS Dickerson  3PT Jump Shot,,,,
+0029900573,72,4,0,1,7:26 PM,4:12,,,Wallace REBOUND (Off:0 Def:1),,
+0029900573,73,1,7,1,7:26 PM,4:01,,,Outlaw 1' Dunk (2 PTS) (Abdul-Wahad 1 AST),14 - 11,-3
+0029900573,74,2,1,1,7:26 PM,3:31,MISS West 18' Jump Shot,,Wallace BLOCK (1 BLK),,
+0029900573,75,4,0,1,7:26 PM,3:29,West REBOUND (Off:1 Def:0),,,,
+0029900573,76,2,1,1,7:26 PM,3:26,MISS Bibby 25' 3PT Jump Shot,,,,
+0029900573,77,4,0,1,7:26 PM,3:23,,,Wallace REBOUND (Off:0 Def:2),,
+0029900573,78,2,1,1,7:27 PM,3:15,,,MISS Abdul-Wahad 9' Jump Shot,,
+0029900573,79,4,0,1,7:27 PM,3:13,Reeves REBOUND (Off:0 Def:4),,,,
+0029900573,80,1,1,1,7:27 PM,3:05,Dickerson 15' Jump Shot (5 PTS) (West 1 AST),,,14 - 13,-1
+0029900573,81,1,6,1,7:27 PM,2:51,,,Abdul-Wahad 2' Driving Layup (6 PTS),16 - 13,-3
+0029900573,82,2,1,1,7:27 PM,2:33,MISS Dickerson 19' Jump Shot,,,,
+0029900573,83,4,0,1,7:27 PM,2:31,Dickerson REBOUND (Off:1 Def:0),,,,
+0029900573,84,2,1,1,7:27 PM,2:28,MISS Reeves 3' Jump Shot,,,,
+0029900573,85,4,0,1,7:27 PM,2:26,,,Wallace REBOUND (Off:0 Def:3),,
+0029900573,86,2,5,1,7:27 PM,2:17,,,MISS Abdul-Wahad 2' Layup,,
+0029900573,87,4,0,1,7:28 PM,2:14,Reeves REBOUND (Off:0 Def:5),,,,
+0029900573,88,1,5,1,7:28 PM,2:09,West 1' Layup (2 PTS) (Bibby 1 AST),,,16 - 15,-1
+0029900573,89,9,1,1,7:28 PM,2:01,,,Magic Timeout: Regular (Reg.1 Short 0),,
+0029900573,90,8,0,1,7:30 PM,2:01,SUB: Long FOR Reeves,,,,
+0029900573,91,8,0,1,7:30 PM,2:01,,,SUB: Maggette FOR Amaechi,,
+0029900573,92,8,0,1,7:30 PM,2:01,,,SUB: Doleac FOR Abdul-Wahad,,
+0029900573,93,5,2,1,7:30 PM,1:50,Bibby STEAL (1 STL),,Maggette Lost Ball Turnover (P1.T6),,
+0029900573,94,2,1,1,7:31 PM,1:30,MISS Bibby 21' Jump Shot,,,,
+0029900573,95,4,0,1,7:31 PM,1:29,,,Wallace REBOUND (Off:0 Def:4),,
+0029900573,100,5,2,1,7:31 PM,1:29,Bibby STEAL (2 STL),,Wallace Lost Ball Turnover (P1.T7),,
+0029900573,102,5,2,1,7:31 PM,1:29,Bibby Lost Ball Turnover (P1.T6),,,,
+0029900573,96,2,1,1,7:31 PM,1:12,,,MISS Doleac 16' Jump Shot,,
+0029900573,97,4,0,1,7:31 PM,1:12,,,Magic Rebound,,
+0029900573,98,6,3,1,7:32 PM,1:12,Long L.B.FOUL (P1.T3),,,,
+0029900573,99,8,0,1,7:32 PM,1:12,,,SUB: Atkins FOR Armstrong,,
+0029900573,101,1,1,1,7:32 PM,1:04,,,Wallace 7' Jump Shot (2 PTS) (Atkins 1 AST),18 - 15,-3
+0029900573,103,6,2,1,7:33 PM,0:44,,,Atkins S.FOUL (P1.T3),,
+0029900573,104,8,0,1,7:33 PM,0:44,,,SUB: Gatling FOR Wallace,,
+0029900573,106,8,0,1,7:33 PM,0:44,SUB: Scott FOR Harrington,,,,
+0029900573,107,3,11,1,7:33 PM,0:44,Dickerson Free Throw 1 of 2 (6 PTS),,,18 - 16,-2
+0029900573,108,3,12,1,7:33 PM,0:44,Dickerson Free Throw 2 of 2 (7 PTS),,,18 - 17,-1
+0029900573,109,2,1,1,7:33 PM,0:36,,,MISS Atkins 21' Jump Shot,,
+0029900573,110,4,0,1,7:33 PM,0:33,Dickerson REBOUND (Off:1 Def:1),,,,
+0029900573,111,1,7,1,7:34 PM,0:30,West 1' Dunk (4 PTS) (Bibby 2 AST),,,18 - 19,1
+0029900573,112,1,1,1,7:34 PM,0:13,,,Gatling 13' Jump Shot (2 PTS) (Doleac 1 AST),20 - 19,-1
+0029900573,113,2,1,1,7:34 PM,0:00,MISS Long 21' Jump Shot,,,,
+0029900573,114,4,0,1,7:35 PM,0:00,GRIZZLIES Rebound,,,,
+0029900573,115,13,0,1,7:35 PM,0:00,,,,20 - 19,-1
+0029900573,117,12,0,2,7:37 PM,12:00,,,,20 - 19,-1
+0029900573,118,2,1,2,7:38 PM,11:44,MISS Scott 19' Jump Shot,,,,
+0029900573,119,4,0,2,7:38 PM,11:42,Abdur-Rahim REBOUND (Off:2 Def:1),,,,
+0029900573,120,1,5,2,7:38 PM,11:40,Abdur-Rahim  Layup (4 PTS),,,20 - 21,1
+0029900573,121,1,5,2,7:38 PM,11:21,,,Gatling 2' Layup (4 PTS),22 - 21,-1
+0029900573,122,1,1,2,7:38 PM,10:56,West 20' Jump Shot (6 PTS) (Scott 1 AST),,,22 - 23,1
+0029900573,123,2,1,2,7:39 PM,10:38,,,MISS Doleac 16' Jump Shot,,
+0029900573,124,4,0,2,7:39 PM,10:36,West REBOUND (Off:1 Def:1),,,,
+0029900573,125,1,1,2,7:39 PM,10:29,Scott 19' Jump Shot (2 PTS) (Abdur-Rahim 2 AST),,,22 - 25,3
+0029900573,127,8,0,2,7:39 PM,10:20,,,SUB: Garrity FOR Doleac,,
+0029900573,128,2,5,2,7:39 PM,10:18,,,MISS Gatling 1' Layup,,
+0029900573,130,4,0,2,7:39 PM,10:14,,,Gatling REBOUND (Off:1 Def:0),,
+0029900573,129,2,5,2,7:39 PM,10:14,,,MISS Gatling  Layup,,
+0029900573,131,4,0,2,7:39 PM,10:12,Scott REBOUND (Off:0 Def:1),,,,
+0029900573,132,2,1,2,7:40 PM,10:03,MISS Scott 25' 3PT Jump Shot,,,,
+0029900573,133,4,0,2,7:40 PM,10:00,,,Maggette REBOUND (Off:0 Def:1),,
+0029900573,134,2,5,2,7:40 PM,9:56,,,MISS Williams 1' Layup,,
+0029900573,135,4,0,2,7:40 PM,9:55,Long REBOUND (Off:0 Def:1),,,,
+0029900573,136,2,1,2,7:40 PM,9:33,MISS Abdur-Rahim 7' Jump Shot,,,,
+0029900573,137,4,0,2,7:40 PM,9:31,Long REBOUND (Off:1 Def:1),,,,
+0029900573,138,2,5,2,7:40 PM,9:29,MISS Long 1' Layup,,,,
+0029900573,139,4,0,2,7:40 PM,9:28,,,Garrity REBOUND (Off:0 Def:1),,
+0029900573,140,1,6,2,7:40 PM,9:22,,,Atkins 4' Driving Layup (2 PTS),24 - 25,1
+0029900573,141,1,5,2,7:41 PM,8:56,Scott 2' Layup (4 PTS),,,24 - 27,3
+0029900573,142,6,2,2,7:41 PM,8:48,West S.FOUL (P1.T1),,,,
+0029900573,143,9,4,2,7:41 PM,8:48,,,,,
+0029900573,145,8,0,2,7:43 PM,8:48,SUB: Palacio FOR Bibby,,,,
+0029900573,147,3,11,2,7:43 PM,8:48,,,Atkins Free Throw 1 of 2 (3 PTS),25 - 27,2
+0029900573,148,3,12,2,7:43 PM,8:48,,,MISS Atkins Free Throw 2 of 2,,
+0029900573,149,4,0,2,7:44 PM,8:47,Scott REBOUND (Off:0 Def:2),,,,
+0029900573,150,2,1,2,7:44 PM,8:20,MISS Abdur-Rahim 5' Jump Shot,,Gatling BLOCK (1 BLK),,
+0029900573,151,4,0,2,7:44 PM,8:18,,,Gatling REBOUND (Off:1 Def:1),,
+0029900573,152,2,1,2,7:44 PM,8:14,,,MISS Maggette 18' Jump Shot,,
+0029900573,153,4,0,2,7:44 PM,8:11,Scott REBOUND (Off:0 Def:3),,,,
+0029900573,154,6,1,2,7:44 PM,8:03,,,Maggette P.FOUL (P1.T1),,
+0029900573,155,2,5,2,7:45 PM,7:51,MISS West 2' Layup,,,,
+0029900573,156,4,0,2,7:45 PM,7:49,,,Gatling REBOUND (Off:1 Def:2),,
+0029900573,157,2,1,2,7:45 PM,7:43,,,MISS Williams 15' Jump Shot,,
+0029900573,158,4,0,2,7:45 PM,7:41,Long REBOUND (Off:1 Def:2),,,,
+0029900573,159,1,6,2,7:45 PM,7:29,Palacio  Driving Layup (2 PTS),,,25 - 29,4
+0029900573,160,1,1,2,7:45 PM,7:22,,,Atkins 16' Jump Shot (5 PTS),27 - 29,2
+0029900573,161,2,1,2,7:46 PM,7:01,MISS Scott 24' 3PT Jump Shot,,,,
+0029900573,162,4,0,2,7:46 PM,7:01,Long REBOUND (Off:2 Def:2),,,,
+0029900573,163,6,1,2,7:46 PM,7:01,,,Atkins P.FOUL (P2.T2),,
+0029900573,164,8,0,2,7:46 PM,7:01,SUB: Dickerson FOR West,,,,
+0029900573,165,6,2,2,7:46 PM,6:55,,,Garrity S.FOUL (P1.T3),,
+0029900573,166,9,1,2,7:46 PM,6:55,GRIZZLIES Timeout: Regular (Full 2 Short 0),,,,
+0029900573,170,3,11,2,7:49 PM,6:55,MISS Abdur-Rahim Free Throw 1 of 2,,,,
+0029900573,171,4,1,2,7:49 PM,6:55,GRIZZLIES Rebound,,,,
+0029900573,172,3,12,2,7:49 PM,6:55,Abdur-Rahim Free Throw 2 of 2 (5 PTS),,,27 - 30,3
+0029900573,173,2,1,2,7:49 PM,6:45,,,MISS Gatling 17' Jump Shot,,
+0029900573,174,4,0,2,7:49 PM,6:42,,,Maggette REBOUND (Off:1 Def:1),,
+0029900573,175,6,2,2,7:50 PM,6:42,Long S.FOUL (P2.T2),,,,
+0029900573,176,3,11,2,7:50 PM,6:42,,,Maggette Free Throw 1 of 2 (1 PTS),28 - 30,2
+0029900573,177,8,0,2,7:50 PM,6:42,SUB: Harrington FOR Long,,,,
+0029900573,178,3,12,2,7:50 PM,6:42,,,Maggette Free Throw 2 of 2 (2 PTS),29 - 30,1
+0029900573,179,5,4,2,7:51 PM,6:21,Dickerson Traveling Turnover (P1.T7),,,,
+0029900573,181,7,3,2,7:51 PM,6:07,Abdur-Rahim Violation:Lane,,,,
+0029900573,180,1,6,2,7:51 PM,6:07,,,Atkins 1' Driving Layup (7 PTS),31 - 30,-1
+0029900573,182,1,1,2,7:51 PM,5:51,Harrington 4' Jump Shot (4 PTS) (Abdur-Rahim 3 AST),,,31 - 32,1
+0029900573,183,1,1,2,7:52 PM,5:31,,,Atkins 19' Jump Shot (9 PTS),33 - 32,-1
+0029900573,184,5,3,2,7:52 PM,5:11,Scott Out Of Bounds Turnover (P1.T8),,,,
+0029900573,185,2,1,2,7:53 PM,4:57,,,MISS Gatling 7' Jump Shot,,
+0029900573,186,4,0,2,7:53 PM,4:56,,,Magic Rebound,,
+0029900573,187,6,3,2,7:53 PM,4:56,Scott L.B.FOUL (P1.T3),,,,
+0029900573,188,8,0,2,7:53 PM,4:56,,,SUB: Outlaw FOR Williams,,
+0029900573,189,1,1,2,7:53 PM,4:45,,,Garrity 19' Jump Shot (2 PTS) (Atkins 2 AST),35 - 32,-3
+0029900573,190,6,1,2,7:54 PM,4:25,,,Gatling P.FOUL (P1.T4),,
+0029900573,192,6,2,2,7:54 PM,4:12,,,Outlaw S.FOUL (P2.PN),,
+0029900573,194,3,11,2,7:54 PM,4:12,Scott Free Throw 1 of 2 (5 PTS),,,35 - 33,-2
+0029900573,195,3,12,2,7:55 PM,4:12,Scott Free Throw 2 of 2 (6 PTS),,,35 - 34,-1
+0029900573,197,7,3,2,7:55 PM,4:04,Abdur-Rahim Violation:Lane,,,,
+0029900573,196,1,6,2,7:55 PM,4:04,,,Atkins  Driving Layup (11 PTS),37 - 34,-3
+0029900573,198,1,2,2,7:55 PM,3:51,Palacio 1' Running Jump Shot (4 PTS),,,37 - 36,-1
+0029900573,199,6,2,2,7:56 PM,3:35,Palacio S.FOUL (P1.T4),,,,
+0029900573,200,8,0,2,7:56 PM,3:35,SUB: Bibby FOR Palacio,,,,
+0029900573,201,8,0,2,7:56 PM,3:35,,,SUB: Armstrong FOR Maggette,,
+0029900573,202,3,11,2,7:56 PM,3:35,,,Atkins Free Throw 1 of 2 (12 PTS),38 - 36,-2
+0029900573,203,8,0,2,7:56 PM,3:35,SUB: Reeves FOR Scott,,,,
+0029900573,204,3,12,2,7:56 PM,3:35,,,Atkins Free Throw 2 of 2 (13 PTS),39 - 36,-3
+0029900573,205,8,0,2,7:57 PM,3:24,,,SUB: Amaechi FOR Gatling,,
+0029900573,206,2,1,2,7:57 PM,3:18,MISS Dickerson 17' Jump Shot,,,,
+0029900573,207,4,0,2,7:57 PM,3:18,GRIZZLIES Rebound,,,,
+0029900573,208,6,3,2,7:57 PM,3:18,,,Garrity L.B.FOUL (P2.PN),,
+0029900573,209,3,11,2,7:57 PM,3:18,Harrington Free Throw 1 of 2 (5 PTS),,,39 - 37,-2
+0029900573,210,3,12,2,7:57 PM,3:18,Harrington Free Throw 2 of 2 (6 PTS),,,39 - 38,-1
+0029900573,211,9,1,2,7:58 PM,3:14,,,Magic Timeout: Regular (Reg.2 Short 0),,
+0029900573,215,2,1,2,8:01 PM,3:05,,,MISS Garrity 21' Jump Shot,,
+0029900573,216,4,0,2,8:01 PM,3:03,Reeves REBOUND (Off:0 Def:6),,,,
+0029900573,217,1,1,2,8:01 PM,2:50,Dickerson 21' Jump Shot (9 PTS) (Bibby 3 AST),,,39 - 40,1
+0029900573,218,1,1,2,8:01 PM,2:22,,,Atkins 24' 3PT Jump Shot (16 PTS) (Garrity 1 AST),42 - 40,-2
+0029900573,219,6,4,2,8:02 PM,2:07,Dickerson OFF.Foul (P2),,,,
+0029900573,220,5,5,2,8:02 PM,2:07,Dickerson Foul Turnover (P2.T9),,,,
+0029900573,221,8,0,2,8:02 PM,2:07,,,SUB: Wallace FOR Atkins,,
+0029900573,222,8,0,2,8:02 PM,2:07,,,SUB: Abdul-Wahad FOR Garrity,,
+0029900573,223,1,1,2,8:02 PM,1:44,,,Abdul-Wahad 10' Jump Shot (8 PTS) (Wallace 1 AST),44 - 40,-4
+0029900573,224,5,1,2,8:02 PM,1:26,Harrington Bad Pass Turnover (P2.T10),,Amaechi STEAL (1 STL),,
+0029900573,225,2,1,2,8:03 PM,1:22,Abdur-Rahim BLOCK (1 BLK),,MISS Outlaw 4' Jump Shot,,
+0029900573,226,4,0,2,8:03 PM,1:19,,,Wallace REBOUND (Off:1 Def:4),,
+0029900573,227,1,8,2,8:03 PM,1:15,,,Wallace  Slam Dunk (4 PTS),46 - 40,-6
+0029900573,229,5,1,2,8:03 PM,0:53,Bibby Bad Pass Turnover (P2.T11),,Wallace STEAL (2 STL),,
+0029900573,230,2,5,2,8:03 PM,0:48,,,MISS Armstrong 1' Layup,,
+0029900573,231,4,0,2,8:03 PM,0:47,,,Abdul-Wahad REBOUND (Off:2 Def:0),,
+0029900573,232,1,1,2,8:03 PM,0:47,,,Abdul-Wahad  Jump Shot (10 PTS),48 - 40,-8
+0029900573,233,9,2,2,8:04 PM,0:47,GRIZZLIES Timeout: Short (Full 2 Short 1),,,,
+0029900573,234,8,0,2,8:04 PM,0:47,SUB: Long FOR Reeves,,,,
+0029900573,235,2,1,2,8:05 PM,0:26,MISS Bibby 25' 3PT Jump Shot,,,,
+0029900573,236,4,0,2,8:05 PM,0:25,Harrington REBOUND (Off:2 Def:0),,,,
+0029900573,237,1,5,2,8:05 PM,0:25,Harrington 1' Layup (8 PTS),,,48 - 42,-6
+0029900573,238,9,2,2,8:05 PM,0:20,,,Magic Timeout: Short (Reg.2 Short 1),,
+0029900573,239,8,0,2,8:06 PM,0:20,,,SUB: Garrity FOR Wallace,,
+0029900573,240,8,0,2,8:06 PM,0:20,SUB: West FOR Dickerson,,,,
+0029900573,241,2,1,2,8:07 PM,0:01,,,MISS Garrity 17' Jump Shot,,
+0029900573,242,4,0,2,8:07 PM,0:01,,,Abdul-Wahad REBOUND (Off:3 Def:0),,
+0029900573,243,2,5,2,8:07 PM,0:01,,,MISS Abdul-Wahad 1' Layup,,
+0029900573,244,4,0,2,8:07 PM,0:01,,,Abdul-Wahad REBOUND (Off:4 Def:0),,
+0029900573,245,5,11,2,8:07 PM,0:01,,,Magic Turnover: Shot Clock (T#8),,
+0029900573,246,2,1,2,8:07 PM,0:00,MISS Bibby 39' 3PT Jump Shot,,,,
+0029900573,247,4,0,2,8:07 PM,0:00,GRIZZLIES Rebound,,,,
+0029900573,248,13,0,2,8:07 PM,0:00,,,,48 - 42,-6
+0029900573,250,12,0,3,8:25 PM,12:00,,,,48 - 42,-6
+0029900573,251,6,2,3,8:26 PM,11:46,,,Wallace S.FOUL (P2.T1),,
+0029900573,252,3,11,3,8:26 PM,11:46,Harrington Free Throw 1 of 2 (9 PTS),,,48 - 43,-5
+0029900573,253,3,12,3,8:26 PM,11:46,Harrington Free Throw 2 of 2 (10 PTS),,,48 - 44,-4
+0029900573,254,6,1,3,8:27 PM,11:27,Bibby P.FOUL (P1.T1),,,,
+0029900573,255,2,1,3,8:27 PM,11:18,,,MISS Abdul-Wahad 14' Jump Shot,,
+0029900573,256,4,0,3,8:27 PM,11:16,Harrington REBOUND (Off:2 Def:1),,,,
+0029900573,257,1,7,3,8:27 PM,11:13,Dickerson 1' Dunk (11 PTS) (Bibby 4 AST),,,48 - 46,-2
+0029900573,258,5,4,3,8:28 PM,11:02,,,Abdul-Wahad Traveling Turnover (P1.T9),,
+0029900573,259,1,5,3,8:28 PM,10:40,Abdur-Rahim 2' Layup (7 PTS),,,48 - 48,TIE
+0029900573,260,9,2,3,8:28 PM,10:39,,,Magic Timeout: Short (Reg.2 Short 2),,
+0029900573,262,2,1,3,8:29 PM,10:27,,,MISS Armstrong 17' Jump Shot,,
+0029900573,263,4,0,3,8:29 PM,10:27,,,Magic Rebound,,
+0029900573,264,6,1,3,8:29 PM,10:27,Harrington P.FOUL (P2.T2),,,,
+0029900573,265,2,1,3,8:29 PM,10:15,,,MISS Amaechi 19' Jump Shot,,
+0029900573,266,4,0,3,8:29 PM,10:14,Abdur-Rahim REBOUND (Off:2 Def:2),,,,
+0029900573,267,1,1,3,8:30 PM,9:58,Dickerson 25' 3PT Jump Shot (14 PTS) (Harrington 1 AST),,,48 - 51,3
+0029900573,268,9,1,3,8:30 PM,9:49,,,Magic Timeout: Regular (Reg.3 Short 2),,
+0029900573,270,5,8,3,8:33 PM,9:35,,,Outlaw 3 Second Violation Turnover (P1.T10),,
+0029900573,271,5,3,3,8:33 PM,9:22,Bibby Out Of Bounds Turnover (P3.T12),,,,
+0029900573,272,1,1,3,8:34 PM,9:00,,,Armstrong 24' 3PT Jump Shot (7 PTS) (Abdul-Wahad 2 AST),51 - 51,TIE
+0029900573,273,2,1,3,8:34 PM,8:32,MISS Reeves 26' 3PT Jump Shot,,,,
+0029900573,274,4,0,3,8:34 PM,8:32,,,Magic Rebound,,
+0029900573,275,2,1,3,8:35 PM,8:17,,,MISS Armstrong 24' 3PT Jump Shot,,
+0029900573,276,4,0,3,8:35 PM,8:16,,,Wallace REBOUND (Off:2 Def:4),,
+0029900573,277,6,2,3,8:35 PM,8:16,Dickerson S.FOUL (P3.T3),,,,
+0029900573,278,3,11,3,8:35 PM,8:16,,,MISS Wallace Free Throw 1 of 2,,
+0029900573,279,4,1,3,8:35 PM,8:16,,,Magic Rebound,,
+0029900573,280,3,12,3,8:35 PM,8:16,,,Wallace Free Throw 2 of 2 (5 PTS),52 - 51,-1
+0029900573,281,5,1,3,8:36 PM,8:01,Harrington Bad Pass Turnover (P3.T13),,Amaechi STEAL (2 STL),,
+0029900573,282,2,1,3,8:36 PM,7:49,,,MISS Wallace 13' Jump Shot,,
+0029900573,283,4,0,3,8:36 PM,7:48,,,Wallace REBOUND (Off:3 Def:4),,
+0029900573,284,1,3,3,8:36 PM,7:46,,,Wallace 4' Hook Shot (7 PTS),54 - 51,-3
+0029900573,285,2,1,3,8:36 PM,7:20,MISS Dickerson 17' Jump Shot,,,,
+0029900573,286,4,0,3,8:36 PM,7:19,Reeves REBOUND (Off:1 Def:6),,,,
+0029900573,287,2,5,3,8:36 PM,7:15,MISS Reeves 1' Layup,,,,
+0029900573,288,4,0,3,8:36 PM,7:14,Reeves REBOUND (Off:2 Def:6),,,,
+0029900573,289,2,5,3,8:36 PM,7:13,MISS Reeves 1' Layup,,,,
+0029900573,291,4,0,3,8:36 PM,7:10,Abdur-Rahim REBOUND (Off:3 Def:2),,,,
+0029900573,290,2,5,3,8:36 PM,7:10,MISS Abdur-Rahim  Layup,,,,
+0029900573,293,4,0,3,8:36 PM,7:07,Reeves REBOUND (Off:3 Def:6),,,,
+0029900573,292,1,4,3,8:36 PM,7:07,Reeves 1' Tip Shot (4 PTS),,,54 - 53,-1
+0029900573,294,1,7,3,8:37 PM,7:01,,,Abdul-Wahad 1' Dunk (12 PTS) (Armstrong 3 AST),56 - 53,-3
+0029900573,296,2,1,3,8:37 PM,6:39,MISS Reeves 7' Jump Shot,,,,
+0029900573,297,4,0,3,8:37 PM,6:38,Harrington REBOUND (Off:3 Def:1),,,,
+0029900573,298,2,5,3,8:37 PM,6:34,MISS Abdur-Rahim 1' Layup,,Wallace BLOCK (2 BLK),,
+0029900573,299,4,0,3,8:37 PM,6:31,,,Outlaw REBOUND (Off:0 Def:1),,
+0029900573,300,1,5,3,8:37 PM,6:27,,,Amaechi 1' Layup (6 PTS) (Armstrong 4 AST),58 - 53,-5
+0029900573,301,9,1,3,8:37 PM,6:23,GRIZZLIES Timeout: Regular (Full 3 Short 1),,,,
+0029900573,304,1,2,3,8:40 PM,6:00,Abdur-Rahim 8' Running Jump Shot (9 PTS) (Bibby 5 AST),,,58 - 55,-3
+0029900573,305,2,1,3,8:40 PM,5:36,,,MISS Abdul-Wahad 18' Jump Shot,,
+0029900573,306,4,0,3,8:40 PM,5:34,Reeves REBOUND (Off:3 Def:7),,,,
+0029900573,307,2,1,3,8:41 PM,5:16,MISS Dickerson 24' 3PT Jump Shot,,,,
+0029900573,308,4,0,3,8:41 PM,5:13,Abdur-Rahim REBOUND (Off:4 Def:2),,,,
+0029900573,309,2,5,3,8:41 PM,5:11,MISS Abdur-Rahim 1' Layup,,,,
+0029900573,310,4,0,3,8:41 PM,5:09,,,Abdul-Wahad REBOUND (Off:4 Def:1),,
+0029900573,311,2,5,3,8:41 PM,5:07,,,MISS Outlaw 1' Layup,,
+0029900573,312,4,0,3,8:41 PM,5:07,Bibby REBOUND (Off:1 Def:2),,,,
+0029900573,313,6,11,3,8:41 PM,5:07,,,,,
+0029900573,314,3,16,3,8:41 PM,5:07,,,Armstrong Free Throw Technical (8 PTS),59 - 55,-4
+0029900573,315,2,1,3,8:42 PM,4:53,MISS Harrington 8' Jump Shot,,Wallace BLOCK (3 BLK),,
+0029900573,316,4,0,3,8:42 PM,4:51,,,Wallace REBOUND (Off:3 Def:5),,
+0029900573,317,1,1,3,8:42 PM,4:48,,,Abdul-Wahad 5' Jump Shot (14 PTS) (Armstrong 5 AST),61 - 55,-6
+0029900573,318,5,4,3,8:42 PM,4:36,Harrington Traveling Turnover (P4.T14),,,,
+0029900573,319,8,0,3,8:42 PM,4:36,SUB: Long FOR Reeves,,,,
+0029900573,320,1,1,3,8:43 PM,4:25,,,Abdul-Wahad 11' Jump Shot (16 PTS),63 - 55,-8
+0029900573,321,2,5,3,8:43 PM,4:14,MISS Abdur-Rahim 2' Layup,,Amaechi BLOCK (1 BLK),,
+0029900573,322,4,0,3,8:43 PM,4:11,Bibby REBOUND (Off:2 Def:2),,,,
+0029900573,323,2,1,3,8:43 PM,4:00,MISS Abdur-Rahim 13' Jump Shot,,Amaechi BLOCK (2 BLK),,
+0029900573,324,4,0,3,8:43 PM,3:58,Abdur-Rahim REBOUND (Off:5 Def:2),,,,
+0029900573,325,5,11,3,8:43 PM,3:58,GRIZZLIES Turnover: Shot Clock (T#15),,,,
+0029900573,326,8,0,3,8:43 PM,3:58,SUB: West FOR Harrington,,,,
+0029900573,327,2,5,3,8:44 PM,3:41,,,MISS Amaechi 2' Layup,,
+0029900573,328,4,0,3,8:44 PM,3:40,Abdur-Rahim REBOUND (Off:5 Def:3),,,,
+0029900573,329,6,4,3,8:44 PM,3:36,Bibby OFF.Foul (P2),,,,
+0029900573,330,5,5,3,8:44 PM,3:36,Bibby Foul Turnover (P4.T16),,,,
+0029900573,331,6,1,3,8:44 PM,3:27,Long P.FOUL (P3.T4),,,,
+0029900573,332,5,3,3,8:45 PM,3:18,,,Wallace Out Of Bounds Turnover (P2.T11),,
+0029900573,333,8,0,3,8:45 PM,3:18,SUB: Palacio FOR Bibby,,,,
+0029900573,334,5,4,3,8:45 PM,3:00,Dickerson Traveling Turnover (P3.T17),,,,
+0029900573,335,2,1,3,8:46 PM,2:38,,,MISS Armstrong 20' Jump Shot,,
+0029900573,336,4,0,3,8:46 PM,2:35,Long REBOUND (Off:2 Def:3),,,,
+0029900573,337,5,1,3,8:46 PM,2:33,Long Bad Pass Turnover (P1.T18),,Armstrong STEAL (2 STL),,
+0029900573,338,1,5,3,8:46 PM,2:29,,,Wallace  Layup (9 PTS) (Armstrong 6 AST),65 - 55,-10
+0029900573,339,2,1,3,8:46 PM,2:14,MISS Palacio 4' Jump Shot,,Outlaw BLOCK (2 BLK),,
+0029900573,340,4,0,3,8:46 PM,2:14,Abdur-Rahim REBOUND (Off:6 Def:3),,,,
+0029900573,341,6,2,3,8:46 PM,2:14,,,Wallace S.FOUL (P3.T2),,
+0029900573,342,3,11,3,8:47 PM,2:14,Abdur-Rahim Free Throw 1 of 2 (10 PTS),,,65 - 56,-9
+0029900573,344,3,12,3,8:47 PM,2:14,Abdur-Rahim Free Throw 2 of 2 (11 PTS),,,65 - 57,-8
+0029900573,345,1,1,3,8:47 PM,1:56,,,Amaechi 6' Jump Shot (8 PTS) (Outlaw 2 AST),67 - 57,-10
+0029900573,346,6,2,3,8:47 PM,1:56,Long S.FOUL (P4.PN),,,,
+0029900573,347,3,10,3,8:48 PM,1:56,,,MISS Amaechi Free Throw 1 of 1,,
+0029900573,348,4,0,3,8:48 PM,1:52,West REBOUND (Off:1 Def:2),,,,
+0029900573,349,2,5,3,8:48 PM,1:32,MISS Palacio 2' Layup,,,,
+0029900573,350,4,0,3,8:48 PM,1:30,,,Wallace REBOUND (Off:3 Def:6),,
+0029900573,351,2,1,3,8:48 PM,1:25,,,MISS Armstrong 14' Jump Shot,,
+0029900573,352,4,0,3,8:48 PM,1:25,GRIZZLIES Rebound,,,,
+0029900573,353,8,0,3,8:48 PM,1:25,SUB: Scott FOR Dickerson,,,,
+0029900573,354,1,1,3,8:48 PM,1:13,Abdur-Rahim 13' Jump Shot (13 PTS),,,67 - 59,-8
+0029900573,355,6,2,3,8:48 PM,1:13,,,Amaechi S.FOUL (P1.T3),,
+0029900573,356,8,0,3,8:49 PM,1:13,,,SUB: Atkins FOR Armstrong,,
+0029900573,357,8,0,3,8:49 PM,1:13,,,SUB: Gatling FOR Amaechi,,
+0029900573,358,3,10,3,8:49 PM,1:13,Abdur-Rahim Free Throw 1 of 1 (14 PTS),,,67 - 60,-7
+0029900573,359,1,1,3,8:49 PM,0:58,,,Gatling 18' Jump Shot (6 PTS) (Outlaw 3 AST),69 - 60,-9
+0029900573,360,7,2,3,8:50 PM,0:49,,,Magic Violation: Def. Goaltending Violation,,
+0029900573,361,2,1,3,8:50 PM,0:39,MISS Abdur-Rahim 15' Jump Shot,,,,
+0029900573,362,4,0,3,8:50 PM,0:37,,,Wallace REBOUND (Off:3 Def:7),,
+0029900573,363,5,2,3,8:50 PM,0:29,Abdur-Rahim STEAL (2 STL),,Atkins Lost Ball Turnover (P1.T12),,
+0029900573,364,5,1,3,8:50 PM,0:27,West Bad Pass Turnover (P1.T19),,,,
+0029900573,365,1,1,3,8:51 PM,0:05,,,Gatling 19' Jump Shot (8 PTS) (Atkins 3 AST),71 - 60,-11
+0029900573,366,5,1,3,8:51 PM,0:00,Abdur-Rahim Bad Pass Turnover (P5.T20),,Abdul-Wahad STEAL (1 STL),,
+0029900573,367,13,0,3,8:51 PM,0:00,,,,71 - 60,-11
+0029900573,368,12,0,4,8:54 PM,12:00,,,,71 - 60,-11
+0029900573,369,2,1,4,8:54 PM,11:44,,,MISS Gatling 17' Jump Shot,,
+0029900573,370,4,0,4,8:54 PM,11:40,Scott REBOUND (Off:0 Def:4),,,,
+0029900573,371,1,1,4,8:54 PM,11:22,Scott 14' Jump Shot (8 PTS),,,71 - 62,-9
+0029900573,372,6,1,4,8:55 PM,11:06,Palacio P.FOUL (P2.T1),,,,
+0029900573,373,8,0,4,8:55 PM,11:06,,,SUB: Maggette FOR Abdul-Wahad,,
+0029900573,374,8,0,4,8:55 PM,11:06,,,SUB: Williams FOR Outlaw,,
+0029900573,376,2,1,4,8:55 PM,10:51,,,MISS Doleac 17' Jump Shot,,
+0029900573,377,4,0,4,8:55 PM,10:49,,,Gatling REBOUND (Off:2 Def:2),,
+0029900573,378,2,1,4,8:56 PM,10:36,,,MISS Williams 16' Jump Shot,,
+0029900573,379,4,0,4,8:56 PM,10:35,,,Doleac REBOUND (Off:1 Def:0),,
+0029900573,380,2,1,4,8:56 PM,10:30,,,MISS Atkins 25' 3PT Jump Shot,,
+0029900573,381,4,0,4,8:56 PM,10:29,Palacio REBOUND (Off:0 Def:1),,,,
+0029900573,382,1,3,4,8:56 PM,10:12,Harrington 6' Hook Shot (12 PTS) (Scott 2 AST),,,71 - 64,-7
+0029900573,383,2,1,4,8:56 PM,10:04,,,MISS Maggette 13' Jump Shot,,
+0029900573,384,4,0,4,8:56 PM,10:03,Scott REBOUND (Off:0 Def:5),,,,
+0029900573,385,1,1,4,8:56 PM,9:56,West 16' Jump Shot (8 PTS) (Palacio 1 AST),,,71 - 66,-5
+0029900573,386,9,1,4,8:56 PM,9:51,,,Magic Timeout: Regular (Reg.4 Short 2),,
+0029900573,389,5,2,4,8:59 PM,9:43,,,Williams Lost Ball Turnover (P1.T13),,
+0029900573,390,2,1,4,8:59 PM,9:26,MISS Scott 21' Jump Shot,,,,
+0029900573,391,4,0,4,8:59 PM,9:24,,,Doleac REBOUND (Off:1 Def:1),,
+0029900573,392,5,2,4,8:59 PM,9:19,,,Atkins Lost Ball Turnover (P2.T14),,
+0029900573,393,1,6,4,9:00 PM,8:55,Long 1' Driving Layup (2 PTS) (Scott 3 AST),,,71 - 68,-3
+0029900573,394,8,0,4,9:00 PM,8:45,,,SUB: Armstrong FOR Atkins,,
+0029900573,402,8,0,4,9:00 PM,8:45,,,SUB: Garrity FOR Doleac,,
+0029900573,395,1,1,4,9:01 PM,8:27,,,Garrity 6' Jump Shot (4 PTS) (Williams 1 AST),73 - 68,-5
+0029900573,396,2,1,4,9:01 PM,8:15,MISS Long 17' Jump Shot,,,,
+0029900573,397,4,0,4,9:01 PM,8:11,,,Williams REBOUND (Off:0 Def:1),,
+0029900573,398,6,2,4,9:01 PM,8:07,West S.FOUL (P2.T2),,,,
+0029900573,399,3,11,4,9:02 PM,8:07,,,MISS Gatling Free Throw 1 of 2,,
+0029900573,400,4,1,4,9:02 PM,8:07,,,Magic Rebound,,
+0029900573,401,3,12,4,9:02 PM,8:07,,,Gatling Free Throw 2 of 2 (9 PTS),74 - 68,-6
+0029900573,403,2,1,4,9:02 PM,7:53,MISS West 17' Jump Shot,,,,
+0029900573,404,4,0,4,9:02 PM,7:52,,,Magic Rebound,,
+0029900573,406,8,0,4,9:02 PM,7:52,SUB: Bibby FOR Palacio,,,,
+0029900573,407,1,1,4,9:02 PM,7:29,,,Garrity 18' Jump Shot (6 PTS) (Williams 2 AST),76 - 68,-8
+0029900573,408,1,1,4,9:03 PM,7:07,Harrington 7' Jump Shot (14 PTS) (Long 1 AST),,,76 - 70,-6
+0029900573,409,2,1,4,9:03 PM,6:43,Harrington BLOCK (1 BLK),,MISS Williams 4' Jump Shot,,
+0029900573,410,4,0,4,9:03 PM,6:39,West REBOUND (Off:1 Def:3),,,,
+0029900573,411,2,1,4,9:04 PM,6:24,MISS Long 16' Jump Shot,,,,
+0029900573,412,4,0,4,9:04 PM,6:22,,,Gatling REBOUND (Off:2 Def:3),,
+0029900573,413,5,2,4,9:04 PM,6:15,Scott STEAL (1 STL),,Maggette Lost Ball Turnover (P2.T15),,
+0029900573,415,6,1,4,9:04 PM,6:13,,,Gatling P.FOUL (P2.T1),,
+0029900573,416,9,4,4,9:04 PM,6:13,,,,,
+0029900573,419,8,0,4,9:06 PM,6:13,,,SUB: Outlaw FOR Williams,,
+0029900573,420,2,1,4,9:06 PM,6:00,MISS Bibby 6' Jump Shot,,,,
+0029900573,421,4,0,4,9:06 PM,5:58,,,Outlaw REBOUND (Off:0 Def:2),,
+0029900573,422,5,2,4,9:07 PM,5:45,Harrington STEAL (1 STL),,Armstrong Lost Ball Turnover (P3.T16),,
+0029900573,423,5,1,4,9:07 PM,5:40,Harrington Bad Pass Turnover (P5.T21),,Outlaw STEAL (3 STL),,
+0029900573,424,6,2,4,9:07 PM,5:21,Long S.FOUL (P5.T3),,,,
+0029900573,425,8,0,4,9:07 PM,5:21,SUB: Dickerson FOR West,,,,
+0029900573,426,8,0,4,9:07 PM,5:21,SUB: Abdur-Rahim FOR Long,,,,
+0029900573,427,3,11,4,9:07 PM,5:21,,,Gatling Free Throw 1 of 2 (10 PTS),77 - 70,-7
+0029900573,428,3,12,4,9:08 PM,5:21,,,MISS Gatling Free Throw 2 of 2,,
+0029900573,429,4,0,4,9:08 PM,5:19,Harrington REBOUND (Off:3 Def:2),,,,
+0029900573,430,6,1,4,9:08 PM,5:07,,,Gatling P.FOUL (P3.T2),,
+0029900573,431,2,1,4,9:09 PM,4:53,MISS Dickerson 21' Jump Shot,,,,
+0029900573,432,4,0,4,9:09 PM,4:51,,,Garrity REBOUND (Off:0 Def:2),,
+0029900573,433,1,1,4,9:09 PM,4:31,,,Gatling 11' Jump Shot (12 PTS),79 - 70,-9
+0029900573,434,5,1,4,9:09 PM,4:16,Abdur-Rahim Bad Pass Turnover (P6.T22),,Garrity STEAL (1 STL),,
+0029900573,435,2,1,4,9:09 PM,4:00,,,MISS Gatling 16' Jump Shot,,
+0029900573,436,4,0,4,9:10 PM,3:59,,,Outlaw REBOUND (Off:1 Def:2),,
+0029900573,437,2,1,4,9:10 PM,3:43,,,MISS Gatling 5' Jump Shot,,
+0029900573,438,4,0,4,9:10 PM,3:42,Harrington REBOUND (Off:3 Def:3),,,,
+0029900573,439,2,1,4,9:10 PM,3:34,MISS Bibby 25' 3PT Jump Shot,,,,
+0029900573,440,4,0,4,9:10 PM,3:34,GRIZZLIES Rebound,,,,
+0029900573,441,6,3,4,9:10 PM,3:34,,,Garrity L.B.FOUL (P3.T3),,
+0029900573,442,1,5,4,9:10 PM,3:27,Harrington 1' Layup (16 PTS) (Abdur-Rahim 4 AST),,,79 - 72,-7
+0029900573,443,2,1,4,9:11 PM,2:59,,,MISS Armstrong 19' Jump Shot,,
+0029900573,444,4,0,4,9:11 PM,2:57,Scott REBOUND (Off:0 Def:6),,,,
+0029900573,445,1,1,4,9:11 PM,2:51,Scott 26' 3PT Jump Shot (11 PTS) (Bibby 6 AST),,,79 - 75,-4
+0029900573,446,9,1,4,9:11 PM,2:50,,,Magic Timeout: Regular (Reg.5 Short 2),,
+0029900573,448,8,0,4,9:13 PM,2:50,,,SUB: Atkins FOR Maggette,,
+0029900573,450,6,2,4,9:14 PM,2:40,Scott S.FOUL (P2.T4),,,,
+0029900573,451,3,11,4,9:14 PM,2:40,,,Gatling Free Throw 1 of 2 (13 PTS),80 - 75,-5
+0029900573,452,9,1,4,9:14 PM,2:40,GRIZZLIES Timeout: Regular (Full 4 Short 1),,,,
+0029900573,455,3,12,4,9:16 PM,2:40,,,Gatling Free Throw 2 of 2 (14 PTS),81 - 75,-6
+0029900573,456,2,1,4,9:17 PM,2:23,MISS Dickerson 17' Jump Shot,,,,
+0029900573,457,4,0,4,9:17 PM,2:22,,,Garrity REBOUND (Off:0 Def:3),,
+0029900573,458,5,2,4,9:17 PM,2:19,Bibby STEAL (3 STL),,Garrity Lost Ball Turnover (P1.T17),,
+0029900573,459,1,1,4,9:17 PM,2:14,Scott 25' 3PT Jump Shot (14 PTS) (Bibby 7 AST),,,81 - 78,-3
+0029900573,460,6,4,4,9:18 PM,2:04,,,Gatling OFF.Foul (P4),,
+0029900573,461,5,5,4,9:18 PM,2:04,,,Gatling Foul Turnover (P1.T18),,
+0029900573,462,2,1,4,9:18 PM,1:53,MISS Scott 25' 3PT Jump Shot,,,,
+0029900573,463,4,0,4,9:18 PM,1:50,Dickerson REBOUND (Off:2 Def:1),,,,
+0029900573,464,5,1,4,9:18 PM,1:45,Scott Bad Pass Turnover (P2.T23),,,,
+0029900573,465,2,1,4,9:19 PM,1:22,,,MISS Atkins 6' Jump Shot,,
+0029900573,466,4,0,4,9:19 PM,1:21,,,Gatling REBOUND (Off:3 Def:3),,
+0029900573,467,5,2,4,9:19 PM,1:03,Scott STEAL (2 STL),,Outlaw Lost Ball Turnover (P2.T19),,
+0029900573,468,1,1,4,9:19 PM,0:52,Abdur-Rahim 8' Jump Shot (16 PTS) (Bibby 8 AST),,,81 - 80,-1
+0029900573,469,9,1,4,9:19 PM,0:52,,,Magic Timeout: Regular (Reg.6 Short 2),,
+0029900573,472,8,0,4,9:21 PM,0:52,SUB: West FOR Abdur-Rahim,,,,
+0029900573,473,8,0,4,9:21 PM,0:52,SUB: Long FOR Scott,,,,
+0029900573,474,5,2,4,9:22 PM,0:34,Harrington STEAL (2 STL),,Gatling Lost Ball Turnover (P2.T20),,
+0029900573,475,10,0,4,9:22 PM,0:34,Jump Ball Harrington vs. Gatling: Tip to Outlaw,,,,
+0029900573,476,5,2,4,9:22 PM,0:34,Harrington Lost Ball Turnover (P6.T24),,Gatling STEAL (1 STL),,
+0029900573,477,1,1,4,9:23 PM,0:13,,,Garrity 26' 3PT Jump Shot (9 PTS) (Armstrong 7 AST),84 - 80,-4
+0029900573,478,9,1,4,9:23 PM,0:13,GRIZZLIES Timeout: Regular (Full 5 Short 1),,,,
+0029900573,479,8,0,4,9:25 PM,0:13,,,SUB: Wallace FOR Garrity,,
+0029900573,480,8,0,4,9:25 PM,0:13,SUB: Abdur-Rahim FOR Harrington,,,,
+0029900573,481,8,0,4,9:25 PM,0:13,SUB: Scott FOR Long,,,,
+0029900573,482,8,0,4,9:25 PM,0:13,,,SUB: Abdul-Wahad FOR Gatling,,
+0029900573,483,6,1,4,9:26 PM,0:08,,,Abdul-Wahad P.FOUL (P1.T4),,
+0029900573,484,9,2,4,9:26 PM,0:08,GRIZZLIES Timeout: Short (Full 5 Short 2),,,,
+0029900573,487,1,6,4,9:27 PM,0:04,Dickerson 1' Driving Layup (16 PTS),,,84 - 82,-2
+0029900573,488,6,1,4,9:27 PM,0:04,Dickerson P.FOUL (P4.PN),,,,
+0029900573,491,3,11,4,9:27 PM,0:04,,,Armstrong Free Throw 1 of 2 (9 PTS),85 - 82,-3
+0029900573,492,3,12,4,9:27 PM,0:04,,,MISS Armstrong Free Throw 2 of 2,,
+0029900573,489,8,0,4,9:27 PM,0:03,SUB: Harrington FOR Scott,,,,
+0029900573,490,8,0,4,9:28 PM,0:03,SUB: Long FOR Bibby,,,,
+0029900573,493,4,0,4,9:28 PM,0:03,Abdur-Rahim REBOUND (Off:6 Def:4),,,,
+0029900573,494,9,1,4,9:28 PM,0:03,GRIZZLIES Timeout: Regular (Full 6 Short 2),,,,
+0029900573,497,8,0,4,9:30 PM,0:03,SUB: Scott FOR Harrington,,,,
+0029900573,498,8,0,4,9:30 PM,0:03,SUB: Bibby FOR Long,,,,
+0029900573,499,7,1,4,9:30 PM,0:03,,,Magic Violation: Delay of game Violation,,
+0029900573,500,2,1,4,9:31 PM,0:00,MISS Abdur-Rahim 24' 3PT Jump Shot,,Wallace BLOCK (4 BLK),,
+0029900573,501,4,0,4,9:31 PM,0:00,,,Wallace REBOUND (Off:3 Def:8),,
+0029900573,502,13,0,4,9:31 PM,0:00,,,,85 - 82,-3

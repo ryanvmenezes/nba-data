@@ -1,0 +1,451 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000853,0,12,0,1,7:11 AM,12:00,,,,,
+0020000853,1,10,0,1,7:11 AM,12:00,Jump Ball Blount vs. Campbell: Tip to Campbell,,,,
+0020000853,2,1,7,1,7:12 AM,11:43,,,Campbell 2' Dunk (2 PTS) (Wesley 1 AST),2 - 0,-2
+0020000853,3,2,5,1,7:12 AM,11:18,MISS Walker 2' Layup,,Campbell BLOCK (1 BLK),,
+0020000853,4,4,0,1,7:12 AM,11:16,,,Wesley REBOUND (Off:0 Def:1),,
+0020000853,5,1,1,1,7:12 AM,11:11,,,Mashburn 25' 3PT Jump Shot (3 PTS) (Wesley 2 AST),5 - 0,-5
+0020000853,6,1,42,1,7:12 AM,10:53,Walker 2' Driving Layup (2 PTS) (Stith 1 AST),,,5 - 2,-3
+0020000853,7,2,1,1,7:13 AM,10:39,,,MISS Mashburn 13' Jump Shot,,
+0020000853,8,4,0,1,7:13 AM,10:37,Blount REBOUND (Off:0 Def:1),,,,
+0020000853,9,1,42,1,7:13 AM,10:31,Brown 2' Driving Layup (2 PTS),,,5 - 4,-1
+0020000853,10,1,47,1,7:13 AM,10:11,,,Campbell 14' Turnaround Jump Shot (4 PTS),7 - 4,-3
+0020000853,11,2,1,1,7:13 AM,9:59,MISS Walker 24' 3PT Jump Shot,,,,
+0020000853,12,4,0,1,7:13 AM,9:57,,,Campbell REBOUND (Off:0 Def:1),,
+0020000853,13,2,1,1,7:13 AM,9:52,,,MISS Wesley 19' Jump Shot,,
+0020000853,14,4,0,1,7:14 AM,9:48,Walker REBOUND (Off:0 Def:1),,,,
+0020000853,15,1,1,1,7:14 AM,9:40,Blount 17' Jump Shot (2 PTS) (Pierce 1 AST),,,7 - 6,-1
+0020000853,16,6,2,1,7:14 AM,9:17,Blount S.FOUL (P1.T1),,,,
+0020000853,17,3,11,1,7:15 AM,9:17,,,MISS Campbell Free Throw 1 of 2,,
+0020000853,18,4,1,1,7:15 AM,9:17,,,Hornets Rebound,,
+0020000853,19,3,12,1,7:15 AM,9:17,,,Campbell Free Throw 2 of 2 (5 PTS),8 - 6,-2
+0020000853,20,1,1,1,7:15 AM,9:02,Pierce  3PT Jump Shot (3 PTS) (Stith 2 AST),,,8 - 9,1
+0020000853,22,1,1,1,7:16 AM,8:40,,,Davis  3PT Jump Shot (3 PTS) (Mashburn 1 AST),11 - 9,-2
+0020000853,24,1,1,1,7:16 AM,8:26,Pierce 25' 3PT Jump Shot (6 PTS) (Walker 1 AST),,,11 - 12,1
+0020000853,25,2,1,1,7:16 AM,8:14,,,MISS Wesley 24' 3PT Jump Shot,,
+0020000853,26,4,0,1,7:16 AM,8:12,Blount REBOUND (Off:0 Def:2),,,,
+0020000853,27,1,44,1,7:16 AM,8:04,Pierce 2' Reverse Layup (8 PTS),,,11 - 14,3
+0020000853,28,6,2,1,7:16 AM,8:04,,,Davis S.FOUL (P1.T1),,
+0020000853,29,3,10,1,7:17 AM,8:04,Pierce Free Throw 1 of 1 (9 PTS),,,11 - 15,4
+0020000853,30,1,47,1,7:17 AM,7:47,,,Mashburn 16' Turnaround Jump Shot (5 PTS),13 - 15,2
+0020000853,31,1,1,1,7:17 AM,7:31,Pierce 24' 3PT Jump Shot (12 PTS) (Stith 3 AST),,,13 - 18,5
+0020000853,32,2,42,1,7:18 AM,7:18,,,MISS Campbell 3' Driving Layup,,
+0020000853,33,4,0,1,7:18 AM,7:17,,,Hornets Rebound,,
+0020000853,34,6,3,1,7:18 AM,7:17,Walker L.B.FOUL (P1.T2),,,,
+0020000853,35,1,1,1,7:18 AM,7:11,,,Mashburn  3PT Jump Shot (8 PTS) (Wesley 3 AST),16 - 18,2
+0020000853,36,2,1,1,7:18 AM,7:01,MISS Walker 24' 3PT Jump Shot,,,,
+0020000853,37,4,0,1,7:18 AM,6:58,,,Campbell REBOUND (Off:0 Def:2),,
+0020000853,38,1,1,1,7:18 AM,6:47,,,Mashburn 14' Jump Shot (10 PTS),18 - 18,TIE
+0020000853,39,1,1,1,7:19 AM,6:30,Brown 16' Jump Shot (4 PTS) (Walker 2 AST),,,18 - 20,2
+0020000853,40,1,1,1,7:19 AM,6:14,,,Wesley 23' Jump Shot (2 PTS) (Campbell 1 AST),20 - 20,TIE
+0020000853,41,1,1,1,7:19 AM,5:55,Walker 24' 3PT Jump Shot (5 PTS) (Brown 1 AST),,,20 - 23,3
+0020000853,42,9,1,1,7:19 AM,5:41,,,Hornets Timeout: Regular (Reg.1 Short 0),,
+0020000853,44,8,0,1,7:21 AM,5:41,SUB: Williams FOR Stith,,,,
+0020000853,45,1,1,1,7:22 AM,5:30,,,Mashburn 17' Jump Shot (12 PTS) (Davis 1 AST),22 - 23,1
+0020000853,46,6,2,1,7:22 AM,5:16,,,Davis S.FOUL (P2.T2),,
+0020000853,47,3,11,1,7:22 AM,5:16,MISS Pierce Free Throw 1 of 2,,,,
+0020000853,48,4,1,1,7:22 AM,5:16,CELTICS Rebound,,,,
+0020000853,49,3,12,1,7:23 AM,5:16,Pierce Free Throw 2 of 2 (13 PTS),,,22 - 24,2
+0020000853,50,5,1,1,7:23 AM,5:01,,,Mashburn Bad Pass Turnover (P1.T1),,
+0020000853,51,5,2,1,7:24 AM,4:54,Walker Lost Ball Turnover (P1.T1),,Brown STEAL (1 STL),,
+0020000853,52,6,2,1,7:24 AM,4:51,Brown S.FOUL (P1.T3),,,,
+0020000853,53,8,0,1,7:24 AM,4:51,,,SUB: Magloire FOR Campbell,,
+0020000853,54,3,11,1,7:24 AM,4:51,,,Davis Free Throw 1 of 2 (4 PTS),23 - 24,1
+0020000853,55,8,0,1,7:24 AM,4:51,SUB: Potapenko FOR Blount,,,,
+0020000853,56,3,12,1,7:24 AM,4:51,,,Davis Free Throw 2 of 2 (5 PTS),24 - 24,TIE
+0020000853,57,2,1,1,7:25 AM,4:36,MISS Pierce 20' Jump Shot,,,,
+0020000853,58,4,0,1,7:25 AM,4:34,Potapenko REBOUND (Off:1 Def:0),,,,
+0020000853,59,1,49,1,7:25 AM,4:24,Pierce 3' Driving Dunk (15 PTS),,,24 - 26,2
+0020000853,60,1,42,1,7:25 AM,4:05,,,Davis 2' Driving Layup (7 PTS) (Wesley 4 AST),26 - 26,TIE
+0020000853,61,2,5,1,7:25 AM,3:55,MISS Williams 2' Layup,,,,
+0020000853,62,4,0,1,7:25 AM,3:53,,,Brown REBOUND (Off:0 Def:1),,
+0020000853,63,2,42,1,7:25 AM,3:50,,,MISS Wesley 3' Driving Layup,,
+0020000853,64,4,0,1,7:25 AM,3:48,Walker REBOUND (Off:0 Def:2),,,,
+0020000853,65,1,7,1,7:26 AM,3:44,Brown 2' Dunk (6 PTS) (Walker 3 AST),,,26 - 28,2
+0020000853,66,6,2,1,7:26 AM,3:22,Williams S.FOUL (P1.T4),,,,
+0020000853,67,8,0,1,7:26 AM,3:22,SUB: Stith FOR Pierce,,,,
+0020000853,68,8,0,1,7:26 AM,3:22,,,SUB: Robinson FOR Davis,,
+0020000853,69,3,11,1,7:26 AM,3:22,,,Mashburn Free Throw 1 of 2 (13 PTS),27 - 28,1
+0020000853,70,3,12,1,7:26 AM,3:22,,,Mashburn Free Throw 2 of 2 (14 PTS),28 - 28,TIE
+0020000853,71,6,1,1,7:27 AM,3:15,,,Brown P.FOUL (P1.T3),,
+0020000853,72,2,5,1,7:27 AM,3:04,MISS Walker 2' Layup,,,,
+0020000853,74,4,0,1,7:27 AM,2:47,,,Mashburn REBOUND (Off:0 Def:1),,
+0020000853,73,1,1,1,7:27 AM,2:47,,,Mashburn 16' Jump Shot (16 PTS) (Wesley 5 AST),30 - 28,-2
+0020000853,75,2,5,1,7:28 AM,2:34,MISS Potapenko 1' Layup,,,,
+0020000853,76,4,0,1,7:28 AM,2:32,,,Brown REBOUND (Off:0 Def:2),,
+0020000853,77,6,2,1,7:28 AM,2:29,Brown S.FOUL (P2.PN),,,,
+0020000853,79,9,1,1,7:28 AM,2:29,CELTICS Timeout: Regular (Full 1 Short 0),,,,
+0020000853,81,8,0,1,7:30 AM,2:29,SUB: Palacio FOR Brown,,,,
+0020000853,88,8,0,1,7:30 AM,2:29,SUB: Pierce FOR Walker,,,,
+0020000853,82,3,11,1,7:30 AM,2:29,,,Wesley Free Throw 1 of 2 (3 PTS),31 - 28,-3
+0020000853,83,3,12,1,7:31 AM,2:29,,,Wesley Free Throw 2 of 2 (4 PTS),32 - 28,-4
+0020000853,84,2,5,1,7:31 AM,2:11,MISS Pierce 2' Layup,,,,
+0020000853,85,4,0,1,7:31 AM,2:07,,,Mashburn REBOUND (Off:0 Def:2),,
+0020000853,86,1,5,1,7:31 AM,1:59,,,Magloire 2' Layup (2 PTS) (Wesley 6 AST),34 - 28,-6
+0020000853,87,6,2,1,7:31 AM,1:59,Potapenko S.FOUL (P1.PN),,,,
+0020000853,89,8,0,1,7:31 AM,1:59,,,SUB: James FOR Brown,,
+0020000853,91,3,10,1,7:32 AM,1:59,,,Magloire Free Throw 1 of 1 (3 PTS),35 - 28,-7
+0020000853,92,2,1,1,7:32 AM,1:45,MISS Potapenko 17' Jump Shot,,Magloire BLOCK (1 BLK),,
+0020000853,93,4,0,1,7:32 AM,1:43,,,Hornets Rebound,,
+0020000853,94,2,1,1,7:33 AM,1:19,,,MISS Mashburn 25' 3PT Jump Shot,,
+0020000853,95,4,0,1,7:33 AM,1:17,Palacio REBOUND (Off:0 Def:1),,,,
+0020000853,96,1,3,1,7:33 AM,1:09,Potapenko 6' Hook Shot (2 PTS) (Palacio 1 AST),,,35 - 30,-5
+0020000853,97,1,1,1,7:33 AM,0:48,,,Robinson 16' Jump Shot (2 PTS) (Mashburn 2 AST),37 - 30,-7
+0020000853,98,1,42,1,7:33 AM,0:36,Williams 2' Driving Layup (2 PTS),,,37 - 32,-5
+0020000853,99,1,1,1,7:33 AM,0:29,,,Wesley 23' Jump Shot (6 PTS),39 - 32,-7
+0020000853,100,5,1,1,7:34 AM,0:12,Pierce Bad Pass Turnover (P1.T2),,,,
+0020000853,101,5,2,1,7:34 AM,0:01,Williams STEAL (1 STL),,Mashburn Lost Ball Turnover (P2.T2),,
+0020000853,102,13,0,1,7:34 AM,0:00,,,,39 - 32,-7
+0020000853,104,12,0,2,7:37 AM,12:00,,,,39 - 32,-7
+0020000853,105,1,3,2,7:37 AM,11:41,Walker 7' Hook Shot (7 PTS) (Pierce 2 AST),,,39 - 34,-5
+0020000853,106,2,1,2,7:38 AM,11:24,,,MISS Robinson 13' Jump Shot,,
+0020000853,107,4,0,2,7:38 AM,11:23,CELTICS Rebound,,,,
+0020000853,108,6,3,2,7:38 AM,11:23,,,James L.B.FOUL (P1.T1),,
+0020000853,109,5,1,2,7:38 AM,11:13,Walker Bad Pass Turnover (P2.T3),,,,
+0020000853,110,1,47,2,7:39 AM,10:54,,,Campbell 11' Turnaround Jump Shot (7 PTS),41 - 34,-7
+0020000853,111,1,42,2,7:39 AM,10:38,Palacio 3' Driving Layup (2 PTS),,,41 - 36,-5
+0020000853,112,2,1,2,7:39 AM,10:16,,,MISS Davis 22' Jump Shot,,
+0020000853,113,4,0,2,7:39 AM,10:14,Potapenko REBOUND (Off:1 Def:1),,,,
+0020000853,114,2,1,2,7:40 AM,9:59,MISS Pierce 19' Jump Shot,,,,
+0020000853,115,4,0,2,7:40 AM,9:57,,,James REBOUND (Off:0 Def:1),,
+0020000853,116,5,1,2,7:40 AM,9:55,Pierce STEAL (1 STL),,James Bad Pass Turnover (P1.T3),,
+0020000853,117,2,1,2,7:40 AM,9:51,MISS Walker 24' 3PT Jump Shot,,,,
+0020000853,118,4,0,2,7:40 AM,9:49,CELTICS Rebound,,,,
+0020000853,119,2,1,2,7:40 AM,9:46,MISS Pierce 17' Jump Shot,,,,
+0020000853,120,4,0,2,7:40 AM,9:45,Potapenko REBOUND (Off:2 Def:1),,,,
+0020000853,121,1,4,2,7:40 AM,9:43,Potapenko 1' Tip Shot (4 PTS),,,41 - 38,-3
+0020000853,122,6,1,2,7:40 AM,9:36,Palacio P.FOUL (P1.T1),,,,
+0020000853,123,2,1,2,7:41 AM,9:24,,,MISS Campbell 13' Jump Shot,,
+0020000853,124,4,0,2,7:41 AM,9:23,,,Brown REBOUND (Off:1 Def:2),,
+0020000853,125,1,1,2,7:41 AM,9:20,,,Brown 18' Jump Shot (2 PTS),43 - 38,-5
+0020000853,126,2,1,2,7:41 AM,8:53,MISS Palacio 16' Jump Shot,,,,
+0020000853,127,4,0,2,7:41 AM,8:52,Stith REBOUND (Off:1 Def:0),,,,
+0020000853,128,5,1,2,7:42 AM,8:44,Palacio Bad Pass Turnover (P1.T4),,,,
+0020000853,130,9,4,2,7:42 AM,8:44,,,,,
+0020000853,131,8,0,2,7:43 AM,8:44,,,SUB: Mashburn FOR James,,
+0020000853,132,1,1,2,7:44 AM,8:34,,,Davis 17' Jump Shot (9 PTS) (Brown 1 AST),45 - 38,-7
+0020000853,133,2,3,2,7:44 AM,8:14,MISS Walker 5' Hook Shot,,,,
+0020000853,134,4,0,2,7:44 AM,8:12,,,Robinson REBOUND (Off:0 Def:1),,
+0020000853,135,1,42,2,7:44 AM,8:05,,,Davis 2' Driving Layup (11 PTS),47 - 38,-9
+0020000853,136,6,2,2,7:44 AM,8:05,Palacio S.FOUL (P2.T2),,,,
+0020000853,137,8,0,2,7:45 AM,8:05,SUB: Williams FOR Stith,,,,
+0020000853,138,8,0,2,7:45 AM,8:05,SUB: Brown FOR Palacio,,,,
+0020000853,139,3,10,2,7:45 AM,8:05,,,MISS Davis Free Throw 1 of 1,,
+0020000853,140,4,0,2,7:45 AM,8:05,Potapenko REBOUND (Off:2 Def:2),,,,
+0020000853,141,2,1,2,7:45 AM,7:47,MISS Brown 21' Jump Shot,,,,
+0020000853,142,4,0,2,7:45 AM,7:45,,,Robinson REBOUND (Off:0 Def:2),,
+0020000853,143,2,1,2,7:45 AM,7:39,,,MISS Mashburn  3PT Jump Shot,,
+0020000853,144,4,0,2,7:45 AM,7:36,,,Robinson REBOUND (Off:1 Def:2),,
+0020000853,145,6,2,2,7:46 AM,7:32,Williams S.FOUL (P2.T3),,,,
+0020000853,146,3,11,2,7:46 AM,7:32,,,Brown Free Throw 1 of 2 (3 PTS),48 - 38,-10
+0020000853,147,3,12,2,7:46 AM,7:32,,,Brown Free Throw 2 of 2 (4 PTS),49 - 38,-11
+0020000853,148,2,1,2,7:46 AM,7:16,MISS Brown 19' Jump Shot,,,,
+0020000853,149,4,0,2,7:46 AM,7:13,Potapenko REBOUND (Off:3 Def:2),,,,
+0020000853,150,1,1,2,7:46 AM,7:12,Potapenko 6' Jump Shot (6 PTS),,,49 - 40,-9
+0020000853,151,1,1,2,7:47 AM,7:04,,,Robinson 15' Jump Shot (4 PTS) (Mashburn 3 AST),51 - 40,-11
+0020000853,152,6,2,2,7:47 AM,7:04,Pierce S.FOUL (P1.T4),,,,
+0020000853,153,3,10,2,7:47 AM,7:04,,,MISS Robinson Free Throw 1 of 1,,
+0020000853,154,4,0,2,7:47 AM,7:03,Potapenko REBOUND (Off:3 Def:3),,,,
+0020000853,155,5,11,2,7:47 AM,6:39,CELTICS Turnover: Shot Clock (T#5),,,,
+0020000853,156,5,1,2,7:48 AM,6:30,Walker STEAL (1 STL),,Davis Bad Pass Turnover (P1.T4),,
+0020000853,157,5,1,2,7:48 AM,6:22,Williams Bad Pass Turnover (P1.T6),,Brown STEAL (2 STL),,
+0020000853,158,6,1,2,7:48 AM,6:20,Pierce P.FOUL (P2.PN),,,,
+0020000853,159,3,11,2,7:48 AM,6:20,,,MISS Davis Free Throw 1 of 2,,
+0020000853,160,4,1,2,7:48 AM,6:20,,,Hornets Rebound,,
+0020000853,161,8,0,2,7:49 AM,6:20,SUB: Stith FOR Pierce,,,,
+0020000853,162,8,0,2,7:49 AM,6:20,SUB: Blount FOR Potapenko,,,,
+0020000853,163,8,0,2,7:49 AM,6:20,SUB: Herren FOR Brown,,,,
+0020000853,164,3,12,2,7:49 AM,6:20,,,Davis Free Throw 2 of 2 (12 PTS),52 - 40,-12
+0020000853,165,2,42,2,7:49 AM,6:03,MISS Walker 3' Driving Layup,,,,
+0020000853,166,4,0,2,7:49 AM,6:01,Walker REBOUND (Off:1 Def:2),,,,
+0020000853,167,1,5,2,7:49 AM,6:00,Walker 2' Layup (9 PTS),,,52 - 42,-10
+0020000853,168,6,1,2,7:50 AM,5:46,Stith P.FOUL (P1.PN),,,,
+0020000853,169,9,1,2,7:50 AM,5:46,CELTICS Timeout: Regular (Full 2 Short 0),,,,
+0020000853,171,3,11,2,7:52 AM,5:46,,,MISS Campbell Free Throw 1 of 2,,
+0020000853,172,4,1,2,7:52 AM,5:46,,,Hornets Rebound,,
+0020000853,173,3,12,2,7:52 AM,5:46,,,MISS Campbell Free Throw 2 of 2,,
+0020000853,174,4,0,2,7:52 AM,5:45,Walker REBOUND (Off:1 Def:3),,,,
+0020000853,175,2,1,2,7:53 AM,5:28,MISS Williams 25' 3PT Jump Shot,,,,
+0020000853,176,4,0,2,7:53 AM,5:26,,,Brown REBOUND (Off:1 Def:3),,
+0020000853,177,6,2,2,7:53 AM,5:06,Williams S.FOUL (P3.PN),,,,
+0020000853,178,8,0,2,7:53 AM,5:06,,,SUB: Magloire FOR Campbell,,
+0020000853,179,3,11,2,7:53 AM,5:06,,,Mashburn Free Throw 1 of 2 (17 PTS),53 - 42,-11
+0020000853,180,8,0,2,7:54 AM,5:06,SUB: Griffin FOR Williams,,,,
+0020000853,181,8,0,2,7:54 AM,5:06,,,SUB: Wesley FOR Robinson,,
+0020000853,182,3,12,2,7:54 AM,5:06,,,Mashburn Free Throw 2 of 2 (18 PTS),54 - 42,-12
+0020000853,183,2,1,2,7:54 AM,4:43,MISS Blount 9' Jump Shot,,,,
+0020000853,184,4,0,2,7:54 AM,4:41,,,Brown REBOUND (Off:1 Def:4),,
+0020000853,185,6,1,2,7:55 AM,4:30,Herren P.FOUL (P1.PN),,,,
+0020000853,186,3,11,2,7:55 AM,4:30,,,Wesley Free Throw 1 of 2 (7 PTS),55 - 42,-13
+0020000853,187,3,12,2,7:55 AM,4:30,,,MISS Wesley Free Throw 2 of 2,,
+0020000853,188,4,0,2,7:55 AM,4:29,Griffin REBOUND (Off:0 Def:1),,,,
+0020000853,189,2,1,2,7:55 AM,4:12,MISS Stith 25' 3PT Jump Shot,,,,
+0020000853,190,4,0,2,7:55 AM,4:09,,,Mashburn REBOUND (Off:0 Def:3),,
+0020000853,191,5,2,2,7:56 AM,4:05,,,Magloire Lost Ball Turnover (P1.T5),,
+0020000853,192,6,2,2,7:56 AM,3:52,,,Wesley S.FOUL (P1.T2),,
+0020000853,193,3,11,2,7:56 AM,3:52,Walker Free Throw 1 of 2 (10 PTS),,,55 - 43,-12
+0020000853,194,3,12,2,7:56 AM,3:52,Walker Free Throw 2 of 2 (11 PTS),,,55 - 44,-11
+0020000853,195,2,1,2,7:57 AM,3:36,,,MISS Mashburn 18' Jump Shot,,
+0020000853,196,4,0,2,7:57 AM,3:34,Blount REBOUND (Off:0 Def:3),,,,
+0020000853,197,5,4,2,7:57 AM,3:22,Walker Traveling Turnover (P3.T7),,,,
+0020000853,198,9,1,2,7:57 AM,3:17,,,Hornets Timeout: Regular (Reg.2 Short 0),,
+0020000853,200,8,0,2,7:59 AM,3:17,,,SUB: Campbell FOR Magloire,,
+0020000853,201,5,1,2,8:00 AM,3:09,Walker STEAL (2 STL),,Brown Bad Pass Turnover (P1.T6),,
+0020000853,202,5,2,2,8:00 AM,3:05,Walker Lost Ball Turnover (P4.T8),,Wesley STEAL (1 STL),,
+0020000853,203,6,1,2,8:00 AM,2:58,Stith P.FOUL (P2.PN),,,,
+0020000853,204,3,11,2,8:00 AM,2:58,,,Davis Free Throw 1 of 2 (13 PTS),56 - 44,-12
+0020000853,205,3,12,2,8:00 AM,2:58,,,Davis Free Throw 2 of 2 (14 PTS),57 - 44,-13
+0020000853,206,2,1,2,8:01 AM,2:41,MISS Herren 24' 3PT Jump Shot,,,,
+0020000853,207,4,0,2,8:01 AM,2:39,,,Brown REBOUND (Off:1 Def:5),,
+0020000853,208,2,1,2,8:01 AM,2:25,,,MISS Brown 11' Jump Shot,,
+0020000853,209,4,0,2,8:01 AM,2:23,,,Davis REBOUND (Off:1 Def:0),,
+0020000853,210,1,1,2,8:01 AM,2:16,,,Campbell 17' Jump Shot (9 PTS) (Wesley 7 AST),59 - 44,-15
+0020000853,211,5,1,2,8:02 AM,1:54,Stith Bad Pass Turnover (P1.T9),,Wesley STEAL (2 STL),,
+0020000853,212,2,42,2,8:02 AM,1:51,Walker BLOCK (1 BLK),,MISS Wesley 3' Driving Layup,,
+0020000853,213,4,0,2,8:02 AM,1:50,,,Hornets Rebound,,
+0020000853,214,8,0,2,8:02 AM,1:50,SUB: Brown FOR Herren,,,,
+0020000853,215,5,1,2,8:02 AM,1:45,Griffin STEAL (1 STL),,Wesley Bad Pass Turnover (P1.T7),,
+0020000853,216,2,42,2,8:02 AM,1:39,MISS Brown 3' Driving Layup,,,,
+0020000853,217,4,0,2,8:02 AM,1:36,Griffin REBOUND (Off:1 Def:1),,,,
+0020000853,218,1,5,2,8:02 AM,1:35,Griffin 2' Layup (2 PTS),,,59 - 46,-13
+0020000853,219,2,5,2,8:03 AM,1:17,,,MISS Brown 2' Layup,,
+0020000853,220,4,0,2,8:03 AM,1:15,Stith REBOUND (Off:1 Def:1),,,,
+0020000853,221,2,1,2,8:03 AM,1:06,MISS Griffin 17' Jump Shot,,,,
+0020000853,222,4,0,2,8:03 AM,1:04,,,Brown REBOUND (Off:1 Def:6),,
+0020000853,223,1,1,2,8:03 AM,0:43,,,Mashburn 17' Jump Shot (20 PTS),61 - 46,-15
+0020000853,224,1,5,2,8:04 AM,0:33,Stith 2' Layup (2 PTS) (Walker 4 AST),,,61 - 48,-13
+0020000853,225,9,2,2,8:04 AM,0:13,,,Hornets Timeout: Short (Reg.2 Short 1),,
+0020000853,229,8,0,2,8:04 AM,0:13,SUB: Carr FOR Griffin,,,,
+0020000853,227,2,1,2,8:05 AM,0:11,,,MISS Mashburn 20' Jump Shot,,
+0020000853,228,4,0,2,8:05 AM,0:09,,,Hornets Rebound,,
+0020000853,230,1,1,2,8:06 AM,0:04,,,Davis 25' 3PT Jump Shot (17 PTS) (Wesley 8 AST),64 - 48,-16
+0020000853,231,2,1,2,8:06 AM,0:00,MISS Stith 24' 3PT Jump Shot,,,,
+0020000853,232,4,0,2,8:06 AM,0:00,CELTICS Rebound,,,,
+0020000853,233,13,0,2,8:06 AM,0:00,,,,64 - 48,-16
+0020000853,235,12,0,3,8:22 AM,12:00,,,,64 - 48,-16
+0020000853,236,2,5,3,8:22 AM,11:37,MISS Walker 2' Layup,,,,
+0020000853,237,4,0,3,8:22 AM,11:33,,,Brown REBOUND (Off:1 Def:7),,
+0020000853,238,7,6,3,8:23 AM,11:27,Brown Violation:Double Lane,,,,
+0020000853,239,6,2,3,8:23 AM,11:17,Blount S.FOUL (P2.T1),,,,
+0020000853,240,3,11,3,8:23 AM,11:17,,,MISS Campbell Free Throw 1 of 2,,
+0020000853,241,4,1,3,8:23 AM,11:17,,,Hornets Rebound,,
+0020000853,242,3,12,3,8:23 AM,11:17,,,Campbell Free Throw 2 of 2 (10 PTS),65 - 48,-17
+0020000853,243,1,42,3,8:24 AM,11:05,Walker 2' Driving Layup (13 PTS) (Pierce 3 AST),,,65 - 50,-15
+0020000853,244,2,42,3,8:24 AM,10:50,,,MISS Brown 3' Driving Layup,,
+0020000853,245,4,0,3,8:24 AM,10:49,Brown REBOUND (Off:0 Def:1),,,,
+0020000853,246,2,1,3,8:24 AM,10:42,MISS Pierce 25' 3PT Jump Shot,,,,
+0020000853,247,4,0,3,8:24 AM,10:40,,,Brown REBOUND (Off:1 Def:8),,
+0020000853,248,1,1,3,8:24 AM,10:27,,,Mashburn 16' Jump Shot (22 PTS) (Davis 2 AST),67 - 50,-17
+0020000853,249,2,1,3,8:25 AM,10:08,MISS Brown 16' Jump Shot,,,,
+0020000853,250,4,0,3,8:25 AM,10:06,,,Campbell REBOUND (Off:0 Def:3),,
+0020000853,251,1,42,3,8:25 AM,10:00,,,Davis 1' Driving Layup (19 PTS),69 - 50,-19
+0020000853,252,1,1,3,8:25 AM,9:43,Brown 19' Jump Shot (8 PTS) (Pierce 4 AST),,,69 - 52,-17
+0020000853,253,2,1,3,8:25 AM,9:23,,,MISS Campbell 7' Jump Shot,,
+0020000853,254,4,0,3,8:26 AM,9:21,Blount REBOUND (Off:0 Def:4),,,,
+0020000853,255,5,2,3,8:26 AM,9:17,Brown Lost Ball Turnover (P1.T10),,Davis STEAL (1 STL),,
+0020000853,256,6,2,3,8:26 AM,9:11,Blount S.FOUL (P3.T2),,,,
+0020000853,257,3,11,3,8:26 AM,9:11,,,Campbell Free Throw 1 of 2 (11 PTS),70 - 52,-18
+0020000853,258,8,0,3,8:26 AM,9:11,SUB: Potapenko FOR Blount,,,,
+0020000853,259,3,12,3,8:26 AM,9:11,,,Campbell Free Throw 2 of 2 (12 PTS),71 - 52,-19
+0020000853,260,9,1,3,8:27 AM,9:11,CELTICS Timeout: Regular (Full 3 Short 0),,,,
+0020000853,262,1,42,3,8:29 AM,9:00,Walker 3' Driving Layup (15 PTS) (Brown 2 AST),,,71 - 54,-17
+0020000853,263,2,1,3,8:29 AM,8:34,,,MISS Mashburn 13' Jump Shot,,
+0020000853,264,4,0,3,8:29 AM,8:32,,,Brown REBOUND (Off:2 Def:8),,
+0020000853,265,2,1,3,8:29 AM,8:31,,,MISS Brown 13' Jump Shot,,
+0020000853,266,4,0,3,8:29 AM,8:30,Potapenko REBOUND (Off:3 Def:4),,,,
+0020000853,267,6,3,3,8:29 AM,8:29,,,Campbell L.B.FOUL (P1.T1),,
+0020000853,268,2,42,3,8:30 AM,8:19,MISS Pierce 2' Driving Layup,,,,
+0020000853,269,4,0,3,8:30 AM,8:18,Walker REBOUND (Off:2 Def:3),,,,
+0020000853,270,1,4,3,8:30 AM,8:18,Walker 2' Tip Shot (17 PTS),,,71 - 56,-15
+0020000853,271,5,1,3,8:30 AM,7:58,Potapenko STEAL (1 STL),,Mashburn Bad Pass Turnover (P3.T8),,
+0020000853,272,1,1,3,8:30 AM,7:52,Stith 25' 3PT Jump Shot (5 PTS) (Pierce 5 AST),,,71 - 59,-12
+0020000853,273,9,1,3,8:30 AM,7:47,,,Hornets Timeout: Regular (Reg.3 Short 1),,
+0020000853,275,5,2,3,8:33 AM,7:36,Walker STEAL (3 STL),,Brown Lost Ball Turnover (P2.T9),,
+0020000853,276,2,1,3,8:33 AM,7:29,MISS Walker 24' 3PT Jump Shot,,,,
+0020000853,277,4,0,3,8:33 AM,7:26,,,Davis REBOUND (Off:1 Def:1),,
+0020000853,278,6,1,3,8:33 AM,7:24,Stith P.FOUL (P3.T3),,,,
+0020000853,279,6,4,3,8:33 AM,7:13,,,Brown OFF.Foul (P2),,
+0020000853,280,5,5,3,8:33 AM,7:13,,,Brown Foul Turnover (P3.T10),,
+0020000853,281,2,1,3,8:34 AM,7:00,MISS Walker 25' 3PT Jump Shot,,,,
+0020000853,282,4,0,3,8:34 AM,6:58,,,Davis REBOUND (Off:1 Def:2),,
+0020000853,283,1,42,3,8:34 AM,6:47,,,Davis 2' Driving Layup (21 PTS),73 - 59,-14
+0020000853,284,2,5,3,8:34 AM,6:28,MISS Walker 1' Layup,,,,
+0020000853,285,4,0,3,8:34 AM,6:25,,,Brown REBOUND (Off:2 Def:9),,
+0020000853,286,1,1,3,8:34 AM,6:20,,,Wesley 25' 3PT Jump Shot (10 PTS) (Brown 2 AST),76 - 59,-17
+0020000853,287,5,1,3,8:34 AM,6:07,Brown Bad Pass Turnover (P2.T11),,Wesley STEAL (3 STL),,
+0020000853,288,6,9,3,8:35 AM,6:06,Brown C.P.FOUL (P3.T4),,,,
+0020000853,289,8,0,3,8:35 AM,6:06,SUB: Palacio FOR Brown,,,,
+0020000853,290,8,0,3,8:35 AM,6:06,SUB: Williams FOR Stith,,,,
+0020000853,291,8,0,3,8:35 AM,6:06,,,SUB: Magloire FOR Campbell,,
+0020000853,292,3,17,3,8:35 AM,6:06,,,Wesley Free Throw Clear Path (11 PTS),77 - 59,-18
+0020000853,293,2,1,3,8:36 AM,5:43,,,MISS Davis 25' 3PT Jump Shot,,
+0020000853,294,4,0,3,8:36 AM,5:41,,,Hornets Rebound,,
+0020000853,295,5,11,3,8:36 AM,5:41,,,Hornets Turnover: Shot Clock (T#11),,
+0020000853,296,5,1,3,8:36 AM,5:33,Walker Bad Pass Turnover (P5.T12),,Brown STEAL (3 STL),,
+0020000853,297,1,1,3,8:36 AM,5:28,,,Brown 15' Jump Shot (6 PTS) (Magloire 1 AST),79 - 59,-20
+0020000853,298,5,1,3,8:36 AM,5:06,Pierce Bad Pass Turnover (P2.T13),,,,
+0020000853,299,1,1,3,8:37 AM,4:55,,,Wesley 21' Jump Shot (13 PTS) (Davis 3 AST),81 - 59,-22
+0020000853,300,9,2,3,8:37 AM,4:48,CELTICS Timeout: Short (Full 3 Short 1),,,,
+0020000853,302,2,3,3,8:38 AM,4:27,MISS Palacio 6' Hook Shot,,,,
+0020000853,303,4,0,3,8:38 AM,4:25,,,Brown REBOUND (Off:2 Def:10),,
+0020000853,304,5,8,3,8:39 AM,4:17,,,Magloire 3 Second Violation Turnover (P2.T12),,
+0020000853,305,8,0,3,8:39 AM,4:17,SUB: Herren FOR Palacio,,,,
+0020000853,306,2,1,3,8:39 AM,3:57,MISS Williams  3PT Jump Shot,,,,
+0020000853,307,4,0,3,8:39 AM,3:55,,,Magloire REBOUND (Off:0 Def:1),,
+0020000853,308,2,1,3,8:39 AM,3:42,,,MISS Mashburn 18' Jump Shot,,
+0020000853,309,4,0,3,8:39 AM,3:41,Walker REBOUND (Off:2 Def:4),,,,
+0020000853,310,6,2,3,8:40 AM,3:35,,,Wesley S.FOUL (P2.T2),,
+0020000853,311,3,11,3,8:40 AM,3:35,Pierce Free Throw 1 of 2 (16 PTS),,,81 - 60,-21
+0020000853,312,8,0,3,8:40 AM,3:35,,,SUB: Robinson FOR Wesley,,
+0020000853,313,3,12,3,8:40 AM,3:35,Pierce Free Throw 2 of 2 (17 PTS),,,81 - 61,-20
+0020000853,314,6,2,3,8:41 AM,3:15,Williams S.FOUL (P4.PN),,,,
+0020000853,315,3,11,3,8:41 AM,3:15,,,Brown Free Throw 1 of 2 (7 PTS),82 - 61,-21
+0020000853,316,3,12,3,8:42 AM,3:15,,,Brown Free Throw 2 of 2 (8 PTS),83 - 61,-22
+0020000853,317,6,2,3,8:42 AM,3:04,,,Brown S.FOUL (P3.T3),,
+0020000853,318,3,11,3,8:42 AM,3:04,Pierce Free Throw 1 of 2 (18 PTS),,,83 - 62,-21
+0020000853,319,3,12,3,8:42 AM,3:04,Pierce Free Throw 2 of 2 (19 PTS),,,83 - 63,-20
+0020000853,320,1,5,3,8:43 AM,2:44,,,Brown 1' Layup (10 PTS) (Magloire 2 AST),85 - 63,-22
+0020000853,321,2,1,3,8:43 AM,2:26,MISS Potapenko 18' Jump Shot,,,,
+0020000853,322,4,0,3,8:43 AM,2:25,Potapenko REBOUND (Off:4 Def:4),,,,
+0020000853,323,6,1,3,8:43 AM,2:24,,,Mashburn P.FOUL (P1.T4),,
+0020000853,324,1,1,3,8:44 AM,2:15,Williams  3PT Jump Shot (5 PTS) (Pierce 6 AST),,,85 - 66,-19
+0020000853,325,5,2,3,8:44 AM,1:51,Herren STEAL (1 STL),,Davis Lost Ball Turnover (P2.T13),,
+0020000853,326,2,1,3,8:44 AM,1:39,MISS Williams  3PT Jump Shot,,,,
+0020000853,327,4,0,3,8:45 AM,1:36,Pierce REBOUND (Off:1 Def:0),,,,
+0020000853,328,6,2,3,8:45 AM,1:35,,,Robinson S.FOUL (P1.PN),,
+0020000853,329,3,11,3,8:45 AM,1:35,MISS Pierce Free Throw 1 of 2,,,,
+0020000853,330,4,1,3,8:45 AM,1:35,CELTICS Rebound,,,,
+0020000853,331,8,0,3,8:45 AM,1:35,,,SUB: Campbell FOR Magloire,,
+0020000853,332,8,0,3,8:45 AM,1:35,SUB: Carr FOR Williams,,,,
+0020000853,333,3,12,3,8:46 AM,1:35,MISS Pierce Free Throw 2 of 2,,,,
+0020000853,334,4,0,3,8:46 AM,1:33,,,Brown REBOUND (Off:2 Def:11),,
+0020000853,335,5,1,3,8:46 AM,1:22,Herren STEAL (2 STL),,Davis Bad Pass Turnover (P3.T14),,
+0020000853,337,1,42,3,8:46 AM,1:15,Walker 1' Driving Layup (19 PTS) (Herren 1 AST),,,85 - 68,-17
+0020000853,338,1,46,3,8:47 AM,0:53,,,Mashburn 9' Running Jump Shot (24 PTS),87 - 68,-19
+0020000853,339,2,1,3,8:47 AM,0:34,MISS Pierce 24' 3PT Jump Shot,,,,
+0020000853,340,4,0,3,8:47 AM,0:33,,,Campbell REBOUND (Off:0 Def:4),,
+0020000853,342,2,1,3,8:47 AM,0:19,,,MISS Campbell 13' Jump Shot,,
+0020000853,343,4,0,3,8:47 AM,0:18,,,Davis REBOUND (Off:2 Def:2),,
+0020000853,344,1,1,3,8:48 AM,0:04,,,Robinson 24' 3PT Jump Shot (7 PTS) (Mashburn 4 AST),90 - 68,-22
+0020000853,345,5,2,3,8:48 AM,0:02,Potapenko Lost Ball Turnover (P1.T14),,Davis STEAL (2 STL),,
+0020000853,347,13,0,3,8:48 AM,0:00,,,,90 - 68,-22
+0020000853,348,12,0,4,8:50 AM,12:00,,,,90 - 68,-22
+0020000853,349,6,2,4,8:51 AM,11:43,Blount S.FOUL (P4.T1),,,,
+0020000853,350,3,11,4,8:51 AM,11:43,,,Campbell Free Throw 1 of 2 (13 PTS),91 - 68,-23
+0020000853,351,3,12,4,8:51 AM,11:43,,,Campbell Free Throw 2 of 2 (14 PTS),92 - 68,-24
+0020000853,352,2,42,4,8:51 AM,11:33,MISS Herren 3' Driving Layup,,,,
+0020000853,353,4,0,4,8:51 AM,11:31,,,Brown REBOUND (Off:2 Def:12),,
+0020000853,354,2,45,4,8:52 AM,11:11,,,MISS Wesley 15' Jump Shot,,
+0020000853,355,4,0,4,8:52 AM,11:09,Stith REBOUND (Off:1 Def:2),,,,
+0020000853,356,7,2,4,8:52 AM,11:01,,,Hornets Violation: Def. Goaltending Violation,,
+0020000853,357,1,1,4,8:52 AM,10:49,Walker 14' Jump Shot (21 PTS) (Stith 4 AST),,,92 - 70,-22
+0020000853,358,6,2,4,8:52 AM,10:49,,,Brown S.FOUL (P4.T1),,
+0020000853,359,3,10,4,8:52 AM,10:49,Walker Free Throw 1 of 1 (22 PTS),,,92 - 71,-21
+0020000853,360,2,1,4,8:53 AM,10:36,,,MISS Brown 15' Jump Shot,,
+0020000853,361,4,0,4,8:53 AM,10:34,Herren REBOUND (Off:0 Def:1),,,,
+0020000853,362,1,1,4,8:53 AM,10:22,Herren 26' 3PT Jump Shot (3 PTS) (Stith 5 AST),,,92 - 74,-18
+0020000853,363,2,5,4,8:53 AM,10:06,Carr BLOCK (1 BLK),,MISS Wesley 2' Layup,,
+0020000853,364,4,0,4,8:54 AM,10:03,Walker REBOUND (Off:2 Def:5),,,,
+0020000853,365,1,1,4,8:54 AM,9:57,Carr 25' 3PT Jump Shot (3 PTS) (Walker 5 AST),,,92 - 77,-15
+0020000853,366,9,1,4,8:54 AM,9:53,,,Hornets Timeout: Regular (Reg.4 Short 1),,
+0020000853,368,8,0,4,8:56 AM,9:53,,,SUB: Davis FOR Robinson,,
+0020000853,369,1,1,4,8:56 AM,9:33,,,Wesley 24' 3PT Jump Shot (16 PTS) (Davis 4 AST),95 - 77,-18
+0020000853,370,2,5,4,8:56 AM,9:16,MISS Stith 2' Layup,,Brown BLOCK (1 BLK),,
+0020000853,371,4,0,4,8:56 AM,9:13,,,Campbell REBOUND (Off:0 Def:5),,
+0020000853,372,1,1,4,8:57 AM,9:07,,,Mashburn 25' 3PT Jump Shot (27 PTS) (Davis 5 AST),98 - 77,-21
+0020000853,373,1,42,4,8:57 AM,8:49,Walker 2' Driving Layup (24 PTS) (Carr 1 AST),,,98 - 79,-19
+0020000853,374,6,2,4,8:57 AM,8:49,,,Brown S.FOUL (P5.T2),,
+0020000853,375,3,10,4,8:57 AM,8:49,Walker Free Throw 1 of 1 (25 PTS),,,98 - 80,-18
+0020000853,376,7,1,4,8:57 AM,8:49,CELTICS Violation: Delay of game Violation,,,,
+0020000853,377,5,2,4,8:58 AM,8:45,Herren STEAL (3 STL),,Davis Lost Ball Turnover (P4.T15),,
+0020000853,378,1,8,4,8:58 AM,8:41,Blount 1' Slam Dunk (4 PTS),,,98 - 82,-16
+0020000853,379,6,1,4,8:58 AM,8:29,Walker P.FOUL (P2.T2),,,,
+0020000853,380,8,0,4,8:58 AM,8:29,SUB: Pierce FOR Stith,,,,
+0020000853,381,2,1,4,8:59 AM,8:18,,,MISS Wesley 24' 3PT Jump Shot,,
+0020000853,382,4,0,4,8:59 AM,8:15,Blount REBOUND (Off:0 Def:5),,,,
+0020000853,383,2,5,4,8:59 AM,8:08,MISS Walker 3' Layup,,Brown BLOCK (2 BLK),,
+0020000853,384,4,0,4,8:59 AM,8:05,,,Davis REBOUND (Off:2 Def:3),,
+0020000853,385,1,5,4,8:59 AM,8:03,,,Wesley 2' Layup (18 PTS) (Davis 6 AST),100 - 82,-18
+0020000853,386,2,5,4,9:00 AM,7:44,MISS Walker 1' Layup,,Campbell BLOCK (2 BLK),,
+0020000853,387,4,0,4,9:00 AM,7:42,,,Campbell REBOUND (Off:0 Def:6),,
+0020000853,388,2,5,4,9:00 AM,7:38,Blount BLOCK (1 BLK),,MISS Davis 2' Layup,,
+0020000853,389,4,0,4,9:00 AM,7:37,,,Brown REBOUND (Off:3 Def:12),,
+0020000853,390,6,2,4,9:00 AM,7:36,Carr S.FOUL (P1.T3),,,,
+0020000853,391,3,11,4,9:00 AM,7:36,,,Brown Free Throw 1 of 2 (11 PTS),101 - 82,-19
+0020000853,392,3,12,4,9:01 AM,7:36,,,Brown Free Throw 2 of 2 (12 PTS),102 - 82,-20
+0020000853,393,1,1,4,9:01 AM,7:18,Herren 26' 3PT Jump Shot (6 PTS) (Walker 6 AST),,,102 - 85,-17
+0020000853,394,2,1,4,9:01 AM,6:57,,,MISS Mashburn 18' Jump Shot,,
+0020000853,395,4,0,4,9:01 AM,6:56,Walker REBOUND (Off:2 Def:6),,,,
+0020000853,396,6,1,4,9:01 AM,6:48,,,Brown P.FOUL (P6.T3),,
+0020000853,397,8,0,4,9:02 AM,6:48,,,SUB: James FOR Brown,,
+0020000853,398,6,2,4,9:02 AM,6:43,,,James S.FOUL (P2.T4),,
+0020000853,399,3,11,4,9:02 AM,6:43,Pierce Free Throw 1 of 2 (20 PTS),,,102 - 86,-16
+0020000853,400,8,0,4,9:03 AM,6:43,,,SUB: Robinson FOR James,,
+0020000853,401,3,12,4,9:03 AM,6:43,Pierce Free Throw 2 of 2 (21 PTS),,,102 - 87,-15
+0020000853,402,5,1,4,9:03 AM,6:26,,,Campbell Bad Pass Turnover (P1.T16),,
+0020000853,403,2,1,4,9:04 AM,6:13,MISS Herren 25' 3PT Jump Shot,,,,
+0020000853,404,4,0,4,9:04 AM,6:11,,,Wesley REBOUND (Off:0 Def:2),,
+0020000853,405,6,1,4,9:04 AM,5:56,Walker P.FOUL (P3.T4),,,,
+0020000853,406,9,4,4,9:04 AM,5:56,,,,,
+0020000853,408,2,1,4,9:07 AM,5:43,,,MISS Mashburn 26' 3PT Jump Shot,,
+0020000853,409,4,0,4,9:07 AM,5:42,,,Robinson REBOUND (Off:2 Def:2),,
+0020000853,410,6,1,4,9:07 AM,5:41,Walker P.FOUL (P4.PN),,,,
+0020000853,411,3,11,4,9:07 AM,5:41,,,Robinson Free Throw 1 of 2 (8 PTS),103 - 87,-16
+0020000853,412,3,12,4,9:07 AM,5:41,,,MISS Robinson Free Throw 2 of 2,,
+0020000853,413,4,0,4,9:08 AM,5:40,Walker REBOUND (Off:2 Def:7),,,,
+0020000853,414,2,1,4,9:08 AM,5:23,MISS Carr  3PT Jump Shot,,,,
+0020000853,415,4,0,4,9:08 AM,5:20,,,Davis REBOUND (Off:2 Def:4),,
+0020000853,416,6,1,4,9:08 AM,5:09,Blount P.FOUL (P5.PN),,,,
+0020000853,417,3,11,4,9:08 AM,5:09,,,Wesley Free Throw 1 of 2 (19 PTS),104 - 87,-17
+0020000853,418,8,0,4,9:09 AM,5:09,SUB: Stith FOR Carr,,,,
+0020000853,419,3,12,4,9:09 AM,5:09,,,MISS Wesley Free Throw 2 of 2,,
+0020000853,420,4,0,4,9:09 AM,5:08,CELTICS Rebound,,,,
+0020000853,421,8,0,4,9:09 AM,5:08,SUB: Carr FOR Stith,,,,
+0020000853,422,1,49,4,9:10 AM,4:52,Pierce 2' Driving Dunk (23 PTS) (Walker 7 AST),,,104 - 89,-15
+0020000853,423,6,2,4,9:10 AM,4:52,,,Robinson S.FOUL (P2.PN),,
+0020000853,424,8,0,4,9:10 AM,4:52,SUB: McCarty FOR Blount,,,,
+0020000853,425,3,10,4,9:10 AM,4:52,Pierce Free Throw 1 of 1 (24 PTS),,,104 - 90,-14
+0020000853,426,2,1,4,9:11 AM,4:39,,,MISS Wesley  3PT Jump Shot,,
+0020000853,427,4,0,4,9:11 AM,4:37,Herren REBOUND (Off:0 Def:2),,,,
+0020000853,428,2,1,4,9:11 AM,4:29,MISS McCarty 24' 3PT Jump Shot,,,,
+0020000853,429,4,0,4,9:11 AM,4:27,Walker REBOUND (Off:3 Def:7),,,,
+0020000853,430,1,5,4,9:11 AM,4:25,Walker 2' Layup (27 PTS),,,104 - 92,-12
+0020000853,431,1,1,4,9:11 AM,4:01,,,Davis 24' 3PT Jump Shot (24 PTS) (Mashburn 5 AST),107 - 92,-15
+0020000853,432,5,1,4,9:11 AM,3:48,Herren Bad Pass Turnover (P1.T15),,Wesley STEAL (4 STL),,
+0020000853,433,1,42,4,9:11 AM,3:45,,,Wesley 2' Driving Layup (21 PTS),109 - 92,-17
+0020000853,434,2,1,4,9:12 AM,3:30,MISS Pierce 17' Jump Shot,,,,
+0020000853,435,4,0,4,9:12 AM,3:29,,,Wesley REBOUND (Off:0 Def:3),,
+0020000853,436,6,2,4,9:12 AM,3:09,McCarty S.FOUL (P1.PN),,,,
+0020000853,437,3,11,4,9:12 AM,3:09,,,Campbell Free Throw 1 of 2 (15 PTS),110 - 92,-18
+0020000853,438,3,12,4,9:13 AM,3:09,,,Campbell Free Throw 2 of 2 (16 PTS),111 - 92,-19
+0020000853,439,2,1,4,9:13 AM,2:57,MISS Carr 6' Jump Shot,,,,
+0020000853,440,4,0,4,9:13 AM,2:55,,,Campbell REBOUND (Off:0 Def:7),,
+0020000853,441,6,1,4,9:13 AM,2:37,McCarty P.FOUL (P2.PN),,,,
+0020000853,442,9,1,4,9:13 AM,2:37,CELTICS Timeout: Regular (Full 4 Short 1),,,,
+0020000853,444,8,0,4,9:15 AM,2:37,SUB: Williams FOR Walker,,,,
+0020000853,445,8,0,4,9:15 AM,2:37,SUB: Palacio FOR Pierce,,,,
+0020000853,446,8,0,4,9:15 AM,2:37,,,SUB: Magloire FOR Campbell,,
+0020000853,447,8,0,4,9:15 AM,2:37,,,SUB: James FOR Mashburn,,
+0020000853,448,3,11,4,9:16 AM,2:37,,,MISS Wesley Free Throw 1 of 2,,
+0020000853,449,4,1,4,9:16 AM,2:37,,,Hornets Rebound,,
+0020000853,450,3,12,4,9:16 AM,2:37,,,Wesley Free Throw 2 of 2 (22 PTS),112 - 92,-20
+0020000853,451,5,2,4,9:16 AM,2:20,Herren Lost Ball Turnover (P2.T16),,Wesley STEAL (5 STL),,
+0020000853,452,2,5,4,9:16 AM,2:03,,,MISS Magloire 3' Layup,,
+0020000853,453,4,0,4,9:16 AM,2:01,McCarty REBOUND (Off:0 Def:1),,,,
+0020000853,454,2,1,4,9:17 AM,1:52,MISS McCarty 24' 3PT Jump Shot,,,,
+0020000853,455,4,0,4,9:17 AM,1:50,,,Wesley REBOUND (Off:0 Def:4),,
+0020000853,456,9,2,4,9:17 AM,1:47,,,Hornets Timeout: Short (Reg.4 Short 2),,
+0020000853,457,8,0,4,9:17 AM,1:47,,,SUB: Nailon FOR Wesley,,
+0020000853,458,2,1,4,9:18 AM,1:38,,,MISS James 4' Jump Shot,,
+0020000853,459,4,0,4,9:18 AM,1:35,Palacio REBOUND (Off:0 Def:2),,,,
+0020000853,460,2,1,4,9:18 AM,1:25,MISS Palacio 18' Jump Shot,,,,
+0020000853,461,4,0,4,9:18 AM,1:23,,,Magloire REBOUND (Off:0 Def:2),,
+0020000853,462,2,42,4,9:18 AM,1:14,,,MISS James 2' Driving Layup,,
+0020000853,463,4,0,4,9:18 AM,1:13,,,Hornets Rebound,,
+0020000853,464,2,1,4,9:18 AM,1:06,,,MISS Magloire 7' Jump Shot,,
+0020000853,465,4,0,4,9:19 AM,1:04,,,James REBOUND (Off:1 Def:1),,
+0020000853,466,1,5,4,9:19 AM,1:03,,,James 1' Layup (2 PTS),114 - 92,-22
+0020000853,467,1,49,4,9:19 AM,0:49,Carr 2' Driving Dunk (5 PTS) (Herren 2 AST),,,114 - 94,-20
+0020000853,468,1,1,4,9:19 AM,0:32,,,Robinson 17' Jump Shot (10 PTS),116 - 94,-22
+0020000853,469,1,1,4,9:19 AM,0:18,Palacio  3PT Jump Shot (5 PTS) (Herren 3 AST),,,116 - 97,-19
+0020000853,471,13,0,4,9:20 AM,0:00,,,,116 - 97,-19

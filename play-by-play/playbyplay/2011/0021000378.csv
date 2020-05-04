@@ -1,0 +1,532 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000378,0,12,0,1,7:12 PM,12:00,,,,,
+0021000378,1,10,0,1,7:12 PM,12:00,Jump Ball Lopez vs. McGee: Tip to Harris,,,,
+0021000378,2,2,42,1,7:12 PM,11:53,MISS Harris 3' Driving Layup,,,,
+0021000378,3,4,0,1,7:12 PM,11:52,,,Booker REBOUND (Off:0 Def:1),,
+0021000378,4,1,84,1,7:13 PM,11:30,,,Booker 5' Running Bank Shot (2 PTS) (Arenas 1 AST),2 - 0,-2
+0021000378,5,1,49,1,7:13 PM,11:15,Lopez 2' Driving Dunk (2 PTS) (Harris 1 AST),,,2 - 2,TIE
+0021000378,6,6,2,1,7:13 PM,10:56,Ross S.FOUL (P1.T1),,,,
+0021000378,7,3,11,1,7:14 PM,10:56,,,Thornton Free Throw 1 of 2 (1 PTS),3 - 2,-1
+0021000378,9,3,12,1,7:14 PM,10:56,,,Thornton Free Throw 2 of 2 (2 PTS),4 - 2,-2
+0021000378,12,2,42,1,7:14 PM,10:35,MISS Harris 4' Driving Layup,,McGee BLOCK (1 BLK),,
+0021000378,13,4,0,1,7:15 PM,10:33,Ross REBOUND (Off:1 Def:0),,,,
+0021000378,14,5,11,1,7:15 PM,10:32,NETS Turnover: Shot Clock (T#1),,,,
+0021000378,15,2,1,1,7:15 PM,10:18,,,MISS McGee 13' Jump Shot,,
+0021000378,16,4,0,1,7:15 PM,10:17,Humphries REBOUND (Off:0 Def:1),,,,
+0021000378,17,1,42,1,7:15 PM,10:11,Farmar 2' Driving Layup (2 PTS),,,4 - 4,TIE
+0021000378,18,6,2,1,7:15 PM,10:11,,,Hinrich S.FOUL (P1.T1),,
+0021000378,19,3,10,1,7:15 PM,10:11,Farmar Free Throw 1 of 1 (3 PTS),,,4 - 5,1
+0021000378,21,2,1,1,7:16 PM,9:48,,,MISS Booker 20' Jump Shot,,
+0021000378,22,4,0,1,7:16 PM,9:46,,,Thornton REBOUND (Off:1 Def:0),,
+0021000378,23,2,1,1,7:16 PM,9:42,,,MISS Arenas 25' 3PT Jump Shot,,
+0021000378,24,4,0,1,7:16 PM,9:40,Ross REBOUND (Off:1 Def:1),,,,
+0021000378,25,1,1,1,7:16 PM,9:31,Ross 17' Jump Shot (2 PTS) (Farmar 1 AST),,,4 - 7,3
+0021000378,26,2,3,1,7:17 PM,9:06,,,MISS McGee 5' Hook Shot,,
+0021000378,27,4,0,1,7:17 PM,9:05,Humphries REBOUND (Off:0 Def:2),,,,
+0021000378,28,5,40,1,7:17 PM,8:59,Humphries Out of Bounds Lost Ball Turnover (P1.T2),,,,
+0021000378,29,6,4,1,7:17 PM,8:47,,,McGee OFF.Foul (P1),,
+0021000378,30,5,5,1,7:17 PM,8:47,,,McGee Foul Turnover (P1.T1),,
+0021000378,31,1,1,1,7:18 PM,8:33,Lopez 9' Jump Shot (4 PTS) (Harris 2 AST),,,4 - 9,5
+0021000378,32,2,1,1,7:18 PM,8:18,,,MISS Arenas 20' Jump Shot,,
+0021000378,33,4,0,1,7:18 PM,8:17,Ross REBOUND (Off:1 Def:2),,,,
+0021000378,34,6,2,1,7:18 PM,8:12,,,Booker S.FOUL (P1.T2),,
+0021000378,35,9,1,1,7:18 PM,8:12,,,Wizards Timeout: Regular (Reg.1 Short 0),,
+0021000378,37,3,11,1,7:21 PM,8:12,MISS Harris Free Throw 1 of 2,,,,
+0021000378,38,4,1,1,7:21 PM,8:12,NETS Rebound,,,,
+0021000378,39,3,12,1,7:21 PM,8:12,Harris Free Throw 2 of 2 (1 PTS),,,4 - 10,6
+0021000378,41,2,1,1,7:22 PM,7:53,,,MISS Thornton 17' Jump Shot,,
+0021000378,42,4,0,1,7:22 PM,7:52,Humphries REBOUND (Off:0 Def:3),,,,
+0021000378,43,2,3,1,7:22 PM,7:38,MISS Lopez 7' Hook Shot,,,,
+0021000378,44,4,0,1,7:22 PM,7:37,Humphries REBOUND (Off:1 Def:3),,,,
+0021000378,45,2,5,1,7:22 PM,7:25,MISS Harris 4' Layup,,,,
+0021000378,46,4,0,1,7:22 PM,7:24,,,Hinrich REBOUND (Off:0 Def:1),,
+0021000378,47,2,5,1,7:22 PM,7:19,Ross BLOCK (1 BLK),,MISS Thornton 3' Layup,,
+0021000378,48,10,0,1,7:23 PM,7:19,Jump Ball Ross vs. Thornton: Tip to Farmar,,,,
+0021000378,49,4,0,1,7:23 PM,7:19,Ross REBOUND (Off:1 Def:3),,,,
+0021000378,50,1,42,1,7:23 PM,7:04,Lopez 2' Driving Layup (6 PTS) (Harris 3 AST),,,4 - 12,8
+0021000378,51,2,1,1,7:24 PM,6:50,,,MISS Hinrich 20' Jump Shot,,
+0021000378,52,4,0,1,7:24 PM,6:49,Ross REBOUND (Off:1 Def:4),,,,
+0021000378,53,6,29,1,7:24 PM,6:42,,,McGee Shooting Block Foul (P2.T3),,
+0021000378,54,8,0,1,7:24 PM,6:42,,,SUB: Armstrong FOR McGee,,
+0021000378,55,3,11,1,7:24 PM,6:42,MISS Lopez Free Throw 1 of 2,,,,
+0021000378,56,4,1,1,7:24 PM,6:42,NETS Rebound,,,,
+0021000378,57,3,12,1,7:24 PM,6:42,Lopez Free Throw 2 of 2 (7 PTS),,,4 - 13,9
+0021000378,59,2,1,1,7:25 PM,6:32,Humphries BLOCK (1 BLK),,MISS Hinrich 17' Jump Shot,,
+0021000378,60,4,0,1,7:25 PM,6:30,Lopez REBOUND (Off:0 Def:1),,,,
+0021000378,61,5,1,1,7:25 PM,6:23,Farmar Bad Pass Turnover (P1.T3),,Arenas STEAL (1 STL),,
+0021000378,64,6,26,1,7:25 PM,6:17,,,Armstrong Offensive Charge Foul (P1.T4),,
+0021000378,65,5,5,1,7:25 PM,6:17,,,Armstrong Foul Turnover (P1.T2),,
+0021000378,66,2,1,1,7:25 PM,6:02,MISS Lopez 9' Jump Shot,,,,
+0021000378,67,4,0,1,7:26 PM,5:59,Ross REBOUND (Off:2 Def:4),,,,
+0021000378,68,1,3,1,7:26 PM,5:40,Lopez 9' Hook Shot (9 PTS) (Ross 1 AST),,,4 - 15,11
+0021000378,69,6,4,1,7:26 PM,5:33,,,Armstrong OFF.Foul (P2),,
+0021000378,70,5,5,1,7:26 PM,5:33,,,Armstrong Foul Turnover (P2.T3),,
+0021000378,71,8,0,1,7:26 PM,5:33,,,SUB: Young FOR Booker,,
+0021000378,72,8,0,1,7:26 PM,5:33,SUB: Outlaw FOR Farmar,,,,
+0021000378,73,8,0,1,7:26 PM,5:33,,,SUB: Seraphin FOR Armstrong,,
+0021000378,74,2,1,1,7:27 PM,5:19,MISS Harris 4' Jump Shot,,,,
+0021000378,75,4,0,1,7:27 PM,5:17,,,Seraphin REBOUND (Off:0 Def:1),,
+0021000378,76,1,3,1,7:27 PM,5:06,,,Seraphin 6' Hook Shot (2 PTS) (Hinrich 1 AST),6 - 15,9
+0021000378,77,1,46,1,7:27 PM,5:00,Harris 5' Running Jump Shot (3 PTS),,,6 - 17,11
+0021000378,78,6,2,1,7:27 PM,5:00,,,Hinrich S.FOUL (P2.PN),,
+0021000378,79,3,10,1,7:28 PM,5:00,Harris Free Throw 1 of 1 (4 PTS),,,6 - 18,12
+0021000378,81,5,2,1,7:28 PM,4:52,Outlaw STEAL (1 STL),,Thornton Lost Ball Turnover (P1.T4),,
+0021000378,82,2,1,1,7:28 PM,4:42,MISS Harris 25' 3PT Jump Shot,,,,
+0021000378,83,4,0,1,7:28 PM,4:41,,,Seraphin REBOUND (Off:0 Def:2),,
+0021000378,84,5,4,1,7:28 PM,4:34,,,Seraphin Traveling Turnover (P1.T5),,
+0021000378,86,8,0,1,7:28 PM,4:34,,,SUB: Gee FOR Hinrich,,
+0021000378,85,1,1,1,7:29 PM,4:22,Outlaw 15' Jump Shot (2 PTS),,,6 - 20,14
+0021000378,87,2,1,1,7:29 PM,4:02,,,MISS Arenas 25' 3PT Jump Shot,,
+0021000378,88,4,0,1,7:29 PM,4:00,Lopez REBOUND (Off:0 Def:2),,,,
+0021000378,89,6,2,1,7:29 PM,3:52,,,Seraphin S.FOUL (P1.PN),,
+0021000378,90,8,0,1,7:30 PM,3:52,SUB: Farmar FOR Humphries,,,,
+0021000378,91,3,11,1,7:30 PM,3:52,Outlaw Free Throw 1 of 2 (3 PTS),,,6 - 21,15
+0021000378,93,3,12,1,7:30 PM,3:52,Outlaw Free Throw 2 of 2 (4 PTS),,,6 - 22,16
+0021000378,95,1,47,1,7:30 PM,3:40,,,Young 17' Turnaround Jump Shot (2 PTS),8 - 22,14
+0021000378,96,6,2,1,7:30 PM,3:40,Outlaw S.FOUL (P1.T2),,,,
+0021000378,97,8,0,1,7:31 PM,3:40,SUB: Uzoh FOR Ross,,,,
+0021000378,98,3,10,1,7:31 PM,3:40,,,Young Free Throw 1 of 1 (3 PTS),9 - 22,13
+0021000378,100,1,46,1,7:31 PM,3:26,Outlaw 5' Running Jump Shot (6 PTS),,,9 - 24,15
+0021000378,101,6,2,1,7:31 PM,3:11,Lopez S.FOUL (P1.T3),,,,
+0021000378,102,3,11,1,7:32 PM,3:11,,,Young Free Throw 1 of 2 (4 PTS),10 - 24,14
+0021000378,104,3,12,1,7:32 PM,3:11,,,Young Free Throw 2 of 2 (5 PTS),11 - 24,13
+0021000378,106,5,40,1,7:32 PM,2:58,Outlaw Out of Bounds Lost Ball Turnover (P1.T4),,,,
+0021000378,107,9,1,1,7:32 PM,2:58,NETS Timeout: Regular (Full 1 Short 0),,,,
+0021000378,108,8,0,1,7:35 PM,2:58,SUB: Favors FOR Harris,,,,
+0021000378,109,2,63,1,7:35 PM,2:44,,,MISS Young 14' Fadeaway Jumper,,
+0021000378,110,4,0,1,7:35 PM,2:42,Farmar REBOUND (Off:0 Def:1),,,,
+0021000378,111,5,2,1,7:35 PM,2:34,Farmar Lost Ball Turnover (P2.T5),,Seraphin STEAL (1 STL),,
+0021000378,112,1,1,1,7:35 PM,2:29,,,Arenas 22' Jump Shot (2 PTS),13 - 24,11
+0021000378,113,1,78,1,7:36 PM,2:10,Outlaw 6' Floating Jump Shot (8 PTS),,,13 - 26,13
+0021000378,114,2,46,1,7:36 PM,1:58,Outlaw BLOCK (1 BLK),,MISS Thornton 5' Running Jump Shot,,
+0021000378,115,4,0,1,7:36 PM,1:56,,,Thornton REBOUND (Off:2 Def:0),,
+0021000378,116,1,72,1,7:36 PM,1:54,,,Thornton 2' Putback Layup (4 PTS),15 - 26,11
+0021000378,117,1,5,1,7:36 PM,1:43,Uzoh 2' Layup (2 PTS) (Farmar 2 AST),,,15 - 28,13
+0021000378,118,2,1,1,7:36 PM,1:16,,,MISS Young 24' 3PT Jump Shot,,
+0021000378,119,4,0,1,7:37 PM,1:14,Favors REBOUND (Off:0 Def:1),,,,
+0021000378,120,6,1,1,7:37 PM,1:11,,,Seraphin P.FOUL (P2.PN),,
+0021000378,121,3,11,1,7:37 PM,1:11,Lopez Free Throw 1 of 2 (10 PTS),,,15 - 29,14
+0021000378,123,8,0,1,7:37 PM,1:11,,,SUB: Ndiaye FOR Seraphin,,
+0021000378,124,3,12,1,7:37 PM,1:11,Lopez Free Throw 2 of 2 (11 PTS),,,15 - 30,15
+0021000378,126,2,42,1,7:38 PM,0:58,Uzoh BLOCK (1 BLK),,MISS Young 3' Driving Layup,,
+0021000378,127,4,0,1,7:38 PM,0:56,Lopez REBOUND (Off:0 Def:3),,,,
+0021000378,128,2,1,1,7:38 PM,0:39,MISS Outlaw 17' Jump Shot,,,,
+0021000378,129,4,0,1,7:38 PM,0:38,,,Wizards Rebound,,
+0021000378,130,6,3,1,7:38 PM,0:38,Favors L.B.FOUL (P1.T4),,,,
+0021000378,131,1,1,1,7:38 PM,0:26,,,Thornton 11' Jump Shot (6 PTS) (Arenas 2 AST),17 - 30,13
+0021000378,132,6,2,1,7:39 PM,0:02,,,Ndiaye S.FOUL (P1.PN),,
+0021000378,133,3,11,1,7:39 PM,0:02,Outlaw Free Throw 1 of 2 (9 PTS),,,17 - 31,14
+0021000378,135,8,0,1,7:40 PM,0:02,SUB: Petro FOR Lopez,,,,
+0021000378,136,3,12,1,7:40 PM,0:02,Outlaw Free Throw 2 of 2 (10 PTS),,,17 - 32,15
+0021000378,138,2,1,1,7:40 PM,0:00,,,MISS Arenas 48' 3PT Jump Shot,,
+0021000378,139,4,0,1,7:40 PM,0:00,,,Wizards Rebound,,
+0021000378,141,13,0,1,7:40 PM,0:00,,,,17 - 32,15
+0021000378,143,12,0,2,7:43 PM,12:00,,,,17 - 32,15
+0021000378,144,6,2,2,7:43 PM,11:46,Favors S.FOUL (P2.T1),,,,
+0021000378,145,3,11,2,7:44 PM,11:46,,,Ndiaye Free Throw 1 of 2 (1 PTS),18 - 32,14
+0021000378,147,3,12,2,7:44 PM,11:46,,,MISS Ndiaye Free Throw 2 of 2,,
+0021000378,149,4,0,2,7:44 PM,11:45,Petro REBOUND (Off:0 Def:1),,,,
+0021000378,150,6,2,2,7:44 PM,11:30,,,Young S.FOUL (P1.T1),,
+0021000378,151,3,11,2,7:44 PM,11:30,Harris Free Throw 1 of 2 (5 PTS),,,18 - 33,15
+0021000378,153,3,12,2,7:45 PM,11:30,Harris Free Throw 2 of 2 (6 PTS),,,18 - 34,16
+0021000378,154,2,63,2,7:45 PM,11:07,,,MISS Arenas 16' Fadeaway Jumper,,
+0021000378,155,4,0,2,7:45 PM,11:06,NETS Rebound,,,,
+0021000378,156,2,1,2,7:46 PM,10:53,MISS Outlaw 14' Jump Shot,,,,
+0021000378,157,4,0,2,7:46 PM,10:51,Favors REBOUND (Off:1 Def:1),,,,
+0021000378,158,1,8,2,7:46 PM,10:48,Favors 1' Slam Dunk (2 PTS),,,18 - 36,18
+0021000378,159,6,4,2,7:46 PM,10:29,,,Ndiaye OFF.Foul (P2),,
+0021000378,160,5,5,2,7:46 PM,10:29,,,Ndiaye Foul Turnover (P1.T6),,
+0021000378,161,8,0,2,7:46 PM,10:29,,,SUB: McGee FOR Ndiaye,,
+0021000378,162,8,0,2,7:46 PM,10:29,SUB: Ross FOR Farmar,,,,
+0021000378,163,2,1,2,7:47 PM,10:15,MISS Ross 19' Jump Shot,,,,
+0021000378,164,4,0,2,7:47 PM,10:12,Petro REBOUND (Off:1 Def:1),,,,
+0021000378,165,2,5,2,7:47 PM,10:04,MISS Favors 2' Layup,,,,
+0021000378,166,4,0,2,7:47 PM,10:03,,,Arenas REBOUND (Off:0 Def:1),,
+0021000378,167,2,1,2,7:47 PM,9:57,,,MISS Martin 25' 3PT Jump Shot,,
+0021000378,168,4,0,2,7:47 PM,9:56,,,Martin REBOUND (Off:1 Def:0),,
+0021000378,169,1,42,2,7:47 PM,9:49,,,Young 1' Driving Layup (7 PTS) (Arenas 3 AST),20 - 36,16
+0021000378,170,6,2,2,7:47 PM,9:49,Ross S.FOUL (P2.T2),,,,
+0021000378,171,3,10,2,7:47 PM,9:49,,,Young Free Throw 1 of 1 (8 PTS),21 - 36,15
+0021000378,173,1,56,2,7:48 PM,9:30,Petro 8' Running Hook Shot (2 PTS) (Harris 4 AST),,,21 - 38,17
+0021000378,174,5,1,2,7:48 PM,9:19,Petro STEAL (1 STL),,Arenas Bad Pass Turnover (P1.T7),,
+0021000378,175,6,1,2,7:48 PM,9:17,,,Arenas P.FOUL (P1.T2),,
+0021000378,176,8,0,2,7:48 PM,9:17,,,SUB: Hinrich FOR Arenas,,
+0021000378,177,5,4,2,7:49 PM,9:05,Harris Traveling Turnover (P1.T6),,,,
+0021000378,178,2,1,2,7:49 PM,8:40,,,MISS Hinrich 25' 3PT Jump Shot,,
+0021000378,179,4,0,2,7:49 PM,8:39,Harris REBOUND (Off:0 Def:1),,,,
+0021000378,180,2,1,2,7:49 PM,8:34,MISS Outlaw 18' Jump Shot,,,,
+0021000378,181,4,0,2,7:49 PM,8:33,Ross REBOUND (Off:3 Def:4),,,,
+0021000378,182,2,4,2,7:49 PM,8:32,MISS Ross 2' Tip Shot,,,,
+0021000378,183,4,0,2,7:49 PM,8:31,Favors REBOUND (Off:2 Def:1),,,,
+0021000378,184,1,4,2,7:49 PM,8:30,Favors 3' Tip Shot (4 PTS),,,21 - 40,19
+0021000378,185,9,1,2,7:50 PM,8:30,,,Wizards Timeout: Regular (Reg.2 Short 0),,
+0021000378,187,2,5,2,7:52 PM,8:10,Petro BLOCK (1 BLK),,MISS McGee 3' Layup,,
+0021000378,188,4,0,2,7:52 PM,8:10,,,Wizards Rebound,,
+0021000378,189,8,0,2,7:53 PM,8:10,,,SUB: Booker FOR Thornton,,
+0021000378,190,5,11,2,7:53 PM,8:06,,,Wizards Turnover: Shot Clock (T#8),,
+0021000378,191,2,1,2,7:53 PM,7:52,MISS Harris 18' Jump Shot,,,,
+0021000378,192,4,0,2,7:53 PM,7:51,,,McGee REBOUND (Off:0 Def:1),,
+0021000378,193,5,4,2,7:54 PM,7:50,,,McGee Traveling Turnover (P2.T9),,
+0021000378,194,8,0,2,7:54 PM,7:50,SUB: Farmar FOR Outlaw,,,,
+0021000378,195,8,0,2,7:54 PM,7:50,SUB: Lopez FOR Petro,,,,
+0021000378,196,6,17,2,7:54 PM,7:39,,,Wizards T.Foul (Def. 3 Sec McGee ),,
+0021000378,197,3,16,2,7:54 PM,7:39,Farmar Free Throw Technical (4 PTS),,,21 - 41,20
+0021000378,199,6,1,2,7:55 PM,7:31,,,Martin P.FOUL (P1.T3),,
+0021000378,200,6,4,2,7:55 PM,7:28,Lopez OFF.Foul (P2),,,,
+0021000378,201,5,5,2,7:55 PM,7:28,Lopez Foul Turnover (P1.T7),,,,
+0021000378,202,2,1,2,7:56 PM,7:12,,,MISS Young 14' Jump Shot,,
+0021000378,203,4,0,2,7:56 PM,7:10,Harris REBOUND (Off:0 Def:2),,,,
+0021000378,204,6,2,2,7:56 PM,7:08,,,Hinrich S.FOUL (P3.T4),,
+0021000378,205,3,11,2,7:56 PM,7:08,Ross Free Throw 1 of 2 (3 PTS),,,21 - 42,21
+0021000378,207,8,0,2,7:56 PM,7:08,,,SUB: Arenas FOR Martin,,
+0021000378,208,3,12,2,7:57 PM,7:08,MISS Ross Free Throw 2 of 2,,,,
+0021000378,210,4,0,2,7:57 PM,7:07,,,Young REBOUND (Off:0 Def:1),,
+0021000378,211,6,1,2,7:57 PM,6:56,Favors P.FOUL (P3.T3),,,,
+0021000378,212,8,0,2,7:57 PM,6:56,,,SUB: Thornton FOR Hinrich,,
+0021000378,213,8,0,2,7:57 PM,6:56,SUB: Humphries FOR Favors,,,,
+0021000378,214,1,1,2,7:57 PM,6:49,,,Young 14' Jump Shot (10 PTS) (Arenas 4 AST),23 - 42,19
+0021000378,215,1,52,2,7:57 PM,6:44,Humphries 1' Alley Oop Dunk (2 PTS) (Farmar 3 AST),,,23 - 44,21
+0021000378,216,6,2,2,7:58 PM,6:29,Humphries S.FOUL (P1.T4),,,,
+0021000378,217,3,11,2,7:58 PM,6:29,,,Thornton Free Throw 1 of 2 (7 PTS),24 - 44,20
+0021000378,219,8,0,2,7:58 PM,6:29,SUB: Outlaw FOR Harris,,,,
+0021000378,220,3,12,2,7:58 PM,6:29,,,Thornton Free Throw 2 of 2 (8 PTS),25 - 44,19
+0021000378,222,5,2,2,7:59 PM,6:14,Farmar Lost Ball Turnover (P3.T8),,Arenas STEAL (2 STL),,
+0021000378,223,2,47,2,7:59 PM,5:54,Lopez BLOCK (1 BLK),,MISS Arenas 8' Turnaround Jump Shot,,
+0021000378,224,4,0,2,7:59 PM,5:52,Lopez REBOUND (Off:0 Def:4),,,,
+0021000378,225,6,2,2,7:59 PM,5:49,,,Thornton S.FOUL (P1.PN),,
+0021000378,226,9,4,2,7:59 PM,5:49,,,,,
+0021000378,228,3,11,2,8:02 PM,5:49,MISS Ross Free Throw 1 of 2,,,,
+0021000378,229,4,1,2,8:02 PM,5:49,NETS Rebound,,,,
+0021000378,230,3,12,2,8:02 PM,5:49,MISS Ross Free Throw 2 of 2,,,,
+0021000378,232,4,0,2,8:02 PM,5:48,,,McGee REBOUND (Off:0 Def:2),,
+0021000378,233,6,26,2,8:03 PM,5:33,,,Young Offensive Charge Foul (P2.PN),,
+0021000378,234,5,5,2,8:03 PM,5:33,,,Young Foul Turnover (P1.T10),,
+0021000378,235,1,1,2,8:03 PM,5:16,Humphries 6' Jump Shot (4 PTS),,,25 - 46,21
+0021000378,236,5,4,2,8:03 PM,5:01,,,Booker Traveling Turnover (P1.T11),,
+0021000378,237,1,73,2,8:04 PM,4:46,Farmar 2' Driving Reverse Layup (6 PTS),,,25 - 48,23
+0021000378,238,1,7,2,8:04 PM,4:38,,,Thornton 2' Dunk (10 PTS) (Arenas 5 AST),27 - 48,21
+0021000378,239,7,5,2,8:04 PM,4:29,,,Arenas Violation:Kicked Ball,,
+0021000378,240,6,2,2,8:05 PM,4:20,,,McGee S.FOUL (P3.PN),,
+0021000378,241,3,11,2,8:05 PM,4:20,MISS Lopez Free Throw 1 of 2,,,,
+0021000378,242,4,1,2,8:05 PM,4:20,NETS Rebound,,,,
+0021000378,243,8,0,2,8:05 PM,4:20,,,SUB: Armstrong FOR McGee,,
+0021000378,244,3,12,2,8:05 PM,4:20,Lopez Free Throw 2 of 2 (12 PTS),,,27 - 49,22
+0021000378,246,2,46,2,8:06 PM,4:01,,,MISS Arenas 5' Running Jump Shot,,
+0021000378,247,4,0,2,8:06 PM,4:01,,,Wizards Rebound,,
+0021000378,248,6,3,2,8:06 PM,4:01,Lopez L.B.FOUL (P3.PN),,,,
+0021000378,249,8,0,2,8:06 PM,4:01,SUB: Petro FOR Lopez,,,,
+0021000378,250,3,11,2,8:06 PM,4:01,,,Booker Free Throw 1 of 2 (3 PTS),28 - 49,21
+0021000378,252,8,0,2,8:06 PM,4:01,SUB: Harris FOR Ross,,,,
+0021000378,253,3,12,2,8:06 PM,4:01,,,Booker Free Throw 2 of 2 (4 PTS),29 - 49,20
+0021000378,255,2,1,2,8:07 PM,3:43,MISS Outlaw 26' 3PT Jump Shot,,,,
+0021000378,256,4,0,2,8:07 PM,3:42,,,Armstrong REBOUND (Off:0 Def:1),,
+0021000378,257,2,1,2,8:07 PM,3:25,,,MISS Thornton 17' Jump Shot,,
+0021000378,258,4,0,2,8:07 PM,3:23,,,Booker REBOUND (Off:1 Def:1),,
+0021000378,259,6,2,2,8:07 PM,3:23,Outlaw S.FOUL (P2.PN),,,,
+0021000378,260,3,11,2,8:07 PM,3:23,,,Booker Free Throw 1 of 2 (5 PTS),30 - 49,19
+0021000378,262,3,12,2,8:08 PM,3:23,,,Booker Free Throw 2 of 2 (6 PTS),31 - 49,18
+0021000378,264,6,4,2,8:08 PM,3:09,Outlaw OFF.Foul (P3),,,,
+0021000378,265,5,5,2,8:08 PM,3:09,Outlaw Foul Turnover (P2.T9),,,,
+0021000378,266,8,0,2,8:08 PM,3:09,SUB: Ross FOR Outlaw,,,,
+0021000378,267,6,2,2,8:09 PM,2:59,Harris S.FOUL (P1.PN),,,,
+0021000378,268,9,1,2,8:09 PM,2:59,NETS Timeout: Regular (Full 2 Short 0),,,,
+0021000378,269,3,11,2,8:11 PM,2:59,,,Young Free Throw 1 of 2 (11 PTS),32 - 49,17
+0021000378,271,3,12,2,8:12 PM,2:59,,,Young Free Throw 2 of 2 (12 PTS),33 - 49,16
+0021000378,273,2,1,2,8:12 PM,2:44,MISS Petro 18' Jump Shot,,,,
+0021000378,274,4,0,2,8:12 PM,2:43,,,Armstrong REBOUND (Off:0 Def:2),,
+0021000378,275,5,4,2,8:12 PM,2:34,,,Thornton Traveling Turnover (P2.T12),,
+0021000378,278,6,1,2,8:13 PM,2:23,,,Thornton P.FOUL (P2.PN),,
+0021000378,279,3,11,2,8:13 PM,2:23,Ross Free Throw 1 of 2 (4 PTS),,,33 - 50,17
+0021000378,281,8,0,2,8:13 PM,2:23,,,SUB: Martin FOR Thornton,,
+0021000378,282,3,12,2,8:13 PM,2:23,Ross Free Throw 2 of 2 (5 PTS),,,33 - 51,18
+0021000378,284,2,1,2,8:13 PM,2:12,,,MISS Armstrong 15' Jump Shot,,
+0021000378,285,4,0,2,8:13 PM,2:10,,,Booker REBOUND (Off:2 Def:1),,
+0021000378,286,1,66,2,8:13 PM,2:08,,,Booker 5' Jump Bank Shot (8 PTS),35 - 51,16
+0021000378,287,2,1,2,8:14 PM,1:51,MISS Petro 17' Jump Shot,,,,
+0021000378,288,4,0,2,8:14 PM,1:50,,,Booker REBOUND (Off:2 Def:2),,
+0021000378,289,6,26,2,8:14 PM,1:44,,,Arenas Offensive Charge Foul (P2.PN),,
+0021000378,290,5,5,2,8:14 PM,1:44,,,Arenas Foul Turnover (P2.T13),,
+0021000378,291,6,1,2,8:15 PM,1:30,,,Booker P.FOUL (P2.PN),,
+0021000378,292,3,11,2,8:15 PM,1:30,Humphries Free Throw 1 of 2 (5 PTS),,,35 - 52,17
+0021000378,294,8,0,2,8:15 PM,1:30,SUB: Uzoh FOR Farmar,,,,
+0021000378,295,3,12,2,8:15 PM,1:30,Humphries Free Throw 2 of 2 (6 PTS),,,35 - 53,18
+0021000378,297,1,1,2,8:15 PM,1:17,,,Young 21' Jump Shot (14 PTS),37 - 53,16
+0021000378,298,2,1,2,8:16 PM,1:01,MISS Petro 16' Jump Shot,,,,
+0021000378,299,4,0,2,8:16 PM,0:59,,,Booker REBOUND (Off:2 Def:3),,
+0021000378,300,5,1,2,8:16 PM,0:51,Uzoh STEAL (1 STL),,Arenas Bad Pass Turnover (P3.T14),,
+0021000378,301,1,78,2,8:16 PM,0:48,Harris 6' Floating Jump Shot (8 PTS),,,37 - 55,18
+0021000378,302,2,75,2,8:16 PM,0:35,,,MISS Young 3' Driving Finger Roll Layup,,
+0021000378,303,4,0,2,8:16 PM,0:34,NETS Rebound,,,,
+0021000378,304,6,26,2,8:17 PM,0:27,Petro Offensive Charge Foul (P1.PN),,,,
+0021000378,305,5,5,2,8:17 PM,0:27,Petro Foul Turnover (P1.T10),,,,
+0021000378,306,9,2,2,8:17 PM,0:27,,,Wizards Timeout: Short (Reg.2 Short 1),,
+0021000378,307,6,2,2,8:18 PM,0:07,Petro S.FOUL (P2.PN),,,,
+0021000378,308,3,11,2,8:18 PM,0:07,,,Young Free Throw 1 of 2 (15 PTS),38 - 55,17
+0021000378,310,8,0,2,8:19 PM,0:07,,,SUB: Ndiaye FOR Armstrong,,
+0021000378,311,8,0,2,8:19 PM,0:07,SUB: Farmar FOR Uzoh,,,,
+0021000378,312,8,0,2,8:19 PM,0:07,,,SUB: Gee FOR Arenas,,
+0021000378,313,3,12,2,8:19 PM,0:07,,,MISS Young Free Throw 2 of 2,,
+0021000378,315,4,0,2,8:19 PM,0:06,Humphries REBOUND (Off:1 Def:4),,,,
+0021000378,316,2,1,2,8:19 PM,0:02,MISS Harris 30' 3PT Jump Shot,,,,
+0021000378,317,4,0,2,8:19 PM,0:00,Petro REBOUND (Off:2 Def:1),,,,
+0021000378,318,13,0,2,8:19 PM,0:00,,,,38 - 55,17
+0021000378,320,12,0,3,8:35 PM,12:00,,,,38 - 55,17
+0021000378,321,2,1,3,8:35 PM,11:45,,,MISS Booker 14' Jump Shot,,
+0021000378,322,4,0,3,8:35 PM,11:44,Humphries REBOUND (Off:1 Def:5),,,,
+0021000378,323,1,1,3,8:36 PM,11:26,Harris 21' Jump Shot (10 PTS),,,38 - 57,19
+0021000378,324,1,1,3,8:36 PM,11:13,,,Thornton 25' 3PT Jump Shot (13 PTS) (Arenas 6 AST),41 - 57,16
+0021000378,325,6,26,3,8:36 PM,10:59,Lopez Offensive Charge Foul (P4.T1),,,,
+0021000378,326,5,5,3,8:36 PM,10:59,Lopez Foul Turnover (P2.T11),,,,
+0021000378,327,8,0,3,8:36 PM,10:59,SUB: Favors FOR Lopez,,,,
+0021000378,328,6,1,3,8:37 PM,10:47,Ross P.FOUL (P3.T2),,,,
+0021000378,329,6,4,3,8:37 PM,10:45,,,Booker OFF.Foul (P3),,
+0021000378,330,5,5,3,8:37 PM,10:45,,,Booker Foul Turnover (P2.T15),,
+0021000378,331,5,2,3,8:37 PM,10:27,Humphries Lost Ball Turnover (P2.T12),,Booker STEAL (1 STL),,
+0021000378,332,5,1,3,8:38 PM,10:15,Humphries STEAL (1 STL),,Thornton Bad Pass Turnover (P3.T16),,
+0021000378,333,1,1,3,8:38 PM,10:10,Harris 17' Jump Shot (12 PTS) (Humphries 1 AST),,,41 - 59,18
+0021000378,334,2,73,3,8:38 PM,9:51,,,MISS Thornton 2' Driving Reverse Layup,,
+0021000378,335,4,0,3,8:38 PM,9:50,Humphries REBOUND (Off:1 Def:6),,,,
+0021000378,336,5,1,3,8:38 PM,9:48,Humphries Bad Pass Turnover (P3.T13),,Hinrich STEAL (1 STL),,
+0021000378,337,1,5,3,8:38 PM,9:35,,,McGee 2' Layup (2 PTS),43 - 59,16
+0021000378,338,5,4,3,8:39 PM,9:25,Ross Traveling Turnover (P1.T14),,,,
+0021000378,339,2,1,3,8:39 PM,9:11,,,MISS Hinrich 18' Jump Shot,,
+0021000378,340,4,0,3,8:39 PM,9:09,NETS Rebound,,,,
+0021000378,341,2,1,3,8:39 PM,9:00,MISS Ross 18' Jump Shot,,,,
+0021000378,342,4,0,3,8:39 PM,8:58,,,Booker REBOUND (Off:2 Def:4),,
+0021000378,343,1,1,3,8:39 PM,8:52,,,Arenas 24' 3PT Jump Shot (5 PTS) (Booker 1 AST),46 - 59,13
+0021000378,344,9,1,3,8:40 PM,8:52,NETS Timeout: Regular (Full 3 Short 0),,,,
+0021000378,346,2,46,3,8:42 PM,8:28,MISS Harris 13' Running Jump Shot,,,,
+0021000378,347,4,0,3,8:42 PM,8:27,,,Booker REBOUND (Off:2 Def:5),,
+0021000378,348,1,42,3,8:42 PM,8:21,,,Hinrich 3' Driving Layup (2 PTS) (Arenas 7 AST),48 - 59,11
+0021000378,350,2,42,3,8:43 PM,8:10,MISS Harris 3' Driving Layup,,,,
+0021000378,351,4,0,3,8:43 PM,8:09,Humphries REBOUND (Off:2 Def:6),,,,
+0021000378,352,1,4,3,8:43 PM,8:08,Humphries 1' Tip Shot (8 PTS),,,48 - 61,13
+0021000378,353,1,1,3,8:43 PM,7:54,,,Hinrich 18' Jump Shot (4 PTS),50 - 61,11
+0021000378,354,6,17,3,8:43 PM,7:36,,,Wizards T.Foul (Def. 3 Sec McGee ),,
+0021000378,355,3,16,3,8:43 PM,7:36,Farmar Free Throw Technical (7 PTS),,,50 - 62,12
+0021000378,357,8,0,3,8:44 PM,7:36,SUB: Outlaw FOR Ross,,,,
+0021000378,358,1,42,3,8:44 PM,7:32,Farmar 2' Driving Layup (9 PTS),,,50 - 64,14
+0021000378,359,2,71,3,8:44 PM,7:11,,,MISS McGee 2' Finger Roll Layup,,
+0021000378,360,4,0,3,8:44 PM,7:09,Humphries REBOUND (Off:2 Def:7),,,,
+0021000378,361,2,1,3,8:44 PM,7:03,MISS Farmar 25' 3PT Jump Shot,,,,
+0021000378,362,4,0,3,8:44 PM,7:01,,,McGee REBOUND (Off:0 Def:3),,
+0021000378,363,2,3,3,8:45 PM,6:49,,,MISS Booker 7' Hook Shot,,
+0021000378,364,4,0,3,8:45 PM,6:46,Humphries REBOUND (Off:2 Def:8),,,,
+0021000378,365,6,27,3,8:45 PM,6:42,,,Arenas Personal Block Foul (P3.T1),,
+0021000378,366,8,0,3,8:45 PM,6:42,,,SUB: Armstrong FOR McGee,,
+0021000378,367,2,42,3,8:45 PM,6:38,MISS Farmar 3' Driving Layup,,,,
+0021000378,368,4,0,3,8:45 PM,6:37,Humphries REBOUND (Off:3 Def:8),,,,
+0021000378,369,2,4,3,8:45 PM,6:36,MISS Humphries 1' Tip Shot,,,,
+0021000378,370,4,0,3,8:45 PM,6:35,,,Thornton REBOUND (Off:2 Def:1),,
+0021000378,371,6,1,3,8:46 PM,6:32,Outlaw P.FOUL (P4.T3),,,,
+0021000378,372,8,0,3,8:46 PM,6:32,SUB: Graham FOR Outlaw,,,,
+0021000378,373,1,78,3,8:46 PM,6:16,,,Hinrich 8' Floating Jump Shot (6 PTS) (Armstrong 1 AST),52 - 64,12
+0021000378,374,5,1,3,8:46 PM,6:04,Humphries Bad Pass Turnover (P4.T15),,Hinrich STEAL (2 STL),,
+0021000378,375,6,1,3,8:47 PM,6:02,Harris P.FOUL (P2.T4),,,,
+0021000378,376,8,0,3,8:47 PM,6:02,,,SUB: Young FOR Thornton,,
+0021000378,377,1,46,3,8:47 PM,5:52,,,Hinrich 8' Running Jump Shot (8 PTS),54 - 64,10
+0021000378,378,5,1,3,8:47 PM,5:40,Harris Bad Pass Turnover (P2.T16),,Hinrich STEAL (3 STL),,
+0021000378,379,1,1,3,8:47 PM,5:27,,,Arenas 25' 3PT Jump Shot (8 PTS) (Hinrich 2 AST),57 - 64,7
+0021000378,380,9,2,3,8:48 PM,5:27,NETS Timeout: Short (Full 3 Short 1),,,,
+0021000378,382,8,0,3,8:49 PM,5:27,SUB: Uzoh FOR Farmar,,,,
+0021000378,383,2,46,3,8:49 PM,5:04,MISS Harris 9' Running Jump Shot,,,,
+0021000378,384,4,0,3,8:49 PM,5:03,Favors REBOUND (Off:3 Def:1),,,,
+0021000378,385,1,3,3,8:49 PM,4:52,Humphries 6' Hook Shot (10 PTS) (Harris 5 AST),,,57 - 66,9
+0021000378,386,1,1,3,8:50 PM,4:26,,,Armstrong 7' Jump Shot (2 PTS) (Hinrich 3 AST),59 - 66,7
+0021000378,387,2,1,3,8:50 PM,4:11,MISS Harris 19' Jump Shot,,,,
+0021000378,388,4,0,3,8:50 PM,4:10,,,Young REBOUND (Off:0 Def:2),,
+0021000378,389,2,5,3,8:50 PM,4:01,,,MISS Booker 3' Layup,,
+0021000378,390,4,0,3,8:50 PM,3:59,Harris REBOUND (Off:0 Def:3),,,,
+0021000378,391,2,42,3,8:50 PM,3:53,MISS Harris 2' Driving Layup,,,,
+0021000378,392,4,0,3,8:50 PM,3:52,,,Booker REBOUND (Off:2 Def:6),,
+0021000378,393,6,2,3,8:51 PM,3:43,Favors S.FOUL (P4.PN),,,,
+0021000378,394,3,11,3,8:51 PM,3:43,,,Young Free Throw 1 of 2 (16 PTS),60 - 66,6
+0021000378,396,8,0,3,8:51 PM,3:43,SUB: Murphy FOR Favors,,,,
+0021000378,397,3,12,3,8:51 PM,3:43,,,Young Free Throw 2 of 2 (17 PTS),61 - 66,5
+0021000378,399,2,1,3,8:52 PM,3:26,MISS Murphy 15' Jump Shot,,,,
+0021000378,400,4,0,3,8:52 PM,3:25,Uzoh REBOUND (Off:1 Def:0),,,,
+0021000378,401,1,1,3,8:52 PM,3:20,Harris 25' 3PT Jump Shot (15 PTS) (Graham 1 AST),,,61 - 69,8
+0021000378,402,9,1,3,8:52 PM,3:05,,,Wizards Timeout: Regular (Reg.3 Short 1),,
+0021000378,403,6,29,3,8:55 PM,3:00,Uzoh Shooting Block Foul (P1.PN),,,,
+0021000378,404,3,11,3,8:55 PM,3:00,,,Booker Free Throw 1 of 2 (9 PTS),62 - 69,7
+0021000378,406,3,12,3,8:55 PM,3:00,,,Booker Free Throw 2 of 2 (10 PTS),63 - 69,6
+0021000378,408,1,84,3,8:56 PM,2:38,Harris 7' Running Bank Shot (17 PTS),,,63 - 71,8
+0021000378,409,2,1,3,8:56 PM,2:16,,,MISS Booker 22' Jump Shot,,
+0021000378,410,4,0,3,8:56 PM,2:15,,,Wizards Rebound,,
+0021000378,411,6,3,3,8:56 PM,2:15,Graham L.B.FOUL (P1.PN),,,,
+0021000378,412,3,11,3,8:57 PM,2:15,,,MISS Armstrong Free Throw 1 of 2,,
+0021000378,413,4,1,3,8:57 PM,2:15,,,Wizards Rebound,,
+0021000378,414,3,12,3,8:57 PM,2:15,,,MISS Armstrong Free Throw 2 of 2,,
+0021000378,416,4,0,3,8:57 PM,2:14,,,Armstrong REBOUND (Off:1 Def:2),,
+0021000378,417,1,1,3,8:57 PM,2:08,,,Arenas 25' 3PT Jump Shot (11 PTS) (Hinrich 4 AST),66 - 71,5
+0021000378,418,1,1,3,8:57 PM,1:49,Murphy 25' 3PT Jump Shot (3 PTS) (Harris 6 AST),,,66 - 74,8
+0021000378,419,2,78,3,8:58 PM,1:28,,,MISS Booker 9' Floating Jump Shot,,
+0021000378,420,4,0,3,8:58 PM,1:27,Humphries REBOUND (Off:3 Def:9),,,,
+0021000378,421,2,1,3,8:58 PM,1:15,MISS Humphries 19' Jump Shot,,,,
+0021000378,422,4,0,3,8:58 PM,1:12,Graham REBOUND (Off:1 Def:0),,,,
+0021000378,423,2,1,3,8:58 PM,1:09,MISS Harris 25' 3PT Jump Shot,,,,
+0021000378,424,4,0,3,8:58 PM,1:08,Humphries REBOUND (Off:4 Def:9),,,,
+0021000378,425,8,0,3,8:58 PM,1:07,,,SUB: Thornton FOR Booker,,
+0021000378,427,8,0,3,8:59 PM,1:07,SUB: Farmar FOR Harris,,,,
+0021000378,428,10,0,3,8:59 PM,1:07,Jump Ball Humphries vs. Young: Tip to,,,,
+0021000378,429,5,2,3,8:59 PM,1:07,Humphries Lost Ball Turnover (P5.T17),,Young STEAL (1 STL),,
+0021000378,430,2,1,3,8:59 PM,0:49,,,MISS Arenas 27' 3PT Jump Shot,,
+0021000378,431,4,0,3,9:00 PM,0:48,Farmar REBOUND (Off:0 Def:2),,,,
+0021000378,432,2,1,3,9:00 PM,0:37,MISS Graham 16' Jump Shot,,,,
+0021000378,433,4,0,3,9:00 PM,0:36,,,Hinrich REBOUND (Off:0 Def:2),,
+0021000378,434,2,1,3,9:00 PM,0:30,,,MISS Arenas 24' 3PT Jump Shot,,
+0021000378,435,4,0,3,9:00 PM,0:29,,,Young REBOUND (Off:1 Def:2),,
+0021000378,436,2,57,3,9:00 PM,0:08,,,MISS Armstrong 4' Driving Hook Shot,,
+0021000378,437,4,0,3,9:00 PM,0:07,,,Wizards Rebound,,
+0021000378,438,6,3,3,9:00 PM,0:07,Graham L.B.FOUL (P2.PN),,,,
+0021000378,439,8,0,3,9:01 PM,0:07,,,SUB: Martin FOR Hinrich,,
+0021000378,440,8,0,3,9:01 PM,0:07,,,SUB: Gee FOR Arenas,,
+0021000378,441,8,0,3,9:01 PM,0:07,SUB: Harris FOR Uzoh,,,,
+0021000378,442,3,11,3,9:01 PM,0:07,,,MISS Thornton Free Throw 1 of 2,,
+0021000378,443,4,1,3,9:01 PM,0:07,,,Wizards Rebound,,
+0021000378,444,3,12,3,9:01 PM,0:07,,,Thornton Free Throw 2 of 2 (14 PTS),67 - 74,7
+0021000378,446,6,1,3,9:01 PM,0:06,,,Gee P.FOUL (P1.T2),,
+0021000378,447,2,84,3,9:01 PM,0:02,MISS Harris 7' Running Bank Shot,,,,
+0021000378,448,4,0,3,9:01 PM,0:01,Humphries REBOUND (Off:5 Def:9),,,,
+0021000378,452,6,2,3,9:04 PM,0:00,,,Young S.FOUL (P3.PN),,
+0021000378,451,18,0,3,9:04 PM,0:00,,,,,
+0021000378,453,3,11,3,9:04 PM,0:00,MISS Humphries Free Throw 1 of 2,,,,
+0021000378,454,4,1,3,9:04 PM,0:00,NETS Rebound,,,,
+0021000378,455,8,0,3,9:04 PM,0:00,SUB: Uzoh FOR Harris,,,,
+0021000378,456,8,0,3,9:04 PM,0:00,,,SUB: Booker FOR Young,,
+0021000378,460,8,0,3,9:04 PM,0:00,,,SUB: Hinrich FOR Armstrong,,
+0021000378,457,3,12,3,9:04 PM,0:00,MISS Humphries Free Throw 2 of 2,,,,
+0021000378,459,4,0,3,9:04 PM,0:00,NETS Rebound,,,,
+0021000378,461,13,0,3,9:06 PM,0:00,,,,67 - 74,7
+0021000378,463,12,0,4,9:07 PM,12:00,,,,67 - 74,7
+0021000378,466,2,1,4,9:07 PM,11:39,MISS Graham 22' Jump Shot,,,,
+0021000378,467,4,0,4,9:07 PM,11:38,,,Hinrich REBOUND (Off:0 Def:3),,
+0021000378,468,1,1,4,9:07 PM,11:25,,,Young 18' Jump Shot (19 PTS) (Hinrich 5 AST),69 - 74,5
+0021000378,470,5,2,4,9:08 PM,11:02,Favors Lost Ball Turnover (P1.T18),,Thornton STEAL (1 STL),,
+0021000378,471,5,4,4,9:08 PM,10:52,,,Thornton Traveling Turnover (P4.T17),,
+0021000378,472,8,0,4,9:08 PM,10:52,SUB: Harris FOR Graham,,,,
+0021000378,473,5,2,4,9:09 PM,10:35,Farmar Lost Ball Turnover (P4.T19),,Hinrich STEAL (4 STL),,
+0021000378,474,5,40,4,9:09 PM,10:18,,,Hinrich Out of Bounds Lost Ball Turnover (P1.T18),,
+0021000378,475,2,1,4,9:09 PM,10:02,MISS Outlaw 16' Jump Shot,,,,
+0021000378,476,4,0,4,9:09 PM,10:01,Favors REBOUND (Off:4 Def:1),,,,
+0021000378,477,2,42,4,9:10 PM,9:49,MISS Murphy 4' Driving Layup,,McGee BLOCK (2 BLK),,
+0021000378,478,4,0,4,9:10 PM,9:47,,,Booker REBOUND (Off:2 Def:7),,
+0021000378,479,6,1,4,9:10 PM,9:43,Harris P.FOUL (P3.T1),,,,
+0021000378,480,6,2,4,9:10 PM,9:37,Favors S.FOUL (P5.T2),,,,
+0021000378,481,3,11,4,9:11 PM,9:37,,,Booker Free Throw 1 of 2 (11 PTS),70 - 74,4
+0021000378,483,8,0,4,9:11 PM,9:37,SUB: Lopez FOR Favors,,,,
+0021000378,484,3,12,4,9:11 PM,9:37,,,MISS Booker Free Throw 2 of 2,,
+0021000378,486,4,0,4,9:11 PM,9:36,Outlaw REBOUND (Off:0 Def:1),,,,
+0021000378,487,6,2,4,9:11 PM,9:31,,,Young S.FOUL (P4.T1),,
+0021000378,488,3,11,4,9:11 PM,9:31,Harris Free Throw 1 of 2 (18 PTS),,,70 - 75,5
+0021000378,490,8,0,4,9:12 PM,9:31,,,SUB: Arenas FOR Booker,,
+0021000378,491,3,12,4,9:12 PM,9:31,MISS Harris Free Throw 2 of 2,,,,
+0021000378,493,4,0,4,9:12 PM,9:30,,,McGee REBOUND (Off:0 Def:4),,
+0021000378,494,1,1,4,9:12 PM,9:16,,,Young 24' 3PT Jump Shot (22 PTS) (Hinrich 6 AST),73 - 75,2
+0021000378,495,2,73,4,9:13 PM,8:58,MISS Harris 3' Driving Reverse Layup,,,,
+0021000378,496,4,0,4,9:13 PM,8:57,,,Arenas REBOUND (Off:0 Def:2),,
+0021000378,497,1,75,4,9:13 PM,8:52,,,Thornton 2' Driving Finger Roll Layup (16 PTS) (Arenas 8 AST),75 - 75,TIE
+0021000378,498,9,1,4,9:13 PM,8:52,NETS Timeout: Regular (Full 4 Short 1),,,,
+0021000378,499,8,0,4,9:15 PM,8:52,SUB: Ross FOR Farmar,,,,
+0021000378,500,8,0,4,9:15 PM,8:52,SUB: Humphries FOR Murphy,,,,
+0021000378,501,6,1,4,9:15 PM,8:40,,,McGee P.FOUL (P4.T2),,
+0021000378,502,3,11,4,9:16 PM,8:40,Lopez Free Throw 1 of 2 (13 PTS),,,75 - 76,1
+0021000378,504,3,12,4,9:16 PM,8:40,Lopez Free Throw 2 of 2 (14 PTS),,,75 - 77,2
+0021000378,506,2,1,4,9:16 PM,8:25,,,MISS Thornton 17' Jump Shot,,
+0021000378,507,4,0,4,9:16 PM,8:24,Ross REBOUND (Off:3 Def:5),,,,
+0021000378,508,2,47,4,9:16 PM,8:16,MISS Lopez 5' Turnaround Jump Shot,,Thornton BLOCK (1 BLK),,
+0021000378,509,4,0,4,9:16 PM,8:14,,,McGee REBOUND (Off:0 Def:5),,
+0021000378,510,2,1,4,9:16 PM,8:08,,,MISS Arenas 25' 3PT Jump Shot,,
+0021000378,511,4,0,4,9:17 PM,8:06,Humphries REBOUND (Off:5 Def:10),,,,
+0021000378,513,7,2,4,9:17 PM,7:51,,,McGee Violation:Defensive Goaltending,,
+0021000378,512,1,42,4,9:17 PM,7:51,Harris 2' Driving Layup (20 PTS),,,75 - 79,4
+0021000378,514,5,1,4,9:17 PM,7:38,Humphries STEAL (2 STL),,Young Bad Pass Turnover (P2.T19),,
+0021000378,515,6,1,4,9:17 PM,7:38,,,Arenas P.FOUL (P4.T3),,
+0021000378,516,6,1,4,9:18 PM,7:19,,,McGee P.FOUL (P5.T4),,
+0021000378,517,8,0,4,9:18 PM,7:19,,,SUB: Armstrong FOR McGee,,
+0021000378,518,8,0,4,9:18 PM,7:19,,,SUB: Booker FOR Young,,
+0021000378,519,5,40,4,9:19 PM,7:08,Lopez Out of Bounds Lost Ball Turnover (P3.T20),,,,
+0021000378,520,1,42,4,9:19 PM,6:52,,,Arenas 3' Driving Layup (13 PTS),77 - 79,2
+0021000378,521,1,1,4,9:20 PM,6:40,Humphries 15' Jump Shot (12 PTS) (Harris 7 AST),,,77 - 81,4
+0021000378,522,1,75,4,9:20 PM,6:25,,,Arenas 3' Driving Finger Roll Layup (15 PTS),79 - 81,2
+0021000378,523,2,1,4,9:20 PM,6:00,MISS Harris 25' 3PT Jump Shot,,,,
+0021000378,524,4,0,4,9:20 PM,5:59,,,Armstrong REBOUND (Off:1 Def:3),,
+0021000378,525,2,5,4,9:20 PM,5:49,,,MISS Thornton 2' Layup,,
+0021000378,526,4,0,4,9:20 PM,5:48,Lopez REBOUND (Off:0 Def:5),,,,
+0021000378,527,6,1,4,9:21 PM,5:42,,,Thornton P.FOUL (P3.PN),,
+0021000378,528,9,4,4,9:21 PM,5:42,,,,,
+0021000378,529,3,11,4,9:23 PM,5:42,MISS Harris Free Throw 1 of 2,,,,
+0021000378,530,4,1,4,9:23 PM,5:42,NETS Rebound,,,,
+0021000378,531,3,12,4,9:23 PM,5:42,Harris Free Throw 2 of 2 (21 PTS),,,79 - 82,3
+0021000378,533,2,1,4,9:24 PM,5:26,,,MISS Arenas 25' 3PT Jump Shot,,
+0021000378,534,4,0,4,9:24 PM,5:25,Outlaw REBOUND (Off:0 Def:2),,,,
+0021000378,535,2,1,4,9:24 PM,5:02,MISS Lopez 14' Jump Shot,,,,
+0021000378,536,4,0,4,9:24 PM,5:01,,,Armstrong REBOUND (Off:1 Def:4),,
+0021000378,537,5,6,4,9:25 PM,4:45,,,Hinrich Double Dribble Turnover (P2.T20),,
+0021000378,538,8,0,4,9:25 PM,4:45,,,SUB: Young FOR Booker,,
+0021000378,539,2,65,4,9:25 PM,4:22,MISS Lopez 12' Jump Hook Shot,,,,
+0021000378,540,4,0,4,9:25 PM,4:21,,,Armstrong REBOUND (Off:1 Def:5),,
+0021000378,541,1,84,4,9:25 PM,4:12,,,Arenas 8' Running Bank Shot (17 PTS),81 - 82,1
+0021000378,542,6,1,4,9:26 PM,3:53,,,Thornton P.FOUL (P4.PN),,
+0021000378,543,3,11,4,9:26 PM,3:53,Harris Free Throw 1 of 2 (22 PTS),,,81 - 83,2
+0021000378,545,3,12,4,9:26 PM,3:53,Harris Free Throw 2 of 2 (23 PTS),,,81 - 84,3
+0021000378,547,2,63,4,9:27 PM,3:36,,,MISS Young 16' Fadeaway Jumper,,
+0021000378,548,4,0,4,9:27 PM,3:34,Outlaw REBOUND (Off:0 Def:3),,,,
+0021000378,549,1,7,4,9:27 PM,3:22,Lopez 2' Dunk (16 PTS) (Harris 8 AST),,,81 - 86,5
+0021000378,550,9,1,4,9:27 PM,3:20,,,Wizards Timeout: Regular (Reg.4 Short 1),,
+0021000378,552,1,78,4,9:30 PM,3:05,,,Thornton 5' Floating Jump Shot (18 PTS) (Arenas 9 AST),83 - 86,3
+0021000378,553,5,4,4,9:31 PM,2:50,Outlaw Traveling Turnover (P3.T21),,,,
+0021000378,554,1,3,4,9:31 PM,2:36,,,Armstrong 6' Hook Shot (4 PTS),85 - 86,1
+0021000378,555,2,3,4,9:31 PM,2:19,MISS Lopez 10' Hook Shot,,Armstrong BLOCK (1 BLK),,
+0021000378,556,4,0,4,9:31 PM,2:18,,,Arenas REBOUND (Off:0 Def:3),,
+0021000378,557,6,26,4,9:32 PM,2:14,,,Arenas Offensive Charge Foul (P5.PN),,
+0021000378,558,5,5,4,9:32 PM,2:14,,,Arenas Foul Turnover (P4.T21),,
+0021000378,559,8,0,4,9:32 PM,2:14,SUB: Farmar FOR Ross,,,,
+0021000378,560,6,11,4,9:32 PM,2:07,,,Arenas T.FOUL (P5.PN),,
+0021000378,561,3,16,4,9:32 PM,2:07,MISS Farmar Free Throw Technical,,,,
+0021000378,562,4,1,4,9:32 PM,2:07,NETS Rebound,,,,
+0021000378,563,1,78,4,9:33 PM,1:58,Lopez 8' Floating Jump Shot (18 PTS) (Harris 9 AST),,,85 - 88,3
+0021000378,564,1,63,4,9:33 PM,1:47,,,Arenas 17' Fadeaway Jumper (19 PTS),87 - 88,1
+0021000378,565,6,2,4,9:33 PM,1:36,,,Armstrong S.FOUL (P3.PN),,
+0021000378,566,3,11,4,9:34 PM,1:36,Harris Free Throw 1 of 2 (24 PTS),,,87 - 89,2
+0021000378,568,8,0,4,9:34 PM,1:36,SUB: Ross FOR Farmar,,,,
+0021000378,569,3,12,4,9:34 PM,1:36,Harris Free Throw 2 of 2 (25 PTS),,,87 - 90,3
+0021000378,571,9,2,4,9:34 PM,1:36,,,Wizards Timeout: Short (Reg.4 Short 2),,
+0021000378,573,2,1,4,9:36 PM,1:29,,,MISS Thornton 18' Jump Shot,,
+0021000378,574,4,0,4,9:36 PM,1:27,,,Armstrong REBOUND (Off:2 Def:5),,
+0021000378,576,2,5,4,9:36 PM,1:25,Humphries BLOCK (2 BLK),,MISS Armstrong 3' Layup,,
+0021000378,577,4,0,4,9:36 PM,1:23,Outlaw REBOUND (Off:0 Def:4),,,,
+0021000378,578,2,1,4,9:36 PM,1:05,MISS Harris 18' Jump Shot,,,,
+0021000378,579,4,0,4,9:36 PM,1:04,Humphries REBOUND (Off:6 Def:10),,,,
+0021000378,580,2,1,4,9:37 PM,0:43,MISS Harris 15' Jump Shot,,,,
+0021000378,581,4,0,4,9:37 PM,0:42,,,Thornton REBOUND (Off:2 Def:2),,
+0021000378,582,2,42,4,9:37 PM,0:36,,,MISS Hinrich 3' Driving Layup,,
+0021000378,583,4,0,4,9:37 PM,0:34,Ross REBOUND (Off:3 Def:6),,,,
+0021000378,584,6,1,4,9:37 PM,0:29,,,Arenas P.FOUL (P6.PN),,
+0021000378,585,8,0,4,9:37 PM,0:29,,,SUB: Booker FOR Arenas,,
+0021000378,586,3,11,4,9:38 PM,0:29,Harris Free Throw 1 of 2 (26 PTS),,,87 - 91,4
+0021000378,588,3,12,4,9:38 PM,0:29,Harris Free Throw 2 of 2 (27 PTS),,,87 - 92,5
+0021000378,590,9,1,4,9:38 PM,0:29,,,Wizards Timeout: Regular (Reg.5 Short 2),,
+0021000378,592,8,0,4,9:40 PM,0:29,,,SUB: Martin FOR Booker,,
+0021000378,593,2,1,4,9:40 PM,0:26,,,MISS Young 21' Jump Shot,,
+0021000378,594,4,0,4,9:41 PM,0:25,Outlaw REBOUND (Off:0 Def:5),,,,
+0021000378,595,6,1,4,9:41 PM,0:25,,,Martin P.FOUL (P2.PN),,
+0021000378,596,3,11,4,9:41 PM,0:25,MISS Outlaw Free Throw 1 of 2,,,,
+0021000378,597,4,1,4,9:41 PM,0:25,NETS Rebound,,,,
+0021000378,598,8,0,4,9:41 PM,0:25,,,SUB: Booker FOR Martin,,
+0021000378,599,3,12,4,9:41 PM,0:25,Outlaw Free Throw 2 of 2 (11 PTS),,,87 - 93,6
+0021000378,601,9,2,4,9:41 PM,0:25,,,Wizards Timeout: Short (Reg.5 Short 3),,
+0021000378,603,8,0,4,9:42 PM,0:25,,,SUB: Martin FOR Booker,,
+0021000378,604,2,1,4,9:43 PM,0:22,,,MISS Martin 27' 3PT Jump Shot,,
+0021000378,605,4,0,4,9:43 PM,0:21,Outlaw REBOUND (Off:0 Def:6),,,,
+0021000378,606,6,1,4,9:43 PM,0:21,,,Armstrong P.FOUL (P4.PN),,
+0021000378,607,3,11,4,9:43 PM,0:21,Outlaw Free Throw 1 of 2 (12 PTS),,,87 - 94,7
+0021000378,609,3,12,4,9:43 PM,0:21,Outlaw Free Throw 2 of 2 (13 PTS),,,87 - 95,8
+0021000378,611,1,42,4,9:44 PM,0:14,,,Hinrich 1' Driving Layup (10 PTS),89 - 95,6
+0021000378,612,6,1,4,9:44 PM,0:10,,,Hinrich P.FOUL (P4.PN),,
+0021000378,613,3,11,4,9:44 PM,0:10,Harris Free Throw 1 of 2 (28 PTS),,,89 - 96,7
+0021000378,615,8,0,4,9:44 PM,0:10,SUB: Uzoh FOR Lopez,,,,
+0021000378,616,3,12,4,9:45 PM,0:10,Harris Free Throw 2 of 2 (29 PTS),,,89 - 97,8
+0021000378,618,2,1,4,9:45 PM,0:03,,,MISS Young 29' 3PT Jump Shot,,
+0021000378,619,4,0,4,9:45 PM,0:02,Humphries REBOUND (Off:6 Def:11),,,,
+0021000378,620,13,0,4,9:45 PM,0:00,,,,89 - 97,8

@@ -1,0 +1,484 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900552,0,12,0,1,10:44 PM,12:00,,,,,
+0020900552,1,10,0,1,10:44 PM,12:00,Jump Ball Turiaf vs. O'Neal: Tip to Hickson,,,,
+0020900552,2,2,1,1,10:44 PM,11:42,,,MISS James 23' Jump Shot,,
+0020900552,3,4,0,1,10:44 PM,11:41,Turiaf REBOUND (Off:0 Def:1),,,,
+0020900552,4,2,78,1,10:44 PM,11:31,MISS Curry 11' Floating Jump Shot,,,,
+0020900552,6,4,0,1,10:44 PM,11:30,Radmanovic REBOUND (Off:1 Def:0),,,,
+0020900552,5,1,79,1,10:44 PM,11:30,Radmanovic 4' Pullup Jump Shot (2 PTS),,,0 - 2,2
+0020900552,7,5,41,1,10:45 PM,11:18,,,O'Neal Poss Lost Ball Turnover (P1.T1),,
+0020900552,8,1,80,1,10:45 PM,11:03,Ellis 21' Step Back Jump Shot (2 PTS) (Turiaf 1 AST),,,0 - 4,4
+0020900552,9,1,47,1,10:45 PM,10:38,,,O'Neal 3' Turnaround Jump Shot (2 PTS),2 - 4,2
+0020900552,10,1,88,1,10:46 PM,10:26,Turiaf 1' Driving Slam Dunk (2 PTS) (Ellis 1 AST),,,2 - 6,4
+0020900552,11,1,79,1,10:46 PM,10:12,,,Williams 20' Pullup Jump Shot (2 PTS) (Parker 1 AST),4 - 6,2
+0020900552,12,2,1,1,10:46 PM,9:52,MISS Maggette 22' Jump Shot,,,,
+0020900552,13,4,0,1,10:46 PM,9:51,,,O'Neal REBOUND (Off:0 Def:1),,
+0020900552,14,1,79,1,10:46 PM,9:44,,,Parker 28' 3PT Pullup Jump Shot (3 PTS) (Williams 1 AST),7 - 6,-1
+0020900552,15,2,1,1,10:47 PM,9:27,MISS Ellis 14' Jump Shot,,,,
+0020900552,16,4,0,1,10:47 PM,9:23,,,Hickson REBOUND (Off:0 Def:1),,
+0020900552,17,5,2,1,10:47 PM,9:16,Turiaf STEAL (1 STL),,O'Neal Lost Ball Turnover (P2.T2),,
+0020900552,18,2,5,1,10:47 PM,9:10,MISS Curry 2' Layup,,James BLOCK (1 BLK),,
+0020900552,19,4,0,1,10:47 PM,9:09,WARRIORS Rebound,,,,
+0020900552,20,2,1,1,10:47 PM,8:59,MISS Turiaf 17' Jump Shot,,,,
+0020900552,21,4,0,1,10:47 PM,8:58,,,Hickson REBOUND (Off:0 Def:2),,
+0020900552,22,6,2,1,10:48 PM,8:54,Turiaf S.FOUL (P1.T1),,,,
+0020900552,23,3,11,1,10:48 PM,8:54,,,James Free Throw 1 of 2 (1 PTS),8 - 6,-2
+0020900552,25,3,12,1,10:48 PM,8:54,,,James Free Throw 2 of 2 (2 PTS),9 - 6,-3
+0020900552,27,6,2,1,10:48 PM,8:41,,,James S.FOUL (P1.T1),,
+0020900552,28,3,11,1,10:49 PM,8:41,MISS Maggette Free Throw 1 of 2,,,,
+0020900552,29,4,1,1,10:49 PM,8:41,WARRIORS Rebound,,,,
+0020900552,30,3,12,1,10:49 PM,8:41,Maggette Free Throw 2 of 2 (1 PTS),,,9 - 7,-2
+0020900552,32,1,86,1,10:49 PM,8:29,,,Williams 14' Turnaround Fadeaway (4 PTS) (James 1 AST),11 - 7,-4
+0020900552,33,1,42,1,10:50 PM,8:16,Curry 3' Driving Layup (2 PTS),,,11 - 9,-2
+0020900552,34,1,44,1,10:50 PM,7:58,,,O'Neal 2' Reverse Layup (4 PTS),13 - 9,-4
+0020900552,35,1,1,1,10:50 PM,7:44,Ellis 27' 3PT Jump Shot (5 PTS) (Turiaf 2 AST),,,13 - 12,-1
+0020900552,36,2,1,1,10:50 PM,7:27,,,MISS Williams 16' Jump Shot,,
+0020900552,37,4,0,1,10:50 PM,7:26,Radmanovic REBOUND (Off:1 Def:1),,,,
+0020900552,38,5,1,1,10:51 PM,7:17,Ellis Bad Pass Turnover (P1.T1),,Parker STEAL (1 STL),,
+0020900552,39,2,1,1,10:51 PM,7:01,,,MISS Hickson 6' Jump Shot,,
+0020900552,40,4,0,1,10:51 PM,7:00,Radmanovic REBOUND (Off:1 Def:2),,,,
+0020900552,41,5,1,1,10:51 PM,6:56,Maggette Bad Pass Turnover (P1.T2),,Williams STEAL (1 STL),,
+0020900552,42,2,63,1,10:51 PM,6:48,,,MISS James 26' 3PT Fadeaway Jumper,,
+0020900552,43,4,0,1,10:51 PM,6:47,Ellis REBOUND (Off:0 Def:1),,,,
+0020900552,44,6,2,1,10:51 PM,6:41,,,Parker S.FOUL (P1.T2),,
+0020900552,45,3,11,1,10:52 PM,6:41,Maggette Free Throw 1 of 2 (2 PTS),,,13 - 13,TIE
+0020900552,47,3,12,1,10:52 PM,6:41,Maggette Free Throw 2 of 2 (3 PTS),,,13 - 14,1
+0020900552,49,6,1,1,10:52 PM,6:27,Ellis P.FOUL (P1.T2),,,,
+0020900552,50,2,1,1,10:53 PM,6:19,,,MISS Williams  3PT Jump Shot,,
+0020900552,51,4,0,1,10:53 PM,6:17,Turiaf REBOUND (Off:0 Def:2),,,,
+0020900552,52,6,2,1,10:53 PM,6:10,,,Williams S.FOUL (P1.T3),,
+0020900552,53,3,11,1,10:53 PM,6:10,Maggette Free Throw 1 of 2 (4 PTS),,,13 - 15,2
+0020900552,55,3,12,1,10:53 PM,6:10,Maggette Free Throw 2 of 2 (5 PTS),,,13 - 16,3
+0020900552,57,5,1,1,10:54 PM,5:50,,,Williams Bad Pass Turnover (P1.T3),,
+0020900552,58,9,1,1,10:54 PM,5:50,WARRIORS Timeout: Regular (Full 1 Short 0),,,,
+0020900552,61,8,0,1,10:57 PM,5:50,,,SUB: Ilgauskas FOR Hickson,,
+0020900552,62,8,0,1,10:57 PM,5:50,,,SUB: Varejao FOR O'Neal,,
+0020900552,63,2,86,1,10:57 PM,5:35,MISS Maggette 13' Turnaround Fadeaway Shot,,,,
+0020900552,64,4,0,1,10:57 PM,5:33,,,Ilgauskas REBOUND (Off:0 Def:1),,
+0020900552,65,2,1,1,10:58 PM,5:17,,,MISS Ilgauskas 20' Jump Shot,,
+0020900552,66,4,0,1,10:58 PM,5:16,Curry REBOUND (Off:0 Def:1),,,,
+0020900552,67,1,88,1,10:58 PM,5:10,Maggette 1' Driving Slam Dunk (7 PTS) (Turiaf 3 AST),,,13 - 18,5
+0020900552,68,2,1,1,10:58 PM,4:44,,,MISS Ilgauskas 16' Jump Shot,,
+0020900552,69,4,0,1,10:58 PM,4:42,,,Ilgauskas REBOUND (Off:1 Def:1),,
+0020900552,70,2,1,1,10:58 PM,4:38,,,MISS Parker  3PT Jump Shot,,
+0020900552,71,4,0,1,10:58 PM,4:36,Curry REBOUND (Off:0 Def:2),,,,
+0020900552,72,1,75,1,10:59 PM,4:32,Curry 3' Driving Finger Roll Layup (4 PTS),,,13 - 20,7
+0020900552,73,1,78,1,10:59 PM,4:07,,,Varejao 3' Floating Jump Shot (2 PTS) (Parker 2 AST),15 - 20,5
+0020900552,74,5,21,1,10:59 PM,3:56,Ellis Palming Turnover (P2.T3),,,,
+0020900552,75,8,0,1,10:59 PM,3:56,SUB: Biedrins FOR Turiaf,,,,
+0020900552,76,2,1,1,11:00 PM,3:43,,,MISS James 4' Jump Shot,,
+0020900552,78,4,0,1,11:00 PM,3:41,,,James REBOUND (Off:1 Def:0),,
+0020900552,77,1,72,1,11:00 PM,3:41,,,James 1' Putback Layup (4 PTS),17 - 20,3
+0020900552,79,2,1,1,11:00 PM,3:30,MISS Curry 19' Jump Shot,,,,
+0020900552,80,4,0,1,11:00 PM,3:29,,,Varejao REBOUND (Off:0 Def:1),,
+0020900552,81,1,42,1,11:00 PM,3:19,,,James 3' Driving Layup (6 PTS) (Williams 2 AST),19 - 20,1
+0020900552,82,6,2,1,11:00 PM,3:19,Biedrins S.FOUL (P1.T3),,,,
+0020900552,83,8,0,1,11:00 PM,3:19,,,SUB: West FOR Williams,,
+0020900552,84,3,10,1,11:00 PM,3:19,,,James Free Throw 1 of 1 (7 PTS),20 - 20,TIE
+0020900552,86,6,2,1,11:01 PM,3:08,,,Ilgauskas S.FOUL (P1.T4),,
+0020900552,87,3,11,1,11:01 PM,3:08,Radmanovic Free Throw 1 of 2 (3 PTS),,,20 - 21,1
+0020900552,89,3,12,1,11:01 PM,3:08,MISS Radmanovic Free Throw 2 of 2,,,,
+0020900552,91,4,0,1,11:02 PM,3:06,,,Varejao REBOUND (Off:0 Def:2),,
+0020900552,92,2,46,1,11:02 PM,2:45,,,MISS Varejao 5' Running Jump Shot,,
+0020900552,94,4,0,1,11:02 PM,2:44,,,Ilgauskas REBOUND (Off:2 Def:1),,
+0020900552,93,1,4,1,11:02 PM,2:44,,,Ilgauskas 1' Tip Shot (2 PTS),22 - 21,-1
+0020900552,95,5,2,1,11:02 PM,2:31,Ellis Lost Ball Turnover (P3.T4),,Ilgauskas STEAL (1 STL),,
+0020900552,96,6,2,1,11:02 PM,2:27,Curry S.FOUL (P1.T4),,,,
+0020900552,97,9,1,1,11:03 PM,2:27,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,
+0020900552,99,8,0,1,11:05 PM,2:27,,,SUB: Williams FOR Parker,,
+0020900552,100,3,11,1,11:06 PM,2:27,,,James Free Throw 1 of 2 (8 PTS),23 - 21,-2
+0020900552,102,3,12,1,11:06 PM,2:27,,,James Free Throw 2 of 2 (9 PTS),24 - 21,-3
+0020900552,104,1,79,1,11:06 PM,2:12,Radmanovic  3PT Pullup Jump Shot (6 PTS) (Ellis 2 AST),,,24 - 24,TIE
+0020900552,105,1,42,1,11:06 PM,1:58,,,Ilgauskas 2' Driving Layup (4 PTS) (James 2 AST),26 - 24,-2
+0020900552,106,2,46,1,11:07 PM,1:48,MISS Ellis 14' Running Jump Shot,,,,
+0020900552,107,4,0,1,11:07 PM,1:47,,,West REBOUND (Off:0 Def:1),,
+0020900552,108,5,1,1,11:07 PM,1:40,Ellis STEAL (1 STL),,Varejao Bad Pass Turnover (P1.T4),,
+0020900552,109,6,2,1,11:07 PM,1:35,,,Williams S.FOUL (P1.PN),,
+0020900552,110,3,11,1,11:07 PM,1:35,Ellis Free Throw 1 of 2 (6 PTS),,,26 - 25,-1
+0020900552,112,3,12,1,11:07 PM,1:35,Ellis Free Throw 2 of 2 (7 PTS),,,26 - 26,TIE
+0020900552,114,6,2,1,11:08 PM,1:21,Radmanovic S.FOUL (P1.PN),,,,
+0020900552,115,3,11,1,11:09 PM,1:21,,,Williams Free Throw 1 of 2 (1 PTS),27 - 26,-1
+0020900552,117,3,12,1,11:09 PM,1:21,,,MISS Williams Free Throw 2 of 2,,
+0020900552,119,4,0,1,11:09 PM,1:17,,,Ilgauskas REBOUND (Off:3 Def:1),,
+0020900552,120,2,5,1,11:09 PM,1:16,,,MISS Ilgauskas 2' Layup,,
+0020900552,121,4,0,1,11:09 PM,1:14,,,Ilgauskas REBOUND (Off:4 Def:1),,
+0020900552,122,2,5,1,11:09 PM,1:14,Biedrins BLOCK (1 BLK),,MISS Ilgauskas 1' Layup,,
+0020900552,124,4,0,1,11:09 PM,1:11,,,Ilgauskas REBOUND (Off:5 Def:1),,
+0020900552,123,1,5,1,11:09 PM,1:11,,,Ilgauskas  Layup (6 PTS),29 - 26,-3
+0020900552,125,2,5,1,11:10 PM,0:58,MISS Biedrins 1' Layup,,,,
+0020900552,126,4,0,1,11:10 PM,0:57,Biedrins REBOUND (Off:1 Def:0),,,,
+0020900552,127,2,5,1,11:10 PM,0:56,MISS Biedrins 2' Layup,,,,
+0020900552,128,4,0,1,11:10 PM,0:55,,,Williams REBOUND (Off:0 Def:1),,
+0020900552,129,1,42,1,11:10 PM,0:53,,,James 1' Driving Layup (11 PTS) (Williams 1 AST),31 - 26,-5
+0020900552,130,1,42,1,11:10 PM,0:42,Ellis 2' Driving Layup (9 PTS),,,31 - 28,-3
+0020900552,131,6,2,1,11:10 PM,0:26,Radmanovic S.FOUL (P2.PN),,,,
+0020900552,132,3,11,1,11:11 PM,0:26,,,Varejao Free Throw 1 of 2 (3 PTS),32 - 28,-4
+0020900552,135,8,0,1,11:11 PM,0:26,,,SUB: Williams FOR James,,
+0020900552,136,3,12,1,11:11 PM,0:26,,,Varejao Free Throw 2 of 2 (4 PTS),33 - 28,-5
+0020900552,138,2,1,1,11:12 PM,0:08,MISS Radmanovic 22' Jump Shot,,,,
+0020900552,139,4,0,1,11:12 PM,0:06,Biedrins REBOUND (Off:2 Def:0),,,,
+0020900552,140,1,80,1,11:12 PM,0:00,Ellis  3PT Step Back Jump Shot (12 PTS),,,33 - 31,-2
+0020900552,141,5,1,1,11:12 PM,0:00,Biedrins STEAL (1 STL),,Varejao Bad Pass Turnover (P2.T5),,
+0020900552,142,13,0,1,11:12 PM,0:00,,,,33 - 31,-2
+0020900552,144,12,0,2,11:15 PM,12:00,,,,33 - 31,-2
+0020900552,151,2,45,2,11:16 PM,11:40,MISS Biedrins 2' Jump Shot,,Varejao BLOCK (1 BLK),,
+0020900552,145,4,0,2,11:16 PM,11:38,,,West REBOUND (Off:0 Def:2),,
+0020900552,146,2,1,2,11:16 PM,11:18,,,MISS Williams 17' Jump Shot,,
+0020900552,147,4,0,2,11:16 PM,11:17,,,Varejao REBOUND (Off:1 Def:2),,
+0020900552,148,5,1,2,11:16 PM,11:16,,,Varejao Bad Pass Turnover (P3.T6),,
+0020900552,149,1,1,2,11:16 PM,11:09,Ellis 18' Jump Shot (14 PTS),,,33 - 33,TIE
+0020900552,150,6,1,2,11:17 PM,10:54,Biedrins P.FOUL (P2.T1),,,,
+0020900552,152,5,1,2,11:17 PM,10:50,Biedrins STEAL (2 STL),,Williams Bad Pass Turnover (P2.T7),,
+0020900552,153,6,2,2,11:17 PM,10:44,,,Varejao S.FOUL (P1.T1),,
+0020900552,154,3,11,2,11:17 PM,10:44,Maggette Free Throw 1 of 2 (8 PTS),,,33 - 34,1
+0020900552,157,3,12,2,11:18 PM,10:44,Maggette Free Throw 2 of 2 (9 PTS),,,33 - 35,2
+0020900552,159,5,1,2,11:19 PM,10:21,,,Williams Bad Pass Turnover (P3.T8),,
+0020900552,160,2,5,2,11:19 PM,10:15,MISS Maggette 3' Layup,,,,
+0020900552,161,4,0,2,11:19 PM,10:13,Radmanovic REBOUND (Off:2 Def:2),,,,
+0020900552,162,2,1,2,11:19 PM,10:05,MISS Maggette 3' Jump Shot,,,,
+0020900552,163,4,0,2,11:19 PM,10:04,,,O'Neal REBOUND (Off:0 Def:2),,
+0020900552,164,2,1,2,11:19 PM,9:50,,,MISS O'Neal 6' Jump Shot,,
+0020900552,165,4,0,2,11:19 PM,9:49,Radmanovic REBOUND (Off:2 Def:3),,,,
+0020900552,166,2,1,2,11:20 PM,9:42,MISS Biedrins 4' Jump Shot,,,,
+0020900552,167,4,0,2,11:20 PM,9:41,,,O'Neal REBOUND (Off:0 Def:3),,
+0020900552,168,1,78,2,11:20 PM,9:25,,,Williams 7' Floating Jump Shot (3 PTS) (Varejao 1 AST),35 - 35,TIE
+0020900552,169,2,44,2,11:20 PM,9:11,MISS Curry 2' Reverse Layup,,,,
+0020900552,170,4,0,2,11:20 PM,9:10,,,O'Neal REBOUND (Off:0 Def:4),,
+0020900552,171,1,47,2,11:20 PM,8:51,,,West 13' Turnaround Jump Shot (2 PTS),37 - 35,-2
+0020900552,172,2,79,2,11:21 PM,8:37,MISS Ellis 19' Pullup Jump Shot,,,,
+0020900552,173,4,0,2,11:21 PM,8:36,,,Varejao REBOUND (Off:1 Def:3),,
+0020900552,174,2,1,2,11:21 PM,8:20,,,MISS West 26' 3PT Jump Shot,,
+0020900552,175,4,0,2,11:21 PM,8:19,Curry REBOUND (Off:0 Def:3),,,,
+0020900552,176,9,4,2,11:21 PM,8:15,,,,,
+0020900552,178,8,0,2,11:24 PM,8:15,SUB: Martin FOR Radmanovic,,,,
+0020900552,180,6,17,2,11:25 PM,8:05,,,Cavaliers T.Foul (Def. 3 Sec O'Neal ),,
+0020900552,181,3,16,2,11:25 PM,8:05,Ellis Free Throw Technical (15 PTS),,,37 - 36,-1
+0020900552,183,8,0,2,11:25 PM,8:05,SUB: Morrow FOR Curry,,,,
+0020900552,184,6,2,2,11:25 PM,7:56,,,Williams S.FOUL (P2.T2),,
+0020900552,185,3,11,2,11:26 PM,7:56,MISS Ellis Free Throw 1 of 2,,,,
+0020900552,186,4,1,2,11:26 PM,7:56,WARRIORS Rebound,,,,
+0020900552,187,8,0,2,11:26 PM,7:56,,,SUB: James FOR Williams,,
+0020900552,188,3,12,2,11:26 PM,7:56,Ellis Free Throw 2 of 2 (16 PTS),,,37 - 37,TIE
+0020900552,190,1,42,2,11:27 PM,7:42,,,O'Neal 2' Driving Layup (6 PTS) (West 1 AST),39 - 37,-2
+0020900552,191,2,79,2,11:27 PM,7:24,MISS Martin 19' Pullup Jump Shot,,,,
+0020900552,192,4,0,2,11:27 PM,7:23,,,O'Neal REBOUND (Off:0 Def:5),,
+0020900552,193,5,2,2,11:27 PM,7:04,Ellis STEAL (2 STL),,West Lost Ball Turnover (P1.T9),,
+0020900552,194,2,1,2,11:27 PM,6:59,MISS Maggette 4' Jump Shot,,Varejao BLOCK (2 BLK),,
+0020900552,195,4,0,2,11:27 PM,6:57,,,James REBOUND (Off:1 Def:1),,
+0020900552,196,6,2,2,11:27 PM,6:53,Biedrins S.FOUL (P3.T2),,,,
+0020900552,197,8,0,2,11:28 PM,6:53,SUB: Turiaf FOR Biedrins,,,,
+0020900552,198,3,11,2,11:28 PM,6:53,,,O'Neal Free Throw 1 of 2 (7 PTS),40 - 37,-3
+0020900552,200,3,12,2,11:28 PM,6:53,,,O'Neal Free Throw 2 of 2 (8 PTS),41 - 37,-4
+0020900552,202,6,2,2,11:29 PM,6:40,,,O'Neal S.FOUL (P1.T3),,
+0020900552,203,3,11,2,11:29 PM,6:40,Maggette Free Throw 1 of 2 (10 PTS),,,41 - 38,-3
+0020900552,205,3,12,2,11:29 PM,6:40,Maggette Free Throw 2 of 2 (11 PTS),,,41 - 39,-2
+0020900552,207,2,1,2,11:30 PM,6:22,,,MISS West 7' Jump Shot,,
+0020900552,208,4,0,2,11:30 PM,6:20,Morrow REBOUND (Off:0 Def:1),,,,
+0020900552,209,1,75,2,11:30 PM,6:15,Ellis 2' Driving Finger Roll Layup (18 PTS),,,41 - 41,TIE
+0020900552,210,1,79,2,11:30 PM,6:01,,,Williams  3PT Pullup Jump Shot (6 PTS) (James 3 AST),44 - 41,-3
+0020900552,211,5,1,2,11:30 PM,5:50,Ellis Bad Pass Turnover (P4.T5),,West STEAL (1 STL),,
+0020900552,212,1,80,2,11:30 PM,5:42,,,Williams 15' Step Back Jump Shot (8 PTS) (James 4 AST),46 - 41,-5
+0020900552,213,9,1,2,11:30 PM,5:41,WARRIORS Timeout: Regular (Full 2 Short 0),,,,
+0020900552,215,8,0,2,11:33 PM,5:41,SUB: George FOR Maggette,,,,
+0020900552,216,8,0,2,11:33 PM,5:41,,,SUB: Ilgauskas FOR O'Neal,,
+0020900552,217,1,80,2,11:34 PM,5:29,Martin 26' 3PT Step Back Jump Shot (3 PTS) (Ellis 3 AST),,,46 - 44,-2
+0020900552,218,2,79,2,11:34 PM,5:11,,,MISS West 18' Pullup Jump Shot,,
+0020900552,219,4,0,2,11:34 PM,5:10,George REBOUND (Off:0 Def:1),,,,
+0020900552,220,1,80,2,11:34 PM,5:00,Morrow 25' 3PT Step Back Jump Shot (3 PTS) (Ellis 4 AST),,,46 - 47,1
+0020900552,221,2,79,2,11:34 PM,4:37,,,MISS Williams 26' 3PT Pullup Jump Shot,,
+0020900552,222,4,0,2,11:34 PM,4:35,Turiaf REBOUND (Off:0 Def:3),,,,
+0020900552,223,5,1,2,11:35 PM,4:25,Ellis Bad Pass Turnover (P5.T6),,Williams STEAL (1 STL),,
+0020900552,224,1,8,2,11:35 PM,4:20,,,James  Slam Dunk (13 PTS) (Williams 2 AST),48 - 47,-1
+0020900552,225,2,1,2,11:35 PM,4:06,MISS George 25' 3PT Jump Shot,,,,
+0020900552,226,4,0,2,11:35 PM,4:05,,,West REBOUND (Off:0 Def:3),,
+0020900552,227,1,73,2,11:35 PM,3:49,,,Varejao 2' Driving Reverse Layup (6 PTS) (James 5 AST),50 - 47,-3
+0020900552,228,9,2,2,11:35 PM,3:44,WARRIORS Timeout: Short (Full 2 Short 1),,,,
+0020900552,230,8,0,2,11:37 PM,3:44,,,SUB: Parker FOR West,,
+0020900552,231,8,0,2,11:37 PM,3:44,,,SUB: Williams FOR Williams,,
+0020900552,232,8,0,2,11:37 PM,3:44,SUB: Radmanovic FOR Turiaf,,,,
+0020900552,233,5,1,2,11:37 PM,3:31,Radmanovic Bad Pass Turnover (P1.T7),,James STEAL (1 STL),,
+0020900552,234,1,5,2,11:37 PM,3:27,,,James 3' Layup (15 PTS),52 - 47,-5
+0020900552,235,6,2,2,11:37 PM,3:27,Martin S.FOUL (P1.T3),,,,
+0020900552,236,8,0,2,11:38 PM,3:27,SUB: Biedrins FOR Radmanovic,,,,
+0020900552,237,3,10,2,11:38 PM,3:27,,,MISS James Free Throw 1 of 1,,
+0020900552,239,4,0,2,11:38 PM,3:25,Biedrins REBOUND (Off:2 Def:1),,,,
+0020900552,240,2,1,2,11:38 PM,3:18,MISS Ellis 27' 3PT Jump Shot,,,,
+0020900552,241,4,0,2,11:38 PM,3:16,,,James REBOUND (Off:1 Def:2),,
+0020900552,242,2,1,2,11:38 PM,3:10,,,MISS James 22' Jump Shot,,
+0020900552,243,4,0,2,11:39 PM,3:09,,,Ilgauskas REBOUND (Off:6 Def:1),,
+0020900552,244,6,2,2,11:39 PM,3:09,George S.FOUL (P1.T4),,,,
+0020900552,245,3,11,2,11:39 PM,3:09,,,MISS Ilgauskas Free Throw 1 of 2,,
+0020900552,246,4,1,2,11:39 PM,3:09,,,Cavaliers Rebound,,
+0020900552,247,3,12,2,11:39 PM,3:09,,,Ilgauskas Free Throw 2 of 2 (7 PTS),53 - 47,-6
+0020900552,249,9,1,2,11:40 PM,2:57,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,
+0020900552,252,8,0,2,11:43 PM,2:57,SUB: Radmanovic FOR Ellis,,,,
+0020900552,253,8,0,2,11:43 PM,2:57,SUB: Curry FOR George,,,,
+0020900552,254,2,47,2,11:43 PM,2:50,MISS Martin 11' Turnaround Jump Shot,,,,
+0020900552,255,4,0,2,11:43 PM,2:49,,,Varejao REBOUND (Off:1 Def:4),,
+0020900552,256,1,75,2,11:43 PM,2:33,,,Varejao 3' Driving Finger Roll Layup (8 PTS),55 - 47,-8
+0020900552,257,6,2,2,11:43 PM,2:33,Biedrins S.FOUL (P4.PN),,,,
+0020900552,258,8,0,2,11:43 PM,2:33,SUB: Maggette FOR Martin,,,,
+0020900552,259,8,0,2,11:43 PM,2:33,SUB: George FOR Biedrins,,,,
+0020900552,260,3,10,2,11:44 PM,2:33,,,MISS Varejao Free Throw 1 of 1,,
+0020900552,262,4,0,2,11:44 PM,2:31,Maggette REBOUND (Off:0 Def:1),,,,
+0020900552,263,1,47,2,11:44 PM,2:19,George 19' Turnaround Jump Shot (2 PTS) (Curry 1 AST),,,55 - 49,-6
+0020900552,264,6,2,2,11:45 PM,1:56,Curry S.FOUL (P2.PN),,,,
+0020900552,265,3,11,2,11:45 PM,1:56,,,James Free Throw 1 of 2 (16 PTS),56 - 49,-7
+0020900552,267,8,0,2,11:45 PM,1:56,,,SUB: Williams FOR Ilgauskas,,
+0020900552,268,3,12,2,11:45 PM,1:56,,,James Free Throw 2 of 2 (17 PTS),57 - 49,-8
+0020900552,270,2,1,2,11:46 PM,1:33,MISS Radmanovic 16' Jump Shot,,,,
+0020900552,271,4,0,2,11:46 PM,1:32,,,Parker REBOUND (Off:0 Def:1),,
+0020900552,272,1,79,2,11:46 PM,1:24,,,Williams 26' 3PT Pullup Jump Shot (11 PTS) (Williams 3 AST),60 - 49,-11
+0020900552,273,6,1,2,11:46 PM,1:15,,,Williams P.FOUL (P2.T4),,
+0020900552,274,8,0,2,11:46 PM,1:15,,,SUB: West FOR Williams,,
+0020900552,275,6,1,2,11:47 PM,1:08,,,Williams P.FOUL (P3.PN),,
+0020900552,276,3,11,2,11:47 PM,1:08,Maggette Free Throw 1 of 2 (12 PTS),,,60 - 50,-10
+0020900552,278,8,0,2,11:47 PM,1:08,,,SUB: Gibson FOR Williams,,
+0020900552,279,8,0,2,11:48 PM,1:08,SUB: Watson FOR George,,,,
+0020900552,280,3,12,2,11:48 PM,1:08,Maggette Free Throw 2 of 2 (13 PTS),,,60 - 51,-9
+0020900552,282,1,63,2,11:48 PM,0:46,,,James 14' Fadeaway Jumper (19 PTS),62 - 51,-11
+0020900552,283,1,78,2,11:49 PM,0:37,Curry 3' Floating Jump Shot (6 PTS),,,62 - 53,-9
+0020900552,284,6,2,2,11:49 PM,0:37,,,Parker S.FOUL (P2.PN),,
+0020900552,285,3,10,2,11:49 PM,0:37,Curry Free Throw 1 of 1 (7 PTS),,,62 - 54,-8
+0020900552,287,2,79,2,11:49 PM,0:16,,,MISS James 14' Pullup Jump Shot,,
+0020900552,288,4,0,2,11:49 PM,0:13,,,Varejao REBOUND (Off:2 Def:4),,
+0020900552,289,2,63,2,11:50 PM,0:00,,,MISS James 21' Fadeaway Jumper,,
+0020900552,290,4,0,2,11:50 PM,0:00,,,Cavaliers Rebound,,
+0020900552,291,13,0,2,11:50 PM,0:00,,,,62 - 54,-8
+0020900552,293,12,0,3,12:06 PM,12:00,,,,62 - 54,-8
+0020900552,294,1,80,3,12:06 PM,11:49,Maggette 14' Step Back Jump Shot (15 PTS) (Curry 2 AST),,,62 - 56,-6
+0020900552,295,1,79,3,12:07 PM,11:29,,,Parker 18' Pullup Jump Shot (5 PTS) (Williams 4 AST),64 - 56,-8
+0020900552,296,1,79,3,12:07 PM,11:13,Curry 15' Pullup Jump Shot (9 PTS),,,64 - 58,-6
+0020900552,297,2,86,3,12:07 PM,10:51,,,MISS Parker 15' Turnaround Fadeaway Shot,,
+0020900552,298,4,0,3,12:07 PM,10:50,Curry REBOUND (Off:0 Def:4),,,,
+0020900552,299,5,1,3,12:08 PM,10:46,Curry Bad Pass Turnover (P1.T8),,,,
+0020900552,300,6,2,3,12:08 PM,10:35,Maggette S.FOUL (P1.T1),,,,
+0020900552,301,3,11,3,12:08 PM,10:35,,,MISS O'Neal Free Throw 1 of 2,,
+0020900552,302,4,1,3,12:08 PM,10:35,,,Cavaliers Rebound,,
+0020900552,303,3,12,3,12:08 PM,10:35,,,O'Neal Free Throw 2 of 2 (9 PTS),65 - 58,-7
+0020900552,305,2,73,3,12:09 PM,10:14,MISS Ellis 2' Driving Reverse Layup,,,,
+0020900552,306,4,0,3,12:09 PM,10:13,,,Hickson REBOUND (Off:0 Def:3),,
+0020900552,307,5,2,3,12:09 PM,10:06,Radmanovic STEAL (1 STL),,Hickson Lost Ball Turnover (P1.T10),,
+0020900552,308,6,1,3,12:09 PM,10:01,,,Williams P.FOUL (P3.T1),,
+0020900552,309,1,75,3,12:10 PM,9:45,Radmanovic 2' Driving Finger Roll Layup (8 PTS) (Curry 3 AST),,,65 - 60,-5
+0020900552,310,6,2,3,12:10 PM,9:24,Curry S.FOUL (P3.T2),,,,
+0020900552,311,3,11,3,12:10 PM,9:24,,,Williams Free Throw 1 of 2 (5 PTS),66 - 60,-6
+0020900552,313,3,12,3,12:11 PM,9:24,,,Williams Free Throw 2 of 2 (6 PTS),67 - 60,-7
+0020900552,315,2,57,3,12:11 PM,9:12,MISS Radmanovic 6' Driving Hook Shot,,O'Neal BLOCK (1 BLK),,
+0020900552,316,4,0,3,12:11 PM,9:12,WARRIORS Rebound,,,,
+0020900552,317,2,79,3,12:11 PM,9:05,MISS Ellis 18' Pullup Jump Shot,,,,
+0020900552,318,4,0,3,12:11 PM,9:05,,,Parker REBOUND (Off:0 Def:2),,
+0020900552,319,5,1,3,12:12 PM,8:53,Radmanovic STEAL (2 STL),,O'Neal Bad Pass Turnover (P3.T11),,
+0020900552,320,2,79,3,12:12 PM,8:46,MISS Ellis 6' Pullup Jump Shot,,Hickson BLOCK (1 BLK),,
+0020900552,321,4,0,3,12:12 PM,8:45,WARRIORS Rebound,,,,
+0020900552,322,2,1,3,12:12 PM,8:36,MISS Ellis 3' Jump Shot,,Parker BLOCK (1 BLK),,
+0020900552,323,4,0,3,12:12 PM,8:36,WARRIORS Rebound,,,,
+0020900552,324,6,11,3,12:12 PM,8:36,Ellis T.FOUL (P1.T2),,,,
+0020900552,325,3,16,3,12:13 PM,8:36,,,Williams Free Throw Technical (7 PTS),68 - 60,-8
+0020900552,327,5,13,3,12:13 PM,8:36,Curry Backcourt Turnover (P2.T9),,,,
+0020900552,328,2,1,3,12:14 PM,8:20,,,MISS O'Neal 5' Jump Shot,,
+0020900552,329,4,0,3,12:14 PM,8:19,Curry REBOUND (Off:0 Def:5),,,,
+0020900552,330,2,1,3,12:14 PM,8:08,MISS Ellis 4' Jump Shot,,O'Neal BLOCK (2 BLK),,
+0020900552,331,4,0,3,12:14 PM,8:07,,,O'Neal REBOUND (Off:0 Def:6),,
+0020900552,332,2,1,3,12:14 PM,8:02,,,MISS Williams 25' 3PT Jump Shot,,
+0020900552,333,4,0,3,12:14 PM,8:01,,,Hickson REBOUND (Off:1 Def:3),,
+0020900552,334,1,5,3,12:14 PM,7:58,,,Hickson  Layup (2 PTS),70 - 60,-10
+0020900552,335,2,1,3,12:14 PM,7:54,MISS Ellis 17' Jump Shot,,,,
+0020900552,336,4,0,3,12:14 PM,7:53,,,Hickson REBOUND (Off:1 Def:4),,
+0020900552,337,2,1,3,12:14 PM,7:43,,,MISS Parker  3PT Jump Shot,,
+0020900552,338,4,0,3,12:14 PM,7:42,C. Hunter REBOUND (Off:0 Def:1),,,,
+0020900552,339,2,1,3,12:14 PM,7:39,MISS Ellis 4' Jump Shot,,James BLOCK (2 BLK),,
+0020900552,340,4,0,3,12:14 PM,7:39,WARRIORS Rebound,,,,
+0020900552,341,1,79,3,12:15 PM,7:25,Maggette  3PT Pullup Jump Shot (18 PTS) (Radmanovic 1 AST),,,70 - 63,-7
+0020900552,342,1,57,3,12:15 PM,7:04,,,O'Neal 4' Driving Hook Shot (11 PTS),72 - 63,-9
+0020900552,343,1,79,3,12:15 PM,6:53,Curry 18' Pullup Jump Shot (11 PTS),,,72 - 65,-7
+0020900552,344,2,1,3,12:16 PM,6:32,C. Hunter BLOCK (1 BLK),,MISS O'Neal 4' Jump Shot,,
+0020900552,345,4,0,3,12:16 PM,6:30,Curry REBOUND (Off:0 Def:6),,,,
+0020900552,346,5,2,3,12:16 PM,6:26,Maggette Lost Ball Turnover (P2.T10),,James STEAL (2 STL),,
+0020900552,347,1,8,3,12:16 PM,6:22,,,O'Neal 1' Slam Dunk (13 PTS) (James 6 AST),74 - 65,-9
+0020900552,348,6,2,3,12:16 PM,6:22,Curry S.FOUL (P4.T3),,,,
+0020900552,349,9,1,3,12:16 PM,6:22,WARRIORS Timeout: Regular (Full 3 Short 1),,,,
+0020900552,353,3,10,3,12:19 PM,6:22,,,MISS O'Neal Free Throw 1 of 1,,
+0020900552,355,4,0,3,12:20 PM,6:20,Maggette REBOUND (Off:0 Def:2),,,,
+0020900552,356,1,79,3,12:20 PM,6:04,Radmanovic 17' Pullup Jump Shot (10 PTS) (Maggette 1 AST),,,74 - 67,-7
+0020900552,357,5,2,3,12:20 PM,5:46,Ellis STEAL (3 STL),,Parker Lost Ball Turnover (P1.T12),,
+0020900552,358,2,5,3,12:20 PM,5:41,MISS Ellis 2' Layup,,James BLOCK (3 BLK),,
+0020900552,359,4,0,3,12:20 PM,5:41,WARRIORS Rebound,,,,
+0020900552,360,8,0,3,12:21 PM,5:41,,,SUB: Varejao FOR O'Neal,,
+0020900552,361,6,2,3,12:21 PM,5:31,,,Varejao S.FOUL (P2.T2),,
+0020900552,362,3,11,3,12:21 PM,5:31,Ellis Free Throw 1 of 2 (19 PTS),,,74 - 68,-6
+0020900552,364,8,0,3,12:22 PM,5:31,,,SUB: Ilgauskas FOR Hickson,,
+0020900552,365,3,12,3,12:22 PM,5:31,Ellis Free Throw 2 of 2 (20 PTS),,,74 - 69,-5
+0020900552,367,1,79,3,12:22 PM,5:07,,,Ilgauskas  3PT Pullup Jump Shot (10 PTS) (James 7 AST),77 - 69,-8
+0020900552,368,2,1,3,12:22 PM,4:56,MISS Ellis 21' Jump Shot,,,,
+0020900552,370,4,0,3,12:22 PM,4:54,C. Hunter REBOUND (Off:1 Def:1),,,,
+0020900552,369,2,72,3,12:22 PM,4:54,MISS C. Hunter 2' Putback Layup,,,,
+0020900552,372,4,0,3,12:22 PM,4:53,Radmanovic REBOUND (Off:3 Def:3),,,,
+0020900552,371,2,72,3,12:22 PM,4:53,MISS Radmanovic 1' Putback Layup,,,,
+0020900552,373,4,0,3,12:22 PM,4:51,,,Ilgauskas REBOUND (Off:6 Def:2),,
+0020900552,374,1,1,3,12:23 PM,4:45,,,Ilgauskas 12' Jump Shot (12 PTS) (James 8 AST),79 - 69,-10
+0020900552,375,2,56,3,12:23 PM,4:33,MISS Maggette 5' Running Hook Shot,,,,
+0020900552,376,4,0,3,12:23 PM,4:30,,,Ilgauskas REBOUND (Off:6 Def:3),,
+0020900552,377,1,41,3,12:23 PM,4:23,,,Varejao 3' Running Layup (10 PTS) (James 9 AST),81 - 69,-12
+0020900552,378,9,2,3,12:23 PM,4:23,WARRIORS Timeout: Short (Full 3 Short 2),,,,
+0020900552,381,8,0,3,12:24 PM,4:23,SUB: Biedrins FOR C. Hunter,,,,
+0020900552,380,1,1,3,12:24 PM,4:09,Maggette 16' Jump Shot (20 PTS) (Biedrins 1 AST),,,81 - 71,-10
+0020900552,382,5,1,3,12:25 PM,3:54,Curry STEAL (1 STL),,James Bad Pass Turnover (P1.T13),,
+0020900552,383,2,5,3,12:25 PM,3:50,MISS Curry 2' Layup,,,,
+0020900552,385,4,0,3,12:25 PM,3:48,Maggette REBOUND (Off:1 Def:2),,,,
+0020900552,384,1,5,3,12:25 PM,3:48,Maggette 2' Layup (22 PTS),,,81 - 73,-8
+0020900552,386,1,58,3,12:25 PM,3:27,,,Ilgauskas 10' Turnaround Hook Shot (14 PTS) (Williams 5 AST),83 - 73,-10
+0020900552,387,1,79,3,12:25 PM,3:18,Radmanovic  3PT Pullup Jump Shot (13 PTS) (Curry 4 AST),,,83 - 76,-7
+0020900552,388,5,1,3,12:25 PM,2:58,Radmanovic STEAL (3 STL),,Varejao Bad Pass Turnover (P4.T14),,
+0020900552,389,2,1,3,12:26 PM,2:47,MISS Curry 18' Jump Shot,,,,
+0020900552,390,4,0,3,12:26 PM,2:46,,,Williams REBOUND (Off:0 Def:1),,
+0020900552,391,1,42,3,12:26 PM,2:42,,,Varejao 1' Driving Layup (12 PTS) (Williams 6 AST),85 - 76,-9
+0020900552,392,6,2,3,12:26 PM,2:42,Ellis S.FOUL (P2.T4),,,,
+0020900552,393,9,1,3,12:26 PM,2:42,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,
+0020900552,395,8,0,3,12:29 PM,2:42,SUB: Martin FOR Maggette,,,,
+0020900552,396,8,0,3,12:29 PM,2:42,SUB: Watson FOR Curry,,,,
+0020900552,397,8,0,3,12:29 PM,2:42,,,SUB: Williams FOR Parker,,
+0020900552,398,8,0,3,12:29 PM,2:42,,,SUB: West FOR Williams,,
+0020900552,399,3,10,3,12:29 PM,2:42,,,MISS Varejao Free Throw 1 of 1,,
+0020900552,401,4,0,3,12:29 PM,2:41,Radmanovic REBOUND (Off:3 Def:4),,,,
+0020900552,402,2,1,3,12:29 PM,2:27,MISS Ellis 18' Jump Shot,,,,
+0020900552,403,4,0,3,12:29 PM,2:27,,,James REBOUND (Off:1 Def:3),,
+0020900552,404,1,42,3,12:29 PM,2:19,,,Varejao 2' Driving Layup (14 PTS) (James 10 AST),87 - 76,-11
+0020900552,405,6,2,3,12:29 PM,2:19,Biedrins S.FOUL (P5.PN),,,,
+0020900552,406,3,10,3,12:30 PM,2:19,,,Varejao Free Throw 1 of 1 (15 PTS),88 - 76,-12
+0020900552,408,2,1,3,12:30 PM,2:10,MISS Watson 16' Jump Shot,,,,
+0020900552,409,4,0,3,12:30 PM,2:09,Martin REBOUND (Off:1 Def:0),,,,
+0020900552,410,1,63,3,12:30 PM,2:03,Ellis 15' Fadeaway Jumper (22 PTS),,,88 - 78,-10
+0020900552,411,2,1,3,12:30 PM,1:39,,,MISS Ilgauskas 21' Jump Shot,,
+0020900552,412,4,0,3,12:30 PM,1:38,Martin REBOUND (Off:1 Def:1),,,,
+0020900552,413,2,1,3,12:30 PM,1:29,MISS Ellis 21' Jump Shot,,,,
+0020900552,414,4,0,3,12:31 PM,1:28,,,James REBOUND (Off:1 Def:4),,
+0020900552,415,8,0,3,12:31 PM,1:25,SUB: Maggette FOR Biedrins,,,,
+0020900552,416,1,79,3,12:31 PM,1:17,,,West 16' Pullup Jump Shot (4 PTS),90 - 78,-12
+0020900552,417,2,5,3,12:32 PM,1:03,MISS Martin 3' Layup,,James BLOCK (4 BLK),,
+0020900552,418,4,0,3,12:32 PM,0:59,Radmanovic REBOUND (Off:4 Def:4),,,,
+0020900552,419,5,1,3,12:32 PM,0:57,Radmanovic Bad Pass Turnover (P2.T11),,Varejao STEAL (1 STL),,
+0020900552,420,2,5,3,12:32 PM,0:48,,,MISS Varejao 1' Layup,,
+0020900552,421,4,0,3,12:32 PM,0:47,Radmanovic REBOUND (Off:4 Def:5),,,,
+0020900552,422,1,79,3,12:32 PM,0:43,Radmanovic 26' 3PT Pullup Jump Shot (16 PTS),,,90 - 81,-9
+0020900552,423,2,1,3,12:32 PM,0:18,,,MISS James 16' Jump Shot,,
+0020900552,424,4,0,3,12:32 PM,0:17,Maggette REBOUND (Off:1 Def:3),,,,
+0020900552,425,1,42,3,12:32 PM,0:14,Martin 1' Driving Layup (5 PTS) (Ellis 5 AST),,,90 - 83,-7
+0020900552,426,1,79,3,12:33 PM,0:00,,,James 27' 3PT Pullup Jump Shot (22 PTS),93 - 83,-10
+0020900552,427,13,0,3,12:33 PM,0:00,,,,93 - 83,-10
+0020900552,429,12,0,4,12:36 PM,12:00,,,,93 - 83,-10
+0020900552,430,5,4,4,12:36 PM,11:44,,,Ilgauskas Traveling Turnover (P1.T15),,
+0020900552,431,5,1,4,12:37 PM,11:37,Radmanovic Bad Pass Turnover (P3.T12),,,,
+0020900552,432,1,76,4,12:37 PM,11:24,,,West 3' Running Finger Roll Layup (6 PTS),95 - 83,-12
+0020900552,433,6,2,4,12:37 PM,11:18,,,Williams S.FOUL (P4.T1),,
+0020900552,434,3,11,4,12:37 PM,11:18,Maggette Free Throw 1 of 2 (23 PTS),,,95 - 84,-11
+0020900552,436,3,12,4,12:38 PM,11:18,Maggette Free Throw 2 of 2 (24 PTS),,,95 - 85,-10
+0020900552,438,2,1,4,12:38 PM,10:59,,,MISS Williams 3' Jump Shot,,
+0020900552,439,4,0,4,12:38 PM,10:56,Maggette REBOUND (Off:1 Def:4),,,,
+0020900552,440,1,8,4,12:38 PM,10:53,Radmanovic 2' Slam Dunk (18 PTS) (Maggette 2 AST),,,95 - 87,-8
+0020900552,441,5,41,4,12:39 PM,10:49,,,West Poss Lost Ball Turnover (P2.T16),,
+0020900552,442,8,0,4,12:39 PM,10:49,,,SUB: Parker FOR Ilgauskas,,
+0020900552,443,2,63,4,12:39 PM,10:42,MISS Radmanovic 13' Fadeaway Jumper,,,,
+0020900552,444,4,0,4,12:39 PM,10:41,,,Varejao REBOUND (Off:2 Def:5),,
+0020900552,445,2,1,4,12:39 PM,10:16,,,MISS West 12' Jump Shot,,
+0020900552,446,4,0,4,12:39 PM,10:16,,,Cavaliers Rebound,,
+0020900552,447,5,11,4,12:39 PM,10:16,,,Cavaliers Turnover: Shot Clock (T#17),,
+0020900552,448,8,0,4,12:40 PM,10:16,SUB: Morrow FOR Radmanovic,,,,
+0020900552,449,6,2,4,12:40 PM,10:07,,,Williams S.FOUL (P4.T2),,
+0020900552,450,3,11,4,12:40 PM,10:07,Ellis Free Throw 1 of 2 (23 PTS),,,95 - 88,-7
+0020900552,452,8,0,4,12:40 PM,10:07,,,SUB: James FOR Williams,,
+0020900552,453,3,12,4,12:41 PM,10:07,Ellis Free Throw 2 of 2 (24 PTS),,,95 - 89,-6
+0020900552,455,1,1,4,12:41 PM,9:44,,,West 24' 3PT Jump Shot (9 PTS) (James 11 AST),98 - 89,-9
+0020900552,456,2,1,4,12:41 PM,9:31,MISS Maggette 19' Jump Shot,,,,
+0020900552,457,4,0,4,12:41 PM,9:29,,,Varejao REBOUND (Off:2 Def:6),,
+0020900552,458,5,1,4,12:41 PM,9:19,Ellis STEAL (4 STL),,West Bad Pass Turnover (P3.T18),,
+0020900552,459,1,42,4,12:42 PM,9:13,Maggette 1' Driving Layup (26 PTS) (Watson 1 AST),,,98 - 91,-7
+0020900552,460,5,1,4,12:42 PM,8:46,Morrow STEAL (1 STL),,James Bad Pass Turnover (P2.T19),,
+0020900552,461,6,2,4,12:42 PM,8:39,,,Varejao S.FOUL (P3.T3),,
+0020900552,462,9,4,4,12:42 PM,8:39,,,,,
+0020900552,466,3,11,4,12:45 PM,8:39,MISS Watson Free Throw 1 of 2,,,,
+0020900552,467,4,1,4,12:45 PM,8:39,WARRIORS Rebound,,,,
+0020900552,468,3,12,4,12:45 PM,8:39,Watson Free Throw 2 of 2 (1 PTS),,,98 - 92,-6
+0020900552,470,6,17,4,12:46 PM,8:24,WARRIORS T.Foul (Def. 3 Sec Maggette ),,,,
+0020900552,471,3,16,4,12:46 PM,8:24,,,Williams Free Throw Technical (8 PTS),99 - 92,-7
+0020900552,473,6,2,4,12:47 PM,8:12,Martin S.FOUL (P2.T1),,,,
+0020900552,474,3,11,4,12:47 PM,8:12,,,MISS James Free Throw 1 of 2,,
+0020900552,475,4,1,4,12:47 PM,8:12,,,Cavaliers Rebound,,
+0020900552,476,3,12,4,12:47 PM,8:12,,,James Free Throw 2 of 2 (23 PTS),100 - 92,-8
+0020900552,478,5,1,4,12:48 PM,7:57,Morrow Bad Pass Turnover (P1.T13),,,,
+0020900552,479,8,0,4,12:48 PM,7:57,SUB: Curry FOR Watson,,,,
+0020900552,480,1,65,4,12:48 PM,7:35,,,James 6' Jump Hook Shot (25 PTS),102 - 92,-10
+0020900552,481,6,2,4,12:49 PM,7:19,,,Parker S.FOUL (P3.T4),,
+0020900552,482,3,11,4,12:49 PM,7:19,Ellis Free Throw 1 of 2 (25 PTS),,,102 - 93,-9
+0020900552,484,8,0,4,12:49 PM,7:19,SUB: Watson FOR Morrow,,,,
+0020900552,485,3,12,4,12:49 PM,7:19,MISS Ellis Free Throw 2 of 2,,,,
+0020900552,487,4,0,4,12:49 PM,7:17,,,Varejao REBOUND (Off:2 Def:7),,
+0020900552,488,1,47,4,12:50 PM,6:56,,,James 10' Turnaround Jump Shot (27 PTS),104 - 93,-11
+0020900552,489,2,1,4,12:50 PM,6:42,MISS Martin 27' 3PT Jump Shot,,,,
+0020900552,490,4,0,4,12:50 PM,6:41,,,James REBOUND (Off:1 Def:5),,
+0020900552,491,6,2,4,12:50 PM,6:25,Maggette S.FOUL (P2.T2),,,,
+0020900552,492,3,11,4,12:51 PM,6:25,,,James Free Throw 1 of 2 (28 PTS),105 - 93,-12
+0020900552,494,3,12,4,12:51 PM,6:25,,,James Free Throw 2 of 2 (29 PTS),106 - 93,-13
+0020900552,496,6,1,4,12:51 PM,6:16,,,Varejao P.FOUL (P4.PN),,
+0020900552,497,3,11,4,12:52 PM,6:16,MISS Curry Free Throw 1 of 2,,,,
+0020900552,498,4,1,4,12:52 PM,6:16,WARRIORS Rebound,,,,
+0020900552,499,3,12,4,12:52 PM,6:16,Curry Free Throw 2 of 2 (12 PTS),,,106 - 94,-12
+0020900552,501,2,1,4,12:52 PM,5:56,,,MISS Williams 27' 3PT Jump Shot,,
+0020900552,502,4,0,4,12:52 PM,5:55,Maggette REBOUND (Off:1 Def:5),,,,
+0020900552,503,2,79,4,12:53 PM,5:45,MISS Watson 27' 3PT Pullup Jump Shot,,,,
+0020900552,504,4,0,4,12:53 PM,5:43,,,James REBOUND (Off:1 Def:6),,
+0020900552,505,1,42,4,12:53 PM,5:28,,,James 2' Driving Layup (31 PTS) (Williams 7 AST),108 - 94,-14
+0020900552,506,6,1,4,12:53 PM,5:19,,,Varejao P.FOUL (P5.PN),,
+0020900552,507,9,1,4,12:53 PM,5:19,WARRIORS Timeout: Regular (Full 4 Short 2),,,,
+0020900552,510,8,0,4,12:56 PM,5:19,,,SUB: Williams FOR Varejao,,
+0020900552,511,3,11,4,12:56 PM,5:19,Curry Free Throw 1 of 2 (13 PTS),,,108 - 95,-13
+0020900552,513,3,12,4,12:56 PM,5:19,Curry Free Throw 2 of 2 (14 PTS),,,108 - 96,-12
+0020900552,515,6,1,4,12:57 PM,5:01,Maggette P.FOUL (P3.T3),,,,
+0020900552,516,3,11,4,12:57 PM,5:01,,,James Free Throw 1 of 2 (32 PTS),109 - 96,-13
+0020900552,518,3,12,4,12:57 PM,5:01,,,James Free Throw 2 of 2 (33 PTS),110 - 96,-14
+0020900552,520,1,79,4,12:58 PM,4:50,Curry 19' Pullup Jump Shot (16 PTS),,,110 - 98,-12
+0020900552,521,6,4,4,12:58 PM,4:35,,,Williams OFF.Foul (P5),,
+0020900552,522,5,5,4,12:58 PM,4:35,,,Williams Foul Turnover (P4.T20),,
+0020900552,523,6,2,4,12:59 PM,4:24,,,Williams S.FOUL (P5.PN),,
+0020900552,524,3,11,4,12:59 PM,4:24,Maggette Free Throw 1 of 2 (27 PTS),,,110 - 99,-11
+0020900552,525,8,0,4,12:59 PM,4:24,,,SUB: Gibson FOR Williams,,
+0020900552,526,3,12,4,12:59 PM,4:24,Maggette Free Throw 2 of 2 (28 PTS),,,110 - 100,-10
+0020900552,528,2,1,4,13:00 PM,4:05,,,MISS James 28' 3PT Jump Shot,,
+0020900552,529,4,0,4,13:00 PM,4:04,,,West REBOUND (Off:1 Def:3),,
+0020900552,530,2,1,4,13:00 PM,3:54,,,MISS James 12' Jump Shot,,
+0020900552,531,4,0,4,13:00 PM,3:53,Watson REBOUND (Off:0 Def:1),,,,
+0020900552,532,6,1,4,13:00 PM,3:51,,,West P.FOUL (P1.PN),,
+0020900552,533,3,11,4,13:01 PM,3:51,Maggette Free Throw 1 of 2 (29 PTS),,,110 - 101,-9
+0020900552,535,3,12,4,13:01 PM,3:51,Maggette Free Throw 2 of 2 (30 PTS),,,110 - 102,-8
+0020900552,537,1,42,4,13:02 PM,3:31,,,James 1' Driving Layup (35 PTS) (West 2 AST),112 - 102,-10
+0020900552,538,2,75,4,13:02 PM,3:13,MISS Ellis 1' Driving Finger Roll Layup,,,,
+0020900552,539,4,0,4,13:02 PM,3:12,,,Parker REBOUND (Off:0 Def:3),,
+0020900552,540,2,1,4,13:02 PM,2:49,Curry BLOCK (1 BLK),,MISS West 5' Jump Shot,,
+0020900552,541,4,0,4,13:02 PM,2:49,,,Cavaliers Rebound,,
+0020900552,542,5,11,4,13:02 PM,2:49,,,Cavaliers Turnover: Shot Clock (T#21),,
+0020900552,543,9,1,4,13:02 PM,2:49,,,Cavaliers Timeout: Regular (Reg.4 Short 0),,
+0020900552,545,1,58,4,13:05 PM,2:37,Ellis 5' Turnaround Hook Shot (27 PTS),,,112 - 104,-8
+0020900552,546,1,79,4,13:06 PM,2:20,,,Gibson 26' 3PT Pullup Jump Shot (3 PTS) (West 3 AST),115 - 104,-11
+0020900552,547,1,79,4,13:06 PM,2:05,Curry 27' 3PT Pullup Jump Shot (19 PTS) (Maggette 3 AST),,,115 - 107,-8
+0020900552,548,2,1,4,13:06 PM,1:38,,,MISS James 19' Jump Shot,,
+0020900552,549,4,0,4,13:06 PM,1:37,Curry REBOUND (Off:0 Def:7),,,,
+0020900552,550,2,1,4,13:06 PM,1:30,MISS Watson 21' Jump Shot,,,,
+0020900552,551,4,0,4,13:07 PM,1:28,,,James REBOUND (Off:1 Def:7),,
+0020900552,552,2,1,4,13:07 PM,1:10,,,MISS West 27' 3PT Jump Shot,,
+0020900552,553,4,0,4,13:07 PM,1:09,Maggette REBOUND (Off:1 Def:6),,,,
+0020900552,554,1,41,4,13:07 PM,1:02,Maggette 3' Running Layup (32 PTS),,,115 - 109,-6
+0020900552,555,5,2,4,13:07 PM,0:58,Ellis STEAL (5 STL),,West Lost Ball Turnover (P4.T22),,
+0020900552,556,1,79,4,13:07 PM,0:57,Ellis  3PT Pullup Jump Shot (30 PTS) (Curry 5 AST),,,115 - 112,-3
+0020900552,557,9,1,4,13:07 PM,0:57,,,Cavaliers Timeout: Regular (Reg.5 Short 0),,
+0020900552,559,8,0,4,13:09 PM,0:57,,,SUB: Varejao FOR Williams,,
+0020900552,560,8,0,4,13:09 PM,0:57,,,SUB: Williams FOR Gibson,,
+0020900552,561,8,0,4,13:09 PM,0:57,,,SUB: Gibson FOR Parker,,
+0020900552,562,8,0,4,13:10 PM,0:57,SUB: Morrow FOR Martin,,,,
+0020900552,563,8,0,4,13:10 PM,0:57,SUB: Radmanovic FOR Watson,,,,
+0020900552,564,1,46,4,13:10 PM,0:36,,,James 3' Running Jump Shot (37 PTS),117 - 112,-5
+0020900552,565,1,75,4,13:10 PM,0:30,Curry 3' Driving Finger Roll Layup (21 PTS),,,117 - 114,-3
+0020900552,566,2,1,4,13:11 PM,0:05,,,MISS James 26' 3PT Jump Shot,,
+0020900552,567,4,0,4,13:11 PM,0:04,Ellis REBOUND (Off:0 Def:2),,,,
+0020900552,568,2,1,4,13:11 PM,0:00,MISS Curry 34' 3PT Jump Shot,,,,
+0020900552,569,4,0,4,13:11 PM,0:00,WARRIORS Rebound,,,,
+0020900552,571,13,0,4,13:12 PM,0:00,,,,117 - 114,-3

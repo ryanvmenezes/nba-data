@@ -1,0 +1,465 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020600914,0,12,0,1,9:04 PM,12:00,,,,,
+0020600914,1,10,0,1,9:04 PM,12:00,Jump Ball Okur vs. O'Neal: Tip to Kirilenko,,,,
+0020600914,2,6,2,1,9:05 PM,11:43,,,Granger S.FOUL (P1.T1),,
+0020600914,3,3,11,1,9:05 PM,11:43,MISS Kirilenko Free Throw 1 of 2,,,,
+0020600914,4,4,1,1,9:05 PM,11:43,JAZZ Rebound,,,,
+0020600914,5,3,12,1,9:05 PM,11:43,Kirilenko Free Throw 2 of 2 (1 PTS),,,0 - 1,1
+0020600914,7,6,1,1,9:06 PM,11:35,Okur P.FOUL (P1.T1),,,,
+0020600914,8,2,1,1,9:06 PM,11:24,,,MISS O'Neal 17' Jump Shot,,
+0020600914,9,4,0,1,9:06 PM,11:22,Boozer REBOUND (Off:0 Def:1),,,,
+0020600914,10,6,2,1,9:06 PM,11:07,,,Murphy S.FOUL (P1.T2),,
+0020600914,11,3,11,1,9:07 PM,11:07,Okur Free Throw 1 of 2 (1 PTS),,,0 - 2,2
+0020600914,12,3,12,1,9:07 PM,11:07,Okur Free Throw 2 of 2 (2 PTS),,,0 - 3,3
+0020600914,13,6,1,1,9:07 PM,11:00,Kirilenko P.FOUL (P1.T2),,,,
+0020600914,14,6,2,1,9:08 PM,10:50,Okur S.FOUL (P2.T3),,,,
+0020600914,15,3,11,1,9:08 PM,10:50,,,MISS O'Neal Free Throw 1 of 2,,
+0020600914,16,4,1,1,9:08 PM,10:50,,,Pacers Rebound,,
+0020600914,17,8,0,1,9:08 PM,10:50,SUB: Collins FOR Okur,,,,
+0020600914,18,3,12,1,9:08 PM,10:50,,,O'Neal Free Throw 2 of 2 (1 PTS),1 - 3,2
+0020600914,19,2,42,1,9:08 PM,10:41,MISS D. Williams  Driving Layup,,,,
+0020600914,20,4,0,1,9:08 PM,10:40,D. Williams REBOUND (Off:1 Def:0),,,,
+0020600914,21,2,1,1,9:08 PM,10:38,MISS D. Williams 19' Jump Shot,,,,
+0020600914,22,4,0,1,9:08 PM,10:36,,,O'Neal REBOUND (Off:0 Def:1),,
+0020600914,23,2,1,1,9:09 PM,10:30,,,MISS Granger 20' Jump Shot,,
+0020600914,24,4,0,1,9:09 PM,10:28,Fisher REBOUND (Off:0 Def:1),,,,
+0020600914,25,1,50,1,9:09 PM,10:24,Boozer  Running Dunk (2 PTS) (Fisher 1 AST),,,1 - 5,4
+0020600914,26,2,1,1,9:09 PM,9:52,,,MISS Murphy 19' Jump Shot,,
+0020600914,27,4,0,1,9:09 PM,9:50,D. Williams REBOUND (Off:1 Def:1),,,,
+0020600914,28,2,1,1,9:09 PM,9:39,MISS Fisher 19' Jump Shot,,,,
+0020600914,29,4,0,1,9:09 PM,9:37,,,Granger REBOUND (Off:0 Def:1),,
+0020600914,30,1,47,1,9:10 PM,9:28,,,O'Neal 8' Turnaround Jump Shot (3 PTS) (Murphy 1 AST),3 - 5,2
+0020600914,31,1,1,1,9:10 PM,9:11,Boozer 19' Jump Shot (4 PTS) (Kirilenko 1 AST),,,3 - 7,4
+0020600914,32,2,1,1,9:10 PM,8:50,,,MISS Tinsley 25' 3PT Jump Shot,,
+0020600914,33,4,0,1,9:10 PM,8:48,D. Williams REBOUND (Off:1 Def:2),,,,
+0020600914,34,2,47,1,9:10 PM,8:37,MISS Boozer 14' Turnaround Jump Shot,,,,
+0020600914,35,4,0,1,9:11 PM,8:35,,,Dunleavy REBOUND (Off:0 Def:1),,
+0020600914,36,6,4,1,9:11 PM,8:17,,,Tinsley OFF.Foul (P1),,
+0020600914,37,5,5,1,9:11 PM,8:17,,,Tinsley Foul Turnover (P1.T1),,
+0020600914,38,6,2,1,9:11 PM,8:04,,,O'Neal S.FOUL (P1.T3),,
+0020600914,39,3,11,1,9:11 PM,8:04,Boozer Free Throw 1 of 2 (5 PTS),,,3 - 8,5
+0020600914,40,3,12,1,9:12 PM,8:04,Boozer Free Throw 2 of 2 (6 PTS),,,3 - 9,6
+0020600914,41,6,1,1,9:12 PM,7:57,Collins P.FOUL (P1.T4),,,,
+0020600914,42,1,56,1,9:13 PM,7:50,,,O'Neal 2' Running Hook Shot (5 PTS),5 - 9,4
+0020600914,43,1,66,1,9:13 PM,7:39,Boozer 7' Jump Bank Shot (8 PTS),,,5 - 11,6
+0020600914,44,5,4,1,9:13 PM,7:27,,,O'Neal Traveling Turnover (P1.T2),,
+0020600914,45,5,1,1,9:13 PM,7:17,D. Williams Bad Pass Turnover (P1.T1),,,,
+0020600914,46,2,1,1,9:14 PM,7:04,,,MISS Tinsley 11' Jump Shot,,
+0020600914,47,4,0,1,9:14 PM,7:02,,,Tinsley REBOUND (Off:1 Def:0),,
+0020600914,48,1,1,1,9:14 PM,6:59,,,Murphy 22' Jump Shot (2 PTS) (Tinsley 1 AST),7 - 11,4
+0020600914,49,2,1,1,9:14 PM,6:37,MISS Boozer 19' Jump Shot,,,,
+0020600914,50,4,0,1,9:14 PM,6:35,,,Murphy REBOUND (Off:0 Def:1),,
+0020600914,51,1,5,1,9:14 PM,6:28,,,Granger  Layup (2 PTS),9 - 11,2
+0020600914,52,1,1,1,9:15 PM,6:12,D. Williams 19' Jump Shot (2 PTS) (Kirilenko 2 AST),,,9 - 13,4
+0020600914,53,1,1,1,9:15 PM,5:54,,,Murphy 21' Jump Shot (4 PTS) (Tinsley 2 AST),11 - 13,2
+0020600914,54,2,1,1,9:15 PM,5:39,MISS Kirilenko 18' Jump Shot,,,,
+0020600914,55,4,0,1,9:15 PM,5:37,,,Dunleavy REBOUND (Off:0 Def:2),,
+0020600914,56,2,47,1,9:15 PM,5:17,,,MISS O'Neal 10' Turnaround Jump Shot,,
+0020600914,57,4,0,1,9:15 PM,5:15,Boozer REBOUND (Off:0 Def:2),,,,
+0020600914,58,2,1,1,9:16 PM,5:04,MISS Collins 14' Jump Shot,,,,
+0020600914,59,4,0,1,9:16 PM,5:02,,,Dunleavy REBOUND (Off:0 Def:3),,
+0020600914,60,2,42,1,9:16 PM,4:55,,,MISS Murphy  Driving Layup,,
+0020600914,61,4,0,1,9:16 PM,4:53,Kirilenko REBOUND (Off:0 Def:1),,,,
+0020600914,62,1,1,1,9:16 PM,4:33,D. Williams 21' Jump Shot (4 PTS),,,11 - 15,4
+0020600914,63,9,1,1,9:16 PM,4:27,,,Pacers Timeout: Regular (Reg.1 Short 0),,
+0020600914,65,8,0,1,9:19 PM,4:27,SUB: Giricek FOR D. Williams,,,,
+0020600914,66,8,0,1,9:19 PM,4:27,SUB: Harpring FOR Kirilenko,,,,
+0020600914,67,5,2,1,9:19 PM,4:14,Boozer STEAL (1 STL),,Murphy Lost Ball Turnover (P1.T3),,
+0020600914,68,5,1,1,9:19 PM,4:00,Giricek Bad Pass Turnover (P1.T2),,Granger STEAL (1 STL),,
+0020600914,69,5,39,1,9:20 PM,3:51,,,Dunleavy Step Out of Bounds Turnover (P1.T4),,
+0020600914,70,6,4,1,9:20 PM,3:44,Harpring OFF.Foul (P1),,,,
+0020600914,71,5,5,1,9:20 PM,3:44,Harpring Foul Turnover (P1.T3),,,,
+0020600914,72,6,4,1,9:20 PM,3:38,,,Dunleavy OFF.Foul (P1),,
+0020600914,73,5,5,1,9:20 PM,3:38,,,Dunleavy Foul Turnover (P2.T5),,
+0020600914,74,1,5,1,9:21 PM,3:27,Harpring  Layup (2 PTS) (Boozer 1 AST),,,11 - 17,6
+0020600914,75,6,2,1,9:21 PM,3:27,,,Dunleavy S.FOUL (P2.T4),,
+0020600914,76,8,0,1,9:21 PM,3:27,,,SUB: Greene FOR Dunleavy,,
+0020600914,77,3,10,1,9:21 PM,3:27,Harpring Free Throw 1 of 1 (3 PTS),,,11 - 18,7
+0020600914,78,6,1,1,9:22 PM,3:15,Collins P.FOUL (P2.PN),,,,
+0020600914,79,8,0,1,9:22 PM,3:15,SUB: Araujo FOR Collins,,,,
+0020600914,81,8,0,1,9:22 PM,3:15,,,SUB: Foster FOR Murphy,,
+0020600914,82,3,11,1,9:22 PM,3:15,,,O'Neal Free Throw 1 of 2 (6 PTS),12 - 18,6
+0020600914,83,3,12,1,9:22 PM,3:15,,,O'Neal Free Throw 2 of 2 (7 PTS),13 - 18,5
+0020600914,84,2,1,1,9:23 PM,2:56,MISS Boozer 11' Jump Shot,,,,
+0020600914,86,4,0,1,9:23 PM,2:52,Boozer REBOUND (Off:1 Def:2),,,,
+0020600914,85,2,42,1,9:23 PM,2:52,MISS Boozer  Driving Layup,,,,
+0020600914,87,4,0,1,9:23 PM,2:50,,,Foster REBOUND (Off:0 Def:1),,
+0020600914,88,2,1,1,9:23 PM,2:41,,,MISS O'Neal 9' Jump Shot,,
+0020600914,89,4,0,1,9:23 PM,2:38,Giricek REBOUND (Off:0 Def:1),,,,
+0020600914,90,2,1,1,9:23 PM,2:26,MISS Giricek 15' Jump Shot,,,,
+0020600914,91,4,0,1,9:23 PM,2:24,,,Granger REBOUND (Off:0 Def:2),,
+0020600914,92,2,1,1,9:24 PM,2:16,,,MISS Tinsley 21' Jump Shot,,
+0020600914,93,4,0,1,9:24 PM,2:14,Boozer REBOUND (Off:1 Def:3),,,,
+0020600914,94,6,2,1,9:24 PM,2:09,,,Greene S.FOUL (P1.PN),,
+0020600914,95,9,1,1,9:24 PM,2:09,JAZZ Timeout: Regular (Full 1 Short 0),,,,
+0020600914,97,8,0,1,9:27 PM,2:09,,,SUB: Armstrong FOR Tinsley,,
+0020600914,98,3,11,1,9:27 PM,2:09,Fisher Free Throw 1 of 2 (1 PTS),,,13 - 19,6
+0020600914,99,3,12,1,9:27 PM,2:09,Fisher Free Throw 2 of 2 (2 PTS),,,13 - 20,7
+0020600914,100,2,1,1,9:28 PM,1:49,,,MISS O'Neal 17' Jump Shot,,
+0020600914,101,4,0,1,9:28 PM,1:47,Fisher REBOUND (Off:0 Def:2),,,,
+0020600914,102,1,5,1,9:28 PM,1:43,Araujo  Layup (2 PTS) (Fisher 2 AST),,,13 - 22,9
+0020600914,103,1,1,1,9:28 PM,1:24,,,Granger 21' Jump Shot (4 PTS),15 - 22,7
+0020600914,104,2,1,1,9:28 PM,1:08,MISS Araujo 18' Jump Shot,,,,
+0020600914,105,4,0,1,9:28 PM,1:06,,,Foster REBOUND (Off:0 Def:2),,
+0020600914,106,1,5,1,9:28 PM,0:58,,,O'Neal  Layup (9 PTS),17 - 22,5
+0020600914,107,6,4,1,9:29 PM,0:50,Fisher OFF.Foul (P1),,,,
+0020600914,108,5,5,1,9:29 PM,0:50,Fisher Foul Turnover (P1.T4),,,,
+0020600914,109,8,0,1,9:29 PM,0:50,,,SUB: Harrison FOR O'Neal,,
+0020600914,110,1,5,1,9:29 PM,0:35,,,Harrison  Layup (2 PTS) (Armstrong 1 AST),19 - 22,3
+0020600914,111,1,65,1,9:30 PM,0:25,Araujo 6' Jump Hook Shot (4 PTS) (Fisher 3 AST),,,19 - 24,5
+0020600914,112,7,1,1,9:30 PM,0:25,JAZZ Violation: Delay of game Violation,,,,
+0020600914,113,1,1,1,9:30 PM,0:03,,,Armstrong 24' 3PT Jump Shot (3 PTS),22 - 24,2
+0020600914,114,2,1,1,9:31 PM,0:00,MISS Fisher 38' 3PT Jump Shot,,,,
+0020600914,115,4,0,1,9:31 PM,0:00,JAZZ Rebound,,,,
+0020600914,117,13,0,1,9:31 PM,0:00,,,,22 - 24,2
+0020600914,119,12,0,2,9:33 PM,12:00,,,,22 - 24,2
+0020600914,120,2,65,2,9:34 PM,11:45,,,MISS Harrison 7' Jump Hook Shot,,
+0020600914,121,4,0,2,9:34 PM,11:43,Millsap REBOUND (Off:0 Def:1),,,,
+0020600914,122,2,1,2,9:34 PM,11:30,MISS Harpring 15' Jump Shot,,,,
+0020600914,123,4,0,2,9:34 PM,11:29,Millsap REBOUND (Off:1 Def:1),,,,
+0020600914,124,2,5,2,9:34 PM,11:20,MISS Harpring  Layup,,,,
+0020600914,125,4,0,2,9:34 PM,11:18,,,Harrison REBOUND (Off:0 Def:1),,
+0020600914,126,5,1,2,9:34 PM,11:06,,,Greene Bad Pass Turnover (P1.T6),,
+0020600914,127,7,5,2,9:35 PM,11:00,,,Harrison Violation:Kicked Ball,,
+0020600914,128,2,1,2,9:35 PM,10:54,MISS D. Williams 7' Jump Shot,,,,
+0020600914,129,4,0,2,9:35 PM,10:51,,,Foster REBOUND (Off:0 Def:3),,
+0020600914,130,2,5,2,9:35 PM,10:35,Araujo BLOCK (1 BLK),,MISS Harrison  Layup,,
+0020600914,131,4,0,2,9:35 PM,10:33,Giricek REBOUND (Off:0 Def:2),,,,
+0020600914,132,2,1,2,9:35 PM,10:17,MISS Giricek 24' 3PT Jump Shot,,,,
+0020600914,133,4,0,2,9:35 PM,10:14,Harpring REBOUND (Off:1 Def:0),,,,
+0020600914,134,1,1,2,9:36 PM,9:55,Araujo 17' Jump Shot (6 PTS) (Harpring 1 AST),,,22 - 26,4
+0020600914,135,2,1,2,9:36 PM,9:33,,,MISS Granger 10' Jump Shot,,
+0020600914,136,4,0,2,9:36 PM,9:31,Araujo REBOUND (Off:0 Def:1),,,,
+0020600914,137,6,2,2,9:36 PM,9:28,,,Harrison S.FOUL (P1.T1),,
+0020600914,138,3,11,2,9:37 PM,9:28,Harpring Free Throw 1 of 2 (4 PTS),,,22 - 27,5
+0020600914,141,8,0,2,9:37 PM,9:28,,,SUB: Dunleavy FOR Granger,,
+0020600914,142,3,12,2,9:37 PM,9:28,Harpring Free Throw 2 of 2 (5 PTS),,,22 - 28,6
+0020600914,144,2,1,2,9:37 PM,9:14,,,MISS Dunleavy 20' Jump Shot,,
+0020600914,145,4,0,2,9:37 PM,9:13,Giricek REBOUND (Off:0 Def:3),,,,
+0020600914,146,6,3,2,9:37 PM,9:13,,,Greene L.B.FOUL (P2.T2),,
+0020600914,148,6,4,2,9:38 PM,9:00,Araujo OFF.Foul (P1),,,,
+0020600914,149,5,5,2,9:38 PM,9:00,Araujo Foul Turnover (P1.T5),,,,
+0020600914,151,8,0,2,9:38 PM,9:00,,,SUB: Murphy FOR Harrison,,
+0020600914,153,5,2,2,9:38 PM,8:45,Millsap STEAL (1 STL),,Murphy Lost Ball Turnover (P2.T7),,
+0020600914,154,1,5,2,9:38 PM,8:39,Harpring  Layup (7 PTS) (D. Williams 1 AST),,,22 - 30,8
+0020600914,155,9,1,2,9:39 PM,8:31,,,Pacers Timeout: Regular (Reg.2 Short 0),,
+0020600914,157,6,11,2,9:39 PM,8:31,,,Murphy T.FOUL (P1.T2),,
+0020600914,158,3,16,2,9:41 PM,8:31,Harpring Free Throw Technical (8 PTS),,,22 - 31,9
+0020600914,159,8,0,2,9:41 PM,8:31,,,SUB: Tinsley FOR Greene,,
+0020600914,160,1,1,2,9:42 PM,8:24,,,Armstrong 25' 3PT Jump Shot (6 PTS),25 - 31,6
+0020600914,161,1,5,2,9:42 PM,8:09,D. Williams  Layup (6 PTS) (Harpring 2 AST),,,25 - 33,8
+0020600914,162,1,44,2,9:42 PM,7:54,,,Foster  Reverse Layup (2 PTS),27 - 33,6
+0020600914,163,1,5,2,9:42 PM,7:44,Millsap  Layup (2 PTS) (D. Williams 2 AST),,,27 - 35,8
+0020600914,164,5,2,2,9:42 PM,7:33,Harpring STEAL (1 STL),,Tinsley Lost Ball Turnover (P2.T8),,
+0020600914,165,2,1,2,9:43 PM,7:09,MISS Giricek 12' Jump Shot,,,,
+0020600914,166,4,0,2,9:43 PM,7:07,,,Foster REBOUND (Off:0 Def:4),,
+0020600914,167,1,1,2,9:43 PM,7:02,,,Armstrong 18' Jump Shot (8 PTS) (Tinsley 3 AST),29 - 35,6
+0020600914,168,1,1,2,9:43 PM,6:39,D. Williams 25' 3PT Jump Shot (9 PTS),,,29 - 38,9
+0020600914,169,1,1,2,9:44 PM,6:19,,,Murphy 20' Jump Shot (6 PTS) (Foster 1 AST),31 - 38,7
+0020600914,170,2,1,2,9:44 PM,6:05,MISS Harpring 18' Jump Shot,,,,
+0020600914,171,4,0,2,9:44 PM,6:03,,,Foster REBOUND (Off:0 Def:5),,
+0020600914,172,2,1,2,9:44 PM,5:50,,,MISS Murphy 21' Jump Shot,,
+0020600914,173,4,0,2,9:44 PM,5:47,,,Murphy REBOUND (Off:1 Def:1),,
+0020600914,174,2,5,2,9:44 PM,5:46,,,MISS Murphy  Layup,,
+0020600914,175,4,0,2,9:44 PM,5:44,Harpring REBOUND (Off:1 Def:1),,,,
+0020600914,176,6,1,2,9:44 PM,5:39,,,Armstrong P.FOUL (P1.T3),,
+0020600914,177,9,4,2,9:44 PM,5:39,,,,,
+0020600914,179,8,0,2,9:46 PM,5:39,SUB: Okur FOR Araujo,,,,
+0020600914,180,8,0,2,9:47 PM,5:39,,,SUB: O'Neal FOR Foster,,
+0020600914,181,5,1,2,9:47 PM,5:29,D. Williams Bad Pass Turnover (P2.T6),,Armstrong STEAL (1 STL),,
+0020600914,182,2,5,2,9:47 PM,5:24,,,MISS Armstrong  Layup,,
+0020600914,183,4,0,2,9:47 PM,5:24,,,Pacers Rebound,,
+0020600914,184,6,2,2,9:48 PM,5:05,Millsap S.FOUL (P1.T1),,,,
+0020600914,185,3,11,2,9:48 PM,5:05,,,Murphy Free Throw 1 of 2 (7 PTS),32 - 38,6
+0020600914,186,8,0,2,9:48 PM,5:05,SUB: Boozer FOR Millsap,,,,
+0020600914,187,8,0,2,9:48 PM,5:05,SUB: Fisher FOR Giricek,,,,
+0020600914,188,3,12,2,9:49 PM,5:05,,,Murphy Free Throw 2 of 2 (8 PTS),33 - 38,5
+0020600914,189,2,1,2,9:49 PM,4:43,MISS Okur 23' Jump Shot,,,,
+0020600914,191,4,0,2,9:49 PM,4:40,Boozer REBOUND (Off:2 Def:3),,,,
+0020600914,190,1,5,2,9:49 PM,4:40,Boozer  Layup (10 PTS),,,33 - 40,7
+0020600914,192,2,1,2,9:49 PM,4:27,,,MISS Armstrong 24' 3PT Jump Shot,,
+0020600914,193,4,0,2,9:49 PM,4:24,Boozer REBOUND (Off:2 Def:4),,,,
+0020600914,194,2,42,2,9:50 PM,4:16,MISS D. Williams  Driving Layup,,,,
+0020600914,195,4,0,2,9:50 PM,4:16,Boozer REBOUND (Off:3 Def:4),,,,
+0020600914,196,6,2,2,9:50 PM,4:16,,,Dunleavy S.FOUL (P3.T4),,
+0020600914,197,8,0,2,9:50 PM,4:16,SUB: Kirilenko FOR Harpring,,,,
+0020600914,198,3,11,2,9:50 PM,4:16,Boozer Free Throw 1 of 2 (11 PTS),,,33 - 41,8
+0020600914,199,8,0,2,9:50 PM,4:16,,,SUB: Granger FOR Dunleavy,,
+0020600914,200,3,12,2,9:50 PM,4:16,Boozer Free Throw 2 of 2 (12 PTS),,,33 - 42,9
+0020600914,201,6,1,2,9:51 PM,4:07,Boozer P.FOUL (P1.T2),,,,
+0020600914,202,2,1,2,9:51 PM,3:56,,,MISS Tinsley 21' Jump Shot,,
+0020600914,203,4,0,2,9:51 PM,3:54,Okur REBOUND (Off:0 Def:1),,,,
+0020600914,204,1,1,2,9:51 PM,3:47,Boozer 4' Jump Shot (14 PTS) (Kirilenko 3 AST),,,33 - 44,11
+0020600914,206,1,5,2,9:51 PM,3:33,,,O'Neal  Layup (11 PTS) (Armstrong 2 AST),35 - 44,9
+0020600914,207,2,5,2,9:52 PM,3:11,MISS Okur  Layup,,,,
+0020600914,209,4,0,2,9:52 PM,3:10,Boozer REBOUND (Off:4 Def:4),,,,
+0020600914,208,2,4,2,9:52 PM,3:10,MISS Boozer  Tip Shot,,,,
+0020600914,210,4,0,2,9:52 PM,3:09,,,Tinsley REBOUND (Off:1 Def:1),,
+0020600914,211,2,1,2,9:52 PM,3:02,,,MISS Granger 16' Jump Shot,,
+0020600914,212,4,0,2,9:52 PM,3:00,Boozer REBOUND (Off:4 Def:5),,,,
+0020600914,213,1,8,2,9:52 PM,2:52,Kirilenko  Slam Dunk (3 PTS) (Boozer 2 AST),,,35 - 46,11
+0020600914,214,9,2,2,9:52 PM,2:46,,,Pacers Timeout: Short (Reg.2 Short 1),,
+0020600914,215,9,1,2,9:52 PM,2:46,JAZZ Timeout: Regular (Full 2 Short 0),,,,
+0020600914,217,2,1,2,9:55 PM,2:37,,,MISS Tinsley 19' Jump Shot,,
+0020600914,218,4,0,2,9:55 PM,2:35,Boozer REBOUND (Off:4 Def:6),,,,
+0020600914,219,2,1,2,9:56 PM,2:13,MISS D. Williams 24' 3PT Jump Shot,,,,
+0020600914,220,4,0,2,9:56 PM,2:12,Boozer REBOUND (Off:5 Def:6),,,,
+0020600914,221,2,5,2,9:56 PM,2:08,MISS Okur  Layup,,Murphy BLOCK (1 BLK),,
+0020600914,222,4,0,2,9:56 PM,2:06,,,O'Neal REBOUND (Off:0 Def:2),,
+0020600914,223,2,5,2,9:56 PM,2:00,,,MISS Tinsley  Layup,,
+0020600914,224,4,0,2,9:56 PM,1:58,Boozer REBOUND (Off:5 Def:7),,,,
+0020600914,225,6,2,2,9:56 PM,1:54,,,Armstrong S.FOUL (P2.PN),,
+0020600914,226,3,11,2,9:56 PM,1:54,Okur Free Throw 1 of 2 (3 PTS),,,35 - 47,12
+0020600914,227,3,12,2,9:56 PM,1:54,Okur Free Throw 2 of 2 (4 PTS),,,35 - 48,13
+0020600914,228,2,1,2,9:57 PM,1:42,,,MISS O'Neal 3' Jump Shot,,
+0020600914,229,4,0,2,9:57 PM,1:40,Kirilenko REBOUND (Off:0 Def:2),,,,
+0020600914,230,1,7,2,9:57 PM,1:26,Kirilenko  Dunk (5 PTS) (Fisher 4 AST),,,35 - 50,15
+0020600914,231,1,1,2,9:57 PM,1:12,,,Granger 21' Jump Shot (6 PTS) (Tinsley 4 AST),37 - 50,13
+0020600914,232,2,1,2,9:58 PM,0:50,MISS Boozer 18' Jump Shot,,,,
+0020600914,233,4,0,2,9:58 PM,0:48,,,Murphy REBOUND (Off:1 Def:2),,
+0020600914,234,2,1,2,9:58 PM,0:31,,,MISS Tinsley 25' 3PT Jump Shot,,
+0020600914,235,4,0,2,9:58 PM,0:29,Boozer REBOUND (Off:5 Def:8),,,,
+0020600914,236,6,2,2,9:58 PM,0:09,,,Granger S.FOUL (P2.PN),,
+0020600914,237,3,11,2,9:59 PM,0:09,MISS Boozer Free Throw 1 of 2,,,,
+0020600914,238,4,1,2,9:59 PM,0:09,JAZZ Rebound,,,,
+0020600914,239,8,0,2,9:59 PM,0:09,SUB: Millsap FOR Okur,,,,
+0020600914,240,3,12,2,9:59 PM,0:09,MISS Boozer Free Throw 2 of 2,,,,
+0020600914,241,4,0,2,9:59 PM,0:08,,,Granger REBOUND (Off:0 Def:3),,
+0020600914,242,6,1,2,9:59 PM,0:03,Fisher P.FOUL (P2.T3),,,,
+0020600914,243,2,1,2,10:00 PM,0:00,,,MISS Tinsley 24' 3PT Jump Shot,,
+0020600914,244,4,0,2,10:00 PM,0:00,,,Pacers Rebound,,
+0020600914,246,13,0,2,10:00 PM,0:00,,,,37 - 50,13
+0020600914,248,12,0,3,10:16 PM,12:00,,,,37 - 50,13
+0020600914,249,2,47,3,10:16 PM,11:47,,,MISS O'Neal 6' Turnaround Jump Shot,,
+0020600914,250,4,0,3,10:16 PM,11:44,Boozer REBOUND (Off:5 Def:9),,,,
+0020600914,251,6,2,3,10:16 PM,11:37,,,Murphy S.FOUL (P2.T1),,
+0020600914,252,3,11,3,10:16 PM,11:37,MISS Okur Free Throw 1 of 2,,,,
+0020600914,253,4,1,3,10:16 PM,11:37,JAZZ Rebound,,,,
+0020600914,254,3,12,3,10:17 PM,11:37,Okur Free Throw 2 of 2 (5 PTS),,,37 - 51,14
+0020600914,255,2,1,3,10:17 PM,11:20,,,MISS Murphy 21' Jump Shot,,
+0020600914,256,4,0,3,10:17 PM,11:18,Fisher REBOUND (Off:0 Def:3),,,,
+0020600914,257,2,1,3,10:18 PM,10:55,MISS D. Williams 24' 3PT Jump Shot,,,,
+0020600914,258,4,0,3,10:18 PM,10:53,,,Dunleavy REBOUND (Off:0 Def:4),,
+0020600914,259,6,2,3,10:18 PM,10:50,Okur S.FOUL (P3.T1),,,,
+0020600914,260,3,11,3,10:18 PM,10:50,,,Granger Free Throw 1 of 2 (7 PTS),38 - 51,13
+0020600914,261,3,12,3,10:18 PM,10:50,,,Granger Free Throw 2 of 2 (8 PTS),39 - 51,12
+0020600914,262,2,1,3,10:19 PM,10:29,MISS Okur 25' 3PT Jump Shot,,,,
+0020600914,263,4,0,3,10:19 PM,10:26,,,Dunleavy REBOUND (Off:0 Def:5),,
+0020600914,264,2,1,3,10:19 PM,10:18,,,MISS Tinsley 25' 3PT Jump Shot,,
+0020600914,265,4,0,3,10:19 PM,10:16,Okur REBOUND (Off:0 Def:2),,,,
+0020600914,266,1,1,3,10:19 PM,10:01,D. Williams 20' Jump Shot (11 PTS) (Boozer 3 AST),,,39 - 53,14
+0020600914,267,2,1,3,10:20 PM,9:45,,,MISS Dunleavy 20' Jump Shot,,
+0020600914,268,4,0,3,10:20 PM,9:43,Okur REBOUND (Off:0 Def:3),,,,
+0020600914,269,1,1,3,10:20 PM,9:34,Kirilenko 19' Jump Shot (7 PTS) (D. Williams 3 AST),,,39 - 55,16
+0020600914,270,9,1,3,10:20 PM,9:32,,,Pacers Timeout: Regular (Reg.3 Short 1),,
+0020600914,272,6,1,3,10:23 PM,9:19,D. Williams P.FOUL (P1.T2),,,,
+0020600914,273,8,0,3,10:23 PM,9:19,,,SUB: Foster FOR O'Neal,,
+0020600914,274,1,1,3,10:23 PM,9:08,,,Dunleavy 25' 3PT Jump Shot (3 PTS) (Tinsley 5 AST),42 - 55,13
+0020600914,275,2,5,3,10:24 PM,8:49,MISS Boozer  Layup,,Murphy BLOCK (2 BLK),,
+0020600914,276,4,0,3,10:24 PM,8:49,,,Pacers Rebound,,
+0020600914,277,2,1,3,10:24 PM,8:35,,,MISS Dunleavy 14' Jump Shot,,
+0020600914,278,4,0,3,10:24 PM,8:33,Kirilenko REBOUND (Off:0 Def:3),,,,
+0020600914,279,2,65,3,10:24 PM,8:21,MISS Boozer 7' Jump Hook Shot,,,,
+0020600914,280,4,0,3,10:24 PM,8:19,,,Granger REBOUND (Off:0 Def:4),,
+0020600914,281,1,5,3,10:24 PM,8:10,,,Foster  Layup (4 PTS) (Granger 1 AST),44 - 55,11
+0020600914,282,1,1,3,10:25 PM,7:46,Fisher 23' Jump Shot (4 PTS) (Kirilenko 4 AST),,,44 - 57,13
+0020600914,283,1,46,3,10:25 PM,7:34,,,Tinsley 12' Running Jump Shot (2 PTS),46 - 57,11
+0020600914,284,2,1,3,10:25 PM,7:17,MISS Okur 23' Jump Shot,,,,
+0020600914,285,4,0,3,10:25 PM,7:15,,,Granger REBOUND (Off:0 Def:5),,
+0020600914,286,1,7,3,10:25 PM,7:12,,,Murphy  Dunk (10 PTS) (Tinsley 6 AST),48 - 57,9
+0020600914,287,9,1,3,10:26 PM,7:04,JAZZ Timeout: Regular (Full 3 Short 0),,,,
+0020600914,289,6,1,3,10:28 PM,6:54,,,Tinsley P.FOUL (P2.T2),,
+0020600914,290,2,1,3,10:28 PM,6:50,MISS Boozer 17' Jump Shot,,,,
+0020600914,291,4,0,3,10:29 PM,6:49,JAZZ Rebound,,,,
+0020600914,292,1,5,3,10:29 PM,6:46,Kirilenko  Layup (9 PTS) (Boozer 4 AST),,,48 - 59,11
+0020600914,293,2,1,3,10:29 PM,6:30,,,MISS Murphy 19' Jump Shot,,
+0020600914,294,4,0,3,10:29 PM,6:29,Kirilenko REBOUND (Off:0 Def:4),,,,
+0020600914,295,1,1,3,10:29 PM,6:21,Fisher 20' Jump Shot (6 PTS) (D. Williams 4 AST),,,48 - 61,13
+0020600914,296,6,1,3,10:30 PM,6:08,D. Williams P.FOUL (P2.T3),,,,
+0020600914,297,6,17,3,10:30 PM,6:03,JAZZ T.Foul (Def. 3 Sec Okur ),,,,
+0020600914,298,3,16,3,10:30 PM,6:03,,,MISS Dunleavy Free Throw Technical,,
+0020600914,299,4,1,3,10:30 PM,6:03,,,Pacers Rebound,,
+0020600914,300,5,4,3,10:31 PM,5:52,,,Granger Traveling Turnover (P1.T9),,
+0020600914,301,6,2,3,10:31 PM,5:46,,,Foster S.FOUL (P1.T3),,
+0020600914,302,3,11,3,10:31 PM,5:46,Okur Free Throw 1 of 2 (6 PTS),,,48 - 62,14
+0020600914,303,3,12,3,10:31 PM,5:46,MISS Okur Free Throw 2 of 2,,,,
+0020600914,304,4,0,3,10:31 PM,5:45,,,Foster REBOUND (Off:0 Def:6),,
+0020600914,305,1,1,3,10:32 PM,5:30,,,Tinsley 25' 3PT Jump Shot (5 PTS) (Granger 2 AST),51 - 62,11
+0020600914,306,2,5,3,10:32 PM,5:09,MISS Boozer  Layup,,,,
+0020600914,307,4,0,3,10:32 PM,5:08,,,Granger REBOUND (Off:0 Def:6),,
+0020600914,308,1,50,3,10:32 PM,4:57,,,Granger  Running Dunk (10 PTS),53 - 62,9
+0020600914,309,8,0,3,10:33 PM,4:41,SUB: Giricek FOR D. Williams,,,,
+0020600914,310,8,0,3,10:33 PM,4:41,SUB: Harpring FOR Kirilenko,,,,
+0020600914,311,8,0,3,10:33 PM,4:41,SUB: Collins FOR Okur,,,,
+0020600914,314,6,4,3,10:33 PM,4:39,Fisher OFF.Foul (P3),,,,
+0020600914,315,5,5,3,10:33 PM,4:39,Fisher Foul Turnover (P2.T7),,,,
+0020600914,316,2,1,3,10:34 PM,4:26,,,MISS Tinsley 20' Jump Shot,,
+0020600914,317,4,0,3,10:34 PM,4:23,Boozer REBOUND (Off:5 Def:10),,,,
+0020600914,318,1,42,3,10:34 PM,4:18,Fisher  Driving Layup (8 PTS),,,53 - 64,11
+0020600914,319,6,2,3,10:34 PM,4:18,,,Granger S.FOUL (P3.T4),,
+0020600914,320,8,0,3,10:34 PM,4:18,,,SUB: Armstrong FOR Tinsley,,
+0020600914,321,3,10,3,10:34 PM,4:18,Fisher Free Throw 1 of 1 (9 PTS),,,53 - 65,12
+0020600914,322,6,2,3,10:35 PM,4:02,Giricek S.FOUL (P1.T4),,,,
+0020600914,323,3,11,3,10:35 PM,4:02,,,MISS Dunleavy Free Throw 1 of 2,,
+0020600914,324,4,1,3,10:35 PM,4:02,,,Pacers Rebound,,
+0020600914,325,3,12,3,10:35 PM,4:02,,,Dunleavy Free Throw 2 of 2 (4 PTS),54 - 65,11
+0020600914,326,1,1,3,10:36 PM,3:37,Fisher 21' Jump Shot (11 PTS),,,54 - 67,13
+0020600914,327,5,2,3,10:36 PM,3:23,Giricek STEAL (1 STL),,Dunleavy Lost Ball Turnover (P3.T10),,
+0020600914,328,2,1,3,10:36 PM,3:09,MISS Giricek 21' Jump Shot,,,,
+0020600914,329,4,0,3,10:36 PM,3:09,,,Pacers Rebound,,
+0020600914,330,6,3,3,10:36 PM,3:09,Collins L.B.FOUL (P3.PN),,,,
+0020600914,331,3,11,3,10:37 PM,3:09,,,Granger Free Throw 1 of 2 (11 PTS),55 - 67,12
+0020600914,332,3,12,3,10:37 PM,3:09,,,Granger Free Throw 2 of 2 (12 PTS),56 - 67,11
+0020600914,333,2,1,3,10:37 PM,2:54,MISS Giricek 15' Jump Shot,,Granger BLOCK (1 BLK),,
+0020600914,334,4,0,3,10:38 PM,2:52,Boozer REBOUND (Off:6 Def:10),,,,
+0020600914,335,5,1,3,10:38 PM,2:47,Fisher Bad Pass Turnover (P3.T8),,Granger STEAL (2 STL),,
+0020600914,336,1,1,3,10:38 PM,2:41,,,Armstrong 19' Jump Shot (10 PTS) (Granger 3 AST),58 - 67,9
+0020600914,337,2,5,3,10:38 PM,2:18,MISS Harpring  Layup,,,,
+0020600914,338,4,0,3,10:38 PM,2:17,,,Foster REBOUND (Off:0 Def:7),,
+0020600914,339,1,1,3,10:38 PM,1:56,,,Murphy  3PT Jump Shot (13 PTS) (Dunleavy 1 AST),61 - 67,6
+0020600914,340,2,1,3,10:39 PM,1:26,MISS Giricek 25' 3PT Jump Shot,,,,
+0020600914,341,4,0,3,10:39 PM,1:24,,,Dunleavy REBOUND (Off:0 Def:6),,
+0020600914,342,2,1,3,10:39 PM,1:19,,,MISS Murphy 25' 3PT Jump Shot,,
+0020600914,343,4,0,3,10:39 PM,1:17,Fisher REBOUND (Off:0 Def:4),,,,
+0020600914,344,5,1,3,10:39 PM,1:02,Harpring Bad Pass Turnover (P2.T9),,Murphy STEAL (1 STL),,
+0020600914,345,8,0,3,10:40 PM,0:44,SUB: Millsap FOR Boozer,,,,
+0020600914,346,2,1,3,10:40 PM,0:38,,,MISS Murphy 26' 3PT Jump Shot,,
+0020600914,347,4,0,3,10:40 PM,0:36,Millsap REBOUND (Off:1 Def:2),,,,
+0020600914,348,6,4,3,10:40 PM,0:33,Harpring OFF.Foul (P2),,,,
+0020600914,349,5,5,3,10:40 PM,0:33,Harpring Foul Turnover (P3.T10),,,,
+0020600914,350,5,4,3,10:41 PM,0:12,,,Murphy Traveling Turnover (P3.T11),,
+0020600914,351,2,1,3,10:41 PM,0:01,MISS Fisher 25' 3PT Jump Shot,,,,
+0020600914,352,4,0,3,10:41 PM,0:00,,,Granger REBOUND (Off:0 Def:7),,
+0020600914,354,13,0,3,10:41 PM,0:00,,,,61 - 67,6
+0020600914,356,12,0,4,10:44 PM,12:00,,,,61 - 67,6
+0020600914,357,6,4,4,10:44 PM,11:48,Harpring OFF.Foul (P3),,,,
+0020600914,358,5,5,4,10:44 PM,11:48,Harpring Foul Turnover (P4.T11),,,,
+0020600914,359,2,1,4,10:45 PM,11:34,,,MISS Granger 20' Jump Shot,,
+0020600914,360,4,0,4,10:45 PM,11:32,Collins REBOUND (Off:0 Def:1),,,,
+0020600914,361,1,5,4,10:45 PM,11:17,D. Williams  Layup (13 PTS) (Collins 1 AST),,,61 - 69,8
+0020600914,362,2,1,4,10:45 PM,11:03,,,MISS Dunleavy 18' Jump Shot,,
+0020600914,363,4,0,4,10:45 PM,11:01,Collins REBOUND (Off:0 Def:2),,,,
+0020600914,364,1,5,4,10:45 PM,10:54,Harpring  Layup (10 PTS) (D. Williams 5 AST),,,61 - 71,10
+0020600914,365,9,1,4,10:45 PM,10:53,,,Pacers Timeout: Regular (Reg.4 Short 1),,
+0020600914,367,8,0,4,10:48 PM,10:53,,,SUB: Harrison FOR Murphy,,
+0020600914,368,5,1,4,10:48 PM,10:37,Millsap STEAL (2 STL),,Harrison Bad Pass Turnover (P1.T12),,
+0020600914,369,2,1,4,10:48 PM,10:29,MISS Giricek 7' Jump Shot,,Dunleavy BLOCK (1 BLK),,
+0020600914,370,4,0,4,10:48 PM,10:29,,,Dunleavy REBOUND (Off:0 Def:7),,
+0020600914,371,1,1,4,10:48 PM,10:24,,,Armstrong 19' Jump Shot (12 PTS) (Dunleavy 2 AST),63 - 71,8
+0020600914,372,5,8,4,10:49 PM,10:09,Harpring 3 Second Violation Turnover (P5.T12),,,,
+0020600914,375,6,1,4,10:49 PM,10:00,Collins P.FOUL (P4.T1),,,,
+0020600914,376,6,4,4,10:49 PM,9:58,,,Harrison OFF.Foul (P2),,
+0020600914,377,5,5,4,10:49 PM,9:58,,,Harrison Foul Turnover (P2.T13),,
+0020600914,378,6,1,4,10:50 PM,9:46,,,Foster P.FOUL (P2.T1),,
+0020600914,379,1,1,4,10:50 PM,9:38,Harpring 18' Jump Shot (12 PTS) (Millsap 1 AST),,,63 - 73,10
+0020600914,380,6,4,4,10:51 PM,9:24,,,Harrison OFF.Foul (P3),,
+0020600914,381,5,5,4,10:51 PM,9:24,,,Harrison Foul Turnover (P3.T14),,
+0020600914,382,2,1,4,10:51 PM,9:09,MISS Harpring 21' Jump Shot,,,,
+0020600914,383,4,0,4,10:51 PM,9:07,,,Foster REBOUND (Off:0 Def:8),,
+0020600914,384,2,1,4,10:51 PM,9:00,,,MISS Granger  3PT Jump Shot,,
+0020600914,385,4,0,4,10:51 PM,9:00,JAZZ Rebound,,,,
+0020600914,386,6,3,4,10:51 PM,9:00,,,Harrison L.B.FOUL (P4.T2),,
+0020600914,387,8,0,4,10:51 PM,9:00,,,SUB: Murphy FOR Harrison,,
+0020600914,388,1,1,4,10:52 PM,8:49,Harpring 19' Jump Shot (14 PTS) (D. Williams 6 AST),,,63 - 75,12
+0020600914,389,2,1,4,10:52 PM,8:34,,,MISS Dunleavy 19' Jump Shot,,
+0020600914,390,4,0,4,10:52 PM,8:31,Millsap REBOUND (Off:1 Def:3),,,,
+0020600914,391,5,1,4,10:52 PM,8:18,D. Williams Bad Pass Turnover (P3.T13),,Dunleavy STEAL (1 STL),,
+0020600914,392,1,1,4,10:52 PM,8:07,,,Murphy 20' Jump Shot (15 PTS) (Armstrong 3 AST),65 - 75,10
+0020600914,393,5,2,4,10:53 PM,7:52,D. Williams Lost Ball Turnover (P4.T14),,Foster STEAL (1 STL),,
+0020600914,394,5,41,4,10:53 PM,7:44,,,Armstrong Poss Lost Ball Turnover (P1.T15),,
+0020600914,395,7,1,4,10:53 PM,7:44,,,Pacers Violation: Delay of game Violation,,
+0020600914,396,8,0,4,10:53 PM,7:44,SUB: Okur FOR Collins,,,,
+0020600914,397,2,42,4,10:53 PM,7:32,MISS Harpring  Driving Layup,,Dunleavy BLOCK (2 BLK),,
+0020600914,398,4,0,4,10:54 PM,7:32,JAZZ Rebound,,,,
+0020600914,399,8,0,4,10:54 PM,7:32,,,SUB: Tinsley FOR Granger,,
+0020600914,400,1,1,4,10:54 PM,7:29,D. Williams 21' Jump Shot (15 PTS) (Millsap 2 AST),,,65 - 77,12
+0020600914,401,6,2,4,10:54 PM,7:14,D. Williams S.FOUL (P3.T2),,,,
+0020600914,402,3,11,4,10:54 PM,7:14,,,MISS Foster Free Throw 1 of 2,,
+0020600914,403,4,1,4,10:54 PM,7:14,,,Pacers Rebound,,
+0020600914,404,3,12,4,10:54 PM,7:14,,,MISS Foster Free Throw 2 of 2,,
+0020600914,405,4,0,4,10:55 PM,7:12,Okur REBOUND (Off:0 Def:4),,,,
+0020600914,406,1,46,4,10:55 PM,6:53,Giricek 10' Running Jump Shot (2 PTS),,,65 - 79,14
+0020600914,407,2,1,4,10:55 PM,6:41,,,MISS Murphy 19' Jump Shot,,
+0020600914,408,4,0,4,10:55 PM,6:38,,,Foster REBOUND (Off:1 Def:8),,
+0020600914,409,5,2,4,10:55 PM,6:33,Millsap STEAL (3 STL),,Dunleavy Lost Ball Turnover (P4.T16),,
+0020600914,410,6,2,4,10:56 PM,6:31,,,Armstrong S.FOUL (P3.T3),,
+0020600914,411,3,11,4,10:56 PM,6:31,Giricek Free Throw 1 of 2 (3 PTS),,,65 - 80,15
+0020600914,412,3,12,4,10:56 PM,6:31,Giricek Free Throw 2 of 2 (4 PTS),,,65 - 81,16
+0020600914,413,2,1,4,10:56 PM,6:12,,,MISS Armstrong  3PT Jump Shot,,
+0020600914,414,4,0,4,10:56 PM,6:11,Harpring REBOUND (Off:1 Def:2),,,,
+0020600914,415,2,1,4,10:57 PM,5:56,MISS Okur 21' Jump Shot,,,,
+0020600914,416,4,0,4,10:57 PM,5:56,JAZZ Rebound,,,,
+0020600914,417,6,3,4,10:57 PM,5:56,,,Murphy L.B.FOUL (P3.T4),,
+0020600914,418,9,4,4,10:57 PM,5:56,,,,,
+0020600914,420,8,0,4,10:59 PM,5:56,,,SUB: Diogu FOR Foster,,
+0020600914,421,8,0,4,10:59 PM,5:56,,,SUB: Granger FOR Armstrong,,
+0020600914,422,2,1,4,11:00 PM,5:47,MISS Harpring 17' Jump Shot,,,,
+0020600914,423,4,0,4,11:00 PM,5:47,,,Pacers Rebound,,
+0020600914,424,6,3,4,11:00 PM,5:47,Millsap L.B.FOUL (P2.T3),,,,
+0020600914,425,2,5,4,11:00 PM,5:37,Okur BLOCK (1 BLK),,MISS Diogu  Layup,,
+0020600914,426,4,0,4,11:00 PM,5:31,Millsap REBOUND (Off:1 Def:4),,,,
+0020600914,427,5,1,4,11:00 PM,5:16,D. Williams Bad Pass Turnover (P5.T15),,Diogu STEAL (1 STL),,
+0020600914,428,6,4,4,11:00 PM,5:07,,,Murphy OFF.Foul (P4),,
+0020600914,429,5,5,4,11:00 PM,5:07,,,Murphy Foul Turnover (P4.T17),,
+0020600914,430,8,0,4,11:01 PM,5:07,SUB: Boozer FOR Millsap,,,,
+0020600914,431,6,1,4,11:01 PM,4:56,,,Tinsley P.FOUL (P3.PN),,
+0020600914,432,3,11,4,11:01 PM,4:56,D. Williams Free Throw 1 of 2 (16 PTS),,,65 - 82,17
+0020600914,433,3,12,4,11:01 PM,4:56,D. Williams Free Throw 2 of 2 (17 PTS),,,65 - 83,18
+0020600914,436,6,2,4,11:02 PM,4:44,Boozer S.FOUL (P2.T4),,,,
+0020600914,437,3,11,4,11:02 PM,4:44,,,Diogu Free Throw 1 of 2 (1 PTS),66 - 83,17
+0020600914,438,3,12,4,11:02 PM,4:44,,,Diogu Free Throw 2 of 2 (2 PTS),67 - 83,16
+0020600914,439,1,63,4,11:03 PM,4:27,Okur 19' Fadeaway Jumper (8 PTS),,,67 - 85,18
+0020600914,440,2,1,4,11:03 PM,4:13,,,MISS Dunleavy 17' Jump Shot,,
+0020600914,441,4,0,4,11:03 PM,4:11,Okur REBOUND (Off:0 Def:5),,,,
+0020600914,442,2,1,4,11:03 PM,3:48,MISS Okur 26' 3PT Jump Shot,,,,
+0020600914,444,4,0,4,11:04 PM,3:47,Harpring REBOUND (Off:2 Def:2),,,,
+0020600914,443,2,4,4,11:04 PM,3:47,MISS Harpring  Tip Shot,,,,
+0020600914,445,4,0,4,11:04 PM,3:47,JAZZ Rebound,,,,
+0020600914,446,5,11,4,11:04 PM,3:47,JAZZ Turnover: Shot Clock (T#16),,,,
+0020600914,447,5,2,4,11:04 PM,3:36,Harpring STEAL (2 STL),,Granger Lost Ball Turnover (P2.T18),,
+0020600914,448,6,2,4,11:04 PM,3:32,,,Granger S.FOUL (P4.PN),,
+0020600914,449,3,11,4,11:04 PM,3:32,Giricek Free Throw 1 of 2 (5 PTS),,,67 - 86,19
+0020600914,450,8,0,4,11:04 PM,3:32,,,SUB: Shaw. Williams FOR Granger,,
+0020600914,452,8,0,4,11:05 PM,3:32,,,SUB: Greene FOR Tinsley,,
+0020600914,453,3,12,4,11:05 PM,3:32,Giricek Free Throw 2 of 2 (6 PTS),,,67 - 87,20
+0020600914,454,6,1,4,11:05 PM,3:23,Giricek P.FOUL (P2.PN),,,,
+0020600914,455,8,0,4,11:05 PM,3:23,SUB: Brown FOR D. Williams,,,,
+0020600914,456,8,0,4,11:05 PM,3:23,,,SUB: Harrison FOR Murphy,,
+0020600914,457,3,11,4,11:05 PM,3:23,,,MISS Dunleavy Free Throw 1 of 2,,
+0020600914,458,4,1,4,11:05 PM,3:23,,,Pacers Rebound,,
+0020600914,459,3,12,4,11:05 PM,3:23,,,Dunleavy Free Throw 2 of 2 (5 PTS),68 - 87,19
+0020600914,460,6,1,4,11:06 PM,3:08,,,Shaw. Williams P.FOUL (P1.PN),,
+0020600914,461,8,0,4,11:06 PM,3:08,,,SUB: Marshall FOR Dunleavy,,
+0020600914,462,3,11,4,11:06 PM,3:08,Giricek Free Throw 1 of 2 (7 PTS),,,68 - 88,20
+0020600914,463,8,0,4,11:06 PM,3:08,SUB: Millsap FOR Harpring,,,,
+0020600914,464,3,12,4,11:06 PM,3:08,Giricek Free Throw 2 of 2 (8 PTS),,,68 - 89,21
+0020600914,465,2,1,4,11:07 PM,2:55,,,MISS Shaw. Williams 19' Jump Shot,,
+0020600914,469,4,0,4,11:07 PM,2:46,,,Harrison REBOUND (Off:1 Def:1),,
+0020600914,468,1,5,4,11:07 PM,2:46,,,Harrison  Layup (4 PTS),70 - 89,19
+0020600914,470,2,5,4,11:07 PM,2:31,MISS Boozer  Layup,,,,
+0020600914,471,4,0,4,11:07 PM,2:30,,,Harrison REBOUND (Off:1 Def:2),,
+0020600914,473,5,1,4,11:07 PM,2:28,,,Harrison Bad Pass Turnover (P4.T19),,
+0020600914,474,9,1,4,11:08 PM,2:28,JAZZ Timeout: Regular (Full 4 Short 0),,,,
+0020600914,476,8,0,4,11:10 PM,2:28,SUB: Araujo FOR Boozer,,,,
+0020600914,477,8,0,4,11:10 PM,2:28,SUB: Brewer FOR Okur,,,,
+0020600914,478,8,0,4,11:10 PM,2:28,SUB: Collins FOR Giricek,,,,
+0020600914,479,5,1,4,11:10 PM,2:07,Araujo Bad Pass Turnover (P2.T17),,Shaw. Williams STEAL (1 STL),,
+0020600914,480,5,1,4,11:10 PM,1:52,Millsap STEAL (4 STL),,Harrison Bad Pass Turnover (P5.T20),,
+0020600914,481,6,2,4,11:11 PM,1:46,,,Shaw. Williams S.FOUL (P2.PN),,
+0020600914,482,3,11,4,11:11 PM,1:46,Millsap Free Throw 1 of 2 (3 PTS),,,70 - 90,20
+0020600914,483,3,12,4,11:11 PM,1:46,Millsap Free Throw 2 of 2 (4 PTS),,,70 - 91,21
+0020600914,484,6,4,4,11:11 PM,1:30,,,Diogu OFF.Foul (P1),,
+0020600914,485,5,5,4,11:11 PM,1:30,,,Diogu Foul Turnover (P1.T21),,
+0020600914,486,6,2,4,11:12 PM,1:15,,,Shaw. Williams S.FOUL (P3.PN),,
+0020600914,487,3,11,4,11:12 PM,1:15,Brewer Free Throw 1 of 2 (1 PTS),,,70 - 92,22
+0020600914,488,3,12,4,11:12 PM,1:15,MISS Brewer Free Throw 2 of 2,,,,
+0020600914,489,4,0,4,11:13 PM,1:13,,,Shaw. Williams REBOUND (Off:0 Def:1),,
+0020600914,490,5,2,4,11:13 PM,0:56,Millsap STEAL (5 STL),,Shaw. Williams Lost Ball Turnover (P1.T22),,
+0020600914,491,2,63,4,11:13 PM,0:43,MISS Brewer 13' Fadeaway Jumper,,,,
+0020600914,492,4,0,4,11:13 PM,0:41,,,Harrison REBOUND (Off:1 Def:3),,
+0020600914,493,5,1,4,11:13 PM,0:38,,,Harrison Bad Pass Turnover (P6.T23),,
+0020600914,494,1,1,4,11:14 PM,0:19,Millsap 19' Jump Shot (6 PTS) (Brown 1 AST),,,70 - 94,24
+0020600914,495,6,2,4,11:14 PM,0:04,Collins S.FOUL (P5.PN),,,,
+0020600914,496,3,11,4,11:14 PM,0:04,,,Harrison Free Throw 1 of 2 (5 PTS),71 - 94,23
+0020600914,497,3,12,4,11:14 PM,0:04,,,Harrison Free Throw 2 of 2 (6 PTS),72 - 94,22
+0020600914,499,13,0,4,11:15 PM,0:00,,,,72 - 94,22

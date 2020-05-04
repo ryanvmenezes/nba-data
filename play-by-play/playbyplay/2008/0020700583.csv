@@ -1,0 +1,418 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020700583,0,12,0,1,7:11 PM,12:00,,,,,
+0020700583,1,10,0,1,7:12 PM,12:00,Jump Ball Dalembert vs. Bosh: Tip to Moon,,,,
+0020700583,2,2,1,1,7:12 PM,11:41,Dalembert BLOCK (1 BLK),,MISS Bosh 7' Jump Shot,,
+0020700583,3,4,0,1,7:12 PM,11:39,Evans REBOUND (Off:0 Def:1),,,,
+0020700583,4,2,1,1,7:13 PM,11:25,MISS Dalembert 24' 3PT Jump Shot,,,,
+0020700583,5,4,0,1,7:13 PM,11:23,,,Calderon REBOUND (Off:0 Def:1),,
+0020700583,6,5,2,1,7:13 PM,11:20,Miller STEAL (1 STL),,Calderon Lost Ball Turnover (P1.T1),,
+0020700583,7,5,1,1,7:13 PM,11:07,Miller Bad Pass Turnover (P1.T1),,,,
+0020700583,8,6,2,1,7:13 PM,10:54,Green S.FOUL (P1.T1),,,,
+0020700583,9,3,11,1,7:14 PM,10:54,,,MISS Moon Free Throw 1 of 2,,
+0020700583,10,4,1,1,7:14 PM,10:54,,,Raptors Rebound,,
+0020700583,11,3,12,1,7:14 PM,10:54,,,Moon Free Throw 2 of 2 (1 PTS),1 - 0,-1
+0020700583,12,2,1,1,7:14 PM,10:45,MISS Green 17' Jump Shot,,,,
+0020700583,13,4,0,1,7:14 PM,10:43,,,Bosh REBOUND (Off:0 Def:1),,
+0020700583,14,1,1,1,7:14 PM,10:31,,,Bargnani 25' 3PT Jump Shot (3 PTS) (Calderon 1 AST),4 - 0,-4
+0020700583,15,5,2,1,7:15 PM,10:12,Dalembert Lost Ball Turnover (P1.T2),,Calderon STEAL (1 STL),,
+0020700583,16,2,1,1,7:15 PM,10:04,,,MISS Calderon 19' Jump Shot,,
+0020700583,17,4,0,1,7:15 PM,10:03,76ERS Rebound,,,,
+0020700583,18,2,1,1,7:15 PM,9:49,MISS Miller 10' Jump Shot,,,,
+0020700583,19,4,0,1,7:15 PM,9:47,,,Bosh REBOUND (Off:0 Def:2),,
+0020700583,20,2,1,1,7:16 PM,9:23,,,MISS Moon 16' Jump Shot,,
+0020700583,21,4,0,1,7:16 PM,9:21,,,Bosh REBOUND (Off:1 Def:2),,
+0020700583,22,2,1,1,7:16 PM,9:15,,,MISS Parker 25' 3PT Jump Shot,,
+0020700583,23,4,0,1,7:16 PM,9:10,,,Moon REBOUND (Off:1 Def:0),,
+0020700583,24,2,1,1,7:16 PM,8:47,,,MISS Parker 19' Jump Shot,,
+0020700583,25,4,0,1,7:16 PM,8:45,Evans REBOUND (Off:0 Def:2),,,,
+0020700583,26,6,1,1,7:16 PM,8:38,,,Bargnani P.FOUL (P1.T1),,
+0020700583,27,1,79,1,7:17 PM,8:26,Iguodala 17' Pullup Jump Shot (2 PTS),,,4 - 2,-2
+0020700583,28,1,42,1,7:17 PM,8:09,,,Calderon  Driving Layup (2 PTS),6 - 2,-4
+0020700583,29,1,5,1,7:18 PM,7:44,Evans  Layup (2 PTS) (Dalembert 1 AST),,,6 - 4,-2
+0020700583,30,6,1,1,7:18 PM,7:22,Evans P.FOUL (P1.T2),,,,
+0020700583,31,6,11,1,7:18 PM,7:22,Evans T.FOUL (P1.T2),,,,
+0020700583,32,3,16,1,7:18 PM,7:22,,,Calderon Free Throw Technical (3 PTS),7 - 4,-3
+0020700583,33,1,1,1,7:19 PM,7:10,,,Parker  3PT Jump Shot (3 PTS) (Moon 1 AST),10 - 4,-6
+0020700583,34,2,1,1,7:19 PM,6:50,MISS Miller 16' Jump Shot,,,,
+0020700583,35,4,0,1,7:19 PM,6:48,,,Parker REBOUND (Off:0 Def:1),,
+0020700583,36,1,1,1,7:19 PM,6:40,,,Bosh 18' Jump Shot (2 PTS) (Parker 1 AST),12 - 4,-8
+0020700583,37,1,1,1,7:20 PM,6:22,Green 19' Jump Shot (2 PTS) (Iguodala 1 AST),,,12 - 6,-6
+0020700583,38,2,1,1,7:20 PM,6:06,,,MISS Parker 15' Jump Shot,,
+0020700583,39,4,0,1,7:20 PM,6:04,Dalembert REBOUND (Off:0 Def:1),,,,
+0020700583,41,2,5,1,7:21 PM,5:59,MISS Green  Layup,,Moon BLOCK (1 BLK),,
+0020700583,42,4,0,1,7:21 PM,5:59,76ERS Rebound,,,,
+0020700583,40,9,1,1,7:22 PM,5:59,76ERS Timeout: Regular (Full 1 Short 0),,,,
+0020700583,45,1,1,1,7:23 PM,5:47,Green 24' 3PT Jump Shot (5 PTS) (Miller 1 AST),,,12 - 9,-3
+0020700583,46,1,90,1,7:23 PM,5:25,,,Moon  Running Slam Dunk (3 PTS) (Parker 2 AST),14 - 9,-5
+0020700583,47,6,1,1,7:23 PM,5:09,,,Bargnani P.FOUL (P2.T2),,
+0020700583,48,8,0,1,7:24 PM,5:09,,,SUB: Nesterovic FOR Bargnani,,
+0020700583,49,1,1,1,7:24 PM,5:06,Green 17' Jump Shot (7 PTS) (Miller 2 AST),,,14 - 11,-3
+0020700583,50,6,6,1,7:24 PM,5:06,,,Moon AWAY.FROM.PLAY.FOUL (P1.T3),,
+0020700583,51,3,10,1,7:24 PM,5:06,MISS Evans Free Throw 1 of 1,,,,
+0020700583,52,4,0,1,7:25 PM,5:04,,,Parker REBOUND (Off:0 Def:2),,
+0020700583,54,2,5,1,7:25 PM,4:46,,,MISS Moon  Layup,,
+0020700583,56,4,0,1,7:25 PM,4:44,,,Moon REBOUND (Off:2 Def:0),,
+0020700583,55,1,4,1,7:25 PM,4:44,,,Moon  Tip Shot (5 PTS),16 - 11,-5
+0020700583,58,2,1,1,7:25 PM,4:24,MISS Iguodala 15' Jump Shot,,,,
+0020700583,59,4,0,1,7:25 PM,4:22,,,Bosh REBOUND (Off:1 Def:3),,
+0020700583,60,2,5,1,7:25 PM,4:14,,,MISS Calderon  Layup,,
+0020700583,61,4,0,1,7:26 PM,4:13,Dalembert REBOUND (Off:0 Def:2),,,,
+0020700583,62,1,5,1,7:26 PM,4:08,Evans  Layup (4 PTS),,,16 - 13,-3
+0020700583,63,1,7,1,7:26 PM,3:54,,,Moon  Dunk (7 PTS) (Parker 3 AST),18 - 13,-5
+0020700583,65,2,1,1,7:26 PM,3:33,MISS Miller 10' Jump Shot,,,,
+0020700583,66,4,0,1,7:26 PM,3:31,,,Bosh REBOUND (Off:1 Def:4),,
+0020700583,67,6,1,1,7:26 PM,3:21,Miller P.FOUL (P1.T3),,,,
+0020700583,68,8,0,1,7:27 PM,3:21,,,SUB: Dixon FOR Calderon,,
+0020700583,69,2,1,1,7:27 PM,3:13,,,MISS Bosh 16' Jump Shot,,
+0020700583,70,4,0,1,7:27 PM,3:11,Dalembert REBOUND (Off:0 Def:3),,,,
+0020700583,71,5,8,1,7:27 PM,2:56,Dalembert 3 Second Violation Turnover (P2.T3),,,,
+0020700583,72,9,1,1,7:27 PM,2:56,,,Raptors Timeout: Regular (Reg.1 Short 0),,
+0020700583,74,8,0,1,7:30 PM,2:40,SUB: Smith FOR Evans,,,,
+0020700583,75,2,1,1,7:30 PM,2:34,,,MISS Nesterovic 13' Jump Shot,,
+0020700583,76,4,0,1,7:30 PM,2:33,Iguodala REBOUND (Off:0 Def:1),,,,
+0020700583,77,2,1,1,7:31 PM,2:21,MISS Miller 11' Jump Shot,,,,
+0020700583,78,4,0,1,7:31 PM,2:19,,,Moon REBOUND (Off:2 Def:1),,
+0020700583,79,5,1,1,7:31 PM,2:07,Iguodala STEAL (1 STL),,Bosh Bad Pass Turnover (P1.T2),,
+0020700583,80,6,2,1,7:31 PM,2:02,,,Bosh S.FOUL (P1.T4),,
+0020700583,81,8,0,1,7:31 PM,2:02,SUB: Young FOR Green,,,,
+0020700583,82,8,0,1,7:31 PM,2:02,,,SUB: Graham FOR Bosh,,
+0020700583,83,3,11,1,7:31 PM,2:02,Miller Free Throw 1 of 2 (1 PTS),,,18 - 14,-4
+0020700583,85,8,0,1,7:31 PM,2:02,SUB: Williams FOR Dalembert,,,,
+0020700583,86,3,12,1,7:32 PM,2:02,Miller Free Throw 2 of 2 (2 PTS),,,18 - 15,-3
+0020700583,87,8,0,1,7:32 PM,2:02,,,SUB: Delfino FOR Parker,,
+0020700583,89,2,5,1,7:32 PM,1:50,Smith BLOCK (1 BLK),,MISS Dixon  Layup,,
+0020700583,90,4,0,1,7:32 PM,1:48,Williams REBOUND (Off:0 Def:1),,,,
+0020700583,91,2,1,1,7:32 PM,1:43,MISS Young 9' Jump Shot,,,,
+0020700583,92,4,0,1,7:32 PM,1:42,,,Graham REBOUND (Off:0 Def:1),,
+0020700583,93,2,1,1,7:32 PM,1:28,,,MISS Graham 15' Jump Shot,,
+0020700583,94,4,0,1,7:32 PM,1:27,Williams REBOUND (Off:0 Def:2),,,,
+0020700583,95,5,40,1,7:33 PM,1:14,Miller Out of Bounds Lost Ball Turnover (P2.T4),,,,
+0020700583,96,2,1,1,7:33 PM,0:51,,,MISS Moon  3PT Jump Shot,,
+0020700583,97,4,0,1,7:33 PM,0:49,Young REBOUND (Off:0 Def:1),,,,
+0020700583,98,2,1,1,7:33 PM,0:40,MISS Williams 19' Jump Shot,,,,
+0020700583,99,4,0,1,7:33 PM,0:38,Young REBOUND (Off:1 Def:1),,,,
+0020700583,100,2,1,1,7:34 PM,0:29,MISS Miller 11' Jump Shot,,,,
+0020700583,101,4,0,1,7:34 PM,0:27,,,Delfino REBOUND (Off:0 Def:1),,
+0020700583,102,6,1,1,7:34 PM,0:11,Williams P.FOUL (P1.T4),,,,
+0020700583,103,8,0,1,7:34 PM,0:11,SUB: Carney FOR Miller,,,,
+0020700583,104,8,0,1,7:34 PM,0:11,,,SUB: Kapono FOR Moon,,
+0020700583,105,13,0,1,7:35 PM,0:00,,,,18 - 15,-3
+0020700583,107,12,0,2,7:38 PM,12:00,,,,18 - 15,-3
+0020700583,108,6,1,2,7:38 PM,11:59,,,Dixon P.FOUL (P1.T1),,
+0020700583,109,2,1,2,7:38 PM,11:46,MISS Carney 24' 3PT Jump Shot,,,,
+0020700583,110,4,0,2,7:38 PM,11:44,Williams REBOUND (Off:1 Def:2),,,,
+0020700583,111,6,2,2,7:38 PM,11:40,,,Graham S.FOUL (P1.T2),,
+0020700583,112,3,11,2,7:38 PM,11:40,Carney Free Throw 1 of 2 (1 PTS),,,18 - 16,-2
+0020700583,113,3,12,2,7:39 PM,11:40,Carney Free Throw 2 of 2 (2 PTS),,,18 - 17,-1
+0020700583,114,6,2,2,7:39 PM,11:23,Young S.FOUL (P1.T1),,,,
+0020700583,115,8,0,2,7:39 PM,11:23,,,SUB: Humphries FOR Nesterovic,,
+0020700583,116,3,11,2,7:40 PM,11:23,,,Graham Free Throw 1 of 2 (1 PTS),19 - 17,-2
+0020700583,117,8,0,2,7:40 PM,11:23,SUB: Giricek FOR Iguodala,,,,
+0020700583,118,3,12,2,7:40 PM,11:23,,,Graham Free Throw 2 of 2 (2 PTS),20 - 17,-3
+0020700583,119,6,2,2,7:40 PM,11:16,,,Dixon S.FOUL (P2.T3),,
+0020700583,120,3,11,2,7:40 PM,11:16,Williams Free Throw 1 of 2 (1 PTS),,,20 - 18,-2
+0020700583,121,3,12,2,7:41 PM,11:16,Williams Free Throw 2 of 2 (2 PTS),,,20 - 19,-1
+0020700583,122,5,1,2,7:41 PM,11:08,Young STEAL (1 STL),,Delfino Bad Pass Turnover (P1.T3),,
+0020700583,123,6,2,2,7:41 PM,11:05,,,Delfino S.FOUL (P1.T4),,
+0020700583,124,3,11,2,7:42 PM,11:05,Young Free Throw 1 of 2 (1 PTS),,,20 - 20,TIE
+0020700583,125,3,12,2,7:42 PM,11:05,Young Free Throw 2 of 2 (2 PTS),,,20 - 21,1
+0020700583,126,1,1,2,7:42 PM,10:45,,,Dixon 25' 3PT Jump Shot (3 PTS) (Graham 1 AST),23 - 21,-2
+0020700583,127,6,2,2,7:42 PM,10:35,,,Dixon S.FOUL (P3.PN),,
+0020700583,128,3,11,2,7:43 PM,10:35,Williams Free Throw 1 of 2 (3 PTS),,,23 - 22,-1
+0020700583,129,3,12,2,7:43 PM,10:35,Williams Free Throw 2 of 2 (4 PTS),,,23 - 23,TIE
+0020700583,130,1,1,2,7:43 PM,10:28,,,Kapono 20' Jump Shot (2 PTS) (Dixon 1 AST),25 - 23,-2
+0020700583,131,5,1,2,7:43 PM,10:11,Williams Bad Pass Turnover (P1.T5),,,,
+0020700583,132,1,1,2,7:44 PM,9:54,,,Humphries 19' Jump Shot (2 PTS),27 - 23,-4
+0020700583,133,2,46,2,7:44 PM,9:34,MISS Giricek 4' Running Jump Shot,,,,
+0020700583,134,4,0,2,7:44 PM,9:33,Carney REBOUND (Off:1 Def:0),,,,
+0020700583,135,2,5,2,7:44 PM,9:23,MISS Smith  Layup,,,,
+0020700583,136,4,0,2,7:44 PM,9:21,,,Delfino REBOUND (Off:0 Def:2),,
+0020700583,137,2,5,2,7:44 PM,9:13,,,MISS Humphries  Layup,,
+0020700583,138,4,0,2,7:45 PM,9:13,,,Raptors Rebound,,
+0020700583,139,6,1,2,7:45 PM,9:12,Carney P.FOUL (P1.T2),,,,
+0020700583,140,8,0,2,7:45 PM,9:12,SUB: Dalembert FOR Smith,,,,
+0020700583,141,2,1,2,7:45 PM,9:03,,,MISS Dixon 16' Jump Shot,,
+0020700583,142,4,0,2,7:45 PM,9:01,Williams REBOUND (Off:1 Def:3),,,,
+0020700583,143,2,1,2,7:45 PM,8:56,MISS Williams 12' Jump Shot,,,,
+0020700583,144,4,0,2,7:45 PM,8:53,,,Humphries REBOUND (Off:0 Def:1),,
+0020700583,145,6,2,2,7:46 PM,8:47,Giricek S.FOUL (P1.T3),,,,
+0020700583,146,9,4,2,7:46 PM,8:47,,,,,
+0020700583,147,8,0,2,7:48 PM,8:47,SUB: Miller FOR Williams,,,,
+0020700583,148,8,0,2,7:48 PM,8:47,SUB: Iguodala FOR Carney,,,,
+0020700583,149,3,11,2,7:48 PM,8:47,,,Graham Free Throw 1 of 2 (3 PTS),28 - 23,-5
+0020700583,150,3,12,2,7:48 PM,8:47,,,Graham Free Throw 2 of 2 (4 PTS),29 - 23,-6
+0020700583,151,1,1,2,7:49 PM,8:21,Iguodala 21' Jump Shot (4 PTS) (Giricek 1 AST),,,29 - 25,-4
+0020700583,153,2,1,2,7:49 PM,8:04,,,MISS Kapono 17' Jump Shot,,
+0020700583,154,4,0,2,7:49 PM,8:03,Giricek REBOUND (Off:0 Def:1),,,,
+0020700583,155,2,1,2,7:49 PM,7:55,MISS Giricek 25' 3PT Jump Shot,,,,
+0020700583,156,4,0,2,7:49 PM,7:54,,,Dixon REBOUND (Off:0 Def:1),,
+0020700583,157,6,2,2,7:50 PM,7:42,Dalembert S.FOUL (P1.T4),,,,
+0020700583,158,3,11,2,7:50 PM,7:42,,,Graham Free Throw 1 of 2 (5 PTS),30 - 25,-5
+0020700583,160,3,12,2,7:50 PM,7:42,,,Graham Free Throw 2 of 2 (6 PTS),31 - 25,-6
+0020700583,161,1,1,2,7:51 PM,7:22,Giricek 15' Jump Shot (2 PTS),,,31 - 27,-4
+0020700583,162,1,42,2,7:51 PM,7:04,,,Dixon  Driving Layup (5 PTS) (Delfino 1 AST),33 - 27,-6
+0020700583,163,8,0,2,7:52 PM,6:39,SUB: Green FOR Young,,,,
+0020700583,164,2,1,2,7:52 PM,6:36,MISS Iguodala 27' 3PT Jump Shot,,,,
+0020700583,165,4,0,2,7:52 PM,6:35,Dalembert REBOUND (Off:1 Def:3),,,,
+0020700583,166,2,5,2,7:52 PM,6:33,MISS Dalembert  Layup,,,,
+0020700583,167,4,0,2,7:52 PM,6:32,,,Humphries REBOUND (Off:0 Def:2),,
+0020700583,168,2,1,2,7:52 PM,6:17,,,MISS Delfino 25' 3PT Jump Shot,,
+0020700583,169,4,0,2,7:52 PM,6:15,Dalembert REBOUND (Off:1 Def:4),,,,
+0020700583,170,1,44,2,7:53 PM,5:58,Miller  Reverse Layup (4 PTS) (Giricek 2 AST),,,33 - 29,-4
+0020700583,171,9,1,2,7:53 PM,5:44,76ERS Timeout: Regular (Full 2 Short 0),,,,
+0020700583,173,10,0,2,7:53 PM,5:44,Jump Ball Giricek vs. Kapono: Tip to Dalembert,,,,
+0020700583,174,8,0,2,7:55 PM,5:44,,,SUB: Bosh FOR Humphries,,
+0020700583,175,8,0,2,7:55 PM,5:44,,,SUB: Calderon FOR Dixon,,
+0020700583,176,5,2,2,7:56 PM,5:44,Giricek STEAL (1 STL),,Kapono Lost Ball Turnover (P1.T4),,
+0020700583,177,1,42,2,7:56 PM,5:30,Miller  Driving Layup (6 PTS),,,33 - 31,-2
+0020700583,178,1,1,2,7:56 PM,5:20,,,Graham 6' Jump Shot (8 PTS) (Calderon 2 AST),35 - 31,-4
+0020700583,179,6,4,2,7:56 PM,4:58,Giricek OFF.Foul (P2),,,,
+0020700583,180,5,5,2,7:56 PM,4:58,Giricek Foul Turnover (P1.T6),,,,
+0020700583,181,8,0,2,7:57 PM,4:58,,,SUB: Parker FOR Kapono,,
+0020700583,182,8,0,2,7:57 PM,4:58,,,SUB: Moon FOR Graham,,
+0020700583,184,6,2,2,7:57 PM,4:47,Green S.FOUL (P2.PN),,,,
+0020700583,185,3,11,2,7:57 PM,4:47,,,MISS Bosh Free Throw 1 of 2,,
+0020700583,186,4,1,2,7:57 PM,4:47,,,Raptors Rebound,,
+0020700583,187,3,12,2,7:57 PM,4:47,,,Bosh Free Throw 2 of 2 (3 PTS),36 - 31,-5
+0020700583,188,2,1,2,7:58 PM,4:32,MISS Iguodala  3PT Jump Shot,,,,
+0020700583,189,4,0,2,7:58 PM,4:30,,,Delfino REBOUND (Off:0 Def:3),,
+0020700583,190,2,1,2,7:58 PM,4:14,,,MISS Bosh 14' Jump Shot,,
+0020700583,191,4,0,2,7:58 PM,4:12,Green REBOUND (Off:0 Def:1),,,,
+0020700583,192,1,8,2,7:58 PM,4:05,Dalembert  Slam Dunk (2 PTS) (Green 1 AST),,,36 - 33,-3
+0020700583,193,1,58,2,7:59 PM,3:46,,,Moon 6' Turnaround Hook Shot (9 PTS) (Calderon 3 AST),38 - 33,-5
+0020700583,194,2,1,2,7:59 PM,3:23,MISS Miller 6' Jump Shot,,,,
+0020700583,195,4,0,2,7:59 PM,3:21,,,Bosh REBOUND (Off:1 Def:5),,
+0020700583,196,5,4,2,7:59 PM,3:13,,,Bosh Traveling Turnover (P2.T5),,
+0020700583,197,8,0,2,8:00 PM,3:13,SUB: Young FOR Giricek,,,,
+0020700583,198,2,1,2,8:00 PM,2:50,MISS Green 20' Jump Shot,,,,
+0020700583,199,4,0,2,8:00 PM,2:48,Young REBOUND (Off:2 Def:1),,,,
+0020700583,200,2,5,2,8:00 PM,2:46,MISS Young  Layup,,,,
+0020700583,201,4,0,2,8:00 PM,2:45,,,Moon REBOUND (Off:2 Def:2),,
+0020700583,202,2,5,2,8:00 PM,2:40,,,MISS Parker  Layup,,
+0020700583,204,4,0,2,8:00 PM,2:38,,,Bosh REBOUND (Off:2 Def:5),,
+0020700583,203,1,72,2,8:00 PM,2:38,,,Bosh  Putback Layup (5 PTS),40 - 33,-7
+0020700583,205,1,50,2,8:01 PM,2:19,Iguodala  Running Dunk (6 PTS),,,40 - 35,-5
+0020700583,206,2,1,2,8:01 PM,1:51,,,MISS Calderon 26' 3PT Jump Shot,,
+0020700583,207,4,0,2,8:01 PM,1:49,Miller REBOUND (Off:0 Def:1),,,,
+0020700583,208,2,5,2,8:01 PM,1:41,MISS Green  Layup,,,,
+0020700583,209,4,0,2,8:01 PM,1:40,Dalembert REBOUND (Off:2 Def:4),,,,
+0020700583,210,5,13,2,8:01 PM,1:36,Dalembert Backcourt Turnover (P3.T7),,,,
+0020700583,211,9,1,2,8:01 PM,1:36,,,Raptors Timeout: Regular (Reg.2 Short 0),,
+0020700583,213,2,1,2,8:04 PM,1:33,,,MISS Parker 18' Jump Shot,,
+0020700583,214,4,0,2,8:04 PM,1:32,Green REBOUND (Off:0 Def:2),,,,
+0020700583,215,1,46,2,8:04 PM,1:26,Green 8' Running Jump Shot (9 PTS),,,40 - 37,-3
+0020700583,216,2,1,2,8:04 PM,1:04,,,MISS Moon 19' Jump Shot,,
+0020700583,217,4,0,2,8:04 PM,1:03,Dalembert REBOUND (Off:2 Def:5),,,,
+0020700583,218,1,42,2,8:04 PM,0:58,Miller  Driving Layup (8 PTS),,,40 - 39,-1
+0020700583,219,2,43,2,8:05 PM,0:47,,,MISS Bosh  Alley Oop Layup,,
+0020700583,220,4,0,2,8:05 PM,0:45,Iguodala REBOUND (Off:0 Def:2),,,,
+0020700583,221,2,5,2,8:05 PM,0:39,MISS Iguodala  Layup,,,,
+0020700583,222,4,0,2,8:05 PM,0:37,,,Parker REBOUND (Off:0 Def:3),,
+0020700583,223,2,63,2,8:05 PM,0:17,,,MISS Moon 8' Fadeaway Jumper,,
+0020700583,224,4,0,2,8:05 PM,0:15,Iguodala REBOUND (Off:0 Def:3),,,,
+0020700583,225,1,46,2,8:06 PM,0:01,Iguodala 8' Running Jump Shot (8 PTS) (Miller 3 AST),,,40 - 41,1
+0020700583,226,6,2,2,8:06 PM,0:01,,,Delfino S.FOUL (P2.PN),,
+0020700583,227,3,10,2,8:06 PM,0:01,Iguodala Free Throw 1 of 1 (9 PTS),,,40 - 42,2
+0020700583,228,13,0,2,8:06 PM,0:00,,,,40 - 42,2
+0020700583,230,12,0,3,8:22 PM,12:00,,,,40 - 42,2
+0020700583,231,1,88,3,8:23 PM,11:37,Iguodala  Driving Slam Dunk (11 PTS) (Green 2 AST),,,40 - 44,4
+0020700583,232,1,63,3,8:23 PM,11:22,,,Moon 12' Fadeaway Jumper (11 PTS) (Calderon 4 AST),42 - 44,2
+0020700583,233,2,1,3,8:24 PM,11:03,MISS Evans 5' Jump Shot,,,,
+0020700583,234,4,0,3,8:24 PM,11:02,,,Parker REBOUND (Off:0 Def:4),,
+0020700583,235,2,1,3,8:24 PM,10:45,,,MISS Bargnani 20' Jump Shot,,
+0020700583,236,4,0,3,8:24 PM,10:43,Miller REBOUND (Off:0 Def:2),,,,
+0020700583,237,1,1,3,8:24 PM,10:37,Miller 11' Jump Shot (10 PTS),,,42 - 46,4
+0020700583,238,2,1,3,8:24 PM,10:16,,,MISS Moon 17' Jump Shot,,
+0020700583,239,4,0,3,8:25 PM,10:14,Dalembert REBOUND (Off:2 Def:6),,,,
+0020700583,240,2,1,3,8:25 PM,10:03,MISS Miller 15' Jump Shot,,,,
+0020700583,242,4,0,3,8:25 PM,10:01,Dalembert REBOUND (Off:3 Def:6),,,,
+0020700583,241,1,72,3,8:25 PM,10:01,Dalembert  Putback Layup (4 PTS),,,42 - 48,6
+0020700583,243,9,1,3,8:25 PM,10:01,,,Raptors Timeout: Regular (Reg.3 Short 0),,
+0020700583,244,5,1,3,8:27 PM,9:49,Miller STEAL (2 STL),,Calderon Bad Pass Turnover (P2.T6),,
+0020700583,245,2,1,3,8:28 PM,9:30,MISS Iguodala 14' Jump Shot,,,,
+0020700583,246,4,0,3,8:28 PM,9:29,,,Moon REBOUND (Off:2 Def:3),,
+0020700583,247,1,1,3,8:28 PM,9:14,,,Calderon 25' 3PT Jump Shot (6 PTS) (Bosh 1 AST),45 - 48,3
+0020700583,248,2,1,3,8:28 PM,8:47,MISS Miller 12' Jump Shot,,,,
+0020700583,249,4,0,3,8:28 PM,8:46,Evans REBOUND (Off:1 Def:2),,,,
+0020700583,250,6,1,3,8:28 PM,8:39,,,Bargnani P.FOUL (P3.T1),,
+0020700583,251,2,5,3,8:29 PM,8:25,MISS Miller  Layup,,,,
+0020700583,253,4,0,3,8:29 PM,8:24,Dalembert REBOUND (Off:4 Def:6),,,,
+0020700583,252,1,4,3,8:29 PM,8:24,Dalembert  Tip Shot (6 PTS),,,45 - 50,5
+0020700583,254,2,1,3,8:29 PM,7:58,,,MISS Calderon 19' Jump Shot,,
+0020700583,255,4,0,3,8:29 PM,7:56,Green REBOUND (Off:0 Def:3),,,,
+0020700583,256,2,1,3,8:30 PM,7:45,MISS Green 25' 3PT Jump Shot,,,,
+0020700583,257,4,0,3,8:30 PM,7:43,Evans REBOUND (Off:2 Def:2),,,,
+0020700583,258,1,49,3,8:30 PM,7:28,Dalembert  Driving Dunk (8 PTS) (Green 3 AST),,,45 - 52,7
+0020700583,259,2,1,3,8:30 PM,7:08,,,MISS Bosh 4' Jump Shot,,
+0020700583,260,4,0,3,8:30 PM,7:07,Evans REBOUND (Off:2 Def:3),,,,
+0020700583,261,1,66,3,8:30 PM,6:59,Miller 12' Jump Bank Shot (12 PTS),,,45 - 54,9
+0020700583,262,9,2,3,8:30 PM,6:57,,,Raptors Timeout: Short (Reg.3 Short 1),,
+0020700583,264,8,0,3,8:31 PM,6:56,,,SUB: Humphries FOR Bargnani,,
+0020700583,265,2,1,3,8:32 PM,6:38,,,MISS Humphries 18' Jump Shot,,
+0020700583,266,4,0,3,8:32 PM,6:37,Evans REBOUND (Off:2 Def:4),,,,
+0020700583,267,1,1,3,8:32 PM,6:23,Green 24' 3PT Jump Shot (12 PTS) (Miller 4 AST),,,45 - 57,12
+0020700583,268,1,1,3,8:32 PM,6:04,,,Parker 20' Jump Shot (5 PTS) (Calderon 5 AST),47 - 57,10
+0020700583,269,2,1,3,8:33 PM,5:52,MISS Green 15' Jump Shot,,,,
+0020700583,270,4,0,3,8:33 PM,5:50,,,Parker REBOUND (Off:0 Def:5),,
+0020700583,271,6,1,3,8:33 PM,5:46,Miller P.FOUL (P2.T1),,,,
+0020700583,272,1,1,3,8:33 PM,5:34,,,Bosh 16' Jump Shot (7 PTS) (Calderon 6 AST),49 - 57,8
+0020700583,273,5,2,3,8:34 PM,5:15,Green Lost Ball Turnover (P1.T8),,Moon STEAL (1 STL),,
+0020700583,274,6,1,3,8:34 PM,5:13,Miller P.FOUL (P3.T2),,,,
+0020700583,275,5,1,3,8:34 PM,5:06,Evans STEAL (1 STL),,Calderon Bad Pass Turnover (P3.T7),,
+0020700583,276,2,1,3,8:34 PM,4:56,MISS Iguodala 21' Jump Shot,,,,
+0020700583,277,4,0,3,8:34 PM,4:55,76ERS Rebound,,,,
+0020700583,278,6,3,3,8:34 PM,4:55,,,Humphries L.B.FOUL (P1.T2),,
+0020700583,279,9,1,3,8:35 PM,4:55,76ERS Timeout: Regular (Full 3 Short 0),,,,
+0020700583,280,1,42,3,8:37 PM,4:44,Green  Driving Layup (14 PTS),,,49 - 59,10
+0020700583,281,5,1,3,8:38 PM,4:20,Iguodala STEAL (2 STL),,Humphries Bad Pass Turnover (P1.T8),,
+0020700583,282,6,2,3,8:38 PM,4:12,,,Moon S.FOUL (P2.T3),,
+0020700583,283,3,11,3,8:38 PM,4:12,Evans Free Throw 1 of 2 (5 PTS),,,49 - 60,11
+0020700583,284,8,0,3,8:38 PM,4:12,,,SUB: Delfino FOR Moon,,
+0020700583,285,3,12,3,8:38 PM,4:12,Evans Free Throw 2 of 2 (6 PTS),,,49 - 61,12
+0020700583,286,5,1,3,8:39 PM,4:00,,,Parker Bad Pass Turnover (P1.T9),,
+0020700583,287,1,1,3,8:39 PM,3:42,Miller 17' Jump Shot (14 PTS) (Iguodala 2 AST),,,49 - 63,14
+0020700583,288,5,2,3,8:40 PM,3:25,Iguodala STEAL (3 STL),,Parker Lost Ball Turnover (P2.T10),,
+0020700583,289,6,1,3,8:40 PM,3:22,,,Parker P.FOUL (P1.T4),,
+0020700583,290,8,0,3,8:40 PM,3:22,,,SUB: Graham FOR Humphries,,
+0020700583,291,5,4,3,8:40 PM,3:15,Green Traveling Turnover (P2.T9),,,,
+0020700583,293,6,2,3,8:41 PM,3:02,Iguodala S.FOUL (P1.T3),,,,
+0020700583,294,3,11,3,8:41 PM,3:02,,,Bosh Free Throw 1 of 2 (8 PTS),50 - 63,13
+0020700583,295,3,12,3,8:41 PM,3:02,,,Bosh Free Throw 2 of 2 (9 PTS),51 - 63,12
+0020700583,296,2,1,3,8:42 PM,2:47,MISS Green 21' Jump Shot,,,,
+0020700583,297,4,0,3,8:42 PM,2:45,,,Parker REBOUND (Off:0 Def:6),,
+0020700583,298,5,1,3,8:42 PM,2:41,Iguodala STEAL (4 STL),,Parker Bad Pass Turnover (P3.T11),,
+0020700583,299,1,52,3,8:42 PM,2:19,Dalembert  Alley Oop Dunk (10 PTS) (Miller 5 AST),,,51 - 65,14
+0020700583,300,6,2,3,8:43 PM,2:06,Dalembert S.FOUL (P2.T4),,,,
+0020700583,301,8,0,3,8:43 PM,2:06,SUB: Williams FOR Miller,,,,
+0020700583,302,3,11,3,8:43 PM,2:06,,,Bosh Free Throw 1 of 2 (10 PTS),52 - 65,13
+0020700583,303,8,0,3,8:43 PM,2:06,,,SUB: Dixon FOR Parker,,
+0020700583,304,3,12,3,8:43 PM,2:06,,,Bosh Free Throw 2 of 2 (11 PTS),53 - 65,12
+0020700583,305,1,1,3,8:44 PM,1:50,Green 26' 3PT Jump Shot (17 PTS) (Iguodala 3 AST),,,53 - 68,15
+0020700583,306,6,1,3,8:44 PM,1:36,Green P.FOUL (P3.PN),,,,
+0020700583,307,3,11,3,8:44 PM,1:36,,,Graham Free Throw 1 of 2 (9 PTS),54 - 68,14
+0020700583,309,8,0,3,8:45 PM,1:36,SUB: Young FOR Evans,,,,
+0020700583,310,3,12,3,8:45 PM,1:36,,,MISS Graham Free Throw 2 of 2,,
+0020700583,311,4,0,3,8:45 PM,1:34,Young REBOUND (Off:2 Def:2),,,,
+0020700583,312,6,2,3,8:45 PM,1:13,,,Graham S.FOUL (P2.PN),,
+0020700583,313,3,11,3,8:46 PM,1:13,Dalembert Free Throw 1 of 2 (11 PTS),,,54 - 69,15
+0020700583,314,3,12,3,8:46 PM,1:13,Dalembert Free Throw 2 of 2 (12 PTS),,,54 - 70,16
+0020700583,315,1,5,3,8:47 PM,0:57,,,Graham  Layup (11 PTS) (Bosh 2 AST),56 - 70,14
+0020700583,316,1,1,3,8:47 PM,0:46,Green 19' Jump Shot (19 PTS) (Williams 1 AST),,,56 - 72,16
+0020700583,317,2,1,3,8:47 PM,0:36,,,MISS Delfino 24' 3PT Jump Shot,,
+0020700583,318,4,0,3,8:47 PM,0:34,Young REBOUND (Off:2 Def:3),,,,
+0020700583,319,1,7,3,8:47 PM,0:31,Iguodala  Dunk (13 PTS) (Green 4 AST),,,56 - 74,18
+0020700583,320,2,1,3,8:48 PM,0:07,,,MISS Calderon 19' Jump Shot,,
+0020700583,321,4,0,3,8:48 PM,0:05,Green REBOUND (Off:0 Def:4),,,,
+0020700583,322,1,1,3,8:48 PM,0:00,Iguodala 22' Jump Shot (15 PTS) (Green 5 AST),,,56 - 76,20
+0020700583,324,18,0,3,8:48 PM,0:00,,,,56 - 76,20
+0020700583,325,13,0,3,8:48 PM,0:00,,,,56 - 76,20
+0020700583,327,12,0,4,8:51 PM,12:00,,,,56 - 76,20
+0020700583,328,5,1,4,8:51 PM,11:42,Green STEAL (1 STL),,Dixon Bad Pass Turnover (P1.T12),,
+0020700583,329,5,1,4,8:51 PM,11:38,Williams Bad Pass Turnover (P2.T10),,Dixon STEAL (1 STL),,
+0020700583,330,1,1,4,8:52 PM,11:24,,,Dixon 25' 3PT Jump Shot (8 PTS) (Calderon 7 AST),59 - 76,17
+0020700583,331,2,5,4,8:52 PM,11:04,MISS Williams  Layup,,,,
+0020700583,332,4,0,4,8:52 PM,11:03,,,Raptors Rebound,,
+0020700583,333,5,1,4,8:52 PM,10:51,Williams STEAL (1 STL),,Dixon Bad Pass Turnover (P2.T13),,
+0020700583,334,1,1,4,8:52 PM,10:45,Young 6' Jump Shot (4 PTS) (Iguodala 4 AST),,,59 - 78,19
+0020700583,336,7,2,4,8:53 PM,10:23,Dalembert Violation:Defensive Goaltending,,,,
+0020700583,335,1,1,4,8:53 PM,10:23,,,Graham 3' Jump Shot (13 PTS) (Delfino 2 AST),61 - 78,17
+0020700583,337,1,75,4,8:53 PM,10:06,Young  Driving Finger Roll Layup (6 PTS),,,61 - 80,19
+0020700583,338,1,1,4,8:54 PM,9:55,,,Dixon 24' 3PT Jump Shot (11 PTS) (Calderon 8 AST),64 - 80,16
+0020700583,339,1,1,4,8:54 PM,9:39,Green 10' Jump Shot (21 PTS) (Iguodala 5 AST),,,64 - 82,18
+0020700583,340,1,46,4,8:54 PM,9:26,,,Dixon 9' Running Jump Shot (13 PTS) (Calderon 9 AST),66 - 82,16
+0020700583,341,1,1,4,8:54 PM,9:09,Green 19' Jump Shot (23 PTS) (Iguodala 6 AST),,,66 - 84,18
+0020700583,342,2,5,4,8:55 PM,8:50,,,MISS Dixon  Layup,,
+0020700583,343,4,0,4,8:55 PM,8:49,Dalembert REBOUND (Off:4 Def:7),,,,
+0020700583,344,2,5,4,8:55 PM,8:42,MISS Williams  Layup,,,,
+0020700583,345,4,0,4,8:55 PM,8:41,,,Graham REBOUND (Off:0 Def:2),,
+0020700583,346,6,1,4,8:55 PM,8:35,Williams P.FOUL (P2.T1),,,,
+0020700583,347,9,4,4,8:55 PM,8:35,,,,,
+0020700583,348,8,0,4,8:57 PM,8:35,,,SUB: Kapono FOR Graham,,
+0020700583,349,8,0,4,8:57 PM,8:35,,,SUB: Moon FOR Delfino,,
+0020700583,350,2,1,4,8:58 PM,8:23,,,MISS Calderon 27' 3PT Jump Shot,,
+0020700583,351,4,0,4,8:58 PM,8:21,Dalembert REBOUND (Off:4 Def:8),,,,
+0020700583,352,1,7,4,8:58 PM,8:11,Young  Dunk (8 PTS) (Williams 2 AST),,,66 - 86,20
+0020700583,353,1,1,4,8:58 PM,7:48,,,Dixon  3PT Jump Shot (16 PTS) (Kapono 1 AST),69 - 86,17
+0020700583,354,2,1,4,8:58 PM,7:29,MISS Green 26' 3PT Jump Shot,,,,
+0020700583,355,4,0,4,8:58 PM,7:28,,,Bosh REBOUND (Off:2 Def:6),,
+0020700583,356,6,1,4,8:59 PM,7:18,Williams P.FOUL (P3.T2),,,,
+0020700583,357,8,0,4,8:59 PM,7:18,SUB: Miller FOR Williams,,,,
+0020700583,358,1,1,4,8:59 PM,7:08,,,Moon 20' Jump Shot (13 PTS) (Kapono 2 AST),71 - 86,15
+0020700583,359,1,1,4,9:00 PM,6:42,Miller 15' Jump Shot (16 PTS),,,71 - 88,17
+0020700583,360,2,1,4,9:00 PM,6:27,,,MISS Kapono 18' Jump Shot,,
+0020700583,361,4,0,4,9:00 PM,6:25,,,Moon REBOUND (Off:3 Def:3),,
+0020700583,362,1,1,4,9:00 PM,6:09,,,Moon 25' 3PT Jump Shot (16 PTS) (Kapono 3 AST),74 - 88,14
+0020700583,364,5,1,4,9:00 PM,5:55,Miller Bad Pass Turnover (P3.T11),,Calderon STEAL (2 STL),,
+0020700583,365,1,5,4,9:00 PM,5:51,,,Bosh  Layup (13 PTS) (Dixon 2 AST),76 - 88,12
+0020700583,366,9,1,4,9:01 PM,5:49,76ERS Timeout: Regular (Full 4 Short 0),,,,
+0020700583,368,8,0,4,9:03 PM,5:49,SUB: Williams FOR Green,,,,
+0020700583,369,1,1,4,9:03 PM,5:36,Iguodala 15' Jump Shot (17 PTS),,,76 - 90,14
+0020700583,370,6,2,4,9:04 PM,5:23,Young S.FOUL (P2.T3),,,,
+0020700583,371,3,11,4,9:04 PM,5:23,,,MISS Bosh Free Throw 1 of 2,,
+0020700583,372,4,1,4,9:04 PM,5:23,,,Raptors Rebound,,
+0020700583,373,3,12,4,9:04 PM,5:23,,,Bosh Free Throw 2 of 2 (14 PTS),77 - 90,13
+0020700583,374,2,1,4,9:05 PM,5:10,MISS Iguodala 25' 3PT Jump Shot,,,,
+0020700583,375,4,0,4,9:05 PM,5:08,,,Moon REBOUND (Off:3 Def:4),,
+0020700583,376,5,1,4,9:05 PM,4:54,,,Dixon Bad Pass Turnover (P3.T14),,
+0020700583,377,2,5,4,9:05 PM,4:35,MISS Williams  Layup,,,,
+0020700583,378,4,0,4,9:05 PM,4:32,,,Bosh REBOUND (Off:2 Def:7),,
+0020700583,379,5,2,4,9:06 PM,4:15,Miller STEAL (3 STL),,Dixon Lost Ball Turnover (P4.T15),,
+0020700583,380,5,1,4,9:06 PM,4:10,Miller Bad Pass Turnover (P4.T12),,Moon STEAL (2 STL),,
+0020700583,381,6,2,4,9:06 PM,4:07,Williams S.FOUL (P4.T4),,,,
+0020700583,382,3,11,4,9:06 PM,4:07,,,MISS Moon Free Throw 1 of 2,,
+0020700583,383,4,1,4,9:06 PM,4:07,,,Raptors Rebound,,
+0020700583,384,3,12,4,9:06 PM,4:07,,,Moon Free Throw 2 of 2 (17 PTS),78 - 90,12
+0020700583,385,2,1,4,9:07 PM,3:44,MISS Miller 12' Jump Shot,,,,
+0020700583,386,4,0,4,9:07 PM,3:42,,,Moon REBOUND (Off:3 Def:5),,
+0020700583,387,9,1,4,9:07 PM,3:38,,,Raptors Timeout: Regular (Reg.4 Short 1),,
+0020700583,390,1,42,4,9:10 PM,3:22,,,Bosh  Driving Layup (16 PTS),80 - 90,10
+0020700583,391,2,1,4,9:10 PM,3:00,MISS Iguodala 19' Jump Shot,,,,
+0020700583,392,4,0,4,9:10 PM,2:58,,,Kapono REBOUND (Off:0 Def:1),,
+0020700583,393,1,7,4,9:10 PM,2:55,,,Bosh  Dunk (18 PTS) (Calderon 10 AST),82 - 90,8
+0020700583,394,1,1,4,9:11 PM,2:34,Miller 16' Jump Shot (18 PTS),,,82 - 92,10
+0020700583,397,6,2,4,9:11 PM,2:17,Young S.FOUL (P3.PN),,,,
+0020700583,398,3,11,4,9:12 PM,2:17,,,Dixon Free Throw 1 of 2 (17 PTS),83 - 92,9
+0020700583,399,8,0,4,9:12 PM,2:17,,,SUB: Parker FOR Kapono,,
+0020700583,400,3,12,4,9:12 PM,2:17,,,Dixon Free Throw 2 of 2 (18 PTS),84 - 92,8
+0020700583,401,2,8,4,9:13 PM,1:57,MISS Dalembert  Slam Dunk,,,,
+0020700583,402,4,0,4,9:13 PM,1:52,,,Dixon REBOUND (Off:0 Def:2),,
+0020700583,403,6,2,4,9:13 PM,1:39,Iguodala S.FOUL (P2.PN),,,,
+0020700583,404,3,11,4,9:13 PM,1:39,,,Bosh Free Throw 1 of 2 (19 PTS),85 - 92,7
+0020700583,405,3,12,4,9:13 PM,1:39,,,Bosh Free Throw 2 of 2 (20 PTS),86 - 92,6
+0020700583,406,9,2,4,9:14 PM,1:39,76ERS Timeout: Short (Full 4 Short 1),,,,
+0020700583,407,8,0,4,9:15 PM,1:39,SUB: Green FOR Williams,,,,
+0020700583,408,5,2,4,9:15 PM,1:19,Iguodala Lost Ball Turnover (P1.T13),,Bosh STEAL (1 STL),,
+0020700583,409,1,47,4,9:15 PM,1:06,,,Bosh 4' Turnaround Jump Shot (22 PTS),88 - 92,4
+0020700583,410,2,1,4,9:16 PM,0:41,MISS Miller 18' Jump Shot,,,,
+0020700583,411,4,0,4,9:16 PM,0:39,,,Dixon REBOUND (Off:0 Def:3),,
+0020700583,412,2,1,4,9:16 PM,0:30,,,MISS Parker 25' 3PT Jump Shot,,
+0020700583,413,4,0,4,9:16 PM,0:27,Iguodala REBOUND (Off:0 Def:4),,,,
+0020700583,414,6,1,4,9:16 PM,0:27,,,Bosh P.FOUL (P2.T1),,
+0020700583,415,6,1,4,9:16 PM,0:26,,,Calderon P.FOUL (P1.PN),,
+0020700583,416,3,11,4,9:17 PM,0:26,Miller Free Throw 1 of 2 (19 PTS),,,88 - 93,5
+0020700583,417,3,12,4,9:17 PM,0:26,Miller Free Throw 2 of 2 (20 PTS),,,88 - 94,6
+0020700583,418,5,1,4,9:18 PM,0:18,Iguodala STEAL (5 STL),,Calderon Bad Pass Turnover (P4.T16),,
+0020700583,419,6,1,4,9:18 PM,0:14,,,Parker P.FOUL (P2.PN),,
+0020700583,420,3,11,4,9:18 PM,0:14,Iguodala Free Throw 1 of 2 (18 PTS),,,88 - 95,7
+0020700583,421,3,12,4,9:18 PM,0:14,MISS Iguodala Free Throw 2 of 2,,,,
+0020700583,422,4,0,4,9:18 PM,0:14,,,Moon REBOUND (Off:3 Def:6),,
+0020700583,423,9,1,4,9:18 PM,0:14,,,Raptors Timeout: Regular (Reg.5 Short 1),,
+0020700583,426,1,5,4,9:20 PM,0:10,,,Bosh  Layup (24 PTS) (Calderon 11 AST),90 - 95,5
+0020700583,427,6,2,4,9:20 PM,0:10,Dalembert S.FOUL (P3.PN),,,,
+0020700583,428,3,10,4,9:21 PM,0:10,,,Bosh Free Throw 1 of 1 (25 PTS),91 - 95,4
+0020700583,429,9,1,4,9:21 PM,0:10,76ERS Timeout: Regular (Full 5 Short 1),,,,
+0020700583,430,6,1,4,9:23 PM,0:09,,,Calderon P.FOUL (P2.PN),,
+0020700583,431,3,11,4,9:23 PM,0:09,Iguodala Free Throw 1 of 2 (19 PTS),,,91 - 96,5
+0020700583,432,3,12,4,9:23 PM,0:09,Iguodala Free Throw 2 of 2 (20 PTS),,,91 - 97,6
+0020700583,433,9,2,4,9:23 PM,0:09,,,Raptors Timeout: Short (Reg.5 Short 2),,
+0020700583,434,2,1,4,9:24 PM,0:06,,,MISS Bosh 25' 3PT Jump Shot,,
+0020700583,436,4,0,4,9:24 PM,0:05,,,Parker REBOUND (Off:1 Def:6),,
+0020700583,435,1,4,4,9:24 PM,0:05,,,Parker  Tip Shot (7 PTS),93 - 97,4
+0020700583,437,6,1,4,9:24 PM,0:04,,,Parker P.FOUL (P3.PN),,
+0020700583,438,3,11,4,9:25 PM,0:04,MISS Miller Free Throw 1 of 2,,,,
+0020700583,439,4,1,4,9:25 PM,0:04,76ERS Rebound,,,,
+0020700583,440,3,12,4,9:25 PM,0:04,MISS Miller Free Throw 2 of 2,,,,
+0020700583,442,4,0,4,9:25 PM,0:04,Dalembert REBOUND (Off:5 Def:8),,,,
+0020700583,441,1,4,4,9:25 PM,0:04,Dalembert  Tip Shot (14 PTS),,,93 - 99,6
+0020700583,443,1,5,4,9:26 PM,0:00,,,Calderon  Layup (8 PTS),95 - 99,4
+0020700583,444,13,0,4,9:26 PM,0:00,,,,95 - 99,4

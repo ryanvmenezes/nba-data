@@ -1,0 +1,484 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020401196,1,12,0,1,4:46 PM,12:00,,,,,
+0020401196,2,10,0,1,4:46 PM,12:00,Jump Ball Mihm vs. Dampier: Tip to Bryant,,,,
+0020401196,3,1,1,1,4:47 PM,11:39,Jones 27' 3PT Jump Shot (3 PTS) (Atkins 1 AST),,,0 - 3,3
+0020401196,4,1,1,1,4:47 PM,11:12,,,Nowitzki 17' Jump Shot (2 PTS) (Terry 1 AST),2 - 3,1
+0020401196,5,5,1,1,4:47 PM,10:58,Bryant Bad Pass Turnover (P1.T1),,Howard STEAL (1 STL),,
+0020401196,6,6,2,1,4:47 PM,10:56,Atkins S.FOUL (P1.T1),,,,
+0020401196,7,3,11,1,4:48 PM,10:56,,,Howard Free Throw 1 of 2 (1 PTS),3 - 3,TIE
+0020401196,8,3,12,1,4:48 PM,10:56,,,MISS Howard Free Throw 2 of 2,,
+0020401196,9,4,0,1,4:48 PM,10:56,,,Howard REBOUND (Off:1 Def:0),,
+0020401196,10,1,1,1,4:48 PM,10:51,,,Howard 15' Jump Shot (3 PTS),5 - 3,-2
+0020401196,11,1,1,1,4:48 PM,10:43,Butler 21' Jump Shot (2 PTS),,,5 - 5,TIE
+0020401196,12,1,8,1,4:48 PM,10:29,,,Dampier  Slam Dunk (2 PTS) (Terry 2 AST),7 - 5,-2
+0020401196,13,2,5,1,4:49 PM,10:20,MISS Butler  Layup,,Dampier BLOCK (1 BLK),,
+0020401196,14,4,0,1,4:49 PM,10:18,Jones REBOUND (Off:1 Def:0),,,,
+0020401196,15,2,1,1,4:49 PM,10:09,MISS Mihm 12' Jump Shot,,,,
+0020401196,17,4,0,1,4:49 PM,10:07,Jones REBOUND (Off:2 Def:0),,,,
+0020401196,16,1,4,1,4:49 PM,10:07,Jones  Tip Shot (5 PTS),,,7 - 7,TIE
+0020401196,18,6,2,1,4:49 PM,10:00,Mihm S.FOUL (P1.T2),,,,
+0020401196,19,3,11,1,4:49 PM,10:00,,,Nowitzki Free Throw 1 of 2 (3 PTS),8 - 7,-1
+0020401196,20,3,12,1,4:49 PM,10:00,,,Nowitzki Free Throw 2 of 2 (4 PTS),9 - 7,-2
+0020401196,21,6,1,1,4:50 PM,9:49,,,Howard P.FOUL (P1.T1),,
+0020401196,22,1,1,1,4:51 PM,9:41,Bryant 25' 3PT Jump Shot (3 PTS) (Butler 1 AST),,,9 - 10,1
+0020401196,23,2,1,1,4:51 PM,9:32,,,MISS Finley 17' Jump Shot,,
+0020401196,24,4,0,1,4:51 PM,9:31,Atkins REBOUND (Off:0 Def:1),,,,
+0020401196,25,1,1,1,4:51 PM,9:23,Butler 5' Jump Shot (4 PTS) (Atkins 2 AST),,,9 - 12,3
+0020401196,26,9,1,1,4:51 PM,9:18,,,Mavericks Timeout: Regular (Reg.1 Short 0),,
+0020401196,28,5,1,1,4:55 PM,9:14,Jones STEAL (1 STL),,Terry Bad Pass Turnover (P1.T1),,
+0020401196,29,2,42,1,4:55 PM,9:10,MISS Jones  Driving Layup,,Nowitzki BLOCK (1 BLK),,
+0020401196,30,4,0,1,4:55 PM,9:08,,,Finley REBOUND (Off:0 Def:1),,
+0020401196,31,6,2,1,4:55 PM,8:56,Bryant S.FOUL (P1.T3),,,,
+0020401196,32,3,11,1,4:55 PM,8:56,,,Nowitzki Free Throw 1 of 2 (5 PTS),10 - 12,2
+0020401196,33,3,12,1,4:55 PM,8:56,,,MISS Nowitzki Free Throw 2 of 2,,
+0020401196,34,4,0,1,4:56 PM,8:55,Jones REBOUND (Off:2 Def:1),,,,
+0020401196,35,2,1,1,4:56 PM,8:43,MISS Atkins 19' Jump Shot,,,,
+0020401196,36,4,0,1,4:56 PM,8:42,,,Terry REBOUND (Off:0 Def:1),,
+0020401196,37,5,2,1,4:56 PM,8:38,Bryant STEAL (1 STL),,Terry Lost Ball Turnover (P2.T2),,
+0020401196,38,2,5,1,4:56 PM,8:29,MISS Mihm  Layup,,,,
+0020401196,39,4,0,1,4:56 PM,8:28,,,Nowitzki REBOUND (Off:0 Def:1),,
+0020401196,40,1,5,1,4:56 PM,8:12,,,Howard  Layup (5 PTS) (Nowitzki 1 AST),12 - 12,TIE
+0020401196,41,2,42,1,4:56 PM,8:06,MISS Butler  Driving Layup,,,,
+0020401196,42,4,0,1,4:56 PM,8:02,,,Howard REBOUND (Off:1 Def:1),,
+0020401196,43,6,1,1,4:57 PM,8:00,Butler P.FOUL (P1.T4),,,,
+0020401196,44,1,1,1,4:57 PM,7:53,,,Finley 26' 3PT Jump Shot (3 PTS) (Terry 3 AST),15 - 12,-3
+0020401196,45,1,1,1,4:57 PM,7:33,Mihm 15' Jump Shot (2 PTS) (Bryant 1 AST),,,15 - 14,-1
+0020401196,46,6,2,1,4:58 PM,7:14,Jones S.FOUL (P1.PN),,,,
+0020401196,47,3,11,1,4:58 PM,7:14,,,Nowitzki Free Throw 1 of 2 (6 PTS),16 - 14,-2
+0020401196,48,3,12,1,4:58 PM,7:14,,,Nowitzki Free Throw 2 of 2 (7 PTS),17 - 14,-3
+0020401196,49,2,1,1,4:58 PM,7:01,MISS Atkins 21' Jump Shot,,,,
+0020401196,50,4,0,1,4:58 PM,6:59,Butler REBOUND (Off:1 Def:0),,,,
+0020401196,51,5,1,1,4:59 PM,6:55,Bryant Bad Pass Turnover (P2.T2),,Howard STEAL (2 STL),,
+0020401196,52,1,1,1,4:59 PM,6:47,,,Finley 13' Jump Shot (5 PTS) (Howard 1 AST),19 - 14,-5
+0020401196,53,6,2,1,4:59 PM,6:31,,,Dampier S.FOUL (P1.T2),,
+0020401196,55,3,11,1,4:59 PM,6:31,Jones Free Throw 1 of 2 (6 PTS),,,19 - 15,-4
+0020401196,56,3,12,1,4:59 PM,6:31,Jones Free Throw 2 of 2 (7 PTS),,,19 - 16,-3
+0020401196,57,1,8,1,5:00 PM,6:15,,,Finley  Slam Dunk (7 PTS) (Dampier 1 AST),21 - 16,-5
+0020401196,58,6,2,1,5:00 PM,6:05,,,Finley S.FOUL (P1.T3),,
+0020401196,59,3,11,1,5:00 PM,6:05,Bryant Free Throw 1 of 2 (4 PTS),,,21 - 17,-4
+0020401196,60,3,12,1,5:00 PM,6:05,Bryant Free Throw 2 of 2 (5 PTS),,,21 - 18,-3
+0020401196,61,1,42,1,5:01 PM,5:51,,,Terry 3' Driving Layup (2 PTS),23 - 18,-5
+0020401196,62,5,1,1,5:01 PM,5:41,Bryant Bad Pass Turnover (P3.T3),,Howard STEAL (3 STL),,
+0020401196,63,1,42,1,5:01 PM,5:37,,,Nowitzki  Driving Layup (9 PTS) (Terry 4 AST),25 - 18,-7
+0020401196,64,9,1,1,5:01 PM,5:28,LAKERS Timeout: Regular (Full 1 Short 0),,,,
+0020401196,68,2,1,1,5:05 PM,5:16,MISS Mihm 14' Jump Shot,,,,
+0020401196,69,4,0,1,5:05 PM,5:15,Butler REBOUND (Off:2 Def:0),,,,
+0020401196,70,2,5,1,5:05 PM,5:14,MISS Butler  Layup,,,,
+0020401196,71,4,0,1,5:05 PM,5:13,,,Nowitzki REBOUND (Off:0 Def:2),,
+0020401196,72,2,1,1,5:06 PM,4:51,,,MISS Finley 27' 3PT Jump Shot,,
+0020401196,73,4,0,1,5:06 PM,4:50,,,Mavericks Rebound,,
+0020401196,74,8,0,1,5:06 PM,4:50,,,SUB: Harris FOR Terry,,
+0020401196,75,6,4,1,5:06 PM,4:43,,,Nowitzki OFF.Foul (P1),,
+0020401196,76,5,5,1,5:06 PM,4:43,,,Nowitzki Foul Turnover (P1.T3),,
+0020401196,77,8,0,1,5:07 PM,4:43,,,SUB: Bradley FOR Dampier,,
+0020401196,78,5,1,1,5:07 PM,4:28,Jones Bad Pass Turnover (P1.T4),,Harris STEAL (1 STL),,
+0020401196,79,2,1,1,5:07 PM,4:18,,,MISS Howard 27' 3PT Jump Shot,,
+0020401196,80,4,0,1,5:07 PM,4:17,,,Nowitzki REBOUND (Off:1 Def:2),,
+0020401196,81,1,5,1,5:07 PM,4:15,,,Nowitzki  Layup (11 PTS),27 - 18,-9
+0020401196,82,2,1,1,5:08 PM,3:53,MISS Jones 19' Jump Shot,,,,
+0020401196,84,4,0,1,5:08 PM,3:51,Mihm REBOUND (Off:1 Def:0),,,,
+0020401196,83,2,4,1,5:08 PM,3:51,MISS Mihm  Tip Shot,,,,
+0020401196,85,4,0,1,5:08 PM,3:50,Bryant REBOUND (Off:1 Def:0),,,,
+0020401196,86,6,1,1,5:08 PM,3:50,,,Bradley P.FOUL (P1.T4),,
+0020401196,87,5,2,1,5:08 PM,3:42,Atkins Lost Ball Turnover (P1.T5),,Nowitzki STEAL (1 STL),,
+0020401196,88,2,1,1,5:08 PM,3:33,,,MISS Finley 5' Jump Shot,,
+0020401196,89,4,0,1,5:08 PM,3:32,LAKERS Rebound,,,,
+0020401196,90,1,1,1,5:09 PM,3:18,Mihm 14' Jump Shot (4 PTS) (Bryant 2 AST),,,27 - 20,-7
+0020401196,91,5,2,1,5:09 PM,3:03,Atkins STEAL (1 STL),,Harris Lost Ball Turnover (P1.T4),,
+0020401196,92,6,2,1,5:09 PM,2:59,,,Howard S.FOUL (P2.PN),,
+0020401196,93,8,0,1,5:09 PM,2:59,SUB: Divac FOR Mihm,,,,
+0020401196,94,8,0,1,5:09 PM,2:59,,,SUB: Stackhouse FOR Howard,,
+0020401196,95,3,11,1,5:09 PM,2:59,Butler Free Throw 1 of 2 (5 PTS),,,27 - 21,-6
+0020401196,96,3,12,1,5:10 PM,2:59,Butler Free Throw 2 of 2 (6 PTS),,,27 - 22,-5
+0020401196,97,2,1,1,5:10 PM,2:39,,,MISS Stackhouse 18' Jump Shot,,
+0020401196,98,4,0,1,5:10 PM,2:38,Bryant REBOUND (Off:1 Def:1),,,,
+0020401196,99,2,5,1,5:10 PM,2:30,MISS Jones  Layup,,Bradley BLOCK (1 BLK),,
+0020401196,100,4,0,1,5:10 PM,2:28,Divac REBOUND (Off:1 Def:0),,,,
+0020401196,101,1,1,1,5:10 PM,2:24,Atkins 19' Jump Shot (2 PTS) (Butler 2 AST),,,27 - 24,-3
+0020401196,102,2,1,1,5:11 PM,2:03,,,MISS Nowitzki 27' 3PT Jump Shot,,
+0020401196,103,4,0,1,5:11 PM,2:01,Divac REBOUND (Off:1 Def:1),,,,
+0020401196,104,2,1,1,5:11 PM,1:43,MISS Jones  3PT Jump Shot,,,,
+0020401196,105,4,0,1,5:11 PM,1:40,Bryant REBOUND (Off:2 Def:1),,,,
+0020401196,106,6,2,1,5:11 PM,1:37,,,Bradley S.FOUL (P2.PN),,
+0020401196,107,8,0,1,5:11 PM,1:37,,,SUB: Van Horn FOR Nowitzki,,
+0020401196,108,3,11,1,5:11 PM,1:37,Bryant Free Throw 1 of 2 (6 PTS),,,27 - 25,-2
+0020401196,109,8,0,1,5:12 PM,1:37,SUB: Vujacic FOR Atkins,,,,
+0020401196,110,8,0,1,5:12 PM,1:37,SUB: George FOR Jones,,,,
+0020401196,111,3,12,1,5:12 PM,1:37,Bryant Free Throw 2 of 2 (7 PTS),,,27 - 26,-1
+0020401196,112,6,1,1,5:12 PM,1:27,Butler P.FOUL (P2.PN),,,,
+0020401196,114,3,11,1,5:12 PM,1:27,,,Stackhouse Free Throw 1 of 2 (1 PTS),28 - 26,-2
+0020401196,115,8,0,1,5:13 PM,1:27,SUB: Walton FOR Butler,,,,
+0020401196,116,3,12,1,5:13 PM,1:27,,,Stackhouse Free Throw 2 of 2 (2 PTS),29 - 26,-3
+0020401196,117,2,5,1,5:13 PM,1:15,MISS Divac  Layup,,,,
+0020401196,118,4,0,1,5:13 PM,1:14,Divac REBOUND (Off:2 Def:1),,,,
+0020401196,119,1,3,1,5:13 PM,1:14,Divac 3' Hook Shot (2 PTS),,,29 - 28,-1
+0020401196,120,6,2,1,5:13 PM,1:14,,,Bradley S.FOUL (P3.PN),,
+0020401196,121,8,0,1,5:14 PM,1:14,,,SUB: Henderson FOR Bradley,,
+0020401196,122,3,10,1,5:14 PM,1:14,Divac Free Throw 1 of 1 (3 PTS),,,29 - 29,TIE
+0020401196,123,2,1,1,5:14 PM,0:53,,,MISS Van Horn 12' Jump Shot,,
+0020401196,124,4,0,1,5:14 PM,0:50,Walton REBOUND (Off:0 Def:1),,,,
+0020401196,125,2,1,1,5:15 PM,0:41,MISS George 6' Jump Shot,,,,
+0020401196,126,4,0,1,5:15 PM,0:39,,,Henderson REBOUND (Off:0 Def:1),,
+0020401196,127,1,1,1,5:15 PM,0:33,,,Finley 28' 3PT Jump Shot (10 PTS) (Harris 1 AST),32 - 29,-3
+0020401196,128,2,1,1,5:15 PM,0:14,MISS George 20' Jump Shot,,,,
+0020401196,129,4,0,1,5:15 PM,0:12,,,Henderson REBOUND (Off:0 Def:2),,
+0020401196,130,1,42,1,5:15 PM,0:09,,,Van Horn  Driving Layup (2 PTS) (Harris 2 AST),34 - 29,-5
+0020401196,131,2,42,1,5:15 PM,0:00,MISS Bryant  Driving Layup,,,,
+0020401196,132,4,0,1,5:15 PM,0:00,,,Henderson REBOUND (Off:0 Def:3),,
+0020401196,133,13,0,1,5:16 PM,0:00,,,,34 - 29,-5
+0020401196,135,12,0,2,5:19 PM,12:00,,,,34 - 29,-5
+0020401196,136,2,1,2,5:20 PM,11:37,,,MISS Van Horn 8' Jump Shot,,
+0020401196,137,4,0,2,5:20 PM,11:36,Divac REBOUND (Off:2 Def:2),,,,
+0020401196,138,1,1,2,5:20 PM,11:23,Vujacic 18' Jump Shot (2 PTS) (Divac 1 AST),,,34 - 31,-3
+0020401196,139,5,11,2,5:20 PM,10:57,,,Mavericks Turnover: Shot Clock (T#5),,
+0020401196,140,5,1,2,5:21 PM,10:39,Divac Bad Pass Turnover (P1.T6),,Harris STEAL (2 STL),,
+0020401196,141,2,5,2,5:21 PM,10:34,,,MISS Van Horn  Layup,,
+0020401196,143,4,0,2,5:21 PM,10:33,,,Henderson REBOUND (Off:1 Def:3),,
+0020401196,142,2,4,2,5:21 PM,10:33,,,MISS Henderson  Tip Shot,,
+0020401196,144,4,0,2,5:21 PM,10:31,,,Henderson REBOUND (Off:2 Def:3),,
+0020401196,145,5,1,2,5:21 PM,10:28,Divac STEAL (1 STL),,Stackhouse Bad Pass Turnover (P1.T6),,
+0020401196,146,1,42,2,5:21 PM,10:24,Walton  Driving Layup (2 PTS) (Vujacic 1 AST),,,34 - 33,-1
+0020401196,147,6,2,2,5:21 PM,10:24,,,Stackhouse S.FOUL (P1.T1),,
+0020401196,148,3,10,2,5:21 PM,10:24,MISS Walton Free Throw 1 of 1,,,,
+0020401196,149,4,0,2,5:22 PM,10:23,Walton REBOUND (Off:1 Def:1),,,,
+0020401196,150,5,1,2,5:22 PM,10:14,Walton Bad Pass Turnover (P1.T7),,Stackhouse STEAL (1 STL),,
+0020401196,151,2,1,2,5:22 PM,9:55,,,MISS Henderson 9' Jump Shot,,
+0020401196,152,4,0,2,5:22 PM,9:53,Divac REBOUND (Off:2 Def:3),,,,
+0020401196,153,1,1,2,5:22 PM,9:41,Jones 17' Jump Shot (9 PTS) (Vujacic 2 AST),,,34 - 35,1
+0020401196,154,1,1,2,5:23 PM,9:17,,,Daniels 7' Jump Shot (2 PTS) (Harris 3 AST),36 - 35,-1
+0020401196,155,2,42,2,5:23 PM,9:01,MISS Vujacic  Driving Layup,,,,
+0020401196,156,4,0,2,5:23 PM,8:59,,,Harris REBOUND (Off:0 Def:1),,
+0020401196,157,2,1,2,5:23 PM,8:51,,,MISS Stackhouse 26' 3PT Jump Shot,,
+0020401196,158,4,0,2,5:23 PM,8:50,Walton REBOUND (Off:1 Def:2),,,,
+0020401196,159,6,4,2,5:23 PM,8:47,Walton OFF.Foul (P1),,,,
+0020401196,160,5,5,2,5:23 PM,8:47,Walton Foul Turnover (P2.T8),,,,
+0020401196,161,9,4,2,5:23 PM,8:47,,,,,
+0020401196,163,8,0,2,5:26 PM,8:47,SUB: Mihm FOR Divac,,,,
+0020401196,164,8,0,2,5:27 PM,8:47,,,SUB: Nowitzki FOR Harris,,
+0020401196,165,8,0,2,5:27 PM,8:47,,,SUB: Terry FOR Stackhouse,,
+0020401196,166,2,1,2,5:27 PM,8:27,,,MISS Daniels 5' Jump Shot,,
+0020401196,167,4,0,2,5:27 PM,8:26,,,Henderson REBOUND (Off:3 Def:3),,
+0020401196,168,2,1,2,5:27 PM,8:17,,,MISS Nowitzki 20' Jump Shot,,
+0020401196,169,4,0,2,5:27 PM,8:15,Walton REBOUND (Off:1 Def:3),,,,
+0020401196,170,5,1,2,5:27 PM,8:15,Walton Bad Pass Turnover (P3.T9),,,,
+0020401196,171,8,0,2,5:27 PM,8:15,,,SUB: Dampier FOR Henderson,,
+0020401196,172,2,1,2,5:28 PM,7:54,,,MISS Terry 25' 3PT Jump Shot,,
+0020401196,173,4,0,2,5:28 PM,7:53,,,Mavericks Rebound,,
+0020401196,174,1,1,2,5:28 PM,7:49,,,Nowitzki 17' Jump Shot (13 PTS) (Terry 5 AST),38 - 35,-3
+0020401196,175,2,1,2,5:29 PM,7:37,MISS Vujacic 26' 3PT Jump Shot,,,,
+0020401196,176,4,0,2,5:29 PM,7:34,,,Daniels REBOUND (Off:0 Def:1),,
+0020401196,177,2,1,2,5:29 PM,7:17,,,MISS Daniels 13' Jump Shot,,
+0020401196,179,4,0,2,5:29 PM,7:16,,,Dampier REBOUND (Off:1 Def:0),,
+0020401196,178,2,4,2,5:29 PM,7:16,,,MISS Dampier  Tip Shot,,
+0020401196,180,4,0,2,5:29 PM,7:13,Mihm REBOUND (Off:1 Def:1),,,,
+0020401196,181,6,2,2,5:29 PM,7:09,,,Dampier S.FOUL (P2.T2),,
+0020401196,182,3,11,2,5:29 PM,7:09,MISS Mihm Free Throw 1 of 2,,,,
+0020401196,183,4,1,2,5:29 PM,7:09,LAKERS Rebound,,,,
+0020401196,184,3,12,2,5:29 PM,7:09,Mihm Free Throw 2 of 2 (5 PTS),,,38 - 36,-2
+0020401196,185,2,1,2,5:30 PM,6:50,Mihm BLOCK (1 BLK),,MISS Van Horn 6' Jump Shot,,
+0020401196,186,4,0,2,5:30 PM,6:50,,,Mavericks Rebound,,
+0020401196,187,1,1,2,5:30 PM,6:47,,,Terry 16' Jump Shot (4 PTS) (Daniels 1 AST),40 - 36,-4
+0020401196,188,2,1,2,5:31 PM,6:24,MISS Walton 27' 3PT Jump Shot,,,,
+0020401196,189,4,0,2,5:31 PM,6:21,,,Terry REBOUND (Off:0 Def:2),,
+0020401196,190,5,1,2,5:31 PM,6:20,Walton STEAL (1 STL),,Nowitzki Bad Pass Turnover (P2.T7),,
+0020401196,191,2,5,2,5:31 PM,6:15,MISS Vujacic  Layup,,Nowitzki BLOCK (2 BLK),,
+0020401196,192,4,0,2,5:31 PM,6:13,Walton REBOUND (Off:2 Def:3),,,,
+0020401196,193,1,1,2,5:31 PM,6:03,Mihm 18' Jump Shot (7 PTS) (Vujacic 3 AST),,,40 - 38,-2
+0020401196,194,2,5,2,5:31 PM,5:54,,,MISS Terry  Layup,,
+0020401196,195,4,0,2,5:31 PM,5:54,,,Mavericks Rebound,,
+0020401196,196,9,1,2,5:31 PM,5:54,LAKERS Timeout: Regular (Full 2 Short 0),,,,
+0020401196,198,8,0,2,5:34 PM,5:54,SUB: Atkins FOR Vujacic,,,,
+0020401196,199,8,0,2,5:34 PM,5:54,SUB: Butler FOR George,,,,
+0020401196,200,8,0,2,5:34 PM,5:54,SUB: Bryant FOR Walton,,,,
+0020401196,201,8,0,2,5:35 PM,5:54,,,SUB: Finley FOR Van Horn,,
+0020401196,202,5,1,2,5:35 PM,5:46,Butler STEAL (1 STL),,Terry Bad Pass Turnover (P3.T8),,
+0020401196,203,1,1,2,5:36 PM,5:38,Mihm 22' Jump Shot (9 PTS) (Jones 1 AST),,,40 - 40,TIE
+0020401196,204,1,1,2,5:36 PM,5:25,,,Daniels 24' 3PT Jump Shot (5 PTS) (Finley 1 AST),43 - 40,-3
+0020401196,205,1,1,2,5:36 PM,5:11,Bryant 18' Jump Shot (9 PTS) (Jones 2 AST),,,43 - 42,-1
+0020401196,206,1,56,2,5:36 PM,4:52,,,Dampier 7' Running Hook Shot (4 PTS) (Finley 2 AST),45 - 42,-3
+0020401196,207,6,2,2,5:36 PM,4:52,Mihm S.FOUL (P2.T1),,,,
+0020401196,208,8,0,2,5:37 PM,4:52,,,SUB: Howard FOR Daniels,,
+0020401196,209,3,10,2,5:37 PM,4:52,,,Dampier Free Throw 1 of 1 (5 PTS),46 - 42,-4
+0020401196,210,2,1,2,5:37 PM,4:33,MISS Mihm 9' Jump Shot,,,,
+0020401196,211,4,0,2,5:37 PM,4:31,,,Terry REBOUND (Off:0 Def:3),,
+0020401196,212,1,1,2,5:38 PM,4:16,,,Finley 25' 3PT Jump Shot (13 PTS) (Terry 6 AST),49 - 42,-7
+0020401196,213,2,5,2,5:38 PM,3:56,MISS Jones  Layup,,,,
+0020401196,214,4,0,2,5:38 PM,3:55,,,Nowitzki REBOUND (Off:1 Def:3),,
+0020401196,215,1,1,2,5:38 PM,3:43,,,Dampier 5' Jump Shot (7 PTS) (Terry 7 AST),51 - 42,-9
+0020401196,216,1,5,2,5:38 PM,3:27,Mihm  Layup (11 PTS) (Atkins 3 AST),,,51 - 44,-7
+0020401196,217,1,8,2,5:39 PM,3:06,,,Dampier  Slam Dunk (9 PTS) (Terry 8 AST),53 - 44,-9
+0020401196,218,5,1,2,5:39 PM,2:52,Bryant Bad Pass Turnover (P4.T10),,Nowitzki STEAL (2 STL),,
+0020401196,219,1,1,2,5:39 PM,2:30,,,Finley 25' 3PT Jump Shot (16 PTS) (Nowitzki 2 AST),56 - 44,-12
+0020401196,220,9,2,2,5:39 PM,2:27,LAKERS Timeout: Short (Full 2 Short 1),,,,
+0020401196,222,9,1,2,5:40 PM,2:27,,,Mavericks Timeout: Regular (Reg.2 Short 0),,
+0020401196,225,2,1,2,5:43 PM,2:14,MISS Mihm 12' Jump Shot,,,,
+0020401196,226,4,0,2,5:43 PM,2:12,Jones REBOUND (Off:3 Def:1),,,,
+0020401196,227,2,59,2,5:43 PM,2:06,MISS Butler  Finger Roll,,,,
+0020401196,228,4,0,2,5:43 PM,2:04,,,Dampier REBOUND (Off:1 Def:1),,
+0020401196,229,2,1,2,5:44 PM,1:49,,,MISS Nowitzki 26' 3PT Jump Shot,,
+0020401196,230,4,0,2,5:44 PM,1:49,,,Mavericks Rebound,,
+0020401196,231,6,3,2,5:44 PM,1:49,Mihm L.B.FOUL (P3.T2),,,,
+0020401196,232,8,0,2,5:44 PM,1:49,,,SUB: Van Horn FOR Nowitzki,,
+0020401196,233,8,0,2,5:44 PM,1:49,SUB: Grant FOR Mihm,,,,
+0020401196,234,2,1,2,5:44 PM,1:38,,,MISS Finley 21' Jump Shot,,
+0020401196,235,4,0,2,5:44 PM,1:37,Bryant REBOUND (Off:2 Def:2),,,,
+0020401196,236,2,1,2,5:45 PM,1:15,MISS Butler 22' Jump Shot,,,,
+0020401196,237,4,0,2,5:45 PM,1:13,,,Dampier REBOUND (Off:1 Def:2),,
+0020401196,238,2,1,2,5:45 PM,0:55,,,MISS Terry 7' Jump Shot,,
+0020401196,239,4,0,2,5:45 PM,0:53,Butler REBOUND (Off:2 Def:1),,,,
+0020401196,240,2,5,2,5:45 PM,0:48,MISS Butler  Layup,,,,
+0020401196,242,4,0,2,5:45 PM,0:46,Butler REBOUND (Off:3 Def:1),,,,
+0020401196,241,2,4,2,5:45 PM,0:46,MISS Butler  Tip Shot,,,,
+0020401196,243,4,0,2,5:45 PM,0:44,Atkins REBOUND (Off:1 Def:1),,,,
+0020401196,244,1,1,2,5:45 PM,0:35,Bryant 29' 3PT Jump Shot (12 PTS) (Atkins 4 AST),,,56 - 47,-9
+0020401196,245,2,1,2,5:46 PM,0:12,,,MISS Finley 16' Jump Shot,,
+0020401196,246,4,0,2,5:46 PM,0:10,Jones REBOUND (Off:3 Def:2),,,,
+0020401196,247,1,42,2,5:46 PM,0:02,Bryant  Driving Layup (14 PTS),,,56 - 49,-7
+0020401196,248,2,1,2,5:46 PM,0:00,,,MISS Terry 42' 3PT Jump Shot,,
+0020401196,249,4,0,2,5:46 PM,0:00,,,Mavericks Rebound,,
+0020401196,250,13,0,2,5:46 PM,0:00,,,,56 - 49,-7
+0020401196,253,12,0,3,6:04 PM,12:00,,,,56 - 49,-7
+0020401196,254,2,1,3,6:05 PM,11:40,,,MISS Finley 24' 3PT Jump Shot,,
+0020401196,255,4,0,3,6:05 PM,11:38,Jones REBOUND (Off:3 Def:3),,,,
+0020401196,256,1,1,3,6:05 PM,11:21,Atkins 28' 3PT Jump Shot (5 PTS) (Bryant 3 AST),,,56 - 52,-4
+0020401196,257,6,1,3,6:05 PM,11:10,Butler P.FOUL (P3.T1),,,,
+0020401196,258,1,66,3,6:05 PM,11:02,,,Terry 7' Jump Bank Shot (6 PTS),58 - 52,-6
+0020401196,259,1,5,3,6:06 PM,10:43,Mihm  Layup (13 PTS) (Bryant 4 AST),,,58 - 54,-4
+0020401196,260,1,46,3,6:06 PM,10:23,,,Terry 11' Running Jump Shot (8 PTS),60 - 54,-6
+0020401196,261,5,40,3,6:06 PM,10:10,Bryant Out of Bounds Lost Ball Turnover (P5.T11),,,,
+0020401196,262,1,58,3,6:07 PM,9:54,,,Dampier 9' Turnaround Hook Shot (11 PTS),62 - 54,-8
+0020401196,263,1,1,3,6:07 PM,9:34,Jones 27' 3PT Jump Shot (12 PTS) (Bryant 5 AST),,,62 - 57,-5
+0020401196,264,2,1,3,6:07 PM,9:15,,,MISS Finley 11' Jump Shot,,
+0020401196,265,4,0,3,6:07 PM,9:15,LAKERS Rebound,,,,
+0020401196,266,6,2,3,6:08 PM,9:01,,,Dampier S.FOUL (P3.T1),,
+0020401196,267,3,11,3,6:08 PM,9:01,MISS Jones Free Throw 1 of 2,,,,
+0020401196,268,4,1,3,6:08 PM,9:01,LAKERS Rebound,,,,
+0020401196,269,3,12,3,6:08 PM,9:01,MISS Jones Free Throw 2 of 2,,,,
+0020401196,270,4,0,3,6:09 PM,9:00,,,Howard REBOUND (Off:1 Def:2),,
+0020401196,271,2,42,3,6:09 PM,8:52,,,MISS Howard  Driving Layup,,
+0020401196,272,4,0,3,6:09 PM,8:51,Butler REBOUND (Off:3 Def:2),,,,
+0020401196,273,5,2,3,6:09 PM,8:45,Bryant Lost Ball Turnover (P6.T12),,Terry STEAL (1 STL),,
+0020401196,274,1,42,3,6:09 PM,8:41,,,Howard  Driving Layup (7 PTS),64 - 57,-7
+0020401196,275,6,1,3,6:09 PM,8:32,,,Finley P.FOUL (P2.T2),,
+0020401196,276,2,1,3,6:10 PM,8:18,MISS Bryant 27' 3PT Jump Shot,,,,
+0020401196,277,4,0,3,6:10 PM,8:16,,,Howard REBOUND (Off:1 Def:3),,
+0020401196,278,2,1,3,6:10 PM,8:10,,,MISS Nowitzki 16' Jump Shot,,
+0020401196,279,4,0,3,6:10 PM,8:08,Butler REBOUND (Off:3 Def:3),,,,
+0020401196,280,2,1,3,6:10 PM,8:02,MISS Atkins 19' Jump Shot,,,,
+0020401196,281,4,0,3,6:10 PM,8:00,Bryant REBOUND (Off:3 Def:2),,,,
+0020401196,282,1,5,3,6:10 PM,7:58,Bryant  Layup (16 PTS),,,64 - 59,-5
+0020401196,283,2,5,3,6:10 PM,7:40,,,MISS Nowitzki  Layup,,
+0020401196,284,4,0,3,6:10 PM,7:39,Jones REBOUND (Off:3 Def:4),,,,
+0020401196,285,1,5,3,6:10 PM,7:32,Jones  Layup (14 PTS) (Bryant 6 AST),,,64 - 61,-3
+0020401196,286,9,1,3,6:10 PM,7:31,,,Mavericks Timeout: Regular (Reg.3 Short 0),,
+0020401196,290,1,42,3,6:14 PM,7:15,,,Howard  Driving Layup (9 PTS) (Terry 9 AST),66 - 61,-5
+0020401196,291,2,1,3,6:15 PM,6:52,MISS Atkins 25' 3PT Jump Shot,,,,
+0020401196,292,4,0,3,6:15 PM,6:50,,,Nowitzki REBOUND (Off:1 Def:4),,
+0020401196,293,2,1,3,6:15 PM,6:42,,,MISS Nowitzki 15' Jump Shot,,
+0020401196,294,4,0,3,6:15 PM,6:40,Mihm REBOUND (Off:1 Def:2),,,,
+0020401196,295,2,1,3,6:15 PM,6:33,MISS Jones 27' 3PT Jump Shot,,,,
+0020401196,296,4,0,3,6:15 PM,6:31,LAKERS Rebound,,,,
+0020401196,297,1,1,3,6:16 PM,6:20,Butler 14' Jump Shot (8 PTS) (Atkins 5 AST),,,66 - 63,-3
+0020401196,298,1,57,3,6:16 PM,5:57,,,Dampier 3' Driving Hook Shot (13 PTS),68 - 63,-5
+0020401196,299,1,1,3,6:16 PM,5:36,Bryant 29' 3PT Jump Shot (19 PTS) (Jones 3 AST),,,68 - 66,-2
+0020401196,300,5,1,3,6:17 PM,5:20,Butler STEAL (2 STL),,Howard Bad Pass Turnover (P1.T9),,
+0020401196,301,5,1,3,6:17 PM,5:09,Atkins Bad Pass Turnover (P2.T13),,Nowitzki STEAL (3 STL),,
+0020401196,302,2,5,3,6:17 PM,5:04,,,MISS Howard  Layup,,
+0020401196,303,4,0,3,6:17 PM,5:04,,,Nowitzki REBOUND (Off:2 Def:4),,
+0020401196,304,1,5,3,6:17 PM,5:04,,,Nowitzki  Layup (15 PTS),70 - 66,-4
+0020401196,305,6,2,3,6:17 PM,5:04,Jones S.FOUL (P2.T2),,,,
+0020401196,306,8,0,3,6:17 PM,5:04,,,SUB: Stackhouse FOR Finley,,
+0020401196,307,3,10,3,6:17 PM,5:04,,,Nowitzki Free Throw 1 of 1 (16 PTS),71 - 66,-5
+0020401196,308,2,5,3,6:18 PM,4:53,MISS Bryant  Layup,,,,
+0020401196,309,4,0,3,6:18 PM,4:52,,,Dampier REBOUND (Off:1 Def:3),,
+0020401196,310,6,11,3,6:18 PM,4:51,Bryant T.FOUL (P1.T2),,,,
+0020401196,311,3,16,3,6:18 PM,4:51,,,Nowitzki Free Throw Technical (17 PTS),72 - 66,-6
+0020401196,312,2,44,3,6:18 PM,4:36,,,MISS Stackhouse  Reverse Layup,,
+0020401196,313,4,0,3,6:19 PM,4:36,,,Dampier REBOUND (Off:2 Def:3),,
+0020401196,314,6,1,3,6:19 PM,4:36,Bryant P.FOUL (P2.T3),,,,
+0020401196,315,6,2,3,6:19 PM,4:26,Mihm S.FOUL (P4.T4),,,,
+0020401196,316,3,11,3,6:19 PM,4:26,,,Howard Free Throw 1 of 2 (10 PTS),73 - 66,-7
+0020401196,317,8,0,3,6:20 PM,4:26,SUB: Grant FOR Mihm,,,,
+0020401196,318,3,12,3,6:20 PM,4:26,,,Howard Free Throw 2 of 2 (11 PTS),74 - 66,-8
+0020401196,319,2,1,3,6:20 PM,4:10,MISS Bryant 27' 3PT Jump Shot,,,,
+0020401196,320,4,0,3,6:20 PM,4:09,,,Mavericks Rebound,,
+0020401196,321,2,1,3,6:21 PM,3:48,,,MISS Stackhouse 22' Jump Shot,,
+0020401196,322,4,0,3,6:21 PM,3:46,LAKERS Rebound,,,,
+0020401196,323,2,1,3,6:21 PM,3:36,MISS Atkins 29' 3PT Jump Shot,,,,
+0020401196,324,4,0,3,6:21 PM,3:35,,,Nowitzki REBOUND (Off:2 Def:5),,
+0020401196,325,2,42,3,6:21 PM,3:21,,,MISS Howard  Driving Layup,,
+0020401196,326,4,0,3,6:21 PM,3:21,LAKERS Rebound,,,,
+0020401196,327,6,3,3,6:21 PM,3:21,,,Howard L.B.FOUL (P3.T3),,
+0020401196,328,5,1,3,6:22 PM,3:03,Jones Bad Pass Turnover (P2.T14),,Stackhouse STEAL (2 STL),,
+0020401196,329,6,1,3,6:22 PM,3:03,Grant P.FOUL (P1.PN),,,,
+0020401196,330,3,11,3,6:22 PM,3:03,,,Stackhouse Free Throw 1 of 2 (3 PTS),75 - 66,-9
+0020401196,331,3,12,3,6:22 PM,3:03,,,Stackhouse Free Throw 2 of 2 (4 PTS),76 - 66,-10
+0020401196,332,9,1,3,6:23 PM,3:03,LAKERS Timeout: Regular (Full 3 Short 1),,,,
+0020401196,335,5,1,3,6:26 PM,2:49,Bryant Bad Pass Turnover (P7.T15),,Stackhouse STEAL (3 STL),,
+0020401196,336,1,42,3,6:26 PM,2:43,,,Howard  Driving Layup (13 PTS) (Stackhouse 1 AST),78 - 66,-12
+0020401196,337,5,1,3,6:26 PM,2:30,Bryant Bad Pass Turnover (P8.T16),,,,
+0020401196,338,8,0,3,6:26 PM,2:30,SUB: Walton FOR Bryant,,,,
+0020401196,339,6,1,3,6:27 PM,2:12,Walton P.FOUL (P2.PN),,,,
+0020401196,340,3,11,3,6:27 PM,2:12,,,MISS Stackhouse Free Throw 1 of 2,,
+0020401196,341,4,1,3,6:27 PM,2:12,,,Mavericks Rebound,,
+0020401196,342,3,12,3,6:27 PM,2:12,,,Stackhouse Free Throw 2 of 2 (5 PTS),79 - 66,-13
+0020401196,343,6,1,3,6:28 PM,2:02,,,Stackhouse P.FOUL (P2.T4),,
+0020401196,344,8,0,3,6:28 PM,2:02,,,SUB: Bradley FOR Dampier,,
+0020401196,345,6,1,3,6:28 PM,1:53,,,Nowitzki P.FOUL (P2.PN),,
+0020401196,346,3,11,3,6:29 PM,1:53,Atkins Free Throw 1 of 2 (6 PTS),,,79 - 67,-12
+0020401196,347,3,12,3,6:29 PM,1:53,Atkins Free Throw 2 of 2 (7 PTS),,,79 - 68,-11
+0020401196,348,1,1,3,6:29 PM,1:34,,,Stackhouse 17' Jump Shot (7 PTS),81 - 68,-13
+0020401196,349,5,1,3,6:30 PM,1:08,Walton Bad Pass Turnover (P4.T17),,Stackhouse STEAL (4 STL),,
+0020401196,350,1,8,3,6:30 PM,1:05,,,Stackhouse  Slam Dunk (9 PTS),83 - 68,-15
+0020401196,351,1,1,3,6:30 PM,0:51,Butler 15' Jump Shot (10 PTS) (Atkins 6 AST),,,83 - 70,-13
+0020401196,352,6,2,3,6:31 PM,0:46,Grant S.FOUL (P2.PN),,,,
+0020401196,353,3,11,3,6:31 PM,0:46,,,Nowitzki Free Throw 1 of 2 (18 PTS),84 - 70,-14
+0020401196,354,3,12,3,6:31 PM,0:46,,,Nowitzki Free Throw 2 of 2 (19 PTS),85 - 70,-15
+0020401196,355,2,5,3,6:31 PM,0:33,MISS Grant  Layup,,,,
+0020401196,356,4,0,3,6:31 PM,0:32,,,Stackhouse REBOUND (Off:0 Def:1),,
+0020401196,357,2,1,3,6:32 PM,0:09,,,MISS Terry 19' Jump Shot,,
+0020401196,358,4,0,3,6:32 PM,0:05,Atkins REBOUND (Off:1 Def:2),,,,
+0020401196,359,2,1,3,6:32 PM,0:00,MISS Butler 16' Jump Shot,,,,
+0020401196,360,4,0,3,6:32 PM,0:00,,,Mavericks Rebound,,
+0020401196,361,13,0,3,6:32 PM,0:00,,,,85 - 70,-15
+0020401196,363,12,0,4,6:36 PM,12:00,,,,85 - 70,-15
+0020401196,364,2,1,4,6:36 PM,11:41,MISS Walton 5' Jump Shot,,Bradley BLOCK (2 BLK),,
+0020401196,365,4,0,4,6:36 PM,11:39,,,Bradley REBOUND (Off:0 Def:1),,
+0020401196,366,6,2,4,6:37 PM,11:19,George S.FOUL (P1.T1),,,,
+0020401196,367,8,0,4,6:37 PM,11:19,,,SUB: Harris FOR Terry,,
+0020401196,368,3,11,4,6:37 PM,11:19,,,Bradley Free Throw 1 of 2 (1 PTS),86 - 70,-16
+0020401196,369,3,12,4,6:37 PM,11:19,,,MISS Bradley Free Throw 2 of 2,,
+0020401196,370,4,0,4,6:37 PM,11:18,George REBOUND (Off:0 Def:1),,,,
+0020401196,371,1,1,4,6:37 PM,11:01,Walton 26' 3PT Jump Shot (5 PTS) (Divac 2 AST),,,86 - 73,-13
+0020401196,372,2,1,4,6:38 PM,10:43,,,MISS Finley 18' Jump Shot,,
+0020401196,373,4,0,4,6:38 PM,10:40,George REBOUND (Off:0 Def:2),,,,
+0020401196,374,1,44,4,6:38 PM,10:31,Walton  Reverse Layup (7 PTS) (Divac 3 AST),,,86 - 75,-11
+0020401196,375,9,2,4,6:38 PM,10:07,,,Mavericks Timeout: Short (Reg.3 Short 1),,
+0020401196,377,5,11,4,6:40 PM,10:05,,,Mavericks Turnover: Shot Clock (T#10),,
+0020401196,378,1,1,4,6:40 PM,9:51,George 23' Jump Shot (2 PTS) (Walton 1 AST),,,86 - 77,-9
+0020401196,379,9,1,4,6:40 PM,9:47,,,Mavericks Timeout: Regular (Reg.4 Short 1),,
+0020401196,381,8,0,4,6:43 PM,9:47,,,SUB: Terry FOR Harris,,
+0020401196,382,8,0,4,6:43 PM,9:47,,,SUB: Nowitzki FOR Bradley,,
+0020401196,383,8,0,4,6:43 PM,9:47,SUB: Jones FOR Divac,,,,
+0020401196,384,1,46,4,6:44 PM,9:33,,,Terry 19' Running Jump Shot (10 PTS),88 - 77,-11
+0020401196,385,6,1,4,6:44 PM,9:17,,,Van Horn P.FOUL (P1.T1),,
+0020401196,386,1,1,4,6:45 PM,9:06,Atkins 25' 3PT Jump Shot (10 PTS) (Vujacic 4 AST),,,88 - 80,-8
+0020401196,387,1,1,4,6:45 PM,8:41,,,Van Horn 24' 3PT Jump Shot (5 PTS) (Finley 3 AST),91 - 80,-11
+0020401196,388,2,1,4,6:45 PM,8:29,MISS Atkins 24' 3PT Jump Shot,,,,
+0020401196,389,4,0,4,6:45 PM,8:27,,,Stackhouse REBOUND (Off:0 Def:2),,
+0020401196,390,1,1,4,6:45 PM,8:09,,,Finley 15' Jump Shot (18 PTS) (Nowitzki 3 AST),93 - 80,-13
+0020401196,391,6,1,4,6:46 PM,7:56,,,Terry P.FOUL (P1.T2),,
+0020401196,392,2,42,4,6:46 PM,7:45,MISS Vujacic  Driving Layup,,,,
+0020401196,393,4,0,4,6:46 PM,7:43,,,Finley REBOUND (Off:0 Def:2),,
+0020401196,394,2,1,4,6:47 PM,7:20,,,MISS Van Horn 27' 3PT Jump Shot,,
+0020401196,395,4,0,4,6:47 PM,7:20,,,Mavericks Rebound,,
+0020401196,396,5,11,4,6:47 PM,7:20,,,Mavericks Turnover: Shot Clock (T#11),,
+0020401196,397,5,1,4,6:47 PM,7:04,Atkins Bad Pass Turnover (P3.T18),,Nowitzki STEAL (4 STL),,
+0020401196,398,1,8,4,6:47 PM,7:01,,,Nowitzki  Slam Dunk (21 PTS) (Terry 10 AST),95 - 80,-15
+0020401196,399,9,1,4,6:47 PM,6:59,LAKERS Timeout: Regular (Full 4 Short 1),,,,
+0020401196,401,8,0,4,6:50 PM,6:59,SUB: Bryant FOR Atkins,,,,
+0020401196,402,6,2,4,6:51 PM,6:40,,,Nowitzki S.FOUL (P3.T3),,
+0020401196,403,3,11,4,6:51 PM,6:40,George Free Throw 1 of 2 (3 PTS),,,95 - 81,-14
+0020401196,404,3,12,4,6:51 PM,6:40,George Free Throw 2 of 2 (4 PTS),,,95 - 82,-13
+0020401196,405,2,1,4,6:52 PM,6:24,,,MISS Finley 15' Jump Shot,,
+0020401196,406,4,0,4,6:52 PM,6:22,,,Van Horn REBOUND (Off:1 Def:0),,
+0020401196,407,6,2,4,6:52 PM,6:21,Jones S.FOUL (P3.T2),,,,
+0020401196,408,3,11,4,6:52 PM,6:21,,,Van Horn Free Throw 1 of 2 (6 PTS),96 - 82,-14
+0020401196,409,3,12,4,6:53 PM,6:21,,,MISS Van Horn Free Throw 2 of 2,,
+0020401196,410,4,0,4,6:53 PM,6:20,LAKERS Rebound,,,,
+0020401196,411,6,2,4,6:53 PM,6:00,,,Terry S.FOUL (P2.T4),,
+0020401196,412,3,11,4,6:53 PM,6:00,Vujacic Free Throw 1 of 2 (3 PTS),,,96 - 83,-13
+0020401196,413,3,12,4,6:54 PM,6:00,Vujacic Free Throw 2 of 2 (4 PTS),,,96 - 84,-12
+0020401196,414,9,1,4,6:54 PM,5:52,,,Mavericks Timeout: Regular (Reg.5 Short 1),,
+0020401196,416,6,2,4,6:58 PM,5:43,Walton S.FOUL (P3.T3),,,,
+0020401196,417,3,11,4,6:58 PM,5:43,,,Stackhouse Free Throw 1 of 2 (10 PTS),97 - 84,-13
+0020401196,418,3,12,4,6:58 PM,5:43,,,Stackhouse Free Throw 2 of 2 (11 PTS),98 - 84,-14
+0020401196,419,5,1,4,6:58 PM,5:32,Vujacic Bad Pass Turnover (P1.T19),,Stackhouse STEAL (5 STL),,
+0020401196,420,1,42,4,6:58 PM,5:27,,,Terry  Driving Layup (12 PTS) (Stackhouse 2 AST),100 - 84,-16
+0020401196,421,1,1,4,6:59 PM,5:11,Walton 25' 3PT Jump Shot (10 PTS) (George 1 AST),,,100 - 87,-13
+0020401196,422,6,2,4,6:59 PM,4:53,Walton S.FOUL (P4.T4),,,,
+0020401196,423,8,0,4,6:59 PM,4:53,,,SUB: Dampier FOR Van Horn,,
+0020401196,424,3,11,4,6:59 PM,4:53,,,Nowitzki Free Throw 1 of 2 (22 PTS),101 - 87,-14
+0020401196,425,3,12,4,7:00 PM,4:53,,,Nowitzki Free Throw 2 of 2 (23 PTS),102 - 87,-15
+0020401196,427,6,1,4,7:00 PM,4:40,,,Stackhouse P.FOUL (P3.PN),,
+0020401196,428,3,11,4,7:00 PM,4:40,Bryant Free Throw 1 of 2 (20 PTS),,,102 - 88,-14
+0020401196,429,3,12,4,7:01 PM,4:40,Bryant Free Throw 2 of 2 (21 PTS),,,102 - 89,-13
+0020401196,430,6,2,4,7:01 PM,4:25,George S.FOUL (P2.PN),,,,
+0020401196,432,3,11,4,7:01 PM,4:25,,,Stackhouse Free Throw 1 of 2 (12 PTS),103 - 89,-14
+0020401196,433,3,12,4,7:02 PM,4:25,,,MISS Stackhouse Free Throw 2 of 2,,
+0020401196,434,4,0,4,7:02 PM,4:24,Jones REBOUND (Off:3 Def:5),,,,
+0020401196,435,1,47,4,7:02 PM,3:59,Bryant 24' 3PT Turnaround Jump Shot (24 PTS),,,103 - 92,-11
+0020401196,436,5,1,4,7:03 PM,3:44,Bryant STEAL (2 STL),,Finley Bad Pass Turnover (P1.T12),,
+0020401196,437,1,1,4,7:03 PM,3:40,Bryant 26' 3PT Jump Shot (27 PTS),,,103 - 95,-8
+0020401196,438,1,1,4,7:03 PM,3:14,,,Terry 27' 3PT Jump Shot (15 PTS) (Finley 4 AST),106 - 95,-11
+0020401196,439,2,1,4,7:04 PM,3:04,MISS Jones 26' 3PT Jump Shot,,,,
+0020401196,440,4,0,4,7:04 PM,3:02,,,Terry REBOUND (Off:0 Def:4),,
+0020401196,441,6,4,4,7:04 PM,3:00,,,Terry OFF.Foul (P3),,
+0020401196,442,5,5,4,7:04 PM,3:00,,,Terry Foul Turnover (P4.T13),,
+0020401196,443,8,0,4,7:04 PM,3:00,,,SUB: Van Horn FOR Dampier,,
+0020401196,444,2,1,4,7:04 PM,2:49,MISS George 25' 3PT Jump Shot,,,,
+0020401196,445,4,0,4,7:04 PM,2:47,,,Stackhouse REBOUND (Off:0 Def:3),,
+0020401196,446,2,1,4,7:05 PM,2:30,,,MISS Nowitzki 12' Jump Shot,,
+0020401196,447,4,0,4,7:05 PM,2:28,Bryant REBOUND (Off:3 Def:3),,,,
+0020401196,448,1,1,4,7:05 PM,2:18,George 26' 3PT Jump Shot (7 PTS) (Bryant 7 AST),,,106 - 98,-8
+0020401196,449,1,42,4,7:05 PM,1:55,,,Terry  Driving Layup (17 PTS),108 - 98,-10
+0020401196,450,2,1,4,7:05 PM,1:43,MISS Vujacic 27' 3PT Jump Shot,,,,
+0020401196,451,4,0,4,7:05 PM,1:42,Bryant REBOUND (Off:4 Def:3),,,,
+0020401196,452,2,1,4,7:05 PM,1:39,MISS Bryant 27' 3PT Jump Shot,,,,
+0020401196,453,4,0,4,7:05 PM,1:38,,,Stackhouse REBOUND (Off:0 Def:4),,
+0020401196,454,5,1,4,7:06 PM,1:18,,,Terry Bad Pass Turnover (P5.T14),,
+0020401196,455,9,1,4,7:06 PM,1:18,LAKERS Timeout: Regular (Full 5 Short 1),,,,
+0020401196,457,8,0,4,7:08 PM,1:18,,,SUB: Howard FOR Van Horn,,
+0020401196,458,1,42,4,7:09 PM,1:14,Bryant  Driving Layup (29 PTS) (Walton 2 AST),,,108 - 100,-8
+0020401196,459,5,2,4,7:09 PM,1:09,Vujacic STEAL (1 STL),,Stackhouse Lost Ball Turnover (P2.T15),,
+0020401196,460,2,5,4,7:09 PM,1:07,MISS Vujacic  Layup,,,,
+0020401196,461,4,0,4,7:09 PM,1:07,LAKERS Rebound,,,,
+0020401196,462,6,3,4,7:09 PM,1:07,,,Stackhouse L.B.FOUL (P4.PN),,
+0020401196,463,3,11,4,7:09 PM,1:07,Bryant Free Throw 1 of 2 (30 PTS),,,108 - 101,-7
+0020401196,465,8,0,4,7:09 PM,1:07,,,SUB: Harris FOR Howard,,
+0020401196,466,3,12,4,7:09 PM,1:07,Bryant Free Throw 2 of 2 (31 PTS),,,108 - 102,-6
+0020401196,467,5,1,4,7:10 PM,1:03,,,Terry Bad Pass Turnover (P6.T16),,
+0020401196,468,5,13,4,7:10 PM,0:51,Jones Backcourt Turnover (P3.T20),,,,
+0020401196,469,5,1,4,7:11 PM,0:45,Vujacic STEAL (2 STL),,Nowitzki Bad Pass Turnover (P3.T17),,
+0020401196,470,2,1,4,7:11 PM,0:38,MISS Bryant 26' 3PT Jump Shot,,,,
+0020401196,472,4,0,4,7:11 PM,0:36,Jones REBOUND (Off:4 Def:5),,,,
+0020401196,471,2,4,4,7:11 PM,0:36,MISS Jones  Tip Shot,,,,
+0020401196,473,4,0,4,7:11 PM,0:36,,,Nowitzki REBOUND (Off:2 Def:6),,
+0020401196,474,6,1,4,7:11 PM,0:36,Jones P.FOUL (P4.PN),,,,
+0020401196,475,6,16,4,7:12 PM,0:36,,,,,
+0020401196,476,3,11,4,7:13 PM,0:36,,,MISS Nowitzki Free Throw 1 of 2,,
+0020401196,477,4,1,4,7:13 PM,0:36,,,Mavericks Rebound,,
+0020401196,478,3,12,4,7:13 PM,0:36,,,Nowitzki Free Throw 2 of 2 (24 PTS),109 - 102,-7
+0020401196,479,9,2,4,7:13 PM,0:36,LAKERS Timeout: Short (Full 5 Short 2),,,,
+0020401196,484,1,49,4,7:14 PM,0:33,Walton  Driving Dunk (12 PTS) (Bryant 8 AST),,,109 - 104,-5
+0020401196,485,6,1,4,7:15 PM,0:25,Walton P.FOUL (P5.PN),,,,
+0020401196,486,3,11,4,7:15 PM,0:25,,,Finley Free Throw 1 of 2 (19 PTS),110 - 104,-6
+0020401196,487,3,12,4,7:15 PM,0:25,,,Finley Free Throw 2 of 2 (20 PTS),111 - 104,-7
+0020401196,488,9,1,4,7:16 PM,0:25,LAKERS Timeout: Regular (Full 6 Short 2),,,,
+0020401196,493,8,0,4,7:17 PM,0:25,,,SUB: Armstrong FOR Harris,,
+0020401196,491,2,1,4,7:18 PM,0:21,MISS Vujacic 27' 3PT Jump Shot,,,,
+0020401196,492,4,0,4,7:18 PM,0:20,,,Mavericks Rebound,,
+0020401196,494,6,1,4,7:18 PM,0:19,George P.FOUL (P3.PN),,,,
+0020401196,495,8,0,4,7:18 PM,0:19,,,SUB: Harris FOR Terry,,
+0020401196,496,3,11,4,7:18 PM,0:19,,,Stackhouse Free Throw 1 of 2 (13 PTS),112 - 104,-8
+0020401196,497,3,12,4,7:19 PM,0:19,,,Stackhouse Free Throw 2 of 2 (14 PTS),113 - 104,-9
+0020401196,498,1,1,4,7:19 PM,0:11,Vujacic  3PT Jump Shot (7 PTS) (Bryant 9 AST),,,113 - 107,-6
+0020401196,499,6,1,4,7:19 PM,0:10,Vujacic P.FOUL (P1.PN),,,,
+0020401196,500,3,11,4,7:20 PM,0:10,,,MISS Armstrong Free Throw 1 of 2,,
+0020401196,501,4,1,4,7:20 PM,0:10,,,Mavericks Rebound,,
+0020401196,502,3,12,4,7:20 PM,0:10,,,MISS Armstrong Free Throw 2 of 2,,
+0020401196,503,4,0,4,7:20 PM,0:08,George REBOUND (Off:0 Def:3),,,,
+0020401196,504,1,1,4,7:20 PM,0:03,George 28' 3PT Jump Shot (10 PTS),,,113 - 110,-3
+0020401196,505,6,1,4,7:20 PM,0:02,Jones P.FOUL (P5.PN),,,,
+0020401196,506,3,11,4,7:20 PM,0:02,,,MISS Stackhouse Free Throw 1 of 2,,
+0020401196,510,4,0,4,7:21 PM,0:02,,,Mavericks Rebound,,
+0020401196,509,3,12,4,7:21 PM,0:02,,,Stackhouse Free Throw 2 of 2 (15 PTS),114 - 110,-4
+0020401196,511,6,1,4,7:21 PM,0:01,,,Nowitzki P.FOUL (P4.PN),,
+0020401196,512,3,13,4,7:21 PM,0:01,Bryant Free Throw 1 of 3 (32 PTS),,,114 - 111,-3
+0020401196,513,3,14,4,7:21 PM,0:01,Bryant Free Throw 2 of 3 (33 PTS),,,114 - 112,-2
+0020401196,514,8,0,4,7:22 PM,0:01,SUB: Grant FOR Jones,,,,
+0020401196,515,8,0,4,7:22 PM,0:01,SUB: Mihm FOR George,,,,
+0020401196,517,8,0,4,7:22 PM,0:01,,,SUB: Van Horn FOR Armstrong,,
+0020401196,518,3,15,4,7:22 PM,0:01,MISS Bryant Free Throw 3 of 3,,,,
+0020401196,519,4,0,4,7:23 PM,0:00,,,Mavericks Rebound,,
+0020401196,520,13,0,4,7:23 PM,0:00,,,,114 - 112,-2

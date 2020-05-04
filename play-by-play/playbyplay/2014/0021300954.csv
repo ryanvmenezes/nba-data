@@ -1,0 +1,456 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021300954,0,12,0,1,8:11 PM,12:00,,,,,
+0021300954,1,10,0,1,8:11 PM,12:00,Jump Ball Pekovic vs. Henson: Tip to Brewer,,,,
+0021300954,2,2,42,1,8:11 PM,11:56,MISS Brewer 2' Driving Layup,,,,
+0021300954,3,4,0,1,8:11 PM,11:55,,,Pachulia REBOUND (Off:0 Def:1),,
+0021300954,4,5,40,1,8:11 PM,11:46,,,Knight Out of Bounds Lost Ball Turnover (P1.T1),,
+0021300954,5,2,46,1,8:12 PM,11:29,MISS Pekovic 7' Running Jump Shot,,,,
+0021300954,7,4,0,1,8:12 PM,11:27,Brewer REBOUND (Off:1 Def:0),,,,
+0021300954,6,1,4,1,8:12 PM,11:27,Brewer 1' Tip Shot (2 PTS),,,0 - 2,2
+0021300954,8,1,73,1,8:12 PM,11:14,,,Knight  Driving Reverse Layup (2 PTS) (Pachulia 1 AST),2 - 2,TIE
+0021300954,9,6,29,1,8:12 PM,10:56,,,Pachulia Shooting Block Foul (P1.T1),,
+0021300954,10,3,11,1,8:12 PM,10:56,Martin Free Throw 1 of 2 (1 PTS),,,2 - 3,1
+0021300954,12,3,12,1,8:13 PM,10:56,MISS Martin Free Throw 2 of 2,,,,
+0021300954,14,4,0,1,8:13 PM,10:55,,,Pachulia REBOUND (Off:0 Def:2),,
+0021300954,17,1,5,1,8:14 PM,10:38,,,Wolters 1' Layup (2 PTS) (Pachulia 2 AST),4 - 3,-1
+0021300954,18,2,1,1,8:14 PM,10:20,MISS Martin 18' Jump Shot,,,,
+0021300954,19,4,0,1,8:14 PM,10:19,Love REBOUND (Off:1 Def:0),,,,
+0021300954,20,2,1,1,8:14 PM,10:15,MISS Love 9' Jump Shot,,,,
+0021300954,21,4,0,1,8:14 PM,10:14,Rubio REBOUND (Off:1 Def:0),,,,
+0021300954,22,1,42,1,8:14 PM,10:10,Rubio  Driving Layup (2 PTS),,,4 - 5,1
+0021300954,23,1,79,1,8:14 PM,9:57,,,Knight 20' Pullup Jump Shot (4 PTS) (Pachulia 3 AST),6 - 5,-1
+0021300954,24,1,41,1,8:15 PM,9:46,Martin 3' Running Layup (3 PTS) (Rubio 1 AST),,,6 - 7,1
+0021300954,25,1,79,1,8:15 PM,9:30,,,Wolters 20' Pullup Jump Shot (4 PTS),8 - 7,-1
+0021300954,26,2,1,1,8:15 PM,9:19,MISS Love 25' 3PT Jump Shot,,,,
+0021300954,27,4,0,1,8:15 PM,9:15,,,Middleton REBOUND (Off:0 Def:1),,
+0021300954,28,1,42,1,8:15 PM,9:10,,,Knight 1' Driving Layup (6 PTS) (Middleton 1 AST),10 - 7,-3
+0021300954,29,2,1,1,8:15 PM,8:49,MISS Martin  3PT Jump Shot,,,,
+0021300954,30,4,0,1,8:15 PM,8:48,,,Knight REBOUND (Off:0 Def:1),,
+0021300954,31,6,1,1,8:16 PM,8:46,Rubio P.FOUL (P1.T1),,,,
+0021300954,32,6,1,1,8:16 PM,8:35,Pekovic P.FOUL (P1.T2),,,,
+0021300954,33,1,1,1,8:17 PM,8:20,,,Knight 12' Jump Shot (8 PTS),12 - 7,-5
+0021300954,34,2,5,1,8:17 PM,8:09,MISS Martin 2' Layup,,,,
+0021300954,35,4,0,1,8:17 PM,8:07,Pekovic REBOUND (Off:1 Def:0),,,,
+0021300954,36,2,5,1,8:17 PM,8:05,MISS Pekovic 1' Layup,,,,
+0021300954,37,4,0,1,8:17 PM,8:04,,,Pachulia REBOUND (Off:0 Def:3),,
+0021300954,38,1,5,1,8:17 PM,7:58,,,Knight 2' Layup (10 PTS) (Wolters 1 AST),14 - 7,-7
+0021300954,39,6,1,1,8:17 PM,7:43,,,Henson P.FOUL (P1.T2),,
+0021300954,40,1,1,1,8:18 PM,7:39,Love 22' Jump Shot (2 PTS) (Rubio 2 AST),,,14 - 9,-5
+0021300954,41,1,1,1,8:18 PM,7:21,,,Pachulia 15' Jump Shot (2 PTS) (Middleton 2 AST),16 - 9,-7
+0021300954,42,1,5,1,8:18 PM,7:06,Love 1' Layup (4 PTS) (Rubio 3 AST),,,16 - 11,-5
+0021300954,43,1,65,1,8:18 PM,6:53,,,Henson 10' Jump Hook Shot (2 PTS) (Pachulia 4 AST),18 - 11,-7
+0021300954,44,6,1,1,8:19 PM,6:39,,,Wolters P.FOUL (P1.T3),,
+0021300954,45,5,1,1,8:19 PM,6:34,Martin Bad Pass Turnover (P1.T1),,Middleton STEAL (1 STL),,
+0021300954,46,1,42,1,8:19 PM,6:30,,,Middleton 2' Driving Layup (2 PTS),20 - 11,-9
+0021300954,47,9,1,1,8:19 PM,6:21,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,
+0021300954,49,2,58,1,8:22 PM,6:11,MISS Pekovic 11' Turnaround Hook Shot,,,,
+0021300954,51,4,0,1,8:22 PM,6:09,Love REBOUND (Off:2 Def:0),,,,
+0021300954,50,1,54,1,8:22 PM,6:09,Love 1' Running Tip Shot (6 PTS),,,20 - 13,-7
+0021300954,52,1,1,1,8:22 PM,5:46,,,Henson 6' Jump Shot (4 PTS),22 - 13,-9
+0021300954,53,2,49,1,8:23 PM,5:33,MISS Brewer 1' Driving Dunk,,Henson BLOCK (1 BLK),,
+0021300954,54,4,0,1,8:23 PM,5:32,,,Henson REBOUND (Off:0 Def:1),,
+0021300954,55,5,1,1,8:23 PM,5:24,Pekovic STEAL (1 STL),,Knight Bad Pass Turnover (P2.T2),,
+0021300954,56,1,5,1,8:23 PM,5:18,Martin 3' Layup (5 PTS) (Love 1 AST),,,22 - 15,-7
+0021300954,57,6,2,1,8:23 PM,5:18,,,Middleton S.FOUL (P1.T4),,
+0021300954,58,3,10,1,8:23 PM,5:18,Martin Free Throw 1 of 1 (6 PTS),,,22 - 16,-6
+0021300954,60,1,1,1,8:23 PM,5:06,,,Middleton 15' Jump Shot (4 PTS) (Knight 1 AST),24 - 16,-8
+0021300954,61,1,5,1,8:24 PM,4:54,Martin  Layup (8 PTS) (Rubio 4 AST),,,24 - 18,-6
+0021300954,62,2,47,1,8:24 PM,4:35,,,MISS Middleton 15' Turnaround Jump Shot,,
+0021300954,63,4,0,1,8:24 PM,4:34,Love REBOUND (Off:2 Def:1),,,,
+0021300954,64,2,5,1,8:24 PM,4:28,MISS Brewer 2' Layup,,,,
+0021300954,66,4,0,1,8:24 PM,4:26,Pekovic REBOUND (Off:2 Def:0),,,,
+0021300954,65,1,4,1,8:24 PM,4:26,Pekovic 1' Tip Shot (2 PTS),,,24 - 20,-4
+0021300954,67,2,1,1,8:25 PM,4:02,,,MISS Henson 20' Jump Shot,,
+0021300954,68,4,0,1,8:25 PM,4:00,Martin REBOUND (Off:0 Def:1),,,,
+0021300954,69,2,1,1,8:25 PM,3:56,MISS Martin 10' Jump Shot,,,,
+0021300954,70,4,0,1,8:25 PM,3:55,,,Henson REBOUND (Off:0 Def:2),,
+0021300954,71,5,2,1,8:25 PM,3:53,Rubio STEAL (1 STL),,Knight Lost Ball Turnover (P3.T3),,
+0021300954,72,1,42,1,8:25 PM,3:49,Pekovic  Driving Layup (4 PTS) (Rubio 5 AST),,,24 - 22,-2
+0021300954,73,9,1,1,8:25 PM,3:40,,,Bucks Timeout: Regular (Reg.1 Short 0),,
+0021300954,75,8,0,1,8:27 PM,3:40,,,SUB: Antetokounmpo FOR Pachulia,,
+0021300954,76,8,0,1,8:27 PM,3:40,,,SUB: Adrien FOR Wolters,,
+0021300954,77,1,1,1,8:28 PM,3:27,,,Adrien 19' Jump Shot (2 PTS) (Knight 2 AST),26 - 22,-4
+0021300954,78,2,1,1,8:28 PM,3:12,MISS Love 20' Jump Shot,,,,
+0021300954,79,4,0,1,8:28 PM,3:11,,,Henson REBOUND (Off:0 Def:3),,
+0021300954,80,6,2,1,8:28 PM,2:58,Pekovic S.FOUL (P2.T3),,,,
+0021300954,81,3,11,1,8:28 PM,2:58,,,Adrien Free Throw 1 of 2 (3 PTS),27 - 22,-5
+0021300954,83,8,0,1,8:29 PM,2:58,SUB: Cunningham FOR Pekovic,,,,
+0021300954,84,8,0,1,8:29 PM,2:58,SUB: Barea FOR Rubio,,,,
+0021300954,85,8,0,1,8:29 PM,2:58,,,SUB: Sessions FOR Knight,,
+0021300954,86,3,12,1,8:29 PM,2:58,,,Adrien Free Throw 2 of 2 (4 PTS),28 - 22,-6
+0021300954,88,2,1,1,8:29 PM,2:38,MISS Martin 25' 3PT Jump Shot,,,,
+0021300954,89,4,0,1,8:29 PM,2:37,,,Bucks Rebound,,
+0021300954,90,8,0,1,8:30 PM,2:37,,,SUB: Wolters FOR Middleton,,
+0021300954,91,6,1,1,8:30 PM,2:16,Barea P.FOUL (P1.T4),,,,
+0021300954,92,8,0,1,8:30 PM,2:16,SUB: Budinger FOR Martin,,,,
+0021300954,93,1,41,1,8:31 PM,2:11,,,Sessions 1' Running Layup (2 PTS),30 - 22,-8
+0021300954,94,5,4,1,8:31 PM,1:55,Brewer Traveling Turnover (P1.T2),,,,
+0021300954,95,8,0,1,8:31 PM,1:55,,,SUB: Udoh FOR Henson,,
+0021300954,96,1,1,1,8:31 PM,1:42,,,Sessions 24' 3PT Jump Shot (5 PTS) (Udoh 1 AST),33 - 22,-11
+0021300954,97,6,1,1,8:32 PM,1:34,,,Udoh P.FOUL (P1.PN),,
+0021300954,98,3,11,1,8:32 PM,1:34,MISS Love Free Throw 1 of 2,,,,
+0021300954,99,4,1,1,8:32 PM,1:34,TIMBERWOLVES Rebound,,,,
+0021300954,100,3,12,1,8:32 PM,1:34,Love Free Throw 2 of 2 (7 PTS),,,33 - 23,-10
+0021300954,102,2,46,1,8:32 PM,1:17,,,MISS Wolters 7' Running Jump Shot,,
+0021300954,103,4,0,1,8:32 PM,1:16,Budinger REBOUND (Off:0 Def:1),,,,
+0021300954,104,6,4,1,8:33 PM,1:12,Cunningham OFF.Foul (P1),,,,
+0021300954,105,5,5,1,8:33 PM,1:12,Cunningham Foul Turnover (P1.T3),,,,
+0021300954,106,2,46,1,8:33 PM,1:02,,,MISS Antetokounmpo 10' Running Jump Shot,,
+0021300954,107,4,0,1,8:33 PM,1:00,,,Antetokounmpo REBOUND (Off:1 Def:0),,
+0021300954,108,2,65,1,8:33 PM,0:47,,,MISS Udoh 13' Jump Hook Shot,,
+0021300954,109,4,0,1,8:33 PM,0:45,TIMBERWOLVES Rebound,,,,
+0021300954,110,1,42,1,8:33 PM,0:40,Barea 1' Driving Layup (2 PTS),,,33 - 25,-8
+0021300954,111,5,1,1,8:34 PM,0:30,Brewer STEAL (1 STL),,Wolters Bad Pass Turnover (P1.T4),,
+0021300954,112,1,42,1,8:34 PM,0:27,Barea  Driving Layup (4 PTS) (Brewer 1 AST),,,33 - 27,-6
+0021300954,113,6,2,1,8:34 PM,0:27,,,Sessions S.FOUL (P1.PN),,
+0021300954,114,3,10,1,8:34 PM,0:27,Barea Free Throw 1 of 1 (5 PTS),,,33 - 28,-5
+0021300954,116,2,1,1,8:35 PM,0:06,Love BLOCK (1 BLK),,MISS Sessions 3' Jump Shot,,
+0021300954,117,4,0,1,8:35 PM,0:04,Budinger REBOUND (Off:0 Def:2),,,,
+0021300954,118,2,7,1,8:35 PM,0:02,MISS Brewer 2' Dunk,,,,
+0021300954,119,4,0,1,8:35 PM,0:02,,,Bucks Rebound,,
+0021300954,121,13,0,1,8:35 PM,0:00,,,,33 - 28,-5
+0021300954,123,12,0,2,8:38 PM,12:00,,,,33 - 28,-5
+0021300954,124,2,1,2,8:38 PM,11:36,,,MISS Antetokounmpo 8' Jump Shot,,
+0021300954,126,4,0,2,8:38 PM,11:35,,,Adrien REBOUND (Off:1 Def:0),,
+0021300954,125,1,4,2,8:38 PM,11:35,,,Adrien  Tip Shot (6 PTS),35 - 28,-7
+0021300954,127,1,1,2,8:39 PM,11:20,Love 8' Jump Shot (9 PTS) (Barea 1 AST),,,35 - 30,-5
+0021300954,128,6,2,2,8:39 PM,11:20,,,Udoh S.FOUL (P2.T1),,
+0021300954,129,8,0,2,8:39 PM,11:20,SUB: Rubio FOR Brewer,,,,
+0021300954,130,3,10,2,8:39 PM,11:20,MISS Love Free Throw 1 of 1,,,,
+0021300954,132,4,0,2,8:39 PM,11:20,,,Adrien REBOUND (Off:1 Def:1),,
+0021300954,133,1,1,2,8:40 PM,10:59,,,Wolters 26' 3PT Jump Shot (7 PTS) (Antetokounmpo 1 AST),38 - 30,-8
+0021300954,134,1,1,2,8:40 PM,10:45,Barea 25' 3PT Jump Shot (8 PTS) (Rubio 6 AST),,,38 - 33,-5
+0021300954,135,6,2,2,8:40 PM,10:24,Budinger S.FOUL (P1.T1),,,,
+0021300954,136,3,11,2,8:40 PM,10:24,,,Antetokounmpo Free Throw 1 of 2 (1 PTS),39 - 33,-6
+0021300954,138,3,12,2,8:40 PM,10:24,,,Antetokounmpo Free Throw 2 of 2 (2 PTS),40 - 33,-7
+0021300954,140,2,1,2,8:41 PM,10:13,MISS Love 13' Jump Shot,,Udoh BLOCK (1 BLK),,
+0021300954,141,4,0,2,8:41 PM,10:12,,,Wolters REBOUND (Off:0 Def:1),,
+0021300954,142,2,1,2,8:41 PM,9:54,,,MISS Sessions 25' 3PT Jump Shot,,
+0021300954,143,4,0,2,8:41 PM,9:53,Love REBOUND (Off:2 Def:2),,,,
+0021300954,144,1,42,2,8:41 PM,9:46,Barea 2' Driving Layup (10 PTS),,,40 - 35,-5
+0021300954,145,6,2,2,8:41 PM,9:46,,,Wolters S.FOUL (P2.T2),,
+0021300954,146,8,0,2,8:42 PM,9:46,SUB: Pekovic FOR Love,,,,
+0021300954,148,8,0,2,8:42 PM,9:46,,,SUB: Knight FOR Wolters,,
+0021300954,149,8,0,2,8:42 PM,9:46,,,SUB: Henson FOR Udoh,,
+0021300954,150,3,10,2,8:42 PM,9:46,MISS Barea Free Throw 1 of 1,,,,
+0021300954,152,4,0,2,8:42 PM,9:44,Cunningham REBOUND (Off:1 Def:0),,,,
+0021300954,153,2,5,2,8:42 PM,9:42,MISS Cunningham  Layup,,Adrien BLOCK (1 BLK),,
+0021300954,154,4,0,2,8:42 PM,9:41,,,Sessions REBOUND (Off:0 Def:1),,
+0021300954,155,2,5,2,8:42 PM,9:36,Cunningham BLOCK (1 BLK),,MISS Sessions 2' Layup,,
+0021300954,156,4,0,2,8:42 PM,9:34,,,Adrien REBOUND (Off:2 Def:1),,
+0021300954,157,5,1,2,8:42 PM,9:32,,,Adrien Bad Pass Turnover (P1.T5),,
+0021300954,158,6,2,2,8:43 PM,9:21,,,Adrien S.FOUL (P1.T3),,
+0021300954,159,3,11,2,8:43 PM,9:21,Pekovic Free Throw 1 of 2 (5 PTS),,,40 - 36,-4
+0021300954,161,8,0,2,8:43 PM,9:21,,,SUB: Pachulia FOR Adrien,,
+0021300954,162,3,12,2,8:43 PM,9:21,MISS Pekovic Free Throw 2 of 2,,,,
+0021300954,164,4,0,2,8:43 PM,9:20,,,Henson REBOUND (Off:0 Def:4),,
+0021300954,165,2,1,2,8:44 PM,9:02,,,MISS Antetokounmpo 20' Jump Shot,,
+0021300954,166,4,0,2,8:44 PM,9:01,Barea REBOUND (Off:0 Def:1),,,,
+0021300954,167,2,1,2,8:44 PM,8:53,MISS Budinger  3PT Jump Shot,,,,
+0021300954,168,4,0,2,8:44 PM,8:51,Barea REBOUND (Off:1 Def:1),,,,
+0021300954,169,1,5,2,8:44 PM,8:47,Budinger 1' Layup (2 PTS) (Barea 2 AST),,,40 - 38,-2
+0021300954,170,6,1,2,8:44 PM,8:24,Rubio P.FOUL (P2.T2),,,,
+0021300954,171,9,1,2,8:45 PM,8:24,,,,,
+0021300954,173,18,0,2,8:46 PM,8:24,,,,,
+0021300954,175,8,0,2,8:47 PM,8:24,SUB: Martin FOR Rubio,,,,
+0021300954,176,2,1,2,8:47 PM,8:11,,,MISS Knight 27' 3PT Jump Shot,,
+0021300954,177,4,0,2,8:47 PM,8:10,Martin REBOUND (Off:0 Def:2),,,,
+0021300954,178,2,1,2,8:48 PM,7:53,MISS Martin 24' 3PT Jump Shot,,,,
+0021300954,179,4,0,2,8:48 PM,7:50,,,Antetokounmpo REBOUND (Off:1 Def:1),,
+0021300954,180,2,58,2,8:48 PM,7:31,,,MISS Henson 6' Turnaround Hook Shot,,
+0021300954,181,4,0,2,8:48 PM,7:30,,,Bucks Rebound,,
+0021300954,182,8,0,2,8:48 PM,7:30,,,SUB: Middleton FOR Antetokounmpo,,
+0021300954,183,2,42,2,8:49 PM,7:24,,,MISS Knight  Driving Layup,,
+0021300954,184,4,0,2,8:49 PM,7:23,TIMBERWOLVES Rebound,,,,
+0021300954,185,1,1,2,8:50 PM,7:14,Cunningham 19' Jump Shot (2 PTS) (Budinger 1 AST),,,40 - 40,TIE
+0021300954,186,1,1,2,8:50 PM,7:02,,,Pachulia 21' Jump Shot (4 PTS) (Sessions 1 AST),42 - 40,-2
+0021300954,187,1,74,2,8:50 PM,6:44,Martin 1' Running Reverse Layup (10 PTS) (Pekovic 1 AST),,,42 - 42,TIE
+0021300954,188,2,1,2,8:50 PM,6:27,,,MISS Knight 17' Jump Shot,,
+0021300954,189,4,0,2,8:50 PM,6:25,Pekovic REBOUND (Off:2 Def:1),,,,
+0021300954,190,2,1,2,8:51 PM,6:11,MISS Cunningham 19' Jump Shot,,,,
+0021300954,191,4,0,2,8:51 PM,6:10,Pekovic REBOUND (Off:3 Def:1),,,,
+0021300954,192,2,1,2,8:51 PM,6:02,MISS Budinger 24' 3PT Jump Shot,,,,
+0021300954,193,4,0,2,8:51 PM,5:59,,,Sessions REBOUND (Off:0 Def:2),,
+0021300954,194,2,1,2,8:51 PM,5:52,,,MISS Middleton  3PT Jump Shot,,
+0021300954,195,4,0,2,8:51 PM,5:51,TIMBERWOLVES Rebound,,,,
+0021300954,196,9,1,2,8:51 PM,5:51,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,
+0021300954,198,8,0,2,8:53 PM,5:51,SUB: Love FOR Pekovic,,,,
+0021300954,199,1,1,2,8:54 PM,5:37,Barea 25' 3PT Jump Shot (13 PTS),,,42 - 45,3
+0021300954,200,1,73,2,8:54 PM,5:12,,,Pachulia 1' Driving Reverse Layup (6 PTS) (Henson 1 AST),44 - 45,1
+0021300954,201,2,1,2,8:55 PM,5:00,MISS Love 25' 3PT Jump Shot,,,,
+0021300954,202,4,0,2,8:55 PM,4:59,,,Sessions REBOUND (Off:0 Def:3),,
+0021300954,204,8,0,2,8:55 PM,4:45,SUB: Brewer FOR Budinger,,,,
+0021300954,205,6,1,2,8:55 PM,4:42,Martin P.FOUL (P1.T3),,,,
+0021300954,206,1,56,2,8:56 PM,4:31,,,Pachulia 7' Running Hook Shot (8 PTS) (Henson 2 AST),46 - 45,-1
+0021300954,207,1,1,2,8:56 PM,4:20,Martin 9' Jump Shot (12 PTS),,,46 - 47,1
+0021300954,208,1,1,2,8:56 PM,4:03,,,Knight 25' 3PT Jump Shot (13 PTS),49 - 47,-2
+0021300954,209,1,42,2,8:57 PM,3:45,Barea 1' Driving Layup (15 PTS),,,49 - 49,TIE
+0021300954,210,1,3,2,8:57 PM,3:25,,,Henson 4' Hook Shot (6 PTS) (Knight 3 AST),51 - 49,-2
+0021300954,211,6,1,2,8:57 PM,3:09,,,Middleton P.FOUL (P2.T4),,
+0021300954,212,8,0,2,8:57 PM,3:09,SUB: Pekovic FOR Cunningham,,,,
+0021300954,213,8,0,2,8:57 PM,3:09,,,SUB: Antetokounmpo FOR Sessions,,
+0021300954,214,5,4,2,8:58 PM,2:58,Martin Traveling Turnover (P2.T4),,,,
+0021300954,215,9,1,2,8:58 PM,2:58,,,Bucks Timeout: Regular (Reg.2 Short 0),,
+0021300954,217,1,1,2,9:01 PM,2:44,,,Middleton 14' Jump Shot (6 PTS) (Pachulia 5 AST),53 - 49,-4
+0021300954,218,5,2,2,9:01 PM,2:30,Barea Lost Ball Turnover (P1.T5),,Knight STEAL (1 STL),,
+0021300954,219,6,9,2,9:01 PM,2:28,Barea C.P.FOUL (P2.T4),,,,
+0021300954,220,18,0,2,9:02 PM,2:28,,,,,
+0021300954,221,3,25,2,9:02 PM,2:28,,,MISS Knight Free Throw Clear Path 1 of 2,,
+0021300954,222,4,1,2,9:02 PM,2:28,,,Bucks Rebound,,
+0021300954,223,3,26,2,9:02 PM,2:28,,,Knight Free Throw Clear Path 2 of 2 (14 PTS),54 - 49,-5
+0021300954,225,6,1,2,9:03 PM,2:22,Martin P.FOUL (P2.PN),,,,
+0021300954,226,3,11,2,9:03 PM,2:22,,,Antetokounmpo Free Throw 1 of 2 (3 PTS),55 - 49,-6
+0021300954,228,3,12,2,9:03 PM,2:22,,,Antetokounmpo Free Throw 2 of 2 (4 PTS),56 - 49,-7
+0021300954,230,6,1,2,9:04 PM,2:15,,,Antetokounmpo P.FOUL (P1.PN),,
+0021300954,231,3,11,2,9:04 PM,2:15,Martin Free Throw 1 of 2 (13 PTS),,,56 - 50,-6
+0021300954,233,3,12,2,9:04 PM,2:15,Martin Free Throw 2 of 2 (14 PTS),,,56 - 51,-5
+0021300954,235,2,1,2,9:04 PM,2:06,,,MISS Knight 26' 3PT Jump Shot,,
+0021300954,236,4,0,2,9:04 PM,2:05,,,Middleton REBOUND (Off:1 Def:1),,
+0021300954,237,6,2,2,9:05 PM,2:04,Brewer S.FOUL (P1.PN),,,,
+0021300954,238,3,11,2,9:05 PM,2:04,,,Middleton Free Throw 1 of 2 (7 PTS),57 - 51,-6
+0021300954,240,3,12,2,9:05 PM,2:04,,,Middleton Free Throw 2 of 2 (8 PTS),58 - 51,-7
+0021300954,242,2,5,2,9:05 PM,1:50,MISS Barea 2' Layup,,,,
+0021300954,243,4,0,2,9:05 PM,1:48,Pekovic REBOUND (Off:4 Def:1),,,,
+0021300954,244,1,5,2,9:05 PM,1:46,Pekovic 1' Layup (7 PTS),,,58 - 53,-5
+0021300954,245,7,5,2,9:06 PM,1:30,Pekovic Violation:Kicked Ball,,,,
+0021300954,246,8,0,2,9:06 PM,1:30,,,SUB: Sessions FOR Middleton,,
+0021300954,247,1,42,2,9:06 PM,1:27,,,Sessions  Driving Layup (7 PTS) (Pachulia 6 AST),60 - 53,-7
+0021300954,248,2,5,2,9:06 PM,1:13,MISS Martin 1' Layup,,,,
+0021300954,249,4,0,2,9:06 PM,1:12,,,Pachulia REBOUND (Off:0 Def:4),,
+0021300954,250,6,2,2,9:06 PM,1:08,Brewer S.FOUL (P2.PN),,,,
+0021300954,251,3,11,2,9:07 PM,1:08,,,MISS Henson Free Throw 1 of 2,,
+0021300954,252,4,1,2,9:07 PM,1:08,,,Bucks Rebound,,
+0021300954,253,3,12,2,9:07 PM,1:08,,,MISS Henson Free Throw 2 of 2,,
+0021300954,255,4,0,2,9:07 PM,1:08,,,Bucks Rebound,,
+0021300954,256,6,3,2,9:07 PM,1:08,Pekovic L.B.FOUL (P3.PN),,,,
+0021300954,257,9,2,2,9:08 PM,1:08,TIMBERWOLVES Timeout: Short (Full 2 Short 1),,,,
+0021300954,259,8,0,2,9:08 PM,1:08,SUB: Cunningham FOR Pekovic,,,,
+0021300954,263,3,11,2,9:09 PM,1:08,,,Pachulia Free Throw 1 of 2 (9 PTS),61 - 53,-8
+0021300954,265,3,12,2,9:09 PM,1:08,,,MISS Pachulia Free Throw 2 of 2,,
+0021300954,267,4,0,2,9:09 PM,1:08,Brewer REBOUND (Off:1 Def:1),,,,
+0021300954,269,2,1,2,9:09 PM,0:51,MISS Martin 21' Jump Shot,,,,
+0021300954,270,4,0,2,9:09 PM,0:50,,,Henson REBOUND (Off:0 Def:5),,
+0021300954,274,2,42,2,9:10 PM,0:26,,,MISS Pachulia 3' Driving Layup,,
+0021300954,271,4,0,2,9:10 PM,0:26,Brewer REBOUND (Off:1 Def:2),,,,
+0021300954,273,6,2,2,9:10 PM,0:08,,,Henson S.FOUL (P2.PN),,
+0021300954,275,3,11,2,9:10 PM,0:08,Barea Free Throw 1 of 2 (16 PTS),,,61 - 54,-7
+0021300954,277,3,12,2,9:10 PM,0:08,Barea Free Throw 2 of 2 (17 PTS),,,61 - 55,-6
+0021300954,280,13,0,2,9:11 PM,0:00,,,,61 - 55,-6
+0021300954,282,12,0,3,9:27 PM,12:00,,,,61 - 55,-6
+0021300954,283,1,1,3,9:27 PM,11:45,,,Knight 20' Jump Shot (16 PTS) (Pachulia 7 AST),63 - 55,-8
+0021300954,284,2,65,3,9:27 PM,11:29,MISS Love 12' Jump Hook Shot,,,,
+0021300954,285,4,0,3,9:27 PM,11:28,,,Wolters REBOUND (Off:0 Def:2),,
+0021300954,286,2,1,3,9:28 PM,11:05,,,MISS Knight 25' 3PT Jump Shot,,
+0021300954,287,4,0,3,9:28 PM,11:04,,,Middleton REBOUND (Off:2 Def:1),,
+0021300954,288,1,65,3,9:28 PM,10:45,,,Henson 7' Jump Hook Shot (8 PTS) (Pachulia 8 AST),65 - 55,-10
+0021300954,289,2,1,3,9:28 PM,10:30,MISS Love 25' 3PT Jump Shot,,,,
+0021300954,290,4,0,3,9:28 PM,10:29,,,Pachulia REBOUND (Off:0 Def:5),,
+0021300954,291,5,40,3,9:28 PM,10:20,,,Wolters Out of Bounds Lost Ball Turnover (P2.T6),,
+0021300954,292,1,1,3,9:29 PM,10:08,Martin  3PT Jump Shot (17 PTS) (Love 2 AST),,,65 - 58,-7
+0021300954,293,2,1,3,9:29 PM,9:51,,,MISS Middleton 25' 3PT Jump Shot,,
+0021300954,294,4,0,3,9:29 PM,9:50,Pekovic REBOUND (Off:4 Def:2),,,,
+0021300954,295,1,1,3,9:29 PM,9:40,Rubio 25' 3PT Jump Shot (5 PTS) (Brewer 2 AST),,,65 - 61,-4
+0021300954,296,1,1,3,9:30 PM,9:13,,,Middleton  3PT Jump Shot (11 PTS) (Pachulia 9 AST),68 - 61,-7
+0021300954,297,2,1,3,9:30 PM,9:07,MISS Brewer 8' Jump Shot,,,,
+0021300954,299,4,0,3,9:30 PM,9:06,Pekovic REBOUND (Off:5 Def:2),,,,
+0021300954,298,1,4,3,9:30 PM,9:06,Pekovic 1' Tip Shot (9 PTS),,,68 - 63,-5
+0021300954,300,2,1,3,9:30 PM,8:53,,,MISS Knight 26' 3PT Jump Shot,,
+0021300954,301,4,0,3,9:30 PM,8:52,Rubio REBOUND (Off:1 Def:1),,,,
+0021300954,303,2,1,3,9:30 PM,8:40,MISS Love 21' Jump Shot,,,,
+0021300954,304,4,0,3,9:30 PM,8:39,,,Middleton REBOUND (Off:2 Def:2),,
+0021300954,305,1,3,3,9:31 PM,8:23,,,Henson 8' Hook Shot (10 PTS) (Wolters 2 AST),70 - 63,-7
+0021300954,306,6,2,3,9:31 PM,8:09,,,Pachulia S.FOUL (P2.T1),,
+0021300954,307,3,11,3,9:31 PM,8:09,Pekovic Free Throw 1 of 2 (10 PTS),,,70 - 64,-6
+0021300954,309,3,12,3,9:31 PM,8:09,MISS Pekovic Free Throw 2 of 2,,,,
+0021300954,311,4,0,3,9:32 PM,8:09,,,Henson REBOUND (Off:0 Def:6),,
+0021300954,312,2,46,3,9:32 PM,7:43,,,MISS Pachulia 7' Running Jump Shot,,
+0021300954,313,4,0,3,9:32 PM,7:42,Pekovic REBOUND (Off:5 Def:3),,,,
+0021300954,314,1,1,3,9:32 PM,7:34,Love 24' 3PT Jump Shot (12 PTS) (Brewer 3 AST),,,70 - 67,-3
+0021300954,315,5,1,3,9:32 PM,7:17,Martin STEAL (1 STL),,Middleton Bad Pass Turnover (P1.T7),,
+0021300954,316,1,7,3,9:32 PM,7:15,Martin 1' Dunk (19 PTS),,,70 - 69,-1
+0021300954,317,9,1,3,9:32 PM,7:14,,,Bucks Timeout: Regular (Reg.3 Short 0),,
+0021300954,319,1,1,3,9:35 PM,7:02,,,Wolters 25' 3PT Jump Shot (10 PTS) (Pachulia 10 AST),73 - 69,-4
+0021300954,320,1,1,3,9:35 PM,6:48,Love  3PT Jump Shot (15 PTS) (Rubio 7 AST),,,73 - 72,-1
+0021300954,321,5,40,3,9:36 PM,6:30,,,Henson Out of Bounds Lost Ball Turnover (P1.T8),,
+0021300954,322,1,5,3,9:36 PM,6:19,Love 1' Layup (17 PTS) (Rubio 8 AST),,,73 - 74,1
+0021300954,323,2,1,3,9:36 PM,5:57,,,MISS Pachulia 17' Jump Shot,,
+0021300954,324,4,0,3,9:36 PM,5:56,Brewer REBOUND (Off:1 Def:3),,,,
+0021300954,325,2,1,3,9:37 PM,5:50,MISS Love 25' 3PT Jump Shot,,,,
+0021300954,326,4,0,3,9:37 PM,5:48,,,Bucks Rebound,,
+0021300954,327,6,2,3,9:37 PM,5:34,Pekovic S.FOUL (P4.T1),,,,
+0021300954,328,3,11,3,9:37 PM,5:34,,,MISS Wolters Free Throw 1 of 2,,
+0021300954,329,4,1,3,9:37 PM,5:34,,,Bucks Rebound,,
+0021300954,330,8,0,3,9:37 PM,5:34,SUB: Cunningham FOR Pekovic,,,,
+0021300954,331,3,12,3,9:37 PM,5:34,,,Wolters Free Throw 2 of 2 (11 PTS),74 - 74,TIE
+0021300954,333,2,1,3,9:38 PM,5:25,MISS Cunningham 20' Jump Shot,,,,
+0021300954,334,4,0,3,9:38 PM,5:24,,,Henson REBOUND (Off:0 Def:7),,
+0021300954,335,5,2,3,9:38 PM,5:14,Brewer STEAL (2 STL),,Knight Lost Ball Turnover (P4.T9),,
+0021300954,336,6,2,3,9:38 PM,5:09,,,Middleton S.FOUL (P3.T2),,
+0021300954,337,3,11,3,9:38 PM,5:09,Martin Free Throw 1 of 2 (20 PTS),,,74 - 75,1
+0021300954,339,8,0,3,9:38 PM,5:09,,,SUB: Adrien FOR Pachulia,,
+0021300954,340,3,12,3,9:39 PM,5:09,Martin Free Throw 2 of 2 (21 PTS),,,74 - 76,2
+0021300954,342,2,1,3,9:39 PM,4:45,,,MISS Henson 18' Jump Shot,,
+0021300954,343,4,0,3,9:39 PM,4:44,Brewer REBOUND (Off:1 Def:4),,,,
+0021300954,344,2,5,3,9:39 PM,4:34,MISS Brewer 3' Layup,,Henson BLOCK (2 BLK),,
+0021300954,345,4,0,3,9:39 PM,4:33,TIMBERWOLVES Rebound,,,,
+0021300954,346,8,0,3,9:39 PM,4:33,,,SUB: Antetokounmpo FOR Wolters,,
+0021300954,347,2,5,3,9:40 PM,4:29,MISS Martin 3' Layup,,Adrien BLOCK (2 BLK),,
+0021300954,348,4,0,3,9:40 PM,4:28,,,Adrien REBOUND (Off:2 Def:2),,
+0021300954,349,6,1,3,9:40 PM,4:26,Brewer P.FOUL (P3.T2),,,,
+0021300954,350,1,1,3,9:40 PM,4:17,,,Adrien 19' Jump Shot (8 PTS) (Knight 4 AST),76 - 76,TIE
+0021300954,351,6,2,3,9:41 PM,4:05,,,Henson S.FOUL (P3.T3),,
+0021300954,352,3,11,3,9:41 PM,4:05,MISS Cunningham Free Throw 1 of 2,,,,
+0021300954,353,4,1,3,9:41 PM,4:05,TIMBERWOLVES Rebound,,,,
+0021300954,354,8,0,3,9:41 PM,4:05,,,SUB: Sessions FOR Middleton,,
+0021300954,355,3,12,3,9:41 PM,4:05,Cunningham Free Throw 2 of 2 (3 PTS),,,76 - 77,1
+0021300954,357,2,1,3,9:41 PM,3:53,,,MISS Knight 25' 3PT Jump Shot,,
+0021300954,358,4,0,3,9:41 PM,3:52,Love REBOUND (Off:2 Def:3),,,,
+0021300954,359,6,2,3,9:42 PM,3:43,,,Henson S.FOUL (P4.T4),,
+0021300954,360,3,11,3,9:42 PM,3:43,Rubio Free Throw 1 of 2 (6 PTS),,,76 - 78,2
+0021300954,362,8,0,3,9:42 PM,3:43,,,SUB: Udoh FOR Henson,,
+0021300954,363,3,12,3,9:42 PM,3:43,Rubio Free Throw 2 of 2 (7 PTS),,,76 - 79,3
+0021300954,365,2,7,3,9:42 PM,3:22,Love BLOCK (2 BLK),,MISS Adrien 2' Dunk,,
+0021300954,366,4,0,3,9:42 PM,3:21,Cunningham REBOUND (Off:1 Def:1),,,,
+0021300954,367,2,1,3,9:43 PM,3:13,MISS Love 25' 3PT Jump Shot,,,,
+0021300954,368,4,0,3,9:43 PM,3:12,,,Udoh REBOUND (Off:0 Def:1),,
+0021300954,369,6,26,3,9:43 PM,2:57,,,Knight Offensive Charge Foul (P1.PN),,
+0021300954,370,5,5,3,9:43 PM,2:57,,,Knight Foul Turnover (P5.T10),,
+0021300954,371,9,1,3,9:43 PM,2:57,TIMBERWOLVES Timeout: Regular (Full 3 Short 1),,,,
+0021300954,373,8,0,3,9:45 PM,2:57,,,SUB: Wolters FOR Knight,,
+0021300954,374,1,49,3,9:46 PM,2:47,Martin  Driving Dunk (23 PTS) (Love 3 AST),,,76 - 81,5
+0021300954,375,1,78,3,9:46 PM,2:22,,,Sessions 12' Floating Jump Shot (9 PTS),78 - 81,3
+0021300954,376,2,42,3,9:46 PM,2:02,MISS Rubio 1' Driving Layup,,,,
+0021300954,377,4,0,3,9:46 PM,2:01,,,Adrien REBOUND (Off:2 Def:3),,
+0021300954,378,1,1,3,9:47 PM,1:45,,,Adrien 18' Jump Shot (10 PTS) (Antetokounmpo 2 AST),80 - 81,1
+0021300954,379,1,1,3,9:47 PM,1:26,Martin 24' 3PT Jump Shot (26 PTS),,,80 - 84,4
+0021300954,380,5,1,3,9:47 PM,1:08,Cunningham STEAL (1 STL),,Antetokounmpo Bad Pass Turnover (P1.T11),,
+0021300954,381,6,2,3,9:47 PM,1:05,,,Wolters S.FOUL (P3.PN),,
+0021300954,382,3,11,3,9:48 PM,1:05,Brewer Free Throw 1 of 2 (3 PTS),,,80 - 85,5
+0021300954,384,8,0,3,9:48 PM,1:05,SUB: Barea FOR Rubio,,,,
+0021300954,385,3,12,3,9:48 PM,1:05,Brewer Free Throw 2 of 2 (4 PTS),,,80 - 86,6
+0021300954,387,2,5,3,9:48 PM,0:57,Love BLOCK (3 BLK),,MISS Sessions 2' Layup,,
+0021300954,388,4,0,3,9:48 PM,0:56,,,Bucks Rebound,,
+0021300954,389,1,1,3,9:49 PM,0:54,,,Wolters 13' Jump Shot (13 PTS) (Antetokounmpo 3 AST),82 - 86,4
+0021300954,390,2,1,3,9:49 PM,0:37,MISS Love 26' 3PT Jump Shot,,,,
+0021300954,391,4,0,3,9:49 PM,0:35,,,Antetokounmpo REBOUND (Off:1 Def:2),,
+0021300954,392,1,1,3,9:49 PM,0:18,,,Adrien 9' Jump Shot (12 PTS) (Sessions 2 AST),84 - 86,2
+0021300954,393,2,1,3,9:50 PM,0:01,MISS Cunningham 19' Jump Shot,,,,
+0021300954,394,4,0,3,9:50 PM,0:00,TIMBERWOLVES Rebound,,,,
+0021300954,395,13,0,3,9:50 PM,0:00,,,,84 - 86,2
+0021300954,397,12,0,4,9:52 PM,12:00,,,,84 - 86,2
+0021300954,398,6,2,4,9:52 PM,11:53,,,Udoh S.FOUL (P3.T1),,
+0021300954,399,3,11,4,9:53 PM,11:53,MISS Love Free Throw 1 of 2,,,,
+0021300954,400,4,1,4,9:53 PM,11:53,TIMBERWOLVES Rebound,,,,
+0021300954,401,3,12,4,9:53 PM,11:53,Love Free Throw 2 of 2 (18 PTS),,,84 - 87,3
+0021300954,403,6,2,4,9:53 PM,11:42,Cunningham S.FOUL (P2.T1),,,,
+0021300954,404,3,11,4,9:53 PM,11:42,,,MISS Adrien Free Throw 1 of 2,,
+0021300954,405,4,1,4,9:53 PM,11:42,,,Bucks Rebound,,
+0021300954,406,3,12,4,9:54 PM,11:42,,,MISS Adrien Free Throw 2 of 2,,
+0021300954,408,4,0,4,9:54 PM,11:42,Love REBOUND (Off:2 Def:4),,,,
+0021300954,409,2,80,4,9:54 PM,11:19,MISS Brewer 18' Step Back Jump Shot,,,,
+0021300954,410,4,0,4,9:54 PM,11:18,,,Wolters REBOUND (Off:0 Def:3),,
+0021300954,411,6,2,4,9:54 PM,11:13,Brewer S.FOUL (P4.T2),,,,
+0021300954,412,3,11,4,9:55 PM,11:13,,,MISS Wolters Free Throw 1 of 2,,
+0021300954,413,4,1,4,9:55 PM,11:13,,,Bucks Rebound,,
+0021300954,414,8,0,4,9:55 PM,11:13,SUB: Muhammad FOR Brewer,,,,
+0021300954,415,8,0,4,9:55 PM,11:13,SUB: Rubio FOR Martin,,,,
+0021300954,416,3,12,4,9:55 PM,11:13,,,Wolters Free Throw 2 of 2 (14 PTS),85 - 87,2
+0021300954,418,2,1,4,9:56 PM,10:53,MISS Muhammad 7' Jump Shot,,,,
+0021300954,419,4,0,4,9:56 PM,10:51,,,Antetokounmpo REBOUND (Off:1 Def:3),,
+0021300954,420,2,1,4,9:56 PM,10:32,,,MISS Sessions 8' Jump Shot,,
+0021300954,421,4,0,4,9:56 PM,10:31,Cunningham REBOUND (Off:1 Def:2),,,,
+0021300954,422,6,1,4,9:56 PM,10:30,,,Adrien P.FOUL (P2.T2),,
+0021300954,423,1,1,4,9:57 PM,10:08,Barea 20' Jump Shot (19 PTS),,,85 - 89,4
+0021300954,424,5,1,4,9:57 PM,9:42,,,Antetokounmpo Bad Pass Turnover (P2.T12),,
+0021300954,425,1,1,4,9:57 PM,9:21,Cunningham 20' Jump Shot (5 PTS) (Barea 3 AST),,,85 - 91,6
+0021300954,426,2,1,4,9:58 PM,9:02,,,MISS Antetokounmpo 25' 3PT Jump Shot,,
+0021300954,427,4,0,4,9:58 PM,9:01,TIMBERWOLVES Rebound,,,,
+0021300954,428,6,3,4,9:58 PM,9:01,,,Antetokounmpo L.B.FOUL (P2.T3),,
+0021300954,429,8,0,4,9:58 PM,9:01,,,SUB: Middleton FOR Antetokounmpo,,
+0021300954,430,5,4,4,9:58 PM,8:45,Cunningham Traveling Turnover (P2.T6),,,,
+0021300954,431,9,1,4,9:59 PM,8:45,,,,,
+0021300954,433,2,1,4,10:01 PM,8:33,,,MISS Sessions 10' Jump Shot,,
+0021300954,434,4,0,4,10:01 PM,8:32,TIMBERWOLVES Rebound,,,,
+0021300954,435,1,94,4,10:02 PM,8:13,Love 9' Jump Bank Hook Shot (20 PTS),,,85 - 93,8
+0021300954,436,5,1,4,10:02 PM,7:55,Rubio STEAL (2 STL),,Middleton Bad Pass Turnover (P2.T13),,
+0021300954,437,1,1,4,10:02 PM,7:41,Cunningham 14' Jump Shot (7 PTS) (Rubio 9 AST),,,85 - 95,10
+0021300954,438,9,1,4,10:03 PM,7:30,,,Bucks Timeout: Regular (Reg.4 Short 0),,
+0021300954,440,8,0,4,10:05 PM,7:30,,,SUB: Knight FOR Udoh,,
+0021300954,441,8,0,4,10:05 PM,7:30,,,SUB: Henson FOR Wolters,,
+0021300954,442,6,1,4,10:05 PM,7:22,Love P.FOUL (P1.T3),,,,
+0021300954,443,1,1,4,10:06 PM,7:14,,,Knight 20' Jump Shot (18 PTS),87 - 95,8
+0021300954,444,1,42,4,10:06 PM,6:58,Rubio 2' Driving Layup (9 PTS) (Love 4 AST),,,87 - 97,10
+0021300954,445,5,2,4,10:06 PM,6:50,Rubio STEAL (3 STL),,Middleton Lost Ball Turnover (P3.T14),,
+0021300954,446,6,1,4,10:06 PM,6:49,,,Middleton P.FOUL (P4.T4),,
+0021300954,447,1,1,4,10:07 PM,6:40,Love 21' Jump Shot (22 PTS),,,87 - 99,12
+0021300954,448,6,1,4,10:07 PM,6:28,Rubio P.FOUL (P3.T4),,,,
+0021300954,449,8,0,4,10:07 PM,6:28,,,SUB: Pachulia FOR Adrien,,
+0021300954,450,8,0,4,10:07 PM,6:28,SUB: Pekovic FOR Cunningham,,,,
+0021300954,451,6,1,4,10:07 PM,6:26,Rubio P.FOUL (P4.PN),,,,
+0021300954,452,3,11,4,10:08 PM,6:26,,,MISS Knight Free Throw 1 of 2,,
+0021300954,453,4,1,4,10:08 PM,6:26,,,Bucks Rebound,,
+0021300954,454,8,0,4,10:08 PM,6:26,SUB: Brewer FOR Muhammad,,,,
+0021300954,455,3,12,4,10:08 PM,6:26,,,Knight Free Throw 2 of 2 (19 PTS),88 - 99,11
+0021300954,457,6,2,4,10:08 PM,6:18,,,Knight S.FOUL (P2.PN),,
+0021300954,458,3,11,4,10:08 PM,6:18,Rubio Free Throw 1 of 2 (10 PTS),,,88 - 100,12
+0021300954,460,3,12,4,10:09 PM,6:18,Rubio Free Throw 2 of 2 (11 PTS),,,88 - 101,13
+0021300954,462,2,47,4,10:09 PM,5:54,,,MISS Middleton 20' Turnaround Jump Shot,,
+0021300954,463,4,0,4,10:09 PM,5:52,Love REBOUND (Off:2 Def:5),,,,
+0021300954,465,1,5,4,10:10 PM,5:38,Pekovic 2' Layup (12 PTS) (Love 5 AST),,,88 - 103,15
+0021300954,466,2,42,4,10:10 PM,5:20,,,MISS Sessions 2' Driving Layup,,
+0021300954,467,4,0,4,10:10 PM,5:19,Love REBOUND (Off:2 Def:6),,,,
+0021300954,468,1,5,4,10:10 PM,5:07,Pekovic 2' Layup (14 PTS) (Love 6 AST),,,88 - 105,17
+0021300954,469,1,46,4,10:10 PM,4:55,,,Knight 7' Running Jump Shot (21 PTS),90 - 105,15
+0021300954,470,6,2,4,10:10 PM,4:55,Pekovic S.FOUL (P5.PN),,,,
+0021300954,472,8,0,4,10:11 PM,4:55,SUB: Cunningham FOR Pekovic,,,,
+0021300954,473,3,10,4,10:11 PM,4:55,,,MISS Knight Free Throw 1 of 1,,
+0021300954,475,4,0,4,10:11 PM,4:55,Love REBOUND (Off:2 Def:7),,,,
+0021300954,477,1,1,4,10:11 PM,4:32,Cunningham 18' Jump Shot (9 PTS) (Rubio 10 AST),,,90 - 107,17
+0021300954,478,2,1,4,10:12 PM,4:19,,,MISS Middleton 24' 3PT Jump Shot,,
+0021300954,479,4,0,4,10:12 PM,4:18,,,Bucks Rebound,,
+0021300954,480,6,29,4,10:12 PM,4:10,Cunningham Shooting Block Foul (P3.PN),,,,
+0021300954,481,3,11,4,10:12 PM,4:10,,,Sessions Free Throw 1 of 2 (10 PTS),91 - 107,16
+0021300954,483,3,12,4,10:13 PM,4:10,,,Sessions Free Throw 2 of 2 (11 PTS),92 - 107,15
+0021300954,485,2,1,4,10:13 PM,3:56,MISS Barea 26' 3PT Jump Shot,,,,
+0021300954,486,4,0,4,10:13 PM,3:55,,,Henson REBOUND (Off:0 Def:8),,
+0021300954,487,5,2,4,10:13 PM,3:43,Barea STEAL (1 STL),,Pachulia Lost Ball Turnover (P1.T15),,
+0021300954,488,2,66,4,10:13 PM,3:24,MISS Love 6' Jump Bank Shot,,,,
+0021300954,489,4,0,4,10:13 PM,3:23,,,Pachulia REBOUND (Off:0 Def:6),,
+0021300954,490,2,42,4,10:14 PM,3:15,,,MISS Knight 2' Driving Layup,,
+0021300954,491,4,0,4,10:14 PM,3:13,Love REBOUND (Off:2 Def:8),,,,
+0021300954,492,9,1,4,10:14 PM,3:09,TIMBERWOLVES Timeout: Regular (Full 4 Short 1),,,,
+0021300954,494,8,0,4,10:16 PM,3:09,,,SUB: Raduljica FOR Pachulia,,
+0021300954,495,8,0,4,10:16 PM,3:09,,,SUB: Antetokounmpo FOR Henson,,
+0021300954,496,8,0,4,10:16 PM,3:09,,,SUB: Wolters FOR Knight,,
+0021300954,497,8,0,4,10:16 PM,3:09,,,SUB: Adrien FOR Middleton,,
+0021300954,498,5,1,4,10:17 PM,2:55,Rubio Bad Pass Turnover (P1.T7),,Sessions STEAL (1 STL),,
+0021300954,499,1,42,4,10:17 PM,2:49,,,Raduljica 1' Driving Layup (2 PTS) (Sessions 3 AST),94 - 107,13
+0021300954,500,6,1,4,10:17 PM,2:31,,,Raduljica P.FOUL (P1.PN),,
+0021300954,501,3,11,4,10:17 PM,2:31,Love Free Throw 1 of 2 (23 PTS),,,94 - 108,14
+0021300954,503,3,12,4,10:18 PM,2:31,Love Free Throw 2 of 2 (24 PTS),,,94 - 109,15
+0021300954,505,2,1,4,10:18 PM,2:22,,,MISS Antetokounmpo 13' Jump Shot,,
+0021300954,506,4,0,4,10:18 PM,2:20,TIMBERWOLVES Rebound,,,,
+0021300954,507,1,1,4,10:18 PM,2:05,Love 25' 3PT Jump Shot (27 PTS) (Barea 4 AST),,,94 - 112,18
+0021300954,508,2,5,4,10:19 PM,1:48,,,MISS Raduljica 2' Layup,,
+0021300954,509,4,0,4,10:19 PM,1:47,,,Raduljica REBOUND (Off:1 Def:0),,
+0021300954,510,6,2,4,10:19 PM,1:46,Rubio S.FOUL (P5.PN),,,,
+0021300954,511,3,11,4,10:19 PM,1:46,,,MISS Raduljica Free Throw 1 of 2,,
+0021300954,512,4,1,4,10:19 PM,1:46,,,Bucks Rebound,,
+0021300954,513,8,0,4,10:19 PM,1:46,SUB: Dieng FOR Love,,,,
+0021300954,514,8,0,4,10:19 PM,1:46,,,SUB: Mitchell FOR Sessions,,
+0021300954,515,8,0,4,10:19 PM,1:46,SUB: Hummel FOR Brewer,,,,
+0021300954,516,3,12,4,10:19 PM,1:46,,,Raduljica Free Throw 2 of 2 (3 PTS),95 - 112,17
+0021300954,518,7,5,4,10:20 PM,1:28,,,Mitchell Violation:Kicked Ball,,
+0021300954,519,8,0,4,10:20 PM,1:28,SUB: Shved FOR Rubio,,,,
+0021300954,521,2,1,4,10:21 PM,1:13,MISS Barea 4' Jump Shot,,,,
+0021300954,522,4,0,4,10:21 PM,1:11,,,Antetokounmpo REBOUND (Off:1 Def:4),,
+0021300954,523,1,42,4,10:21 PM,1:08,,,Mitchell 2' Driving Layup (2 PTS) (Antetokounmpo 4 AST),97 - 112,15
+0021300954,524,2,1,4,10:21 PM,0:52,MISS Hummel 16' Jump Shot,,,,
+0021300954,525,4,0,4,10:21 PM,0:51,,,Adrien REBOUND (Off:2 Def:4),,
+0021300954,526,6,2,4,10:21 PM,0:36,Barea S.FOUL (P3.PN),,,,
+0021300954,527,3,11,4,10:21 PM,0:36,,,Raduljica Free Throw 1 of 2 (4 PTS),98 - 112,14
+0021300954,529,3,12,4,10:22 PM,0:36,,,Raduljica Free Throw 2 of 2 (5 PTS),99 - 112,13
+0021300954,531,2,1,4,10:22 PM,0:18,MISS Dieng 11' Jump Shot,,,,
+0021300954,532,4,0,4,10:22 PM,0:17,,,Adrien REBOUND (Off:2 Def:5),,
+0021300954,533,1,88,4,10:22 PM,0:09,,,Mitchell 1' Driving Slam Dunk (4 PTS) (Wolters 3 AST),101 - 112,11
+0021300954,534,13,0,4,10:23 PM,0:00,,,,101 - 112,11

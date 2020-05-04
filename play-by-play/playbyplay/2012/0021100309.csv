@@ -1,0 +1,418 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021100309,0,12,0,1,7:12 PM,12:00,,,,,
+0021100309,1,10,0,1,7:13 PM,12:00,Jump Ball Varejao vs. O'Neal: Tip to Bradley,,,,
+0021100309,2,1,1,1,7:13 PM,11:41,,,Pierce 16' Jump Shot (2 PTS),2 - 0,-2
+0021100309,3,1,1,1,7:13 PM,11:25,Varejao 16' Jump Shot (2 PTS) (Casspi 1 AST),,,2 - 2,TIE
+0021100309,4,2,1,1,7:14 PM,11:02,,,MISS O'Neal 15' Jump Shot,,
+0021100309,5,4,0,1,7:14 PM,11:01,Casspi REBOUND (Off:0 Def:1),,,,
+0021100309,6,1,1,1,7:14 PM,10:44,Varejao 15' Jump Shot (4 PTS) (Thompson 1 AST),,,2 - 4,2
+0021100309,7,2,47,1,7:14 PM,10:26,,,MISS Garnett 15' Turnaround Jump Shot,,
+0021100309,8,4,0,1,7:14 PM,10:24,Varejao REBOUND (Off:0 Def:1),,,,
+0021100309,9,1,1,1,7:15 PM,10:09,Varejao 14' Jump Shot (6 PTS) (Irving 1 AST),,,2 - 6,4
+0021100309,10,1,7,1,7:15 PM,9:49,,,Bradley 1' Dunk (2 PTS) (Pierce 1 AST),4 - 6,2
+0021100309,11,2,46,1,7:15 PM,9:24,MISS Irving 6' Running Jump Shot,,,,
+0021100309,12,4,0,1,7:16 PM,9:21,,,O'Neal REBOUND (Off:0 Def:1),,
+0021100309,13,2,5,1,7:16 PM,9:14,,,MISS Pierce 3' Layup,,
+0021100309,14,4,0,1,7:16 PM,9:13,Varejao REBOUND (Off:0 Def:2),,,,
+0021100309,15,5,1,1,7:16 PM,8:59,Varejao Bad Pass Turnover (P1.T1),,,,
+0021100309,16,2,1,1,7:16 PM,8:38,,,MISS Garnett 11' Jump Shot,,
+0021100309,17,4,0,1,7:16 PM,8:38,,,Celtics Rebound,,
+0021100309,19,6,1,1,7:17 PM,8:37,Casspi P.FOUL (P1.T1),,,,
+0021100309,20,1,1,1,7:17 PM,8:30,,,Garnett 8' Jump Shot (2 PTS),6 - 6,TIE
+0021100309,21,6,1,1,7:17 PM,8:16,,,Garnett P.FOUL (P1.T1),,
+0021100309,22,2,80,1,7:18 PM,8:12,MISS Irving 17' Step Back Jump Shot,,,,
+0021100309,23,4,0,1,7:18 PM,8:09,,,Pierce REBOUND (Off:0 Def:1),,
+0021100309,24,1,1,1,7:18 PM,7:50,,,Bradley 9' Jump Shot (4 PTS) (Pierce 2 AST),8 - 6,-2
+0021100309,25,2,1,1,7:19 PM,7:35,MISS Jamison 25' 3PT Jump Shot,,,,
+0021100309,26,4,0,1,7:19 PM,7:34,,,Allen REBOUND (Off:0 Def:1),,
+0021100309,27,6,2,1,7:19 PM,7:32,Jamison S.FOUL (P1.T2),,,,
+0021100309,28,3,11,1,7:19 PM,7:32,,,Garnett Free Throw 1 of 2 (3 PTS),9 - 6,-3
+0021100309,30,3,12,1,7:19 PM,7:32,,,MISS Garnett Free Throw 2 of 2,,
+0021100309,32,4,0,1,7:20 PM,7:30,Varejao REBOUND (Off:0 Def:3),,,,
+0021100309,33,5,40,1,7:20 PM,7:15,Thompson Out of Bounds Lost Ball Turnover (P1.T2),,,,
+0021100309,34,1,47,1,7:20 PM,7:02,,,Garnett 15' Turnaround Jump Shot (5 PTS),11 - 6,-5
+0021100309,35,2,5,1,7:21 PM,6:42,MISS Varejao 2' Layup,,,,
+0021100309,37,4,0,1,7:21 PM,6:41,Varejao REBOUND (Off:1 Def:3),,,,
+0021100309,36,1,4,1,7:21 PM,6:41,Varejao 2' Tip Shot (8 PTS),,,11 - 8,-3
+0021100309,39,8,0,1,7:21 PM,6:23,,,SUB: Bass FOR Garnett,,
+0021100309,40,2,1,1,7:21 PM,6:17,,,MISS Allen 24' 3PT Jump Shot,,
+0021100309,41,4,0,1,7:21 PM,6:16,Irving REBOUND (Off:0 Def:1),,,,
+0021100309,42,2,1,1,7:22 PM,6:07,MISS Jamison 22' Jump Shot,,,,
+0021100309,43,4,0,1,7:22 PM,6:07,,,Celtics Rebound,,
+0021100309,44,1,80,1,7:22 PM,5:48,,,Pierce 17' Step Back Jump Shot (4 PTS),13 - 8,-5
+0021100309,45,1,1,1,7:22 PM,5:33,Thompson 26' 3PT Jump Shot (3 PTS) (Jamison 1 AST),,,13 - 11,-2
+0021100309,46,1,1,1,7:23 PM,5:17,,,Pierce 19' Jump Shot (6 PTS) (Bradley 1 AST),15 - 11,-4
+0021100309,47,1,5,1,7:23 PM,5:09,Jamison 2' Layup (2 PTS) (Irving 2 AST),,,15 - 13,-2
+0021100309,48,9,1,1,7:23 PM,5:00,,,Celtics Timeout: Regular (Reg.1 Short 0),,
+0021100309,51,8,0,1,7:25 PM,5:00,SUB: Gee FOR Casspi,,,,
+0021100309,52,1,5,1,7:26 PM,4:53,,,Pierce 2' Layup (8 PTS) (O'Neal 1 AST),17 - 13,-4
+0021100309,53,1,46,1,7:26 PM,4:30,Jamison 5' Running Jump Shot (4 PTS) (Thompson 2 AST),,,17 - 15,-2
+0021100309,54,1,1,1,7:26 PM,4:14,,,Bass 17' Jump Shot (2 PTS) (Pierce 3 AST),19 - 15,-4
+0021100309,55,6,2,1,7:26 PM,4:05,,,Pierce S.FOUL (P1.T2),,
+0021100309,56,3,11,1,7:27 PM,4:05,MISS Gee Free Throw 1 of 2,,,,
+0021100309,57,4,1,1,7:27 PM,4:05,CAVALIERS Rebound,,,,
+0021100309,58,8,0,1,7:27 PM,4:05,,,SUB: Wilcox FOR O'Neal,,
+0021100309,59,8,0,1,7:27 PM,4:05,,,SUB: Pietrus FOR Allen,,
+0021100309,60,8,0,1,7:27 PM,4:05,SUB: Sessions FOR Thompson,,,,
+0021100309,61,3,12,1,7:27 PM,4:05,Gee Free Throw 2 of 2 (1 PTS),,,19 - 16,-3
+0021100309,63,2,1,1,7:28 PM,3:52,,,MISS Pierce 25' 3PT Jump Shot,,
+0021100309,64,4,0,1,7:28 PM,3:50,Jamison REBOUND (Off:0 Def:1),,,,
+0021100309,65,1,7,1,7:28 PM,3:42,Varejao  Dunk (10 PTS) (Sessions 1 AST),,,19 - 18,-1
+0021100309,67,8,0,1,7:28 PM,3:32,SUB: Thompson FOR Jamison,,,,
+0021100309,68,2,1,1,7:28 PM,3:19,,,MISS Bass 11' Jump Shot,,
+0021100309,69,4,0,1,7:28 PM,3:17,Thompson REBOUND (Off:0 Def:1),,,,
+0021100309,70,2,1,1,7:29 PM,2:57,MISS Irving  3PT Jump Shot,,,,
+0021100309,71,4,0,1,7:29 PM,2:56,,,Bass REBOUND (Off:0 Def:1),,
+0021100309,72,1,1,1,7:29 PM,2:42,,,Pietrus 25' 3PT Jump Shot (3 PTS),22 - 18,-4
+0021100309,73,1,44,1,7:29 PM,2:32,Sessions 1' Reverse Layup (2 PTS) (Varejao 1 AST),,,22 - 20,-2
+0021100309,74,1,1,1,7:30 PM,2:06,,,Pietrus 25' 3PT Jump Shot (6 PTS) (Bass 1 AST),25 - 20,-5
+0021100309,75,5,1,1,7:30 PM,1:51,Sessions Bad Pass Turnover (P1.T3),,,,
+0021100309,76,9,1,1,7:30 PM,1:51,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,
+0021100309,78,8,0,1,7:32 PM,1:51,SUB: Samuels FOR Varejao,,,,
+0021100309,79,8,0,1,7:32 PM,1:51,,,SUB: Moore FOR Bradley,,
+0021100309,80,8,0,1,7:32 PM,1:51,,,SUB: Garnett FOR Bass,,
+0021100309,81,6,1,1,7:33 PM,1:44,Samuels P.FOUL (P1.T3),,,,
+0021100309,82,10,0,1,7:33 PM,1:40,Jump Ball Irving vs. Moore: Tip to Wilcox,,,,
+0021100309,83,5,2,1,7:33 PM,1:34,Gee STEAL (1 STL),,Wilcox Lost Ball Turnover (P1.T1),,
+0021100309,84,6,2,1,7:34 PM,1:20,,,Moore S.FOUL (P1.T3),,
+0021100309,85,3,11,1,7:34 PM,1:20,Irving Free Throw 1 of 2 (1 PTS),,,25 - 21,-4
+0021100309,87,3,12,1,7:34 PM,1:20,Irving Free Throw 2 of 2 (2 PTS),,,25 - 22,-3
+0021100309,89,6,2,1,7:35 PM,1:07,Samuels S.FOUL (P2.PN),,,,
+0021100309,90,3,11,1,7:35 PM,1:07,,,MISS Pierce Free Throw 1 of 2,,
+0021100309,91,4,1,1,7:35 PM,1:07,,,Celtics Rebound,,
+0021100309,92,3,12,1,7:35 PM,1:07,,,Pierce Free Throw 2 of 2 (9 PTS),26 - 22,-4
+0021100309,94,6,27,1,7:36 PM,0:55,,,Pietrus Personal Block Foul (P1.PN),,
+0021100309,95,3,11,1,7:36 PM,0:55,Irving Free Throw 1 of 2 (3 PTS),,,26 - 23,-3
+0021100309,97,8,0,1,7:36 PM,0:55,,,SUB: Pavlovic FOR Pierce,,
+0021100309,98,3,12,1,7:36 PM,0:55,Irving Free Throw 2 of 2 (4 PTS),,,26 - 24,-2
+0021100309,101,2,63,1,7:37 PM,0:32,,,MISS Garnett 16' Fadeaway Jumper,,
+0021100309,103,4,0,1,7:37 PM,0:31,,,Pavlovic REBOUND (Off:1 Def:0),,
+0021100309,102,1,72,1,7:37 PM,0:31,,,Pavlovic 1' Putback Layup (2 PTS),28 - 24,-4
+0021100309,105,2,1,1,7:38 PM,0:07,MISS Samuels 19' Jump Shot,,,,
+0021100309,106,4,0,1,7:38 PM,0:07,CAVALIERS Rebound,,,,
+0021100309,107,5,11,1,7:38 PM,0:07,CAVALIERS Turnover: Shot Clock (T#4),,,,
+0021100309,108,8,0,1,7:38 PM,0:07,,,SUB: Bradley FOR Pavlovic,,
+0021100309,109,8,0,1,7:38 PM,0:07,,,SUB: Allen FOR Wilcox,,
+0021100309,110,8,0,1,7:38 PM,0:07,SUB: Casspi FOR Samuels,,,,
+0021100309,111,2,1,1,7:38 PM,0:00,,,MISS Pietrus 35' 3PT Jump Shot,,
+0021100309,112,4,0,1,7:38 PM,0:00,,,Celtics Rebound,,
+0021100309,113,13,0,1,7:38 PM,0:00,,,,28 - 24,-4
+0021100309,115,12,0,2,7:41 PM,12:00,,,,28 - 24,-4
+0021100309,116,2,63,2,7:42 PM,11:37,MISS Samuels 18' Fadeaway Jumper,,,,
+0021100309,117,4,0,2,7:42 PM,11:36,,,Celtics Rebound,,
+0021100309,118,1,1,2,7:42 PM,11:23,,,Moore 20' Jump Shot (2 PTS) (Wilcox 1 AST),30 - 24,-6
+0021100309,119,2,5,2,7:42 PM,11:05,MISS Thompson 2' Layup,,,,
+0021100309,120,4,0,2,7:42 PM,11:05,,,Celtics Rebound,,
+0021100309,121,1,1,2,7:43 PM,10:47,,,Pavlovic 9' Jump Shot (4 PTS) (Garnett 1 AST),32 - 24,-8
+0021100309,122,9,1,2,7:43 PM,10:39,CAVALIERS Timeout: Regular (Full 2 Short 0),,,,
+0021100309,126,6,2,2,7:46 PM,10:26,,,Wilcox S.FOUL (P1.T1),,
+0021100309,127,3,11,2,7:46 PM,10:26,Samuels Free Throw 1 of 2 (1 PTS),,,32 - 25,-7
+0021100309,129,8,0,2,7:46 PM,10:26,SUB: Varejao FOR Thompson,,,,
+0021100309,130,3,12,2,7:46 PM,10:26,Samuels Free Throw 2 of 2 (2 PTS),,,32 - 26,-6
+0021100309,132,2,1,2,7:47 PM,10:07,,,MISS Pietrus 25' 3PT Jump Shot,,
+0021100309,133,4,0,2,7:47 PM,10:07,CAVALIERS Rebound,,,,
+0021100309,134,2,42,2,7:47 PM,9:53,MISS Sessions 2' Driving Layup,,,,
+0021100309,135,4,0,2,7:47 PM,9:52,,,Garnett REBOUND (Off:0 Def:1),,
+0021100309,136,2,1,2,7:47 PM,9:42,,,MISS Moore 7' Jump Shot,,
+0021100309,138,4,0,2,7:47 PM,9:41,,,Wilcox REBOUND (Off:1 Def:0),,
+0021100309,137,2,4,2,7:47 PM,9:41,,,MISS Wilcox 1' Tip Shot,,
+0021100309,139,4,0,2,7:47 PM,9:41,CAVALIERS Rebound,,,,
+0021100309,140,8,0,2,7:47 PM,9:41,,,SUB: Bass FOR Pavlovic,,
+0021100309,141,8,0,2,7:47 PM,9:41,,,SUB: Allen FOR Wilcox,,
+0021100309,142,2,1,2,7:48 PM,9:16,MISS Varejao 25' 3PT Jump Shot,,,,
+0021100309,143,4,0,2,7:48 PM,9:15,,,Pietrus REBOUND (Off:0 Def:1),,
+0021100309,144,2,47,2,7:48 PM,8:59,,,MISS Garnett 13' Turnaround Jump Shot,,
+0021100309,145,4,0,2,7:48 PM,8:58,Thompson REBOUND (Off:0 Def:1),,,,
+0021100309,146,2,1,2,7:48 PM,8:47,MISS Samuels 19' Jump Shot,,,,
+0021100309,147,4,0,2,7:48 PM,8:46,,,Bass REBOUND (Off:0 Def:2),,
+0021100309,148,1,1,2,7:49 PM,8:35,,,Bass 14' Jump Shot (4 PTS) (Allen 1 AST),34 - 26,-8
+0021100309,149,5,1,2,7:49 PM,8:11,Samuels Bad Pass Turnover (P1.T5),,Bass STEAL (1 STL),,
+0021100309,150,1,1,2,7:49 PM,7:56,,,Moore 24' 3PT Jump Shot (5 PTS) (Allen 2 AST),37 - 26,-11
+0021100309,151,9,1,2,7:49 PM,7:49,CAVALIERS Timeout: Regular (Full 3 Short 0),,,,
+0021100309,153,8,0,2,7:51 PM,7:49,SUB: Jamison FOR Samuels,,,,
+0021100309,154,8,0,2,7:51 PM,7:49,,,SUB: O'Neal FOR Garnett,,
+0021100309,155,6,2,2,7:52 PM,7:35,,,O'Neal S.FOUL (P1.T2),,
+0021100309,156,3,11,2,7:52 PM,7:35,Jamison Free Throw 1 of 2 (5 PTS),,,37 - 27,-10
+0021100309,158,3,12,2,7:52 PM,7:35,MISS Jamison Free Throw 2 of 2,,,,
+0021100309,160,4,0,2,7:53 PM,7:33,,,O'Neal REBOUND (Off:0 Def:2),,
+0021100309,161,5,1,2,7:53 PM,7:18,Gee STEAL (2 STL),,Moore Bad Pass Turnover (P1.T2),,
+0021100309,162,1,5,2,7:53 PM,7:09,Varejao 1' Layup (12 PTS) (Sessions 2 AST),,,37 - 29,-8
+0021100309,163,6,1,2,7:53 PM,6:56,Thompson P.FOUL (P1.T1),,,,
+0021100309,164,8,0,2,7:54 PM,6:56,,,SUB: Pierce FOR Pietrus,,
+0021100309,165,8,0,2,7:54 PM,6:56,,,SUB: Bradley FOR Moore,,
+0021100309,166,8,0,2,7:54 PM,6:56,SUB: Irving FOR Sessions,,,,
+0021100309,167,5,2,2,7:54 PM,6:51,Thompson STEAL (1 STL),,O'Neal Lost Ball Turnover (P1.T3),,
+0021100309,168,1,1,2,7:54 PM,6:44,Irving 15' Jump Shot (6 PTS) (Thompson 3 AST),,,37 - 31,-6
+0021100309,169,2,1,2,7:54 PM,6:20,,,MISS Allen 17' Jump Shot,,
+0021100309,170,4,0,2,7:55 PM,6:19,Gee REBOUND (Off:0 Def:1),,,,
+0021100309,171,1,1,2,7:55 PM,6:04,Varejao 16' Jump Shot (14 PTS) (Irving 3 AST),,,37 - 33,-4
+0021100309,172,2,63,2,7:55 PM,5:40,,,MISS Pierce 9' Fadeaway Jumper,,
+0021100309,173,4,0,2,7:55 PM,5:38,Varejao REBOUND (Off:1 Def:4),,,,
+0021100309,174,2,1,2,7:56 PM,5:19,MISS Thompson 12' Jump Shot,,,,
+0021100309,175,4,0,2,7:56 PM,5:18,,,Bass REBOUND (Off:0 Def:3),,
+0021100309,176,9,1,2,7:56 PM,5:10,,,Celtics Timeout: Regular (Reg.2 Short 0),,
+0021100309,178,8,0,2,7:58 PM,5:10,SUB: Casspi FOR Gee,,,,
+0021100309,180,1,1,2,7:58 PM,4:56,,,Bass 15' Jump Shot (6 PTS) (Allen 3 AST),39 - 33,-6
+0021100309,181,5,1,2,7:59 PM,4:44,Varejao Bad Pass Turnover (P2.T6),,,,
+0021100309,182,6,2,2,7:59 PM,4:30,Jamison S.FOUL (P2.T2),,,,
+0021100309,183,3,11,2,7:59 PM,4:30,,,O'Neal Free Throw 1 of 2 (1 PTS),40 - 33,-7
+0021100309,185,3,12,2,8:00 PM,4:30,,,O'Neal Free Throw 2 of 2 (2 PTS),41 - 33,-8
+0021100309,187,6,1,2,8:00 PM,4:20,,,Bradley P.FOUL (P1.T3),,
+0021100309,188,1,1,2,8:01 PM,4:11,Jamison 25' 3PT Jump Shot (8 PTS) (Irving 4 AST),,,41 - 36,-5
+0021100309,189,1,1,2,8:01 PM,3:54,,,O'Neal 15' Jump Shot (4 PTS) (Allen 4 AST),43 - 36,-7
+0021100309,190,5,1,2,8:01 PM,3:43,Thompson Bad Pass Turnover (P2.T7),,O'Neal STEAL (1 STL),,
+0021100309,191,2,5,2,8:01 PM,3:35,Varejao BLOCK (1 BLK),,MISS Bradley 1' Layup,,
+0021100309,192,4,0,2,8:01 PM,3:33,,,Bass REBOUND (Off:1 Def:3),,
+0021100309,193,1,1,2,8:02 PM,3:27,,,O'Neal 16' Jump Shot (6 PTS) (Bass 2 AST),45 - 36,-9
+0021100309,194,2,1,2,8:02 PM,3:07,MISS Varejao 12' Jump Shot,,,,
+0021100309,195,4,0,2,8:02 PM,3:06,,,Bass REBOUND (Off:1 Def:4),,
+0021100309,196,5,1,2,8:02 PM,3:03,Casspi STEAL (1 STL),,Bass Bad Pass Turnover (P1.T4),,
+0021100309,197,2,1,2,8:02 PM,3:00,MISS Casspi 13' Jump Shot,,,,
+0021100309,198,4,0,2,8:02 PM,2:59,,,Allen REBOUND (Off:0 Def:2),,
+0021100309,199,6,1,2,8:02 PM,2:52,Thompson P.FOUL (P2.T3),,,,
+0021100309,200,8,0,2,8:03 PM,2:52,,,SUB: Garnett FOR O'Neal,,
+0021100309,201,6,4,2,8:03 PM,2:52,,,Bass OFF.Foul (P1),,
+0021100309,202,5,5,2,8:03 PM,2:52,,,Bass Foul Turnover (P2.T5),,
+0021100309,203,2,5,2,8:03 PM,2:44,MISS Irving 1' Layup,,,,
+0021100309,204,4,0,2,8:03 PM,2:43,Varejao REBOUND (Off:2 Def:4),,,,
+0021100309,205,9,2,2,8:03 PM,2:43,CAVALIERS Timeout: Short (Full 3 Short 1),,,,
+0021100309,209,2,1,2,8:05 PM,2:29,MISS Casspi 21' Jump Shot,,,,
+0021100309,210,4,0,2,8:05 PM,2:28,Varejao REBOUND (Off:3 Def:4),,,,
+0021100309,211,2,1,2,8:05 PM,2:18,MISS Jamison  3PT Jump Shot,,,,
+0021100309,212,4,0,2,8:05 PM,2:17,Casspi REBOUND (Off:1 Def:1),,,,
+0021100309,213,6,2,2,8:05 PM,2:16,,,Bradley S.FOUL (P2.T4),,
+0021100309,214,3,11,2,8:05 PM,2:16,MISS Casspi Free Throw 1 of 2,,,,
+0021100309,215,4,1,2,8:05 PM,2:16,CAVALIERS Rebound,,,,
+0021100309,216,3,12,2,8:05 PM,2:16,MISS Casspi Free Throw 2 of 2,,,,
+0021100309,218,4,0,2,8:06 PM,2:14,,,Bass REBOUND (Off:1 Def:5),,
+0021100309,219,6,1,2,8:06 PM,2:00,Casspi P.FOUL (P2.T4),,,,
+0021100309,220,1,8,2,8:06 PM,1:50,,,Bass 1' Slam Dunk (8 PTS) (Allen 5 AST),47 - 36,-11
+0021100309,221,1,1,2,8:07 PM,1:32,Casspi 24' 3PT Jump Shot (3 PTS) (Irving 5 AST),,,47 - 39,-8
+0021100309,223,9,2,2,8:07 PM,1:11,,,Celtics Timeout: Short (Reg.2 Short 1),,
+0021100309,227,2,1,2,8:08 PM,1:08,,,MISS Allen 22' Jump Shot,,
+0021100309,228,4,0,2,8:08 PM,1:07,,,Garnett REBOUND (Off:1 Def:1),,
+0021100309,229,7,5,2,8:09 PM,1:03,Varejao Violation:Kicked Ball,,,,
+0021100309,230,8,0,2,8:09 PM,1:03,SUB: Sessions FOR Thompson,,,,
+0021100309,231,2,1,2,8:09 PM,0:50,,,MISS Garnett 20' Jump Shot,,
+0021100309,233,4,0,2,8:09 PM,0:49,,,Bradley REBOUND (Off:1 Def:0),,
+0021100309,232,1,4,2,8:09 PM,0:49,,,Bradley 1' Tip Shot (6 PTS),49 - 39,-10
+0021100309,234,2,63,2,8:09 PM,0:34,MISS Casspi 13' Fadeaway Jumper,,,,
+0021100309,235,4,0,2,8:09 PM,0:31,,,Garnett REBOUND (Off:1 Def:2),,
+0021100309,236,2,1,2,8:10 PM,0:27,,,MISS Pierce 28' 3PT Jump Shot,,
+0021100309,237,4,0,2,8:10 PM,0:24,Sessions REBOUND (Off:0 Def:1),,,,
+0021100309,238,5,2,2,8:10 PM,0:05,Jamison Lost Ball Turnover (P1.T8),,Allen STEAL (1 STL),,
+0021100309,239,6,2,2,8:10 PM,0:01,Irving S.FOUL (P1.PN),,,,
+0021100309,240,3,11,2,8:10 PM,0:01,,,Garnett Free Throw 1 of 2 (6 PTS),50 - 39,-11
+0021100309,242,8,0,2,8:11 PM,0:01,,,SUB: Pietrus FOR Bradley,,
+0021100309,243,3,12,2,8:11 PM,0:01,,,Garnett Free Throw 2 of 2 (7 PTS),51 - 39,-12
+0021100309,245,13,0,2,8:11 PM,0:00,,,,51 - 39,-12
+0021100309,247,12,0,3,8:27 PM,12:00,,,,51 - 39,-12
+0021100309,248,2,1,3,8:27 PM,11:40,MISS Thompson 26' 3PT Jump Shot,,,,
+0021100309,249,4,0,3,8:27 PM,11:39,,,Pierce REBOUND (Off:0 Def:2),,
+0021100309,250,1,5,3,8:27 PM,11:35,,,Allen 1' Layup (2 PTS) (Pierce 4 AST),53 - 39,-14
+0021100309,251,1,1,3,8:28 PM,11:27,Irving 21' Jump Shot (8 PTS) (Thompson 4 AST),,,53 - 41,-12
+0021100309,252,1,7,3,8:28 PM,11:07,,,O'Neal 2' Dunk (8 PTS) (Garnett 2 AST),55 - 41,-14
+0021100309,253,5,1,3,8:28 PM,10:56,Varejao Bad Pass Turnover (P3.T9),,Pierce STEAL (1 STL),,
+0021100309,254,2,1,3,8:28 PM,10:34,,,MISS Pierce 18' Jump Shot,,
+0021100309,255,4,0,3,8:28 PM,10:33,Varejao REBOUND (Off:3 Def:5),,,,
+0021100309,256,1,1,3,8:29 PM,10:19,Casspi 25' 3PT Jump Shot (6 PTS) (Irving 6 AST),,,55 - 44,-11
+0021100309,257,1,7,3,8:29 PM,10:02,,,O'Neal 1' Dunk (10 PTS) (Garnett 3 AST),57 - 44,-13
+0021100309,258,5,40,3,8:29 PM,9:49,Irving Out of Bounds Lost Ball Turnover (P1.T10),,,,
+0021100309,259,6,2,3,8:30 PM,9:28,Jamison S.FOUL (P3.T1),,,,
+0021100309,260,3,11,3,8:30 PM,9:28,,,Allen Free Throw 1 of 2 (3 PTS),58 - 44,-14
+0021100309,262,3,12,3,8:30 PM,9:28,,,Allen Free Throw 2 of 2 (4 PTS),59 - 44,-15
+0021100309,264,2,1,3,8:31 PM,9:06,MISS Jamison 7' Jump Shot,,O'Neal BLOCK (1 BLK),,
+0021100309,265,4,0,3,8:31 PM,9:04,,,Garnett REBOUND (Off:1 Def:3),,
+0021100309,266,1,5,3,8:31 PM,9:01,,,Allen 1' Layup (6 PTS) (Pierce 5 AST),61 - 44,-17
+0021100309,267,9,1,3,8:31 PM,9:01,CAVALIERS Timeout: Regular (Full 4 Short 1),,,,
+0021100309,271,5,1,3,8:34 PM,8:42,Thompson Bad Pass Turnover (P3.T11),,Pierce STEAL (2 STL),,
+0021100309,272,1,1,3,8:34 PM,8:30,,,Pierce 9' Jump Shot (11 PTS) (Allen 6 AST),63 - 44,-19
+0021100309,273,2,1,3,8:34 PM,8:16,MISS Irving 15' Jump Shot,,,,
+0021100309,274,4,0,3,8:34 PM,8:15,Varejao REBOUND (Off:4 Def:5),,,,
+0021100309,275,9,1,3,8:34 PM,8:14,CAVALIERS Timeout: Regular (Full 5 Short 1),,,,
+0021100309,279,2,1,3,8:37 PM,8:04,MISS Thompson 20' Jump Shot,,,,
+0021100309,280,4,0,3,8:37 PM,8:02,Varejao REBOUND (Off:5 Def:5),,,,
+0021100309,281,5,1,3,8:37 PM,7:42,Varejao Bad Pass Turnover (P4.T12),,Pierce STEAL (3 STL),,
+0021100309,282,2,1,3,8:37 PM,7:31,,,MISS O'Neal 15' Jump Shot,,
+0021100309,283,4,0,3,8:37 PM,7:29,Varejao REBOUND (Off:5 Def:6),,,,
+0021100309,284,5,2,3,8:38 PM,7:19,Casspi Lost Ball Turnover (P1.T13),,Garnett STEAL (1 STL),,
+0021100309,285,5,1,3,8:38 PM,7:14,,,Allen Bad Pass Turnover (P1.T6),,
+0021100309,286,6,3,3,8:38 PM,7:14,,,Garnett L.B.FOUL (P2.T1),,
+0021100309,289,1,5,3,8:39 PM,6:57,Varejao 1' Layup (16 PTS) (Jamison 2 AST),,,63 - 46,-17
+0021100309,290,6,2,3,8:40 PM,6:45,Casspi S.FOUL (P3.T2),,,,
+0021100309,291,3,11,3,8:40 PM,6:45,,,Pierce Free Throw 1 of 2 (12 PTS),64 - 46,-18
+0021100309,293,3,12,3,8:40 PM,6:45,,,Pierce Free Throw 2 of 2 (13 PTS),65 - 46,-19
+0021100309,295,2,5,3,8:40 PM,6:30,MISS Varejao 3' Layup,,,,
+0021100309,296,4,0,3,8:40 PM,6:29,Casspi REBOUND (Off:2 Def:1),,,,
+0021100309,297,2,1,3,8:41 PM,6:24,MISS Jamison 26' 3PT Jump Shot,,,,
+0021100309,298,4,0,3,8:41 PM,6:23,,,Pierce REBOUND (Off:0 Def:3),,
+0021100309,299,2,1,3,8:41 PM,6:17,,,MISS Pierce 10' Jump Shot,,
+0021100309,300,4,0,3,8:41 PM,6:15,Varejao REBOUND (Off:5 Def:7),,,,
+0021100309,301,1,1,3,8:41 PM,6:09,Thompson  3PT Jump Shot (6 PTS) (Jamison 3 AST),,,65 - 49,-16
+0021100309,302,2,5,3,8:41 PM,5:45,,,MISS Bradley 1' Layup,,
+0021100309,304,4,0,3,8:41 PM,5:44,,,O'Neal REBOUND (Off:1 Def:2),,
+0021100309,303,1,7,3,8:41 PM,5:44,,,O'Neal 1' Dunk (12 PTS),67 - 49,-18
+0021100309,305,2,1,3,8:41 PM,5:32,MISS Irving 15' Jump Shot,,,,
+0021100309,306,4,0,3,8:41 PM,5:30,Varejao REBOUND (Off:6 Def:7),,,,
+0021100309,307,2,84,3,8:42 PM,5:28,MISS Thompson 14' Running Bank Shot,,,,
+0021100309,309,4,0,3,8:42 PM,5:28,Varejao REBOUND (Off:7 Def:7),,,,
+0021100309,308,1,4,3,8:42 PM,5:28,Varejao 1' Tip Shot (18 PTS),,,67 - 51,-16
+0021100309,310,9,1,3,8:42 PM,5:28,,,Celtics Timeout: Regular (Reg.3 Short 1),,
+0021100309,313,8,0,3,8:43 PM,5:28,SUB: Sessions FOR Casspi,,,,
+0021100309,314,8,0,3,8:43 PM,5:28,SUB: Gee FOR Irving,,,,
+0021100309,315,8,0,3,8:43 PM,5:28,,,SUB: Pietrus FOR Pierce,,
+0021100309,316,8,0,3,8:43 PM,5:28,,,SUB: Bass FOR Garnett,,
+0021100309,317,8,0,3,8:43 PM,5:28,,,SUB: Wilcox FOR O'Neal,,
+0021100309,318,2,1,3,8:44 PM,5:10,,,MISS Bass 17' Jump Shot,,
+0021100309,319,4,0,3,8:44 PM,5:09,Sessions REBOUND (Off:0 Def:2),,,,
+0021100309,320,2,1,3,8:44 PM,5:01,MISS Jamison 25' 3PT Jump Shot,,,,
+0021100309,321,4,0,3,8:44 PM,5:00,Varejao REBOUND (Off:8 Def:7),,,,
+0021100309,322,1,1,3,8:44 PM,4:54,Thompson 21' Jump Shot (8 PTS) (Varejao 2 AST),,,67 - 53,-14
+0021100309,323,5,1,3,8:44 PM,4:42,,,Allen Bad Pass Turnover (P2.T7),,
+0021100309,324,2,1,3,8:45 PM,4:25,MISS Varejao 12' Jump Shot,,,,
+0021100309,325,4,0,3,8:45 PM,4:24,,,Pietrus REBOUND (Off:0 Def:2),,
+0021100309,326,1,1,3,8:45 PM,4:10,,,Allen 25' 3PT Jump Shot (9 PTS),70 - 53,-17
+0021100309,327,6,1,3,8:45 PM,3:51,,,Bradley P.FOUL (P3.T2),,
+0021100309,328,2,1,3,8:46 PM,3:45,MISS Thompson  3PT Jump Shot,,,,
+0021100309,329,4,0,3,8:46 PM,3:44,,,Pietrus REBOUND (Off:0 Def:3),,
+0021100309,330,2,1,3,8:46 PM,3:22,Thompson BLOCK (1 BLK),,MISS Pietrus 24' 3PT Jump Shot,,
+0021100309,331,4,0,3,8:46 PM,3:22,,,Celtics Rebound,,
+0021100309,332,8,0,3,8:46 PM,3:22,SUB: Samuels FOR Varejao,,,,
+0021100309,333,1,42,3,8:47 PM,3:17,,,Bradley 1' Driving Layup (8 PTS) (Pietrus 1 AST),72 - 53,-19
+0021100309,335,2,46,3,8:47 PM,2:59,MISS Sessions 8' Running Jump Shot,,,,
+0021100309,336,4,0,3,8:47 PM,2:59,,,Celtics Rebound,,
+0021100309,338,1,1,3,8:48 PM,2:43,,,Allen 26' 3PT Jump Shot (12 PTS),75 - 53,-22
+0021100309,339,1,5,3,8:48 PM,2:23,Samuels  Layup (4 PTS) (Sessions 3 AST),,,75 - 55,-20
+0021100309,340,5,1,3,8:49 PM,2:12,,,Pietrus Bad Pass Turnover (P1.T8),,
+0021100309,341,8,0,3,8:49 PM,2:12,,,SUB: Moore FOR Bradley,,
+0021100309,342,6,1,3,8:49 PM,1:58,,,Allen P.FOUL (P1.T3),,
+0021100309,343,2,1,3,8:50 PM,1:50,MISS Thompson 12' Jump Shot,,,,
+0021100309,344,4,0,3,8:50 PM,1:49,,,Pietrus REBOUND (Off:0 Def:4),,
+0021100309,345,6,2,3,8:50 PM,1:34,Sessions S.FOUL (P1.T3),,,,
+0021100309,346,3,11,3,8:51 PM,1:34,,,Bass Free Throw 1 of 2 (9 PTS),76 - 55,-21
+0021100309,348,3,12,3,8:51 PM,1:34,,,MISS Bass Free Throw 2 of 2,,
+0021100309,350,4,0,3,8:51 PM,1:33,Samuels REBOUND (Off:0 Def:1),,,,
+0021100309,351,5,1,3,8:51 PM,1:23,Sessions Bad Pass Turnover (P2.T14),,,,
+0021100309,352,5,1,3,8:52 PM,1:11,,,Wilcox Bad Pass Turnover (P2.T9),,
+0021100309,353,5,4,3,8:52 PM,0:58,Samuels Traveling Turnover (P2.T15),,,,
+0021100309,354,2,1,3,8:53 PM,0:40,Jamison BLOCK (1 BLK),,MISS Pietrus  3PT Jump Shot,,
+0021100309,355,4,0,3,8:53 PM,0:40,,,Celtics Rebound,,
+0021100309,357,2,47,3,8:53 PM,0:33,,,MISS Wilcox 17' Turnaround Jump Shot,,
+0021100309,358,4,0,3,8:53 PM,0:31,Gee REBOUND (Off:0 Def:2),,,,
+0021100309,360,1,50,3,8:53 PM,0:22,Gee 2' Running Dunk (3 PTS) (Sessions 4 AST),,,76 - 57,-19
+0021100309,361,6,2,3,8:53 PM,0:22,,,Wilcox S.FOUL (P2.PN),,
+0021100309,362,8,0,3,8:53 PM,0:22,,,SUB: Pavlovic FOR Wilcox,,
+0021100309,363,3,10,3,8:54 PM,0:22,Gee Free Throw 1 of 1 (4 PTS),,,76 - 58,-18
+0021100309,365,5,2,3,8:54 PM,0:02,Gee STEAL (3 STL),,Moore Lost Ball Turnover (P2.T10),,
+0021100309,366,2,46,3,8:54 PM,0:00,MISS Gee 29' 3PT Running Jump Shot,,,,
+0021100309,367,4,0,3,8:54 PM,0:00,CAVALIERS Rebound,,,,
+0021100309,368,13,0,3,8:54 PM,0:00,,,,76 - 58,-18
+0021100309,370,12,0,4,8:57 PM,12:00,,,,76 - 58,-18
+0021100309,371,2,1,4,8:57 PM,11:42,,,MISS Pietrus 19' Jump Shot,,
+0021100309,372,4,0,4,8:57 PM,11:41,Samuels REBOUND (Off:0 Def:2),,,,
+0021100309,373,2,1,4,8:57 PM,11:33,MISS Gee 16' Jump Shot,,,,
+0021100309,374,4,0,4,8:57 PM,11:32,Varejao REBOUND (Off:9 Def:7),,,,
+0021100309,375,2,1,4,8:58 PM,11:12,MISS Samuels 20' Jump Shot,,,,
+0021100309,376,4,0,4,8:58 PM,11:11,,,Pietrus REBOUND (Off:0 Def:5),,
+0021100309,377,2,1,4,8:58 PM,10:59,,,MISS Garnett 16' Jump Shot,,
+0021100309,378,4,0,4,8:58 PM,10:58,Sessions REBOUND (Off:0 Def:3),,,,
+0021100309,379,6,2,4,8:58 PM,10:53,,,Pavlovic S.FOUL (P1.T1),,
+0021100309,380,3,11,4,8:58 PM,10:53,MISS Sessions Free Throw 1 of 2,,,,
+0021100309,381,4,1,4,8:58 PM,10:53,CAVALIERS Rebound,,,,
+0021100309,382,3,12,4,8:59 PM,10:53,MISS Sessions Free Throw 2 of 2,,,,
+0021100309,384,4,0,4,8:59 PM,10:52,Varejao REBOUND (Off:10 Def:7),,,,
+0021100309,385,6,27,4,8:59 PM,10:46,,,Pavlovic Personal Block Foul (P2.T2),,
+0021100309,387,2,1,4,8:59 PM,10:39,MISS Gee 25' 3PT Jump Shot,,,,
+0021100309,388,4,0,4,8:59 PM,10:39,,,Celtics Rebound,,
+0021100309,389,6,3,4,8:59 PM,10:39,Samuels L.B.FOUL (P3.T1),,,,
+0021100309,390,2,1,4,9:00 PM,10:29,,,MISS Garnett 17' Jump Shot,,
+0021100309,391,4,0,4,9:00 PM,10:28,Gee REBOUND (Off:0 Def:3),,,,
+0021100309,392,2,66,4,9:00 PM,10:10,MISS Irving 16' Jump Bank Shot,,,,
+0021100309,393,4,0,4,9:00 PM,10:09,CAVALIERS Rebound,,,,
+0021100309,395,8,0,4,9:00 PM,10:09,,,SUB: Bradley FOR Moore,,
+0021100309,396,1,5,4,9:01 PM,9:53,Varejao 1' Layup (20 PTS) (Sessions 5 AST),,,76 - 60,-16
+0021100309,397,2,1,4,9:01 PM,9:40,,,MISS Bass 16' Jump Shot,,
+0021100309,398,4,0,4,9:01 PM,9:39,Varejao REBOUND (Off:10 Def:8),,,,
+0021100309,399,6,2,4,9:01 PM,9:28,,,Garnett S.FOUL (P3.T3),,
+0021100309,400,3,11,4,9:01 PM,9:28,Samuels Free Throw 1 of 2 (5 PTS),,,76 - 61,-15
+0021100309,402,8,0,4,9:01 PM,9:28,,,SUB: Pierce FOR Pavlovic,,
+0021100309,403,3,12,4,9:02 PM,9:28,Samuels Free Throw 2 of 2 (6 PTS),,,76 - 62,-14
+0021100309,405,5,1,4,9:02 PM,9:20,Gee STEAL (4 STL),,Bradley Bad Pass Turnover (P1.T11),,
+0021100309,407,1,42,4,9:02 PM,9:09,Irving 2' Driving Layup (10 PTS) (Sessions 6 AST),,,76 - 64,-12
+0021100309,408,2,1,4,9:03 PM,8:48,,,MISS Pierce 13' Jump Shot,,
+0021100309,410,4,0,4,9:03 PM,8:46,,,Bradley REBOUND (Off:2 Def:0),,
+0021100309,409,2,5,4,9:03 PM,8:46,,,MISS Bradley  Layup,,
+0021100309,411,4,0,4,9:03 PM,8:45,Samuels REBOUND (Off:0 Def:3),,,,
+0021100309,412,5,1,4,9:03 PM,8:32,Irving Bad Pass Turnover (P2.T16),,Pietrus STEAL (1 STL),,
+0021100309,413,6,1,4,9:03 PM,8:25,Gee P.FOUL (P1.T2),,,,
+0021100309,414,9,4,4,9:03 PM,8:25,,,,,
+0021100309,417,8,0,4,9:05 PM,8:25,,,SUB: Allen FOR Bass,,
+0021100309,418,8,0,4,9:05 PM,8:25,,,SUB: O'Neal FOR Pietrus,,
+0021100309,419,1,8,4,9:06 PM,8:16,,,Garnett 1' Slam Dunk (9 PTS) (Allen 7 AST),78 - 64,-14
+0021100309,420,1,1,4,9:06 PM,7:56,Sessions 18' Jump Shot (4 PTS),,,78 - 66,-12
+0021100309,421,2,1,4,9:06 PM,7:38,,,MISS Allen 12' Jump Shot,,
+0021100309,422,4,0,4,9:06 PM,7:37,Varejao REBOUND (Off:10 Def:9),,,,
+0021100309,423,1,46,4,9:07 PM,7:23,Irving 8' Running Jump Shot (12 PTS) (Gee 1 AST),,,78 - 68,-10
+0021100309,424,6,26,4,9:07 PM,7:00,,,Allen Offensive Charge Foul (P2.T4),,
+0021100309,425,5,5,4,9:07 PM,7:00,,,Allen Foul Turnover (P3.T12),,
+0021100309,426,8,0,4,9:07 PM,7:00,SUB: Jamison FOR Samuels,,,,
+0021100309,427,8,0,4,9:08 PM,7:00,,,SUB: Bass FOR Garnett,,
+0021100309,428,1,1,4,9:08 PM,6:36,Gee 25' 3PT Jump Shot (7 PTS) (Sessions 7 AST),,,78 - 71,-7
+0021100309,429,1,5,4,9:08 PM,6:22,,,Pierce 1' Layup (15 PTS) (O'Neal 2 AST),80 - 71,-9
+0021100309,430,1,46,4,9:08 PM,6:05,Sessions 7' Running Jump Shot (6 PTS),,,80 - 73,-7
+0021100309,431,9,2,4,9:09 PM,5:49,,,Celtics Timeout: Short (Reg.3 Short 2),,
+0021100309,433,9,1,4,9:09 PM,5:49,CAVALIERS Timeout: Regular (Full 6 Short 1),,,,
+0021100309,434,8,0,4,9:11 PM,5:49,,,SUB: Garnett FOR O'Neal,,
+0021100309,436,1,1,4,9:12 PM,5:40,,,Garnett 19' Jump Shot (11 PTS) (Allen 8 AST),82 - 73,-9
+0021100309,437,5,2,4,9:12 PM,5:18,Sessions Lost Ball Turnover (P3.T17),,Allen STEAL (2 STL),,
+0021100309,438,1,5,4,9:12 PM,5:07,,,Pierce 1' Layup (17 PTS) (Garnett 4 AST),84 - 73,-11
+0021100309,439,6,2,4,9:12 PM,5:07,Varejao S.FOUL (P1.T3),,,,
+0021100309,440,3,10,4,9:13 PM,5:07,,,MISS Pierce Free Throw 1 of 1,,
+0021100309,442,4,0,4,9:13 PM,5:06,Varejao REBOUND (Off:10 Def:10),,,,
+0021100309,443,1,1,4,9:13 PM,4:53,Irving 15' Jump Shot (14 PTS),,,84 - 75,-9
+0021100309,444,2,1,4,9:13 PM,4:34,,,MISS Allen 24' 3PT Jump Shot,,
+0021100309,445,4,0,4,9:13 PM,4:33,Sessions REBOUND (Off:0 Def:4),,,,
+0021100309,446,1,5,4,9:14 PM,4:25,Jamison 1' Layup (10 PTS) (Sessions 8 AST),,,84 - 77,-7
+0021100309,447,9,1,4,9:14 PM,4:25,,,Celtics Timeout: Regular (Reg.4 Short 2),,
+0021100309,451,6,1,4,9:16 PM,4:16,Gee P.FOUL (P2.T4),,,,
+0021100309,452,1,1,4,9:17 PM,4:04,,,Bass 17' Jump Shot (11 PTS) (Pierce 6 AST),86 - 77,-9
+0021100309,453,6,2,4,9:17 PM,3:42,,,Bass S.FOUL (P2.PN),,
+0021100309,454,3,11,4,9:17 PM,3:42,Irving Free Throw 1 of 2 (15 PTS),,,86 - 78,-8
+0021100309,456,3,12,4,9:18 PM,3:42,Irving Free Throw 2 of 2 (16 PTS),,,86 - 79,-7
+0021100309,458,5,2,4,9:18 PM,3:26,Jamison STEAL (1 STL),,Pierce Lost Ball Turnover (P1.T13),,
+0021100309,459,6,2,4,9:18 PM,3:24,,,Bass S.FOUL (P3.PN),,
+0021100309,460,3,11,4,9:18 PM,3:24,Gee Free Throw 1 of 2 (8 PTS),,,86 - 80,-6
+0021100309,462,3,12,4,9:19 PM,3:24,Gee Free Throw 2 of 2 (9 PTS),,,86 - 81,-5
+0021100309,464,1,63,4,9:19 PM,3:07,,,Bass 14' Fadeaway Jumper (13 PTS),88 - 81,-7
+0021100309,465,1,46,4,9:20 PM,2:47,Jamison 7' Running Jump Shot (12 PTS) (Sessions 9 AST),,,88 - 83,-5
+0021100309,466,6,2,4,9:20 PM,2:23,Varejao S.FOUL (P2.PN),,,,
+0021100309,467,3,11,4,9:21 PM,2:23,,,MISS Pierce Free Throw 1 of 2,,
+0021100309,468,4,1,4,9:21 PM,2:23,,,Celtics Rebound,,
+0021100309,469,3,12,4,9:21 PM,2:23,,,Pierce Free Throw 2 of 2 (18 PTS),89 - 83,-6
+0021100309,471,2,1,4,9:21 PM,2:02,MISS Irving 19' Jump Shot,,,,
+0021100309,472,4,0,4,9:21 PM,2:00,Sessions REBOUND (Off:1 Def:4),,,,
+0021100309,473,1,1,4,9:22 PM,1:49,Gee 18' Jump Shot (11 PTS),,,89 - 85,-4
+0021100309,474,6,4,4,9:22 PM,1:34,,,Allen OFF.Foul (P3),,
+0021100309,475,5,5,4,9:22 PM,1:34,,,Allen Foul Turnover (P4.T14),,
+0021100309,476,1,42,4,9:22 PM,1:18,Irving  Driving Layup (18 PTS),,,89 - 87,-2
+0021100309,477,9,1,4,9:22 PM,1:18,,,Celtics Timeout: Regular (Reg.5 Short 2),,
+0021100309,480,8,0,4,9:24 PM,1:18,,,SUB: O'Neal FOR Bass,,
+0021100309,481,1,47,4,9:24 PM,1:04,,,Garnett 13' Turnaround Jump Shot (13 PTS),91 - 87,-4
+0021100309,482,2,1,4,9:25 PM,0:44,MISS Varejao 9' Jump Shot,,O'Neal BLOCK (2 BLK),,
+0021100309,483,4,0,4,9:25 PM,0:44,CAVALIERS Rebound,,,,
+0021100309,485,2,1,4,9:25 PM,0:39,MISS Varejao 20' Jump Shot,,,,
+0021100309,486,4,0,4,9:25 PM,0:36,,,Pierce REBOUND (Off:0 Def:4),,
+0021100309,487,2,1,4,9:26 PM,0:15,,,MISS Allen 25' 3PT Jump Shot,,
+0021100309,488,4,0,4,9:26 PM,0:14,Jamison REBOUND (Off:0 Def:2),,,,
+0021100309,490,18,1,4,9:26 PM,0:07,,,,91 - 87,-4
+0021100309,501,2,45,4,9:28 PM,0:06,MISS Irving 21' Jump Shot,,,,
+0021100309,493,4,0,4,9:28 PM,0:03,,,Celtics Rebound,,
+0021100309,495,18,1,4,9:28 PM,0:03,,,,91 - 87,-4
+0021100309,500,6,1,4,9:30 PM,0:02,Gee P.FOUL (P3.PN),,,,
+0021100309,502,3,11,4,9:30 PM,0:02,,,Pierce Free Throw 1 of 2 (19 PTS),92 - 87,-5
+0021100309,504,3,12,4,9:30 PM,0:02,,,Pierce Free Throw 2 of 2 (20 PTS),93 - 87,-6
+0021100309,506,9,2,4,9:30 PM,0:02,CAVALIERS Timeout: Short (Full 6 Short 2),,,,
+0021100309,509,8,0,4,9:31 PM,0:02,,,SUB: Pietrus FOR O'Neal,,
+0021100309,510,1,1,4,9:31 PM,0:00,Irving  3PT Jump Shot (21 PTS) (Sessions 10 AST),,,93 - 90,-3
+0021100309,511,18,0,4,9:32 PM,0:00,,,,,
+0021100309,512,13,0,4,9:32 PM,0:00,,,,93 - 90,-3

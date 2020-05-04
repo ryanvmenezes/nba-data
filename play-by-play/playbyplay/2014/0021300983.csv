@@ -1,0 +1,485 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021300983,0,12,0,1,7:41 PM,12:00,,,,,
+0021300983,1,10,0,1,7:41 PM,12:00,Jump Ball Millsap vs. Mozgov: Tip to Chandler,,,,
+0021300983,2,5,1,1,7:41 PM,11:55,,,Chandler Bad Pass Turnover (P1.T1),,
+0021300983,3,1,1,1,7:41 PM,11:37,Antic 25' 3PT Jump Shot (3 PTS) (Korver 1 AST),,,0 - 3,3
+0021300983,4,2,5,1,7:42 PM,11:16,,,MISS Mozgov  Layup,,
+0021300983,5,4,0,1,7:42 PM,11:14,Korver REBOUND (Off:0 Def:1),,,,
+0021300983,6,1,1,1,7:42 PM,11:09,Carroll  3PT Jump Shot (3 PTS) (Teague 1 AST),,,0 - 6,6
+0021300983,7,2,1,1,7:42 PM,10:52,,,MISS Foye 21' Jump Shot,,
+0021300983,8,4,0,1,7:42 PM,10:51,Carroll REBOUND (Off:0 Def:1),,,,
+0021300983,9,2,42,1,7:42 PM,10:39,MISS Antic 2' Driving Layup,,,,
+0021300983,10,4,0,1,7:42 PM,10:38,,,Foye REBOUND (Off:0 Def:1),,
+0021300983,11,5,1,1,7:42 PM,10:33,Teague STEAL (1 STL),,Foye Bad Pass Turnover (P1.T2),,
+0021300983,12,1,50,1,7:42 PM,10:29,Antic 2' Running Dunk (5 PTS) (Teague 2 AST),,,0 - 8,8
+0021300983,13,6,2,1,7:43 PM,10:09,Teague S.FOUL (P1.T1),,,,
+0021300983,14,3,11,1,7:43 PM,10:09,,,MISS Faried Free Throw 1 of 2,,
+0021300983,15,4,1,1,7:43 PM,10:09,,,Nuggets Rebound,,
+0021300983,16,3,12,1,7:43 PM,10:09,,,Faried Free Throw 2 of 2 (1 PTS),1 - 8,7
+0021300983,19,6,2,1,7:44 PM,9:57,,,Mozgov S.FOUL (P1.T1),,
+0021300983,20,3,11,1,7:44 PM,9:57,MISS Millsap Free Throw 1 of 2,,,,
+0021300983,21,4,1,1,7:44 PM,9:57,HAWKS Rebound,,,,
+0021300983,22,3,12,1,7:44 PM,9:57,MISS Millsap Free Throw 2 of 2,,,,
+0021300983,24,4,0,1,7:44 PM,9:55,,,Nuggets Rebound,,
+0021300983,25,2,1,1,7:44 PM,9:45,,,MISS Lawson 25' 3PT Jump Shot,,
+0021300983,26,4,0,1,7:44 PM,9:43,Millsap REBOUND (Off:0 Def:1),,,,
+0021300983,27,2,42,1,7:45 PM,9:32,MISS Millsap 1' Driving Layup,,Mozgov BLOCK (1 BLK),,
+0021300983,28,4,0,1,7:45 PM,9:30,Millsap REBOUND (Off:1 Def:1),,,,
+0021300983,29,2,1,1,7:45 PM,9:22,MISS Carroll 24' 3PT Jump Shot,,,,
+0021300983,30,4,0,1,7:45 PM,9:21,Millsap REBOUND (Off:2 Def:1),,,,
+0021300983,31,6,2,1,7:45 PM,9:21,,,Faried S.FOUL (P1.T2),,
+0021300983,32,3,11,1,7:45 PM,9:21,Millsap Free Throw 1 of 2 (1 PTS),,,1 - 9,8
+0021300983,34,3,12,1,7:45 PM,9:21,Millsap Free Throw 2 of 2 (2 PTS),,,1 - 10,9
+0021300983,37,2,1,1,7:46 PM,9:06,,,MISS Chandler  3PT Jump Shot,,
+0021300983,38,4,0,1,7:46 PM,9:04,,,Mozgov REBOUND (Off:1 Def:0),,
+0021300983,39,1,72,1,7:46 PM,9:03,,,Faried  Putback Layup (3 PTS) (Mozgov 1 AST),3 - 10,7
+0021300983,40,1,1,1,7:46 PM,8:40,Millsap 25' 3PT Jump Shot (5 PTS) (Carroll 1 AST),,,3 - 13,10
+0021300983,42,2,1,1,7:47 PM,8:18,,,MISS Faried 5' Jump Shot,,
+0021300983,43,4,0,1,7:47 PM,8:16,,,Lawson REBOUND (Off:1 Def:0),,
+0021300983,44,2,1,1,7:47 PM,8:08,,,MISS Lawson 19' Jump Shot,,
+0021300983,45,4,0,1,7:47 PM,8:05,,,Mozgov REBOUND (Off:2 Def:0),,
+0021300983,46,2,42,1,7:47 PM,8:00,Millsap BLOCK (1 BLK),,MISS Lawson 2' Driving Layup,,
+0021300983,47,4,0,1,7:47 PM,7:57,,,Mozgov REBOUND (Off:3 Def:0),,
+0021300983,48,5,2,1,7:47 PM,7:56,Millsap STEAL (1 STL),,Mozgov Lost Ball Turnover (P1.T3),,
+0021300983,49,1,1,1,7:47 PM,7:44,Korver  3PT Jump Shot (3 PTS) (Millsap 1 AST),,,3 - 16,13
+0021300983,50,9,1,1,7:47 PM,7:37,,,Nuggets Timeout: Regular (Reg.1 Short 0),,
+0021300983,52,1,1,1,7:50 PM,7:28,,,Chandler 24' 3PT Jump Shot (3 PTS) (Lawson 1 AST),6 - 16,10
+0021300983,53,1,1,1,7:50 PM,7:08,Carroll 25' 3PT Jump Shot (6 PTS) (Millsap 2 AST),,,6 - 19,13
+0021300983,54,1,1,1,7:51 PM,6:54,,,Foye 25' 3PT Jump Shot (3 PTS) (Lawson 2 AST),9 - 19,10
+0021300983,55,2,1,1,7:51 PM,6:35,MISS Antic 24' 3PT Jump Shot,,,,
+0021300983,56,4,0,1,7:51 PM,6:34,,,Lawson REBOUND (Off:1 Def:1),,
+0021300983,57,2,46,1,7:51 PM,6:27,,,MISS Chandler 5' Running Jump Shot,,
+0021300983,58,4,0,1,7:51 PM,6:26,Millsap REBOUND (Off:2 Def:2),,,,
+0021300983,59,2,63,1,7:51 PM,6:18,MISS Millsap 19' Fadeaway Jumper,,,,
+0021300983,60,4,0,1,7:51 PM,6:15,,,Mozgov REBOUND (Off:3 Def:1),,
+0021300983,61,1,5,1,7:51 PM,6:10,,,Faried 3' Layup (5 PTS) (Lawson 3 AST),11 - 19,8
+0021300983,62,2,42,1,7:52 PM,5:56,MISS Millsap 3' Driving Layup,,Mozgov BLOCK (2 BLK),,
+0021300983,63,4,0,1,7:52 PM,5:54,Teague REBOUND (Off:1 Def:0),,,,
+0021300983,64,6,2,1,7:52 PM,5:52,,,Faried S.FOUL (P2.T3),,
+0021300983,65,3,11,1,7:52 PM,5:52,Millsap Free Throw 1 of 2 (6 PTS),,,11 - 20,9
+0021300983,67,8,0,1,7:52 PM,5:52,SUB: Brand FOR Antic,,,,
+0021300983,68,8,0,1,7:52 PM,5:52,,,SUB: Hickson FOR Faried,,
+0021300983,69,3,12,1,7:52 PM,5:52,Millsap Free Throw 2 of 2 (7 PTS),,,11 - 21,10
+0021300983,72,2,77,1,7:53 PM,5:30,Teague BLOCK (1 BLK),,MISS Mozgov 5' Driving Jump Shot,,
+0021300983,73,4,0,1,7:53 PM,5:28,Teague REBOUND (Off:1 Def:1),,,,
+0021300983,74,2,77,1,7:53 PM,5:27,MISS Teague 4' Driving Jump Shot,,Foye BLOCK (1 BLK),,
+0021300983,75,4,0,1,7:53 PM,5:27,HAWKS Rebound,,,,
+0021300983,76,2,77,1,7:53 PM,5:13,MISS Teague 5' Driving Jump Shot,,,,
+0021300983,77,4,0,1,7:54 PM,5:12,,,Mozgov REBOUND (Off:3 Def:2),,
+0021300983,78,5,2,1,7:54 PM,5:03,Millsap STEAL (2 STL),,Mozgov Lost Ball Turnover (P2.T4),,
+0021300983,79,6,2,1,7:54 PM,4:58,,,Chandler S.FOUL (P1.T4),,
+0021300983,80,3,11,1,7:54 PM,4:58,MISS Millsap Free Throw 1 of 2,,,,
+0021300983,81,4,1,1,7:54 PM,4:58,HAWKS Rebound,,,,
+0021300983,82,8,0,1,7:54 PM,4:58,,,SUB: Arthur FOR Mozgov,,
+0021300983,83,3,12,1,7:54 PM,4:58,Millsap Free Throw 2 of 2 (8 PTS),,,11 - 22,11
+0021300983,86,2,1,1,7:55 PM,4:39,,,MISS Arthur 19' Jump Shot,,
+0021300983,87,4,0,1,7:55 PM,4:37,Brand REBOUND (Off:0 Def:1),,,,
+0021300983,88,5,39,1,7:55 PM,4:27,Teague Step Out of Bounds Turnover (P1.T1),,,,
+0021300983,89,2,63,1,7:56 PM,4:16,,,MISS Lawson 15' Fadeaway Jumper,,
+0021300983,90,4,0,1,7:56 PM,4:16,HAWKS Rebound,,,,
+0021300983,91,6,3,1,7:56 PM,4:16,,,Arthur L.B.FOUL (P1.PN),,
+0021300983,92,3,11,1,7:56 PM,4:16,Millsap Free Throw 1 of 2 (9 PTS),,,11 - 23,12
+0021300983,94,8,0,1,7:56 PM,4:16,SUB: Mack FOR Korver,,,,
+0021300983,95,3,12,1,7:56 PM,4:16,Millsap Free Throw 2 of 2 (10 PTS),,,11 - 24,13
+0021300983,97,2,1,1,7:57 PM,4:00,,,MISS Hickson 16' Jump Shot,,
+0021300983,98,4,0,1,7:57 PM,3:58,,,Arthur REBOUND (Off:1 Def:0),,
+0021300983,99,1,42,1,7:57 PM,3:54,,,Chandler 2' Driving Layup (5 PTS) (Arthur 1 AST),13 - 24,11
+0021300983,100,1,1,1,7:57 PM,3:32,Brand 15' Jump Shot (2 PTS) (Teague 3 AST),,,13 - 26,13
+0021300983,101,2,1,1,7:58 PM,3:19,,,MISS Arthur 19' Jump Shot,,
+0021300983,102,4,0,1,7:58 PM,3:18,Carroll REBOUND (Off:0 Def:2),,,,
+0021300983,103,9,1,1,7:58 PM,3:11,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0021300983,105,8,0,1,8:00 PM,3:11,SUB: Schroder FOR Teague,,,,
+0021300983,106,8,0,1,8:00 PM,3:11,,,SUB: Fournier FOR Chandler,,
+0021300983,107,8,0,1,8:00 PM,3:11,,,SUB: Q. Miller FOR Foye,,
+0021300983,108,5,11,1,8:01 PM,2:55,HAWKS Turnover: Shot Clock (T#2),,,,
+0021300983,111,8,0,1,8:01 PM,2:41,SUB: Scott FOR Millsap,,,,
+0021300983,112,2,1,1,8:01 PM,2:36,,,MISS Arthur 19' Jump Shot,,
+0021300983,113,4,0,1,8:02 PM,2:34,,,Nuggets Rebound,,
+0021300983,114,8,0,1,8:02 PM,2:34,,,SUB: Brooks FOR Lawson,,
+0021300983,115,5,1,1,8:02 PM,2:32,Scott STEAL (1 STL),,Q. Miller Bad Pass Turnover (P1.T5),,
+0021300983,116,6,1,1,8:02 PM,2:32,,,Arthur P.FOUL (P2.PN),,
+0021300983,117,3,11,1,8:02 PM,2:32,MISS Schroder Free Throw 1 of 2,,,,
+0021300983,118,4,1,1,8:02 PM,2:32,HAWKS Rebound,,,,
+0021300983,119,8,0,1,8:03 PM,2:32,,,SUB: Vesely FOR Arthur,,
+0021300983,120,3,12,1,8:03 PM,2:32,MISS Schroder Free Throw 2 of 2,,,,
+0021300983,122,4,0,1,8:03 PM,2:31,,,Vesely REBOUND (Off:0 Def:1),,
+0021300983,123,1,77,1,8:03 PM,2:19,,,Fournier 9' Driving Jump Shot (2 PTS),15 - 26,11
+0021300983,124,5,40,1,8:03 PM,2:00,Schroder Out of Bounds Lost Ball Turnover (P1.T3),,,,
+0021300983,125,2,1,1,8:04 PM,1:38,,,MISS Fournier 24' 3PT Jump Shot,,
+0021300983,126,4,0,1,8:04 PM,1:37,Carroll REBOUND (Off:0 Def:3),,,,
+0021300983,128,2,77,1,8:04 PM,1:17,MISS Mack 8' Driving Jump Shot,,,,
+0021300983,129,4,0,1,8:04 PM,1:14,,,Fournier REBOUND (Off:0 Def:1),,
+0021300983,130,6,1,1,8:05 PM,1:06,Brand P.FOUL (P1.T2),,,,
+0021300983,131,2,1,1,8:05 PM,1:00,,,MISS Brooks 25' 3PT Jump Shot,,
+0021300983,132,4,0,1,8:05 PM,0:59,Scott REBOUND (Off:0 Def:1),,,,
+0021300983,133,2,77,1,8:05 PM,0:44,MISS Carroll 6' Driving Jump Shot,,,,
+0021300983,134,4,0,1,8:05 PM,0:42,,,Vesely REBOUND (Off:0 Def:2),,
+0021300983,135,2,41,1,8:05 PM,0:37,,,MISS Brooks 2' Running Layup,,
+0021300983,136,4,0,1,8:05 PM,0:36,Scott REBOUND (Off:0 Def:2),,,,
+0021300983,137,2,42,1,8:05 PM,0:28,MISS Schroder 1' Driving Layup,,,,
+0021300983,138,4,0,1,8:05 PM,0:27,Brand REBOUND (Off:1 Def:1),,,,
+0021300983,139,1,67,1,8:06 PM,0:15,Scott 3' Hook Bank Shot (2 PTS) (Mack 1 AST),,,15 - 28,13
+0021300983,140,5,1,1,8:06 PM,0:01,,,Fournier Bad Pass Turnover (P1.T6),,
+0021300983,141,13,0,1,8:06 PM,0:00,,,,15 - 28,13
+0021300983,143,12,0,2,8:09 PM,12:00,,,,15 - 28,13
+0021300983,144,5,39,2,8:09 PM,11:42,Schroder Step Out of Bounds Turnover (P2.T4),,,,
+0021300983,145,1,1,2,8:10 PM,11:24,,,Hickson 13' Jump Shot (2 PTS) (Q. Miller 1 AST),17 - 28,11
+0021300983,146,2,1,2,8:10 PM,11:10,MISS Martin 25' 3PT Jump Shot,,,,
+0021300983,147,4,0,2,8:10 PM,11:08,,,Hickson REBOUND (Off:0 Def:1),,
+0021300983,148,2,77,2,8:10 PM,10:59,,,MISS Q. Miller 6' Driving Jump Shot,,
+0021300983,149,4,0,2,8:10 PM,10:57,,,Q. Miller REBOUND (Off:1 Def:0),,
+0021300983,150,1,1,2,8:10 PM,10:54,,,Brooks 24' 3PT Jump Shot (3 PTS) (Q. Miller 2 AST),20 - 28,8
+0021300983,152,2,1,2,8:11 PM,10:27,MISS Martin 24' 3PT Jump Shot,,,,
+0021300983,153,4,0,2,8:11 PM,10:25,,,Vesely REBOUND (Off:0 Def:3),,
+0021300983,154,2,1,2,8:11 PM,10:20,,,MISS Fournier 25' 3PT Jump Shot,,
+0021300983,155,4,0,2,8:11 PM,10:17,HAWKS Rebound,,,,
+0021300983,156,2,58,2,8:11 PM,10:08,MISS Scott 10' Turnaround Hook Shot,,,,
+0021300983,157,4,0,2,8:11 PM,10:05,,,Hickson REBOUND (Off:0 Def:2),,
+0021300983,158,1,1,2,8:11 PM,10:00,,,Q. Miller 20' Jump Shot (2 PTS) (Hickson 1 AST),22 - 28,6
+0021300983,159,2,77,2,8:11 PM,9:45,MISS Schroder 7' Driving Jump Shot,,Brooks BLOCK (1 BLK),,
+0021300983,160,4,0,2,8:12 PM,9:43,,,Brooks REBOUND (Off:0 Def:1),,
+0021300983,161,2,1,2,8:12 PM,9:34,,,MISS Q. Miller 25' 3PT Jump Shot,,
+0021300983,162,4,0,2,8:12 PM,9:32,Brand REBOUND (Off:1 Def:2),,,,
+0021300983,163,1,1,2,8:12 PM,9:11,Schroder 25' 3PT Jump Shot (3 PTS) (Brand 1 AST),,,22 - 31,9
+0021300983,164,5,2,2,8:12 PM,9:02,Schroder STEAL (1 STL),,Brooks Lost Ball Turnover (P1.T7),,
+0021300983,165,5,2,2,8:12 PM,8:58,Schroder Lost Ball Turnover (P3.T5),,Vesely STEAL (1 STL),,
+0021300983,166,1,7,2,8:12 PM,8:52,,,Hickson 1' Dunk (4 PTS) (Brooks 1 AST),24 - 31,7
+0021300983,167,5,1,2,8:13 PM,8:39,Brand Bad Pass Turnover (P1.T6),,Fournier STEAL (1 STL),,
+0021300983,168,1,8,2,8:13 PM,8:34,,,Hickson 1' Slam Dunk (6 PTS) (Brooks 2 AST),26 - 31,5
+0021300983,169,9,1,2,8:13 PM,8:34,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0021300983,171,8,0,2,8:15 PM,8:34,SUB: Antic FOR Brand,,,,
+0021300983,172,8,0,2,8:15 PM,8:34,SUB: Teague FOR Mack,,,,
+0021300983,173,8,0,2,8:15 PM,8:34,SUB: Korver FOR Schroder,,,,
+0021300983,175,1,44,2,8:15 PM,8:15,Korver 2' Reverse Layup (5 PTS) (Antic 1 AST),,,26 - 33,7
+0021300983,176,2,42,2,8:16 PM,8:01,,,MISS Fournier 1' Driving Layup,,
+0021300983,177,4,0,2,8:16 PM,8:00,Korver REBOUND (Off:0 Def:2),,,,
+0021300983,178,2,1,2,8:16 PM,7:49,MISS Martin  3PT Jump Shot,,,,
+0021300983,179,4,0,2,8:16 PM,7:48,,,Brooks REBOUND (Off:0 Def:2),,
+0021300983,181,8,0,2,8:16 PM,7:41,SUB: Millsap FOR Scott,,,,
+0021300983,182,8,0,2,8:16 PM,7:41,SUB: Carroll FOR Martin,,,,
+0021300983,183,2,1,2,8:17 PM,7:34,,,MISS Fournier 25' 3PT Jump Shot,,
+0021300983,184,4,0,2,8:17 PM,7:33,Millsap REBOUND (Off:2 Def:3),,,,
+0021300983,185,2,63,2,8:17 PM,7:08,MISS Millsap 13' Fadeaway Jumper,,,,
+0021300983,186,4,0,2,8:17 PM,7:06,,,Hickson REBOUND (Off:0 Def:3),,
+0021300983,197,5,1,2,8:17 PM,7:06,Carroll STEAL (1 STL),,Q. Miller Bad Pass Turnover (P2.T8),,
+0021300983,187,5,1,2,8:17 PM,6:51,Carroll Bad Pass Turnover (P1.T7),,Hickson STEAL (1 STL),,
+0021300983,220,5,1,2,8:18 PM,6:28,,,Hickson Bad Pass Turnover (P1.T9),,
+0021300983,188,1,77,2,8:18 PM,6:28,Teague 12' Driving Jump Shot (2 PTS),,,26 - 35,9
+0021300983,189,6,1,2,8:18 PM,6:23,Antic P.FOUL (P1.T1),,,,
+0021300983,190,2,77,2,8:18 PM,6:17,Millsap BLOCK (2 BLK),,MISS Hickson 8' Driving Jump Shot,,
+0021300983,191,4,0,2,8:18 PM,6:15,Carroll REBOUND (Off:0 Def:4),,,,
+0021300983,192,2,1,2,8:19 PM,5:59,MISS Antic  3PT Jump Shot,,Q. Miller BLOCK (1 BLK),,
+0021300983,193,4,0,2,8:19 PM,5:59,HAWKS Rebound,,,,
+0021300983,194,9,4,2,8:19 PM,5:59,,,,,
+0021300983,199,8,0,2,8:21 PM,5:59,,,SUB: Chandler FOR Hickson,,
+0021300983,200,8,0,2,8:21 PM,5:59,,,SUB: Foye FOR Fournier,,
+0021300983,201,8,0,2,8:21 PM,5:59,,,SUB: Faried FOR Q. Miller,,
+0021300983,202,2,77,2,8:22 PM,5:52,MISS Teague 10' Driving Jump Shot,,,,
+0021300983,203,4,0,2,8:22 PM,5:50,,,Faried REBOUND (Off:0 Def:1),,
+0021300983,204,1,46,2,8:22 PM,5:46,,,Faried 4' Running Jump Shot (7 PTS),28 - 35,7
+0021300983,206,2,1,2,8:22 PM,5:27,MISS Antic 25' 3PT Jump Shot,,,,
+0021300983,207,4,0,2,8:22 PM,5:27,,,Nuggets Rebound,,
+0021300983,208,2,1,2,8:22 PM,5:16,,,MISS Faried 15' Jump Shot,,
+0021300983,209,4,0,2,8:22 PM,5:15,Millsap REBOUND (Off:2 Def:4),,,,
+0021300983,210,1,1,2,8:23 PM,5:03,Korver 25' 3PT Jump Shot (8 PTS) (Antic 2 AST),,,28 - 38,10
+0021300983,212,1,42,2,8:23 PM,4:45,,,Chandler 3' Driving Layup (7 PTS) (Brooks 3 AST),30 - 38,8
+0021300983,214,2,77,2,8:23 PM,4:32,MISS Teague 6' Driving Jump Shot,,Brooks BLOCK (2 BLK),,
+0021300983,215,4,0,2,8:23 PM,4:29,,,Vesely REBOUND (Off:0 Def:4),,
+0021300983,217,8,0,2,8:23 PM,4:22,,,SUB: Lawson FOR Brooks,,
+0021300983,218,2,77,2,8:24 PM,4:15,,,MISS Foye 5' Driving Jump Shot,,
+0021300983,219,4,0,2,8:24 PM,4:14,,,Nuggets Rebound,,
+0021300983,221,6,2,2,8:24 PM,4:11,Antic S.FOUL (P2.T2),,,,
+0021300983,222,3,11,2,8:24 PM,4:11,,,Faried Free Throw 1 of 2 (8 PTS),31 - 38,7
+0021300983,225,3,12,2,8:25 PM,4:11,,,Faried Free Throw 2 of 2 (9 PTS),32 - 38,6
+0021300983,227,1,42,2,8:25 PM,3:57,Antic 1' Driving Layup (7 PTS),,,32 - 40,8
+0021300983,228,2,1,2,8:25 PM,3:47,,,MISS Faried 5' Jump Shot,,
+0021300983,230,4,0,2,8:25 PM,3:45,,,Faried REBOUND (Off:1 Def:1),,
+0021300983,229,2,4,2,8:25 PM,3:45,,,MISS Faried  Tip Shot,,
+0021300983,231,4,0,2,8:25 PM,3:44,Millsap REBOUND (Off:2 Def:5),,,,
+0021300983,232,1,7,2,8:25 PM,3:40,Carroll  Dunk (8 PTS) (Millsap 3 AST),,,32 - 42,10
+0021300983,233,5,1,2,8:26 PM,3:16,Carroll STEAL (2 STL),,Chandler Bad Pass Turnover (P2.T10),,
+0021300983,234,6,1,2,8:26 PM,3:16,,,Chandler P.FOUL (P2.T1),,
+0021300983,236,2,86,2,8:26 PM,3:01,MISS Millsap 15' Turnaround Fadeaway Shot,,,,
+0021300983,237,4,0,2,8:26 PM,2:58,,,Lawson REBOUND (Off:1 Def:2),,
+0021300983,238,2,77,2,8:26 PM,2:53,,,MISS Lawson 8' Driving Jump Shot,,
+0021300983,239,4,0,2,8:26 PM,2:52,Carroll REBOUND (Off:0 Def:5),,,,
+0021300983,240,2,1,2,8:27 PM,2:45,MISS Carroll 25' 3PT Jump Shot,,,,
+0021300983,241,4,0,2,8:27 PM,2:43,,,Faried REBOUND (Off:1 Def:2),,
+0021300983,242,1,1,2,8:27 PM,2:36,,,Chandler 25' 3PT Jump Shot (10 PTS) (Faried 1 AST),35 - 42,7
+0021300983,243,1,1,2,8:27 PM,2:21,Antic 26' 3PT Jump Shot (10 PTS) (Teague 4 AST),,,35 - 45,10
+0021300983,244,5,2,2,8:27 PM,2:13,Korver STEAL (1 STL),,Lawson Lost Ball Turnover (P1.T11),,
+0021300983,245,1,41,2,8:27 PM,2:06,Teague 2' Running Layup (4 PTS) (Carroll 2 AST),,,35 - 47,12
+0021300983,246,9,1,2,8:27 PM,2:03,,,Nuggets Timeout: Regular (Reg.2 Short 0),,
+0021300983,248,8,0,2,8:30 PM,2:03,,,SUB: Hickson FOR Vesely,,
+0021300983,249,8,0,2,8:30 PM,2:03,SUB: Brand FOR Antic,,,,
+0021300983,250,2,1,2,8:30 PM,1:38,,,MISS Foye 27' 3PT Jump Shot,,
+0021300983,251,4,0,2,8:30 PM,1:38,,,Nuggets Rebound,,
+0021300983,252,5,11,2,8:30 PM,1:38,,,Nuggets Turnover: Shot Clock (T#12),,
+0021300983,253,2,1,2,8:31 PM,1:28,MISS Millsap 25' 3PT Jump Shot,,,,
+0021300983,254,4,0,2,8:31 PM,1:26,,,Hickson REBOUND (Off:0 Def:4),,
+0021300983,255,1,52,2,8:31 PM,1:21,,,Chandler 1' Alley Oop Dunk (12 PTS) (Lawson 4 AST),37 - 47,10
+0021300983,256,1,1,2,8:31 PM,1:04,Carroll 25' 3PT Jump Shot (11 PTS) (Millsap 4 AST),,,37 - 50,13
+0021300983,257,2,1,2,8:31 PM,0:54,,,MISS Hickson 8' Jump Shot,,
+0021300983,258,4,0,2,8:31 PM,0:51,Millsap REBOUND (Off:2 Def:6),,,,
+0021300983,259,5,39,2,8:31 PM,0:42,Teague Step Out of Bounds Turnover (P2.T8),,,,
+0021300983,260,5,1,2,8:32 PM,0:28,,,Foye Bad Pass Turnover (P2.T13),,
+0021300983,261,8,0,2,8:32 PM,0:28,SUB: Antic FOR Brand,,,,
+0021300983,262,1,42,2,8:32 PM,0:12,Teague  Driving Layup (6 PTS),,,37 - 52,15
+0021300983,263,6,2,2,8:32 PM,0:12,,,Lawson S.FOUL (P1.T2),,
+0021300983,264,8,0,2,8:33 PM,0:12,SUB: Brand FOR Antic,,,,
+0021300983,265,3,10,2,8:33 PM,0:12,Teague Free Throw 1 of 1 (7 PTS),,,37 - 53,16
+0021300983,267,6,2,2,8:33 PM,0:00,Millsap S.FOUL (P1.T3),,,,
+0021300983,268,3,11,2,8:33 PM,0:00,,,MISS Faried Free Throw 1 of 2,,
+0021300983,269,4,1,2,8:33 PM,0:00,,,Nuggets Rebound,,
+0021300983,270,3,12,2,8:34 PM,0:00,,,MISS Faried Free Throw 2 of 2,,
+0021300983,272,4,0,2,8:34 PM,0:00,,,Hickson REBOUND (Off:1 Def:4),,
+0021300983,273,13,0,2,8:34 PM,0:00,,,,37 - 53,16
+0021300983,275,12,0,3,8:50 PM,12:00,,,,37 - 53,16
+0021300983,276,1,42,3,8:51 PM,11:48,Millsap 2' Driving Layup (12 PTS) (Teague 5 AST),,,37 - 55,18
+0021300983,277,5,2,3,8:51 PM,11:36,Carroll STEAL (3 STL),,Mozgov Lost Ball Turnover (P3.T14),,
+0021300983,278,1,1,3,8:51 PM,11:26,Antic 25' 3PT Jump Shot (13 PTS) (Teague 6 AST),,,37 - 58,21
+0021300983,279,1,57,3,8:51 PM,11:11,,,Faried 4' Driving Hook Shot (11 PTS) (Lawson 5 AST),39 - 58,19
+0021300983,280,2,5,3,8:52 PM,10:48,MISS Millsap 1' Layup,,,,
+0021300983,281,4,0,3,8:52 PM,10:46,,,Mozgov REBOUND (Off:3 Def:3),,
+0021300983,282,6,4,3,8:52 PM,10:43,,,Foye OFF.Foul (P1),,
+0021300983,283,5,5,3,8:52 PM,10:43,,,Foye Foul Turnover (P3.T15),,
+0021300983,284,2,63,3,8:52 PM,10:26,MISS Korver 13' Fadeaway Jumper,,,,
+0021300983,285,4,0,3,8:52 PM,10:24,,,Lawson REBOUND (Off:1 Def:3),,
+0021300983,286,10,0,3,8:53 PM,10:16,Jump Ball Korver vs. Faried: Tip to Chandler,,,,
+0021300983,287,2,1,3,8:53 PM,10:06,,,MISS Lawson 26' 3PT Jump Shot,,
+0021300983,288,4,0,3,8:53 PM,10:05,Millsap REBOUND (Off:2 Def:7),,,,
+0021300983,289,2,1,3,8:53 PM,9:47,MISS Carroll 24' 3PT Jump Shot,,,,
+0021300983,290,4,0,3,8:53 PM,9:46,,,Foye REBOUND (Off:0 Def:2),,
+0021300983,291,6,2,3,8:53 PM,9:38,Antic S.FOUL (P3.T1),,,,
+0021300983,292,3,11,3,8:54 PM,9:38,,,Foye Free Throw 1 of 2 (4 PTS),40 - 58,18
+0021300983,294,3,12,3,8:54 PM,9:38,,,Foye Free Throw 2 of 2 (5 PTS),41 - 58,17
+0021300983,296,6,1,3,8:54 PM,9:34,,,Chandler P.FOUL (P3.T1),,
+0021300983,297,1,1,3,8:55 PM,9:21,Korver 18' Jump Shot (10 PTS) (Millsap 5 AST),,,41 - 60,19
+0021300983,298,5,1,3,8:55 PM,9:06,Antic STEAL (1 STL),,Lawson Bad Pass Turnover (P2.T16),,
+0021300983,300,2,1,3,8:56 PM,8:42,MISS Carroll 20' Jump Shot,,,,
+0021300983,301,4,0,3,8:56 PM,8:40,,,Faried REBOUND (Off:1 Def:3),,
+0021300983,302,1,41,3,8:56 PM,8:34,,,Mozgov 3' Running Layup (2 PTS) (Lawson 6 AST),43 - 60,17
+0021300983,304,2,1,3,8:56 PM,8:06,MISS Millsap 26' 3PT Jump Shot,,,,
+0021300983,305,4,0,3,8:56 PM,8:05,,,Foye REBOUND (Off:0 Def:3),,
+0021300983,306,1,1,3,8:56 PM,7:55,,,Mozgov 16' Jump Shot (4 PTS) (Foye 1 AST),45 - 60,15
+0021300983,307,2,1,3,8:57 PM,7:28,MISS Carroll 26' 3PT Jump Shot,,,,
+0021300983,308,4,0,3,8:57 PM,7:27,,,Faried REBOUND (Off:1 Def:4),,
+0021300983,309,6,2,3,8:57 PM,7:22,Millsap S.FOUL (P2.T2),,,,
+0021300983,310,3,11,3,8:57 PM,7:22,,,Faried Free Throw 1 of 2 (12 PTS),46 - 60,14
+0021300983,312,3,12,3,8:57 PM,7:22,,,Faried Free Throw 2 of 2 (13 PTS),47 - 60,13
+0021300983,314,5,2,3,8:58 PM,7:13,Teague Lost Ball Turnover (P3.T9),,Lawson STEAL (1 STL),,
+0021300983,315,6,9,3,8:58 PM,7:13,Antic C.P.FOUL (P4.T3),,,,
+0021300983,316,18,0,3,8:58 PM,7:13,,,,,
+0021300983,317,3,25,3,9:00 PM,7:13,,,Faried Free Throw Clear Path 1 of 2 (14 PTS),48 - 60,12
+0021300983,319,3,26,3,9:00 PM,7:13,,,MISS Faried Free Throw Clear Path 2 of 2,,
+0021300983,320,4,1,3,9:00 PM,7:13,,,Nuggets Rebound,,
+0021300983,321,8,0,3,9:00 PM,7:13,SUB: Brand FOR Antic,,,,
+0021300983,322,2,77,3,9:01 PM,7:03,,,MISS Chandler 4' Driving Jump Shot,,
+0021300983,323,4,0,3,9:01 PM,7:03,HAWKS Rebound,,,,
+0021300983,324,6,3,3,9:01 PM,7:03,,,Mozgov L.B.FOUL (P2.T2),,
+0021300983,325,2,42,3,9:01 PM,6:46,MISS Teague 1' Driving Layup,,Faried BLOCK (1 BLK),,
+0021300983,326,4,0,3,9:01 PM,6:46,HAWKS Rebound,,,,
+0021300983,327,2,5,3,9:01 PM,6:41,MISS Brand 2' Layup,,,,
+0021300983,328,4,0,3,9:02 PM,6:39,,,Mozgov REBOUND (Off:3 Def:4),,
+0021300983,329,1,7,3,9:02 PM,6:32,,,Mozgov  Dunk (6 PTS) (Foye 2 AST),50 - 60,10
+0021300983,330,9,1,3,9:02 PM,6:32,HAWKS Timeout: Regular (Full 3 Short 0),,,,
+0021300983,333,6,4,3,9:04 PM,6:20,Korver OFF.Foul (P1),,,,
+0021300983,334,5,5,3,9:04 PM,6:20,Korver Foul Turnover (P1.T10),,,,
+0021300983,335,2,42,3,9:05 PM,6:09,Brand BLOCK (1 BLK),,MISS Foye 2' Driving Layup,,
+0021300983,336,4,0,3,9:05 PM,6:07,Teague REBOUND (Off:1 Def:2),,,,
+0021300983,337,5,2,3,9:05 PM,6:02,Teague Lost Ball Turnover (P4.T11),,Lawson STEAL (2 STL),,
+0021300983,338,5,39,3,9:05 PM,5:57,,,Chandler Step Out of Bounds Turnover (P3.T17),,
+0021300983,339,1,1,3,9:06 PM,5:43,Millsap 15' Jump Shot (14 PTS) (Teague 7 AST),,,50 - 62,12
+0021300983,340,1,67,3,9:06 PM,5:29,,,Faried 7' Hook Bank Shot (16 PTS) (Lawson 7 AST),52 - 62,10
+0021300983,341,2,1,3,9:06 PM,5:08,MISS Teague 25' 3PT Jump Shot,,,,
+0021300983,342,4,0,3,9:06 PM,5:06,,,Chandler REBOUND (Off:0 Def:1),,
+0021300983,343,1,1,3,9:06 PM,5:01,,,Foye 25' 3PT Jump Shot (8 PTS) (Chandler 1 AST),55 - 62,7
+0021300983,344,6,1,3,9:07 PM,4:47,,,Foye P.FOUL (P2.T3),,
+0021300983,345,1,66,3,9:07 PM,4:39,Millsap 15' Jump Bank Shot (16 PTS) (Teague 8 AST),,,55 - 64,9
+0021300983,346,5,2,3,9:07 PM,4:24,Millsap STEAL (3 STL),,Mozgov Lost Ball Turnover (P4.T18),,
+0021300983,347,6,1,3,9:07 PM,4:21,,,Lawson P.FOUL (P2.T4),,
+0021300983,348,8,0,3,9:08 PM,4:21,,,SUB: Hickson FOR Mozgov,,
+0021300983,349,2,1,3,9:08 PM,4:03,MISS Carroll 25' 3PT Jump Shot,,,,
+0021300983,350,4,0,3,9:08 PM,4:02,,,Lawson REBOUND (Off:1 Def:4),,
+0021300983,351,1,41,3,9:08 PM,3:58,,,Faried 1' Running Layup (18 PTS) (Lawson 8 AST),57 - 64,7
+0021300983,353,1,1,3,9:08 PM,3:42,Korver 25' 3PT Jump Shot (13 PTS) (Teague 9 AST),,,57 - 67,10
+0021300983,354,2,1,3,9:08 PM,3:29,,,MISS Lawson 10' Jump Shot,,
+0021300983,355,4,0,3,9:08 PM,3:28,Brand REBOUND (Off:1 Def:3),,,,
+0021300983,356,1,74,3,9:09 PM,3:23,Teague  Running Reverse Layup (9 PTS),,,57 - 69,12
+0021300983,357,9,1,3,9:09 PM,3:22,,,Nuggets Timeout: Regular (Reg.3 Short 0),,
+0021300983,359,8,0,3,9:11 PM,3:22,SUB: Schroder FOR Korver,,,,
+0021300983,360,8,0,3,9:11 PM,3:22,SUB: Mack FOR Teague,,,,
+0021300983,361,8,0,3,9:11 PM,3:22,,,SUB: Brooks FOR Foye,,
+0021300983,362,1,52,3,9:12 PM,3:03,,,Faried 1' Alley Oop Dunk (20 PTS) (Brooks 4 AST),59 - 69,10
+0021300983,363,1,47,3,9:12 PM,2:48,Millsap 13' Turnaround Jump Shot (18 PTS) (Schroder 1 AST),,,59 - 71,12
+0021300983,364,6,26,3,9:12 PM,2:36,,,Chandler Offensive Charge Foul (P4.PN),,
+0021300983,365,5,5,3,9:12 PM,2:36,,,Chandler Foul Turnover (P4.T19),,
+0021300983,366,8,0,3,9:12 PM,2:36,,,SUB: Fournier FOR Chandler,,
+0021300983,367,1,42,3,9:13 PM,2:26,Schroder 2' Driving Layup (5 PTS),,,59 - 73,14
+0021300983,368,6,1,3,9:13 PM,2:13,Millsap P.FOUL (P3.T4),,,,
+0021300983,369,8,0,3,9:13 PM,2:13,SUB: Scott FOR Millsap,,,,
+0021300983,370,1,1,3,9:14 PM,1:59,,,Fournier 25' 3PT Jump Shot (5 PTS) (Lawson 9 AST),62 - 73,11
+0021300983,371,1,1,3,9:14 PM,1:41,Mack  3PT Jump Shot (3 PTS) (Scott 1 AST),,,62 - 76,14
+0021300983,372,6,2,3,9:14 PM,1:29,Mack S.FOUL (P1.PN),,,,
+0021300983,373,3,11,3,9:14 PM,1:29,,,MISS Hickson Free Throw 1 of 2,,
+0021300983,374,4,1,3,9:14 PM,1:29,,,Nuggets Rebound,,
+0021300983,375,3,12,3,9:15 PM,1:29,,,Hickson Free Throw 2 of 2 (7 PTS),63 - 76,13
+0021300983,378,2,41,3,9:15 PM,1:09,MISS Scott 2' Running Layup,,,,
+0021300983,379,4,0,3,9:15 PM,1:08,,,Faried REBOUND (Off:1 Def:5),,
+0021300983,380,5,1,3,9:15 PM,1:06,Carroll STEAL (4 STL),,Faried Bad Pass Turnover (P1.T20),,
+0021300983,381,6,2,3,9:16 PM,1:01,,,Faried S.FOUL (P3.PN),,
+0021300983,382,3,11,3,9:16 PM,1:01,MISS Brand Free Throw 1 of 2,,,,
+0021300983,383,4,1,3,9:16 PM,1:01,HAWKS Rebound,,,,
+0021300983,384,8,0,3,9:16 PM,1:01,,,SUB: Arthur FOR Faried,,
+0021300983,385,3,12,3,9:16 PM,1:01,Brand Free Throw 2 of 2 (3 PTS),,,63 - 77,14
+0021300983,387,1,42,3,9:17 PM,0:51,,,Brooks 3' Driving Layup (5 PTS),65 - 77,12
+0021300983,388,2,1,3,9:17 PM,0:36,MISS Brand 16' Jump Shot,,,,
+0021300983,389,4,0,3,9:17 PM,0:35,,,Arthur REBOUND (Off:1 Def:1),,
+0021300983,390,1,1,3,9:17 PM,0:27,,,Arthur 26' 3PT Jump Shot (3 PTS) (Brooks 5 AST),68 - 77,9
+0021300983,391,2,1,3,9:18 PM,0:07,MISS Schroder 17' Jump Shot,,,,
+0021300983,392,4,0,3,9:18 PM,0:07,HAWKS Rebound,,,,
+0021300983,393,6,1,3,9:18 PM,0:07,,,Fournier P.FOUL (P1.PN),,
+0021300983,394,3,11,3,9:18 PM,0:07,MISS Scott Free Throw 1 of 2,,,,
+0021300983,395,4,1,3,9:18 PM,0:07,HAWKS Rebound,,,,
+0021300983,396,8,0,3,9:18 PM,0:07,SUB: Martin FOR Brand,,,,
+0021300983,397,3,12,3,9:18 PM,0:07,MISS Scott Free Throw 2 of 2,,,,
+0021300983,399,4,0,3,9:18 PM,0:05,,,Hickson REBOUND (Off:1 Def:5),,
+0021300983,400,1,1,3,9:19 PM,0:00,,,Fournier  3PT Jump Shot (8 PTS) (Lawson 10 AST),71 - 77,6
+0021300983,402,18,0,3,9:19 PM,0:00,,,,,
+0021300983,403,13,0,3,9:19 PM,0:00,,,,71 - 77,6
+0021300983,405,12,0,4,9:22 PM,12:00,,,,71 - 77,6
+0021300983,406,1,42,4,9:22 PM,11:42,,,Fournier 2' Driving Layup (10 PTS),73 - 77,4
+0021300983,407,2,77,4,9:22 PM,11:19,MISS Schroder 8' Driving Jump Shot,,,,
+0021300983,408,4,0,4,9:22 PM,11:19,,,Nuggets Rebound,,
+0021300983,409,1,1,4,9:23 PM,10:58,,,Hickson 17' Jump Shot (9 PTS),75 - 77,2
+0021300983,410,2,77,4,9:23 PM,10:40,MISS Schroder 8' Driving Jump Shot,,,,
+0021300983,411,4,0,4,9:23 PM,10:39,,,Hickson REBOUND (Off:1 Def:6),,
+0021300983,412,1,42,4,9:23 PM,10:27,,,Brooks 2' Driving Layup (7 PTS),77 - 77,TIE
+0021300983,413,9,1,4,9:23 PM,10:27,HAWKS Timeout: Regular (Full 4 Short 0),,,,
+0021300983,415,8,0,4,9:25 PM,10:27,SUB: Millsap FOR Brand,,,,
+0021300983,416,8,0,4,9:25 PM,10:27,SUB: Antic FOR Mack,,,,
+0021300983,417,8,0,4,9:25 PM,10:27,SUB: Carroll FOR Schroder,,,,
+0021300983,418,8,0,4,9:25 PM,10:27,SUB: Teague FOR Scott,,,,
+0021300983,420,2,1,4,9:26 PM,10:08,MISS Antic 26' 3PT Jump Shot,,,,
+0021300983,421,4,0,4,9:26 PM,10:06,,,Fournier REBOUND (Off:0 Def:2),,
+0021300983,422,2,42,4,9:26 PM,9:56,,,MISS Brooks 3' Driving Layup,,
+0021300983,423,4,0,4,9:26 PM,9:51,Korver REBOUND (Off:0 Def:3),,,,
+0021300983,424,1,1,4,9:26 PM,9:33,Korver 27' 3PT Jump Shot (16 PTS) (Carroll 3 AST),,,77 - 80,3
+0021300983,425,1,1,4,9:27 PM,9:14,,,Arthur 21' Jump Shot (5 PTS) (Brooks 6 AST),79 - 80,1
+0021300983,426,6,1,4,9:27 PM,8:57,,,Hickson P.FOUL (P1.T1),,
+0021300983,427,5,4,4,9:28 PM,8:47,Carroll Traveling Turnover (P2.T12),,,,
+0021300983,428,2,1,4,9:28 PM,8:27,,,MISS Fournier 25' 3PT Jump Shot,,
+0021300983,429,4,0,4,9:28 PM,8:27,HAWKS Rebound,,,,
+0021300983,430,2,63,4,9:29 PM,8:14,MISS Korver 17' Fadeaway Jumper,,,,
+0021300983,431,4,0,4,9:29 PM,8:11,,,Fournier REBOUND (Off:0 Def:3),,
+0021300983,432,2,1,4,9:29 PM,8:02,,,MISS Lawson 20' Jump Shot,,
+0021300983,433,4,0,4,9:29 PM,8:01,Millsap REBOUND (Off:2 Def:8),,,,
+0021300983,434,5,1,4,9:29 PM,7:45,Teague Bad Pass Turnover (P5.T13),,Brooks STEAL (1 STL),,
+0021300983,435,2,1,4,9:29 PM,7:29,,,MISS Lawson 26' 3PT Jump Shot,,
+0021300983,436,4,0,4,9:29 PM,7:27,Carroll REBOUND (Off:0 Def:6),,,,
+0021300983,437,2,63,4,9:30 PM,7:14,MISS Millsap 17' Fadeaway Jumper,,,,
+0021300983,438,4,0,4,9:30 PM,7:12,,,Lawson REBOUND (Off:1 Def:5),,
+0021300983,439,6,2,4,9:30 PM,7:10,Teague S.FOUL (P2.T1),,,,
+0021300983,440,3,11,4,9:30 PM,7:10,,,Arthur Free Throw 1 of 2 (6 PTS),80 - 80,TIE
+0021300983,442,3,12,4,9:30 PM,7:10,,,Arthur Free Throw 2 of 2 (7 PTS),81 - 80,-1
+0021300983,445,6,1,4,9:31 PM,6:56,,,Fournier P.FOUL (P2.T2),,
+0021300983,446,6,2,4,9:32 PM,6:45,,,Fournier S.FOUL (P3.T3),,
+0021300983,447,3,11,4,9:33 PM,6:45,Antic Free Throw 1 of 2 (14 PTS),,,81 - 81,TIE
+0021300983,449,3,12,4,9:33 PM,6:45,MISS Antic Free Throw 2 of 2,,,,
+0021300983,451,4,0,4,9:33 PM,6:43,,,Hickson REBOUND (Off:1 Def:7),,
+0021300983,452,6,2,4,9:33 PM,6:28,Korver S.FOUL (P2.T2),,,,
+0021300983,453,3,11,4,9:34 PM,6:28,,,Lawson Free Throw 1 of 2 (1 PTS),82 - 81,-1
+0021300983,455,3,12,4,9:34 PM,6:28,,,MISS Lawson Free Throw 2 of 2,,
+0021300983,457,4,0,4,9:34 PM,6:26,Carroll REBOUND (Off:0 Def:7),,,,
+0021300983,459,6,2,4,9:34 PM,6:12,,,Arthur S.FOUL (P3.T4),,
+0021300983,460,3,11,4,9:34 PM,6:12,Millsap Free Throw 1 of 2 (19 PTS),,,82 - 82,TIE
+0021300983,462,3,12,4,9:35 PM,6:12,Millsap Free Throw 2 of 2 (20 PTS),,,82 - 83,1
+0021300983,464,2,1,4,9:35 PM,5:58,,,MISS Lawson 20' Jump Shot,,
+0021300983,466,4,0,4,9:35 PM,5:55,,,Arthur REBOUND (Off:2 Def:1),,
+0021300983,465,1,4,4,9:35 PM,5:55,,,Arthur  Tip Shot (9 PTS),84 - 83,-1
+0021300983,467,2,1,4,9:35 PM,5:35,MISS Antic  3PT Jump Shot,,,,
+0021300983,468,4,0,4,9:35 PM,5:33,,,Arthur REBOUND (Off:2 Def:2),,
+0021300983,469,2,1,4,9:36 PM,5:21,,,MISS Arthur 25' 3PT Jump Shot,,
+0021300983,470,4,0,4,9:36 PM,5:16,Carroll REBOUND (Off:0 Def:8),,,,
+0021300983,471,5,1,4,9:36 PM,5:15,Carroll Bad Pass Turnover (P3.T14),,Brooks STEAL (2 STL),,
+0021300983,472,6,2,4,9:36 PM,5:13,Antic S.FOUL (P5.T3),,,,
+0021300983,474,9,4,4,9:37 PM,5:13,,,,,
+0021300983,475,8,0,4,9:38 PM,5:13,SUB: Scott FOR Antic,,,,
+0021300983,477,3,11,4,9:39 PM,5:13,,,MISS Lawson Free Throw 1 of 2,,
+0021300983,478,4,1,4,9:39 PM,5:13,,,Nuggets Rebound,,
+0021300983,479,3,12,4,9:39 PM,5:13,,,Lawson Free Throw 2 of 2 (2 PTS),85 - 83,-2
+0021300983,482,6,2,4,9:39 PM,4:57,,,Brooks S.FOUL (P1.PN),,
+0021300983,483,3,11,4,9:40 PM,4:57,Millsap Free Throw 1 of 2 (21 PTS),,,85 - 84,-1
+0021300983,485,8,0,4,9:40 PM,4:57,SUB: Brand FOR Scott,,,,
+0021300983,486,3,12,4,9:40 PM,4:57,MISS Millsap Free Throw 2 of 2,,,,
+0021300983,488,4,0,4,9:40 PM,4:56,,,Hickson REBOUND (Off:1 Def:8),,
+0021300983,489,6,2,4,9:40 PM,4:43,Brand S.FOUL (P2.T4),,,,
+0021300983,490,3,11,4,9:41 PM,4:43,,,Hickson Free Throw 1 of 2 (10 PTS),86 - 84,-2
+0021300983,492,3,12,4,9:41 PM,4:43,,,Hickson Free Throw 2 of 2 (11 PTS),87 - 84,-3
+0021300983,494,1,77,4,9:41 PM,4:23,Millsap 5' Driving Jump Shot (23 PTS) (Teague 10 AST),,,87 - 86,-1
+0021300983,495,2,5,4,9:41 PM,4:11,,,MISS Lawson 2' Layup,,
+0021300983,496,4,0,4,9:41 PM,4:10,,,Hickson REBOUND (Off:2 Def:8),,
+0021300983,497,2,1,4,9:41 PM,4:07,,,MISS Hickson 4' Jump Shot,,
+0021300983,498,4,0,4,9:41 PM,4:06,Teague REBOUND (Off:1 Def:3),,,,
+0021300983,499,1,1,4,9:42 PM,3:59,Teague 24' 3PT Jump Shot (12 PTS),,,87 - 89,2
+0021300983,500,9,1,4,9:42 PM,3:59,,,Nuggets Timeout: Regular (Reg.4 Short 0),,
+0021300983,503,8,0,4,9:44 PM,3:59,,,SUB: Chandler FOR Hickson,,
+0021300983,504,8,0,4,9:44 PM,3:59,,,SUB: Faried FOR Arthur,,
+0021300983,505,2,78,4,9:44 PM,3:49,,,MISS Brooks 11' Floating Jump Shot,,
+0021300983,506,4,0,4,9:44 PM,3:48,Carroll REBOUND (Off:0 Def:9),,,,
+0021300983,507,2,5,4,9:45 PM,3:34,MISS Carroll 2' Layup,,,,
+0021300983,508,4,0,4,9:45 PM,3:31,Carroll REBOUND (Off:1 Def:9),,,,
+0021300983,509,2,72,4,9:45 PM,3:29,MISS Carroll 1' Putback Layup,,,,
+0021300983,510,4,0,4,9:45 PM,3:28,,,Faried REBOUND (Off:1 Def:6),,
+0021300983,511,2,1,4,9:45 PM,3:18,,,MISS Chandler  3PT Jump Shot,,
+0021300983,512,4,0,4,9:45 PM,3:16,Teague REBOUND (Off:1 Def:4),,,,
+0021300983,513,2,1,4,9:45 PM,2:53,MISS Teague 25' 3PT Jump Shot,,,,
+0021300983,514,4,0,4,9:45 PM,2:51,,,Fournier REBOUND (Off:0 Def:4),,
+0021300983,515,1,5,4,9:46 PM,2:43,,,Faried 2' Layup (22 PTS) (Brooks 7 AST),89 - 89,TIE
+0021300983,516,2,42,4,9:46 PM,2:22,MISS Millsap 2' Driving Layup,,,,
+0021300983,517,4,0,4,9:46 PM,2:21,,,Lawson REBOUND (Off:1 Def:6),,
+0021300983,518,2,1,4,9:46 PM,2:16,,,MISS Brooks 25' 3PT Jump Shot,,
+0021300983,519,4,0,4,9:46 PM,2:13,Korver REBOUND (Off:0 Def:4),,,,
+0021300983,520,1,1,4,9:46 PM,1:51,Teague 20' Jump Shot (14 PTS),,,89 - 91,2
+0021300983,521,2,1,4,9:47 PM,1:39,,,MISS Fournier 25' 3PT Jump Shot,,
+0021300983,522,4,0,4,9:47 PM,1:37,Teague REBOUND (Off:1 Def:5),,,,
+0021300983,523,2,1,4,9:47 PM,1:28,MISS Millsap 25' 3PT Jump Shot,,,,
+0021300983,524,4,0,4,9:47 PM,1:25,,,Lawson REBOUND (Off:1 Def:7),,
+0021300983,525,2,77,4,9:47 PM,1:16,Brand BLOCK (2 BLK),,MISS Lawson 9' Driving Jump Shot,,
+0021300983,526,4,0,4,9:47 PM,1:15,,,Lawson REBOUND (Off:2 Def:7),,
+0021300983,527,6,1,4,9:47 PM,1:13,Brand P.FOUL (P3.PN),,,,
+0021300983,528,3,11,4,9:47 PM,1:13,,,MISS Faried Free Throw 1 of 2,,
+0021300983,529,4,1,4,9:48 PM,1:13,,,Nuggets Rebound,,
+0021300983,531,8,0,4,9:48 PM,1:13,SUB: Antic FOR Brand,,,,
+0021300983,532,3,12,4,9:48 PM,1:13,,,MISS Faried Free Throw 2 of 2,,
+0021300983,534,4,0,4,9:48 PM,1:11,,,Fournier REBOUND (Off:1 Def:4),,
+0021300983,535,1,5,4,9:48 PM,1:04,,,Faried 4' Layup (24 PTS) (Lawson 11 AST),91 - 91,TIE
+0021300983,536,6,2,4,9:48 PM,1:04,Carroll S.FOUL (P1.PN),,,,
+0021300983,537,3,10,4,9:49 PM,1:04,,,Faried Free Throw 1 of 1 (25 PTS),92 - 91,-1
+0021300983,540,1,1,4,9:49 PM,0:41,Antic 20' Jump Shot (16 PTS),,,92 - 93,1
+0021300983,541,2,1,4,9:49 PM,0:31,,,MISS Chandler 25' 3PT Jump Shot,,
+0021300983,542,4,0,4,9:49 PM,0:30,HAWKS Rebound,,,,
+0021300983,543,9,4,4,9:50 PM,0:30,,,,,
+0021300983,545,18,0,4,9:51 PM,0:30,,,,,
+0021300983,546,18,0,4,9:51 PM,0:30,,,,,
+0021300983,547,9,2,4,9:52 PM,0:30,HAWKS Timeout: Short (Full 4 Short 1),,,,
+0021300983,550,9,2,4,9:52 PM,0:30,HAWKS Timeout: Short (Full 4 Short 2),,,,
+0021300983,553,6,2,4,9:54 PM,0:08,,,Chandler S.FOUL (P5.PN),,
+0021300983,554,3,11,4,9:54 PM,0:08,Teague Free Throw 1 of 2 (15 PTS),,,92 - 94,2
+0021300983,556,3,12,4,9:54 PM,0:08,MISS Teague Free Throw 2 of 2,,,,
+0021300983,558,4,0,4,9:54 PM,0:06,Antic REBOUND (Off:1 Def:0),,,,
+0021300983,559,6,28,4,9:54 PM,0:04,,,Chandler Personal Take Foul (P6.PN),,
+0021300983,560,8,0,4,9:55 PM,0:04,,,SUB: Hickson FOR Chandler,,
+0021300983,561,3,11,4,9:55 PM,0:04,Korver Free Throw 1 of 2 (17 PTS),,,92 - 95,3
+0021300983,563,3,12,4,9:55 PM,0:04,Korver Free Throw 2 of 2 (18 PTS),,,92 - 96,4
+0021300983,565,9,1,4,9:55 PM,0:04,,,Nuggets Timeout: Regular (Reg.5 Short 0),,
+0021300983,568,8,0,4,9:57 PM,0:04,,,SUB: Arthur FOR Hickson,,
+0021300983,569,5,1,4,9:57 PM,0:04,,,Fournier Bad Pass Turnover (P2.T21),,
+0021300983,570,6,28,4,9:58 PM,0:03,,,Faried Personal Take Foul (P4.PN),,
+0021300983,571,3,11,4,9:58 PM,0:03,Millsap Free Throw 1 of 2 (24 PTS),,,92 - 97,5
+0021300983,573,3,12,4,9:58 PM,0:03,MISS Millsap Free Throw 2 of 2,,,,
+0021300983,575,4,0,4,9:59 PM,0:02,,,Brooks REBOUND (Off:0 Def:3),,
+0021300983,576,9,2,4,9:59 PM,0:02,,,Nuggets Timeout: Short (Reg.5 Short 1),,
+0021300983,579,2,1,4,10:00 PM,0:00,,,MISS Brooks 29' 3PT Jump Shot,,
+0021300983,580,4,0,4,10:00 PM,0:00,Millsap REBOUND (Off:2 Def:9),,,,
+0021300983,581,13,0,4,10:00 PM,0:00,,,,92 - 97,5

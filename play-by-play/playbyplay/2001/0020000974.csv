@@ -1,0 +1,479 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000974,0,12,0,1,2:15 PM,12:00,,,,,
+0020000974,1,10,0,1,2:15 PM,12:00,Jump Ball Tsakalidis vs. White: Tip to Kidd,,,,
+0020000974,2,2,1,1,2:16 PM,11:43,MISS Robinson 7' Jump Shot,,,,
+0020000974,3,4,0,1,2:16 PM,11:42,,,White REBOUND (Off:0 Def:1),,
+0020000974,4,2,1,1,2:16 PM,11:22,,,MISS Smith 14' Jump Shot,,
+0020000974,5,4,0,1,2:16 PM,11:21,,,White REBOUND (Off:1 Def:1),,
+0020000974,6,5,1,1,2:16 PM,11:11,Kidd STEAL (1 STL),,Alexander Bad Pass Turnover (P1.T1),,
+0020000974,7,1,5,1,2:16 PM,11:07,Marion  Layup (2 PTS) (Kidd 1 AST),,,0 - 2,2
+0020000974,8,1,1,1,2:17 PM,10:45,,,Alexander 14' Jump Shot (2 PTS) (Davis 1 AST),2 - 2,TIE
+0020000974,9,1,44,1,2:17 PM,10:31,Kidd  Reverse Layup (2 PTS) (Robinson 1 AST),,,2 - 4,2
+0020000974,10,2,1,1,2:17 PM,10:19,,,MISS Alexander 16' Jump Shot,,
+0020000974,11,4,0,1,2:17 PM,10:18,Tsakalidis REBOUND (Off:0 Def:1),,,,
+0020000974,12,2,46,1,2:17 PM,10:05,MISS Robinson 5' Running Jump Shot,,,,
+0020000974,14,4,0,1,2:18 PM,10:04,Elie REBOUND (Off:1 Def:0),,,,
+0020000974,13,2,4,1,2:18 PM,10:04,MISS Elie  Tip Shot,,,,
+0020000974,15,4,0,1,2:18 PM,10:02,Robinson REBOUND (Off:1 Def:0),,,,
+0020000974,16,6,1,1,2:18 PM,9:57,,,Hamilton P.FOUL (P1.T1),,
+0020000974,17,2,1,1,2:18 PM,9:54,MISS Kidd 17' Jump Shot,,,,
+0020000974,18,4,0,1,2:18 PM,9:52,Marion REBOUND (Off:1 Def:0),,,,
+0020000974,19,2,1,1,2:18 PM,9:48,MISS Robinson 19' Jump Shot,,,,
+0020000974,20,4,0,1,2:18 PM,9:46,Marion REBOUND (Off:2 Def:0),,,,
+0020000974,21,6,1,1,2:18 PM,9:41,,,Davis P.FOUL (P1.T2),,
+0020000974,22,1,7,1,2:18 PM,9:36,Robinson  Dunk (2 PTS) (Kidd 2 AST),,,2 - 6,4
+0020000974,23,6,2,1,2:19 PM,9:22,Marion S.FOUL (P1.T1),,,,
+0020000974,24,3,11,1,2:19 PM,9:22,,,MISS Smith Free Throw 1 of 2,,
+0020000974,25,4,1,1,2:19 PM,9:22,,,Wizards Rebound,,
+0020000974,26,3,12,1,2:19 PM,9:22,,,Smith Free Throw 2 of 2 (1 PTS),3 - 6,3
+0020000974,28,7,3,1,2:20 PM,9:07,,,White Violation:Lane,,
+0020000974,27,1,5,1,2:20 PM,9:07,Elie  Layup (2 PTS) (Kidd 3 AST),,,3 - 8,5
+0020000974,29,6,2,1,2:20 PM,8:55,Tsakalidis S.FOUL (P1.T2),,,,
+0020000974,30,3,11,1,2:20 PM,8:55,,,MISS Smith Free Throw 1 of 2,,
+0020000974,31,4,1,1,2:20 PM,8:55,,,Wizards Rebound,,
+0020000974,32,3,12,1,2:21 PM,8:55,,,MISS Smith Free Throw 2 of 2,,
+0020000974,33,4,0,1,2:21 PM,8:55,Kidd REBOUND (Off:0 Def:1),,,,
+0020000974,34,1,5,1,2:21 PM,8:50,Kidd  Layup (4 PTS),,,3 - 10,7
+0020000974,35,6,2,1,2:21 PM,8:50,,,Davis S.FOUL (P2.T3),,
+0020000974,36,3,10,1,2:21 PM,8:50,Kidd Free Throw 1 of 1 (5 PTS),,,3 - 11,8
+0020000974,37,9,1,1,2:22 PM,8:41,,,Wizards Timeout: Regular (Reg.1 Short 0),,
+0020000974,39,8,0,1,2:23 PM,8:41,,,SUB: Vanterpool FOR Davis,,
+0020000974,40,2,1,1,2:24 PM,8:30,,,MISS Hamilton 15' Jump Shot,,
+0020000974,41,4,0,1,2:24 PM,8:29,Tsakalidis REBOUND (Off:0 Def:2),,,,
+0020000974,42,2,1,1,2:24 PM,8:16,MISS Marion 15' Jump Shot,,,,
+0020000974,43,4,0,1,2:24 PM,8:13,Robinson REBOUND (Off:2 Def:0),,,,
+0020000974,44,1,5,1,2:24 PM,8:10,Marion  Layup (4 PTS) (Robinson 2 AST),,,3 - 13,10
+0020000974,45,2,44,1,2:25 PM,7:44,,,MISS Hamilton  Reverse Layup,,
+0020000974,47,4,0,1,2:25 PM,7:43,,,White REBOUND (Off:2 Def:1),,
+0020000974,46,1,4,1,2:25 PM,7:43,,,White  Tip Shot (2 PTS),5 - 13,8
+0020000974,48,5,1,1,2:25 PM,7:31,Robinson Bad Pass Turnover (P1.T1),,Vanterpool STEAL (1 STL),,
+0020000974,49,5,1,1,2:25 PM,7:24,Marion STEAL (1 STL),,Vanterpool Bad Pass Turnover (P1.T2),,
+0020000974,50,6,2,1,2:25 PM,7:21,,,Smith S.FOUL (P1.T4),,
+0020000974,51,3,11,1,2:25 PM,7:21,Kidd Free Throw 1 of 2 (6 PTS),,,5 - 14,9
+0020000974,52,3,12,1,2:26 PM,7:21,Kidd Free Throw 2 of 2 (7 PTS),,,5 - 15,10
+0020000974,53,1,47,1,2:26 PM,7:00,,,Hamilton 16' Turnaround Jump Shot (2 PTS),7 - 15,8
+0020000974,54,2,1,1,2:27 PM,6:32,MISS Tsakalidis 15' Jump Shot,,,,
+0020000974,55,4,0,1,2:27 PM,6:29,Marion REBOUND (Off:3 Def:0),,,,
+0020000974,56,2,1,1,2:27 PM,6:26,MISS Marion 10' Jump Shot,,,,
+0020000974,57,4,0,1,2:27 PM,6:25,,,White REBOUND (Off:2 Def:2),,
+0020000974,58,2,1,1,2:27 PM,6:17,,,MISS Hamilton 15' Jump Shot,,
+0020000974,59,4,0,1,2:27 PM,6:15,Elie REBOUND (Off:1 Def:1),,,,
+0020000974,60,1,5,1,2:27 PM,6:10,Kidd  Layup (9 PTS),,,7 - 17,10
+0020000974,61,6,1,1,2:28 PM,5:48,Kidd P.FOUL (P1.T3),,,,
+0020000974,62,8,0,1,2:28 PM,5:48,,,SUB: Laettner FOR White,,
+0020000974,63,2,1,1,2:28 PM,5:41,,,MISS Laettner 19' Jump Shot,,
+0020000974,64,4,0,1,2:28 PM,5:38,,,Smith REBOUND (Off:1 Def:0),,
+0020000974,65,1,1,1,2:29 PM,5:33,,,Alexander 6' Jump Shot (4 PTS) (Smith 1 AST),9 - 17,8
+0020000974,66,6,2,1,2:29 PM,5:33,Tsakalidis S.FOUL (P2.T4),,,,
+0020000974,67,8,0,1,2:29 PM,5:33,SUB: Gugliotta FOR Tsakalidis,,,,
+0020000974,68,3,10,1,2:29 PM,5:33,,,Alexander Free Throw 1 of 1 (5 PTS),10 - 17,7
+0020000974,69,2,1,1,2:30 PM,5:19,MISS Elie 10' Jump Shot,,,,
+0020000974,70,4,0,1,2:30 PM,5:18,Elie REBOUND (Off:2 Def:1),,,,
+0020000974,71,5,1,1,2:30 PM,5:04,Elie Bad Pass Turnover (P1.T2),,Smith STEAL (1 STL),,
+0020000974,72,6,1,1,2:30 PM,4:53,Gugliotta P.FOUL (P1.PN),,,,
+0020000974,73,3,11,1,2:30 PM,4:53,,,Laettner Free Throw 1 of 2 (1 PTS),11 - 17,6
+0020000974,74,3,12,1,2:30 PM,4:53,,,Laettner Free Throw 2 of 2 (2 PTS),12 - 17,5
+0020000974,75,7,6,1,2:31 PM,4:38,,,Laettner Violation:Double Lane,,
+0020000974,76,1,1,1,2:31 PM,4:32,Robinson 18' Jump Shot (4 PTS) (Kidd 4 AST),,,12 - 19,7
+0020000974,77,1,5,1,2:32 PM,4:19,,,Hamilton  Layup (4 PTS) (Vanterpool 1 AST),14 - 19,5
+0020000974,78,1,1,1,2:32 PM,4:00,Marion 14' Jump Shot (6 PTS) (Elie 1 AST),,,14 - 21,7
+0020000974,79,1,1,1,2:32 PM,3:44,,,Hamilton 10' Jump Shot (6 PTS) (Laettner 1 AST),16 - 21,5
+0020000974,80,9,1,1,2:32 PM,3:37,SUNS Timeout: Regular (Full 1 Short 0),,,,
+0020000974,82,8,0,1,2:34 PM,3:37,SUB: Delk FOR Elie,,,,
+0020000974,83,1,1,1,2:34 PM,3:28,Robinson 15' Jump Shot (6 PTS) (Delk 1 AST),,,16 - 23,7
+0020000974,84,5,1,1,2:35 PM,3:19,Kidd STEAL (2 STL),,Vanterpool Bad Pass Turnover (P2.T3),,
+0020000974,85,1,1,1,2:35 PM,3:12,Kidd 13' Jump Shot (11 PTS),,,16 - 25,9
+0020000974,86,1,5,1,2:35 PM,2:57,,,Vanterpool  Layup (2 PTS) (Laettner 2 AST),18 - 25,7
+0020000974,87,6,2,1,2:35 PM,2:57,Delk S.FOUL (P1.PN),,,,
+0020000974,88,3,10,1,2:35 PM,2:57,,,MISS Vanterpool Free Throw 1 of 1,,
+0020000974,89,4,0,1,2:35 PM,2:56,Gugliotta REBOUND (Off:0 Def:1),,,,
+0020000974,90,2,1,1,2:36 PM,2:42,MISS Delk 14' Jump Shot,,,,
+0020000974,91,4,0,1,2:36 PM,2:40,Gugliotta REBOUND (Off:1 Def:1),,,,
+0020000974,92,1,5,1,2:36 PM,2:39,Gugliotta  Layup (2 PTS),,,18 - 27,9
+0020000974,93,6,2,1,2:36 PM,2:16,Robinson S.FOUL (P1.PN),,,,
+0020000974,94,3,11,1,2:36 PM,2:16,,,MISS Vanterpool Free Throw 1 of 2,,
+0020000974,95,4,1,1,2:36 PM,2:16,,,Wizards Rebound,,
+0020000974,96,3,12,1,2:37 PM,2:16,,,MISS Vanterpool Free Throw 2 of 2,,
+0020000974,97,4,0,1,2:37 PM,2:15,Gugliotta REBOUND (Off:1 Def:2),,,,
+0020000974,98,1,1,1,2:37 PM,2:01,Robinson 7' Jump Shot (8 PTS),,,18 - 29,11
+0020000974,99,2,1,1,2:37 PM,1:34,,,MISS Laettner 15' Jump Shot,,
+0020000974,100,4,0,1,2:37 PM,1:33,Marion REBOUND (Off:3 Def:1),,,,
+0020000974,101,2,5,1,2:38 PM,1:25,MISS Delk  Layup,,,,
+0020000974,102,4,0,1,2:38 PM,1:24,,,Laettner REBOUND (Off:0 Def:1),,
+0020000974,103,1,5,1,2:38 PM,1:16,,,Vanterpool  Layup (4 PTS) (Hamilton 1 AST),20 - 29,9
+0020000974,104,2,5,1,2:38 PM,1:02,MISS Kidd  Layup,,,,
+0020000974,105,4,0,1,2:38 PM,0:59,,,Laettner REBOUND (Off:0 Def:2),,
+0020000974,106,1,1,1,2:38 PM,0:44,,,Hamilton 7' Jump Shot (8 PTS),22 - 29,7
+0020000974,107,1,42,1,2:38 PM,0:34,Kidd  Driving Layup (13 PTS),,,22 - 31,9
+0020000974,109,6,2,1,2:38 PM,0:34,,,Smith S.FOUL (P2.PN),,
+0020000974,110,8,0,1,2:39 PM,0:34,,,SUB: Smith FOR Alexander,,
+0020000974,112,8,0,1,2:39 PM,0:34,,,SUB: Jones FOR Smith,,
+0020000974,113,3,10,1,2:39 PM,0:34,Kidd Free Throw 1 of 1 (14 PTS),,,22 - 32,10
+0020000974,114,1,44,1,2:39 PM,0:17,,,Smith  Reverse Layup (2 PTS) (Laettner 3 AST),24 - 32,8
+0020000974,115,6,1,1,2:40 PM,0:06,,,Vanterpool P.FOUL (P1.PN),,
+0020000974,116,3,11,1,2:40 PM,0:06,Kidd Free Throw 1 of 2 (15 PTS),,,24 - 33,9
+0020000974,117,3,12,1,2:40 PM,0:06,Kidd Free Throw 2 of 2 (16 PTS),,,24 - 34,10
+0020000974,118,2,1,1,2:41 PM,0:00,,,MISS Hamilton 18' Jump Shot,,
+0020000974,120,4,0,1,2:41 PM,0:00,,,Wizards Rebound,,
+0020000974,119,13,0,1,2:41 PM,0:00,,,,24 - 34,10
+0020000974,123,12,0,2,2:43 PM,12:00,,,,24 - 34,10
+0020000974,124,2,1,2,2:44 PM,11:41,,,MISS Jones 16' Jump Shot,,
+0020000974,125,4,0,2,2:44 PM,11:39,Gugliotta REBOUND (Off:1 Def:3),,,,
+0020000974,126,2,1,2,2:44 PM,11:31,MISS Kidd 7' Jump Shot,,,,
+0020000974,127,4,0,2,2:44 PM,11:28,,,Jones REBOUND (Off:0 Def:1),,
+0020000974,128,1,5,2,2:44 PM,11:23,,,Laettner  Layup (4 PTS) (Hamilton 2 AST),26 - 34,8
+0020000974,129,6,2,2,2:44 PM,11:23,Robinson S.FOUL (P2.T1),,,,
+0020000974,130,8,0,2,2:44 PM,11:23,SUB: Tsakalidis FOR Robinson,,,,
+0020000974,131,3,10,2,2:44 PM,11:23,,,Laettner Free Throw 1 of 1 (5 PTS),27 - 34,7
+0020000974,132,2,1,2,2:45 PM,11:12,MISS Delk 14' Jump Shot,,Hamilton BLOCK (1 BLK),,
+0020000974,133,4,0,2,2:45 PM,11:09,,,Jones REBOUND (Off:0 Def:2),,
+0020000974,134,6,1,2,2:45 PM,11:06,Delk P.FOUL (P2.T2),,,,
+0020000974,135,8,0,2,2:45 PM,11:06,SUB: Del Negro FOR Delk,,,,
+0020000974,136,5,1,2,2:45 PM,11:03,,,Hamilton Bad Pass Turnover (P1.T4),,
+0020000974,138,2,1,2,2:46 PM,10:43,MISS Kidd 8' Jump Shot,,,,
+0020000974,139,4,0,2,2:46 PM,10:42,,,Jones REBOUND (Off:0 Def:3),,
+0020000974,140,1,1,2,2:46 PM,10:40,,,Smith 22' Jump Shot (4 PTS) (Vanterpool 2 AST),29 - 34,5
+0020000974,141,1,1,2,2:46 PM,10:19,Del Negro 19' Jump Shot (2 PTS) (Gugliotta 1 AST),,,29 - 36,7
+0020000974,142,2,1,2,2:47 PM,10:03,,,MISS Vanterpool 19' Jump Shot,,
+0020000974,143,4,0,2,2:47 PM,10:00,Del Negro REBOUND (Off:0 Def:1),,,,
+0020000974,144,2,1,2,2:47 PM,9:55,MISS Kidd 24' 3PT Jump Shot,,,,
+0020000974,145,4,0,2,2:47 PM,9:53,,,Laettner REBOUND (Off:0 Def:3),,
+0020000974,146,6,2,2,2:47 PM,9:43,Gugliotta S.FOUL (P2.T3),,,,
+0020000974,147,3,11,2,2:47 PM,9:43,,,Jones Free Throw 1 of 2 (1 PTS),30 - 36,6
+0020000974,148,8,0,2,2:48 PM,9:43,SUB: Marion FOR Gugliotta,,,,
+0020000974,149,3,12,2,2:48 PM,9:43,,,Jones Free Throw 2 of 2 (2 PTS),31 - 36,5
+0020000974,150,2,1,2,2:48 PM,9:30,MISS Marion 15' Jump Shot,,,,
+0020000974,151,4,0,2,2:48 PM,9:29,,,Hamilton REBOUND (Off:0 Def:1),,
+0020000974,152,6,2,2,2:48 PM,9:23,Tsakalidis S.FOUL (P3.T4),,,,
+0020000974,153,3,11,2,2:49 PM,9:23,,,Hamilton Free Throw 1 of 2 (9 PTS),32 - 36,4
+0020000974,154,8,0,2,2:49 PM,9:23,,,SUB: Davis FOR Vanterpool,,
+0020000974,155,8,0,2,2:49 PM,9:23,SUB: Perry FOR Kidd,,,,
+0020000974,156,8,0,2,2:49 PM,9:23,SUB: Santiago FOR Tsakalidis,,,,
+0020000974,157,3,12,2,2:49 PM,9:23,,,Hamilton Free Throw 2 of 2 (10 PTS),33 - 36,3
+0020000974,158,1,1,2,2:49 PM,9:13,Del Negro 14' Jump Shot (4 PTS) (Perry 1 AST),,,33 - 38,5
+0020000974,159,6,1,2,2:50 PM,9:05,Del Negro P.FOUL (P1.PN),,,,
+0020000974,160,3,11,2,2:50 PM,9:05,,,Hamilton Free Throw 1 of 2 (11 PTS),34 - 38,4
+0020000974,161,3,12,2,2:50 PM,9:05,,,Hamilton Free Throw 2 of 2 (12 PTS),35 - 38,3
+0020000974,162,6,2,2,2:50 PM,8:57,,,Jones S.FOUL (P1.T1),,
+0020000974,163,8,0,2,2:51 PM,8:57,,,SUB: Profit FOR Hamilton,,
+0020000974,164,9,4,2,2:51 PM,8:57,,,,,
+0020000974,167,8,0,2,2:53 PM,8:57,,,SUB: White FOR Jones,,
+0020000974,168,3,11,2,2:53 PM,8:57,MISS Santiago Free Throw 1 of 2,,,,
+0020000974,169,4,1,2,2:53 PM,8:57,SUNS Rebound,,,,
+0020000974,170,3,12,2,2:53 PM,8:57,Santiago Free Throw 2 of 2 (1 PTS),,,35 - 39,4
+0020000974,171,6,2,2,2:53 PM,8:43,Rogers S.FOUL (P1.PN),,,,
+0020000974,172,3,11,2,2:53 PM,8:43,,,Laettner Free Throw 1 of 2 (6 PTS),36 - 39,3
+0020000974,173,3,12,2,2:54 PM,8:43,,,Laettner Free Throw 2 of 2 (7 PTS),37 - 39,2
+0020000974,174,6,1,2,2:54 PM,8:31,,,Laettner P.FOUL (P1.T2),,
+0020000974,175,1,1,2,2:55 PM,8:20,Rogers 16' Jump Shot (2 PTS),,,37 - 41,4
+0020000974,176,6,1,2,2:55 PM,8:02,Santiago P.FOUL (P1.PN),,,,
+0020000974,177,3,11,2,2:55 PM,8:02,,,Davis Free Throw 1 of 2 (1 PTS),38 - 41,3
+0020000974,178,3,12,2,2:55 PM,8:02,,,Davis Free Throw 2 of 2 (2 PTS),39 - 41,2
+0020000974,179,1,1,2,2:56 PM,7:51,Perry 18' Jump Shot (2 PTS),,,39 - 43,4
+0020000974,180,6,1,2,2:56 PM,7:33,Del Negro P.FOUL (P2.PN),,,,
+0020000974,181,3,11,2,2:56 PM,7:33,,,MISS Profit Free Throw 1 of 2,,
+0020000974,182,4,1,2,2:56 PM,7:33,,,Wizards Rebound,,
+0020000974,183,3,12,2,2:57 PM,7:33,,,Profit Free Throw 2 of 2 (1 PTS),40 - 43,3
+0020000974,184,6,2,2,2:57 PM,7:23,,,Laettner S.FOUL (P2.T3),,
+0020000974,185,8,0,2,2:57 PM,7:23,,,SUB: Alexander FOR Smith,,
+0020000974,186,3,11,2,2:57 PM,7:23,Rogers Free Throw 1 of 2 (3 PTS),,,40 - 44,4
+0020000974,187,8,0,2,2:57 PM,7:23,,,SUB: Smith FOR Laettner,,
+0020000974,188,3,12,2,2:58 PM,7:23,Rogers Free Throw 2 of 2 (4 PTS),,,40 - 45,5
+0020000974,189,1,42,2,2:58 PM,7:12,,,Davis  Driving Layup (4 PTS),42 - 45,3
+0020000974,190,2,1,2,2:58 PM,7:01,MISS Perry 19' Jump Shot,,,,
+0020000974,191,4,0,2,2:58 PM,6:59,,,Profit REBOUND (Off:0 Def:1),,
+0020000974,192,2,1,2,2:58 PM,6:42,,,MISS Profit 7' Jump Shot,,
+0020000974,193,4,0,2,2:58 PM,6:40,,,White REBOUND (Off:3 Def:2),,
+0020000974,194,6,1,2,2:58 PM,6:40,Santiago P.FOUL (P2.PN),,,,
+0020000974,195,6,11,2,2:59 PM,6:40,Santiago T.FOUL (P2.PN),,,,
+0020000974,196,3,16,2,2:59 PM,6:40,,,Davis Free Throw Technical (5 PTS),43 - 45,2
+0020000974,197,8,0,2,2:59 PM,6:40,SUB: Dudley FOR Santiago,,,,
+0020000974,198,3,11,2,2:59 PM,6:40,,,MISS White Free Throw 1 of 2,,
+0020000974,199,4,1,2,2:59 PM,6:40,,,Wizards Rebound,,
+0020000974,200,3,12,2,3:00 PM,6:40,,,MISS White Free Throw 2 of 2,,
+0020000974,201,4,0,2,3:00 PM,6:40,Marion REBOUND (Off:3 Def:2),,,,
+0020000974,202,5,1,2,3:00 PM,6:27,Marion Bad Pass Turnover (P1.T3),,Smith STEAL (2 STL),,
+0020000974,203,5,1,2,3:00 PM,6:25,Marion STEAL (2 STL),,Smith Bad Pass Turnover (P1.T5),,
+0020000974,204,1,1,2,3:00 PM,6:22,Marion 10' Jump Shot (8 PTS) (Rogers 1 AST),,,43 - 47,4
+0020000974,205,6,1,2,3:01 PM,6:02,Marion P.FOUL (P2.PN),,,,
+0020000974,207,9,1,2,3:01 PM,6:02,SUNS Timeout: Regular (Full 2 Short 0),,,,
+0020000974,209,8,0,2,3:03 PM,6:02,SUB: Kidd FOR Perry,,,,
+0020000974,210,8,0,2,3:03 PM,6:02,SUB: Delk FOR Marion,,,,
+0020000974,211,3,11,2,3:03 PM,6:02,,,MISS White Free Throw 1 of 2,,
+0020000974,213,4,0,2,3:03 PM,6:02,,,Wizards Rebound,,
+0020000974,212,3,12,2,3:03 PM,6:02,,,MISS White Free Throw 2 of 2,,
+0020000974,215,4,0,2,3:04 PM,6:02,Rogers REBOUND (Off:0 Def:1),,,,
+0020000974,216,2,1,2,3:04 PM,5:52,MISS Del Negro 18' Jump Shot,,,,
+0020000974,217,4,0,2,3:04 PM,5:51,,,Wizards Rebound,,
+0020000974,218,6,4,2,3:04 PM,5:39,,,White OFF.Foul (P1),,
+0020000974,219,5,5,2,3:04 PM,5:39,,,White Foul Turnover (P1.T6),,
+0020000974,220,1,1,2,3:05 PM,5:24,Kidd 17' Jump Shot (18 PTS) (Del Negro 1 AST),,,43 - 49,6
+0020000974,221,5,2,2,3:05 PM,5:10,,,Alexander Lost Ball Turnover (P2.T7),,
+0020000974,222,2,1,2,3:05 PM,4:58,MISS Rogers 16' Jump Shot,,,,
+0020000974,223,4,0,2,3:05 PM,4:57,,,Davis REBOUND (Off:0 Def:1),,
+0020000974,224,5,8,2,3:05 PM,4:47,,,White 3 Second Violation Turnover (P2.T8),,
+0020000974,225,8,0,2,3:06 PM,4:47,,,SUB: Hamilton FOR Profit,,
+0020000974,226,9,1,2,3:06 PM,4:47,,,Wizards Timeout: Regular (Reg.2 Short 0),,
+0020000974,228,2,1,2,3:08 PM,4:36,MISS Kidd 16' Jump Shot,,,,
+0020000974,229,4,0,2,3:08 PM,4:34,SUNS Rebound,,,,
+0020000974,230,1,1,2,3:09 PM,4:31,Kidd 25' 3PT Jump Shot (21 PTS) (Delk 2 AST),,,43 - 52,9
+0020000974,231,2,5,2,3:09 PM,4:11,Dudley BLOCK (1 BLK),,MISS Alexander  Layup,,
+0020000974,232,4,0,2,3:09 PM,4:08,Delk REBOUND (Off:0 Def:1),,,,
+0020000974,233,5,1,2,3:09 PM,4:03,Rogers Bad Pass Turnover (P1.T4),,White STEAL (1 STL),,
+0020000974,234,5,1,2,3:09 PM,4:01,Rogers STEAL (1 STL),,White Bad Pass Turnover (P3.T9),,
+0020000974,235,2,1,2,3:09 PM,3:56,MISS Delk 16' Jump Shot,,,,
+0020000974,236,4,0,2,3:09 PM,3:54,Dudley REBOUND (Off:1 Def:0),,,,
+0020000974,237,2,1,2,3:09 PM,3:46,MISS Delk  3PT Jump Shot,,,,
+0020000974,238,4,0,2,3:09 PM,3:43,,,Smith REBOUND (Off:1 Def:1),,
+0020000974,239,5,1,2,3:10 PM,3:32,Delk STEAL (1 STL),,Davis Bad Pass Turnover (P1.T10),,
+0020000974,240,2,5,2,3:10 PM,3:27,MISS Kidd  Layup,,,,
+0020000974,241,4,0,2,3:10 PM,3:25,,,Smith REBOUND (Off:1 Def:2),,
+0020000974,242,6,2,2,3:10 PM,3:17,Dudley S.FOUL (P1.PN),,,,
+0020000974,243,3,11,2,3:10 PM,3:17,,,MISS White Free Throw 1 of 2,,
+0020000974,244,4,1,2,3:10 PM,3:17,,,Wizards Rebound,,
+0020000974,245,3,12,2,3:10 PM,3:17,,,White Free Throw 2 of 2 (3 PTS),44 - 52,8
+0020000974,246,8,0,2,3:11 PM,3:08,,,SUB: Laettner FOR White,,
+0020000974,247,2,1,2,3:11 PM,3:04,MISS Delk 19' Jump Shot,,,,
+0020000974,248,4,0,2,3:11 PM,3:03,,,Hamilton REBOUND (Off:0 Def:2),,
+0020000974,249,2,1,2,3:11 PM,2:49,,,MISS Alexander 17' Jump Shot,,
+0020000974,250,4,0,2,3:11 PM,2:47,Rogers REBOUND (Off:0 Def:2),,,,
+0020000974,251,5,1,2,3:11 PM,2:44,Rogers Bad Pass Turnover (P2.T5),,Hamilton STEAL (1 STL),,
+0020000974,252,6,2,2,3:11 PM,2:41,Dudley S.FOUL (P2.PN),,,,
+0020000974,253,3,11,2,3:12 PM,2:41,,,MISS Hamilton Free Throw 1 of 2,,
+0020000974,254,4,1,2,3:12 PM,2:41,,,Wizards Rebound,,
+0020000974,255,3,12,2,3:12 PM,2:41,,,Hamilton Free Throw 2 of 2 (13 PTS),45 - 52,7
+0020000974,256,6,1,2,3:12 PM,2:28,,,Laettner P.FOUL (P3.T4),,
+0020000974,257,8,0,2,3:13 PM,2:28,,,SUB: Jones FOR Laettner,,
+0020000974,258,2,1,2,3:13 PM,2:17,MISS Del Negro 18' Jump Shot,,,,
+0020000974,259,4,0,2,3:13 PM,2:15,,,Alexander REBOUND (Off:0 Def:1),,
+0020000974,260,2,1,2,3:13 PM,2:04,,,MISS Davis 8' Jump Shot,,
+0020000974,262,4,0,2,3:13 PM,2:02,,,Smith REBOUND (Off:2 Def:2),,
+0020000974,261,2,4,2,3:13 PM,2:02,,,MISS Smith  Tip Shot,,
+0020000974,263,4,0,2,3:13 PM,2:00,,,Jones REBOUND (Off:1 Def:3),,
+0020000974,264,6,2,2,3:13 PM,1:58,Dudley S.FOUL (P3.PN),,,,
+0020000974,265,3,11,2,3:14 PM,1:58,,,Smith Free Throw 1 of 2 (2 PTS),46 - 52,6
+0020000974,267,8,0,2,3:14 PM,1:58,,,SUB: Vanterpool FOR Davis,,
+0020000974,268,3,12,2,3:14 PM,1:58,,,Smith Free Throw 2 of 2 (3 PTS),47 - 52,5
+0020000974,269,1,5,2,3:14 PM,1:54,Del Negro  Layup (6 PTS) (Kidd 5 AST),,,47 - 54,7
+0020000974,270,2,1,2,3:15 PM,1:37,,,MISS Alexander 9' Jump Shot,,
+0020000974,271,4,0,2,3:15 PM,1:35,Del Negro REBOUND (Off:0 Def:2),,,,
+0020000974,272,6,2,2,3:15 PM,1:32,,,Vanterpool S.FOUL (P2.PN),,
+0020000974,273,8,0,2,3:15 PM,1:32,,,SUB: White FOR Smith,,
+0020000974,274,3,11,2,3:15 PM,1:32,Kidd Free Throw 1 of 2 (22 PTS),,,47 - 55,8
+0020000974,275,3,12,2,3:15 PM,1:32,Kidd Free Throw 2 of 2 (23 PTS),,,47 - 56,9
+0020000974,276,2,1,2,3:16 PM,1:18,,,MISS Hamilton 8' Jump Shot,,
+0020000974,277,4,0,2,3:16 PM,1:16,Dudley REBOUND (Off:1 Def:1),,,,
+0020000974,278,1,1,2,3:16 PM,1:07,Kidd 24' 3PT Jump Shot (26 PTS) (Del Negro 2 AST),,,47 - 59,12
+0020000974,279,6,2,2,3:16 PM,0:49,Del Negro S.FOUL (P3.PN),,,,
+0020000974,280,3,11,2,3:17 PM,0:49,,,MISS White Free Throw 1 of 2,,
+0020000974,281,4,1,2,3:17 PM,0:49,,,Wizards Rebound,,
+0020000974,282,3,12,2,3:17 PM,0:49,,,White Free Throw 2 of 2 (4 PTS),48 - 59,11
+0020000974,283,2,1,2,3:17 PM,0:38,MISS Del Negro 18' Jump Shot,,,,
+0020000974,284,4,0,2,3:17 PM,0:36,Dudley REBOUND (Off:2 Def:1),,,,
+0020000974,285,2,1,2,3:17 PM,0:28,MISS Kidd 25' 3PT Jump Shot,,,,
+0020000974,286,4,0,2,3:17 PM,0:25,SUNS Rebound,,,,
+0020000974,287,2,1,2,3:18 PM,0:03,MISS Kidd 10' Jump Shot,,,,
+0020000974,288,4,0,2,3:18 PM,0:02,,,White REBOUND (Off:3 Def:3),,
+0020000974,289,13,0,2,3:18 PM,0:00,,,,48 - 59,11
+0020000974,291,12,0,3,3:34 PM,12:00,,,,48 - 59,11
+0020000974,292,1,1,3,3:35 PM,11:37,,,Alexander 15' Jump Shot (7 PTS),50 - 59,9
+0020000974,293,6,2,3,3:35 PM,11:16,,,Hamilton S.FOUL (P2.T1),,
+0020000974,294,3,11,3,3:35 PM,11:16,Marion Free Throw 1 of 2 (9 PTS),,,50 - 60,10
+0020000974,295,3,12,3,3:36 PM,11:16,Marion Free Throw 2 of 2 (10 PTS),,,50 - 61,11
+0020000974,296,5,1,3,3:36 PM,10:57,,,Davis Bad Pass Turnover (P2.T11),,
+0020000974,297,2,1,3,3:37 PM,10:48,MISS Marion 6' Jump Shot,,,,
+0020000974,298,4,0,3,3:37 PM,10:46,Dudley REBOUND (Off:3 Def:1),,,,
+0020000974,299,6,2,3,3:37 PM,10:45,,,White S.FOUL (P2.T2),,
+0020000974,300,3,11,3,3:37 PM,10:45,MISS Dudley Free Throw 1 of 2,,,,
+0020000974,301,4,1,3,3:37 PM,10:45,SUNS Rebound,,,,
+0020000974,302,3,12,3,3:37 PM,10:45,MISS Dudley Free Throw 2 of 2,,,,
+0020000974,303,4,0,3,3:37 PM,10:45,,,White REBOUND (Off:3 Def:4),,
+0020000974,304,1,1,3,3:38 PM,10:25,,,Hamilton 16' Jump Shot (15 PTS) (Smith 2 AST),52 - 61,9
+0020000974,305,1,1,3,3:38 PM,10:05,Robinson  3PT Jump Shot (11 PTS) (Dudley 1 AST),,,52 - 64,12
+0020000974,306,2,5,3,3:38 PM,9:47,,,MISS Alexander  Layup,,
+0020000974,307,4,0,3,3:38 PM,9:45,,,White REBOUND (Off:4 Def:4),,
+0020000974,308,6,2,3,3:38 PM,9:44,Dudley S.FOUL (P4.T1),,,,
+0020000974,309,3,11,3,3:38 PM,9:44,,,MISS White Free Throw 1 of 2,,
+0020000974,310,4,1,3,3:38 PM,9:44,,,Wizards Rebound,,
+0020000974,311,8,0,3,3:39 PM,9:44,SUB: Gugliotta FOR Dudley,,,,
+0020000974,312,3,12,3,3:39 PM,9:44,,,White Free Throw 2 of 2 (5 PTS),53 - 64,11
+0020000974,313,2,5,3,3:39 PM,9:28,MISS Gugliotta  Layup,,White BLOCK (1 BLK),,
+0020000974,314,4,0,3,3:39 PM,9:26,,,Smith REBOUND (Off:2 Def:3),,
+0020000974,315,1,5,3,3:40 PM,9:16,,,Hamilton  Layup (17 PTS) (Smith 3 AST),55 - 64,9
+0020000974,316,2,1,3,3:40 PM,9:01,MISS Elie 10' Jump Shot,,,,
+0020000974,317,4,0,3,3:40 PM,8:57,,,Alexander REBOUND (Off:0 Def:2),,
+0020000974,318,5,6,3,3:40 PM,8:53,,,Alexander Double Dribble Turnover (P3.T12),,
+0020000974,319,2,1,3,3:40 PM,8:39,MISS Robinson  3PT Jump Shot,,,,
+0020000974,320,4,0,3,3:40 PM,8:37,,,White REBOUND (Off:4 Def:5),,
+0020000974,321,1,46,3,3:41 PM,8:26,,,Hamilton 8' Running Jump Shot (19 PTS),57 - 64,7
+0020000974,322,2,1,3,3:41 PM,8:09,MISS Kidd 16' Jump Shot,,,,
+0020000974,323,4,0,3,3:41 PM,8:07,Marion REBOUND (Off:4 Def:2),,,,
+0020000974,324,1,1,3,3:41 PM,8:01,Marion 17' Jump Shot (12 PTS) (Kidd 6 AST),,,57 - 66,9
+0020000974,325,1,1,3,3:42 PM,7:43,,,Alexander 9' Jump Shot (9 PTS),59 - 66,7
+0020000974,326,5,1,3,3:42 PM,7:24,Marion Bad Pass Turnover (P2.T6),,Davis STEAL (1 STL),,
+0020000974,327,6,1,3,3:42 PM,7:19,Kidd P.FOUL (P2.T2),,,,
+0020000974,328,2,1,3,3:42 PM,7:14,,,MISS Alexander 19' Jump Shot,,
+0020000974,329,4,0,3,3:42 PM,7:11,SUNS Rebound,,,,
+0020000974,330,5,1,3,3:43 PM,7:01,Marion Bad Pass Turnover (P3.T7),,Smith STEAL (3 STL),,
+0020000974,331,1,5,3,3:43 PM,6:56,,,Hamilton  Layup (21 PTS),61 - 66,5
+0020000974,332,6,2,3,3:43 PM,6:39,,,Alexander S.FOUL (P1.T3),,
+0020000974,333,3,11,3,3:43 PM,6:39,Elie Free Throw 1 of 2 (3 PTS),,,61 - 67,6
+0020000974,334,8,0,3,3:44 PM,6:39,SUB: Rogers FOR Gugliotta,,,,
+0020000974,335,3,12,3,3:44 PM,6:39,Elie Free Throw 2 of 2 (4 PTS),,,61 - 68,7
+0020000974,336,6,4,3,3:44 PM,6:28,,,White OFF.Foul (P3),,
+0020000974,337,5,5,3,3:44 PM,6:28,,,White Foul Turnover (P4.T13),,
+0020000974,338,8,0,3,3:44 PM,6:28,,,SUB: Laettner FOR White,,
+0020000974,339,2,1,3,3:45 PM,6:17,MISS Marion 7' Jump Shot,,,,
+0020000974,340,4,0,3,3:45 PM,6:15,,,Hamilton REBOUND (Off:0 Def:3),,
+0020000974,341,6,1,3,3:45 PM,6:13,Elie P.FOUL (P1.T3),,,,
+0020000974,342,1,1,3,3:46 PM,6:06,,,Hamilton 13' Jump Shot (23 PTS),63 - 68,5
+0020000974,343,7,6,3,3:46 PM,5:52,,,Hamilton Violation:Double Lane,,
+0020000974,344,9,1,3,3:46 PM,5:52,SUNS Timeout: Regular (Full 3 Short 0),,,,
+0020000974,346,5,2,3,3:48 PM,5:43,Elie Lost Ball Turnover (P2.T8),,Laettner STEAL (1 STL),,
+0020000974,347,5,1,3,3:49 PM,5:25,Robinson STEAL (1 STL),,Alexander Bad Pass Turnover (P4.T14),,
+0020000974,348,1,7,3,3:49 PM,5:22,Marion  Dunk (14 PTS) (Elie 2 AST),,,63 - 70,7
+0020000974,349,2,1,3,3:49 PM,5:01,,,MISS Hamilton 11' Jump Shot,,
+0020000974,350,4,0,3,3:49 PM,4:59,SUNS Rebound,,,,
+0020000974,351,2,5,3,3:49 PM,4:51,MISS Rogers  Layup,,,,
+0020000974,352,4,0,3,3:49 PM,4:49,,,Hamilton REBOUND (Off:0 Def:4),,
+0020000974,353,2,1,3,3:49 PM,4:35,,,MISS Laettner 17' Jump Shot,,
+0020000974,354,4,0,3,3:49 PM,4:34,SUNS Rebound,,,,
+0020000974,355,8,0,3,3:50 PM,4:34,SUB: Del Negro FOR Elie,,,,
+0020000974,356,2,1,3,3:50 PM,4:17,MISS Rogers 7' Jump Shot,,,,
+0020000974,357,4,0,3,3:50 PM,4:16,,,Smith REBOUND (Off:2 Def:4),,
+0020000974,358,1,5,3,3:50 PM,4:10,,,Hamilton  Layup (25 PTS),65 - 70,5
+0020000974,359,2,1,3,3:50 PM,3:56,MISS Marion 16' Jump Shot,,,,
+0020000974,360,4,0,3,3:50 PM,3:54,,,Smith REBOUND (Off:2 Def:5),,
+0020000974,361,6,2,3,3:51 PM,3:45,Robinson S.FOUL (P3.T4),,,,
+0020000974,362,3,11,3,3:51 PM,3:45,,,Laettner Free Throw 1 of 2 (8 PTS),66 - 70,4
+0020000974,363,3,12,3,3:51 PM,3:45,,,Laettner Free Throw 2 of 2 (9 PTS),67 - 70,3
+0020000974,364,1,5,3,3:51 PM,3:33,Robinson  Layup (13 PTS) (Kidd 7 AST),,,67 - 72,5
+0020000974,365,2,1,3,3:52 PM,3:08,,,MISS Hamilton 24' 3PT Jump Shot,,
+0020000974,366,4,0,3,3:52 PM,3:06,Marion REBOUND (Off:4 Def:3),,,,
+0020000974,403,6,1,3,3:52 PM,3:01,,,Smith P.FOUL (P3.T4),,
+0020000974,367,3,11,3,3:52 PM,3:01,Kidd Free Throw 1 of 2 (27 PTS),,,67 - 73,6
+0020000974,368,3,12,3,3:52 PM,3:01,Kidd Free Throw 2 of 2 (28 PTS),,,67 - 74,7
+0020000974,369,1,5,3,3:53 PM,2:48,,,Laettner  Layup (11 PTS) (Smith 4 AST),69 - 74,5
+0020000974,370,6,1,3,3:53 PM,2:31,,,Smith P.FOUL (P4.PN),,
+0020000974,371,9,1,3,3:53 PM,2:31,,,Wizards Timeout: Regular (Reg.3 Short 0),,
+0020000974,373,8,0,3,3:55 PM,2:31,,,SUB: Jones FOR Alexander,,
+0020000974,374,8,0,3,3:55 PM,2:31,,,SUB: Smith FOR Smith,,
+0020000974,375,3,11,3,3:56 PM,2:31,Robinson Free Throw 1 of 2 (14 PTS),,,69 - 75,6
+0020000974,376,3,12,3,3:56 PM,2:31,MISS Robinson Free Throw 2 of 2,,,,
+0020000974,377,4,0,3,3:56 PM,2:30,,,Laettner REBOUND (Off:0 Def:4),,
+0020000974,378,2,5,3,3:56 PM,2:16,,,MISS Hamilton  Layup,,
+0020000974,379,4,0,3,3:56 PM,2:15,,,Wizards Rebound,,
+0020000974,380,2,1,3,3:56 PM,2:10,,,MISS Jones 14' Jump Shot,,
+0020000974,381,4,0,3,3:56 PM,2:06,Kidd REBOUND (Off:0 Def:2),,,,
+0020000974,382,1,8,3,3:57 PM,2:02,Marion  Slam Dunk (16 PTS) (Del Negro 3 AST),,,69 - 77,8
+0020000974,383,2,1,3,3:57 PM,1:35,,,MISS Smith 25' 3PT Jump Shot,,
+0020000974,384,4,0,3,3:57 PM,1:33,Rogers REBOUND (Off:0 Def:3),,,,
+0020000974,385,2,1,3,3:57 PM,1:21,MISS Kidd 15' Jump Shot,,,,
+0020000974,386,4,0,3,3:57 PM,1:19,Marion REBOUND (Off:5 Def:3),,,,
+0020000974,387,6,1,3,3:57 PM,1:19,,,Smith P.FOUL (P1.PN),,
+0020000974,388,3,11,3,3:57 PM,1:19,MISS Marion Free Throw 1 of 2,,,,
+0020000974,389,4,1,3,3:57 PM,1:19,SUNS Rebound,,,,
+0020000974,390,3,12,3,3:58 PM,1:19,Marion Free Throw 2 of 2 (17 PTS),,,69 - 78,9
+0020000974,391,2,1,3,3:58 PM,1:00,Robinson BLOCK (1 BLK),,MISS Jones 6' Jump Shot,,
+0020000974,392,4,0,3,3:58 PM,0:57,Del Negro REBOUND (Off:0 Def:3),,,,
+0020000974,393,1,1,3,3:59 PM,0:46,Robinson 24' 3PT Jump Shot (17 PTS) (Del Negro 4 AST),,,69 - 81,12
+0020000974,394,10,0,3,3:59 PM,0:39,Jump Ball Kidd vs. Laettner: Tip to Marion,,,,
+0020000974,395,5,2,3,3:59 PM,0:39,Kidd STEAL (3 STL),,Laettner Lost Ball Turnover (P1.T15),,
+0020000974,396,6,2,3,4:00 PM,0:20,,,Hamilton S.FOUL (P3.PN),,
+0020000974,397,3,11,3,4:00 PM,0:20,Kidd Free Throw 1 of 2 (29 PTS),,,69 - 82,13
+0020000974,398,3,12,3,4:00 PM,0:20,Kidd Free Throw 2 of 2 (30 PTS),,,69 - 83,14
+0020000974,399,1,1,3,4:01 PM,0:00,,,Laettner  3PT Jump Shot (14 PTS) (Hamilton 3 AST),72 - 83,11
+0020000974,400,13,0,3,4:01 PM,0:00,,,,72 - 83,11
+0020000974,404,12,0,4,4:04 PM,12:00,,,,72 - 83,11
+0020000974,405,5,1,4,4:04 PM,11:48,Kidd Bad Pass Turnover (P1.T9),,,,
+0020000974,406,1,1,4,4:04 PM,11:30,,,Smith 5' Jump Shot (6 PTS) (Hamilton 4 AST),74 - 83,9
+0020000974,407,6,2,4,4:05 PM,11:12,,,Laettner S.FOUL (P4.T1),,
+0020000974,408,3,11,4,4:05 PM,11:12,Robinson Free Throw 1 of 2 (18 PTS),,,74 - 84,10
+0020000974,409,3,12,4,4:05 PM,11:12,MISS Robinson Free Throw 2 of 2,,,,
+0020000974,410,4,0,4,4:05 PM,11:12,,,Laettner REBOUND (Off:0 Def:5),,
+0020000974,411,6,4,4,4:06 PM,10:50,,,Vanterpool OFF.Foul (P3),,
+0020000974,412,5,5,4,4:06 PM,10:50,,,Vanterpool Foul Turnover (P3.T16),,
+0020000974,413,1,1,4,4:06 PM,10:32,Del Negro 17' Jump Shot (8 PTS) (Marion 1 AST),,,74 - 86,12
+0020000974,414,5,1,4,4:06 PM,10:13,,,Laettner Bad Pass Turnover (P2.T17),,
+0020000974,415,2,1,4,4:07 PM,9:56,MISS Marion 17' Jump Shot,,,,
+0020000974,416,4,0,4,4:07 PM,9:54,Rogers REBOUND (Off:1 Def:3),,,,
+0020000974,417,2,5,4,4:07 PM,9:51,MISS Marion  Layup,,,,
+0020000974,418,4,0,4,4:07 PM,9:50,Robinson REBOUND (Off:3 Def:0),,,,
+0020000974,419,1,8,4,4:07 PM,9:42,Marion  Slam Dunk (19 PTS) (Rogers 2 AST),,,74 - 88,14
+0020000974,420,1,5,4,4:07 PM,9:19,,,Laettner  Layup (16 PTS) (Jones 1 AST),76 - 88,12
+0020000974,421,2,1,4,4:08 PM,9:04,MISS Kidd 18' Jump Shot,,,,
+0020000974,422,4,0,4,4:08 PM,9:03,,,Wizards Rebound,,
+0020000974,423,8,0,4,4:08 PM,9:03,,,SUB: Alexander FOR Hamilton,,
+0020000974,424,1,1,4,4:08 PM,8:47,,,Alexander 11' Jump Shot (11 PTS) (Smith 1 AST),78 - 88,10
+0020000974,425,2,1,4,4:08 PM,8:38,MISS Del Negro 25' 3PT Jump Shot,,,,
+0020000974,426,4,0,4,4:08 PM,8:35,,,Laettner REBOUND (Off:0 Def:6),,
+0020000974,427,6,1,4,4:09 PM,8:30,Robinson P.FOUL (P4.T1),,,,
+0020000974,428,9,4,4,4:09 PM,8:30,,,,,
+0020000974,430,8,0,4,4:11 PM,8:30,SUB: Dudley FOR Robinson,,,,
+0020000974,431,1,5,4,4:11 PM,8:16,,,Laettner  Layup (18 PTS),80 - 88,8
+0020000974,432,6,2,4,4:11 PM,8:00,,,Jones S.FOUL (P2.T2),,
+0020000974,433,3,11,4,4:11 PM,8:00,Rogers Free Throw 1 of 2 (5 PTS),,,80 - 89,9
+0020000974,434,3,12,4,4:12 PM,8:00,Rogers Free Throw 2 of 2 (6 PTS),,,80 - 90,10
+0020000974,435,1,1,4,4:12 PM,7:48,,,Smith 22' Jump Shot (8 PTS) (Laettner 4 AST),82 - 90,8
+0020000974,436,5,1,4,4:13 PM,7:29,Rogers Bad Pass Turnover (P3.T10),,Laettner STEAL (2 STL),,
+0020000974,437,2,5,4,4:13 PM,7:14,Del Negro BLOCK (1 BLK),,MISS Alexander  Layup,,
+0020000974,438,4,0,4,4:13 PM,7:10,Marion REBOUND (Off:5 Def:4),,,,
+0020000974,439,1,1,4,4:13 PM,7:06,Kidd 18' Jump Shot (32 PTS),,,82 - 92,10
+0020000974,440,5,1,4,4:13 PM,6:50,Marion STEAL (3 STL),,Laettner Bad Pass Turnover (P3.T18),,
+0020000974,441,1,1,4,4:13 PM,6:41,Kidd 8' Jump Shot (34 PTS) (Marion 2 AST),,,82 - 94,12
+0020000974,443,2,1,4,4:14 PM,6:28,,,MISS Vanterpool 10' Jump Shot,,
+0020000974,444,4,0,4,4:14 PM,6:27,Marion REBOUND (Off:5 Def:5),,,,
+0020000974,445,1,5,4,4:14 PM,6:24,Kidd  Layup (36 PTS) (Marion 3 AST),,,82 - 96,14
+0020000974,446,9,1,4,4:14 PM,6:21,,,Wizards Timeout: Regular (Reg.4 Short 0),,
+0020000974,448,8,0,4,4:15 PM,6:21,,,SUB: Smith FOR Jones,,
+0020000974,449,5,2,4,4:16 PM,5:57,Marion STEAL (4 STL),,Alexander Lost Ball Turnover (P5.T19),,
+0020000974,450,2,1,4,4:17 PM,5:38,MISS Kidd 18' Jump Shot,,,,
+0020000974,451,4,0,4,4:17 PM,5:35,,,Smith REBOUND (Off:2 Def:6),,
+0020000974,452,2,1,4,4:17 PM,5:27,,,MISS Laettner 20' Jump Shot,,
+0020000974,453,4,0,4,4:17 PM,5:24,Marion REBOUND (Off:5 Def:6),,,,
+0020000974,454,1,1,4,4:17 PM,5:06,Marion 24' 3PT Jump Shot (22 PTS) (Kidd 8 AST),,,82 - 99,17
+0020000974,458,8,0,4,4:17 PM,5:06,,,SUB: Profit FOR Alexander,,
+0020000974,455,8,0,4,4:17 PM,5:06,,,SUB: White FOR Laettner,,
+0020000974,456,5,2,4,4:18 PM,4:46,Dudley STEAL (1 STL),,White Lost Ball Turnover (P5.T20),,
+0020000974,457,1,1,4,4:18 PM,4:41,Del Negro 16' Jump Shot (10 PTS) (Kidd 9 AST),,,82 - 101,19
+0020000974,460,9,2,4,4:19 PM,4:33,,,Wizards Timeout: Short (Reg.4 Short 1),,
+0020000974,461,6,1,4,4:19 PM,4:31,Kidd P.FOUL (P3.T2),,,,
+0020000974,462,8,0,4,4:19 PM,4:31,SUB: Perry FOR Kidd,,,,
+0020000974,463,5,1,4,4:20 PM,4:25,Marion STEAL (5 STL),,Vanterpool Bad Pass Turnover (P4.T21),,
+0020000974,464,1,1,4,4:20 PM,4:07,Marion 15' Jump Shot (24 PTS) (Rogers 3 AST),,,82 - 103,21
+0020000974,465,5,1,4,4:20 PM,3:59,Marion STEAL (6 STL),,Profit Bad Pass Turnover (P1.T22),,
+0020000974,466,2,5,4,4:20 PM,3:55,MISS Marion  Layup,,Smith BLOCK (1 BLK),,
+0020000974,467,4,0,4,4:20 PM,3:52,,,Smith REBOUND (Off:2 Def:7),,
+0020000974,468,1,7,4,4:20 PM,3:50,,,White  Dunk (7 PTS) (Profit 1 AST),84 - 103,19
+0020000974,469,5,1,4,4:21 PM,3:30,Rogers Bad Pass Turnover (P4.T11),,Smith STEAL (4 STL),,
+0020000974,470,2,1,4,4:21 PM,3:18,,,MISS Profit 17' Jump Shot,,
+0020000974,471,4,0,4,4:21 PM,3:17,Rogers REBOUND (Off:1 Def:4),,,,
+0020000974,472,2,1,4,4:21 PM,3:02,MISS Rogers 18' Jump Shot,,,,
+0020000974,473,4,0,4,4:21 PM,3:00,,,Smith REBOUND (Off:2 Def:8),,
+0020000974,474,1,8,4,4:21 PM,2:46,,,Smith  Slam Dunk (10 PTS) (White 1 AST),86 - 103,17
+0020000974,475,5,1,4,4:22 PM,2:19,Rogers Bad Pass Turnover (P5.T12),,Smith STEAL (5 STL),,
+0020000974,476,1,5,4,4:22 PM,2:14,,,Profit  Layup (3 PTS) (Smith 5 AST),88 - 103,15
+0020000974,477,9,1,4,4:22 PM,2:12,SUNS Timeout: Regular (Full 4 Short 0),,,,
+0020000974,479,8,0,4,4:24 PM,2:12,SUB: Santiago FOR Marion,,,,
+0020000974,480,2,1,4,4:24 PM,1:56,MISS Perry 22' Jump Shot,,,,
+0020000974,481,4,0,4,4:24 PM,1:54,,,Profit REBOUND (Off:0 Def:2),,
+0020000974,482,1,5,4,4:24 PM,1:45,,,White  Layup (9 PTS) (Smith 6 AST),90 - 103,13
+0020000974,483,2,1,4,4:25 PM,1:25,MISS Del Negro 22' Jump Shot,,,,
+0020000974,484,4,0,4,4:25 PM,1:22,Rogers REBOUND (Off:2 Def:4),,,,
+0020000974,485,1,5,4,4:25 PM,1:21,Rogers  Layup (8 PTS),,,90 - 105,15
+0020000974,486,5,1,4,4:25 PM,1:13,Santiago STEAL (1 STL),,Smith Bad Pass Turnover (P2.T23),,
+0020000974,487,2,3,4,4:25 PM,0:47,MISS Santiago 7' Hook Shot,,,,
+0020000974,488,4,0,4,4:25 PM,0:46,,,White REBOUND (Off:4 Def:6),,
+0020000974,489,2,1,4,4:26 PM,0:34,,,MISS Profit 9' Jump Shot,,
+0020000974,490,4,0,4,4:26 PM,0:32,,,Profit REBOUND (Off:1 Def:2),,
+0020000974,491,6,2,4,4:26 PM,0:32,Dudley S.FOUL (P5.T3),,,,
+0020000974,492,3,11,4,4:26 PM,0:32,,,MISS Profit Free Throw 1 of 2,,
+0020000974,493,4,1,4,4:26 PM,0:32,,,Wizards Rebound,,
+0020000974,494,3,12,4,4:26 PM,0:32,,,Profit Free Throw 2 of 2 (4 PTS),91 - 105,14
+0020000974,495,6,16,4,4:27 PM,0:32,,,,,
+0020000974,496,5,15,4,4:27 PM,0:19,Dudley Offensive Goaltending Turnover (P1.T13),,,,
+0020000974,497,2,40,4,4:27 PM,0:02,Santiago BLOCK (1 BLK),,MISS White  Layup,,
+0020000974,499,4,0,4,4:28 PM,0:00,,,White REBOUND (Off:5 Def:6),,
+0020000974,498,2,7,4,4:28 PM,0:00,,,MISS White  Dunk,,
+0020000974,500,4,0,4,4:28 PM,0:00,,,Smith REBOUND (Off:3 Def:8),,
+0020000974,501,13,0,4,4:28 PM,0:00,,,,91 - 105,14

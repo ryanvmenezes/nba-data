@@ -1,0 +1,445 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000265,0,12,0,1,4:00 AM,12:00,,,,,
+0020000265,1,10,0,1,12:13 PM,12:00,Jump Ball Tarlac vs. Ilgauskas: Tip to Miller,,,,
+0020000265,2,6,2,1,12:13 PM,11:45,Tarlac S.FOUL (P1.T1),,,,
+0020000265,3,3,11,1,12:14 PM,11:45,,,MISS Ilgauskas Free Throw 1 of 2,,
+0020000265,4,4,1,1,12:14 PM,11:45,,,Cavaliers Rebound,,
+0020000265,5,3,12,1,12:14 PM,11:45,,,Ilgauskas Free Throw 2 of 2 (1 PTS),1 - 0,-1
+0020000265,6,6,2,1,12:14 PM,11:28,,,Ilgauskas S.FOUL (P1.T1),,
+0020000265,7,3,11,1,12:14 PM,11:28,Fizer Free Throw 1 of 2 (1 PTS),,,1 - 1,TIE
+0020000265,8,3,12,1,12:15 PM,11:28,Fizer Free Throw 2 of 2 (2 PTS),,,1 - 2,1
+0020000265,9,1,1,1,12:15 PM,11:19,,,Murray 20' Jump Shot (2 PTS) (Miller 1 AST),3 - 2,-1
+0020000265,10,2,5,1,12:15 PM,10:58,MISS El-Amin  Layup,,,,
+0020000265,11,4,0,1,12:15 PM,10:55,,,Ilgauskas REBOUND (Off:0 Def:1),,
+0020000265,12,6,4,1,12:15 PM,10:55,,,Murray OFF.Foul (P1),,
+0020000265,13,5,5,1,12:15 PM,10:55,,,Murray Foul Turnover (P1.T1),,
+0020000265,14,1,49,1,12:16 PM,10:45,World Peace  Driving Dunk (2 PTS) (Tarlac 1 AST),,,3 - 4,1
+0020000265,15,5,2,1,12:16 PM,10:27,Tarlac STEAL (1 STL),,Ilgauskas Lost Ball Turnover (P1.T2),,
+0020000265,16,1,49,1,12:16 PM,10:23,World Peace  Driving Dunk (4 PTS),,,3 - 6,3
+0020000265,18,6,4,1,12:17 PM,10:07,,,Harpring OFF.Foul (P1),,
+0020000265,19,5,5,1,12:17 PM,10:07,,,Harpring Foul Turnover (P1.T3),,
+0020000265,20,2,1,1,12:17 PM,9:44,MISS Fizer 18' Jump Shot,,,,
+0020000265,21,4,0,1,12:17 PM,9:42,,,Weatherspoon REBOUND (Off:0 Def:1),,
+0020000265,22,1,5,1,12:17 PM,9:32,,,Weatherspoon  Layup (2 PTS) (Miller 2 AST),5 - 6,1
+0020000265,23,2,7,1,12:17 PM,9:23,MISS Fizer  Dunk,,Weatherspoon BLOCK (1 BLK),,
+0020000265,24,4,0,1,12:18 PM,9:22,,,Murray REBOUND (Off:0 Def:1),,
+0020000265,25,6,1,1,12:18 PM,9:11,Fizer P.FOUL (P1.T2),,,,
+0020000265,26,2,1,1,12:18 PM,9:03,,,MISS Murray 19' Jump Shot,,
+0020000265,27,4,0,1,12:18 PM,9:01,El-Amin REBOUND (Off:0 Def:1),,,,
+0020000265,28,6,1,1,12:18 PM,9:00,,,Murray P.FOUL (P2.T2),,
+0020000265,29,8,0,1,12:18 PM,9:00,,,SUB: Langdon FOR Murray,,
+0020000265,30,2,1,1,12:19 PM,8:49,MISS Mercer 21' Jump Shot,,,,
+0020000265,31,4,0,1,12:19 PM,8:48,BULLS Rebound,,,,
+0020000265,32,1,1,1,12:19 PM,8:41,El-Amin 21' Jump Shot (2 PTS) (Mercer 1 AST),,,5 - 8,3
+0020000265,33,5,2,1,12:19 PM,8:32,World Peace STEAL (1 STL),,Harpring Lost Ball Turnover (P2.T4),,
+0020000265,34,1,5,1,12:19 PM,8:27,Mercer  Layup (2 PTS) (Fizer 1 AST),,,5 - 10,5
+0020000265,35,9,2,1,12:19 PM,8:20,,,Cavaliers Timeout: Short (Reg.0 Short 1),,
+0020000265,36,6,1,1,12:21 PM,8:11,World Peace P.FOUL (P1.T3),,,,
+0020000265,37,6,4,1,12:21 PM,8:06,,,Ilgauskas OFF.Foul (P2),,
+0020000265,38,5,5,1,12:21 PM,8:06,,,Ilgauskas Foul Turnover (P2.T5),,
+0020000265,39,8,0,1,12:21 PM,8:06,,,SUB: Gatling FOR Ilgauskas,,
+0020000265,40,1,1,1,12:22 PM,7:52,Mercer 16' Jump Shot (4 PTS) (Fizer 2 AST),,,5 - 12,7
+0020000265,41,1,5,1,12:22 PM,7:40,,,Weatherspoon  Layup (4 PTS) (Harpring 1 AST),7 - 12,5
+0020000265,42,2,5,1,12:22 PM,7:12,MISS Fizer  Layup,,,,
+0020000265,43,4,0,1,12:22 PM,7:10,,,Gatling REBOUND (Off:0 Def:1),,
+0020000265,44,1,1,1,12:22 PM,6:55,,,Weatherspoon 12' Jump Shot (6 PTS),9 - 12,3
+0020000265,45,6,1,1,12:23 PM,6:33,,,Gatling P.FOUL (P1.T3),,
+0020000265,46,2,5,1,12:23 PM,6:18,MISS Fizer  Layup,,,,
+0020000265,48,4,0,1,12:23 PM,6:17,Fizer REBOUND (Off:1 Def:0),,,,
+0020000265,47,2,4,1,12:23 PM,6:17,MISS Fizer  Tip Shot,,,,
+0020000265,49,4,0,1,12:23 PM,6:16,,,Langdon REBOUND (Off:0 Def:1),,
+0020000265,50,6,1,1,12:24 PM,6:07,Tarlac P.FOUL (P2.T4),,,,
+0020000265,51,8,0,1,12:24 PM,6:07,SUB: Ruffin FOR Tarlac,,,,
+0020000265,52,2,5,1,12:24 PM,5:58,,,MISS Miller  Layup,,
+0020000265,53,4,0,1,12:24 PM,5:56,Mercer REBOUND (Off:0 Def:1),,,,
+0020000265,54,5,1,1,12:24 PM,5:48,World Peace Bad Pass Turnover (P1.T1),,Weatherspoon STEAL (1 STL),,
+0020000265,55,5,1,1,12:24 PM,5:44,El-Amin STEAL (1 STL),,Harpring Bad Pass Turnover (P3.T6),,
+0020000265,56,1,5,1,12:25 PM,5:38,World Peace  Layup (6 PTS) (El-Amin 1 AST),,,9 - 14,5
+0020000265,57,2,1,1,12:25 PM,5:21,Mercer BLOCK (1 BLK),,MISS Langdon 7' Jump Shot,,
+0020000265,58,4,0,1,12:25 PM,5:17,Fizer REBOUND (Off:1 Def:1),,,,
+0020000265,59,1,1,1,12:25 PM,5:15,Mercer 13' Jump Shot (6 PTS) (El-Amin 2 AST),,,9 - 16,7
+0020000265,60,1,5,1,12:25 PM,5:05,,,Harpring  Layup (2 PTS) (Miller 3 AST),11 - 16,5
+0020000265,61,1,7,1,12:25 PM,4:53,Fizer  Dunk (4 PTS) (El-Amin 3 AST),,,11 - 18,7
+0020000265,62,1,1,1,12:26 PM,4:27,,,Gatling 15' Jump Shot (2 PTS),13 - 18,5
+0020000265,63,1,5,1,12:26 PM,4:05,Mercer  Layup (8 PTS) (El-Amin 4 AST),,,13 - 20,7
+0020000265,64,6,2,1,12:28 PM,4:05,,,Gatling S.FOUL (P2.T4),,
+0020000265,87,9,1,1,12:28 PM,4:05,BULLS Timeout: Regular (Full 1 Short 0),,,,
+0020000265,66,3,10,1,12:29 PM,4:05,MISS Mercer Free Throw 1 of 1,,,,
+0020000265,68,4,0,1,12:29 PM,4:01,,,Weatherspoon REBOUND (Off:0 Def:2),,
+0020000265,69,2,1,1,12:29 PM,3:54,Ruffin BLOCK (1 BLK),,MISS Gatling 6' Jump Shot,,
+0020000265,70,4,0,1,12:29 PM,3:48,,,Weatherspoon REBOUND (Off:1 Def:2),,
+0020000265,71,1,5,1,12:29 PM,3:47,,,Weatherspoon  Layup (8 PTS),15 - 20,5
+0020000265,72,2,5,1,12:29 PM,3:42,MISS El-Amin  Layup,,,,
+0020000265,73,4,0,1,12:30 PM,3:38,,,Miller REBOUND (Off:0 Def:1),,
+0020000265,74,1,7,1,12:30 PM,3:35,,,Gatling  Dunk (4 PTS) (Miller 4 AST),17 - 20,3
+0020000265,75,6,1,1,12:30 PM,3:20,,,Harpring P.FOUL (P2.PN),,
+0020000265,76,3,11,1,12:30 PM,3:20,World Peace Free Throw 1 of 2 (7 PTS),,,17 - 21,4
+0020000265,78,8,0,1,12:30 PM,3:20,,,SUB: Henderson FOR Harpring,,
+0020000265,79,3,12,1,12:31 PM,3:20,World Peace Free Throw 2 of 2 (8 PTS),,,17 - 22,5
+0020000265,80,2,1,1,12:31 PM,3:00,,,MISS Miller 24' 3PT Jump Shot,,
+0020000265,81,4,0,1,12:31 PM,2:57,,,Gatling REBOUND (Off:1 Def:1),,
+0020000265,82,1,5,1,12:31 PM,2:53,,,Gatling  Layup (6 PTS),19 - 22,3
+0020000265,83,5,1,1,12:31 PM,2:37,Ruffin Bad Pass Turnover (P1.T2),,Weatherspoon STEAL (2 STL),,
+0020000265,84,1,5,1,12:31 PM,2:31,,,Gatling  Layup (8 PTS) (Miller 5 AST),21 - 22,1
+0020000265,93,5,1,1,12:32 PM,2:05,Mercer Bad Pass Turnover (P1.T3),,Weatherspoon STEAL (3 STL),,
+0020000265,85,9,1,1,12:32 PM,2:05,,,Cavaliers Timeout: Regular (Reg.1 Short 1),,
+0020000265,88,2,1,1,12:35 PM,1:49,,,MISS Gatling 20' Jump Shot,,
+0020000265,89,4,0,1,12:35 PM,1:47,El-Amin REBOUND (Off:0 Def:2),,,,
+0020000265,90,5,2,1,12:35 PM,1:45,El-Amin Lost Ball Turnover (P1.T4),,Weatherspoon STEAL (4 STL),,
+0020000265,91,2,1,1,12:35 PM,1:33,,,MISS Langdon 22' Jump Shot,,
+0020000265,92,4,0,1,12:35 PM,1:31,Ruffin REBOUND (Off:0 Def:1),,,,
+0020000265,94,1,1,1,12:36 PM,1:09,Mercer 18' Jump Shot (10 PTS) (El-Amin 5 AST),,,21 - 24,3
+0020000265,96,2,1,1,12:36 PM,0:50,,,MISS Langdon 16' Jump Shot,,
+0020000265,97,4,0,1,12:36 PM,0:50,Fizer REBOUND (Off:1 Def:2),,,,
+0020000265,98,8,0,1,12:37 PM,0:50,SUB: Benjamin FOR World Peace,,,,
+0020000265,99,8,0,1,12:37 PM,0:47,,,SUB: Person FOR Miller,,
+0020000265,100,2,1,1,12:37 PM,0:35,MISS El-Amin 19' Jump Shot,,,,
+0020000265,101,4,0,1,12:37 PM,0:34,Ruffin REBOUND (Off:1 Def:1),,,,
+0020000265,102,6,1,1,12:37 PM,0:34,,,Henderson P.FOUL (P1.PN),,
+0020000265,104,3,11,1,12:37 PM,0:34,Ruffin Free Throw 1 of 2 (1 PTS),,,21 - 25,4
+0020000265,105,3,12,1,12:37 PM,0:34,MISS Ruffin Free Throw 2 of 2,,,,
+0020000265,106,4,0,1,12:37 PM,0:32,Mercer REBOUND (Off:1 Def:1),,,,
+0020000265,108,2,5,1,12:38 PM,0:13,MISS Fizer  Layup,,Weatherspoon BLOCK (2 BLK),,
+0020000265,109,4,0,1,12:38 PM,0:09,Benjamin REBOUND (Off:1 Def:0),,,,
+0020000265,110,1,1,1,12:38 PM,0:00,Mercer 18' Jump Shot (12 PTS),,,21 - 27,6
+0020000265,111,13,0,1,12:38 PM,0:00,,,,21 - 27,6
+0020000265,113,12,0,2,12:41 PM,12:00,,,,21 - 27,6
+0020000265,114,5,11,2,12:42 PM,11:36,BULLS Turnover: Shot Clock (T#5),,,,
+0020000265,115,2,1,2,12:42 PM,11:18,,,MISS Traylor 14' Jump Shot,,
+0020000265,116,4,0,2,12:42 PM,11:16,Tarlac REBOUND (Off:0 Def:1),,,,
+0020000265,117,1,1,2,12:43 PM,11:02,Benjamin 25' 3PT Jump Shot (3 PTS) (Mercer 2 AST),,,21 - 30,9
+0020000265,118,1,8,2,12:43 PM,10:50,,,Traylor  Slam Dunk (2 PTS) (Langdon 1 AST),23 - 30,7
+0020000265,119,2,1,2,12:43 PM,10:25,MISS Benjamin 16' Jump Shot,,,,
+0020000265,120,4,0,2,12:43 PM,10:24,,,Cavaliers Rebound,,
+0020000265,121,8,0,2,12:43 PM,10:24,,,SUB: Miller FOR Person,,
+0020000265,122,1,7,2,12:44 PM,10:06,,,Traylor  Dunk (4 PTS) (Langdon 2 AST),25 - 30,5
+0020000265,123,2,7,2,12:44 PM,9:53,MISS Ruffin  Dunk,,,,
+0020000265,124,4,0,2,12:44 PM,9:52,,,Cavaliers Rebound,,
+0020000265,125,2,1,2,12:45 PM,9:33,,,MISS Gatling 16' Jump Shot,,
+0020000265,126,4,0,2,12:45 PM,9:31,,,Gatling REBOUND (Off:2 Def:1),,
+0020000265,127,1,5,2,12:45 PM,9:29,,,Gatling  Layup (10 PTS),27 - 30,3
+0020000265,128,8,0,2,12:45 PM,9:16,,,SUB: Ilgauskas FOR Gatling,,
+0020000265,129,2,1,2,12:45 PM,9:01,MISS Mercer 21' Jump Shot,,,,
+0020000265,130,4,0,2,12:45 PM,8:59,Mercer REBOUND (Off:2 Def:1),,,,
+0020000265,131,1,1,2,12:46 PM,8:43,Ruffin 7' Jump Shot (3 PTS) (Tarlac 2 AST),,,27 - 32,5
+0020000265,132,5,3,2,12:46 PM,8:28,,,Traylor Out Of Bounds Turnover (P1.T7),,
+0020000265,133,9,1,2,12:46 PM,8:28,,,,,
+0020000265,135,8,0,2,12:48 PM,8:28,,,SUB: Harpring FOR Langdon,,
+0020000265,136,6,1,2,12:49 PM,8:17,,,Ilgauskas P.FOUL (P3.T1),,
+0020000265,138,8,0,2,12:49 PM,8:17,,,SUB: Mihm FOR Ilgauskas,,
+0020000265,139,2,1,2,12:49 PM,8:11,MISS Mercer 16' Jump Shot,,Henderson BLOCK (1 BLK),,
+0020000265,140,4,0,2,12:49 PM,8:10,BULLS Rebound,,,,
+0020000265,141,2,1,2,12:50 PM,8:07,MISS Mercer 16' Jump Shot,,,,
+0020000265,142,4,0,2,12:50 PM,8:06,,,Traylor REBOUND (Off:0 Def:1),,
+0020000265,143,2,1,2,12:50 PM,7:56,,,MISS Harpring 15' Jump Shot,,
+0020000265,144,4,0,2,12:50 PM,7:56,BULLS Rebound,,,,
+0020000265,145,1,1,2,12:50 PM,7:39,Crawford 21' Jump Shot (2 PTS) (Mercer 3 AST),,,27 - 34,7
+0020000265,146,2,5,2,12:51 PM,7:25,,,MISS Henderson  Layup,,
+0020000265,147,4,0,2,12:51 PM,7:21,,,Mihm REBOUND (Off:1 Def:0),,
+0020000265,148,2,5,2,12:51 PM,7:20,Tarlac BLOCK (1 BLK),,MISS Mihm  Layup,,
+0020000265,149,4,0,2,12:51 PM,7:18,,,Miller REBOUND (Off:1 Def:1),,
+0020000265,150,1,7,2,12:51 PM,7:07,,,Traylor  Dunk (6 PTS) (Miller 6 AST),29 - 34,5
+0020000265,151,1,1,2,12:51 PM,6:52,Mercer 21' Jump Shot (14 PTS) (Benjamin 1 AST),,,29 - 36,7
+0020000265,152,5,1,2,12:52 PM,6:32,Benjamin STEAL (1 STL),,Harpring Bad Pass Turnover (P4.T8),,
+0020000265,153,5,2,2,12:52 PM,6:18,Ruffin Lost Ball Turnover (P2.T6),,,,
+0020000265,154,9,1,2,12:52 PM,6:16,,,Cavaliers Timeout: Regular (Reg.2 Short 1),,
+0020000265,156,8,0,2,12:55 PM,6:16,SUB: Fizer FOR Tarlac,,,,
+0020000265,157,8,0,2,12:55 PM,6:16,SUB: World Peace FOR Benjamin,,,,
+0020000265,158,6,1,2,12:55 PM,6:00,World Peace P.FOUL (P2.T1),,,,
+0020000265,159,8,0,2,12:56 PM,6:00,,,SUB: Weatherspoon FOR Mihm,,
+0020000265,160,1,7,2,12:56 PM,5:54,,,Traylor  Dunk (8 PTS) (Miller 7 AST),31 - 36,5
+0020000265,161,2,1,2,12:56 PM,5:31,MISS Fizer 18' Jump Shot,,,,
+0020000265,162,4,0,2,12:56 PM,5:29,Ruffin REBOUND (Off:2 Def:1),,,,
+0020000265,163,2,1,2,12:56 PM,5:22,MISS World Peace 25' 3PT Jump Shot,,,,
+0020000265,164,4,0,2,12:56 PM,5:20,,,Miller REBOUND (Off:1 Def:2),,
+0020000265,165,7,2,2,12:57 PM,5:13,Mercer Violation:Defensive Goaltending,,,,
+0020000265,166,2,1,2,12:57 PM,5:05,,,MISS Harpring 21' Jump Shot,,
+0020000265,167,4,0,2,12:57 PM,5:02,Mercer REBOUND (Off:2 Def:2),,,,
+0020000265,168,2,1,2,12:57 PM,4:45,MISS World Peace 19' Jump Shot,,,,
+0020000265,169,4,0,2,12:57 PM,4:43,,,Traylor REBOUND (Off:0 Def:2),,
+0020000265,170,1,7,2,12:57 PM,4:39,,,Henderson  Dunk (2 PTS) (Miller 8 AST),33 - 36,3
+0020000265,171,2,1,2,12:58 PM,4:22,MISS Fizer 7' Jump Shot,,Traylor BLOCK (1 BLK),,
+0020000265,172,4,0,2,12:58 PM,4:19,,,Harpring REBOUND (Off:0 Def:1),,
+0020000265,173,5,1,2,12:58 PM,4:16,World Peace STEAL (2 STL),,Miller Bad Pass Turnover (P1.T9),,
+0020000265,174,6,1,2,12:58 PM,4:02,,,Weatherspoon P.FOUL (P1.T2),,
+0020000265,175,8,0,2,12:58 PM,4:02,,,SUB: Murray FOR Harpring,,
+0020000265,176,8,0,2,12:58 PM,4:02,SUB: El-Amin FOR Crawford,,,,
+0020000265,177,8,0,2,12:58 PM,4:02,SUB: Benjamin FOR Mercer,,,,
+0020000265,178,1,1,2,12:59 PM,3:53,Fizer 11' Jump Shot (6 PTS),,,33 - 38,5
+0020000265,179,5,4,2,12:59 PM,3:31,,,Henderson Traveling Turnover (P1.T10),,
+0020000265,180,2,1,2,1:00 PM,3:06,MISS World Peace 21' Jump Shot,,,,
+0020000265,181,4,0,2,1:00 PM,3:04,,,Traylor REBOUND (Off:0 Def:3),,
+0020000265,182,1,5,2,1:00 PM,2:59,,,Weatherspoon  Layup (10 PTS) (Henderson 1 AST),35 - 38,3
+0020000265,183,5,2,2,1:00 PM,2:44,World Peace Lost Ball Turnover (P2.T7),,Henderson STEAL (1 STL),,
+0020000265,184,1,7,2,1:00 PM,2:41,,,Henderson  Dunk (4 PTS),37 - 38,1
+0020000265,185,9,1,2,1:00 PM,2:33,BULLS Timeout: Regular (Full 2 Short 0),,,,
+0020000265,187,2,5,2,1:03 PM,2:17,MISS Fizer  Layup,,,,
+0020000265,189,4,0,2,1:03 PM,2:16,Ruffin REBOUND (Off:3 Def:1),,,,
+0020000265,188,2,4,2,1:03 PM,2:16,MISS Ruffin  Tip Shot,,,,
+0020000265,190,4,0,2,1:03 PM,2:16,,,Cavaliers Rebound,,
+0020000265,191,5,1,2,1:03 PM,2:03,Fizer STEAL (1 STL),,Henderson Bad Pass Turnover (P2.T11),,
+0020000265,192,5,11,2,1:04 PM,1:38,BULLS Turnover: Shot Clock (T#8),,,,
+0020000265,193,2,1,2,1:05 PM,1:26,,,MISS Murray 16' Jump Shot,,
+0020000265,194,4,0,2,1:05 PM,1:22,Fizer REBOUND (Off:1 Def:3),,,,
+0020000265,195,2,1,2,1:05 PM,1:11,MISS El-Amin 24' 3PT Jump Shot,,,,
+0020000265,196,4,0,2,1:05 PM,1:08,Ruffin REBOUND (Off:4 Def:1),,,,
+0020000265,197,6,2,2,1:05 PM,1:02,,,Murray S.FOUL (P3.T3),,
+0020000265,198,8,0,2,1:05 PM,1:02,,,SUB: Harpring FOR Murray,,
+0020000265,199,3,11,2,1:06 PM,1:02,World Peace Free Throw 1 of 2 (9 PTS),,,37 - 39,2
+0020000265,200,3,12,2,1:06 PM,1:02,World Peace Free Throw 2 of 2 (10 PTS),,,37 - 40,3
+0020000265,201,2,7,2,1:06 PM,0:51,,,MISS Weatherspoon  Dunk,,
+0020000265,202,4,0,2,1:06 PM,0:49,,,Traylor REBOUND (Off:1 Def:3),,
+0020000265,203,6,2,2,1:06 PM,0:49,Ruffin S.FOUL (P1.T2),,,,
+0020000265,204,3,11,2,1:06 PM,0:49,,,MISS Traylor Free Throw 1 of 2,,
+0020000265,205,4,1,2,1:06 PM,0:49,,,Cavaliers Rebound,,
+0020000265,206,3,12,2,1:06 PM,0:49,,,Traylor Free Throw 2 of 2 (9 PTS),38 - 40,2
+0020000265,207,2,1,2,1:07 PM,0:27,MISS Benjamin 22' Jump Shot,,,,
+0020000265,208,4,0,2,1:07 PM,0:27,,,Cavaliers Rebound,,
+0020000265,209,6,3,2,1:07 PM,0:27,World Peace L.B.FOUL (P3.PN),,,,
+0020000265,210,3,11,2,1:08 PM,0:27,,,Weatherspoon Free Throw 1 of 2 (11 PTS),39 - 40,1
+0020000265,211,8,0,2,1:08 PM,0:27,SUB: Mercer FOR World Peace,,,,
+0020000265,212,8,0,2,1:08 PM,0:27,,,SUB: Langdon FOR Harpring,,
+0020000265,213,3,12,2,1:08 PM,0:27,,,Weatherspoon Free Throw 2 of 2 (12 PTS),40 - 40,TIE
+0020000265,214,1,7,2,1:09 PM,0:03,Benjamin  Dunk (5 PTS) (El-Amin 6 AST),,,40 - 42,2
+0020000265,215,2,1,2,1:09 PM,0:00,,,MISS Miller 44' 3PT Jump Shot,,
+0020000265,217,4,0,2,1:09 PM,0:00,,,Cavaliers Rebound,,
+0020000265,216,13,0,2,1:09 PM,0:00,,,,40 - 42,2
+0020000265,219,12,0,3,1:29 PM,12:00,,,,40 - 42,2
+0020000265,220,1,1,3,1:29 PM,11:35,Mercer 22' Jump Shot (16 PTS) (World Peace 1 AST),,,40 - 44,4
+0020000265,221,2,1,3,1:29 PM,11:17,,,MISS Murray 20' Jump Shot,,
+0020000265,222,4,0,3,1:30 PM,11:15,Mercer REBOUND (Off:2 Def:3),,,,
+0020000265,223,5,1,3,1:30 PM,10:56,El-Amin Bad Pass Turnover (P2.T9),,Murray STEAL (1 STL),,
+0020000265,224,2,1,3,1:30 PM,10:43,,,MISS Ilgauskas 13' Jump Shot,,
+0020000265,225,4,0,3,1:30 PM,10:41,Tarlac REBOUND (Off:0 Def:2),,,,
+0020000265,226,5,3,3,1:30 PM,10:28,Ruffin Out Of Bounds Turnover (P3.T10),,,,
+0020000265,227,1,1,3,1:31 PM,10:12,,,Harpring 19' Jump Shot (4 PTS) (Miller 9 AST),42 - 44,2
+0020000265,228,1,1,3,1:31 PM,9:48,World Peace 11' Jump Shot (12 PTS),,,42 - 46,4
+0020000265,229,1,1,3,1:31 PM,9:32,,,Weatherspoon 6' Jump Shot (14 PTS) (Harpring 2 AST),44 - 46,2
+0020000265,230,6,2,3,1:31 PM,9:32,Ruffin S.FOUL (P2.T1),,,,
+0020000265,231,3,10,3,1:32 PM,9:32,,,Weatherspoon Free Throw 1 of 1 (15 PTS),45 - 46,1
+0020000265,232,6,2,3,1:32 PM,9:16,,,Miller S.FOUL (P1.T1),,
+0020000265,233,3,11,3,1:32 PM,9:16,El-Amin Free Throw 1 of 2 (3 PTS),,,45 - 47,2
+0020000265,234,3,12,3,1:33 PM,9:16,MISS El-Amin Free Throw 2 of 2,,,,
+0020000265,235,4,0,3,1:33 PM,9:15,,,Weatherspoon REBOUND (Off:1 Def:3),,
+0020000265,236,6,2,3,1:33 PM,8:59,Ruffin S.FOUL (P3.T2),,,,
+0020000265,237,3,11,3,1:33 PM,8:59,,,MISS Ilgauskas Free Throw 1 of 2,,
+0020000265,238,4,1,3,1:33 PM,8:59,,,Cavaliers Rebound,,
+0020000265,239,3,12,3,1:33 PM,8:59,,,Ilgauskas Free Throw 2 of 2 (2 PTS),46 - 47,1
+0020000265,240,2,1,3,1:34 PM,8:46,MISS Mercer 20' Jump Shot,,,,
+0020000265,241,4,0,3,1:34 PM,8:44,BULLS Rebound,,,,
+0020000265,242,2,1,3,1:35 PM,8:21,MISS El-Amin 25' 3PT Jump Shot,,,,
+0020000265,243,4,0,3,1:35 PM,8:19,,,Murray REBOUND (Off:0 Def:2),,
+0020000265,244,1,1,3,1:35 PM,8:04,,,Ilgauskas 7' Jump Shot (4 PTS),48 - 47,-1
+0020000265,245,6,2,3,1:36 PM,7:54,,,Harpring S.FOUL (P3.T2),,
+0020000265,246,3,11,3,1:36 PM,7:54,MISS Mercer Free Throw 1 of 2,,,,
+0020000265,247,4,1,3,1:36 PM,7:54,BULLS Rebound,,,,
+0020000265,248,8,0,3,1:36 PM,7:54,SUB: Fizer FOR Tarlac,,,,
+0020000265,249,3,12,3,1:36 PM,7:54,MISS Mercer Free Throw 2 of 2,,,,
+0020000265,250,4,0,3,1:36 PM,7:52,Mercer REBOUND (Off:3 Def:3),,,,
+0020000265,252,7,3,3,1:36 PM,7:39,,,Weatherspoon Violation:Lane,,
+0020000265,251,1,5,3,1:36 PM,7:39,Mercer  Layup (18 PTS) (World Peace 2 AST),,,48 - 49,1
+0020000265,253,1,1,3,1:37 PM,7:19,,,Harpring 19' Jump Shot (6 PTS) (Miller 10 AST),50 - 49,-1
+0020000265,254,2,5,3,1:37 PM,7:04,MISS World Peace  Layup,,,,
+0020000265,256,4,0,3,1:37 PM,7:03,Ruffin REBOUND (Off:5 Def:1),,,,
+0020000265,255,1,4,3,1:37 PM,7:03,Ruffin  Tip Shot (5 PTS),,,50 - 51,1
+0020000265,257,5,2,3,1:37 PM,6:49,Mercer STEAL (1 STL),,Harpring Lost Ball Turnover (P5.T12),,
+0020000265,258,2,7,3,1:38 PM,6:44,MISS Mercer  Dunk,,Miller BLOCK (1 BLK),,
+0020000265,259,4,0,3,1:38 PM,6:40,,,Miller REBOUND (Off:1 Def:3),,
+0020000265,260,6,2,3,1:38 PM,6:40,El-Amin S.FOUL (P1.T3),,,,
+0020000265,261,8,0,3,1:38 PM,6:40,,,SUB: Henderson FOR Murray,,
+0020000265,262,3,11,3,1:38 PM,6:40,,,MISS Miller Free Throw 1 of 2,,
+0020000265,263,4,1,3,1:38 PM,6:40,,,Cavaliers Rebound,,
+0020000265,264,3,12,3,1:38 PM,6:40,,,Miller Free Throw 2 of 2 (1 PTS),51 - 51,TIE
+0020000265,265,2,1,3,1:39 PM,6:19,MISS Fizer 5' Jump Shot,,,,
+0020000265,266,4,0,3,1:39 PM,6:19,BULLS Rebound,,,,
+0020000265,267,5,1,3,1:39 PM,6:11,Ruffin Bad Pass Turnover (P4.T11),,Ilgauskas STEAL (1 STL),,
+0020000265,268,2,5,3,1:39 PM,6:06,Fizer BLOCK (1 BLK),,MISS Harpring  Layup,,
+0020000265,269,4,0,3,1:39 PM,6:02,El-Amin REBOUND (Off:0 Def:3),,,,
+0020000265,270,6,14,3,1:40 PM,5:58,,,Ilgauskas FLAGRANT.FOUL.TYPE1 (P4.T3),,
+0020000265,271,9,1,3,1:40 PM,5:58,BULLS Timeout: Regular (Full 3 Short 0),,,,
+0020000265,272,8,0,3,1:43 PM,5:58,SUB: Benjamin FOR World Peace,,,,
+0020000265,273,8,0,3,1:43 PM,5:58,,,SUB: Langdon FOR Miller,,
+0020000265,274,3,18,3,1:44 PM,5:58,Fizer Free Throw Flagrant 1 of 2 (7 PTS),,,51 - 52,1
+0020000265,275,3,19,3,1:44 PM,5:58,Fizer Free Throw Flagrant 2 of 2 (8 PTS),,,51 - 53,2
+0020000265,276,6,2,3,1:45 PM,5:51,,,Weatherspoon S.FOUL (P2.T4),,
+0020000265,277,3,11,3,1:45 PM,5:51,Fizer Free Throw 1 of 2 (9 PTS),,,51 - 54,3
+0020000265,278,3,12,3,1:45 PM,5:51,Fizer Free Throw 2 of 2 (10 PTS),,,51 - 55,4
+0020000265,279,5,2,3,1:45 PM,5:34,El-Amin STEAL (2 STL),,Ilgauskas Lost Ball Turnover (P3.T13),,
+0020000265,280,1,42,3,1:46 PM,5:30,Mercer  Driving Layup (20 PTS) (El-Amin 7 AST),,,51 - 57,6
+0020000265,281,2,1,3,1:46 PM,5:14,,,MISS Henderson 20' Jump Shot,,
+0020000265,282,4,0,3,1:46 PM,5:12,Ruffin REBOUND (Off:5 Def:2),,,,
+0020000265,283,2,1,3,1:46 PM,5:03,MISS Mercer 20' Jump Shot,,,,
+0020000265,284,4,0,3,1:46 PM,5:01,,,Harpring REBOUND (Off:0 Def:2),,
+0020000265,285,6,2,3,1:46 PM,4:54,Ruffin S.FOUL (P4.T4),,,,
+0020000265,286,8,0,3,1:46 PM,4:54,,,SUB: Miller FOR Langdon,,
+0020000265,287,3,11,3,1:46 PM,4:54,,,Henderson Free Throw 1 of 2 (5 PTS),52 - 57,5
+0020000265,288,8,0,3,1:47 PM,4:54,SUB: Voskuhl FOR Ruffin,,,,
+0020000265,289,3,12,3,1:47 PM,4:54,,,MISS Henderson Free Throw 2 of 2,,
+0020000265,290,4,0,3,1:47 PM,4:53,Fizer REBOUND (Off:1 Def:4),,,,
+0020000265,291,2,1,3,1:47 PM,4:28,MISS Fizer 24' 3PT Jump Shot,,,,
+0020000265,292,4,0,3,1:47 PM,4:26,,,Miller REBOUND (Off:1 Def:4),,
+0020000265,293,1,5,3,1:47 PM,4:17,,,Miller  Layup (3 PTS),54 - 57,3
+0020000265,294,9,2,3,1:48 PM,4:09,BULLS Timeout: Short (Full 3 Short 1),,,,
+0020000265,295,2,1,3,1:49 PM,3:57,MISS Benjamin 25' 3PT Jump Shot,,,,
+0020000265,296,4,0,3,1:49 PM,3:54,,,Ilgauskas REBOUND (Off:0 Def:2),,
+0020000265,297,6,2,3,1:49 PM,3:49,Voskuhl S.FOUL (P1.PN),,,,
+0020000265,298,3,11,3,1:49 PM,3:49,,,Miller Free Throw 1 of 2 (4 PTS),55 - 57,2
+0020000265,299,8,0,3,1:49 PM,3:49,,,SUB: Langdon FOR Harpring,,
+0020000265,300,3,12,3,1:49 PM,3:49,,,Miller Free Throw 2 of 2 (5 PTS),56 - 57,1
+0020000265,301,6,4,3,1:50 PM,3:39,Voskuhl OFF.Foul (P2),,,,
+0020000265,302,5,5,3,1:50 PM,3:39,Voskuhl Foul Turnover (P1.T12),,,,
+0020000265,303,8,0,3,1:50 PM,3:39,SUB: Crawford FOR El-Amin,,,,
+0020000265,304,2,5,3,1:50 PM,3:22,,,MISS Miller  Layup,,
+0020000265,306,4,0,3,1:50 PM,3:21,,,Miller REBOUND (Off:2 Def:4),,
+0020000265,305,2,4,3,1:50 PM,3:21,,,MISS Miller  Tip Shot,,
+0020000265,307,4,0,3,1:51 PM,3:21,BULLS Rebound,,,,
+0020000265,308,2,1,3,1:51 PM,3:02,MISS Voskuhl 5' Jump Shot,,,,
+0020000265,309,4,0,3,1:51 PM,3:00,,,Weatherspoon REBOUND (Off:1 Def:4),,
+0020000265,310,9,1,3,1:51 PM,2:58,,,Cavaliers Timeout: Regular (Reg.3 Short 1),,
+0020000265,312,1,1,3,1:54 PM,2:37,,,Ilgauskas 9' Jump Shot (6 PTS),58 - 57,-1
+0020000265,313,1,1,3,1:55 PM,2:17,Crawford 16' Jump Shot (4 PTS),,,58 - 59,1
+0020000265,314,1,42,3,1:55 PM,2:09,,,Miller  Driving Layup (7 PTS),60 - 59,-1
+0020000265,315,1,1,3,1:55 PM,1:55,Fizer 17' Jump Shot (12 PTS) (Crawford 1 AST),,,60 - 61,1
+0020000265,316,6,1,3,1:55 PM,1:46,Fizer P.FOUL (P2.PN),,,,
+0020000265,317,8,0,3,1:55 PM,1:46,,,SUB: Gatling FOR Ilgauskas,,
+0020000265,318,8,0,3,1:55 PM,1:46,,,SUB: Traylor FOR Weatherspoon,,
+0020000265,319,3,11,3,1:56 PM,1:46,,,Miller Free Throw 1 of 2 (8 PTS),61 - 61,TIE
+0020000265,320,3,12,3,1:56 PM,1:46,,,Miller Free Throw 2 of 2 (9 PTS),62 - 61,-1
+0020000265,321,2,1,3,1:56 PM,1:27,MISS Fizer 16' Jump Shot,,,,
+0020000265,322,4,0,3,1:56 PM,1:25,Voskuhl REBOUND (Off:1 Def:0),,,,
+0020000265,323,6,2,3,1:57 PM,1:11,,,Gatling S.FOUL (P3.PN),,
+0020000265,324,3,11,3,1:57 PM,1:11,MISS Voskuhl Free Throw 1 of 2,,,,
+0020000265,325,4,1,3,1:57 PM,1:11,BULLS Rebound,,,,
+0020000265,326,3,12,3,1:57 PM,1:11,Voskuhl Free Throw 2 of 2 (1 PTS),,,62 - 62,TIE
+0020000265,327,1,1,3,1:57 PM,1:01,,,Miller 12' Jump Shot (11 PTS),64 - 62,-2
+0020000265,328,6,2,3,1:57 PM,1:01,Voskuhl S.FOUL (P3.PN),,,,
+0020000265,329,3,10,3,1:58 PM,1:01,,,Miller Free Throw 1 of 1 (12 PTS),65 - 62,-3
+0020000265,330,5,1,3,1:58 PM,0:51,Voskuhl Bad Pass Turnover (P2.T13),,,,
+0020000265,331,1,42,3,1:58 PM,0:42,,,Miller  Driving Layup (14 PTS),67 - 62,-5
+0020000265,332,6,4,3,1:59 PM,0:36,Voskuhl OFF.Foul (P4),,,,
+0020000265,333,5,5,3,1:59 PM,0:36,Voskuhl Foul Turnover (P3.T14),,,,
+0020000265,334,1,1,3,1:59 PM,0:26,,,Gatling 17' Jump Shot (12 PTS) (Miller 11 AST),69 - 62,-7
+0020000265,335,6,1,3,1:59 PM,0:06,,,Henderson P.FOUL (P2.PN),,
+0020000265,336,8,0,3,1:59 PM,0:06,SUB: Tarlac FOR Voskuhl,,,,
+0020000265,337,3,11,3,2:00 PM,0:06,Mercer Free Throw 1 of 2 (21 PTS),,,69 - 63,-6
+0020000265,338,3,12,3,2:00 PM,0:06,Mercer Free Throw 2 of 2 (22 PTS),,,69 - 64,-5
+0020000265,339,2,5,3,2:00 PM,0:00,,,MISS Miller  Layup,,
+0020000265,341,4,0,3,2:00 PM,0:00,,,Traylor REBOUND (Off:2 Def:3),,
+0020000265,340,2,4,3,2:00 PM,0:00,,,MISS Traylor  Tip Shot,,
+0020000265,343,4,0,3,2:00 PM,0:00,,,Cavaliers Rebound,,
+0020000265,342,13,0,3,2:00 PM,0:00,,,,69 - 64,-5
+0020000265,345,12,0,4,2:03 PM,12:00,,,,69 - 64,-5
+0020000265,346,1,1,4,2:04 PM,11:48,,,Gatling 19' Jump Shot (14 PTS) (Miller 12 AST),71 - 64,-7
+0020000265,347,5,1,4,2:04 PM,11:34,Crawford Bad Pass Turnover (P1.T15),,Miller STEAL (1 STL),,
+0020000265,348,2,1,4,2:04 PM,11:30,,,MISS Langdon 22' Jump Shot,,
+0020000265,349,4,0,4,2:04 PM,11:28,,,Henderson REBOUND (Off:1 Def:0),,
+0020000265,350,2,1,4,2:04 PM,11:25,Tarlac BLOCK (2 BLK),,MISS Henderson 12' Jump Shot,,
+0020000265,351,4,0,4,2:04 PM,11:21,Tarlac REBOUND (Off:0 Def:3),,,,
+0020000265,352,1,5,4,2:04 PM,11:19,Crawford  Layup (6 PTS) (Tarlac 3 AST),,,71 - 66,-5
+0020000265,353,2,1,4,2:05 PM,11:03,,,MISS Langdon 25' 3PT Jump Shot,,
+0020000265,354,4,0,4,2:05 PM,11:00,Crawford REBOUND (Off:0 Def:1),,,,
+0020000265,355,6,1,4,2:05 PM,10:57,,,Gatling P.FOUL (P4.T1),,
+0020000265,356,2,1,4,2:05 PM,10:41,MISS Crawford 26' 3PT Jump Shot,,,,
+0020000265,357,4,0,4,2:05 PM,10:41,,,Cavaliers Rebound,,
+0020000265,358,1,1,4,2:06 PM,10:27,,,Gatling 24' 3PT Jump Shot (17 PTS) (Langdon 3 AST),74 - 66,-8
+0020000265,359,5,2,4,2:06 PM,10:05,Benjamin Lost Ball Turnover (P1.T16),,Henderson STEAL (2 STL),,
+0020000265,360,5,4,4,2:06 PM,10:01,,,Miller Traveling Turnover (P2.T14),,
+0020000265,361,6,1,4,2:07 PM,9:53,,,Miller P.FOUL (P2.T2),,
+0020000265,362,8,0,4,2:07 PM,9:53,SUB: World Peace FOR Benjamin,,,,
+0020000265,363,2,1,4,2:07 PM,9:40,MISS Tarlac 5' Jump Shot,,Gatling BLOCK (1 BLK),,
+0020000265,364,4,0,4,2:07 PM,9:35,,,Gatling REBOUND (Off:2 Def:2),,
+0020000265,365,1,5,4,2:07 PM,9:31,,,Henderson  Layup (7 PTS) (Miller 13 AST),76 - 66,-10
+0020000265,366,6,1,4,2:08 PM,9:15,,,Gatling P.FOUL (P5.T3),,
+0020000265,367,2,1,4,2:08 PM,9:00,MISS World Peace 21' Jump Shot,,,,
+0020000265,368,4,0,4,2:08 PM,8:58,Tarlac REBOUND (Off:1 Def:3),,,,
+0020000265,369,5,2,4,2:08 PM,8:58,Tarlac Lost Ball Turnover (P1.T17),,,,
+0020000265,370,9,1,4,2:08 PM,8:58,,,,,
+0020000265,372,8,0,4,2:11 PM,8:58,SUB: El-Amin FOR Crawford,,,,
+0020000265,373,2,1,4,2:11 PM,8:45,Tarlac BLOCK (3 BLK),,MISS Miller 7' Jump Shot,,
+0020000265,374,4,0,4,2:11 PM,8:45,,,Cavaliers Rebound,,
+0020000265,375,2,1,4,2:12 PM,8:33,Mercer BLOCK (2 BLK),,MISS Langdon 22' Jump Shot,,
+0020000265,376,4,0,4,2:12 PM,8:30,Fizer REBOUND (Off:1 Def:5),,,,
+0020000265,377,2,1,4,2:12 PM,8:20,MISS Mercer 21' Jump Shot,,,,
+0020000265,378,4,0,4,2:12 PM,8:17,,,Miller REBOUND (Off:2 Def:5),,
+0020000265,379,5,1,4,2:12 PM,8:12,Fizer STEAL (2 STL),,Miller Bad Pass Turnover (P3.T15),,
+0020000265,380,1,5,4,2:12 PM,8:07,Mercer  Layup (24 PTS) (Fizer 3 AST),,,76 - 68,-8
+0020000265,381,2,1,4,2:13 PM,7:49,,,MISS Langdon 25' 3PT Jump Shot,,
+0020000265,382,4,0,4,2:13 PM,7:46,,,Traylor REBOUND (Off:3 Def:3),,
+0020000265,383,2,5,4,2:13 PM,7:42,,,MISS Gatling  Layup,,
+0020000265,385,4,0,4,2:13 PM,7:40,,,Traylor REBOUND (Off:4 Def:3),,
+0020000265,384,2,4,4,2:13 PM,7:40,,,MISS Traylor  Tip Shot,,
+0020000265,386,4,0,4,2:13 PM,7:39,Tarlac REBOUND (Off:1 Def:4),,,,
+0020000265,387,1,1,4,2:13 PM,7:32,Mercer 18' Jump Shot (26 PTS) (El-Amin 8 AST),,,76 - 70,-6
+0020000265,388,8,0,4,2:14 PM,7:13,,,SUB: Harpring FOR Langdon,,
+0020000265,389,1,1,4,2:14 PM,7:11,,,Gatling 12' Jump Shot (19 PTS) (Henderson 2 AST),78 - 70,-8
+0020000265,390,1,44,4,2:14 PM,6:49,Mercer  Reverse Layup (28 PTS),,,78 - 72,-6
+0020000265,391,6,1,4,2:14 PM,6:38,Tarlac P.FOUL (P3.T1),,,,
+0020000265,392,8,0,4,2:14 PM,6:38,,,SUB: Weatherspoon FOR Traylor,,
+0020000265,393,8,0,4,2:15 PM,6:38,SUB: Ruffin FOR Tarlac,,,,
+0020000265,394,2,5,4,2:15 PM,6:26,,,MISS Gatling  Layup,,
+0020000265,396,4,0,4,2:15 PM,6:24,,,Weatherspoon REBOUND (Off:2 Def:4),,
+0020000265,395,1,5,4,2:15 PM,6:24,,,Weatherspoon  Layup (17 PTS),80 - 72,-8
+0020000265,397,6,1,4,2:15 PM,6:04,,,Harpring P.FOUL (P4.T4),,
+0020000265,398,1,5,4,2:16 PM,5:56,World Peace  Layup (14 PTS),,,80 - 74,-6
+0020000265,399,1,1,4,2:16 PM,5:35,,,Weatherspoon 18' Jump Shot (19 PTS) (Miller 14 AST),82 - 74,-8
+0020000265,400,6,2,4,2:17 PM,5:17,,,Weatherspoon S.FOUL (P3.PN),,
+0020000265,401,9,1,4,2:17 PM,5:17,BULLS Timeout: Regular (Full 4 Short 1),,,,
+0020000265,403,3,11,4,2:19 PM,5:17,Mercer Free Throw 1 of 2 (29 PTS),,,82 - 75,-7
+0020000265,404,3,12,4,2:19 PM,5:17,Mercer Free Throw 2 of 2 (30 PTS),,,82 - 76,-6
+0020000265,405,2,1,4,2:20 PM,4:57,,,MISS Gatling 19' Jump Shot,,
+0020000265,406,4,0,4,2:20 PM,4:51,Mercer REBOUND (Off:3 Def:4),,,,
+0020000265,409,6,1,4,2:20 PM,4:42,,,Harpring P.FOUL (P5.PN),,
+0020000265,410,3,11,4,2:21 PM,4:42,World Peace Free Throw 1 of 2 (15 PTS),,,82 - 77,-5
+0020000265,411,3,12,4,2:21 PM,4:42,World Peace Free Throw 2 of 2 (16 PTS),,,82 - 78,-4
+0020000265,412,1,1,4,2:22 PM,4:17,,,Weatherspoon 10' Jump Shot (21 PTS),84 - 78,-6
+0020000265,413,2,1,4,2:22 PM,3:56,MISS El-Amin 20' Jump Shot,,,,
+0020000265,414,4,0,4,2:22 PM,3:54,,,Weatherspoon REBOUND (Off:2 Def:5),,
+0020000265,415,1,1,4,2:22 PM,3:33,,,Miller 18' Jump Shot (16 PTS),86 - 78,-8
+0020000265,416,1,1,4,2:23 PM,3:16,World Peace 9' Jump Shot (18 PTS),,,86 - 80,-6
+0020000265,417,5,1,4,2:23 PM,3:04,World Peace STEAL (3 STL),,Gatling Bad Pass Turnover (P1.T16),,
+0020000265,418,1,5,4,2:23 PM,3:00,World Peace  Layup (20 PTS),,,86 - 82,-4
+0020000265,419,9,1,4,2:23 PM,2:57,,,Cavaliers Timeout: Regular (Reg.4 Short 1),,
+0020000265,420,2,7,4,2:26 PM,2:41,Fizer BLOCK (2 BLK),,MISS Weatherspoon  Dunk,,
+0020000265,421,4,0,4,2:26 PM,2:37,,,Weatherspoon REBOUND (Off:3 Def:5),,
+0020000265,422,2,1,4,2:26 PM,2:35,,,MISS Weatherspoon 6' Jump Shot,,
+0020000265,423,4,0,4,2:26 PM,2:33,World Peace REBOUND (Off:0 Def:1),,,,
+0020000265,424,6,4,4,2:26 PM,2:17,Fizer OFF.Foul (P3),,,,
+0020000265,425,5,5,4,2:26 PM,2:17,Fizer Foul Turnover (P1.T18),,,,
+0020000265,426,5,2,4,2:27 PM,2:03,World Peace STEAL (4 STL),,Weatherspoon Lost Ball Turnover (P1.T17),,
+0020000265,427,2,1,4,2:27 PM,1:43,MISS Mercer 9' Jump Shot,,,,
+0020000265,428,4,0,4,2:27 PM,1:41,Ruffin REBOUND (Off:6 Def:2),,,,
+0020000265,429,2,5,4,2:28 PM,1:27,MISS Mercer  Layup,,,,
+0020000265,430,4,0,4,2:28 PM,1:24,,,Gatling REBOUND (Off:2 Def:3),,
+0020000265,431,2,1,4,2:28 PM,1:03,,,MISS Miller 24' 3PT Jump Shot,,
+0020000265,432,4,0,4,2:28 PM,1:01,,,Harpring REBOUND (Off:1 Def:2),,
+0020000265,433,5,1,4,2:28 PM,1:00,World Peace STEAL (5 STL),,Harpring Bad Pass Turnover (P6.T18),,
+0020000265,434,1,49,4,2:28 PM,0:56,Mercer  Driving Dunk (32 PTS) (El-Amin 9 AST),,,86 - 84,-2
+0020000265,436,6,2,4,2:29 PM,0:35,El-Amin S.FOUL (P2.T2),,,,
+0020000265,437,3,11,4,2:29 PM,0:35,,,Miller Free Throw 1 of 2 (17 PTS),87 - 84,-3
+0020000265,438,3,12,4,2:29 PM,0:35,,,Miller Free Throw 2 of 2 (18 PTS),88 - 84,-4
+0020000265,439,9,1,4,2:30 PM,0:35,BULLS Timeout: Regular (Full 5 Short 1),,,,
+0020000265,440,6,2,4,2:33 PM,0:31,,,Henderson S.FOUL (P3.PN),,
+0020000265,441,3,11,4,2:33 PM,0:31,Mercer Free Throw 1 of 2 (33 PTS),,,88 - 85,-3
+0020000265,442,3,12,4,2:33 PM,0:31,Mercer Free Throw 2 of 2 (34 PTS),,,88 - 86,-2
+0020000265,443,9,2,4,2:33 PM,0:31,,,Cavaliers Timeout: Short (Reg.4 Short 2),,
+0020000265,444,8,0,4,2:34 PM,0:31,,,SUB: Langdon FOR Harpring,,
+0020000265,445,2,5,4,2:35 PM,0:18,Fizer BLOCK (3 BLK),,MISS Weatherspoon  Layup,,
+0020000265,446,4,0,4,2:35 PM,0:18,,,Cavaliers Rebound,,
+0020000265,447,9,1,4,2:35 PM,0:18,,,Cavaliers Timeout: Regular (Reg.5 Short 2),,
+0020000265,448,9,1,4,2:37 PM,0:18,,,Cavaliers Timeout: Regular (Reg.6 Short 2),,
+0020000265,449,1,5,4,2:39 PM,0:16,,,Weatherspoon  Layup (23 PTS) (Henderson 3 AST),90 - 86,-4
+0020000265,450,9,1,4,2:39 PM,0:16,BULLS Timeout: Regular (Full 6 Short 1),,,,
+0020000265,451,8,0,4,2:41 PM,0:16,,,SUB: Harpring FOR Langdon,,
+0020000265,452,8,0,4,2:41 PM,0:16,SUB: Tarlac FOR Ruffin,,,,
+0020000265,453,2,5,4,2:42 PM,0:10,MISS El-Amin  Layup,,,,
+0020000265,455,4,0,4,2:42 PM,0:09,Fizer REBOUND (Off:2 Def:5),,,,
+0020000265,454,2,5,4,2:42 PM,0:09,MISS Fizer  Layup,,,,
+0020000265,457,4,0,4,2:42 PM,0:08,Fizer REBOUND (Off:3 Def:5),,,,
+0020000265,456,1,5,4,2:42 PM,0:08,Fizer  Layup (14 PTS),,,90 - 88,-2
+0020000265,458,6,1,4,2:42 PM,0:08,El-Amin P.FOUL (P3.PN),,,,
+0020000265,459,3,11,4,2:43 PM,0:08,,,Miller Free Throw 1 of 2 (19 PTS),91 - 88,-3
+0020000265,460,8,0,4,2:43 PM,0:08,SUB: Benjamin FOR Fizer,,,,
+0020000265,461,8,0,4,2:43 PM,0:08,,,SUB: Langdon FOR Gatling,,
+0020000265,462,3,12,4,2:43 PM,0:08,,,Miller Free Throw 2 of 2 (20 PTS),92 - 88,-4
+0020000265,463,5,1,4,2:43 PM,0:04,El-Amin Bad Pass Turnover (P3.T19),,Langdon STEAL (1 STL),,
+0020000265,464,13,0,4,2:44 PM,0:00,,,,92 - 88,-4

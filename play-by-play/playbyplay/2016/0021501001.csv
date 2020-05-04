@@ -1,0 +1,420 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021501001,0,12,0,1,8:40 PM,12:00,,,,,
+0021501001,1,10,0,1,8:40 PM,12:00,Jump Ball Duncan vs. Jordan: Tip to Paul,,,,
+0021501001,2,1,52,1,8:41 PM,11:41,,,Jordan  Alley Oop Dunk (2 PTS) (Paul 1 AST),2 - 0,-2
+0021501001,3,2,1,1,8:41 PM,11:22,MISS Aldridge  3PT Jump Shot,,,,
+0021501001,4,4,0,1,8:41 PM,11:21,,,Redick REBOUND (Off:0 Def:1),,
+0021501001,5,1,63,1,8:41 PM,11:06,,,Paul 9' Fadeaway Jumper (2 PTS),4 - 0,-4
+0021501001,6,2,1,1,8:42 PM,10:52,MISS Aldridge 19' Jump Shot,,,,
+0021501001,7,4,0,1,8:42 PM,10:51,,,Paul REBOUND (Off:0 Def:1),,
+0021501001,8,2,1,1,8:42 PM,10:39,,,MISS Redick 18' Jump Shot,,
+0021501001,9,4,0,1,8:42 PM,10:39,Parker REBOUND (Off:0 Def:1),,,,
+0021501001,10,2,1,1,8:42 PM,10:23,MISS Leonard 24' 3PT Jump Shot,,,,
+0021501001,11,4,0,1,8:42 PM,10:22,,,Green REBOUND (Off:0 Def:1),,
+0021501001,12,2,1,1,8:42 PM,10:08,,,MISS Redick 26' 3PT Jump Shot,,
+0021501001,13,4,0,1,8:42 PM,10:07,Aldridge REBOUND (Off:0 Def:1),,,,
+0021501001,14,1,44,1,8:43 PM,9:56,Parker 1' Reverse Layup (2 PTS) (Leonard 1 AST),,,4 - 2,-2
+0021501001,15,2,63,1,8:43 PM,9:40,,,MISS Redick 10' Fadeaway Jumper,,
+0021501001,16,4,0,1,8:43 PM,9:39,Duncan REBOUND (Off:0 Def:1),,,,
+0021501001,17,6,2,1,8:43 PM,9:32,,,Jordan S.FOUL (P1.T1) (M.Lindsay),,
+0021501001,18,3,11,1,8:43 PM,9:32,Aldridge Free Throw 1 of 2 (1 PTS),,,4 - 3,-1
+0021501001,20,3,12,1,8:43 PM,9:32,Aldridge Free Throw 2 of 2 (2 PTS),,,4 - 4,TIE
+0021501001,23,1,108,1,8:44 PM,9:13,,,Jordan  Cutting Dunk Shot (4 PTS) (Redick 1 AST),6 - 4,-2
+0021501001,24,1,79,1,8:45 PM,8:56,Leonard 8' Pullup Jump Shot (2 PTS) (Parker 1 AST),,,6 - 6,TIE
+0021501001,25,1,1,1,8:45 PM,8:47,,,Paul 25' 3PT Jump Shot (5 PTS),9 - 6,-3
+0021501001,26,6,1,1,8:45 PM,8:41,,,Green P.FOUL (P1.T2) (Z.Zarba),,
+0021501001,27,2,78,1,8:46 PM,8:28,MISS Aldridge 7' Floating Jump Shot,,,,
+0021501001,28,4,0,1,8:46 PM,8:26,,,Jordan REBOUND (Off:0 Def:1),,
+0021501001,29,2,1,1,8:46 PM,8:10,,,MISS Green 26' 3PT Jump Shot,,
+0021501001,30,4,0,1,8:46 PM,8:09,SPURS Rebound,,,,
+0021501001,31,2,1,1,8:46 PM,7:53,MISS Duncan 18' Jump Shot,,,,
+0021501001,32,4,0,1,8:46 PM,7:52,,,Mbah a Moute REBOUND (Off:0 Def:1),,
+0021501001,33,6,17,1,8:47 PM,7:39,SPURS T.Foul (Def. 3 Sec Duncan ) (M.Lindsay),,,,
+0021501001,34,3,16,1,8:47 PM,7:39,,,Paul Free Throw Technical (6 PTS),10 - 6,-4
+0021501001,36,2,1,1,8:47 PM,7:32,,,MISS Paul 12' Jump Shot,,
+0021501001,37,4,0,1,8:47 PM,7:31,,,Jordan REBOUND (Off:1 Def:1),,
+0021501001,38,5,1,1,8:48 PM,7:28,Green STEAL (1 STL),,Jordan Bad Pass Turnover (P1.T1),,
+0021501001,39,1,5,1,8:48 PM,7:12,Aldridge 3' Layup (4 PTS),,,10 - 8,-2
+0021501001,40,6,1,1,8:48 PM,7:01,Green P.FOUL (P1.T1) (Z.Zarba),,,,
+0021501001,41,6,2,1,8:49 PM,6:54,Green S.FOUL (P2.T2) (N.Buchert),,,,
+0021501001,42,3,11,1,8:49 PM,6:54,,,Jordan Free Throw 1 of 2 (5 PTS),11 - 8,-3
+0021501001,44,8,0,1,8:49 PM,6:54,SUB: Ginobili FOR Green,,,,
+0021501001,45,3,12,1,8:49 PM,6:54,,,Jordan Free Throw 2 of 2 (6 PTS),12 - 8,-4
+0021501001,47,1,75,1,8:50 PM,6:31,Leonard 2' Driving Finger Roll Layup (4 PTS),,,12 - 10,-2
+0021501001,48,2,5,1,8:50 PM,6:23,,,MISS Mbah a Moute 1' Layup,,
+0021501001,49,4,0,1,8:50 PM,6:21,Aldridge REBOUND (Off:0 Def:2),,,,
+0021501001,50,2,1,1,8:50 PM,6:11,MISS Aldridge 13' Jump Shot,,,,
+0021501001,51,4,0,1,8:50 PM,6:10,Duncan REBOUND (Off:1 Def:1),,,,
+0021501001,52,2,1,1,8:50 PM,6:05,MISS Leonard 25' 3PT Jump Shot,,,,
+0021501001,53,4,0,1,8:50 PM,6:04,Duncan REBOUND (Off:2 Def:1),,,,
+0021501001,54,5,2,1,8:50 PM,5:59,Parker Lost Ball Turnover (P1.T1),,Paul STEAL (1 STL),,
+0021501001,55,2,1,1,8:51 PM,5:41,,,MISS Green 20' Jump Shot,,
+0021501001,56,4,0,1,8:51 PM,5:40,Leonard REBOUND (Off:0 Def:1),,,,
+0021501001,57,9,1,1,8:51 PM,5:33,SPURS Timeout: Regular (Full 1 Short 0),,,,
+0021501001,59,8,0,1,8:53 PM,5:33,SUB: West FOR Duncan,,,,
+0021501001,60,1,80,1,8:53 PM,5:25,Ginobili 16' Step Back Jump Shot (2 PTS) (Parker 2 AST),,,12 - 12,TIE
+0021501001,61,2,47,1,8:54 PM,4:59,,,MISS Green 11' Turnaround Jump Shot,,
+0021501001,62,4,0,1,8:54 PM,4:58,Leonard REBOUND (Off:0 Def:2),,,,
+0021501001,63,2,1,1,8:54 PM,4:52,MISS Ginobili 24' 3PT Jump Shot,,,,
+0021501001,64,4,0,1,8:54 PM,4:51,,,Paul REBOUND (Off:0 Def:2),,
+0021501001,65,2,1,1,8:54 PM,4:40,,,MISS Paul 23' Jump Shot,,
+0021501001,66,4,0,1,8:54 PM,4:39,West REBOUND (Off:0 Def:1),,,,
+0021501001,67,2,1,1,8:54 PM,4:28,MISS Parker 18' Jump Shot,,,,
+0021501001,68,4,0,1,8:54 PM,4:27,,,Jordan REBOUND (Off:1 Def:2),,
+0021501001,69,2,1,1,8:55 PM,4:12,West BLOCK (1 BLK),,MISS Jordan 4' Jump Shot,,
+0021501001,70,4,0,1,8:55 PM,4:10,Leonard REBOUND (Off:0 Def:3),,,,
+0021501001,71,1,1,1,8:55 PM,3:57,Aldridge 6' Jump Shot (6 PTS),,,12 - 14,2
+0021501001,72,1,1,1,8:55 PM,3:38,,,Redick 24' 3PT Jump Shot (3 PTS) (Paul 2 AST),15 - 14,-1
+0021501001,73,1,1,1,8:55 PM,3:24,Aldridge 18' Jump Shot (8 PTS) (Ginobili 1 AST),,,15 - 16,1
+0021501001,74,2,57,1,8:56 PM,3:03,,,MISS Green 7' Driving Hook Shot,,
+0021501001,75,4,0,1,8:56 PM,3:02,Aldridge REBOUND (Off:0 Def:3),,,,
+0021501001,76,2,79,1,8:56 PM,2:50,MISS Aldridge 8' Pullup Jump Shot,,,,
+0021501001,77,4,0,1,8:56 PM,2:49,,,Jordan REBOUND (Off:1 Def:3),,
+0021501001,78,9,1,1,8:56 PM,2:43,,,Clippers Timeout: Regular (Reg.1 Short 0),,
+0021501001,80,8,0,1,8:58 PM,2:43,SUB: Mills FOR Parker,,,,
+0021501001,81,8,0,1,8:58 PM,2:43,,,SUB: Crawford FOR Redick,,
+0021501001,82,8,0,1,8:58 PM,2:43,,,SUB: W. Johnson FOR Mbah a Moute,,
+0021501001,83,8,0,1,8:59 PM,2:43,SUB: Anderson FOR Aldridge,,,,
+0021501001,84,6,1,1,8:59 PM,2:38,Mills P.FOUL (P1.T3) (M.Lindsay),,,,
+0021501001,85,8,0,1,8:59 PM,2:38,SUB: Martin FOR Leonard,,,,
+0021501001,86,8,0,1,8:59 PM,2:38,,,SUB: Rivers FOR Green,,
+0021501001,87,2,1,1,8:59 PM,2:27,,,MISS Paul 25' 3PT Jump Shot,,
+0021501001,88,4,0,1,8:59 PM,2:26,Ginobili REBOUND (Off:0 Def:1),,,,
+0021501001,89,6,2,1,9:00 PM,2:16,,,Rivers S.FOUL (P1.T3) (Z.Zarba),,
+0021501001,90,3,11,1,9:00 PM,2:16,Martin Free Throw 1 of 2 (1 PTS),,,15 - 17,2
+0021501001,92,3,12,1,9:00 PM,2:16,Martin Free Throw 2 of 2 (2 PTS),,,15 - 18,3
+0021501001,94,6,1,1,9:00 PM,2:07,Mills P.FOUL (P2.T4) (N.Buchert),,,,
+0021501001,95,1,1,1,9:01 PM,1:58,,,Paul 15' Jump Shot (8 PTS),17 - 18,1
+0021501001,96,2,1,1,9:01 PM,1:39,MISS Martin 10' Jump Shot,,,,
+0021501001,97,4,0,1,9:01 PM,1:38,,,Jordan REBOUND (Off:1 Def:4),,
+0021501001,98,1,42,1,9:01 PM,1:28,,,Paul 4' Driving Layup (10 PTS),19 - 18,-1
+0021501001,99,9,2,1,9:01 PM,1:21,SPURS Timeout: Short (Full 1 Short 1),,,,
+0021501001,101,8,0,1,9:02 PM,1:21,,,SUB: Prigioni FOR Paul,,
+0021501001,102,2,1,1,9:03 PM,1:11,MISS West 17' Jump Shot,,,,
+0021501001,103,4,0,1,9:03 PM,1:10,,,Clippers Rebound,,
+0021501001,104,2,1,1,9:03 PM,0:57,,,MISS Crawford 10' Jump Shot,,
+0021501001,105,4,0,1,9:03 PM,0:56,,,Clippers Rebound,,
+0021501001,106,6,1,1,9:04 PM,0:44,Ginobili P.FOUL (P1.PN) (N.Buchert),,,,
+0021501001,107,3,11,1,9:04 PM,0:44,,,Crawford Free Throw 1 of 2 (1 PTS),20 - 18,-2
+0021501001,109,8,0,1,9:04 PM,0:44,,,SUB: Aldrich FOR Jordan,,
+0021501001,110,3,12,1,9:04 PM,0:44,,,Crawford Free Throw 2 of 2 (2 PTS),21 - 18,-3
+0021501001,112,6,1,1,9:05 PM,0:37,,,Crawford P.FOUL (P1.T4) (N.Buchert),,
+0021501001,113,6,2,1,9:05 PM,0:35,,,Aldrich S.FOUL (P1.PN) (Z.Zarba),,
+0021501001,114,3,11,1,9:05 PM,0:35,MISS Ginobili Free Throw 1 of 2,,,,
+0021501001,115,4,1,1,9:05 PM,0:35,SPURS Rebound,,,,
+0021501001,116,3,12,1,9:05 PM,0:35,Ginobili Free Throw 2 of 2 (3 PTS),,,21 - 19,-2
+0021501001,118,2,1,1,9:06 PM,0:25,,,MISS Crawford 25' 3PT Jump Shot,,
+0021501001,119,4,0,1,9:06 PM,0:24,Anderson REBOUND (Off:0 Def:1),,,,
+0021501001,120,2,80,1,9:06 PM,0:01,MISS Ginobili 24' 3PT Step Back Jump Shot,,,,
+0021501001,121,4,0,1,9:06 PM,0:00,Anderson REBOUND (Off:1 Def:1),,,,
+0021501001,122,2,1,1,9:06 PM,0:00,MISS Anderson 15' Jump Shot,,,,
+0021501001,123,4,0,1,9:06 PM,0:00,SPURS Rebound,,,,
+0021501001,124,13,0,1,9:06 PM,0:00,,,,21 - 19,-2
+0021501001,126,12,0,2,9:09 PM,12:00,,,,21 - 19,-2
+0021501001,127,5,1,2,9:09 PM,11:48,Ginobili Bad Pass Turnover (P1.T2),,Aldrich STEAL (1 STL),,
+0021501001,128,6,2,2,9:09 PM,11:43,Anderson S.FOUL (P1.T1) (Z.Zarba),,,,
+0021501001,129,3,11,2,9:09 PM,11:43,,,MISS Rivers Free Throw 1 of 2,,
+0021501001,130,4,1,2,9:09 PM,11:43,,,Clippers Rebound,,
+0021501001,131,8,0,2,9:10 PM,11:43,SUB: Green FOR Ginobili,,,,
+0021501001,132,3,12,2,9:10 PM,11:43,,,Rivers Free Throw 2 of 2 (1 PTS),22 - 19,-3
+0021501001,134,5,39,2,9:10 PM,11:26,Green Step Out of Bounds Turnover (P1.T3),,,,
+0021501001,135,2,1,2,9:11 PM,11:15,,,MISS Rivers 11' Jump Shot,,
+0021501001,136,4,0,2,9:11 PM,11:14,Martin REBOUND (Off:0 Def:1),,,,
+0021501001,137,1,5,2,9:11 PM,11:09,Martin 1' Layup (4 PTS),,,22 - 21,-1
+0021501001,138,2,1,2,9:11 PM,10:43,,,MISS Aldrich 14' Jump Shot,,
+0021501001,139,4,0,2,9:11 PM,10:43,,,Clippers Rebound,,
+0021501001,140,5,11,2,9:11 PM,10:43,,,Clippers Turnover: Shot Clock (T#2),,
+0021501001,141,1,79,2,9:12 PM,10:34,Mills 18' Pullup Jump Shot (2 PTS),,,22 - 23,1
+0021501001,142,2,79,2,9:12 PM,10:17,,,MISS Crawford 19' Pullup Jump Shot,,
+0021501001,143,4,0,2,9:12 PM,10:16,Anderson REBOUND (Off:1 Def:2),,,,
+0021501001,144,2,1,2,9:12 PM,10:10,MISS Martin 25' 3PT Jump Shot,,,,
+0021501001,145,4,0,2,9:12 PM,10:09,West REBOUND (Off:1 Def:1),,,,
+0021501001,146,1,1,2,9:12 PM,10:01,Green  3PT Jump Shot (3 PTS) (West 1 AST),,,22 - 26,4
+0021501001,147,5,1,2,9:13 PM,9:45,,,Rivers Bad Pass Turnover (P1.T3),,
+0021501001,148,1,1,2,9:13 PM,9:26,Mills 25' 3PT Jump Shot (5 PTS),,,22 - 29,7
+0021501001,149,9,1,2,9:13 PM,9:18,,,Clippers Timeout: Regular (Reg.2 Short 0),,
+0021501001,151,8,0,2,9:15 PM,9:18,SUB: Duncan FOR West,,,,
+0021501001,152,8,0,2,9:15 PM,9:18,SUB: Leonard FOR Martin,,,,
+0021501001,153,2,75,2,9:16 PM,9:03,Anderson BLOCK (1 BLK),,MISS Crawford 5' Driving Finger Roll Layup,,
+0021501001,154,4,0,2,9:16 PM,9:01,Mills REBOUND (Off:0 Def:1),,,,
+0021501001,155,1,5,2,9:16 PM,8:51,Duncan 2' Layup (2 PTS) (Leonard 2 AST),,,22 - 31,9
+0021501001,156,2,1,2,9:16 PM,8:37,Anderson BLOCK (2 BLK),,MISS Prigioni 7' Jump Shot,,
+0021501001,157,4,0,2,9:16 PM,8:37,,,Clippers Rebound,,
+0021501001,158,8,0,2,9:16 PM,8:37,,,SUB: Paul FOR Prigioni,,
+0021501001,159,8,0,2,9:17 PM,8:37,,,SUB: Jordan FOR Aldrich,,
+0021501001,160,5,1,2,9:17 PM,8:32,,,Jordan Bad Pass Turnover (P2.T4),,
+0021501001,161,5,2,2,9:17 PM,8:19,Green Lost Ball Turnover (P2.T4),,Paul STEAL (2 STL),,
+0021501001,163,1,1,2,9:18 PM,7:59,,,Paul 12' Jump Shot (12 PTS),24 - 31,7
+0021501001,164,2,1,2,9:18 PM,7:43,MISS Anderson 15' Jump Shot,,,,
+0021501001,165,4,0,2,9:18 PM,7:42,,,Paul REBOUND (Off:0 Def:3),,
+0021501001,166,5,1,2,9:18 PM,7:40,,,Paul Bad Pass Turnover (P1.T5),,
+0021501001,167,8,0,2,9:18 PM,7:40,SUB: Parker FOR Mills,,,,
+0021501001,168,1,44,2,9:19 PM,7:20,Leonard 3' Reverse Layup (6 PTS),,,24 - 33,9
+0021501001,169,6,1,2,9:19 PM,7:06,Anderson P.FOUL (P2.T2) (M.Lindsay),,,,
+0021501001,170,8,0,2,9:19 PM,7:06,,,SUB: Green FOR Crawford,,
+0021501001,171,8,0,2,9:19 PM,7:06,,,SUB: Mbah a Moute FOR W. Johnson,,
+0021501001,172,8,0,2,9:19 PM,7:06,SUB: Aldridge FOR Anderson,,,,
+0021501001,174,8,0,2,9:19 PM,7:06,,,SUB: Redick FOR Rivers,,
+0021501001,173,1,47,2,9:19 PM,6:49,,,Green 17' Turnaround Jump Shot (2 PTS),26 - 33,7
+0021501001,175,1,1,2,9:20 PM,6:24,Leonard 12' Jump Shot (8 PTS),,,26 - 35,9
+0021501001,176,1,1,2,9:20 PM,6:11,,,Paul 14' Jump Shot (14 PTS),28 - 35,7
+0021501001,177,2,1,2,9:20 PM,5:51,MISS Parker 6' Jump Shot,,,,
+0021501001,179,4,0,2,9:20 PM,5:50,Duncan REBOUND (Off:3 Def:1),,,,
+0021501001,178,1,97,2,9:20 PM,5:50,Duncan  Tip Layup Shot (4 PTS),,,28 - 37,9
+0021501001,180,1,1,2,9:21 PM,5:32,,,Green  3PT Jump Shot (5 PTS) (Paul 3 AST),31 - 37,6
+0021501001,181,9,1,2,9:21 PM,5:32,SPURS Timeout: Regular (Full 2 Short 1),,,,
+0021501001,184,2,47,2,9:24 PM,5:09,MISS Leonard 15' Turnaround Jump Shot,,,,
+0021501001,185,4,0,2,9:24 PM,5:08,,,Jordan REBOUND (Off:1 Def:5),,
+0021501001,186,5,1,2,9:24 PM,4:58,Aldridge STEAL (1 STL),,Jordan Bad Pass Turnover (P3.T6),,
+0021501001,187,1,101,2,9:24 PM,4:51,Leonard 13' Driving Floating Jump Shot (10 PTS),,,31 - 39,8
+0021501001,188,6,2,2,9:24 PM,4:51,,,Mbah a Moute S.FOUL (P1.T1) (M.Lindsay),,
+0021501001,189,3,10,2,9:24 PM,4:51,Leonard Free Throw 1 of 1 (11 PTS),,,31 - 40,9
+0021501001,191,2,1,2,9:25 PM,4:35,,,MISS Green 25' 3PT Jump Shot,,
+0021501001,192,4,0,2,9:25 PM,4:34,Duncan REBOUND (Off:3 Def:2),,,,
+0021501001,193,2,1,2,9:25 PM,4:20,MISS Parker  3PT Jump Shot,,,,
+0021501001,194,4,0,2,9:25 PM,4:19,Aldridge REBOUND (Off:1 Def:3),,,,
+0021501001,195,1,43,2,9:25 PM,4:11,Aldridge 3' Alley Oop Layup (10 PTS) (Duncan 1 AST),,,31 - 42,11
+0021501001,196,1,78,2,9:26 PM,3:51,,,Redick 6' Floating Jump Shot (5 PTS) (Paul 4 AST),33 - 42,9
+0021501001,197,6,17,2,9:26 PM,3:37,,,Clippers T.Foul (Def. 3 Sec Mbah a Moute ) (N.Buchert),,
+0021501001,198,3,16,2,9:26 PM,3:37,Leonard Free Throw Technical (12 PTS),,,33 - 43,10
+0021501001,200,6,1,2,9:27 PM,3:28,,,Mbah a Moute P.FOUL (P2.T2) (Z.Zarba),,
+0021501001,201,1,1,2,9:27 PM,3:19,Aldridge 9' Jump Shot (12 PTS) (Leonard 3 AST),,,33 - 45,12
+0021501001,202,1,58,2,9:27 PM,3:08,,,Jordan 5' Turnaround Hook Shot (8 PTS) (Paul 5 AST),35 - 45,10
+0021501001,203,6,2,2,9:28 PM,2:49,,,Mbah a Moute S.FOUL (P3.T3) (N.Buchert),,
+0021501001,204,9,4,2,9:28 PM,2:49,,,,,
+0021501001,211,8,0,2,9:30 PM,2:49,SUB: Mills FOR Green,,,,
+0021501001,206,8,0,2,9:30 PM,2:49,,,SUB: Aldrich FOR Mbah a Moute,,
+0021501001,207,3,11,2,9:30 PM,2:49,MISS Aldridge Free Throw 1 of 2,,,,
+0021501001,208,4,1,2,9:30 PM,2:49,SPURS Rebound,,,,
+0021501001,209,3,12,2,9:31 PM,2:49,Aldridge Free Throw 2 of 2 (13 PTS),,,35 - 46,11
+0021501001,212,6,2,2,9:31 PM,2:34,Duncan S.FOUL (P1.T3) (M.Lindsay),,,,
+0021501001,213,3,11,2,9:31 PM,2:34,,,MISS Jordan Free Throw 1 of 2,,
+0021501001,215,4,1,2,9:31 PM,2:34,,,Clippers Rebound,,
+0021501001,216,3,12,2,9:32 PM,2:34,,,MISS Jordan Free Throw 2 of 2,,
+0021501001,218,4,0,2,9:32 PM,2:33,Aldridge REBOUND (Off:1 Def:4),,,,
+0021501001,220,2,1,2,9:32 PM,2:14,MISS Aldridge 16' Jump Shot,,,,
+0021501001,221,4,0,2,9:32 PM,2:13,,,Jordan REBOUND (Off:1 Def:6),,
+0021501001,222,1,1,2,9:33 PM,2:02,,,Paul 14' Jump Shot (16 PTS),37 - 46,9
+0021501001,223,2,1,2,9:33 PM,1:37,MISS Mills 24' 3PT Jump Shot,,,,
+0021501001,224,4,0,2,9:33 PM,1:36,,,Aldrich REBOUND (Off:0 Def:1),,
+0021501001,225,6,1,2,9:33 PM,1:29,Parker P.FOUL (P1.T4) (N.Buchert),,,,
+0021501001,226,8,0,2,9:33 PM,1:29,SUB: West FOR Duncan,,,,
+0021501001,227,1,1,2,9:34 PM,1:17,,,Paul 17' Jump Shot (18 PTS),39 - 46,7
+0021501001,228,2,1,2,9:34 PM,0:58,MISS Aldridge 15' Jump Shot,,,,
+0021501001,229,4,0,2,9:34 PM,0:57,,,Aldrich REBOUND (Off:0 Def:2),,
+0021501001,230,1,5,2,9:34 PM,0:44,,,Jordan 3' Layup (10 PTS) (Paul 6 AST),41 - 46,5
+0021501001,231,1,75,2,9:35 PM,0:24,Leonard 3' Driving Finger Roll Layup (14 PTS) (Mills 1 AST),,,41 - 48,7
+0021501001,232,9,2,2,9:35 PM,0:18,,,Clippers Timeout: Short (Reg.2 Short 1),,
+0021501001,234,8,0,2,9:36 PM,0:18,,,SUB: Rivers FOR Jordan,,
+0021501001,235,8,0,2,9:36 PM,0:18,,,SUB: Crawford FOR Aldrich,,
+0021501001,236,8,0,2,9:36 PM,0:18,SUB: Ginobili FOR West,,,,
+0021501001,237,1,1,2,9:37 PM,0:00,,,Rivers 25' 3PT Jump Shot (4 PTS) (Paul 7 AST),44 - 48,4
+0021501001,238,13,0,2,9:37 PM,0:00,,,,44 - 48,4
+0021501001,240,12,0,3,9:52 PM,12:00,,,,44 - 48,4
+0021501001,241,2,1,3,9:52 PM,11:45,MISS Leonard 21' Jump Shot,,,,
+0021501001,242,4,0,3,9:52 PM,11:45,,,Clippers Rebound,,
+0021501001,243,2,78,3,9:53 PM,11:31,,,MISS Redick 8' Floating Jump Shot,,
+0021501001,244,4,0,3,9:53 PM,11:30,Parker REBOUND (Off:0 Def:2),,,,
+0021501001,245,1,78,3,9:53 PM,11:19,Aldridge 8' Floating Jump Shot (15 PTS) (Parker 3 AST),,,44 - 50,6
+0021501001,246,2,1,3,9:53 PM,11:00,,,MISS Green 25' 3PT Jump Shot,,
+0021501001,247,4,0,3,9:53 PM,10:59,Aldridge REBOUND (Off:1 Def:5),,,,
+0021501001,248,2,1,3,9:53 PM,10:49,MISS Leonard 8' Jump Shot,,,,
+0021501001,249,4,0,3,9:53 PM,10:48,,,Paul REBOUND (Off:0 Def:4),,
+0021501001,250,6,2,3,9:54 PM,10:42,Leonard S.FOUL (P1.T1) (M.Lindsay),,,,
+0021501001,251,3,11,3,9:54 PM,10:42,,,MISS Mbah a Moute Free Throw 1 of 2,,
+0021501001,252,4,1,3,9:54 PM,10:42,,,Clippers Rebound,,
+0021501001,253,3,12,3,9:54 PM,10:42,,,MISS Mbah a Moute Free Throw 2 of 2,,
+0021501001,255,4,0,3,9:54 PM,10:41,Duncan REBOUND (Off:3 Def:3),,,,
+0021501001,256,6,1,3,9:54 PM,10:33,,,Redick P.FOUL (P1.T1) (N.Buchert),,
+0021501001,257,2,85,3,9:55 PM,10:21,MISS Aldridge 18' Turnaround Bank Shot,,,,
+0021501001,258,4,0,3,9:55 PM,10:21,,,Jordan REBOUND (Off:1 Def:7),,
+0021501001,259,5,1,3,9:55 PM,10:09,Leonard STEAL (1 STL),,Paul Bad Pass Turnover (P2.T7),,
+0021501001,260,1,1,3,9:55 PM,9:59,Green 25' 3PT Jump Shot (6 PTS) (Parker 4 AST),,,44 - 53,9
+0021501001,261,6,2,3,9:55 PM,9:46,Aldridge S.FOUL (P1.T2) (M.Lindsay),,,,
+0021501001,262,3,11,3,9:56 PM,9:46,,,MISS Mbah a Moute Free Throw 1 of 2,,
+0021501001,263,4,1,3,9:56 PM,9:46,,,Clippers Rebound,,
+0021501001,264,3,12,3,9:56 PM,9:46,,,MISS Mbah a Moute Free Throw 2 of 2,,
+0021501001,266,4,0,3,9:56 PM,9:44,Leonard REBOUND (Off:0 Def:4),,,,
+0021501001,267,2,1,3,9:56 PM,9:20,MISS Green 27' 3PT Jump Shot,,,,
+0021501001,268,4,0,3,9:56 PM,9:19,,,Jordan REBOUND (Off:1 Def:8),,
+0021501001,269,6,2,3,9:56 PM,9:14,Parker S.FOUL (P2.T3) (Z.Zarba),,,,
+0021501001,270,3,11,3,9:57 PM,9:14,,,Redick Free Throw 1 of 2 (6 PTS),45 - 53,8
+0021501001,272,3,12,3,9:57 PM,9:14,,,Redick Free Throw 2 of 2 (7 PTS),46 - 53,7
+0021501001,274,2,1,3,9:57 PM,8:56,MISS Leonard 24' 3PT Jump Shot,,Green BLOCK (1 BLK),,
+0021501001,275,4,0,3,9:57 PM,8:56,SPURS Rebound,,,,
+0021501001,276,5,45,3,9:58 PM,8:56,Parker Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,,
+0021501001,277,1,1,3,9:58 PM,8:39,,,Paul 15' Jump Shot (20 PTS),48 - 53,5
+0021501001,278,9,1,3,9:58 PM,8:39,SPURS Timeout: Regular (Full 3 Short 1),,,,
+0021501001,280,6,26,3,10:01 PM,8:17,Leonard Offensive Charge Foul (P2.T4) (N.Buchert),,,,
+0021501001,281,5,5,3,10:01 PM,8:17,Leonard Foul Turnover (P1.T6),,,,
+0021501001,282,2,1,3,10:02 PM,7:53,,,MISS Paul 20' Jump Shot,,
+0021501001,283,4,0,3,10:02 PM,7:53,,,Clippers Rebound,,
+0021501001,284,5,11,3,10:02 PM,7:53,,,Clippers Turnover: Shot Clock (T#8),,
+0021501001,285,2,1,3,10:02 PM,7:39,MISS Parker 19' Jump Shot,,,,
+0021501001,286,4,0,3,10:02 PM,7:38,,,Jordan REBOUND (Off:1 Def:9),,
+0021501001,287,1,42,3,10:02 PM,7:27,,,Redick 1' Driving Layup (9 PTS),50 - 53,3
+0021501001,288,6,1,3,10:03 PM,7:12,,,Green P.FOUL (P2.T2) (Z.Zarba),,
+0021501001,289,2,1,3,10:03 PM,7:00,MISS Duncan 4' Jump Shot,,Mbah a Moute BLOCK (1 BLK),,
+0021501001,290,4,0,3,10:03 PM,7:00,,,Jordan REBOUND (Off:1 Def:10),,
+0021501001,291,6,1,3,10:03 PM,7:00,Duncan P.FOUL (P2.PN) (N.Buchert),,,,
+0021501001,292,6,2,3,10:04 PM,6:46,Green S.FOUL (P3.PN) (Z.Zarba),,,,
+0021501001,293,3,11,3,10:04 PM,6:46,,,Green Free Throw 1 of 2 (6 PTS),51 - 53,2
+0021501001,295,3,12,3,10:04 PM,6:46,,,Green Free Throw 2 of 2 (7 PTS),52 - 53,1
+0021501001,297,2,71,3,10:05 PM,6:29,MISS Aldridge  Finger Roll Layup,,,,
+0021501001,298,4,0,3,10:05 PM,6:28,Duncan REBOUND (Off:4 Def:3),,,,
+0021501001,299,1,97,3,10:05 PM,6:28,Duncan 1' Tip Layup Shot (6 PTS),,,52 - 55,3
+0021501001,301,8,0,3,10:05 PM,6:06,SUB: Mills FOR Parker,,,,
+0021501001,302,8,0,3,10:05 PM,6:06,SUB: Ginobili FOR Green,,,,
+0021501001,303,5,1,3,10:06 PM,6:05,Leonard STEAL (2 STL),,Paul Bad Pass Turnover (P3.T9),,
+0021501001,304,1,1,3,10:06 PM,5:44,Ginobili 24' 3PT Jump Shot (6 PTS) (Duncan 2 AST),,,52 - 58,6
+0021501001,305,9,1,3,10:06 PM,5:44,,,Clippers Timeout: Regular (Reg.3 Short 1),,
+0021501001,307,18,0,3,10:06 PM,5:44,,,,,
+0021501001,308,1,79,3,10:09 PM,5:27,,,Redick 21' Pullup Jump Shot (11 PTS),54 - 58,4
+0021501001,309,1,79,3,10:09 PM,5:09,Leonard 10' Pullup Jump Shot (16 PTS) (Aldridge 1 AST),,,54 - 60,6
+0021501001,310,2,1,3,10:10 PM,4:42,,,MISS Paul  3PT Jump Shot,,
+0021501001,311,4,0,3,10:10 PM,4:41,,,Jordan REBOUND (Off:2 Def:10),,
+0021501001,312,1,5,3,10:10 PM,4:36,,,Jordan 1' Layup (12 PTS),56 - 60,4
+0021501001,313,1,85,3,10:10 PM,4:20,Aldridge 15' Turnaround Bank Shot (17 PTS),,,56 - 62,6
+0021501001,314,5,1,3,10:10 PM,4:04,Aldridge STEAL (2 STL),,Redick Bad Pass Turnover (P1.T10),,
+0021501001,315,5,1,3,10:10 PM,3:55,Leonard Bad Pass Turnover (P2.T7),,Mbah a Moute STEAL (1 STL),,
+0021501001,316,5,1,3,10:10 PM,3:51,Leonard STEAL (3 STL),,Jordan Bad Pass Turnover (P4.T11),,
+0021501001,317,5,1,3,10:11 PM,3:48,Leonard Bad Pass Turnover (P3.T8),,Paul STEAL (3 STL),,
+0021501001,318,6,1,3,10:11 PM,3:47,Ginobili P.FOUL (P2.PN) (Z.Zarba),,,,
+0021501001,319,3,11,3,10:11 PM,3:47,,,Paul Free Throw 1 of 2 (21 PTS),57 - 62,5
+0021501001,321,8,0,3,10:11 PM,3:47,,,SUB: Crawford FOR Redick,,
+0021501001,322,8,0,3,10:11 PM,3:47,,,SUB: W. Johnson FOR Mbah a Moute,,
+0021501001,323,8,0,3,10:11 PM,3:47,SUB: Diaw FOR Duncan,,,,
+0021501001,324,3,12,3,10:11 PM,3:47,,,Paul Free Throw 2 of 2 (22 PTS),58 - 62,4
+0021501001,326,2,1,3,10:12 PM,3:31,MISS Mills  3PT Jump Shot,,,,
+0021501001,327,4,0,3,10:12 PM,3:30,,,Crawford REBOUND (Off:0 Def:1),,
+0021501001,328,1,1,3,10:12 PM,3:21,,,Green 25' 3PT Jump Shot (10 PTS) (Paul 8 AST),61 - 62,1
+0021501001,329,6,1,3,10:12 PM,3:12,,,Green P.FOUL (P3.T3) (M.Lindsay),,
+0021501001,330,6,1,3,10:13 PM,3:10,,,Crawford P.FOUL (P2.T4) (M.Lindsay),,
+0021501001,331,1,44,3,10:13 PM,3:01,Ginobili 2' Reverse Layup (8 PTS) (Mills 2 AST),,,61 - 64,3
+0021501001,332,2,1,3,10:13 PM,2:50,,,MISS Paul 7' Jump Shot,,
+0021501001,333,4,0,3,10:13 PM,2:47,,,Green REBOUND (Off:1 Def:1),,
+0021501001,334,1,1,3,10:14 PM,2:32,,,Green 24' 3PT Jump Shot (13 PTS) (W. Johnson 1 AST),64 - 64,TIE
+0021501001,336,8,0,3,10:14 PM,2:15,,,SUB: Rivers FOR Paul,,
+0021501001,337,1,66,3,10:14 PM,2:11,Ginobili 13' Jump Bank Shot (10 PTS) (Mills 3 AST),,,64 - 66,2
+0021501001,338,2,1,3,10:15 PM,1:48,,,MISS Green 9' Jump Shot,,
+0021501001,339,4,0,3,10:15 PM,1:47,,,Jordan REBOUND (Off:3 Def:10),,
+0021501001,340,1,107,3,10:15 PM,1:44,,,Jordan  Tip Dunk Shot (14 PTS),66 - 66,TIE
+0021501001,341,1,79,3,10:15 PM,1:27,Mills 19' Pullup Jump Shot (7 PTS),,,66 - 68,2
+0021501001,342,1,1,3,10:15 PM,1:04,,,Green 17' Jump Shot (15 PTS),68 - 68,TIE
+0021501001,343,6,1,3,10:16 PM,0:53,,,Green P.FOUL (P4.PN) (Z.Zarba),,
+0021501001,344,3,11,3,10:16 PM,0:53,MISS Mills Free Throw 1 of 2,,,,
+0021501001,345,4,1,3,10:16 PM,0:53,SPURS Rebound,,,,
+0021501001,346,8,0,3,10:16 PM,0:53,SUB: Anderson FOR Leonard,,,,
+0021501001,347,8,0,3,10:16 PM,0:53,SUB: West FOR Aldridge,,,,
+0021501001,348,8,0,3,10:16 PM,0:53,,,SUB: Prigioni FOR Green,,
+0021501001,349,3,12,3,10:16 PM,0:53,Mills Free Throw 2 of 2 (8 PTS),,,68 - 69,1
+0021501001,351,2,7,3,10:17 PM,0:40,,,MISS Rivers  Dunk,,
+0021501001,352,4,0,3,10:17 PM,0:39,Mills REBOUND (Off:0 Def:2),,,,
+0021501001,353,2,5,3,10:17 PM,0:33,MISS Anderson 1' Layup,,W. Johnson BLOCK (1 BLK),,
+0021501001,354,4,0,3,10:17 PM,0:31,,,Jordan REBOUND (Off:3 Def:11),,
+0021501001,355,1,79,3,10:17 PM,0:16,,,Crawford 19' Pullup Jump Shot (4 PTS),70 - 69,-1
+0021501001,356,1,78,3,10:18 PM,0:00,Anderson 13' Floating Jump Shot (2 PTS) (Mills 4 AST),,,70 - 71,1
+0021501001,357,18,0,3,10:18 PM,0:00,,,,,
+0021501001,358,13,0,3,10:18 PM,0:00,,,,70 - 71,1
+0021501001,360,12,0,4,10:20 PM,12:00,,,,70 - 71,1
+0021501001,361,2,1,4,10:21 PM,11:46,,,MISS Crawford 19' Jump Shot,,
+0021501001,362,4,0,4,10:21 PM,11:45,Anderson REBOUND (Off:1 Def:3),,,,
+0021501001,363,1,3,4,10:21 PM,11:37,West 7' Hook Shot (2 PTS) (Ginobili 2 AST),,,70 - 73,3
+0021501001,364,6,1,4,10:21 PM,11:27,Ginobili P.FOUL (P3.T1) (Z.Zarba),,,,
+0021501001,365,2,1,4,10:21 PM,11:16,,,MISS W. Johnson 20' Jump Shot,,
+0021501001,366,4,0,4,10:21 PM,11:15,Mills REBOUND (Off:0 Def:3),,,,
+0021501001,367,1,1,4,10:22 PM,10:59,Ginobili 24' 3PT Jump Shot (13 PTS) (Mills 5 AST),,,70 - 76,6
+0021501001,368,1,5,4,10:22 PM,10:35,,,Aldrich 1' Layup (2 PTS) (Crawford 1 AST),72 - 76,4
+0021501001,369,2,1,4,10:22 PM,10:20,MISS Ginobili 25' 3PT Jump Shot,,,,
+0021501001,370,4,0,4,10:22 PM,10:20,West REBOUND (Off:2 Def:1),,,,
+0021501001,371,2,1,4,10:22 PM,10:15,MISS Mills 11' Jump Shot,,,,
+0021501001,372,4,0,4,10:22 PM,10:14,West REBOUND (Off:3 Def:1),,,,
+0021501001,373,1,97,4,10:22 PM,10:12,West 1' Tip Layup Shot (4 PTS),,,72 - 78,6
+0021501001,374,2,1,4,10:23 PM,9:59,,,MISS W. Johnson 25' 3PT Jump Shot,,
+0021501001,375,4,0,4,10:23 PM,9:58,,,Aldrich REBOUND (Off:1 Def:2),,
+0021501001,377,8,0,4,10:23 PM,9:58,SUB: Martin FOR Anderson,,,,
+0021501001,378,8,0,4,10:23 PM,9:58,SUB: Green FOR Ginobili,,,,
+0021501001,379,5,39,4,10:23 PM,9:51,,,Rivers Step Out of Bounds Turnover (P2.T12),,
+0021501001,386,2,66,4,10:24 PM,9:38,MISS West 6' Jump Bank Shot,,,,
+0021501001,381,4,0,4,10:24 PM,9:37,Diaw REBOUND (Off:1 Def:0),,,,
+0021501001,382,2,97,4,10:24 PM,9:37,MISS Diaw 1' Tip Layup Shot,,,,
+0021501001,383,4,0,4,10:24 PM,9:35,West REBOUND (Off:4 Def:1),,,,
+0021501001,384,1,72,4,10:24 PM,9:34,West 4' Putback Layup (6 PTS),,,72 - 80,8
+0021501001,385,9,1,4,10:24 PM,9:32,,,Clippers Timeout: Regular (Reg.4 Short 1),,
+0021501001,388,8,0,4,10:26 PM,9:32,,,SUB: Jordan FOR Aldrich,,
+0021501001,389,2,42,4,10:26 PM,9:25,West BLOCK (2 BLK),,MISS Rivers 1' Driving Layup,,
+0021501001,390,4,0,4,10:26 PM,9:23,Mills REBOUND (Off:0 Def:4),,,,
+0021501001,391,1,79,4,10:26 PM,9:17,Mills 18' Pullup Jump Shot (10 PTS),,,72 - 82,10
+0021501001,392,2,1,4,10:27 PM,8:56,,,MISS Crawford 24' 3PT Jump Shot,,
+0021501001,393,4,0,4,10:27 PM,8:55,West REBOUND (Off:4 Def:2),,,,
+0021501001,394,5,45,4,10:27 PM,8:43,Diaw Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,
+0021501001,395,8,0,4,10:27 PM,8:43,,,SUB: Paul FOR Rivers,,
+0021501001,396,8,0,4,10:27 PM,8:43,,,SUB: Redick FOR Prigioni,,
+0021501001,397,1,5,4,10:27 PM,8:25,,,Jordan 1' Layup (16 PTS) (Crawford 2 AST),74 - 82,8
+0021501001,398,1,1,4,10:28 PM,8:11,West 17' Jump Shot (8 PTS) (Mills 6 AST),,,74 - 84,10
+0021501001,399,1,1,4,10:28 PM,7:50,,,Redick 26' 3PT Jump Shot (14 PTS) (Crawford 3 AST),77 - 84,7
+0021501001,400,6,1,4,10:28 PM,7:41,,,Paul P.FOUL (P1.T1) (Z.Zarba),,
+0021501001,401,8,0,4,10:28 PM,7:41,,,SUB: Green FOR W. Johnson,,
+0021501001,402,8,0,4,10:28 PM,7:41,SUB: Leonard FOR Martin,,,,
+0021501001,403,1,66,4,10:29 PM,7:33,Leonard 5' Jump Bank Shot (18 PTS),,,77 - 86,9
+0021501001,404,2,1,4,10:29 PM,7:06,,,MISS Green  3PT Jump Shot,,
+0021501001,405,4,0,4,10:29 PM,7:05,Leonard REBOUND (Off:0 Def:5),,,,
+0021501001,406,6,28,4,10:29 PM,7:04,,,Jordan Personal Take Foul (P2.T2) (N.Buchert),,
+0021501001,407,1,1,4,10:30 PM,6:45,Green  3PT Jump Shot (9 PTS) (Leonard 4 AST),,,77 - 89,12
+0021501001,408,6,2,4,10:30 PM,6:23,Green S.FOUL (P4.T2) (N.Buchert),,,,
+0021501001,409,3,11,4,10:30 PM,6:23,,,Crawford Free Throw 1 of 2 (5 PTS),78 - 89,11
+0021501001,411,3,12,4,10:31 PM,6:23,,,Crawford Free Throw 2 of 2 (6 PTS),79 - 89,10
+0021501001,413,1,1,4,10:31 PM,6:12,Mills 24' 3PT Jump Shot (13 PTS) (Green 1 AST),,,79 - 92,13
+0021501001,414,9,1,4,10:31 PM,6:11,,,Clippers Timeout: Regular (Reg.5 Short 1),,
+0021501001,416,8,0,4,10:34 PM,6:11,SUB: Aldridge FOR Diaw,,,,
+0021501001,417,8,0,4,10:34 PM,6:11,,,SUB: Mbah a Moute FOR Crawford,,
+0021501001,418,6,28,4,10:34 PM,6:08,West Personal Take Foul (P1.T3) (N.Buchert),,,,
+0021501001,419,2,5,4,10:35 PM,5:50,,,MISS Paul 1' Layup,,
+0021501001,420,4,0,4,10:35 PM,5:49,Mills REBOUND (Off:0 Def:5),,,,
+0021501001,421,2,1,4,10:35 PM,5:31,MISS West 7' Jump Shot,,Jordan BLOCK (1 BLK),,
+0021501001,422,4,0,4,10:35 PM,5:31,,,Clippers Rebound,,
+0021501001,423,5,1,4,10:35 PM,5:19,,,Green Bad Pass Turnover (P1.T13),,
+0021501001,424,8,0,4,10:35 PM,5:19,SUB: Parker FOR West,,,,
+0021501001,425,8,0,4,10:35 PM,5:19,,,SUB: W. Johnson FOR Mbah a Moute,,
+0021501001,426,1,43,4,10:36 PM,5:05,Mills 1' Alley Oop Layup (15 PTS) (Aldridge 2 AST),,,79 - 94,15
+0021501001,427,5,40,4,10:36 PM,4:43,,,Green Out of Bounds Lost Ball Turnover (P2.T14),,
+0021501001,428,8,0,4,10:37 PM,4:43,,,SUB: Crawford FOR W. Johnson,,
+0021501001,429,1,1,4,10:37 PM,4:29,Green 24' 3PT Jump Shot (12 PTS) (Parker 5 AST),,,79 - 97,18
+0021501001,430,9,1,4,10:37 PM,4:29,,,Clippers Timeout: Regular (Reg.6 Short 1),,
+0021501001,432,8,0,4,10:39 PM,4:29,,,SUB: Rivers FOR Jordan,,
+0021501001,433,8,0,4,10:39 PM,4:29,,,SUB: W. Johnson FOR Redick,,
+0021501001,434,8,0,4,10:39 PM,4:29,,,SUB: Aldrich FOR Paul,,
+0021501001,435,8,0,4,10:39 PM,4:29,SUB: Martin FOR Mills,,,,
+0021501001,436,5,45,4,10:40 PM,4:11,,,Aldrich Out of Bounds - Bad Pass Turnover Turnover (P1.T15),,
+0021501001,437,8,0,4,10:40 PM,4:11,SUB: Marjanovic FOR Aldridge,,,,
+0021501001,438,1,1,4,10:40 PM,3:52,Leonard 18' Jump Shot (20 PTS) (Marjanovic 1 AST),,,79 - 99,20
+0021501001,439,6,28,4,10:40 PM,3:46,Parker Personal Take Foul (P3.T4) (N.Buchert),,,,
+0021501001,440,8,0,4,10:40 PM,3:46,SUB: Anderson FOR Leonard,,,,
+0021501001,441,8,0,4,10:40 PM,3:46,SUB: A. Miller FOR Parker,,,,
+0021501001,442,8,0,4,10:40 PM,3:46,,,SUB: Prigioni FOR Green,,
+0021501001,443,8,0,4,10:41 PM,3:46,SUB: Diaw FOR Green,,,,
+0021501001,444,1,3,4,10:41 PM,3:32,,,Aldrich 7' Hook Shot (4 PTS) (Rivers 1 AST),81 - 99,18
+0021501001,445,5,39,4,10:41 PM,3:14,Martin Step Out of Bounds Turnover (P1.T10),,,,
+0021501001,446,2,5,4,10:42 PM,2:58,,,MISS Rivers  Layup,,
+0021501001,447,4,0,4,10:42 PM,2:57,Diaw REBOUND (Off:1 Def:1),,,,
+0021501001,448,6,2,4,10:42 PM,2:40,,,Aldrich S.FOUL (P2.T3) (N.Buchert),,
+0021501001,449,3,11,4,10:42 PM,2:40,Marjanovic Free Throw 1 of 2 (1 PTS),,,81 - 100,19
+0021501001,451,3,12,4,10:42 PM,2:40,MISS Marjanovic Free Throw 2 of 2,,,,
+0021501001,453,4,0,4,10:43 PM,2:38,,,Aldrich REBOUND (Off:1 Def:3),,
+0021501001,454,2,1,4,10:43 PM,2:23,,,MISS Crawford 19' Jump Shot,,
+0021501001,455,4,0,4,10:43 PM,2:23,A. Miller REBOUND (Off:0 Def:1),,,,
+0021501001,456,1,1,4,10:43 PM,1:57,Anderson 21' Jump Shot (4 PTS),,,81 - 102,21
+0021501001,457,1,99,4,10:44 PM,1:40,,,Aldrich 1' Cutting Finger Roll Layup Shot (6 PTS) (Prigioni 1 AST),83 - 102,19
+0021501001,458,6,29,4,10:44 PM,1:40,Martin Shooting Block Foul (P1.PN) (Z.Zarba),,,,
+0021501001,459,3,10,4,10:44 PM,1:40,,,Aldrich Free Throw 1 of 1 (7 PTS),84 - 102,18
+0021501001,461,1,1,4,10:44 PM,1:24,Anderson 18' Jump Shot (6 PTS),,,84 - 104,20
+0021501001,462,2,1,4,10:45 PM,1:00,,,MISS Crawford 24' 3PT Jump Shot,,
+0021501001,463,4,0,4,10:45 PM,0:59,A. Miller REBOUND (Off:0 Def:2),,,,
+0021501001,464,1,79,4,10:45 PM,0:48,Martin 14' Pullup Jump Shot (6 PTS) (A. Miller 1 AST),,,84 - 106,22
+0021501001,465,1,1,4,10:45 PM,0:33,,,Prigioni 25' 3PT Jump Shot (3 PTS),87 - 106,19
+0021501001,466,2,1,4,10:46 PM,0:13,MISS Martin 16' Jump Shot,,,,
+0021501001,467,4,0,4,10:46 PM,0:12,Marjanovic REBOUND (Off:1 Def:0),,,,
+0021501001,468,6,2,4,10:46 PM,0:12,,,Aldrich S.FOUL (P3.T4) (Z.Zarba),,
+0021501001,469,3,11,4,10:46 PM,0:12,Marjanovic Free Throw 1 of 2 (2 PTS),,,87 - 107,20
+0021501001,471,3,12,4,10:46 PM,0:12,Marjanovic Free Throw 2 of 2 (3 PTS),,,87 - 108,21
+0021501001,473,13,0,4,10:47 PM,0:00,,,,87 - 108,21

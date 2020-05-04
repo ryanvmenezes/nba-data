@@ -1,0 +1,462 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000848,0,12,0,1,7:07 PM,12:00,,,,,
+0021000848,1,10,0,1,7:10 PM,12:00,Jump Ball McRoberts vs. Wallace: Tip to McGrady,,,,
+0021000848,2,2,1,1,7:10 PM,11:41,,,MISS Monroe 4' Jump Shot,,
+0021000848,3,4,0,1,7:10 PM,11:39,,,Wallace REBOUND (Off:1 Def:0),,
+0021000848,4,1,4,1,7:10 PM,11:37,,,Wallace 2' Tip Shot (2 PTS),2 - 0,-2
+0021000848,5,2,1,1,7:11 PM,11:16,MISS Granger 25' 3PT Jump Shot,,,,
+0021000848,6,4,0,1,7:11 PM,11:14,,,McGrady REBOUND (Off:0 Def:1),,
+0021000848,7,2,1,1,7:11 PM,11:00,,,MISS Stuckey 12' Jump Shot,,
+0021000848,8,4,0,1,7:11 PM,10:59,Hibbert REBOUND (Off:0 Def:1),,,,
+0021000848,9,1,79,1,7:11 PM,10:50,Collison 16' Pullup Jump Shot (2 PTS),,,2 - 2,TIE
+0021000848,10,1,1,1,7:12 PM,10:27,,,Stuckey 25' 3PT Jump Shot (3 PTS) (McGrady 1 AST),5 - 2,-3
+0021000848,11,5,1,1,7:12 PM,10:18,McRoberts Bad Pass Turnover (P1.T1),,Monroe STEAL (1 STL),,
+0021000848,12,5,1,1,7:12 PM,10:08,,,McGrady Bad Pass Turnover (P1.T1),,
+0021000848,13,5,1,1,7:12 PM,9:53,Granger Bad Pass Turnover (P1.T2),,Wallace STEAL (1 STL),,
+0021000848,14,6,1,1,7:12 PM,9:51,Granger P.FOUL (P1.T1),,,,
+0021000848,15,2,1,1,7:13 PM,9:34,,,MISS Monroe 18' Jump Shot,,
+0021000848,16,4,0,1,7:13 PM,9:33,Hibbert REBOUND (Off:0 Def:2),,,,
+0021000848,17,1,5,1,7:13 PM,9:22,McRoberts 3' Layup (2 PTS),,,5 - 4,-1
+0021000848,18,6,2,1,7:14 PM,9:00,Granger S.FOUL (P2.T2),,,,
+0021000848,19,8,0,1,7:14 PM,9:00,SUB: Jones FOR Granger,,,,
+0021000848,20,3,11,1,7:14 PM,9:00,,,MISS Prince Free Throw 1 of 2,,
+0021000848,21,4,1,1,7:14 PM,9:00,,,Pistons Rebound,,
+0021000848,22,3,12,1,7:14 PM,9:00,,,MISS Prince Free Throw 2 of 2,,
+0021000848,24,4,0,1,7:14 PM,9:00,Hibbert REBOUND (Off:0 Def:3),,,,
+0021000848,25,6,2,1,7:15 PM,8:43,,,Monroe S.FOUL (P1.T1),,
+0021000848,26,3,11,1,7:15 PM,8:43,McRoberts Free Throw 1 of 2 (3 PTS),,,5 - 5,TIE
+0021000848,28,3,12,1,7:15 PM,8:43,McRoberts Free Throw 2 of 2 (4 PTS),,,5 - 6,1
+0021000848,30,6,4,1,7:15 PM,8:32,,,Stuckey OFF.Foul (P1),,
+0021000848,31,5,5,1,7:15 PM,8:32,,,Stuckey Foul Turnover (P1.T2),,
+0021000848,32,2,1,1,7:16 PM,8:25,MISS Collison 15' Jump Shot,,,,
+0021000848,33,4,0,1,7:16 PM,8:24,Collison REBOUND (Off:1 Def:0),,,,
+0021000848,34,2,5,1,7:16 PM,8:17,MISS Rush 2' Layup,,,,
+0021000848,35,4,0,1,7:16 PM,8:15,,,Monroe REBOUND (Off:0 Def:1),,
+0021000848,36,1,1,1,7:16 PM,7:54,,,Stuckey 7' Jump Shot (5 PTS),7 - 6,-1
+0021000848,37,1,42,1,7:17 PM,7:41,Rush 2' Driving Layup (2 PTS) (Collison 1 AST),,,7 - 8,1
+0021000848,38,6,2,1,7:17 PM,7:22,Hibbert S.FOUL (P1.T3),,,,
+0021000848,39,3,11,1,7:17 PM,7:22,,,MISS Monroe Free Throw 1 of 2,,
+0021000848,40,4,1,1,7:17 PM,7:22,,,Pistons Rebound,,
+0021000848,41,3,12,1,7:17 PM,7:22,,,Monroe Free Throw 2 of 2 (1 PTS),8 - 8,TIE
+0021000848,43,5,4,1,7:18 PM,7:01,Jones Traveling Turnover (P1.T3),,,,
+0021000848,44,6,1,1,7:19 PM,6:43,Jones P.FOUL (P1.T4),,,,
+0021000848,45,1,1,1,7:19 PM,6:37,,,Stuckey 18' Jump Shot (7 PTS) (McGrady 2 AST),10 - 8,-2
+0021000848,46,9,1,1,7:19 PM,6:32,PACERS Timeout: Regular (Full 1 Short 0),,,,
+0021000848,48,1,51,1,7:22 PM,6:23,McRoberts  Reverse Dunk (6 PTS) (Jones 1 AST),,,10 - 10,TIE
+0021000848,49,2,1,1,7:22 PM,6:04,,,MISS McGrady 20' Jump Shot,,
+0021000848,50,4,0,1,7:22 PM,6:01,,,Monroe REBOUND (Off:1 Def:1),,
+0021000848,51,1,3,1,7:22 PM,5:47,,,Wallace 3' Hook Shot (4 PTS),12 - 10,-2
+0021000848,52,1,3,1,7:23 PM,5:28,Hibbert 6' Hook Shot (2 PTS),,,12 - 12,TIE
+0021000848,53,6,2,1,7:23 PM,5:28,,,Wallace S.FOUL (P1.T2),,
+0021000848,54,8,0,1,7:23 PM,5:28,SUB: George FOR Rush,,,,
+0021000848,55,8,0,1,7:23 PM,5:28,SUB: Hansbrough FOR McRoberts,,,,
+0021000848,56,3,10,1,7:23 PM,5:28,MISS Hibbert Free Throw 1 of 1,,,,
+0021000848,58,4,0,1,7:23 PM,5:28,,,Wallace REBOUND (Off:1 Def:1),,
+0021000848,59,2,1,1,7:23 PM,5:13,,,MISS Monroe 9' Jump Shot,,
+0021000848,60,4,0,1,7:23 PM,5:11,Hibbert REBOUND (Off:0 Def:4),,,,
+0021000848,61,5,40,1,7:24 PM,5:05,Jones Out of Bounds Lost Ball Turnover (P2.T4),,,,
+0021000848,62,2,1,1,7:24 PM,4:41,,,MISS Prince 3' Jump Shot,,
+0021000848,63,4,0,1,7:24 PM,4:38,,,Monroe REBOUND (Off:2 Def:1),,
+0021000848,64,1,5,1,7:24 PM,4:37,,,Monroe  Layup (3 PTS),14 - 12,-2
+0021000848,65,2,1,1,7:24 PM,4:29,MISS Collison 19' Jump Shot,,,,
+0021000848,66,4,0,1,7:24 PM,4:28,,,Monroe REBOUND (Off:2 Def:2),,
+0021000848,67,2,1,1,7:24 PM,4:21,,,MISS Prince 15' Jump Shot,,
+0021000848,68,4,0,1,7:24 PM,4:20,,,Wallace REBOUND (Off:2 Def:1),,
+0021000848,69,5,1,1,7:25 PM,4:02,Collison STEAL (1 STL),,Stuckey Bad Pass Turnover (P2.T3),,
+0021000848,70,6,3,1,7:25 PM,4:02,,,Monroe L.B.FOUL (P2.T3),,
+0021000848,71,8,0,1,7:25 PM,4:02,,,SUB: Daye FOR Monroe,,
+0021000848,72,8,0,1,7:25 PM,4:02,,,SUB: Wilcox FOR Wallace,,
+0021000848,73,2,1,1,7:26 PM,3:48,MISS Jones 6' Jump Shot,,,,
+0021000848,74,4,0,1,7:26 PM,3:47,,,McGrady REBOUND (Off:0 Def:2),,
+0021000848,75,2,1,1,7:26 PM,3:29,,,MISS Prince 14' Jump Shot,,
+0021000848,76,4,0,1,7:26 PM,3:28,Hibbert REBOUND (Off:0 Def:5),,,,
+0021000848,77,1,44,1,7:26 PM,3:21,George 2' Reverse Layup (2 PTS),,,14 - 14,TIE
+0021000848,78,1,3,1,7:26 PM,3:11,,,Wilcox 3' Hook Shot (2 PTS) (McGrady 3 AST),16 - 14,-2
+0021000848,79,2,1,1,7:26 PM,2:59,MISS Jones 25' 3PT Jump Shot,,,,
+0021000848,80,4,0,1,7:26 PM,2:58,Hibbert REBOUND (Off:1 Def:5),,,,
+0021000848,81,1,66,1,7:26 PM,2:53,Jones 4' Jump Bank Shot (2 PTS),,,16 - 16,TIE
+0021000848,82,9,1,1,7:27 PM,2:42,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0021000848,84,8,0,1,7:29 PM,2:42,,,SUB: Bynum FOR Prince,,
+0021000848,85,8,0,1,7:29 PM,2:42,,,SUB: Villanueva FOR McGrady,,
+0021000848,86,2,1,1,7:30 PM,2:31,,,MISS Villanueva 16' Jump Shot,,
+0021000848,87,4,0,1,7:30 PM,2:30,George REBOUND (Off:0 Def:1),,,,
+0021000848,88,6,2,1,7:30 PM,2:15,,,Bynum S.FOUL (P1.T4),,
+0021000848,89,8,0,1,7:30 PM,2:15,SUB: Foster FOR Hibbert,,,,
+0021000848,90,3,11,1,7:30 PM,2:15,Hansbrough Free Throw 1 of 2 (1 PTS),,,16 - 17,1
+0021000848,92,3,12,1,7:30 PM,2:15,Hansbrough Free Throw 2 of 2 (2 PTS),,,16 - 18,2
+0021000848,94,2,1,1,7:31 PM,2:01,,,MISS Stuckey 21' Jump Shot,,
+0021000848,95,4,0,1,7:31 PM,2:00,Hansbrough REBOUND (Off:0 Def:1),,,,
+0021000848,96,2,1,1,7:31 PM,1:54,MISS George 25' 3PT Jump Shot,,,,
+0021000848,97,4,0,1,7:31 PM,1:52,,,Bynum REBOUND (Off:0 Def:1),,
+0021000848,98,6,3,1,7:31 PM,1:52,Hansbrough L.B.FOUL (P1.PN),,,,
+0021000848,99,3,11,1,7:32 PM,1:52,,,Bynum Free Throw 1 of 2 (1 PTS),17 - 18,1
+0021000848,101,3,12,1,7:32 PM,1:52,,,MISS Bynum Free Throw 2 of 2,,
+0021000848,103,4,0,1,7:32 PM,1:52,Hansbrough REBOUND (Off:0 Def:2),,,,
+0021000848,104,1,1,1,7:32 PM,1:39,Jones 17' Jump Shot (4 PTS),,,17 - 20,3
+0021000848,105,2,1,1,7:32 PM,1:26,,,MISS Wilcox 19' Jump Shot,,
+0021000848,106,4,0,1,7:32 PM,1:25,,,Villanueva REBOUND (Off:1 Def:0),,
+0021000848,107,5,4,1,7:32 PM,1:23,,,Daye Traveling Turnover (P1.T4),,
+0021000848,108,8,0,1,7:33 PM,1:23,,,SUB: Gordon FOR Stuckey,,
+0021000848,109,1,1,1,7:33 PM,1:11,George 19' Jump Shot (4 PTS),,,17 - 22,5
+0021000848,110,5,40,1,7:33 PM,0:57,,,Gordon Out of Bounds Lost Ball Turnover (P1.T5),,
+0021000848,111,1,1,1,7:33 PM,0:48,Hansbrough 18' Jump Shot (4 PTS) (Collison 2 AST),,,17 - 24,7
+0021000848,112,5,2,1,7:34 PM,0:39,Hansbrough STEAL (1 STL),,Villanueva Lost Ball Turnover (P1.T6),,
+0021000848,113,6,2,1,7:34 PM,0:26,,,Villanueva S.FOUL (P1.PN),,
+0021000848,114,3,11,1,7:34 PM,0:26,Hansbrough Free Throw 1 of 2 (5 PTS),,,17 - 25,8
+0021000848,116,3,12,1,7:34 PM,0:26,Hansbrough Free Throw 2 of 2 (6 PTS),,,17 - 26,9
+0021000848,118,2,1,1,7:35 PM,0:05,,,MISS Villanueva 25' 3PT Jump Shot,,
+0021000848,125,4,0,1,7:35 PM,0:05,,,Daye REBOUND (Off:1 Def:0),,
+0021000848,124,2,53,1,7:35 PM,0:04,,,MISS Daye  Tip Shot,,
+0021000848,120,4,0,1,7:35 PM,0:02,,,Daye REBOUND (Off:2 Def:0),,
+0021000848,119,1,40,1,7:35 PM,0:02,,,Daye 1' Layup (2 PTS),19 - 26,7
+0021000848,121,2,1,1,7:35 PM,0:00,MISS Jones 29' 3PT Jump Shot,,,,
+0021000848,123,4,0,1,7:35 PM,0:00,PACERS Rebound,,,,
+0021000848,122,13,0,1,7:35 PM,0:00,,,,19 - 26,7
+0021000848,127,12,0,2,7:38 PM,12:00,,,,19 - 26,7
+0021000848,128,2,1,2,7:38 PM,11:38,MISS Price 26' 3PT Jump Shot,,,,
+0021000848,129,4,0,2,7:38 PM,11:37,PACERS Rebound,,,,
+0021000848,130,5,2,2,7:39 PM,11:34,George Lost Ball Turnover (P1.T5),,Bynum STEAL (1 STL),,
+0021000848,131,2,1,2,7:39 PM,11:28,,,MISS Bynum 5' Jump Shot,,
+0021000848,132,4,0,2,7:39 PM,11:27,Hansbrough REBOUND (Off:0 Def:3),,,,
+0021000848,133,2,1,2,7:39 PM,11:16,MISS Price 19' Jump Shot,,,,
+0021000848,134,4,0,2,7:39 PM,11:15,,,Wilcox REBOUND (Off:0 Def:1),,
+0021000848,135,5,1,2,7:39 PM,11:09,Rush STEAL (1 STL),,Gordon Bad Pass Turnover (P2.T7),,
+0021000848,136,1,42,2,7:39 PM,11:01,Rush 1' Driving Layup (4 PTS),,,19 - 28,9
+0021000848,137,2,5,2,7:40 PM,10:41,Hansbrough BLOCK (1 BLK),,MISS Wilcox 1' Layup,,
+0021000848,138,4,0,2,7:40 PM,10:40,Foster REBOUND (Off:0 Def:1),,,,
+0021000848,139,2,1,2,7:40 PM,10:35,MISS George 3' Jump Shot,,,,
+0021000848,140,4,0,2,7:40 PM,10:34,Hansbrough REBOUND (Off:1 Def:3),,,,
+0021000848,141,1,7,2,7:40 PM,10:32,Hansbrough 3' Dunk (8 PTS),,,19 - 30,11
+0021000848,142,2,1,2,7:40 PM,10:14,,,MISS Bynum 24' 3PT Jump Shot,,
+0021000848,143,4,0,2,7:40 PM,10:14,PACERS Rebound,,,,
+0021000848,144,6,3,2,7:40 PM,10:14,,,Wilcox L.B.FOUL (P1.T1),,
+0021000848,145,8,0,2,7:40 PM,10:14,,,SUB: Wallace FOR Wilcox,,
+0021000848,146,8,0,2,7:40 PM,10:14,,,SUB: Monroe FOR Villanueva,,
+0021000848,147,1,1,2,7:41 PM,10:03,Hansbrough 19' Jump Shot (10 PTS) (Price 1 AST),,,19 - 32,13
+0021000848,148,2,5,2,7:41 PM,9:42,,,MISS Monroe 1' Layup,,
+0021000848,149,4,0,2,7:41 PM,9:41,,,Wallace REBOUND (Off:3 Def:1),,
+0021000848,150,1,44,2,7:41 PM,9:35,,,Gordon 1' Reverse Layup (2 PTS),21 - 32,11
+0021000848,151,6,26,2,7:41 PM,9:26,George Offensive Charge Foul (P1.T1),,,,
+0021000848,152,5,5,2,7:41 PM,9:26,George Foul Turnover (P2.T6),,,,
+0021000848,153,8,0,2,7:41 PM,9:26,,,SUB: McGrady FOR Daye,,
+0021000848,154,2,1,2,7:42 PM,9:03,,,MISS Gordon 19' Jump Shot,,
+0021000848,155,4,0,2,7:42 PM,9:00,George REBOUND (Off:0 Def:2),,,,
+0021000848,156,1,3,2,7:42 PM,8:47,Hansbrough 10' Hook Shot (12 PTS) (George 1 AST),,,21 - 34,13
+0021000848,157,2,1,2,7:43 PM,8:26,,,MISS McGrady 13' Jump Shot,,
+0021000848,158,4,0,2,7:43 PM,8:25,,,Wallace REBOUND (Off:4 Def:1),,
+0021000848,159,2,5,2,7:43 PM,8:16,,,MISS Monroe 1' Layup,,
+0021000848,160,4,0,2,7:43 PM,8:15,,,Monroe REBOUND (Off:3 Def:2),,
+0021000848,161,1,5,2,7:43 PM,8:14,,,Monroe 1' Layup (5 PTS),23 - 34,11
+0021000848,162,1,1,2,7:43 PM,7:59,Foster 17' Jump Shot (2 PTS) (Price 2 AST),,,23 - 36,13
+0021000848,163,2,1,2,7:43 PM,7:35,,,MISS McGrady 19' Jump Shot,,
+0021000848,164,4,0,2,7:43 PM,7:34,Price REBOUND (Off:0 Def:1),,,,
+0021000848,165,5,4,2,7:44 PM,7:20,Hansbrough Traveling Turnover (P1.T7),,,,
+0021000848,166,9,4,2,7:44 PM,7:20,,,,,
+0021000848,168,8,0,2,7:46 PM,7:20,,,SUB: Stuckey FOR Bynum,,
+0021000848,169,8,0,2,7:46 PM,7:20,SUB: Granger FOR George,,,,
+0021000848,170,2,1,2,7:47 PM,6:56,,,MISS Wallace 12' Jump Shot,,
+0021000848,171,4,0,2,7:47 PM,6:55,Rush REBOUND (Off:0 Def:1),,,,
+0021000848,172,1,5,2,7:47 PM,6:47,Foster 1' Layup (4 PTS) (Granger 1 AST),,,23 - 38,15
+0021000848,173,2,5,2,7:47 PM,6:25,,,MISS Monroe 2' Layup,,
+0021000848,174,4,0,2,7:47 PM,6:24,Foster REBOUND (Off:0 Def:2),,,,
+0021000848,175,5,2,2,7:47 PM,6:24,Foster Lost Ball Turnover (P1.T8),,Wallace STEAL (2 STL),,
+0021000848,176,6,1,2,7:48 PM,6:24,Foster P.FOUL (P1.T2),,,,
+0021000848,179,1,1,2,7:48 PM,6:11,,,Gordon 19' Jump Shot (4 PTS) (McGrady 4 AST),25 - 38,13
+0021000848,180,2,5,2,7:49 PM,5:51,MISS Hansbrough 3' Layup,,,,
+0021000848,181,4,0,2,7:49 PM,5:49,Hansbrough REBOUND (Off:2 Def:3),,,,
+0021000848,182,2,4,2,7:49 PM,5:48,MISS Hansbrough 2' Tip Shot,,,,
+0021000848,183,4,0,2,7:49 PM,5:46,Foster REBOUND (Off:1 Def:2),,,,
+0021000848,184,2,4,2,7:49 PM,5:45,MISS Foster 2' Tip Shot,,,,
+0021000848,185,4,0,2,7:49 PM,5:43,Foster REBOUND (Off:2 Def:2),,,,
+0021000848,186,2,4,2,7:49 PM,5:42,MISS Foster 3' Tip Shot,,,,
+0021000848,187,4,0,2,7:49 PM,5:41,Hansbrough REBOUND (Off:3 Def:3),,,,
+0021000848,188,2,53,2,7:49 PM,5:39,MISS Hansbrough 1' Tip Shot,,,,
+0021000848,189,4,0,2,7:49 PM,5:37,Hansbrough REBOUND (Off:4 Def:3),,,,
+0021000848,190,1,1,2,7:49 PM,5:35,Hansbrough 4' Jump Shot (14 PTS),,,25 - 40,15
+0021000848,191,6,2,2,7:49 PM,5:28,Foster S.FOUL (P2.T3),,,,
+0021000848,192,9,1,2,7:49 PM,5:28,PACERS Timeout: Regular (Full 2 Short 0),,,,
+0021000848,194,6,11,2,7:50 PM,5:28,,,Stuckey T.FOUL (P1.T1),,
+0021000848,195,3,16,2,7:52 PM,5:28,Granger Free Throw Technical (1 PTS),,,25 - 41,16
+0021000848,197,3,11,2,7:53 PM,5:28,,,Stuckey Free Throw 1 of 2 (8 PTS),26 - 41,15
+0021000848,199,3,12,2,7:53 PM,5:28,,,Stuckey Free Throw 2 of 2 (9 PTS),27 - 41,14
+0021000848,201,2,1,2,7:54 PM,5:13,MISS Granger 12' Jump Shot,,McGrady BLOCK (1 BLK),,
+0021000848,202,4,0,2,7:54 PM,5:11,,,Monroe REBOUND (Off:3 Def:3),,
+0021000848,203,1,1,2,7:54 PM,4:55,,,McGrady 16' Jump Shot (2 PTS),29 - 41,12
+0021000848,204,2,1,2,7:54 PM,4:37,MISS Hansbrough 3' Jump Shot,,,,
+0021000848,208,4,0,2,7:54 PM,4:36,Foster REBOUND (Off:3 Def:2),,,,
+0021000848,205,4,0,2,7:54 PM,4:35,Hansbrough REBOUND (Off:5 Def:3),,,,
+0021000848,210,2,53,2,7:54 PM,4:35,MISS Foster  Tip Shot,,,,
+0021000848,206,1,5,2,7:54 PM,4:32,Hansbrough 2' Layup (16 PTS),,,29 - 43,14
+0021000848,207,6,2,2,7:55 PM,4:11,Granger S.FOUL (P3.T4),,,,
+0021000848,209,8,0,2,7:55 PM,4:11,SUB: Hibbert FOR Foster,,,,
+0021000848,211,8,0,2,7:55 PM,4:11,SUB: Jones FOR Granger,,,,
+0021000848,212,3,11,2,7:55 PM,4:11,,,McGrady Free Throw 1 of 2 (3 PTS),30 - 43,13
+0021000848,214,3,12,2,7:55 PM,4:11,,,McGrady Free Throw 2 of 2 (4 PTS),31 - 43,12
+0021000848,216,2,1,2,7:56 PM,4:01,MISS Price 6' Jump Shot,,,,
+0021000848,217,4,0,2,7:56 PM,4:00,,,Pistons Rebound,,
+0021000848,218,2,1,2,7:56 PM,3:43,,,MISS McGrady 11' Jump Shot,,
+0021000848,219,4,0,2,7:56 PM,3:41,,,Monroe REBOUND (Off:4 Def:3),,
+0021000848,220,1,5,2,7:56 PM,3:39,,,Monroe  Layup (7 PTS),33 - 43,10
+0021000848,221,2,1,2,7:57 PM,3:23,MISS Price 26' 3PT Jump Shot,,,,
+0021000848,222,4,0,2,7:57 PM,3:22,,,McGrady REBOUND (Off:0 Def:3),,
+0021000848,223,1,5,2,7:57 PM,3:12,,,Monroe 2' Layup (9 PTS) (Gordon 1 AST),35 - 43,8
+0021000848,225,6,2,2,7:57 PM,2:52,,,Gordon S.FOUL (P1.T2),,
+0021000848,226,9,1,2,7:57 PM,2:52,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0021000848,228,8,0,2,8:00 PM,2:52,SUB: McRoberts FOR Hansbrough,,,,
+0021000848,229,3,11,2,8:00 PM,2:52,Price Free Throw 1 of 2 (1 PTS),,,35 - 44,9
+0021000848,231,3,12,2,8:00 PM,2:52,Price Free Throw 2 of 2 (2 PTS),,,35 - 45,10
+0021000848,233,6,1,2,8:00 PM,2:39,Jones P.FOUL (P2.PN),,,,
+0021000848,234,8,0,2,8:01 PM,2:39,SUB: Collison FOR Price,,,,
+0021000848,235,1,5,2,8:01 PM,2:31,,,Monroe 2' Layup (11 PTS) (Wallace 1 AST),37 - 45,8
+0021000848,236,6,1,2,8:01 PM,2:23,,,Stuckey P.FOUL (P2.T3),,
+0021000848,237,2,1,2,8:02 PM,2:09,MISS Rush 21' Jump Shot,,,,
+0021000848,238,4,0,2,8:02 PM,2:07,,,McGrady REBOUND (Off:0 Def:4),,
+0021000848,239,1,47,2,8:02 PM,1:51,,,Stuckey 8' Turnaround Jump Shot (11 PTS),39 - 45,6
+0021000848,240,1,1,2,8:02 PM,1:44,Jones 7' Jump Shot (6 PTS),,,39 - 47,8
+0021000848,241,5,13,2,8:02 PM,1:30,,,Stuckey Backcourt Turnover (P3.T8),,
+0021000848,242,1,80,2,8:03 PM,1:16,Jones 16' Step Back Jump Shot (8 PTS),,,39 - 49,10
+0021000848,243,2,1,2,8:03 PM,0:56,,,MISS Stuckey 20' Jump Shot,,
+0021000848,244,4,0,2,8:03 PM,0:55,,,Wallace REBOUND (Off:5 Def:1),,
+0021000848,245,2,5,2,8:03 PM,0:42,,,MISS Stuckey 2' Layup,,
+0021000848,246,4,0,2,8:03 PM,0:41,,,Stuckey REBOUND (Off:1 Def:0),,
+0021000848,247,2,4,2,8:03 PM,0:41,,,MISS Stuckey 1' Tip Shot,,
+0021000848,248,4,0,2,8:04 PM,0:41,,,Monroe REBOUND (Off:5 Def:3),,
+0021000848,249,1,5,2,8:04 PM,0:41,,,Monroe 2' Layup (13 PTS),41 - 49,8
+0021000848,250,5,40,2,8:04 PM,0:37,Jones Out of Bounds Lost Ball Turnover (P3.T9),,,,
+0021000848,251,1,5,2,8:04 PM,0:20,,,McGrady 2' Layup (6 PTS),43 - 49,6
+0021000848,252,1,79,2,8:04 PM,0:04,Collison 13' Pullup Jump Shot (4 PTS),,,43 - 51,8
+0021000848,253,13,0,2,8:05 PM,0:00,,,,43 - 51,8
+0021000848,255,12,0,3,8:21 PM,12:00,,,,43 - 51,8
+0021000848,256,2,1,3,8:21 PM,11:51,MISS Granger 15' Jump Shot,,,,
+0021000848,257,4,0,3,8:21 PM,11:50,,,Pistons Rebound,,
+0021000848,258,6,3,3,8:21 PM,11:50,McRoberts L.B.FOUL (P1.T1),,,,
+0021000848,259,1,5,3,8:22 PM,11:31,,,Monroe 1' Layup (15 PTS) (McGrady 5 AST),45 - 51,6
+0021000848,260,1,1,3,8:22 PM,11:13,Granger  3PT Jump Shot (4 PTS) (Rush 1 AST),,,45 - 54,9
+0021000848,261,1,58,3,8:23 PM,10:48,,,Monroe 6' Turnaround Hook Shot (17 PTS) (McGrady 6 AST),47 - 54,7
+0021000848,262,2,1,3,8:23 PM,10:30,MISS McRoberts 25' 3PT Jump Shot,,,,
+0021000848,263,4,0,3,8:23 PM,10:28,,,Wallace REBOUND (Off:5 Def:2),,
+0021000848,264,2,1,3,8:23 PM,10:09,,,MISS Gordon 25' 3PT Jump Shot,,
+0021000848,265,4,0,3,8:23 PM,10:08,Hibbert REBOUND (Off:1 Def:6),,,,
+0021000848,266,1,42,3,8:23 PM,10:03,Collison 1' Driving Layup (6 PTS),,,47 - 56,9
+0021000848,267,2,1,3,8:24 PM,9:43,,,MISS Gordon 20' Jump Shot,,
+0021000848,268,4,0,3,8:24 PM,9:41,McRoberts REBOUND (Off:0 Def:1),,,,
+0021000848,269,1,5,3,8:24 PM,9:38,Collison 3' Layup (8 PTS) (McRoberts 1 AST),,,47 - 58,11
+0021000848,270,6,14,3,8:24 PM,9:38,,,Gordon FLAGRANT.FOUL.TYPE1 (P2.T1),,
+0021000848,271,3,20,3,8:25 PM,9:38,Collison Free Throw Flagrant 1 of 1 (9 PTS),,,47 - 59,12
+0021000848,274,1,5,3,8:25 PM,9:23,McRoberts 2' Layup (8 PTS) (Granger 2 AST),,,47 - 61,14
+0021000848,275,9,1,3,8:25 PM,9:21,,,Pistons Timeout: Regular (Reg.3 Short 0),,
+0021000848,278,6,2,3,8:28 PM,9:08,Hibbert S.FOUL (P2.T2),,,,
+0021000848,279,3,11,3,8:28 PM,9:08,,,MISS Monroe Free Throw 1 of 2,,
+0021000848,280,4,1,3,8:28 PM,9:08,,,Pistons Rebound,,
+0021000848,281,3,12,3,8:29 PM,9:08,,,Monroe Free Throw 2 of 2 (18 PTS),48 - 61,13
+0021000848,283,1,1,3,8:29 PM,8:49,Rush 26' 3PT Jump Shot (7 PTS) (Collison 3 AST),,,48 - 64,16
+0021000848,285,5,1,3,8:30 PM,8:22,,,Wallace Bad Pass Turnover (P1.T9),,
+0021000848,287,2,1,3,8:30 PM,8:16,MISS Rush 26' 3PT Jump Shot,,,,
+0021000848,288,4,0,3,8:30 PM,8:14,,,Monroe REBOUND (Off:5 Def:4),,
+0021000848,289,1,1,3,8:30 PM,7:58,,,Stuckey  3PT Jump Shot (14 PTS) (Monroe 1 AST),51 - 64,13
+0021000848,290,6,1,3,8:30 PM,7:47,,,Gordon P.FOUL (P3.T2),,
+0021000848,292,5,4,3,8:31 PM,7:40,Collison Traveling Turnover (P1.T10),,,,
+0021000848,293,1,1,3,8:31 PM,7:29,,,McGrady 15' Jump Shot (8 PTS),53 - 64,11
+0021000848,294,2,1,3,8:32 PM,7:11,MISS Collison 6' Jump Shot,,,,
+0021000848,295,4,0,3,8:32 PM,7:10,,,Wallace REBOUND (Off:5 Def:3),,
+0021000848,296,6,1,3,8:32 PM,7:03,Collison P.FOUL (P1.T3),,,,
+0021000848,297,1,1,3,8:32 PM,6:53,,,Gordon 24' 3PT Jump Shot (7 PTS) (McGrady 7 AST),56 - 64,8
+0021000848,298,6,2,3,8:32 PM,6:31,,,Monroe S.FOUL (P3.T3),,
+0021000848,299,3,11,3,8:33 PM,6:31,Hibbert Free Throw 1 of 2 (3 PTS),,,56 - 65,9
+0021000848,301,8,0,3,8:33 PM,6:31,SUB: George FOR Rush,,,,
+0021000848,302,3,12,3,8:33 PM,6:31,MISS Hibbert Free Throw 2 of 2,,,,
+0021000848,304,4,0,3,8:33 PM,6:30,,,Monroe REBOUND (Off:5 Def:5),,
+0021000848,305,1,52,3,8:33 PM,6:19,,,McGrady 2' Alley Oop Dunk (10 PTS) (Stuckey 1 AST),58 - 65,7
+0021000848,306,1,1,3,8:34 PM,6:00,Hibbert 4' Jump Shot (5 PTS),,,58 - 67,9
+0021000848,307,1,5,3,8:34 PM,5:41,,,Monroe 2' Layup (20 PTS) (McGrady 8 AST),60 - 67,7
+0021000848,308,1,8,3,8:34 PM,5:33,McRoberts 1' Slam Dunk (10 PTS) (Collison 4 AST),,,60 - 69,9
+0021000848,309,2,1,3,8:34 PM,5:21,,,MISS Gordon 5' Jump Shot,,
+0021000848,310,4,0,3,8:34 PM,5:20,Hibbert REBOUND (Off:1 Def:7),,,,
+0021000848,311,5,1,3,8:35 PM,5:11,Hibbert Bad Pass Turnover (P1.T11),,Gordon STEAL (1 STL),,
+0021000848,312,1,5,3,8:35 PM,5:08,,,Stuckey 2' Layup (16 PTS) (Gordon 2 AST),62 - 69,7
+0021000848,313,9,1,3,8:35 PM,5:07,PACERS Timeout: Regular (Full 3 Short 0),,,,
+0021000848,315,8,0,3,8:37 PM,5:07,SUB: Hansbrough FOR McRoberts,,,,
+0021000848,316,6,2,3,8:37 PM,4:55,,,Monroe S.FOUL (P4.T4),,
+0021000848,317,3,11,3,8:37 PM,4:55,Hibbert Free Throw 1 of 2 (6 PTS),,,62 - 70,8
+0021000848,319,8,0,3,8:38 PM,4:55,,,SUB: Wilcox FOR Monroe,,
+0021000848,320,3,12,3,8:38 PM,4:55,Hibbert Free Throw 2 of 2 (7 PTS),,,62 - 71,9
+0021000848,322,1,1,3,8:38 PM,4:38,,,McGrady 17' Jump Shot (12 PTS),64 - 71,7
+0021000848,323,1,5,3,8:39 PM,4:24,Granger 2' Layup (6 PTS),,,64 - 73,9
+0021000848,324,6,2,3,8:39 PM,4:24,,,Gordon S.FOUL (P4.PN),,
+0021000848,325,3,10,3,8:39 PM,4:24,Granger Free Throw 1 of 1 (7 PTS),,,64 - 74,10
+0021000848,327,1,1,3,8:39 PM,4:04,,,Gordon 20' Jump Shot (9 PTS),66 - 74,8
+0021000848,328,2,5,3,8:40 PM,3:43,MISS George 1' Layup,,Wallace BLOCK (1 BLK),,
+0021000848,329,4,0,3,8:40 PM,3:41,,,Wilcox REBOUND (Off:0 Def:2),,
+0021000848,330,2,1,3,8:40 PM,3:33,,,MISS McGrady 24' 3PT Jump Shot,,
+0021000848,331,4,0,3,8:40 PM,3:32,Granger REBOUND (Off:0 Def:1),,,,
+0021000848,332,2,1,3,8:40 PM,3:26,MISS Granger 26' 3PT Jump Shot,,,,
+0021000848,333,4,0,3,8:40 PM,3:24,,,Wilcox REBOUND (Off:0 Def:3),,
+0021000848,334,5,2,3,8:40 PM,3:18,Collison STEAL (2 STL),,Stuckey Lost Ball Turnover (P4.T10),,
+0021000848,335,1,1,3,8:40 PM,3:03,George 20' Jump Shot (6 PTS),,,66 - 76,10
+0021000848,336,1,1,3,8:41 PM,2:39,,,Wilcox 7' Jump Shot (4 PTS) (McGrady 9 AST),68 - 76,8
+0021000848,338,8,0,3,8:41 PM,2:36,,,SUB: Daye FOR Gordon,,
+0021000848,339,2,1,3,8:41 PM,2:25,MISS Hibbert 9' Jump Shot,,,,
+0021000848,340,4,0,3,8:41 PM,2:23,Hansbrough REBOUND (Off:6 Def:3),,,,
+0021000848,341,2,1,3,8:41 PM,2:20,MISS Hansbrough 5' Jump Shot,,,,
+0021000848,342,4,0,3,8:41 PM,2:19,,,Wilcox REBOUND (Off:0 Def:4),,
+0021000848,343,5,1,3,8:42 PM,2:09,George STEAL (1 STL),,McGrady Bad Pass Turnover (P2.T11),,
+0021000848,344,2,1,3,8:42 PM,1:56,MISS Granger 25' 3PT Jump Shot,,,,
+0021000848,345,4,0,3,8:42 PM,1:54,,,Wallace REBOUND (Off:5 Def:4),,
+0021000848,346,6,27,3,8:42 PM,1:43,Collison Personal Block Foul (P2.T4),,,,
+0021000848,347,8,0,3,8:42 PM,1:43,,,SUB: Bynum FOR Wallace,,
+0021000848,348,8,0,3,8:42 PM,1:43,,,SUB: Maxiell FOR Stuckey,,
+0021000848,349,8,0,3,8:43 PM,1:43,SUB: Price FOR Granger,,,,
+0021000848,350,8,0,3,8:43 PM,1:43,SUB: Foster FOR Hibbert,,,,
+0021000848,351,8,0,3,8:43 PM,1:43,SUB: Rush FOR Collison,,,,
+0021000848,352,2,1,3,8:43 PM,1:36,,,MISS McGrady 18' Jump Shot,,
+0021000848,353,4,0,3,8:43 PM,1:35,George REBOUND (Off:0 Def:3),,,,
+0021000848,354,2,5,3,8:43 PM,1:28,MISS George 2' Layup,,Daye BLOCK (1 BLK),,
+0021000848,355,4,0,3,8:43 PM,1:27,Hansbrough REBOUND (Off:7 Def:3),,,,
+0021000848,356,5,4,3,8:43 PM,1:27,Hansbrough Traveling Turnover (P2.T12),,,,
+0021000848,357,6,2,3,8:44 PM,1:15,Rush S.FOUL (P1.PN),,,,
+0021000848,358,3,11,3,8:44 PM,1:15,,,MISS McGrady Free Throw 1 of 2,,
+0021000848,359,4,1,3,8:44 PM,1:15,,,Pistons Rebound,,
+0021000848,360,3,12,3,8:44 PM,1:15,,,McGrady Free Throw 2 of 2 (13 PTS),69 - 76,7
+0021000848,362,2,1,3,8:45 PM,0:59,MISS Hansbrough 17' Jump Shot,,,,
+0021000848,363,4,0,3,8:45 PM,0:58,,,Wilcox REBOUND (Off:0 Def:5),,
+0021000848,364,2,1,3,8:45 PM,0:47,,,MISS Bynum 18' Jump Shot,,
+0021000848,365,4,0,3,8:45 PM,0:45,Foster REBOUND (Off:3 Def:3),,,,
+0021000848,366,6,1,3,8:45 PM,0:38,,,Maxiell P.FOUL (P1.PN),,
+0021000848,367,3,11,3,8:45 PM,0:38,Price Free Throw 1 of 2 (3 PTS),,,69 - 77,8
+0021000848,369,3,12,3,8:46 PM,0:38,Price Free Throw 2 of 2 (4 PTS),,,69 - 78,9
+0021000848,371,1,1,3,8:46 PM,0:29,,,Bynum  3PT Jump Shot (4 PTS) (McGrady 10 AST),72 - 78,6
+0021000848,372,2,1,3,8:46 PM,0:12,MISS George 17' Jump Shot,,Daye BLOCK (2 BLK),,
+0021000848,373,4,0,3,8:46 PM,0:10,Rush REBOUND (Off:1 Def:1),,,,
+0021000848,374,2,1,3,8:46 PM,0:08,MISS Rush 16' Jump Shot,,,,
+0021000848,375,4,0,3,8:47 PM,0:08,,,McGrady REBOUND (Off:0 Def:5),,
+0021000848,376,6,1,3,8:47 PM,0:08,Hansbrough P.FOUL (P2.PN),,,,
+0021000848,377,3,11,3,8:47 PM,0:08,,,McGrady Free Throw 1 of 2 (14 PTS),73 - 78,5
+0021000848,379,3,12,3,8:47 PM,0:08,,,MISS McGrady Free Throw 2 of 2,,
+0021000848,381,4,0,3,8:48 PM,0:07,Rush REBOUND (Off:1 Def:2),,,,
+0021000848,382,2,1,3,8:48 PM,0:00,MISS Price 32' 3PT Jump Shot,,,,
+0021000848,384,4,0,3,8:48 PM,0:00,PACERS Rebound,,,,
+0021000848,383,13,0,3,8:48 PM,0:00,,,,73 - 78,5
+0021000848,386,12,0,4,8:51 PM,12:00,,,,73 - 78,5
+0021000848,387,1,1,4,8:51 PM,11:44,,,Bynum  3PT Jump Shot (7 PTS) (Daye 1 AST),76 - 78,2
+0021000848,388,1,1,4,8:51 PM,11:31,Hansbrough 16' Jump Shot (18 PTS) (Price 3 AST),,,76 - 80,4
+0021000848,389,2,1,4,8:52 PM,11:11,,,MISS Bynum 25' 3PT Jump Shot,,
+0021000848,390,4,0,4,8:52 PM,11:10,George REBOUND (Off:0 Def:4),,,,
+0021000848,391,6,26,4,8:52 PM,11:02,Price Offensive Charge Foul (P1.T1),,,,
+0021000848,392,5,5,4,8:52 PM,11:02,Price Foul Turnover (P1.T13),,,,
+0021000848,393,8,0,4,8:52 PM,11:02,SUB: Granger FOR George,,,,
+0021000848,394,1,79,4,8:53 PM,10:49,,,Stuckey 17' Pullup Jump Shot (18 PTS),78 - 80,2
+0021000848,395,2,1,4,8:53 PM,10:35,MISS Price 26' 3PT Jump Shot,,,,
+0021000848,396,4,0,4,8:53 PM,10:33,Foster REBOUND (Off:4 Def:3),,,,
+0021000848,397,1,1,4,8:53 PM,10:27,Hansbrough 19' Jump Shot (20 PTS) (Foster 1 AST),,,78 - 82,4
+0021000848,398,2,1,4,8:53 PM,10:04,,,MISS Daye 13' Jump Shot,,
+0021000848,399,4,0,4,8:53 PM,10:02,Rush REBOUND (Off:1 Def:3),,,,
+0021000848,400,2,1,4,8:54 PM,9:56,MISS Price 13' Jump Shot,,,,
+0021000848,401,4,0,4,8:54 PM,9:53,,,Daye REBOUND (Off:2 Def:1),,
+0021000848,402,6,2,4,8:54 PM,9:50,Rush S.FOUL (P2.T2),,,,
+0021000848,403,3,11,4,8:54 PM,9:50,,,Bynum Free Throw 1 of 2 (8 PTS),79 - 82,3
+0021000848,405,3,12,4,8:54 PM,9:50,,,Bynum Free Throw 2 of 2 (9 PTS),80 - 82,2
+0021000848,408,1,1,4,8:55 PM,9:36,Granger 18' Jump Shot (9 PTS),,,80 - 84,4
+0021000848,409,2,1,4,8:55 PM,9:17,,,MISS Maxiell 7' Jump Shot,,
+0021000848,410,4,0,4,8:55 PM,9:16,Granger REBOUND (Off:0 Def:2),,,,
+0021000848,411,6,2,4,8:55 PM,9:10,,,Wilcox S.FOUL (P2.T1),,
+0021000848,412,3,11,4,8:55 PM,9:10,Granger Free Throw 1 of 2 (10 PTS),,,80 - 85,5
+0021000848,414,3,12,4,8:56 PM,9:10,Granger Free Throw 2 of 2 (11 PTS),,,80 - 86,6
+0021000848,416,2,1,4,8:56 PM,8:53,,,MISS Wilcox 7' Jump Shot,,
+0021000848,417,4,0,4,8:56 PM,8:52,Granger REBOUND (Off:0 Def:3),,,,
+0021000848,418,2,1,4,8:57 PM,8:33,MISS Granger 3' Jump Shot,,,,
+0021000848,419,4,0,4,8:57 PM,8:31,,,Wilcox REBOUND (Off:0 Def:6),,
+0021000848,420,5,2,4,8:57 PM,8:29,Hansbrough STEAL (2 STL),,Wilcox Lost Ball Turnover (P1.T12),,
+0021000848,421,2,5,4,8:57 PM,8:26,MISS Hansbrough 2' Layup,,,,
+0021000848,422,4,0,4,8:57 PM,8:25,,,Stuckey REBOUND (Off:1 Def:1),,
+0021000848,423,1,1,4,8:57 PM,8:18,,,Stuckey 25' 3PT Jump Shot (21 PTS) (Bynum 1 AST),83 - 86,3
+0021000848,424,1,1,4,8:57 PM,8:02,Granger 20' Jump Shot (13 PTS),,,83 - 88,5
+0021000848,425,1,1,4,8:58 PM,7:37,,,Wilcox 13' Jump Shot (6 PTS) (Bynum 2 AST),85 - 88,3
+0021000848,426,2,1,4,8:58 PM,7:24,MISS Price 13' Jump Shot,,,,
+0021000848,427,4,0,4,8:58 PM,7:23,,,Maxiell REBOUND (Off:0 Def:1),,
+0021000848,428,9,4,4,8:58 PM,7:21,,,,,
+0021000848,430,8,0,4,9:00 PM,7:21,,,SUB: McGrady FOR Daye,,
+0021000848,431,8,0,4,9:00 PM,7:21,SUB: Hibbert FOR Foster,,,,
+0021000848,432,8,0,4,9:00 PM,7:21,SUB: George FOR Rush,,,,
+0021000848,433,8,0,4,9:00 PM,7:21,SUB: Collison FOR Price,,,,
+0021000848,434,10,0,4,9:01 PM,7:21,Jump Ball Hansbrough vs. Maxiell: Tip to Bynum,,,,
+0021000848,435,5,1,4,9:01 PM,6:59,George STEAL (2 STL),,Stuckey Bad Pass Turnover (P5.T13),,
+0021000848,436,6,2,4,9:01 PM,6:50,,,Stuckey S.FOUL (P3.T2),,
+0021000848,437,3,11,4,9:01 PM,6:50,Collison Free Throw 1 of 2 (10 PTS),,,85 - 89,4
+0021000848,439,8,0,4,9:02 PM,6:50,,,SUB: Monroe FOR Maxiell,,
+0021000848,440,3,12,4,9:02 PM,6:50,Collison Free Throw 2 of 2 (11 PTS),,,85 - 90,5
+0021000848,442,5,2,4,9:02 PM,6:36,Collison STEAL (3 STL),,McGrady Lost Ball Turnover (P3.T14),,
+0021000848,443,1,52,4,9:02 PM,6:31,George 2' Alley Oop Dunk (8 PTS) (Collison 5 AST),,,85 - 92,7
+0021000848,444,1,7,4,9:03 PM,6:01,,,McGrady 1' Dunk (16 PTS) (Stuckey 2 AST),87 - 92,5
+0021000848,445,6,2,4,9:03 PM,5:55,,,Stuckey S.FOUL (P4.T3),,
+0021000848,446,9,1,4,9:03 PM,5:55,PACERS Timeout: Regular (Full 4 Short 0),,,,
+0021000848,448,8,0,4,9:05 PM,5:55,,,SUB: Wallace FOR Wilcox,,
+0021000848,449,8,0,4,9:05 PM,5:55,,,SUB: Gordon FOR Bynum,,
+0021000848,450,3,11,4,9:05 PM,5:55,MISS Hansbrough Free Throw 1 of 2,,,,
+0021000848,451,4,1,4,9:05 PM,5:55,PACERS Rebound,,,,
+0021000848,452,3,12,4,9:06 PM,5:55,Hansbrough Free Throw 2 of 2 (21 PTS),,,87 - 93,6
+0021000848,454,2,1,4,9:06 PM,5:31,,,MISS McGrady 10' Jump Shot,,
+0021000848,455,4,0,4,9:06 PM,5:30,Granger REBOUND (Off:0 Def:4),,,,
+0021000848,456,1,52,4,9:06 PM,5:25,George 1' Alley Oop Dunk (10 PTS) (Collison 6 AST),,,87 - 95,8
+0021000848,457,1,5,4,9:07 PM,5:08,,,Monroe 2' Layup (22 PTS),89 - 95,6
+0021000848,458,6,2,4,9:07 PM,5:08,Hibbert S.FOUL (P3.T3),,,,
+0021000848,459,3,10,4,9:07 PM,5:08,,,Monroe Free Throw 1 of 1 (23 PTS),90 - 95,5
+0021000848,461,5,1,4,9:08 PM,4:52,George Bad Pass Turnover (P3.T14),,,,
+0021000848,462,1,1,4,9:08 PM,4:31,,,Gordon 26' 3PT Jump Shot (12 PTS) (McGrady 11 AST),93 - 95,2
+0021000848,463,2,1,4,9:08 PM,4:14,MISS George 25' 3PT Jump Shot,,,,
+0021000848,464,4,0,4,9:08 PM,4:12,,,Gordon REBOUND (Off:0 Def:1),,
+0021000848,465,2,1,4,9:08 PM,4:02,,,MISS Stuckey 24' 3PT Jump Shot,,
+0021000848,466,4,0,4,9:08 PM,4:00,George REBOUND (Off:0 Def:5),,,,
+0021000848,467,2,5,4,9:09 PM,3:54,MISS Collison 2' Layup,,,,
+0021000848,468,4,0,4,9:09 PM,3:53,,,Monroe REBOUND (Off:5 Def:6),,
+0021000848,469,2,1,4,9:09 PM,3:44,,,MISS McGrady 25' 3PT Jump Shot,,
+0021000848,470,4,0,4,9:09 PM,3:42,Granger REBOUND (Off:0 Def:5),,,,
+0021000848,471,2,5,4,9:09 PM,3:27,MISS Collison 1' Layup,,,,
+0021000848,473,4,0,4,9:09 PM,3:25,Hansbrough REBOUND (Off:8 Def:3),,,,
+0021000848,475,2,53,4,9:09 PM,3:25,MISS Hansbrough  Tip Shot,,,,
+0021000848,474,4,0,4,9:09 PM,3:23,,,Stuckey REBOUND (Off:1 Def:2),,
+0021000848,476,6,2,4,9:09 PM,3:19,Hibbert S.FOUL (P4.T4),,,,
+0021000848,477,3,11,4,9:10 PM,3:19,,,Monroe Free Throw 1 of 2 (24 PTS),94 - 95,1
+0021000848,479,8,0,4,9:10 PM,3:19,SUB: Rush FOR George,,,,
+0021000848,480,3,12,4,9:10 PM,3:19,,,Monroe Free Throw 2 of 2 (25 PTS),95 - 95,TIE
+0021000848,482,2,1,4,9:10 PM,3:00,MISS Hansbrough 18' Jump Shot,,,,
+0021000848,483,4,0,4,9:10 PM,2:59,Granger REBOUND (Off:1 Def:5),,,,
+0021000848,484,1,1,4,9:10 PM,2:53,Granger 24' 3PT Jump Shot (16 PTS),,,95 - 98,3
+0021000848,485,9,1,4,9:10 PM,2:53,,,Pistons Timeout: Regular (Reg.4 Short 0),,
+0021000848,487,1,5,4,9:13 PM,2:31,,,Wallace 2' Layup (6 PTS) (McGrady 12 AST),97 - 98,1
+0021000848,488,5,1,4,9:14 PM,2:11,Granger Bad Pass Turnover (P2.T15),,Stuckey STEAL (1 STL),,
+0021000848,489,2,1,4,9:14 PM,2:04,,,MISS Gordon 22' Jump Shot,,
+0021000848,490,4,0,4,9:14 PM,2:04,,,Monroe REBOUND (Off:6 Def:6),,
+0021000848,491,6,1,4,9:14 PM,2:04,Hibbert P.FOUL (P5.PN),,,,
+0021000848,492,5,39,4,9:14 PM,1:53,,,Monroe Step Out of Bounds Turnover (P1.T15),,
+0021000848,493,6,2,4,9:15 PM,1:37,,,McGrady S.FOUL (P1.T4),,
+0021000848,494,3,11,4,9:15 PM,1:37,Granger Free Throw 1 of 2 (17 PTS),,,97 - 99,2
+0021000848,497,8,0,4,9:16 PM,1:37,SUB: Foster FOR Hibbert,,,,
+0021000848,498,3,12,4,9:16 PM,1:37,Granger Free Throw 2 of 2 (18 PTS),,,97 - 100,3
+0021000848,500,1,66,4,9:16 PM,1:14,,,Monroe 4' Jump Bank Shot (27 PTS),99 - 100,1
+0021000848,501,2,1,4,9:17 PM,0:58,MISS Collison 26' 3PT Jump Shot,,,,
+0021000848,502,4,0,4,9:17 PM,0:57,,,Wallace REBOUND (Off:5 Def:5),,
+0021000848,503,2,1,4,9:17 PM,0:39,,,MISS McGrady 21' Jump Shot,,
+0021000848,504,4,0,4,9:17 PM,0:38,Hansbrough REBOUND (Off:8 Def:4),,,,
+0021000848,505,2,1,4,9:17 PM,0:20,MISS Collison 7' Jump Shot,,Gordon BLOCK (1 BLK),,
+0021000848,506,4,0,4,9:17 PM,0:20,,,Pistons Rebound,,
+0021000848,507,9,1,4,9:17 PM,0:20,,,Pistons Timeout: Regular (Reg.5 Short 0),,
+0021000848,509,8,0,4,9:19 PM,0:20,,,SUB: Daye FOR Wallace,,
+0021000848,510,8,0,4,9:19 PM,0:20,SUB: Hibbert FOR Foster,,,,
+0021000848,512,8,0,4,9:19 PM,0:20,SUB: George FOR Hibbert,,,,
+0021000848,514,1,1,4,9:20 PM,0:11,,,Daye 17' Jump Shot (4 PTS),101 - 100,-1
+0021000848,515,9,1,4,9:20 PM,0:11,PACERS Timeout: Regular (Full 5 Short 0),,,,
+0021000848,519,8,0,4,9:21 PM,0:11,SUB: Hibbert FOR George,,,,
+0021000848,520,8,0,4,9:21 PM,0:11,SUB: McRoberts FOR Hansbrough,,,,
+0021000848,521,8,0,4,9:21 PM,0:11,,,SUB: Wallace FOR Daye,,
+0021000848,522,1,7,4,9:22 PM,0:05,Rush 2' Dunk (9 PTS) (Granger 3 AST),,,101 - 102,1
+0021000848,523,9,2,4,9:22 PM,0:05,,,Pistons Timeout: Short (Reg.5 Short 1),,
+0021000848,525,8,0,4,9:23 PM,0:05,SUB: Hansbrough FOR McRoberts,,,,
+0021000848,526,8,0,4,9:23 PM,0:05,SUB: George FOR Hibbert,,,,
+0021000848,527,8,0,4,9:23 PM,0:05,,,SUB: Daye FOR Wallace,,
+0021000848,528,5,40,4,9:23 PM,0:01,,,Stuckey Out of Bounds Lost Ball Turnover (P6.T16),,
+0021000848,529,9,2,4,9:23 PM,0:01,PACERS Timeout: Short (Full 5 Short 1),,,,
+0021000848,531,8,0,4,9:24 PM,0:01,,,SUB: Bynum FOR Monroe,,
+0021000848,532,8,0,4,9:24 PM,0:01,SUB: McRoberts FOR Rush,,,,
+0021000848,533,8,0,4,9:24 PM,0:01,SUB: Hibbert FOR Hansbrough,,,,
+0021000848,534,8,0,4,9:25 PM,0:01,,,SUB: Summers FOR McGrady,,
+0021000848,536,13,0,4,9:25 PM,0:00,,,,101 - 102,1

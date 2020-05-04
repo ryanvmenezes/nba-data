@@ -1,0 +1,506 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100462,0,12,0,1,8:46 PM,12:00,,,,,
+0020100462,1,10,0,1,8:47 PM,12:00,Jump Ball Miller vs. Marshall: Tip to Collins,,,,
+0020100462,2,2,1,1,8:47 PM,11:37,,,MISS Malone 16' Jump Shot,,
+0020100462,3,4,0,1,8:47 PM,11:34,World Peace REBOUND (Off:0 Def:1),,,,
+0020100462,4,2,1,1,8:47 PM,11:28,MISS World Peace 26' 3PT Jump Shot,,,,
+0020100462,5,4,0,1,8:47 PM,11:28,BULLS Rebound,,,,
+0020100462,6,2,1,1,8:48 PM,11:21,MISS Oakley 20' Jump Shot,,,,
+0020100462,7,4,0,1,8:48 PM,11:18,,,Marshall REBOUND (Off:0 Def:1),,
+0020100462,8,5,2,1,8:48 PM,11:09,Mercer STEAL (1 STL),,Stevenson Lost Ball Turnover (P1.T1),,
+0020100462,9,6,2,1,8:48 PM,10:54,,,Collins S.FOUL (P1.T1),,
+0020100462,10,3,11,1,8:48 PM,10:54,MISS Miller Free Throw 1 of 2,,,,
+0020100462,11,4,1,1,8:48 PM,10:54,BULLS Rebound,,,,
+0020100462,12,3,12,1,8:49 PM,10:54,Miller Free Throw 2 of 2 (1 PTS),,,0 - 1,1
+0020100462,13,1,1,1,8:49 PM,10:42,,,Stevenson 18' Jump Shot (2 PTS) (Malone 1 AST),2 - 1,-1
+0020100462,14,5,2,1,8:49 PM,10:26,Miller Lost Ball Turnover (P1.T1),,,,
+0020100462,15,1,1,1,8:50 PM,10:14,,,Malone 18' Jump Shot (2 PTS) (Stevenson 1 AST),4 - 1,-3
+0020100462,16,5,2,1,8:50 PM,10:01,Anthony Lost Ball Turnover (P1.T2),,Malone STEAL (1 STL),,
+0020100462,17,5,2,1,8:50 PM,9:55,World Peace STEAL (1 STL),,Malone Lost Ball Turnover (P1.T2),,
+0020100462,18,1,1,1,8:50 PM,9:49,Oakley 13' Jump Shot (2 PTS) (World Peace 1 AST),,,4 - 3,-1
+0020100462,19,2,5,1,8:50 PM,9:32,,,MISS Stockton  Layup,,
+0020100462,21,4,0,1,8:50 PM,9:28,,,Collins REBOUND (Off:1 Def:0),,
+0020100462,20,1,4,1,8:50 PM,9:28,,,Collins  Tip Shot (2 PTS),6 - 3,-3
+0020100462,22,2,1,1,8:51 PM,9:07,MISS Anthony 20' Jump Shot,,,,
+0020100462,23,4,0,1,8:51 PM,9:04,,,Collins REBOUND (Off:1 Def:1),,
+0020100462,24,5,1,1,8:51 PM,8:56,World Peace STEAL (2 STL),,Stockton Bad Pass Turnover (P1.T3),,
+0020100462,25,6,1,1,8:51 PM,8:55,,,Stockton P.FOUL (P1.T2),,
+0020100462,26,1,1,1,8:52 PM,8:37,World Peace 21' Jump Shot (2 PTS) (Anthony 1 AST),,,6 - 5,-1
+0020100462,27,6,1,1,8:52 PM,8:15,Oakley P.FOUL (P1.T1),,,,
+0020100462,28,5,2,1,8:52 PM,8:12,World Peace STEAL (3 STL),,Stockton Lost Ball Turnover (P2.T4),,
+0020100462,30,7,2,1,8:52 PM,8:08,,,Collins Violation:Defensive Goaltending,,
+0020100462,29,1,5,1,8:52 PM,8:08,Anthony  Layup (2 PTS) (World Peace 2 AST),,,6 - 7,1
+0020100462,31,1,1,1,8:53 PM,7:43,,,Stockton 14' Jump Shot (2 PTS),8 - 7,-1
+0020100462,32,2,5,1,8:53 PM,7:27,MISS World Peace  Layup,,,,
+0020100462,33,4,0,1,8:53 PM,7:25,Miller REBOUND (Off:1 Def:0),,,,
+0020100462,34,5,2,1,8:53 PM,7:23,Miller Lost Ball Turnover (P2.T3),,Collins STEAL (1 STL),,
+0020100462,35,1,5,1,8:53 PM,7:14,,,Marshall  Layup (2 PTS) (Stevenson 2 AST),10 - 7,-3
+0020100462,38,6,2,1,8:54 PM,6:56,,,Stevenson S.FOUL (P1.T3),,
+0020100462,39,3,11,1,8:54 PM,6:56,Mercer Free Throw 1 of 2 (1 PTS),,,10 - 8,-2
+0020100462,40,3,12,1,8:54 PM,6:56,Mercer Free Throw 2 of 2 (2 PTS),,,10 - 9,-1
+0020100462,41,2,1,1,8:55 PM,6:38,,,MISS Malone 7' Jump Shot,,
+0020100462,42,4,0,1,8:55 PM,6:34,Miller REBOUND (Off:1 Def:1),,,,
+0020100462,43,2,1,1,8:55 PM,6:27,MISS Oakley 19' Jump Shot,,,,
+0020100462,44,4,0,1,8:55 PM,6:24,,,Malone REBOUND (Off:0 Def:1),,
+0020100462,45,1,7,1,8:55 PM,6:21,,,Marshall  Dunk (4 PTS) (Stockton 1 AST),12 - 9,-3
+0020100462,46,6,1,1,8:55 PM,6:06,,,Collins P.FOUL (P2.T4),,
+0020100462,47,8,0,1,8:56 PM,6:06,,,SUB: Ostertag FOR Collins,,
+0020100462,48,1,1,1,8:56 PM,6:01,Mercer 21' Jump Shot (4 PTS),,,12 - 11,-1
+0020100462,49,2,5,1,8:56 PM,5:42,,,MISS Stockton  Layup,,
+0020100462,50,4,0,1,8:56 PM,5:39,,,Ostertag REBOUND (Off:1 Def:0),,
+0020100462,51,6,2,1,8:56 PM,5:39,Miller S.FOUL (P1.T2),,,,
+0020100462,52,9,1,1,8:56 PM,5:39,BULLS Timeout: Regular (Full 1 Short 0),,,,
+0020100462,54,8,0,1,8:58 PM,5:39,,,SUB: Crotty FOR Stockton,,
+0020100462,55,8,0,1,8:58 PM,5:39,SUB: Fizer FOR Miller,,,,
+0020100462,56,3,11,1,8:59 PM,5:39,,,Ostertag Free Throw 1 of 2 (1 PTS),13 - 11,-2
+0020100462,57,3,12,1,8:59 PM,5:39,,,Ostertag Free Throw 2 of 2 (2 PTS),14 - 11,-3
+0020100462,58,2,3,1,8:59 PM,5:24,MISS Fizer 8' Hook Shot,,,,
+0020100462,59,4,0,1,8:59 PM,5:22,Fizer REBOUND (Off:1 Def:0),,,,
+0020100462,60,2,1,1,8:59 PM,5:21,MISS Fizer 6' Jump Shot,,Marshall BLOCK (1 BLK),,
+0020100462,61,4,0,1,8:59 PM,5:19,Fizer REBOUND (Off:2 Def:0),,,,
+0020100462,62,1,1,1,8:59 PM,5:16,Mercer 12' Jump Shot (6 PTS) (Fizer 1 AST),,,14 - 13,-1
+0020100462,63,2,1,1,9:00 PM,4:53,,,MISS Marshall 21' Jump Shot,,
+0020100462,64,4,0,1,9:00 PM,4:51,,,Jazz Rebound,,
+0020100462,65,8,0,1,9:00 PM,4:51,SUB: Ollie FOR Anthony,,,,
+0020100462,66,1,1,1,9:00 PM,4:48,,,Stevenson 14' Jump Shot (4 PTS) (Malone 2 AST),16 - 13,-3
+0020100462,67,1,1,1,9:01 PM,4:31,Mercer 19' Jump Shot (8 PTS) (Oakley 1 AST),,,16 - 15,-1
+0020100462,68,6,2,1,9:01 PM,4:07,Fizer S.FOUL (P1.T3),,,,
+0020100462,69,3,11,1,9:01 PM,4:07,,,MISS Marshall Free Throw 1 of 2,,
+0020100462,70,4,1,1,9:01 PM,4:07,,,Jazz Rebound,,
+0020100462,71,3,12,1,9:01 PM,4:07,,,Marshall Free Throw 2 of 2 (5 PTS),17 - 15,-2
+0020100462,72,1,1,1,9:02 PM,3:53,Oakley 18' Jump Shot (4 PTS) (Mercer 1 AST),,,17 - 17,TIE
+0020100462,73,6,1,1,9:02 PM,3:33,Fizer P.FOUL (P2.T4),,,,
+0020100462,74,6,11,1,9:03 PM,3:33,Fizer T.FOUL (P2.T4),,,,
+0020100462,75,3,16,1,9:03 PM,3:33,,,Malone Free Throw Technical (3 PTS),18 - 17,-1
+0020100462,76,3,11,1,9:03 PM,3:33,,,Ostertag Free Throw 1 of 2 (3 PTS),19 - 17,-2
+0020100462,77,8,0,1,9:03 PM,3:33,SUB: Curry FOR Fizer,,,,
+0020100462,78,3,12,1,9:03 PM,3:33,,,Ostertag Free Throw 2 of 2 (4 PTS),20 - 17,-3
+0020100462,79,6,2,1,9:04 PM,3:25,,,Stevenson S.FOUL (P2.PN),,
+0020100462,80,3,11,1,9:04 PM,3:25,Mercer Free Throw 1 of 2 (9 PTS),,,20 - 18,-2
+0020100462,81,8,0,1,9:04 PM,3:25,,,SUB: Russell FOR Stevenson,,
+0020100462,82,3,12,1,9:04 PM,3:25,Mercer Free Throw 2 of 2 (10 PTS),,,20 - 19,-1
+0020100462,83,1,1,1,9:05 PM,3:00,,,Malone  3PT Jump Shot (6 PTS) (Crotty 1 AST),23 - 19,-4
+0020100462,84,1,1,1,9:05 PM,2:42,Mercer 21' Jump Shot (12 PTS) (Ollie 1 AST),,,23 - 21,-2
+0020100462,85,2,1,1,9:05 PM,2:20,,,MISS Malone 10' Jump Shot,,
+0020100462,86,4,0,1,9:05 PM,2:18,Ollie REBOUND (Off:0 Def:1),,,,
+0020100462,87,9,1,1,9:06 PM,2:13,,,Jazz Timeout: Regular (Reg.1 Short 0),,
+0020100462,89,8,0,1,9:07 PM,2:13,,,SUB: Kirilenko FOR Marshall,,
+0020100462,90,8,0,1,9:07 PM,2:13,SUB: Hoiberg FOR World Peace,,,,
+0020100462,91,2,5,1,9:08 PM,1:59,MISS Mercer  Layup,,,,
+0020100462,92,4,0,1,9:08 PM,1:57,,,Kirilenko REBOUND (Off:0 Def:1),,
+0020100462,93,1,1,1,9:08 PM,1:42,,,Russell 25' 3PT Jump Shot (3 PTS) (Crotty 2 AST),26 - 21,-5
+0020100462,94,1,1,1,9:09 PM,1:20,Oakley 18' Jump Shot (6 PTS) (Ollie 2 AST),,,26 - 23,-3
+0020100462,95,2,5,1,9:09 PM,1:01,Curry BLOCK (1 BLK),,MISS Malone  Layup,,
+0020100462,96,4,0,1,9:09 PM,1:00,,,Malone REBOUND (Off:1 Def:1),,
+0020100462,97,6,2,1,9:09 PM,1:00,Oakley S.FOUL (P2.PN),,,,
+0020100462,98,6,11,1,9:09 PM,1:00,Oakley T.FOUL (P2.PN),,,,
+0020100462,99,3,16,1,9:09 PM,1:00,,,Malone Free Throw Technical (7 PTS),27 - 23,-4
+0020100462,100,3,11,1,9:10 PM,1:00,,,Malone Free Throw 1 of 2 (8 PTS),28 - 23,-5
+0020100462,102,8,0,1,9:10 PM,1:00,SUB: World Peace FOR Oakley,,,,
+0020100462,103,3,12,1,9:11 PM,1:00,,,Malone Free Throw 2 of 2 (9 PTS),29 - 23,-6
+0020100462,104,2,1,1,9:11 PM,0:49,MISS Curry 18' Jump Shot,,,,
+0020100462,105,4,0,1,9:11 PM,0:45,,,Malone REBOUND (Off:1 Def:2),,
+0020100462,106,1,1,1,9:12 PM,0:32,,,Malone 11' Jump Shot (11 PTS) (Russell 1 AST),31 - 23,-8
+0020100462,107,6,2,1,9:12 PM,0:32,World Peace S.FOUL (P1.PN),,,,
+0020100462,108,3,10,1,9:12 PM,0:32,,,Malone Free Throw 1 of 1 (12 PTS),32 - 23,-9
+0020100462,109,2,1,1,9:12 PM,0:11,MISS Mercer 20' Jump Shot,,,,
+0020100462,110,4,0,1,9:12 PM,0:10,Mercer REBOUND (Off:1 Def:0),,,,
+0020100462,111,1,1,1,9:13 PM,0:05,World Peace 25' 3PT Jump Shot (5 PTS) (Hoiberg 1 AST),,,32 - 26,-6
+0020100462,112,2,5,1,9:13 PM,0:00,,,MISS Crotty  Layup,,
+0020100462,114,4,0,1,9:13 PM,0:00,,,Jazz Rebound,,
+0020100462,113,13,0,1,9:13 PM,0:00,,,,32 - 26,-6
+0020100462,116,12,0,2,9:15 PM,12:00,,,,32 - 26,-6
+0020100462,117,6,2,2,9:16 PM,11:44,,,Ostertag S.FOUL (P1.T1),,
+0020100462,118,3,11,2,9:16 PM,11:44,Hoiberg Free Throw 1 of 2 (1 PTS),,,32 - 27,-5
+0020100462,119,3,12,2,9:16 PM,11:44,Hoiberg Free Throw 2 of 2 (2 PTS),,,32 - 28,-4
+0020100462,121,6,2,2,9:17 PM,11:24,Curry S.FOUL (P1.T1),,,,
+0020100462,122,3,11,2,9:17 PM,11:24,,,Kirilenko Free Throw 1 of 2 (1 PTS),33 - 28,-5
+0020100462,123,8,0,2,9:17 PM,11:24,,,SUB: Marshall FOR Malone,,
+0020100462,124,3,12,2,9:17 PM,11:24,,,MISS Kirilenko Free Throw 2 of 2,,
+0020100462,125,4,0,2,9:17 PM,11:23,Curry REBOUND (Off:0 Def:1),,,,
+0020100462,126,2,1,2,9:17 PM,11:10,MISS Mercer 17' Jump Shot,,,,
+0020100462,127,4,0,2,9:18 PM,11:09,,,Ostertag REBOUND (Off:1 Def:1),,
+0020100462,128,6,4,2,9:18 PM,11:02,,,Marshall OFF.Foul (P1),,
+0020100462,129,5,5,2,9:18 PM,11:02,,,Marshall Foul Turnover (P1.T5),,
+0020100462,130,2,3,2,9:18 PM,10:45,MISS Ollie 8' Hook Shot,,,,
+0020100462,131,4,0,2,9:18 PM,10:44,,,Ostertag REBOUND (Off:1 Def:2),,
+0020100462,132,2,5,2,9:18 PM,10:32,Curry BLOCK (2 BLK),,MISS Crotty  Layup,,
+0020100462,133,4,0,2,9:18 PM,10:31,,,Ostertag REBOUND (Off:2 Def:2),,
+0020100462,134,6,2,2,9:18 PM,10:31,Mercer S.FOUL (P1.T2),,,,
+0020100462,135,3,11,2,9:19 PM,10:31,,,MISS Ostertag Free Throw 1 of 2,,
+0020100462,136,4,1,2,9:19 PM,10:31,,,Jazz Rebound,,
+0020100462,137,3,12,2,9:19 PM,10:31,,,MISS Ostertag Free Throw 2 of 2,,
+0020100462,138,4,0,2,9:19 PM,10:29,Hoiberg REBOUND (Off:0 Def:1),,,,
+0020100462,139,6,2,2,9:19 PM,10:16,,,Ostertag S.FOUL (P2.T2),,
+0020100462,140,3,11,2,9:20 PM,10:16,Curry Free Throw 1 of 2 (1 PTS),,,33 - 29,-4
+0020100462,141,3,12,2,9:20 PM,10:16,Curry Free Throw 2 of 2 (2 PTS),,,33 - 30,-3
+0020100462,142,6,2,2,9:20 PM,10:03,Hoiberg S.FOUL (P1.T3),,,,
+0020100462,143,8,0,2,9:20 PM,10:03,SUB: Hassell FOR Mercer,,,,
+0020100462,144,3,11,2,9:20 PM,10:03,,,Kirilenko Free Throw 1 of 2 (2 PTS),34 - 30,-4
+0020100462,145,3,12,2,9:21 PM,10:03,,,Kirilenko Free Throw 2 of 2 (3 PTS),35 - 30,-5
+0020100462,146,1,1,2,9:21 PM,9:46,Hoiberg 19' Jump Shot (4 PTS) (Hassell 1 AST),,,35 - 32,-3
+0020100462,147,5,1,2,9:22 PM,9:29,,,Kirilenko Bad Pass Turnover (P1.T6),,
+0020100462,148,1,1,2,9:22 PM,9:12,World Peace 13' Jump Shot (7 PTS) (Hassell 2 AST),,,35 - 34,-1
+0020100462,149,1,3,2,9:23 PM,8:56,,,Crotty 9' Hook Shot (2 PTS),37 - 34,-3
+0020100462,150,6,2,2,9:23 PM,8:42,,,Kirilenko S.FOUL (P1.T3),,
+0020100462,151,9,1,2,9:23 PM,8:42,,,,,
+0020100462,153,3,11,2,9:25 PM,8:42,MISS Hoiberg Free Throw 1 of 2,,,,
+0020100462,154,4,1,2,9:25 PM,8:42,BULLS Rebound,,,,
+0020100462,155,3,12,2,9:25 PM,8:42,Hoiberg Free Throw 2 of 2 (5 PTS),,,37 - 35,-2
+0020100462,156,6,1,2,9:26 PM,8:23,Hassell P.FOUL (P1.T4),,,,
+0020100462,157,6,2,2,9:26 PM,8:12,World Peace S.FOUL (P2.PN),,,,
+0020100462,158,3,11,2,9:26 PM,8:12,,,MISS Marshall Free Throw 1 of 2,,
+0020100462,159,4,1,2,9:26 PM,8:12,,,Jazz Rebound,,
+0020100462,160,3,12,2,9:27 PM,8:12,,,Marshall Free Throw 2 of 2 (6 PTS),38 - 35,-3
+0020100462,161,1,1,2,9:27 PM,7:59,World Peace 14' Jump Shot (9 PTS) (Ollie 3 AST),,,38 - 37,-1
+0020100462,162,6,2,2,9:27 PM,7:41,Curry S.FOUL (P2.PN),,,,
+0020100462,163,3,11,2,9:28 PM,7:41,,,Marshall Free Throw 1 of 2 (7 PTS),39 - 37,-2
+0020100462,165,3,12,2,9:28 PM,7:41,,,Marshall Free Throw 2 of 2 (8 PTS),40 - 37,-3
+0020100462,166,1,1,2,9:28 PM,7:27,Hassell 20' Jump Shot (2 PTS) (Curry 1 AST),,,40 - 39,-1
+0020100462,167,1,1,2,9:29 PM,7:03,,,Kirilenko 8' Jump Shot (5 PTS) (Crotty 3 AST),42 - 39,-3
+0020100462,168,2,5,2,9:29 PM,6:40,MISS Curry  Layup,,,,
+0020100462,169,4,0,2,9:29 PM,6:38,,,Marshall REBOUND (Off:0 Def:2),,
+0020100462,170,1,7,2,9:29 PM,6:33,,,Marshall  Dunk (10 PTS) (Crotty 4 AST),44 - 39,-5
+0020100462,171,6,2,2,9:29 PM,6:33,Curry S.FOUL (P3.PN),,,,
+0020100462,172,8,0,2,9:30 PM,6:33,,,SUB: Stockton FOR Crotty,,
+0020100462,173,8,0,2,9:30 PM,6:33,SUB: Mercer FOR Hoiberg,,,,
+0020100462,174,8,0,2,9:30 PM,6:33,SUB: Oakley FOR Curry,,,,
+0020100462,175,3,10,2,9:30 PM,6:33,,,Marshall Free Throw 1 of 1 (11 PTS),45 - 39,-6
+0020100462,176,1,1,2,9:30 PM,6:17,World Peace 25' 3PT Jump Shot (12 PTS) (Mercer 2 AST),,,45 - 42,-3
+0020100462,177,1,5,2,9:31 PM,6:01,,,Stockton  Layup (4 PTS),47 - 42,-5
+0020100462,178,1,1,2,9:31 PM,5:47,Oakley 16' Jump Shot (8 PTS) (Ollie 4 AST),,,47 - 44,-3
+0020100462,179,2,1,2,9:31 PM,5:30,,,MISS Ostertag 19' Jump Shot,,
+0020100462,180,4,0,2,9:31 PM,5:28,Oakley REBOUND (Off:0 Def:1),,,,
+0020100462,181,2,1,2,9:31 PM,5:10,MISS Oakley 17' Jump Shot,,,,
+0020100462,182,4,0,2,9:31 PM,5:08,World Peace REBOUND (Off:1 Def:1),,,,
+0020100462,183,5,1,2,9:32 PM,5:05,World Peace Bad Pass Turnover (P1.T4),,Stockton STEAL (1 STL),,
+0020100462,184,2,5,2,9:32 PM,5:01,,,MISS Kirilenko  Layup,,
+0020100462,185,4,0,2,9:32 PM,4:59,Mercer REBOUND (Off:1 Def:1),,,,
+0020100462,186,2,5,2,9:32 PM,4:52,MISS Mercer  Layup,,Ostertag BLOCK (1 BLK),,
+0020100462,187,4,0,2,9:32 PM,4:50,Hassell REBOUND (Off:1 Def:0),,,,
+0020100462,188,1,5,2,9:32 PM,4:48,Hassell  Layup (4 PTS),,,47 - 46,-1
+0020100462,189,2,1,2,9:32 PM,4:36,,,MISS Kirilenko 22' Jump Shot,,
+0020100462,190,4,0,2,9:32 PM,4:33,Oakley REBOUND (Off:0 Def:2),,,,
+0020100462,191,6,2,2,9:32 PM,4:30,,,Stockton S.FOUL (P2.T4),,
+0020100462,192,9,1,2,9:32 PM,4:30,BULLS Timeout: Regular (Full 2 Short 0),,,,
+0020100462,194,8,0,2,9:34 PM,4:30,,,SUB: Malone FOR Kirilenko,,
+0020100462,195,8,0,2,9:34 PM,4:30,,,SUB: Padgett FOR Ostertag,,
+0020100462,196,8,0,2,9:35 PM,4:30,SUB: Fizer FOR World Peace,,,,
+0020100462,197,3,11,2,9:35 PM,4:30,Ollie Free Throw 1 of 2 (1 PTS),,,47 - 47,TIE
+0020100462,198,3,12,2,9:35 PM,4:30,Ollie Free Throw 2 of 2 (2 PTS),,,47 - 48,1
+0020100462,199,2,1,2,9:36 PM,4:16,,,MISS Stockton 18' Jump Shot,,
+0020100462,200,4,0,2,9:36 PM,4:13,,,Marshall REBOUND (Off:1 Def:2),,
+0020100462,201,1,5,2,9:36 PM,4:12,,,Marshall  Layup (13 PTS),49 - 48,-1
+0020100462,202,2,1,2,9:36 PM,3:57,MISS Oakley 18' Jump Shot,,,,
+0020100462,203,4,0,2,9:36 PM,3:55,,,Russell REBOUND (Off:0 Def:1),,
+0020100462,204,2,1,2,9:36 PM,3:49,,,MISS Malone 16' Jump Shot,,
+0020100462,205,4,0,2,9:36 PM,3:47,,,Jazz Rebound,,
+0020100462,206,6,3,2,9:36 PM,3:47,Hassell L.B.FOUL (P2.PN),,,,
+0020100462,207,8,0,2,9:36 PM,3:47,SUB: Guyton FOR Ollie,,,,
+0020100462,208,3,11,2,9:36 PM,3:47,,,MISS Marshall Free Throw 1 of 2,,
+0020100462,209,4,1,2,9:36 PM,3:47,,,Jazz Rebound,,
+0020100462,210,3,12,2,9:37 PM,3:47,,,Marshall Free Throw 2 of 2 (14 PTS),50 - 48,-2
+0020100462,211,5,1,2,9:37 PM,3:28,Hassell Bad Pass Turnover (P1.T5),,Russell STEAL (1 STL),,
+0020100462,212,2,1,2,9:37 PM,3:15,Guyton BLOCK (1 BLK),,MISS Stockton 14' Jump Shot,,
+0020100462,213,4,0,2,9:37 PM,3:12,Oakley REBOUND (Off:0 Def:3),,,,
+0020100462,214,2,1,2,9:38 PM,2:53,MISS Guyton 16' Jump Shot,,,,
+0020100462,215,4,0,2,9:38 PM,2:51,,,Malone REBOUND (Off:1 Def:3),,
+0020100462,216,5,1,2,9:38 PM,2:44,Oakley STEAL (1 STL),,Stockton Bad Pass Turnover (P3.T7),,
+0020100462,217,2,1,2,9:38 PM,2:25,MISS Hassell 24' 3PT Jump Shot,,,,
+0020100462,218,4,0,2,9:38 PM,2:24,,,Jazz Rebound,,
+0020100462,219,9,1,2,9:38 PM,2:24,,,Jazz Timeout: Regular (Reg.2 Short 0),,
+0020100462,221,6,2,2,9:41 PM,2:12,Mercer S.FOUL (P2.PN),,,,
+0020100462,222,3,11,2,9:41 PM,2:12,,,Padgett Free Throw 1 of 2 (1 PTS),51 - 48,-3
+0020100462,223,3,12,2,9:41 PM,2:12,,,Padgett Free Throw 2 of 2 (2 PTS),52 - 48,-4
+0020100462,224,5,8,2,9:42 PM,1:58,Fizer 3 Second Violation Turnover (P1.T6),,,,
+0020100462,225,1,5,2,9:42 PM,1:43,,,Russell  Layup (5 PTS) (Stockton 2 AST),54 - 48,-6
+0020100462,226,2,1,2,9:42 PM,1:26,MISS Fizer 8' Jump Shot,,,,
+0020100462,227,4,0,2,9:42 PM,1:25,,,Stockton REBOUND (Off:0 Def:1),,
+0020100462,228,1,41,2,9:42 PM,1:21,,,Padgett  Running Layup (4 PTS) (Marshall 1 AST),56 - 48,-8
+0020100462,229,6,2,2,9:42 PM,1:21,Guyton S.FOUL (P1.PN),,,,
+0020100462,230,3,10,2,9:43 PM,1:21,,,Padgett Free Throw 1 of 1 (5 PTS),57 - 48,-9
+0020100462,231,6,4,2,9:43 PM,1:12,Fizer OFF.Foul (P3),,,,
+0020100462,232,5,5,2,9:43 PM,1:12,Fizer Foul Turnover (P2.T7),,,,
+0020100462,233,1,1,2,9:44 PM,0:54,,,Malone 15' Jump Shot (14 PTS) (Stockton 3 AST),59 - 48,-11
+0020100462,234,2,1,2,9:44 PM,0:32,MISS Guyton 24' 3PT Jump Shot,,,,
+0020100462,235,4,0,2,9:44 PM,0:31,,,Russell REBOUND (Off:0 Def:2),,
+0020100462,236,8,0,2,9:45 PM,0:12,SUB: World Peace FOR Fizer,,,,
+0020100462,237,2,1,2,9:45 PM,0:08,,,MISS Russell 13' Jump Shot,,
+0020100462,238,4,0,2,9:45 PM,0:05,World Peace REBOUND (Off:1 Def:2),,,,
+0020100462,239,9,2,2,9:46 PM,0:04,BULLS Timeout: Short (Full 2 Short 1),,,,
+0020100462,240,9,2,2,9:47 PM,0:04,,,Jazz Timeout: Short (Reg.2 Short 1),,
+0020100462,241,8,0,2,9:47 PM,0:04,,,SUB: Crotty FOR Stockton,,
+0020100462,242,2,5,2,9:48 PM,0:00,MISS World Peace  Layup,,,,
+0020100462,244,4,0,2,9:48 PM,0:00,BULLS Rebound,,,,
+0020100462,243,13,0,2,9:48 PM,0:00,,,,59 - 48,-11
+0020100462,246,12,0,3,10:04 PM,12:00,,,,59 - 48,-11
+0020100462,247,2,1,3,10:05 PM,11:36,MISS Fizer 15' Jump Shot,,,,
+0020100462,248,4,0,3,10:05 PM,11:34,,,Collins REBOUND (Off:1 Def:2),,
+0020100462,249,6,1,3,10:05 PM,11:31,Anthony P.FOUL (P1.T1),,,,
+0020100462,250,1,1,3,10:05 PM,11:28,,,Malone 17' Jump Shot (16 PTS) (Marshall 2 AST),61 - 48,-13
+0020100462,251,2,1,3,10:05 PM,11:06,MISS Mercer 13' Jump Shot,,Stevenson BLOCK (1 BLK),,
+0020100462,252,4,0,3,10:05 PM,11:02,,,Marshall REBOUND (Off:1 Def:3),,
+0020100462,253,2,1,3,10:06 PM,10:52,,,MISS Stockton 14' Jump Shot,,
+0020100462,254,4,0,3,10:06 PM,10:50,,,Stockton REBOUND (Off:1 Def:1),,
+0020100462,255,1,1,3,10:06 PM,10:41,,,Malone 19' Jump Shot (18 PTS) (Stevenson 3 AST),63 - 48,-15
+0020100462,256,9,2,3,10:06 PM,10:34,BULLS Timeout: Short (Full 2 Short 2),,,,
+0020100462,257,5,3,3,10:07 PM,10:32,Anthony Out Of Bounds Turnover (P2.T8),,,,
+0020100462,258,2,1,3,10:07 PM,10:18,,,MISS Stevenson 20' Jump Shot,,
+0020100462,259,4,0,3,10:07 PM,10:16,Mercer REBOUND (Off:1 Def:2),,,,
+0020100462,260,1,1,3,10:08 PM,10:09,Fizer 17' Jump Shot (2 PTS) (Anthony 2 AST),,,63 - 50,-13
+0020100462,261,1,5,3,10:08 PM,9:57,,,Marshall  Layup (16 PTS) (Stevenson 4 AST),65 - 50,-15
+0020100462,262,6,4,3,10:08 PM,9:50,World Peace OFF.Foul (P3),,,,
+0020100462,263,5,5,3,10:08 PM,9:50,World Peace Foul Turnover (P2.T9),,,,
+0020100462,264,6,1,3,10:08 PM,9:36,Fizer P.FOUL (P4.T2),,,,
+0020100462,265,2,1,3,10:09 PM,9:26,,,MISS Malone 11' Jump Shot,,
+0020100462,266,4,0,3,10:09 PM,9:24,,,Collins REBOUND (Off:2 Def:2),,
+0020100462,267,2,1,3,10:09 PM,9:20,,,MISS Malone 14' Jump Shot,,
+0020100462,268,4,0,3,10:09 PM,9:19,World Peace REBOUND (Off:1 Def:3),,,,
+0020100462,269,1,5,3,10:09 PM,9:09,Fizer  Layup (4 PTS) (Mercer 3 AST),,,65 - 52,-13
+0020100462,270,6,1,3,10:09 PM,8:59,Anthony P.FOUL (P2.T3),,,,
+0020100462,271,8,0,3,10:10 PM,8:59,SUB: Chandler FOR Fizer,,,,
+0020100462,272,6,2,3,10:10 PM,8:46,World Peace S.FOUL (P4.T4),,,,
+0020100462,273,3,11,3,10:10 PM,8:46,,,Marshall Free Throw 1 of 2 (17 PTS),66 - 52,-14
+0020100462,276,7,3,3,10:11 PM,8:46,World Peace Violation:Lane,,,,
+0020100462,277,3,12,3,10:11 PM,8:46,,,Marshall Free Throw 2 of 2 (18 PTS),67 - 52,-15
+0020100462,278,1,5,3,10:12 PM,8:32,World Peace  Layup (14 PTS),,,67 - 54,-13
+0020100462,279,6,2,3,10:12 PM,8:32,,,Marshall S.FOUL (P2.T1),,
+0020100462,280,3,10,3,10:12 PM,8:32,World Peace Free Throw 1 of 1 (15 PTS),,,67 - 55,-12
+0020100462,281,6,2,3,10:12 PM,8:17,Oakley S.FOUL (P3.PN),,,,
+0020100462,282,8,0,3,10:13 PM,8:17,SUB: Hassell FOR World Peace,,,,
+0020100462,283,3,11,3,10:13 PM,8:17,,,Marshall Free Throw 1 of 2 (19 PTS),68 - 55,-13
+0020100462,284,3,12,3,10:13 PM,8:17,,,MISS Marshall Free Throw 2 of 2,,
+0020100462,285,4,0,3,10:13 PM,8:15,Oakley REBOUND (Off:0 Def:4),,,,
+0020100462,286,5,1,3,10:13 PM,7:57,Chandler Bad Pass Turnover (P1.T10),,Malone STEAL (2 STL),,
+0020100462,287,5,8,3,10:14 PM,7:50,,,Malone 3 Second Violation Turnover (P2.T8),,
+0020100462,288,1,1,3,10:14 PM,7:35,Chandler 6' Jump Shot (2 PTS) (Mercer 4 AST),,,68 - 57,-11
+0020100462,289,1,1,3,10:14 PM,7:16,,,Malone 19' Jump Shot (20 PTS) (Stockton 4 AST),70 - 57,-13
+0020100462,290,6,2,3,10:15 PM,7:03,,,Collins S.FOUL (P3.T2),,
+0020100462,291,3,11,3,10:15 PM,7:03,Oakley Free Throw 1 of 2 (9 PTS),,,70 - 58,-12
+0020100462,292,3,12,3,10:15 PM,7:03,Oakley Free Throw 2 of 2 (10 PTS),,,70 - 59,-11
+0020100462,293,2,1,3,10:16 PM,6:47,Chandler BLOCK (1 BLK),,MISS Malone 9' Jump Shot,,
+0020100462,294,4,0,3,10:16 PM,6:47,BULLS Rebound,,,,
+0020100462,295,5,1,3,10:16 PM,6:46,Oakley Bad Pass Turnover (P1.T11),,Marshall STEAL (1 STL),,
+0020100462,296,2,1,3,10:16 PM,6:37,,,MISS Stockton 25' 3PT Jump Shot,,
+0020100462,297,4,0,3,10:16 PM,6:37,Oakley REBOUND (Off:0 Def:5),,,,
+0020100462,298,6,3,3,10:16 PM,6:37,,,Collins L.B.FOUL (P4.T3),,
+0020100462,299,8,0,3,10:16 PM,6:37,,,SUB: Ostertag FOR Collins,,
+0020100462,300,1,1,3,10:17 PM,6:24,Mercer 18' Jump Shot (14 PTS) (Anthony 3 AST),,,70 - 61,-9
+0020100462,301,6,4,3,10:17 PM,6:02,,,Malone OFF.Foul (P1),,
+0020100462,302,5,5,3,10:17 PM,6:02,,,Malone Foul Turnover (P3.T9),,
+0020100462,303,2,5,3,10:17 PM,5:51,MISS Anthony  Layup,,,,
+0020100462,304,4,0,3,10:17 PM,5:50,BULLS Rebound,,,,
+0020100462,305,9,1,3,10:17 PM,5:48,BULLS Timeout: Regular (Full 3 Short 2),,,,
+0020100462,307,5,1,3,10:20 PM,5:46,Anthony Bad Pass Turnover (P3.T12),,Stockton STEAL (2 STL),,
+0020100462,308,6,2,3,10:20 PM,5:43,Oakley S.FOUL (P4.PN),,,,
+0020100462,309,3,11,3,10:20 PM,5:43,,,Malone Free Throw 1 of 2 (21 PTS),71 - 61,-10
+0020100462,310,3,12,3,10:20 PM,5:43,,,MISS Malone Free Throw 2 of 2,,
+0020100462,311,4,0,3,10:21 PM,5:42,Oakley REBOUND (Off:0 Def:6),,,,
+0020100462,312,6,1,3,10:21 PM,5:31,,,Stockton P.FOUL (P3.T4),,
+0020100462,313,8,0,3,10:21 PM,5:31,,,SUB: Crotty FOR Stockton,,
+0020100462,314,6,1,3,10:21 PM,5:22,,,Crotty P.FOUL (P1.PN),,
+0020100462,315,3,11,3,10:22 PM,5:22,MISS Anthony Free Throw 1 of 2,,,,
+0020100462,316,4,1,3,10:22 PM,5:22,BULLS Rebound,,,,
+0020100462,317,3,12,3,10:22 PM,5:22,Anthony Free Throw 2 of 2 (3 PTS),,,71 - 62,-9
+0020100462,318,5,2,3,10:22 PM,5:01,Anthony STEAL (1 STL),,Marshall Lost Ball Turnover (P2.T10),,
+0020100462,319,1,1,3,10:23 PM,4:55,Mercer 17' Jump Shot (16 PTS) (Anthony 4 AST),,,71 - 64,-7
+0020100462,320,6,3,3,10:23 PM,4:55,Chandler L.B.FOUL (P1.PN),,,,
+0020100462,321,3,11,3,10:23 PM,4:55,,,Malone Free Throw 1 of 2 (22 PTS),72 - 64,-8
+0020100462,322,3,12,3,10:23 PM,4:55,,,Malone Free Throw 2 of 2 (23 PTS),73 - 64,-9
+0020100462,323,1,1,3,10:24 PM,4:36,Mercer 25' 3PT Jump Shot (19 PTS) (Oakley 2 AST),,,73 - 67,-6
+0020100462,324,1,7,3,10:24 PM,4:17,,,Marshall  Dunk (21 PTS) (Malone 3 AST),75 - 67,-8
+0020100462,325,2,1,3,10:25 PM,4:00,MISS Hassell 16' Jump Shot,,,,
+0020100462,326,4,0,3,10:25 PM,3:59,,,Jazz Rebound,,
+0020100462,327,6,2,3,10:25 PM,3:41,Oakley S.FOUL (P5.PN),,,,
+0020100462,328,3,11,3,10:25 PM,3:41,,,MISS Ostertag Free Throw 1 of 2,,
+0020100462,329,4,1,3,10:25 PM,3:41,,,Jazz Rebound,,
+0020100462,330,8,0,3,10:26 PM,3:41,SUB: Fizer FOR Oakley,,,,
+0020100462,332,8,0,3,10:26 PM,3:41,SUB: Hoiberg FOR Hassell,,,,
+0020100462,333,3,12,3,10:26 PM,3:41,,,Ostertag Free Throw 2 of 2 (5 PTS),76 - 67,-9
+0020100462,334,6,1,3,10:26 PM,3:33,,,Crotty P.FOUL (P2.PN),,
+0020100462,335,3,11,3,10:26 PM,3:33,MISS Anthony Free Throw 1 of 2,,,,
+0020100462,336,4,1,3,10:26 PM,3:33,BULLS Rebound,,,,
+0020100462,337,3,12,3,10:27 PM,3:33,Anthony Free Throw 2 of 2 (4 PTS),,,76 - 68,-8
+0020100462,338,1,1,3,10:27 PM,3:13,,,Crotty 25' 3PT Jump Shot (5 PTS) (Malone 4 AST),79 - 68,-11
+0020100462,339,6,2,3,10:28 PM,2:51,,,Ostertag S.FOUL (P3.PN),,
+0020100462,340,9,1,3,10:28 PM,2:51,,,Jazz Timeout: Regular (Reg.3 Short 1),,
+0020100462,342,8,0,3,10:30 PM,2:51,SUB: Ollie FOR Anthony,,,,
+0020100462,343,3,11,3,10:30 PM,2:51,Mercer Free Throw 1 of 2 (20 PTS),,,79 - 69,-10
+0020100462,344,3,12,3,10:30 PM,2:51,Mercer Free Throw 2 of 2 (21 PTS),,,79 - 70,-9
+0020100462,345,1,1,3,10:30 PM,2:35,,,Malone 7' Jump Shot (25 PTS) (Stevenson 5 AST),81 - 70,-11
+0020100462,346,6,2,3,10:30 PM,2:35,Fizer S.FOUL (P5.PN),,,,
+0020100462,347,8,0,3,10:31 PM,2:35,,,SUB: Russell FOR Stevenson,,
+0020100462,348,8,0,3,10:31 PM,2:35,SUB: World Peace FOR Fizer,,,,
+0020100462,349,3,10,3,10:31 PM,2:35,,,MISS Malone Free Throw 1 of 1,,
+0020100462,350,4,0,3,10:31 PM,2:33,World Peace REBOUND (Off:1 Def:4),,,,
+0020100462,351,1,1,3,10:32 PM,2:09,Mercer 16' Jump Shot (23 PTS),,,81 - 72,-9
+0020100462,352,1,5,3,10:32 PM,1:48,,,Malone  Layup (27 PTS) (Russell 2 AST),83 - 72,-11
+0020100462,353,1,5,3,10:32 PM,1:29,Mercer  Layup (25 PTS) (Chandler 1 AST),,,83 - 74,-9
+0020100462,354,6,2,3,10:33 PM,1:03,Chandler S.FOUL (P2.PN),,,,
+0020100462,355,8,0,3,10:33 PM,1:03,,,SUB: Kirilenko FOR Marshall,,
+0020100462,356,3,11,3,10:33 PM,1:03,,,MISS Ostertag Free Throw 1 of 2,,
+0020100462,357,4,1,3,10:33 PM,1:03,,,Jazz Rebound,,
+0020100462,358,3,12,3,10:33 PM,1:03,,,MISS Ostertag Free Throw 2 of 2,,
+0020100462,359,4,0,3,10:33 PM,1:02,Hoiberg REBOUND (Off:0 Def:2),,,,
+0020100462,360,1,5,3,10:34 PM,0:41,Ollie  Layup (4 PTS),,,83 - 76,-7
+0020100462,361,2,1,3,10:34 PM,0:29,,,MISS Russell 27' 3PT Jump Shot,,
+0020100462,362,4,0,3,10:34 PM,0:26,,,Malone REBOUND (Off:2 Def:3),,
+0020100462,363,2,5,3,10:34 PM,0:07,Chandler BLOCK (2 BLK),,MISS Ostertag  Layup,,
+0020100462,364,4,0,3,10:35 PM,0:05,,,Kirilenko REBOUND (Off:1 Def:1),,
+0020100462,365,6,2,3,10:35 PM,0:05,Chandler S.FOUL (P3.PN),,,,
+0020100462,366,3,11,3,10:35 PM,0:05,,,Kirilenko Free Throw 1 of 2 (6 PTS),84 - 76,-8
+0020100462,368,8,0,3,10:35 PM,0:05,,,SUB: Padgett FOR Malone,,
+0020100462,369,3,12,3,10:35 PM,0:05,,,Kirilenko Free Throw 2 of 2 (7 PTS),85 - 76,-9
+0020100462,370,1,1,3,10:35 PM,0:00,World Peace 25' 3PT Jump Shot (18 PTS) (Ollie 5 AST),,,85 - 79,-6
+0020100462,372,13,0,3,10:36 PM,0:00,,,,85 - 79,-6
+0020100462,374,12,0,4,10:38 PM,12:00,,,,85 - 79,-6
+0020100462,375,2,1,4,10:38 PM,11:43,,,MISS Russell 24' 3PT Jump Shot,,
+0020100462,376,4,0,4,10:38 PM,11:39,Chandler REBOUND (Off:0 Def:1),,,,
+0020100462,377,2,1,4,10:39 PM,11:35,MISS Mercer 13' Jump Shot,,,,
+0020100462,378,4,0,4,10:39 PM,11:34,,,Russell REBOUND (Off:0 Def:3),,
+0020100462,379,5,1,4,10:39 PM,11:23,World Peace STEAL (4 STL),,Kirilenko Bad Pass Turnover (P2.T11),,
+0020100462,380,5,1,4,10:39 PM,11:07,Ollie Bad Pass Turnover (P1.T13),,,,
+0020100462,381,1,1,4,10:40 PM,10:49,,,Padgett 9' Jump Shot (7 PTS) (Russell 3 AST),87 - 79,-8
+0020100462,382,1,5,4,10:40 PM,10:27,Ollie  Layup (6 PTS) (World Peace 3 AST),,,87 - 81,-6
+0020100462,383,5,1,4,10:40 PM,10:08,Mercer STEAL (2 STL),,Kirilenko Bad Pass Turnover (P3.T12),,
+0020100462,384,5,1,4,10:40 PM,10:03,Mercer Bad Pass Turnover (P1.T14),,Crotty STEAL (1 STL),,
+0020100462,385,1,1,4,10:41 PM,9:57,,,Russell 15' Jump Shot (7 PTS) (Crotty 5 AST),89 - 81,-8
+0020100462,386,6,1,4,10:41 PM,9:36,,,Padgett P.FOUL (P1.T1),,
+0020100462,387,1,5,4,10:41 PM,9:28,Hoiberg  Layup (7 PTS) (Mercer 5 AST),,,89 - 83,-6
+0020100462,388,5,2,4,10:42 PM,9:05,Hoiberg STEAL (1 STL),,Russell Lost Ball Turnover (P1.T13),,
+0020100462,389,1,42,4,10:42 PM,9:01,Ollie  Driving Layup (8 PTS) (Hoiberg 2 AST),,,89 - 85,-4
+0020100462,390,5,2,4,10:42 PM,8:36,,,Kirilenko Lost Ball Turnover (P4.T14),,
+0020100462,391,9,1,4,10:42 PM,8:36,,,,,
+0020100462,393,8,0,4,10:44 PM,8:36,,,SUB: Marshall FOR Kirilenko,,
+0020100462,394,6,2,4,10:45 PM,8:26,,,Marshall S.FOUL (P3.T2),,
+0020100462,395,3,11,4,10:45 PM,8:26,MISS World Peace Free Throw 1 of 2,,,,
+0020100462,396,4,1,4,10:45 PM,8:26,BULLS Rebound,,,,
+0020100462,397,3,12,4,10:45 PM,8:26,MISS World Peace Free Throw 2 of 2,,,,
+0020100462,398,4,0,4,10:45 PM,8:25,,,Marshall REBOUND (Off:1 Def:4),,
+0020100462,399,1,1,4,10:46 PM,8:14,,,Malone 13' Jump Shot (29 PTS) (Crotty 6 AST),91 - 85,-6
+0020100462,400,1,5,4,10:46 PM,8:03,Chandler  Layup (4 PTS) (World Peace 4 AST),,,91 - 87,-4
+0020100462,401,6,2,4,10:46 PM,8:03,,,Marshall S.FOUL (P4.T3),,
+0020100462,402,8,0,4,10:46 PM,8:03,,,SUB: Stockton FOR Crotty,,
+0020100462,403,3,10,4,10:46 PM,8:03,Chandler Free Throw 1 of 1 (5 PTS),,,91 - 88,-3
+0020100462,404,2,1,4,10:47 PM,7:53,,,MISS Malone 11' Jump Shot,,
+0020100462,405,4,0,4,10:47 PM,7:50,Hoiberg REBOUND (Off:0 Def:3),,,,
+0020100462,406,2,1,4,10:47 PM,7:44,MISS Mercer 14' Jump Shot,,,,
+0020100462,407,4,0,4,10:47 PM,7:42,World Peace REBOUND (Off:2 Def:4),,,,
+0020100462,408,1,7,4,10:47 PM,7:35,World Peace  Dunk (20 PTS) (Ollie 6 AST),,,91 - 90,-1
+0020100462,409,2,1,4,10:47 PM,7:08,Chandler BLOCK (3 BLK),,MISS Marshall 9' Jump Shot,,
+0020100462,410,4,0,4,10:47 PM,7:05,,,Padgett REBOUND (Off:1 Def:0),,
+0020100462,411,1,5,4,10:47 PM,7:04,,,Padgett  Layup (9 PTS),93 - 90,-3
+0020100462,412,2,1,4,10:48 PM,6:40,MISS Hoiberg 21' Jump Shot,,,,
+0020100462,413,4,0,4,10:48 PM,6:37,,,Russell REBOUND (Off:0 Def:4),,
+0020100462,414,2,5,4,10:48 PM,6:24,,,MISS Marshall  Layup,,
+0020100462,415,4,0,4,10:48 PM,6:22,,,Marshall REBOUND (Off:2 Def:4),,
+0020100462,416,2,5,4,10:48 PM,6:21,,,MISS Marshall  Layup,,
+0020100462,417,10,0,4,10:48 PM,6:20,Jump Ball Chandler vs. Marshall: Tip to Padgett,,,,
+0020100462,418,4,0,4,10:48 PM,6:20,,,Jazz Rebound,,
+0020100462,419,2,1,4,10:49 PM,6:08,,,MISS Russell 25' 3PT Jump Shot,,
+0020100462,420,4,0,4,10:49 PM,6:05,,,Stockton REBOUND (Off:2 Def:1),,
+0020100462,421,2,3,4,10:49 PM,5:59,,,MISS Malone 6' Hook Shot,,
+0020100462,422,4,0,4,10:49 PM,5:54,Chandler REBOUND (Off:0 Def:2),,,,
+0020100462,423,1,1,4,10:49 PM,5:34,World Peace 15' Jump Shot (22 PTS),,,93 - 92,-1
+0020100462,424,6,2,4,10:50 PM,5:19,World Peace S.FOUL (P5.T1),,,,
+0020100462,425,9,1,4,10:50 PM,5:19,BULLS Timeout: Regular (Full 4 Short 2),,,,
+0020100462,427,8,0,4,10:52 PM,5:19,SUB: Fizer FOR Chandler,,,,
+0020100462,428,3,11,4,10:52 PM,5:19,,,Malone Free Throw 1 of 2 (30 PTS),94 - 92,-2
+0020100462,429,3,12,4,10:52 PM,5:19,,,Malone Free Throw 2 of 2 (31 PTS),95 - 92,-3
+0020100462,430,2,1,4,10:53 PM,4:57,MISS Mercer 25' 3PT Jump Shot,,,,
+0020100462,431,4,0,4,10:53 PM,4:55,,,Marshall REBOUND (Off:2 Def:5),,
+0020100462,432,1,1,4,10:53 PM,4:46,,,Padgett 24' 3PT Jump Shot (12 PTS) (Stockton 5 AST),98 - 92,-6
+0020100462,433,2,1,4,10:53 PM,4:25,MISS Hoiberg 25' 3PT Jump Shot,,,,
+0020100462,434,4,0,4,10:54 PM,4:23,,,Malone REBOUND (Off:2 Def:4),,
+0020100462,435,5,2,4,10:54 PM,4:13,World Peace STEAL (5 STL),,Marshall Lost Ball Turnover (P3.T15),,
+0020100462,436,5,3,4,10:54 PM,4:13,World Peace Out Of Bounds Turnover (P3.T15),,,,
+0020100462,437,2,1,4,10:54 PM,3:50,,,MISS Malone 25' 3PT Jump Shot,,
+0020100462,438,4,0,4,10:54 PM,3:48,Ollie REBOUND (Off:0 Def:2),,,,
+0020100462,439,2,1,4,10:55 PM,3:41,MISS Hoiberg 26' 3PT Jump Shot,,,,
+0020100462,440,4,0,4,10:55 PM,3:39,,,Marshall REBOUND (Off:2 Def:6),,
+0020100462,441,5,2,4,10:55 PM,3:31,World Peace STEAL (6 STL),,Stockton Lost Ball Turnover (P4.T16),,
+0020100462,442,2,5,4,10:55 PM,3:23,MISS Mercer  Layup,,,,
+0020100462,443,4,0,4,10:55 PM,3:23,,,Jazz Rebound,,
+0020100462,444,2,1,4,10:55 PM,3:00,,,MISS Russell 16' Jump Shot,,
+0020100462,445,4,0,4,10:55 PM,2:58,Mercer REBOUND (Off:1 Def:3),,,,
+0020100462,446,9,1,4,10:56 PM,2:51,BULLS Timeout: Regular (Full 5 Short 2),,,,
+0020100462,448,2,1,4,10:58 PM,2:38,MISS Ollie 8' Jump Shot,,,,
+0020100462,450,4,0,4,10:58 PM,2:34,Fizer REBOUND (Off:3 Def:0),,,,
+0020100462,449,2,4,4,10:58 PM,2:34,MISS Fizer  Tip Shot,,,,
+0020100462,451,4,0,4,10:58 PM,2:32,,,Padgett REBOUND (Off:1 Def:1),,
+0020100462,452,1,5,4,10:58 PM,2:29,,,Stockton  Layup (6 PTS),100 - 92,-8
+0020100462,453,6,2,4,10:58 PM,2:07,,,Padgett S.FOUL (P2.T4),,
+0020100462,454,3,11,4,10:59 PM,2:07,World Peace Free Throw 1 of 2 (23 PTS),,,100 - 93,-7
+0020100462,455,3,12,4,10:59 PM,2:07,MISS World Peace Free Throw 2 of 2,,,,
+0020100462,456,4,0,4,10:59 PM,2:06,,,Padgett REBOUND (Off:1 Def:2),,
+0020100462,457,2,1,4,10:59 PM,1:52,,,MISS Malone 14' Jump Shot,,
+0020100462,458,4,0,4,10:59 PM,1:50,Fizer REBOUND (Off:3 Def:1),,,,
+0020100462,459,1,42,4,11:00 PM,1:36,Mercer  Driving Layup (27 PTS),,,100 - 95,-5
+0020100462,460,5,1,4,11:00 PM,1:20,Fizer STEAL (1 STL),,Malone Bad Pass Turnover (P4.T17),,
+0020100462,461,5,1,4,11:00 PM,1:15,Fizer Bad Pass Turnover (P3.T16),,Malone STEAL (3 STL),,
+0020100462,462,6,2,4,11:00 PM,1:14,World Peace S.FOUL (P6.T2),,,,
+0020100462,463,8,0,4,11:01 PM,1:14,SUB: Oakley FOR World Peace,,,,
+0020100462,464,3,11,4,11:01 PM,1:14,,,MISS Russell Free Throw 1 of 2,,
+0020100462,465,4,1,4,11:01 PM,1:14,,,Jazz Rebound,,
+0020100462,466,3,12,4,11:01 PM,1:14,,,MISS Russell Free Throw 2 of 2,,
+0020100462,467,4,0,4,11:02 PM,1:13,Oakley REBOUND (Off:0 Def:7),,,,
+0020100462,468,1,42,4,11:02 PM,1:02,Hoiberg  Driving Layup (9 PTS),,,100 - 97,-3
+0020100462,469,2,1,4,11:02 PM,0:44,,,MISS Padgett 20' Jump Shot,,
+0020100462,470,4,0,4,11:02 PM,0:43,Ollie REBOUND (Off:0 Def:3),,,,
+0020100462,471,1,5,4,11:02 PM,0:34,Fizer  Layup (6 PTS) (Ollie 7 AST),,,100 - 99,-1
+0020100462,472,6,2,4,11:02 PM,0:34,,,Padgett S.FOUL (P3.PN),,
+0020100462,473,3,10,4,11:03 PM,0:34,Fizer Free Throw 1 of 1 (7 PTS),,,100 - 100,TIE
+0020100462,474,6,4,4,11:03 PM,0:14,,,Padgett OFF.Foul (P4),,
+0020100462,475,5,5,4,11:03 PM,0:14,,,Padgett Foul Turnover (P1.T18),,
+0020100462,476,9,1,4,11:03 PM,0:14,BULLS Timeout: Regular (Full 6 Short 2),,,,
+0020100462,478,2,1,4,11:06 PM,0:00,MISS Mercer 19' Jump Shot,,,,
+0020100462,480,4,0,4,11:06 PM,0:00,BULLS Rebound,,,,
+0020100462,479,13,0,4,11:06 PM,0:00,,,,100 - 100,TIE
+0020100462,482,12,0,5,11:08 PM,5:00,,,,100 - 100,TIE
+0020100462,483,10,0,5,11:08 PM,5:00,Jump Ball Fizer vs. Marshall: Tip to Stockton,,,,
+0020100462,484,1,1,5,11:08 PM,4:39,,,Padgett 10' Jump Shot (14 PTS) (Stockton 6 AST),102 - 100,-2
+0020100462,485,6,1,5,11:09 PM,4:22,,,Malone P.FOUL (P2.T1),,
+0020100462,486,2,5,5,11:09 PM,4:09,MISS Fizer  Layup,,Malone BLOCK (1 BLK),,
+0020100462,487,4,0,5,11:09 PM,4:06,,,Marshall REBOUND (Off:2 Def:7),,
+0020100462,488,1,7,5,11:09 PM,3:54,,,Marshall  Dunk (23 PTS) (Stockton 7 AST),104 - 100,-4
+0020100462,489,1,1,5,11:10 PM,3:36,Hoiberg 17' Jump Shot (11 PTS) (Oakley 3 AST),,,104 - 102,-2
+0020100462,490,1,5,5,11:10 PM,3:21,,,Marshall  Layup (25 PTS) (Malone 5 AST),106 - 102,-4
+0020100462,491,6,2,5,11:10 PM,3:05,,,Russell S.FOUL (P1.T2),,
+0020100462,492,3,11,5,11:10 PM,3:05,Mercer Free Throw 1 of 2 (28 PTS),,,106 - 103,-3
+0020100462,493,3,12,5,11:11 PM,3:05,Mercer Free Throw 2 of 2 (29 PTS),,,106 - 104,-2
+0020100462,494,6,2,5,11:11 PM,2:49,Fizer S.FOUL (P6.T1),,,,
+0020100462,495,8,0,5,11:12 PM,2:49,SUB: Chandler FOR Fizer,,,,
+0020100462,496,3,11,5,11:12 PM,2:49,,,Malone Free Throw 1 of 2 (32 PTS),107 - 104,-3
+0020100462,497,3,12,5,11:12 PM,2:49,,,MISS Malone Free Throw 2 of 2,,
+0020100462,498,4,0,5,11:13 PM,2:47,Hoiberg REBOUND (Off:0 Def:4),,,,
+0020100462,499,1,1,5,11:13 PM,2:33,Hoiberg 14' Jump Shot (13 PTS) (Mercer 6 AST),,,107 - 106,-1
+0020100462,500,2,1,5,11:13 PM,2:15,,,MISS Russell 27' 3PT Jump Shot,,
+0020100462,501,4,0,5,11:13 PM,2:13,,,Jazz Rebound,,
+0020100462,502,2,1,5,11:14 PM,1:58,,,MISS Malone 14' Jump Shot,,
+0020100462,503,4,0,5,11:14 PM,1:56,Oakley REBOUND (Off:0 Def:8),,,,
+0020100462,504,2,3,5,11:14 PM,1:34,MISS Hoiberg 6' Hook Shot,,,,
+0020100462,505,4,0,5,11:14 PM,1:33,,,Russell REBOUND (Off:0 Def:5),,
+0020100462,506,1,1,5,11:15 PM,1:10,,,Padgett 16' Jump Shot (16 PTS) (Malone 6 AST),109 - 106,-3
+0020100462,507,6,2,5,11:15 PM,0:57,,,Stockton S.FOUL (P4.T3),,
+0020100462,508,3,11,5,11:15 PM,0:57,Ollie Free Throw 1 of 2 (9 PTS),,,109 - 107,-2
+0020100462,509,3,12,5,11:16 PM,0:57,Ollie Free Throw 2 of 2 (10 PTS),,,109 - 108,-1
+0020100462,510,6,17,5,11:16 PM,0:42,BULLS T.Foul (Def. 3 Sec Oakley ),,,,
+0020100462,511,3,16,5,11:16 PM,0:42,,,Stockton Free Throw Technical (7 PTS),110 - 108,-2
+0020100462,512,2,5,5,11:17 PM,0:31,,,MISS Marshall  Layup,,
+0020100462,513,4,0,5,11:17 PM,0:29,Chandler REBOUND (Off:0 Def:3),,,,
+0020100462,514,2,1,5,11:17 PM,0:11,MISS Mercer 19' Jump Shot,,,,
+0020100462,515,4,0,5,11:17 PM,0:09,,,Padgett REBOUND (Off:1 Def:3),,
+0020100462,516,6,1,5,11:17 PM,0:09,Hoiberg P.FOUL (P2.T2),,,,
+0020100462,517,6,1,5,11:18 PM,0:07,Ollie P.FOUL (P1.PN),,,,
+0020100462,518,3,11,5,11:18 PM,0:07,,,Stockton Free Throw 1 of 2 (8 PTS),111 - 108,-3
+0020100462,519,3,12,5,11:18 PM,0:07,,,Stockton Free Throw 2 of 2 (9 PTS),112 - 108,-4
+0020100462,520,9,1,5,11:19 PM,0:07,BULLS Timeout: Regular (Full 7 Short 2),,,,
+0020100462,522,8,0,5,11:20 PM,0:07,SUB: Guyton FOR Ollie,,,,
+0020100462,523,2,1,5,11:20 PM,0:04,MISS Guyton 23' Jump Shot,,,,
+0020100462,524,4,0,5,11:21 PM,0:02,Oakley REBOUND (Off:1 Def:8),,,,
+0020100462,525,1,1,5,11:21 PM,0:00,Guyton 25' 3PT Jump Shot (3 PTS) (Oakley 4 AST),,,112 - 111,-1
+0020100462,526,6,1,5,11:21 PM,0:00,Mercer P.FOUL (P3.PN),,,,
+0020100462,527,3,11,5,11:21 PM,0:00,,,Russell Free Throw 1 of 2 (8 PTS),113 - 111,-2
+0020100462,528,3,12,5,11:22 PM,0:00,,,MISS Russell Free Throw 2 of 2,,
+0020100462,530,4,0,5,11:22 PM,0:00,,,Jazz Rebound,,
+0020100462,529,13,0,5,11:22 PM,0:00,,,,113 - 111,-2

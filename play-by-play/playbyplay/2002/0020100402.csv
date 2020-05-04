@@ -1,0 +1,426 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100402,0,12,0,1,7:40 PM,12:00,,,,,
+0020100402,1,10,0,1,7:41 PM,12:00,Jump Ball Wallace vs. Van Horn: Tip to Martin,,,,
+0020100402,2,2,1,1,7:42 PM,11:47,,,MISS Van Horn 13' Jump Shot,,
+0020100402,3,4,0,1,7:42 PM,11:44,Barros REBOUND (Off:0 Def:1),,,,
+0020100402,4,2,1,1,7:42 PM,11:25,MISS Curry 15' Jump Shot,,,,
+0020100402,5,4,0,1,7:42 PM,11:23,,,Van Horn REBOUND (Off:0 Def:1),,
+0020100402,6,2,1,1,7:42 PM,11:12,,,MISS Kidd 26' 3PT Jump Shot,,
+0020100402,7,4,0,1,7:42 PM,11:09,Curry REBOUND (Off:0 Def:1),,,,
+0020100402,8,2,5,1,7:43 PM,10:56,MISS Stackhouse  Layup,,,,
+0020100402,9,4,0,1,7:43 PM,10:54,,,MacCulloch REBOUND (Off:0 Def:1),,
+0020100402,10,1,5,1,7:43 PM,10:48,,,Martin  Layup (2 PTS) (Kidd 1 AST),2 - 0,-2
+0020100402,11,2,1,1,7:43 PM,10:25,MISS Stackhouse  3PT Jump Shot,,,,
+0020100402,12,4,0,1,7:43 PM,10:22,Wallace REBOUND (Off:1 Def:0),,,,
+0020100402,13,2,1,1,7:43 PM,10:20,MISS Barros 27' 3PT Jump Shot,,,,
+0020100402,14,4,0,1,7:43 PM,10:19,,,Van Horn REBOUND (Off:0 Def:2),,
+0020100402,15,1,5,1,7:43 PM,10:12,,,MacCulloch  Layup (2 PTS) (Kidd 2 AST),4 - 0,-4
+0020100402,16,2,1,1,7:44 PM,9:53,MISS Robinson 13' Jump Shot,,,,
+0020100402,17,4,0,1,7:44 PM,9:50,Wallace REBOUND (Off:2 Def:0),,,,
+0020100402,18,5,2,1,7:44 PM,9:41,Wallace Lost Ball Turnover (P1.T1),,Kittles STEAL (1 STL),,
+0020100402,19,2,3,1,7:44 PM,9:32,Wallace BLOCK (1 BLK),,MISS MacCulloch 7' Hook Shot,,
+0020100402,20,4,0,1,7:44 PM,9:31,PISTONS Rebound,,,,
+0020100402,21,2,1,1,7:44 PM,9:18,MISS Stackhouse 24' 3PT Jump Shot,,,,
+0020100402,22,4,0,1,7:44 PM,9:16,Robinson REBOUND (Off:1 Def:0),,,,
+0020100402,23,6,2,1,7:45 PM,9:01,,,Van Horn S.FOUL (P1.T1),,
+0020100402,24,3,11,1,7:45 PM,9:01,Stackhouse Free Throw 1 of 2 (1 PTS),,,4 - 1,-3
+0020100402,25,3,12,1,7:45 PM,9:01,Stackhouse Free Throw 2 of 2 (2 PTS),,,4 - 2,-2
+0020100402,26,1,1,1,7:45 PM,8:50,,,Kittles 18' Jump Shot (2 PTS) (Kidd 3 AST),6 - 2,-4
+0020100402,27,2,5,1,7:46 PM,8:33,MISS Stackhouse  Layup,,MacCulloch BLOCK (1 BLK),,
+0020100402,28,4,0,1,7:46 PM,8:31,,,Martin REBOUND (Off:0 Def:1),,
+0020100402,29,2,1,1,7:46 PM,8:25,,,MISS Kittles 20' Jump Shot,,
+0020100402,30,4,0,1,7:46 PM,8:23,Wallace REBOUND (Off:2 Def:1),,,,
+0020100402,31,1,1,1,7:46 PM,8:15,Robinson 28' 3PT Jump Shot (3 PTS) (Stackhouse 1 AST),,,6 - 5,-1
+0020100402,32,2,1,1,7:46 PM,7:59,,,MISS Kittles 19' Jump Shot,,
+0020100402,33,4,0,1,7:46 PM,7:58,Wallace REBOUND (Off:2 Def:2),,,,
+0020100402,34,6,4,1,7:47 PM,7:43,Curry OFF.Foul (P1),,,,
+0020100402,35,5,5,1,7:47 PM,7:43,Curry Foul Turnover (P1.T2),,,,
+0020100402,36,2,1,1,7:47 PM,7:27,,,MISS Kidd 26' 3PT Jump Shot,,
+0020100402,37,4,0,1,7:47 PM,7:24,Wallace REBOUND (Off:2 Def:3),,,,
+0020100402,38,1,1,1,7:47 PM,7:12,Barros 18' Jump Shot (2 PTS),,,6 - 7,1
+0020100402,39,5,1,1,7:48 PM,6:49,Robinson STEAL (1 STL),,Van Horn Bad Pass Turnover (P1.T1),,
+0020100402,40,1,1,1,7:48 PM,6:39,Robinson 27' 3PT Jump Shot (6 PTS) (Barros 1 AST),,,6 - 10,4
+0020100402,41,9,1,1,7:48 PM,6:34,,,Nets Timeout: Regular (Reg.1 Short 0),,
+0020100402,43,6,2,1,7:50 PM,6:24,Wallace S.FOUL (P1.T1),,,,
+0020100402,44,3,11,1,7:50 PM,6:24,,,Martin Free Throw 1 of 2 (3 PTS),7 - 10,3
+0020100402,45,3,12,1,7:50 PM,6:24,,,Martin Free Throw 2 of 2 (4 PTS),8 - 10,2
+0020100402,46,2,1,1,7:51 PM,6:08,MISS Stackhouse 18' Jump Shot,,,,
+0020100402,47,4,0,1,7:51 PM,6:07,,,Kittles REBOUND (Off:0 Def:1),,
+0020100402,48,1,3,1,7:51 PM,6:02,,,Van Horn 6' Hook Shot (2 PTS) (Kidd 4 AST),10 - 10,TIE
+0020100402,49,2,5,1,7:51 PM,5:49,MISS Barros  Layup,,,,
+0020100402,50,4,0,1,7:51 PM,5:46,Wallace REBOUND (Off:3 Def:3),,,,
+0020100402,51,2,4,1,7:51 PM,5:45,MISS Wallace  Tip Shot,,,,
+0020100402,52,4,0,1,7:51 PM,5:43,,,Van Horn REBOUND (Off:0 Def:3),,
+0020100402,53,1,42,1,7:52 PM,5:29,,,Martin  Driving Layup (6 PTS) (Kittles 1 AST),12 - 10,-2
+0020100402,54,2,1,1,7:52 PM,5:09,MISS Barros 25' 3PT Jump Shot,,,,
+0020100402,55,4,0,1,7:52 PM,5:07,,,MacCulloch REBOUND (Off:0 Def:2),,
+0020100402,56,1,3,1,7:52 PM,4:57,,,Martin 6' Hook Shot (8 PTS) (Kidd 5 AST),14 - 10,-4
+0020100402,57,2,1,1,7:53 PM,4:38,MISS Robinson 14' Jump Shot,,,,
+0020100402,58,4,0,1,7:53 PM,4:37,Wallace REBOUND (Off:4 Def:3),,,,
+0020100402,59,1,5,1,7:53 PM,4:34,Wallace  Layup (2 PTS),,,14 - 12,-2
+0020100402,60,2,1,1,7:53 PM,4:13,,,MISS Martin 16' Jump Shot,,
+0020100402,61,4,0,1,7:53 PM,4:10,Curry REBOUND (Off:0 Def:2),,,,
+0020100402,62,1,1,1,7:53 PM,3:55,Robinson 19' Jump Shot (8 PTS) (Barros 2 AST),,,14 - 14,TIE
+0020100402,63,2,1,1,7:54 PM,3:37,,,MISS Van Horn 15' Jump Shot,,
+0020100402,64,4,0,1,7:54 PM,3:36,Wallace REBOUND (Off:4 Def:4),,,,
+0020100402,65,1,1,1,7:54 PM,3:18,Stackhouse 16' Jump Shot (4 PTS),,,14 - 16,2
+0020100402,66,1,5,1,7:54 PM,3:02,,,Van Horn  Layup (4 PTS) (MacCulloch 1 AST),16 - 16,TIE
+0020100402,67,9,1,1,7:54 PM,2:59,PISTONS Timeout: Regular (Full 1 Short 0),,,,
+0020100402,69,8,0,1,7:56 PM,2:59,SUB: Williamson FOR Curry,,,,
+0020100402,70,8,0,1,7:56 PM,2:59,,,SUB: Williams FOR Van Horn,,
+0020100402,71,8,0,1,7:56 PM,2:59,,,SUB: Jefferson FOR MacCulloch,,
+0020100402,72,2,1,1,7:57 PM,2:48,MISS Stackhouse 19' Jump Shot,,,,
+0020100402,73,4,0,1,7:57 PM,2:46,,,Williams REBOUND (Off:0 Def:1),,
+0020100402,74,1,1,1,7:57 PM,2:31,,,Martin 17' Jump Shot (10 PTS) (Kidd 6 AST),18 - 16,-2
+0020100402,75,1,1,1,7:57 PM,2:17,Williamson 12' Jump Shot (2 PTS),,,18 - 18,TIE
+0020100402,76,2,1,1,7:57 PM,1:56,,,MISS Jefferson 19' Jump Shot,,
+0020100402,77,4,0,1,7:57 PM,1:54,Stackhouse REBOUND (Off:0 Def:1),,,,
+0020100402,78,5,1,1,7:58 PM,1:44,Stackhouse Bad Pass Turnover (P1.T3),,Kidd STEAL (1 STL),,
+0020100402,79,1,7,1,7:58 PM,1:38,,,Martin  Dunk (12 PTS) (Kidd 7 AST),20 - 18,-2
+0020100402,80,2,1,1,7:58 PM,1:17,MISS Stackhouse 16' Jump Shot,,,,
+0020100402,81,4,0,1,7:58 PM,1:15,,,Kidd REBOUND (Off:0 Def:1),,
+0020100402,82,1,3,1,7:58 PM,1:05,,,Williams 6' Hook Shot (2 PTS) (Kidd 8 AST),22 - 18,-4
+0020100402,83,6,1,1,7:59 PM,0:52,,,Jefferson P.FOUL (P1.T2),,
+0020100402,84,8,0,1,7:59 PM,0:52,,,SUB: Dial FOR Kidd,,
+0020100402,85,8,0,1,7:59 PM,0:52,SUB: Rebraca FOR Robinson,,,,
+0020100402,86,8,0,1,7:59 PM,0:52,,,SUB: Harris FOR Kittles,,
+0020100402,96,2,40,1,7:59 PM,0:42,MISS Stackhouse  Layup,,Jefferson BLOCK (1 BLK),,
+0020100402,97,4,0,1,7:59 PM,0:41,Stackhouse REBOUND (Off:1 Def:1),,,,
+0020100402,87,2,5,1,7:59 PM,0:39,MISS Stackhouse  Layup,,,,
+0020100402,88,4,0,1,7:59 PM,0:37,,,Dial REBOUND (Off:0 Def:1),,
+0020100402,89,2,1,1,7:59 PM,0:31,,,MISS Dial 7' Jump Shot,,
+0020100402,90,4,0,1,7:59 PM,0:29,Wallace REBOUND (Off:4 Def:5),,,,
+0020100402,91,1,42,1,8:00 PM,0:19,Stackhouse  Driving Layup (6 PTS),,,22 - 20,-2
+0020100402,92,1,42,1,8:00 PM,0:03,,,Dial  Driving Layup (2 PTS),24 - 20,-4
+0020100402,93,2,1,1,8:00 PM,0:01,MISS Barros 27' 3PT Jump Shot,,,,
+0020100402,94,4,0,1,8:00 PM,0:00,PISTONS Rebound,,,,
+0020100402,95,13,0,1,8:00 PM,0:00,,,,24 - 20,-4
+0020100402,99,12,0,2,8:03 PM,12:00,,,,24 - 20,-4
+0020100402,100,2,1,2,8:03 PM,11:44,MISS Wallace 16' Jump Shot,,,,
+0020100402,101,4,0,2,8:03 PM,11:41,,,Collins REBOUND (Off:0 Def:1),,
+0020100402,102,6,1,2,8:03 PM,11:41,Williamson P.FOUL (P1.T1),,,,
+0020100402,103,1,7,2,8:03 PM,11:33,,,Williams  Dunk (4 PTS) (Jefferson 1 AST),26 - 20,-6
+0020100402,104,5,2,2,8:03 PM,11:19,Rebraca Lost Ball Turnover (P1.T4),,Jefferson STEAL (1 STL),,
+0020100402,105,5,1,2,8:04 PM,11:02,,,Harris Bad Pass Turnover (P1.T2),,
+0020100402,106,1,1,2,8:04 PM,10:50,Williamson 17' Jump Shot (4 PTS) (Barry 1 AST),,,26 - 22,-4
+0020100402,107,2,1,2,8:04 PM,10:30,,,MISS Jefferson 16' Jump Shot,,
+0020100402,108,4,0,2,8:04 PM,10:28,Wallace REBOUND (Off:4 Def:6),,,,
+0020100402,109,2,1,2,8:04 PM,10:22,MISS Williamson 18' Jump Shot,,,,
+0020100402,110,4,0,2,8:05 PM,10:21,,,Williams REBOUND (Off:0 Def:2),,
+0020100402,111,2,1,2,8:05 PM,10:00,,,MISS Dial 18' Jump Shot,,
+0020100402,112,4,0,2,8:05 PM,9:58,,,Jefferson REBOUND (Off:1 Def:0),,
+0020100402,113,6,2,2,8:05 PM,9:44,Williamson S.FOUL (P2.T2),,,,
+0020100402,114,3,11,2,8:05 PM,9:44,,,Williams Free Throw 1 of 2 (5 PTS),27 - 22,-5
+0020100402,115,3,12,2,8:06 PM,9:44,,,Williams Free Throw 2 of 2 (6 PTS),28 - 22,-6
+0020100402,116,6,1,2,8:06 PM,9:35,,,Williams P.FOUL (P1.T1),,
+0020100402,117,2,1,2,8:07 PM,9:22,MISS Rebraca 8' Jump Shot,,,,
+0020100402,118,4,0,2,8:07 PM,9:20,,,Dial REBOUND (Off:0 Def:2),,
+0020100402,119,2,1,2,8:07 PM,9:01,,,MISS Harris 27' 3PT Jump Shot,,
+0020100402,120,4,0,2,8:07 PM,9:00,Wallace REBOUND (Off:4 Def:7),,,,
+0020100402,121,1,1,2,8:07 PM,8:44,Atkins 17' Jump Shot (2 PTS) (Barry 2 AST),,,28 - 24,-4
+0020100402,122,1,7,2,8:07 PM,8:25,,,Williams  Dunk (8 PTS) (Jefferson 2 AST),30 - 24,-6
+0020100402,123,9,1,2,8:08 PM,8:23,PISTONS Timeout: Regular (Full 2 Short 0),,,,
+0020100402,125,8,0,2,8:09 PM,8:23,SUB: Robinson FOR Wallace,,,,
+0020100402,126,1,46,2,8:10 PM,8:00,Atkins 8' Running Jump Shot (4 PTS),,,30 - 26,-4
+0020100402,127,6,1,2,8:11 PM,7:47,Atkins P.FOUL (P1.T3),,,,
+0020100402,128,2,1,2,8:11 PM,7:39,,,MISS Harris 17' Jump Shot,,
+0020100402,129,4,0,2,8:11 PM,7:37,Barry REBOUND (Off:0 Def:1),,,,
+0020100402,130,2,5,2,8:11 PM,7:35,MISS Atkins  Layup,,Dial BLOCK (1 BLK),,
+0020100402,131,4,0,2,8:11 PM,7:34,Williamson REBOUND (Off:1 Def:0),,,,
+0020100402,132,1,1,2,8:11 PM,7:33,Williamson 16' Jump Shot (6 PTS),,,30 - 28,-2
+0020100402,190,6,2,2,8:11 PM,7:33,,,Williams S.FOUL (P2.T2),,
+0020100402,133,3,10,2,8:12 PM,7:33,Williamson Free Throw 1 of 1 (7 PTS),,,30 - 29,-1
+0020100402,135,6,4,2,8:12 PM,7:19,,,Dial OFF.Foul (P1),,
+0020100402,136,5,5,2,8:12 PM,7:19,,,Dial Foul Turnover (P1.T3),,
+0020100402,137,6,4,2,8:12 PM,7:19,Williamson OFF.Foul (P3),,,,
+0020100402,138,5,5,2,8:12 PM,7:19,Williamson Foul Turnover (P1.T5),,,,
+0020100402,149,8,0,2,8:12 PM,7:19,SUB: Stackhouse FOR Williamson,,,,
+0020100402,139,2,1,2,8:12 PM,7:09,,,MISS Williams 18' Jump Shot,,
+0020100402,140,4,0,2,8:13 PM,7:07,,,Dial REBOUND (Off:1 Def:2),,
+0020100402,141,2,5,2,8:13 PM,7:02,,,MISS Dial  Layup,,
+0020100402,142,4,0,2,8:13 PM,7:00,Stackhouse REBOUND (Off:1 Def:2),,,,
+0020100402,143,2,1,2,8:13 PM,6:54,MISS Rebraca 16' Jump Shot,,,,
+0020100402,144,4,0,2,8:13 PM,6:51,,,Williams REBOUND (Off:0 Def:3),,
+0020100402,145,1,1,2,8:13 PM,6:38,,,Dial 16' Jump Shot (4 PTS),32 - 29,-3
+0020100402,146,2,1,2,8:13 PM,6:22,MISS Barry 26' 3PT Jump Shot,,,,
+0020100402,147,4,0,2,8:13 PM,6:20,,,Dial REBOUND (Off:1 Def:3),,
+0020100402,150,2,1,2,8:14 PM,6:04,Stackhouse BLOCK (1 BLK),,MISS Jefferson 18' Jump Shot,,
+0020100402,151,4,0,2,8:14 PM,6:03,PISTONS Rebound,,,,
+0020100402,152,8,0,2,8:14 PM,6:03,,,SUB: Martin FOR Jefferson,,
+0020100402,153,8,0,2,8:14 PM,6:03,,,SUB: Kidd FOR Dial,,
+0020100402,154,1,1,2,8:14 PM,5:49,Rebraca 12' Jump Shot (2 PTS) (Stackhouse 2 AST),,,32 - 31,-1
+0020100402,155,5,3,2,8:14 PM,5:31,,,Martin Out Of Bounds Turnover (P1.T4),,
+0020100402,156,9,3,2,8:14 PM,5:31,,,,,
+0020100402,158,8,0,2,8:16 PM,5:31,,,SUB: Kittles FOR Harris,,
+0020100402,159,5,1,2,8:17 PM,5:21,Robinson Bad Pass Turnover (P1.T6),,Collins STEAL (1 STL),,
+0020100402,160,1,5,2,8:17 PM,5:17,,,Kittles  Layup (4 PTS) (Kidd 9 AST),34 - 31,-3
+0020100402,161,8,0,2,8:17 PM,5:13,,,SUB: Van Horn FOR Williams,,
+0020100402,162,8,0,2,8:17 PM,5:13,,,SUB: MacCulloch FOR Collins,,
+0020100402,163,2,1,2,8:17 PM,4:59,MISS Stackhouse 17' Jump Shot,,Martin BLOCK (1 BLK),,
+0020100402,164,4,0,2,8:17 PM,4:57,Barry REBOUND (Off:1 Def:1),,,,
+0020100402,165,5,1,2,8:18 PM,4:55,Barry Bad Pass Turnover (P1.T7),,MacCulloch STEAL (1 STL),,
+0020100402,166,2,1,2,8:18 PM,4:49,,,MISS Kittles 18' Jump Shot,,
+0020100402,167,4,0,2,8:18 PM,4:47,Barry REBOUND (Off:1 Def:2),,,,
+0020100402,168,1,1,2,8:18 PM,4:34,Atkins 27' 3PT Jump Shot (7 PTS) (Stackhouse 3 AST),,,34 - 34,TIE
+0020100402,169,1,5,2,8:18 PM,4:17,,,MacCulloch  Layup (4 PTS),36 - 34,-2
+0020100402,170,6,2,2,8:18 PM,4:17,Rebraca S.FOUL (P1.T4),,,,
+0020100402,171,3,10,2,8:18 PM,4:17,,,MISS MacCulloch Free Throw 1 of 1,,
+0020100402,172,4,0,2,8:19 PM,4:17,Robinson REBOUND (Off:1 Def:1),,,,
+0020100402,173,6,2,2,8:19 PM,4:02,,,Van Horn S.FOUL (P2.T3),,
+0020100402,174,3,11,2,8:19 PM,4:02,MISS Robinson Free Throw 1 of 2,,,,
+0020100402,175,4,1,2,8:19 PM,4:02,PISTONS Rebound,,,,
+0020100402,176,3,12,2,8:19 PM,4:02,Robinson Free Throw 2 of 2 (9 PTS),,,36 - 35,-1
+0020100402,177,2,1,2,8:20 PM,3:49,,,MISS Martin 14' Jump Shot,,
+0020100402,178,4,0,2,8:20 PM,3:48,Rebraca REBOUND (Off:0 Def:1),,,,
+0020100402,179,2,1,2,8:20 PM,3:36,MISS Stackhouse 17' Jump Shot,,Martin BLOCK (2 BLK),,
+0020100402,180,4,0,2,8:20 PM,3:34,,,Martin REBOUND (Off:0 Def:2),,
+0020100402,181,2,1,2,8:20 PM,3:21,,,MISS Kittles 24' 3PT Jump Shot,,
+0020100402,182,4,0,2,8:20 PM,3:19,Rebraca REBOUND (Off:0 Def:2),,,,
+0020100402,183,2,3,2,8:21 PM,3:00,MISS Rebraca 9' Hook Shot,,,,
+0020100402,184,4,0,2,8:21 PM,2:57,,,Kittles REBOUND (Off:0 Def:2),,
+0020100402,185,1,7,2,8:21 PM,2:47,,,Van Horn  Dunk (6 PTS) (Kidd 10 AST),38 - 35,-3
+0020100402,186,9,2,2,8:21 PM,2:39,PISTONS Timeout: Short (Full 2 Short 1),,,,
+0020100402,188,9,1,2,8:21 PM,2:39,,,Nets Timeout: Regular (Reg.2 Short 0),,
+0020100402,191,1,1,2,8:24 PM,2:27,Rebraca 13' Jump Shot (4 PTS),,,38 - 37,-1
+0020100402,192,6,2,2,8:24 PM,2:10,Stackhouse S.FOUL (P1.PN),,,,
+0020100402,193,3,11,2,8:24 PM,2:10,,,Martin Free Throw 1 of 2 (13 PTS),39 - 37,-2
+0020100402,194,3,12,2,8:24 PM,2:10,,,Martin Free Throw 2 of 2 (14 PTS),40 - 37,-3
+0020100402,195,2,3,2,8:25 PM,1:53,MISS Rebraca 7' Hook Shot,,Martin BLOCK (3 BLK),,
+0020100402,196,4,0,2,8:25 PM,1:52,PISTONS Rebound,,,,
+0020100402,197,1,1,2,8:25 PM,1:49,Stackhouse 17' Jump Shot (8 PTS) (Atkins 1 AST),,,40 - 39,-1
+0020100402,198,5,4,2,8:26 PM,1:25,,,Martin Traveling Turnover (P2.T5),,
+0020100402,199,2,1,2,8:26 PM,1:13,MISS Rebraca 13' Jump Shot,,,,
+0020100402,200,4,0,2,8:26 PM,1:11,,,Van Horn REBOUND (Off:0 Def:4),,
+0020100402,201,2,46,2,8:26 PM,1:05,,,MISS Kidd 13' Running Jump Shot,,
+0020100402,202,4,0,2,8:26 PM,1:02,Atkins REBOUND (Off:0 Def:1),,,,
+0020100402,203,2,1,2,8:26 PM,0:54,MISS Robinson 26' 3PT Jump Shot,,,,
+0020100402,204,4,0,2,8:26 PM,0:51,,,Martin REBOUND (Off:0 Def:3),,
+0020100402,205,2,5,2,8:26 PM,0:47,Rebraca BLOCK (1 BLK),,MISS Kidd  Layup,,
+0020100402,206,4,0,2,8:27 PM,0:46,,,MacCulloch REBOUND (Off:1 Def:2),,
+0020100402,207,1,4,2,8:27 PM,0:45,,,MacCulloch  Tip Shot (6 PTS),42 - 39,-3
+0020100402,208,5,2,2,8:27 PM,0:32,Barry Lost Ball Turnover (P2.T8),,Martin STEAL (1 STL),,
+0020100402,209,9,2,2,8:27 PM,0:32,,,Nets Timeout: Short (Reg.2 Short 1),,
+0020100402,211,1,5,2,8:28 PM,0:12,,,Kittles  Layup (6 PTS) (Kidd 11 AST),44 - 39,-5
+0020100402,212,6,1,2,8:29 PM,0:08,,,Kidd P.FOUL (P1.T4),,
+0020100402,213,5,2,2,8:29 PM,0:05,Stackhouse Lost Ball Turnover (P2.T9),,,,
+0020100402,214,2,1,2,8:29 PM,0:01,,,MISS Kidd 40' 3PT Jump Shot,,
+0020100402,215,4,0,2,8:29 PM,0:00,,,Nets Rebound,,
+0020100402,216,13,0,2,8:29 PM,0:00,,,,44 - 39,-5
+0020100402,218,12,0,3,8:45 PM,12:00,,,,44 - 39,-5
+0020100402,219,5,11,3,8:46 PM,11:36,PISTONS Turnover: Shot Clock (T#10),,,,
+0020100402,220,1,1,3,8:47 PM,11:22,,,Martin 15' Jump Shot (16 PTS),46 - 39,-7
+0020100402,221,1,1,3,8:47 PM,11:05,Stackhouse 17' Jump Shot (10 PTS) (Wallace 1 AST),,,46 - 41,-5
+0020100402,222,1,5,3,8:48 PM,10:52,,,Kittles  Layup (8 PTS) (Martin 1 AST),48 - 41,-7
+0020100402,223,5,1,3,8:48 PM,10:37,Stackhouse Bad Pass Turnover (P3.T11),,Kidd STEAL (2 STL),,
+0020100402,224,6,2,3,8:48 PM,10:34,Curry S.FOUL (P2.T1),,,,
+0020100402,225,3,11,3,8:48 PM,10:34,,,Kidd Free Throw 1 of 2 (1 PTS),49 - 41,-8
+0020100402,226,3,12,3,8:49 PM,10:34,,,Kidd Free Throw 2 of 2 (2 PTS),50 - 41,-9
+0020100402,227,5,2,3,8:49 PM,10:18,Stackhouse Lost Ball Turnover (P4.T12),,Kidd STEAL (3 STL),,
+0020100402,228,1,1,3,8:49 PM,10:13,,,Kittles 28' 3PT Jump Shot (11 PTS) (Kidd 12 AST),53 - 41,-12
+0020100402,229,9,1,3,8:49 PM,10:07,PISTONS Timeout: Regular (Full 3 Short 1),,,,
+0020100402,231,2,1,3,8:52 PM,9:52,MISS Stackhouse 16' Jump Shot,,,,
+0020100402,232,4,0,3,8:52 PM,9:51,,,Kidd REBOUND (Off:0 Def:2),,
+0020100402,233,1,5,3,8:52 PM,9:47,,,Martin  Layup (18 PTS) (Kidd 13 AST),55 - 41,-14
+0020100402,273,6,2,3,8:52 PM,9:47,Barros S.FOUL (P1.T2),,,,
+0020100402,234,3,10,3,8:52 PM,9:47,,,Martin Free Throw 1 of 1 (19 PTS),56 - 41,-15
+0020100402,237,6,1,3,8:53 PM,9:36,,,Martin P.FOUL (P1.T1),,
+0020100402,238,2,3,3,8:53 PM,9:24,MISS Robinson 5' Hook Shot,,,,
+0020100402,239,4,0,3,8:53 PM,9:22,Wallace REBOUND (Off:5 Def:7),,,,
+0020100402,240,1,47,3,8:53 PM,9:10,Stackhouse 12' Turnaround Jump Shot (12 PTS),,,56 - 43,-13
+0020100402,241,2,1,3,8:54 PM,8:49,,,MISS Kittles 27' 3PT Jump Shot,,
+0020100402,242,4,0,3,8:54 PM,8:46,,,Kidd REBOUND (Off:1 Def:2),,
+0020100402,243,1,46,3,8:54 PM,8:31,,,Kittles 13' Running Jump Shot (13 PTS) (Kidd 14 AST),58 - 43,-15
+0020100402,244,1,1,3,8:54 PM,8:10,Robinson 25' 3PT Jump Shot (12 PTS) (Stackhouse 4 AST),,,58 - 46,-12
+0020100402,245,1,1,3,8:55 PM,7:50,,,Van Horn 17' Jump Shot (8 PTS) (Kidd 15 AST),60 - 46,-14
+0020100402,246,2,1,3,8:55 PM,7:36,MISS Barros 25' 3PT Jump Shot,,,,
+0020100402,247,4,0,3,8:55 PM,7:34,,,Van Horn REBOUND (Off:0 Def:5),,
+0020100402,248,2,5,3,8:55 PM,7:29,,,MISS Van Horn  Layup,,
+0020100402,249,4,0,3,8:55 PM,7:27,Curry REBOUND (Off:0 Def:3),,,,
+0020100402,250,2,1,3,8:55 PM,7:21,MISS Robinson 26' 3PT Jump Shot,,,,
+0020100402,251,4,0,3,8:55 PM,7:21,,,Nets Rebound,,
+0020100402,252,2,3,3,8:56 PM,7:05,,,MISS MacCulloch 10' Hook Shot,,
+0020100402,253,4,0,3,8:56 PM,7:02,Wallace REBOUND (Off:5 Def:8),,,,
+0020100402,254,5,3,3,8:56 PM,6:57,Stackhouse Out Of Bounds Turnover (P5.T13),,,,
+0020100402,255,7,1,3,8:56 PM,6:57,PISTONS Violation: Delay of game Violation,,,,
+0020100402,256,8,0,3,8:56 PM,6:57,SUB: Williamson FOR Curry,,,,
+0020100402,257,2,1,3,8:56 PM,6:41,,,MISS Van Horn 17' Jump Shot,,
+0020100402,258,4,0,3,8:56 PM,6:39,Barros REBOUND (Off:0 Def:2),,,,
+0020100402,259,1,5,3,8:57 PM,6:26,Williamson  Layup (9 PTS) (Stackhouse 5 AST),,,60 - 48,-12
+0020100402,260,2,46,3,8:57 PM,6:05,,,MISS Van Horn 12' Running Jump Shot,,
+0020100402,261,4,0,3,8:57 PM,6:01,,,MacCulloch REBOUND (Off:2 Def:2),,
+0020100402,262,1,4,3,8:57 PM,6:00,,,MacCulloch  Tip Shot (8 PTS),62 - 48,-14
+0020100402,263,6,1,3,8:57 PM,5:54,,,Martin P.FOUL (P2.T2),,
+0020100402,264,6,1,3,8:58 PM,5:46,,,Martin P.FOUL (P3.T3),,
+0020100402,265,5,2,3,8:58 PM,5:35,Stackhouse Lost Ball Turnover (P6.T14),,Kidd STEAL (4 STL),,
+0020100402,266,2,5,3,8:58 PM,5:30,,,MISS Kidd  Layup,,
+0020100402,267,4,0,3,8:58 PM,5:28,,,Martin REBOUND (Off:1 Def:3),,
+0020100402,268,2,1,3,8:59 PM,5:11,,,MISS Van Horn 17' Jump Shot,,
+0020100402,269,4,0,3,8:59 PM,5:09,Barros REBOUND (Off:0 Def:3),,,,
+0020100402,270,1,5,3,8:59 PM,4:59,Stackhouse  Layup (14 PTS) (Williamson 1 AST),,,62 - 50,-12
+0020100402,271,9,1,3,8:59 PM,4:50,,,Nets Timeout: Regular (Reg.3 Short 1),,
+0020100402,274,8,0,3,9:01 PM,4:50,,,SUB: Jefferson FOR Martin,,
+0020100402,275,2,1,3,9:01 PM,4:42,,,MISS Kittles 20' Jump Shot,,
+0020100402,276,4,0,3,9:01 PM,4:40,Wallace REBOUND (Off:5 Def:9),,,,
+0020100402,277,6,2,3,9:01 PM,4:34,,,Van Horn S.FOUL (P3.T4),,
+0020100402,278,3,11,3,9:02 PM,4:34,Williamson Free Throw 1 of 2 (10 PTS),,,62 - 51,-11
+0020100402,279,8,0,3,9:02 PM,4:34,,,SUB: Williams FOR Van Horn,,
+0020100402,280,8,0,3,9:02 PM,4:34,,,SUB: Collins FOR MacCulloch,,
+0020100402,281,3,12,3,9:02 PM,4:34,MISS Williamson Free Throw 2 of 2,,,,
+0020100402,282,4,0,3,9:02 PM,4:33,Wallace REBOUND (Off:6 Def:9),,,,
+0020100402,283,6,1,3,9:02 PM,4:24,,,Jefferson P.FOUL (P2.PN),,
+0020100402,284,3,11,3,9:02 PM,4:24,MISS Williamson Free Throw 1 of 2,,,,
+0020100402,285,4,1,3,9:02 PM,4:24,PISTONS Rebound,,,,
+0020100402,286,3,12,3,9:03 PM,4:24,Williamson Free Throw 2 of 2 (11 PTS),,,62 - 52,-10
+0020100402,287,5,1,3,9:04 PM,4:01,Robinson STEAL (2 STL),,Kidd Bad Pass Turnover (P1.T6),,
+0020100402,288,2,5,3,9:04 PM,3:44,MISS Williamson  Layup,,,,
+0020100402,289,4,0,3,9:04 PM,3:41,,,Collins REBOUND (Off:0 Def:2),,
+0020100402,290,2,5,3,9:04 PM,3:21,Barros BLOCK (1 BLK),,MISS Kittles  Layup,,
+0020100402,291,4,0,3,9:04 PM,3:18,Barros REBOUND (Off:0 Def:4),,,,
+0020100402,292,2,3,3,9:04 PM,3:06,MISS Williamson 6' Hook Shot,,,,
+0020100402,293,4,0,3,9:04 PM,3:02,,,Collins REBOUND (Off:0 Def:3),,
+0020100402,294,1,5,3,9:05 PM,3:00,,,Kittles  Layup (15 PTS) (Kidd 16 AST),64 - 52,-12
+0020100402,295,5,2,3,9:05 PM,2:36,Barros Lost Ball Turnover (P1.T15),,,,
+0020100402,296,8,0,3,9:05 PM,2:36,,,SUB: Harris FOR Kittles,,
+0020100402,297,1,1,3,9:05 PM,2:15,,,Harris 16' Jump Shot (2 PTS),66 - 52,-14
+0020100402,298,2,46,3,9:06 PM,2:00,MISS Robinson 10' Running Jump Shot,,,,
+0020100402,299,4,0,3,9:06 PM,1:58,Robinson REBOUND (Off:2 Def:1),,,,
+0020100402,300,6,1,3,9:06 PM,1:58,,,Jefferson P.FOUL (P3.PN),,
+0020100402,301,8,0,3,9:06 PM,1:58,SUB: Barry FOR Stackhouse,,,,
+0020100402,302,3,11,3,9:06 PM,1:58,Robinson Free Throw 1 of 2 (13 PTS),,,66 - 53,-13
+0020100402,303,3,12,3,9:06 PM,1:58,Robinson Free Throw 2 of 2 (14 PTS),,,66 - 54,-12
+0020100402,304,2,1,3,9:07 PM,1:42,,,MISS Kidd 28' 3PT Jump Shot,,
+0020100402,305,4,0,3,9:07 PM,1:40,,,Kidd REBOUND (Off:2 Def:2),,
+0020100402,306,1,7,3,9:07 PM,1:38,,,Williams  Dunk (10 PTS) (Kidd 17 AST),68 - 54,-14
+0020100402,307,1,44,3,9:07 PM,1:26,Barry  Reverse Layup (2 PTS),,,68 - 56,-12
+0020100402,308,1,5,3,9:07 PM,1:20,,,Jefferson  Layup (2 PTS) (Kidd 18 AST),70 - 56,-14
+0020100402,309,2,1,3,9:08 PM,1:05,MISS Barros 18' Jump Shot,,,,
+0020100402,310,4,0,3,9:08 PM,1:03,,,Kidd REBOUND (Off:2 Def:3),,
+0020100402,311,6,2,3,9:08 PM,0:57,Robinson S.FOUL (P1.T3),,,,
+0020100402,312,8,0,3,9:08 PM,0:57,,,SUB: Dial FOR Kidd,,
+0020100402,313,8,0,3,9:08 PM,0:57,SUB: Moore FOR Robinson,,,,
+0020100402,314,3,11,3,9:08 PM,0:57,,,Collins Free Throw 1 of 2 (1 PTS),71 - 56,-15
+0020100402,315,8,0,3,9:08 PM,0:57,SUB: Atkins FOR Barros,,,,
+0020100402,316,3,12,3,9:08 PM,0:57,,,Collins Free Throw 2 of 2 (2 PTS),72 - 56,-16
+0020100402,317,2,1,3,9:09 PM,0:42,MISS Williamson 11' Jump Shot,,,,
+0020100402,318,4,0,3,9:09 PM,0:40,,,Dial REBOUND (Off:1 Def:4),,
+0020100402,319,1,1,3,9:09 PM,0:22,,,Harris 18' Jump Shot (4 PTS),74 - 56,-18
+0020100402,320,6,2,3,9:10 PM,0:02,,,Jefferson S.FOUL (P4.PN),,
+0020100402,321,3,11,3,9:10 PM,0:02,MISS Williamson Free Throw 1 of 2,,,,
+0020100402,322,4,1,3,9:10 PM,0:02,PISTONS Rebound,,,,
+0020100402,323,3,12,3,9:10 PM,0:02,Williamson Free Throw 2 of 2 (12 PTS),,,74 - 57,-17
+0020100402,324,13,0,3,9:10 PM,0:00,,,,74 - 57,-17
+0020100402,326,12,0,4,9:13 PM,12:00,,,,74 - 57,-17
+0020100402,327,6,1,4,9:14 PM,11:46,Moore P.FOUL (P1.T1),,,,
+0020100402,328,2,1,4,9:14 PM,11:32,,,MISS Harris 17' Jump Shot,,
+0020100402,329,4,0,4,9:14 PM,11:31,Williamson REBOUND (Off:1 Def:1),,,,
+0020100402,330,2,5,4,9:14 PM,11:27,MISS Barry  Layup,,Jefferson BLOCK (2 BLK),,
+0020100402,331,4,0,4,9:14 PM,11:24,,,Jefferson REBOUND (Off:1 Def:1),,
+0020100402,332,1,5,4,9:15 PM,11:02,,,Harris  Layup (6 PTS) (Williams 1 AST),76 - 57,-19
+0020100402,333,2,3,4,9:15 PM,10:40,MISS Moore 6' Hook Shot,,,,
+0020100402,334,4,0,4,9:15 PM,10:37,,,Williams REBOUND (Off:0 Def:4),,
+0020100402,335,5,1,4,9:16 PM,10:24,Atkins STEAL (1 STL),,Jefferson Bad Pass Turnover (P1.T7),,
+0020100402,336,2,5,4,9:16 PM,10:18,MISS Barry  Layup,,,,
+0020100402,337,4,0,4,9:16 PM,10:16,,,Jefferson REBOUND (Off:1 Def:2),,
+0020100402,338,2,1,4,9:16 PM,10:10,,,MISS Dial 26' 3PT Jump Shot,,
+0020100402,339,4,0,4,9:16 PM,10:08,Williamson REBOUND (Off:1 Def:2),,,,
+0020100402,340,6,4,4,9:16 PM,10:00,Williamson OFF.Foul (P4),,,,
+0020100402,341,5,5,4,9:16 PM,10:00,Williamson Foul Turnover (P2.T16),,,,
+0020100402,342,8,0,4,9:16 PM,10:00,SUB: Stackhouse FOR Wallace,,,,
+0020100402,343,2,1,4,9:17 PM,9:41,,,MISS Williams 17' Jump Shot,,
+0020100402,344,4,0,4,9:17 PM,9:39,Barry REBOUND (Off:1 Def:3),,,,
+0020100402,346,7,2,4,9:17 PM,9:34,,,Jefferson Violation:Defensive Goaltending,,
+0020100402,345,1,42,4,9:17 PM,9:34,Atkins  Driving Layup (9 PTS),,,76 - 59,-17
+0020100402,347,2,3,4,9:17 PM,9:16,,,MISS Collins 8' Hook Shot,,
+0020100402,348,10,0,4,9:18 PM,9:10,Jump Ball Moore vs. Collins: Tip to Stackhouse,,,,
+0020100402,349,4,0,4,9:18 PM,9:10,PISTONS Rebound,,,,
+0020100402,350,2,1,4,9:19 PM,9:00,MISS Atkins 28' 3PT Jump Shot,,,,
+0020100402,351,4,0,4,9:19 PM,9:00,PISTONS Rebound,,,,
+0020100402,352,6,3,4,9:19 PM,9:00,,,Williams L.B.FOUL (P3.T1),,
+0020100402,353,2,1,4,9:19 PM,8:50,MISS Atkins 27' 3PT Jump Shot,,,,
+0020100402,354,4,0,4,9:19 PM,8:48,Barry REBOUND (Off:2 Def:3),,,,
+0020100402,355,2,5,4,9:19 PM,8:35,MISS Atkins  Layup,,,,
+0020100402,356,4,0,4,9:19 PM,8:33,,,Harris REBOUND (Off:0 Def:1),,
+0020100402,357,5,21,4,9:20 PM,8:29,,,Dial Palming Turnover (P2.T8),,
+0020100402,358,9,3,4,9:20 PM,8:29,,,,,
+0020100402,360,2,1,4,9:22 PM,8:11,MISS Barry 16' Jump Shot,,,,
+0020100402,361,4,0,4,9:22 PM,8:09,,,Williams REBOUND (Off:0 Def:5),,
+0020100402,362,6,4,4,9:23 PM,7:55,,,Collins OFF.Foul (P1),,
+0020100402,363,5,5,4,9:23 PM,7:55,,,Collins Foul Turnover (P1.T9),,
+0020100402,364,7,1,4,9:23 PM,7:55,,,Nets Violation: Delay of game Violation,,
+0020100402,365,1,42,4,9:23 PM,7:37,Atkins  Driving Layup (11 PTS),,,76 - 61,-15
+0020100402,366,2,1,4,9:23 PM,7:22,,,MISS Williams 13' Jump Shot,,
+0020100402,367,4,0,4,9:23 PM,7:20,Moore REBOUND (Off:0 Def:1),,,,
+0020100402,368,2,1,4,9:24 PM,7:12,MISS Stackhouse 26' 3PT Jump Shot,,,,
+0020100402,372,4,0,4,9:24 PM,7:10,,,Dial REBOUND (Off:1 Def:5),,
+0020100402,373,1,1,4,9:24 PM,6:53,,,Dial 17' Jump Shot (6 PTS) (Harris 1 AST),78 - 61,-17
+0020100402,374,6,4,4,9:24 PM,6:44,Williamson OFF.Foul (P5),,,,
+0020100402,375,5,5,4,9:24 PM,6:44,Williamson Foul Turnover (P3.T17),,,,
+0020100402,376,6,11,4,9:24 PM,6:44,Williamson T.FOUL (P5.T1),,,,
+0020100402,377,8,0,4,9:25 PM,6:44,SUB: Robinson FOR Williamson,,,,
+0020100402,378,8,0,4,9:25 PM,6:44,,,SUB: Kidd FOR Dial,,
+0020100402,379,8,0,4,9:25 PM,6:44,,,SUB: Martin FOR Jefferson,,
+0020100402,380,8,0,4,9:25 PM,6:44,,,SUB: Van Horn FOR Collins,,
+0020100402,381,3,16,4,9:25 PM,6:44,,,MISS Harris Free Throw Technical,,
+0020100402,382,4,1,4,9:25 PM,6:44,,,Nets Rebound,,
+0020100402,383,2,1,4,9:25 PM,6:29,,,MISS Kidd 17' Jump Shot,,
+0020100402,384,4,0,4,9:25 PM,6:27,Barry REBOUND (Off:2 Def:4),,,,
+0020100402,385,2,1,4,9:25 PM,6:20,MISS Barry 27' 3PT Jump Shot,,,,
+0020100402,386,4,0,4,9:25 PM,6:18,,,Van Horn REBOUND (Off:0 Def:6),,
+0020100402,387,6,2,4,9:26 PM,6:03,Moore S.FOUL (P2.T2),,,,
+0020100402,388,3,11,4,9:26 PM,6:03,,,Williams Free Throw 1 of 2 (11 PTS),79 - 61,-18
+0020100402,389,3,12,4,9:26 PM,6:03,,,Williams Free Throw 2 of 2 (12 PTS),80 - 61,-19
+0020100402,390,5,2,4,9:26 PM,5:53,Stackhouse Lost Ball Turnover (P7.T18),,Van Horn STEAL (1 STL),,
+0020100402,391,1,5,4,9:27 PM,5:36,,,Harris  Layup (8 PTS) (Martin 2 AST),82 - 61,-21
+0020100402,392,9,1,4,9:27 PM,5:28,PISTONS Timeout: Regular (Full 4 Short 1),,,,
+0020100402,394,8,0,4,9:29 PM,5:27,SUB: Curry FOR Barry,,,,
+0020100402,395,1,1,4,9:29 PM,5:21,Stackhouse 14' Jump Shot (16 PTS),,,82 - 63,-19
+0020100402,396,1,1,4,9:30 PM,4:59,,,Martin 18' Jump Shot (21 PTS),84 - 63,-21
+0020100402,397,8,0,4,9:30 PM,4:49,SUB: Rebraca FOR Robinson,,,,
+0020100402,398,8,0,4,9:30 PM,4:49,,,SUB: MacCulloch FOR Williams,,
+0020100402,399,8,0,4,9:30 PM,4:49,,,SUB: Kittles FOR Harris,,
+0020100402,400,6,1,4,9:30 PM,4:41,,,MacCulloch P.FOUL (P1.T2),,
+0020100402,401,8,0,4,9:30 PM,4:41,SUB: White FOR Stackhouse,,,,
+0020100402,402,1,1,4,9:31 PM,4:35,White 16' Jump Shot (2 PTS),,,84 - 65,-19
+0020100402,403,1,1,4,9:31 PM,4:19,,,Kidd 17' Jump Shot (4 PTS) (MacCulloch 2 AST),86 - 65,-21
+0020100402,404,5,1,4,9:31 PM,4:05,Atkins Bad Pass Turnover (P1.T19),,,,
+0020100402,405,8,0,4,9:31 PM,4:05,SUB: Jones FOR Atkins,,,,
+0020100402,406,2,5,4,9:32 PM,3:54,,,MISS Kidd  Layup,,
+0020100402,407,4,0,4,9:32 PM,3:52,Curry REBOUND (Off:0 Def:4),,,,
+0020100402,408,1,1,4,9:32 PM,3:46,Moore 17' Jump Shot (2 PTS) (Jones 1 AST),,,86 - 67,-19
+0020100402,409,2,1,4,9:32 PM,3:30,Moore BLOCK (1 BLK),,MISS MacCulloch 15' Jump Shot,,
+0020100402,410,4,0,4,9:32 PM,3:29,,,Nets Rebound,,
+0020100402,411,2,1,4,9:33 PM,3:18,,,MISS Kittles 17' Jump Shot,,
+0020100402,412,4,0,4,9:33 PM,3:16,,,Kidd REBOUND (Off:3 Def:3),,
+0020100402,413,2,1,4,9:33 PM,3:06,,,MISS Martin 26' 3PT Jump Shot,,
+0020100402,414,4,0,4,9:33 PM,3:04,Rebraca REBOUND (Off:0 Def:3),,,,
+0020100402,415,1,1,4,9:33 PM,2:48,Curry 20' Jump Shot (2 PTS) (Moore 1 AST),,,86 - 69,-17
+0020100402,416,6,4,4,9:33 PM,2:36,,,MacCulloch OFF.Foul (P2),,
+0020100402,417,5,5,4,9:33 PM,2:36,,,MacCulloch Foul Turnover (P1.T10),,
+0020100402,418,9,1,4,9:34 PM,2:36,,,Nets Timeout: Regular (Reg.4 Short 1),,
+0020100402,420,8,0,4,9:35 PM,2:36,,,SUB: Goodrich FOR Van Horn,,
+0020100402,421,2,1,4,9:36 PM,2:21,MISS White 16' Jump Shot,,,,
+0020100402,422,4,0,4,9:36 PM,2:19,,,Kidd REBOUND (Off:3 Def:4),,
+0020100402,423,2,1,4,9:36 PM,2:05,,,MISS Kidd 19' Jump Shot,,
+0020100402,424,4,0,4,9:36 PM,2:04,,,Nets Rebound,,
+0020100402,425,8,0,4,9:37 PM,2:04,,,SUB: Dial FOR Martin,,
+0020100402,426,8,0,4,9:37 PM,2:04,,,SUB: Armstrong FOR MacCulloch,,
+0020100402,427,8,0,4,9:37 PM,2:04,,,SUB: Collins FOR Kittles,,
+0020100402,428,8,0,4,9:37 PM,2:04,,,SUB: Jefferson FOR Kidd,,
+0020100402,429,2,1,4,9:37 PM,1:47,,,MISS Collins 13' Jump Shot,,
+0020100402,430,4,0,4,9:37 PM,1:45,White REBOUND (Off:0 Def:1),,,,
+0020100402,431,1,1,4,9:37 PM,1:28,White 17' Jump Shot (4 PTS) (Curry 1 AST),,,86 - 71,-15
+0020100402,432,2,1,4,9:38 PM,1:11,,,MISS Dial 17' Jump Shot,,
+0020100402,433,4,0,4,9:38 PM,1:09,Jones REBOUND (Off:0 Def:1),,,,
+0020100402,434,1,42,4,9:38 PM,1:05,Jones  Driving Layup (2 PTS),,,86 - 73,-13
+0020100402,435,6,2,4,9:38 PM,0:48,Curry S.FOUL (P3.T3),,,,
+0020100402,436,3,11,4,9:38 PM,0:48,,,Armstrong Free Throw 1 of 2 (1 PTS),87 - 73,-14
+0020100402,437,3,12,4,9:39 PM,0:48,,,Armstrong Free Throw 2 of 2 (2 PTS),88 - 73,-15
+0020100402,438,6,1,4,9:39 PM,0:42,,,Collins P.FOUL (P2.T3),,
+0020100402,439,2,46,4,9:39 PM,0:32,MISS White 13' Running Jump Shot,,,,
+0020100402,440,4,0,4,9:39 PM,0:29,Rebraca REBOUND (Off:1 Def:3),,,,
+0020100402,441,1,5,4,9:39 PM,0:28,Rebraca  Layup (6 PTS),,,88 - 75,-13
+0020100402,442,6,4,4,9:40 PM,0:15,,,Armstrong OFF.Foul (P1),,
+0020100402,443,5,5,4,9:40 PM,0:15,,,Armstrong Foul Turnover (P1.T11),,
+0020100402,444,2,1,4,9:40 PM,0:07,MISS White 20' Jump Shot,,,,
+0020100402,445,4,0,4,9:40 PM,0:04,,,Collins REBOUND (Off:0 Def:4),,
+0020100402,446,13,0,4,9:40 PM,0:00,,,,88 - 75,-13

@@ -1,0 +1,426 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900291,0,12,0,1,12:14 PM,12:00,,,,,
+0020900291,1,10,0,1,12:14 PM,12:00,Jump Ball Jeffries vs. Lopez: Tip to Duhon,,,,
+0020900291,2,2,5,1,12:15 PM,11:42,MISS Duhon  Layup,,,,
+0020900291,4,4,0,1,12:15 PM,11:40,Lee REBOUND (Off:1 Def:0),,,,
+0020900291,3,1,4,1,12:15 PM,11:40,Lee  Tip Shot (2 PTS),,,0 - 2,2
+0020900291,5,1,1,1,12:16 PM,11:18,,,Douglas-Roberts 16' Jump Shot (2 PTS) (Lee 1 AST),2 - 2,TIE
+0020900291,6,1,1,1,12:16 PM,11:03,Lee 18' Jump Shot (4 PTS) (Jeffries 1 AST),,,2 - 4,2
+0020900291,7,2,1,1,12:16 PM,10:49,,,MISS Douglas-Roberts 20' Jump Shot,,
+0020900291,8,4,0,1,12:16 PM,10:48,Duhon REBOUND (Off:0 Def:1),,,,
+0020900291,9,1,42,1,12:16 PM,10:40,Harrington  Driving Layup (2 PTS),,,2 - 6,4
+0020900291,10,6,2,1,12:16 PM,10:40,,,Boone S.FOUL (P1.T1),,
+0020900291,11,3,10,1,12:16 PM,10:40,Harrington Free Throw 1 of 1 (3 PTS),,,2 - 7,5
+0020900291,13,1,42,1,12:17 PM,10:24,,,Harris  Driving Layup (2 PTS),4 - 7,3
+0020900291,14,2,1,1,12:17 PM,10:09,MISS Harrington 16' Jump Shot,,,,
+0020900291,15,4,0,1,12:17 PM,10:08,,,Lopez REBOUND (Off:0 Def:1),,
+0020900291,16,1,42,1,12:18 PM,10:00,,,Harris  Driving Layup (4 PTS),6 - 7,1
+0020900291,17,2,1,1,12:18 PM,9:49,MISS Duhon 19' Jump Shot,,,,
+0020900291,18,4,0,1,12:18 PM,9:48,,,Lee REBOUND (Off:0 Def:1),,
+0020900291,19,1,1,1,12:18 PM,9:26,,,Lopez 19' Jump Shot (2 PTS) (Douglas-Roberts 1 AST),8 - 7,-1
+0020900291,20,2,5,1,12:18 PM,9:04,MISS Duhon  Layup,,,,
+0020900291,21,4,0,1,12:18 PM,9:03,Duhon REBOUND (Off:1 Def:1),,,,
+0020900291,22,2,5,1,12:18 PM,9:02,MISS Duhon  Layup,,Lopez BLOCK (1 BLK),,
+0020900291,23,4,0,1,12:18 PM,9:01,,,Boone REBOUND (Off:0 Def:1),,
+0020900291,24,1,5,1,12:19 PM,8:57,,,Lopez  Layup (4 PTS) (Harris 1 AST),10 - 7,-3
+0020900291,25,2,1,1,12:19 PM,8:40,MISS Harrington 26' 3PT Jump Shot,,,,
+0020900291,26,4,0,1,12:19 PM,8:39,Jeffries REBOUND (Off:1 Def:0),,,,
+0020900291,27,1,42,1,12:19 PM,8:23,Harrington  Driving Layup (5 PTS),,,10 - 9,-1
+0020900291,28,5,1,1,12:19 PM,8:10,Lee STEAL (1 STL),,Lee Bad Pass Turnover (P1.T1),,
+0020900291,29,1,52,1,12:19 PM,8:04,Chandler  Alley Oop Dunk (2 PTS) (Jeffries 2 AST),,,10 - 11,1
+0020900291,30,5,21,1,12:20 PM,7:39,,,Lee Palming Turnover (P2.T2),,
+0020900291,31,2,1,1,12:20 PM,7:21,MISS Harrington 22' Jump Shot,,,,
+0020900291,32,4,0,1,12:20 PM,7:21,,,Lopez REBOUND (Off:0 Def:2),,
+0020900291,33,1,42,1,12:21 PM,7:16,,,Harris  Driving Layup (6 PTS),12 - 11,-1
+0020900291,34,2,1,1,12:21 PM,6:56,MISS Lee 19' Jump Shot,,,,
+0020900291,35,4,0,1,12:21 PM,6:55,Jeffries REBOUND (Off:2 Def:0),,,,
+0020900291,39,7,2,1,12:22 PM,6:50,,,Lopez Violation:Defensive Goaltending,,
+0020900291,38,1,5,1,12:22 PM,6:50,Harrington  Layup (7 PTS) (Duhon 1 AST),,,12 - 13,1
+0020900291,40,2,1,1,12:22 PM,6:39,,,MISS Lee 25' 3PT Jump Shot,,
+0020900291,41,4,0,1,12:22 PM,6:38,Chandler REBOUND (Off:0 Def:1),,,,
+0020900291,42,2,1,1,12:22 PM,6:32,MISS Duhon 24' 3PT Jump Shot,,,,
+0020900291,43,4,0,1,12:22 PM,6:27,,,Boone REBOUND (Off:0 Def:2),,
+0020900291,44,1,5,1,12:22 PM,6:18,,,Boone  Layup (2 PTS) (Douglas-Roberts 2 AST),14 - 13,-1
+0020900291,45,5,1,1,12:22 PM,5:59,Duhon Bad Pass Turnover (P1.T1),,Douglas-Roberts STEAL (1 STL),,
+0020900291,46,1,1,1,12:23 PM,5:44,,,Lopez 10' Jump Shot (6 PTS),16 - 13,-3
+0020900291,47,1,1,1,12:23 PM,5:32,Lee 17' Jump Shot (6 PTS),,,16 - 15,-1
+0020900291,48,1,42,1,12:23 PM,5:13,,,Douglas-Roberts  Driving Layup (4 PTS),18 - 15,-3
+0020900291,49,1,73,1,12:24 PM,4:51,Harrington  Driving Reverse Layup (9 PTS),,,18 - 17,-1
+0020900291,50,2,1,1,12:24 PM,4:37,,,MISS Harris 18' Jump Shot,,
+0020900291,51,4,0,1,12:24 PM,4:36,Lee REBOUND (Off:1 Def:1),,,,
+0020900291,52,6,2,1,12:24 PM,4:33,,,Harris S.FOUL (P1.T2),,
+0020900291,53,9,1,1,12:24 PM,4:33,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0020900291,55,8,0,1,12:27 PM,4:33,,,SUB: Williams FOR Boone,,
+0020900291,56,8,0,1,12:27 PM,4:33,SUB: Gallinari FOR Jeffries,,,,
+0020900291,57,8,0,1,12:27 PM,4:33,SUB: Hughes FOR Chandler,,,,
+0020900291,58,3,11,1,12:27 PM,4:33,Harrington Free Throw 1 of 2 (10 PTS),,,18 - 18,TIE
+0020900291,60,3,12,1,12:28 PM,4:33,Harrington Free Throw 2 of 2 (11 PTS),,,18 - 19,1
+0020900291,62,1,42,1,12:28 PM,4:21,,,Harris  Driving Layup (8 PTS) (Lopez 1 AST),20 - 19,-1
+0020900291,63,6,2,1,12:28 PM,4:21,Lee S.FOUL (P1.T1),,,,
+0020900291,64,3,10,1,12:28 PM,4:21,,,Harris Free Throw 1 of 1 (9 PTS),21 - 19,-2
+0020900291,66,1,5,1,12:28 PM,4:09,Lee  Layup (8 PTS) (Harrington 1 AST),,,21 - 21,TIE
+0020900291,67,7,1,1,12:29 PM,4:01,KNICKS Violation: Delay of game Violation,,,,
+0020900291,68,2,1,1,12:29 PM,3:52,,,MISS Harris 15' Jump Shot,,
+0020900291,69,4,0,1,12:29 PM,3:50,Lee REBOUND (Off:1 Def:2),,,,
+0020900291,70,2,1,1,12:30 PM,3:26,MISS Harrington 27' 3PT Jump Shot,,,,
+0020900291,71,4,0,1,12:30 PM,3:26,KNICKS Rebound,,,,
+0020900291,72,5,11,1,12:30 PM,3:26,KNICKS Turnover: Shot Clock (T#2),,,,
+0020900291,73,9,1,1,12:30 PM,3:20,,,Nets Timeout: Regular (Reg.1 Short 0),,
+0020900291,77,2,1,1,12:33 PM,3:14,Gallinari BLOCK (1 BLK),,MISS Williams 8' Jump Shot,,
+0020900291,78,4,0,1,12:33 PM,3:12,Harrington REBOUND (Off:0 Def:1),,,,
+0020900291,79,1,5,1,12:34 PM,2:54,Lee  Layup (10 PTS) (Harrington 2 AST),,,21 - 23,2
+0020900291,80,1,42,1,12:34 PM,2:35,,,Douglas-Roberts  Driving Layup (6 PTS),23 - 23,TIE
+0020900291,81,2,5,1,12:34 PM,2:20,MISS Gallinari  Layup,,Douglas-Roberts BLOCK (1 BLK),,
+0020900291,82,4,0,1,12:34 PM,2:18,,,Douglas-Roberts REBOUND (Off:0 Def:1),,
+0020900291,83,6,1,1,12:34 PM,2:11,Harrington P.FOUL (P1.T2),,,,
+0020900291,84,1,79,1,12:35 PM,2:04,,,Douglas-Roberts 20' Pullup Jump Shot (8 PTS),25 - 23,-2
+0020900291,85,5,1,1,12:35 PM,1:52,Harrington Bad Pass Turnover (P1.T3),,Lee STEAL (1 STL),,
+0020900291,86,2,5,1,12:35 PM,1:39,,,MISS Williams  Layup,,
+0020900291,87,4,0,1,12:35 PM,1:38,Gallinari REBOUND (Off:0 Def:1),,,,
+0020900291,88,1,1,1,12:35 PM,1:25,Harrington 25' 3PT Jump Shot (14 PTS) (Duhon 2 AST),,,25 - 26,1
+0020900291,89,1,52,1,12:36 PM,1:00,,,Lopez  Alley Oop Dunk (8 PTS) (Douglas-Roberts 3 AST),27 - 26,-1
+0020900291,90,2,1,1,12:36 PM,0:43,MISS Harrington 9' Jump Shot,,,,
+0020900291,91,4,0,1,12:36 PM,0:42,,,Lopez REBOUND (Off:0 Def:3),,
+0020900291,92,1,1,1,12:36 PM,0:39,,,Harris 26' 3PT Jump Shot (12 PTS),30 - 26,-4
+0020900291,95,6,1,1,12:37 PM,0:31,,,Williams P.FOUL (P1.T3),,
+0020900291,96,8,0,1,12:37 PM,0:31,SUB: Jeffries FOR Lee,,,,
+0020900291,97,8,0,1,12:37 PM,0:31,SUB: Douglas FOR Duhon,,,,
+0020900291,99,8,0,1,12:37 PM,0:31,,,SUB: Boone FOR Lopez,,
+0020900291,100,2,1,1,12:37 PM,0:20,MISS Douglas 25' 3PT Jump Shot,,,,
+0020900291,101,4,0,1,12:38 PM,0:19,,,Nets Rebound,,
+0020900291,102,2,1,1,12:38 PM,0:01,Hughes BLOCK (1 BLK),,MISS Douglas-Roberts 18' Jump Shot,,
+0020900291,103,4,0,1,12:38 PM,0:00,Harrington REBOUND (Off:0 Def:2),,,,
+0020900291,104,13,0,1,12:38 PM,0:00,,,,30 - 26,-4
+0020900291,106,12,0,2,12:41 PM,12:00,,,,30 - 26,-4
+0020900291,107,2,5,2,12:42 PM,11:35,,,MISS Alston  Layup,,
+0020900291,108,4,0,2,12:42 PM,11:34,,,Alston REBOUND (Off:1 Def:0),,
+0020900291,109,2,1,2,12:42 PM,11:23,,,MISS Alston 25' 3PT Jump Shot,,
+0020900291,110,4,0,2,12:42 PM,11:22,Gallinari REBOUND (Off:0 Def:2),,,,
+0020900291,111,2,5,2,12:42 PM,11:12,MISS Chandler  Layup,,Boone BLOCK (1 BLK),,
+0020900291,112,4,0,2,12:42 PM,11:11,Chandler REBOUND (Off:1 Def:1),,,,
+0020900291,113,2,5,2,12:42 PM,11:10,MISS Chandler  Layup,,,,
+0020900291,115,4,0,2,12:42 PM,11:08,Chandler REBOUND (Off:2 Def:1),,,,
+0020900291,114,1,4,2,12:42 PM,11:08,Chandler  Tip Shot (4 PTS),,,30 - 28,-2
+0020900291,116,5,4,2,12:43 PM,10:56,,,Douglas-Roberts Traveling Turnover (P1.T3),,
+0020900291,117,8,0,2,12:43 PM,10:56,,,SUB: Dooling FOR Lee,,
+0020900291,118,1,1,2,12:43 PM,10:46,Gallinari 26' 3PT Jump Shot (3 PTS) (Chandler 1 AST),,,30 - 31,1
+0020900291,119,2,1,2,12:43 PM,10:31,,,MISS Williams 17' Jump Shot,,
+0020900291,120,4,0,2,12:43 PM,10:30,,,Boone REBOUND (Off:1 Def:2),,
+0020900291,121,2,5,2,12:43 PM,10:24,,,MISS Boone  Layup,,
+0020900291,122,4,0,2,12:43 PM,10:23,Douglas REBOUND (Off:0 Def:1),,,,
+0020900291,123,5,39,2,12:43 PM,10:23,Douglas Step Out of Bounds Turnover (P1.T4),,,,
+0020900291,124,8,0,2,12:44 PM,10:23,,,SUB: Hassell FOR Williams,,
+0020900291,125,1,1,2,12:44 PM,10:17,,,Dooling 18' Jump Shot (2 PTS) (Douglas-Roberts 4 AST),32 - 31,-1
+0020900291,126,6,2,2,12:44 PM,10:07,,,Hassell S.FOUL (P1.T1),,
+0020900291,127,3,11,2,12:44 PM,10:07,Jeffries Free Throw 1 of 2 (1 PTS),,,32 - 32,TIE
+0020900291,129,3,12,2,12:44 PM,10:07,MISS Jeffries Free Throw 2 of 2,,,,
+0020900291,133,4,0,2,12:45 PM,10:01,,,Boone REBOUND (Off:1 Def:3),,
+0020900291,134,1,1,2,12:45 PM,9:52,,,Hassell 19' Jump Shot (2 PTS) (Alston 1 AST),34 - 32,-2
+0020900291,135,5,1,2,12:45 PM,9:41,Hughes Bad Pass Turnover (P1.T5),,Douglas-Roberts STEAL (2 STL),,
+0020900291,136,1,1,2,12:45 PM,9:27,,,Dooling 19' Jump Shot (4 PTS),36 - 32,-4
+0020900291,138,6,1,2,12:46 PM,9:16,,,Douglas-Roberts P.FOUL (P1.T2),,
+0020900291,139,1,1,2,12:46 PM,9:11,Gallinari 27' 3PT Jump Shot (6 PTS) (Chandler 2 AST),,,36 - 35,-1
+0020900291,140,2,1,2,12:46 PM,8:54,,,MISS Hassell 20' Jump Shot,,
+0020900291,141,4,0,2,12:46 PM,8:53,,,Alston REBOUND (Off:2 Def:0),,
+0020900291,142,2,5,2,12:46 PM,8:46,,,MISS Dooling  Layup,,
+0020900291,143,4,0,2,12:46 PM,8:45,Chandler REBOUND (Off:2 Def:2),,,,
+0020900291,144,1,5,2,12:46 PM,8:40,Douglas  Layup (2 PTS) (Hughes 1 AST),,,36 - 37,1
+0020900291,145,1,5,2,12:47 PM,8:30,,,Boone  Layup (4 PTS) (Alston 2 AST),38 - 37,-1
+0020900291,146,2,5,2,12:47 PM,8:16,MISS Jeffries  Layup,,,,
+0020900291,147,4,0,2,12:47 PM,8:15,,,Alston REBOUND (Off:2 Def:1),,
+0020900291,148,6,2,2,12:47 PM,8:10,Chandler S.FOUL (P1.T1),,,,
+0020900291,149,9,4,2,12:47 PM,8:10,,,,,
+0020900291,151,8,0,2,12:49 PM,8:10,,,SUB: Harris FOR Douglas-Roberts,,
+0020900291,152,3,11,2,12:50 PM,8:10,,,Hassell Free Throw 1 of 2 (3 PTS),39 - 37,-2
+0020900291,154,3,12,2,12:50 PM,8:10,,,Hassell Free Throw 2 of 2 (4 PTS),40 - 37,-3
+0020900291,156,6,2,2,12:50 PM,7:53,,,Boone S.FOUL (P2.T3),,
+0020900291,157,3,11,2,12:51 PM,7:53,MISS Jeffries Free Throw 1 of 2,,,,
+0020900291,158,4,1,2,12:51 PM,7:53,KNICKS Rebound,,,,
+0020900291,159,8,0,2,12:51 PM,7:53,,,SUB: Lopez FOR Boone,,
+0020900291,160,3,12,2,12:51 PM,7:53,Jeffries Free Throw 2 of 2 (2 PTS),,,40 - 38,-2
+0020900291,162,1,79,2,12:51 PM,7:34,,,Dooling 18' Pullup Jump Shot (6 PTS),42 - 38,-4
+0020900291,163,2,1,2,12:52 PM,7:13,MISS Douglas 26' 3PT Jump Shot,,,,
+0020900291,164,4,0,2,12:52 PM,7:11,,,Alston REBOUND (Off:2 Def:2),,
+0020900291,165,1,1,2,12:52 PM,7:02,,,Dooling  3PT Jump Shot (9 PTS) (Alston 3 AST),45 - 38,-7
+0020900291,166,9,1,2,12:52 PM,7:01,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0020900291,168,8,0,2,12:54 PM,7:01,SUB: Lee FOR Jeffries,,,,
+0020900291,169,8,0,2,12:54 PM,7:01,SUB: Harrington FOR Hughes,,,,
+0020900291,170,8,0,2,12:54 PM,7:01,SUB: Duhon FOR Douglas,,,,
+0020900291,172,5,4,2,12:55 PM,6:55,Gallinari Traveling Turnover (P1.T6),,,,
+0020900291,173,1,42,2,12:55 PM,6:44,,,Harris  Driving Layup (14 PTS) (Lopez 2 AST),47 - 38,-9
+0020900291,174,6,2,2,12:55 PM,6:44,Chandler S.FOUL (P2.T2),,,,
+0020900291,175,8,0,2,12:56 PM,6:44,,,SUB: Lee FOR Dooling,,
+0020900291,176,3,10,2,12:56 PM,6:44,,,Harris Free Throw 1 of 1 (15 PTS),48 - 38,-10
+0020900291,178,2,1,2,12:56 PM,6:28,MISS Duhon 24' 3PT Jump Shot,,,,
+0020900291,179,4,0,2,12:56 PM,6:27,,,Alston REBOUND (Off:2 Def:3),,
+0020900291,180,6,2,2,12:56 PM,6:24,Gallinari S.FOUL (P1.T3),,,,
+0020900291,181,3,11,2,12:57 PM,6:24,,,MISS Alston Free Throw 1 of 2,,
+0020900291,182,4,1,2,12:57 PM,6:24,,,Nets Rebound,,
+0020900291,183,3,12,2,12:57 PM,6:24,,,Alston Free Throw 2 of 2 (1 PTS),49 - 38,-11
+0020900291,185,5,1,2,12:57 PM,6:16,Chandler Bad Pass Turnover (P1.T7),,,,
+0020900291,186,8,0,2,12:57 PM,6:16,,,SUB: Douglas-Roberts FOR Alston,,
+0020900291,187,5,21,2,12:58 PM,5:58,,,Lee Palming Turnover (P3.T4),,
+0020900291,188,8,0,2,12:58 PM,5:58,SUB: Hughes FOR Chandler,,,,
+0020900291,189,6,1,2,12:58 PM,5:48,,,Douglas-Roberts P.FOUL (P2.T4),,
+0020900291,190,6,1,2,12:59 PM,5:47,,,Lee P.FOUL (P1.PN),,
+0020900291,191,3,11,2,12:59 PM,5:47,Hughes Free Throw 1 of 2 (1 PTS),,,49 - 39,-10
+0020900291,193,3,12,2,12:59 PM,5:47,Hughes Free Throw 2 of 2 (2 PTS),,,49 - 40,-9
+0020900291,195,2,1,2,1:00 PM,5:29,,,MISS Harris 20' Jump Shot,,
+0020900291,196,4,0,2,1:00 PM,5:28,Gallinari REBOUND (Off:0 Def:3),,,,
+0020900291,197,2,5,2,1:00 PM,5:18,MISS Lee  Layup,,Lopez BLOCK (2 BLK),,
+0020900291,198,4,0,2,1:00 PM,5:16,,,Lee REBOUND (Off:0 Def:2),,
+0020900291,199,2,5,2,1:00 PM,5:12,,,MISS Lee  Layup,,
+0020900291,200,4,0,2,1:00 PM,5:11,,,Hassell REBOUND (Off:1 Def:0),,
+0020900291,513,2,40,2,1:00 PM,5:10,Harrington BLOCK (1 BLK),,MISS Hassell  Layup,,
+0020900291,514,4,0,2,1:00 PM,5:09,,,Hassell REBOUND (Off:2 Def:0),,
+0020900291,201,1,5,2,1:00 PM,5:04,,,Douglas-Roberts  Layup (10 PTS) (Hassell 1 AST),51 - 40,-11
+0020900291,202,1,42,2,1:01 PM,4:52,Duhon  Driving Layup (2 PTS),,,51 - 42,-9
+0020900291,203,6,2,2,1:01 PM,4:42,Gallinari S.FOUL (P2.T4),,,,
+0020900291,204,8,0,2,1:01 PM,4:42,SUB: Jeffries FOR Gallinari,,,,
+0020900291,205,3,11,2,1:01 PM,4:42,,,Lopez Free Throw 1 of 2 (9 PTS),52 - 42,-10
+0020900291,207,3,12,2,1:01 PM,4:42,,,Lopez Free Throw 2 of 2 (10 PTS),53 - 42,-11
+0020900291,209,6,2,2,1:02 PM,4:29,,,Lopez S.FOUL (P1.PN),,
+0020900291,210,3,11,2,1:02 PM,4:29,Harrington Free Throw 1 of 2 (15 PTS),,,53 - 43,-10
+0020900291,212,3,12,2,1:02 PM,4:29,Harrington Free Throw 2 of 2 (16 PTS),,,53 - 44,-9
+0020900291,214,1,52,2,1:03 PM,4:21,,,Lopez  Alley Oop Dunk (12 PTS) (Harris 2 AST),55 - 44,-11
+0020900291,215,2,5,2,1:03 PM,4:05,MISS Lee  Layup,,,,
+0020900291,216,4,0,2,1:03 PM,4:04,,,Lopez REBOUND (Off:0 Def:4),,
+0020900291,217,1,42,2,1:03 PM,3:52,,,Harris  Driving Layup (17 PTS),57 - 44,-13
+0020900291,218,1,45,2,1:04 PM,3:30,Lee 16' Jump Shot (12 PTS),,,57 - 46,-11
+0020900291,219,2,1,2,1:04 PM,3:11,,,MISS Douglas-Roberts 24' 3PT Jump Shot,,
+0020900291,220,4,0,2,1:04 PM,3:10,Lee REBOUND (Off:1 Def:3),,,,
+0020900291,221,1,42,2,1:04 PM,3:03,Hughes  Driving Layup (4 PTS),,,57 - 48,-9
+0020900291,222,6,2,2,1:04 PM,3:03,,,Lopez S.FOUL (P2.PN),,
+0020900291,223,3,10,2,1:04 PM,3:03,Hughes Free Throw 1 of 1 (5 PTS),,,57 - 49,-8
+0020900291,225,9,1,2,1:05 PM,2:57,,,Nets Timeout: Regular (Reg.2 Short 0),,
+0020900291,229,5,2,2,1:08 PM,2:46,Jeffries STEAL (1 STL),,Lopez Lost Ball Turnover (P1.T5),,
+0020900291,230,5,1,2,1:08 PM,2:27,Duhon Bad Pass Turnover (P2.T8),,,,
+0020900291,231,8,0,2,1:08 PM,2:27,,,SUB: Boone FOR Lopez,,
+0020900291,232,2,1,2,1:09 PM,2:05,,,MISS Harris 27' 3PT Jump Shot,,
+0020900291,233,4,0,2,1:09 PM,2:04,Lee REBOUND (Off:1 Def:4),,,,
+0020900291,234,2,5,2,1:09 PM,1:45,MISS Duhon  Layup,,,,
+0020900291,235,4,0,2,1:09 PM,1:45,,,Boone REBOUND (Off:1 Def:4),,
+0020900291,236,1,79,2,1:09 PM,1:34,,,Douglas-Roberts 17' Pullup Jump Shot (12 PTS),59 - 49,-10
+0020900291,237,6,4,2,1:10 PM,1:16,Jeffries OFF.Foul (P1),,,,
+0020900291,238,5,5,2,1:10 PM,1:16,Jeffries Foul Turnover (P1.T9),,,,
+0020900291,239,2,1,2,1:10 PM,0:55,,,MISS Harris 26' 3PT Jump Shot,,
+0020900291,240,4,0,2,1:10 PM,0:54,Harrington REBOUND (Off:0 Def:3),,,,
+0020900291,241,2,1,2,1:10 PM,0:46,MISS Hughes 15' Jump Shot,,,,
+0020900291,242,4,0,2,1:10 PM,0:46,KNICKS Rebound,,,,
+0020900291,243,6,3,2,1:10 PM,0:46,,,Harris L.B.FOUL (P2.PN),,
+0020900291,244,3,11,2,1:11 PM,0:46,Jeffries Free Throw 1 of 2 (3 PTS),,,59 - 50,-9
+0020900291,246,8,0,2,1:11 PM,0:46,,,SUB: Alston FOR Harris,,
+0020900291,247,3,12,2,1:11 PM,0:46,Jeffries Free Throw 2 of 2 (4 PTS),,,59 - 51,-8
+0020900291,249,9,2,2,1:11 PM,0:41,,,Nets Timeout: Short (Reg.2 Short 1),,
+0020900291,253,2,5,2,1:13 PM,0:27,,,MISS Alston  Layup,,
+0020900291,254,4,0,2,1:13 PM,0:26,Harrington REBOUND (Off:0 Def:4),,,,
+0020900291,255,1,5,2,1:13 PM,0:06,Lee  Layup (14 PTS) (Harrington 3 AST),,,59 - 53,-6
+0020900291,256,1,1,2,1:14 PM,0:00,,,Hassell 20' Jump Shot (6 PTS) (Alston 4 AST),61 - 53,-8
+0020900291,257,13,0,2,1:14 PM,0:00,,,,61 - 53,-8
+0020900291,259,12,0,3,1:32 PM,12:00,,,,61 - 53,-8
+0020900291,261,2,45,3,1:32 PM,11:44,,,MISS Douglas-Roberts 24' 3PT Jump Shot,,
+0020900291,260,4,0,3,1:32 PM,11:42,Duhon REBOUND (Off:1 Def:2),,,,
+0020900291,262,6,2,3,1:33 PM,11:24,,,Boone S.FOUL (P3.T1),,
+0020900291,263,3,13,3,1:33 PM,11:24,Hughes Free Throw 1 of 3 (6 PTS),,,61 - 54,-7
+0020900291,265,3,14,3,1:33 PM,11:24,Hughes Free Throw 2 of 3 (7 PTS),,,61 - 55,-6
+0020900291,267,3,15,3,1:33 PM,11:24,Hughes Free Throw 3 of 3 (8 PTS),,,61 - 56,-5
+0020900291,269,2,1,3,1:34 PM,10:59,,,MISS Lopez 20' Jump Shot,,
+0020900291,270,4,0,3,1:34 PM,10:58,Harrington REBOUND (Off:0 Def:5),,,,
+0020900291,271,2,1,3,1:34 PM,10:46,MISS Hughes 15' Jump Shot,,,,
+0020900291,272,4,0,3,1:34 PM,10:45,,,Lee REBOUND (Off:0 Def:3),,
+0020900291,273,1,1,3,1:34 PM,10:38,,,Douglas-Roberts 14' Jump Shot (14 PTS) (Lee 2 AST),63 - 56,-7
+0020900291,274,2,1,3,1:35 PM,10:24,MISS Lee 20' Jump Shot,,,,
+0020900291,275,4,0,3,1:35 PM,10:23,,,Boone REBOUND (Off:1 Def:5),,
+0020900291,276,2,1,3,1:35 PM,10:14,,,MISS Douglas-Roberts 17' Jump Shot,,
+0020900291,277,4,0,3,1:35 PM,10:08,Harrington REBOUND (Off:0 Def:6),,,,
+0020900291,278,2,5,3,1:35 PM,10:06,MISS Hughes  Layup,,Lopez BLOCK (3 BLK),,
+0020900291,279,4,0,3,1:35 PM,10:05,Hughes REBOUND (Off:1 Def:0),,,,
+0020900291,280,5,41,3,1:35 PM,10:04,Hughes Poss Lost Ball Turnover (P2.T10),,Harris STEAL (1 STL),,
+0020900291,281,2,5,3,1:35 PM,9:56,,,MISS Harris  Layup,,
+0020900291,282,4,0,3,1:35 PM,9:52,Hughes REBOUND (Off:1 Def:1),,,,
+0020900291,283,2,5,3,1:35 PM,9:50,MISS Harrington  Layup,,,,
+0020900291,284,4,0,3,1:35 PM,9:49,,,Harris REBOUND (Off:0 Def:1),,
+0020900291,285,6,4,3,1:35 PM,9:44,,,Harris OFF.Foul (P3),,
+0020900291,286,5,5,3,1:35 PM,9:44,,,Harris Foul Turnover (P1.T6),,
+0020900291,287,2,1,3,1:36 PM,9:30,MISS Hughes 19' Jump Shot,,,,
+0020900291,288,4,0,3,1:36 PM,9:29,Jeffries REBOUND (Off:3 Def:0),,,,
+0020900291,289,5,1,3,1:36 PM,9:26,Jeffries Bad Pass Turnover (P2.T11),,Lopez STEAL (1 STL),,
+0020900291,290,2,5,3,1:36 PM,9:10,,,MISS Harris  Layup,,
+0020900291,291,4,0,3,1:36 PM,9:09,Jeffries REBOUND (Off:3 Def:1),,,,
+0020900291,292,2,1,3,1:36 PM,8:53,MISS Lee 19' Jump Shot,,,,
+0020900291,293,4,0,3,1:36 PM,8:52,,,Lee REBOUND (Off:0 Def:4),,
+0020900291,294,2,1,3,1:37 PM,8:42,,,MISS Lopez 18' Jump Shot,,
+0020900291,295,4,0,3,1:37 PM,8:40,Harrington REBOUND (Off:0 Def:7),,,,
+0020900291,296,6,2,3,1:37 PM,8:36,,,Lopez S.FOUL (P3.T2),,
+0020900291,297,3,11,3,1:37 PM,8:36,MISS Hughes Free Throw 1 of 2,,,,
+0020900291,298,4,1,3,1:37 PM,8:36,KNICKS Rebound,,,,
+0020900291,299,3,12,3,1:37 PM,8:36,Hughes Free Throw 2 of 2 (9 PTS),,,63 - 57,-6
+0020900291,301,9,1,3,1:38 PM,8:33,,,Nets Timeout: Regular (Reg.3 Short 1),,
+0020900291,307,8,0,3,1:38 PM,8:33,,,SUB: Williams FOR Boone,,
+0020900291,305,2,1,3,1:41 PM,8:26,,,MISS Williams 19' Jump Shot,,
+0020900291,306,4,0,3,1:41 PM,8:24,Harrington REBOUND (Off:0 Def:8),,,,
+0020900291,308,1,1,3,1:41 PM,8:08,Lee 7' Jump Shot (16 PTS) (Harrington 4 AST),,,63 - 59,-4
+0020900291,309,2,1,3,1:42 PM,7:45,,,MISS Lee 20' Jump Shot,,
+0020900291,310,4,0,3,1:42 PM,7:40,,,Douglas-Roberts REBOUND (Off:1 Def:1),,
+0020900291,311,1,1,3,1:42 PM,7:32,,,Douglas-Roberts 15' Jump Shot (16 PTS),65 - 59,-6
+0020900291,312,1,42,3,1:42 PM,7:09,Hughes  Driving Layup (11 PTS),,,65 - 61,-4
+0020900291,313,6,2,3,1:42 PM,7:09,,,Williams S.FOUL (P2.T3),,
+0020900291,314,3,10,3,1:42 PM,7:09,Hughes Free Throw 1 of 1 (12 PTS),,,65 - 62,-3
+0020900291,316,1,1,3,1:43 PM,6:48,,,Douglas-Roberts 19' Jump Shot (18 PTS) (Harris 3 AST),67 - 62,-5
+0020900291,317,1,79,3,1:43 PM,6:31,Hughes 8' Pullup Jump Shot (14 PTS),,,67 - 64,-3
+0020900291,318,2,1,3,1:43 PM,6:20,,,MISS Williams 20' Jump Shot,,
+0020900291,319,4,0,3,1:43 PM,6:19,Lee REBOUND (Off:1 Def:5),,,,
+0020900291,320,1,1,3,1:43 PM,6:13,Hughes 25' 3PT Jump Shot (17 PTS) (Duhon 3 AST),,,67 - 67,TIE
+0020900291,321,1,42,3,1:44 PM,5:57,,,Douglas-Roberts  Driving Layup (20 PTS),69 - 67,-2
+0020900291,322,1,5,3,1:44 PM,5:38,Lee  Layup (18 PTS) (Hughes 2 AST),,,69 - 69,TIE
+0020900291,323,1,8,3,1:44 PM,5:29,,,Lopez  Slam Dunk (14 PTS) (Harris 4 AST),71 - 69,-2
+0020900291,324,6,1,3,1:44 PM,5:19,,,Lee P.FOUL (P2.T4),,
+0020900291,325,8,0,3,1:44 PM,5:19,,,SUB: Hassell FOR Williams,,
+0020900291,326,6,1,3,1:45 PM,5:16,,,Hassell P.FOUL (P2.PN),,
+0020900291,327,3,11,3,1:45 PM,5:16,Hughes Free Throw 1 of 2 (18 PTS),,,71 - 70,-1
+0020900291,329,3,12,3,1:45 PM,5:16,Hughes Free Throw 2 of 2 (19 PTS),,,71 - 71,TIE
+0020900291,331,2,1,3,1:46 PM,4:53,,,MISS Hassell 20' Jump Shot,,
+0020900291,332,4,0,3,1:46 PM,4:52,Harrington REBOUND (Off:0 Def:9),,,,
+0020900291,333,1,1,3,1:46 PM,4:44,Duhon 24' 3PT Jump Shot (5 PTS) (Hughes 3 AST),,,71 - 74,3
+0020900291,334,8,0,3,1:47 PM,4:25,,,SUB: Alston FOR Lee,,
+0020900291,335,1,1,3,1:47 PM,4:16,,,Douglas-Roberts 26' 3PT Jump Shot (23 PTS) (Hassell 2 AST),74 - 74,TIE
+0020900291,336,2,1,3,1:47 PM,4:03,MISS Hughes 22' Jump Shot,,,,
+0020900291,337,4,0,3,1:47 PM,4:02,,,Hassell REBOUND (Off:2 Def:1),,
+0020900291,338,2,1,3,1:48 PM,3:50,,,MISS Douglas-Roberts 22' Jump Shot,,
+0020900291,339,4,0,3,1:48 PM,3:49,Jeffries REBOUND (Off:3 Def:2),,,,
+0020900291,340,1,42,3,1:48 PM,3:27,Harrington  Driving Layup (18 PTS),,,74 - 76,2
+0020900291,341,5,2,3,1:48 PM,3:04,Jeffries STEAL (2 STL),,Lopez Lost Ball Turnover (P2.T7),,
+0020900291,342,1,42,3,1:49 PM,2:48,Harrington  Driving Layup (20 PTS),,,74 - 78,4
+0020900291,343,5,1,3,1:49 PM,2:41,,,Alston Bad Pass Turnover (P1.T8),,
+0020900291,344,9,1,3,1:49 PM,2:41,KNICKS Timeout: Regular (Full 3 Short 0),,,,
+0020900291,347,8,0,3,1:51 PM,2:41,,,SUB: Dooling FOR Douglas-Roberts,,
+0020900291,348,1,44,3,1:52 PM,2:32,Harrington  Reverse Layup (22 PTS) (Lee 1 AST),,,74 - 80,6
+0020900291,349,2,1,3,1:52 PM,2:06,,,MISS Alston 26' 3PT Jump Shot,,
+0020900291,350,4,0,3,1:52 PM,2:05,Harrington REBOUND (Off:0 Def:10),,,,
+0020900291,351,1,1,3,1:53 PM,1:41,Lee 20' Jump Shot (20 PTS) (Duhon 4 AST),,,74 - 82,8
+0020900291,352,1,1,3,1:53 PM,1:23,,,Alston 26' 3PT Jump Shot (4 PTS) (Harris 5 AST),77 - 82,5
+0020900291,353,6,2,3,1:53 PM,1:10,,,Alston S.FOUL (P1.PN),,
+0020900291,354,3,11,3,1:54 PM,1:10,Hughes Free Throw 1 of 2 (20 PTS),,,77 - 83,6
+0020900291,357,8,0,3,1:54 PM,1:10,SUB: Gallinari FOR Jeffries,,,,
+0020900291,358,3,12,3,1:54 PM,1:10,Hughes Free Throw 2 of 2 (21 PTS),,,77 - 84,7
+0020900291,360,1,42,3,1:55 PM,0:48,,,Alston  Driving Layup (6 PTS),79 - 84,5
+0020900291,361,1,5,3,1:55 PM,0:36,Lee  Layup (22 PTS) (Hughes 4 AST),,,79 - 86,7
+0020900291,362,2,1,3,1:55 PM,0:23,,,MISS Alston 25' 3PT Jump Shot,,
+0020900291,363,4,0,3,1:55 PM,0:22,,,Lopez REBOUND (Off:1 Def:4),,
+0020900291,364,6,1,3,1:56 PM,0:04,Gallinari P.FOUL (P3.T1),,,,
+0020900291,365,2,1,3,1:56 PM,0:00,,,MISS Dooling 26' 3PT Jump Shot,,
+0020900291,366,4,0,3,1:56 PM,0:00,,,Nets Rebound,,
+0020900291,367,13,0,3,1:56 PM,0:00,,,,79 - 86,7
+0020900291,369,12,0,4,1:59 PM,12:00,,,,79 - 86,7
+0020900291,370,1,1,4,1:59 PM,11:44,Gallinari 26' 3PT Jump Shot (9 PTS) (Chandler 3 AST),,,79 - 89,10
+0020900291,371,6,2,4,1:59 PM,11:31,Lee S.FOUL (P2.T1),,,,
+0020900291,372,3,11,4,2:00 PM,11:31,,,Lopez Free Throw 1 of 2 (15 PTS),80 - 89,9
+0020900291,374,8,0,4,2:00 PM,11:31,,,SUB: Douglas-Roberts FOR Harris,,
+0020900291,375,3,12,4,2:00 PM,11:31,,,Lopez Free Throw 2 of 2 (16 PTS),81 - 89,8
+0020900291,377,2,1,4,2:00 PM,11:17,MISS Gallinari 20' Jump Shot,,,,
+0020900291,378,4,0,4,2:00 PM,11:16,Chandler REBOUND (Off:3 Def:2),,,,
+0020900291,379,1,1,4,2:01 PM,10:59,Hughes 19' Jump Shot (23 PTS) (Duhon 5 AST),,,81 - 91,10
+0020900291,380,1,42,4,2:01 PM,10:44,,,Lee  Driving Layup (2 PTS),83 - 91,8
+0020900291,381,2,1,4,2:02 PM,10:17,MISS Duhon 24' 3PT Jump Shot,,,,
+0020900291,382,4,0,4,2:02 PM,10:16,,,Nets Rebound,,
+0020900291,383,5,40,4,2:02 PM,10:04,,,Douglas-Roberts Out of Bounds Lost Ball Turnover (P2.T9),,
+0020900291,384,2,1,4,2:02 PM,10:00,MISS Hughes 17' Jump Shot,,,,
+0020900291,385,4,0,4,2:03 PM,9:57,Gallinari REBOUND (Off:1 Def:3),,,,
+0020900291,386,2,1,4,2:03 PM,9:50,MISS Gallinari 26' 3PT Jump Shot,,,,
+0020900291,387,4,0,4,2:03 PM,9:49,,,Dooling REBOUND (Off:0 Def:1),,
+0020900291,388,6,1,4,2:03 PM,9:45,Gallinari P.FOUL (P4.T2),,,,
+0020900291,389,8,0,4,2:03 PM,9:45,,,SUB: Harris FOR Alston,,
+0020900291,390,8,0,4,2:03 PM,9:45,,,SUB: Boone FOR Lopez,,
+0020900291,391,1,5,4,2:03 PM,9:29,,,Boone  Layup (6 PTS) (Dooling 1 AST),85 - 91,6
+0020900291,392,6,1,4,2:04 PM,9:16,,,Dooling P.FOUL (P1.T1),,
+0020900291,393,8,0,4,2:04 PM,9:16,SUB: Harrington FOR Lee,,,,
+0020900291,394,1,42,4,2:04 PM,9:07,Harrington  Driving Layup (24 PTS),,,85 - 93,8
+0020900291,395,1,1,4,2:05 PM,8:42,,,Douglas-Roberts 25' 3PT Jump Shot (26 PTS) (Lee 3 AST),88 - 93,5
+0020900291,396,5,2,4,2:05 PM,8:23,Harrington Lost Ball Turnover (P2.T12),,Harris STEAL (2 STL),,
+0020900291,397,2,1,4,2:05 PM,8:18,,,MISS Dooling 18' Jump Shot,,
+0020900291,398,4,0,4,2:05 PM,8:14,Chandler REBOUND (Off:3 Def:3),,,,
+0020900291,399,2,5,4,2:05 PM,7:57,MISS Duhon  Layup,,Boone BLOCK (2 BLK),,
+0020900291,400,4,0,4,2:05 PM,7:55,,,Harris REBOUND (Off:0 Def:2),,
+0020900291,401,6,1,4,2:06 PM,7:53,Harrington P.FOUL (P2.T3),,,,
+0020900291,402,9,4,4,2:06 PM,7:53,,,,,
+0020900291,404,8,0,4,2:08 PM,7:53,SUB: Jeffries FOR Duhon,,,,
+0020900291,406,1,71,4,2:09 PM,7:39,,,Lee  Finger Roll Layup (4 PTS),90 - 93,3
+0020900291,407,2,1,4,2:09 PM,7:19,MISS Chandler 14' Jump Shot,,Lee BLOCK (1 BLK),,
+0020900291,408,4,0,4,2:09 PM,7:17,,,Boone REBOUND (Off:1 Def:6),,
+0020900291,409,2,1,4,2:09 PM,7:02,,,MISS Douglas-Roberts 18' Jump Shot,,
+0020900291,410,4,0,4,2:09 PM,7:01,Harrington REBOUND (Off:0 Def:11),,,,
+0020900291,411,2,5,4,2:10 PM,6:47,MISS Chandler  Layup,,,,
+0020900291,413,4,0,4,2:10 PM,6:46,Chandler REBOUND (Off:4 Def:3),,,,
+0020900291,412,1,4,4,2:10 PM,6:46,Chandler  Tip Shot (6 PTS),,,90 - 95,5
+0020900291,414,6,4,4,2:10 PM,6:31,,,Dooling OFF.Foul (P2),,
+0020900291,415,5,5,4,2:10 PM,6:31,,,Dooling Foul Turnover (P1.T10),,
+0020900291,416,8,0,4,2:10 PM,6:31,SUB: Lee FOR Chandler,,,,
+0020900291,417,8,0,4,2:10 PM,6:31,,,SUB: Lopez FOR Boone,,
+0020900291,418,8,0,4,2:10 PM,6:31,,,SUB: Alston FOR Dooling,,
+0020900291,419,2,1,4,2:11 PM,6:20,MISS Harrington 19' Jump Shot,,Lee BLOCK (2 BLK),,
+0020900291,420,4,0,4,2:11 PM,6:17,Harrington REBOUND (Off:1 Def:11),,,,
+0020900291,421,2,5,4,2:11 PM,6:16,MISS Harrington  Layup,,,,
+0020900291,423,4,0,4,2:11 PM,6:15,Harrington REBOUND (Off:2 Def:11),,,,
+0020900291,422,1,4,4,2:11 PM,6:15,Harrington  Tip Shot (26 PTS),,,90 - 97,7
+0020900291,424,5,6,4,2:11 PM,6:10,,,Alston Double Dribble Turnover (P2.T11),,
+0020900291,425,5,1,4,2:12 PM,5:52,Harrington Bad Pass Turnover (P3.T13),,,,
+0020900291,426,9,1,4,2:12 PM,5:52,KNICKS Timeout: Regular (Full 4 Short 0),,,,
+0020900291,430,2,1,4,2:15 PM,5:30,,,MISS Alston 24' 3PT Jump Shot,,
+0020900291,431,4,0,4,2:15 PM,5:29,Lee REBOUND (Off:1 Def:6),,,,
+0020900291,432,6,4,4,2:15 PM,5:22,Jeffries OFF.Foul (P2),,,,
+0020900291,433,5,5,4,2:15 PM,5:22,Jeffries Foul Turnover (P3.T14),,,,
+0020900291,434,5,1,4,2:16 PM,5:00,Jeffries STEAL (3 STL),,Douglas-Roberts Bad Pass Turnover (P3.T12),,
+0020900291,435,5,1,4,2:16 PM,4:36,Jeffries Bad Pass Turnover (P4.T15),,Harris STEAL (3 STL),,
+0020900291,436,5,1,4,2:16 PM,4:33,Gallinari STEAL (1 STL),,Harris Bad Pass Turnover (P2.T13),,
+0020900291,437,6,2,4,2:16 PM,4:33,,,Harris S.FOUL (P4.T2),,
+0020900291,438,3,11,4,2:16 PM,4:33,Gallinari Free Throw 1 of 2 (10 PTS),,,90 - 98,8
+0020900291,440,3,12,4,2:17 PM,4:33,Gallinari Free Throw 2 of 2 (11 PTS),,,90 - 99,9
+0020900291,442,1,5,4,2:17 PM,4:21,,,Lopez  Layup (18 PTS) (Alston 5 AST),92 - 99,7
+0020900291,443,6,2,4,2:17 PM,4:21,Lee S.FOUL (P3.T4),,,,
+0020900291,444,3,10,4,2:17 PM,4:21,,,MISS Lopez Free Throw 1 of 1,,
+0020900291,446,4,0,4,2:18 PM,4:20,Harrington REBOUND (Off:2 Def:12),,,,
+0020900291,450,6,2,4,2:19 PM,4:00,,,Harris S.FOUL (P5.T3),,
+0020900291,451,8,0,4,2:19 PM,4:00,SUB: Duhon FOR Gallinari,,,,
+0020900291,452,3,11,4,2:19 PM,4:00,MISS Jeffries Free Throw 1 of 2,,,,
+0020900291,453,4,1,4,2:19 PM,4:00,KNICKS Rebound,,,,
+0020900291,454,3,12,4,2:19 PM,4:00,Jeffries Free Throw 2 of 2 (5 PTS),,,92 - 100,8
+0020900291,456,2,1,4,2:19 PM,3:43,,,MISS Harris 28' 3PT Jump Shot,,
+0020900291,457,4,0,4,2:19 PM,3:42,Lee REBOUND (Off:1 Def:7),,,,
+0020900291,458,1,1,4,2:20 PM,3:20,Lee 9' Jump Shot (24 PTS) (Harrington 5 AST),,,92 - 102,10
+0020900291,459,6,4,4,2:20 PM,3:04,,,Lee OFF.Foul (P3),,
+0020900291,460,5,5,4,2:20 PM,3:04,,,Lee Foul Turnover (P4.T14),,
+0020900291,461,2,1,4,2:21 PM,2:40,MISS Hughes  3PT Jump Shot,,,,
+0020900291,462,4,0,4,2:21 PM,2:40,,,Harris REBOUND (Off:0 Def:3),,
+0020900291,463,9,1,4,2:21 PM,2:30,,,Nets Timeout: Regular (Reg.4 Short 1),,
+0020900291,467,6,2,4,2:24 PM,2:26,Harrington S.FOUL (P3.PN),,,,
+0020900291,468,3,11,4,2:24 PM,2:26,,,Harris Free Throw 1 of 2 (18 PTS),93 - 102,9
+0020900291,470,3,12,4,2:25 PM,2:26,,,Harris Free Throw 2 of 2 (19 PTS),94 - 102,8
+0020900291,472,6,2,4,2:25 PM,2:05,,,Lee S.FOUL (P4.T4),,
+0020900291,473,3,11,4,2:25 PM,2:05,Hughes Free Throw 1 of 2 (24 PTS),,,94 - 103,9
+0020900291,475,3,12,4,2:26 PM,2:05,MISS Hughes Free Throw 2 of 2,,,,
+0020900291,477,4,0,4,2:26 PM,2:04,,,Lee REBOUND (Off:0 Def:5),,
+0020900291,478,1,44,4,2:26 PM,1:57,,,Alston  Reverse Layup (8 PTS) (Harris 6 AST),96 - 103,7
+0020900291,479,2,1,4,2:26 PM,1:37,MISS Lee 21' Jump Shot,,,,
+0020900291,480,4,0,4,2:26 PM,1:36,Duhon REBOUND (Off:2 Def:2),,,,
+0020900291,481,5,1,4,2:27 PM,1:16,Lee Bad Pass Turnover (P1.T16),,Douglas-Roberts STEAL (3 STL),,
+0020900291,482,2,5,4,2:27 PM,1:08,,,MISS Alston  Layup,,
+0020900291,483,4,0,4,2:27 PM,1:07,Lee REBOUND (Off:1 Def:8),,,,
+0020900291,484,2,5,4,2:27 PM,0:47,MISS Duhon  Layup,,,,
+0020900291,485,4,0,4,2:27 PM,0:46,,,Alston REBOUND (Off:2 Def:4),,
+0020900291,486,2,1,4,2:27 PM,0:40,,,MISS Harris 17' Jump Shot,,
+0020900291,487,4,0,4,2:27 PM,0:39,Hughes REBOUND (Off:1 Def:2),,,,
+0020900291,488,6,1,4,2:28 PM,0:39,,,Alston P.FOUL (P2.PN),,
+0020900291,489,3,11,4,2:28 PM,0:39,Hughes Free Throw 1 of 2 (25 PTS),,,96 - 104,8
+0020900291,491,3,12,4,2:28 PM,0:39,MISS Hughes Free Throw 2 of 2,,,,
+0020900291,493,4,0,4,2:28 PM,0:39,Hughes REBOUND (Off:2 Def:2),,,,
+0020900291,494,6,1,4,2:29 PM,0:28,,,Alston P.FOUL (P3.PN),,
+0020900291,495,3,11,4,2:29 PM,0:28,Duhon Free Throw 1 of 2 (6 PTS),,,96 - 105,9
+0020900291,497,3,12,4,2:29 PM,0:28,Duhon Free Throw 2 of 2 (7 PTS),,,96 - 106,10
+0020900291,499,9,1,4,2:29 PM,0:28,,,Nets Timeout: Regular (Reg.5 Short 1),,
+0020900291,503,2,5,4,2:31 PM,0:24,,,MISS Alston  Layup,,
+0020900291,504,4,0,4,2:31 PM,0:22,,,Lopez REBOUND (Off:2 Def:4),,
+0020900291,505,6,2,4,2:31 PM,0:22,Hughes S.FOUL (P1.PN),,,,
+0020900291,506,3,11,4,2:32 PM,0:22,,,MISS Lopez Free Throw 1 of 2,,
+0020900291,507,4,1,4,2:32 PM,0:22,,,Nets Rebound,,
+0020900291,508,3,12,4,2:32 PM,0:22,,,Lopez Free Throw 2 of 2 (19 PTS),97 - 106,9
+0020900291,510,13,0,4,2:33 PM,0:00,,,,97 - 106,9

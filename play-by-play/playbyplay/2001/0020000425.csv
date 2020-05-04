@@ -1,0 +1,414 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000425,0,12,0,1,2:40 PM,12:00,,,,,
+0020000425,1,10,0,1,2:41 PM,12:00,Jump Ball Jackson vs. Polynice: Tip to Russell,,,,
+0020000425,2,2,46,1,2:41 PM,11:46,,,MISS Stockton 7' Running Jump Shot,,
+0020000425,3,4,0,1,2:42 PM,11:45,Hughes REBOUND (Off:0 Def:1),,,,
+0020000425,4,5,1,1,2:42 PM,11:35,Porter Bad Pass Turnover (P1.T1),,,,
+0020000425,5,2,1,1,2:42 PM,11:19,,,MISS Malone 16' Jump Shot,,
+0020000425,6,4,0,1,2:42 PM,11:18,Blaylock REBOUND (Off:0 Def:1),,,,
+0020000425,7,1,5,1,2:42 PM,11:11,Jamison  Layup (2 PTS) (Hughes 1 AST),,,0 - 2,2
+0020000425,8,2,1,1,2:43 PM,10:50,,,MISS Malone 17' Jump Shot,,
+0020000425,9,4,0,1,2:43 PM,10:49,WARRIORS Rebound,,,,
+0020000425,10,6,3,1,2:43 PM,10:49,,,Polynice L.B.FOUL (P1.T1),,
+0020000425,11,2,1,1,2:43 PM,10:37,MISS Blaylock 15' Jump Shot,,,,
+0020000425,12,4,0,1,2:43 PM,10:36,,,Polynice REBOUND (Off:0 Def:1),,
+0020000425,13,6,1,1,2:43 PM,10:27,Hughes P.FOUL (P1.T1),,,,
+0020000425,14,2,3,1,2:44 PM,10:13,,,MISS Polynice 10' Hook Shot,,
+0020000425,15,4,0,1,2:44 PM,10:12,Jamison REBOUND (Off:0 Def:1),,,,
+0020000425,16,2,1,1,2:44 PM,10:04,MISS Jackson 16' Jump Shot,,,,
+0020000425,17,4,0,1,2:44 PM,10:03,,,Polynice REBOUND (Off:0 Def:2),,
+0020000425,18,5,1,1,2:44 PM,9:55,,,Stockton Bad Pass Turnover (P1.T1),,
+0020000425,19,2,1,1,2:44 PM,9:43,MISS Porter 17' Jump Shot,,,,
+0020000425,20,4,0,1,2:44 PM,9:42,,,Malone REBOUND (Off:0 Def:1),,
+0020000425,21,5,1,1,2:45 PM,9:30,Blaylock STEAL (1 STL),,Stockton Bad Pass Turnover (P2.T2),,
+0020000425,22,2,1,1,2:45 PM,9:23,MISS Blaylock 11' Jump Shot,,,,
+0020000425,24,4,0,1,2:45 PM,9:22,Porter REBOUND (Off:1 Def:0),,,,
+0020000425,23,1,4,1,2:45 PM,9:21,Porter  Tip Shot (2 PTS),,,0 - 4,4
+0020000425,25,2,1,1,2:45 PM,9:02,,,MISS Starks 21' Jump Shot,,
+0020000425,26,4,0,1,2:45 PM,9:00,Jackson REBOUND (Off:0 Def:1),,,,
+0020000425,27,5,1,1,2:45 PM,8:51,Porter Bad Pass Turnover (P2.T2),,Starks STEAL (1 STL),,
+0020000425,28,2,1,1,2:46 PM,8:31,,,MISS Stockton 18' Jump Shot,,
+0020000425,29,4,0,1,2:46 PM,8:30,Hughes REBOUND (Off:0 Def:2),,,,
+0020000425,30,1,1,1,2:46 PM,8:23,Jamison 20' Jump Shot (4 PTS) (Hughes 2 AST),,,0 - 6,6
+0020000425,31,6,1,1,2:46 PM,8:08,Porter P.FOUL (P1.T2),,,,
+0020000425,32,2,1,1,2:47 PM,7:59,,,MISS Russell 20' Jump Shot,,
+0020000425,33,4,0,1,2:47 PM,7:57,Jackson REBOUND (Off:0 Def:2),,,,
+0020000425,34,6,4,1,2:47 PM,7:54,Porter OFF.Foul (P2),,,,
+0020000425,35,5,5,1,2:47 PM,7:54,Porter Foul Turnover (P3.T3),,,,
+0020000425,36,8,0,1,2:47 PM,7:54,SUB: Sura FOR Porter,,,,
+0020000425,37,1,3,1,2:47 PM,7:38,,,Polynice 6' Hook Shot (2 PTS) (Malone 1 AST),2 - 6,4
+0020000425,38,2,1,1,2:48 PM,7:29,MISS Jackson 25' 3PT Jump Shot,,,,
+0020000425,39,4,0,1,2:48 PM,7:28,,,Malone REBOUND (Off:0 Def:2),,
+0020000425,40,2,1,1,2:48 PM,7:16,,,MISS Starks 10' Jump Shot,,
+0020000425,41,4,0,1,2:48 PM,7:15,Jackson REBOUND (Off:0 Def:3),,,,
+0020000425,42,2,1,1,2:48 PM,7:00,MISS Jackson 6' Jump Shot,,,,
+0020000425,43,4,0,1,2:48 PM,6:59,,,Malone REBOUND (Off:0 Def:3),,
+0020000425,44,6,1,1,2:48 PM,6:44,Sura P.FOUL (P1.T3),,,,
+0020000425,45,1,5,1,2:49 PM,6:36,,,Russell  Layup (2 PTS) (Stockton 1 AST),4 - 6,2
+0020000425,46,1,1,1,2:49 PM,6:23,Blaylock 16' Jump Shot (2 PTS) (Jamison 1 AST),,,4 - 8,4
+0020000425,47,2,1,1,2:49 PM,6:01,,,MISS Malone 17' Jump Shot,,
+0020000425,49,4,0,1,2:49 PM,5:59,,,Polynice REBOUND (Off:1 Def:2),,
+0020000425,48,2,4,1,2:49 PM,5:58,,,MISS Polynice  Tip Shot,,
+0020000425,50,4,0,1,2:49 PM,5:56,Blaylock REBOUND (Off:0 Def:2),,,,
+0020000425,51,2,1,1,2:49 PM,5:47,MISS Jamison 17' Jump Shot,,,,
+0020000425,52,4,0,1,2:50 PM,5:46,,,Polynice REBOUND (Off:1 Def:3),,
+0020000425,53,5,1,1,2:50 PM,5:38,,,Stockton Bad Pass Turnover (P3.T3),,
+0020000425,54,9,1,1,2:50 PM,5:38,WARRIORS Timeout: Regular (Full 1 Short 0),,,,
+0020000425,56,8,0,1,2:52 PM,5:38,,,SUB: Vaughn FOR Stockton,,
+0020000425,57,1,1,1,2:52 PM,5:25,Hughes 14' Jump Shot (2 PTS) (Jamison 2 AST),,,4 - 10,6
+0020000425,59,2,1,1,2:52 PM,5:06,,,MISS Russell 24' 3PT Jump Shot,,
+0020000425,60,4,0,1,2:53 PM,5:04,Blaylock REBOUND (Off:0 Def:3),,,,
+0020000425,61,7,2,1,2:53 PM,4:48,,,Polynice Violation:Defensive Goaltending,,
+0020000425,62,2,1,1,2:53 PM,4:38,MISS Jamison 16' Jump Shot,,,,
+0020000425,63,4,0,1,2:53 PM,4:36,,,Russell REBOUND (Off:0 Def:1),,
+0020000425,64,1,5,1,2:53 PM,4:29,,,Polynice  Layup (4 PTS) (Starks 1 AST),6 - 10,4
+0020000425,65,6,2,1,2:54 PM,4:15,,,Vaughn S.FOUL (P1.T2),,
+0020000425,66,3,11,1,2:54 PM,4:15,MISS Blaylock Free Throw 1 of 2,,,,
+0020000425,67,4,1,1,2:54 PM,4:15,WARRIORS Rebound,,,,
+0020000425,68,3,12,1,2:54 PM,4:15,Blaylock Free Throw 2 of 2 (3 PTS),,,6 - 11,5
+0020000425,69,2,1,1,2:55 PM,3:51,,,MISS Malone 16' Jump Shot,,
+0020000425,70,4,0,1,2:55 PM,3:49,Jamison REBOUND (Off:0 Def:2),,,,
+0020000425,71,1,3,1,2:55 PM,3:42,Jackson 6' Hook Shot (2 PTS) (Blaylock 1 AST),,,6 - 13,7
+0020000425,72,2,47,1,2:55 PM,3:20,,,MISS Malone 14' Turnaround Jump Shot,,
+0020000425,73,4,0,1,2:55 PM,3:19,Hughes REBOUND (Off:0 Def:3),,,,
+0020000425,74,1,5,1,2:56 PM,3:10,Jackson  Layup (4 PTS) (Hughes 3 AST),,,6 - 15,9
+0020000425,75,6,1,1,2:56 PM,2:59,Jackson P.FOUL (P1.T4),,,,
+0020000425,76,9,1,1,2:56 PM,2:59,,,Jazz Timeout: Regular (Reg.1 Short 0),,
+0020000425,78,1,1,1,2:58 PM,2:47,,,Malone 17' Jump Shot (2 PTS) (Russell 1 AST),8 - 15,7
+0020000425,79,2,1,1,2:58 PM,2:29,MISS Hughes 11' Jump Shot,,,,
+0020000425,80,4,0,1,2:59 PM,2:28,Jackson REBOUND (Off:1 Def:3),,,,
+0020000425,81,2,1,1,2:59 PM,2:26,MISS Jackson 4' Jump Shot,,,,
+0020000425,82,4,0,1,2:59 PM,2:25,,,Malone REBOUND (Off:0 Def:4),,
+0020000425,83,7,2,1,2:59 PM,2:16,Sura Violation:Defensive Goaltending,,,,
+0020000425,84,8,0,1,2:59 PM,2:16,,,SUB: Marshall FOR Russell,,
+0020000425,85,5,1,1,2:59 PM,2:02,Jamison STEAL (1 STL),,Malone Bad Pass Turnover (P1.T4),,
+0020000425,86,1,5,1,2:59 PM,1:57,Sura  Layup (2 PTS) (Hughes 4 AST),,,8 - 17,9
+0020000425,87,2,1,1,3:00 PM,1:33,,,MISS Polynice 11' Jump Shot,,
+0020000425,88,4,0,1,3:00 PM,1:32,Hughes REBOUND (Off:0 Def:4),,,,
+0020000425,89,1,1,1,3:00 PM,1:21,Jackson 19' Jump Shot (6 PTS) (Blaylock 2 AST),,,8 - 19,11
+0020000425,90,2,1,1,3:00 PM,1:01,,,MISS Vaughn 19' Jump Shot,,
+0020000425,92,4,0,1,3:00 PM,0:59,,,Polynice REBOUND (Off:2 Def:3),,
+0020000425,91,2,53,1,3:00 PM,0:58,,,MISS Polynice  Tip Shot,,
+0020000425,93,4,0,1,3:00 PM,0:57,Jackson REBOUND (Off:1 Def:4),,,,
+0020000425,94,2,1,1,3:00 PM,0:55,MISS Hughes 25' 3PT Jump Shot,,,,
+0020000425,95,4,0,1,3:01 PM,0:53,,,Marshall REBOUND (Off:0 Def:1),,
+0020000425,96,2,1,1,3:01 PM,0:40,,,MISS Malone 7' Jump Shot,,
+0020000425,97,4,0,1,3:01 PM,0:39,,,Jazz Rebound,,
+0020000425,98,2,1,1,3:01 PM,0:16,,,MISS Starks 9' Jump Shot,,
+0020000425,99,4,0,1,3:01 PM,0:15,Jackson REBOUND (Off:1 Def:5),,,,
+0020000425,100,2,1,1,3:01 PM,0:00,MISS Jackson 20' Jump Shot,,,,
+0020000425,101,4,0,1,3:01 PM,0:00,,,Marshall REBOUND (Off:0 Def:2),,
+0020000425,102,13,0,1,3:01 PM,0:00,,,,8 - 19,11
+0020000425,106,12,0,2,3:03 PM,12:00,,,,8 - 19,11
+0020000425,107,1,3,2,3:05 PM,11:42,Coker 8' Hook Shot (2 PTS) (Hughes 5 AST),,,8 - 21,13
+0020000425,108,2,1,2,3:05 PM,11:18,,,MISS Ostertag 4' Jump Shot,,
+0020000425,110,4,0,2,3:05 PM,11:17,,,Manning REBOUND (Off:1 Def:0),,
+0020000425,109,2,4,2,3:05 PM,11:16,,,MISS Manning  Tip Shot,,
+0020000425,111,4,0,2,3:05 PM,11:14,Cummings REBOUND (Off:0 Def:1),,,,
+0020000425,112,5,2,2,3:05 PM,11:01,Hughes Lost Ball Turnover (P1.T4),,Vaughn STEAL (1 STL),,
+0020000425,113,5,1,2,3:06 PM,10:54,,,Vaughn Bad Pass Turnover (P1.T5),,
+0020000425,114,5,2,2,3:06 PM,10:40,Jamison Lost Ball Turnover (P1.T5),,Manning STEAL (1 STL),,
+0020000425,115,2,1,2,3:06 PM,10:21,,,MISS Lewis 4' Jump Shot,,
+0020000425,116,4,0,2,3:06 PM,10:19,,,Marshall REBOUND (Off:1 Def:2),,
+0020000425,117,5,2,2,3:06 PM,10:16,Hughes STEAL (1 STL),,Marshall Lost Ball Turnover (P1.T6),,
+0020000425,118,1,5,2,3:06 PM,10:12,Cummings  Layup (2 PTS) (Hughes 6 AST),,,8 - 23,15
+0020000425,119,1,8,2,3:07 PM,9:57,,,Marshall  Slam Dunk (2 PTS) (Vaughn 1 AST),10 - 23,13
+0020000425,120,6,1,2,3:07 PM,9:47,,,Vaughn P.FOUL (P2.T1),,
+0020000425,121,1,1,2,3:07 PM,9:38,Sura  3PT Jump Shot (5 PTS) (Hughes 7 AST),,,10 - 26,16
+0020000425,122,1,1,2,3:08 PM,9:17,,,Vaughn 19' Jump Shot (2 PTS) (Lewis 1 AST),12 - 26,14
+0020000425,123,2,5,2,3:08 PM,9:01,MISS Sura 3' Layup,,,,
+0020000425,124,4,0,2,3:08 PM,8:59,WARRIORS Rebound,,,,
+0020000425,125,9,4,2,3:08 PM,8:59,,,,,
+0020000425,127,2,1,2,3:10 PM,8:50,MISS Hughes 26' 3PT Jump Shot,,,,
+0020000425,128,4,0,2,3:10 PM,8:48,,,Ostertag REBOUND (Off:0 Def:1),,
+0020000425,129,1,8,2,3:11 PM,8:33,,,Ostertag  Slam Dunk (2 PTS) (Marshall 1 AST),14 - 26,12
+0020000425,130,2,1,2,3:11 PM,8:14,MISS Jamison 20' Jump Shot,,,,
+0020000425,131,4,0,2,3:11 PM,8:13,,,Lewis REBOUND (Off:0 Def:1),,
+0020000425,132,1,1,2,3:11 PM,7:58,,,Lewis 26' 3PT Jump Shot (3 PTS) (Marshall 2 AST),17 - 26,9
+0020000425,133,6,1,2,3:12 PM,7:44,,,Manning P.FOUL (P1.T2),,
+0020000425,134,8,0,2,3:12 PM,7:44,SUB: Keefe FOR Hughes,,,,
+0020000425,135,5,11,2,3:12 PM,7:30,WARRIORS Turnover: Shot Clock (T#6),,,,
+0020000425,136,1,8,2,3:13 PM,7:12,,,Ostertag  Slam Dunk (4 PTS) (Manning 1 AST),19 - 26,7
+0020000425,137,2,3,2,3:13 PM,6:57,MISS Coker 10' Hook Shot,,,,
+0020000425,138,4,0,2,3:13 PM,6:53,Sura REBOUND (Off:1 Def:0),,,,
+0020000425,139,1,1,2,3:13 PM,6:42,Cummings 25' 3PT Jump Shot (5 PTS),,,19 - 29,10
+0020000425,140,2,1,2,3:14 PM,6:20,,,MISS Marshall 16' Jump Shot,,
+0020000425,141,4,0,2,3:14 PM,6:18,Jamison REBOUND (Off:0 Def:3),,,,
+0020000425,142,6,2,2,3:14 PM,6:14,,,Marshall S.FOUL (P1.T3),,
+0020000425,143,8,0,2,3:14 PM,6:14,,,SUB: Stockton FOR Vaughn,,
+0020000425,144,8,0,2,3:14 PM,6:14,SUB: Jackson FOR Coker,,,,
+0020000425,145,3,11,2,3:14 PM,6:14,MISS Cummings Free Throw 1 of 2,,,,
+0020000425,146,4,1,2,3:14 PM,6:14,WARRIORS Rebound,,,,
+0020000425,147,8,0,2,3:14 PM,6:14,,,SUB: Benoit FOR Ostertag,,
+0020000425,148,3,12,2,3:14 PM,6:14,Cummings Free Throw 2 of 2 (6 PTS),,,19 - 30,11
+0020000425,149,2,1,2,3:15 PM,6:00,,,MISS Benoit 19' Jump Shot,,
+0020000425,150,4,0,2,3:15 PM,5:59,Keefe REBOUND (Off:0 Def:1),,,,
+0020000425,151,2,42,2,3:15 PM,5:50,MISS Cummings  Driving Layup,,,,
+0020000425,153,4,0,2,3:15 PM,5:49,Jackson REBOUND (Off:2 Def:5),,,,
+0020000425,152,1,4,2,3:15 PM,5:49,Jackson  Tip Shot (8 PTS),,,19 - 32,13
+0020000425,154,2,1,2,3:15 PM,5:30,,,MISS Marshall 5' Jump Shot,,
+0020000425,155,4,0,2,3:15 PM,5:29,,,Marshall REBOUND (Off:2 Def:2),,
+0020000425,156,6,3,2,3:16 PM,5:28,Keefe L.B.FOUL (P1.T1),,,,
+0020000425,157,9,1,2,3:16 PM,5:28,WARRIORS Timeout: Regular (Full 2 Short 0),,,,
+0020000425,159,8,0,2,3:18 PM,5:28,,,SUB: Russell FOR Lewis,,
+0020000425,160,2,1,2,3:18 PM,5:18,,,MISS Benoit 16' Jump Shot,,
+0020000425,161,4,0,2,3:18 PM,5:17,Keefe REBOUND (Off:0 Def:2),,,,
+0020000425,162,2,1,2,3:18 PM,5:11,MISS Sura 25' 3PT Jump Shot,,,,
+0020000425,163,4,0,2,3:18 PM,5:10,,,Marshall REBOUND (Off:2 Def:3),,
+0020000425,164,1,58,2,3:18 PM,4:55,,,Manning 7' Turnaround Hook Shot (2 PTS) (Marshall 3 AST),21 - 32,11
+0020000425,165,5,2,2,3:19 PM,4:37,Jamison Lost Ball Turnover (P2.T7),,,,
+0020000425,170,8,0,2,3:19 PM,4:37,SUB: Blaylock FOR Sura,,,,
+0020000425,166,8,0,2,3:19 PM,4:37,,,SUB: Malone FOR Manning,,
+0020000425,167,2,1,2,3:19 PM,4:20,Keefe BLOCK (1 BLK),,MISS Russell 4' Jump Shot,,
+0020000425,168,4,0,2,3:19 PM,4:18,Blaylock REBOUND (Off:0 Def:4),,,,
+0020000425,169,6,1,2,3:19 PM,4:14,,,Stockton P.FOUL (P1.T4),,
+0020000425,171,1,46,2,3:20 PM,4:07,Blaylock 16' Running Jump Shot (5 PTS),,,21 - 34,13
+0020000425,172,1,5,2,3:20 PM,3:52,,,Russell  Layup (4 PTS) (Stockton 2 AST),23 - 34,11
+0020000425,173,6,2,2,3:20 PM,3:30,,,Stockton S.FOUL (P2.PN),,
+0020000425,174,8,0,2,3:21 PM,3:30,SUB: Hughes FOR Cummings,,,,
+0020000425,175,3,11,2,3:21 PM,3:30,MISS Jamison Free Throw 1 of 2,,,,
+0020000425,176,4,1,2,3:21 PM,3:30,WARRIORS Rebound,,,,
+0020000425,177,3,12,2,3:21 PM,3:30,MISS Jamison Free Throw 2 of 2,,,,
+0020000425,178,4,0,2,3:21 PM,3:29,,,Malone REBOUND (Off:0 Def:5),,
+0020000425,179,6,4,2,3:21 PM,3:09,,,Benoit OFF.Foul (P1),,
+0020000425,180,5,5,2,3:21 PM,3:09,,,Benoit Foul Turnover (P1.T7),,
+0020000425,181,8,0,2,3:22 PM,3:09,,,SUB: Starks FOR Benoit,,
+0020000425,182,9,2,2,3:22 PM,3:09,WARRIORS Timeout: Short (Full 2 Short 1),,,,
+0020000425,184,2,1,2,3:23 PM,2:56,MISS Jamison 16' Jump Shot,,,,
+0020000425,185,4,0,2,3:23 PM,2:55,,,Malone REBOUND (Off:0 Def:6),,
+0020000425,186,1,1,2,3:23 PM,2:33,,,Marshall 26' 3PT Jump Shot (5 PTS) (Starks 2 AST),26 - 34,8
+0020000425,187,1,1,2,3:23 PM,2:18,Blaylock 16' Jump Shot (7 PTS) (Jamison 3 AST),,,26 - 36,10
+0020000425,188,1,5,2,3:24 PM,2:00,,,Stockton  Layup (2 PTS) (Malone 2 AST),28 - 36,8
+0020000425,189,6,1,2,3:24 PM,1:54,,,Starks P.FOUL (P1.PN),,
+0020000425,190,9,1,2,3:24 PM,1:54,,,Jazz Timeout: Regular (Reg.2 Short 0),,
+0020000425,192,3,11,2,3:26 PM,1:54,Blaylock Free Throw 1 of 2 (8 PTS),,,28 - 37,9
+0020000425,193,3,12,2,3:26 PM,1:54,Blaylock Free Throw 2 of 2 (9 PTS),,,28 - 38,10
+0020000425,194,5,1,2,3:27 PM,1:39,Blaylock STEAL (2 STL),,Russell Bad Pass Turnover (P1.T8),,
+0020000425,195,2,1,2,3:27 PM,1:23,MISS Jamison 3' Jump Shot,,,,
+0020000425,196,4,0,2,3:27 PM,1:22,,,Marshall REBOUND (Off:2 Def:4),,
+0020000425,197,2,1,2,3:27 PM,1:07,,,MISS Marshall 25' 3PT Jump Shot,,
+0020000425,198,4,0,2,3:27 PM,1:05,Hughes REBOUND (Off:0 Def:5),,,,
+0020000425,199,2,1,2,3:28 PM,0:49,MISS Jamison 15' Jump Shot,,,,
+0020000425,200,4,0,2,3:28 PM,0:47,Jackson REBOUND (Off:3 Def:5),,,,
+0020000425,201,2,1,2,3:28 PM,0:45,MISS Blaylock  3PT Jump Shot,,,,
+0020000425,202,4,0,2,3:28 PM,0:43,,,Starks REBOUND (Off:0 Def:1),,
+0020000425,203,2,1,2,3:28 PM,0:37,,,MISS Stockton 24' 3PT Jump Shot,,
+0020000425,204,4,0,2,3:28 PM,0:35,Jamison REBOUND (Off:0 Def:4),,,,
+0020000425,205,5,1,2,3:28 PM,0:31,Jackson Bad Pass Turnover (P1.T8),,,,
+0020000425,206,6,2,2,3:28 PM,0:20,Jamison S.FOUL (P1.T2),,,,
+0020000425,207,3,11,2,3:28 PM,0:20,,,Starks Free Throw 1 of 2 (1 PTS),29 - 38,9
+0020000425,208,8,0,2,3:28 PM,0:20,,,SUB: Vaughn FOR Stockton,,
+0020000425,209,8,0,2,3:28 PM,0:20,SUB: Cummings FOR Keefe,,,,
+0020000425,210,3,12,2,3:28 PM,0:20,,,MISS Starks Free Throw 2 of 2,,
+0020000425,211,4,0,2,3:28 PM,0:18,Cummings REBOUND (Off:0 Def:2),,,,
+0020000425,212,2,1,2,3:29 PM,0:01,MISS Jackson 4' Jump Shot,,Marshall BLOCK (1 BLK),,
+0020000425,213,4,0,2,3:29 PM,0:00,Jackson REBOUND (Off:4 Def:5),,,,
+0020000425,214,2,1,2,3:29 PM,0:00,MISS Jackson 4' Jump Shot,,,,
+0020000425,215,4,0,2,3:29 PM,0:00,Jackson REBOUND (Off:5 Def:5),,,,
+0020000425,216,13,0,2,3:29 PM,0:00,,,,29 - 38,9
+0020000425,219,12,0,3,3:46 PM,12:00,,,,29 - 38,9
+0020000425,220,2,1,3,3:47 PM,11:37,MISS Cummings 17' Jump Shot,,,,
+0020000425,221,4,0,3,3:47 PM,11:36,,,Polynice REBOUND (Off:2 Def:4),,
+0020000425,222,1,5,3,3:47 PM,11:28,,,Malone  Layup (4 PTS) (Starks 3 AST),31 - 38,7
+0020000425,223,1,1,3,3:48 PM,11:07,Jackson 17' Jump Shot (10 PTS) (Porter 1 AST),,,31 - 40,9
+0020000425,224,2,1,3,3:48 PM,10:44,,,MISS Russell 17' Jump Shot,,
+0020000425,225,4,0,3,3:48 PM,10:42,Jamison REBOUND (Off:0 Def:5),,,,
+0020000425,226,2,1,3,3:48 PM,10:34,MISS Jamison 24' 3PT Jump Shot,,,,
+0020000425,227,4,0,3,3:48 PM,10:33,Jackson REBOUND (Off:6 Def:5),,,,
+0020000425,228,6,3,3,3:49 PM,10:33,,,Polynice L.B.FOUL (P2.T1),,
+0020000425,229,2,1,3,3:49 PM,10:23,MISS Hughes 21' Jump Shot,,,,
+0020000425,230,4,0,3,3:49 PM,10:22,,,Jazz Rebound,,
+0020000425,231,6,3,3,3:49 PM,10:22,Jamison L.B.FOUL (P2.T1),,,,
+0020000425,232,8,0,3,3:49 PM,10:22,SUB: Blaylock FOR Cummings,,,,
+0020000425,233,2,1,3,3:50 PM,10:10,,,MISS Starks 19' Jump Shot,,
+0020000425,234,4,0,3,3:50 PM,10:09,,,Russell REBOUND (Off:1 Def:1),,
+0020000425,235,1,1,3,3:50 PM,10:02,,,Stockton 25' 3PT Jump Shot (5 PTS) (Starks 4 AST),34 - 40,6
+0020000425,236,1,1,3,3:50 PM,9:46,Blaylock 24' 3PT Jump Shot (12 PTS) (Hughes 8 AST),,,34 - 43,9
+0020000425,237,1,5,3,3:50 PM,9:32,,,Stockton  Layup (7 PTS),36 - 43,7
+0020000425,238,6,2,3,3:51 PM,9:18,,,Russell S.FOUL (P1.T2),,
+0020000425,239,3,11,3,3:51 PM,9:18,MISS Jamison Free Throw 1 of 2,,,,
+0020000425,240,4,1,3,3:51 PM,9:18,WARRIORS Rebound,,,,
+0020000425,241,3,12,3,3:51 PM,9:18,MISS Jamison Free Throw 2 of 2,,,,
+0020000425,242,4,0,3,3:51 PM,9:17,,,Polynice REBOUND (Off:2 Def:5),,
+0020000425,243,1,5,3,3:52 PM,9:01,,,Polynice  Layup (6 PTS) (Stockton 3 AST),38 - 43,5
+0020000425,244,9,1,3,3:52 PM,8:56,WARRIORS Timeout: Regular (Full 3 Short 1),,,,
+0020000425,246,2,1,3,3:54 PM,8:47,MISS Jamison 8' Jump Shot,,,,
+0020000425,247,4,0,3,3:54 PM,8:46,,,Malone REBOUND (Off:0 Def:7),,
+0020000425,248,1,1,3,3:54 PM,8:29,,,Malone 5' Jump Shot (6 PTS) (Starks 5 AST),40 - 43,3
+0020000425,249,1,1,3,3:55 PM,8:15,Porter 11' Jump Shot (4 PTS),,,40 - 45,5
+0020000425,250,6,2,3,3:55 PM,8:15,,,Malone S.FOUL (P1.T3),,
+0020000425,251,3,10,3,3:55 PM,8:15,Porter Free Throw 1 of 1 (5 PTS),,,40 - 46,6
+0020000425,252,1,1,3,3:55 PM,7:54,,,Starks  3PT Jump Shot (4 PTS) (Russell 2 AST),43 - 46,3
+0020000425,253,6,1,3,3:56 PM,7:42,,,Stockton P.FOUL (P3.T4),,
+0020000425,254,5,2,3,3:56 PM,7:38,Hughes Lost Ball Turnover (P2.T9),,Starks STEAL (2 STL),,
+0020000425,255,1,5,3,3:56 PM,7:33,,,Starks  Layup (6 PTS),45 - 46,1
+0020000425,256,2,46,3,3:56 PM,7:22,MISS Blaylock 9' Running Jump Shot,,,,
+0020000425,257,4,0,3,3:56 PM,7:21,,,Russell REBOUND (Off:1 Def:2),,
+0020000425,258,1,1,3,3:57 PM,7:11,,,Polynice 5' Jump Shot (8 PTS) (Malone 3 AST),47 - 46,-1
+0020000425,259,6,2,3,3:57 PM,6:57,,,Polynice S.FOUL (P3.PN),,
+0020000425,260,3,11,3,3:58 PM,6:57,Jamison Free Throw 1 of 2 (5 PTS),,,47 - 47,TIE
+0020000425,261,3,12,3,3:58 PM,6:57,Jamison Free Throw 2 of 2 (6 PTS),,,47 - 48,1
+0020000425,262,1,1,3,3:58 PM,6:44,,,Russell 17' Jump Shot (6 PTS) (Stockton 4 AST),49 - 48,-1
+0020000425,263,2,1,3,3:58 PM,6:38,MISS Jamison 8' Jump Shot,,,,
+0020000425,264,4,0,3,3:58 PM,6:37,,,Russell REBOUND (Off:1 Def:3),,
+0020000425,265,5,1,3,3:58 PM,6:27,Jamison STEAL (2 STL),,Starks Bad Pass Turnover (P1.T9),,
+0020000425,266,6,1,3,3:58 PM,6:24,,,Starks P.FOUL (P2.PN),,
+0020000425,267,8,0,3,3:59 PM,6:24,SUB: Keefe FOR Jamison,,,,
+0020000425,268,3,11,3,3:59 PM,6:24,MISS Porter Free Throw 1 of 2,,,,
+0020000425,269,4,1,3,3:59 PM,6:24,WARRIORS Rebound,,,,
+0020000425,270,3,12,3,3:59 PM,6:24,MISS Porter Free Throw 2 of 2,,,,
+0020000425,271,4,0,3,3:59 PM,6:23,,,Starks REBOUND (Off:0 Def:2),,
+0020000425,272,6,1,3,4:00 PM,6:08,Porter P.FOUL (P3.T2),,,,
+0020000425,273,8,0,3,4:00 PM,6:08,SUB: Sura FOR Porter,,,,
+0020000425,274,2,1,3,4:00 PM,6:00,,,MISS Stockton 19' Jump Shot,,
+0020000425,275,4,0,3,4:00 PM,5:58,Hughes REBOUND (Off:0 Def:6),,,,
+0020000425,276,1,1,3,4:00 PM,5:48,Hughes 12' Jump Shot (4 PTS) (Blaylock 3 AST),,,49 - 50,1
+0020000425,277,1,58,3,4:01 PM,5:30,,,Polynice 6' Turnaround Hook Shot (10 PTS),51 - 50,-1
+0020000425,278,6,1,3,4:01 PM,5:20,,,Russell P.FOUL (P2.PN),,
+0020000425,279,3,11,3,4:01 PM,5:20,Hughes Free Throw 1 of 2 (5 PTS),,,51 - 51,TIE
+0020000425,280,8,0,3,4:01 PM,5:20,,,SUB: Vaughn FOR Stockton,,
+0020000425,281,3,12,3,4:01 PM,5:20,Hughes Free Throw 2 of 2 (6 PTS),,,51 - 52,1
+0020000425,282,2,1,3,4:02 PM,5:11,,,MISS Malone 5' Jump Shot,,
+0020000425,283,4,0,3,4:02 PM,5:10,,,Malone REBOUND (Off:1 Def:7),,
+0020000425,284,6,2,3,4:02 PM,5:10,Sura S.FOUL (P2.T3),,,,
+0020000425,285,3,11,3,4:02 PM,5:10,,,MISS Malone Free Throw 1 of 2,,
+0020000425,286,4,1,3,4:02 PM,5:10,,,Jazz Rebound,,
+0020000425,287,3,12,3,4:02 PM,5:10,,,Malone Free Throw 2 of 2 (7 PTS),52 - 52,TIE
+0020000425,288,1,1,3,4:03 PM,5:01,Sura 16' Jump Shot (7 PTS) (Blaylock 4 AST),,,52 - 54,2
+0020000425,289,2,1,3,4:03 PM,4:40,,,MISS Russell 6' Jump Shot,,
+0020000425,290,4,0,3,4:03 PM,4:39,Jackson REBOUND (Off:6 Def:6),,,,
+0020000425,291,2,1,3,4:03 PM,4:24,MISS Jackson 8' Jump Shot,,,,
+0020000425,292,4,0,3,4:03 PM,4:23,,,Malone REBOUND (Off:1 Def:8),,
+0020000425,293,6,17,3,4:04 PM,4:14,WARRIORS T.Foul (Def. 3 Sec Hughes ),,,,
+0020000425,294,3,16,3,4:04 PM,4:14,,,Vaughn Free Throw Technical (3 PTS),53 - 54,1
+0020000425,295,2,1,3,4:04 PM,4:01,,,MISS Starks 24' 3PT Jump Shot,,
+0020000425,296,4,0,3,4:04 PM,3:59,,,Russell REBOUND (Off:2 Def:3),,
+0020000425,297,5,8,3,4:05 PM,3:45,,,Polynice 3 Second Violation Turnover (P1.T10),,
+0020000425,298,6,2,3,4:05 PM,3:34,,,Polynice S.FOUL (P4.PN),,
+0020000425,299,3,11,3,4:05 PM,3:34,Jackson Free Throw 1 of 2 (11 PTS),,,53 - 55,2
+0020000425,300,8,0,3,4:06 PM,3:34,,,SUB: Ostertag FOR Polynice,,
+0020000425,301,3,12,3,4:06 PM,3:34,Jackson Free Throw 2 of 2 (12 PTS),,,53 - 56,3
+0020000425,302,1,1,3,4:06 PM,3:12,,,Russell 15' Jump Shot (8 PTS),55 - 56,1
+0020000425,303,1,1,3,4:06 PM,3:04,Hughes 15' Jump Shot (8 PTS),,,55 - 58,3
+0020000425,304,1,1,3,4:07 PM,2:38,,,Starks 25' 3PT Jump Shot (9 PTS) (Vaughn 2 AST),58 - 58,TIE
+0020000425,305,1,42,3,4:07 PM,2:23,Hughes  Driving Layup (10 PTS),,,58 - 60,2
+0020000425,306,1,1,3,4:07 PM,1:57,,,Starks 16' Jump Shot (11 PTS) (Malone 4 AST),60 - 60,TIE
+0020000425,307,1,1,3,4:08 PM,1:40,Blaylock 24' 3PT Jump Shot (15 PTS),,,60 - 63,3
+0020000425,308,2,1,3,4:08 PM,1:20,,,MISS Malone 17' Jump Shot,,
+0020000425,309,4,0,3,4:08 PM,1:19,Hughes REBOUND (Off:0 Def:7),,,,
+0020000425,310,1,42,3,4:08 PM,1:14,Sura  Driving Layup (9 PTS) (Blaylock 5 AST),,,60 - 65,5
+0020000425,311,6,2,3,4:08 PM,0:54,Keefe S.FOUL (P2.T4),,,,
+0020000425,312,9,1,3,4:09 PM,0:54,,,Jazz Timeout: Regular (Reg.3 Short 0),,
+0020000425,314,8,0,3,4:11 PM,0:54,,,SUB: Manning FOR Malone,,
+0020000425,315,3,11,3,4:11 PM,0:54,,,Russell Free Throw 1 of 2 (9 PTS),61 - 65,4
+0020000425,316,3,12,3,4:11 PM,0:54,,,Russell Free Throw 2 of 2 (10 PTS),62 - 65,3
+0020000425,317,6,4,3,4:12 PM,0:43,Sura OFF.Foul (P3),,,,
+0020000425,318,5,5,3,4:12 PM,0:43,Sura Foul Turnover (P1.T10),,,,
+0020000425,319,1,1,3,4:12 PM,0:35,,,Russell 25' 3PT Jump Shot (13 PTS) (Vaughn 3 AST),65 - 65,TIE
+0020000425,320,1,1,3,4:12 PM,0:26,Blaylock 16' Jump Shot (17 PTS),,,65 - 67,2
+0020000425,321,6,2,3,4:12 PM,0:26,,,Vaughn S.FOUL (P3.PN),,
+0020000425,322,3,10,3,4:12 PM,0:26,Blaylock Free Throw 1 of 1 (18 PTS),,,65 - 68,3
+0020000425,323,5,1,3,4:12 PM,0:04,Blaylock STEAL (3 STL),,Russell Bad Pass Turnover (P2.T11),,
+0020000425,324,6,4,3,4:12 PM,0:00,Sura OFF.Foul (P4),,,,
+0020000425,325,5,5,3,4:12 PM,0:00,Sura Foul Turnover (P2.T11),,,,
+0020000425,326,2,1,3,4:12 PM,0:00,,,MISS Starks 29' 3PT Jump Shot,,
+0020000425,327,4,0,3,4:13 PM,0:00,,,Jazz Rebound,,
+0020000425,328,13,0,3,4:13 PM,0:00,,,,65 - 68,3
+0020000425,330,12,0,4,4:16 PM,12:00,,,,65 - 68,3
+0020000425,331,2,1,4,4:17 PM,11:37,,,MISS Manning 17' Jump Shot,,
+0020000425,332,4,0,4,4:17 PM,11:35,,,Ostertag REBOUND (Off:1 Def:1),,
+0020000425,333,6,2,4,4:17 PM,11:35,Cummings S.FOUL (P1.T1),,,,
+0020000425,334,3,11,4,4:18 PM,11:35,,,Ostertag Free Throw 1 of 2 (5 PTS),66 - 68,2
+0020000425,335,3,12,4,4:18 PM,11:35,,,MISS Ostertag Free Throw 2 of 2,,
+0020000425,336,4,0,4,4:18 PM,11:34,,,Marshall REBOUND (Off:3 Def:4),,
+0020000425,337,1,5,4,4:18 PM,11:33,,,Marshall  Layup (7 PTS),68 - 68,TIE
+0020000425,338,1,1,4,4:18 PM,11:16,Blaylock 17' Jump Shot (20 PTS),,,68 - 70,2
+0020000425,339,2,1,4,4:19 PM,10:52,,,MISS Ostertag 6' Jump Shot,,
+0020000425,340,4,0,4,4:19 PM,10:51,,,Ostertag REBOUND (Off:2 Def:1),,
+0020000425,341,5,2,4,4:19 PM,10:48,Cummings STEAL (1 STL),,Ostertag Lost Ball Turnover (P1.T12),,
+0020000425,342,1,1,4,4:19 PM,10:39,Hughes 13' Jump Shot (12 PTS) (Cummings 1 AST),,,68 - 72,4
+0020000425,343,6,4,4,4:19 PM,10:25,,,Marshall OFF.Foul (P2),,
+0020000425,344,5,5,4,4:19 PM,10:25,,,Marshall Foul Turnover (P2.T13),,
+0020000425,345,1,1,4,4:20 PM,10:06,Cummings 17' Jump Shot (8 PTS) (Hughes 9 AST),,,68 - 74,6
+0020000425,346,6,1,4,4:20 PM,9:51,Jackson P.FOUL (P2.T2),,,,
+0020000425,347,8,0,4,4:20 PM,9:51,,,SUB: Malone FOR Ostertag,,
+0020000425,348,8,0,4,4:20 PM,9:51,,,SUB: Russell FOR Starks,,
+0020000425,349,2,1,4,4:21 PM,9:35,,,MISS Manning 13' Jump Shot,,
+0020000425,350,4,0,4,4:21 PM,9:34,Jackson REBOUND (Off:6 Def:7),,,,
+0020000425,351,2,1,4,4:21 PM,9:14,MISS Cummings 25' 3PT Jump Shot,,,,
+0020000425,352,4,0,4,4:21 PM,9:13,,,Marshall REBOUND (Off:3 Def:5),,
+0020000425,353,1,1,4,4:21 PM,9:06,,,Russell  3PT Jump Shot (16 PTS) (Vaughn 4 AST),71 - 74,3
+0020000425,354,1,42,4,4:22 PM,8:46,Cummings  Driving Layup (10 PTS),,,71 - 76,5
+0020000425,355,5,2,4,4:22 PM,8:25,Hughes STEAL (2 STL),,Manning Lost Ball Turnover (P1.T14),,
+0020000425,356,6,1,4,4:22 PM,8:24,,,Manning P.FOUL (P2.T1),,
+0020000425,357,9,4,4,4:22 PM,8:24,,,,,
+0020000425,359,8,0,4,4:24 PM,8:24,,,SUB: Stockton FOR Manning,,
+0020000425,360,2,42,4,4:25 PM,8:14,MISS Blaylock  Driving Layup,,,,
+0020000425,361,4,0,4,4:25 PM,8:13,,,Marshall REBOUND (Off:3 Def:6),,
+0020000425,362,6,2,4,4:25 PM,7:58,Cummings S.FOUL (P2.T3),,,,
+0020000425,363,3,11,4,4:25 PM,7:58,,,Stockton Free Throw 1 of 2 (8 PTS),72 - 76,4
+0020000425,364,3,12,4,4:25 PM,7:58,,,Stockton Free Throw 2 of 2 (9 PTS),73 - 76,3
+0020000425,365,1,1,4,4:26 PM,7:47,Hughes 13' Jump Shot (14 PTS),,,73 - 78,5
+0020000425,366,1,5,4,4:26 PM,7:31,,,Malone  Layup (9 PTS) (Stockton 5 AST),75 - 78,3
+0020000425,367,1,1,4,4:26 PM,7:19,Jamison 3' Jump Shot (8 PTS) (Hughes 10 AST),,,75 - 80,5
+0020000425,368,2,1,4,4:26 PM,7:00,Hughes BLOCK (1 BLK),,MISS Malone 6' Jump Shot,,
+0020000425,369,4,0,4,4:27 PM,6:58,Jamison REBOUND (Off:0 Def:6),,,,
+0020000425,370,1,8,4,4:27 PM,6:53,Jamison  Slam Dunk (10 PTS) (Blaylock 6 AST),,,75 - 82,7
+0020000425,371,1,1,4,4:27 PM,6:26,,,Russell 24' 3PT Jump Shot (19 PTS) (Vaughn 5 AST),78 - 82,4
+0020000425,372,1,1,4,4:27 PM,6:05,Jackson 6' Jump Shot (14 PTS) (Hughes 11 AST),,,78 - 84,6
+0020000425,373,2,1,4,4:28 PM,5:40,,,MISS Malone 10' Jump Shot,,
+0020000425,374,4,0,4,4:28 PM,5:39,Jamison REBOUND (Off:0 Def:7),,,,
+0020000425,375,1,46,4,4:28 PM,5:30,Hughes 11' Running Jump Shot (16 PTS) (Cummings 2 AST),,,78 - 86,8
+0020000425,376,9,1,4,4:28 PM,5:27,,,Jazz Timeout: Regular (Reg.4 Short 0),,
+0020000425,378,8,0,4,4:30 PM,5:27,,,SUB: Starks FOR Vaughn,,
+0020000425,379,6,1,4,4:31 PM,5:09,Jackson P.FOUL (P3.T4),,,,
+0020000425,380,2,1,4,4:31 PM,4:57,,,MISS Malone 7' Jump Shot,,
+0020000425,382,4,0,4,4:31 PM,4:55,,,Marshall REBOUND (Off:4 Def:6),,
+0020000425,381,2,4,4,4:31 PM,4:54,,,MISS Marshall  Tip Shot,,
+0020000425,383,4,0,4,4:31 PM,4:53,Jamison REBOUND (Off:0 Def:8),,,,
+0020000425,384,1,1,4,4:32 PM,4:35,Jackson 13' Jump Shot (16 PTS) (Blaylock 7 AST),,,78 - 88,10
+0020000425,385,2,1,4,4:32 PM,4:19,,,MISS Stockton 21' Jump Shot,,
+0020000425,386,4,0,4,4:32 PM,4:17,Jamison REBOUND (Off:0 Def:9),,,,
+0020000425,387,2,1,4,4:32 PM,3:57,MISS Hughes 17' Jump Shot,,,,
+0020000425,388,4,0,4,4:32 PM,3:55,Cummings REBOUND (Off:1 Def:2),,,,
+0020000425,389,6,2,4,4:33 PM,3:40,,,Marshall S.FOUL (P3.T2),,
+0020000425,390,3,11,4,4:33 PM,3:40,MISS Cummings Free Throw 1 of 2,,,,
+0020000425,391,4,1,4,4:33 PM,3:40,WARRIORS Rebound,,,,
+0020000425,392,3,12,4,4:33 PM,3:40,Cummings Free Throw 2 of 2 (11 PTS),,,78 - 89,11
+0020000425,393,5,2,4,4:34 PM,3:30,Cummings STEAL (2 STL),,Stockton Lost Ball Turnover (P4.T15),,
+0020000425,394,6,4,4,4:34 PM,3:27,Jamison OFF.Foul (P3),,,,
+0020000425,395,5,5,4,4:34 PM,3:27,Jamison Foul Turnover (P3.T12),,,,
+0020000425,396,1,5,4,4:34 PM,3:17,,,Malone  Layup (11 PTS) (Stockton 6 AST),80 - 89,9
+0020000425,397,9,1,4,4:35 PM,3:00,WARRIORS Timeout: Regular (Full 4 Short 1),,,,
+0020000425,399,1,1,4,4:38 PM,2:55,Hughes 17' Jump Shot (18 PTS),,,80 - 91,11
+0020000425,400,2,1,4,4:39 PM,2:42,,,MISS Malone 18' Jump Shot,,
+0020000425,401,4,0,4,4:39 PM,2:41,,,Marshall REBOUND (Off:5 Def:6),,
+0020000425,402,6,2,4,4:39 PM,2:41,Blaylock S.FOUL (P1.PN),,,,
+0020000425,403,3,11,4,4:39 PM,2:41,,,Marshall Free Throw 1 of 2 (8 PTS),81 - 91,10
+0020000425,404,3,12,4,4:39 PM,2:41,,,Marshall Free Throw 2 of 2 (9 PTS),82 - 91,9
+0020000425,405,2,1,4,4:40 PM,2:22,MISS Cummings 13' Jump Shot,,,,
+0020000425,407,4,0,4,4:40 PM,2:21,Jamison REBOUND (Off:1 Def:9),,,,
+0020000425,406,1,4,4,4:40 PM,2:20,Jamison  Tip Shot (12 PTS),,,82 - 93,11
+0020000425,408,6,2,4,4:40 PM,2:09,Jamison S.FOUL (P4.PN),,,,
+0020000425,409,3,11,4,4:40 PM,2:09,,,MISS Malone Free Throw 1 of 2,,
+0020000425,410,4,1,4,4:40 PM,2:09,,,Jazz Rebound,,
+0020000425,411,3,12,4,4:40 PM,2:09,,,Malone Free Throw 2 of 2 (12 PTS),83 - 93,10
+0020000425,412,6,1,4,4:41 PM,2:00,,,Marshall P.FOUL (P4.T3),,
+0020000425,413,2,1,4,4:41 PM,1:45,MISS Blaylock 8' Jump Shot,,,,
+0020000425,414,4,0,4,4:42 PM,1:45,Blaylock REBOUND (Off:1 Def:4),,,,
+0020000425,415,6,3,4,4:42 PM,1:45,,,Starks L.B.FOUL (P3.PN),,
+0020000425,416,3,11,4,4:42 PM,1:45,Jamison Free Throw 1 of 2 (13 PTS),,,83 - 94,11
+0020000425,417,3,12,4,4:42 PM,1:45,MISS Jamison Free Throw 2 of 2,,,,
+0020000425,418,4,0,4,4:42 PM,1:44,Jackson REBOUND (Off:7 Def:7),,,,
+0020000425,419,1,4,4,4:42 PM,1:44,Jackson  Tip Shot (18 PTS),,,83 - 96,13
+0020000425,420,2,1,4,4:42 PM,1:30,,,MISS Russell 24' 3PT Jump Shot,,
+0020000425,421,4,0,4,4:43 PM,1:29,,,Marshall REBOUND (Off:6 Def:6),,
+0020000425,422,1,5,4,4:43 PM,1:28,,,Marshall  Layup (11 PTS),85 - 96,11
+0020000425,423,1,46,4,4:43 PM,1:05,Hughes 6' Running Jump Shot (20 PTS),,,85 - 98,13
+0020000425,424,2,1,4,4:43 PM,0:56,,,MISS Russell  3PT Jump Shot,,
+0020000425,425,4,0,4,4:43 PM,0:55,Hughes REBOUND (Off:0 Def:8),,,,
+0020000425,426,1,1,4,4:44 PM,0:35,Jackson 20' Jump Shot (20 PTS) (Blaylock 8 AST),,,85 - 100,15
+0020000425,427,1,1,4,4:44 PM,0:26,,,Starks 19' Jump Shot (13 PTS),87 - 100,13
+0020000425,428,5,1,4,4:44 PM,0:13,Jamison Bad Pass Turnover (P4.T13),,Marshall STEAL (1 STL),,
+0020000425,429,1,8,4,4:44 PM,0:09,,,Marshall  Slam Dunk (13 PTS) (Starks 6 AST),89 - 100,11
+0020000425,430,13,0,4,4:44 PM,0:00,,,,89 - 100,11

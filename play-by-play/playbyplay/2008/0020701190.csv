@@ -1,0 +1,503 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020701190,0,12,0,1,7:02 PM,12:00,,,,,
+0020701190,1,10,0,1,7:03 PM,12:00,Jump Ball Foster vs. Okafor: Tip to,,,,
+0020701190,2,2,1,1,7:04 PM,11:39,,,MISS Richardson 26' 3PT Jump Shot,,
+0020701190,3,4,0,1,7:04 PM,11:38,Foster REBOUND (Off:0 Def:1),,,,
+0020701190,4,1,1,1,7:04 PM,11:25,Granger 25' 3PT Jump Shot (3 PTS) (Dunleavy 1 AST),,,0 - 3,3
+0020701190,5,1,75,1,7:04 PM,11:16,,,Richardson 2' Driving Finger Roll Layup (2 PTS) (Felton 1 AST),2 - 3,1
+0020701190,6,2,79,1,7:04 PM,11:06,MISS Murray 14' Pullup Jump Shot,,,,
+0020701190,7,4,0,1,7:04 PM,11:05,Murray REBOUND (Off:1 Def:0),,,,
+0020701190,8,2,1,1,7:04 PM,11:02,MISS Granger 25' 3PT Jump Shot,,,,
+0020701190,9,4,0,1,7:04 PM,11:01,Foster REBOUND (Off:1 Def:1),,,,
+0020701190,10,1,5,1,7:04 PM,10:55,Murray 2' Layup (2 PTS) (Dunleavy 2 AST),,,2 - 5,3
+0020701190,11,1,1,1,7:05 PM,10:32,,,Dudley 21' Jump Shot (2 PTS) (Felton 2 AST),4 - 5,1
+0020701190,12,1,5,1,7:05 PM,10:12,Foster 2' Layup (2 PTS) (Murray 1 AST),,,4 - 7,3
+0020701190,13,6,2,1,7:05 PM,10:05,Foster S.FOUL (P1.T1),,,,
+0020701190,14,3,11,1,7:06 PM,10:05,,,Okafor Free Throw 1 of 2 (1 PTS),5 - 7,2
+0020701190,15,3,12,1,7:06 PM,10:05,,,MISS Okafor Free Throw 2 of 2,,
+0020701190,16,4,0,1,7:06 PM,10:05,Granger REBOUND (Off:0 Def:1),,,,
+0020701190,17,2,5,1,7:06 PM,9:54,MISS Murray 2' Layup,,,,
+0020701190,18,4,0,1,7:06 PM,9:54,,,Carroll REBOUND (Off:0 Def:1),,
+0020701190,19,1,1,1,7:06 PM,9:40,,,Carroll 25' 3PT Jump Shot (3 PTS) (Felton 3 AST),8 - 7,-1
+0020701190,20,6,1,1,7:07 PM,9:21,,,Felton P.FOUL (P1.T1),,
+0020701190,21,5,1,1,7:07 PM,9:14,Murphy Bad Pass Turnover (P1.T1),,Richardson STEAL (1 STL),,
+0020701190,22,1,88,1,7:07 PM,9:10,,,Richardson 4' Driving Slam Dunk (4 PTS),10 - 7,-3
+0020701190,23,1,5,1,7:07 PM,8:51,Foster 2' Layup (4 PTS) (Granger 1 AST),,,10 - 9,-1
+0020701190,24,7,1,1,7:07 PM,8:49,PACERS Violation: Delay of game Violation,,,,
+0020701190,25,1,1,1,7:08 PM,8:30,,,Richardson 26' 3PT Jump Shot (7 PTS) (Felton 4 AST),13 - 9,-4
+0020701190,26,2,1,1,7:08 PM,8:19,MISS Granger 20' Jump Shot,,,,
+0020701190,27,4,0,1,7:08 PM,8:18,,,Felton REBOUND (Off:0 Def:1),,
+0020701190,28,2,1,1,7:08 PM,8:10,,,MISS Felton 16' Jump Shot,,
+0020701190,29,4,0,1,7:08 PM,8:09,,,Okafor REBOUND (Off:1 Def:0),,
+0020701190,30,1,71,1,7:08 PM,8:07,,,Okafor 1' Finger Roll Layup (3 PTS),15 - 9,-6
+0020701190,31,2,1,1,7:09 PM,7:52,MISS Dunleavy 16' Jump Shot,,,,
+0020701190,32,4,0,1,7:09 PM,7:51,,,Okafor REBOUND (Off:1 Def:1),,
+0020701190,33,6,2,1,7:09 PM,7:44,Murphy S.FOUL (P1.T2),,,,
+0020701190,34,3,11,1,7:09 PM,7:44,,,Dudley Free Throw 1 of 2 (3 PTS),16 - 9,-7
+0020701190,35,3,12,1,7:09 PM,7:44,,,Dudley Free Throw 2 of 2 (4 PTS),17 - 9,-8
+0020701190,36,6,2,1,7:10 PM,7:34,,,Okafor S.FOUL (P1.T2),,
+0020701190,37,3,11,1,7:10 PM,7:34,Dunleavy Free Throw 1 of 2 (1 PTS),,,17 - 10,-7
+0020701190,38,3,12,1,7:10 PM,7:34,Dunleavy Free Throw 2 of 2 (2 PTS),,,17 - 11,-6
+0020701190,39,6,2,1,7:10 PM,7:27,Granger S.FOUL (P1.T3),,,,
+0020701190,40,3,11,1,7:11 PM,7:27,,,Richardson Free Throw 1 of 2 (8 PTS),18 - 11,-7
+0020701190,41,3,12,1,7:11 PM,7:27,,,Richardson Free Throw 2 of 2 (9 PTS),19 - 11,-8
+0020701190,42,6,2,1,7:12 PM,7:17,,,Okafor S.FOUL (P2.T3),,
+0020701190,43,3,11,1,7:12 PM,7:17,MISS Dunleavy Free Throw 1 of 2,,,,
+0020701190,44,4,1,1,7:12 PM,7:17,PACERS Rebound,,,,
+0020701190,45,3,12,1,7:12 PM,7:17,Dunleavy Free Throw 2 of 2 (3 PTS),,,19 - 12,-7
+0020701190,46,2,1,1,7:12 PM,7:02,,,MISS Okafor 5' Jump Shot,,
+0020701190,47,4,0,1,7:12 PM,7:01,Foster REBOUND (Off:1 Def:2),,,,
+0020701190,48,1,75,1,7:13 PM,6:47,Murray 3' Driving Finger Roll Layup (4 PTS),,,19 - 14,-5
+0020701190,49,2,1,1,7:13 PM,6:39,,,MISS Richardson 27' 3PT Jump Shot,,
+0020701190,50,4,0,1,7:13 PM,6:38,Granger REBOUND (Off:0 Def:2),,,,
+0020701190,51,1,1,1,7:13 PM,6:20,Granger 26' 3PT Jump Shot (6 PTS) (Murray 2 AST),,,19 - 17,-2
+0020701190,52,9,1,1,7:13 PM,6:13,,,Bobcats Timeout: Regular (Reg.1 Short 0),,
+0020701190,54,8,0,1,7:15 PM,6:13,,,SUB: Mohammed FOR Okafor,,
+0020701190,55,2,1,1,7:16 PM,5:54,,,MISS Mohammed 18' Jump Shot,,
+0020701190,56,4,0,1,7:16 PM,5:53,Murphy REBOUND (Off:0 Def:1),,,,
+0020701190,57,1,79,1,7:16 PM,5:44,Murray 17' Pullup Jump Shot (6 PTS),,,19 - 19,TIE
+0020701190,58,1,1,1,7:16 PM,5:27,,,Dudley 20' Jump Shot (6 PTS) (Felton 5 AST),21 - 19,-2
+0020701190,59,6,2,1,7:17 PM,5:13,,,Dudley S.FOUL (P1.T4),,
+0020701190,60,3,11,1,7:17 PM,5:13,MISS Murray Free Throw 1 of 2,,,,
+0020701190,61,4,1,1,7:17 PM,5:13,PACERS Rebound,,,,
+0020701190,62,3,12,1,7:17 PM,5:13,Murray Free Throw 2 of 2 (7 PTS),,,21 - 20,-1
+0020701190,63,5,4,1,7:18 PM,5:03,,,Richardson Traveling Turnover (P1.T1),,
+0020701190,64,2,1,1,7:18 PM,4:50,MISS Foster 17' Jump Shot,,,,
+0020701190,65,4,0,1,7:18 PM,4:49,,,Mohammed REBOUND (Off:0 Def:1),,
+0020701190,66,1,1,1,7:18 PM,4:35,,,Dudley 20' Jump Shot (8 PTS) (Felton 6 AST),23 - 20,-3
+0020701190,67,1,79,1,7:18 PM,4:21,Murray 17' Pullup Jump Shot (9 PTS) (Foster 1 AST),,,23 - 22,-1
+0020701190,68,2,63,1,7:19 PM,3:54,,,MISS Mohammed 19' Fadeaway Jumper,,
+0020701190,69,4,0,1,7:19 PM,3:53,Murphy REBOUND (Off:0 Def:2),,,,
+0020701190,70,2,5,1,7:19 PM,3:43,MISS Granger 2' Layup,,Mohammed BLOCK (1 BLK),,
+0020701190,71,4,0,1,7:19 PM,3:42,PACERS Rebound,,,,
+0020701190,72,8,0,1,7:20 PM,3:42,,,SUB: Hollins FOR Dudley,,
+0020701190,73,8,0,1,7:20 PM,3:42,SUB: O'Neal FOR Foster,,,,
+0020701190,74,1,47,1,7:20 PM,3:29,O'Neal 11' Turnaround Jump Shot (2 PTS),,,23 - 24,1
+0020701190,75,5,2,1,7:21 PM,3:03,Granger STEAL (1 STL),,Richardson Lost Ball Turnover (P2.T2),,
+0020701190,76,2,1,1,7:21 PM,2:58,MISS Dunleavy 18' Jump Shot,,,,
+0020701190,77,4,0,1,7:21 PM,2:57,,,Hollins REBOUND (Off:0 Def:1),,
+0020701190,78,1,79,1,7:21 PM,2:47,,,Felton 18' Pullup Jump Shot (2 PTS),25 - 24,-1
+0020701190,79,6,2,1,7:21 PM,2:30,,,Mohammed S.FOUL (P1.PN),,
+0020701190,80,9,1,1,7:21 PM,2:30,PACERS Timeout: Regular (Full 1 Short 0),,,,
+0020701190,82,8,0,1,7:24 PM,2:30,SUB: Daniels FOR Dunleavy,,,,
+0020701190,83,3,11,1,7:24 PM,2:30,O'Neal Free Throw 1 of 2 (3 PTS),,,25 - 25,TIE
+0020701190,84,3,12,1,7:24 PM,2:30,O'Neal Free Throw 2 of 2 (4 PTS),,,25 - 26,1
+0020701190,85,1,66,1,7:25 PM,2:13,,,Mohammed 5' Jump Bank Shot (2 PTS) (Felton 7 AST),27 - 26,-1
+0020701190,86,2,1,1,7:25 PM,2:00,MISS Murray 10' Jump Shot,,,,
+0020701190,87,4,0,1,7:25 PM,1:59,,,Richardson REBOUND (Off:0 Def:1),,
+0020701190,88,2,1,1,7:25 PM,1:52,,,MISS Richardson 25' 3PT Jump Shot,,
+0020701190,89,4,0,1,7:25 PM,1:51,,,Felton REBOUND (Off:1 Def:1),,
+0020701190,90,1,1,1,7:25 PM,1:48,,,Richardson  3PT Jump Shot (12 PTS) (Felton 8 AST),30 - 26,-4
+0020701190,91,1,47,1,7:26 PM,1:26,O'Neal 4' Turnaround Jump Shot (6 PTS),,,30 - 28,-2
+0020701190,92,1,1,1,7:26 PM,1:14,,,Felton 20' Jump Shot (4 PTS),32 - 28,-4
+0020701190,93,6,17,1,7:26 PM,1:00,,,Bobcats T.Foul (Def. 3 Sec Hollins ),,
+0020701190,94,3,16,1,7:26 PM,1:00,Granger Free Throw Technical (7 PTS),,,32 - 29,-3
+0020701190,95,6,2,1,7:27 PM,0:54,,,Hollins S.FOUL (P1.PN),,
+0020701190,96,3,11,1,7:27 PM,0:54,Granger Free Throw 1 of 2 (8 PTS),,,32 - 30,-2
+0020701190,97,8,0,1,7:27 PM,0:54,SUB: Diener FOR Murray,,,,
+0020701190,98,3,12,1,7:27 PM,0:54,Granger Free Throw 2 of 2 (9 PTS),,,32 - 31,-1
+0020701190,99,2,1,1,7:28 PM,0:42,,,MISS Mohammed 16' Jump Shot,,
+0020701190,100,4,0,1,7:28 PM,0:41,,,Mohammed REBOUND (Off:1 Def:1),,
+0020701190,101,2,5,1,7:28 PM,0:38,,,MISS Hollins 1' Layup,,
+0020701190,102,4,0,1,7:28 PM,0:37,Murphy REBOUND (Off:0 Def:3),,,,
+0020701190,103,2,5,1,7:28 PM,0:27,MISS Daniels 3' Layup,,,,
+0020701190,104,4,0,1,7:28 PM,0:27,,,Mohammed REBOUND (Off:1 Def:2),,
+0020701190,105,5,40,1,7:28 PM,0:08,,,Felton Out of Bounds Lost Ball Turnover (P1.T3),,
+0020701190,106,1,1,1,7:29 PM,0:05,Granger 20' Jump Shot (11 PTS) (Daniels 1 AST),,,32 - 33,1
+0020701190,107,2,1,1,7:29 PM,0:01,,,MISS Carroll 16' Jump Shot,,
+0020701190,109,4,0,1,7:29 PM,0:00,,,Hollins REBOUND (Off:1 Def:1),,
+0020701190,108,2,5,1,7:29 PM,0:00,,,MISS Hollins 1' Layup,,
+0020701190,110,4,0,1,7:29 PM,0:00,O'Neal REBOUND (Off:0 Def:1),,,,
+0020701190,111,13,0,1,7:30 PM,0:00,,,,32 - 33,1
+0020701190,113,12,0,2,7:32 PM,12:00,,,,32 - 33,1
+0020701190,114,5,1,2,7:32 PM,11:40,O'Neal Bad Pass Turnover (P1.T2),,,,
+0020701190,115,2,1,2,7:32 PM,11:30,,,MISS Felton 19' Jump Shot,,
+0020701190,116,4,0,2,7:32 PM,11:29,Diener REBOUND (Off:0 Def:1),,,,
+0020701190,117,1,71,2,7:32 PM,11:24,Dunleavy 1' Finger Roll Layup (5 PTS) (Diener 1 AST),,,32 - 35,3
+0020701190,118,5,1,2,7:33 PM,11:01,O'Neal STEAL (1 STL),,Boykins Bad Pass Turnover (P1.T4),,
+0020701190,119,2,1,2,7:33 PM,10:55,MISS Daniels 3' Jump Shot,,Hollins BLOCK (1 BLK),,
+0020701190,120,4,0,2,7:33 PM,10:55,PACERS Rebound,,,,
+0020701190,121,5,40,2,7:33 PM,10:47,Daniels Out of Bounds Lost Ball Turnover (P1.T3),,,,
+0020701190,122,2,5,2,7:34 PM,10:24,O'Neal BLOCK (1 BLK),,MISS Mohammed 2' Layup,,
+0020701190,123,4,0,2,7:34 PM,10:23,,,Mohammed REBOUND (Off:2 Def:2),,
+0020701190,124,5,11,2,7:34 PM,10:23,,,Bobcats Turnover: Shot Clock (T#5),,
+0020701190,125,2,79,2,7:34 PM,10:14,MISS Diener 17' Pullup Jump Shot,,,,
+0020701190,126,4,0,2,7:34 PM,10:13,,,Boykins REBOUND (Off:0 Def:1),,
+0020701190,127,1,78,2,7:35 PM,9:54,,,Boykins 15' Floating Jump Shot (2 PTS),34 - 35,1
+0020701190,128,5,1,2,7:35 PM,9:42,Dunleavy Bad Pass Turnover (P1.T4),,Hollins STEAL (1 STL),,
+0020701190,129,2,5,2,7:35 PM,9:37,,,MISS Felton 1' Layup,,
+0020701190,131,4,0,2,7:35 PM,9:36,,,Mohammed REBOUND (Off:3 Def:2),,
+0020701190,130,2,72,2,7:35 PM,9:36,,,MISS Mohammed 2' Putback Layup,,
+0020701190,132,4,0,2,7:35 PM,9:35,,,Mohammed REBOUND (Off:4 Def:2),,
+0020701190,133,6,2,2,7:35 PM,9:33,O'Neal S.FOUL (P1.T1),,,,
+0020701190,134,8,0,2,7:35 PM,9:33,,,SUB: Richardson FOR Felton,,
+0020701190,135,8,0,2,7:35 PM,9:33,,,SUB: Okafor FOR Hollins,,
+0020701190,136,3,11,2,7:36 PM,9:33,,,Mohammed Free Throw 1 of 2 (3 PTS),35 - 35,TIE
+0020701190,137,3,12,2,7:36 PM,9:33,,,Mohammed Free Throw 2 of 2 (4 PTS),36 - 35,-1
+0020701190,138,2,1,2,7:36 PM,9:15,MISS Diener 26' 3PT Jump Shot,,,,
+0020701190,139,4,0,2,7:36 PM,9:14,Foster REBOUND (Off:2 Def:2),,,,
+0020701190,140,1,1,2,7:36 PM,9:09,Daniels 25' 3PT Jump Shot (3 PTS) (Diener 2 AST),,,36 - 38,2
+0020701190,141,6,2,2,7:37 PM,9:01,Dunleavy S.FOUL (P1.T2),,,,
+0020701190,142,3,11,2,7:37 PM,9:01,,,Dudley Free Throw 1 of 2 (9 PTS),37 - 38,1
+0020701190,143,3,12,2,7:37 PM,9:01,,,Dudley Free Throw 2 of 2 (10 PTS),38 - 38,TIE
+0020701190,144,2,47,2,7:38 PM,8:49,MISS O'Neal 13' Turnaround Jump Shot,,,,
+0020701190,145,4,0,2,7:38 PM,8:48,,,Okafor REBOUND (Off:1 Def:2),,
+0020701190,146,5,1,2,7:38 PM,8:43,Diener STEAL (1 STL),,Boykins Bad Pass Turnover (P2.T6),,
+0020701190,147,1,5,2,7:38 PM,8:36,Foster 1' Layup (6 PTS) (Dunleavy 3 AST),,,38 - 40,2
+0020701190,149,1,79,2,7:38 PM,8:22,,,Boykins 15' Pullup Jump Shot (4 PTS),40 - 40,TIE
+0020701190,150,2,1,2,7:38 PM,8:03,MISS Dunleavy 25' 3PT Jump Shot,,,,
+0020701190,151,4,0,2,7:38 PM,8:02,,,Okafor REBOUND (Off:1 Def:3),,
+0020701190,152,6,1,2,7:38 PM,8:01,Foster P.FOUL (P2.T3),,,,
+0020701190,153,9,4,2,7:38 PM,8:01,,,,,
+0020701190,155,8,0,2,7:40 PM,8:01,SUB: Murphy FOR Foster,,,,
+0020701190,156,1,1,2,7:41 PM,7:48,,,Richardson 18' Jump Shot (14 PTS) (Dudley 1 AST),42 - 40,-2
+0020701190,157,2,1,2,7:42 PM,7:26,MISS Daniels  3PT Jump Shot,,,,
+0020701190,158,4,0,2,7:42 PM,7:25,,,Boykins REBOUND (Off:0 Def:2),,
+0020701190,159,2,1,2,7:42 PM,7:19,,,MISS Dudley 18' Jump Shot,,
+0020701190,160,4,0,2,7:42 PM,7:18,Daniels REBOUND (Off:0 Def:1),,,,
+0020701190,161,2,1,2,7:42 PM,7:09,MISS Murphy 24' 3PT Jump Shot,,,,
+0020701190,162,4,0,2,7:42 PM,7:08,,,Okafor REBOUND (Off:1 Def:4),,
+0020701190,163,2,1,2,7:42 PM,6:59,,,MISS Boykins 26' 3PT Jump Shot,,
+0020701190,164,4,0,2,7:42 PM,6:58,O'Neal REBOUND (Off:0 Def:2),,,,
+0020701190,165,2,1,2,7:42 PM,6:49,MISS Daniels 16' Jump Shot,,,,
+0020701190,166,4,0,2,7:42 PM,6:48,,,Dudley REBOUND (Off:0 Def:1),,
+0020701190,167,6,2,2,7:43 PM,6:41,O'Neal S.FOUL (P2.T4),,,,
+0020701190,168,3,11,2,7:43 PM,6:41,,,Dudley Free Throw 1 of 2 (11 PTS),43 - 40,-3
+0020701190,169,8,0,2,7:43 PM,6:41,SUB: Granger FOR Dunleavy,,,,
+0020701190,170,3,12,2,7:43 PM,6:41,,,Dudley Free Throw 2 of 2 (12 PTS),44 - 40,-4
+0020701190,171,1,1,2,7:44 PM,6:30,Granger 17' Jump Shot (13 PTS) (Daniels 2 AST),,,44 - 42,-2
+0020701190,172,6,2,2,7:44 PM,6:14,Granger S.FOUL (P2.PN),,,,
+0020701190,173,8,0,2,7:44 PM,6:14,,,SUB: Carroll FOR Mohammed,,
+0020701190,174,3,11,2,7:44 PM,6:14,,,Richardson Free Throw 1 of 2 (15 PTS),45 - 42,-3
+0020701190,175,3,12,2,7:44 PM,6:14,,,Richardson Free Throw 2 of 2 (16 PTS),46 - 42,-4
+0020701190,176,2,5,2,7:45 PM,6:02,MISS Granger 2' Layup,,,,
+0020701190,177,4,0,2,7:45 PM,6:01,Granger REBOUND (Off:1 Def:2),,,,
+0020701190,178,1,1,2,7:45 PM,6:00,Granger 3' Jump Shot (15 PTS),,,46 - 44,-2
+0020701190,179,2,1,2,7:45 PM,5:53,O'Neal BLOCK (2 BLK),,MISS Boykins 3' Jump Shot,,
+0020701190,180,4,0,2,7:45 PM,5:53,,,Bobcats Rebound,,
+0020701190,181,9,1,2,7:45 PM,5:53,PACERS Timeout: Regular (Full 2 Short 0),,,,
+0020701190,183,8,0,2,7:47 PM,5:53,SUB: Foster FOR O'Neal,,,,
+0020701190,184,8,0,2,7:47 PM,5:53,SUB: Dunleavy FOR Daniels,,,,
+0020701190,185,1,1,2,7:48 PM,5:42,,,Carroll 18' Jump Shot (5 PTS) (Okafor 1 AST),48 - 44,-4
+0020701190,186,1,75,2,7:48 PM,5:22,Dunleavy 1' Driving Finger Roll Layup (7 PTS),,,48 - 46,-2
+0020701190,187,2,5,2,7:48 PM,5:15,Granger BLOCK (1 BLK),,MISS Dudley 2' Layup,,
+0020701190,188,4,0,2,7:48 PM,5:14,Diener REBOUND (Off:0 Def:2),,,,
+0020701190,189,2,71,2,7:48 PM,5:07,MISS Diener 3' Finger Roll Layup,,,,
+0020701190,190,4,0,2,7:48 PM,5:06,,,Okafor REBOUND (Off:1 Def:5),,
+0020701190,191,2,5,2,7:49 PM,4:58,,,MISS Okafor 3' Layup,,
+0020701190,192,4,0,2,7:49 PM,4:57,,,Dudley REBOUND (Off:1 Def:1),,
+0020701190,193,1,72,2,7:49 PM,4:56,,,Dudley 2' Putback Layup (14 PTS),50 - 46,-4
+0020701190,194,2,1,2,7:49 PM,4:39,MISS Granger 20' Jump Shot,,,,
+0020701190,195,4,0,2,7:49 PM,4:37,,,Okafor REBOUND (Off:1 Def:6),,
+0020701190,196,5,4,2,7:49 PM,4:28,,,Boykins Traveling Turnover (P3.T7),,
+0020701190,197,8,0,2,7:49 PM,4:28,,,SUB: Felton FOR Boykins,,
+0020701190,198,6,1,2,7:50 PM,4:16,,,Carroll P.FOUL (P1.T1),,
+0020701190,199,8,0,2,7:50 PM,4:16,SUB: Murray FOR Diener,,,,
+0020701190,200,5,40,2,7:50 PM,4:06,Granger Out of Bounds Lost Ball Turnover (P1.T5),,,,
+0020701190,201,2,5,2,7:51 PM,4:00,Murphy BLOCK (1 BLK),,MISS Richardson 2' Layup,,
+0020701190,202,4,0,2,7:51 PM,3:59,Murphy REBOUND (Off:0 Def:4),,,,
+0020701190,203,2,1,2,7:51 PM,3:53,MISS Dunleavy 27' 3PT Jump Shot,,,,
+0020701190,204,4,0,2,7:51 PM,3:52,,,Bobcats Rebound,,
+0020701190,205,1,1,2,7:51 PM,3:39,,,Felton 25' 3PT Jump Shot (7 PTS) (Dudley 2 AST),53 - 46,-7
+0020701190,206,2,5,2,7:52 PM,3:21,MISS Dunleavy 1' Layup,,Richardson BLOCK (1 BLK),,
+0020701190,207,4,0,2,7:52 PM,3:20,,,Okafor REBOUND (Off:1 Def:7),,
+0020701190,208,1,1,2,7:52 PM,3:13,,,Carroll 20' Jump Shot (7 PTS) (Felton 9 AST),55 - 46,-9
+0020701190,209,9,2,2,7:52 PM,3:04,PACERS Timeout: Short (Full 2 Short 1),,,,
+0020701190,211,1,66,2,7:53 PM,2:59,Dunleavy 3' Jump Bank Shot (9 PTS) (Foster 2 AST),,,55 - 48,-7
+0020701190,212,6,4,2,7:53 PM,2:40,,,Okafor OFF.Foul (P3),,
+0020701190,213,5,5,2,7:53 PM,2:40,,,Okafor Foul Turnover (P1.T8),,
+0020701190,214,9,1,2,7:54 PM,2:40,,,Bobcats Timeout: Regular (Reg.2 Short 0),,
+0020701190,216,8,0,2,7:56 PM,2:40,SUB: Rush FOR Foster,,,,
+0020701190,217,8,0,2,7:56 PM,2:40,,,SUB: Mohammed FOR Okafor,,
+0020701190,218,2,1,2,7:56 PM,2:26,MISS Rush 25' 3PT Jump Shot,,,,
+0020701190,219,4,0,2,7:56 PM,2:26,,,Richardson REBOUND (Off:0 Def:2),,
+0020701190,220,2,1,2,7:57 PM,2:06,,,MISS Richardson 20' Jump Shot,,
+0020701190,221,4,0,2,7:57 PM,2:04,,,Felton REBOUND (Off:2 Def:1),,
+0020701190,222,2,1,2,7:57 PM,1:49,,,MISS Dudley 18' Jump Shot,,
+0020701190,224,4,0,2,7:57 PM,1:48,,,Mohammed REBOUND (Off:5 Def:2),,
+0020701190,223,1,4,2,7:57 PM,1:48,,,Mohammed 2' Tip Shot (6 PTS),57 - 48,-9
+0020701190,225,2,1,2,7:57 PM,1:29,MISS Granger 25' 3PT Jump Shot,,,,
+0020701190,226,4,0,2,7:57 PM,1:28,,,Mohammed REBOUND (Off:5 Def:3),,
+0020701190,227,2,1,2,7:58 PM,1:12,,,MISS Mohammed 18' Jump Shot,,
+0020701190,228,4,0,2,7:58 PM,1:10,Murray REBOUND (Off:1 Def:1),,,,
+0020701190,229,6,2,2,7:58 PM,0:59,,,Mohammed S.FOUL (P2.T2),,
+0020701190,230,3,11,2,7:58 PM,0:59,Granger Free Throw 1 of 2 (16 PTS),,,57 - 49,-8
+0020701190,231,3,12,2,7:58 PM,0:59,Granger Free Throw 2 of 2 (17 PTS),,,57 - 50,-7
+0020701190,232,2,1,2,7:59 PM,0:45,,,MISS Carroll 24' 3PT Jump Shot,,
+0020701190,233,4,0,2,7:59 PM,0:44,Murray REBOUND (Off:1 Def:2),,,,
+0020701190,234,1,42,2,7:59 PM,0:40,Dunleavy 3' Driving Layup (11 PTS) (Murray 3 AST),,,57 - 52,-5
+0020701190,235,6,2,2,7:59 PM,0:40,,,Richardson S.FOUL (P1.PN),,
+0020701190,236,3,10,2,7:59 PM,0:40,MISS Dunleavy Free Throw 1 of 1,,,,
+0020701190,237,4,0,2,7:59 PM,0:40,,,Dudley REBOUND (Off:1 Def:2),,
+0020701190,238,5,1,2,7:59 PM,0:28,,,Felton Bad Pass Turnover (P2.T9),,
+0020701190,239,2,1,2,8:00 PM,0:10,MISS Granger 25' 3PT Jump Shot,,,,
+0020701190,240,4,0,2,8:00 PM,0:09,,,Dudley REBOUND (Off:1 Def:3),,
+0020701190,241,2,1,2,8:00 PM,0:00,,,MISS Felton 25' 3PT Jump Shot,,
+0020701190,242,4,0,2,8:00 PM,0:00,Rush REBOUND (Off:0 Def:1),,,,
+0020701190,243,13,0,2,8:00 PM,0:00,,,,57 - 52,-5
+0020701190,245,12,0,3,8:16 PM,12:00,,,,57 - 52,-5
+0020701190,246,2,1,3,8:17 PM,11:48,MISS Dunleavy 7' Jump Shot,,,,
+0020701190,247,4,0,3,8:17 PM,11:47,,,Okafor REBOUND (Off:1 Def:8),,
+0020701190,248,6,1,3,8:17 PM,11:46,Dunleavy P.FOUL (P2.T1),,,,
+0020701190,249,2,47,3,8:17 PM,11:30,,,MISS Okafor 10' Turnaround Jump Shot,,
+0020701190,250,4,0,3,8:17 PM,11:29,Murphy REBOUND (Off:0 Def:5),,,,
+0020701190,251,1,65,3,8:17 PM,11:23,Granger 3' Jump Hook Shot (19 PTS),,,57 - 54,-3
+0020701190,252,6,2,3,8:17 PM,11:23,,,Dudley S.FOUL (P2.T1),,
+0020701190,253,3,10,3,8:17 PM,11:23,Granger Free Throw 1 of 1 (20 PTS),,,57 - 55,-2
+0020701190,254,2,1,3,8:18 PM,11:07,,,MISS Felton 26' 3PT Jump Shot,,
+0020701190,255,4,0,3,8:18 PM,11:06,Murphy REBOUND (Off:0 Def:6),,,,
+0020701190,256,2,1,3,8:18 PM,10:54,MISS Granger 25' 3PT Jump Shot,,,,
+0020701190,257,4,0,3,8:18 PM,10:52,,,Bobcats Rebound,,
+0020701190,258,6,2,3,8:19 PM,10:36,Granger S.FOUL (P3.T2),,,,
+0020701190,259,3,11,3,8:19 PM,10:36,,,Richardson Free Throw 1 of 2 (17 PTS),58 - 55,-3
+0020701190,260,3,12,3,8:19 PM,10:36,,,Richardson Free Throw 2 of 2 (18 PTS),59 - 55,-4
+0020701190,261,2,1,3,8:19 PM,10:24,MISS Murphy 25' 3PT Jump Shot,,,,
+0020701190,262,4,0,3,8:19 PM,10:23,,,Richardson REBOUND (Off:0 Def:3),,
+0020701190,263,1,1,3,8:20 PM,10:17,,,Dudley 19' Jump Shot (16 PTS) (Richardson 1 AST),61 - 55,-6
+0020701190,264,2,1,3,8:20 PM,9:50,MISS Murray 25' 3PT Jump Shot,,,,
+0020701190,265,4,0,3,8:20 PM,9:48,,,Okafor REBOUND (Off:1 Def:9),,
+0020701190,266,6,2,3,8:21 PM,9:32,Granger S.FOUL (P4.T3),,,,
+0020701190,267,3,13,3,8:21 PM,9:32,,,MISS Richardson Free Throw 1 of 3,,
+0020701190,268,4,1,3,8:21 PM,9:32,,,Bobcats Rebound,,
+0020701190,269,8,0,3,8:21 PM,9:32,SUB: Rush FOR Granger,,,,
+0020701190,270,3,14,3,8:21 PM,9:32,,,Richardson Free Throw 2 of 3 (19 PTS),62 - 55,-7
+0020701190,271,3,15,3,8:22 PM,9:32,,,Richardson Free Throw 3 of 3 (20 PTS),63 - 55,-8
+0020701190,272,1,42,3,8:22 PM,9:18,Dunleavy 4' Driving Layup (13 PTS),,,63 - 57,-6
+0020701190,273,2,1,3,8:22 PM,9:10,,,MISS Carroll 26' 3PT Jump Shot,,
+0020701190,274,4,0,3,8:22 PM,9:09,Murphy REBOUND (Off:0 Def:7),,,,
+0020701190,275,5,2,3,8:23 PM,8:54,Murray Lost Ball Turnover (P1.T6),,Carroll STEAL (1 STL),,
+0020701190,276,6,3,3,8:23 PM,8:54,Murray L.B.FOUL (P1.T4),,,,
+0020701190,277,2,1,3,8:23 PM,8:30,,,MISS Richardson 6' Jump Shot,,
+0020701190,278,4,0,3,8:24 PM,8:30,,,Okafor REBOUND (Off:2 Def:9),,
+0020701190,279,6,3,3,8:24 PM,8:30,Murray L.B.FOUL (P2.PN),,,,
+0020701190,280,3,11,3,8:24 PM,8:30,,,MISS Okafor Free Throw 1 of 2,,
+0020701190,281,4,1,3,8:24 PM,8:30,,,Bobcats Rebound,,
+0020701190,282,3,12,3,8:24 PM,8:30,,,Okafor Free Throw 2 of 2 (4 PTS),64 - 57,-7
+0020701190,283,2,1,3,8:25 PM,8:20,MISS Dunleavy 25' 3PT Jump Shot,,,,
+0020701190,284,4,0,3,8:25 PM,8:19,,,Felton REBOUND (Off:2 Def:2),,
+0020701190,285,2,5,3,8:25 PM,8:11,,,MISS Felton 2' Layup,,
+0020701190,286,4,0,3,8:25 PM,8:10,Foster REBOUND (Off:2 Def:3),,,,
+0020701190,287,5,2,3,8:25 PM,8:08,Murray Lost Ball Turnover (P2.T7),,Richardson STEAL (2 STL),,
+0020701190,288,2,5,3,8:25 PM,8:02,,,MISS Richardson 3' Layup,,
+0020701190,289,4,0,3,8:25 PM,8:00,Foster REBOUND (Off:2 Def:4),,,,
+0020701190,290,1,1,3,8:25 PM,7:56,Dunleavy 25' 3PT Jump Shot (16 PTS) (Murray 4 AST),,,64 - 60,-4
+0020701190,291,9,1,3,8:25 PM,7:56,,,Bobcats Timeout: Regular (Reg.3 Short 0),,
+0020701190,293,2,1,3,8:28 PM,7:43,,,MISS Dudley 21' Jump Shot,,
+0020701190,294,4,0,3,8:28 PM,7:42,,,Richardson REBOUND (Off:1 Def:3),,
+0020701190,295,6,2,3,8:28 PM,7:40,Rush S.FOUL (P1.PN),,,,
+0020701190,296,3,11,3,8:28 PM,7:40,,,Richardson Free Throw 1 of 2 (21 PTS),65 - 60,-5
+0020701190,297,3,12,3,8:28 PM,7:40,,,Richardson Free Throw 2 of 2 (22 PTS),66 - 60,-6
+0020701190,298,2,79,3,8:29 PM,7:28,MISS Dunleavy 16' Pullup Jump Shot,,,,
+0020701190,299,4,0,3,8:29 PM,7:27,,,Okafor REBOUND (Off:2 Def:10),,
+0020701190,300,2,5,3,8:29 PM,7:08,,,MISS Carroll 4' Layup,,
+0020701190,301,4,0,3,8:29 PM,7:07,,,Okafor REBOUND (Off:3 Def:10),,
+0020701190,302,1,5,3,8:29 PM,7:06,,,Okafor 2' Layup (6 PTS),68 - 60,-8
+0020701190,303,5,1,3,8:29 PM,6:56,Murray Bad Pass Turnover (P3.T8),,Richardson STEAL (3 STL),,
+0020701190,304,2,1,3,8:29 PM,6:47,,,MISS Carroll 18' Jump Shot,,
+0020701190,305,4,0,3,8:30 PM,6:46,,,Dudley REBOUND (Off:2 Def:3),,
+0020701190,306,2,1,3,8:30 PM,6:44,Foster BLOCK (1 BLK),,MISS Dudley 3' Jump Shot,,
+0020701190,307,4,0,3,8:30 PM,6:43,Rush REBOUND (Off:0 Def:2),,,,
+0020701190,308,2,1,3,8:30 PM,6:34,MISS Murray  3PT Jump Shot,,,,
+0020701190,309,4,0,3,8:30 PM,6:32,PACERS Rebound,,,,
+0020701190,310,8,0,3,8:30 PM,6:32,SUB: Diener FOR Murray,,,,
+0020701190,311,8,0,3,8:30 PM,6:32,SUB: Shaw. Williams FOR Murphy,,,,
+0020701190,312,1,1,3,8:30 PM,6:18,Shaw. Williams 20' Jump Shot (2 PTS) (Dunleavy 4 AST),,,68 - 62,-6
+0020701190,313,2,1,3,8:31 PM,5:59,,,MISS Richardson 3' Jump Shot,,
+0020701190,314,4,0,3,8:31 PM,5:58,,,Okafor REBOUND (Off:4 Def:10),,
+0020701190,315,1,7,3,8:31 PM,5:56,,,Okafor 2' Dunk (8 PTS),70 - 62,-8
+0020701190,316,1,1,3,8:31 PM,5:32,Diener  3PT Jump Shot (3 PTS) (Dunleavy 5 AST),,,70 - 65,-5
+0020701190,317,1,5,3,8:31 PM,5:19,,,Okafor 2' Layup (10 PTS) (Felton 10 AST),72 - 65,-7
+0020701190,318,6,2,3,8:31 PM,5:19,Shaw. Williams S.FOUL (P1.PN),,,,
+0020701190,319,3,10,3,8:32 PM,5:19,,,Okafor Free Throw 1 of 1 (11 PTS),73 - 65,-8
+0020701190,320,6,1,3,8:32 PM,5:14,,,Dudley P.FOUL (P3.T2),,
+0020701190,321,8,0,3,8:32 PM,5:14,,,SUB: Mohammed FOR Okafor,,
+0020701190,322,8,0,3,8:32 PM,5:14,,,SUB: Hollins FOR Dudley,,
+0020701190,323,1,1,3,8:33 PM,5:02,Dunleavy 25' 3PT Jump Shot (19 PTS) (Diener 3 AST),,,73 - 68,-5
+0020701190,324,1,66,3,8:33 PM,4:44,,,Mohammed 13' Jump Bank Shot (8 PTS) (Felton 11 AST),75 - 68,-7
+0020701190,325,1,1,3,8:33 PM,4:21,Foster 16' Jump Shot (8 PTS) (Rush 1 AST),,,75 - 70,-5
+0020701190,326,1,5,3,8:34 PM,4:08,,,Hollins 2' Layup (2 PTS) (Felton 12 AST),77 - 70,-7
+0020701190,327,6,1,3,8:34 PM,3:52,,,Mohammed P.FOUL (P3.T3),,
+0020701190,328,8,0,3,8:34 PM,3:52,SUB: Murphy FOR Foster,,,,
+0020701190,329,8,0,3,8:34 PM,3:52,SUB: O'Neal FOR Shaw. Williams,,,,
+0020701190,330,6,2,3,8:35 PM,3:43,,,Mohammed S.FOUL (P4.T4),,
+0020701190,331,3,11,3,8:35 PM,3:43,O'Neal Free Throw 1 of 2 (7 PTS),,,77 - 71,-6
+0020701190,332,8,0,3,8:35 PM,3:43,SUB: Daniels FOR Dunleavy,,,,
+0020701190,333,3,12,3,8:35 PM,3:43,MISS O'Neal Free Throw 2 of 2,,,,
+0020701190,334,4,0,3,8:35 PM,3:43,,,Mohammed REBOUND (Off:5 Def:4),,
+0020701190,335,1,66,3,8:36 PM,3:22,,,Mohammed 11' Jump Bank Shot (10 PTS) (Richardson 2 AST),79 - 71,-8
+0020701190,336,2,1,3,8:36 PM,3:08,MISS O'Neal 6' Jump Shot,,,,
+0020701190,337,4,0,3,8:36 PM,3:07,,,Hollins REBOUND (Off:1 Def:2),,
+0020701190,338,2,86,3,8:36 PM,2:59,,,MISS Richardson 13' Turnaround Fadeaway Shot,,
+0020701190,339,4,0,3,8:36 PM,2:58,,,Mohammed REBOUND (Off:6 Def:4),,
+0020701190,340,5,4,3,8:36 PM,2:55,,,Mohammed Traveling Turnover (P1.T10),,
+0020701190,341,9,1,3,8:36 PM,2:55,PACERS Timeout: Regular (Full 3 Short 1),,,,
+0020701190,343,8,0,3,8:39 PM,2:55,SUB: Granger FOR Rush,,,,
+0020701190,344,8,0,3,8:39 PM,2:55,,,SUB: Dudley FOR Richardson,,
+0020701190,345,2,1,3,8:39 PM,2:38,MISS Diener 25' 3PT Jump Shot,,,,
+0020701190,346,4,0,3,8:39 PM,2:37,Murphy REBOUND (Off:1 Def:7),,,,
+0020701190,347,2,1,3,8:39 PM,2:28,MISS Granger 20' Jump Shot,,,,
+0020701190,348,4,0,3,8:39 PM,2:27,,,Carroll REBOUND (Off:0 Def:2),,
+0020701190,349,1,1,3,8:40 PM,2:09,,,Felton 21' Jump Shot (9 PTS),81 - 71,-10
+0020701190,350,2,1,3,8:40 PM,2:00,MISS O'Neal 17' Jump Shot,,,,
+0020701190,351,4,0,3,8:40 PM,1:58,PACERS Rebound,,,,
+0020701190,352,1,79,3,8:40 PM,1:44,Daniels 15' Pullup Jump Shot (5 PTS),,,81 - 73,-8
+0020701190,353,1,46,3,8:41 PM,1:25,,,Felton 5' Running Jump Shot (11 PTS),83 - 73,-10
+0020701190,354,5,1,3,8:41 PM,1:13,Daniels Bad Pass Turnover (P2.T9),,Felton STEAL (1 STL),,
+0020701190,355,6,1,3,8:41 PM,1:06,Daniels P.FOUL (P1.PN),,,,
+0020701190,356,3,11,3,8:41 PM,1:06,,,Carroll Free Throw 1 of 2 (8 PTS),84 - 73,-11
+0020701190,357,8,0,3,8:42 PM,1:06,,,SUB: Boykins FOR Felton,,
+0020701190,358,3,12,3,8:42 PM,1:06,,,MISS Carroll Free Throw 2 of 2,,
+0020701190,359,4,0,3,8:42 PM,1:06,O'Neal REBOUND (Off:0 Def:3),,,,
+0020701190,360,6,1,3,8:42 PM,0:55,,,Carroll P.FOUL (P2.PN),,
+0020701190,361,3,11,3,8:42 PM,0:55,MISS Daniels Free Throw 1 of 2,,,,
+0020701190,362,4,1,3,8:42 PM,0:55,PACERS Rebound,,,,
+0020701190,363,3,12,3,8:42 PM,0:55,Daniels Free Throw 2 of 2 (6 PTS),,,84 - 74,-10
+0020701190,364,5,1,3,8:43 PM,0:36,,,Dudley Bad Pass Turnover (P1.T11),,
+0020701190,365,2,1,3,8:43 PM,0:26,MISS Diener 25' 3PT Jump Shot,,,,
+0020701190,366,4,0,3,8:43 PM,0:25,,,Carroll REBOUND (Off:0 Def:3),,
+0020701190,367,5,11,3,8:44 PM,0:01,,,Bobcats Turnover: Shot Clock (T#12),,
+0020701190,368,2,1,3,8:44 PM,0:00,MISS O'Neal 41' 3PT Jump Shot,,,,
+0020701190,369,4,0,3,8:44 PM,0:00,PACERS Rebound,,,,
+0020701190,370,13,0,3,8:44 PM,0:00,,,,84 - 74,-10
+0020701190,372,12,0,4,8:47 PM,12:00,,,,84 - 74,-10
+0020701190,373,1,1,4,8:47 PM,11:46,,,Mohammed 12' Jump Shot (12 PTS),86 - 74,-12
+0020701190,374,1,1,4,8:48 PM,11:29,Granger 25' 3PT Jump Shot (23 PTS) (Diener 4 AST),,,86 - 77,-9
+0020701190,375,5,1,4,8:48 PM,11:05,,,Hollins Bad Pass Turnover (P1.T13),,
+0020701190,376,5,2,4,8:48 PM,10:55,O'Neal Lost Ball Turnover (P2.T10),,Mohammed STEAL (1 STL),,
+0020701190,377,2,66,4,8:48 PM,10:50,,,MISS Mohammed 4' Jump Bank Shot,,
+0020701190,378,4,0,4,8:48 PM,10:49,,,Mohammed REBOUND (Off:7 Def:4),,
+0020701190,379,6,2,4,8:48 PM,10:48,Granger S.FOUL (P5.T1),,,,
+0020701190,380,3,11,4,8:49 PM,10:48,,,Mohammed Free Throw 1 of 2 (13 PTS),87 - 77,-10
+0020701190,381,3,12,4,8:49 PM,10:48,,,Mohammed Free Throw 2 of 2 (14 PTS),88 - 77,-11
+0020701190,382,1,1,4,8:50 PM,10:35,Granger  3PT Jump Shot (26 PTS) (Diener 5 AST),,,88 - 80,-8
+0020701190,383,2,1,4,8:50 PM,10:21,,,MISS Dudley 17' Jump Shot,,
+0020701190,384,4,0,4,8:50 PM,10:19,Granger REBOUND (Off:1 Def:3),,,,
+0020701190,385,5,1,4,8:50 PM,10:14,Daniels Bad Pass Turnover (P3.T11),,,,
+0020701190,386,1,80,4,8:50 PM,9:56,,,Felton 18' Step Back Jump Shot (13 PTS),90 - 80,-10
+0020701190,387,2,5,4,8:51 PM,9:38,MISS Daniels 1' Layup,,Mohammed BLOCK (2 BLK),,
+0020701190,388,4,0,4,8:51 PM,9:37,,,Mohammed REBOUND (Off:7 Def:5),,
+0020701190,389,8,0,4,8:51 PM,9:35,,,SUB: Richardson FOR Hollins,,
+0020701190,390,2,1,4,8:51 PM,9:30,,,MISS Richardson 25' 3PT Jump Shot,,
+0020701190,391,4,0,4,8:51 PM,9:29,,,Bobcats Rebound,,
+0020701190,392,6,3,4,8:51 PM,9:29,Dunleavy L.B.FOUL (P3.T2),,,,
+0020701190,393,2,5,4,8:52 PM,9:19,,,MISS Felton 3' Layup,,
+0020701190,395,4,0,4,8:52 PM,9:18,,,Mohammed REBOUND (Off:8 Def:5),,
+0020701190,394,1,4,4,8:52 PM,9:18,,,Mohammed 3' Tip Shot (16 PTS),92 - 80,-12
+0020701190,396,1,1,4,8:52 PM,9:09,Dunleavy 24' 3PT Jump Shot (22 PTS) (Diener 6 AST),,,92 - 83,-9
+0020701190,397,2,1,4,8:52 PM,8:38,,,MISS Felton 22' Jump Shot,,
+0020701190,398,4,0,4,8:52 PM,8:37,Granger REBOUND (Off:1 Def:4),,,,
+0020701190,399,6,2,4,8:53 PM,8:27,,,Dudley S.FOUL (P4.T1),,
+0020701190,400,9,4,4,8:53 PM,8:27,,,,,
+0020701190,402,3,11,4,8:55 PM,8:27,MISS Granger Free Throw 1 of 2,,,,
+0020701190,403,4,1,4,8:55 PM,8:27,PACERS Rebound,,,,
+0020701190,404,3,12,4,8:56 PM,8:27,Granger Free Throw 2 of 2 (27 PTS),,,92 - 84,-8
+0020701190,405,2,5,4,8:56 PM,8:10,O'Neal BLOCK (3 BLK),,MISS Felton 3' Layup,,
+0020701190,406,4,0,4,8:56 PM,8:09,Daniels REBOUND (Off:0 Def:2),,,,
+0020701190,407,2,1,4,8:57 PM,7:44,MISS Dunleavy 21' Jump Shot,,,,
+0020701190,408,4,0,4,8:57 PM,7:43,,,Felton REBOUND (Off:2 Def:3),,
+0020701190,409,2,1,4,8:57 PM,7:22,,,MISS Richardson 22' Jump Shot,,
+0020701190,410,4,0,4,8:57 PM,7:21,Diener REBOUND (Off:0 Def:3),,,,
+0020701190,411,2,1,4,8:57 PM,7:14,MISS Granger 25' 3PT Jump Shot,,,,
+0020701190,412,4,0,4,8:57 PM,7:13,,,Boykins REBOUND (Off:0 Def:3),,
+0020701190,413,1,5,4,8:57 PM,7:08,,,Dudley 3' Layup (18 PTS) (Boykins 1 AST),94 - 84,-10
+0020701190,414,6,2,4,8:57 PM,7:08,Daniels S.FOUL (P2.T3),,,,
+0020701190,415,8,0,4,8:57 PM,7:08,,,SUB: Carroll FOR Boykins,,
+0020701190,416,3,10,4,8:58 PM,7:08,,,Dudley Free Throw 1 of 1 (19 PTS),95 - 84,-11
+0020701190,417,6,1,4,8:58 PM,7:01,,,Carroll P.FOUL (P3.T2),,
+0020701190,418,1,1,4,8:58 PM,6:49,Diener 25' 3PT Jump Shot (6 PTS) (Granger 2 AST),,,95 - 87,-8
+0020701190,419,2,1,4,8:59 PM,6:25,,,MISS Dudley 19' Jump Shot,,
+0020701190,420,4,0,4,8:59 PM,6:23,O'Neal REBOUND (Off:0 Def:4),,,,
+0020701190,421,6,3,4,8:59 PM,6:23,,,Mohammed L.B.FOUL (P5.T3),,
+0020701190,422,8,0,4,8:59 PM,6:23,,,SUB: Okafor FOR Mohammed,,
+0020701190,423,2,1,4,8:59 PM,6:09,MISS Dunleavy 24' 3PT Jump Shot,,,,
+0020701190,424,4,0,4,8:59 PM,6:07,,,Dudley REBOUND (Off:2 Def:4),,
+0020701190,425,5,2,4,9:00 PM,6:00,Granger STEAL (2 STL),,Okafor Lost Ball Turnover (P2.T14),,
+0020701190,426,2,1,4,9:00 PM,5:53,MISS Dunleavy 14' Jump Shot,,,,
+0020701190,427,4,0,4,9:00 PM,5:52,,,Dudley REBOUND (Off:2 Def:5),,
+0020701190,428,2,66,4,9:00 PM,5:42,,,MISS Okafor 7' Jump Bank Shot,,
+0020701190,429,4,0,4,9:00 PM,5:41,O'Neal REBOUND (Off:0 Def:5),,,,
+0020701190,430,6,1,4,9:00 PM,5:38,,,Richardson P.FOUL (P2.T4),,
+0020701190,431,9,1,4,9:00 PM,5:38,PACERS Timeout: Regular (Full 4 Short 1),,,,
+0020701190,433,8,0,4,9:02 PM,5:38,SUB: Foster FOR O'Neal,,,,
+0020701190,434,2,1,4,9:03 PM,5:28,MISS Granger 25' 3PT Jump Shot,,,,
+0020701190,435,4,0,4,9:03 PM,5:27,Dunleavy REBOUND (Off:1 Def:0),,,,
+0020701190,436,1,1,4,9:03 PM,5:24,Granger 24' 3PT Jump Shot (30 PTS) (Dunleavy 6 AST),,,95 - 90,-5
+0020701190,437,1,75,4,9:03 PM,5:04,,,Richardson 4' Driving Finger Roll Layup (24 PTS),97 - 90,-7
+0020701190,438,1,42,4,9:04 PM,4:46,Granger 3' Driving Layup (32 PTS),,,97 - 92,-5
+0020701190,439,6,1,4,9:04 PM,4:32,Diener P.FOUL (P1.T4),,,,
+0020701190,440,1,75,4,9:04 PM,4:23,,,Felton 2' Driving Finger Roll Layup (15 PTS),99 - 92,-7
+0020701190,441,2,1,4,9:05 PM,4:02,MISS Dunleavy 24' 3PT Jump Shot,,,,
+0020701190,442,4,0,4,9:05 PM,4:01,Dunleavy REBOUND (Off:2 Def:0),,,,
+0020701190,443,1,8,4,9:05 PM,3:56,Granger 3' Slam Dunk (34 PTS),,,99 - 94,-5
+0020701190,444,6,2,4,9:05 PM,3:38,Diener S.FOUL (P2.PN),,,,
+0020701190,445,3,11,4,9:05 PM,3:38,,,Felton Free Throw 1 of 2 (16 PTS),100 - 94,-6
+0020701190,446,3,12,4,9:06 PM,3:38,,,MISS Felton Free Throw 2 of 2,,
+0020701190,447,4,0,4,9:06 PM,3:38,Foster REBOUND (Off:2 Def:5),,,,
+0020701190,448,6,2,4,9:06 PM,3:30,,,Felton S.FOUL (P2.PN),,
+0020701190,449,3,11,4,9:06 PM,3:30,Diener Free Throw 1 of 2 (7 PTS),,,100 - 95,-5
+0020701190,450,3,12,4,9:06 PM,3:30,MISS Diener Free Throw 2 of 2,,,,
+0020701190,451,4,0,4,9:06 PM,3:30,,,Carroll REBOUND (Off:0 Def:4),,
+0020701190,452,2,42,4,9:07 PM,3:18,,,MISS Richardson 3' Driving Layup,,
+0020701190,453,4,0,4,9:07 PM,3:17,,,Okafor REBOUND (Off:5 Def:10),,
+0020701190,454,6,3,4,9:07 PM,3:16,Foster L.B.FOUL (P3.PN),,,,
+0020701190,455,3,11,4,9:07 PM,3:16,,,MISS Okafor Free Throw 1 of 2,,
+0020701190,456,4,1,4,9:07 PM,3:16,,,Bobcats Rebound,,
+0020701190,457,3,12,4,9:07 PM,3:16,,,Okafor Free Throw 2 of 2 (12 PTS),101 - 95,-6
+0020701190,458,2,5,4,9:08 PM,3:04,MISS Foster 3' Layup,,Okafor BLOCK (1 BLK),,
+0020701190,459,4,0,4,9:08 PM,3:03,,,Dudley REBOUND (Off:2 Def:6),,
+0020701190,460,9,1,4,9:08 PM,2:59,,,Bobcats Timeout: Regular (Reg.4 Short 0),,
+0020701190,463,5,2,4,9:10 PM,2:41,Diener STEAL (2 STL),,Okafor Lost Ball Turnover (P3.T15),,
+0020701190,465,7,2,4,9:11 PM,2:26,,,Okafor Violation:Defensive Goaltending,,
+0020701190,464,1,1,4,9:11 PM,2:26,Foster 7' Jump Shot (10 PTS) (Daniels 3 AST),,,101 - 97,-4
+0020701190,466,2,73,4,9:11 PM,2:03,,,MISS Carroll 2' Driving Reverse Layup,,
+0020701190,467,4,0,4,9:11 PM,2:02,,,Okafor REBOUND (Off:6 Def:10),,
+0020701190,468,6,1,4,9:12 PM,2:02,Diener P.FOUL (P3.PN),,,,
+0020701190,469,3,11,4,9:12 PM,2:02,,,MISS Okafor Free Throw 1 of 2,,
+0020701190,470,4,1,4,9:12 PM,2:02,,,Bobcats Rebound,,
+0020701190,471,8,0,4,9:12 PM,2:02,,,SUB: Boykins FOR Carroll,,
+0020701190,472,3,12,4,9:12 PM,2:02,,,MISS Okafor Free Throw 2 of 2,,
+0020701190,473,4,0,4,9:12 PM,2:02,Foster REBOUND (Off:2 Def:6),,,,
+0020701190,474,2,1,4,9:12 PM,1:53,MISS Dunleavy 8' Jump Shot,,,,
+0020701190,475,4,0,4,9:12 PM,1:52,Daniels REBOUND (Off:1 Def:2),,,,
+0020701190,476,6,2,4,9:13 PM,1:51,,,Okafor S.FOUL (P4.PN),,
+0020701190,477,3,11,4,9:13 PM,1:51,MISS Daniels Free Throw 1 of 2,,,,
+0020701190,478,4,1,4,9:13 PM,1:51,PACERS Rebound,,,,
+0020701190,479,3,12,4,9:13 PM,1:51,MISS Daniels Free Throw 2 of 2,,,,
+0020701190,480,4,0,4,9:13 PM,1:51,Foster REBOUND (Off:3 Def:6),,,,
+0020701190,481,2,1,4,9:13 PM,1:36,MISS Granger 26' 3PT Jump Shot,,,,
+0020701190,482,4,0,4,9:13 PM,1:35,,,Okafor REBOUND (Off:6 Def:11),,
+0020701190,483,6,4,4,9:14 PM,1:17,,,Felton OFF.Foul (P3),,
+0020701190,484,5,5,4,9:14 PM,1:17,,,Felton Foul Turnover (P3.T16),,
+0020701190,485,9,2,4,9:14 PM,1:17,PACERS Timeout: Short (Full 4 Short 2),,,,
+0020701190,487,2,1,4,9:15 PM,1:07,MISS Dunleavy 27' 3PT Jump Shot,,,,
+0020701190,488,4,0,4,9:16 PM,1:06,Diener REBOUND (Off:1 Def:3),,,,
+0020701190,489,1,1,4,9:16 PM,1:03,Diener 26' 3PT Jump Shot (10 PTS),,,101 - 100,-1
+0020701190,490,9,1,4,9:16 PM,1:03,,,Bobcats Timeout: Regular (Reg.5 Short 0),,
+0020701190,492,8,0,4,9:17 PM,1:03,,,SUB: Carroll FOR Boykins,,
+0020701190,493,6,2,4,9:18 PM,0:44,Diener S.FOUL (P4.PN),,,,
+0020701190,494,3,11,4,9:18 PM,0:44,,,Okafor Free Throw 1 of 2 (13 PTS),102 - 100,-2
+0020701190,495,3,12,4,9:19 PM,0:44,,,Okafor Free Throw 2 of 2 (14 PTS),103 - 100,-3
+0020701190,496,2,47,4,9:19 PM,0:30,MISS Daniels 12' Turnaround Jump Shot,,,,
+0020701190,497,4,0,4,9:19 PM,0:29,,,Richardson REBOUND (Off:1 Def:4),,
+0020701190,498,6,1,4,9:19 PM,0:24,Dunleavy P.FOUL (P4.PN),,,,
+0020701190,499,3,11,4,9:20 PM,0:24,,,Felton Free Throw 1 of 2 (17 PTS),104 - 100,-4
+0020701190,500,3,12,4,9:20 PM,0:24,,,Felton Free Throw 2 of 2 (18 PTS),105 - 100,-5
+0020701190,501,9,1,4,9:20 PM,0:24,PACERS Timeout: Regular (Full 5 Short 2),,,,
+0020701190,503,8,0,4,9:22 PM,0:24,SUB: Murphy FOR Foster,,,,
+0020701190,504,1,1,4,9:22 PM,0:17,Granger 25' 3PT Jump Shot (37 PTS) (Dunleavy 7 AST),,,105 - 103,-2
+0020701190,505,6,1,4,9:22 PM,0:15,Diener P.FOUL (P5.PN),,,,
+0020701190,506,3,11,4,9:23 PM,0:15,,,Richardson Free Throw 1 of 2 (25 PTS),106 - 103,-3
+0020701190,507,3,12,4,9:23 PM,0:15,,,Richardson Free Throw 2 of 2 (26 PTS),107 - 103,-4
+0020701190,508,9,2,4,9:23 PM,0:15,PACERS Timeout: Short (Full 5 Short 3),,,,
+0020701190,510,2,1,4,9:25 PM,0:08,MISS Daniels  3PT Jump Shot,,,,
+0020701190,511,4,0,4,9:25 PM,0:07,Diener REBOUND (Off:2 Def:3),,,,
+0020701190,512,2,80,4,9:25 PM,0:04,MISS Diener 26' 3PT Step Back Jump Shot,,,,
+0020701190,513,4,0,4,9:25 PM,0:03,,,Okafor REBOUND (Off:6 Def:12),,
+0020701190,514,6,1,4,9:25 PM,0:03,Daniels P.FOUL (P3.PN),,,,
+0020701190,515,3,11,4,9:25 PM,0:03,,,MISS Okafor Free Throw 1 of 2,,
+0020701190,516,4,1,4,9:25 PM,0:03,,,Bobcats Rebound,,
+0020701190,517,3,12,4,9:26 PM,0:03,,,MISS Okafor Free Throw 2 of 2,,
+0020701190,518,4,0,4,9:26 PM,0:03,Dunleavy REBOUND (Off:2 Def:1),,,,
+0020701190,519,2,1,4,9:26 PM,0:00,MISS Dunleavy 31' 3PT Jump Shot,,,,
+0020701190,520,4,0,4,9:26 PM,0:00,PACERS Rebound,,,,
+0020701190,521,13,0,4,9:26 PM,0:00,,,,107 - 103,-4

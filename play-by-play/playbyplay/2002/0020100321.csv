@@ -1,0 +1,502 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100321,0,12,0,1,7:42 PM,12:00,,,,,
+0020100321,1,10,0,1,7:42 PM,12:00,Jump Ball Campbell vs. Battie: Tip to Nailon,,,,
+0020100321,2,5,1,1,7:43 PM,11:49,Davis Bad Pass Turnover (P1.T1),,Anderson STEAL (1 STL),,
+0020100321,3,2,1,1,7:43 PM,11:43,,,MISS Anderson 7' Jump Shot,,
+0020100321,4,4,0,1,7:43 PM,11:39,Campbell REBOUND (Off:0 Def:1),,,,
+0020100321,5,2,1,1,7:43 PM,11:33,MISS Wesley 19' Jump Shot,,,,
+0020100321,6,4,0,1,7:43 PM,11:31,,,Pierce REBOUND (Off:0 Def:1),,
+0020100321,7,2,1,1,7:43 PM,11:22,,,MISS Battie 16' Jump Shot,,
+0020100321,8,4,0,1,7:43 PM,11:20,Davis REBOUND (Off:0 Def:1),,,,
+0020100321,9,2,1,1,7:43 PM,11:11,MISS Davis 13' Jump Shot,,,,
+0020100321,10,4,0,1,7:44 PM,11:09,,,Pierce REBOUND (Off:0 Def:2),,
+0020100321,11,6,2,1,7:44 PM,11:03,Davis S.FOUL (P1.T1),,,,
+0020100321,12,3,11,1,7:44 PM,11:03,,,Pierce Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0020100321,13,3,12,1,7:44 PM,11:03,,,Pierce Free Throw 2 of 2 (2 PTS),2 - 0,-2
+0020100321,14,5,1,1,7:45 PM,10:44,Campbell Bad Pass Turnover (P1.T2),,Johnson STEAL (1 STL),,
+0020100321,15,5,1,1,7:45 PM,10:41,,,Johnson Bad Pass Turnover (P1.T1),,
+0020100321,16,1,1,1,7:45 PM,10:27,Wesley 18' Jump Shot (2 PTS) (Davis 1 AST),,,2 - 2,TIE
+0020100321,17,1,1,1,7:45 PM,10:11,,,Pierce 27' 3PT Jump Shot (5 PTS) (Walker 1 AST),5 - 2,-3
+0020100321,18,1,5,1,7:45 PM,10:00,Nailon  Layup (2 PTS),,,5 - 4,-1
+0020100321,19,2,1,1,7:46 PM,9:39,,,MISS Johnson 7' Jump Shot,,
+0020100321,20,4,0,1,7:46 PM,9:37,,,Johnson REBOUND (Off:1 Def:0),,
+0020100321,21,2,1,1,7:46 PM,9:29,,,MISS Walker 7' Jump Shot,,
+0020100321,23,4,0,1,7:46 PM,9:26,,,Battie REBOUND (Off:1 Def:0),,
+0020100321,22,1,44,1,7:46 PM,9:26,,,Battie  Reverse Layup (2 PTS),7 - 4,-3
+0020100321,24,6,2,1,7:46 PM,9:14,,,Battie S.FOUL (P1.T1),,
+0020100321,25,3,11,1,7:47 PM,9:14,Campbell Free Throw 1 of 2 (1 PTS),,,7 - 5,-2
+0020100321,26,3,12,1,7:47 PM,9:14,Campbell Free Throw 2 of 2 (2 PTS),,,7 - 6,-1
+0020100321,27,2,1,1,7:47 PM,9:03,,,MISS Walker 25' 3PT Jump Shot,,
+0020100321,28,4,0,1,7:47 PM,9:00,Campbell REBOUND (Off:0 Def:2),,,,
+0020100321,29,2,1,1,7:47 PM,8:49,MISS Campbell 13' Jump Shot,,,,
+0020100321,30,4,0,1,7:47 PM,8:48,HORNETS Rebound,,,,
+0020100321,31,2,1,1,7:48 PM,8:40,MISS Wesley 26' 3PT Jump Shot,,,,
+0020100321,33,4,0,1,7:48 PM,8:37,Brown REBOUND (Off:1 Def:0),,,,
+0020100321,32,1,4,1,7:48 PM,8:37,Brown  Tip Shot (2 PTS),,,7 - 8,1
+0020100321,34,2,1,1,7:48 PM,8:26,,,MISS Pierce 18' Jump Shot,,
+0020100321,35,4,0,1,7:48 PM,8:24,Brown REBOUND (Off:1 Def:1),,,,
+0020100321,36,1,1,1,7:48 PM,8:15,Brown 18' Jump Shot (4 PTS) (Davis 2 AST),,,7 - 10,3
+0020100321,37,2,1,1,7:49 PM,7:56,Campbell BLOCK (1 BLK),,MISS Battie 8' Jump Shot,,
+0020100321,38,4,0,1,7:49 PM,7:54,,,Celtics Rebound,,
+0020100321,39,1,1,1,7:49 PM,7:51,,,Anderson 9' Jump Shot (2 PTS),9 - 10,1
+0020100321,40,2,1,1,7:49 PM,7:35,MISS Davis 25' 3PT Jump Shot,,,,
+0020100321,41,4,0,1,7:49 PM,7:33,,,Walker REBOUND (Off:0 Def:1),,
+0020100321,42,1,44,1,7:49 PM,7:28,,,Johnson  Reverse Layup (2 PTS) (Pierce 1 AST),11 - 10,-1
+0020100321,43,2,1,1,7:50 PM,7:12,MISS Campbell 8' Jump Shot,,,,
+0020100321,44,4,0,1,7:50 PM,7:10,,,Walker REBOUND (Off:0 Def:2),,
+0020100321,45,6,17,1,7:50 PM,6:59,HORNETS T.Foul (Def. 3 Sec Campbell ),,,,
+0020100321,46,3,16,1,7:50 PM,6:59,,,Anderson Free Throw Technical (3 PTS),12 - 10,-2
+0020100321,47,1,1,1,7:51 PM,6:46,,,Johnson 20' Jump Shot (4 PTS) (Anderson 1 AST),14 - 10,-4
+0020100321,48,1,1,1,7:51 PM,6:37,Campbell 9' Jump Shot (4 PTS),,,14 - 12,-2
+0020100321,49,1,1,1,7:51 PM,6:19,,,Pierce 18' Jump Shot (7 PTS),16 - 12,-4
+0020100321,50,2,1,1,7:51 PM,6:11,MISS Nailon 9' Jump Shot,,,,
+0020100321,51,4,0,1,7:52 PM,6:07,,,Johnson REBOUND (Off:1 Def:1),,
+0020100321,52,2,5,1,7:52 PM,6:03,Brown BLOCK (1 BLK),,MISS Battie  Layup,,
+0020100321,53,4,0,1,7:52 PM,5:59,Brown REBOUND (Off:1 Def:2),,,,
+0020100321,54,6,4,1,7:52 PM,5:59,Davis OFF.Foul (P2),,,,
+0020100321,55,5,5,1,7:52 PM,5:59,Davis Foul Turnover (P2.T3),,,,
+0020100321,56,9,1,1,7:52 PM,5:59,HORNETS Timeout: Regular (Full 1 Short 0),,,,
+0020100321,58,8,0,1,7:54 PM,5:59,SUB: Augmon FOR Davis,,,,
+0020100321,59,1,49,1,7:54 PM,5:47,,,Pierce  Driving Dunk (9 PTS),18 - 12,-6
+0020100321,60,2,5,1,7:54 PM,5:25,MISS Nailon  Layup,,,,
+0020100321,61,4,0,1,7:55 PM,5:19,,,Anderson REBOUND (Off:0 Def:1),,
+0020100321,63,6,2,1,7:55 PM,5:15,Wesley S.FOUL (P1.T2),,,,
+0020100321,65,3,11,1,7:55 PM,5:15,,,Pierce Free Throw 1 of 2 (10 PTS),19 - 12,-7
+0020100321,66,8,0,1,7:55 PM,5:15,SUB: Magloire FOR Campbell,,,,
+0020100321,67,8,0,1,7:55 PM,5:15,,,SUB: Williams FOR Johnson,,
+0020100321,68,3,12,1,7:56 PM,5:15,,,Pierce Free Throw 2 of 2 (11 PTS),20 - 12,-8
+0020100321,70,2,1,1,7:56 PM,5:02,MISS Brown 12' Jump Shot,,,,
+0020100321,71,4,0,1,7:56 PM,5:00,Nailon REBOUND (Off:1 Def:0),,,,
+0020100321,72,2,5,1,7:56 PM,4:58,MISS Nailon  Layup,,,,
+0020100321,73,4,0,1,7:56 PM,4:55,,,Walker REBOUND (Off:0 Def:3),,
+0020100321,74,1,1,1,7:56 PM,4:52,,,Anderson 20' Jump Shot (5 PTS),22 - 12,-10
+0020100321,75,9,2,1,7:56 PM,4:45,HORNETS Timeout: Short (Full 1 Short 1),,,,
+0020100321,77,1,1,1,7:58 PM,4:33,Wesley 19' Jump Shot (4 PTS),,,22 - 14,-8
+0020100321,78,1,1,1,7:58 PM,4:17,,,Anderson 21' Jump Shot (7 PTS) (Walker 2 AST),24 - 14,-10
+0020100321,79,1,1,1,7:58 PM,4:00,Nailon 17' Jump Shot (4 PTS) (Brown 1 AST),,,24 - 16,-8
+0020100321,80,1,1,1,7:59 PM,3:39,,,Walker 21' Jump Shot (2 PTS) (Pierce 2 AST),26 - 16,-10
+0020100321,81,6,2,1,7:59 PM,3:24,,,Battie S.FOUL (P2.T2),,
+0020100321,82,8,0,1,7:59 PM,3:24,,,SUB: Palacio FOR Anderson,,
+0020100321,83,8,0,1,7:59 PM,3:24,,,SUB: Potapenko FOR Battie,,
+0020100321,84,3,11,1,7:59 PM,3:24,Brown Free Throw 1 of 2 (5 PTS),,,26 - 17,-9
+0020100321,85,8,0,1,8:00 PM,3:24,,,SUB: Johnson FOR Pierce,,
+0020100321,87,8,0,1,8:00 PM,3:24,SUB: Bullard FOR Nailon,,,,
+0020100321,88,3,12,1,8:00 PM,3:24,MISS Brown Free Throw 2 of 2,,,,
+0020100321,89,4,0,1,8:00 PM,3:24,,,Potapenko REBOUND (Off:0 Def:1),,
+0020100321,90,6,2,1,8:00 PM,3:13,Bullard S.FOUL (P1.T3),,,,
+0020100321,91,3,11,1,8:01 PM,3:13,,,Williams Free Throw 1 of 2 (1 PTS),27 - 17,-10
+0020100321,92,3,12,1,8:01 PM,3:13,,,Williams Free Throw 2 of 2 (2 PTS),28 - 17,-11
+0020100321,93,2,5,1,8:01 PM,2:58,MISS Magloire  Layup,,,,
+0020100321,95,4,0,1,8:01 PM,2:58,Magloire REBOUND (Off:1 Def:0),,,,
+0020100321,94,6,2,1,8:01 PM,2:58,,,Williams S.FOUL (P1.T3),,
+0020100321,96,9,1,1,8:02 PM,2:58,,,Celtics Timeout: Regular (Reg.1 Short 0),,
+0020100321,98,8,0,1,8:03 PM,2:58,,,SUB: Pierce FOR Walker,,
+0020100321,99,3,11,1,8:04 PM,2:58,Magloire Free Throw 1 of 2 (1 PTS),,,28 - 18,-10
+0020100321,100,3,12,1,8:04 PM,2:58,Magloire Free Throw 2 of 2 (2 PTS),,,28 - 19,-9
+0020100321,101,2,1,1,8:04 PM,2:46,,,MISS Johnson 25' 3PT Jump Shot,,
+0020100321,102,4,0,1,8:04 PM,2:42,Wesley REBOUND (Off:0 Def:1),,,,
+0020100321,103,2,1,1,8:04 PM,2:38,MISS Bullard 27' 3PT Jump Shot,,,,
+0020100321,104,4,0,1,8:04 PM,2:36,,,Pierce REBOUND (Off:0 Def:3),,
+0020100321,105,1,1,1,8:05 PM,2:17,,,Williams  3PT Jump Shot (5 PTS) (Palacio 1 AST),31 - 19,-12
+0020100321,106,6,1,1,8:05 PM,2:00,,,Potapenko P.FOUL (P1.T4),,
+0020100321,107,2,1,1,8:06 PM,1:55,MISS Wesley 19' Jump Shot,,,,
+0020100321,108,4,0,1,8:06 PM,1:55,,,Celtics Rebound,,
+0020100321,109,6,3,1,8:06 PM,1:55,Brown L.B.FOUL (P1.T4),,,,
+0020100321,110,8,0,1,8:06 PM,1:55,SUB: Traylor FOR Brown,,,,
+0020100321,111,5,1,1,8:06 PM,1:43,,,Pierce Bad Pass Turnover (P1.T2),,
+0020100321,112,1,5,1,8:07 PM,1:31,Bullard  Layup (2 PTS) (Traylor 1 AST),,,31 - 21,-10
+0020100321,113,1,1,1,8:07 PM,1:12,,,Potapenko 7' Jump Shot (2 PTS) (Williams 1 AST),33 - 21,-12
+0020100321,114,2,1,1,8:07 PM,0:57,MISS Wesley 20' Jump Shot,,,,
+0020100321,115,4,0,1,8:07 PM,0:54,,,Pierce REBOUND (Off:0 Def:4),,
+0020100321,116,2,1,1,8:07 PM,0:50,,,MISS Pierce 25' 3PT Jump Shot,,
+0020100321,117,4,0,1,8:07 PM,0:47,Wesley REBOUND (Off:0 Def:2),,,,
+0020100321,118,1,5,1,8:07 PM,0:45,Wesley  Layup (6 PTS),,,33 - 23,-10
+0020100321,119,6,2,1,8:07 PM,0:45,,,Palacio S.FOUL (P1.PN),,
+0020100321,120,8,0,1,8:08 PM,0:45,,,SUB: Anderson FOR Palacio,,
+0020100321,121,8,0,1,8:08 PM,0:45,,,SUB: Walker FOR Williams,,
+0020100321,122,8,0,1,8:08 PM,0:45,,,SUB: Blount FOR Potapenko,,
+0020100321,123,3,10,1,8:08 PM,0:45,Wesley Free Throw 1 of 1 (7 PTS),,,33 - 24,-9
+0020100321,124,2,1,1,8:08 PM,0:28,,,MISS Walker 27' 3PT Jump Shot,,
+0020100321,125,4,0,1,8:08 PM,0:26,,,Blount REBOUND (Off:1 Def:0),,
+0020100321,126,6,4,1,8:08 PM,0:26,,,Blount OFF.Foul (P1),,
+0020100321,127,5,5,1,8:08 PM,0:26,,,Blount Foul Turnover (P1.T3),,
+0020100321,128,1,1,1,8:09 PM,0:05,Augmon 18' Jump Shot (2 PTS) (Wesley 1 AST),,,33 - 26,-7
+0020100321,129,2,1,1,8:09 PM,0:00,,,MISS Pierce 31' 3PT Jump Shot,,
+0020100321,131,4,0,1,8:09 PM,0:00,,,Celtics Rebound,,
+0020100321,130,13,0,1,8:09 PM,0:00,,,,33 - 26,-7
+0020100321,133,12,0,2,8:12 PM,12:00,,,,33 - 26,-7
+0020100321,134,1,1,2,8:12 PM,11:44,,,Anderson 19' Jump Shot (9 PTS) (Walker 3 AST),35 - 26,-9
+0020100321,135,5,1,2,8:12 PM,11:22,Bullard Bad Pass Turnover (P1.T4),,Pierce STEAL (1 STL),,
+0020100321,136,2,1,2,8:13 PM,11:17,,,MISS Walker 25' 3PT Jump Shot,,
+0020100321,137,4,0,2,8:13 PM,11:13,Traylor REBOUND (Off:0 Def:1),,,,
+0020100321,138,6,1,2,8:13 PM,11:10,,,Anderson P.FOUL (P1.T1),,
+0020100321,139,6,1,2,8:13 PM,11:02,,,Anderson P.FOUL (P2.T2),,
+0020100321,140,8,0,2,8:14 PM,11:02,,,SUB: Williams FOR Johnson,,
+0020100321,141,1,1,2,8:14 PM,10:54,Augmon 18' Jump Shot (4 PTS) (Davis 3 AST),,,35 - 28,-7
+0020100321,142,5,2,2,8:14 PM,10:35,Campbell STEAL (1 STL),,Williams Lost Ball Turnover (P1.T4),,
+0020100321,143,1,7,2,8:14 PM,10:29,Augmon  Dunk (6 PTS) (Davis 4 AST),,,35 - 30,-5
+0020100321,144,2,5,2,8:15 PM,10:12,Traylor BLOCK (1 BLK),,MISS Walker  Layup,,
+0020100321,145,4,0,2,8:15 PM,10:12,,,Celtics Rebound,,
+0020100321,146,1,1,2,8:15 PM,10:07,,,Walker 27' 3PT Jump Shot (5 PTS) (Anderson 2 AST),38 - 30,-8
+0020100321,147,2,5,2,8:15 PM,9:48,MISS Davis  Layup,,,,
+0020100321,149,4,0,2,8:15 PM,9:42,Traylor REBOUND (Off:1 Def:1),,,,
+0020100321,148,1,7,2,8:15 PM,9:42,Traylor  Dunk (2 PTS),,,38 - 32,-6
+0020100321,150,2,1,2,8:16 PM,9:23,,,MISS Blount 13' Jump Shot,,
+0020100321,151,4,0,2,8:16 PM,9:20,Davis REBOUND (Off:0 Def:2),,,,
+0020100321,152,2,1,2,8:16 PM,9:06,MISS Campbell 11' Jump Shot,,,,
+0020100321,153,4,0,2,8:16 PM,9:02,,,Blount REBOUND (Off:1 Def:1),,
+0020100321,154,2,1,2,8:16 PM,8:49,,,MISS Walker 26' 3PT Jump Shot,,
+0020100321,155,4,0,2,8:16 PM,8:47,Traylor REBOUND (Off:1 Def:2),,,,
+0020100321,156,2,1,2,8:16 PM,8:42,MISS Davis 25' 3PT Jump Shot,,,,
+0020100321,157,4,0,2,8:16 PM,8:39,Campbell REBOUND (Off:1 Def:2),,,,
+0020100321,159,7,5,2,8:17 PM,8:38,,,Williams Violation:Kicked Ball,,
+0020100321,160,9,4,2,8:18 PM,8:38,,,,,
+0020100321,162,8,0,2,8:19 PM,8:38,,,SUB: Strickland FOR Anderson,,
+0020100321,163,8,0,2,8:19 PM,8:38,,,SUB: Potapenko FOR Blount,,
+0020100321,164,8,0,2,8:19 PM,8:38,SUB: Nailon FOR Bullard,,,,
+0020100321,165,2,1,2,8:19 PM,8:18,MISS Davis 15' Jump Shot,,,,
+0020100321,166,4,0,2,8:19 PM,8:16,,,Walker REBOUND (Off:0 Def:4),,
+0020100321,167,6,1,2,8:20 PM,8:11,Traylor P.FOUL (P1.T1),,,,
+0020100321,168,2,5,2,8:20 PM,7:58,Nailon BLOCK (1 BLK),,MISS Pierce  Layup,,
+0020100321,169,4,0,2,8:20 PM,7:58,,,Potapenko REBOUND (Off:1 Def:1),,
+0020100321,170,6,1,2,8:21 PM,7:58,Augmon P.FOUL (P1.T2),,,,
+0020100321,171,2,1,2,8:21 PM,7:46,,,MISS Walker 30' 3PT Jump Shot,,
+0020100321,172,4,0,2,8:21 PM,7:44,,,Strickland REBOUND (Off:1 Def:0),,
+0020100321,173,2,1,2,8:21 PM,7:27,,,MISS Potapenko 16' Jump Shot,,
+0020100321,174,4,0,2,8:21 PM,7:25,Traylor REBOUND (Off:1 Def:3),,,,
+0020100321,175,2,1,2,8:21 PM,7:13,MISS Campbell 8' Jump Shot,,,,
+0020100321,176,4,0,2,8:21 PM,7:12,,,Williams REBOUND (Off:0 Def:1),,
+0020100321,177,5,3,2,8:22 PM,7:12,,,Williams Out Of Bounds Turnover (P2.T5),,
+0020100321,178,8,0,2,8:22 PM,7:12,,,SUB: Johnson FOR Walker,,
+0020100321,179,8,0,2,8:22 PM,7:12,SUB: Brown FOR Traylor,,,,
+0020100321,181,2,1,2,8:22 PM,6:58,MISS Nailon 19' Jump Shot,,,,
+0020100321,182,4,0,2,8:22 PM,6:58,,,Celtics Rebound,,
+0020100321,183,6,3,2,8:22 PM,6:58,Campbell L.B.FOUL (P1.T3),,,,
+0020100321,184,1,1,2,8:23 PM,6:46,,,Pierce 27' 3PT Jump Shot (14 PTS) (Johnson 1 AST),41 - 32,-9
+0020100321,185,1,1,2,8:23 PM,6:29,Nailon 8' Jump Shot (6 PTS) (Davis 5 AST),,,41 - 34,-7
+0020100321,186,5,2,2,8:23 PM,6:06,Davis STEAL (1 STL),,Strickland Lost Ball Turnover (P1.T6),,
+0020100321,187,1,5,2,8:24 PM,6:01,Davis  Layup (2 PTS) (Augmon 1 AST),,,41 - 36,-5
+0020100321,188,9,1,2,8:24 PM,5:53,,,Celtics Timeout: Regular (Reg.2 Short 0),,
+0020100321,190,8,0,2,8:26 PM,5:53,SUB: Wesley FOR Augmon,,,,
+0020100321,191,8,0,2,8:26 PM,5:53,,,SUB: Anderson FOR Pierce,,
+0020100321,192,8,0,2,8:26 PM,5:53,,,SUB: Walker FOR Williams,,
+0020100321,193,2,5,2,8:26 PM,5:46,Campbell BLOCK (2 BLK),,MISS Strickland  Layup,,
+0020100321,194,4,0,2,8:26 PM,5:43,Brown REBOUND (Off:1 Def:3),,,,
+0020100321,195,1,5,2,8:26 PM,5:38,Davis  Layup (4 PTS),,,41 - 38,-3
+0020100321,196,2,1,2,8:27 PM,5:14,,,MISS Potapenko 14' Jump Shot,,
+0020100321,197,4,0,2,8:27 PM,5:11,Nailon REBOUND (Off:1 Def:1),,,,
+0020100321,198,2,1,2,8:27 PM,5:05,MISS Wesley 14' Jump Shot,,,,
+0020100321,199,4,0,2,8:27 PM,5:03,,,Walker REBOUND (Off:0 Def:5),,
+0020100321,200,2,5,2,8:27 PM,4:56,Campbell BLOCK (3 BLK),,MISS Potapenko  Layup,,
+0020100321,201,4,0,2,8:27 PM,4:52,Campbell REBOUND (Off:1 Def:3),,,,
+0020100321,202,1,5,2,8:27 PM,4:47,Davis  Layup (6 PTS),,,41 - 40,-1
+0020100321,203,6,2,2,8:27 PM,4:47,,,Strickland S.FOUL (P1.T3),,
+0020100321,204,8,0,2,8:28 PM,4:47,,,SUB: Pierce FOR Johnson,,
+0020100321,205,8,0,2,8:28 PM,4:47,,,SUB: Battie FOR Potapenko,,
+0020100321,206,3,10,2,8:28 PM,4:47,MISS Davis Free Throw 1 of 1,,,,
+0020100321,207,4,0,2,8:28 PM,4:46,,,Celtics Rebound,,
+0020100321,208,5,1,2,8:28 PM,4:31,Nailon STEAL (1 STL),,Strickland Bad Pass Turnover (P2.T7),,
+0020100321,209,6,4,2,8:28 PM,4:27,Davis OFF.Foul (P3),,,,
+0020100321,210,5,5,2,8:28 PM,4:27,Davis Foul Turnover (P3.T5),,,,
+0020100321,211,8,0,2,8:29 PM,4:27,,,SUB: Johnson FOR Strickland,,
+0020100321,212,8,0,2,8:29 PM,4:27,SUB: Augmon FOR Davis,,,,
+0020100321,213,6,2,2,8:29 PM,4:16,Augmon S.FOUL (P2.T4),,,,
+0020100321,214,3,11,2,8:29 PM,4:16,,,Pierce Free Throw 1 of 2 (15 PTS),42 - 40,-2
+0020100321,215,8,0,2,8:30 PM,4:16,SUB: Magloire FOR Campbell,,,,
+0020100321,216,3,12,2,8:30 PM,4:16,,,Pierce Free Throw 2 of 2 (16 PTS),43 - 40,-3
+0020100321,217,2,1,2,8:30 PM,4:01,MISS Brown 15' Jump Shot,,,,
+0020100321,218,4,0,2,8:30 PM,3:59,,,Anderson REBOUND (Off:0 Def:2),,
+0020100321,219,2,1,2,8:30 PM,3:51,,,MISS Pierce 14' Jump Shot,,
+0020100321,220,4,0,2,8:30 PM,3:49,Nailon REBOUND (Off:1 Def:2),,,,
+0020100321,221,1,1,2,8:30 PM,3:40,Nailon 10' Jump Shot (8 PTS) (Augmon 2 AST),,,43 - 42,-1
+0020100321,222,6,1,2,8:31 PM,3:24,Nailon P.FOUL (P1.PN),,,,
+0020100321,223,3,11,2,8:31 PM,3:24,,,Walker Free Throw 1 of 2 (6 PTS),44 - 42,-2
+0020100321,224,3,12,2,8:31 PM,3:24,,,Walker Free Throw 2 of 2 (7 PTS),45 - 42,-3
+0020100321,225,6,1,2,8:32 PM,3:10,,,Pierce P.FOUL (P1.T4),,
+0020100321,226,1,47,2,8:32 PM,2:59,Nailon 14' Turnaround Jump Shot (10 PTS) (Augmon 3 AST),,,45 - 44,-1
+0020100321,227,2,1,2,8:33 PM,2:45,,,MISS Walker 25' 3PT Jump Shot,,
+0020100321,228,4,0,2,8:33 PM,2:42,Magloire REBOUND (Off:1 Def:1),,,,
+0020100321,229,6,2,2,8:33 PM,2:28,,,Battie S.FOUL (P3.PN),,
+0020100321,230,9,1,2,8:33 PM,2:28,HORNETS Timeout: Regular (Full 2 Short 1),,,,
+0020100321,232,8,0,2,8:35 PM,2:28,,,SUB: Blount FOR Battie,,
+0020100321,233,3,11,2,8:35 PM,2:28,Magloire Free Throw 1 of 2 (3 PTS),,,45 - 45,TIE
+0020100321,234,3,12,2,8:36 PM,2:28,Magloire Free Throw 2 of 2 (4 PTS),,,45 - 46,1
+0020100321,235,1,1,2,8:36 PM,2:14,,,Anderson 18' Jump Shot (11 PTS) (Pierce 3 AST),47 - 46,-1
+0020100321,236,2,7,2,8:37 PM,1:48,MISS Magloire  Dunk,,,,
+0020100321,237,4,0,2,8:37 PM,1:47,Augmon REBOUND (Off:1 Def:0),,,,
+0020100321,238,6,2,2,8:37 PM,1:47,,,Pierce S.FOUL (P2.PN),,
+0020100321,239,3,11,2,8:37 PM,1:47,Augmon Free Throw 1 of 2 (7 PTS),,,47 - 47,TIE
+0020100321,240,3,12,2,8:37 PM,1:47,MISS Augmon Free Throw 2 of 2,,,,
+0020100321,241,4,0,2,8:37 PM,1:45,,,Blount REBOUND (Off:1 Def:2),,
+0020100321,242,6,1,2,8:38 PM,1:42,Nailon P.FOUL (P2.PN),,,,
+0020100321,243,3,11,2,8:38 PM,1:42,,,Johnson Free Throw 1 of 2 (5 PTS),48 - 47,-1
+0020100321,244,8,0,2,8:38 PM,1:42,,,SUB: Williams FOR Pierce,,
+0020100321,245,3,12,2,8:38 PM,1:42,,,Johnson Free Throw 2 of 2 (6 PTS),49 - 47,-2
+0020100321,246,6,1,2,8:38 PM,1:28,,,Blount P.FOUL (P2.PN),,
+0020100321,247,3,11,2,8:39 PM,1:28,Magloire Free Throw 1 of 2 (5 PTS),,,49 - 48,-1
+0020100321,248,3,12,2,8:39 PM,1:28,Magloire Free Throw 2 of 2 (6 PTS),,,49 - 49,TIE
+0020100321,249,5,2,2,8:40 PM,1:04,Augmon STEAL (1 STL),,Johnson Lost Ball Turnover (P2.T8),,
+0020100321,250,5,2,2,8:40 PM,0:59,Wesley Lost Ball Turnover (P1.T6),,Anderson STEAL (2 STL),,
+0020100321,251,2,5,2,8:40 PM,0:53,Augmon BLOCK (1 BLK),,MISS Blount  Layup,,
+0020100321,252,4,0,2,8:40 PM,0:49,Augmon REBOUND (Off:1 Def:1),,,,
+0020100321,253,5,1,2,8:40 PM,0:32,Brown Bad Pass Turnover (P1.T7),,Williams STEAL (1 STL),,
+0020100321,254,2,5,2,8:40 PM,0:22,,,MISS Walker  Layup,,
+0020100321,255,4,0,2,8:40 PM,0:19,Magloire REBOUND (Off:1 Def:2),,,,
+0020100321,256,1,1,2,8:41 PM,0:02,Wesley 17' Jump Shot (9 PTS),,,49 - 51,2
+0020100321,257,2,1,2,8:41 PM,0:00,,,MISS Anderson 75' 3PT Jump Shot,,
+0020100321,259,4,0,2,8:41 PM,0:00,,,Celtics Rebound,,
+0020100321,258,13,0,2,8:41 PM,0:00,,,,49 - 51,2
+0020100321,261,12,0,3,8:57 PM,12:00,,,,49 - 51,2
+0020100321,262,6,2,3,8:57 PM,11:48,Brown S.FOUL (P2.T1),,,,
+0020100321,263,3,11,3,8:57 PM,11:48,,,Potapenko Free Throw 1 of 2 (3 PTS),50 - 51,1
+0020100321,265,3,12,3,8:57 PM,11:48,,,Potapenko Free Throw 2 of 2 (4 PTS),51 - 51,TIE
+0020100321,266,1,1,3,8:58 PM,11:37,Brown 19' Jump Shot (7 PTS) (Davis 6 AST),,,51 - 53,2
+0020100321,267,2,5,3,8:58 PM,11:26,,,MISS Pierce  Layup,,
+0020100321,269,4,0,3,8:58 PM,11:16,,,Potapenko REBOUND (Off:2 Def:1),,
+0020100321,268,1,4,3,8:58 PM,11:16,,,Potapenko  Tip Shot (6 PTS),53 - 53,TIE
+0020100321,270,2,1,3,8:58 PM,11:12,MISS Wesley 26' 3PT Jump Shot,,,,
+0020100321,271,4,0,3,8:58 PM,11:10,,,Pierce REBOUND (Off:0 Def:5),,
+0020100321,272,1,3,3,8:58 PM,11:01,,,Potapenko 6' Hook Shot (8 PTS),55 - 53,-2
+0020100321,274,1,1,3,8:59 PM,10:36,Davis 26' 3PT Jump Shot (9 PTS),,,55 - 56,1
+0020100321,275,2,1,3,8:59 PM,10:17,,,MISS Johnson  3PT Jump Shot,,
+0020100321,276,4,0,3,8:59 PM,10:15,,,Pierce REBOUND (Off:1 Def:5),,
+0020100321,277,2,1,3,8:59 PM,10:11,,,MISS Walker 25' 3PT Jump Shot,,
+0020100321,278,4,0,3,9:00 PM,10:09,Brown REBOUND (Off:1 Def:4),,,,
+0020100321,279,6,2,3,9:00 PM,10:04,,,Johnson S.FOUL (P1.T1),,
+0020100321,280,3,11,3,9:00 PM,10:04,MISS Davis Free Throw 1 of 2,,,,
+0020100321,281,4,1,3,9:00 PM,10:04,HORNETS Rebound,,,,
+0020100321,282,3,12,3,9:00 PM,10:04,MISS Davis Free Throw 2 of 2,,,,
+0020100321,283,4,0,3,9:00 PM,10:02,,,Pierce REBOUND (Off:1 Def:6),,
+0020100321,284,2,1,3,9:00 PM,9:52,,,MISS Anderson 18' Jump Shot,,
+0020100321,285,4,0,3,9:00 PM,9:50,Brown REBOUND (Off:1 Def:5),,,,
+0020100321,286,6,1,3,9:01 PM,9:41,,,Johnson P.FOUL (P2.T2),,
+0020100321,287,2,1,3,9:01 PM,9:28,MISS Davis 10' Jump Shot,,,,
+0020100321,288,4,0,3,9:01 PM,9:26,,,Potapenko REBOUND (Off:2 Def:2),,
+0020100321,289,1,1,3,9:01 PM,9:17,,,Walker 6' Jump Shot (9 PTS),57 - 56,-1
+0020100321,290,2,1,3,9:02 PM,9:05,MISS Wesley 19' Jump Shot,,,,
+0020100321,291,4,0,3,9:02 PM,9:03,,,Pierce REBOUND (Off:1 Def:7),,
+0020100321,292,1,1,3,9:02 PM,8:52,,,Johnson 24' 3PT Jump Shot (9 PTS) (Walker 4 AST),60 - 56,-4
+0020100321,293,2,1,3,9:02 PM,8:32,MISS Davis 26' 3PT Jump Shot,,,,
+0020100321,294,4,0,3,9:02 PM,8:29,,,Anderson REBOUND (Off:0 Def:3),,
+0020100321,295,1,5,3,9:02 PM,8:26,,,Johnson  Layup (11 PTS) (Anderson 3 AST),62 - 56,-6
+0020100321,296,9,1,3,9:02 PM,8:25,HORNETS Timeout: Regular (Full 3 Short 1),,,,
+0020100321,298,2,1,3,9:05 PM,8:08,MISS Nailon 18' Jump Shot,,,,
+0020100321,299,4,0,3,9:05 PM,8:05,,,Potapenko REBOUND (Off:2 Def:3),,
+0020100321,300,1,1,3,9:05 PM,7:42,,,Pierce 26' 3PT Jump Shot (19 PTS) (Anderson 4 AST),65 - 56,-9
+0020100321,301,2,1,3,9:06 PM,7:18,MISS Nailon 15' Jump Shot,,,,
+0020100321,302,4,0,3,9:06 PM,7:16,,,Potapenko REBOUND (Off:2 Def:4),,
+0020100321,303,5,4,3,9:06 PM,7:07,,,Walker Traveling Turnover (P1.T9),,
+0020100321,304,1,46,3,9:07 PM,6:45,Davis 8' Running Jump Shot (11 PTS),,,65 - 58,-7
+0020100321,305,6,1,3,9:07 PM,6:26,Brown P.FOUL (P3.T2),,,,
+0020100321,306,8,0,3,9:07 PM,6:26,,,SUB: Strickland FOR Johnson,,
+0020100321,307,2,1,3,9:07 PM,6:16,,,MISS Walker 8' Jump Shot,,
+0020100321,308,4,0,3,9:08 PM,6:16,,,Celtics Rebound,,
+0020100321,309,6,3,3,9:08 PM,6:16,Campbell L.B.FOUL (P2.T3),,,,
+0020100321,310,6,11,3,9:08 PM,6:13,Campbell T.FOUL (P2.T3),,,,
+0020100321,311,3,16,3,9:08 PM,6:13,,,Anderson Free Throw Technical (12 PTS),66 - 58,-8
+0020100321,312,5,1,3,9:09 PM,6:08,,,Walker Bad Pass Turnover (P2.T10),,
+0020100321,313,1,1,3,9:09 PM,6:03,Davis 18' Jump Shot (13 PTS) (Wesley 2 AST),,,66 - 60,-6
+0020100321,314,1,1,3,9:09 PM,5:43,,,Strickland  3PT Jump Shot (3 PTS) (Pierce 4 AST),69 - 60,-9
+0020100321,315,1,44,3,9:09 PM,5:32,Nailon  Reverse Layup (12 PTS) (Wesley 3 AST),,,69 - 62,-7
+0020100321,316,1,1,3,9:09 PM,5:19,,,Pierce 18' Jump Shot (21 PTS) (Walker 5 AST),71 - 62,-9
+0020100321,317,2,5,3,9:10 PM,5:06,MISS Nailon  Layup,,,,
+0020100321,318,4,0,3,9:10 PM,5:03,,,Potapenko REBOUND (Off:2 Def:5),,
+0020100321,319,1,5,3,9:10 PM,4:59,,,Walker  Layup (11 PTS),73 - 62,-11
+0020100321,320,9,2,3,9:10 PM,4:50,HORNETS Timeout: Short (Full 3 Short 2),,,,
+0020100321,322,8,0,3,9:10 PM,4:50,SUB: Traylor FOR Brown,,,,
+0020100321,323,8,0,3,9:11 PM,4:50,,,SUB: Williams FOR Walker,,
+0020100321,324,2,1,3,9:11 PM,4:42,MISS Wesley 26' 3PT Jump Shot,,,,
+0020100321,325,4,0,3,9:11 PM,4:40,Nailon REBOUND (Off:2 Def:2),,,,
+0020100321,326,6,1,3,9:11 PM,4:40,,,Potapenko P.FOUL (P2.T3),,
+0020100321,327,8,0,3,9:11 PM,4:40,SUB: Augmon FOR Wesley,,,,
+0020100321,329,2,1,3,9:13 PM,4:19,MISS Campbell 9' Jump Shot,,,,
+0020100321,331,4,0,3,9:13 PM,4:16,Nailon REBOUND (Off:3 Def:2),,,,
+0020100321,330,1,5,3,9:13 PM,4:16,Nailon  Layup (14 PTS),,,73 - 64,-9
+0020100321,332,6,2,3,9:13 PM,4:16,,,Potapenko S.FOUL (P3.T4),,
+0020100321,333,3,10,3,9:13 PM,4:16,Nailon Free Throw 1 of 1 (15 PTS),,,73 - 65,-8
+0020100321,335,1,5,3,9:14 PM,4:02,,,Pierce  Layup (23 PTS),75 - 65,-10
+0020100321,336,6,2,3,9:14 PM,4:02,Augmon S.FOUL (P3.T4),,,,
+0020100321,337,8,0,3,9:14 PM,4:02,SUB: Magloire FOR Campbell,,,,
+0020100321,345,8,0,3,9:14 PM,4:02,,,SUB: Palacio FOR Anderson,,
+0020100321,338,3,10,3,9:14 PM,4:02,,,MISS Pierce Free Throw 1 of 1,,
+0020100321,339,4,0,3,9:14 PM,4:01,Traylor REBOUND (Off:1 Def:4),,,,
+0020100321,341,2,1,3,9:14 PM,3:46,MISS Davis 17' Jump Shot,,,,
+0020100321,342,4,0,3,9:14 PM,3:45,,,Pierce REBOUND (Off:1 Def:8),,
+0020100321,343,5,2,3,9:14 PM,3:39,Nailon STEAL (2 STL),,Pierce Lost Ball Turnover (P2.T11),,
+0020100321,344,6,1,3,9:15 PM,3:38,,,Palacio P.FOUL (P2.PN),,
+0020100321,346,3,11,3,9:15 PM,3:38,Magloire Free Throw 1 of 2 (7 PTS),,,75 - 66,-9
+0020100321,348,8,0,3,9:15 PM,3:38,SUB: Bullard FOR Nailon,,,,
+0020100321,349,3,12,3,9:15 PM,3:38,Magloire Free Throw 2 of 2 (8 PTS),,,75 - 67,-8
+0020100321,350,6,2,3,9:16 PM,3:24,Traylor S.FOUL (P2.PN),,,,
+0020100321,351,3,11,3,9:16 PM,3:24,,,Williams Free Throw 1 of 2 (6 PTS),76 - 67,-9
+0020100321,352,8,0,3,9:16 PM,3:24,,,SUB: Johnson FOR Pierce,,
+0020100321,353,3,12,3,9:16 PM,3:24,,,Williams Free Throw 2 of 2 (7 PTS),77 - 67,-10
+0020100321,354,2,1,3,9:17 PM,3:03,MISS Davis 16' Jump Shot,,,,
+0020100321,355,10,0,3,9:17 PM,3:03,Jump Ball Magloire vs. Potapenko: Tip to Williams,,,,
+0020100321,356,4,0,3,9:17 PM,3:03,,,Celtics Rebound,,
+0020100321,358,2,1,3,9:18 PM,2:51,,,MISS Potapenko 11' Jump Shot,,
+0020100321,359,4,0,3,9:18 PM,2:49,Augmon REBOUND (Off:1 Def:2),,,,
+0020100321,360,2,1,3,9:18 PM,2:42,MISS Bullard  3PT Jump Shot,,,,
+0020100321,361,4,0,3,9:18 PM,2:41,Traylor REBOUND (Off:2 Def:4),,,,
+0020100321,362,6,1,3,9:18 PM,2:41,,,Williams P.FOUL (P2.PN),,
+0020100321,363,9,1,3,9:18 PM,2:41,,,Celtics Timeout: Regular (Reg.3 Short 0),,
+0020100321,365,8,0,3,9:20 PM,2:41,,,SUB: Walker FOR Potapenko,,
+0020100321,366,8,0,3,9:20 PM,2:41,,,SUB: Battie FOR Johnson,,
+0020100321,367,3,11,3,9:20 PM,2:41,Traylor Free Throw 1 of 2 (3 PTS),,,77 - 68,-9
+0020100321,368,3,12,3,9:20 PM,2:41,MISS Traylor Free Throw 2 of 2,,,,
+0020100321,369,4,0,3,9:20 PM,2:40,,,Battie REBOUND (Off:1 Def:1),,
+0020100321,370,6,2,3,9:20 PM,2:26,Traylor S.FOUL (P3.PN),,,,
+0020100321,371,3,11,3,9:21 PM,2:26,,,Williams Free Throw 1 of 2 (8 PTS),78 - 68,-10
+0020100321,372,3,12,3,9:21 PM,2:26,,,Williams Free Throw 2 of 2 (9 PTS),79 - 68,-11
+0020100321,373,5,4,3,9:21 PM,2:13,Magloire Traveling Turnover (P1.T8),,,,
+0020100321,374,1,1,3,9:22 PM,1:57,,,Strickland 26' 3PT Jump Shot (6 PTS) (Palacio 2 AST),82 - 68,-14
+0020100321,375,1,1,3,9:22 PM,1:32,Davis 26' 3PT Jump Shot (16 PTS) (Bullard 1 AST),,,82 - 71,-11
+0020100321,376,5,4,3,9:23 PM,1:16,,,Strickland Traveling Turnover (P3.T12),,
+0020100321,377,2,1,3,9:23 PM,0:57,MISS Bullard 27' 3PT Jump Shot,,,,
+0020100321,378,4,0,3,9:23 PM,0:54,,,Walker REBOUND (Off:0 Def:6),,
+0020100321,379,2,1,3,9:23 PM,0:40,,,MISS Palacio 17' Jump Shot,,
+0020100321,380,4,0,3,9:23 PM,0:38,Magloire REBOUND (Off:1 Def:3),,,,
+0020100321,381,6,2,3,9:23 PM,0:32,,,Williams S.FOUL (P3.PN),,
+0020100321,382,3,13,3,9:24 PM,0:32,Bullard Free Throw 1 of 3 (3 PTS),,,82 - 72,-10
+0020100321,383,8,0,3,9:24 PM,0:32,,,SUB: Pierce FOR Williams,,
+0020100321,384,8,0,3,9:24 PM,0:32,SUB: Wesley FOR Davis,,,,
+0020100321,385,3,14,3,9:24 PM,0:32,Bullard Free Throw 2 of 3 (4 PTS),,,82 - 73,-9
+0020100321,386,3,15,3,9:24 PM,0:32,Bullard Free Throw 3 of 3 (5 PTS),,,82 - 74,-8
+0020100321,387,2,5,3,9:25 PM,0:18,,,MISS Strickland  Layup,,
+0020100321,388,4,0,3,9:25 PM,0:18,,,Celtics Rebound,,
+0020100321,389,6,3,3,9:25 PM,0:18,Magloire L.B.FOUL (P1.PN),,,,
+0020100321,390,3,11,3,9:25 PM,0:18,,,Battie Free Throw 1 of 2 (3 PTS),83 - 74,-9
+0020100321,391,8,0,3,9:25 PM,0:18,,,SUB: Potapenko FOR Walker,,
+0020100321,392,3,12,3,9:25 PM,0:18,,,Battie Free Throw 2 of 2 (4 PTS),84 - 74,-10
+0020100321,393,5,1,3,9:26 PM,0:00,Bullard Bad Pass Turnover (P2.T9),,Potapenko STEAL (1 STL),,
+0020100321,394,13,0,3,9:26 PM,0:00,,,,84 - 74,-10
+0020100321,396,12,0,4,9:28 PM,12:00,,,,84 - 74,-10
+0020100321,397,2,1,4,9:29 PM,11:37,MISS Davis  3PT Jump Shot,,,,
+0020100321,398,4,0,4,9:29 PM,11:33,,,Walker REBOUND (Off:0 Def:7),,
+0020100321,399,1,1,4,9:29 PM,11:18,,,Pierce 9' Jump Shot (25 PTS),86 - 74,-12
+0020100321,400,6,2,4,9:30 PM,10:53,,,Battie S.FOUL (P4.T1),,
+0020100321,401,3,11,4,9:30 PM,10:53,Traylor Free Throw 1 of 2 (4 PTS),,,86 - 75,-11
+0020100321,402,8,0,4,9:30 PM,10:53,SUB: Brown FOR Augmon,,,,
+0020100321,403,3,12,4,9:30 PM,10:53,Traylor Free Throw 2 of 2 (5 PTS),,,86 - 76,-10
+0020100321,404,1,1,4,9:31 PM,10:38,,,Strickland  3PT Jump Shot (9 PTS) (Pierce 5 AST),89 - 76,-13
+0020100321,405,6,2,4,9:31 PM,10:24,,,Anderson S.FOUL (P3.T2),,
+0020100321,406,3,11,4,9:31 PM,10:24,MISS Wesley Free Throw 1 of 2,,,,
+0020100321,407,4,1,4,9:31 PM,10:24,HORNETS Rebound,,,,
+0020100321,408,3,12,4,9:31 PM,10:24,Wesley Free Throw 2 of 2 (10 PTS),,,89 - 77,-12
+0020100321,409,2,1,4,9:32 PM,10:11,,,MISS Pierce 25' 3PT Jump Shot,,
+0020100321,410,4,0,4,9:32 PM,10:08,Wesley REBOUND (Off:0 Def:3),,,,
+0020100321,411,6,1,4,9:32 PM,10:07,,,Strickland P.FOUL (P2.T3),,
+0020100321,412,5,3,4,9:32 PM,9:59,Wesley Out Of Bounds Turnover (P2.T10),,,,
+0020100321,413,2,1,4,9:33 PM,9:39,,,MISS Pierce 19' Jump Shot,,
+0020100321,414,4,0,4,9:33 PM,9:37,Wesley REBOUND (Off:0 Def:4),,,,
+0020100321,415,6,4,4,9:33 PM,9:32,Davis OFF.Foul (P4),,,,
+0020100321,416,5,5,4,9:33 PM,9:32,Davis Foul Turnover (P4.T11),,,,
+0020100321,417,6,2,4,9:33 PM,9:24,Brown S.FOUL (P4.T1),,,,
+0020100321,418,8,0,4,9:34 PM,9:24,SUB: Campbell FOR Traylor,,,,
+0020100321,419,8,0,4,9:34 PM,9:24,SUB: Augmon FOR Nailon,,,,
+0020100321,420,3,11,4,9:34 PM,9:24,,,Pierce Free Throw 1 of 2 (26 PTS),90 - 77,-13
+0020100321,421,3,12,4,9:34 PM,9:24,,,MISS Pierce Free Throw 2 of 2,,
+0020100321,422,4,0,4,9:34 PM,9:23,Brown REBOUND (Off:1 Def:6),,,,
+0020100321,423,1,1,4,9:35 PM,9:14,Wesley 25' 3PT Jump Shot (13 PTS) (Davis 7 AST),,,90 - 80,-10
+0020100321,424,2,5,4,9:35 PM,8:56,Campbell BLOCK (4 BLK),,MISS Walker  Layup,,
+0020100321,425,4,0,4,9:35 PM,8:56,HORNETS Rebound,,,,
+0020100321,426,9,4,4,9:35 PM,8:56,,,,,
+0020100321,428,2,1,4,9:37 PM,8:44,MISS Davis 10' Jump Shot,,,,
+0020100321,429,4,0,4,9:37 PM,8:42,Campbell REBOUND (Off:2 Def:3),,,,
+0020100321,430,1,1,4,9:37 PM,8:39,Wesley 26' 3PT Jump Shot (16 PTS) (Campbell 1 AST),,,90 - 83,-7
+0020100321,431,1,1,4,9:38 PM,8:19,,,Walker 26' 3PT Jump Shot (14 PTS) (Strickland 1 AST),93 - 83,-10
+0020100321,432,2,1,4,9:38 PM,7:59,MISS Augmon 15' Jump Shot,,,,
+0020100321,433,4,0,4,9:38 PM,7:59,,,Celtics Rebound,,
+0020100321,434,6,1,4,9:39 PM,7:41,Davis P.FOUL (P5.T2),,,,
+0020100321,435,8,0,4,9:39 PM,7:41,SUB: Drew FOR Davis,,,,
+0020100321,436,2,1,4,9:39 PM,7:32,,,MISS Anderson 22' Jump Shot,,
+0020100321,437,4,0,4,9:39 PM,7:30,Wesley REBOUND (Off:0 Def:5),,,,
+0020100321,438,6,2,4,9:40 PM,7:18,,,Battie S.FOUL (P5.T4),,
+0020100321,439,3,11,4,9:40 PM,7:18,Campbell Free Throw 1 of 2 (5 PTS),,,93 - 84,-9
+0020100321,440,8,0,4,9:40 PM,7:18,,,SUB: Potapenko FOR Battie,,
+0020100321,441,3,12,4,9:40 PM,7:18,Campbell Free Throw 2 of 2 (6 PTS),,,93 - 85,-8
+0020100321,442,2,5,4,9:41 PM,7:02,,,MISS Pierce  Layup,,
+0020100321,443,4,0,4,9:41 PM,7:00,Brown REBOUND (Off:1 Def:7),,,,
+0020100321,444,1,5,4,9:41 PM,6:51,Augmon  Layup (9 PTS) (Drew 1 AST),,,93 - 87,-6
+0020100321,445,2,1,4,9:41 PM,6:29,,,MISS Walker 8' Jump Shot,,
+0020100321,446,4,0,4,9:41 PM,6:27,,,Potapenko REBOUND (Off:3 Def:5),,
+0020100321,447,2,5,4,9:41 PM,6:23,Campbell BLOCK (5 BLK),,MISS Pierce  Layup,,
+0020100321,448,4,0,4,9:41 PM,6:23,,,Celtics Rebound,,
+0020100321,449,9,1,4,9:42 PM,6:23,,,Celtics Timeout: Regular (Reg.4 Short 0),,
+0020100321,451,5,2,4,9:44 PM,6:21,Augmon STEAL (2 STL),,Pierce Lost Ball Turnover (P3.T13),,
+0020100321,452,1,1,4,9:44 PM,6:08,Wesley 20' Jump Shot (18 PTS) (Campbell 2 AST),,,93 - 89,-4
+0020100321,453,2,1,4,9:45 PM,5:49,,,MISS Walker 6' Jump Shot,,
+0020100321,454,4,0,4,9:45 PM,5:47,Augmon REBOUND (Off:1 Def:3),,,,
+0020100321,455,6,1,4,9:45 PM,5:42,,,Strickland P.FOUL (P3.PN),,
+0020100321,456,3,11,4,9:45 PM,5:42,Wesley Free Throw 1 of 2 (19 PTS),,,93 - 90,-3
+0020100321,457,8,0,4,9:46 PM,5:42,,,SUB: Williams FOR Strickland,,
+0020100321,458,3,12,4,9:46 PM,5:42,Wesley Free Throw 2 of 2 (20 PTS),,,93 - 91,-2
+0020100321,459,5,1,4,9:46 PM,5:30,Wesley STEAL (1 STL),,Walker Bad Pass Turnover (P3.T14),,
+0020100321,460,2,5,4,9:46 PM,5:25,MISS Wesley  Layup,,,,
+0020100321,461,4,0,4,9:46 PM,5:24,,,Williams REBOUND (Off:0 Def:2),,
+0020100321,462,1,1,4,9:46 PM,5:04,,,Walker 13' Jump Shot (16 PTS),95 - 91,-4
+0020100321,463,1,1,4,9:47 PM,4:43,Wesley 18' Jump Shot (22 PTS),,,95 - 93,-2
+0020100321,464,1,1,4,9:47 PM,4:24,,,Williams 7' Jump Shot (11 PTS),97 - 93,-4
+0020100321,465,1,1,4,9:47 PM,4:09,Wesley 18' Jump Shot (24 PTS) (Drew 2 AST),,,97 - 95,-2
+0020100321,466,6,2,4,9:48 PM,3:53,Augmon S.FOUL (P4.T3),,,,
+0020100321,467,3,11,4,9:48 PM,3:53,,,Williams Free Throw 1 of 2 (12 PTS),98 - 95,-3
+0020100321,468,8,0,4,9:48 PM,3:53,SUB: Davis FOR Drew,,,,
+0020100321,469,8,0,4,9:48 PM,3:53,,,SUB: Strickland FOR Anderson,,
+0020100321,470,3,12,4,9:48 PM,3:53,,,MISS Williams Free Throw 2 of 2,,
+0020100321,471,4,0,4,9:49 PM,3:51,Brown REBOUND (Off:1 Def:8),,,,
+0020100321,472,2,1,4,9:49 PM,3:32,MISS Davis 29' 3PT Jump Shot,,,,
+0020100321,473,4,0,4,9:49 PM,3:30,,,Walker REBOUND (Off:0 Def:8),,
+0020100321,474,2,1,4,9:49 PM,3:20,Campbell BLOCK (6 BLK),,MISS Pierce 7' Jump Shot,,
+0020100321,475,4,0,4,9:49 PM,3:17,Wesley REBOUND (Off:0 Def:6),,,,
+0020100321,476,6,4,4,9:49 PM,3:14,Brown OFF.Foul (P5),,,,
+0020100321,477,5,5,4,9:49 PM,3:14,Brown Foul Turnover (P2.T12),,,,
+0020100321,478,6,2,4,9:50 PM,2:58,Augmon S.FOUL (P5.T4),,,,
+0020100321,479,9,1,4,9:50 PM,2:58,HORNETS Timeout: Regular (Full 4 Short 2),,,,
+0020100321,481,8,0,4,9:52 PM,2:58,,,SUB: Anderson FOR Pierce,,
+0020100321,482,3,11,4,9:52 PM,2:58,,,MISS Williams Free Throw 1 of 2,,
+0020100321,483,4,1,4,9:52 PM,2:58,,,Celtics Rebound,,
+0020100321,484,3,12,4,9:53 PM,2:58,,,MISS Williams Free Throw 2 of 2,,
+0020100321,485,4,0,4,9:53 PM,2:58,Brown REBOUND (Off:1 Def:9),,,,
+0020100321,486,2,1,4,9:53 PM,2:41,MISS Campbell 6' Jump Shot,,,,
+0020100321,487,4,0,4,9:53 PM,2:39,,,Potapenko REBOUND (Off:3 Def:6),,
+0020100321,488,2,1,4,9:53 PM,2:20,,,MISS Williams 12' Jump Shot,,
+0020100321,489,4,0,4,9:53 PM,2:17,Campbell REBOUND (Off:2 Def:4),,,,
+0020100321,490,2,1,4,9:53 PM,2:12,MISS Wesley 24' 3PT Jump Shot,,,,
+0020100321,491,4,0,4,9:54 PM,2:09,,,Strickland REBOUND (Off:1 Def:1),,
+0020100321,492,9,2,4,9:54 PM,2:06,,,Celtics Timeout: Short (Reg.4 Short 1),,
+0020100321,494,8,0,4,9:54 PM,2:06,,,SUB: Pierce FOR Williams,,
+0020100321,495,2,1,4,9:55 PM,1:52,,,MISS Anderson 13' Jump Shot,,
+0020100321,496,4,0,4,9:55 PM,1:50,,,Strickland REBOUND (Off:2 Def:1),,
+0020100321,497,2,5,4,9:55 PM,1:48,Brown BLOCK (2 BLK),,MISS Strickland  Layup,,
+0020100321,498,4,0,4,9:55 PM,1:45,,,Walker REBOUND (Off:1 Def:8),,
+0020100321,499,1,5,4,9:55 PM,1:32,,,Potapenko  Layup (10 PTS) (Anderson 5 AST),100 - 95,-5
+0020100321,500,9,1,4,9:56 PM,1:32,HORNETS Timeout: Regular (Full 5 Short 2),,,,
+0020100321,502,8,0,4,9:57 PM,1:32,SUB: Bullard FOR Brown,,,,
+0020100321,503,2,1,4,9:58 PM,1:17,MISS Bullard 27' 3PT Jump Shot,,,,
+0020100321,504,4,0,4,9:58 PM,1:14,,,Potapenko REBOUND (Off:3 Def:7),,
+0020100321,505,2,1,4,9:58 PM,0:52,,,MISS Walker 27' 3PT Jump Shot,,
+0020100321,506,4,0,4,9:58 PM,0:48,,,Strickland REBOUND (Off:3 Def:1),,
+0020100321,507,6,1,4,9:58 PM,0:40,Bullard P.FOUL (P2.PN),,,,
+0020100321,508,3,11,4,9:59 PM,0:40,,,Walker Free Throw 1 of 2 (17 PTS),101 - 95,-6
+0020100321,509,3,12,4,9:59 PM,0:40,,,Walker Free Throw 2 of 2 (18 PTS),102 - 95,-7
+0020100321,510,9,1,4,9:59 PM,0:40,HORNETS Timeout: Regular (Full 6 Short 2),,,,
+0020100321,512,8,0,4,10:01 PM,0:40,SUB: Drew FOR Augmon,,,,
+0020100321,513,8,0,4,10:01 PM,0:40,,,SUB: Williams FOR Potapenko,,
+0020100321,514,6,2,4,10:01 PM,0:35,,,Pierce S.FOUL (P3.PN),,
+0020100321,515,3,13,4,10:01 PM,0:35,MISS Davis Free Throw 1 of 3,,,,
+0020100321,516,4,1,4,10:01 PM,0:35,HORNETS Rebound,,,,
+0020100321,517,8,0,4,10:02 PM,0:35,,,SUB: Potapenko FOR Williams,,
+0020100321,518,3,14,4,10:02 PM,0:35,Davis Free Throw 2 of 3 (17 PTS),,,102 - 96,-6
+0020100321,519,3,15,4,10:02 PM,0:35,Davis Free Throw 3 of 3 (18 PTS),,,102 - 97,-5
+0020100321,520,6,1,4,10:02 PM,0:33,Bullard P.FOUL (P3.PN),,,,
+0020100321,521,3,11,4,10:03 PM,0:33,,,Pierce Free Throw 1 of 2 (27 PTS),103 - 97,-6
+0020100321,522,8,0,4,10:03 PM,0:33,,,SUB: Williams FOR Potapenko,,
+0020100321,523,3,12,4,10:03 PM,0:33,,,Pierce Free Throw 2 of 2 (28 PTS),104 - 97,-7
+0020100321,524,2,1,4,10:03 PM,0:26,MISS Wesley 27' 3PT Jump Shot,,,,
+0020100321,525,4,0,4,10:03 PM,0:24,,,Pierce REBOUND (Off:1 Def:9),,
+0020100321,526,6,1,4,10:03 PM,0:21,Bullard P.FOUL (P4.PN),,,,
+0020100321,527,3,11,4,10:04 PM,0:21,,,Pierce Free Throw 1 of 2 (29 PTS),105 - 97,-8
+0020100321,528,3,12,4,10:04 PM,0:21,,,Pierce Free Throw 2 of 2 (30 PTS),106 - 97,-9
+0020100321,529,2,1,4,10:04 PM,0:13,MISS Bullard 27' 3PT Jump Shot,,,,
+0020100321,530,4,0,4,10:04 PM,0:11,,,Walker REBOUND (Off:1 Def:9),,
+0020100321,531,13,0,4,10:05 PM,0:00,,,,106 - 97,-9

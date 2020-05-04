@@ -1,0 +1,474 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000989,0,12,0,1,2:41 PM,12:00,,,,,
+0020000989,1,10,0,1,2:42 PM,12:00,Jump Ball Divac vs. Wallace: Tip to Smith,,,,
+0020000989,2,2,3,1,2:42 PM,11:45,,,MISS Wallace 9' Hook Shot,,
+0020000989,3,4,0,1,2:42 PM,11:44,Divac REBOUND (Off:0 Def:1),,,,
+0020000989,4,5,1,1,2:42 PM,11:30,Divac Bad Pass Turnover (P1.T1),,,,
+0020000989,5,2,1,1,2:42 PM,11:15,,,MISS Stackhouse 20' Jump Shot,,
+0020000989,6,4,0,1,2:42 PM,11:13,Stojakovic REBOUND (Off:0 Def:1),,,,
+0020000989,7,1,1,1,2:43 PM,11:06,Webber 17' Jump Shot (2 PTS) (Divac 1 AST),,,0 - 2,2
+0020000989,8,1,3,1,2:43 PM,10:47,,,Smith 6' Hook Shot (2 PTS),2 - 2,TIE
+0020000989,9,1,56,1,2:43 PM,10:32,Stojakovic 6' Running Hook Shot (2 PTS) (Webber 1 AST),,,2 - 4,2
+0020000989,10,2,1,1,2:43 PM,10:21,,,MISS Stackhouse 17' Jump Shot,,
+0020000989,11,4,0,1,2:43 PM,10:20,Stojakovic REBOUND (Off:0 Def:2),,,,
+0020000989,12,1,5,1,2:44 PM,10:06,Divac  Layup (2 PTS),,,2 - 6,4
+0020000989,13,5,1,1,2:44 PM,9:53,Christie STEAL (1 STL),,Stackhouse Bad Pass Turnover (P1.T1),,
+0020000989,14,1,1,1,2:44 PM,9:44,Stojakovic 25' 3PT Jump Shot (5 PTS) (Williams 1 AST),,,2 - 9,7
+0020000989,15,9,1,1,2:44 PM,9:38,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0020000989,17,8,0,1,2:46 PM,9:38,,,SUB: Curry FOR Stackhouse,,
+0020000989,18,1,1,1,2:46 PM,9:22,,,Atkins 21' Jump Shot (2 PTS),4 - 9,5
+0020000989,19,1,1,1,2:47 PM,9:09,Christie 25' 3PT Jump Shot (3 PTS) (Webber 2 AST),,,4 - 12,8
+0020000989,20,1,1,1,2:47 PM,8:56,,,Smith 12' Jump Shot (4 PTS),6 - 12,6
+0020000989,21,5,2,1,2:47 PM,8:49,Webber Lost Ball Turnover (P1.T2),,,,
+0020000989,22,2,1,1,2:47 PM,8:36,,,MISS Curry 21' Jump Shot,,
+0020000989,23,4,0,1,2:47 PM,8:34,Divac REBOUND (Off:0 Def:2),,,,
+0020000989,24,2,1,1,2:47 PM,8:27,MISS Christie  3PT Jump Shot,,,,
+0020000989,25,4,0,1,2:47 PM,8:25,,,Wallace REBOUND (Off:0 Def:1),,
+0020000989,26,2,1,1,2:48 PM,8:16,,,MISS Atkins 20' Jump Shot,,
+0020000989,27,4,0,1,2:48 PM,8:15,Christie REBOUND (Off:0 Def:1),,,,
+0020000989,28,2,1,1,2:48 PM,8:08,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000989,29,4,0,1,2:48 PM,8:07,,,Atkins REBOUND (Off:0 Def:1),,
+0020000989,30,1,1,1,2:48 PM,7:58,,,Owens 5' Jump Shot (2 PTS) (Curry 1 AST),8 - 12,4
+0020000989,31,6,2,1,2:48 PM,7:36,,,Owens S.FOUL (P1.T1),,
+0020000989,32,3,11,1,2:49 PM,7:36,Stojakovic Free Throw 1 of 2 (6 PTS),,,8 - 13,5
+0020000989,33,3,12,1,2:49 PM,7:36,Stojakovic Free Throw 2 of 2 (7 PTS),,,8 - 14,6
+0020000989,34,2,1,1,2:49 PM,7:22,,,MISS Smith 13' Jump Shot,,
+0020000989,35,4,0,1,2:49 PM,7:20,Divac REBOUND (Off:0 Def:3),,,,
+0020000989,36,6,1,1,2:49 PM,7:17,,,Smith P.FOUL (P1.T2),,
+0020000989,38,2,5,1,2:50 PM,7:10,MISS Webber 3' Layup,,Wallace BLOCK (1 BLK),,
+0020000989,39,4,0,1,2:50 PM,7:10,KINGS Rebound,,,,
+0020000989,40,1,1,1,2:50 PM,7:07,Webber 18' Jump Shot (4 PTS) (Williams 2 AST),,,8 - 16,8
+0020000989,41,1,1,1,2:50 PM,6:52,,,Owens 4' Jump Shot (4 PTS) (Wallace 1 AST),10 - 16,6
+0020000989,42,5,2,1,2:51 PM,6:34,Divac Lost Ball Turnover (P2.T3),,,,
+0020000989,43,2,1,1,2:51 PM,6:18,,,MISS Smith 18' Jump Shot,,
+0020000989,44,4,0,1,2:51 PM,6:16,,,Wallace REBOUND (Off:1 Def:1),,
+0020000989,45,1,1,1,2:51 PM,6:04,,,Smith 18' Jump Shot (6 PTS) (Wallace 2 AST),12 - 16,4
+0020000989,46,1,5,1,2:51 PM,5:59,Webber  Layup (6 PTS) (Williams 3 AST),,,12 - 18,6
+0020000989,47,6,2,1,2:51 PM,5:59,,,Owens S.FOUL (P2.T3),,
+0020000989,48,3,10,1,2:52 PM,5:59,Webber Free Throw 1 of 1 (7 PTS),,,12 - 19,7
+0020000989,49,5,1,1,2:52 PM,5:43,Stojakovic STEAL (1 STL),,Atkins Bad Pass Turnover (P1.T2),,
+0020000989,50,1,8,1,2:52 PM,5:40,Stojakovic  Slam Dunk (9 PTS) (Webber 3 AST),,,12 - 21,9
+0020000989,51,2,1,1,2:53 PM,5:19,,,MISS Curry 16' Jump Shot,,
+0020000989,52,4,0,1,2:53 PM,5:17,Webber REBOUND (Off:0 Def:1),,,,
+0020000989,53,5,1,1,2:53 PM,5:14,Webber Bad Pass Turnover (P2.T4),,,,
+0020000989,54,5,1,1,2:53 PM,5:00,Webber STEAL (1 STL),,Atkins Bad Pass Turnover (P2.T3),,
+0020000989,55,1,8,1,2:53 PM,4:56,Stojakovic  Slam Dunk (11 PTS) (Williams 4 AST),,,12 - 23,11
+0020000989,56,2,1,1,2:53 PM,4:42,,,MISS Atkins 17' Jump Shot,,
+0020000989,57,4,0,1,2:53 PM,4:41,Divac REBOUND (Off:0 Def:4),,,,
+0020000989,58,2,1,1,2:54 PM,4:30,MISS Christie 25' 3PT Jump Shot,,,,
+0020000989,59,4,0,1,2:54 PM,4:28,Divac REBOUND (Off:1 Def:4),,,,
+0020000989,60,5,1,1,2:54 PM,4:25,Divac Bad Pass Turnover (P3.T5),,Owens STEAL (1 STL),,
+0020000989,61,6,1,1,2:54 PM,4:24,Christie P.FOUL (P1.T1),,,,
+0020000989,62,8,0,1,2:54 PM,4:24,,,SUB: Cleaves FOR Atkins,,
+0020000989,63,8,0,1,2:54 PM,4:24,,,SUB: Williamson FOR Owens,,
+0020000989,64,2,1,1,2:55 PM,4:09,,,MISS Wallace 17' Jump Shot,,
+0020000989,66,4,0,1,2:55 PM,4:07,,,Smith REBOUND (Off:1 Def:0),,
+0020000989,65,2,4,1,2:55 PM,4:07,,,MISS Smith  Tip Shot,,
+0020000989,67,4,0,1,2:55 PM,4:06,Webber REBOUND (Off:0 Def:2),,,,
+0020000989,68,2,1,1,2:55 PM,4:02,MISS Williams 26' 3PT Jump Shot,,,,
+0020000989,69,4,0,1,2:55 PM,4:00,,,Smith REBOUND (Off:1 Def:1),,
+0020000989,70,2,1,1,2:55 PM,3:52,,,MISS Curry 6' Jump Shot,,
+0020000989,71,4,0,1,2:55 PM,3:50,,,Curry REBOUND (Off:1 Def:0),,
+0020000989,72,1,1,1,2:55 PM,3:46,,,Smith 18' Jump Shot (8 PTS) (Curry 2 AST),14 - 23,9
+0020000989,73,5,2,1,2:55 PM,3:29,Divac Lost Ball Turnover (P4.T6),,,,
+0020000989,74,6,1,1,2:56 PM,3:17,Stojakovic P.FOUL (P1.T2),,,,
+0020000989,76,2,1,1,2:56 PM,3:10,,,MISS Williamson 14' Jump Shot,,
+0020000989,78,4,0,1,2:56 PM,3:08,,,Wallace REBOUND (Off:2 Def:1),,
+0020000989,77,2,4,1,2:56 PM,3:08,,,MISS Wallace  Tip Shot,,
+0020000989,79,4,0,1,2:56 PM,3:07,,,Wallace REBOUND (Off:3 Def:1),,
+0020000989,80,2,7,1,2:56 PM,3:01,Divac BLOCK (1 BLK),,MISS Wallace  Dunk,,
+0020000989,81,4,0,1,2:56 PM,3:00,Christie REBOUND (Off:0 Def:2),,,,
+0020000989,82,6,2,1,2:56 PM,2:56,,,Smith S.FOUL (P2.T4),,
+0020000989,83,9,1,1,2:56 PM,2:56,KINGS Timeout: Regular (Full 1 Short 0),,,,
+0020000989,85,8,0,1,2:58 PM,2:56,,,SUB: Stackhouse FOR Smith,,
+0020000989,86,8,0,1,2:58 PM,2:56,,,SUB: Moore FOR Curry,,
+0020000989,87,8,0,1,2:58 PM,2:56,SUB: Pollard FOR Divac,,,,
+0020000989,88,3,11,1,2:59 PM,2:56,MISS Webber Free Throw 1 of 2,,,,
+0020000989,89,4,1,1,2:59 PM,2:56,KINGS Rebound,,,,
+0020000989,90,3,12,1,2:59 PM,2:56,Webber Free Throw 2 of 2 (8 PTS),,,14 - 24,10
+0020000989,91,2,1,1,2:59 PM,2:41,,,MISS Williamson 14' Jump Shot,,
+0020000989,92,4,0,1,2:59 PM,2:39,Webber REBOUND (Off:0 Def:3),,,,
+0020000989,93,6,1,1,3:00 PM,2:28,,,Williamson P.FOUL (P1.PN),,
+0020000989,94,3,11,1,3:00 PM,2:28,Stojakovic Free Throw 1 of 2 (12 PTS),,,14 - 25,11
+0020000989,95,3,12,1,3:00 PM,2:28,Stojakovic Free Throw 2 of 2 (13 PTS),,,14 - 26,12
+0020000989,96,5,1,1,3:00 PM,2:17,Christie STEAL (2 STL),,Moore Bad Pass Turnover (P1.T4),,
+0020000989,97,1,42,1,3:00 PM,2:13,Christie  Driving Layup (5 PTS),,,14 - 28,14
+0020000989,98,1,1,1,3:01 PM,1:53,,,Stackhouse 26' 3PT Jump Shot (3 PTS) (Cleaves 1 AST),17 - 28,11
+0020000989,99,2,1,1,3:01 PM,1:45,MISS Webber 21' Jump Shot,,,,
+0020000989,100,4,0,1,3:01 PM,1:43,,,Stackhouse REBOUND (Off:0 Def:1),,
+0020000989,101,2,1,1,3:01 PM,1:33,,,MISS Stackhouse  3PT Jump Shot,,
+0020000989,102,4,0,1,3:01 PM,1:30,,,Stackhouse REBOUND (Off:1 Def:1),,
+0020000989,103,1,5,1,3:01 PM,1:28,,,Moore 3' Layup (2 PTS),19 - 28,9
+0020000989,104,5,1,1,3:01 PM,1:10,Webber Bad Pass Turnover (P3.T7),,,,
+0020000989,105,1,50,1,3:02 PM,0:54,,,Wallace  Running Dunk (2 PTS) (Stackhouse 1 AST),21 - 28,7
+0020000989,106,2,1,1,3:02 PM,0:40,MISS Stojakovic 9' Jump Shot,,,,
+0020000989,107,4,0,1,3:02 PM,0:39,,,Moore REBOUND (Off:0 Def:1),,
+0020000989,108,6,2,1,3:02 PM,0:35,Webber S.FOUL (P1.T3),,,,
+0020000989,109,3,11,1,3:03 PM,0:35,,,MISS Cleaves Free Throw 1 of 2,,
+0020000989,110,4,1,1,3:03 PM,0:35,,,Pistons Rebound,,
+0020000989,111,3,12,1,3:03 PM,0:35,,,MISS Cleaves Free Throw 2 of 2,,
+0020000989,112,4,0,1,3:03 PM,0:34,Webber REBOUND (Off:0 Def:4),,,,
+0020000989,113,6,2,1,3:03 PM,0:15,,,Moore S.FOUL (P1.PN),,
+0020000989,114,3,11,1,3:04 PM,0:15,Webber Free Throw 1 of 2 (9 PTS),,,21 - 29,8
+0020000989,115,3,12,1,3:04 PM,0:15,Webber Free Throw 2 of 2 (10 PTS),,,21 - 30,9
+0020000989,116,5,1,1,3:04 PM,0:03,Webber STEAL (2 STL),,Cleaves Bad Pass Turnover (P1.T5),,
+0020000989,117,5,1,1,3:04 PM,0:00,Webber Bad Pass Turnover (P4.T8),,Moore STEAL (1 STL),,
+0020000989,118,13,0,1,3:04 PM,0:00,,,,21 - 30,9
+0020000989,120,12,0,2,3:07 PM,12:00,,,,21 - 30,9
+0020000989,121,5,1,2,3:08 PM,11:54,Webber Bad Pass Turnover (P5.T9),,Stackhouse STEAL (1 STL),,
+0020000989,122,1,49,2,3:08 PM,11:50,,,Stackhouse  Driving Dunk (5 PTS),23 - 30,7
+0020000989,123,1,1,2,3:08 PM,11:42,Turkoglu 23' Jump Shot (2 PTS),,,23 - 32,9
+0020000989,124,1,1,2,3:11 PM,11:26,,,Stackhouse 25' 3PT Jump Shot (8 PTS) (Cleaves 2 AST),26 - 32,6
+0020000989,125,2,1,2,3:11 PM,11:01,MISS Turkoglu 16' Jump Shot,,,,
+0020000989,126,4,0,2,3:11 PM,10:59,,,Wallace REBOUND (Off:3 Def:2),,
+0020000989,127,1,1,2,3:11 PM,10:50,,,Stackhouse 20' Jump Shot (10 PTS),28 - 32,4
+0020000989,128,6,1,2,3:12 PM,10:37,,,Stackhouse P.FOUL (P1.T1),,
+0020000989,129,1,1,2,3:12 PM,10:24,Turkoglu 11' Jump Shot (4 PTS) (Webber 4 AST),,,28 - 34,6
+0020000989,130,2,1,2,3:12 PM,10:12,,,MISS Stackhouse 23' Jump Shot,,
+0020000989,131,4,0,2,3:12 PM,10:10,Turkoglu REBOUND (Off:0 Def:1),,,,
+0020000989,132,5,1,2,3:13 PM,10:00,Christie Bad Pass Turnover (P1.T10),,Wallace STEAL (1 STL),,
+0020000989,133,5,2,2,3:13 PM,9:58,Christie STEAL (3 STL),,Wallace Lost Ball Turnover (P1.T6),,
+0020000989,134,1,58,2,3:13 PM,9:54,Webber 5' Turnaround Hook Shot (12 PTS) (Christie 1 AST),,,28 - 36,8
+0020000989,135,2,1,2,3:13 PM,9:27,Jackson BLOCK (1 BLK),,MISS Williamson 8' Jump Shot,,
+0020000989,136,4,0,2,3:13 PM,9:25,Jackson REBOUND (Off:0 Def:1),,,,
+0020000989,137,5,2,2,3:14 PM,9:16,Pollard Lost Ball Turnover (P1.T11),,Wallace STEAL (2 STL),,
+0020000989,138,6,2,2,3:14 PM,9:08,Pollard S.FOUL (P1.T1),,,,
+0020000989,139,3,11,2,3:14 PM,9:08,,,Stackhouse Free Throw 1 of 2 (11 PTS),29 - 36,7
+0020000989,140,8,0,2,3:14 PM,9:08,SUB: Divac FOR Webber,,,,
+0020000989,141,8,0,2,3:14 PM,9:08,SUB: Barry FOR Christie,,,,
+0020000989,142,8,0,2,3:14 PM,9:08,,,SUB: Smith FOR Wallace,,
+0020000989,143,3,12,2,3:15 PM,9:08,,,Stackhouse Free Throw 2 of 2 (12 PTS),30 - 36,6
+0020000989,144,1,42,2,3:15 PM,8:55,Jackson  Driving Layup (2 PTS) (Turkoglu 1 AST),,,30 - 38,8
+0020000989,145,6,4,2,3:15 PM,8:43,,,Stackhouse OFF.Foul (P2),,
+0020000989,146,5,5,2,3:15 PM,8:43,,,Stackhouse Foul Turnover (P2.T7),,
+0020000989,147,9,4,2,3:15 PM,8:43,,,,,
+0020000989,150,7,3,2,3:18 PM,8:30,,,Smith Violation:Lane,,
+0020000989,149,1,5,2,3:18 PM,8:30,Turkoglu  Layup (6 PTS) (Divac 2 AST),,,30 - 40,10
+0020000989,152,2,1,2,3:18 PM,8:10,,,MISS Stackhouse 22' Jump Shot,,
+0020000989,153,4,0,2,3:18 PM,8:08,Turkoglu REBOUND (Off:0 Def:2),,,,
+0020000989,154,1,1,2,3:18 PM,8:03,Barry 19' Jump Shot (2 PTS) (Turkoglu 2 AST),,,30 - 42,12
+0020000989,155,1,1,2,3:19 PM,7:44,,,Moore 14' Jump Shot (4 PTS) (Cleaves 3 AST),32 - 42,10
+0020000989,156,1,5,2,3:19 PM,7:32,Divac 6' Layup (4 PTS) (Barry 1 AST),,,32 - 44,12
+0020000989,157,6,1,2,3:19 PM,7:22,Turkoglu P.FOUL (P1.T2),,,,
+0020000989,158,8,0,2,3:19 PM,7:22,,,SUB: Atkins FOR Cleaves,,
+0020000989,159,8,0,2,3:19 PM,7:22,,,SUB: Curry FOR Williamson,,
+0020000989,160,2,1,2,3:19 PM,7:16,,,MISS Stackhouse 22' Jump Shot,,
+0020000989,161,4,0,2,3:19 PM,7:14,Divac REBOUND (Off:1 Def:5),,,,
+0020000989,162,5,2,2,3:19 PM,7:08,Jackson Lost Ball Turnover (P1.T12),,Atkins STEAL (1 STL),,
+0020000989,163,2,45,2,3:20 PM,6:57,Divac BLOCK (2 BLK),,MISS Moore 5' Jump Shot,,
+0020000989,164,4,0,2,3:20 PM,6:55,Turkoglu REBOUND (Off:0 Def:3),,,,
+0020000989,165,1,1,2,3:20 PM,6:51,Barry 16' Jump Shot (4 PTS) (Turkoglu 3 AST),,,32 - 46,14
+0020000989,166,5,2,2,3:20 PM,6:38,Jackson STEAL (1 STL),,Smith Lost Ball Turnover (P1.T8),,
+0020000989,167,6,3,2,3:20 PM,6:33,,,Moore L.B.FOUL (P2.T2),,
+0020000989,168,1,1,2,3:20 PM,6:26,Turkoglu 22' Jump Shot (8 PTS),,,32 - 48,16
+0020000989,169,9,1,2,3:21 PM,6:19,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0020000989,173,1,58,2,3:23 PM,6:08,,,Moore 6' Turnaround Hook Shot (6 PTS) (Stackhouse 2 AST),34 - 48,14
+0020000989,174,6,1,2,3:23 PM,5:49,,,Smith P.FOUL (P3.T3),,
+0020000989,175,8,0,2,3:24 PM,5:49,,,SUB: Williamson FOR Smith,,
+0020000989,176,3,11,2,3:24 PM,5:49,MISS Pollard Free Throw 1 of 2,,,,
+0020000989,177,4,1,2,3:24 PM,5:49,KINGS Rebound,,,,
+0020000989,178,3,12,2,3:24 PM,5:49,Pollard Free Throw 2 of 2 (1 PTS),,,34 - 49,15
+0020000989,179,6,2,2,3:25 PM,5:41,Barry S.FOUL (P1.T3),,,,
+0020000989,180,3,11,2,3:25 PM,5:41,,,MISS Williamson Free Throw 1 of 2,,
+0020000989,181,4,1,2,3:25 PM,5:41,,,Pistons Rebound,,
+0020000989,182,3,12,2,3:25 PM,5:41,,,MISS Williamson Free Throw 2 of 2,,
+0020000989,183,4,0,2,3:25 PM,5:40,Pollard REBOUND (Off:0 Def:1),,,,
+0020000989,185,2,44,2,3:25 PM,5:29,MISS Divac  Reverse Layup,,,,
+0020000989,186,4,0,2,3:25 PM,5:28,,,Moore REBOUND (Off:0 Def:2),,
+0020000989,187,6,1,2,3:26 PM,5:21,Jackson P.FOUL (P1.T4),,,,
+0020000989,188,1,1,2,3:26 PM,5:13,,,Atkins 24' 3PT Jump Shot (5 PTS) (Stackhouse 3 AST),37 - 49,12
+0020000989,189,2,1,2,3:26 PM,5:00,MISS Pollard 5' Jump Shot,,,,
+0020000989,190,4,0,2,3:26 PM,4:59,,,Atkins REBOUND (Off:0 Def:2),,
+0020000989,192,1,8,2,3:29 PM,4:43,,,Moore  Slam Dunk (8 PTS) (Stackhouse 4 AST),39 - 49,10
+0020000989,193,2,42,2,3:29 PM,4:22,MISS Turkoglu  Driving Layup,,,,
+0020000989,194,4,0,2,3:29 PM,4:20,Jackson REBOUND (Off:1 Def:1),,,,
+0020000989,195,1,1,2,3:29 PM,4:19,Jackson 6' Jump Shot (4 PTS),,,39 - 51,12
+0020000989,196,1,1,2,3:29 PM,4:09,,,Atkins 18' Jump Shot (7 PTS),41 - 51,10
+0020000989,197,2,1,2,3:29 PM,3:57,MISS Pollard 5' Jump Shot,,,,
+0020000989,198,4,0,2,3:29 PM,3:55,Divac REBOUND (Off:2 Def:5),,,,
+0020000989,199,5,2,2,3:29 PM,3:53,Divac Lost Ball Turnover (P5.T13),,Atkins STEAL (2 STL),,
+0020000989,200,6,2,2,3:30 PM,3:50,Jackson S.FOUL (P2.PN),,,,
+0020000989,201,8,0,2,3:30 PM,3:50,SUB: Christie FOR Divac,,,,
+0020000989,202,8,0,2,3:30 PM,3:50,SUB: Webber FOR Turkoglu,,,,
+0020000989,203,8,0,2,3:30 PM,3:50,SUB: Stojakovic FOR Barry,,,,
+0020000989,208,8,0,2,3:30 PM,3:50,SUB: Divac FOR Pollard,,,,
+0020000989,204,8,0,2,3:30 PM,3:50,,,SUB: Wallace FOR Curry,,
+0020000989,205,8,0,2,3:30 PM,3:50,,,SUB: Owens FOR Moore,,
+0020000989,206,3,11,2,3:30 PM,3:50,,,Atkins Free Throw 1 of 2 (8 PTS),42 - 51,9
+0020000989,207,3,12,2,3:30 PM,3:50,,,Atkins Free Throw 2 of 2 (9 PTS),43 - 51,8
+0020000989,209,2,1,2,3:31 PM,3:37,MISS Webber 18' Jump Shot,,,,
+0020000989,210,4,0,2,3:31 PM,3:35,Divac REBOUND (Off:3 Def:5),,,,
+0020000989,211,1,5,2,3:31 PM,3:35,Divac  Layup (6 PTS),,,43 - 53,10
+0020000989,213,1,1,2,3:31 PM,3:20,,,Williamson 8' Jump Shot (2 PTS),45 - 53,8
+0020000989,214,1,42,2,3:31 PM,3:13,Jackson  Driving Layup (6 PTS),,,45 - 55,10
+0020000989,216,6,1,2,3:31 PM,3:02,Christie P.FOUL (P2.PN),,,,
+0020000989,218,8,0,2,3:31 PM,3:02,SUB: Williams FOR Jackson,,,,
+0020000989,219,3,11,2,3:31 PM,3:02,,,Stackhouse Free Throw 1 of 2 (13 PTS),46 - 55,9
+0020000989,220,3,12,2,3:32 PM,3:02,,,Stackhouse Free Throw 2 of 2 (14 PTS),47 - 55,8
+0020000989,221,6,1,2,3:32 PM,2:49,,,Owens P.FOUL (P3.T4),,
+0020000989,222,9,1,2,3:32 PM,2:49,KINGS Timeout: Regular (Full 2 Short 0),,,,
+0020000989,224,8,0,2,3:34 PM,2:49,,,SUB: Curry FOR Owens,,
+0020000989,226,2,1,2,3:35 PM,2:43,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000989,227,4,0,2,3:35 PM,2:42,,,Wallace REBOUND (Off:3 Def:3),,
+0020000989,228,1,1,2,3:35 PM,2:23,,,Atkins 25' 3PT Jump Shot (12 PTS) (Stackhouse 5 AST),50 - 55,5
+0020000989,229,6,1,2,3:35 PM,2:06,,,Atkins P.FOUL (P1.PN),,
+0020000989,230,3,11,2,3:36 PM,2:06,Webber Free Throw 1 of 2 (13 PTS),,,50 - 56,6
+0020000989,231,3,12,2,3:36 PM,2:06,Webber Free Throw 2 of 2 (14 PTS),,,50 - 57,7
+0020000989,232,2,1,2,3:37 PM,1:48,,,MISS Atkins 25' 3PT Jump Shot,,
+0020000989,233,4,0,2,3:37 PM,1:46,,,Wallace REBOUND (Off:4 Def:3),,
+0020000989,234,2,1,2,3:37 PM,1:38,,,MISS Stackhouse 24' 3PT Jump Shot,,
+0020000989,235,4,0,2,3:37 PM,1:37,Stojakovic REBOUND (Off:0 Def:3),,,,
+0020000989,236,6,2,2,3:37 PM,1:27,,,Curry S.FOUL (P1.PN),,
+0020000989,237,3,11,2,3:37 PM,1:27,Stojakovic Free Throw 1 of 2 (14 PTS),,,50 - 58,8
+0020000989,238,3,12,2,3:37 PM,1:27,Stojakovic Free Throw 2 of 2 (15 PTS),,,50 - 59,9
+0020000989,239,6,2,2,3:38 PM,1:06,Williams S.FOUL (P1.PN),,,,
+0020000989,240,3,11,2,3:38 PM,1:06,,,MISS Atkins Free Throw 1 of 2,,
+0020000989,241,4,1,2,3:38 PM,1:06,,,Pistons Rebound,,
+0020000989,242,3,12,2,3:38 PM,1:06,,,Atkins Free Throw 2 of 2 (13 PTS),51 - 59,8
+0020000989,243,1,46,2,3:39 PM,0:56,Williams 8' Running Jump Shot (2 PTS),,,51 - 61,10
+0020000989,244,6,2,2,3:39 PM,0:42,Christie S.FOUL (P3.PN),,,,
+0020000989,245,3,11,2,3:39 PM,0:42,,,Williamson Free Throw 1 of 2 (3 PTS),52 - 61,9
+0020000989,246,8,0,2,3:40 PM,0:42,SUB: Turkoglu FOR Christie,,,,
+0020000989,247,3,12,2,3:40 PM,0:42,,,Williamson Free Throw 2 of 2 (4 PTS),53 - 61,8
+0020000989,248,2,1,2,3:40 PM,0:22,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000989,249,4,0,2,3:40 PM,0:20,Divac REBOUND (Off:4 Def:5),,,,
+0020000989,250,5,2,2,3:41 PM,0:05,Williams Lost Ball Turnover (P1.T14),,,,
+0020000989,251,1,1,2,3:41 PM,0:01,,,Atkins 25' 3PT Jump Shot (16 PTS) (Curry 3 AST),56 - 61,5
+0020000989,252,2,1,2,3:41 PM,0:00,MISS Williams 51' 3PT Jump Shot,,,,
+0020000989,254,4,0,2,3:41 PM,0:00,KINGS Rebound,,,,
+0020000989,253,13,0,2,3:41 PM,0:00,,,,56 - 61,5
+0020000989,256,12,0,3,3:59 PM,12:00,,,,56 - 61,5
+0020000989,257,5,2,3,3:59 PM,11:46,Divac Lost Ball Turnover (P6.T15),,Smith STEAL (1 STL),,
+0020000989,258,2,1,3,3:59 PM,11:39,,,MISS Atkins 20' Jump Shot,,
+0020000989,259,4,0,3,3:59 PM,11:38,Christie REBOUND (Off:0 Def:3),,,,
+0020000989,260,2,1,3,3:59 PM,11:33,MISS Williams 18' Jump Shot,,,,
+0020000989,261,4,0,3,4:00 PM,11:32,,,Owens REBOUND (Off:0 Def:1),,
+0020000989,262,2,1,3,4:00 PM,11:17,,,MISS Smith 22' Jump Shot,,
+0020000989,263,4,0,3,4:00 PM,11:16,Christie REBOUND (Off:0 Def:4),,,,
+0020000989,264,2,1,3,4:00 PM,11:09,MISS Webber 19' Jump Shot,,,,
+0020000989,265,4,0,3,4:00 PM,11:07,,,Smith REBOUND (Off:1 Def:2),,
+0020000989,266,2,1,3,4:00 PM,10:57,,,MISS Stackhouse 5' Jump Shot,,
+0020000989,267,4,0,3,4:00 PM,10:55,Christie REBOUND (Off:0 Def:5),,,,
+0020000989,268,6,1,3,4:00 PM,10:51,,,Smith P.FOUL (P4.T1),,
+0020000989,269,2,1,3,4:01 PM,10:47,MISS Christie 25' 3PT Jump Shot,,,,
+0020000989,270,4,0,3,4:01 PM,10:45,,,Owens REBOUND (Off:0 Def:2),,
+0020000989,272,2,44,3,4:01 PM,10:31,,,MISS Wallace  Reverse Layup,,
+0020000989,273,4,0,3,4:01 PM,10:30,,,Wallace REBOUND (Off:5 Def:3),,
+0020000989,274,2,1,3,4:01 PM,10:27,,,MISS Stackhouse 25' 3PT Jump Shot,,
+0020000989,275,4,0,3,4:01 PM,10:24,,,Smith REBOUND (Off:2 Def:2),,
+0020000989,276,1,1,3,4:01 PM,10:18,,,Stackhouse  3PT Jump Shot (17 PTS) (Smith 1 AST),59 - 61,2
+0020000989,277,2,1,3,4:01 PM,10:00,MISS Williams 25' 3PT Jump Shot,,,,
+0020000989,278,4,0,3,4:01 PM,9:58,,,Owens REBOUND (Off:0 Def:3),,
+0020000989,279,5,1,3,4:02 PM,9:40,Stojakovic STEAL (2 STL),,Owens Bad Pass Turnover (P1.T9),,
+0020000989,280,1,1,3,4:02 PM,9:35,Stojakovic 25' 3PT Jump Shot (18 PTS) (Williams 5 AST),,,59 - 64,5
+0020000989,282,2,1,3,4:02 PM,9:15,,,MISS Stackhouse 20' Jump Shot,,
+0020000989,284,4,0,3,4:02 PM,9:14,Webber REBOUND (Off:0 Def:5),,,,
+0020000989,285,2,42,3,4:02 PM,9:09,MISS Divac  Driving Layup,,,,
+0020000989,286,4,0,3,4:02 PM,9:09,,,Pistons Rebound,,
+0020000989,288,2,1,3,4:03 PM,8:57,,,MISS Stackhouse 4' Jump Shot,,
+0020000989,289,4,0,3,4:03 PM,8:56,,,Pistons Rebound,,
+0020000989,290,1,1,3,4:03 PM,8:33,,,Atkins 25' 3PT Jump Shot (19 PTS) (Wallace 3 AST),62 - 64,2
+0020000989,291,1,1,3,4:04 PM,8:15,Christie 18' Jump Shot (7 PTS) (Williams 6 AST),,,62 - 66,4
+0020000989,292,2,1,3,4:04 PM,7:54,,,MISS Stackhouse 25' 3PT Jump Shot,,
+0020000989,293,4,0,3,4:04 PM,7:53,,,Wallace REBOUND (Off:6 Def:3),,
+0020000989,294,5,1,3,4:04 PM,7:52,Christie STEAL (4 STL),,Wallace Bad Pass Turnover (P2.T10),,
+0020000989,295,2,42,3,4:04 PM,7:48,MISS Christie  Driving Layup,,Stackhouse BLOCK (1 BLK),,
+0020000989,296,4,0,3,4:04 PM,7:47,KINGS Rebound,,,,
+0020000989,297,1,61,3,4:05 PM,7:41,Williams 5' Driving Finger Roll (4 PTS),,,62 - 68,6
+0020000989,298,5,2,3,4:05 PM,7:21,Divac STEAL (1 STL),,Smith Lost Ball Turnover (P2.T11),,
+0020000989,299,1,1,3,4:05 PM,7:17,Williams 25' 3PT Jump Shot (7 PTS),,,62 - 71,9
+0020000989,300,1,1,3,4:05 PM,6:56,,,Atkins 20' Jump Shot (21 PTS),64 - 71,7
+0020000989,301,2,1,3,4:06 PM,6:44,MISS Stojakovic 21' Jump Shot,,,,
+0020000989,302,4,0,3,4:06 PM,6:43,,,Wallace REBOUND (Off:6 Def:4),,
+0020000989,303,5,2,3,4:06 PM,6:32,Williams STEAL (1 STL),,Atkins Lost Ball Turnover (P3.T12),,
+0020000989,304,1,42,3,4:06 PM,6:29,Williams  Driving Layup (9 PTS) (Webber 5 AST),,,64 - 73,9
+0020000989,305,2,1,3,4:06 PM,6:06,,,MISS Atkins 25' 3PT Jump Shot,,
+0020000989,306,4,0,3,4:06 PM,6:04,,,Smith REBOUND (Off:3 Def:2),,
+0020000989,307,2,1,3,4:06 PM,5:56,,,MISS Owens  3PT Jump Shot,,
+0020000989,308,4,0,3,4:06 PM,5:54,Webber REBOUND (Off:0 Def:6),,,,
+0020000989,309,9,1,3,4:07 PM,5:46,KINGS Timeout: Regular (Full 3 Short 0),,,,
+0020000989,311,8,0,3,4:09 PM,5:46,,,SUB: Williamson FOR Smith,,
+0020000989,312,2,1,3,4:09 PM,5:35,MISS Webber 8' Jump Shot,,,,
+0020000989,313,4,0,3,4:09 PM,5:33,KINGS Rebound,,,,
+0020000989,314,5,11,3,4:09 PM,5:30,KINGS Turnover: Shot Clock (T#16),,,,
+0020000989,315,2,1,3,4:10 PM,5:16,,,MISS Wallace 6' Jump Shot,,
+0020000989,317,4,0,3,4:10 PM,5:15,,,Williamson REBOUND (Off:1 Def:0),,
+0020000989,316,1,4,3,4:10 PM,5:15,,,Williamson  Tip Shot (6 PTS),66 - 73,7
+0020000989,318,1,1,3,4:10 PM,4:57,Webber 19' Jump Shot (16 PTS),,,66 - 75,9
+0020000989,319,1,1,3,4:10 PM,4:51,,,Williamson 18' Jump Shot (8 PTS) (Atkins 1 AST),68 - 75,7
+0020000989,320,2,1,3,4:11 PM,4:32,MISS Webber 8' Jump Shot,,Wallace BLOCK (2 BLK),,
+0020000989,321,4,0,3,4:11 PM,4:31,,,Wallace REBOUND (Off:6 Def:5),,
+0020000989,322,1,42,3,4:11 PM,4:21,,,Williamson  Driving Layup (10 PTS),70 - 75,5
+0020000989,323,5,1,3,4:11 PM,4:00,Divac Bad Pass Turnover (P7.T17),,,,
+0020000989,325,2,1,3,4:12 PM,3:47,,,MISS Stackhouse 21' Jump Shot,,
+0020000989,327,4,0,3,4:12 PM,3:46,,,Owens REBOUND (Off:1 Def:3),,
+0020000989,326,2,4,3,4:12 PM,3:46,,,MISS Owens  Tip Shot,,
+0020000989,328,4,0,3,4:12 PM,3:45,Webber REBOUND (Off:0 Def:7),,,,
+0020000989,329,2,1,3,4:12 PM,3:34,MISS Williams 8' Jump Shot,,,,
+0020000989,330,4,0,3,4:12 PM,3:33,,,Atkins REBOUND (Off:0 Def:3),,
+0020000989,331,6,2,3,4:12 PM,3:30,Webber S.FOUL (P2.T1),,,,
+0020000989,332,3,11,3,4:12 PM,3:30,,,Atkins Free Throw 1 of 2 (22 PTS),71 - 75,4
+0020000989,333,8,0,3,4:12 PM,3:30,SUB: Pollard FOR Divac,,,,
+0020000989,334,3,12,3,4:12 PM,3:30,,,Atkins Free Throw 2 of 2 (23 PTS),72 - 75,3
+0020000989,335,2,1,3,4:13 PM,3:08,MISS Webber 17' Jump Shot,,,,
+0020000989,336,4,0,3,4:13 PM,3:06,,,Wallace REBOUND (Off:6 Def:6),,
+0020000989,337,2,1,3,4:13 PM,2:56,,,MISS Williamson 10' Jump Shot,,
+0020000989,339,4,0,3,4:13 PM,2:54,,,Wallace REBOUND (Off:7 Def:6),,
+0020000989,338,1,7,3,4:13 PM,2:54,,,Wallace  Dunk (4 PTS),74 - 75,1
+0020000989,340,1,1,3,4:13 PM,2:41,Webber 16' Jump Shot (18 PTS) (Christie 2 AST),,,74 - 77,3
+0020000989,342,9,1,3,4:14 PM,2:30,,,Pistons Timeout: Regular (Reg.3 Short 0),,
+0020000989,343,1,1,3,4:16 PM,2:22,,,Stackhouse 25' 3PT Jump Shot (20 PTS),77 - 77,TIE
+0020000989,344,2,1,3,4:16 PM,2:04,MISS Williams 25' 3PT Jump Shot,,,,
+0020000989,345,4,0,3,4:16 PM,2:02,,,Stackhouse REBOUND (Off:1 Def:2),,
+0020000989,346,2,1,3,4:16 PM,1:56,Webber BLOCK (1 BLK),,MISS Stackhouse 5' Jump Shot,,
+0020000989,347,4,0,3,4:16 PM,1:54,Christie REBOUND (Off:0 Def:6),,,,
+0020000989,348,2,1,3,4:16 PM,1:50,MISS Christie 6' Jump Shot,,,,
+0020000989,349,4,0,3,4:17 PM,1:47,,,Owens REBOUND (Off:1 Def:4),,
+0020000989,350,1,7,3,4:17 PM,1:44,,,Stackhouse  Dunk (22 PTS) (Atkins 2 AST),79 - 77,-2
+0020000989,351,1,58,3,4:17 PM,1:26,Webber 7' Turnaround Hook Shot (20 PTS),,,79 - 79,TIE
+0020000989,352,6,1,3,4:18 PM,1:14,Christie P.FOUL (P4.T2),,,,
+0020000989,353,8,0,3,4:18 PM,1:14,SUB: Turkoglu FOR Christie,,,,
+0020000989,354,8,0,3,4:18 PM,1:14,SUB: Jackson FOR Williams,,,,
+0020000989,355,2,1,3,4:18 PM,1:06,,,MISS Atkins 20' Jump Shot,,
+0020000989,356,4,0,3,4:18 PM,1:04,,,Wallace REBOUND (Off:8 Def:6),,
+0020000989,357,2,1,3,4:18 PM,1:01,,,MISS Stackhouse 10' Jump Shot,,
+0020000989,359,4,0,3,4:18 PM,0:59,,,Owens REBOUND (Off:2 Def:4),,
+0020000989,358,2,53,3,4:18 PM,0:59,,,MISS Owens  Tip Shot,,
+0020000989,361,4,0,3,4:18 PM,0:58,,,Owens REBOUND (Off:3 Def:4),,
+0020000989,360,2,53,3,4:18 PM,0:58,,,MISS Owens  Tip Shot,,
+0020000989,363,4,0,3,4:18 PM,0:57,,,Owens REBOUND (Off:4 Def:4),,
+0020000989,362,2,53,3,4:18 PM,0:57,,,MISS Owens  Tip Shot,,
+0020000989,364,4,0,3,4:18 PM,0:55,,,Williamson REBOUND (Off:2 Def:0),,
+0020000989,365,1,3,3,4:18 PM,0:55,,,Williamson 7' Hook Shot (12 PTS),81 - 79,-2
+0020000989,366,6,1,3,4:19 PM,0:40,,,Wallace P.FOUL (P1.T2),,
+0020000989,367,1,1,3,4:19 PM,0:40,Webber 7' Jump Shot (22 PTS),,,81 - 81,TIE
+0020000989,368,6,2,3,4:19 PM,0:40,,,Wallace S.FOUL (P2.PN),,
+0020000989,369,3,10,3,4:19 PM,0:40,Webber Free Throw 1 of 1 (23 PTS),,,81 - 82,1
+0020000989,370,2,1,3,4:20 PM,0:29,,,MISS Williamson 11' Jump Shot,,
+0020000989,371,4,0,3,4:20 PM,0:28,,,Pistons Rebound,,
+0020000989,372,6,3,3,4:20 PM,0:28,Jackson L.B.FOUL (P3.PN),,,,
+0020000989,373,3,11,3,4:20 PM,0:28,,,MISS Wallace Free Throw 1 of 2,,
+0020000989,374,4,1,3,4:20 PM,0:28,,,Pistons Rebound,,
+0020000989,375,8,0,3,4:20 PM,0:28,,,SUB: Cleaves FOR Atkins,,
+0020000989,376,3,12,3,4:21 PM,0:28,,,MISS Wallace Free Throw 2 of 2,,
+0020000989,377,4,0,3,4:21 PM,0:28,,,Owens REBOUND (Off:5 Def:4),,
+0020000989,378,2,1,3,4:21 PM,0:05,,,MISS Wallace 5' Jump Shot,,
+0020000989,379,4,0,3,4:21 PM,0:03,Webber REBOUND (Off:0 Def:8),,,,
+0020000989,380,5,2,3,4:21 PM,0:02,Webber Lost Ball Turnover (P6.T18),,Owens STEAL (2 STL),,
+0020000989,381,5,15,3,4:21 PM,0:01,,,Wallace Offensive Goaltending Turnover (P3.T13),,
+0020000989,382,1,1,3,4:21 PM,0:00,Stojakovic 35' 3PT Jump Shot (21 PTS) (Pollard 1 AST),,,81 - 85,4
+0020000989,383,13,0,3,4:22 PM,0:00,,,,81 - 85,4
+0020000989,385,12,0,4,4:24 PM,12:00,,,,81 - 85,4
+0020000989,386,2,1,4,4:25 PM,11:40,,,MISS Cleaves 13' Jump Shot,,
+0020000989,387,4,0,4,4:25 PM,11:38,KINGS Rebound,,,,
+0020000989,388,6,3,4,4:25 PM,11:38,,,Owens L.B.FOUL (P4.T1),,
+0020000989,389,2,1,4,4:25 PM,11:22,MISS Stojakovic 26' 3PT Jump Shot,,,,
+0020000989,390,4,0,4,4:25 PM,11:20,,,Williamson REBOUND (Off:2 Def:1),,
+0020000989,391,6,3,4,4:25 PM,11:18,Pollard L.B.FOUL (P2.T1),,,,
+0020000989,392,8,0,4,4:25 PM,11:18,,,SUB: Curry FOR Owens,,
+0020000989,393,2,45,4,4:26 PM,10:59,Pollard BLOCK (1 BLK),,MISS Wallace 4' Jump Shot,,
+0020000989,394,4,0,4,4:26 PM,10:57,Jackson REBOUND (Off:1 Def:2),,,,
+0020000989,395,1,42,4,4:26 PM,10:54,Jackson  Driving Layup (8 PTS),,,81 - 87,6
+0020000989,396,1,1,4,4:26 PM,10:44,,,Stackhouse 26' 3PT Jump Shot (25 PTS) (Cleaves 4 AST),84 - 87,3
+0020000989,397,1,1,4,4:26 PM,10:28,Webber 20' Jump Shot (25 PTS) (Jackson 1 AST),,,84 - 89,5
+0020000989,398,2,1,4,4:27 PM,10:15,,,MISS Stackhouse  3PT Jump Shot,,
+0020000989,399,4,0,4,4:27 PM,10:13,Jackson REBOUND (Off:1 Def:3),,,,
+0020000989,400,2,1,4,4:27 PM,10:05,MISS Jackson 26' 3PT Jump Shot,,,,
+0020000989,401,4,0,4,4:27 PM,10:04,,,Wallace REBOUND (Off:8 Def:7),,
+0020000989,402,2,1,4,4:27 PM,9:48,,,MISS Williamson 20' Jump Shot,,
+0020000989,403,4,0,4,4:27 PM,9:45,Jackson REBOUND (Off:1 Def:4),,,,
+0020000989,404,5,2,4,4:27 PM,9:41,Turkoglu Lost Ball Turnover (P1.T19),,,,
+0020000989,405,8,0,4,4:27 PM,9:41,,,SUB: Smith FOR Wallace,,
+0020000989,406,2,1,4,4:28 PM,9:28,,,MISS Williamson 17' Jump Shot,,
+0020000989,407,4,0,4,4:28 PM,9:27,Webber REBOUND (Off:0 Def:9),,,,
+0020000989,408,5,1,4,4:28 PM,9:20,Jackson Bad Pass Turnover (P2.T20),,Williamson STEAL (1 STL),,
+0020000989,409,5,1,4,4:28 PM,9:16,,,Cleaves Bad Pass Turnover (P2.T14),,
+0020000989,410,1,1,4,4:28 PM,9:03,Webber 19' Jump Shot (27 PTS) (Stojakovic 1 AST),,,84 - 91,7
+0020000989,411,9,1,4,4:28 PM,9:00,,,Pistons Timeout: Regular (Reg.4 Short 0),,
+0020000989,413,8,0,4,4:30 PM,9:00,SUB: Christie FOR Stojakovic,,,,
+0020000989,414,5,1,4,4:30 PM,8:50,Turkoglu STEAL (1 STL),,Stackhouse Bad Pass Turnover (P3.T15),,
+0020000989,415,2,42,4,4:31 PM,8:45,MISS Jackson  Driving Layup,,Stackhouse BLOCK (2 BLK),,
+0020000989,416,4,0,4,4:31 PM,8:43,,,Williamson REBOUND (Off:2 Def:2),,
+0020000989,417,1,1,4,4:31 PM,8:37,,,Stackhouse 25' 3PT Jump Shot (28 PTS) (Williamson 1 AST),87 - 91,4
+0020000989,418,2,1,4,4:31 PM,8:12,MISS Turkoglu 10' Jump Shot,,,,
+0020000989,419,4,0,4,4:31 PM,8:10,KINGS Rebound,,,,
+0020000989,420,2,1,4,4:32 PM,7:56,MISS Christie 25' 3PT Jump Shot,,,,
+0020000989,421,4,0,4,4:32 PM,7:55,,,Pistons Rebound,,
+0020000989,422,2,1,4,4:32 PM,7:43,,,MISS Stackhouse 25' 3PT Jump Shot,,
+0020000989,423,4,0,4,4:32 PM,7:41,Webber REBOUND (Off:0 Def:10),,,,
+0020000989,424,2,1,4,4:33 PM,7:17,MISS Turkoglu 19' Jump Shot,,,,
+0020000989,425,4,0,4,4:33 PM,7:16,,,Williamson REBOUND (Off:2 Def:3),,
+0020000989,426,2,1,4,4:33 PM,7:08,,,MISS Cleaves 24' 3PT Jump Shot,,
+0020000989,427,4,0,4,4:33 PM,7:05,,,Smith REBOUND (Off:4 Def:2),,
+0020000989,428,6,1,4,4:34 PM,6:53,Pollard P.FOUL (P3.T2),,,,
+0020000989,429,8,0,4,4:34 PM,6:53,,,SUB: Wallace FOR Williamson,,
+0020000989,430,2,1,4,4:34 PM,6:43,,,MISS Stackhouse 19' Jump Shot,,
+0020000989,431,4,0,4,4:34 PM,6:41,Webber REBOUND (Off:0 Def:11),,,,
+0020000989,432,6,1,4,4:34 PM,6:26,,,Cleaves P.FOUL (P1.T2),,
+0020000989,433,8,0,4,4:35 PM,6:26,SUB: Stojakovic FOR Turkoglu,,,,
+0020000989,434,2,1,4,4:35 PM,6:14,MISS Webber 9' Jump Shot,,,,
+0020000989,435,4,0,4,4:35 PM,6:12,Pollard REBOUND (Off:1 Def:1),,,,
+0020000989,436,1,44,4,4:35 PM,6:11,Pollard  Reverse Layup (3 PTS),,,87 - 93,6
+0020000989,437,6,2,4,4:35 PM,5:53,Pollard S.FOUL (P4.T3),,,,
+0020000989,438,9,4,4,4:36 PM,5:53,,,,,
+0020000989,440,3,11,4,4:38 PM,5:53,,,Stackhouse Free Throw 1 of 2 (29 PTS),88 - 93,5
+0020000989,441,3,12,4,4:38 PM,5:53,,,MISS Stackhouse Free Throw 2 of 2,,
+0020000989,442,4,0,4,4:38 PM,5:52,Webber REBOUND (Off:0 Def:12),,,,
+0020000989,443,6,1,4,4:38 PM,5:37,,,Curry P.FOUL (P2.T3),,
+0020000989,444,2,1,4,4:39 PM,5:23,MISS Webber 23' Jump Shot,,,,
+0020000989,445,4,0,4,4:39 PM,5:21,,,Wallace REBOUND (Off:8 Def:8),,
+0020000989,446,5,1,4,4:39 PM,5:05,Christie STEAL (5 STL),,Wallace Bad Pass Turnover (P4.T16),,
+0020000989,447,2,1,4,4:39 PM,4:57,MISS Webber 15' Jump Shot,,,,
+0020000989,448,4,0,4,4:39 PM,4:56,,,Wallace REBOUND (Off:8 Def:9),,
+0020000989,449,6,1,4,4:40 PM,4:51,Stojakovic P.FOUL (P2.T4),,,,
+0020000989,450,2,1,4,4:40 PM,4:43,,,MISS Cleaves 20' Jump Shot,,
+0020000989,451,4,0,4,4:40 PM,4:41,Christie REBOUND (Off:0 Def:7),,,,
+0020000989,452,2,45,4,4:40 PM,4:24,MISS Pollard 6' Jump Shot,,Wallace BLOCK (3 BLK),,
+0020000989,453,4,0,4,4:40 PM,4:23,,,Smith REBOUND (Off:4 Def:3),,
+0020000989,454,6,2,4,4:40 PM,4:13,Pollard S.FOUL (P5.PN),,,,
+0020000989,455,8,0,4,4:41 PM,4:13,,,SUB: Atkins FOR Curry,,
+0020000989,456,8,0,4,4:41 PM,4:13,,,SUB: Williamson FOR Cleaves,,
+0020000989,457,3,11,4,4:41 PM,4:13,,,MISS Wallace Free Throw 1 of 2,,
+0020000989,458,4,1,4,4:41 PM,4:13,,,Pistons Rebound,,
+0020000989,459,8,0,4,4:41 PM,4:13,SUB: Divac FOR Pollard,,,,
+0020000989,460,3,12,4,4:41 PM,4:13,,,MISS Wallace Free Throw 2 of 2,,
+0020000989,461,4,0,4,4:41 PM,4:12,Webber REBOUND (Off:0 Def:13),,,,
+0020000989,462,2,1,4,4:41 PM,3:56,MISS Stojakovic 22' Jump Shot,,,,
+0020000989,463,4,0,4,4:41 PM,3:53,,,Wallace REBOUND (Off:8 Def:10),,
+0020000989,464,2,1,4,4:42 PM,3:46,,,MISS Stackhouse 3' Jump Shot,,
+0020000989,465,4,0,4,4:42 PM,3:45,Christie REBOUND (Off:0 Def:8),,,,
+0020000989,466,10,0,4,4:42 PM,3:44,Jump Ball Christie vs. Smith: Tip to Stojakovic,,,,
+0020000989,467,2,1,4,4:42 PM,3:29,MISS Webber 19' Jump Shot,,,,
+0020000989,468,4,0,4,4:42 PM,3:26,,,Smith REBOUND (Off:4 Def:4),,
+0020000989,469,1,1,4,4:43 PM,3:21,,,Atkins 18' Jump Shot (25 PTS) (Smith 2 AST),90 - 93,3
+0020000989,470,1,46,4,4:43 PM,3:00,Stojakovic 8' Running Jump Shot (23 PTS),,,90 - 95,5
+0020000989,472,1,5,4,4:43 PM,2:40,,,Williamson 3' Layup (14 PTS),92 - 95,3
+0020000989,474,1,1,4,4:45 PM,2:17,Webber 14' Jump Shot (29 PTS) (Christie 3 AST),,,92 - 97,5
+0020000989,476,2,1,4,4:45 PM,2:04,,,MISS Smith 17' Jump Shot,,
+0020000989,477,4,0,4,4:45 PM,2:02,Webber REBOUND (Off:0 Def:14),,,,
+0020000989,478,2,3,4,4:45 PM,1:48,MISS Webber 8' Hook Shot,,Wallace BLOCK (4 BLK),,
+0020000989,479,4,0,4,4:45 PM,1:46,Webber REBOUND (Off:1 Def:14),,,,
+0020000989,480,1,1,4,4:45 PM,1:42,Jackson 13' Jump Shot (10 PTS) (Webber 6 AST),,,92 - 99,7
+0020000989,481,6,1,4,4:46 PM,1:21,Christie P.FOUL (P5.PN),,,,
+0020000989,482,9,1,4,4:46 PM,1:21,KINGS Timeout: Regular (Full 4 Short 0),,,,
+0020000989,483,3,11,4,4:48 PM,1:21,,,Stackhouse Free Throw 1 of 2 (30 PTS),93 - 99,6
+0020000989,484,3,12,4,4:48 PM,1:21,,,Stackhouse Free Throw 2 of 2 (31 PTS),94 - 99,5
+0020000989,485,1,49,4,4:49 PM,1:09,Divac  Driving Dunk (8 PTS) (Webber 7 AST),,,94 - 101,7
+0020000989,486,2,44,4,4:49 PM,1:03,,,MISS Stackhouse  Reverse Layup,,
+0020000989,487,4,0,4,4:49 PM,1:01,Divac REBOUND (Off:4 Def:6),,,,
+0020000989,488,5,1,4,4:49 PM,0:57,Christie Bad Pass Turnover (P2.T21),,,,
+0020000989,489,2,1,4,4:49 PM,0:46,,,MISS Atkins 8' Jump Shot,,
+0020000989,491,4,0,4,4:49 PM,0:45,,,Wallace REBOUND (Off:9 Def:10),,
+0020000989,490,1,4,4,4:49 PM,0:45,,,Wallace  Tip Shot (6 PTS),96 - 101,5
+0020000989,492,6,1,4,4:49 PM,0:41,,,Atkins P.FOUL (P2.T4),,
+0020000989,493,6,1,4,4:50 PM,0:39,,,Williamson P.FOUL (P2.PN),,
+0020000989,494,3,11,4,4:50 PM,0:39,Stojakovic Free Throw 1 of 2 (24 PTS),,,96 - 102,6
+0020000989,495,3,12,4,4:50 PM,0:39,Stojakovic Free Throw 2 of 2 (25 PTS),,,96 - 103,7
+0020000989,496,9,1,4,4:51 PM,0:39,,,Pistons Timeout: Regular (Reg.5 Short 0),,
+0020000989,498,8,0,4,4:52 PM,0:39,,,SUB: Owens FOR Wallace,,
+0020000989,500,2,1,4,4:53 PM,0:34,,,MISS Atkins 18' Jump Shot,,
+0020000989,501,4,0,4,4:53 PM,0:32,Christie REBOUND (Off:0 Def:9),,,,
+0020000989,502,2,1,4,4:53 PM,0:09,MISS Jackson  3PT Jump Shot,,,,
+0020000989,503,4,0,4,4:53 PM,0:07,,,Owens REBOUND (Off:5 Def:5),,
+0020000989,504,1,42,4,4:53 PM,0:03,,,Atkins  Driving Layup (27 PTS),98 - 103,5
+0020000989,505,13,0,4,4:53 PM,0:00,,,,98 - 103,5

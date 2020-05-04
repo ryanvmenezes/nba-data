@@ -1,0 +1,477 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000123,0,12,0,1,7:12 PM,12:00,,,,,
+0021000123,1,10,0,1,7:12 PM,12:00,Jump Ball Howard vs. Bargnani: Tip to Nelson,,,,
+0021000123,2,1,42,1,7:13 PM,11:46,Carter 1' Driving Layup (2 PTS) (Howard 1 AST),,,0 - 2,2
+0021000123,3,1,1,1,7:14 PM,11:26,,,Jack 24' 3PT Jump Shot (3 PTS) (Weems 1 AST),3 - 2,-1
+0021000123,4,1,42,1,7:14 PM,11:06,Lewis 1' Driving Layup (2 PTS) (Carter 1 AST),,,3 - 4,1
+0021000123,5,1,1,1,7:14 PM,10:43,,,Weems 21' Jump Shot (2 PTS),5 - 4,-1
+0021000123,7,1,1,1,7:15 PM,10:25,Nelson  3PT Jump Shot (3 PTS) (Carter 2 AST),,,5 - 7,2
+0021000123,8,2,47,1,7:15 PM,10:07,,,MISS Bargnani 13' Turnaround Jump Shot,,
+0021000123,9,4,0,1,7:15 PM,10:06,Richardson REBOUND (Off:0 Def:1),,,,
+0021000123,10,1,42,1,7:15 PM,10:00,Nelson  Driving Layup (5 PTS),,,5 - 9,4
+0021000123,11,9,1,1,7:15 PM,9:52,,,Raptors Timeout: Regular (Reg.1 Short 0),,
+0021000123,13,1,47,1,7:18 PM,9:47,,,DeRozan 10' Turnaround Jump Shot (2 PTS),7 - 9,2
+0021000123,14,2,1,1,7:18 PM,9:27,MISS Richardson  3PT Jump Shot,,,,
+0021000123,15,4,0,1,7:19 PM,9:26,,,Jack REBOUND (Off:0 Def:1),,
+0021000123,16,2,1,1,7:19 PM,9:15,,,MISS DeRozan 18' Jump Shot,,
+0021000123,17,4,0,1,7:19 PM,9:14,,,Evans REBOUND (Off:1 Def:0),,
+0021000123,18,2,44,1,7:19 PM,9:09,,,MISS Evans 2' Reverse Layup,,
+0021000123,19,4,0,1,7:19 PM,9:08,Howard REBOUND (Off:0 Def:1),,,,
+0021000123,20,2,66,1,7:19 PM,8:55,MISS Howard 12' Jump Bank Shot,,,,
+0021000123,21,4,0,1,7:19 PM,8:54,,,Jack REBOUND (Off:0 Def:2),,
+0021000123,22,1,1,1,7:19 PM,8:46,,,Jack 10' Jump Shot (5 PTS),9 - 9,TIE
+0021000123,23,2,1,1,7:19 PM,8:32,MISS Richardson 25' 3PT Jump Shot,,,,
+0021000123,25,4,0,1,7:19 PM,8:29,Lewis REBOUND (Off:1 Def:0),,,,
+0021000123,24,2,4,1,7:19 PM,8:29,MISS Lewis 2' Tip Shot,,,,
+0021000123,26,4,0,1,7:19 PM,8:28,,,Evans REBOUND (Off:1 Def:1),,
+0021000123,27,1,1,1,7:20 PM,8:20,,,Bargnani 13' Jump Shot (2 PTS),11 - 9,-2
+0021000123,28,6,1,1,7:20 PM,8:07,,,Jack P.FOUL (P1.T1),,
+0021000123,29,2,1,1,7:20 PM,7:56,MISS Nelson 25' 3PT Jump Shot,,,,
+0021000123,30,4,0,1,7:20 PM,7:55,,,Jack REBOUND (Off:0 Def:3),,
+0021000123,31,1,65,1,7:21 PM,7:47,,,Bargnani 8' Jump Hook Shot (4 PTS) (Weems 2 AST),13 - 9,-4
+0021000123,32,9,1,1,7:21 PM,7:41,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0021000123,37,2,42,1,7:24 PM,7:28,MISS Carter 1' Driving Layup,,,,
+0021000123,44,4,0,1,7:24 PM,7:26,Howard REBOUND (Off:1 Def:1),,,,
+0021000123,47,2,53,1,7:24 PM,7:26,MISS Howard 2' Tip Shot,,,,
+0021000123,38,4,0,1,7:24 PM,7:25,,,Evans REBOUND (Off:1 Def:2),,
+0021000123,39,2,79,1,7:24 PM,7:06,,,MISS Jack 19' Pullup Jump Shot,,
+0021000123,40,4,0,1,7:24 PM,7:05,Richardson REBOUND (Off:0 Def:2),,,,
+0021000123,41,5,1,1,7:24 PM,6:58,Nelson Bad Pass Turnover (P1.T1),,Evans STEAL (1 STL),,
+0021000123,42,2,47,1,7:25 PM,6:45,,,MISS Bargnani 12' Turnaround Jump Shot,,
+0021000123,43,4,0,1,7:25 PM,6:44,Howard REBOUND (Off:1 Def:2),,,,
+0021000123,45,6,17,1,7:25 PM,6:35,,,Raptors T.Foul (Def. 3 Sec Bargnani ),,
+0021000123,46,3,16,1,7:25 PM,6:35,Carter Free Throw Technical (3 PTS),,,13 - 10,-3
+0021000123,49,1,5,1,7:26 PM,6:25,Howard 1' Layup (2 PTS) (Nelson 1 AST),,,13 - 12,-1
+0021000123,51,5,1,1,7:26 PM,6:07,,,Weems Bad Pass Turnover (P1.T1),,
+0021000123,53,1,1,1,7:26 PM,5:55,Richardson  3PT Jump Shot (3 PTS) (Nelson 2 AST),,,13 - 15,2
+0021000123,55,6,2,1,7:27 PM,5:29,Richardson S.FOUL (P1.T1),,,,
+0021000123,56,3,13,1,7:27 PM,5:29,,,DeRozan Free Throw 1 of 3 (3 PTS),14 - 15,1
+0021000123,58,3,14,1,7:27 PM,5:29,,,DeRozan Free Throw 2 of 3 (4 PTS),15 - 15,TIE
+0021000123,60,3,15,1,7:28 PM,5:29,,,DeRozan Free Throw 3 of 3 (5 PTS),16 - 15,-1
+0021000123,62,5,1,1,7:28 PM,5:15,Lewis Bad Pass Turnover (P1.T2),,Weems STEAL (1 STL),,
+0021000123,63,1,79,1,7:28 PM,5:06,,,Bargnani 22' Pullup Jump Shot (6 PTS),18 - 15,-3
+0021000123,64,6,1,1,7:29 PM,4:53,,,Evans P.FOUL (P1.T2),,
+0021000123,65,2,1,1,7:29 PM,4:45,MISS Richardson  3PT Jump Shot,,,,
+0021000123,66,4,0,1,7:29 PM,4:43,Howard REBOUND (Off:2 Def:2),,,,
+0021000123,67,1,48,1,7:29 PM,4:42,Howard 1' Dunk (4 PTS),,,18 - 17,-1
+0021000123,70,8,0,1,7:30 PM,4:25,,,SUB: Wright FOR Weems,,
+0021000123,72,2,1,1,7:30 PM,4:14,,,MISS DeRozan 24' 3PT Jump Shot,,
+0021000123,73,4,0,1,7:30 PM,4:13,Lewis REBOUND (Off:1 Def:1),,,,
+0021000123,74,2,5,1,7:30 PM,4:02,MISS Howard 1' Layup,,,,
+0021000123,76,4,0,1,7:30 PM,4:00,Richardson REBOUND (Off:1 Def:2),,,,
+0021000123,75,1,4,1,7:30 PM,4:00,Richardson 2' Tip Shot (5 PTS),,,18 - 19,1
+0021000123,77,6,26,1,7:31 PM,3:42,,,Jack Offensive Charge Foul (P2.T3),,
+0021000123,78,5,5,1,7:31 PM,3:42,,,Jack Foul Turnover (P1.T2),,
+0021000123,79,8,0,1,7:31 PM,3:42,,,SUB: Johnson FOR Evans,,
+0021000123,80,8,0,1,7:31 PM,3:42,SUB: Redick FOR Carter,,,,
+0021000123,81,2,1,1,7:31 PM,3:33,MISS Lewis 21' Jump Shot,,,,
+0021000123,82,4,0,1,7:31 PM,3:32,,,DeRozan REBOUND (Off:0 Def:1),,
+0021000123,83,1,1,1,7:31 PM,3:24,,,Jack 15' Jump Shot (7 PTS),20 - 19,-1
+0021000123,84,1,1,1,7:32 PM,3:12,Richardson 24' 3PT Jump Shot (8 PTS) (Nelson 3 AST),,,20 - 22,2
+0021000123,85,1,8,1,7:32 PM,2:59,,,Johnson 1' Slam Dunk (2 PTS) (Jack 1 AST),22 - 22,TIE
+0021000123,86,9,2,1,7:32 PM,2:51,MAGIC Timeout: Short (Full 1 Short 1),,,,
+0021000123,88,1,42,1,7:33 PM,2:35,Nelson 1' Driving Layup (7 PTS),,,22 - 24,2
+0021000123,89,6,2,1,7:33 PM,2:35,,,Bargnani S.FOUL (P1.T4),,
+0021000123,90,8,0,1,7:34 PM,2:35,,,SUB: Calderon FOR Jack,,
+0021000123,91,8,0,1,7:34 PM,2:35,SUB: Bass FOR Lewis,,,,
+0021000123,92,3,10,1,7:34 PM,2:35,Nelson Free Throw 1 of 1 (8 PTS),,,22 - 25,3
+0021000123,94,1,1,1,7:34 PM,2:24,,,Bargnani 21' Jump Shot (8 PTS) (DeRozan 1 AST),24 - 25,1
+0021000123,95,2,1,1,7:34 PM,2:08,MISS Richardson  3PT Jump Shot,,,,
+0021000123,96,4,0,1,7:35 PM,2:07,,,Bargnani REBOUND (Off:0 Def:1),,
+0021000123,97,6,2,1,7:35 PM,2:00,Richardson S.FOUL (P2.T2),,,,
+0021000123,99,8,0,1,7:35 PM,2:00,SUB: Pietrus FOR Richardson,,,,
+0021000123,100,3,11,1,7:35 PM,2:00,,,Johnson Free Throw 1 of 2 (3 PTS),25 - 25,TIE
+0021000123,102,3,12,1,7:35 PM,2:00,,,Johnson Free Throw 2 of 2 (4 PTS),26 - 25,-1
+0021000123,104,1,1,1,7:36 PM,1:43,Nelson  3PT Jump Shot (11 PTS) (Redick 1 AST),,,26 - 28,2
+0021000123,105,1,1,1,7:36 PM,1:33,,,Johnson 21' Jump Shot (6 PTS) (Calderon 1 AST),28 - 28,TIE
+0021000123,106,6,2,1,7:36 PM,1:20,,,Johnson S.FOUL (P1.PN),,
+0021000123,107,8,0,1,7:37 PM,1:20,SUB: Duhon FOR Nelson,,,,
+0021000123,108,3,11,1,7:37 PM,1:20,MISS Howard Free Throw 1 of 2,,,,
+0021000123,109,4,1,1,7:37 PM,1:20,MAGIC Rebound,,,,
+0021000123,110,3,12,1,7:37 PM,1:20,MISS Howard Free Throw 2 of 2,,,,
+0021000123,112,4,0,1,7:37 PM,1:18,,,Wright REBOUND (Off:0 Def:1),,
+0021000123,113,1,1,1,7:38 PM,1:07,,,Johnson 22' Jump Shot (8 PTS) (Calderon 2 AST),30 - 28,-2
+0021000123,114,5,4,1,7:38 PM,0:56,Bass Traveling Turnover (P1.T3),,,,
+0021000123,115,8,0,1,7:38 PM,0:56,,,SUB: Dorsey FOR DeRozan,,
+0021000123,116,8,0,1,7:38 PM,0:56,,,SUB: Weems FOR Bargnani,,
+0021000123,117,2,1,1,7:39 PM,0:32,,,MISS Johnson 14' Jump Shot,,
+0021000123,118,4,0,1,7:39 PM,0:31,Duhon REBOUND (Off:0 Def:1),,,,
+0021000123,119,1,1,1,7:39 PM,0:23,Pietrus 25' 3PT Jump Shot (3 PTS) (Bass 1 AST),,,30 - 31,1
+0021000123,120,6,2,1,7:39 PM,0:02,Pietrus S.FOUL (P1.PN),,,,
+0021000123,121,3,11,1,7:40 PM,0:02,,,MISS Dorsey Free Throw 1 of 2,,
+0021000123,122,4,1,1,7:40 PM,0:02,,,Raptors Rebound,,
+0021000123,123,3,12,1,7:40 PM,0:02,,,MISS Dorsey Free Throw 2 of 2,,
+0021000123,125,4,0,1,7:40 PM,0:00,Duhon REBOUND (Off:0 Def:2),,,,
+0021000123,127,13,0,1,7:40 PM,0:00,,,,30 - 31,1
+0021000123,129,12,0,2,7:43 PM,12:00,,,,30 - 31,1
+0021000123,130,2,5,2,7:44 PM,11:40,Howard BLOCK (1 BLK),,MISS Wright 2' Layup,,
+0021000123,131,4,0,2,7:44 PM,11:38,,,Wright REBOUND (Off:1 Def:1),,
+0021000123,132,2,1,2,7:44 PM,11:36,,,MISS Wright 8' Jump Shot,,
+0021000123,134,4,0,2,7:44 PM,11:34,,,Dorsey REBOUND (Off:1 Def:0),,
+0021000123,133,2,53,2,7:44 PM,11:34,,,MISS Dorsey  Tip Shot,,
+0021000123,135,4,0,2,7:44 PM,11:32,Howard REBOUND (Off:2 Def:3),,,,
+0021000123,136,6,1,2,7:44 PM,11:31,,,Johnson P.FOUL (P2.T1),,
+0021000123,137,1,5,2,7:44 PM,11:18,Howard 1' Layup (6 PTS) (Duhon 1 AST),,,30 - 33,3
+0021000123,138,1,1,2,7:45 PM,11:04,,,Calderon 20' Jump Shot (2 PTS),32 - 33,1
+0021000123,139,1,67,2,7:45 PM,10:42,Howard 8' Hook Bank Shot (8 PTS),,,32 - 35,3
+0021000123,141,2,79,2,7:45 PM,10:23,,,MISS Calderon 19' Pullup Jump Shot,,
+0021000123,142,4,0,2,7:45 PM,10:22,Redick REBOUND (Off:0 Def:1),,,,
+0021000123,143,2,81,2,7:46 PM,10:12,MISS Pietrus 25' 3PT Pullup Bank Shot,,,,
+0021000123,144,4,0,2,7:46 PM,10:11,,,Johnson REBOUND (Off:0 Def:1),,
+0021000123,145,6,4,2,7:46 PM,10:03,,,Dorsey OFF.Foul (P1),,
+0021000123,146,5,5,2,7:46 PM,10:03,,,Dorsey Foul Turnover (P1.T3),,
+0021000123,148,2,56,2,7:46 PM,9:46,MISS Howard 9' Running Hook Shot,,,,
+0021000123,149,4,0,2,7:46 PM,9:45,,,Dorsey REBOUND (Off:1 Def:1),,
+0021000123,150,1,1,2,7:47 PM,9:37,,,Weems 19' Jump Shot (4 PTS),34 - 35,1
+0021000123,151,1,1,2,7:47 PM,9:27,Bass 19' Jump Shot (2 PTS),,,34 - 37,3
+0021000123,152,2,1,2,7:47 PM,9:09,,,MISS Weems 17' Jump Shot,,
+0021000123,153,4,0,2,7:47 PM,9:07,Howard REBOUND (Off:2 Def:4),,,,
+0021000123,154,2,5,2,7:47 PM,8:55,MISS Howard 2' Layup,,Johnson BLOCK (1 BLK),,
+0021000123,155,9,4,2,7:47 PM,8:55,,,,,
+0021000123,162,10,0,2,7:50 PM,8:55,Jump Ball Howard vs. Johnson: Tip to Weems,,,,
+0021000123,163,4,0,2,7:50 PM,8:55,,,Raptors Rebound,,
+0021000123,164,1,46,2,7:50 PM,8:47,,,Weems 9' Running Jump Shot (6 PTS),36 - 37,1
+0021000123,165,5,2,2,7:51 PM,8:34,Bass Lost Ball Turnover (P2.T4),,Calderon STEAL (1 STL),,
+0021000123,166,1,5,2,7:51 PM,8:30,,,Wright 2' Layup (2 PTS) (Calderon 3 AST),38 - 37,-1
+0021000123,167,2,1,2,7:51 PM,8:09,MISS Pietrus 24' 3PT Jump Shot,,,,
+0021000123,168,4,0,2,7:51 PM,8:08,,,Johnson REBOUND (Off:0 Def:2),,
+0021000123,169,2,1,2,7:51 PM,8:02,,,MISS Wright 21' Jump Shot,,
+0021000123,170,4,0,2,7:51 PM,8:01,,,Calderon REBOUND (Off:1 Def:0),,
+0021000123,171,2,1,2,7:51 PM,7:51,,,MISS Wright 25' 3PT Jump Shot,,
+0021000123,172,4,0,2,7:51 PM,7:51,MAGIC Rebound,,,,
+0021000123,173,6,3,2,7:52 PM,7:51,,,Dorsey L.B.FOUL (P2.T2),,
+0021000123,174,8,0,2,7:52 PM,7:51,SUB: Lewis FOR Howard,,,,
+0021000123,175,8,0,2,7:52 PM,7:51,SUB: Gortat FOR Bass,,,,
+0021000123,176,8,0,2,7:52 PM,7:51,,,SUB: Bargnani FOR Johnson,,
+0021000123,177,8,0,2,7:52 PM,7:51,,,SUB: Evans FOR Dorsey,,
+0021000123,178,2,42,2,7:52 PM,7:42,MISS Duhon 1' Driving Layup,,,,
+0021000123,179,4,0,2,7:52 PM,7:39,,,Evans REBOUND (Off:1 Def:3),,
+0021000123,180,1,8,2,7:52 PM,7:33,,,Bargnani 1' Slam Dunk (10 PTS) (Calderon 4 AST),40 - 37,-3
+0021000123,181,2,42,2,7:53 PM,7:11,MISS Duhon  Driving Layup,,Wright BLOCK (1 BLK),,
+0021000123,182,4,0,2,7:53 PM,7:08,,,Evans REBOUND (Off:1 Def:4),,
+0021000123,183,5,4,2,7:53 PM,7:05,,,Calderon Traveling Turnover (P1.T4),,
+0021000123,184,8,0,2,7:53 PM,7:05,,,SUB: DeRozan FOR Wright,,
+0021000123,185,1,1,2,7:53 PM,6:51,Pietrus  3PT Jump Shot (6 PTS) (Duhon 2 AST),,,40 - 40,TIE
+0021000123,186,5,1,2,7:54 PM,6:28,Pietrus STEAL (1 STL),,Calderon Bad Pass Turnover (P2.T5),,
+0021000123,187,2,1,2,7:54 PM,6:22,MISS Redick 25' 3PT Jump Shot,,,,
+0021000123,188,4,0,2,7:54 PM,6:22,,,Raptors Rebound,,
+0021000123,189,6,3,2,7:54 PM,6:22,Gortat L.B.FOUL (P1.T1),,,,
+0021000123,190,8,0,2,7:54 PM,6:22,SUB: Carter FOR Redick,,,,
+0021000123,191,8,0,2,7:54 PM,6:21,,,SUB: Jack FOR Calderon,,
+0021000123,192,1,7,2,7:54 PM,6:13,,,Bargnani 1' Dunk (12 PTS) (Weems 3 AST),42 - 40,-2
+0021000123,193,9,1,2,7:54 PM,6:05,MAGIC Timeout: Regular (Full 2 Short 1),,,,
+0021000123,195,8,0,2,7:57 PM,6:05,SUB: Nelson FOR Duhon,,,,
+0021000123,197,1,1,2,7:57 PM,5:52,Pietrus 24' 3PT Jump Shot (9 PTS) (Nelson 4 AST),,,42 - 43,1
+0021000123,198,6,17,2,7:58 PM,5:37,MAGIC T.Foul (Def. 3 Sec Gortat ),,,,
+0021000123,199,3,16,2,7:58 PM,5:37,,,Jack Free Throw Technical (8 PTS),43 - 43,TIE
+0021000123,202,1,1,2,7:58 PM,5:29,,,Bargnani 19' Jump Shot (14 PTS) (Evans 1 AST),45 - 43,-2
+0021000123,203,1,1,2,7:59 PM,5:05,Lewis 10' Jump Shot (4 PTS) (Gortat 1 AST),,,45 - 45,TIE
+0021000123,204,6,1,2,7:59 PM,4:41,Carter P.FOUL (P1.T2),,,,
+0021000123,205,5,1,2,8:00 PM,4:35,Pietrus STEAL (2 STL),,Jack Bad Pass Turnover (P2.T6),,
+0021000123,206,5,2,2,8:00 PM,4:31,Nelson Lost Ball Turnover (P2.T5),,DeRozan STEAL (1 STL),,
+0021000123,207,1,42,2,8:00 PM,4:29,,,DeRozan 2' Driving Layup (7 PTS),47 - 45,-2
+0021000123,208,6,2,2,8:00 PM,4:29,Carter S.FOUL (P2.T3),,,,
+0021000123,209,3,10,2,8:00 PM,4:29,,,MISS DeRozan Free Throw 1 of 1,,
+0021000123,211,4,0,2,8:00 PM,4:28,Lewis REBOUND (Off:1 Def:2),,,,
+0021000123,212,1,1,2,8:01 PM,4:11,Pietrus  3PT Jump Shot (12 PTS) (Lewis 1 AST),,,47 - 48,1
+0021000123,213,1,79,2,8:01 PM,3:56,,,DeRozan 20' Pullup Jump Shot (9 PTS),49 - 48,-1
+0021000123,214,1,5,2,8:01 PM,3:35,Gortat 1' Layup (2 PTS) (Nelson 5 AST),,,49 - 50,1
+0021000123,215,6,2,2,8:01 PM,3:31,Pietrus S.FOUL (P2.T4),,,,
+0021000123,216,3,11,2,8:02 PM,3:31,,,Weems Free Throw 1 of 2 (7 PTS),50 - 50,TIE
+0021000123,218,8,0,2,8:02 PM,3:31,SUB: Howard FOR Gortat,,,,
+0021000123,219,3,12,2,8:02 PM,3:31,,,MISS Weems Free Throw 2 of 2,,
+0021000123,221,4,0,2,8:02 PM,3:29,Carter REBOUND (Off:0 Def:1),,,,
+0021000123,222,2,1,2,8:02 PM,3:16,MISS Carter 21' Jump Shot,,,,
+0021000123,223,4,0,2,8:02 PM,3:15,,,Jack REBOUND (Off:0 Def:4),,
+0021000123,224,2,1,2,8:03 PM,3:06,,,MISS Jack 25' 3PT Jump Shot,,
+0021000123,225,4,0,2,8:03 PM,3:04,,,Evans REBOUND (Off:2 Def:4),,
+0021000123,226,1,1,2,8:03 PM,2:59,,,Bargnani 19' Jump Shot (16 PTS) (Evans 2 AST),52 - 50,-2
+0021000123,228,1,3,2,8:03 PM,2:43,Howard 6' Hook Shot (10 PTS),,,52 - 52,TIE
+0021000123,229,2,79,2,8:04 PM,2:23,,,MISS Weems 18' Pullup Jump Shot,,
+0021000123,230,4,0,2,8:04 PM,2:22,Lewis REBOUND (Off:1 Def:3),,,,
+0021000123,231,1,5,2,8:04 PM,2:13,Howard 2' Layup (12 PTS) (Pietrus 1 AST),,,52 - 54,2
+0021000123,232,9,1,2,8:04 PM,2:06,,,Raptors Timeout: Regular (Reg.2 Short 0),,
+0021000123,234,8,0,2,8:06 PM,2:06,SUB: Richardson FOR Pietrus,,,,
+0021000123,235,8,0,2,8:06 PM,2:06,,,SUB: Calderon FOR Jack,,
+0021000123,236,6,1,2,8:07 PM,1:59,Lewis P.FOUL (P1.PN),,,,
+0021000123,237,3,11,2,8:07 PM,1:59,,,Bargnani Free Throw 1 of 2 (17 PTS),53 - 54,1
+0021000123,239,8,0,2,8:07 PM,1:59,,,SUB: Wright FOR Weems,,
+0021000123,240,3,12,2,8:07 PM,1:59,,,Bargnani Free Throw 2 of 2 (18 PTS),54 - 54,TIE
+0021000123,243,5,4,2,8:08 PM,1:50,Carter Traveling Turnover (P1.T6),,,,
+0021000123,244,8,0,2,8:08 PM,1:50,SUB: Redick FOR Carter,,,,
+0021000123,245,5,1,2,8:08 PM,1:38,Richardson STEAL (1 STL),,Evans Bad Pass Turnover (P1.T7),,
+0021000123,246,6,2,2,8:09 PM,1:28,,,DeRozan S.FOUL (P1.T3),,
+0021000123,247,3,11,2,8:09 PM,1:28,MISS Howard Free Throw 1 of 2,,,,
+0021000123,248,4,1,2,8:09 PM,1:28,MAGIC Rebound,,,,
+0021000123,249,8,0,2,8:09 PM,1:28,SUB: Pietrus FOR Richardson,,,,
+0021000123,250,3,12,2,8:09 PM,1:28,Howard Free Throw 2 of 2 (13 PTS),,,54 - 55,1
+0021000123,252,1,47,2,8:10 PM,1:13,,,DeRozan 18' Turnaround Jump Shot (11 PTS) (Calderon 5 AST),56 - 55,-1
+0021000123,253,1,67,2,8:10 PM,1:00,Howard 7' Hook Bank Shot (15 PTS) (Lewis 2 AST),,,56 - 57,1
+0021000123,254,1,1,2,8:10 PM,0:40,,,Bargnani 25' 3PT Jump Shot (21 PTS) (DeRozan 2 AST),59 - 57,-2
+0021000123,255,1,42,2,8:11 PM,0:33,Nelson 1' Driving Layup (13 PTS),,,59 - 59,TIE
+0021000123,256,2,1,2,8:11 PM,0:14,Howard BLOCK (2 BLK),,MISS Calderon 16' Jump Shot,,
+0021000123,257,4,0,2,8:11 PM,0:12,,,Calderon REBOUND (Off:2 Def:0),,
+0021000123,258,2,1,2,8:11 PM,0:07,,,MISS Bargnani 26' 3PT Jump Shot,,
+0021000123,259,4,0,2,8:11 PM,0:06,Redick REBOUND (Off:0 Def:2),,,,
+0021000123,260,6,26,2,8:11 PM,0:00,Redick Offensive Charge Foul (P1.PN),,,,
+0021000123,261,5,5,2,8:11 PM,0:00,Redick Foul Turnover (P1.T7),,,,
+0021000123,264,13,0,2,8:12 PM,0:00,,,,59 - 59,TIE
+0021000123,266,12,0,3,8:29 PM,12:00,,,,59 - 59,TIE
+0021000123,267,5,40,3,8:30 PM,11:37,,,Jack Out of Bounds Lost Ball Turnover (P3.T8),,
+0021000123,268,5,2,3,8:30 PM,11:19,Howard Lost Ball Turnover (P1.T8),,Evans STEAL (2 STL),,
+0021000123,269,1,1,3,8:30 PM,11:13,,,Jack 17' Jump Shot (10 PTS),61 - 59,-2
+0021000123,270,1,1,3,8:30 PM,10:57,Carter 23' Jump Shot (5 PTS),,,61 - 61,TIE
+0021000123,271,1,63,3,8:31 PM,10:37,,,Bargnani 18' Fadeaway Jumper (23 PTS),63 - 61,-2
+0021000123,272,6,2,3,8:31 PM,10:30,,,Bargnani S.FOUL (P2.T1),,
+0021000123,273,3,11,3,8:31 PM,10:30,Lewis Free Throw 1 of 2 (5 PTS),,,63 - 62,-1
+0021000123,275,3,12,3,8:31 PM,10:30,Lewis Free Throw 2 of 2 (6 PTS),,,63 - 63,TIE
+0021000123,277,2,63,3,8:32 PM,10:17,,,MISS Bargnani 19' Fadeaway Jumper,,
+0021000123,278,4,0,3,8:32 PM,10:16,Richardson REBOUND (Off:1 Def:3),,,,
+0021000123,279,5,1,3,8:32 PM,10:08,Nelson Bad Pass Turnover (P3.T9),,Weems STEAL (2 STL),,
+0021000123,280,1,42,3,8:32 PM,10:04,,,Weems 1' Driving Layup (9 PTS),65 - 63,-2
+0021000123,282,6,1,3,8:32 PM,9:47,,,DeRozan P.FOUL (P2.T2),,
+0021000123,283,2,1,3,8:33 PM,9:40,MISS Richardson 25' 3PT Jump Shot,,,,
+0021000123,284,4,0,3,8:33 PM,9:39,,,Weems REBOUND (Off:0 Def:1),,
+0021000123,285,5,2,3,8:33 PM,9:16,Nelson STEAL (1 STL),,Jack Lost Ball Turnover (P4.T9),,
+0021000123,286,6,2,3,8:33 PM,9:08,,,DeRozan S.FOUL (P3.T3),,
+0021000123,287,3,11,3,8:34 PM,9:08,MISS Howard Free Throw 1 of 2,,,,
+0021000123,288,4,1,3,8:34 PM,9:08,MAGIC Rebound,,,,
+0021000123,289,3,12,3,8:34 PM,9:08,Howard Free Throw 2 of 2 (16 PTS),,,65 - 64,-1
+0021000123,291,6,2,3,8:35 PM,8:58,Nelson S.FOUL (P1.T1),,,,
+0021000123,292,3,11,3,8:35 PM,8:58,,,Evans Free Throw 1 of 2 (1 PTS),66 - 64,-2
+0021000123,294,3,12,3,8:35 PM,8:58,,,MISS Evans Free Throw 2 of 2,,
+0021000123,296,4,0,3,8:36 PM,8:57,Carter REBOUND (Off:0 Def:2),,,,
+0021000123,297,2,63,3,8:36 PM,8:38,MISS Lewis 10' Fadeaway Jumper,,,,
+0021000123,298,4,0,3,8:36 PM,8:37,,,Evans REBOUND (Off:2 Def:5),,
+0021000123,299,2,1,3,8:36 PM,8:25,,,MISS Bargnani 25' 3PT Jump Shot,,
+0021000123,300,4,0,3,8:36 PM,8:24,Howard REBOUND (Off:2 Def:5),,,,
+0021000123,301,5,4,3,8:36 PM,8:13,Howard Traveling Turnover (P2.T10),,,,
+0021000123,302,6,2,3,8:37 PM,7:58,Howard S.FOUL (P1.T2),,,,
+0021000123,303,3,11,3,8:37 PM,7:58,,,Jack Free Throw 1 of 2 (11 PTS),67 - 64,-3
+0021000123,305,3,12,3,8:37 PM,7:58,,,Jack Free Throw 2 of 2 (12 PTS),68 - 64,-4
+0021000123,307,1,79,3,8:38 PM,7:46,Carter 19' Pullup Jump Shot (7 PTS),,,68 - 66,-2
+0021000123,308,2,42,3,8:38 PM,7:27,Howard BLOCK (3 BLK),,MISS Bargnani 2' Driving Layup,,
+0021000123,309,4,0,3,8:38 PM,7:27,MAGIC Rebound,,,,
+0021000123,310,1,5,3,8:38 PM,7:20,Howard 2' Layup (18 PTS) (Lewis 3 AST),,,68 - 68,TIE
+0021000123,311,6,2,3,8:38 PM,7:20,,,Evans S.FOUL (P2.T4),,
+0021000123,312,3,10,3,8:38 PM,7:20,MISS Howard Free Throw 1 of 1,,,,
+0021000123,314,4,0,3,8:39 PM,7:19,,,Jack REBOUND (Off:0 Def:5),,
+0021000123,315,2,1,3,8:39 PM,7:02,,,MISS DeRozan 18' Jump Shot,,
+0021000123,316,4,0,3,8:39 PM,7:01,Lewis REBOUND (Off:1 Def:4),,,,
+0021000123,317,1,67,3,8:39 PM,6:52,Howard 8' Hook Bank Shot (20 PTS) (Nelson 6 AST),,,68 - 70,2
+0021000123,318,2,1,3,8:40 PM,6:37,,,MISS Jack 19' Jump Shot,,
+0021000123,319,4,0,3,8:40 PM,6:36,Carter REBOUND (Off:0 Def:3),,,,
+0021000123,320,6,4,3,8:40 PM,6:33,Howard OFF.Foul (P2),,,,
+0021000123,321,5,5,3,8:40 PM,6:33,Howard Foul Turnover (P3.T11),,,,
+0021000123,322,6,11,3,8:40 PM,6:33,Howard T.FOUL (P2.T2),,,,
+0021000123,323,3,16,3,8:41 PM,6:33,,,Jack Free Throw Technical (13 PTS),69 - 70,1
+0021000123,325,6,2,3,8:41 PM,6:16,Lewis S.FOUL (P2.T3),,,,
+0021000123,326,3,11,3,8:42 PM,6:16,,,Bargnani Free Throw 1 of 2 (24 PTS),70 - 70,TIE
+0021000123,340,8,0,3,8:42 PM,6:16,,,SUB: Johnson FOR Evans,,
+0021000123,329,8,0,3,8:42 PM,6:16,,,SUB: Wright FOR DeRozan,,
+0021000123,330,3,12,3,8:42 PM,6:16,,,Bargnani Free Throw 2 of 2 (25 PTS),71 - 70,-1
+0021000123,332,2,46,3,8:43 PM,6:03,MISS Carter 8' Running Jump Shot,,,,
+0021000123,333,4,0,3,8:43 PM,6:02,,,Bargnani REBOUND (Off:0 Def:2),,
+0021000123,334,5,1,3,8:43 PM,5:44,Carter STEAL (1 STL),,Weems Bad Pass Turnover (P2.T10),,
+0021000123,335,5,1,3,8:43 PM,5:42,Richardson Bad Pass Turnover (P1.T12),,Johnson STEAL (1 STL),,
+0021000123,336,2,1,3,8:43 PM,5:26,,,MISS Weems 24' 3PT Jump Shot,,
+0021000123,337,4,0,3,8:43 PM,5:25,,,Johnson REBOUND (Off:1 Def:2),,
+0021000123,338,1,5,3,8:43 PM,5:19,,,Johnson 1' Layup (10 PTS),73 - 70,-3
+0021000123,339,1,42,3,8:43 PM,5:13,Nelson 2' Driving Layup (15 PTS),,,73 - 72,-1
+0021000123,341,1,65,3,8:44 PM,4:50,,,Weems 9' Jump Hook Shot (11 PTS),75 - 72,-3
+0021000123,342,1,63,3,8:44 PM,4:40,Nelson 8' Fadeaway Jumper (17 PTS),,,75 - 74,-1
+0021000123,344,6,1,3,8:44 PM,4:29,Lewis P.FOUL (P3.T4),,,,
+0021000123,346,9,1,3,8:46 PM,4:29,MAGIC Timeout: Regular (Full 3 Short 1),,,,
+0021000123,348,8,0,3,8:47 PM,4:29,SUB: Pietrus FOR Richardson,,,,
+0021000123,349,8,0,3,8:47 PM,4:29,,,SUB: DeRozan FOR Weems,,
+0021000123,350,8,0,3,8:47 PM,4:29,,,SUB: Calderon FOR Bargnani,,
+0021000123,351,8,0,3,8:47 PM,4:29,,,SUB: Dorsey FOR Jack,,
+0021000123,352,6,2,3,8:47 PM,4:18,Carter S.FOUL (P3.PN),,,,
+0021000123,353,8,0,3,8:48 PM,4:18,SUB: Bass FOR Lewis,,,,
+0021000123,354,3,11,3,8:48 PM,4:18,,,DeRozan Free Throw 1 of 2 (12 PTS),76 - 74,-2
+0021000123,357,3,12,3,8:48 PM,4:18,,,DeRozan Free Throw 2 of 2 (13 PTS),77 - 74,-3
+0021000123,358,2,1,3,8:48 PM,4:07,MISS Nelson 22' Jump Shot,,,,
+0021000123,359,4,0,3,8:48 PM,4:06,,,DeRozan REBOUND (Off:0 Def:2),,
+0021000123,360,5,2,3,8:49 PM,3:46,Bass STEAL (1 STL),,Wright Lost Ball Turnover (P1.T11),,
+0021000123,361,2,1,3,8:49 PM,3:35,MISS Bass 18' Jump Shot,,,,
+0021000123,362,4,0,3,8:49 PM,3:34,,,DeRozan REBOUND (Off:0 Def:3),,
+0021000123,363,5,1,3,8:49 PM,3:18,Carter STEAL (2 STL),,Dorsey Bad Pass Turnover (P2.T12),,
+0021000123,364,6,3,3,8:49 PM,3:16,,,Johnson L.B.FOUL (P3.PN),,
+0021000123,365,3,11,3,8:50 PM,3:16,Nelson Free Throw 1 of 2 (18 PTS),,,77 - 75,-2
+0021000123,367,8,0,3,8:50 PM,3:16,SUB: Redick FOR Carter,,,,
+0021000123,368,3,12,3,8:50 PM,3:16,Nelson Free Throw 2 of 2 (19 PTS),,,77 - 76,-1
+0021000123,372,6,2,3,8:51 PM,2:59,Howard S.FOUL (P3.PN),,,,
+0021000123,374,9,1,3,8:51 PM,2:59,,,Raptors Timeout: Regular (Reg.3 Short 0),,
+0021000123,379,3,11,3,8:53 PM,2:59,,,MISS Wright Free Throw 1 of 2,,
+0021000123,381,4,0,3,8:53 PM,2:59,,,Raptors Rebound,,
+0021000123,383,7,6,3,8:53 PM,2:59,,,Dorsey Violation:Double Lane,,
+0021000123,385,10,0,3,8:54 PM,2:59,Jump Ball Howard vs. Johnson: Tip to Calderon,,,,
+0021000123,388,1,1,3,8:55 PM,2:36,,,Calderon 28' 3PT Jump Shot (5 PTS),80 - 76,-4
+0021000123,390,5,8,3,8:55 PM,2:17,Howard 3 Second Violation Turnover (P4.T13),,,,
+0021000123,391,8,0,3,8:56 PM,2:17,,,SUB: Bargnani FOR Dorsey,,
+0021000123,392,1,7,3,8:56 PM,2:03,,,Johnson  Dunk (12 PTS) (Wright 1 AST),82 - 76,-6
+0021000123,393,6,1,3,8:56 PM,1:49,,,Wright P.FOUL (P1.PN),,
+0021000123,394,3,11,3,8:56 PM,1:49,MISS Howard Free Throw 1 of 2,,,,
+0021000123,395,4,1,3,8:56 PM,1:49,MAGIC Rebound,,,,
+0021000123,396,3,12,3,8:57 PM,1:49,Howard Free Throw 2 of 2 (21 PTS),,,82 - 77,-5
+0021000123,398,1,1,3,8:57 PM,1:32,,,Wright  3PT Jump Shot (5 PTS) (Calderon 6 AST),85 - 77,-8
+0021000123,399,6,1,3,8:58 PM,1:23,,,Bargnani P.FOUL (P3.PN),,
+0021000123,400,3,11,3,8:58 PM,1:23,Howard Free Throw 1 of 2 (22 PTS),,,85 - 78,-7
+0021000123,402,8,0,3,8:58 PM,1:23,SUB: Duhon FOR Nelson,,,,
+0021000123,403,3,12,3,8:58 PM,1:23,Howard Free Throw 2 of 2 (23 PTS),,,85 - 79,-6
+0021000123,405,2,47,3,8:59 PM,1:09,,,MISS Bargnani 18' Turnaround Jump Shot,,
+0021000123,406,4,0,3,8:59 PM,1:08,Bass REBOUND (Off:0 Def:1),,,,
+0021000123,407,1,1,3,8:59 PM,1:02,Pietrus 25' 3PT Jump Shot (15 PTS) (Duhon 3 AST),,,85 - 82,-3
+0021000123,408,2,46,3,8:59 PM,0:37,,,MISS Calderon 17' Running Jump Shot,,
+0021000123,409,4,0,3,8:59 PM,0:36,Redick REBOUND (Off:0 Def:3),,,,
+0021000123,410,5,1,3,8:59 PM,0:34,Redick Bad Pass Turnover (P2.T14),,Wright STEAL (1 STL),,
+0021000123,411,1,5,3,9:00 PM,0:32,,,Wright 1' Layup (7 PTS),87 - 82,-5
+0021000123,412,6,4,3,9:00 PM,0:28,Bass OFF.Foul (P1),,,,
+0021000123,413,5,5,3,9:00 PM,0:28,Bass Foul Turnover (P3.T15),,,,
+0021000123,415,2,5,3,9:00 PM,0:06,Howard BLOCK (4 BLK),,MISS Calderon 3' Layup,,
+0021000123,416,4,0,3,9:00 PM,0:05,,,Johnson REBOUND (Off:2 Def:2),,
+0021000123,421,2,45,3,9:00 PM,0:04,,,MISS Johnson 5' Jump Shot,,
+0021000123,422,4,0,3,9:00 PM,0:03,,,DeRozan REBOUND (Off:1 Def:3),,
+0021000123,419,1,72,3,9:00 PM,0:03,,,DeRozan 3' Putback Layup (15 PTS),89 - 82,-7
+0021000123,420,13,0,3,9:01 PM,0:00,,,,89 - 82,-7
+0021000123,424,12,0,4,9:04 PM,12:00,,,,89 - 82,-7
+0021000123,425,6,2,4,9:04 PM,11:48,,,Johnson S.FOUL (P4.T1),,
+0021000123,426,3,11,4,9:04 PM,11:48,MISS Howard Free Throw 1 of 2,,,,
+0021000123,428,4,1,4,9:04 PM,11:48,MAGIC Rebound,,,,
+0021000123,429,3,12,4,9:05 PM,11:48,MISS Howard Free Throw 2 of 2,,,,
+0021000123,431,4,0,4,9:05 PM,11:47,,,Wright REBOUND (Off:1 Def:2),,
+0021000123,432,1,1,4,9:05 PM,11:29,,,Calderon 24' 3PT Jump Shot (8 PTS) (Bargnani 1 AST),92 - 82,-10
+0021000123,434,8,0,4,9:06 PM,11:08,,,SUB: Evans FOR Johnson,,
+0021000123,435,2,1,4,9:06 PM,11:00,MISS Bass 17' Jump Shot,,,,
+0021000123,436,4,0,4,9:06 PM,10:59,,,DeRozan REBOUND (Off:1 Def:4),,
+0021000123,437,2,1,4,9:07 PM,10:43,,,MISS Bargnani 19' Jump Shot,,
+0021000123,438,4,0,4,9:07 PM,10:42,Pietrus REBOUND (Off:0 Def:1),,,,
+0021000123,439,1,44,4,9:07 PM,10:27,Bass 1' Reverse Layup (4 PTS),,,92 - 84,-8
+0021000123,440,1,42,4,9:07 PM,10:10,,,DeRozan 2' Driving Layup (17 PTS),94 - 84,-10
+0021000123,441,9,1,4,9:07 PM,10:02,MAGIC Timeout: Regular (Full 4 Short 1),,,,
+0021000123,444,8,0,4,9:10 PM,10:02,SUB: Carter FOR Redick,,,,
+0021000123,445,1,63,4,9:10 PM,9:41,Carter 15' Fadeaway Jumper (9 PTS),,,94 - 86,-8
+0021000123,446,1,1,4,9:11 PM,9:24,,,DeRozan 17' Jump Shot (19 PTS) (Calderon 7 AST),96 - 86,-10
+0021000123,447,6,2,4,9:11 PM,9:09,,,Evans S.FOUL (P3.T2),,
+0021000123,450,3,11,4,9:11 PM,9:09,MISS Carter Free Throw 1 of 2,,,,
+0021000123,453,4,0,4,9:11 PM,9:09,MAGIC Rebound,,,,
+0021000123,451,8,0,4,9:11 PM,9:09,SUB: Nelson FOR Duhon,,,,
+0021000123,452,8,0,4,9:12 PM,9:09,,,SUB: Jack FOR Calderon,,
+0021000123,454,3,12,4,9:12 PM,9:09,Carter Free Throw 2 of 2 (10 PTS),,,96 - 87,-9
+0021000123,491,2,42,4,9:12 PM,8:56,,,MISS Evans 3' Driving Layup,,
+0021000123,456,4,0,4,9:12 PM,8:54,,,DeRozan REBOUND (Off:2 Def:4),,
+0021000123,458,2,1,4,9:12 PM,8:43,,,MISS Jack 22' Jump Shot,,
+0021000123,459,4,0,4,9:12 PM,8:42,Bass REBOUND (Off:0 Def:2),,,,
+0021000123,461,1,1,4,9:12 PM,8:30,Bass 16' Jump Shot (6 PTS) (Carter 3 AST),,,96 - 89,-7
+0021000123,465,2,1,4,9:13 PM,8:00,Bass BLOCK (1 BLK),,MISS DeRozan 16' Jump Shot,,
+0021000123,466,4,0,4,9:13 PM,7:58,Carter REBOUND (Off:0 Def:4),,,,
+0021000123,467,2,1,4,9:13 PM,7:53,MISS Nelson 26' 3PT Jump Shot,,Wright BLOCK (2 BLK),,
+0021000123,475,4,0,4,9:13 PM,7:52,,,Wright REBOUND (Off:1 Def:3),,
+0021000123,468,1,47,4,9:13 PM,7:37,,,Bargnani 16' Turnaround Jump Shot (27 PTS) (Wright 2 AST),98 - 89,-9
+0021000123,469,2,56,4,9:14 PM,7:21,MISS Carter 6' Running Hook Shot,,,,
+0021000123,470,4,0,4,9:14 PM,7:20,,,Evans REBOUND (Off:2 Def:6),,
+0021000123,472,2,80,4,9:14 PM,6:57,,,MISS Bargnani 19' Step Back Jump Shot,,
+0021000123,473,4,0,4,9:14 PM,6:57,MAGIC Rebound,,,,
+0021000123,474,6,3,4,9:14 PM,6:57,,,Evans L.B.FOUL (P4.T3),,
+0021000123,476,8,0,4,9:15 PM,6:57,,,SUB: Johnson FOR Bargnani,,
+0021000123,477,8,0,4,9:15 PM,6:57,,,SUB: Weems FOR Wright,,
+0021000123,479,6,2,4,9:15 PM,6:48,,,Johnson S.FOUL (P5.T4),,
+0021000123,480,3,11,4,9:15 PM,6:48,MISS Nelson Free Throw 1 of 2,,,,
+0021000123,486,4,0,4,9:15 PM,6:48,MAGIC Rebound,,,,
+0021000123,481,3,12,4,9:15 PM,6:48,MISS Nelson Free Throw 2 of 2,,,,
+0021000123,483,4,0,4,9:16 PM,6:47,,,Evans REBOUND (Off:2 Def:7),,
+0021000123,484,2,1,4,9:16 PM,6:28,,,MISS DeRozan 16' Jump Shot,,
+0021000123,485,4,0,4,9:16 PM,6:27,Nelson REBOUND (Off:0 Def:1),,,,
+0021000123,488,2,63,4,9:16 PM,6:10,MISS Carter 15' Fadeaway Jumper,,,,
+0021000123,489,4,0,4,9:16 PM,6:09,Bass REBOUND (Off:1 Def:2),,,,
+0021000123,490,6,2,4,9:16 PM,6:09,,,Weems S.FOUL (P1.PN),,
+0021000123,492,8,0,4,9:17 PM,6:09,,,SUB: Wright FOR Johnson,,
+0021000123,493,3,11,4,9:17 PM,6:09,Bass Free Throw 1 of 2 (7 PTS),,,98 - 90,-8
+0021000123,495,3,12,4,9:17 PM,6:09,Bass Free Throw 2 of 2 (8 PTS),,,98 - 91,-7
+0021000123,498,5,40,4,9:17 PM,5:57,,,DeRozan Out of Bounds Lost Ball Turnover (P1.T13),,
+0021000123,499,9,4,4,9:18 PM,5:57,,,,,
+0021000123,501,8,0,4,9:20 PM,5:57,,,SUB: Bargnani FOR Wright,,
+0021000123,503,2,1,4,9:21 PM,5:43,MISS Nelson 26' 3PT Jump Shot,,,,
+0021000123,504,4,0,4,9:21 PM,5:43,,,Raptors Rebound,,
+0021000123,505,6,26,4,9:21 PM,5:32,,,Bargnani Offensive Charge Foul (P4.PN),,
+0021000123,506,5,5,4,9:21 PM,5:32,,,Bargnani Foul Turnover (P1.T14),,
+0021000123,507,1,42,4,9:22 PM,5:11,Nelson 1' Driving Layup (21 PTS),,,98 - 93,-5
+0021000123,508,2,42,4,9:22 PM,4:51,,,MISS Bargnani 2' Driving Layup,,
+0021000123,509,4,0,4,9:22 PM,4:50,Howard REBOUND (Off:2 Def:6),,,,
+0021000123,510,2,42,4,9:22 PM,4:40,MISS Carter 1' Driving Layup,,,,
+0021000123,511,4,0,4,9:22 PM,4:39,MAGIC Rebound,,,,
+0021000123,512,8,0,4,9:22 PM,4:39,,,SUB: Calderon FOR Jack,,
+0021000123,513,2,1,4,9:23 PM,4:34,MISS Carter 21' Jump Shot,,,,
+0021000123,514,4,0,4,9:23 PM,4:33,,,DeRozan REBOUND (Off:2 Def:5),,
+0021000123,515,5,4,4,9:23 PM,4:18,,,Bargnani Traveling Turnover (P2.T15),,
+0021000123,516,2,63,4,9:23 PM,4:06,MISS Nelson 10' Fadeaway Jumper,,,,
+0021000123,517,4,0,4,9:23 PM,4:05,Nelson REBOUND (Off:1 Def:1),,,,
+0021000123,518,2,1,4,9:23 PM,4:02,MISS Pietrus 25' 3PT Jump Shot,,,,
+0021000123,519,4,0,4,9:23 PM,4:02,,,Raptors Rebound,,
+0021000123,520,6,3,4,9:24 PM,4:02,Howard L.B.FOUL (P4.T1),,,,
+0021000123,521,9,1,4,9:24 PM,4:02,,,Raptors Timeout: Regular (Reg.4 Short 0),,
+0021000123,524,8,0,4,9:26 PM,4:02,,,SUB: Johnson FOR Evans,,
+0021000123,525,6,2,4,9:26 PM,3:53,Carter S.FOUL (P4.T2),,,,
+0021000123,526,3,11,4,9:27 PM,3:53,,,DeRozan Free Throw 1 of 2 (20 PTS),99 - 93,-6
+0021000123,528,3,12,4,9:27 PM,3:53,,,DeRozan Free Throw 2 of 2 (21 PTS),100 - 93,-7
+0021000123,530,6,1,4,9:27 PM,3:40,,,Johnson P.FOUL (P6.PN),,
+0021000123,531,8,0,4,9:28 PM,3:40,,,SUB: Evans FOR Johnson,,
+0021000123,532,3,11,4,9:28 PM,3:40,MISS Howard Free Throw 1 of 2,,,,
+0021000123,533,4,1,4,9:28 PM,3:40,MAGIC Rebound,,,,
+0021000123,534,3,12,4,9:29 PM,3:40,Howard Free Throw 2 of 2 (24 PTS),,,100 - 94,-6
+0021000123,537,2,46,4,9:30 PM,3:16,Howard BLOCK (5 BLK),,MISS Calderon 19' Running Jump Shot,,
+0021000123,538,4,0,4,9:30 PM,3:15,,,Evans REBOUND (Off:3 Def:7),,
+0021000123,539,5,11,4,9:30 PM,3:15,,,Raptors Turnover: Shot Clock (T#16),,
+0021000123,540,6,2,4,9:30 PM,2:59,,,Evans S.FOUL (P5.PN),,
+0021000123,541,3,11,4,9:30 PM,2:59,MISS Howard Free Throw 1 of 2,,,,
+0021000123,542,4,1,4,9:30 PM,2:59,MAGIC Rebound,,,,
+0021000123,543,3,12,4,9:31 PM,2:59,Howard Free Throw 2 of 2 (25 PTS),,,100 - 95,-5
+0021000123,545,2,79,4,9:32 PM,2:36,,,MISS Bargnani 21' Pullup Jump Shot,,
+0021000123,546,4,0,4,9:32 PM,2:35,Pietrus REBOUND (Off:0 Def:2),,,,
+0021000123,547,1,1,4,9:32 PM,2:26,Pietrus  3PT Jump Shot (18 PTS) (Nelson 7 AST),,,100 - 98,-2
+0021000123,548,9,1,4,9:32 PM,2:25,,,Raptors Timeout: Regular (Reg.5 Short 0),,
+0021000123,551,8,0,4,9:34 PM,2:25,,,SUB: Wright FOR Weems,,
+0021000123,553,1,8,4,9:35 PM,2:04,,,DeRozan  Slam Dunk (23 PTS) (Evans 3 AST),102 - 98,-4
+0021000123,555,2,1,4,9:35 PM,1:43,MISS Bass 18' Jump Shot,,,,
+0021000123,556,4,0,4,9:35 PM,1:42,,,Evans REBOUND (Off:3 Def:8),,
+0021000123,557,2,1,4,9:36 PM,1:21,,,MISS Calderon 26' 3PT Jump Shot,,
+0021000123,558,4,0,4,9:36 PM,1:20,,,Raptors Rebound,,
+0021000123,559,6,3,4,9:36 PM,1:20,Howard L.B.FOUL (P5.T3),,,,
+0021000123,560,8,0,4,9:36 PM,1:20,,,SUB: Weems FOR Wright,,
+0021000123,561,2,1,4,9:37 PM,1:06,,,MISS Bargnani 21' Jump Shot,,
+0021000123,565,4,0,4,9:37 PM,1:05,,,Evans REBOUND (Off:4 Def:8),,
+0021000123,564,2,53,4,9:37 PM,1:05,,,MISS Evans 3' Tip Shot,,
+0021000123,562,4,0,4,9:37 PM,1:04,MAGIC Rebound,,,,
+0021000123,563,9,1,4,9:37 PM,1:04,MAGIC Timeout: Regular (Full 5 Short 1),,,,
+0021000123,567,8,0,4,9:39 PM,1:04,SUB: Lewis FOR Bass,,,,
+0021000123,569,1,42,4,9:39 PM,0:55,Nelson 3' Driving Layup (23 PTS),,,102 - 100,-2
+0021000123,570,6,1,4,9:40 PM,0:43,Pietrus P.FOUL (P3.PN),,,,
+0021000123,571,3,11,4,9:40 PM,0:43,,,MISS DeRozan Free Throw 1 of 2,,
+0021000123,572,4,1,4,9:40 PM,0:43,,,Raptors Rebound,,
+0021000123,573,8,0,4,9:40 PM,0:43,,,SUB: Wright FOR Bargnani,,
+0021000123,574,3,12,4,9:40 PM,0:43,,,DeRozan Free Throw 2 of 2 (24 PTS),103 - 100,-3
+0021000123,576,2,1,4,9:41 PM,0:31,MISS Nelson 21' Jump Shot,,,,
+0021000123,577,4,0,4,9:41 PM,0:30,Lewis REBOUND (Off:2 Def:4),,,,
+0021000123,578,1,1,4,9:41 PM,0:28,Pietrus 24' 3PT Jump Shot (21 PTS) (Lewis 4 AST),,,103 - 103,TIE
+0021000123,579,9,1,4,9:41 PM,0:28,,,Raptors Timeout: Regular (Reg.6 Short 0),,
+0021000123,580,8,0,4,9:42 PM,0:28,SUB: Bass FOR Lewis,,,,
+0021000123,581,8,0,4,9:43 PM,0:28,,,SUB: Jack FOR Evans,,
+0021000123,582,8,0,4,9:43 PM,0:28,,,SUB: Bargnani FOR Wright,,
+0021000123,583,1,1,4,9:43 PM,0:07,,,Weems 25' 3PT Jump Shot (14 PTS) (Jack 2 AST),106 - 103,-3
+0021000123,584,9,2,4,9:44 PM,0:07,MAGIC Timeout: Short (Full 5 Short 2),,,,
+0021000123,586,8,0,4,9:45 PM,0:07,SUB: Lewis FOR Bass,,,,
+0021000123,588,8,0,4,9:45 PM,0:07,,,SUB: Evans FOR Bargnani,,
+0021000123,590,9,2,4,9:45 PM,0:07,MAGIC Timeout: Short (Full 5 Short 3),,,,
+0021000123,594,5,1,4,9:47 PM,0:06,Pietrus Bad Pass Turnover (P1.T16),,Calderon STEAL (2 STL),,
+0021000123,595,6,1,4,9:47 PM,0:06,Nelson P.FOUL (P2.PN),,,,
+0021000123,607,18,0,4,9:47 PM,0:06,,,,106 - 103,-3
+0021000123,597,3,11,4,9:49 PM,0:06,,,Calderon Free Throw 1 of 2 (9 PTS),107 - 103,-4
+0021000123,599,3,12,4,9:50 PM,0:06,,,Calderon Free Throw 2 of 2 (10 PTS),108 - 103,-5
+0021000123,601,1,1,4,9:50 PM,0:01,Pietrus 25' 3PT Jump Shot (24 PTS) (Nelson 8 AST),,,108 - 106,-2
+0021000123,602,9,2,4,9:50 PM,0:01,,,Raptors Timeout: Short (Reg.6 Short 1),,
+0021000123,603,8,0,4,9:51 PM,0:01,,,SUB: Bargnani FOR Evans,,
+0021000123,605,6,1,4,9:51 PM,0:00,Pietrus P.FOUL (P4.PN),,,,
+0021000123,606,3,11,4,9:52 PM,0:00,,,DeRozan Free Throw 1 of 2 (25 PTS),109 - 106,-3
+0021000123,609,8,0,4,9:52 PM,0:00,SUB: Richardson FOR Nelson,,,,
+0021000123,610,3,12,4,9:52 PM,0:00,,,DeRozan Free Throw 2 of 2 (26 PTS),110 - 106,-4
+0021000123,612,13,0,4,9:53 PM,0:00,,,,110 - 106,-4

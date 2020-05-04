@@ -1,0 +1,400 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021001193,0,12,0,1,1:03 PM,12:00,,,,,
+0021001193,1,10,0,1,1:05 PM,12:00,Jump Ball Anderson vs. Noah: Tip to Rose,,,,
+0021001193,2,6,2,1,1:05 PM,11:45,Anderson S.FOUL (P1.T1),,,,
+0021001193,3,3,11,1,1:06 PM,11:45,,,Boozer Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0021001193,5,3,12,1,1:06 PM,11:45,,,Boozer Free Throw 2 of 2 (2 PTS),2 - 0,-2
+0021001193,7,1,1,1,1:06 PM,11:31,Richardson 20' Jump Shot (2 PTS) (Turkoglu 1 AST),,,2 - 2,TIE
+0021001193,8,5,4,1,1:07 PM,11:20,,,Boozer Traveling Turnover (P1.T1),,
+0021001193,9,2,42,1,1:07 PM,11:07,MISS Nelson 1' Driving Layup,,Rose BLOCK (1 BLK),,
+0021001193,10,4,0,1,1:07 PM,11:06,,,Noah REBOUND (Off:0 Def:1),,
+0021001193,11,1,79,1,1:07 PM,10:52,,,Rose 21' Pullup Jump Shot (2 PTS),4 - 2,-2
+0021001193,12,2,79,1,1:08 PM,10:29,MISS Bass 13' Pullup Jump Shot,,,,
+0021001193,13,4,0,1,1:08 PM,10:27,,,Deng REBOUND (Off:0 Def:1),,
+0021001193,14,1,1,1,1:08 PM,10:13,,,Rose 26' 3PT Jump Shot (5 PTS) (Deng 1 AST),7 - 2,-5
+0021001193,15,5,1,1,1:08 PM,10:03,Turkoglu Bad Pass Turnover (P1.T1),,Boozer STEAL (1 STL),,
+0021001193,16,1,42,1,1:08 PM,9:58,,,Rose  Driving Layup (7 PTS) (Noah 1 AST),9 - 2,-7
+0021001193,17,1,1,1,1:09 PM,9:43,Anderson 25' 3PT Jump Shot (3 PTS) (Nelson 1 AST),,,9 - 5,-4
+0021001193,18,5,1,1,1:09 PM,9:27,,,Bogans Bad Pass Turnover (P1.T2),,
+0021001193,19,6,2,1,1:09 PM,9:14,,,Noah S.FOUL (P1.T1),,
+0021001193,20,3,11,1,1:10 PM,9:14,Turkoglu Free Throw 1 of 2 (1 PTS),,,9 - 6,-3
+0021001193,22,3,12,1,1:10 PM,9:14,Turkoglu Free Throw 2 of 2 (2 PTS),,,9 - 7,-2
+0021001193,25,1,1,1,1:10 PM,8:58,,,Boozer 18' Jump Shot (4 PTS) (Deng 2 AST),11 - 7,-4
+0021001193,26,1,1,1,1:10 PM,8:45,Richardson 24' 3PT Jump Shot (5 PTS) (Nelson 2 AST),,,11 - 10,-1
+0021001193,27,6,2,1,1:11 PM,8:22,Turkoglu S.FOUL (P1.T2),,,,
+0021001193,28,3,11,1,1:11 PM,8:22,,,Bogans Free Throw 1 of 2 (1 PTS),12 - 10,-2
+0021001193,30,3,12,1,1:11 PM,8:22,,,Bogans Free Throw 2 of 2 (2 PTS),13 - 10,-3
+0021001193,32,2,1,1,1:12 PM,8:01,MISS Nelson 24' 3PT Jump Shot,,,,
+0021001193,33,4,0,1,1:12 PM,8:00,,,Bogans REBOUND (Off:0 Def:1),,
+0021001193,34,5,1,1,1:12 PM,7:58,Turkoglu STEAL (1 STL),,Bogans Bad Pass Turnover (P2.T3),,
+0021001193,35,2,79,1,1:12 PM,7:52,MISS Turkoglu 19' Pullup Jump Shot,,,,
+0021001193,36,4,0,1,1:12 PM,7:51,Anderson REBOUND (Off:1 Def:0),,,,
+0021001193,37,1,5,1,1:12 PM,7:50,Anderson 2' Layup (5 PTS),,,13 - 12,-1
+0021001193,38,1,42,1,1:12 PM,7:32,,,Noah 1' Driving Layup (2 PTS) (Boozer 1 AST),15 - 12,-3
+0021001193,39,1,7,1,1:13 PM,7:21,Anderson 2' Dunk (7 PTS) (Richardson 1 AST),,,15 - 14,-1
+0021001193,40,9,1,1,1:13 PM,7:11,,,Bulls Timeout: Regular (Reg.1 Short 0),,
+0021001193,43,1,1,1,1:16 PM,7:02,,,Bogans  3PT Jump Shot (5 PTS) (Deng 3 AST),18 - 14,-4
+0021001193,44,5,40,1,1:16 PM,6:43,Bass Out of Bounds Lost Ball Turnover (P1.T2),,,,
+0021001193,45,5,2,1,1:17 PM,6:20,Nelson STEAL (1 STL),,Noah Lost Ball Turnover (P1.T4),,
+0021001193,46,1,1,1,1:17 PM,6:15,Richardson 19' Jump Shot (7 PTS) (Nelson 3 AST),,,18 - 16,-2
+0021001193,47,2,1,1,1:17 PM,5:53,,,MISS Deng 26' 3PT Jump Shot,,
+0021001193,48,4,0,1,1:17 PM,5:51,Anderson REBOUND (Off:1 Def:1),,,,
+0021001193,49,5,1,1,1:18 PM,5:41,Nelson Bad Pass Turnover (P1.T3),,Boozer STEAL (2 STL),,
+0021001193,50,1,5,1,1:18 PM,5:35,,,Rose 3' Layup (9 PTS),20 - 16,-4
+0021001193,51,1,1,1,1:18 PM,5:20,Anderson 26' 3PT Jump Shot (10 PTS) (Nelson 4 AST),,,20 - 19,-1
+0021001193,52,6,1,1,1:18 PM,5:02,Turkoglu P.FOUL (P2.T3),,,,
+0021001193,53,8,0,1,1:18 PM,5:02,,,SUB: Gibson FOR Noah,,
+0021001193,54,8,0,1,1:19 PM,5:02,SUB: Arenas FOR Turkoglu,,,,
+0021001193,55,1,79,1,1:19 PM,4:53,,,Deng 8' Pullup Jump Shot (2 PTS) (Rose 1 AST),22 - 19,-3
+0021001193,56,1,42,1,1:19 PM,4:42,Nelson 1' Driving Layup (2 PTS),,,22 - 21,-1
+0021001193,58,1,42,1,1:20 PM,4:16,,,Rose 3' Driving Layup (11 PTS) (Deng 4 AST),24 - 21,-3
+0021001193,59,9,1,1,1:20 PM,4:11,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0021001193,62,8,0,1,1:23 PM,4:11,SUB: Allen FOR Bass,,,,
+0021001193,63,2,79,1,1:23 PM,4:03,MISS Nelson 18' Pullup Jump Shot,,,,
+0021001193,64,4,0,1,1:23 PM,4:02,,,Gibson REBOUND (Off:0 Def:1),,
+0021001193,65,1,83,1,1:24 PM,3:45,,,Boozer 9' Fadeaway Bank Shot (6 PTS),26 - 21,-5
+0021001193,66,2,1,1,1:24 PM,3:25,MISS Anderson 25' 3PT Jump Shot,,,,
+0021001193,67,4,0,1,1:24 PM,3:24,,,Boozer REBOUND (Off:0 Def:1),,
+0021001193,68,2,46,1,1:24 PM,3:08,,,MISS Rose 7' Running Jump Shot,,
+0021001193,69,4,0,1,1:24 PM,3:07,Anderson REBOUND (Off:1 Def:2),,,,
+0021001193,70,1,1,1,1:24 PM,3:02,Arenas 25' 3PT Jump Shot (3 PTS) (Nelson 5 AST),,,26 - 24,-2
+0021001193,71,1,73,1,1:25 PM,2:44,,,Boozer 2' Driving Reverse Layup (8 PTS) (Bogans 1 AST),28 - 24,-4
+0021001193,72,6,2,1,1:25 PM,2:44,Allen S.FOUL (P1.T4),,,,
+0021001193,73,3,10,1,1:25 PM,2:44,,,MISS Boozer Free Throw 1 of 1,,
+0021001193,75,4,0,1,1:25 PM,2:43,Anderson REBOUND (Off:1 Def:3),,,,
+0021001193,76,2,1,1,1:25 PM,2:25,MISS Arenas 20' Jump Shot,,,,
+0021001193,77,4,0,1,1:25 PM,2:24,,,Boozer REBOUND (Off:0 Def:2),,
+0021001193,78,2,1,1,1:26 PM,2:05,,,MISS Rose 25' 3PT Jump Shot,,
+0021001193,79,4,0,1,1:26 PM,2:04,,,Boozer REBOUND (Off:1 Def:2),,
+0021001193,80,2,1,1,1:26 PM,1:52,,,MISS Gibson 20' Jump Shot,,
+0021001193,81,4,0,1,1:26 PM,1:51,Arenas REBOUND (Off:0 Def:1),,,,
+0021001193,82,6,1,1,1:26 PM,1:46,,,Rose P.FOUL (P1.T2),,
+0021001193,83,5,1,1,1:27 PM,1:38,Nelson Bad Pass Turnover (P2.T4),,Bogans STEAL (1 STL),,
+0021001193,84,5,2,1,1:27 PM,1:23,Nelson STEAL (2 STL),,Gibson Lost Ball Turnover (P1.T5),,
+0021001193,85,2,1,1,1:27 PM,1:08,MISS Anderson 19' Jump Shot,,,,
+0021001193,86,4,0,1,1:27 PM,1:07,,,Boozer REBOUND (Off:1 Def:3),,
+0021001193,87,6,2,1,1:27 PM,1:00,Nelson S.FOUL (P1.PN),,,,
+0021001193,88,3,11,1,1:27 PM,1:00,,,Rose Free Throw 1 of 2 (12 PTS),29 - 24,-5
+0021001193,90,8,0,1,1:28 PM,1:00,,,SUB: Brewer FOR Bogans,,
+0021001193,91,3,12,1,1:28 PM,1:00,,,Rose Free Throw 2 of 2 (13 PTS),30 - 24,-6
+0021001193,93,2,1,1,1:29 PM,0:39,MISS Arenas 20' Jump Shot,,Brewer BLOCK (1 BLK),,
+0021001193,94,4,0,1,1:29 PM,0:37,,,Deng REBOUND (Off:0 Def:2),,
+0021001193,95,1,42,1,1:29 PM,0:27,,,Rose 2' Driving Layup (15 PTS),32 - 24,-8
+0021001193,96,5,1,1,1:29 PM,0:03,Nelson Bad Pass Turnover (P3.T5),,Boozer STEAL (3 STL),,
+0021001193,97,2,5,1,1:29 PM,0:00,,,MISS Deng 1' Layup,,
+0021001193,98,4,0,1,1:29 PM,0:00,,,Bulls Rebound,,
+0021001193,99,13,0,1,1:30 PM,0:00,,,,32 - 24,-8
+0021001193,101,12,0,2,1:33 PM,12:00,,,,32 - 24,-8
+0021001193,102,1,81,2,1:33 PM,11:43,Arenas 6' Pullup Bank Shot (5 PTS),,,32 - 26,-6
+0021001193,103,2,1,2,1:34 PM,11:26,,,MISS Watson 20' Jump Shot,,
+0021001193,104,4,0,2,1:34 PM,11:26,MAGIC Rebound,,,,
+0021001193,105,2,42,2,1:34 PM,11:05,MISS Bass 1' Driving Layup,,,,
+0021001193,106,4,0,2,1:34 PM,11:04,,,Gibson REBOUND (Off:0 Def:2),,
+0021001193,107,5,4,2,1:34 PM,10:55,,,Gibson Traveling Turnover (P2.T6),,
+0021001193,109,1,1,2,1:35 PM,10:39,Clark 20' Jump Shot (2 PTS) (Duhon 1 AST),,,32 - 28,-4
+0021001193,110,2,1,2,1:35 PM,10:15,,,MISS Brewer 23' Jump Shot,,
+0021001193,111,4,0,2,1:35 PM,10:14,Clark REBOUND (Off:0 Def:1),,,,
+0021001193,112,2,1,2,1:35 PM,10:07,MISS Arenas 25' 3PT Jump Shot,,,,
+0021001193,113,4,0,2,1:35 PM,10:05,Bass REBOUND (Off:1 Def:0),,,,
+0021001193,114,2,1,2,1:35 PM,10:01,MISS Bass 17' Jump Shot,,,,
+0021001193,115,4,0,2,1:35 PM,10:00,,,Gibson REBOUND (Off:0 Def:3),,
+0021001193,116,2,42,2,1:36 PM,9:40,,,MISS Brewer 3' Driving Layup,,
+0021001193,117,4,0,2,1:36 PM,9:40,MAGIC Rebound,,,,
+0021001193,118,1,63,2,1:36 PM,9:24,Turkoglu 14' Fadeaway Jumper (4 PTS),,,32 - 30,-2
+0021001193,119,9,1,2,1:36 PM,9:17,,,Bulls Timeout: Regular (Reg.2 Short 0),,
+0021001193,123,8,0,2,1:39 PM,9:17,,,SUB: Korver FOR Deng,,
+0021001193,124,1,1,2,1:40 PM,9:02,,,Watson 22' Jump Shot (2 PTS),34 - 30,-4
+0021001193,125,2,1,2,1:40 PM,8:40,MISS Arenas 21' Jump Shot,,,,
+0021001193,126,4,0,2,1:40 PM,8:39,,,Gibson REBOUND (Off:0 Def:4),,
+0021001193,127,1,5,2,1:40 PM,8:18,,,Asik 1' Layup (2 PTS) (Brewer 1 AST),36 - 30,-6
+0021001193,128,2,1,2,1:41 PM,7:59,MISS Turkoglu 19' Jump Shot,,,,
+0021001193,129,4,0,2,1:41 PM,7:58,,,Gibson REBOUND (Off:0 Def:5),,
+0021001193,130,1,47,2,1:41 PM,7:41,,,Korver 17' Turnaround Jump Shot (2 PTS) (Asik 1 AST),38 - 30,-8
+0021001193,132,9,1,2,1:41 PM,7:32,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0021001193,136,6,2,2,1:44 PM,7:27,,,Korver S.FOUL (P1.T1),,
+0021001193,137,3,11,2,1:45 PM,7:27,Turkoglu Free Throw 1 of 2 (5 PTS),,,38 - 31,-7
+0021001193,139,3,12,2,1:45 PM,7:27,Turkoglu Free Throw 2 of 2 (6 PTS),,,38 - 32,-6
+0021001193,141,1,88,2,1:45 PM,7:11,,,Gibson 1' Driving Slam Dunk (2 PTS) (Brewer 2 AST),40 - 32,-8
+0021001193,142,5,2,2,1:46 PM,6:50,Clark Lost Ball Turnover (P1.T6),,Watson STEAL (1 STL),,
+0021001193,143,1,1,2,1:46 PM,6:41,,,Korver 24' 3PT Jump Shot (5 PTS) (Brewer 3 AST),43 - 32,-11
+0021001193,144,2,1,2,1:46 PM,6:19,MISS Turkoglu 25' 3PT Jump Shot,,,,
+0021001193,145,4,0,2,1:46 PM,6:17,,,Gibson REBOUND (Off:0 Def:6),,
+0021001193,146,5,1,2,1:46 PM,6:03,,,Brewer Bad Pass Turnover (P1.T7),,
+0021001193,147,1,63,2,1:47 PM,5:47,Turkoglu 16' Fadeaway Jumper (8 PTS),,,43 - 34,-9
+0021001193,148,2,1,2,1:47 PM,5:25,,,MISS Gibson 15' Jump Shot,,
+0021001193,149,4,0,2,1:47 PM,5:24,Arenas REBOUND (Off:0 Def:2),,,,
+0021001193,150,2,1,2,1:47 PM,5:17,MISS Bass 14' Jump Shot,,,,
+0021001193,151,4,0,2,1:47 PM,5:16,,,Gibson REBOUND (Off:0 Def:7),,
+0021001193,152,6,2,2,1:48 PM,5:01,Arenas S.FOUL (P1.T1),,,,
+0021001193,153,8,0,2,1:48 PM,5:01,SUB: Richardson FOR Arenas,,,,
+0021001193,154,8,0,2,1:48 PM,5:01,SUB: Anderson FOR Clark,,,,
+0021001193,155,3,11,2,1:48 PM,5:01,,,MISS Gibson Free Throw 1 of 2,,
+0021001193,156,4,1,2,1:48 PM,5:01,,,Bulls Rebound,,
+0021001193,157,8,0,2,1:48 PM,5:01,SUB: Nelson FOR Duhon,,,,
+0021001193,158,3,12,2,1:48 PM,5:01,,,Gibson Free Throw 2 of 2 (3 PTS),44 - 34,-10
+0021001193,161,1,8,2,1:49 PM,4:45,Bass 2' Slam Dunk (2 PTS) (Richardson 2 AST),,,44 - 36,-8
+0021001193,162,9,2,2,1:49 PM,4:40,,,Bulls Timeout: Short (Reg.2 Short 1),,
+0021001193,164,8,0,2,1:50 PM,4:40,,,SUB: Noah FOR Gibson,,
+0021001193,165,8,0,2,1:50 PM,4:40,,,SUB: Boozer FOR Watson,,
+0021001193,166,8,0,2,1:50 PM,4:40,,,SUB: Rose FOR Asik,,
+0021001193,168,5,1,2,1:50 PM,4:30,,,Rose Bad Pass Turnover (P1.T8),,
+0021001193,169,2,1,2,1:51 PM,4:16,MISS Anderson 26' 3PT Jump Shot,,,,
+0021001193,170,4,0,2,1:51 PM,4:15,Nelson REBOUND (Off:1 Def:0),,,,
+0021001193,171,2,1,2,1:51 PM,4:07,MISS Richardson 22' Jump Shot,,,,
+0021001193,172,4,0,2,1:51 PM,4:05,Nelson REBOUND (Off:2 Def:0),,,,
+0021001193,173,1,1,2,1:51 PM,3:59,Bass 11' Jump Shot (4 PTS) (Nelson 6 AST),,,44 - 38,-6
+0021001193,174,2,1,2,1:52 PM,3:32,,,MISS Korver 26' 3PT Jump Shot,,
+0021001193,175,4,0,2,1:52 PM,3:30,Turkoglu REBOUND (Off:0 Def:1),,,,
+0021001193,176,6,2,2,1:52 PM,3:27,,,Korver S.FOUL (P2.T2),,
+0021001193,177,8,0,2,1:52 PM,3:27,,,SUB: Deng FOR Brewer,,
+0021001193,178,3,11,2,1:52 PM,3:27,Turkoglu Free Throw 1 of 2 (9 PTS),,,44 - 39,-5
+0021001193,180,3,12,2,1:52 PM,3:27,MISS Turkoglu Free Throw 2 of 2,,,,
+0021001193,182,4,0,2,1:52 PM,3:26,Bass REBOUND (Off:2 Def:0),,,,
+0021001193,183,1,79,2,1:53 PM,3:07,Nelson 25' 3PT Pullup Jump Shot (5 PTS),,,44 - 42,-2
+0021001193,184,1,42,2,1:53 PM,2:43,,,Rose 1' Driving Layup (17 PTS) (Deng 5 AST),46 - 42,-4
+0021001193,185,1,49,2,1:54 PM,2:23,Richardson 2' Driving Dunk (9 PTS) (Nelson 7 AST),,,46 - 44,-2
+0021001193,187,5,2,2,1:54 PM,1:55,Turkoglu STEAL (2 STL),,Noah Lost Ball Turnover (P2.T9),,
+0021001193,188,2,42,2,1:55 PM,1:44,MISS Bass 2' Driving Layup,,,,
+0021001193,190,4,0,2,1:55 PM,1:42,Richardson REBOUND (Off:1 Def:0),,,,
+0021001193,189,1,5,2,1:55 PM,1:42,Richardson 3' Layup (11 PTS),,,46 - 46,TIE
+0021001193,191,9,1,2,1:55 PM,1:31,,,Bulls Timeout: Regular (Reg.3 Short 1),,
+0021001193,194,8,0,2,1:57 PM,1:31,,,SUB: Brewer FOR Korver,,
+0021001193,196,1,5,2,1:58 PM,1:23,,,Deng 1' Layup (4 PTS) (Boozer 2 AST),48 - 46,-2
+0021001193,197,2,1,2,1:59 PM,0:59,MISS Richardson 10' Jump Shot,,,,
+0021001193,199,4,0,2,1:59 PM,0:58,Anderson REBOUND (Off:2 Def:3),,,,
+0021001193,198,2,4,2,1:59 PM,0:58,MISS Anderson 2' Tip Shot,,,,
+0021001193,200,4,0,2,1:59 PM,0:56,,,Noah REBOUND (Off:0 Def:2),,
+0021001193,201,2,44,2,1:59 PM,0:38,Anderson BLOCK (1 BLK),,MISS Brewer 2' Reverse Layup,,
+0021001193,202,4,0,2,1:59 PM,0:37,,,Brewer REBOUND (Off:1 Def:0),,
+0021001193,203,1,5,2,1:59 PM,0:37,,,Brewer 2' Layup (2 PTS),50 - 46,-4
+0021001193,204,2,1,2,1:59 PM,0:23,MISS Turkoglu 20' Jump Shot,,,,
+0021001193,205,4,0,2,1:59 PM,0:22,,,Noah REBOUND (Off:0 Def:3),,
+0021001193,206,2,1,2,2:00 PM,0:03,,,MISS Boozer 19' Jump Shot,,
+0021001193,207,4,0,2,2:00 PM,0:01,Richardson REBOUND (Off:1 Def:1),,,,
+0021001193,208,1,1,2,2:00 PM,0:00,Nelson 45' 3PT Jump Shot (8 PTS) (Richardson 3 AST),,,50 - 49,-1
+0021001193,209,18,0,2,2:00 PM,0:00,,,,,
+0021001193,210,13,0,2,2:02 PM,0:00,,,,50 - 49,-1
+0021001193,212,12,0,3,2:19 PM,12:00,,,,50 - 49,-1
+0021001193,213,2,1,3,2:19 PM,11:40,MISS Bass 16' Jump Shot,,,,
+0021001193,215,4,0,3,2:19 PM,11:38,Anderson REBOUND (Off:3 Def:3),,,,
+0021001193,214,1,4,3,2:19 PM,11:38,Anderson 1' Tip Shot (12 PTS),,,50 - 51,1
+0021001193,216,2,1,3,2:19 PM,11:17,Bass BLOCK (1 BLK),,MISS Boozer 11' Jump Shot,,
+0021001193,217,4,0,3,2:19 PM,11:16,Turkoglu REBOUND (Off:0 Def:2),,,,
+0021001193,218,1,7,3,2:19 PM,11:12,Anderson 1' Dunk (14 PTS) (Turkoglu 2 AST),,,50 - 53,3
+0021001193,219,9,2,3,2:20 PM,11:12,,,Bulls Timeout: Short (Reg.3 Short 2),,
+0021001193,222,1,1,3,2:20 PM,11:01,,,Deng 17' Jump Shot (6 PTS) (Rose 2 AST),52 - 53,1
+0021001193,226,6,2,3,2:22 PM,10:44,,,Noah S.FOUL (P2.T1),,
+0021001193,227,3,11,3,2:22 PM,10:44,MISS Richardson Free Throw 1 of 2,,,,
+0021001193,228,4,1,3,2:22 PM,10:44,MAGIC Rebound,,,,
+0021001193,229,3,12,3,2:22 PM,10:44,MISS Richardson Free Throw 2 of 2,,,,
+0021001193,231,4,0,3,2:22 PM,10:43,,,Deng REBOUND (Off:0 Def:3),,
+0021001193,232,2,1,3,2:22 PM,10:27,,,MISS Boozer 9' Jump Shot,,
+0021001193,233,4,0,3,2:22 PM,10:26,Nelson REBOUND (Off:2 Def:1),,,,
+0021001193,234,5,1,3,2:22 PM,10:21,Nelson Bad Pass Turnover (P4.T7),,Noah STEAL (1 STL),,
+0021001193,235,1,7,3,2:23 PM,10:10,,,Noah 1' Dunk (4 PTS) (Rose 3 AST),54 - 53,-1
+0021001193,236,2,1,3,2:23 PM,9:55,MISS Turkoglu 21' Jump Shot,,,,
+0021001193,237,4,0,3,2:23 PM,9:53,,,Rose REBOUND (Off:0 Def:1),,
+0021001193,239,1,1,3,2:23 PM,9:35,,,Bogans 24' 3PT Jump Shot (8 PTS) (Noah 2 AST),57 - 53,-4
+0021001193,240,1,1,3,2:24 PM,9:20,Anderson  3PT Jump Shot (17 PTS) (Turkoglu 3 AST),,,57 - 56,-1
+0021001193,241,5,1,3,2:24 PM,8:58,Nelson STEAL (3 STL),,Rose Bad Pass Turnover (P2.T10),,
+0021001193,242,1,42,3,2:24 PM,8:53,Nelson 3' Driving Layup (10 PTS),,,57 - 58,1
+0021001193,243,2,42,3,2:24 PM,8:29,,,MISS Noah 2' Driving Layup,,
+0021001193,244,4,0,3,2:25 PM,8:27,Turkoglu REBOUND (Off:0 Def:3),,,,
+0021001193,245,5,1,3,2:25 PM,8:23,Nelson Bad Pass Turnover (P5.T8),,,,
+0021001193,246,1,42,3,2:25 PM,8:08,,,Rose 1' Driving Layup (19 PTS) (Boozer 3 AST),59 - 58,-1
+0021001193,247,2,1,3,2:25 PM,7:53,MISS Nelson 4' Jump Shot,,Noah BLOCK (1 BLK),,
+0021001193,248,4,0,3,2:25 PM,7:51,Nelson REBOUND (Off:3 Def:1),,,,
+0021001193,249,2,45,3,2:25 PM,7:51,MISS Turkoglu  3PT Jump Shot,,,,
+0021001193,264,4,0,3,2:25 PM,7:51,MAGIC Rebound,,,,
+0021001193,251,5,20,3,2:25 PM,7:51,Anderson Illegal Assist Turnover (P1.T9),,,,
+0021001193,250,5,2,3,2:26 PM,7:26,Turkoglu STEAL (3 STL),,Deng Lost Ball Turnover (P1.T11),,
+0021001193,271,2,42,3,2:26 PM,7:16,MISS Turkoglu 1' Driving Layup,,,,
+0021001193,276,4,0,3,2:26 PM,7:14,Bass REBOUND (Off:3 Def:0),,,,
+0021001193,280,2,53,3,2:26 PM,7:14,MISS Bass 2' Tip Shot,,,,
+0021001193,252,4,0,3,2:26 PM,7:13,,,Noah REBOUND (Off:0 Def:4),,
+0021001193,253,5,1,3,2:26 PM,7:06,,,Rose Bad Pass Turnover (P3.T12),,
+0021001193,254,6,1,3,2:27 PM,6:56,,,Boozer P.FOUL (P1.T2),,
+0021001193,255,2,1,3,2:27 PM,6:42,MISS Anderson 24' 3PT Jump Shot,,,,
+0021001193,256,4,0,3,2:27 PM,6:41,Bass REBOUND (Off:4 Def:0),,,,
+0021001193,257,2,1,3,2:27 PM,6:33,MISS Anderson  3PT Jump Shot,,,,
+0021001193,258,4,0,3,2:27 PM,6:31,,,Deng REBOUND (Off:0 Def:4),,
+0021001193,259,2,1,3,2:27 PM,6:22,,,MISS Bogans 24' 3PT Jump Shot,,
+0021001193,260,4,0,3,2:27 PM,6:20,Nelson REBOUND (Off:3 Def:2),,,,
+0021001193,261,1,1,3,2:28 PM,6:10,Anderson 26' 3PT Jump Shot (20 PTS) (Nelson 8 AST),,,59 - 61,2
+0021001193,262,1,5,3,2:28 PM,5:49,,,Deng 1' Layup (8 PTS) (Boozer 4 AST),61 - 61,TIE
+0021001193,263,9,1,3,2:28 PM,5:42,MAGIC Timeout: Regular (Full 3 Short 0),,,,
+0021001193,266,8,0,3,2:31 PM,5:42,,,SUB: Gibson FOR Noah,,
+0021001193,267,8,0,3,2:31 PM,5:42,SUB: Allen FOR Bass,,,,
+0021001193,268,1,8,3,2:32 PM,5:29,Anderson 2' Slam Dunk (22 PTS) (Richardson 4 AST),,,61 - 63,2
+0021001193,269,6,2,3,2:32 PM,5:12,Allen S.FOUL (P2.T1),,,,
+0021001193,270,3,11,3,2:32 PM,5:12,,,Rose Free Throw 1 of 2 (20 PTS),62 - 63,1
+0021001193,273,3,12,3,2:32 PM,5:12,,,Rose Free Throw 2 of 2 (21 PTS),63 - 63,TIE
+0021001193,277,6,2,3,2:33 PM,5:02,,,Rose S.FOUL (P2.T3),,
+0021001193,278,3,11,3,2:33 PM,5:02,Nelson Free Throw 1 of 2 (11 PTS),,,63 - 64,1
+0021001193,282,8,0,3,2:33 PM,5:02,SUB: Arenas FOR Richardson,,,,
+0021001193,283,3,12,3,2:34 PM,5:02,Nelson Free Throw 2 of 2 (12 PTS),,,63 - 65,2
+0021001193,285,5,40,3,2:34 PM,4:45,,,Boozer Out of Bounds Lost Ball Turnover (P2.T13),,
+0021001193,287,2,1,3,2:35 PM,4:20,MISS Turkoglu 24' 3PT Jump Shot,,,,
+0021001193,288,4,0,3,2:35 PM,4:19,,,Bogans REBOUND (Off:0 Def:2),,
+0021001193,290,1,5,3,2:35 PM,4:04,,,Gibson 1' Layup (5 PTS) (Boozer 5 AST),65 - 65,TIE
+0021001193,291,6,2,3,2:35 PM,4:04,Allen S.FOUL (P3.T2),,,,
+0021001193,292,3,10,3,2:35 PM,4:04,,,Gibson Free Throw 1 of 1 (6 PTS),66 - 65,-1
+0021001193,294,6,1,3,2:36 PM,3:53,,,Bogans P.FOUL (P1.T4),,
+0021001193,295,2,75,3,2:36 PM,3:39,MISS Turkoglu 2' Driving Finger Roll Layup,,,,
+0021001193,297,4,0,3,2:36 PM,3:38,Anderson REBOUND (Off:4 Def:3),,,,
+0021001193,296,2,4,3,2:36 PM,3:38,MISS Anderson 1' Tip Shot,,,,
+0021001193,298,4,0,3,2:36 PM,3:37,,,Boozer REBOUND (Off:1 Def:4),,
+0021001193,299,6,1,3,2:36 PM,3:35,Nelson P.FOUL (P2.T3),,,,
+0021001193,300,8,0,3,2:37 PM,3:35,SUB: Richardson FOR Turkoglu,,,,
+0021001193,301,1,79,3,2:37 PM,3:26,,,Deng 20' Pullup Jump Shot (10 PTS) (Rose 4 AST),68 - 65,-3
+0021001193,302,1,1,3,2:38 PM,3:13,Allen 15' Jump Shot (2 PTS) (Nelson 9 AST),,,68 - 67,-1
+0021001193,303,1,1,3,2:38 PM,2:54,,,Deng 17' Jump Shot (12 PTS) (Rose 5 AST),70 - 67,-3
+0021001193,304,6,2,3,2:38 PM,2:46,,,Rose S.FOUL (P3.PN),,
+0021001193,305,9,1,3,2:38 PM,2:46,,,Bulls Timeout: Regular (Reg.4 Short 2),,
+0021001193,309,3,13,3,2:41 PM,2:46,Nelson Free Throw 1 of 3 (13 PTS),,,70 - 68,-2
+0021001193,311,3,14,3,2:41 PM,2:46,Nelson Free Throw 2 of 3 (14 PTS),,,70 - 69,-1
+0021001193,313,3,15,3,2:42 PM,2:46,Nelson Free Throw 3 of 3 (15 PTS),,,70 - 70,TIE
+0021001193,315,1,79,3,2:42 PM,2:26,,,Rose 25' 3PT Pullup Jump Shot (24 PTS),73 - 70,-3
+0021001193,316,2,1,3,2:43 PM,2:03,MISS Arenas 19' Jump Shot,,,,
+0021001193,317,4,0,3,2:43 PM,2:02,,,Gibson REBOUND (Off:0 Def:8),,
+0021001193,318,6,1,3,2:43 PM,1:55,Nelson P.FOUL (P3.T4),,,,
+0021001193,319,8,0,3,2:43 PM,1:55,,,SUB: Brewer FOR Bogans,,
+0021001193,320,1,42,3,2:44 PM,1:48,,,Rose 2' Driving Layup (26 PTS),75 - 70,-5
+0021001193,321,6,1,3,2:44 PM,1:33,,,Gibson P.FOUL (P1.PN),,
+0021001193,322,3,11,3,2:44 PM,1:33,Anderson Free Throw 1 of 2 (23 PTS),,,75 - 71,-4
+0021001193,324,3,12,3,2:44 PM,1:33,Anderson Free Throw 2 of 2 (24 PTS),,,75 - 72,-3
+0021001193,326,6,2,3,2:45 PM,1:19,Anderson S.FOUL (P2.PN),,,,
+0021001193,327,3,11,3,2:45 PM,1:19,,,Rose Free Throw 1 of 2 (27 PTS),76 - 72,-4
+0021001193,328,3,12,3,2:46 PM,1:19,,,Rose Free Throw 2 of 2 (28 PTS),77 - 72,-5
+0021001193,330,1,1,3,2:46 PM,1:06,Richardson 25' 3PT Jump Shot (14 PTS) (Nelson 10 AST),,,77 - 75,-2
+0021001193,331,1,1,3,2:46 PM,0:47,,,Deng 24' 3PT Jump Shot (15 PTS) (Boozer 6 AST),80 - 75,-5
+0021001193,332,1,1,3,2:47 PM,0:34,Richardson 23' Jump Shot (16 PTS) (Nelson 11 AST),,,80 - 77,-3
+0021001193,333,2,1,3,2:47 PM,0:19,,,MISS Boozer 3' Jump Shot,,
+0021001193,334,4,0,3,2:47 PM,0:18,Allen REBOUND (Off:0 Def:1),,,,
+0021001193,336,13,0,3,2:48 PM,0:00,,,,80 - 77,-3
+0021001193,340,12,0,4,2:51 PM,12:00,,,,80 - 77,-3
+0021001193,342,2,1,4,2:51 PM,11:37,,,MISS Brewer  3PT Jump Shot,,
+0021001193,343,4,0,4,2:52 PM,11:36,Richardson REBOUND (Off:1 Def:2),,,,
+0021001193,344,1,1,4,2:52 PM,11:22,Richardson 25' 3PT Jump Shot (19 PTS) (Duhon 2 AST),,,80 - 80,TIE
+0021001193,345,2,1,4,2:52 PM,11:06,,,MISS Deng 24' Jump Shot,,
+0021001193,346,4,0,4,2:52 PM,11:05,MAGIC Rebound,,,,
+0021001193,347,6,3,4,2:52 PM,11:05,,,Gibson L.B.FOUL (P2.T1),,
+0021001193,348,6,4,4,2:53 PM,10:57,Arenas OFF.Foul (P2),,,,
+0021001193,349,5,5,4,2:53 PM,10:57,Arenas Foul Turnover (P1.T10),,,,
+0021001193,351,7,5,4,2:53 PM,10:35,Arenas Violation:Kicked Ball,,,,
+0021001193,352,1,44,4,2:54 PM,10:28,,,Brewer 1' Reverse Layup (4 PTS) (Watson 1 AST),82 - 80,-2
+0021001193,354,1,42,4,2:54 PM,10:07,Duhon 2' Driving Layup (2 PTS),,,82 - 82,TIE
+0021001193,355,6,2,4,2:55 PM,9:52,Arenas S.FOUL (P3.T1),,,,
+0021001193,356,3,11,4,2:55 PM,9:52,,,Brewer Free Throw 1 of 2 (5 PTS),83 - 82,-1
+0021001193,358,3,12,4,2:55 PM,9:52,,,Brewer Free Throw 2 of 2 (6 PTS),84 - 82,-2
+0021001193,360,2,1,4,2:56 PM,9:31,MISS Bass 20' Jump Shot,,,,
+0021001193,361,4,0,4,2:56 PM,9:30,,,Gibson REBOUND (Off:0 Def:9),,
+0021001193,362,2,1,4,2:56 PM,9:11,Bass BLOCK (2 BLK),,MISS Gibson 9' Jump Shot,,
+0021001193,363,4,0,4,2:56 PM,9:09,,,Watson REBOUND (Off:1 Def:0),,
+0021001193,364,2,1,4,2:56 PM,9:05,,,MISS Watson 20' Jump Shot,,
+0021001193,365,4,0,4,2:56 PM,9:04,Duhon REBOUND (Off:0 Def:1),,,,
+0021001193,366,2,1,4,2:56 PM,8:47,MISS Richardson 16' Jump Shot,,,,
+0021001193,367,4,0,4,2:56 PM,8:46,,,Brewer REBOUND (Off:1 Def:1),,
+0021001193,368,5,1,4,2:56 PM,8:43,Duhon STEAL (1 STL),,Brewer Bad Pass Turnover (P2.T14),,
+0021001193,369,1,5,4,2:56 PM,8:40,Duhon 1' Layup (4 PTS),,,84 - 84,TIE
+0021001193,370,6,26,4,2:57 PM,8:25,,,Watson Offensive Charge Foul (P1.T2),,
+0021001193,371,5,5,4,2:57 PM,8:25,,,Watson Foul Turnover (P1.T15),,
+0021001193,372,9,4,4,2:57 PM,8:25,,,,,
+0021001193,374,8,0,4,2:59 PM,8:25,,,SUB: Rose FOR Deng,,
+0021001193,375,8,0,4,2:59 PM,8:25,,,SUB: Korver FOR Watson,,
+0021001193,376,8,0,4,2:59 PM,8:25,SUB: Turkoglu FOR Richardson,,,,
+0021001193,377,2,7,4,3:00 PM,8:08,MISS Bass 2' Dunk,,Asik BLOCK (1 BLK),,
+0021001193,378,4,0,4,3:00 PM,8:06,,,Gibson REBOUND (Off:0 Def:10),,
+0021001193,379,5,2,4,3:01 PM,7:47,Arenas STEAL (1 STL),,Brewer Lost Ball Turnover (P3.T16),,
+0021001193,380,2,1,4,3:01 PM,7:38,MISS Arenas 25' 3PT Jump Shot,,,,
+0021001193,381,4,0,4,3:01 PM,7:37,,,Brewer REBOUND (Off:1 Def:2),,
+0021001193,382,1,79,4,3:01 PM,7:27,,,Rose 26' 3PT Pullup Jump Shot (31 PTS),87 - 84,-3
+0021001193,383,2,1,4,3:01 PM,7:04,MISS Turkoglu 19' Jump Shot,,,,
+0021001193,384,4,0,4,3:01 PM,7:03,Allen REBOUND (Off:1 Def:1),,,,
+0021001193,386,2,1,4,3:02 PM,6:50,MISS Turkoglu 16' Jump Shot,,,,
+0021001193,387,4,0,4,3:02 PM,6:49,,,Korver REBOUND (Off:0 Def:1),,
+0021001193,388,2,1,4,3:02 PM,6:35,,,MISS Rose 25' 3PT Jump Shot,,
+0021001193,389,4,0,4,3:02 PM,6:34,Turkoglu REBOUND (Off:0 Def:4),,,,
+0021001193,390,1,1,4,3:02 PM,6:20,Duhon  3PT Jump Shot (7 PTS) (Turkoglu 4 AST),,,87 - 87,TIE
+0021001193,391,1,79,4,3:03 PM,5:51,,,Gibson 22' Pullup Jump Shot (8 PTS),89 - 87,-2
+0021001193,392,6,1,4,3:03 PM,5:30,,,Asik P.FOUL (P1.T3),,
+0021001193,393,9,1,4,3:03 PM,5:30,MAGIC Timeout: Regular (Full 4 Short 0),,,,
+0021001193,395,8,0,4,3:06 PM,5:30,,,SUB: Boozer FOR Brewer,,
+0021001193,396,8,0,4,3:06 PM,5:30,,,SUB: Deng FOR Asik,,
+0021001193,397,8,0,4,3:06 PM,5:30,SUB: Anderson FOR Arenas,,,,
+0021001193,398,8,0,4,3:06 PM,5:30,SUB: Richardson FOR Allen,,,,
+0021001193,399,8,0,4,3:06 PM,5:30,SUB: Nelson FOR Duhon,,,,
+0021001193,400,2,1,4,3:07 PM,5:19,MISS Anderson 20' Jump Shot,,,,
+0021001193,401,4,0,4,3:07 PM,5:18,,,Gibson REBOUND (Off:0 Def:11),,
+0021001193,402,2,86,4,3:07 PM,4:57,,,MISS Deng 16' Turnaround Fadeaway Shot,,
+0021001193,403,4,0,4,3:07 PM,4:56,Bass REBOUND (Off:4 Def:1),,,,
+0021001193,404,6,2,4,3:08 PM,4:44,,,Gibson S.FOUL (P3.T4),,
+0021001193,405,18,0,4,3:08 PM,4:44,,,,,
+0021001193,408,3,11,4,3:09 PM,4:44,Anderson Free Throw 1 of 2 (25 PTS),,,89 - 88,-1
+0021001193,410,3,12,4,3:09 PM,4:44,Anderson Free Throw 2 of 2 (26 PTS),,,89 - 89,TIE
+0021001193,413,2,46,4,3:10 PM,4:30,Bass BLOCK (3 BLK),,MISS Rose 6' Running Jump Shot,,
+0021001193,415,4,0,4,3:10 PM,4:27,,,Rose REBOUND (Off:1 Def:1),,
+0021001193,414,1,1,4,3:10 PM,4:27,,,Rose 8' Jump Shot (33 PTS),91 - 89,-2
+0021001193,416,2,1,4,3:10 PM,4:10,MISS Richardson 24' 3PT Jump Shot,,,,
+0021001193,417,4,0,4,3:10 PM,4:09,,,Rose REBOUND (Off:1 Def:2),,
+0021001193,418,6,26,4,3:10 PM,3:54,,,Boozer Offensive Charge Foul (P2.PN),,
+0021001193,419,5,5,4,3:10 PM,3:54,,,Boozer Foul Turnover (P3.T17),,
+0021001193,420,1,84,4,3:11 PM,3:40,Nelson 12' Running Bank Shot (17 PTS),,,91 - 91,TIE
+0021001193,421,5,1,4,3:11 PM,3:18,Richardson STEAL (1 STL),,Rose Bad Pass Turnover (P4.T18),,
+0021001193,424,6,2,4,3:11 PM,3:15,,,Korver S.FOUL (P3.PN),,
+0021001193,425,3,11,4,3:12 PM,3:15,Bass Free Throw 1 of 2 (5 PTS),,,91 - 92,1
+0021001193,427,3,12,4,3:12 PM,3:15,MISS Bass Free Throw 2 of 2,,,,
+0021001193,429,4,0,4,3:12 PM,3:14,,,Boozer REBOUND (Off:1 Def:5),,
+0021001193,430,5,1,4,3:12 PM,2:52,Richardson STEAL (2 STL),,Boozer Bad Pass Turnover (P4.T19),,
+0021001193,431,1,42,4,3:13 PM,2:48,Richardson 3' Driving Layup (21 PTS),,,91 - 94,3
+0021001193,432,9,1,4,3:13 PM,2:46,,,Bulls Timeout: Regular (Reg.5 Short 2),,
+0021001193,435,6,2,4,3:16 PM,2:40,Anderson S.FOUL (P3.T2),,,,
+0021001193,436,3,11,4,3:16 PM,2:40,,,Rose Free Throw 1 of 2 (34 PTS),92 - 94,2
+0021001193,438,3,12,4,3:17 PM,2:40,,,Rose Free Throw 2 of 2 (35 PTS),93 - 94,1
+0021001193,440,5,2,4,3:17 PM,2:27,Richardson Lost Ball Turnover (P1.T11),,Gibson STEAL (1 STL),,
+0021001193,441,6,1,4,3:18 PM,2:23,Nelson P.FOUL (P4.T3),,,,
+0021001193,443,5,2,4,3:18 PM,2:09,Richardson STEAL (3 STL),,Deng Lost Ball Turnover (P2.T20),,
+0021001193,444,5,1,4,3:18 PM,2:02,Richardson Bad Pass Turnover (P2.T12),,Gibson STEAL (2 STL),,
+0021001193,445,1,8,4,3:18 PM,1:58,,,Rose 2' Slam Dunk (37 PTS) (Gibson 1 AST),95 - 94,-1
+0021001193,446,2,1,4,3:19 PM,1:44,MISS Nelson 16' Jump Shot,,,,
+0021001193,448,4,0,4,3:19 PM,1:42,Anderson REBOUND (Off:5 Def:3),,,,
+0021001193,447,2,4,4,3:19 PM,1:42,MISS Anderson 2' Tip Shot,,,,
+0021001193,449,4,0,4,3:19 PM,1:42,Anderson REBOUND (Off:6 Def:3),,,,
+0021001193,450,6,2,4,3:19 PM,1:42,,,Boozer S.FOUL (P3.PN),,
+0021001193,451,3,11,4,3:19 PM,1:42,Anderson Free Throw 1 of 2 (27 PTS),,,95 - 95,TIE
+0021001193,453,3,12,4,3:19 PM,1:42,Anderson Free Throw 2 of 2 (28 PTS),,,95 - 96,1
+0021001193,455,6,2,4,3:20 PM,1:26,Bass S.FOUL (P1.T4),,,,
+0021001193,456,3,11,4,3:20 PM,1:26,,,Boozer Free Throw 1 of 2 (9 PTS),96 - 96,TIE
+0021001193,458,3,12,4,3:21 PM,1:26,,,Boozer Free Throw 2 of 2 (10 PTS),97 - 96,-1
+0021001193,460,2,1,4,3:21 PM,1:12,MISS Nelson 21' Jump Shot,,,,
+0021001193,461,4,0,4,3:21 PM,1:11,,,Korver REBOUND (Off:0 Def:2),,
+0021001193,462,5,40,4,3:21 PM,0:49,,,Rose Out of Bounds Lost Ball Turnover (P5.T21),,
+0021001193,463,18,0,4,3:22 PM,0:49,,,,,
+0021001193,464,8,0,4,3:24 PM,0:49,,,SUB: Brewer FOR Korver,,
+0021001193,468,5,40,4,3:26 PM,0:32,Bass Out of Bounds Lost Ball Turnover (P2.T13),,,,
+0021001193,469,18,0,4,3:26 PM,0:32,,,,97 - 96,-1
+0021001193,471,8,0,4,3:27 PM,0:32,,,SUB: Korver FOR Brewer,,
+0021001193,472,6,2,4,3:28 PM,0:14,Richardson S.FOUL (P1.PN),,,,
+0021001193,473,8,0,4,3:28 PM,0:14,,,SUB: Brewer FOR Korver,,
+0021001193,474,3,11,4,3:28 PM,0:14,,,Gibson Free Throw 1 of 2 (9 PTS),98 - 96,-2
+0021001193,476,3,12,4,3:28 PM,0:14,,,MISS Gibson Free Throw 2 of 2,,
+0021001193,478,4,0,4,3:28 PM,0:12,,,Deng REBOUND (Off:1 Def:4),,
+0021001193,480,6,1,4,3:29 PM,0:09,Richardson P.FOUL (P2.PN),,,,
+0021001193,481,3,11,4,3:29 PM,0:09,,,Rose Free Throw 1 of 2 (38 PTS),99 - 96,-3
+0021001193,483,3,12,4,3:29 PM,0:09,,,Rose Free Throw 2 of 2 (39 PTS),100 - 96,-4
+0021001193,485,9,1,4,3:29 PM,0:09,MAGIC Timeout: Regular (Full 5 Short 0),,,,
+0021001193,488,8,0,4,3:31 PM,0:09,,,SUB: Watson FOR Boozer,,
+0021001193,489,2,1,4,3:31 PM,0:06,MISS Nelson  3PT Jump Shot,,,,
+0021001193,490,4,0,4,3:31 PM,0:05,Anderson REBOUND (Off:7 Def:3),,,,
+0021001193,491,1,1,4,3:31 PM,0:02,Richardson 25' 3PT Jump Shot (24 PTS) (Anderson 1 AST),,,100 - 99,-1
+0021001193,492,9,1,4,3:32 PM,0:02,,,Bulls Timeout: Regular (Reg.6 Short 2),,
+0021001193,494,8,0,4,3:33 PM,0:02,,,SUB: Boozer FOR Gibson,,
+0021001193,495,8,0,4,3:33 PM,0:02,,,SUB: Korver FOR Brewer,,
+0021001193,497,6,1,4,3:34 PM,0:02,Anderson P.FOUL (P4.PN),,,,
+0021001193,498,3,11,4,3:34 PM,0:02,,,Boozer Free Throw 1 of 2 (11 PTS),101 - 99,-2
+0021001193,500,3,12,4,3:34 PM,0:02,,,Boozer Free Throw 2 of 2 (12 PTS),102 - 99,-3
+0021001193,502,9,2,4,3:35 PM,0:02,MAGIC Timeout: Short (Full 5 Short 1),,,,
+0021001193,504,8,0,4,3:36 PM,0:02,,,SUB: Gibson FOR Boozer,,
+0021001193,505,8,0,4,3:36 PM,0:02,,,SUB: Brewer FOR Korver,,
+0021001193,506,18,0,4,3:37 PM,0:00,,,,102 - 99,-3
+0021001193,507,13,0,4,3:37 PM,0:00,,,,102 - 99,-3

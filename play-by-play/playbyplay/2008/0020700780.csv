@@ -1,0 +1,485 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020700780,0,12,0,1,7:07 PM,12:00,,,,,
+0020700780,1,10,0,1,7:07 PM,12:00,Jump Ball Haywood vs. Curry: Tip to Crawford,,,,
+0020700780,2,2,1,1,7:08 PM,11:35,,,MISS Crawford 27' 3PT Jump Shot,,
+0020700780,3,4,0,1,7:08 PM,11:34,,,Knicks Rebound,,
+0020700780,4,5,11,1,7:08 PM,11:34,,,Knicks Turnover: Shot Clock (T#1),,
+0020700780,5,2,1,1,7:09 PM,11:17,MISS Jamison 17' Jump Shot,,,,
+0020700780,6,4,0,1,7:09 PM,11:16,,,Crawford REBOUND (Off:0 Def:1),,
+0020700780,7,2,1,1,7:09 PM,11:03,,,MISS Robinson 17' Jump Shot,,
+0020700780,8,4,0,1,7:09 PM,11:02,,,Robinson REBOUND (Off:1 Def:0),,
+0020700780,9,2,1,1,7:09 PM,10:55,,,MISS Richardson 24' 3PT Jump Shot,,
+0020700780,10,4,0,1,7:09 PM,10:54,,,Knicks Rebound,,
+0020700780,11,1,1,1,7:10 PM,10:44,,,Randolph 12' Jump Shot (2 PTS) (Richardson 1 AST),2 - 0,-2
+0020700780,12,2,1,1,7:10 PM,10:28,MISS Jamison 11' Jump Shot,,,,
+0020700780,13,4,0,1,7:10 PM,10:27,,,Randolph REBOUND (Off:0 Def:1),,
+0020700780,14,5,1,1,7:10 PM,10:19,Haywood STEAL (1 STL),,Randolph Bad Pass Turnover (P1.T2),,
+0020700780,15,2,1,1,7:11 PM,10:06,MISS Blatche 19' Jump Shot,,,,
+0020700780,16,4,0,1,7:11 PM,10:05,,,Richardson REBOUND (Off:0 Def:1),,
+0020700780,17,2,1,1,7:11 PM,9:58,Blatche BLOCK (1 BLK),,MISS Robinson 3' Jump Shot,,
+0020700780,18,4,0,1,7:11 PM,9:55,Daniels REBOUND (Off:0 Def:1),,,,
+0020700780,19,1,5,1,7:11 PM,9:49,Daniels 1' Layup (2 PTS),,,2 - 2,TIE
+0020700780,20,1,1,1,7:11 PM,9:32,,,Randolph 16' Jump Shot (4 PTS),4 - 2,-2
+0020700780,21,2,1,1,7:11 PM,9:11,MISS Daniels 25' 3PT Jump Shot,,,,
+0020700780,22,4,0,1,7:11 PM,9:10,,,Richardson REBOUND (Off:0 Def:2),,
+0020700780,23,2,1,1,7:12 PM,8:57,,,MISS Curry 5' Jump Shot,,
+0020700780,24,4,0,1,7:12 PM,8:56,,,Curry REBOUND (Off:1 Def:0),,
+0020700780,25,2,1,1,7:12 PM,8:45,,,MISS Crawford 25' 3PT Jump Shot,,
+0020700780,26,4,0,1,7:12 PM,8:44,Blatche REBOUND (Off:0 Def:1),,,,
+0020700780,27,9,1,1,7:12 PM,8:38,WIZARDS Timeout: Regular (Full 1 Short 0),,,,
+0020700780,29,2,1,1,7:15 PM,8:25,MISS Blatche 19' Jump Shot,,,,
+0020700780,30,4,0,1,7:15 PM,8:24,Jamison REBOUND (Off:1 Def:0),,,,
+0020700780,31,2,1,1,7:15 PM,8:21,MISS Jamison 13' Jump Shot,,,,
+0020700780,32,4,0,1,7:15 PM,8:20,,,Curry REBOUND (Off:1 Def:1),,
+0020700780,33,6,2,1,7:15 PM,8:05,Blatche S.FOUL (P1.T1),,,,
+0020700780,34,3,11,1,7:15 PM,8:05,,,Curry Free Throw 1 of 2 (1 PTS),5 - 2,-3
+0020700780,35,3,12,1,7:15 PM,8:05,,,Curry Free Throw 2 of 2 (2 PTS),6 - 2,-4
+0020700780,36,2,1,1,7:16 PM,7:48,MISS Blatche 18' Jump Shot,,,,
+0020700780,37,4,0,1,7:16 PM,7:47,,,Randolph REBOUND (Off:0 Def:2),,
+0020700780,38,5,1,1,7:16 PM,7:40,Daniels STEAL (1 STL),,Robinson Bad Pass Turnover (P1.T3),,
+0020700780,39,1,42,1,7:16 PM,7:35,Daniels 1' Driving Layup (4 PTS),,,6 - 4,-2
+0020700780,40,6,4,1,7:16 PM,7:23,,,Randolph OFF.Foul (P1),,
+0020700780,41,5,5,1,7:16 PM,7:23,,,Randolph Foul Turnover (P2.T4),,
+0020700780,42,1,1,1,7:17 PM,7:00,Stevenson 25' 3PT Jump Shot (3 PTS) (Blatche 1 AST),,,6 - 7,1
+0020700780,43,6,1,1,7:17 PM,6:49,Haywood P.FOUL (P1.T2),,,,
+0020700780,44,1,1,1,7:18 PM,6:43,,,Robinson 19' Jump Shot (2 PTS),8 - 7,-1
+0020700780,45,1,88,1,7:18 PM,6:26,Haywood 1' Driving Slam Dunk (2 PTS),,,8 - 9,1
+0020700780,46,2,1,1,7:18 PM,6:03,Haywood BLOCK (1 BLK),,MISS Randolph 4' Jump Shot,,
+0020700780,47,4,0,1,7:18 PM,6:02,Haywood REBOUND (Off:0 Def:1),,,,
+0020700780,48,2,1,1,7:18 PM,5:56,MISS Jamison 24' 3PT Jump Shot,,,,
+0020700780,49,4,0,1,7:18 PM,5:55,,,Randolph REBOUND (Off:0 Def:3),,
+0020700780,50,2,1,1,7:19 PM,5:46,,,MISS Richardson 25' 3PT Jump Shot,,
+0020700780,51,4,0,1,7:19 PM,5:45,Jamison REBOUND (Off:1 Def:1),,,,
+0020700780,52,1,1,1,7:19 PM,5:36,Stevenson 24' 3PT Jump Shot (6 PTS) (Daniels 1 AST),,,8 - 12,4
+0020700780,53,5,1,1,7:19 PM,5:18,Haywood STEAL (2 STL),,Crawford Bad Pass Turnover (P1.T5),,
+0020700780,54,2,5,1,7:19 PM,5:12,MISS Daniels 1' Layup,,,,
+0020700780,55,4,0,1,7:19 PM,5:12,,,Knicks Rebound,,
+0020700780,56,1,1,1,7:20 PM,4:54,,,Randolph 26' 3PT Jump Shot (7 PTS) (Curry 1 AST),11 - 12,1
+0020700780,57,1,89,1,7:20 PM,4:38,Blatche  Reverse Slam Dunk (2 PTS) (Daniels 2 AST),,,11 - 14,3
+0020700780,58,1,46,1,7:20 PM,4:12,,,Robinson 6' Running Jump Shot (4 PTS),13 - 14,1
+0020700780,59,2,1,1,7:21 PM,3:58,MISS Daniels 17' Jump Shot,,,,
+0020700780,60,4,0,1,7:21 PM,3:57,,,Robinson REBOUND (Off:1 Def:1),,
+0020700780,61,6,2,1,7:21 PM,3:51,Jamison S.FOUL (P1.T3),,,,
+0020700780,62,8,0,1,7:21 PM,3:51,,,SUB: Jones FOR Robinson,,
+0020700780,63,3,11,1,7:21 PM,3:51,,,Randolph Free Throw 1 of 2 (8 PTS),14 - 14,TIE
+0020700780,64,3,12,1,7:22 PM,3:51,,,Randolph Free Throw 2 of 2 (9 PTS),15 - 14,-1
+0020700780,66,1,78,1,7:22 PM,3:30,Jamison 7' Floating Jump Shot (2 PTS),,,15 - 16,1
+0020700780,67,9,1,1,7:22 PM,3:21,,,Knicks Timeout: Regular (Reg.1 Short 0),,
+0020700780,68,8,0,1,7:22 PM,3:21,,,SUB: Lee FOR Randolph,,
+0020700780,70,8,0,1,7:25 PM,3:21,SUB: McGuire FOR Blatche,,,,
+0020700780,71,5,1,1,7:25 PM,3:13,Stevenson STEAL (1 STL),,Jones Bad Pass Turnover (P1.T6),,
+0020700780,72,2,1,1,7:25 PM,2:58,MISS Haywood 6' Jump Shot,,,,
+0020700780,73,4,0,1,7:25 PM,2:57,Jamison REBOUND (Off:2 Def:1),,,,
+0020700780,74,1,4,1,7:25 PM,2:55,Jamison  Tip Shot (4 PTS),,,15 - 18,3
+0020700780,75,5,2,1,7:26 PM,2:45,Jamison STEAL (1 STL),,Curry Lost Ball Turnover (P1.T7),,
+0020700780,76,5,1,1,7:26 PM,2:43,Jamison Bad Pass Turnover (P1.T1),,,,
+0020700780,77,1,1,1,7:26 PM,2:21,,,Richardson 25' 3PT Jump Shot (3 PTS) (Jones 1 AST),18 - 18,TIE
+0020700780,78,8,0,1,7:27 PM,2:00,,,SUB: Rose FOR Curry,,
+0020700780,79,2,1,1,7:27 PM,1:55,MISS Jamison 17' Jump Shot,,,,
+0020700780,80,4,0,1,7:27 PM,1:54,,,Rose REBOUND (Off:0 Def:1),,
+0020700780,81,5,1,1,7:27 PM,1:43,Stevenson STEAL (2 STL),,Crawford Bad Pass Turnover (P2.T8),,
+0020700780,82,2,1,1,7:27 PM,1:27,MISS Daniels 21' Jump Shot,,,,
+0020700780,83,4,0,1,7:27 PM,1:26,,,Jones REBOUND (Off:0 Def:1),,
+0020700780,84,1,56,1,7:28 PM,1:14,,,Lee 4' Running Hook Shot (2 PTS) (Jones 2 AST),20 - 18,-2
+0020700780,85,8,0,1,7:28 PM,0:57,SUB: Mason Jr. FOR Daniels,,,,
+0020700780,86,8,0,1,7:28 PM,0:57,SUB: Songaila FOR Haywood,,,,
+0020700780,87,2,1,1,7:29 PM,0:53,MISS Songaila 12' Jump Shot,,,,
+0020700780,88,4,0,1,7:29 PM,0:52,,,Crawford REBOUND (Off:0 Def:2),,
+0020700780,89,6,1,1,7:29 PM,0:47,Songaila P.FOUL (P1.T4),,,,
+0020700780,90,1,1,1,7:29 PM,0:37,,,Richardson 25' 3PT Jump Shot (6 PTS) (Rose 1 AST),23 - 18,-5
+0020700780,91,2,1,1,7:30 PM,0:14,MISS Stevenson 24' 3PT Jump Shot,,,,
+0020700780,92,4,0,1,7:30 PM,0:13,Songaila REBOUND (Off:1 Def:0),,,,
+0020700780,93,6,2,1,7:30 PM,0:02,,,Crawford S.FOUL (P1.T1),,
+0020700780,94,3,11,1,7:30 PM,0:02,Mason Jr. Free Throw 1 of 2 (1 PTS),,,23 - 19,-4
+0020700780,95,8,0,1,7:30 PM,0:02,SUB: Blatche FOR Jamison,,,,
+0020700780,96,3,12,1,7:31 PM,0:02,Mason Jr. Free Throw 2 of 2 (2 PTS),,,23 - 20,-3
+0020700780,97,5,1,1,7:31 PM,0:01,Stevenson STEAL (3 STL),,Rose Bad Pass Turnover (P1.T9),,
+0020700780,98,2,1,1,7:31 PM,0:00,MISS Stevenson 41' 3PT Jump Shot,,,,
+0020700780,99,4,0,1,7:31 PM,0:00,WIZARDS Rebound,,,,
+0020700780,100,13,0,1,7:31 PM,0:00,,,,23 - 20,-3
+0020700780,102,12,0,2,7:34 PM,12:00,,,,23 - 20,-3
+0020700780,103,2,1,2,7:34 PM,11:37,MISS Mason Jr. 26' 3PT Jump Shot,,,,
+0020700780,104,4,0,2,7:34 PM,11:36,Songaila REBOUND (Off:2 Def:0),,,,
+0020700780,105,6,2,2,7:34 PM,11:18,,,Rose S.FOUL (P1.T1),,
+0020700780,106,3,11,2,7:34 PM,11:18,McGuire Free Throw 1 of 2 (1 PTS),,,23 - 21,-2
+0020700780,107,3,12,2,7:35 PM,11:18,MISS McGuire Free Throw 2 of 2,,,,
+0020700780,108,4,0,2,7:35 PM,11:17,,,Lee REBOUND (Off:0 Def:1),,
+0020700780,110,2,1,2,7:35 PM,11:03,,,MISS Crawford 10' Jump Shot,,
+0020700780,111,4,0,2,7:35 PM,11:02,Blatche REBOUND (Off:0 Def:2),,,,
+0020700780,112,2,1,2,7:35 PM,10:48,MISS Songaila 20' Jump Shot,,,,
+0020700780,113,4,0,2,7:35 PM,10:47,,,Lee REBOUND (Off:0 Def:2),,
+0020700780,114,6,2,2,7:36 PM,10:43,Young S.FOUL (P1.T1),,,,
+0020700780,115,3,11,2,7:36 PM,10:43,,,Jones Free Throw 1 of 2 (1 PTS),24 - 21,-3
+0020700780,116,8,0,2,7:36 PM,10:43,,,SUB: Robinson FOR Crawford,,
+0020700780,117,3,12,2,7:36 PM,10:43,,,Jones Free Throw 2 of 2 (2 PTS),25 - 21,-4
+0020700780,118,1,1,2,7:37 PM,10:21,Mason Jr. 27' 3PT Jump Shot (5 PTS) (Blatche 2 AST),,,25 - 24,-1
+0020700780,119,1,8,2,7:37 PM,10:00,,,Lee 1' Slam Dunk (4 PTS) (Robinson 1 AST),27 - 24,-3
+0020700780,120,5,2,2,7:37 PM,9:38,Mason Jr. Lost Ball Turnover (P1.T2),,Rose STEAL (1 STL),,
+0020700780,121,5,2,2,7:38 PM,9:24,Songaila STEAL (1 STL),,Jeffries Lost Ball Turnover (P1.T10),,
+0020700780,122,1,1,2,7:38 PM,9:14,Young 19' Jump Shot (2 PTS),,,27 - 26,-1
+0020700780,123,1,1,2,7:38 PM,8:55,,,Lee 19' Jump Shot (6 PTS) (Jeffries 1 AST),29 - 26,-3
+0020700780,124,1,63,2,7:39 PM,8:35,Young 19' Fadeaway Jumper (4 PTS),,,29 - 28,-1
+0020700780,125,1,1,2,7:39 PM,8:19,,,Jeffries 20' Jump Shot (2 PTS) (Lee 1 AST),31 - 28,-3
+0020700780,126,1,1,2,7:39 PM,8:03,Young 17' Jump Shot (6 PTS),,,31 - 30,-1
+0020700780,127,2,1,2,7:39 PM,7:44,,,MISS Rose 17' Jump Shot,,
+0020700780,128,4,0,2,7:40 PM,7:43,,,Jeffries REBOUND (Off:1 Def:0),,
+0020700780,129,2,1,2,7:40 PM,7:39,McGuire BLOCK (1 BLK),,MISS Jeffries 4' Jump Shot,,
+0020700780,130,4,0,2,7:40 PM,7:38,,,Lee REBOUND (Off:1 Def:2),,
+0020700780,131,2,1,2,7:40 PM,7:36,Blatche BLOCK (2 BLK),,MISS Lee 3' Jump Shot,,
+0020700780,132,4,0,2,7:40 PM,7:34,Mason Jr. REBOUND (Off:0 Def:1),,,,
+0020700780,133,2,1,2,7:40 PM,7:27,MISS Mason Jr. 26' 3PT Jump Shot,,,,
+0020700780,134,4,0,2,7:40 PM,7:26,,,Jeffries REBOUND (Off:1 Def:1),,
+0020700780,136,2,1,2,7:40 PM,7:09,,,MISS Robinson 25' 3PT Jump Shot,,
+0020700780,137,4,0,2,7:40 PM,7:08,Mason Jr. REBOUND (Off:0 Def:2),,,,
+0020700780,138,1,1,2,7:40 PM,6:48,McGuire 20' Jump Shot (3 PTS) (Mason Jr. 1 AST),,,31 - 32,1
+0020700780,139,2,1,2,7:41 PM,6:34,,,MISS Jones  3PT Jump Shot,,
+0020700780,140,4,0,2,7:41 PM,6:33,,,Jeffries REBOUND (Off:2 Def:1),,
+0020700780,141,1,42,2,7:41 PM,6:25,,,Jones 1' Driving Layup (4 PTS) (Robinson 2 AST),33 - 32,-1
+0020700780,142,9,1,2,7:41 PM,6:19,WIZARDS Timeout: Regular (Full 2 Short 0),,,,
+0020700780,144,8,0,2,7:43 PM,6:19,,,SUB: Randolph FOR Rose,,
+0020700780,145,8,0,2,7:43 PM,6:19,,,SUB: Richardson FOR Lee,,
+0020700780,146,2,1,2,7:44 PM,6:06,MISS Young 15' Jump Shot,,,,
+0020700780,147,4,0,2,7:44 PM,6:05,,,Randolph REBOUND (Off:0 Def:4),,
+0020700780,148,2,1,2,7:44 PM,5:54,,,MISS Richardson 26' 3PT Jump Shot,,
+0020700780,149,4,0,2,7:44 PM,5:53,,,Jeffries REBOUND (Off:3 Def:1),,
+0020700780,150,2,1,2,7:44 PM,5:41,,,MISS Randolph 4' Jump Shot,,
+0020700780,151,4,0,2,7:44 PM,5:40,McGuire REBOUND (Off:0 Def:1),,,,
+0020700780,152,5,1,2,7:45 PM,5:17,Young Bad Pass Turnover (P1.T3),,Randolph STEAL (1 STL),,
+0020700780,153,1,5,2,7:45 PM,5:06,,,Randolph 2' Layup (11 PTS) (Robinson 3 AST),35 - 32,-3
+0020700780,154,6,2,2,7:45 PM,5:06,McGuire S.FOUL (P1.T2),,,,
+0020700780,155,9,4,2,7:45 PM,5:06,,,,,
+0020700780,156,8,0,2,7:47 PM,5:06,SUB: Daniels FOR Blatche,,,,
+0020700780,157,8,0,2,7:47 PM,5:06,SUB: Pecherov FOR McGuire,,,,
+0020700780,158,8,0,2,7:47 PM,5:06,SUB: Haywood FOR Mason Jr.,,,,
+0020700780,159,8,0,2,7:47 PM,5:06,SUB: Jamison FOR Songaila,,,,
+0020700780,160,8,0,2,7:47 PM,5:06,SUB: Stevenson FOR Young,,,,
+0020700780,161,3,10,2,7:47 PM,5:06,,,Randolph Free Throw 1 of 1 (12 PTS),36 - 32,-4
+0020700780,163,6,1,2,7:48 PM,4:59,,,Robinson P.FOUL (P1.T2),,
+0020700780,164,6,2,2,7:48 PM,4:43,,,Robinson S.FOUL (P2.T3),,
+0020700780,165,3,11,2,7:48 PM,4:43,Daniels Free Throw 1 of 2 (5 PTS),,,36 - 33,-3
+0020700780,166,8,0,2,7:49 PM,4:43,,,SUB: Crawford FOR Jones,,
+0020700780,167,3,12,2,7:49 PM,4:43,Daniels Free Throw 2 of 2 (6 PTS),,,36 - 34,-2
+0020700780,168,2,1,2,7:49 PM,4:28,,,MISS Randolph 17' Jump Shot,,
+0020700780,169,4,0,2,7:49 PM,4:27,,,Knicks Rebound,,
+0020700780,170,1,5,2,7:50 PM,4:23,,,Randolph 1' Layup (14 PTS) (Robinson 4 AST),38 - 34,-4
+0020700780,171,6,2,2,7:50 PM,4:23,Jamison S.FOUL (P2.T3),,,,
+0020700780,173,8,0,2,7:50 PM,4:23,,,SUB: Lee FOR Jeffries,,
+0020700780,174,3,10,2,7:50 PM,4:23,,,Randolph Free Throw 1 of 1 (15 PTS),39 - 34,-5
+0020700780,175,1,1,2,7:51 PM,4:02,Stevenson 25' 3PT Jump Shot (9 PTS) (Jamison 1 AST),,,39 - 37,-2
+0020700780,176,2,1,2,7:51 PM,3:44,,,MISS Robinson 19' Jump Shot,,
+0020700780,177,4,0,2,7:51 PM,3:42,Jamison REBOUND (Off:2 Def:2),,,,
+0020700780,178,6,1,2,7:51 PM,3:36,,,Randolph P.FOUL (P2.T4),,
+0020700780,179,1,1,2,7:52 PM,3:29,Jamison 25' 3PT Jump Shot (7 PTS) (Daniels 3 AST),,,39 - 40,1
+0020700780,181,2,1,2,7:52 PM,3:00,,,MISS Robinson 26' 3PT Jump Shot,,
+0020700780,182,4,0,2,7:52 PM,2:59,Daniels REBOUND (Off:0 Def:2),,,,
+0020700780,183,1,42,2,7:52 PM,2:50,Stevenson  Driving Layup (11 PTS) (Daniels 4 AST),,,39 - 42,3
+0020700780,184,9,1,2,7:52 PM,2:42,,,Knicks Timeout: Regular (Reg.2 Short 0),,
+0020700780,186,8,0,2,7:54 PM,2:42,,,SUB: Jones FOR Robinson,,
+0020700780,187,2,1,2,7:55 PM,2:37,,,MISS Crawford 17' Jump Shot,,
+0020700780,188,4,0,2,7:55 PM,2:36,Stevenson REBOUND (Off:0 Def:1),,,,
+0020700780,189,2,1,2,7:55 PM,2:19,MISS Jamison 8' Jump Shot,,,,
+0020700780,190,4,0,2,7:55 PM,2:18,,,Randolph REBOUND (Off:0 Def:5),,
+0020700780,191,2,1,2,7:55 PM,2:10,,,MISS Richardson 18' Jump Shot,,
+0020700780,192,4,0,2,7:55 PM,2:09,Pecherov REBOUND (Off:0 Def:1),,,,
+0020700780,193,6,11,2,7:56 PM,2:03,Jamison T.FOUL (P2.T3),,,,
+0020700780,194,3,16,2,7:56 PM,2:03,,,Crawford Free Throw Technical (1 PTS),40 - 42,2
+0020700780,195,1,46,2,7:57 PM,1:53,Daniels 13' Running Jump Shot (8 PTS),,,40 - 44,4
+0020700780,197,1,79,2,7:57 PM,1:41,,,Crawford 16' Pullup Jump Shot (3 PTS),42 - 44,2
+0020700780,198,2,1,2,7:57 PM,1:24,MISS Pecherov 21' Jump Shot,,,,
+0020700780,199,4,0,2,7:57 PM,1:23,,,Knicks Rebound,,
+0020700780,200,2,1,2,7:57 PM,1:11,,,MISS Randolph 28' 3PT Jump Shot,,
+0020700780,201,4,0,2,7:57 PM,1:10,Daniels REBOUND (Off:0 Def:3),,,,
+0020700780,202,6,2,2,7:58 PM,1:03,,,Richardson S.FOUL (P1.PN),,
+0020700780,203,3,11,2,7:58 PM,1:03,Jamison Free Throw 1 of 2 (8 PTS),,,42 - 45,3
+0020700780,204,3,12,2,7:58 PM,1:03,Jamison Free Throw 2 of 2 (9 PTS),,,42 - 46,4
+0020700780,205,1,5,2,7:59 PM,0:55,,,Randolph 2' Layup (17 PTS) (Crawford 1 AST),44 - 46,2
+0020700780,207,2,5,2,7:59 PM,0:39,MISS Stevenson 3' Layup,,,,
+0020700780,208,4,0,2,7:59 PM,0:38,Jamison REBOUND (Off:3 Def:2),,,,
+0020700780,209,1,4,2,7:59 PM,0:35,Jamison 1' Tip Shot (11 PTS),,,44 - 48,4
+0020700780,210,2,1,2,7:59 PM,0:29,,,MISS Crawford 25' 3PT Jump Shot,,
+0020700780,211,4,0,2,7:59 PM,0:28,Haywood REBOUND (Off:0 Def:2),,,,
+0020700780,212,6,2,2,7:59 PM,0:12,,,Lee S.FOUL (P1.PN),,
+0020700780,213,8,0,2,8:00 PM,0:12,SUB: Blatche FOR Jamison,,,,
+0020700780,214,3,11,2,8:00 PM,0:12,Pecherov Free Throw 1 of 2 (1 PTS),,,44 - 49,5
+0020700780,215,3,12,2,8:00 PM,0:12,Pecherov Free Throw 2 of 2 (2 PTS),,,44 - 50,6
+0020700780,216,1,7,2,8:00 PM,0:00,,,Lee 1' Dunk (8 PTS) (Richardson 2 AST),46 - 50,4
+0020700780,217,2,1,2,8:01 PM,0:00,MISS Stevenson 42' 3PT Jump Shot,,,,
+0020700780,218,4,0,2,8:01 PM,0:00,WIZARDS Rebound,,,,
+0020700780,219,13,0,2,8:01 PM,0:00,,,,46 - 50,4
+0020700780,221,12,0,3,8:17 PM,12:00,,,,46 - 50,4
+0020700780,222,5,2,3,8:17 PM,11:39,Jamison Lost Ball Turnover (P2.T4),,Richardson STEAL (1 STL),,
+0020700780,223,2,1,3,8:17 PM,11:18,,,MISS Curry 4' Jump Shot,,
+0020700780,224,4,0,3,8:17 PM,11:17,,,Richardson REBOUND (Off:1 Def:2),,
+0020700780,225,1,4,3,8:17 PM,11:12,,,Richardson 2' Tip Shot (8 PTS),48 - 50,2
+0020700780,226,6,2,3,8:18 PM,10:56,,,Crawford S.FOUL (P2.T1),,
+0020700780,227,3,11,3,8:18 PM,10:56,Stevenson Free Throw 1 of 2 (12 PTS),,,48 - 51,3
+0020700780,228,3,12,3,8:18 PM,10:56,Stevenson Free Throw 2 of 2 (13 PTS),,,48 - 52,4
+0020700780,229,1,84,3,8:19 PM,10:39,,,Richardson 8' Running Bank Shot (10 PTS),50 - 52,2
+0020700780,230,1,78,3,8:19 PM,10:25,Jamison 8' Floating Jump Shot (13 PTS),,,50 - 54,4
+0020700780,231,6,2,3,8:19 PM,10:25,,,Richardson S.FOUL (P2.T2),,
+0020700780,232,3,10,3,8:19 PM,10:25,Jamison Free Throw 1 of 1 (14 PTS),,,50 - 55,5
+0020700780,233,1,1,3,8:20 PM,10:15,,,Crawford 25' 3PT Jump Shot (6 PTS) (Robinson 5 AST),53 - 55,2
+0020700780,234,6,2,3,8:20 PM,9:53,,,Curry S.FOUL (P1.T3),,
+0020700780,235,3,11,3,8:20 PM,9:53,MISS Haywood Free Throw 1 of 2,,,,
+0020700780,236,4,1,3,8:20 PM,9:53,WIZARDS Rebound,,,,
+0020700780,237,3,12,3,8:20 PM,9:53,Haywood Free Throw 2 of 2 (3 PTS),,,53 - 56,3
+0020700780,238,1,7,3,8:21 PM,9:37,,,Curry  Dunk (4 PTS) (Randolph 1 AST),55 - 56,1
+0020700780,239,2,1,3,8:21 PM,9:16,MISS Jamison 17' Jump Shot,,,,
+0020700780,240,4,0,3,8:21 PM,9:15,,,Robinson REBOUND (Off:1 Def:2),,
+0020700780,241,2,1,3,8:22 PM,8:57,,,MISS Curry 7' Jump Shot,,
+0020700780,242,4,0,3,8:22 PM,8:56,Jamison REBOUND (Off:3 Def:3),,,,
+0020700780,243,5,8,3,8:22 PM,8:46,Haywood 3 Second Violation Turnover (P1.T5),,,,
+0020700780,245,6,2,3,8:22 PM,8:27,Haywood S.FOUL (P2.T1),,,,
+0020700780,246,3,11,3,8:22 PM,8:27,,,Richardson Free Throw 1 of 2 (11 PTS),56 - 56,TIE
+0020700780,247,3,12,3,8:23 PM,8:27,,,Richardson Free Throw 2 of 2 (12 PTS),57 - 56,-1
+0020700780,248,1,46,3,8:23 PM,8:11,Blatche 6' Running Jump Shot (4 PTS) (Stevenson 1 AST),,,57 - 58,1
+0020700780,250,2,1,3,8:24 PM,7:48,,,MISS Randolph 11' Jump Shot,,
+0020700780,251,4,0,3,8:24 PM,7:47,Jamison REBOUND (Off:3 Def:4),,,,
+0020700780,252,2,1,3,8:24 PM,7:27,MISS Stevenson 25' 3PT Jump Shot,,,,
+0020700780,253,4,0,3,8:24 PM,7:26,Haywood REBOUND (Off:1 Def:2),,,,
+0020700780,254,1,5,3,8:24 PM,7:22,Haywood 1' Layup (5 PTS),,,57 - 60,3
+0020700780,255,2,1,3,8:24 PM,7:04,,,MISS Richardson 25' 3PT Jump Shot,,
+0020700780,256,4,0,3,8:25 PM,7:03,Haywood REBOUND (Off:1 Def:3),,,,
+0020700780,257,1,71,3,8:25 PM,6:49,Haywood 1' Finger Roll Layup (7 PTS) (Daniels 5 AST),,,57 - 62,5
+0020700780,258,9,1,3,8:25 PM,6:41,,,Knicks Timeout: Regular (Reg.3 Short 0),,
+0020700780,260,8,0,3,8:27 PM,6:41,,,SUB: Lee FOR Curry,,
+0020700780,261,8,0,3,8:27 PM,6:41,SUB: Young FOR Blatche,,,,
+0020700780,262,2,1,3,8:28 PM,6:27,,,MISS Randolph 6' Jump Shot,,
+0020700780,263,4,0,3,8:28 PM,6:26,Jamison REBOUND (Off:3 Def:5),,,,
+0020700780,264,1,42,3,8:28 PM,6:10,Daniels 2' Driving Layup (10 PTS),,,57 - 64,7
+0020700780,265,2,1,3,8:28 PM,5:53,,,MISS Crawford  3PT Jump Shot,,
+0020700780,266,4,0,3,8:28 PM,5:52,Stevenson REBOUND (Off:0 Def:2),,,,
+0020700780,267,2,1,3,8:29 PM,5:44,MISS Daniels 14' Jump Shot,,,,
+0020700780,268,4,0,3,8:29 PM,5:43,,,Randolph REBOUND (Off:0 Def:6),,
+0020700780,269,6,2,3,8:29 PM,5:31,Jamison S.FOUL (P3.T2),,,,
+0020700780,270,3,11,3,8:29 PM,5:31,,,Robinson Free Throw 1 of 2 (5 PTS),58 - 64,6
+0020700780,271,3,12,3,8:29 PM,5:31,,,MISS Robinson Free Throw 2 of 2,,
+0020700780,272,4,0,3,8:30 PM,5:29,,,Robinson REBOUND (Off:2 Def:2),,
+0020700780,273,2,1,3,8:30 PM,5:26,,,MISS Robinson 10' Jump Shot,,
+0020700780,274,4,0,3,8:30 PM,5:25,Jamison REBOUND (Off:3 Def:6),,,,
+0020700780,276,1,63,3,8:30 PM,5:08,Young 6' Fadeaway Jumper (8 PTS),,,58 - 66,8
+0020700780,277,1,1,3,8:30 PM,4:45,,,Crawford 26' 3PT Jump Shot (9 PTS) (Lee 2 AST),61 - 66,5
+0020700780,278,5,1,3,8:31 PM,4:29,Stevenson Bad Pass Turnover (P1.T6),,,,
+0020700780,279,8,0,3,8:31 PM,4:29,,,SUB: Jones FOR Randolph,,
+0020700780,280,2,1,3,8:31 PM,4:17,,,MISS Crawford 17' Jump Shot,,
+0020700780,281,4,0,3,8:31 PM,4:16,Haywood REBOUND (Off:1 Def:4),,,,
+0020700780,282,1,86,3,8:31 PM,4:02,Young 16' Turnaround Fadeaway (10 PTS),,,61 - 68,7
+0020700780,283,5,41,3,8:32 PM,3:50,,,Crawford Poss Lost Ball Turnover (P3.T11),,
+0020700780,284,8,0,3,8:32 PM,3:50,SUB: Mason Jr. FOR Stevenson,,,,
+0020700780,285,5,2,3,8:32 PM,3:36,Young Lost Ball Turnover (P2.T7),,Lee STEAL (1 STL),,
+0020700780,286,6,1,3,8:32 PM,3:34,Mason Jr. P.FOUL (P1.T3),,,,
+0020700780,287,5,2,3,8:33 PM,3:17,Jamison STEAL (2 STL),,Lee Lost Ball Turnover (P1.T12),,
+0020700780,288,2,1,3,8:33 PM,3:12,MISS Daniels 5' Jump Shot,,,,
+0020700780,289,4,0,3,8:33 PM,3:11,,,Jones REBOUND (Off:0 Def:2),,
+0020700780,290,2,5,3,8:33 PM,3:05,,,MISS Jones 2' Layup,,
+0020700780,291,4,0,3,8:33 PM,3:05,WIZARDS Rebound,,,,
+0020700780,293,6,2,3,8:34 PM,2:47,,,Richardson S.FOUL (P3.T4),,
+0020700780,294,9,1,3,8:34 PM,2:47,WIZARDS Timeout: Regular (Full 3 Short 0),,,,
+0020700780,296,3,13,3,8:36 PM,2:47,MISS Jamison Free Throw 1 of 3,,,,
+0020700780,297,4,1,3,8:36 PM,2:47,WIZARDS Rebound,,,,
+0020700780,298,3,14,3,8:37 PM,2:47,Jamison Free Throw 2 of 3 (15 PTS),,,61 - 69,8
+0020700780,299,3,15,3,8:37 PM,2:47,Jamison Free Throw 3 of 3 (16 PTS),,,61 - 70,9
+0020700780,301,6,2,3,8:37 PM,2:34,Daniels S.FOUL (P1.T4),,,,
+0020700780,302,3,11,3,8:38 PM,2:34,,,Robinson Free Throw 1 of 2 (6 PTS),62 - 70,8
+0020700780,303,3,12,3,8:38 PM,2:34,,,MISS Robinson Free Throw 2 of 2,,
+0020700780,304,4,0,3,8:38 PM,2:32,Haywood REBOUND (Off:1 Def:5),,,,
+0020700780,305,5,41,3,8:38 PM,2:12,Haywood Poss Lost Ball Turnover (P2.T8),,Lee STEAL (2 STL),,
+0020700780,306,6,2,3,8:39 PM,2:04,Haywood S.FOUL (P3.PN),,,,
+0020700780,307,3,11,3,8:39 PM,2:04,,,Robinson Free Throw 1 of 2 (7 PTS),63 - 70,7
+0020700780,308,8,0,3,8:39 PM,2:04,SUB: Songaila FOR Haywood,,,,
+0020700780,309,3,12,3,8:39 PM,2:04,,,MISS Robinson Free Throw 2 of 2,,
+0020700780,310,4,0,3,8:39 PM,2:03,Songaila REBOUND (Off:2 Def:1),,,,
+0020700780,311,2,1,3,8:40 PM,1:45,MISS Young 25' 3PT Jump Shot,,,,
+0020700780,312,4,0,3,8:40 PM,1:44,,,Knicks Rebound,,
+0020700780,314,1,42,3,8:40 PM,1:30,,,Richardson 1' Driving Layup (14 PTS),65 - 70,5
+0020700780,315,2,1,3,8:41 PM,1:12,MISS Daniels 12' Jump Shot,,,,
+0020700780,316,4,0,3,8:41 PM,1:11,,,Robinson REBOUND (Off:2 Def:3),,
+0020700780,317,8,0,3,8:41 PM,1:08,SUB: Blatche FOR Jamison,,,,
+0020700780,318,2,1,3,8:41 PM,0:55,,,MISS Robinson 25' 3PT Jump Shot,,
+0020700780,319,4,0,3,8:41 PM,0:54,Blatche REBOUND (Off:0 Def:3),,,,
+0020700780,320,2,1,3,8:41 PM,0:42,MISS Blatche 19' Jump Shot,,,,
+0020700780,321,4,0,3,8:42 PM,0:41,,,Lee REBOUND (Off:1 Def:3),,
+0020700780,322,2,1,3,8:42 PM,0:34,,,MISS Crawford 25' 3PT Jump Shot,,
+0020700780,323,4,0,3,8:42 PM,0:32,Daniels REBOUND (Off:0 Def:4),,,,
+0020700780,324,2,1,3,8:42 PM,0:23,MISS Mason Jr. 20' Jump Shot,,,,
+0020700780,325,4,0,3,8:42 PM,0:23,,,Knicks Rebound,,
+0020700780,326,1,42,3,8:42 PM,0:01,,,Crawford 1' Driving Layup (11 PTS),67 - 70,3
+0020700780,327,2,1,3,8:42 PM,0:00,MISS Mason Jr. 39' 3PT Jump Shot,,,,
+0020700780,328,4,0,3,8:42 PM,0:00,WIZARDS Rebound,,,,
+0020700780,329,13,0,3,8:43 PM,0:00,,,,67 - 70,3
+0020700780,331,12,0,4,8:45 PM,12:00,,,,67 - 70,3
+0020700780,332,5,2,4,8:45 PM,11:48,Songaila STEAL (2 STL),,Lee Lost Ball Turnover (P2.T13),,
+0020700780,333,6,3,4,8:45 PM,11:48,,,Lee L.B.FOUL (P2.T1),,
+0020700780,334,2,5,4,8:46 PM,11:30,MISS Blatche 2' Layup,,,,
+0020700780,335,4,0,4,8:46 PM,11:29,Blatche REBOUND (Off:1 Def:3),,,,
+0020700780,336,2,5,4,8:46 PM,11:28,MISS Blatche 1' Layup,,,,
+0020700780,340,4,0,4,8:46 PM,11:28,Blatche REBOUND (Off:2 Def:3),,,,
+0020700780,341,2,40,4,8:46 PM,11:28,MISS Blatche 1' Layup,,,,
+0020700780,337,4,0,4,8:46 PM,11:26,McGuire REBOUND (Off:1 Def:1),,,,
+0020700780,338,2,1,4,8:46 PM,11:18,MISS Mason Jr. 26' 3PT Jump Shot,,,,
+0020700780,339,4,0,4,8:46 PM,11:17,,,Richardson REBOUND (Off:1 Def:3),,
+0020700780,343,8,0,4,8:47 PM,11:12,,,SUB: Jeffries FOR Richardson,,
+0020700780,344,10,0,4,8:47 PM,11:12,Jump Ball Mason Jr. vs. Robinson: Tip to Robinson,,,,
+0020700780,346,6,2,4,8:47 PM,11:04,Blatche S.FOUL (P2.T1),,,,
+0020700780,347,3,11,4,8:47 PM,11:04,,,MISS Jones Free Throw 1 of 2,,
+0020700780,348,4,1,4,8:47 PM,11:04,,,Knicks Rebound,,
+0020700780,349,8,0,4,8:48 PM,11:04,,,SUB: Randolph FOR Crawford,,
+0020700780,350,3,12,4,8:48 PM,11:04,,,Jones Free Throw 2 of 2 (5 PTS),68 - 70,2
+0020700780,351,1,1,4,8:48 PM,10:46,Young 18' Jump Shot (12 PTS),,,68 - 72,4
+0020700780,352,6,1,4,8:49 PM,10:27,Blatche P.FOUL (P3.T2),,,,
+0020700780,353,2,1,4,8:49 PM,10:13,,,MISS Robinson 26' 3PT Jump Shot,,
+0020700780,354,4,0,4,8:49 PM,10:11,McGuire REBOUND (Off:1 Def:2),,,,
+0020700780,355,6,17,4,8:50 PM,9:58,,,Knicks T.Foul (Def. 3 Sec Lee ),,
+0020700780,356,3,16,4,8:50 PM,9:58,Mason Jr. Free Throw Technical (6 PTS),,,68 - 73,5
+0020700780,357,8,0,4,8:50 PM,9:58,,,SUB: Crawford FOR Robinson,,
+0020700780,359,1,1,4,8:50 PM,9:44,Blatche 22' Jump Shot (6 PTS) (Songaila 1 AST),,,68 - 75,7
+0020700780,360,1,1,4,8:50 PM,9:28,,,Randolph 18' Jump Shot (19 PTS) (Jones 3 AST),70 - 75,5
+0020700780,361,1,1,4,8:51 PM,9:11,Mason Jr. 21' Jump Shot (8 PTS) (Blatche 3 AST),,,70 - 77,7
+0020700780,362,6,1,4,8:51 PM,8:54,Young P.FOUL (P2.T3),,,,
+0020700780,363,9,4,4,8:51 PM,8:54,,,,,
+0020700780,365,2,1,4,8:54 PM,8:41,,,MISS Randolph 6' Jump Shot,,
+0020700780,366,4,0,4,8:54 PM,8:40,Young REBOUND (Off:0 Def:1),,,,
+0020700780,367,1,1,4,8:54 PM,8:22,Mason Jr. 20' Jump Shot (10 PTS) (Songaila 2 AST),,,70 - 79,9
+0020700780,369,1,82,4,8:55 PM,7:57,,,Lee 6' Driving Bank Shot (10 PTS) (Jeffries 2 AST),72 - 79,7
+0020700780,370,6,1,4,8:55 PM,7:37,,,Randolph P.FOUL (P3.T2),,
+0020700780,371,1,1,4,8:56 PM,7:31,Blatche 7' Jump Shot (8 PTS) (Songaila 3 AST),,,72 - 81,9
+0020700780,373,1,1,4,8:56 PM,7:08,,,Crawford 9' Jump Shot (13 PTS),74 - 81,7
+0020700780,374,2,1,4,8:56 PM,6:57,MISS Young 15' Jump Shot,,,,
+0020700780,375,4,0,4,8:56 PM,6:56,,,Randolph REBOUND (Off:0 Def:7),,
+0020700780,376,2,1,4,8:56 PM,6:45,,,MISS Jones 24' 3PT Jump Shot,,
+0020700780,377,4,0,4,8:56 PM,6:44,Blatche REBOUND (Off:2 Def:4),,,,
+0020700780,378,2,1,4,8:57 PM,6:28,MISS Mason Jr. 15' Jump Shot,,,,
+0020700780,379,4,0,4,8:57 PM,6:27,,,Randolph REBOUND (Off:0 Def:8),,
+0020700780,380,6,1,4,8:57 PM,6:09,McGuire P.FOUL (P2.T4),,,,
+0020700780,382,8,0,4,8:57 PM,6:09,SUB: Jamison FOR Blatche,,,,
+0020700780,383,8,0,4,8:57 PM,6:09,SUB: Haywood FOR McGuire,,,,
+0020700780,384,6,1,4,8:58 PM,6:00,Songaila P.FOUL (P2.PN),,,,
+0020700780,385,3,11,4,8:58 PM,6:00,,,Lee Free Throw 1 of 2 (11 PTS),75 - 81,6
+0020700780,386,8,0,4,8:58 PM,6:00,SUB: Stevenson FOR Young,,,,
+0020700780,388,8,0,4,8:58 PM,6:00,,,SUB: Richardson FOR Jones,,
+0020700780,389,3,12,4,8:58 PM,6:00,,,Lee Free Throw 2 of 2 (12 PTS),76 - 81,5
+0020700780,391,2,1,4,8:59 PM,5:48,MISS Mason Jr. 3' Jump Shot,,Randolph BLOCK (1 BLK),,
+0020700780,392,4,0,4,8:59 PM,5:48,,,Knicks Rebound,,
+0020700780,393,9,1,4,8:59 PM,5:48,WIZARDS Timeout: Regular (Full 4 Short 0),,,,
+0020700780,394,6,1,4,9:02 PM,5:38,Haywood P.FOUL (P4.PN),,,,
+0020700780,395,3,11,4,9:02 PM,5:38,,,Richardson Free Throw 1 of 2 (15 PTS),77 - 81,4
+0020700780,396,3,12,4,9:02 PM,5:38,,,Richardson Free Throw 2 of 2 (16 PTS),78 - 81,3
+0020700780,397,2,1,4,9:03 PM,5:14,MISS Stevenson 18' Jump Shot,,,,
+0020700780,398,4,0,4,9:03 PM,5:13,,,Richardson REBOUND (Off:1 Def:4),,
+0020700780,399,6,2,4,9:03 PM,5:01,Mason Jr. S.FOUL (P2.PN),,,,
+0020700780,400,3,11,4,9:03 PM,5:01,,,Lee Free Throw 1 of 2 (13 PTS),79 - 81,2
+0020700780,401,8,0,4,9:03 PM,5:01,SUB: Daniels FOR Songaila,,,,
+0020700780,402,3,12,4,9:03 PM,5:01,,,Lee Free Throw 2 of 2 (14 PTS),80 - 81,1
+0020700780,403,1,78,4,9:04 PM,4:48,Jamison 6' Floating Jump Shot (18 PTS),,,80 - 83,3
+0020700780,404,2,5,4,9:04 PM,4:32,,,MISS Richardson 3' Layup,,
+0020700780,405,4,0,4,9:04 PM,4:31,,,Richardson REBOUND (Off:2 Def:4),,
+0020700780,406,6,4,4,9:04 PM,4:30,,,Richardson OFF.Foul (P4),,
+0020700780,407,5,5,4,9:04 PM,4:30,,,Richardson Foul Turnover (P1.T14),,
+0020700780,408,2,1,4,9:05 PM,4:16,MISS Stevenson 24' 3PT Jump Shot,,,,
+0020700780,409,4,0,4,9:05 PM,4:16,Haywood REBOUND (Off:2 Def:5),,,,
+0020700780,410,6,2,4,9:05 PM,4:16,,,Jeffries S.FOUL (P1.T3),,
+0020700780,411,3,11,4,9:05 PM,4:16,Haywood Free Throw 1 of 2 (8 PTS),,,80 - 84,4
+0020700780,412,3,12,4,9:05 PM,4:16,Haywood Free Throw 2 of 2 (9 PTS),,,80 - 85,5
+0020700780,414,1,42,4,9:06 PM,4:02,,,Randolph 2' Driving Layup (21 PTS),82 - 85,3
+0020700780,415,1,63,4,9:06 PM,3:41,Jamison 19' Fadeaway Jumper (20 PTS),,,82 - 87,5
+0020700780,416,2,1,4,9:06 PM,3:23,,,MISS Crawford 25' 3PT Jump Shot,,
+0020700780,417,4,0,4,9:06 PM,3:22,Jamison REBOUND (Off:3 Def:7),,,,
+0020700780,418,6,2,4,9:07 PM,3:18,,,Richardson S.FOUL (P5.T4),,
+0020700780,419,3,11,4,9:07 PM,3:18,Mason Jr. Free Throw 1 of 2 (11 PTS),,,82 - 88,6
+0020700780,420,8,0,4,9:07 PM,3:18,,,SUB: Robinson FOR Jeffries,,
+0020700780,421,3,12,4,9:07 PM,3:18,Mason Jr. Free Throw 2 of 2 (12 PTS),,,82 - 89,7
+0020700780,423,1,1,4,9:08 PM,2:55,,,Robinson 24' 3PT Jump Shot (10 PTS) (Randolph 2 AST),85 - 89,4
+0020700780,424,2,1,4,9:08 PM,2:34,MISS Haywood 4' Jump Shot,,,,
+0020700780,425,4,0,4,9:08 PM,2:33,,,Lee REBOUND (Off:1 Def:4),,
+0020700780,426,5,1,4,9:08 PM,2:22,Jamison STEAL (3 STL),,Randolph Bad Pass Turnover (P3.T15),,
+0020700780,427,5,2,4,9:08 PM,2:17,Daniels Lost Ball Turnover (P1.T9),,Robinson STEAL (1 STL),,
+0020700780,428,9,1,4,9:08 PM,2:12,,,Knicks Timeout: Regular (Reg.4 Short 0),,
+0020700780,431,2,1,4,9:11 PM,1:57,,,MISS Randolph 21' Jump Shot,,
+0020700780,432,4,0,4,9:11 PM,1:55,,,Robinson REBOUND (Off:3 Def:3),,
+0020700780,433,6,2,4,9:11 PM,1:52,Jamison S.FOUL (P4.PN),,,,
+0020700780,434,3,11,4,9:12 PM,1:52,,,MISS Randolph Free Throw 1 of 2,,
+0020700780,435,4,1,4,9:12 PM,1:52,,,Knicks Rebound,,
+0020700780,436,8,0,4,9:12 PM,1:52,,,SUB: Jeffries FOR Robinson,,
+0020700780,437,3,12,4,9:12 PM,1:52,,,Randolph Free Throw 2 of 2 (22 PTS),86 - 89,3
+0020700780,439,6,2,4,9:13 PM,1:37,,,Randolph S.FOUL (P4.PN),,
+0020700780,440,3,11,4,9:13 PM,1:37,MISS Stevenson Free Throw 1 of 2,,,,
+0020700780,441,4,1,4,9:13 PM,1:37,WIZARDS Rebound,,,,
+0020700780,442,8,0,4,9:13 PM,1:37,SUB: Blatche FOR Mason Jr.,,,,
+0020700780,443,8,0,4,9:13 PM,1:37,,,SUB: Robinson FOR Jeffries,,
+0020700780,444,3,12,4,9:13 PM,1:37,Stevenson Free Throw 2 of 2 (14 PTS),,,86 - 90,4
+0020700780,446,1,1,4,9:14 PM,1:23,,,Robinson 25' 3PT Jump Shot (13 PTS) (Crawford 2 AST),89 - 90,1
+0020700780,447,2,1,4,9:14 PM,1:02,MISS Jamison 12' Jump Shot,,,,
+0020700780,448,4,0,4,9:14 PM,1:01,,,Robinson REBOUND (Off:3 Def:4),,
+0020700780,449,2,1,4,9:15 PM,0:39,,,MISS Randolph 18' Jump Shot,,
+0020700780,450,4,0,4,9:15 PM,0:38,Jamison REBOUND (Off:3 Def:8),,,,
+0020700780,451,5,1,4,9:15 PM,0:21,Daniels Bad Pass Turnover (P2.T10),,Richardson STEAL (2 STL),,
+0020700780,454,6,2,4,9:15 PM,0:19,Stevenson S.FOUL (P1.PN),,,,
+0020700780,455,3,11,4,9:15 PM,0:19,,,MISS Crawford Free Throw 1 of 2,,
+0020700780,456,4,1,4,9:15 PM,0:19,,,Knicks Rebound,,
+0020700780,457,8,0,4,9:16 PM,0:19,,,SUB: Jeffries FOR Robinson,,
+0020700780,458,3,12,4,9:16 PM,0:19,,,Crawford Free Throw 2 of 2 (14 PTS),90 - 90,TIE
+0020700780,459,9,1,4,9:16 PM,0:19,WIZARDS Timeout: Regular (Full 5 Short 0),,,,
+0020700780,461,8,0,4,9:18 PM,0:19,SUB: Mason Jr. FOR Blatche,,,,
+0020700780,462,9,2,4,9:18 PM,0:19,,,Knicks Timeout: Short (Reg.4 Short 1),,
+0020700780,463,8,0,4,9:19 PM,0:19,,,SUB: Jones FOR Lee,,
+0020700780,464,2,1,4,9:19 PM,0:01,MISS Daniels 17' Jump Shot,,,,
+0020700780,465,4,0,4,9:19 PM,0:00,,,Jones REBOUND (Off:0 Def:3),,
+0020700780,466,13,0,4,9:19 PM,0:00,,,,90 - 90,TIE
+0020700780,468,12,0,5,9:21 PM,5:00,,,,90 - 90,TIE
+0020700780,469,10,0,5,9:21 PM,5:00,Jump Ball Haywood vs. Lee: Tip to Daniels,,,,
+0020700780,470,2,1,5,9:22 PM,4:47,MISS Blatche 20' Jump Shot,,,,
+0020700780,471,4,0,5,9:22 PM,4:44,Jamison REBOUND (Off:4 Def:8),,,,
+0020700780,472,2,1,5,9:22 PM,4:26,MISS Jamison 16' Jump Shot,,,,
+0020700780,473,4,0,5,9:22 PM,4:25,,,Lee REBOUND (Off:1 Def:5),,
+0020700780,474,1,1,5,9:22 PM,4:15,,,Robinson 26' 3PT Jump Shot (16 PTS),93 - 90,-3
+0020700780,475,6,1,5,9:23 PM,3:53,,,Randolph P.FOUL (P5.T1),,
+0020700780,476,2,5,5,9:23 PM,3:42,MISS Daniels  Layup,,,,
+0020700780,477,4,0,5,9:23 PM,3:41,,,Randolph REBOUND (Off:0 Def:9),,
+0020700780,478,1,8,5,9:23 PM,3:33,,,Lee 1' Slam Dunk (16 PTS) (Crawford 3 AST),95 - 90,-5
+0020700780,479,6,2,5,9:23 PM,3:33,Blatche S.FOUL (P4.T1),,,,
+0020700780,480,3,10,5,9:24 PM,3:33,,,Lee Free Throw 1 of 1 (17 PTS),96 - 90,-6
+0020700780,481,9,1,5,9:24 PM,3:33,WIZARDS Timeout: Regular (Full 6 Short 0),,,,
+0020700780,482,8,0,5,9:25 PM,3:33,SUB: Mason Jr. FOR Blatche,,,,
+0020700780,483,2,1,5,9:26 PM,3:16,MISS Jamison 7' Jump Shot,,,,
+0020700780,484,4,0,5,9:26 PM,3:15,,,Lee REBOUND (Off:1 Def:6),,
+0020700780,485,1,7,5,9:26 PM,3:03,,,Lee 2' Dunk (19 PTS) (Crawford 4 AST),98 - 90,-8
+0020700780,486,5,41,5,9:26 PM,2:45,Mason Jr. Poss Lost Ball Turnover (P2.T11),,,,
+0020700780,487,8,0,5,9:26 PM,2:45,SUB: Blatche FOR Haywood,,,,
+0020700780,488,1,1,5,9:27 PM,2:21,,,Richardson 25' 3PT Jump Shot (19 PTS) (Crawford 5 AST),101 - 90,-11
+0020700780,489,1,1,5,9:27 PM,2:08,Mason Jr. 27' 3PT Jump Shot (15 PTS),,,101 - 93,-8
+0020700780,490,1,63,5,9:28 PM,1:49,,,Randolph 20' Fadeaway Jumper (24 PTS),103 - 93,-10
+0020700780,491,1,42,5,9:28 PM,1:40,Daniels 1' Driving Layup (12 PTS),,,103 - 95,-8
+0020700780,492,6,2,5,9:28 PM,1:40,,,Robinson S.FOUL (P3.T2),,
+0020700780,493,3,10,5,9:28 PM,1:40,MISS Daniels Free Throw 1 of 1,,,,
+0020700780,494,4,0,5,9:28 PM,1:38,,,Randolph REBOUND (Off:0 Def:10),,
+0020700780,495,9,2,5,9:28 PM,1:30,,,Knicks Timeout: Short (Reg.4 Short 2),,
+0020700780,497,8,0,5,9:29 PM,1:30,SUB: Young FOR Daniels,,,,
+0020700780,498,1,1,5,9:30 PM,1:23,,,Crawford  3PT Jump Shot (17 PTS) (Richardson 3 AST),106 - 95,-11
+0020700780,499,1,47,5,9:30 PM,1:09,Blatche 11' Turnaround Jump Shot (10 PTS),,,106 - 97,-9
+0020700780,500,6,1,5,9:30 PM,1:08,Blatche P.FOUL (P5.T2),,,,
+0020700780,502,6,2,5,9:31 PM,0:53,Blatche S.FOUL (P6.PN),,,,
+0020700780,504,8,0,5,9:31 PM,0:53,SUB: Daniels FOR Blatche,,,,
+0020700780,505,3,11,5,9:31 PM,0:53,,,Robinson Free Throw 1 of 2 (17 PTS),107 - 97,-10
+0020700780,507,8,0,5,9:32 PM,0:53,,,SUB: Jones FOR Lee,,
+0020700780,508,8,0,5,9:32 PM,0:53,,,SUB: Jeffries FOR Randolph,,
+0020700780,509,3,12,5,9:32 PM,0:53,,,MISS Robinson Free Throw 2 of 2,,
+0020700780,510,4,0,5,9:32 PM,0:52,Jamison REBOUND (Off:4 Def:9),,,,
+0020700780,511,2,5,5,9:32 PM,0:46,MISS Daniels 3' Layup,,Jones BLOCK (1 BLK),,
+0020700780,512,4,0,5,9:32 PM,0:45,,,Crawford REBOUND (Off:0 Def:3),,
+0020700780,513,6,1,5,9:32 PM,0:44,Stevenson P.FOUL (P2.PN),,,,
+0020700780,514,3,11,5,9:32 PM,0:44,,,Crawford Free Throw 1 of 2 (18 PTS),108 - 97,-11
+0020700780,515,8,0,5,9:33 PM,0:44,SUB: Pecherov FOR Jamison,,,,
+0020700780,516,3,12,5,9:33 PM,0:44,,,Crawford Free Throw 2 of 2 (19 PTS),109 - 97,-12
+0020700780,517,2,1,5,9:33 PM,0:38,MISS Stevenson 25' 3PT Jump Shot,,,,
+0020700780,518,4,0,5,9:33 PM,0:37,,,Robinson REBOUND (Off:3 Def:5),,
+0020700780,519,6,1,5,9:33 PM,0:35,Stevenson P.FOUL (P3.PN),,,,
+0020700780,520,3,11,5,9:33 PM,0:35,,,Robinson Free Throw 1 of 2 (18 PTS),110 - 97,-13
+0020700780,521,8,0,5,9:34 PM,0:35,SUB: McGuire FOR Stevenson,,,,
+0020700780,522,3,12,5,9:34 PM,0:35,,,Robinson Free Throw 2 of 2 (19 PTS),111 - 97,-14
+0020700780,523,1,1,5,9:34 PM,0:24,Pecherov 26' 3PT Jump Shot (5 PTS) (Mason Jr. 2 AST),,,111 - 100,-11
+0020700780,524,6,1,5,9:35 PM,0:16,Pecherov P.FOUL (P1.PN),,,,
+0020700780,525,3,11,5,9:35 PM,0:16,,,Crawford Free Throw 1 of 2 (20 PTS),112 - 100,-12
+0020700780,526,3,12,5,9:35 PM,0:16,,,Crawford Free Throw 2 of 2 (21 PTS),113 - 100,-13
+0020700780,527,2,5,5,9:35 PM,0:10,MISS McGuire 3' Layup,,,,
+0020700780,528,4,0,5,9:35 PM,0:08,,,Jeffries REBOUND (Off:3 Def:2),,
+0020700780,530,13,0,5,9:35 PM,0:00,,,,113 - 100,-13

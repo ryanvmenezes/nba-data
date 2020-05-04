@@ -1,0 +1,479 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021100001,0,12,0,1,12:09 PM,12:00,,,,,
+0021100001,1,10,0,1,12:10 PM,12:00,Jump Ball Chandler vs. O'Neal: Tip to Rondo,,,,
+0021100001,2,5,2,1,12:10 PM,11:41,Fields STEAL (1 STL),,Allen Lost Ball Turnover (P1.T1),,
+0021100001,3,5,1,1,12:11 PM,11:18,Anthony Bad Pass Turnover (P1.T1),,Rondo STEAL (1 STL),,
+0021100001,4,6,2,1,12:11 PM,11:10,Douglas S.FOUL (P1.T1),,,,
+0021100001,5,3,11,1,12:11 PM,11:10,,,Rondo Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0021100001,7,3,12,1,12:11 PM,11:10,,,Rondo Free Throw 2 of 2 (2 PTS),2 - 0,-2
+0021100001,9,1,1,1,12:12 PM,10:57,Douglas 25' 3PT Jump Shot (3 PTS) (Fields 1 AST),,,2 - 3,1
+0021100001,10,2,1,1,12:12 PM,10:34,,,MISS Garnett 20' Jump Shot,,
+0021100001,11,4,0,1,12:12 PM,10:32,Anthony REBOUND (Off:0 Def:1),,,,
+0021100001,12,6,2,1,12:12 PM,10:25,,,O'Neal S.FOUL (P1.T1),,
+0021100001,13,3,11,1,12:13 PM,10:25,Chandler Free Throw 1 of 2 (1 PTS),,,2 - 4,2
+0021100001,15,3,12,1,12:13 PM,10:25,MISS Chandler Free Throw 2 of 2,,,,
+0021100001,17,4,0,1,12:13 PM,10:23,Anthony REBOUND (Off:1 Def:1),,,,
+0021100001,18,1,46,1,12:13 PM,10:13,Douglas 9' Running Jump Shot (5 PTS),,,2 - 6,4
+0021100001,19,1,5,1,12:13 PM,10:03,,,Garnett 2' Layup (2 PTS) (Rondo 1 AST),4 - 6,2
+0021100001,20,2,1,1,12:14 PM,9:46,MISS Anthony 20' Jump Shot,,,,
+0021100001,21,4,0,1,12:14 PM,9:45,,,O'Neal REBOUND (Off:0 Def:1),,
+0021100001,22,2,1,1,12:14 PM,9:37,,,MISS Rondo 16' Jump Shot,,
+0021100001,23,4,0,1,12:14 PM,9:35,Anthony REBOUND (Off:1 Def:2),,,,
+0021100001,24,5,1,1,12:14 PM,9:28,Douglas Bad Pass Turnover (P1.T2),,Rondo STEAL (2 STL),,
+0021100001,25,6,2,1,12:14 PM,9:25,Anthony S.FOUL (P1.T2),,,,
+0021100001,26,3,11,1,12:14 PM,9:25,,,Rondo Free Throw 1 of 2 (3 PTS),5 - 6,1
+0021100001,30,7,3,1,12:15 PM,9:25,Chandler Violation:Lane,,,,
+0021100001,32,3,12,1,12:15 PM,9:25,,,MISS Rondo Free Throw 2 of 2,,
+0021100001,34,4,0,1,12:15 PM,9:24,Stoudemire REBOUND (Off:0 Def:1),,,,
+0021100001,35,1,1,1,12:16 PM,9:07,Fields  3PT Jump Shot (3 PTS) (Anthony 1 AST),,,5 - 9,4
+0021100001,36,1,42,1,12:16 PM,8:53,,,Rondo 2' Driving Layup (5 PTS),7 - 9,2
+0021100001,37,1,1,1,12:16 PM,8:37,Stoudemire 21' Jump Shot (2 PTS) (Douglas 1 AST),,,7 - 11,4
+0021100001,38,6,1,1,12:16 PM,8:21,Fields P.FOUL (P1.T3),,,,
+0021100001,39,5,1,1,12:17 PM,8:14,Stoudemire STEAL (1 STL),,Allen Bad Pass Turnover (P2.T2),,
+0021100001,40,2,1,1,12:17 PM,7:57,MISS Fields 25' 3PT Jump Shot,,,,
+0021100001,41,4,0,1,12:17 PM,7:55,,,Garnett REBOUND (Off:0 Def:1),,
+0021100001,42,1,1,1,12:17 PM,7:48,,,Rondo 17' Jump Shot (7 PTS),9 - 11,2
+0021100001,43,1,1,1,12:18 PM,7:33,Stoudemire 25' 3PT Jump Shot (5 PTS) (Anthony 2 AST),,,9 - 14,5
+0021100001,45,2,47,1,12:18 PM,7:05,,,MISS Garnett 18' Turnaround Jump Shot,,
+0021100001,46,4,0,1,12:18 PM,7:03,Stoudemire REBOUND (Off:0 Def:2),,,,
+0021100001,47,6,1,1,12:18 PM,6:59,,,Pavlovic P.FOUL (P1.T2),,
+0021100001,48,8,0,1,12:19 PM,6:59,,,SUB: Daniels FOR Pavlovic,,
+0021100001,49,8,0,1,12:19 PM,6:59,,,SUB: Bass FOR O'Neal,,
+0021100001,50,1,1,1,12:19 PM,6:55,Anthony 6' Jump Shot (2 PTS) (Fields 2 AST),,,9 - 16,7
+0021100001,51,6,2,1,12:19 PM,6:55,,,Daniels S.FOUL (P1.T3),,
+0021100001,52,3,10,1,12:19 PM,6:55,Anthony Free Throw 1 of 1 (3 PTS),,,9 - 17,8
+0021100001,54,6,11,1,12:20 PM,6:55,Stoudemire T.FOUL (P0.T3),,,,
+0021100001,55,3,16,1,12:20 PM,6:55,,,Allen Free Throw Technical (1 PTS),10 - 17,7
+0021100001,57,2,1,1,12:20 PM,6:32,,,MISS Rondo 21' Jump Shot,,
+0021100001,58,4,0,1,12:20 PM,6:30,Anthony REBOUND (Off:1 Def:3),,,,
+0021100001,59,2,1,1,12:21 PM,6:24,MISS Fields 3' Jump Shot,,,,
+0021100001,60,4,0,1,12:21 PM,6:22,,,Bass REBOUND (Off:0 Def:1),,
+0021100001,61,6,2,1,12:21 PM,6:17,Stoudemire S.FOUL (P1.T4),,,,
+0021100001,62,3,11,1,12:21 PM,6:17,,,Rondo Free Throw 1 of 2 (8 PTS),11 - 17,6
+0021100001,64,8,0,1,12:21 PM,6:17,,,SUB: Wilcox FOR Garnett,,
+0021100001,65,3,12,1,12:22 PM,6:17,,,Rondo Free Throw 2 of 2 (9 PTS),12 - 17,5
+0021100001,67,1,5,1,12:22 PM,6:04,Fields 2' Layup (5 PTS) (Chandler 1 AST),,,12 - 19,7
+0021100001,68,2,1,1,12:22 PM,5:49,,,MISS Bass 14' Jump Shot,,
+0021100001,69,4,0,1,12:22 PM,5:48,Anthony REBOUND (Off:1 Def:4),,,,
+0021100001,70,2,1,1,12:22 PM,5:43,MISS Anthony 24' 3PT Jump Shot,,,,
+0021100001,71,4,0,1,12:22 PM,5:42,KNICKS Rebound,,,,
+0021100001,72,6,1,1,12:22 PM,5:42,,,Bass P.FOUL (P1.T4),,
+0021100001,73,9,1,1,12:23 PM,5:42,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0021100001,75,8,0,1,12:25 PM,5:42,SUB: Jeffries FOR Stoudemire,,,,
+0021100001,76,8,0,1,12:25 PM,5:42,SUB: Shumpert FOR Douglas,,,,
+0021100001,78,2,1,1,12:26 PM,5:24,MISS Shumpert 24' 3PT Jump Shot,,,,
+0021100001,79,4,0,1,12:26 PM,5:22,,,Daniels REBOUND (Off:0 Def:1),,
+0021100001,80,1,1,1,12:26 PM,5:01,,,Bass 19' Jump Shot (2 PTS) (Allen 1 AST),14 - 19,5
+0021100001,81,2,77,1,12:27 PM,4:36,MISS Shumpert 11' Driving Jump Shot,,,,
+0021100001,82,4,0,1,12:27 PM,4:35,KNICKS Rebound,,,,
+0021100001,83,8,0,1,12:27 PM,4:35,,,SUB: Dooling FOR Allen,,
+0021100001,84,8,0,1,12:27 PM,4:35,SUB: Walker FOR Fields,,,,
+0021100001,86,5,4,1,12:28 PM,4:18,Walker Traveling Turnover (P1.T3),,,,
+0021100001,87,2,1,1,12:28 PM,4:05,Chandler BLOCK (1 BLK),,MISS Bass 5' Jump Shot,,
+0021100001,88,4,0,1,12:28 PM,4:02,,,Wilcox REBOUND (Off:1 Def:0),,
+0021100001,89,2,1,1,12:28 PM,3:58,Chandler BLOCK (2 BLK),,MISS Rondo 4' Jump Shot,,
+0021100001,90,4,0,1,12:28 PM,3:56,,,Wilcox REBOUND (Off:2 Def:0),,
+0021100001,91,1,47,1,12:28 PM,3:50,,,Wilcox 6' Turnaround Jump Shot (2 PTS) (Daniels 1 AST),16 - 19,3
+0021100001,92,6,2,1,12:29 PM,3:37,,,Bass S.FOUL (P2.PN),,
+0021100001,93,3,11,1,12:29 PM,3:37,Anthony Free Throw 1 of 2 (4 PTS),,,16 - 20,4
+0021100001,95,8,0,1,12:29 PM,3:37,SUB: Harrellson FOR Chandler,,,,
+0021100001,96,3,12,1,12:29 PM,3:37,Anthony Free Throw 2 of 2 (5 PTS),,,16 - 21,5
+0021100001,98,2,77,1,12:30 PM,3:24,Jeffries BLOCK (1 BLK),,MISS Daniels 6' Driving Jump Shot,,
+0021100001,99,4,0,1,12:30 PM,3:22,Shumpert REBOUND (Off:0 Def:1),,,,
+0021100001,100,1,42,1,12:30 PM,3:17,Shumpert 2' Driving Layup (2 PTS),,,16 - 23,7
+0021100001,101,6,2,1,12:30 PM,3:17,,,Dooling S.FOUL (P1.PN),,
+0021100001,102,3,10,1,12:30 PM,3:17,Shumpert Free Throw 1 of 1 (3 PTS),,,16 - 24,8
+0021100001,105,8,0,1,12:31 PM,3:02,,,SUB: Bradley FOR Rondo,,
+0021100001,106,8,0,1,12:31 PM,3:02,,,SUB: Garnett FOR Bass,,
+0021100001,107,5,13,1,12:31 PM,3:01,,,Dooling Backcourt Turnover (P1.T3),,
+0021100001,108,5,40,1,12:31 PM,2:50,Harrellson Out of Bounds Lost Ball Turnover (P1.T4),,,,
+0021100001,109,9,1,1,12:32 PM,2:50,,,Celtics Timeout: Regular (Reg.1 Short 0),,
+0021100001,113,6,2,1,12:35 PM,2:30,Walker S.FOUL (P1.PN),,,,
+0021100001,115,3,11,1,12:36 PM,2:30,,,Dooling Free Throw 1 of 2 (1 PTS),17 - 24,7
+0021100001,117,3,12,1,12:36 PM,2:30,,,Dooling Free Throw 2 of 2 (2 PTS),18 - 24,6
+0021100001,119,6,2,1,12:36 PM,2:20,,,Dooling S.FOUL (P2.PN),,
+0021100001,120,3,11,1,12:36 PM,2:20,Shumpert Free Throw 1 of 2 (4 PTS),,,18 - 25,7
+0021100001,122,3,12,1,12:37 PM,2:20,Shumpert Free Throw 2 of 2 (5 PTS),,,18 - 26,8
+0021100001,124,5,4,1,12:37 PM,2:06,,,Garnett Traveling Turnover (P1.T4),,
+0021100001,125,2,1,1,12:38 PM,1:53,MISS Anthony 25' 3PT Jump Shot,,,,
+0021100001,126,4,0,1,12:38 PM,1:51,Jeffries REBOUND (Off:1 Def:0),,,,
+0021100001,127,2,1,1,12:38 PM,1:50,MISS Jeffries 3' Jump Shot,,Garnett BLOCK (1 BLK),,
+0021100001,128,4,0,1,12:38 PM,1:47,,,Wilcox REBOUND (Off:2 Def:1),,
+0021100001,129,5,2,1,12:38 PM,1:46,Anthony STEAL (1 STL),,Wilcox Lost Ball Turnover (P1.T5),,
+0021100001,130,1,5,1,12:38 PM,1:43,Anthony 3' Layup (7 PTS),,,18 - 28,10
+0021100001,131,2,1,1,12:38 PM,1:25,,,MISS Bradley 18' Jump Shot,,
+0021100001,132,4,0,1,12:38 PM,1:24,KNICKS Rebound,,,,
+0021100001,133,6,2,1,12:39 PM,1:11,,,Wilcox S.FOUL (P1.PN),,
+0021100001,134,3,11,1,12:39 PM,1:11,Anthony Free Throw 1 of 2 (8 PTS),,,18 - 29,11
+0021100001,136,3,12,1,12:39 PM,1:11,Anthony Free Throw 2 of 2 (9 PTS),,,18 - 30,12
+0021100001,138,6,1,1,12:40 PM,1:07,Walker P.FOUL (P2.PN),,,,
+0021100001,139,3,11,1,12:40 PM,1:07,,,Dooling Free Throw 1 of 2 (3 PTS),19 - 30,11
+0021100001,141,3,12,1,12:40 PM,1:07,,,Dooling Free Throw 2 of 2 (4 PTS),20 - 30,10
+0021100001,143,1,1,1,12:41 PM,0:48,Jeffries 21' Jump Shot (2 PTS) (Harrellson 1 AST),,,20 - 32,12
+0021100001,144,6,1,1,12:41 PM,0:36,Walker P.FOUL (P3.PN),,,,
+0021100001,145,3,11,1,12:41 PM,0:36,,,Garnett Free Throw 1 of 2 (3 PTS),21 - 32,11
+0021100001,147,8,0,1,12:41 PM,0:36,SUB: Balkman FOR Walker,,,,
+0021100001,148,3,12,1,12:41 PM,0:36,,,Garnett Free Throw 2 of 2 (4 PTS),22 - 32,10
+0021100001,150,2,77,1,12:42 PM,0:22,MISS Shumpert 5' Driving Jump Shot,,,,
+0021100001,151,4,0,1,12:42 PM,0:20,Shumpert REBOUND (Off:1 Def:1),,,,
+0021100001,152,1,67,1,12:42 PM,0:19,Shumpert 4' Hook Bank Shot (7 PTS),,,22 - 34,12
+0021100001,153,6,1,1,12:42 PM,0:06,Balkman P.FOUL (P1.PN),,,,
+0021100001,154,3,11,1,12:42 PM,0:06,,,Garnett Free Throw 1 of 2 (5 PTS),23 - 34,11
+0021100001,156,8,0,1,12:43 PM,0:06,,,SUB: Rondo FOR Dooling,,
+0021100001,157,3,12,1,12:43 PM,0:06,,,MISS Garnett Free Throw 2 of 2,,
+0021100001,159,4,0,1,12:43 PM,0:05,Harrellson REBOUND (Off:0 Def:1),,,,
+0021100001,160,2,46,1,12:43 PM,0:00,MISS Shumpert 18' Running Jump Shot,,,,
+0021100001,161,4,0,1,12:43 PM,0:00,KNICKS Rebound,,,,
+0021100001,162,13,0,1,12:43 PM,0:00,,,,23 - 34,11
+0021100001,164,12,0,2,12:47 PM,12:00,,,,23 - 34,11
+0021100001,165,5,2,2,12:47 PM,11:50,Shumpert Lost Ball Turnover (P1.T5),,Rondo STEAL (3 STL),,
+0021100001,166,1,5,2,12:47 PM,11:47,,,Rondo 2' Layup (11 PTS) (Daniels 2 AST),25 - 34,9
+0021100001,167,2,1,2,12:48 PM,11:31,MISS Douglas 16' Jump Shot,,,,
+0021100001,168,4,0,2,12:48 PM,11:29,,,Daniels REBOUND (Off:0 Def:2),,
+0021100001,169,1,8,2,12:48 PM,11:16,,,Wilcox 1' Slam Dunk (4 PTS) (Daniels 3 AST),27 - 34,7
+0021100001,170,2,1,2,12:48 PM,10:49,MISS Stoudemire 16' Jump Shot,,,,
+0021100001,171,4,0,2,12:48 PM,10:48,Balkman REBOUND (Off:1 Def:0),,,,
+0021100001,172,6,3,2,12:48 PM,10:48,,,Daniels L.B.FOUL (P2.T1),,
+0021100001,173,2,1,2,12:49 PM,10:37,MISS Douglas 5' Jump Shot,,Wilcox BLOCK (1 BLK),,
+0021100001,174,4,0,2,12:49 PM,10:37,KNICKS Rebound,,,,
+0021100001,175,1,5,2,12:49 PM,10:32,Balkman 3' Layup (2 PTS) (Stoudemire 1 AST),,,27 - 36,9
+0021100001,176,1,1,2,12:49 PM,10:16,,,Garnett 18' Jump Shot (7 PTS) (Rondo 2 AST),29 - 36,7
+0021100001,177,2,7,2,12:50 PM,10:05,MISS Shumpert  Dunk,,,,
+0021100001,178,4,0,2,12:50 PM,10:03,Balkman REBOUND (Off:2 Def:0),,,,
+0021100001,179,1,71,2,12:50 PM,9:58,Stoudemire 2' Finger Roll Layup (7 PTS) (Balkman 1 AST),,,29 - 38,9
+0021100001,180,2,1,2,12:50 PM,9:47,,,MISS Daniels 18' Jump Shot,,
+0021100001,181,4,0,2,12:50 PM,9:44,Shumpert REBOUND (Off:1 Def:2),,,,
+0021100001,182,1,1,2,12:50 PM,9:36,Stoudemire 24' 3PT Jump Shot (10 PTS) (Douglas 2 AST),,,29 - 41,12
+0021100001,183,8,0,2,12:51 PM,9:15,,,SUB: Allen FOR Daniels,,
+0021100001,184,8,0,2,12:51 PM,9:15,,,SUB: Pavlovic FOR Wilcox,,
+0021100001,185,8,0,2,12:51 PM,9:15,,,SUB: O'Neal FOR Bradley,,
+0021100001,186,6,16,2,12:51 PM,9:15,,,,,
+0021100001,187,2,1,2,12:52 PM,9:12,,,MISS Allen 25' 3PT Jump Shot,,
+0021100001,188,4,0,2,12:52 PM,9:10,Balkman REBOUND (Off:2 Def:1),,,,
+0021100001,189,6,1,2,12:52 PM,9:04,,,O'Neal P.FOUL (P2.T2),,
+0021100001,190,1,78,2,12:52 PM,8:55,Douglas 10' Floating Jump Shot (7 PTS),,,29 - 43,14
+0021100001,191,5,1,2,12:53 PM,8:36,Douglas STEAL (1 STL),,Allen Bad Pass Turnover (P3.T6),,
+0021100001,192,1,42,2,12:53 PM,8:33,Douglas 2' Driving Layup (9 PTS),,,29 - 45,16
+0021100001,193,6,1,2,12:53 PM,8:20,Jeffries P.FOUL (P1.T1),,,,
+0021100001,194,9,4,2,12:53 PM,8:20,,,,,
+0021100001,196,8,0,2,12:56 PM,8:20,SUB: Chandler FOR Jeffries,,,,
+0021100001,198,1,5,2,12:57 PM,8:10,,,O'Neal 2' Layup (2 PTS) (Garnett 1 AST),31 - 45,14
+0021100001,199,6,2,2,12:57 PM,8:10,Balkman S.FOUL (P2.T2),,,,
+0021100001,200,3,10,2,12:57 PM,8:10,,,O'Neal Free Throw 1 of 1 (3 PTS),32 - 45,13
+0021100001,202,6,2,2,12:58 PM,7:53,,,O'Neal S.FOUL (P3.T3),,
+0021100001,203,3,11,2,12:58 PM,7:53,Shumpert Free Throw 1 of 2 (8 PTS),,,32 - 46,14
+0021100001,205,8,0,2,12:58 PM,7:53,,,SUB: Bass FOR O'Neal,,
+0021100001,206,8,0,2,12:58 PM,7:53,SUB: Fields FOR Balkman,,,,
+0021100001,207,3,12,2,12:58 PM,7:53,Shumpert Free Throw 2 of 2 (9 PTS),,,32 - 47,15
+0021100001,209,5,2,2,12:58 PM,7:41,Stoudemire STEAL (2 STL),,Rondo Lost Ball Turnover (P1.T7),,
+0021100001,210,6,2,2,12:59 PM,7:31,,,Pavlovic S.FOUL (P2.T4),,
+0021100001,211,3,11,2,12:59 PM,7:31,Chandler Free Throw 1 of 2 (2 PTS),,,32 - 48,16
+0021100001,213,3,12,2,12:59 PM,7:31,Chandler Free Throw 2 of 2 (3 PTS),,,32 - 49,17
+0021100001,215,2,1,2,1:00 PM,7:17,,,MISS Garnett 21' Jump Shot,,
+0021100001,216,4,0,2,1:00 PM,7:15,Stoudemire REBOUND (Off:0 Def:3),,,,
+0021100001,217,2,1,2,1:00 PM,7:03,MISS Shumpert 21' Jump Shot,,,,
+0021100001,218,4,0,2,1:00 PM,7:01,,,Rondo REBOUND (Off:0 Def:1),,
+0021100001,219,1,66,2,1:00 PM,6:50,,,Bass 7' Jump Bank Shot (4 PTS),34 - 49,15
+0021100001,220,2,1,2,1:00 PM,6:32,MISS Douglas 25' 3PT Jump Shot,,,,
+0021100001,221,4,0,2,1:00 PM,6:30,,,Bass REBOUND (Off:0 Def:2),,
+0021100001,222,1,42,2,1:01 PM,6:13,,,Allen 2' Driving Layup (3 PTS) (Garnett 2 AST),36 - 49,13
+0021100001,223,2,42,2,1:01 PM,5:54,MISS Shumpert 2' Driving Layup,,,,
+0021100001,224,4,0,2,1:01 PM,5:53,,,Pavlovic REBOUND (Off:0 Def:1),,
+0021100001,225,1,88,2,1:01 PM,5:49,,,Bass 2' Driving Slam Dunk (6 PTS) (Rondo 3 AST),38 - 49,11
+0021100001,226,9,1,2,1:01 PM,5:47,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0021100001,228,8,0,2,1:03 PM,5:47,SUB: Anthony FOR Shumpert,,,,
+0021100001,230,1,5,2,1:05 PM,5:24,Stoudemire 1' Layup (12 PTS),,,38 - 51,13
+0021100001,231,1,1,2,1:06 PM,4:56,,,Bass 14' Jump Shot (8 PTS) (Garnett 3 AST),40 - 51,11
+0021100001,232,5,2,2,1:06 PM,4:37,Stoudemire Lost Ball Turnover (P1.T6),,Bass STEAL (1 STL),,
+0021100001,233,1,42,2,1:06 PM,4:32,,,Rondo 2' Driving Layup (13 PTS),42 - 51,9
+0021100001,234,1,42,2,1:06 PM,4:22,Douglas 1' Driving Layup (11 PTS),,,42 - 53,11
+0021100001,235,1,7,2,1:06 PM,4:13,,,Bass 1' Dunk (10 PTS) (Rondo 4 AST),44 - 53,9
+0021100001,236,9,2,2,1:06 PM,4:05,KNICKS Timeout: Short (Full 2 Short 1),,,,
+0021100001,238,8,0,2,1:07 PM,4:05,SUB: Jeffries FOR Stoudemire,,,,
+0021100001,240,2,1,2,1:08 PM,3:56,MISS Anthony 9' Jump Shot,,,,
+0021100001,241,4,0,2,1:08 PM,3:54,Chandler REBOUND (Off:1 Def:0),,,,
+0021100001,242,1,1,2,1:08 PM,3:52,Anthony 25' 3PT Jump Shot (12 PTS) (Chandler 2 AST),,,44 - 56,12
+0021100001,243,1,42,2,1:08 PM,3:37,,,Rondo 1' Driving Layup (15 PTS),46 - 56,10
+0021100001,244,6,1,2,1:08 PM,3:25,,,Pavlovic P.FOUL (P3.PN),,
+0021100001,245,3,11,2,1:09 PM,3:25,MISS Anthony Free Throw 1 of 2,,,,
+0021100001,246,4,1,2,1:09 PM,3:25,KNICKS Rebound,,,,
+0021100001,247,8,0,2,1:09 PM,3:25,,,SUB: Daniels FOR Pavlovic,,
+0021100001,248,3,12,2,1:09 PM,3:25,Anthony Free Throw 2 of 2 (13 PTS),,,46 - 57,11
+0021100001,250,2,1,2,1:09 PM,3:12,,,MISS Daniels 20' Jump Shot,,
+0021100001,251,4,0,2,1:09 PM,3:10,,,Allen REBOUND (Off:1 Def:0),,
+0021100001,252,1,1,2,1:09 PM,3:05,,,Rondo 21' Jump Shot (17 PTS) (Daniels 4 AST),48 - 57,9
+0021100001,254,9,1,2,1:10 PM,2:40,,,Celtics Timeout: Regular (Reg.2 Short 0),,
+0021100001,256,8,0,2,1:12 PM,2:40,SUB: Stoudemire FOR Jeffries,,,,
+0021100001,258,5,1,2,1:13 PM,2:39,Fields Bad Pass Turnover (P1.T7),,,,
+0021100001,259,6,1,2,1:14 PM,2:28,Douglas P.FOUL (P2.T3),,,,
+0021100001,260,6,1,2,1:14 PM,2:24,Douglas P.FOUL (P3.T4),,,,
+0021100001,261,8,0,2,1:14 PM,2:24,SUB: Shumpert FOR Douglas,,,,
+0021100001,262,2,1,2,1:15 PM,2:14,,,MISS Daniels 7' Jump Shot,,
+0021100001,263,4,0,2,1:15 PM,2:12,Stoudemire REBOUND (Off:0 Def:4),,,,
+0021100001,264,2,42,2,1:15 PM,2:08,MISS Shumpert 2' Driving Layup,,Daniels BLOCK (1 BLK),,
+0021100001,265,4,0,2,1:15 PM,2:08,KNICKS Rebound,,,,
+0021100001,266,1,63,2,1:15 PM,2:00,Anthony 18' Fadeaway Jumper (15 PTS),,,48 - 59,11
+0021100001,267,2,1,2,1:15 PM,1:45,Chandler BLOCK (3 BLK),,MISS Rondo 3' Jump Shot,,
+0021100001,268,4,0,2,1:15 PM,1:43,Shumpert REBOUND (Off:1 Def:3),,,,
+0021100001,269,1,1,2,1:16 PM,1:39,Anthony 18' Jump Shot (17 PTS) (Shumpert 1 AST),,,48 - 61,13
+0021100001,270,2,1,2,1:16 PM,1:19,,,MISS Bass 16' Jump Shot,,
+0021100001,271,4,0,2,1:16 PM,1:17,Anthony REBOUND (Off:1 Def:5),,,,
+0021100001,272,2,42,2,1:16 PM,1:09,MISS Shumpert 2' Driving Layup,,,,
+0021100001,273,4,0,2,1:16 PM,1:07,,,Bass REBOUND (Off:0 Def:3),,
+0021100001,274,6,2,2,1:16 PM,1:04,Anthony S.FOUL (P2.PN),,,,
+0021100001,275,3,11,2,1:16 PM,1:04,,,Rondo Free Throw 1 of 2 (18 PTS),49 - 61,12
+0021100001,277,3,12,2,1:17 PM,1:04,,,Rondo Free Throw 2 of 2 (19 PTS),50 - 61,11
+0021100001,280,5,2,2,1:17 PM,0:56,Shumpert Lost Ball Turnover (P2.T8),,Rondo STEAL (4 STL),,
+0021100001,282,5,1,2,1:18 PM,0:53,,,Garnett Bad Pass Turnover (P2.T8),,
+0021100001,283,6,3,2,1:18 PM,0:52,,,Garnett L.B.FOUL (P1.PN),,
+0021100001,284,3,11,2,1:18 PM,0:52,Chandler Free Throw 1 of 2 (4 PTS),,,50 - 62,12
+0021100001,286,3,12,2,1:18 PM,0:52,MISS Chandler Free Throw 2 of 2,,,,
+0021100001,288,4,0,2,1:19 PM,0:51,,,Bass REBOUND (Off:0 Def:4),,
+0021100001,290,5,2,2,1:19 PM,0:50,Anthony STEAL (2 STL),,Bass Lost Ball Turnover (P1.T9),,
+0021100001,289,10,0,2,1:19 PM,0:50,Jump Ball Anthony vs. Bass: Tip to Fields,,,,
+0021100001,300,2,45,2,1:20 PM,0:46,MISS Fields 24' 3PT Jump Shot,,,,
+0021100001,323,4,0,2,1:20 PM,0:45,,,Celtics Rebound,,
+0021100001,292,6,3,2,1:20 PM,0:45,Stoudemire L.B.FOUL (P2.PN),,,,
+0021100001,294,3,11,2,1:20 PM,0:45,,,MISS Garnett Free Throw 1 of 2,,
+0021100001,296,4,1,2,1:20 PM,0:45,,,Celtics Rebound,,
+0021100001,297,8,0,2,1:20 PM,0:45,SUB: Jeffries FOR Stoudemire,,,,
+0021100001,298,3,12,2,1:20 PM,0:45,,,MISS Garnett Free Throw 2 of 2,,
+0021100001,302,4,0,2,1:21 PM,0:44,Anthony REBOUND (Off:1 Def:6),,,,
+0021100001,303,5,1,2,1:21 PM,0:33,Anthony Bad Pass Turnover (P2.T9),,Daniels STEAL (1 STL),,
+0021100001,305,2,5,2,1:21 PM,0:29,Chandler BLOCK (4 BLK),,MISS Rondo 2' Layup,,
+0021100001,306,4,0,2,1:21 PM,0:27,,,Allen REBOUND (Off:2 Def:0),,
+0021100001,310,7,2,2,1:21 PM,0:26,Chandler Violation:Defensive Goaltending,,,,
+0021100001,309,1,5,2,1:21 PM,0:26,,,Allen 2' Layup (5 PTS),52 - 62,10
+0021100001,311,2,1,2,1:22 PM,0:05,MISS Anthony 10' Jump Shot,,,,
+0021100001,312,4,0,2,1:22 PM,0:04,,,Rondo REBOUND (Off:0 Def:2),,
+0021100001,313,9,2,2,1:22 PM,0:03,,,Celtics Timeout: Short (Reg.2 Short 1),,
+0021100001,316,8,0,2,1:23 PM,0:03,,,SUB: Moore FOR Garnett,,
+0021100001,317,8,0,2,1:23 PM,0:03,,,SUB: Bradley FOR Bass,,
+0021100001,318,6,4,2,1:23 PM,0:00,,,Rondo OFF.Foul (P1),,
+0021100001,319,5,5,2,1:23 PM,0:00,,,Rondo Foul Turnover (P2.T10),,
+0021100001,320,8,0,2,1:24 PM,0:00,,,SUB: Bass FOR Moore,,
+0021100001,321,13,0,2,1:24 PM,0:00,,,,52 - 62,10
+0021100001,324,12,0,3,1:43 PM,12:00,,,,52 - 62,10
+0021100001,325,6,2,3,1:44 PM,11:41,,,Garnett S.FOUL (P2.T1),,
+0021100001,326,3,11,3,1:44 PM,11:41,Stoudemire Free Throw 1 of 2 (13 PTS),,,52 - 63,11
+0021100001,328,3,12,3,1:44 PM,11:41,MISS Stoudemire Free Throw 2 of 2,,,,
+0021100001,330,4,0,3,1:44 PM,11:40,,,Garnett REBOUND (Off:0 Def:2),,
+0021100001,332,5,2,3,1:45 PM,11:26,Douglas STEAL (2 STL),,Rondo Lost Ball Turnover (P3.T11),,
+0021100001,333,6,2,3,1:45 PM,11:24,,,Garnett S.FOUL (P3.T2),,
+0021100001,334,3,11,3,1:45 PM,11:24,MISS Douglas Free Throw 1 of 2,,,,
+0021100001,335,4,1,3,1:45 PM,11:24,KNICKS Rebound,,,,
+0021100001,336,3,12,3,1:45 PM,11:24,Douglas Free Throw 2 of 2 (12 PTS),,,52 - 64,12
+0021100001,338,6,2,3,1:46 PM,11:10,Anthony S.FOUL (P3.T1),,,,
+0021100001,339,3,11,3,1:46 PM,11:10,,,O'Neal Free Throw 1 of 2 (4 PTS),53 - 64,11
+0021100001,341,3,12,3,1:46 PM,11:10,,,MISS O'Neal Free Throw 2 of 2,,
+0021100001,343,4,0,3,1:47 PM,11:08,Stoudemire REBOUND (Off:0 Def:5),,,,
+0021100001,344,6,1,3,1:47 PM,10:57,,,Allen P.FOUL (P1.T3),,
+0021100001,345,2,52,3,1:47 PM,10:49,MISS Chandler 1' Alley Oop Dunk,,,,
+0021100001,346,4,0,3,1:47 PM,10:48,Fields REBOUND (Off:1 Def:0),,,,
+0021100001,347,2,5,3,1:47 PM,10:45,MISS Fields 2' Layup,,,,
+0021100001,348,4,0,3,1:47 PM,10:44,,,Garnett REBOUND (Off:0 Def:3),,
+0021100001,349,1,42,3,1:47 PM,10:39,,,Allen 2' Driving Layup (7 PTS) (Rondo 5 AST),55 - 64,9
+0021100001,350,1,1,3,1:48 PM,10:24,Anthony 24' 3PT Jump Shot (20 PTS),,,55 - 67,12
+0021100001,351,1,1,3,1:48 PM,10:04,,,Garnett 20' Jump Shot (9 PTS) (Pavlovic 1 AST),57 - 67,10
+0021100001,352,2,1,3,1:48 PM,9:52,MISS Anthony 24' 3PT Jump Shot,,,,
+0021100001,353,4,0,3,1:48 PM,9:50,,,Garnett REBOUND (Off:0 Def:4),,
+0021100001,354,2,1,3,1:48 PM,9:43,,,MISS Garnett 5' Jump Shot,,
+0021100001,355,4,0,3,1:48 PM,9:41,Anthony REBOUND (Off:1 Def:7),,,,
+0021100001,356,2,1,3,1:49 PM,9:29,MISS Douglas 20' Jump Shot,,,,
+0021100001,357,4,0,3,1:49 PM,9:27,,,Allen REBOUND (Off:2 Def:1),,
+0021100001,358,1,42,3,1:49 PM,9:24,,,Rondo 1' Driving Layup (21 PTS) (Allen 2 AST),59 - 67,8
+0021100001,359,2,1,3,1:49 PM,9:05,MISS Douglas 11' Jump Shot,,,,
+0021100001,360,4,0,3,1:49 PM,9:03,,,O'Neal REBOUND (Off:0 Def:2),,
+0021100001,361,2,5,3,1:49 PM,8:56,Stoudemire BLOCK (1 BLK),,MISS Rondo 2' Layup,,
+0021100001,362,4,0,3,1:49 PM,8:55,Chandler REBOUND (Off:1 Def:1),,,,
+0021100001,363,2,1,3,1:49 PM,8:51,MISS Douglas  3PT Jump Shot,,,,
+0021100001,364,4,0,3,1:49 PM,8:49,,,Garnett REBOUND (Off:0 Def:5),,
+0021100001,365,6,1,3,1:50 PM,8:41,Douglas P.FOUL (P4.T2),,,,
+0021100001,366,3,11,3,1:50 PM,8:41,,,MISS Rondo Free Throw 1 of 2,,
+0021100001,367,4,1,3,1:50 PM,8:41,,,Celtics Rebound,,
+0021100001,368,8,0,3,1:50 PM,8:41,SUB: Shumpert FOR Douglas,,,,
+0021100001,369,8,0,3,1:50 PM,8:41,,,SUB: Daniels FOR Pavlovic,,
+0021100001,370,3,12,3,1:50 PM,8:41,,,Rondo Free Throw 2 of 2 (22 PTS),60 - 67,7
+0021100001,372,5,1,3,1:51 PM,8:28,Anthony Bad Pass Turnover (P3.T10),,Rondo STEAL (5 STL),,
+0021100001,373,1,42,3,1:51 PM,8:26,,,Rondo 1' Driving Layup (24 PTS),62 - 67,5
+0021100001,374,6,4,3,1:51 PM,8:12,Anthony OFF.Foul (P4),,,,
+0021100001,375,5,5,3,1:51 PM,8:12,Anthony Foul Turnover (P4.T11),,,,
+0021100001,376,8,0,3,1:51 PM,8:12,SUB: Walker FOR Anthony,,,,
+0021100001,377,1,1,3,1:52 PM,8:01,,,Allen 21' Jump Shot (9 PTS) (Rondo 6 AST),64 - 67,3
+0021100001,378,1,78,3,1:52 PM,7:47,Fields 8' Floating Jump Shot (7 PTS),,,64 - 69,5
+0021100001,379,1,1,3,1:52 PM,7:31,,,Allen  3PT Jump Shot (12 PTS) (Rondo 7 AST),67 - 69,2
+0021100001,380,2,42,3,1:52 PM,7:18,MISS Shumpert 2' Driving Layup,,O'Neal BLOCK (1 BLK),,
+0021100001,381,4,0,3,1:52 PM,7:15,,,Daniels REBOUND (Off:0 Def:3),,
+0021100001,382,1,42,3,1:52 PM,7:13,,,Rondo 1' Driving Layup (26 PTS) (Daniels 5 AST),69 - 69,TIE
+0021100001,383,9,1,3,1:53 PM,7:11,KNICKS Timeout: Regular (Full 3 Short 1),,,,
+0021100001,387,6,1,3,1:56 PM,6:54,,,Rondo P.FOUL (P2.T4),,
+0021100001,388,6,4,3,1:57 PM,6:43,Fields OFF.Foul (P2),,,,
+0021100001,389,5,5,3,1:57 PM,6:43,Fields Foul Turnover (P2.T12),,,,
+0021100001,390,2,1,3,1:57 PM,6:30,,,MISS Allen 22' Jump Shot,,
+0021100001,391,4,0,3,1:57 PM,6:28,,,Garnett REBOUND (Off:1 Def:5),,
+0021100001,392,6,1,3,1:58 PM,6:19,Shumpert P.FOUL (P1.T3),,,,
+0021100001,393,1,52,3,1:58 PM,6:10,,,O'Neal 2' Alley Oop Dunk (6 PTS) (Allen 3 AST),71 - 69,-2
+0021100001,394,2,1,3,1:58 PM,5:45,MISS Stoudemire 7' Jump Shot,,,,
+0021100001,395,4,0,3,1:58 PM,5:43,,,Garnett REBOUND (Off:1 Def:6),,
+0021100001,396,6,1,3,1:59 PM,5:38,Shumpert P.FOUL (P2.T4),,,,
+0021100001,397,8,0,3,1:59 PM,5:38,,,SUB: Bass FOR Garnett,,
+0021100001,398,5,1,3,1:59 PM,5:34,,,Rondo Bad Pass Turnover (P4.T12),,
+0021100001,399,2,1,3,1:59 PM,5:14,MISS Stoudemire 18' Jump Shot,,,,
+0021100001,400,4,0,3,2:00 PM,5:13,,,Celtics Rebound,,
+0021100001,401,2,47,3,2:00 PM,4:57,,,MISS O'Neal 7' Turnaround Jump Shot,,
+0021100001,402,4,0,3,2:00 PM,4:55,,,Bass REBOUND (Off:1 Def:4),,
+0021100001,403,6,2,3,2:00 PM,4:53,Chandler S.FOUL (P1.PN),,,,
+0021100001,404,3,11,3,2:00 PM,4:53,,,Bass Free Throw 1 of 2 (11 PTS),72 - 69,-3
+0021100001,407,8,0,3,2:01 PM,4:53,SUB: Jeffries FOR Chandler,,,,
+0021100001,408,3,12,3,2:01 PM,4:53,,,Bass Free Throw 2 of 2 (12 PTS),73 - 69,-4
+0021100001,411,5,1,3,2:01 PM,4:39,Walker Bad Pass Turnover (P2.T13),,,,
+0021100001,412,1,5,3,2:01 PM,4:34,,,Daniels 1' Layup (2 PTS) (Rondo 8 AST),75 - 69,-6
+0021100001,413,2,42,3,2:01 PM,4:16,MISS Jeffries 2' Driving Layup,,O'Neal BLOCK (2 BLK),,
+0021100001,414,4,0,3,2:01 PM,4:14,,,Bass REBOUND (Off:1 Def:5),,
+0021100001,415,6,2,3,2:02 PM,3:55,Jeffries S.FOUL (P2.PN),,,,
+0021100001,416,6,11,3,2:02 PM,3:55,Chandler T.FOUL (P1.PN),,,,
+0021100001,417,3,16,3,2:02 PM,3:55,,,Allen Free Throw Technical (13 PTS),76 - 69,-7
+0021100001,421,3,11,3,2:03 PM,3:55,,,MISS Rondo Free Throw 1 of 2,,
+0021100001,435,4,0,3,2:03 PM,3:55,,,Celtics Rebound,,
+0021100001,419,8,0,3,2:03 PM,3:55,SUB: Douglas FOR Walker,,,,
+0021100001,420,8,0,3,2:03 PM,3:55,SUB: Balkman FOR Jeffries,,,,
+0021100001,423,3,12,3,2:03 PM,3:55,,,Rondo Free Throw 2 of 2 (27 PTS),77 - 69,-8
+0021100001,425,1,1,3,2:03 PM,3:38,Douglas 18' Jump Shot (14 PTS),,,77 - 71,-6
+0021100001,426,2,1,3,2:04 PM,3:19,,,MISS Rondo 11' Jump Shot,,
+0021100001,427,4,0,3,2:04 PM,3:17,,,Bass REBOUND (Off:2 Def:5),,
+0021100001,428,5,1,3,2:04 PM,3:11,Douglas STEAL (3 STL),,Rondo Bad Pass Turnover (P5.T13),,
+0021100001,431,1,5,3,2:04 PM,3:04,Stoudemire 2' Layup (15 PTS) (Douglas 3 AST),,,77 - 73,-4
+0021100001,432,9,1,3,2:04 PM,3:01,,,Celtics Timeout: Regular (Reg.3 Short 1),,
+0021100001,436,8,0,3,2:07 PM,3:01,,,SUB: Dooling FOR O'Neal,,
+0021100001,437,8,0,3,2:07 PM,3:01,,,SUB: Wilcox FOR Daniels,,
+0021100001,439,1,42,3,2:08 PM,2:39,,,Rondo 2' Driving Layup (29 PTS) (Dooling 1 AST),79 - 73,-6
+0021100001,440,1,42,3,2:08 PM,2:20,Stoudemire 2' Driving Layup (17 PTS),,,79 - 75,-4
+0021100001,441,1,79,3,2:08 PM,2:09,,,Allen 5' Pullup Jump Shot (15 PTS),81 - 75,-6
+0021100001,442,5,21,3,2:09 PM,1:55,Douglas Palming Turnover (P2.T14),,,,
+0021100001,443,2,5,3,2:09 PM,1:34,,,MISS Wilcox 3' Layup,,
+0021100001,444,4,0,3,2:09 PM,1:32,,,Bass REBOUND (Off:3 Def:5),,
+0021100001,445,1,7,3,2:09 PM,1:31,,,Bass 1' Dunk (14 PTS),83 - 75,-8
+0021100001,446,1,1,3,2:09 PM,1:21,Shumpert 15' Jump Shot (11 PTS),,,83 - 77,-6
+0021100001,447,2,1,3,2:10 PM,1:06,,,MISS Allen 14' Jump Shot,,
+0021100001,448,4,0,3,2:10 PM,1:04,,,Bass REBOUND (Off:4 Def:5),,
+0021100001,449,1,1,3,2:10 PM,0:57,,,Bass 16' Jump Shot (16 PTS) (Rondo 9 AST),85 - 77,-8
+0021100001,450,9,2,3,2:10 PM,0:57,KNICKS Timeout: Short (Full 3 Short 2),,,,
+0021100001,452,8,0,3,2:11 PM,0:57,SUB: Walker FOR Balkman,,,,
+0021100001,453,8,0,3,2:11 PM,0:57,SUB: Chandler FOR Shumpert,,,,
+0021100001,454,8,0,3,2:11 PM,0:57,,,SUB: Bradley FOR Allen,,
+0021100001,456,2,1,3,2:12 PM,0:45,MISS Douglas 25' 3PT Jump Shot,,,,
+0021100001,457,4,0,3,2:12 PM,0:43,,,Dooling REBOUND (Off:0 Def:1),,
+0021100001,458,5,40,3,2:12 PM,0:36,,,Dooling Out of Bounds Lost Ball Turnover (P2.T14),,
+0021100001,459,1,42,3,2:12 PM,0:31,Douglas 2' Driving Layup (16 PTS),,,85 - 79,-6
+0021100001,460,1,5,3,2:12 PM,0:25,,,Bass 2' Layup (18 PTS) (Rondo 10 AST),87 - 79,-8
+0021100001,461,2,1,3,2:13 PM,0:02,MISS Douglas 5' Jump Shot,,,,
+0021100001,462,4,0,3,2:13 PM,0:00,,,Bass REBOUND (Off:4 Def:6),,
+0021100001,463,13,0,3,2:13 PM,0:00,,,,87 - 79,-8
+0021100001,465,12,0,4,2:16 PM,12:00,,,,87 - 79,-8
+0021100001,466,1,1,4,2:17 PM,11:42,,,Bass 16' Jump Shot (20 PTS) (Dooling 2 AST),89 - 79,-10
+0021100001,467,2,1,4,2:17 PM,11:16,MISS Douglas 15' Jump Shot,,,,
+0021100001,468,4,0,4,2:17 PM,11:14,,,Daniels REBOUND (Off:0 Def:4),,
+0021100001,469,2,1,4,2:17 PM,11:01,Harrellson BLOCK (1 BLK),,MISS Bradley 12' Jump Shot,,
+0021100001,470,4,0,4,2:17 PM,10:59,Douglas REBOUND (Off:0 Def:1),,,,
+0021100001,471,6,1,4,2:18 PM,10:48,,,Daniels P.FOUL (P3.T1),,
+0021100001,472,1,1,4,2:18 PM,10:39,Anthony 24' 3PT Jump Shot (23 PTS) (Douglas 4 AST),,,89 - 82,-7
+0021100001,473,2,1,4,2:18 PM,10:16,,,MISS Dooling 17' Jump Shot,,
+0021100001,474,4,0,4,2:18 PM,10:15,,,Bass REBOUND (Off:5 Def:6),,
+0021100001,475,5,39,4,2:19 PM,10:00,,,Bradley Step Out of Bounds Turnover (P1.T15),,
+0021100001,476,8,0,4,2:19 PM,10:00,,,SUB: Garnett FOR Bradley,,
+0021100001,477,8,0,4,2:19 PM,10:00,,,SUB: Allen FOR Wilcox,,
+0021100001,478,1,1,4,2:19 PM,9:47,Anthony 18' Jump Shot (25 PTS),,,89 - 84,-5
+0021100001,479,1,1,4,2:20 PM,9:31,,,Allen 25' 3PT Jump Shot (18 PTS) (Dooling 3 AST),92 - 84,-8
+0021100001,480,2,1,4,2:20 PM,9:20,MISS Walker  3PT Jump Shot,,,,
+0021100001,481,4,0,4,2:20 PM,9:17,Chandler REBOUND (Off:2 Def:1),,,,
+0021100001,482,6,2,4,2:20 PM,9:15,,,Bass S.FOUL (P3.T2),,
+0021100001,483,3,11,4,2:20 PM,9:15,Anthony Free Throw 1 of 2 (26 PTS),,,92 - 85,-7
+0021100001,485,3,12,4,2:20 PM,9:15,Anthony Free Throw 2 of 2 (27 PTS),,,92 - 86,-6
+0021100001,487,1,1,4,2:21 PM,8:53,,,Garnett 19' Jump Shot (11 PTS),94 - 86,-8
+0021100001,488,6,1,4,2:21 PM,8:33,,,Daniels P.FOUL (P4.T3),,
+0021100001,489,9,4,4,2:21 PM,8:33,,,,,
+0021100001,492,8,0,4,2:24 PM,8:33,,,SUB: Pavlovic FOR Daniels,,
+0021100001,493,1,52,4,2:25 PM,8:30,Chandler 1' Alley Oop Dunk (6 PTS) (Anthony 3 AST),,,94 - 88,-6
+0021100001,494,5,1,4,2:26 PM,8:11,,,Garnett Bad Pass Turnover (P3.T16),,
+0021100001,495,8,0,4,2:26 PM,8:11,,,SUB: Rondo FOR Dooling,,
+0021100001,496,6,1,4,2:26 PM,8:03,,,Pavlovic P.FOUL (P4.T4),,
+0021100001,497,6,11,4,2:27 PM,8:03,,,Pavlovic T.FOUL (P4.T4),,
+0021100001,498,3,16,4,2:27 PM,8:03,Anthony Free Throw Technical (28 PTS),,,94 - 89,-5
+0021100001,500,6,4,4,2:27 PM,7:48,Walker OFF.Foul (P4),,,,
+0021100001,501,5,5,4,2:27 PM,7:48,Walker Foul Turnover (P3.T15),,,,
+0021100001,502,8,0,4,2:28 PM,7:48,,,SUB: O'Neal FOR Bass,,
+0021100001,503,6,4,4,2:28 PM,7:36,,,O'Neal OFF.Foul (P4),,
+0021100001,504,5,5,4,2:28 PM,7:36,,,O'Neal Foul Turnover (P1.T17),,
+0021100001,505,8,0,4,2:28 PM,7:36,,,SUB: Daniels FOR Pavlovic,,
+0021100001,506,2,1,4,2:28 PM,7:19,MISS Douglas 25' 3PT Jump Shot,,,,
+0021100001,507,4,0,4,2:28 PM,7:17,,,Daniels REBOUND (Off:0 Def:5),,
+0021100001,508,2,1,4,2:29 PM,7:05,,,MISS Allen 19' Jump Shot,,
+0021100001,509,4,0,4,2:29 PM,7:03,Harrellson REBOUND (Off:0 Def:2),,,,
+0021100001,510,2,1,4,2:29 PM,6:55,MISS Douglas 7' Jump Shot,,,,
+0021100001,511,4,0,4,2:29 PM,6:53,,,Garnett REBOUND (Off:1 Def:7),,
+0021100001,512,2,1,4,2:29 PM,6:38,Chandler BLOCK (5 BLK),,MISS O'Neal 4' Jump Shot,,
+0021100001,519,4,0,4,2:29 PM,6:37,,,Daniels REBOUND (Off:1 Def:5),,
+0021100001,520,2,45,4,2:29 PM,6:36,Chandler BLOCK (6 BLK),,MISS Daniels 1' Jump Shot,,
+0021100001,513,4,0,4,2:29 PM,6:35,,,Celtics Rebound,,
+0021100001,514,8,0,4,2:29 PM,6:34,SUB: Fields FOR Walker,,,,
+0021100001,515,8,0,4,2:29 PM,6:34,SUB: Stoudemire FOR Harrellson,,,,
+0021100001,516,2,1,4,2:30 PM,6:30,Anthony BLOCK (1 BLK),,MISS O'Neal 4' Jump Shot,,
+0021100001,517,4,0,4,2:30 PM,6:29,,,Celtics Rebound,,
+0021100001,518,5,11,4,2:30 PM,6:29,,,Celtics Turnover: Shot Clock (T#18),,
+0021100001,521,6,2,4,2:30 PM,6:14,,,O'Neal S.FOUL (P5.PN),,
+0021100001,522,6,11,4,2:31 PM,6:14,,,O'Neal T.FOUL (P5.PN),,
+0021100001,523,3,16,4,2:31 PM,6:14,Anthony Free Throw Technical (29 PTS),,,94 - 90,-4
+0021100001,525,3,11,4,2:31 PM,6:14,Stoudemire Free Throw 1 of 2 (18 PTS),,,94 - 91,-3
+0021100001,527,3,12,4,2:31 PM,6:14,Stoudemire Free Throw 2 of 2 (19 PTS),,,94 - 92,-2
+0021100001,530,6,2,4,2:32 PM,5:59,Chandler S.FOUL (P2.T1),,,,
+0021100001,531,9,1,4,2:32 PM,5:59,KNICKS Timeout: Regular (Full 4 Short 2),,,,
+0021100001,534,8,0,4,2:35 PM,5:59,,,SUB: Bass FOR O'Neal,,
+0021100001,535,3,11,4,2:35 PM,5:59,,,Allen Free Throw 1 of 2 (19 PTS),95 - 92,-3
+0021100001,537,3,12,4,2:35 PM,5:59,,,Allen Free Throw 2 of 2 (20 PTS),96 - 92,-4
+0021100001,539,2,1,4,2:36 PM,5:42,MISS Anthony 12' Jump Shot,,,,
+0021100001,540,4,0,4,2:36 PM,5:40,,,Rondo REBOUND (Off:0 Def:3),,
+0021100001,541,1,1,4,2:36 PM,5:19,,,Rondo 19' Jump Shot (31 PTS),98 - 92,-6
+0021100001,542,1,1,4,2:36 PM,4:52,Stoudemire 16' Jump Shot (21 PTS),,,98 - 94,-4
+0021100001,543,2,1,4,2:37 PM,4:25,,,MISS Rondo 24' 3PT Jump Shot,,
+0021100001,544,4,0,4,2:37 PM,4:23,Stoudemire REBOUND (Off:0 Def:6),,,,
+0021100001,545,1,1,4,2:37 PM,4:08,Douglas 25' 3PT Jump Shot (19 PTS) (Fields 3 AST),,,98 - 97,-1
+0021100001,546,1,1,4,2:37 PM,3:47,,,Garnett 19' Jump Shot (13 PTS) (Rondo 11 AST),100 - 97,-3
+0021100001,547,1,1,4,2:38 PM,3:25,Anthony 25' 3PT Jump Shot (32 PTS) (Stoudemire 2 AST),,,100 - 100,TIE
+0021100001,548,1,1,4,2:38 PM,3:08,,,Garnett 20' Jump Shot (15 PTS) (Rondo 12 AST),102 - 100,-2
+0021100001,549,6,2,4,2:39 PM,2:47,,,Garnett S.FOUL (P4.PN),,
+0021100001,550,9,1,4,2:39 PM,2:47,,,Celtics Timeout: Regular (Reg.4 Short 1),,
+0021100001,553,3,11,4,2:42 PM,2:47,Chandler Free Throw 1 of 2 (7 PTS),,,102 - 101,-1
+0021100001,555,3,12,4,2:42 PM,2:47,MISS Chandler Free Throw 2 of 2,,,,
+0021100001,557,4,0,4,2:42 PM,2:45,,,Rondo REBOUND (Off:0 Def:4),,
+0021100001,558,2,1,4,2:43 PM,2:27,,,MISS Garnett 18' Jump Shot,,
+0021100001,559,4,0,4,2:43 PM,2:26,Fields REBOUND (Off:1 Def:1),,,,
+0021100001,560,6,2,4,2:43 PM,2:11,,,Garnett S.FOUL (P5.PN),,
+0021100001,561,3,11,4,2:43 PM,2:11,MISS Anthony Free Throw 1 of 2,,,,
+0021100001,562,4,1,4,2:43 PM,2:11,KNICKS Rebound,,,,
+0021100001,563,3,12,4,2:44 PM,2:11,Anthony Free Throw 2 of 2 (33 PTS),,,102 - 102,TIE
+0021100001,565,2,1,4,2:44 PM,1:51,,,MISS Garnett 14' Jump Shot,,
+0021100001,566,4,0,4,2:45 PM,1:48,,,Celtics Rebound,,
+0021100001,567,9,1,4,2:45 PM,1:48,,,Celtics Timeout: Regular (Reg.5 Short 1),,
+0021100001,570,2,1,4,2:47 PM,1:46,,,MISS Allen 21' Jump Shot,,
+0021100001,571,4,0,4,2:47 PM,1:44,Douglas REBOUND (Off:0 Def:2),,,,
+0021100001,572,1,1,4,2:47 PM,1:34,Anthony 19' Jump Shot (35 PTS),,,102 - 104,2
+0021100001,573,1,5,4,2:47 PM,1:16,,,Daniels 1' Layup (4 PTS) (Rondo 13 AST),104 - 104,TIE
+0021100001,574,9,1,4,2:48 PM,0:58,KNICKS Timeout: Regular (Full 5 Short 2),,,,
+0021100001,576,5,40,4,2:50 PM,0:53,Anthony Out of Bounds Lost Ball Turnover (P5.T16),,,,
+0021100001,577,2,1,4,2:51 PM,0:39,Stoudemire BLOCK (2 BLK),,MISS Bass 4' Jump Shot,,
+0021100001,578,4,0,4,2:51 PM,0:37,,,Allen REBOUND (Off:3 Def:1),,
+0021100001,579,5,2,4,2:51 PM,0:36,Fields STEAL (2 STL),,Allen Lost Ball Turnover (P4.T19),,
+0021100001,580,6,1,4,2:51 PM,0:16,,,Daniels P.FOUL (P5.PN),,
+0021100001,581,3,11,4,2:51 PM,0:16,Anthony Free Throw 1 of 2 (36 PTS),,,104 - 105,1
+0021100001,583,3,12,4,2:52 PM,0:16,Anthony Free Throw 2 of 2 (37 PTS),,,104 - 106,2
+0021100001,585,9,2,4,2:52 PM,0:16,,,Celtics Timeout: Short (Reg.5 Short 2),,
+0021100001,587,2,1,4,2:54 PM,0:06,,,MISS Daniels  3PT Jump Shot,,
+0021100001,588,4,0,4,2:54 PM,0:05,,,Rondo REBOUND (Off:1 Def:4),,
+0021100001,589,9,2,4,2:54 PM,0:04,,,Celtics Timeout: Short (Reg.5 Short 3),,
+0021100001,590,8,0,4,2:55 PM,0:04,,,SUB: Dooling FOR Daniels,,
+0021100001,591,9,2,4,2:55 PM,0:04,KNICKS Timeout: Short (Full 5 Short 3),,,,
+0021100001,592,8,0,4,2:56 PM,0:04,SUB: Walker FOR Douglas,,,,
+0021100001,594,6,1,4,2:57 PM,0:03,Fields P.FOUL (P3.T2),,,,
+0021100001,595,2,1,4,2:57 PM,0:00,,,MISS Garnett 14' Jump Shot,,
+0021100001,596,4,0,4,2:57 PM,0:00,,,Celtics Rebound,,
+0021100001,597,13,0,4,2:57 PM,0:00,,,,104 - 106,2

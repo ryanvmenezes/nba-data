@@ -1,0 +1,558 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100123,0,12,0,1,7:08 PM,12:00,,,,,
+0020100123,1,10,0,1,7:08 PM,12:00,Jump Ball Brezec vs. Garnett: Tip to Brandon,,,,
+0020100123,2,2,1,1,7:09 PM,11:51,Tinsley BLOCK (1 BLK),,MISS Brandon 13' Jump Shot,,
+0020100123,3,4,0,1,7:09 PM,11:49,Rose REBOUND (Off:0 Def:1),,,,
+0020100123,4,2,1,1,7:09 PM,11:26,MISS Tinsley 25' 3PT Jump Shot,,Brandon BLOCK (1 BLK),,
+0020100123,5,4,0,1,7:09 PM,11:24,,,Smith REBOUND (Off:0 Def:1),,
+0020100123,6,6,1,1,7:09 PM,11:10,Foster P.FOUL (P1.T1),,,,
+0020100123,7,1,47,1,7:10 PM,10:58,,,Garnett 11' Turnaround Jump Shot (2 PTS) (Szczerbiak 1 AST),2 - 0,-2
+0020100123,8,2,1,1,7:10 PM,10:45,MISS Miller 22' Jump Shot,,,,
+0020100123,9,4,0,1,7:10 PM,10:44,,,Brandon REBOUND (Off:0 Def:1),,
+0020100123,10,6,2,1,7:10 PM,10:40,Rose S.FOUL (P1.T2),,,,
+0020100123,11,3,11,1,7:10 PM,10:40,,,Smith Free Throw 1 of 2 (1 PTS),3 - 0,-3
+0020100123,12,3,12,1,7:11 PM,10:40,,,Smith Free Throw 2 of 2 (2 PTS),4 - 0,-4
+0020100123,13,5,1,1,7:11 PM,10:34,Rose Bad Pass Turnover (P1.T1),,Nesterovic STEAL (1 STL),,
+0020100123,14,6,1,1,7:11 PM,10:25,Tinsley P.FOUL (P1.T3),,,,
+0020100123,15,1,47,1,7:12 PM,10:15,,,Garnett 10' Turnaround Jump Shot (4 PTS),6 - 0,-6
+0020100123,16,2,1,1,7:12 PM,9:59,MISS Tinsley 9' Jump Shot,,,,
+0020100123,17,4,0,1,7:12 PM,9:57,,,Nesterovic REBOUND (Off:0 Def:1),,
+0020100123,18,2,1,1,7:12 PM,9:41,,,MISS Brandon 15' Jump Shot,,
+0020100123,19,4,0,1,7:12 PM,9:38,Foster REBOUND (Off:0 Def:1),,,,
+0020100123,20,2,1,1,7:12 PM,9:34,MISS Rose 17' Jump Shot,,,,
+0020100123,21,4,0,1,7:12 PM,9:32,,,Szczerbiak REBOUND (Off:0 Def:1),,
+0020100123,22,2,1,1,7:13 PM,9:19,,,MISS Garnett 12' Jump Shot,,
+0020100123,23,4,0,1,7:13 PM,9:17,Miller REBOUND (Off:0 Def:1),,,,
+0020100123,24,2,1,1,7:13 PM,9:02,MISS Rose 6' Jump Shot,,,,
+0020100123,25,4,0,1,7:13 PM,9:00,,,Nesterovic REBOUND (Off:0 Def:2),,
+0020100123,26,2,1,1,7:13 PM,8:37,Brezec BLOCK (1 BLK),,MISS Nesterovic 4' Jump Shot,,
+0020100123,27,4,0,1,7:13 PM,8:35,Foster REBOUND (Off:0 Def:2),,,,
+0020100123,28,1,8,1,7:13 PM,8:31,Rose 2' Slam Dunk (2 PTS) (Tinsley 1 AST),,,6 - 2,-4
+0020100123,29,1,47,1,7:14 PM,8:09,,,Smith 6' Turnaround Jump Shot (4 PTS) (Brandon 1 AST),8 - 2,-6
+0020100123,30,1,1,1,7:14 PM,7:53,Brezec 20' Jump Shot (2 PTS) (Foster 1 AST),,,8 - 4,-4
+0020100123,31,6,2,1,7:14 PM,7:44,Brezec S.FOUL (P1.T4),,,,
+0020100123,32,3,11,1,7:14 PM,7:44,,,MISS Garnett Free Throw 1 of 2,,
+0020100123,33,4,1,1,7:14 PM,7:44,,,Timberwolves Rebound,,
+0020100123,34,8,0,1,7:15 PM,7:44,SUB: Harrington FOR Foster,,,,
+0020100123,35,3,12,1,7:15 PM,7:44,,,Garnett Free Throw 2 of 2 (5 PTS),9 - 4,-5
+0020100123,36,2,1,1,7:15 PM,7:36,MISS Miller  3PT Jump Shot,,,,
+0020100123,37,4,0,1,7:15 PM,7:34,Brezec REBOUND (Off:1 Def:0),,,,
+0020100123,38,6,1,1,7:16 PM,7:29,,,Nesterovic P.FOUL (P1.T1),,
+0020100123,39,6,2,1,7:16 PM,7:18,,,Szczerbiak S.FOUL (P1.T2),,
+0020100123,40,3,13,1,7:16 PM,7:18,Miller Free Throw 1 of 3 (1 PTS),,,9 - 5,-4
+0020100123,41,3,14,1,7:17 PM,7:18,Miller Free Throw 2 of 3 (2 PTS),,,9 - 6,-3
+0020100123,42,3,15,1,7:17 PM,7:18,Miller Free Throw 3 of 3 (3 PTS),,,9 - 7,-2
+0020100123,43,6,2,1,7:17 PM,7:10,Brezec S.FOUL (P2.PN),,,,
+0020100123,44,3,11,1,7:17 PM,7:10,,,Szczerbiak Free Throw 1 of 2 (1 PTS),10 - 7,-3
+0020100123,45,3,12,1,7:18 PM,7:10,,,Szczerbiak Free Throw 2 of 2 (2 PTS),11 - 7,-4
+0020100123,46,2,1,1,7:18 PM,6:47,MISS Miller 18' Jump Shot,,,,
+0020100123,47,4,0,1,7:18 PM,6:46,Brezec REBOUND (Off:2 Def:0),,,,
+0020100123,48,1,1,1,7:18 PM,6:43,Miller 24' 3PT Jump Shot (6 PTS) (Brezec 1 AST),,,11 - 10,-1
+0020100123,49,5,1,1,7:19 PM,6:30,Tinsley STEAL (1 STL),,Garnett Bad Pass Turnover (P1.T1),,
+0020100123,50,5,1,1,7:19 PM,6:25,Miller Bad Pass Turnover (P1.T2),,Brandon STEAL (1 STL),,
+0020100123,51,6,4,1,7:19 PM,6:20,,,Szczerbiak OFF.Foul (P2),,
+0020100123,52,5,5,1,7:19 PM,6:20,,,Szczerbiak Foul Turnover (P1.T2),,
+0020100123,53,6,11,1,7:19 PM,6:20,,,Szczerbiak T.FOUL (P2.T2),,
+0020100123,54,3,16,1,7:19 PM,6:20,Miller Free Throw Technical (7 PTS),,,11 - 11,TIE
+0020100123,55,8,0,1,7:20 PM,6:20,,,SUB: Peeler FOR Szczerbiak,,
+0020100123,56,1,1,1,7:20 PM,6:04,Harrington 19' Jump Shot (2 PTS) (Miller 1 AST),,,11 - 13,2
+0020100123,57,6,4,1,7:20 PM,5:53,,,Peeler OFF.Foul (P1),,
+0020100123,58,5,5,1,7:20 PM,5:53,,,Peeler Foul Turnover (P1.T3),,
+0020100123,59,9,1,1,7:20 PM,5:53,PACERS Timeout: Regular (Full 1 Short 0),,,,
+0020100123,61,6,17,1,7:23 PM,5:44,,,Timberwolves T.Foul (Def. 3 Sec Nesterovic ),,
+0020100123,62,3,16,1,7:23 PM,5:44,Miller Free Throw Technical (8 PTS),,,11 - 14,3
+0020100123,63,1,1,1,7:23 PM,5:31,Tinsley 21' Jump Shot (2 PTS) (Rose 1 AST),,,11 - 16,5
+0020100123,64,1,1,1,7:24 PM,5:17,,,Smith 4' Jump Shot (6 PTS) (Peeler 1 AST),13 - 16,3
+0020100123,65,5,1,1,7:24 PM,4:56,Miller Bad Pass Turnover (P2.T3),,,,
+0020100123,66,6,2,1,7:25 PM,4:43,Brezec S.FOUL (P3.PN),,,,
+0020100123,67,8,0,1,7:25 PM,4:43,SUB: Bender FOR Rose,,,,
+0020100123,68,8,0,1,7:25 PM,4:43,SUB: Foster FOR Brezec,,,,
+0020100123,69,3,11,1,7:25 PM,4:43,,,Smith Free Throw 1 of 2 (7 PTS),14 - 16,2
+0020100123,70,3,12,1,7:25 PM,4:43,,,Smith Free Throw 2 of 2 (8 PTS),15 - 16,1
+0020100123,71,2,1,1,7:26 PM,4:31,MISS Bender 25' 3PT Jump Shot,,,,
+0020100123,72,4,0,1,7:26 PM,4:29,,,Garnett REBOUND (Off:0 Def:1),,
+0020100123,73,2,1,1,7:26 PM,4:24,,,MISS Peeler 16' Jump Shot,,
+0020100123,74,4,0,1,7:26 PM,4:20,,,Garnett REBOUND (Off:1 Def:1),,
+0020100123,75,1,1,1,7:26 PM,4:16,,,Brandon 13' Jump Shot (2 PTS) (Garnett 1 AST),17 - 16,-1
+0020100123,76,1,5,1,7:26 PM,3:57,Harrington 2' Layup (4 PTS) (Foster 2 AST),,,17 - 18,1
+0020100123,77,5,4,1,7:27 PM,3:36,,,Smith Traveling Turnover (P1.T4),,
+0020100123,78,1,1,1,7:27 PM,3:16,Harrington 7' Jump Shot (6 PTS) (Miller 2 AST),,,17 - 20,3
+0020100123,79,2,1,1,7:28 PM,2:57,Bender BLOCK (1 BLK),,MISS Smith 3' Jump Shot,,
+0020100123,80,4,0,1,7:28 PM,2:54,,,Peeler REBOUND (Off:1 Def:0),,
+0020100123,81,2,1,1,7:28 PM,2:52,,,MISS Peeler 11' Jump Shot,,
+0020100123,82,4,0,1,7:28 PM,2:51,Bender REBOUND (Off:0 Def:1),,,,
+0020100123,83,1,5,1,7:28 PM,2:49,Miller 2' Layup (10 PTS) (Tinsley 2 AST),,,17 - 22,5
+0020100123,84,9,1,1,7:28 PM,2:42,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,
+0020100123,86,8,0,1,7:30 PM,2:42,,,SUB: Trent FOR Smith,,
+0020100123,87,2,1,1,7:30 PM,2:35,,,MISS Brandon 20' Jump Shot,,
+0020100123,88,4,0,1,7:30 PM,2:33,PACERS Rebound,,,,
+0020100123,89,1,47,1,7:31 PM,2:14,Harrington 13' Turnaround Jump Shot (8 PTS),,,17 - 24,7
+0020100123,90,1,47,1,7:31 PM,2:01,,,Garnett 11' Turnaround Jump Shot (7 PTS),19 - 24,5
+0020100123,91,2,1,1,7:31 PM,1:47,MISS Foster 18' Jump Shot,,,,
+0020100123,92,4,0,1,7:31 PM,1:46,,,Peeler REBOUND (Off:1 Def:1),,
+0020100123,93,6,3,1,7:31 PM,1:46,Bender L.B.FOUL (P1.PN),,,,
+0020100123,94,8,0,1,7:31 PM,1:46,SUB: Best FOR Tinsley,,,,
+0020100123,95,8,0,1,7:31 PM,1:46,,,SUB: Billups FOR Brandon,,
+0020100123,96,3,11,1,7:31 PM,1:46,,,Peeler Free Throw 1 of 2 (1 PTS),20 - 24,4
+0020100123,97,3,12,1,7:32 PM,1:46,,,Peeler Free Throw 2 of 2 (2 PTS),21 - 24,3
+0020100123,98,6,2,1,7:32 PM,1:29,,,Nesterovic S.FOUL (P2.T3),,
+0020100123,99,3,11,1,7:32 PM,1:29,Harrington Free Throw 1 of 2 (9 PTS),,,21 - 25,4
+0020100123,100,8,0,1,7:33 PM,1:29,SUB: Croshere FOR Miller,,,,
+0020100123,101,8,0,1,7:33 PM,1:29,,,SUB: Woods FOR Nesterovic,,
+0020100123,102,3,12,1,7:33 PM,1:29,Harrington Free Throw 2 of 2 (10 PTS),,,21 - 26,5
+0020100123,103,2,1,1,7:33 PM,1:16,,,MISS Trent 4' Jump Shot,,
+0020100123,104,4,0,1,7:33 PM,1:14,Foster REBOUND (Off:0 Def:3),,,,
+0020100123,105,6,2,1,7:34 PM,1:00,,,Woods S.FOUL (P1.PN),,
+0020100123,106,3,11,1,7:34 PM,1:00,Bender Free Throw 1 of 2 (1 PTS),,,21 - 27,6
+0020100123,107,3,12,1,7:34 PM,1:00,Bender Free Throw 2 of 2 (2 PTS),,,21 - 28,7
+0020100123,108,6,2,1,7:35 PM,0:46,Harrington S.FOUL (P1.PN),,,,
+0020100123,109,3,11,1,7:35 PM,0:46,,,Garnett Free Throw 1 of 2 (8 PTS),22 - 28,6
+0020100123,110,3,12,1,7:35 PM,0:46,,,Garnett Free Throw 2 of 2 (9 PTS),23 - 28,5
+0020100123,111,6,1,1,7:36 PM,0:35,,,Woods P.FOUL (P2.PN),,
+0020100123,112,3,11,1,7:36 PM,0:35,Foster Free Throw 1 of 2 (1 PTS),,,23 - 29,6
+0020100123,113,8,0,1,7:36 PM,0:35,,,SUB: Mitchell FOR Woods,,
+0020100123,114,3,12,1,7:37 PM,0:35,Foster Free Throw 2 of 2 (2 PTS),,,23 - 30,7
+0020100123,115,1,1,1,7:37 PM,0:18,,,Garnett 11' Jump Shot (11 PTS) (Billups 1 AST),25 - 30,5
+0020100123,116,1,42,1,7:37 PM,0:08,Best 1' Driving Layup (2 PTS),,,25 - 32,7
+0020100123,117,2,1,1,7:38 PM,0:00,,,MISS Billups 25' 3PT Jump Shot,,
+0020100123,118,4,0,1,7:38 PM,0:00,,,Timberwolves Rebound,,
+0020100123,119,13,0,1,7:38 PM,0:00,,,,25 - 32,7
+0020100123,121,12,0,2,7:40 PM,12:00,,,,25 - 32,7
+0020100123,122,2,5,2,7:40 PM,11:45,MISS Bender 3' Layup,,,,
+0020100123,123,4,0,2,7:41 PM,11:43,,,Mitchell REBOUND (Off:0 Def:1),,
+0020100123,124,2,1,2,7:41 PM,11:33,,,MISS Peeler 24' 3PT Jump Shot,,
+0020100123,125,4,0,2,7:41 PM,11:31,Best REBOUND (Off:0 Def:1),,,,
+0020100123,126,5,1,2,7:41 PM,11:20,Harrington Bad Pass Turnover (P1.T4),,,,
+0020100123,127,6,2,2,7:42 PM,11:06,Croshere S.FOUL (P1.T1),,,,
+0020100123,128,3,11,2,7:42 PM,11:06,,,Billups Free Throw 1 of 2 (1 PTS),26 - 32,6
+0020100123,129,3,12,2,7:42 PM,11:06,,,Billups Free Throw 2 of 2 (2 PTS),27 - 32,5
+0020100123,130,6,17,2,7:43 PM,10:53,,,Timberwolves T.Foul (Def. 3 Sec Mitchell ),,
+0020100123,131,3,16,2,7:43 PM,10:53,Best Free Throw Technical (3 PTS),,,27 - 33,6
+0020100123,132,5,2,2,7:43 PM,10:43,Harrington Lost Ball Turnover (P2.T5),,Trent STEAL (1 STL),,
+0020100123,133,1,44,2,7:43 PM,10:39,,,Billups 2' Reverse Layup (4 PTS),29 - 33,4
+0020100123,134,9,2,2,7:43 PM,10:29,PACERS Timeout: Short (Full 1 Short 1),,,,
+0020100123,136,8,0,2,7:44 PM,10:29,SUB: Tinsley FOR Best,,,,
+0020100123,137,5,4,2,7:45 PM,10:14,Croshere Traveling Turnover (P1.T6),,,,
+0020100123,138,1,47,2,7:45 PM,9:56,,,Trent 7' Turnaround Jump Shot (2 PTS),31 - 33,2
+0020100123,139,1,1,2,7:46 PM,9:32,Harrington 16' Jump Shot (12 PTS) (Croshere 1 AST),,,31 - 35,4
+0020100123,140,1,5,2,7:46 PM,9:18,,,Trent 2' Layup (4 PTS),33 - 35,2
+0020100123,141,6,1,2,7:46 PM,9:01,,,Trent P.FOUL (P1.T1),,
+0020100123,142,8,0,2,7:47 PM,9:01,SUB: Rose FOR Foster,,,,
+0020100123,143,1,1,2,7:47 PM,8:48,Harrington 20' Jump Shot (14 PTS),,,33 - 37,4
+0020100123,144,1,1,2,7:47 PM,8:38,,,Billups 24' 3PT Jump Shot (7 PTS),36 - 37,1
+0020100123,145,1,47,2,7:47 PM,8:18,Harrington 13' Turnaround Jump Shot (16 PTS),,,36 - 39,3
+0020100123,146,2,5,2,7:48 PM,8:08,,,MISS Billups 2' Layup,,
+0020100123,147,4,0,2,7:48 PM,8:06,Croshere REBOUND (Off:0 Def:1),,,,
+0020100123,148,2,1,2,7:48 PM,7:50,MISS Harrington 19' Jump Shot,,,,
+0020100123,149,4,0,2,7:48 PM,7:49,Bender REBOUND (Off:1 Def:1),,,,
+0020100123,150,6,3,2,7:48 PM,7:49,,,Trent L.B.FOUL (P2.T2),,
+0020100123,151,9,4,2,7:48 PM,7:49,,,,,
+0020100123,153,8,0,2,7:50 PM,7:49,,,SUB: Szczerbiak FOR Peeler,,
+0020100123,154,8,0,2,7:50 PM,7:49,,,SUB: Garnett FOR Trent,,
+0020100123,155,1,1,2,7:51 PM,7:39,Bender 26' 3PT Jump Shot (5 PTS) (Tinsley 3 AST),,,36 - 42,6
+0020100123,156,2,1,2,7:51 PM,7:24,,,MISS Billups 8' Jump Shot,,
+0020100123,157,4,0,2,7:51 PM,7:22,Croshere REBOUND (Off:0 Def:2),,,,
+0020100123,158,6,11,2,7:51 PM,7:17,,,Billups T.FOUL (P0.T2),,
+0020100123,159,3,16,2,7:51 PM,7:17,Rose Free Throw Technical (3 PTS),,,36 - 43,7
+0020100123,160,6,1,2,7:52 PM,7:06,,,Garnett P.FOUL (P1.T3),,
+0020100123,161,6,2,2,7:53 PM,6:54,,,Mitchell S.FOUL (P1.T4),,
+0020100123,162,3,11,2,7:53 PM,6:54,MISS Croshere Free Throw 1 of 2,,,,
+0020100123,163,4,1,2,7:53 PM,6:54,PACERS Rebound,,,,
+0020100123,164,8,0,2,7:53 PM,6:54,,,SUB: Brandon FOR Billups,,
+0020100123,165,3,12,2,7:53 PM,6:54,Croshere Free Throw 2 of 2 (1 PTS),,,36 - 44,8
+0020100123,166,2,1,2,7:54 PM,6:35,,,MISS Garnett 14' Jump Shot,,
+0020100123,167,4,0,2,7:54 PM,6:32,Rose REBOUND (Off:0 Def:2),,,,
+0020100123,168,1,1,2,7:54 PM,6:17,Bender 16' Jump Shot (7 PTS) (Tinsley 4 AST),,,36 - 46,10
+0020100123,169,1,1,2,7:54 PM,5:53,,,Smith 13' Jump Shot (10 PTS) (Szczerbiak 2 AST),38 - 46,8
+0020100123,170,6,2,2,7:55 PM,5:37,,,Brandon S.FOUL (P1.PN),,
+0020100123,171,9,1,2,7:55 PM,5:37,PACERS Timeout: Regular (Full 2 Short 1),,,,
+0020100123,173,8,0,2,7:57 PM,5:37,,,SUB: Nesterovic FOR Mitchell,,
+0020100123,174,8,0,2,7:57 PM,5:37,SUB: Foster FOR Croshere,,,,
+0020100123,175,3,11,2,7:57 PM,5:37,Tinsley Free Throw 1 of 2 (3 PTS),,,38 - 47,9
+0020100123,176,3,12,2,7:57 PM,5:37,Tinsley Free Throw 2 of 2 (4 PTS),,,38 - 48,10
+0020100123,177,2,1,2,7:58 PM,5:27,,,MISS Brandon 19' Jump Shot,,
+0020100123,178,4,0,2,7:58 PM,5:26,,,Timberwolves Rebound,,
+0020100123,179,6,3,2,7:58 PM,5:26,Harrington L.B.FOUL (P2.T2),,,,
+0020100123,180,1,5,2,7:58 PM,5:12,,,Szczerbiak 2' Layup (4 PTS),40 - 48,8
+0020100123,181,2,1,2,7:58 PM,4:51,MISS Bender 26' 3PT Jump Shot,,,,
+0020100123,182,4,0,2,7:58 PM,4:50,,,Garnett REBOUND (Off:1 Def:2),,
+0020100123,183,1,44,2,7:59 PM,4:39,,,Nesterovic 1' Reverse Layup (2 PTS) (Garnett 2 AST),42 - 48,6
+0020100123,184,1,1,2,7:59 PM,4:17,Foster 19' Jump Shot (4 PTS) (Harrington 1 AST),,,42 - 50,8
+0020100123,185,2,1,2,7:59 PM,3:55,,,MISS Nesterovic 3' Jump Shot,,
+0020100123,186,4,0,2,7:59 PM,3:52,Tinsley REBOUND (Off:0 Def:1),,,,
+0020100123,187,2,1,2,7:59 PM,3:47,MISS Tinsley 5' Jump Shot,,,,
+0020100123,188,4,0,2,7:59 PM,3:46,,,Szczerbiak REBOUND (Off:0 Def:2),,
+0020100123,189,1,5,2,8:00 PM,3:41,,,Brandon 4' Layup (4 PTS),44 - 50,6
+0020100123,190,1,44,2,8:00 PM,3:19,Harrington 3' Reverse Layup (18 PTS) (Tinsley 5 AST),,,44 - 52,8
+0020100123,191,2,1,2,8:00 PM,3:03,,,MISS Nesterovic 4' Jump Shot,,
+0020100123,192,4,0,2,8:00 PM,2:59,,,Nesterovic REBOUND (Off:1 Def:2),,
+0020100123,193,9,1,2,8:00 PM,2:59,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,
+0020100123,195,8,0,2,8:02 PM,2:59,SUB: Brezec FOR Bender,,,,
+0020100123,196,1,5,2,8:03 PM,2:46,,,Smith 3' Layup (12 PTS) (Garnett 3 AST),46 - 52,6
+0020100123,197,1,1,2,8:03 PM,2:25,Rose 17' Jump Shot (5 PTS) (Tinsley 6 AST),,,46 - 54,8
+0020100123,198,5,3,2,8:03 PM,2:09,,,Brandon Out Of Bounds Turnover (P1.T5),,
+0020100123,200,1,1,2,8:04 PM,1:58,Rose 15' Jump Shot (7 PTS) (Tinsley 7 AST),,,46 - 56,10
+0020100123,201,2,1,2,8:04 PM,1:37,,,MISS Smith 11' Jump Shot,,
+0020100123,202,4,0,2,8:04 PM,1:36,,,Timberwolves Rebound,,
+0020100123,203,5,11,2,8:05 PM,1:30,,,Timberwolves Turnover: Shot Clock (T#6),,
+0020100123,204,6,1,2,8:05 PM,1:22,,,Garnett P.FOUL (P2.PN),,
+0020100123,205,3,11,2,8:05 PM,1:22,Rose Free Throw 1 of 2 (8 PTS),,,46 - 57,11
+0020100123,206,3,12,2,8:05 PM,1:22,Rose Free Throw 2 of 2 (9 PTS),,,46 - 58,12
+0020100123,207,6,1,2,8:06 PM,1:10,Foster P.FOUL (P2.T3),,,,
+0020100123,208,1,1,2,8:06 PM,1:02,,,Szczerbiak 20' Jump Shot (6 PTS) (Garnett 4 AST),48 - 58,10
+0020100123,209,2,1,2,8:07 PM,0:43,MISS Rose 5' Jump Shot,,Nesterovic BLOCK (1 BLK),,
+0020100123,210,4,0,2,8:07 PM,0:40,,,Smith REBOUND (Off:0 Def:2),,
+0020100123,211,1,1,2,8:07 PM,0:35,,,Szczerbiak 15' Jump Shot (8 PTS) (Brandon 2 AST),50 - 58,8
+0020100123,212,2,1,2,8:07 PM,0:15,MISS Tinsley 12' Jump Shot,,,,
+0020100123,213,4,0,2,8:07 PM,0:14,Tinsley REBOUND (Off:1 Def:1),,,,
+0020100123,214,2,1,2,8:07 PM,0:01,MISS Rose 19' Jump Shot,,,,
+0020100123,215,4,0,2,8:07 PM,0:00,,,Smith REBOUND (Off:0 Def:3),,
+0020100123,216,13,0,2,8:07 PM,0:00,,,,50 - 58,8
+0020100123,218,12,0,3,8:24 PM,12:00,,,,50 - 58,8
+0020100123,219,2,1,3,8:25 PM,11:38,MISS Tinsley 11' Jump Shot,,,,
+0020100123,220,4,0,3,8:25 PM,11:36,,,Garnett REBOUND (Off:1 Def:3),,
+0020100123,221,2,1,3,8:25 PM,11:31,Tinsley BLOCK (2 BLK),,MISS Brandon 3' Jump Shot,,
+0020100123,222,4,0,3,8:25 PM,11:29,,,Brandon REBOUND (Off:1 Def:1),,
+0020100123,223,2,1,3,8:25 PM,11:28,,,MISS Smith 19' Jump Shot,,
+0020100123,224,4,0,3,8:25 PM,11:26,Tinsley REBOUND (Off:1 Def:2),,,,
+0020100123,225,1,1,3,8:25 PM,11:17,Rose 26' 3PT Jump Shot (12 PTS) (Tinsley 8 AST),,,50 - 61,11
+0020100123,226,6,2,3,8:26 PM,11:00,Brezec S.FOUL (P4.T1),,,,
+0020100123,227,3,11,3,8:26 PM,11:00,,,Smith Free Throw 1 of 2 (13 PTS),51 - 61,10
+0020100123,228,3,12,3,8:26 PM,11:00,,,Smith Free Throw 2 of 2 (14 PTS),52 - 61,9
+0020100123,229,2,1,3,8:27 PM,10:44,MISS Miller 18' Jump Shot,,,,
+0020100123,230,4,0,3,8:27 PM,10:43,Foster REBOUND (Off:1 Def:3),,,,
+0020100123,231,1,42,3,8:27 PM,10:38,Rose 3' Driving Layup (14 PTS) (Foster 3 AST),,,52 - 63,11
+0020100123,232,6,2,3,8:27 PM,10:38,,,Smith S.FOUL (P1.T1),,
+0020100123,233,3,10,3,8:27 PM,10:38,MISS Rose Free Throw 1 of 1,,,,
+0020100123,234,4,0,3,8:27 PM,10:38,,,Nesterovic REBOUND (Off:1 Def:3),,
+0020100123,235,1,1,3,8:28 PM,10:19,,,Szczerbiak 27' 3PT Jump Shot (11 PTS) (Brandon 3 AST),55 - 63,8
+0020100123,236,2,1,3,8:28 PM,10:04,MISS Rose 21' Jump Shot,,,,
+0020100123,237,4,0,3,8:28 PM,10:02,Tinsley REBOUND (Off:2 Def:2),,,,
+0020100123,238,2,1,3,8:28 PM,9:57,MISS Tinsley 21' Jump Shot,,,,
+0020100123,239,4,0,3,8:28 PM,9:54,,,Szczerbiak REBOUND (Off:0 Def:3),,
+0020100123,240,6,2,3,8:28 PM,9:50,Miller S.FOUL (P1.T2),,,,
+0020100123,241,3,11,3,8:28 PM,9:50,,,Szczerbiak Free Throw 1 of 2 (12 PTS),56 - 63,7
+0020100123,242,3,12,3,8:29 PM,9:50,,,Szczerbiak Free Throw 2 of 2 (13 PTS),57 - 63,6
+0020100123,243,2,1,3,8:29 PM,9:35,MISS Rose 24' 3PT Jump Shot,,,,
+0020100123,244,4,0,3,8:29 PM,9:33,,,Szczerbiak REBOUND (Off:0 Def:4),,
+0020100123,245,2,1,3,8:29 PM,9:27,,,MISS Brandon 18' Jump Shot,,
+0020100123,246,4,0,3,8:29 PM,9:25,,,Szczerbiak REBOUND (Off:1 Def:4),,
+0020100123,247,5,2,3,8:29 PM,9:22,Tinsley STEAL (2 STL),,Szczerbiak Lost Ball Turnover (P2.T7),,
+0020100123,248,1,5,3,8:30 PM,9:17,Miller 3' Layup (12 PTS) (Brezec 2 AST),,,57 - 65,8
+0020100123,249,2,1,3,8:30 PM,8:58,,,MISS Brandon 20' Jump Shot,,
+0020100123,250,4,0,3,8:30 PM,8:56,,,Garnett REBOUND (Off:2 Def:3),,
+0020100123,251,2,1,3,8:30 PM,8:54,,,MISS Garnett 6' Jump Shot,,
+0020100123,252,4,0,3,8:30 PM,8:53,,,Smith REBOUND (Off:1 Def:3),,
+0020100123,253,6,1,3,8:30 PM,8:53,Tinsley P.FOUL (P2.T3),,,,
+0020100123,254,8,0,3,8:30 PM,8:53,SUB: Harrington FOR Brezec,,,,
+0020100123,255,6,4,3,8:31 PM,8:46,,,Garnett OFF.Foul (P3),,
+0020100123,256,5,5,3,8:31 PM,8:46,,,Garnett Foul Turnover (P2.T8),,
+0020100123,257,2,1,3,8:31 PM,8:32,MISS Miller 9' Jump Shot,,,,
+0020100123,258,4,0,3,8:31 PM,8:31,,,Smith REBOUND (Off:1 Def:4),,
+0020100123,259,1,7,3,8:31 PM,8:16,,,Nesterovic 1' Dunk (4 PTS) (Brandon 4 AST),59 - 65,6
+0020100123,260,6,4,3,8:32 PM,7:48,Harrington OFF.Foul (P3),,,,
+0020100123,261,5,5,3,8:32 PM,7:48,Harrington Foul Turnover (P3.T7),,,,
+0020100123,262,5,1,3,8:32 PM,7:39,Harrington STEAL (1 STL),,Brandon Bad Pass Turnover (P2.T9),,
+0020100123,263,1,8,3,8:32 PM,7:36,Rose 1' Slam Dunk (16 PTS) (Miller 3 AST),,,59 - 67,8
+0020100123,264,2,1,3,8:33 PM,7:22,,,MISS Szczerbiak 5' Jump Shot,,
+0020100123,265,4,0,3,8:33 PM,7:20,Tinsley REBOUND (Off:2 Def:3),,,,
+0020100123,266,1,59,3,8:33 PM,7:16,Rose 1' Finger Roll (18 PTS) (Miller 4 AST),,,59 - 69,10
+0020100123,267,6,2,3,8:33 PM,7:16,,,Szczerbiak S.FOUL (P3.T2),,
+0020100123,268,9,1,3,8:33 PM,7:16,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,
+0020100123,270,8,0,3,8:35 PM,7:16,,,SUB: Trent FOR Nesterovic,,
+0020100123,271,3,10,3,8:35 PM,7:16,Rose Free Throw 1 of 1 (19 PTS),,,59 - 70,11
+0020100123,272,2,1,3,8:36 PM,7:04,,,MISS Garnett 13' Jump Shot,,
+0020100123,273,4,0,3,8:36 PM,7:02,Foster REBOUND (Off:1 Def:4),,,,
+0020100123,274,2,1,3,8:36 PM,6:48,MISS Harrington 18' Jump Shot,,,,
+0020100123,275,4,0,3,8:36 PM,6:46,,,Trent REBOUND (Off:0 Def:1),,
+0020100123,276,2,1,3,8:36 PM,6:39,,,MISS Szczerbiak 13' Jump Shot,,
+0020100123,277,4,0,3,8:36 PM,6:37,Tinsley REBOUND (Off:2 Def:4),,,,
+0020100123,278,6,2,3,8:37 PM,6:32,,,Brandon S.FOUL (P2.T3),,
+0020100123,279,3,11,3,8:37 PM,6:32,MISS Foster Free Throw 1 of 2,,,,
+0020100123,280,4,1,3,8:37 PM,6:32,PACERS Rebound,,,,
+0020100123,281,3,12,3,8:37 PM,6:32,MISS Foster Free Throw 2 of 2,,,,
+0020100123,282,4,0,3,8:37 PM,6:31,,,Garnett REBOUND (Off:2 Def:4),,
+0020100123,283,1,42,3,8:38 PM,6:19,,,Brandon 1' Driving Layup (6 PTS),61 - 70,9
+0020100123,284,1,1,3,8:38 PM,5:49,Rose 21' Jump Shot (21 PTS) (Miller 5 AST),,,61 - 72,11
+0020100123,285,2,1,3,8:38 PM,5:34,,,MISS Brandon 20' Jump Shot,,
+0020100123,286,4,0,3,8:38 PM,5:31,Foster REBOUND (Off:1 Def:5),,,,
+0020100123,287,2,5,3,8:39 PM,5:26,MISS Harrington 2' Layup,,,,
+0020100123,288,4,0,3,8:39 PM,5:24,,,Trent REBOUND (Off:0 Def:2),,
+0020100123,289,6,1,3,8:39 PM,5:22,Tinsley P.FOUL (P3.T4),,,,
+0020100123,290,1,1,3,8:39 PM,5:09,,,Garnett 6' Jump Shot (13 PTS),63 - 72,9
+0020100123,291,2,1,3,8:39 PM,4:55,MISS Rose 17' Jump Shot,,,,
+0020100123,292,4,0,3,8:39 PM,4:52,Foster REBOUND (Off:2 Def:5),,,,
+0020100123,293,2,1,3,8:39 PM,4:50,MISS Miller 25' 3PT Jump Shot,,,,
+0020100123,294,4,0,3,8:39 PM,4:48,,,Trent REBOUND (Off:0 Def:3),,
+0020100123,295,1,5,3,8:40 PM,4:42,,,Brandon 3' Layup (8 PTS),65 - 72,7
+0020100123,296,2,1,3,8:40 PM,4:14,MISS Rose 25' 3PT Jump Shot,,,,
+0020100123,297,4,0,3,8:40 PM,4:11,,,Trent REBOUND (Off:0 Def:4),,
+0020100123,298,5,8,3,8:40 PM,3:55,,,Smith 3 Second Violation Turnover (P2.T10),,
+0020100123,299,5,1,3,8:41 PM,3:55,Miller Bad Pass Turnover (P3.T8),,Szczerbiak STEAL (1 STL),,
+0020100123,300,6,16,3,8:41 PM,3:43,,,,,
+0020100123,301,6,2,3,8:42 PM,3:43,Foster S.FOUL (P3.PN),,,,
+0020100123,302,3,11,3,8:42 PM,3:43,,,Garnett Free Throw 1 of 2 (14 PTS),66 - 72,6
+0020100123,303,8,0,3,8:42 PM,3:43,SUB: Bender FOR Rose,,,,
+0020100123,304,3,12,3,8:42 PM,3:43,,,Garnett Free Throw 2 of 2 (15 PTS),67 - 72,5
+0020100123,305,2,1,3,8:43 PM,3:23,MISS Tinsley 6' Jump Shot,,,,
+0020100123,306,4,0,3,8:43 PM,3:22,Foster REBOUND (Off:3 Def:5),,,,
+0020100123,307,6,3,3,8:43 PM,3:22,,,Trent L.B.FOUL (P3.T4),,
+0020100123,308,5,4,3,8:44 PM,2:59,Harrington Traveling Turnover (P4.T9),,,,
+0020100123,309,9,1,3,8:45 PM,2:59,PACERS Timeout: Regular (Full 3 Short 1),,,,
+0020100123,311,2,5,3,8:47 PM,2:52,,,MISS Brandon 1' Layup,,
+0020100123,312,4,0,3,8:47 PM,2:50,Foster REBOUND (Off:3 Def:6),,,,
+0020100123,313,1,1,3,8:47 PM,2:27,Harrington 10' Jump Shot (20 PTS) (Tinsley 9 AST),,,67 - 74,7
+0020100123,314,6,1,3,8:48 PM,2:09,Harrington P.FOUL (P4.PN),,,,
+0020100123,315,3,11,3,8:48 PM,2:09,,,Garnett Free Throw 1 of 2 (16 PTS),68 - 74,6
+0020100123,316,3,12,3,8:48 PM,2:09,,,MISS Garnett Free Throw 2 of 2,,
+0020100123,317,4,0,3,8:48 PM,2:08,Foster REBOUND (Off:3 Def:7),,,,
+0020100123,318,2,1,3,8:49 PM,1:54,MISS Miller 22' Jump Shot,,,,
+0020100123,319,4,0,3,8:49 PM,1:52,,,Brandon REBOUND (Off:1 Def:2),,
+0020100123,320,1,47,3,8:49 PM,1:36,,,Trent 5' Turnaround Jump Shot (6 PTS),70 - 74,4
+0020100123,321,6,4,3,8:49 PM,1:21,Tinsley OFF.Foul (P4),,,,
+0020100123,322,5,5,3,8:49 PM,1:21,Tinsley Foul Turnover (P1.T10),,,,
+0020100123,323,8,0,3,8:49 PM,1:21,,,SUB: Lopez FOR Garnett,,
+0020100123,324,5,1,3,8:50 PM,1:03,Foster STEAL (1 STL),,Brandon Bad Pass Turnover (P3.T11),,
+0020100123,325,6,2,3,8:50 PM,0:59,,,Lopez S.FOUL (P1.PN),,
+0020100123,326,3,11,3,8:50 PM,0:59,Miller Free Throw 1 of 2 (13 PTS),,,70 - 75,5
+0020100123,327,3,12,3,8:50 PM,0:59,Miller Free Throw 2 of 2 (14 PTS),,,70 - 76,6
+0020100123,328,1,1,3,8:51 PM,0:38,,,Smith 11' Jump Shot (16 PTS) (Trent 1 AST),72 - 76,4
+0020100123,329,2,1,3,8:52 PM,0:21,MISS Bender 25' 3PT Jump Shot,,,,
+0020100123,330,4,0,3,8:52 PM,0:19,,,Smith REBOUND (Off:1 Def:5),,
+0020100123,331,13,0,3,8:52 PM,0:00,,,,72 - 76,4
+0020100123,333,12,0,4,8:55 PM,12:00,,,,72 - 76,4
+0020100123,334,6,1,4,8:55 PM,11:49,Harrington P.FOUL (P5.T1),,,,
+0020100123,335,8,0,4,8:56 PM,11:49,SUB: Croshere FOR Harrington,,,,
+0020100123,336,6,1,4,8:56 PM,11:39,Croshere P.FOUL (P2.T2),,,,
+0020100123,337,1,1,4,8:56 PM,11:36,,,Brandon 21' Jump Shot (10 PTS),74 - 76,2
+0020100123,338,2,1,4,8:57 PM,11:07,MISS Rose 21' Jump Shot,,,,
+0020100123,339,4,0,4,8:57 PM,11:06,,,Trent REBOUND (Off:0 Def:5),,
+0020100123,340,2,1,4,8:57 PM,10:52,,,MISS Szczerbiak 16' Jump Shot,,
+0020100123,341,4,0,4,8:57 PM,10:50,,,Trent REBOUND (Off:1 Def:5),,
+0020100123,342,1,1,4,8:58 PM,10:47,,,Szczerbiak 11' Jump Shot (15 PTS) (Trent 2 AST),76 - 76,TIE
+0020100123,343,2,1,4,8:58 PM,10:28,MISS Bender 21' Jump Shot,,Trent BLOCK (1 BLK),,
+0020100123,344,4,0,4,8:58 PM,10:26,Rogers REBOUND (Off:1 Def:0),,,,
+0020100123,345,6,11,4,8:58 PM,10:26,Rogers T.FOUL (P0.T2),,,,
+0020100123,346,3,16,4,8:58 PM,10:26,,,Brandon Free Throw Technical (11 PTS),77 - 76,-1
+0020100123,347,6,3,4,8:59 PM,10:26,,,Lopez L.B.FOUL (P2.T1),,
+0020100123,348,8,0,4,8:59 PM,10:26,SUB: Brezec FOR Croshere,,,,
+0020100123,349,8,0,4,8:59 PM,10:26,SUB: Tinsley FOR Miller,,,,
+0020100123,350,1,1,4,8:59 PM,10:16,Tinsley 20' Jump Shot (6 PTS) (Brezec 3 AST),,,77 - 78,1
+0020100123,351,2,1,4,8:59 PM,9:57,Rogers BLOCK (1 BLK),,MISS Smith 3' Jump Shot,,
+0020100123,352,4,0,4,9:00 PM,9:55,Tinsley REBOUND (Off:2 Def:5),,,,
+0020100123,353,5,2,4,9:00 PM,9:43,Bender Lost Ball Turnover (P1.T11),,Lopez STEAL (1 STL),,
+0020100123,354,8,0,4,9:00 PM,9:39,,,SUB: Garnett FOR Smith,,
+0020100123,355,2,5,4,9:00 PM,9:39,Tinsley BLOCK (3 BLK),,MISS Lopez 3' Layup,,
+0020100123,359,4,0,4,9:00 PM,9:39,,,Timberwolves Rebound,,
+0020100123,358,8,0,4,9:00 PM,9:39,SUB: Foster FOR Bender,,,,
+0020100123,360,8,0,4,9:01 PM,9:39,,,SUB: Peeler FOR Szczerbiak,,
+0020100123,361,10,0,4,9:01 PM,9:39,Jump Ball Tinsley vs. Lopez: Tip to Brandon,,,,
+0020100123,362,1,1,4,9:01 PM,9:24,,,Peeler 20' Jump Shot (4 PTS) (Brandon 5 AST),79 - 78,-1
+0020100123,363,5,1,4,9:01 PM,9:07,Rogers Bad Pass Turnover (P1.T12),,Brandon STEAL (2 STL),,
+0020100123,365,7,2,4,9:01 PM,9:04,Rose Violation:Defensive Goaltending,,,,
+0020100123,364,1,59,4,9:01 PM,9:04,,,Brandon 1' Finger Roll (13 PTS),81 - 78,-3
+0020100123,366,1,46,4,9:02 PM,8:52,Tinsley 6' Running Jump Shot (8 PTS),,,81 - 80,-1
+0020100123,367,2,5,4,9:02 PM,8:38,Brezec BLOCK (2 BLK),,MISS Lopez 1' Layup,,
+0020100123,368,4,0,4,9:02 PM,8:35,Rogers REBOUND (Off:1 Def:1),,,,
+0020100123,369,6,1,4,9:02 PM,8:32,,,Brandon P.FOUL (P3.T2),,
+0020100123,370,9,4,4,9:02 PM,8:32,,,,,
+0020100123,372,8,0,4,9:04 PM,8:32,SUB: Miller FOR Brezec,,,,
+0020100123,373,8,0,4,9:04 PM,8:32,,,SUB: Billups FOR Brandon,,
+0020100123,374,2,5,4,9:05 PM,8:20,MISS Foster 2' Layup,,,,
+0020100123,375,4,0,4,9:05 PM,8:16,Rogers REBOUND (Off:2 Def:1),,,,
+0020100123,376,2,1,4,9:05 PM,8:11,MISS Tinsley 25' 3PT Jump Shot,,,,
+0020100123,377,4,0,4,9:05 PM,8:09,,,Timberwolves Rebound,,
+0020100123,378,6,2,4,9:06 PM,7:54,Rogers S.FOUL (P1.T3),,,,
+0020100123,379,3,11,4,9:06 PM,7:54,,,Trent Free Throw 1 of 2 (7 PTS),82 - 80,-2
+0020100123,380,3,12,4,9:06 PM,7:54,,,MISS Trent Free Throw 2 of 2,,
+0020100123,381,4,0,4,9:06 PM,7:53,Tinsley REBOUND (Off:2 Def:6),,,,
+0020100123,382,1,1,4,9:07 PM,7:35,Rose 19' Jump Shot (23 PTS) (Tinsley 10 AST),,,82 - 82,TIE
+0020100123,383,1,42,4,9:07 PM,7:15,,,Trent 2' Driving Layup (9 PTS) (Billups 2 AST),84 - 82,-2
+0020100123,384,2,1,4,9:07 PM,6:52,MISS Miller 25' 3PT Jump Shot,,,,
+0020100123,385,4,0,4,9:07 PM,6:50,,,Garnett REBOUND (Off:2 Def:5),,
+0020100123,386,2,1,4,9:08 PM,6:43,,,MISS Peeler 18' Jump Shot,,
+0020100123,387,4,0,4,9:08 PM,6:41,Foster REBOUND (Off:3 Def:8),,,,
+0020100123,388,2,1,4,9:08 PM,6:32,MISS Rogers 6' Jump Shot,,,,
+0020100123,389,4,0,4,9:08 PM,6:30,,,Trent REBOUND (Off:1 Def:6),,
+0020100123,390,5,1,4,9:08 PM,6:19,Miller STEAL (1 STL),,Garnett Bad Pass Turnover (P3.T12),,
+0020100123,391,6,2,4,9:08 PM,6:15,,,Trent S.FOUL (P4.T3),,
+0020100123,392,8,0,4,9:08 PM,6:15,,,SUB: Smith FOR Trent,,
+0020100123,393,8,0,4,9:08 PM,6:15,,,SUB: Szczerbiak FOR Lopez,,
+0020100123,394,3,11,4,9:08 PM,6:15,Rogers Free Throw 1 of 2 (1 PTS),,,84 - 83,-1
+0020100123,395,3,12,4,9:09 PM,6:15,Rogers Free Throw 2 of 2 (2 PTS),,,84 - 84,TIE
+0020100123,396,1,58,4,9:09 PM,5:55,,,Szczerbiak 6' Turnaround Hook Shot (17 PTS),86 - 84,-2
+0020100123,397,1,8,4,9:09 PM,5:48,Rogers 1' Slam Dunk (4 PTS) (Tinsley 11 AST),,,86 - 86,TIE
+0020100123,398,1,1,4,9:10 PM,5:35,,,Billups 20' Jump Shot (9 PTS) (Garnett 5 AST),88 - 86,-2
+0020100123,399,2,1,4,9:10 PM,5:10,MISS Tinsley 25' 3PT Jump Shot,,,,
+0020100123,400,4,0,4,9:10 PM,5:09,,,Timberwolves Rebound,,
+0020100123,401,6,3,4,9:10 PM,5:09,Foster L.B.FOUL (P4.T4),,,,
+0020100123,402,9,1,4,9:10 PM,5:09,PACERS Timeout: Regular (Full 4 Short 1),,,,
+0020100123,404,8,0,4,9:12 PM,5:09,SUB: Harrington FOR Rogers,,,,
+0020100123,405,2,1,4,9:12 PM,4:54,,,MISS Garnett 11' Jump Shot,,
+0020100123,406,4,0,4,9:13 PM,4:51,,,Smith REBOUND (Off:2 Def:5),,
+0020100123,407,1,1,4,9:13 PM,4:37,,,Szczerbiak 24' 3PT Jump Shot (20 PTS) (Garnett 6 AST),91 - 86,-5
+0020100123,408,2,1,4,9:13 PM,4:12,MISS Foster 14' Jump Shot,,,,
+0020100123,409,4,0,4,9:13 PM,4:10,,,Peeler REBOUND (Off:1 Def:2),,
+0020100123,410,5,1,4,9:13 PM,4:07,Tinsley STEAL (3 STL),,Peeler Bad Pass Turnover (P2.T13),,
+0020100123,411,6,1,4,9:14 PM,4:04,,,Billups P.FOUL (P1.T4),,
+0020100123,412,1,1,4,9:14 PM,3:50,Rose 17' Jump Shot (25 PTS) (Tinsley 12 AST),,,91 - 88,-3
+0020100123,413,5,2,4,9:14 PM,3:36,Tinsley STEAL (4 STL),,Billups Lost Ball Turnover (P1.T14),,
+0020100123,414,1,8,4,9:14 PM,3:29,Rose 1' Slam Dunk (27 PTS) (Tinsley 13 AST),,,91 - 90,-1
+0020100123,415,9,1,4,9:14 PM,3:25,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,
+0020100123,417,8,0,4,9:16 PM,3:25,,,SUB: Brandon FOR Billups,,
+0020100123,418,8,0,4,9:17 PM,3:25,,,SUB: Trent FOR Peeler,,
+0020100123,419,5,2,4,9:17 PM,3:14,,,Garnett Lost Ball Turnover (P4.T15),,
+0020100123,420,2,1,4,9:17 PM,3:01,MISS Foster 3' Jump Shot,,,,
+0020100123,422,4,0,4,9:17 PM,2:59,Harrington REBOUND (Off:1 Def:0),,,,
+0020100123,421,1,8,4,9:17 PM,2:59,Harrington 2' Slam Dunk (22 PTS),,,91 - 92,1
+0020100123,423,1,47,4,9:18 PM,2:34,,,Trent 5' Turnaround Jump Shot (11 PTS) (Brandon 6 AST),93 - 92,-1
+0020100123,424,1,47,4,9:18 PM,2:09,Harrington 11' Turnaround Jump Shot (24 PTS),,,93 - 94,1
+0020100123,425,2,1,4,9:18 PM,1:53,,,MISS Brandon 10' Jump Shot,,
+0020100123,426,4,0,4,9:18 PM,1:51,Foster REBOUND (Off:3 Def:9),,,,
+0020100123,427,1,1,4,9:19 PM,1:35,Miller 26' 3PT Jump Shot (17 PTS) (Tinsley 14 AST),,,93 - 97,4
+0020100123,428,9,1,4,9:19 PM,1:35,,,Timberwolves Timeout: Regular (Reg.5 Short 0),,
+0020100123,432,8,0,4,9:20 PM,1:35,SUB: Rogers FOR Harrington,,,,
+0020100123,433,1,1,4,9:21 PM,1:20,,,Brandon 18' Jump Shot (15 PTS),95 - 97,2
+0020100123,434,9,2,4,9:21 PM,1:20,PACERS Timeout: Short (Full 4 Short 2),,,,
+0020100123,436,8,0,4,9:22 PM,1:20,SUB: Harrington FOR Rogers,,,,
+0020100123,437,6,1,4,9:22 PM,1:03,,,Trent P.FOUL (P5.PN),,
+0020100123,438,3,11,4,9:22 PM,1:03,Harrington Free Throw 1 of 2 (25 PTS),,,95 - 98,3
+0020100123,439,3,12,4,9:23 PM,1:03,MISS Harrington Free Throw 2 of 2,,,,
+0020100123,440,4,0,4,9:23 PM,1:03,,,Trent REBOUND (Off:1 Def:7),,
+0020100123,441,1,1,4,9:23 PM,0:47,,,Smith 19' Jump Shot (18 PTS) (Brandon 7 AST),97 - 98,1
+0020100123,442,5,1,4,9:24 PM,0:29,Miller Bad Pass Turnover (P4.T13),,,,
+0020100123,443,9,2,4,9:24 PM,0:29,,,Timberwolves Timeout: Short (Reg.5 Short 1),,
+0020100123,445,2,1,4,9:25 PM,0:14,,,MISS Garnett 19' Jump Shot,,
+0020100123,446,4,0,4,9:25 PM,0:13,,,Timberwolves Rebound,,
+0020100123,447,6,3,4,9:25 PM,0:13,Harrington L.B.FOUL (P6.PN),,,,
+0020100123,448,8,0,4,9:26 PM,0:13,SUB: Brezec FOR Harrington,,,,
+0020100123,449,8,0,4,9:26 PM,0:13,SUB: Rogers FOR Miller,,,,
+0020100123,450,3,11,4,9:26 PM,0:13,,,MISS Trent Free Throw 1 of 2,,
+0020100123,451,4,1,4,9:26 PM,0:13,,,Timberwolves Rebound,,
+0020100123,452,3,12,4,9:27 PM,0:13,,,Trent Free Throw 2 of 2 (12 PTS),98 - 98,TIE
+0020100123,453,9,1,4,9:27 PM,0:13,PACERS Timeout: Regular (Full 5 Short 2),,,,
+0020100123,455,8,0,4,9:28 PM,0:13,SUB: Miller FOR Rogers,,,,
+0020100123,456,8,0,4,9:29 PM,0:13,,,SUB: Lopez FOR Trent,,
+0020100123,457,2,1,4,9:29 PM,0:00,MISS Tinsley 15' Jump Shot,,,,
+0020100123,458,4,0,4,9:29 PM,0:00,PACERS Rebound,,,,
+0020100123,459,13,0,4,9:29 PM,0:00,,,,98 - 98,TIE
+0020100123,461,12,0,5,9:32 PM,5:00,,,,98 - 98,TIE
+0020100123,462,10,0,5,9:32 PM,5:00,Jump Ball Foster vs. Garnett: Tip to Brandon,,,,
+0020100123,463,2,1,5,9:32 PM,4:48,,,MISS Brandon 5' Jump Shot,,
+0020100123,464,4,0,5,9:32 PM,4:45,,,Trent REBOUND (Off:2 Def:7),,
+0020100123,465,2,5,5,9:32 PM,4:44,Brezec BLOCK (3 BLK),,MISS Trent 2' Layup,,
+0020100123,466,4,0,5,9:32 PM,4:42,,,Trent REBOUND (Off:3 Def:7),,
+0020100123,467,1,5,5,9:32 PM,4:41,,,Trent 2' Layup (14 PTS),100 - 98,-2
+0020100123,468,2,1,5,9:33 PM,4:18,MISS Rose 18' Jump Shot,,Szczerbiak BLOCK (1 BLK),,
+0020100123,469,4,0,5,9:33 PM,4:16,PACERS Rebound,,,,
+0020100123,470,6,2,5,9:33 PM,4:15,,,Brandon S.FOUL (P4.T1),,
+0020100123,471,3,11,5,9:33 PM,4:15,MISS Miller Free Throw 1 of 2,,,,
+0020100123,472,4,1,5,9:33 PM,4:15,PACERS Rebound,,,,
+0020100123,473,3,12,5,9:34 PM,4:15,Miller Free Throw 2 of 2 (18 PTS),,,100 - 99,-1
+0020100123,474,2,1,5,9:34 PM,3:54,Tinsley BLOCK (4 BLK),,MISS Brandon 20' Jump Shot,,
+0020100123,475,4,0,5,9:34 PM,3:53,Rose REBOUND (Off:0 Def:3),,,,
+0020100123,476,6,3,5,9:34 PM,3:53,,,Smith L.B.FOUL (P2.T2),,
+0020100123,477,6,2,5,9:35 PM,3:39,,,Garnett S.FOUL (P4.T3),,
+0020100123,478,3,11,5,9:35 PM,3:39,MISS Brezec Free Throw 1 of 2,,,,
+0020100123,479,4,1,5,9:35 PM,3:39,PACERS Rebound,,,,
+0020100123,480,3,12,5,9:35 PM,3:39,Brezec Free Throw 2 of 2 (3 PTS),,,100 - 100,TIE
+0020100123,481,6,1,5,9:36 PM,3:27,Brezec P.FOUL (P5.T1),,,,
+0020100123,482,6,2,5,9:36 PM,3:15,Rose S.FOUL (P2.T2),,,,
+0020100123,483,3,11,5,9:36 PM,3:15,,,MISS Trent Free Throw 1 of 2,,
+0020100123,484,4,1,5,9:36 PM,3:15,,,Timberwolves Rebound,,
+0020100123,485,3,12,5,9:37 PM,3:15,,,Trent Free Throw 2 of 2 (15 PTS),101 - 100,-1
+0020100123,486,1,1,5,9:37 PM,3:04,Rose 21' Jump Shot (29 PTS),,,101 - 102,1
+0020100123,487,2,1,5,9:38 PM,2:48,Tinsley BLOCK (5 BLK),,MISS Brandon 9' Jump Shot,,
+0020100123,488,4,0,5,9:38 PM,2:47,,,Timberwolves Rebound,,
+0020100123,489,5,2,5,9:38 PM,2:39,Tinsley STEAL (5 STL),,Szczerbiak Lost Ball Turnover (P3.T16),,
+0020100123,490,6,3,5,9:38 PM,2:39,,,Szczerbiak L.B.FOUL (P4.PN),,
+0020100123,492,6,16,5,9:39 PM,2:39,,,,,
+0020100123,493,3,11,5,9:39 PM,2:39,Tinsley Free Throw 1 of 2 (9 PTS),,,101 - 103,2
+0020100123,494,9,1,5,9:39 PM,2:39,,,Timberwolves Timeout: Regular (Reg.6 Short 1),,
+0020100123,497,8,0,5,9:41 PM,2:39,SUB: Rogers FOR Miller,,,,
+0020100123,498,3,12,5,9:41 PM,2:39,Tinsley Free Throw 2 of 2 (10 PTS),,,101 - 104,3
+0020100123,499,5,2,5,9:42 PM,2:24,Tinsley STEAL (6 STL),,Garnett Lost Ball Turnover (P5.T17),,
+0020100123,500,6,3,5,9:42 PM,2:24,,,Garnett L.B.FOUL (P5.PN),,
+0020100123,501,3,11,5,9:42 PM,2:24,Tinsley Free Throw 1 of 2 (11 PTS),,,101 - 105,4
+0020100123,502,3,12,5,9:42 PM,2:24,Tinsley Free Throw 2 of 2 (12 PTS),,,101 - 106,5
+0020100123,503,1,1,5,9:43 PM,2:14,,,Garnett 21' Jump Shot (18 PTS) (Brandon 8 AST),103 - 106,3
+0020100123,504,9,1,5,9:43 PM,2:11,PACERS Timeout: Regular (Full 6 Short 2),,,,
+0020100123,506,8,0,5,9:44 PM,2:11,SUB: Miller FOR Rogers,,,,
+0020100123,507,2,5,5,9:45 PM,2:02,MISS Rose 3' Layup,,,,
+0020100123,508,4,0,5,9:45 PM,2:01,,,Brandon REBOUND (Off:1 Def:3),,
+0020100123,509,1,46,5,9:45 PM,1:54,,,Brandon 6' Running Jump Shot (17 PTS),105 - 106,1
+0020100123,510,1,1,5,9:45 PM,1:39,Miller 24' 3PT Jump Shot (21 PTS) (Tinsley 15 AST),,,105 - 109,4
+0020100123,511,6,2,5,9:45 PM,1:26,Rose S.FOUL (P3.T3),,,,
+0020100123,512,3,11,5,9:46 PM,1:26,,,Szczerbiak Free Throw 1 of 2 (21 PTS),106 - 109,3
+0020100123,513,3,12,5,9:46 PM,1:26,,,Szczerbiak Free Throw 2 of 2 (22 PTS),107 - 109,2
+0020100123,514,2,1,5,9:47 PM,1:09,MISS Tinsley 12' Jump Shot,,,,
+0020100123,515,4,0,5,9:47 PM,1:06,,,Trent REBOUND (Off:3 Def:8),,
+0020100123,516,2,1,5,9:47 PM,0:44,,,MISS Brandon 17' Jump Shot,,
+0020100123,517,4,0,5,9:47 PM,0:42,,,Garnett REBOUND (Off:3 Def:5),,
+0020100123,518,2,1,5,9:47 PM,0:40,,,MISS Garnett 5' Jump Shot,,
+0020100123,519,4,0,5,9:47 PM,0:38,,,Trent REBOUND (Off:4 Def:8),,
+0020100123,520,10,0,5,9:47 PM,0:35,Jump Ball Tinsley vs. Garnett: Tip to Szczerbiak,,,,
+0020100123,521,9,1,5,9:48 PM,0:32,,,Timberwolves Timeout: Regular (Reg.7 Short 1),,
+0020100123,523,8,0,5,9:49 PM,0:32,SUB: Rogers FOR Brezec,,,,
+0020100123,524,2,1,5,9:50 PM,0:17,,,MISS Szczerbiak 24' 3PT Jump Shot,,
+0020100123,525,4,0,5,9:50 PM,0:15,,,Smith REBOUND (Off:3 Def:5),,
+0020100123,526,1,1,5,9:50 PM,0:13,,,Garnett 11' Jump Shot (20 PTS),109 - 109,TIE
+0020100123,527,9,1,5,9:50 PM,0:13,PACERS Timeout: Regular (Full 7 Short 2),,,,
+0020100123,529,8,0,5,9:51 PM,0:13,,,SUB: Lopez FOR Trent,,
+0020100123,530,8,0,5,9:52 PM,0:13,SUB: Brezec FOR Rogers,,,,
+0020100123,531,2,1,5,9:52 PM,0:00,MISS Rose 15' Jump Shot,,,,
+0020100123,532,4,0,5,9:52 PM,0:00,,,Lopez REBOUND (Off:0 Def:1),,
+0020100123,533,13,0,5,9:52 PM,0:00,,,,109 - 109,TIE
+0020100123,535,12,0,6,9:55 PM,5:00,,,,109 - 109,TIE
+0020100123,536,10,0,6,9:55 PM,5:00,Jump Ball Foster vs. Garnett: Tip to Brandon,,,,
+0020100123,537,6,2,6,9:55 PM,4:47,Tinsley S.FOUL (P5.T1),,,,
+0020100123,538,3,11,6,9:55 PM,4:47,,,Brandon Free Throw 1 of 2 (18 PTS),110 - 109,-1
+0020100123,539,8,0,6,9:56 PM,4:47,SUB: Bender FOR Tinsley,,,,
+0020100123,540,3,12,6,9:56 PM,4:47,,,Brandon Free Throw 2 of 2 (19 PTS),111 - 109,-2
+0020100123,541,2,1,6,9:56 PM,4:31,MISS Rose 14' Jump Shot,,Smith BLOCK (1 BLK),,
+0020100123,542,4,0,6,9:56 PM,4:30,,,Timberwolves Rebound,,
+0020100123,543,6,3,6,9:56 PM,4:30,Rose L.B.FOUL (P4.T2),,,,
+0020100123,544,2,1,6,9:57 PM,4:16,,,MISS Smith 17' Jump Shot,,
+0020100123,545,4,0,6,9:57 PM,4:13,Foster REBOUND (Off:3 Def:10),,,,
+0020100123,546,2,1,6,9:57 PM,3:55,MISS Miller 24' 3PT Jump Shot,,,,
+0020100123,547,4,0,6,9:57 PM,3:53,Brezec REBOUND (Off:3 Def:0),,,,
+0020100123,548,2,1,6,9:57 PM,3:51,MISS Bender 18' Jump Shot,,,,
+0020100123,549,4,0,6,9:57 PM,3:49,,,Garnett REBOUND (Off:3 Def:6),,
+0020100123,550,2,1,6,9:57 PM,3:32,,,MISS Brandon 19' Jump Shot,,
+0020100123,551,4,0,6,9:58 PM,3:31,Foster REBOUND (Off:3 Def:11),,,,
+0020100123,552,5,1,6,9:58 PM,3:25,Rose Bad Pass Turnover (P2.T14),,Lopez STEAL (2 STL),,
+0020100123,553,1,59,6,9:58 PM,3:19,,,Garnett 2' Finger Roll (22 PTS) (Lopez 1 AST),113 - 109,-4
+0020100123,554,9,1,6,9:58 PM,3:16,PACERS Timeout: Regular (Full 8 Short 2),,,,
+0020100123,556,8,0,6,9:59 PM,3:16,SUB: Tinsley FOR Bender,,,,
+0020100123,557,2,5,6,10:00 PM,3:01,MISS Rose 3' Layup,,,,
+0020100123,558,4,0,6,10:00 PM,2:59,,,Garnett REBOUND (Off:3 Def:7),,
+0020100123,559,1,42,6,10:00 PM,2:34,,,Lopez 2' Driving Layup (2 PTS),115 - 109,-6
+0020100123,560,2,1,6,10:00 PM,2:15,MISS Tinsley 5' Jump Shot,,,,
+0020100123,561,4,0,6,10:00 PM,2:14,PACERS Rebound,,,,
+0020100123,562,6,2,6,10:01 PM,2:06,,,Lopez S.FOUL (P3.T1),,
+0020100123,563,3,11,6,10:01 PM,2:06,Miller Free Throw 1 of 2 (22 PTS),,,115 - 110,-5
+0020100123,564,3,12,6,10:01 PM,2:06,Miller Free Throw 2 of 2 (23 PTS),,,115 - 111,-4
+0020100123,565,6,4,6,10:02 PM,1:54,,,Smith OFF.Foul (P3),,
+0020100123,566,5,5,6,10:02 PM,1:54,,,Smith Foul Turnover (P3.T18),,
+0020100123,567,2,1,6,10:02 PM,1:38,MISS Miller 20' Jump Shot,,,,
+0020100123,568,4,0,6,10:02 PM,1:36,,,Brandon REBOUND (Off:1 Def:4),,
+0020100123,569,1,1,6,10:03 PM,1:17,,,Garnett 17' Jump Shot (24 PTS),117 - 111,-6
+0020100123,570,2,1,6,10:03 PM,1:03,MISS Tinsley 12' Jump Shot,,,,
+0020100123,571,4,0,6,10:03 PM,0:59,Tinsley REBOUND (Off:3 Def:6),,,,
+0020100123,572,9,1,6,10:03 PM,0:59,PACERS Timeout: Regular (Full 9 Short 2),,,,
+0020100123,574,8,0,6,10:05 PM,0:59,SUB: Bender FOR Brezec,,,,
+0020100123,575,2,1,6,10:05 PM,0:51,MISS Bender 24' 3PT Jump Shot,,,,
+0020100123,576,4,0,6,10:05 PM,0:49,,,Szczerbiak REBOUND (Off:1 Def:5),,
+0020100123,577,6,1,6,10:05 PM,0:46,Rose P.FOUL (P5.T3),,,,
+0020100123,578,6,1,6,10:06 PM,0:34,Tinsley P.FOUL (P6.PN),,,,
+0020100123,579,8,0,6,10:06 PM,0:34,SUB: Brezec FOR Tinsley,,,,
+0020100123,580,3,11,6,10:06 PM,0:34,,,Brandon Free Throw 1 of 2 (20 PTS),118 - 111,-7
+0020100123,581,3,12,6,10:07 PM,0:34,,,Brandon Free Throw 2 of 2 (21 PTS),119 - 111,-8
+0020100123,582,2,1,6,10:07 PM,0:23,MISS Bender 19' Jump Shot,,,,
+0020100123,583,4,0,6,10:07 PM,0:20,,,Smith REBOUND (Off:3 Def:6),,
+0020100123,584,6,1,6,10:07 PM,0:18,Bender P.FOUL (P2.PN),,,,
+0020100123,585,3,11,6,10:08 PM,0:18,,,MISS Brandon Free Throw 1 of 2,,
+0020100123,586,4,1,6,10:08 PM,0:18,,,Timberwolves Rebound,,
+0020100123,587,3,12,6,10:08 PM,0:18,,,Brandon Free Throw 2 of 2 (22 PTS),120 - 111,-9
+0020100123,588,1,59,6,10:08 PM,0:10,Rose 3' Finger Roll (31 PTS),,,120 - 113,-7
+0020100123,589,13,0,6,10:09 PM,0:00,,,,120 - 113,-7

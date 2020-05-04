@@ -1,0 +1,390 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000303,0,12,0,1,2:10 PM,12:00,,,,,
+0020000303,1,10,0,1,2:13 PM,12:00,Jump Ball Massenburg vs. Olajuwon: Tip to Dickerson,,,,
+0020000303,2,1,1,1,2:13 PM,11:41,Abdur-Rahim 17' Jump Shot (2 PTS) (Bibby 1 AST),,,0 - 2,2
+0020000303,3,2,1,1,2:13 PM,11:23,,,MISS Anderson  3PT Jump Shot,,
+0020000303,4,4,0,1,2:13 PM,11:21,Abdur-Rahim REBOUND (Off:0 Def:1),,,,
+0020000303,5,1,1,1,2:13 PM,11:17,Bibby 16' Jump Shot (2 PTS),,,0 - 4,4
+0020000303,6,2,1,1,2:14 PM,10:59,,,MISS Olajuwon 14' Jump Shot,,
+0020000303,7,4,0,1,2:14 PM,10:56,Dickerson REBOUND (Off:0 Def:1),,,,
+0020000303,8,2,1,1,2:14 PM,10:51,MISS Dickerson 26' 3PT Jump Shot,,,,
+0020000303,9,4,0,1,2:14 PM,10:50,,,Olajuwon REBOUND (Off:0 Def:1),,
+0020000303,10,5,1,1,2:14 PM,10:39,,,Anderson Bad Pass Turnover (P1.T1),,
+0020000303,11,2,1,1,2:15 PM,10:21,MISS Harrington 14' Jump Shot,,,,
+0020000303,12,4,0,1,2:15 PM,10:20,,,Williams REBOUND (Off:0 Def:1),,
+0020000303,13,2,1,1,2:15 PM,10:02,Massenburg BLOCK (1 BLK),,MISS Taylor 14' Jump Shot,,
+0020000303,14,4,0,1,2:15 PM,9:57,Dickerson REBOUND (Off:0 Def:2),,,,
+0020000303,15,1,47,1,2:15 PM,9:50,Massenburg 12' Turnaround Jump Shot (2 PTS) (Dickerson 1 AST),,,0 - 6,6
+0020000303,16,9,1,1,2:15 PM,9:48,,,Rockets Timeout: Regular (Reg.1 Short 0),,
+0020000303,18,2,1,1,2:18 PM,9:33,,,MISS Taylor 12' Jump Shot,,
+0020000303,19,4,0,1,2:18 PM,9:31,Harrington REBOUND (Off:0 Def:1),,,,
+0020000303,20,9,2,1,2:18 PM,9:24,GRIZZLIES Timeout: Short (Full 0 Short 1),,,,
+0020000303,21,8,0,1,2:19 PM,9:24,SUB: Jones FOR Dickerson,,,,
+0020000303,22,1,1,1,2:19 PM,9:12,Bibby  3PT Jump Shot (5 PTS) (Jones 1 AST),,,0 - 9,9
+0020000303,23,1,1,1,2:19 PM,8:50,,,Olajuwon 10' Jump Shot (2 PTS),2 - 9,7
+0020000303,24,1,1,1,2:20 PM,8:28,Abdur-Rahim 22' Jump Shot (4 PTS) (Bibby 2 AST),,,2 - 11,9
+0020000303,25,1,1,1,2:20 PM,8:13,,,Francis 17' Jump Shot (2 PTS) (Olajuwon 1 AST),4 - 11,7
+0020000303,26,5,2,1,2:20 PM,8:01,Massenburg Lost Ball Turnover (P1.T1),,Francis STEAL (1 STL),,
+0020000303,27,6,2,1,2:20 PM,7:56,Harrington S.FOUL (P1.T1),,,,
+0020000303,28,3,11,1,2:20 PM,7:56,,,MISS Anderson Free Throw 1 of 2,,
+0020000303,29,4,1,1,2:20 PM,7:56,,,Rockets Rebound,,
+0020000303,30,3,12,1,2:21 PM,7:56,,,Anderson Free Throw 2 of 2 (1 PTS),5 - 11,6
+0020000303,31,2,1,1,2:21 PM,7:41,MISS Bibby 18' Jump Shot,,,,
+0020000303,32,4,0,1,2:21 PM,7:40,,,Anderson REBOUND (Off:0 Def:1),,
+0020000303,33,5,2,1,2:21 PM,7:31,Abdur-Rahim STEAL (1 STL),,Williams Lost Ball Turnover (P1.T2),,
+0020000303,34,2,1,1,2:21 PM,7:27,MISS Bibby 4' Jump Shot,,,,
+0020000303,35,4,0,1,2:21 PM,7:25,Abdur-Rahim REBOUND (Off:1 Def:1),,,,
+0020000303,36,2,5,1,2:21 PM,7:24,MISS Abdur-Rahim 2' Layup,,Anderson BLOCK (1 BLK),,
+0020000303,37,4,0,1,2:21 PM,7:21,,,Francis REBOUND (Off:0 Def:1),,
+0020000303,38,2,1,1,2:21 PM,7:18,,,MISS Williams 25' 3PT Jump Shot,,
+0020000303,39,4,0,1,2:22 PM,7:16,Jones REBOUND (Off:0 Def:1),,,,
+0020000303,40,6,2,1,2:22 PM,7:12,,,Williams S.FOUL (P1.T1),,
+0020000303,41,3,11,1,2:22 PM,7:12,Abdur-Rahim Free Throw 1 of 2 (5 PTS),,,5 - 12,7
+0020000303,42,3,12,1,2:22 PM,7:12,Abdur-Rahim Free Throw 2 of 2 (6 PTS),,,5 - 13,8
+0020000303,43,6,2,1,2:23 PM,7:00,Massenburg S.FOUL (P1.T2),,,,
+0020000303,44,3,11,1,2:23 PM,7:00,,,Williams Free Throw 1 of 2 (1 PTS),6 - 13,7
+0020000303,45,3,12,1,2:23 PM,7:00,,,Williams Free Throw 2 of 2 (2 PTS),7 - 13,6
+0020000303,46,1,3,1,2:24 PM,6:42,Abdur-Rahim 7' Hook Shot (8 PTS),,,7 - 15,8
+0020000303,47,2,1,1,2:24 PM,6:24,,,MISS Olajuwon 12' Jump Shot,,
+0020000303,48,4,0,1,2:24 PM,6:21,,,Taylor REBOUND (Off:1 Def:0),,
+0020000303,49,2,1,1,2:24 PM,6:16,,,MISS Williams 27' 3PT Jump Shot,,
+0020000303,50,4,0,1,2:24 PM,6:14,,,Anderson REBOUND (Off:1 Def:1),,
+0020000303,51,2,1,1,2:24 PM,6:11,,,MISS Francis 14' Jump Shot,,
+0020000303,52,4,0,1,2:24 PM,6:08,Harrington REBOUND (Off:0 Def:2),,,,
+0020000303,53,6,1,1,2:24 PM,5:56,,,Taylor P.FOUL (P1.T2),,
+0020000303,54,1,1,1,2:25 PM,5:41,Abdur-Rahim 20' Jump Shot (10 PTS) (Harrington 1 AST),,,7 - 17,10
+0020000303,55,2,1,1,2:25 PM,5:24,,,MISS Taylor 9' Jump Shot,,
+0020000303,56,4,0,1,2:25 PM,5:23,GRIZZLIES Rebound,,,,
+0020000303,57,2,1,1,2:26 PM,4:59,MISS Jones 16' Jump Shot,,,,
+0020000303,58,4,0,1,2:26 PM,4:57,,,Olajuwon REBOUND (Off:0 Def:2),,
+0020000303,59,1,1,1,2:26 PM,4:49,,,Anderson 9' Jump Shot (3 PTS) (Francis 1 AST),9 - 17,8
+0020000303,60,9,1,1,2:26 PM,4:41,GRIZZLIES Timeout: Regular (Full 1 Short 1),,,,
+0020000303,62,2,1,1,2:29 PM,4:23,MISS Jones 24' 3PT Jump Shot,,,,
+0020000303,63,4,0,1,2:29 PM,4:21,,,Olajuwon REBOUND (Off:0 Def:3),,
+0020000303,64,1,1,1,2:29 PM,4:18,,,Francis 20' Jump Shot (4 PTS),11 - 17,6
+0020000303,65,2,1,1,2:29 PM,3:48,MISS Abdur-Rahim 13' Jump Shot,,,,
+0020000303,66,4,0,1,2:29 PM,3:46,,,Olajuwon REBOUND (Off:0 Def:4),,
+0020000303,67,2,1,1,2:30 PM,3:27,,,MISS Taylor 8' Jump Shot,,
+0020000303,68,4,0,1,2:30 PM,3:27,,,Rockets Rebound,,
+0020000303,69,8,0,1,2:30 PM,3:27,SUB: Reeves FOR Massenburg,,,,
+0020000303,70,2,1,1,2:31 PM,3:21,,,MISS Francis 18' Jump Shot,,
+0020000303,71,4,0,1,2:31 PM,3:20,GRIZZLIES Rebound,,,,
+0020000303,72,2,1,1,2:31 PM,3:09,MISS Bibby 18' Jump Shot,,,,
+0020000303,73,4,0,1,2:31 PM,3:07,,,Anderson REBOUND (Off:1 Def:2),,
+0020000303,74,1,1,1,2:31 PM,2:59,,,Olajuwon 5' Jump Shot (4 PTS) (Francis 2 AST),13 - 17,4
+0020000303,75,6,1,1,2:31 PM,2:46,,,Williams P.FOUL (P2.T3),,
+0020000303,76,8,0,1,2:32 PM,2:46,,,SUB: Mobley FOR Williams,,
+0020000303,77,5,2,1,2:32 PM,2:37,Abdur-Rahim Lost Ball Turnover (P1.T2),,Anderson STEAL (1 STL),,
+0020000303,78,1,1,1,2:32 PM,2:23,,,Olajuwon 4' Jump Shot (6 PTS) (Anderson 1 AST),15 - 17,2
+0020000303,79,9,1,1,2:32 PM,2:21,GRIZZLIES Timeout: Regular (Full 2 Short 1),,,,
+0020000303,81,8,0,1,2:34 PM,2:21,SUB: Swift FOR Harrington,,,,
+0020000303,82,5,1,1,2:34 PM,2:05,Abdur-Rahim Bad Pass Turnover (P2.T3),,,,
+0020000303,83,5,2,1,2:35 PM,1:52,Swift STEAL (1 STL),,Taylor Lost Ball Turnover (P1.T3),,
+0020000303,84,2,1,1,2:35 PM,1:38,MISS Swift 4' Jump Shot,,Olajuwon BLOCK (1 BLK),,
+0020000303,86,4,0,1,2:35 PM,1:31,Swift REBOUND (Off:1 Def:0),,,,
+0020000303,85,2,5,1,2:35 PM,1:31,MISS Swift 3' Layup,,Olajuwon BLOCK (2 BLK),,
+0020000303,87,4,0,1,2:35 PM,1:30,,,Taylor REBOUND (Off:1 Def:1),,
+0020000303,88,6,4,1,2:35 PM,1:30,,,Taylor OFF.Foul (P2),,
+0020000303,89,5,5,1,2:35 PM,1:30,,,Taylor Foul Turnover (P2.T4),,
+0020000303,90,2,3,1,2:36 PM,1:12,MISS Swift 7' Hook Shot,,,,
+0020000303,91,4,0,1,2:36 PM,1:08,,,Olajuwon REBOUND (Off:0 Def:5),,
+0020000303,92,2,5,1,2:36 PM,1:01,,,MISS Francis 2' Layup,,
+0020000303,93,4,0,1,2:36 PM,0:58,Reeves REBOUND (Off:0 Def:1),,,,
+0020000303,94,1,1,1,2:36 PM,0:54,Bibby 24' 3PT Jump Shot (8 PTS) (Jones 2 AST),,,15 - 20,5
+0020000303,95,2,1,1,2:36 PM,0:30,,,MISS Taylor 8' Jump Shot,,
+0020000303,96,4,0,1,2:36 PM,0:28,Reeves REBOUND (Off:0 Def:2),,,,
+0020000303,97,2,1,1,2:37 PM,0:20,MISS Jones 24' 3PT Jump Shot,,,,
+0020000303,98,4,0,1,2:37 PM,0:19,,,Rockets Rebound,,
+0020000303,99,8,0,1,2:37 PM,0:19,,,SUB: Thomas FOR Taylor,,
+0020000303,100,2,1,1,2:37 PM,0:00,,,MISS Thomas 21' Jump Shot,,
+0020000303,101,4,0,1,2:37 PM,0:00,,,Olajuwon REBOUND (Off:1 Def:5),,
+0020000303,102,13,0,1,2:37 PM,0:00,,,,15 - 20,5
+0020000303,104,12,0,2,2:40 PM,12:00,,,,15 - 20,5
+0020000303,105,2,1,2,2:41 PM,11:38,,,MISS Thomas 27' 3PT Jump Shot,,
+0020000303,106,4,0,2,2:41 PM,11:37,GRIZZLIES Rebound,,,,
+0020000303,107,5,4,2,2:41 PM,11:20,Swift Traveling Turnover (P1.T4),,,,
+0020000303,108,1,1,2,2:42 PM,11:00,,,Francis 27' 3PT Jump Shot (7 PTS),18 - 20,2
+0020000303,109,2,1,2,2:42 PM,10:45,MISS Abdur-Rahim 13' Jump Shot,,,,
+0020000303,110,4,0,2,2:42 PM,10:42,,,Thomas REBOUND (Off:0 Def:1),,
+0020000303,111,5,3,2,2:42 PM,10:37,,,Mobley Out Of Bounds Turnover (P1.T5),,
+0020000303,113,2,1,2,2:42 PM,10:23,MISS Reeves 7' Jump Shot,,,,
+0020000303,114,4,0,2,2:42 PM,10:20,,,Thomas REBOUND (Off:0 Def:2),,
+0020000303,115,5,1,2,2:43 PM,10:13,,,Mobley Bad Pass Turnover (P2.T6),,
+0020000303,116,2,1,2,2:43 PM,9:53,MISS Reeves 18' Jump Shot,,,,
+0020000303,117,4,0,2,2:43 PM,9:51,,,Thomas REBOUND (Off:0 Def:3),,
+0020000303,118,1,1,2,2:43 PM,9:39,,,Bullard  3PT Jump Shot (3 PTS) (Francis 3 AST),21 - 20,-1
+0020000303,119,2,1,2,2:44 PM,9:15,MISS Jones  3PT Jump Shot,,,,
+0020000303,120,4,0,2,2:44 PM,9:14,,,Rockets Rebound,,
+0020000303,121,8,0,2,2:44 PM,9:14,,,SUB: Norris FOR Anderson,,
+0020000303,122,2,1,2,2:44 PM,8:52,,,MISS Bullard 26' 3PT Jump Shot,,
+0020000303,123,4,0,2,2:44 PM,8:50,Swift REBOUND (Off:1 Def:1),,,,
+0020000303,124,2,1,2,2:45 PM,8:35,MISS Swift 17' Jump Shot,,,,
+0020000303,125,4,0,2,2:45 PM,8:34,Long REBOUND (Off:1 Def:0),,,,
+0020000303,126,1,5,2,2:45 PM,8:24,Abdur-Rahim 3' Layup (12 PTS),,,21 - 22,1
+0020000303,127,9,1,2,2:45 PM,8:16,,,Rockets Timeout: Regular (Reg.2 Short 0),,
+0020000303,129,8,0,2,2:47 PM,8:16,,,SUB: Williams FOR Francis,,
+0020000303,130,8,0,2,2:47 PM,8:16,SUB: Bibby FOR Abdur-Rahim,,,,
+0020000303,131,1,46,2,2:48 PM,8:07,,,Mobley 4' Running Jump Shot (2 PTS) (Norris 1 AST),23 - 22,-1
+0020000303,132,2,1,2,2:48 PM,7:51,MISS Reeves 13' Jump Shot,,,,
+0020000303,133,4,0,2,2:48 PM,7:48,,,Bullard REBOUND (Off:0 Def:1),,
+0020000303,134,2,1,2,2:48 PM,7:37,,,MISS Williams 24' 3PT Jump Shot,,
+0020000303,135,4,0,2,2:48 PM,7:35,,,Thomas REBOUND (Off:1 Def:3),,
+0020000303,136,2,1,2,2:48 PM,7:32,,,MISS Williams 17' Jump Shot,,
+0020000303,137,4,0,2,2:48 PM,7:30,Reeves REBOUND (Off:0 Def:3),,,,
+0020000303,138,2,1,2,2:48 PM,7:10,MISS Swift 7' Jump Shot,,Bullard BLOCK (1 BLK),,
+0020000303,139,4,0,2,2:48 PM,7:07,,,Thomas REBOUND (Off:1 Def:4),,
+0020000303,140,5,1,2,2:49 PM,7:03,,,Norris Bad Pass Turnover (P1.T7),,
+0020000303,141,2,1,2,2:49 PM,6:48,MISS Swift 10' Jump Shot,,,,
+0020000303,142,4,0,2,2:49 PM,6:47,,,Norris REBOUND (Off:0 Def:1),,
+0020000303,143,2,1,2,2:49 PM,6:41,,,MISS Williams 6' Jump Shot,,
+0020000303,144,4,0,2,2:49 PM,6:39,Swift REBOUND (Off:1 Def:2),,,,
+0020000303,145,1,1,2,2:49 PM,6:30,Swift 5' Jump Shot (2 PTS) (Bibby 3 AST),,,23 - 24,1
+0020000303,146,1,5,2,2:50 PM,6:10,,,Thomas 3' Layup (2 PTS),25 - 24,-1
+0020000303,147,5,8,2,2:50 PM,5:51,Reeves 3 Second Violation Turnover (P1.T5),,,,
+0020000303,148,9,4,2,2:50 PM,5:51,,,,,
+0020000303,150,8,0,2,2:52 PM,5:51,SUB: Harrington FOR Swift,,,,
+0020000303,152,2,1,2,2:52 PM,5:39,,,MISS Mobley 25' 3PT Jump Shot,,
+0020000303,153,4,0,2,2:52 PM,5:38,,,Rockets Rebound,,
+0020000303,154,5,7,2,2:53 PM,5:33,,,Norris Discontinue Dribble Turnover (P2.T8),,
+0020000303,155,2,1,2,2:53 PM,5:13,MISS Bibby 26' 3PT Jump Shot,,,,
+0020000303,156,4,0,2,2:53 PM,5:11,,,Mobley REBOUND (Off:0 Def:1),,
+0020000303,157,1,1,2,2:53 PM,4:59,,,Williams 18' Jump Shot (4 PTS),27 - 24,-3
+0020000303,158,1,1,2,2:54 PM,4:43,Jones 15' Jump Shot (2 PTS) (Bibby 4 AST),,,27 - 26,-1
+0020000303,159,1,1,2,2:54 PM,4:27,,,Thomas 3' Jump Shot (4 PTS),29 - 26,-3
+0020000303,160,2,1,2,2:54 PM,4:09,MISS Reeves 17' Jump Shot,,,,
+0020000303,161,4,0,2,2:54 PM,4:07,,,Williams REBOUND (Off:0 Def:2),,
+0020000303,162,2,1,2,2:54 PM,4:01,,,MISS Williams 16' Jump Shot,,
+0020000303,164,4,0,2,2:54 PM,3:59,,,Mobley REBOUND (Off:1 Def:1),,
+0020000303,163,1,5,2,2:54 PM,3:59,,,Mobley 1' Layup (4 PTS),31 - 26,-5
+0020000303,165,1,3,2,2:55 PM,3:38,Harrington 6' Hook Shot (2 PTS),,,31 - 28,-3
+0020000303,166,1,1,2,2:55 PM,3:17,,,Williams 15' Jump Shot (6 PTS) (Norris 2 AST),33 - 28,-5
+0020000303,167,1,1,2,2:55 PM,3:03,Long 20' Jump Shot (2 PTS) (Bibby 5 AST),,,33 - 30,-3
+0020000303,168,6,2,2,2:56 PM,2:42,Bibby S.FOUL (P1.T1),,,,
+0020000303,169,9,1,2,2:56 PM,2:42,GRIZZLIES Timeout: Regular (Full 3 Short 1),,,,
+0020000303,172,8,0,2,2:58 PM,2:42,SUB: Abdur-Rahim FOR Reeves,,,,
+0020000303,173,3,11,2,2:58 PM,2:42,,,MISS Norris Free Throw 1 of 2,,
+0020000303,174,4,1,2,2:58 PM,2:42,,,Rockets Rebound,,
+0020000303,175,3,12,2,2:58 PM,2:42,,,Norris Free Throw 2 of 2 (1 PTS),34 - 30,-4
+0020000303,176,5,8,2,2:59 PM,2:25,Abdur-Rahim 3 Second Violation Turnover (P3.T6),,,,
+0020000303,177,6,2,2,2:59 PM,2:10,Long S.FOUL (P1.T2),,,,
+0020000303,178,3,11,2,3:00 PM,2:10,,,MISS Thomas Free Throw 1 of 2,,
+0020000303,179,4,1,2,3:00 PM,2:10,,,Rockets Rebound,,
+0020000303,180,3,12,2,3:00 PM,2:10,,,Thomas Free Throw 2 of 2 (5 PTS),35 - 30,-5
+0020000303,181,1,3,2,3:00 PM,1:57,Abdur-Rahim 7' Hook Shot (14 PTS),,,35 - 32,-3
+0020000303,182,2,1,2,3:01 PM,1:34,,,MISS Williams 24' 3PT Jump Shot,,
+0020000303,183,4,0,2,3:01 PM,1:32,Harrington REBOUND (Off:0 Def:3),,,,
+0020000303,184,5,2,2,3:01 PM,1:18,Harrington Lost Ball Turnover (P1.T7),,Norris STEAL (1 STL),,
+0020000303,185,1,5,2,3:01 PM,1:14,,,Norris 3' Layup (3 PTS),37 - 32,-5
+0020000303,186,1,1,2,3:01 PM,0:58,Bibby 20' Jump Shot (10 PTS),,,37 - 34,-3
+0020000303,187,9,2,2,3:01 PM,0:57,,,Rockets Timeout: Short (Reg.2 Short 1),,
+0020000303,189,1,5,2,3:03 PM,0:33,,,Norris 3' Layup (5 PTS),39 - 34,-5
+0020000303,190,2,1,2,3:03 PM,0:23,MISS Bibby  3PT Jump Shot,,,,
+0020000303,191,4,0,2,3:03 PM,0:21,,,Mobley REBOUND (Off:1 Def:2),,
+0020000303,192,2,1,2,3:03 PM,0:00,,,MISS Bullard 24' 3PT Jump Shot,,
+0020000303,193,4,0,2,3:03 PM,0:00,Jones REBOUND (Off:0 Def:2),,,,
+0020000303,194,13,0,2,3:03 PM,0:00,,,,39 - 34,-5
+0020000303,196,12,0,3,3:19 PM,12:00,,,,39 - 34,-5
+0020000303,197,1,1,3,3:20 PM,11:42,,,Olajuwon 15' Jump Shot (8 PTS) (Anderson 2 AST),41 - 34,-7
+0020000303,198,1,1,3,3:20 PM,11:22,Bibby 15' Jump Shot (12 PTS) (Jones 3 AST),,,41 - 36,-5
+0020000303,199,2,1,3,3:21 PM,11:05,,,MISS Olajuwon 7' Jump Shot,,
+0020000303,200,4,0,3,3:21 PM,11:04,Massenburg REBOUND (Off:0 Def:1),,,,
+0020000303,201,6,1,3,3:21 PM,11:04,,,Francis P.FOUL (P1.T1),,
+0020000303,202,1,1,3,3:21 PM,10:48,Abdur-Rahim 7' Jump Shot (16 PTS),,,41 - 38,-3
+0020000303,203,2,1,3,3:22 PM,10:29,,,MISS Taylor 6' Jump Shot,,
+0020000303,204,4,0,3,3:22 PM,10:27,Massenburg REBOUND (Off:0 Def:2),,,,
+0020000303,205,1,5,3,3:22 PM,10:22,Abdur-Rahim 3' Layup (18 PTS) (Bibby 6 AST),,,41 - 40,-1
+0020000303,206,6,2,3,3:22 PM,10:22,,,Olajuwon S.FOUL (P1.T2),,
+0020000303,207,3,10,3,3:22 PM,10:22,Abdur-Rahim Free Throw 1 of 1 (19 PTS),,,41 - 41,TIE
+0020000303,208,2,1,3,3:22 PM,10:08,Abdur-Rahim BLOCK (1 BLK),,MISS Anderson 26' 3PT Jump Shot,,
+0020000303,209,4,0,3,3:22 PM,10:04,,,Taylor REBOUND (Off:2 Def:1),,
+0020000303,210,5,2,3,3:23 PM,10:01,Bibby STEAL (1 STL),,Anderson Lost Ball Turnover (P2.T9),,
+0020000303,211,6,2,3,3:23 PM,9:53,,,Anderson S.FOUL (P1.T3),,
+0020000303,212,3,11,3,3:23 PM,9:53,Massenburg Free Throw 1 of 2 (3 PTS),,,41 - 42,1
+0020000303,213,3,12,3,3:23 PM,9:53,MISS Massenburg Free Throw 2 of 2,,,,
+0020000303,214,4,0,3,3:23 PM,9:53,,,Anderson REBOUND (Off:1 Def:3),,
+0020000303,215,5,8,3,3:23 PM,9:41,,,Olajuwon 3 Second Violation Turnover (P1.T10),,
+0020000303,216,2,1,3,3:24 PM,9:24,MISS Harrington 6' Jump Shot,,,,
+0020000303,217,4,0,3,3:24 PM,9:24,Harrington REBOUND (Off:1 Def:3),,,,
+0020000303,218,6,2,3,3:24 PM,9:24,,,Anderson S.FOUL (P2.T4),,
+0020000303,219,3,11,3,3:24 PM,9:24,Harrington Free Throw 1 of 2 (3 PTS),,,41 - 43,2
+0020000303,220,3,12,3,3:24 PM,9:24,Harrington Free Throw 2 of 2 (4 PTS),,,41 - 44,3
+0020000303,221,1,1,3,3:25 PM,9:01,,,Olajuwon 17' Jump Shot (10 PTS) (Mobley 1 AST),43 - 44,1
+0020000303,222,5,11,3,3:26 PM,8:33,GRIZZLIES Turnover: Shot Clock (T#8),,,,
+0020000303,223,2,1,3,3:26 PM,8:15,,,MISS Olajuwon 18' Jump Shot,,
+0020000303,224,4,0,3,3:26 PM,8:13,Harrington REBOUND (Off:1 Def:4),,,,
+0020000303,225,2,1,3,3:27 PM,8:04,MISS Harrington 6' Jump Shot,,Olajuwon BLOCK (3 BLK),,
+0020000303,226,10,0,3,3:27 PM,8:04,Jump Ball Harrington vs. Olajuwon: Tip to Anderson,,,,
+0020000303,227,4,0,3,3:27 PM,8:04,,,Rockets Rebound,,
+0020000303,228,2,1,3,3:27 PM,7:44,,,MISS Anderson 27' 3PT Jump Shot,,
+0020000303,229,4,0,3,3:27 PM,7:43,Jones REBOUND (Off:0 Def:3),,,,
+0020000303,230,1,1,3,3:28 PM,7:31,Abdur-Rahim 7' Jump Shot (21 PTS),,,43 - 46,3
+0020000303,231,9,1,3,3:28 PM,7:27,,,Rockets Timeout: Regular (Reg.3 Short 1),,
+0020000303,234,6,1,3,3:30 PM,7:18,Harrington P.FOUL (P2.T1),,,,
+0020000303,235,2,1,3,3:31 PM,7:12,,,MISS Olajuwon 8' Jump Shot,,
+0020000303,236,4,0,3,3:31 PM,7:09,Massenburg REBOUND (Off:0 Def:3),,,,
+0020000303,237,2,1,3,3:31 PM,7:00,MISS Massenburg 16' Jump Shot,,,,
+0020000303,238,4,0,3,3:31 PM,6:58,,,Olajuwon REBOUND (Off:1 Def:6),,
+0020000303,239,1,1,3,3:31 PM,6:46,,,Francis 15' Jump Shot (9 PTS),45 - 46,1
+0020000303,240,2,1,3,3:31 PM,6:23,MISS Abdur-Rahim 8' Jump Shot,,,,
+0020000303,241,4,0,3,3:31 PM,6:21,,,Anderson REBOUND (Off:1 Def:4),,
+0020000303,242,9,2,3,3:32 PM,6:11,,,Rockets Timeout: Short (Reg.3 Short 2),,
+0020000303,244,2,1,3,3:33 PM,6:01,,,MISS Francis 17' Jump Shot,,
+0020000303,245,4,0,3,3:33 PM,5:58,Harrington REBOUND (Off:1 Def:5),,,,
+0020000303,246,2,1,3,3:33 PM,5:35,MISS Abdur-Rahim  3PT Jump Shot,,,,
+0020000303,247,4,0,3,3:33 PM,5:34,,,Mobley REBOUND (Off:1 Def:3),,
+0020000303,248,1,1,3,3:33 PM,5:29,,,Mobley 23' Jump Shot (6 PTS),47 - 46,-1
+0020000303,249,2,5,3,3:34 PM,5:06,MISS Jones 2' Layup,,,,
+0020000303,250,4,0,3,3:34 PM,5:05,,,Taylor REBOUND (Off:2 Def:2),,
+0020000303,251,1,5,3,3:34 PM,5:03,,,Francis 2' Layup (11 PTS) (Mobley 2 AST),49 - 46,-3
+0020000303,252,9,1,3,3:34 PM,4:55,GRIZZLIES Timeout: Regular (Full 4 Short 1),,,,
+0020000303,255,2,1,3,3:37 PM,4:37,MISS Jones 19' Jump Shot,,,,
+0020000303,256,4,0,3,3:37 PM,4:35,,,Olajuwon REBOUND (Off:1 Def:7),,
+0020000303,257,5,1,3,3:37 PM,4:28,,,Mobley Bad Pass Turnover (P3.T11),,
+0020000303,258,8,0,3,3:37 PM,4:28,SUB: Abdul-Rauf FOR Bibby,,,,
+0020000303,259,6,2,3,3:37 PM,4:09,,,Olajuwon S.FOUL (P2.PN),,
+0020000303,260,3,11,3,3:37 PM,4:09,MISS Massenburg Free Throw 1 of 2,,,,
+0020000303,262,4,0,3,3:38 PM,4:09,GRIZZLIES Rebound,,,,
+0020000303,261,3,12,3,3:38 PM,4:09,Massenburg Free Throw 2 of 2 (4 PTS),,,49 - 47,-2
+0020000303,263,6,2,3,3:38 PM,3:54,Massenburg S.FOUL (P2.T2),,,,
+0020000303,264,8,0,3,3:38 PM,3:54,SUB: Reeves FOR Massenburg,,,,
+0020000303,265,3,11,3,3:38 PM,3:54,,,MISS Taylor Free Throw 1 of 2,,
+0020000303,266,4,1,3,3:38 PM,3:54,,,Rockets Rebound,,
+0020000303,267,3,12,3,3:39 PM,3:54,,,Taylor Free Throw 2 of 2 (1 PTS),50 - 47,-3
+0020000303,268,2,1,3,3:39 PM,3:43,MISS Abdul-Rauf 12' Jump Shot,,,,
+0020000303,269,4,0,3,3:39 PM,3:41,,,Olajuwon REBOUND (Off:1 Def:8),,
+0020000303,270,1,1,3,3:40 PM,3:35,,,Olajuwon 17' Jump Shot (12 PTS) (Francis 4 AST),52 - 47,-5
+0020000303,271,1,1,3,3:40 PM,3:13,Reeves 16' Jump Shot (2 PTS) (Abdur-Rahim 1 AST),,,52 - 49,-3
+0020000303,272,6,1,3,3:41 PM,2:55,Abdul-Rauf P.FOUL (P1.T3),,,,
+0020000303,273,5,2,3,3:41 PM,2:46,Abdur-Rahim STEAL (2 STL),,Taylor Lost Ball Turnover (P3.T12),,
+0020000303,274,2,1,3,3:41 PM,2:42,MISS Abdur-Rahim 4' Jump Shot,,Taylor BLOCK (1 BLK),,
+0020000303,275,4,0,3,3:41 PM,2:38,,,Mobley REBOUND (Off:1 Def:4),,
+0020000303,276,2,1,3,3:41 PM,2:34,,,MISS Mobley 27' 3PT Jump Shot,,
+0020000303,277,4,0,3,3:41 PM,2:32,Abdur-Rahim REBOUND (Off:1 Def:2),,,,
+0020000303,278,2,1,3,3:41 PM,2:18,MISS Jones 18' Jump Shot,,Mobley BLOCK (1 BLK),,
+0020000303,279,4,0,3,3:42 PM,2:15,,,Olajuwon REBOUND (Off:1 Def:9),,
+0020000303,280,2,1,3,3:42 PM,2:08,Reeves BLOCK (1 BLK),,MISS Francis 7' Jump Shot,,
+0020000303,281,4,0,3,3:42 PM,2:06,Reeves REBOUND (Off:0 Def:4),,,,
+0020000303,282,1,1,3,3:42 PM,2:00,Abdul-Rauf 17' Jump Shot (2 PTS),,,52 - 51,-1
+0020000303,283,2,1,3,3:42 PM,1:43,,,MISS Taylor 18' Jump Shot,,
+0020000303,284,4,0,3,3:42 PM,1:41,Abdur-Rahim REBOUND (Off:1 Def:3),,,,
+0020000303,285,2,1,3,3:42 PM,1:30,MISS Reeves 18' Jump Shot,,,,
+0020000303,286,4,0,3,3:42 PM,1:29,,,Mobley REBOUND (Off:1 Def:5),,
+0020000303,287,6,1,3,3:42 PM,1:29,Reeves P.FOUL (P1.T4),,,,
+0020000303,288,8,0,3,3:42 PM,1:29,SUB: Long FOR Abdur-Rahim,,,,
+0020000303,289,2,1,3,3:43 PM,1:09,,,MISS Francis 20' Jump Shot,,
+0020000303,290,4,0,3,3:43 PM,1:07,Reeves REBOUND (Off:0 Def:5),,,,
+0020000303,291,2,1,3,3:43 PM,0:46,MISS Long 12' Jump Shot,,,,
+0020000303,292,4,0,3,3:43 PM,0:45,Harrington REBOUND (Off:2 Def:5),,,,
+0020000303,293,2,1,3,3:44 PM,0:42,MISS Long 17' Jump Shot,,,,
+0020000303,294,4,0,3,3:44 PM,0:39,Harrington REBOUND (Off:3 Def:5),,,,
+0020000303,295,6,2,3,3:44 PM,0:39,,,Olajuwon S.FOUL (P3.PN),,
+0020000303,296,8,0,3,3:44 PM,0:39,,,SUB: Thomas FOR Taylor,,
+0020000303,297,3,11,3,3:44 PM,0:39,MISS Harrington Free Throw 1 of 2,,,,
+0020000303,298,4,1,3,3:44 PM,0:39,GRIZZLIES Rebound,,,,
+0020000303,299,3,12,3,3:44 PM,0:39,Harrington Free Throw 2 of 2 (5 PTS),,,52 - 52,TIE
+0020000303,300,1,1,3,3:45 PM,0:28,,,Mobley 17' Jump Shot (8 PTS),54 - 52,-2
+0020000303,301,2,1,3,3:45 PM,0:09,MISS Abdul-Rauf 20' Jump Shot,,,,
+0020000303,302,4,0,3,3:45 PM,0:07,Reeves REBOUND (Off:1 Def:5),,,,
+0020000303,303,2,1,3,3:45 PM,0:03,MISS Harrington 16' Jump Shot,,Thomas BLOCK (1 BLK),,
+0020000303,304,4,0,3,3:45 PM,0:01,,,Olajuwon REBOUND (Off:1 Def:10),,
+0020000303,305,2,1,3,3:45 PM,0:00,,,MISS Francis 34' 3PT Jump Shot,,
+0020000303,306,4,0,3,3:45 PM,0:00,,,Rockets Rebound,,
+0020000303,307,13,0,3,3:45 PM,0:00,,,,54 - 52,-2
+0020000303,309,12,0,4,3:48 PM,12:00,,,,54 - 52,-2
+0020000303,310,2,1,4,3:48 PM,11:47,MISS Abdul-Rauf 19' Jump Shot,,,,
+0020000303,311,4,0,4,3:48 PM,11:45,,,Thomas REBOUND (Off:1 Def:5),,
+0020000303,312,2,1,4,3:49 PM,11:26,,,MISS Francis 15' Jump Shot,,
+0020000303,313,4,0,4,3:49 PM,11:24,Reeves REBOUND (Off:1 Def:6),,,,
+0020000303,314,2,1,4,3:49 PM,11:07,MISS Reeves 13' Jump Shot,,,,
+0020000303,315,4,0,4,3:49 PM,11:06,,,Williams REBOUND (Off:0 Def:3),,
+0020000303,316,6,1,4,3:49 PM,11:04,Long P.FOUL (P2.T1),,,,
+0020000303,317,1,1,4,3:49 PM,10:57,,,Mobley 20' Jump Shot (10 PTS),56 - 52,-4
+0020000303,318,2,1,4,3:50 PM,10:41,MISS Abdul-Rauf 15' Jump Shot,,,,
+0020000303,319,4,0,4,3:50 PM,10:39,,,Thomas REBOUND (Off:1 Def:6),,
+0020000303,320,2,1,4,3:50 PM,10:22,,,MISS Thomas 10' Jump Shot,,
+0020000303,321,4,0,4,3:50 PM,10:20,Long REBOUND (Off:1 Def:1),,,,
+0020000303,322,2,1,4,3:50 PM,10:02,MISS Harrington 10' Jump Shot,,,,
+0020000303,323,4,0,4,3:50 PM,10:01,,,Bullard REBOUND (Off:0 Def:2),,
+0020000303,324,1,1,4,3:51 PM,9:43,,,Williams 25' 3PT Jump Shot (9 PTS) (Francis 5 AST),59 - 52,-7
+0020000303,325,2,1,4,3:51 PM,9:24,MISS Harrington 7' Jump Shot,,,,
+0020000303,326,4,0,4,3:51 PM,9:23,Abdul-Rauf REBOUND (Off:1 Def:0),,,,
+0020000303,327,2,1,4,3:51 PM,9:14,MISS Harrington 7' Jump Shot,,,,
+0020000303,328,4,0,4,3:51 PM,9:12,,,Thomas REBOUND (Off:1 Def:7),,
+0020000303,329,2,1,4,3:51 PM,9:01,,,MISS Mobley 24' 3PT Jump Shot,,
+0020000303,330,4,0,4,3:51 PM,8:59,Reeves REBOUND (Off:1 Def:7),,,,
+0020000303,331,1,1,4,3:51 PM,8:55,Jones 5' Jump Shot (4 PTS),,,59 - 54,-5
+0020000303,332,6,1,4,3:52 PM,8:41,Jones P.FOUL (P1.T2),,,,
+0020000303,333,9,4,4,3:52 PM,8:41,,,,,
+0020000303,335,8,0,4,3:54 PM,8:41,SUB: Abdur-Rahim FOR Harrington,,,,
+0020000303,336,8,0,4,3:54 PM,8:41,SUB: Bibby FOR Long,,,,
+0020000303,337,8,0,4,3:54 PM,8:41,SUB: Swift FOR Abdul-Rauf,,,,
+0020000303,339,1,1,4,3:54 PM,8:33,,,Bullard 25' 3PT Jump Shot (6 PTS) (Francis 6 AST),62 - 54,-8
+0020000303,340,5,6,4,3:55 PM,8:08,Swift Double Dribble Turnover (P2.T9),,,,
+0020000303,341,6,1,4,3:55 PM,7:53,Jones P.FOUL (P2.T3),,,,
+0020000303,342,6,1,4,3:56 PM,7:47,Swift P.FOUL (P1.T4),,,,
+0020000303,343,8,0,4,3:56 PM,7:47,SUB: Long FOR Swift,,,,
+0020000303,344,2,1,4,3:56 PM,7:34,Abdur-Rahim BLOCK (2 BLK),,MISS Thomas 7' Jump Shot,,
+0020000303,346,4,0,4,3:56 PM,7:31,,,Francis REBOUND (Off:1 Def:1),,
+0020000303,345,1,4,4,3:56 PM,7:31,,,Francis 2' Tip Shot (13 PTS),64 - 54,-10
+0020000303,347,6,2,4,3:57 PM,7:17,,,Bullard S.FOUL (P1.T1),,
+0020000303,348,3,11,4,3:57 PM,7:17,Abdur-Rahim Free Throw 1 of 2 (22 PTS),,,64 - 55,-9
+0020000303,349,3,12,4,3:57 PM,7:17,Abdur-Rahim Free Throw 2 of 2 (23 PTS),,,64 - 56,-8
+0020000303,350,2,1,4,3:58 PM,7:02,Reeves BLOCK (2 BLK),,MISS Francis 5' Jump Shot,,
+0020000303,351,4,0,4,3:58 PM,7:02,,,Rockets Rebound,,
+0020000303,352,1,1,4,3:58 PM,6:55,,,Bullard 26' 3PT Jump Shot (9 PTS) (Mobley 3 AST),67 - 56,-11
+0020000303,353,1,1,4,3:58 PM,6:27,Reeves 6' Jump Shot (4 PTS) (Jones 4 AST),,,67 - 58,-9
+0020000303,354,2,1,4,3:59 PM,6:03,,,MISS Francis 22' Jump Shot,,
+0020000303,355,4,0,4,3:59 PM,6:01,Bibby REBOUND (Off:0 Def:1),,,,
+0020000303,356,1,1,4,3:59 PM,5:48,Reeves 7' Jump Shot (6 PTS),,,67 - 60,-7
+0020000303,357,2,1,4,3:59 PM,5:28,,,MISS Williams 24' 3PT Jump Shot,,
+0020000303,358,4,0,4,3:59 PM,5:25,,,Mobley REBOUND (Off:2 Def:5),,
+0020000303,359,2,1,4,3:59 PM,5:21,,,MISS Williams 24' 3PT Jump Shot,,
+0020000303,360,4,0,4,4:00 PM,5:19,,,Thomas REBOUND (Off:2 Def:7),,
+0020000303,361,1,5,4,4:00 PM,4:57,,,Thomas 2' Layup (7 PTS) (Williams 1 AST),69 - 60,-9
+0020000303,362,9,1,4,4:00 PM,4:47,GRIZZLIES Timeout: Regular (Full 5 Short 1),,,,
+0020000303,364,8,0,4,4:02 PM,4:47,,,SUB: Norris FOR Williams,,
+0020000303,366,1,7,4,4:03 PM,4:32,Long 2' Dunk (4 PTS) (Reeves 1 AST),,,69 - 62,-7
+0020000303,367,2,1,4,4:03 PM,4:13,,,MISS Thomas 3' Jump Shot,,
+0020000303,369,4,0,4,4:03 PM,4:12,,,Thomas REBOUND (Off:3 Def:7),,
+0020000303,368,2,4,4,4:03 PM,4:12,,,MISS Thomas 2' Tip Shot,,
+0020000303,370,4,0,4,4:03 PM,4:08,Bibby REBOUND (Off:0 Def:2),,,,
+0020000303,371,1,5,4,4:03 PM,4:02,Reeves 1' Layup (8 PTS) (Jones 5 AST),,,69 - 64,-5
+0020000303,372,1,1,4,4:03 PM,3:43,,,Bullard 26' 3PT Jump Shot (12 PTS) (Norris 3 AST),72 - 64,-8
+0020000303,373,2,5,4,4:04 PM,3:33,MISS Bibby 3' Layup,,,,
+0020000303,374,4,0,4,4:04 PM,3:31,,,Bullard REBOUND (Off:0 Def:3),,
+0020000303,375,2,1,4,4:04 PM,3:12,,,MISS Bullard 20' Jump Shot,,
+0020000303,376,4,0,4,4:04 PM,3:10,,,Thomas REBOUND (Off:4 Def:7),,
+0020000303,377,1,5,4,4:04 PM,2:48,,,Norris 2' Layup (7 PTS),74 - 64,-10
+0020000303,378,1,1,4,4:05 PM,2:26,Jones 20' Jump Shot (6 PTS) (Bibby 7 AST),,,74 - 66,-8
+0020000303,379,2,1,4,4:05 PM,2:03,,,MISS Norris 3' Jump Shot,,
+0020000303,381,4,0,4,4:05 PM,2:03,,,Thomas REBOUND (Off:5 Def:7),,
+0020000303,380,5,15,4,4:05 PM,2:03,,,Thomas Offensive Goaltending Turnover (P1.T13),,
+0020000303,382,6,2,4,4:06 PM,1:54,,,Bullard S.FOUL (P2.T2),,
+0020000303,383,9,1,4,4:06 PM,1:54,,,Rockets Timeout: Regular (Reg.4 Short 2),,
+0020000303,387,3,11,4,4:08 PM,1:54,Reeves Free Throw 1 of 2 (9 PTS),,,74 - 67,-7
+0020000303,388,3,12,4,4:08 PM,1:54,Reeves Free Throw 2 of 2 (10 PTS),,,74 - 68,-6
+0020000303,389,2,1,4,4:09 PM,1:34,,,MISS Thomas 25' 3PT Jump Shot,,
+0020000303,390,4,0,4,4:09 PM,1:32,Abdur-Rahim REBOUND (Off:1 Def:4),,,,
+0020000303,391,2,1,4,4:09 PM,1:18,MISS Abdur-Rahim 26' 3PT Jump Shot,,,,
+0020000303,392,4,0,4,4:09 PM,1:16,,,Bullard REBOUND (Off:0 Def:4),,
+0020000303,393,1,5,4,4:09 PM,0:57,,,Mobley 4' Layup (12 PTS),76 - 68,-8
+0020000303,394,1,1,4,4:10 PM,0:41,Abdur-Rahim 25' 3PT Jump Shot (26 PTS) (Long 1 AST),,,76 - 71,-5
+0020000303,395,6,1,4,4:10 PM,0:35,Long P.FOUL (P3.PN),,,,
+0020000303,396,3,11,4,4:10 PM,0:35,,,Mobley Free Throw 1 of 2 (13 PTS),77 - 71,-6
+0020000303,397,3,12,4,4:10 PM,0:35,,,Mobley Free Throw 2 of 2 (14 PTS),78 - 71,-7
+0020000303,398,9,1,4,4:10 PM,0:35,GRIZZLIES Timeout: Regular (Full 6 Short 1),,,,
+0020000303,401,1,1,4,4:13 PM,0:31,Bibby 6' Jump Shot (14 PTS) (Reeves 2 AST),,,78 - 73,-5
+0020000303,402,6,1,4,4:13 PM,0:29,Long P.FOUL (P4.PN),,,,
+0020000303,404,3,11,4,4:13 PM,0:29,,,Mobley Free Throw 1 of 2 (15 PTS),79 - 73,-6
+0020000303,405,3,12,4,4:13 PM,0:29,,,Mobley Free Throw 2 of 2 (16 PTS),80 - 73,-7
+0020000303,406,1,1,4,4:14 PM,0:24,Bibby 5' Jump Shot (16 PTS),,,80 - 75,-5
+0020000303,407,5,1,4,4:14 PM,0:23,Long STEAL (1 STL),,Norris Bad Pass Turnover (P3.T14),,
+0020000303,408,9,2,4,4:14 PM,0:23,GRIZZLIES Timeout: Short (Full 6 Short 2),,,,
+0020000303,409,2,1,4,4:15 PM,0:20,MISS Bibby 9' Jump Shot,,,,
+0020000303,411,4,0,4,4:16 PM,0:17,Reeves REBOUND (Off:2 Def:7),,,,
+0020000303,410,2,1,4,4:16 PM,0:17,MISS Reeves 4' Jump Shot,,Bullard BLOCK (2 BLK),,
+0020000303,412,4,0,4,4:16 PM,0:15,,,Bullard REBOUND (Off:0 Def:5),,
+0020000303,413,1,7,4,4:16 PM,0:10,,,Francis 3' Dunk (15 PTS) (Bullard 1 AST),82 - 75,-7
+0020000303,414,2,1,4,4:16 PM,0:05,MISS Jones 27' 3PT Jump Shot,,,,
+0020000303,415,4,0,4,4:16 PM,0:02,,,Francis REBOUND (Off:1 Def:2),,
+0020000303,416,13,0,4,4:16 PM,0:00,,,,82 - 75,-7

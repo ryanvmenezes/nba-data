@@ -1,0 +1,491 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020501014,0,12,0,1,8:44 PM,12:00,,,,,
+0020501014,1,10,0,1,8:44 PM,12:00,Jump Ball Diop vs. Foyle: Tip to Terry,,,,
+0020501014,2,1,1,1,8:46 PM,11:39,Nowitzki 15' Jump Shot (2 PTS) (Terry 1 AST),,,0 - 2,2
+0020501014,3,2,1,1,8:46 PM,11:11,,,MISS Richardson 18' Jump Shot,,
+0020501014,4,4,0,1,8:46 PM,11:09,Nowitzki REBOUND (Off:0 Def:1),,,,
+0020501014,5,2,41,1,8:46 PM,11:02,MISS Terry  Running Layup,,,,
+0020501014,6,4,0,1,8:46 PM,11:00,,,Warriors Rebound,,
+0020501014,7,2,1,1,8:47 PM,10:38,,,MISS Fisher 24' 3PT Jump Shot,,
+0020501014,8,4,0,1,8:47 PM,10:36,Diop REBOUND (Off:0 Def:1),,,,
+0020501014,9,6,1,1,8:47 PM,10:25,,,Dunleavy P.FOUL (P1.T1),,
+0020501014,10,1,1,1,8:47 PM,10:18,Terry 17' Jump Shot (2 PTS) (Daniels 1 AST),,,0 - 4,4
+0020501014,11,2,1,1,8:48 PM,9:53,,,MISS Foyle 15' Jump Shot,,
+0020501014,12,4,0,1,8:48 PM,9:51,Daniels REBOUND (Off:0 Def:1),,,,
+0020501014,13,1,63,1,8:48 PM,9:43,Nowitzki 15' Fadeaway Jumper (4 PTS),,,0 - 6,6
+0020501014,14,2,1,1,8:48 PM,9:25,,,MISS Murphy 18' Jump Shot,,
+0020501014,15,4,0,1,8:48 PM,9:23,Diop REBOUND (Off:0 Def:2),,,,
+0020501014,16,5,2,1,8:48 PM,9:19,Terry Lost Ball Turnover (P1.T1),,Fisher STEAL (1 STL),,
+0020501014,17,6,2,1,8:49 PM,9:14,Diop S.FOUL (P1.T1),,,,
+0020501014,18,3,11,1,8:49 PM,9:14,,,Murphy Free Throw 1 of 2 (1 PTS),1 - 6,5
+0020501014,19,3,12,1,8:49 PM,9:14,,,Murphy Free Throw 2 of 2 (2 PTS),2 - 6,4
+0020501014,20,5,1,1,8:49 PM,9:03,Nowitzki Bad Pass Turnover (P1.T2),,Richardson STEAL (1 STL),,
+0020501014,21,6,2,1,8:49 PM,9:01,Daniels S.FOUL (P1.T2),,,,
+0020501014,22,3,11,1,8:50 PM,9:01,,,MISS Richardson Free Throw 1 of 2,,
+0020501014,23,4,1,1,8:50 PM,9:01,,,Warriors Rebound,,
+0020501014,24,3,12,1,8:50 PM,9:01,,,Richardson Free Throw 2 of 2 (1 PTS),3 - 6,3
+0020501014,25,1,63,1,8:50 PM,8:44,Nowitzki 16' Fadeaway Jumper (6 PTS) (Terry 2 AST),,,3 - 8,5
+0020501014,26,2,41,1,8:51 PM,8:32,Marshall BLOCK (1 BLK),,MISS Richardson  Running Layup,,
+0020501014,27,4,0,1,8:51 PM,8:29,Terry REBOUND (Off:0 Def:1),,,,
+0020501014,28,1,1,1,8:51 PM,8:23,Terry 16' Jump Shot (4 PTS),,,3 - 10,7
+0020501014,29,9,1,1,8:51 PM,8:13,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020501014,33,6,2,1,8:53 PM,8:09,Terry S.FOUL (P1.T3),,,,
+0020501014,34,3,11,1,8:54 PM,8:09,,,Fisher Free Throw 1 of 2 (1 PTS),4 - 10,6
+0020501014,35,3,12,1,8:54 PM,8:09,,,Fisher Free Throw 2 of 2 (2 PTS),5 - 10,5
+0020501014,36,1,63,1,8:54 PM,7:52,Nowitzki 14' Fadeaway Jumper (8 PTS),,,5 - 12,7
+0020501014,37,1,46,1,8:55 PM,7:29,,,Dunleavy 12' Running Jump Shot (2 PTS) (Richardson 1 AST),7 - 12,5
+0020501014,38,1,42,1,8:55 PM,7:11,Daniels  Driving Layup (2 PTS) (Nowitzki 1 AST),,,7 - 14,7
+0020501014,39,1,5,1,8:55 PM,6:47,,,Foyle  Layup (2 PTS) (Fisher 1 AST),9 - 14,5
+0020501014,40,1,1,1,8:56 PM,6:22,Diop 15' Jump Shot (2 PTS) (Terry 3 AST),,,9 - 16,7
+0020501014,41,2,5,1,8:56 PM,6:00,,,MISS Murphy  Layup,,
+0020501014,42,4,0,1,8:56 PM,5:58,Diop REBOUND (Off:0 Def:3),,,,
+0020501014,43,1,63,1,8:56 PM,5:54,Nowitzki 18' Fadeaway Jumper (10 PTS),,,9 - 18,9
+0020501014,44,1,44,1,8:57 PM,5:35,,,Foyle  Reverse Layup (4 PTS) (Dunleavy 1 AST),11 - 18,7
+0020501014,45,6,2,1,8:57 PM,5:25,,,Foyle S.FOUL (P1.T2),,
+0020501014,46,3,11,1,8:57 PM,5:25,Terry Free Throw 1 of 2 (5 PTS),,,11 - 19,8
+0020501014,47,8,0,1,8:57 PM,5:25,,,SUB: Pietrus FOR Murphy,,
+0020501014,48,3,12,1,8:57 PM,5:25,Terry Free Throw 2 of 2 (6 PTS),,,11 - 20,9
+0020501014,49,2,1,1,8:58 PM,5:09,,,MISS Dunleavy 24' 3PT Jump Shot,,
+0020501014,50,4,0,1,8:58 PM,5:07,Daniels REBOUND (Off:0 Def:2),,,,
+0020501014,51,5,1,1,8:58 PM,4:59,Daniels Bad Pass Turnover (P1.T3),,Fisher STEAL (2 STL),,
+0020501014,52,1,42,1,8:58 PM,4:55,,,Pietrus  Driving Layup (2 PTS) (Fisher 2 AST),13 - 20,7
+0020501014,53,2,1,1,8:58 PM,4:49,MISS Terry 18' Jump Shot,,,,
+0020501014,54,4,0,1,8:58 PM,4:46,Diop REBOUND (Off:1 Def:3),,,,
+0020501014,55,2,63,1,8:59 PM,4:33,MISS Nowitzki 16' Fadeaway Jumper,,,,
+0020501014,56,4,0,1,8:59 PM,4:29,,,Foyle REBOUND (Off:0 Def:1),,
+0020501014,57,5,1,1,8:59 PM,4:24,Nowitzki STEAL (1 STL),,Pietrus Bad Pass Turnover (P1.T1),,
+0020501014,58,2,5,1,8:59 PM,4:19,MISS Daniels  Layup,,,,
+0020501014,59,4,0,1,8:59 PM,4:18,Nowitzki REBOUND (Off:1 Def:1),,,,
+0020501014,60,6,1,1,8:59 PM,4:18,,,Pietrus P.FOUL (P1.T3),,
+0020501014,61,8,0,1,8:59 PM,4:18,,,SUB: Biedrins FOR Foyle,,
+0020501014,62,8,0,1,8:59 PM,4:18,SUB: Dampier FOR Diop,,,,
+0020501014,63,8,0,1,8:59 PM,4:18,SUB: Stackhouse FOR Daniels,,,,
+0020501014,64,6,2,1,9:00 PM,4:03,,,Pietrus S.FOUL (P2.T4),,
+0020501014,65,3,11,1,9:00 PM,4:03,Terry Free Throw 1 of 2 (7 PTS),,,13 - 21,8
+0020501014,66,3,12,1,9:00 PM,4:03,Terry Free Throw 2 of 2 (8 PTS),,,13 - 22,9
+0020501014,67,2,1,1,9:01 PM,3:51,,,MISS Fisher 19' Jump Shot,,
+0020501014,68,4,0,1,9:01 PM,3:49,,,Pietrus REBOUND (Off:1 Def:0),,
+0020501014,69,2,5,1,9:01 PM,3:47,,,MISS Fisher  Layup,,
+0020501014,70,4,0,1,9:01 PM,3:46,,,Biedrins REBOUND (Off:1 Def:0),,
+0020501014,71,1,1,1,9:01 PM,3:42,,,Richardson  3PT Jump Shot (4 PTS) (Biedrins 1 AST),16 - 22,6
+0020501014,72,5,1,1,9:01 PM,3:25,Stackhouse Bad Pass Turnover (P1.T4),,Richardson STEAL (2 STL),,
+0020501014,73,2,1,1,9:01 PM,3:21,,,MISS Richardson 25' 3PT Jump Shot,,
+0020501014,74,4,0,1,9:01 PM,3:21,,,Warriors Rebound,,
+0020501014,75,6,3,1,9:01 PM,3:21,Terry L.B.FOUL (P2.T4),,,,
+0020501014,76,8,0,1,9:02 PM,3:21,SUB: Powell FOR Nowitzki,,,,
+0020501014,77,8,0,1,9:02 PM,3:21,SUB: Armstrong FOR Terry,,,,
+0020501014,79,2,1,1,9:02 PM,3:08,,,MISS Pietrus 22' Jump Shot,,
+0020501014,80,4,0,1,9:02 PM,3:06,Armstrong REBOUND (Off:0 Def:1),,,,
+0020501014,81,2,1,1,9:02 PM,3:00,MISS Stackhouse 16' Jump Shot,,,,
+0020501014,82,4,0,1,9:02 PM,2:57,,,Dunleavy REBOUND (Off:0 Def:1),,
+0020501014,83,2,5,1,9:02 PM,2:52,,,MISS Fisher  Layup,,
+0020501014,84,4,0,1,9:02 PM,2:51,,,Fisher REBOUND (Off:1 Def:0),,
+0020501014,85,5,39,1,9:02 PM,2:51,,,Fisher Step Out of Bounds Turnover (P1.T2),,
+0020501014,86,9,1,1,9:03 PM,2:51,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,
+0020501014,88,8,0,1,9:04 PM,2:51,SUB: Nowitzki FOR Marshall,,,,
+0020501014,90,1,1,1,9:05 PM,2:34,Armstrong 21' Jump Shot (2 PTS) (Dampier 1 AST),,,16 - 24,8
+0020501014,91,2,1,1,9:05 PM,2:08,,,MISS Dunleavy 19' Jump Shot,,
+0020501014,92,4,0,1,9:05 PM,2:06,Dampier REBOUND (Off:0 Def:1),,,,
+0020501014,93,5,1,1,9:05 PM,2:05,Dampier Bad Pass Turnover (P1.T5),,Pietrus STEAL (1 STL),,
+0020501014,94,1,5,1,9:05 PM,2:01,,,Pietrus  Layup (4 PTS),18 - 24,6
+0020501014,95,1,66,1,9:06 PM,1:46,Armstrong 6' Jump Bank Shot (4 PTS),,,18 - 26,8
+0020501014,96,1,8,1,9:06 PM,1:33,,,Biedrins  Slam Dunk (2 PTS) (Dunleavy 2 AST),20 - 26,6
+0020501014,97,6,2,1,9:06 PM,1:15,,,Biedrins S.FOUL (P1.PN),,
+0020501014,98,3,11,1,9:06 PM,1:15,Nowitzki Free Throw 1 of 2 (11 PTS),,,20 - 27,7
+0020501014,99,8,0,1,9:07 PM,1:15,,,SUB: Bynum FOR Fisher,,
+0020501014,100,8,0,1,9:07 PM,1:15,,,SUB: Ellis FOR Pietrus,,
+0020501014,101,3,12,1,9:07 PM,1:15,Nowitzki Free Throw 2 of 2 (12 PTS),,,20 - 28,8
+0020501014,102,2,1,1,9:08 PM,1:04,,,MISS Richardson 25' 3PT Jump Shot,,
+0020501014,103,4,0,1,9:08 PM,1:02,,,Biedrins REBOUND (Off:2 Def:0),,
+0020501014,104,1,1,1,9:08 PM,0:55,,,Ellis 21' Jump Shot (2 PTS) (Richardson 2 AST),22 - 28,6
+0020501014,105,2,42,1,9:08 PM,0:43,MISS Powell  Driving Layup,,Richardson BLOCK (1 BLK),,
+0020501014,106,4,0,1,9:08 PM,0:43,MAVERICKS Rebound,,,,
+0020501014,107,2,1,1,9:08 PM,0:35,MISS Stackhouse 14' Jump Shot,,,,
+0020501014,109,4,0,1,9:08 PM,0:33,Dampier REBOUND (Off:1 Def:1),,,,
+0020501014,108,2,5,1,9:08 PM,0:33,MISS Dampier  Layup,,,,
+0020501014,110,4,0,1,9:08 PM,0:33,,,Warriors Rebound,,
+0020501014,111,6,3,1,9:08 PM,0:33,Dampier L.B.FOUL (P1.PN),,,,
+0020501014,112,3,11,1,9:09 PM,0:33,,,Dunleavy Free Throw 1 of 2 (3 PTS),23 - 28,5
+0020501014,113,3,12,1,9:09 PM,0:33,,,Dunleavy Free Throw 2 of 2 (4 PTS),24 - 28,4
+0020501014,114,5,1,1,9:10 PM,0:17,Powell Bad Pass Turnover (P1.T6),,Richardson STEAL (3 STL),,
+0020501014,116,7,2,1,9:10 PM,0:13,Powell Violation:Defensive Goaltending,,,,
+0020501014,115,1,42,1,9:10 PM,0:13,,,Dunleavy  Driving Layup (6 PTS) (Richardson 3 AST),26 - 28,2
+0020501014,117,2,63,1,9:10 PM,0:00,MISS Nowitzki 16' Fadeaway Jumper,,,,
+0020501014,118,4,0,1,9:10 PM,0:00,,,Dunleavy REBOUND (Off:0 Def:2),,
+0020501014,119,13,0,1,9:10 PM,0:00,,,,26 - 28,2
+0020501014,121,12,0,2,9:13 PM,12:00,,,,26 - 28,2
+0020501014,125,8,0,2,9:13 PM,12:00,SUB: Powell FOR Nowitzki,,,,
+0020501014,122,1,1,2,9:13 PM,11:46,,,Bynum 17' Jump Shot (2 PTS),28 - 28,TIE
+0020501014,123,6,4,2,9:13 PM,11:34,Dampier OFF.Foul (P2),,,,
+0020501014,124,5,5,2,9:13 PM,11:34,Dampier Foul Turnover (P2.T7),,,,
+0020501014,126,1,1,2,9:14 PM,11:21,,,Ellis 25' 3PT Jump Shot (5 PTS) (Bynum 1 AST),31 - 28,-3
+0020501014,128,2,1,2,9:14 PM,10:56,MISS Powell 19' Jump Shot,,,,
+0020501014,129,4,0,2,9:14 PM,10:54,Daniels REBOUND (Off:1 Def:2),,,,
+0020501014,130,1,5,2,9:14 PM,10:52,Daniels  Layup (4 PTS),,,31 - 30,-1
+0020501014,131,1,42,2,9:15 PM,10:40,,,Dunleavy  Driving Layup (8 PTS),33 - 30,-3
+0020501014,132,5,1,2,9:15 PM,10:31,Terry Bad Pass Turnover (P2.T8),,Bynum STEAL (1 STL),,
+0020501014,133,6,9,2,9:15 PM,10:30,Terry C.P.FOUL (P3.T1),,,,
+0020501014,134,8,0,2,9:15 PM,10:30,SUB: Mbenga FOR Dampier,,,,
+0020501014,135,3,17,2,9:15 PM,10:30,,,MISS Bynum Free Throw Clear Path,,
+0020501014,136,4,1,2,9:15 PM,10:30,,,Warriors Rebound,,
+0020501014,137,8,0,2,9:16 PM,10:30,SUB: Marshall FOR Terry,,,,
+0020501014,138,2,5,2,9:16 PM,10:14,Mbenga BLOCK (1 BLK),,MISS Ellis  Layup,,
+0020501014,139,4,0,2,9:16 PM,10:10,Stackhouse REBOUND (Off:0 Def:1),,,,
+0020501014,140,6,2,2,9:16 PM,10:08,,,Biedrins S.FOUL (P2.T1),,
+0020501014,141,3,11,2,9:16 PM,10:08,Marshall Free Throw 1 of 2 (1 PTS),,,33 - 31,-2
+0020501014,142,8,0,2,9:16 PM,10:08,,,SUB: Murphy FOR Biedrins,,
+0020501014,143,3,12,2,9:16 PM,10:08,Marshall Free Throw 2 of 2 (2 PTS),,,33 - 32,-1
+0020501014,144,2,42,2,9:17 PM,9:56,Mbenga BLOCK (2 BLK),,MISS Bynum  Driving Layup,,
+0020501014,145,4,0,2,9:17 PM,9:53,Mbenga REBOUND (Off:0 Def:1),,,,
+0020501014,146,6,4,2,9:17 PM,9:50,Daniels OFF.Foul (P2),,,,
+0020501014,147,5,5,2,9:17 PM,9:50,Daniels Foul Turnover (P2.T9),,,,
+0020501014,149,1,42,2,9:17 PM,9:39,,,Richardson  Driving Layup (6 PTS),35 - 32,-3
+0020501014,150,6,2,2,9:18 PM,9:18,,,Dunleavy S.FOUL (P2.T2),,
+0020501014,151,3,11,2,9:18 PM,9:18,Marshall Free Throw 1 of 2 (3 PTS),,,35 - 33,-2
+0020501014,153,8,0,2,9:18 PM,9:18,,,SUB: Fisher FOR Richardson,,
+0020501014,154,3,12,2,9:19 PM,9:18,Marshall Free Throw 2 of 2 (4 PTS),,,35 - 34,-1
+0020501014,155,1,41,2,9:19 PM,9:06,,,Ellis  Running Layup (7 PTS),37 - 34,-3
+0020501014,156,5,1,2,9:19 PM,8:39,Daniels Bad Pass Turnover (P3.T10),,Bynum STEAL (2 STL),,
+0020501014,157,1,8,2,9:19 PM,8:35,,,Bynum  Slam Dunk (4 PTS) (Ellis 1 AST),39 - 34,-5
+0020501014,158,9,1,2,9:20 PM,8:32,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,
+0020501014,160,8,0,2,9:21 PM,8:32,SUB: Armstrong FOR Stackhouse,,,,
+0020501014,161,8,0,2,9:21 PM,8:32,SUB: Nowitzki FOR Powell,,,,
+0020501014,162,8,0,2,9:22 PM,8:32,,,SUB: Diogu FOR Dunleavy,,
+0020501014,163,6,2,2,9:22 PM,8:11,,,Diogu S.FOUL (P1.T3),,
+0020501014,164,3,11,2,9:22 PM,8:11,Nowitzki Free Throw 1 of 2 (13 PTS),,,39 - 35,-4
+0020501014,165,3,12,2,9:22 PM,8:11,Nowitzki Free Throw 2 of 2 (14 PTS),,,39 - 36,-3
+0020501014,167,7,2,2,9:23 PM,7:58,Mbenga Violation:Defensive Goaltending,,,,
+0020501014,166,1,42,2,9:23 PM,7:58,,,Ellis  Driving Layup (9 PTS),41 - 36,-5
+0020501014,168,2,1,2,9:23 PM,7:41,MISS Marshall 24' 3PT Jump Shot,,,,
+0020501014,169,4,0,2,9:23 PM,7:39,,,Ellis REBOUND (Off:0 Def:1),,
+0020501014,170,2,42,2,9:23 PM,7:36,Nowitzki BLOCK (1 BLK),,MISS Ellis  Driving Layup,,
+0020501014,171,4,0,2,9:24 PM,7:32,Marshall REBOUND (Off:0 Def:1),,,,
+0020501014,172,6,1,2,9:24 PM,7:26,,,Diogu P.FOUL (P2.T4),,
+0020501014,173,1,5,2,9:24 PM,7:16,Marshall  Layup (6 PTS) (Daniels 2 AST),,,41 - 38,-3
+0020501014,174,2,1,2,9:24 PM,6:55,,,MISS Fisher 18' Jump Shot,,
+0020501014,175,4,0,2,9:24 PM,6:53,Marshall REBOUND (Off:0 Def:2),,,,
+0020501014,176,1,63,2,9:25 PM,6:45,Nowitzki 17' Fadeaway Jumper (16 PTS),,,41 - 40,-1
+0020501014,177,1,47,2,9:25 PM,6:27,,,Diogu 5' Turnaround Jump Shot (2 PTS) (Bynum 2 AST),43 - 40,-3
+0020501014,178,2,1,2,9:25 PM,6:14,MISS Nowitzki 17' Jump Shot,,,,
+0020501014,179,4,0,2,9:25 PM,6:12,,,Fisher REBOUND (Off:1 Def:1),,
+0020501014,180,1,1,2,9:25 PM,6:06,,,Murphy 25' 3PT Jump Shot (5 PTS) (Fisher 3 AST),46 - 40,-6
+0020501014,181,1,42,2,9:26 PM,5:47,Daniels  Driving Layup (6 PTS),,,46 - 42,-4
+0020501014,182,2,41,2,9:26 PM,5:29,,,MISS Bynum  Running Layup,,
+0020501014,183,4,0,2,9:26 PM,5:27,Nowitzki REBOUND (Off:1 Def:2),,,,
+0020501014,184,1,1,2,9:26 PM,5:21,Nowitzki 17' Jump Shot (18 PTS) (Daniels 3 AST),,,46 - 44,-2
+0020501014,185,9,1,2,9:26 PM,5:06,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020501014,187,8,0,2,9:28 PM,5:06,SUB: Diop FOR Mbenga,,,,
+0020501014,188,8,0,2,9:28 PM,5:06,,,SUB: Richardson FOR Bynum,,
+0020501014,189,1,44,2,9:29 PM,4:59,,,Richardson  Reverse Layup (8 PTS) (Ellis 2 AST),48 - 44,-4
+0020501014,190,9,2,2,9:29 PM,4:53,MAVERICKS Timeout: Short (Full 2 Short 1),,,,
+0020501014,193,1,8,2,9:30 PM,4:37,Marshall  Slam Dunk (8 PTS) (Nowitzki 2 AST),,,48 - 46,-2
+0020501014,194,1,1,2,9:30 PM,4:14,,,Ellis 25' 3PT Jump Shot (12 PTS) (Murphy 1 AST),51 - 46,-5
+0020501014,195,6,2,2,9:31 PM,3:50,,,Diogu S.FOUL (P3.PN),,
+0020501014,196,8,0,2,9:31 PM,3:50,,,SUB: Foyle FOR Diogu,,
+0020501014,197,3,11,2,9:31 PM,3:50,Nowitzki Free Throw 1 of 2 (19 PTS),,,51 - 47,-4
+0020501014,198,8,0,2,9:31 PM,3:50,SUB: Stackhouse FOR Daniels,,,,
+0020501014,199,3,12,2,9:31 PM,3:50,Nowitzki Free Throw 2 of 2 (20 PTS),,,51 - 48,-3
+0020501014,200,2,3,2,9:32 PM,3:32,,,MISS Foyle 9' Hook Shot,,
+0020501014,201,4,0,2,9:32 PM,3:31,,,Warriors Rebound,,
+0020501014,202,2,1,2,9:32 PM,3:14,,,MISS Ellis 25' 3PT Jump Shot,,
+0020501014,203,4,0,2,9:33 PM,3:12,Diop REBOUND (Off:1 Def:4),,,,
+0020501014,206,5,41,2,9:33 PM,3:11,Armstrong Poss Lost Ball Turnover (P1.T11),,,,
+0020501014,207,6,3,2,9:33 PM,3:11,Armstrong L.B.FOUL (P1.T2),,,,
+0020501014,208,6,4,2,9:33 PM,3:01,,,Ellis OFF.Foul (P1),,
+0020501014,209,5,5,2,9:33 PM,3:01,,,Ellis Foul Turnover (P1.T3),,
+0020501014,210,8,0,2,9:34 PM,3:01,,,SUB: Dunleavy FOR Ellis,,
+0020501014,211,2,63,2,9:34 PM,2:52,MISS Stackhouse 16' Fadeaway Jumper,,,,
+0020501014,212,4,0,2,9:34 PM,2:51,MAVERICKS Rebound,,,,
+0020501014,213,9,4,2,9:34 PM,2:51,,,,,
+0020501014,217,2,1,2,9:37 PM,2:36,MISS Stackhouse 21' Jump Shot,,,,
+0020501014,218,4,0,2,9:37 PM,2:36,Nowitzki REBOUND (Off:2 Def:2),,,,
+0020501014,219,6,3,2,9:37 PM,2:36,,,Foyle L.B.FOUL (P2.PN),,
+0020501014,220,3,11,2,9:37 PM,2:36,Nowitzki Free Throw 1 of 2 (21 PTS),,,51 - 49,-2
+0020501014,221,3,12,2,9:37 PM,2:36,Nowitzki Free Throw 2 of 2 (22 PTS),,,51 - 50,-1
+0020501014,222,6,2,2,9:37 PM,2:21,Diop S.FOUL (P2.T3),,,,
+0020501014,223,3,11,2,9:38 PM,2:21,,,Richardson Free Throw 1 of 2 (9 PTS),52 - 50,-2
+0020501014,224,8,0,2,9:38 PM,2:21,SUB: Dampier FOR Diop,,,,
+0020501014,225,8,0,2,9:38 PM,2:21,SUB: Daniels FOR Marshall,,,,
+0020501014,226,3,12,2,9:38 PM,2:21,,,Richardson Free Throw 2 of 2 (10 PTS),53 - 50,-3
+0020501014,227,2,63,2,9:38 PM,2:04,MISS Nowitzki 15' Fadeaway Jumper,,,,
+0020501014,228,4,0,2,9:39 PM,2:01,,,Fisher REBOUND (Off:1 Def:2),,
+0020501014,229,2,5,2,9:39 PM,1:57,,,MISS Richardson  Layup,,
+0020501014,230,4,0,2,9:39 PM,1:56,Stackhouse REBOUND (Off:0 Def:2),,,,
+0020501014,231,1,42,2,9:39 PM,1:52,Nowitzki  Driving Layup (24 PTS) (Stackhouse 1 AST),,,53 - 52,-1
+0020501014,232,6,2,2,9:39 PM,1:35,Nowitzki S.FOUL (P1.T4),,,,
+0020501014,233,3,11,2,9:39 PM,1:35,,,Fisher Free Throw 1 of 2 (3 PTS),54 - 52,-2
+0020501014,234,8,0,2,9:39 PM,1:35,,,SUB: Ellis FOR Dunleavy,,
+0020501014,235,3,12,2,9:40 PM,1:35,,,MISS Fisher Free Throw 2 of 2,,
+0020501014,236,4,0,2,9:40 PM,1:34,,,Fisher REBOUND (Off:2 Def:2),,
+0020501014,237,1,1,2,9:40 PM,1:26,,,Fisher 24' 3PT Jump Shot (6 PTS) (Ellis 3 AST),57 - 52,-5
+0020501014,238,5,1,2,9:40 PM,1:00,Armstrong Bad Pass Turnover (P2.T12),,Ellis STEAL (1 STL),,
+0020501014,239,2,8,2,9:40 PM,0:56,,,MISS Ellis  Slam Dunk,,
+0020501014,240,4,0,2,9:41 PM,0:56,MAVERICKS Rebound,,,,
+0020501014,241,1,56,2,9:41 PM,0:39,Dampier 4' Running Hook Shot (2 PTS),,,57 - 54,-3
+0020501014,242,2,1,2,9:41 PM,0:29,,,MISS Fisher 16' Jump Shot,,
+0020501014,243,4,0,2,9:41 PM,0:27,Nowitzki REBOUND (Off:2 Def:3),,,,
+0020501014,244,5,8,2,9:42 PM,0:07,Dampier 3 Second Violation Turnover (P3.T13),,,,
+0020501014,245,9,2,2,9:42 PM,0:07,,,Warriors Timeout: Short (Reg.2 Short 1),,
+0020501014,249,2,1,2,9:43 PM,0:00,,,MISS Fisher 22' Jump Shot,,
+0020501014,250,4,0,2,9:43 PM,0:00,Dampier REBOUND (Off:1 Def:2),,,,
+0020501014,251,13,0,2,9:43 PM,0:00,,,,57 - 54,-3
+0020501014,253,12,0,3,10:01 PM,12:00,,,,57 - 54,-3
+0020501014,254,2,1,3,10:01 PM,11:40,,,MISS Fisher 25' 3PT Jump Shot,,
+0020501014,255,4,0,3,10:01 PM,11:38,Diop REBOUND (Off:1 Def:5),,,,
+0020501014,256,1,1,3,10:01 PM,11:33,Terry 17' Jump Shot (10 PTS) (Diop 1 AST),,,57 - 56,-1
+0020501014,257,2,1,3,10:01 PM,11:13,,,MISS Fisher 18' Jump Shot,,
+0020501014,258,4,0,3,10:01 PM,11:12,MAVERICKS Rebound,,,,
+0020501014,259,1,1,3,10:02 PM,10:55,Daniels 17' Jump Shot (8 PTS),,,57 - 58,1
+0020501014,260,1,1,3,10:02 PM,10:34,,,Dunleavy 21' Jump Shot (10 PTS) (Fisher 4 AST),59 - 58,-1
+0020501014,261,6,1,3,10:03 PM,10:25,,,Dunleavy P.FOUL (P3.T1),,
+0020501014,262,2,5,3,10:03 PM,10:17,MISS Daniels  Layup,,,,
+0020501014,263,4,0,3,10:03 PM,10:14,,,Fisher REBOUND (Off:2 Def:3),,
+0020501014,264,2,46,3,10:03 PM,10:02,,,MISS Dunleavy 9' Running Jump Shot,,
+0020501014,265,4,0,3,10:03 PM,9:58,Diop REBOUND (Off:1 Def:6),,,,
+0020501014,266,2,42,3,10:03 PM,9:54,MISS Terry  Driving Layup,,,,
+0020501014,267,4,0,3,10:03 PM,9:53,,,Foyle REBOUND (Off:0 Def:2),,
+0020501014,268,5,1,3,10:03 PM,9:51,Nowitzki STEAL (2 STL),,Richardson Bad Pass Turnover (P1.T4),,
+0020501014,269,1,5,3,10:04 PM,9:45,Terry  Layup (12 PTS) (Nowitzki 3 AST),,,59 - 60,1
+0020501014,270,2,46,3,10:04 PM,9:35,,,MISS Fisher 6' Running Jump Shot,,
+0020501014,271,4,0,3,10:04 PM,9:32,Daniels REBOUND (Off:1 Def:3),,,,
+0020501014,272,1,1,3,10:04 PM,9:24,Daniels 20' Jump Shot (10 PTS) (Terry 4 AST),,,59 - 62,3
+0020501014,273,9,1,3,10:04 PM,9:22,,,Warriors Timeout: Regular (Reg.3 Short 1),,
+0020501014,277,1,1,3,10:06 PM,9:07,,,Richardson 20' Jump Shot (12 PTS),61 - 62,1
+0020501014,278,1,1,3,10:07 PM,8:48,Terry 24' 3PT Jump Shot (15 PTS) (Marshall 1 AST),,,61 - 65,4
+0020501014,279,1,1,3,10:07 PM,8:30,,,Richardson 17' Jump Shot (14 PTS),63 - 65,2
+0020501014,280,1,1,3,10:07 PM,8:13,Nowitzki 25' 3PT Jump Shot (27 PTS),,,63 - 68,5
+0020501014,281,1,63,3,10:08 PM,8:00,,,Richardson 15' Fadeaway Jumper (16 PTS) (Fisher 5 AST),65 - 68,3
+0020501014,282,6,4,3,10:08 PM,7:36,Marshall OFF.Foul (P1),,,,
+0020501014,283,5,5,3,10:08 PM,7:36,Marshall Foul Turnover (P1.T14),,,,
+0020501014,284,2,1,3,10:09 PM,7:12,,,MISS Murphy 19' Jump Shot,,
+0020501014,285,4,0,3,10:09 PM,7:10,Diop REBOUND (Off:1 Def:7),,,,
+0020501014,286,1,42,3,10:09 PM,7:03,Nowitzki  Driving Layup (29 PTS) (Terry 5 AST),,,65 - 70,5
+0020501014,287,2,1,3,10:09 PM,6:45,,,MISS Richardson 24' 3PT Jump Shot,,
+0020501014,288,4,0,3,10:09 PM,6:43,,,Foyle REBOUND (Off:1 Def:2),,
+0020501014,289,6,2,3,10:09 PM,6:43,Nowitzki S.FOUL (P2.T1),,,,
+0020501014,290,3,11,3,10:09 PM,6:43,,,Foyle Free Throw 1 of 2 (5 PTS),66 - 70,4
+0020501014,291,3,12,3,10:09 PM,6:43,,,Foyle Free Throw 2 of 2 (6 PTS),67 - 70,3
+0020501014,292,1,63,3,10:10 PM,6:26,Nowitzki 15' Fadeaway Jumper (31 PTS) (Terry 6 AST),,,67 - 72,5
+0020501014,293,6,2,3,10:10 PM,6:26,,,Murphy S.FOUL (P1.T2),,
+0020501014,294,3,10,3,10:10 PM,6:26,Nowitzki Free Throw 1 of 1 (32 PTS),,,67 - 73,6
+0020501014,295,6,1,3,10:11 PM,6:16,Daniels P.FOUL (P3.T2),,,,
+0020501014,296,2,1,3,10:11 PM,6:03,,,MISS Foyle 15' Jump Shot,,
+0020501014,297,4,0,3,10:11 PM,6:01,Marshall REBOUND (Off:0 Def:3),,,,
+0020501014,298,2,1,3,10:11 PM,5:55,MISS Terry  3PT Jump Shot,,,,
+0020501014,299,4,0,3,10:11 PM,5:53,,,Murphy REBOUND (Off:0 Def:1),,
+0020501014,300,1,1,3,10:12 PM,5:41,,,Dunleavy 24' 3PT Jump Shot (13 PTS) (Murphy 2 AST),70 - 73,3
+0020501014,301,2,56,3,10:12 PM,5:18,MISS Nowitzki 8' Running Hook Shot,,,,
+0020501014,302,4,0,3,10:12 PM,5:17,,,Warriors Rebound,,
+0020501014,303,8,0,3,10:12 PM,5:17,,,SUB: Biedrins FOR Foyle,,
+0020501014,304,8,0,3,10:12 PM,5:06,SUB: Dampier FOR Diop,,,,
+0020501014,305,1,1,3,10:13 PM,4:53,,,Richardson 16' Jump Shot (18 PTS),72 - 73,1
+0020501014,306,6,1,3,10:13 PM,4:36,,,Fisher P.FOUL (P1.T3),,
+0020501014,307,2,46,3,10:14 PM,4:23,MISS Marshall 11' Running Jump Shot,,,,
+0020501014,308,4,0,3,10:14 PM,4:19,,,Murphy REBOUND (Off:0 Def:2),,
+0020501014,309,6,1,3,10:14 PM,4:10,Daniels P.FOUL (P4.T3),,,,
+0020501014,310,8,0,3,10:14 PM,4:10,SUB: Stackhouse FOR Daniels,,,,
+0020501014,311,2,41,3,10:14 PM,4:04,Dampier BLOCK (1 BLK),,MISS Dunleavy  Running Layup,,
+0020501014,312,4,0,3,10:14 PM,4:01,,,Dunleavy REBOUND (Off:1 Def:2),,
+0020501014,313,1,1,3,10:14 PM,3:57,,,Fisher 25' 3PT Jump Shot (9 PTS) (Dunleavy 3 AST),75 - 73,-2
+0020501014,314,2,5,3,10:15 PM,3:35,MISS Dampier  Layup,,,,
+0020501014,315,4,0,3,10:15 PM,3:33,,,Dunleavy REBOUND (Off:1 Def:3),,
+0020501014,316,1,1,3,10:15 PM,3:28,,,Richardson 24' 3PT Jump Shot (21 PTS) (Dunleavy 4 AST),78 - 73,-5
+0020501014,317,9,1,3,10:15 PM,3:25,MAVERICKS Timeout: Regular (Full 3 Short 1),,,,
+0020501014,319,8,0,3,10:17 PM,3:25,SUB: Powell FOR Marshall,,,,
+0020501014,321,1,1,3,10:18 PM,3:11,Terry 25' 3PT Jump Shot (18 PTS) (Nowitzki 4 AST),,,78 - 76,-2
+0020501014,322,1,1,3,10:18 PM,2:51,,,Richardson 21' Jump Shot (23 PTS),80 - 76,-4
+0020501014,323,1,46,3,10:18 PM,2:28,Terry 17' Running Jump Shot (20 PTS),,,80 - 78,-2
+0020501014,324,1,1,3,10:18 PM,2:14,,,Richardson 25' 3PT Jump Shot (26 PTS) (Fisher 6 AST),83 - 78,-5
+0020501014,325,2,63,3,10:19 PM,1:58,MISS Stackhouse 16' Fadeaway Jumper,,,,
+0020501014,326,4,0,3,10:19 PM,1:53,,,Biedrins REBOUND (Off:2 Def:1),,
+0020501014,327,1,46,3,10:19 PM,1:47,,,Dunleavy 8' Running Jump Shot (15 PTS),85 - 78,-7
+0020501014,328,6,2,3,10:19 PM,1:47,Dampier S.FOUL (P3.T4),,,,
+0020501014,329,3,10,3,10:19 PM,1:47,,,Dunleavy Free Throw 1 of 1 (16 PTS),86 - 78,-8
+0020501014,330,6,2,3,10:20 PM,1:32,,,Murphy S.FOUL (P2.T4),,
+0020501014,332,3,11,3,10:20 PM,1:32,Nowitzki Free Throw 1 of 2 (33 PTS),,,86 - 79,-7
+0020501014,333,3,12,3,10:20 PM,1:32,Nowitzki Free Throw 2 of 2 (34 PTS),,,86 - 80,-6
+0020501014,334,6,2,3,10:21 PM,1:21,Powell S.FOUL (P1.PN),,,,
+0020501014,335,3,11,3,10:21 PM,1:21,,,Richardson Free Throw 1 of 2 (27 PTS),87 - 80,-7
+0020501014,336,3,12,3,10:21 PM,1:21,,,Richardson Free Throw 2 of 2 (28 PTS),88 - 80,-8
+0020501014,337,6,1,3,10:22 PM,1:08,,,Murphy P.FOUL (P3.PN),,
+0020501014,338,3,11,3,10:22 PM,1:08,Nowitzki Free Throw 1 of 2 (35 PTS),,,88 - 81,-7
+0020501014,339,8,0,3,10:22 PM,1:08,SUB: Armstrong FOR Terry,,,,
+0020501014,340,8,0,3,10:22 PM,1:08,,,SUB: Ellis FOR Murphy,,
+0020501014,341,3,12,3,10:22 PM,1:08,Nowitzki Free Throw 2 of 2 (36 PTS),,,88 - 82,-6
+0020501014,342,2,42,3,10:23 PM,0:56,Dampier BLOCK (2 BLK),,MISS Ellis  Driving Layup,,
+0020501014,343,4,0,3,10:23 PM,0:56,,,Warriors Rebound,,
+0020501014,344,2,1,3,10:23 PM,0:47,,,MISS Richardson 19' Jump Shot,,
+0020501014,345,4,0,3,10:23 PM,0:45,Nowitzki REBOUND (Off:2 Def:4),,,,
+0020501014,346,5,2,3,10:23 PM,0:40,Nowitzki Lost Ball Turnover (P2.T15),,Fisher STEAL (3 STL),,
+0020501014,347,1,42,3,10:23 PM,0:36,,,Richardson  Driving Layup (30 PTS) (Fisher 7 AST),90 - 82,-8
+0020501014,348,1,47,3,10:24 PM,0:14,Powell 9' Turnaround Jump Shot (2 PTS),,,90 - 84,-6
+0020501014,349,6,2,3,10:24 PM,0:14,,,Biedrins S.FOUL (P3.PN),,
+0020501014,351,8,0,3,10:24 PM,0:14,SUB: Marshall FOR Nowitzki,,,,
+0020501014,353,8,0,3,10:24 PM,0:14,,,SUB: Diogu FOR Biedrins,,
+0020501014,354,3,10,3,10:24 PM,0:14,Powell Free Throw 1 of 1 (3 PTS),,,90 - 85,-5
+0020501014,355,6,4,3,10:25 PM,0:04,,,Fisher OFF.Foul (P2),,
+0020501014,356,5,5,3,10:25 PM,0:04,,,Fisher Foul Turnover (P2.T5),,
+0020501014,357,8,0,3,10:25 PM,0:04,SUB: Nowitzki FOR Marshall,,,,
+0020501014,359,8,0,3,10:25 PM,0:04,SUB: Terry FOR Powell,,,,
+0020501014,360,5,1,3,10:25 PM,0:03,Nowitzki Bad Pass Turnover (P3.T16),,Fisher STEAL (4 STL),,
+0020501014,361,6,2,3,10:26 PM,0:02,Nowitzki S.FOUL (P3.PN),,,,
+0020501014,362,3,11,3,10:26 PM,0:02,,,Fisher Free Throw 1 of 2 (10 PTS),91 - 85,-6
+0020501014,363,3,12,3,10:26 PM,0:02,,,Fisher Free Throw 2 of 2 (11 PTS),92 - 85,-7
+0020501014,364,2,1,3,10:26 PM,0:00,MISS Armstrong 41' 3PT Jump Shot,,,,
+0020501014,365,4,0,3,10:27 PM,0:00,MAVERICKS Rebound,,,,
+0020501014,366,13,0,3,10:27 PM,0:00,,,,92 - 85,-7
+0020501014,368,12,0,4,10:29 PM,12:00,,,,92 - 85,-7
+0020501014,369,1,41,4,10:29 PM,11:40,Daniels  Running Layup (12 PTS) (Dampier 2 AST),,,92 - 87,-5
+0020501014,370,2,42,4,10:30 PM,11:20,,,MISS Dunleavy  Driving Layup,,
+0020501014,371,4,0,4,10:30 PM,11:17,Dampier REBOUND (Off:1 Def:3),,,,
+0020501014,372,1,42,4,10:30 PM,11:14,Terry  Driving Layup (22 PTS),,,92 - 89,-3
+0020501014,373,2,47,4,10:30 PM,10:52,,,MISS Diogu 8' Turnaround Jump Shot,,
+0020501014,374,4,0,4,10:30 PM,10:49,Powell REBOUND (Off:0 Def:1),,,,
+0020501014,375,5,1,4,10:31 PM,10:39,Stackhouse Bad Pass Turnover (P2.T17),,Ellis STEAL (2 STL),,
+0020501014,376,6,4,4,10:31 PM,10:35,,,Ellis OFF.Foul (P2),,
+0020501014,377,5,5,4,10:31 PM,10:35,,,Ellis Foul Turnover (P2.T6),,
+0020501014,378,2,1,4,10:31 PM,10:17,MISS Terry 26' 3PT Jump Shot,,,,
+0020501014,379,4,0,4,10:31 PM,10:15,,,Dunleavy REBOUND (Off:1 Def:4),,
+0020501014,380,6,1,4,10:31 PM,10:04,Daniels P.FOUL (P5.T1),,,,
+0020501014,381,8,0,4,10:32 PM,10:04,SUB: Armstrong FOR Daniels,,,,
+0020501014,382,6,2,4,10:32 PM,9:58,Dampier S.FOUL (P4.T2),,,,
+0020501014,383,3,11,4,10:32 PM,9:58,,,Diogu Free Throw 1 of 2 (3 PTS),93 - 89,-4
+0020501014,384,3,12,4,10:32 PM,9:58,,,Diogu Free Throw 2 of 2 (4 PTS),94 - 89,-5
+0020501014,385,6,2,4,10:33 PM,9:40,,,Ellis S.FOUL (P3.T1),,
+0020501014,386,3,11,4,10:33 PM,9:40,Stackhouse Free Throw 1 of 2 (1 PTS),,,94 - 90,-4
+0020501014,387,3,12,4,10:33 PM,9:40,Stackhouse Free Throw 2 of 2 (2 PTS),,,94 - 91,-3
+0020501014,388,5,1,4,10:34 PM,9:33,Terry STEAL (1 STL),,Bynum Bad Pass Turnover (P1.T7),,
+0020501014,389,6,2,4,10:34 PM,9:31,,,Bynum S.FOUL (P1.T2),,
+0020501014,390,3,11,4,10:34 PM,9:31,Terry Free Throw 1 of 2 (23 PTS),,,94 - 92,-2
+0020501014,391,3,12,4,10:35 PM,9:31,Terry Free Throw 2 of 2 (24 PTS),,,94 - 93,-1
+0020501014,392,2,1,4,10:35 PM,9:16,,,MISS Dunleavy 26' 3PT Jump Shot,,
+0020501014,393,4,0,4,10:35 PM,9:14,Dampier REBOUND (Off:1 Def:4),,,,
+0020501014,394,5,1,4,10:35 PM,9:07,Terry Bad Pass Turnover (P3.T18),,Ellis STEAL (3 STL),,
+0020501014,395,2,5,4,10:35 PM,9:02,,,MISS Ellis  Layup,,
+0020501014,396,4,0,4,10:35 PM,9:00,,,Diogu REBOUND (Off:1 Def:0),,
+0020501014,397,1,5,4,10:35 PM,8:59,,,Diogu  Layup (6 PTS),96 - 93,-3
+0020501014,398,6,11,4,10:36 PM,8:59,,,,,
+0020501014,399,9,4,4,10:36 PM,8:59,,,,,
+0020501014,401,8,0,4,10:38 PM,8:59,SUB: Nowitzki FOR Powell,,,,
+0020501014,402,8,0,4,10:38 PM,8:59,,,SUB: Richardson FOR Pietrus,,
+0020501014,403,3,16,4,10:38 PM,8:59,,,Dunleavy Free Throw Technical (17 PTS),97 - 93,-4
+0020501014,404,2,1,4,10:38 PM,8:43,MISS Terry 25' 3PT Jump Shot,,,,
+0020501014,406,4,0,4,10:39 PM,8:39,Nowitzki REBOUND (Off:3 Def:4),,,,
+0020501014,405,1,4,4,10:39 PM,8:39,Nowitzki  Tip Shot (38 PTS),,,97 - 95,-2
+0020501014,407,2,1,4,10:39 PM,8:26,,,MISS Dunleavy 18' Jump Shot,,
+0020501014,408,4,0,4,10:39 PM,8:24,Terry REBOUND (Off:0 Def:2),,,,
+0020501014,409,1,1,4,10:39 PM,8:18,Nowitzki 24' 3PT Jump Shot (41 PTS) (Terry 7 AST),,,97 - 98,1
+0020501014,410,5,8,4,10:39 PM,7:58,,,Diogu 3 Second Violation Turnover (P1.T8),,
+0020501014,411,2,1,4,10:40 PM,7:39,MISS Nowitzki 8' Jump Shot,,,,
+0020501014,412,4,0,4,10:40 PM,7:37,Armstrong REBOUND (Off:1 Def:1),,,,
+0020501014,413,2,1,4,10:40 PM,7:32,MISS Stackhouse  3PT Jump Shot,,,,
+0020501014,414,4,0,4,10:40 PM,7:29,Dampier REBOUND (Off:2 Def:4),,,,
+0020501014,415,2,53,4,10:40 PM,7:28,MISS Dampier  Tip Shot,,,,
+0020501014,417,4,0,4,10:40 PM,7:27,Dampier REBOUND (Off:3 Def:4),,,,
+0020501014,416,2,53,4,10:40 PM,7:27,MISS Dampier  Tip Shot,,,,
+0020501014,419,4,0,4,10:40 PM,7:25,Dampier REBOUND (Off:4 Def:4),,,,
+0020501014,418,2,53,4,10:40 PM,7:25,MISS Dampier  Tip Shot,,,,
+0020501014,420,4,0,4,10:40 PM,7:24,,,Ellis REBOUND (Off:0 Def:2),,
+0020501014,421,1,5,4,10:40 PM,7:10,,,Diogu  Layup (8 PTS) (Bynum 3 AST),99 - 98,-1
+0020501014,422,1,1,4,10:41 PM,6:56,Nowitzki 19' Jump Shot (43 PTS),,,99 - 100,1
+0020501014,424,1,1,4,10:41 PM,6:27,,,Richardson 22' Jump Shot (32 PTS),101 - 100,-1
+0020501014,425,2,1,4,10:41 PM,6:07,MISS Nowitzki 25' 3PT Jump Shot,,,,
+0020501014,426,4,0,4,10:41 PM,6:05,Dampier REBOUND (Off:5 Def:4),,,,
+0020501014,427,2,1,4,10:41 PM,6:02,MISS Terry 25' 3PT Jump Shot,,,,
+0020501014,428,4,0,4,10:41 PM,6:00,,,Ellis REBOUND (Off:0 Def:3),,
+0020501014,429,1,42,4,10:42 PM,5:54,,,Dunleavy  Driving Layup (19 PTS) (Ellis 4 AST),103 - 100,-3
+0020501014,430,9,1,4,10:42 PM,5:53,MAVERICKS Timeout: Regular (Full 4 Short 1),,,,
+0020501014,433,8,0,4,10:44 PM,5:53,,,SUB: Fisher FOR Bynum,,
+0020501014,434,8,0,4,10:44 PM,5:53,,,SUB: Foyle FOR Diogu,,
+0020501014,435,7,5,4,10:44 PM,5:41,,,Ellis Violation:Kicked Ball,,
+0020501014,437,1,1,4,10:44 PM,5:35,Armstrong 24' 3PT Jump Shot (7 PTS) (Stackhouse 2 AST),,,103 - 103,TIE
+0020501014,438,2,1,4,10:45 PM,5:14,,,MISS Fisher 24' 3PT Jump Shot,,
+0020501014,439,4,0,4,10:45 PM,5:11,,,Richardson REBOUND (Off:1 Def:0),,
+0020501014,440,2,5,4,10:45 PM,5:08,,,MISS Dunleavy  Layup,,
+0020501014,441,4,0,4,10:45 PM,5:05,Dampier REBOUND (Off:5 Def:5),,,,
+0020501014,442,1,1,4,10:45 PM,4:59,Nowitzki 25' 3PT Jump Shot (46 PTS) (Armstrong 1 AST),,,103 - 106,3
+0020501014,443,2,1,4,10:45 PM,4:32,,,MISS Foyle 4' Jump Shot,,
+0020501014,445,4,0,4,10:45 PM,4:31,,,Foyle REBOUND (Off:2 Def:2),,
+0020501014,444,2,5,4,10:45 PM,4:31,,,MISS Foyle  Layup,,
+0020501014,446,4,0,4,10:45 PM,4:28,,,Foyle REBOUND (Off:3 Def:2),,
+0020501014,447,2,1,4,10:46 PM,4:25,,,MISS Richardson 24' 3PT Jump Shot,,
+0020501014,449,4,0,4,10:46 PM,4:22,,,Dunleavy REBOUND (Off:2 Def:4),,
+0020501014,448,1,4,4,10:46 PM,4:22,,,Dunleavy  Tip Shot (21 PTS),105 - 106,1
+0020501014,450,2,1,4,10:46 PM,4:06,MISS Terry 24' 3PT Jump Shot,,,,
+0020501014,451,4,0,4,10:46 PM,4:04,,,Richardson REBOUND (Off:1 Def:1),,
+0020501014,452,6,1,4,10:46 PM,3:53,Armstrong P.FOUL (P2.T3),,,,
+0020501014,453,8,0,4,10:46 PM,3:53,SUB: Diop FOR Dampier,,,,
+0020501014,454,1,1,4,10:47 PM,3:43,,,Fisher 20' Jump Shot (13 PTS),107 - 106,-1
+0020501014,455,6,2,4,10:47 PM,3:24,,,Foyle S.FOUL (P3.T3),,
+0020501014,456,3,11,4,10:47 PM,3:24,Nowitzki Free Throw 1 of 2 (47 PTS),,,107 - 107,TIE
+0020501014,457,3,12,4,10:48 PM,3:24,Nowitzki Free Throw 2 of 2 (48 PTS),,,107 - 108,1
+0020501014,458,5,1,4,10:48 PM,3:12,,,Fisher Bad Pass Turnover (P3.T9),,
+0020501014,459,5,1,4,10:48 PM,2:55,Nowitzki Bad Pass Turnover (P4.T19),,Fisher STEAL (5 STL),,
+0020501014,460,2,1,4,10:49 PM,2:50,,,MISS Dunleavy 24' 3PT Jump Shot,,
+0020501014,461,4,0,4,10:49 PM,2:47,,,Dunleavy REBOUND (Off:3 Def:4),,
+0020501014,462,5,1,4,10:49 PM,2:35,Armstrong STEAL (1 STL),,Dunleavy Bad Pass Turnover (P1.T10),,
+0020501014,463,1,47,4,10:49 PM,2:28,Nowitzki 17' Turnaround Jump Shot (50 PTS) (Armstrong 2 AST),,,107 - 110,3
+0020501014,464,9,1,4,10:49 PM,2:27,,,Warriors Timeout: Regular (Reg.4 Short 1),,
+0020501014,468,2,5,4,10:51 PM,2:14,Diop BLOCK (1 BLK),,MISS Foyle  Layup,,
+0020501014,469,4,0,4,10:51 PM,2:11,Nowitzki REBOUND (Off:3 Def:5),,,,
+0020501014,470,6,1,4,10:52 PM,1:53,,,Fisher P.FOUL (P3.T4),,
+0020501014,471,2,63,4,10:52 PM,1:44,MISS Nowitzki 17' Fadeaway Jumper,,,,
+0020501014,472,4,0,4,10:52 PM,1:43,,,Dunleavy REBOUND (Off:3 Def:5),,
+0020501014,473,6,4,4,10:52 PM,1:34,,,Dunleavy OFF.Foul (P4),,
+0020501014,474,5,5,4,10:52 PM,1:34,,,Dunleavy Foul Turnover (P2.T11),,
+0020501014,475,1,1,4,10:53 PM,1:18,Terry 21' Jump Shot (26 PTS) (Armstrong 3 AST),,,107 - 112,5
+0020501014,476,9,1,4,10:53 PM,1:14,,,Warriors Timeout: Regular (Reg.5 Short 1),,
+0020501014,479,1,1,4,10:55 PM,1:09,,,Richardson 25' 3PT Jump Shot (35 PTS) (Dunleavy 5 AST),110 - 112,2
+0020501014,480,1,1,4,10:55 PM,0:53,Terry 14' Jump Shot (28 PTS) (Nowitzki 5 AST),,,110 - 114,4
+0020501014,481,6,1,4,10:56 PM,0:47,Terry P.FOUL (P4.T4),,,,
+0020501014,482,2,1,4,10:56 PM,0:40,,,MISS Richardson 24' 3PT Jump Shot,,
+0020501014,483,4,0,4,10:56 PM,0:38,Diop REBOUND (Off:1 Def:8),,,,
+0020501014,484,6,1,4,10:56 PM,0:35,,,Richardson P.FOUL (P1.PN),,
+0020501014,485,3,11,4,10:56 PM,0:35,Armstrong Free Throw 1 of 2 (8 PTS),,,110 - 115,5
+0020501014,486,3,12,4,10:57 PM,0:35,Armstrong Free Throw 2 of 2 (9 PTS),,,110 - 116,6
+0020501014,487,9,1,4,10:57 PM,0:35,,,Warriors Timeout: Regular (Reg.6 Short 1),,
+0020501014,490,8,0,4,10:58 PM,0:35,,,SUB: Murphy FOR Foyle,,
+0020501014,491,8,0,4,10:59 PM,0:35,SUB: Daniels FOR Diop,,,,
+0020501014,492,1,1,4,10:59 PM,0:30,,,Fisher 21' Jump Shot (15 PTS) (Richardson 4 AST),112 - 116,4
+0020501014,493,9,1,4,11:00 PM,0:30,MAVERICKS Timeout: Regular (Full 5 Short 1),,,,
+0020501014,497,6,1,4,11:01 PM,0:28,,,Murphy P.FOUL (P4.PN),,
+0020501014,498,3,11,4,11:02 PM,0:28,Nowitzki Free Throw 1 of 2 (51 PTS),,,112 - 117,5
+0020501014,499,3,12,4,11:02 PM,0:28,MISS Nowitzki Free Throw 2 of 2,,,,
+0020501014,500,4,0,4,11:02 PM,0:27,,,Murphy REBOUND (Off:0 Def:3),,
+0020501014,501,2,1,4,11:02 PM,0:21,,,MISS Fisher 25' 3PT Jump Shot,,
+0020501014,503,4,0,4,11:02 PM,0:18,Nowitzki REBOUND (Off:3 Def:6),,,,
+0020501014,502,5,1,4,11:02 PM,0:18,Nowitzki Bad Pass Turnover (P5.T20),,Fisher STEAL (6 STL),,
+0020501014,504,1,5,4,11:02 PM,0:18,,,Murphy  Layup (7 PTS),114 - 117,3
+0020501014,505,6,2,4,11:02 PM,0:18,Stackhouse S.FOUL (P1.PN),,,,
+0020501014,508,3,10,4,11:03 PM,0:18,,,Murphy Free Throw 1 of 1 (8 PTS),115 - 117,2
+0020501014,509,9,1,4,11:03 PM,0:18,MAVERICKS Timeout: Regular (Full 6 Short 1),,,,
+0020501014,512,8,0,4,11:04 PM,0:18,,,SUB: Pietrus FOR Murphy,,
+0020501014,513,6,1,4,11:04 PM,0:16,,,Dunleavy P.FOUL (P5.PN),,
+0020501014,514,3,11,4,11:05 PM,0:16,MISS Armstrong Free Throw 1 of 2,,,,
+0020501014,515,4,1,4,11:05 PM,0:16,MAVERICKS Rebound,,,,
+0020501014,516,8,0,4,11:05 PM,0:16,,,SUB: Murphy FOR Pietrus,,
+0020501014,517,3,12,4,11:05 PM,0:16,Armstrong Free Throw 2 of 2 (10 PTS),,,115 - 118,3
+0020501014,518,9,2,4,11:05 PM,0:16,,,Warriors Timeout: Short (Reg.6 Short 2),,
+0020501014,522,6,1,4,11:07 PM,0:09,Armstrong P.FOUL (P3.PN),,,,
+0020501014,523,3,11,4,11:07 PM,0:09,,,Richardson Free Throw 1 of 2 (36 PTS),116 - 118,2
+0020501014,524,8,0,4,11:07 PM,0:09,SUB: Dampier FOR Daniels,,,,
+0020501014,525,3,12,4,11:07 PM,0:09,,,Richardson Free Throw 2 of 2 (37 PTS),117 - 118,1
+0020501014,526,9,1,4,11:08 PM,0:09,MAVERICKS Timeout: Regular (Full 7 Short 1),,,,
+0020501014,527,8,0,4,11:08 PM,0:09,SUB: Daniels FOR Dampier,,,,
+0020501014,528,8,0,4,11:09 PM,0:09,,,SUB: Pietrus FOR Murphy,,
+0020501014,529,6,1,4,11:09 PM,0:07,,,Pietrus P.FOUL (P3.PN),,
+0020501014,530,3,11,4,11:09 PM,0:07,Stackhouse Free Throw 1 of 2 (3 PTS),,,117 - 119,2
+0020501014,531,8,0,4,11:09 PM,0:07,,,SUB: Murphy FOR Pietrus,,
+0020501014,532,3,12,4,11:09 PM,0:07,Stackhouse Free Throw 2 of 2 (4 PTS),,,117 - 120,3
+0020501014,533,6,1,4,11:10 PM,0:05,Terry P.FOUL (P5.PN),,,,
+0020501014,534,3,11,4,11:10 PM,0:05,,,Fisher Free Throw 1 of 2 (16 PTS),118 - 120,2
+0020501014,535,8,0,4,11:11 PM,0:05,SUB: Dampier FOR Daniels,,,,
+0020501014,536,3,12,4,11:11 PM,0:05,,,Fisher Free Throw 2 of 2 (17 PTS),119 - 120,1
+0020501014,537,6,1,4,11:11 PM,0:04,,,Ellis P.FOUL (P4.PN),,
+0020501014,538,3,11,4,11:11 PM,0:04,Terry Free Throw 1 of 2 (29 PTS),,,119 - 121,2
+0020501014,539,8,0,4,11:12 PM,0:04,SUB: Daniels FOR Dampier,,,,
+0020501014,540,3,12,4,11:12 PM,0:04,MISS Terry Free Throw 2 of 2,,,,
+0020501014,541,4,0,4,11:12 PM,0:03,,,Richardson REBOUND (Off:1 Def:2),,
+0020501014,542,1,1,4,11:12 PM,0:00,,,Richardson 24' 3PT Jump Shot (40 PTS),122 - 121,-1
+0020501014,543,18,0,4,11:13 PM,0:00,,,,122 - 121,-1
+0020501014,544,13,0,4,11:14 PM,0:00,,,,122 - 121,-1

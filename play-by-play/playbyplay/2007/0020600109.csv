@@ -1,0 +1,479 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020600109,0,12,0,1,7:13 PM,12:00,,,,,
+0020600109,1,10,0,1,7:13 PM,12:00,Jump Ball Ilgauskas vs. Magloire: Tip to Snow,,,,
+0020600109,2,1,5,1,7:14 PM,11:46,Snow 2' Layup (2 PTS) (Hughes 1 AST),,,0 - 2,2
+0020600109,3,2,5,1,7:15 PM,11:21,,,MISS Udoka 2' Layup,,
+0020600109,4,4,0,1,7:15 PM,11:20,Gooden REBOUND (Off:0 Def:1),,,,
+0020600109,5,1,61,1,7:15 PM,11:02,Gooden 1' Driving Finger Roll (2 PTS),,,0 - 4,4
+0020600109,6,5,21,1,7:15 PM,10:43,,,Graham Palming Turnover (P1.T1),,
+0020600109,7,1,1,1,7:16 PM,10:43,Hughes 18' Jump Shot (2 PTS),,,0 - 6,6
+0020600109,8,6,2,1,7:16 PM,10:26,Hughes S.FOUL (P1.T1),,,,
+0020600109,9,3,11,1,7:16 PM,10:26,,,Randolph Free Throw 1 of 2 (1 PTS),1 - 6,5
+0020600109,10,3,12,1,7:16 PM,10:26,,,Randolph Free Throw 2 of 2 (2 PTS),2 - 6,4
+0020600109,11,6,2,1,7:17 PM,10:10,,,Graham S.FOUL (P1.T1),,
+0020600109,12,3,11,1,7:17 PM,10:10,MISS Hughes Free Throw 1 of 2,,,,
+0020600109,13,4,1,1,7:17 PM,10:10,CAVALIERS Rebound,,,,
+0020600109,14,3,12,1,7:17 PM,10:10,MISS Hughes Free Throw 2 of 2,,,,
+0020600109,15,4,0,1,7:17 PM,10:08,Ilgauskas REBOUND (Off:1 Def:0),,,,
+0020600109,16,2,43,1,7:18 PM,9:48,MISS Ilgauskas 1' Alley Oop Layup,,,,
+0020600109,17,4,0,1,7:18 PM,9:46,Ilgauskas REBOUND (Off:2 Def:0),,,,
+0020600109,18,2,3,1,7:18 PM,9:42,MISS Ilgauskas 2' Hook Shot,,,,
+0020600109,19,4,0,1,7:18 PM,9:40,,,Magloire REBOUND (Off:0 Def:1),,
+0020600109,20,9,1,1,7:18 PM,9:34,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,
+0020600109,23,2,3,1,7:20 PM,9:19,,,MISS Magloire 5' Hook Shot,,
+0020600109,24,4,0,1,7:20 PM,9:16,Ilgauskas REBOUND (Off:2 Def:1),,,,
+0020600109,25,1,1,1,7:21 PM,9:04,Gooden 17' Jump Shot (4 PTS),,,2 - 8,6
+0020600109,26,2,1,1,7:21 PM,8:52,,,MISS Graham  3PT Jump Shot,,
+0020600109,27,4,0,1,7:21 PM,8:48,Snow REBOUND (Off:0 Def:1),,,,
+0020600109,28,1,8,1,7:21 PM,8:46,Hughes 1' Slam Dunk (4 PTS) (James 1 AST),,,2 - 10,8
+0020600109,29,6,2,1,7:21 PM,8:23,James S.FOUL (P1.T2),,,,
+0020600109,30,3,11,1,7:22 PM,8:23,,,Randolph Free Throw 1 of 2 (3 PTS),3 - 10,7
+0020600109,31,3,12,1,7:22 PM,8:23,,,MISS Randolph Free Throw 2 of 2,,
+0020600109,32,4,0,1,7:22 PM,8:22,Ilgauskas REBOUND (Off:2 Def:2),,,,
+0020600109,33,2,1,1,7:22 PM,8:14,MISS Hughes 26' 3PT Jump Shot,,,,
+0020600109,34,4,0,1,7:22 PM,8:12,,,Magloire REBOUND (Off:0 Def:2),,
+0020600109,35,6,1,1,7:22 PM,7:59,Snow P.FOUL (P1.T3),,,,
+0020600109,37,1,1,1,7:23 PM,7:44,,,Randolph 19' Jump Shot (5 PTS),5 - 10,5
+0020600109,38,1,1,1,7:23 PM,7:16,Snow 18' Jump Shot (4 PTS) (James 2 AST),,,5 - 12,7
+0020600109,39,6,4,1,7:24 PM,7:01,,,Graham OFF.Foul (P2),,
+0020600109,40,5,5,1,7:24 PM,7:01,,,Graham Foul Turnover (P2.T2),,
+0020600109,41,8,0,1,7:24 PM,7:01,,,SUB: Outlaw FOR Graham,,
+0020600109,42,2,1,1,7:24 PM,6:49,MISS Gooden 15' Jump Shot,,,,
+0020600109,43,4,0,1,7:24 PM,6:48,,,Randolph REBOUND (Off:0 Def:1),,
+0020600109,44,2,3,1,7:25 PM,6:36,Ilgauskas BLOCK (1 BLK),,MISS Magloire 5' Hook Shot,,
+0020600109,45,4,0,1,7:25 PM,6:34,,,Magloire REBOUND (Off:1 Def:2),,
+0020600109,46,6,2,1,7:25 PM,6:30,James S.FOUL (P2.T4),,,,
+0020600109,47,3,11,1,7:25 PM,6:30,,,Outlaw Free Throw 1 of 2 (1 PTS),6 - 12,6
+0020600109,48,8,0,1,7:25 PM,6:30,SUB: Pavlovic FOR James,,,,
+0020600109,49,3,12,1,7:25 PM,6:30,,,MISS Outlaw Free Throw 2 of 2,,
+0020600109,50,4,0,1,7:26 PM,6:30,CAVALIERS Rebound,,,,
+0020600109,51,6,3,1,7:26 PM,6:29,,,Magloire L.B.FOUL (P1.T2),,
+0020600109,52,2,1,1,7:26 PM,6:10,MISS Gooden 18' Jump Shot,,,,
+0020600109,53,4,0,1,7:26 PM,6:08,,,Randolph REBOUND (Off:0 Def:2),,
+0020600109,54,1,1,1,7:26 PM,5:55,,,Randolph 20' Jump Shot (7 PTS) (Jack 1 AST),8 - 12,4
+0020600109,55,5,8,1,7:27 PM,5:36,Ilgauskas 3 Second Violation Turnover (P1.T1),,,,
+0020600109,56,8,0,1,7:27 PM,5:36,SUB: Marshall FOR Ilgauskas,,,,
+0020600109,57,8,0,1,7:27 PM,5:36,SUB: Jones FOR Snow,,,,
+0020600109,59,7,2,1,7:27 PM,5:22,Pavlovic Violation:Defensive Goaltending,,,,
+0020600109,58,1,5,1,7:27 PM,5:22,,,Randolph 2' Layup (9 PTS),10 - 12,2
+0020600109,60,1,5,1,7:28 PM,5:11,Gooden 1' Layup (6 PTS) (Hughes 2 AST),,,10 - 14,4
+0020600109,61,6,2,1,7:28 PM,5:11,,,Magloire S.FOUL (P2.T3),,
+0020600109,62,8,0,1,7:28 PM,5:11,,,SUB: Aldridge FOR Magloire,,
+0020600109,63,3,10,1,7:28 PM,5:11,Gooden Free Throw 1 of 1 (7 PTS),,,10 - 15,5
+0020600109,64,2,1,1,7:29 PM,4:52,,,MISS Jack 26' 3PT Jump Shot,,
+0020600109,65,4,0,1,7:29 PM,4:51,,,Udoka REBOUND (Off:1 Def:0),,
+0020600109,66,2,5,1,7:29 PM,4:49,,,MISS Udoka 1' Layup,,
+0020600109,68,4,0,1,7:29 PM,4:48,,,Aldridge REBOUND (Off:1 Def:0),,
+0020600109,67,1,5,1,7:29 PM,4:48,,,Aldridge 1' Layup (2 PTS),12 - 15,3
+0020600109,69,6,2,1,7:29 PM,4:48,Pavlovic S.FOUL (P1.PN),,,,
+0020600109,70,3,10,1,7:29 PM,4:48,,,Aldridge Free Throw 1 of 1 (3 PTS),13 - 15,2
+0020600109,71,6,1,1,7:29 PM,4:44,,,Aldridge P.FOUL (P1.T4),,
+0020600109,72,2,65,1,7:30 PM,4:34,MISS Gooden 10' Jump Hook Shot,,,,
+0020600109,73,4,0,1,7:30 PM,4:31,,,Aldridge REBOUND (Off:1 Def:1),,
+0020600109,74,5,1,1,7:30 PM,4:10,Jones STEAL (1 STL),,Jack Bad Pass Turnover (P1.T3),,
+0020600109,75,1,5,1,7:30 PM,4:07,Pavlovic 1' Layup (2 PTS) (Jones 1 AST),,,13 - 17,4
+0020600109,76,6,2,1,7:30 PM,4:07,,,Udoka S.FOUL (P1.PN),,
+0020600109,77,8,0,1,7:31 PM,4:07,,,SUB: Dixon FOR Udoka,,
+0020600109,78,3,10,1,7:31 PM,4:07,Pavlovic Free Throw 1 of 1 (3 PTS),,,13 - 18,5
+0020600109,79,6,17,1,7:32 PM,3:51,CAVALIERS T.Foul (Def. 3 Sec Marshall ),,,,
+0020600109,80,3,16,1,7:32 PM,3:51,,,Jack Free Throw Technical (1 PTS),14 - 18,4
+0020600109,81,8,0,1,7:32 PM,3:51,SUB: Varejao FOR Gooden,,,,
+0020600109,82,2,1,1,7:32 PM,3:41,,,MISS Randolph 19' Jump Shot,,
+0020600109,83,4,0,1,7:33 PM,3:40,,,Outlaw REBOUND (Off:1 Def:0),,
+0020600109,84,1,59,1,7:33 PM,3:38,,,Outlaw 1' Finger Roll (3 PTS),16 - 18,2
+0020600109,85,6,17,1,7:33 PM,3:24,,,Trail Blazers T.Foul (Def. 3 Sec Aldridge ),,
+0020600109,86,3,16,1,7:33 PM,3:24,Jones Free Throw Technical (1 PTS),,,16 - 19,3
+0020600109,87,2,1,1,7:33 PM,3:16,MISS Varejao 3' Jump Shot,,Dixon BLOCK (1 BLK),,
+0020600109,88,4,0,1,7:33 PM,3:14,,,Jack REBOUND (Off:0 Def:1),,
+0020600109,89,5,1,1,7:34 PM,3:03,,,Outlaw Bad Pass Turnover (P1.T4),,
+0020600109,90,2,1,1,7:34 PM,2:55,MISS Pavlovic 19' Jump Shot,,,,
+0020600109,91,4,0,1,7:34 PM,2:54,,,Randolph REBOUND (Off:0 Def:3),,
+0020600109,92,2,1,1,7:34 PM,2:42,,,MISS Outlaw 21' Jump Shot,,
+0020600109,93,4,0,1,7:34 PM,2:41,Hughes REBOUND (Off:0 Def:1),,,,
+0020600109,94,1,5,1,7:34 PM,2:36,Varejao 1' Layup (2 PTS) (Hughes 3 AST),,,16 - 21,5
+0020600109,95,2,1,1,7:35 PM,2:16,,,MISS Jack 23' Jump Shot,,
+0020600109,96,4,0,1,7:35 PM,2:15,Marshall REBOUND (Off:0 Def:1),,,,
+0020600109,97,6,2,1,7:35 PM,2:01,,,Dixon S.FOUL (P1.PN),,
+0020600109,98,9,1,1,7:35 PM,2:01,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,
+0020600109,100,8,0,1,7:37 PM,2:01,,,SUB: Rodriguez FOR Jack,,
+0020600109,102,3,11,1,7:37 PM,2:01,Varejao Free Throw 1 of 2 (3 PTS),,,16 - 22,6
+0020600109,103,3,12,1,7:38 PM,2:01,MISS Varejao Free Throw 2 of 2,,,,
+0020600109,104,4,0,1,7:38 PM,2:01,,,Randolph REBOUND (Off:0 Def:4),,
+0020600109,105,6,1,1,7:38 PM,1:44,Varejao P.FOUL (P1.PN),,,,
+0020600109,106,3,11,1,7:38 PM,1:44,,,Randolph Free Throw 1 of 2 (10 PTS),17 - 22,5
+0020600109,107,3,12,1,7:39 PM,1:44,,,Randolph Free Throw 2 of 2 (11 PTS),18 - 22,4
+0020600109,108,2,1,1,7:39 PM,1:27,MISS Hughes 25' 3PT Jump Shot,,,,
+0020600109,109,4,0,1,7:39 PM,1:25,Marshall REBOUND (Off:1 Def:1),,,,
+0020600109,110,2,5,1,7:39 PM,1:15,MISS Marshall 2' Layup,,,,
+0020600109,112,4,0,1,7:39 PM,1:13,Marshall REBOUND (Off:2 Def:1),,,,
+0020600109,111,2,4,1,7:39 PM,1:13,MISS Marshall 1' Tip Shot,,,,
+0020600109,113,4,0,1,7:39 PM,1:11,,,Aldridge REBOUND (Off:1 Def:2),,
+0020600109,114,5,1,1,7:40 PM,0:55,,,Dixon Bad Pass Turnover (P1.T5),,
+0020600109,115,1,1,1,7:40 PM,0:41,Jones 20' Jump Shot (3 PTS),,,18 - 24,6
+0020600109,117,2,1,1,7:40 PM,0:18,Hughes BLOCK (1 BLK),,MISS Dixon 7' Jump Shot,,
+0020600109,118,4,0,1,7:41 PM,0:15,Marshall REBOUND (Off:2 Def:2),,,,
+0020600109,119,5,40,1,7:41 PM,0:11,Marshall Out of Bounds Lost Ball Turnover (P1.T2),,,,
+0020600109,120,8,0,1,7:41 PM,0:11,,,SUB: Webster FOR Randolph,,
+0020600109,121,2,44,1,7:41 PM,0:01,,,MISS Rodriguez 1' Reverse Layup,,
+0020600109,122,4,0,1,7:41 PM,0:01,Pavlovic REBOUND (Off:0 Def:1),,,,
+0020600109,125,2,45,1,7:41 PM,0:01,MISS Pavlovic 60' 3PT Jump Shot,,,,
+0020600109,123,4,0,1,7:42 PM,0:00,CAVALIERS Rebound,,,,
+0020600109,124,13,0,1,7:42 PM,0:00,,,,18 - 24,6
+0020600109,127,12,0,2,7:44 PM,12:00,,,,18 - 24,6
+0020600109,128,1,1,2,7:45 PM,11:45,,,Outlaw 16' Jump Shot (5 PTS),20 - 24,4
+0020600109,129,5,1,2,7:45 PM,11:23,Pavlovic Bad Pass Turnover (P1.T3),,Webster STEAL (1 STL),,
+0020600109,130,1,5,2,7:45 PM,11:17,,,Aldridge 1' Layup (5 PTS) (Rodriguez 1 AST),22 - 24,2
+0020600109,131,2,1,2,7:45 PM,10:53,MISS Pavlovic 20' Jump Shot,,,,
+0020600109,132,4,0,2,7:46 PM,10:51,,,Trail Blazers Rebound,,
+0020600109,133,1,5,2,7:46 PM,10:40,,,Aldridge  Layup (7 PTS) (Rodriguez 2 AST),24 - 24,TIE
+0020600109,134,2,5,2,7:46 PM,10:22,MISS Pavlovic 3' Layup,,Outlaw BLOCK (1 BLK),,
+0020600109,135,4,0,2,7:46 PM,10:19,Varejao REBOUND (Off:1 Def:0),,,,
+0020600109,136,5,2,2,7:46 PM,10:17,Varejao Lost Ball Turnover (P1.T4),,Aldridge STEAL (1 STL),,
+0020600109,137,6,4,2,7:46 PM,9:59,,,Outlaw OFF.Foul (P1),,
+0020600109,138,5,5,2,7:46 PM,9:59,,,Outlaw Foul Turnover (P2.T6),,
+0020600109,139,8,0,2,7:47 PM,9:59,SUB: Ilgauskas FOR Varejao,,,,
+0020600109,140,2,1,2,7:47 PM,9:44,MISS Marshall  3PT Jump Shot,,,,
+0020600109,141,4,0,2,7:47 PM,9:42,Marshall REBOUND (Off:3 Def:2),,,,
+0020600109,142,1,1,2,7:47 PM,9:36,James 24' 3PT Jump Shot (3 PTS) (Marshall 1 AST),,,24 - 27,3
+0020600109,143,1,1,2,7:47 PM,9:20,,,Dixon  3PT Jump Shot (3 PTS) (Aldridge 1 AST),27 - 27,TIE
+0020600109,144,2,1,2,7:48 PM,9:02,MISS Jones  3PT Jump Shot,,,,
+0020600109,145,4,0,2,7:48 PM,9:00,,,Aldridge REBOUND (Off:1 Def:3),,
+0020600109,146,2,5,2,7:48 PM,8:50,,,MISS Outlaw 1' Layup,,
+0020600109,147,4,0,2,7:48 PM,8:48,Jones REBOUND (Off:0 Def:1),,,,
+0020600109,148,5,1,2,7:48 PM,8:41,James Bad Pass Turnover (P1.T5),,Aldridge STEAL (2 STL),,
+0020600109,149,2,5,2,7:48 PM,8:36,Ilgauskas BLOCK (2 BLK),,MISS Webster 1' Layup,,
+0020600109,150,4,0,2,7:48 PM,8:34,,,Aldridge REBOUND (Off:2 Def:3),,
+0020600109,153,6,2,2,7:48 PM,8:34,Ilgauskas S.FOUL (P1.T1),,,,
+0020600109,154,9,4,2,7:49 PM,8:34,,,,,
+0020600109,156,8,0,2,7:51 PM,8:34,SUB: Hughes FOR Marshall,,,,
+0020600109,158,3,11,2,7:51 PM,8:34,,,MISS Aldridge Free Throw 1 of 2,,
+0020600109,159,4,1,2,7:51 PM,8:34,,,Trail Blazers Rebound,,
+0020600109,160,3,12,2,7:51 PM,8:34,,,Aldridge Free Throw 2 of 2 (8 PTS),28 - 27,-1
+0020600109,161,6,2,2,7:52 PM,8:21,,,Aldridge S.FOUL (P2.T1),,
+0020600109,162,3,11,2,7:52 PM,8:21,MISS Hughes Free Throw 1 of 2,,,,
+0020600109,163,4,1,2,7:52 PM,8:21,CAVALIERS Rebound,,,,
+0020600109,164,3,12,2,7:52 PM,8:21,Hughes Free Throw 2 of 2 (5 PTS),,,28 - 28,TIE
+0020600109,165,1,5,2,7:53 PM,8:07,,,Outlaw 1' Layup (7 PTS) (Rodriguez 3 AST),30 - 28,-2
+0020600109,166,6,2,2,7:53 PM,7:56,,,Aldridge S.FOUL (P3.T2),,
+0020600109,167,8,0,2,7:53 PM,7:56,,,SUB: Randolph FOR Aldridge,,
+0020600109,168,3,11,2,7:53 PM,7:56,Ilgauskas Free Throw 1 of 2 (1 PTS),,,30 - 29,-1
+0020600109,169,3,12,2,7:53 PM,7:56,Ilgauskas Free Throw 2 of 2 (2 PTS),,,30 - 30,TIE
+0020600109,170,2,1,2,7:54 PM,7:37,,,MISS Randolph 17' Jump Shot,,
+0020600109,171,4,0,2,7:54 PM,7:35,James REBOUND (Off:0 Def:1),,,,
+0020600109,172,2,3,2,7:54 PM,7:24,MISS Ilgauskas 5' Hook Shot,,,,
+0020600109,173,4,0,2,7:54 PM,7:21,,,Randolph REBOUND (Off:0 Def:5),,
+0020600109,174,2,1,2,7:54 PM,7:16,,,MISS Webster 24' 3PT Jump Shot,,
+0020600109,175,4,0,2,7:54 PM,7:16,CAVALIERS Rebound,,,,
+0020600109,176,1,3,2,7:55 PM,7:01,Ilgauskas 6' Hook Shot (4 PTS) (James 3 AST),,,30 - 32,2
+0020600109,177,1,1,2,7:55 PM,6:48,,,Dixon 25' 3PT Jump Shot (6 PTS) (Rodriguez 4 AST),33 - 32,-1
+0020600109,178,2,1,2,7:56 PM,6:24,MISS Pavlovic 25' 3PT Jump Shot,,,,
+0020600109,179,4,0,2,7:56 PM,6:21,,,Webster REBOUND (Off:0 Def:1),,
+0020600109,180,5,41,2,7:56 PM,6:20,,,Webster Poss Lost Ball Turnover (P1.T7),,
+0020600109,181,6,3,2,7:56 PM,6:20,,,Webster L.B.FOUL (P1.T3),,
+0020600109,182,9,1,2,7:56 PM,6:20,CAVALIERS Timeout: Regular (Full 2 Short 0),,,,
+0020600109,185,8,0,2,7:58 PM,6:20,SUB: Gooden FOR Hughes,,,,
+0020600109,186,8,0,2,7:58 PM,6:20,SUB: Snow FOR Pavlovic,,,,
+0020600109,187,2,1,2,7:59 PM,6:07,MISS James 20' Jump Shot,,,,
+0020600109,188,4,0,2,7:59 PM,6:05,,,Rodriguez REBOUND (Off:0 Def:1),,
+0020600109,189,2,47,2,7:59 PM,5:45,,,MISS Outlaw 14' Turnaround Jump Shot,,
+0020600109,190,4,0,2,7:59 PM,5:42,,,Randolph REBOUND (Off:1 Def:5),,
+0020600109,191,2,5,2,7:59 PM,5:41,,,MISS Randolph 2' Layup,,
+0020600109,192,4,0,2,7:59 PM,5:39,Gooden REBOUND (Off:0 Def:2),,,,
+0020600109,193,1,5,2,7:59 PM,5:37,Jones 1' Layup (5 PTS) (James 4 AST),,,33 - 34,1
+0020600109,194,1,5,2,8:00 PM,5:16,,,Randolph 2' Layup (13 PTS),35 - 34,-1
+0020600109,195,6,1,2,8:00 PM,4:59,,,Rodriguez P.FOUL (P1.T4),,
+0020600109,196,1,42,2,8:00 PM,4:54,Snow 1' Driving Layup (6 PTS),,,35 - 36,1
+0020600109,197,2,1,2,8:01 PM,4:35,,,MISS Dixon 24' 3PT Jump Shot,,
+0020600109,198,4,0,2,8:01 PM,4:32,Ilgauskas REBOUND (Off:2 Def:3),,,,
+0020600109,199,2,5,2,8:01 PM,4:27,MISS Ilgauskas 1' Layup,,,,
+0020600109,200,4,0,2,8:01 PM,4:23,Gooden REBOUND (Off:1 Def:2),,,,
+0020600109,201,1,5,2,8:01 PM,4:21,Gooden 1' Layup (9 PTS),,,35 - 38,3
+0020600109,202,2,3,2,8:01 PM,4:01,,,MISS Randolph 7' Hook Shot,,
+0020600109,203,4,0,2,8:01 PM,3:58,Ilgauskas REBOUND (Off:2 Def:4),,,,
+0020600109,204,5,1,2,8:01 PM,3:57,Ilgauskas Bad Pass Turnover (P2.T6),,,,
+0020600109,205,8,0,2,8:01 PM,3:57,,,SUB: Magloire FOR Webster,,
+0020600109,206,8,0,2,8:01 PM,3:57,,,SUB: Jack FOR Rodriguez,,
+0020600109,207,8,0,2,8:02 PM,3:57,,,SUB: Udoka FOR Outlaw,,
+0020600109,208,1,1,2,8:02 PM,3:42,,,Randolph 10' Jump Shot (15 PTS),37 - 38,1
+0020600109,209,2,47,2,8:02 PM,3:25,MISS Ilgauskas 14' Turnaround Jump Shot,,,,
+0020600109,210,4,0,2,8:02 PM,3:22,,,Randolph REBOUND (Off:1 Def:6),,
+0020600109,211,2,65,2,8:02 PM,3:11,,,MISS Magloire 8' Jump Hook Shot,,
+0020600109,212,4,0,2,8:02 PM,3:08,Ilgauskas REBOUND (Off:2 Def:5),,,,
+0020600109,213,1,1,2,8:03 PM,3:02,James 23' Jump Shot (5 PTS),,,37 - 40,3
+0020600109,214,5,1,2,8:03 PM,2:45,James STEAL (1 STL),,Randolph Bad Pass Turnover (P1.T8),,
+0020600109,215,1,1,2,8:03 PM,2:40,James 25' 3PT Jump Shot (8 PTS),,,37 - 43,6
+0020600109,216,9,1,2,8:03 PM,2:38,,,Trail Blazers Timeout: Regular (Reg.2 Short 0),,
+0020600109,219,8,0,2,8:05 PM,2:38,SUB: Varejao FOR Ilgauskas,,,,
+0020600109,220,2,1,2,8:06 PM,2:16,,,MISS Udoka 24' 3PT Jump Shot,,
+0020600109,221,4,0,2,8:06 PM,2:14,Snow REBOUND (Off:0 Def:2),,,,
+0020600109,222,1,63,2,8:06 PM,2:01,Gooden 11' Fadeaway Jumper (11 PTS),,,37 - 45,8
+0020600109,223,1,1,2,8:06 PM,1:40,,,Jack 21' Jump Shot (3 PTS),39 - 45,6
+0020600109,224,6,2,2,8:07 PM,1:23,,,Randolph S.FOUL (P1.PN),,
+0020600109,225,3,11,2,8:07 PM,1:23,Gooden Free Throw 1 of 2 (12 PTS),,,39 - 46,7
+0020600109,226,3,12,2,8:07 PM,1:23,Gooden Free Throw 2 of 2 (13 PTS),,,39 - 47,8
+0020600109,227,1,1,2,8:08 PM,1:11,,,Jack 17' Jump Shot (5 PTS),41 - 47,6
+0020600109,228,6,2,2,8:08 PM,0:49,,,Udoka S.FOUL (P2.PN),,
+0020600109,229,3,11,2,8:08 PM,0:49,James Free Throw 1 of 2 (9 PTS),,,41 - 48,7
+0020600109,230,8,0,2,8:09 PM,0:49,,,SUB: Outlaw FOR Magloire,,
+0020600109,231,3,12,2,8:09 PM,0:49,James Free Throw 2 of 2 (10 PTS),,,41 - 49,8
+0020600109,233,6,1,2,8:09 PM,0:41,Jones P.FOUL (P1.T2),,,,
+0020600109,234,1,5,2,8:10 PM,0:33,,,Randolph 2' Layup (17 PTS),43 - 49,6
+0020600109,236,2,1,2,8:10 PM,0:17,MISS James  3PT Jump Shot,,,,
+0020600109,237,4,0,2,8:10 PM,0:15,Snow REBOUND (Off:1 Def:2),,,,
+0020600109,238,1,1,2,8:10 PM,0:01,Snow 15' Jump Shot (8 PTS) (James 5 AST),,,43 - 51,8
+0020600109,239,13,0,2,8:10 PM,0:00,,,,43 - 51,8
+0020600109,242,12,0,3,8:26 PM,12:00,,,,43 - 51,8
+0020600109,248,6,1,3,8:27 PM,11:44,Snow P.FOUL (P2.T1),,,,
+0020600109,249,2,1,3,8:27 PM,11:36,Gooden BLOCK (1 BLK),,MISS Randolph 11' Jump Shot,,
+0020600109,250,4,0,3,8:27 PM,11:34,Gooden REBOUND (Off:1 Def:3),,,,
+0020600109,251,6,4,3,8:27 PM,11:22,Pavlovic OFF.Foul (P2),,,,
+0020600109,252,5,5,3,8:27 PM,11:22,Pavlovic Foul Turnover (P2.T7),,,,
+0020600109,254,1,5,3,8:28 PM,11:07,,,Graham 1' Layup (2 PTS) (Udoka 1 AST),45 - 51,6
+0020600109,255,5,2,3,8:28 PM,10:51,Gooden Lost Ball Turnover (P1.T8),,Graham STEAL (1 STL),,
+0020600109,256,5,1,3,8:28 PM,10:46,,,Graham Bad Pass Turnover (P3.T9),,
+0020600109,257,6,2,3,8:29 PM,10:32,,,Aldridge S.FOUL (P4.T1),,
+0020600109,258,3,11,3,8:29 PM,10:32,Ilgauskas Free Throw 1 of 2 (5 PTS),,,45 - 52,7
+0020600109,259,8,0,3,8:29 PM,10:32,,,SUB: Magloire FOR Aldridge,,
+0020600109,260,3,12,3,8:29 PM,10:32,Ilgauskas Free Throw 2 of 2 (6 PTS),,,45 - 53,8
+0020600109,263,6,2,3,8:30 PM,10:08,Gooden S.FOUL (P1.T2),,,,
+0020600109,264,3,11,3,8:30 PM,10:08,,,Randolph Free Throw 1 of 2 (18 PTS),46 - 53,7
+0020600109,265,3,12,3,8:30 PM,10:08,,,Randolph Free Throw 2 of 2 (19 PTS),47 - 53,6
+0020600109,266,1,1,3,8:31 PM,9:51,Snow 17' Jump Shot (10 PTS) (Pavlovic 1 AST),,,47 - 55,8
+0020600109,267,1,1,3,8:31 PM,9:36,,,Udoka 25' 3PT Jump Shot (3 PTS) (Randolph 1 AST),50 - 55,5
+0020600109,268,6,2,3,8:32 PM,9:11,,,Magloire S.FOUL (P3.T2),,
+0020600109,269,3,11,3,8:32 PM,9:11,Gooden Free Throw 1 of 2 (14 PTS),,,50 - 56,6
+0020600109,270,3,12,3,8:32 PM,9:11,Gooden Free Throw 2 of 2 (15 PTS),,,50 - 57,7
+0020600109,271,6,1,3,8:33 PM,9:01,Pavlovic P.FOUL (P3.T3),,,,
+0020600109,272,6,4,3,8:33 PM,8:51,,,Randolph OFF.Foul (P2),,
+0020600109,273,5,5,3,8:33 PM,8:51,,,Randolph Foul Turnover (P2.T10),,
+0020600109,274,5,15,3,8:34 PM,8:35,Ilgauskas Offensive Goaltending Turnover (P3.T9),,,,
+0020600109,275,5,21,3,8:34 PM,8:21,,,Udoka Palming Turnover (P1.T11),,
+0020600109,276,2,1,3,8:35 PM,8:00,MISS Gooden 11' Jump Shot,,,,
+0020600109,277,4,0,3,8:35 PM,8:00,,,Trail Blazers Rebound,,
+0020600109,278,6,3,3,8:35 PM,8:00,Ilgauskas L.B.FOUL (P2.T4),,,,
+0020600109,279,6,2,3,8:35 PM,7:44,Ilgauskas S.FOUL (P3.PN),,,,
+0020600109,280,3,11,3,8:36 PM,7:44,,,MISS Randolph Free Throw 1 of 2,,
+0020600109,281,4,1,3,8:36 PM,7:44,,,Trail Blazers Rebound,,
+0020600109,282,3,12,3,8:36 PM,7:44,,,Randolph Free Throw 2 of 2 (20 PTS),51 - 57,6
+0020600109,283,6,17,3,8:36 PM,7:31,,,Trail Blazers T.Foul (Def. 3 Sec Magloire ),,
+0020600109,284,3,16,3,8:37 PM,7:31,James Free Throw Technical (11 PTS),,,51 - 58,7
+0020600109,285,8,0,3,8:38 PM,7:31,SUB: Jones FOR James,,,,
+0020600109,287,2,1,3,8:38 PM,7:20,MISS Jones 25' 3PT Jump Shot,,,,
+0020600109,288,4,0,3,8:38 PM,7:16,,,Randolph REBOUND (Off:1 Def:7),,
+0020600109,289,2,46,3,8:39 PM,6:59,,,MISS Udoka 6' Running Jump Shot,,
+0020600109,290,4,0,3,8:39 PM,6:58,CAVALIERS Rebound,,,,
+0020600109,291,6,3,3,8:39 PM,6:58,,,Randolph L.B.FOUL (P3.T3),,
+0020600109,292,8,0,3,8:39 PM,6:58,,,SUB: Webster FOR Udoka,,
+0020600109,293,8,0,3,8:39 PM,6:58,SUB: James FOR Pavlovic,,,,
+0020600109,294,1,65,3,8:39 PM,6:46,Gooden 9' Jump Hook Shot (17 PTS) (Jones 2 AST),,,51 - 60,9
+0020600109,295,1,1,3,8:40 PM,6:21,,,Graham 23' Jump Shot (4 PTS) (Jack 2 AST),53 - 60,7
+0020600109,296,2,1,3,8:40 PM,6:07,MISS Ilgauskas 18' Jump Shot,,,,
+0020600109,297,4,0,3,8:40 PM,6:05,,,Jack REBOUND (Off:0 Def:2),,
+0020600109,298,2,1,3,8:40 PM,6:00,,,MISS Webster 25' 3PT Jump Shot,,
+0020600109,299,4,0,3,8:40 PM,5:59,CAVALIERS Rebound,,,,
+0020600109,300,9,1,3,8:40 PM,5:59,CAVALIERS Timeout: Regular (Full 3 Short 0),,,,
+0020600109,304,1,46,3,8:43 PM,5:41,James 8' Running Jump Shot (13 PTS),,,53 - 62,9
+0020600109,305,2,1,3,8:43 PM,5:22,,,MISS Randolph 19' Jump Shot,,
+0020600109,306,4,0,3,8:43 PM,5:20,James REBOUND (Off:0 Def:2),,,,
+0020600109,307,1,61,3,8:44 PM,5:06,Snow 2' Driving Finger Roll (12 PTS),,,53 - 64,11
+0020600109,308,2,1,3,8:44 PM,4:40,,,MISS Jack 25' 3PT Jump Shot,,
+0020600109,309,4,0,3,8:44 PM,4:37,James REBOUND (Off:0 Def:3),,,,
+0020600109,310,1,66,3,8:44 PM,4:36,James 9' Jump Bank Shot (15 PTS),,,53 - 66,13
+0020600109,311,6,2,3,8:44 PM,4:36,,,Jack S.FOUL (P1.T4),,
+0020600109,312,8,0,3,8:45 PM,4:36,,,SUB: Dixon FOR Graham,,
+0020600109,313,3,10,3,8:45 PM,4:36,James Free Throw 1 of 1 (16 PTS),,,53 - 67,14
+0020600109,314,2,65,3,8:45 PM,4:23,,,MISS Magloire 6' Jump Hook Shot,,
+0020600109,315,4,0,3,8:45 PM,4:22,CAVALIERS Rebound,,,,
+0020600109,316,1,1,3,8:45 PM,4:15,James 24' 3PT Jump Shot (19 PTS),,,53 - 70,17
+0020600109,317,2,42,3,8:46 PM,3:57,,,MISS Jack 2' Driving Layup,,
+0020600109,318,4,0,3,8:46 PM,3:57,,,Trail Blazers Rebound,,
+0020600109,321,6,3,3,8:46 PM,3:57,Gooden L.B.FOUL (P2.PN),,,,
+0020600109,322,8,0,3,8:46 PM,3:57,,,SUB: Rodriguez FOR Jack,,
+0020600109,323,3,11,3,8:46 PM,3:57,,,MISS Randolph Free Throw 1 of 2,,
+0020600109,324,4,1,3,8:46 PM,3:57,,,Trail Blazers Rebound,,
+0020600109,325,8,0,3,8:47 PM,3:57,,,SUB: Outlaw FOR Magloire,,
+0020600109,326,8,0,3,8:47 PM,3:57,SUB: Marshall FOR Ilgauskas,,,,
+0020600109,327,3,12,3,8:47 PM,3:57,,,Randolph Free Throw 2 of 2 (21 PTS),54 - 70,16
+0020600109,328,2,1,3,8:47 PM,3:42,MISS Jones 25' 3PT Jump Shot,,,,
+0020600109,329,4,0,3,8:47 PM,3:40,,,Webster REBOUND (Off:0 Def:2),,
+0020600109,330,6,1,3,8:47 PM,3:33,Gooden P.FOUL (P3.PN),,,,
+0020600109,331,3,11,3,8:48 PM,3:33,,,MISS Randolph Free Throw 1 of 2,,
+0020600109,332,4,1,3,8:48 PM,3:33,,,Trail Blazers Rebound,,
+0020600109,333,8,0,3,8:48 PM,3:33,SUB: Wesley FOR Snow,,,,
+0020600109,334,8,0,3,8:48 PM,3:33,SUB: Varejao FOR Gooden,,,,
+0020600109,335,3,12,3,8:48 PM,3:33,,,Randolph Free Throw 2 of 2 (22 PTS),55 - 70,15
+0020600109,336,6,2,3,8:49 PM,3:21,,,Outlaw S.FOUL (P2.PN),,
+0020600109,337,3,13,3,8:49 PM,3:21,MISS James Free Throw 1 of 3,,,,
+0020600109,338,4,1,3,8:49 PM,3:21,CAVALIERS Rebound,,,,
+0020600109,339,3,14,3,8:49 PM,3:21,MISS James Free Throw 2 of 3,,,,
+0020600109,340,4,1,3,8:49 PM,3:21,CAVALIERS Rebound,,,,
+0020600109,341,3,15,3,8:50 PM,3:21,James Free Throw 3 of 3 (20 PTS),,,55 - 71,16
+0020600109,342,6,2,3,8:50 PM,3:07,Varejao S.FOUL (P2.PN),,,,
+0020600109,343,3,11,3,8:50 PM,3:07,,,MISS Randolph Free Throw 1 of 2,,
+0020600109,344,4,1,3,8:50 PM,3:07,,,Trail Blazers Rebound,,
+0020600109,345,3,12,3,8:51 PM,3:07,,,MISS Randolph Free Throw 2 of 2,,
+0020600109,346,4,0,3,8:51 PM,3:06,Varejao REBOUND (Off:1 Def:1),,,,
+0020600109,347,1,49,3,8:51 PM,3:00,James 1' Driving Dunk (22 PTS),,,55 - 73,18
+0020600109,348,9,1,3,8:51 PM,2:55,,,Trail Blazers Timeout: Regular (Reg.3 Short 0),,
+0020600109,352,2,5,3,8:54 PM,2:41,,,MISS Randolph 1' Layup,,
+0020600109,354,4,0,3,8:54 PM,2:39,,,Randolph REBOUND (Off:2 Def:7),,
+0020600109,353,1,4,3,8:54 PM,2:39,,,Randolph  Tip Shot (24 PTS),57 - 73,16
+0020600109,355,2,51,3,8:54 PM,2:22,MISS James 1' Reverse Dunk,,,,
+0020600109,356,4,0,3,8:54 PM,2:18,Marshall REBOUND (Off:4 Def:2),,,,
+0020600109,357,2,1,3,8:54 PM,2:14,MISS Jones 25' 3PT Jump Shot,,,,
+0020600109,358,4,0,3,8:54 PM,2:13,,,Randolph REBOUND (Off:2 Def:8),,
+0020600109,359,6,1,3,8:54 PM,2:13,Varejao P.FOUL (P3.PN),,,,
+0020600109,360,3,11,3,8:54 PM,2:13,,,Randolph Free Throw 1 of 2 (25 PTS),58 - 73,15
+0020600109,361,3,12,3,8:55 PM,2:13,,,MISS Randolph Free Throw 2 of 2,,
+0020600109,362,4,0,3,8:55 PM,2:11,Marshall REBOUND (Off:4 Def:3),,,,
+0020600109,363,6,2,3,8:55 PM,1:54,,,Webster S.FOUL (P2.PN),,
+0020600109,364,3,11,3,8:56 PM,1:54,James Free Throw 1 of 2 (23 PTS),,,58 - 74,16
+0020600109,365,8,0,3,8:56 PM,1:54,,,SUB: Graham FOR Webster,,
+0020600109,368,7,3,3,8:56 PM,1:54,,,Randolph Violation:Lane,,
+0020600109,369,3,12,3,8:56 PM,1:54,James Free Throw 2 of 2 (24 PTS),,,58 - 75,17
+0020600109,371,5,2,3,8:57 PM,1:40,Varejao STEAL (1 STL),,Randolph Lost Ball Turnover (P3.T12),,
+0020600109,372,1,5,3,8:57 PM,1:29,Marshall 1' Layup (2 PTS) (James 6 AST),,,58 - 77,19
+0020600109,373,6,2,3,8:57 PM,1:14,Varejao S.FOUL (P4.PN),,,,
+0020600109,374,3,11,3,8:58 PM,1:14,,,MISS Outlaw Free Throw 1 of 2,,
+0020600109,375,4,1,3,8:58 PM,1:14,,,Trail Blazers Rebound,,
+0020600109,376,3,12,3,8:58 PM,1:14,,,Outlaw Free Throw 2 of 2 (8 PTS),59 - 77,18
+0020600109,377,5,4,3,8:58 PM,0:57,Varejao Traveling Turnover (P2.T10),,,,
+0020600109,379,5,1,3,8:59 PM,0:48,Varejao STEAL (2 STL),,Rodriguez Bad Pass Turnover (P1.T13),,
+0020600109,380,2,5,3,8:59 PM,0:42,MISS Marshall 3' Layup,,Outlaw BLOCK (2 BLK),,
+0020600109,381,4,0,3,8:59 PM,0:39,,,Graham REBOUND (Off:0 Def:1),,
+0020600109,382,6,4,3,8:59 PM,0:34,,,Randolph OFF.Foul (P4),,
+0020600109,383,5,5,3,8:59 PM,0:34,,,Randolph Foul Turnover (P4.T14),,
+0020600109,384,5,2,3,9:00 PM,0:17,James Lost Ball Turnover (P2.T11),,Graham STEAL (2 STL),,
+0020600109,385,5,2,3,9:00 PM,0:12,Wesley STEAL (1 STL),,Graham Lost Ball Turnover (P4.T15),,
+0020600109,386,1,7,3,9:00 PM,0:09,Marshall 1' Dunk (4 PTS) (Jones 3 AST),,,59 - 79,20
+0020600109,387,1,7,3,9:00 PM,0:02,,,Outlaw 2' Dunk (10 PTS) (Rodriguez 5 AST),61 - 79,18
+0020600109,388,2,1,3,9:00 PM,0:00,MISS James 41' 3PT Jump Shot,,,,
+0020600109,389,4,0,3,9:00 PM,0:00,CAVALIERS Rebound,,,,
+0020600109,390,13,0,3,9:00 PM,0:00,,,,61 - 79,18
+0020600109,392,12,0,4,9:03 PM,12:00,,,,61 - 79,18
+0020600109,393,5,1,4,9:04 PM,11:42,Marshall Bad Pass Turnover (P2.T12),,Aldridge STEAL (3 STL),,
+0020600109,394,6,2,4,9:04 PM,11:33,Wesley S.FOUL (P1.T1),,,,
+0020600109,395,3,11,4,9:04 PM,11:33,,,MISS Dixon Free Throw 1 of 2,,
+0020600109,396,4,1,4,9:04 PM,11:33,,,Trail Blazers Rebound,,
+0020600109,397,3,12,4,9:04 PM,11:33,,,Dixon Free Throw 2 of 2 (7 PTS),62 - 79,17
+0020600109,398,5,2,4,9:04 PM,11:28,Wesley Lost Ball Turnover (P1.T13),,Rodriguez STEAL (1 STL),,
+0020600109,399,1,8,4,9:04 PM,11:23,,,Outlaw 1' Slam Dunk (12 PTS) (Rodriguez 6 AST),64 - 79,15
+0020600109,400,1,8,4,9:05 PM,11:01,Marshall 2' Slam Dunk (6 PTS) (James 7 AST),,,64 - 81,17
+0020600109,401,6,1,4,9:05 PM,10:46,Pavlovic P.FOUL (P4.T2),,,,
+0020600109,402,1,1,4,9:06 PM,10:37,,,Dixon 24' 3PT Jump Shot (10 PTS) (Rodriguez 7 AST),67 - 81,14
+0020600109,403,2,1,4,9:06 PM,10:27,MISS Wesley 25' 3PT Jump Shot,,,,
+0020600109,404,4,0,4,9:06 PM,10:25,,,Randolph REBOUND (Off:2 Def:9),,
+0020600109,405,6,4,4,9:06 PM,10:15,,,Randolph OFF.Foul (P5),,
+0020600109,406,5,5,4,9:06 PM,10:15,,,Randolph Foul Turnover (P5.T16),,
+0020600109,407,2,1,4,9:07 PM,9:55,MISS James 24' 3PT Jump Shot,,,,
+0020600109,408,4,0,4,9:07 PM,9:52,,,Aldridge REBOUND (Off:2 Def:4),,
+0020600109,409,6,2,4,9:07 PM,9:45,Varejao S.FOUL (P5.T3),,,,
+0020600109,410,3,11,4,9:07 PM,9:45,,,MISS Randolph Free Throw 1 of 2,,
+0020600109,411,4,1,4,9:07 PM,9:45,,,Trail Blazers Rebound,,
+0020600109,412,8,0,4,9:07 PM,9:45,SUB: Gooden FOR Varejao,,,,
+0020600109,413,3,12,4,9:08 PM,9:45,,,Randolph Free Throw 2 of 2 (26 PTS),68 - 81,13
+0020600109,414,6,1,4,9:08 PM,9:43,,,Dixon P.FOUL (P2.T1),,
+0020600109,415,8,0,4,9:08 PM,9:43,,,SUB: Udoka FOR Randolph,,
+0020600109,416,8,0,4,9:08 PM,9:43,SUB: Snow FOR Wesley,,,,
+0020600109,417,1,49,4,9:08 PM,9:24,James 1' Driving Dunk (26 PTS),,,68 - 83,15
+0020600109,418,2,5,4,9:09 PM,9:12,,,MISS Rodriguez 1' Layup,,
+0020600109,419,4,0,4,9:09 PM,9:11,Gooden REBOUND (Off:1 Def:4),,,,
+0020600109,420,6,2,4,9:09 PM,9:05,,,Udoka S.FOUL (P3.T2),,
+0020600109,421,3,11,4,9:09 PM,9:05,Marshall Free Throw 1 of 2 (7 PTS),,,68 - 84,16
+0020600109,422,3,12,4,9:09 PM,9:05,Marshall Free Throw 2 of 2 (8 PTS),,,68 - 85,17
+0020600109,423,2,1,4,9:10 PM,8:54,,,MISS Dixon 24' 3PT Jump Shot,,
+0020600109,424,4,0,4,9:10 PM,8:52,Pavlovic REBOUND (Off:0 Def:2),,,,
+0020600109,425,5,2,4,9:10 PM,8:38,James Lost Ball Turnover (P3.T14),,Udoka STEAL (1 STL),,
+0020600109,426,2,5,4,9:10 PM,8:33,,,MISS Udoka 1' Layup,,
+0020600109,427,4,0,4,9:10 PM,8:31,,,Dixon REBOUND (Off:1 Def:0),,
+0020600109,428,1,5,4,9:10 PM,8:31,,,Dixon 1' Layup (12 PTS),70 - 85,15
+0020600109,429,9,1,4,9:10 PM,8:31,CAVALIERS Timeout: Regular (Full 4 Short 0),,,,
+0020600109,433,9,2,4,9:13 PM,8:14,CAVALIERS Timeout: Short (Full 4 Short 1),,,,
+0020600109,435,8,0,4,9:13 PM,8:14,SUB: Jones FOR James,,,,
+0020600109,436,6,1,4,9:14 PM,8:09,,,Outlaw P.FOUL (P3.T3),,
+0020600109,437,6,1,4,9:15 PM,8:04,,,Dixon P.FOUL (P3.T4),,
+0020600109,438,2,1,4,9:15 PM,7:56,MISS Marshall  3PT Jump Shot,,,,
+0020600109,439,4,0,4,9:15 PM,7:53,Gooden REBOUND (Off:2 Def:4),,,,
+0020600109,440,5,2,4,9:15 PM,7:50,Pavlovic Lost Ball Turnover (P3.T15),,Rodriguez STEAL (2 STL),,
+0020600109,441,1,44,4,9:15 PM,7:45,,,Outlaw 2' Reverse Layup (14 PTS) (Dixon 1 AST),72 - 85,13
+0020600109,442,6,2,4,9:16 PM,7:26,,,Udoka S.FOUL (P4.PN),,
+0020600109,443,3,11,4,9:16 PM,7:26,Pavlovic Free Throw 1 of 2 (4 PTS),,,72 - 86,14
+0020600109,444,3,12,4,9:16 PM,7:26,Pavlovic Free Throw 2 of 2 (5 PTS),,,72 - 87,15
+0020600109,445,6,2,4,9:16 PM,7:14,Snow S.FOUL (P3.T4),,,,
+0020600109,447,3,11,4,9:17 PM,7:14,,,Dixon Free Throw 1 of 2 (13 PTS),73 - 87,14
+0020600109,446,8,0,4,9:17 PM,7:14,SUB: James FOR Pavlovic,,,,
+0020600109,448,3,12,4,9:17 PM,7:14,,,Dixon Free Throw 2 of 2 (14 PTS),74 - 87,13
+0020600109,449,2,65,4,9:17 PM,6:55,MISS Gooden 7' Jump Hook Shot,,,,
+0020600109,450,4,0,4,9:17 PM,6:51,,,Udoka REBOUND (Off:1 Def:1),,
+0020600109,451,2,1,4,9:18 PM,6:42,,,MISS Udoka 24' 3PT Jump Shot,,
+0020600109,452,4,0,4,9:18 PM,6:41,Snow REBOUND (Off:1 Def:3),,,,
+0020600109,454,6,4,4,9:18 PM,6:26,Marshall OFF.Foul (P1),,,,
+0020600109,455,5,5,4,9:18 PM,6:26,Marshall Foul Turnover (P3.T16),,,,
+0020600109,456,8,0,4,9:18 PM,6:26,,,SUB: Randolph FOR Outlaw,,
+0020600109,457,2,1,4,9:18 PM,6:14,,,MISS Rodriguez 19' Jump Shot,,
+0020600109,458,4,0,4,9:18 PM,6:12,James REBOUND (Off:0 Def:4),,,,
+0020600109,459,1,61,4,9:19 PM,5:51,James 1' Driving Finger Roll (28 PTS),,,74 - 89,15
+0020600109,460,2,1,4,9:19 PM,5:23,,,MISS Randolph 25' 3PT Jump Shot,,
+0020600109,461,4,0,4,9:19 PM,5:21,,,Udoka REBOUND (Off:2 Def:1),,
+0020600109,462,1,5,4,9:19 PM,5:19,,,Udoka 1' Layup (5 PTS),76 - 89,13
+0020600109,463,2,1,4,9:20 PM,5:03,MISS Jones  3PT Jump Shot,,,,
+0020600109,464,4,0,4,9:20 PM,5:01,,,Udoka REBOUND (Off:2 Def:2),,
+0020600109,465,2,5,4,9:20 PM,4:56,James BLOCK (1 BLK),,MISS Udoka 2' Layup,,
+0020600109,466,4,0,4,9:20 PM,4:54,Marshall REBOUND (Off:4 Def:4),,,,
+0020600109,467,5,2,4,9:20 PM,4:53,Marshall Lost Ball Turnover (P4.T17),,Udoka STEAL (2 STL),,
+0020600109,468,1,5,4,9:20 PM,4:52,,,Aldridge 2' Layup (10 PTS) (Udoka 2 AST),78 - 89,11
+0020600109,469,6,2,4,9:20 PM,4:52,Snow S.FOUL (P4.PN),,,,
+0020600109,470,9,4,4,9:20 PM,4:52,,,,,
+0020600109,472,8,0,4,9:22 PM,4:52,SUB: Ilgauskas FOR Marshall,,,,
+0020600109,474,3,10,4,9:22 PM,4:52,,,Aldridge Free Throw 1 of 1 (11 PTS),79 - 89,10
+0020600109,475,6,1,4,9:23 PM,4:37,,,Udoka P.FOUL (P5.PN),,
+0020600109,476,3,11,4,9:23 PM,4:37,James Free Throw 1 of 2 (29 PTS),,,79 - 90,11
+0020600109,477,3,12,4,9:23 PM,4:37,James Free Throw 2 of 2 (30 PTS),,,79 - 91,12
+0020600109,478,5,1,4,9:24 PM,4:14,James STEAL (2 STL),,Randolph Bad Pass Turnover (P6.T17),,
+0020600109,479,6,1,4,9:24 PM,4:14,,,Rodriguez P.FOUL (P2.PN),,
+0020600109,480,3,11,4,9:24 PM,4:14,MISS Snow Free Throw 1 of 2,,,,
+0020600109,481,4,1,4,9:24 PM,4:14,CAVALIERS Rebound,,,,
+0020600109,482,3,12,4,9:25 PM,4:14,Snow Free Throw 2 of 2 (13 PTS),,,79 - 92,13
+0020600109,483,5,2,4,9:25 PM,4:01,Gooden STEAL (1 STL),,Randolph Lost Ball Turnover (P7.T18),,
+0020600109,484,5,1,4,9:25 PM,3:57,James Bad Pass Turnover (P4.T18),,Udoka STEAL (3 STL),,
+0020600109,485,2,1,4,9:25 PM,3:49,,,MISS Dixon  3PT Jump Shot,,
+0020600109,486,4,0,4,9:25 PM,3:47,James REBOUND (Off:0 Def:5),,,,
+0020600109,487,6,1,4,9:26 PM,3:34,,,Aldridge P.FOUL (P5.PN),,
+0020600109,488,8,0,4,9:26 PM,3:34,,,SUB: Outlaw FOR Randolph,,
+0020600109,489,3,11,4,9:26 PM,3:34,MISS Ilgauskas Free Throw 1 of 2,,,,
+0020600109,490,4,1,4,9:26 PM,3:34,CAVALIERS Rebound,,,,
+0020600109,491,3,12,4,9:26 PM,3:34,Ilgauskas Free Throw 2 of 2 (7 PTS),,,79 - 93,14
+0020600109,492,2,1,4,9:27 PM,3:14,Gooden BLOCK (2 BLK),,MISS Outlaw 4' Jump Shot,,
+0020600109,493,4,0,4,9:27 PM,3:10,James REBOUND (Off:0 Def:6),,,,
+0020600109,494,6,4,4,9:27 PM,3:06,Ilgauskas OFF.Foul (P4),,,,
+0020600109,495,5,5,4,9:27 PM,3:06,Ilgauskas Foul Turnover (P4.T19),,,,
+0020600109,496,1,1,4,9:27 PM,2:56,,,Outlaw 21' Jump Shot (16 PTS) (Rodriguez 8 AST),81 - 93,12
+0020600109,497,5,4,4,9:28 PM,2:35,Ilgauskas Traveling Turnover (P5.T20),,,,
+0020600109,498,9,1,4,9:28 PM,2:35,,,Trail Blazers Timeout: Regular (Reg.4 Short 0),,
+0020600109,500,8,0,4,9:30 PM,2:35,,,SUB: Webster FOR Dixon,,
+0020600109,501,8,0,4,9:30 PM,2:35,SUB: Pavlovic FOR Ilgauskas,,,,
+0020600109,502,2,1,4,9:30 PM,2:25,,,MISS Webster  3PT Jump Shot,,
+0020600109,503,4,0,4,9:30 PM,2:22,James REBOUND (Off:0 Def:7),,,,
+0020600109,504,1,65,4,9:31 PM,2:07,James 9' Jump Hook Shot (32 PTS),,,81 - 95,14
+0020600109,505,2,5,4,9:31 PM,1:53,Pavlovic BLOCK (1 BLK),,MISS Outlaw 2' Layup,,
+0020600109,506,4,0,4,9:31 PM,1:51,,,Aldridge REBOUND (Off:3 Def:4),,
+0020600109,507,1,1,4,9:31 PM,1:51,,,Aldridge 7' Jump Shot (13 PTS),83 - 95,12
+0020600109,508,2,1,4,9:31 PM,1:34,MISS Gooden 10' Jump Shot,,,,
+0020600109,509,4,0,4,9:31 PM,1:33,,,Aldridge REBOUND (Off:3 Def:5),,
+0020600109,510,2,5,4,9:31 PM,1:23,Pavlovic BLOCK (2 BLK),,MISS Rodriguez 1' Layup,,
+0020600109,511,4,0,4,9:31 PM,1:20,,,Outlaw REBOUND (Off:2 Def:0),,
+0020600109,512,5,1,4,9:32 PM,1:19,Jones STEAL (2 STL),,Outlaw Bad Pass Turnover (P3.T19),,
+0020600109,513,1,5,4,9:32 PM,1:12,Jones 1' Layup (7 PTS),,,83 - 97,14
+0020600109,514,2,1,4,9:32 PM,1:03,,,MISS Outlaw 26' 3PT Jump Shot,,
+0020600109,515,4,0,4,9:32 PM,1:03,,,Trail Blazers Rebound,,
+0020600109,516,8,0,4,9:32 PM,1:03,SUB: Gibson FOR James,,,,
+0020600109,517,2,1,4,9:32 PM,0:56,,,MISS Udoka 20' Jump Shot,,
+0020600109,518,4,0,4,9:33 PM,0:54,,,Trail Blazers Rebound,,
+0020600109,519,1,1,4,9:33 PM,0:46,,,Rodriguez 18' Jump Shot (2 PTS),85 - 97,12
+0020600109,521,1,1,4,9:33 PM,0:26,Pavlovic 25' 3PT Jump Shot (8 PTS) (Gibson 1 AST),,,85 - 100,15
+0020600109,522,2,1,4,9:33 PM,0:17,,,MISS Outlaw 20' Jump Shot,,
+0020600109,523,4,0,4,9:33 PM,0:15,,,Webster REBOUND (Off:1 Def:2),,
+0020600109,524,6,2,4,9:34 PM,0:15,Pavlovic S.FOUL (P5.PN),,,,
+0020600109,525,3,11,4,9:34 PM,0:15,,,Webster Free Throw 1 of 2 (1 PTS),86 - 100,14
+0020600109,526,3,12,4,9:34 PM,0:15,,,Webster Free Throw 2 of 2 (2 PTS),87 - 100,13
+0020600109,528,13,0,4,9:35 PM,0:00,,,,87 - 100,13

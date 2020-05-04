@@ -1,0 +1,435 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020401214,0,12,0,1,8:39 PM,12:00,,,,,
+0020401214,1,10,0,1,8:39 PM,12:00,Jump Ball Davis vs. Thomas: Tip to Marbury,,,,
+0020401214,2,2,1,1,8:40 PM,11:46,,,MISS Thomas 26' 3PT Jump Shot,,
+0020401214,3,4,0,1,8:40 PM,11:45,,,Knicks Rebound,,
+0020401214,4,2,1,1,8:40 PM,11:29,,,MISS Thomas 18' Jump Shot,,
+0020401214,5,4,0,1,8:40 PM,11:27,Harrington REBOUND (Off:0 Def:1),,,,
+0020401214,6,2,1,1,8:40 PM,11:12,MISS Harrington 15' Jump Shot,,,,
+0020401214,7,4,0,1,8:40 PM,11:11,,,Thomas REBOUND (Off:0 Def:1),,
+0020401214,8,2,1,1,8:41 PM,10:55,,,MISS Sweetney 13' Jump Shot,,
+0020401214,10,4,0,1,8:41 PM,10:53,,,Crawford REBOUND (Off:1 Def:0),,
+0020401214,9,1,4,1,8:41 PM,10:53,,,Crawford  Tip Shot (2 PTS),2 - 0,-2
+0020401214,11,5,1,1,8:41 PM,10:45,Nocioni Bad Pass Turnover (P1.T1),,Marbury STEAL (1 STL),,
+0020401214,12,1,1,1,8:41 PM,10:41,,,Marbury 27' 3PT Jump Shot (3 PTS),5 - 0,-5
+0020401214,13,1,59,1,8:41 PM,10:29,Hinrich  Finger Roll (2 PTS) (Duhon 1 AST),,,5 - 2,-3
+0020401214,14,2,1,1,8:41 PM,10:14,,,MISS Crawford 24' 3PT Jump Shot,,
+0020401214,15,4,0,1,8:41 PM,10:12,Nocioni REBOUND (Off:0 Def:1),,,,
+0020401214,16,1,41,1,8:42 PM,9:56,Nocioni  Running Layup (2 PTS),,,5 - 4,-1
+0020401214,17,8,0,1,8:42 PM,9:38,SUB: Griffin FOR Nocioni,,,,
+0020401214,18,2,1,1,8:43 PM,9:28,,,MISS Thomas 25' 3PT Jump Shot,,
+0020401214,19,4,0,1,8:43 PM,9:28,,,Knicks Rebound,,
+0020401214,20,5,11,1,8:43 PM,9:28,,,Knicks Turnover: Shot Clock (T#1),,
+0020401214,21,2,1,1,8:43 PM,9:07,MISS Harrington 14' Jump Shot,,,,
+0020401214,22,4,0,1,8:43 PM,9:06,,,Marbury REBOUND (Off:0 Def:1),,
+0020401214,23,5,1,1,8:43 PM,9:01,,,Marbury Bad Pass Turnover (P1.T2),,
+0020401214,24,6,2,1,8:44 PM,8:48,,,Sweetney S.FOUL (P1.T1),,
+0020401214,25,3,11,1,8:44 PM,8:48,Davis Free Throw 1 of 2 (1 PTS),,,5 - 5,TIE
+0020401214,26,3,12,1,8:44 PM,8:48,Davis Free Throw 2 of 2 (2 PTS),,,5 - 6,1
+0020401214,27,2,1,1,8:44 PM,8:34,,,MISS Marbury 17' Jump Shot,,
+0020401214,28,4,0,1,8:44 PM,8:32,Duhon REBOUND (Off:0 Def:1),,,,
+0020401214,29,7,5,1,8:45 PM,8:27,,,Marbury Violation:Kicked Ball,,
+0020401214,30,1,1,1,8:45 PM,8:20,Hinrich 18' Jump Shot (4 PTS) (Griffin 1 AST),,,5 - 8,3
+0020401214,31,6,1,1,8:45 PM,7:53,Davis P.FOUL (P1.T1),,,,
+0020401214,32,5,1,1,8:46 PM,7:47,Harrington STEAL (1 STL),,Marbury Bad Pass Turnover (P2.T3),,
+0020401214,33,6,1,1,8:46 PM,7:41,,,Sweetney P.FOUL (P2.T2),,
+0020401214,34,2,1,1,8:46 PM,7:29,MISS Harrington 16' Jump Shot,,,,
+0020401214,35,4,0,1,8:46 PM,7:28,,,Knicks Rebound,,
+0020401214,36,8,0,1,8:46 PM,7:28,,,SUB: Taylor FOR Sweetney,,
+0020401214,37,5,1,1,8:47 PM,7:19,Duhon STEAL (1 STL),,Crawford Bad Pass Turnover (P1.T4),,
+0020401214,38,1,5,1,8:47 PM,7:15,Hinrich  Layup (6 PTS) (Duhon 2 AST),,,5 - 10,5
+0020401214,39,2,1,1,8:47 PM,6:44,,,MISS Taylor 6' Jump Shot,,
+0020401214,40,4,0,1,8:47 PM,6:43,Davis REBOUND (Off:0 Def:1),,,,
+0020401214,41,6,2,1,8:48 PM,6:30,,,Thomas S.FOUL (P1.T3),,
+0020401214,42,3,11,1,8:48 PM,6:30,Griffin Free Throw 1 of 2 (1 PTS),,,5 - 11,6
+0020401214,43,3,12,1,8:48 PM,6:30,Griffin Free Throw 2 of 2 (2 PTS),,,5 - 12,7
+0020401214,44,1,7,1,8:49 PM,6:11,,,Taylor  Dunk (2 PTS) (Marbury 1 AST),7 - 12,5
+0020401214,45,5,1,1,8:49 PM,5:57,Davis Bad Pass Turnover (P1.T2),,Taylor STEAL (1 STL),,
+0020401214,46,2,5,1,8:49 PM,5:49,,,MISS Taylor  Layup,,
+0020401214,47,4,0,1,8:49 PM,5:48,Harrington REBOUND (Off:0 Def:2),,,,
+0020401214,48,2,1,1,8:49 PM,5:34,MISS Davis 13' Jump Shot,,,,
+0020401214,50,4,0,1,8:49 PM,5:32,Harrington REBOUND (Off:1 Def:2),,,,
+0020401214,49,2,4,1,8:49 PM,5:32,MISS Harrington  Tip Shot,,,,
+0020401214,51,4,0,1,8:49 PM,5:31,,,Thomas REBOUND (Off:0 Def:1),,
+0020401214,52,2,1,1,8:49 PM,5:24,,,MISS Thomas 17' Jump Shot,,
+0020401214,53,4,0,1,8:49 PM,5:22,Harrington REBOUND (Off:1 Def:3),,,,
+0020401214,54,2,1,1,8:50 PM,5:08,MISS Duhon 26' 3PT Jump Shot,,,,
+0020401214,55,4,0,1,8:50 PM,5:06,,,Crawford REBOUND (Off:1 Def:1),,
+0020401214,56,1,7,1,8:50 PM,5:00,,,Thomas  Dunk (2 PTS) (Marbury 2 AST),9 - 12,3
+0020401214,57,9,1,1,8:50 PM,4:59,BULLS Timeout: Regular (Full 1 Short 0),,,,
+0020401214,59,8,0,1,8:52 PM,4:59,SUB: Chandler FOR Harrington,,,,
+0020401214,60,1,41,1,8:52 PM,4:46,Duhon  Running Layup (2 PTS) (Hinrich 1 AST),,,9 - 14,5
+0020401214,61,1,1,1,8:53 PM,4:26,,,Crawford 21' Jump Shot (4 PTS) (Thomas 1 AST),11 - 14,3
+0020401214,62,2,1,1,8:53 PM,4:08,MISS Griffin 8' Jump Shot,,,,
+0020401214,63,4,0,1,8:53 PM,4:07,,,Taylor REBOUND (Off:0 Def:1),,
+0020401214,64,6,1,1,8:53 PM,4:00,Hinrich P.FOUL (P1.T2),,,,
+0020401214,65,8,0,1,8:53 PM,4:00,SUB: Nocioni FOR Griffin,,,,
+0020401214,66,8,0,1,8:53 PM,4:00,SUB: Gordon FOR Duhon,,,,
+0020401214,67,6,4,1,8:54 PM,3:55,,,Thomas OFF.Foul (P2),,
+0020401214,68,5,5,1,8:54 PM,3:55,,,Thomas Foul Turnover (P1.T5),,
+0020401214,69,8,0,1,8:54 PM,3:55,,,SUB: Rose FOR Thomas,,
+0020401214,70,2,1,1,8:54 PM,3:42,MISS Nocioni 20' Jump Shot,,,,
+0020401214,71,4,0,1,8:54 PM,3:40,,,Taylor REBOUND (Off:0 Def:2),,
+0020401214,72,5,1,1,8:54 PM,3:34,,,Crawford Bad Pass Turnover (P2.T6),,
+0020401214,73,2,1,1,8:55 PM,3:22,MISS Hinrich 24' 3PT Jump Shot,,,,
+0020401214,74,4,0,1,8:55 PM,3:20,,,Thomas REBOUND (Off:0 Def:2),,
+0020401214,75,6,2,1,8:55 PM,3:04,Hinrich S.FOUL (P2.T3),,,,
+0020401214,76,3,11,1,8:55 PM,3:04,,,MISS Taylor Free Throw 1 of 2,,
+0020401214,77,4,1,1,8:55 PM,3:04,,,Knicks Rebound,,
+0020401214,78,8,0,1,8:56 PM,3:04,SUB: Duhon FOR Hinrich,,,,
+0020401214,79,3,12,1,8:56 PM,3:04,,,MISS Taylor Free Throw 2 of 2,,
+0020401214,80,4,0,1,8:56 PM,3:03,Nocioni REBOUND (Off:0 Def:2),,,,
+0020401214,81,2,1,1,8:56 PM,2:45,MISS Chandler 9' Jump Shot,,,,
+0020401214,82,4,0,1,8:56 PM,2:44,,,Rose REBOUND (Off:0 Def:1),,
+0020401214,83,1,1,1,8:56 PM,2:36,,,Crawford 20' Jump Shot (6 PTS),13 - 14,1
+0020401214,84,2,1,1,8:57 PM,2:22,MISS Gordon 19' Jump Shot,,,,
+0020401214,85,4,0,1,8:57 PM,2:20,,,Thomas REBOUND (Off:0 Def:3),,
+0020401214,86,5,40,1,8:57 PM,2:18,,,Thomas Out of Bounds Lost Ball Turnover (P1.T7),,
+0020401214,87,9,1,1,8:57 PM,2:18,,,Knicks Timeout: Regular (Reg.1 Short 0),,
+0020401214,89,8,0,1,8:59 PM,2:18,SUB: Harrington FOR Davis,,,,
+0020401214,90,2,5,1,8:59 PM,2:07,MISS Nocioni  Layup,,,,
+0020401214,92,4,0,1,8:59 PM,2:06,Chandler REBOUND (Off:1 Def:0),,,,
+0020401214,91,2,4,1,8:59 PM,2:06,MISS Chandler  Tip Shot,,,,
+0020401214,93,4,0,1,8:59 PM,2:04,,,Crawford REBOUND (Off:1 Def:2),,
+0020401214,94,1,1,1,9:00 PM,1:49,,,Marbury 21' Jump Shot (5 PTS) (Thomas 2 AST),15 - 14,-1
+0020401214,95,2,1,1,9:00 PM,1:32,MISS Chandler 15' Jump Shot,,,,
+0020401214,96,4,0,1,9:00 PM,1:30,,,Thomas REBOUND (Off:0 Def:4),,
+0020401214,97,1,1,1,9:00 PM,1:20,,,Thomas 18' Jump Shot (2 PTS) (Crawford 1 AST),17 - 14,-3
+0020401214,98,1,1,1,9:00 PM,0:59,Gordon 24' 3PT Jump Shot (3 PTS) (Nocioni 1 AST),,,17 - 17,TIE
+0020401214,99,2,1,1,9:01 PM,0:48,,,MISS Marbury 19' Jump Shot,,
+0020401214,100,4,0,1,9:01 PM,0:46,Harrington REBOUND (Off:1 Def:4),,,,
+0020401214,101,7,5,1,9:01 PM,0:40,,,Thomas Violation:Kicked Ball,,
+0020401214,102,8,0,1,9:01 PM,0:40,,,SUB: Jackson FOR Marbury,,
+0020401214,103,2,1,1,9:01 PM,0:32,MISS Gordon 9' Jump Shot,,,,
+0020401214,104,4,0,1,9:01 PM,0:30,,,Thomas REBOUND (Off:0 Def:5),,
+0020401214,105,2,1,1,9:02 PM,0:16,,,MISS Crawford 19' Jump Shot,,
+0020401214,106,4,0,1,9:02 PM,0:13,,,Rose REBOUND (Off:1 Def:1),,
+0020401214,107,1,5,1,9:02 PM,0:12,,,Rose  Layup (2 PTS),19 - 17,-2
+0020401214,108,2,1,1,9:02 PM,0:03,MISS Nocioni 24' 3PT Jump Shot,,,,
+0020401214,109,4,0,1,9:02 PM,0:01,,,Taylor REBOUND (Off:0 Def:3),,
+0020401214,110,13,0,1,9:02 PM,0:00,,,,19 - 17,-2
+0020401214,112,12,0,2,9:05 PM,12:00,,,,19 - 17,-2
+0020401214,113,2,1,2,9:05 PM,11:48,MISS Gordon 19' Jump Shot,,,,
+0020401214,114,4,0,2,9:05 PM,11:47,,,Crawford REBOUND (Off:1 Def:3),,
+0020401214,115,1,1,2,9:05 PM,11:34,,,Taylor 22' Jump Shot (4 PTS) (Crawford 2 AST),21 - 17,-4
+0020401214,116,5,1,2,9:06 PM,11:19,Gordon Bad Pass Turnover (P1.T3),,Crawford STEAL (1 STL),,
+0020401214,117,6,1,2,9:06 PM,11:14,Gordon P.FOUL (P1.T1),,,,
+0020401214,118,8,0,2,9:06 PM,11:14,SUB: Hinrich FOR Gordon,,,,
+0020401214,119,8,0,2,9:06 PM,11:14,SUB: Piatkowski FOR Duhon,,,,
+0020401214,120,2,1,2,9:06 PM,10:56,,,MISS Rose 21' Jump Shot,,
+0020401214,121,4,0,2,9:06 PM,10:55,,,Knicks Rebound,,
+0020401214,122,5,11,2,9:07 PM,10:55,,,Knicks Turnover: Shot Clock (T#8),,
+0020401214,123,2,5,2,9:07 PM,10:38,MISS Hinrich  Layup,,,,
+0020401214,124,4,0,2,9:07 PM,10:37,,,Taylor REBOUND (Off:0 Def:4),,
+0020401214,125,1,1,2,9:07 PM,10:32,,,Crawford 12' Jump Shot (8 PTS) (Taylor 1 AST),23 - 17,-6
+0020401214,126,2,1,2,9:07 PM,10:12,MISS Nocioni 10' Jump Shot,,,,
+0020401214,127,4,0,2,9:07 PM,10:11,,,Taylor REBOUND (Off:0 Def:5),,
+0020401214,128,2,1,2,9:08 PM,9:58,,,MISS Crawford 26' 3PT Jump Shot,,
+0020401214,129,4,0,2,9:08 PM,9:56,,,Rose REBOUND (Off:2 Def:1),,
+0020401214,130,1,1,2,9:08 PM,9:52,,,Thomas 21' Jump Shot (4 PTS) (Rose 1 AST),25 - 17,-8
+0020401214,131,9,1,2,9:08 PM,9:47,BULLS Timeout: Regular (Full 2 Short 0),,,,
+0020401214,133,8,0,2,9:09 PM,9:47,SUB: Davis FOR Chandler,,,,
+0020401214,134,8,0,2,9:10 PM,9:47,,,SUB: Williams FOR Thomas,,
+0020401214,135,2,59,2,9:10 PM,9:31,MISS Hinrich 8' Finger Roll,,,,
+0020401214,136,4,0,2,9:10 PM,9:28,Davis REBOUND (Off:1 Def:1),,,,
+0020401214,137,1,1,2,9:10 PM,9:25,Piatkowski 26' 3PT Jump Shot (3 PTS) (Davis 1 AST),,,25 - 20,-5
+0020401214,138,6,1,2,9:11 PM,9:03,Hinrich P.FOUL (P3.T2),,,,
+0020401214,139,8,0,2,9:11 PM,9:03,SUB: Duhon FOR Hinrich,,,,
+0020401214,140,2,5,2,9:11 PM,8:59,,,MISS Crawford  Layup,,
+0020401214,141,4,0,2,9:11 PM,8:58,Nocioni REBOUND (Off:0 Def:3),,,,
+0020401214,142,2,1,2,9:11 PM,8:52,MISS Piatkowski 25' 3PT Jump Shot,,,,
+0020401214,143,4,0,2,9:11 PM,8:50,,,Jackson REBOUND (Off:0 Def:1),,
+0020401214,144,2,1,2,9:12 PM,8:28,,,MISS Taylor 19' Jump Shot,,
+0020401214,145,4,0,2,9:12 PM,8:27,Harrington REBOUND (Off:1 Def:5),,,,
+0020401214,146,5,41,2,9:12 PM,8:18,Piatkowski Poss Lost Ball Turnover (P1.T4),,,,
+0020401214,147,6,1,2,9:12 PM,8:05,Harrington P.FOUL (P1.T3),,,,
+0020401214,148,1,1,2,9:13 PM,7:58,,,Jackson 21' Jump Shot (2 PTS),27 - 20,-7
+0020401214,149,2,1,2,9:13 PM,7:34,MISS Davis 11' Jump Shot,,,,
+0020401214,150,4,0,2,9:13 PM,7:32,,,Rose REBOUND (Off:2 Def:2),,
+0020401214,151,1,1,2,9:13 PM,7:10,,,Taylor 8' Jump Shot (6 PTS),29 - 20,-9
+0020401214,152,2,1,2,9:14 PM,6:56,MISS Piatkowski 20' Jump Shot,,,,
+0020401214,153,4,0,2,9:14 PM,6:55,,,Taylor REBOUND (Off:0 Def:6),,
+0020401214,154,6,1,2,9:14 PM,6:55,Harrington P.FOUL (P2.T4),,,,
+0020401214,155,8,0,2,9:14 PM,6:55,SUB: Chandler FOR Harrington,,,,
+0020401214,156,8,0,2,9:14 PM,6:55,,,SUB: Marbury FOR Crawford,,
+0020401214,157,2,1,2,9:14 PM,6:38,,,MISS Taylor 16' Jump Shot,,
+0020401214,158,4,0,2,9:14 PM,6:36,Nocioni REBOUND (Off:0 Def:4),,,,
+0020401214,159,1,1,2,9:15 PM,6:22,Nocioni 23' Jump Shot (4 PTS) (Duhon 3 AST),,,29 - 22,-7
+0020401214,160,2,1,2,9:15 PM,6:03,Nocioni BLOCK (1 BLK),,MISS Rose 19' Jump Shot,,
+0020401214,161,4,0,2,9:15 PM,6:01,Chandler REBOUND (Off:1 Def:1),,,,
+0020401214,162,1,1,2,9:15 PM,5:49,Duhon 8' Jump Shot (4 PTS),,,29 - 24,-5
+0020401214,163,9,1,2,9:15 PM,5:39,,,,,
+0020401214,165,8,0,2,9:17 PM,5:39,,,SUB: Ariza FOR Rose,,
+0020401214,166,8,0,2,9:18 PM,5:39,SUB: Pargo FOR Piatkowski,,,,
+0020401214,167,5,11,2,9:18 PM,5:19,,,Knicks Turnover: Shot Clock (T#9),,
+0020401214,168,1,5,2,9:19 PM,5:08,Davis  Layup (4 PTS) (Pargo 1 AST),,,29 - 26,-3
+0020401214,169,2,1,2,9:19 PM,4:46,,,MISS Ariza  3PT Jump Shot,,
+0020401214,170,4,0,2,9:19 PM,4:42,,,Williams REBOUND (Off:1 Def:0),,
+0020401214,171,8,0,2,9:20 PM,4:42,,,SUB: Sweetney FOR Taylor,,
+0020401214,172,8,0,2,9:20 PM,4:42,,,SUB: Thomas FOR Williams,,
+0020401214,173,2,1,2,9:20 PM,4:33,,,MISS Sweetney 22' Jump Shot,,
+0020401214,174,4,0,2,9:20 PM,4:31,Nocioni REBOUND (Off:0 Def:5),,,,
+0020401214,175,2,1,2,9:20 PM,4:25,MISS Duhon 25' 3PT Jump Shot,,,,
+0020401214,176,4,0,2,9:20 PM,4:23,,,Sweetney REBOUND (Off:0 Def:1),,
+0020401214,177,8,0,2,9:20 PM,4:16,,,SUB: Crawford FOR Jackson,,
+0020401214,178,2,1,2,9:20 PM,4:08,,,MISS Crawford 25' 3PT Jump Shot,,
+0020401214,179,4,0,2,9:20 PM,4:06,,,Thomas REBOUND (Off:1 Def:5),,
+0020401214,180,2,1,2,9:20 PM,4:03,,,MISS Thomas 15' Jump Shot,,
+0020401214,181,4,0,2,9:20 PM,4:03,BULLS Rebound,,,,
+0020401214,182,6,3,2,9:21 PM,4:03,,,Sweetney L.B.FOUL (P3.T1),,
+0020401214,183,8,0,2,9:21 PM,4:03,,,SUB: Williams FOR Sweetney,,
+0020401214,184,5,1,2,9:21 PM,3:48,Nocioni Bad Pass Turnover (P2.T5),,,,
+0020401214,185,1,5,2,9:22 PM,3:28,,,Williams  Layup (2 PTS) (Thomas 3 AST),31 - 26,-5
+0020401214,186,2,1,2,9:22 PM,3:17,MISS Nocioni 22' Jump Shot,,,,
+0020401214,187,4,0,2,9:22 PM,3:15,,,Crawford REBOUND (Off:1 Def:4),,
+0020401214,188,2,1,2,9:22 PM,3:08,,,MISS Marbury 26' 3PT Jump Shot,,
+0020401214,189,4,0,2,9:22 PM,3:06,,,Crawford REBOUND (Off:2 Def:4),,
+0020401214,190,2,1,2,9:22 PM,3:05,,,MISS Crawford 27' 3PT Jump Shot,,
+0020401214,191,4,0,2,9:22 PM,3:03,Duhon REBOUND (Off:0 Def:2),,,,
+0020401214,192,1,1,2,9:22 PM,2:56,Pargo 26' 3PT Jump Shot (3 PTS) (Duhon 4 AST),,,31 - 29,-2
+0020401214,193,2,1,2,9:22 PM,2:36,,,MISS Marbury 21' Jump Shot,,
+0020401214,194,4,0,2,9:22 PM,2:31,,,Williams REBOUND (Off:2 Def:0),,
+0020401214,195,1,5,2,9:22 PM,2:30,,,Williams  Layup (4 PTS),33 - 29,-4
+0020401214,196,1,1,2,9:23 PM,2:20,Pargo 20' Jump Shot (5 PTS) (Duhon 5 AST),,,33 - 31,-2
+0020401214,197,2,1,2,9:23 PM,2:07,,,MISS Marbury  Jump Shot,,
+0020401214,198,4,0,2,9:23 PM,2:05,,,Williams REBOUND (Off:3 Def:0),,
+0020401214,199,1,5,2,9:23 PM,1:54,,,Marbury  Layup (7 PTS),35 - 31,-4
+0020401214,200,1,1,2,9:23 PM,1:39,Pargo 25' 3PT Jump Shot (8 PTS) (Davis 2 AST),,,35 - 34,-1
+0020401214,201,1,41,2,9:24 PM,1:25,,,Marbury  Running Layup (9 PTS),37 - 34,-3
+0020401214,202,5,2,2,9:24 PM,1:07,Chandler Lost Ball Turnover (P1.T6),,Ariza STEAL (1 STL),,
+0020401214,203,6,1,2,9:24 PM,1:05,Duhon P.FOUL (P1.PN),,,,
+0020401214,204,9,1,2,9:24 PM,1:05,,,Knicks Timeout: Regular (Reg.2 Short 0),,
+0020401214,206,8,0,2,9:27 PM,1:05,SUB: Funderburke FOR Chandler,,,,
+0020401214,207,3,11,2,9:27 PM,1:05,,,MISS Crawford Free Throw 1 of 2,,
+0020401214,208,4,1,2,9:27 PM,1:05,,,Knicks Rebound,,
+0020401214,209,3,12,2,9:27 PM,1:05,,,Crawford Free Throw 2 of 2 (9 PTS),38 - 34,-4
+0020401214,210,2,1,2,9:28 PM,0:45,MISS Duhon 24' 3PT Jump Shot,,,,
+0020401214,211,4,0,2,9:28 PM,0:42,,,Ariza REBOUND (Off:0 Def:1),,
+0020401214,212,1,1,2,9:28 PM,0:30,,,Thomas 19' Jump Shot (6 PTS) (Ariza 1 AST),40 - 34,-6
+0020401214,213,1,41,2,9:28 PM,0:07,Pargo  Running Layup (10 PTS),,,40 - 36,-4
+0020401214,214,1,1,2,9:28 PM,0:00,,,Ariza 24' 3PT Jump Shot (3 PTS) (Marbury 3 AST),43 - 36,-7
+0020401214,215,2,1,2,9:28 PM,0:00,MISS Pargo 41' 3PT Jump Shot,,,,
+0020401214,217,4,0,2,9:28 PM,0:00,BULLS Rebound,,,,
+0020401214,216,13,0,2,9:28 PM,0:00,,,,43 - 36,-7
+0020401214,219,12,0,3,9:45 PM,12:00,,,,43 - 36,-7
+0020401214,220,1,66,3,9:45 PM,11:48,Harrington 8' Jump Bank Shot (2 PTS) (Duhon 6 AST),,,43 - 38,-5
+0020401214,221,1,1,3,9:45 PM,11:28,,,Rose 21' Jump Shot (4 PTS) (Crawford 3 AST),45 - 38,-7
+0020401214,222,2,1,3,9:45 PM,11:14,MISS Nocioni 21' Jump Shot,,,,
+0020401214,223,4,0,3,9:45 PM,11:12,,,Sweetney REBOUND (Off:0 Def:2),,
+0020401214,224,1,1,3,9:46 PM,10:55,,,Thomas 16' Jump Shot (8 PTS) (Crawford 4 AST),47 - 38,-9
+0020401214,225,1,1,3,9:46 PM,10:40,Hinrich 25' 3PT Jump Shot (9 PTS),,,47 - 41,-6
+0020401214,226,1,1,3,9:46 PM,10:21,,,Crawford 24' 3PT Jump Shot (12 PTS) (Thomas 4 AST),50 - 41,-9
+0020401214,227,1,59,3,9:46 PM,10:08,Hinrich  Finger Roll (11 PTS) (Duhon 7 AST),,,50 - 43,-7
+0020401214,228,2,1,3,9:47 PM,9:49,,,MISS Rose 20' Jump Shot,,
+0020401214,229,4,0,3,9:47 PM,9:47,Davis REBOUND (Off:1 Def:2),,,,
+0020401214,230,2,1,3,9:47 PM,9:33,MISS Nocioni 11' Jump Shot,,,,
+0020401214,231,4,0,3,9:47 PM,9:31,,,Sweetney REBOUND (Off:0 Def:3),,
+0020401214,232,2,1,3,9:47 PM,9:22,,,MISS Crawford 10' Jump Shot,,
+0020401214,233,4,0,3,9:47 PM,9:20,,,Rose REBOUND (Off:3 Def:2),,
+0020401214,234,1,1,3,9:47 PM,9:16,,,Thomas 15' Jump Shot (10 PTS) (Marbury 4 AST),52 - 43,-9
+0020401214,235,1,1,3,9:48 PM,8:53,Hinrich 24' 3PT Jump Shot (14 PTS) (Nocioni 2 AST),,,52 - 46,-6
+0020401214,236,2,1,3,9:48 PM,8:33,,,MISS Thomas 20' Jump Shot,,
+0020401214,237,4,0,3,9:48 PM,8:31,Nocioni REBOUND (Off:0 Def:6),,,,
+0020401214,238,2,1,3,9:48 PM,8:21,MISS Harrington 15' Jump Shot,,,,
+0020401214,239,4,0,3,9:49 PM,8:21,BULLS Rebound,,,,
+0020401214,240,2,1,3,9:49 PM,8:17,MISS Hinrich 17' Jump Shot,,,,
+0020401214,241,4,0,3,9:49 PM,8:16,,,Knicks Rebound,,
+0020401214,242,2,1,3,9:50 PM,7:55,,,MISS Rose 19' Jump Shot,,
+0020401214,243,4,0,3,9:50 PM,7:54,Duhon REBOUND (Off:0 Def:3),,,,
+0020401214,244,2,1,3,9:50 PM,7:41,MISS Nocioni 20' Jump Shot,,,,
+0020401214,245,4,0,3,9:50 PM,7:40,,,Sweetney REBOUND (Off:0 Def:4),,
+0020401214,246,6,2,3,9:50 PM,7:33,Davis S.FOUL (P2.T1),,,,
+0020401214,247,8,0,3,9:50 PM,7:33,SUB: Gordon FOR Nocioni,,,,
+0020401214,248,3,11,3,9:50 PM,7:33,,,MISS Rose Free Throw 1 of 2,,
+0020401214,249,4,1,3,9:50 PM,7:33,,,Knicks Rebound,,
+0020401214,250,3,12,3,9:50 PM,7:33,,,Rose Free Throw 2 of 2 (5 PTS),53 - 46,-7
+0020401214,251,6,1,3,9:51 PM,7:22,,,Marbury P.FOUL (P1.T1),,
+0020401214,252,2,1,3,9:51 PM,7:11,MISS Hinrich  3PT Jump Shot,,,,
+0020401214,253,4,0,3,9:51 PM,7:09,,,Sweetney REBOUND (Off:0 Def:5),,
+0020401214,254,2,1,3,9:52 PM,6:49,,,MISS Thomas 17' Jump Shot,,
+0020401214,255,4,0,3,9:52 PM,6:47,Davis REBOUND (Off:1 Def:3),,,,
+0020401214,256,2,1,3,9:52 PM,6:37,MISS Gordon 19' Jump Shot,,Crawford BLOCK (1 BLK),,
+0020401214,257,4,0,3,9:52 PM,6:34,,,Thomas REBOUND (Off:1 Def:6),,
+0020401214,258,1,7,3,9:52 PM,6:31,,,Sweetney  Dunk (2 PTS) (Crawford 5 AST),55 - 46,-9
+0020401214,259,1,1,3,9:52 PM,6:16,Duhon 25' 3PT Jump Shot (7 PTS) (Hinrich 2 AST),,,55 - 49,-6
+0020401214,260,6,4,3,9:53 PM,6:01,,,Sweetney OFF.Foul (P4),,
+0020401214,261,5,5,3,9:53 PM,6:01,,,Sweetney Foul Turnover (P1.T10),,
+0020401214,262,8,0,3,9:53 PM,6:01,SUB: Chandler FOR Harrington,,,,
+0020401214,263,8,0,3,9:53 PM,6:01,,,SUB: Ariza FOR Sweetney,,
+0020401214,264,1,1,3,9:53 PM,5:50,Gordon  3PT Jump Shot (6 PTS) (Duhon 8 AST),,,55 - 52,-3
+0020401214,265,9,1,3,9:53 PM,5:42,,,Knicks Timeout: Regular (Reg.3 Short 0),,
+0020401214,267,1,1,3,9:56 PM,5:32,,,Marbury 17' Jump Shot (11 PTS),57 - 52,-5
+0020401214,268,1,1,3,9:56 PM,5:17,Chandler 7' Jump Shot (2 PTS) (Hinrich 3 AST),,,57 - 54,-3
+0020401214,269,6,1,3,9:56 PM,5:07,Gordon P.FOUL (P2.T2),,,,
+0020401214,270,3,11,3,9:57 PM,5:07,,,Marbury Free Throw 1 of 2 (12 PTS),58 - 54,-4
+0020401214,271,3,12,3,9:57 PM,5:07,,,Marbury Free Throw 2 of 2 (13 PTS),59 - 54,-5
+0020401214,272,6,1,3,9:57 PM,4:59,,,Ariza P.FOUL (P1.T2),,
+0020401214,273,5,1,3,9:57 PM,4:56,Duhon Bad Pass Turnover (P1.T7),,Marbury STEAL (2 STL),,
+0020401214,274,5,41,3,9:58 PM,4:37,,,Crawford Poss Lost Ball Turnover (P3.T11),,
+0020401214,275,2,1,3,9:58 PM,4:29,MISS Hinrich 22' Jump Shot,,,,
+0020401214,276,4,0,3,9:58 PM,4:27,Davis REBOUND (Off:2 Def:3),,,,
+0020401214,277,2,5,3,9:58 PM,4:22,MISS Duhon  Layup,,,,
+0020401214,278,4,0,3,9:58 PM,4:21,,,Ariza REBOUND (Off:0 Def:2),,
+0020401214,279,5,1,3,9:58 PM,4:16,Hinrich STEAL (1 STL),,Crawford Bad Pass Turnover (P4.T12),,
+0020401214,280,1,5,3,9:58 PM,4:12,Hinrich  Layup (16 PTS) (Gordon 1 AST),,,59 - 56,-3
+0020401214,281,1,1,3,9:59 PM,3:52,,,Ariza  3PT Jump Shot (6 PTS) (Marbury 5 AST),62 - 56,-6
+0020401214,282,1,1,3,9:59 PM,3:41,Hinrich 26' 3PT Jump Shot (19 PTS),,,62 - 59,-3
+0020401214,283,6,2,3,9:59 PM,3:25,Chandler S.FOUL (P1.T3),,,,
+0020401214,284,3,11,3,9:59 PM,3:25,,,Marbury Free Throw 1 of 2 (14 PTS),63 - 59,-4
+0020401214,285,3,12,3,10:00 PM,3:25,,,Marbury Free Throw 2 of 2 (15 PTS),64 - 59,-5
+0020401214,286,2,1,3,10:00 PM,3:13,MISS Gordon 18' Jump Shot,,,,
+0020401214,287,4,0,3,10:00 PM,3:11,,,Rose REBOUND (Off:3 Def:3),,
+0020401214,288,2,1,3,10:00 PM,3:03,,,MISS Ariza 24' 3PT Jump Shot,,
+0020401214,289,4,0,3,10:00 PM,3:01,Gordon REBOUND (Off:0 Def:1),,,,
+0020401214,290,6,2,3,10:00 PM,2:57,,,Marbury S.FOUL (P2.T3),,
+0020401214,291,9,1,3,10:00 PM,2:57,BULLS Timeout: Regular (Full 3 Short 0),,,,
+0020401214,293,8,0,3,10:03 PM,2:57,SUB: Nocioni FOR Davis,,,,
+0020401214,294,3,11,3,10:03 PM,2:57,Hinrich Free Throw 1 of 2 (20 PTS),,,64 - 60,-4
+0020401214,295,3,12,3,10:03 PM,2:57,Hinrich Free Throw 2 of 2 (21 PTS),,,64 - 61,-3
+0020401214,296,2,5,3,10:03 PM,2:37,Chandler BLOCK (1 BLK),,MISS Rose  Layup,,
+0020401214,297,4,0,3,10:03 PM,2:35,Hinrich REBOUND (Off:0 Def:1),,,,
+0020401214,298,1,1,3,10:04 PM,2:29,Gordon 21' Jump Shot (8 PTS) (Hinrich 4 AST),,,64 - 63,-1
+0020401214,299,6,1,3,10:04 PM,2:09,Chandler P.FOUL (P2.T4),,,,
+0020401214,300,5,1,3,10:05 PM,2:02,Gordon STEAL (1 STL),,Rose Bad Pass Turnover (P1.T13),,
+0020401214,301,2,1,3,10:05 PM,1:55,MISS Gordon 19' Jump Shot,,,,
+0020401214,302,4,0,3,10:05 PM,1:53,Chandler REBOUND (Off:2 Def:1),,,,
+0020401214,303,2,1,3,10:05 PM,1:50,MISS Duhon 25' 3PT Jump Shot,,,,
+0020401214,304,4,0,3,10:05 PM,1:48,,,Ariza REBOUND (Off:0 Def:3),,
+0020401214,305,1,5,3,10:05 PM,1:41,,,Crawford  Layup (14 PTS),66 - 63,-3
+0020401214,306,2,1,3,10:05 PM,1:29,MISS Hinrich 19' Jump Shot,,,,
+0020401214,307,4,0,3,10:05 PM,1:27,,,Marbury REBOUND (Off:0 Def:2),,
+0020401214,308,1,1,3,10:05 PM,1:15,,,Rose 19' Jump Shot (7 PTS) (Marbury 6 AST),68 - 63,-5
+0020401214,309,2,1,3,10:06 PM,0:59,MISS Hinrich 24' 3PT Jump Shot,,,,
+0020401214,310,4,0,3,10:06 PM,0:56,,,Ariza REBOUND (Off:0 Def:4),,
+0020401214,311,2,5,3,10:06 PM,0:46,Chandler BLOCK (2 BLK),,MISS Marbury  Layup,,
+0020401214,312,4,0,3,10:06 PM,0:44,Nocioni REBOUND (Off:0 Def:7),,,,
+0020401214,313,1,1,3,10:06 PM,0:31,Gordon 24' 3PT Jump Shot (11 PTS) (Duhon 9 AST),,,68 - 66,-2
+0020401214,314,5,1,3,10:07 PM,0:16,Nocioni STEAL (1 STL),,Crawford Bad Pass Turnover (P5.T14),,
+0020401214,315,1,41,3,10:07 PM,0:12,Gordon  Running Layup (13 PTS),,,68 - 68,TIE
+0020401214,316,6,2,3,10:07 PM,0:12,,,Rose S.FOUL (P1.T4),,
+0020401214,317,8,0,3,10:07 PM,0:12,,,SUB: Taylor FOR Rose,,
+0020401214,318,8,0,3,10:07 PM,0:12,SUB: Griffin FOR Hinrich,,,,
+0020401214,319,3,10,3,10:07 PM,0:12,Gordon Free Throw 1 of 1 (14 PTS),,,68 - 69,1
+0020401214,320,2,1,3,10:08 PM,0:00,,,MISS Crawford 26' 3PT Jump Shot,,
+0020401214,322,4,0,3,10:08 PM,0:00,,,Knicks Rebound,,
+0020401214,321,13,0,3,10:08 PM,0:00,,,,68 - 69,1
+0020401214,324,12,0,4,10:11 PM,12:00,,,,68 - 69,1
+0020401214,325,2,1,4,10:11 PM,11:40,,,MISS Taylor 14' Jump Shot,,
+0020401214,326,4,0,4,10:11 PM,11:38,,,Ariza REBOUND (Off:1 Def:4),,
+0020401214,327,6,1,4,10:11 PM,11:38,Gordon P.FOUL (P3.T1),,,,
+0020401214,328,2,5,4,10:12 PM,11:29,Chandler BLOCK (3 BLK),,MISS Ariza  Layup,,
+0020401214,329,4,0,4,10:12 PM,11:26,Nocioni REBOUND (Off:0 Def:8),,,,
+0020401214,330,6,4,4,10:12 PM,11:18,Duhon OFF.Foul (P2),,,,
+0020401214,331,5,5,4,10:12 PM,11:18,Duhon Foul Turnover (P2.T8),,,,
+0020401214,332,2,1,4,10:12 PM,11:07,,,MISS Crawford 20' Jump Shot,,
+0020401214,333,4,0,4,10:12 PM,11:05,,,Williams REBOUND (Off:4 Def:0),,
+0020401214,334,5,2,4,10:12 PM,11:03,Gordon STEAL (2 STL),,Williams Lost Ball Turnover (P1.T15),,
+0020401214,335,6,2,4,10:13 PM,10:58,,,Ariza S.FOUL (P2.T1),,
+0020401214,336,3,11,4,10:13 PM,10:58,Nocioni Free Throw 1 of 2 (5 PTS),,,68 - 70,2
+0020401214,337,3,12,4,10:13 PM,10:58,Nocioni Free Throw 2 of 2 (6 PTS),,,68 - 71,3
+0020401214,338,1,7,4,10:14 PM,10:45,,,Ariza  Dunk (8 PTS) (Jackson 1 AST),70 - 71,1
+0020401214,339,1,1,4,10:14 PM,10:23,Hinrich 24' 3PT Jump Shot (24 PTS) (Gordon 2 AST),,,70 - 74,4
+0020401214,340,2,3,4,10:14 PM,9:57,,,MISS Taylor 8' Hook Shot,,
+0020401214,341,4,0,4,10:14 PM,9:54,,,Taylor REBOUND (Off:1 Def:6),,
+0020401214,342,1,1,4,10:15 PM,9:43,,,Crawford 15' Jump Shot (16 PTS),72 - 74,2
+0020401214,343,1,41,4,10:15 PM,9:26,Duhon  Running Layup (9 PTS) (Hinrich 5 AST),,,72 - 76,4
+0020401214,344,6,2,4,10:15 PM,9:04,Chandler S.FOUL (P3.T2),,,,
+0020401214,345,3,11,4,10:16 PM,9:04,,,Taylor Free Throw 1 of 2 (7 PTS),73 - 76,3
+0020401214,346,3,12,4,10:16 PM,9:04,,,Taylor Free Throw 2 of 2 (8 PTS),74 - 76,2
+0020401214,347,5,1,4,10:16 PM,9:04,Nocioni Bad Pass Turnover (P3.T9),,Ariza STEAL (2 STL),,
+0020401214,348,1,7,4,10:16 PM,9:04,,,Williams  Dunk (6 PTS) (Crawford 6 AST),76 - 76,TIE
+0020401214,349,2,1,4,10:17 PM,8:43,MISS Gordon 10' Jump Shot,,,,
+0020401214,350,4,0,4,10:17 PM,8:43,,,Knicks Rebound,,
+0020401214,351,6,3,4,10:17 PM,8:43,Chandler L.B.FOUL (P4.T3),,,,
+0020401214,352,9,1,4,10:17 PM,8:43,,,,,
+0020401214,354,8,0,4,10:19 PM,8:43,SUB: Davis FOR Chandler,,,,
+0020401214,355,6,2,4,10:19 PM,8:28,Nocioni S.FOUL (P1.T4),,,,
+0020401214,356,3,11,4,10:20 PM,8:28,,,Ariza Free Throw 1 of 2 (9 PTS),77 - 76,-1
+0020401214,357,3,12,4,10:20 PM,8:28,,,Ariza Free Throw 2 of 2 (10 PTS),78 - 76,-2
+0020401214,358,6,1,4,10:20 PM,8:18,,,Ariza P.FOUL (P3.T2),,
+0020401214,359,8,0,4,10:20 PM,8:18,SUB: Harrington FOR Nocioni,,,,
+0020401214,360,2,1,4,10:21 PM,8:07,MISS Davis 10' Jump Shot,,,,
+0020401214,361,4,0,4,10:21 PM,8:06,,,Williams REBOUND (Off:4 Def:1),,
+0020401214,362,1,1,4,10:21 PM,7:51,,,Crawford 21' Jump Shot (18 PTS),80 - 76,-4
+0020401214,363,2,1,4,10:22 PM,7:34,MISS Gordon 24' 3PT Jump Shot,,,,
+0020401214,364,4,0,4,10:22 PM,7:32,,,Williams REBOUND (Off:4 Def:2),,
+0020401214,365,2,1,4,10:22 PM,7:18,,,MISS Taylor 22' Jump Shot,,
+0020401214,366,4,0,4,10:22 PM,7:16,Gordon REBOUND (Off:0 Def:2),,,,
+0020401214,367,5,2,4,10:22 PM,7:05,Harrington Lost Ball Turnover (P1.T10),,Williams STEAL (1 STL),,
+0020401214,368,6,4,4,10:22 PM,6:59,,,Crawford OFF.Foul (P1),,
+0020401214,369,5,5,4,10:22 PM,6:59,,,Crawford Foul Turnover (P6.T16),,
+0020401214,370,1,1,4,10:23 PM,6:45,Hinrich 21' Jump Shot (26 PTS),,,80 - 78,-2
+0020401214,371,6,2,4,10:23 PM,6:24,Harrington S.FOUL (P3.PN),,,,
+0020401214,372,3,11,4,10:24 PM,6:24,,,MISS Jackson Free Throw 1 of 2,,
+0020401214,373,4,1,4,10:24 PM,6:24,,,Knicks Rebound,,
+0020401214,374,8,0,4,10:24 PM,6:24,SUB: Pargo FOR Gordon,,,,
+0020401214,375,3,12,4,10:24 PM,6:24,,,Jackson Free Throw 2 of 2 (3 PTS),81 - 78,-3
+0020401214,376,1,41,4,10:24 PM,6:14,Hinrich  Running Layup (28 PTS),,,81 - 80,-1
+0020401214,377,1,1,4,10:25 PM,5:54,,,Crawford 15' Jump Shot (20 PTS),83 - 80,-3
+0020401214,378,2,5,4,10:25 PM,5:39,MISS Harrington  Layup,,Taylor BLOCK (1 BLK),,
+0020401214,379,4,0,4,10:25 PM,5:37,Pargo REBOUND (Off:1 Def:0),,,,
+0020401214,380,2,5,4,10:25 PM,5:31,MISS Duhon  Layup,,,,
+0020401214,381,4,0,4,10:25 PM,5:31,BULLS Rebound,,,,
+0020401214,382,6,3,4,10:25 PM,5:31,,,Williams L.B.FOUL (P1.T3),,
+0020401214,383,9,1,4,10:26 PM,5:31,BULLS Timeout: Regular (Full 4 Short 0),,,,
+0020401214,385,1,45,4,10:30 PM,5:05,Hinrich 25' 3PT Jump Shot (31 PTS) (Duhon 10 AST),,,83 - 83,TIE
+0020401214,386,1,1,4,10:30 PM,4:59,,,Taylor 13' Jump Shot (10 PTS) (Jackson 2 AST),85 - 83,-2
+0020401214,387,2,5,4,10:31 PM,4:48,MISS Pargo  Layup,,,,
+0020401214,388,4,0,4,10:31 PM,4:46,,,Taylor REBOUND (Off:1 Def:7),,
+0020401214,389,2,5,4,10:31 PM,4:25,,,MISS Crawford  Layup,,
+0020401214,390,4,0,4,10:31 PM,4:23,Duhon REBOUND (Off:0 Def:4),,,,
+0020401214,391,1,1,4,10:31 PM,4:18,Hinrich 29' 3PT Jump Shot (34 PTS) (Harrington 1 AST),,,85 - 86,1
+0020401214,392,6,1,4,10:31 PM,3:55,Hinrich P.FOUL (P4.PN),,,,
+0020401214,393,8,0,4,10:31 PM,3:55,,,SUB: Thomas FOR Taylor,,
+0020401214,394,3,11,4,10:32 PM,3:55,,,MISS Ariza Free Throw 1 of 2,,
+0020401214,395,4,1,4,10:32 PM,3:55,,,Knicks Rebound,,
+0020401214,396,3,12,4,10:32 PM,3:55,,,MISS Ariza Free Throw 2 of 2,,
+0020401214,397,4,0,4,10:32 PM,3:54,Harrington REBOUND (Off:1 Def:6),,,,
+0020401214,398,5,40,4,10:32 PM,3:40,Pargo Out of Bounds Lost Ball Turnover (P1.T11),,,,
+0020401214,399,1,5,4,10:32 PM,3:18,,,Williams  Layup (8 PTS),87 - 86,-1
+0020401214,400,9,1,4,10:32 PM,3:18,BULLS Timeout: Regular (Full 5 Short 0),,,,
+0020401214,401,8,0,4,10:33 PM,3:18,SUB: Chandler FOR Harrington,,,,
+0020401214,402,8,0,4,10:33 PM,3:18,SUB: Gordon FOR Pargo,,,,
+0020401214,404,2,1,4,10:33 PM,3:00,MISS Davis 14' Jump Shot,,,,
+0020401214,405,4,0,4,10:34 PM,2:58,,,Williams REBOUND (Off:4 Def:3),,
+0020401214,406,2,1,4,10:34 PM,2:38,,,MISS Crawford 21' Jump Shot,,
+0020401214,407,4,0,4,10:34 PM,2:37,Gordon REBOUND (Off:0 Def:3),,,,
+0020401214,408,5,8,4,10:34 PM,2:16,Chandler 3 Second Violation Turnover (P2.T12),,,,
+0020401214,409,9,1,4,10:34 PM,2:16,,,Knicks Timeout: Regular (Reg.4 Short 0),,
+0020401214,410,1,1,4,10:37 PM,1:59,,,Crawford 8' Jump Shot (22 PTS),89 - 86,-3
+0020401214,411,6,2,4,10:37 PM,1:42,,,Williams S.FOUL (P2.T4),,
+0020401214,412,3,11,4,10:37 PM,1:42,Chandler Free Throw 1 of 2 (3 PTS),,,89 - 87,-2
+0020401214,413,3,12,4,10:37 PM,1:42,Chandler Free Throw 2 of 2 (4 PTS),,,89 - 88,-1
+0020401214,414,2,5,4,10:38 PM,1:19,Chandler BLOCK (4 BLK),,MISS Williams  Layup,,
+0020401214,415,4,0,4,10:38 PM,1:17,,,Ariza REBOUND (Off:2 Def:4),,
+0020401214,416,5,11,4,10:38 PM,1:17,,,Knicks Turnover: Shot Clock (T#17),,
+0020401214,417,6,2,4,10:39 PM,1:02,,,Thomas S.FOUL (P1.PN),,
+0020401214,418,3,11,4,10:39 PM,1:02,Duhon Free Throw 1 of 2 (10 PTS),,,89 - 89,TIE
+0020401214,419,3,12,4,10:39 PM,1:02,Duhon Free Throw 2 of 2 (11 PTS),,,89 - 90,1
+0020401214,421,1,1,4,10:40 PM,0:47,,,Crawford 12' Jump Shot (24 PTS),91 - 90,-1
+0020401214,422,2,1,4,10:40 PM,0:36,MISS Gordon 25' 3PT Jump Shot,,,,
+0020401214,423,4,0,4,10:40 PM,0:35,Gordon REBOUND (Off:1 Def:3),,,,
+0020401214,424,5,39,4,10:40 PM,0:35,Gordon Step Out of Bounds Turnover (P2.T13),,,,
+0020401214,425,9,1,4,10:40 PM,0:35,,,Knicks Timeout: Regular (Reg.5 Short 0),,
+0020401214,428,2,1,4,10:43 PM,0:13,,,MISS Crawford 25' 3PT Jump Shot,,
+0020401214,429,4,0,4,10:43 PM,0:13,Duhon REBOUND (Off:0 Def:5),,,,
+0020401214,430,9,1,4,10:43 PM,0:13,BULLS Timeout: Regular (Full 6 Short 0),,,,
+0020401214,432,8,0,4,10:45 PM,0:13,SUB: Nocioni FOR Davis,,,,
+0020401214,433,6,4,4,10:45 PM,0:12,Chandler OFF.Foul (P5),,,,
+0020401214,434,5,5,4,10:45 PM,0:12,Chandler Foul Turnover (P3.T14),,,,
+0020401214,435,9,1,4,10:46 PM,0:12,,,Knicks Timeout: Regular (Reg.6 Short 0),,
+0020401214,436,8,0,4,10:47 PM,0:12,,,SUB: Marbury FOR Williams,,
+0020401214,437,6,1,4,10:48 PM,0:11,Chandler P.FOUL (P6.PN),,,,
+0020401214,438,8,0,4,10:48 PM,0:11,,,SUB: Williams FOR Marbury,,
+0020401214,439,8,0,4,10:48 PM,0:11,SUB: Davis FOR Chandler,,,,
+0020401214,440,3,11,4,10:48 PM,0:11,,,MISS Crawford Free Throw 1 of 2,,
+0020401214,441,4,1,4,10:48 PM,0:11,,,Knicks Rebound,,
+0020401214,442,3,12,4,10:48 PM,0:11,,,MISS Crawford Free Throw 2 of 2,,
+0020401214,443,4,0,4,10:48 PM,0:11,Davis REBOUND (Off:2 Def:4),,,,
+0020401214,444,9,2,4,10:49 PM,0:11,BULLS Timeout: Short (Full 6 Short 1),,,,
+0020401214,445,1,1,4,10:50 PM,0:05,Gordon 17' Jump Shot (16 PTS),,,91 - 92,1
+0020401214,446,9,2,4,10:50 PM,0:05,,,Knicks Timeout: Short (Reg.6 Short 1),,
+0020401214,447,8,0,4,10:51 PM,0:05,,,SUB: Sweetney FOR Williams,,
+0020401214,448,2,1,4,10:51 PM,0:00,,,MISS Crawford 18' Jump Shot,,
+0020401214,449,4,0,4,10:51 PM,0:00,Gordon REBOUND (Off:1 Def:4),,,,
+0020401214,450,13,0,4,10:51 PM,0:00,,,,91 - 92,1

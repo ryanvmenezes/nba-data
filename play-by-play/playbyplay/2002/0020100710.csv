@@ -1,0 +1,414 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100710,0,12,0,1,7:46 PM,12:00,,,,,
+0020100710,1,10,0,1,7:46 PM,12:00,Jump Ball Thomas vs. Clark: Tip to Williams,,,,
+0020100710,2,2,1,1,7:46 PM,11:36,,,MISS Williams 22' Jump Shot,,
+0020100710,3,4,0,1,7:46 PM,11:34,Weatherspoon REBOUND (Off:0 Def:1),,,,
+0020100710,4,2,5,1,7:46 PM,11:21,MISS Weatherspoon  Layup,,,,
+0020100710,5,4,0,1,7:46 PM,11:20,Sprewell REBOUND (Off:1 Def:0),,,,
+0020100710,6,2,1,1,7:46 PM,11:15,MISS Sprewell 13' Jump Shot,,,,
+0020100710,7,4,0,1,7:46 PM,11:13,,,Clark REBOUND (Off:0 Def:1),,
+0020100710,9,7,2,1,7:47 PM,11:00,Weatherspoon Violation:Defensive Goaltending,,,,
+0020100710,8,1,42,1,7:47 PM,11:00,,,Peterson  Driving Layup (2 PTS),2 - 0,-2
+0020100710,10,1,1,1,7:47 PM,10:47,Houston 20' Jump Shot (2 PTS) (Jackson 1 AST),,,2 - 2,TIE
+0020100710,11,1,44,1,7:47 PM,10:29,,,Clark  Reverse Layup (2 PTS) (Childs 1 AST),4 - 2,-2
+0020100710,12,1,5,1,7:48 PM,10:11,Weatherspoon  Layup (2 PTS) (Sprewell 1 AST),,,4 - 4,TIE
+0020100710,13,2,1,1,7:48 PM,9:50,,,MISS Davis 13' Jump Shot,,
+0020100710,14,4,0,1,7:48 PM,9:48,Thomas REBOUND (Off:0 Def:1),,,,
+0020100710,15,5,1,1,7:48 PM,9:40,Sprewell Bad Pass Turnover (P1.T1),,Childs STEAL (1 STL),,
+0020100710,16,1,1,1,7:48 PM,9:34,,,Peterson 19' Jump Shot (4 PTS) (Williams 1 AST),6 - 4,-2
+0020100710,18,1,1,1,7:49 PM,9:16,Jackson 16' Jump Shot (2 PTS),,,6 - 6,TIE
+0020100710,20,6,2,1,7:49 PM,8:56,Thomas S.FOUL (P1.T1),,,,
+0020100710,21,3,11,1,7:49 PM,8:56,,,MISS Davis Free Throw 1 of 2,,
+0020100710,22,4,1,1,7:49 PM,8:56,,,Raptors Rebound,,
+0020100710,23,3,12,1,7:50 PM,8:56,,,Davis Free Throw 2 of 2 (1 PTS),7 - 6,-1
+0020100710,24,1,5,1,7:50 PM,8:45,Weatherspoon  Layup (4 PTS) (Houston 1 AST),,,7 - 8,1
+0020100710,25,1,5,1,7:50 PM,8:28,,,Peterson  Layup (6 PTS) (Davis 1 AST),9 - 8,-1
+0020100710,26,6,1,1,7:51 PM,8:14,,,Clark P.FOUL (P1.T1),,
+0020100710,27,2,1,1,7:51 PM,8:09,MISS Houston 25' 3PT Jump Shot,,,,
+0020100710,28,4,0,1,7:51 PM,8:08,KNICKS Rebound,,,,
+0020100710,29,1,44,1,7:51 PM,7:58,Thomas  Reverse Layup (2 PTS) (Jackson 2 AST),,,9 - 10,1
+0020100710,30,1,1,1,7:52 PM,7:39,,,Clark 16' Jump Shot (4 PTS),11 - 10,-1
+0020100710,31,2,5,1,7:52 PM,7:24,MISS Houston  Layup,,Williams BLOCK (1 BLK),,
+0020100710,32,4,0,1,7:52 PM,7:21,,,Peterson REBOUND (Off:0 Def:1),,
+0020100710,33,2,1,1,7:52 PM,7:17,,,MISS Childs 15' Jump Shot,,
+0020100710,34,4,0,1,7:52 PM,7:16,,,Clark REBOUND (Off:1 Def:1),,
+0020100710,35,2,1,1,7:52 PM,7:10,,,MISS Davis 12' Jump Shot,,
+0020100710,37,4,0,1,7:52 PM,7:07,,,Williams REBOUND (Off:1 Def:0),,
+0020100710,36,1,5,1,7:52 PM,7:06,,,Williams  Layup (2 PTS),13 - 10,-3
+0020100710,38,1,1,1,7:52 PM,6:55,Houston 16' Jump Shot (4 PTS) (Jackson 3 AST),,,13 - 12,-1
+0020100710,39,2,1,1,7:53 PM,6:39,,,MISS Williams 18' Jump Shot,,
+0020100710,40,4,0,1,7:53 PM,6:35,Jackson REBOUND (Off:0 Def:1),,,,
+0020100710,41,2,1,1,7:53 PM,6:30,MISS Sprewell 11' Jump Shot,,,,
+0020100710,42,4,0,1,7:53 PM,6:29,,,Clark REBOUND (Off:1 Def:2),,
+0020100710,43,1,1,1,7:53 PM,6:17,,,Peterson  3PT Jump Shot (9 PTS) (Davis 2 AST),16 - 12,-4
+0020100710,44,5,1,1,7:53 PM,6:02,Jackson Bad Pass Turnover (P1.T2),,,,
+0020100710,45,1,42,1,7:54 PM,5:50,,,Childs  Driving Layup (2 PTS),18 - 12,-6
+0020100710,46,6,2,1,7:54 PM,5:50,Weatherspoon S.FOUL (P1.T2),,,,
+0020100710,48,9,1,1,7:54 PM,5:50,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0020100710,50,3,10,1,7:56 PM,5:50,,,Childs Free Throw 1 of 1 (3 PTS),19 - 12,-7
+0020100710,51,5,1,1,7:57 PM,5:34,Weatherspoon Bad Pass Turnover (P1.T3),,Clark STEAL (1 STL),,
+0020100710,52,2,1,1,7:57 PM,5:28,,,MISS Childs 24' 3PT Jump Shot,,
+0020100710,53,4,0,1,7:57 PM,5:26,KNICKS Rebound,,,,
+0020100710,54,1,1,1,7:57 PM,5:09,Thomas 6' Jump Shot (4 PTS) (Jackson 4 AST),,,19 - 14,-5
+0020100710,55,2,1,1,7:58 PM,4:43,,,MISS Peterson 25' 3PT Jump Shot,,
+0020100710,56,4,0,1,7:58 PM,4:40,Weatherspoon REBOUND (Off:0 Def:2),,,,
+0020100710,57,7,5,1,7:58 PM,4:34,,,Clark Violation:Kicked Ball,,
+0020100710,58,2,1,1,7:58 PM,4:24,MISS Thomas 6' Jump Shot,,,,
+0020100710,59,4,0,1,7:58 PM,4:23,,,Clark REBOUND (Off:1 Def:3),,
+0020100710,60,2,3,1,7:59 PM,4:08,,,MISS Davis 5' Hook Shot,,
+0020100710,61,4,0,1,7:59 PM,4:05,Jackson REBOUND (Off:0 Def:2),,,,
+0020100710,62,2,1,1,7:59 PM,4:01,MISS Houston 13' Jump Shot,,,,
+0020100710,63,4,0,1,7:59 PM,3:59,,,Davis REBOUND (Off:0 Def:1),,
+0020100710,64,9,1,1,7:59 PM,3:53,,,Raptors Timeout: Regular (Reg.1 Short 0),,
+0020100710,66,1,7,1,8:02 PM,3:45,,,Davis  Dunk (3 PTS) (Childs 2 AST),21 - 14,-7
+0020100710,67,2,1,1,8:02 PM,3:24,MISS Jackson 24' 3PT Jump Shot,,,,
+0020100710,68,4,0,1,8:02 PM,3:22,,,Peterson REBOUND (Off:0 Def:2),,
+0020100710,69,2,1,1,8:02 PM,3:09,,,MISS Childs 25' 3PT Jump Shot,,
+0020100710,70,4,0,1,8:02 PM,3:07,Weatherspoon REBOUND (Off:0 Def:3),,,,
+0020100710,71,2,1,1,8:02 PM,2:57,MISS Thomas 15' Jump Shot,,,,
+0020100710,72,4,0,1,8:02 PM,2:55,Weatherspoon REBOUND (Off:1 Def:3),,,,
+0020100710,73,5,2,1,8:02 PM,2:52,Jackson Lost Ball Turnover (P2.T4),,Peterson STEAL (1 STL),,
+0020100710,74,1,42,1,8:02 PM,2:47,,,Peterson  Driving Layup (11 PTS),23 - 14,-9
+0020100710,75,6,2,1,8:03 PM,2:27,,,Childs S.FOUL (P1.T2),,
+0020100710,76,3,11,1,8:03 PM,2:27,Sprewell Free Throw 1 of 2 (1 PTS),,,23 - 15,-8
+0020100710,77,3,12,1,8:03 PM,2:27,Sprewell Free Throw 2 of 2 (2 PTS),,,23 - 16,-7
+0020100710,78,2,5,1,8:04 PM,2:13,,,MISS Childs  Layup,,
+0020100710,79,4,0,1,8:04 PM,2:11,Jackson REBOUND (Off:0 Def:3),,,,
+0020100710,80,2,1,1,8:04 PM,1:56,MISS Thomas 14' Jump Shot,,,,
+0020100710,81,4,0,1,8:04 PM,1:54,,,Davis REBOUND (Off:0 Def:2),,
+0020100710,82,6,2,1,8:04 PM,1:43,Thomas S.FOUL (P2.T3),,,,
+0020100710,83,3,11,1,8:05 PM,1:43,,,MISS Clark Free Throw 1 of 2,,
+0020100710,84,4,1,1,8:05 PM,1:43,,,Raptors Rebound,,
+0020100710,85,8,0,1,8:05 PM,1:43,SUB: Harrington FOR Thomas,,,,
+0020100710,86,8,0,1,8:05 PM,1:43,SUB: Ward FOR Jackson,,,,
+0020100710,87,3,12,1,8:05 PM,1:43,,,Clark Free Throw 2 of 2 (5 PTS),24 - 16,-8
+0020100710,88,2,1,1,8:05 PM,1:24,MISS Sprewell 12' Jump Shot,,,,
+0020100710,89,4,0,1,8:05 PM,1:23,,,Clark REBOUND (Off:1 Def:4),,
+0020100710,90,5,2,1,8:06 PM,1:14,Ward STEAL (1 STL),,Williams Lost Ball Turnover (P1.T1),,
+0020100710,91,1,46,1,8:06 PM,1:06,Houston 12' Running Jump Shot (6 PTS),,,24 - 18,-6
+0020100710,92,2,1,1,8:06 PM,0:53,,,MISS Williams 13' Jump Shot,,
+0020100710,93,4,0,1,8:06 PM,0:51,,,Williams REBOUND (Off:2 Def:0),,
+0020100710,94,2,1,1,8:06 PM,0:48,,,MISS Williams 8' Jump Shot,,
+0020100710,95,4,0,1,8:06 PM,0:46,Weatherspoon REBOUND (Off:1 Def:4),,,,
+0020100710,96,1,1,1,8:06 PM,0:36,Houston 19' Jump Shot (8 PTS),,,24 - 20,-4
+0020100710,97,6,2,1,8:06 PM,0:36,,,Peterson S.FOUL (P1.T3),,
+0020100710,98,8,0,1,8:06 PM,0:36,SUB: Anderson FOR Sprewell,,,,
+0020100710,99,3,10,1,8:06 PM,0:36,Houston Free Throw 1 of 1 (9 PTS),,,24 - 21,-3
+0020100710,100,2,1,1,8:07 PM,0:26,Harrington BLOCK (1 BLK),,MISS Peterson 5' Jump Shot,,
+0020100710,101,4,0,1,8:07 PM,0:24,Houston REBOUND (Off:0 Def:1),,,,
+0020100710,102,2,1,1,8:07 PM,0:03,MISS Anderson 20' Jump Shot,,,,
+0020100710,103,4,0,1,8:07 PM,0:01,,,Raptors Rebound,,
+0020100710,104,2,1,1,8:07 PM,0:00,,,MISS Peterson 65' 3PT Jump Shot,,
+0020100710,105,4,0,1,8:07 PM,0:00,,,Raptors Rebound,,
+0020100710,106,13,0,1,8:08 PM,0:00,,,,24 - 21,-3
+0020100710,108,12,0,2,8:10 PM,12:00,,,,24 - 21,-3
+0020100710,109,5,1,2,8:11 PM,11:44,Ward Bad Pass Turnover (P1.T5),,,,
+0020100710,110,2,5,2,8:11 PM,11:27,,,MISS Stewart  Layup,,
+0020100710,111,4,0,2,8:11 PM,11:26,Houston REBOUND (Off:0 Def:2),,,,
+0020100710,112,1,42,2,8:11 PM,11:20,Harrington  Driving Layup (2 PTS) (Ward 1 AST),,,24 - 23,-1
+0020100710,113,2,1,2,8:11 PM,10:59,,,MISS Williams 11' Jump Shot,,
+0020100710,114,4,0,2,8:12 PM,10:57,Harrington REBOUND (Off:0 Def:1),,,,
+0020100710,115,1,46,2,8:12 PM,10:50,Houston 19' Running Jump Shot (11 PTS),,,24 - 25,1
+0020100710,116,2,1,2,8:12 PM,10:28,,,MISS Murray 16' Jump Shot,,
+0020100710,117,4,0,2,8:12 PM,10:24,Weatherspoon REBOUND (Off:1 Def:5),,,,
+0020100710,118,6,4,2,8:12 PM,10:20,Harrington OFF.Foul (P1),,,,
+0020100710,119,5,5,2,8:12 PM,10:20,Harrington Foul Turnover (P1.T6),,,,
+0020100710,120,5,2,2,8:13 PM,10:00,Ward STEAL (2 STL),,Murray Lost Ball Turnover (P1.T2),,
+0020100710,121,1,42,2,8:13 PM,9:55,Anderson  Driving Layup (2 PTS) (Ward 2 AST),,,24 - 27,3
+0020100710,122,2,1,2,8:13 PM,9:34,Houston BLOCK (1 BLK),,MISS Murray 25' 3PT Jump Shot,,
+0020100710,123,4,0,2,8:13 PM,9:30,,,Clark REBOUND (Off:2 Def:4),,
+0020100710,124,6,2,2,8:13 PM,9:29,Harrington S.FOUL (P2.T1),,,,
+0020100710,125,3,11,2,8:14 PM,9:29,,,MISS Stewart Free Throw 1 of 2,,
+0020100710,126,4,1,2,8:14 PM,9:29,,,Raptors Rebound,,
+0020100710,127,3,12,2,8:14 PM,9:29,,,Stewart Free Throw 2 of 2 (1 PTS),25 - 27,2
+0020100710,128,2,1,2,8:14 PM,9:17,MISS Ward 17' Jump Shot,,,,
+0020100710,129,4,0,2,8:14 PM,9:15,,,Murray REBOUND (Off:0 Def:1),,
+0020100710,130,2,1,2,8:15 PM,8:55,,,MISS Stewart 12' Jump Shot,,
+0020100710,131,4,0,2,8:15 PM,8:54,Weatherspoon REBOUND (Off:1 Def:6),,,,
+0020100710,132,1,1,2,8:15 PM,8:43,Harrington 14' Jump Shot (4 PTS),,,25 - 29,4
+0020100710,133,2,1,2,8:15 PM,8:26,,,MISS Clark 7' Jump Shot,,
+0020100710,135,4,0,2,8:15 PM,8:23,,,Stewart REBOUND (Off:1 Def:0),,
+0020100710,134,2,4,2,8:15 PM,8:23,,,MISS Stewart  Tip Shot,,
+0020100710,136,4,0,2,8:15 PM,8:20,Harrington REBOUND (Off:0 Def:2),,,,
+0020100710,137,5,1,2,8:16 PM,8:03,Houston Bad Pass Turnover (P1.T7),,Williams STEAL (1 STL),,
+0020100710,138,1,1,2,8:16 PM,7:50,,,Clark 14' Jump Shot (7 PTS) (Williams 2 AST),27 - 29,2
+0020100710,139,2,1,2,8:16 PM,7:23,MISS Houston 17' Jump Shot,,,,
+0020100710,140,4,0,2,8:16 PM,7:22,,,Jackson REBOUND (Off:0 Def:1),,
+0020100710,141,1,1,2,8:16 PM,7:08,,,Clark 16' Jump Shot (9 PTS) (Stewart 1 AST),29 - 29,TIE
+0020100710,142,6,2,2,8:17 PM,6:50,,,Murray S.FOUL (P1.T1),,
+0020100710,143,9,4,2,8:17 PM,6:50,,,,,
+0020100710,145,8,0,2,8:20 PM,6:50,SUB: Knight FOR Weatherspoon,,,,
+0020100710,146,8,0,2,8:20 PM,6:50,SUB: Sprewell FOR Houston,,,,
+0020100710,147,8,0,2,8:20 PM,6:50,,,SUB: Davis FOR Clark,,
+0020100710,148,8,0,2,8:20 PM,6:50,,,SUB: Childs FOR Williams,,
+0020100710,149,3,11,2,8:20 PM,6:50,MISS Anderson Free Throw 1 of 2,,,,
+0020100710,150,4,1,2,8:20 PM,6:50,KNICKS Rebound,,,,
+0020100710,151,3,12,2,8:20 PM,6:50,Anderson Free Throw 2 of 2 (3 PTS),,,29 - 30,1
+0020100710,152,2,1,2,8:21 PM,6:31,,,MISS Davis 17' Jump Shot,,
+0020100710,153,4,0,2,8:21 PM,6:30,Ward REBOUND (Off:0 Def:1),,,,
+0020100710,154,2,1,2,8:21 PM,6:20,MISS Harrington 12' Jump Shot,,,,
+0020100710,155,4,0,2,8:21 PM,6:18,,,Jackson REBOUND (Off:0 Def:2),,
+0020100710,156,2,1,2,8:21 PM,6:01,,,MISS Childs 22' Jump Shot,,
+0020100710,157,4,0,2,8:21 PM,5:59,Ward REBOUND (Off:0 Def:2),,,,
+0020100710,158,2,1,2,8:22 PM,5:52,MISS Ward 25' 3PT Jump Shot,,,,
+0020100710,159,4,0,2,8:22 PM,5:50,,,Davis REBOUND (Off:0 Def:3),,
+0020100710,160,2,1,2,8:22 PM,5:26,,,MISS Childs 11' Jump Shot,,
+0020100710,161,4,0,2,8:22 PM,5:24,,,Murray REBOUND (Off:1 Def:1),,
+0020100710,162,2,1,2,8:22 PM,5:22,,,MISS Murray 24' 3PT Jump Shot,,
+0020100710,163,4,0,2,8:22 PM,5:19,Harrington REBOUND (Off:0 Def:3),,,,
+0020100710,164,6,2,2,8:22 PM,5:16,,,Stewart S.FOUL (P1.T2),,
+0020100710,165,9,1,2,8:22 PM,5:16,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0020100710,167,8,0,2,8:25 PM,5:16,,,SUB: Peterson FOR Murray,,
+0020100710,168,3,11,2,8:25 PM,5:16,Sprewell Free Throw 1 of 2 (3 PTS),,,29 - 31,2
+0020100710,169,3,12,2,8:25 PM,5:16,Sprewell Free Throw 2 of 2 (4 PTS),,,29 - 32,3
+0020100710,170,5,1,2,8:26 PM,5:06,,,Childs Bad Pass Turnover (P1.T3),,
+0020100710,171,8,0,2,8:26 PM,5:06,,,SUB: Clark FOR Stewart,,
+0020100710,172,1,1,2,8:26 PM,4:54,Ward 15' Jump Shot (2 PTS),,,29 - 34,5
+0020100710,173,2,1,2,8:26 PM,4:35,,,MISS Clark 17' Jump Shot,,
+0020100710,174,4,0,2,8:26 PM,4:34,,,Raptors Rebound,,
+0020100710,175,6,3,2,8:26 PM,4:34,Harrington L.B.FOUL (P3.T2),,,,
+0020100710,176,8,0,2,8:26 PM,4:34,SUB: Thomas FOR Harrington,,,,
+0020100710,177,5,1,2,8:27 PM,4:26,Knight STEAL (1 STL),,Peterson Bad Pass Turnover (P1.T4),,
+0020100710,178,1,1,2,8:27 PM,4:03,Ward 29' 3PT Jump Shot (5 PTS) (Knight 1 AST),,,29 - 37,8
+0020100710,179,2,1,2,8:28 PM,3:40,,,MISS Childs 20' Jump Shot,,
+0020100710,180,4,0,2,8:28 PM,3:39,Anderson REBOUND (Off:0 Def:1),,,,
+0020100710,181,2,1,2,8:28 PM,3:31,MISS Ward 19' Jump Shot,,,,
+0020100710,182,4,0,2,8:28 PM,3:29,Sprewell REBOUND (Off:2 Def:0),,,,
+0020100710,183,1,1,2,8:28 PM,3:19,Thomas 12' Jump Shot (6 PTS) (Sprewell 2 AST),,,29 - 39,10
+0020100710,184,1,46,2,8:28 PM,2:59,,,Peterson 12' Running Jump Shot (13 PTS) (Davis 3 AST),31 - 39,8
+0020100710,185,6,2,2,8:29 PM,2:40,,,Jackson S.FOUL (P1.T3),,
+0020100710,186,9,1,2,8:29 PM,2:40,,,Raptors Timeout: Regular (Reg.2 Short 0),,
+0020100710,188,8,0,2,8:31 PM,2:40,,,SUB: Williams FOR Jackson,,
+0020100710,189,3,11,2,8:31 PM,2:40,Sprewell Free Throw 1 of 2 (5 PTS),,,31 - 40,9
+0020100710,190,3,12,2,8:31 PM,2:40,Sprewell Free Throw 2 of 2 (6 PTS),,,31 - 41,10
+0020100710,191,6,2,2,8:32 PM,2:25,Anderson S.FOUL (P1.T3),,,,
+0020100710,192,3,11,2,8:32 PM,2:25,,,MISS Clark Free Throw 1 of 2,,
+0020100710,193,4,1,2,8:32 PM,2:25,,,Raptors Rebound,,
+0020100710,194,3,12,2,8:32 PM,2:25,,,Clark Free Throw 2 of 2 (10 PTS),32 - 41,9
+0020100710,195,2,1,2,8:33 PM,2:11,MISS Sprewell 18' Jump Shot,,,,
+0020100710,196,4,0,2,8:33 PM,2:08,,,Childs REBOUND (Off:0 Def:1),,
+0020100710,197,2,1,2,8:33 PM,1:51,,,MISS Peterson 24' 3PT Jump Shot,,
+0020100710,198,4,0,2,8:33 PM,1:49,,,Clark REBOUND (Off:3 Def:4),,
+0020100710,199,2,1,2,8:33 PM,1:37,,,MISS Williams 11' Jump Shot,,
+0020100710,200,4,0,2,8:33 PM,1:36,KNICKS Rebound,,,,
+0020100710,201,8,0,2,8:34 PM,1:36,SUB: Houston FOR Anderson,,,,
+0020100710,202,8,0,2,8:34 PM,1:36,SUB: Jackson FOR Ward,,,,
+0020100710,203,1,1,2,8:34 PM,1:16,Jackson 25' 3PT Jump Shot (5 PTS) (Sprewell 3 AST),,,32 - 44,12
+0020100710,204,6,17,2,8:35 PM,0:59,KNICKS T.Foul (Def. 3 Sec Knight ),,,,
+0020100710,205,3,16,2,8:35 PM,0:59,,,Childs Free Throw Technical (4 PTS),33 - 44,11
+0020100710,206,6,4,2,8:35 PM,0:50,,,Davis OFF.Foul (P1),,
+0020100710,207,5,5,2,8:35 PM,0:50,,,Davis Foul Turnover (P1.T5),,
+0020100710,208,1,1,2,8:36 PM,0:31,Thomas 6' Jump Shot (8 PTS) (Sprewell 4 AST),,,33 - 46,13
+0020100710,209,1,5,2,8:36 PM,0:19,,,Clark  Layup (12 PTS) (Peterson 1 AST),35 - 46,11
+0020100710,210,6,2,2,8:36 PM,0:19,Knight S.FOUL (P1.T4),,,,
+0020100710,211,3,10,2,8:36 PM,0:19,,,MISS Clark Free Throw 1 of 1,,
+0020100710,212,4,0,2,8:37 PM,0:19,Knight REBOUND (Off:0 Def:1),,,,
+0020100710,213,1,49,2,8:37 PM,0:04,Knight  Driving Dunk (2 PTS) (Jackson 5 AST),,,35 - 48,13
+0020100710,214,2,1,2,8:37 PM,0:00,,,MISS Davis 14' Jump Shot,,
+0020100710,215,4,0,2,8:37 PM,0:00,,,Raptors Rebound,,
+0020100710,216,13,0,2,8:37 PM,0:00,,,,35 - 48,13
+0020100710,218,12,0,3,8:54 PM,12:00,,,,35 - 48,13
+0020100710,219,2,5,3,8:55 PM,11:39,MISS Thomas  Layup,,,,
+0020100710,220,4,0,3,8:55 PM,11:38,Weatherspoon REBOUND (Off:2 Def:6),,,,
+0020100710,221,6,2,3,8:55 PM,11:37,,,Childs S.FOUL (P2.T1),,
+0020100710,222,3,11,3,8:55 PM,11:37,MISS Weatherspoon Free Throw 1 of 2,,,,
+0020100710,223,4,1,3,8:55 PM,11:37,KNICKS Rebound,,,,
+0020100710,224,3,12,3,8:55 PM,11:37,Weatherspoon Free Throw 2 of 2 (5 PTS),,,35 - 49,14
+0020100710,225,2,1,3,8:55 PM,11:22,,,MISS Davis 10' Jump Shot,,
+0020100710,226,4,0,3,8:56 PM,11:19,Jackson REBOUND (Off:0 Def:4),,,,
+0020100710,227,1,42,3,8:56 PM,11:16,Thomas  Driving Layup (10 PTS) (Jackson 6 AST),,,35 - 51,16
+0020100710,228,6,1,3,8:56 PM,11:05,Houston P.FOUL (P1.T1),,,,
+0020100710,229,2,1,3,8:56 PM,10:59,,,MISS Williams 24' 3PT Jump Shot,,
+0020100710,230,4,0,3,8:56 PM,10:57,Jackson REBOUND (Off:0 Def:5),,,,
+0020100710,231,1,42,3,8:56 PM,10:53,Thomas  Driving Layup (12 PTS) (Jackson 7 AST),,,35 - 53,18
+0020100710,232,6,2,3,8:56 PM,10:53,,,Childs S.FOUL (P3.T2),,
+0020100710,233,9,2,3,8:56 PM,10:53,,,Raptors Timeout: Short (Reg.2 Short 1),,
+0020100710,234,3,10,3,8:57 PM,10:53,Thomas Free Throw 1 of 1 (13 PTS),,,35 - 54,19
+0020100710,235,1,1,3,8:58 PM,10:42,,,Clark 13' Jump Shot (14 PTS) (Childs 3 AST),37 - 54,17
+0020100710,236,2,1,3,8:58 PM,10:18,MISS Houston 15' Jump Shot,,,,
+0020100710,237,4,0,3,8:58 PM,10:16,,,Clark REBOUND (Off:3 Def:5),,
+0020100710,238,2,1,3,8:58 PM,10:01,,,MISS Childs 21' Jump Shot,,
+0020100710,239,4,0,3,8:58 PM,9:59,,,Williams REBOUND (Off:3 Def:0),,
+0020100710,240,1,1,3,8:58 PM,9:52,,,Clark 15' Jump Shot (16 PTS) (Peterson 2 AST),39 - 54,15
+0020100710,241,2,1,3,8:59 PM,9:35,MISS Weatherspoon 18' Jump Shot,,,,
+0020100710,242,4,0,3,8:59 PM,9:34,,,Peterson REBOUND (Off:0 Def:3),,
+0020100710,243,2,5,3,8:59 PM,9:18,,,MISS Davis  Layup,,
+0020100710,244,4,0,3,8:59 PM,9:16,Thomas REBOUND (Off:0 Def:2),,,,
+0020100710,245,1,42,3,8:59 PM,9:12,Sprewell  Driving Layup (8 PTS),,,39 - 56,17
+0020100710,246,2,1,3,9:00 PM,8:44,,,MISS Williams 18' Jump Shot,,
+0020100710,247,4,0,3,9:00 PM,8:43,,,Davis REBOUND (Off:1 Def:3),,
+0020100710,248,5,1,3,9:00 PM,8:31,Thomas STEAL (1 STL),,Childs Bad Pass Turnover (P2.T6),,
+0020100710,249,1,46,3,9:00 PM,8:25,Jackson 7' Running Jump Shot (7 PTS),,,39 - 58,19
+0020100710,251,2,1,3,9:00 PM,8:06,,,MISS Peterson 4' Jump Shot,,
+0020100710,253,4,0,3,9:00 PM,8:05,,,Clark REBOUND (Off:4 Def:5),,
+0020100710,252,1,64,3,9:00 PM,8:05,,,Clark  Follow Up Dunk (18 PTS),41 - 58,17
+0020100710,254,1,1,3,9:00 PM,7:52,Sprewell 15' Jump Shot (10 PTS) (Jackson 8 AST),,,41 - 60,19
+0020100710,255,2,1,3,9:01 PM,7:29,,,MISS Clark 13' Jump Shot,,
+0020100710,256,4,0,3,9:01 PM,7:27,Sprewell REBOUND (Off:2 Def:1),,,,
+0020100710,257,2,1,3,9:01 PM,7:11,MISS Sprewell 24' 3PT Jump Shot,,,,
+0020100710,258,4,0,3,9:01 PM,7:09,,,Williams REBOUND (Off:3 Def:1),,
+0020100710,259,1,42,3,9:02 PM,7:06,,,Peterson  Driving Layup (15 PTS) (Williams 3 AST),43 - 60,17
+0020100710,260,2,1,3,9:02 PM,6:43,MISS Thomas 10' Jump Shot,,,,
+0020100710,261,4,0,3,9:02 PM,6:41,,,Clark REBOUND (Off:4 Def:6),,
+0020100710,262,6,2,3,9:02 PM,6:35,Thomas S.FOUL (P3.T2),,,,
+0020100710,263,9,1,3,9:02 PM,6:35,KNICKS Timeout: Regular (Full 3 Short 0),,,,
+0020100710,265,3,11,3,9:05 PM,6:35,,,MISS Davis Free Throw 1 of 2,,
+0020100710,266,4,1,3,9:05 PM,6:35,,,Raptors Rebound,,
+0020100710,267,3,12,3,9:05 PM,6:35,,,Davis Free Throw 2 of 2 (4 PTS),44 - 60,16
+0020100710,268,2,1,3,9:06 PM,6:20,MISS Weatherspoon 13' Jump Shot,,,,
+0020100710,269,4,0,3,9:06 PM,6:19,,,Clark REBOUND (Off:4 Def:7),,
+0020100710,270,6,1,3,9:06 PM,6:18,Thomas P.FOUL (P4.T3),,,,
+0020100710,271,6,16,3,9:06 PM,6:18,,,,,
+0020100710,272,8,0,3,9:07 PM,6:18,SUB: Harrington FOR Thomas,,,,
+0020100710,273,6,2,3,9:07 PM,6:09,Harrington S.FOUL (P4.T4),,,,
+0020100710,274,3,11,3,9:07 PM,6:09,,,MISS Peterson Free Throw 1 of 2,,
+0020100710,275,4,1,3,9:07 PM,6:09,,,Raptors Rebound,,
+0020100710,276,3,12,3,9:07 PM,6:09,,,MISS Peterson Free Throw 2 of 2,,
+0020100710,277,4,0,3,9:08 PM,6:08,,,Peterson REBOUND (Off:1 Def:3),,
+0020100710,278,1,1,3,9:08 PM,6:01,,,Davis 11' Jump Shot (6 PTS) (Williams 4 AST),46 - 60,14
+0020100710,279,6,1,3,9:08 PM,5:40,,,Peterson P.FOUL (P2.T3),,
+0020100710,280,8,0,3,9:08 PM,5:40,SUB: Ward FOR Jackson,,,,
+0020100710,281,8,0,3,9:08 PM,5:40,SUB: Knight FOR Weatherspoon,,,,
+0020100710,282,1,1,3,9:09 PM,5:30,Harrington 6' Jump Shot (6 PTS) (Houston 2 AST),,,46 - 62,16
+0020100710,283,2,1,3,9:09 PM,5:16,,,MISS Clark 12' Jump Shot,,
+0020100710,284,4,0,3,9:09 PM,5:15,,,Davis REBOUND (Off:2 Def:3),,
+0020100710,285,2,1,3,9:09 PM,5:01,,,MISS Davis 5' Jump Shot,,
+0020100710,286,4,0,3,9:09 PM,4:59,,,Clark REBOUND (Off:5 Def:7),,
+0020100710,287,2,1,3,9:10 PM,4:48,,,MISS Davis 13' Jump Shot,,
+0020100710,288,4,0,3,9:10 PM,4:46,Houston REBOUND (Off:0 Def:3),,,,
+0020100710,289,1,1,3,9:10 PM,4:26,Ward 26' 3PT Jump Shot (8 PTS) (Harrington 1 AST),,,46 - 65,19
+0020100710,290,2,5,3,9:11 PM,4:00,,,MISS Peterson  Layup,,
+0020100710,291,4,0,3,9:11 PM,3:59,Harrington REBOUND (Off:0 Def:4),,,,
+0020100710,292,2,1,3,9:11 PM,3:39,MISS Sprewell 9' Jump Shot,,,,
+0020100710,294,4,0,3,9:11 PM,3:36,Knight REBOUND (Off:1 Def:1),,,,
+0020100710,293,1,4,3,9:11 PM,3:36,Knight  Tip Shot (4 PTS),,,46 - 67,21
+0020100710,295,1,1,3,9:11 PM,3:14,,,Williams 16' Jump Shot (4 PTS),48 - 67,19
+0020100710,296,2,1,3,9:12 PM,2:47,MISS Ward 24' 3PT Jump Shot,,,,
+0020100710,297,4,0,3,9:12 PM,2:45,,,Raptors Rebound,,
+0020100710,298,9,1,3,9:12 PM,2:45,,,Raptors Timeout: Regular (Reg.3 Short 1),,
+0020100710,300,6,2,3,9:15 PM,2:28,Knight S.FOUL (P2.PN),,,,
+0020100710,301,3,11,3,9:15 PM,2:28,,,Clark Free Throw 1 of 2 (19 PTS),49 - 67,18
+0020100710,302,3,12,3,9:15 PM,2:28,,,Clark Free Throw 2 of 2 (20 PTS),50 - 67,17
+0020100710,303,5,2,3,9:15 PM,2:19,Ward Lost Ball Turnover (P2.T8),,,,
+0020100710,304,6,1,3,9:16 PM,2:08,Houston P.FOUL (P2.PN),,,,
+0020100710,306,8,0,3,9:16 PM,2:08,SUB: Anderson FOR Houston,,,,
+0020100710,307,3,11,3,9:16 PM,2:08,,,Peterson Free Throw 1 of 2 (16 PTS),51 - 67,16
+0020100710,308,3,12,3,9:16 PM,2:08,,,Peterson Free Throw 2 of 2 (17 PTS),52 - 67,15
+0020100710,309,2,1,3,9:17 PM,1:56,MISS Ward 5' Jump Shot,,,,
+0020100710,310,4,0,3,9:17 PM,1:55,,,Raptors Rebound,,
+0020100710,311,2,1,3,9:17 PM,1:40,,,MISS Peterson 22' Jump Shot,,
+0020100710,312,4,0,3,9:17 PM,1:38,Harrington REBOUND (Off:0 Def:5),,,,
+0020100710,313,2,1,3,9:17 PM,1:23,MISS Anderson 10' Jump Shot,,,,
+0020100710,314,4,0,3,9:17 PM,1:22,,,Clark REBOUND (Off:5 Def:8),,
+0020100710,315,1,42,3,9:18 PM,1:06,,,Clark  Driving Layup (22 PTS) (Williams 5 AST),54 - 67,13
+0020100710,316,6,2,3,9:18 PM,1:06,Knight S.FOUL (P3.PN),,,,
+0020100710,317,3,10,3,9:18 PM,1:06,,,MISS Clark Free Throw 1 of 1,,
+0020100710,318,4,0,3,9:18 PM,1:05,Knight REBOUND (Off:1 Def:2),,,,
+0020100710,319,1,63,3,9:18 PM,0:55,Harrington 6' Fadeaway Jumper (8 PTS) (Ward 3 AST),,,54 - 69,15
+0020100710,320,2,5,3,9:18 PM,0:43,Anderson BLOCK (1 BLK),,MISS Clark  Layup,,
+0020100710,321,4,0,3,9:19 PM,0:43,,,Clark REBOUND (Off:6 Def:8),,
+0020100710,322,6,2,3,9:19 PM,0:42,Knight S.FOUL (P4.PN),,,,
+0020100710,323,3,11,3,9:19 PM,0:42,,,MISS Clark Free Throw 1 of 2,,
+0020100710,324,4,1,3,9:19 PM,0:42,,,Raptors Rebound,,
+0020100710,325,8,0,3,9:19 PM,0:42,,,SUB: Montross FOR Davis,,
+0020100710,326,8,0,3,9:19 PM,0:42,SUB: Spencer FOR Knight,,,,
+0020100710,327,3,12,3,9:19 PM,0:42,,,Clark Free Throw 2 of 2 (23 PTS),55 - 69,14
+0020100710,328,5,2,3,9:19 PM,0:35,Ward Lost Ball Turnover (P3.T9),,,,
+0020100710,329,2,5,3,9:20 PM,0:22,Harrington BLOCK (2 BLK),,MISS Clark  Layup,,
+0020100710,330,4,0,3,9:20 PM,0:20,Anderson REBOUND (Off:0 Def:2),,,,
+0020100710,331,1,1,3,9:20 PM,0:04,Sprewell 12' Jump Shot (12 PTS),,,55 - 71,16
+0020100710,332,5,4,3,9:20 PM,0:00,,,Williams Traveling Turnover (P2.T7),,
+0020100710,333,13,0,3,9:21 PM,0:00,,,,55 - 71,16
+0020100710,336,12,0,4,9:23 PM,12:00,,,,55 - 71,16
+0020100710,337,1,1,4,9:23 PM,11:51,,,Clark 16' Jump Shot (25 PTS) (Williams 6 AST),57 - 71,14
+0020100710,338,5,2,4,9:24 PM,11:29,Sprewell Lost Ball Turnover (P2.T10),,,,
+0020100710,341,6,11,4,9:24 PM,11:27,,,Clark T.FOUL (P1.T0),,
+0020100710,342,3,16,4,9:24 PM,11:27,MISS Sprewell Free Throw Technical,,,,
+0020100710,343,4,1,4,9:24 PM,11:27,,,Raptors Rebound,,
+0020100710,344,2,1,4,9:25 PM,11:15,,,MISS Montross 10' Jump Shot,,
+0020100710,345,4,0,4,9:25 PM,11:12,,,Williams REBOUND (Off:4 Def:1),,
+0020100710,346,6,2,4,9:25 PM,11:10,Anderson S.FOUL (P2.T1),,,,
+0020100710,347,3,11,4,9:25 PM,11:10,,,MISS Clark Free Throw 1 of 2,,
+0020100710,348,4,1,4,9:25 PM,11:10,,,Raptors Rebound,,
+0020100710,349,8,0,4,9:25 PM,11:10,SUB: Weatherspoon FOR Harrington,,,,
+0020100710,350,3,12,4,9:26 PM,11:10,,,Clark Free Throw 2 of 2 (26 PTS),58 - 71,13
+0020100710,351,6,1,4,9:26 PM,10:58,,,Jackson P.FOUL (P2.T1),,
+0020100710,352,1,1,4,9:26 PM,10:45,Sprewell 18' Jump Shot (14 PTS) (Anderson 1 AST),,,58 - 73,15
+0020100710,353,1,1,4,9:27 PM,10:24,,,Peterson 11' Jump Shot (19 PTS) (Jackson 1 AST),60 - 73,13
+0020100710,354,2,1,4,9:27 PM,10:02,MISS Sprewell 6' Jump Shot,,,,
+0020100710,355,4,0,4,9:27 PM,10:00,,,Clark REBOUND (Off:6 Def:9),,
+0020100710,356,2,1,4,9:27 PM,9:55,,,MISS Peterson 15' Jump Shot,,
+0020100710,357,4,0,4,9:27 PM,9:53,Anderson REBOUND (Off:0 Def:3),,,,
+0020100710,359,8,0,4,9:28 PM,9:53,,,SUB: Davis FOR Clark,,
+0020100710,360,8,0,4,9:28 PM,9:53,SUB: Thomas FOR Spencer,,,,
+0020100710,361,10,0,4,9:28 PM,9:53,Jump Ball Anderson vs. Peterson: Tip to Williams,,,,
+0020100710,362,5,2,4,9:28 PM,9:53,Anderson Lost Ball Turnover (P1.T11),,Peterson STEAL (2 STL),,
+0020100710,363,2,5,4,9:28 PM,9:35,Anderson BLOCK (2 BLK),,MISS Jackson  Layup,,
+0020100710,364,4,0,4,9:28 PM,9:33,Thomas REBOUND (Off:0 Def:3),,,,
+0020100710,365,2,5,4,9:28 PM,9:29,MISS Weatherspoon  Layup,,,,
+0020100710,366,4,0,4,9:29 PM,9:27,Anderson REBOUND (Off:1 Def:3),,,,
+0020100710,367,1,5,4,9:29 PM,9:24,Weatherspoon  Layup (7 PTS) (Anderson 2 AST),,,60 - 75,15
+0020100710,368,6,2,4,9:29 PM,9:24,,,Montross S.FOUL (P1.T2),,
+0020100710,369,3,10,4,9:29 PM,9:24,Weatherspoon Free Throw 1 of 1 (8 PTS),,,60 - 76,16
+0020100710,370,1,1,4,9:29 PM,9:03,,,Montross 14' Jump Shot (2 PTS) (Jackson 2 AST),62 - 76,14
+0020100710,371,2,1,4,9:30 PM,8:45,MISS Ward 17' Jump Shot,,,,
+0020100710,372,4,0,4,9:30 PM,8:43,,,Peterson REBOUND (Off:1 Def:4),,
+0020100710,373,1,1,4,9:30 PM,8:25,,,Williams 24' 3PT Jump Shot (7 PTS) (Davis 4 AST),65 - 76,11
+0020100710,374,2,5,4,9:30 PM,8:06,MISS Thomas  Layup,,,,
+0020100710,375,4,0,4,9:30 PM,8:04,,,Montross REBOUND (Off:0 Def:1),,
+0020100710,376,1,46,4,9:31 PM,7:57,,,Williams 8' Running Jump Shot (9 PTS),67 - 76,9
+0020100710,377,9,1,4,9:31 PM,7:56,KNICKS Timeout: Regular (Full 4 Short 0),,,,
+0020100710,379,8,0,4,9:33 PM,7:56,SUB: Jackson FOR Ward,,,,
+0020100710,380,8,0,4,9:33 PM,7:56,SUB: Houston FOR Sprewell,,,,
+0020100710,381,1,1,4,9:33 PM,7:43,Houston 19' Jump Shot (13 PTS) (Jackson 9 AST),,,67 - 78,11
+0020100710,382,1,46,4,9:34 PM,7:17,,,Williams 18' Running Jump Shot (11 PTS),69 - 78,9
+0020100710,383,5,2,4,9:34 PM,6:54,Anderson Lost Ball Turnover (P2.T12),,Jackson STEAL (1 STL),,
+0020100710,384,1,1,4,9:34 PM,6:51,,,Williams 15' Jump Shot (13 PTS) (Jackson 3 AST),71 - 78,7
+0020100710,385,2,1,4,9:34 PM,6:27,MISS Jackson 7' Jump Shot,,,,
+0020100710,386,4,0,4,9:34 PM,6:25,,,Davis REBOUND (Off:2 Def:4),,
+0020100710,387,2,1,4,9:35 PM,6:18,,,MISS Williams 18' Jump Shot,,
+0020100710,388,4,0,4,9:35 PM,6:17,Weatherspoon REBOUND (Off:2 Def:7),,,,
+0020100710,389,5,1,4,9:35 PM,6:01,Houston Bad Pass Turnover (P2.T13),,,,
+0020100710,390,2,1,4,9:35 PM,5:38,,,MISS Williams 20' Jump Shot,,
+0020100710,391,4,0,4,9:35 PM,5:36,Jackson REBOUND (Off:0 Def:6),,,,
+0020100710,392,1,3,4,9:36 PM,5:23,Thomas 7' Hook Shot (15 PTS),,,71 - 80,9
+0020100710,393,2,5,4,9:36 PM,5:05,Thomas BLOCK (1 BLK),,MISS Peterson  Layup,,
+0020100710,394,4,0,4,9:36 PM,5:03,Houston REBOUND (Off:0 Def:4),,,,
+0020100710,395,1,5,4,9:36 PM,4:47,Thomas  Layup (17 PTS) (Houston 3 AST),,,71 - 82,11
+0020100710,396,9,1,4,9:36 PM,4:44,,,Raptors Timeout: Regular (Reg.4 Short 1),,
+0020100710,399,8,0,4,9:39 PM,4:44,SUB: Sprewell FOR Anderson,,,,
+0020100710,400,8,0,4,9:39 PM,4:44,,,SUB: Clark FOR Montross,,
+0020100710,401,8,0,4,9:39 PM,4:44,,,SUB: Childs FOR Jackson,,
+0020100710,402,1,1,4,9:40 PM,4:20,,,Williams 25' 3PT Jump Shot (16 PTS) (Davis 5 AST),74 - 82,8
+0020100710,403,5,1,4,9:40 PM,4:00,Houston Bad Pass Turnover (P3.T14),,Williams STEAL (2 STL),,
+0020100710,404,6,2,4,9:40 PM,3:57,Houston S.FOUL (P3.T2),,,,
+0020100710,405,3,11,4,9:40 PM,3:57,,,Peterson Free Throw 1 of 2 (20 PTS),75 - 82,7
+0020100710,407,3,12,4,9:41 PM,3:57,,,Peterson Free Throw 2 of 2 (21 PTS),76 - 82,6
+0020100710,408,1,47,4,9:41 PM,3:32,Weatherspoon 6' Turnaround Jump Shot (10 PTS) (Thomas 1 AST),,,76 - 84,8
+0020100710,409,1,1,4,9:41 PM,3:14,,,Childs 16' Jump Shot (6 PTS) (Clark 1 AST),78 - 84,6
+0020100710,410,6,4,4,9:42 PM,2:51,Sprewell OFF.Foul (P1),,,,
+0020100710,411,5,5,4,9:42 PM,2:51,Sprewell Foul Turnover (P3.T15),,,,
+0020100710,412,9,4,4,9:42 PM,2:51,,,,,
+0020100710,414,5,1,4,9:44 PM,2:38,Houston STEAL (1 STL),,Childs Bad Pass Turnover (P3.T8),,
+0020100710,415,5,1,4,9:44 PM,2:32,Houston Bad Pass Turnover (P4.T16),,Williams STEAL (3 STL),,
+0020100710,416,1,42,4,9:44 PM,2:27,,,Peterson  Driving Layup (23 PTS) (Williams 7 AST),80 - 84,4
+0020100710,417,1,1,4,9:45 PM,2:03,Thomas 14' Jump Shot (19 PTS) (Houston 4 AST),,,80 - 86,6
+0020100710,418,9,1,4,9:45 PM,1:49,,,Raptors Timeout: Regular (Reg.5 Short 1),,
+0020100710,420,1,42,4,9:47 PM,1:44,,,Peterson  Driving Layup (25 PTS) (Williams 8 AST),82 - 86,4
+0020100710,421,1,8,4,9:48 PM,1:23,Weatherspoon  Slam Dunk (12 PTS) (Jackson 10 AST),,,82 - 88,6
+0020100710,422,6,1,4,9:48 PM,1:17,Jackson P.FOUL (P1.T3),,,,
+0020100710,423,8,0,4,9:48 PM,1:17,SUB: Ward FOR Jackson,,,,
+0020100710,424,2,1,4,9:49 PM,1:01,,,MISS Williams 7' Jump Shot,,
+0020100710,425,4,0,4,9:49 PM,0:59,Thomas REBOUND (Off:0 Def:4),,,,
+0020100710,426,6,1,4,9:49 PM,0:47,,,Childs P.FOUL (P4.T3),,
+0020100710,427,5,11,4,9:50 PM,0:33,KNICKS Turnover: Shot Clock (T#17),,,,
+0020100710,428,2,1,4,9:50 PM,0:23,,,MISS Peterson 20' Jump Shot,,
+0020100710,429,4,0,4,9:50 PM,0:21,Sprewell REBOUND (Off:2 Def:2),,,,
+0020100710,430,6,1,4,9:50 PM,0:18,,,Williams P.FOUL (P1.PN),,
+0020100710,431,3,11,4,9:51 PM,0:18,MISS Ward Free Throw 1 of 2,,,,
+0020100710,432,4,1,4,9:51 PM,0:18,KNICKS Rebound,,,,
+0020100710,433,3,12,4,9:51 PM,0:18,Ward Free Throw 2 of 2 (9 PTS),,,82 - 89,7
+0020100710,434,9,1,4,9:51 PM,0:18,,,Raptors Timeout: Regular (Reg.6 Short 1),,
+0020100710,436,2,1,4,9:53 PM,0:09,,,MISS Davis 14' Jump Shot,,
+0020100710,437,4,0,4,9:53 PM,0:07,KNICKS Rebound,,,,
+0020100710,438,13,0,4,9:53 PM,0:00,,,,82 - 89,7

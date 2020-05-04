@@ -1,0 +1,441 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900127,0,12,0,1,8:05 PM,12:00,,,,,
+0020900127,1,10,0,1,8:05 PM,12:00,Jump Ball Perkins vs. Smith: Tip to Horford,,,,
+0020900127,2,2,1,1,8:05 PM,11:44,,,MISS Williams 24' 3PT Jump Shot,,
+0020900127,3,4,0,1,8:05 PM,11:43,Perkins REBOUND (Off:0 Def:1),,,,
+0020900127,4,2,1,1,8:06 PM,11:25,MISS Perkins 4' Jump Shot,,,,
+0020900127,5,4,0,1,8:06 PM,11:24,,,Johnson REBOUND (Off:0 Def:1),,
+0020900127,6,2,1,1,8:06 PM,11:15,,,MISS Johnson 18' Jump Shot,,
+0020900127,7,4,0,1,8:06 PM,11:14,,,Williams REBOUND (Off:1 Def:0),,
+0020900127,8,2,5,1,8:06 PM,11:12,,,MISS Williams 2' Layup,,
+0020900127,9,4,0,1,8:06 PM,11:11,,,Horford REBOUND (Off:1 Def:0),,
+0020900127,10,1,4,1,8:06 PM,11:09,,,Horford 2' Tip Shot (2 PTS),2 - 0,-2
+0020900127,11,2,1,1,8:06 PM,10:50,MISS Allen 6' Jump Shot,,,,
+0020900127,12,4,0,1,8:06 PM,10:48,,,Bibby REBOUND (Off:0 Def:1),,
+0020900127,13,1,5,1,8:06 PM,10:42,,,Horford 2' Layup (4 PTS) (Bibby 1 AST),4 - 0,-4
+0020900127,14,2,1,1,8:07 PM,10:17,MISS Pierce 24' 3PT Jump Shot,,,,
+0020900127,15,4,0,1,8:07 PM,10:16,,,Horford REBOUND (Off:1 Def:1),,
+0020900127,16,2,86,1,8:07 PM,10:01,Perkins BLOCK (1 BLK),,MISS Horford 8' Turnaround Fadeaway Shot,,
+0020900127,17,4,0,1,8:07 PM,9:59,Perkins REBOUND (Off:0 Def:2),,,,
+0020900127,18,2,1,1,8:07 PM,9:52,MISS Pierce 4' Jump Shot,,,,
+0020900127,19,4,0,1,8:07 PM,9:51,,,Horford REBOUND (Off:1 Def:2),,
+0020900127,20,2,1,1,8:08 PM,9:37,,,MISS Bibby 22' Jump Shot,,
+0020900127,21,4,0,1,8:08 PM,9:36,Pierce REBOUND (Off:0 Def:1),,,,
+0020900127,22,6,1,1,8:08 PM,9:35,,,Horford P.FOUL (P1.T1),,
+0020900127,23,6,1,1,8:08 PM,9:23,,,Smith P.FOUL (P1.T2),,
+0020900127,24,1,8,1,8:09 PM,9:17,Garnett  Slam Dunk (2 PTS) (Allen 1 AST),,,4 - 2,-2
+0020900127,25,5,1,1,8:09 PM,9:03,Garnett STEAL (1 STL),,Smith Bad Pass Turnover (P1.T1),,
+0020900127,26,5,1,1,8:09 PM,8:55,Allen Bad Pass Turnover (P1.T1),,,,
+0020900127,27,1,56,1,8:09 PM,8:41,,,Smith 4' Running Hook Shot (2 PTS) (Bibby 2 AST),6 - 2,-4
+0020900127,28,1,42,1,8:10 PM,8:29,Pierce 2' Driving Layup (2 PTS),,,6 - 4,-2
+0020900127,29,6,2,1,8:10 PM,8:16,Allen S.FOUL (P1.T1),,,,
+0020900127,30,3,11,1,8:10 PM,8:16,,,Johnson Free Throw 1 of 2 (1 PTS),7 - 4,-3
+0020900127,32,3,12,1,8:10 PM,8:16,,,Johnson Free Throw 2 of 2 (2 PTS),8 - 4,-4
+0020900127,34,1,5,1,8:11 PM,8:06,Perkins 1' Layup (2 PTS) (Rondo 1 AST),,,8 - 6,-2
+0020900127,35,1,1,1,8:11 PM,7:51,,,Smith 20' Jump Shot (4 PTS) (Horford 1 AST),10 - 6,-4
+0020900127,36,2,1,1,8:11 PM,7:36,MISS Pierce 25' 3PT Jump Shot,,,,
+0020900127,37,4,0,1,8:11 PM,7:35,,,Johnson REBOUND (Off:0 Def:2),,
+0020900127,38,1,63,1,8:12 PM,7:18,,,Horford 12' Fadeaway Jumper (6 PTS) (Williams 1 AST),12 - 6,-6
+0020900127,39,5,4,1,8:12 PM,7:03,Perkins Traveling Turnover (P1.T2),,,,
+0020900127,40,5,1,1,8:12 PM,6:42,Garnett STEAL (2 STL),,Johnson Bad Pass Turnover (P1.T2),,
+0020900127,41,5,2,1,8:12 PM,6:33,Rondo Lost Ball Turnover (P1.T3),,Johnson STEAL (1 STL),,
+0020900127,42,1,80,1,8:13 PM,6:22,,,Bibby 20' Step Back Jump Shot (2 PTS),14 - 6,-8
+0020900127,43,1,1,1,8:13 PM,5:56,Garnett 20' Jump Shot (4 PTS) (Rondo 2 AST),,,14 - 8,-6
+0020900127,44,1,46,1,8:13 PM,5:35,,,Johnson 5' Running Jump Shot (4 PTS),16 - 8,-8
+0020900127,45,1,7,1,8:14 PM,5:16,Perkins  Dunk (4 PTS) (Rondo 3 AST),,,16 - 10,-6
+0020900127,46,9,1,1,8:14 PM,5:05,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0020900127,48,1,5,1,8:18 PM,4:47,,,Williams 2' Layup (2 PTS) (Horford 2 AST),18 - 10,-8
+0020900127,49,1,86,1,8:18 PM,4:23,Pierce 11' Turnaround Fadeaway (4 PTS),,,18 - 12,-6
+0020900127,50,1,80,1,8:19 PM,4:01,,,Williams 20' Step Back Jump Shot (4 PTS),20 - 12,-8
+0020900127,51,1,65,1,8:19 PM,3:47,Garnett 5' Jump Hook Shot (6 PTS) (Rondo 4 AST),,,20 - 14,-6
+0020900127,52,6,17,1,8:19 PM,3:35,CELTICS T.Foul (Def. 3 Sec Allen ),,,,
+0020900127,53,3,16,1,8:19 PM,3:35,,,MISS Johnson Free Throw Technical,,
+0020900127,54,4,1,1,8:19 PM,3:35,,,Hawks Rebound,,
+0020900127,55,8,0,1,8:20 PM,3:35,,,SUB: Pachulia FOR Smith,,
+0020900127,56,8,0,1,8:20 PM,3:35,,,SUB: Smith FOR Johnson,,
+0020900127,57,8,0,1,8:20 PM,3:35,SUB: Daniels FOR Allen,,,,
+0020900127,58,8,0,1,8:20 PM,3:35,SUB: Wallace FOR Perkins,,,,
+0020900127,59,7,5,1,8:20 PM,3:31,Wallace Violation:Kicked Ball,,,,
+0020900127,60,1,44,1,8:20 PM,3:20,,,Pachulia 1' Reverse Layup (2 PTS),22 - 14,-8
+0020900127,61,1,44,1,8:21 PM,3:07,Garnett  Reverse Layup (8 PTS),,,22 - 16,-6
+0020900127,62,6,2,1,8:21 PM,3:07,,,Pachulia S.FOUL (P1.T3),,
+0020900127,63,8,0,1,8:21 PM,3:07,,,SUB: Crawford FOR Bibby,,
+0020900127,64,3,10,1,8:21 PM,3:07,MISS Garnett Free Throw 1 of 1,,,,
+0020900127,66,4,0,1,8:21 PM,3:06,,,Smith REBOUND (Off:0 Def:1),,
+0020900127,67,2,1,1,8:22 PM,2:50,,,MISS Smith  3PT Jump Shot,,
+0020900127,68,4,0,1,8:22 PM,2:48,,,Pachulia REBOUND (Off:1 Def:0),,
+0020900127,69,1,72,1,8:22 PM,2:47,,,Pachulia 2' Putback Layup (4 PTS),24 - 16,-8
+0020900127,70,1,47,1,8:22 PM,2:26,Wallace 8' Turnaround Jump Shot (2 PTS),,,24 - 18,-6
+0020900127,71,2,1,1,8:22 PM,2:01,,,MISS Crawford  3PT Jump Shot,,
+0020900127,72,4,0,1,8:23 PM,2:00,,,Smith REBOUND (Off:1 Def:1),,
+0020900127,73,2,5,1,8:23 PM,1:58,,,MISS Smith 1' Layup,,
+0020900127,74,4,0,1,8:23 PM,1:56,,,Pachulia REBOUND (Off:2 Def:0),,
+0020900127,75,2,5,1,8:23 PM,1:55,Wallace BLOCK (1 BLK),,MISS Pachulia 1' Layup,,
+0020900127,76,4,0,1,8:23 PM,1:55,,,Hawks Rebound,,
+0020900127,77,9,1,1,8:23 PM,1:55,CELTICS Timeout: Regular (Full 1 Short 0),,,,
+0020900127,79,8,0,1,8:26 PM,1:55,,,SUB: Johnson FOR Horford,,
+0020900127,80,2,1,1,8:26 PM,1:45,,,MISS Johnson 18' Jump Shot,,
+0020900127,81,4,0,1,8:26 PM,1:45,CELTICS Rebound,,,,
+0020900127,82,2,1,1,8:26 PM,1:28,MISS Wallace 25' 3PT Jump Shot,,,,
+0020900127,83,4,0,1,8:26 PM,1:27,,,Smith REBOUND (Off:1 Def:2),,
+0020900127,84,2,1,1,8:27 PM,1:02,,,MISS Williams 20' Jump Shot,,
+0020900127,85,4,0,1,8:27 PM,1:01,Pierce REBOUND (Off:0 Def:2),,,,
+0020900127,86,6,17,1,8:27 PM,0:50,,,Hawks T.Foul (Def. 3 Sec Johnson ),,
+0020900127,87,8,0,1,8:27 PM,0:50,SUB: House FOR Rondo,,,,
+0020900127,88,8,0,1,8:27 PM,0:50,,,SUB: Teague FOR Johnson,,
+0020900127,89,3,16,1,8:27 PM,0:50,MISS Pierce Free Throw Technical,,,,
+0020900127,90,4,1,1,8:27 PM,0:50,CELTICS Rebound,,,,
+0020900127,91,8,0,1,8:28 PM,0:50,,,SUB: Evans FOR Williams,,
+0020900127,92,1,41,1,8:28 PM,0:42,Daniels 1' Running Layup (2 PTS),,,24 - 20,-4
+0020900127,93,5,4,1,8:29 PM,0:27,,,Teague Traveling Turnover (P1.T3),,
+0020900127,94,8,0,1,8:29 PM,0:27,SUB: Shel. Williams FOR Garnett,,,,
+0020900127,95,6,2,1,8:29 PM,0:08,,,Evans S.FOUL (P1.T4),,
+0020900127,96,3,11,1,8:30 PM,0:08,Pierce Free Throw 1 of 2 (5 PTS),,,24 - 21,-3
+0020900127,98,3,12,1,8:30 PM,0:08,Pierce Free Throw 2 of 2 (6 PTS),,,24 - 22,-2
+0020900127,100,6,1,1,8:31 PM,0:06,Daniels P.FOUL (P1.T2),,,,
+0020900127,101,8,0,1,8:31 PM,0:06,SUB: Rondo FOR House,,,,
+0020900127,102,8,0,1,8:31 PM,0:06,,,SUB: Johnson FOR Pachulia,,
+0020900127,103,8,0,1,8:31 PM,0:06,SUB: Allen FOR Shel. Williams,,,,
+0020900127,104,2,1,1,8:31 PM,0:00,,,MISS Johnson 24' 3PT Jump Shot,,
+0020900127,105,4,0,1,8:31 PM,0:00,,,Hawks Rebound,,
+0020900127,106,13,0,1,8:32 PM,0:00,,,,24 - 22,-2
+0020900127,108,12,0,2,8:35 PM,12:00,,,,24 - 22,-2
+0020900127,109,6,4,2,8:36 PM,11:36,Shel. Williams OFF.Foul (P1),,,,
+0020900127,110,5,5,2,8:36 PM,11:36,Shel. Williams Foul Turnover (P1.T4),,,,
+0020900127,111,5,4,2,8:37 PM,11:24,,,Crawford Traveling Turnover (P1.T4),,
+0020900127,112,1,1,2,8:37 PM,10:59,Wallace 25' 3PT Jump Shot (5 PTS) (Allen 2 AST),,,24 - 25,1
+0020900127,113,5,2,2,8:38 PM,10:45,House STEAL (1 STL),,Teague Lost Ball Turnover (P2.T5),,
+0020900127,114,2,1,2,8:38 PM,10:38,MISS House  3PT Jump Shot,,,,
+0020900127,115,4,0,2,8:38 PM,10:38,Wallace REBOUND (Off:1 Def:0),,,,
+0020900127,116,2,3,2,8:38 PM,10:14,MISS Shel. Williams 1' Hook Shot,,,,
+0020900127,117,4,0,2,8:38 PM,10:12,,,Teague REBOUND (Off:0 Def:1),,
+0020900127,118,2,5,2,8:38 PM,10:07,Wallace BLOCK (2 BLK),,MISS Evans 2' Layup,,
+0020900127,119,4,0,2,8:38 PM,10:04,,,Hawks Rebound,,
+0020900127,120,1,1,2,8:39 PM,10:02,,,Crawford 19' Jump Shot (2 PTS) (Evans 1 AST),26 - 25,-1
+0020900127,121,1,42,2,8:39 PM,9:42,Allen 1' Driving Layup (2 PTS),,,26 - 27,1
+0020900127,122,6,4,2,8:39 PM,9:30,,,Pachulia OFF.Foul (P2),,
+0020900127,123,5,5,2,8:39 PM,9:30,,,Pachulia Foul Turnover (P1.T6),,
+0020900127,124,8,0,2,8:39 PM,9:30,,,SUB: Smith FOR Pachulia,,
+0020900127,125,2,1,2,8:40 PM,9:13,MISS House 25' 3PT Jump Shot,,,,
+0020900127,126,4,0,2,8:40 PM,9:13,Shel. Williams REBOUND (Off:1 Def:0),,,,
+0020900127,127,6,1,2,8:40 PM,9:04,,,Teague P.FOUL (P1.T1),,
+0020900127,128,2,5,2,8:41 PM,8:56,MISS Daniels 1' Layup,,Smith BLOCK (1 BLK),,
+0020900127,129,4,0,2,8:41 PM,8:54,,,Teague REBOUND (Off:0 Def:2),,
+0020900127,130,5,4,2,8:41 PM,8:52,,,Crawford Traveling Turnover (P2.T7),,
+0020900127,131,9,4,2,8:41 PM,8:52,,,,,
+0020900127,133,8,0,2,8:44 PM,8:52,,,SUB: Horford FOR Smith,,
+0020900127,134,2,42,2,8:45 PM,8:40,MISS Shel. Williams 2' Driving Layup,,,,
+0020900127,135,4,0,2,8:45 PM,8:39,,,Horford REBOUND (Off:1 Def:3),,
+0020900127,136,2,5,2,8:45 PM,8:35,,,MISS Teague  Layup,,
+0020900127,137,4,0,2,8:45 PM,8:32,,,Smith REBOUND (Off:1 Def:0),,
+0020900127,138,2,5,2,8:45 PM,8:30,Wallace BLOCK (3 BLK),,MISS Smith 1' Layup,,
+0020900127,140,4,0,2,8:45 PM,8:27,,,Smith REBOUND (Off:2 Def:0),,
+0020900127,139,1,5,2,8:45 PM,8:27,,,Smith 2' Layup (6 PTS),28 - 27,-1
+0020900127,141,1,5,2,8:45 PM,8:18,Daniels 2' Layup (4 PTS) (Allen 3 AST),,,28 - 29,1
+0020900127,142,6,2,2,8:45 PM,8:18,,,Teague S.FOUL (P2.T2),,
+0020900127,143,8,0,2,8:45 PM,8:18,,,SUB: Bibby FOR Teague,,
+0020900127,144,8,0,2,8:45 PM,8:18,,,SUB: Johnson FOR Evans,,
+0020900127,145,3,10,2,8:46 PM,8:18,Daniels Free Throw 1 of 1 (5 PTS),,,28 - 30,2
+0020900127,147,5,2,2,8:46 PM,8:02,Wallace STEAL (1 STL),,Horford Lost Ball Turnover (P1.T8),,
+0020900127,148,1,1,2,8:46 PM,7:55,House 23' Jump Shot (2 PTS) (Daniels 1 AST),,,28 - 32,4
+0020900127,149,6,1,2,8:46 PM,7:45,Wallace P.FOUL (P1.T1),,,,
+0020900127,150,2,1,2,8:47 PM,7:35,,,MISS Crawford  3PT Jump Shot,,
+0020900127,151,4,0,2,8:47 PM,7:35,Shel. Williams REBOUND (Off:1 Def:1),,,,
+0020900127,152,2,5,2,8:47 PM,7:25,MISS Shel. Williams 1' Layup,,,,
+0020900127,153,4,0,2,8:47 PM,7:24,,,Horford REBOUND (Off:1 Def:4),,
+0020900127,154,5,1,2,8:47 PM,7:21,,,Horford Bad Pass Turnover (P2.T9),,
+0020900127,155,2,1,2,8:48 PM,7:02,MISS House 21' Jump Shot,,,,
+0020900127,156,4,0,2,8:48 PM,7:01,,,Horford REBOUND (Off:1 Def:5),,
+0020900127,157,6,2,2,8:48 PM,6:48,Daniels S.FOUL (P2.T2),,,,
+0020900127,158,8,0,2,8:48 PM,6:48,SUB: Perkins FOR Shel. Williams,,,,
+0020900127,159,8,0,2,8:48 PM,6:48,,,SUB: Williams FOR Crawford,,
+0020900127,160,3,11,2,8:48 PM,6:48,,,MISS Smith Free Throw 1 of 2,,
+0020900127,161,4,1,2,8:48 PM,6:48,,,Hawks Rebound,,
+0020900127,162,3,12,2,8:48 PM,6:48,,,Smith Free Throw 2 of 2 (7 PTS),29 - 32,3
+0020900127,164,2,1,2,8:49 PM,6:30,MISS Wallace 26' 3PT Jump Shot,,,,
+0020900127,165,4,0,2,8:49 PM,6:29,,,Williams REBOUND (Off:1 Def:1),,
+0020900127,166,2,1,2,8:49 PM,6:15,,,MISS Bibby 24' 3PT Jump Shot,,
+0020900127,167,4,0,2,8:49 PM,6:13,Wallace REBOUND (Off:1 Def:1),,,,
+0020900127,168,5,7,2,8:49 PM,6:09,Daniels Discontinue Dribble Turnover (P1.T5),,,,
+0020900127,169,1,80,2,8:50 PM,5:50,,,Johnson 19' Step Back Jump Shot (6 PTS),31 - 32,1
+0020900127,170,9,1,2,8:50 PM,5:40,CELTICS Timeout: Regular (Full 2 Short 0),,,,
+0020900127,172,8,0,2,8:53 PM,5:40,SUB: Rondo FOR House,,,,
+0020900127,173,8,0,2,8:53 PM,5:40,SUB: Pierce FOR Daniels,,,,
+0020900127,174,1,79,2,8:54 PM,5:29,Pierce 21' Pullup Jump Shot (8 PTS),,,31 - 34,3
+0020900127,175,1,1,2,8:54 PM,5:10,,,Smith 3' Jump Shot (9 PTS) (Bibby 3 AST),33 - 34,1
+0020900127,176,5,1,2,8:54 PM,4:58,Rondo Bad Pass Turnover (P2.T6),,Smith STEAL (1 STL),,
+0020900127,177,6,4,2,8:54 PM,4:52,,,Horford OFF.Foul (P2),,
+0020900127,178,5,5,2,8:54 PM,4:52,,,Horford Foul Turnover (P3.T10),,
+0020900127,179,8,0,2,8:54 PM,4:52,SUB: Garnett FOR Wallace,,,,
+0020900127,180,2,1,2,8:55 PM,4:43,MISS Garnett 20' Jump Shot,,,,
+0020900127,181,4,0,2,8:55 PM,4:42,,,Bibby REBOUND (Off:0 Def:2),,
+0020900127,182,2,1,2,8:55 PM,4:25,,,MISS Bibby 17' Jump Shot,,
+0020900127,183,4,0,2,8:55 PM,4:24,Perkins REBOUND (Off:0 Def:3),,,,
+0020900127,184,1,42,2,8:55 PM,4:16,Allen 3' Driving Layup (4 PTS) (Pierce 1 AST),,,33 - 36,3
+0020900127,185,2,1,2,8:55 PM,4:05,,,MISS Johnson 20' Jump Shot,,
+0020900127,186,4,0,2,8:55 PM,4:04,Perkins REBOUND (Off:0 Def:4),,,,
+0020900127,187,2,5,2,8:56 PM,3:47,MISS Perkins 2' Layup,,Horford BLOCK (1 BLK),,
+0020900127,188,4,0,2,8:56 PM,3:46,,,Horford REBOUND (Off:1 Def:6),,
+0020900127,189,1,5,2,8:56 PM,3:34,,,Horford 2' Layup (8 PTS) (Bibby 4 AST),35 - 36,1
+0020900127,190,6,4,2,8:56 PM,3:15,Perkins OFF.Foul (P1),,,,
+0020900127,191,5,5,2,8:56 PM,3:15,Perkins Foul Turnover (P2.T7),,,,
+0020900127,192,8,0,2,8:56 PM,3:15,,,SUB: Pachulia FOR Horford,,
+0020900127,193,1,81,2,8:57 PM,3:02,,,Johnson 10' Pullup Bank Shot (8 PTS),37 - 36,-1
+0020900127,194,2,5,2,8:57 PM,2:38,MISS Perkins 2' Layup,,Smith BLOCK (1 BLK),,
+0020900127,195,4,0,2,8:57 PM,2:36,,,Smith REBOUND (Off:2 Def:1),,
+0020900127,196,1,5,2,8:57 PM,2:32,,,Johnson 2' Layup (10 PTS) (Williams 2 AST),39 - 36,-3
+0020900127,197,1,1,2,8:58 PM,2:12,Garnett 20' Jump Shot (10 PTS) (Pierce 2 AST),,,39 - 38,-1
+0020900127,198,2,5,2,8:58 PM,1:58,,,MISS Pachulia 2' Layup,,
+0020900127,199,4,0,2,8:58 PM,1:57,,,Smith REBOUND (Off:3 Def:1),,
+0020900127,200,2,72,2,8:58 PM,1:55,,,MISS Smith 2' Putback Layup,,
+0020900127,201,4,0,2,8:58 PM,1:54,Garnett REBOUND (Off:0 Def:1),,,,
+0020900127,202,1,7,2,8:58 PM,1:49,Pierce 1' Dunk (10 PTS) (Rondo 5 AST),,,39 - 40,1
+0020900127,203,9,1,2,8:58 PM,1:44,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0020900127,205,2,1,2,9:02 PM,1:27,,,MISS Smith 5' Jump Shot,,
+0020900127,206,4,0,2,9:02 PM,1:25,CELTICS Rebound,,,,
+0020900127,207,6,3,2,9:02 PM,1:25,,,Pachulia L.B.FOUL (P3.T3),,
+0020900127,208,8,0,2,9:02 PM,1:25,,,SUB: Collins FOR Pachulia,,
+0020900127,209,1,8,2,9:03 PM,1:06,Perkins  Slam Dunk (6 PTS),,,39 - 42,3
+0020900127,210,1,78,2,9:03 PM,0:46,,,Williams 6' Floating Jump Shot (6 PTS) (Johnson 1 AST),41 - 42,1
+0020900127,211,2,1,2,9:04 PM,0:31,MISS Garnett 20' Jump Shot,,,,
+0020900127,212,4,0,2,9:04 PM,0:30,Perkins REBOUND (Off:1 Def:4),,,,
+0020900127,213,2,4,2,9:04 PM,0:30,MISS Perkins  Tip Shot,,,,
+0020900127,214,4,0,2,9:04 PM,0:28,,,Williams REBOUND (Off:1 Def:2),,
+0020900127,215,6,1,2,9:04 PM,0:14,Rondo P.FOUL (P1.T3),,,,
+0020900127,216,9,2,2,9:04 PM,0:14,,,Hawks Timeout: Short (Reg.2 Short 1),,
+0020900127,218,8,0,2,9:05 PM,0:14,,,SUB: Crawford FOR Collins,,
+0020900127,219,8,0,2,9:05 PM,0:14,SUB: Daniels FOR Perkins,,,,
+0020900127,220,2,1,2,9:06 PM,0:03,,,MISS Johnson 11' Jump Shot,,
+0020900127,221,4,0,2,9:06 PM,0:01,Rondo REBOUND (Off:0 Def:1),,,,
+0020900127,222,2,1,2,9:06 PM,0:00,MISS Rondo 38' 3PT Jump Shot,,,,
+0020900127,223,4,0,2,9:06 PM,0:00,CELTICS Rebound,,,,
+0020900127,224,13,0,2,9:06 PM,0:00,,,,41 - 42,1
+0020900127,226,12,0,3,9:26 PM,12:00,,,,41 - 42,1
+0020900127,227,1,1,3,9:26 PM,11:38,Garnett 22' Jump Shot (12 PTS) (Rondo 6 AST),,,41 - 44,3
+0020900127,228,2,1,3,9:27 PM,11:12,,,MISS Horford 11' Jump Shot,,
+0020900127,229,4,0,3,9:27 PM,11:10,Garnett REBOUND (Off:0 Def:2),,,,
+0020900127,230,2,3,3,9:27 PM,10:51,MISS Perkins 3' Hook Shot,,Smith BLOCK (2 BLK),,
+0020900127,231,4,0,3,9:27 PM,10:49,,,Johnson REBOUND (Off:0 Def:3),,
+0020900127,232,2,1,3,9:27 PM,10:40,,,MISS Johnson 24' 3PT Jump Shot,,
+0020900127,233,4,0,3,9:27 PM,10:40,Perkins REBOUND (Off:1 Def:5),,,,
+0020900127,234,1,41,3,9:28 PM,10:28,Pierce 1' Running Layup (12 PTS),,,41 - 46,5
+0020900127,235,6,2,3,9:28 PM,10:28,,,Smith S.FOUL (P2.T1),,
+0020900127,236,3,10,3,9:28 PM,10:28,MISS Pierce Free Throw 1 of 1,,,,
+0020900127,238,4,0,3,9:28 PM,10:28,,,Horford REBOUND (Off:1 Def:7),,
+0020900127,239,2,1,3,9:29 PM,10:06,,,MISS Williams 16' Jump Shot,,
+0020900127,240,4,0,3,9:29 PM,10:05,Rondo REBOUND (Off:0 Def:2),,,,
+0020900127,241,6,2,3,9:29 PM,10:02,,,Bibby S.FOUL (P1.T2),,
+0020900127,242,3,11,3,9:29 PM,10:02,Pierce Free Throw 1 of 2 (13 PTS),,,41 - 47,6
+0020900127,244,3,12,3,9:29 PM,10:02,Pierce Free Throw 2 of 2 (14 PTS),,,41 - 48,7
+0020900127,246,6,1,3,9:30 PM,9:49,Allen P.FOUL (P2.T1),,,,
+0020900127,247,6,1,3,9:30 PM,9:45,Perkins P.FOUL (P2.T2),,,,
+0020900127,248,1,5,3,9:31 PM,9:40,,,Johnson 1' Layup (12 PTS) (Smith 1 AST),43 - 48,5
+0020900127,249,6,4,3,9:31 PM,9:29,Perkins OFF.Foul (P3),,,,
+0020900127,250,5,5,3,9:31 PM,9:29,Perkins Foul Turnover (P3.T8),,,,
+0020900127,251,1,1,3,9:31 PM,9:09,,,Johnson 17' Jump Shot (14 PTS),45 - 48,3
+0020900127,252,2,1,3,9:32 PM,8:51,MISS Pierce 24' 3PT Jump Shot,,,,
+0020900127,253,4,0,3,9:32 PM,8:50,,,Johnson REBOUND (Off:0 Def:4),,
+0020900127,254,2,1,3,9:32 PM,8:45,,,MISS Horford 6' Jump Shot,,
+0020900127,255,4,0,3,9:32 PM,8:44,,,Smith REBOUND (Off:4 Def:1),,
+0020900127,256,1,1,3,9:32 PM,8:37,,,Bibby 25' 3PT Jump Shot (5 PTS) (Horford 3 AST),48 - 48,TIE
+0020900127,257,6,2,3,9:32 PM,8:19,,,Smith S.FOUL (P3.T3),,
+0020900127,258,3,11,3,9:33 PM,8:19,Pierce Free Throw 1 of 2 (15 PTS),,,48 - 49,1
+0020900127,260,3,12,3,9:33 PM,8:19,Pierce Free Throw 2 of 2 (16 PTS),,,48 - 50,2
+0020900127,261,2,1,3,9:33 PM,8:08,,,MISS Johnson 11' Jump Shot,,
+0020900127,262,4,0,3,9:33 PM,8:07,Rondo REBOUND (Off:0 Def:3),,,,
+0020900127,263,6,2,3,9:34 PM,7:54,,,Williams S.FOUL (P1.T4),,
+0020900127,264,3,11,3,9:34 PM,7:54,Perkins Free Throw 1 of 2 (7 PTS),,,48 - 51,3
+0020900127,266,3,12,3,9:34 PM,7:54,Perkins Free Throw 2 of 2 (8 PTS),,,48 - 52,4
+0020900127,268,2,1,3,9:35 PM,7:49,,,MISS Smith 20' Jump Shot,,
+0020900127,269,4,0,3,9:35 PM,7:48,,,Horford REBOUND (Off:2 Def:7),,
+0020900127,270,2,5,3,9:35 PM,7:43,,,MISS Smith 3' Layup,,
+0020900127,271,4,0,3,9:35 PM,7:42,Pierce REBOUND (Off:0 Def:3),,,,
+0020900127,272,2,43,3,9:35 PM,7:37,MISS Garnett 1' Alley Oop Layup,,,,
+0020900127,274,4,0,3,9:35 PM,7:36,Perkins REBOUND (Off:2 Def:5),,,,
+0020900127,273,1,72,3,9:35 PM,7:36,Perkins 1' Putback Layup (10 PTS),,,48 - 54,6
+0020900127,275,6,2,3,9:35 PM,7:17,Rondo S.FOUL (P2.T3),,,,
+0020900127,276,3,11,3,9:35 PM,7:17,,,Bibby Free Throw 1 of 2 (6 PTS),49 - 54,5
+0020900127,278,8,0,3,9:36 PM,7:17,,,SUB: Crawford FOR Williams,,
+0020900127,279,3,12,3,9:36 PM,7:17,,,Bibby Free Throw 2 of 2 (7 PTS),50 - 54,4
+0020900127,281,2,5,3,9:36 PM,6:59,MISS Pierce 1' Layup,,Smith BLOCK (3 BLK),,
+0020900127,282,4,0,3,9:36 PM,6:58,,,Johnson REBOUND (Off:0 Def:5),,
+0020900127,283,1,1,3,9:36 PM,6:53,,,Bibby  3PT Jump Shot (10 PTS) (Johnson 2 AST),53 - 54,1
+0020900127,285,9,1,3,9:37 PM,6:50,CELTICS Timeout: Regular (Full 3 Short 0),,,,
+0020900127,286,1,5,3,9:40 PM,6:38,Pierce 3' Layup (18 PTS) (Rondo 7 AST),,,53 - 56,3
+0020900127,287,2,1,3,9:40 PM,6:14,,,MISS Johnson 8' Jump Shot,,
+0020900127,288,4,0,3,9:40 PM,6:14,,,Bibby REBOUND (Off:1 Def:2),,
+0020900127,289,1,1,3,9:40 PM,6:08,,,Crawford 25' 3PT Jump Shot (5 PTS) (Bibby 5 AST),56 - 56,TIE
+0020900127,290,1,46,3,9:41 PM,5:50,Allen 8' Running Jump Shot (6 PTS),,,56 - 58,2
+0020900127,291,2,1,3,9:41 PM,5:28,,,MISS Crawford  3PT Jump Shot,,
+0020900127,292,4,0,3,9:41 PM,5:27,Perkins REBOUND (Off:2 Def:6),,,,
+0020900127,293,2,1,3,9:41 PM,5:05,MISS Rondo 15' Jump Shot,,,,
+0020900127,294,4,0,3,9:42 PM,5:04,Garnett REBOUND (Off:1 Def:2),,,,
+0020900127,295,2,1,3,9:42 PM,4:59,MISS Allen 26' 3PT Jump Shot,,,,
+0020900127,296,4,0,3,9:42 PM,4:59,CELTICS Rebound,,,,
+0020900127,297,6,3,3,9:42 PM,4:59,,,Johnson L.B.FOUL (P1.PN),,
+0020900127,298,3,11,3,9:42 PM,4:59,Garnett Free Throw 1 of 2 (13 PTS),,,56 - 59,3
+0020900127,300,3,12,3,9:42 PM,4:59,Garnett Free Throw 2 of 2 (14 PTS),,,56 - 60,4
+0020900127,302,1,1,3,9:43 PM,4:45,,,Bibby 20' Jump Shot (12 PTS) (Crawford 1 AST),58 - 60,2
+0020900127,303,2,1,3,9:43 PM,4:30,MISS Garnett 19' Jump Shot,,,,
+0020900127,304,4,0,3,9:43 PM,4:28,,,Bibby REBOUND (Off:1 Def:3),,
+0020900127,305,1,7,3,9:43 PM,4:24,,,Smith 1' Dunk (11 PTS) (Bibby 6 AST),60 - 60,TIE
+0020900127,306,1,1,3,9:43 PM,4:04,Allen 21' Jump Shot (8 PTS) (Rondo 8 AST),,,60 - 62,2
+0020900127,307,1,1,3,9:44 PM,3:50,,,Johnson  3PT Jump Shot (17 PTS) (Smith 2 AST),63 - 62,-1
+0020900127,308,2,1,3,9:44 PM,3:38,MISS Allen 25' 3PT Jump Shot,,,,
+0020900127,309,4,0,3,9:44 PM,3:37,,,Horford REBOUND (Off:2 Def:8),,
+0020900127,310,1,1,3,9:44 PM,3:22,,,Crawford 14' Jump Shot (7 PTS),65 - 62,-3
+0020900127,311,9,2,3,9:44 PM,3:15,CELTICS Timeout: Short (Full 3 Short 1),,,,
+0020900127,313,8,0,3,9:44 PM,3:15,SUB: Wallace FOR Garnett,,,,
+0020900127,314,8,0,3,9:45 PM,3:15,SUB: Daniels FOR Pierce,,,,
+0020900127,315,5,1,3,9:46 PM,3:00,Allen Bad Pass Turnover (P2.T9),,Horford STEAL (1 STL),,
+0020900127,316,2,1,3,9:46 PM,2:50,,,MISS Crawford 9' Jump Shot,,
+0020900127,318,4,0,3,9:46 PM,2:49,,,Horford REBOUND (Off:3 Def:8),,
+0020900127,317,1,87,3,9:46 PM,2:49,,,Horford 1' Putback Dunk (10 PTS),67 - 62,-5
+0020900127,319,1,43,3,9:46 PM,2:33,Perkins 1' Alley Oop Layup (12 PTS) (Rondo 9 AST),,,67 - 64,-3
+0020900127,320,9,1,3,9:47 PM,2:11,,,Hawks Timeout: Regular (Reg.3 Short 1),,
+0020900127,322,8,0,3,9:49 PM,2:11,SUB: Shel. Williams FOR Perkins,,,,
+0020900127,323,8,0,3,9:49 PM,2:11,SUB: House FOR Rondo,,,,
+0020900127,324,1,1,3,9:50 PM,2:07,,,Johnson 6' Jump Shot (19 PTS),69 - 64,-5
+0020900127,325,2,1,3,9:51 PM,1:46,MISS Wallace 25' 3PT Jump Shot,,,,
+0020900127,326,4,0,3,9:51 PM,1:46,,,Johnson REBOUND (Off:0 Def:6),,
+0020900127,327,5,1,3,9:51 PM,1:35,Shel. Williams STEAL (1 STL),,Crawford Bad Pass Turnover (P3.T11),,
+0020900127,328,5,2,3,9:51 PM,1:27,Daniels Lost Ball Turnover (P2.T10),,Horford STEAL (2 STL),,
+0020900127,329,6,2,3,9:51 PM,1:25,Wallace S.FOUL (P2.T4),,,,
+0020900127,330,8,0,3,9:51 PM,1:25,,,SUB: Pachulia FOR Horford,,
+0020900127,331,3,11,3,9:51 PM,1:25,,,MISS Smith Free Throw 1 of 2,,
+0020900127,332,4,1,3,9:51 PM,1:25,,,Hawks Rebound,,
+0020900127,334,8,0,3,9:52 PM,1:25,,,SUB: Evans FOR Johnson,,
+0020900127,335,3,12,3,9:52 PM,1:25,,,Smith Free Throw 2 of 2 (12 PTS),70 - 64,-6
+0020900127,337,1,5,3,9:53 PM,1:05,Shel. Williams 3' Layup (2 PTS) (Wallace 1 AST),,,70 - 66,-4
+0020900127,338,6,2,3,9:53 PM,0:51,Wallace S.FOUL (P3.PN),,,,
+0020900127,339,3,11,3,9:53 PM,0:51,,,Crawford Free Throw 1 of 2 (8 PTS),71 - 66,-5
+0020900127,341,8,0,3,9:53 PM,0:51,,,SUB: Smith FOR Smith,,
+0020900127,342,3,12,3,9:53 PM,0:51,,,Crawford Free Throw 2 of 2 (9 PTS),72 - 66,-6
+0020900127,344,1,44,3,9:54 PM,0:40,Daniels 1' Reverse Layup (7 PTS) (Allen 4 AST),,,72 - 68,-4
+0020900127,345,2,1,3,9:54 PM,0:33,,,MISS Crawford 20' Jump Shot,,
+0020900127,346,4,0,3,9:54 PM,0:33,Allen REBOUND (Off:0 Def:1),,,,
+0020900127,347,1,5,3,9:54 PM,0:26,Daniels 1' Layup (9 PTS) (Allen 5 AST),,,72 - 70,-2
+0020900127,348,2,1,3,9:54 PM,0:03,,,MISS Bibby 22' Jump Shot,,
+0020900127,349,4,0,3,9:54 PM,0:02,Allen REBOUND (Off:0 Def:2),,,,
+0020900127,350,13,0,3,9:54 PM,0:00,,,,72 - 70,-2
+0020900127,352,12,0,4,9:58 PM,12:00,,,,72 - 70,-2
+0020900127,353,1,1,4,9:59 PM,11:45,,,Crawford 19' Jump Shot (11 PTS),74 - 70,-4
+0020900127,354,2,1,4,9:59 PM,11:26,MISS House 21' Jump Shot,,,,
+0020900127,355,4,0,4,9:59 PM,11:26,,,Pachulia REBOUND (Off:2 Def:1),,
+0020900127,356,2,1,4,10:00 PM,11:10,,,MISS Evans 24' 3PT Jump Shot,,
+0020900127,357,4,0,4,10:00 PM,11:09,,,Smith REBOUND (Off:2 Def:2),,
+0020900127,358,1,72,4,10:00 PM,11:06,,,Smith 1' Putback Layup (2 PTS),76 - 70,-6
+0020900127,359,1,47,4,10:00 PM,10:48,Wallace 6' Turnaround Jump Shot (7 PTS),,,76 - 72,-4
+0020900127,360,2,1,4,10:00 PM,10:30,,,MISS Johnson 15' Jump Shot,,
+0020900127,362,4,0,4,10:00 PM,10:29,CELTICS Rebound,,,,
+0020900127,363,6,3,4,10:00 PM,10:29,,,Smith L.B.FOUL (P1.T1),,
+0020900127,364,8,0,4,10:00 PM,10:29,SUB: Pierce FOR Allen,,,,
+0020900127,365,5,2,4,10:01 PM,10:06,Pierce Lost Ball Turnover (P1.T11),,Pachulia STEAL (1 STL),,
+0020900127,366,2,1,4,10:01 PM,10:00,,,MISS Crawford 25' 3PT Jump Shot,,
+0020900127,367,4,0,4,10:01 PM,9:59,,,Pachulia REBOUND (Off:3 Def:1),,
+0020900127,368,1,1,4,10:01 PM,9:41,,,Smith 19' Jump Shot (4 PTS) (Crawford 2 AST),78 - 72,-6
+0020900127,369,6,4,4,10:02 PM,9:17,Wallace OFF.Foul (P4),,,,
+0020900127,370,5,5,4,10:02 PM,9:17,Wallace Foul Turnover (P1.T12),,,,
+0020900127,371,8,0,4,10:02 PM,9:17,SUB: Perkins FOR Shel. Williams,,,,
+0020900127,372,1,1,4,10:02 PM,9:05,,,Crawford 20' Jump Shot (13 PTS),80 - 72,-8
+0020900127,373,9,1,4,10:03 PM,9:04,CELTICS Timeout: Regular (Full 4 Short 1),,,,
+0020900127,375,8,0,4,10:06 PM,9:04,SUB: Rondo FOR House,,,,
+0020900127,376,2,1,4,10:07 PM,8:51,MISS Daniels 4' Jump Shot,,,,
+0020900127,377,4,0,4,10:07 PM,8:50,,,Smith REBOUND (Off:2 Def:3),,
+0020900127,378,6,2,4,10:07 PM,8:34,Perkins S.FOUL (P4.T1),,,,
+0020900127,379,8,0,4,10:07 PM,8:34,SUB: Garnett FOR Wallace,,,,
+0020900127,380,3,11,4,10:07 PM,8:34,,,Pachulia Free Throw 1 of 2 (5 PTS),81 - 72,-9
+0020900127,382,3,12,4,10:07 PM,8:34,,,Pachulia Free Throw 2 of 2 (6 PTS),82 - 72,-10
+0020900127,384,2,5,4,10:08 PM,8:22,MISS Perkins 2' Layup,,Smith BLOCK (2 BLK),,
+0020900127,385,4,0,4,10:08 PM,8:22,Rondo REBOUND (Off:1 Def:3),,,,
+0020900127,386,5,2,4,10:08 PM,8:14,Perkins Lost Ball Turnover (P4.T13),,Evans STEAL (1 STL),,
+0020900127,387,6,1,4,10:08 PM,8:09,Garnett P.FOUL (P1.T2),,,,
+0020900127,388,2,1,4,10:09 PM,8:01,,,MISS Crawford 23' Jump Shot,,
+0020900127,389,4,0,4,10:09 PM,8:00,Garnett REBOUND (Off:1 Def:3),,,,
+0020900127,390,1,5,4,10:09 PM,7:42,Perkins 2' Layup (14 PTS) (Garnett 1 AST),,,82 - 74,-8
+0020900127,391,6,11,4,10:09 PM,7:42,Perkins T.FOUL (P4.T2),,,,
+0020900127,392,3,16,4,10:09 PM,7:42,,,Johnson Free Throw Technical (20 PTS),83 - 74,-9
+0020900127,394,2,1,4,10:10 PM,7:26,,,MISS Johnson 8' Jump Shot,,
+0020900127,395,4,0,4,10:10 PM,7:25,,,Smith REBOUND (Off:3 Def:3),,
+0020900127,396,6,1,4,10:10 PM,7:23,Rondo P.FOUL (P3.T3),,,,
+0020900127,397,8,0,4,10:10 PM,7:23,,,SUB: Bibby FOR Evans,,
+0020900127,398,5,2,4,10:11 PM,7:06,Rondo STEAL (1 STL),,Johnson Lost Ball Turnover (P2.T12),,
+0020900127,399,1,42,4,10:11 PM,7:03,Rondo 1' Driving Layup (2 PTS),,,83 - 76,-7
+0020900127,400,6,1,4,10:11 PM,6:42,Daniels P.FOUL (P3.T4),,,,
+0020900127,401,8,0,4,10:11 PM,6:42,,,SUB: Horford FOR Pachulia,,
+0020900127,402,9,1,4,10:12 PM,6:42,,,Hawks Timeout: Regular (Reg.4 Short 1),,
+0020900127,404,2,1,4,10:15 PM,6:34,,,MISS Johnson 19' Jump Shot,,
+0020900127,405,4,0,4,10:15 PM,6:33,CELTICS Rebound,,,,
+0020900127,406,5,2,4,10:16 PM,6:22,Pierce Lost Ball Turnover (P2.T14),,Horford STEAL (3 STL),,
+0020900127,407,6,17,4,10:16 PM,6:08,CELTICS T.Foul (Def. 3 Sec Pierce ),,,,
+0020900127,408,8,0,4,10:16 PM,6:08,SUB: Allen FOR Daniels,,,,
+0020900127,409,8,0,4,10:16 PM,6:08,,,SUB: Smith FOR Smith,,
+0020900127,410,3,16,4,10:16 PM,6:08,,,Johnson Free Throw Technical (21 PTS),84 - 76,-8
+0020900127,412,1,63,4,10:17 PM,5:56,,,Crawford 8' Fadeaway Jumper (15 PTS),86 - 76,-10
+0020900127,413,6,2,4,10:17 PM,5:56,Allen S.FOUL (P3.PN),,,,
+0020900127,414,3,10,4,10:17 PM,5:56,,,Crawford Free Throw 1 of 1 (16 PTS),87 - 76,-11
+0020900127,416,2,1,4,10:17 PM,5:31,MISS Pierce 22' Jump Shot,,,,
+0020900127,417,4,0,4,10:18 PM,5:29,,,Smith REBOUND (Off:4 Def:2),,
+0020900127,418,2,1,4,10:18 PM,5:09,,,MISS Crawford 24' Jump Shot,,
+0020900127,419,4,0,4,10:18 PM,5:08,Perkins REBOUND (Off:2 Def:7),,,,
+0020900127,420,2,5,4,10:18 PM,5:02,MISS Pierce 2' Layup,,,,
+0020900127,421,4,0,4,10:18 PM,5:01,CELTICS Rebound,,,,
+0020900127,422,5,1,4,10:18 PM,5:00,Rondo Bad Pass Turnover (P3.T15),,,,
+0020900127,423,6,1,4,10:19 PM,4:44,Garnett P.FOUL (P2.PN),,,,
+0020900127,424,8,0,4,10:19 PM,4:44,SUB: Wallace FOR Perkins,,,,
+0020900127,425,3,11,4,10:19 PM,4:44,,,MISS Bibby Free Throw 1 of 2,,
+0020900127,426,4,1,4,10:19 PM,4:44,,,Hawks Rebound,,
+0020900127,427,3,12,4,10:19 PM,4:44,,,Bibby Free Throw 2 of 2 (13 PTS),88 - 76,-12
+0020900127,429,1,42,4,10:20 PM,4:36,Rondo 1' Driving Layup (4 PTS),,,88 - 78,-10
+0020900127,430,5,4,4,10:20 PM,4:14,,,Johnson Traveling Turnover (P3.T13),,
+0020900127,431,1,5,4,10:21 PM,4:00,Pierce 2' Layup (20 PTS),,,88 - 80,-8
+0020900127,432,6,2,4,10:21 PM,3:38,Wallace S.FOUL (P5.PN),,,,
+0020900127,433,3,11,4,10:21 PM,3:38,,,MISS Crawford Free Throw 1 of 2,,
+0020900127,434,4,1,4,10:21 PM,3:38,,,Hawks Rebound,,
+0020900127,435,3,12,4,10:21 PM,3:38,,,Crawford Free Throw 2 of 2 (17 PTS),89 - 80,-9
+0020900127,437,6,1,4,10:22 PM,3:27,,,Bibby P.FOUL (P2.T2),,
+0020900127,438,6,2,4,10:22 PM,3:24,,,Horford S.FOUL (P3.T3),,
+0020900127,439,3,11,4,10:23 PM,3:24,MISS Rondo Free Throw 1 of 2,,,,
+0020900127,440,4,1,4,10:23 PM,3:24,CELTICS Rebound,,,,
+0020900127,441,3,12,4,10:23 PM,3:24,MISS Rondo Free Throw 2 of 2,,,,
+0020900127,443,4,0,4,10:23 PM,3:23,,,Johnson REBOUND (Off:0 Def:7),,
+0020900127,444,1,5,4,10:23 PM,3:04,,,Smith 3' Layup (14 PTS) (Johnson 3 AST),91 - 80,-11
+0020900127,445,6,1,4,10:24 PM,2:48,,,Bibby P.FOUL (P3.T4),,
+0020900127,446,9,4,4,10:24 PM,2:48,,,,,
+0020900127,448,1,84,4,10:26 PM,2:44,Pierce 11' Running Bank Shot (22 PTS) (Garnett 2 AST),,,91 - 82,-9
+0020900127,449,6,2,4,10:26 PM,2:44,,,Horford S.FOUL (P4.PN),,
+0020900127,450,3,10,4,10:27 PM,2:44,Pierce Free Throw 1 of 1 (23 PTS),,,91 - 83,-8
+0020900127,452,2,1,4,10:27 PM,2:20,,,MISS Crawford 25' 3PT Jump Shot,,
+0020900127,453,4,0,4,10:27 PM,2:20,Garnett REBOUND (Off:1 Def:4),,,,
+0020900127,454,6,2,4,10:27 PM,2:13,,,Johnson S.FOUL (P2.PN),,
+0020900127,455,3,11,4,10:28 PM,2:13,Pierce Free Throw 1 of 2 (24 PTS),,,91 - 84,-7
+0020900127,457,3,12,4,10:28 PM,2:13,MISS Pierce Free Throw 2 of 2,,,,
+0020900127,459,4,0,4,10:28 PM,2:12,,,Hawks Rebound,,
+0020900127,460,2,1,4,10:29 PM,1:48,,,MISS Johnson 19' Jump Shot,,
+0020900127,461,4,0,4,10:29 PM,1:47,Allen REBOUND (Off:0 Def:3),,,,
+0020900127,462,2,1,4,10:29 PM,1:35,MISS Wallace  3PT Jump Shot,,,,
+0020900127,463,4,0,4,10:29 PM,1:35,,,Smith REBOUND (Off:4 Def:3),,
+0020900127,464,1,42,4,10:30 PM,1:16,,,Johnson 2' Driving Layup (23 PTS),93 - 84,-9
+0020900127,465,6,2,4,10:30 PM,1:16,Pierce S.FOUL (P1.PN),,,,
+0020900127,466,3,10,4,10:30 PM,1:16,,,Johnson Free Throw 1 of 1 (24 PTS),94 - 84,-10
+0020900127,469,9,1,4,10:30 PM,1:16,CELTICS Timeout: Regular (Full 5 Short 1),,,,
+0020900127,470,8,0,4,10:32 PM,1:16,SUB: House FOR Rondo,,,,
+0020900127,471,1,44,4,10:32 PM,1:12,Allen 1' Reverse Layup (10 PTS),,,94 - 86,-8
+0020900127,472,2,5,4,10:33 PM,0:50,,,MISS Smith 2' Layup,,
+0020900127,473,4,0,4,10:33 PM,0:50,Wallace REBOUND (Off:1 Def:2),,,,
+0020900127,474,2,1,4,10:33 PM,0:42,MISS Pierce 30' 3PT Jump Shot,,,,
+0020900127,475,4,0,4,10:33 PM,0:42,,,Crawford REBOUND (Off:0 Def:1),,
+0020900127,476,6,1,4,10:33 PM,0:38,House P.FOUL (P1.PN),,,,
+0020900127,477,8,0,4,10:33 PM,0:38,SUB: Giddens FOR Pierce,,,,
+0020900127,478,8,0,4,10:33 PM,0:38,SUB: Hudson FOR Garnett,,,,
+0020900127,479,8,0,4,10:33 PM,0:38,SUB: Shel. Williams FOR Allen,,,,
+0020900127,480,8,0,4,10:33 PM,0:38,SUB: Scalabrine FOR Wallace,,,,
+0020900127,481,3,11,4,10:33 PM,0:38,,,MISS Crawford Free Throw 1 of 2,,
+0020900127,482,4,1,4,10:33 PM,0:38,,,Hawks Rebound,,
+0020900127,483,3,12,4,10:34 PM,0:38,,,Crawford Free Throw 2 of 2 (18 PTS),95 - 86,-9
+0020900127,485,2,1,4,10:34 PM,0:29,MISS Hudson 25' 3PT Jump Shot,,,,
+0020900127,486,4,0,4,10:34 PM,0:28,,,Horford REBOUND (Off:3 Def:9),,
+0020900127,488,2,5,4,10:34 PM,0:07,,,MISS Bibby 1' Layup,,
+0020900127,489,4,0,4,10:34 PM,0:06,,,Horford REBOUND (Off:4 Def:9),,
+0020900127,490,1,72,4,10:34 PM,0:06,,,Horford  Putback Layup (12 PTS),97 - 86,-11
+0020900127,492,13,0,4,10:35 PM,0:00,,,,97 - 86,-11

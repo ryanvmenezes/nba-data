@@ -1,0 +1,475 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020300088,0,12,0,1,6:19 PM,12:00,,,,,
+0020300088,1,10,0,1,6:20 PM,12:00,Jump Ball Wallace vs. Collins: Tip to Jefferson,,,,
+0020300088,2,2,3,1,6:20 PM,11:42,,,MISS Williams 9' Hook Shot,,
+0020300088,3,4,0,1,6:21 PM,11:39,Hamilton REBOUND (Off:0 Def:1),,,,
+0020300088,4,2,1,1,6:21 PM,11:28,MISS Billups 11' Jump Shot,,,,
+0020300088,5,4,0,1,6:21 PM,11:26,,,Jefferson REBOUND (Off:0 Def:1),,
+0020300088,6,2,1,1,6:21 PM,11:17,,,MISS Collins 18' Jump Shot,,
+0020300088,7,4,0,1,6:21 PM,11:14,Prince REBOUND (Off:0 Def:1),,,,
+0020300088,8,1,47,1,6:21 PM,11:09,Campbell 5' Turnaround Jump Shot (2 PTS) (Prince 1 AST),,,0 - 2,2
+0020300088,9,2,5,1,6:21 PM,10:45,Campbell BLOCK (1 BLK),,MISS Collins  Layup,,
+0020300088,10,4,0,1,6:21 PM,10:45,,,Nets Rebound,,
+0020300088,11,1,1,1,6:22 PM,10:42,,,Kidd 16' Jump Shot (2 PTS) (Jefferson 1 AST),2 - 2,TIE
+0020300088,12,6,2,1,6:22 PM,10:23,,,Collins S.FOUL (P1.T1),,
+0020300088,13,3,11,1,6:22 PM,10:23,Wallace Free Throw 1 of 2 (1 PTS),,,2 - 3,1
+0020300088,14,3,12,1,6:22 PM,10:23,Wallace Free Throw 2 of 2 (2 PTS),,,2 - 4,2
+0020300088,15,1,1,1,6:23 PM,10:09,,,Kidd 18' Jump Shot (4 PTS) (Williams 1 AST),4 - 4,TIE
+0020300088,16,2,1,1,6:23 PM,9:53,MISS Wallace 16' Jump Shot,,,,
+0020300088,17,4,0,1,6:23 PM,9:51,,,Jefferson REBOUND (Off:0 Def:2),,
+0020300088,18,1,7,1,6:23 PM,9:47,,,Collins  Dunk (2 PTS) (Jefferson 2 AST),6 - 4,-2
+0020300088,19,6,2,1,6:24 PM,9:27,,,Williams S.FOUL (P1.T2),,
+0020300088,20,3,11,1,6:24 PM,9:27,Campbell Free Throw 1 of 2 (3 PTS),,,6 - 5,-1
+0020300088,21,3,12,1,6:24 PM,9:27,Campbell Free Throw 2 of 2 (4 PTS),,,6 - 6,TIE
+0020300088,22,2,5,1,6:24 PM,9:11,,,MISS Jefferson  Layup,,
+0020300088,23,4,0,1,6:24 PM,9:10,,,Kittles REBOUND (Off:1 Def:0),,
+0020300088,24,5,1,1,6:25 PM,9:04,Billups STEAL (1 STL),,Jefferson Bad Pass Turnover (P1.T1),,
+0020300088,25,2,1,1,6:25 PM,8:59,MISS Billups 16' Jump Shot,,,,
+0020300088,26,4,0,1,6:25 PM,8:56,,,Williams REBOUND (Off:0 Def:1),,
+0020300088,27,1,1,1,6:25 PM,8:46,,,Kittles 26' 3PT Jump Shot (3 PTS) (Collins 1 AST),9 - 6,-3
+0020300088,28,1,47,1,6:25 PM,8:23,Hamilton 12' Turnaround Jump Shot (2 PTS) (Prince 2 AST),,,9 - 8,-1
+0020300088,29,1,5,1,6:26 PM,7:59,,,Williams  Layup (2 PTS) (Kittles 1 AST),11 - 8,-3
+0020300088,30,2,5,1,6:26 PM,7:37,MISS Wallace  Layup,,,,
+0020300088,31,4,0,1,6:26 PM,7:35,PISTONS Rebound,,,,
+0020300088,32,9,1,1,6:26 PM,7:35,PISTONS Timeout: Regular (Full 1 Short 0),,,,
+0020300088,34,5,40,1,6:29 PM,7:27,Wallace Out of Bounds Lost Ball Turnover (P1.T1),,,,
+0020300088,35,1,1,1,6:30 PM,7:05,,,Jefferson 17' Jump Shot (2 PTS) (Williams 2 AST),13 - 8,-5
+0020300088,36,2,1,1,6:30 PM,6:50,MISS Billups 20' Jump Shot,,,,
+0020300088,37,4,0,1,6:30 PM,6:48,Wallace REBOUND (Off:1 Def:0),,,,
+0020300088,38,1,1,1,6:30 PM,6:44,Billups 27' 3PT Jump Shot (3 PTS) (Hamilton 1 AST),,,13 - 11,-2
+0020300088,39,5,1,1,6:30 PM,6:25,Wallace STEAL (1 STL),,Kittles Bad Pass Turnover (P1.T2),,
+0020300088,40,2,1,1,6:30 PM,6:13,MISS Campbell 14' Jump Shot,,,,
+0020300088,41,4,0,1,6:30 PM,6:12,,,Jefferson REBOUND (Off:0 Def:3),,
+0020300088,42,6,1,1,6:31 PM,5:58,Campbell P.FOUL (P1.T1),,,,
+0020300088,43,1,1,1,6:31 PM,5:51,,,Williams 17' Jump Shot (4 PTS) (Jefferson 3 AST),15 - 11,-4
+0020300088,44,5,41,1,6:31 PM,5:33,Campbell Poss Lost Ball Turnover (P1.T2),,,,
+0020300088,45,2,1,1,6:32 PM,5:17,,,MISS Jefferson 19' Jump Shot,,
+0020300088,46,4,0,1,6:32 PM,5:14,,,Williams REBOUND (Off:1 Def:1),,
+0020300088,47,1,3,1,6:32 PM,5:14,,,Williams 6' Hook Shot (6 PTS),17 - 11,-6
+0020300088,48,6,2,1,6:32 PM,5:14,Campbell S.FOUL (P2.T2),,,,
+0020300088,49,8,0,1,6:32 PM,5:14,SUB: Okur FOR Campbell,,,,
+0020300088,50,3,10,1,6:32 PM,5:14,,,Williams Free Throw 1 of 1 (7 PTS),18 - 11,-7
+0020300088,51,2,1,1,6:33 PM,4:59,MISS Billups 25' 3PT Jump Shot,,,,
+0020300088,52,4,0,1,6:33 PM,4:57,,,Nets Rebound,,
+0020300088,53,2,1,1,6:33 PM,4:41,,,MISS Kidd 19' Jump Shot,,
+0020300088,54,4,0,1,6:33 PM,4:39,Wallace REBOUND (Off:1 Def:1),,,,
+0020300088,55,5,1,1,6:33 PM,4:31,Billups Bad Pass Turnover (P1.T3),,,,
+0020300088,56,1,5,1,6:34 PM,4:19,,,Jefferson  Layup (4 PTS) (Kidd 1 AST),20 - 11,-9
+0020300088,57,9,2,1,6:34 PM,4:16,PISTONS Timeout: Short (Full 1 Short 1),,,,
+0020300088,58,6,1,1,6:35 PM,3:59,,,Williams P.FOUL (P2.T3),,
+0020300088,59,8,0,1,6:35 PM,3:59,,,SUB: Mourning FOR Williams,,
+0020300088,60,2,1,1,6:35 PM,3:52,MISS Billups 11' Jump Shot,,Kidd BLOCK (1 BLK),,
+0020300088,61,4,0,1,6:35 PM,3:49,,,Kidd REBOUND (Off:0 Def:1),,
+0020300088,62,2,1,1,6:35 PM,3:44,,,MISS Jefferson 10' Jump Shot,,
+0020300088,63,4,0,1,6:35 PM,3:41,Wallace REBOUND (Off:1 Def:2),,,,
+0020300088,64,2,1,1,6:36 PM,3:40,MISS Hamilton 11' Jump Shot,,,,
+0020300088,65,4,0,1,6:36 PM,3:37,,,Jefferson REBOUND (Off:0 Def:4),,
+0020300088,66,2,1,1,6:36 PM,3:24,,,MISS Collins 13' Jump Shot,,
+0020300088,67,4,0,1,6:36 PM,3:21,,,Mourning REBOUND (Off:1 Def:0),,
+0020300088,68,1,5,1,6:36 PM,3:18,,,Mourning  Layup (2 PTS),22 - 11,-11
+0020300088,69,5,1,1,6:36 PM,2:57,Hamilton Bad Pass Turnover (P1.T4),,Kidd STEAL (1 STL),,
+0020300088,70,6,2,1,6:36 PM,2:49,Wallace S.FOUL (P1.T3),,,,
+0020300088,71,9,1,1,6:37 PM,2:49,,,Nets Timeout: Regular (Reg.1 Short 0),,
+0020300088,73,3,11,1,6:39 PM,2:49,,,Kidd Free Throw 1 of 2 (5 PTS),23 - 11,-12
+0020300088,74,3,12,1,6:39 PM,2:49,,,Kidd Free Throw 2 of 2 (6 PTS),24 - 11,-13
+0020300088,75,2,44,1,6:40 PM,2:40,MISS Billups  Reverse Layup,,,,
+0020300088,76,4,0,1,6:40 PM,2:36,,,Collins REBOUND (Off:0 Def:1),,
+0020300088,77,2,1,1,6:40 PM,2:32,,,MISS Kidd 16' Jump Shot,,
+0020300088,78,4,0,1,6:40 PM,2:30,Wallace REBOUND (Off:1 Def:3),,,,
+0020300088,79,2,1,1,6:40 PM,2:12,MISS Hamilton 17' Jump Shot,,,,
+0020300088,80,4,0,1,6:40 PM,2:10,,,Kittles REBOUND (Off:1 Def:1),,
+0020300088,81,6,4,1,6:41 PM,1:52,,,Collins OFF.Foul (P2),,
+0020300088,82,5,5,1,6:41 PM,1:52,,,Collins Foul Turnover (P1.T3),,
+0020300088,83,8,0,1,6:41 PM,1:52,,,SUB: Armstrong FOR Kittles,,
+0020300088,84,8,0,1,6:42 PM,1:52,SUB: Williamson FOR Prince,,,,
+0020300088,87,8,0,1,6:42 PM,1:52,,,SUB: Slay FOR Collins,,
+0020300088,96,6,2,1,6:42 PM,1:32,,,Slay S.FOUL (P1.T4),,
+0020300088,101,3,11,1,6:42 PM,1:32,Hamilton Free Throw 1 of 2 (3 PTS),,,24 - 12,-12
+0020300088,104,3,12,1,6:42 PM,1:32,Hamilton Free Throw 2 of 2 (4 PTS),,,24 - 13,-11
+0020300088,85,2,3,1,6:43 PM,1:15,,,MISS Mourning 10' Hook Shot,,
+0020300088,86,4,0,1,6:43 PM,1:10,Wallace REBOUND (Off:1 Def:4),,,,
+0020300088,88,1,47,1,6:43 PM,1:06,Hamilton 15' Turnaround Jump Shot (6 PTS),,,24 - 15,-9
+0020300088,89,5,2,1,6:43 PM,0:48,Williamson STEAL (1 STL),,Armstrong Lost Ball Turnover (P1.T4),,
+0020300088,90,1,5,1,6:43 PM,0:44,Hamilton  Layup (8 PTS) (Billups 1 AST),,,24 - 17,-7
+0020300088,91,1,1,1,6:44 PM,0:28,,,Armstrong 18' Jump Shot (2 PTS) (Kidd 2 AST),26 - 17,-9
+0020300088,92,2,1,1,6:44 PM,0:09,MISS Hamilton 19' Jump Shot,,,,
+0020300088,93,4,0,1,6:44 PM,0:08,Wallace REBOUND (Off:2 Def:4),,,,
+0020300088,94,1,5,1,6:44 PM,0:06,Williamson  Layup (2 PTS) (Wallace 1 AST),,,26 - 19,-7
+0020300088,95,6,2,1,6:44 PM,0:06,,,Slay S.FOUL (P2.PN),,
+0020300088,97,8,0,1,6:44 PM,0:06,SUB: Sura FOR Hamilton,,,,
+0020300088,98,8,0,1,6:44 PM,0:06,SUB: Hunter FOR Billups,,,,
+0020300088,99,3,10,1,6:44 PM,0:06,Williamson Free Throw 1 of 1 (3 PTS),,,26 - 20,-6
+0020300088,100,2,1,1,6:45 PM,0:00,,,MISS Kidd  3PT Jump Shot,,
+0020300088,102,4,0,1,6:45 PM,0:00,Wallace REBOUND (Off:2 Def:5),,,,
+0020300088,103,13,0,1,6:45 PM,0:00,,,,26 - 20,-6
+0020300088,106,12,0,2,6:47 PM,12:00,,,,26 - 20,-6
+0020300088,107,1,47,2,6:47 PM,11:48,Williamson 13' Turnaround Jump Shot (5 PTS) (Okur 1 AST),,,26 - 22,-4
+0020300088,108,6,4,2,6:48 PM,11:28,,,Jefferson OFF.Foul (P1),,
+0020300088,109,5,5,2,6:48 PM,11:28,,,Jefferson Foul Turnover (P2.T5),,
+0020300088,110,6,2,2,6:48 PM,11:18,,,Jefferson S.FOUL (P2.T1),,
+0020300088,111,3,11,2,6:48 PM,11:18,Williamson Free Throw 1 of 2 (6 PTS),,,26 - 23,-3
+0020300088,112,3,12,2,6:49 PM,11:18,Williamson Free Throw 2 of 2 (7 PTS),,,26 - 24,-2
+0020300088,113,1,3,2,6:49 PM,11:00,,,Mourning 7' Hook Shot (4 PTS) (Slay 1 AST),28 - 24,-4
+0020300088,114,6,1,2,6:50 PM,10:49,,,Slay P.FOUL (P3.T2),,
+0020300088,115,8,0,2,6:50 PM,10:49,,,SUB: Planinic FOR Kidd,,
+0020300088,116,1,7,2,6:50 PM,10:41,Wallace  Dunk (4 PTS) (Sura 1 AST),,,28 - 26,-2
+0020300088,117,5,1,2,6:50 PM,10:28,Wallace STEAL (2 STL),,Slay Bad Pass Turnover (P1.T6),,
+0020300088,118,6,1,2,6:50 PM,10:27,,,Planinic P.FOUL (P1.T3),,
+0020300088,119,6,2,2,6:51 PM,10:14,,,Slay S.FOUL (P4.T4),,
+0020300088,120,8,0,2,6:51 PM,10:14,,,SUB: Collins FOR Slay,,
+0020300088,121,3,11,2,6:51 PM,10:14,Okur Free Throw 1 of 2 (1 PTS),,,28 - 27,-1
+0020300088,122,8,0,2,6:52 PM,10:14,SUB: Rebraca FOR Wallace,,,,
+0020300088,123,3,12,2,6:52 PM,10:14,Okur Free Throw 2 of 2 (2 PTS),,,28 - 28,TIE
+0020300088,124,6,1,2,6:52 PM,10:02,Hunter P.FOUL (P1.T1),,,,
+0020300088,125,8,0,2,6:52 PM,10:02,,,SUB: Kittles FOR Armstrong,,
+0020300088,126,5,4,2,6:53 PM,9:54,,,Planinic Traveling Turnover (P1.T7),,
+0020300088,127,2,1,2,6:53 PM,9:38,MISS Hunter 17' Jump Shot,,,,
+0020300088,128,4,0,2,6:53 PM,9:36,Rebraca REBOUND (Off:1 Def:0),,,,
+0020300088,129,2,5,2,6:53 PM,9:22,MISS Okur  Layup,,Collins BLOCK (1 BLK),,
+0020300088,130,4,0,2,6:53 PM,9:20,,,Jefferson REBOUND (Off:0 Def:5),,
+0020300088,131,6,4,2,6:54 PM,9:12,,,Mourning OFF.Foul (P1),,
+0020300088,132,5,5,2,6:54 PM,9:12,,,Mourning Foul Turnover (P1.T8),,
+0020300088,133,8,0,2,6:54 PM,9:12,,,SUB: Kidd FOR Planinic,,
+0020300088,134,1,5,2,6:54 PM,8:49,Rebraca  Layup (2 PTS),,,28 - 30,2
+0020300088,135,9,4,2,6:55 PM,8:39,,,,,
+0020300088,136,1,1,2,6:58 PM,8:20,,,Kittles 17' Jump Shot (5 PTS),30 - 30,TIE
+0020300088,137,6,10,2,6:58 PM,8:20,,,,,
+0020300088,138,1,1,2,6:58 PM,8:08,Williamson 17' Jump Shot (9 PTS) (Okur 2 AST),,,30 - 32,2
+0020300088,139,2,1,2,6:59 PM,7:45,,,MISS Kittles 18' Jump Shot,,
+0020300088,140,4,0,2,6:59 PM,7:44,,,Mourning REBOUND (Off:2 Def:0),,
+0020300088,141,6,1,2,6:59 PM,7:44,Williamson P.FOUL (P1.T2),,,,
+0020300088,142,8,0,2,6:59 PM,7:44,,,SUB: Williams FOR Mourning,,
+0020300088,143,1,3,2,6:59 PM,7:31,,,Kittles 7' Hook Shot (7 PTS) (Kidd 3 AST),32 - 32,TIE
+0020300088,144,2,46,2,7:00 PM,7:03,MISS Hunter 15' Running Jump Shot,,,,
+0020300088,145,4,0,2,7:00 PM,7:01,,,Collins REBOUND (Off:0 Def:2),,
+0020300088,146,6,1,2,7:00 PM,7:01,Rebraca P.FOUL (P2.T3),,,,
+0020300088,147,1,1,2,7:00 PM,6:52,,,Kittles 18' Jump Shot (9 PTS) (Collins 2 AST),34 - 32,-2
+0020300088,148,1,5,2,7:00 PM,6:37,Rebraca  Layup (4 PTS) (Sura 2 AST),,,34 - 34,TIE
+0020300088,149,1,1,2,7:01 PM,6:18,,,Kittles 16' Jump Shot (11 PTS),36 - 34,-2
+0020300088,150,1,1,2,7:01 PM,5:57,Sura 27' 3PT Jump Shot (3 PTS) (Hunter 1 AST),,,36 - 37,1
+0020300088,151,1,1,2,7:01 PM,5:41,,,Kidd  3PT Jump Shot (9 PTS) (Kittles 2 AST),39 - 37,-2
+0020300088,152,6,2,2,7:02 PM,5:28,,,Kidd S.FOUL (P1.PN),,
+0020300088,153,9,1,2,7:02 PM,5:28,PISTONS Timeout: Regular (Full 2 Short 1),,,,
+0020300088,155,8,0,2,7:04 PM,5:28,SUB: Billups FOR Hunter,,,,
+0020300088,156,8,0,2,7:04 PM,5:28,SUB: Hamilton FOR Sura,,,,
+0020300088,157,8,0,2,7:04 PM,5:28,SUB: Wallace FOR Okur,,,,
+0020300088,158,3,11,2,7:04 PM,5:28,Rebraca Free Throw 1 of 2 (5 PTS),,,39 - 38,-1
+0020300088,159,3,12,2,7:05 PM,5:28,MISS Rebraca Free Throw 2 of 2,,,,
+0020300088,160,4,0,2,7:05 PM,5:27,,,Williams REBOUND (Off:1 Def:2),,
+0020300088,161,6,2,2,7:05 PM,5:16,Williamson S.FOUL (P2.T4),,,,
+0020300088,162,8,0,2,7:05 PM,5:16,SUB: Okur FOR Rebraca,,,,
+0020300088,163,3,11,2,7:05 PM,5:16,,,Collins Free Throw 1 of 2 (3 PTS),40 - 38,-2
+0020300088,164,3,12,2,7:05 PM,5:16,,,Collins Free Throw 2 of 2 (4 PTS),41 - 38,-3
+0020300088,165,2,1,2,7:06 PM,5:01,MISS Hamilton 20' Jump Shot,,,,
+0020300088,166,4,0,2,7:06 PM,4:59,Okur REBOUND (Off:1 Def:0),,,,
+0020300088,167,1,5,2,7:06 PM,4:48,Williamson  Layup (11 PTS) (Okur 3 AST),,,41 - 40,-1
+0020300088,168,1,1,2,7:06 PM,4:26,,,Kittles 16' Jump Shot (13 PTS),43 - 40,-3
+0020300088,169,2,3,2,7:07 PM,4:07,MISS Okur 8' Hook Shot,,,,
+0020300088,170,4,0,2,7:07 PM,4:05,Okur REBOUND (Off:2 Def:0),,,,
+0020300088,171,6,11,2,7:07 PM,4:05,Okur T.FOUL (P0.T4),,,,
+0020300088,172,3,16,2,7:07 PM,4:05,,,Kidd Free Throw Technical (10 PTS),44 - 40,-4
+0020300088,173,8,0,2,7:07 PM,4:05,SUB: Prince FOR Williamson,,,,
+0020300088,174,1,1,2,7:08 PM,3:58,Billups 20' Jump Shot (5 PTS) (Prince 3 AST),,,44 - 42,-2
+0020300088,175,2,1,2,7:08 PM,3:39,,,MISS Jefferson 18' Jump Shot,,
+0020300088,176,4,0,2,7:08 PM,3:38,,,Nets Rebound,,
+0020300088,177,6,3,2,7:08 PM,3:38,Okur L.B.FOUL (P1.PN),,,,
+0020300088,178,3,11,2,7:09 PM,3:38,,,MISS Williams Free Throw 1 of 2,,
+0020300088,179,4,1,2,7:09 PM,3:38,,,Nets Rebound,,
+0020300088,180,3,12,2,7:09 PM,3:38,,,Williams Free Throw 2 of 2 (8 PTS),45 - 42,-3
+0020300088,181,1,47,2,7:09 PM,3:25,Okur 8' Turnaround Jump Shot (4 PTS),,,45 - 44,-1
+0020300088,182,6,2,2,7:09 PM,3:25,,,Williams S.FOUL (P3.PN),,
+0020300088,183,8,0,2,7:10 PM,3:25,,,SUB: Mourning FOR Williams,,
+0020300088,184,3,10,2,7:10 PM,3:25,MISS Okur Free Throw 1 of 1,,,,
+0020300088,185,4,0,2,7:10 PM,3:24,,,Mourning REBOUND (Off:2 Def:1),,
+0020300088,186,2,1,2,7:10 PM,3:02,,,MISS Kidd 25' 3PT Jump Shot,,
+0020300088,187,4,0,2,7:10 PM,3:00,Hamilton REBOUND (Off:0 Def:2),,,,
+0020300088,188,1,42,2,7:10 PM,2:54,Hamilton  Driving Layup (10 PTS),,,45 - 46,1
+0020300088,189,2,3,2,7:10 PM,2:43,,,MISS Mourning 5' Hook Shot,,
+0020300088,190,4,0,2,7:10 PM,2:42,PISTONS Rebound,,,,
+0020300088,191,9,1,2,7:11 PM,2:42,,,Nets Timeout: Regular (Reg.2 Short 0),,
+0020300088,193,6,4,2,7:13 PM,2:31,Prince OFF.Foul (P1),,,,
+0020300088,194,5,5,2,7:13 PM,2:31,Prince Foul Turnover (P1.T5),,,,
+0020300088,195,5,2,2,7:13 PM,2:20,Wallace STEAL (3 STL),,Collins Lost Ball Turnover (P2.T9),,
+0020300088,196,2,43,2,7:14 PM,2:15,MISS Prince  Alley Oop Layup,,,,
+0020300088,197,4,0,2,7:14 PM,2:12,Okur REBOUND (Off:3 Def:0),,,,
+0020300088,198,2,5,2,7:14 PM,2:12,MISS Okur  Layup,,Kittles BLOCK (1 BLK),,
+0020300088,199,4,0,2,7:14 PM,2:09,PISTONS Rebound,,,,
+0020300088,200,6,4,2,7:14 PM,2:02,Hamilton OFF.Foul (P1),,,,
+0020300088,201,5,5,2,7:14 PM,2:02,Hamilton Foul Turnover (P2.T6),,,,
+0020300088,202,2,1,2,7:15 PM,1:55,,,MISS Kittles  3PT Jump Shot,,
+0020300088,203,4,0,2,7:15 PM,1:53,Okur REBOUND (Off:3 Def:1),,,,
+0020300088,204,2,5,2,7:15 PM,1:42,MISS Prince  Layup,,Mourning BLOCK (1 BLK),,
+0020300088,205,4,0,2,7:15 PM,1:39,Hamilton REBOUND (Off:1 Def:2),,,,
+0020300088,206,5,21,2,7:15 PM,1:33,Hamilton Palming Turnover (P3.T7),,,,
+0020300088,207,7,1,2,7:15 PM,1:33,PISTONS Violation: Delay of game Violation,,,,
+0020300088,208,5,1,2,7:16 PM,1:20,,,Kittles Bad Pass Turnover (P2.T10),,
+0020300088,209,2,5,2,7:16 PM,1:02,MISS Wallace  Layup,,,,
+0020300088,210,4,0,2,7:16 PM,1:01,,,Collins REBOUND (Off:0 Def:3),,
+0020300088,211,1,7,2,7:16 PM,0:54,,,Kittles  Dunk (15 PTS) (Kidd 4 AST),47 - 46,-1
+0020300088,212,6,2,2,7:16 PM,0:44,,,Mourning S.FOUL (P3.PN),,
+0020300088,213,3,11,2,7:16 PM,0:44,Wallace Free Throw 1 of 2 (5 PTS),,,47 - 47,TIE
+0020300088,214,3,12,2,7:17 PM,0:44,Wallace Free Throw 2 of 2 (6 PTS),,,47 - 48,1
+0020300088,215,2,5,2,7:17 PM,0:33,,,MISS Jefferson  Layup,,
+0020300088,216,4,0,2,7:17 PM,0:33,PISTONS Rebound,,,,
+0020300088,217,8,0,2,7:17 PM,0:33,,,SUB: Planinic FOR Mourning,,
+0020300088,218,8,0,2,7:18 PM,0:33,SUB: Williamson FOR Okur,,,,
+0020300088,219,2,1,2,7:18 PM,0:29,MISS Billups 27' 3PT Jump Shot,,,,
+0020300088,220,4,0,2,7:18 PM,0:27,,,Nets Rebound,,
+0020300088,221,2,1,2,7:18 PM,0:04,,,MISS Planinic 19' Jump Shot,,
+0020300088,222,4,0,2,7:18 PM,0:02,Billups REBOUND (Off:0 Def:1),,,,
+0020300088,223,2,1,2,7:19 PM,0:00,MISS Hamilton 21' Jump Shot,,,,
+0020300088,224,4,0,2,7:19 PM,0:00,PISTONS Rebound,,,,
+0020300088,226,13,0,2,7:19 PM,0:00,,,,47 - 48,1
+0020300088,228,12,0,3,7:35 PM,12:00,,,,47 - 48,1
+0020300088,229,1,5,3,7:35 PM,12:00,Campbell  Layup (6 PTS) (Billups 2 AST),,,47 - 50,3
+0020300088,230,1,7,3,7:36 PM,11:46,,,Jefferson  Dunk (6 PTS) (Collins 3 AST),49 - 50,1
+0020300088,231,1,1,3,7:36 PM,11:31,Campbell 17' Jump Shot (8 PTS) (Billups 3 AST),,,49 - 52,3
+0020300088,232,1,42,3,7:36 PM,11:14,,,Jefferson  Driving Layup (8 PTS),51 - 52,1
+0020300088,233,6,2,3,7:36 PM,11:14,Prince S.FOUL (P2.T1),,,,
+0020300088,234,3,10,3,7:36 PM,11:14,,,Jefferson Free Throw 1 of 1 (9 PTS),52 - 52,TIE
+0020300088,235,2,5,3,7:37 PM,11:14,MISS Prince  Layup,,,,
+0020300088,236,4,0,3,7:37 PM,11:13,,,Collins REBOUND (Off:0 Def:4),,
+0020300088,237,1,1,3,7:37 PM,11:03,,,Collins 14' Jump Shot (6 PTS) (Kittles 3 AST),54 - 52,-2
+0020300088,239,5,41,3,7:37 PM,11:00,Campbell Poss Lost Ball Turnover (P2.T8),,Williams STEAL (1 STL),,
+0020300088,248,5,41,3,7:37 PM,10:49,Hamilton STEAL (1 STL),,Williams Poss Lost Ball Turnover (P1.T11),,
+0020300088,238,6,2,3,7:38 PM,10:26,,,Kidd S.FOUL (P2.T1),,
+0020300088,240,8,0,3,7:38 PM,10:26,SUB: Okur FOR Wallace,,,,
+0020300088,241,3,11,3,7:38 PM,10:26,MISS Campbell Free Throw 1 of 2,,,,
+0020300088,242,4,1,3,7:38 PM,10:26,PISTONS Rebound,,,,
+0020300088,243,3,12,3,7:38 PM,10:26,MISS Campbell Free Throw 2 of 2,,,,
+0020300088,244,4,0,3,7:38 PM,10:26,,,Williams REBOUND (Off:1 Def:3),,
+0020300088,245,5,1,3,7:38 PM,9:53,,,Kidd Bad Pass Turnover (P1.T12),,
+0020300088,246,6,2,3,7:39 PM,9:35,,,Collins S.FOUL (P3.T2),,
+0020300088,247,3,11,3,7:39 PM,9:35,Billups Free Throw 1 of 2 (6 PTS),,,54 - 53,-1
+0020300088,249,3,12,3,7:39 PM,9:35,Billups Free Throw 2 of 2 (7 PTS),,,54 - 54,TIE
+0020300088,250,2,5,3,7:40 PM,9:25,,,MISS Collins  Layup,,
+0020300088,251,4,0,3,7:40 PM,9:24,Hamilton REBOUND (Off:1 Def:3),,,,
+0020300088,252,1,1,3,7:40 PM,9:11,Okur 10' Jump Shot (6 PTS),,,54 - 56,2
+0020300088,253,1,1,3,7:40 PM,8:48,,,Kidd 18' Jump Shot (12 PTS),56 - 56,TIE
+0020300088,254,2,5,3,7:41 PM,8:27,MISS Campbell  Layup,,,,
+0020300088,255,4,0,3,7:41 PM,8:25,,,Williams REBOUND (Off:1 Def:4),,
+0020300088,256,2,5,3,7:41 PM,8:21,,,MISS Kittles  Layup,,
+0020300088,257,4,0,3,7:41 PM,8:20,Prince REBOUND (Off:0 Def:2),,,,
+0020300088,258,1,42,3,7:41 PM,8:13,Hamilton  Driving Layup (12 PTS) (Prince 4 AST),,,56 - 58,2
+0020300088,259,1,1,3,7:41 PM,7:55,,,Williams 18' Jump Shot (10 PTS) (Kidd 5 AST),58 - 58,TIE
+0020300088,260,1,5,3,7:42 PM,7:35,Campbell  Layup (10 PTS) (Billups 4 AST),,,58 - 60,2
+0020300088,261,6,2,3,7:42 PM,7:35,,,Williams S.FOUL (P4.T3),,
+0020300088,263,8,0,3,7:42 PM,7:35,,,SUB: Mourning FOR Williams,,
+0020300088,264,3,10,3,7:42 PM,7:35,Campbell Free Throw 1 of 1 (11 PTS),,,58 - 61,3
+0020300088,265,6,1,3,7:43 PM,7:19,Prince P.FOUL (P3.T2),,,,
+0020300088,266,2,1,3,7:43 PM,7:11,,,MISS Jefferson 16' Jump Shot,,
+0020300088,267,4,0,3,7:43 PM,7:09,,,Collins REBOUND (Off:1 Def:4),,
+0020300088,268,2,1,3,7:43 PM,7:07,,,MISS Kittles 19' Jump Shot,,
+0020300088,269,4,0,3,7:43 PM,7:05,,,Mourning REBOUND (Off:3 Def:1),,
+0020300088,270,2,5,3,7:43 PM,7:02,Okur BLOCK (1 BLK),,MISS Mourning  Layup,,
+0020300088,271,4,0,3,7:43 PM,7:01,,,Kittles REBOUND (Off:2 Def:1),,
+0020300088,272,6,1,3,7:43 PM,6:59,Okur P.FOUL (P2.T3),,,,
+0020300088,273,8,0,3,7:43 PM,6:59,SUB: Williamson FOR Prince,,,,
+0020300088,274,1,5,3,7:44 PM,6:46,,,Mourning  Layup (6 PTS) (Jefferson 4 AST),60 - 61,1
+0020300088,275,2,3,3,7:44 PM,6:31,MISS Campbell 7' Hook Shot,,,,
+0020300088,276,4,0,3,7:44 PM,6:28,,,Collins REBOUND (Off:1 Def:5),,
+0020300088,277,6,2,3,7:44 PM,6:26,Billups S.FOUL (P1.T4),,,,
+0020300088,278,8,0,3,7:45 PM,6:26,SUB: Wallace FOR Campbell,,,,
+0020300088,279,3,11,3,7:45 PM,6:26,,,Kidd Free Throw 1 of 2 (13 PTS),61 - 61,TIE
+0020300088,280,3,12,3,7:45 PM,6:26,,,Kidd Free Throw 2 of 2 (14 PTS),62 - 61,-1
+0020300088,281,1,1,3,7:45 PM,6:15,Hamilton 13' Jump Shot (14 PTS),,,62 - 63,1
+0020300088,282,2,5,3,7:46 PM,5:56,Wallace BLOCK (1 BLK),,MISS Jefferson  Layup,,
+0020300088,283,4,0,3,7:46 PM,5:53,Okur REBOUND (Off:3 Def:2),,,,
+0020300088,284,6,2,3,7:46 PM,5:40,,,Mourning S.FOUL (P4.T4),,
+0020300088,285,9,1,3,7:46 PM,5:40,PISTONS Timeout: Regular (Full 3 Short 1),,,,
+0020300088,286,3,11,3,7:49 PM,5:40,Okur Free Throw 1 of 2 (7 PTS),,,62 - 64,2
+0020300088,287,3,12,3,7:49 PM,5:40,Okur Free Throw 2 of 2 (8 PTS),,,62 - 65,3
+0020300088,288,5,1,3,7:49 PM,5:20,,,Kittles Bad Pass Turnover (P3.T13),,
+0020300088,289,2,1,3,7:50 PM,5:01,MISS Wallace 8' Jump Shot,,,,
+0020300088,290,4,0,3,7:50 PM,4:59,Hamilton REBOUND (Off:2 Def:3),,,,
+0020300088,291,2,1,3,7:50 PM,4:55,MISS Hamilton 27' 3PT Jump Shot,,,,
+0020300088,292,4,0,3,7:50 PM,4:53,,,Mourning REBOUND (Off:3 Def:2),,
+0020300088,293,2,5,3,7:50 PM,4:40,,,MISS Jefferson  Layup,,
+0020300088,294,4,0,3,7:50 PM,4:39,PISTONS Rebound,,,,
+0020300088,295,5,1,3,7:50 PM,4:26,Okur Bad Pass Turnover (P1.T9),,Collins STEAL (1 STL),,
+0020300088,296,1,3,3,7:51 PM,4:17,,,Mourning 7' Hook Shot (8 PTS) (Kidd 6 AST),64 - 65,1
+0020300088,297,2,47,3,7:51 PM,3:54,MISS Wallace 8' Turnaround Jump Shot,,,,
+0020300088,298,4,0,3,7:51 PM,3:53,,,Nets Rebound,,
+0020300088,299,6,3,3,7:51 PM,3:53,Okur L.B.FOUL (P3.PN),,,,
+0020300088,300,3,11,3,7:51 PM,3:53,,,Collins Free Throw 1 of 2 (7 PTS),65 - 65,TIE
+0020300088,301,3,12,3,7:52 PM,3:53,,,MISS Collins Free Throw 2 of 2,,
+0020300088,302,4,0,3,7:52 PM,3:52,Wallace REBOUND (Off:2 Def:6),,,,
+0020300088,303,2,1,3,7:52 PM,3:39,MISS Williamson 18' Jump Shot,,,,
+0020300088,304,4,0,3,7:52 PM,3:37,Wallace REBOUND (Off:3 Def:6),,,,
+0020300088,305,1,5,3,7:52 PM,3:34,Williamson  Layup (13 PTS) (Billups 5 AST),,,65 - 67,2
+0020300088,306,6,2,3,7:53 PM,3:17,Williamson S.FOUL (P3.PN),,,,
+0020300088,307,3,11,3,7:53 PM,3:17,,,Mourning Free Throw 1 of 2 (9 PTS),66 - 67,1
+0020300088,308,3,12,3,7:53 PM,3:17,,,MISS Mourning Free Throw 2 of 2,,
+0020300088,309,4,0,3,7:53 PM,3:16,Okur REBOUND (Off:3 Def:3),,,,
+0020300088,310,2,1,3,7:53 PM,3:04,MISS Hamilton 18' Jump Shot,,,,
+0020300088,311,4,0,3,7:54 PM,3:02,,,Collins REBOUND (Off:1 Def:6),,
+0020300088,312,1,1,3,7:54 PM,2:56,,,Kittles 18' Jump Shot (17 PTS) (Kidd 7 AST),68 - 67,-1
+0020300088,313,2,1,3,7:54 PM,2:33,MISS Billups 24' 3PT Jump Shot,,,,
+0020300088,314,4,0,3,7:54 PM,2:31,Williamson REBOUND (Off:1 Def:0),,,,
+0020300088,315,9,1,3,7:54 PM,2:30,,,Nets Timeout: Regular (Reg.3 Short 0),,
+0020300088,317,2,1,3,7:57 PM,2:28,MISS Billups 18' Jump Shot,,,,
+0020300088,318,4,0,3,7:57 PM,2:28,Wallace REBOUND (Off:4 Def:6),,,,
+0020300088,319,6,2,3,7:57 PM,2:28,,,Mourning S.FOUL (P5.PN),,
+0020300088,320,3,11,3,7:57 PM,2:28,MISS Wallace Free Throw 1 of 2,,,,
+0020300088,321,4,1,3,7:57 PM,2:28,PISTONS Rebound,,,,
+0020300088,322,8,0,3,7:57 PM,2:28,,,SUB: Williams FOR Mourning,,
+0020300088,323,3,12,3,7:57 PM,2:28,Wallace Free Throw 2 of 2 (7 PTS),,,68 - 68,TIE
+0020300088,324,6,4,3,7:58 PM,2:14,,,Williams OFF.Foul (P5),,
+0020300088,325,5,5,3,7:58 PM,2:14,,,Williams Foul Turnover (P2.T14),,
+0020300088,326,8,0,3,7:58 PM,2:14,,,SUB: Slay FOR Williams,,
+0020300088,327,8,0,3,7:58 PM,2:14,SUB: Prince FOR Okur,,,,
+0020300088,328,5,1,3,7:58 PM,2:03,Billups Bad Pass Turnover (P2.T10),,Slay STEAL (1 STL),,
+0020300088,329,2,5,3,7:59 PM,1:59,,,MISS Kittles  Layup,,
+0020300088,330,4,0,3,7:59 PM,1:57,Wallace REBOUND (Off:4 Def:7),,,,
+0020300088,331,1,5,3,7:59 PM,1:53,Hamilton  Layup (16 PTS) (Billups 6 AST),,,68 - 70,2
+0020300088,332,2,1,3,7:59 PM,1:27,,,MISS Slay 18' Jump Shot,,
+0020300088,333,4,0,3,7:59 PM,1:25,Hamilton REBOUND (Off:2 Def:4),,,,
+0020300088,334,2,3,3,7:59 PM,1:16,MISS Williamson 6' Hook Shot,,,,
+0020300088,335,4,0,3,7:59 PM,1:13,,,Jefferson REBOUND (Off:0 Def:6),,
+0020300088,336,5,1,3,7:59 PM,1:12,Wallace STEAL (4 STL),,Jefferson Bad Pass Turnover (P3.T15),,
+0020300088,337,6,1,3,8:00 PM,1:04,,,Jefferson P.FOUL (P3.PN),,
+0020300088,338,3,11,3,8:00 PM,1:04,Williamson Free Throw 1 of 2 (14 PTS),,,68 - 71,3
+0020300088,339,3,12,3,8:00 PM,1:04,MISS Williamson Free Throw 2 of 2,,,,
+0020300088,340,4,0,3,8:00 PM,1:02,,,Collins REBOUND (Off:1 Def:7),,
+0020300088,341,2,1,3,8:01 PM,0:46,,,MISS Slay 27' 3PT Jump Shot,,
+0020300088,342,4,0,3,8:01 PM,0:44,Billups REBOUND (Off:0 Def:2),,,,
+0020300088,343,6,1,3,8:01 PM,0:37,,,Kittles P.FOUL (P1.PN),,
+0020300088,344,3,11,3,8:01 PM,0:37,Billups Free Throw 1 of 2 (8 PTS),,,68 - 72,4
+0020300088,345,3,12,3,8:01 PM,0:37,Billups Free Throw 2 of 2 (9 PTS),,,68 - 73,5
+0020300088,346,5,1,3,8:02 PM,0:20,Billups STEAL (2 STL),,Slay Bad Pass Turnover (P2.T16),,
+0020300088,347,1,5,3,8:02 PM,0:13,Williamson  Layup (16 PTS) (Hamilton 2 AST),,,68 - 75,7
+0020300088,348,6,2,3,8:02 PM,0:02,Billups S.FOUL (P2.PN),,,,
+0020300088,349,3,11,3,8:03 PM,0:02,,,Kidd Free Throw 1 of 2 (15 PTS),69 - 75,6
+0020300088,350,3,12,3,8:03 PM,0:02,,,Kidd Free Throw 2 of 2 (16 PTS),70 - 75,5
+0020300088,351,5,1,3,8:03 PM,0:00,Wallace Bad Pass Turnover (P2.T11),,Kittles STEAL (1 STL),,
+0020300088,352,13,0,3,8:03 PM,0:00,,,,70 - 75,5
+0020300088,354,12,0,4,8:06 PM,12:00,,,,70 - 75,5
+0020300088,355,1,1,4,8:06 PM,11:39,,,Slay 21' Jump Shot (2 PTS) (Jefferson 5 AST),72 - 75,3
+0020300088,356,6,2,4,8:06 PM,11:19,,,Armstrong S.FOUL (P1.T1),,
+0020300088,357,3,11,4,8:07 PM,11:19,MISS Wallace Free Throw 1 of 2,,,,
+0020300088,358,4,1,4,8:07 PM,11:19,PISTONS Rebound,,,,
+0020300088,359,3,12,4,8:07 PM,11:19,Wallace Free Throw 2 of 2 (8 PTS),,,72 - 76,4
+0020300088,360,6,1,4,8:07 PM,11:12,Hunter P.FOUL (P2.T1),,,,
+0020300088,361,2,47,4,8:08 PM,10:57,,,MISS Slay 9' Turnaround Jump Shot,,
+0020300088,362,4,0,4,8:08 PM,10:54,Prince REBOUND (Off:0 Def:3),,,,
+0020300088,363,2,1,4,8:08 PM,10:42,MISS Prince 26' 3PT Jump Shot,,,,
+0020300088,364,10,0,4,8:08 PM,10:37,Jump Ball Prince vs. Kidd: Tip to Hunter,,,,
+0020300088,365,4,0,4,8:08 PM,10:37,PISTONS Rebound,,,,
+0020300088,366,2,5,4,8:09 PM,10:22,MISS Sura  Layup,,,,
+0020300088,367,4,0,4,8:09 PM,10:21,,,Jefferson REBOUND (Off:0 Def:7),,
+0020300088,368,6,1,4,8:09 PM,10:06,Wallace P.FOUL (P2.T2),,,,
+0020300088,369,9,1,4,8:09 PM,10:06,,,Nets Timeout: Regular (Reg.4 Short 0),,
+0020300088,371,3,11,4,8:12 PM,10:06,,,Kidd Free Throw 1 of 2 (17 PTS),73 - 76,3
+0020300088,372,8,0,4,8:12 PM,10:06,,,SUB: Kittles FOR Slay,,
+0020300088,373,3,12,4,8:12 PM,10:06,,,Kidd Free Throw 2 of 2 (18 PTS),74 - 76,2
+0020300088,374,1,47,4,8:13 PM,9:47,Wallace 7' Turnaround Jump Shot (10 PTS) (Hunter 2 AST),,,74 - 78,4
+0020300088,375,6,4,4,8:13 PM,9:31,,,Jefferson OFF.Foul (P4),,
+0020300088,376,5,5,4,8:13 PM,9:31,,,Jefferson Foul Turnover (P4.T17),,
+0020300088,377,1,1,4,8:13 PM,9:15,Williamson 10' Jump Shot (18 PTS),,,74 - 80,6
+0020300088,378,5,2,4,8:14 PM,9:07,Hunter STEAL (1 STL),,Armstrong Lost Ball Turnover (P2.T18),,
+0020300088,379,1,5,4,8:14 PM,9:00,Prince  Layup (2 PTS) (Sura 3 AST),,,74 - 82,8
+0020300088,380,9,2,4,8:14 PM,8:59,,,Nets Timeout: Short (Reg.4 Short 1),,
+0020300088,381,2,5,4,8:15 PM,8:50,,,MISS Kidd  Layup,,
+0020300088,382,4,0,4,8:15 PM,8:48,Williamson REBOUND (Off:1 Def:1),,,,
+0020300088,383,2,1,4,8:15 PM,8:42,MISS Prince 12' Jump Shot,,,,
+0020300088,384,4,0,4,8:15 PM,8:42,PISTONS Rebound,,,,
+0020300088,385,6,3,4,8:15 PM,8:42,,,Collins L.B.FOUL (P4.T2),,
+0020300088,387,2,1,4,8:16 PM,8:31,MISS Hunter 25' 3PT Jump Shot,,,,
+0020300088,388,4,0,4,8:16 PM,8:30,,,Collins REBOUND (Off:1 Def:8),,
+0020300088,389,6,1,4,8:16 PM,8:30,Sura P.FOUL (P1.T3),,,,
+0020300088,390,2,1,4,8:16 PM,8:13,,,MISS Kidd 16' Jump Shot,,
+0020300088,391,4,0,4,8:16 PM,8:12,,,Kidd REBOUND (Off:1 Def:1),,
+0020300088,392,1,1,4,8:16 PM,8:05,,,Jefferson 19' Jump Shot (11 PTS) (Kidd 8 AST),76 - 82,6
+0020300088,393,5,1,4,8:17 PM,7:35,Hunter Bad Pass Turnover (P1.T12),,Kittles STEAL (2 STL),,
+0020300088,395,7,2,4,8:17 PM,7:32,Wallace Violation:Defensive Goaltending,,,,
+0020300088,394,1,5,4,8:17 PM,7:32,,,Jefferson  Layup (13 PTS) (Kidd 9 AST),78 - 82,4
+0020300088,396,9,1,4,8:17 PM,7:32,PISTONS Timeout: Regular (Full 4 Short 1),,,,
+0020300088,399,8,0,4,8:20 PM,7:32,SUB: Billups FOR Hunter,,,,
+0020300088,400,8,0,4,8:20 PM,7:28,SUB: Hamilton FOR Sura,,,,
+0020300088,401,8,0,4,8:20 PM,7:28,,,SUB: Williams FOR Kittles,,
+0020300088,404,8,0,4,8:20 PM,7:28,SUB: Okur FOR Williamson,,,,
+0020300088,402,6,1,4,8:20 PM,7:19,,,Jefferson P.FOUL (P5.T3),,
+0020300088,403,2,1,4,8:20 PM,7:16,MISS Billups 27' 3PT Jump Shot,,Jefferson BLOCK (1 BLK),,
+0020300088,406,4,0,4,8:21 PM,7:03,,,Kidd REBOUND (Off:1 Def:2),,
+0020300088,405,2,46,4,8:21 PM,7:03,,,MISS Kidd 16' Running Jump Shot,,
+0020300088,407,4,0,4,8:21 PM,7:01,PISTONS Rebound,,,,
+0020300088,408,8,0,4,8:21 PM,7:01,,,SUB: Slay FOR Jefferson,,
+0020300088,409,5,2,4,8:21 PM,6:48,Hamilton Lost Ball Turnover (P4.T13),,Armstrong STEAL (1 STL),,
+0020300088,410,5,1,4,8:21 PM,6:41,Billups STEAL (3 STL),,Kidd Bad Pass Turnover (P2.T19),,
+0020300088,411,1,1,4,8:21 PM,6:35,Hamilton 24' 3PT Jump Shot (19 PTS) (Prince 5 AST),,,78 - 85,7
+0020300088,412,2,1,4,8:22 PM,6:13,,,MISS Armstrong 21' Jump Shot,,
+0020300088,413,4,0,4,8:22 PM,6:11,,,Slay REBOUND (Off:1 Def:0),,
+0020300088,414,2,1,4,8:22 PM,6:06,,,MISS Williams 15' Jump Shot,,
+0020300088,415,4,0,4,8:22 PM,6:04,,,Collins REBOUND (Off:2 Def:8),,
+0020300088,416,2,1,4,8:22 PM,5:59,,,MISS Armstrong 19' Jump Shot,,
+0020300088,417,4,0,4,8:22 PM,5:57,Okur REBOUND (Off:3 Def:4),,,,
+0020300088,418,8,0,4,8:22 PM,5:50,SUB: Williamson FOR Okur,,,,
+0020300088,419,6,1,4,8:23 PM,5:44,,,Armstrong P.FOUL (P2.T4),,
+0020300088,420,1,49,4,8:23 PM,5:37,Williamson  Driving Dunk (20 PTS),,,78 - 87,9
+0020300088,421,2,1,4,8:23 PM,5:17,,,MISS Slay 10' Jump Shot,,
+0020300088,422,4,0,4,8:23 PM,5:15,Prince REBOUND (Off:0 Def:4),,,,
+0020300088,423,1,47,4,8:23 PM,5:05,Hamilton 14' Turnaround Jump Shot (21 PTS),,,78 - 89,11
+0020300088,424,9,1,4,8:24 PM,5:02,,,Nets Timeout: Regular (Reg.5 Short 1),,
+0020300088,426,8,0,4,8:26 PM,5:02,,,SUB: Jefferson FOR Slay,,
+0020300088,427,8,0,4,8:26 PM,5:02,,,SUB: Kittles FOR Armstrong,,
+0020300088,428,2,46,4,8:26 PM,4:44,,,MISS Kittles 13' Running Jump Shot,,
+0020300088,429,4,0,4,8:26 PM,4:41,Prince REBOUND (Off:0 Def:5),,,,
+0020300088,430,2,1,4,8:26 PM,4:37,MISS Billups 20' Jump Shot,,,,
+0020300088,431,4,0,4,8:26 PM,4:36,,,Kittles REBOUND (Off:2 Def:2),,
+0020300088,432,6,2,4,8:27 PM,4:27,Wallace S.FOUL (P3.T4),,,,
+0020300088,433,3,11,4,8:27 PM,4:27,,,MISS Williams Free Throw 1 of 2,,
+0020300088,434,4,1,4,8:27 PM,4:27,,,Nets Rebound,,
+0020300088,435,3,12,4,8:27 PM,4:27,,,Williams Free Throw 2 of 2 (11 PTS),79 - 89,10
+0020300088,436,6,4,4,8:28 PM,4:11,Williamson OFF.Foul (P4),,,,
+0020300088,437,5,5,4,8:28 PM,4:11,Williamson Foul Turnover (P1.T14),,,,
+0020300088,438,2,1,4,8:28 PM,3:55,,,MISS Collins 17' Jump Shot,,
+0020300088,439,4,0,4,8:28 PM,3:53,Williamson REBOUND (Off:1 Def:2),,,,
+0020300088,440,2,1,4,8:28 PM,3:38,MISS Williamson 16' Jump Shot,,,,
+0020300088,441,4,0,4,8:29 PM,3:37,,,Williams REBOUND (Off:1 Def:5),,
+0020300088,442,5,1,4,8:29 PM,3:33,Hamilton STEAL (2 STL),,Kidd Bad Pass Turnover (P3.T20),,
+0020300088,443,1,7,4,8:29 PM,3:27,Wallace  Dunk (12 PTS) (Williamson 1 AST),,,79 - 91,12
+0020300088,444,1,5,4,8:29 PM,3:04,,,Collins  Layup (9 PTS) (Kidd 10 AST),81 - 91,10
+0020300088,445,6,2,4,8:29 PM,3:04,Williamson S.FOUL (P5.PN),,,,
+0020300088,449,5,17,4,8:30 PM,3:04,,,Collins Lane Violation Turnover (P3.T21),,
+0020300088,496,3,10,4,8:30 PM,3:04,,,MISS Collins Free Throw 1 of 1,,
+0020300088,497,4,0,4,8:30 PM,3:04,PISTONS Rebound,,,,
+0020300088,453,2,45,4,8:30 PM,2:37,MISS Prince 16' Jump Shot,,,,
+0020300088,450,4,0,4,8:30 PM,2:35,Williamson REBOUND (Off:2 Def:2),,,,
+0020300088,451,1,1,4,8:30 PM,2:31,Hamilton 21' Jump Shot (23 PTS) (Billups 7 AST),,,81 - 93,12
+0020300088,452,1,7,4,8:31 PM,2:11,,,Collins  Dunk (11 PTS) (Kidd 11 AST),83 - 93,10
+0020300088,454,6,1,4,8:31 PM,1:56,,,Kidd P.FOUL (P3.PN),,
+0020300088,455,3,11,4,8:31 PM,1:56,Hamilton Free Throw 1 of 2 (24 PTS),,,83 - 94,11
+0020300088,456,3,12,4,8:32 PM,1:56,MISS Hamilton Free Throw 2 of 2,,,,
+0020300088,457,4,0,4,8:32 PM,1:55,,,Williams REBOUND (Off:1 Def:6),,
+0020300088,458,2,1,4,8:32 PM,1:48,,,MISS Kittles 26' 3PT Jump Shot,,
+0020300088,459,4,0,4,8:32 PM,1:46,Prince REBOUND (Off:0 Def:6),,,,
+0020300088,460,2,1,4,8:32 PM,1:39,MISS Prince 19' Jump Shot,,,,
+0020300088,461,4,0,4,8:32 PM,1:37,PISTONS Rebound,,,,
+0020300088,463,8,0,4,8:32 PM,1:35,,,SUB: Planinic FOR Kidd,,
+0020300088,464,8,0,4,8:32 PM,1:35,,,SUB: Armstrong FOR Kittles,,
+0020300088,465,8,0,4,8:33 PM,1:35,SUB: Okur FOR Wallace,,,,
+0020300088,466,8,0,4,8:33 PM,1:35,,,SUB: Slay FOR Jefferson,,
+0020300088,467,1,1,4,8:33 PM,1:16,Billups 20' Jump Shot (11 PTS),,,83 - 96,13
+0020300088,468,6,2,4,8:34 PM,1:01,Williamson S.FOUL (P6.PN),,,,
+0020300088,469,8,0,4,8:34 PM,1:01,SUB: Milicic FOR Prince,,,,
+0020300088,470,8,0,4,8:34 PM,1:01,SUB: Hunter FOR Hamilton,,,,
+0020300088,471,8,0,4,8:34 PM,1:01,SUB: Fowlkes FOR Billups,,,,
+0020300088,472,8,0,4,8:34 PM,1:01,SUB: Sura FOR Williamson,,,,
+0020300088,473,3,11,4,8:34 PM,1:01,,,MISS Williams Free Throw 1 of 2,,
+0020300088,479,4,0,4,8:34 PM,1:01,,,Nets Rebound,,
+0020300088,474,8,0,4,8:34 PM,1:01,,,SUB: Overton FOR Collins,,
+0020300088,475,3,12,4,8:34 PM,1:01,,,Williams Free Throw 2 of 2 (12 PTS),84 - 96,12
+0020300088,476,2,1,4,8:35 PM,0:44,MISS Sura 14' Jump Shot,,,,
+0020300088,478,4,0,4,8:35 PM,0:40,Fowlkes REBOUND (Off:1 Def:0),,,,
+0020300088,480,2,5,4,8:35 PM,0:39,MISS Fowlkes  Layup,,,,
+0020300088,481,4,0,4,8:35 PM,0:38,Okur REBOUND (Off:4 Def:4),,,,
+0020300088,482,1,1,4,8:35 PM,0:31,Fowlkes 18' Jump Shot (2 PTS) (Hunter 3 AST),,,84 - 98,14
+0020300088,483,2,1,4,8:35 PM,0:24,,,MISS Armstrong 16' Jump Shot,,
+0020300088,484,4,0,4,8:35 PM,0:22,Fowlkes REBOUND (Off:1 Def:1),,,,
+0020300088,485,5,1,4,8:35 PM,0:18,Fowlkes Bad Pass Turnover (P1.T15),,,,
+0020300088,486,2,1,4,8:36 PM,0:03,,,MISS Planinic 26' 3PT Jump Shot,,
+0020300088,487,4,0,4,8:36 PM,0:01,Fowlkes REBOUND (Off:1 Def:2),,,,
+0020300088,489,5,2,4,8:36 PM,0:00,Fowlkes Lost Ball Turnover (P2.T16),,Slay STEAL (2 STL),,
+0020300088,490,2,1,4,8:36 PM,0:00,,,MISS Slay 41' 3PT Jump Shot,,
+0020300088,491,4,0,4,8:36 PM,0:00,,,Nets Rebound,,
+0020300088,492,13,0,4,8:36 PM,0:00,,,,84 - 98,14

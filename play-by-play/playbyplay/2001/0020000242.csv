@@ -1,0 +1,498 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000242,0,12,0,1,4:41 AM,12:00,,,,,
+0020000242,1,10,0,1,4:41 AM,12:00,Jump Ball Battie vs. Olowokandi: Tip to Stith,,,,
+0020000242,2,1,42,1,4:41 AM,11:47,Walker 2' Driving Layup (2 PTS),,,0 - 2,2
+0020000242,3,6,2,1,4:41 AM,11:31,Battie S.FOUL (P1.T1),,,,
+0020000242,4,3,11,1,4:42 AM,11:31,,,Odom Free Throw 1 of 2 (1 PTS),1 - 2,1
+0020000242,5,3,12,1,4:42 AM,11:31,,,Odom Free Throw 2 of 2 (2 PTS),2 - 2,TIE
+0020000242,6,2,5,1,4:42 AM,11:19,MISS Pierce 3' Layup,,Odom BLOCK (1 BLK),,
+0020000242,7,4,0,1,4:42 AM,11:19,CELTICS Rebound,,,,
+0020000242,8,5,2,1,4:43 AM,11:15,Battie Lost Ball Turnover (P1.T1),,Odom STEAL (1 STL),,
+0020000242,9,2,5,1,4:43 AM,11:10,,,MISS Richardson 3' Layup,,
+0020000242,10,4,0,1,4:43 AM,11:09,,,Richardson REBOUND (Off:1 Def:0),,
+0020000242,11,2,4,1,4:43 AM,11:08,,,MISS Richardson 2' Tip Shot,,
+0020000242,12,4,0,1,4:43 AM,11:06,Battie REBOUND (Off:0 Def:1),,,,
+0020000242,13,6,2,1,4:43 AM,11:02,,,Odom S.FOUL (P1.T1),,
+0020000242,14,3,11,1,4:43 AM,11:02,Pierce Free Throw 1 of 2 (1 PTS),,,2 - 3,1
+0020000242,15,3,12,1,4:43 AM,11:02,Pierce Free Throw 2 of 2 (2 PTS),,,2 - 4,2
+0020000242,16,2,1,1,4:44 AM,10:45,,,MISS Richardson 26' 3PT Jump Shot,,
+0020000242,17,4,0,1,4:44 AM,10:42,Pierce REBOUND (Off:0 Def:1),,,,
+0020000242,18,2,1,1,4:44 AM,10:35,MISS Pierce 25' 3PT Jump Shot,,,,
+0020000242,19,4,0,1,4:44 AM,10:33,Battie REBOUND (Off:1 Def:1),,,,
+0020000242,20,1,5,1,4:44 AM,10:27,Walker 1' Layup (4 PTS),,,2 - 6,4
+0020000242,21,6,1,1,4:45 AM,10:07,Brown P.FOUL (P1.T2),,,,
+0020000242,22,5,1,1,4:45 AM,10:02,,,McInnis Bad Pass Turnover (P1.T1),,
+0020000242,23,1,42,1,4:45 AM,9:47,Walker 2' Driving Layup (6 PTS),,,2 - 8,6
+0020000242,24,2,5,1,4:46 AM,9:30,Walker BLOCK (1 BLK),,MISS Richardson 2' Layup,,
+0020000242,25,4,0,1,4:46 AM,9:28,,,Richardson REBOUND (Off:2 Def:0),,
+0020000242,26,1,5,1,4:46 AM,9:27,,,Richardson 1' Layup (2 PTS),4 - 8,4
+0020000242,27,2,1,1,4:46 AM,9:16,MISS Walker 22' Jump Shot,,,,
+0020000242,28,4,0,1,4:46 AM,9:12,,,Richardson REBOUND (Off:2 Def:1),,
+0020000242,29,1,8,1,4:46 AM,9:03,,,Richardson  Slam Dunk (4 PTS),6 - 8,2
+0020000242,30,1,1,1,4:46 AM,8:49,Stith 24' 3PT Jump Shot (3 PTS) (Pierce 1 AST),,,6 - 11,5
+0020000242,31,2,1,1,4:47 AM,8:31,,,MISS Odom 8' Jump Shot,,
+0020000242,32,4,0,1,4:47 AM,8:28,Battie REBOUND (Off:1 Def:2),,,,
+0020000242,33,1,1,1,4:47 AM,8:22,Stith 26' 3PT Jump Shot (6 PTS) (Brown 1 AST),,,6 - 14,8
+0020000242,34,1,5,1,4:47 AM,8:02,,,Olowokandi 3' Layup (2 PTS) (McInnis 1 AST),8 - 14,6
+0020000242,35,2,5,1,4:47 AM,7:54,MISS Pierce 2' Layup,,,,
+0020000242,36,4,0,1,4:47 AM,7:50,,,Miles REBOUND (Off:0 Def:1),,
+0020000242,37,2,5,1,4:47 AM,7:35,Battie BLOCK (1 BLK),,MISS Miles 1' Layup,,
+0020000242,38,4,0,1,4:48 AM,7:32,,,Miles REBOUND (Off:1 Def:1),,
+0020000242,39,2,1,1,4:48 AM,7:31,Battie BLOCK (2 BLK),,MISS Miles 4' Jump Shot,,
+0020000242,40,4,0,1,4:48 AM,7:31,,,Clippers Rebound,,
+0020000242,41,2,1,1,4:48 AM,7:28,,,MISS Richardson 19' Jump Shot,,
+0020000242,42,4,0,1,4:48 AM,7:26,,,Richardson REBOUND (Off:3 Def:1),,
+0020000242,43,6,2,1,4:48 AM,7:25,Battie S.FOUL (P2.T3),,,,
+0020000242,44,3,11,1,4:48 AM,7:25,,,Richardson Free Throw 1 of 2 (5 PTS),9 - 14,5
+0020000242,45,3,12,1,4:48 AM,7:25,,,Richardson Free Throw 2 of 2 (6 PTS),10 - 14,4
+0020000242,46,2,5,1,4:49 AM,7:08,MISS Pierce 2' Layup,,,,
+0020000242,47,4,0,1,4:49 AM,7:05,,,Odom REBOUND (Off:0 Def:1),,
+0020000242,48,5,7,1,4:49 AM,7:02,,,Richardson Discontinue Dribble Turnover (P1.T2),,
+0020000242,49,1,1,1,4:49 AM,6:51,Pierce 25' 3PT Jump Shot (5 PTS) (Brown 2 AST),,,10 - 17,7
+0020000242,50,2,1,1,4:50 AM,6:31,,,MISS Olowokandi 16' Jump Shot,,
+0020000242,51,4,0,1,4:50 AM,6:29,Pierce REBOUND (Off:0 Def:2),,,,
+0020000242,52,2,1,1,4:50 AM,6:06,MISS Walker  3PT Jump Shot,,,,
+0020000242,53,4,0,1,4:50 AM,6:04,,,Odom REBOUND (Off:0 Def:2),,
+0020000242,54,1,5,1,4:50 AM,5:52,,,Miles  Layup (2 PTS) (Odom 1 AST),12 - 17,5
+0020000242,55,6,1,1,4:51 AM,5:44,,,Miles P.FOUL (P1.T2),,
+0020000242,57,9,1,1,4:51 AM,5:44,CELTICS Timeout: Regular (Full 1 Short 0),,,,
+0020000242,58,1,1,1,4:53 AM,5:32,Pierce 7' Jump Shot (7 PTS) (Stith 1 AST),,,12 - 19,7
+0020000242,59,5,7,1,4:53 AM,5:10,,,Miles Discontinue Dribble Turnover (P1.T3),,
+0020000242,60,2,1,1,4:54 AM,4:56,MISS Walker  3PT Jump Shot,,,,
+0020000242,61,4,0,1,4:54 AM,4:52,,,Richardson REBOUND (Off:3 Def:2),,
+0020000242,62,6,4,1,4:54 AM,4:48,,,Olowokandi OFF.Foul (P1),,
+0020000242,63,5,5,1,4:54 AM,4:48,,,Olowokandi Foul Turnover (P1.T4),,
+0020000242,64,1,5,1,4:54 AM,4:31,Walker 2' Layup (8 PTS),,,12 - 21,9
+0020000242,65,5,1,1,4:55 AM,4:15,,,Odom Bad Pass Turnover (P1.T5),,
+0020000242,66,6,2,1,4:55 AM,4:06,,,McInnis S.FOUL (P1.T3),,
+0020000242,67,8,0,1,4:55 AM,4:06,SUB: Potapenko FOR Battie,,,,
+0020000242,68,8,0,1,4:55 AM,4:06,,,SUB: Dooling FOR McInnis,,
+0020000242,69,3,11,1,4:55 AM,4:06,MISS Brown Free Throw 1 of 2,,,,
+0020000242,70,4,1,1,4:55 AM,4:06,CELTICS Rebound,,,,
+0020000242,71,3,12,1,4:55 AM,4:06,MISS Brown Free Throw 2 of 2,,,,
+0020000242,72,4,0,1,4:56 AM,4:03,,,Olowokandi REBOUND (Off:0 Def:1),,
+0020000242,73,2,1,1,4:56 AM,3:49,Pierce BLOCK (1 BLK),,MISS Richardson 4' Jump Shot,,
+0020000242,74,4,0,1,4:56 AM,3:44,,,Richardson REBOUND (Off:4 Def:2),,
+0020000242,75,1,7,1,4:56 AM,3:43,,,Richardson 1' Dunk (8 PTS),14 - 21,7
+0020000242,76,5,1,1,4:56 AM,3:30,Potapenko Bad Pass Turnover (P1.T2),,Dooling STEAL (1 STL),,
+0020000242,77,1,8,1,4:56 AM,3:25,,,Dooling 2' Slam Dunk (2 PTS),16 - 21,5
+0020000242,78,9,2,1,4:56 AM,3:20,CELTICS Timeout: Short (Full 1 Short 1),,,,
+0020000242,80,8,0,1,4:57 AM,3:20,SUB: Carr FOR Stith,,,,
+0020000242,81,8,0,1,4:57 AM,3:20,,,SUB: Skinner FOR Miles,,
+0020000242,82,1,1,1,4:58 AM,3:09,Pierce 18' Jump Shot (9 PTS),,,16 - 23,7
+0020000242,83,2,1,1,4:58 AM,2:57,,,MISS Richardson 25' 3PT Jump Shot,,
+0020000242,84,4,0,1,4:58 AM,2:55,Walker REBOUND (Off:0 Def:1),,,,
+0020000242,85,2,1,1,4:58 AM,2:44,MISS Potapenko 15' Jump Shot,,,,
+0020000242,86,4,0,1,4:58 AM,2:41,,,Skinner REBOUND (Off:0 Def:1),,
+0020000242,87,1,5,1,4:58 AM,2:33,,,Odom 1' Layup (4 PTS) (Dooling 1 AST),18 - 23,5
+0020000242,88,2,1,1,4:59 AM,2:11,MISS Walker 12' Jump Shot,,,,
+0020000242,89,4,0,1,4:59 AM,2:08,,,Olowokandi REBOUND (Off:0 Def:2),,
+0020000242,90,2,7,1,4:59 AM,1:58,,,MISS Dooling 2' Dunk,,
+0020000242,91,4,0,1,4:59 AM,1:54,Pierce REBOUND (Off:0 Def:3),,,,
+0020000242,92,2,1,1,4:59 AM,1:51,MISS Carr 4' Jump Shot,,Odom BLOCK (2 BLK),,
+0020000242,93,4,0,1,4:59 AM,1:48,,,Olowokandi REBOUND (Off:0 Def:3),,
+0020000242,94,2,1,1,4:59 AM,1:39,,,MISS Skinner 5' Jump Shot,,
+0020000242,95,4,0,1,4:59 AM,1:37,Carr REBOUND (Off:0 Def:1),,,,
+0020000242,96,2,1,1,4:59 AM,1:32,MISS Carr 20' Jump Shot,,,,
+0020000242,97,4,0,1,4:59 AM,1:30,,,Richardson REBOUND (Off:4 Def:3),,
+0020000242,98,2,1,1,4:59 AM,1:18,,,MISS Odom 11' Jump Shot,,
+0020000242,99,4,0,1,4:59 AM,1:16,Walker REBOUND (Off:0 Def:2),,,,
+0020000242,100,2,5,1,5:00 AM,1:02,MISS Walker 3' Layup,,,,
+0020000242,101,4,0,1,5:00 AM,0:59,,,Odom REBOUND (Off:0 Def:3),,
+0020000242,102,2,5,1,5:00 AM,0:51,,,MISS Richardson 3' Layup,,
+0020000242,103,4,0,1,5:00 AM,0:49,Pierce REBOUND (Off:0 Def:4),,,,
+0020000242,104,1,1,1,5:00 AM,0:42,Carr 19' Jump Shot (2 PTS) (Pierce 2 AST),,,18 - 25,7
+0020000242,105,6,4,1,5:00 AM,0:28,,,Odom OFF.Foul (P2),,
+0020000242,106,5,5,1,5:00 AM,0:28,,,Odom Foul Turnover (P2.T6),,
+0020000242,107,9,1,1,5:00 AM,0:28,,,Clippers Timeout: Regular (Reg.1 Short 0),,
+0020000242,109,8,0,1,5:02 AM,0:28,,,SUB: Rooks FOR Olowokandi,,
+0020000242,110,8,0,1,5:02 AM,0:28,,,SUB: Piatkowski FOR Odom,,
+0020000242,111,8,0,1,5:02 AM,0:28,SUB: McCarty FOR Walker,,,,
+0020000242,112,8,0,1,5:02 AM,0:28,SUB: Overton FOR Brown,,,,
+0020000242,113,2,1,1,5:03 AM,0:12,MISS McCarty 13' Jump Shot,,,,
+0020000242,114,4,0,1,5:03 AM,0:10,,,Dooling REBOUND (Off:0 Def:1),,
+0020000242,115,2,1,1,5:03 AM,0:01,,,MISS Dooling 16' Jump Shot,,
+0020000242,116,4,0,1,5:03 AM,0:00,Pierce REBOUND (Off:0 Def:5),,,,
+0020000242,118,13,0,1,5:03 AM,0:00,,,,18 - 25,7
+0020000242,119,12,0,2,5:06 AM,12:00,,,,18 - 25,7
+0020000242,120,1,1,2,5:06 AM,11:43,,,Piatkowski 19' Jump Shot (2 PTS) (Dooling 2 AST),20 - 25,5
+0020000242,121,2,1,2,5:07 AM,11:31,MISS Pierce 20' Jump Shot,,,,
+0020000242,122,4,0,2,5:07 AM,11:28,,,Piatkowski REBOUND (Off:0 Def:1),,
+0020000242,123,6,2,2,5:07 AM,11:18,Carr S.FOUL (P1.T1),,,,
+0020000242,125,3,11,2,5:07 AM,11:18,,,Piatkowski Free Throw 1 of 2 (3 PTS),21 - 25,4
+0020000242,126,8,0,2,5:07 AM,11:18,SUB: Stith FOR Carr,,,,
+0020000242,127,3,12,2,5:07 AM,11:18,,,Piatkowski Free Throw 2 of 2 (4 PTS),22 - 25,3
+0020000242,128,5,2,2,5:08 AM,11:11,Overton Lost Ball Turnover (P1.T3),,Dooling STEAL (2 STL),,
+0020000242,129,1,52,2,5:08 AM,11:07,,,Richardson 1' Alley Oop Dunk (10 PTS) (Dooling 3 AST),24 - 25,1
+0020000242,130,2,1,2,5:08 AM,10:45,MISS Potapenko 15' Jump Shot,,,,
+0020000242,131,4,0,2,5:08 AM,10:42,,,Piatkowski REBOUND (Off:0 Def:2),,
+0020000242,132,2,1,2,5:08 AM,10:24,Potapenko BLOCK (1 BLK),,MISS Dooling 5' Jump Shot,,
+0020000242,133,4,0,2,5:08 AM,10:21,Stith REBOUND (Off:0 Def:1),,,,
+0020000242,134,2,1,2,5:08 AM,10:16,MISS Pierce 27' 3PT Jump Shot,,,,
+0020000242,135,4,0,2,5:09 AM,10:12,,,Skinner REBOUND (Off:0 Def:2),,
+0020000242,136,5,1,2,5:09 AM,10:03,Potapenko STEAL (1 STL),,Rooks Bad Pass Turnover (P1.T7),,
+0020000242,137,6,2,2,5:09 AM,9:56,,,Rooks S.FOUL (P1.T1),,
+0020000242,138,3,11,2,5:09 AM,9:56,Potapenko Free Throw 1 of 2 (1 PTS),,,24 - 26,2
+0020000242,139,8,0,2,5:09 AM,9:56,,,SUB: Maggette FOR Richardson,,
+0020000242,140,3,12,2,5:09 AM,9:56,MISS Potapenko Free Throw 2 of 2,,,,
+0020000242,141,4,0,2,5:09 AM,9:55,,,Maggette REBOUND (Off:0 Def:1),,
+0020000242,142,2,1,2,5:10 AM,9:39,,,MISS Rooks 17' Jump Shot,,
+0020000242,143,4,0,2,5:10 AM,9:37,,,Skinner REBOUND (Off:1 Def:2),,
+0020000242,144,2,1,2,5:10 AM,9:25,,,MISS Piatkowski 17' Jump Shot,,
+0020000242,145,4,0,2,5:10 AM,9:22,Potapenko REBOUND (Off:0 Def:1),,,,
+0020000242,146,1,1,2,5:10 AM,9:14,Potapenko 16' Jump Shot (3 PTS) (Overton 1 AST),,,24 - 28,4
+0020000242,147,2,1,2,5:10 AM,8:55,,,MISS Maggette 5' Jump Shot,,
+0020000242,148,4,0,2,5:11 AM,8:53,Potapenko REBOUND (Off:0 Def:2),,,,
+0020000242,149,6,1,2,5:11 AM,8:46,,,Maggette P.FOUL (P1.T2),,
+0020000242,150,9,4,2,5:11 AM,8:46,,,,,
+0020000242,152,6,1,2,5:14 AM,8:43,,,Piatkowski P.FOUL (P1.T3),,
+0020000242,153,1,1,2,5:14 AM,8:32,Stith 19' Jump Shot (8 PTS),,,24 - 30,6
+0020000242,154,6,1,2,5:15 AM,8:06,Potapenko P.FOUL (P1.T2),,,,
+0020000242,155,5,1,2,5:15 AM,7:56,Overton STEAL (1 STL),,Dooling Bad Pass Turnover (P1.T8),,
+0020000242,156,5,1,2,5:15 AM,7:53,Overton Bad Pass Turnover (P2.T4),,Piatkowski STEAL (1 STL),,
+0020000242,157,1,42,2,5:15 AM,7:48,,,Piatkowski 2' Driving Layup (6 PTS) (Rooks 1 AST),26 - 30,4
+0020000242,158,2,1,2,5:15 AM,7:37,MISS Potapenko 15' Jump Shot,,,,
+0020000242,159,4,0,2,5:15 AM,7:33,,,Skinner REBOUND (Off:1 Def:3),,
+0020000242,160,1,1,2,5:16 AM,7:23,,,Maggette 8' Jump Shot (2 PTS),28 - 30,2
+0020000242,162,9,1,2,5:16 AM,7:17,CELTICS Timeout: Regular (Full 2 Short 1),,,,
+0020000242,163,8,0,2,5:17 AM,7:17,SUB: Battie FOR Pierce,,,,
+0020000242,164,8,0,2,5:17 AM,7:17,SUB: Brown FOR Potapenko,,,,
+0020000242,165,8,0,2,5:17 AM,7:17,SUB: Walker FOR McCarty,,,,
+0020000242,166,8,0,2,5:17 AM,7:17,SUB: Williams FOR Overton,,,,
+0020000242,167,8,0,2,5:18 AM,7:17,,,SUB: McInnis FOR Dooling,,
+0020000242,168,2,1,2,5:18 AM,6:59,MISS Williams 11' Jump Shot,,,,
+0020000242,169,4,0,2,5:18 AM,6:57,,,Maggette REBOUND (Off:0 Def:2),,
+0020000242,170,5,4,2,5:18 AM,6:57,,,Maggette Traveling Turnover (P1.T9),,
+0020000242,171,1,42,2,5:19 AM,6:49,Stith 1' Driving Layup (10 PTS),,,28 - 32,4
+0020000242,172,6,2,2,5:19 AM,6:49,,,Maggette S.FOUL (P2.T4),,
+0020000242,173,3,10,2,5:19 AM,6:49,Stith Free Throw 1 of 1 (11 PTS),,,28 - 33,5
+0020000242,174,5,2,2,5:19 AM,6:32,Brown STEAL (1 STL),,Piatkowski Lost Ball Turnover (P1.T10),,
+0020000242,175,6,2,2,5:20 AM,6:28,,,Maggette S.FOUL (P3.PN),,
+0020000242,176,3,11,2,5:20 AM,6:28,Williams Free Throw 1 of 2 (1 PTS),,,28 - 34,6
+0020000242,177,8,0,2,5:20 AM,6:28,,,SUB: Odom FOR Maggette,,
+0020000242,178,8,0,2,5:20 AM,6:28,,,SUB: Richardson FOR Piatkowski,,
+0020000242,179,3,12,2,5:20 AM,6:28,Williams Free Throw 2 of 2 (2 PTS),,,28 - 35,7
+0020000242,180,9,2,2,5:20 AM,6:28,,,Clippers Timeout: Short (Reg.1 Short 1),,
+0020000242,182,2,1,2,5:22 AM,6:10,,,MISS McInnis 18' Jump Shot,,
+0020000242,183,4,0,2,5:22 AM,6:08,Battie REBOUND (Off:1 Def:3),,,,
+0020000242,184,7,2,2,5:22 AM,5:59,,,Clippers Violation: Def. Goaltending Violation,,
+0020000242,185,8,0,2,5:22 AM,5:59,,,SUB: Parks FOR Skinner,,
+0020000242,186,6,2,2,5:22 AM,5:48,,,Richardson S.FOUL (P1.PN),,
+0020000242,188,3,11,2,5:23 AM,5:48,Williams Free Throw 1 of 2 (3 PTS),,,28 - 36,8
+0020000242,189,3,12,2,5:23 AM,5:48,Williams Free Throw 2 of 2 (4 PTS),,,28 - 37,9
+0020000242,190,5,1,2,5:23 AM,5:48,,,Odom Bad Pass Turnover (P3.T11),,
+0020000242,191,2,1,2,5:24 AM,5:46,MISS Battie 12' Jump Shot,,,,
+0020000242,192,4,0,2,5:24 AM,5:43,,,Parks REBOUND (Off:0 Def:1),,
+0020000242,193,1,1,2,5:24 AM,5:29,,,McInnis 25' 3PT Jump Shot (3 PTS) (Odom 2 AST),31 - 37,6
+0020000242,194,1,42,2,5:24 AM,5:12,Walker 2' Driving Layup (10 PTS),,,31 - 39,8
+0020000242,195,6,4,2,5:24 AM,5:01,,,Odom OFF.Foul (P3),,
+0020000242,196,5,5,2,5:24 AM,5:01,,,Odom Foul Turnover (P4.T12),,
+0020000242,198,8,0,2,5:25 AM,5:01,,,SUB: Piatkowski FOR Odom,,
+0020000242,199,2,1,2,5:25 AM,4:46,MISS Battie 10' Jump Shot,,,,
+0020000242,200,4,0,2,5:25 AM,4:44,,,Rooks REBOUND (Off:0 Def:1),,
+0020000242,201,2,1,2,5:26 AM,4:22,,,MISS Parks 36' 3PT Jump Shot,,
+0020000242,202,4,0,2,5:26 AM,4:22,,,Clippers Rebound,,
+0020000242,203,5,11,2,5:26 AM,4:22,,,Clippers Turnover: Shot Clock (T#13),,
+0020000242,204,2,5,2,5:26 AM,4:01,MISS Brown 3' Layup,,Parks BLOCK (1 BLK),,
+0020000242,205,4,0,2,5:26 AM,4:01,CELTICS Rebound,,,,
+0020000242,206,8,0,2,5:27 AM,4:01,SUB: Potapenko FOR Battie,,,,
+0020000242,207,1,43,2,5:27 AM,3:58,Brown 3' Alley Oop Layup (2 PTS) (Williams 1 AST),,,31 - 41,10
+0020000242,208,1,5,2,5:28 AM,3:33,,,Rooks 1' Layup (2 PTS) (McInnis 2 AST),33 - 41,8
+0020000242,209,6,2,2,5:28 AM,3:33,Walker S.FOUL (P1.T3),,,,
+0020000242,210,8,0,2,5:28 AM,3:33,SUB: Pierce FOR Williams,,,,
+0020000242,211,3,10,2,5:28 AM,3:33,,,MISS Rooks Free Throw 1 of 1,,
+0020000242,212,4,0,2,5:29 AM,3:31,CELTICS Rebound,,,,
+0020000242,213,6,2,2,5:29 AM,3:25,,,Rooks S.FOUL (P2.PN),,
+0020000242,214,3,11,2,5:29 AM,3:25,Walker Free Throw 1 of 2 (11 PTS),,,33 - 42,9
+0020000242,215,3,12,2,5:29 AM,3:25,Walker Free Throw 2 of 2 (12 PTS),,,33 - 43,10
+0020000242,217,2,1,2,5:30 AM,3:10,,,MISS McInnis 19' Jump Shot,,
+0020000242,218,4,0,2,5:30 AM,3:08,Walker REBOUND (Off:0 Def:3),,,,
+0020000242,219,2,1,2,5:30 AM,3:02,MISS Pierce 4' Jump Shot,,,,
+0020000242,220,4,0,2,5:30 AM,3:00,CELTICS Rebound,,,,
+0020000242,221,1,1,2,5:31 AM,2:51,Pierce 15' Jump Shot (11 PTS),,,33 - 45,12
+0020000242,222,6,1,2,5:31 AM,2:31,Potapenko P.FOUL (P2.T4),,,,
+0020000242,224,9,1,2,5:31 AM,2:31,,,Clippers Timeout: Regular (Reg.2 Short 1),,
+0020000242,225,8,0,2,5:33 AM,2:31,SUB: Moiso FOR Potapenko,,,,
+0020000242,226,3,11,2,5:33 AM,2:31,,,Rooks Free Throw 1 of 2 (3 PTS),34 - 45,11
+0020000242,227,3,12,2,5:34 AM,2:31,,,MISS Rooks Free Throw 2 of 2,,
+0020000242,228,4,0,2,5:34 AM,2:29,Brown REBOUND (Off:0 Def:1),,,,
+0020000242,229,6,2,2,5:34 AM,2:20,,,Rooks S.FOUL (P3.PN),,
+0020000242,230,3,11,2,5:34 AM,2:20,Pierce Free Throw 1 of 2 (12 PTS),,,34 - 46,12
+0020000242,231,8,0,2,5:35 AM,2:20,,,SUB: Olowokandi FOR Rooks,,
+0020000242,232,3,12,2,5:35 AM,2:20,Pierce Free Throw 2 of 2 (13 PTS),,,34 - 47,13
+0020000242,233,6,1,2,5:35 AM,2:16,Brown P.FOUL (P2.PN),,,,
+0020000242,234,8,0,2,5:35 AM,2:16,SUB: Overton FOR Brown,,,,
+0020000242,235,3,11,2,5:35 AM,2:16,,,Piatkowski Free Throw 1 of 2 (7 PTS),35 - 47,12
+0020000242,236,3,12,2,5:36 AM,2:16,,,Piatkowski Free Throw 2 of 2 (8 PTS),36 - 47,11
+0020000242,238,7,3,2,5:36 AM,1:59,,,Parks Violation:Lane,,
+0020000242,237,1,42,2,5:36 AM,1:59,Overton 1' Driving Layup (2 PTS),,,36 - 49,13
+0020000242,239,6,2,2,5:37 AM,1:38,Overton S.FOUL (P1.PN),,,,
+0020000242,240,3,11,2,5:37 AM,1:38,,,McInnis Free Throw 1 of 2 (4 PTS),37 - 49,12
+0020000242,241,8,0,2,5:37 AM,1:38,,,SUB: Skinner FOR Parks,,
+0020000242,242,3,12,2,5:37 AM,1:38,,,MISS McInnis Free Throw 2 of 2,,
+0020000242,243,4,0,2,5:38 AM,1:37,,,Clippers Rebound,,
+0020000242,244,2,5,2,5:38 AM,1:35,Moiso BLOCK (1 BLK),,MISS Olowokandi 2' Layup,,
+0020000242,245,4,0,2,5:38 AM,1:31,Overton REBOUND (Off:0 Def:1),,,,
+0020000242,246,1,1,2,5:38 AM,1:27,Pierce 25' 3PT Jump Shot (16 PTS) (Stith 2 AST),,,37 - 52,15
+0020000242,247,6,2,2,5:38 AM,1:17,Stith S.FOUL (P1.PN),,,,
+0020000242,248,3,11,2,5:38 AM,1:17,,,MISS Richardson Free Throw 1 of 2,,
+0020000242,249,4,1,2,5:38 AM,1:17,,,Clippers Rebound,,
+0020000242,250,3,12,2,5:39 AM,1:17,,,Richardson Free Throw 2 of 2 (11 PTS),38 - 52,14
+0020000242,251,5,1,2,5:39 AM,1:16,Moiso Bad Pass Turnover (P1.T5),,Richardson STEAL (1 STL),,
+0020000242,253,2,1,2,5:39 AM,1:09,,,MISS Richardson 5' Jump Shot,,
+0020000242,254,4,0,2,5:39 AM,1:05,Overton REBOUND (Off:0 Def:2),,,,
+0020000242,255,5,4,2,5:39 AM,0:53,Walker Traveling Turnover (P1.T6),,,,
+0020000242,257,6,4,2,5:40 AM,0:36,,,Olowokandi OFF.Foul (P2),,
+0020000242,258,5,5,2,5:40 AM,0:36,,,Olowokandi Foul Turnover (P2.T14),,
+0020000242,260,1,42,2,5:40 AM,0:33,Stith  Driving Layup (13 PTS) (Pierce 3 AST),,,38 - 54,16
+0020000242,261,6,2,2,5:41 AM,0:15,Overton S.FOUL (P2.PN),,,,
+0020000242,262,3,11,2,5:41 AM,0:15,,,McInnis Free Throw 1 of 2 (5 PTS),39 - 54,15
+0020000242,263,3,12,2,5:41 AM,0:15,,,MISS McInnis Free Throw 2 of 2,,
+0020000242,264,4,0,2,5:41 AM,0:14,Moiso REBOUND (Off:0 Def:1),,,,
+0020000242,265,2,1,2,5:41 AM,0:00,MISS Walker 28' 3PT Jump Shot,,,,
+0020000242,266,4,0,2,5:41 AM,0:00,CELTICS Rebound,,,,
+0020000242,268,13,0,2,5:41 AM,0:00,,,,39 - 54,15
+0020000242,269,12,0,3,5:57 AM,12:00,,,,39 - 54,15
+0020000242,270,2,1,3,5:58 AM,11:42,,,MISS Richardson 17' Jump Shot,,
+0020000242,271,4,0,3,5:58 AM,11:42,CELTICS Rebound,,,,
+0020000242,272,5,1,3,5:58 AM,11:32,Walker Bad Pass Turnover (P2.T7),,Richardson STEAL (2 STL),,
+0020000242,273,7,2,3,5:58 AM,11:24,CELTICS Violation: Def. Goaltending Violation,,,,
+0020000242,274,2,1,3,5:59 AM,11:18,,,MISS Odom 12' Jump Shot,,
+0020000242,275,4,0,3,5:59 AM,11:16,Walker REBOUND (Off:0 Def:4),,,,
+0020000242,276,6,4,3,5:59 AM,11:11,Walker OFF.Foul (P2),,,,
+0020000242,277,5,5,3,5:59 AM,11:11,Walker Foul Turnover (P3.T8),,,,
+0020000242,278,2,1,3,5:59 AM,10:59,,,MISS Odom 15' Jump Shot,,
+0020000242,279,4,0,3,6:00 AM,10:57,,,Olowokandi REBOUND (Off:1 Def:3),,
+0020000242,280,2,1,3,6:00 AM,10:49,Battie BLOCK (3 BLK),,MISS Olowokandi 8' Jump Shot,,
+0020000242,281,4,0,3,6:00 AM,10:45,Battie REBOUND (Off:1 Def:4),,,,
+0020000242,282,2,5,3,6:00 AM,10:40,MISS Walker 3' Layup,,Miles BLOCK (1 BLK),,
+0020000242,283,4,0,3,6:00 AM,10:35,,,Odom REBOUND (Off:0 Def:4),,
+0020000242,284,1,52,3,6:00 AM,10:33,,,Richardson  Alley Oop Dunk (13 PTS) (McInnis 3 AST),41 - 54,13
+0020000242,285,1,1,3,6:00 AM,10:12,Battie 4' Jump Shot (2 PTS),,,41 - 56,15
+0020000242,286,6,1,3,6:01 AM,9:56,Brown P.FOUL (P3.T1),,,,
+0020000242,287,2,1,3,6:01 AM,9:41,,,MISS Odom 26' 3PT Jump Shot,,
+0020000242,288,4,0,3,6:01 AM,9:39,,,Olowokandi REBOUND (Off:2 Def:3),,
+0020000242,289,2,5,3,6:01 AM,9:37,,,MISS Olowokandi 3' Layup,,
+0020000242,290,4,0,3,6:01 AM,9:34,Battie REBOUND (Off:1 Def:5),,,,
+0020000242,291,2,1,3,6:01 AM,9:21,MISS Pierce 16' Jump Shot,,,,
+0020000242,292,4,0,3,6:01 AM,9:19,,,Olowokandi REBOUND (Off:2 Def:4),,
+0020000242,293,1,1,3,6:02 AM,9:15,,,Miles 18' Jump Shot (4 PTS) (McInnis 4 AST),43 - 56,13
+0020000242,294,6,2,3,6:02 AM,8:47,,,Miles S.FOUL (P2.T1),,
+0020000242,295,3,13,3,6:02 AM,8:47,Stith Free Throw 1 of 3 (14 PTS),,,43 - 57,14
+0020000242,296,3,14,3,6:03 AM,8:47,Stith Free Throw 2 of 3 (15 PTS),,,43 - 58,15
+0020000242,297,3,15,3,6:03 AM,8:47,Stith Free Throw 3 of 3 (16 PTS),,,43 - 59,16
+0020000242,298,2,1,3,6:03 AM,8:33,,,MISS Odom 18' Jump Shot,,
+0020000242,299,4,0,3,6:03 AM,8:30,Walker REBOUND (Off:0 Def:5),,,,
+0020000242,300,5,1,3,6:03 AM,8:28,Walker Bad Pass Turnover (P4.T9),,,,
+0020000242,301,2,1,3,6:04 AM,8:14,,,MISS Odom 16' Jump Shot,,
+0020000242,302,4,0,3,6:04 AM,8:12,Walker REBOUND (Off:0 Def:6),,,,
+0020000242,303,1,1,3,6:04 AM,8:00,Brown 17' Jump Shot (4 PTS) (Walker 1 AST),,,43 - 61,18
+0020000242,304,5,11,3,6:05 AM,7:30,,,Clippers Turnover: Shot Clock (T#15),,
+0020000242,305,2,5,3,6:05 AM,7:16,MISS Walker 3' Layup,,,,
+0020000242,306,4,0,3,6:05 AM,7:13,,,McInnis REBOUND (Off:0 Def:1),,
+0020000242,307,2,5,3,6:05 AM,7:04,,,MISS Olowokandi 3' Layup,,
+0020000242,308,4,0,3,6:05 AM,7:02,,,Miles REBOUND (Off:2 Def:1),,
+0020000242,309,1,8,3,6:06 AM,7:00,,,Miles 1' Slam Dunk (6 PTS),45 - 61,16
+0020000242,310,5,4,3,6:06 AM,6:51,Battie Traveling Turnover (P2.T10),,,,
+0020000242,311,9,1,3,6:06 AM,6:51,CELTICS Timeout: Regular (Full 3 Short 1),,,,
+0020000242,313,2,1,3,6:08 AM,6:30,,,MISS McInnis 26' 3PT Jump Shot,,
+0020000242,314,4,0,3,6:08 AM,6:27,,,Richardson REBOUND (Off:5 Def:3),,
+0020000242,315,2,5,3,6:08 AM,6:23,Walker BLOCK (2 BLK),,MISS Olowokandi 1' Layup,,
+0020000242,316,4,0,3,6:08 AM,6:18,,,Olowokandi REBOUND (Off:3 Def:4),,
+0020000242,317,2,1,3,6:09 AM,6:03,,,MISS Olowokandi 10' Jump Shot,,
+0020000242,318,4,0,3,6:09 AM,6:00,,,Richardson REBOUND (Off:6 Def:3),,
+0020000242,319,1,46,3,6:09 AM,5:57,,,McInnis 8' Running Jump Shot (7 PTS),47 - 61,14
+0020000242,320,1,1,3,6:09 AM,5:41,Brown 16' Jump Shot (6 PTS) (Pierce 4 AST),,,47 - 63,16
+0020000242,321,6,1,3,6:09 AM,5:29,Pierce P.FOUL (P1.T2),,,,
+0020000242,322,2,5,3,6:10 AM,5:15,,,MISS Odom 1' Layup,,
+0020000242,323,4,0,3,6:10 AM,5:12,,,Richardson REBOUND (Off:7 Def:3),,
+0020000242,324,2,1,3,6:10 AM,5:09,,,MISS Odom 4' Jump Shot,,
+0020000242,325,4,0,3,6:10 AM,5:08,,,Richardson REBOUND (Off:8 Def:3),,
+0020000242,326,2,5,3,6:10 AM,5:08,,,MISS Richardson 2' Layup,,
+0020000242,327,4,0,3,6:10 AM,5:08,,,Clippers Rebound,,
+0020000242,328,5,2,3,6:10 AM,5:02,Walker STEAL (1 STL),,Miles Lost Ball Turnover (P2.T16),,
+0020000242,329,2,1,3,6:11 AM,4:55,MISS Walker 26' 3PT Jump Shot,,,,
+0020000242,330,4,0,3,6:11 AM,4:53,Pierce REBOUND (Off:1 Def:5),,,,
+0020000242,331,2,1,3,6:11 AM,4:40,MISS Pierce 14' Jump Shot,,,,
+0020000242,332,4,0,3,6:11 AM,4:37,,,Miles REBOUND (Off:2 Def:2),,
+0020000242,333,2,1,3,6:11 AM,4:21,,,MISS Odom 15' Jump Shot,,
+0020000242,334,4,0,3,6:11 AM,4:20,Battie REBOUND (Off:1 Def:6),,,,
+0020000242,335,1,42,3,6:11 AM,4:11,Pierce 3' Driving Layup (18 PTS),,,47 - 65,18
+0020000242,336,1,1,3,6:12 AM,3:46,,,Olowokandi 5' Jump Shot (4 PTS) (Odom 3 AST),49 - 65,16
+0020000242,337,1,61,3,6:12 AM,3:27,Battie 3' Driving Finger Roll (4 PTS),,,49 - 67,18
+0020000242,338,6,2,3,6:12 AM,3:07,Battie S.FOUL (P3.T3),,,,
+0020000242,339,8,0,3,6:13 AM,3:07,,,SUB: Rooks FOR Olowokandi,,
+0020000242,340,8,0,3,6:13 AM,3:07,,,SUB: Maggette FOR Richardson,,
+0020000242,341,8,0,3,6:13 AM,3:07,SUB: Williams FOR Pierce,,,,
+0020000242,342,3,11,3,6:13 AM,3:07,,,MISS Miles Free Throw 1 of 2,,
+0020000242,343,4,1,3,6:13 AM,3:07,,,Clippers Rebound,,
+0020000242,344,8,0,3,6:13 AM,3:07,SUB: Potapenko FOR Battie,,,,
+0020000242,345,3,12,3,6:13 AM,3:07,,,Miles Free Throw 2 of 2 (7 PTS),50 - 67,17
+0020000242,346,2,1,3,6:14 AM,2:49,MISS Potapenko 15' Jump Shot,,,,
+0020000242,347,4,0,3,6:14 AM,2:48,Walker REBOUND (Off:1 Def:6),,,,
+0020000242,348,6,2,3,6:14 AM,2:48,,,Miles S.FOUL (P3.T2),,
+0020000242,349,9,1,3,6:14 AM,2:48,,,Clippers Timeout: Regular (Reg.3 Short 1),,
+0020000242,351,8,0,3,6:16 AM,2:48,SUB: Overton FOR Brown,,,,
+0020000242,352,3,11,3,6:16 AM,2:48,Walker Free Throw 1 of 2 (13 PTS),,,50 - 68,18
+0020000242,353,3,12,3,6:16 AM,2:48,Walker Free Throw 2 of 2 (14 PTS),,,50 - 69,19
+0020000242,354,1,42,3,6:17 AM,2:33,,,Maggette 3' Driving Layup (4 PTS),52 - 69,17
+0020000242,355,6,2,3,6:17 AM,2:33,Overton S.FOUL (P3.T4),,,,
+0020000242,356,3,10,3,6:17 AM,2:33,,,Maggette Free Throw 1 of 1 (5 PTS),53 - 69,16
+0020000242,357,5,2,3,6:18 AM,2:32,Overton Lost Ball Turnover (P3.T11),,,,
+0020000242,358,2,1,3,6:18 AM,2:16,,,MISS Odom 18' Jump Shot,,
+0020000242,359,4,0,3,6:18 AM,2:14,Potapenko REBOUND (Off:0 Def:3),,,,
+0020000242,360,6,1,3,6:18 AM,2:08,,,Miles P.FOUL (P4.T3),,
+0020000242,361,2,1,3,6:19 AM,1:58,MISS Williams 7' Jump Shot,,,,
+0020000242,362,4,0,3,6:19 AM,1:57,,,Clippers Rebound,,
+0020000242,363,1,46,3,6:19 AM,1:40,,,McInnis 9' Running Jump Shot (9 PTS),55 - 69,14
+0020000242,364,6,1,3,6:19 AM,1:33,,,McInnis P.FOUL (P2.T4),,
+0020000242,365,8,0,3,6:20 AM,1:23,SUB: Pierce FOR Stith,,,,
+0020000242,366,2,1,3,6:20 AM,1:16,MISS Williams 5' Jump Shot,,,,
+0020000242,367,4,0,3,6:20 AM,1:14,,,Maggette REBOUND (Off:0 Def:3),,
+0020000242,368,1,1,3,6:20 AM,1:02,,,Rooks 20' Jump Shot (5 PTS) (McInnis 5 AST),57 - 69,12
+0020000242,369,2,1,3,6:21 AM,0:36,MISS Pierce 27' 3PT Jump Shot,,,,
+0020000242,370,4,0,3,6:21 AM,0:34,Williams REBOUND (Off:1 Def:0),,,,
+0020000242,371,1,1,3,6:21 AM,0:23,Potapenko 16' Jump Shot (5 PTS) (Overton 2 AST),,,57 - 71,14
+0020000242,372,1,42,3,6:22 AM,0:04,,,Odom 1' Driving Layup (6 PTS),59 - 71,12
+0020000242,373,2,1,3,6:22 AM,0:00,MISS Overton 26' 3PT Jump Shot,,McInnis BLOCK (1 BLK),,
+0020000242,374,4,0,3,6:22 AM,0:00,CELTICS Rebound,,,,
+0020000242,375,13,0,3,6:22 AM,0:00,,,,59 - 71,12
+0020000242,378,12,0,4,6:25 AM,12:00,,,,59 - 71,12
+0020000242,379,2,1,4,6:25 AM,11:34,MISS Pierce 17' Jump Shot,,,,
+0020000242,380,4,0,4,6:25 AM,11:31,Walker REBOUND (Off:2 Def:6),,,,
+0020000242,381,2,1,4,6:25 AM,11:30,MISS Walker 11' Jump Shot,,,,
+0020000242,382,4,0,4,6:25 AM,11:28,,,Rooks REBOUND (Off:0 Def:2),,
+0020000242,383,5,2,4,6:25 AM,11:16,Potapenko STEAL (2 STL),,Maggette Lost Ball Turnover (P2.T17),,
+0020000242,384,1,1,4,6:25 AM,11:11,Brown 18' Jump Shot (8 PTS),,,59 - 73,14
+0020000242,385,2,1,4,6:26 AM,10:53,,,MISS Maggette 26' 3PT Jump Shot,,
+0020000242,386,4,0,4,6:26 AM,10:51,Walker REBOUND (Off:2 Def:7),,,,
+0020000242,387,1,42,4,6:26 AM,10:38,Pierce  Driving Layup (20 PTS),,,59 - 75,16
+0020000242,388,6,2,4,6:26 AM,10:16,Brown S.FOUL (P4.T1),,,,
+0020000242,389,3,11,4,6:27 AM,10:16,,,Odom Free Throw 1 of 2 (7 PTS),60 - 75,15
+0020000242,390,3,12,4,6:27 AM,10:16,,,Odom Free Throw 2 of 2 (8 PTS),61 - 75,14
+0020000242,391,2,5,4,6:27 AM,10:03,MISS Pierce 2' Layup,,Rooks BLOCK (1 BLK),,
+0020000242,392,4,0,4,6:27 AM,10:00,,,Odom REBOUND (Off:0 Def:5),,
+0020000242,393,1,1,4,6:28 AM,9:51,,,Odom 17' Jump Shot (10 PTS),63 - 75,12
+0020000242,394,6,19,4,6:28 AM,9:48,,,Odom Taunting (P3.T0),,
+0020000242,395,3,16,4,6:28 AM,9:48,MISS Walker Free Throw Technical,,,,
+0020000242,396,4,1,4,6:28 AM,9:48,CELTICS Rebound,,,,
+0020000242,397,2,1,4,6:29 AM,9:34,MISS Potapenko 13' Jump Shot,,,,
+0020000242,398,4,0,4,6:29 AM,9:32,,,Odom REBOUND (Off:0 Def:6),,
+0020000242,399,5,1,4,6:29 AM,9:26,Pierce STEAL (1 STL),,Miles Bad Pass Turnover (P3.T18),,
+0020000242,400,5,2,4,6:29 AM,9:22,Potapenko Lost Ball Turnover (P2.T12),,,,
+0020000242,401,1,1,4,6:29 AM,9:09,,,Odom 25' 3PT Jump Shot (13 PTS) (Rooks 2 AST),66 - 75,9
+0020000242,403,9,1,4,6:29 AM,9:07,CELTICS Timeout: Regular (Full 4 Short 1),,,,
+0020000242,404,8,0,4,6:31 AM,9:07,SUB: Battie FOR Potapenko,,,,
+0020000242,405,8,0,4,6:31 AM,9:07,SUB: Stith FOR Williams,,,,
+0020000242,406,6,1,4,6:31 AM,9:03,,,McInnis P.FOUL (P3.T1),,
+0020000242,407,1,1,4,6:32 AM,8:49,Brown 20' Jump Shot (10 PTS) (Pierce 5 AST),,,66 - 77,11
+0020000242,408,2,1,4,6:33 AM,8:21,,,MISS McInnis 8' Jump Shot,,
+0020000242,409,4,0,4,6:33 AM,8:19,Walker REBOUND (Off:2 Def:8),,,,
+0020000242,410,2,1,4,6:33 AM,8:11,MISS Stith 26' 3PT Jump Shot,,,,
+0020000242,411,4,0,4,6:33 AM,8:09,,,Rooks REBOUND (Off:0 Def:3),,
+0020000242,412,6,1,4,6:33 AM,8:08,Brown P.FOUL (P5.T2),,,,
+0020000242,413,8,0,4,6:33 AM,8:08,,,SUB: Dooling FOR McInnis,,
+0020000242,414,8,0,4,6:33 AM,8:08,SUB: Overton FOR Brown,,,,
+0020000242,415,1,1,4,6:33 AM,8:03,,,Odom 19' Jump Shot (15 PTS) (Dooling 4 AST),68 - 77,9
+0020000242,416,2,1,4,6:34 AM,7:39,MISS Battie 5' Jump Shot,,,,
+0020000242,417,4,0,4,6:34 AM,7:37,,,Maggette REBOUND (Off:0 Def:4),,
+0020000242,418,1,42,4,6:34 AM,7:26,,,Dooling 2' Driving Layup (4 PTS),70 - 77,7
+0020000242,419,1,1,4,6:34 AM,7:06,Overton 17' Jump Shot (4 PTS) (Pierce 6 AST),,,70 - 79,9
+0020000242,420,2,1,4,6:34 AM,6:49,,,MISS Rooks 17' Jump Shot,,
+0020000242,421,4,0,4,6:34 AM,6:47,Overton REBOUND (Off:0 Def:3),,,,
+0020000242,422,2,5,4,6:35 AM,6:34,MISS Walker 3' Layup,,,,
+0020000242,423,4,0,4,6:35 AM,6:32,,,Rooks REBOUND (Off:0 Def:4),,
+0020000242,424,1,42,4,6:35 AM,6:26,,,Odom 1' Driving Layup (17 PTS) (Dooling 5 AST),72 - 79,7
+0020000242,425,6,2,4,6:35 AM,6:26,Battie S.FOUL (P4.T3),,,,
+0020000242,426,3,10,4,6:35 AM,6:26,,,MISS Odom Free Throw 1 of 1,,
+0020000242,427,4,0,4,6:35 AM,6:24,Battie REBOUND (Off:1 Def:7),,,,
+0020000242,428,1,1,4,6:36 AM,6:11,Battie 19' Jump Shot (6 PTS) (Overton 3 AST),,,72 - 81,9
+0020000242,429,9,1,4,6:36 AM,6:01,,,Clippers Timeout: Regular (Reg.4 Short 1),,
+0020000242,431,6,1,4,6:38 AM,5:51,Battie P.FOUL (P5.T4),,,,
+0020000242,432,3,11,4,6:38 AM,5:51,,,MISS Rooks Free Throw 1 of 2,,
+0020000242,433,4,1,4,6:38 AM,5:51,,,Clippers Rebound,,
+0020000242,434,3,12,4,6:39 AM,5:51,,,Rooks Free Throw 2 of 2 (6 PTS),73 - 81,8
+0020000242,435,2,1,4,6:39 AM,5:40,MISS Pierce 14' Jump Shot,,,,
+0020000242,436,4,0,4,6:39 AM,5:36,,,Maggette REBOUND (Off:0 Def:5),,
+0020000242,437,5,1,4,6:39 AM,5:33,,,Dooling Bad Pass Turnover (P2.T19),,
+0020000242,438,2,1,4,6:39 AM,5:21,MISS Battie 18' Jump Shot,,,,
+0020000242,439,4,0,4,6:39 AM,5:18,,,Rooks REBOUND (Off:0 Def:5),,
+0020000242,440,2,1,4,6:40 AM,5:08,,,MISS Odom 5' Jump Shot,,
+0020000242,441,4,0,4,6:40 AM,5:06,Overton REBOUND (Off:0 Def:4),,,,
+0020000242,442,2,1,4,6:40 AM,4:56,MISS Stith 7' Jump Shot,,,,
+0020000242,443,4,0,4,6:40 AM,4:54,,,Dooling REBOUND (Off:0 Def:2),,
+0020000242,444,2,1,4,6:40 AM,4:50,,,MISS Miles 9' Jump Shot,,
+0020000242,445,4,0,4,6:40 AM,4:48,Stith REBOUND (Off:0 Def:2),,,,
+0020000242,446,5,4,4,6:40 AM,4:29,Stith Traveling Turnover (P1.T13),,,,
+0020000242,447,9,1,4,6:40 AM,4:29,CELTICS Timeout: Regular (Full 5 Short 1),,,,
+0020000242,449,8,0,4,6:42 AM,4:29,,,SUB: Piatkowski FOR Miles,,
+0020000242,450,6,2,4,6:43 AM,4:17,Battie S.FOUL (P6.PN),,,,
+0020000242,451,8,0,4,6:43 AM,4:17,,,SUB: Miles FOR Piatkowski,,
+0020000242,452,8,0,4,6:43 AM,4:17,SUB: Potapenko FOR Battie,,,,
+0020000242,453,3,11,4,6:43 AM,4:17,,,MISS Maggette Free Throw 1 of 2,,
+0020000242,454,4,1,4,6:43 AM,4:17,,,Clippers Rebound,,
+0020000242,455,3,12,4,6:43 AM,4:17,,,Maggette Free Throw 2 of 2 (6 PTS),74 - 81,7
+0020000242,456,2,5,4,6:44 AM,3:54,MISS Pierce 1' Layup,,,,
+0020000242,457,4,0,4,6:44 AM,3:51,Walker REBOUND (Off:3 Def:8),,,,
+0020000242,458,1,5,4,6:44 AM,3:49,Walker 1' Layup (16 PTS),,,74 - 83,9
+0020000242,459,6,1,4,6:44 AM,3:37,Stith P.FOUL (P2.PN),,,,
+0020000242,460,3,11,4,6:44 AM,3:37,,,Maggette Free Throw 1 of 2 (7 PTS),75 - 83,8
+0020000242,461,3,12,4,6:45 AM,3:37,,,MISS Maggette Free Throw 2 of 2,,
+0020000242,462,4,0,4,6:45 AM,3:35,Walker REBOUND (Off:3 Def:9),,,,
+0020000242,463,5,1,4,6:45 AM,3:17,Pierce Bad Pass Turnover (P1.T14),,Odom STEAL (2 STL),,
+0020000242,464,1,8,4,6:45 AM,3:12,,,Miles 1' Slam Dunk (9 PTS) (Odom 4 AST),77 - 83,6
+0020000242,465,1,1,4,6:45 AM,2:51,Pierce  3PT Jump Shot (23 PTS) (Overton 4 AST),,,77 - 86,9
+0020000242,466,5,1,4,6:46 AM,2:32,Pierce STEAL (2 STL),,Dooling Bad Pass Turnover (P3.T20),,
+0020000242,467,6,4,4,6:46 AM,2:31,Overton OFF.Foul (P4),,,,
+0020000242,468,5,5,4,6:46 AM,2:31,Overton Foul Turnover (P4.T15),,,,
+0020000242,469,8,0,4,6:46 AM,2:31,SUB: Brown FOR Overton,,,,
+0020000242,470,9,1,4,6:46 AM,2:31,,,Clippers Timeout: Regular (Reg.5 Short 1),,
+0020000242,472,8,0,4,6:47 AM,2:31,,,SUB: Piatkowski FOR Miles,,
+0020000242,473,8,0,4,6:48 AM,2:31,,,SUB: McInnis FOR Dooling,,
+0020000242,474,6,1,4,6:48 AM,2:13,Potapenko P.FOUL (P3.PN),,,,
+0020000242,475,3,11,4,6:48 AM,2:13,,,Maggette Free Throw 1 of 2 (8 PTS),78 - 86,8
+0020000242,476,8,0,4,6:48 AM,2:13,,,SUB: Miles FOR Piatkowski,,
+0020000242,477,3,12,4,6:48 AM,2:13,,,Maggette Free Throw 2 of 2 (9 PTS),79 - 86,7
+0020000242,478,6,1,4,6:49 AM,1:57,,,Maggette P.FOUL (P4.T2),,
+0020000242,479,2,1,4,6:50 AM,1:43,MISS Pierce 27' 3PT Jump Shot,,,,
+0020000242,480,4,0,4,6:50 AM,1:39,,,Miles REBOUND (Off:2 Def:3),,
+0020000242,481,2,1,4,6:50 AM,1:30,,,MISS McInnis 26' 3PT Jump Shot,,
+0020000242,482,4,0,4,6:50 AM,1:26,Walker REBOUND (Off:3 Def:10),,,,
+0020000242,484,6,1,4,6:50 AM,1:24,,,Odom P.FOUL (P4.PN),,
+0020000242,485,3,11,4,6:50 AM,1:24,Walker Free Throw 1 of 2 (17 PTS),,,79 - 87,8
+0020000242,486,8,0,4,6:51 AM,1:24,,,SUB: Piatkowski FOR Miles,,
+0020000242,487,3,12,4,6:51 AM,1:24,MISS Walker Free Throw 2 of 2,,,,
+0020000242,488,4,0,4,6:51 AM,1:23,,,Odom REBOUND (Off:0 Def:7),,
+0020000242,489,6,1,4,6:51 AM,1:20,Brown P.FOUL (P6.PN),,,,
+0020000242,490,3,11,4,6:51 AM,1:20,,,Odom Free Throw 1 of 2 (18 PTS),80 - 87,7
+0020000242,491,8,0,4,6:52 AM,1:20,SUB: Overton FOR Brown,,,,
+0020000242,492,8,0,4,6:52 AM,1:20,,,SUB: Miles FOR Piatkowski,,
+0020000242,493,3,12,4,6:52 AM,1:20,,,Odom Free Throw 2 of 2 (19 PTS),81 - 87,6
+0020000242,494,1,1,4,6:52 AM,1:11,Stith 18' Jump Shot (18 PTS) (Potapenko 1 AST),,,81 - 89,8
+0020000242,496,9,1,4,6:52 AM,1:11,,,Clippers Timeout: Regular (Reg.6 Short 1),,
+0020000242,497,8,0,4,6:54 AM,1:11,,,SUB: Piatkowski FOR Miles,,
+0020000242,498,8,0,4,6:54 AM,1:11,SUB: Williams FOR Potapenko,,,,
+0020000242,499,1,42,4,6:54 AM,1:06,,,McInnis 2' Driving Layup (11 PTS),83 - 89,6
+0020000242,500,6,1,4,6:54 AM,1:06,,,McInnis P.FOUL (P4.PN),,
+0020000242,501,8,0,4,6:55 AM,1:06,,,SUB: Miles FOR Rooks,,
+0020000242,502,3,11,4,6:55 AM,1:06,Overton Free Throw 1 of 2 (5 PTS),,,83 - 90,7
+0020000242,503,3,12,4,6:55 AM,1:06,Overton Free Throw 2 of 2 (6 PTS),,,83 - 91,8
+0020000242,504,6,2,4,6:55 AM,0:56,Pierce S.FOUL (P2.PN),,,,
+0020000242,505,3,11,4,6:56 AM,0:56,,,Maggette Free Throw 1 of 2 (10 PTS),84 - 91,7
+0020000242,506,3,12,4,6:56 AM,0:56,,,Maggette Free Throw 2 of 2 (11 PTS),85 - 91,6
+0020000242,507,6,2,4,6:56 AM,0:50,,,Maggette S.FOUL (P5.PN),,
+0020000242,508,3,11,4,6:56 AM,0:50,Williams Free Throw 1 of 2 (5 PTS),,,85 - 92,7
+0020000242,509,3,12,4,6:57 AM,0:50,MISS Williams Free Throw 2 of 2,,,,
+0020000242,510,4,0,4,6:57 AM,0:48,Pierce REBOUND (Off:2 Def:5),,,,
+0020000242,511,5,2,4,6:57 AM,0:45,Pierce Lost Ball Turnover (P2.T16),,Odom STEAL (3 STL),,
+0020000242,512,5,2,4,6:57 AM,0:39,Pierce STEAL (3 STL),,Piatkowski Lost Ball Turnover (P2.T21),,
+0020000242,513,6,1,4,6:57 AM,0:39,,,Piatkowski P.FOUL (P2.PN),,
+0020000242,514,3,11,4,6:57 AM,0:39,Pierce Free Throw 1 of 2 (24 PTS),,,85 - 93,8
+0020000242,515,3,12,4,6:58 AM,0:39,Pierce Free Throw 2 of 2 (25 PTS),,,85 - 94,9
+0020000242,516,2,1,4,6:58 AM,0:35,,,MISS McInnis 29' 3PT Jump Shot,,
+0020000242,517,4,0,4,6:58 AM,0:31,Walker REBOUND (Off:3 Def:11),,,,
+0020000242,518,1,1,4,6:59 AM,0:12,Overton 13' Jump Shot (8 PTS),,,85 - 96,11
+0020000242,519,2,5,4,6:59 AM,0:04,,,MISS Miles 3' Layup,,
+0020000242,520,4,0,4,6:59 AM,0:04,,,Maggette REBOUND (Off:1 Def:5),,
+0020000242,521,1,4,4,6:59 AM,0:03,,,Maggette  Tip Shot (13 PTS),87 - 96,9
+0020000242,523,13,0,4,6:59 AM,0:00,,,,87 - 96,9

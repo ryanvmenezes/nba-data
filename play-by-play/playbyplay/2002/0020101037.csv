@@ -1,0 +1,497 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020101037,0,12,0,1,8:07 PM,12:00,,,,,
+0020101037,1,10,0,1,8:08 PM,12:00,Jump Ball Wallace vs. Foyle: Tip to Atkins,,,,
+0020101037,2,1,3,1,8:09 PM,11:48,Robinson 6' Hook Shot (2 PTS),,,0 - 2,2
+0020101037,3,5,1,1,8:09 PM,11:35,,,Arenas Bad Pass Turnover (P1.T1),,
+0020101037,4,2,1,1,8:10 PM,11:14,MISS Wallace 13' Jump Shot,,,,
+0020101037,5,4,0,1,8:10 PM,11:12,,,Foyle REBOUND (Off:0 Def:1),,
+0020101037,6,2,1,1,8:10 PM,10:56,Wallace BLOCK (1 BLK),,MISS Fortson 6' Jump Shot,,
+0020101037,7,4,0,1,8:10 PM,10:53,,,Warriors Rebound,,
+0020101037,8,2,1,1,8:11 PM,10:52,,,MISS Arenas 27' 3PT Jump Shot,,
+0020101037,9,4,0,1,8:11 PM,10:49,,,Foyle REBOUND (Off:1 Def:1),,
+0020101037,10,1,3,1,8:11 PM,10:47,,,Foyle 10' Hook Shot (2 PTS),2 - 2,TIE
+0020101037,11,2,1,1,8:11 PM,10:35,MISS Robinson 15' Jump Shot,,,,
+0020101037,12,4,0,1,8:11 PM,10:33,,,Foyle REBOUND (Off:1 Def:2),,
+0020101037,13,1,1,1,8:11 PM,10:23,,,Richardson 20' Jump Shot (2 PTS),4 - 2,-2
+0020101037,14,2,1,1,8:11 PM,10:05,MISS Curry 19' Jump Shot,,,,
+0020101037,15,4,0,1,8:11 PM,10:02,,,Fortson REBOUND (Off:0 Def:1),,
+0020101037,16,6,2,1,8:12 PM,9:59,Stackhouse S.FOUL (P1.T1),,,,
+0020101037,17,3,11,1,8:12 PM,9:59,,,Richardson Free Throw 1 of 2 (3 PTS),5 - 2,-3
+0020101037,18,3,12,1,8:12 PM,9:59,,,Richardson Free Throw 2 of 2 (4 PTS),6 - 2,-4
+0020101037,19,2,5,1,8:12 PM,9:51,MISS Robinson  Layup,,,,
+0020101037,20,4,0,1,8:12 PM,9:50,,,Fortson REBOUND (Off:0 Def:2),,
+0020101037,21,2,3,1,8:12 PM,9:43,,,MISS Jamison 9' Hook Shot,,
+0020101037,22,4,0,1,8:12 PM,9:41,Wallace REBOUND (Off:0 Def:1),,,,
+0020101037,23,2,5,1,8:13 PM,9:25,MISS Atkins  Layup,,,,
+0020101037,24,4,0,1,8:13 PM,9:24,,,Foyle REBOUND (Off:1 Def:3),,
+0020101037,25,5,1,1,8:13 PM,9:23,Wallace STEAL (1 STL),,Foyle Bad Pass Turnover (P1.T2),,
+0020101037,26,1,42,1,8:13 PM,9:19,Atkins  Driving Layup (2 PTS),,,6 - 4,-2
+0020101037,27,1,3,1,8:13 PM,9:09,,,Foyle 8' Hook Shot (4 PTS) (Richardson 1 AST),8 - 4,-4
+0020101037,28,2,1,1,8:13 PM,8:54,MISS Stackhouse 27' 3PT Jump Shot,,,,
+0020101037,29,4,0,1,8:13 PM,8:52,,,Fortson REBOUND (Off:0 Def:3),,
+0020101037,30,2,1,1,8:13 PM,8:41,,,MISS Richardson 14' Jump Shot,,
+0020101037,31,4,0,1,8:13 PM,8:38,Atkins REBOUND (Off:0 Def:1),,,,
+0020101037,32,1,7,1,8:14 PM,8:34,Stackhouse  Dunk (2 PTS) (Atkins 1 AST),,,8 - 6,-2
+0020101037,33,5,1,1,8:14 PM,8:17,,,Fortson Bad Pass Turnover (P1.T3),,
+0020101037,34,2,1,1,8:14 PM,8:02,MISS Robinson 17' Jump Shot,,,,
+0020101037,35,4,0,1,8:14 PM,8:01,,,Fortson REBOUND (Off:0 Def:4),,
+0020101037,36,1,5,1,8:14 PM,7:58,,,Richardson  Layup (6 PTS) (Fortson 1 AST),10 - 6,-4
+0020101037,37,6,2,1,8:15 PM,7:38,,,Jamison S.FOUL (P1.T1),,
+0020101037,38,3,11,1,8:15 PM,7:38,Stackhouse Free Throw 1 of 2 (3 PTS),,,10 - 7,-3
+0020101037,39,3,12,1,8:15 PM,7:38,Stackhouse Free Throw 2 of 2 (4 PTS),,,10 - 8,-2
+0020101037,40,2,1,1,8:16 PM,7:23,,,MISS Fortson 15' Jump Shot,,
+0020101037,41,4,0,1,8:16 PM,7:22,,,Warriors Rebound,,
+0020101037,42,6,3,1,8:16 PM,7:22,Wallace L.B.FOUL (P1.T2),,,,
+0020101037,43,2,1,1,8:16 PM,7:14,,,MISS Fortson 19' Jump Shot,,
+0020101037,44,4,0,1,8:16 PM,7:12,Wallace REBOUND (Off:0 Def:2),,,,
+0020101037,45,1,49,1,8:16 PM,7:06,Stackhouse  Driving Dunk (6 PTS),,,10 - 10,TIE
+0020101037,46,6,4,1,8:17 PM,6:48,,,Jamison OFF.Foul (P2),,
+0020101037,47,5,5,1,8:17 PM,6:48,,,Jamison Foul Turnover (P1.T4),,
+0020101037,48,8,0,1,8:17 PM,6:48,,,SUB: Mills FOR Jamison,,
+0020101037,49,6,1,1,8:17 PM,6:43,,,Richardson P.FOUL (P1.T2),,
+0020101037,50,1,46,1,8:18 PM,6:34,Robinson 7' Running Jump Shot (4 PTS) (Stackhouse 1 AST),,,10 - 12,2
+0020101037,51,2,1,1,8:18 PM,6:22,,,MISS Fortson 17' Jump Shot,,
+0020101037,52,4,0,1,8:18 PM,6:19,Stackhouse REBOUND (Off:0 Def:1),,,,
+0020101037,53,2,5,1,8:18 PM,6:14,MISS Robinson  Layup,,,,
+0020101037,54,4,0,1,8:18 PM,6:13,Robinson REBOUND (Off:1 Def:0),,,,
+0020101037,55,1,5,1,8:18 PM,6:11,Robinson  Layup (6 PTS),,,10 - 14,4
+0020101037,56,2,47,1,8:18 PM,5:45,,,MISS Foyle 13' Turnaround Jump Shot,,
+0020101037,57,4,0,1,8:18 PM,5:44,Wallace REBOUND (Off:0 Def:3),,,,
+0020101037,58,6,17,1,8:19 PM,5:32,,,Warriors T.Foul (Def. 3 Sec Fortson ),,
+0020101037,59,9,1,1,8:19 PM,5:32,PISTONS Timeout: Regular (Full 1 Short 0),,,,
+0020101037,61,8,0,1,8:21 PM,5:32,,,SUB: Murphy FOR Fortson,,
+0020101037,63,3,16,1,8:21 PM,5:32,Stackhouse Free Throw Technical (7 PTS),,,10 - 15,5
+0020101037,64,2,1,1,8:21 PM,5:20,MISS Stackhouse 15' Jump Shot,,,,
+0020101037,65,4,0,1,8:21 PM,5:18,,,Murphy REBOUND (Off:0 Def:1),,
+0020101037,66,1,1,1,8:21 PM,5:05,,,Mills 17' Jump Shot (2 PTS),12 - 15,3
+0020101037,67,1,42,1,8:22 PM,4:52,Atkins  Driving Layup (4 PTS),,,12 - 17,5
+0020101037,68,2,5,1,8:22 PM,4:44,,,MISS Arenas  Layup,,
+0020101037,69,4,0,1,8:22 PM,4:43,Wallace REBOUND (Off:0 Def:4),,,,
+0020101037,70,2,7,1,8:22 PM,4:39,MISS Stackhouse  Dunk,,Foyle BLOCK (1 BLK),,
+0020101037,71,4,0,1,8:22 PM,4:36,,,Murphy REBOUND (Off:0 Def:2),,
+0020101037,72,2,5,1,8:22 PM,4:17,,,MISS Murphy  Layup,,
+0020101037,73,4,0,1,8:22 PM,4:16,,,Foyle REBOUND (Off:2 Def:3),,
+0020101037,74,2,1,1,8:23 PM,4:13,,,MISS Richardson 26' 3PT Jump Shot,,
+0020101037,75,4,0,1,8:23 PM,4:12,,,Murphy REBOUND (Off:1 Def:2),,
+0020101037,76,1,1,1,8:23 PM,4:07,,,Mills 26' 3PT Jump Shot (5 PTS) (Arenas 1 AST),15 - 17,2
+0020101037,77,5,4,1,8:23 PM,3:50,Robinson Traveling Turnover (P1.T1),,,,
+0020101037,78,8,0,1,8:23 PM,3:50,,,SUB: Sura FOR Arenas,,
+0020101037,79,1,5,1,8:24 PM,3:30,,,Foyle  Layup (6 PTS) (Sura 1 AST),17 - 17,TIE
+0020101037,80,2,1,1,8:24 PM,3:15,MISS Atkins  3PT Jump Shot,,,,
+0020101037,81,4,0,1,8:24 PM,3:12,,,Richardson REBOUND (Off:0 Def:1),,
+0020101037,82,1,42,1,8:24 PM,3:05,,,Murphy  Driving Layup (2 PTS),19 - 17,-2
+0020101037,83,1,1,1,8:24 PM,2:44,Robinson 24' 3PT Jump Shot (9 PTS) (Curry 1 AST),,,19 - 20,1
+0020101037,84,2,1,1,8:25 PM,2:16,Wallace BLOCK (2 BLK),,MISS Sura 15' Jump Shot,,
+0020101037,85,4,0,1,8:25 PM,2:15,PISTONS Rebound,,,,
+0020101037,86,9,1,1,8:25 PM,2:15,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020101037,88,8,0,1,8:27 PM,2:15,SUB: Williamson FOR Curry,,,,
+0020101037,89,8,0,1,8:27 PM,2:15,SUB: Rebraca FOR Robinson,,,,
+0020101037,90,8,0,1,8:27 PM,2:15,,,SUB: Dampier FOR Foyle,,
+0020101037,91,5,1,1,8:27 PM,1:56,Stackhouse Bad Pass Turnover (P1.T2),,Dampier STEAL (1 STL),,
+0020101037,92,1,63,1,8:28 PM,1:34,,,Mills 18' Fadeaway Jumper (7 PTS),21 - 20,-1
+0020101037,93,1,51,1,8:28 PM,1:12,Rebraca  Reverse Dunk (2 PTS) (Stackhouse 2 AST),,,21 - 22,1
+0020101037,94,2,1,1,8:28 PM,1:03,,,MISS Murphy 17' Jump Shot,,
+0020101037,95,4,0,1,8:28 PM,1:00,Wallace REBOUND (Off:0 Def:5),,,,
+0020101037,96,6,2,1,8:28 PM,0:55,,,Murphy S.FOUL (P1.T3),,
+0020101037,97,3,11,1,8:29 PM,0:55,Rebraca Free Throw 1 of 2 (3 PTS),,,21 - 23,2
+0020101037,98,8,0,1,8:29 PM,0:55,SUB: Barry FOR Stackhouse,,,,
+0020101037,99,3,12,1,8:29 PM,0:55,Rebraca Free Throw 2 of 2 (4 PTS),,,21 - 24,3
+0020101037,100,1,1,1,8:29 PM,0:44,,,Richardson 18' Jump Shot (8 PTS),23 - 24,1
+0020101037,101,6,4,1,8:30 PM,0:40,Atkins OFF.Foul (P1),,,,
+0020101037,102,5,5,1,8:30 PM,0:40,Atkins Foul Turnover (P1.T3),,,,
+0020101037,103,1,1,1,8:30 PM,0:31,,,Sura 28' 3PT Jump Shot (3 PTS),26 - 24,-2
+0020101037,104,2,3,1,8:30 PM,0:11,MISS Wallace 7' Hook Shot,,,,
+0020101037,105,4,0,1,8:30 PM,0:09,Atkins REBOUND (Off:1 Def:1),,,,
+0020101037,106,2,1,1,8:30 PM,0:07,MISS Atkins 29' 3PT Jump Shot,,,,
+0020101037,107,4,0,1,8:30 PM,0:06,PISTONS Rebound,,,,
+0020101037,108,5,11,1,8:30 PM,0:06,PISTONS Turnover: Shot Clock (T#4),,,,
+0020101037,109,8,0,1,8:31 PM,0:06,SUB: Jones FOR Atkins,,,,
+0020101037,110,6,1,1,8:31 PM,0:04,Jones P.FOUL (P1.T3),,,,
+0020101037,111,5,1,1,8:31 PM,0:00,Williamson STEAL (1 STL),,Mills Bad Pass Turnover (P1.T5),,
+0020101037,112,13,0,1,8:31 PM,0:00,,,,26 - 24,-2
+0020101037,114,12,0,2,8:34 PM,12:00,,,,26 - 24,-2
+0020101037,115,6,1,2,8:34 PM,11:51,Rebraca P.FOUL (P1.T1),,,,
+0020101037,116,2,1,2,8:35 PM,11:42,,,MISS Richardson 18' Jump Shot,,
+0020101037,117,4,0,2,8:35 PM,11:41,,,Murphy REBOUND (Off:2 Def:2),,
+0020101037,118,1,4,2,8:35 PM,11:38,,,Murphy  Tip Shot (4 PTS),28 - 24,-4
+0020101037,119,6,1,2,8:35 PM,11:28,,,Murphy P.FOUL (P2.T1),,
+0020101037,120,1,47,2,8:35 PM,11:20,Williamson 8' Turnaround Jump Shot (2 PTS),,,28 - 26,-2
+0020101037,121,1,3,2,8:36 PM,11:03,,,Dampier 6' Hook Shot (2 PTS) (Sura 2 AST),30 - 26,-4
+0020101037,122,1,1,2,8:36 PM,10:48,Williamson 10' Jump Shot (4 PTS) (Barry 1 AST),,,30 - 28,-2
+0020101037,123,1,1,2,8:36 PM,10:26,,,Murphy 16' Jump Shot (6 PTS) (Sura 3 AST),32 - 28,-4
+0020101037,124,6,2,2,8:37 PM,10:06,,,Dampier S.FOUL (P1.T2),,
+0020101037,125,3,11,2,8:37 PM,10:06,MISS Rebraca Free Throw 1 of 2,,,,
+0020101037,126,4,1,2,8:37 PM,10:06,PISTONS Rebound,,,,
+0020101037,127,8,0,2,8:37 PM,10:06,,,SUB: Arenas FOR Richardson,,
+0020101037,128,8,0,2,8:37 PM,10:06,SUB: Robinson FOR Wallace,,,,
+0020101037,129,3,12,2,8:37 PM,10:06,Rebraca Free Throw 2 of 2 (5 PTS),,,32 - 29,-3
+0020101037,130,1,42,2,8:38 PM,9:53,,,Sura  Driving Layup (5 PTS) (Mills 1 AST),34 - 29,-5
+0020101037,131,2,3,2,8:38 PM,9:37,MISS Rebraca 8' Hook Shot,,,,
+0020101037,132,4,0,2,8:38 PM,9:34,,,Murphy REBOUND (Off:2 Def:3),,
+0020101037,133,1,3,2,8:38 PM,9:27,,,Dampier 9' Hook Shot (4 PTS) (Murphy 1 AST),36 - 29,-7
+0020101037,134,9,1,2,8:38 PM,9:18,PISTONS Timeout: Regular (Full 2 Short 0),,,,
+0020101037,136,1,1,2,8:41 PM,9:08,Williamson 18' Jump Shot (6 PTS) (Barry 2 AST),,,36 - 31,-5
+0020101037,137,1,3,2,8:41 PM,8:51,,,Dampier 7' Hook Shot (6 PTS) (Arenas 2 AST),38 - 31,-7
+0020101037,138,1,5,2,8:42 PM,8:29,Jones  Layup (2 PTS) (Barry 3 AST),,,38 - 33,-5
+0020101037,139,6,2,2,8:42 PM,8:29,,,Murphy S.FOUL (P3.T3),,
+0020101037,141,8,0,2,8:42 PM,8:29,,,SUB: Jamison FOR Murphy,,
+0020101037,142,8,0,2,8:42 PM,8:29,,,SUB: Fortson FOR Mills,,
+0020101037,143,8,0,2,8:42 PM,8:29,SUB: Stackhouse FOR Rebraca,,,,
+0020101037,144,3,10,2,8:42 PM,8:29,Jones Free Throw 1 of 1 (3 PTS),,,38 - 34,-4
+0020101037,145,1,42,2,8:43 PM,8:18,,,Sura  Driving Layup (7 PTS),40 - 34,-6
+0020101037,146,1,1,2,8:43 PM,7:55,Williamson 12' Jump Shot (8 PTS),,,40 - 36,-4
+0020101037,147,5,1,2,8:43 PM,7:37,Williamson STEAL (2 STL),,Sura Bad Pass Turnover (P1.T6),,
+0020101037,148,2,1,2,8:43 PM,7:28,MISS Jones 25' 3PT Jump Shot,,,,
+0020101037,149,4,0,2,8:43 PM,7:27,PISTONS Rebound,,,,
+0020101037,150,2,5,2,8:44 PM,7:20,MISS Stackhouse  Layup,,,,
+0020101037,151,4,0,2,8:44 PM,7:18,Stackhouse REBOUND (Off:1 Def:1),,,,
+0020101037,152,1,4,2,8:44 PM,7:17,Stackhouse  Tip Shot (9 PTS),,,40 - 38,-2
+0020101037,153,1,7,2,8:44 PM,7:07,,,Dampier  Dunk (8 PTS) (Fortson 2 AST),42 - 38,-4
+0020101037,154,1,44,2,8:44 PM,6:52,Williamson  Reverse Layup (10 PTS),,,42 - 40,-2
+0020101037,155,2,1,2,8:45 PM,6:34,,,MISS Jamison 28' 3PT Jump Shot,,
+0020101037,156,4,0,2,8:45 PM,6:33,,,Warriors Rebound,,
+0020101037,157,1,5,2,8:45 PM,6:31,,,Fortson  Layup (2 PTS) (Jamison 1 AST),44 - 40,-4
+0020101037,158,1,1,2,8:45 PM,6:16,Barry 27' 3PT Jump Shot (3 PTS),,,44 - 43,-1
+0020101037,159,2,1,2,8:45 PM,6:00,,,MISS Fortson 9' Jump Shot,,
+0020101037,160,4,0,2,8:46 PM,5:59,,,Sura REBOUND (Off:1 Def:0),,
+0020101037,161,5,1,2,8:46 PM,5:48,Jones STEAL (1 STL),,Fortson Bad Pass Turnover (P2.T7),,
+0020101037,162,5,1,2,8:46 PM,5:44,Jones Bad Pass Turnover (P1.T5),,,,
+0020101037,163,9,3,2,8:46 PM,5:44,,,,,
+0020101037,165,2,5,2,8:48 PM,5:27,Robinson BLOCK (1 BLK),,MISS Fortson  Layup,,
+0020101037,166,4,0,2,8:48 PM,5:25,,,Fortson REBOUND (Off:1 Def:4),,
+0020101037,167,2,5,2,8:48 PM,5:23,,,MISS Fortson  Layup,,
+0020101037,168,4,0,2,8:49 PM,5:22,,,Fortson REBOUND (Off:2 Def:4),,
+0020101037,169,1,5,2,8:49 PM,5:21,,,Fortson  Layup (4 PTS),46 - 43,-3
+0020101037,202,6,2,2,8:49 PM,5:21,Robinson S.FOUL (P1.T2),,,,
+0020101037,170,3,10,2,8:49 PM,5:21,,,Fortson Free Throw 1 of 1 (5 PTS),47 - 43,-4
+0020101037,171,2,1,2,8:49 PM,5:06,MISS Williamson 14' Jump Shot,,,,
+0020101037,172,4,0,2,8:49 PM,5:05,,,Fortson REBOUND (Off:2 Def:5),,
+0020101037,173,1,1,2,8:49 PM,4:54,,,Sura 28' 3PT Jump Shot (10 PTS),50 - 43,-7
+0020101037,174,2,5,2,8:50 PM,4:39,MISS Williamson  Layup,,,,
+0020101037,175,4,0,2,8:50 PM,4:38,Williamson REBOUND (Off:1 Def:0),,,,
+0020101037,176,6,1,2,8:50 PM,4:38,,,Dampier P.FOUL (P2.T4),,
+0020101037,177,8,0,2,8:50 PM,4:38,SUB: Wallace FOR Williamson,,,,
+0020101037,178,8,0,2,8:50 PM,4:38,,,SUB: Richardson FOR Sura,,
+0020101037,179,1,49,2,8:50 PM,4:28,Stackhouse  Driving Dunk (11 PTS),,,50 - 45,-5
+0020101037,180,8,0,2,8:51 PM,4:20,SUB: Atkins FOR Jones,,,,
+0020101037,181,8,0,2,8:51 PM,4:20,SUB: Curry FOR Barry,,,,
+0020101037,182,5,1,2,8:51 PM,4:20,Atkins STEAL (1 STL),,Jamison Bad Pass Turnover (P2.T8),,
+0020101037,183,6,2,2,8:51 PM,4:18,,,Arenas S.FOUL (P1.PN),,
+0020101037,184,3,11,2,8:51 PM,4:18,MISS Atkins Free Throw 1 of 2,,,,
+0020101037,185,4,1,2,8:51 PM,4:18,PISTONS Rebound,,,,
+0020101037,186,3,12,2,8:51 PM,4:18,Atkins Free Throw 2 of 2 (5 PTS),,,50 - 46,-4
+0020101037,187,6,2,2,8:52 PM,4:04,Robinson S.FOUL (P2.T3),,,,
+0020101037,188,3,11,2,8:52 PM,4:04,,,Dampier Free Throw 1 of 2 (9 PTS),51 - 46,-5
+0020101037,189,3,12,2,8:52 PM,4:04,,,Dampier Free Throw 2 of 2 (10 PTS),52 - 46,-6
+0020101037,190,1,1,2,8:53 PM,3:46,Atkins 25' 3PT Jump Shot (8 PTS) (Robinson 1 AST),,,52 - 49,-3
+0020101037,191,6,17,2,8:53 PM,3:34,PISTONS T.Foul (Def. 3 Sec Curry ),,,,
+0020101037,192,3,16,2,8:53 PM,3:34,,,Arenas Free Throw Technical (1 PTS),53 - 49,-4
+0020101037,193,2,1,2,8:54 PM,3:27,,,MISS Jamison 21' Jump Shot,,
+0020101037,194,4,0,2,8:54 PM,3:25,Stackhouse REBOUND (Off:1 Def:2),,,,
+0020101037,195,1,5,2,8:54 PM,3:22,Curry  Layup (2 PTS) (Stackhouse 3 AST),,,53 - 51,-2
+0020101037,196,5,1,2,8:54 PM,3:12,Robinson STEAL (1 STL),,Arenas Bad Pass Turnover (P2.T9),,
+0020101037,197,6,2,2,8:55 PM,3:00,,,Dampier S.FOUL (P3.PN),,
+0020101037,198,3,11,2,8:55 PM,3:00,Stackhouse Free Throw 1 of 2 (12 PTS),,,53 - 52,-1
+0020101037,199,3,12,2,8:55 PM,3:00,Stackhouse Free Throw 2 of 2 (13 PTS),,,53 - 53,TIE
+0020101037,200,9,1,2,8:55 PM,2:55,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020101037,203,8,0,2,8:57 PM,2:55,,,SUB: Sura FOR Arenas,,
+0020101037,205,6,2,2,8:58 PM,2:40,Wallace S.FOUL (P2.T4),,,,
+0020101037,206,3,11,2,8:58 PM,2:40,,,Fortson Free Throw 1 of 2 (6 PTS),54 - 53,-1
+0020101037,207,3,12,2,8:58 PM,2:40,,,Fortson Free Throw 2 of 2 (7 PTS),55 - 53,-2
+0020101037,208,2,5,2,8:58 PM,2:35,MISS Stackhouse  Layup,,,,
+0020101037,209,4,0,2,8:59 PM,2:34,,,Dampier REBOUND (Off:0 Def:1),,
+0020101037,210,2,1,2,8:59 PM,2:22,,,MISS Fortson 18' Jump Shot,,
+0020101037,211,4,0,2,8:59 PM,2:20,Robinson REBOUND (Off:1 Def:1),,,,
+0020101037,212,1,1,2,8:59 PM,2:09,Robinson 26' 3PT Jump Shot (12 PTS) (Curry 2 AST),,,55 - 56,1
+0020101037,213,2,1,2,8:59 PM,1:53,,,MISS Jamison 19' Jump Shot,,
+0020101037,214,4,0,2,8:59 PM,1:52,Stackhouse REBOUND (Off:1 Def:3),,,,
+0020101037,215,5,1,2,8:59 PM,1:47,Curry Bad Pass Turnover (P1.T6),,Richardson STEAL (1 STL),,
+0020101037,216,6,4,2,8:59 PM,1:45,,,Richardson OFF.Foul (P2),,
+0020101037,217,5,5,2,8:59 PM,1:45,,,Richardson Foul Turnover (P1.T10),,
+0020101037,218,8,0,2,9:00 PM,1:45,,,SUB: Foyle FOR Dampier,,
+0020101037,219,2,5,2,9:00 PM,1:34,MISS Atkins  Layup,,,,
+0020101037,220,4,0,2,9:00 PM,1:32,,,Foyle REBOUND (Off:2 Def:4),,
+0020101037,221,1,7,2,9:00 PM,1:27,,,Richardson  Dunk (10 PTS) (Sura 4 AST),57 - 56,-1
+0020101037,222,2,1,2,9:00 PM,1:02,MISS Robinson 17' Jump Shot,,,,
+0020101037,223,4,0,2,9:00 PM,1:00,,,Fortson REBOUND (Off:2 Def:6),,
+0020101037,224,2,1,2,9:01 PM,0:50,,,MISS Fortson 17' Jump Shot,,
+0020101037,225,4,0,2,9:01 PM,0:49,,,Jamison REBOUND (Off:1 Def:0),,
+0020101037,226,1,5,2,9:01 PM,0:48,,,Jamison  Layup (2 PTS),59 - 56,-3
+0020101037,228,9,2,2,9:01 PM,0:43,PISTONS Timeout: Short (Full 2 Short 1),,,,
+0020101037,229,5,1,2,9:02 PM,0:39,Curry Bad Pass Turnover (P2.T7),,Richardson STEAL (2 STL),,
+0020101037,230,1,3,2,9:02 PM,0:31,,,Jamison 8' Hook Shot (4 PTS) (Sura 5 AST),61 - 56,-5
+0020101037,231,6,1,2,9:02 PM,0:18,,,Jamison P.FOUL (P3.PN),,
+0020101037,232,8,0,2,9:02 PM,0:18,,,SUB: Mills FOR Jamison,,
+0020101037,233,3,11,2,9:02 PM,0:18,Stackhouse Free Throw 1 of 2 (14 PTS),,,61 - 57,-4
+0020101037,234,3,12,2,9:03 PM,0:18,MISS Stackhouse Free Throw 2 of 2,,,,
+0020101037,235,4,0,2,9:03 PM,0:17,,,Fortson REBOUND (Off:2 Def:7),,
+0020101037,236,6,1,2,9:03 PM,0:03,Curry P.FOUL (P1.PN),,,,
+0020101037,237,3,11,2,9:03 PM,0:03,,,MISS Mills Free Throw 1 of 2,,
+0020101037,238,4,1,2,9:03 PM,0:03,,,Warriors Rebound,,
+0020101037,239,8,0,2,9:04 PM,0:03,SUB: Barry FOR Curry,,,,
+0020101037,240,8,0,2,9:04 PM,0:03,,,SUB: Arenas FOR Richardson,,
+0020101037,241,3,12,2,9:04 PM,0:03,,,MISS Mills Free Throw 2 of 2,,
+0020101037,242,4,0,2,9:04 PM,0:02,Barry REBOUND (Off:0 Def:1),,,,
+0020101037,243,13,0,2,9:04 PM,0:00,,,,61 - 57,-4
+0020101037,245,12,0,3,9:20 PM,12:00,,,,61 - 57,-4
+0020101037,246,6,2,3,9:21 PM,11:46,Curry S.FOUL (P2.T1),,,,
+0020101037,247,3,11,3,9:21 PM,11:46,,,MISS Jamison Free Throw 1 of 2,,
+0020101037,248,4,1,3,9:21 PM,11:46,,,Warriors Rebound,,
+0020101037,249,3,12,3,9:21 PM,11:46,,,MISS Jamison Free Throw 2 of 2,,
+0020101037,250,4,0,3,9:21 PM,11:46,PISTONS Rebound,,,,
+0020101037,251,6,3,3,9:21 PM,11:46,,,Fortson L.B.FOUL (P1.T1),,
+0020101037,252,1,7,3,9:22 PM,11:32,Curry  Dunk (4 PTS) (Robinson 2 AST),,,61 - 59,-2
+0020101037,253,2,5,3,9:22 PM,11:21,,,MISS Fortson  Layup,,
+0020101037,254,4,0,3,9:22 PM,11:20,,,Foyle REBOUND (Off:3 Def:4),,
+0020101037,255,2,4,3,9:22 PM,11:19,,,MISS Foyle  Tip Shot,,
+0020101037,256,4,0,3,9:22 PM,11:18,,,Fortson REBOUND (Off:3 Def:7),,
+0020101037,257,1,1,3,9:22 PM,11:06,,,Arenas 25' 3PT Jump Shot (4 PTS) (Jamison 2 AST),64 - 59,-5
+0020101037,258,1,1,3,9:23 PM,10:44,Robinson 15' Jump Shot (14 PTS),,,64 - 61,-3
+0020101037,259,2,3,3,9:23 PM,10:23,,,MISS Foyle 9' Hook Shot,,
+0020101037,260,4,0,3,9:23 PM,10:20,Wallace REBOUND (Off:0 Def:6),,,,
+0020101037,261,2,1,3,9:23 PM,10:11,MISS Curry 18' Jump Shot,,,,
+0020101037,262,4,0,3,9:23 PM,10:10,PISTONS Rebound,,,,
+0020101037,263,1,42,3,9:24 PM,10:04,Stackhouse  Driving Layup (16 PTS) (Atkins 2 AST),,,64 - 63,-1
+0020101037,264,1,1,3,9:24 PM,9:45,,,Richardson 26' 3PT Jump Shot (13 PTS) (Fortson 3 AST),67 - 63,-4
+0020101037,265,2,1,3,9:24 PM,9:30,MISS Stackhouse 10' Jump Shot,,Richardson BLOCK (1 BLK),,
+0020101037,266,4,0,3,9:24 PM,9:26,Stackhouse REBOUND (Off:2 Def:3),,,,
+0020101037,267,2,1,3,9:24 PM,9:25,MISS Atkins 27' 3PT Jump Shot,,,,
+0020101037,268,4,0,3,9:24 PM,9:23,,,Richardson REBOUND (Off:0 Def:2),,
+0020101037,269,2,5,3,9:24 PM,9:21,Wallace BLOCK (3 BLK),,MISS Foyle  Layup,,
+0020101037,270,4,0,3,9:24 PM,9:20,,,Warriors Rebound,,
+0020101037,271,1,1,3,9:25 PM,9:18,,,Arenas 18' Jump Shot (6 PTS) (Jamison 3 AST),69 - 63,-6
+0020101037,272,2,1,3,9:25 PM,8:59,MISS Robinson 19' Jump Shot,,Fortson BLOCK (1 BLK),,
+0020101037,273,4,0,3,9:25 PM,8:57,,,Foyle REBOUND (Off:3 Def:5),,
+0020101037,274,1,1,3,9:25 PM,8:51,,,Arenas 20' Jump Shot (8 PTS),71 - 63,-8
+0020101037,275,9,1,3,9:25 PM,8:48,PISTONS Timeout: Regular (Full 3 Short 1),,,,
+0020101037,277,2,1,3,9:28 PM,8:34,MISS Robinson 7' Jump Shot,,Jamison BLOCK (1 BLK),,
+0020101037,278,4,0,3,9:28 PM,8:30,,,Fortson REBOUND (Off:3 Def:8),,
+0020101037,279,1,5,3,9:28 PM,8:28,,,Jamison  Layup (6 PTS) (Arenas 3 AST),73 - 63,-10
+0020101037,280,1,1,3,9:28 PM,8:08,Atkins 27' 3PT Jump Shot (11 PTS) (Curry 3 AST),,,73 - 66,-7
+0020101037,281,6,1,3,9:28 PM,7:48,Stackhouse P.FOUL (P2.T2),,,,
+0020101037,282,5,4,3,9:29 PM,7:42,,,Fortson Traveling Turnover (P3.T11),,
+0020101037,283,2,1,3,9:29 PM,7:25,MISS Curry 22' Jump Shot,,,,
+0020101037,284,4,0,3,9:29 PM,7:23,,,Warriors Rebound,,
+0020101037,285,2,1,3,9:29 PM,7:11,,,MISS Richardson 29' 3PT Jump Shot,,
+0020101037,286,4,0,3,9:30 PM,7:08,Wallace REBOUND (Off:0 Def:7),,,,
+0020101037,287,2,1,3,9:30 PM,7:03,MISS Robinson 27' 3PT Jump Shot,,,,
+0020101037,288,4,0,3,9:30 PM,7:01,Curry REBOUND (Off:1 Def:0),,,,
+0020101037,289,1,4,3,9:30 PM,7:00,Curry  Tip Shot (6 PTS),,,73 - 68,-5
+0020101037,290,2,1,3,9:30 PM,6:40,,,MISS Jamison 18' Jump Shot,,
+0020101037,291,4,0,3,9:30 PM,6:37,Wallace REBOUND (Off:0 Def:8),,,,
+0020101037,292,2,1,3,9:30 PM,6:25,MISS Atkins 12' Jump Shot,,,,
+0020101037,293,4,0,3,9:30 PM,6:23,Wallace REBOUND (Off:1 Def:8),,,,
+0020101037,294,1,7,3,9:30 PM,6:22,Wallace  Dunk (2 PTS),,,73 - 70,-3
+0020101037,295,9,1,3,9:30 PM,6:22,,,Warriors Timeout: Regular (Reg.3 Short 0),,
+0020101037,297,5,2,3,9:33 PM,6:03,,,Foyle Lost Ball Turnover (P2.T12),,
+0020101037,298,1,42,3,9:33 PM,5:54,Atkins  Driving Layup (13 PTS),,,73 - 72,-1
+0020101037,299,2,3,3,9:33 PM,5:42,,,MISS Jamison 6' Hook Shot,,
+0020101037,300,4,0,3,9:33 PM,5:39,Wallace REBOUND (Off:1 Def:9),,,,
+0020101037,301,2,1,3,9:33 PM,5:35,MISS Atkins 26' 3PT Jump Shot,,,,
+0020101037,302,4,0,3,9:33 PM,5:33,,,Foyle REBOUND (Off:3 Def:6),,
+0020101037,303,2,5,3,9:34 PM,5:22,,,MISS Fortson  Layup,,
+0020101037,304,4,0,3,9:34 PM,5:21,,,Jamison REBOUND (Off:2 Def:0),,
+0020101037,305,2,1,3,9:34 PM,5:12,,,MISS Arenas 28' 3PT Jump Shot,,
+0020101037,306,4,0,3,9:34 PM,5:12,PISTONS Rebound,,,,
+0020101037,307,6,14,3,9:34 PM,5:12,,,Fortson FLAGRANT.FOUL.TYPE1 (P2.T2),,
+0020101037,313,8,0,3,9:34 PM,5:12,,,SUB: Sura FOR Arenas,,
+0020101037,308,3,18,3,9:34 PM,5:12,MISS Wallace Free Throw Flagrant 1 of 2,,,,
+0020101037,309,4,1,3,9:34 PM,5:12,PISTONS Rebound,,,,
+0020101037,310,3,19,3,9:34 PM,5:12,MISS Wallace Free Throw Flagrant 2 of 2,,,,
+0020101037,311,4,1,3,9:34 PM,5:12,PISTONS Rebound,,,,
+0020101037,312,1,46,3,9:35 PM,5:03,Atkins 9' Running Jump Shot (15 PTS),,,73 - 74,1
+0020101037,314,6,2,3,9:36 PM,4:38,Stackhouse S.FOUL (P3.T3),,,,
+0020101037,315,3,11,3,9:36 PM,4:38,,,Sura Free Throw 1 of 2 (11 PTS),74 - 74,TIE
+0020101037,316,3,12,3,9:36 PM,4:38,,,Sura Free Throw 2 of 2 (12 PTS),75 - 74,-1
+0020101037,317,2,1,3,9:36 PM,4:27,MISS Atkins 19' Jump Shot,,,,
+0020101037,318,4,0,3,9:36 PM,4:25,Atkins REBOUND (Off:2 Def:1),,,,
+0020101037,319,2,1,3,9:37 PM,4:23,MISS Atkins 18' Jump Shot,,,,
+0020101037,320,4,0,3,9:37 PM,4:21,,,Fortson REBOUND (Off:3 Def:9),,
+0020101037,321,2,5,3,9:37 PM,4:13,,,MISS Sura  Layup,,
+0020101037,322,4,0,3,9:37 PM,4:12,Wallace REBOUND (Off:1 Def:10),,,,
+0020101037,323,1,1,3,9:37 PM,4:06,Atkins  3PT Jump Shot (18 PTS) (Stackhouse 4 AST),,,75 - 77,2
+0020101037,324,9,2,3,9:37 PM,3:57,,,Warriors Timeout: Short (Reg.3 Short 1),,
+0020101037,326,1,1,3,9:38 PM,3:44,,,Fortson 14' Jump Shot (9 PTS) (Sura 6 AST),77 - 77,TIE
+0020101037,327,6,1,3,9:38 PM,3:28,,,Sura P.FOUL (P1.T3),,
+0020101037,328,2,1,3,9:39 PM,3:22,MISS Curry 25' 3PT Jump Shot,,,,
+0020101037,329,4,0,3,9:39 PM,3:20,,,Foyle REBOUND (Off:3 Def:7),,
+0020101037,330,1,1,3,9:39 PM,3:13,,,Sura 27' 3PT Jump Shot (15 PTS),80 - 77,-3
+0020101037,331,2,1,3,9:39 PM,2:51,MISS Atkins 19' Jump Shot,,,,
+0020101037,332,4,0,3,9:39 PM,2:49,,,Fortson REBOUND (Off:3 Def:10),,
+0020101037,333,6,2,3,9:40 PM,2:41,Curry S.FOUL (P3.T4),,,,
+0020101037,334,8,0,3,9:40 PM,2:41,,,SUB: Murphy FOR Fortson,,
+0020101037,335,3,11,3,9:40 PM,2:41,,,MISS Foyle Free Throw 1 of 2,,
+0020101037,336,4,1,3,9:40 PM,2:41,,,Warriors Rebound,,
+0020101037,337,8,0,3,9:40 PM,2:41,SUB: Williamson FOR Curry,,,,
+0020101037,338,8,0,3,9:40 PM,2:41,SUB: Barry FOR Stackhouse,,,,
+0020101037,339,3,12,3,9:40 PM,2:41,,,MISS Foyle Free Throw 2 of 2,,
+0020101037,340,4,0,3,9:40 PM,2:41,Wallace REBOUND (Off:1 Def:11),,,,
+0020101037,341,2,3,3,9:41 PM,2:23,MISS Robinson 6' Hook Shot,,,,
+0020101037,342,4,0,3,9:41 PM,2:18,Wallace REBOUND (Off:2 Def:11),,,,
+0020101037,343,2,4,3,9:41 PM,2:16,MISS Wallace  Tip Shot,,,,
+0020101037,344,4,0,3,9:41 PM,2:14,,,Foyle REBOUND (Off:3 Def:8),,
+0020101037,345,6,4,3,9:41 PM,2:11,,,Richardson OFF.Foul (P3),,
+0020101037,346,5,5,3,9:41 PM,2:11,,,Richardson Foul Turnover (P2.T13),,
+0020101037,347,8,0,3,9:41 PM,2:11,,,SUB: Dampier FOR Foyle,,
+0020101037,348,8,0,3,9:41 PM,2:11,SUB: Rebraca FOR Robinson,,,,
+0020101037,349,2,1,3,9:42 PM,1:59,MISS Williamson 14' Jump Shot,,,,
+0020101037,350,4,0,3,9:42 PM,1:57,,,Sura REBOUND (Off:1 Def:1),,
+0020101037,351,2,5,3,9:42 PM,1:55,,,MISS Richardson  Layup,,
+0020101037,352,4,0,3,9:42 PM,1:54,Barry REBOUND (Off:0 Def:2),,,,
+0020101037,353,5,8,3,9:42 PM,1:37,Rebraca 3 Second Violation Turnover (P1.T8),,,,
+0020101037,354,2,5,3,9:42 PM,1:26,,,MISS Sura  Layup,,
+0020101037,355,4,0,3,9:42 PM,1:24,Wallace REBOUND (Off:2 Def:12),,,,
+0020101037,356,1,1,3,9:42 PM,1:15,Barry  3PT Jump Shot (6 PTS),,,80 - 80,TIE
+0020101037,357,2,1,3,9:43 PM,0:50,,,MISS Richardson 17' Jump Shot,,
+0020101037,358,4,0,3,9:43 PM,0:48,Wallace REBOUND (Off:2 Def:13),,,,
+0020101037,359,1,5,3,9:43 PM,0:43,Rebraca  Layup (7 PTS) (Williamson 1 AST),,,80 - 82,2
+0020101037,363,6,2,3,9:43 PM,0:43,,,Dampier S.FOUL (P4.T4),,
+0020101037,360,3,10,3,9:43 PM,0:43,Rebraca Free Throw 1 of 1 (8 PTS),,,80 - 83,3
+0020101037,364,6,1,3,9:44 PM,0:36,Atkins P.FOUL (P2.PN),,,,
+0020101037,365,8,0,3,9:44 PM,0:36,SUB: Jones FOR Atkins,,,,
+0020101037,366,3,11,3,9:44 PM,0:36,,,Sura Free Throw 1 of 2 (16 PTS),81 - 83,2
+0020101037,367,3,12,3,9:44 PM,0:36,,,MISS Sura Free Throw 2 of 2,,
+0020101037,368,4,0,3,9:44 PM,0:35,Wallace REBOUND (Off:2 Def:14),,,,
+0020101037,369,2,1,3,9:45 PM,0:17,MISS Jones 24' 3PT Jump Shot,,Dampier BLOCK (1 BLK),,
+0020101037,370,4,0,3,9:45 PM,0:14,PISTONS Rebound,,,,
+0020101037,371,8,0,3,9:45 PM,0:13,SUB: Atkins FOR Wallace,,,,
+0020101037,372,8,0,3,9:46 PM,0:13,,,SUB: Arenas FOR Jamison,,
+0020101037,373,8,0,3,9:46 PM,0:13,SUB: Wallace FOR Atkins,,,,
+0020101037,374,5,11,3,9:47 PM,0:12,PISTONS Turnover: Shot Clock (T#9),,,,
+0020101037,375,8,0,3,9:47 PM,0:12,,,SUB: Jamison FOR Dampier,,
+0020101037,376,1,1,3,9:47 PM,0:00,,,Jamison 27' 3PT Jump Shot (9 PTS) (Sura 7 AST),84 - 83,-1
+0020101037,377,13,0,3,9:47 PM,0:00,,,,84 - 83,-1
+0020101037,379,12,0,4,9:50 PM,12:00,,,,84 - 83,-1
+0020101037,381,2,1,4,9:50 PM,11:46,MISS Williamson 7' Jump Shot,,,,
+0020101037,382,4,0,4,9:50 PM,11:44,,,Sura REBOUND (Off:1 Def:2),,
+0020101037,383,2,1,4,9:50 PM,11:38,,,MISS Dampier 15' Jump Shot,,
+0020101037,384,4,0,4,9:50 PM,11:37,Wallace REBOUND (Off:2 Def:15),,,,
+0020101037,385,6,1,4,9:50 PM,11:37,,,Sura P.FOUL (P2.T1),,
+0020101037,386,1,52,4,9:51 PM,11:24,Wallace  Alley Oop Dunk (4 PTS) (Barry 4 AST),,,84 - 85,1
+0020101037,387,1,1,4,9:51 PM,10:58,,,Murphy 21' Jump Shot (8 PTS) (Dampier 1 AST),86 - 85,-1
+0020101037,388,2,1,4,9:51 PM,10:37,MISS Rebraca 7' Jump Shot,,,,
+0020101037,389,4,0,4,9:51 PM,10:35,,,Murphy REBOUND (Off:2 Def:4),,
+0020101037,390,2,1,4,9:52 PM,10:27,,,MISS Mills 24' 3PT Jump Shot,,
+0020101037,391,4,0,4,9:52 PM,10:25,Rebraca REBOUND (Off:0 Def:1),,,,
+0020101037,392,2,3,4,9:52 PM,10:07,MISS Rebraca 9' Hook Shot,,,,
+0020101037,393,4,0,4,9:52 PM,10:04,,,Murphy REBOUND (Off:2 Def:5),,
+0020101037,394,2,5,4,9:52 PM,10:00,,,MISS Arenas  Layup,,
+0020101037,395,4,0,4,9:52 PM,9:58,,,Mills REBOUND (Off:1 Def:0),,
+0020101037,396,2,5,4,9:52 PM,9:57,Williamson BLOCK (1 BLK),,MISS Mills  Layup,,
+0020101037,397,4,0,4,9:52 PM,9:54,Wallace REBOUND (Off:2 Def:16),,,,
+0020101037,398,5,8,4,9:52 PM,9:48,Rebraca 3 Second Violation Turnover (P2.T10),,,,
+0020101037,399,6,1,4,9:53 PM,9:35,Rebraca P.FOUL (P2.T1),,,,
+0020101037,400,8,0,4,9:53 PM,9:35,SUB: Robinson FOR Wallace,,,,
+0020101037,401,1,5,4,9:53 PM,9:24,,,Dampier  Layup (12 PTS) (Sura 8 AST),88 - 85,-3
+0020101037,402,6,2,4,9:54 PM,9:10,,,Mills S.FOUL (P1.T2),,
+0020101037,403,3,11,4,9:54 PM,9:10,Jones Free Throw 1 of 2 (4 PTS),,,88 - 86,-2
+0020101037,404,3,12,4,9:54 PM,9:10,Jones Free Throw 2 of 2 (5 PTS),,,88 - 87,-1
+0020101037,405,5,1,4,9:54 PM,8:50,Jones STEAL (2 STL),,Arenas Bad Pass Turnover (P3.T14),,
+0020101037,406,6,1,4,9:55 PM,8:47,,,Mills P.FOUL (P2.T3),,
+0020101037,407,9,3,4,9:55 PM,8:47,,,,,
+0020101037,409,2,1,4,9:57 PM,8:37,MISS Williamson 9' Jump Shot,,,,
+0020101037,410,4,0,4,9:57 PM,8:36,Rebraca REBOUND (Off:1 Def:1),,,,
+0020101037,411,1,5,4,9:57 PM,8:35,Rebraca  Layup (10 PTS),,,88 - 89,1
+0020101037,412,6,2,4,9:57 PM,8:35,,,Arenas S.FOUL (P2.T4),,
+0020101037,413,3,10,4,9:57 PM,8:35,Rebraca Free Throw 1 of 1 (11 PTS),,,88 - 90,2
+0020101037,414,2,1,4,9:58 PM,8:18,,,MISS Sura 28' 3PT Jump Shot,,
+0020101037,415,4,0,4,9:58 PM,8:15,Rebraca REBOUND (Off:1 Def:2),,,,
+0020101037,416,5,1,4,9:58 PM,8:01,Jones Bad Pass Turnover (P2.T11),,Arenas STEAL (1 STL),,
+0020101037,417,2,1,4,9:58 PM,7:48,,,MISS Murphy 17' Jump Shot,,
+0020101037,418,4,0,4,9:58 PM,7:47,Rebraca REBOUND (Off:1 Def:3),,,,
+0020101037,419,2,1,4,9:58 PM,7:42,MISS Barry 25' 3PT Jump Shot,,,,
+0020101037,420,4,0,4,9:58 PM,7:40,,,Arenas REBOUND (Off:0 Def:1),,
+0020101037,421,1,5,4,9:58 PM,7:34,,,Sura  Layup (18 PTS) (Arenas 4 AST),90 - 90,TIE
+0020101037,422,1,1,4,9:59 PM,7:19,Barry 24' 3PT Jump Shot (9 PTS) (Jones 1 AST),,,90 - 93,3
+0020101037,423,1,1,4,9:59 PM,6:58,,,Mills 24' 3PT Jump Shot (10 PTS) (Arenas 5 AST),93 - 93,TIE
+0020101037,424,1,1,4,10:00 PM,6:33,Williamson 7' Jump Shot (12 PTS) (Barry 5 AST),,,93 - 95,2
+0020101037,425,6,4,4,10:00 PM,6:19,,,Dampier OFF.Foul (P5),,
+0020101037,426,5,5,4,10:00 PM,6:19,,,Dampier Foul Turnover (P1.T15),,
+0020101037,427,8,0,4,10:00 PM,6:19,SUB: Wallace FOR Rebraca,,,,
+0020101037,428,8,0,4,10:00 PM,6:19,,,SUB: Fortson FOR Murphy,,
+0020101037,429,8,0,4,10:00 PM,6:19,,,SUB: Foyle FOR Dampier,,
+0020101037,430,6,1,4,10:00 PM,6:07,,,Arenas P.FOUL (P3.PN),,
+0020101037,431,8,0,4,10:01 PM,6:07,,,SUB: Richardson FOR Arenas,,
+0020101037,432,3,11,4,10:01 PM,6:07,Wallace Free Throw 1 of 2 (5 PTS),,,93 - 96,3
+0020101037,433,3,12,4,10:01 PM,6:07,MISS Wallace Free Throw 2 of 2,,,,
+0020101037,434,4,0,4,10:01 PM,6:07,,,Fortson REBOUND (Off:3 Def:11),,
+0020101037,435,2,1,4,10:02 PM,5:49,,,MISS Richardson 28' 3PT Jump Shot,,
+0020101037,436,4,0,4,10:02 PM,5:47,,,Foyle REBOUND (Off:4 Def:8),,
+0020101037,437,5,8,4,10:02 PM,5:30,,,Fortson 3 Second Violation Turnover (P4.T16),,
+0020101037,438,9,1,4,10:02 PM,5:30,PISTONS Timeout: Regular (Full 4 Short 1),,,,
+0020101037,440,2,1,4,10:04 PM,5:11,MISS Barry 26' 3PT Jump Shot,,,,
+0020101037,441,4,0,4,10:04 PM,5:09,Williamson REBOUND (Off:2 Def:0),,,,
+0020101037,442,6,1,4,10:05 PM,4:59,,,Foyle P.FOUL (P1.PN),,
+0020101037,443,3,11,4,10:05 PM,4:59,Williamson Free Throw 1 of 2 (13 PTS),,,93 - 97,4
+0020101037,444,3,12,4,10:05 PM,4:59,Williamson Free Throw 2 of 2 (14 PTS),,,93 - 98,5
+0020101037,445,2,1,4,10:06 PM,4:40,,,MISS Mills 15' Jump Shot,,
+0020101037,446,4,0,4,10:06 PM,4:38,Barry REBOUND (Off:0 Def:3),,,,
+0020101037,447,2,3,4,10:06 PM,4:21,MISS Williamson 9' Hook Shot,,Foyle BLOCK (2 BLK),,
+0020101037,448,4,0,4,10:06 PM,4:20,,,Warriors Rebound,,
+0020101037,449,9,1,4,10:06 PM,4:20,,,Warriors Timeout: Regular (Reg.4 Short 1),,
+0020101037,451,8,0,4,10:08 PM,4:20,,,SUB: Jamison FOR Mills,,
+0020101037,452,8,0,4,10:08 PM,4:20,,,SUB: Dampier FOR Foyle,,
+0020101037,453,8,0,4,10:08 PM,4:20,SUB: Atkins FOR Jones,,,,
+0020101037,454,8,0,4,10:09 PM,4:20,SUB: Stackhouse FOR Barry,,,,
+0020101037,455,1,3,4,10:09 PM,4:01,,,Dampier 9' Hook Shot (14 PTS),95 - 98,3
+0020101037,456,2,1,4,10:09 PM,3:45,MISS Stackhouse 19' Jump Shot,,,,
+0020101037,457,4,0,4,10:09 PM,3:43,Wallace REBOUND (Off:3 Def:16),,,,
+0020101037,458,6,2,4,10:09 PM,3:42,,,Jamison S.FOUL (P4.PN),,
+0020101037,459,3,11,4,10:09 PM,3:42,Williamson Free Throw 1 of 2 (15 PTS),,,95 - 99,4
+0020101037,465,3,12,4,10:09 PM,3:42,MISS Williamson Free Throw 2 of 2,,,,
+0020101037,463,4,0,4,10:10 PM,3:41,,,Dampier REBOUND (Off:0 Def:2),,
+0020101037,464,6,1,4,10:10 PM,3:41,Robinson P.FOUL (P3.T2),,,,
+0020101037,466,2,5,4,10:10 PM,3:22,,,MISS Fortson  Layup,,
+0020101037,467,4,0,4,10:10 PM,3:21,Wallace REBOUND (Off:3 Def:17),,,,
+0020101037,468,2,3,4,10:11 PM,3:08,MISS Robinson 11' Hook Shot,,,,
+0020101037,469,4,0,4,10:11 PM,3:06,,,Fortson REBOUND (Off:3 Def:12),,
+0020101037,470,5,1,4,10:11 PM,3:05,,,Fortson Bad Pass Turnover (P5.T17),,
+0020101037,471,6,2,4,10:11 PM,2:49,,,Fortson S.FOUL (P3.PN),,
+0020101037,472,8,0,4,10:12 PM,2:49,,,SUB: Mills FOR Fortson,,
+0020101037,473,3,11,4,10:12 PM,2:49,Williamson Free Throw 1 of 2 (16 PTS),,,95 - 100,5
+0020101037,474,3,12,4,10:12 PM,2:49,Williamson Free Throw 2 of 2 (17 PTS),,,95 - 101,6
+0020101037,475,6,2,4,10:12 PM,2:35,Robinson S.FOUL (P4.T3),,,,
+0020101037,476,3,11,4,10:13 PM,2:35,,,MISS Sura Free Throw 1 of 2,,
+0020101037,477,4,1,4,10:13 PM,2:35,,,Warriors Rebound,,
+0020101037,478,3,12,4,10:13 PM,2:35,,,Sura Free Throw 2 of 2 (19 PTS),96 - 101,5
+0020101037,479,5,2,4,10:13 PM,2:17,Robinson Lost Ball Turnover (P2.T12),,Jamison STEAL (1 STL),,
+0020101037,480,2,1,4,10:13 PM,2:10,,,MISS Mills 19' Jump Shot,,
+0020101037,481,4,0,4,10:13 PM,2:07,,,Sura REBOUND (Off:2 Def:2),,
+0020101037,482,5,3,4,10:14 PM,2:05,,,Sura Out Of Bounds Turnover (P2.T18),,
+0020101037,483,2,1,4,10:14 PM,1:43,MISS Stackhouse 18' Jump Shot,,,,
+0020101037,484,4,0,4,10:14 PM,1:42,Williamson REBOUND (Off:3 Def:0),,,,
+0020101037,485,1,4,4,10:14 PM,1:41,Williamson  Tip Shot (19 PTS),,,96 - 103,7
+0020101037,486,9,1,4,10:15 PM,1:41,,,Warriors Timeout: Regular (Reg.5 Short 1),,
+0020101037,488,6,2,4,10:16 PM,1:33,Williamson S.FOUL (P1.T4),,,,
+0020101037,489,3,11,4,10:16 PM,1:33,,,Sura Free Throw 1 of 2 (20 PTS),97 - 103,6
+0020101037,491,8,0,4,10:17 PM,1:33,,,SUB: Foyle FOR Dampier,,
+0020101037,492,3,12,4,10:17 PM,1:33,,,Sura Free Throw 2 of 2 (21 PTS),98 - 103,5
+0020101037,493,1,42,4,10:17 PM,1:13,Stackhouse  Driving Layup (18 PTS),,,98 - 105,7
+0020101037,494,2,5,4,10:17 PM,1:05,,,MISS Richardson  Layup,,
+0020101037,495,4,0,4,10:17 PM,1:03,Wallace REBOUND (Off:3 Def:18),,,,
+0020101037,496,6,1,4,10:18 PM,0:47,,,Mills P.FOUL (P3.PN),,
+0020101037,497,3,11,4,10:18 PM,0:47,MISS Stackhouse Free Throw 1 of 2,,,,
+0020101037,498,4,1,4,10:18 PM,0:47,PISTONS Rebound,,,,
+0020101037,499,3,12,4,10:18 PM,0:47,Stackhouse Free Throw 2 of 2 (19 PTS),,,98 - 106,8
+0020101037,500,9,1,4,10:18 PM,0:47,,,Warriors Timeout: Regular (Reg.6 Short 1),,
+0020101037,502,8,0,4,10:20 PM,0:47,,,SUB: Arenas FOR Foyle,,
+0020101037,504,6,2,4,10:20 PM,0:40,Wallace S.FOUL (P3.PN),,,,
+0020101037,505,3,11,4,10:20 PM,0:40,,,Jamison Free Throw 1 of 2 (10 PTS),99 - 106,7
+0020101037,507,8,0,4,10:21 PM,0:40,SUB: Barry FOR Wallace,,,,
+0020101037,509,8,0,4,10:21 PM,0:40,SUB: Curry FOR Williamson,,,,
+0020101037,508,3,12,4,10:21 PM,0:40,,,Jamison Free Throw 2 of 2 (11 PTS),100 - 106,6
+0020101037,510,9,2,4,10:21 PM,0:40,PISTONS Timeout: Short (Full 4 Short 2),,,,
+0020101037,514,6,1,4,10:22 PM,0:40,,,Sura P.FOUL (P3.PN),,
+0020101037,515,3,11,4,10:22 PM,0:40,Barry Free Throw 1 of 2 (10 PTS),,,100 - 107,7
+0020101037,516,3,12,4,10:22 PM,0:40,Barry Free Throw 2 of 2 (11 PTS),,,100 - 108,8
+0020101037,517,2,1,4,10:23 PM,0:36,,,MISS Sura 27' 3PT Jump Shot,,
+0020101037,518,4,0,4,10:23 PM,0:34,Stackhouse REBOUND (Off:2 Def:4),,,,
+0020101037,519,6,1,4,10:23 PM,0:34,,,Jamison P.FOUL (P5.PN),,
+0020101037,520,3,11,4,10:23 PM,0:34,Stackhouse Free Throw 1 of 2 (20 PTS),,,100 - 109,9
+0020101037,521,3,12,4,10:23 PM,0:34,Stackhouse Free Throw 2 of 2 (21 PTS),,,100 - 110,10
+0020101037,522,1,1,4,10:24 PM,0:29,,,Richardson 28' 3PT Jump Shot (16 PTS),103 - 110,7
+0020101037,523,2,1,4,10:24 PM,0:06,MISS Stackhouse 27' 3PT Jump Shot,,,,
+0020101037,524,4,0,4,10:24 PM,0:04,,,Mills REBOUND (Off:1 Def:1),,
+0020101037,525,2,1,4,10:25 PM,0:01,,,MISS Jamison 31' 3PT Jump Shot,,
+0020101037,526,4,0,4,10:25 PM,0:00,,,Warriors Rebound,,
+0020101037,527,13,0,4,10:25 PM,0:00,,,,103 - 110,7

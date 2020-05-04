@@ -1,0 +1,426 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100041,2,12,0,1,8:41 PM,12:00,,,,,
+0020100041,3,10,0,1,8:42 PM,12:00,Jump Ball Cato vs. Garnett: Tip to Thomas,,,,
+0020100041,22,2,45,1,8:42 PM,11:38,MISS Thomas 19' Jump Shot,,,,
+0020100041,4,4,0,1,8:42 PM,11:38,,,Brandon REBOUND (Off:0 Def:1),,
+0020100041,5,1,1,1,8:42 PM,11:30,,,Garnett 6' Jump Shot (2 PTS) (Brandon 1 AST),2 - 0,-2
+0020100041,6,5,1,1,8:43 PM,11:15,Francis Bad Pass Turnover (P1.T1),,Szczerbiak STEAL (1 STL),,
+0020100041,7,2,1,1,8:43 PM,11:07,,,MISS Szczerbiak 13' Jump Shot,,
+0020100041,8,4,0,1,8:43 PM,11:04,,,Timberwolves Rebound,,
+0020100041,9,1,1,1,8:43 PM,10:53,,,Nesterovic 18' Jump Shot (2 PTS) (Smith 1 AST),4 - 0,-4
+0020100041,10,6,2,1,8:44 PM,10:37,,,Smith S.FOUL (P1.T1),,
+0020100041,11,3,11,1,8:44 PM,10:37,Thomas Free Throw 1 of 2 (1 PTS),,,4 - 1,-3
+0020100041,12,3,12,1,8:44 PM,10:37,Thomas Free Throw 2 of 2 (2 PTS),,,4 - 2,-2
+0020100041,13,1,3,1,8:45 PM,10:24,,,Garnett 7' Hook Shot (4 PTS) (Szczerbiak 1 AST),6 - 2,-4
+0020100041,14,2,1,1,8:45 PM,10:07,MISS Thomas 17' Jump Shot,,,,
+0020100041,15,4,0,1,8:45 PM,10:05,ROCKETS Rebound,,,,
+0020100041,16,2,1,1,8:45 PM,10:01,MISS Mobley 16' Jump Shot,,,,
+0020100041,17,4,0,1,8:45 PM,9:59,,,Nesterovic REBOUND (Off:0 Def:1),,
+0020100041,18,6,1,1,8:45 PM,9:51,Rice P.FOUL (P1.T1),,,,
+0020100041,19,2,47,1,8:46 PM,9:37,,,MISS Garnett 14' Turnaround Jump Shot,,
+0020100041,20,4,0,1,8:46 PM,9:35,Cato REBOUND (Off:0 Def:1),,,,
+0020100041,21,5,8,1,8:46 PM,9:18,Cato 3 Second Violation Turnover (P1.T2),,,,
+0020100041,23,1,46,1,8:47 PM,9:09,,,Brandon 9' Running Jump Shot (2 PTS) (Garnett 1 AST),8 - 2,-6
+0020100041,24,2,47,1,8:47 PM,8:48,MISS Cato 8' Turnaround Jump Shot,,Nesterovic BLOCK (1 BLK),,
+0020100041,25,4,0,1,8:47 PM,8:46,,,Nesterovic REBOUND (Off:0 Def:2),,
+0020100041,26,2,1,1,8:47 PM,8:34,,,MISS Garnett 18' Jump Shot,,
+0020100041,27,4,0,1,8:47 PM,8:32,Cato REBOUND (Off:0 Def:2),,,,
+0020100041,28,5,1,1,8:47 PM,8:25,Mobley Bad Pass Turnover (P1.T3),,Nesterovic STEAL (1 STL),,
+0020100041,29,5,1,1,8:47 PM,8:18,Thomas STEAL (1 STL),,Brandon Bad Pass Turnover (P1.T1),,
+0020100041,30,1,42,1,8:48 PM,8:13,Francis  Driving Layup (2 PTS) (Mobley 1 AST),,,8 - 4,-4
+0020100041,31,6,2,1,8:48 PM,8:13,,,Smith S.FOUL (P2.T2),,
+0020100041,33,8,0,1,8:48 PM,8:13,,,SUB: Peeler FOR Smith,,
+0020100041,34,3,10,1,8:48 PM,8:13,Francis Free Throw 1 of 1 (3 PTS),,,8 - 5,-3
+0020100041,35,1,7,1,8:48 PM,8:07,,,Garnett  Dunk (6 PTS) (Szczerbiak 2 AST),10 - 5,-5
+0020100041,36,6,2,1,8:48 PM,8:07,Cato S.FOUL (P1.T2),,,,
+0020100041,37,3,10,1,8:49 PM,8:07,,,Garnett Free Throw 1 of 1 (7 PTS),11 - 5,-6
+0020100041,38,2,1,1,8:49 PM,7:54,MISS Rice 25' 3PT Jump Shot,,,,
+0020100041,39,4,0,1,8:49 PM,7:52,ROCKETS Rebound,,,,
+0020100041,40,2,1,1,8:50 PM,7:36,MISS Francis 19' Jump Shot,,,,
+0020100041,41,4,0,1,8:50 PM,7:34,,,Nesterovic REBOUND (Off:0 Def:3),,
+0020100041,42,2,1,1,8:50 PM,7:10,,,MISS Garnett 17' Jump Shot,,
+0020100041,43,4,0,1,8:50 PM,7:08,,,Timberwolves Rebound,,
+0020100041,44,6,3,1,8:50 PM,7:08,Cato L.B.FOUL (P2.T3),,,,
+0020100041,45,8,0,1,8:51 PM,7:08,SUB: Willis FOR Cato,,,,
+0020100041,46,1,1,1,8:51 PM,6:57,,,Garnett 18' Jump Shot (9 PTS) (Brandon 2 AST),13 - 5,-8
+0020100041,47,5,1,1,8:51 PM,6:40,Rice Bad Pass Turnover (P1.T4),,Garnett STEAL (1 STL),,
+0020100041,48,5,1,1,8:51 PM,6:35,Francis STEAL (1 STL),,Garnett Bad Pass Turnover (P1.T2),,
+0020100041,49,2,1,1,8:52 PM,6:31,MISS Mobley 21' Jump Shot,,,,
+0020100041,50,4,0,1,8:52 PM,6:29,,,Brandon REBOUND (Off:0 Def:2),,
+0020100041,51,2,42,1,8:52 PM,6:09,,,MISS Peeler  Driving Layup,,
+0020100041,52,4,0,1,8:52 PM,6:07,Willis REBOUND (Off:0 Def:1),,,,
+0020100041,53,6,1,1,8:52 PM,6:01,,,Peeler P.FOUL (P1.T3),,
+0020100041,54,9,1,1,8:52 PM,6:01,ROCKETS Timeout: Regular (Full 1 Short 0),,,,
+0020100041,58,1,42,1,8:55 PM,5:53,Mobley  Driving Layup (2 PTS),,,13 - 7,-6
+0020100041,59,1,1,1,8:55 PM,5:40,,,Brandon 18' Jump Shot (4 PTS),15 - 7,-8
+0020100041,60,2,1,1,8:55 PM,5:26,MISS Mobley 16' Jump Shot,,,,
+0020100041,61,4,0,1,8:55 PM,5:24,Willis REBOUND (Off:1 Def:1),,,,
+0020100041,62,1,5,1,8:55 PM,5:23,Willis  Layup (2 PTS),,,15 - 9,-6
+0020100041,63,1,7,1,8:55 PM,5:09,,,Garnett  Dunk (11 PTS),17 - 9,-8
+0020100041,64,1,1,1,8:56 PM,4:39,Francis 24' 3PT Jump Shot (6 PTS) (Mobley 2 AST),,,17 - 12,-5
+0020100041,65,1,46,1,8:56 PM,4:18,,,Brandon 9' Running Jump Shot (6 PTS),19 - 12,-7
+0020100041,66,2,1,1,8:57 PM,4:00,MISS Francis 20' Jump Shot,,,,
+0020100041,67,4,0,1,8:57 PM,3:58,,,Peeler REBOUND (Off:0 Def:1),,
+0020100041,68,2,1,1,8:57 PM,3:53,,,MISS Brandon 26' 3PT Jump Shot,,
+0020100041,69,4,0,1,8:57 PM,3:51,Willis REBOUND (Off:1 Def:2),,,,
+0020100041,70,1,1,1,8:57 PM,3:45,Mobley 25' 3PT Jump Shot (5 PTS),,,19 - 15,-4
+0020100041,71,1,52,1,8:57 PM,3:29,,,Garnett  Alley Oop Dunk (13 PTS) (Brandon 3 AST),21 - 15,-6
+0020100041,72,2,1,1,8:58 PM,3:04,MISS Willis 11' Jump Shot,,,,
+0020100041,74,4,0,1,8:58 PM,3:02,Thomas REBOUND (Off:1 Def:0),,,,
+0020100041,73,2,53,1,8:58 PM,3:02,MISS Thomas  Tip Shot,,,,
+0020100041,75,4,0,1,8:58 PM,2:59,,,Szczerbiak REBOUND (Off:0 Def:1),,
+0020100041,76,1,5,1,8:58 PM,2:53,,,Garnett  Layup (15 PTS) (Peeler 1 AST),23 - 15,-8
+0020100041,77,1,44,1,8:58 PM,2:27,Francis  Reverse Layup (8 PTS),,,23 - 17,-6
+0020100041,78,2,47,1,8:59 PM,2:05,,,MISS Garnett 12' Turnaround Jump Shot,,
+0020100041,79,4,0,1,8:59 PM,2:03,Thomas REBOUND (Off:1 Def:1),,,,
+0020100041,80,2,1,1,8:59 PM,1:56,MISS Francis 17' Jump Shot,,,,
+0020100041,81,4,0,1,8:59 PM,1:54,,,Garnett REBOUND (Off:0 Def:1),,
+0020100041,82,2,42,1,8:59 PM,1:47,,,MISS Brandon  Driving Layup,,
+0020100041,83,4,0,1,8:59 PM,1:45,Willis REBOUND (Off:1 Def:3),,,,
+0020100041,84,2,1,1,8:59 PM,1:34,MISS Willis 18' Jump Shot,,,,
+0020100041,85,4,0,1,8:59 PM,1:32,,,Garnett REBOUND (Off:0 Def:2),,
+0020100041,86,9,1,1,8:59 PM,1:26,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,
+0020100041,88,8,0,1,9:01 PM,1:26,,,SUB: Woods FOR Garnett,,
+0020100041,89,8,0,1,9:01 PM,1:26,,,SUB: Trent FOR Nesterovic,,
+0020100041,91,1,46,1,9:02 PM,1:12,,,Peeler 13' Running Jump Shot (2 PTS),25 - 17,-8
+0020100041,92,6,4,1,9:02 PM,0:59,Willis OFF.Foul (P1),,,,
+0020100041,93,5,5,1,9:02 PM,0:59,Willis Foul Turnover (P1.T5),,,,
+0020100041,94,1,1,1,9:02 PM,0:50,,,Szczerbiak 16' Jump Shot (2 PTS) (Brandon 4 AST),27 - 17,-10
+0020100041,95,2,42,1,9:03 PM,0:26,MISS Francis  Driving Layup,,,,
+0020100041,96,4,0,1,9:03 PM,0:23,,,Trent REBOUND (Off:0 Def:1),,
+0020100041,97,1,1,1,9:03 PM,0:04,,,Brandon 19' Jump Shot (8 PTS),29 - 17,-12
+0020100041,98,6,1,1,9:03 PM,0:01,,,Peeler P.FOUL (P2.T4),,
+0020100041,99,2,1,1,9:04 PM,0:00,MISS Thomas 26' 3PT Jump Shot,,,,
+0020100041,100,4,0,1,9:04 PM,0:00,ROCKETS Rebound,,,,
+0020100041,101,13,0,1,9:04 PM,0:00,,,,29 - 17,-12
+0020100041,103,12,0,2,9:06 PM,12:00,,,,29 - 17,-12
+0020100041,104,2,1,2,9:07 PM,11:43,,,MISS Trent 7' Jump Shot,,
+0020100041,105,4,0,2,9:07 PM,11:41,Griffin REBOUND (Off:0 Def:1),,,,
+0020100041,106,2,1,2,9:07 PM,11:28,MISS Mobley 13' Jump Shot,,,,
+0020100041,107,4,0,2,9:07 PM,11:25,,,Woods REBOUND (Off:0 Def:1),,
+0020100041,108,2,42,2,9:07 PM,11:21,,,MISS Trent  Driving Layup,,
+0020100041,109,4,0,2,9:07 PM,11:19,Willis REBOUND (Off:1 Def:4),,,,
+0020100041,110,6,2,2,9:07 PM,11:15,,,Billups S.FOUL (P1.T1),,
+0020100041,111,3,11,2,9:07 PM,11:15,Norris Free Throw 1 of 2 (1 PTS),,,29 - 18,-11
+0020100041,112,3,12,2,9:08 PM,11:15,MISS Norris Free Throw 2 of 2,,,,
+0020100041,113,4,0,2,9:08 PM,11:15,,,Trent REBOUND (Off:0 Def:2),,
+0020100041,114,2,1,2,9:08 PM,11:03,,,MISS Szczerbiak 12' Jump Shot,,
+0020100041,115,4,0,2,9:08 PM,11:01,Willis REBOUND (Off:1 Def:5),,,,
+0020100041,116,2,47,2,9:08 PM,10:44,MISS Williams 15' Turnaround Jump Shot,,,,
+0020100041,117,4,0,2,9:08 PM,10:42,,,Billups REBOUND (Off:0 Def:1),,
+0020100041,118,1,5,2,9:09 PM,10:36,,,Trent  Layup (2 PTS),31 - 18,-13
+0020100041,119,2,1,2,9:09 PM,10:07,MISS Willis  Jump Shot,,,,
+0020100041,120,4,0,2,9:09 PM,10:05,Willis REBOUND (Off:2 Def:5),,,,
+0020100041,121,2,1,2,9:09 PM,10:03,MISS Willis  Jump Shot,,,,
+0020100041,122,4,0,2,9:09 PM,10:01,,,Woods REBOUND (Off:0 Def:2),,
+0020100041,123,2,1,2,9:09 PM,9:47,,,MISS Peeler 18' Jump Shot,,
+0020100041,124,4,0,2,9:09 PM,9:45,Griffin REBOUND (Off:0 Def:2),,,,
+0020100041,125,1,7,2,9:09 PM,9:37,Willis  Dunk (4 PTS) (Williams 1 AST),,,31 - 20,-11
+0020100041,126,1,1,2,9:10 PM,9:19,,,Szczerbiak 17' Jump Shot (4 PTS) (Peeler 2 AST),33 - 20,-13
+0020100041,127,6,1,2,9:10 PM,9:00,,,Szczerbiak P.FOUL (P1.T2),,
+0020100041,128,8,0,2,9:10 PM,9:00,,,SUB: Garnett FOR Szczerbiak,,
+0020100041,129,1,1,2,9:11 PM,8:49,Griffin 26' 3PT Jump Shot (3 PTS) (Norris 1 AST),,,33 - 23,-10
+0020100041,130,2,1,2,9:11 PM,8:36,,,MISS Woods 17' Jump Shot,,
+0020100041,131,4,0,2,9:11 PM,8:35,,,Garnett REBOUND (Off:1 Def:2),,
+0020100041,132,2,1,2,9:11 PM,8:34,,,MISS Garnett 6' Jump Shot,,
+0020100041,133,4,0,2,9:11 PM,8:33,,,Trent REBOUND (Off:1 Def:2),,
+0020100041,134,2,5,2,9:11 PM,8:32,,,MISS Trent  Layup,,
+0020100041,136,4,0,2,9:11 PM,8:31,,,Trent REBOUND (Off:2 Def:2),,
+0020100041,135,9,4,2,9:11 PM,8:30,,,,,
+0020100041,138,8,0,2,9:13 PM,8:30,SUB: Francis FOR Mobley,,,,
+0020100041,139,2,1,2,9:14 PM,8:25,,,MISS Peeler 13' Jump Shot,,
+0020100041,140,4,0,2,9:14 PM,8:23,Willis REBOUND (Off:2 Def:6),,,,
+0020100041,141,6,1,2,9:14 PM,8:18,,,Trent P.FOUL (P1.T3),,
+0020100041,142,8,0,2,9:14 PM,8:18,,,SUB: Lopez FOR Peeler,,
+0020100041,143,6,1,2,9:15 PM,8:08,,,Trent P.FOUL (P2.T4),,
+0020100041,144,8,0,2,9:15 PM,8:08,,,SUB: Smith FOR Trent,,
+0020100041,145,2,42,2,9:15 PM,7:55,MISS Francis  Driving Layup,,,,
+0020100041,146,4,0,2,9:15 PM,7:53,Willis REBOUND (Off:3 Def:6),,,,
+0020100041,147,2,5,2,9:15 PM,7:52,MISS Willis  Layup,,,,
+0020100041,148,4,0,2,9:15 PM,7:51,,,Woods REBOUND (Off:0 Def:3),,
+0020100041,149,1,1,2,9:16 PM,7:42,,,Billups 26' 3PT Jump Shot (3 PTS),36 - 23,-13
+0020100041,150,1,63,2,9:16 PM,7:26,Williams 21' Fadeaway Jumper (2 PTS),,,36 - 25,-11
+0020100041,151,2,1,2,9:16 PM,7:06,,,MISS Woods 17' Jump Shot,,
+0020100041,152,4,0,2,9:16 PM,7:05,,,Lopez REBOUND (Off:1 Def:0),,
+0020100041,153,1,1,2,9:16 PM,7:03,,,Billups 25' 3PT Jump Shot (6 PTS) (Lopez 1 AST),39 - 25,-14
+0020100041,154,6,6,2,9:16 PM,7:03,Willis AWAY.FROM.PLAY.FOUL (P2.T1),,,,
+0020100041,155,3,10,2,9:17 PM,7:03,,,MISS Woods Free Throw 1 of 1,,
+0020100041,156,4,0,2,9:17 PM,7:03,Willis REBOUND (Off:3 Def:7),,,,
+0020100041,157,1,1,2,9:17 PM,6:44,Griffin 26' 3PT Jump Shot (6 PTS) (Norris 2 AST),,,39 - 28,-11
+0020100041,159,2,1,2,9:17 PM,6:29,,,MISS Smith 20' Jump Shot,,
+0020100041,160,4,0,2,9:17 PM,6:27,,,Garnett REBOUND (Off:2 Def:2),,
+0020100041,161,5,1,2,9:18 PM,6:25,,,Garnett Bad Pass Turnover (P2.T3),,
+0020100041,162,8,0,2,9:18 PM,6:25,SUB: Cato FOR Willis,,,,
+0020100041,164,9,1,2,9:18 PM,6:20,ROCKETS Timeout: Regular (Full 2 Short 0),,,,
+0020100041,165,8,0,2,9:20 PM,6:20,,,SUB: Nesterovic FOR Woods,,
+0020100041,167,5,1,2,9:20 PM,6:13,Norris Bad Pass Turnover (P1.T6),,,,
+0020100041,168,2,1,2,9:20 PM,5:57,,,MISS Smith 18' Jump Shot,,
+0020100041,169,4,0,2,9:20 PM,5:55,Cato REBOUND (Off:0 Def:3),,,,
+0020100041,170,1,8,2,9:21 PM,5:47,Griffin  Slam Dunk (8 PTS) (Francis 1 AST),,,39 - 30,-9
+0020100041,171,1,58,2,9:21 PM,5:27,,,Garnett 8' Turnaround Hook Shot (17 PTS) (Lopez 2 AST),41 - 30,-11
+0020100041,172,1,1,2,9:21 PM,5:09,Griffin 24' 3PT Jump Shot (11 PTS) (Francis 2 AST),,,41 - 33,-8
+0020100041,173,2,1,2,9:21 PM,4:54,,,MISS Smith 21' Jump Shot,,
+0020100041,174,4,0,2,9:22 PM,4:52,Griffin REBOUND (Off:0 Def:3),,,,
+0020100041,175,1,52,2,9:22 PM,4:46,Cato  Alley Oop Dunk (2 PTS) (Francis 3 AST),,,41 - 35,-6
+0020100041,176,9,1,2,9:22 PM,4:42,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,
+0020100041,179,8,0,2,9:24 PM,4:42,,,SUB: Brandon FOR Billups,,
+0020100041,180,2,47,2,9:24 PM,4:30,,,MISS Garnett 9' Turnaround Jump Shot,,
+0020100041,181,4,0,2,9:24 PM,4:29,ROCKETS Rebound,,,,
+0020100041,182,6,3,2,9:24 PM,4:29,,,Smith L.B.FOUL (P3.PN),,
+0020100041,183,8,0,2,9:24 PM,4:29,,,SUB: Szczerbiak FOR Smith,,
+0020100041,184,3,11,2,9:25 PM,4:29,MISS Cato Free Throw 1 of 2,,,,
+0020100041,185,4,1,2,9:25 PM,4:29,ROCKETS Rebound,,,,
+0020100041,186,3,12,2,9:25 PM,4:29,MISS Cato Free Throw 2 of 2,,,,
+0020100041,187,4,0,2,9:25 PM,4:29,,,Garnett REBOUND (Off:2 Def:3),,
+0020100041,188,2,1,2,9:25 PM,4:08,,,MISS Lopez 17' Jump Shot,,
+0020100041,189,4,0,2,9:26 PM,4:05,Williams REBOUND (Off:0 Def:1),,,,
+0020100041,190,2,1,2,9:26 PM,3:55,MISS Williams 15' Jump Shot,,Szczerbiak BLOCK (1 BLK),,
+0020100041,191,4,0,2,9:26 PM,3:52,Francis REBOUND (Off:1 Def:0),,,,
+0020100041,192,5,1,2,9:26 PM,3:50,Norris Bad Pass Turnover (P2.T7),,,,
+0020100041,193,1,1,2,9:26 PM,3:35,,,Garnett 17' Jump Shot (19 PTS) (Brandon 5 AST),43 - 35,-8
+0020100041,194,2,1,2,9:27 PM,3:11,MISS Griffin 22' Jump Shot,,,,
+0020100041,195,4,0,2,9:27 PM,3:09,,,Garnett REBOUND (Off:2 Def:4),,
+0020100041,196,2,1,2,9:27 PM,2:54,,,MISS Lopez 17' Jump Shot,,
+0020100041,197,4,0,2,9:27 PM,2:53,,,Nesterovic REBOUND (Off:1 Def:3),,
+0020100041,198,1,1,2,9:27 PM,2:39,,,Szczerbiak 18' Jump Shot (6 PTS) (Garnett 2 AST),45 - 35,-10
+0020100041,199,2,1,2,9:28 PM,2:18,MISS Williams 26' 3PT Jump Shot,,,,
+0020100041,200,4,0,2,9:28 PM,2:16,Cato REBOUND (Off:1 Def:3),,,,
+0020100041,201,6,2,2,9:28 PM,2:15,,,Nesterovic S.FOUL (P1.PN),,
+0020100041,202,8,0,2,9:28 PM,2:15,,,SUB: Peeler FOR Lopez,,
+0020100041,203,8,0,2,9:28 PM,2:15,SUB: Rice FOR Williams,,,,
+0020100041,204,8,0,2,9:28 PM,2:15,SUB: Mobley FOR Norris,,,,
+0020100041,205,3,11,2,9:28 PM,2:15,Cato Free Throw 1 of 2 (3 PTS),,,45 - 36,-9
+0020100041,206,3,12,2,9:28 PM,2:15,Cato Free Throw 2 of 2 (4 PTS),,,45 - 37,-8
+0020100041,207,5,1,2,9:29 PM,2:06,Mobley STEAL (1 STL),,Garnett Bad Pass Turnover (P3.T4),,
+0020100041,209,2,1,2,9:29 PM,1:54,MISS Cato 16' Jump Shot,,,,
+0020100041,210,4,0,2,9:29 PM,1:53,,,Garnett REBOUND (Off:2 Def:5),,
+0020100041,211,1,1,2,9:29 PM,1:44,,,Brandon 21' Jump Shot (10 PTS),47 - 37,-10
+0020100041,212,6,2,2,9:29 PM,1:29,,,Garnett S.FOUL (P1.PN),,
+0020100041,213,3,11,2,9:30 PM,1:29,Francis Free Throw 1 of 2 (9 PTS),,,47 - 38,-9
+0020100041,214,3,12,2,9:30 PM,1:29,MISS Francis Free Throw 2 of 2,,,,
+0020100041,215,4,0,2,9:30 PM,1:28,,,Garnett REBOUND (Off:2 Def:6),,
+0020100041,216,6,1,2,9:30 PM,1:25,Rice P.FOUL (P2.T2),,,,
+0020100041,217,8,0,2,9:30 PM,1:25,SUB: Thomas FOR Cato,,,,
+0020100041,218,8,0,2,9:31 PM,1:25,SUB: Williams FOR Rice,,,,
+0020100041,219,8,0,2,9:31 PM,1:25,,,SUB: Trent FOR Nesterovic,,
+0020100041,221,2,42,2,9:31 PM,1:15,,,MISS Garnett  Driving Layup,,
+0020100041,222,4,0,2,9:31 PM,1:13,Griffin REBOUND (Off:0 Def:4),,,,
+0020100041,223,2,42,2,9:31 PM,0:51,MISS Williams  Driving Layup,,,,
+0020100041,224,4,0,2,9:31 PM,0:48,Thomas REBOUND (Off:2 Def:1),,,,
+0020100041,226,6,2,2,9:32 PM,0:34,,,Peeler S.FOUL (P3.PN),,
+0020100041,227,3,11,2,9:32 PM,0:34,Mobley Free Throw 1 of 2 (6 PTS),,,47 - 39,-8
+0020100041,228,8,0,2,9:32 PM,0:34,,,SUB: Billups FOR Peeler,,
+0020100041,229,3,12,2,9:32 PM,0:34,Mobley Free Throw 2 of 2 (7 PTS),,,47 - 40,-7
+0020100041,230,6,2,2,9:33 PM,0:16,Thomas S.FOUL (P1.PN),,,,
+0020100041,231,3,11,2,9:33 PM,0:16,,,MISS Billups Free Throw 1 of 2,,
+0020100041,232,4,1,2,9:33 PM,0:16,,,Timberwolves Rebound,,
+0020100041,233,3,12,2,9:34 PM,0:16,,,Billups Free Throw 2 of 2 (7 PTS),48 - 40,-8
+0020100041,234,9,2,2,9:34 PM,0:16,ROCKETS Timeout: Short (Full 2 Short 1),,,,
+0020100041,238,2,1,2,9:35 PM,0:00,MISS Francis 18' Jump Shot,,,,
+0020100041,239,4,0,2,9:35 PM,0:00,ROCKETS Rebound,,,,
+0020100041,240,13,0,2,9:35 PM,0:00,,,,48 - 40,-8
+0020100041,242,12,0,3,9:52 PM,12:00,,,,48 - 40,-8
+0020100041,243,2,47,3,9:52 PM,11:47,,,MISS Smith 13' Turnaround Jump Shot,,
+0020100041,244,4,0,3,9:52 PM,11:46,,,Nesterovic REBOUND (Off:2 Def:3),,
+0020100041,245,2,1,3,9:52 PM,11:41,,,MISS Brandon 27' 3PT Jump Shot,,
+0020100041,246,4,0,3,9:52 PM,11:40,,,Nesterovic REBOUND (Off:3 Def:3),,
+0020100041,247,1,1,3,9:52 PM,11:38,,,Garnett  Jump Shot (21 PTS) (Nesterovic 1 AST),50 - 40,-10
+0020100041,248,2,42,3,9:53 PM,11:20,MISS Thomas  Driving Layup,,,,
+0020100041,249,4,0,3,9:53 PM,11:18,,,Nesterovic REBOUND (Off:3 Def:4),,
+0020100041,250,2,1,3,9:53 PM,11:09,,,MISS Nesterovic 17' Jump Shot,,
+0020100041,251,4,0,3,9:53 PM,11:07,Thomas REBOUND (Off:2 Def:2),,,,
+0020100041,252,10,0,3,9:53 PM,10:51,Jump Ball Francis vs. Brandon: Tip to Thomas,,,,
+0020100041,253,1,1,3,9:54 PM,10:44,Mobley 20' Jump Shot (9 PTS),,,50 - 42,-8
+0020100041,254,6,2,3,9:54 PM,10:26,Rice S.FOUL (P3.T1),,,,
+0020100041,255,3,11,3,9:54 PM,10:26,,,Smith Free Throw 1 of 2 (1 PTS),51 - 42,-9
+0020100041,256,3,12,3,9:55 PM,10:26,,,Smith Free Throw 2 of 2 (2 PTS),52 - 42,-10
+0020100041,257,2,1,3,9:55 PM,10:14,MISS Rice 24' 3PT Jump Shot,,,,
+0020100041,258,4,0,3,9:55 PM,10:12,,,Nesterovic REBOUND (Off:3 Def:5),,
+0020100041,259,5,1,3,9:55 PM,10:09,Francis STEAL (2 STL),,Nesterovic Bad Pass Turnover (P1.T5),,
+0020100041,260,2,42,3,9:55 PM,10:06,MISS Rice  Driving Layup,,Nesterovic BLOCK (2 BLK),,
+0020100041,261,4,0,3,9:55 PM,10:03,Francis REBOUND (Off:2 Def:0),,,,
+0020100041,262,1,5,3,9:55 PM,9:55,Rice  Layup (2 PTS) (Francis 4 AST),,,52 - 44,-8
+0020100041,263,6,2,3,9:55 PM,9:55,,,Nesterovic S.FOUL (P2.T1),,
+0020100041,265,3,10,3,9:55 PM,9:55,Rice Free Throw 1 of 1 (3 PTS),,,52 - 45,-7
+0020100041,266,2,1,3,9:56 PM,9:36,,,MISS Garnett 19' Jump Shot,,
+0020100041,267,4,0,3,9:56 PM,9:35,Rice REBOUND (Off:0 Def:1),,,,
+0020100041,268,1,3,3,9:56 PM,9:20,Cato 9' Hook Shot (6 PTS) (Rice 1 AST),,,52 - 47,-5
+0020100041,269,2,46,3,9:57 PM,9:01,,,MISS Szczerbiak 13' Running Jump Shot,,
+0020100041,270,4,0,3,9:57 PM,8:59,Cato REBOUND (Off:1 Def:4),,,,
+0020100041,271,2,1,3,9:57 PM,8:51,MISS Rice 22' Jump Shot,,,,
+0020100041,272,4,0,3,9:57 PM,8:49,,,Szczerbiak REBOUND (Off:0 Def:2),,
+0020100041,273,2,1,3,9:57 PM,8:32,,,MISS Smith 18' Jump Shot,,
+0020100041,274,4,0,3,9:57 PM,8:31,Francis REBOUND (Off:2 Def:1),,,,
+0020100041,275,1,48,3,9:57 PM,8:27,Thomas  Dunk (4 PTS) (Francis 5 AST),,,52 - 49,-3
+0020100041,276,9,1,3,9:57 PM,8:24,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,
+0020100041,280,1,1,3,10:00 PM,8:07,,,Szczerbiak 11' Jump Shot (8 PTS),54 - 49,-5
+0020100041,281,1,1,3,10:00 PM,7:47,Mobley 24' 3PT Jump Shot (12 PTS) (Francis 6 AST),,,54 - 52,-2
+0020100041,282,6,14,3,10:00 PM,7:35,Thomas FLAGRANT.FOUL.TYPE1 (P2.T2),,,,
+0020100041,283,3,18,3,10:01 PM,7:35,,,Garnett Free Throw Flagrant 1 of 2 (22 PTS),55 - 52,-3
+0020100041,284,3,19,3,10:01 PM,7:35,,,Garnett Free Throw Flagrant 2 of 2 (23 PTS),56 - 52,-4
+0020100041,286,2,1,3,10:02 PM,7:24,,,MISS Brandon 20' Jump Shot,,
+0020100041,287,4,0,3,10:02 PM,7:23,ROCKETS Rebound,,,,
+0020100041,288,6,3,3,10:02 PM,7:23,,,Nesterovic L.B.FOUL (P3.T2),,
+0020100041,290,6,2,3,10:03 PM,7:08,,,Brandon S.FOUL (P1.T3),,
+0020100041,291,3,11,3,10:03 PM,7:08,Francis Free Throw 1 of 2 (10 PTS),,,56 - 53,-3
+0020100041,292,3,12,3,10:03 PM,7:08,Francis Free Throw 2 of 2 (11 PTS),,,56 - 54,-2
+0020100041,293,2,1,3,10:04 PM,6:57,,,MISS Brandon 17' Jump Shot,,
+0020100041,294,4,0,3,10:04 PM,6:55,Thomas REBOUND (Off:2 Def:3),,,,
+0020100041,295,1,1,3,10:04 PM,6:40,Mobley 24' 3PT Jump Shot (15 PTS) (Thomas 1 AST),,,56 - 57,1
+0020100041,296,1,1,3,10:04 PM,6:27,,,Nesterovic 19' Jump Shot (4 PTS) (Brandon 6 AST),58 - 57,-1
+0020100041,297,1,1,3,10:05 PM,6:05,Rice 17' Jump Shot (5 PTS) (Francis 7 AST),,,58 - 59,1
+0020100041,298,1,47,3,10:05 PM,5:54,,,Garnett 9' Turnaround Jump Shot (25 PTS) (Szczerbiak 3 AST),60 - 59,-1
+0020100041,299,2,52,3,10:05 PM,5:38,MISS Cato  Alley Oop Dunk,,,,
+0020100041,300,4,0,3,10:05 PM,5:36,,,Timberwolves Rebound,,
+0020100041,301,1,42,3,10:05 PM,5:22,,,Garnett  Driving Layup (27 PTS) (Brandon 7 AST),62 - 59,-3
+0020100041,302,2,1,3,10:06 PM,5:03,MISS Francis 25' 3PT Jump Shot,,,,
+0020100041,303,4,0,3,10:06 PM,5:01,,,Szczerbiak REBOUND (Off:0 Def:3),,
+0020100041,304,6,2,3,10:06 PM,4:43,Cato S.FOUL (P3.T3),,,,
+0020100041,305,3,11,3,10:06 PM,4:43,,,Smith Free Throw 1 of 2 (3 PTS),63 - 59,-4
+0020100041,306,3,12,3,10:07 PM,4:43,,,Smith Free Throw 2 of 2 (4 PTS),64 - 59,-5
+0020100041,308,5,1,3,10:07 PM,4:23,Francis Bad Pass Turnover (P2.T8),,Szczerbiak STEAL (2 STL),,
+0020100041,309,1,7,3,10:07 PM,4:08,,,Nesterovic  Dunk (6 PTS) (Brandon 8 AST),66 - 59,-7
+0020100041,310,9,1,3,10:08 PM,4:06,ROCKETS Timeout: Regular (Full 3 Short 1),,,,
+0020100041,312,8,0,3,10:09 PM,4:06,SUB: Griffin FOR Thomas,,,,
+0020100041,314,2,1,3,10:10 PM,3:49,MISS Griffin 21' Jump Shot,,,,
+0020100041,315,4,0,3,10:10 PM,3:47,,,Szczerbiak REBOUND (Off:0 Def:4),,
+0020100041,316,2,1,3,10:10 PM,3:31,,,MISS Garnett 18' Jump Shot,,
+0020100041,317,4,0,3,10:10 PM,3:30,Cato REBOUND (Off:1 Def:5),,,,
+0020100041,318,1,5,3,10:11 PM,3:17,Cato  Layup (8 PTS) (Francis 8 AST),,,66 - 61,-5
+0020100041,319,6,2,3,10:11 PM,3:17,,,Garnett S.FOUL (P2.T4),,
+0020100041,320,3,10,3,10:11 PM,3:17,Cato Free Throw 1 of 1 (9 PTS),,,66 - 62,-4
+0020100041,321,2,1,3,10:11 PM,3:03,,,MISS Brandon 20' Jump Shot,,
+0020100041,322,4,0,3,10:11 PM,3:01,,,Timberwolves Rebound,,
+0020100041,323,8,0,3,10:12 PM,3:01,,,SUB: Woods FOR Nesterovic,,
+0020100041,325,1,1,3,10:12 PM,2:59,,,Szczerbiak 16' Jump Shot (10 PTS) (Garnett 3 AST),68 - 62,-6
+0020100041,326,5,1,3,10:12 PM,2:44,Mobley Bad Pass Turnover (P2.T9),,,,
+0020100041,327,1,63,3,10:13 PM,2:23,,,Garnett 9' Fadeaway Jumper (29 PTS),70 - 62,-8
+0020100041,328,6,1,3,10:13 PM,2:13,,,Woods P.FOUL (P1.PN),,
+0020100041,329,3,11,3,10:13 PM,2:13,MISS Cato Free Throw 1 of 2,,,,
+0020100041,330,4,1,3,10:13 PM,2:13,ROCKETS Rebound,,,,
+0020100041,331,3,12,3,10:13 PM,2:13,MISS Cato Free Throw 2 of 2,,,,
+0020100041,332,4,0,3,10:14 PM,2:13,,,Woods REBOUND (Off:0 Def:4),,
+0020100041,333,1,1,3,10:14 PM,1:56,,,Garnett 16' Jump Shot (31 PTS) (Brandon 9 AST),72 - 62,-10
+0020100041,334,1,1,3,10:14 PM,1:40,Francis 20' Jump Shot (13 PTS),,,72 - 64,-8
+0020100041,335,6,1,3,10:14 PM,1:33,Griffin P.FOUL (P1.T4),,,,
+0020100041,336,8,0,3,10:14 PM,1:33,SUB: Willis FOR Cato,,,,
+0020100041,337,8,0,3,10:14 PM,1:33,,,SUB: Peeler FOR Smith,,
+0020100041,338,2,1,3,10:15 PM,1:22,,,MISS Garnett 19' Jump Shot,,
+0020100041,339,4,0,3,10:15 PM,1:20,Mobley REBOUND (Off:0 Def:1),,,,
+0020100041,340,2,1,3,10:15 PM,0:58,MISS Rice 25' 3PT Jump Shot,,,,
+0020100041,341,4,0,3,10:15 PM,0:56,Mobley REBOUND (Off:1 Def:1),,,,
+0020100041,342,1,1,3,10:15 PM,0:51,Mobley 24' 3PT Jump Shot (18 PTS) (Willis 1 AST),,,72 - 67,-5
+0020100041,343,1,56,3,10:16 PM,0:34,,,Garnett 9' Running Hook Shot (33 PTS),74 - 67,-7
+0020100041,344,1,49,3,10:16 PM,0:13,Francis  Driving Dunk (15 PTS),,,74 - 69,-5
+0020100041,345,2,1,3,10:16 PM,0:00,,,MISS Brandon 19' Jump Shot,,
+0020100041,346,4,0,3,10:16 PM,0:00,,,Timberwolves Rebound,,
+0020100041,347,13,0,3,10:16 PM,0:00,,,,74 - 69,-5
+0020100041,349,12,0,4,10:19 PM,12:00,,,,74 - 69,-5
+0020100041,350,2,42,4,10:20 PM,11:38,MISS Willis  Driving Layup,,,,
+0020100041,352,4,0,4,10:20 PM,11:37,Francis REBOUND (Off:3 Def:1),,,,
+0020100041,351,1,7,4,10:20 PM,11:37,Francis  Dunk (17 PTS),,,74 - 71,-3
+0020100041,353,5,2,4,10:20 PM,11:16,Mobley STEAL (2 STL),,Woods Lost Ball Turnover (P1.T6),,
+0020100041,354,1,44,4,10:20 PM,11:12,Willis  Reverse Layup (6 PTS) (Francis 9 AST),,,74 - 73,-1
+0020100041,355,2,47,4,10:20 PM,10:51,,,MISS Garnett 18' Turnaround Jump Shot,,
+0020100041,356,4,0,4,10:20 PM,10:50,ROCKETS Rebound,,,,
+0020100041,358,2,1,4,10:22 PM,10:26,MISS Francis 19' Jump Shot,,,,
+0020100041,359,4,0,4,10:22 PM,10:24,,,Peeler REBOUND (Off:0 Def:2),,
+0020100041,360,1,1,4,10:22 PM,10:14,,,Woods 18' Jump Shot (2 PTS) (Garnett 4 AST),76 - 73,-3
+0020100041,361,6,2,4,10:22 PM,9:57,,,Woods S.FOUL (P2.T1),,
+0020100041,362,3,11,4,10:22 PM,9:57,MISS Francis Free Throw 1 of 2,,,,
+0020100041,363,4,1,4,10:22 PM,9:57,ROCKETS Rebound,,,,
+0020100041,364,8,0,4,10:23 PM,9:57,,,SUB: Lopez FOR Szczerbiak,,
+0020100041,365,8,0,4,10:23 PM,9:57,SUB: Norris FOR Mobley,,,,
+0020100041,366,3,12,4,10:23 PM,9:57,Francis Free Throw 2 of 2 (18 PTS),,,76 - 74,-2
+0020100041,367,1,3,4,10:23 PM,9:43,,,Garnett 7' Hook Shot (35 PTS),78 - 74,-4
+0020100041,368,1,63,4,10:24 PM,9:16,Francis 10' Fadeaway Jumper (20 PTS),,,78 - 76,-2
+0020100041,369,2,1,4,10:24 PM,9:00,,,MISS Peeler 18' Jump Shot,,
+0020100041,370,4,0,4,10:24 PM,8:59,,,Garnett REBOUND (Off:3 Def:6),,
+0020100041,371,5,4,4,10:24 PM,8:52,,,Lopez Traveling Turnover (P1.T7),,
+0020100041,372,9,4,4,10:25 PM,8:52,,,,,
+0020100041,374,8,0,4,10:26 PM,8:52,,,SUB: Szczerbiak FOR Garnett,,
+0020100041,375,8,0,4,10:26 PM,8:52,,,SUB: Smith FOR Lopez,,
+0020100041,376,8,0,4,10:27 PM,8:52,SUB: Williams FOR Rice,,,,
+0020100041,377,2,1,4,10:27 PM,8:40,MISS Griffin 10' Jump Shot,,,,
+0020100041,378,4,0,4,10:27 PM,8:39,,,Peeler REBOUND (Off:0 Def:3),,
+0020100041,379,2,1,4,10:27 PM,8:26,,,MISS Billups 16' Jump Shot,,
+0020100041,380,4,0,4,10:27 PM,8:24,Willis REBOUND (Off:3 Def:8),,,,
+0020100041,381,2,1,4,10:27 PM,8:15,MISS Francis 19' Jump Shot,,,,
+0020100041,382,4,0,4,10:27 PM,8:13,,,Szczerbiak REBOUND (Off:0 Def:5),,
+0020100041,383,2,1,4,10:27 PM,8:07,,,MISS Szczerbiak 21' Jump Shot,,
+0020100041,384,4,0,4,10:27 PM,8:05,Francis REBOUND (Off:3 Def:2),,,,
+0020100041,385,2,42,4,10:27 PM,8:01,MISS Francis  Driving Layup,,,,
+0020100041,386,4,0,4,10:27 PM,8:00,,,Szczerbiak REBOUND (Off:0 Def:6),,
+0020100041,387,1,42,4,10:28 PM,7:44,,,Billups  Driving Layup (9 PTS),80 - 76,-4
+0020100041,388,2,1,4,10:28 PM,7:26,MISS Griffin 25' 3PT Jump Shot,,,,
+0020100041,389,4,0,4,10:28 PM,7:24,Willis REBOUND (Off:4 Def:8),,,,
+0020100041,390,2,1,4,10:28 PM,7:17,MISS Griffin 12' Jump Shot,,Woods BLOCK (1 BLK),,
+0020100041,391,4,0,4,10:28 PM,7:17,ROCKETS Rebound,,,,
+0020100041,392,8,0,4,10:28 PM,7:17,SUB: Mobley FOR Francis,,,,
+0020100041,393,1,47,4,10:29 PM,7:08,Williams 9' Turnaround Jump Shot (4 PTS) (Willis 2 AST),,,80 - 78,-2
+0020100041,394,2,46,4,10:29 PM,6:51,,,MISS Billups 8' Running Jump Shot,,
+0020100041,395,4,0,4,10:29 PM,6:49,Willis REBOUND (Off:4 Def:9),,,,
+0020100041,396,1,42,4,10:29 PM,6:30,Mobley  Driving Layup (20 PTS) (Norris 3 AST),,,80 - 80,TIE
+0020100041,397,1,42,4,10:30 PM,6:15,,,Billups  Driving Layup (11 PTS),82 - 80,-2
+0020100041,398,6,2,4,10:30 PM,6:00,,,Billups S.FOUL (P2.T2),,
+0020100041,399,3,11,4,10:30 PM,6:00,Norris Free Throw 1 of 2 (2 PTS),,,82 - 81,-1
+0020100041,400,3,12,4,10:30 PM,6:00,Norris Free Throw 2 of 2 (3 PTS),,,82 - 82,TIE
+0020100041,401,9,1,4,10:31 PM,5:43,ROCKETS Timeout: Regular (Full 4 Short 1),,,,
+0020100041,404,8,0,4,10:33 PM,5:43,,,SUB: Garnett FOR Woods,,
+0020100041,405,8,0,4,10:33 PM,5:43,,,SUB: Brandon FOR Billups,,
+0020100041,406,2,3,4,10:33 PM,5:40,,,MISS Garnett 10' Hook Shot,,
+0020100041,407,4,0,4,10:33 PM,5:38,Willis REBOUND (Off:4 Def:10),,,,
+0020100041,408,5,1,4,10:34 PM,5:24,Norris Bad Pass Turnover (P3.T10),,,,
+0020100041,409,2,1,4,10:34 PM,5:17,,,MISS Peeler 9' Jump Shot,,
+0020100041,410,4,0,4,10:34 PM,5:15,Willis REBOUND (Off:4 Def:11),,,,
+0020100041,411,2,1,4,10:34 PM,4:55,MISS Willis 5' Jump Shot,,,,
+0020100041,412,4,0,4,10:34 PM,4:53,,,Garnett REBOUND (Off:3 Def:7),,
+0020100041,413,2,1,4,10:35 PM,4:43,,,MISS Szczerbiak 24' 3PT Jump Shot,,
+0020100041,414,4,0,4,10:35 PM,4:41,,,Garnett REBOUND (Off:4 Def:7),,
+0020100041,415,2,1,4,10:35 PM,4:26,,,MISS Brandon 15' Jump Shot,,
+0020100041,416,4,0,4,10:35 PM,4:24,Norris REBOUND (Off:0 Def:1),,,,
+0020100041,417,2,42,4,10:35 PM,4:17,MISS Mobley  Driving Layup,,,,
+0020100041,419,4,0,4,10:35 PM,4:15,Griffin REBOUND (Off:1 Def:4),,,,
+0020100041,418,2,4,4,10:35 PM,4:15,MISS Griffin  Tip Shot,,,,
+0020100041,420,4,0,4,10:35 PM,4:14,,,Timberwolves Rebound,,
+0020100041,421,8,0,4,10:35 PM,4:14,SUB: Francis FOR Williams,,,,
+0020100041,423,6,2,4,10:36 PM,4:01,Griffin S.FOUL (P2.T1),,,,
+0020100041,424,3,11,4,10:36 PM,4:01,,,Garnett Free Throw 1 of 2 (36 PTS),83 - 82,-1
+0020100041,425,3,12,4,10:36 PM,4:01,,,Garnett Free Throw 2 of 2 (37 PTS),84 - 82,-2
+0020100041,426,5,2,4,10:37 PM,3:47,Norris Lost Ball Turnover (P4.T11),,,,
+0020100041,427,1,47,4,10:37 PM,3:26,,,Smith 4' Turnaround Jump Shot (6 PTS) (Peeler 3 AST),86 - 82,-4
+0020100041,428,1,1,4,10:37 PM,3:12,Mobley 17' Jump Shot (22 PTS) (Norris 4 AST),,,86 - 84,-2
+0020100041,429,2,1,4,10:38 PM,2:51,,,MISS Peeler 22' Jump Shot,,
+0020100041,430,4,0,4,10:38 PM,2:48,ROCKETS Rebound,,,,
+0020100041,431,9,1,4,10:38 PM,2:48,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,
+0020100041,435,2,1,4,10:40 PM,2:31,MISS Francis 17' Jump Shot,,,,
+0020100041,436,4,0,4,10:40 PM,2:29,,,Garnett REBOUND (Off:4 Def:8),,
+0020100041,437,5,1,4,10:41 PM,2:11,,,Garnett Bad Pass Turnover (P4.T8),,
+0020100041,438,5,2,4,10:41 PM,2:00,Mobley Lost Ball Turnover (P3.T12),,Brandon STEAL (1 STL),,
+0020100041,439,2,1,4,10:41 PM,1:54,,,MISS Szczerbiak 13' Jump Shot,,
+0020100041,440,4,0,4,10:41 PM,1:52,Francis REBOUND (Off:3 Def:3),,,,
+0020100041,441,5,2,4,10:41 PM,1:47,Francis Lost Ball Turnover (P3.T13),,Brandon STEAL (2 STL),,
+0020100041,442,2,5,4,10:41 PM,1:42,,,MISS Brandon  Layup,,
+0020100041,444,4,0,4,10:41 PM,1:40,,,Szczerbiak REBOUND (Off:1 Def:6),,
+0020100041,443,1,5,4,10:41 PM,1:40,,,Szczerbiak  Layup (12 PTS),88 - 84,-4
+0020100041,445,2,1,4,10:42 PM,1:32,MISS Griffin 16' Jump Shot,,,,
+0020100041,446,4,0,4,10:42 PM,1:30,Norris REBOUND (Off:1 Def:1),,,,
+0020100041,447,2,5,4,10:42 PM,1:27,MISS Francis  Layup,,,,
+0020100041,449,4,0,4,10:42 PM,1:26,Willis REBOUND (Off:5 Def:11),,,,
+0020100041,448,1,4,4,10:42 PM,1:26,Willis  Tip Shot (8 PTS),,,88 - 86,-2
+0020100041,450,2,1,4,10:42 PM,1:04,,,MISS Garnett 18' Jump Shot,,
+0020100041,451,4,0,4,10:42 PM,1:02,Willis REBOUND (Off:5 Def:12),,,,
+0020100041,452,9,1,4,10:42 PM,0:55,ROCKETS Timeout: Regular (Full 5 Short 1),,,,
+0020100041,454,8,0,4,10:44 PM,0:55,SUB: Rice FOR Griffin,,,,
+0020100041,456,2,1,4,10:44 PM,0:39,MISS Rice  Jump Shot,,,,
+0020100041,457,4,0,4,10:45 PM,0:38,ROCKETS Rebound,,,,
+0020100041,458,5,11,4,10:45 PM,0:38,ROCKETS Turnover: Shot Clock (T#14),,,,
+0020100041,459,2,47,4,10:45 PM,0:21,,,MISS Garnett 7' Turnaround Jump Shot,,
+0020100041,460,4,0,4,10:45 PM,0:19,Francis REBOUND (Off:3 Def:4),,,,
+0020100041,461,1,8,4,10:45 PM,0:14,Mobley  Slam Dunk (24 PTS) (Francis 10 AST),,,88 - 88,TIE
+0020100041,465,9,1,4,10:47 PM,0:14,,,Timberwolves Timeout: Regular (Reg.5 Short 0),,
+0020100041,467,1,63,4,10:47 PM,0:02,,,Brandon 11' Fadeaway Jumper (12 PTS),90 - 88,-2
+0020100041,468,9,1,4,10:47 PM,0:02,ROCKETS Timeout: Regular (Full 6 Short 1),,,,
+0020100041,470,2,1,4,10:49 PM,0:00,MISS Willis 24' 3PT Jump Shot,,,,
+0020100041,471,4,0,4,10:49 PM,0:00,ROCKETS Rebound,,,,
+0020100041,472,13,0,4,10:49 PM,0:00,,,,90 - 88,-2

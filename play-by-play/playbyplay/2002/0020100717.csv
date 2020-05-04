@@ -1,0 +1,466 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100717,0,12,0,1,7:11 PM,12:00,,,,,
+0020100717,1,10,0,1,7:11 PM,12:00,Jump Ball Mutombo vs. Collins: Tip to Coleman,,,,
+0020100717,2,1,5,1,7:12 PM,11:55,Harpring  Layup (2 PTS) (Coleman 1 AST),,,0 - 2,2
+0020100717,3,1,1,1,7:12 PM,11:42,,,Malone 16' Jump Shot (2 PTS) (Kirilenko 1 AST),2 - 2,TIE
+0020100717,4,2,1,1,7:13 PM,11:29,MISS Coleman 15' Jump Shot,,,,
+0020100717,5,4,0,1,7:13 PM,11:27,,,Stockton REBOUND (Off:0 Def:1),,
+0020100717,6,2,1,1,7:13 PM,11:22,,,MISS Russell 16' Jump Shot,,
+0020100717,7,4,0,1,7:13 PM,11:19,,,Collins REBOUND (Off:1 Def:0),,
+0020100717,8,1,5,1,7:13 PM,11:18,,,Collins  Layup (2 PTS),4 - 2,-2
+0020100717,9,2,1,1,7:13 PM,10:57,MISS Snow 9' Jump Shot,,,,
+0020100717,10,4,0,1,7:13 PM,10:54,,,Stockton REBOUND (Off:0 Def:2),,
+0020100717,11,2,1,1,7:13 PM,10:43,,,MISS Kirilenko 24' 3PT Jump Shot,,
+0020100717,12,4,0,1,7:13 PM,10:41,,,Malone REBOUND (Off:1 Def:0),,
+0020100717,13,5,1,1,7:13 PM,10:40,Coleman STEAL (1 STL),,Malone Bad Pass Turnover (P1.T1),,
+0020100717,14,6,2,1,7:14 PM,10:37,,,Stockton S.FOUL (P1.T1),,
+0020100717,15,3,11,1,7:14 PM,10:37,Iverson Free Throw 1 of 2 (1 PTS),,,4 - 3,-1
+0020100717,16,3,12,1,7:14 PM,10:37,MISS Iverson Free Throw 2 of 2,,,,
+0020100717,17,4,0,1,7:14 PM,10:37,76ERS Rebound,,,,
+0020100717,18,6,3,1,7:14 PM,10:37,,,Collins L.B.FOUL (P1.T2),,
+0020100717,19,2,1,1,7:15 PM,10:20,MISS Iverson 9' Jump Shot,,,,
+0020100717,20,4,0,1,7:15 PM,10:17,,,Collins REBOUND (Off:1 Def:1),,
+0020100717,21,2,5,1,7:15 PM,10:00,Coleman BLOCK (1 BLK),,MISS Collins  Layup,,
+0020100717,22,4,0,1,7:15 PM,9:58,Coleman REBOUND (Off:0 Def:1),,,,
+0020100717,23,6,1,1,7:15 PM,9:58,,,Russell P.FOUL (P1.T3),,
+0020100717,24,1,46,1,7:16 PM,9:48,Snow 13' Running Jump Shot (2 PTS),,,4 - 5,1
+0020100717,25,1,1,1,7:16 PM,9:26,,,Malone 16' Jump Shot (4 PTS) (Stockton 1 AST),6 - 5,-1
+0020100717,26,6,4,1,7:16 PM,9:12,Mutombo OFF.Foul (P1),,,,
+0020100717,27,5,5,1,7:16 PM,9:12,Mutombo Foul Turnover (P1.T1),,,,
+0020100717,28,1,1,1,7:17 PM,8:52,,,Russell 16' Jump Shot (2 PTS) (Stockton 2 AST),8 - 5,-3
+0020100717,29,2,5,1,7:17 PM,8:38,MISS Iverson  Layup,,Malone BLOCK (1 BLK),,
+0020100717,30,4,0,1,7:17 PM,8:36,,,Russell REBOUND (Off:0 Def:1),,
+0020100717,31,2,1,1,7:17 PM,8:15,,,MISS Malone 16' Jump Shot,,
+0020100717,32,4,0,1,7:17 PM,8:13,Harpring REBOUND (Off:0 Def:1),,,,
+0020100717,33,5,1,1,7:18 PM,7:58,Snow Bad Pass Turnover (P1.T2),,,,
+0020100717,34,6,17,1,7:18 PM,7:46,76ERS T.Foul (Def. 3 Sec Mutombo ),,,,
+0020100717,35,3,16,1,7:18 PM,7:46,,,Stockton Free Throw Technical (1 PTS),9 - 5,-4
+0020100717,36,2,5,1,7:19 PM,7:34,,,MISS Stockton  Layup,,
+0020100717,37,4,0,1,7:19 PM,7:32,,,Kirilenko REBOUND (Off:1 Def:0),,
+0020100717,38,2,5,1,7:19 PM,7:19,Mutombo BLOCK (1 BLK),,MISS Collins  Layup,,
+0020100717,39,4,0,1,7:19 PM,7:16,Iverson REBOUND (Off:0 Def:1),,,,
+0020100717,40,2,5,1,7:19 PM,7:12,MISS Iverson  Layup,,,,
+0020100717,41,4,0,1,7:19 PM,7:11,,,Kirilenko REBOUND (Off:1 Def:1),,
+0020100717,42,1,1,1,7:20 PM,7:03,,,Russell 19' Jump Shot (4 PTS) (Stockton 3 AST),11 - 5,-6
+0020100717,43,1,1,1,7:20 PM,6:41,Snow 9' Jump Shot (4 PTS) (Mutombo 1 AST),,,11 - 7,-4
+0020100717,44,5,1,1,7:20 PM,6:21,Snow STEAL (1 STL),,Kirilenko Bad Pass Turnover (P1.T2),,
+0020100717,45,5,2,1,7:21 PM,6:14,Harpring Lost Ball Turnover (P1.T3),,,,
+0020100717,46,6,2,1,7:21 PM,5:55,Mutombo S.FOUL (P2.T1),,,,
+0020100717,47,9,1,1,7:21 PM,5:55,76ERS Timeout: Regular (Full 1 Short 0),,,,
+0020100717,49,3,11,1,7:23 PM,5:55,,,MISS Collins Free Throw 1 of 2,,
+0020100717,50,4,1,1,7:23 PM,5:55,,,Jazz Rebound,,
+0020100717,51,3,12,1,7:23 PM,5:55,,,Collins Free Throw 2 of 2 (3 PTS),12 - 7,-5
+0020100717,52,2,5,1,7:24 PM,5:45,MISS Iverson  Layup,,Collins BLOCK (1 BLK),,
+0020100717,53,4,0,1,7:24 PM,5:42,Coleman REBOUND (Off:1 Def:1),,,,
+0020100717,54,1,5,1,7:24 PM,5:41,Coleman  Layup (2 PTS),,,12 - 9,-3
+0020100717,55,6,1,1,7:24 PM,5:30,Snow P.FOUL (P1.T2),,,,
+0020100717,62,8,0,1,7:24 PM,5:30,,,SUB: LaRue FOR Stockton,,
+0020100717,56,2,5,1,7:25 PM,5:13,Mutombo BLOCK (2 BLK),,MISS Kirilenko  Layup,,
+0020100717,57,4,0,1,7:25 PM,5:09,,,Collins REBOUND (Off:2 Def:1),,
+0020100717,83,2,45,1,7:25 PM,5:08,,,MISS LaRue 12' Jump Shot,,
+0020100717,91,4,0,1,7:25 PM,5:08,,,Jazz Rebound,,
+0020100717,58,6,1,1,7:25 PM,4:59,Harpring P.FOUL (P1.T3),,,,
+0020100717,59,2,5,1,7:26 PM,4:46,,,MISS Collins  Layup,,
+0020100717,60,4,0,1,7:26 PM,4:44,Harpring REBOUND (Off:0 Def:2),,,,
+0020100717,61,2,5,1,7:26 PM,4:38,MISS Iverson  Layup,,,,
+0020100717,63,4,0,1,7:26 PM,4:37,,,Collins REBOUND (Off:2 Def:2),,
+0020100717,64,2,1,1,7:26 PM,4:29,,,MISS Russell 20' Jump Shot,,
+0020100717,65,4,0,1,7:26 PM,4:27,Mutombo REBOUND (Off:0 Def:1),,,,
+0020100717,66,6,2,1,7:27 PM,4:15,,,Malone S.FOUL (P1.T4),,
+0020100717,67,3,11,1,7:27 PM,4:15,Mutombo Free Throw 1 of 2 (1 PTS),,,12 - 10,-2
+0020100717,68,3,12,1,7:27 PM,4:15,Mutombo Free Throw 2 of 2 (2 PTS),,,12 - 11,-1
+0020100717,69,1,5,1,7:28 PM,3:56,,,LaRue  Layup (2 PTS) (Malone 1 AST),14 - 11,-3
+0020100717,70,2,1,1,7:28 PM,3:34,MISS Iverson 16' Jump Shot,,,,
+0020100717,71,4,0,1,7:28 PM,3:33,,,Malone REBOUND (Off:1 Def:1),,
+0020100717,72,1,5,1,7:28 PM,3:19,,,LaRue  Layup (4 PTS) (Malone 2 AST),16 - 11,-5
+0020100717,73,6,17,1,7:29 PM,3:05,,,Jazz T.Foul (Def. 3 Sec Collins ),,
+0020100717,74,8,0,1,7:29 PM,3:05,,,SUB: Starks FOR Russell,,
+0020100717,75,3,16,1,7:29 PM,3:05,Iverson Free Throw Technical (2 PTS),,,16 - 12,-4
+0020100717,77,9,1,1,7:29 PM,2:56,,,Jazz Timeout: Regular (Reg.1 Short 0),,
+0020100717,79,1,42,1,7:31 PM,2:52,Coleman  Driving Layup (4 PTS),,,16 - 14,-2
+0020100717,80,2,1,1,7:32 PM,2:30,,,MISS Starks 19' Jump Shot,,
+0020100717,81,4,0,1,7:32 PM,2:29,Harpring REBOUND (Off:0 Def:3),,,,
+0020100717,82,1,5,1,7:32 PM,2:20,Iverson  Layup (4 PTS),,,16 - 16,TIE
+0020100717,84,2,1,1,7:32 PM,2:00,,,MISS Malone 15' Jump Shot,,
+0020100717,87,4,0,1,7:32 PM,1:52,,,Malone REBOUND (Off:2 Def:1),,
+0020100717,86,2,1,1,7:32 PM,1:52,,,MISS Malone 19' Jump Shot,,
+0020100717,88,4,0,1,7:32 PM,1:50,Mutombo REBOUND (Off:0 Def:2),,,,
+0020100717,89,1,5,1,7:33 PM,1:44,Coleman  Layup (6 PTS) (Harpring 1 AST),,,16 - 18,2
+0020100717,92,8,0,1,7:33 PM,1:40,SUB: McKey FOR Harpring,,,,
+0020100717,93,8,0,1,7:33 PM,1:40,SUB: Claxton FOR Snow,,,,
+0020100717,94,1,1,1,7:33 PM,1:29,,,Collins 13' Jump Shot (5 PTS) (LaRue 1 AST),18 - 18,TIE
+0020100717,95,2,1,1,7:33 PM,1:10,MISS Claxton 17' Jump Shot,,,,
+0020100717,96,4,0,1,7:33 PM,1:08,,,Starks REBOUND (Off:0 Def:1),,
+0020100717,97,1,7,1,7:34 PM,1:01,,,Kirilenko  Dunk (2 PTS) (Starks 1 AST),20 - 18,-2
+0020100717,98,5,1,1,7:34 PM,0:46,Claxton Bad Pass Turnover (P1.T4),,Collins STEAL (1 STL),,
+0020100717,100,2,1,1,7:34 PM,0:41,,,MISS Malone 19' Jump Shot,,
+0020100717,101,4,0,1,7:34 PM,0:41,,,Jazz Rebound,,
+0020100717,102,6,3,1,7:34 PM,0:41,McKey L.B.FOUL (P1.T4),,,,
+0020100717,103,2,1,1,7:34 PM,0:33,,,MISS LaRue 28' 3PT Jump Shot,,
+0020100717,104,4,0,1,7:34 PM,0:31,Coleman REBOUND (Off:1 Def:2),,,,
+0020100717,105,6,2,1,7:35 PM,0:21,,,Starks S.FOUL (P1.PN),,
+0020100717,106,3,11,1,7:35 PM,0:21,Mutombo Free Throw 1 of 2 (3 PTS),,,20 - 19,-1
+0020100717,107,8,0,1,7:35 PM,0:21,SUB: Snow FOR Iverson,,,,
+0020100717,108,8,0,1,7:35 PM,0:21,SUB: Blount FOR Coleman,,,,
+0020100717,109,3,12,1,7:35 PM,0:21,Mutombo Free Throw 2 of 2 (4 PTS),,,20 - 20,TIE
+0020100717,110,5,1,1,7:36 PM,0:04,Snow STEAL (2 STL),,LaRue Bad Pass Turnover (P1.T3),,
+0020100717,111,2,1,1,7:36 PM,0:00,MISS Snow 15' Jump Shot,,,,
+0020100717,112,4,0,1,7:36 PM,0:00,Claxton REBOUND (Off:1 Def:0),,,,
+0020100717,113,13,0,1,7:36 PM,0:00,,,,20 - 20,TIE
+0020100717,115,12,0,2,7:39 PM,12:00,,,,20 - 20,TIE
+0020100717,116,1,1,2,7:39 PM,11:39,,,Starks 26' 3PT Jump Shot (3 PTS) (LaRue 2 AST),23 - 20,-3
+0020100717,117,1,5,2,7:39 PM,11:16,Mutombo  Layup (6 PTS) (McKey 1 AST),,,23 - 22,-1
+0020100717,119,1,1,2,7:40 PM,10:40,,,Starks 17' Jump Shot (5 PTS) (LaRue 3 AST),25 - 22,-3
+0020100717,120,5,2,2,7:40 PM,10:15,Snow Lost Ball Turnover (P2.T5),,Starks STEAL (1 STL),,
+0020100717,121,5,2,2,7:40 PM,10:08,Claxton STEAL (1 STL),,Starks Lost Ball Turnover (P1.T4),,
+0020100717,122,6,1,2,7:41 PM,10:01,,,LaRue P.FOUL (P1.T1),,
+0020100717,123,1,1,2,7:41 PM,9:50,Blount 14' Jump Shot (2 PTS) (Snow 1 AST),,,25 - 24,-1
+0020100717,124,1,1,2,7:41 PM,9:30,,,Starks 18' Jump Shot (7 PTS) (LaRue 4 AST),27 - 24,-3
+0020100717,125,6,4,2,7:42 PM,9:14,Claxton OFF.Foul (P1),,,,
+0020100717,126,5,5,2,7:42 PM,9:14,Claxton Foul Turnover (P2.T6),,,,
+0020100717,127,6,2,2,7:42 PM,8:58,Blount S.FOUL (P1.T1),,,,
+0020100717,128,9,3,2,7:42 PM,8:58,,,,,
+0020100717,129,3,11,2,7:45 PM,8:58,,,Ostertag Free Throw 1 of 2 (1 PTS),28 - 24,-4
+0020100717,130,3,12,2,7:45 PM,8:58,,,MISS Ostertag Free Throw 2 of 2,,
+0020100717,131,4,0,2,7:45 PM,8:57,,,Russell REBOUND (Off:1 Def:1),,
+0020100717,132,2,5,2,7:45 PM,8:47,Mutombo BLOCK (3 BLK),,MISS Russell  Layup,,
+0020100717,133,4,0,2,7:45 PM,8:43,,,Russell REBOUND (Off:2 Def:1),,
+0020100717,134,6,2,2,7:45 PM,8:37,Claxton S.FOUL (P2.T2),,,,
+0020100717,135,3,11,2,7:46 PM,8:37,,,LaRue Free Throw 1 of 2 (5 PTS),29 - 24,-5
+0020100717,136,8,0,2,7:46 PM,8:37,SUB: Iverson FOR Claxton,,,,
+0020100717,137,3,12,2,7:46 PM,8:37,,,LaRue Free Throw 2 of 2 (6 PTS),30 - 24,-6
+0020100717,138,2,1,2,7:46 PM,8:14,MISS Snow 6' Jump Shot,,,,
+0020100717,139,4,0,2,7:46 PM,8:12,76ERS Rebound,,,,
+0020100717,140,5,11,2,7:46 PM,8:12,76ERS Turnover: Shot Clock (T#7),,,,
+0020100717,141,8,0,2,7:46 PM,8:12,,,SUB: Stockton FOR LaRue,,
+0020100717,142,2,1,2,7:47 PM,7:56,Blount BLOCK (1 BLK),,MISS Padgett 15' Jump Shot,,
+0020100717,143,4,0,2,7:47 PM,7:53,,,Starks REBOUND (Off:1 Def:1),,
+0020100717,144,2,1,2,7:47 PM,7:49,,,MISS Stockton 16' Jump Shot,,
+0020100717,145,4,0,2,7:47 PM,7:47,Mutombo REBOUND (Off:0 Def:3),,,,
+0020100717,146,6,1,2,7:47 PM,7:31,,,Stockton P.FOUL (P2.T2),,
+0020100717,147,3,11,2,7:48 PM,7:31,Snow Free Throw 1 of 2 (5 PTS),,,30 - 25,-5
+0020100717,148,8,0,2,7:48 PM,7:31,SUB: Harpring FOR McKey,,,,
+0020100717,149,3,12,2,7:48 PM,7:31,Snow Free Throw 2 of 2 (6 PTS),,,30 - 26,-4
+0020100717,150,2,5,2,7:48 PM,7:13,,,MISS Stockton  Layup,,
+0020100717,151,4,0,2,7:48 PM,7:12,76ERS Rebound,,,,
+0020100717,152,6,2,2,7:49 PM,6:55,,,Starks S.FOUL (P2.T3),,
+0020100717,153,3,11,2,7:49 PM,6:55,Iverson Free Throw 1 of 2 (5 PTS),,,30 - 27,-3
+0020100717,154,3,12,2,7:49 PM,6:55,Iverson Free Throw 2 of 2 (6 PTS),,,30 - 28,-2
+0020100717,155,5,1,2,7:50 PM,6:44,Blount STEAL (1 STL),,Stockton Bad Pass Turnover (P1.T5),,
+0020100717,156,2,1,2,7:50 PM,6:32,MISS Iverson 27' 3PT Jump Shot,,,,
+0020100717,159,4,0,2,7:50 PM,6:32,Blount REBOUND (Off:1 Def:0),,,,
+0020100717,161,2,45,2,7:50 PM,6:30,MISS Blount 7' Jump Shot,,Ostertag BLOCK (1 BLK),,
+0020100717,158,4,0,2,7:50 PM,6:27,Harpring REBOUND (Off:1 Def:3),,,,
+0020100717,157,1,5,2,7:50 PM,6:27,Harpring  Layup (4 PTS),,,30 - 30,TIE
+0020100717,160,1,1,2,7:50 PM,6:09,,,Russell 9' Jump Shot (6 PTS) (Padgett 1 AST),32 - 30,-2
+0020100717,162,2,1,2,7:51 PM,5:37,MISS Iverson 26' 3PT Jump Shot,,,,
+0020100717,163,4,0,2,7:51 PM,5:37,76ERS Rebound,,,,
+0020100717,259,5,11,2,7:51 PM,5:37,76ERS Turnover: Shot Clock (T#8),,,,
+0020100717,164,9,1,2,7:51 PM,5:37,76ERS Timeout: Regular (Full 2 Short 0),,,,
+0020100717,166,8,0,2,7:53 PM,5:37,,,SUB: Malone FOR Padgett,,
+0020100717,167,2,1,2,7:53 PM,5:23,,,MISS Russell 13' Jump Shot,,
+0020100717,168,4,0,2,7:53 PM,5:22,Mutombo REBOUND (Off:0 Def:4),,,,
+0020100717,169,2,1,2,7:53 PM,5:12,MISS Iverson 16' Jump Shot,,,,
+0020100717,170,4,0,2,7:53 PM,5:10,,,Stockton REBOUND (Off:0 Def:3),,
+0020100717,171,2,5,2,7:53 PM,5:06,,,MISS Stockton  Layup,,
+0020100717,173,4,0,2,7:53 PM,5:04,,,Malone REBOUND (Off:3 Def:1),,
+0020100717,172,1,5,2,7:53 PM,5:04,,,Malone  Layup (6 PTS),34 - 30,-4
+0020100717,174,6,1,2,7:54 PM,4:49,,,Stockton P.FOUL (P3.T4),,
+0020100717,175,8,0,2,7:54 PM,4:49,SUB: Coleman FOR Mutombo,,,,
+0020100717,176,8,0,2,7:54 PM,4:49,,,SUB: LaRue FOR Stockton,,
+0020100717,177,2,1,2,7:54 PM,4:42,MISS Iverson 12' Jump Shot,,,,
+0020100717,178,4,0,2,7:54 PM,4:40,,,Russell REBOUND (Off:2 Def:2),,
+0020100717,179,1,5,2,7:54 PM,4:36,,,Malone  Layup (8 PTS) (Starks 2 AST),36 - 30,-6
+0020100717,180,6,2,2,7:54 PM,4:36,Blount S.FOUL (P2.T3),,,,
+0020100717,181,8,0,2,7:54 PM,4:36,SUB: Claxton FOR Snow,,,,
+0020100717,182,3,10,2,7:55 PM,4:36,,,MISS Malone Free Throw 1 of 1,,
+0020100717,183,4,0,2,7:55 PM,4:34,,,Ostertag REBOUND (Off:1 Def:0),,
+0020100717,185,1,63,2,7:55 PM,4:13,,,Malone 20' Fadeaway Jumper (10 PTS),38 - 30,-8
+0020100717,186,6,2,2,7:56 PM,3:59,,,LaRue S.FOUL (P2.PN),,
+0020100717,187,3,11,2,7:56 PM,3:59,Iverson Free Throw 1 of 2 (7 PTS),,,38 - 31,-7
+0020100717,188,8,0,2,7:56 PM,3:59,SUB: Dalembert FOR Blount,,,,
+0020100717,189,3,12,2,7:56 PM,3:59,Iverson Free Throw 2 of 2 (8 PTS),,,38 - 32,-6
+0020100717,190,6,1,2,7:57 PM,3:41,Claxton P.FOUL (P3.T4),,,,
+0020100717,191,8,0,2,7:57 PM,3:41,SUB: Snow FOR Claxton,,,,
+0020100717,192,1,1,2,7:57 PM,3:33,,,Starks 17' Jump Shot (9 PTS) (LaRue 5 AST),40 - 32,-8
+0020100717,193,6,2,2,7:58 PM,3:16,,,Ostertag S.FOUL (P1.PN),,
+0020100717,194,3,11,2,7:58 PM,3:16,MISS Coleman Free Throw 1 of 2,,,,
+0020100717,195,4,1,2,7:58 PM,3:16,76ERS Rebound,,,,
+0020100717,196,3,12,2,7:58 PM,3:16,Coleman Free Throw 2 of 2 (7 PTS),,,40 - 33,-7
+0020100717,197,2,5,2,7:59 PM,3:01,,,MISS Malone  Layup,,
+0020100717,199,4,0,2,7:59 PM,2:59,,,Ostertag REBOUND (Off:2 Def:0),,
+0020100717,198,1,4,2,7:59 PM,2:59,,,Ostertag  Tip Shot (3 PTS),42 - 33,-9
+0020100717,200,6,11,2,7:59 PM,2:58,,,Malone T.FOUL (P1.PN),,
+0020100717,201,3,16,2,7:59 PM,2:58,Iverson Free Throw Technical (9 PTS),,,42 - 34,-8
+0020100717,202,9,1,2,7:59 PM,2:58,,,Jazz Timeout: Regular (Reg.2 Short 0),,
+0020100717,204,1,1,2,8:02 PM,2:45,Iverson 11' Jump Shot (11 PTS),,,42 - 36,-6
+0020100717,205,2,1,2,8:02 PM,2:19,,,MISS Russell 17' Jump Shot,,
+0020100717,206,4,0,2,8:02 PM,2:18,,,LaRue REBOUND (Off:1 Def:0),,
+0020100717,207,2,5,2,8:02 PM,2:12,,,MISS Russell  Layup,,
+0020100717,209,4,0,2,8:02 PM,2:10,,,Ostertag REBOUND (Off:3 Def:0),,
+0020100717,208,1,4,2,8:02 PM,2:10,,,Ostertag  Tip Shot (5 PTS),44 - 36,-8
+0020100717,210,8,0,2,8:03 PM,1:48,SUB: Mutombo FOR Dalembert,,,,
+0020100717,211,6,2,2,8:03 PM,1:48,,,LaRue S.FOUL (P3.PN),,
+0020100717,212,3,11,2,8:03 PM,1:48,Iverson Free Throw 1 of 2 (12 PTS),,,44 - 37,-7
+0020100717,213,8,0,2,8:03 PM,1:48,,,SUB: Stevenson FOR LaRue,,
+0020100717,214,3,12,2,8:03 PM,1:48,Iverson Free Throw 2 of 2 (13 PTS),,,44 - 38,-6
+0020100717,215,2,1,2,8:04 PM,1:26,,,MISS Russell 19' Jump Shot,,
+0020100717,216,4,0,2,8:04 PM,1:24,Iverson REBOUND (Off:0 Def:2),,,,
+0020100717,217,6,1,2,8:04 PM,1:13,,,Ostertag P.FOUL (P2.PN),,
+0020100717,218,3,11,2,8:04 PM,1:13,Coleman Free Throw 1 of 2 (8 PTS),,,44 - 39,-5
+0020100717,219,8,0,2,8:04 PM,1:13,SUB: Blount FOR Mutombo,,,,
+0020100717,220,3,12,2,8:05 PM,1:13,Coleman Free Throw 2 of 2 (9 PTS),,,44 - 40,-4
+0020100717,221,1,1,2,8:05 PM,0:51,,,Stevenson 18' Jump Shot (2 PTS) (Malone 3 AST),46 - 40,-6
+0020100717,222,2,1,2,8:06 PM,0:41,MISS Snow 15' Jump Shot,,,,
+0020100717,223,4,0,2,8:06 PM,0:38,,,Ostertag REBOUND (Off:3 Def:1),,
+0020100717,224,5,1,2,8:06 PM,0:28,Iverson STEAL (1 STL),,Stevenson Bad Pass Turnover (P1.T6),,
+0020100717,225,2,1,2,8:06 PM,0:19,MISS Coleman 25' 3PT Jump Shot,,,,
+0020100717,226,4,0,2,8:06 PM,0:18,Coleman REBOUND (Off:2 Def:2),,,,
+0020100717,227,2,1,2,8:06 PM,0:02,MISS Iverson 17' Jump Shot,,Stevenson BLOCK (1 BLK),,
+0020100717,228,4,0,2,8:06 PM,0:00,Blount REBOUND (Off:2 Def:0),,,,
+0020100717,229,1,1,2,8:06 PM,0:00,Blount 16' Jump Shot (4 PTS),,,46 - 42,-4
+0020100717,230,13,0,2,8:07 PM,0:00,,,,46 - 42,-4
+0020100717,233,12,0,3,8:22 PM,12:00,,,,46 - 42,-4
+0020100717,234,1,46,3,8:23 PM,11:37,,,Stockton 13' Running Jump Shot (3 PTS),48 - 42,-6
+0020100717,235,2,1,3,8:24 PM,11:15,MISS Harpring 24' 3PT Jump Shot,,,,
+0020100717,236,4,0,3,8:24 PM,11:13,Coleman REBOUND (Off:3 Def:2),,,,
+0020100717,237,2,5,3,8:24 PM,11:03,MISS Snow  Layup,,,,
+0020100717,238,4,0,3,8:24 PM,11:02,Harpring REBOUND (Off:2 Def:3),,,,
+0020100717,239,5,2,3,8:24 PM,10:52,Iverson Lost Ball Turnover (P1.T9),,Stockton STEAL (1 STL),,
+0020100717,240,6,1,3,8:24 PM,10:52,Coleman P.FOUL (P1.T1),,,,
+0020100717,241,2,1,3,8:25 PM,10:30,,,MISS Stockton 16' Jump Shot,,
+0020100717,242,4,0,3,8:25 PM,10:28,Mutombo REBOUND (Off:0 Def:5),,,,
+0020100717,243,6,1,3,8:25 PM,10:27,,,Collins P.FOUL (P2.T1),,
+0020100717,244,1,1,3,8:25 PM,10:16,Iverson 17' Jump Shot (15 PTS) (Snow 2 AST),,,48 - 44,-4
+0020100717,245,2,1,3,8:25 PM,10:00,,,MISS Kirilenko 27' 3PT Jump Shot,,
+0020100717,246,4,0,3,8:25 PM,9:56,,,Collins REBOUND (Off:3 Def:2),,
+0020100717,247,5,3,3,8:26 PM,9:49,,,Russell Out Of Bounds Turnover (P1.T7),,
+0020100717,248,1,46,3,8:26 PM,9:33,Snow 11' Running Jump Shot (8 PTS) (Iverson 1 AST),,,48 - 46,-2
+0020100717,249,1,1,3,8:26 PM,9:14,,,Russell 27' 3PT Jump Shot (9 PTS) (Malone 4 AST),51 - 46,-5
+0020100717,250,5,2,3,8:27 PM,8:48,Iverson Lost Ball Turnover (P2.T10),,Russell STEAL (1 STL),,
+0020100717,251,2,1,3,8:27 PM,8:42,,,MISS Malone 13' Jump Shot,,
+0020100717,252,4,0,3,8:27 PM,8:40,Coleman REBOUND (Off:3 Def:3),,,,
+0020100717,253,6,2,3,8:27 PM,8:33,,,Collins S.FOUL (P3.T2),,
+0020100717,254,3,11,3,8:28 PM,8:33,Iverson Free Throw 1 of 2 (16 PTS),,,51 - 47,-4
+0020100717,255,3,12,3,8:28 PM,8:33,Iverson Free Throw 2 of 2 (17 PTS),,,51 - 48,-3
+0020100717,256,2,1,3,8:28 PM,8:16,,,MISS Malone 12' Jump Shot,,
+0020100717,257,4,0,3,8:28 PM,8:14,,,Jazz Rebound,,
+0020100717,258,6,3,3,8:28 PM,8:14,Iverson L.B.FOUL (P1.T2),,,,
+0020100717,260,1,1,3,8:29 PM,7:58,,,Collins 13' Jump Shot (7 PTS) (Russell 1 AST),53 - 48,-5
+0020100717,261,6,4,3,8:29 PM,7:49,Coleman OFF.Foul (P2),,,,
+0020100717,262,5,5,3,8:29 PM,7:49,Coleman Foul Turnover (P1.T11),,,,
+0020100717,264,1,1,3,8:30 PM,7:35,,,Stockton 14' Jump Shot (5 PTS),55 - 48,-7
+0020100717,265,6,2,3,8:30 PM,7:21,,,Russell S.FOUL (P2.T3),,
+0020100717,266,3,11,3,8:30 PM,7:21,Iverson Free Throw 1 of 2 (18 PTS),,,55 - 49,-6
+0020100717,267,3,12,3,8:30 PM,7:21,MISS Iverson Free Throw 2 of 2,,,,
+0020100717,268,4,0,3,8:30 PM,7:20,,,Malone REBOUND (Off:3 Def:2),,
+0020100717,269,1,42,3,8:31 PM,7:08,,,Stockton  Driving Layup (7 PTS),57 - 49,-8
+0020100717,270,2,1,3,8:31 PM,6:47,MISS Iverson  3PT Jump Shot,,,,
+0020100717,271,4,0,3,8:31 PM,6:45,,,Malone REBOUND (Off:3 Def:3),,
+0020100717,272,7,5,3,8:31 PM,6:37,Snow Violation:Kicked Ball,,,,
+0020100717,273,1,1,3,8:32 PM,6:35,,,Russell 25' 3PT Jump Shot (12 PTS) (Kirilenko 2 AST),60 - 49,-11
+0020100717,274,1,1,3,8:32 PM,6:19,Harpring 19' Jump Shot (6 PTS) (Snow 3 AST),,,60 - 51,-9
+0020100717,275,6,2,3,8:32 PM,6:02,Snow S.FOUL (P2.T3),,,,
+0020100717,276,3,11,3,8:32 PM,6:02,,,Malone Free Throw 1 of 2 (11 PTS),61 - 51,-10
+0020100717,277,3,12,3,8:33 PM,6:02,,,Malone Free Throw 2 of 2 (12 PTS),62 - 51,-11
+0020100717,278,6,2,3,8:33 PM,5:51,,,Malone S.FOUL (P2.T4),,
+0020100717,279,9,1,3,8:33 PM,5:51,76ERS Timeout: Regular (Full 3 Short 0),,,,
+0020100717,280,3,11,3,8:35 PM,5:51,MISS Harpring Free Throw 1 of 2,,,,
+0020100717,281,4,1,3,8:35 PM,5:51,76ERS Rebound,,,,
+0020100717,282,3,12,3,8:35 PM,5:51,Harpring Free Throw 2 of 2 (7 PTS),,,62 - 52,-10
+0020100717,283,6,1,3,8:36 PM,5:32,Mutombo P.FOUL (P3.T4),,,,
+0020100717,284,5,11,3,8:36 PM,5:18,,,Jazz Turnover: Shot Clock (T#8),,
+0020100717,285,6,4,3,8:37 PM,5:08,Mutombo OFF.Foul (P4),,,,
+0020100717,286,5,5,3,8:37 PM,5:08,Mutombo Foul Turnover (P2.T12),,,,
+0020100717,287,2,1,3,8:37 PM,4:51,,,MISS Malone 15' Jump Shot,,
+0020100717,288,4,0,3,8:37 PM,4:50,76ERS Rebound,,,,
+0020100717,289,8,0,3,8:38 PM,4:50,SUB: Blount FOR Mutombo,,,,
+0020100717,290,2,1,3,8:38 PM,4:36,MISS Harpring 11' Jump Shot,,,,
+0020100717,291,4,0,3,8:38 PM,4:33,,,Stockton REBOUND (Off:0 Def:4),,
+0020100717,292,1,5,3,8:38 PM,4:28,,,Kirilenko  Layup (4 PTS) (Stockton 4 AST),64 - 52,-12
+0020100717,293,6,4,3,8:38 PM,4:17,Blount OFF.Foul (P3),,,,
+0020100717,294,5,5,3,8:38 PM,4:17,Blount Foul Turnover (P1.T13),,,,
+0020100717,295,8,0,3,8:38 PM,4:17,,,SUB: LaRue FOR Stockton,,
+0020100717,296,2,5,3,8:39 PM,3:54,,,MISS LaRue  Layup,,
+0020100717,298,4,0,3,8:39 PM,3:52,,,Kirilenko REBOUND (Off:2 Def:1),,
+0020100717,297,2,1,3,8:39 PM,3:52,,,MISS Kirilenko 5' Jump Shot,,
+0020100717,299,4,0,3,8:39 PM,3:50,,,Collins REBOUND (Off:4 Def:2),,
+0020100717,300,6,2,3,8:39 PM,3:50,Snow S.FOUL (P3.PN),,,,
+0020100717,301,3,11,3,8:39 PM,3:50,,,Collins Free Throw 1 of 2 (8 PTS),65 - 52,-13
+0020100717,302,3,12,3,8:39 PM,3:50,,,Collins Free Throw 2 of 2 (9 PTS),66 - 52,-14
+0020100717,303,2,5,3,8:40 PM,3:37,MISS Iverson 1' Layup,,,,
+0020100717,305,4,0,3,8:40 PM,3:35,Coleman REBOUND (Off:4 Def:3),,,,
+0020100717,304,1,5,3,8:40 PM,3:35,Coleman  Layup (11 PTS),,,66 - 54,-12
+0020100717,306,1,5,3,8:40 PM,3:19,,,Malone  Layup (14 PTS),68 - 54,-14
+0020100717,307,2,1,3,8:40 PM,3:02,MISS Iverson 19' Jump Shot,,,,
+0020100717,308,4,0,3,8:40 PM,3:01,,,Malone REBOUND (Off:3 Def:4),,
+0020100717,309,6,2,3,8:41 PM,2:50,Coleman S.FOUL (P3.PN),,,,
+0020100717,310,9,1,3,8:41 PM,2:50,,,Jazz Timeout: Regular (Reg.3 Short 0),,
+0020100717,312,3,11,3,8:43 PM,2:50,,,Malone Free Throw 1 of 2 (15 PTS),69 - 54,-15
+0020100717,313,3,12,3,8:43 PM,2:50,,,MISS Malone Free Throw 2 of 2,,
+0020100717,314,4,0,3,8:43 PM,2:48,Harpring REBOUND (Off:2 Def:4),,,,
+0020100717,315,2,1,3,8:44 PM,2:29,MISS Harpring 17' Jump Shot,,,,
+0020100717,316,4,0,3,8:44 PM,2:28,,,Malone REBOUND (Off:3 Def:5),,
+0020100717,317,2,1,3,8:44 PM,2:16,,,MISS Malone 15' Jump Shot,,
+0020100717,318,4,0,3,8:44 PM,2:14,,,Collins REBOUND (Off:5 Def:2),,
+0020100717,319,6,3,3,8:44 PM,2:14,Blount L.B.FOUL (P4.PN),,,,
+0020100717,320,8,0,3,8:44 PM,2:14,,,SUB: Starks FOR Russell,,
+0020100717,321,3,11,3,8:44 PM,2:14,,,Collins Free Throw 1 of 2 (10 PTS),70 - 54,-16
+0020100717,323,8,0,3,8:45 PM,2:14,SUB: Bell FOR Harpring,,,,
+0020100717,324,3,12,3,8:45 PM,2:14,,,Collins Free Throw 2 of 2 (11 PTS),71 - 54,-17
+0020100717,325,6,2,3,8:45 PM,2:06,,,LaRue S.FOUL (P4.PN),,
+0020100717,326,3,11,3,8:45 PM,2:06,Snow Free Throw 1 of 2 (9 PTS),,,71 - 55,-16
+0020100717,327,8,0,3,8:45 PM,2:06,,,SUB: Stevenson FOR LaRue,,
+0020100717,328,3,12,3,8:45 PM,2:06,Snow Free Throw 2 of 2 (10 PTS),,,71 - 56,-15
+0020100717,329,1,42,3,8:46 PM,1:57,,,Stevenson  Driving Layup (4 PTS),73 - 56,-17
+0020100717,330,2,1,3,8:46 PM,1:40,MISS Coleman 27' 3PT Jump Shot,,,,
+0020100717,331,4,0,3,8:46 PM,1:38,,,Kirilenko REBOUND (Off:2 Def:2),,
+0020100717,332,6,2,3,8:46 PM,1:27,Snow S.FOUL (P4.PN),,,,
+0020100717,333,3,11,3,8:46 PM,1:27,,,MISS Kirilenko Free Throw 1 of 2,,
+0020100717,334,4,1,3,8:46 PM,1:27,,,Jazz Rebound,,
+0020100717,335,8,0,3,8:47 PM,1:27,SUB: Claxton FOR Snow,,,,
+0020100717,336,3,12,3,8:47 PM,1:27,,,Kirilenko Free Throw 2 of 2 (5 PTS),74 - 56,-18
+0020100717,337,6,1,3,8:47 PM,1:12,,,Starks P.FOUL (P3.PN),,
+0020100717,338,3,11,3,8:48 PM,1:12,Iverson Free Throw 1 of 2 (19 PTS),,,74 - 57,-17
+0020100717,339,3,12,3,8:48 PM,1:12,Iverson Free Throw 2 of 2 (20 PTS),,,74 - 58,-16
+0020100717,340,2,1,3,8:48 PM,0:53,,,MISS Malone 18' Jump Shot,,
+0020100717,341,4,0,3,8:48 PM,0:51,Coleman REBOUND (Off:4 Def:4),,,,
+0020100717,342,2,5,3,8:49 PM,0:39,MISS Iverson 3' Layup,,,,
+0020100717,344,4,0,3,8:49 PM,0:37,Blount REBOUND (Off:3 Def:0),,,,
+0020100717,343,2,1,3,8:49 PM,0:37,MISS Blount 7' Jump Shot,,,,
+0020100717,345,4,0,3,8:49 PM,0:34,,,Kirilenko REBOUND (Off:2 Def:3),,
+0020100717,346,5,2,3,8:49 PM,0:24,Claxton STEAL (2 STL),,Stevenson Lost Ball Turnover (P2.T9),,
+0020100717,347,6,3,3,8:49 PM,0:24,,,Kirilenko L.B.FOUL (P1.PN),,
+0020100717,348,3,11,3,8:49 PM,0:24,Claxton Free Throw 1 of 2 (1 PTS),,,74 - 59,-15
+0020100717,349,8,0,3,8:49 PM,0:24,,,SUB: Padgett FOR Malone,,
+0020100717,351,8,0,3,8:50 PM,0:24,SUB: Harpring FOR Coleman,,,,
+0020100717,352,3,12,3,8:50 PM,0:24,Claxton Free Throw 2 of 2 (2 PTS),,,74 - 60,-14
+0020100717,353,5,1,3,8:50 PM,0:16,Blount STEAL (2 STL),,Stevenson Bad Pass Turnover (P3.T10),,
+0020100717,354,1,42,3,8:50 PM,0:09,Iverson  Driving Layup (22 PTS),,,74 - 62,-12
+0020100717,355,13,0,3,8:50 PM,0:00,,,,74 - 62,-12
+0020100717,356,12,0,4,8:53 PM,12:00,,,,74 - 62,-12
+0020100717,357,5,2,4,8:53 PM,11:47,Iverson Lost Ball Turnover (P3.T14),,Stockton STEAL (2 STL),,
+0020100717,358,6,2,4,8:53 PM,11:42,Mutombo S.FOUL (P5.T1),,,,
+0020100717,359,8,0,4,8:53 PM,11:42,,,SUB: Ostertag FOR Starks,,
+0020100717,360,3,11,4,8:54 PM,11:42,,,Stockton Free Throw 1 of 2 (8 PTS),75 - 62,-13
+0020100717,361,8,0,4,8:54 PM,11:42,SUB: Coleman FOR Mutombo,,,,
+0020100717,362,3,12,4,8:54 PM,11:42,,,Stockton Free Throw 2 of 2 (9 PTS),76 - 62,-14
+0020100717,363,1,1,4,8:54 PM,11:32,Iverson 19' Jump Shot (24 PTS) (Claxton 1 AST),,,76 - 64,-12
+0020100717,364,2,1,4,8:55 PM,11:15,,,MISS Stockton 4' Jump Shot,,
+0020100717,365,4,0,4,8:55 PM,11:13,Bell REBOUND (Off:0 Def:1),,,,
+0020100717,366,2,5,4,8:55 PM,11:08,MISS Claxton  Layup,,,,
+0020100717,367,4,0,4,8:55 PM,11:07,,,Ostertag REBOUND (Off:3 Def:2),,
+0020100717,368,2,5,4,8:55 PM,10:48,Blount BLOCK (2 BLK),,MISS Padgett  Layup,,
+0020100717,370,4,0,4,8:55 PM,10:44,,,Ostertag REBOUND (Off:4 Def:2),,
+0020100717,369,2,4,4,8:55 PM,10:44,,,MISS Ostertag  Tip Shot,,
+0020100717,371,4,0,4,8:55 PM,10:42,,,Ostertag REBOUND (Off:5 Def:2),,
+0020100717,372,6,4,4,8:55 PM,10:40,,,Stockton OFF.Foul (P4),,
+0020100717,373,5,5,4,8:55 PM,10:40,,,Stockton Foul Turnover (P2.T11),,
+0020100717,374,6,1,4,8:56 PM,10:32,,,Padgett P.FOUL (P1.T1),,
+0020100717,375,2,1,4,8:56 PM,10:28,MISS Iverson 16' Jump Shot,,,,
+0020100717,376,4,0,4,8:56 PM,10:25,,,Stockton REBOUND (Off:0 Def:5),,
+0020100717,377,1,5,4,8:56 PM,10:09,,,Malone  Layup (17 PTS) (Ostertag 1 AST),78 - 64,-14
+0020100717,378,6,2,4,8:56 PM,10:09,Coleman S.FOUL (P4.T2),,,,
+0020100717,379,3,10,4,8:57 PM,10:09,,,Malone Free Throw 1 of 1 (18 PTS),79 - 64,-15
+0020100717,380,1,42,4,8:57 PM,9:57,Iverson  Driving Layup (26 PTS) (Claxton 2 AST),,,79 - 66,-13
+0020100717,381,6,2,4,8:57 PM,9:57,,,Russell S.FOUL (P3.T2),,
+0020100717,382,3,10,4,8:57 PM,9:57,MISS Iverson Free Throw 1 of 1,,,,
+0020100717,383,8,0,4,8:57 PM,9:57,,,SUB: Starks FOR Padgett,,
+0020100717,384,4,0,4,8:58 PM,9:56,,,Malone REBOUND (Off:3 Def:6),,
+0020100717,385,6,1,4,8:58 PM,9:43,Blount P.FOUL (P5.T3),,,,
+0020100717,386,1,1,4,8:58 PM,9:38,,,Malone 20' Jump Shot (20 PTS),81 - 66,-15
+0020100717,387,2,1,4,8:59 PM,9:23,MISS Bell 17' Jump Shot,,,,
+0020100717,388,4,0,4,8:59 PM,9:20,,,Malone REBOUND (Off:3 Def:7),,
+0020100717,389,5,1,4,8:59 PM,9:11,Blount STEAL (3 STL),,Russell Bad Pass Turnover (P2.T12),,
+0020100717,390,1,42,4,8:59 PM,9:07,Bell  Driving Layup (2 PTS),,,81 - 68,-13
+0020100717,391,2,5,4,8:59 PM,8:51,,,MISS Stockton  Layup,,
+0020100717,392,4,0,4,8:59 PM,8:50,Coleman REBOUND (Off:4 Def:5),,,,
+0020100717,393,6,1,4,8:59 PM,8:50,,,Stockton P.FOUL (P5.T3),,
+0020100717,394,9,4,4,8:59 PM,8:50,,,,,
+0020100717,395,8,0,4,9:00 PM,8:50,SUB: Mutombo FOR Blount,,,,
+0020100717,396,8,0,4,9:01 PM,8:50,,,SUB: LaRue FOR Stockton,,
+0020100717,397,5,1,4,9:02 PM,8:42,Claxton Bad Pass Turnover (P3.T15),,,,
+0020100717,398,1,56,4,9:02 PM,8:21,,,Malone 8' Running Hook Shot (22 PTS),83 - 68,-15
+0020100717,399,2,1,4,9:02 PM,8:06,MISS Claxton 24' 3PT Jump Shot,,,,
+0020100717,400,4,0,4,9:02 PM,8:03,,,Starks REBOUND (Off:1 Def:2),,
+0020100717,401,5,11,4,9:03 PM,7:39,,,Jazz Turnover: Shot Clock (T#13),,
+0020100717,402,6,1,4,9:03 PM,7:30,,,LaRue P.FOUL (P5.T4),,
+0020100717,403,1,61,4,9:04 PM,7:24,Iverson  Driving Finger Roll (28 PTS) (Claxton 3 AST),,,83 - 70,-13
+0020100717,404,5,3,4,9:04 PM,7:13,,,LaRue Out Of Bounds Turnover (P2.T14),,
+0020100717,405,6,2,4,9:04 PM,7:02,,,Ostertag S.FOUL (P3.PN),,
+0020100717,406,3,11,4,9:04 PM,7:02,Claxton Free Throw 1 of 2 (3 PTS),,,83 - 71,-12
+0020100717,407,3,12,4,9:05 PM,7:02,Claxton Free Throw 2 of 2 (4 PTS),,,83 - 72,-11
+0020100717,408,1,7,4,9:05 PM,6:53,,,Ostertag  Dunk (7 PTS) (Malone 5 AST),85 - 72,-13
+0020100717,409,1,47,4,9:05 PM,6:33,Iverson 11' Turnaround Jump Shot (30 PTS),,,85 - 74,-11
+0020100717,410,1,1,4,9:06 PM,6:12,,,Russell 21' Jump Shot (14 PTS) (Malone 6 AST),87 - 74,-13
+0020100717,411,1,42,4,9:06 PM,6:01,Claxton  Driving Layup (6 PTS),,,87 - 76,-11
+0020100717,412,1,42,4,9:06 PM,5:43,,,LaRue  Driving Layup (8 PTS),89 - 76,-13
+0020100717,413,9,1,4,9:07 PM,5:32,76ERS Timeout: Regular (Full 4 Short 0),,,,
+0020100717,414,8,0,4,9:08 PM,5:32,SUB: Snow FOR Claxton,,,,
+0020100717,415,2,1,4,9:09 PM,5:19,MISS Snow 11' Jump Shot,,Malone BLOCK (2 BLK),,
+0020100717,417,4,0,4,9:09 PM,5:16,Coleman REBOUND (Off:5 Def:5),,,,
+0020100717,416,1,5,4,9:09 PM,5:16,Coleman  Layup (13 PTS),,,89 - 78,-11
+0020100717,418,2,1,4,9:09 PM,5:01,,,MISS Starks 27' 3PT Jump Shot,,
+0020100717,420,4,0,4,9:09 PM,4:58,,,Malone REBOUND (Off:4 Def:7),,
+0020100717,419,1,5,4,9:09 PM,4:58,,,Malone  Layup (24 PTS),91 - 78,-13
+0020100717,421,6,2,4,9:10 PM,4:41,,,Ostertag S.FOUL (P4.PN),,
+0020100717,422,8,0,4,9:10 PM,4:41,,,SUB: Stockton FOR LaRue,,
+0020100717,423,8,0,4,9:10 PM,4:41,SUB: Claxton FOR Bell,,,,
+0020100717,424,3,11,4,9:10 PM,4:41,Iverson Free Throw 1 of 2 (31 PTS),,,91 - 79,-12
+0020100717,425,3,12,4,9:10 PM,4:41,Iverson Free Throw 2 of 2 (32 PTS),,,91 - 80,-11
+0020100717,427,1,1,4,9:11 PM,4:16,,,Stockton 12' Jump Shot (11 PTS) (Malone 7 AST),93 - 80,-13
+0020100717,428,2,1,4,9:11 PM,3:57,MISS Iverson 11' Jump Shot,,,,
+0020100717,429,4,0,4,9:11 PM,3:54,,,Malone REBOUND (Off:4 Def:8),,
+0020100717,430,6,1,4,9:11 PM,3:37,Claxton P.FOUL (P4.T4),,,,
+0020100717,431,2,1,4,9:12 PM,3:23,,,MISS Russell 28' 3PT Jump Shot,,
+0020100717,432,4,0,4,9:12 PM,3:22,,,Jazz Rebound,,
+0020100717,433,5,11,4,9:12 PM,3:22,,,Jazz Turnover: Shot Clock (T#15),,
+0020100717,434,2,1,4,9:12 PM,3:16,MISS Claxton 18' Jump Shot,,,,
+0020100717,435,4,0,4,9:13 PM,3:14,,,Ostertag REBOUND (Off:5 Def:3),,
+0020100717,436,5,1,4,9:13 PM,3:02,Snow STEAL (3 STL),,Stockton Bad Pass Turnover (P3.T16),,
+0020100717,438,7,2,4,9:13 PM,2:59,,,Ostertag Violation:Defensive Goaltending,,
+0020100717,437,1,42,4,9:13 PM,2:59,Snow  Driving Layup (12 PTS),,,93 - 82,-11
+0020100717,439,2,5,4,9:13 PM,2:47,Mutombo BLOCK (4 BLK),,MISS Malone  Layup,,
+0020100717,440,4,0,4,9:13 PM,2:46,,,Jazz Rebound,,
+0020100717,441,9,1,4,9:13 PM,2:46,,,Jazz Timeout: Regular (Reg.4 Short 0),,
+0020100717,442,2,5,4,9:16 PM,2:39,Coleman BLOCK (2 BLK),,MISS Ostertag  Layup,,
+0020100717,443,4,0,4,9:16 PM,2:36,Claxton REBOUND (Off:1 Def:1),,,,
+0020100717,444,1,5,4,9:16 PM,2:33,Iverson  Layup (34 PTS) (Claxton 4 AST),,,93 - 84,-9
+0020100717,445,6,1,4,9:16 PM,2:07,Snow P.FOUL (P5.PN),,,,
+0020100717,446,3,11,4,9:16 PM,2:07,,,MISS Ostertag Free Throw 1 of 2,,
+0020100717,450,4,0,4,9:16 PM,2:07,,,Jazz Rebound,,
+0020100717,447,3,12,4,9:17 PM,2:07,,,Ostertag Free Throw 2 of 2 (8 PTS),94 - 84,-10
+0020100717,451,2,1,4,9:17 PM,1:57,MISS Coleman 15' Jump Shot,,,,
+0020100717,452,4,0,4,9:17 PM,1:57,Mutombo REBOUND (Off:1 Def:5),,,,
+0020100717,453,1,4,4,9:17 PM,1:57,Mutombo  Tip Shot (8 PTS),,,94 - 86,-8
+0020100717,455,2,1,4,9:18 PM,1:36,,,MISS Russell 28' 3PT Jump Shot,,
+0020100717,456,4,0,4,9:18 PM,1:34,,,Starks REBOUND (Off:2 Def:2),,
+0020100717,458,5,2,4,9:18 PM,1:31,Snow STEAL (4 STL),,Russell Lost Ball Turnover (P3.T17),,
+0020100717,460,6,2,4,9:18 PM,1:27,,,Ostertag S.FOUL (P5.PN),,
+0020100717,462,3,11,4,9:18 PM,1:27,Coleman Free Throw 1 of 2 (14 PTS),,,94 - 87,-7
+0020100717,463,8,0,4,9:18 PM,1:27,,,SUB: Collins FOR Ostertag,,
+0020100717,464,8,0,4,9:18 PM,1:27,SUB: Harpring FOR Mutombo,,,,
+0020100717,465,3,12,4,9:19 PM,1:27,MISS Coleman Free Throw 2 of 2,,,,
+0020100717,468,4,0,4,9:19 PM,1:25,,,Collins REBOUND (Off:5 Def:3),,
+0020100717,467,10,0,4,9:19 PM,1:25,Jump Ball Snow vs. Collins: Tip to Malone,,,,
+0020100717,469,9,2,4,9:19 PM,1:25,,,Jazz Timeout: Short (Reg.4 Short 1),,
+0020100717,470,5,4,4,9:20 PM,1:21,,,Malone Traveling Turnover (P2.T18),,
+0020100717,471,2,5,4,9:21 PM,1:16,MISS Claxton 3' Layup,,,,
+0020100717,472,4,0,4,9:21 PM,1:14,,,Malone REBOUND (Off:4 Def:9),,
+0020100717,473,6,1,4,9:21 PM,1:13,Coleman P.FOUL (P5.PN),,,,
+0020100717,475,3,11,4,9:21 PM,1:13,,,Malone Free Throw 1 of 2 (25 PTS),95 - 87,-8
+0020100717,477,8,0,4,9:22 PM,1:13,,,SUB: Padgett FOR Collins,,
+0020100717,478,3,12,4,9:22 PM,1:13,,,Malone Free Throw 2 of 2 (26 PTS),96 - 87,-9
+0020100717,480,6,1,4,9:22 PM,1:07,,,Starks P.FOUL (P4.PN),,
+0020100717,481,3,11,4,9:22 PM,1:07,Coleman Free Throw 1 of 2 (15 PTS),,,96 - 88,-8
+0020100717,483,8,0,4,9:23 PM,1:07,SUB: Bell FOR Harpring,,,,
+0020100717,484,3,12,4,9:23 PM,1:07,Coleman Free Throw 2 of 2 (16 PTS),,,96 - 89,-7
+0020100717,485,6,2,4,9:23 PM,0:48,Bell S.FOUL (P1.PN),,,,
+0020100717,486,3,11,4,9:23 PM,0:48,,,Padgett Free Throw 1 of 2 (1 PTS),97 - 89,-8
+0020100717,487,8,0,4,9:24 PM,0:48,SUB: Harpring FOR Bell,,,,
+0020100717,488,3,12,4,9:24 PM,0:48,,,Padgett Free Throw 2 of 2 (2 PTS),98 - 89,-9
+0020100717,489,2,1,4,9:24 PM,0:43,MISS Iverson 27' 3PT Jump Shot,,,,
+0020100717,490,4,0,4,9:24 PM,0:41,,,Russell REBOUND (Off:2 Def:3),,
+0020100717,491,5,1,4,9:24 PM,0:19,,,Padgett Bad Pass Turnover (P1.T19),,
+0020100717,492,1,42,4,9:25 PM,0:13,Snow  Driving Layup (14 PTS),,,98 - 91,-7
+0020100717,493,13,0,4,9:25 PM,0:00,,,,98 - 91,-7

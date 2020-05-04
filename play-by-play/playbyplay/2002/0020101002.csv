@@ -1,0 +1,468 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020101002,0,12,0,1,7:46 PM,12:00,,,,,
+0020101002,1,10,0,1,7:47 PM,12:00,Jump Ball Thomas vs. Bateer: Tip to Jackson,,,,
+0020101002,2,6,2,1,7:47 PM,11:45,,,Bowen S.FOUL (P1.T1),,
+0020101002,3,3,11,1,7:47 PM,11:45,Anderson Free Throw 1 of 2 (1 PTS),,,0 - 1,1
+0020101002,4,3,12,1,7:47 PM,11:45,MISS Anderson Free Throw 2 of 2,,,,
+0020101002,5,4,0,1,7:47 PM,11:45,,,Cheaney REBOUND (Off:0 Def:1),,
+0020101002,6,2,1,1,7:48 PM,11:27,,,MISS Howard 12' Jump Shot,,
+0020101002,7,4,0,1,7:48 PM,11:24,Thomas REBOUND (Off:0 Def:1),,,,
+0020101002,8,5,3,1,7:48 PM,11:12,Sprewell Out Of Bounds Turnover (P1.T1),,,,
+0020101002,9,2,1,1,7:48 PM,10:53,,,MISS McCloud 20' Jump Shot,,
+0020101002,10,4,0,1,7:48 PM,10:51,Anderson REBOUND (Off:0 Def:1),,,,
+0020101002,11,6,1,1,7:49 PM,10:44,,,Bateer P.FOUL (P1.T2),,
+0020101002,12,2,5,1,7:49 PM,10:39,MISS Thomas  Layup,,,,
+0020101002,13,4,0,1,7:49 PM,10:38,Thomas REBOUND (Off:1 Def:1),,,,
+0020101002,14,2,5,1,7:49 PM,10:36,MISS Thomas  Layup,,,,
+0020101002,16,4,0,1,7:49 PM,10:34,Thomas REBOUND (Off:2 Def:1),,,,
+0020101002,15,1,4,1,7:49 PM,10:34,Thomas  Tip Shot (2 PTS),,,0 - 3,3
+0020101002,17,1,42,1,7:49 PM,10:20,,,Bateer  Driving Layup (2 PTS) (Cheaney 1 AST),2 - 3,1
+0020101002,18,6,2,1,7:49 PM,10:20,Weatherspoon S.FOUL (P1.T1),,,,
+0020101002,19,3,10,1,7:50 PM,10:20,,,Bateer Free Throw 1 of 1 (3 PTS),3 - 3,TIE
+0020101002,20,2,1,1,7:50 PM,10:02,MISS Thomas 13' Jump Shot,,,,
+0020101002,21,4,0,1,7:50 PM,10:00,,,Howard REBOUND (Off:0 Def:1),,
+0020101002,22,2,1,1,7:50 PM,9:48,,,MISS Cheaney 17' Jump Shot,,
+0020101002,23,4,0,1,7:50 PM,9:45,,,Howard REBOUND (Off:1 Def:1),,
+0020101002,24,1,1,1,7:50 PM,9:35,,,Bateer 10' Jump Shot (5 PTS),5 - 3,-2
+0020101002,25,1,42,1,7:51 PM,9:19,Jackson  Driving Layup (2 PTS),,,5 - 5,TIE
+0020101002,26,5,3,1,7:51 PM,8:58,,,Bateer Out Of Bounds Turnover (P1.T1),,
+0020101002,27,1,1,1,7:51 PM,8:48,Sprewell 20' Jump Shot (2 PTS) (Jackson 1 AST),,,5 - 7,2
+0020101002,28,5,2,1,7:51 PM,8:38,Jackson STEAL (1 STL),,McCloud Lost Ball Turnover (P1.T2),,
+0020101002,29,1,42,1,7:51 PM,8:34,Anderson  Driving Layup (3 PTS) (Jackson 2 AST),,,5 - 9,4
+0020101002,30,2,1,1,7:52 PM,8:16,,,MISS Cheaney 6' Jump Shot,,
+0020101002,31,4,0,1,7:52 PM,8:14,,,Bateer REBOUND (Off:1 Def:0),,
+0020101002,32,1,1,1,7:52 PM,8:11,,,Cheaney 15' Jump Shot (2 PTS) (Bateer 1 AST),7 - 9,2
+0020101002,33,2,1,1,7:52 PM,7:48,MISS Weatherspoon 5' Jump Shot,,,,
+0020101002,34,4,0,1,7:52 PM,7:46,,,Cheaney REBOUND (Off:0 Def:2),,
+0020101002,35,2,1,1,7:53 PM,7:32,,,MISS Bateer 22' Jump Shot,,
+0020101002,36,4,0,1,7:53 PM,7:30,Thomas REBOUND (Off:2 Def:2),,,,
+0020101002,37,6,17,1,7:53 PM,7:11,,,Nuggets T.Foul (Def. 3 Sec Bateer ),,
+0020101002,38,3,16,1,7:53 PM,7:11,Sprewell Free Throw Technical (3 PTS),,,7 - 10,3
+0020101002,39,2,1,1,7:53 PM,7:09,MISS Weatherspoon 11' Jump Shot,,,,
+0020101002,40,4,0,1,7:53 PM,7:08,,,Bateer REBOUND (Off:1 Def:1),,
+0020101002,41,5,1,1,7:54 PM,7:04,Thomas STEAL (1 STL),,Bateer Bad Pass Turnover (P2.T3),,
+0020101002,42,5,1,1,7:54 PM,6:58,Jackson Bad Pass Turnover (P1.T2),,Cheaney STEAL (1 STL),,
+0020101002,43,6,2,1,7:54 PM,6:45,Anderson S.FOUL (P1.T2),,,,
+0020101002,44,9,1,1,7:54 PM,6:45,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0020101002,46,3,11,1,7:56 PM,6:45,,,McCloud Free Throw 1 of 2 (1 PTS),8 - 10,2
+0020101002,47,3,12,1,7:56 PM,6:45,,,MISS McCloud Free Throw 2 of 2,,
+0020101002,48,4,0,1,7:57 PM,6:44,Thomas REBOUND (Off:2 Def:3),,,,
+0020101002,49,2,1,1,7:57 PM,6:29,MISS Thomas 13' Jump Shot,,,,
+0020101002,50,4,0,1,7:57 PM,6:27,,,Cheaney REBOUND (Off:0 Def:3),,
+0020101002,51,2,5,1,7:57 PM,6:16,,,MISS Howard  Layup,,
+0020101002,52,4,0,1,7:57 PM,6:14,Thomas REBOUND (Off:2 Def:4),,,,
+0020101002,53,2,1,1,7:57 PM,6:00,MISS Jackson 26' 3PT Jump Shot,,,,
+0020101002,54,4,0,1,7:57 PM,5:58,,,McCloud REBOUND (Off:0 Def:1),,
+0020101002,55,6,1,1,7:57 PM,5:56,Sprewell P.FOUL (P1.T3),,,,
+0020101002,56,6,2,1,7:58 PM,5:47,Thomas S.FOUL (P1.T4),,,,
+0020101002,57,3,11,1,7:58 PM,5:47,,,MISS Howard Free Throw 1 of 2,,
+0020101002,58,4,1,1,7:58 PM,5:47,,,Nuggets Rebound,,
+0020101002,59,3,12,1,7:58 PM,5:47,,,Howard Free Throw 2 of 2 (1 PTS),9 - 10,1
+0020101002,60,2,1,1,7:59 PM,5:32,MISS Anderson 18' Jump Shot,,,,
+0020101002,61,4,0,1,7:59 PM,5:30,Weatherspoon REBOUND (Off:1 Def:0),,,,
+0020101002,62,1,1,1,7:59 PM,5:28,Sprewell 26' 3PT Jump Shot (6 PTS) (Weatherspoon 1 AST),,,9 - 13,4
+0020101002,63,2,1,1,7:59 PM,5:09,,,MISS Howard 13' Jump Shot,,
+0020101002,64,4,0,1,7:59 PM,5:06,Weatherspoon REBOUND (Off:1 Def:1),,,,
+0020101002,65,6,2,1,8:00 PM,4:53,,,Howard S.FOUL (P1.T3),,
+0020101002,66,3,11,1,8:00 PM,4:53,Thomas Free Throw 1 of 2 (3 PTS),,,9 - 14,5
+0020101002,67,3,12,1,8:00 PM,4:53,Thomas Free Throw 2 of 2 (4 PTS),,,9 - 15,6
+0020101002,68,5,1,1,8:01 PM,4:41,,,McCloud Bad Pass Turnover (P2.T4),,
+0020101002,69,1,1,1,8:01 PM,4:32,Thomas 6' Jump Shot (6 PTS) (Sprewell 1 AST),,,9 - 17,8
+0020101002,70,2,1,1,8:01 PM,4:11,,,MISS McCloud 24' Jump Shot,,
+0020101002,71,4,0,1,8:01 PM,4:09,Jackson REBOUND (Off:0 Def:1),,,,
+0020101002,72,6,2,1,8:01 PM,4:06,,,Bateer S.FOUL (P2.T4),,
+0020101002,73,3,11,1,8:01 PM,4:06,MISS Thomas Free Throw 1 of 2,,,,
+0020101002,74,4,1,1,8:01 PM,4:06,KNICKS Rebound,,,,
+0020101002,75,8,0,1,8:02 PM,4:06,,,SUB: Harvey FOR Bateer,,
+0020101002,76,3,12,1,8:02 PM,4:06,MISS Thomas Free Throw 2 of 2,,,,
+0020101002,77,4,0,1,8:02 PM,4:05,,,Howard REBOUND (Off:1 Def:2),,
+0020101002,78,2,1,1,8:02 PM,3:49,,,MISS Cheaney 18' Jump Shot,,
+0020101002,79,4,0,1,8:02 PM,3:47,Anderson REBOUND (Off:0 Def:2),,,,
+0020101002,80,5,1,1,8:03 PM,3:39,Jackson Bad Pass Turnover (P2.T3),,,,
+0020101002,81,2,1,1,8:03 PM,3:25,,,MISS Harvey 12' Jump Shot,,
+0020101002,82,4,0,1,8:03 PM,3:23,Thomas REBOUND (Off:2 Def:5),,,,
+0020101002,83,2,1,1,8:03 PM,3:19,MISS Sprewell 26' 3PT Jump Shot,,,,
+0020101002,84,4,0,1,8:03 PM,3:16,,,Cheaney REBOUND (Off:0 Def:4),,
+0020101002,85,2,1,1,8:03 PM,3:09,,,MISS Cheaney 7' Jump Shot,,
+0020101002,87,4,0,1,8:03 PM,3:07,,,Howard REBOUND (Off:2 Def:2),,
+0020101002,86,1,4,1,8:03 PM,3:07,,,Howard  Tip Shot (3 PTS),11 - 17,6
+0020101002,88,2,1,1,8:03 PM,2:56,MISS Jackson 27' 3PT Jump Shot,,,,
+0020101002,89,4,0,1,8:03 PM,2:54,,,Cheaney REBOUND (Off:0 Def:5),,
+0020101002,90,9,1,1,8:03 PM,2:50,,,Nuggets Timeout: Regular (Reg.1 Short 0),,
+0020101002,92,2,1,1,8:06 PM,2:30,,,MISS Cheaney 4' Jump Shot,,
+0020101002,93,4,0,1,8:06 PM,2:29,,,Harvey REBOUND (Off:1 Def:0),,
+0020101002,94,1,5,1,8:06 PM,2:27,,,Harvey  Layup (2 PTS),13 - 17,4
+0020101002,95,2,1,1,8:07 PM,2:05,MISS Anderson 24' 3PT Jump Shot,,,,
+0020101002,96,4,0,1,8:07 PM,2:03,Weatherspoon REBOUND (Off:2 Def:1),,,,
+0020101002,97,2,5,1,8:07 PM,1:58,MISS Anderson  Layup,,,,
+0020101002,98,4,0,1,8:07 PM,1:56,Sprewell REBOUND (Off:1 Def:0),,,,
+0020101002,99,2,1,1,8:07 PM,1:51,MISS Sprewell 16' Jump Shot,,,,
+0020101002,100,4,0,1,8:07 PM,1:49,,,Bowen REBOUND (Off:0 Def:1),,
+0020101002,101,2,1,1,8:07 PM,1:37,,,MISS Harvey 5' Jump Shot,,
+0020101002,102,4,0,1,8:07 PM,1:35,,,Nuggets Rebound,,
+0020101002,103,2,1,1,8:08 PM,1:29,,,MISS Howard 5' Jump Shot,,
+0020101002,104,4,0,1,8:08 PM,1:26,Thomas REBOUND (Off:2 Def:6),,,,
+0020101002,105,1,42,1,8:08 PM,1:23,Weatherspoon  Driving Layup (2 PTS) (Jackson 3 AST),,,13 - 19,6
+0020101002,106,6,2,1,8:08 PM,1:23,,,Bowen S.FOUL (P2.PN),,
+0020101002,107,3,10,1,8:08 PM,1:23,Weatherspoon Free Throw 1 of 1 (3 PTS),,,13 - 20,7
+0020101002,108,1,5,1,8:08 PM,1:04,,,Bowen  Layup (2 PTS) (Harvey 1 AST),15 - 20,5
+0020101002,109,6,1,1,8:09 PM,0:41,,,Bowen P.FOUL (P3.PN),,
+0020101002,110,8,0,1,8:09 PM,0:41,,,SUB: Lenard FOR Bowen,,
+0020101002,111,3,11,1,8:09 PM,0:41,Anderson Free Throw 1 of 2 (4 PTS),,,15 - 21,6
+0020101002,112,3,12,1,8:09 PM,0:41,Anderson Free Throw 2 of 2 (5 PTS),,,15 - 22,7
+0020101002,113,6,1,1,8:10 PM,0:23,Thomas P.FOUL (P2.PN),,,,
+0020101002,114,3,11,1,8:10 PM,0:23,,,MISS Howard Free Throw 1 of 2,,
+0020101002,115,4,1,1,8:10 PM,0:23,,,Nuggets Rebound,,
+0020101002,116,8,0,1,8:10 PM,0:23,SUB: Knight FOR Thomas,,,,
+0020101002,117,3,12,1,8:10 PM,0:23,,,Howard Free Throw 2 of 2 (4 PTS),16 - 22,6
+0020101002,118,1,46,1,8:11 PM,0:06,Sprewell 5' Running Jump Shot (8 PTS),,,16 - 24,8
+0020101002,119,2,1,1,8:11 PM,0:00,,,MISS Howard 13' Jump Shot,,
+0020101002,120,4,0,1,8:11 PM,0:00,,,Nuggets Rebound,,
+0020101002,121,13,0,1,8:11 PM,0:00,,,,16 - 24,8
+0020101002,123,12,0,2,8:14 PM,12:00,,,,16 - 24,8
+0020101002,124,1,47,2,8:14 PM,11:46,,,Lenard 13' Turnaround Jump Shot (2 PTS),18 - 24,6
+0020101002,125,1,7,2,8:14 PM,11:29,Weatherspoon  Dunk (5 PTS) (Anderson 1 AST),,,18 - 26,8
+0020101002,126,1,1,2,8:15 PM,11:06,,,Lenard 25' 3PT Jump Shot (5 PTS) (McCloud 1 AST),21 - 26,5
+0020101002,127,2,5,2,8:15 PM,10:47,MISS Jackson  Layup,,,,
+0020101002,128,4,0,2,8:15 PM,10:45,,,Howard REBOUND (Off:2 Def:3),,
+0020101002,129,1,49,2,8:15 PM,10:42,,,Harvey  Driving Dunk (4 PTS) (Howard 1 AST),23 - 26,3
+0020101002,130,6,2,2,8:16 PM,10:24,,,McCloud S.FOUL (P1.T1),,
+0020101002,131,8,0,2,8:16 PM,10:24,SUB: Ward FOR Jackson,,,,
+0020101002,132,3,11,2,8:16 PM,10:24,MISS Weatherspoon Free Throw 1 of 2,,,,
+0020101002,133,4,1,2,8:16 PM,10:24,KNICKS Rebound,,,,
+0020101002,134,8,0,2,8:16 PM,10:24,,,SUB: Satterfield FOR McCloud,,
+0020101002,135,3,12,2,8:16 PM,10:24,Weatherspoon Free Throw 2 of 2 (6 PTS),,,23 - 27,4
+0020101002,136,2,1,2,8:17 PM,10:04,,,MISS Lenard 27' 3PT Jump Shot,,
+0020101002,137,4,0,2,8:17 PM,10:02,Knight REBOUND (Off:0 Def:1),,,,
+0020101002,138,2,1,2,8:17 PM,9:53,MISS Knight 18' Jump Shot,,,,
+0020101002,139,4,0,2,8:17 PM,9:51,Anderson REBOUND (Off:1 Def:2),,,,
+0020101002,140,2,5,2,8:17 PM,9:50,MISS Anderson  Layup,,,,
+0020101002,141,4,0,2,8:17 PM,9:49,,,Lenard REBOUND (Off:0 Def:1),,
+0020101002,142,2,5,2,8:17 PM,9:41,,,MISS Cheaney  Layup,,
+0020101002,143,4,0,2,8:17 PM,9:40,,,Howard REBOUND (Off:3 Def:3),,
+0020101002,144,6,2,2,8:17 PM,9:38,Knight S.FOUL (P1.T1),,,,
+0020101002,145,3,11,2,8:17 PM,9:38,,,Howard Free Throw 1 of 2 (5 PTS),24 - 27,3
+0020101002,146,3,12,2,8:18 PM,9:38,,,Howard Free Throw 2 of 2 (6 PTS),25 - 27,2
+0020101002,147,1,1,2,8:18 PM,9:23,Postell 18' Jump Shot (2 PTS) (Ward 1 AST),,,25 - 29,4
+0020101002,148,6,2,2,8:18 PM,9:09,Weatherspoon S.FOUL (P2.T2),,,,
+0020101002,149,8,0,2,8:19 PM,9:09,,,SUB: Hamilton FOR Howard,,
+0020101002,150,3,11,2,8:19 PM,9:09,,,Harvey Free Throw 1 of 2 (5 PTS),26 - 29,3
+0020101002,151,8,0,2,8:19 PM,9:09,SUB: Thomas FOR Weatherspoon,,,,
+0020101002,152,3,12,2,8:19 PM,9:09,,,MISS Harvey Free Throw 2 of 2,,
+0020101002,153,4,0,2,8:19 PM,9:08,Knight REBOUND (Off:0 Def:2),,,,
+0020101002,154,2,1,2,8:19 PM,8:58,MISS Knight 20' Jump Shot,,,,
+0020101002,155,4,0,2,8:19 PM,8:56,Anderson REBOUND (Off:2 Def:2),,,,
+0020101002,156,2,5,2,8:19 PM,8:54,MISS Anderson  Layup,,,,
+0020101002,157,4,0,2,8:19 PM,8:53,Thomas REBOUND (Off:3 Def:6),,,,
+0020101002,158,1,5,2,8:19 PM,8:52,Thomas  Layup (8 PTS),,,26 - 31,5
+0020101002,159,2,1,2,8:20 PM,8:40,,,MISS Harvey 17' Jump Shot,,
+0020101002,161,4,0,2,8:20 PM,8:38,,,Harvey REBOUND (Off:2 Def:0),,
+0020101002,160,2,7,2,8:20 PM,8:36,,,MISS Harvey  Dunk,,
+0020101002,162,4,0,2,8:20 PM,8:34,,,Cheaney REBOUND (Off:1 Def:5),,
+0020101002,163,5,2,2,8:20 PM,8:19,Ward STEAL (1 STL),,Lenard Lost Ball Turnover (P1.T5),,
+0020101002,164,6,1,2,8:20 PM,8:14,,,Hamilton P.FOUL (P1.T2),,
+0020101002,165,9,4,2,8:20 PM,8:14,,,,,
+0020101002,167,8,0,2,8:22 PM,8:14,,,SUB: McCloud FOR Cheaney,,
+0020101002,168,8,0,2,8:23 PM,8:14,SUB: Sprewell FOR Anderson,,,,
+0020101002,169,1,1,2,8:23 PM,8:03,Sprewell 22' Jump Shot (10 PTS),,,26 - 33,7
+0020101002,170,6,4,2,8:23 PM,7:49,,,Satterfield OFF.Foul (P1),,
+0020101002,171,5,5,2,8:23 PM,7:49,,,Satterfield Foul Turnover (P1.T6),,
+0020101002,172,1,1,2,8:24 PM,7:38,Sprewell  3PT Jump Shot (13 PTS) (Ward 2 AST),,,26 - 36,10
+0020101002,173,6,4,2,8:24 PM,7:18,,,Satterfield OFF.Foul (P2),,
+0020101002,174,5,5,2,8:24 PM,7:18,,,Satterfield Foul Turnover (P2.T7),,
+0020101002,175,8,0,2,8:24 PM,7:18,,,SUB: Cheaney FOR Satterfield,,
+0020101002,176,2,1,2,8:24 PM,7:05,MISS Knight 11' Jump Shot,,,,
+0020101002,177,4,0,2,8:24 PM,7:02,,,Lenard REBOUND (Off:0 Def:2),,
+0020101002,178,1,1,2,8:25 PM,6:46,,,McCloud 18' Jump Shot (3 PTS),28 - 36,8
+0020101002,179,1,47,2,8:25 PM,6:20,Sprewell 14' Turnaround Jump Shot (15 PTS),,,28 - 38,10
+0020101002,180,2,1,2,8:25 PM,6:05,,,MISS McCloud 24' 3PT Jump Shot,,
+0020101002,181,4,0,2,8:25 PM,6:04,KNICKS Rebound,,,,
+0020101002,182,6,2,2,8:26 PM,5:52,,,Hamilton S.FOUL (P2.T3),,
+0020101002,183,9,1,2,8:26 PM,5:52,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0020101002,185,8,0,2,8:28 PM,5:52,,,SUB: Bateer FOR Harvey,,
+0020101002,186,8,0,2,8:28 PM,5:52,,,SUB: Howard FOR Hamilton,,
+0020101002,187,3,11,2,8:28 PM,5:52,Thomas Free Throw 1 of 2 (9 PTS),,,28 - 39,11
+0020101002,188,3,12,2,8:28 PM,5:52,Thomas Free Throw 2 of 2 (10 PTS),,,28 - 40,12
+0020101002,189,2,1,2,8:29 PM,5:37,,,MISS Bateer 18' Jump Shot,,
+0020101002,190,4,0,2,8:29 PM,5:35,Knight REBOUND (Off:0 Def:3),,,,
+0020101002,191,2,3,2,8:29 PM,5:25,MISS Thomas 5' Hook Shot,,,,
+0020101002,192,4,0,2,8:29 PM,5:22,,,Howard REBOUND (Off:3 Def:4),,
+0020101002,193,2,5,2,8:30 PM,5:08,,,MISS McCloud  Layup,,
+0020101002,194,4,0,2,8:30 PM,5:06,Knight REBOUND (Off:0 Def:4),,,,
+0020101002,195,2,1,2,8:30 PM,4:53,MISS Postell 24' 3PT Jump Shot,,,,
+0020101002,196,4,0,2,8:30 PM,4:52,,,Bateer REBOUND (Off:1 Def:2),,
+0020101002,197,5,1,2,8:30 PM,4:39,Sprewell STEAL (1 STL),,Lenard Bad Pass Turnover (P2.T8),,
+0020101002,198,1,49,2,8:30 PM,4:35,Sprewell  Driving Dunk (17 PTS),,,28 - 42,14
+0020101002,199,2,1,2,8:30 PM,4:12,,,MISS Lenard 20' Jump Shot,,
+0020101002,200,4,0,2,8:30 PM,4:09,Ward REBOUND (Off:0 Def:1),,,,
+0020101002,201,2,1,2,8:31 PM,4:04,MISS Postell 17' Jump Shot,,,,
+0020101002,202,4,0,2,8:31 PM,4:02,KNICKS Rebound,,,,
+0020101002,203,8,0,2,8:31 PM,4:02,SUB: Spencer FOR Knight,,,,
+0020101002,204,1,1,2,8:31 PM,3:49,Sprewell 25' 3PT Jump Shot (20 PTS),,,28 - 45,17
+0020101002,205,1,1,2,8:31 PM,3:32,,,Bateer 17' Jump Shot (7 PTS) (Lenard 1 AST),30 - 45,15
+0020101002,206,6,1,2,8:32 PM,3:13,,,Lenard P.FOUL (P1.T4),,
+0020101002,207,1,5,2,8:32 PM,3:06,Spencer  Layup (2 PTS) (Thomas 1 AST),,,30 - 47,17
+0020101002,208,5,2,2,8:32 PM,2:44,Ward STEAL (2 STL),,Howard Lost Ball Turnover (P1.T9),,
+0020101002,209,2,1,2,8:33 PM,2:39,MISS Ward 25' 3PT Jump Shot,,,,
+0020101002,210,4,0,2,8:33 PM,2:37,,,Cheaney REBOUND (Off:1 Def:6),,
+0020101002,211,5,1,2,8:33 PM,2:29,Sprewell STEAL (2 STL),,Lenard Bad Pass Turnover (P3.T10),,
+0020101002,212,5,1,2,8:33 PM,2:27,Sprewell Bad Pass Turnover (P2.T4),,McCloud STEAL (1 STL),,
+0020101002,213,2,1,2,8:33 PM,2:15,,,MISS Bateer 17' Jump Shot,,
+0020101002,214,4,0,2,8:33 PM,2:13,Ward REBOUND (Off:0 Def:2),,,,
+0020101002,215,6,1,2,8:34 PM,2:11,,,Howard P.FOUL (P2.PN),,
+0020101002,216,9,1,2,8:34 PM,2:11,,,Nuggets Timeout: Regular (Reg.2 Short 0),,
+0020101002,218,8,0,2,8:36 PM,2:11,,,SUB: Andersen FOR Howard,,
+0020101002,219,3,11,2,8:36 PM,2:11,Ward Free Throw 1 of 2 (1 PTS),,,30 - 48,18
+0020101002,220,3,12,2,8:36 PM,2:11,Ward Free Throw 2 of 2 (2 PTS),,,30 - 49,19
+0020101002,221,6,1,2,8:37 PM,1:56,Spencer P.FOUL (P1.T3),,,,
+0020101002,222,1,1,2,8:37 PM,1:44,,,McCloud 25' 3PT Jump Shot (6 PTS) (Lenard 2 AST),33 - 49,16
+0020101002,223,2,1,2,8:37 PM,1:26,MISS Ward 24' 3PT Jump Shot,,,,
+0020101002,224,4,0,2,8:37 PM,1:24,,,Bateer REBOUND (Off:1 Def:3),,
+0020101002,225,2,1,2,8:38 PM,1:16,,,MISS McCloud 25' 3PT Jump Shot,,
+0020101002,226,4,0,2,8:38 PM,1:14,,,Bateer REBOUND (Off:2 Def:3),,
+0020101002,227,2,1,2,8:38 PM,1:08,,,MISS Andersen 15' Jump Shot,,
+0020101002,228,4,0,2,8:38 PM,1:05,Postell REBOUND (Off:0 Def:1),,,,
+0020101002,229,2,1,2,8:38 PM,0:48,MISS Postell 24' 3PT Jump Shot,,,,
+0020101002,230,4,0,2,8:38 PM,0:46,,,Bateer REBOUND (Off:2 Def:4),,
+0020101002,231,5,1,2,8:38 PM,0:42,Ward STEAL (3 STL),,Bateer Bad Pass Turnover (P3.T11),,
+0020101002,232,2,5,2,8:38 PM,0:31,MISS Postell  Layup,,,,
+0020101002,233,4,0,2,8:38 PM,0:30,,,Bateer REBOUND (Off:2 Def:5),,
+0020101002,234,1,5,2,8:39 PM,0:25,,,Cheaney  Layup (4 PTS) (McCloud 2 AST),35 - 49,14
+0020101002,235,6,2,2,8:39 PM,0:25,Ward S.FOUL (P1.PN),,,,
+0020101002,236,3,10,2,8:39 PM,0:25,,,Cheaney Free Throw 1 of 1 (5 PTS),36 - 49,13
+0020101002,237,2,1,2,8:39 PM,0:06,MISS Thomas 9' Jump Shot,,,,
+0020101002,238,4,0,2,8:39 PM,0:05,,,Andersen REBOUND (Off:0 Def:1),,
+0020101002,239,6,1,2,8:39 PM,0:04,Ward P.FOUL (P2.PN),,,,
+0020101002,240,3,11,2,8:40 PM,0:04,,,Andersen Free Throw 1 of 2 (1 PTS),37 - 49,12
+0020101002,242,9,2,2,8:40 PM,0:04,KNICKS Timeout: Short (Full 2 Short 1),,,,
+0020101002,243,8,0,2,8:41 PM,0:04,,,SUB: Harvey FOR Bateer,,
+0020101002,244,8,0,2,8:41 PM,0:04,,,SUB: Satterfield FOR McCloud,,
+0020101002,245,8,0,2,8:41 PM,0:04,,,SUB: Hamilton FOR Lenard,,
+0020101002,246,3,12,2,8:41 PM,0:04,,,Andersen Free Throw 2 of 2 (2 PTS),38 - 49,11
+0020101002,247,5,1,2,8:41 PM,0:01,Postell Bad Pass Turnover (P1.T5),,Cheaney STEAL (2 STL),,
+0020101002,249,2,1,2,8:42 PM,0:00,,,MISS Cheaney 39' 3PT Jump Shot,,
+0020101002,251,4,0,2,8:42 PM,0:00,,,Nuggets Rebound,,
+0020101002,252,13,0,2,8:42 PM,0:00,,,,38 - 49,11
+0020101002,254,12,0,3,8:58 PM,12:00,,,,38 - 49,11
+0020101002,255,2,1,3,8:59 PM,11:40,,,MISS Howard 12' Jump Shot,,
+0020101002,256,4,0,3,8:59 PM,11:38,Weatherspoon REBOUND (Off:2 Def:2),,,,
+0020101002,257,6,17,3,8:59 PM,11:27,,,Nuggets T.Foul (Def. 3 Sec Bateer ),,
+0020101002,258,3,16,3,8:59 PM,11:27,Sprewell Free Throw Technical (21 PTS),,,38 - 50,12
+0020101002,259,2,1,3,9:00 PM,11:14,MISS Jackson 29' 3PT Jump Shot,,,,
+0020101002,260,4,0,3,9:00 PM,11:11,,,McCloud REBOUND (Off:0 Def:2),,
+0020101002,261,1,47,3,9:00 PM,11:04,,,Howard 10' Turnaround Jump Shot (8 PTS) (McCloud 3 AST),40 - 50,10
+0020101002,262,1,1,3,9:00 PM,10:51,Sprewell 19' Jump Shot (23 PTS) (Jackson 4 AST),,,40 - 52,12
+0020101002,263,1,5,3,9:00 PM,10:32,,,Howard  Layup (10 PTS) (Bateer 2 AST),42 - 52,10
+0020101002,264,2,1,3,9:01 PM,10:09,MISS Weatherspoon 16' Jump Shot,,,,
+0020101002,265,4,0,3,9:01 PM,10:08,,,Bateer REBOUND (Off:2 Def:6),,
+0020101002,266,1,5,3,9:01 PM,10:03,,,Howard  Layup (12 PTS) (McCloud 4 AST),44 - 52,8
+0020101002,267,9,1,3,9:01 PM,10:01,KNICKS Timeout: Regular (Full 3 Short 1),,,,
+0020101002,269,6,1,3,9:03 PM,9:47,,,Cheaney P.FOUL (P1.T1),,
+0020101002,270,1,1,3,9:04 PM,9:41,Thomas 6' Jump Shot (12 PTS) (Jackson 5 AST),,,44 - 54,10
+0020101002,271,2,5,3,9:04 PM,9:21,,,MISS Howard  Layup,,
+0020101002,272,4,0,3,9:04 PM,9:20,,,Howard REBOUND (Off:4 Def:4),,
+0020101002,273,6,2,3,9:04 PM,9:19,Thomas S.FOUL (P3.T1),,,,
+0020101002,274,3,11,3,9:04 PM,9:19,,,MISS Howard Free Throw 1 of 2,,
+0020101002,275,4,1,3,9:04 PM,9:19,,,Nuggets Rebound,,
+0020101002,276,3,12,3,9:05 PM,9:19,,,Howard Free Throw 2 of 2 (13 PTS),45 - 54,9
+0020101002,277,1,46,3,9:05 PM,9:07,Sprewell 14' Running Jump Shot (25 PTS) (Jackson 6 AST),,,45 - 56,11
+0020101002,278,6,4,3,9:05 PM,8:49,,,Bateer OFF.Foul (P3),,
+0020101002,279,5,5,3,9:05 PM,8:49,,,Bateer Foul Turnover (P4.T12),,
+0020101002,280,2,1,3,9:06 PM,8:40,MISS Sprewell  3PT Jump Shot,,,,
+0020101002,281,4,0,3,9:06 PM,8:38,Weatherspoon REBOUND (Off:3 Def:2),,,,
+0020101002,282,6,2,3,9:06 PM,8:29,,,McCloud S.FOUL (P2.T2),,
+0020101002,283,3,11,3,9:06 PM,8:29,MISS Thomas Free Throw 1 of 2,,,,
+0020101002,284,4,1,3,9:06 PM,8:29,KNICKS Rebound,,,,
+0020101002,285,3,12,3,9:06 PM,8:29,Thomas Free Throw 2 of 2 (13 PTS),,,45 - 57,12
+0020101002,286,6,1,3,9:07 PM,8:25,Jackson P.FOUL (P1.T2),,,,
+0020101002,287,8,0,3,9:07 PM,8:25,,,SUB: Harvey FOR Bateer,,
+0020101002,288,1,1,3,9:07 PM,8:21,,,McCloud 20' Jump Shot (8 PTS),47 - 57,10
+0020101002,289,2,1,3,9:08 PM,7:56,MISS Jackson 25' 3PT Jump Shot,,,,
+0020101002,290,4,0,3,9:08 PM,7:54,,,Howard REBOUND (Off:4 Def:5),,
+0020101002,291,2,1,3,9:08 PM,7:41,,,MISS McCloud 14' Jump Shot,,
+0020101002,292,4,0,3,9:08 PM,7:40,Thomas REBOUND (Off:3 Def:7),,,,
+0020101002,293,2,1,3,9:08 PM,7:24,MISS Sprewell 4' Jump Shot,,,,
+0020101002,294,4,0,3,9:08 PM,7:23,,,Nuggets Rebound,,
+0020101002,295,6,3,3,9:08 PM,7:23,Sprewell L.B.FOUL (P2.T3),,,,
+0020101002,296,2,1,3,9:09 PM,7:09,,,MISS McCloud 26' 3PT Jump Shot,,
+0020101002,297,4,0,3,9:09 PM,7:08,KNICKS Rebound,,,,
+0020101002,298,2,1,3,9:09 PM,6:45,MISS Thomas 7' Jump Shot,,,,
+0020101002,299,4,0,3,9:09 PM,6:43,,,Harvey REBOUND (Off:2 Def:1),,
+0020101002,300,2,1,3,9:10 PM,6:26,,,MISS Howard 7' Jump Shot,,
+0020101002,301,4,0,3,9:10 PM,6:25,Thomas REBOUND (Off:3 Def:8),,,,
+0020101002,302,1,5,3,9:10 PM,6:17,Weatherspoon  Layup (8 PTS) (Jackson 7 AST),,,47 - 59,12
+0020101002,303,2,1,3,9:10 PM,6:00,,,MISS Cheaney 9' Jump Shot,,
+0020101002,304,4,0,3,9:10 PM,5:59,,,Nuggets Rebound,,
+0020101002,305,1,3,3,9:10 PM,5:49,,,Howard 11' Hook Shot (15 PTS),49 - 59,10
+0020101002,306,6,2,3,9:11 PM,5:28,,,Cheaney S.FOUL (P2.T3),,
+0020101002,307,3,11,3,9:11 PM,5:28,Sprewell Free Throw 1 of 2 (26 PTS),,,49 - 60,11
+0020101002,308,3,12,3,9:11 PM,5:28,Sprewell Free Throw 2 of 2 (27 PTS),,,49 - 61,12
+0020101002,309,5,2,3,9:12 PM,5:15,Jackson STEAL (2 STL),,Howard Lost Ball Turnover (P2.T13),,
+0020101002,310,5,1,3,9:12 PM,5:10,Sprewell Bad Pass Turnover (P3.T6),,McCloud STEAL (2 STL),,
+0020101002,311,6,2,3,9:12 PM,5:04,Weatherspoon S.FOUL (P3.T4),,,,
+0020101002,312,3,11,3,9:12 PM,5:04,,,MISS Cheaney Free Throw 1 of 2,,
+0020101002,313,4,1,3,9:12 PM,5:04,,,Nuggets Rebound,,
+0020101002,314,3,12,3,9:12 PM,5:04,,,Cheaney Free Throw 2 of 2 (6 PTS),50 - 61,11
+0020101002,315,6,1,3,9:13 PM,4:52,,,Howard P.FOUL (P3.T4),,
+0020101002,316,5,1,3,9:14 PM,4:44,Anderson Bad Pass Turnover (P1.T7),,Harvey STEAL (1 STL),,
+0020101002,317,2,1,3,9:14 PM,4:37,,,MISS McCloud 25' 3PT Jump Shot,,
+0020101002,318,4,0,3,9:14 PM,4:35,,,Howard REBOUND (Off:5 Def:5),,
+0020101002,319,2,5,3,9:14 PM,4:32,,,MISS Howard  Layup,,
+0020101002,320,4,0,3,9:14 PM,4:31,,,Harvey REBOUND (Off:3 Def:1),,
+0020101002,321,6,2,3,9:14 PM,4:30,Anderson S.FOUL (P2.PN),,,,
+0020101002,322,3,11,3,9:14 PM,4:30,,,Harvey Free Throw 1 of 2 (6 PTS),51 - 61,10
+0020101002,323,3,12,3,9:14 PM,4:30,,,Harvey Free Throw 2 of 2 (7 PTS),52 - 61,9
+0020101002,324,5,1,3,9:15 PM,4:10,Jackson Bad Pass Turnover (P3.T8),,Howard STEAL (1 STL),,
+0020101002,325,2,5,3,9:15 PM,3:56,,,MISS Bowen  Layup,,
+0020101002,326,4,0,3,9:15 PM,3:54,,,Bowen REBOUND (Off:1 Def:1),,
+0020101002,327,5,1,3,9:15 PM,3:51,,,Bowen Bad Pass Turnover (P1.T14),,
+0020101002,328,2,1,3,9:15 PM,3:35,MISS Anderson 24' 3PT Jump Shot,,,,
+0020101002,329,4,0,3,9:15 PM,3:33,,,Nuggets Rebound,,
+0020101002,330,5,1,3,9:16 PM,3:32,Jackson STEAL (3 STL),,Cheaney Bad Pass Turnover (P1.T15),,
+0020101002,331,2,5,3,9:16 PM,3:28,MISS Jackson  Layup,,,,
+0020101002,332,4,0,3,9:16 PM,3:27,,,Cheaney REBOUND (Off:1 Def:7),,
+0020101002,333,9,1,3,9:16 PM,3:21,,,Nuggets Timeout: Regular (Reg.3 Short 0),,
+0020101002,335,1,3,3,9:19 PM,3:10,,,Howard 6' Hook Shot (17 PTS),54 - 61,7
+0020101002,336,2,1,3,9:19 PM,2:41,MISS Sprewell 9' Jump Shot,,,,
+0020101002,337,4,0,3,9:19 PM,2:39,Sprewell REBOUND (Off:2 Def:0),,,,
+0020101002,338,2,1,3,9:19 PM,2:35,MISS Sprewell 10' Jump Shot,,,,
+0020101002,339,4,0,3,9:19 PM,2:32,,,McCloud REBOUND (Off:0 Def:3),,
+0020101002,340,6,1,3,9:19 PM,2:20,Thomas P.FOUL (P4.PN),,,,
+0020101002,341,3,11,3,9:20 PM,2:20,,,MISS Howard Free Throw 1 of 2,,
+0020101002,342,4,1,3,9:20 PM,2:20,,,Nuggets Rebound,,
+0020101002,344,8,0,3,9:20 PM,2:20,SUB: Knight FOR Thomas,,,,
+0020101002,345,3,12,3,9:20 PM,2:20,,,Howard Free Throw 2 of 2 (18 PTS),55 - 61,6
+0020101002,346,1,1,3,9:20 PM,2:03,Jackson 24' 3PT Jump Shot (5 PTS) (Sprewell 2 AST),,,55 - 64,9
+0020101002,347,5,2,3,9:21 PM,1:52,Jackson STEAL (4 STL),,McCloud Lost Ball Turnover (P3.T16),,
+0020101002,348,1,42,3,9:21 PM,1:40,Knight  Driving Layup (2 PTS) (Jackson 8 AST),,,55 - 66,11
+0020101002,349,2,1,3,9:21 PM,1:20,,,MISS Bowen 18' Jump Shot,,
+0020101002,350,4,0,3,9:21 PM,1:18,Weatherspoon REBOUND (Off:3 Def:3),,,,
+0020101002,351,6,1,3,9:21 PM,1:17,,,Harvey P.FOUL (P1.PN),,
+0020101002,352,3,11,3,9:21 PM,1:17,Sprewell Free Throw 1 of 2 (28 PTS),,,55 - 67,12
+0020101002,353,8,0,3,9:22 PM,1:17,,,SUB: Lenard FOR Cheaney,,
+0020101002,354,8,0,3,9:22 PM,1:17,,,SUB: Andersen FOR Howard,,
+0020101002,355,3,12,3,9:22 PM,1:17,Sprewell Free Throw 2 of 2 (29 PTS),,,55 - 68,13
+0020101002,356,1,42,3,9:23 PM,0:59,,,Bowen  Driving Layup (4 PTS),57 - 68,11
+0020101002,357,2,1,3,9:23 PM,0:43,MISS Jackson 25' 3PT Jump Shot,,,,
+0020101002,358,4,0,3,9:23 PM,0:40,,,Bowen REBOUND (Off:1 Def:2),,
+0020101002,359,2,5,3,9:23 PM,0:28,,,MISS Lenard  Layup,,
+0020101002,360,4,0,3,9:23 PM,0:27,,,Bowen REBOUND (Off:2 Def:2),,
+0020101002,361,1,5,3,9:23 PM,0:26,,,Bowen  Layup (6 PTS),59 - 68,9
+0020101002,362,2,1,3,9:24 PM,0:02,MISS Jackson 6' Jump Shot,,,,
+0020101002,364,4,0,3,9:24 PM,0:00,Knight REBOUND (Off:1 Def:4),,,,
+0020101002,363,2,4,3,9:24 PM,0:00,MISS Knight  Tip Shot,,,,
+0020101002,366,4,0,3,9:24 PM,0:00,Knight REBOUND (Off:2 Def:4),,,,
+0020101002,365,2,4,3,9:24 PM,0:00,MISS Knight  Tip Shot,,,,
+0020101002,367,4,0,3,9:24 PM,0:00,KNICKS Rebound,,,,
+0020101002,368,13,0,3,9:24 PM,0:00,,,,59 - 68,9
+0020101002,371,12,0,4,9:27 PM,12:00,,,,59 - 68,9
+0020101002,372,6,1,4,9:27 PM,11:53,,,Harvey P.FOUL (P2.T1),,
+0020101002,373,2,5,4,9:27 PM,11:41,MISS Postell  Layup,,,,
+0020101002,375,4,0,4,9:27 PM,11:39,Thomas REBOUND (Off:4 Def:8),,,,
+0020101002,374,2,4,4,9:27 PM,11:39,MISS Thomas  Tip Shot,,,,
+0020101002,376,4,0,4,9:27 PM,11:38,KNICKS Rebound,,,,
+0020101002,377,6,3,4,9:27 PM,11:38,,,Harvey L.B.FOUL (P3.T2),,
+0020101002,378,2,1,4,9:28 PM,11:27,MISS Ward 16' Jump Shot,,,,
+0020101002,379,4,0,4,9:28 PM,11:25,,,Lenard REBOUND (Off:0 Def:3),,
+0020101002,380,2,1,4,9:29 PM,11:06,,,MISS Lenard 14' Jump Shot,,
+0020101002,382,4,0,4,9:29 PM,11:04,,,Andersen REBOUND (Off:1 Def:1),,
+0020101002,381,2,4,4,9:29 PM,11:04,,,MISS Andersen  Tip Shot,,
+0020101002,383,4,0,4,9:29 PM,11:00,,,Bowen REBOUND (Off:3 Def:2),,
+0020101002,384,1,1,4,9:29 PM,10:46,,,Satterfield 16' Jump Shot (2 PTS),61 - 68,7
+0020101002,385,6,4,4,9:29 PM,10:37,Thomas OFF.Foul (P5),,,,
+0020101002,386,5,5,4,9:29 PM,10:37,Thomas Foul Turnover (P1.T9),,,,
+0020101002,387,8,0,4,9:29 PM,10:37,SUB: Weatherspoon FOR Thomas,,,,
+0020101002,388,5,1,4,9:30 PM,10:21,Knight STEAL (1 STL),,Andersen Bad Pass Turnover (P1.T17),,
+0020101002,389,2,1,4,9:30 PM,10:13,MISS Anderson 7' Jump Shot,,Bowen BLOCK (1 BLK),,
+0020101002,390,4,0,4,9:30 PM,10:11,,,Harvey REBOUND (Off:3 Def:2),,
+0020101002,391,1,49,4,9:30 PM,9:57,,,Harvey  Driving Dunk (9 PTS) (Lenard 3 AST),63 - 68,5
+0020101002,392,6,2,4,9:30 PM,9:57,Knight S.FOUL (P2.T1),,,,
+0020101002,393,9,1,4,9:31 PM,9:57,KNICKS Timeout: Regular (Full 4 Short 1),,,,
+0020101002,396,3,10,4,9:33 PM,9:57,,,Harvey Free Throw 1 of 1 (10 PTS),64 - 68,4
+0020101002,397,6,2,4,9:34 PM,9:42,,,Andersen S.FOUL (P1.T3),,
+0020101002,398,3,11,4,9:34 PM,9:42,Knight Free Throw 1 of 2 (3 PTS),,,64 - 69,5
+0020101002,399,3,12,4,9:34 PM,9:42,Knight Free Throw 2 of 2 (4 PTS),,,64 - 70,6
+0020101002,400,1,42,4,9:34 PM,9:23,,,Lenard  Driving Layup (7 PTS),66 - 70,4
+0020101002,401,2,1,4,9:35 PM,9:09,MISS Postell 17' Jump Shot,,,,
+0020101002,402,4,0,4,9:35 PM,9:08,,,Nuggets Rebound,,
+0020101002,403,8,0,4,9:35 PM,9:08,SUB: Sprewell FOR Postell,,,,
+0020101002,404,2,1,4,9:35 PM,8:50,,,MISS Lenard 25' 3PT Jump Shot,,
+0020101002,405,4,0,4,9:35 PM,8:48,Anderson REBOUND (Off:2 Def:3),,,,
+0020101002,406,1,46,4,9:35 PM,8:43,Ward 13' Running Jump Shot (4 PTS),,,66 - 72,6
+0020101002,407,5,1,4,9:36 PM,8:22,,,Satterfield Bad Pass Turnover (P3.T18),,
+0020101002,408,2,1,4,9:36 PM,8:11,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020101002,409,4,0,4,9:36 PM,8:07,,,Bowen REBOUND (Off:3 Def:3),,
+0020101002,410,1,5,4,9:36 PM,8:01,,,Andersen  Layup (4 PTS) (Lenard 4 AST),68 - 72,4
+0020101002,411,1,1,4,9:36 PM,7:37,Sprewell 8' Jump Shot (31 PTS),,,68 - 74,6
+0020101002,412,2,3,4,9:37 PM,7:12,,,MISS Bowen 10' Hook Shot,,
+0020101002,413,4,0,4,9:37 PM,7:09,Sprewell REBOUND (Off:2 Def:1),,,,
+0020101002,414,2,5,4,9:37 PM,6:57,MISS Sprewell  Layup,,,,
+0020101002,415,4,0,4,9:37 PM,6:55,,,Nuggets Rebound,,
+0020101002,416,8,0,4,9:37 PM,6:55,,,SUB: McCloud FOR Satterfield,,
+0020101002,417,8,0,4,9:37 PM,6:55,,,SUB: Howard FOR Andersen,,
+0020101002,418,6,1,4,9:38 PM,6:40,Anderson P.FOUL (P3.T2),,,,
+0020101002,420,8,0,4,9:38 PM,6:40,,,SUB: Cheaney FOR Bowen,,
+0020101002,421,2,5,4,9:38 PM,6:34,Anderson BLOCK (1 BLK),,MISS Lenard  Layup,,
+0020101002,422,4,0,4,9:38 PM,6:32,,,Howard REBOUND (Off:6 Def:5),,
+0020101002,423,1,1,4,9:38 PM,6:28,,,Lenard 24' 3PT Jump Shot (10 PTS),71 - 74,3
+0020101002,424,1,7,4,9:39 PM,6:06,Knight  Dunk (6 PTS) (Sprewell 3 AST),,,71 - 76,5
+0020101002,425,2,1,4,9:39 PM,5:49,Ward BLOCK (1 BLK),,MISS Howard 14' Jump Shot,,
+0020101002,426,4,0,4,9:39 PM,5:46,Knight REBOUND (Off:2 Def:5),,,,
+0020101002,427,2,1,4,9:39 PM,5:42,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020101002,428,4,0,4,9:39 PM,5:40,Weatherspoon REBOUND (Off:4 Def:3),,,,
+0020101002,429,6,1,4,9:39 PM,5:40,,,Cheaney P.FOUL (P3.T4),,
+0020101002,430,9,4,4,9:39 PM,5:40,,,,,
+0020101002,433,1,42,4,9:42 PM,5:25,Sprewell  Driving Layup (33 PTS),,,71 - 78,7
+0020101002,434,1,1,4,9:43 PM,4:57,,,Lenard  3PT Jump Shot (13 PTS) (McCloud 5 AST),74 - 78,4
+0020101002,435,2,1,4,9:43 PM,4:37,MISS Ward 24' 3PT Jump Shot,,,,
+0020101002,436,4,0,4,9:43 PM,4:34,,,Cheaney REBOUND (Off:1 Def:8),,
+0020101002,437,2,1,4,9:43 PM,4:16,,,MISS Lenard 16' Jump Shot,,
+0020101002,438,4,0,4,9:43 PM,4:15,Weatherspoon REBOUND (Off:4 Def:4),,,,
+0020101002,439,5,1,4,9:44 PM,3:55,Anderson Bad Pass Turnover (P2.T10),,,,
+0020101002,440,9,2,4,9:44 PM,3:55,,,Nuggets Timeout: Short (Reg.3 Short 1),,
+0020101002,441,8,0,4,9:45 PM,3:55,,,SUB: Bowen FOR Harvey,,
+0020101002,442,8,0,4,9:45 PM,3:55,SUB: Thomas FOR Knight,,,,
+0020101002,443,2,1,4,9:45 PM,3:45,,,MISS McCloud 10' Jump Shot,,
+0020101002,444,4,0,4,9:45 PM,3:42,Anderson REBOUND (Off:2 Def:4),,,,
+0020101002,445,2,1,4,9:45 PM,3:28,MISS Sprewell 15' Jump Shot,,,,
+0020101002,446,4,0,4,9:45 PM,3:27,Thomas REBOUND (Off:5 Def:8),,,,
+0020101002,447,1,5,4,9:46 PM,3:25,Thomas  Layup (15 PTS),,,74 - 80,6
+0020101002,448,1,1,4,9:46 PM,3:06,,,Lenard  3PT Jump Shot (16 PTS) (McCloud 6 AST),77 - 80,3
+0020101002,449,2,1,4,9:46 PM,2:42,MISS Ward 24' 3PT Jump Shot,,,,
+0020101002,450,4,0,4,9:46 PM,2:39,,,Bowen REBOUND (Off:3 Def:4),,
+0020101002,451,1,46,4,9:47 PM,2:25,,,Lenard 13' Running Jump Shot (18 PTS),79 - 80,1
+0020101002,452,9,1,4,9:47 PM,2:23,KNICKS Timeout: Regular (Full 5 Short 1),,,,
+0020101002,454,9,1,4,9:48 PM,2:23,,,Nuggets Timeout: Regular (Reg.4 Short 1),,
+0020101002,455,8,0,4,9:50 PM,2:23,SUB: Jackson FOR Ward,,,,
+0020101002,456,6,2,4,9:50 PM,2:01,,,McCloud S.FOUL (P3.PN),,
+0020101002,457,3,11,4,9:51 PM,2:01,Weatherspoon Free Throw 1 of 2 (9 PTS),,,79 - 81,2
+0020101002,458,3,12,4,9:51 PM,2:01,Weatherspoon Free Throw 2 of 2 (10 PTS),,,79 - 82,3
+0020101002,459,1,3,4,9:51 PM,1:46,,,Howard 9' Hook Shot (20 PTS) (McCloud 7 AST),81 - 82,1
+0020101002,460,2,1,4,9:52 PM,1:31,MISS Jackson 26' 3PT Jump Shot,,,,
+0020101002,461,4,0,4,9:52 PM,1:29,,,Howard REBOUND (Off:6 Def:6),,
+0020101002,462,2,1,4,9:52 PM,1:09,,,MISS McCloud 16' Jump Shot,,
+0020101002,463,4,0,4,9:52 PM,1:07,Thomas REBOUND (Off:5 Def:9),,,,
+0020101002,464,6,2,4,9:52 PM,0:50,,,Lenard S.FOUL (P2.PN),,
+0020101002,465,3,11,4,9:52 PM,0:50,Anderson Free Throw 1 of 2 (6 PTS),,,81 - 83,2
+0020101002,466,3,12,4,9:53 PM,0:50,MISS Anderson Free Throw 2 of 2,,,,
+0020101002,467,4,0,4,9:53 PM,0:49,,,Cheaney REBOUND (Off:1 Def:9),,
+0020101002,468,1,1,4,9:53 PM,0:39,,,Lenard 24' 3PT Jump Shot (21 PTS) (McCloud 8 AST),84 - 83,-1
+0020101002,469,9,1,4,9:53 PM,0:39,KNICKS Timeout: Regular (Full 6 Short 1),,,,
+0020101002,471,8,0,4,9:55 PM,0:39,,,SUB: Harvey FOR Lenard,,
+0020101002,472,2,1,4,9:55 PM,0:33,MISS Jackson 6' Jump Shot,,,,
+0020101002,473,4,0,4,9:55 PM,0:31,Weatherspoon REBOUND (Off:5 Def:4),,,,
+0020101002,474,2,1,4,9:55 PM,0:29,MISS Jackson 7' Jump Shot,,,,
+0020101002,475,4,0,4,9:56 PM,0:28,,,Nuggets Rebound,,
+0020101002,476,6,1,4,9:56 PM,0:28,Jackson P.FOUL (P2.T3),,,,
+0020101002,477,8,0,4,9:56 PM,0:28,,,SUB: Lenard FOR Harvey,,
+0020101002,478,9,1,4,9:56 PM,0:28,,,Nuggets Timeout: Regular (Reg.5 Short 1),,
+0020101002,480,8,0,4,9:57 PM,0:28,SUB: Ward FOR Jackson,,,,
+0020101002,481,9,1,4,9:58 PM,0:12,,,Nuggets Timeout: Regular (Reg.6 Short 1),,
+0020101002,483,2,46,4,10:00 PM,0:05,,,MISS Howard 7' Running Jump Shot,,
+0020101002,484,4,0,4,10:00 PM,0:03,Weatherspoon REBOUND (Off:5 Def:5),,,,
+0020101002,485,9,2,4,10:00 PM,0:03,KNICKS Timeout: Short (Full 6 Short 2),,,,
+0020101002,486,8,0,4,10:01 PM,0:03,SUB: Jackson FOR Ward,,,,
+0020101002,487,8,0,4,10:01 PM,0:03,,,SUB: Harvey FOR Lenard,,
+0020101002,488,2,1,4,10:02 PM,0:00,MISS Weatherspoon 16' Jump Shot,,,,
+0020101002,489,4,0,4,10:02 PM,0:00,KNICKS Rebound,,,,
+0020101002,490,13,0,4,10:02 PM,0:00,,,,84 - 83,-1

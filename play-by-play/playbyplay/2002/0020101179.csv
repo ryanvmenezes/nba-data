@@ -1,0 +1,431 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020101179,0,12,0,1,7:48 PM,12:00,,,,,
+0020101179,1,10,0,1,7:48 PM,12:00,Jump Ball Thomas vs. Van Horn: Tip to Weatherspoon,,,,
+0020101179,2,2,1,1,7:48 PM,11:48,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020101179,3,4,0,1,7:48 PM,11:46,,,Van Horn REBOUND (Off:0 Def:1),,
+0020101179,4,1,46,1,7:48 PM,11:41,,,Kidd 14' Running Jump Shot (2 PTS),2 - 0,-2
+0020101179,5,2,1,1,7:49 PM,11:24,MISS Houston 12' Jump Shot,,,,
+0020101179,6,4,0,1,7:49 PM,11:22,,,Van Horn REBOUND (Off:0 Def:2),,
+0020101179,7,2,1,1,7:49 PM,11:17,,,MISS Van Horn 24' 3PT Jump Shot,,
+0020101179,8,4,0,1,7:49 PM,11:14,Jackson REBOUND (Off:0 Def:1),,,,
+0020101179,9,2,1,1,7:49 PM,10:59,MISS Sprewell 21' Jump Shot,,,,
+0020101179,10,4,0,1,7:49 PM,10:57,Sprewell REBOUND (Off:1 Def:0),,,,
+0020101179,11,2,42,1,7:49 PM,10:55,MISS Sprewell  Driving Layup,,,,
+0020101179,12,4,0,1,7:49 PM,10:53,,,Williams REBOUND (Off:0 Def:1),,
+0020101179,13,2,1,1,7:50 PM,10:48,,,MISS Kittles 25' 3PT Jump Shot,,
+0020101179,14,4,0,1,7:50 PM,10:46,Thomas REBOUND (Off:0 Def:1),,,,
+0020101179,15,2,1,1,7:50 PM,10:33,MISS Houston 9' Jump Shot,,,,
+0020101179,16,4,0,1,7:50 PM,10:31,Thomas REBOUND (Off:1 Def:1),,,,
+0020101179,17,2,1,1,7:50 PM,10:18,MISS Houston 25' 3PT Jump Shot,,,,
+0020101179,18,4,0,1,7:50 PM,10:16,,,Kidd REBOUND (Off:0 Def:1),,
+0020101179,19,2,1,1,7:50 PM,10:11,,,MISS Kidd 20' Jump Shot,,
+0020101179,20,4,0,1,7:51 PM,10:09,Weatherspoon REBOUND (Off:0 Def:1),,,,
+0020101179,21,1,5,1,7:51 PM,9:56,Weatherspoon  Layup (2 PTS) (Thomas 1 AST),,,2 - 2,TIE
+0020101179,22,2,5,1,7:51 PM,9:44,,,MISS Van Horn  Layup,,
+0020101179,23,4,0,1,7:51 PM,9:43,Weatherspoon REBOUND (Off:0 Def:2),,,,
+0020101179,24,1,1,1,7:51 PM,9:27,Houston 25' 3PT Jump Shot (3 PTS),,,2 - 5,3
+0020101179,25,1,46,1,7:52 PM,9:07,,,Kidd 6' Running Jump Shot (4 PTS),4 - 5,1
+0020101179,26,1,46,1,7:52 PM,8:52,Jackson 4' Running Jump Shot (2 PTS),,,4 - 7,3
+0020101179,27,1,63,1,7:52 PM,8:39,,,Williams 11' Fadeaway Jumper (2 PTS) (Martin 1 AST),6 - 7,1
+0020101179,28,2,1,1,7:52 PM,8:19,MISS Jackson 26' 3PT Jump Shot,,,,
+0020101179,29,4,0,1,7:52 PM,8:17,,,Van Horn REBOUND (Off:0 Def:3),,
+0020101179,30,1,43,1,7:52 PM,8:13,,,Martin  Alley Oop Layup (2 PTS) (Kidd 1 AST),8 - 7,-1
+0020101179,31,2,1,1,7:53 PM,7:52,MISS Houston 24' 3PT Jump Shot,,,,
+0020101179,32,4,0,1,7:53 PM,7:50,,,Kittles REBOUND (Off:0 Def:1),,
+0020101179,33,1,5,1,7:53 PM,7:44,,,Kittles  Layup (2 PTS) (Kidd 2 AST),10 - 7,-3
+0020101179,34,5,1,1,7:53 PM,7:30,Houston Bad Pass Turnover (P1.T1),,Van Horn STEAL (1 STL),,
+0020101179,35,5,3,1,7:53 PM,7:22,,,Van Horn Out Of Bounds Turnover (P1.T1),,
+0020101179,36,9,1,1,7:53 PM,7:22,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0020101179,38,1,1,1,7:56 PM,7:00,Thomas 18' Jump Shot (2 PTS) (Jackson 1 AST),,,10 - 9,-1
+0020101179,39,2,1,1,7:56 PM,6:44,,,MISS Martin 5' Jump Shot,,
+0020101179,40,4,0,1,7:56 PM,6:42,Weatherspoon REBOUND (Off:0 Def:3),,,,
+0020101179,41,2,1,1,7:57 PM,6:29,MISS Thomas 16' Jump Shot,,,,
+0020101179,42,4,0,1,7:57 PM,6:27,,,Kidd REBOUND (Off:0 Def:2),,
+0020101179,43,5,1,1,7:57 PM,6:23,Sprewell STEAL (1 STL),,Kidd Bad Pass Turnover (P1.T2),,
+0020101179,44,5,1,1,7:57 PM,6:17,Houston Bad Pass Turnover (P2.T2),,Williams STEAL (1 STL),,
+0020101179,45,1,42,1,7:57 PM,6:11,,,Kittles  Driving Layup (4 PTS),12 - 9,-3
+0020101179,46,2,1,1,7:57 PM,5:57,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020101179,47,4,0,1,7:57 PM,5:54,,,Van Horn REBOUND (Off:0 Def:4),,
+0020101179,48,1,8,1,7:57 PM,5:50,,,Martin  Slam Dunk (4 PTS),14 - 9,-5
+0020101179,49,1,1,1,7:58 PM,5:22,Houston 16' Jump Shot (5 PTS),,,14 - 11,-3
+0020101179,50,2,46,1,7:58 PM,4:57,Weatherspoon BLOCK (1 BLK),,MISS Van Horn 9' Running Jump Shot,,
+0020101179,51,4,0,1,7:59 PM,4:57,KNICKS Rebound,,,,
+0020101179,52,2,1,1,7:59 PM,4:45,MISS Houston 24' 3PT Jump Shot,,,,
+0020101179,53,4,0,1,7:59 PM,4:43,,,Van Horn REBOUND (Off:0 Def:5),,
+0020101179,54,6,2,1,7:59 PM,4:36,Thomas S.FOUL (P1.T1),,,,
+0020101179,55,3,11,1,7:59 PM,4:36,,,MISS Martin Free Throw 1 of 2,,
+0020101179,56,4,1,1,7:59 PM,4:36,,,Nets Rebound,,
+0020101179,57,8,0,1,7:59 PM,4:36,,,SUB: Collins FOR Williams,,
+0020101179,58,3,12,1,7:59 PM,4:36,,,Martin Free Throw 2 of 2 (5 PTS),15 - 11,-4
+0020101179,59,2,1,1,8:00 PM,4:15,MISS Houston 24' 3PT Jump Shot,,,,
+0020101179,60,4,0,1,8:00 PM,4:14,,,Nets Rebound,,
+0020101179,61,2,1,1,8:00 PM,3:56,,,MISS Kittles  3PT Jump Shot,,
+0020101179,62,4,0,1,8:00 PM,3:54,,,Van Horn REBOUND (Off:1 Def:5),,
+0020101179,63,6,2,1,8:00 PM,3:54,Houston S.FOUL (P1.T2),,,,
+0020101179,64,3,11,1,8:01 PM,3:54,,,Van Horn Free Throw 1 of 2 (1 PTS),16 - 11,-5
+0020101179,65,3,12,1,8:01 PM,3:54,,,Van Horn Free Throw 2 of 2 (2 PTS),17 - 11,-6
+0020101179,66,1,46,1,8:01 PM,3:37,Jackson 5' Running Jump Shot (4 PTS),,,17 - 13,-4
+0020101179,67,1,1,1,8:02 PM,3:22,,,Kidd 15' Jump Shot (6 PTS),19 - 13,-6
+0020101179,68,2,5,1,8:02 PM,3:07,MISS Weatherspoon  Layup,,,,
+0020101179,69,4,0,1,8:02 PM,3:06,Thomas REBOUND (Off:2 Def:1),,,,
+0020101179,70,6,3,1,8:02 PM,3:06,,,Martin L.B.FOUL (P1.T1),,
+0020101179,71,8,0,1,8:02 PM,3:06,,,SUB: Jefferson FOR Van Horn,,
+0020101179,72,2,1,1,8:02 PM,3:01,MISS Jackson 24' 3PT Jump Shot,,,,
+0020101179,73,4,0,1,8:02 PM,2:59,,,Martin REBOUND (Off:0 Def:1),,
+0020101179,74,2,1,1,8:03 PM,2:53,,,MISS Jefferson 16' Jump Shot,,
+0020101179,75,4,0,1,8:03 PM,2:51,Thomas REBOUND (Off:2 Def:2),,,,
+0020101179,76,5,1,1,8:03 PM,2:37,Sprewell Bad Pass Turnover (P1.T3),,Kittles STEAL (1 STL),,
+0020101179,77,5,1,1,8:03 PM,2:31,Jackson STEAL (1 STL),,Kidd Bad Pass Turnover (P2.T3),,
+0020101179,78,1,1,1,8:03 PM,2:23,Houston 24' 3PT Jump Shot (8 PTS) (Sprewell 1 AST),,,19 - 16,-3
+0020101179,79,9,1,1,8:03 PM,2:16,,,Nets Timeout: Regular (Reg.1 Short 0),,
+0020101179,81,8,0,1,8:05 PM,2:16,,,SUB: Johnson FOR Kidd,,
+0020101179,82,2,5,1,8:05 PM,2:09,,,MISS Kittles  Layup,,
+0020101179,84,4,0,1,8:05 PM,2:07,,,Collins REBOUND (Off:1 Def:0),,
+0020101179,83,2,4,1,8:06 PM,2:07,,,MISS Collins  Tip Shot,,
+0020101179,85,4,0,1,8:06 PM,2:03,Houston REBOUND (Off:0 Def:1),,,,
+0020101179,86,1,47,1,8:06 PM,1:54,Sprewell 7' Turnaround Jump Shot (2 PTS),,,19 - 18,-1
+0020101179,87,1,1,1,8:06 PM,1:39,,,Martin  3PT Jump Shot (8 PTS) (Johnson 1 AST),22 - 18,-4
+0020101179,88,1,1,1,8:06 PM,1:13,Houston 24' 3PT Jump Shot (11 PTS) (Jackson 2 AST),,,22 - 21,-1
+0020101179,89,1,42,1,8:07 PM,0:56,,,Jefferson  Driving Layup (2 PTS),24 - 21,-3
+0020101179,90,6,2,1,8:07 PM,0:56,Houston S.FOUL (P2.T3),,,,
+0020101179,91,8,0,1,8:07 PM,0:56,SUB: Anderson FOR Houston,,,,
+0020101179,92,3,10,1,8:07 PM,0:56,,,MISS Jefferson Free Throw 1 of 1,,
+0020101179,93,4,0,1,8:08 PM,0:54,Jackson REBOUND (Off:0 Def:2),,,,
+0020101179,94,2,1,1,8:08 PM,0:39,MISS Jackson 25' 3PT Jump Shot,,,,
+0020101179,99,4,0,1,8:08 PM,0:39,KNICKS Rebound,,,,
+0020101179,95,6,10,1,8:08 PM,0:39,,,,,
+0020101179,98,10,0,1,8:08 PM,0:39,Jump Ball Thomas vs. Martin: Tip to Jackson,,,,
+0020101179,100,2,1,1,8:09 PM,0:23,MISS Sprewell 16' Jump Shot,,,,
+0020101179,101,4,0,1,8:09 PM,0:20,Thomas REBOUND (Off:3 Def:2),,,,
+0020101179,102,1,3,1,8:09 PM,0:17,Weatherspoon 6' Hook Shot (4 PTS) (Sprewell 2 AST),,,24 - 23,-1
+0020101179,103,2,1,1,8:09 PM,0:03,,,MISS Jefferson 25' 3PT Jump Shot,,
+0020101179,104,4,0,1,8:09 PM,0:00,,,Kittles REBOUND (Off:1 Def:1),,
+0020101179,105,2,1,1,8:09 PM,0:00,,,MISS Kittles 15' Jump Shot,,
+0020101179,106,4,0,1,8:09 PM,0:00,,,Nets Rebound,,
+0020101179,107,13,0,1,8:09 PM,0:00,,,,24 - 23,-1
+0020101179,109,12,0,2,8:12 PM,12:00,,,,24 - 23,-1
+0020101179,110,2,5,2,8:12 PM,11:39,,,MISS Armstrong  Layup,,
+0020101179,111,4,0,2,8:12 PM,11:38,KNICKS Rebound,,,,
+0020101179,112,6,3,2,8:12 PM,11:38,,,Armstrong L.B.FOUL (P1.T1),,
+0020101179,113,2,5,2,8:13 PM,11:27,MISS Harrington  Layup,,,,
+0020101179,114,4,0,2,8:13 PM,11:25,,,Scalabrine REBOUND (Off:0 Def:1),,
+0020101179,115,5,1,2,8:13 PM,11:11,,,Armstrong Bad Pass Turnover (P1.T4),,
+0020101179,116,6,4,2,8:13 PM,10:57,Harrington OFF.Foul (P1),,,,
+0020101179,117,5,5,2,8:13 PM,10:57,Harrington Foul Turnover (P1.T4),,,,
+0020101179,118,6,1,2,8:14 PM,10:46,Anderson P.FOUL (P1.T1),,,,
+0020101179,119,1,1,2,8:14 PM,10:37,,,Collins 16' Jump Shot (2 PTS) (Johnson 2 AST),26 - 23,-3
+0020101179,120,1,5,2,8:14 PM,10:16,Sprewell  Layup (4 PTS),,,26 - 25,-1
+0020101179,121,2,1,2,8:15 PM,10:01,,,MISS Armstrong 17' Jump Shot,,
+0020101179,122,4,0,2,8:15 PM,10:00,Harrington REBOUND (Off:0 Def:1),,,,
+0020101179,123,2,1,2,8:15 PM,9:36,MISS Harrington 17' Jump Shot,,,,
+0020101179,124,4,0,2,8:15 PM,9:34,,,Collins REBOUND (Off:1 Def:1),,
+0020101179,125,1,46,2,8:15 PM,9:15,,,Johnson 9' Running Jump Shot (2 PTS),28 - 25,-3
+0020101179,126,5,1,2,8:16 PM,8:57,Anderson Bad Pass Turnover (P1.T5),,Armstrong STEAL (1 STL),,
+0020101179,127,6,1,2,8:16 PM,8:55,Thomas P.FOUL (P2.T2),,,,
+0020101179,128,9,4,2,8:16 PM,8:55,,,,,
+0020101179,130,2,1,2,8:18 PM,8:40,,,MISS Johnson 24' 3PT Jump Shot,,
+0020101179,131,4,0,2,8:18 PM,8:38,KNICKS Rebound,,,,
+0020101179,132,6,3,2,8:18 PM,8:38,,,Collins L.B.FOUL (P2.T2),,
+0020101179,133,1,1,2,8:19 PM,8:23,Thomas 19' Jump Shot (4 PTS) (Sprewell 3 AST),,,28 - 27,-1
+0020101179,134,2,5,2,8:19 PM,8:04,,,MISS Jefferson  Layup,,
+0020101179,135,4,0,2,8:19 PM,8:03,Harrington REBOUND (Off:0 Def:2),,,,
+0020101179,136,5,1,2,8:19 PM,7:55,Anderson Bad Pass Turnover (P2.T6),,Jefferson STEAL (1 STL),,
+0020101179,137,2,1,2,8:20 PM,7:37,,,MISS Scalabrine 18' Jump Shot,,
+0020101179,138,4,0,2,8:20 PM,7:36,Anderson REBOUND (Off:0 Def:1),,,,
+0020101179,139,6,4,2,8:20 PM,7:18,Harrington OFF.Foul (P2),,,,
+0020101179,140,5,5,2,8:20 PM,7:18,Harrington Foul Turnover (P2.T7),,,,
+0020101179,141,8,0,2,8:20 PM,7:18,SUB: Weatherspoon FOR Thomas,,,,
+0020101179,142,6,4,2,8:20 PM,7:04,,,Scalabrine OFF.Foul (P1),,
+0020101179,143,5,5,2,8:20 PM,7:04,,,Scalabrine Foul Turnover (P1.T5),,
+0020101179,144,2,1,2,8:21 PM,6:47,MISS Harrington 9' Jump Shot,,,,
+0020101179,145,4,0,2,8:21 PM,6:45,,,Collins REBOUND (Off:1 Def:2),,
+0020101179,146,1,1,2,8:21 PM,6:37,,,Armstrong 18' Jump Shot (2 PTS) (Johnson 3 AST),30 - 27,-3
+0020101179,147,6,2,2,8:21 PM,6:22,,,Armstrong S.FOUL (P2.T3),,
+0020101179,148,8,0,2,8:22 PM,6:22,,,SUB: Marshall FOR Jefferson,,
+0020101179,149,8,0,2,8:22 PM,6:22,SUB: Houston FOR Sprewell,,,,
+0020101179,150,3,11,2,8:22 PM,6:22,Ward Free Throw 1 of 2 (1 PTS),,,30 - 28,-2
+0020101179,151,3,12,2,8:22 PM,6:22,Ward Free Throw 2 of 2 (2 PTS),,,30 - 29,-1
+0020101179,152,2,1,2,8:22 PM,6:05,,,MISS Johnson 15' Jump Shot,,
+0020101179,153,4,0,2,8:23 PM,6:03,,,Scalabrine REBOUND (Off:1 Def:1),,
+0020101179,154,9,2,2,8:23 PM,6:01,,,Nets Timeout: Short (Reg.1 Short 1),,
+0020101179,156,9,1,2,8:24 PM,5:55,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0020101179,158,2,1,2,8:26 PM,5:43,,,MISS Collins 14' Jump Shot,,
+0020101179,159,4,0,2,8:26 PM,5:41,,,Johnson REBOUND (Off:1 Def:0),,
+0020101179,160,2,1,2,8:26 PM,5:37,,,MISS Marshall 13' Jump Shot,,
+0020101179,162,4,0,2,8:26 PM,5:35,,,Armstrong REBOUND (Off:1 Def:0),,
+0020101179,161,2,4,2,8:26 PM,5:35,,,MISS Armstrong  Tip Shot,,
+0020101179,163,4,0,2,8:26 PM,5:33,Anderson REBOUND (Off:0 Def:2),,,,
+0020101179,164,2,1,2,8:26 PM,5:28,MISS Houston 25' 3PT Jump Shot,,,,
+0020101179,165,4,0,2,8:26 PM,5:26,Harrington REBOUND (Off:1 Def:2),,,,
+0020101179,166,2,1,2,8:27 PM,5:09,MISS Weatherspoon 14' Jump Shot,,,,
+0020101179,167,4,0,2,8:27 PM,5:08,Weatherspoon REBOUND (Off:1 Def:3),,,,
+0020101179,168,2,5,2,8:27 PM,5:05,MISS Weatherspoon  Layup,,,,
+0020101179,169,4,0,2,8:27 PM,5:04,Harrington REBOUND (Off:2 Def:2),,,,
+0020101179,170,1,5,2,8:27 PM,5:03,Harrington  Layup (2 PTS),,,30 - 31,1
+0020101179,171,2,5,2,8:27 PM,4:55,,,MISS Scalabrine  Layup,,
+0020101179,172,4,0,2,8:27 PM,4:53,Weatherspoon REBOUND (Off:1 Def:4),,,,
+0020101179,173,1,1,2,8:27 PM,4:38,Ward 23' Jump Shot (4 PTS) (Anderson 1 AST),,,30 - 33,3
+0020101179,174,6,2,2,8:27 PM,4:18,Anderson S.FOUL (P2.T3),,,,
+0020101179,175,3,11,2,8:28 PM,4:18,,,Collins Free Throw 1 of 2 (3 PTS),31 - 33,2
+0020101179,176,3,12,2,8:28 PM,4:18,,,Collins Free Throw 2 of 2 (4 PTS),32 - 33,1
+0020101179,177,2,1,2,8:28 PM,4:04,MISS Ward 19' Jump Shot,,,,
+0020101179,178,4,0,2,8:28 PM,4:01,,,Scalabrine REBOUND (Off:1 Def:2),,
+0020101179,179,2,5,2,8:28 PM,3:55,,,MISS Scalabrine  Layup,,
+0020101179,180,4,0,2,8:28 PM,3:54,,,Scalabrine REBOUND (Off:2 Def:2),,
+0020101179,181,1,1,2,8:29 PM,3:38,,,Collins 6' Jump Shot (6 PTS),34 - 33,-1
+0020101179,183,5,2,2,8:29 PM,3:29,Houston Lost Ball Turnover (P3.T8),,,,
+0020101179,184,8,0,2,8:29 PM,3:29,SUB: Sprewell FOR Anderson,,,,
+0020101179,185,6,2,2,8:29 PM,3:18,Harrington S.FOUL (P3.T4),,,,
+0020101179,186,3,11,2,8:30 PM,3:18,,,Collins Free Throw 1 of 2 (7 PTS),35 - 33,-2
+0020101179,187,8,0,2,8:30 PM,3:18,SUB: Thomas FOR Harrington,,,,
+0020101179,188,3,12,2,8:30 PM,3:18,,,Collins Free Throw 2 of 2 (8 PTS),36 - 33,-3
+0020101179,189,1,5,2,8:30 PM,3:05,Houston  Layup (13 PTS),,,36 - 35,-1
+0020101179,190,2,1,2,8:31 PM,2:48,,,MISS Collins 17' Jump Shot,,
+0020101179,191,4,0,2,8:31 PM,2:47,,,Nets Rebound,,
+0020101179,192,6,3,2,8:31 PM,2:47,Weatherspoon L.B.FOUL (P2.PN),,,,
+0020101179,193,9,1,2,8:31 PM,2:47,,,Nets Timeout: Regular (Reg.2 Short 1),,
+0020101179,195,3,11,2,8:33 PM,2:47,,,MISS Scalabrine Free Throw 1 of 2,,
+0020101179,196,4,1,2,8:33 PM,2:47,,,Nets Rebound,,
+0020101179,197,3,12,2,8:33 PM,2:47,,,Scalabrine Free Throw 2 of 2 (1 PTS),37 - 35,-2
+0020101179,198,1,5,2,8:34 PM,2:40,Thomas  Layup (6 PTS) (Weatherspoon 1 AST),,,37 - 37,TIE
+0020101179,199,1,1,2,8:34 PM,2:22,,,Armstrong 17' Jump Shot (4 PTS) (Collins 1 AST),39 - 37,-2
+0020101179,200,2,5,2,8:34 PM,1:56,MISS Thomas  Layup,,,,
+0020101179,202,4,0,2,8:34 PM,1:55,Thomas REBOUND (Off:4 Def:2),,,,
+0020101179,201,2,4,2,8:34 PM,1:55,MISS Thomas  Tip Shot,,,,
+0020101179,203,4,0,2,8:34 PM,1:54,Thomas REBOUND (Off:5 Def:2),,,,
+0020101179,204,6,2,2,8:35 PM,1:54,,,Armstrong S.FOUL (P3.T4),,
+0020101179,205,3,11,2,8:35 PM,1:54,Thomas Free Throw 1 of 2 (7 PTS),,,39 - 38,-1
+0020101179,206,3,12,2,8:35 PM,1:54,Thomas Free Throw 2 of 2 (8 PTS),,,39 - 39,TIE
+0020101179,207,2,5,2,8:35 PM,1:43,,,MISS Johnson  Layup,,
+0020101179,209,4,0,2,8:35 PM,1:40,,,Johnson REBOUND (Off:2 Def:0),,
+0020101179,208,2,4,2,8:35 PM,1:40,,,MISS Johnson  Tip Shot,,
+0020101179,210,4,0,2,8:36 PM,1:38,Weatherspoon REBOUND (Off:1 Def:5),,,,
+0020101179,211,1,8,2,8:36 PM,1:30,Weatherspoon  Slam Dunk (6 PTS) (Thomas 2 AST),,,39 - 41,2
+0020101179,212,2,1,2,8:36 PM,1:16,,,MISS Armstrong 20' Jump Shot,,
+0020101179,213,4,0,2,8:36 PM,1:14,Houston REBOUND (Off:0 Def:2),,,,
+0020101179,214,1,42,2,8:36 PM,1:02,Ward  Driving Layup (6 PTS),,,39 - 43,4
+0020101179,215,2,1,2,8:36 PM,0:46,,,MISS Collins 13' Jump Shot,,
+0020101179,216,4,0,2,8:36 PM,0:44,Thomas REBOUND (Off:5 Def:3),,,,
+0020101179,217,2,1,2,8:37 PM,0:31,MISS Weatherspoon 18' Jump Shot,,,,
+0020101179,218,4,0,2,8:37 PM,0:29,,,Nets Rebound,,
+0020101179,219,2,1,2,8:37 PM,0:11,,,MISS Armstrong 18' Jump Shot,,
+0020101179,220,4,0,2,8:37 PM,0:09,Weatherspoon REBOUND (Off:1 Def:6),,,,
+0020101179,221,2,1,2,8:37 PM,0:00,MISS Houston 24' 3PT Jump Shot,,,,
+0020101179,222,4,0,2,8:37 PM,0:00,KNICKS Rebound,,,,
+0020101179,223,13,0,2,8:37 PM,0:00,,,,39 - 43,4
+0020101179,225,12,0,3,8:54 PM,12:00,,,,39 - 43,4
+0020101179,226,1,1,3,8:54 PM,11:46,,,Kidd 15' Jump Shot (8 PTS),41 - 43,2
+0020101179,227,6,1,3,8:55 PM,11:32,,,Van Horn P.FOUL (P1.T1),,
+0020101179,228,2,1,3,8:55 PM,11:29,MISS Sprewell 19' Jump Shot,,,,
+0020101179,229,4,0,3,8:55 PM,11:27,,,Van Horn REBOUND (Off:1 Def:6),,
+0020101179,230,6,2,3,8:55 PM,11:23,Sprewell S.FOUL (P1.T1),,,,
+0020101179,231,3,11,3,8:55 PM,11:23,,,Martin Free Throw 1 of 2 (9 PTS),42 - 43,1
+0020101179,232,3,12,3,8:55 PM,11:23,,,MISS Martin Free Throw 2 of 2,,
+0020101179,233,4,0,3,8:56 PM,11:23,Weatherspoon REBOUND (Off:1 Def:7),,,,
+0020101179,234,1,1,3,8:56 PM,11:11,Houston 15' Jump Shot (15 PTS) (Jackson 3 AST),,,42 - 45,3
+0020101179,235,1,5,3,8:56 PM,10:58,,,Kittles  Layup (6 PTS) (Kidd 3 AST),44 - 45,1
+0020101179,236,2,1,3,8:56 PM,10:31,MISS Thomas 14' Jump Shot,,,,
+0020101179,237,4,0,3,8:57 PM,10:29,Weatherspoon REBOUND (Off:2 Def:7),,,,
+0020101179,238,2,5,3,8:57 PM,10:27,MISS Weatherspoon  Layup,,Martin BLOCK (1 BLK),,
+0020101179,239,4,0,3,8:57 PM,10:26,KNICKS Rebound,,,,
+0020101179,240,2,5,3,8:57 PM,10:21,MISS Thomas  Layup,,Van Horn BLOCK (1 BLK),,
+0020101179,241,4,0,3,8:57 PM,10:19,,,Van Horn REBOUND (Off:1 Def:7),,
+0020101179,242,5,1,3,8:57 PM,10:16,Sprewell STEAL (2 STL),,Van Horn Bad Pass Turnover (P2.T6),,
+0020101179,243,1,8,3,8:57 PM,10:11,Thomas  Slam Dunk (10 PTS) (Houston 1 AST),,,44 - 47,3
+0020101179,244,6,2,3,8:57 PM,9:52,Sprewell S.FOUL (P2.T2),,,,
+0020101179,245,3,11,3,8:58 PM,9:52,,,MISS Martin Free Throw 1 of 2,,
+0020101179,246,4,1,3,8:58 PM,9:52,,,Nets Rebound,,
+0020101179,247,3,12,3,8:58 PM,9:52,,,Martin Free Throw 2 of 2 (10 PTS),45 - 47,2
+0020101179,248,2,5,3,8:58 PM,9:40,MISS Thomas  Layup,,,,
+0020101179,249,4,0,3,8:58 PM,9:39,Thomas REBOUND (Off:6 Def:3),,,,
+0020101179,250,1,5,3,8:58 PM,9:37,Thomas  Layup (12 PTS),,,45 - 49,4
+0020101179,251,2,1,3,8:58 PM,9:24,,,MISS Van Horn 25' 3PT Jump Shot,,
+0020101179,252,4,0,3,8:58 PM,9:22,,,Kittles REBOUND (Off:2 Def:1),,
+0020101179,253,2,1,3,8:58 PM,9:18,,,MISS Kidd 24' 3PT Jump Shot,,
+0020101179,254,4,0,3,8:59 PM,9:15,Weatherspoon REBOUND (Off:2 Def:8),,,,
+0020101179,255,1,1,3,8:59 PM,9:11,Jackson 14' Jump Shot (6 PTS),,,45 - 51,6
+0020101179,256,2,1,3,8:59 PM,8:55,,,MISS Kittles 16' Jump Shot,,
+0020101179,258,4,0,3,8:59 PM,8:52,,,Williams REBOUND (Off:1 Def:1),,
+0020101179,257,2,5,3,8:59 PM,8:51,,,MISS Williams  Layup,,
+0020101179,259,4,0,3,8:59 PM,8:50,Weatherspoon REBOUND (Off:2 Def:9),,,,
+0020101179,260,1,5,3,8:59 PM,8:47,Sprewell  Layup (6 PTS) (Jackson 4 AST),,,45 - 53,8
+0020101179,261,1,1,3,9:00 PM,8:22,,,Van Horn 24' 3PT Jump Shot (5 PTS) (Kidd 4 AST),48 - 53,5
+0020101179,262,2,1,3,9:00 PM,8:04,MISS Houston 9' Jump Shot,,,,
+0020101179,263,4,0,3,9:00 PM,8:01,,,Kidd REBOUND (Off:0 Def:3),,
+0020101179,264,6,2,3,9:00 PM,7:58,Sprewell S.FOUL (P3.T3),,,,
+0020101179,265,3,11,3,9:00 PM,7:58,,,MISS Van Horn Free Throw 1 of 2,,
+0020101179,266,4,1,3,9:00 PM,7:58,,,Nets Rebound,,
+0020101179,267,3,12,3,9:00 PM,7:58,,,Van Horn Free Throw 2 of 2 (6 PTS),49 - 53,4
+0020101179,268,1,1,3,9:01 PM,7:48,Sprewell 15' Jump Shot (8 PTS) (Jackson 5 AST),,,49 - 55,6
+0020101179,269,2,1,3,9:01 PM,7:29,,,MISS Kidd 25' 3PT Jump Shot,,
+0020101179,270,4,0,3,9:01 PM,7:27,Thomas REBOUND (Off:6 Def:4),,,,
+0020101179,271,2,1,3,9:01 PM,7:14,MISS Jackson  3PT Jump Shot,,,,
+0020101179,272,4,0,3,9:01 PM,7:12,Weatherspoon REBOUND (Off:3 Def:9),,,,
+0020101179,273,1,7,3,9:02 PM,7:07,Weatherspoon  Dunk (8 PTS) (Jackson 6 AST),,,49 - 57,8
+0020101179,274,5,1,3,9:02 PM,6:50,,,Kidd Bad Pass Turnover (P3.T7),,
+0020101179,275,1,1,3,9:02 PM,6:34,Jackson 25' 3PT Jump Shot (9 PTS) (Sprewell 4 AST),,,49 - 60,11
+0020101179,276,1,1,3,9:03 PM,6:14,,,Kidd 24' 3PT Jump Shot (11 PTS) (Martin 2 AST),52 - 60,8
+0020101179,277,2,1,3,9:03 PM,5:58,MISS Sprewell 24' 3PT Jump Shot,,,,
+0020101179,278,4,0,3,9:03 PM,5:56,,,Martin REBOUND (Off:0 Def:2),,
+0020101179,279,1,3,3,9:03 PM,5:47,,,Van Horn 6' Hook Shot (8 PTS) (Martin 3 AST),54 - 60,6
+0020101179,280,6,2,3,9:03 PM,5:47,Sprewell S.FOUL (P4.T4),,,,
+0020101179,281,9,1,3,9:03 PM,5:47,KNICKS Timeout: Regular (Full 3 Short 0),,,,
+0020101179,283,8,0,3,9:05 PM,5:47,SUB: Anderson FOR Sprewell,,,,
+0020101179,284,3,10,3,9:05 PM,5:47,,,Van Horn Free Throw 1 of 1 (9 PTS),55 - 60,5
+0020101179,285,2,1,3,9:06 PM,5:32,MISS Jackson 24' 3PT Jump Shot,,,,
+0020101179,286,4,0,3,9:06 PM,5:29,,,Williams REBOUND (Off:1 Def:2),,
+0020101179,287,2,1,3,9:06 PM,5:25,,,MISS Kittles 24' 3PT Jump Shot,,
+0020101179,288,4,0,3,9:06 PM,5:22,Thomas REBOUND (Off:6 Def:5),,,,
+0020101179,289,2,1,3,9:06 PM,5:06,MISS Houston 24' 3PT Jump Shot,,,,
+0020101179,290,4,0,3,9:06 PM,5:04,,,Martin REBOUND (Off:0 Def:3),,
+0020101179,291,1,3,3,9:06 PM,5:00,,,Van Horn 7' Hook Shot (11 PTS) (Kidd 5 AST),57 - 60,3
+0020101179,292,9,2,3,9:07 PM,4:51,KNICKS Timeout: Short (Full 3 Short 1),,,,
+0020101179,293,1,43,3,9:08 PM,4:35,Thomas  Alley Oop Layup (14 PTS) (Jackson 7 AST),,,57 - 62,5
+0020101179,294,1,42,3,9:08 PM,4:14,,,Van Horn  Driving Layup (13 PTS) (Williams 1 AST),59 - 62,3
+0020101179,295,6,2,3,9:09 PM,3:47,,,Van Horn S.FOUL (P2.T2),,
+0020101179,296,3,11,3,9:09 PM,3:47,Thomas Free Throw 1 of 2 (15 PTS),,,59 - 63,4
+0020101179,297,3,12,3,9:09 PM,3:47,Thomas Free Throw 2 of 2 (16 PTS),,,59 - 64,5
+0020101179,298,5,1,3,9:10 PM,3:38,Anderson STEAL (1 STL),,Martin Bad Pass Turnover (P1.T8),,
+0020101179,299,1,1,3,9:10 PM,3:31,Houston 13' Jump Shot (17 PTS),,,59 - 66,7
+0020101179,300,2,1,3,9:10 PM,3:08,,,MISS Kidd 18' Jump Shot,,
+0020101179,301,4,0,3,9:10 PM,3:06,Thomas REBOUND (Off:6 Def:6),,,,
+0020101179,302,5,1,3,9:10 PM,3:05,Thomas Bad Pass Turnover (P1.T9),,Kittles STEAL (2 STL),,
+0020101179,303,1,42,3,9:10 PM,3:01,,,Martin  Driving Layup (12 PTS),61 - 66,5
+0020101179,304,6,2,3,9:10 PM,3:01,Thomas S.FOUL (P3.PN),,,,
+0020101179,305,3,10,3,9:11 PM,3:01,,,Martin Free Throw 1 of 1 (13 PTS),62 - 66,4
+0020101179,306,6,1,3,9:11 PM,2:51,,,Van Horn P.FOUL (P3.T3),,
+0020101179,307,9,1,3,9:11 PM,2:51,,,Nets Timeout: Regular (Reg.3 Short 1),,
+0020101179,309,8,0,3,9:13 PM,2:51,,,SUB: Jefferson FOR Martin,,
+0020101179,310,1,1,3,9:13 PM,2:44,Houston 16' Jump Shot (19 PTS),,,62 - 68,6
+0020101179,311,1,1,3,9:14 PM,2:32,,,Williams 11' Jump Shot (4 PTS) (Van Horn 1 AST),64 - 68,4
+0020101179,312,6,1,3,9:14 PM,2:13,,,Van Horn P.FOUL (P4.T4),,
+0020101179,313,5,2,3,9:14 PM,2:06,Houston Lost Ball Turnover (P4.T10),,Kittles STEAL (3 STL),,
+0020101179,314,6,1,3,9:14 PM,2:01,Houston P.FOUL (P3.PN),,,,
+0020101179,315,3,11,3,9:15 PM,2:01,,,Williams Free Throw 1 of 2 (5 PTS),65 - 68,3
+0020101179,316,3,12,3,9:15 PM,2:01,,,Williams Free Throw 2 of 2 (6 PTS),66 - 68,2
+0020101179,317,5,1,3,9:15 PM,1:47,Thomas Bad Pass Turnover (P2.T11),,,,
+0020101179,318,5,1,3,9:16 PM,1:29,Houston STEAL (1 STL),,Van Horn Bad Pass Turnover (P3.T9),,
+0020101179,319,2,5,3,9:16 PM,1:23,MISS Thomas  Layup,,Williams BLOCK (1 BLK),,
+0020101179,320,4,0,3,9:16 PM,1:21,,,Kidd REBOUND (Off:0 Def:4),,
+0020101179,321,1,8,3,9:16 PM,1:15,,,Williams  Slam Dunk (8 PTS),68 - 68,TIE
+0020101179,323,9,1,3,9:16 PM,1:15,KNICKS Timeout: Regular (Full 4 Short 1),,,,
+0020101179,325,8,0,3,9:18 PM,1:15,SUB: Harrington FOR Thomas,,,,
+0020101179,326,1,1,3,9:18 PM,1:01,Jackson 17' Jump Shot (11 PTS) (Houston 2 AST),,,68 - 70,2
+0020101179,327,2,1,3,9:19 PM,0:47,,,MISS Kittles 17' Jump Shot,,
+0020101179,328,4,0,3,9:19 PM,0:45,Anderson REBOUND (Off:0 Def:3),,,,
+0020101179,329,6,1,3,9:19 PM,0:24,,,Van Horn P.FOUL (P5.PN),,
+0020101179,330,3,11,3,9:19 PM,0:24,Harrington Free Throw 1 of 2 (3 PTS),,,68 - 71,3
+0020101179,331,3,12,3,9:19 PM,0:24,Harrington Free Throw 2 of 2 (4 PTS),,,68 - 72,4
+0020101179,332,2,1,3,9:20 PM,0:03,,,MISS Kidd 24' 3PT Jump Shot,,
+0020101179,333,4,0,3,9:20 PM,0:00,Anderson REBOUND (Off:0 Def:4),,,,
+0020101179,334,13,0,3,9:20 PM,0:00,,,,68 - 72,4
+0020101179,336,12,0,4,9:23 PM,12:00,,,,68 - 72,4
+0020101179,337,6,2,4,9:23 PM,11:47,,,Armstrong S.FOUL (P4.T1),,
+0020101179,338,3,11,4,9:23 PM,11:47,Houston Free Throw 1 of 2 (20 PTS),,,68 - 73,5
+0020101179,339,3,12,4,9:23 PM,11:47,Houston Free Throw 2 of 2 (21 PTS),,,68 - 74,6
+0020101179,340,2,5,4,9:24 PM,11:27,,,MISS Scalabrine  Layup,,
+0020101179,341,4,0,4,9:24 PM,11:26,Houston REBOUND (Off:0 Def:3),,,,
+0020101179,342,2,5,4,9:24 PM,11:14,MISS Weatherspoon  Layup,,,,
+0020101179,343,4,0,4,9:24 PM,11:13,Weatherspoon REBOUND (Off:4 Def:9),,,,
+0020101179,344,2,5,4,9:24 PM,11:11,MISS Weatherspoon  Layup,,,,
+0020101179,345,4,0,4,9:24 PM,11:09,Weatherspoon REBOUND (Off:5 Def:9),,,,
+0020101179,346,6,4,4,9:24 PM,11:09,Weatherspoon OFF.Foul (P3),,,,
+0020101179,347,5,5,4,9:24 PM,11:09,Weatherspoon Foul Turnover (P1.T12),,,,
+0020101179,348,6,11,4,9:25 PM,11:09,Weatherspoon T.FOUL (P3.T0),,,,
+0020101179,349,3,16,4,9:25 PM,11:09,,,Johnson Free Throw Technical (3 PTS),69 - 74,5
+0020101179,350,1,1,4,9:25 PM,10:50,,,Johnson 18' Jump Shot (5 PTS) (Scalabrine 1 AST),71 - 74,3
+0020101179,351,1,46,4,9:26 PM,10:32,Houston 10' Running Jump Shot (23 PTS),,,71 - 76,5
+0020101179,352,1,42,4,9:26 PM,10:24,,,Johnson  Driving Layup (7 PTS),73 - 76,3
+0020101179,353,5,1,4,9:26 PM,10:09,Houston Bad Pass Turnover (P5.T13),,Johnson STEAL (1 STL),,
+0020101179,354,1,49,4,9:26 PM,10:06,,,Johnson  Driving Dunk (9 PTS),75 - 76,1
+0020101179,355,9,1,4,9:26 PM,9:56,KNICKS Timeout: Regular (Full 5 Short 1),,,,
+0020101179,358,5,2,4,9:29 PM,9:49,Ward Lost Ball Turnover (P1.T14),,,,
+0020101179,359,1,42,4,9:29 PM,9:38,,,Jefferson  Driving Layup (4 PTS) (Collins 2 AST),77 - 76,-1
+0020101179,360,6,2,4,9:29 PM,9:38,Ward S.FOUL (P1.T1),,,,
+0020101179,361,3,10,4,9:29 PM,9:38,,,MISS Jefferson Free Throw 1 of 1,,
+0020101179,362,4,0,4,9:30 PM,9:37,Harrington REBOUND (Off:2 Def:3),,,,
+0020101179,363,5,2,4,9:30 PM,9:23,Ward Lost Ball Turnover (P2.T15),,Johnson STEAL (2 STL),,
+0020101179,364,6,2,4,9:30 PM,9:06,Harrington S.FOUL (P4.T2),,,,
+0020101179,365,3,11,4,9:30 PM,9:06,,,Collins Free Throw 1 of 2 (9 PTS),78 - 76,-2
+0020101179,366,8,0,4,9:30 PM,9:06,SUB: Thomas FOR Weatherspoon,,,,
+0020101179,367,3,12,4,9:31 PM,9:06,,,Collins Free Throw 2 of 2 (10 PTS),79 - 76,-3
+0020101179,368,2,1,4,9:31 PM,8:52,MISS Houston 14' Jump Shot,,,,
+0020101179,369,4,0,4,9:31 PM,8:50,,,Johnson REBOUND (Off:2 Def:1),,
+0020101179,370,6,2,4,9:31 PM,8:45,Anderson S.FOUL (P3.T3),,,,
+0020101179,371,3,11,4,9:31 PM,8:45,,,Johnson Free Throw 1 of 2 (10 PTS),80 - 76,-4
+0020101179,372,3,12,4,9:32 PM,8:45,,,Johnson Free Throw 2 of 2 (11 PTS),81 - 76,-5
+0020101179,373,1,1,4,9:32 PM,8:34,Thomas 14' Jump Shot (18 PTS) (Ward 1 AST),,,81 - 78,-3
+0020101179,374,1,1,4,9:32 PM,8:15,,,Armstrong  3PT Jump Shot (7 PTS) (Scalabrine 2 AST),84 - 78,-6
+0020101179,375,1,1,4,9:33 PM,8:02,Ward 24' 3PT Jump Shot (9 PTS),,,84 - 81,-3
+0020101179,376,2,1,4,9:33 PM,7:42,Harrington BLOCK (1 BLK),,MISS Scalabrine 9' Jump Shot,,
+0020101179,377,4,0,4,9:33 PM,7:39,Anderson REBOUND (Off:0 Def:5),,,,
+0020101179,378,5,8,4,9:33 PM,7:31,Harrington 3 Second Violation Turnover (P3.T16),,,,
+0020101179,379,8,0,4,9:33 PM,7:31,SUB: Sprewell FOR Houston,,,,
+0020101179,380,6,2,4,9:34 PM,7:20,Sprewell S.FOUL (P5.T4),,,,
+0020101179,381,3,11,4,9:34 PM,7:20,,,Jefferson Free Throw 1 of 2 (5 PTS),85 - 81,-4
+0020101179,382,3,12,4,9:34 PM,7:20,,,Jefferson Free Throw 2 of 2 (6 PTS),86 - 81,-5
+0020101179,383,5,2,4,9:34 PM,7:12,Ward Lost Ball Turnover (P3.T17),,Armstrong STEAL (2 STL),,
+0020101179,384,2,5,4,9:34 PM,7:08,,,MISS Armstrong  Layup,,
+0020101179,385,4,0,4,9:34 PM,7:07,Harrington REBOUND (Off:2 Def:4),,,,
+0020101179,386,1,8,4,9:34 PM,7:03,Thomas  Slam Dunk (20 PTS) (Harrington 1 AST),,,86 - 83,-3
+0020101179,387,6,2,4,9:35 PM,6:47,Thomas S.FOUL (P4.PN),,,,
+0020101179,388,8,0,4,9:35 PM,6:47,SUB: Eisley FOR Sprewell,,,,
+0020101179,389,3,11,4,9:35 PM,6:47,,,Armstrong Free Throw 1 of 2 (8 PTS),87 - 83,-4
+0020101179,390,3,12,4,9:35 PM,6:47,,,MISS Armstrong Free Throw 2 of 2,,
+0020101179,391,4,0,4,9:35 PM,6:46,Harrington REBOUND (Off:2 Def:5),,,,
+0020101179,392,2,5,4,9:36 PM,6:32,MISS Thomas  Layup,,,,
+0020101179,393,4,0,4,9:36 PM,6:30,,,Collins REBOUND (Off:1 Def:3),,
+0020101179,394,1,1,4,9:36 PM,6:20,,,Jefferson 21' Jump Shot (8 PTS) (Johnson 4 AST),89 - 83,-6
+0020101179,395,5,1,4,9:36 PM,5:59,Anderson Bad Pass Turnover (P3.T18),,Scalabrine STEAL (1 STL),,
+0020101179,396,1,1,4,9:36 PM,5:47,,,Armstrong 24' 3PT Jump Shot (11 PTS) (Scalabrine 3 AST),92 - 83,-9
+0020101179,397,9,1,4,9:36 PM,5:40,KNICKS Timeout: Regular (Full 6 Short 1),,,,
+0020101179,399,8,0,4,9:38 PM,5:40,SUB: Sprewell FOR Ward,,,,
+0020101179,400,8,0,4,9:39 PM,5:40,SUB: Weatherspoon FOR Harrington,,,,
+0020101179,403,8,0,4,9:39 PM,5:40,SUB: Houston FOR Anderson,,,,
+0020101179,401,8,0,4,9:39 PM,5:40,,,SUB: Marshall FOR Jefferson,,
+0020101179,402,1,1,4,9:39 PM,5:31,Houston 18' Jump Shot (25 PTS),,,92 - 85,-7
+0020101179,404,2,1,4,9:39 PM,5:12,,,MISS Marshall 25' 3PT Jump Shot,,
+0020101179,405,4,0,4,9:39 PM,5:10,Weatherspoon REBOUND (Off:5 Def:10),,,,
+0020101179,407,2,1,4,9:39 PM,4:55,MISS Sprewell 12' Jump Shot,,,,
+0020101179,408,4,0,4,9:39 PM,4:53,,,Scalabrine REBOUND (Off:2 Def:3),,
+0020101179,409,2,1,4,9:40 PM,4:33,,,MISS Johnson 24' 3PT Jump Shot,,
+0020101179,410,4,0,4,9:40 PM,4:31,Sprewell REBOUND (Off:1 Def:1),,,,
+0020101179,411,1,1,4,9:40 PM,4:21,Eisley 21' Jump Shot (2 PTS),,,92 - 87,-5
+0020101179,413,1,1,4,9:40 PM,3:58,,,Johnson 15' Jump Shot (13 PTS) (Armstrong 1 AST),94 - 87,-7
+0020101179,414,6,2,4,9:41 PM,3:39,,,Johnson S.FOUL (P1.T2),,
+0020101179,415,3,11,4,9:41 PM,3:39,Houston Free Throw 1 of 2 (26 PTS),,,94 - 88,-6
+0020101179,416,3,12,4,9:41 PM,3:39,Houston Free Throw 2 of 2 (27 PTS),,,94 - 89,-5
+0020101179,417,5,3,4,9:42 PM,3:25,,,Scalabrine Out Of Bounds Turnover (P2.T10),,
+0020101179,418,1,1,4,9:42 PM,3:17,Houston 18' Jump Shot (29 PTS) (Sprewell 5 AST),,,94 - 91,-3
+0020101179,419,1,1,4,9:42 PM,2:59,,,Armstrong 20' Jump Shot (13 PTS) (Collins 3 AST),96 - 91,-5
+0020101179,420,6,1,4,9:42 PM,2:42,,,Marshall P.FOUL (P1.T3),,
+0020101179,421,9,4,4,9:43 PM,2:42,,,,,
+0020101179,423,8,0,4,9:45 PM,2:42,,,SUB: Jefferson FOR Armstrong,,
+0020101179,424,2,1,4,9:45 PM,2:37,MISS Houston 20' Jump Shot,,,,
+0020101179,425,4,0,4,9:45 PM,2:35,,,Marshall REBOUND (Off:0 Def:1),,
+0020101179,426,2,1,4,9:45 PM,2:20,,,MISS Jefferson 13' Jump Shot,,
+0020101179,427,4,0,4,9:45 PM,2:18,,,Collins REBOUND (Off:2 Def:3),,
+0020101179,428,2,1,4,9:45 PM,2:17,,,MISS Collins 8' Jump Shot,,
+0020101179,429,4,0,4,9:45 PM,2:15,Thomas REBOUND (Off:6 Def:7),,,,
+0020101179,430,2,1,4,9:45 PM,2:05,MISS Houston 13' Jump Shot,,,,
+0020101179,431,4,0,4,9:45 PM,2:03,Weatherspoon REBOUND (Off:6 Def:10),,,,
+0020101179,432,6,4,4,9:45 PM,2:02,Thomas OFF.Foul (P5),,,,
+0020101179,433,5,5,4,9:45 PM,2:02,Thomas Foul Turnover (P3.T19),,,,
+0020101179,434,2,1,4,9:46 PM,1:46,,,MISS Collins 6' Jump Shot,,
+0020101179,435,4,0,4,9:46 PM,1:44,Thomas REBOUND (Off:6 Def:8),,,,
+0020101179,436,2,1,4,9:46 PM,1:33,MISS Eisley 26' 3PT Jump Shot,,,,
+0020101179,437,4,0,4,9:46 PM,1:31,Weatherspoon REBOUND (Off:7 Def:10),,,,
+0020101179,438,2,1,4,9:46 PM,1:30,MISS Houston 25' 3PT Jump Shot,,,,
+0020101179,439,4,0,4,9:46 PM,1:28,,,Johnson REBOUND (Off:2 Def:2),,
+0020101179,440,2,1,4,9:47 PM,1:03,,,MISS Jefferson 25' 3PT Jump Shot,,
+0020101179,441,4,0,4,9:47 PM,1:01,KNICKS Rebound,,,,
+0020101179,442,1,1,4,9:47 PM,0:51,Houston 25' 3PT Jump Shot (32 PTS) (Eisley 1 AST),,,96 - 94,-2
+0020101179,443,1,8,4,9:47 PM,0:34,,,Collins  Slam Dunk (12 PTS) (Scalabrine 4 AST),98 - 94,-4
+0020101179,444,5,1,4,9:48 PM,0:26,Eisley Bad Pass Turnover (P1.T20),,Scalabrine STEAL (2 STL),,
+0020101179,445,6,1,4,9:48 PM,0:25,Eisley P.FOUL (P1.PN),,,,
+0020101179,446,3,11,4,9:48 PM,0:25,,,Scalabrine Free Throw 1 of 2 (2 PTS),99 - 94,-5
+0020101179,447,3,12,4,9:48 PM,0:25,,,MISS Scalabrine Free Throw 2 of 2,,
+0020101179,448,4,0,4,9:48 PM,0:24,Thomas REBOUND (Off:6 Def:9),,,,
+0020101179,449,2,1,4,9:49 PM,0:18,MISS Eisley 24' 3PT Jump Shot,,,,
+0020101179,450,4,0,4,9:49 PM,0:16,,,Jefferson REBOUND (Off:0 Def:1),,
+0020101179,451,13,0,4,9:49 PM,0:00,,,,99 - 94,-5

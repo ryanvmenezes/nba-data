@@ -1,0 +1,423 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021100606,0,12,0,1,6:13 PM,12:00,,,,,
+0021100606,1,10,0,1,6:14 PM,12:00,Jump Ball Howard vs. Hibbert: Tip to Granger,,,,
+0021100606,2,2,1,1,6:14 PM,11:36,,,MISS Collison 27' 3PT Jump Shot,,
+0021100606,3,4,0,1,6:14 PM,11:33,Redick REBOUND (Off:0 Def:1),,,,
+0021100606,4,2,1,1,6:14 PM,11:21,MISS Richardson 27' 3PT Jump Shot,,,,
+0021100606,5,4,0,1,6:14 PM,11:19,,,George REBOUND (Off:0 Def:1),,
+0021100606,6,6,1,1,6:15 PM,11:12,Howard P.FOUL (P1.T1),,,,
+0021100606,7,2,1,1,6:15 PM,11:03,,,MISS Granger 24' 3PT Jump Shot,,
+0021100606,8,4,0,1,6:15 PM,11:01,Nelson REBOUND (Off:0 Def:1),,,,
+0021100606,9,2,1,1,6:15 PM,10:57,MISS Richardson 22' Jump Shot,,,,
+0021100606,10,4,0,1,6:15 PM,10:56,MAGIC Rebound,,,,
+0021100606,11,2,1,1,6:15 PM,10:46,MISS Anderson  3PT Jump Shot,,,,
+0021100606,12,4,0,1,6:15 PM,10:45,,,George REBOUND (Off:0 Def:2),,
+0021100606,13,1,1,1,6:16 PM,10:37,,,Granger 10' Jump Shot (2 PTS) (Collison 1 AST),2 - 0,-2
+0021100606,14,1,80,1,6:16 PM,10:26,Nelson 17' Step Back Jump Shot (2 PTS),,,2 - 2,TIE
+0021100606,15,2,63,1,6:16 PM,10:08,,,MISS Granger 16' Fadeaway Jumper,,
+0021100606,16,4,0,1,6:16 PM,10:07,Howard REBOUND (Off:0 Def:1),,,,
+0021100606,17,2,1,1,6:16 PM,9:59,MISS Redick 24' 3PT Jump Shot,,,,
+0021100606,18,4,0,1,6:16 PM,9:57,Anderson REBOUND (Off:1 Def:0),,,,
+0021100606,19,1,5,1,6:16 PM,9:48,Redick 1' Layup (2 PTS) (Howard 1 AST),,,2 - 4,2
+0021100606,20,1,3,1,6:17 PM,9:29,,,West 4' Hook Shot (2 PTS),4 - 4,TIE
+0021100606,21,1,52,1,6:17 PM,9:15,Howard 1' Alley Oop Dunk (2 PTS) (Redick 1 AST),,,4 - 6,2
+0021100606,22,2,1,1,6:17 PM,8:58,,,MISS Hibbert 3' Jump Shot,,
+0021100606,23,4,0,1,6:17 PM,8:55,Anderson REBOUND (Off:1 Def:1),,,,
+0021100606,24,6,2,1,6:17 PM,8:46,,,Hibbert S.FOUL (P1.T1),,
+0021100606,26,3,11,1,6:18 PM,8:46,MISS Howard Free Throw 1 of 2,,,,
+0021100606,27,4,1,1,6:18 PM,8:46,MAGIC Rebound,,,,
+0021100606,28,3,12,1,6:18 PM,8:46,Howard Free Throw 2 of 2 (3 PTS),,,4 - 7,3
+0021100606,30,2,1,1,6:18 PM,8:31,Richardson BLOCK (1 BLK),,MISS George 6' Jump Shot,,
+0021100606,31,4,0,1,6:18 PM,8:27,,,George REBOUND (Off:1 Def:2),,
+0021100606,32,1,5,1,6:19 PM,8:26,,,George 2' Layup (2 PTS),6 - 7,1
+0021100606,33,2,5,1,6:19 PM,8:14,MISS Anderson 3' Layup,,,,
+0021100606,34,4,0,1,6:19 PM,8:13,,,George REBOUND (Off:1 Def:3),,
+0021100606,35,1,49,1,6:19 PM,8:07,,,George 3' Driving Dunk (4 PTS),8 - 7,-1
+0021100606,36,1,8,1,6:19 PM,7:50,Howard 1' Slam Dunk (5 PTS) (Redick 2 AST),,,8 - 9,1
+0021100606,37,2,1,1,6:20 PM,7:25,,,MISS West 18' Jump Shot,,
+0021100606,38,4,0,1,6:20 PM,7:24,Howard REBOUND (Off:0 Def:2),,,,
+0021100606,39,2,1,1,6:20 PM,7:11,MISS Richardson 18' Jump Shot,,,,
+0021100606,40,4,0,1,6:20 PM,7:09,,,West REBOUND (Off:0 Def:1),,
+0021100606,41,2,3,1,6:20 PM,6:56,,,MISS Hibbert 3' Hook Shot,,
+0021100606,42,4,0,1,6:20 PM,6:54,Howard REBOUND (Off:0 Def:3),,,,
+0021100606,43,1,1,1,6:20 PM,6:43,Nelson 25' 3PT Jump Shot (5 PTS) (Redick 3 AST),,,8 - 12,4
+0021100606,44,2,1,1,6:21 PM,6:20,,,MISS George 14' Jump Shot,,
+0021100606,45,4,0,1,6:21 PM,6:19,Richardson REBOUND (Off:0 Def:1),,,,
+0021100606,46,1,42,1,6:21 PM,6:14,Nelson 3' Driving Layup (7 PTS),,,8 - 14,6
+0021100606,47,1,7,1,6:21 PM,6:07,,,George 3' Dunk (6 PTS) (Collison 2 AST),10 - 14,4
+0021100606,49,2,77,1,6:21 PM,5:55,MISS Redick 4' Driving Jump Shot,,,,
+0021100606,50,4,0,1,6:21 PM,5:53,Howard REBOUND (Off:1 Def:3),,,,
+0021100606,51,1,3,1,6:21 PM,5:52,Howard 4' Hook Shot (7 PTS),,,10 - 16,6
+0021100606,52,2,1,1,6:22 PM,5:33,,,MISS Collison 6' Jump Shot,,
+0021100606,54,4,0,1,6:22 PM,5:30,,,Hibbert REBOUND (Off:1 Def:0),,
+0021100606,53,1,5,1,6:22 PM,5:30,,,Hibbert 3' Layup (2 PTS),12 - 16,4
+0021100606,55,2,1,1,6:22 PM,5:08,MISS Redick 26' 3PT Jump Shot,,,,
+0021100606,56,4,0,1,6:22 PM,5:06,Anderson REBOUND (Off:2 Def:1),,,,
+0021100606,57,6,2,1,6:22 PM,5:05,,,West S.FOUL (P1.T2),,
+0021100606,59,9,1,1,6:22 PM,5:05,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0021100606,60,8,0,1,6:24 PM,5:05,SUB: Clark FOR Richardson,,,,
+0021100606,61,3,11,1,6:25 PM,5:05,Anderson Free Throw 1 of 2 (1 PTS),,,12 - 17,5
+0021100606,63,3,12,1,6:25 PM,5:05,Anderson Free Throw 2 of 2 (2 PTS),,,12 - 18,6
+0021100606,65,2,1,1,6:25 PM,4:46,,,MISS Granger 26' 3PT Jump Shot,,
+0021100606,66,4,0,1,6:26 PM,4:45,Anderson REBOUND (Off:2 Def:2),,,,
+0021100606,67,1,67,1,6:26 PM,4:24,Howard 4' Hook Bank Shot (9 PTS),,,12 - 20,8
+0021100606,68,1,1,1,6:26 PM,3:56,,,Hibbert 5' Jump Shot (4 PTS) (Granger 1 AST),14 - 20,6
+0021100606,69,1,1,1,6:27 PM,3:41,Redick 21' Jump Shot (4 PTS) (Howard 2 AST),,,14 - 22,8
+0021100606,70,9,1,1,6:27 PM,3:34,,,Pacers Timeout: Regular (Reg.1 Short 0),,
+0021100606,72,8,0,1,6:29 PM,3:34,,,SUB: Stephenson FOR West,,
+0021100606,73,8,0,1,6:29 PM,3:34,,,SUB: Hansbrough FOR George,,
+0021100606,74,8,0,1,6:29 PM,3:34,SUB: Duhon FOR Nelson,,,,
+0021100606,75,8,0,1,6:29 PM,3:34,SUB: Davis FOR Anderson,,,,
+0021100606,76,1,1,1,6:29 PM,3:20,,,Granger 9' Jump Shot (4 PTS),16 - 22,6
+0021100606,77,1,1,1,6:30 PM,3:05,Redick 18' Jump Shot (6 PTS) (Howard 3 AST),,,16 - 24,8
+0021100606,78,2,1,1,6:30 PM,2:54,,,MISS Collison 15' Jump Shot,,
+0021100606,79,4,0,1,6:30 PM,2:53,Redick REBOUND (Off:0 Def:2),,,,
+0021100606,80,1,73,1,6:30 PM,2:43,Howard 2' Driving Reverse Layup (11 PTS),,,16 - 26,10
+0021100606,81,1,1,1,6:30 PM,2:25,,,Granger 13' Jump Shot (6 PTS) (Collison 3 AST),18 - 26,8
+0021100606,82,2,5,1,6:30 PM,2:12,MISS Howard 1' Layup,,,,
+0021100606,83,4,0,1,6:30 PM,2:10,,,Hansbrough REBOUND (Off:0 Def:1),,
+0021100606,84,2,1,1,6:31 PM,2:04,,,MISS Granger 24' 3PT Jump Shot,,
+0021100606,85,4,0,1,6:31 PM,2:03,Davis REBOUND (Off:0 Def:1),,,,
+0021100606,86,1,1,1,6:31 PM,1:53,Redick 19' Jump Shot (8 PTS),,,18 - 28,10
+0021100606,87,6,2,1,6:31 PM,1:53,,,Stephenson S.FOUL (P1.T3),,
+0021100606,88,8,0,1,6:31 PM,1:53,,,SUB: Amundson FOR Hibbert,,
+0021100606,89,8,0,1,6:31 PM,1:53,,,SUB: Price FOR Collison,,
+0021100606,90,3,10,1,6:31 PM,1:53,Redick Free Throw 1 of 1 (9 PTS),,,18 - 29,11
+0021100606,92,5,1,1,6:32 PM,1:42,Howard STEAL (1 STL),,Granger Bad Pass Turnover (P1.T1),,
+0021100606,93,1,5,1,6:32 PM,1:37,Clark 2' Layup (2 PTS) (Howard 4 AST),,,18 - 31,13
+0021100606,94,1,5,1,6:32 PM,1:23,,,Hansbrough 2' Layup (2 PTS) (Amundson 1 AST),20 - 31,11
+0021100606,95,2,1,1,6:32 PM,1:07,MISS Redick 11' Jump Shot,,,,
+0021100606,96,4,0,1,6:32 PM,1:07,MAGIC Rebound,,,,
+0021100606,97,6,3,1,6:32 PM,1:07,,,Amundson L.B.FOUL (P1.PN),,
+0021100606,98,3,11,1,6:33 PM,1:07,MISS Howard Free Throw 1 of 2,,,,
+0021100606,99,4,1,1,6:33 PM,1:07,MAGIC Rebound,,,,
+0021100606,101,3,12,1,6:33 PM,1:07,MISS Howard Free Throw 2 of 2,,,,
+0021100606,103,4,0,1,6:33 PM,1:02,,,Amundson REBOUND (Off:0 Def:1),,
+0021100606,104,5,4,1,6:33 PM,0:54,,,Hansbrough Traveling Turnover (P1.T2),,
+0021100606,105,8,0,1,6:33 PM,0:54,SUB: Anderson FOR Howard,,,,
+0021100606,106,1,1,1,6:34 PM,0:43,Anderson  3PT Jump Shot (5 PTS) (Redick 4 AST),,,20 - 34,14
+0021100606,108,6,2,1,6:34 PM,0:34,Davis S.FOUL (P1.T2),,,,
+0021100606,110,3,11,1,6:35 PM,0:34,,,Granger Free Throw 1 of 2 (7 PTS),21 - 34,13
+0021100606,112,3,12,1,6:35 PM,0:34,,,Granger Free Throw 2 of 2 (8 PTS),22 - 34,12
+0021100606,114,6,2,1,6:36 PM,0:24,,,Hansbrough S.FOUL (P1.PN),,
+0021100606,115,3,11,1,6:36 PM,0:24,Davis Free Throw 1 of 2 (1 PTS),,,22 - 35,13
+0021100606,117,3,12,1,6:36 PM,0:24,Davis Free Throw 2 of 2 (2 PTS),,,22 - 36,14
+0021100606,119,2,1,1,6:37 PM,0:01,,,MISS Amundson 3' Jump Shot,,
+0021100606,120,4,0,1,6:37 PM,0:00,Redick REBOUND (Off:0 Def:3),,,,
+0021100606,121,13,0,1,6:37 PM,0:00,,,,22 - 36,14
+0021100606,123,12,0,2,6:39 PM,12:00,,,,22 - 36,14
+0021100606,124,6,1,2,6:40 PM,11:45,,,Jones P.FOUL (P1.T1),,
+0021100606,125,2,1,2,6:40 PM,11:31,MISS Davis 18' Jump Shot,,,,
+0021100606,126,4,0,2,6:40 PM,11:31,MAGIC Rebound,,,,
+0021100606,127,6,1,2,6:40 PM,11:31,,,Jones P.FOUL (P2.T2),,
+0021100606,128,1,1,2,6:41 PM,11:19,Duhon 26' 3PT Jump Shot (3 PTS),,,22 - 39,17
+0021100606,129,2,1,2,6:41 PM,10:57,,,MISS Jones 7' Jump Shot,,
+0021100606,130,4,0,2,6:41 PM,10:56,,,Jones REBOUND (Off:1 Def:0),,
+0021100606,131,1,65,2,6:41 PM,10:46,,,Hansbrough 6' Jump Hook Shot (4 PTS),24 - 39,15
+0021100606,132,1,1,2,6:42 PM,10:26,Anderson 4' Jump Shot (7 PTS) (Redick 5 AST),,,24 - 41,17
+0021100606,133,2,65,2,6:42 PM,10:10,,,MISS Hansbrough 4' Jump Hook Shot,,
+0021100606,134,4,0,2,6:42 PM,10:09,Clark REBOUND (Off:0 Def:1),,,,
+0021100606,135,5,40,2,6:42 PM,9:57,Duhon Out of Bounds Lost Ball Turnover (P1.T1),,,,
+0021100606,136,8,0,2,6:42 PM,9:57,,,SUB: George FOR Stephenson,,
+0021100606,137,2,1,2,6:43 PM,9:44,Anderson BLOCK (1 BLK),,MISS George 5' Jump Shot,,
+0021100606,138,4,0,2,6:43 PM,9:44,,,Pacers Rebound,,
+0021100606,139,5,38,2,6:43 PM,9:44,,,Pacers Turnover: 5 Second Inbound (T#3),,
+0021100606,141,1,1,2,6:44 PM,9:24,Duhon 26' 3PT Jump Shot (6 PTS) (Clark 1 AST),,,24 - 44,20
+0021100606,142,6,4,2,6:44 PM,9:13,,,Price OFF.Foul (P1),,
+0021100606,143,5,5,2,6:44 PM,9:13,,,Price Foul Turnover (P1.T4),,
+0021100606,144,5,1,2,6:44 PM,9:02,Davis Bad Pass Turnover (P1.T2),,George STEAL (1 STL),,
+0021100606,145,1,49,2,6:44 PM,8:59,,,George 1' Driving Dunk (8 PTS),26 - 44,18
+0021100606,146,2,1,2,6:45 PM,8:36,MISS Anderson 27' 3PT Jump Shot,,,,
+0021100606,147,4,0,2,6:45 PM,8:35,,,Amundson REBOUND (Off:0 Def:2),,
+0021100606,148,2,1,2,6:45 PM,8:28,,,MISS Price 21' Jump Shot,,
+0021100606,149,4,0,2,6:45 PM,8:27,,,Hansbrough REBOUND (Off:1 Def:1),,
+0021100606,150,2,65,2,6:45 PM,8:24,,,MISS Hansbrough 5' Jump Hook Shot,,
+0021100606,151,4,0,2,6:45 PM,8:22,Clark REBOUND (Off:0 Def:2),,,,
+0021100606,152,1,1,2,6:45 PM,8:10,Redick 25' 3PT Jump Shot (12 PTS) (Duhon 1 AST),,,26 - 47,21
+0021100606,153,9,1,2,6:45 PM,8:09,,,Pacers Timeout: Regular (Reg.2 Short 0),,
+0021100606,155,8,0,2,6:47 PM,8:09,SUB: Richardson FOR Redick,,,,
+0021100606,156,8,0,2,6:47 PM,8:09,SUB: Wafer FOR Clark,,,,
+0021100606,157,8,0,2,6:47 PM,8:09,SUB: Howard FOR Davis,,,,
+0021100606,158,8,0,2,6:47 PM,8:09,,,SUB: Collison FOR Amundson,,
+0021100606,159,8,0,2,6:47 PM,8:09,,,SUB: West FOR Price,,
+0021100606,160,2,1,2,6:48 PM,7:55,,,MISS George 18' Jump Shot,,
+0021100606,161,4,0,2,6:48 PM,7:54,,,Pacers Rebound,,
+0021100606,162,2,80,2,6:48 PM,7:44,,,MISS West 19' Step Back Jump Shot,,
+0021100606,163,4,0,2,6:48 PM,7:42,Wafer REBOUND (Off:0 Def:1),,,,
+0021100606,164,1,1,2,6:49 PM,7:31,Duhon 26' 3PT Jump Shot (9 PTS),,,26 - 50,24
+0021100606,165,1,1,2,6:49 PM,7:17,,,George  3PT Jump Shot (11 PTS) (Hansbrough 1 AST),29 - 50,21
+0021100606,166,6,2,2,6:49 PM,6:55,,,West S.FOUL (P2.T3),,
+0021100606,167,3,11,2,6:50 PM,6:55,Wafer Free Throw 1 of 2 (1 PTS),,,29 - 51,22
+0021100606,169,8,0,2,6:50 PM,6:55,SUB: Nelson FOR Duhon,,,,
+0021100606,173,8,0,2,6:50 PM,6:55,,,SUB: Hibbert FOR Hansbrough,,
+0021100606,170,3,12,2,6:50 PM,6:55,MISS Wafer Free Throw 2 of 2,,,,
+0021100606,172,4,0,2,6:50 PM,6:53,,,West REBOUND (Off:0 Def:2),,
+0021100606,174,5,1,2,6:50 PM,6:35,,,Jones Bad Pass Turnover (P1.T5),,
+0021100606,176,2,3,2,6:51 PM,6:15,MISS Howard 4' Hook Shot,,Hibbert BLOCK (1 BLK),,
+0021100606,178,4,0,2,6:51 PM,6:12,,,West REBOUND (Off:0 Def:3),,
+0021100606,179,2,3,2,6:51 PM,5:56,,,MISS Hibbert 4' Hook Shot,,
+0021100606,180,4,0,2,6:51 PM,5:55,Anderson REBOUND (Off:2 Def:3),,,,
+0021100606,181,6,2,2,6:52 PM,5:42,,,West S.FOUL (P3.T4),,
+0021100606,182,9,4,2,6:52 PM,5:42,,,,,
+0021100606,184,8,0,2,6:54 PM,5:42,,,SUB: Hansbrough FOR West,,
+0021100606,185,8,0,2,6:54 PM,5:42,,,SUB: Granger FOR Jones,,
+0021100606,186,3,11,2,6:54 PM,5:42,Wafer Free Throw 1 of 2 (2 PTS),,,29 - 52,23
+0021100606,188,3,12,2,6:54 PM,5:42,MISS Wafer Free Throw 2 of 2,,,,
+0021100606,190,4,0,2,6:54 PM,5:40,,,Hansbrough REBOUND (Off:1 Def:2),,
+0021100606,191,5,2,2,6:55 PM,5:20,Nelson STEAL (1 STL),,Granger Lost Ball Turnover (P2.T6),,
+0021100606,192,5,4,2,6:55 PM,5:16,Wafer Traveling Turnover (P1.T3),,,,
+0021100606,193,2,1,2,6:55 PM,4:54,,,MISS George 26' 3PT Jump Shot,,
+0021100606,194,4,0,2,6:55 PM,4:53,Nelson REBOUND (Off:0 Def:2),,,,
+0021100606,195,2,5,2,6:56 PM,4:39,MISS Anderson 3' Layup,,Hibbert BLOCK (2 BLK),,
+0021100606,196,4,0,2,6:56 PM,4:36,,,Collison REBOUND (Off:0 Def:1),,
+0021100606,197,1,42,2,6:56 PM,4:34,,,Collison 2' Driving Layup (2 PTS),31 - 52,21
+0021100606,198,1,8,2,6:56 PM,4:10,Howard 2' Slam Dunk (13 PTS) (Nelson 1 AST),,,31 - 54,23
+0021100606,199,1,1,2,6:56 PM,3:50,,,Granger 14' Jump Shot (10 PTS),33 - 54,21
+0021100606,200,6,2,2,6:57 PM,3:38,,,Hibbert S.FOUL (P2.PN),,
+0021100606,201,3,11,2,6:57 PM,3:38,Howard Free Throw 1 of 2 (14 PTS),,,33 - 55,22
+0021100606,203,8,0,2,6:57 PM,3:38,SUB: Davis FOR Anderson,,,,
+0021100606,204,3,12,2,6:57 PM,3:38,Howard Free Throw 2 of 2 (15 PTS),,,33 - 56,23
+0021100606,206,2,3,2,6:58 PM,3:19,,,MISS Hansbrough 4' Hook Shot,,
+0021100606,207,4,0,2,6:58 PM,3:17,,,Granger REBOUND (Off:1 Def:0),,
+0021100606,208,1,3,2,6:58 PM,3:04,,,Hibbert 8' Hook Shot (6 PTS),35 - 56,21
+0021100606,209,2,1,2,6:59 PM,2:38,MISS Richardson 26' 3PT Jump Shot,,,,
+0021100606,210,4,0,2,6:59 PM,2:36,Howard REBOUND (Off:2 Def:3),,,,
+0021100606,211,5,2,2,6:59 PM,2:32,Howard Lost Ball Turnover (P1.T4),,George STEAL (2 STL),,
+0021100606,212,1,66,2,6:59 PM,2:27,,,George 10' Jump Bank Shot (13 PTS),37 - 56,19
+0021100606,213,5,1,2,6:59 PM,2:20,Davis Bad Pass Turnover (P2.T5),,Collison STEAL (1 STL),,
+0021100606,214,1,5,2,6:59 PM,2:19,,,Collison 3' Layup (4 PTS),39 - 56,17
+0021100606,215,9,1,2,6:59 PM,2:19,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0021100606,219,5,2,2,7:02 PM,1:59,Howard Lost Ball Turnover (P2.T6),,Collison STEAL (2 STL),,
+0021100606,220,6,2,2,7:02 PM,1:57,Nelson S.FOUL (P1.T1),,,,
+0021100606,221,3,11,2,7:02 PM,1:57,,,MISS Collison Free Throw 1 of 2,,
+0021100606,222,4,1,2,7:02 PM,1:57,,,Pacers Rebound,,
+0021100606,223,3,12,2,7:02 PM,1:57,,,MISS Collison Free Throw 2 of 2,,
+0021100606,225,4,0,2,7:02 PM,1:56,Richardson REBOUND (Off:0 Def:2),,,,
+0021100606,226,2,1,2,7:03 PM,1:44,MISS Nelson 18' Jump Shot,,,,
+0021100606,227,4,0,2,7:03 PM,1:42,,,Granger REBOUND (Off:1 Def:1),,
+0021100606,228,2,1,2,7:03 PM,1:24,,,MISS George 4' Jump Shot,,
+0021100606,229,4,0,2,7:03 PM,1:22,Wafer REBOUND (Off:0 Def:2),,,,
+0021100606,231,5,1,2,7:03 PM,1:07,Davis Bad Pass Turnover (P3.T7),,Hibbert STEAL (1 STL),,
+0021100606,232,1,42,2,7:04 PM,1:02,,,Granger 1' Driving Layup (12 PTS),41 - 56,15
+0021100606,233,10,0,2,7:04 PM,0:49,Jump Ball Nelson vs. Granger: Tip to Howard,,,,
+0021100606,234,2,1,2,7:05 PM,0:42,MISS Wafer 26' 3PT Jump Shot,,,,
+0021100606,235,4,0,2,7:05 PM,0:40,,,Granger REBOUND (Off:1 Def:2),,
+0021100606,236,6,2,2,7:05 PM,0:36,Nelson S.FOUL (P2.PN),,,,
+0021100606,237,3,11,2,7:05 PM,0:36,,,Collison Free Throw 1 of 2 (5 PTS),42 - 56,14
+0021100606,239,8,0,2,7:05 PM,0:36,SUB: Duhon FOR Nelson,,,,
+0021100606,240,3,12,2,7:05 PM,0:36,,,Collison Free Throw 2 of 2 (6 PTS),43 - 56,13
+0021100606,242,5,40,2,7:06 PM,0:18,Davis Out of Bounds Lost Ball Turnover (P4.T8),,,,
+0021100606,243,1,1,2,7:06 PM,0:02,,,Collison 18' Jump Shot (8 PTS),45 - 56,11
+0021100606,244,2,1,2,7:07 PM,0:00,MISS Wafer 46' 3PT Jump Shot,,,,
+0021100606,245,4,0,2,7:07 PM,0:00,MAGIC Rebound,,,,
+0021100606,247,13,0,2,7:07 PM,0:00,,,,45 - 56,11
+0021100606,250,12,0,3,7:24 PM,12:00,,,,45 - 56,11
+0021100606,251,5,1,3,7:24 PM,11:42,Anderson Bad Pass Turnover (P1.T9),,George STEAL (3 STL),,
+0021100606,252,6,1,3,7:24 PM,11:39,Anderson P.FOUL (P1.T1),,,,
+0021100606,253,1,1,3,7:25 PM,11:25,,,Granger 14' Jump Shot (14 PTS),47 - 56,9
+0021100606,254,1,1,3,7:25 PM,10:59,Anderson 25' 3PT Jump Shot (10 PTS) (Nelson 2 AST),,,47 - 59,12
+0021100606,255,5,1,3,7:25 PM,10:46,Nelson STEAL (2 STL),,Collison Bad Pass Turnover (P1.T7),,
+0021100606,256,1,7,3,7:26 PM,10:40,Richardson 2' Dunk (2 PTS) (Redick 6 AST),,,47 - 61,14
+0021100606,257,5,1,3,7:26 PM,10:26,Howard STEAL (2 STL),,Hibbert Bad Pass Turnover (P1.T8),,
+0021100606,258,2,1,3,7:26 PM,10:18,MISS Redick 26' 3PT Jump Shot,,,,
+0021100606,259,4,0,3,7:26 PM,10:14,,,Granger REBOUND (Off:1 Def:3),,
+0021100606,260,2,5,3,7:26 PM,10:10,Howard BLOCK (1 BLK),,MISS George 2' Layup,,
+0021100606,262,4,0,3,7:26 PM,10:07,,,George REBOUND (Off:2 Def:3),,
+0021100606,261,1,5,3,7:26 PM,10:07,,,George 1' Layup (15 PTS),49 - 61,12
+0021100606,263,2,5,3,7:26 PM,9:56,MISS Nelson 1' Layup,,,,
+0021100606,264,4,0,3,7:26 PM,9:53,,,George REBOUND (Off:2 Def:4),,
+0021100606,265,6,2,3,7:26 PM,9:44,Howard S.FOUL (P2.T2),,,,
+0021100606,266,3,11,3,7:27 PM,9:44,,,Granger Free Throw 1 of 2 (15 PTS),50 - 61,11
+0021100606,268,3,12,3,7:27 PM,9:44,,,Granger Free Throw 2 of 2 (16 PTS),51 - 61,10
+0021100606,271,1,44,3,7:27 PM,9:26,Howard 2' Reverse Layup (17 PTS),,,51 - 63,12
+0021100606,272,2,65,3,7:28 PM,9:12,,,MISS West 4' Jump Hook Shot,,
+0021100606,273,4,0,3,7:28 PM,9:10,Howard REBOUND (Off:2 Def:4),,,,
+0021100606,274,2,1,3,7:28 PM,9:03,MISS Anderson  3PT Jump Shot,,,,
+0021100606,275,4,0,3,7:28 PM,9:01,,,George REBOUND (Off:2 Def:5),,
+0021100606,276,1,46,3,7:28 PM,8:54,,,Granger 4' Running Jump Shot (18 PTS),53 - 63,10
+0021100606,277,1,1,3,7:28 PM,8:29,Richardson 25' 3PT Jump Shot (5 PTS) (Howard 5 AST),,,53 - 66,13
+0021100606,278,2,1,3,7:29 PM,8:11,,,MISS Granger 15' Jump Shot,,
+0021100606,279,4,0,3,7:29 PM,8:10,Nelson REBOUND (Off:0 Def:3),,,,
+0021100606,280,6,2,3,7:29 PM,8:05,,,Collison S.FOUL (P1.T1),,
+0021100606,281,3,13,3,7:29 PM,8:05,Richardson Free Throw 1 of 3 (6 PTS),,,53 - 67,14
+0021100606,283,3,14,3,7:29 PM,8:05,Richardson Free Throw 2 of 3 (7 PTS),,,53 - 68,15
+0021100606,285,3,15,3,7:29 PM,8:05,Richardson Free Throw 3 of 3 (8 PTS),,,53 - 69,16
+0021100606,287,2,3,3,7:30 PM,7:43,,,MISS West 4' Hook Shot,,
+0021100606,288,4,0,3,7:30 PM,7:42,Howard REBOUND (Off:2 Def:5),,,,
+0021100606,289,1,52,3,7:30 PM,7:34,Howard 1' Alley Oop Dunk (19 PTS) (Nelson 3 AST),,,53 - 71,18
+0021100606,290,1,79,3,7:31 PM,7:13,,,George 13' Pullup Jump Shot (17 PTS) (Granger 2 AST),55 - 71,16
+0021100606,291,1,57,3,7:31 PM,6:56,Howard 3' Driving Hook Shot (21 PTS),,,55 - 73,18
+0021100606,292,1,1,3,7:31 PM,6:46,,,George 4' Jump Shot (19 PTS) (Collison 4 AST),57 - 73,16
+0021100606,293,6,2,3,7:31 PM,6:46,Redick S.FOUL (P1.T3),,,,
+0021100606,294,3,10,3,7:31 PM,6:46,,,George Free Throw 1 of 1 (20 PTS),58 - 73,15
+0021100606,296,6,1,3,7:32 PM,6:34,,,George P.FOUL (P1.T2),,
+0021100606,297,1,1,3,7:32 PM,6:25,Anderson 20' Jump Shot (12 PTS) (Redick 7 AST),,,58 - 75,17
+0021100606,298,2,1,3,7:32 PM,6:03,,,MISS Granger 26' 3PT Jump Shot,,
+0021100606,299,4,0,3,7:32 PM,6:01,Howard REBOUND (Off:2 Def:6),,,,
+0021100606,300,1,1,3,7:33 PM,5:56,Redick 26' 3PT Jump Shot (15 PTS) (Nelson 4 AST),,,58 - 78,20
+0021100606,301,9,1,3,7:33 PM,5:49,,,Pacers Timeout: Regular (Reg.3 Short 0),,
+0021100606,304,8,0,3,7:35 PM,5:49,,,SUB: Hansbrough FOR West,,
+0021100606,305,1,1,3,7:36 PM,5:29,,,George 17' Jump Shot (22 PTS),60 - 78,18
+0021100606,306,6,1,3,7:36 PM,5:16,,,George P.FOUL (P2.T3),,
+0021100606,307,6,2,3,7:36 PM,5:06,,,Hibbert S.FOUL (P3.T4),,
+0021100606,308,3,11,3,7:36 PM,5:06,Howard Free Throw 1 of 2 (22 PTS),,,60 - 79,19
+0021100606,310,3,12,3,7:37 PM,5:06,Howard Free Throw 2 of 2 (23 PTS),,,60 - 80,20
+0021100606,339,2,40,3,7:37 PM,4:51,Nelson BLOCK (1 BLK),,MISS Hansbrough 1' Layup,,
+0021100606,332,4,1,3,7:37 PM,4:49,,,Hibbert REBOUND (Off:2 Def:0),,
+0021100606,312,1,5,3,7:37 PM,4:49,,,Hibbert 2' Layup (8 PTS),62 - 80,18
+0021100606,313,2,1,3,7:37 PM,4:37,MISS Richardson 26' 3PT Jump Shot,,,,
+0021100606,314,4,0,3,7:38 PM,4:33,,,Hibbert REBOUND (Off:2 Def:1),,
+0021100606,315,2,1,3,7:38 PM,4:25,,,MISS Hansbrough 16' Jump Shot,,
+0021100606,316,4,0,3,7:38 PM,4:24,Howard REBOUND (Off:2 Def:7),,,,
+0021100606,317,2,1,3,7:38 PM,4:16,MISS Anderson 27' 3PT Jump Shot,,,,
+0021100606,318,4,0,3,7:38 PM,4:16,MAGIC Rebound,,,,
+0021100606,319,6,3,3,7:38 PM,4:16,,,Granger L.B.FOUL (P1.PN),,
+0021100606,320,3,11,3,7:38 PM,4:16,Richardson Free Throw 1 of 2 (9 PTS),,,62 - 81,19
+0021100606,322,3,12,3,7:38 PM,4:16,Richardson Free Throw 2 of 2 (10 PTS),,,62 - 82,20
+0021100606,324,5,1,3,7:39 PM,3:58,Richardson STEAL (1 STL),,George Bad Pass Turnover (P1.T9),,
+0021100606,325,6,1,3,7:39 PM,3:44,,,Hansbrough P.FOUL (P2.PN),,
+0021100606,326,3,11,3,7:39 PM,3:44,Howard Free Throw 1 of 2 (24 PTS),,,62 - 83,21
+0021100606,328,8,0,3,7:40 PM,3:44,SUB: Davis FOR Anderson,,,,
+0021100606,329,8,0,3,7:40 PM,3:44,SUB: Clark FOR Richardson,,,,
+0021100606,330,3,12,3,7:40 PM,3:44,Howard Free Throw 2 of 2 (25 PTS),,,62 - 84,22
+0021100606,333,2,1,3,7:40 PM,3:26,,,MISS Granger 3' Jump Shot,,
+0021100606,334,4,0,3,7:40 PM,3:25,MAGIC Rebound,,,,
+0021100606,335,2,1,3,7:41 PM,3:09,MISS Clark 20' Jump Shot,,,,
+0021100606,336,4,0,3,7:41 PM,3:07,Howard REBOUND (Off:3 Def:7),,,,
+0021100606,337,2,1,3,7:41 PM,2:57,MISS Redick 29' 3PT Jump Shot,,,,
+0021100606,338,4,0,3,7:41 PM,2:56,,,Granger REBOUND (Off:1 Def:4),,
+0021100606,340,6,1,3,7:41 PM,2:51,Davis P.FOUL (P2.T4),,,,
+0021100606,341,9,1,3,7:41 PM,2:51,MAGIC Timeout: Regular (Full 3 Short 0),,,,
+0021100606,344,8,0,3,7:43 PM,2:51,SUB: Duhon FOR Nelson,,,,
+0021100606,345,8,0,3,7:44 PM,2:51,,,SUB: Price FOR Collison,,
+0021100606,346,1,1,3,7:44 PM,2:42,,,Hibbert 14' Jump Shot (10 PTS) (Price 1 AST),64 - 84,20
+0021100606,347,2,5,3,7:44 PM,2:26,MISS Clark 4' Layup,,,,
+0021100606,349,4,0,3,7:44 PM,2:23,Howard REBOUND (Off:4 Def:7),,,,
+0021100606,348,2,4,3,7:44 PM,2:23,MISS Howard 2' Tip Shot,,,,
+0021100606,351,4,0,3,7:44 PM,2:22,Howard REBOUND (Off:5 Def:7),,,,
+0021100606,350,1,4,3,7:44 PM,2:22,Howard 1' Tip Shot (27 PTS),,,64 - 86,22
+0021100606,352,5,1,3,7:44 PM,2:10,Howard STEAL (3 STL),,Price Bad Pass Turnover (P2.T10),,
+0021100606,353,6,2,3,7:45 PM,2:07,,,Granger S.FOUL (P2.PN),,
+0021100606,354,3,11,3,7:45 PM,2:07,Clark Free Throw 1 of 2 (3 PTS),,,64 - 87,23
+0021100606,356,3,12,3,7:45 PM,2:07,Clark Free Throw 2 of 2 (4 PTS),,,64 - 88,24
+0021100606,358,6,4,3,7:46 PM,1:49,,,Granger OFF.Foul (P3),,
+0021100606,359,5,5,3,7:46 PM,1:49,,,Granger Foul Turnover (P3.T11),,
+0021100606,360,6,1,3,7:46 PM,1:38,,,George P.FOUL (P3.PN),,
+0021100606,361,3,11,3,7:46 PM,1:38,MISS Howard Free Throw 1 of 2,,,,
+0021100606,362,4,1,3,7:46 PM,1:38,MAGIC Rebound,,,,
+0021100606,363,3,12,3,7:47 PM,1:38,Howard Free Throw 2 of 2 (28 PTS),,,64 - 89,25
+0021100606,365,5,1,3,7:47 PM,1:27,Howard STEAL (4 STL),,Granger Bad Pass Turnover (P4.T12),,
+0021100606,366,2,1,3,7:47 PM,1:22,MISS Duhon 25' 3PT Jump Shot,,,,
+0021100606,367,4,0,3,7:47 PM,1:19,,,George REBOUND (Off:2 Def:6),,
+0021100606,368,2,1,3,7:47 PM,1:12,,,MISS Granger 27' 3PT Jump Shot,,
+0021100606,369,4,0,3,7:47 PM,1:10,MAGIC Rebound,,,,
+0021100606,370,1,71,3,7:48 PM,0:56,Howard 3' Finger Roll Layup (30 PTS) (Redick 8 AST),,,64 - 91,27
+0021100606,371,2,1,3,7:48 PM,0:37,,,MISS Price 26' 3PT Jump Shot,,
+0021100606,372,4,0,3,7:48 PM,0:36,Duhon REBOUND (Off:0 Def:1),,,,
+0021100606,373,5,2,3,7:48 PM,0:20,Howard Lost Ball Turnover (P3.T10),,Hansbrough STEAL (1 STL),,
+0021100606,374,6,1,3,7:48 PM,0:20,Clark P.FOUL (P1.PN),,,,
+0021100606,375,3,11,3,7:49 PM,0:20,,,Hansbrough Free Throw 1 of 2 (5 PTS),65 - 91,26
+0021100606,377,3,12,3,7:49 PM,0:20,,,Hansbrough Free Throw 2 of 2 (6 PTS),66 - 91,25
+0021100606,379,2,1,3,7:49 PM,0:01,MISS Davis 5' Jump Shot,,,,
+0021100606,380,4,0,3,7:50 PM,0:00,,,Hansbrough REBOUND (Off:1 Def:3),,
+0021100606,381,13,0,3,7:50 PM,0:00,,,,66 - 91,25
+0021100606,383,12,0,4,7:53 PM,12:00,,,,66 - 91,25
+0021100606,384,6,2,4,7:53 PM,11:44,Davis S.FOUL (P3.T1),,,,
+0021100606,385,3,11,4,7:53 PM,11:44,,,MISS Amundson Free Throw 1 of 2,,
+0021100606,386,4,1,4,7:53 PM,11:44,,,Pacers Rebound,,
+0021100606,387,3,12,4,7:53 PM,11:44,,,Amundson Free Throw 2 of 2 (1 PTS),67 - 91,24
+0021100606,389,1,1,4,7:54 PM,11:28,Redick 27' 3PT Jump Shot (18 PTS),,,67 - 94,27
+0021100606,390,1,1,4,7:54 PM,11:15,,,Jones 20' Jump Shot (2 PTS) (George 1 AST),69 - 94,25
+0021100606,391,2,1,4,7:54 PM,10:57,MISS Clark 17' Jump Shot,,,,
+0021100606,392,4,0,4,7:54 PM,10:57,MAGIC Rebound,,,,
+0021100606,393,6,3,4,7:54 PM,10:57,,,Amundson L.B.FOUL (P2.T1),,
+0021100606,394,1,1,4,7:55 PM,10:43,Davis 17' Jump Shot (4 PTS) (Clark 2 AST),,,69 - 96,27
+0021100606,395,2,1,4,7:55 PM,10:22,,,MISS Price 26' 3PT Jump Shot,,
+0021100606,396,4,0,4,7:55 PM,10:19,Duhon REBOUND (Off:0 Def:2),,,,
+0021100606,397,6,1,4,7:56 PM,9:59,,,Amundson P.FOUL (P3.T2),,
+0021100606,398,6,1,4,7:56 PM,9:50,,,Amundson P.FOUL (P4.T3),,
+0021100606,399,2,1,4,7:57 PM,9:42,MISS Davis 27' 3PT Jump Shot,,,,
+0021100606,400,4,0,4,7:57 PM,9:42,,,Pacers Rebound,,
+0021100606,401,6,1,4,7:57 PM,9:42,Howard P.FOUL (P3.T2),,,,
+0021100606,402,6,16,4,7:57 PM,9:42,,,,,
+0021100606,403,1,1,4,7:58 PM,9:28,,,Price 14' Jump Shot (2 PTS),71 - 96,25
+0021100606,404,1,1,4,7:58 PM,9:15,Davis 19' Jump Shot (6 PTS) (Redick 9 AST),,,71 - 98,27
+0021100606,405,2,1,4,7:59 PM,8:57,,,MISS Jones 21' Jump Shot,,
+0021100606,406,4,0,4,7:59 PM,8:57,MAGIC Rebound,,,,
+0021100606,407,9,4,4,7:59 PM,8:57,,,,,
+0021100606,411,8,0,4,8:01 PM,8:57,,,SUB: Pendergraph FOR George,,
+0021100606,412,8,0,4,8:01 PM,8:57,,,SUB: Stephenson FOR Amundson,,
+0021100606,413,2,1,4,8:01 PM,8:42,MISS Redick 18' Jump Shot,,,,
+0021100606,414,4,0,4,8:01 PM,8:39,,,Price REBOUND (Off:0 Def:1),,
+0021100606,415,1,1,4,8:02 PM,8:29,,,Hansbrough 15' Jump Shot (8 PTS) (Price 2 AST),73 - 98,25
+0021100606,416,2,1,4,8:02 PM,8:08,MISS Davis 20' Jump Shot,,,,
+0021100606,417,4,0,4,8:02 PM,8:06,,,Pacers Rebound,,
+0021100606,418,8,0,4,8:02 PM,8:06,SUB: Wafer FOR Redick,,,,
+0021100606,419,2,78,4,8:02 PM,7:54,,,MISS Price 4' Floating Jump Shot,,
+0021100606,420,4,0,4,8:02 PM,7:52,,,Price REBOUND (Off:1 Def:1),,
+0021100606,421,2,1,4,8:02 PM,7:49,,,MISS Stephenson 26' 3PT Jump Shot,,
+0021100606,422,4,0,4,8:03 PM,7:46,Howard REBOUND (Off:5 Def:8),,,,
+0021100606,423,6,1,4,8:03 PM,7:34,,,Pendergraph P.FOUL (P1.T4),,
+0021100606,424,1,1,4,8:03 PM,7:20,Wafer 4' Jump Shot (4 PTS),,,73 - 100,27
+0021100606,425,1,8,4,8:04 PM,7:02,,,Pendergraph 2' Slam Dunk (2 PTS) (Stephenson 1 AST),75 - 100,25
+0021100606,426,1,1,4,8:04 PM,6:33,Davis 17' Jump Shot (8 PTS),,,75 - 102,27
+0021100606,428,8,0,4,8:05 PM,6:18,SUB: Anderson FOR Howard,,,,
+0021100606,429,2,1,4,8:05 PM,6:12,,,MISS Hansbrough 5' Jump Shot,,
+0021100606,430,4,0,4,8:05 PM,6:10,Wafer REBOUND (Off:0 Def:3),,,,
+0021100606,431,2,1,4,8:05 PM,5:59,MISS Wafer 18' Jump Shot,,,,
+0021100606,432,4,0,4,8:05 PM,5:57,Anderson REBOUND (Off:3 Def:3),,,,
+0021100606,433,2,1,4,8:05 PM,5:55,MISS Anderson 5' Jump Shot,,,,
+0021100606,434,4,0,4,8:05 PM,5:53,Clark REBOUND (Off:1 Def:2),,,,
+0021100606,435,1,1,4,8:05 PM,5:51,Clark 10' Jump Shot (6 PTS),,,75 - 104,29
+0021100606,436,2,42,4,8:05 PM,5:40,,,MISS Jones 3' Driving Layup,,
+0021100606,437,4,0,4,8:05 PM,5:37,Anderson REBOUND (Off:3 Def:4),,,,
+0021100606,438,2,1,4,8:06 PM,5:26,MISS Davis 22' Jump Shot,,,,
+0021100606,439,4,0,4,8:06 PM,5:26,,,Pacers Rebound,,
+0021100606,440,9,1,4,8:06 PM,5:26,MAGIC Timeout: Regular (Full 4 Short 0),,,,
+0021100606,442,8,0,4,8:08 PM,5:26,SUB: Liggins FOR Davis,,,,
+0021100606,444,1,42,4,8:08 PM,5:10,,,Hansbrough 3' Driving Layup (10 PTS),77 - 104,27
+0021100606,445,2,42,4,8:09 PM,4:53,MISS Wafer 3' Driving Layup,,,,
+0021100606,446,4,0,4,8:09 PM,4:51,,,Pendergraph REBOUND (Off:0 Def:1),,
+0021100606,447,6,2,4,8:09 PM,4:42,Clark S.FOUL (P2.T3),,,,
+0021100606,448,3,11,4,8:09 PM,4:42,,,Hansbrough Free Throw 1 of 2 (11 PTS),78 - 104,26
+0021100606,450,3,12,4,8:09 PM,4:42,,,Hansbrough Free Throw 2 of 2 (12 PTS),79 - 104,25
+0021100606,452,2,78,4,8:10 PM,4:23,MISS Liggins 6' Floating Jump Shot,,,,
+0021100606,453,4,0,4,8:10 PM,4:22,Anderson REBOUND (Off:4 Def:4),,,,
+0021100606,454,2,1,4,8:10 PM,4:14,MISS Liggins 26' 3PT Jump Shot,,,,
+0021100606,455,4,0,4,8:10 PM,4:13,,,Pendergraph REBOUND (Off:0 Def:2),,
+0021100606,456,2,3,4,8:10 PM,4:01,,,MISS Pendergraph 5' Hook Shot,,
+0021100606,457,4,0,4,8:10 PM,3:59,Anderson REBOUND (Off:4 Def:5),,,,
+0021100606,458,2,1,4,8:10 PM,3:43,MISS Wafer 21' Jump Shot,,,,
+0021100606,459,4,0,4,8:10 PM,3:42,,,Pendergraph REBOUND (Off:0 Def:3),,
+0021100606,460,1,5,4,8:11 PM,3:33,,,Hansbrough 2' Layup (14 PTS) (Stephenson 2 AST),81 - 104,23
+0021100606,461,6,2,4,8:11 PM,3:33,Anderson S.FOUL (P2.T4),,,,
+0021100606,462,8,0,4,8:11 PM,3:33,SUB: Orton FOR Anderson,,,,
+0021100606,463,3,10,4,8:11 PM,3:33,,,Hansbrough Free Throw 1 of 1 (15 PTS),82 - 104,22
+0021100606,465,6,1,4,8:11 PM,3:19,,,Hansbrough P.FOUL (P3.PN),,
+0021100606,466,3,11,4,8:12 PM,3:19,Wafer Free Throw 1 of 2 (5 PTS),,,82 - 105,23
+0021100606,468,8,0,4,8:12 PM,3:19,SUB: Smith FOR Duhon,,,,
+0021100606,469,3,12,4,8:12 PM,3:19,MISS Wafer Free Throw 2 of 2,,,,
+0021100606,471,4,0,4,8:12 PM,3:18,,,Jones REBOUND (Off:1 Def:1),,
+0021100606,472,1,1,4,8:12 PM,3:04,,,Hansbrough 15' Jump Shot (17 PTS) (Stephenson 3 AST),84 - 105,21
+0021100606,473,5,1,4,8:13 PM,2:49,Smith Bad Pass Turnover (P1.T11),,,,
+0021100606,475,9,1,4,8:13 PM,2:49,,,Pacers Timeout: Regular (Reg.4 Short 0),,
+0021100606,478,6,2,4,8:15 PM,2:37,Orton S.FOUL (P1.PN),,,,
+0021100606,479,3,11,4,8:16 PM,2:37,,,Hansbrough Free Throw 1 of 2 (18 PTS),85 - 105,20
+0021100606,481,3,12,4,8:16 PM,2:37,,,Hansbrough Free Throw 2 of 2 (19 PTS),86 - 105,19
+0021100606,483,1,8,4,8:16 PM,2:21,Orton 2' Slam Dunk (2 PTS) (Liggins 1 AST),,,86 - 107,21
+0021100606,484,1,49,4,8:16 PM,2:00,,,Jones  Driving Dunk (4 PTS),88 - 107,19
+0021100606,485,5,1,4,8:17 PM,1:44,Liggins Bad Pass Turnover (P1.T12),,,,
+0021100606,486,2,1,4,8:17 PM,1:29,,,MISS Stephenson 28' 3PT Jump Shot,,
+0021100606,487,4,0,4,8:17 PM,1:27,Liggins REBOUND (Off:0 Def:1),,,,
+0021100606,488,2,1,4,8:18 PM,1:06,MISS Orton 7' Jump Shot,,,,
+0021100606,489,4,0,4,8:18 PM,1:04,,,Jones REBOUND (Off:1 Def:2),,
+0021100606,491,7,2,4,8:18 PM,1:00,Orton Violation:Defensive Goaltending,,,,
+0021100606,490,1,5,4,8:18 PM,1:00,,,Jones 1' Layup (6 PTS),90 - 107,17
+0021100606,492,5,2,4,8:18 PM,0:36,Clark Lost Ball Turnover (P1.T13),,Hansbrough STEAL (2 STL),,
+0021100606,493,1,8,4,8:18 PM,0:33,,,Jones 2' Slam Dunk (8 PTS) (Hansbrough 2 AST),92 - 107,15
+0021100606,495,2,1,4,8:19 PM,0:08,MISS Liggins 26' 3PT Jump Shot,,,,
+0021100606,496,4,0,4,8:19 PM,0:07,,,Pendergraph REBOUND (Off:0 Def:4),,
+0021100606,497,2,42,4,8:19 PM,0:02,,,MISS Stephenson 3' Driving Layup,,
+0021100606,499,4,0,4,8:19 PM,0:02,,,Jones REBOUND (Off:2 Def:2),,
+0021100606,498,1,87,4,8:19 PM,0:02,,,Jones 2' Putback Dunk (10 PTS),94 - 107,13
+0021100606,500,13,0,4,8:20 PM,0:00,,,,94 - 107,13

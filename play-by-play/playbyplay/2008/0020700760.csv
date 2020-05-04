@@ -1,0 +1,465 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020700760,0,12,0,1,7:30 PM,12:00,,,,,
+0020700760,1,10,0,1,7:30 PM,12:00,Jump Ball Boone vs. Jefferson: Tip to Kidd,,,,
+0020700760,2,5,1,1,7:30 PM,11:47,Kidd Bad Pass Turnover (P1.T1),,,,
+0020700760,3,5,1,1,7:31 PM,11:35,,,Gomes Bad Pass Turnover (P1.T1),,
+0020700760,4,2,1,1,7:31 PM,11:19,MISS Carter 23' Jump Shot,,,,
+0020700760,5,4,0,1,7:31 PM,11:18,Kidd REBOUND (Off:1 Def:0),,,,
+0020700760,6,1,1,1,7:31 PM,11:11,Carter 14' Jump Shot (2 PTS) (Kidd 1 AST),,,0 - 2,2
+0020700760,7,1,1,1,7:32 PM,10:52,,,Gomes 16' Jump Shot (2 PTS) (Telfair 1 AST),2 - 2,TIE
+0020700760,8,1,1,1,7:32 PM,10:36,Kidd 12' Jump Shot (2 PTS) (Krstic 1 AST),,,2 - 4,2
+0020700760,9,2,1,1,7:32 PM,10:21,,,MISS Brewer 18' Jump Shot,,
+0020700760,10,4,0,1,7:32 PM,10:20,Krstic REBOUND (Off:0 Def:1),,,,
+0020700760,11,5,1,1,7:32 PM,10:16,Kidd Bad Pass Turnover (P2.T2),,,,
+0020700760,12,2,1,1,7:33 PM,10:03,,,MISS Jaric 24' Jump Shot,,
+0020700760,13,4,0,1,7:33 PM,10:01,Krstic REBOUND (Off:0 Def:2),,,,
+0020700760,14,1,1,1,7:33 PM,9:54,Kidd 22' Jump Shot (4 PTS),,,2 - 6,4
+0020700760,15,2,1,1,7:33 PM,9:30,,,MISS Jaric 22' Jump Shot,,
+0020700760,16,4,0,1,7:33 PM,9:28,Boone REBOUND (Off:0 Def:1),,,,
+0020700760,17,2,42,1,7:33 PM,9:21,MISS Krstic  Driving Layup,,Jefferson BLOCK (1 BLK),,
+0020700760,18,4,0,1,7:33 PM,9:19,,,Jefferson REBOUND (Off:0 Def:1),,
+0020700760,19,2,42,1,7:34 PM,9:00,,,MISS Gomes  Driving Layup,,
+0020700760,20,4,0,1,7:34 PM,8:59,Krstic REBOUND (Off:0 Def:3),,,,
+0020700760,21,2,1,1,7:34 PM,8:45,MISS Kidd 24' 3PT Jump Shot,,,,
+0020700760,22,4,0,1,7:34 PM,8:44,,,Jaric REBOUND (Off:0 Def:1),,
+0020700760,23,1,1,1,7:34 PM,8:35,,,Telfair 25' 3PT Jump Shot (3 PTS),5 - 6,1
+0020700760,24,5,1,1,7:34 PM,8:21,Kidd Bad Pass Turnover (P3.T3),,Jaric STEAL (1 STL),,
+0020700760,25,2,42,1,7:34 PM,8:10,,,MISS Jefferson  Driving Layup,,
+0020700760,26,4,0,1,7:34 PM,8:09,Kidd REBOUND (Off:1 Def:1),,,,
+0020700760,27,2,71,1,7:35 PM,8:03,MISS Kidd  Finger Roll Layup,,,,
+0020700760,28,4,0,1,7:35 PM,8:02,Kidd REBOUND (Off:2 Def:1),,,,
+0020700760,29,2,1,1,7:35 PM,7:56,MISS Carter 27' 3PT Jump Shot,,,,
+0020700760,30,4,0,1,7:35 PM,7:54,Boone REBOUND (Off:1 Def:1),,,,
+0020700760,31,2,1,1,7:35 PM,7:50,MISS Carter 11' Jump Shot,,,,
+0020700760,32,4,0,1,7:35 PM,7:46,Boone REBOUND (Off:2 Def:1),,,,
+0020700760,33,1,72,1,7:35 PM,7:44,Boone  Putback Layup (2 PTS),,,5 - 8,3
+0020700760,34,2,1,1,7:35 PM,7:35,,,MISS Telfair 18' Jump Shot,,
+0020700760,35,4,0,1,7:35 PM,7:34,Krstic REBOUND (Off:0 Def:4),,,,
+0020700760,36,2,1,1,7:35 PM,7:28,MISS Carter 14' Jump Shot,,,,
+0020700760,37,4,0,1,7:35 PM,7:27,,,Gomes REBOUND (Off:0 Def:1),,
+0020700760,38,6,2,1,7:35 PM,7:16,Kidd S.FOUL (P1.T1),,,,
+0020700760,39,3,11,1,7:36 PM,7:16,,,Jefferson Free Throw 1 of 2 (1 PTS),6 - 8,2
+0020700760,40,3,12,1,7:36 PM,7:16,,,Jefferson Free Throw 2 of 2 (2 PTS),7 - 8,1
+0020700760,41,2,46,1,7:36 PM,7:02,MISS Jefferson 11' Running Jump Shot,,,,
+0020700760,42,4,0,1,7:36 PM,7:01,,,Gomes REBOUND (Off:0 Def:2),,
+0020700760,43,2,42,1,7:37 PM,6:57,,,MISS Telfair  Driving Layup,,
+0020700760,44,4,0,1,7:37 PM,6:55,Krstic REBOUND (Off:0 Def:5),,,,
+0020700760,45,2,44,1,7:37 PM,6:43,MISS Boone  Reverse Layup,,,,
+0020700760,46,4,0,1,7:37 PM,6:42,,,Jaric REBOUND (Off:0 Def:2),,
+0020700760,47,6,2,1,7:37 PM,6:38,Carter S.FOUL (P1.T2),,,,
+0020700760,48,9,1,1,7:37 PM,6:38,NETS Timeout: Regular (Full 1 Short 0),,,,
+0020700760,50,3,11,1,7:40 PM,6:38,,,Brewer Free Throw 1 of 2 (1 PTS),8 - 8,TIE
+0020700760,51,3,12,1,7:40 PM,6:38,,,MISS Brewer Free Throw 2 of 2,,
+0020700760,52,4,0,1,7:40 PM,6:37,Jefferson REBOUND (Off:0 Def:1),,,,
+0020700760,53,1,1,1,7:40 PM,6:22,Krstic 17' Jump Shot (2 PTS) (Carter 1 AST),,,8 - 10,2
+0020700760,54,1,3,1,7:41 PM,5:59,,,Jefferson 11' Hook Shot (4 PTS) (Brewer 1 AST),10 - 10,TIE
+0020700760,55,1,1,1,7:41 PM,5:44,Krstic 18' Jump Shot (4 PTS) (Carter 2 AST),,,10 - 12,2
+0020700760,56,2,1,1,7:41 PM,5:25,,,MISS Telfair 12' Jump Shot,,
+0020700760,57,4,0,1,7:41 PM,5:24,Krstic REBOUND (Off:0 Def:6),,,,
+0020700760,58,5,1,1,7:42 PM,5:04,Krstic Bad Pass Turnover (P1.T4),,Gomes STEAL (1 STL),,
+0020700760,59,2,1,1,7:42 PM,4:56,,,MISS Gomes 20' Jump Shot,,
+0020700760,60,4,0,1,7:42 PM,4:55,Kidd REBOUND (Off:2 Def:2),,,,
+0020700760,61,2,3,1,7:42 PM,4:48,MISS Krstic 4' Hook Shot,,,,
+0020700760,62,4,0,1,7:42 PM,4:47,Boone REBOUND (Off:3 Def:1),,,,
+0020700760,63,2,5,1,7:42 PM,4:45,MISS Boone  Layup,,,,
+0020700760,64,4,0,1,7:42 PM,4:44,Boone REBOUND (Off:4 Def:1),,,,
+0020700760,65,2,5,1,7:42 PM,4:43,MISS Boone  Layup,,,,
+0020700760,66,4,0,1,7:42 PM,4:42,Carter REBOUND (Off:1 Def:0),,,,
+0020700760,67,2,1,1,7:42 PM,4:32,MISS Carter 19' Jump Shot,,,,
+0020700760,68,4,0,1,7:42 PM,4:31,,,Gomes REBOUND (Off:0 Def:3),,
+0020700760,69,2,1,1,7:43 PM,4:10,,,MISS Telfair  3PT Jump Shot,,
+0020700760,70,4,0,1,7:43 PM,4:09,Krstic REBOUND (Off:0 Def:7),,,,
+0020700760,71,5,1,1,7:43 PM,3:59,Carter Bad Pass Turnover (P1.T5),,Jaric STEAL (2 STL),,
+0020700760,72,1,1,1,7:43 PM,3:50,,,Telfair 19' Jump Shot (5 PTS) (Jaric 1 AST),12 - 12,TIE
+0020700760,73,1,1,1,7:43 PM,3:31,Krstic 22' Jump Shot (6 PTS) (Carter 3 AST),,,12 - 14,2
+0020700760,74,2,40,1,7:43 PM,3:21,Boone BLOCK (1 BLK),,MISS Jefferson  Layup,,
+0020700760,78,4,0,1,7:44 PM,3:20,Kidd REBOUND (Off:2 Def:3),,,,
+0020700760,75,2,1,1,7:44 PM,3:05,MISS Krstic 15' Jump Shot,,,,
+0020700760,76,4,0,1,7:44 PM,3:04,,,Telfair REBOUND (Off:0 Def:1),,
+0020700760,77,9,1,1,7:44 PM,3:01,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,
+0020700760,80,8,0,1,7:46 PM,3:01,SUB: Williams FOR Krstic,,,,
+0020700760,81,8,0,1,7:46 PM,3:01,SUB: Wright FOR Carter,,,,
+0020700760,84,8,0,1,7:46 PM,3:01,,,SUB: Smith FOR Gomes,,
+0020700760,85,8,0,1,7:46 PM,3:01,,,SUB: Foye FOR Telfair,,
+0020700760,86,5,2,1,7:47 PM,2:47,Wright STEAL (1 STL),,Brewer Lost Ball Turnover (P1.T2),,
+0020700760,87,1,1,1,7:47 PM,2:31,Jefferson 20' Jump Shot (2 PTS) (Wright 1 AST),,,12 - 16,4
+0020700760,88,6,2,1,7:47 PM,2:15,Williams S.FOUL (P1.T3),,,,
+0020700760,89,3,11,1,7:48 PM,2:15,,,MISS Smith Free Throw 1 of 2,,
+0020700760,90,4,1,1,7:48 PM,2:15,,,Timberwolves Rebound,,
+0020700760,91,8,0,1,7:48 PM,2:15,,,SUB: Green FOR Brewer,,
+0020700760,92,8,0,1,7:48 PM,2:15,SUB: Allen FOR Boone,,,,
+0020700760,93,3,12,1,7:48 PM,2:15,,,MISS Smith Free Throw 2 of 2,,
+0020700760,94,4,0,1,7:48 PM,2:14,Jefferson REBOUND (Off:0 Def:2),,,,
+0020700760,95,2,47,1,7:49 PM,1:51,MISS Allen 14' Turnaround Jump Shot,,,,
+0020700760,96,4,0,1,7:49 PM,1:50,,,Smith REBOUND (Off:0 Def:1),,
+0020700760,97,6,2,1,7:49 PM,1:37,Allen S.FOUL (P1.T4),,,,
+0020700760,98,3,11,1,7:49 PM,1:37,,,Green Free Throw 1 of 2 (1 PTS),13 - 16,3
+0020700760,99,8,0,1,7:49 PM,1:37,,,SUB: Walker FOR Jefferson,,
+0020700760,100,3,12,1,7:49 PM,1:37,,,Green Free Throw 2 of 2 (2 PTS),14 - 16,2
+0020700760,101,6,1,1,7:50 PM,1:27,,,Foye P.FOUL (P1.T1),,
+0020700760,102,5,4,1,7:50 PM,1:16,Jefferson Traveling Turnover (P1.T6),,,,
+0020700760,103,8,0,1,7:51 PM,1:16,SUB: Armstrong FOR Kidd,,,,
+0020700760,104,2,1,1,7:51 PM,1:08,Armstrong BLOCK (1 BLK),,MISS Foye 16' Jump Shot,,
+0020700760,105,4,0,1,7:51 PM,1:06,,,Jaric REBOUND (Off:1 Def:2),,
+0020700760,106,2,1,1,7:51 PM,1:01,,,MISS Jaric 20' Jump Shot,,
+0020700760,107,4,0,1,7:51 PM,0:59,Jefferson REBOUND (Off:0 Def:3),,,,
+0020700760,108,2,1,1,7:51 PM,0:38,MISS Jefferson 21' Jump Shot,,,,
+0020700760,109,4,0,1,7:51 PM,0:36,,,Walker REBOUND (Off:0 Def:1),,
+0020700760,110,2,1,1,7:52 PM,0:24,,,MISS Green 19' Jump Shot,,
+0020700760,111,4,0,1,7:52 PM,0:24,,,Smith REBOUND (Off:1 Def:1),,
+0020700760,112,1,42,1,7:52 PM,0:20,,,Jaric  Driving Layup (2 PTS),16 - 16,TIE
+0020700760,113,2,46,1,7:52 PM,0:02,MISS Allen 13' Running Jump Shot,,,,
+0020700760,114,4,0,1,7:52 PM,0:00,,,Walker REBOUND (Off:0 Def:2),,
+0020700760,115,13,0,1,7:52 PM,0:00,,,,16 - 16,TIE
+0020700760,117,12,0,2,7:55 PM,12:00,,,,16 - 16,TIE
+0020700760,118,2,1,2,7:55 PM,11:44,,,MISS Foye 22' Jump Shot,,
+0020700760,119,4,0,2,7:55 PM,11:43,Carter REBOUND (Off:1 Def:1),,,,
+0020700760,120,1,1,2,7:55 PM,11:30,Williams 6' Jump Shot (2 PTS) (Carter 4 AST),,,16 - 18,2
+0020700760,121,8,0,2,7:56 PM,11:20,,,SUB: Brewer FOR Jaric,,
+0020700760,122,5,7,2,7:56 PM,11:17,,,Foye Discontinue Dribble Turnover (P1.T3),,
+0020700760,123,5,2,2,7:56 PM,10:59,Williams Lost Ball Turnover (P1.T7),,Green STEAL (1 STL),,
+0020700760,124,5,1,2,7:56 PM,10:53,Allen STEAL (1 STL),,Green Bad Pass Turnover (P1.T4),,
+0020700760,125,2,1,2,7:56 PM,10:42,MISS Carter 19' Jump Shot,,,,
+0020700760,126,4,0,2,7:57 PM,10:41,,,Green REBOUND (Off:0 Def:1),,
+0020700760,127,1,1,2,7:57 PM,10:17,,,Brewer 20' Jump Shot (3 PTS) (Walker 1 AST),18 - 18,TIE
+0020700760,128,1,1,2,7:57 PM,9:54,Armstrong  3PT Jump Shot (3 PTS) (Wright 2 AST),,,18 - 21,3
+0020700760,129,1,1,2,7:58 PM,9:32,,,Walker 25' 3PT Jump Shot (3 PTS) (Green 1 AST),21 - 21,TIE
+0020700760,130,2,1,2,7:58 PM,9:14,MISS Wright 20' Jump Shot,,,,
+0020700760,131,4,0,2,7:58 PM,9:13,,,Foye REBOUND (Off:0 Def:1),,
+0020700760,132,2,1,2,7:58 PM,9:06,,,MISS Walker 25' 3PT Jump Shot,,
+0020700760,133,4,0,2,7:58 PM,9:04,Wright REBOUND (Off:0 Def:1),,,,
+0020700760,134,8,0,2,7:58 PM,9:04,SUB: Swift FOR Williams,,,,
+0020700760,135,1,7,2,7:59 PM,8:46,Swift  Dunk (2 PTS) (Wright 3 AST),,,21 - 23,2
+0020700760,136,6,2,2,7:59 PM,8:31,Allen S.FOUL (P2.T1),,,,
+0020700760,137,9,4,2,7:59 PM,8:31,,,,,
+0020700760,138,3,11,2,8:02 PM,8:31,,,MISS Foye Free Throw 1 of 2,,
+0020700760,139,4,1,2,8:02 PM,8:31,,,Timberwolves Rebound,,
+0020700760,140,3,12,2,8:02 PM,8:31,,,Foye Free Throw 2 of 2 (1 PTS),22 - 23,1
+0020700760,141,6,1,2,8:03 PM,8:17,,,Smith P.FOUL (P1.T1),,
+0020700760,142,5,11,2,8:03 PM,8:02,NETS Turnover: Shot Clock (T#8),,,,
+0020700760,143,1,1,2,8:04 PM,7:41,,,Walker 22' Jump Shot (5 PTS),24 - 23,-1
+0020700760,144,6,1,2,8:04 PM,7:30,,,Brewer P.FOUL (P1.T2),,
+0020700760,145,5,1,2,8:05 PM,7:19,Carter Bad Pass Turnover (P2.T9),,Smith STEAL (1 STL),,
+0020700760,146,6,1,2,8:05 PM,7:17,Armstrong P.FOUL (P1.T2),,,,
+0020700760,147,8,0,2,8:05 PM,7:17,SUB: Jefferson FOR Wright,,,,
+0020700760,148,2,1,2,8:05 PM,7:03,,,MISS Green 16' Jump Shot,,
+0020700760,149,4,0,2,8:05 PM,7:01,Jefferson REBOUND (Off:0 Def:4),,,,
+0020700760,150,1,1,2,8:06 PM,6:43,Jefferson 25' 3PT Jump Shot (5 PTS) (Armstrong 1 AST),,,24 - 26,2
+0020700760,151,2,1,2,8:06 PM,6:26,,,MISS Foye 26' 3PT Jump Shot,,
+0020700760,152,4,0,2,8:06 PM,6:25,Swift REBOUND (Off:0 Def:1),,,,
+0020700760,153,2,1,2,8:06 PM,6:01,MISS Jefferson 24' 3PT Jump Shot,,,,
+0020700760,154,4,0,2,8:06 PM,6:00,,,Foye REBOUND (Off:0 Def:2),,
+0020700760,155,1,5,2,8:07 PM,5:56,,,Green  Layup (4 PTS) (Foye 1 AST),26 - 26,TIE
+0020700760,156,9,1,2,8:07 PM,5:56,NETS Timeout: Regular (Full 2 Short 0),,,,
+0020700760,157,8,0,2,8:09 PM,5:56,SUB: Boone FOR Allen,,,,
+0020700760,158,8,0,2,8:09 PM,5:56,SUB: Kidd FOR Armstrong,,,,
+0020700760,159,8,0,2,8:09 PM,5:56,,,SUB: Telfair FOR Foye,,
+0020700760,161,8,0,2,8:09 PM,5:56,,,SUB: Jefferson FOR Smith,,
+0020700760,162,1,1,2,8:09 PM,5:33,Carter 20' Jump Shot (4 PTS) (Kidd 2 AST),,,26 - 28,2
+0020700760,163,2,1,2,8:10 PM,5:16,,,MISS Green 16' Jump Shot,,
+0020700760,164,4,0,2,8:10 PM,5:15,,,Jefferson REBOUND (Off:1 Def:1),,
+0020700760,165,1,3,2,8:10 PM,5:12,,,Jefferson 8' Hook Shot (6 PTS),28 - 28,TIE
+0020700760,166,2,1,2,8:10 PM,4:51,MISS Kidd 5' Jump Shot,,,,
+0020700760,167,4,0,2,8:10 PM,4:50,,,Green REBOUND (Off:0 Def:2),,
+0020700760,168,2,1,2,8:10 PM,4:41,,,MISS Walker 24' 3PT Jump Shot,,
+0020700760,169,4,0,2,8:10 PM,4:40,Carter REBOUND (Off:1 Def:2),,,,
+0020700760,170,1,71,2,8:10 PM,4:35,Boone  Finger Roll Layup (4 PTS) (Kidd 3 AST),,,28 - 30,2
+0020700760,171,6,2,2,8:10 PM,4:35,,,Walker S.FOUL (P1.T3),,
+0020700760,172,8,0,2,8:11 PM,4:35,,,SUB: Jaric FOR Green,,
+0020700760,173,3,10,2,8:11 PM,4:35,MISS Boone Free Throw 1 of 1,,,,
+0020700760,174,4,0,2,8:11 PM,4:33,Jefferson REBOUND (Off:1 Def:4),,,,
+0020700760,175,2,47,2,8:11 PM,4:29,MISS Jefferson 10' Turnaround Jump Shot,,,,
+0020700760,176,4,0,2,8:11 PM,4:28,Jefferson REBOUND (Off:2 Def:4),,,,
+0020700760,177,1,52,2,8:12 PM,4:10,Swift  Alley Oop Dunk (4 PTS) (Kidd 4 AST),,,28 - 32,4
+0020700760,178,6,1,2,8:12 PM,3:55,Boone P.FOUL (P1.T3),,,,
+0020700760,179,6,2,2,8:12 PM,3:47,Swift S.FOUL (P1.T4),,,,
+0020700760,180,3,11,2,8:13 PM,3:47,,,Walker Free Throw 1 of 2 (6 PTS),29 - 32,3
+0020700760,181,3,12,2,8:13 PM,3:47,,,Walker Free Throw 2 of 2 (7 PTS),30 - 32,2
+0020700760,182,6,1,2,8:13 PM,3:37,,,Telfair P.FOUL (P1.T4),,
+0020700760,183,2,1,2,8:14 PM,3:26,MISS Swift 21' Jump Shot,,,,
+0020700760,184,4,0,2,8:14 PM,3:25,,,Walker REBOUND (Off:0 Def:3),,
+0020700760,185,2,1,2,8:14 PM,3:20,,,MISS Walker  3PT Jump Shot,,
+0020700760,186,4,0,2,8:14 PM,3:18,Boone REBOUND (Off:4 Def:2),,,,
+0020700760,187,5,1,2,8:14 PM,3:11,Swift Bad Pass Turnover (P1.T10),,Brewer STEAL (1 STL),,
+0020700760,188,2,42,2,8:14 PM,3:07,Boone BLOCK (2 BLK),,MISS Brewer  Driving Layup,,
+0020700760,189,4,0,2,8:14 PM,3:07,,,Timberwolves Rebound,,
+0020700760,190,9,1,2,8:14 PM,3:07,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,
+0020700760,191,8,0,2,8:16 PM,3:07,,,SUB: Gomes FOR Walker,,
+0020700760,192,2,47,2,8:17 PM,3:00,,,MISS Jefferson 11' Turnaround Jump Shot,,
+0020700760,193,4,0,2,8:17 PM,2:59,Kidd REBOUND (Off:2 Def:4),,,,
+0020700760,194,1,75,2,8:17 PM,2:41,Carter  Driving Finger Roll Layup (6 PTS) (Jefferson 1 AST),,,30 - 34,4
+0020700760,195,5,11,2,8:18 PM,2:14,,,Timberwolves Turnover: Shot Clock (T#5),,
+0020700760,196,2,1,2,8:18 PM,2:01,MISS Jefferson 20' Jump Shot,,,,
+0020700760,197,4,0,2,8:18 PM,2:00,,,Brewer REBOUND (Off:0 Def:1),,
+0020700760,198,1,42,2,8:18 PM,1:50,,,Jaric  Driving Layup (4 PTS),32 - 34,2
+0020700760,199,5,2,2,8:19 PM,1:27,Boone Lost Ball Turnover (P1.T11),,Brewer STEAL (2 STL),,
+0020700760,200,5,40,2,8:19 PM,1:24,,,Brewer Out of Bounds Lost Ball Turnover (P2.T6),,
+0020700760,201,2,5,2,8:19 PM,1:15,MISS Swift  Layup,,,,
+0020700760,202,4,0,2,8:19 PM,1:14,Boone REBOUND (Off:5 Def:2),,,,
+0020700760,203,5,1,2,8:20 PM,1:07,Kidd Bad Pass Turnover (P4.T12),,,,
+0020700760,204,2,1,2,8:20 PM,0:49,,,MISS Jaric 18' Jump Shot,,
+0020700760,205,4,0,2,8:20 PM,0:48,Jefferson REBOUND (Off:2 Def:5),,,,
+0020700760,206,2,1,2,8:20 PM,0:34,MISS Carter 24' 3PT Jump Shot,,,,
+0020700760,207,4,0,2,8:20 PM,0:33,Carter REBOUND (Off:2 Def:2),,,,
+0020700760,208,6,2,2,8:20 PM,0:32,,,Gomes S.FOUL (P1.PN),,
+0020700760,209,3,11,2,8:21 PM,0:32,Carter Free Throw 1 of 2 (7 PTS),,,32 - 35,3
+0020700760,210,3,12,2,8:21 PM,0:32,Carter Free Throw 2 of 2 (8 PTS),,,32 - 36,4
+0020700760,211,1,1,2,8:21 PM,0:09,,,Telfair 25' 3PT Jump Shot (8 PTS) (Jaric 2 AST),35 - 36,1
+0020700760,212,9,2,2,8:22 PM,0:09,NETS Timeout: Short (Full 2 Short 1),,,,
+0020700760,213,8,0,2,8:22 PM,0:09,SUB: Allen FOR Boone,,,,
+0020700760,214,8,0,2,8:22 PM,0:09,,,SUB: Walker FOR Jefferson,,
+0020700760,215,6,1,2,8:23 PM,0:02,,,Jaric P.FOUL (P1.PN),,
+0020700760,216,3,11,2,8:23 PM,0:02,Carter Free Throw 1 of 2 (9 PTS),,,35 - 37,2
+0020700760,217,8,0,2,8:23 PM,0:02,SUB: Wright FOR Allen,,,,
+0020700760,218,9,2,2,8:24 PM,0:02,,,Timberwolves Timeout: Short (Reg.2 Short 1),,
+0020700760,219,3,12,2,8:24 PM,0:02,Carter Free Throw 2 of 2 (10 PTS),,,35 - 38,3
+0020700760,220,2,1,2,8:25 PM,0:00,,,MISS Telfair 28' 3PT Jump Shot,,
+0020700760,221,4,0,2,8:25 PM,0:00,,,Timberwolves Rebound,,
+0020700760,222,13,0,2,8:25 PM,0:00,,,,35 - 38,3
+0020700760,225,12,0,3,8:40 PM,12:00,,,,35 - 38,3
+0020700760,226,1,1,3,8:41 PM,11:44,,,Telfair 20' Jump Shot (10 PTS) (Gomes 1 AST),37 - 38,1
+0020700760,227,2,42,3,8:41 PM,11:24,MISS Carter  Driving Layup,,,,
+0020700760,228,4,0,3,8:41 PM,11:23,Krstic REBOUND (Off:1 Def:7),,,,
+0020700760,229,2,1,3,8:41 PM,11:21,MISS Kidd 16' Jump Shot,,,,
+0020700760,230,4,0,3,8:41 PM,11:19,,,Jefferson REBOUND (Off:1 Def:2),,
+0020700760,231,6,2,3,8:41 PM,11:17,Jefferson S.FOUL (P1.T1),,,,
+0020700760,232,3,11,3,8:41 PM,11:17,,,Jefferson Free Throw 1 of 2 (7 PTS),38 - 38,TIE
+0020700760,233,3,12,3,8:42 PM,11:17,,,Jefferson Free Throw 2 of 2 (8 PTS),39 - 38,-1
+0020700760,234,6,2,3,8:42 PM,11:01,,,Brewer S.FOUL (P2.T1),,
+0020700760,235,3,11,3,8:42 PM,11:01,Jefferson Free Throw 1 of 2 (6 PTS),,,39 - 39,TIE
+0020700760,236,3,12,3,8:43 PM,11:01,Jefferson Free Throw 2 of 2 (7 PTS),,,39 - 40,1
+0020700760,237,2,5,3,8:43 PM,10:46,,,MISS Jefferson  Layup,,
+0020700760,238,4,0,3,8:43 PM,10:45,Jefferson REBOUND (Off:2 Def:6),,,,
+0020700760,239,2,1,3,8:44 PM,10:23,MISS Carter 21' Jump Shot,,,,
+0020700760,240,4,0,3,8:44 PM,10:22,,,Telfair REBOUND (Off:0 Def:2),,
+0020700760,241,6,2,3,8:44 PM,10:17,Krstic S.FOUL (P1.T2),,,,
+0020700760,242,3,11,3,8:44 PM,10:17,,,MISS Gomes Free Throw 1 of 2,,
+0020700760,243,4,1,3,8:44 PM,10:17,,,Timberwolves Rebound,,
+0020700760,244,3,12,3,8:45 PM,10:17,,,Gomes Free Throw 2 of 2 (3 PTS),40 - 40,TIE
+0020700760,245,2,7,3,8:45 PM,10:04,MISS Boone  Dunk,,,,
+0020700760,246,4,0,3,8:45 PM,10:03,,,Timberwolves Rebound,,
+0020700760,247,2,5,3,8:46 PM,9:46,Boone BLOCK (3 BLK),,MISS Jefferson  Layup,,
+0020700760,248,4,0,3,8:46 PM,9:44,Boone REBOUND (Off:5 Def:3),,,,
+0020700760,249,2,1,3,8:46 PM,9:30,MISS Kidd 23' Jump Shot,,,,
+0020700760,250,4,0,3,8:46 PM,9:29,,,Brewer REBOUND (Off:0 Def:2),,
+0020700760,251,1,8,3,8:46 PM,9:25,,,Brewer  Slam Dunk (5 PTS) (Telfair 2 AST),42 - 40,-2
+0020700760,252,1,1,3,8:46 PM,9:06,Krstic 18' Jump Shot (8 PTS) (Carter 5 AST),,,42 - 42,TIE
+0020700760,253,2,1,3,8:47 PM,8:46,,,MISS Telfair 19' Jump Shot,,
+0020700760,254,4,0,3,8:47 PM,8:45,,,Brewer REBOUND (Off:1 Def:2),,
+0020700760,255,2,46,3,8:47 PM,8:33,,,MISS Gomes 7' Running Jump Shot,,
+0020700760,256,4,0,3,8:47 PM,8:33,Boone REBOUND (Off:5 Def:4),,,,
+0020700760,257,2,1,3,8:47 PM,8:18,MISS Krstic 18' Jump Shot,,,,
+0020700760,258,4,0,3,8:47 PM,8:17,,,Gomes REBOUND (Off:0 Def:4),,
+0020700760,259,2,1,3,8:47 PM,8:07,,,MISS Jefferson 6' Jump Shot,,
+0020700760,260,4,0,3,8:47 PM,8:06,Carter REBOUND (Off:2 Def:3),,,,
+0020700760,261,1,1,3,8:48 PM,7:57,Krstic 17' Jump Shot (10 PTS) (Carter 6 AST),,,42 - 44,2
+0020700760,262,2,1,3,8:48 PM,7:34,,,MISS Jefferson 15' Jump Shot,,
+0020700760,263,4,0,3,8:48 PM,7:33,Kidd REBOUND (Off:2 Def:5),,,,
+0020700760,264,2,1,3,8:48 PM,7:26,MISS Jefferson 16' Jump Shot,,,,
+0020700760,265,4,0,3,8:48 PM,7:25,,,Jefferson REBOUND (Off:1 Def:3),,
+0020700760,266,2,5,3,8:48 PM,7:15,,,MISS Brewer  Layup,,
+0020700760,267,4,0,3,8:48 PM,7:14,Kidd REBOUND (Off:2 Def:6),,,,
+0020700760,268,2,1,3,8:49 PM,6:59,MISS Carter 24' 3PT Jump Shot,,,,
+0020700760,269,4,0,3,8:49 PM,6:57,,,Brewer REBOUND (Off:1 Def:3),,
+0020700760,270,6,1,3,8:49 PM,6:53,Krstic P.FOUL (P2.T3),,,,
+0020700760,271,8,0,3,8:49 PM,6:53,SUB: Nachbar FOR Carter,,,,
+0020700760,272,8,0,3,8:49 PM,6:53,SUB: Wright FOR Jefferson,,,,
+0020700760,273,6,1,3,8:49 PM,6:50,Wright P.FOUL (P1.T4),,,,
+0020700760,274,8,0,3,8:50 PM,6:50,,,SUB: Foye FOR Brewer,,
+0020700760,275,2,1,3,8:50 PM,6:42,,,MISS Gomes 19' Jump Shot,,
+0020700760,276,4,0,3,8:50 PM,6:41,Kidd REBOUND (Off:2 Def:7),,,,
+0020700760,277,2,1,3,8:50 PM,6:33,MISS Wright 19' Jump Shot,,,,
+0020700760,278,4,0,3,8:50 PM,6:32,,,Jefferson REBOUND (Off:1 Def:4),,
+0020700760,279,2,42,3,8:50 PM,6:25,,,MISS Jaric  Driving Layup,,
+0020700760,280,4,0,3,8:50 PM,6:24,,,Gomes REBOUND (Off:1 Def:4),,
+0020700760,281,1,1,3,8:50 PM,6:17,,,Telfair 20' Jump Shot (12 PTS) (Gomes 2 AST),44 - 44,TIE
+0020700760,282,2,1,3,8:51 PM,5:59,MISS Nachbar 26' 3PT Jump Shot,,,,
+0020700760,283,4,0,3,8:51 PM,5:58,,,Foye REBOUND (Off:0 Def:3),,
+0020700760,284,2,1,3,8:51 PM,5:51,,,MISS Jaric 20' Jump Shot,,
+0020700760,285,4,0,3,8:51 PM,5:50,,,Jefferson REBOUND (Off:2 Def:4),,
+0020700760,286,6,1,3,8:51 PM,5:50,Wright P.FOUL (P2.PN),,,,
+0020700760,287,9,1,3,8:51 PM,5:50,NETS Timeout: Regular (Full 3 Short 1),,,,
+0020700760,289,8,0,3,8:53 PM,5:50,SUB: Williams FOR Krstic,,,,
+0020700760,290,3,11,3,8:54 PM,5:50,,,MISS Jefferson Free Throw 1 of 2,,
+0020700760,291,4,1,3,8:54 PM,5:50,,,Timberwolves Rebound,,
+0020700760,292,3,12,3,8:54 PM,5:50,,,Jefferson Free Throw 2 of 2 (9 PTS),45 - 44,-1
+0020700760,293,6,2,3,8:55 PM,5:34,,,Gomes S.FOUL (P2.T2),,
+0020700760,294,3,11,3,8:55 PM,5:34,Wright Free Throw 1 of 2 (1 PTS),,,45 - 45,TIE
+0020700760,295,3,12,3,8:55 PM,5:34,Wright Free Throw 2 of 2 (2 PTS),,,45 - 46,1
+0020700760,297,6,2,3,8:56 PM,5:21,Boone S.FOUL (P2.PN),,,,
+0020700760,298,3,11,3,8:56 PM,5:21,,,Jefferson Free Throw 1 of 2 (10 PTS),46 - 46,TIE
+0020700760,299,3,12,3,8:56 PM,5:21,,,MISS Jefferson Free Throw 2 of 2,,
+0020700760,300,4,0,3,8:56 PM,5:20,Boone REBOUND (Off:5 Def:5),,,,
+0020700760,301,6,1,3,8:57 PM,5:08,,,Jaric P.FOUL (P2.T3),,
+0020700760,302,1,3,3,8:57 PM,4:52,Boone 6' Hook Shot (6 PTS) (Kidd 5 AST),,,46 - 48,2
+0020700760,303,2,1,3,8:57 PM,4:35,,,MISS Gomes 17' Jump Shot,,
+0020700760,304,4,0,3,8:57 PM,4:34,Wright REBOUND (Off:0 Def:2),,,,
+0020700760,305,1,42,3,8:57 PM,4:31,Williams  Driving Layup (4 PTS) (Kidd 6 AST),,,46 - 50,4
+0020700760,306,6,2,3,8:57 PM,4:31,,,Gomes S.FOUL (P3.T4),,
+0020700760,307,8,0,3,8:58 PM,4:31,,,SUB: Walker FOR Gomes,,
+0020700760,308,3,10,3,8:58 PM,4:31,MISS Williams Free Throw 1 of 1,,,,
+0020700760,309,4,0,3,8:58 PM,4:30,,,Jaric REBOUND (Off:1 Def:3),,
+0020700760,310,1,1,3,8:59 PM,4:05,,,Jaric 21' Jump Shot (6 PTS) (Telfair 3 AST),48 - 50,2
+0020700760,311,1,42,3,8:59 PM,3:52,Nachbar  Driving Layup (2 PTS) (Kidd 7 AST),,,48 - 52,4
+0020700760,312,6,2,3,8:59 PM,3:52,,,Jefferson S.FOUL (P1.PN),,
+0020700760,313,3,10,3,8:59 PM,3:52,Nachbar Free Throw 1 of 1 (3 PTS),,,48 - 53,5
+0020700760,314,1,1,3,9:00 PM,3:30,,,Foye 25' 3PT Jump Shot (4 PTS) (Walker 2 AST),51 - 53,2
+0020700760,316,1,52,3,9:00 PM,3:19,Nachbar  Alley Oop Dunk (5 PTS) (Kidd 8 AST),,,51 - 55,4
+0020700760,317,6,2,3,9:00 PM,3:19,,,Jaric S.FOUL (P3.PN),,
+0020700760,318,3,10,3,9:00 PM,3:19,Nachbar Free Throw 1 of 1 (6 PTS),,,51 - 56,5
+0020700760,319,2,46,3,9:01 PM,3:00,,,MISS Walker 7' Running Jump Shot,,
+0020700760,320,4,0,3,9:01 PM,2:58,,,Jefferson REBOUND (Off:3 Def:4),,
+0020700760,321,2,4,3,9:01 PM,2:57,,,MISS Jefferson  Tip Shot,,
+0020700760,322,4,0,3,9:01 PM,2:56,Boone REBOUND (Off:5 Def:6),,,,
+0020700760,323,1,5,3,9:01 PM,2:39,Kidd  Layup (6 PTS) (Boone 1 AST),,,51 - 58,7
+0020700760,324,9,1,3,9:01 PM,2:33,,,Timberwolves Timeout: Regular (Reg.3 Short 1),,
+0020700760,325,8,0,3,9:04 PM,2:33,,,SUB: Green FOR Jaric,,
+0020700760,326,2,42,3,9:04 PM,2:12,Williams BLOCK (1 BLK),,MISS Walker  Driving Layup,,
+0020700760,327,4,0,3,9:04 PM,2:10,Nachbar REBOUND (Off:0 Def:1),,,,
+0020700760,328,1,7,3,9:04 PM,2:06,Wright  Dunk (4 PTS) (Boone 2 AST),,,51 - 60,9
+0020700760,329,6,2,3,9:05 PM,1:53,Wright S.FOUL (P3.PN),,,,
+0020700760,330,3,11,3,9:05 PM,1:53,,,Telfair Free Throw 1 of 2 (13 PTS),52 - 60,8
+0020700760,331,8,0,3,9:05 PM,1:53,,,SUB: Smith FOR Jefferson,,
+0020700760,332,3,12,3,9:05 PM,1:53,,,Telfair Free Throw 2 of 2 (14 PTS),53 - 60,7
+0020700760,333,1,43,3,9:06 PM,1:42,Williams  Alley Oop Layup (6 PTS) (Nachbar 1 AST),,,53 - 62,9
+0020700760,334,1,1,3,9:06 PM,1:30,,,Telfair 21' Jump Shot (16 PTS),55 - 62,7
+0020700760,335,6,1,3,9:06 PM,1:20,,,Green P.FOUL (P1.PN),,
+0020700760,336,8,0,3,9:06 PM,1:20,SUB: Jefferson FOR Boone,,,,
+0020700760,337,3,11,3,9:06 PM,1:20,Nachbar Free Throw 1 of 2 (7 PTS),,,55 - 63,8
+0020700760,338,3,12,3,9:07 PM,1:20,Nachbar Free Throw 2 of 2 (8 PTS),,,55 - 64,9
+0020700760,339,2,1,3,9:07 PM,1:06,,,MISS Green 18' Jump Shot,,
+0020700760,340,4,0,3,9:07 PM,1:05,,,Timberwolves Rebound,,
+0020700760,341,2,5,3,9:08 PM,0:52,,,MISS Walker  Layup,,
+0020700760,342,4,0,3,9:08 PM,0:51,Kidd REBOUND (Off:2 Def:8),,,,
+0020700760,343,2,1,3,9:08 PM,0:42,MISS Kidd 26' 3PT Jump Shot,,,,
+0020700760,344,4,0,3,9:08 PM,0:41,,,Foye REBOUND (Off:0 Def:4),,
+0020700760,345,6,1,3,9:08 PM,0:33,Williams P.FOUL (P2.PN),,,,
+0020700760,346,3,11,3,9:08 PM,0:33,,,Smith Free Throw 1 of 2 (1 PTS),56 - 64,8
+0020700760,347,3,12,3,9:09 PM,0:33,,,MISS Smith Free Throw 2 of 2,,
+0020700760,348,4,0,3,9:09 PM,0:30,Nachbar REBOUND (Off:0 Def:2),,,,
+0020700760,349,6,1,3,9:09 PM,0:30,,,Green P.FOUL (P2.PN),,
+0020700760,350,3,11,3,9:09 PM,0:30,Nachbar Free Throw 1 of 2 (9 PTS),,,56 - 65,9
+0020700760,351,3,12,3,9:10 PM,0:30,Nachbar Free Throw 2 of 2 (10 PTS),,,56 - 66,10
+0020700760,352,5,2,3,9:10 PM,0:09,Jefferson STEAL (1 STL),,Telfair Lost Ball Turnover (P1.T7),,
+0020700760,353,2,42,3,9:10 PM,0:04,MISS Kidd  Driving Layup,,,,
+0020700760,354,4,0,3,9:10 PM,0:03,Wright REBOUND (Off:1 Def:2),,,,
+0020700760,355,2,5,3,9:10 PM,0:02,MISS Wright  Layup,,,,
+0020700760,356,4,0,3,9:10 PM,0:01,,,Foye REBOUND (Off:0 Def:5),,
+0020700760,357,2,1,3,9:11 PM,0:00,,,MISS Telfair 47' 3PT Jump Shot,,
+0020700760,358,4,0,3,9:11 PM,0:00,,,Timberwolves Rebound,,
+0020700760,359,13,0,3,9:11 PM,0:00,,,,56 - 66,10
+0020700760,361,12,0,4,9:13 PM,12:00,,,,56 - 66,10
+0020700760,362,1,49,4,9:13 PM,11:45,Carter  Driving Dunk (12 PTS),,,56 - 68,12
+0020700760,363,5,1,4,9:14 PM,11:22,,,Foye Bad Pass Turnover (P2.T8),,
+0020700760,364,8,0,4,9:14 PM,11:22,,,SUB: Jaric FOR Telfair,,
+0020700760,365,2,1,4,9:14 PM,11:09,MISS Armstrong 24' 3PT Jump Shot,,,,
+0020700760,366,4,0,4,9:14 PM,11:08,,,Green REBOUND (Off:0 Def:3),,
+0020700760,369,6,1,4,9:15 PM,10:59,Jefferson P.FOUL (P2.T1),,,,
+0020700760,370,2,1,4,9:15 PM,10:41,,,MISS Walker 25' 3PT Jump Shot,,
+0020700760,371,4,0,4,9:15 PM,10:39,,,Green REBOUND (Off:1 Def:3),,
+0020700760,372,1,42,4,9:15 PM,10:31,,,Walker  Driving Layup (9 PTS) (Foye 2 AST),58 - 68,10
+0020700760,373,6,2,4,9:15 PM,10:31,Nachbar S.FOUL (P1.T2),,,,
+0020700760,374,3,10,4,9:16 PM,10:31,,,Walker Free Throw 1 of 1 (10 PTS),59 - 68,9
+0020700760,375,6,1,4,9:16 PM,10:18,,,Jaric P.FOUL (P4.T1),,
+0020700760,376,1,42,4,9:16 PM,10:10,Nachbar  Driving Layup (12 PTS) (Carter 7 AST),,,59 - 70,11
+0020700760,377,2,42,4,9:17 PM,9:51,Williams BLOCK (2 BLK),,MISS Foye  Driving Layup,,
+0020700760,378,4,0,4,9:17 PM,9:51,,,Timberwolves Rebound,,
+0020700760,379,8,0,4,9:17 PM,9:51,,,SUB: Brewer FOR Green,,
+0020700760,380,2,1,4,9:17 PM,9:46,,,MISS Foye 16' Jump Shot,,
+0020700760,381,4,0,4,9:17 PM,9:45,,,Walker REBOUND (Off:1 Def:3),,
+0020700760,382,1,72,4,9:17 PM,9:44,,,Walker  Putback Layup (12 PTS),61 - 70,9
+0020700760,383,2,1,4,9:17 PM,9:27,MISS Jefferson 24' 3PT Jump Shot,,,,
+0020700760,384,4,0,4,9:18 PM,9:26,Armstrong REBOUND (Off:1 Def:0),,,,
+0020700760,385,6,1,4,9:18 PM,9:14,,,Brewer P.FOUL (P3.T2),,
+0020700760,386,2,1,4,9:18 PM,9:07,MISS Nachbar  3PT Jump Shot,,,,
+0020700760,387,4,0,4,9:18 PM,9:06,,,Timberwolves Rebound,,
+0020700760,388,1,1,4,9:19 PM,8:53,,,Brewer 19' Jump Shot (7 PTS) (Walker 3 AST),63 - 70,7
+0020700760,389,9,1,4,9:19 PM,8:46,NETS Timeout: Regular (Full 4 Short 1),,,,
+0020700760,391,2,1,4,9:21 PM,8:26,MISS Nachbar 24' 3PT Jump Shot,,,,
+0020700760,392,4,0,4,9:21 PM,8:25,,,Walker REBOUND (Off:1 Def:4),,
+0020700760,393,2,1,4,9:22 PM,8:05,,,MISS Brewer 19' Jump Shot,,
+0020700760,394,4,0,4,9:22 PM,8:04,,,Smith REBOUND (Off:2 Def:1),,
+0020700760,395,1,72,4,9:22 PM,8:03,,,Smith  Putback Layup (3 PTS),65 - 70,5
+0020700760,396,2,1,4,9:22 PM,7:42,MISS Armstrong  3PT Jump Shot,,,,
+0020700760,397,4,0,4,9:22 PM,7:41,Jefferson REBOUND (Off:3 Def:6),,,,
+0020700760,398,2,1,4,9:22 PM,7:32,MISS Armstrong 25' 3PT Jump Shot,,,,
+0020700760,399,4,0,4,9:22 PM,7:31,,,Brewer REBOUND (Off:1 Def:4),,
+0020700760,400,5,2,4,9:22 PM,7:25,Carter STEAL (1 STL),,Foye Lost Ball Turnover (P3.T9),,
+0020700760,401,1,8,4,9:23 PM,7:22,Carter  Slam Dunk (14 PTS),,,65 - 72,7
+0020700760,402,2,1,4,9:23 PM,7:05,Nachbar BLOCK (1 BLK),,MISS Walker 6' Jump Shot,,
+0020700760,403,4,0,4,9:23 PM,7:03,Jefferson REBOUND (Off:3 Def:7),,,,
+0020700760,404,2,1,4,9:23 PM,6:54,MISS Jefferson 25' 3PT Jump Shot,,,,
+0020700760,405,4,0,4,9:23 PM,6:53,Jefferson REBOUND (Off:4 Def:7),,,,
+0020700760,406,1,52,4,9:23 PM,6:48,Williams  Alley Oop Dunk (8 PTS) (Jefferson 2 AST),,,65 - 74,9
+0020700760,407,9,1,4,9:23 PM,6:43,,,Timberwolves Timeout: Regular (Reg.4 Short 1),,
+0020700760,408,8,0,4,9:25 PM,6:43,SUB: Kidd FOR Armstrong,,,,
+0020700760,409,8,0,4,9:25 PM,6:43,SUB: Boone FOR Williams,,,,
+0020700760,410,8,0,4,9:25 PM,6:43,SUB: Wright FOR Nachbar,,,,
+0020700760,411,8,0,4,9:26 PM,6:43,,,SUB: Telfair FOR Foye,,
+0020700760,412,8,0,4,9:26 PM,6:43,,,SUB: Gomes FOR Smith,,
+0020700760,413,8,0,4,9:26 PM,6:43,,,SUB: Jefferson FOR Walker,,
+0020700760,414,1,1,4,9:26 PM,6:22,,,Gomes 18' Jump Shot (5 PTS) (Jaric 3 AST),67 - 74,7
+0020700760,415,2,1,4,9:26 PM,6:04,MISS Carter 20' Jump Shot,,,,
+0020700760,416,4,0,4,9:26 PM,6:03,,,Jefferson REBOUND (Off:3 Def:5),,
+0020700760,417,2,42,4,9:27 PM,5:57,,,MISS Telfair  Driving Layup,,
+0020700760,418,4,0,4,9:27 PM,5:55,,,Jefferson REBOUND (Off:4 Def:5),,
+0020700760,419,1,4,4,9:27 PM,5:54,,,Jefferson  Tip Shot (12 PTS),69 - 74,5
+0020700760,420,1,1,4,9:27 PM,5:31,Wright 17' Jump Shot (6 PTS) (Carter 8 AST),,,69 - 76,7
+0020700760,421,1,5,4,9:27 PM,5:11,,,Jefferson  Layup (14 PTS),71 - 76,5
+0020700760,422,6,1,4,9:28 PM,4:57,,,Jaric P.FOUL (P5.T3),,
+0020700760,423,2,46,4,9:28 PM,4:43,MISS Kidd 11' Running Jump Shot,,,,
+0020700760,424,4,0,4,9:28 PM,4:42,,,Jaric REBOUND (Off:1 Def:4),,
+0020700760,425,6,1,4,9:28 PM,4:32,Boone P.FOUL (P3.T3),,,,
+0020700760,426,5,2,4,9:29 PM,4:19,Carter STEAL (2 STL),,Jaric Lost Ball Turnover (P1.T10),,
+0020700760,429,7,2,4,9:29 PM,4:14,,,Jefferson Violation:Defensive Goaltending,,
+0020700760,427,1,44,4,9:29 PM,4:14,Jefferson  Reverse Layup (9 PTS) (Wright 4 AST),,,71 - 78,7
+0020700760,430,2,1,4,9:29 PM,3:59,Boone BLOCK (4 BLK),,MISS Jefferson 5' Jump Shot,,
+0020700760,431,4,0,4,9:29 PM,3:58,,,Jefferson REBOUND (Off:5 Def:5),,
+0020700760,432,2,1,4,9:29 PM,3:55,,,MISS Jefferson 10' Jump Shot,,
+0020700760,433,4,0,4,9:29 PM,3:51,,,Telfair REBOUND (Off:1 Def:2),,
+0020700760,434,1,1,4,9:30 PM,3:43,,,Gomes 18' Jump Shot (7 PTS) (Telfair 4 AST),73 - 78,5
+0020700760,435,1,1,4,9:30 PM,3:24,Carter 18' Jump Shot (16 PTS),,,73 - 80,7
+0020700760,436,5,1,4,9:30 PM,3:03,Carter STEAL (3 STL),,Gomes Bad Pass Turnover (P2.T11),,
+0020700760,437,6,2,4,9:31 PM,3:00,,,Telfair S.FOUL (P2.T4),,
+0020700760,438,3,11,4,9:31 PM,3:00,Jefferson Free Throw 1 of 2 (10 PTS),,,73 - 81,8
+0020700760,439,3,12,4,9:31 PM,3:00,Jefferson Free Throw 2 of 2 (11 PTS),,,73 - 82,9
+0020700760,440,1,1,4,9:32 PM,2:41,,,Gomes 7' Jump Shot (9 PTS) (Telfair 5 AST),75 - 82,7
+0020700760,441,5,1,4,9:32 PM,2:29,Carter Bad Pass Turnover (P3.T13),,Brewer STEAL (3 STL),,
+0020700760,442,1,42,4,9:32 PM,2:25,,,Telfair  Driving Layup (18 PTS) (Brewer 2 AST),77 - 82,5
+0020700760,443,6,2,4,9:32 PM,2:25,Carter S.FOUL (P2.T4),,,,
+0020700760,444,9,4,4,9:32 PM,2:25,,,,,
+0020700760,446,3,10,4,9:35 PM,2:25,,,Telfair Free Throw 1 of 1 (19 PTS),78 - 82,4
+0020700760,447,1,1,4,9:35 PM,2:02,Kidd 24' 3PT Jump Shot (9 PTS) (Carter 9 AST),,,78 - 85,7
+0020700760,448,6,2,4,9:36 PM,1:50,Carter S.FOUL (P3.PN),,,,
+0020700760,449,8,0,4,9:36 PM,1:50,SUB: Nachbar FOR Wright,,,,
+0020700760,450,3,11,4,9:36 PM,1:50,,,Telfair Free Throw 1 of 2 (20 PTS),79 - 85,6
+0020700760,451,3,12,4,9:36 PM,1:50,,,Telfair Free Throw 2 of 2 (21 PTS),80 - 85,5
+0020700760,452,6,2,4,9:37 PM,1:38,,,Gomes S.FOUL (P4.PN),,
+0020700760,453,3,11,4,9:37 PM,1:38,Jefferson Free Throw 1 of 2 (12 PTS),,,80 - 86,6
+0020700760,454,3,12,4,9:37 PM,1:38,Jefferson Free Throw 2 of 2 (13 PTS),,,80 - 87,7
+0020700760,455,2,1,4,9:37 PM,1:29,,,MISS Jefferson 18' Jump Shot,,
+0020700760,456,4,0,4,9:37 PM,1:28,Jefferson REBOUND (Off:4 Def:8),,,,
+0020700760,457,1,1,4,9:38 PM,1:11,Nachbar 21' Jump Shot (14 PTS) (Carter 10 AST),,,80 - 89,9
+0020700760,458,9,1,4,9:38 PM,1:08,,,Timberwolves Timeout: Regular (Reg.5 Short 1),,
+0020700760,461,1,3,4,9:40 PM,1:02,,,Jefferson 8' Hook Shot (16 PTS) (Telfair 6 AST),82 - 89,7
+0020700760,462,9,1,4,9:40 PM,0:48,NETS Timeout: Regular (Full 5 Short 1),,,,
+0020700760,463,8,0,4,9:42 PM,0:48,,,SUB: Walker FOR Jefferson,,
+0020700760,464,1,52,4,9:42 PM,0:39,Boone  Alley Oop Dunk (8 PTS) (Kidd 9 AST),,,82 - 91,9
+0020700760,465,9,2,4,9:42 PM,0:39,,,Timberwolves Timeout: Short (Reg.5 Short 2),,
+0020700760,466,8,0,4,9:43 PM,0:39,,,SUB: Jefferson FOR Brewer,,
+0020700760,467,2,1,4,9:43 PM,0:32,,,MISS Telfair 21' Jump Shot,,
+0020700760,468,4,0,4,9:44 PM,0:31,,,Timberwolves Rebound,,
+0020700760,469,1,1,4,9:44 PM,0:29,,,Telfair  3PT Jump Shot (24 PTS) (Gomes 3 AST),85 - 91,6
+0020700760,470,6,1,4,9:44 PM,0:29,,,Jaric P.FOUL (P6.PN),,
+0020700760,471,8,0,4,9:44 PM,0:29,,,SUB: Foye FOR Jaric,,
+0020700760,472,3,11,4,9:45 PM,0:29,Carter Free Throw 1 of 2 (17 PTS),,,85 - 92,7
+0020700760,473,3,12,4,9:45 PM,0:29,MISS Carter Free Throw 2 of 2,,,,
+0020700760,474,4,0,4,9:45 PM,0:29,,,Jefferson REBOUND (Off:5 Def:6),,
+0020700760,475,9,2,4,9:45 PM,0:29,,,Timberwolves Timeout: Short (Reg.5 Short 3),,
+0020700760,476,2,1,4,9:46 PM,0:23,,,MISS Jefferson 13' Jump Shot,,
+0020700760,477,4,0,4,9:46 PM,0:23,,,Timberwolves Rebound,,
+0020700760,478,2,3,4,9:46 PM,0:19,,,MISS Jefferson 7' Hook Shot,,
+0020700760,479,4,0,4,9:46 PM,0:18,Carter REBOUND (Off:2 Def:4),,,,
+0020700760,480,5,40,4,9:47 PM,0:05,Jefferson Out of Bounds Lost Ball Turnover (P2.T14),,,,
+0020700760,481,1,1,4,9:47 PM,0:01,,,Foye 25' 3PT Jump Shot (7 PTS) (Telfair 7 AST),88 - 92,4
+0020700760,482,13,0,4,9:47 PM,0:00,,,,88 - 92,4

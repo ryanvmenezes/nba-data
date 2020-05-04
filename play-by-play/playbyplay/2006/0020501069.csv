@@ -1,0 +1,437 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020501069,0,12,0,1,7:14 PM,12:00,,,,,
+0020501069,1,10,0,1,7:14 PM,12:00,Jump Ball Howard vs. Diop: Tip to Nelson,,,,
+0020501069,2,1,5,1,7:15 PM,11:42,Howard  Layup (2 PTS),,,0 - 2,2
+0020501069,3,2,1,1,7:15 PM,11:23,,,MISS Howard 3' Jump Shot,,
+0020501069,4,4,0,1,7:15 PM,11:21,Turkoglu REBOUND (Off:0 Def:1),,,,
+0020501069,5,2,5,1,7:15 PM,11:12,MISS Turkoglu  Layup,,Diop BLOCK (1 BLK),,
+0020501069,6,4,0,1,7:16 PM,11:12,MAGIC Rebound,,,,
+0020501069,7,1,3,1,7:16 PM,11:07,Howard 7' Hook Shot (4 PTS),,,0 - 4,4
+0020501069,8,2,1,1,7:16 PM,10:44,,,MISS Nowitzki 16' Jump Shot,,
+0020501069,9,4,0,1,7:16 PM,10:43,Turkoglu REBOUND (Off:0 Def:2),,,,
+0020501069,10,1,1,1,7:16 PM,10:24,Turkoglu 21' Jump Shot (2 PTS),,,0 - 6,6
+0020501069,11,1,1,1,7:17 PM,10:01,,,Nowitzki 8' Jump Shot (2 PTS),2 - 6,4
+0020501069,12,2,47,1,7:17 PM,9:46,MISS Battie 9' Turnaround Jump Shot,,,,
+0020501069,13,4,0,1,7:17 PM,9:44,,,Howard REBOUND (Off:0 Def:1),,
+0020501069,14,6,2,1,7:17 PM,9:40,Battie S.FOUL (P1.T1),,,,
+0020501069,15,3,11,1,7:17 PM,9:40,,,Howard Free Throw 1 of 2 (1 PTS),3 - 6,3
+0020501069,16,3,12,1,7:18 PM,9:40,,,Howard Free Throw 2 of 2 (2 PTS),4 - 6,2
+0020501069,17,1,5,1,7:18 PM,9:21,Turkoglu  Layup (4 PTS),,,4 - 8,4
+0020501069,18,2,1,1,7:19 PM,9:01,,,MISS Stackhouse 19' Jump Shot,,
+0020501069,19,4,0,1,7:19 PM,8:59,,,Nowitzki REBOUND (Off:1 Def:0),,
+0020501069,20,1,1,1,7:19 PM,8:57,,,Nowitzki 8' Jump Shot (4 PTS),6 - 8,2
+0020501069,21,1,1,1,7:19 PM,8:41,Nelson  3PT Jump Shot (3 PTS) (Howard 1 AST),,,6 - 11,5
+0020501069,22,9,1,1,7:19 PM,8:34,,,Mavericks Timeout: Regular (Reg.1 Short 0),,
+0020501069,24,1,49,1,7:22 PM,8:25,,,Stackhouse  Driving Dunk (2 PTS),8 - 11,3
+0020501069,25,1,5,1,7:22 PM,8:08,Howard  Layup (6 PTS) (Nelson 1 AST),,,8 - 13,5
+0020501069,26,1,5,1,7:22 PM,7:52,,,Stackhouse  Layup (4 PTS) (Howard 1 AST),10 - 13,3
+0020501069,27,5,1,1,7:22 PM,7:47,Howard Bad Pass Turnover (P1.T1),,Terry STEAL (1 STL),,
+0020501069,28,5,13,1,7:23 PM,7:46,,,Terry Backcourt Turnover (P1.T1),,
+0020501069,29,5,1,1,7:23 PM,7:33,Turkoglu Bad Pass Turnover (P1.T2),,Diop STEAL (1 STL),,
+0020501069,30,1,5,1,7:23 PM,7:24,,,Nowitzki  Layup (6 PTS),12 - 13,1
+0020501069,31,6,2,1,7:23 PM,7:14,,,Howard S.FOUL (P1.T1),,
+0020501069,32,3,11,1,7:24 PM,7:14,Turkoglu Free Throw 1 of 2 (5 PTS),,,12 - 14,2
+0020501069,33,3,12,1,7:24 PM,7:14,Turkoglu Free Throw 2 of 2 (6 PTS),,,12 - 15,3
+0020501069,34,2,47,1,7:24 PM,6:58,,,MISS Terry 17' Turnaround Jump Shot,,
+0020501069,35,4,0,1,7:24 PM,6:57,MAGIC Rebound,,,,
+0020501069,36,2,1,1,7:25 PM,6:44,MISS Battie 14' Jump Shot,,,,
+0020501069,37,4,0,1,7:25 PM,6:42,,,Stackhouse REBOUND (Off:0 Def:1),,
+0020501069,38,2,1,1,7:25 PM,6:23,,,MISS Terry 24' 3PT Jump Shot,,
+0020501069,39,4,0,1,7:25 PM,6:21,Battie REBOUND (Off:0 Def:1),,,,
+0020501069,40,6,1,1,7:26 PM,6:15,,,Diop P.FOUL (P1.T2),,
+0020501069,41,2,1,1,7:26 PM,6:03,MISS Stevenson 19' Jump Shot,,,,
+0020501069,42,4,0,1,7:26 PM,6:01,,,Nowitzki REBOUND (Off:1 Def:1),,
+0020501069,43,6,2,1,7:26 PM,5:58,Stevenson S.FOUL (P1.T2),,,,
+0020501069,44,3,11,1,7:26 PM,5:58,,,Terry Free Throw 1 of 2 (1 PTS),13 - 15,2
+0020501069,45,3,12,1,7:27 PM,5:58,,,Terry Free Throw 2 of 2 (2 PTS),14 - 15,1
+0020501069,46,2,44,1,7:27 PM,5:39,MISS Stevenson  Reverse Layup,,Diop BLOCK (2 BLK),,
+0020501069,47,4,0,1,7:27 PM,5:37,,,Diop REBOUND (Off:0 Def:1),,
+0020501069,48,1,5,1,7:28 PM,5:22,,,Howard  Layup (4 PTS) (Terry 1 AST),16 - 15,-1
+0020501069,49,2,1,1,7:28 PM,5:09,MISS Nelson 25' 3PT Jump Shot,,,,
+0020501069,50,4,0,1,7:28 PM,5:07,,,Nowitzki REBOUND (Off:1 Def:2),,
+0020501069,51,2,1,1,7:28 PM,5:03,,,MISS Stackhouse 17' Jump Shot,,
+0020501069,52,4,0,1,7:28 PM,5:02,,,Mavericks Rebound,,
+0020501069,53,1,1,1,7:28 PM,4:55,,,Terry 19' Jump Shot (4 PTS) (Stackhouse 1 AST),18 - 15,-3
+0020501069,54,9,1,1,7:28 PM,4:47,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0020501069,56,8,0,1,7:31 PM,4:47,,,SUB: Marshall FOR Howard,,
+0020501069,57,2,1,1,7:31 PM,4:41,MISS Turkoglu 21' Jump Shot,,,,
+0020501069,58,4,0,1,7:31 PM,4:40,,,Stackhouse REBOUND (Off:0 Def:2),,
+0020501069,59,2,5,1,7:31 PM,4:29,Battie BLOCK (1 BLK),,MISS Marshall  Layup,,
+0020501069,60,4,0,1,7:31 PM,4:28,Turkoglu REBOUND (Off:0 Def:3),,,,
+0020501069,61,6,17,1,7:32 PM,4:13,,,Mavericks T.Foul (Def. 3 Sec Diop ),,
+0020501069,62,3,16,1,7:32 PM,4:13,MISS Turkoglu Free Throw Technical,,,,
+0020501069,63,4,1,1,7:32 PM,4:13,MAGIC Rebound,,,,
+0020501069,64,1,46,1,7:32 PM,4:00,Turkoglu 11' Running Jump Shot (8 PTS),,,18 - 17,-1
+0020501069,65,1,1,1,7:33 PM,3:42,,,Terry 21' Jump Shot (6 PTS) (Nowitzki 1 AST),20 - 17,-3
+0020501069,66,5,1,1,7:33 PM,3:29,Stevenson Bad Pass Turnover (P1.T3),,Stackhouse STEAL (1 STL),,
+0020501069,67,5,2,1,7:33 PM,3:25,Nelson STEAL (1 STL),,Stackhouse Lost Ball Turnover (P1.T2),,
+0020501069,68,6,1,1,7:33 PM,3:21,,,Marshall P.FOUL (P1.T3),,
+0020501069,69,1,1,1,7:34 PM,3:08,Stevenson 14' Jump Shot (2 PTS),,,20 - 19,-1
+0020501069,70,2,46,1,7:34 PM,2:58,,,MISS Terry 11' Running Jump Shot,,
+0020501069,71,4,0,1,7:34 PM,2:57,,,Diop REBOUND (Off:1 Def:1),,
+0020501069,72,1,5,1,7:34 PM,2:57,,,Diop  Layup (2 PTS),22 - 19,-3
+0020501069,73,6,2,1,7:34 PM,2:57,Turkoglu S.FOUL (P1.T3),,,,
+0020501069,74,8,0,1,7:34 PM,2:57,,,SUB: Howard FOR Stackhouse,,
+0020501069,75,3,10,1,7:34 PM,2:57,,,Diop Free Throw 1 of 1 (3 PTS),23 - 19,-4
+0020501069,76,2,5,1,7:35 PM,2:41,MISS Battie  Layup,,,,
+0020501069,77,4,0,1,7:35 PM,2:40,,,Diop REBOUND (Off:1 Def:2),,
+0020501069,78,2,1,1,7:35 PM,2:31,Howard BLOCK (1 BLK),,MISS Nowitzki 9' Jump Shot,,
+0020501069,79,4,0,1,7:35 PM,2:31,,,Mavericks Rebound,,
+0020501069,81,8,0,1,7:35 PM,2:31,SUB: Dooling FOR Stevenson,,,,
+0020501069,80,8,0,1,7:35 PM,2:31,SUB: Milicic FOR Battie,,,,
+0020501069,82,2,1,1,7:36 PM,2:22,,,MISS Howard 7' Jump Shot,,
+0020501069,83,4,0,1,7:36 PM,2:21,,,Nowitzki REBOUND (Off:2 Def:2),,
+0020501069,84,1,5,1,7:36 PM,2:19,,,Nowitzki  Layup (8 PTS),25 - 19,-6
+0020501069,85,1,46,1,7:36 PM,2:04,Dooling 5' Running Jump Shot (2 PTS),,,25 - 21,-4
+0020501069,86,1,1,1,7:36 PM,1:44,,,Nowitzki 20' Jump Shot (10 PTS) (Marshall 1 AST),27 - 21,-6
+0020501069,87,2,1,1,7:37 PM,1:30,MISS Milicic 18' Jump Shot,,,,
+0020501069,88,4,0,1,7:37 PM,1:28,Howard REBOUND (Off:1 Def:0),,,,
+0020501069,89,1,1,1,7:37 PM,1:14,Turkoglu 26' 3PT Jump Shot (11 PTS) (Nelson 2 AST),,,27 - 24,-3
+0020501069,90,2,5,1,7:37 PM,0:55,Turkoglu BLOCK (1 BLK),,MISS Marshall  Layup,,
+0020501069,91,4,0,1,7:37 PM,0:55,MAGIC Rebound,,,,
+0020501069,92,8,0,1,7:37 PM,0:55,SUB: Arroyo FOR Nelson,,,,
+0020501069,93,8,0,1,7:37 PM,0:55,,,SUB: Van Horn FOR Nowitzki,,
+0020501069,94,8,0,1,7:38 PM,0:55,,,SUB: Dampier FOR Diop,,
+0020501069,95,1,8,1,7:38 PM,0:43,Howard  Slam Dunk (8 PTS) (Dooling 1 AST),,,27 - 26,-1
+0020501069,96,7,1,1,7:38 PM,0:43,MAGIC Violation: Delay of game Violation,,,,
+0020501069,98,2,5,1,7:38 PM,0:23,,,MISS Howard  Layup,,
+0020501069,99,4,0,1,7:39 PM,0:22,Milicic REBOUND (Off:0 Def:1),,,,
+0020501069,100,6,11,1,7:39 PM,0:20,,,,,
+0020501069,101,3,16,1,7:39 PM,0:20,Turkoglu Free Throw Technical (12 PTS),,,27 - 27,TIE
+0020501069,102,6,1,1,7:39 PM,0:05,,,Marshall P.FOUL (P2.T4),,
+0020501069,103,8,0,1,7:40 PM,0:05,,,SUB: Armstrong FOR Terry,,
+0020501069,104,6,2,1,7:40 PM,0:01,,,Dampier S.FOUL (P1.PN),,
+0020501069,105,3,11,1,7:40 PM,0:01,Arroyo Free Throw 1 of 2 (1 PTS),,,27 - 28,1
+0020501069,106,8,0,1,7:40 PM,0:01,SUB: Ariza FOR Turkoglu,,,,
+0020501069,107,3,12,1,7:40 PM,0:01,Arroyo Free Throw 2 of 2 (2 PTS),,,27 - 29,2
+0020501069,108,13,0,1,7:41 PM,0:00,,,,27 - 29,2
+0020501069,111,12,0,2,7:44 PM,12:00,,,,27 - 29,2
+0020501069,112,2,1,2,7:44 PM,11:44,,,MISS Stackhouse 16' Jump Shot,,
+0020501069,113,4,0,2,7:44 PM,11:42,Outlaw REBOUND (Off:0 Def:1),,,,
+0020501069,114,2,1,2,7:45 PM,11:20,MISS Milicic 19' Jump Shot,,,,
+0020501069,115,4,0,2,7:45 PM,11:19,,,Howard REBOUND (Off:0 Def:2),,
+0020501069,116,6,1,2,7:45 PM,11:10,Dooling P.FOUL (P1.T1),,,,
+0020501069,117,2,1,2,7:45 PM,10:59,,,MISS Howard 26' 3PT Jump Shot,,
+0020501069,118,4,0,2,7:45 PM,10:56,Dooling REBOUND (Off:0 Def:1),,,,
+0020501069,119,2,1,2,7:45 PM,10:47,MISS Dooling 20' Jump Shot,,,,
+0020501069,120,4,0,2,7:45 PM,10:46,,,Howard REBOUND (Off:0 Def:3),,
+0020501069,121,2,1,2,7:46 PM,10:26,,,MISS Van Horn 18' Jump Shot,,
+0020501069,122,4,0,2,7:46 PM,10:24,Ariza REBOUND (Off:0 Def:1),,,,
+0020501069,123,6,2,2,7:46 PM,10:10,,,Howard S.FOUL (P2.T1),,
+0020501069,124,3,11,2,7:46 PM,10:10,Arroyo Free Throw 1 of 2 (3 PTS),,,27 - 30,3
+0020501069,126,8,0,2,7:47 PM,10:10,,,SUB: Nowitzki FOR Howard,,
+0020501069,127,3,12,2,7:47 PM,10:10,Arroyo Free Throw 2 of 2 (4 PTS),,,27 - 31,4
+0020501069,128,6,1,2,7:47 PM,9:57,Dooling P.FOUL (P2.T2),,,,
+0020501069,129,2,1,2,7:48 PM,9:48,,,MISS Van Horn 25' 3PT Jump Shot,,
+0020501069,130,4,0,2,7:48 PM,9:46,,,Nowitzki REBOUND (Off:3 Def:2),,
+0020501069,131,2,1,2,7:48 PM,9:33,,,MISS Armstrong 26' 3PT Jump Shot,,
+0020501069,132,4,0,2,7:48 PM,9:31,,,Nowitzki REBOUND (Off:4 Def:2),,
+0020501069,133,1,7,2,7:48 PM,9:23,,,Van Horn  Dunk (2 PTS) (Armstrong 1 AST),29 - 31,2
+0020501069,134,5,40,2,7:48 PM,9:06,Arroyo Out of Bounds Lost Ball Turnover (P1.T4),,,,
+0020501069,135,2,1,2,7:49 PM,8:56,,,MISS Van Horn 25' 3PT Jump Shot,,
+0020501069,136,4,0,2,7:49 PM,8:54,Outlaw REBOUND (Off:0 Def:2),,,,
+0020501069,137,6,2,2,7:49 PM,8:48,,,Van Horn S.FOUL (P1.T2),,
+0020501069,138,9,4,2,7:49 PM,8:48,,,,,
+0020501069,141,8,0,2,7:51 PM,8:48,,,SUB: Terry FOR Armstrong,,
+0020501069,142,3,11,2,7:51 PM,8:48,Ariza Free Throw 1 of 2 (1 PTS),,,29 - 32,3
+0020501069,143,3,12,2,7:52 PM,8:48,Ariza Free Throw 2 of 2 (2 PTS),,,29 - 33,4
+0020501069,144,6,4,2,7:52 PM,8:36,,,Stackhouse OFF.Foul (P1),,
+0020501069,145,5,5,2,7:52 PM,8:36,,,Stackhouse Foul Turnover (P2.T3),,
+0020501069,146,2,42,2,7:52 PM,8:23,MISS Ariza  Driving Layup,,,,
+0020501069,147,4,0,2,7:53 PM,8:22,,,Dampier REBOUND (Off:0 Def:1),,
+0020501069,148,2,5,2,7:53 PM,8:17,,,MISS Van Horn  Layup,,
+0020501069,149,4,0,2,7:53 PM,8:15,Outlaw REBOUND (Off:0 Def:3),,,,
+0020501069,150,1,5,2,7:53 PM,8:09,Dooling  Layup (4 PTS),,,29 - 35,6
+0020501069,151,5,1,2,7:53 PM,8:00,Ariza STEAL (1 STL),,Dampier Bad Pass Turnover (P1.T4),,
+0020501069,152,1,1,2,7:53 PM,7:55,Arroyo 19' Jump Shot (6 PTS) (Outlaw 1 AST),,,29 - 37,8
+0020501069,153,2,1,2,7:53 PM,7:32,,,MISS Stackhouse  3PT Jump Shot,,
+0020501069,154,4,0,2,7:53 PM,7:29,Arroyo REBOUND (Off:0 Def:1),,,,
+0020501069,155,2,1,2,7:54 PM,7:09,MISS Milicic 20' Jump Shot,,,,
+0020501069,156,4,0,2,7:54 PM,7:07,,,Nowitzki REBOUND (Off:4 Def:3),,
+0020501069,159,6,1,2,7:54 PM,6:52,Milicic P.FOUL (P1.T3),,,,
+0020501069,160,8,0,2,7:54 PM,6:52,,,SUB: Powell FOR Van Horn,,
+0020501069,161,2,1,2,7:54 PM,6:49,,,MISS Nowitzki 27' 3PT Jump Shot,,
+0020501069,162,4,0,2,7:54 PM,6:44,Milicic REBOUND (Off:0 Def:2),,,,
+0020501069,163,6,1,2,7:55 PM,6:35,,,Terry P.FOUL (P1.T3),,
+0020501069,164,5,1,2,7:55 PM,6:24,Arroyo Bad Pass Turnover (P2.T5),,Dampier STEAL (1 STL),,
+0020501069,165,5,1,2,7:55 PM,6:21,Dooling STEAL (1 STL),,Dampier Bad Pass Turnover (P2.T5),,
+0020501069,166,5,40,2,7:55 PM,6:18,Dooling Out of Bounds Lost Ball Turnover (P1.T6),,,,
+0020501069,167,2,3,2,7:56 PM,5:59,,,MISS Dampier 9' Hook Shot,,
+0020501069,168,4,0,2,7:56 PM,5:58,MAGIC Rebound,,,,
+0020501069,171,8,0,2,7:58 PM,5:58,SUB: Howard FOR Outlaw,,,,
+0020501069,172,1,1,2,7:59 PM,5:35,Ariza 9' Jump Shot (4 PTS) (Milicic 1 AST),,,29 - 39,10
+0020501069,173,2,1,2,7:59 PM,5:17,,,MISS Nowitzki 14' Jump Shot,,
+0020501069,174,4,0,2,7:59 PM,5:15,Howard REBOUND (Off:1 Def:1),,,,
+0020501069,175,1,1,2,7:59 PM,5:09,Arroyo 18' Jump Shot (8 PTS),,,29 - 41,12
+0020501069,176,1,1,2,8:00 PM,4:49,,,Nowitzki 20' Jump Shot (12 PTS),31 - 41,10
+0020501069,177,1,3,2,8:00 PM,4:28,Howard 8' Hook Shot (10 PTS),,,31 - 43,12
+0020501069,178,1,3,2,8:00 PM,4:18,,,Nowitzki 8' Hook Shot (14 PTS),33 - 43,10
+0020501069,179,6,2,2,8:00 PM,4:18,Howard S.FOUL (P1.T4),,,,
+0020501069,180,8,0,2,8:00 PM,4:18,,,SUB: Howard FOR Stackhouse,,
+0020501069,181,8,0,2,8:00 PM,4:18,,,SUB: Diop FOR Dampier,,
+0020501069,182,8,0,2,8:01 PM,4:18,SUB: Stevenson FOR Dooling,,,,
+0020501069,183,8,0,2,8:01 PM,4:18,SUB: Nelson FOR Arroyo,,,,
+0020501069,184,3,10,2,8:01 PM,4:18,,,Nowitzki Free Throw 1 of 1 (15 PTS),34 - 43,9
+0020501069,185,2,44,2,8:01 PM,4:03,MISS Howard  Reverse Layup,,Nowitzki BLOCK (1 BLK),,
+0020501069,186,4,0,2,8:01 PM,4:01,,,Howard REBOUND (Off:0 Def:4),,
+0020501069,187,5,2,2,8:01 PM,3:52,Ariza STEAL (2 STL),,Nowitzki Lost Ball Turnover (P1.T6),,
+0020501069,188,1,1,2,8:01 PM,3:29,Milicic 17' Jump Shot (2 PTS),,,34 - 45,11
+0020501069,189,2,1,2,8:02 PM,3:05,,,MISS Terry 26' 3PT Jump Shot,,
+0020501069,190,4,0,2,8:02 PM,3:04,Milicic REBOUND (Off:0 Def:3),,,,
+0020501069,191,1,1,2,8:02 PM,2:56,Nelson 23' Jump Shot (5 PTS),,,34 - 47,13
+0020501069,192,9,1,2,8:02 PM,2:48,,,Mavericks Timeout: Regular (Reg.2 Short 0),,
+0020501069,195,8,0,2,8:04 PM,2:48,SUB: Turkoglu FOR Ariza,,,,
+0020501069,196,8,0,2,8:05 PM,2:48,,,SUB: Armstrong FOR Powell,,
+0020501069,197,1,1,2,8:05 PM,2:39,,,Howard 14' Jump Shot (6 PTS) (Armstrong 2 AST),36 - 47,11
+0020501069,198,2,5,2,8:06 PM,2:17,MISS Turkoglu  Layup,,Diop BLOCK (3 BLK),,
+0020501069,200,4,0,2,8:06 PM,2:14,Milicic REBOUND (Off:1 Def:3),,,,
+0020501069,199,1,4,2,8:06 PM,2:14,Milicic  Tip Shot (4 PTS),,,36 - 49,13
+0020501069,201,6,2,2,8:06 PM,2:06,Turkoglu S.FOUL (P2.PN),,,,
+0020501069,202,3,11,2,8:06 PM,2:06,,,Nowitzki Free Throw 1 of 2 (16 PTS),37 - 49,12
+0020501069,203,3,12,2,8:06 PM,2:06,,,Nowitzki Free Throw 2 of 2 (17 PTS),38 - 49,11
+0020501069,204,1,1,2,8:07 PM,1:45,Nelson 20' Jump Shot (7 PTS),,,38 - 51,13
+0020501069,205,5,2,2,8:07 PM,1:37,Nelson STEAL (2 STL),,Armstrong Lost Ball Turnover (P1.T7),,
+0020501069,206,1,5,2,8:07 PM,1:34,Nelson  Layup (9 PTS),,,38 - 53,15
+0020501069,207,1,63,2,8:07 PM,1:14,,,Nowitzki 13' Fadeaway Jumper (19 PTS),40 - 53,13
+0020501069,208,1,1,2,8:08 PM,1:00,Nelson 26' 3PT Jump Shot (12 PTS) (Milicic 2 AST),,,40 - 56,16
+0020501069,209,1,66,2,8:08 PM,0:49,,,Nowitzki 9' Jump Bank Shot (21 PTS),42 - 56,14
+0020501069,210,6,2,2,8:08 PM,0:35,,,Diop S.FOUL (P2.T4),,
+0020501069,211,3,11,2,8:09 PM,0:35,MISS Howard Free Throw 1 of 2,,,,
+0020501069,212,4,1,2,8:09 PM,0:35,MAGIC Rebound,,,,
+0020501069,213,8,0,2,8:09 PM,0:35,,,SUB: Van Horn FOR Diop,,
+0020501069,215,8,0,2,8:09 PM,0:35,SUB: Ariza FOR Milicic,,,,
+0020501069,216,3,12,2,8:09 PM,0:35,MISS Howard Free Throw 2 of 2,,,,
+0020501069,217,4,0,2,8:10 PM,0:35,,,Mavericks Rebound,,
+0020501069,218,1,1,2,8:10 PM,0:19,,,Terry 16' Jump Shot (8 PTS),44 - 56,12
+0020501069,219,2,1,2,8:10 PM,0:00,MISS Turkoglu 27' 3PT Jump Shot,,,,
+0020501069,220,4,0,2,8:10 PM,0:00,MAGIC Rebound,,,,
+0020501069,221,13,0,2,8:11 PM,0:00,,,,44 - 56,12
+0020501069,227,12,0,3,8:28 PM,12:00,,,,44 - 56,12
+0020501069,228,6,11,3,8:28 PM,12:00,Stevenson T.FOUL (P1.T0),,,,
+0020501069,229,3,16,3,8:28 PM,12:00,,,MISS Nowitzki Free Throw Technical,,
+0020501069,245,4,0,3,8:28 PM,12:00,,,Mavericks Rebound,,
+0020501069,231,2,1,3,8:29 PM,11:34,,,MISS Stackhouse 26' 3PT Jump Shot,,
+0020501069,232,4,0,3,8:29 PM,11:32,Howard REBOUND (Off:1 Def:2),,,,
+0020501069,233,5,1,3,8:29 PM,11:19,Howard Bad Pass Turnover (P2.T7),,Diop STEAL (2 STL),,
+0020501069,234,1,7,3,8:29 PM,11:14,,,Nowitzki  Dunk (23 PTS) (Stackhouse 2 AST),46 - 56,10
+0020501069,235,5,1,3,8:29 PM,10:59,Battie Bad Pass Turnover (P1.T8),,Diop STEAL (3 STL),,
+0020501069,236,2,1,3,8:30 PM,10:52,,,MISS Terry 20' Jump Shot,,
+0020501069,237,4,0,3,8:30 PM,10:50,Turkoglu REBOUND (Off:0 Def:4),,,,
+0020501069,238,6,17,3,8:30 PM,10:34,,,Mavericks T.Foul (Def. 3 Sec Diop ),,
+0020501069,239,3,16,3,8:30 PM,10:34,Turkoglu Free Throw Technical (13 PTS),,,46 - 57,11
+0020501069,241,2,1,3,8:31 PM,10:21,MISS Stevenson 22' Jump Shot,,,,
+0020501069,242,4,0,3,8:31 PM,10:20,,,Nowitzki REBOUND (Off:4 Def:4),,
+0020501069,243,1,1,3,8:31 PM,10:06,,,Nowitzki 26' 3PT Jump Shot (26 PTS),49 - 57,8
+0020501069,246,1,1,3,8:31 PM,9:49,Battie 21' Jump Shot (2 PTS) (Nelson 3 AST),,,49 - 59,10
+0020501069,247,2,5,3,8:31 PM,9:35,Turkoglu BLOCK (2 BLK),,MISS Diop  Layup,,
+0020501069,248,4,0,3,8:31 PM,9:33,Stevenson REBOUND (Off:0 Def:1),,,,
+0020501069,249,5,1,3,8:31 PM,9:32,Stevenson Bad Pass Turnover (P2.T9),,Terry STEAL (2 STL),,
+0020501069,251,6,2,3,8:32 PM,9:30,Stevenson S.FOUL (P2.T1),,,,
+0020501069,252,3,11,3,8:32 PM,9:30,,,Terry Free Throw 1 of 2 (9 PTS),50 - 59,9
+0020501069,253,3,12,3,8:32 PM,9:30,,,Terry Free Throw 2 of 2 (10 PTS),51 - 59,8
+0020501069,256,1,42,3,8:32 PM,9:18,Nelson  Driving Layup (14 PTS),,,51 - 61,10
+0020501069,257,2,1,3,8:33 PM,8:53,,,MISS Nowitzki 25' 3PT Jump Shot,,
+0020501069,258,4,0,3,8:33 PM,8:51,Howard REBOUND (Off:1 Def:3),,,,
+0020501069,259,6,2,3,8:33 PM,8:42,,,Diop S.FOUL (P3.T1),,
+0020501069,260,3,11,3,8:33 PM,8:42,Nelson Free Throw 1 of 2 (15 PTS),,,51 - 62,11
+0020501069,261,3,12,3,8:33 PM,8:42,Nelson Free Throw 2 of 2 (16 PTS),,,51 - 63,12
+0020501069,262,1,5,3,8:34 PM,8:27,,,Howard  Layup (8 PTS),53 - 63,10
+0020501069,263,1,42,3,8:34 PM,8:10,Nelson  Driving Layup (18 PTS),,,53 - 65,12
+0020501069,264,2,1,3,8:35 PM,7:51,,,MISS Howard 13' Jump Shot,,
+0020501069,265,4,0,3,8:35 PM,7:48,,,Howard REBOUND (Off:1 Def:4),,
+0020501069,266,2,1,3,8:35 PM,7:44,,,MISS Terry 24' 3PT Jump Shot,,
+0020501069,267,4,0,3,8:35 PM,7:42,Howard REBOUND (Off:1 Def:4),,,,
+0020501069,268,6,1,3,8:35 PM,7:42,,,Diop P.FOUL (P4.T2),,
+0020501069,269,8,0,3,8:35 PM,7:42,,,SUB: Armstrong FOR Terry,,
+0020501069,270,8,0,3,8:35 PM,7:42,,,SUB: Dampier FOR Diop,,
+0020501069,271,6,1,3,8:35 PM,7:36,,,Armstrong P.FOUL (P1.T3),,
+0020501069,272,1,7,3,8:36 PM,7:26,Battie  Dunk (4 PTS) (Turkoglu 1 AST),,,53 - 67,14
+0020501069,273,2,1,3,8:36 PM,7:03,,,MISS Nowitzki 17' Jump Shot,,
+0020501069,274,4,0,3,8:36 PM,7:01,Stevenson REBOUND (Off:0 Def:2),,,,
+0020501069,275,2,1,3,8:36 PM,6:51,MISS Nelson 25' 3PT Jump Shot,,,,
+0020501069,276,4,0,3,8:36 PM,6:50,MAGIC Rebound,,,,
+0020501069,278,6,4,3,8:37 PM,6:35,Nelson OFF.Foul (P1),,,,
+0020501069,279,5,5,3,8:37 PM,6:35,Nelson Foul Turnover (P1.T10),,,,
+0020501069,280,2,1,3,8:38 PM,6:15,,,MISS Nowitzki 25' 3PT Jump Shot,,
+0020501069,281,4,0,3,8:38 PM,6:14,Nelson REBOUND (Off:0 Def:1),,,,
+0020501069,282,1,1,3,8:38 PM,6:09,Turkoglu 25' 3PT Jump Shot (16 PTS) (Nelson 4 AST),,,53 - 70,17
+0020501069,283,9,1,3,8:38 PM,6:08,,,Mavericks Timeout: Regular (Reg.3 Short 0),,
+0020501069,286,1,44,3,8:41 PM,5:50,,,Stackhouse  Reverse Layup (6 PTS),55 - 70,15
+0020501069,287,2,3,3,8:41 PM,5:28,MISS Howard 5' Hook Shot,,,,
+0020501069,288,4,0,3,8:41 PM,5:26,,,Armstrong REBOUND (Off:0 Def:1),,
+0020501069,289,2,1,3,8:41 PM,5:14,,,MISS Armstrong 19' Jump Shot,,
+0020501069,290,4,0,3,8:41 PM,5:13,Howard REBOUND (Off:1 Def:5),,,,
+0020501069,291,5,8,3,8:42 PM,4:54,Battie 3 Second Violation Turnover (P2.T11),,,,
+0020501069,292,1,1,3,8:42 PM,4:39,,,Stackhouse 15' Jump Shot (8 PTS),57 - 70,13
+0020501069,293,1,1,3,8:42 PM,4:22,Nelson 20' Jump Shot (20 PTS),,,57 - 72,15
+0020501069,294,1,1,3,8:42 PM,4:07,,,Armstrong  3PT Jump Shot (3 PTS) (Stackhouse 3 AST),60 - 72,12
+0020501069,295,1,1,3,8:43 PM,3:45,Stevenson 20' Jump Shot (4 PTS),,,60 - 74,14
+0020501069,297,7,2,3,8:43 PM,3:26,Howard Violation:Defensive Goaltending,,,,
+0020501069,296,1,3,3,8:43 PM,3:26,,,Dampier 4' Hook Shot (2 PTS) (Armstrong 3 AST),62 - 74,12
+0020501069,298,1,1,3,8:44 PM,3:06,Turkoglu 20' Jump Shot (18 PTS),,,62 - 76,14
+0020501069,299,1,1,3,8:44 PM,2:56,,,Stackhouse 19' Jump Shot (10 PTS),64 - 76,12
+0020501069,300,1,1,3,8:45 PM,2:39,Turkoglu 25' 3PT Jump Shot (21 PTS) (Stevenson 1 AST),,,64 - 79,15
+0020501069,301,6,2,3,8:45 PM,2:28,Turkoglu S.FOUL (P3.T2),,,,
+0020501069,302,9,1,3,8:45 PM,2:28,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0020501069,304,8,0,3,8:47 PM,2:28,SUB: Arroyo FOR Turkoglu,,,,
+0020501069,305,8,0,3,8:47 PM,2:28,SUB: Milicic FOR Battie,,,,
+0020501069,306,8,0,3,8:47 PM,2:28,SUB: Ariza FOR Nelson,,,,
+0020501069,307,8,0,3,8:47 PM,2:28,,,SUB: Terry FOR Stackhouse,,
+0020501069,308,3,11,3,8:47 PM,2:28,,,Howard Free Throw 1 of 2 (9 PTS),65 - 79,14
+0020501069,309,3,12,3,8:48 PM,2:28,,,Howard Free Throw 2 of 2 (10 PTS),66 - 79,13
+0020501069,311,1,8,3,8:48 PM,2:18,Howard  Slam Dunk (12 PTS) (Arroyo 1 AST),,,66 - 81,15
+0020501069,313,1,5,3,8:48 PM,2:02,,,Dampier  Layup (4 PTS) (Nowitzki 2 AST),68 - 81,13
+0020501069,314,6,2,3,8:48 PM,2:02,Arroyo S.FOUL (P1.T3),,,,
+0020501069,315,8,0,3,8:49 PM,2:02,,,SUB: Van Horn FOR Nowitzki,,
+0020501069,316,3,10,3,8:49 PM,2:02,,,MISS Dampier Free Throw 1 of 1,,
+0020501069,317,4,0,3,8:49 PM,2:00,Howard REBOUND (Off:1 Def:6),,,,
+0020501069,319,1,1,3,8:49 PM,1:48,Arroyo 16' Jump Shot (10 PTS),,,68 - 83,15
+0020501069,320,6,3,3,8:49 PM,1:47,Howard L.B.FOUL (P2.T4),,,,
+0020501069,321,6,1,3,8:50 PM,1:29,Howard P.FOUL (P3.PN),,,,
+0020501069,323,3,11,3,8:50 PM,1:29,,,Terry Free Throw 1 of 2 (11 PTS),69 - 83,14
+0020501069,325,8,0,3,8:51 PM,1:29,,,SUB: Stackhouse FOR Howard,,
+0020501069,326,3,12,3,8:51 PM,1:29,,,Terry Free Throw 2 of 2 (12 PTS),70 - 83,13
+0020501069,327,1,1,3,8:51 PM,1:16,Arroyo 17' Jump Shot (12 PTS),,,70 - 85,15
+0020501069,328,2,5,3,8:51 PM,0:52,Milicic BLOCK (1 BLK),,MISS Van Horn  Layup,,
+0020501069,329,4,0,3,8:51 PM,0:50,,,Dampier REBOUND (Off:1 Def:1),,
+0020501069,330,2,5,3,8:51 PM,0:47,Milicic BLOCK (2 BLK),,MISS Dampier  Layup,,
+0020501069,331,4,0,3,8:52 PM,0:45,Arroyo REBOUND (Off:0 Def:2),,,,
+0020501069,332,1,5,3,8:52 PM,0:44,Ariza  Layup (6 PTS) (Arroyo 2 AST),,,70 - 87,17
+0020501069,333,5,1,3,8:52 PM,0:24,Stevenson STEAL (1 STL),,Armstrong Bad Pass Turnover (P2.T8),,
+0020501069,335,6,4,3,8:52 PM,0:22,Stevenson OFF.Foul (P3),,,,
+0020501069,345,5,37,3,8:52 PM,0:22,Stevenson Offensive Foul Turnover (P3.T12),,,,
+0020501069,336,8,0,3,8:52 PM,0:22,SUB: Dooling FOR Stevenson,,,,
+0020501069,337,8,0,3,8:53 PM,0:22,,,SUB: Nowitzki FOR Armstrong,,
+0020501069,338,5,40,3,8:53 PM,0:05,,,Stackhouse Out of Bounds Lost Ball Turnover (P3.T9),,
+0020501069,339,2,1,3,8:53 PM,0:00,MISS Dooling 19' Jump Shot,,,,
+0020501069,341,4,0,3,8:53 PM,0:00,Howard REBOUND (Off:2 Def:6),,,,
+0020501069,340,2,4,3,8:53 PM,0:00,MISS Howard  Tip Shot,,,,
+0020501069,342,4,0,3,8:53 PM,0:00,MAGIC Rebound,,,,
+0020501069,343,13,0,3,8:53 PM,0:00,,,,70 - 87,17
+0020501069,347,12,0,4,8:56 PM,12:00,,,,70 - 87,17
+0020501069,348,6,11,4,8:56 PM,12:00,,,Stackhouse T.FOUL (P1.T0),,
+0020501069,349,3,16,4,8:57 PM,12:00,Dooling Free Throw Technical (5 PTS),,,70 - 88,18
+0020501069,352,5,1,4,8:57 PM,11:32,Arroyo Bad Pass Turnover (P3.T13),,Van Horn STEAL (1 STL),,
+0020501069,353,1,45,4,8:57 PM,11:28,,,Nowitzki 20' Jump Shot (28 PTS),72 - 88,16
+0020501069,355,6,4,4,8:58 PM,11:06,Arroyo OFF.Foul (P2),,,,
+0020501069,356,5,5,4,8:58 PM,11:06,Arroyo Foul Turnover (P4.T14),,,,
+0020501069,357,2,1,4,8:58 PM,10:50,,,MISS Stackhouse 21' Jump Shot,,
+0020501069,358,4,0,4,8:58 PM,10:48,Milicic REBOUND (Off:1 Def:4),,,,
+0020501069,359,6,2,4,8:59 PM,10:26,,,Nowitzki S.FOUL (P1.T1),,
+0020501069,360,3,11,4,8:59 PM,10:26,Ariza Free Throw 1 of 2 (7 PTS),,,72 - 89,17
+0020501069,361,3,12,4,8:59 PM,10:26,Ariza Free Throw 2 of 2 (8 PTS),,,72 - 90,18
+0020501069,364,6,1,4,9:00 PM,10:16,Milicic P.FOUL (P2.T1),,,,
+0020501069,365,6,4,4,9:00 PM,10:12,,,Dampier OFF.Foul (P2),,
+0020501069,366,5,5,4,9:00 PM,10:12,,,Dampier Foul Turnover (P3.T10),,
+0020501069,368,2,1,4,9:01 PM,9:48,MISS Milicic 21' Jump Shot,,,,
+0020501069,369,4,0,4,9:01 PM,9:46,,,Nowitzki REBOUND (Off:4 Def:5),,
+0020501069,370,2,1,4,9:01 PM,9:38,,,MISS Nowitzki 26' 3PT Jump Shot,,
+0020501069,371,4,0,4,9:01 PM,9:37,Arroyo REBOUND (Off:0 Def:3),,,,
+0020501069,372,6,1,4,9:01 PM,9:36,,,Stackhouse P.FOUL (P2.T2),,
+0020501069,373,8,0,4,9:01 PM,9:36,,,SUB: Powell FOR Van Horn,,
+0020501069,374,8,0,4,9:01 PM,9:36,,,SUB: Diop FOR Dampier,,
+0020501069,375,8,0,4,9:02 PM,9:36,SUB: Battie FOR Howard,,,,
+0020501069,376,2,51,4,9:02 PM,9:22,MISS Ariza  Reverse Dunk,,,,
+0020501069,377,4,0,4,9:02 PM,9:20,,,Powell REBOUND (Off:0 Def:1),,
+0020501069,378,1,42,4,9:02 PM,8:59,,,Powell  Driving Layup (2 PTS),74 - 90,16
+0020501069,379,2,1,4,9:03 PM,8:36,MISS Arroyo 18' Jump Shot,,,,
+0020501069,380,4,0,4,9:03 PM,8:34,,,Nowitzki REBOUND (Off:4 Def:6),,
+0020501069,381,6,2,4,9:03 PM,8:27,Milicic S.FOUL (P3.T2),,,,
+0020501069,383,9,4,4,9:03 PM,8:27,,,,,
+0020501069,386,8,0,4,9:05 PM,8:27,SUB: Turkoglu FOR Ariza,,,,
+0020501069,387,3,11,4,9:06 PM,8:27,,,Stackhouse Free Throw 1 of 2 (11 PTS),75 - 90,15
+0020501069,388,3,12,4,9:06 PM,8:27,,,Stackhouse Free Throw 2 of 2 (12 PTS),76 - 90,14
+0020501069,389,2,1,4,9:06 PM,8:07,MISS Dooling 24' 3PT Jump Shot,,,,
+0020501069,390,4,0,4,9:06 PM,8:05,,,Terry REBOUND (Off:0 Def:1),,
+0020501069,391,1,1,4,9:06 PM,7:59,,,Terry 26' 3PT Jump Shot (15 PTS) (Stackhouse 4 AST),79 - 90,11
+0020501069,392,2,5,4,9:07 PM,7:42,MISS Arroyo  Layup,,Diop BLOCK (4 BLK),,
+0020501069,393,4,0,4,9:07 PM,7:40,,,Diop REBOUND (Off:1 Def:3),,
+0020501069,394,2,1,4,9:07 PM,7:30,,,MISS Terry 24' 3PT Jump Shot,,
+0020501069,395,4,0,4,9:07 PM,7:28,,,Mavericks Rebound,,
+0020501069,396,1,1,4,9:08 PM,7:16,,,Nowitzki 24' 3PT Jump Shot (31 PTS) (Terry 2 AST),82 - 90,8
+0020501069,398,6,2,4,9:08 PM,6:57,,,Powell S.FOUL (P1.T3),,
+0020501069,399,3,11,4,9:08 PM,6:57,Milicic Free Throw 1 of 2 (5 PTS),,,82 - 91,9
+0020501069,400,8,0,4,9:08 PM,6:57,SUB: Nelson FOR Arroyo,,,,
+0020501069,401,8,0,4,9:08 PM,6:57,SUB: Stevenson FOR Dooling,,,,
+0020501069,402,3,12,4,9:08 PM,6:57,MISS Milicic Free Throw 2 of 2,,,,
+0020501069,403,4,0,4,9:09 PM,6:55,,,Powell REBOUND (Off:0 Def:2),,
+0020501069,404,1,1,4,9:09 PM,6:43,,,Nowitzki 26' 3PT Jump Shot (34 PTS) (Terry 3 AST),85 - 91,6
+0020501069,405,9,1,4,9:09 PM,6:42,MAGIC Timeout: Regular (Full 3 Short 0),,,,
+0020501069,409,1,1,4,9:12 PM,6:26,Turkoglu 12' Jump Shot (23 PTS),,,85 - 93,8
+0020501069,410,2,1,4,9:12 PM,6:08,,,MISS Nowitzki 25' 3PT Jump Shot,,
+0020501069,411,4,0,4,9:12 PM,6:08,MAGIC Rebound,,,,
+0020501069,412,8,0,4,9:12 PM,6:08,SUB: Howard FOR Milicic,,,,
+0020501069,413,1,49,4,9:12 PM,5:49,Stevenson  Driving Dunk (6 PTS),,,85 - 95,10
+0020501069,414,2,1,4,9:13 PM,5:30,,,MISS Stackhouse 24' 3PT Jump Shot,,
+0020501069,415,4,0,4,9:13 PM,5:30,,,Mavericks Rebound,,
+0020501069,416,1,66,4,9:13 PM,5:20,,,Nowitzki 7' Jump Bank Shot (36 PTS) (Stackhouse 5 AST),87 - 95,8
+0020501069,417,6,2,4,9:13 PM,5:20,Howard S.FOUL (P4.T3),,,,
+0020501069,418,3,10,4,9:13 PM,5:20,,,MISS Nowitzki Free Throw 1 of 1,,
+0020501069,419,4,0,4,9:14 PM,5:20,Howard REBOUND (Off:2 Def:7),,,,
+0020501069,420,1,1,4,9:14 PM,5:04,Nelson 22' Jump Shot (22 PTS),,,87 - 97,10
+0020501069,421,1,42,4,9:14 PM,4:50,,,Terry  Driving Layup (17 PTS),89 - 97,8
+0020501069,422,2,5,4,9:14 PM,4:38,MISS Nelson  Layup,,,,
+0020501069,423,4,0,4,9:14 PM,4:38,,,Mavericks Rebound,,
+0020501069,424,6,3,4,9:14 PM,4:38,Battie L.B.FOUL (P2.T4),,,,
+0020501069,425,1,1,4,9:15 PM,4:23,,,Terry 25' 3PT Jump Shot (20 PTS) (Nowitzki 3 AST),92 - 97,5
+0020501069,426,6,2,4,9:15 PM,4:03,,,Diop S.FOUL (P5.T4),,
+0020501069,427,3,11,4,9:16 PM,4:03,Nelson Free Throw 1 of 2 (23 PTS),,,92 - 98,6
+0020501069,428,3,12,4,9:16 PM,4:03,Nelson Free Throw 2 of 2 (24 PTS),,,92 - 99,7
+0020501069,431,6,1,4,9:17 PM,3:52,Battie P.FOUL (P3.PN),,,,
+0020501069,432,3,11,4,9:17 PM,3:52,,,Nowitzki Free Throw 1 of 2 (37 PTS),93 - 99,6
+0020501069,433,3,12,4,9:17 PM,3:52,,,Nowitzki Free Throw 2 of 2 (38 PTS),94 - 99,5
+0020501069,434,2,42,4,9:17 PM,3:34,MISS Nelson  Driving Layup,,,,
+0020501069,435,4,0,4,9:17 PM,3:33,,,Nowitzki REBOUND (Off:4 Def:7),,
+0020501069,436,2,1,4,9:18 PM,3:16,,,MISS Terry 25' 3PT Jump Shot,,
+0020501069,437,4,0,4,9:18 PM,3:14,,,Powell REBOUND (Off:1 Def:2),,
+0020501069,438,9,1,4,9:18 PM,3:08,,,Mavericks Timeout: Regular (Reg.4 Short 0),,
+0020501069,442,6,4,4,9:21 PM,3:01,,,Nowitzki OFF.Foul (P2),,
+0020501069,443,5,5,4,9:21 PM,3:01,,,Nowitzki Foul Turnover (P2.T11),,
+0020501069,444,6,2,4,9:21 PM,2:50,,,Stackhouse S.FOUL (P3.PN),,
+0020501069,445,3,11,4,9:21 PM,2:50,Turkoglu Free Throw 1 of 2 (24 PTS),,,94 - 100,6
+0020501069,446,3,12,4,9:21 PM,2:50,Turkoglu Free Throw 2 of 2 (25 PTS),,,94 - 101,7
+0020501069,447,2,63,4,9:22 PM,2:32,,,MISS Nowitzki 13' Fadeaway Jumper,,
+0020501069,448,4,0,4,9:22 PM,2:30,Howard REBOUND (Off:2 Def:8),,,,
+0020501069,449,2,1,4,9:22 PM,2:07,MISS Nelson 26' 3PT Jump Shot,,,,
+0020501069,450,4,0,4,9:22 PM,2:05,,,Nowitzki REBOUND (Off:4 Def:8),,
+0020501069,451,6,1,4,9:23 PM,2:02,Nelson P.FOUL (P2.PN),,,,
+0020501069,452,3,11,4,9:23 PM,2:02,,,Terry Free Throw 1 of 2 (21 PTS),95 - 101,6
+0020501069,453,3,12,4,9:23 PM,2:02,,,MISS Terry Free Throw 2 of 2,,
+0020501069,454,4,0,4,9:23 PM,2:01,Battie REBOUND (Off:0 Def:2),,,,
+0020501069,455,2,1,4,9:24 PM,1:42,MISS Turkoglu 25' 3PT Jump Shot,,,,
+0020501069,456,4,0,4,9:24 PM,1:40,,,Nowitzki REBOUND (Off:4 Def:9),,
+0020501069,457,5,1,4,9:24 PM,1:38,Turkoglu STEAL (1 STL),,Nowitzki Bad Pass Turnover (P3.T12),,
+0020501069,458,6,2,4,9:24 PM,1:19,,,Diop S.FOUL (P6.PN),,
+0020501069,460,8,0,4,9:24 PM,1:19,,,SUB: Dampier FOR Diop,,
+0020501069,461,3,11,4,9:24 PM,1:19,Howard Free Throw 1 of 2 (13 PTS),,,95 - 102,7
+0020501069,462,3,12,4,9:25 PM,1:19,Howard Free Throw 2 of 2 (14 PTS),,,95 - 103,8
+0020501069,463,9,1,4,9:25 PM,1:19,,,Mavericks Timeout: Regular (Reg.5 Short 0),,
+0020501069,465,8,0,4,9:27 PM,1:19,,,SUB: Armstrong FOR Powell,,
+0020501069,467,1,42,4,9:27 PM,1:15,,,Stackhouse  Driving Layup (14 PTS) (Nowitzki 4 AST),97 - 103,6
+0020501069,468,1,42,4,9:28 PM,0:59,Nelson  Driving Layup (26 PTS),,,97 - 105,8
+0020501069,469,6,2,4,9:28 PM,0:53,Howard S.FOUL (P5.PN),,,,
+0020501069,472,3,11,4,9:28 PM,0:53,,,Terry Free Throw 1 of 2 (22 PTS),98 - 105,7
+0020501069,473,3,12,4,9:28 PM,0:53,,,Terry Free Throw 2 of 2 (23 PTS),99 - 105,6
+0020501069,474,9,1,4,9:29 PM,0:44,MAGIC Timeout: Regular (Full 4 Short 0),,,,
+0020501069,476,8,0,4,9:30 PM,0:44,,,SUB: Powell FOR Dampier,,
+0020501069,477,8,0,4,9:31 PM,0:44,SUB: Arroyo FOR Stevenson,,,,
+0020501069,478,6,1,4,9:31 PM,0:43,,,Stackhouse P.FOUL (P4.PN),,
+0020501069,479,3,11,4,9:31 PM,0:43,Battie Free Throw 1 of 2 (5 PTS),,,99 - 106,7
+0020501069,480,8,0,4,9:32 PM,0:43,,,SUB: Dampier FOR Stackhouse,,
+0020501069,481,3,12,4,9:32 PM,0:43,Battie Free Throw 2 of 2 (6 PTS),,,99 - 107,8
+0020501069,482,9,2,4,9:32 PM,0:43,,,Mavericks Timeout: Short (Reg.5 Short 1),,
+0020501069,483,8,0,4,9:33 PM,0:43,,,SUB: Stackhouse FOR Powell,,
+0020501069,484,2,1,4,9:33 PM,0:40,,,MISS Nowitzki 26' 3PT Jump Shot,,
+0020501069,485,4,0,4,9:33 PM,0:39,Nelson REBOUND (Off:0 Def:2),,,,
+0020501069,486,6,1,4,9:33 PM,0:37,,,Terry P.FOUL (P2.PN),,
+0020501069,487,3,11,4,9:34 PM,0:37,Nelson Free Throw 1 of 2 (27 PTS),,,99 - 108,9
+0020501069,488,8,0,4,9:34 PM,0:37,SUB: Stevenson FOR Howard,,,,
+0020501069,489,3,12,4,9:34 PM,0:37,MISS Nelson Free Throw 2 of 2,,,,
+0020501069,490,4,0,4,9:34 PM,0:36,,,Nowitzki REBOUND (Off:4 Def:10),,
+0020501069,491,2,1,4,9:34 PM,0:28,,,MISS Terry 25' 3PT Jump Shot,,
+0020501069,492,4,0,4,9:34 PM,0:26,Turkoglu REBOUND (Off:0 Def:5),,,,
+0020501069,493,2,1,4,9:35 PM,0:03,MISS Stevenson 26' 3PT Jump Shot,,,,
+0020501069,494,4,0,4,9:35 PM,0:01,,,Nowitzki REBOUND (Off:4 Def:11),,
+0020501069,495,2,1,4,9:35 PM,0:00,,,MISS Nowitzki 74' 3PT Jump Shot,,
+0020501069,496,4,0,4,9:35 PM,0:00,,,Mavericks Rebound,,
+0020501069,497,13,0,4,9:35 PM,0:00,,,,99 - 108,9

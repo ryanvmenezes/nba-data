@@ -1,0 +1,403 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900065,0,12,0,1,4:00 AM,12:00,,,,,
+0020900065,1,10,0,1,8:15 PM,12:00,Jump Ball Jefferson vs. Perkins: Tip to Gomes,,,,
+0020900065,2,2,1,1,8:15 PM,11:44,MISS Brewer 13' Jump Shot,,,,
+0020900065,3,4,0,1,8:15 PM,11:43,,,Perkins REBOUND (Off:0 Def:1),,
+0020900065,4,1,1,1,8:16 PM,11:25,,,Allen 14' Jump Shot (2 PTS) (Rondo 1 AST),2 - 0,-2
+0020900065,5,2,1,1,8:16 PM,11:08,MISS Jefferson 18' Jump Shot,,,,
+0020900065,6,4,0,1,8:16 PM,11:07,,,Garnett REBOUND (Off:0 Def:1),,
+0020900065,7,5,1,1,8:16 PM,10:59,Brewer STEAL (1 STL),,Perkins Bad Pass Turnover (P1.T1),,
+0020900065,8,1,1,1,8:17 PM,10:53,Pecherov 16' Jump Shot (2 PTS) (Brewer 1 AST),,,2 - 2,TIE
+0020900065,9,1,63,1,8:17 PM,10:28,,,Pierce 12' Fadeaway Jumper (2 PTS),4 - 2,-2
+0020900065,10,2,1,1,8:17 PM,10:12,MISS Brewer 17' Jump Shot,,,,
+0020900065,12,4,0,1,8:17 PM,10:11,Flynn REBOUND (Off:1 Def:0),,,,
+0020900065,11,1,66,1,8:17 PM,10:10,Flynn 7' Jump Bank Shot (2 PTS),,,4 - 4,TIE
+0020900065,13,2,1,1,8:17 PM,9:55,,,MISS Garnett 22' Jump Shot,,
+0020900065,14,4,0,1,8:18 PM,9:54,,,Perkins REBOUND (Off:1 Def:1),,
+0020900065,15,1,5,1,8:18 PM,9:52,,,Perkins  Layup (2 PTS),6 - 4,-2
+0020900065,16,1,44,1,8:18 PM,9:28,Brewer  Reverse Layup (2 PTS) (Jefferson 1 AST),,,6 - 6,TIE
+0020900065,17,2,1,1,8:18 PM,9:19,,,MISS Rondo 17' Jump Shot,,
+0020900065,18,4,0,1,8:18 PM,9:18,Flynn REBOUND (Off:1 Def:1),,,,
+0020900065,19,1,1,1,8:19 PM,9:00,Jefferson 8' Jump Shot (2 PTS),,,6 - 8,2
+0020900065,20,6,2,1,8:19 PM,9:00,,,Rondo S.FOUL (P1.T1),,
+0020900065,21,3,10,1,8:19 PM,9:00,Jefferson Free Throw 1 of 1 (3 PTS),,,6 - 9,3
+0020900065,23,2,1,1,8:19 PM,8:44,,,MISS Allen  3PT Jump Shot,,
+0020900065,24,4,0,1,8:19 PM,8:43,Gomes REBOUND (Off:0 Def:1),,,,
+0020900065,25,2,1,1,8:20 PM,8:35,MISS Brewer 10' Jump Shot,,Perkins BLOCK (1 BLK),,
+0020900065,26,4,0,1,8:20 PM,8:34,,,Allen REBOUND (Off:0 Def:1),,
+0020900065,27,2,1,1,8:20 PM,8:25,,,MISS Garnett 9' Jump Shot,,
+0020900065,28,4,0,1,8:20 PM,8:25,Flynn REBOUND (Off:1 Def:2),,,,
+0020900065,29,2,1,1,8:20 PM,8:10,MISS Jefferson 13' Jump Shot,,,,
+0020900065,30,4,0,1,8:20 PM,8:09,Pecherov REBOUND (Off:1 Def:0),,,,
+0020900065,31,6,2,1,8:20 PM,8:08,,,Pierce S.FOUL (P1.T2),,
+0020900065,32,3,11,1,8:21 PM,8:08,Pecherov Free Throw 1 of 2 (3 PTS),,,6 - 10,4
+0020900065,33,3,12,1,8:21 PM,8:08,Pecherov Free Throw 2 of 2 (4 PTS),,,6 - 11,5
+0020900065,35,2,1,1,8:21 PM,7:58,,,MISS Pierce 5' Jump Shot,,
+0020900065,36,4,0,1,8:21 PM,7:57,Flynn REBOUND (Off:1 Def:3),,,,
+0020900065,37,1,1,1,8:21 PM,7:47,Jefferson 17' Jump Shot (5 PTS) (Brewer 2 AST),,,6 - 13,7
+0020900065,38,6,1,1,8:22 PM,7:35,Pecherov P.FOUL (P1.T1),,,,
+0020900065,40,1,1,1,8:22 PM,7:24,,,Garnett 22' Jump Shot (2 PTS) (Allen 1 AST),8 - 13,5
+0020900065,42,1,1,1,8:22 PM,7:02,Gomes 22' Jump Shot (2 PTS) (Pecherov 1 AST),,,8 - 15,7
+0020900065,43,1,7,1,8:23 PM,6:40,,,Perkins  Dunk (4 PTS) (Pierce 1 AST),10 - 15,5
+0020900065,44,2,1,1,8:23 PM,6:22,MISS Jefferson 12' Jump Shot,,,,
+0020900065,45,4,0,1,8:23 PM,6:21,,,Garnett REBOUND (Off:0 Def:2),,
+0020900065,46,1,5,1,8:23 PM,6:15,,,Allen  Layup (4 PTS),12 - 15,3
+0020900065,47,1,1,1,8:23 PM,5:56,Gomes 20' Jump Shot (4 PTS) (Jefferson 2 AST),,,12 - 17,5
+0020900065,48,1,5,1,8:24 PM,5:42,,,Perkins  Layup (6 PTS) (Pierce 2 AST),14 - 17,3
+0020900065,49,1,49,1,8:24 PM,5:32,Jefferson  Driving Dunk (7 PTS) (Flynn 1 AST),,,14 - 19,5
+0020900065,50,5,1,1,8:24 PM,5:19,Gomes STEAL (1 STL),,Garnett Bad Pass Turnover (P1.T2),,
+0020900065,51,5,4,1,8:24 PM,5:16,Brewer Traveling Turnover (P1.T1),,,,
+0020900065,53,9,1,1,8:24 PM,5:16,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,
+0020900065,54,2,46,1,8:28 PM,5:05,,,MISS Rondo 8' Running Jump Shot,,
+0020900065,55,4,0,1,8:28 PM,5:03,Pecherov REBOUND (Off:1 Def:1),,,,
+0020900065,56,1,80,1,8:28 PM,4:44,Flynn 15' Step Back Jump Shot (4 PTS),,,14 - 21,7
+0020900065,57,2,1,1,8:28 PM,4:31,,,MISS Pierce 16' Jump Shot,,
+0020900065,58,4,0,1,8:28 PM,4:29,TIMBERWOLVES Rebound,,,,
+0020900065,59,6,3,1,8:28 PM,4:27,,,Garnett L.B.FOUL (P1.T3),,
+0020900065,60,5,2,1,8:29 PM,4:06,Pecherov Lost Ball Turnover (P1.T2),,Garnett STEAL (1 STL),,
+0020900065,61,2,1,1,8:29 PM,4:00,,,MISS Allen 25' 3PT Jump Shot,,
+0020900065,62,4,0,1,8:29 PM,3:59,TIMBERWOLVES Rebound,,,,
+0020900065,63,2,1,1,8:29 PM,3:44,MISS Jefferson 10' Jump Shot,,,,
+0020900065,64,4,0,1,8:29 PM,3:43,,,Allen REBOUND (Off:0 Def:2),,
+0020900065,65,1,8,1,8:30 PM,3:32,,,Perkins  Slam Dunk (8 PTS) (Rondo 2 AST),16 - 21,5
+0020900065,66,2,1,1,8:30 PM,3:18,MISS Pecherov 26' 3PT Jump Shot,,,,
+0020900065,67,4,0,1,8:30 PM,3:18,,,Garnett REBOUND (Off:0 Def:3),,
+0020900065,68,2,1,1,8:30 PM,3:10,,,MISS Allen  3PT Jump Shot,,
+0020900065,69,4,0,1,8:30 PM,3:09,Jefferson REBOUND (Off:0 Def:1),,,,
+0020900065,70,1,1,1,8:30 PM,2:53,Gomes 18' Jump Shot (6 PTS) (Flynn 2 AST),,,16 - 23,7
+0020900065,71,6,1,1,8:30 PM,2:40,Gomes P.FOUL (P1.T2),,,,
+0020900065,72,9,1,1,8:31 PM,2:40,,,Celtics Timeout: Regular (Reg.1 Short 0),,
+0020900065,74,8,0,1,8:33 PM,2:40,,,SUB: Daniels FOR Allen,,
+0020900065,75,8,0,1,8:33 PM,2:40,SUB: Hollins FOR Pecherov,,,,
+0020900065,76,1,1,1,8:34 PM,2:30,,,Garnett 21' Jump Shot (4 PTS) (Pierce 3 AST),18 - 23,5
+0020900065,77,2,1,1,8:34 PM,2:07,MISS Hollins 14' Jump Shot,,,,
+0020900065,78,4,0,1,8:34 PM,2:06,Gomes REBOUND (Off:1 Def:1),,,,
+0020900065,94,5,11,1,8:34 PM,2:03,TIMBERWOLVES Turnover: Shot Clock (T#3),,,,
+0020900065,93,18,1,1,8:35 PM,2:03,,,,18 - 23,5
+0020900065,80,2,1,1,8:35 PM,1:35,,,MISS Garnett 22' Jump Shot,,
+0020900065,81,4,0,1,8:35 PM,1:34,Gomes REBOUND (Off:1 Def:2),,,,
+0020900065,82,1,46,1,8:35 PM,1:12,Jefferson 12' Running Jump Shot (9 PTS),,,18 - 25,7
+0020900065,83,1,42,1,8:35 PM,0:53,,,Daniels  Driving Layup (2 PTS),20 - 25,5
+0020900065,84,2,1,1,8:36 PM,0:37,MISS Brewer 7' Jump Shot,,,,
+0020900065,85,4,0,1,8:36 PM,0:36,,,Perkins REBOUND (Off:1 Def:2),,
+0020900065,86,1,42,1,8:36 PM,0:32,,,Daniels  Driving Layup (4 PTS) (Rondo 3 AST),22 - 25,3
+0020900065,87,1,47,1,8:36 PM,0:21,Jefferson 8' Turnaround Jump Shot (11 PTS) (Gomes 1 AST),,,22 - 27,5
+0020900065,88,2,1,1,8:37 PM,0:00,,,MISS Pierce 19' Jump Shot,,
+0020900065,89,4,0,1,8:37 PM,0:00,,,Celtics Rebound,,
+0020900065,91,13,0,1,8:37 PM,0:00,,,,22 - 27,5
+0020900065,180,12,0,2,8:40 PM,12:00,,,,22 - 27,5
+0020900065,99,6,17,2,8:41 PM,11:41,TIMBERWOLVES T.Foul (Def. 3 Sec Hollins ),,,,
+0020900065,100,3,16,2,8:41 PM,11:41,,,Pierce Free Throw Technical (3 PTS),23 - 27,4
+0020900065,219,2,45,2,8:41 PM,11:27,,,MISS Daniels 12' Jump Shot,,
+0020900065,220,4,0,2,8:41 PM,11:26,,,Celtics Rebound,,
+0020900065,103,5,11,2,8:41 PM,11:26,,,Celtics Turnover: Shot Clock (T#3),,
+0020900065,227,2,45,2,8:41 PM,11:14,MISS Cardinal 13' Jump Shot,,,,
+0020900065,228,4,0,2,8:41 PM,11:12,Hollins REBOUND (Off:1 Def:0),,,,
+0020900065,104,1,5,2,8:42 PM,11:10,Hollins  Layup (2 PTS),,,23 - 29,6
+0020900065,231,2,45,2,8:42 PM,10:41,,,MISS Wallace 25' 3PT Jump Shot,,
+0020900065,233,4,0,2,8:42 PM,10:40,,,Shel. Williams REBOUND (Off:1 Def:0),,
+0020900065,234,2,45,2,8:42 PM,10:38,,,MISS House 24' 3PT Jump Shot,,
+0020900065,235,4,0,2,8:42 PM,10:37,Wilkins REBOUND (Off:0 Def:1),,,,
+0020900065,105,1,1,2,8:42 PM,10:20,Cardinal 13' Jump Shot (2 PTS) (Hollins 1 AST),,,23 - 31,8
+0020900065,106,2,5,2,8:43 PM,9:58,Hollins BLOCK (1 BLK),,MISS Daniels  Layup,,
+0020900065,107,4,0,2,8:43 PM,9:58,,,Celtics Rebound,,
+0020900065,108,8,0,2,8:43 PM,9:58,,,SUB: Scalabrine FOR Pierce,,
+0020900065,109,6,2,2,8:43 PM,9:53,Wilkins S.FOUL (P1.T1),,,,
+0020900065,121,3,11,2,8:44 PM,9:53,,,Daniels Free Throw 1 of 2 (5 PTS),24 - 31,7
+0020900065,123,3,12,2,8:44 PM,9:53,,,MISS Daniels Free Throw 2 of 2,,
+0020900065,124,4,0,2,8:44 PM,9:52,Hollins REBOUND (Off:1 Def:1),,,,
+0020900065,126,2,5,2,8:44 PM,9:34,MISS Cardinal  Layup,,,,
+0020900065,127,4,0,2,8:44 PM,9:32,,,Wallace REBOUND (Off:0 Def:1),,
+0020900065,128,2,1,2,8:44 PM,9:30,,,MISS House 12' Jump Shot,,
+0020900065,129,4,0,2,8:44 PM,9:27,Sessions REBOUND (Off:0 Def:1),,,,
+0020900065,130,5,1,2,8:44 PM,9:25,Wilkins Bad Pass Turnover (P1.T4),,House STEAL (1 STL),,
+0020900065,131,5,1,2,8:44 PM,9:21,,,House Bad Pass Turnover (P1.T4),,
+0020900065,132,5,2,2,8:45 PM,9:09,Pavlovic Lost Ball Turnover (P1.T5),,Shel. Williams STEAL (1 STL),,
+0020900065,133,1,7,2,8:45 PM,8:52,,,Shel. Williams  Dunk (2 PTS) (Daniels 1 AST),26 - 31,5
+0020900065,134,2,1,2,8:45 PM,8:35,MISS Wilkins  3PT Jump Shot,,,,
+0020900065,135,4,0,2,8:45 PM,8:33,,,House REBOUND (Off:0 Def:1),,
+0020900065,136,6,2,2,8:46 PM,8:18,Hollins S.FOUL (P1.T2),,,,
+0020900065,137,9,4,2,8:46 PM,8:18,,,,,
+0020900065,148,3,11,2,8:49 PM,8:18,,,Shel. Williams Free Throw 1 of 2 (3 PTS),27 - 31,4
+0020900065,150,3,12,2,8:49 PM,8:18,,,Shel. Williams Free Throw 2 of 2 (4 PTS),28 - 31,3
+0020900065,152,2,1,2,8:49 PM,8:06,MISS Hollins 20' Jump Shot,,,,
+0020900065,153,4,0,2,8:49 PM,8:05,,,Daniels REBOUND (Off:0 Def:1),,
+0020900065,236,2,45,2,8:49 PM,7:48,,,MISS House 19' Jump Shot,,
+0020900065,237,4,0,2,8:49 PM,7:47,Hollins REBOUND (Off:1 Def:2),,,,
+0020900065,155,5,1,2,8:50 PM,7:33,Wilkins Bad Pass Turnover (P2.T6),,Daniels STEAL (1 STL),,
+0020900065,156,1,1,2,8:50 PM,7:24,,,Wallace 25' 3PT Jump Shot (3 PTS) (Daniels 2 AST),31 - 31,TIE
+0020900065,157,2,1,2,8:50 PM,7:04,MISS Pavlovic 24' 3PT Jump Shot,,,,
+0020900065,158,4,0,2,8:50 PM,7:03,TIMBERWOLVES Rebound,,,,
+0020900065,159,6,3,2,8:50 PM,7:03,,,Scalabrine L.B.FOUL (P1.T1),,
+0020900065,160,8,0,2,8:50 PM,7:03,SUB: Brewer FOR Wilkins,,,,
+0020900065,161,8,0,2,8:51 PM,7:03,SUB: Jefferson FOR Cardinal,,,,
+0020900065,162,1,42,2,8:51 PM,6:42,Pavlovic  Driving Layup (2 PTS),,,31 - 33,2
+0020900065,163,6,1,2,8:51 PM,6:31,Hollins P.FOUL (P2.T3),,,,
+0020900065,164,8,0,2,8:51 PM,6:31,,,SUB: Perkins FOR Shel. Williams,,
+0020900065,165,1,66,2,8:52 PM,6:23,,,Perkins 6' Jump Bank Shot (10 PTS),33 - 33,TIE
+0020900065,166,8,0,2,8:52 PM,6:08,,,SUB: Allen FOR Scalabrine,,
+0020900065,167,2,1,2,8:53 PM,5:58,MISS Jefferson 10' Jump Shot,,Perkins BLOCK (2 BLK),,
+0020900065,168,4,0,2,8:53 PM,5:57,,,Perkins REBOUND (Off:1 Def:3),,
+0020900065,169,2,1,2,8:53 PM,5:45,,,MISS Wallace 26' 3PT Jump Shot,,
+0020900065,170,4,0,2,8:53 PM,5:44,Pavlovic REBOUND (Off:0 Def:1),,,,
+0020900065,171,2,1,2,8:53 PM,5:31,MISS Brewer 18' Jump Shot,,,,
+0020900065,172,4,0,2,8:53 PM,5:30,,,Perkins REBOUND (Off:1 Def:4),,
+0020900065,174,2,1,2,8:53 PM,5:19,,,MISS House 21' Jump Shot,,
+0020900065,175,4,0,2,8:53 PM,5:17,Jefferson REBOUND (Off:0 Def:2),,,,
+0020900065,176,5,4,2,8:54 PM,5:07,Sessions Traveling Turnover (P1.T7),,,,
+0020900065,177,9,1,2,8:54 PM,5:07,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,
+0020900065,277,8,0,2,8:56 PM,5:07,,,SUB: Rondo FOR House,,
+0020900065,238,8,0,2,8:56 PM,5:07,SUB: Pecherov FOR Pavlovic,,,,
+0020900065,239,8,0,2,8:56 PM,5:07,SUB: Flynn FOR Sessions,,,,
+0020900065,240,8,0,2,8:56 PM,5:07,SUB: Gomes FOR Hollins,,,,
+0020900065,184,2,1,2,8:57 PM,4:50,,,MISS Allen 10' Jump Shot,,
+0020900065,185,4,0,2,8:57 PM,4:49,Jefferson REBOUND (Off:0 Def:3),,,,
+0020900065,186,1,78,2,8:57 PM,4:26,Flynn 12' Floating Jump Shot (6 PTS),,,33 - 35,2
+0020900065,187,1,5,2,8:57 PM,4:14,,,Rondo  Layup (2 PTS) (Allen 2 AST),35 - 35,TIE
+0020900065,188,1,1,2,8:57 PM,3:56,Flynn 25' 3PT Jump Shot (9 PTS) (Brewer 3 AST),,,35 - 38,3
+0020900065,189,1,1,2,8:58 PM,3:37,,,Allen 22' Jump Shot (6 PTS) (Perkins 1 AST),37 - 38,1
+0020900065,210,18,0,2,8:58 PM,3:37,,,,37 - 38,1
+0020900065,190,1,1,2,8:58 PM,3:22,Pecherov 21' Jump Shot (6 PTS) (Flynn 3 AST),,,37 - 40,3
+0020900065,191,6,2,2,8:58 PM,3:22,,,Wallace S.FOUL (P1.T2),,
+0020900065,192,8,0,2,8:58 PM,3:22,,,SUB: Garnett FOR Daniels,,
+0020900065,193,8,0,2,8:58 PM,3:22,,,SUB: Pierce FOR Wallace,,
+0020900065,194,3,10,2,8:58 PM,3:22,Pecherov Free Throw 1 of 1 (7 PTS),,,37 - 41,4
+0020900065,196,6,11,2,8:59 PM,3:17,,,Wallace T.FOUL (P1.T2),,
+0020900065,197,3,16,2,8:59 PM,3:17,Flynn Free Throw Technical (10 PTS),,,37 - 42,5
+0020900065,199,1,1,2,9:00 PM,3:05,,,Garnett 15' Jump Shot (6 PTS) (Rondo 4 AST),39 - 42,3
+0020900065,200,1,1,2,9:01 PM,2:47,Jefferson 18' Jump Shot (13 PTS) (Gomes 2 AST),,,39 - 44,5
+0020900065,201,2,1,2,9:01 PM,2:29,,,MISS Rondo 18' Jump Shot,,
+0020900065,202,4,0,2,9:01 PM,2:28,Brewer REBOUND (Off:0 Def:1),,,,
+0020900065,203,2,1,2,9:01 PM,2:18,MISS Gomes 12' Jump Shot,,,,
+0020900065,204,4,0,2,9:01 PM,2:18,,,Rondo REBOUND (Off:0 Def:1),,
+0020900065,205,2,1,2,9:01 PM,2:07,,,MISS Perkins 14' Jump Shot,,
+0020900065,206,4,0,2,9:01 PM,2:06,Gomes REBOUND (Off:1 Def:3),,,,
+0020900065,207,1,77,2,9:02 PM,1:45,Brewer 5' Driving Jump Shot (4 PTS),,,39 - 46,7
+0020900065,208,6,2,2,9:02 PM,1:45,,,Rondo S.FOUL (P2.T3),,
+0020900065,209,9,1,2,9:02 PM,1:45,,,Celtics Timeout: Regular (Reg.2 Short 0),,
+0020900065,212,3,10,2,9:05 PM,1:45,Brewer Free Throw 1 of 1 (5 PTS),,,39 - 47,8
+0020900065,215,6,1,2,9:05 PM,1:30,Jefferson P.FOUL (P1.T4),,,,
+0020900065,216,5,2,2,9:06 PM,1:25,Gomes STEAL (2 STL),,Pierce Lost Ball Turnover (P1.T5),,
+0020900065,217,5,40,2,9:06 PM,1:21,Flynn Out of Bounds Lost Ball Turnover (P1.T8),,,,
+0020900065,218,1,1,2,9:06 PM,1:04,,,Garnett 17' Jump Shot (8 PTS) (Rondo 5 AST),41 - 47,6
+0020900065,221,2,1,2,9:07 PM,0:42,MISS Pecherov 26' 3PT Jump Shot,,,,
+0020900065,222,4,0,2,9:07 PM,0:41,,,Perkins REBOUND (Off:1 Def:5),,
+0020900065,223,2,5,2,9:07 PM,0:27,,,MISS Rondo 2' Layup,,
+0020900065,224,4,0,2,9:07 PM,0:24,Gomes REBOUND (Off:1 Def:4),,,,
+0020900065,225,1,5,2,9:07 PM,0:15,Pecherov  Layup (9 PTS) (Flynn 4 AST),,,41 - 49,8
+0020900065,226,9,2,2,9:08 PM,0:07,,,Celtics Timeout: Short (Reg.2 Short 1),,
+0020900065,229,13,0,2,9:09 PM,0:00,,,,41 - 49,8
+0020900065,242,12,0,3,9:26 PM,12:00,,,,41 - 49,8
+0020900065,243,5,40,3,9:26 PM,11:50,,,Allen Out of Bounds Lost Ball Turnover (P1.T6),,
+0020900065,244,2,5,3,9:27 PM,11:35,MISS Pecherov  Layup,,Garnett BLOCK (1 BLK),,
+0020900065,245,4,0,3,9:27 PM,11:33,,,Perkins REBOUND (Off:1 Def:6),,
+0020900065,246,2,1,3,9:27 PM,11:25,,,MISS Rondo 14' Jump Shot,,
+0020900065,247,4,0,3,9:27 PM,11:23,TIMBERWOLVES Rebound,,,,
+0020900065,248,5,39,3,9:27 PM,11:08,Gomes Step Out of Bounds Turnover (P1.T9),,,,
+0020900065,249,2,1,3,9:28 PM,10:56,,,MISS Rondo 7' Jump Shot,,
+0020900065,251,4,0,3,9:28 PM,10:55,,,Garnett REBOUND (Off:1 Def:3),,
+0020900065,250,1,4,3,9:28 PM,10:55,,,Garnett  Tip Shot (10 PTS),43 - 49,6
+0020900065,252,1,1,3,9:28 PM,10:38,Pecherov 16' Jump Shot (11 PTS) (Jefferson 3 AST),,,43 - 51,8
+0020900065,253,6,2,3,9:29 PM,10:18,Flynn S.FOUL (P1.T1),,,,
+0020900065,254,3,11,3,9:29 PM,10:18,,,Pierce Free Throw 1 of 2 (4 PTS),44 - 51,7
+0020900065,256,3,12,3,9:29 PM,10:18,,,Pierce Free Throw 2 of 2 (5 PTS),45 - 51,6
+0020900065,258,1,46,3,9:29 PM,10:08,Brewer 17' Running Jump Shot (7 PTS),,,45 - 53,8
+0020900065,259,2,1,3,9:30 PM,9:54,,,MISS Pierce 15' Jump Shot,,
+0020900065,260,4,0,3,9:30 PM,9:54,Flynn REBOUND (Off:1 Def:4),,,,
+0020900065,261,1,1,3,9:30 PM,9:45,Jefferson 18' Jump Shot (15 PTS),,,45 - 55,10
+0020900065,262,6,17,3,9:30 PM,9:33,TIMBERWOLVES T.Foul (Def. 3 Sec Flynn ),,,,
+0020900065,263,3,16,3,9:30 PM,9:33,,,Allen Free Throw Technical (7 PTS),46 - 55,9
+0020900065,266,1,1,3,9:31 PM,9:26,,,Allen 16' Jump Shot (9 PTS),48 - 55,7
+0020900065,268,5,2,3,9:31 PM,9:05,Flynn Lost Ball Turnover (P2.T10),,Rondo STEAL (1 STL),,
+0020900065,269,1,42,3,9:31 PM,9:02,,,Rondo  Driving Layup (4 PTS),50 - 55,5
+0020900065,270,2,1,3,9:32 PM,8:34,MISS Jefferson 16' Jump Shot,,,,
+0020900065,271,4,0,3,9:32 PM,8:34,,,Garnett REBOUND (Off:1 Def:4),,
+0020900065,272,5,2,3,9:32 PM,8:22,Jefferson STEAL (1 STL),,Perkins Lost Ball Turnover (P2.T7),,
+0020900065,273,1,41,3,9:32 PM,8:12,Brewer  Running Layup (9 PTS),,,50 - 57,7
+0020900065,274,1,44,3,9:32 PM,7:48,,,Rondo  Reverse Layup (6 PTS) (Allen 3 AST),52 - 57,5
+0020900065,275,1,47,3,9:33 PM,7:28,Jefferson 11' Turnaround Jump Shot (17 PTS),,,52 - 59,7
+0020900065,276,1,63,3,9:33 PM,7:02,,,Pierce 12' Fadeaway Jumper (7 PTS),54 - 59,5
+0020900065,278,1,1,3,9:34 PM,6:43,Pecherov 24' 3PT Jump Shot (14 PTS) (Brewer 4 AST),,,54 - 62,8
+0020900065,279,2,1,3,9:34 PM,6:20,,,MISS Allen 24' 3PT Jump Shot,,
+0020900065,280,4,0,3,9:34 PM,6:19,,,Garnett REBOUND (Off:2 Def:4),,
+0020900065,281,2,1,3,9:34 PM,6:14,,,MISS Pierce 25' 3PT Jump Shot,,
+0020900065,282,4,0,3,9:34 PM,6:12,Pecherov REBOUND (Off:1 Def:2),,,,
+0020900065,283,5,2,3,9:34 PM,6:11,Pecherov Lost Ball Turnover (P2.T11),,Rondo STEAL (2 STL),,
+0020900065,284,1,42,3,9:34 PM,6:09,,,Allen  Driving Layup (11 PTS),56 - 62,6
+0020900065,285,7,1,3,9:34 PM,6:09,,,Celtics Violation: Delay of game Violation,,
+0020900065,287,2,1,3,9:34 PM,6:00,MISS Brewer 24' 3PT Jump Shot,,,,
+0020900065,288,4,0,3,9:35 PM,5:59,,,Celtics Rebound,,
+0020900065,289,9,1,3,9:35 PM,5:59,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,,,
+0020900065,290,10,0,3,9:38 PM,5:59,Jump Ball Jefferson vs. Pierce: Tip to Garnett,,,,
+0020900065,291,1,5,3,9:38 PM,5:49,,,Garnett  Layup (12 PTS) (Allen 4 AST),58 - 62,4
+0020900065,292,6,2,3,9:38 PM,5:33,,,Perkins S.FOUL (P1.T1),,
+0020900065,293,3,11,3,9:38 PM,5:33,MISS Jefferson Free Throw 1 of 2,,,,
+0020900065,294,4,1,3,9:38 PM,5:33,TIMBERWOLVES Rebound,,,,
+0020900065,295,8,0,3,9:39 PM,5:33,SUB: Hollins FOR Pecherov,,,,
+0020900065,296,3,12,3,9:39 PM,5:33,Jefferson Free Throw 2 of 2 (18 PTS),,,58 - 63,5
+0020900065,301,6,2,3,9:40 PM,5:22,Brewer S.FOUL (P1.T2),,,,
+0020900065,302,3,11,3,9:40 PM,5:22,,,Rondo Free Throw 1 of 2 (7 PTS),59 - 63,4
+0020900065,304,3,12,3,9:40 PM,5:22,,,Rondo Free Throw 2 of 2 (8 PTS),60 - 63,3
+0020900065,306,5,41,3,9:40 PM,5:07,Hollins Poss Lost Ball Turnover (P1.T12),,,,
+0020900065,307,2,1,3,9:41 PM,4:56,,,MISS Allen 25' 3PT Jump Shot,,
+0020900065,308,4,0,3,9:41 PM,4:56,Jefferson REBOUND (Off:0 Def:4),,,,
+0020900065,309,6,4,3,9:41 PM,4:45,Hollins OFF.Foul (P3),,,,
+0020900065,310,5,5,3,9:41 PM,4:45,Hollins Foul Turnover (P2.T13),,,,
+0020900065,311,5,8,3,9:42 PM,4:30,,,Rondo 3 Second Violation Turnover (P1.T8),,
+0020900065,312,1,1,3,9:42 PM,4:17,Hollins 15' Jump Shot (4 PTS) (Brewer 5 AST),,,60 - 65,5
+0020900065,313,2,1,3,9:42 PM,4:05,,,MISS Rondo 18' Jump Shot,,
+0020900065,314,4,0,3,9:42 PM,4:05,Gomes REBOUND (Off:1 Def:5),,,,
+0020900065,315,2,5,3,9:42 PM,4:01,MISS Flynn  Layup,,,,
+0020900065,316,4,0,3,9:42 PM,4:00,,,Garnett REBOUND (Off:2 Def:5),,
+0020900065,317,1,41,3,9:42 PM,3:54,,,Rondo  Running Layup (10 PTS),62 - 65,3
+0020900065,318,1,46,3,9:43 PM,3:38,Gomes 8' Running Jump Shot (8 PTS),,,62 - 67,5
+0020900065,319,2,1,3,9:43 PM,3:14,Hollins BLOCK (2 BLK),,MISS Garnett 10' Jump Shot,,
+0020900065,321,4,0,3,9:43 PM,3:12,,,Rondo REBOUND (Off:1 Def:1),,
+0020900065,320,1,5,3,9:43 PM,3:12,,,Rondo  Layup (12 PTS),64 - 67,3
+0020900065,322,2,5,3,9:43 PM,3:05,MISS Flynn  Layup,,Garnett BLOCK (2 BLK),,
+0020900065,323,4,0,3,9:43 PM,3:03,,,Perkins REBOUND (Off:1 Def:7),,
+0020900065,324,1,41,3,9:43 PM,3:00,,,Rondo  Running Layup (14 PTS) (Allen 5 AST),66 - 67,1
+0020900065,325,9,1,3,9:43 PM,2:59,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),,,,
+0020900065,327,8,0,3,9:46 PM,2:59,SUB: Cardinal FOR Jefferson,,,,
+0020900065,328,8,0,3,9:46 PM,2:59,SUB: Sessions FOR Flynn,,,,
+0020900065,329,6,2,3,9:46 PM,2:53,,,Pierce S.FOUL (P2.T2),,
+0020900065,330,3,11,3,9:46 PM,2:53,Gomes Free Throw 1 of 2 (9 PTS),,,66 - 68,2
+0020900065,332,3,12,3,9:47 PM,2:53,MISS Gomes Free Throw 2 of 2,,,,
+0020900065,334,4,0,3,9:47 PM,2:52,,,Garnett REBOUND (Off:2 Def:6),,
+0020900065,335,2,1,3,9:47 PM,2:36,,,MISS Allen 24' 3PT Jump Shot,,
+0020900065,336,4,0,3,9:47 PM,2:36,,,Rondo REBOUND (Off:2 Def:1),,
+0020900065,337,1,5,3,9:47 PM,2:34,,,Rondo  Layup (16 PTS),68 - 68,TIE
+0020900065,338,2,1,3,9:47 PM,2:18,MISS Brewer 17' Jump Shot,,,,
+0020900065,339,4,0,3,9:47 PM,2:18,Hollins REBOUND (Off:2 Def:2),,,,
+0020900065,340,2,4,3,9:47 PM,2:16,MISS Hollins  Tip Shot,,,,
+0020900065,341,4,0,3,9:48 PM,2:16,,,Garnett REBOUND (Off:2 Def:7),,
+0020900065,342,6,1,3,9:48 PM,2:16,Cardinal P.FOUL (P1.T3),,,,
+0020900065,343,8,0,3,9:48 PM,2:16,,,SUB: Wallace FOR Perkins,,
+0020900065,344,2,1,3,9:48 PM,2:00,,,MISS Garnett 18' Jump Shot,,
+0020900065,345,4,0,3,9:48 PM,2:00,Sessions REBOUND (Off:0 Def:2),,,,
+0020900065,346,1,5,3,9:48 PM,1:44,Brewer  Layup (11 PTS) (Cardinal 1 AST),,,68 - 70,2
+0020900065,347,6,1,3,9:49 PM,1:37,Cardinal P.FOUL (P2.T4),,,,
+0020900065,348,6,2,3,9:49 PM,1:25,Hollins S.FOUL (P4.PN),,,,
+0020900065,349,8,0,3,9:49 PM,1:25,,,SUB: House FOR Rondo,,
+0020900065,350,8,0,3,9:49 PM,1:25,,,SUB: Daniels FOR Allen,,
+0020900065,351,3,11,3,9:49 PM,1:25,,,Wallace Free Throw 1 of 2 (4 PTS),69 - 70,1
+0020900065,354,8,0,3,9:50 PM,1:25,SUB: Pecherov FOR Hollins,,,,
+0020900065,355,3,12,3,9:50 PM,1:25,,,MISS Wallace Free Throw 2 of 2,,
+0020900065,357,4,0,3,9:50 PM,1:24,Pecherov REBOUND (Off:1 Def:3),,,,
+0020900065,358,6,1,3,9:51 PM,1:09,,,Daniels P.FOUL (P1.T3),,
+0020900065,359,1,1,3,9:51 PM,1:02,Gomes 18' Jump Shot (11 PTS) (Sessions 1 AST),,,69 - 72,3
+0020900065,361,2,5,3,9:51 PM,0:43,,,MISS Pierce  Layup,,
+0020900065,362,4,0,3,9:51 PM,0:41,Pecherov REBOUND (Off:1 Def:4),,,,
+0020900065,363,5,1,3,9:52 PM,0:37,Sessions Bad Pass Turnover (P2.T14),,House STEAL (2 STL),,
+0020900065,364,2,1,3,9:52 PM,0:29,,,MISS House 19' Jump Shot,,
+0020900065,365,4,0,3,9:52 PM,0:28,Brewer REBOUND (Off:0 Def:2),,,,
+0020900065,366,2,1,3,9:52 PM,0:10,MISS Brewer 25' 3PT Jump Shot,,,,
+0020900065,367,4,0,3,9:52 PM,0:10,,,Wallace REBOUND (Off:0 Def:2),,
+0020900065,368,9,1,3,9:52 PM,0:08,,,Celtics Timeout: Regular (Reg.3 Short 1),,
+0020900065,371,8,0,3,9:55 PM,0:08,,,SUB: Rondo FOR Garnett,,
+0020900065,372,8,0,3,9:55 PM,0:08,,,SUB: Allen FOR Daniels,,
+0020900065,373,8,0,3,9:55 PM,0:08,SUB: Wilkins FOR Pecherov,,,,
+0020900065,374,1,1,3,9:55 PM,0:00,,,House  3PT Jump Shot (3 PTS) (Pierce 4 AST),72 - 72,TIE
+0020900065,377,18,0,3,9:56 PM,0:00,,,,72 - 72,TIE
+0020900065,378,13,0,3,9:57 PM,0:00,,,,72 - 72,TIE
+0020900065,380,12,0,4,9:58 PM,12:00,,,,72 - 72,TIE
+0020900065,382,1,1,4,9:59 PM,11:46,Sessions 20' Jump Shot (2 PTS),,,72 - 74,2
+0020900065,383,1,1,4,9:59 PM,11:25,,,Wallace  3PT Jump Shot (7 PTS) (House 1 AST),75 - 74,-1
+0020900065,384,1,1,4,10:00 PM,10:58,Sessions 21' Jump Shot (4 PTS) (Cardinal 2 AST),,,75 - 76,1
+0020900065,386,1,1,4,10:00 PM,10:33,,,Shel. Williams 18' Jump Shot (6 PTS) (Daniels 3 AST),77 - 76,-1
+0020900065,387,1,1,4,10:01 PM,10:18,Pecherov 21' Jump Shot (16 PTS),,,77 - 78,1
+0020900065,388,2,46,4,10:01 PM,9:58,,,MISS Daniels 7' Running Jump Shot,,
+0020900065,389,4,0,4,10:01 PM,9:58,Pavlovic REBOUND (Off:0 Def:2),,,,
+0020900065,390,6,1,4,10:01 PM,9:52,,,Daniels P.FOUL (P2.T1),,
+0020900065,391,2,1,4,10:01 PM,9:41,MISS Sessions 13' Jump Shot,,,,
+0020900065,392,4,0,4,10:01 PM,9:41,,,Wallace REBOUND (Off:0 Def:3),,
+0020900065,394,2,1,4,10:02 PM,9:35,,,MISS House 25' 3PT Jump Shot,,
+0020900065,395,4,0,4,10:02 PM,9:33,TIMBERWOLVES Rebound,,,,
+0020900065,396,6,2,4,10:02 PM,9:21,,,Wallace S.FOUL (P2.T2),,
+0020900065,397,3,11,4,10:02 PM,9:21,Pecherov Free Throw 1 of 2 (17 PTS),,,77 - 79,2
+0020900065,400,3,12,4,10:02 PM,9:21,Pecherov Free Throw 2 of 2 (18 PTS),,,77 - 80,3
+0020900065,403,1,1,4,10:03 PM,9:01,,,House  3PT Jump Shot (6 PTS) (Pierce 5 AST),80 - 80,TIE
+0020900065,404,5,1,4,10:03 PM,8:49,Pavlovic Bad Pass Turnover (P2.T15),,Daniels STEAL (2 STL),,
+0020900065,405,6,2,4,10:03 PM,8:45,Pecherov S.FOUL (P2.T1),,,,
+0020900065,406,9,4,4,10:03 PM,8:45,,,,,
+0020900065,407,3,11,4,10:06 PM,8:45,,,Daniels Free Throw 1 of 2 (6 PTS),81 - 80,-1
+0020900065,409,3,12,4,10:07 PM,8:45,,,MISS Daniels Free Throw 2 of 2,,
+0020900065,411,4,0,4,10:07 PM,8:44,Pavlovic REBOUND (Off:0 Def:3),,,,
+0020900065,412,1,1,4,10:07 PM,8:28,Pecherov 19' Jump Shot (20 PTS) (Sessions 2 AST),,,81 - 82,1
+0020900065,413,2,1,4,10:07 PM,8:09,,,MISS Wallace 25' 3PT Jump Shot,,
+0020900065,414,4,0,4,10:07 PM,8:08,Sessions REBOUND (Off:0 Def:3),,,,
+0020900065,415,6,4,4,10:07 PM,8:05,Sessions OFF.Foul (P1),,,,
+0020900065,416,5,5,4,10:07 PM,8:05,Sessions Foul Turnover (P3.T16),,,,
+0020900065,417,8,0,4,10:08 PM,8:05,,,SUB: Garnett FOR Shel. Williams,,
+0020900065,418,8,0,4,10:08 PM,8:05,SUB: Jefferson FOR Cardinal,,,,
+0020900065,419,8,0,4,10:08 PM,8:05,SUB: Brewer FOR Ellington,,,,
+0020900065,420,6,2,4,10:08 PM,7:53,Brewer S.FOUL (P2.T2),,,,
+0020900065,421,3,11,4,10:09 PM,7:53,,,MISS Daniels Free Throw 1 of 2,,
+0020900065,422,4,1,4,10:09 PM,7:53,,,Celtics Rebound,,
+0020900065,423,3,12,4,10:09 PM,7:53,,,MISS Daniels Free Throw 2 of 2,,
+0020900065,425,4,0,4,10:09 PM,7:51,Pecherov REBOUND (Off:1 Def:5),,,,
+0020900065,426,2,1,4,10:09 PM,7:35,MISS Brewer 21' Jump Shot,,,,
+0020900065,427,4,0,4,10:09 PM,7:35,,,Garnett REBOUND (Off:2 Def:8),,
+0020900065,428,2,80,4,10:09 PM,7:26,,,MISS Pierce 15' Step Back Jump Shot,,
+0020900065,429,4,0,4,10:09 PM,7:25,,,Wallace REBOUND (Off:1 Def:3),,
+0020900065,430,2,1,4,10:10 PM,7:09,,,MISS Wallace  3PT Jump Shot,,
+0020900065,431,4,0,4,10:10 PM,7:08,Sessions REBOUND (Off:0 Def:4),,,,
+0020900065,432,8,0,4,10:10 PM,7:02,,,SUB: Rondo FOR House,,
+0020900065,433,8,0,4,10:10 PM,7:02,,,SUB: Allen FOR Daniels,,
+0020900065,434,8,0,4,10:10 PM,7:02,SUB: Flynn FOR Sessions,,,,
+0020900065,435,2,1,4,10:11 PM,6:47,MISS Jefferson 19' Jump Shot,,,,
+0020900065,436,4,0,4,10:11 PM,6:46,Pavlovic REBOUND (Off:1 Def:3),,,,
+0020900065,437,1,4,4,10:11 PM,6:46,Pavlovic  Tip Shot (4 PTS),,,81 - 84,3
+0020900065,438,5,1,4,10:11 PM,6:29,Pecherov STEAL (1 STL),,Wallace Bad Pass Turnover (P1.T9),,
+0020900065,439,2,1,4,10:11 PM,6:11,MISS Jefferson 19' Jump Shot,,,,
+0020900065,440,4,0,4,10:11 PM,6:08,,,Rondo REBOUND (Off:2 Def:2),,
+0020900065,441,1,1,4,10:11 PM,6:02,,,Allen 24' 3PT Jump Shot (14 PTS) (Rondo 6 AST),84 - 84,TIE
+0020900065,442,5,40,4,10:12 PM,5:46,Jefferson Out of Bounds Lost Ball Turnover (P1.T17),,,,
+0020900065,443,9,1,4,10:12 PM,5:46,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),,,,
+0020900065,445,1,42,4,10:15 PM,5:34,,,Pierce  Driving Layup (9 PTS),86 - 84,-2
+0020900065,446,6,2,4,10:15 PM,5:34,Pecherov S.FOUL (P3.T3),,,,
+0020900065,447,8,0,4,10:15 PM,5:34,SUB: Gomes FOR Pavlovic,,,,
+0020900065,448,3,10,4,10:15 PM,5:34,,,Pierce Free Throw 1 of 1 (10 PTS),87 - 84,-3
+0020900065,450,1,42,4,10:16 PM,5:14,Brewer  Driving Layup (13 PTS),,,87 - 86,-1
+0020900065,451,2,1,4,10:16 PM,4:58,,,MISS Pierce 22' Jump Shot,,
+0020900065,452,4,0,4,10:16 PM,4:56,Brewer REBOUND (Off:0 Def:3),,,,
+0020900065,453,1,5,4,10:16 PM,4:37,Pecherov  Layup (22 PTS) (Gomes 3 AST),,,87 - 88,1
+0020900065,454,1,5,4,10:17 PM,4:18,,,Rondo  Layup (18 PTS) (Garnett 1 AST),89 - 88,-1
+0020900065,455,9,1,4,10:17 PM,4:15,TIMBERWOLVES Timeout: Regular (Full 6 Short 0),,,,
+0020900065,457,2,1,4,10:20 PM,3:56,MISS Brewer 17' Jump Shot,,,,
+0020900065,458,4,0,4,10:20 PM,3:55,,,Wallace REBOUND (Off:1 Def:4),,
+0020900065,459,2,1,4,10:20 PM,3:47,,,MISS Wallace 25' 3PT Jump Shot,,
+0020900065,460,4,0,4,10:20 PM,3:46,Gomes REBOUND (Off:1 Def:6),,,,
+0020900065,461,6,1,4,10:20 PM,3:42,,,Wallace P.FOUL (P3.T3),,
+0020900065,462,8,0,4,10:20 PM,3:42,,,SUB: Perkins FOR Wallace,,
+0020900065,463,2,1,4,10:21 PM,3:26,MISS Pecherov 24' 3PT Jump Shot,,,,
+0020900065,464,4,0,4,10:21 PM,3:25,,,Allen REBOUND (Off:0 Def:3),,
+0020900065,465,2,1,4,10:21 PM,3:04,,,MISS Garnett 20' Jump Shot,,
+0020900065,466,4,0,4,10:21 PM,3:03,,,Pierce REBOUND (Off:1 Def:0),,
+0020900065,467,6,1,4,10:21 PM,3:01,Brewer P.FOUL (P3.T4),,,,
+0020900065,468,1,5,4,10:22 PM,2:52,,,Perkins  Layup (12 PTS) (Garnett 2 AST),91 - 88,-3
+0020900065,469,5,2,4,10:22 PM,2:35,Jefferson Lost Ball Turnover (P2.T18),,Rondo STEAL (3 STL),,
+0020900065,470,5,1,4,10:23 PM,2:13,,,Rondo Bad Pass Turnover (P2.T10),,
+0020900065,471,2,46,4,10:23 PM,1:56,MISS Pecherov 12' Running Jump Shot,,Garnett BLOCK (3 BLK),,
+0020900065,472,4,0,4,10:23 PM,1:55,,,Pierce REBOUND (Off:1 Def:1),,
+0020900065,473,2,1,4,10:24 PM,1:32,,,MISS Garnett 21' Jump Shot,,
+0020900065,474,4,0,4,10:24 PM,1:31,,,Celtics Rebound,,
+0020900065,475,6,3,4,10:24 PM,1:31,Jefferson L.B.FOUL (P2.PN),,,,
+0020900065,476,3,11,4,10:24 PM,1:31,,,MISS Perkins Free Throw 1 of 2,,
+0020900065,477,4,1,4,10:24 PM,1:31,,,Celtics Rebound,,
+0020900065,478,3,12,4,10:24 PM,1:31,,,Perkins Free Throw 2 of 2 (13 PTS),92 - 88,-4
+0020900065,480,1,1,4,10:25 PM,1:14,Pecherov 17' Jump Shot (24 PTS) (Flynn 5 AST),,,92 - 90,-2
+0020900065,481,2,1,4,10:25 PM,0:57,,,MISS Rondo 16' Jump Shot,,
+0020900065,482,4,0,4,10:25 PM,0:57,Pecherov REBOUND (Off:1 Def:6),,,,
+0020900065,483,2,1,4,10:26 PM,0:41,MISS Gomes 24' 3PT Jump Shot,,,,
+0020900065,484,4,0,4,10:26 PM,0:41,,,Garnett REBOUND (Off:2 Def:9),,
+0020900065,485,9,1,4,10:26 PM,0:29,,,Celtics Timeout: Regular (Reg.4 Short 1),,
+0020900065,487,2,86,4,10:29 PM,0:18,,,MISS Pierce 11' Turnaround Fadeaway Shot,,
+0020900065,488,4,0,4,10:29 PM,0:17,Pecherov REBOUND (Off:1 Def:7),,,,
+0020900065,489,9,2,4,10:29 PM,0:10,TIMBERWOLVES Timeout: Short (Full 6 Short 1),,,,
+0020900065,490,6,1,4,10:30 PM,0:06,,,Rondo P.FOUL (P3.T4),,
+0020900065,491,10,0,4,10:31 PM,0:03,Jump Ball Brewer vs. Garnett: Tip to,,,,
+0020900065,492,8,0,4,10:32 PM,0:00,,,SUB: Wallace FOR Allen,,
+0020900065,493,2,1,4,10:32 PM,0:00,MISS Jefferson 25' 3PT Jump Shot,,Perkins BLOCK (3 BLK),,
+0020900065,494,4,0,4,10:32 PM,0:00,TIMBERWOLVES Rebound,,,,
+0020900065,495,13,0,4,10:33 PM,0:00,,,,92 - 90,-2

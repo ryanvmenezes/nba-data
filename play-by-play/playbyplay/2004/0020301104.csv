@@ -1,0 +1,413 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020301104,0,12,0,1,8:43 PM,12:00,,,,,
+0020301104,1,10,0,1,8:44 PM,12:00,Jump Ball Nowitzki vs. Stoudemire: Tip to Johnson,,,,
+0020301104,2,6,2,1,8:45 PM,11:44,Nowitzki S.FOUL (P1.T1),,,,
+0020301104,3,3,11,1,8:45 PM,11:44,,,Stoudemire Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0020301104,4,3,12,1,8:45 PM,11:44,,,Stoudemire Free Throw 2 of 2 (2 PTS),2 - 0,-2
+0020301104,5,2,1,1,8:45 PM,11:25,MISS Finley 18' Jump Shot,,,,
+0020301104,6,4,0,1,8:45 PM,11:22,,,Johnson REBOUND (Off:0 Def:1),,
+0020301104,7,5,1,1,8:45 PM,11:17,Daniels STEAL (1 STL),,Barbosa Bad Pass Turnover (P1.T1),,
+0020301104,8,1,8,1,8:46 PM,11:13,Daniels  Slam Dunk (2 PTS),,,2 - 2,TIE
+0020301104,9,1,1,1,8:46 PM,10:53,,,Marion  3PT Jump Shot (3 PTS) (Johnson 1 AST),5 - 2,-3
+0020301104,10,2,1,1,8:46 PM,10:38,MISS Nowitzki 19' Jump Shot,,,,
+0020301104,11,4,0,1,8:46 PM,10:36,,,Johnson REBOUND (Off:0 Def:2),,
+0020301104,12,5,1,1,8:46 PM,10:26,,,Stoudemire Bad Pass Turnover (P1.T2),,
+0020301104,13,6,1,1,8:47 PM,10:18,,,Barbosa P.FOUL (P1.T1),,
+0020301104,14,1,63,1,8:47 PM,10:06,Nash 10' Fadeaway Jumper (2 PTS) (Walker 1 AST),,,5 - 4,-1
+0020301104,15,1,1,1,8:48 PM,9:46,,,Barbosa 25' 3PT Jump Shot (3 PTS) (Johnson 2 AST),8 - 4,-4
+0020301104,16,1,1,1,8:48 PM,9:36,Nash 19' Jump Shot (4 PTS),,,8 - 6,-2
+0020301104,17,2,1,1,8:48 PM,9:20,,,MISS McDyess 14' Jump Shot,,
+0020301104,18,4,0,1,8:48 PM,9:18,Daniels REBOUND (Off:0 Def:1),,,,
+0020301104,19,6,1,1,8:48 PM,9:18,,,Barbosa P.FOUL (P2.T2),,
+0020301104,20,5,1,1,8:49 PM,8:58,Walker Bad Pass Turnover (P1.T1),,Marion STEAL (1 STL),,
+0020301104,21,1,1,1,8:49 PM,8:52,,,Marion 25' 3PT Jump Shot (6 PTS),11 - 6,-5
+0020301104,22,1,1,1,8:49 PM,8:34,Nowitzki 24' 3PT Jump Shot (3 PTS) (Finley 1 AST),,,11 - 9,-2
+0020301104,23,2,1,1,8:50 PM,8:07,,,MISS Barbosa 7' Jump Shot,,
+0020301104,24,4,0,1,8:50 PM,8:05,,,Stoudemire REBOUND (Off:1 Def:0),,
+0020301104,25,2,5,1,8:50 PM,8:01,Nowitzki BLOCK (1 BLK),,MISS Stoudemire  Layup,,
+0020301104,26,4,0,1,8:50 PM,8:00,Nowitzki REBOUND (Off:0 Def:1),,,,
+0020301104,27,2,1,1,8:50 PM,7:57,MISS Nash 25' 3PT Jump Shot,,,,
+0020301104,28,4,0,1,8:50 PM,7:56,Walker REBOUND (Off:1 Def:0),,,,
+0020301104,29,6,2,1,8:50 PM,7:56,,,McDyess S.FOUL (P1.T3),,
+0020301104,30,3,11,1,8:50 PM,7:56,Walker Free Throw 1 of 2 (1 PTS),,,11 - 10,-1
+0020301104,31,3,12,1,8:50 PM,7:56,MISS Walker Free Throw 2 of 2,,,,
+0020301104,32,4,0,1,8:50 PM,7:54,,,McDyess REBOUND (Off:0 Def:1),,
+0020301104,34,2,1,1,8:51 PM,7:41,,,MISS Stoudemire 6' Jump Shot,,
+0020301104,35,4,0,1,8:51 PM,7:40,,,Stoudemire REBOUND (Off:2 Def:0),,
+0020301104,36,6,2,1,8:51 PM,7:40,Daniels S.FOUL (P1.T2),,,,
+0020301104,37,3,11,1,8:51 PM,7:40,,,Stoudemire Free Throw 1 of 2 (3 PTS),12 - 10,-2
+0020301104,38,3,12,1,8:51 PM,7:40,,,MISS Stoudemire Free Throw 2 of 2,,
+0020301104,39,4,0,1,8:51 PM,7:38,Walker REBOUND (Off:1 Def:1),,,,
+0020301104,40,1,1,1,8:51 PM,7:26,Finley 12' Jump Shot (2 PTS) (Daniels 1 AST),,,12 - 12,TIE
+0020301104,42,2,1,1,8:52 PM,7:12,,,MISS Barbosa 25' 3PT Jump Shot,,
+0020301104,43,4,0,1,8:52 PM,7:10,Finley REBOUND (Off:0 Def:1),,,,
+0020301104,44,6,1,1,8:52 PM,7:10,,,McDyess P.FOUL (P2.T4),,
+0020301104,45,8,0,1,8:52 PM,7:10,,,SUB: Lampe FOR McDyess,,
+0020301104,46,8,0,1,8:52 PM,7:10,,,SUB: Jacobsen FOR Barbosa,,
+0020301104,47,2,1,1,8:52 PM,6:54,MISS Finley 5' Jump Shot,,,,
+0020301104,48,4,0,1,8:53 PM,6:52,,,Suns Rebound,,
+0020301104,49,1,1,1,8:53 PM,6:40,,,Lampe 19' Jump Shot (2 PTS) (Johnson 3 AST),14 - 12,-2
+0020301104,50,1,1,1,8:53 PM,6:29,Finley 25' 3PT Jump Shot (5 PTS) (Nash 1 AST),,,14 - 15,1
+0020301104,51,2,1,1,8:54 PM,6:07,,,MISS Johnson 4' Jump Shot,,
+0020301104,52,4,0,1,8:54 PM,6:05,Walker REBOUND (Off:1 Def:2),,,,
+0020301104,53,1,1,1,8:54 PM,5:57,Nowitzki 15' Jump Shot (5 PTS) (Nash 2 AST),,,14 - 17,3
+0020301104,54,9,1,1,8:54 PM,5:53,,,Suns Timeout: Regular (Reg.1 Short 0),,
+0020301104,58,2,1,1,8:56 PM,5:38,,,MISS Marion 10' Jump Shot,,
+0020301104,59,4,0,1,8:56 PM,5:35,,,Marion REBOUND (Off:1 Def:0),,
+0020301104,60,1,4,1,8:57 PM,5:33,,,Marion  Tip Shot (8 PTS),16 - 17,1
+0020301104,61,1,4,1,8:57 PM,5:29,Daniels  Tip Shot (4 PTS) (Nash 3 AST),,,16 - 19,3
+0020301104,62,9,2,1,8:57 PM,5:23,,,Suns Timeout: Short (Reg.1 Short 1),,
+0020301104,63,8,0,1,8:57 PM,5:23,,,SUB: Cabarkapa FOR Marion,,
+0020301104,66,5,13,1,8:58 PM,5:14,,,Stoudemire Backcourt Turnover (P2.T3),,
+0020301104,67,2,1,1,8:58 PM,5:10,MISS Finley 25' 3PT Jump Shot,,,,
+0020301104,68,4,0,1,8:58 PM,5:08,,,Lampe REBOUND (Off:0 Def:1),,
+0020301104,69,2,5,1,8:58 PM,4:57,,,MISS Jacobsen 3' Layup,,
+0020301104,71,4,0,1,8:58 PM,4:54,,,Lampe REBOUND (Off:1 Def:1),,
+0020301104,70,2,5,1,8:58 PM,4:54,,,MISS Lampe  Layup,,
+0020301104,72,4,0,1,8:59 PM,4:53,Nowitzki REBOUND (Off:0 Def:2),,,,
+0020301104,73,2,1,1,8:59 PM,4:46,MISS Nash 24' 3PT Jump Shot,,,,
+0020301104,74,4,0,1,8:59 PM,4:44,Daniels REBOUND (Off:1 Def:1),,,,
+0020301104,75,2,1,1,8:59 PM,4:38,MISS Nowitzki 24' 3PT Jump Shot,,,,
+0020301104,77,4,0,1,8:59 PM,4:36,Finley REBOUND (Off:1 Def:1),,,,
+0020301104,76,2,5,1,8:59 PM,4:36,MISS Finley  Layup,,,,
+0020301104,78,4,0,1,8:59 PM,4:35,,,Cabarkapa REBOUND (Off:0 Def:1),,
+0020301104,79,5,4,1,8:59 PM,4:35,,,Cabarkapa Traveling Turnover (P1.T4),,
+0020301104,80,2,1,1,8:59 PM,4:22,MISS Finley 17' Jump Shot,,,,
+0020301104,81,4,0,1,8:59 PM,4:21,,,Johnson REBOUND (Off:0 Def:3),,
+0020301104,83,1,5,1,8:59 PM,4:12,,,Stoudemire  Layup (5 PTS),18 - 19,1
+0020301104,84,6,2,1,9:00 PM,4:12,Walker S.FOUL (P1.T3),,,,
+0020301104,85,3,10,1,9:00 PM,4:12,,,MISS Stoudemire Free Throw 1 of 1,,
+0020301104,86,4,0,1,9:00 PM,4:11,Daniels REBOUND (Off:1 Def:2),,,,
+0020301104,87,1,42,1,9:00 PM,4:07,Nowitzki  Driving Layup (7 PTS) (Nash 4 AST),,,18 - 21,3
+0020301104,88,6,2,1,9:00 PM,4:07,,,Lampe S.FOUL (P1.PN),,
+0020301104,89,3,10,1,9:00 PM,4:07,Nowitzki Free Throw 1 of 1 (8 PTS),,,18 - 22,4
+0020301104,90,2,1,1,9:01 PM,3:52,,,MISS Stoudemire 16' Jump Shot,,
+0020301104,91,4,0,1,9:01 PM,3:49,,,Jacobsen REBOUND (Off:1 Def:0),,
+0020301104,92,1,1,1,9:01 PM,3:41,,,Johnson 24' 3PT Jump Shot (3 PTS) (Jacobsen 1 AST),21 - 22,1
+0020301104,93,5,13,1,9:01 PM,3:31,Nash Backcourt Turnover (P1.T2),,,,
+0020301104,94,2,1,1,9:01 PM,3:24,,,MISS Stoudemire 6' Jump Shot,,
+0020301104,95,4,0,1,9:01 PM,3:22,,,Lampe REBOUND (Off:2 Def:1),,
+0020301104,96,1,1,1,9:01 PM,3:20,,,Lampe 5' Jump Shot (4 PTS),23 - 22,-1
+0020301104,97,1,5,1,9:02 PM,3:07,Walker  Layup (3 PTS) (Nowitzki 1 AST),,,23 - 24,1
+0020301104,98,1,8,1,9:02 PM,2:55,,,Stoudemire  Slam Dunk (7 PTS) (Johnson 4 AST),25 - 24,-1
+0020301104,99,2,1,1,9:02 PM,2:40,MISS Nowitzki 24' 3PT Jump Shot,,,,
+0020301104,100,4,0,1,9:02 PM,2:38,Walker REBOUND (Off:2 Def:2),,,,
+0020301104,101,1,65,1,9:02 PM,2:33,Walker 5' Jump Hook Shot (5 PTS),,,25 - 26,1
+0020301104,102,1,5,1,9:03 PM,2:16,,,Johnson  Layup (5 PTS),27 - 26,-1
+0020301104,103,6,2,1,9:03 PM,2:16,Nowitzki S.FOUL (P2.T4),,,,
+0020301104,104,9,1,1,9:03 PM,2:16,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,
+0020301104,105,8,0,1,9:04 PM,2:16,SUB: Jamison FOR Nowitzki,,,,
+0020301104,107,3,10,1,9:05 PM,2:16,,,Johnson Free Throw 1 of 1 (6 PTS),28 - 26,-2
+0020301104,108,2,1,1,9:05 PM,1:59,MISS Daniels 26' 3PT Jump Shot,,,,
+0020301104,109,4,0,1,9:06 PM,1:57,,,Lampe REBOUND (Off:2 Def:2),,
+0020301104,110,2,1,1,9:06 PM,1:45,,,MISS Jacobsen 21' Jump Shot,,
+0020301104,111,4,0,1,9:06 PM,1:43,,,Stoudemire REBOUND (Off:3 Def:0),,
+0020301104,112,2,5,1,9:06 PM,1:42,,,MISS Stoudemire  Layup,,
+0020301104,113,4,0,1,9:06 PM,1:41,Walker REBOUND (Off:2 Def:3),,,,
+0020301104,114,1,1,1,9:06 PM,1:29,Finley 24' 3PT Jump Shot (8 PTS) (Walker 2 AST),,,28 - 29,1
+0020301104,115,2,1,1,9:06 PM,1:09,,,MISS Jacobsen 24' 3PT Jump Shot,,
+0020301104,116,4,0,1,9:06 PM,1:07,,,Cabarkapa REBOUND (Off:1 Def:1),,
+0020301104,117,2,1,1,9:06 PM,1:01,,,MISS Johnson 17' Jump Shot,,
+0020301104,118,4,0,1,9:07 PM,0:58,Jamison REBOUND (Off:0 Def:1),,,,
+0020301104,119,2,1,1,9:07 PM,0:53,MISS Nash 21' Jump Shot,,,,
+0020301104,120,4,0,1,9:07 PM,0:49,,,Johnson REBOUND (Off:0 Def:4),,
+0020301104,121,1,5,1,9:07 PM,0:49,,,Lampe  Layup (6 PTS) (Johnson 5 AST),30 - 29,-1
+0020301104,122,6,1,1,9:07 PM,0:43,,,Lampe P.FOUL (P2.PN),,
+0020301104,123,3,11,1,9:07 PM,0:43,Jamison Free Throw 1 of 2 (1 PTS),,,30 - 30,TIE
+0020301104,124,8,0,1,9:07 PM,0:43,SUB: Howard FOR Nash,,,,
+0020301104,125,3,12,1,9:08 PM,0:43,Jamison Free Throw 2 of 2 (2 PTS),,,30 - 31,1
+0020301104,126,1,5,1,9:08 PM,0:35,,,Johnson  Layup (8 PTS),32 - 31,-1
+0020301104,127,5,1,1,9:08 PM,0:25,Howard Bad Pass Turnover (P1.T3),,Johnson STEAL (1 STL),,
+0020301104,129,2,1,1,9:08 PM,0:00,,,MISS Jacobsen 24' 3PT Jump Shot,,
+0020301104,130,4,0,1,9:09 PM,0:00,Daniels REBOUND (Off:1 Def:3),,,,
+0020301104,131,13,0,1,9:09 PM,0:00,,,,32 - 31,-1
+0020301104,133,12,0,2,9:11 PM,12:00,,,,32 - 31,-1
+0020301104,134,1,65,2,9:12 PM,11:47,Finley 6' Jump Hook Shot (10 PTS),,,32 - 33,1
+0020301104,135,2,5,2,9:12 PM,11:29,Howard BLOCK (1 BLK),,MISS Stoudemire  Layup,,
+0020301104,136,4,0,2,9:12 PM,11:27,Howard REBOUND (Off:0 Def:1),,,,
+0020301104,137,2,1,2,9:12 PM,11:20,MISS Finley 26' 3PT Jump Shot,,,,
+0020301104,138,4,0,2,9:12 PM,11:20,,,Suns Rebound,,
+0020301104,139,6,1,2,9:13 PM,11:09,Finley P.FOUL (P1.T1),,,,
+0020301104,140,8,0,2,9:13 PM,11:09,,,SUB: Barbosa FOR Johnson,,
+0020301104,141,1,1,2,9:13 PM,10:58,,,Marion 11' Jump Shot (10 PTS),34 - 33,-1
+0020301104,142,1,1,2,9:13 PM,10:39,Finley 16' Jump Shot (12 PTS) (Daniels 2 AST),,,34 - 35,1
+0020301104,143,2,47,2,9:14 PM,10:11,,,MISS Marion 11' Turnaround Jump Shot,,
+0020301104,144,4,0,2,9:14 PM,10:09,Howard REBOUND (Off:0 Def:2),,,,
+0020301104,145,5,1,2,9:14 PM,9:55,Finley Bad Pass Turnover (P1.T4),,,,
+0020301104,146,6,1,2,9:15 PM,9:39,Howard P.FOUL (P1.T2),,,,
+0020301104,147,8,0,2,9:15 PM,9:39,,,SUB: McDyess FOR Cabarkapa,,
+0020301104,148,2,1,2,9:15 PM,9:25,,,MISS McDyess 15' Jump Shot,,
+0020301104,150,4,0,2,9:15 PM,9:22,,,Stoudemire REBOUND (Off:4 Def:0),,
+0020301104,149,2,5,2,9:15 PM,9:22,,,MISS Stoudemire  Layup,,
+0020301104,151,4,0,2,9:15 PM,9:21,Howard REBOUND (Off:0 Def:3),,,,
+0020301104,152,5,40,2,9:15 PM,9:21,Howard Out of Bounds Lost Ball Turnover (P2.T5),,,,
+0020301104,153,2,1,2,9:16 PM,8:59,,,MISS Barbosa 13' Jump Shot,,
+0020301104,154,4,0,2,9:16 PM,8:58,,,Barbosa REBOUND (Off:1 Def:0),,
+0020301104,155,5,1,2,9:16 PM,8:56,Finley STEAL (1 STL),,Barbosa Bad Pass Turnover (P2.T5),,
+0020301104,156,1,8,2,9:16 PM,8:49,Daniels  Slam Dunk (6 PTS) (Finley 2 AST),,,34 - 37,3
+0020301104,157,1,5,2,9:17 PM,8:24,,,McDyess  Layup (2 PTS) (Jacobsen 2 AST),36 - 37,1
+0020301104,158,1,1,2,9:17 PM,8:09,Howard 17' Jump Shot (2 PTS) (Walker 3 AST),,,36 - 39,3
+0020301104,159,5,41,2,9:17 PM,7:56,,,Stoudemire Poss Lost Ball Turnover (P3.T6),,
+0020301104,160,9,4,2,9:17 PM,7:56,,,,,
+0020301104,162,8,0,2,9:19 PM,7:56,SUB: Nash FOR Daniels,,,,
+0020301104,163,8,0,2,9:19 PM,7:56,,,SUB: Harvey FOR Stoudemire,,
+0020301104,164,1,1,2,9:19 PM,7:47,Finley 10' Jump Shot (14 PTS) (Walker 4 AST),,,36 - 41,5
+0020301104,165,2,5,2,9:20 PM,7:24,Walker BLOCK (1 BLK),,MISS Barbosa  Layup,,
+0020301104,166,4,0,2,9:20 PM,7:22,Jamison REBOUND (Off:0 Def:2),,,,
+0020301104,167,5,1,2,9:20 PM,7:22,Jamison Bad Pass Turnover (P1.T6),,,,
+0020301104,168,8,0,2,9:20 PM,7:22,,,SUB: Johnson FOR Jacobsen,,
+0020301104,169,1,5,2,9:20 PM,7:21,,,Barbosa  Layup (5 PTS) (Marion 1 AST),38 - 41,3
+0020301104,170,6,2,2,9:20 PM,7:21,Walker S.FOUL (P2.T3),,,,
+0020301104,171,3,10,2,9:20 PM,7:21,,,Barbosa Free Throw 1 of 1 (6 PTS),39 - 41,2
+0020301104,174,6,1,2,9:21 PM,7:13,,,Harvey P.FOUL (P1.T1),,
+0020301104,175,5,1,2,9:21 PM,7:02,Walker Bad Pass Turnover (P2.T7),,,,
+0020301104,176,2,1,2,9:22 PM,6:46,,,MISS Marion 14' Jump Shot,,
+0020301104,177,4,0,2,9:22 PM,6:44,Walker REBOUND (Off:2 Def:4),,,,
+0020301104,178,1,1,2,9:22 PM,6:30,Walker 12' Jump Shot (7 PTS) (Nash 5 AST),,,39 - 43,4
+0020301104,179,2,1,2,9:22 PM,6:14,,,MISS McDyess 18' Jump Shot,,
+0020301104,180,4,0,2,9:22 PM,6:12,Howard REBOUND (Off:0 Def:4),,,,
+0020301104,181,2,1,2,9:23 PM,5:59,MISS Walker 25' 3PT Jump Shot,,,,
+0020301104,182,4,0,2,9:23 PM,5:57,,,Marion REBOUND (Off:1 Def:1),,
+0020301104,183,2,1,2,9:23 PM,5:46,,,MISS Harvey 7' Jump Shot,,
+0020301104,184,4,0,2,9:23 PM,5:43,,,McDyess REBOUND (Off:1 Def:1),,
+0020301104,185,2,1,2,9:23 PM,5:33,,,MISS Harvey 9' Jump Shot,,
+0020301104,186,4,0,2,9:23 PM,5:32,Walker REBOUND (Off:2 Def:5),,,,
+0020301104,187,1,42,2,9:23 PM,5:27,Jamison  Driving Layup (4 PTS) (Nash 6 AST),,,39 - 45,6
+0020301104,188,6,2,2,9:24 PM,5:05,Howard S.FOUL (P2.T4),,,,
+0020301104,189,9,1,2,9:24 PM,5:05,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,
+0020301104,190,8,0,2,9:26 PM,5:05,SUB: Najera FOR Finley,,,,
+0020301104,191,8,0,2,9:26 PM,5:05,SUB: Nowitzki FOR Walker,,,,
+0020301104,195,3,13,2,9:26 PM,5:05,,,Johnson Free Throw 1 of 3 (9 PTS),40 - 45,5
+0020301104,196,3,14,2,9:26 PM,5:05,,,Johnson Free Throw 2 of 3 (10 PTS),41 - 45,4
+0020301104,197,3,15,2,9:27 PM,5:05,,,Johnson Free Throw 3 of 3 (11 PTS),42 - 45,3
+0020301104,198,6,4,2,9:27 PM,4:54,Nash OFF.Foul (P1),,,,
+0020301104,199,5,5,2,9:27 PM,4:54,Nash Foul Turnover (P2.T8),,,,
+0020301104,201,2,1,2,9:27 PM,4:39,,,MISS Marion 19' Jump Shot,,
+0020301104,202,4,0,2,9:27 PM,4:38,MAVERICKS Rebound,,,,
+0020301104,203,1,1,2,9:28 PM,4:21,Jamison 6' Jump Shot (6 PTS),,,42 - 47,5
+0020301104,204,1,5,2,9:28 PM,4:08,,,Harvey  Layup (2 PTS) (Marion 2 AST),44 - 47,3
+0020301104,205,7,1,2,9:28 PM,4:06,,,Suns Violation: Delay of game Violation,,
+0020301104,206,1,1,2,9:29 PM,3:51,Nash 25' 3PT Jump Shot (7 PTS) (Nowitzki 2 AST),,,44 - 50,6
+0020301104,207,5,1,2,9:29 PM,3:32,Jamison STEAL (1 STL),,McDyess Bad Pass Turnover (P1.T7),,
+0020301104,208,6,3,2,9:29 PM,3:32,,,McDyess L.B.FOUL (P3.T2),,
+0020301104,209,8,0,2,9:29 PM,3:32,,,SUB: Stoudemire FOR McDyess,,
+0020301104,210,6,2,2,9:29 PM,3:24,,,Marion S.FOUL (P1.T3),,
+0020301104,211,3,11,2,9:30 PM,3:24,Nowitzki Free Throw 1 of 2 (9 PTS),,,44 - 51,7
+0020301104,212,3,12,2,9:30 PM,3:24,Nowitzki Free Throw 2 of 2 (10 PTS),,,44 - 52,8
+0020301104,214,6,1,2,9:30 PM,3:11,Najera P.FOUL (P1.PN),,,,
+0020301104,215,3,11,2,9:31 PM,3:11,,,Stoudemire Free Throw 1 of 2 (8 PTS),45 - 52,7
+0020301104,216,3,12,2,9:31 PM,3:11,,,Stoudemire Free Throw 2 of 2 (9 PTS),46 - 52,6
+0020301104,217,6,2,2,9:31 PM,2:56,,,Harvey S.FOUL (P2.T4),,
+0020301104,218,9,1,2,9:31 PM,2:56,,,Suns Timeout: Regular (Reg.2 Short 1),,
+0020301104,222,3,11,2,9:34 PM,2:56,Howard Free Throw 1 of 2 (3 PTS),,,46 - 53,7
+0020301104,223,3,12,2,9:34 PM,2:56,MISS Howard Free Throw 2 of 2,,,,
+0020301104,224,4,0,2,9:34 PM,2:54,,,Marion REBOUND (Off:1 Def:2),,
+0020301104,225,1,1,2,9:34 PM,2:38,,,Barbosa 25' 3PT Jump Shot (9 PTS),49 - 53,4
+0020301104,227,7,2,2,9:35 PM,2:27,,,Stoudemire Violation:Defensive Goaltending,,
+0020301104,226,1,1,2,9:35 PM,2:27,Jamison 5' Jump Shot (8 PTS) (Howard 1 AST),,,49 - 55,6
+0020301104,228,1,42,2,9:35 PM,2:15,,,Marion  Driving Layup (12 PTS),51 - 55,4
+0020301104,229,2,1,2,9:35 PM,2:01,MISS Jamison 7' Jump Shot,,,,
+0020301104,230,4,0,2,9:35 PM,1:59,Howard REBOUND (Off:1 Def:4),,,,
+0020301104,231,1,4,2,9:35 PM,1:56,Howard  Tip Shot (5 PTS),,,51 - 57,6
+0020301104,233,5,1,2,9:35 PM,1:47,Najera STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T8),,
+0020301104,234,1,1,2,9:36 PM,1:41,Nowitzki 13' Jump Shot (12 PTS) (Howard 2 AST),,,51 - 59,8
+0020301104,235,2,1,2,9:36 PM,1:17,,,MISS Marion 25' 3PT Jump Shot,,
+0020301104,236,4,0,2,9:36 PM,1:14,Howard REBOUND (Off:1 Def:5),,,,
+0020301104,237,1,1,2,9:36 PM,1:03,Nowitzki 13' Jump Shot (14 PTS),,,51 - 61,10
+0020301104,238,9,1,2,9:36 PM,1:01,,,Suns Timeout: Regular (Reg.3 Short 1),,
+0020301104,242,8,0,2,9:38 PM,1:01,SUB: Finley FOR Nowitzki,,,,
+0020301104,243,1,8,2,9:39 PM,0:41,,,Harvey  Slam Dunk (4 PTS) (Marion 3 AST),53 - 61,8
+0020301104,244,1,1,2,9:39 PM,0:28,Jamison 7' Jump Shot (10 PTS) (Nash 7 AST),,,53 - 63,10
+0020301104,245,2,5,2,9:39 PM,0:18,,,MISS Harvey  Layup,,
+0020301104,246,4,0,2,9:39 PM,0:18,Jamison REBOUND (Off:0 Def:3),,,,
+0020301104,247,6,3,2,9:39 PM,0:18,,,Stoudemire L.B.FOUL (P1.PN),,
+0020301104,248,3,11,2,9:39 PM,0:18,Jamison Free Throw 1 of 2 (11 PTS),,,53 - 64,11
+0020301104,249,3,12,2,9:40 PM,0:18,Jamison Free Throw 2 of 2 (12 PTS),,,53 - 65,12
+0020301104,250,2,1,2,9:40 PM,0:02,,,MISS Johnson 26' 3PT Jump Shot,,
+0020301104,251,4,0,2,9:40 PM,0:00,,,Stoudemire REBOUND (Off:5 Def:0),,
+0020301104,252,13,0,2,9:40 PM,0:00,,,,53 - 65,12
+0020301104,254,12,0,3,9:58 PM,12:00,,,,53 - 65,12
+0020301104,255,2,1,3,9:58 PM,11:46,MISS Walker 25' 3PT Jump Shot,,,,
+0020301104,256,4,0,3,9:58 PM,11:44,,,Johnson REBOUND (Off:0 Def:5),,
+0020301104,257,6,4,3,9:59 PM,11:33,,,Stoudemire OFF.Foul (P2),,
+0020301104,258,5,5,3,9:59 PM,11:33,,,Stoudemire Foul Turnover (P4.T9),,
+0020301104,259,5,40,3,9:59 PM,11:19,Nowitzki Out of Bounds Lost Ball Turnover (P1.T9),,,,
+0020301104,260,7,1,3,9:59 PM,11:19,MAVERICKS Violation: Delay of game Violation,,,,
+0020301104,261,5,8,3,10:00 PM,11:03,,,Stoudemire 3 Second Violation Turnover (P5.T10),,
+0020301104,262,2,1,3,10:00 PM,10:53,MISS Nash 20' Jump Shot,,,,
+0020301104,263,4,0,3,10:00 PM,10:51,,,McDyess REBOUND (Off:1 Def:2),,
+0020301104,264,2,1,3,10:00 PM,10:46,,,MISS Barbosa 14' Jump Shot,,
+0020301104,265,4,0,3,10:00 PM,10:44,Nowitzki REBOUND (Off:0 Def:3),,,,
+0020301104,266,6,1,3,10:00 PM,10:38,,,Barbosa P.FOUL (P3.T1),,
+0020301104,267,2,1,3,10:00 PM,10:33,MISS Nowitzki 15' Jump Shot,,,,
+0020301104,268,4,0,3,10:01 PM,10:31,Walker REBOUND (Off:3 Def:5),,,,
+0020301104,269,5,4,3,10:01 PM,10:31,Walker Traveling Turnover (P3.T10),,,,
+0020301104,270,2,1,3,10:01 PM,10:11,,,MISS Marion 25' 3PT Jump Shot,,
+0020301104,271,4,0,3,10:01 PM,10:08,Finley REBOUND (Off:1 Def:2),,,,
+0020301104,272,1,5,3,10:02 PM,9:47,Walker  Layup (9 PTS) (Nash 8 AST),,,53 - 67,14
+0020301104,273,1,1,3,10:02 PM,9:38,,,Marion 6' Jump Shot (14 PTS),55 - 67,12
+0020301104,274,1,1,3,10:02 PM,9:28,Nowitzki 15' Jump Shot (16 PTS) (Nash 9 AST),,,55 - 69,14
+0020301104,275,1,1,3,10:02 PM,9:17,,,McDyess 10' Jump Shot (4 PTS) (Johnson 6 AST),57 - 69,12
+0020301104,276,1,1,3,10:02 PM,9:06,Nowitzki 16' Jump Shot (18 PTS) (Nash 10 AST),,,57 - 71,14
+0020301104,277,1,1,3,10:03 PM,8:43,,,Marion 16' Jump Shot (16 PTS) (Barbosa 1 AST),59 - 71,12
+0020301104,278,2,1,3,10:03 PM,8:28,MISS Nash 13' Jump Shot,,,,
+0020301104,279,4,0,3,10:03 PM,8:26,,,Johnson REBOUND (Off:0 Def:6),,
+0020301104,280,1,1,3,10:03 PM,8:19,,,Barbosa 25' 3PT Jump Shot (12 PTS) (Johnson 7 AST),62 - 71,9
+0020301104,281,1,1,3,10:04 PM,7:55,Finley  3PT Jump Shot (17 PTS) (Nowitzki 3 AST),,,62 - 74,12
+0020301104,282,2,1,3,10:04 PM,7:31,,,MISS Barbosa 25' 3PT Jump Shot,,
+0020301104,283,4,0,3,10:04 PM,7:30,Nowitzki REBOUND (Off:0 Def:4),,,,
+0020301104,284,2,1,3,10:04 PM,7:19,MISS Finley 24' 3PT Jump Shot,,,,
+0020301104,285,4,0,3,10:04 PM,7:17,,,Marion REBOUND (Off:1 Def:3),,
+0020301104,286,1,1,3,10:04 PM,7:10,,,Marion 9' Jump Shot (18 PTS),64 - 74,10
+0020301104,287,1,42,3,10:05 PM,6:51,Nash  Driving Layup (9 PTS),,,64 - 76,12
+0020301104,288,6,2,3,10:05 PM,6:37,Walker S.FOUL (P3.T1),,,,
+0020301104,289,3,11,3,10:05 PM,6:37,,,MISS Stoudemire Free Throw 1 of 2,,
+0020301104,290,4,1,3,10:05 PM,6:37,,,Suns Rebound,,
+0020301104,291,3,12,3,10:05 PM,6:37,,,Stoudemire Free Throw 2 of 2 (10 PTS),65 - 76,11
+0020301104,292,2,1,3,10:06 PM,6:28,MISS Nowitzki 24' 3PT Jump Shot,,,,
+0020301104,293,4,0,3,10:06 PM,6:26,,,McDyess REBOUND (Off:1 Def:3),,
+0020301104,294,1,1,3,10:06 PM,6:12,,,McDyess 16' Jump Shot (6 PTS) (Johnson 8 AST),67 - 76,9
+0020301104,295,1,1,3,10:06 PM,5:53,Walker 10' Jump Shot (11 PTS) (Nash 11 AST),,,67 - 78,11
+0020301104,296,5,1,3,10:07 PM,5:41,,,McDyess Bad Pass Turnover (P2.T11),,
+0020301104,297,9,1,3,10:07 PM,5:41,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,
+0020301104,301,6,3,3,10:10 PM,5:29,,,Barbosa L.B.FOUL (P4.T2),,
+0020301104,302,8,0,3,10:10 PM,5:29,,,SUB: Jacobsen FOR Barbosa,,
+0020301104,303,2,1,3,10:10 PM,5:20,MISS Nowitzki 20' Jump Shot,,,,
+0020301104,304,4,0,3,10:10 PM,5:18,Walker REBOUND (Off:4 Def:5),,,,
+0020301104,305,5,1,3,10:10 PM,5:09,Nash Bad Pass Turnover (P3.T11),,,,
+0020301104,306,2,1,3,10:11 PM,4:44,,,MISS Johnson 20' Jump Shot,,
+0020301104,307,4,0,3,10:11 PM,4:42,,,Stoudemire REBOUND (Off:6 Def:0),,
+0020301104,308,1,8,3,10:11 PM,4:40,,,Stoudemire  Slam Dunk (12 PTS),69 - 78,9
+0020301104,309,6,2,3,10:11 PM,4:20,,,Marion S.FOUL (P2.T3),,
+0020301104,310,3,11,3,10:12 PM,4:20,MISS Daniels Free Throw 1 of 2,,,,
+0020301104,311,4,1,3,10:12 PM,4:20,MAVERICKS Rebound,,,,
+0020301104,312,3,12,3,10:12 PM,4:20,Daniels Free Throw 2 of 2 (7 PTS),,,69 - 79,10
+0020301104,313,2,5,3,10:12 PM,4:07,,,MISS Johnson 3' Layup,,
+0020301104,314,4,0,3,10:12 PM,4:04,Daniels REBOUND (Off:1 Def:4),,,,
+0020301104,315,2,5,3,10:12 PM,3:59,MISS Walker  Layup,,Jacobsen BLOCK (1 BLK),,
+0020301104,316,4,0,3,10:12 PM,3:57,,,Marion REBOUND (Off:1 Def:4),,
+0020301104,317,2,1,3,10:12 PM,3:49,,,MISS Stoudemire 6' Jump Shot,,
+0020301104,318,4,0,3,10:12 PM,3:47,Nowitzki REBOUND (Off:0 Def:5),,,,
+0020301104,319,2,3,3,10:13 PM,3:35,MISS Daniels 7' Hook Shot,,,,
+0020301104,320,4,0,3,10:13 PM,3:33,,,Stoudemire REBOUND (Off:6 Def:1),,
+0020301104,321,1,5,3,10:13 PM,3:15,,,McDyess  Layup (8 PTS) (Marion 4 AST),71 - 79,8
+0020301104,322,9,1,3,10:13 PM,3:13,MAVERICKS Timeout: Regular (Full 4 Short 0),,,,
+0020301104,324,8,0,3,10:15 PM,3:13,SUB: Jamison FOR Daniels,,,,
+0020301104,326,2,1,3,10:15 PM,3:01,MISS Finley 25' 3PT Jump Shot,,,,
+0020301104,327,4,0,3,10:15 PM,2:58,,,Marion REBOUND (Off:1 Def:5),,
+0020301104,328,2,44,3,10:16 PM,2:39,,,MISS Johnson  Reverse Layup,,
+0020301104,329,4,0,3,10:16 PM,2:37,Nowitzki REBOUND (Off:0 Def:6),,,,
+0020301104,330,2,1,3,10:16 PM,2:26,MISS Nowitzki 13' Jump Shot,,,,
+0020301104,331,4,0,3,10:16 PM,2:25,,,Stoudemire REBOUND (Off:6 Def:2),,
+0020301104,332,6,1,3,10:16 PM,2:10,Nash P.FOUL (P2.T2),,,,
+0020301104,333,8,0,3,10:16 PM,2:10,SUB: Howard FOR Walker,,,,
+0020301104,334,5,1,3,10:17 PM,2:00,Finley STEAL (2 STL),,Stoudemire Bad Pass Turnover (P6.T12),,
+0020301104,336,1,1,3,10:17 PM,1:53,Nowitzki 16' Jump Shot (20 PTS) (Nash 12 AST),,,71 - 81,10
+0020301104,337,1,1,3,10:17 PM,1:33,,,Stoudemire 20' Jump Shot (14 PTS),73 - 81,8
+0020301104,338,1,1,3,10:17 PM,1:12,Nowitzki 21' Jump Shot (22 PTS) (Nash 13 AST),,,73 - 83,10
+0020301104,339,2,1,3,10:18 PM,1:00,,,MISS Marion 10' Jump Shot,,
+0020301104,340,4,0,3,10:18 PM,0:58,Jamison REBOUND (Off:0 Def:4),,,,
+0020301104,341,1,8,3,10:18 PM,0:53,Nowitzki  Slam Dunk (24 PTS) (Nash 14 AST),,,73 - 85,12
+0020301104,342,9,1,3,10:18 PM,0:53,,,Suns Timeout: Regular (Reg.4 Short 1),,
+0020301104,344,8,0,3,10:19 PM,0:53,SUB: Daniels FOR Nash,,,,
+0020301104,345,8,0,3,10:19 PM,0:53,,,SUB: Lampe FOR McDyess,,
+0020301104,346,1,1,3,10:20 PM,0:38,,,Stoudemire 5' Jump Shot (16 PTS) (Marion 5 AST),75 - 85,10
+0020301104,347,1,1,3,10:20 PM,0:29,Nowitzki 25' 3PT Jump Shot (27 PTS) (Finley 3 AST),,,75 - 88,13
+0020301104,348,5,1,3,10:21 PM,0:06,Jamison STEAL (2 STL),,Lampe Bad Pass Turnover (P1.T13),,
+0020301104,349,1,8,3,10:21 PM,0:01,Nowitzki  Slam Dunk (29 PTS) (Howard 3 AST),,,75 - 90,15
+0020301104,350,13,0,3,10:21 PM,0:00,,,,75 - 90,15
+0020301104,352,12,0,4,10:23 PM,12:00,,,,75 - 90,15
+0020301104,353,2,1,4,10:24 PM,11:46,,,MISS Johnson 25' 3PT Jump Shot,,
+0020301104,354,4,0,4,10:24 PM,11:45,MAVERICKS Rebound,,,,
+0020301104,355,1,1,4,10:24 PM,11:28,Finley 24' 3PT Jump Shot (20 PTS) (Nowitzki 4 AST),,,75 - 93,18
+0020301104,356,6,2,4,10:24 PM,11:07,Jamison S.FOUL (P1.T1),,,,
+0020301104,357,3,11,4,10:25 PM,11:07,,,Cabarkapa Free Throw 1 of 2 (1 PTS),76 - 93,17
+0020301104,358,3,12,4,10:25 PM,11:07,,,MISS Cabarkapa Free Throw 2 of 2,,
+0020301104,359,4,0,4,10:25 PM,11:06,,,Lampe REBOUND (Off:3 Def:2),,
+0020301104,360,1,42,4,10:25 PM,11:03,,,Lampe  Driving Layup (8 PTS),78 - 93,15
+0020301104,361,1,1,4,10:25 PM,10:48,Jamison 5' Jump Shot (14 PTS) (Daniels 3 AST),,,78 - 95,17
+0020301104,362,2,5,4,10:26 PM,10:34,,,MISS Jacobsen  Layup,,
+0020301104,363,4,0,4,10:26 PM,10:33,,,Stoudemire REBOUND (Off:7 Def:2),,
+0020301104,364,2,5,4,10:26 PM,10:31,Finley BLOCK (1 BLK),,MISS Stoudemire  Layup,,
+0020301104,365,4,0,4,10:26 PM,10:31,Finley REBOUND (Off:1 Def:3),,,,
+0020301104,366,6,3,4,10:26 PM,10:31,,,Stoudemire L.B.FOUL (P3.T1),,
+0020301104,367,2,1,4,10:26 PM,10:17,MISS Jamison 6' Jump Shot,,,,
+0020301104,369,4,0,4,10:26 PM,10:15,Howard REBOUND (Off:2 Def:5),,,,
+0020301104,368,1,5,4,10:26 PM,10:15,Howard  Layup (7 PTS),,,78 - 97,19
+0020301104,370,1,7,4,10:27 PM,9:57,,,Stoudemire  Dunk (18 PTS) (Johnson 9 AST),80 - 97,17
+0020301104,371,2,1,4,10:27 PM,9:42,MISS Nowitzki 25' 3PT Jump Shot,,,,
+0020301104,372,4,0,4,10:27 PM,9:40,Jamison REBOUND (Off:1 Def:4),,,,
+0020301104,373,6,2,4,10:27 PM,9:40,,,Lampe S.FOUL (P3.T2),,
+0020301104,374,8,0,4,10:28 PM,9:40,,,SUB: Marion FOR Lampe,,
+0020301104,375,8,0,4,10:28 PM,9:40,,,SUB: Barbosa FOR Jacobsen,,
+0020301104,376,3,11,4,10:28 PM,9:40,Jamison Free Throw 1 of 2 (15 PTS),,,80 - 98,18
+0020301104,377,3,12,4,10:28 PM,9:40,Jamison Free Throw 2 of 2 (16 PTS),,,80 - 99,19
+0020301104,378,5,1,4,10:29 PM,9:22,Nowitzki STEAL (1 STL),,Johnson Bad Pass Turnover (P2.T14),,
+0020301104,379,2,5,4,10:29 PM,9:16,MISS Daniels  Layup,,,,
+0020301104,380,4,0,4,10:29 PM,9:14,,,Stoudemire REBOUND (Off:7 Def:3),,
+0020301104,381,2,1,4,10:29 PM,9:09,,,MISS Johnson  3PT Jump Shot,,
+0020301104,382,4,0,4,10:29 PM,9:07,Nowitzki REBOUND (Off:0 Def:7),,,,
+0020301104,383,5,40,4,10:29 PM,9:02,Jamison Out of Bounds Lost Ball Turnover (P2.T12),,,,
+0020301104,384,2,1,4,10:29 PM,8:42,,,MISS Marion 9' Jump Shot,,
+0020301104,385,4,0,4,10:29 PM,8:40,,,Marion REBOUND (Off:2 Def:5),,
+0020301104,386,1,1,4,10:29 PM,8:35,,,Johnson 24' 3PT Jump Shot (14 PTS) (Marion 6 AST),83 - 99,16
+0020301104,387,9,4,4,10:30 PM,8:16,,,,,
+0020301104,391,1,1,4,10:32 PM,8:07,Daniels 4' Jump Shot (9 PTS),,,83 - 101,18
+0020301104,392,2,5,4,10:32 PM,7:52,,,MISS Marion  Layup,,
+0020301104,393,4,0,4,10:32 PM,7:50,,,Marion REBOUND (Off:3 Def:5),,
+0020301104,394,2,1,4,10:33 PM,7:46,,,MISS Barbosa 25' 3PT Jump Shot,,
+0020301104,395,4,0,4,10:33 PM,7:44,,,Suns Rebound,,
+0020301104,396,2,1,4,10:33 PM,7:38,,,MISS Marion 13' Jump Shot,,
+0020301104,397,4,0,4,10:33 PM,7:36,Howard REBOUND (Off:2 Def:6),,,,
+0020301104,398,5,1,4,10:33 PM,7:20,Howard Bad Pass Turnover (P3.T13),,Barbosa STEAL (1 STL),,
+0020301104,399,1,42,4,10:33 PM,7:15,,,Barbosa  Driving Layup (14 PTS),85 - 101,16
+0020301104,400,2,1,4,10:34 PM,6:48,MISS Daniels 6' Jump Shot,,,,
+0020301104,401,4,0,4,10:34 PM,6:46,,,Stoudemire REBOUND (Off:7 Def:4),,
+0020301104,402,2,1,4,10:34 PM,6:32,,,MISS Johnson 24' 3PT Jump Shot,,
+0020301104,403,4,0,4,10:34 PM,6:30,Finley REBOUND (Off:1 Def:4),,,,
+0020301104,404,1,44,4,10:34 PM,6:16,Jamison  Reverse Layup (18 PTS) (Daniels 4 AST),,,85 - 103,18
+0020301104,405,1,8,4,10:35 PM,5:57,,,Marion  Slam Dunk (20 PTS),87 - 103,16
+0020301104,406,1,47,4,10:35 PM,5:34,Daniels 5' Turnaround Jump Shot (11 PTS),,,87 - 105,18
+0020301104,407,2,5,4,10:35 PM,5:20,Finley BLOCK (2 BLK),,MISS Cabarkapa  Layup,,
+0020301104,408,4,0,4,10:35 PM,5:17,Jamison REBOUND (Off:1 Def:5),,,,
+0020301104,409,1,42,4,10:35 PM,5:16,Jamison  Driving Layup (20 PTS) (Finley 4 AST),,,87 - 107,20
+0020301104,410,6,4,4,10:36 PM,5:08,,,Marion OFF.Foul (P3),,
+0020301104,411,5,5,4,10:36 PM,5:08,,,Marion Foul Turnover (P1.T15),,
+0020301104,412,9,1,4,10:36 PM,5:08,MAVERICKS Timeout: Regular (Full 5 Short 0),,,,
+0020301104,414,8,0,4,10:37 PM,5:08,SUB: Najera FOR Finley,,,,
+0020301104,415,8,0,4,10:38 PM,5:08,,,SUB: Lampe FOR Marion,,
+0020301104,416,1,1,4,10:38 PM,4:58,Nowitzki 24' 3PT Jump Shot (32 PTS) (Howard 4 AST),,,87 - 110,23
+0020301104,417,1,1,4,10:38 PM,4:35,,,Johnson  3PT Jump Shot (17 PTS) (Stoudemire 1 AST),90 - 110,20
+0020301104,418,1,1,4,10:39 PM,4:19,Nowitzki 21' Jump Shot (34 PTS) (Daniels 5 AST),,,90 - 112,22
+0020301104,419,2,5,4,10:39 PM,3:57,,,MISS Barbosa  Layup,,
+0020301104,421,4,0,4,10:39 PM,3:55,,,Stoudemire REBOUND (Off:8 Def:4),,
+0020301104,420,1,8,4,10:39 PM,3:55,,,Stoudemire  Slam Dunk (20 PTS),92 - 112,20
+0020301104,422,9,2,4,10:39 PM,3:53,MAVERICKS Timeout: Short (Full 5 Short 1),,,,
+0020301104,424,8,0,4,10:39 PM,3:53,SUB: Best FOR Nowitzki,,,,
+0020301104,426,1,1,4,10:40 PM,3:36,Howard 20' Jump Shot (9 PTS),,,92 - 114,22
+0020301104,427,2,1,4,10:40 PM,3:19,,,MISS Johnson  3PT Jump Shot,,
+0020301104,428,4,0,4,10:41 PM,3:17,,,Johnson REBOUND (Off:1 Def:6),,
+0020301104,429,1,1,4,10:41 PM,3:12,,,Cabarkapa 18' Jump Shot (3 PTS) (Barbosa 2 AST),94 - 114,20
+0020301104,430,2,1,4,10:41 PM,2:51,MISS Daniels  3PT Jump Shot,,,,
+0020301104,431,4,0,4,10:41 PM,2:48,,,Stoudemire REBOUND (Off:8 Def:5),,
+0020301104,432,1,7,4,10:41 PM,2:37,,,Cabarkapa  Dunk (5 PTS) (Barbosa 3 AST),96 - 114,18
+0020301104,433,2,1,4,10:41 PM,2:20,MISS Howard 3' Jump Shot,,,,
+0020301104,434,4,0,4,10:41 PM,2:19,Jamison REBOUND (Off:2 Def:5),,,,
+0020301104,435,1,5,4,10:42 PM,2:17,Jamison  Layup (22 PTS),,,96 - 116,20
+0020301104,436,5,1,4,10:42 PM,1:58,Jamison STEAL (3 STL),,Barbosa Bad Pass Turnover (P3.T16),,
+0020301104,437,6,2,4,10:42 PM,1:56,,,Johnson S.FOUL (P1.T3),,
+0020301104,438,9,1,4,10:42 PM,1:56,,,Suns Timeout: Regular (Reg.5 Short 1),,
+0020301104,440,8,0,4,10:44 PM,1:56,SUB: Williams FOR Jamison,,,,
+0020301104,441,8,0,4,10:44 PM,1:56,,,SUB: Harvey FOR Johnson,,
+0020301104,442,3,11,4,10:44 PM,1:56,Howard Free Throw 1 of 2 (10 PTS),,,96 - 117,21
+0020301104,443,3,12,4,10:44 PM,1:56,Howard Free Throw 2 of 2 (11 PTS),,,96 - 118,22
+0020301104,444,1,1,4,10:45 PM,1:44,,,Lampe 22' Jump Shot (10 PTS) (Barbosa 4 AST),98 - 118,20
+0020301104,445,1,1,4,10:45 PM,1:21,Howard 24' 3PT Jump Shot (14 PTS) (Daniels 6 AST),,,98 - 121,23
+0020301104,446,2,1,4,10:46 PM,1:03,Najera BLOCK (1 BLK),,MISS Barbosa 25' 3PT Jump Shot,,
+0020301104,447,4,0,4,10:46 PM,1:01,Najera REBOUND (Off:0 Def:1),,,,
+0020301104,448,5,1,4,10:46 PM,0:58,Najera Bad Pass Turnover (P1.T14),,Cabarkapa STEAL (1 STL),,
+0020301104,449,1,1,4,10:46 PM,0:43,,,Barbosa 26' 3PT Jump Shot (17 PTS) (Stoudemire 2 AST),101 - 121,20
+0020301104,450,5,1,4,10:46 PM,0:32,Williams Bad Pass Turnover (P1.T15),,Harvey STEAL (1 STL),,
+0020301104,451,1,7,4,10:46 PM,0:29,,,Cabarkapa  Dunk (7 PTS) (Stoudemire 3 AST),103 - 121,18
+0020301104,452,1,1,4,10:47 PM,0:13,Najera 25' 3PT Jump Shot (3 PTS) (Howard 5 AST),,,103 - 124,21
+0020301104,453,13,0,4,10:47 PM,0:00,,,,103 - 124,21

@@ -1,0 +1,464 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021200729,0,12,0,1,8:09 PM,12:00,,,,,
+0021200729,1,10,0,1,8:11 PM,12:00,Jump Ball Ibaka vs. Biedrins: Tip to Curry,,,,
+0021200729,2,2,46,1,8:11 PM,11:48,,,MISS Curry 15' Running Jump Shot,,
+0021200729,3,4,0,1,8:11 PM,11:47,,,Biedrins REBOUND (Off:1 Def:0),,
+0021200729,4,2,1,1,8:11 PM,11:44,,,MISS Curry 24' 3PT Jump Shot,,
+0021200729,5,4,0,1,8:11 PM,11:42,Perkins REBOUND (Off:0 Def:1),,,,
+0021200729,6,2,1,1,8:12 PM,11:30,MISS Westbrook 20' Jump Shot,,,,
+0021200729,7,4,0,1,8:12 PM,11:29,,,Lee REBOUND (Off:0 Def:1),,
+0021200729,8,1,66,1,8:12 PM,11:21,,,Curry 12' Jump Bank Shot (2 PTS) (Lee 1 AST),2 - 0,-2
+0021200729,9,1,1,1,8:12 PM,11:01,Ibaka 18' Jump Shot (2 PTS) (Westbrook 1 AST),,,2 - 2,TIE
+0021200729,11,2,42,1,8:12 PM,10:47,Ibaka BLOCK (1 BLK),,MISS Thompson 2' Driving Layup,,
+0021200729,12,4,0,1,8:12 PM,10:45,Perkins REBOUND (Off:0 Def:2),,,,
+0021200729,13,5,1,1,8:12 PM,10:36,Durant Bad Pass Turnover (P1.T1),,Curry STEAL (1 STL),,
+0021200729,14,1,7,1,8:13 PM,10:33,,,Barnes 1' Dunk (2 PTS) (Curry 1 AST),4 - 2,-2
+0021200729,15,1,1,1,8:13 PM,10:15,Perkins 9' Jump Shot (2 PTS) (Durant 1 AST),,,4 - 4,TIE
+0021200729,17,6,2,1,8:13 PM,9:55,Perkins S.FOUL (P1.T1),,,,
+0021200729,19,3,11,1,8:14 PM,9:55,,,Lee Free Throw 1 of 2 (1 PTS),5 - 4,-1
+0021200729,21,3,12,1,8:14 PM,9:55,,,Lee Free Throw 2 of 2 (2 PTS),6 - 4,-2
+0021200729,23,2,42,1,8:14 PM,9:41,MISS Westbrook 2' Driving Layup,,Biedrins BLOCK (1 BLK),,
+0021200729,24,4,0,1,8:14 PM,9:39,,,Biedrins REBOUND (Off:1 Def:1),,
+0021200729,25,1,42,1,8:15 PM,9:32,,,Barnes 2' Driving Layup (4 PTS),8 - 4,-4
+0021200729,26,2,1,1,8:15 PM,9:18,MISS Durant 14' Jump Shot,,,,
+0021200729,27,4,0,1,8:15 PM,9:17,Ibaka REBOUND (Off:1 Def:0),,,,
+0021200729,28,1,58,1,8:15 PM,9:16,Ibaka 3' Turnaround Hook Shot (4 PTS),,,8 - 6,-2
+0021200729,29,5,1,1,8:15 PM,9:02,Westbrook STEAL (1 STL),,Curry Bad Pass Turnover (P1.T1),,
+0021200729,30,1,47,1,8:15 PM,8:53,Westbrook 10' Turnaround Jump Shot (2 PTS),,,8 - 8,TIE
+0021200729,31,5,2,1,8:16 PM,8:28,Westbrook STEAL (2 STL),,Lee Lost Ball Turnover (P1.T2),,
+0021200729,32,1,7,1,8:16 PM,8:24,Durant  Dunk (2 PTS) (Westbrook 2 AST),,,8 - 10,2
+0021200729,33,2,1,1,8:16 PM,8:12,,,MISS Curry 15' Jump Shot,,
+0021200729,34,4,0,1,8:16 PM,8:11,Perkins REBOUND (Off:0 Def:3),,,,
+0021200729,35,2,3,1,8:16 PM,7:59,MISS Perkins 5' Hook Shot,,,,
+0021200729,36,4,0,1,8:16 PM,7:57,,,Biedrins REBOUND (Off:1 Def:2),,
+0021200729,37,1,5,1,8:16 PM,7:48,,,Biedrins 1' Layup (2 PTS) (Curry 2 AST),10 - 10,TIE
+0021200729,38,5,1,1,8:16 PM,7:34,Durant Bad Pass Turnover (P2.T2),,Lee STEAL (1 STL),,
+0021200729,39,2,5,1,8:17 PM,7:28,Ibaka BLOCK (2 BLK),,MISS Lee 3' Layup,,
+0021200729,40,4,0,1,8:17 PM,7:27,Sefolosha REBOUND (Off:0 Def:1),,,,
+0021200729,41,2,1,1,8:17 PM,7:21,MISS Durant 25' 3PT Jump Shot,,,,
+0021200729,42,4,0,1,8:17 PM,7:20,Ibaka REBOUND (Off:2 Def:0),,,,
+0021200729,43,1,5,1,8:17 PM,7:16,Ibaka 2' Layup (6 PTS),,,10 - 12,2
+0021200729,44,2,5,1,8:17 PM,7:01,,,MISS Lee 3' Layup,,
+0021200729,45,4,0,1,8:17 PM,6:59,Perkins REBOUND (Off:0 Def:4),,,,
+0021200729,46,2,1,1,8:17 PM,6:53,MISS Westbrook 12' Jump Shot,,,,
+0021200729,47,4,0,1,8:17 PM,6:52,Sefolosha REBOUND (Off:1 Def:1),,,,
+0021200729,48,1,46,1,8:17 PM,6:47,Durant 3' Running Jump Shot (4 PTS) (Sefolosha 1 AST),,,10 - 14,4
+0021200729,49,5,40,1,8:18 PM,6:29,,,Curry Out of Bounds Lost Ball Turnover (P2.T3),,
+0021200729,50,2,5,1,8:18 PM,6:13,MISS Perkins  Layup,,Biedrins BLOCK (2 BLK),,
+0021200729,51,4,0,1,8:18 PM,6:10,Perkins REBOUND (Off:1 Def:4),,,,
+0021200729,52,1,7,1,8:18 PM,6:09,Perkins 1' Dunk (4 PTS),,,10 - 16,6
+0021200729,53,9,1,1,8:18 PM,6:00,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0021200729,55,8,0,1,8:21 PM,6:00,,,SUB: Ezeli FOR Biedrins,,
+0021200729,56,8,0,1,8:21 PM,6:00,SUB: Martin FOR Sefolosha,,,,
+0021200729,57,1,1,1,8:21 PM,5:53,,,Curry 24' 3PT Jump Shot (5 PTS),13 - 16,3
+0021200729,58,1,5,1,8:21 PM,5:36,Durant 2' Layup (6 PTS) (Perkins 1 AST),,,13 - 18,5
+0021200729,59,2,1,1,8:21 PM,5:26,,,MISS Thompson 24' 3PT Jump Shot,,
+0021200729,60,4,0,1,8:21 PM,5:25,Westbrook REBOUND (Off:0 Def:1),,,,
+0021200729,62,1,7,1,8:22 PM,5:20,Ibaka 1' Dunk (8 PTS) (Martin 1 AST),,,13 - 20,7
+0021200729,63,1,46,1,8:22 PM,5:01,,,Curry 5' Running Jump Shot (7 PTS),15 - 20,5
+0021200729,64,6,2,1,8:22 PM,4:49,,,Ezeli S.FOUL (P1.T1),,
+0021200729,65,3,11,1,8:22 PM,4:49,MISS Durant Free Throw 1 of 2,,,,
+0021200729,66,4,1,1,8:23 PM,4:49,THUNDER Rebound,,,,
+0021200729,67,3,12,1,8:23 PM,4:49,Durant Free Throw 2 of 2 (7 PTS),,,15 - 21,6
+0021200729,69,2,47,1,8:23 PM,4:34,,,MISS Ezeli 7' Turnaround Jump Shot,,
+0021200729,70,4,0,1,8:23 PM,4:33,Westbrook REBOUND (Off:0 Def:2),,,,
+0021200729,71,5,2,1,8:23 PM,4:28,Westbrook Lost Ball Turnover (P1.T3),,Lee STEAL (2 STL),,
+0021200729,72,2,5,1,8:23 PM,4:24,Ibaka BLOCK (3 BLK),,MISS Curry 2' Layup,,
+0021200729,73,4,0,1,8:23 PM,4:22,,,Curry REBOUND (Off:1 Def:0),,
+0021200729,74,5,1,1,8:24 PM,4:19,Martin STEAL (1 STL),,Curry Bad Pass Turnover (P3.T4),,
+0021200729,75,1,5,1,8:24 PM,4:17,Westbrook 1' Layup (4 PTS) (Martin 2 AST),,,15 - 23,8
+0021200729,76,2,1,1,8:24 PM,3:54,,,MISS Thompson 14' Jump Shot,,
+0021200729,79,4,0,1,8:24 PM,3:52,,,Lee REBOUND (Off:1 Def:1),,
+0021200729,78,1,72,1,8:24 PM,3:52,,,Lee 2' Putback Layup (4 PTS),17 - 23,6
+0021200729,80,1,5,1,8:24 PM,3:33,Westbrook 3' Layup (6 PTS),,,17 - 25,8
+0021200729,81,6,2,1,8:24 PM,3:33,,,Thompson S.FOUL (P1.T2),,
+0021200729,82,8,0,1,8:25 PM,3:33,SUB: Collison FOR Durant,,,,
+0021200729,83,8,0,1,8:25 PM,3:33,SUB: Sefolosha FOR Perkins,,,,
+0021200729,84,8,0,1,8:25 PM,3:33,,,SUB: Green FOR Lee,,
+0021200729,93,8,0,1,8:25 PM,3:33,,,SUB: Landry FOR Barnes,,
+0021200729,85,3,10,1,8:25 PM,3:33,Westbrook Free Throw 1 of 1 (7 PTS),,,17 - 26,9
+0021200729,87,2,5,1,8:25 PM,3:18,,,MISS Ezeli 2' Layup,,
+0021200729,88,4,0,1,8:25 PM,3:17,,,Landry REBOUND (Off:1 Def:0),,
+0021200729,89,2,1,1,8:25 PM,3:13,,,MISS Green 14' Jump Shot,,
+0021200729,90,4,0,1,8:25 PM,3:11,,,Landry REBOUND (Off:2 Def:0),,
+0021200729,91,2,1,1,8:25 PM,3:07,,,MISS Curry 25' 3PT Jump Shot,,
+0021200729,92,4,0,1,8:25 PM,3:06,Sefolosha REBOUND (Off:1 Def:2),,,,
+0021200729,94,6,1,1,8:26 PM,3:01,,,Curry P.FOUL (P1.T3),,
+0021200729,95,8,0,1,8:26 PM,3:01,,,SUB: Jefferson FOR Thompson,,
+0021200729,97,2,1,1,8:26 PM,2:55,MISS Collison 18' Jump Shot,,,,
+0021200729,98,4,0,1,8:26 PM,2:54,,,Jefferson REBOUND (Off:0 Def:1),,
+0021200729,100,1,1,1,8:26 PM,2:43,,,Landry 18' Jump Shot (2 PTS) (Curry 3 AST),19 - 26,7
+0021200729,101,1,1,1,8:26 PM,2:25,Ibaka  3PT Jump Shot (11 PTS) (Martin 3 AST),,,19 - 29,10
+0021200729,102,2,7,1,8:27 PM,2:13,Westbrook BLOCK (1 BLK),,MISS Landry 1' Dunk,,
+0021200729,103,4,0,1,8:27 PM,2:11,Sefolosha REBOUND (Off:1 Def:3),,,,
+0021200729,104,2,1,1,8:27 PM,2:06,MISS Westbrook 24' 3PT Jump Shot,,,,
+0021200729,105,4,0,1,8:27 PM,2:04,,,Landry REBOUND (Off:2 Def:1),,
+0021200729,106,2,1,1,8:27 PM,1:50,,,MISS Landry 15' Jump Shot,,
+0021200729,107,4,0,1,8:27 PM,1:49,,,Warriors Rebound,,
+0021200729,108,6,3,1,8:27 PM,1:49,Ibaka L.B.FOUL (P1.T2),,,,
+0021200729,109,9,1,1,8:27 PM,1:49,THUNDER Timeout: Regular (Full 1 Short 0),,,,
+0021200729,112,8,0,1,8:29 PM,1:49,,,SUB: Bazemore FOR Curry,,
+0021200729,113,8,0,1,8:30 PM,1:49,SUB: Jackson FOR Westbrook,,,,
+0021200729,114,5,1,1,8:30 PM,1:40,,,Bazemore Bad Pass Turnover (P1.T5),,
+0021200729,115,9,2,1,8:30 PM,1:24,THUNDER Timeout: Short (Full 1 Short 1),,,,
+0021200729,117,1,79,1,8:31 PM,1:19,Martin 14' Pullup Jump Shot (2 PTS),,,19 - 31,12
+0021200729,118,1,1,1,8:32 PM,1:01,,,Jefferson  3PT Jump Shot (3 PTS) (Bazemore 1 AST),22 - 31,9
+0021200729,119,1,1,1,8:33 PM,0:48,Sefolosha 25' 3PT Jump Shot (3 PTS) (Jackson 1 AST),,,22 - 34,12
+0021200729,120,2,1,1,8:33 PM,0:37,Ibaka BLOCK (4 BLK),,MISS Landry 6' Jump Shot,,
+0021200729,121,4,0,1,8:33 PM,0:35,Sefolosha REBOUND (Off:1 Def:4),,,,
+0021200729,122,2,7,1,8:33 PM,0:33,MISS Martin 2' Dunk,,,,
+0021200729,123,4,0,1,8:33 PM,0:31,Ibaka REBOUND (Off:3 Def:0),,,,
+0021200729,124,2,1,1,8:33 PM,0:27,MISS Sefolosha 25' 3PT Jump Shot,,,,
+0021200729,125,4,0,1,8:33 PM,0:26,,,Bazemore REBOUND (Off:0 Def:1),,
+0021200729,126,2,1,1,8:33 PM,0:03,,,MISS Bazemore 19' Jump Shot,,
+0021200729,127,4,0,1,8:33 PM,0:02,Collison REBOUND (Off:0 Def:1),,,,
+0021200729,128,2,46,1,8:34 PM,0:00,MISS Jackson 58' 3PT Running Jump Shot,,,,
+0021200729,130,4,0,1,8:34 PM,0:00,,,Warriors Rebound,,
+0021200729,131,13,0,1,8:34 PM,0:00,,,,22 - 34,12
+0021200729,133,12,0,2,8:36 PM,12:00,,,,22 - 34,12
+0021200729,134,6,2,2,8:37 PM,11:47,,,Green S.FOUL (P1.T1),,
+0021200729,135,3,11,2,8:37 PM,11:47,Martin Free Throw 1 of 2 (3 PTS),,,22 - 35,13
+0021200729,137,3,12,2,8:38 PM,11:47,Martin Free Throw 2 of 2 (4 PTS),,,22 - 36,14
+0021200729,139,2,1,2,8:38 PM,11:36,,,MISS Landry 15' Jump Shot,,
+0021200729,140,4,0,2,8:38 PM,11:35,Jackson REBOUND (Off:0 Def:1),,,,
+0021200729,141,1,56,2,8:38 PM,11:25,Collison 4' Running Hook Shot (2 PTS) (Jackson 2 AST),,,22 - 38,16
+0021200729,142,5,40,2,8:39 PM,11:12,,,Lee Out of Bounds Lost Ball Turnover (P2.T6),,
+0021200729,143,1,80,2,8:39 PM,10:57,Martin 16' Step Back Jump Shot (6 PTS),,,22 - 40,18
+0021200729,144,6,1,2,8:39 PM,10:42,Martin P.FOUL (P1.T1),,,,
+0021200729,146,8,0,2,8:39 PM,10:42,SUB: Durant FOR Sefolosha,,,,
+0021200729,147,8,0,2,8:40 PM,10:42,,,SUB: Barnes FOR Green,,
+0021200729,148,5,4,2,8:40 PM,10:35,,,Jefferson Traveling Turnover (P1.T7),,
+0021200729,149,2,1,2,8:40 PM,10:17,MISS Martin 25' 3PT Jump Shot,,,,
+0021200729,150,4,0,2,8:40 PM,10:16,Collison REBOUND (Off:1 Def:1),,,,
+0021200729,151,1,47,2,8:40 PM,10:14,Collison 3' Turnaround Jump Shot (4 PTS),,,22 - 42,20
+0021200729,152,6,2,2,8:41 PM,9:58,Thabeet S.FOUL (P1.T2),,,,
+0021200729,153,3,11,2,8:41 PM,9:58,,,Bazemore Free Throw 1 of 2 (1 PTS),23 - 42,19
+0021200729,155,8,0,2,8:41 PM,9:58,,,SUB: Curry FOR Jefferson,,
+0021200729,156,3,12,2,8:41 PM,9:58,,,Bazemore Free Throw 2 of 2 (2 PTS),24 - 42,18
+0021200729,158,2,42,2,8:42 PM,9:42,MISS Martin 1' Driving Layup,,,,
+0021200729,159,4,0,2,8:42 PM,9:42,,,Bazemore REBOUND (Off:0 Def:2),,
+0021200729,160,5,1,2,8:42 PM,9:27,Durant STEAL (1 STL),,Lee Bad Pass Turnover (P3.T8),,
+0021200729,161,1,7,2,8:42 PM,9:22,Durant  Dunk (9 PTS) (Jackson 3 AST),,,24 - 44,20
+0021200729,162,1,1,2,8:42 PM,9:06,,,Bazemore 24' 3PT Jump Shot (5 PTS),27 - 44,17
+0021200729,163,5,1,2,8:43 PM,8:51,Durant Bad Pass Turnover (P3.T4),,,,
+0021200729,164,9,4,2,8:43 PM,8:51,,,,,
+0021200729,166,8,0,2,8:45 PM,8:51,,,SUB: Thompson FOR Bazemore,,
+0021200729,167,5,1,2,8:45 PM,8:38,,,Curry Bad Pass Turnover (P4.T9),,
+0021200729,168,2,52,2,8:45 PM,8:29,MISS Martin 1' Alley Oop Dunk,,,,
+0021200729,169,4,0,2,8:46 PM,8:27,,,Thompson REBOUND (Off:0 Def:1),,
+0021200729,170,1,1,2,8:46 PM,8:20,,,Barnes  3PT Jump Shot (7 PTS) (Thompson 1 AST),30 - 44,14
+0021200729,171,1,1,2,8:46 PM,8:02,Martin 24' 3PT Jump Shot (9 PTS) (Durant 2 AST),,,30 - 47,17
+0021200729,172,2,1,2,8:46 PM,7:52,,,MISS Curry 15' Jump Shot,,
+0021200729,173,4,0,2,8:46 PM,7:51,Durant REBOUND (Off:0 Def:1),,,,
+0021200729,174,1,7,2,8:46 PM,7:45,Jackson 1' Dunk (2 PTS) (Durant 3 AST),,,30 - 49,19
+0021200729,175,9,1,2,8:46 PM,7:37,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0021200729,178,8,0,2,8:49 PM,7:37,SUB: Westbrook FOR Thabeet,,,,
+0021200729,179,6,2,2,8:49 PM,7:27,Durant S.FOUL (P1.T3),,,,
+0021200729,180,3,11,2,8:49 PM,7:27,,,Barnes Free Throw 1 of 2 (8 PTS),31 - 49,18
+0021200729,182,3,12,2,8:49 PM,7:27,,,MISS Barnes Free Throw 2 of 2,,
+0021200729,184,4,0,2,8:50 PM,7:26,THUNDER Rebound,,,,
+0021200729,185,7,5,2,8:50 PM,7:16,,,Lee Violation:Kicked Ball,,
+0021200729,186,1,42,2,8:51 PM,7:12,Westbrook 1' Driving Layup (9 PTS),,,31 - 51,20
+0021200729,187,5,1,2,8:51 PM,6:56,,,Lee Bad Pass Turnover (P4.T10),,
+0021200729,188,8,0,2,8:51 PM,6:56,SUB: Perkins FOR Jackson,,,,
+0021200729,189,1,46,2,8:51 PM,6:46,Westbrook 4' Running Jump Shot (11 PTS),,,31 - 53,22
+0021200729,190,1,1,2,8:52 PM,6:33,,,Thompson 25' 3PT Jump Shot (3 PTS) (Curry 4 AST),34 - 53,19
+0021200729,191,7,1,2,8:52 PM,6:32,,,Warriors Violation: Delay of game Violation,,
+0021200729,193,6,4,2,8:52 PM,6:16,Perkins OFF.Foul (P2),,,,
+0021200729,194,5,5,2,8:52 PM,6:16,Perkins Foul Turnover (P1.T5),,,,
+0021200729,195,7,1,2,8:52 PM,6:16,THUNDER Violation: Delay of game Violation,,,,
+0021200729,196,8,0,2,8:52 PM,6:16,SUB: Ibaka FOR Collison,,,,
+0021200729,197,2,42,2,8:53 PM,6:06,Durant BLOCK (1 BLK),,MISS Landry 2' Driving Layup,,
+0021200729,198,4,0,2,8:53 PM,6:04,Perkins REBOUND (Off:1 Def:5),,,,
+0021200729,199,2,78,2,8:53 PM,5:59,MISS Durant 8' Floating Jump Shot,,,,
+0021200729,200,4,0,2,8:53 PM,5:58,,,Lee REBOUND (Off:1 Def:2),,
+0021200729,201,1,42,2,8:53 PM,5:51,,,Barnes 1' Driving Layup (10 PTS),36 - 53,17
+0021200729,203,5,1,2,8:53 PM,5:32,Durant Bad Pass Turnover (P4.T6),,Landry STEAL (1 STL),,
+0021200729,204,1,5,2,8:53 PM,5:26,,,Lee 1' Layup (6 PTS) (Curry 5 AST),38 - 53,15
+0021200729,205,6,2,2,8:54 PM,5:06,,,Curry S.FOUL (P2.T2),,
+0021200729,206,3,11,2,8:54 PM,5:06,Westbrook Free Throw 1 of 2 (12 PTS),,,38 - 54,16
+0021200729,208,3,12,2,8:54 PM,5:06,Westbrook Free Throw 2 of 2 (13 PTS),,,38 - 55,17
+0021200729,210,2,1,2,8:55 PM,4:53,Durant BLOCK (2 BLK),,MISS Curry  3PT Jump Shot,,
+0021200729,211,4,0,2,8:55 PM,4:50,Durant REBOUND (Off:0 Def:2),,,,
+0021200729,212,5,40,2,8:55 PM,4:47,Martin Out of Bounds Lost Ball Turnover (P1.T7),,,,
+0021200729,213,1,5,2,8:55 PM,4:36,,,Landry 1' Layup (4 PTS) (Lee 2 AST),40 - 55,15
+0021200729,214,6,2,2,8:55 PM,4:36,Perkins S.FOUL (P3.T4),,,,
+0021200729,215,9,2,2,8:56 PM,4:36,,,Warriors Timeout: Short (Reg.2 Short 1),,
+0021200729,217,8,0,2,8:56 PM,4:36,SUB: Collison FOR Perkins,,,,
+0021200729,218,3,10,2,8:57 PM,4:36,,,Landry Free Throw 1 of 1 (5 PTS),41 - 55,14
+0021200729,220,2,82,2,8:57 PM,4:20,MISS Ibaka 5' Driving Bank Shot,,,,
+0021200729,221,4,0,2,8:57 PM,4:19,,,Thompson REBOUND (Off:0 Def:2),,
+0021200729,222,5,1,2,8:57 PM,4:12,Westbrook STEAL (3 STL),,Thompson Bad Pass Turnover (P1.T11),,
+0021200729,223,6,2,2,8:57 PM,4:10,,,Thompson S.FOUL (P2.T3),,
+0021200729,224,3,11,2,8:58 PM,4:10,MISS Westbrook Free Throw 1 of 2,,,,
+0021200729,225,4,1,2,8:58 PM,4:10,THUNDER Rebound,,,,
+0021200729,226,8,0,2,8:58 PM,4:10,SUB: Sefolosha FOR Martin,,,,
+0021200729,227,3,12,2,8:58 PM,4:10,Westbrook Free Throw 2 of 2 (14 PTS),,,41 - 56,15
+0021200729,230,6,29,2,8:59 PM,3:59,Collison Shooting Block Foul (P1.PN),,,,
+0021200729,231,3,11,2,8:59 PM,3:59,,,MISS Lee Free Throw 1 of 2,,
+0021200729,232,4,1,2,8:59 PM,3:59,,,Warriors Rebound,,
+0021200729,233,3,12,2,8:59 PM,3:59,,,MISS Lee Free Throw 2 of 2,,
+0021200729,235,4,0,2,8:59 PM,3:59,Durant REBOUND (Off:0 Def:3),,,,
+0021200729,236,1,7,2,9:00 PM,3:38,Ibaka 1' Dunk (13 PTS) (Westbrook 3 AST),,,41 - 58,17
+0021200729,237,2,1,2,9:00 PM,3:19,,,MISS Barnes 23' Jump Shot,,
+0021200729,238,4,0,2,9:00 PM,3:18,Westbrook REBOUND (Off:0 Def:3),,,,
+0021200729,239,5,1,2,9:00 PM,3:14,Westbrook Bad Pass Turnover (P2.T8),,,,
+0021200729,240,2,82,2,9:01 PM,3:03,,,MISS Curry 7' Driving Bank Shot,,
+0021200729,241,4,0,2,9:01 PM,3:02,,,Curry REBOUND (Off:2 Def:0),,
+0021200729,242,1,1,2,9:01 PM,2:59,,,Thompson 24' 3PT Jump Shot (6 PTS) (Curry 6 AST),44 - 58,14
+0021200729,243,1,1,2,9:01 PM,2:41,Durant 25' 3PT Jump Shot (12 PTS) (Ibaka 1 AST),,,44 - 61,17
+0021200729,244,2,42,2,9:01 PM,2:26,Ibaka BLOCK (5 BLK),,MISS Curry 3' Driving Layup,,
+0021200729,245,4,0,2,9:01 PM,2:25,Durant REBOUND (Off:0 Def:4),,,,
+0021200729,246,1,42,2,9:01 PM,2:22,Westbrook 2' Driving Layup (16 PTS),,,44 - 63,19
+0021200729,247,6,2,2,9:01 PM,2:22,,,Lee S.FOUL (P1.T4),,
+0021200729,248,9,1,2,9:02 PM,2:22,THUNDER Timeout: Regular (Full 2 Short 1),,,,
+0021200729,250,3,10,2,9:04 PM,2:22,Westbrook Free Throw 1 of 1 (17 PTS),,,44 - 64,20
+0021200729,252,2,1,2,9:04 PM,2:06,,,MISS Landry 16' Jump Shot,,
+0021200729,253,4,0,2,9:04 PM,2:05,Durant REBOUND (Off:0 Def:5),,,,
+0021200729,254,2,1,2,9:05 PM,1:50,MISS Westbrook 16' Jump Shot,,,,
+0021200729,255,4,0,2,9:05 PM,1:49,,,Thompson REBOUND (Off:0 Def:3),,
+0021200729,256,1,1,2,9:05 PM,1:40,,,Curry  3PT Jump Shot (10 PTS) (Thompson 2 AST),47 - 64,17
+0021200729,257,2,1,2,9:05 PM,1:18,MISS Durant 19' Jump Shot,,,,
+0021200729,258,4,0,2,9:05 PM,1:18,,,Landry REBOUND (Off:2 Def:2),,
+0021200729,259,2,78,2,9:05 PM,1:09,,,MISS Lee 5' Floating Jump Shot,,
+0021200729,260,4,0,2,9:05 PM,1:08,Ibaka REBOUND (Off:3 Def:1),,,,
+0021200729,262,6,2,2,9:06 PM,0:58,,,Landry S.FOUL (P1.PN),,
+0021200729,263,3,11,2,9:06 PM,0:58,Durant Free Throw 1 of 2 (13 PTS),,,47 - 65,18
+0021200729,265,3,12,2,9:06 PM,0:58,Durant Free Throw 2 of 2 (14 PTS),,,47 - 66,19
+0021200729,267,2,1,2,9:07 PM,0:44,,,MISS Thompson 13' Jump Shot,,
+0021200729,268,4,0,2,9:07 PM,0:43,,,Lee REBOUND (Off:2 Def:2),,
+0021200729,269,2,66,2,9:07 PM,0:42,,,MISS Lee 3' Jump Bank Shot,,
+0021200729,270,4,0,2,9:07 PM,0:40,Durant REBOUND (Off:0 Def:6),,,,
+0021200729,271,2,43,2,9:07 PM,0:36,MISS Westbrook 2' Alley Oop Layup,,,,
+0021200729,272,4,0,2,9:07 PM,0:35,,,Landry REBOUND (Off:2 Def:3),,
+0021200729,273,2,1,2,9:07 PM,0:28,,,MISS Thompson 4' Jump Shot,,
+0021200729,274,4,0,2,9:07 PM,0:27,Ibaka REBOUND (Off:3 Def:2),,,,
+0021200729,275,6,2,2,9:07 PM,0:09,,,Curry S.FOUL (P3.PN),,
+0021200729,276,3,11,2,9:08 PM,0:09,Westbrook Free Throw 1 of 2 (18 PTS),,,47 - 67,20
+0021200729,278,8,0,2,9:08 PM,0:09,,,SUB: Bazemore FOR Landry,,
+0021200729,280,8,0,2,9:08 PM,0:09,SUB: Jackson FOR Collison,,,,
+0021200729,281,3,12,2,9:08 PM,0:09,MISS Westbrook Free Throw 2 of 2,,,,
+0021200729,283,4,0,2,9:08 PM,0:08,,,Lee REBOUND (Off:2 Def:3),,
+0021200729,285,6,2,2,9:09 PM,0:01,Ibaka S.FOUL (P2.PN),,,,
+0021200729,286,3,11,2,9:09 PM,0:01,,,Barnes Free Throw 1 of 2 (11 PTS),48 - 67,19
+0021200729,288,8,0,2,9:09 PM,0:01,,,SUB: Green FOR Lee,,
+0021200729,289,8,0,2,9:09 PM,0:01,,,SUB: Jenkins FOR Curry,,
+0021200729,290,3,12,2,9:09 PM,0:01,,,Barnes Free Throw 2 of 2 (12 PTS),49 - 67,18
+0021200729,292,5,1,2,9:10 PM,0:00,Sefolosha Bad Pass Turnover (P1.T9),,Barnes STEAL (1 STL),,
+0021200729,293,13,0,2,9:10 PM,0:00,,,,49 - 67,18
+0021200729,295,12,0,3,9:25 PM,12:00,,,,49 - 67,18
+0021200729,296,2,1,3,9:26 PM,11:42,MISS Westbrook  3PT Jump Shot,,,,
+0021200729,297,4,0,3,9:26 PM,11:41,,,Curry REBOUND (Off:2 Def:1),,
+0021200729,298,2,66,3,9:26 PM,11:20,,,MISS Lee 8' Jump Bank Shot,,
+0021200729,299,4,0,3,9:26 PM,11:19,Ibaka REBOUND (Off:3 Def:3),,,,
+0021200729,300,1,1,3,9:26 PM,11:04,Perkins 19' Jump Shot (6 PTS),,,49 - 69,20
+0021200729,301,2,1,3,9:27 PM,10:41,,,MISS Lee 17' Jump Shot,,
+0021200729,302,4,0,3,9:27 PM,10:40,,,Biedrins REBOUND (Off:2 Def:2),,
+0021200729,303,2,1,3,9:27 PM,10:37,Sefolosha BLOCK (1 BLK),,MISS Thompson 24' 3PT Jump Shot,,
+0021200729,304,4,0,3,9:27 PM,10:36,,,Curry REBOUND (Off:3 Def:1),,
+0021200729,305,1,66,3,9:27 PM,10:33,,,Curry 12' Jump Bank Shot (12 PTS),51 - 69,18
+0021200729,306,2,1,3,9:27 PM,10:22,MISS Durant 18' Jump Shot,,,,
+0021200729,307,4,0,3,9:27 PM,10:21,,,Biedrins REBOUND (Off:2 Def:3),,
+0021200729,308,2,1,3,9:27 PM,10:12,,,MISS Curry 19' Jump Shot,,
+0021200729,309,4,0,3,9:27 PM,10:11,Sefolosha REBOUND (Off:1 Def:5),,,,
+0021200729,310,2,42,3,9:27 PM,10:03,MISS Sefolosha 3' Driving Layup,,Lee BLOCK (1 BLK),,
+0021200729,311,4,0,3,9:28 PM,10:02,,,Curry REBOUND (Off:3 Def:2),,
+0021200729,312,1,1,3,9:28 PM,9:56,,,Thompson 25' 3PT Jump Shot (9 PTS) (Curry 7 AST),54 - 69,15
+0021200729,313,2,46,3,9:28 PM,9:40,MISS Durant 8' Running Jump Shot,,,,
+0021200729,314,4,0,3,9:28 PM,9:38,,,Curry REBOUND (Off:3 Def:3),,
+0021200729,315,2,5,3,9:28 PM,9:31,Perkins BLOCK (1 BLK),,MISS Curry 3' Layup,,
+0021200729,316,4,0,3,9:28 PM,9:29,Ibaka REBOUND (Off:3 Def:4),,,,
+0021200729,317,2,1,3,9:28 PM,9:24,MISS Sefolosha 24' 3PT Jump Shot,,,,
+0021200729,318,4,0,3,9:28 PM,9:23,Ibaka REBOUND (Off:4 Def:4),,,,
+0021200729,319,2,42,3,9:28 PM,9:14,MISS Westbrook 2' Driving Layup,,Biedrins BLOCK (3 BLK),,
+0021200729,320,4,0,3,9:28 PM,9:14,THUNDER Rebound,,,,
+0021200729,321,1,1,3,9:29 PM,9:12,Durant 15' Jump Shot (16 PTS) (Sefolosha 2 AST),,,54 - 71,17
+0021200729,323,1,1,3,9:29 PM,8:53,,,Barnes  3PT Jump Shot (15 PTS) (Curry 8 AST),57 - 71,14
+0021200729,324,1,5,3,9:29 PM,8:37,Ibaka 1' Layup (15 PTS) (Durant 4 AST),,,57 - 73,16
+0021200729,327,1,1,3,9:30 PM,8:18,,,Lee 18' Jump Shot (8 PTS) (Curry 9 AST),59 - 73,14
+0021200729,328,5,2,3,9:31 PM,7:59,Durant Lost Ball Turnover (P5.T10),,Thompson STEAL (1 STL),,
+0021200729,329,1,7,3,9:31 PM,7:55,,,Thompson 1' Dunk (11 PTS) (Curry 10 AST),61 - 73,12
+0021200729,330,9,1,3,9:31 PM,7:55,THUNDER Timeout: Regular (Full 3 Short 1),,,,
+0021200729,332,1,88,3,9:33 PM,7:48,Westbrook 1' Driving Slam Dunk (20 PTS),,,61 - 75,14
+0021200729,333,6,1,3,9:33 PM,7:34,Sefolosha P.FOUL (P1.T1),,,,
+0021200729,334,2,5,3,9:34 PM,7:22,Ibaka BLOCK (6 BLK),,MISS Barnes 3' Layup,,
+0021200729,336,4,0,3,9:34 PM,7:19,,,Lee REBOUND (Off:3 Def:3),,
+0021200729,335,1,7,3,9:34 PM,7:19,,,Lee  Dunk (10 PTS),63 - 75,12
+0021200729,337,2,1,3,9:34 PM,6:59,MISS Perkins 14' Jump Shot,,,,
+0021200729,338,4,0,3,9:34 PM,6:58,,,Biedrins REBOUND (Off:2 Def:4),,
+0021200729,339,5,1,3,9:34 PM,6:51,Westbrook STEAL (4 STL),,Curry Bad Pass Turnover (P5.T12),,
+0021200729,340,2,1,3,9:35 PM,6:43,MISS Sefolosha  3PT Jump Shot,,,,
+0021200729,341,4,0,3,9:35 PM,6:42,,,Biedrins REBOUND (Off:2 Def:5),,
+0021200729,342,2,1,3,9:35 PM,6:33,,,MISS Curry 25' 3PT Jump Shot,,
+0021200729,343,4,0,3,9:35 PM,6:33,Sefolosha REBOUND (Off:1 Def:6),,,,
+0021200729,344,2,5,3,9:35 PM,6:25,MISS Durant 2' Layup,,,,
+0021200729,345,4,0,3,9:35 PM,6:24,Durant REBOUND (Off:1 Def:6),,,,
+0021200729,346,1,1,3,9:35 PM,6:23,Durant 4' Jump Shot (18 PTS),,,63 - 77,14
+0021200729,347,2,1,3,9:35 PM,6:05,,,MISS Thompson 19' Jump Shot,,
+0021200729,348,4,0,3,9:35 PM,6:04,Perkins REBOUND (Off:1 Def:6),,,,
+0021200729,349,6,1,3,9:35 PM,5:58,,,Thompson P.FOUL (P3.T1),,
+0021200729,350,8,0,3,9:36 PM,5:58,,,SUB: Landry FOR Biedrins,,
+0021200729,351,2,1,3,9:36 PM,5:52,MISS Westbrook 18' Jump Shot,,,,
+0021200729,352,4,0,3,9:36 PM,5:52,,,Landry REBOUND (Off:2 Def:4),,
+0021200729,353,1,79,3,9:36 PM,5:40,,,Barnes 6' Pullup Jump Shot (17 PTS),65 - 77,12
+0021200729,354,1,1,3,9:36 PM,5:25,Durant 25' 3PT Jump Shot (21 PTS) (Ibaka 2 AST),,,65 - 80,15
+0021200729,355,2,1,3,9:37 PM,5:08,,,MISS Lee 3' Jump Shot,,
+0021200729,357,4,0,3,9:37 PM,5:06,,,Lee REBOUND (Off:4 Def:3),,
+0021200729,356,2,72,3,9:37 PM,5:06,,,MISS Lee 2' Putback Layup,,
+0021200729,359,4,0,3,9:37 PM,5:04,,,Lee REBOUND (Off:5 Def:3),,
+0021200729,358,1,4,3,9:37 PM,5:04,,,Lee 2' Tip Shot (12 PTS),67 - 80,13
+0021200729,360,2,1,3,9:37 PM,4:50,MISS Ibaka 19' Jump Shot,,,,
+0021200729,361,4,0,3,9:37 PM,4:49,,,Curry REBOUND (Off:3 Def:4),,
+0021200729,362,6,2,3,9:37 PM,4:44,Sefolosha S.FOUL (P2.T2),,,,
+0021200729,363,3,11,3,9:37 PM,4:44,,,Curry Free Throw 1 of 2 (13 PTS),68 - 80,12
+0021200729,365,8,0,3,9:37 PM,4:44,,,SUB: Green FOR Barnes,,
+0021200729,366,8,0,3,9:37 PM,4:44,SUB: Martin FOR Sefolosha,,,,
+0021200729,367,3,12,3,9:38 PM,4:44,,,Curry Free Throw 2 of 2 (14 PTS),69 - 80,11
+0021200729,369,2,1,3,9:38 PM,4:20,MISS Westbrook 25' 3PT Jump Shot,,,,
+0021200729,371,4,0,3,9:38 PM,4:18,Ibaka REBOUND (Off:5 Def:4),,,,
+0021200729,370,2,4,3,9:38 PM,4:18,MISS Ibaka 2' Tip Shot,,,,
+0021200729,372,4,0,3,9:38 PM,4:17,,,Landry REBOUND (Off:2 Def:5),,
+0021200729,373,2,1,3,9:38 PM,4:10,,,MISS Thompson 25' 3PT Jump Shot,,
+0021200729,374,4,0,3,9:38 PM,4:10,Perkins REBOUND (Off:1 Def:7),,,,
+0021200729,375,2,1,3,9:39 PM,4:00,MISS Martin 13' Jump Shot,,,,
+0021200729,376,4,0,3,9:39 PM,3:59,,,Curry REBOUND (Off:3 Def:5),,
+0021200729,377,2,79,3,9:39 PM,3:55,,,MISS Curry 24' 3PT Pullup Jump Shot,,
+0021200729,378,4,0,3,9:39 PM,3:53,THUNDER Rebound,,,,
+0021200729,379,1,5,3,9:39 PM,3:45,Durant  Layup (23 PTS) (Westbrook 4 AST),,,69 - 82,13
+0021200729,380,9,1,3,9:39 PM,3:43,,,Warriors Timeout: Regular (Reg.3 Short 1),,
+0021200729,382,8,0,3,9:42 PM,3:43,,,SUB: Jefferson FOR Lee,,
+0021200729,383,8,0,3,9:42 PM,3:40,SUB: Collison FOR Ibaka,,,,
+0021200729,385,2,1,3,9:42 PM,3:29,Perkins BLOCK (2 BLK),,MISS Landry 3' Jump Shot,,
+0021200729,386,4,0,3,9:42 PM,3:27,Perkins REBOUND (Off:1 Def:8),,,,
+0021200729,387,1,5,3,9:42 PM,3:15,Collison 2' Layup (6 PTS) (Westbrook 5 AST),,,69 - 84,15
+0021200729,388,1,1,3,9:42 PM,2:56,,,Jefferson 16' Jump Shot (5 PTS) (Curry 11 AST),71 - 84,13
+0021200729,389,2,1,3,9:43 PM,2:39,MISS Martin 24' 3PT Jump Shot,,,,
+0021200729,390,4,0,3,9:43 PM,2:38,Perkins REBOUND (Off:2 Def:8),,,,
+0021200729,391,1,1,3,9:43 PM,2:19,Martin 19' Jump Shot (11 PTS) (Perkins 2 AST),,,71 - 86,15
+0021200729,392,1,1,3,9:43 PM,2:02,,,Jefferson  3PT Jump Shot (8 PTS) (Landry 1 AST),74 - 86,12
+0021200729,393,5,2,3,9:44 PM,1:43,Martin Lost Ball Turnover (P2.T11),,Green STEAL (1 STL),,
+0021200729,394,2,5,3,9:44 PM,1:39,,,MISS Jefferson 1' Layup,,
+0021200729,395,4,0,3,9:44 PM,1:36,Perkins REBOUND (Off:2 Def:9),,,,
+0021200729,396,2,1,3,9:44 PM,1:29,MISS Durant 18' Jump Shot,,,,
+0021200729,397,4,0,3,9:44 PM,1:28,,,Green REBOUND (Off:0 Def:1),,
+0021200729,398,5,2,3,9:44 PM,1:23,Durant STEAL (2 STL),,Curry Lost Ball Turnover (P6.T13),,
+0021200729,399,1,7,3,9:44 PM,1:19,Durant  Dunk (25 PTS) (Martin 4 AST),,,74 - 88,14
+0021200729,400,5,40,3,9:44 PM,0:56,,,Thompson Out of Bounds Lost Ball Turnover (P2.T14),,
+0021200729,401,8,0,3,9:45 PM,0:56,,,SUB: Bazemore FOR Thompson,,
+0021200729,402,8,0,3,9:45 PM,0:56,,,SUB: Jenkins FOR Curry,,
+0021200729,403,1,42,3,9:45 PM,0:47,Westbrook 1' Driving Layup (22 PTS),,,74 - 90,16
+0021200729,404,1,5,3,9:45 PM,0:31,,,Landry 1' Layup (7 PTS) (Bazemore 2 AST),76 - 90,14
+0021200729,405,2,77,3,9:46 PM,0:14,MISS Westbrook 3' Driving Jump Shot,,,,
+0021200729,406,4,0,3,9:46 PM,0:13,,,Green REBOUND (Off:0 Def:2),,
+0021200729,407,6,11,3,9:46 PM,0:11,Westbrook T.FOUL (P0.T2),,,,
+0021200729,408,3,16,3,9:46 PM,0:11,,,Jefferson Free Throw Technical (9 PTS),77 - 90,13
+0021200729,410,8,0,3,9:46 PM,0:11,,,SUB: Curry FOR Green,,
+0021200729,411,8,0,3,9:46 PM,0:11,SUB: Jackson FOR Westbrook,,,,
+0021200729,412,1,73,3,9:47 PM,0:02,,,Bazemore 1' Driving Reverse Layup (7 PTS),79 - 90,11
+0021200729,413,2,1,3,9:47 PM,0:00,MISS Martin 18' Jump Shot,,,,
+0021200729,414,4,0,3,9:47 PM,0:00,,,Warriors Rebound,,
+0021200729,415,13,0,3,9:47 PM,0:00,,,,79 - 90,11
+0021200729,417,12,0,4,9:49 PM,12:00,,,,79 - 90,11
+0021200729,418,2,1,4,9:50 PM,11:41,,,MISS Bazemore  3PT Jump Shot,,
+0021200729,419,4,0,4,9:50 PM,11:40,Collison REBOUND (Off:1 Def:2),,,,
+0021200729,420,1,46,4,9:50 PM,11:25,Martin 7' Running Jump Shot (13 PTS),,,79 - 92,13
+0021200729,421,1,79,4,9:50 PM,11:08,,,Landry 10' Pullup Jump Shot (9 PTS) (Jenkins 1 AST),81 - 92,11
+0021200729,422,1,1,4,9:51 PM,10:48,Martin 24' 3PT Jump Shot (16 PTS) (Jackson 4 AST),,,81 - 95,14
+0021200729,424,5,2,4,9:51 PM,10:31,Collison STEAL (1 STL),,Landry Lost Ball Turnover (P1.T15),,
+0021200729,423,10,0,4,9:52 PM,10:31,Jump Ball Collison vs. Landry: Tip to Jackson,,,,
+0021200729,425,5,4,4,9:52 PM,10:16,Martin Traveling Turnover (P3.T12),,,,
+0021200729,426,2,1,4,9:52 PM,10:00,,,MISS Landry 18' Jump Shot,,
+0021200729,427,4,0,4,9:52 PM,9:59,Jackson REBOUND (Off:0 Def:2),,,,
+0021200729,428,2,1,4,9:52 PM,9:50,MISS Sefolosha 25' 3PT Jump Shot,,,,
+0021200729,429,4,0,4,9:52 PM,9:49,,,Landry REBOUND (Off:2 Def:6),,
+0021200729,430,5,1,4,9:53 PM,9:37,Martin STEAL (2 STL),,Bazemore Bad Pass Turnover (P2.T16),,
+0021200729,431,1,7,4,9:53 PM,9:34,Martin 1' Dunk (18 PTS) (Ibaka 3 AST),,,81 - 97,16
+0021200729,432,5,2,4,9:53 PM,9:06,Sefolosha STEAL (1 STL),,Landry Lost Ball Turnover (P2.T17),,
+0021200729,433,6,2,4,9:53 PM,9:03,,,Jenkins S.FOUL (P1.T1),,
+0021200729,434,3,11,4,9:54 PM,9:03,Jackson Free Throw 1 of 2 (3 PTS),,,81 - 98,17
+0021200729,436,8,0,4,9:54 PM,9:03,,,SUB: Lee FOR Green,,
+0021200729,437,8,0,4,9:54 PM,9:03,,,SUB: Curry FOR Jefferson,,
+0021200729,438,8,0,4,9:54 PM,9:03,,,SUB: Thompson FOR Jenkins,,
+0021200729,439,3,12,4,9:54 PM,9:03,Jackson Free Throw 2 of 2 (4 PTS),,,81 - 99,18
+0021200729,441,1,5,4,9:55 PM,8:51,,,Thompson 1' Layup (13 PTS) (Lee 3 AST),83 - 99,16
+0021200729,442,1,78,4,9:55 PM,8:38,Jackson 9' Floating Jump Shot (6 PTS),,,83 - 101,18
+0021200729,443,2,7,4,9:55 PM,8:26,Jackson BLOCK (1 BLK),,MISS Landry 1' Dunk,,
+0021200729,444,4,0,4,9:55 PM,8:24,Martin REBOUND (Off:0 Def:1),,,,
+0021200729,445,1,1,4,9:55 PM,8:09,Martin 25' 3PT Jump Shot (21 PTS) (Ibaka 4 AST),,,83 - 104,21
+0021200729,446,2,1,4,9:56 PM,7:44,,,MISS Bazemore 24' 3PT Jump Shot,,
+0021200729,447,4,0,4,9:56 PM,7:43,Collison REBOUND (Off:1 Def:3),,,,
+0021200729,448,1,1,4,9:56 PM,7:33,Collison 4' Jump Shot (8 PTS) (Jackson 5 AST),,,83 - 106,23
+0021200729,449,1,44,4,9:56 PM,7:14,,,Thompson 1' Reverse Layup (15 PTS) (Lee 4 AST),85 - 106,21
+0021200729,450,2,1,4,9:56 PM,6:59,MISS Martin 25' 3PT Jump Shot,,,,
+0021200729,451,4,0,4,9:56 PM,6:58,,,Lee REBOUND (Off:5 Def:4),,
+0021200729,452,2,1,4,9:57 PM,6:52,Sefolosha BLOCK (2 BLK),,MISS Curry 19' Jump Shot,,
+0021200729,453,4,0,4,9:57 PM,6:50,Collison REBOUND (Off:1 Def:4),,,,
+0021200729,454,6,1,4,9:57 PM,6:36,,,Landry P.FOUL (P2.T2),,
+0021200729,455,9,4,4,9:57 PM,6:36,,,,,
+0021200729,457,8,0,4,9:59 PM,6:36,SUB: Jones FOR Ibaka,,,,
+0021200729,458,8,0,4,9:59 PM,6:36,SUB: Thabeet FOR Collison,,,,
+0021200729,459,8,0,4,9:59 PM,6:36,,,SUB: Ezeli FOR Landry,,
+0021200729,460,8,0,4,9:59 PM,6:36,,,SUB: Barnes FOR Bazemore,,
+0021200729,461,2,1,4,10:00 PM,6:25,MISS Jackson 24' 3PT Jump Shot,,,,
+0021200729,462,4,0,4,10:00 PM,6:24,,,Lee REBOUND (Off:5 Def:5),,
+0021200729,463,1,1,4,10:00 PM,6:16,,,Thompson 17' Jump Shot (17 PTS) (Lee 5 AST),87 - 106,19
+0021200729,464,1,78,4,10:00 PM,6:02,Jackson 11' Floating Jump Shot (8 PTS),,,87 - 108,21
+0021200729,465,2,1,4,10:00 PM,5:49,,,MISS Curry 22' Jump Shot,,
+0021200729,466,4,0,4,10:00 PM,5:48,Jones REBOUND (Off:0 Def:1),,,,
+0021200729,467,2,1,4,10:01 PM,5:24,MISS Sefolosha 13' Jump Shot,,,,
+0021200729,468,4,0,4,10:01 PM,5:23,,,Lee REBOUND (Off:5 Def:6),,
+0021200729,469,1,44,4,10:01 PM,5:16,,,Barnes 2' Reverse Layup (19 PTS) (Lee 6 AST),89 - 108,19
+0021200729,470,1,1,4,10:01 PM,4:55,Sefolosha  3PT Jump Shot (6 PTS) (Jackson 6 AST),,,89 - 111,22
+0021200729,471,1,47,4,10:01 PM,4:38,,,Thompson 15' Turnaround Jump Shot (19 PTS),91 - 111,20
+0021200729,472,1,7,4,10:02 PM,4:20,Thabeet 1' Dunk (2 PTS) (Jones 1 AST),,,91 - 113,22
+0021200729,473,9,1,4,10:02 PM,4:18,,,Warriors Timeout: Regular (Reg.4 Short 1),,
+0021200729,475,8,0,4,10:04 PM,4:18,,,SUB: Jenkins FOR Barnes,,
+0021200729,476,8,0,4,10:04 PM,4:18,,,SUB: Tyler FOR Lee,,
+0021200729,477,8,0,4,10:04 PM,4:18,,,SUB: Green FOR Thompson,,
+0021200729,478,8,0,4,10:04 PM,4:18,,,SUB: Bazemore FOR Curry,,
+0021200729,479,8,0,4,10:04 PM,4:18,SUB: Liggins FOR Sefolosha,,,,
+0021200729,480,8,0,4,10:04 PM,4:18,SUB: Maynor FOR Martin,,,,
+0021200729,481,2,5,4,10:05 PM,4:02,Thabeet BLOCK (1 BLK),,MISS Tyler 3' Layup,,
+0021200729,482,4,0,4,10:05 PM,4:01,Jones REBOUND (Off:0 Def:2),,,,
+0021200729,483,2,1,4,10:05 PM,3:48,MISS Jones 25' 3PT Jump Shot,,,,
+0021200729,484,4,0,4,10:05 PM,3:47,,,Green REBOUND (Off:0 Def:3),,
+0021200729,485,2,1,4,10:05 PM,3:39,,,MISS Jenkins 24' Jump Shot,,
+0021200729,486,4,0,4,10:05 PM,3:38,THUNDER Rebound,,,,
+0021200729,487,6,3,4,10:05 PM,3:38,,,Tyler L.B.FOUL (P1.T3),,
+0021200729,488,1,42,4,10:06 PM,3:21,Liggins 1' Driving Layup (2 PTS),,,91 - 115,24
+0021200729,489,2,5,4,10:06 PM,3:01,Thabeet BLOCK (2 BLK),,MISS Green 3' Layup,,
+0021200729,490,4,0,4,10:06 PM,2:59,Liggins REBOUND (Off:0 Def:1),,,,
+0021200729,491,2,1,4,10:06 PM,2:52,MISS Jackson 24' 3PT Jump Shot,,,,
+0021200729,492,4,0,4,10:06 PM,2:51,,,Jenkins REBOUND (Off:0 Def:1),,
+0021200729,493,2,1,4,10:06 PM,2:45,,,MISS Jenkins 21' Jump Shot,,
+0021200729,494,4,0,4,10:06 PM,2:44,Jackson REBOUND (Off:0 Def:3),,,,
+0021200729,495,2,1,4,10:06 PM,2:34,MISS Jones 17' Jump Shot,,,,
+0021200729,496,4,0,4,10:06 PM,2:33,,,Green REBOUND (Off:0 Def:4),,
+0021200729,497,5,2,4,10:06 PM,2:25,Jackson STEAL (1 STL),,Bazemore Lost Ball Turnover (P3.T18),,
+0021200729,498,6,2,4,10:07 PM,2:23,,,Bazemore S.FOUL (P1.T4),,
+0021200729,499,9,1,4,10:07 PM,2:23,THUNDER Timeout: Regular (Full 4 Short 1),,,,
+0021200729,503,3,11,4,10:09 PM,2:23,Jackson Free Throw 1 of 2 (9 PTS),,,91 - 116,25
+0021200729,505,3,12,4,10:09 PM,2:23,Jackson Free Throw 2 of 2 (10 PTS),,,91 - 117,26
+0021200729,507,2,1,4,10:10 PM,2:01,,,MISS Tyler 16' Jump Shot,,
+0021200729,508,4,0,4,10:10 PM,2:00,,,Warriors Rebound,,
+0021200729,509,1,1,4,10:10 PM,1:57,,,Bazemore 21' Jump Shot (9 PTS) (Jenkins 2 AST),93 - 117,24
+0021200729,510,2,1,4,10:10 PM,1:40,MISS Jones 19' Jump Shot,,,,
+0021200729,511,4,0,4,10:10 PM,1:39,,,Ezeli REBOUND (Off:0 Def:1),,
+0021200729,512,2,1,4,10:11 PM,1:29,,,MISS Bazemore 18' Jump Shot,,
+0021200729,513,4,0,4,10:11 PM,1:28,,,Green REBOUND (Off:1 Def:4),,
+0021200729,514,6,2,4,10:11 PM,1:27,Thabeet S.FOUL (P2.T1),,,,
+0021200729,515,3,11,4,10:11 PM,1:27,,,Jenkins Free Throw 1 of 2 (1 PTS),94 - 117,23
+0021200729,517,3,12,4,10:11 PM,1:27,,,MISS Jenkins Free Throw 2 of 2,,
+0021200729,519,4,0,4,10:11 PM,1:26,Jones REBOUND (Off:0 Def:3),,,,
+0021200729,520,1,5,4,10:12 PM,1:09,Jackson 1' Layup (12 PTS) (Liggins 1 AST),,,94 - 119,25
+0021200729,521,1,7,4,10:12 PM,0:54,,,Ezeli  Dunk (2 PTS) (Green 1 AST),96 - 119,23
+0021200729,522,2,5,4,10:12 PM,0:42,MISS Thabeet 1' Layup,,,,
+0021200729,523,4,0,4,10:12 PM,0:41,,,Green REBOUND (Off:1 Def:5),,
+0021200729,526,5,2,4,10:13 PM,0:28,Liggins STEAL (1 STL),,Tyler Lost Ball Turnover (P1.T19),,
+0021200729,527,6,2,4,10:13 PM,0:25,,,Bazemore S.FOUL (P2.PN),,
+0021200729,528,3,11,4,10:13 PM,0:25,MISS Liggins Free Throw 1 of 2,,,,
+0021200729,529,4,1,4,10:13 PM,0:25,THUNDER Rebound,,,,
+0021200729,530,3,12,4,10:13 PM,0:25,MISS Liggins Free Throw 2 of 2,,,,
+0021200729,532,4,0,4,10:14 PM,0:25,,,Ezeli REBOUND (Off:0 Def:2),,
+0021200729,533,1,42,4,10:14 PM,0:12,,,Bazemore 2' Driving Layup (11 PTS),98 - 119,21
+0021200729,535,13,0,4,10:14 PM,0:00,,,,98 - 119,21

@@ -1,0 +1,457 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020601036,0,12,0,1,1:10 PM,12:00,,,,,
+0020601036,1,10,0,1,1:16 PM,12:00,Jump Ball Smith vs. Dampier: Tip to Johnson,,,,
+0020601036,2,2,1,1,1:16 PM,11:44,MISS Johnson 19' Jump Shot,,,,
+0020601036,3,4,0,1,1:16 PM,11:42,Pachulia REBOUND (Off:1 Def:0),,,,
+0020601036,4,2,5,1,1:16 PM,11:41,MISS Pachulia  Layup,,Dampier BLOCK (1 BLK),,
+0020601036,5,4,0,1,1:16 PM,11:38,,,Terry REBOUND (Off:0 Def:1),,
+0020601036,6,1,7,1,1:17 PM,11:22,,,Dampier  Dunk (2 PTS) (Harris 1 AST),2 - 0,-2
+0020601036,7,5,2,1,1:17 PM,11:13,Childress Lost Ball Turnover (P1.T1),,Harris STEAL (1 STL),,
+0020601036,8,1,5,1,1:17 PM,11:09,,,Terry  Layup (2 PTS) (Harris 2 AST),4 - 0,-4
+0020601036,10,2,1,1,1:17 PM,10:52,MISS Smith 18' Jump Shot,,,,
+0020601036,11,4,0,1,1:17 PM,10:50,,,Dampier REBOUND (Off:0 Def:1),,
+0020601036,12,1,5,1,1:17 PM,10:36,,,Dampier  Layup (4 PTS) (Terry 1 AST),6 - 0,-6
+0020601036,13,6,2,1,1:17 PM,10:36,Pachulia S.FOUL (P1.T1),,,,
+0020601036,14,3,10,1,1:18 PM,10:36,,,MISS Dampier Free Throw 1 of 1,,
+0020601036,15,4,0,1,1:18 PM,10:34,Pachulia REBOUND (Off:1 Def:1),,,,
+0020601036,16,6,1,1,1:18 PM,10:27,,,Howard P.FOUL (P1.T1),,
+0020601036,17,1,42,1,1:18 PM,10:27,Pachulia  Driving Layup (2 PTS),,,6 - 2,-4
+0020601036,18,6,1,1,1:19 PM,10:07,Williams P.FOUL (P1.T2),,,,
+0020601036,19,1,46,1,1:19 PM,9:54,,,Howard 11' Running Jump Shot (2 PTS),8 - 2,-6
+0020601036,20,6,2,1,1:19 PM,9:41,,,Nowitzki S.FOUL (P1.T2),,
+0020601036,21,3,11,1,1:20 PM,9:41,Smith Free Throw 1 of 2 (1 PTS),,,8 - 3,-5
+0020601036,23,3,12,1,1:20 PM,9:41,Smith Free Throw 2 of 2 (2 PTS),,,8 - 4,-4
+0020601036,24,1,1,1,1:20 PM,9:22,,,Howard 26' 3PT Jump Shot (5 PTS) (Terry 2 AST),11 - 4,-7
+0020601036,25,5,39,1,1:21 PM,9:06,Smith Step Out of Bounds Turnover (P1.T2),,,,
+0020601036,26,5,1,1,1:21 PM,8:54,Pachulia STEAL (1 STL),,Terry Bad Pass Turnover (P1.T1),,
+0020601036,27,6,2,1,1:21 PM,8:43,,,Harris S.FOUL (P1.T3),,
+0020601036,28,3,11,1,1:22 PM,8:43,MISS Pachulia Free Throw 1 of 2,,,,
+0020601036,29,4,1,1,1:22 PM,8:43,HAWKS Rebound,,,,
+0020601036,30,3,12,1,1:22 PM,8:43,MISS Pachulia Free Throw 2 of 2,,,,
+0020601036,31,4,0,1,1:22 PM,8:42,,,Dampier REBOUND (Off:0 Def:2),,
+0020601036,33,6,1,1,1:22 PM,8:37,Johnson P.FOUL (P1.T3),,,,
+0020601036,34,1,42,1,1:23 PM,8:20,,,Nowitzki  Driving Layup (2 PTS),13 - 4,-9
+0020601036,35,2,1,1,1:23 PM,8:03,MISS Williams 18' Jump Shot,,,,
+0020601036,36,4,0,1,1:23 PM,8:01,,,Nowitzki REBOUND (Off:0 Def:1),,
+0020601036,37,6,2,1,1:23 PM,7:49,Pachulia S.FOUL (P2.T4),,,,
+0020601036,38,3,11,1,1:24 PM,7:49,,,Nowitzki Free Throw 1 of 2 (3 PTS),14 - 4,-10
+0020601036,39,8,0,1,1:24 PM,7:49,SUB: Wright FOR Pachulia,,,,
+0020601036,40,3,12,1,1:24 PM,7:49,,,Nowitzki Free Throw 2 of 2 (4 PTS),15 - 4,-11
+0020601036,41,6,1,1,1:24 PM,7:39,,,Terry P.FOUL (P1.T4),,
+0020601036,42,1,1,1,1:25 PM,7:27,Smith 19' Jump Shot (4 PTS) (Johnson 1 AST),,,15 - 6,-9
+0020601036,43,1,42,1,1:25 PM,7:11,,,Terry  Driving Layup (4 PTS),17 - 6,-11
+0020601036,44,9,1,1,1:25 PM,7:04,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0020601036,46,1,1,1,1:28 PM,6:45,Johnson 19' Jump Shot (2 PTS) (Williams 1 AST),,,17 - 8,-9
+0020601036,47,1,1,1,1:28 PM,6:25,,,Howard 19' Jump Shot (7 PTS),19 - 8,-11
+0020601036,48,2,1,1,1:29 PM,5:56,MISS Smith 19' Jump Shot,,,,
+0020601036,49,4,0,1,1:29 PM,5:55,,,Dampier REBOUND (Off:0 Def:3),,
+0020601036,50,6,2,1,1:29 PM,5:39,Wright S.FOUL (P1.PN),,,,
+0020601036,51,8,0,1,1:29 PM,5:39,,,SUB: Stackhouse FOR Harris,,
+0020601036,52,3,11,1,1:29 PM,5:39,,,Howard Free Throw 1 of 2 (8 PTS),20 - 8,-12
+0020601036,53,3,12,1,1:30 PM,5:39,,,Howard Free Throw 2 of 2 (9 PTS),21 - 8,-13
+0020601036,54,2,5,1,1:30 PM,5:39,MISS Childress  Layup,,,,
+0020601036,55,4,0,1,1:30 PM,5:34,,,Howard REBOUND (Off:0 Def:1),,
+0020601036,56,6,3,1,1:30 PM,5:33,Childress L.B.FOUL (P1.PN),,,,
+0020601036,57,8,0,1,1:30 PM,5:33,SUB: Lue FOR Johnson,,,,
+0020601036,58,3,11,1,1:31 PM,5:33,,,Howard Free Throw 1 of 2 (10 PTS),22 - 8,-14
+0020601036,59,3,12,1,1:31 PM,5:33,,,Howard Free Throw 2 of 2 (11 PTS),23 - 8,-15
+0020601036,60,1,5,1,1:31 PM,5:33,Childress  Layup (2 PTS) (Wright 1 AST),,,23 - 10,-13
+0020601036,62,1,44,1,1:32 PM,5:10,,,Howard  Reverse Layup (13 PTS) (Stackhouse 1 AST),25 - 10,-15
+0020601036,63,5,41,1,1:32 PM,5:06,Williams Poss Lost Ball Turnover (P1.T3),,,,
+0020601036,64,8,0,1,1:32 PM,4:46,,,SUB: Diop FOR Dampier,,
+0020601036,65,6,2,1,1:33 PM,4:26,Wright S.FOUL (P2.PN),,,,
+0020601036,66,3,11,1,1:33 PM,4:26,,,Nowitzki Free Throw 1 of 2 (5 PTS),26 - 10,-16
+0020601036,67,8,0,1,1:33 PM,4:26,SUB: Stoudamire FOR Childress,,,,
+0020601036,68,3,12,1,1:33 PM,4:26,,,Nowitzki Free Throw 2 of 2 (6 PTS),27 - 10,-17
+0020601036,69,2,47,1,1:34 PM,4:04,MISS Williams 10' Turnaround Jump Shot,,,,
+0020601036,70,4,0,1,1:34 PM,4:01,,,Diop REBOUND (Off:0 Def:1),,
+0020601036,71,2,1,1,1:34 PM,3:47,,,MISS Nowitzki 18' Jump Shot,,
+0020601036,72,4,0,1,1:34 PM,3:46,Lue REBOUND (Off:0 Def:1),,,,
+0020601036,73,1,42,1,1:34 PM,3:40,Lue  Driving Layup (2 PTS),,,27 - 12,-15
+0020601036,74,2,1,1,1:34 PM,3:18,Smith BLOCK (1 BLK),,MISS Stackhouse 16' Jump Shot,,
+0020601036,75,4,0,1,1:34 PM,3:16,,,Stackhouse REBOUND (Off:1 Def:0),,
+0020601036,76,2,1,1,1:34 PM,3:14,,,MISS Stackhouse 14' Jump Shot,,
+0020601036,77,4,0,1,1:34 PM,3:13,Stoudamire REBOUND (Off:0 Def:1),,,,
+0020601036,78,2,1,1,1:35 PM,3:00,MISS Stoudamire 17' Jump Shot,,,,
+0020601036,79,4,0,1,1:35 PM,2:59,,,Terry REBOUND (Off:0 Def:2),,
+0020601036,80,1,5,1,1:35 PM,2:54,,,Terry  Layup (6 PTS),29 - 12,-17
+0020601036,81,6,2,1,1:35 PM,2:54,Williams S.FOUL (P2.PN),,,,
+0020601036,82,9,1,1,1:35 PM,2:54,,,Mavericks Timeout: Regular (Reg.1 Short 0),,
+0020601036,83,8,0,1,1:37 PM,2:54,SUB: Childress FOR Williams,,,,
+0020601036,84,3,10,1,1:37 PM,2:54,,,Terry Free Throw 1 of 1 (7 PTS),30 - 12,-18
+0020601036,86,2,1,1,1:38 PM,2:54,MISS Stoudamire 19' Jump Shot,,,,
+0020601036,87,4,0,1,1:38 PM,2:52,,,Stackhouse REBOUND (Off:1 Def:1),,
+0020601036,89,2,1,1,1:38 PM,2:43,,,MISS Terry 17' Jump Shot,,
+0020601036,90,4,0,1,1:38 PM,2:41,HAWKS Rebound,,,,
+0020601036,91,1,3,1,1:38 PM,2:14,Smith 7' Hook Shot (6 PTS),,,30 - 14,-16
+0020601036,92,1,42,1,1:39 PM,2:04,,,Nowitzki  Driving Layup (8 PTS) (Terry 3 AST),32 - 14,-18
+0020601036,93,1,5,1,1:39 PM,1:45,Wright  Layup (2 PTS) (Stoudamire 1 AST),,,32 - 16,-16
+0020601036,94,6,2,1,1:39 PM,1:30,Wright S.FOUL (P3.PN),,,,
+0020601036,95,8,0,1,1:40 PM,1:30,,,SUB: Harris FOR Terry,,
+0020601036,96,3,11,1,1:40 PM,1:30,,,Stackhouse Free Throw 1 of 2 (1 PTS),33 - 16,-17
+0020601036,97,8,0,1,1:40 PM,1:30,SUB: Shel. Williams FOR Wright,,,,
+0020601036,98,3,12,1,1:40 PM,1:30,,,Stackhouse Free Throw 2 of 2 (2 PTS),34 - 16,-18
+0020601036,99,2,5,1,1:40 PM,1:01,MISS Smith  Layup,,,,
+0020601036,100,4,0,1,1:40 PM,0:59,,,Diop REBOUND (Off:0 Def:2),,
+0020601036,101,1,5,1,1:41 PM,0:46,,,Stackhouse  Layup (4 PTS) (Harris 3 AST),36 - 16,-20
+0020601036,102,1,1,1,1:41 PM,0:34,Lue 17' Jump Shot (4 PTS),,,36 - 18,-18
+0020601036,103,1,1,1,1:41 PM,0:17,,,Howard 26' 3PT Jump Shot (16 PTS) (Stackhouse 2 AST),39 - 18,-21
+0020601036,105,6,2,1,1:42 PM,0:02,,,Diop S.FOUL (P1.PN),,
+0020601036,106,3,11,1,1:42 PM,0:02,MISS Lue Free Throw 1 of 2,,,,
+0020601036,107,4,1,1,1:42 PM,0:02,HAWKS Rebound,,,,
+0020601036,108,3,12,1,1:42 PM,0:02,Lue Free Throw 2 of 2 (5 PTS),,,39 - 19,-20
+0020601036,110,13,0,1,1:42 PM,0:00,,,,39 - 19,-20
+0020601036,112,12,0,2,1:45 PM,12:00,,,,39 - 19,-20
+0020601036,113,2,5,2,1:46 PM,11:40,,,MISS Stackhouse  Layup,,
+0020601036,114,4,0,2,1:46 PM,11:39,Lue REBOUND (Off:0 Def:2),,,,
+0020601036,115,6,2,2,1:46 PM,11:36,,,George S.FOUL (P1.T1),,
+0020601036,116,3,11,2,1:46 PM,11:36,Childress Free Throw 1 of 2 (3 PTS),,,39 - 20,-19
+0020601036,117,3,12,2,1:46 PM,11:36,MISS Childress Free Throw 2 of 2,,,,
+0020601036,118,4,0,2,1:47 PM,11:35,,,Dampier REBOUND (Off:0 Def:4),,
+0020601036,119,1,7,2,1:47 PM,11:26,,,Dampier  Dunk (6 PTS) (Stackhouse 3 AST),41 - 20,-21
+0020601036,120,1,47,2,1:47 PM,11:00,Smith 7' Turnaround Jump Shot (8 PTS),,,41 - 22,-19
+0020601036,121,6,2,2,1:47 PM,11:00,,,George S.FOUL (P2.T2),,
+0020601036,122,3,10,2,1:47 PM,11:00,Smith Free Throw 1 of 1 (9 PTS),,,41 - 23,-18
+0020601036,123,5,2,2,1:48 PM,10:47,Shel. Williams STEAL (1 STL),,Stackhouse Lost Ball Turnover (P1.T2),,
+0020601036,124,6,1,2,1:48 PM,10:47,,,Dampier P.FOUL (P1.T3),,
+0020601036,125,8,0,2,1:48 PM,10:47,,,SUB: Terry FOR Howard,,
+0020601036,126,2,1,2,1:48 PM,10:36,MISS Lue 17' Jump Shot,,,,
+0020601036,127,4,0,2,1:48 PM,10:34,,,Dampier REBOUND (Off:0 Def:5),,
+0020601036,128,2,5,2,1:49 PM,10:27,,,MISS Harris  Layup,,
+0020601036,129,4,0,2,1:49 PM,10:25,Stoudamire REBOUND (Off:0 Def:2),,,,
+0020601036,130,5,1,2,1:49 PM,10:22,Stoudamire Bad Pass Turnover (P1.T4),,Terry STEAL (1 STL),,
+0020601036,131,2,1,2,1:49 PM,10:14,,,MISS Terry 26' 3PT Jump Shot,,
+0020601036,132,4,0,2,1:49 PM,10:13,Smith REBOUND (Off:0 Def:1),,,,
+0020601036,133,1,42,2,1:49 PM,10:05,Smith  Driving Layup (11 PTS),,,41 - 25,-16
+0020601036,134,6,2,2,1:49 PM,10:05,,,Dampier S.FOUL (P2.T4),,
+0020601036,136,8,0,2,1:49 PM,10:05,,,SUB: Diop FOR Dampier,,
+0020601036,137,8,0,2,1:49 PM,10:05,,,SUB: Nowitzki FOR Stackhouse,,
+0020601036,138,3,10,2,1:50 PM,10:05,Smith Free Throw 1 of 1 (12 PTS),,,41 - 26,-15
+0020601036,140,2,1,2,1:50 PM,9:47,,,MISS George 8' Jump Shot,,
+0020601036,141,4,0,2,1:50 PM,9:46,Smith REBOUND (Off:0 Def:2),,,,
+0020601036,142,5,2,2,1:50 PM,9:42,Stoudamire Lost Ball Turnover (P2.T5),,Harris STEAL (2 STL),,
+0020601036,143,1,45,2,1:50 PM,9:35,,,Nowitzki 12' Jump Shot (10 PTS) (Harris 4 AST),43 - 26,-17
+0020601036,144,2,42,2,1:51 PM,9:15,MISS Shel. Williams  Driving Layup,,,,
+0020601036,145,4,0,2,1:51 PM,9:13,,,Diop REBOUND (Off:0 Def:3),,
+0020601036,146,1,63,2,1:51 PM,9:01,,,Nowitzki 19' Fadeaway Jumper (12 PTS),45 - 26,-19
+0020601036,147,2,1,2,1:51 PM,8:42,MISS Smith 5' Jump Shot,,,,
+0020601036,148,4,0,2,1:51 PM,8:40,,,George REBOUND (Off:0 Def:1),,
+0020601036,149,2,1,2,1:51 PM,8:21,,,MISS George 25' 3PT Jump Shot,,
+0020601036,150,4,0,2,1:52 PM,8:20,Lue REBOUND (Off:0 Def:3),,,,
+0020601036,151,2,5,2,1:52 PM,8:09,MISS Shel. Williams  Layup,,,,
+0020601036,152,4,0,2,1:52 PM,8:08,Shel. Williams REBOUND (Off:1 Def:0),,,,
+0020601036,153,2,5,2,1:52 PM,8:07,MISS Shel. Williams  Layup,,,,
+0020601036,154,4,0,2,1:52 PM,8:06,,,Nowitzki REBOUND (Off:0 Def:2),,
+0020601036,155,6,3,2,1:52 PM,8:06,Shel. Williams L.B.FOUL (P1.T1),,,,
+0020601036,156,9,4,2,1:52 PM,8:06,,,,,
+0020601036,158,8,0,2,1:54 PM,8:06,,,SUB: Buckner FOR George,,
+0020601036,159,2,1,2,1:55 PM,7:45,,,MISS Buckner 25' 3PT Jump Shot,,
+0020601036,160,4,0,2,1:55 PM,7:44,Childress REBOUND (Off:0 Def:1),,,,
+0020601036,161,2,1,2,1:55 PM,7:25,MISS Smith 20' Jump Shot,,,,
+0020601036,162,4,0,2,1:55 PM,7:23,,,Buckner REBOUND (Off:0 Def:1),,
+0020601036,163,1,1,2,1:55 PM,7:12,,,Nowitzki 19' Jump Shot (14 PTS) (Harris 5 AST),47 - 26,-21
+0020601036,164,2,47,2,1:56 PM,6:51,MISS Lue 11' Turnaround Jump Shot,,,,
+0020601036,165,4,0,2,1:56 PM,6:50,,,Diop REBOUND (Off:0 Def:4),,
+0020601036,166,6,2,2,1:56 PM,6:36,Smith S.FOUL (P1.T2),,,,
+0020601036,167,8,0,2,1:56 PM,6:36,SUB: Johnson FOR Lue,,,,
+0020601036,168,8,0,2,1:56 PM,6:36,SUB: Williams FOR Stoudamire,,,,
+0020601036,169,3,11,2,1:56 PM,6:36,,,MISS Diop Free Throw 1 of 2,,
+0020601036,170,4,1,2,1:56 PM,6:36,,,Mavericks Rebound,,
+0020601036,172,8,0,2,1:57 PM,6:36,,,SUB: Howard FOR Terry,,
+0020601036,173,3,12,2,1:57 PM,6:36,,,Diop Free Throw 2 of 2 (1 PTS),48 - 26,-22
+0020601036,175,6,1,2,1:57 PM,6:26,,,Buckner P.FOUL (P1.PN),,
+0020601036,176,3,11,2,1:57 PM,6:26,Childress Free Throw 1 of 2 (4 PTS),,,48 - 27,-21
+0020601036,177,3,12,2,1:58 PM,6:26,Childress Free Throw 2 of 2 (5 PTS),,,48 - 28,-20
+0020601036,178,2,47,2,1:58 PM,6:06,,,MISS Nowitzki 16' Turnaround Jump Shot,,
+0020601036,179,4,0,2,1:58 PM,6:04,,,Diop REBOUND (Off:1 Def:4),,
+0020601036,180,6,2,2,1:58 PM,5:58,Childress S.FOUL (P2.T3),,,,
+0020601036,181,9,1,2,1:59 PM,5:58,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0020601036,182,3,11,2,2:01 PM,5:58,,,Nowitzki Free Throw 1 of 2 (15 PTS),49 - 28,-21
+0020601036,183,3,12,2,2:01 PM,5:58,,,MISS Nowitzki Free Throw 2 of 2,,
+0020601036,184,4,0,2,2:01 PM,5:56,Williams REBOUND (Off:0 Def:1),,,,
+0020601036,185,6,2,2,2:02 PM,5:41,,,Howard S.FOUL (P2.PN),,
+0020601036,186,3,11,2,2:02 PM,5:41,MISS Shel. Williams Free Throw 1 of 2,,,,
+0020601036,187,4,1,2,2:02 PM,5:41,HAWKS Rebound,,,,
+0020601036,188,3,12,2,2:02 PM,5:41,MISS Shel. Williams Free Throw 2 of 2,,,,
+0020601036,189,4,0,2,2:02 PM,5:39,,,Howard REBOUND (Off:0 Def:2),,
+0020601036,190,1,47,2,2:03 PM,5:16,,,Howard 13' Turnaround Jump Shot (18 PTS),51 - 28,-23
+0020601036,191,6,1,2,2:03 PM,4:57,,,Buckner P.FOUL (P2.PN),,
+0020601036,192,3,11,2,2:03 PM,4:57,Shel. Williams Free Throw 1 of 2 (1 PTS),,,51 - 29,-22
+0020601036,193,3,12,2,2:03 PM,4:57,Shel. Williams Free Throw 2 of 2 (2 PTS),,,51 - 30,-21
+0020601036,194,2,1,2,2:04 PM,4:36,,,MISS Buckner 18' Jump Shot,,
+0020601036,195,4,0,2,2:04 PM,4:35,Smith REBOUND (Off:0 Def:3),,,,
+0020601036,196,2,42,2,2:04 PM,4:29,MISS Smith  Driving Layup,,,,
+0020601036,197,4,0,2,2:04 PM,4:27,,,Harris REBOUND (Off:0 Def:1),,
+0020601036,198,5,1,2,2:04 PM,4:24,,,Harris Bad Pass Turnover (P1.T3),,
+0020601036,200,8,0,2,2:04 PM,4:24,SUB: Pachulia FOR Shel. Williams,,,,
+0020601036,201,2,1,2,2:05 PM,4:12,MISS Johnson 8' Jump Shot,,,,
+0020601036,202,4,0,2,2:05 PM,4:12,Pachulia REBOUND (Off:2 Def:1),,,,
+0020601036,203,6,3,2,2:05 PM,4:12,,,Diop L.B.FOUL (P2.PN),,
+0020601036,204,8,0,2,2:05 PM,4:12,,,SUB: Stackhouse FOR Nowitzki,,
+0020601036,205,8,0,2,2:05 PM,4:12,,,SUB: George FOR Buckner,,
+0020601036,206,3,11,2,2:05 PM,4:12,Pachulia Free Throw 1 of 2 (3 PTS),,,51 - 31,-20
+0020601036,207,3,12,2,2:05 PM,4:12,Pachulia Free Throw 2 of 2 (4 PTS),,,51 - 32,-19
+0020601036,208,2,1,2,2:06 PM,3:50,,,MISS Diop 6' Jump Shot,,
+0020601036,209,4,0,2,2:06 PM,3:48,Williams REBOUND (Off:0 Def:2),,,,
+0020601036,210,2,5,2,2:06 PM,3:41,MISS Smith  Layup,,,,
+0020601036,211,4,0,2,2:06 PM,3:40,,,Howard REBOUND (Off:0 Def:3),,
+0020601036,212,2,1,2,2:06 PM,3:15,,,MISS Stackhouse 12' Jump Shot,,
+0020601036,213,4,0,2,2:06 PM,3:13,,,Stackhouse REBOUND (Off:2 Def:1),,
+0020601036,214,2,5,2,2:06 PM,3:10,,,MISS Howard  Layup,,
+0020601036,215,4,0,2,2:06 PM,3:09,Pachulia REBOUND (Off:2 Def:2),,,,
+0020601036,216,2,1,2,2:07 PM,3:04,MISS Johnson 20' Jump Shot,,,,
+0020601036,217,4,0,2,2:07 PM,3:01,Childress REBOUND (Off:1 Def:1),,,,
+0020601036,218,1,7,2,2:07 PM,2:59,Childress  Dunk (7 PTS),,,51 - 34,-17
+0020601036,220,9,1,2,2:07 PM,2:50,,,Mavericks Timeout: Regular (Reg.2 Short 0),,
+0020601036,221,8,0,2,2:09 PM,2:50,,,SUB: Nowitzki FOR Howard,,
+0020601036,222,8,0,2,2:09 PM,2:50,,,SUB: Terry FOR Harris,,
+0020601036,223,1,1,2,2:09 PM,2:36,,,Terry 25' 3PT Jump Shot (10 PTS) (Nowitzki 1 AST),54 - 34,-20
+0020601036,225,6,17,2,2:10 PM,2:20,,,Mavericks T.Foul (Def. 3 Sec Stackhouse ),,
+0020601036,226,3,16,2,2:10 PM,2:20,Williams Free Throw Technical (1 PTS),,,54 - 35,-19
+0020601036,227,6,1,2,2:10 PM,2:12,,,George P.FOUL (P3.PN),,
+0020601036,228,3,11,2,2:11 PM,2:12,Childress Free Throw 1 of 2 (8 PTS),,,54 - 36,-18
+0020601036,229,3,12,2,2:11 PM,2:12,Childress Free Throw 2 of 2 (9 PTS),,,54 - 37,-17
+0020601036,230,1,7,2,2:11 PM,2:07,,,Stackhouse  Dunk (6 PTS) (Terry 4 AST),56 - 37,-19
+0020601036,231,2,1,2,2:12 PM,1:44,MISS Williams 20' Jump Shot,,,,
+0020601036,232,4,0,2,2:12 PM,1:42,,,Stackhouse REBOUND (Off:2 Def:2),,
+0020601036,233,5,1,2,2:12 PM,1:39,,,Terry Bad Pass Turnover (P2.T4),,
+0020601036,235,1,1,2,2:13 PM,1:15,Williams 15' Jump Shot (3 PTS) (Johnson 2 AST),,,56 - 39,-17
+0020601036,236,2,46,2,2:13 PM,0:51,,,MISS Terry 6' Running Jump Shot,,
+0020601036,237,4,0,2,2:13 PM,0:50,Pachulia REBOUND (Off:2 Def:3),,,,
+0020601036,238,2,1,2,2:13 PM,0:43,MISS Williams 19' Jump Shot,,,,
+0020601036,240,4,0,2,2:13 PM,0:43,Childress REBOUND (Off:2 Def:1),,,,
+0020601036,239,2,4,2,2:13 PM,0:43,MISS Childress  Tip Shot,,,,
+0020601036,241,4,0,2,2:13 PM,0:43,Childress REBOUND (Off:3 Def:1),,,,
+0020601036,242,6,2,2,2:13 PM,0:43,,,Diop S.FOUL (P3.PN),,
+0020601036,243,3,11,2,2:13 PM,0:43,Childress Free Throw 1 of 2 (10 PTS),,,56 - 40,-16
+0020601036,244,8,0,2,2:14 PM,0:43,SUB: Shel. Williams FOR Pachulia,,,,
+0020601036,245,8,0,2,2:14 PM,0:43,SUB: Ivey FOR Williams,,,,
+0020601036,246,8,0,2,2:14 PM,0:43,,,SUB: Harris FOR Diop,,
+0020601036,247,3,12,2,2:14 PM,0:43,Childress Free Throw 2 of 2 (11 PTS),,,56 - 41,-15
+0020601036,249,1,1,2,2:15 PM,0:24,,,Harris 17' Jump Shot (2 PTS) (Stackhouse 4 AST),58 - 41,-17
+0020601036,250,5,1,2,2:15 PM,0:03,Childress Bad Pass Turnover (P2.T6),,Terry STEAL (2 STL),,
+0020601036,251,5,2,2,2:15 PM,0:00,Shel. Williams STEAL (2 STL),,Terry Lost Ball Turnover (P3.T5),,
+0020601036,255,2,45,2,2:15 PM,0:00,MISS Shel. Williams 5' Jump Shot,,,,
+0020601036,256,4,0,2,2:15 PM,0:00,Shel. Williams REBOUND (Off:2 Def:0),,,,
+0020601036,252,1,5,2,2:15 PM,0:00,Shel. Williams  Layup (4 PTS),,,58 - 43,-15
+0020601036,253,6,2,2,2:15 PM,0:00,,,Harris S.FOUL (P2.PN),,
+0020601036,254,3,10,2,2:15 PM,0:00,Shel. Williams Free Throw 1 of 1 (5 PTS),,,58 - 44,-14
+0020601036,258,13,0,2,2:16 PM,0:00,,,,58 - 44,-14
+0020601036,260,12,0,3,2:32 PM,12:00,,,,58 - 44,-14
+0020601036,261,5,21,3,2:33 PM,11:47,,,Terry Palming Turnover (P4.T6),,
+0020601036,262,1,42,3,2:33 PM,11:30,Pachulia  Driving Layup (6 PTS) (Johnson 3 AST),,,58 - 46,-12
+0020601036,263,6,2,3,2:33 PM,11:30,,,Dampier S.FOUL (P3.T1),,
+0020601036,264,3,10,3,2:33 PM,11:30,Pachulia Free Throw 1 of 1 (7 PTS),,,58 - 47,-11
+0020601036,265,2,1,3,2:34 PM,11:09,,,MISS Howard 10' Jump Shot,,
+0020601036,266,4,0,3,2:34 PM,11:09,,,Mavericks Rebound,,
+0020601036,267,1,47,3,2:34 PM,11:01,,,Harris 8' Turnaround Jump Shot (4 PTS) (Howard 1 AST),60 - 47,-13
+0020601036,268,1,3,3,2:34 PM,10:43,Childress 10' Hook Shot (13 PTS),,,60 - 49,-11
+0020601036,269,2,3,3,2:35 PM,10:30,,,MISS Dampier 9' Hook Shot,,
+0020601036,270,4,0,3,2:35 PM,10:28,Williams REBOUND (Off:0 Def:3),,,,
+0020601036,271,2,1,3,2:35 PM,10:21,MISS Smith 8' Jump Shot,,,,
+0020601036,272,4,0,3,2:35 PM,10:20,Pachulia REBOUND (Off:3 Def:3),,,,
+0020601036,273,2,4,3,2:35 PM,10:18,MISS Pachulia  Tip Shot,,,,
+0020601036,274,4,0,3,2:35 PM,10:18,Smith REBOUND (Off:1 Def:3),,,,
+0020601036,275,6,2,3,2:35 PM,10:18,,,Nowitzki S.FOUL (P2.T2),,
+0020601036,276,3,11,3,2:35 PM,10:18,Smith Free Throw 1 of 2 (13 PTS),,,60 - 50,-10
+0020601036,277,3,12,3,2:35 PM,10:18,Smith Free Throw 2 of 2 (14 PTS),,,60 - 51,-9
+0020601036,278,1,42,3,2:36 PM,10:02,,,Nowitzki  Driving Layup (17 PTS),62 - 51,-11
+0020601036,279,1,42,3,2:36 PM,9:39,Smith  Driving Layup (16 PTS),,,62 - 53,-9
+0020601036,281,2,1,3,2:37 PM,9:17,,,MISS Nowitzki 19' Jump Shot,,
+0020601036,282,4,0,3,2:37 PM,9:15,Williams REBOUND (Off:0 Def:4),,,,
+0020601036,283,1,1,3,2:37 PM,9:06,Johnson 23' Jump Shot (4 PTS) (Pachulia 1 AST),,,62 - 55,-7
+0020601036,284,9,1,3,2:37 PM,9:05,,,Mavericks Timeout: Regular (Reg.3 Short 0),,
+0020601036,285,2,1,3,2:39 PM,8:41,Childress BLOCK (1 BLK),,MISS Terry 15' Jump Shot,,
+0020601036,286,4,0,3,2:39 PM,8:39,Pachulia REBOUND (Off:3 Def:4),,,,
+0020601036,287,5,11,3,2:40 PM,8:17,HAWKS Turnover: Shot Clock (T#7),,,,
+0020601036,288,1,63,3,2:40 PM,8:03,,,Howard 18' Fadeaway Jumper (20 PTS),64 - 55,-9
+0020601036,289,5,2,3,2:40 PM,7:58,Childress Lost Ball Turnover (P3.T8),,Howard STEAL (1 STL),,
+0020601036,290,6,2,3,2:41 PM,7:37,Williams S.FOUL (P3.T1),,,,
+0020601036,291,3,11,3,2:41 PM,7:37,,,Howard Free Throw 1 of 2 (21 PTS),65 - 55,-10
+0020601036,292,3,12,3,2:41 PM,7:37,,,MISS Howard Free Throw 2 of 2,,
+0020601036,293,4,0,3,2:42 PM,7:36,Pachulia REBOUND (Off:3 Def:5),,,,
+0020601036,294,6,1,3,2:42 PM,7:20,,,Terry P.FOUL (P2.T3),,
+0020601036,295,2,1,3,2:42 PM,7:07,MISS Johnson 21' Jump Shot,,,,
+0020601036,296,4,0,3,2:42 PM,7:05,,,Dampier REBOUND (Off:0 Def:6),,
+0020601036,297,1,1,3,2:43 PM,6:55,,,Nowitzki 20' Jump Shot (19 PTS) (Harris 6 AST),67 - 55,-12
+0020601036,298,9,1,3,2:43 PM,6:54,HAWKS Timeout: Regular (Full 3 Short 0),,,,
+0020601036,300,6,2,3,2:45 PM,6:35,,,Harris S.FOUL (P3.T4),,
+0020601036,301,3,11,3,2:46 PM,6:35,Childress Free Throw 1 of 2 (14 PTS),,,67 - 56,-11
+0020601036,302,3,12,3,2:46 PM,6:35,Childress Free Throw 2 of 2 (15 PTS),,,67 - 57,-10
+0020601036,303,2,1,3,2:47 PM,6:11,,,MISS Harris 18' Jump Shot,,
+0020601036,304,4,0,3,2:47 PM,6:08,Pachulia REBOUND (Off:3 Def:6),,,,
+0020601036,305,5,1,3,2:47 PM,6:04,Smith Bad Pass Turnover (P2.T9),,Harris STEAL (3 STL),,
+0020601036,306,1,1,3,2:47 PM,5:58,,,Howard 17' Jump Shot (23 PTS) (Nowitzki 2 AST),69 - 57,-12
+0020601036,307,6,2,3,2:47 PM,5:39,,,Dampier S.FOUL (P4.PN),,
+0020601036,308,8,0,3,2:47 PM,5:39,,,SUB: Stackhouse FOR Harris,,
+0020601036,309,3,11,3,2:47 PM,5:39,MISS Pachulia Free Throw 1 of 2,,,,
+0020601036,310,4,1,3,2:47 PM,5:39,HAWKS Rebound,,,,
+0020601036,311,3,12,3,2:48 PM,5:39,Pachulia Free Throw 2 of 2 (8 PTS),,,69 - 58,-11
+0020601036,313,6,2,3,2:48 PM,5:26,Johnson S.FOUL (P2.T2),,,,
+0020601036,314,3,11,3,2:48 PM,5:26,,,Nowitzki Free Throw 1 of 2 (20 PTS),70 - 58,-12
+0020601036,315,8,0,3,2:49 PM,5:26,,,SUB: Diop FOR Dampier,,
+0020601036,316,3,12,3,2:49 PM,5:26,,,Nowitzki Free Throw 2 of 2 (21 PTS),71 - 58,-13
+0020601036,317,5,1,3,2:49 PM,5:11,Pachulia Bad Pass Turnover (P1.T10),,,,
+0020601036,318,5,4,3,2:50 PM,4:52,,,Terry Traveling Turnover (P5.T7),,
+0020601036,319,2,66,3,2:50 PM,4:42,MISS Smith 8' Jump Bank Shot,,,,
+0020601036,320,4,0,3,2:50 PM,4:40,,,Diop REBOUND (Off:1 Def:5),,
+0020601036,321,2,1,3,2:50 PM,4:29,,,MISS Stackhouse 24' 3PT Jump Shot,,
+0020601036,322,4,0,3,2:50 PM,4:27,,,Diop REBOUND (Off:2 Def:5),,
+0020601036,323,2,45,3,2:50 PM,4:25,,,MISS Nowitzki 24' 3PT Jump Shot,,
+0020601036,324,4,0,3,2:50 PM,4:23,Pachulia REBOUND (Off:3 Def:7),,,,
+0020601036,325,1,1,3,2:51 PM,4:17,Williams 20' Jump Shot (5 PTS) (Johnson 4 AST),,,71 - 60,-11
+0020601036,326,5,2,3,2:51 PM,3:57,Smith STEAL (1 STL),,Nowitzki Lost Ball Turnover (P1.T8),,
+0020601036,327,1,1,3,2:51 PM,3:50,Johnson 26' 3PT Jump Shot (7 PTS) (Smith 1 AST),,,71 - 63,-8
+0020601036,328,2,63,3,2:51 PM,3:27,,,MISS Nowitzki 18' Fadeaway Jumper,,
+0020601036,329,4,0,3,2:51 PM,3:25,Pachulia REBOUND (Off:3 Def:8),,,,
+0020601036,330,9,2,3,2:51 PM,3:22,HAWKS Timeout: Short (Full 3 Short 1),,,,
+0020601036,331,8,0,3,2:52 PM,3:22,SUB: Lue FOR Johnson,,,,
+0020601036,332,8,0,3,2:53 PM,3:22,,,SUB: Harris FOR Nowitzki,,
+0020601036,333,2,1,3,2:53 PM,3:10,MISS Smith 19' Jump Shot,,,,
+0020601036,334,4,0,3,2:53 PM,3:09,,,Stackhouse REBOUND (Off:2 Def:3),,
+0020601036,336,1,1,3,2:53 PM,2:52,,,Terry 14' Jump Shot (12 PTS),73 - 63,-10
+0020601036,337,2,5,3,2:53 PM,2:36,MISS Smith  Layup,,Diop BLOCK (1 BLK),,
+0020601036,338,4,0,3,2:53 PM,2:35,,,Diop REBOUND (Off:2 Def:6),,
+0020601036,339,6,1,3,2:53 PM,2:35,Smith P.FOUL (P2.T3),,,,
+0020601036,340,8,0,3,2:54 PM,2:35,SUB: Johnson FOR Smith,,,,
+0020601036,341,5,1,3,2:54 PM,2:21,Childress STEAL (1 STL),,Stackhouse Bad Pass Turnover (P2.T9),,
+0020601036,342,1,1,3,2:54 PM,2:06,Williams 18' Jump Shot (7 PTS) (Lue 1 AST),,,73 - 65,-8
+0020601036,343,2,1,3,2:55 PM,1:43,,,MISS Howard 17' Jump Shot,,
+0020601036,344,4,0,3,2:55 PM,1:42,Childress REBOUND (Off:3 Def:2),,,,
+0020601036,345,2,1,3,2:55 PM,1:34,MISS Johnson 24' 3PT Jump Shot,,,,
+0020601036,346,4,0,3,2:55 PM,1:32,,,Harris REBOUND (Off:0 Def:2),,
+0020601036,347,6,2,3,2:55 PM,1:30,Lue S.FOUL (P1.T4),,,,
+0020601036,348,8,0,3,2:55 PM,1:30,,,SUB: Buckner FOR Howard,,
+0020601036,349,3,11,3,2:55 PM,1:30,,,Harris Free Throw 1 of 2 (5 PTS),74 - 65,-9
+0020601036,350,8,0,3,2:55 PM,1:30,SUB: Stoudamire FOR Johnson,,,,
+0020601036,351,3,12,3,2:56 PM,1:30,,,Harris Free Throw 2 of 2 (6 PTS),75 - 65,-10
+0020601036,352,1,1,3,2:56 PM,1:16,Childress 21' Jump Shot (17 PTS) (Williams 2 AST),,,75 - 67,-8
+0020601036,353,5,1,3,2:56 PM,1:00,Pachulia STEAL (2 STL),,Stackhouse Bad Pass Turnover (P3.T10),,
+0020601036,354,2,1,3,2:57 PM,0:42,MISS Pachulia 17' Jump Shot,,,,
+0020601036,355,4,0,3,2:57 PM,0:41,,,Harris REBOUND (Off:0 Def:3),,
+0020601036,356,2,1,3,2:57 PM,0:24,,,MISS Buckner 11' Jump Shot,,
+0020601036,357,4,0,3,2:57 PM,0:23,Williams REBOUND (Off:0 Def:5),,,,
+0020601036,358,5,1,3,2:58 PM,0:05,Lue Bad Pass Turnover (P1.T11),,Harris STEAL (4 STL),,
+0020601036,359,5,1,3,2:58 PM,0:02,,,Stackhouse Bad Pass Turnover (P4.T11),,
+0020601036,361,13,0,3,2:58 PM,0:00,,,,75 - 67,-8
+0020601036,362,12,0,4,3:01 PM,12:00,,,,75 - 67,-8
+0020601036,363,6,2,4,3:01 PM,11:46,,,Stackhouse S.FOUL (P1.T1),,
+0020601036,364,3,11,4,3:01 PM,11:46,Stoudamire Free Throw 1 of 2 (1 PTS),,,75 - 68,-7
+0020601036,365,3,12,4,3:02 PM,11:46,MISS Stoudamire Free Throw 2 of 2,,,,
+0020601036,366,4,0,4,3:02 PM,11:45,,,Dampier REBOUND (Off:0 Def:7),,
+0020601036,367,5,8,4,3:02 PM,11:34,,,Dampier 3 Second Violation Turnover (P1.T12),,
+0020601036,368,2,44,4,3:03 PM,11:18,MISS Williams  Reverse Layup,,,,
+0020601036,369,4,0,4,3:03 PM,11:17,HAWKS Rebound,,,,
+0020601036,370,8,0,4,3:03 PM,11:17,,,SUB: Howard FOR Stackhouse,,
+0020601036,371,1,42,4,3:03 PM,11:10,Lue  Driving Layup (7 PTS),,,75 - 70,-5
+0020601036,372,6,2,4,3:03 PM,11:10,,,Harris S.FOUL (P4.T2),,
+0020601036,373,3,10,4,3:03 PM,11:10,Lue Free Throw 1 of 1 (8 PTS),,,75 - 71,-4
+0020601036,375,2,1,4,3:04 PM,10:45,,,MISS Harris 21' Jump Shot,,
+0020601036,376,4,0,4,3:04 PM,10:44,Pachulia REBOUND (Off:3 Def:9),,,,
+0020601036,378,5,8,4,3:04 PM,10:34,Pachulia 3 Second Violation Turnover (P2.T12),,,,
+0020601036,379,5,11,4,3:05 PM,10:10,,,Mavericks Turnover: Shot Clock (T#13),,
+0020601036,380,6,2,4,3:05 PM,9:57,,,Harris S.FOUL (P5.T3),,
+0020601036,381,8,0,4,3:05 PM,9:57,,,SUB: Terry FOR Harris,,
+0020601036,382,3,11,4,3:06 PM,9:57,Lue Free Throw 1 of 2 (9 PTS),,,75 - 72,-3
+0020601036,383,3,12,4,3:06 PM,9:57,Lue Free Throw 2 of 2 (10 PTS),,,75 - 73,-2
+0020601036,385,1,46,4,3:06 PM,9:35,,,Nowitzki 10' Running Jump Shot (23 PTS) (Terry 5 AST),77 - 73,-4
+0020601036,386,6,1,4,3:07 PM,9:18,,,Howard P.FOUL (P3.T4),,
+0020601036,387,8,0,4,3:07 PM,9:18,SUB: Smith FOR Williams,,,,
+0020601036,388,6,2,4,3:07 PM,9:07,,,Terry S.FOUL (P3.PN),,
+0020601036,389,3,11,4,3:07 PM,9:07,Lue Free Throw 1 of 2 (11 PTS),,,77 - 74,-3
+0020601036,390,3,12,4,3:08 PM,9:07,Lue Free Throw 2 of 2 (12 PTS),,,77 - 75,-2
+0020601036,391,2,42,4,3:08 PM,8:46,,,MISS Howard  Driving Layup,,
+0020601036,392,4,0,4,3:08 PM,8:44,Smith REBOUND (Off:1 Def:4),,,,
+0020601036,393,6,2,4,3:09 PM,8:41,,,Buckner S.FOUL (P3.PN),,
+0020601036,394,9,4,4,3:09 PM,8:41,,,,,
+0020601036,395,3,11,4,3:11 PM,8:41,Pachulia Free Throw 1 of 2 (9 PTS),,,77 - 76,-1
+0020601036,396,8,0,4,3:11 PM,8:41,,,SUB: Diop FOR Dampier,,
+0020601036,397,3,12,4,3:11 PM,8:41,Pachulia Free Throw 2 of 2 (10 PTS),,,77 - 77,TIE
+0020601036,399,5,1,4,3:12 PM,8:28,Smith STEAL (2 STL),,Terry Bad Pass Turnover (P6.T14),,
+0020601036,400,1,7,4,3:12 PM,8:24,Childress  Dunk (19 PTS) (Stoudamire 2 AST),,,77 - 79,2
+0020601036,401,1,1,4,3:12 PM,8:01,,,Terry 17' Jump Shot (14 PTS),79 - 79,TIE
+0020601036,402,5,2,4,3:12 PM,7:46,Pachulia Lost Ball Turnover (P3.T13),,Diop STEAL (1 STL),,
+0020601036,403,6,2,4,3:12 PM,7:44,Childress S.FOUL (P3.T1),,,,
+0020601036,404,8,0,4,3:12 PM,7:44,,,SUB: Stackhouse FOR Buckner,,
+0020601036,405,3,11,4,3:13 PM,7:44,,,Howard Free Throw 1 of 2 (24 PTS),80 - 79,-1
+0020601036,406,3,12,4,3:13 PM,7:44,,,Howard Free Throw 2 of 2 (25 PTS),81 - 79,-2
+0020601036,407,2,1,4,3:13 PM,7:24,MISS Stoudamire 18' Jump Shot,,,,
+0020601036,408,4,0,4,3:13 PM,7:23,,,Nowitzki REBOUND (Off:0 Def:3),,
+0020601036,409,2,1,4,3:14 PM,7:08,,,MISS Terry 25' 3PT Jump Shot,,
+0020601036,410,4,0,4,3:14 PM,7:06,,,Nowitzki REBOUND (Off:1 Def:3),,
+0020601036,411,6,1,4,3:14 PM,7:05,Pachulia P.FOUL (P3.T2),,,,
+0020601036,413,1,1,4,3:14 PM,6:52,,,Terry 20' Jump Shot (16 PTS) (Stackhouse 5 AST),83 - 79,-4
+0020601036,414,9,1,4,3:14 PM,6:45,HAWKS Timeout: Regular (Full 4 Short 1),,,,
+0020601036,415,8,0,4,3:16 PM,6:45,SUB: Williams FOR Stoudamire,,,,
+0020601036,417,6,1,4,3:17 PM,6:36,,,Nowitzki P.FOUL (P3.PN),,
+0020601036,418,3,11,4,3:17 PM,6:36,MISS Smith Free Throw 1 of 2,,,,
+0020601036,419,4,1,4,3:17 PM,6:36,HAWKS Rebound,,,,
+0020601036,420,3,12,4,3:17 PM,6:36,Smith Free Throw 2 of 2 (17 PTS),,,83 - 80,-3
+0020601036,421,1,1,4,3:18 PM,6:15,,,Howard 24' 3PT Jump Shot (28 PTS) (Stackhouse 6 AST),86 - 80,-6
+0020601036,422,1,42,4,3:18 PM,5:54,Smith  Driving Layup (19 PTS) (Lue 2 AST),,,86 - 82,-4
+0020601036,423,2,5,4,3:19 PM,5:34,,,MISS Howard  Layup,,
+0020601036,424,4,0,4,3:19 PM,5:31,Smith REBOUND (Off:1 Def:5),,,,
+0020601036,425,6,2,4,3:19 PM,5:26,,,Stackhouse S.FOUL (P2.PN),,
+0020601036,426,3,11,4,3:19 PM,5:26,Williams Free Throw 1 of 2 (8 PTS),,,86 - 83,-3
+0020601036,427,3,12,4,3:19 PM,5:26,Williams Free Throw 2 of 2 (9 PTS),,,86 - 84,-2
+0020601036,428,1,1,4,3:20 PM,5:07,,,Nowitzki 27' 3PT Jump Shot (26 PTS) (Terry 6 AST),89 - 84,-5
+0020601036,429,2,1,4,3:20 PM,4:48,MISS Williams 19' Jump Shot,,,,
+0020601036,430,4,0,4,3:20 PM,4:45,,,Terry REBOUND (Off:0 Def:3),,
+0020601036,431,2,63,4,3:21 PM,4:24,,,MISS Nowitzki 18' Fadeaway Jumper,,
+0020601036,432,4,0,4,3:21 PM,4:23,Williams REBOUND (Off:0 Def:6),,,,
+0020601036,433,2,5,4,3:21 PM,4:15,MISS Pachulia  Layup,,Diop BLOCK (2 BLK),,
+0020601036,434,4,0,4,3:21 PM,4:13,,,Howard REBOUND (Off:0 Def:4),,
+0020601036,435,1,1,4,3:21 PM,3:52,,,Terry 26' 3PT Jump Shot (19 PTS) (Stackhouse 7 AST),92 - 84,-8
+0020601036,436,9,1,4,3:21 PM,3:52,HAWKS Timeout: Regular (Full 5 Short 1),,,,
+0020601036,437,8,0,4,3:23 PM,3:52,SUB: Johnson FOR Lue,,,,
+0020601036,438,2,3,4,3:24 PM,3:32,MISS Smith  Hook Shot,,,,
+0020601036,439,4,0,4,3:24 PM,3:30,,,Stackhouse REBOUND (Off:2 Def:4),,
+0020601036,440,5,41,4,3:24 PM,3:26,,,Stackhouse Poss Lost Ball Turnover (P5.T15),,
+0020601036,441,2,1,4,3:25 PM,3:10,MISS Johnson 12' Jump Shot,,,,
+0020601036,442,4,0,4,3:25 PM,3:09,,,Diop REBOUND (Off:2 Def:7),,
+0020601036,443,1,1,4,3:25 PM,2:50,,,Terry 16' Jump Shot (21 PTS),94 - 84,-10
+0020601036,444,5,1,4,3:26 PM,2:37,Smith Bad Pass Turnover (P3.T14),,Terry STEAL (3 STL),,
+0020601036,445,5,1,4,3:26 PM,2:32,,,Terry Bad Pass Turnover (P7.T16),,
+0020601036,446,6,2,4,3:26 PM,2:29,,,Nowitzki S.FOUL (P4.PN),,
+0020601036,447,3,11,4,3:26 PM,2:29,Pachulia Free Throw 1 of 2 (11 PTS),,,94 - 85,-9
+0020601036,448,3,12,4,3:26 PM,2:29,Pachulia Free Throw 2 of 2 (12 PTS),,,94 - 86,-8
+0020601036,450,2,1,4,3:27 PM,2:10,,,MISS Nowitzki 16' Jump Shot,,
+0020601036,451,4,0,4,3:27 PM,2:08,Pachulia REBOUND (Off:3 Def:10),,,,
+0020601036,452,1,42,4,3:27 PM,2:01,Smith  Driving Layup (21 PTS) (Childress 1 AST),,,94 - 88,-6
+0020601036,454,1,1,4,3:27 PM,1:39,,,Terry 25' 3PT Jump Shot (24 PTS) (Stackhouse 8 AST),97 - 88,-9
+0020601036,456,6,2,4,3:27 PM,1:22,,,Diop S.FOUL (P4.PN),,
+0020601036,457,3,11,4,3:28 PM,1:22,Pachulia Free Throw 1 of 2 (13 PTS),,,97 - 89,-8
+0020601036,459,8,0,4,3:28 PM,1:22,,,SUB: Harris FOR Diop,,
+0020601036,460,8,0,4,3:28 PM,1:22,SUB: Lue FOR Johnson,,,,
+0020601036,461,3,12,4,3:28 PM,1:22,Pachulia Free Throw 2 of 2 (14 PTS),,,97 - 90,-7
+0020601036,462,1,1,4,3:29 PM,1:03,,,Nowitzki 17' Jump Shot (28 PTS),99 - 90,-9
+0020601036,463,9,1,4,3:29 PM,0:58,HAWKS Timeout: Regular (Full 6 Short 1),,,,
+0020601036,464,8,0,4,3:30 PM,0:58,,,SUB: Diop FOR Stackhouse,,
+0020601036,465,8,0,4,3:31 PM,0:58,SUB: Johnson FOR Pachulia,,,,
+0020601036,466,2,1,4,3:31 PM,0:52,MISS Johnson 28' 3PT Jump Shot,,,,
+0020601036,467,4,0,4,3:31 PM,0:51,,,Howard REBOUND (Off:0 Def:5),,
+0020601036,468,5,2,4,3:31 PM,0:43,Williams STEAL (1 STL),,Terry Lost Ball Turnover (P8.T17),,
+0020601036,469,1,5,4,3:31 PM,0:39,Childress  Layup (21 PTS) (Lue 3 AST),,,99 - 92,-7
+0020601036,470,6,1,4,3:31 PM,0:38,Smith P.FOUL (P3.T3),,,,
+0020601036,471,9,2,4,3:32 PM,0:38,,,Mavericks Timeout: Short (Reg.3 Short 1),,
+0020601036,472,8,0,4,3:33 PM,0:38,,,SUB: Stackhouse FOR Diop,,
+0020601036,473,6,1,4,3:33 PM,0:36,Lue P.FOUL (P2.PN),,,,
+0020601036,474,3,11,4,3:33 PM,0:36,,,Terry Free Throw 1 of 2 (25 PTS),100 - 92,-8
+0020601036,475,3,12,4,3:34 PM,0:36,,,Terry Free Throw 2 of 2 (26 PTS),101 - 92,-9
+0020601036,476,1,5,4,3:34 PM,0:31,Lue  Layup (14 PTS),,,101 - 94,-7
+0020601036,477,6,2,4,3:34 PM,0:31,,,Harris S.FOUL (P6.PN),,
+0020601036,478,8,0,4,3:34 PM,0:31,,,SUB: Buckner FOR Harris,,
+0020601036,479,3,10,4,3:34 PM,0:31,Lue Free Throw 1 of 1 (15 PTS),,,101 - 95,-6
+0020601036,480,6,1,4,3:35 PM,0:19,Childress P.FOUL (P4.PN),,,,
+0020601036,481,3,11,4,3:35 PM,0:19,,,Terry Free Throw 1 of 2 (27 PTS),102 - 95,-7
+0020601036,482,3,12,4,3:36 PM,0:19,,,MISS Terry Free Throw 2 of 2,,
+0020601036,483,4,0,4,3:36 PM,0:18,Williams REBOUND (Off:0 Def:7),,,,
+0020601036,484,5,41,4,3:36 PM,0:12,Williams Poss Lost Ball Turnover (P2.T15),,,,
+0020601036,485,6,1,4,3:36 PM,0:10,Childress P.FOUL (P5.PN),,,,
+0020601036,486,8,0,4,3:36 PM,0:10,,,SUB: Diop FOR Nowitzki,,
+0020601036,487,3,11,4,3:37 PM,0:10,,,Stackhouse Free Throw 1 of 2 (7 PTS),103 - 95,-8
+0020601036,488,8,0,4,3:37 PM,0:10,,,SUB: Barea FOR Howard,,
+0020601036,489,8,0,4,3:37 PM,0:10,,,SUB: Mensah-Bonsu FOR Terry,,
+0020601036,490,3,12,4,3:37 PM,0:10,,,Stackhouse Free Throw 2 of 2 (8 PTS),104 - 95,-9
+0020601036,491,1,7,4,3:37 PM,0:06,Johnson  Dunk (9 PTS),,,104 - 97,-7
+0020601036,493,13,0,4,3:38 PM,0:00,,,,104 - 97,-7

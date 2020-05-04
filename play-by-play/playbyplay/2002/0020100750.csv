@@ -1,0 +1,397 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100750,0,12,0,1,4:00 AM,12:00,,,,,
+0020100750,1,10,0,1,7:39 PM,12:00,Jump Ball Wallace vs. Montross: Tip to Williams,,,,
+0020100750,2,6,2,1,7:39 PM,11:42,Robinson S.FOUL (P1.T1),,,,
+0020100750,3,3,11,1,7:39 PM,11:42,,,MISS Montross Free Throw 1 of 2,,
+0020100750,4,4,1,1,7:39 PM,11:42,,,Raptors Rebound,,
+0020100750,5,3,12,1,7:40 PM,11:42,,,Montross Free Throw 2 of 2 (1 PTS),1 - 0,-1
+0020100750,6,1,1,1,7:40 PM,11:28,Robinson 18' Jump Shot (2 PTS) (Curry 1 AST),,,1 - 2,1
+0020100750,7,2,1,1,7:40 PM,11:05,,,MISS Clark 14' Jump Shot,,
+0020100750,8,4,0,1,7:40 PM,11:04,Wallace REBOUND (Off:0 Def:1),,,,
+0020100750,9,1,7,1,7:41 PM,10:53,Wallace  Dunk (2 PTS) (Stackhouse 1 AST),,,1 - 4,3
+0020100750,10,1,7,1,7:41 PM,10:35,,,Davis  Dunk (2 PTS) (Williams 1 AST),3 - 4,1
+0020100750,11,1,1,1,7:41 PM,10:18,Stackhouse 16' Jump Shot (2 PTS) (Curry 2 AST),,,3 - 6,3
+0020100750,12,2,1,1,7:42 PM,9:55,,,MISS Davis 17' Jump Shot,,
+0020100750,13,4,0,1,7:42 PM,9:53,,,Montross REBOUND (Off:1 Def:0),,
+0020100750,14,1,5,1,7:42 PM,9:52,,,Montross  Layup (3 PTS),5 - 6,1
+0020100750,15,2,5,1,7:42 PM,9:35,MISS Robinson  Layup,,,,
+0020100750,16,4,0,1,7:42 PM,9:34,,,Davis REBOUND (Off:0 Def:1),,
+0020100750,17,2,1,1,7:42 PM,9:28,,,MISS Peterson 19' Jump Shot,,
+0020100750,18,4,0,1,7:42 PM,9:25,,,Clark REBOUND (Off:1 Def:0),,
+0020100750,19,2,1,1,7:42 PM,9:15,,,MISS Peterson 7' Jump Shot,,
+0020100750,20,4,0,1,7:42 PM,9:12,,,Peterson REBOUND (Off:1 Def:0),,
+0020100750,21,2,5,1,7:42 PM,9:11,,,MISS Peterson  Layup,,
+0020100750,22,4,0,1,7:42 PM,9:10,,,Davis REBOUND (Off:1 Def:1),,
+0020100750,23,6,1,1,7:43 PM,9:01,Atkins P.FOUL (P1.T2),,,,
+0020100750,24,1,1,1,7:43 PM,8:52,,,Clark 12' Jump Shot (2 PTS),7 - 6,-1
+0020100750,25,1,3,1,7:43 PM,8:31,Wallace 7' Hook Shot (4 PTS) (Atkins 1 AST),,,7 - 8,1
+0020100750,26,6,1,1,7:44 PM,8:18,Stackhouse P.FOUL (P1.T3),,,,
+0020100750,27,1,47,1,7:44 PM,8:07,,,Clark 18' Turnaround Jump Shot (4 PTS),9 - 8,-1
+0020100750,28,2,1,1,7:44 PM,7:47,MISS Curry 19' Jump Shot,,,,
+0020100750,29,4,0,1,7:44 PM,7:45,,,Davis REBOUND (Off:1 Def:2),,
+0020100750,30,2,1,1,7:45 PM,7:22,,,MISS Williams 17' Jump Shot,,
+0020100750,31,4,0,1,7:45 PM,7:19,Atkins REBOUND (Off:0 Def:1),,,,
+0020100750,32,6,2,1,7:45 PM,7:17,,,Peterson S.FOUL (P1.T1),,
+0020100750,33,3,11,1,7:45 PM,7:17,MISS Atkins Free Throw 1 of 2,,,,
+0020100750,34,4,1,1,7:45 PM,7:17,PISTONS Rebound,,,,
+0020100750,35,3,12,1,7:45 PM,7:17,Atkins Free Throw 2 of 2 (1 PTS),,,9 - 9,TIE
+0020100750,36,2,5,1,7:46 PM,6:58,,,MISS Williams  Layup,,
+0020100750,37,4,0,1,7:46 PM,6:57,Wallace REBOUND (Off:0 Def:2),,,,
+0020100750,38,2,1,1,7:46 PM,6:41,MISS Stackhouse 18' Jump Shot,,,,
+0020100750,39,4,0,1,7:46 PM,6:38,,,Clark REBOUND (Off:1 Def:1),,
+0020100750,40,1,1,1,7:46 PM,6:22,,,Davis 15' Jump Shot (4 PTS) (Williams 2 AST),11 - 9,-2
+0020100750,41,2,1,1,7:47 PM,6:02,MISS Robinson 19' Jump Shot,,,,
+0020100750,42,4,0,1,7:47 PM,6:00,Wallace REBOUND (Off:1 Def:2),,,,
+0020100750,43,6,1,1,7:47 PM,5:57,,,Clark P.FOUL (P1.T2),,
+0020100750,44,9,1,1,7:47 PM,5:57,PISTONS Timeout: Regular (Full 1 Short 0),,,,
+0020100750,46,1,1,1,7:49 PM,5:46,Atkins 24' 3PT Jump Shot (4 PTS) (Robinson 1 AST),,,11 - 12,1
+0020100750,47,6,1,1,7:50 PM,5:28,Curry P.FOUL (P1.T4),,,,
+0020100750,48,2,1,1,7:50 PM,5:19,,,MISS Peterson 20' Jump Shot,,
+0020100750,49,4,0,1,7:50 PM,5:17,Wallace REBOUND (Off:1 Def:3),,,,
+0020100750,50,1,1,1,7:50 PM,5:06,Stackhouse 15' Jump Shot (4 PTS),,,11 - 14,3
+0020100750,51,1,5,1,7:51 PM,4:51,,,Peterson  Layup (2 PTS) (Williams 3 AST),13 - 14,1
+0020100750,52,2,1,1,7:51 PM,4:35,MISS Atkins 26' 3PT Jump Shot,,,,
+0020100750,53,4,0,1,7:51 PM,4:33,Atkins REBOUND (Off:1 Def:1),,,,
+0020100750,54,2,1,1,7:51 PM,4:30,MISS Atkins 17' Jump Shot,,,,
+0020100750,55,4,0,1,7:51 PM,4:27,,,Williams REBOUND (Off:0 Def:1),,
+0020100750,56,5,1,1,7:51 PM,4:17,,,Williams Bad Pass Turnover (P1.T1),,
+0020100750,57,8,0,1,7:51 PM,4:17,,,SUB: Childs FOR Clark,,
+0020100750,58,6,17,1,7:52 PM,4:06,,,Raptors T.Foul (Def. 3 Sec Montross ),,
+0020100750,59,3,16,1,7:52 PM,4:06,MISS Stackhouse Free Throw Technical,,,,
+0020100750,60,4,1,1,7:52 PM,4:06,PISTONS Rebound,,,,
+0020100750,61,1,1,1,7:53 PM,3:50,Wallace 17' Jump Shot (6 PTS) (Atkins 2 AST),,,13 - 16,3
+0020100750,62,1,1,1,7:53 PM,3:31,,,Davis 15' Jump Shot (6 PTS) (Childs 1 AST),15 - 16,1
+0020100750,63,2,1,1,7:53 PM,3:18,MISS Robinson 27' 3PT Jump Shot,,,,
+0020100750,64,4,0,1,7:53 PM,3:16,,,Childs REBOUND (Off:0 Def:1),,
+0020100750,65,5,1,1,7:53 PM,2:56,Robinson STEAL (1 STL),,Williams Bad Pass Turnover (P2.T2),,
+0020100750,66,1,1,1,7:54 PM,2:43,Stackhouse 14' Jump Shot (6 PTS),,,15 - 18,3
+0020100750,67,2,1,1,7:54 PM,2:20,Curry BLOCK (1 BLK),,MISS Childs 14' Jump Shot,,
+0020100750,68,4,0,1,7:54 PM,2:17,Stackhouse REBOUND (Off:0 Def:1),,,,
+0020100750,69,1,5,1,7:54 PM,2:13,Curry  Layup (2 PTS) (Atkins 3 AST),,,15 - 20,5
+0020100750,70,6,2,1,7:54 PM,2:13,,,Childs S.FOUL (P1.T3),,
+0020100750,71,9,1,1,7:54 PM,2:13,,,Raptors Timeout: Regular (Reg.1 Short 0),,
+0020100750,73,3,10,1,7:57 PM,2:13,Curry Free Throw 1 of 1 (3 PTS),,,15 - 21,6
+0020100750,74,2,1,1,7:57 PM,1:53,,,MISS Childs 27' 3PT Jump Shot,,
+0020100750,75,4,0,1,7:57 PM,1:51,,,Davis REBOUND (Off:2 Def:2),,
+0020100750,76,1,1,1,7:58 PM,1:40,,,Davis 15' Jump Shot (8 PTS) (Childs 2 AST),17 - 21,4
+0020100750,77,6,4,1,7:58 PM,1:27,Curry OFF.Foul (P2),,,,
+0020100750,78,5,5,1,7:58 PM,1:27,Curry Foul Turnover (P1.T1),,,,
+0020100750,79,8,0,1,7:58 PM,1:27,SUB: Williamson FOR Curry,,,,
+0020100750,80,8,0,1,7:58 PM,1:27,,,SUB: Clark FOR Peterson,,
+0020100750,81,2,1,1,7:59 PM,1:10,,,MISS Clark 14' Jump Shot,,
+0020100750,82,4,0,1,7:59 PM,1:07,Robinson REBOUND (Off:0 Def:1),,,,
+0020100750,83,1,47,1,7:59 PM,0:54,Wallace 12' Turnaround Jump Shot (8 PTS),,,17 - 23,6
+0020100750,84,2,1,1,7:59 PM,0:38,,,MISS Montross 14' Jump Shot,,
+0020100750,85,4,0,1,7:59 PM,0:36,,,Davis REBOUND (Off:3 Def:2),,
+0020100750,86,2,5,1,7:59 PM,0:34,,,MISS Davis  Layup,,
+0020100750,87,4,0,1,8:00 PM,0:33,Robinson REBOUND (Off:0 Def:2),,,,
+0020100750,88,6,1,1,8:00 PM,0:32,,,Montross P.FOUL (P1.T4),,
+0020100750,89,5,1,1,8:00 PM,0:09,Williamson Bad Pass Turnover (P1.T2),,Clark STEAL (1 STL),,
+0020100750,90,2,1,1,8:00 PM,0:00,,,MISS Davis 19' Jump Shot,,
+0020100750,91,4,0,1,8:00 PM,0:00,,,Raptors Rebound,,
+0020100750,92,13,0,1,8:00 PM,0:00,,,,17 - 23,6
+0020100750,94,12,0,2,8:03 PM,12:00,,,,17 - 23,6
+0020100750,95,1,5,2,8:03 PM,11:43,Wallace  Layup (10 PTS),,,17 - 25,8
+0020100750,96,5,1,2,8:04 PM,11:23,Wallace STEAL (1 STL),,Clark Bad Pass Turnover (P1.T3),,
+0020100750,97,2,1,2,8:04 PM,11:18,MISS Atkins 16' Jump Shot,,,,
+0020100750,98,4,0,2,8:04 PM,11:16,Barry REBOUND (Off:1 Def:0),,,,
+0020100750,99,5,2,2,8:04 PM,11:06,Atkins Lost Ball Turnover (P1.T3),,Williams STEAL (1 STL),,
+0020100750,100,1,1,2,8:04 PM,10:58,,,Williams 18' Jump Shot (2 PTS) (Childs 3 AST),19 - 25,6
+0020100750,101,2,1,2,8:04 PM,10:44,MISS Williamson 12' Jump Shot,,,,
+0020100750,102,4,0,2,8:04 PM,10:42,Rebraca REBOUND (Off:1 Def:0),,,,
+0020100750,103,5,2,2,8:04 PM,10:41,Rebraca Lost Ball Turnover (P1.T4),,Williams STEAL (2 STL),,
+0020100750,104,9,2,2,8:05 PM,10:34,,,Raptors Timeout: Short (Reg.1 Short 1),,
+0020100750,106,6,2,2,8:06 PM,10:23,Williamson S.FOUL (P1.T1),,,,
+0020100750,107,3,11,2,8:06 PM,10:23,,,MISS N'diaye Free Throw 1 of 2,,
+0020100750,108,4,1,2,8:06 PM,10:23,,,Raptors Rebound,,
+0020100750,109,8,0,2,8:06 PM,10:23,SUB: Jones FOR Atkins,,,,
+0020100750,110,3,12,2,8:06 PM,10:23,,,N'diaye Free Throw 2 of 2 (1 PTS),20 - 25,5
+0020100750,111,1,3,2,8:07 PM,10:07,Rebraca 8' Hook Shot (2 PTS),,,20 - 27,7
+0020100750,112,2,1,2,8:07 PM,9:48,,,MISS Clark 14' Jump Shot,,
+0020100750,113,4,0,2,8:07 PM,9:47,,,N'diaye REBOUND (Off:1 Def:0),,
+0020100750,114,1,5,2,8:07 PM,9:45,,,N'diaye  Layup (3 PTS),22 - 27,5
+0020100750,115,6,1,2,8:07 PM,9:33,,,Davis P.FOUL (P1.T1),,
+0020100750,116,8,0,2,8:08 PM,9:33,,,SUB: Peterson FOR Williams,,
+0020100750,117,2,1,2,8:08 PM,9:26,MISS Jones 27' 3PT Jump Shot,,,,
+0020100750,118,4,0,2,8:08 PM,9:24,,,Clark REBOUND (Off:1 Def:2),,
+0020100750,119,1,46,2,8:08 PM,9:17,,,Peterson 13' Running Jump Shot (4 PTS),24 - 27,3
+0020100750,120,2,1,2,8:08 PM,9:02,MISS Williamson 5' Jump Shot,,,,
+0020100750,121,4,0,2,8:08 PM,9:00,Rebraca REBOUND (Off:2 Def:0),,,,
+0020100750,122,1,4,2,8:08 PM,8:59,Rebraca  Tip Shot (4 PTS),,,24 - 29,5
+0020100750,123,2,5,2,8:09 PM,8:46,,,MISS Childs  Layup,,
+0020100750,124,4,0,2,8:09 PM,8:45,Rebraca REBOUND (Off:2 Def:1),,,,
+0020100750,125,5,1,2,8:09 PM,8:39,Jones Bad Pass Turnover (P1.T5),,Peterson STEAL (1 STL),,
+0020100750,126,1,1,2,8:09 PM,8:27,,,Clark 15' Jump Shot (6 PTS) (Davis 1 AST),26 - 29,3
+0020100750,127,9,1,2,8:09 PM,8:19,PISTONS Timeout: Regular (Full 2 Short 0),,,,
+0020100750,129,8,0,2,8:11 PM,8:19,SUB: Robinson FOR Wallace,,,,
+0020100750,130,2,3,2,8:12 PM,8:11,MISS Rebraca 6' Hook Shot,,,,
+0020100750,131,4,0,2,8:12 PM,8:09,,,Davis REBOUND (Off:3 Def:3),,
+0020100750,132,5,2,2,8:12 PM,8:00,Williamson STEAL (1 STL),,Clark Lost Ball Turnover (P2.T4),,
+0020100750,133,1,61,2,8:12 PM,7:46,Barry  Driving Finger Roll (2 PTS) (Jones 1 AST),,,26 - 31,5
+0020100750,134,2,1,2,8:12 PM,7:22,Robinson BLOCK (1 BLK),,MISS Davis 16' Jump Shot,,
+0020100750,135,4,0,2,8:12 PM,7:19,Rebraca REBOUND (Off:2 Def:2),,,,
+0020100750,136,2,3,2,8:13 PM,7:12,MISS Rebraca 6' Hook Shot,,,,
+0020100750,137,4,0,2,8:13 PM,7:09,,,N'diaye REBOUND (Off:1 Def:1),,
+0020100750,138,1,7,2,8:13 PM,7:01,,,Davis  Dunk (10 PTS) (Peterson 1 AST),28 - 31,3
+0020100750,139,6,2,2,8:13 PM,6:45,,,Peterson S.FOUL (P2.T2),,
+0020100750,140,3,11,2,8:13 PM,6:45,Barry Free Throw 1 of 2 (3 PTS),,,28 - 32,4
+0020100750,141,3,12,2,8:13 PM,6:45,Barry Free Throw 2 of 2 (4 PTS),,,28 - 33,5
+0020100750,142,6,1,2,8:14 PM,6:24,Barry P.FOUL (P1.T2),,,,
+0020100750,143,2,46,2,8:15 PM,6:19,,,MISS Peterson 8' Running Jump Shot,,
+0020100750,144,4,0,2,8:15 PM,6:16,Rebraca REBOUND (Off:2 Def:3),,,,
+0020100750,145,6,1,2,8:15 PM,6:09,,,N'diaye P.FOUL (P1.T3),,
+0020100750,146,8,0,2,8:15 PM,6:09,,,SUB: Williams FOR Peterson,,
+0020100750,147,9,1,2,8:15 PM,6:09,,,Raptors Timeout: Regular (Reg.2 Short 1),,
+0020100750,149,2,44,2,8:18 PM,5:55,MISS Rebraca  Reverse Layup,,,,
+0020100750,150,4,0,2,8:18 PM,5:54,,,Clark REBOUND (Off:1 Def:3),,
+0020100750,151,5,1,2,8:18 PM,5:36,Robinson STEAL (2 STL),,Childs Bad Pass Turnover (P1.T5),,
+0020100750,152,2,5,2,8:18 PM,5:31,MISS Williamson  Layup,,,,
+0020100750,153,4,0,2,8:18 PM,5:30,,,Williams REBOUND (Off:0 Def:2),,
+0020100750,154,6,2,2,8:19 PM,5:13,Rebraca S.FOUL (P1.T3),,,,
+0020100750,155,8,0,2,8:19 PM,5:13,SUB: Stackhouse FOR Williamson,,,,
+0020100750,156,3,11,2,8:19 PM,5:13,,,Davis Free Throw 1 of 2 (11 PTS),29 - 33,4
+0020100750,157,8,0,2,8:19 PM,5:13,SUB: Wallace FOR Rebraca,,,,
+0020100750,158,8,0,2,8:19 PM,5:13,,,SUB: Jackson FOR N'diaye,,
+0020100750,159,3,12,2,8:19 PM,5:13,,,MISS Davis Free Throw 2 of 2,,
+0020100750,160,4,0,2,8:19 PM,5:13,Wallace REBOUND (Off:1 Def:4),,,,
+0020100750,161,2,1,2,8:20 PM,4:55,MISS Stackhouse 19' Jump Shot,,,,
+0020100750,162,4,0,2,8:20 PM,4:53,Robinson REBOUND (Off:1 Def:2),,,,
+0020100750,163,1,5,2,8:20 PM,4:52,Robinson  Layup (4 PTS),,,29 - 35,6
+0020100750,164,2,1,2,8:20 PM,4:40,,,MISS Williams 21' Jump Shot,,
+0020100750,165,4,0,2,8:20 PM,4:38,,,Davis REBOUND (Off:4 Def:3),,
+0020100750,166,1,1,2,8:20 PM,4:35,,,Williams 19' Jump Shot (4 PTS) (Davis 2 AST),31 - 35,4
+0020100750,167,2,1,2,8:20 PM,4:18,MISS Robinson 11' Jump Shot,,,,
+0020100750,168,4,0,2,8:20 PM,4:16,Wallace REBOUND (Off:2 Def:4),,,,
+0020100750,169,2,5,2,8:20 PM,4:15,MISS Wallace  Layup,,,,
+0020100750,170,4,0,2,8:20 PM,4:14,Wallace REBOUND (Off:3 Def:4),,,,
+0020100750,171,1,5,2,8:20 PM,4:11,Wallace  Layup (12 PTS),,,31 - 37,6
+0020100750,172,2,1,2,8:21 PM,3:53,,,MISS Childs 19' Jump Shot,,
+0020100750,173,4,0,2,8:21 PM,3:52,,,Clark REBOUND (Off:2 Def:3),,
+0020100750,174,1,5,2,8:21 PM,3:49,,,Clark  Layup (8 PTS),33 - 37,4
+0020100750,175,5,1,2,8:21 PM,3:30,Stackhouse Bad Pass Turnover (P1.T6),,Williams STEAL (3 STL),,
+0020100750,176,2,5,2,8:21 PM,3:23,,,MISS Williams  Layup,,
+0020100750,177,4,0,2,8:21 PM,3:22,Robinson REBOUND (Off:1 Def:3),,,,
+0020100750,178,1,1,2,8:21 PM,3:16,Jones 26' 3PT Jump Shot (3 PTS) (Barry 1 AST),,,33 - 40,7
+0020100750,179,1,7,2,8:22 PM,2:55,,,Davis  Dunk (13 PTS) (Childs 4 AST),35 - 40,5
+0020100750,180,1,1,2,8:22 PM,2:31,Barry 24' 3PT Jump Shot (7 PTS) (Jones 2 AST),,,35 - 43,8
+0020100750,181,2,1,2,8:23 PM,2:04,,,MISS Clark 14' Jump Shot,,
+0020100750,182,4,0,2,8:23 PM,2:02,,,Davis REBOUND (Off:5 Def:3),,
+0020100750,183,1,5,2,8:23 PM,1:46,,,Clark  Layup (10 PTS) (Davis 3 AST),37 - 43,6
+0020100750,184,1,1,2,8:23 PM,1:30,Barry 20' Jump Shot (9 PTS) (Stackhouse 2 AST),,,37 - 45,8
+0020100750,185,1,1,2,8:23 PM,1:10,,,Williams 17' Jump Shot (6 PTS) (Childs 5 AST),39 - 45,6
+0020100750,186,9,2,2,8:24 PM,1:05,PISTONS Timeout: Short (Full 2 Short 1),,,,
+0020100750,187,9,3,2,8:24 PM,1:05,,,,,
+0020100750,189,8,0,2,8:26 PM,1:05,,,SUB: Montross FOR Davis,,
+0020100750,190,8,0,2,8:26 PM,1:05,,,SUB: Peterson FOR Childs,,
+0020100750,191,2,5,2,8:26 PM,1:01,MISS Stackhouse  Layup,,,,
+0020100750,192,4,0,2,8:26 PM,0:59,,,Montross REBOUND (Off:1 Def:1),,
+0020100750,193,2,1,2,8:27 PM,0:38,Wallace BLOCK (1 BLK),,MISS Peterson 11' Jump Shot,,
+0020100750,194,4,0,2,8:27 PM,0:35,Stackhouse REBOUND (Off:0 Def:2),,,,
+0020100750,195,1,1,2,8:27 PM,0:28,Stackhouse 24' 3PT Jump Shot (9 PTS) (Barry 2 AST),,,39 - 48,9
+0020100750,196,5,1,2,8:27 PM,0:07,Stackhouse STEAL (1 STL),,Williams Bad Pass Turnover (P3.T6),,
+0020100750,197,6,1,2,8:27 PM,0:07,,,Clark P.FOUL (P2.T4),,
+0020100750,198,1,1,2,8:28 PM,0:00,Robinson 18' Jump Shot (6 PTS) (Stackhouse 3 AST),,,39 - 50,11
+0020100750,199,13,0,2,8:28 PM,0:00,,,,39 - 50,11
+0020100750,201,12,0,3,8:44 PM,12:00,,,,39 - 50,11
+0020100750,202,5,4,3,8:45 PM,11:39,Curry Traveling Turnover (P2.T7),,,,
+0020100750,203,6,4,3,8:45 PM,11:20,,,Davis OFF.Foul (P2),,
+0020100750,204,5,5,3,8:45 PM,11:20,,,Davis Foul Turnover (P1.T7),,
+0020100750,205,2,1,3,8:46 PM,11:03,MISS Stackhouse 17' Jump Shot,,,,
+0020100750,206,4,0,3,8:46 PM,11:01,,,Clark REBOUND (Off:2 Def:4),,
+0020100750,207,2,5,3,8:46 PM,10:52,,,MISS Clark  Layup,,
+0020100750,208,4,0,3,8:46 PM,10:50,Wallace REBOUND (Off:3 Def:5),,,,
+0020100750,209,2,1,3,8:46 PM,10:31,MISS Atkins 18' Jump Shot,,,,
+0020100750,210,4,0,3,8:46 PM,10:29,,,Clark REBOUND (Off:2 Def:5),,
+0020100750,211,2,3,3,8:47 PM,10:04,,,MISS Davis 8' Hook Shot,,
+0020100750,212,4,0,3,8:47 PM,10:01,,,Davis REBOUND (Off:6 Def:3),,
+0020100750,213,1,1,3,8:47 PM,9:58,,,Davis 17' Jump Shot (15 PTS),41 - 50,9
+0020100750,214,1,1,3,8:47 PM,9:40,Robinson 16' Jump Shot (8 PTS) (Atkins 4 AST),,,41 - 52,11
+0020100750,215,2,1,3,8:48 PM,9:16,,,MISS Clark 13' Jump Shot,,
+0020100750,216,4,0,3,8:48 PM,9:14,,,Davis REBOUND (Off:7 Def:3),,
+0020100750,217,1,1,3,8:48 PM,9:09,,,Peterson 28' 3PT Jump Shot (7 PTS) (Williams 4 AST),44 - 52,8
+0020100750,218,2,1,3,8:48 PM,8:50,MISS Robinson  3PT Jump Shot,,,,
+0020100750,219,4,0,3,8:48 PM,8:48,,,Raptors Rebound,,
+0020100750,220,6,3,3,8:48 PM,8:48,Wallace L.B.FOUL (P1.T1),,,,
+0020100750,221,2,46,3,8:49 PM,8:35,,,MISS Williams 13' Running Jump Shot,,
+0020100750,222,4,0,3,8:49 PM,8:32,,,Clark REBOUND (Off:3 Def:5),,
+0020100750,223,5,2,3,8:49 PM,8:22,Stackhouse STEAL (2 STL),,Montross Lost Ball Turnover (P1.T8),,
+0020100750,224,1,5,3,8:49 PM,8:16,Atkins  Layup (6 PTS),,,44 - 54,10
+0020100750,225,1,1,3,8:49 PM,7:53,,,Williams 15' Jump Shot (8 PTS) (Peterson 2 AST),46 - 54,8
+0020100750,226,6,2,3,8:49 PM,7:53,Atkins S.FOUL (P2.T2),,,,
+0020100750,227,3,10,3,8:50 PM,7:53,,,MISS Williams Free Throw 1 of 1,,
+0020100750,228,4,0,3,8:50 PM,7:52,Wallace REBOUND (Off:3 Def:6),,,,
+0020100750,229,5,2,3,8:50 PM,7:43,Stackhouse Lost Ball Turnover (P2.T8),,Williams STEAL (4 STL),,
+0020100750,230,1,1,3,8:50 PM,7:32,,,Williams 21' Jump Shot (10 PTS),48 - 54,6
+0020100750,231,9,1,3,8:50 PM,7:28,PISTONS Timeout: Regular (Full 3 Short 1),,,,
+0020100750,233,1,56,3,8:53 PM,7:13,Robinson 7' Running Hook Shot (10 PTS),,,48 - 56,8
+0020100750,234,2,3,3,8:53 PM,6:48,Wallace BLOCK (2 BLK),,MISS Davis 5' Hook Shot,,
+0020100750,235,4,0,3,8:53 PM,6:45,Atkins REBOUND (Off:1 Def:2),,,,
+0020100750,236,2,1,3,8:53 PM,6:29,MISS Curry 18' Jump Shot,,,,
+0020100750,237,4,0,3,8:53 PM,6:28,,,Clark REBOUND (Off:3 Def:6),,
+0020100750,238,2,1,3,8:54 PM,6:16,Wallace BLOCK (3 BLK),,MISS Montross 4' Jump Shot,,
+0020100750,239,4,0,3,8:54 PM,6:13,,,Davis REBOUND (Off:8 Def:3),,
+0020100750,240,5,1,3,8:54 PM,6:09,Stackhouse STEAL (3 STL),,Montross Bad Pass Turnover (P2.T9),,
+0020100750,241,5,2,3,8:54 PM,6:06,Stackhouse Lost Ball Turnover (P3.T9),,Peterson STEAL (2 STL),,
+0020100750,249,6,3,3,8:54 PM,6:06,Stackhouse L.B.FOUL (P2.T3),,,,
+0020100750,242,2,1,3,8:54 PM,5:43,,,MISS Peterson 21' Jump Shot,,
+0020100750,243,4,0,3,8:54 PM,5:41,Robinson REBOUND (Off:1 Def:4),,,,
+0020100750,244,1,1,3,8:55 PM,5:28,Atkins 24' 3PT Jump Shot (9 PTS) (Robinson 2 AST),,,48 - 59,11
+0020100750,245,2,1,3,8:55 PM,5:11,Robinson BLOCK (2 BLK),,MISS Peterson 11' Jump Shot,,
+0020100750,246,4,0,3,8:55 PM,5:08,Wallace REBOUND (Off:3 Def:7),,,,
+0020100750,247,6,17,3,8:55 PM,4:58,,,Raptors T.Foul (Def. 3 Sec Montross ),,
+0020100750,248,3,16,3,8:55 PM,4:58,Stackhouse Free Throw Technical (10 PTS),,,48 - 60,12
+0020100750,250,1,47,3,8:56 PM,4:43,Stackhouse 17' Turnaround Jump Shot (12 PTS),,,48 - 62,14
+0020100750,251,1,1,3,8:56 PM,4:24,,,Davis 15' Jump Shot (17 PTS) (Williams 5 AST),50 - 62,12
+0020100750,252,6,4,3,8:57 PM,4:01,Robinson OFF.Foul (P2),,,,
+0020100750,253,5,5,3,8:57 PM,4:01,Robinson Foul Turnover (P1.T10),,,,
+0020100750,254,8,0,3,8:57 PM,4:01,,,SUB: Childs FOR Montross,,
+0020100750,255,9,1,3,8:57 PM,4:01,,,Raptors Timeout: Regular (Reg.3 Short 1),,
+0020100750,257,2,1,3,8:59 PM,3:51,,,MISS Williams 25' 3PT Jump Shot,,
+0020100750,258,4,0,3,8:59 PM,3:48,Robinson REBOUND (Off:1 Def:5),,,,
+0020100750,259,2,1,3,9:00 PM,3:26,MISS Robinson 24' 3PT Jump Shot,,,,
+0020100750,260,4,0,3,9:00 PM,3:23,,,Childs REBOUND (Off:0 Def:2),,
+0020100750,261,2,1,3,9:00 PM,3:15,,,MISS Peterson 27' 3PT Jump Shot,,
+0020100750,262,4,0,3,9:00 PM,3:14,Curry REBOUND (Off:0 Def:1),,,,
+0020100750,263,1,5,3,9:00 PM,3:08,Robinson  Layup (12 PTS) (Atkins 5 AST),,,50 - 64,14
+0020100750,264,2,1,3,9:00 PM,2:46,,,MISS Childs 20' Jump Shot,,
+0020100750,265,4,0,3,9:00 PM,2:43,,,Davis REBOUND (Off:9 Def:3),,
+0020100750,266,1,46,3,9:01 PM,2:31,,,Williams 15' Running Jump Shot (12 PTS),52 - 64,12
+0020100750,267,2,1,3,9:01 PM,2:13,MISS Stackhouse 15' Jump Shot,,Clark BLOCK (1 BLK),,
+0020100750,268,4,0,3,9:01 PM,2:11,PISTONS Rebound,,,,
+0020100750,269,8,0,3,9:01 PM,2:11,SUB: Barry FOR Curry,,,,
+0020100750,270,2,1,3,9:01 PM,2:09,MISS Atkins 17' Jump Shot,,,,
+0020100750,271,4,0,3,9:01 PM,2:08,Wallace REBOUND (Off:4 Def:7),,,,
+0020100750,272,1,46,3,9:02 PM,1:57,Stackhouse 11' Running Jump Shot (14 PTS),,,52 - 66,14
+0020100750,273,6,2,3,9:02 PM,1:57,,,Peterson S.FOUL (P3.T1),,
+0020100750,275,8,0,3,9:02 PM,1:57,,,SUB: N'diaye FOR Davis,,
+0020100750,276,8,0,3,9:02 PM,1:57,SUB: Rebraca FOR Robinson,,,,
+0020100750,277,3,10,3,9:02 PM,1:57,MISS Stackhouse Free Throw 1 of 1,,,,
+0020100750,278,4,0,3,9:02 PM,1:56,Wallace REBOUND (Off:5 Def:7),,,,
+0020100750,279,2,4,3,9:03 PM,1:54,MISS Wallace  Tip Shot,,,,
+0020100750,280,4,0,3,9:03 PM,1:52,,,Childs REBOUND (Off:0 Def:3),,
+0020100750,281,6,2,3,9:03 PM,1:51,Stackhouse S.FOUL (P3.T4),,,,
+0020100750,282,3,11,3,9:03 PM,1:51,,,Peterson Free Throw 1 of 2 (8 PTS),53 - 66,13
+0020100750,283,3,12,3,9:03 PM,1:51,,,Peterson Free Throw 2 of 2 (9 PTS),54 - 66,12
+0020100750,284,6,1,3,9:03 PM,1:39,,,N'diaye P.FOUL (P2.PN),,
+0020100750,285,3,11,3,9:04 PM,1:39,Rebraca Free Throw 1 of 2 (5 PTS),,,54 - 67,13
+0020100750,286,3,12,3,9:04 PM,1:39,Rebraca Free Throw 2 of 2 (6 PTS),,,54 - 68,14
+0020100750,287,2,5,3,9:04 PM,1:21,,,MISS Peterson  Layup,,
+0020100750,288,4,0,3,9:04 PM,1:19,Stackhouse REBOUND (Off:0 Def:3),,,,
+0020100750,289,6,1,3,9:05 PM,1:06,,,Peterson P.FOUL (P4.PN),,
+0020100750,290,6,11,3,9:05 PM,1:06,,,Peterson T.FOUL (P4.PN),,
+0020100750,291,3,16,3,9:05 PM,1:06,Stackhouse Free Throw Technical (15 PTS),,,54 - 69,15
+0020100750,292,3,11,3,9:06 PM,1:06,MISS Rebraca Free Throw 1 of 2,,,,
+0020100750,293,4,1,3,9:06 PM,1:06,PISTONS Rebound,,,,
+0020100750,294,3,12,3,9:06 PM,1:06,Rebraca Free Throw 2 of 2 (7 PTS),,,54 - 70,16
+0020100750,295,2,1,3,9:06 PM,0:53,,,MISS Clark 16' Jump Shot,,
+0020100750,296,4,0,3,9:06 PM,0:51,,,Peterson REBOUND (Off:2 Def:0),,
+0020100750,297,2,1,3,9:06 PM,0:41,,,MISS Williams 19' Jump Shot,,
+0020100750,298,4,0,3,9:06 PM,0:39,Wallace REBOUND (Off:5 Def:8),,,,
+0020100750,299,6,2,3,9:07 PM,0:33,,,Childs S.FOUL (P2.PN),,
+0020100750,300,3,11,3,9:07 PM,0:33,MISS Stackhouse Free Throw 1 of 2,,,,
+0020100750,301,8,0,3,9:07 PM,0:33,,,SUB: Jackson FOR Peterson,,
+0020100750,303,4,0,3,9:07 PM,0:33,PISTONS Rebound,,,,
+0020100750,302,3,12,3,9:07 PM,0:33,Stackhouse Free Throw 2 of 2 (16 PTS),,,54 - 71,17
+0020100750,304,2,5,3,9:08 PM,0:19,Wallace BLOCK (4 BLK),,MISS Jackson  Layup,,
+0020100750,305,4,0,3,9:08 PM,0:18,,,Clark REBOUND (Off:4 Def:6),,
+0020100750,306,1,4,3,9:08 PM,0:18,,,Clark  Tip Shot (12 PTS),56 - 71,15
+0020100750,307,6,2,3,9:08 PM,0:00,,,Williams S.FOUL (P1.PN),,
+0020100750,308,3,11,3,9:08 PM,0:00,MISS Wallace Free Throw 1 of 2,,,,
+0020100750,309,4,1,3,9:08 PM,0:00,PISTONS Rebound,,,,
+0020100750,310,3,12,3,9:08 PM,0:00,Wallace Free Throw 2 of 2 (13 PTS),,,56 - 72,16
+0020100750,311,13,0,3,9:09 PM,0:00,,,,56 - 72,16
+0020100750,313,12,0,4,9:11 PM,12:00,,,,56 - 72,16
+0020100750,314,2,5,4,9:11 PM,11:45,,,MISS N'diaye  Layup,,
+0020100750,315,4,0,4,9:11 PM,11:44,,,Childs REBOUND (Off:1 Def:3),,
+0020100750,316,6,2,4,9:12 PM,11:39,Rebraca S.FOUL (P2.T1),,,,
+0020100750,317,3,11,4,9:12 PM,11:39,,,MISS Clark Free Throw 1 of 2,,
+0020100750,318,4,1,4,9:12 PM,11:39,,,Raptors Rebound,,
+0020100750,319,3,12,4,9:12 PM,11:39,,,MISS Clark Free Throw 2 of 2,,
+0020100750,320,4,0,4,9:12 PM,11:39,Williamson REBOUND (Off:0 Def:1),,,,
+0020100750,321,5,4,4,9:12 PM,11:22,Rebraca Traveling Turnover (P2.T11),,,,
+0020100750,322,6,1,4,9:13 PM,11:08,Wallace P.FOUL (P2.T2),,,,
+0020100750,323,1,1,4,9:13 PM,10:59,,,N'diaye 9' Jump Shot (5 PTS) (Murray 1 AST),58 - 72,14
+0020100750,324,2,1,4,9:14 PM,10:39,MISS Rebraca 11' Jump Shot,,N'diaye BLOCK (1 BLK),,
+0020100750,325,4,0,4,9:14 PM,10:37,PISTONS Rebound,,,,
+0020100750,326,2,1,4,9:14 PM,10:34,MISS Barry 25' 3PT Jump Shot,,,,
+0020100750,327,4,0,4,9:14 PM,10:33,Williamson REBOUND (Off:1 Def:1),,,,
+0020100750,328,2,1,4,9:14 PM,10:21,MISS Williamson 13' Jump Shot,,,,
+0020100750,329,4,0,4,9:14 PM,10:19,,,Clark REBOUND (Off:4 Def:7),,
+0020100750,330,1,1,4,9:15 PM,10:10,,,Murray  3PT Jump Shot (3 PTS) (Jackson 1 AST),61 - 72,11
+0020100750,331,1,3,4,9:15 PM,9:51,Rebraca 6' Hook Shot (9 PTS),,,61 - 74,13
+0020100750,332,2,46,4,9:15 PM,9:27,,,MISS Clark 9' Running Jump Shot,,
+0020100750,333,4,0,4,9:15 PM,9:24,,,Clark REBOUND (Off:5 Def:7),,
+0020100750,334,1,47,4,9:15 PM,9:18,,,Clark 8' Turnaround Jump Shot (14 PTS),63 - 74,11
+0020100750,335,6,1,4,9:16 PM,9:01,,,Clark P.FOUL (P3.T1),,
+0020100750,336,8,0,4,9:16 PM,9:01,,,SUB: Davis FOR Clark,,
+0020100750,337,8,0,4,9:16 PM,9:01,SUB: Stackhouse FOR Wallace,,,,
+0020100750,338,6,2,4,9:17 PM,8:51,,,Childs S.FOUL (P3.T2),,
+0020100750,339,9,3,4,9:17 PM,8:51,,,,,
+0020100750,341,8,0,4,9:19 PM,8:51,SUB: Jones FOR Atkins,,,,
+0020100750,342,3,11,4,9:19 PM,8:51,Stackhouse Free Throw 1 of 2 (17 PTS),,,63 - 75,12
+0020100750,343,3,12,4,9:19 PM,8:51,Stackhouse Free Throw 2 of 2 (18 PTS),,,63 - 76,13
+0020100750,344,6,1,4,9:20 PM,8:38,Williamson P.FOUL (P2.T3),,,,
+0020100750,345,1,1,4,9:20 PM,8:32,,,Murray 20' Jump Shot (5 PTS),65 - 76,11
+0020100750,346,2,1,4,9:20 PM,8:13,MISS Williamson 11' Jump Shot,,,,
+0020100750,347,4,0,4,9:20 PM,8:11,,,Davis REBOUND (Off:9 Def:4),,
+0020100750,348,1,3,4,9:21 PM,7:54,,,Davis 6' Hook Shot (19 PTS),67 - 76,9
+0020100750,349,1,49,4,9:21 PM,7:33,Williamson  Driving Dunk (2 PTS),,,67 - 78,11
+0020100750,350,6,2,4,9:21 PM,7:15,Williamson S.FOUL (P3.T4),,,,
+0020100750,351,8,0,4,9:21 PM,7:15,SUB: Robinson FOR Williamson,,,,
+0020100750,352,3,11,4,9:21 PM,7:15,,,Jackson Free Throw 1 of 2 (1 PTS),68 - 78,10
+0020100750,353,3,12,4,9:22 PM,7:15,,,MISS Jackson Free Throw 2 of 2,,
+0020100750,354,4,0,4,9:22 PM,7:15,Rebraca REBOUND (Off:2 Def:4),,,,
+0020100750,355,2,1,4,9:23 PM,6:54,MISS Stackhouse 17' Jump Shot,,,,
+0020100750,356,4,0,4,9:23 PM,6:52,,,Jackson REBOUND (Off:0 Def:1),,
+0020100750,357,2,1,4,9:23 PM,6:36,,,MISS Davis 10' Jump Shot,,
+0020100750,358,4,0,4,9:23 PM,6:34,,,Murray REBOUND (Off:1 Def:0),,
+0020100750,359,1,5,4,9:23 PM,6:33,,,Murray  Layup (7 PTS),70 - 78,8
+0020100750,360,9,1,4,9:23 PM,6:27,PISTONS Timeout: Regular (Full 4 Short 1),,,,
+0020100750,362,6,1,4,9:26 PM,6:18,,,N'diaye P.FOUL (P3.T3),,
+0020100750,363,2,3,4,9:26 PM,6:10,MISS Rebraca 5' Hook Shot,,,,
+0020100750,364,4,0,4,9:26 PM,6:07,,,Murray REBOUND (Off:1 Def:1),,
+0020100750,365,5,1,4,9:26 PM,5:56,Stackhouse STEAL (4 STL),,Murray Bad Pass Turnover (P1.T10),,
+0020100750,366,1,7,4,9:26 PM,5:52,Stackhouse  Dunk (20 PTS),,,70 - 80,10
+0020100750,367,2,1,4,9:27 PM,5:24,,,MISS Murray  3PT Jump Shot,,
+0020100750,368,4,0,4,9:27 PM,5:22,Jones REBOUND (Off:0 Def:1),,,,
+0020100750,369,2,1,4,9:27 PM,4:59,MISS Barry 9' Jump Shot,,,,
+0020100750,370,4,0,4,9:27 PM,4:58,Rebraca REBOUND (Off:3 Def:4),,,,
+0020100750,371,5,11,4,9:27 PM,4:58,PISTONS Turnover: Shot Clock (T#12),,,,
+0020100750,372,8,0,4,9:27 PM,4:58,SUB: Atkins FOR Rebraca,,,,
+0020100750,373,2,1,4,9:28 PM,4:46,,,MISS Murray 26' 3PT Jump Shot,,
+0020100750,374,4,0,4,9:28 PM,4:45,PISTONS Rebound,,,,
+0020100750,375,6,3,4,9:28 PM,4:45,,,N'diaye L.B.FOUL (P4.T4),,
+0020100750,376,8,0,4,9:28 PM,4:45,,,SUB: Clark FOR N'diaye,,
+0020100750,377,1,61,4,9:29 PM,4:25,Barry  Driving Finger Roll (11 PTS),,,70 - 82,12
+0020100750,378,1,7,4,9:29 PM,4:00,,,Davis  Dunk (21 PTS) (Jackson 2 AST),72 - 82,10
+0020100750,379,6,2,4,9:29 PM,3:43,,,Childs S.FOUL (P4.PN),,
+0020100750,380,3,11,4,9:29 PM,3:43,MISS Stackhouse Free Throw 1 of 2,,,,
+0020100750,381,4,1,4,9:29 PM,3:43,PISTONS Rebound,,,,
+0020100750,382,3,12,4,9:30 PM,3:43,Stackhouse Free Throw 2 of 2 (21 PTS),,,72 - 83,11
+0020100750,383,6,4,4,9:30 PM,3:27,,,Davis OFF.Foul (P3),,
+0020100750,384,5,5,4,9:30 PM,3:27,,,Davis Foul Turnover (P2.T11),,
+0020100750,385,1,1,4,9:31 PM,3:12,Barry 17' Jump Shot (13 PTS) (Stackhouse 4 AST),,,72 - 85,13
+0020100750,386,2,1,4,9:31 PM,2:57,,,MISS Jackson 19' Jump Shot,,
+0020100750,387,4,0,4,9:31 PM,2:54,,,Davis REBOUND (Off:10 Def:4),,
+0020100750,388,5,1,4,9:31 PM,2:46,Robinson STEAL (3 STL),,Childs Bad Pass Turnover (P2.T12),,
+0020100750,389,2,1,4,9:31 PM,2:26,MISS Stackhouse 24' 3PT Jump Shot,,,,
+0020100750,390,4,0,4,9:32 PM,2:25,Stackhouse REBOUND (Off:1 Def:3),,,,
+0020100750,391,1,1,4,9:32 PM,2:20,Robinson 19' Jump Shot (14 PTS) (Atkins 6 AST),,,72 - 87,15
+0020100750,392,9,1,4,9:32 PM,2:11,,,Raptors Timeout: Regular (Reg.4 Short 1),,
+0020100750,394,8,0,4,9:34 PM,2:11,,,SUB: Bradley FOR Davis,,
+0020100750,395,8,0,4,9:34 PM,2:11,SUB: Wallace FOR Jones,,,,
+0020100750,396,8,0,4,9:34 PM,2:11,,,SUB: N'diaye FOR Clark,,
+0020100750,397,2,5,4,9:34 PM,1:55,Robinson BLOCK (3 BLK),,MISS Jackson  Layup,,
+0020100750,398,4,0,4,9:34 PM,1:52,Barry REBOUND (Off:1 Def:1),,,,
+0020100750,399,2,1,4,9:35 PM,1:34,MISS Atkins 24' 3PT Jump Shot,,,,
+0020100750,400,4,0,4,9:35 PM,1:32,,,Childs REBOUND (Off:1 Def:4),,
+0020100750,401,1,3,4,9:35 PM,1:14,,,Murray 6' Hook Shot (9 PTS) (Bradley 1 AST),74 - 87,13
+0020100750,402,2,5,4,9:35 PM,0:57,MISS Wallace  Layup,,N'diaye BLOCK (2 BLK),,
+0020100750,403,4,0,4,9:35 PM,0:55,Stackhouse REBOUND (Off:2 Def:3),,,,
+0020100750,404,2,4,4,9:35 PM,0:52,MISS Stackhouse  Tip Shot,,,,
+0020100750,405,4,0,4,9:35 PM,0:50,,,Jackson REBOUND (Off:0 Def:2),,
+0020100750,406,1,1,4,9:36 PM,0:48,,,N'diaye 16' Jump Shot (7 PTS) (Jackson 3 AST),76 - 87,11
+0020100750,407,1,3,4,9:36 PM,0:25,Robinson 7' Hook Shot (16 PTS) (Atkins 7 AST),,,76 - 89,13
+0020100750,408,2,3,4,9:36 PM,0:07,,,MISS Murray 9' Hook Shot,,
+0020100750,409,4,0,4,9:36 PM,0:04,Stackhouse REBOUND (Off:2 Def:4),,,,
+0020100750,410,13,0,4,9:36 PM,0:00,,,,76 - 89,13

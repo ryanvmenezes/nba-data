@@ -1,0 +1,454 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900674,0,12,0,1,7:45 PM,12:00,,,,,
+0020900674,1,10,0,1,7:45 PM,12:00,Jump Ball Jeffries vs. Bosh: Tip to Jack,,,,
+0020900674,2,1,5,1,7:46 PM,11:41,,,Bosh  Layup (2 PTS) (Bargnani 1 AST),2 - 0,-2
+0020900674,3,1,1,1,7:46 PM,11:25,Gallinari 26' 3PT Jump Shot (3 PTS) (Lee 1 AST),,,2 - 3,1
+0020900674,4,1,42,1,7:46 PM,10:57,,,Jack  Driving Layup (2 PTS),4 - 3,-1
+0020900674,5,1,5,1,7:47 PM,10:37,Lee  Layup (2 PTS) (Duhon 1 AST),,,4 - 5,1
+0020900674,6,2,5,1,7:47 PM,10:24,Chandler BLOCK (1 BLK),,MISS Bargnani  Layup,,
+0020900674,7,4,0,1,7:47 PM,10:23,Chandler REBOUND (Off:0 Def:1),,,,
+0020900674,8,1,1,1,7:47 PM,10:13,Duhon 24' 3PT Jump Shot (3 PTS) (Chandler 1 AST),,,4 - 8,4
+0020900674,9,1,1,1,7:47 PM,10:04,,,Turkoglu 25' 3PT Jump Shot (3 PTS),7 - 8,1
+0020900674,10,1,1,1,7:47 PM,9:55,Lee 19' Jump Shot (4 PTS) (Duhon 2 AST),,,7 - 10,3
+0020900674,11,6,2,1,7:48 PM,9:41,Jeffries S.FOUL (P1.T1),,,,
+0020900674,12,3,11,1,7:48 PM,9:41,,,Bosh Free Throw 1 of 2 (3 PTS),8 - 10,2
+0020900674,14,3,12,1,7:48 PM,9:41,,,Bosh Free Throw 2 of 2 (4 PTS),9 - 10,1
+0020900674,16,1,42,1,7:49 PM,9:25,Chandler  Driving Layup (2 PTS),,,9 - 12,3
+0020900674,17,2,1,1,7:49 PM,9:08,,,MISS Turkoglu 7' Jump Shot,,
+0020900674,18,4,0,1,7:49 PM,9:08,Lee REBOUND (Off:0 Def:1),,,,
+0020900674,19,1,1,1,7:49 PM,8:56,Jeffries 22' Jump Shot (2 PTS) (Gallinari 1 AST),,,9 - 14,5
+0020900674,20,5,1,1,7:49 PM,8:39,Jeffries STEAL (1 STL),,Weems Bad Pass Turnover (P1.T1),,
+0020900674,21,2,1,1,7:50 PM,8:24,MISS Duhon 24' 3PT Jump Shot,,,,
+0020900674,22,4,0,1,7:50 PM,8:24,,,Turkoglu REBOUND (Off:0 Def:1),,
+0020900674,23,2,1,1,7:50 PM,8:17,,,MISS Turkoglu 20' Jump Shot,,
+0020900674,24,4,0,1,7:50 PM,8:16,Lee REBOUND (Off:0 Def:2),,,,
+0020900674,25,2,5,1,7:50 PM,8:02,MISS Lee  Layup,,Bargnani BLOCK (1 BLK),,
+0020900674,26,4,0,1,7:50 PM,8:00,,,Bargnani REBOUND (Off:0 Def:1),,
+0020900674,27,5,4,1,7:50 PM,7:55,,,Turkoglu Traveling Turnover (P1.T2),,
+0020900674,28,2,1,1,7:51 PM,7:40,MISS Chandler 3' Jump Shot,,,,
+0020900674,29,4,0,1,7:51 PM,7:38,,,Bosh REBOUND (Off:0 Def:1),,
+0020900674,30,2,1,1,7:51 PM,7:32,,,MISS Bargnani 25' 3PT Jump Shot,,
+0020900674,31,4,0,1,7:51 PM,7:31,Lee REBOUND (Off:0 Def:3),,,,
+0020900674,32,5,1,1,7:51 PM,7:21,Duhon Bad Pass Turnover (P1.T1),,Bosh STEAL (1 STL),,
+0020900674,33,5,2,1,7:51 PM,7:05,Lee STEAL (1 STL),,Bosh Lost Ball Turnover (P1.T3),,
+0020900674,34,1,42,1,7:52 PM,6:52,Gallinari  Driving Layup (5 PTS),,,9 - 16,7
+0020900674,35,6,2,1,7:52 PM,6:52,,,Jack S.FOUL (P1.T1),,
+0020900674,36,3,10,1,7:52 PM,6:52,Gallinari Free Throw 1 of 1 (6 PTS),,,9 - 17,8
+0020900674,38,2,1,1,7:52 PM,6:37,,,MISS Bargnani 5' Jump Shot,,
+0020900674,39,4,0,1,7:52 PM,6:36,,,Weems REBOUND (Off:1 Def:0),,
+0020900674,40,1,1,1,7:53 PM,6:21,,,Weems 11' Jump Shot (2 PTS) (Turkoglu 1 AST),11 - 17,6
+0020900674,41,1,46,1,7:53 PM,6:12,Chandler 12' Running Jump Shot (4 PTS) (Duhon 3 AST),,,11 - 19,8
+0020900674,42,2,1,1,7:53 PM,5:57,,,MISS Bosh 17' Jump Shot,,
+0020900674,43,4,0,1,7:53 PM,5:57,Gallinari REBOUND (Off:0 Def:1),,,,
+0020900674,44,1,1,1,7:53 PM,5:44,Jeffries  3PT Jump Shot (5 PTS) (Duhon 4 AST),,,11 - 22,11
+0020900674,45,6,2,1,7:54 PM,5:18,Duhon S.FOUL (P1.T2),,,,
+0020900674,46,9,1,1,7:54 PM,5:18,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0020900674,48,8,0,1,7:56 PM,5:18,SUB: Harrington FOR Jeffries,,,,
+0020900674,50,3,11,1,7:56 PM,5:18,,,Jack Free Throw 1 of 2 (3 PTS),12 - 22,10
+0020900674,52,3,12,1,7:57 PM,5:18,,,Jack Free Throw 2 of 2 (4 PTS),13 - 22,9
+0020900674,54,5,1,1,7:57 PM,5:07,Chandler Bad Pass Turnover (P1.T2),,Turkoglu STEAL (1 STL),,
+0020900674,55,2,1,1,7:57 PM,4:53,,,MISS Bosh 6' Jump Shot,,
+0020900674,56,4,0,1,7:57 PM,4:53,Lee REBOUND (Off:0 Def:4),,,,
+0020900674,57,2,5,1,7:57 PM,4:44,MISS Chandler  Layup,,,,
+0020900674,58,4,0,1,7:57 PM,4:43,,,Turkoglu REBOUND (Off:0 Def:2),,
+0020900674,59,1,41,1,7:58 PM,4:33,,,Bosh  Running Layup (6 PTS),15 - 22,7
+0020900674,60,6,2,1,7:58 PM,4:33,Lee S.FOUL (P1.T3),,,,
+0020900674,61,8,0,1,7:58 PM,4:33,SUB: Robinson FOR Duhon,,,,
+0020900674,62,3,10,1,7:58 PM,4:33,,,Bosh Free Throw 1 of 1 (7 PTS),16 - 22,6
+0020900674,64,5,1,1,7:59 PM,4:21,Chandler Bad Pass Turnover (P2.T3),,,,
+0020900674,65,2,1,1,7:59 PM,4:11,,,MISS Weems 4' Jump Shot,,
+0020900674,66,4,0,1,7:59 PM,4:10,Lee REBOUND (Off:0 Def:5),,,,
+0020900674,67,1,1,1,7:59 PM,4:00,Lee 19' Jump Shot (6 PTS) (Robinson 1 AST),,,16 - 24,8
+0020900674,68,2,1,1,7:59 PM,3:39,,,MISS Bosh 4' Jump Shot,,
+0020900674,69,4,0,1,7:59 PM,3:39,,,Bosh REBOUND (Off:1 Def:1),,
+0020900674,70,2,1,1,7:59 PM,3:37,,,MISS Bosh 4' Jump Shot,,
+0020900674,71,4,0,1,7:59 PM,3:36,Gallinari REBOUND (Off:0 Def:2),,,,
+0020900674,72,1,42,1,8:00 PM,3:28,Lee  Driving Layup (8 PTS) (Robinson 2 AST),,,16 - 26,10
+0020900674,73,6,2,1,8:00 PM,3:28,,,Bargnani S.FOUL (P1.T2),,
+0020900674,74,8,0,1,8:00 PM,3:28,,,SUB: Johnson FOR Bosh,,
+0020900674,75,3,10,1,8:00 PM,3:28,Lee Free Throw 1 of 1 (9 PTS),,,16 - 27,11
+0020900674,77,2,1,1,8:00 PM,3:15,,,MISS Turkoglu 22' Jump Shot,,
+0020900674,78,4,0,1,8:00 PM,3:14,,,Weems REBOUND (Off:2 Def:0),,
+0020900674,79,2,1,1,8:01 PM,3:10,,,MISS Bargnani 25' 3PT Jump Shot,,
+0020900674,80,4,0,1,8:01 PM,3:09,,,Weems REBOUND (Off:3 Def:0),,
+0020900674,81,2,1,1,8:01 PM,3:01,,,MISS Bargnani 7' Jump Shot,,
+0020900674,82,4,0,1,8:01 PM,3:00,Gallinari REBOUND (Off:0 Def:3),,,,
+0020900674,83,1,1,1,8:01 PM,2:46,Lee 20' Jump Shot (11 PTS) (Gallinari 2 AST),,,16 - 29,13
+0020900674,84,2,1,1,8:01 PM,2:31,,,MISS Jack 26' 3PT Jump Shot,,
+0020900674,85,4,0,1,8:01 PM,2:31,Gallinari REBOUND (Off:0 Def:4),,,,
+0020900674,86,1,1,1,8:01 PM,2:23,Gallinari 25' 3PT Jump Shot (9 PTS) (Harrington 1 AST),,,16 - 32,16
+0020900674,87,9,1,1,8:01 PM,2:16,,,Raptors Timeout: Regular (Reg.1 Short 0),,
+0020900674,89,8,0,1,8:04 PM,2:16,,,SUB: Belinelli FOR Weems,,
+0020900674,91,1,1,1,8:05 PM,1:57,,,Johnson 5' Jump Shot (2 PTS) (Belinelli 1 AST),18 - 32,14
+0020900674,92,2,1,1,8:05 PM,1:42,MISS Harrington 24' 3PT Jump Shot,,,,
+0020900674,93,4,0,1,8:05 PM,1:41,,,Jack REBOUND (Off:0 Def:1),,
+0020900674,94,2,1,1,8:05 PM,1:34,,,MISS Turkoglu 26' 3PT Jump Shot,,
+0020900674,95,4,0,1,8:05 PM,1:33,KNICKS Rebound,,,,
+0020900674,96,8,0,1,8:05 PM,1:32,,,SUB: Calderon FOR Jack,,
+0020900674,97,2,1,1,8:06 PM,1:19,MISS Lee 21' Jump Shot,,,,
+0020900674,98,4,0,1,8:06 PM,1:19,,,Johnson REBOUND (Off:0 Def:1),,
+0020900674,99,1,73,1,8:06 PM,1:04,,,Turkoglu  Driving Reverse Layup (5 PTS) (Johnson 1 AST),20 - 32,12
+0020900674,100,2,1,1,8:06 PM,0:49,MISS Harrington 6' Jump Shot,,,,
+0020900674,101,4,0,1,8:06 PM,0:48,,,Turkoglu REBOUND (Off:0 Def:3),,
+0020900674,102,6,4,1,8:06 PM,0:39,,,Johnson OFF.Foul (P1),,
+0020900674,103,5,5,1,8:06 PM,0:39,,,Johnson Foul Turnover (P1.T4),,
+0020900674,104,6,2,1,8:07 PM,0:32,,,Johnson S.FOUL (P2.T3),,
+0020900674,105,3,11,1,8:07 PM,0:32,Lee Free Throw 1 of 2 (12 PTS),,,20 - 33,13
+0020900674,107,3,12,1,8:07 PM,0:32,Lee Free Throw 2 of 2 (13 PTS),,,20 - 34,14
+0020900674,109,2,1,1,8:08 PM,0:19,,,MISS Belinelli 21' Jump Shot,,
+0020900674,110,4,0,1,8:08 PM,0:19,Lee REBOUND (Off:0 Def:6),,,,
+0020900674,111,2,1,1,8:08 PM,0:00,MISS Robinson 26' 3PT Jump Shot,,,,
+0020900674,112,4,0,1,8:08 PM,0:00,,,Johnson REBOUND (Off:0 Def:2),,
+0020900674,113,13,0,1,8:08 PM,0:00,,,,20 - 34,14
+0020900674,115,12,0,2,8:12 PM,12:00,,,,20 - 34,14
+0020900674,116,6,1,2,8:12 PM,11:58,,,Belinelli P.FOUL (P1.T1),,
+0020900674,117,2,1,2,8:13 PM,11:34,MISS Harrington 20' Jump Shot,,,,
+0020900674,118,4,0,2,8:13 PM,11:34,KNICKS Rebound,,,,
+0020900674,119,5,11,2,8:13 PM,11:34,KNICKS Turnover: Shot Clock (T#4),,,,
+0020900674,120,1,1,2,8:13 PM,11:19,,,Bosh 10' Jump Shot (9 PTS),22 - 34,12
+0020900674,121,8,0,2,8:13 PM,11:07,SUB: Duhon FOR Chandler,,,,
+0020900674,122,2,1,2,8:14 PM,11:00,MISS Jeffries 6' Jump Shot,,Johnson BLOCK (1 BLK),,
+0020900674,123,4,0,2,8:14 PM,10:57,,,Johnson REBOUND (Off:0 Def:3),,
+0020900674,124,2,1,2,8:14 PM,10:46,,,MISS Calderon 19' Jump Shot,,
+0020900674,125,4,0,2,8:14 PM,10:45,,,Bosh REBOUND (Off:2 Def:1),,
+0020900674,126,2,1,2,8:14 PM,10:41,,,MISS Belinelli 25' 3PT Jump Shot,,
+0020900674,127,4,0,2,8:14 PM,10:40,Hill REBOUND (Off:0 Def:1),,,,
+0020900674,128,2,1,2,8:14 PM,10:26,MISS Harrington 6' Jump Shot,,Johnson BLOCK (2 BLK),,
+0020900674,129,4,0,2,8:14 PM,10:25,,,Calderon REBOUND (Off:0 Def:1),,
+0020900674,130,5,2,2,8:14 PM,10:23,Robinson STEAL (1 STL),,Belinelli Lost Ball Turnover (P1.T5),,
+0020900674,131,1,1,2,8:15 PM,10:11,Harrington 16' Jump Shot (2 PTS) (Robinson 3 AST),,,22 - 36,14
+0020900674,132,1,79,2,8:15 PM,9:58,,,Calderon 17' Pullup Jump Shot (2 PTS),24 - 36,12
+0020900674,133,2,5,2,8:15 PM,9:36,MISS Harrington  Layup,,,,
+0020900674,134,4,0,2,8:15 PM,9:35,,,Bosh REBOUND (Off:2 Def:2),,
+0020900674,135,2,1,2,8:15 PM,9:28,Hill BLOCK (1 BLK),,MISS Calderon 18' Jump Shot,,
+0020900674,136,4,0,2,8:15 PM,9:27,Duhon REBOUND (Off:0 Def:1),,,,
+0020900674,137,1,5,2,8:15 PM,9:24,Harrington  Layup (4 PTS) (Robinson 4 AST),,,24 - 38,14
+0020900674,138,1,3,2,8:16 PM,9:05,,,Johnson 6' Hook Shot (4 PTS) (Calderon 1 AST),26 - 38,12
+0020900674,139,2,1,2,8:16 PM,8:50,MISS Harrington 25' 3PT Jump Shot,,,,
+0020900674,140,4,0,2,8:16 PM,8:49,Hill REBOUND (Off:1 Def:1),,,,
+0020900674,141,2,5,2,8:16 PM,8:47,MISS Hill  Layup,,,,
+0020900674,142,4,0,2,8:16 PM,8:45,,,Wright REBOUND (Off:0 Def:1),,
+0020900674,143,1,1,2,8:16 PM,8:38,,,Wright 21' Jump Shot (2 PTS),28 - 38,10
+0020900674,144,2,1,2,8:17 PM,8:12,MISS Hill 20' Jump Shot,,,,
+0020900674,145,4,0,2,8:17 PM,8:11,,,Belinelli REBOUND (Off:0 Def:1),,
+0020900674,146,6,4,2,8:17 PM,8:03,,,Johnson OFF.Foul (P3),,
+0020900674,147,5,5,2,8:17 PM,8:03,,,Johnson Foul Turnover (P2.T6),,
+0020900674,148,9,4,2,8:17 PM,8:03,,,,,
+0020900674,151,8,0,2,8:19 PM,8:03,,,SUB: Bargnani FOR Johnson,,
+0020900674,152,6,4,2,8:20 PM,7:55,Jeffries OFF.Foul (P2),,,,
+0020900674,153,5,5,2,8:20 PM,7:55,Jeffries Foul Turnover (P1.T5),,,,
+0020900674,154,5,41,2,8:20 PM,7:39,Jeffries STEAL (2 STL),,Wright Poss Lost Ball Turnover (P1.T7),,
+0020900674,155,5,1,2,8:20 PM,7:36,Robinson Bad Pass Turnover (P1.T6),,,,
+0020900674,156,5,1,2,8:21 PM,7:22,Duhon STEAL (1 STL),,Bosh Bad Pass Turnover (P2.T8),,
+0020900674,157,2,5,2,8:21 PM,7:14,MISS Hill  Layup,,Bargnani BLOCK (2 BLK),,
+0020900674,158,4,0,2,8:21 PM,7:13,,,Bargnani REBOUND (Off:0 Def:2),,
+0020900674,159,1,42,2,8:21 PM,7:03,,,Calderon  Driving Layup (4 PTS),30 - 38,8
+0020900674,160,2,1,2,8:21 PM,6:38,MISS Duhon 25' 3PT Jump Shot,,,,
+0020900674,161,4,0,2,8:21 PM,6:37,Hill REBOUND (Off:2 Def:1),,,,
+0020900674,162,6,2,2,8:22 PM,6:31,,,Calderon S.FOUL (P1.T2),,
+0020900674,163,8,0,2,8:22 PM,6:31,SUB: Lee FOR Hill,,,,
+0020900674,164,3,11,2,8:22 PM,6:31,Robinson Free Throw 1 of 2 (1 PTS),,,30 - 39,9
+0020900674,166,3,12,2,8:22 PM,6:31,Robinson Free Throw 2 of 2 (2 PTS),,,30 - 40,10
+0020900674,168,1,1,2,8:22 PM,6:20,,,Wright  3PT Jump Shot (5 PTS) (Belinelli 2 AST),33 - 40,7
+0020900674,169,2,1,2,8:23 PM,6:05,MISS Robinson 25' 3PT Jump Shot,,,,
+0020900674,170,4,0,2,8:23 PM,6:05,,,Bosh REBOUND (Off:2 Def:3),,
+0020900674,171,1,42,2,8:23 PM,5:52,,,Calderon  Driving Layup (6 PTS),35 - 40,5
+0020900674,172,9,1,2,8:23 PM,5:45,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0020900674,174,8,0,2,8:25 PM,5:45,SUB: Chandler FOR Harrington,,,,
+0020900674,175,8,0,2,8:25 PM,5:45,SUB: Gallinari FOR Robinson,,,,
+0020900674,177,5,1,2,8:26 PM,5:28,Lee Bad Pass Turnover (P1.T7),,,,
+0020900674,178,5,1,2,8:26 PM,5:10,Duhon STEAL (2 STL),,Calderon Bad Pass Turnover (P1.T9),,
+0020900674,179,2,1,2,8:26 PM,5:04,MISS Chandler 19' Jump Shot,,,,
+0020900674,180,4,0,2,8:26 PM,5:04,Lee REBOUND (Off:1 Def:6),,,,
+0020900674,181,1,5,2,8:26 PM,5:02,Lee  Layup (15 PTS),,,35 - 42,7
+0020900674,182,2,1,2,8:27 PM,4:45,,,MISS Bosh 14' Jump Shot,,
+0020900674,183,4,0,2,8:27 PM,4:45,Gallinari REBOUND (Off:0 Def:5),,,,
+0020900674,184,1,71,2,8:27 PM,4:30,Chandler  Finger Roll Layup (6 PTS),,,35 - 44,9
+0020900674,185,1,1,2,8:27 PM,4:14,,,Calderon 22' Jump Shot (8 PTS),37 - 44,7
+0020900674,186,9,2,2,8:28 PM,3:51,KNICKS Timeout: Short (Full 2 Short 1),,,,
+0020900674,190,2,1,2,8:29 PM,3:46,MISS Gallinari 26' 3PT Jump Shot,,,,
+0020900674,191,4,0,2,8:29 PM,3:46,,,Wright REBOUND (Off:0 Def:2),,
+0020900674,192,1,1,2,8:29 PM,3:27,,,Wright 24' 3PT Jump Shot (8 PTS) (Calderon 2 AST),40 - 44,4
+0020900674,193,1,42,2,8:29 PM,3:13,Lee  Driving Layup (17 PTS),,,40 - 46,6
+0020900674,194,6,2,2,8:30 PM,3:01,Chandler S.FOUL (P1.T1),,,,
+0020900674,195,8,0,2,8:30 PM,3:01,,,SUB: Turkoglu FOR Belinelli,,
+0020900674,196,3,11,2,8:30 PM,3:01,,,Bosh Free Throw 1 of 2 (10 PTS),41 - 46,5
+0020900674,198,3,12,2,8:30 PM,3:01,,,Bosh Free Throw 2 of 2 (11 PTS),42 - 46,4
+0020900674,200,1,47,2,8:31 PM,2:41,Chandler 10' Turnaround Jump Shot (8 PTS),,,42 - 48,6
+0020900674,201,1,8,2,8:31 PM,2:31,,,Bosh  Slam Dunk (13 PTS) (Calderon 3 AST),44 - 48,4
+0020900674,202,6,2,2,8:31 PM,2:31,Lee S.FOUL (P2.T2),,,,
+0020900674,203,9,1,2,8:31 PM,2:31,,,Raptors Timeout: Regular (Reg.2 Short 0),,
+0020900674,207,3,10,2,8:34 PM,2:31,,,MISS Bosh Free Throw 1 of 1,,
+0020900674,209,4,0,2,8:34 PM,2:30,Lee REBOUND (Off:1 Def:7),,,,
+0020900674,210,2,5,2,8:34 PM,2:19,MISS Duhon  Layup,,,,
+0020900674,211,4,0,2,8:34 PM,2:17,,,Calderon REBOUND (Off:0 Def:2),,
+0020900674,212,6,1,2,8:34 PM,2:14,Gallinari P.FOUL (P1.T3),,,,
+0020900674,213,5,6,2,8:35 PM,2:02,,,Bosh Double Dribble Turnover (P3.T10),,
+0020900674,214,1,1,2,8:35 PM,1:51,Gallinari 26' 3PT Jump Shot (12 PTS) (Duhon 5 AST),,,44 - 51,7
+0020900674,215,1,1,2,8:36 PM,1:33,,,Bargnani 16' Jump Shot (2 PTS),46 - 51,5
+0020900674,216,6,2,2,8:36 PM,1:33,Chandler S.FOUL (P2.T4),,,,
+0020900674,217,3,10,2,8:36 PM,1:33,,,MISS Bargnani Free Throw 1 of 1,,
+0020900674,219,4,0,2,8:36 PM,1:33,Lee REBOUND (Off:1 Def:8),,,,
+0020900674,220,2,5,2,8:36 PM,1:15,MISS Lee  Layup,,,,
+0020900674,221,4,0,2,8:36 PM,1:14,,,Wright REBOUND (Off:0 Def:3),,
+0020900674,222,1,1,2,8:37 PM,0:57,,,Turkoglu 26' 3PT Jump Shot (8 PTS) (Calderon 4 AST),49 - 51,2
+0020900674,223,5,40,2,8:37 PM,0:35,Gallinari Out of Bounds Lost Ball Turnover (P1.T8),,,,
+0020900674,224,2,1,2,8:38 PM,0:19,,,MISS Calderon 25' 3PT Jump Shot,,
+0020900674,225,4,0,2,8:38 PM,0:19,Lee REBOUND (Off:1 Def:9),,,,
+0020900674,226,6,1,2,8:38 PM,0:06,,,Calderon P.FOUL (P2.T3),,
+0020900674,227,6,1,2,8:38 PM,0:03,,,Bargnani P.FOUL (P2.PN),,
+0020900674,228,3,11,2,8:38 PM,0:03,Gallinari Free Throw 1 of 2 (13 PTS),,,49 - 52,3
+0020900674,230,3,12,2,8:39 PM,0:03,Gallinari Free Throw 2 of 2 (14 PTS),,,49 - 53,4
+0020900674,232,2,1,2,8:39 PM,0:00,,,MISS Bosh 24' 3PT Jump Shot,,
+0020900674,233,4,0,2,8:39 PM,0:00,,,Raptors Rebound,,
+0020900674,234,13,0,2,8:39 PM,0:00,,,,49 - 53,4
+0020900674,236,12,0,3,8:57 PM,12:00,,,,49 - 53,4
+0020900674,237,6,4,3,8:57 PM,11:54,Chandler OFF.Foul (P3),,,,
+0020900674,238,5,5,3,8:57 PM,11:54,Chandler Foul Turnover (P3.T9),,,,
+0020900674,239,6,2,3,8:57 PM,11:39,Gallinari S.FOUL (P2.T1),,,,
+0020900674,240,3,11,3,8:57 PM,11:39,,,MISS Turkoglu Free Throw 1 of 2,,
+0020900674,241,4,1,3,8:57 PM,11:39,,,Raptors Rebound,,
+0020900674,242,3,12,3,8:58 PM,11:39,,,Turkoglu Free Throw 2 of 2 (9 PTS),50 - 53,3
+0020900674,244,2,1,3,8:58 PM,11:21,MISS Gallinari 4' Jump Shot,,,,
+0020900674,245,4,0,3,8:58 PM,11:20,,,Turkoglu REBOUND (Off:0 Def:4),,
+0020900674,246,1,79,3,8:58 PM,11:14,,,Jack 22' Pullup Jump Shot (6 PTS),52 - 53,1
+0020900674,247,2,1,3,8:58 PM,10:57,MISS Harrington 25' 3PT Jump Shot,,,,
+0020900674,248,4,0,3,8:59 PM,10:56,,,Bosh REBOUND (Off:2 Def:4),,
+0020900674,249,5,21,3,8:59 PM,10:50,,,Jack Palming Turnover (P1.T11),,
+0020900674,250,5,2,3,8:59 PM,10:36,Lee Lost Ball Turnover (P2.T10),,Jack STEAL (1 STL),,
+0020900674,251,2,5,3,8:59 PM,10:29,,,MISS Bargnani  Layup,,
+0020900674,252,4,0,3,8:59 PM,10:28,Harrington REBOUND (Off:0 Def:1),,,,
+0020900674,253,2,1,3,8:59 PM,10:15,MISS Gallinari 21' Jump Shot,,,,
+0020900674,254,4,0,3,8:59 PM,10:14,,,Turkoglu REBOUND (Off:0 Def:5),,
+0020900674,255,1,5,3,9:00 PM,10:03,,,Bosh  Layup (15 PTS),54 - 53,-1
+0020900674,256,5,2,3,9:00 PM,9:47,Chandler Lost Ball Turnover (P4.T11),,Weems STEAL (1 STL),,
+0020900674,257,5,1,3,9:00 PM,9:44,,,Weems Bad Pass Turnover (P2.T12),,
+0020900674,258,6,2,3,9:00 PM,9:35,,,Bargnani S.FOUL (P3.T1),,
+0020900674,259,3,11,3,9:01 PM,9:35,Harrington Free Throw 1 of 2 (5 PTS),,,54 - 54,TIE
+0020900674,261,3,12,3,9:01 PM,9:35,Harrington Free Throw 2 of 2 (6 PTS),,,54 - 55,1
+0020900674,263,2,1,3,9:01 PM,9:22,,,MISS Turkoglu 24' 3PT Jump Shot,,
+0020900674,264,4,0,3,9:01 PM,9:21,Lee REBOUND (Off:1 Def:10),,,,
+0020900674,265,2,5,3,9:01 PM,9:16,MISS Chandler  Layup,,,,
+0020900674,266,4,0,3,9:01 PM,9:15,,,Jack REBOUND (Off:0 Def:2),,
+0020900674,267,1,7,3,9:01 PM,9:09,,,Turkoglu  Dunk (11 PTS) (Weems 1 AST),56 - 55,-1
+0020900674,268,2,1,3,9:02 PM,8:55,MISS Lee 20' Jump Shot,,,,
+0020900674,269,4,0,3,9:02 PM,8:55,,,Bosh REBOUND (Off:2 Def:5),,
+0020900674,270,5,8,3,9:02 PM,8:39,,,Bosh 3 Second Violation Turnover (P4.T13),,
+0020900674,271,1,47,3,9:02 PM,8:28,Lee 4' Turnaround Jump Shot (19 PTS) (Duhon 6 AST),,,56 - 57,1
+0020900674,272,1,1,3,9:03 PM,8:12,,,Weems 12' Jump Shot (4 PTS),58 - 57,-1
+0020900674,273,2,1,3,9:03 PM,7:54,MISS Chandler 7' Jump Shot,,,,
+0020900674,275,4,0,3,9:03 PM,7:53,Lee REBOUND (Off:2 Def:10),,,,
+0020900674,274,1,5,3,9:03 PM,7:53,Lee  Layup (21 PTS),,,58 - 59,1
+0020900674,276,6,4,3,9:03 PM,7:46,,,Bosh OFF.Foul (P1),,
+0020900674,277,5,5,3,9:03 PM,7:46,,,Bosh Foul Turnover (P5.T14),,
+0020900674,278,6,2,3,9:04 PM,7:41,,,Turkoglu S.FOUL (P1.T2),,
+0020900674,279,3,11,3,9:04 PM,7:41,Gallinari Free Throw 1 of 2 (15 PTS),,,58 - 60,2
+0020900674,281,3,12,3,9:04 PM,7:41,Gallinari Free Throw 2 of 2 (16 PTS),,,58 - 61,3
+0020900674,283,1,44,3,9:05 PM,7:27,,,Bosh  Reverse Layup (17 PTS),60 - 61,1
+0020900674,284,1,52,3,9:05 PM,7:15,Chandler  Alley Oop Dunk (10 PTS) (Duhon 7 AST),,,60 - 63,3
+0020900674,285,5,2,3,9:05 PM,7:03,Harrington STEAL (1 STL),,Jack Lost Ball Turnover (P2.T15),,
+0020900674,286,6,2,3,9:05 PM,7:00,,,Bargnani S.FOUL (P4.T3),,
+0020900674,287,3,11,3,9:05 PM,7:00,Harrington Free Throw 1 of 2 (7 PTS),,,60 - 64,4
+0020900674,289,8,0,3,9:05 PM,7:00,,,SUB: Johnson FOR Bargnani,,
+0020900674,290,3,12,3,9:06 PM,7:00,Harrington Free Throw 2 of 2 (8 PTS),,,60 - 65,5
+0020900674,292,2,1,3,9:06 PM,6:38,,,MISS Bosh 16' Jump Shot,,
+0020900674,293,4,0,3,9:06 PM,6:38,,,Johnson REBOUND (Off:1 Def:3),,
+0020900674,294,1,88,3,9:06 PM,6:34,,,Turkoglu  Driving Slam Dunk (13 PTS),62 - 65,3
+0020900674,295,2,5,3,9:07 PM,6:16,MISS Lee  Layup,,,,
+0020900674,296,4,0,3,9:07 PM,6:15,,,Bosh REBOUND (Off:2 Def:6),,
+0020900674,297,1,1,3,9:07 PM,6:07,,,Weems 17' Jump Shot (6 PTS) (Jack 1 AST),64 - 65,1
+0020900674,298,2,1,3,9:07 PM,5:44,MISS Harrington 24' 3PT Jump Shot,,,,
+0020900674,299,4,0,3,9:07 PM,5:43,Gallinari REBOUND (Off:1 Def:5),,,,
+0020900674,300,1,1,3,9:07 PM,5:39,Gallinari 22' Jump Shot (18 PTS),,,64 - 67,3
+0020900674,301,2,1,3,9:08 PM,5:18,,,MISS Bosh 5' Jump Shot,,
+0020900674,302,4,0,3,9:08 PM,5:18,Lee REBOUND (Off:2 Def:11),,,,
+0020900674,303,1,42,3,9:08 PM,4:58,Harrington  Driving Layup (10 PTS),,,64 - 69,5
+0020900674,304,6,2,3,9:08 PM,4:58,,,Johnson S.FOUL (P4.T4),,
+0020900674,305,9,1,3,9:08 PM,4:58,KNICKS Timeout: Regular (Full 3 Short 1),,,,
+0020900674,307,8,0,3,9:11 PM,4:58,SUB: Robinson FOR Chandler,,,,
+0020900674,309,3,10,3,9:11 PM,4:58,MISS Harrington Free Throw 1 of 1,,,,
+0020900674,311,4,0,3,9:11 PM,4:58,,,Bosh REBOUND (Off:2 Def:7),,
+0020900674,312,1,1,3,9:12 PM,4:35,,,Bosh 7' Jump Shot (19 PTS) (Turkoglu 2 AST),66 - 69,3
+0020900674,313,2,1,3,9:12 PM,4:21,MISS Gallinari 26' 3PT Jump Shot,,,,
+0020900674,314,4,0,3,9:12 PM,4:21,,,Turkoglu REBOUND (Off:0 Def:6),,
+0020900674,315,1,3,3,9:12 PM,4:08,,,Johnson 5' Hook Shot (6 PTS),68 - 69,1
+0020900674,316,1,71,3,9:12 PM,3:48,Lee  Finger Roll Layup (23 PTS) (Duhon 8 AST),,,68 - 71,3
+0020900674,317,1,1,3,9:13 PM,3:33,,,Turkoglu 25' 3PT Jump Shot (16 PTS),71 - 71,TIE
+0020900674,318,2,5,3,9:13 PM,3:13,MISS Harrington  Layup,,,,
+0020900674,319,4,0,3,9:13 PM,3:12,,,Weems REBOUND (Off:3 Def:1),,
+0020900674,320,5,2,3,9:13 PM,3:07,Gallinari STEAL (1 STL),,Weems Lost Ball Turnover (P3.T16),,
+0020900674,321,6,1,3,9:13 PM,3:06,,,Turkoglu P.FOUL (P2.PN),,
+0020900674,322,8,0,3,9:13 PM,3:06,,,SUB: Belinelli FOR Weems,,
+0020900674,323,3,11,3,9:14 PM,3:06,Duhon Free Throw 1 of 2 (4 PTS),,,71 - 72,1
+0020900674,325,3,12,3,9:14 PM,3:06,MISS Duhon Free Throw 2 of 2,,,,
+0020900674,327,4,0,3,9:14 PM,3:05,,,Turkoglu REBOUND (Off:0 Def:7),,
+0020900674,328,6,2,3,9:14 PM,2:50,Harrington S.FOUL (P1.T2),,,,
+0020900674,329,9,1,3,9:14 PM,2:50,,,Raptors Timeout: Regular (Reg.3 Short 0),,
+0020900674,332,8,0,3,9:17 PM,2:50,,,SUB: Calderon FOR Bosh,,
+0020900674,333,8,0,3,9:17 PM,2:50,,,SUB: Wright FOR Jack,,
+0020900674,334,3,11,3,9:17 PM,2:50,,,Turkoglu Free Throw 1 of 2 (17 PTS),72 - 72,TIE
+0020900674,337,8,0,3,9:18 PM,2:50,SUB: Chandler FOR Gallinari,,,,
+0020900674,338,3,12,3,9:18 PM,2:50,,,Turkoglu Free Throw 2 of 2 (18 PTS),73 - 72,-1
+0020900674,340,6,2,3,9:18 PM,2:28,,,Johnson S.FOUL (P5.PN),,
+0020900674,341,3,11,3,9:19 PM,2:28,Harrington Free Throw 1 of 2 (11 PTS),,,73 - 73,TIE
+0020900674,343,8,0,3,9:19 PM,2:28,,,SUB: Bargnani FOR Johnson,,
+0020900674,344,3,12,3,9:19 PM,2:28,Harrington Free Throw 2 of 2 (12 PTS),,,73 - 74,1
+0020900674,346,2,1,3,9:20 PM,2:05,,,MISS Bargnani 17' Jump Shot,,
+0020900674,347,4,0,3,9:20 PM,2:02,Duhon REBOUND (Off:0 Def:2),,,,
+0020900674,348,2,1,3,9:20 PM,1:58,MISS Robinson 26' 3PT Jump Shot,,,,
+0020900674,349,4,0,3,9:20 PM,1:58,,,Calderon REBOUND (Off:0 Def:3),,
+0020900674,350,1,8,3,9:20 PM,1:54,,,Turkoglu  Slam Dunk (20 PTS) (Calderon 5 AST),75 - 74,-1
+0020900674,351,2,1,3,9:20 PM,1:38,MISS Chandler 25' 3PT Jump Shot,,,,
+0020900674,352,4,0,3,9:20 PM,1:38,Lee REBOUND (Off:3 Def:11),,,,
+0020900674,353,6,2,3,9:20 PM,1:29,,,Belinelli S.FOUL (P2.PN),,
+0020900674,354,3,11,3,9:20 PM,1:29,MISS Robinson Free Throw 1 of 2,,,,
+0020900674,355,4,1,3,9:20 PM,1:29,KNICKS Rebound,,,,
+0020900674,356,3,12,3,9:21 PM,1:29,Robinson Free Throw 2 of 2 (3 PTS),,,75 - 75,TIE
+0020900674,358,2,1,3,9:21 PM,1:18,,,MISS Belinelli 24' 3PT Jump Shot,,
+0020900674,359,4,0,3,9:21 PM,1:17,Chandler REBOUND (Off:0 Def:2),,,,
+0020900674,360,1,42,3,9:21 PM,1:13,Robinson  Driving Layup (5 PTS),,,75 - 77,2
+0020900674,361,6,2,3,9:22 PM,0:50,Harrington S.FOUL (P2.T3),,,,
+0020900674,362,3,11,3,9:22 PM,0:50,,,Turkoglu Free Throw 1 of 2 (21 PTS),76 - 77,1
+0020900674,364,8,0,3,9:22 PM,0:50,,,SUB: Nesterovic FOR Bargnani,,
+0020900674,365,3,12,3,9:22 PM,0:50,,,Turkoglu Free Throw 2 of 2 (22 PTS),77 - 77,TIE
+0020900674,367,1,52,3,9:23 PM,0:45,Robinson  Alley Oop Dunk (7 PTS) (Duhon 9 AST),,,77 - 79,2
+0020900674,368,6,13,3,9:23 PM,0:45,Robinson HANGING.TECH.FOUL (P0.T3),,,,
+0020900674,369,3,16,3,9:23 PM,0:45,,,Calderon Free Throw Technical (9 PTS),78 - 79,1
+0020900674,371,6,1,3,9:24 PM,0:34,Harrington P.FOUL (P3.PN),,,,
+0020900674,372,3,11,3,9:24 PM,0:34,,,Nesterovic Free Throw 1 of 2 (1 PTS),79 - 79,TIE
+0020900674,374,3,12,3,9:24 PM,0:34,,,MISS Nesterovic Free Throw 2 of 2,,
+0020900674,376,4,0,3,9:24 PM,0:33,Harrington REBOUND (Off:0 Def:2),,,,
+0020900674,377,1,42,3,9:24 PM,0:26,Robinson  Driving Layup (9 PTS),,,79 - 81,2
+0020900674,378,6,4,3,9:25 PM,0:09,,,Nesterovic OFF.Foul (P1),,
+0020900674,379,5,5,3,9:25 PM,0:09,,,Nesterovic Foul Turnover (P1.T17),,
+0020900674,380,2,1,3,9:25 PM,0:02,MISS Robinson 27' 3PT Jump Shot,,,,
+0020900674,381,4,0,3,9:25 PM,0:02,,,Turkoglu REBOUND (Off:0 Def:8),,
+0020900674,382,2,1,3,9:25 PM,0:00,,,MISS Turkoglu 58' 3PT Jump Shot,,
+0020900674,383,4,0,3,9:25 PM,0:00,,,Raptors Rebound,,
+0020900674,384,13,0,3,9:25 PM,0:00,,,,79 - 81,2
+0020900674,386,12,0,4,9:28 PM,12:00,,,,79 - 81,2
+0020900674,387,2,5,4,9:29 PM,11:38,,,MISS Bosh  Layup,,
+0020900674,389,4,0,4,9:29 PM,11:35,,,Wright REBOUND (Off:1 Def:3),,
+0020900674,388,1,4,4,9:29 PM,11:35,,,Wright  Tip Shot (10 PTS),81 - 81,TIE
+0020900674,390,1,42,4,9:29 PM,11:22,Robinson  Driving Layup (11 PTS),,,81 - 83,2
+0020900674,391,2,1,4,9:29 PM,11:01,,,MISS Turkoglu 26' 3PT Jump Shot,,
+0020900674,392,4,0,4,9:29 PM,11:01,Robinson REBOUND (Off:0 Def:1),,,,
+0020900674,393,2,5,4,9:29 PM,10:49,MISS Lee  Layup,,Turkoglu BLOCK (1 BLK),,
+0020900674,394,4,0,4,9:29 PM,10:45,,,Wright REBOUND (Off:1 Def:4),,
+0020900674,395,5,1,4,9:30 PM,10:44,,,Wright Bad Pass Turnover (P2.T18),,
+0020900674,396,2,5,4,9:30 PM,10:24,MISS Gallinari  Layup,,,,
+0020900674,397,4,0,4,9:30 PM,10:21,Lee REBOUND (Off:4 Def:11),,,,
+0020900674,398,2,4,4,9:30 PM,10:20,MISS Lee  Tip Shot,,,,
+0020900674,399,4,0,4,9:30 PM,10:19,,,Bosh REBOUND (Off:2 Def:8),,
+0020900674,400,1,1,4,9:30 PM,10:07,,,Calderon  3PT Jump Shot (12 PTS) (Wright 1 AST),84 - 83,-1
+0020900674,401,5,2,4,9:31 PM,9:50,Lee Lost Ball Turnover (P3.T12),,Turkoglu STEAL (2 STL),,
+0020900674,402,1,1,4,9:31 PM,9:40,,,Wright 26' 3PT Jump Shot (13 PTS) (Calderon 6 AST),87 - 83,-4
+0020900674,403,9,1,4,9:31 PM,9:40,KNICKS Timeout: Regular (Full 4 Short 1),,,,
+0020900674,405,8,0,4,9:33 PM,9:40,SUB: Harrington FOR Lee,,,,
+0020900674,406,8,0,4,9:33 PM,9:40,SUB: Hill FOR Chandler,,,,
+0020900674,407,8,0,4,9:33 PM,9:40,,,SUB: Johnson FOR Turkoglu,,
+0020900674,408,2,1,4,9:34 PM,9:23,MISS Robinson 7' Jump Shot,,,,
+0020900674,409,4,0,4,9:34 PM,9:21,,,Bosh REBOUND (Off:2 Def:9),,
+0020900674,410,1,1,4,9:34 PM,8:57,,,Bosh 11' Jump Shot (21 PTS),89 - 83,-6
+0020900674,411,2,5,4,9:35 PM,8:40,MISS Hill  Layup,,,,
+0020900674,412,4,0,4,9:35 PM,8:39,,,Bosh REBOUND (Off:2 Def:10),,
+0020900674,413,2,1,4,9:35 PM,8:27,,,MISS Bosh 18' Jump Shot,,
+0020900674,414,4,0,4,9:35 PM,8:27,,,Johnson REBOUND (Off:2 Def:3),,
+0020900674,415,2,1,4,9:35 PM,8:08,,,MISS Wright 8' Jump Shot,,
+0020900674,416,4,0,4,9:35 PM,8:08,,,Bosh REBOUND (Off:3 Def:10),,
+0020900674,417,2,1,4,9:35 PM,7:58,,,MISS Jack 26' 3PT Jump Shot,,
+0020900674,418,4,0,4,9:35 PM,7:58,Harrington REBOUND (Off:0 Def:3),,,,
+0020900674,419,2,1,4,9:36 PM,7:43,MISS Harrington  3PT Jump Shot,,,,
+0020900674,420,4,0,4,9:36 PM,7:43,,,Bosh REBOUND (Off:3 Def:11),,
+0020900674,421,6,3,4,9:36 PM,7:42,Hill L.B.FOUL (P1.T1),,,,
+0020900674,422,8,0,4,9:36 PM,7:42,SUB: Lee FOR Hill,,,,
+0020900674,423,8,0,4,9:36 PM,7:42,SUB: Chandler FOR Duhon,,,,
+0020900674,424,6,4,4,9:36 PM,7:33,,,Bosh OFF.Foul (P2),,
+0020900674,425,5,5,4,9:36 PM,7:33,,,Bosh Foul Turnover (P6.T19),,
+0020900674,426,1,89,4,9:37 PM,7:16,Chandler  Reverse Slam Dunk (12 PTS) (Lee 2 AST),,,89 - 85,-4
+0020900674,427,6,2,4,9:37 PM,7:00,Lee S.FOUL (P3.T2),,,,
+0020900674,428,3,11,4,9:37 PM,7:00,,,Bosh Free Throw 1 of 2 (22 PTS),90 - 85,-5
+0020900674,430,3,12,4,9:38 PM,7:00,,,Bosh Free Throw 2 of 2 (23 PTS),91 - 85,-6
+0020900674,432,1,1,4,9:38 PM,6:51,Robinson 27' 3PT Jump Shot (14 PTS) (Lee 3 AST),,,91 - 88,-3
+0020900674,433,5,1,4,9:39 PM,6:37,Robinson STEAL (2 STL),,Johnson Bad Pass Turnover (P3.T20),,
+0020900674,434,6,1,4,9:39 PM,6:36,,,Calderon P.FOUL (P3.T1),,
+0020900674,435,6,2,4,9:39 PM,6:27,,,Jack S.FOUL (P2.T2),,
+0020900674,436,3,11,4,9:39 PM,6:27,Harrington Free Throw 1 of 2 (13 PTS),,,91 - 89,-2
+0020900674,438,3,12,4,9:40 PM,6:27,Harrington Free Throw 2 of 2 (14 PTS),,,91 - 90,-1
+0020900674,440,1,1,4,9:40 PM,6:10,,,Bosh 19' Jump Shot (25 PTS),93 - 90,-3
+0020900674,441,1,46,4,9:40 PM,5:55,Chandler 6' Running Jump Shot (14 PTS),,,93 - 92,-1
+0020900674,442,2,1,4,9:41 PM,5:42,Harrington BLOCK (1 BLK),,MISS Johnson 4' Jump Shot,,
+0020900674,443,4,0,4,9:41 PM,5:41,,,Johnson REBOUND (Off:3 Def:3),,
+0020900674,444,1,5,4,9:41 PM,5:41,,,Johnson  Layup (8 PTS),95 - 92,-3
+0020900674,445,2,1,4,9:41 PM,5:29,MISS Robinson 25' 3PT Jump Shot,,,,
+0020900674,446,4,0,4,9:41 PM,5:28,,,Johnson REBOUND (Off:3 Def:4),,
+0020900674,447,1,5,4,9:41 PM,5:19,,,Johnson  Layup (10 PTS) (Calderon 7 AST),97 - 92,-5
+0020900674,448,6,2,4,9:41 PM,5:19,Gallinari S.FOUL (P3.T3),,,,
+0020900674,449,9,4,4,9:41 PM,5:19,,,,,
+0020900674,452,8,0,4,9:44 PM,5:19,,,SUB: Turkoglu FOR Calderon,,
+0020900674,453,3,10,4,9:44 PM,5:19,,,MISS Johnson Free Throw 1 of 1,,
+0020900674,455,4,0,4,9:44 PM,5:18,Chandler REBOUND (Off:0 Def:3),,,,
+0020900674,456,1,5,4,9:45 PM,5:04,Lee  Layup (25 PTS) (Gallinari 3 AST),,,97 - 94,-3
+0020900674,457,2,1,4,9:45 PM,4:41,,,MISS Bosh 11' Jump Shot,,
+0020900674,458,4,0,4,9:45 PM,4:40,Harrington REBOUND (Off:0 Def:4),,,,
+0020900674,459,5,1,4,9:45 PM,4:31,Robinson Bad Pass Turnover (P2.T13),,,,
+0020900674,460,2,1,4,9:46 PM,4:10,,,MISS Bosh 22' Jump Shot,,
+0020900674,461,4,0,4,9:46 PM,4:10,Harrington REBOUND (Off:0 Def:5),,,,
+0020900674,462,2,1,4,9:46 PM,3:59,MISS Gallinari 26' 3PT Jump Shot,,,,
+0020900674,463,4,0,4,9:46 PM,3:58,,,Turkoglu REBOUND (Off:0 Def:9),,
+0020900674,464,2,5,4,9:46 PM,3:41,Chandler BLOCK (2 BLK),,MISS Bosh  Layup,,
+0020900674,465,4,0,4,9:46 PM,3:40,Gallinari REBOUND (Off:1 Def:6),,,,
+0020900674,466,6,1,4,9:46 PM,3:34,,,Wright P.FOUL (P1.T3),,
+0020900674,467,1,42,4,9:47 PM,3:25,Harrington  Driving Layup (16 PTS),,,97 - 96,-1
+0020900674,468,6,2,4,9:47 PM,3:25,,,Johnson S.FOUL (P6.T4),,
+0020900674,469,8,0,4,9:48 PM,3:25,,,SUB: Bargnani FOR Johnson,,
+0020900674,470,3,10,4,9:48 PM,3:25,Harrington Free Throw 1 of 1 (17 PTS),,,97 - 97,TIE
+0020900674,472,2,1,4,9:48 PM,3:06,,,MISS Turkoglu 26' 3PT Jump Shot,,
+0020900674,473,4,0,4,9:48 PM,3:05,Harrington REBOUND (Off:0 Def:6),,,,
+0020900674,474,2,1,4,9:48 PM,2:58,MISS Robinson 17' Jump Shot,,,,
+0020900674,475,4,0,4,9:48 PM,2:58,Lee REBOUND (Off:5 Def:11),,,,
+0020900674,476,1,1,4,9:49 PM,2:52,Harrington 25' 3PT Jump Shot (20 PTS) (Chandler 2 AST),,,97 - 100,3
+0020900674,477,9,1,4,9:49 PM,2:51,,,Raptors Timeout: Regular (Reg.4 Short 0),,
+0020900674,480,8,0,4,9:51 PM,2:51,,,SUB: Calderon FOR Wright,,
+0020900674,481,2,1,4,9:51 PM,2:35,,,MISS Bargnani 25' 3PT Jump Shot,,
+0020900674,482,4,0,4,9:52 PM,2:34,Harrington REBOUND (Off:0 Def:7),,,,
+0020900674,483,2,5,4,9:52 PM,2:18,MISS Gallinari  Layup,,,,
+0020900674,484,4,0,4,9:52 PM,2:17,,,Turkoglu REBOUND (Off:0 Def:10),,
+0020900674,485,5,1,4,9:52 PM,1:59,Gallinari STEAL (2 STL),,Jack Bad Pass Turnover (P3.T21),,
+0020900674,486,1,8,4,9:52 PM,1:47,Lee  Slam Dunk (27 PTS) (Robinson 5 AST),,,97 - 102,5
+0020900674,489,6,2,4,9:53 PM,1:39,Harrington S.FOUL (P4.T4),,,,
+0020900674,490,3,13,4,9:53 PM,1:39,,,Turkoglu Free Throw 1 of 3 (23 PTS),98 - 102,4
+0020900674,492,8,0,4,9:53 PM,1:39,,,SUB: Wright FOR Calderon,,
+0020900674,493,3,14,4,9:53 PM,1:39,,,MISS Turkoglu Free Throw 2 of 3,,
+0020900674,494,4,1,4,9:53 PM,1:39,,,Raptors Rebound,,
+0020900674,495,3,15,4,9:54 PM,1:39,,,Turkoglu Free Throw 3 of 3 (24 PTS),99 - 102,3
+0020900674,497,2,5,4,9:54 PM,1:28,MISS Robinson  Layup,,,,
+0020900674,498,4,0,4,9:54 PM,1:27,,,Jack REBOUND (Off:0 Def:3),,
+0020900674,499,2,5,4,9:54 PM,1:13,,,MISS Bosh  Layup,,
+0020900674,501,4,0,4,9:54 PM,1:12,,,Turkoglu REBOUND (Off:1 Def:10),,
+0020900674,500,1,4,4,9:54 PM,1:12,,,Turkoglu  Tip Shot (26 PTS),101 - 102,1
+0020900674,502,2,5,4,9:55 PM,0:58,MISS Harrington  Layup,,Bargnani BLOCK (3 BLK),,
+0020900674,503,4,0,4,9:55 PM,0:56,,,Bargnani REBOUND (Off:0 Def:3),,
+0020900674,504,1,46,4,9:55 PM,0:50,,,Jack 5' Running Jump Shot (8 PTS),103 - 102,-1
+0020900674,505,9,1,4,9:55 PM,0:50,KNICKS Timeout: Regular (Full 5 Short 1),,,,
+0020900674,509,2,5,4,9:57 PM,0:40,MISS Lee  Layup,,,,
+0020900674,510,4,0,4,9:57 PM,0:39,,,Bosh REBOUND (Off:3 Def:12),,
+0020900674,511,9,1,4,9:57 PM,0:36,,,Raptors Timeout: Regular (Reg.5 Short 0),,
+0020900674,514,8,0,4,9:59 PM,0:36,,,SUB: Calderon FOR Wright,,
+0020900674,515,1,42,4,10:00 PM,0:15,,,Bosh  Driving Layup (27 PTS),105 - 102,-3
+0020900674,516,9,2,4,10:00 PM,0:15,KNICKS Timeout: Short (Full 5 Short 2),,,,
+0020900674,517,8,0,4,10:01 PM,0:15,,,SUB: Wright FOR Calderon,,
+0020900674,519,2,5,4,10:01 PM,0:10,MISS Robinson  Layup,,Bosh BLOCK (1 BLK),,
+0020900674,520,4,0,4,10:01 PM,0:10,Lee REBOUND (Off:6 Def:11),,,,
+0020900674,521,1,5,4,10:01 PM,0:09,Lee  Layup (29 PTS),,,105 - 104,-1
+0020900674,522,9,2,4,10:02 PM,0:09,,,Raptors Timeout: Short (Reg.5 Short 1),,
+0020900674,524,8,0,4,10:02 PM,0:09,,,SUB: Calderon FOR Wright,,
+0020900674,525,6,1,4,10:03 PM,0:07,Gallinari P.FOUL (P4.PN),,,,
+0020900674,526,3,11,4,10:03 PM,0:07,,,Jack Free Throw 1 of 2 (9 PTS),106 - 104,-2
+0020900674,528,8,0,4,10:03 PM,0:07,,,SUB: Wright FOR Calderon,,
+0020900674,529,3,12,4,10:03 PM,0:07,,,MISS Jack Free Throw 2 of 2,,
+0020900674,531,4,0,4,10:03 PM,0:07,Lee REBOUND (Off:6 Def:12),,,,
+0020900674,532,9,2,4,10:04 PM,0:07,KNICKS Timeout: Short (Full 5 Short 3),,,,
+0020900674,534,6,4,4,10:05 PM,0:00,Harrington OFF.Foul (P5),,,,
+0020900674,535,5,5,4,10:05 PM,0:00,Harrington Foul Turnover (P1.T14),,,,
+0020900674,536,13,0,4,10:05 PM,0:00,,,,106 - 104,-2

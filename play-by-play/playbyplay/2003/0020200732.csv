@@ -1,0 +1,555 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020200732,0,12,0,1,7:14 PM,12:00,,,,,
+0020200732,1,10,0,1,7:14 PM,12:00,Jump Ball Davis vs. Dampier: Tip to Arenas,,,,
+0020200732,2,2,47,1,7:14 PM,11:46,,,MISS Dampier 7' Turnaround Jump Shot,,
+0020200732,3,4,0,1,7:15 PM,11:44,Williams REBOUND (Off:0 Def:1),,,,
+0020200732,4,2,1,1,7:15 PM,11:39,MISS Peterson 16' Jump Shot,,,,
+0020200732,5,4,0,1,7:15 PM,11:38,,,Warriors Rebound,,
+0020200732,6,2,5,1,7:15 PM,11:27,,,MISS Jamison  Layup,,
+0020200732,7,4,0,1,7:15 PM,11:25,,,Jamison REBOUND (Off:1 Def:0),,
+0020200732,8,1,4,1,7:15 PM,11:23,,,Jamison  Tip Shot (2 PTS),2 - 0,-2
+0020200732,9,5,1,1,7:15 PM,11:12,Williams Bad Pass Turnover (P1.T1),,Arenas STEAL (1 STL),,
+0020200732,10,1,42,1,7:15 PM,11:07,,,Richardson  Driving Layup (2 PTS) (Arenas 1 AST),4 - 0,-4
+0020200732,11,1,1,1,7:15 PM,10:59,Carter 22' Jump Shot (2 PTS) (Williams 1 AST),,,4 - 2,-2
+0020200732,12,1,58,1,7:16 PM,10:33,,,Dampier 9' Turnaround Hook Shot (2 PTS),6 - 2,-4
+0020200732,13,6,2,1,7:16 PM,10:21,,,Dampier S.FOUL (P1.T1),,
+0020200732,14,3,11,1,7:16 PM,10:21,MISS Davis Free Throw 1 of 2,,,,
+0020200732,15,4,1,1,7:16 PM,10:21,RAPTORS Rebound,,,,
+0020200732,16,3,12,1,7:16 PM,10:21,MISS Davis Free Throw 2 of 2,,,,
+0020200732,17,4,0,1,7:17 PM,10:20,,,Dampier REBOUND (Off:0 Def:1),,
+0020200732,19,2,1,1,7:17 PM,10:10,,,MISS Richardson 20' Jump Shot,,
+0020200732,20,4,0,1,7:17 PM,10:08,,,Dampier REBOUND (Off:1 Def:1),,
+0020200732,21,2,8,1,7:17 PM,10:07,,,MISS Dampier  Slam Dunk,,
+0020200732,22,4,0,1,7:17 PM,10:05,Williams REBOUND (Off:0 Def:2),,,,
+0020200732,23,1,1,1,7:17 PM,9:55,Peterson 24' 3PT Jump Shot (3 PTS) (Davis 1 AST),,,6 - 5,-1
+0020200732,24,1,58,1,7:17 PM,9:34,,,Jamison 9' Turnaround Hook Shot (4 PTS),8 - 5,-3
+0020200732,25,6,2,1,7:18 PM,9:29,,,Richardson S.FOUL (P1.T2),,
+0020200732,26,3,11,1,7:18 PM,9:29,Peterson Free Throw 1 of 2 (4 PTS),,,8 - 6,-2
+0020200732,27,3,12,1,7:18 PM,9:29,MISS Peterson Free Throw 2 of 2,,,,
+0020200732,28,4,0,1,7:18 PM,9:28,,,Murphy REBOUND (Off:0 Def:1),,
+0020200732,29,1,44,1,7:18 PM,9:19,,,Arenas  Reverse Layup (2 PTS),10 - 6,-4
+0020200732,30,6,2,1,7:19 PM,9:04,,,Murphy S.FOUL (P1.T3),,
+0020200732,31,3,11,1,7:19 PM,9:04,MISS Williams Free Throw 1 of 2,,,,
+0020200732,32,4,1,1,7:19 PM,9:04,RAPTORS Rebound,,,,
+0020200732,33,3,12,1,7:19 PM,9:04,MISS Williams Free Throw 2 of 2,,,,
+0020200732,34,4,0,1,7:19 PM,9:02,,,Murphy REBOUND (Off:0 Def:2),,
+0020200732,35,6,2,1,7:19 PM,8:53,Carter S.FOUL (P1.T1),,,,
+0020200732,36,3,11,1,7:20 PM,8:53,,,Richardson Free Throw 1 of 2 (3 PTS),11 - 6,-5
+0020200732,37,3,12,1,7:20 PM,8:53,,,Richardson Free Throw 2 of 2 (4 PTS),12 - 6,-6
+0020200732,38,2,46,1,7:20 PM,8:40,MISS Carter 11' Running Jump Shot,,,,
+0020200732,39,4,0,1,7:20 PM,8:38,Williams REBOUND (Off:1 Def:0),,,,
+0020200732,40,2,1,1,7:21 PM,8:30,MISS Peterson 20' Jump Shot,,,,
+0020200732,41,4,0,1,7:21 PM,8:28,Williams REBOUND (Off:2 Def:0),,,,
+0020200732,42,1,42,1,7:21 PM,8:13,Williams  Driving Layup (2 PTS),,,12 - 8,-4
+0020200732,43,1,42,1,7:21 PM,7:54,,,Jamison  Driving Layup (6 PTS),14 - 8,-6
+0020200732,44,5,2,1,7:22 PM,7:31,Williams Lost Ball Turnover (P1.T2),,Arenas STEAL (2 STL),,
+0020200732,45,5,2,1,7:22 PM,7:26,Williams STEAL (1 STL),,Murphy Lost Ball Turnover (P1.T1),,
+0020200732,46,1,43,1,7:22 PM,7:20,Carter  Alley Oop Layup (4 PTS) (Peterson 1 AST),,,14 - 10,-4
+0020200732,48,6,2,1,7:22 PM,7:02,Williams S.FOUL (P1.T2),,,,
+0020200732,49,3,11,1,7:22 PM,7:02,,,Arenas Free Throw 1 of 2 (3 PTS),15 - 10,-5
+0020200732,50,3,12,1,7:22 PM,7:02,,,Arenas Free Throw 2 of 2 (4 PTS),16 - 10,-6
+0020200732,51,5,1,1,7:23 PM,6:47,Carter Bad Pass Turnover (P1.T3),,Murphy STEAL (1 STL),,
+0020200732,52,1,1,1,7:23 PM,6:41,,,Richardson 14' Jump Shot (6 PTS) (Murphy 1 AST),18 - 10,-8
+0020200732,53,2,1,1,7:23 PM,6:28,MISS Carter 22' Jump Shot,,,,
+0020200732,54,4,0,1,7:23 PM,6:26,Peterson REBOUND (Off:1 Def:0),,,,
+0020200732,55,5,1,1,7:23 PM,6:23,Peterson Bad Pass Turnover (P1.T4),,Richardson STEAL (1 STL),,
+0020200732,56,2,1,1,7:23 PM,6:17,,,MISS Jamison 21' Jump Shot,,
+0020200732,57,4,0,1,7:23 PM,6:15,,,Murphy REBOUND (Off:1 Def:2),,
+0020200732,58,2,53,1,7:24 PM,6:14,,,MISS Murphy  Tip Shot,,
+0020200732,59,4,0,1,7:24 PM,6:13,,,Murphy REBOUND (Off:2 Def:2),,
+0020200732,60,1,4,1,7:24 PM,6:11,,,Murphy  Tip Shot (2 PTS),20 - 10,-10
+0020200732,61,9,1,1,7:24 PM,6:08,RAPTORS Timeout: Regular (Full 1 Short 0),,,,
+0020200732,65,2,1,1,7:27 PM,5:53,MISS Davis 16' Jump Shot,,,,
+0020200732,66,4,0,1,7:27 PM,5:51,,,Arenas REBOUND (Off:0 Def:1),,
+0020200732,67,5,1,1,7:27 PM,5:43,Williams STEAL (1 STL),,Arenas Bad Pass Turnover (P1.T2),,
+0020200732,68,5,1,1,7:27 PM,5:38,Peterson Bad Pass Turnover (P2.T5),,Jamison STEAL (1 STL),,
+0020200732,69,2,1,1,7:27 PM,5:27,,,MISS Arenas 25' 3PT Jump Shot,,
+0020200732,70,4,0,1,7:27 PM,5:25,Williams REBOUND (Off:2 Def:1),,,,
+0020200732,72,6,4,1,7:28 PM,5:03,Williams OFF.Foul (P1),,,,
+0020200732,73,5,5,1,7:28 PM,5:03,Williams Foul Turnover (P2.T6),,,,
+0020200732,74,1,47,1,7:28 PM,4:50,,,Jamison 7' Turnaround Jump Shot (8 PTS),22 - 10,-12
+0020200732,75,6,2,1,7:28 PM,4:50,Davis S.FOUL (P1.T3),,,,
+0020200732,76,8,0,1,7:28 PM,4:50,SUB: Lenard FOR Peterson,,,,
+0020200732,77,3,10,1,7:28 PM,4:50,,,Jamison Free Throw 1 of 1 (9 PTS),23 - 10,-13
+0020200732,78,1,1,1,7:29 PM,4:36,Williams 17' Jump Shot (2 PTS) (Williams 1 AST),,,23 - 12,-11
+0020200732,79,2,1,1,7:29 PM,4:19,,,MISS Richardson 16' Jump Shot,,
+0020200732,80,4,0,1,7:29 PM,4:17,Davis REBOUND (Off:0 Def:1),,,,
+0020200732,81,2,1,1,7:29 PM,4:01,MISS Carter 17' Jump Shot,,,,
+0020200732,82,4,0,1,7:29 PM,3:59,,,Dampier REBOUND (Off:1 Def:2),,
+0020200732,83,2,1,1,7:30 PM,3:51,,,MISS Arenas 16' Jump Shot,,
+0020200732,84,4,0,1,7:30 PM,3:50,Carter REBOUND (Off:0 Def:1),,,,
+0020200732,85,10,0,1,7:30 PM,3:44,Jump Ball Carter vs. Murphy: Tip to Williams,,,,
+0020200732,86,1,61,1,7:30 PM,3:33,Carter  Driving Finger Roll (6 PTS),,,23 - 14,-9
+0020200732,88,2,1,1,7:31 PM,3:05,,,MISS Richardson 25' 3PT Jump Shot,,
+0020200732,89,4,0,1,7:31 PM,3:03,Davis REBOUND (Off:0 Def:2),,,,
+0020200732,90,2,63,1,7:31 PM,2:58,MISS Lenard 16' Fadeaway Jumper,,,,
+0020200732,91,4,0,1,7:31 PM,2:56,,,Murphy REBOUND (Off:2 Def:3),,
+0020200732,92,2,1,1,7:31 PM,2:44,,,MISS Jamison 16' Jump Shot,,
+0020200732,93,4,0,1,7:31 PM,2:43,Davis REBOUND (Off:0 Def:3),,,,
+0020200732,94,1,1,1,7:31 PM,2:34,Davis 15' Jump Shot (2 PTS) (Williams 2 AST),,,23 - 16,-7
+0020200732,95,1,3,1,7:32 PM,2:12,,,Dampier 9' Hook Shot (4 PTS),25 - 16,-9
+0020200732,96,1,61,1,7:32 PM,1:59,Williams  Driving Finger Roll (4 PTS),,,25 - 18,-7
+0020200732,97,6,2,1,7:32 PM,1:59,,,Dampier S.FOUL (P2.T4),,
+0020200732,98,9,3,1,7:32 PM,1:59,,,Warriors Timeout: Official TV (Reg.0 Short 0),,
+0020200732,100,8,0,1,7:34 PM,1:59,SUB: Baston FOR Williams,,,,
+0020200732,101,8,0,1,7:34 PM,1:59,SUB: Peterson FOR Carter,,,,
+0020200732,102,8,0,1,7:34 PM,1:59,,,SUB: Foyle FOR Dampier,,
+0020200732,103,3,10,1,7:35 PM,1:59,Williams Free Throw 1 of 1 (5 PTS),,,25 - 19,-6
+0020200732,104,2,5,1,7:35 PM,1:45,Baston BLOCK (1 BLK),,MISS Arenas  Layup,,
+0020200732,105,4,0,1,7:35 PM,1:43,Davis REBOUND (Off:0 Def:4),,,,
+0020200732,106,2,1,1,7:35 PM,1:33,MISS Williams 20' Jump Shot,,,,
+0020200732,107,4,0,1,7:35 PM,1:32,,,Arenas REBOUND (Off:0 Def:2),,
+0020200732,108,5,1,1,7:35 PM,1:29,Peterson STEAL (1 STL),,Arenas Bad Pass Turnover (P2.T3),,
+0020200732,109,1,1,1,7:36 PM,1:24,Lenard 26' 3PT Jump Shot (3 PTS) (Peterson 2 AST),,,25 - 22,-3
+0020200732,111,2,58,1,7:36 PM,1:08,,,MISS Jamison 9' Turnaround Hook Shot,,
+0020200732,112,4,0,1,7:36 PM,1:06,Baston REBOUND (Off:0 Def:1),,,,
+0020200732,113,8,0,1,7:36 PM,0:51,,,SUB: Dunleavy FOR Murphy,,
+0020200732,114,2,1,1,7:37 PM,0:42,MISS Peterson 18' Jump Shot,,,,
+0020200732,115,4,0,1,7:37 PM,0:40,,,Jamison REBOUND (Off:1 Def:1),,
+0020200732,116,6,2,1,7:37 PM,0:31,Peterson S.FOUL (P1.T4),,,,
+0020200732,118,3,11,1,7:37 PM,0:31,,,MISS Dunleavy Free Throw 1 of 2,,
+0020200732,119,4,1,1,7:37 PM,0:31,,,Warriors Rebound,,
+0020200732,120,3,12,1,7:37 PM,0:31,,,Dunleavy Free Throw 2 of 2 (1 PTS),26 - 22,-4
+0020200732,121,2,1,1,7:38 PM,0:13,MISS Williams 18' Jump Shot,,,,
+0020200732,122,4,0,1,7:38 PM,0:11,,,Dunleavy REBOUND (Off:0 Def:1),,
+0020200732,123,6,1,1,7:38 PM,0:02,Peterson P.FOUL (P2.PN),,,,
+0020200732,124,3,11,1,7:38 PM,0:02,,,Arenas Free Throw 1 of 2 (5 PTS),27 - 22,-5
+0020200732,125,8,0,1,7:38 PM,0:02,,,SUB: Sura FOR Jamison,,
+0020200732,126,8,0,1,7:38 PM,0:02,,,SUB: Welsch FOR Richardson,,
+0020200732,127,3,12,1,7:38 PM,0:02,,,Arenas Free Throw 2 of 2 (6 PTS),28 - 22,-6
+0020200732,128,1,46,1,7:39 PM,0:00,Williams 9' Running Jump Shot (7 PTS),,,28 - 24,-4
+0020200732,129,13,0,1,7:39 PM,0:00,,,,28 - 24,-4
+0020200732,134,12,0,2,7:42 PM,12:00,,,,28 - 24,-4
+0020200732,135,1,47,2,7:42 PM,11:43,Baston 6' Turnaround Jump Shot (2 PTS),,,28 - 26,-2
+0020200732,136,2,1,2,7:43 PM,11:24,,,MISS Arenas 25' 3PT Jump Shot,,
+0020200732,137,4,0,2,7:43 PM,11:22,Baston REBOUND (Off:0 Def:2),,,,
+0020200732,138,6,2,2,7:43 PM,11:14,,,Sura S.FOUL (P1.T1),,
+0020200732,139,3,11,2,7:43 PM,11:14,Lenard Free Throw 1 of 2 (4 PTS),,,28 - 27,-1
+0020200732,140,3,12,2,7:43 PM,11:14,Lenard Free Throw 2 of 2 (5 PTS),,,28 - 28,TIE
+0020200732,141,6,1,2,7:43 PM,11:13,Alston P.FOUL (P1.T1),,,,
+0020200732,142,2,1,2,7:44 PM,10:57,,,MISS Jamison 18' Jump Shot,,
+0020200732,143,4,0,2,7:44 PM,10:56,Lenard REBOUND (Off:0 Def:1),,,,
+0020200732,144,1,1,2,7:44 PM,10:46,Alston 22' Jump Shot (2 PTS),,,28 - 30,2
+0020200732,145,1,42,2,7:44 PM,10:33,,,Arenas  Driving Layup (8 PTS),30 - 30,TIE
+0020200732,146,1,8,2,7:45 PM,10:16,McCoy  Slam Dunk (2 PTS) (Alston 1 AST),,,30 - 32,2
+0020200732,148,1,1,2,7:45 PM,9:57,,,Jamison 25' 3PT Jump Shot (12 PTS) (Arenas 2 AST),33 - 32,-1
+0020200732,149,1,1,2,7:45 PM,9:41,Lenard 12' Jump Shot (7 PTS),,,33 - 34,1
+0020200732,150,2,1,2,7:45 PM,9:24,,,MISS Arenas 24' 3PT Jump Shot,,
+0020200732,151,4,0,2,7:45 PM,9:22,,,Arenas REBOUND (Off:1 Def:2),,
+0020200732,152,6,2,2,7:46 PM,9:14,Baston S.FOUL (P1.T2),,,,
+0020200732,153,8,0,2,7:46 PM,9:14,,,SUB: Boykins FOR Arenas,,
+0020200732,154,3,11,2,7:46 PM,9:14,,,Jamison Free Throw 1 of 2 (13 PTS),34 - 34,TIE
+0020200732,155,3,12,2,7:46 PM,9:14,,,Jamison Free Throw 2 of 2 (14 PTS),35 - 34,-1
+0020200732,157,5,4,2,7:47 PM,9:03,Alston Traveling Turnover (P1.T7),,,,
+0020200732,158,8,0,2,7:47 PM,9:03,SUB: Williams FOR Baston,,,,
+0020200732,159,2,1,2,7:47 PM,8:48,,,MISS Dunleavy 17' Jump Shot,,
+0020200732,160,4,0,2,7:47 PM,8:46,McCoy REBOUND (Off:0 Def:1),,,,
+0020200732,162,1,1,2,7:47 PM,8:37,Peterson 25' 3PT Jump Shot (7 PTS) (Alston 2 AST),,,35 - 37,2
+0020200732,163,6,2,2,7:48 PM,8:26,Williams S.FOUL (P2.T3),,,,
+0020200732,164,9,4,2,7:48 PM,8:26,,,,,
+0020200732,167,3,11,2,7:50 PM,8:26,,,Jamison Free Throw 1 of 2 (15 PTS),36 - 37,1
+0020200732,168,3,12,2,7:50 PM,8:26,,,Jamison Free Throw 2 of 2 (16 PTS),37 - 37,TIE
+0020200732,169,2,47,2,7:51 PM,8:11,MISS McCoy 10' Turnaround Jump Shot,,Foyle BLOCK (1 BLK),,
+0020200732,170,4,0,2,7:51 PM,8:09,,,Foyle REBOUND (Off:0 Def:1),,
+0020200732,171,2,1,2,7:51 PM,7:44,,,MISS Boykins 17' Jump Shot,,
+0020200732,172,4,0,2,7:51 PM,7:43,Peterson REBOUND (Off:1 Def:1),,,,
+0020200732,173,2,42,2,7:51 PM,7:38,MISS Alston  Driving Layup,,Dunleavy BLOCK (1 BLK),,
+0020200732,174,4,0,2,7:51 PM,7:37,Williams REBOUND (Off:3 Def:1),,,,
+0020200732,175,2,1,2,7:51 PM,7:31,MISS Lenard 25' 3PT Jump Shot,,,,
+0020200732,176,4,0,2,7:51 PM,7:29,,,Boykins REBOUND (Off:0 Def:1),,
+0020200732,177,5,4,2,7:52 PM,7:19,,,Foyle Traveling Turnover (P1.T4),,
+0020200732,179,1,5,2,7:52 PM,6:56,McCoy  Layup (4 PTS) (Peterson 3 AST),,,37 - 39,2
+0020200732,180,2,46,2,7:53 PM,6:34,,,MISS Jamison 8' Running Jump Shot,,
+0020200732,181,4,0,2,7:53 PM,6:32,,,Foyle REBOUND (Off:1 Def:1),,
+0020200732,182,1,4,2,7:53 PM,6:30,,,Foyle  Tip Shot (2 PTS),39 - 39,TIE
+0020200732,183,2,7,2,7:53 PM,6:19,MISS McCoy  Dunk,,Jamison BLOCK (1 BLK),,
+0020200732,184,4,0,2,7:53 PM,6:17,,,Foyle REBOUND (Off:1 Def:2),,
+0020200732,185,6,2,2,7:53 PM,6:11,Alston S.FOUL (P2.T4),,,,
+0020200732,186,8,0,2,7:53 PM,6:11,,,SUB: Murphy FOR Jamison,,
+0020200732,187,8,0,2,7:53 PM,6:11,SUB: Carter FOR Lenard,,,,
+0020200732,188,3,11,2,7:53 PM,6:11,,,Boykins Free Throw 1 of 2 (1 PTS),40 - 39,-1
+0020200732,189,8,0,2,7:54 PM,6:11,SUB: Davis FOR McCoy,,,,
+0020200732,190,8,0,2,7:54 PM,6:11,,,SUB: Richardson FOR Dunleavy,,
+0020200732,191,3,12,2,7:54 PM,6:11,,,Boykins Free Throw 2 of 2 (2 PTS),41 - 39,-2
+0020200732,193,5,1,2,7:54 PM,5:57,Alston Bad Pass Turnover (P2.T8),,Murphy STEAL (2 STL),,
+0020200732,194,1,60,2,7:54 PM,5:52,,,Murphy  Running Finger Roll (4 PTS) (Sura 1 AST),43 - 39,-4
+0020200732,195,2,1,2,7:55 PM,5:23,MISS Williams 15' Jump Shot,,,,
+0020200732,196,4,0,2,7:55 PM,5:21,,,Foyle REBOUND (Off:1 Def:3),,
+0020200732,197,2,41,2,7:55 PM,5:15,,,MISS Sura  Running Layup,,
+0020200732,198,4,0,2,7:55 PM,5:13,,,Richardson REBOUND (Off:1 Def:0),,
+0020200732,199,1,4,2,7:55 PM,5:11,,,Richardson  Tip Shot (8 PTS),45 - 39,-6
+0020200732,200,9,3,2,7:55 PM,5:09,RAPTORS Timeout: Official TV (Full 1 Short 0),,,,
+0020200732,203,8,0,2,7:57 PM,5:09,SUB: Williams FOR Alston,,,,
+0020200732,204,2,57,2,7:58 PM,4:57,MISS Davis 6' Driving Hook Shot,,,,
+0020200732,205,4,0,2,7:58 PM,4:55,RAPTORS Rebound,,,,
+0020200732,206,2,47,2,7:59 PM,4:47,MISS Carter 15' Turnaround Jump Shot,,,,
+0020200732,207,4,0,2,7:59 PM,4:44,,,Sura REBOUND (Off:0 Def:1),,
+0020200732,208,1,1,2,7:59 PM,4:26,,,Richardson 16' Jump Shot (10 PTS) (Sura 2 AST),47 - 39,-8
+0020200732,209,6,1,2,7:59 PM,4:14,,,Boykins P.FOUL (P1.T2),,
+0020200732,210,8,0,2,8:00 PM,4:14,SUB: Lenard FOR Peterson,,,,
+0020200732,211,8,0,2,8:00 PM,3:59,,,SUB: Arenas FOR Boykins,,
+0020200732,212,9,2,2,8:00 PM,3:59,RAPTORS Timeout: Short (Full 1 Short 1),,,,
+0020200732,215,5,11,2,8:01 PM,3:58,RAPTORS Turnover: Shot Clock (T#9),,,,
+0020200732,216,1,1,2,8:02 PM,3:46,,,Richardson 24' 3PT Jump Shot (13 PTS) (Foyle 1 AST),50 - 39,-11
+0020200732,217,6,1,2,8:02 PM,3:36,,,Richardson P.FOUL (P2.T3),,
+0020200732,218,8,0,2,8:02 PM,3:36,,,SUB: Dunleavy FOR Richardson,,
+0020200732,219,2,1,2,8:03 PM,3:29,MISS Lenard 21' Jump Shot,,,,
+0020200732,220,4,0,2,8:03 PM,3:27,,,Warriors Rebound,,
+0020200732,222,1,8,2,8:03 PM,3:19,,,Foyle  Slam Dunk (4 PTS) (Dunleavy 1 AST),52 - 39,-13
+0020200732,223,5,2,2,8:03 PM,2:59,Davis Lost Ball Turnover (P1.T10),,Arenas STEAL (3 STL),,
+0020200732,224,2,1,2,8:03 PM,2:52,,,MISS Dunleavy 25' 3PT Jump Shot,,
+0020200732,225,4,0,2,8:03 PM,2:50,Lenard REBOUND (Off:0 Def:2),,,,
+0020200732,226,1,49,2,8:03 PM,2:37,Davis  Driving Dunk (4 PTS) (Williams 3 AST),,,52 - 41,-11
+0020200732,227,6,2,2,8:04 PM,2:20,Williams S.FOUL (P2.PN),,,,
+0020200732,228,9,3,2,8:04 PM,2:20,,,Warriors Timeout: Official TV (Reg.0 Short 0),,
+0020200732,232,3,11,2,8:06 PM,2:20,,,MISS Arenas Free Throw 1 of 2,,
+0020200732,233,4,1,2,8:06 PM,2:20,,,Warriors Rebound,,
+0020200732,234,3,12,2,8:06 PM,2:20,,,Arenas Free Throw 2 of 2 (9 PTS),53 - 41,-12
+0020200732,235,2,1,2,8:07 PM,2:04,MISS Williams 18' Jump Shot,,,,
+0020200732,236,4,0,2,8:07 PM,2:02,Williams REBOUND (Off:4 Def:1),,,,
+0020200732,237,6,2,2,8:07 PM,1:56,,,Foyle S.FOUL (P1.T4),,
+0020200732,238,3,11,2,8:07 PM,1:56,Carter Free Throw 1 of 2 (7 PTS),,,53 - 42,-11
+0020200732,239,3,12,2,8:08 PM,1:56,Carter Free Throw 2 of 2 (8 PTS),,,53 - 43,-10
+0020200732,240,1,42,2,8:08 PM,1:39,,,Sura  Driving Layup (2 PTS),55 - 43,-12
+0020200732,241,1,1,2,8:08 PM,1:15,Lenard 21' Jump Shot (9 PTS) (Williams 4 AST),,,55 - 45,-10
+0020200732,242,2,41,2,8:09 PM,1:09,,,MISS Dunleavy  Running Layup,,
+0020200732,243,4,0,2,8:09 PM,1:07,,,Foyle REBOUND (Off:2 Def:3),,
+0020200732,244,2,4,2,8:09 PM,1:05,,,MISS Foyle  Tip Shot,,
+0020200732,245,4,0,2,8:09 PM,1:05,Davis REBOUND (Off:0 Def:5),,,,
+0020200732,246,6,11,2,8:09 PM,1:05,,,,,
+0020200732,247,3,16,2,8:09 PM,1:05,Lenard Free Throw Technical (10 PTS),,,55 - 46,-9
+0020200732,248,2,1,2,8:10 PM,0:52,MISS Lenard 22' Jump Shot,,,,
+0020200732,249,4,0,2,8:10 PM,0:51,Williams REBOUND (Off:5 Def:1),,,,
+0020200732,250,2,1,2,8:10 PM,0:46,MISS Williams 19' Jump Shot,,,,
+0020200732,251,4,0,2,8:10 PM,0:45,,,Foyle REBOUND (Off:2 Def:4),,
+0020200732,253,2,1,2,8:10 PM,0:34,,,MISS Murphy 18' Jump Shot,,
+0020200732,254,4,0,2,8:10 PM,0:33,Davis REBOUND (Off:0 Def:6),,,,
+0020200732,256,7,2,2,8:10 PM,0:23,,,Foyle Violation:Defensive Goaltending,,
+0020200732,255,1,42,2,8:10 PM,0:23,Lenard  Driving Layup (12 PTS),,,55 - 48,-7
+0020200732,257,5,2,2,8:11 PM,0:05,Carter STEAL (1 STL),,Arenas Lost Ball Turnover (P3.T5),,
+0020200732,258,13,0,2,8:11 PM,0:00,,,,55 - 48,-7
+0020200732,260,12,0,3,8:28 PM,12:00,,,,55 - 48,-7
+0020200732,261,1,1,3,8:28 PM,11:47,Davis 14' Jump Shot (6 PTS),,,55 - 50,-5
+0020200732,262,1,59,3,8:29 PM,11:30,,,Jamison  Finger Roll (18 PTS) (Murphy 2 AST),57 - 50,-7
+0020200732,263,2,1,3,8:29 PM,11:05,MISS Williams 20' Jump Shot,,,,
+0020200732,264,4,0,3,8:29 PM,11:03,,,Jamison REBOUND (Off:1 Def:2),,
+0020200732,265,2,1,3,8:29 PM,10:48,,,MISS Dampier 14' Jump Shot,,
+0020200732,266,4,0,3,8:29 PM,10:46,,,Richardson REBOUND (Off:2 Def:0),,
+0020200732,267,2,5,3,8:30 PM,10:34,Carter BLOCK (1 BLK),,MISS Jamison  Layup,,
+0020200732,268,4,0,3,8:30 PM,10:33,Williams REBOUND (Off:5 Def:2),,,,
+0020200732,269,6,2,3,8:30 PM,10:27,,,Richardson S.FOUL (P3.T1),,
+0020200732,270,3,11,3,8:30 PM,10:27,MISS Carter Free Throw 1 of 2,,,,
+0020200732,271,4,1,3,8:30 PM,10:27,RAPTORS Rebound,,,,
+0020200732,272,3,12,3,8:30 PM,10:27,MISS Carter Free Throw 2 of 2,,,,
+0020200732,273,4,0,3,8:30 PM,10:27,Davis REBOUND (Off:1 Def:6),,,,
+0020200732,274,2,42,3,8:30 PM,10:20,MISS Carter  Driving Layup,,,,
+0020200732,275,4,0,3,8:30 PM,10:17,,,Warriors Rebound,,
+0020200732,276,1,1,3,8:31 PM,9:55,,,Richardson 22' Jump Shot (15 PTS),59 - 50,-9
+0020200732,277,2,1,3,8:31 PM,9:41,MISS Peterson 25' 3PT Jump Shot,,,,
+0020200732,278,4,0,3,8:31 PM,9:39,,,Murphy REBOUND (Off:2 Def:4),,
+0020200732,279,1,8,3,8:32 PM,9:29,,,Richardson  Slam Dunk (17 PTS) (Jamison 1 AST),61 - 50,-11
+0020200732,280,9,2,3,8:32 PM,9:26,RAPTORS Timeout: Short (Full 1 Short 2),,,,
+0020200732,284,6,1,3,8:33 PM,9:07,,,Arenas P.FOUL (P1.T2),,
+0020200732,285,1,61,3,8:33 PM,8:58,Carter  Driving Finger Roll (10 PTS),,,61 - 52,-9
+0020200732,286,1,58,3,8:34 PM,8:47,,,Dampier 6' Turnaround Hook Shot (6 PTS),63 - 52,-11
+0020200732,288,6,2,3,8:34 PM,8:31,,,Dampier S.FOUL (P3.T3),,
+0020200732,289,3,11,3,8:34 PM,8:31,Davis Free Throw 1 of 2 (7 PTS),,,63 - 53,-10
+0020200732,290,3,12,3,8:34 PM,8:31,Davis Free Throw 2 of 2 (8 PTS),,,63 - 54,-9
+0020200732,291,6,1,3,8:35 PM,8:25,Carter P.FOUL (P2.T1),,,,
+0020200732,292,2,47,3,8:35 PM,8:16,,,MISS Dampier 9' Turnaround Jump Shot,,
+0020200732,293,4,0,3,8:35 PM,8:14,,,Warriors Rebound,,
+0020200732,294,6,4,3,8:36 PM,8:05,,,Arenas OFF.Foul (P2),,
+0020200732,295,5,5,3,8:36 PM,8:05,,,Arenas Foul Turnover (P4.T6),,
+0020200732,297,2,1,3,8:36 PM,7:52,MISS Davis 16' Jump Shot,,,,
+0020200732,298,4,0,3,8:36 PM,7:51,,,Richardson REBOUND (Off:2 Def:1),,
+0020200732,299,5,1,3,8:36 PM,7:44,Williams STEAL (2 STL),,Jamison Bad Pass Turnover (P1.T7),,
+0020200732,300,6,1,3,8:36 PM,7:38,,,Dampier P.FOUL (P4.T4),,
+0020200732,301,8,0,3,8:37 PM,7:38,,,SUB: Foyle FOR Dampier,,
+0020200732,302,2,1,3,8:37 PM,7:32,MISS Carter 20' Jump Shot,,,,
+0020200732,303,4,0,3,8:37 PM,7:30,,,Arenas REBOUND (Off:1 Def:3),,
+0020200732,304,2,1,3,8:37 PM,7:16,,,MISS Arenas 22' Jump Shot,,
+0020200732,305,4,0,3,8:37 PM,7:14,Davis REBOUND (Off:1 Def:7),,,,
+0020200732,306,2,42,3,8:37 PM,7:03,MISS Williams  Driving Layup,,,,
+0020200732,307,4,0,3,8:37 PM,7:01,,,Arenas REBOUND (Off:1 Def:4),,
+0020200732,308,2,42,3,8:37 PM,6:56,,,MISS Arenas  Driving Layup,,
+0020200732,309,4,0,3,8:37 PM,6:54,Davis REBOUND (Off:1 Def:8),,,,
+0020200732,310,1,41,3,8:38 PM,6:50,Peterson  Running Layup (9 PTS) (Williams 5 AST),,,63 - 56,-7
+0020200732,311,1,47,3,8:38 PM,6:33,,,Richardson 10' Turnaround Jump Shot (19 PTS),65 - 56,-9
+0020200732,313,2,61,3,8:38 PM,6:12,MISS Carter  Driving Finger Roll,,,,
+0020200732,314,4,0,3,8:38 PM,6:10,,,Foyle REBOUND (Off:2 Def:5),,
+0020200732,315,1,60,3,8:38 PM,6:06,,,Murphy  Running Finger Roll (6 PTS) (Arenas 3 AST),67 - 56,-11
+0020200732,316,6,2,3,8:38 PM,6:06,Davis S.FOUL (P2.T2),,,,
+0020200732,331,8,0,3,8:38 PM,6:06,SUB: Lenard FOR Carter,,,,
+0020200732,317,3,10,3,8:39 PM,6:06,,,MISS Murphy Free Throw 1 of 1,,
+0020200732,318,4,0,3,8:39 PM,6:05,Davis REBOUND (Off:1 Def:9),,,,
+0020200732,319,1,1,3,8:39 PM,5:58,Peterson 22' Jump Shot (11 PTS) (Williams 6 AST),,,67 - 58,-9
+0020200732,320,2,1,3,8:39 PM,5:41,,,MISS Arenas 25' 3PT Jump Shot,,
+0020200732,321,4,0,3,8:39 PM,5:40,Lenard REBOUND (Off:0 Def:3),,,,
+0020200732,323,2,1,3,8:39 PM,5:29,MISS Lenard 25' 3PT Jump Shot,,,,
+0020200732,324,4,0,3,8:39 PM,5:28,,,Foyle REBOUND (Off:2 Def:6),,
+0020200732,325,2,42,3,8:39 PM,5:24,Lenard BLOCK (1 BLK),,MISS Richardson  Driving Layup,,
+0020200732,326,4,0,3,8:40 PM,5:21,Lenard REBOUND (Off:0 Def:4),,,,
+0020200732,327,5,2,3,8:40 PM,5:18,Williams Lost Ball Turnover (P2.T11),,Arenas STEAL (4 STL),,
+0020200732,328,1,7,3,8:40 PM,5:14,,,Jamison  Dunk (20 PTS) (Arenas 4 AST),69 - 58,-11
+0020200732,329,1,46,3,8:40 PM,4:45,Davis 14' Running Jump Shot (10 PTS),,,69 - 60,-9
+0020200732,330,1,42,3,8:40 PM,4:36,,,Jamison  Driving Layup (22 PTS),71 - 60,-11
+0020200732,332,9,1,3,8:40 PM,4:29,RAPTORS Timeout: Regular (Full 2 Short 2),,,,
+0020200732,335,8,0,3,8:43 PM,4:29,SUB: McCoy FOR Davis,,,,
+0020200732,336,2,1,3,8:44 PM,4:07,MISS Williams 20' Jump Shot,,,,
+0020200732,337,4,0,3,8:44 PM,4:05,,,Foyle REBOUND (Off:2 Def:7),,
+0020200732,338,1,46,3,8:44 PM,3:49,,,Jamison 10' Running Jump Shot (24 PTS) (Arenas 5 AST),73 - 60,-13
+0020200732,339,2,47,3,8:44 PM,3:30,MISS Lenard 10' Turnaround Jump Shot,,,,
+0020200732,340,4,0,3,8:44 PM,3:28,,,Warriors Rebound,,
+0020200732,341,2,46,3,8:45 PM,3:15,,,MISS Richardson 8' Running Jump Shot,,
+0020200732,342,4,0,3,8:45 PM,3:13,,,Richardson REBOUND (Off:3 Def:1),,
+0020200732,343,2,1,3,8:45 PM,3:06,,,MISS Jamison 14' Jump Shot,,
+0020200732,344,4,0,3,8:45 PM,3:05,Williams REBOUND (Off:0 Def:3),,,,
+0020200732,345,1,1,3,8:45 PM,2:57,Lenard 13' Jump Shot (14 PTS) (Williams 7 AST),,,73 - 62,-11
+0020200732,346,2,1,3,8:45 PM,2:37,,,MISS Arenas 20' Jump Shot,,
+0020200732,347,4,0,3,8:45 PM,2:36,RAPTORS Rebound,,,,
+0020200732,349,9,3,3,8:45 PM,2:34,,,Warriors Timeout: Official TV (Reg.0 Short 0),,
+0020200732,350,8,0,3,8:47 PM,2:34,SUB: Alston FOR Williams,,,,
+0020200732,351,8,0,3,8:47 PM,2:34,,,SUB: Boykins FOR Jamison,,
+0020200732,352,8,0,3,8:47 PM,2:34,,,SUB: Dunleavy FOR Arenas,,
+0020200732,353,2,1,3,8:48 PM,2:25,MISS Williams 18' Jump Shot,,,,
+0020200732,354,4,0,3,8:48 PM,2:23,,,Murphy REBOUND (Off:2 Def:5),,
+0020200732,355,2,1,3,8:48 PM,2:00,,,MISS Dunleavy 25' 3PT Jump Shot,,
+0020200732,356,4,0,3,8:48 PM,1:59,Alston REBOUND (Off:0 Def:1),,,,
+0020200732,357,6,2,3,8:48 PM,1:54,,,Dunleavy S.FOUL (P1.PN),,
+0020200732,358,3,11,3,8:49 PM,1:54,McCoy Free Throw 1 of 2 (5 PTS),,,73 - 63,-10
+0020200732,359,8,0,3,8:49 PM,1:54,SUB: Baston FOR Williams,,,,
+0020200732,360,3,12,3,8:49 PM,1:54,MISS McCoy Free Throw 2 of 2,,,,
+0020200732,361,4,0,3,8:49 PM,1:54,Peterson REBOUND (Off:2 Def:1),,,,
+0020200732,362,6,1,3,8:49 PM,1:53,,,Foyle P.FOUL (P2.PN),,
+0020200732,363,3,11,3,8:49 PM,1:53,Peterson Free Throw 1 of 2 (12 PTS),,,73 - 64,-9
+0020200732,364,3,12,3,8:50 PM,1:53,Peterson Free Throw 2 of 2 (13 PTS),,,73 - 65,-8
+0020200732,365,1,47,3,8:50 PM,1:36,,,Boykins 8' Turnaround Jump Shot (4 PTS),75 - 65,-10
+0020200732,366,1,41,3,8:50 PM,1:26,McCoy  Running Layup (7 PTS) (Alston 3 AST),,,75 - 67,-8
+0020200732,367,6,2,3,8:51 PM,1:09,Baston S.FOUL (P2.T3),,,,
+0020200732,368,3,11,3,8:51 PM,1:09,,,Murphy Free Throw 1 of 2 (7 PTS),76 - 67,-9
+0020200732,369,3,12,3,8:51 PM,1:09,,,Murphy Free Throw 2 of 2 (8 PTS),77 - 67,-10
+0020200732,371,6,2,3,8:51 PM,0:55,,,Richardson S.FOUL (P4.PN),,
+0020200732,372,3,11,3,8:52 PM,0:55,Lenard Free Throw 1 of 2 (15 PTS),,,77 - 68,-9
+0020200732,373,8,0,3,8:52 PM,0:55,,,SUB: Sura FOR Richardson,,
+0020200732,374,3,12,3,8:52 PM,0:55,Lenard Free Throw 2 of 2 (16 PTS),,,77 - 69,-8
+0020200732,376,6,1,3,8:52 PM,0:41,Lenard P.FOUL (P1.PN),,,,
+0020200732,377,3,11,3,8:53 PM,0:41,,,Dunleavy Free Throw 1 of 2 (2 PTS),78 - 69,-9
+0020200732,378,3,12,3,8:53 PM,0:41,,,Dunleavy Free Throw 2 of 2 (3 PTS),79 - 69,-10
+0020200732,380,2,1,3,8:53 PM,0:28,MISS Lenard 15' Jump Shot,,,,
+0020200732,381,4,0,3,8:53 PM,0:26,,,Dunleavy REBOUND (Off:0 Def:2),,
+0020200732,382,1,1,3,8:53 PM,0:06,,,Boykins 21' Jump Shot (6 PTS),81 - 69,-12
+0020200732,383,2,1,3,8:54 PM,0:00,MISS Alston 18' Jump Shot,,,,
+0020200732,384,4,0,3,8:54 PM,0:00,,,Foyle REBOUND (Off:2 Def:8),,
+0020200732,385,13,0,3,8:54 PM,0:00,,,,81 - 69,-12
+0020200732,387,12,0,4,8:57 PM,12:00,,,,81 - 69,-12
+0020200732,388,2,1,4,8:57 PM,11:44,,,MISS Dunleavy 10' Jump Shot,,
+0020200732,389,4,0,4,8:57 PM,11:42,Baston REBOUND (Off:0 Def:3),,,,
+0020200732,390,6,2,4,8:57 PM,11:27,,,Murphy S.FOUL (P2.T1),,
+0020200732,391,3,11,4,8:58 PM,11:27,MISS Baston Free Throw 1 of 2,,,,
+0020200732,392,4,1,4,8:58 PM,11:27,RAPTORS Rebound,,,,
+0020200732,393,8,0,4,8:58 PM,11:27,SUB: Davis FOR McCoy,,,,
+0020200732,394,3,12,4,8:58 PM,11:27,Baston Free Throw 2 of 2 (3 PTS),,,81 - 70,-11
+0020200732,395,5,1,4,8:58 PM,11:07,Lenard STEAL (1 STL),,Murphy Bad Pass Turnover (P2.T8),,
+0020200732,396,1,42,4,8:59 PM,10:55,Baston  Driving Layup (5 PTS),,,81 - 72,-9
+0020200732,397,2,1,4,8:59 PM,10:31,Baston BLOCK (2 BLK),,MISS Murphy 17' Jump Shot,,
+0020200732,398,4,0,4,8:59 PM,10:29,Lenard REBOUND (Off:0 Def:5),,,,
+0020200732,399,1,50,4,8:59 PM,10:25,Baston  Running Dunk (7 PTS) (Lenard 1 AST),,,81 - 74,-7
+0020200732,400,9,1,4,8:59 PM,10:22,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020200732,402,8,0,4,9:01 PM,10:22,,,SUB: Jamison FOR Murphy,,
+0020200732,403,8,0,4,9:01 PM,10:22,,,SUB: Arenas FOR Dunleavy,,
+0020200732,405,2,42,4,9:02 PM,10:02,,,MISS Jamison  Driving Layup,,
+0020200732,406,4,0,4,9:02 PM,10:00,Baston REBOUND (Off:0 Def:4),,,,
+0020200732,407,2,63,4,9:02 PM,9:51,MISS Carter 19' Fadeaway Jumper,,,,
+0020200732,408,4,0,4,9:02 PM,9:49,Davis REBOUND (Off:2 Def:9),,,,
+0020200732,409,6,1,4,9:02 PM,9:46,,,Sura P.FOUL (P2.T2),,
+0020200732,411,5,1,4,9:03 PM,9:45,Carter Bad Pass Turnover (P2.T12),,Foyle STEAL (1 STL),,
+0020200732,412,5,3,4,9:03 PM,9:44,,,Foyle Out Of Bounds Turnover (P2.T9),,
+0020200732,413,2,1,4,9:03 PM,9:33,MISS Carter 25' 3PT Jump Shot,,,,
+0020200732,414,4,0,4,9:03 PM,9:32,Baston REBOUND (Off:1 Def:4),,,,
+0020200732,415,5,2,4,9:03 PM,9:23,Baston Lost Ball Turnover (P1.T13),,Arenas STEAL (5 STL),,
+0020200732,416,1,42,4,9:03 PM,9:20,,,Boykins  Driving Layup (8 PTS) (Arenas 6 AST),83 - 74,-9
+0020200732,417,6,2,4,9:03 PM,9:20,Williams S.FOUL (P3.T1),,,,
+0020200732,418,3,10,4,9:04 PM,9:20,,,Boykins Free Throw 1 of 1 (9 PTS),84 - 74,-10
+0020200732,419,2,1,4,9:04 PM,9:06,MISS Williams 18' Jump Shot,,,,
+0020200732,420,4,0,4,9:04 PM,9:05,,,Foyle REBOUND (Off:2 Def:9),,
+0020200732,421,2,1,4,9:04 PM,8:54,,,MISS Sura 25' 3PT Jump Shot,,
+0020200732,422,4,0,4,9:04 PM,8:52,Baston REBOUND (Off:1 Def:5),,,,
+0020200732,423,6,2,4,9:04 PM,8:47,,,Arenas S.FOUL (P3.T3),,
+0020200732,424,3,11,4,9:05 PM,8:47,Williams Free Throw 1 of 2 (8 PTS),,,84 - 75,-9
+0020200732,425,3,12,4,9:05 PM,8:47,Williams Free Throw 2 of 2 (9 PTS),,,84 - 76,-8
+0020200732,426,1,1,4,9:05 PM,8:32,,,Boykins 25' 3PT Jump Shot (12 PTS) (Arenas 7 AST),87 - 76,-11
+0020200732,427,6,1,4,9:06 PM,8:14,,,Arenas P.FOUL (P4.T4),,
+0020200732,429,8,0,4,9:06 PM,8:14,,,SUB: Richardson FOR Arenas,,
+0020200732,430,1,46,4,9:07 PM,8:10,Williams 12' Running Jump Shot (11 PTS),,,87 - 78,-9
+0020200732,431,1,1,4,9:07 PM,7:56,,,Jamison 22' Jump Shot (26 PTS) (Sura 3 AST),89 - 78,-11
+0020200732,432,6,4,4,9:07 PM,7:33,Davis OFF.Foul (P3),,,,
+0020200732,433,5,5,4,9:07 PM,7:33,Davis Foul Turnover (P2.T14),,,,
+0020200732,434,2,5,4,9:08 PM,7:22,Baston BLOCK (3 BLK),,MISS Jamison  Layup,,
+0020200732,435,4,0,4,9:08 PM,7:21,Carter REBOUND (Off:0 Def:2),,,,
+0020200732,436,1,1,4,9:08 PM,7:11,Lenard  3PT Jump Shot (19 PTS) (Carter 1 AST),,,89 - 81,-8
+0020200732,437,2,1,4,9:08 PM,6:53,,,MISS Richardson 26' 3PT Jump Shot,,
+0020200732,438,4,0,4,9:08 PM,6:52,,,Boykins REBOUND (Off:1 Def:1),,
+0020200732,439,5,2,4,9:08 PM,6:49,Williams STEAL (3 STL),,Boykins Lost Ball Turnover (P1.T10),,
+0020200732,440,6,1,4,9:08 PM,6:48,,,Jamison P.FOUL (P1.PN),,
+0020200732,442,8,0,4,9:08 PM,6:48,SUB: Williams FOR Baston,,,,
+0020200732,443,3,11,4,9:09 PM,6:48,Williams Free Throw 1 of 2 (12 PTS),,,89 - 82,-7
+0020200732,444,3,12,4,9:09 PM,6:48,Williams Free Throw 2 of 2 (13 PTS),,,89 - 83,-6
+0020200732,445,6,17,4,9:09 PM,6:28,RAPTORS T.Foul (Def. 3 Sec Williams ),,,,
+0020200732,446,3,16,4,9:09 PM,6:28,,,Boykins Free Throw Technical (13 PTS),90 - 83,-7
+0020200732,447,5,3,4,9:10 PM,6:26,,,Richardson Out Of Bounds Turnover (P1.T11),,
+0020200732,448,5,2,4,9:10 PM,6:16,Lenard Lost Ball Turnover (P1.T15),,Richardson STEAL (2 STL),,
+0020200732,449,6,2,4,9:10 PM,6:12,Carter S.FOUL (P3.T2),,,,
+0020200732,450,3,11,4,9:11 PM,6:12,,,Sura Free Throw 1 of 2 (3 PTS),91 - 83,-8
+0020200732,451,3,12,4,9:11 PM,6:12,,,Sura Free Throw 2 of 2 (4 PTS),92 - 83,-9
+0020200732,452,1,47,4,9:11 PM,5:54,Carter 14' Turnaround Jump Shot (12 PTS),,,92 - 85,-7
+0020200732,453,2,1,4,9:12 PM,5:32,,,MISS Jamison 17' Jump Shot,,
+0020200732,454,4,0,4,9:12 PM,5:30,,,Foyle REBOUND (Off:3 Def:9),,
+0020200732,455,2,1,4,9:12 PM,5:11,,,MISS Sura 25' 3PT Jump Shot,,
+0020200732,456,4,0,4,9:12 PM,5:10,Lenard REBOUND (Off:0 Def:6),,,,
+0020200732,457,2,46,4,9:12 PM,4:58,MISS Williams 12' Running Jump Shot,,,,
+0020200732,458,4,0,4,9:12 PM,4:56,,,Jamison REBOUND (Off:1 Def:3),,
+0020200732,459,2,46,4,9:12 PM,4:49,,,MISS Richardson 11' Running Jump Shot,,
+0020200732,460,4,0,4,9:12 PM,4:46,Williams REBOUND (Off:0 Def:4),,,,
+0020200732,461,2,5,4,9:12 PM,4:43,MISS Williams  Layup,,,,
+0020200732,462,4,0,4,9:12 PM,4:42,Lenard REBOUND (Off:1 Def:6),,,,
+0020200732,463,2,53,4,9:12 PM,4:40,MISS Lenard  Tip Shot,,,,
+0020200732,464,4,0,4,9:12 PM,4:39,Lenard REBOUND (Off:2 Def:6),,,,
+0020200732,465,2,4,4,9:13 PM,4:39,MISS Lenard  Tip Shot,,,,
+0020200732,466,4,0,4,9:13 PM,4:39,RAPTORS Rebound,,,,
+0020200732,467,9,4,4,9:13 PM,4:39,,,,,
+0020200732,469,6,11,4,9:13 PM,4:39,,,Richardson T.FOUL (P4.PN),,
+0020200732,472,3,16,4,9:15 PM,4:39,Lenard Free Throw Technical (20 PTS),,,92 - 86,-6
+0020200732,473,2,46,4,9:16 PM,4:28,MISS Williams 14' Running Jump Shot,,,,
+0020200732,474,4,0,4,9:16 PM,4:27,RAPTORS Rebound,,,,
+0020200732,475,2,5,4,9:16 PM,4:18,MISS Lenard  Layup,,Foyle BLOCK (2 BLK),,
+0020200732,476,4,0,4,9:16 PM,4:16,,,Richardson REBOUND (Off:3 Def:2),,
+0020200732,477,6,1,4,9:16 PM,4:01,Williams P.FOUL (P3.T3),,,,
+0020200732,478,2,49,4,9:17 PM,3:55,,,MISS Richardson  Driving Dunk,,
+0020200732,479,4,0,4,9:17 PM,3:53,Williams REBOUND (Off:5 Def:3),,,,
+0020200732,480,1,47,4,9:17 PM,3:41,Carter 15' Turnaround Jump Shot (14 PTS),,,92 - 88,-4
+0020200732,481,1,63,4,9:17 PM,3:13,,,Boykins 8' Fadeaway Jumper (15 PTS),94 - 88,-6
+0020200732,483,1,1,4,9:18 PM,2:55,Carter 18' Jump Shot (16 PTS) (Williams 8 AST),,,94 - 90,-4
+0020200732,484,2,1,4,9:18 PM,2:29,,,MISS Boykins 12' Jump Shot,,
+0020200732,485,4,0,4,9:18 PM,2:28,Davis REBOUND (Off:2 Def:10),,,,
+0020200732,486,2,42,4,9:18 PM,2:13,MISS Carter  Driving Layup,,,,
+0020200732,487,4,0,4,9:18 PM,2:11,,,Richardson REBOUND (Off:3 Def:3),,
+0020200732,488,1,5,4,9:19 PM,2:05,,,Jamison  Layup (28 PTS) (Sura 4 AST),96 - 90,-6
+0020200732,489,9,1,4,9:19 PM,2:02,RAPTORS Timeout: Regular (Full 3 Short 2),,,,
+0020200732,493,2,46,4,9:22 PM,1:45,MISS Lenard 10' Running Jump Shot,,Foyle BLOCK (3 BLK),,
+0020200732,494,4,0,4,9:22 PM,1:42,Davis REBOUND (Off:3 Def:10),,,,
+0020200732,495,1,1,4,9:22 PM,1:38,Lenard  3PT Jump Shot (23 PTS) (Williams 9 AST),,,96 - 93,-3
+0020200732,496,8,0,4,9:22 PM,1:24,,,SUB: Arenas FOR Sura,,
+0020200732,497,1,1,4,9:24 PM,1:17,,,Boykins 21' Jump Shot (17 PTS),98 - 93,-5
+0020200732,498,2,5,4,9:24 PM,0:58,MISS Davis  Layup,,Jamison BLOCK (2 BLK),,
+0020200732,499,4,0,4,9:24 PM,0:56,,,Jamison REBOUND (Off:1 Def:4),,
+0020200732,500,5,2,4,9:24 PM,0:41,Williams STEAL (4 STL),,Boykins Lost Ball Turnover (P2.T12),,
+0020200732,501,2,5,4,9:24 PM,0:35,MISS Williams  Layup,,Jamison BLOCK (3 BLK),,
+0020200732,502,4,0,4,9:25 PM,0:32,Lenard REBOUND (Off:3 Def:6),,,,
+0020200732,503,2,1,4,9:25 PM,0:29,MISS Carter 25' 3PT Jump Shot,,,,
+0020200732,504,4,0,4,9:25 PM,0:27,Carter REBOUND (Off:1 Def:2),,,,
+0020200732,505,2,1,4,9:25 PM,0:25,MISS Carter 22' Jump Shot,,,,
+0020200732,506,4,0,4,9:25 PM,0:23,,,Richardson REBOUND (Off:3 Def:4),,
+0020200732,507,6,1,4,9:25 PM,0:20,Williams P.FOUL (P4.T4),,,,
+0020200732,509,8,0,4,9:25 PM,0:20,,,SUB: Murphy FOR Foyle,,
+0020200732,510,6,1,4,9:25 PM,0:18,Williams P.FOUL (P4.PN),,,,
+0020200732,511,3,11,4,9:26 PM,0:18,,,Boykins Free Throw 1 of 2 (18 PTS),99 - 93,-6
+0020200732,512,8,0,4,9:26 PM,0:18,,,SUB: Foyle FOR Murphy,,
+0020200732,513,3,12,4,9:26 PM,0:18,,,Boykins Free Throw 2 of 2 (19 PTS),100 - 93,-7
+0020200732,514,9,1,4,9:26 PM,0:18,RAPTORS Timeout: Regular (Full 4 Short 2),,,,
+0020200732,515,8,0,4,9:28 PM,0:18,SUB: Peterson FOR Williams,,,,
+0020200732,516,8,0,4,9:28 PM,0:18,,,SUB: Sura FOR Boykins,,
+0020200732,517,1,1,4,9:28 PM,0:15,Peterson  3PT Jump Shot (16 PTS) (Davis 2 AST),,,100 - 96,-4
+0020200732,518,6,1,4,9:29 PM,0:14,Lenard P.FOUL (P2.PN),,,,
+0020200732,519,3,11,4,9:29 PM,0:14,,,MISS Richardson Free Throw 1 of 2,,
+0020200732,520,4,1,4,9:29 PM,0:14,,,Warriors Rebound,,
+0020200732,521,3,12,4,9:29 PM,0:14,,,Richardson Free Throw 2 of 2 (20 PTS),101 - 96,-5
+0020200732,522,9,1,4,9:29 PM,0:14,RAPTORS Timeout: Regular (Full 5 Short 2),,,,
+0020200732,525,1,1,4,9:31 PM,0:09,Peterson 26' 3PT Jump Shot (19 PTS) (Lenard 2 AST),,,101 - 99,-2
+0020200732,526,9,1,4,9:32 PM,0:09,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020200732,527,8,0,4,9:33 PM,0:09,,,SUB: Boykins FOR Foyle,,
+0020200732,528,8,0,4,9:33 PM,0:09,SUB: Alston FOR Davis,,,,
+0020200732,529,6,1,4,9:34 PM,0:08,Peterson P.FOUL (P3.PN),,,,
+0020200732,530,3,11,4,9:34 PM,0:08,,,Richardson Free Throw 1 of 2 (21 PTS),102 - 99,-3
+0020200732,531,8,0,4,9:34 PM,0:08,SUB: Davis FOR Alston,,,,
+0020200732,532,3,12,4,9:34 PM,0:08,,,MISS Richardson Free Throw 2 of 2,,
+0020200732,533,4,0,4,9:35 PM,0:07,Carter REBOUND (Off:1 Def:3),,,,
+0020200732,534,6,2,4,9:35 PM,0:02,,,Arenas S.FOUL (P5.PN),,
+0020200732,535,3,13,4,9:35 PM,0:02,Lenard Free Throw 1 of 3 (24 PTS),,,102 - 100,-2
+0020200732,536,8,0,4,9:36 PM,0:02,,,SUB: Foyle FOR Arenas,,
+0020200732,537,8,0,4,9:36 PM,0:02,,,SUB: Murphy FOR Boykins,,
+0020200732,538,3,14,4,9:36 PM,0:02,Lenard Free Throw 2 of 3 (25 PTS),,,102 - 101,-1
+0020200732,539,3,15,4,9:36 PM,0:02,Lenard Free Throw 3 of 3 (26 PTS),,,102 - 102,TIE
+0020200732,540,9,1,4,9:36 PM,0:02,,,Warriors Timeout: Regular (Reg.3 Short 0),,
+0020200732,541,8,0,4,9:38 PM,0:02,,,SUB: Arenas FOR Murphy,,
+0020200732,542,8,0,4,9:38 PM,0:02,,,SUB: Boykins FOR Foyle,,
+0020200732,543,8,0,4,9:38 PM,0:02,SUB: Williams FOR Davis,,,,
+0020200732,545,2,1,4,9:39 PM,0:00,,,MISS Boykins 24' 3PT Jump Shot,,
+0020200732,546,4,0,4,9:39 PM,0:00,,,Warriors Rebound,,
+0020200732,547,13,0,4,9:39 PM,0:00,,,,102 - 102,TIE
+0020200732,549,12,0,5,9:41 PM,5:00,,,,102 - 102,TIE
+0020200732,550,10,0,5,9:41 PM,5:00,Jump Ball Davis vs. Foyle: Tip to Boykins,,,,
+0020200732,551,2,5,5,9:41 PM,4:49,Carter BLOCK (2 BLK),,MISS Jamison  Layup,,
+0020200732,552,4,0,5,9:41 PM,4:47,,,Arenas REBOUND (Off:2 Def:4),,
+0020200732,553,2,42,5,9:41 PM,4:44,,,MISS Arenas  Driving Layup,,
+0020200732,554,4,0,5,9:41 PM,4:43,Williams REBOUND (Off:0 Def:5),,,,
+0020200732,555,1,47,5,9:42 PM,4:27,Davis 12' Turnaround Jump Shot (12 PTS) (Carter 2 AST),,,102 - 104,2
+0020200732,556,6,1,5,9:42 PM,4:15,Carter P.FOUL (P4.T1),,,,
+0020200732,557,2,42,5,9:42 PM,4:03,,,MISS Arenas  Driving Layup,,
+0020200732,558,4,0,5,9:42 PM,4:01,Carter REBOUND (Off:1 Def:4),,,,
+0020200732,560,2,1,5,9:43 PM,3:40,MISS Williams 19' Jump Shot,,,,
+0020200732,561,4,0,5,9:43 PM,3:38,,,Arenas REBOUND (Off:2 Def:5),,
+0020200732,562,2,1,5,9:43 PM,3:27,,,MISS Jamison 15' Jump Shot,,
+0020200732,563,4,0,5,9:43 PM,3:26,Davis REBOUND (Off:3 Def:11),,,,
+0020200732,564,2,1,5,9:43 PM,3:10,MISS Davis 12' Jump Shot,,,,
+0020200732,565,4,0,5,9:43 PM,3:08,,,Jamison REBOUND (Off:1 Def:5),,
+0020200732,567,5,2,5,9:43 PM,2:58,Carter STEAL (2 STL),,Arenas Lost Ball Turnover (P5.T13),,
+0020200732,568,2,1,5,9:43 PM,2:50,MISS Lenard  3PT Jump Shot,,,,
+0020200732,569,4,0,5,9:43 PM,2:48,,,Warriors Rebound,,
+0020200732,570,6,3,5,9:44 PM,2:48,Williams L.B.FOUL (P5.T2),,,,
+0020200732,572,1,1,5,9:44 PM,2:38,,,Richardson  3PT Jump Shot (24 PTS),105 - 104,-1
+0020200732,573,1,47,5,9:44 PM,2:21,Carter 15' Turnaround Jump Shot (18 PTS) (Williams 10 AST),,,105 - 106,1
+0020200732,574,2,1,5,9:45 PM,2:04,,,MISS Richardson 18' Jump Shot,,
+0020200732,575,4,0,5,9:45 PM,2:01,,,Warriors Rebound,,
+0020200732,576,6,1,5,9:45 PM,2:01,Lenard P.FOUL (P3.T3),,,,
+0020200732,577,2,65,5,9:45 PM,1:54,,,MISS Foyle 8' Jump Hook Shot,,
+0020200732,578,4,0,5,9:45 PM,1:53,,,Jamison REBOUND (Off:2 Def:5),,
+0020200732,579,1,5,5,9:45 PM,1:50,,,Jamison  Layup (30 PTS),107 - 106,-1
+0020200732,580,9,1,5,9:46 PM,1:33,RAPTORS Timeout: Regular (Full 6 Short 2),,,,
+0020200732,583,8,0,5,9:48 PM,1:33,,,SUB: Sura FOR Boykins,,
+0020200732,584,1,1,5,9:48 PM,1:27,Carter 20' Jump Shot (20 PTS),,,107 - 108,1
+0020200732,585,2,42,5,9:49 PM,1:05,,,MISS Arenas  Driving Layup,,
+0020200732,586,4,0,5,9:49 PM,1:03,,,Jamison REBOUND (Off:3 Def:5),,
+0020200732,587,1,4,5,9:49 PM,1:03,,,Jamison  Tip Shot (32 PTS),109 - 108,-1
+0020200732,588,5,2,5,9:49 PM,0:46,Williams Lost Ball Turnover (P3.T16),,Arenas STEAL (6 STL),,
+0020200732,589,6,1,5,9:49 PM,0:41,Williams P.FOUL (P6.PN),,,,
+0020200732,590,8,0,5,9:49 PM,0:41,SUB: Peterson FOR Williams,,,,
+0020200732,591,3,11,5,9:49 PM,0:41,,,Arenas Free Throw 1 of 2 (10 PTS),110 - 108,-2
+0020200732,592,3,12,5,9:50 PM,0:41,,,Arenas Free Throw 2 of 2 (11 PTS),111 - 108,-3
+0020200732,593,2,46,5,9:50 PM,0:31,MISS Williams 7' Running Jump Shot,,,,
+0020200732,594,4,0,5,9:50 PM,0:29,,,Foyle REBOUND (Off:3 Def:10),,
+0020200732,595,6,1,5,9:50 PM,0:29,Davis P.FOUL (P4.PN),,,,
+0020200732,596,3,11,5,9:50 PM,0:29,,,Foyle Free Throw 1 of 2 (5 PTS),112 - 108,-4
+0020200732,597,3,12,5,9:51 PM,0:29,,,MISS Foyle Free Throw 2 of 2,,
+0020200732,598,4,0,5,9:51 PM,0:29,,,Richardson REBOUND (Off:4 Def:4),,
+0020200732,599,6,1,5,9:51 PM,0:27,Carter P.FOUL (P5.PN),,,,
+0020200732,600,3,11,5,9:51 PM,0:27,,,Richardson Free Throw 1 of 2 (25 PTS),113 - 108,-5
+0020200732,601,3,12,5,9:51 PM,0:27,,,MISS Richardson Free Throw 2 of 2,,
+0020200732,602,4,0,5,9:52 PM,0:27,Lenard REBOUND (Off:3 Def:7),,,,
+0020200732,603,2,1,5,9:52 PM,0:21,MISS Peterson 25' 3PT Jump Shot,,,,
+0020200732,604,4,0,5,9:52 PM,0:19,,,Arenas REBOUND (Off:2 Def:6),,
+0020200732,605,6,1,5,9:52 PM,0:17,Peterson P.FOUL (P4.PN),,,,
+0020200732,606,3,11,5,9:52 PM,0:17,,,MISS Sura Free Throw 1 of 2,,
+0020200732,607,4,1,5,9:52 PM,0:17,,,Warriors Rebound,,
+0020200732,608,3,12,5,9:52 PM,0:17,,,Sura Free Throw 2 of 2 (5 PTS),114 - 108,-6
+0020200732,609,2,46,5,9:53 PM,0:12,MISS Lenard 28' 3PT Running Jump Shot,,,,
+0020200732,610,4,0,5,9:53 PM,0:09,,,Arenas REBOUND (Off:2 Def:7),,
+0020200732,611,6,1,5,9:53 PM,0:09,Carter P.FOUL (P6.PN),,,,
+0020200732,612,8,0,5,9:53 PM,0:09,SUB: Alston FOR Carter,,,,
+0020200732,613,3,11,5,9:53 PM,0:09,,,Arenas Free Throw 1 of 2 (12 PTS),115 - 108,-7
+0020200732,614,3,12,5,9:53 PM,0:09,,,Arenas Free Throw 2 of 2 (13 PTS),116 - 108,-8
+0020200732,615,1,1,5,9:54 PM,0:04,Williams 25' 3PT Jump Shot (16 PTS) (Alston 4 AST),,,116 - 111,-5
+0020200732,616,6,1,5,9:54 PM,0:02,Peterson P.FOUL (P5.PN),,,,
+0020200732,617,3,11,5,9:54 PM,0:02,,,Arenas Free Throw 1 of 2 (14 PTS),117 - 111,-6
+0020200732,618,3,12,5,9:54 PM,0:02,,,Arenas Free Throw 2 of 2 (15 PTS),118 - 111,-7
+0020200732,619,1,46,5,9:54 PM,0:00,Peterson 43' 3PT Running Jump Shot (22 PTS),,,118 - 114,-4
+0020200732,620,13,0,5,9:55 PM,0:00,,,,118 - 114,-4

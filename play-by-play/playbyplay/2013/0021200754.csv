@@ -1,0 +1,589 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021200754,0,12,0,1,6:10 PM,12:00,,,,,
+0021200754,1,10,0,1,6:11 PM,12:00,Jump Ball Garnett vs. Koufos: Tip to Bradley,,,,
+0021200754,2,1,1,1,6:11 PM,11:44,Pierce 25' 3PT Jump Shot (3 PTS) (Bass 1 AST),,,0 - 3,3
+0021200754,3,2,3,1,6:11 PM,11:21,,,MISS Faried 5' Hook Shot,,
+0021200754,4,4,0,1,6:11 PM,11:20,Pierce REBOUND (Off:0 Def:1),,,,
+0021200754,5,5,39,1,6:12 PM,11:15,Lee Step Out of Bounds Turnover (P1.T1),,,,
+0021200754,6,2,1,1,6:12 PM,10:58,,,MISS Lawson 26' 3PT Jump Shot,,
+0021200754,7,4,0,1,6:12 PM,10:58,Garnett REBOUND (Off:0 Def:1),,,,
+0021200754,8,2,5,1,6:12 PM,10:55,MISS Bradley 2' Layup,,Gallinari BLOCK (1 BLK),,
+0021200754,9,4,0,1,6:12 PM,10:54,,,Lawson REBOUND (Off:0 Def:1),,
+0021200754,10,2,63,1,6:12 PM,10:34,,,MISS Koufos 11' Fadeaway Jumper,,
+0021200754,11,4,0,1,6:12 PM,10:33,Garnett REBOUND (Off:0 Def:2),,,,
+0021200754,12,2,1,1,6:13 PM,10:18,MISS Pierce 16' Jump Shot,,Gallinari BLOCK (2 BLK),,
+0021200754,13,4,0,1,6:13 PM,10:17,,,Iguodala REBOUND (Off:0 Def:1),,
+0021200754,14,5,1,1,6:13 PM,10:13,,,Iguodala Bad Pass Turnover (P1.T1),,
+0021200754,15,1,86,1,6:13 PM,10:00,Garnett 14' Turnaround Fadeaway (2 PTS) (Pierce 1 AST),,,0 - 5,5
+0021200754,16,2,5,1,6:13 PM,9:40,,,MISS Faried  Layup,,
+0021200754,17,4,0,1,6:13 PM,9:39,Garnett REBOUND (Off:0 Def:3),,,,
+0021200754,18,2,1,1,6:13 PM,9:34,MISS Bradley 20' Jump Shot,,,,
+0021200754,19,4,0,1,6:13 PM,9:33,,,Faried REBOUND (Off:0 Def:1),,
+0021200754,20,5,2,1,6:13 PM,9:29,Bradley STEAL (1 STL),,Faried Lost Ball Turnover (P1.T2),,
+0021200754,21,2,5,1,6:14 PM,9:26,MISS Bradley 2' Layup,,Iguodala BLOCK (1 BLK),,
+0021200754,22,4,0,1,6:14 PM,9:25,CELTICS Rebound,,,,
+0021200754,23,2,1,1,6:14 PM,9:11,MISS Bass 15' Jump Shot,,,,
+0021200754,24,4,0,1,6:14 PM,9:10,,,Gallinari REBOUND (Off:0 Def:1),,
+0021200754,25,5,1,1,6:14 PM,9:02,Garnett STEAL (1 STL),,Gallinari Bad Pass Turnover (P1.T3),,
+0021200754,26,1,42,1,6:14 PM,8:57,Lee 1' Driving Layup (2 PTS) (Bradley 1 AST),,,0 - 7,7
+0021200754,27,5,1,1,6:14 PM,8:51,Lee STEAL (1 STL),,Lawson Bad Pass Turnover (P1.T4),,
+0021200754,28,1,1,1,6:14 PM,8:46,Bradley 19' Jump Shot (2 PTS) (Pierce 2 AST),,,0 - 9,9
+0021200754,29,9,1,1,6:15 PM,8:43,,,Nuggets Timeout: Regular (Reg.1 Short 0),,
+0021200754,31,5,41,1,6:17 PM,8:25,Garnett STEAL (2 STL),,Koufos Poss Lost Ball Turnover (P1.T5),,
+0021200754,32,1,1,1,6:17 PM,8:09,Pierce 25' 3PT Jump Shot (6 PTS) (Bradley 2 AST),,,0 - 12,12
+0021200754,35,6,1,1,6:18 PM,8:00,Bradley P.FOUL (P1.T1),,,,
+0021200754,36,1,79,1,6:18 PM,7:42,,,Lawson 16' Pullup Jump Shot (2 PTS),2 - 12,10
+0021200754,38,2,80,1,6:19 PM,7:25,MISS Garnett 16' Step Back Jump Shot,,,,
+0021200754,39,4,0,1,6:19 PM,7:24,,,Faried REBOUND (Off:0 Def:2),,
+0021200754,40,1,1,1,6:19 PM,7:15,,,Iguodala 26' 3PT Jump Shot (3 PTS),5 - 12,7
+0021200754,42,5,1,1,6:19 PM,7:02,Pierce Bad Pass Turnover (P1.T2),,Gallinari STEAL (1 STL),,
+0021200754,43,6,1,1,6:19 PM,7:01,Garnett P.FOUL (P1.T2),,,,
+0021200754,44,1,5,1,6:19 PM,6:50,,,Koufos 2' Layup (2 PTS) (Lawson 1 AST),7 - 12,5
+0021200754,45,2,1,1,6:20 PM,6:32,MISS Garnett 6' Jump Shot,,,,
+0021200754,46,4,0,1,6:20 PM,6:30,,,Koufos REBOUND (Off:0 Def:1),,
+0021200754,47,1,52,1,6:20 PM,6:26,,,Faried 1' Alley Oop Dunk (2 PTS) (Lawson 2 AST),9 - 12,3
+0021200754,48,1,1,1,6:20 PM,6:08,Bradley 17' Jump Shot (4 PTS) (Pierce 3 AST),,,9 - 14,5
+0021200754,49,1,42,1,6:20 PM,5:52,,,Lawson 2' Driving Layup (4 PTS),11 - 14,3
+0021200754,50,9,1,1,6:20 PM,5:46,CELTICS Timeout: Regular (Full 1 Short 0),,,,
+0021200754,52,8,0,1,6:23 PM,5:46,SUB: Wilcox FOR Garnett,,,,
+0021200754,53,6,2,1,6:23 PM,5:39,,,Faried S.FOUL (P1.T1),,
+0021200754,54,3,11,1,6:23 PM,5:39,Wilcox Free Throw 1 of 2 (1 PTS),,,11 - 15,4
+0021200754,56,3,12,1,6:24 PM,5:39,Wilcox Free Throw 2 of 2 (2 PTS),,,11 - 16,5
+0021200754,58,2,1,1,6:24 PM,5:25,,,MISS Gallinari 26' 3PT Jump Shot,,
+0021200754,59,4,0,1,6:24 PM,5:24,Pierce REBOUND (Off:0 Def:2),,,,
+0021200754,60,1,1,1,6:24 PM,5:14,Bass 15' Jump Shot (2 PTS) (Lee 1 AST),,,11 - 18,7
+0021200754,61,1,8,1,6:24 PM,4:57,,,Faried 1' Slam Dunk (4 PTS) (Gallinari 1 AST),13 - 18,5
+0021200754,62,1,1,1,6:25 PM,4:41,Bradley 18' Jump Shot (6 PTS) (Pierce 4 AST),,,13 - 20,7
+0021200754,63,2,1,1,6:25 PM,4:20,,,MISS Iguodala 24' 3PT Jump Shot,,
+0021200754,64,4,0,1,6:25 PM,4:20,,,Gallinari REBOUND (Off:1 Def:1),,
+0021200754,65,6,1,1,6:25 PM,4:19,Bradley P.FOUL (P2.T3),,,,
+0021200754,66,8,0,1,6:26 PM,4:19,,,SUB: Brewer FOR Gallinari,,
+0021200754,67,8,0,1,6:26 PM,4:19,,,SUB: Chandler FOR Faried,,
+0021200754,68,8,0,1,6:26 PM,4:19,,,SUB: Miller FOR Koufos,,
+0021200754,69,8,0,1,6:26 PM,4:19,,,SUB: McGee FOR Iguodala,,
+0021200754,70,8,0,1,6:26 PM,4:19,SUB: Terry FOR Bradley,,,,
+0021200754,71,8,0,1,6:26 PM,4:19,SUB: Green FOR Pierce,,,,
+0021200754,72,1,5,1,6:26 PM,4:05,,,McGee 3' Layup (2 PTS),15 - 20,5
+0021200754,73,6,2,1,6:26 PM,3:43,,,Chandler S.FOUL (P1.T2),,
+0021200754,74,3,11,1,6:27 PM,3:43,MISS Bass Free Throw 1 of 2,,,,
+0021200754,75,4,1,1,6:27 PM,3:43,CELTICS Rebound,,,,
+0021200754,76,8,0,1,6:27 PM,3:43,SUB: Barbosa FOR Lee,,,,
+0021200754,77,3,12,1,6:27 PM,3:43,Bass Free Throw 2 of 2 (3 PTS),,,15 - 21,6
+0021200754,79,1,42,1,6:27 PM,3:26,,,Lawson 2' Driving Layup (6 PTS),17 - 21,4
+0021200754,80,2,1,1,6:28 PM,3:08,MISS Terry  3PT Jump Shot,,,,
+0021200754,81,4,0,1,6:28 PM,3:07,,,McGee REBOUND (Off:0 Def:1),,
+0021200754,82,2,1,1,6:28 PM,2:57,,,MISS Chandler 18' Jump Shot,,
+0021200754,83,4,0,1,6:28 PM,2:56,Terry REBOUND (Off:0 Def:1),,,,
+0021200754,84,6,2,1,6:28 PM,2:45,,,Brewer S.FOUL (P1.T3),,
+0021200754,85,3,11,1,6:28 PM,2:45,MISS Wilcox Free Throw 1 of 2,,,,
+0021200754,86,4,1,1,6:28 PM,2:45,CELTICS Rebound,,,,
+0021200754,87,3,12,1,6:29 PM,2:45,Wilcox Free Throw 2 of 2 (3 PTS),,,17 - 22,5
+0021200754,89,5,1,1,6:29 PM,2:36,,,Miller Bad Pass Turnover (P1.T6),,
+0021200754,90,1,1,1,6:30 PM,2:22,Terry 19' Jump Shot (2 PTS) (Bass 2 AST),,,17 - 24,7
+0021200754,91,2,1,1,6:30 PM,2:02,,,MISS Lawson 24' 3PT Jump Shot,,
+0021200754,92,4,0,1,6:30 PM,2:01,Bass REBOUND (Off:0 Def:1),,,,
+0021200754,93,2,1,1,6:30 PM,1:52,MISS Bass 17' Jump Shot,,,,
+0021200754,94,4,0,1,6:30 PM,1:49,Wilcox REBOUND (Off:1 Def:0),,,,
+0021200754,95,2,4,1,6:30 PM,1:49,MISS Wilcox 1' Tip Shot,,,,
+0021200754,96,4,0,1,6:30 PM,1:48,,,McGee REBOUND (Off:0 Def:2),,
+0021200754,97,2,1,1,6:30 PM,1:37,,,MISS McGee 16' Jump Shot,,
+0021200754,98,4,0,1,6:30 PM,1:34,,,Miller REBOUND (Off:1 Def:0),,
+0021200754,99,6,1,1,6:31 PM,1:26,Barbosa P.FOUL (P1.T4),,,,
+0021200754,100,2,1,1,6:31 PM,1:15,,,MISS Miller 15' Jump Shot,,
+0021200754,101,4,0,1,6:31 PM,1:13,,,McGee REBOUND (Off:1 Def:2),,
+0021200754,102,2,4,1,6:31 PM,1:13,,,MISS McGee  Tip Shot,,
+0021200754,103,4,0,1,6:31 PM,1:12,,,McGee REBOUND (Off:2 Def:2),,
+0021200754,104,2,1,1,6:31 PM,1:07,,,MISS Brewer  3PT Jump Shot,,
+0021200754,105,4,0,1,6:31 PM,1:06,,,McGee REBOUND (Off:3 Def:2),,
+0021200754,106,1,42,1,6:31 PM,0:45,,,Brewer 2' Driving Layup (2 PTS) (Lawson 3 AST),19 - 24,5
+0021200754,107,1,5,1,6:32 PM,0:33,Green 2' Layup (2 PTS) (Wilcox 1 AST),,,19 - 26,7
+0021200754,108,5,1,1,6:32 PM,0:15,Terry STEAL (1 STL),,Miller Bad Pass Turnover (P2.T7),,
+0021200754,109,1,1,1,6:32 PM,0:03,Terry 27' 3PT Jump Shot (5 PTS) (Bass 3 AST),,,19 - 29,10
+0021200754,110,2,1,1,6:33 PM,0:00,,,MISS Brewer 26' 3PT Jump Shot,,
+0021200754,111,4,0,1,6:33 PM,0:00,,,Nuggets Rebound,,
+0021200754,112,13,0,1,6:33 PM,0:00,,,,19 - 29,10
+0021200754,114,12,0,2,6:35 PM,12:00,,,,19 - 29,10
+0021200754,115,1,1,2,6:36 PM,11:43,,,Miller 26' 3PT Jump Shot (3 PTS) (Lawson 4 AST),22 - 29,7
+0021200754,116,5,2,2,6:36 PM,11:23,Green Lost Ball Turnover (P1.T3),,Faried STEAL (1 STL),,
+0021200754,117,2,1,2,6:36 PM,11:13,,,MISS Chandler 17' Jump Shot,,
+0021200754,118,4,0,2,6:36 PM,11:12,Terry REBOUND (Off:0 Def:2),,,,
+0021200754,119,5,2,2,6:36 PM,11:00,Green Lost Ball Turnover (P2.T4),,Brewer STEAL (1 STL),,
+0021200754,120,6,2,2,6:37 PM,10:51,Pierce S.FOUL (P1.T1),,,,
+0021200754,121,3,11,2,6:37 PM,10:51,,,Brewer Free Throw 1 of 2 (3 PTS),23 - 29,6
+0021200754,123,3,12,2,6:37 PM,10:51,,,MISS Brewer Free Throw 2 of 2,,
+0021200754,125,4,0,2,6:37 PM,10:50,Green REBOUND (Off:0 Def:1),,,,
+0021200754,126,1,42,2,6:37 PM,10:42,Terry 2' Driving Layup (7 PTS),,,23 - 31,8
+0021200754,127,5,2,2,6:38 PM,10:20,Terry STEAL (2 STL),,Faried Lost Ball Turnover (P2.T8),,
+0021200754,128,2,5,2,6:38 PM,10:14,MISS Pierce 2' Layup,,Chandler BLOCK (1 BLK),,
+0021200754,129,4,0,2,6:38 PM,10:14,CELTICS Rebound,,,,
+0021200754,130,8,0,2,6:38 PM,10:14,,,SUB: Gallinari FOR Lawson,,
+0021200754,131,2,1,2,6:38 PM,10:08,MISS Pierce 15' Jump Shot,,,,
+0021200754,132,4,0,2,6:38 PM,10:07,,,Chandler REBOUND (Off:0 Def:1),,
+0021200754,133,1,1,2,6:38 PM,9:53,,,Chandler 19' Jump Shot (2 PTS) (Miller 1 AST),25 - 31,6
+0021200754,134,1,58,2,6:39 PM,9:34,Green 6' Turnaround Hook Shot (4 PTS),,,25 - 33,8
+0021200754,135,5,2,2,6:39 PM,9:11,Barbosa STEAL (1 STL),,Miller Lost Ball Turnover (P3.T9),,
+0021200754,136,5,1,2,6:39 PM,9:03,Terry Bad Pass Turnover (P1.T5),,Faried STEAL (2 STL),,
+0021200754,137,1,42,2,6:39 PM,8:59,,,Brewer 3' Driving Layup (5 PTS) (Gallinari 2 AST),27 - 33,6
+0021200754,138,6,2,2,6:39 PM,8:59,Green S.FOUL (P1.T2),,,,
+0021200754,139,9,4,2,6:40 PM,8:59,,,,,
+0021200754,141,3,10,2,6:42 PM,8:59,,,MISS Brewer Free Throw 1 of 1,,
+0021200754,143,4,0,2,6:42 PM,8:58,Garnett REBOUND (Off:0 Def:4),,,,
+0021200754,144,2,1,2,6:43 PM,8:43,MISS Terry 15' Jump Shot,,,,
+0021200754,145,4,0,2,6:43 PM,8:42,,,Faried REBOUND (Off:0 Def:3),,
+0021200754,146,2,1,2,6:43 PM,8:28,,,MISS Gallinari 25' 3PT Jump Shot,,
+0021200754,147,4,0,2,6:43 PM,8:22,,,Faried REBOUND (Off:1 Def:3),,
+0021200754,148,2,1,2,6:43 PM,8:08,,,MISS Gallinari 21' Jump Shot,,
+0021200754,149,4,0,2,6:43 PM,8:07,Barbosa REBOUND (Off:0 Def:1),,,,
+0021200754,150,1,1,2,6:43 PM,7:55,Terry  3PT Jump Shot (10 PTS) (Garnett 1 AST),,,27 - 36,9
+0021200754,151,2,1,2,6:44 PM,7:37,,,MISS Gallinari 21' Jump Shot,,
+0021200754,152,4,0,2,6:44 PM,7:36,Pierce REBOUND (Off:0 Def:3),,,,
+0021200754,153,5,1,2,6:44 PM,7:32,Pierce Bad Pass Turnover (P2.T6),,,,
+0021200754,154,8,0,2,6:44 PM,7:32,,,SUB: Iguodala FOR Chandler,,
+0021200754,155,2,1,2,6:44 PM,7:19,,,MISS Miller 3' Jump Shot,,
+0021200754,156,4,0,2,6:44 PM,7:18,Garnett REBOUND (Off:0 Def:5),,,,
+0021200754,158,2,86,2,6:45 PM,7:05,MISS Garnett 9' Turnaround Fadeaway Shot,,,,
+0021200754,159,4,0,2,6:45 PM,7:04,,,Gallinari REBOUND (Off:1 Def:2),,
+0021200754,160,2,1,2,6:45 PM,6:48,Green BLOCK (1 BLK),,MISS Gallinari 7' Jump Shot,,
+0021200754,161,4,0,2,6:45 PM,6:46,Green REBOUND (Off:0 Def:2),,,,
+0021200754,162,6,29,2,6:45 PM,6:40,,,Gallinari Shooting Block Foul (P1.T1),,
+0021200754,163,3,11,2,6:46 PM,6:40,Green Free Throw 1 of 2 (5 PTS),,,27 - 37,10
+0021200754,165,3,12,2,6:46 PM,6:40,Green Free Throw 2 of 2 (6 PTS),,,27 - 38,11
+0021200754,167,1,42,2,6:47 PM,6:30,,,Miller 2' Driving Layup (5 PTS),29 - 38,9
+0021200754,172,2,40,2,6:47 PM,6:23,MISS Barbosa 3' Layup,,Miller BLOCK (1 BLK),,
+0021200754,185,4,0,2,6:47 PM,6:22,CELTICS Rebound,,,,
+0021200754,169,8,0,2,6:47 PM,6:22,SUB: Lee FOR Barbosa,,,,
+0021200754,170,2,1,2,6:47 PM,6:14,MISS Terry 24' 3PT Jump Shot,,,,
+0021200754,171,4,0,2,6:47 PM,6:13,,,Miller REBOUND (Off:1 Def:1),,
+0021200754,173,1,5,2,6:47 PM,6:08,,,Faried 2' Layup (6 PTS) (Iguodala 1 AST),31 - 38,7
+0021200754,175,5,1,2,6:48 PM,6:05,Green Bad Pass Turnover (P3.T7),,Brewer STEAL (2 STL),,
+0021200754,176,2,5,2,6:48 PM,6:03,,,MISS Brewer 1' Layup,,
+0021200754,177,4,0,2,6:48 PM,6:02,,,Brewer REBOUND (Off:1 Def:0),,
+0021200754,178,1,5,2,6:48 PM,6:00,,,Brewer  Layup (7 PTS),33 - 38,5
+0021200754,180,2,1,2,6:48 PM,5:38,MISS Lee  3PT Jump Shot,,,,
+0021200754,181,4,0,2,6:48 PM,5:37,Garnett REBOUND (Off:1 Def:5),,,,
+0021200754,182,1,5,2,6:48 PM,5:36,Garnett  Layup (4 PTS),,,33 - 40,7
+0021200754,183,6,2,2,6:48 PM,5:36,,,Gallinari S.FOUL (P2.T2),,
+0021200754,186,9,1,2,6:48 PM,5:36,CELTICS Timeout: Regular (Full 2 Short 0),,,,
+0021200754,190,8,0,2,6:51 PM,5:36,SUB: Bradley FOR Terry,,,,
+0021200754,191,8,0,2,6:51 PM,5:36,SUB: Bass FOR Green,,,,
+0021200754,194,8,0,2,6:51 PM,5:36,,,SUB: Lawson FOR Miller,,
+0021200754,192,3,10,2,6:51 PM,5:36,Garnett Free Throw 1 of 1 (5 PTS),,,33 - 41,8
+0021200754,195,2,1,2,6:51 PM,5:17,,,MISS Brewer 24' 3PT Jump Shot,,
+0021200754,196,4,0,2,6:51 PM,5:16,Pierce REBOUND (Off:0 Def:4),,,,
+0021200754,197,1,79,2,6:51 PM,5:07,Bradley 16' Pullup Jump Shot (8 PTS),,,33 - 43,10
+0021200754,198,6,17,2,6:52 PM,4:56,CELTICS T.Foul (Def. 3 Sec Bass ),,,,
+0021200754,199,3,16,2,6:52 PM,4:56,,,Gallinari Free Throw Technical (1 PTS),34 - 43,9
+0021200754,202,8,0,2,6:52 PM,4:56,,,SUB: Koufos FOR Brewer,,
+0021200754,203,2,5,2,6:52 PM,4:40,Garnett BLOCK (1 BLK),,MISS Koufos  Layup,,
+0021200754,204,4,0,2,6:52 PM,4:39,Pierce REBOUND (Off:0 Def:5),,,,
+0021200754,207,2,1,2,6:53 PM,4:23,MISS Bradley 16' Jump Shot,,,,
+0021200754,208,4,0,2,6:53 PM,4:22,,,Gallinari REBOUND (Off:1 Def:3),,
+0021200754,209,6,26,2,6:53 PM,4:12,,,Lawson Offensive Charge Foul (P1.T3),,
+0021200754,210,5,5,2,6:53 PM,4:12,,,Lawson Foul Turnover (P2.T10),,
+0021200754,212,2,73,2,6:54 PM,3:50,MISS Bass 1' Driving Reverse Layup,,,,
+0021200754,213,4,0,2,6:54 PM,3:49,,,Koufos REBOUND (Off:0 Def:2),,
+0021200754,214,1,63,2,6:54 PM,3:38,,,Iguodala 12' Fadeaway Jumper (5 PTS),36 - 43,7
+0021200754,215,1,1,2,6:55 PM,3:13,Pierce 25' 3PT Jump Shot (9 PTS) (Garnett 2 AST),,,36 - 46,10
+0021200754,216,2,1,2,6:55 PM,2:57,,,MISS Iguodala 13' Jump Shot,,
+0021200754,217,4,0,2,6:55 PM,2:56,Garnett REBOUND (Off:1 Def:6),,,,
+0021200754,218,5,1,2,6:55 PM,2:48,Bradley Bad Pass Turnover (P1.T8),,Faried STEAL (3 STL),,
+0021200754,219,6,9,2,6:55 PM,2:46,Bass C.P.FOUL (P1.T3),,,,
+0021200754,220,9,1,2,6:55 PM,2:46,,,Nuggets Timeout: Regular (Reg.2 Short 0),,
+0021200754,223,18,0,2,6:56 PM,2:46,,,,,
+0021200754,224,8,0,2,6:58 PM,2:46,SUB: Green FOR Garnett,,,,
+0021200754,225,3,25,2,6:58 PM,2:46,,,Faried Free Throw Clear Path 1 of 2 (7 PTS),37 - 46,9
+0021200754,228,3,26,2,6:58 PM,2:46,,,Faried Free Throw Clear Path 2 of 2 (8 PTS),38 - 46,8
+0021200754,227,8,0,2,6:58 PM,2:46,,,SUB: Chandler FOR Faried,,
+0021200754,230,1,75,2,6:59 PM,2:22,,,Gallinari 1' Driving Finger Roll Layup (3 PTS),40 - 46,6
+0021200754,232,5,1,2,6:59 PM,2:05,Lee Bad Pass Turnover (P2.T9),,Lawson STEAL (1 STL),,
+0021200754,233,5,2,2,6:59 PM,2:03,Bradley STEAL (2 STL),,Lawson Lost Ball Turnover (P3.T11),,
+0021200754,235,1,5,2,6:59 PM,1:52,Bass 1' Layup (5 PTS) (Lee 2 AST),,,40 - 48,8
+0021200754,239,6,1,2,7:00 PM,1:41,Green P.FOUL (P2.T4),,,,
+0021200754,242,8,0,2,7:00 PM,1:40,SUB: Barbosa FOR Lee,,,,
+0021200754,244,8,0,2,7:00 PM,1:40,,,SUB: Brewer FOR Gallinari,,
+0021200754,243,1,5,2,7:00 PM,1:35,,,Koufos 1' Layup (4 PTS),42 - 48,6
+0021200754,245,5,40,2,7:00 PM,1:14,Bass Out of Bounds Lost Ball Turnover (P1.T10),,,,
+0021200754,246,2,5,2,7:01 PM,1:01,Green BLOCK (2 BLK),,MISS Brewer  Layup,,
+0021200754,247,4,0,2,7:01 PM,0:59,Barbosa REBOUND (Off:0 Def:2),,,,
+0021200754,248,2,1,2,7:01 PM,0:45,MISS Bass 9' Jump Shot,,Chandler BLOCK (2 BLK),,
+0021200754,249,4,0,2,7:01 PM,0:42,,,Lawson REBOUND (Off:0 Def:2),,
+0021200754,250,1,5,2,7:01 PM,0:38,,,Lawson 2' Layup (8 PTS),44 - 48,4
+0021200754,251,9,2,2,7:01 PM,0:36,CELTICS Timeout: Short (Full 2 Short 1),,,,
+0021200754,253,8,0,2,7:02 PM,0:36,SUB: Terry FOR Bradley,,,,
+0021200754,254,1,42,2,7:03 PM,0:25,Barbosa 1' Driving Layup (2 PTS),,,44 - 50,6
+0021200754,256,2,1,2,7:03 PM,0:05,,,MISS Brewer 7' Jump Shot,,
+0021200754,257,4,0,2,7:03 PM,0:03,,,Brewer REBOUND (Off:2 Def:0),,
+0021200754,258,1,5,2,7:03 PM,0:02,,,Koufos 1' Layup (6 PTS) (Brewer 1 AST),46 - 50,4
+0021200754,259,2,1,2,7:03 PM,0:00,MISS Barbosa 24' 3PT Jump Shot,,,,
+0021200754,260,4,0,2,7:03 PM,0:00,CELTICS Rebound,,,,
+0021200754,261,13,0,2,7:03 PM,0:00,,,,46 - 50,4
+0021200754,263,12,0,3,7:20 PM,12:00,,,,46 - 50,4
+0021200754,264,2,80,3,7:20 PM,11:41,,,MISS Iguodala 16' Step Back Jump Shot,,
+0021200754,265,4,0,3,7:20 PM,11:40,CELTICS Rebound,,,,
+0021200754,266,1,1,3,7:21 PM,11:19,Pierce 25' 3PT Jump Shot (12 PTS) (Bradley 3 AST),,,46 - 53,7
+0021200754,267,2,5,3,7:21 PM,10:53,Garnett BLOCK (2 BLK),,MISS Faried 3' Layup,,
+0021200754,268,4,0,3,7:21 PM,10:51,Pierce REBOUND (Off:0 Def:6),,,,
+0021200754,269,2,1,3,7:21 PM,10:38,MISS Garnett 20' Jump Shot,,,,
+0021200754,270,4,0,3,7:21 PM,10:37,Bass REBOUND (Off:1 Def:1),,,,
+0021200754,271,1,47,3,7:21 PM,10:23,Pierce 15' Turnaround Jump Shot (14 PTS),,,46 - 55,9
+0021200754,272,2,5,3,7:22 PM,10:11,Bradley BLOCK (1 BLK),,MISS Lawson 3' Layup,,
+0021200754,273,4,0,3,7:22 PM,10:10,Garnett REBOUND (Off:1 Def:7),,,,
+0021200754,274,6,26,3,7:22 PM,10:07,Pierce Offensive Charge Foul (P2.T1),,,,
+0021200754,275,5,5,3,7:22 PM,10:07,Pierce Foul Turnover (P3.T11),,,,
+0021200754,276,1,1,3,7:22 PM,9:50,,,Gallinari 10' Jump Shot (5 PTS) (Iguodala 2 AST),48 - 55,7
+0021200754,277,5,39,3,7:23 PM,9:35,Lee Step Out of Bounds Turnover (P3.T12),,,,
+0021200754,278,5,2,3,7:23 PM,9:21,Lee STEAL (2 STL),,Gallinari Lost Ball Turnover (P2.T12),,
+0021200754,279,2,5,3,7:23 PM,9:16,MISS Lee 2' Layup,,Faried BLOCK (1 BLK),,
+0021200754,280,4,0,3,7:23 PM,9:13,,,Iguodala REBOUND (Off:0 Def:2),,
+0021200754,281,1,1,3,7:23 PM,9:07,,,Lawson 26' 3PT Jump Shot (11 PTS) (Iguodala 3 AST),51 - 55,4
+0021200754,287,6,1,3,7:24 PM,8:53,,,Faried P.FOUL (P2.T1),,
+0021200754,286,6,1,3,7:24 PM,8:47,,,Iguodala P.FOUL (P1.T2),,
+0021200754,288,3,13,3,7:25 PM,8:47,Pierce Free Throw 1 of 3 (15 PTS),,,51 - 56,5
+0021200754,290,3,14,3,7:25 PM,8:47,Pierce Free Throw 2 of 3 (16 PTS),,,51 - 57,6
+0021200754,292,3,15,3,7:25 PM,8:47,Pierce Free Throw 3 of 3 (17 PTS),,,51 - 58,7
+0021200754,294,6,4,3,7:25 PM,8:34,,,Faried OFF.Foul (P3),,
+0021200754,295,5,5,3,7:25 PM,8:34,,,Faried Foul Turnover (P3.T13),,
+0021200754,297,2,1,3,7:26 PM,8:20,MISS Garnett 19' Jump Shot,,,,
+0021200754,298,4,0,3,7:26 PM,8:19,,,Gallinari REBOUND (Off:1 Def:4),,
+0021200754,300,2,1,3,7:26 PM,8:03,,,MISS Iguodala 26' 3PT Jump Shot,,
+0021200754,301,4,0,3,7:26 PM,8:02,Garnett REBOUND (Off:1 Def:8),,,,
+0021200754,302,6,29,3,7:26 PM,7:55,,,Koufos Shooting Block Foul (P1.T3),,
+0021200754,303,3,11,3,7:26 PM,7:55,Pierce Free Throw 1 of 2 (18 PTS),,,51 - 59,8
+0021200754,306,3,12,3,7:27 PM,7:55,Pierce Free Throw 2 of 2 (19 PTS),,,51 - 60,9
+0021200754,309,1,5,3,7:27 PM,7:37,,,Koufos 2' Layup (8 PTS) (Iguodala 4 AST),53 - 60,7
+0021200754,310,1,5,3,7:28 PM,7:16,Garnett 3' Layup (7 PTS) (Pierce 5 AST),,,53 - 62,9
+0021200754,311,6,2,3,7:28 PM,7:16,,,Iguodala S.FOUL (P2.T4),,
+0021200754,313,8,0,3,7:28 PM,7:16,,,SUB: Brewer FOR Iguodala,,
+0021200754,314,3,10,3,7:28 PM,7:16,Garnett Free Throw 1 of 1 (8 PTS),,,53 - 63,10
+0021200754,316,6,26,3,7:28 PM,7:04,,,Brewer Offensive Charge Foul (P2.PN),,
+0021200754,317,5,5,3,7:28 PM,7:04,,,Brewer Foul Turnover (P1.T14),,
+0021200754,318,6,1,3,7:29 PM,6:57,,,Brewer P.FOUL (P3.PN),,
+0021200754,319,3,11,3,7:29 PM,6:57,Pierce Free Throw 1 of 2 (20 PTS),,,53 - 64,11
+0021200754,321,8,0,3,7:29 PM,6:57,SUB: Terry FOR Lee,,,,
+0021200754,322,3,12,3,7:29 PM,6:57,Pierce Free Throw 2 of 2 (21 PTS),,,53 - 65,12
+0021200754,325,1,1,3,7:30 PM,6:42,,,Brewer 18' Jump Shot (9 PTS) (Lawson 5 AST),55 - 65,10
+0021200754,326,5,1,3,7:30 PM,6:35,Garnett Bad Pass Turnover (P1.T13),,,,
+0021200754,327,2,1,3,7:30 PM,6:27,,,MISS Brewer 17' Jump Shot,,
+0021200754,329,4,0,3,7:30 PM,6:27,,,Faried REBOUND (Off:2 Def:3),,
+0021200754,330,2,5,3,7:30 PM,6:24,Garnett BLOCK (3 BLK),,MISS Faried  Layup,,
+0021200754,331,4,0,3,7:30 PM,6:23,Pierce REBOUND (Off:0 Def:7),,,,
+0021200754,332,2,1,3,7:30 PM,6:18,MISS Pierce 25' 3PT Jump Shot,,,,
+0021200754,333,4,0,3,7:30 PM,6:17,Bass REBOUND (Off:2 Def:1),,,,
+0021200754,334,1,5,3,7:30 PM,5:59,Bradley 2' Layup (10 PTS) (Pierce 6 AST),,,55 - 67,12
+0021200754,335,1,1,3,7:31 PM,5:46,,,Lawson 26' 3PT Jump Shot (14 PTS) (Faried 1 AST),58 - 67,9
+0021200754,336,2,1,3,7:31 PM,5:25,MISS Garnett 20' Jump Shot,,,,
+0021200754,337,4,0,3,7:31 PM,5:24,,,Gallinari REBOUND (Off:1 Def:5),,
+0021200754,338,5,1,3,7:31 PM,5:16,Bradley STEAL (3 STL),,Gallinari Bad Pass Turnover (P3.T15),,
+0021200754,339,1,1,3,7:31 PM,5:10,Terry 17' Jump Shot (12 PTS) (Bradley 4 AST),,,58 - 69,11
+0021200754,340,9,1,3,7:31 PM,5:10,,,Nuggets Timeout: Regular (Reg.3 Short 0),,
+0021200754,342,8,0,3,7:34 PM,5:10,SUB: Wilcox FOR Garnett,,,,
+0021200754,343,8,0,3,7:34 PM,5:10,,,SUB: Chandler FOR Gallinari,,
+0021200754,344,8,0,3,7:34 PM,5:10,,,SUB: Miller FOR Faried,,
+0021200754,345,8,0,3,7:34 PM,5:10,,,SUB: McGee FOR Koufos,,
+0021200754,346,6,27,3,7:34 PM,5:01,Bradley Personal Block Foul (P3.T2),,,,
+0021200754,347,2,3,3,7:34 PM,4:54,,,MISS McGee 8' Hook Shot,,
+0021200754,348,4,0,3,7:34 PM,4:53,Pierce REBOUND (Off:0 Def:8),,,,
+0021200754,349,2,1,3,7:35 PM,4:46,MISS Pierce 11' Jump Shot,,Brewer BLOCK (1 BLK),,
+0021200754,350,4,0,3,7:35 PM,4:43,,,Chandler REBOUND (Off:0 Def:2),,
+0021200754,351,1,7,3,7:35 PM,4:39,,,McGee 1' Dunk (4 PTS) (Chandler 1 AST),60 - 69,9
+0021200754,352,2,5,3,7:35 PM,4:11,MISS Wilcox 2' Layup,,,,
+0021200754,353,4,0,3,7:35 PM,4:10,,,Chandler REBOUND (Off:0 Def:3),,
+0021200754,354,2,5,3,7:35 PM,4:02,,,MISS Chandler 1' Layup,,
+0021200754,355,4,0,3,7:35 PM,4:01,,,Nuggets Rebound,,
+0021200754,356,5,4,3,7:35 PM,4:01,,,Chandler Traveling Turnover (P1.T16),,
+0021200754,357,9,1,3,7:35 PM,4:01,CELTICS Timeout: Regular (Full 3 Short 1),,,,
+0021200754,359,8,0,3,7:38 PM,4:01,SUB: Green FOR Bass,,,,
+0021200754,360,2,5,3,7:38 PM,3:51,MISS Wilcox 3' Layup,,,,
+0021200754,361,4,0,3,7:38 PM,3:49,CELTICS Rebound,,,,
+0021200754,362,8,0,3,7:38 PM,3:49,SUB: Barbosa FOR Bradley,,,,
+0021200754,363,2,1,3,7:39 PM,3:43,MISS Pierce 15' Jump Shot,,,,
+0021200754,364,4,0,3,7:39 PM,3:42,,,Brewer REBOUND (Off:2 Def:1),,
+0021200754,365,2,1,3,7:39 PM,3:24,,,MISS Brewer 24' 3PT Jump Shot,,
+0021200754,366,4,0,3,7:39 PM,3:23,CELTICS Rebound,,,,
+0021200754,369,6,3,3,7:39 PM,3:23,,,McGee L.B.FOUL (P1.PN),,
+0021200754,370,3,11,3,7:39 PM,3:23,MISS Wilcox Free Throw 1 of 2,,,,
+0021200754,371,4,1,3,7:39 PM,3:23,CELTICS Rebound,,,,
+0021200754,372,3,12,3,7:40 PM,3:23,MISS Wilcox Free Throw 2 of 2,,,,
+0021200754,374,4,0,3,7:40 PM,3:22,,,McGee REBOUND (Off:3 Def:3),,
+0021200754,375,1,47,3,7:40 PM,3:12,,,Lawson 14' Turnaround Jump Shot (16 PTS),62 - 69,7
+0021200754,376,2,1,3,7:40 PM,2:50,MISS Terry 24' 3PT Jump Shot,,,,
+0021200754,377,4,0,3,7:41 PM,2:49,CELTICS Rebound,,,,
+0021200754,378,2,56,3,7:41 PM,2:36,MISS Green 4' Running Hook Shot,,,,
+0021200754,379,4,0,3,7:41 PM,2:34,,,Brewer REBOUND (Off:2 Def:2),,
+0021200754,380,2,1,3,7:41 PM,2:26,,,MISS Chandler 26' 3PT Jump Shot,,
+0021200754,381,4,0,3,7:41 PM,2:25,Pierce REBOUND (Off:0 Def:9),,,,
+0021200754,382,1,1,3,7:41 PM,2:17,Terry 25' 3PT Jump Shot (15 PTS) (Barbosa 1 AST),,,62 - 72,10
+0021200754,383,1,1,3,7:42 PM,1:57,,,Lawson 25' 3PT Jump Shot (19 PTS) (Miller 2 AST),65 - 72,7
+0021200754,384,1,1,3,7:42 PM,1:45,Terry 24' 3PT Jump Shot (18 PTS),,,65 - 75,10
+0021200754,385,5,1,3,7:42 PM,1:35,Wilcox STEAL (1 STL),,Lawson Bad Pass Turnover (P4.T17),,
+0021200754,386,2,1,3,7:42 PM,1:26,MISS Pierce 26' 3PT Jump Shot,,,,
+0021200754,387,4,0,3,7:42 PM,1:25,,,McGee REBOUND (Off:3 Def:4),,
+0021200754,388,2,1,3,7:42 PM,1:13,Wilcox BLOCK (1 BLK),,MISS Lawson 4' Jump Shot,,
+0021200754,389,4,0,3,7:43 PM,1:12,,,Nuggets Rebound,,
+0021200754,390,1,63,3,7:43 PM,1:00,,,Chandler 25' 3PT Fadeaway Jumper (5 PTS),68 - 75,7
+0021200754,391,2,1,3,7:44 PM,0:46,MISS Terry 26' 3PT Jump Shot,,,,
+0021200754,392,4,0,3,7:44 PM,0:46,,,McGee REBOUND (Off:3 Def:5),,
+0021200754,393,2,1,3,7:44 PM,0:33,,,MISS Brewer 8' Jump Shot,,
+0021200754,394,4,0,3,7:44 PM,0:32,,,Miller REBOUND (Off:2 Def:1),,
+0021200754,396,7,2,3,7:44 PM,0:28,Pierce Violation:Defensive Goaltending,,,,
+0021200754,395,1,5,3,7:44 PM,0:28,,,Brewer 1' Layup (11 PTS) (Miller 3 AST),70 - 75,5
+0021200754,397,1,1,3,7:45 PM,0:05,Barbosa 24' 3PT Jump Shot (5 PTS) (Pierce 7 AST),,,70 - 78,8
+0021200754,398,2,5,3,7:45 PM,0:00,,,MISS Miller 2' Layup,,
+0021200754,399,4,0,3,7:45 PM,0:00,,,Nuggets Rebound,,
+0021200754,400,13,0,3,7:45 PM,0:00,,,,70 - 78,8
+0021200754,402,12,0,4,7:48 PM,12:00,,,,70 - 78,8
+0021200754,403,2,1,4,7:48 PM,11:44,MISS Lee 24' 3PT Jump Shot,,,,
+0021200754,404,4,0,4,7:48 PM,11:43,,,McGee REBOUND (Off:3 Def:6),,
+0021200754,405,1,40,4,7:48 PM,11:33,,,Lawson 1' Layup (21 PTS),72 - 78,6
+0021200754,407,2,1,4,7:49 PM,11:09,MISS Barbosa 9' Jump Shot,,,,
+0021200754,408,4,0,4,7:49 PM,11:09,,,Chandler REBOUND (Off:0 Def:4),,
+0021200754,409,6,1,4,7:49 PM,11:09,Barbosa P.FOUL (P2.T1),,,,
+0021200754,410,8,0,4,7:49 PM,11:09,,,SUB: Gallinari FOR Lawson,,
+0021200754,411,6,2,4,7:49 PM,11:05,Terry S.FOUL (P1.T2),,,,
+0021200754,412,3,11,4,7:50 PM,11:05,,,Brewer Free Throw 1 of 2 (12 PTS),73 - 78,5
+0021200754,414,3,12,4,7:50 PM,11:05,,,Brewer Free Throw 2 of 2 (13 PTS),74 - 78,4
+0021200754,416,5,2,4,7:50 PM,10:49,Lee Lost Ball Turnover (P4.T14),,Brewer STEAL (3 STL),,
+0021200754,418,1,86,4,7:51 PM,10:32,,,Miller 13' Turnaround Fadeaway (7 PTS),76 - 78,2
+0021200754,419,2,58,4,7:51 PM,10:10,MISS Green 3' Turnaround Hook Shot,,,,
+0021200754,420,4,0,4,7:51 PM,10:09,,,McGee REBOUND (Off:3 Def:7),,
+0021200754,421,1,42,4,7:52 PM,9:54,,,Miller 2' Driving Layup (9 PTS),78 - 78,TIE
+0021200754,422,9,1,4,7:52 PM,9:53,CELTICS Timeout: Regular (Full 4 Short 1),,,,
+0021200754,424,8,0,4,7:54 PM,9:53,SUB: Bradley FOR Barbosa,,,,
+0021200754,425,1,1,4,7:54 PM,9:39,Terry 15' Jump Shot (20 PTS) (Lee 3 AST),,,78 - 80,2
+0021200754,426,2,63,4,7:55 PM,9:18,,,MISS Gallinari 15' Fadeaway Jumper,,
+0021200754,427,4,0,4,7:55 PM,9:18,Green REBOUND (Off:0 Def:3),,,,
+0021200754,428,6,1,4,7:55 PM,9:14,,,Chandler P.FOUL (P2.T1),,
+0021200754,429,3,11,4,7:55 PM,9:14,Green Free Throw 1 of 2 (7 PTS),,,78 - 81,3
+0021200754,431,3,12,4,7:55 PM,9:14,Green Free Throw 2 of 2 (8 PTS),,,78 - 82,4
+0021200754,433,2,73,4,7:56 PM,8:51,,,MISS Brewer 1' Driving Reverse Layup,,
+0021200754,434,4,0,4,7:56 PM,8:50,Garnett REBOUND (Off:1 Def:9),,,,
+0021200754,435,2,5,4,7:56 PM,8:41,MISS Lee 2' Layup,,McGee BLOCK (1 BLK),,
+0021200754,436,4,0,4,7:56 PM,8:39,,,Chandler REBOUND (Off:0 Def:5),,
+0021200754,437,2,1,4,7:56 PM,8:33,,,MISS Gallinari 25' 3PT Jump Shot,,
+0021200754,438,4,0,4,7:56 PM,8:31,Lee REBOUND (Off:0 Def:1),,,,
+0021200754,439,2,86,4,7:56 PM,8:20,MISS Garnett 10' Turnaround Fadeaway Shot,,,,
+0021200754,440,4,0,4,7:56 PM,8:19,,,Gallinari REBOUND (Off:1 Def:6),,
+0021200754,441,2,58,4,7:57 PM,8:00,,,MISS McGee 10' Turnaround Hook Shot,,
+0021200754,442,4,0,4,7:57 PM,7:59,Garnett REBOUND (Off:1 Def:10),,,,
+0021200754,443,2,73,4,7:57 PM,7:44,MISS Bradley 2' Driving Reverse Layup,,McGee BLOCK (2 BLK),,
+0021200754,444,4,0,4,7:57 PM,7:42,,,Gallinari REBOUND (Off:1 Def:7),,
+0021200754,445,2,1,4,7:57 PM,7:31,,,MISS Miller 4' Jump Shot,,
+0021200754,446,4,0,4,7:57 PM,7:30,,,Nuggets Rebound,,
+0021200754,447,8,0,4,7:57 PM,7:30,,,SUB: Faried FOR McGee,,
+0021200754,448,8,0,4,7:58 PM,7:30,,,SUB: Lawson FOR Miller,,
+0021200754,449,8,0,4,7:58 PM,7:30,SUB: Pierce FOR Lee,,,,
+0021200754,450,2,1,4,7:58 PM,7:16,,,MISS Gallinari 26' 3PT Jump Shot,,
+0021200754,451,4,0,4,7:58 PM,7:15,Pierce REBOUND (Off:0 Def:10),,,,
+0021200754,452,1,1,4,7:58 PM,7:04,Bradley  3PT Jump Shot (13 PTS) (Garnett 3 AST),,,78 - 85,7
+0021200754,453,1,63,4,7:58 PM,6:49,,,Chandler 9' Fadeaway Jumper (7 PTS),80 - 85,5
+0021200754,454,2,1,4,7:59 PM,6:26,MISS Garnett 23' Jump Shot,,,,
+0021200754,455,4,0,4,7:59 PM,6:25,,,Chandler REBOUND (Off:0 Def:6),,
+0021200754,456,5,1,4,7:59 PM,6:16,,,Lawson Bad Pass Turnover (P5.T18),,
+0021200754,457,1,1,4,8:00 PM,5:58,Garnett 18' Jump Shot (10 PTS) (Terry 1 AST),,,80 - 87,7
+0021200754,458,9,1,4,8:00 PM,5:58,,,Nuggets Timeout: Regular (Reg.4 Short 0),,
+0021200754,460,8,0,4,8:02 PM,5:58,,,SUB: McGee FOR Chandler,,
+0021200754,461,5,1,4,8:02 PM,5:33,Green STEAL (1 STL),,Gallinari Bad Pass Turnover (P4.T19),,
+0021200754,462,2,80,4,8:03 PM,5:13,MISS Garnett 10' Step Back Jump Shot,,,,
+0021200754,463,4,0,4,8:03 PM,5:11,,,McGee REBOUND (Off:3 Def:8),,
+0021200754,464,2,1,4,8:03 PM,5:04,,,MISS Lawson 17' Jump Shot,,
+0021200754,465,4,0,4,8:03 PM,5:02,,,Lawson REBOUND (Off:1 Def:2),,
+0021200754,466,1,1,4,8:03 PM,4:59,,,Gallinari 25' 3PT Jump Shot (8 PTS) (Lawson 6 AST),83 - 87,4
+0021200754,467,2,1,4,8:03 PM,4:34,MISS Terry 26' 3PT Jump Shot,,,,
+0021200754,468,4,0,4,8:03 PM,4:33,,,Faried REBOUND (Off:2 Def:4),,
+0021200754,469,6,27,4,8:03 PM,4:25,Bradley Personal Block Foul (P4.T3),,,,
+0021200754,470,8,0,4,8:04 PM,4:25,SUB: Bass FOR Terry,,,,
+0021200754,471,8,0,4,8:04 PM,4:25,,,SUB: Miller FOR Brewer,,
+0021200754,472,2,1,4,8:04 PM,4:14,,,MISS Miller 12' Jump Shot,,
+0021200754,473,4,0,4,8:04 PM,4:13,Bradley REBOUND (Off:0 Def:1),,,,
+0021200754,474,2,1,4,8:04 PM,3:57,MISS Pierce 25' 3PT Jump Shot,,,,
+0021200754,475,4,0,4,8:04 PM,3:55,Bradley REBOUND (Off:1 Def:1),,,,
+0021200754,476,1,3,4,8:04 PM,3:41,Green 3' Hook Shot (10 PTS),,,83 - 89,6
+0021200754,477,2,1,4,8:05 PM,3:28,,,MISS McGee 8' Jump Shot,,
+0021200754,478,4,0,4,8:05 PM,3:27,Garnett REBOUND (Off:1 Def:11),,,,
+0021200754,479,2,1,4,8:05 PM,3:04,MISS Green 4' Jump Shot,,McGee BLOCK (3 BLK),,
+0021200754,480,4,0,4,8:05 PM,3:03,,,Lawson REBOUND (Off:1 Def:3),,
+0021200754,481,1,5,4,8:05 PM,3:00,,,Miller 1' Layup (11 PTS) (Lawson 7 AST),85 - 89,4
+0021200754,482,2,1,4,8:05 PM,2:41,MISS Pierce 19' Jump Shot,,,,
+0021200754,483,4,0,4,8:06 PM,2:40,,,Lawson REBOUND (Off:1 Def:4),,
+0021200754,484,1,5,4,8:06 PM,2:34,,,Faried 1' Layup (10 PTS) (Lawson 8 AST),87 - 89,2
+0021200754,485,6,2,4,8:06 PM,2:34,Garnett S.FOUL (P2.T4),,,,
+0021200754,486,9,4,4,8:06 PM,2:34,,,,,
+0021200754,488,8,0,4,8:08 PM,2:34,SUB: Terry FOR Green,,,,
+0021200754,489,3,10,4,8:08 PM,2:34,,,Faried Free Throw 1 of 1 (11 PTS),88 - 89,1
+0021200754,491,2,1,4,8:09 PM,2:18,MISS Garnett 23' Jump Shot,,,,
+0021200754,492,4,0,4,8:09 PM,2:16,,,Faried REBOUND (Off:2 Def:5),,
+0021200754,493,2,1,4,8:09 PM,1:51,,,MISS Faried 9' Jump Shot,,
+0021200754,494,4,0,4,8:09 PM,1:49,,,Faried REBOUND (Off:3 Def:5),,
+0021200754,495,1,1,4,8:09 PM,1:43,,,Lawson 20' Jump Shot (23 PTS) (Gallinari 3 AST),90 - 89,-1
+0021200754,496,6,11,4,8:10 PM,1:43,,,Faried T.FOUL (P3.T1),,
+0021200754,497,3,16,4,8:10 PM,1:43,Terry Free Throw Technical (21 PTS),,,90 - 90,TIE
+0021200754,500,18,1,4,8:11 PM,1:27,,,,,
+0021200754,502,9,1,4,8:13 PM,1:25,CELTICS Timeout: Regular (Full 5 Short 1),,,,
+0021200754,505,8,0,4,8:15 PM,1:25,SUB: Green FOR Bass,,,,
+0021200754,506,5,1,4,8:15 PM,1:23,Pierce Bad Pass Turnover (P4.T15),,Gallinari STEAL (2 STL),,
+0021200754,507,2,1,4,8:15 PM,1:04,,,MISS Miller 7' Jump Shot,,
+0021200754,508,4,0,4,8:15 PM,1:03,Garnett REBOUND (Off:1 Def:12),,,,
+0021200754,509,1,1,4,8:16 PM,0:47,Green 16' Jump Shot (12 PTS) (Garnett 4 AST),,,90 - 92,2
+0021200754,510,2,1,4,8:16 PM,0:35,,,MISS Miller 24' 3PT Jump Shot,,
+0021200754,511,4,0,4,8:16 PM,0:35,CELTICS Rebound,,,,
+0021200754,512,2,1,4,8:17 PM,0:12,MISS Garnett 20' Jump Shot,,,,
+0021200754,513,4,0,4,8:17 PM,0:12,,,Faried REBOUND (Off:3 Def:6),,
+0021200754,514,6,29,4,8:17 PM,0:05,Pierce Shooting Block Foul (P3.PN),,,,
+0021200754,515,3,11,4,8:17 PM,0:05,,,MISS Faried Free Throw 1 of 2,,
+0021200754,516,4,1,4,8:17 PM,0:05,,,Nuggets Rebound,,
+0021200754,517,9,1,4,8:17 PM,0:05,,,Nuggets Timeout: Regular (Reg.5 Short 0),,
+0021200754,519,8,0,4,8:18 PM,0:05,SUB: Collins FOR Terry,,,,
+0021200754,520,8,0,4,8:18 PM,0:05,,,SUB: Chandler FOR Lawson,,
+0021200754,521,3,12,4,8:19 PM,0:05,,,MISS Faried Free Throw 2 of 2,,
+0021200754,523,4,0,4,8:19 PM,0:04,,,Miller REBOUND (Off:3 Def:1),,
+0021200754,524,2,5,4,8:19 PM,0:04,,,MISS Miller 1' Layup,,
+0021200754,525,4,0,4,8:19 PM,0:03,,,Nuggets Rebound,,
+0021200754,528,18,1,4,8:20 PM,0:03,,,,,
+0021200754,530,9,2,4,8:22 PM,0:03,,,Nuggets Timeout: Short (Reg.5 Short 1),,
+0021200754,533,8,0,4,8:23 PM,0:03,SUB: Lee FOR Collins,,,,
+0021200754,534,8,0,4,8:23 PM,0:03,,,SUB: Lawson FOR Faried,,
+0021200754,535,8,0,4,8:23 PM,0:03,,,SUB: Brewer FOR McGee,,
+0021200754,536,9,2,4,8:24 PM,0:03,,,Nuggets Timeout: Short (Reg.5 Short 2),,
+0021200754,537,1,84,4,8:25 PM,0:00,,,Lawson 5' Running Bank Shot (25 PTS) (Miller 4 AST),92 - 92,TIE
+0021200754,538,9,2,4,8:25 PM,0:00,CELTICS Timeout: Short (Full 5 Short 2),,,,
+0021200754,539,8,0,4,8:26 PM,0:00,,,SUB: McGee FOR Lawson,,
+0021200754,540,8,0,4,8:26 PM,0:00,,,SUB: Faried FOR Miller,,
+0021200754,541,8,0,4,8:26 PM,0:00,SUB: Terry FOR Bradley,,,,
+0021200754,542,2,1,4,8:27 PM,0:00,MISS Terry 28' 3PT Jump Shot,,,,
+0021200754,543,4,0,4,8:27 PM,0:00,CELTICS Rebound,,,,
+0021200754,544,13,0,4,8:27 PM,0:00,,,,92 - 92,TIE
+0021200754,546,12,0,5,8:29 PM,5:00,,,,92 - 92,TIE
+0021200754,547,10,0,5,8:29 PM,5:00,Jump Ball Garnett vs. McGee: Tip to Gallinari,,,,
+0021200754,548,2,1,5,8:29 PM,4:48,,,MISS Lawson 11' Jump Shot,,
+0021200754,549,4,0,5,8:29 PM,4:47,Pierce REBOUND (Off:0 Def:11),,,,
+0021200754,550,1,80,5,8:29 PM,4:29,Pierce 10' Step Back Jump Shot (23 PTS),,,92 - 94,2
+0021200754,551,2,1,5,8:30 PM,4:06,Green BLOCK (3 BLK),,MISS Gallinari 8' Jump Shot,,
+0021200754,552,4,0,5,8:30 PM,4:05,,,Faried REBOUND (Off:4 Def:6),,
+0021200754,553,1,58,5,8:30 PM,4:03,,,Faried 5' Turnaround Hook Shot (13 PTS),94 - 94,TIE
+0021200754,554,2,1,5,8:30 PM,3:41,MISS Garnett 19' Jump Shot,,,,
+0021200754,555,4,0,5,8:30 PM,3:40,,,Gallinari REBOUND (Off:1 Def:8),,
+0021200754,556,1,42,5,8:30 PM,3:24,,,Miller 1' Driving Layup (13 PTS) (Lawson 9 AST),96 - 94,-2
+0021200754,557,1,1,5,8:31 PM,3:07,Garnett 12' Jump Shot (12 PTS) (Pierce 8 AST),,,96 - 96,TIE
+0021200754,558,6,2,5,8:31 PM,2:55,Green S.FOUL (P3.T1),,,,
+0021200754,559,3,11,5,8:31 PM,2:55,,,Faried Free Throw 1 of 2 (14 PTS),97 - 96,-1
+0021200754,561,8,0,5,8:31 PM,2:55,SUB: Bass FOR Green,,,,
+0021200754,562,3,12,5,8:31 PM,2:55,,,MISS Faried Free Throw 2 of 2,,
+0021200754,564,4,0,5,8:32 PM,2:54,Pierce REBOUND (Off:0 Def:12),,,,
+0021200754,565,6,1,5,8:32 PM,2:54,,,Faried P.FOUL (P4.T1),,
+0021200754,566,2,1,5,8:32 PM,2:33,MISS Bass 9' Jump Shot,,,,
+0021200754,567,4,0,5,8:32 PM,2:33,Garnett REBOUND (Off:2 Def:12),,,,
+0021200754,568,2,1,5,8:33 PM,2:19,MISS Garnett 12' Jump Shot,,,,
+0021200754,569,4,0,5,8:33 PM,2:17,Garnett REBOUND (Off:3 Def:12),,,,
+0021200754,570,2,1,5,8:33 PM,2:14,MISS Terry  3PT Jump Shot,,,,
+0021200754,571,4,0,5,8:33 PM,2:13,,,Faried REBOUND (Off:4 Def:7),,
+0021200754,572,2,1,5,8:33 PM,1:53,,,MISS Gallinari 21' Jump Shot,,
+0021200754,573,4,0,5,8:33 PM,1:52,Garnett REBOUND (Off:3 Def:13),,,,
+0021200754,574,2,1,5,8:33 PM,1:46,MISS Terry 25' 3PT Jump Shot,,,,
+0021200754,575,4,0,5,8:33 PM,1:45,,,Nuggets Rebound,,
+0021200754,576,1,80,5,8:34 PM,1:30,,,Miller 18' Step Back Jump Shot (15 PTS),99 - 96,-3
+0021200754,577,9,1,5,8:34 PM,1:30,CELTICS Timeout: Regular (Full 6 Short 2),,,,
+0021200754,579,8,0,5,8:35 PM,1:30,SUB: Green FOR Bass,,,,
+0021200754,580,2,1,5,8:36 PM,1:10,MISS Pierce 25' 3PT Jump Shot,,,,
+0021200754,581,4,0,5,8:36 PM,1:09,,,McGee REBOUND (Off:3 Def:9),,
+0021200754,582,2,1,5,8:36 PM,0:46,,,MISS Miller 8' Jump Shot,,
+0021200754,583,4,0,5,8:36 PM,0:45,Bradley REBOUND (Off:1 Def:2),,,,
+0021200754,584,1,1,5,8:37 PM,0:23,Green  3PT Jump Shot (15 PTS) (Garnett 5 AST),,,99 - 99,TIE
+0021200754,585,9,1,5,8:37 PM,0:23,,,Nuggets Timeout: Regular (Reg.6 Short 2),,
+0021200754,587,8,0,5,8:39 PM,0:23,SUB: Lee FOR Terry,,,,
+0021200754,588,8,0,5,8:39 PM,0:23,SUB: Bass FOR Green,,,,
+0021200754,589,6,28,5,8:39 PM,0:05,Bradley Personal Take Foul (P5.T2),,,,
+0021200754,590,9,2,5,8:39 PM,0:05,,,Nuggets Timeout: Short (Reg.6 Short 3),,
+0021200754,592,8,0,5,8:40 PM,0:05,,,SUB: Chandler FOR McGee,,
+0021200754,593,8,0,5,8:40 PM,0:05,SUB: Green FOR Bass,,,,
+0021200754,596,2,1,5,8:41 PM,0:00,,,MISS Lawson 25' 3PT Jump Shot,,
+0021200754,597,4,0,5,8:41 PM,0:00,,,Nuggets Rebound,,
+0021200754,599,13,0,5,8:41 PM,0:00,,,,99 - 99,TIE
+0021200754,601,12,0,6,8:43 PM,5:00,,,,99 - 99,TIE
+0021200754,602,10,0,6,8:43 PM,5:00,Jump Ball Green vs. McGee: Tip to Lawson,,,,
+0021200754,604,1,78,6,8:43 PM,4:35,,,Lawson 3' Floating Jump Shot (27 PTS),101 - 99,-2
+0021200754,605,2,80,6,8:44 PM,4:12,MISS Pierce 16' Step Back Jump Shot,,,,
+0021200754,606,4,0,6,8:44 PM,4:11,,,Chandler REBOUND (Off:0 Def:7),,
+0021200754,607,2,5,6,8:44 PM,3:49,,,MISS Miller 2' Layup,,
+0021200754,608,4,0,6,8:44 PM,3:48,CELTICS Rebound,,,,
+0021200754,609,2,78,6,8:45 PM,3:25,MISS Terry 5' Floating Jump Shot,,,,
+0021200754,610,4,0,6,8:45 PM,3:24,Bass REBOUND (Off:3 Def:1),,,,
+0021200754,612,2,1,6,8:45 PM,3:14,MISS Pierce 13' Jump Shot,,,,
+0021200754,613,4,0,6,8:45 PM,3:13,,,McGee REBOUND (Off:3 Def:10),,
+0021200754,614,2,86,6,8:45 PM,2:56,,,MISS Chandler 11' Turnaround Fadeaway Shot,,
+0021200754,615,4,0,6,8:45 PM,2:55,Pierce REBOUND (Off:0 Def:13),,,,
+0021200754,616,5,2,6,8:45 PM,2:50,Green Lost Ball Turnover (P4.T16),,Gallinari STEAL (3 STL),,
+0021200754,617,1,5,6,8:45 PM,2:45,,,Gallinari 1' Layup (10 PTS) (Miller 5 AST),103 - 99,-4
+0021200754,618,9,1,6,8:46 PM,2:45,CELTICS Timeout: Regular (Full 7 Short 2),,,,
+0021200754,620,8,0,6,8:47 PM,2:45,SUB: Garnett FOR Bass,,,,
+0021200754,621,2,1,6,8:48 PM,2:27,MISS Terry 26' 3PT Jump Shot,,,,
+0021200754,622,4,0,6,8:48 PM,2:26,,,McGee REBOUND (Off:3 Def:11),,
+0021200754,623,2,1,6,8:48 PM,2:08,,,MISS Lawson 22' Jump Shot,,
+0021200754,624,4,0,6,8:48 PM,2:07,Pierce REBOUND (Off:0 Def:14),,,,
+0021200754,625,2,1,6,8:48 PM,2:00,MISS Bradley  3PT Jump Shot,,,,
+0021200754,626,4,0,6,8:48 PM,1:59,,,McGee REBOUND (Off:3 Def:12),,
+0021200754,627,2,1,6,8:48 PM,1:43,,,MISS Chandler 15' Jump Shot,,
+0021200754,628,4,0,6,8:48 PM,1:42,Green REBOUND (Off:0 Def:4),,,,
+0021200754,629,6,27,6,8:48 PM,1:40,,,Lawson Personal Block Foul (P2.T1),,
+0021200754,630,1,56,6,8:49 PM,1:28,Green 4' Running Hook Shot (17 PTS) (Pierce 9 AST),,,103 - 101,-2
+0021200754,631,5,1,6,8:49 PM,1:07,Green STEAL (2 STL),,Miller Bad Pass Turnover (P4.T20),,
+0021200754,632,2,1,6,8:50 PM,1:02,MISS Green 5' Jump Shot,,,,
+0021200754,634,4,0,6,8:50 PM,1:01,CELTICS Rebound,,,,
+0021200754,635,18,0,6,8:50 PM,1:01,,,,,
+0021200754,636,1,1,6,8:52 PM,0:58,Garnett 15' Jump Shot (14 PTS) (Pierce 10 AST),,,103 - 103,TIE
+0021200754,637,1,79,6,8:52 PM,0:37,,,Gallinari 19' Pullup Jump Shot (12 PTS),105 - 103,-2
+0021200754,638,9,1,6,8:52 PM,0:37,CELTICS Timeout: Regular (Full 8 Short 2),,,,
+0021200754,640,6,1,6,8:54 PM,0:32,,,Miller P.FOUL (P1.PN),,
+0021200754,641,3,11,6,8:54 PM,0:32,Pierce Free Throw 1 of 2 (24 PTS),,,105 - 104,-1
+0021200754,644,8,0,6,8:55 PM,0:32,SUB: Lee FOR Terry,,,,
+0021200754,645,3,12,6,8:55 PM,0:32,MISS Pierce Free Throw 2 of 2,,,,
+0021200754,647,4,0,6,8:55 PM,0:31,,,McGee REBOUND (Off:3 Def:13),,
+0021200754,648,1,1,6,8:55 PM,0:18,,,Lawson 19' Jump Shot (29 PTS) (Miller 6 AST),107 - 104,-3
+0021200754,649,9,2,6,8:55 PM,0:18,CELTICS Timeout: Short (Full 8 Short 3),,,,
+0021200754,652,8,0,6,8:56 PM,0:18,,,SUB: Brewer FOR McGee,,
+0021200754,653,8,0,6,8:56 PM,0:18,SUB: Terry FOR Lee,,,,
+0021200754,654,1,1,6,8:57 PM,0:05,Pierce 24' 3PT Jump Shot (27 PTS) (Green 1 AST),,,107 - 107,TIE
+0021200754,655,9,1,6,8:57 PM,0:05,,,Nuggets Timeout: Regular (Reg.7 Short 3),,
+0021200754,658,8,0,6,8:59 PM,0:05,SUB: Lee FOR Terry,,,,
+0021200754,659,18,0,6,8:59 PM,0:05,,,,,
+0021200754,660,2,5,6,9:00 PM,0:01,,,MISS Gallinari 3' Layup,,
+0021200754,661,4,0,6,9:01 PM,0:00,,,Nuggets Rebound,,
+0021200754,662,13,0,6,9:01 PM,0:00,,,,107 - 107,TIE
+0021200754,664,12,0,7,9:02 PM,5:00,,,,107 - 107,TIE
+0021200754,665,10,0,7,9:03 PM,5:00,Jump Ball Garnett vs. McGee: Tip to Terry,,,,
+0021200754,666,1,63,7,9:03 PM,4:43,Garnett 9' Fadeaway Jumper (16 PTS) (Pierce 11 AST),,,107 - 109,2
+0021200754,667,2,1,7,9:03 PM,4:19,,,MISS Gallinari 27' 3PT Jump Shot,,
+0021200754,668,4,0,7,9:03 PM,4:18,Bradley REBOUND (Off:1 Def:3),,,,
+0021200754,669,1,1,7,9:04 PM,4:08,Garnett 22' Jump Shot (18 PTS) (Pierce 12 AST),,,107 - 111,4
+0021200754,670,2,79,7,9:04 PM,3:53,,,MISS Lawson 12' Pullup Jump Shot,,
+0021200754,671,4,0,7,9:04 PM,3:53,Bradley REBOUND (Off:1 Def:4),,,,
+0021200754,672,2,1,7,9:04 PM,3:36,MISS Garnett 21' Jump Shot,,,,
+0021200754,673,4,0,7,9:04 PM,3:35,,,Gallinari REBOUND (Off:1 Def:9),,
+0021200754,674,1,76,7,9:04 PM,3:16,,,Gallinari 2' Running Finger Roll Layup (14 PTS),109 - 111,2
+0021200754,675,2,1,7,9:05 PM,2:52,MISS Terry 20' Jump Shot,,,,
+0021200754,676,4,0,7,9:05 PM,2:51,,,Chandler REBOUND (Off:0 Def:8),,
+0021200754,677,6,2,7,9:05 PM,2:40,Pierce S.FOUL (P4.T1),,,,
+0021200754,678,3,11,7,9:05 PM,2:40,,,McGee Free Throw 1 of 2 (5 PTS),110 - 111,1
+0021200754,680,3,12,7,9:06 PM,2:40,,,MISS McGee Free Throw 2 of 2,,
+0021200754,682,4,0,7,9:06 PM,2:39,Garnett REBOUND (Off:3 Def:14),,,,
+0021200754,683,1,80,7,9:06 PM,2:19,Garnett 16' Step Back Jump Shot (20 PTS) (Pierce 13 AST),,,110 - 113,3
+0021200754,684,9,1,7,9:06 PM,2:19,,,Nuggets Timeout: Regular (Reg.8 Short 3),,
+0021200754,686,8,0,7,9:08 PM,2:19,,,SUB: Faried FOR McGee,,
+0021200754,687,1,80,7,9:08 PM,1:56,,,Gallinari 24' 3PT Step Back Jump Shot (17 PTS),113 - 113,TIE
+0021200754,688,6,1,7,9:09 PM,1:45,,,Faried P.FOUL (P5.T1),,
+0021200754,689,1,1,7,9:10 PM,1:33,Terry 25' 3PT Jump Shot (24 PTS) (Pierce 14 AST),,,113 - 116,3
+0021200754,690,2,1,7,9:10 PM,1:15,,,MISS Gallinari 27' 3PT Jump Shot,,
+0021200754,691,4,0,7,9:10 PM,1:14,,,Lawson REBOUND (Off:2 Def:4),,
+0021200754,692,6,2,7,9:10 PM,1:13,Pierce S.FOUL (P5.T2),,,,
+0021200754,693,3,11,7,9:11 PM,1:13,,,MISS Gallinari Free Throw 1 of 2,,
+0021200754,694,4,1,7,9:11 PM,1:13,,,Nuggets Rebound,,
+0021200754,695,3,12,7,9:11 PM,1:13,,,Gallinari Free Throw 2 of 2 (18 PTS),114 - 116,2
+0021200754,697,2,1,7,9:12 PM,0:49,MISS Garnett 9' Jump Shot,,,,
+0021200754,698,4,0,7,9:12 PM,0:48,,,Miller REBOUND (Off:3 Def:2),,
+0021200754,699,5,2,7,9:12 PM,0:34,Terry STEAL (3 STL),,Miller Lost Ball Turnover (P5.T21),,
+0021200754,700,2,47,7,9:12 PM,0:13,MISS Pierce 14' Turnaround Jump Shot,,,,
+0021200754,701,4,0,7,9:12 PM,0:12,,,Faried REBOUND (Off:4 Def:8),,
+0021200754,702,2,1,7,9:12 PM,0:04,,,MISS Miller 25' 3PT Jump Shot,,
+0021200754,703,4,0,7,9:12 PM,0:03,Garnett REBOUND (Off:3 Def:15),,,,
+0021200754,704,1,5,7,9:12 PM,0:00,Terry  Layup (26 PTS) (Garnett 6 AST),,,114 - 118,4
+0021200754,707,18,0,7,9:13 PM,0:00,,,,,
+0021200754,709,13,0,7,9:15 PM,0:00,,,,114 - 118,4

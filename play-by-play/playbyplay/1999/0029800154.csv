@@ -1,0 +1,536 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029800154,0,12,0,1,11:43 AM,12:00,,,,,
+0029800154,1,10,0,1,11:44 AM,12:00,Jump Ball Ewing vs. Garnett: Tip to Smith,,,,
+0029800154,2,1,6,1,11:44 AM,11:46,,,Marbury  Driving Layup (2 PTS) (Garnett 1 AST),2 - 0,-2
+0029800154,3,5,1,1,11:44 AM,11:26,Houston Bad Pass Turnover (P1.T1),,,,
+0029800154,4,5,1,1,11:44 AM,11:21,Ewing STEAL (1 STL),,Marbury Bad Pass Turnover (P1.T1),,
+0029800154,5,1,5,1,11:45 AM,11:11,Johnson  Layup (2 PTS) (Ward 1 AST),,,2 - 2,TIE
+0029800154,6,2,1,1,11:45 AM,10:51,,,MISS Marbury 20' Jump Shot,,
+0029800154,7,4,0,1,11:45 AM,10:48,Ewing REBOUND (Off:0 Def:1),,,,
+0029800154,8,1,1,1,11:45 AM,10:40,Thomas 9' Jump Shot (2 PTS),,,2 - 4,2
+0029800154,9,6,2,1,11:45 AM,10:40,,,Smith S.FOUL (P1.T1),,
+0029800154,10,3,10,1,11:45 AM,10:40,Thomas Free Throw 1 of 1 (3 PTS),,,2 - 5,3
+0029800154,11,1,1,1,11:46 AM,10:27,,,Garrett 11' Jump Shot (2 PTS) (Marbury 1 AST),4 - 5,1
+0029800154,12,2,1,1,11:46 AM,10:10,MISS Thomas 5' Jump Shot,,,,
+0029800154,13,4,0,1,11:46 AM,10:09,,,Garrett REBOUND (Off:0 Def:1),,
+0029800154,14,5,1,1,11:46 AM,10:02,,,Marbury Bad Pass Turnover (P2.T2),,
+0029800154,15,2,1,1,11:47 AM,9:43,MISS Houston 24' 3PT Jump Shot,,,,
+0029800154,16,4,0,1,11:47 AM,9:40,,,Smith REBOUND (Off:0 Def:1),,
+0029800154,17,6,2,1,11:47 AM,9:37,Houston S.FOUL (P1.T1),,,,
+0029800154,18,3,11,1,11:47 AM,9:37,,,Peeler Free Throw 1 of 2 (1 PTS),5 - 5,TIE
+0029800154,20,3,12,1,11:47 AM,9:37,,,Peeler Free Throw 2 of 2 (2 PTS),6 - 5,-1
+0029800154,21,2,1,1,11:48 AM,9:25,MISS Ewing 5' Jump Shot,,,,
+0029800154,22,4,0,1,11:48 AM,9:23,,,Marbury REBOUND (Off:0 Def:1),,
+0029800154,23,1,1,1,11:48 AM,9:14,,,Garrett 10' Jump Shot (4 PTS) (Marbury 2 AST),8 - 5,-3
+0029800154,24,2,1,1,11:48 AM,8:56,MISS Thomas 5' Jump Shot,,,,
+0029800154,25,4,0,1,11:48 AM,8:55,,,Garrett REBOUND (Off:0 Def:2),,
+0029800154,26,6,2,1,11:48 AM,8:51,Ward S.FOUL (P1.T2),,,,
+0029800154,27,3,11,1,11:48 AM,8:51,,,Marbury Free Throw 1 of 2 (3 PTS),9 - 5,-4
+0029800154,30,9,1,1,11:49 AM,8:51,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0029800154,32,3,12,1,11:51 AM,8:51,,,Marbury Free Throw 2 of 2 (4 PTS),10 - 5,-5
+0029800154,33,1,1,1,11:51 AM,8:42,Ewing 11' Jump Shot (2 PTS) (Thomas 1 AST),,,10 - 7,-3
+0029800154,34,1,2,1,11:52 AM,8:25,,,Peeler 12' Running Jump Shot (4 PTS),12 - 7,-5
+0029800154,35,2,5,1,11:52 AM,8:03,MISS Johnson  Layup,,,,
+0029800154,36,4,0,1,11:52 AM,8:01,,,Garnett REBOUND (Off:0 Def:1),,
+0029800154,37,2,1,1,11:52 AM,7:50,,,MISS Peeler 10' Jump Shot,,
+0029800154,38,4,0,1,11:52 AM,7:49,,,Garrett REBOUND (Off:1 Def:2),,
+0029800154,39,2,5,1,11:52 AM,7:46,Ewing BLOCK (1 BLK),,MISS Garrett 3' Layup,,
+0029800154,41,4,0,1,11:52 AM,7:43,,,Smith REBOUND (Off:1 Def:1),,
+0029800154,40,2,4,1,11:52 AM,7:43,,,MISS Smith  Tip Shot,,
+0029800154,43,4,0,1,11:52 AM,7:41,,,Smith REBOUND (Off:2 Def:1),,
+0029800154,42,2,4,1,11:52 AM,7:41,,,MISS Smith  Tip Shot,,
+0029800154,44,4,0,1,11:52 AM,7:39,Thomas REBOUND (Off:0 Def:1),,,,
+0029800154,45,1,5,1,11:52 AM,7:35,Johnson  Layup (4 PTS) (Ward 2 AST),,,12 - 9,-3
+0029800154,47,2,1,1,11:53 AM,7:21,,,MISS Smith 10' Jump Shot,,
+0029800154,48,4,0,1,11:53 AM,7:20,Thomas REBOUND (Off:0 Def:2),,,,
+0029800154,49,2,1,1,11:53 AM,7:10,MISS Houston 13' Jump Shot,,,,
+0029800154,50,4,0,1,11:53 AM,7:08,,,Garnett REBOUND (Off:0 Def:2),,
+0029800154,51,1,1,1,11:53 AM,6:55,,,Marbury 13' Jump Shot (6 PTS) (Garnett 2 AST),14 - 9,-5
+0029800154,52,2,5,1,11:54 AM,6:41,MISS Ewing 3' Layup,,Garnett BLOCK (1 BLK),,
+0029800154,53,4,0,1,11:54 AM,6:39,,,Peeler REBOUND (Off:0 Def:1),,
+0029800154,54,1,5,1,11:54 AM,6:35,,,Marbury  Layup (8 PTS) (Peeler 1 AST),16 - 9,-7
+0029800154,472,7,1,1,11:54 AM,6:35,,,Timberwolves Violation: Delay of game Violation,,
+0029800154,55,1,1,1,11:54 AM,6:13,Thomas 11' Jump Shot (5 PTS) (Johnson 1 AST),,,16 - 11,-5
+0029800154,56,2,1,1,11:55 AM,6:00,,,MISS Peeler 24' 3PT Jump Shot,,
+0029800154,57,4,0,1,11:55 AM,5:58,,,Garrett REBOUND (Off:2 Def:2),,
+0029800154,58,6,2,1,11:55 AM,5:43,Johnson S.FOUL (P1.T3),,,,
+0029800154,59,8,0,1,11:55 AM,5:43,SUB: Childs FOR Ward,,,,
+0029800154,60,3,11,1,11:55 AM,5:43,,,Smith Free Throw 1 of 2 (1 PTS),17 - 11,-6
+0029800154,61,3,12,1,11:55 AM,5:43,,,MISS Smith Free Throw 2 of 2,,
+0029800154,62,4,0,1,11:56 AM,5:43,,,Garnett REBOUND (Off:1 Def:2),,
+0029800154,63,1,1,1,11:56 AM,5:36,,,Garrett 17' Jump Shot (6 PTS) (Peeler 2 AST),19 - 11,-8
+0029800154,64,2,1,1,11:56 AM,5:16,MISS Ewing 18' Jump Shot,,,,
+0029800154,65,4,0,1,11:56 AM,5:15,,,Marbury REBOUND (Off:0 Def:2),,
+0029800154,66,2,1,1,11:56 AM,5:01,,,MISS Garnett 15' Jump Shot,,
+0029800154,67,4,0,1,11:56 AM,4:59,Childs REBOUND (Off:0 Def:1),,,,
+0029800154,68,7,6,1,11:56 AM,4:55,,,Marbury Violation:Double Lane,,
+0029800154,69,8,0,1,11:57 AM,4:55,SUB: Camby FOR Thomas,,,,
+0029800154,70,5,2,1,11:57 AM,4:45,Houston Lost Ball Turnover (P2.T2),,,,
+0029800154,71,2,3,1,11:58 AM,4:32,,,MISS Garnett 4' Hook Shot,,
+0029800154,72,4,0,1,11:58 AM,4:28,Childs REBOUND (Off:0 Def:2),,,,
+0029800154,73,2,5,1,11:58 AM,4:22,MISS Camby  Layup,,,,
+0029800154,74,4,0,1,11:58 AM,4:20,,,Marbury REBOUND (Off:0 Def:3),,
+0029800154,75,2,1,1,11:58 AM,4:16,,,MISS Marbury 18' Jump Shot,,
+0029800154,76,4,0,1,11:58 AM,4:14,,,Smith REBOUND (Off:3 Def:1),,
+0029800154,77,2,5,1,11:58 AM,4:13,Ewing BLOCK (2 BLK),,MISS Smith  Layup,,
+0029800154,78,4,0,1,11:58 AM,4:13,,,Timberwolves Rebound,,
+0029800154,79,5,3,1,11:58 AM,4:11,,,Garnett Out Of Bounds Turnover (P1.T3),,
+0029800154,80,1,1,1,11:59 AM,3:59,Childs 9' Jump Shot (2 PTS),,,19 - 13,-6
+0029800154,81,1,1,1,11:59 AM,3:50,,,Garnett 17' Jump Shot (2 PTS) (Marbury 3 AST),21 - 13,-8
+0029800154,82,1,1,1,11:59 AM,3:34,Houston 18' Jump Shot (2 PTS) (Childs 1 AST),,,21 - 15,-6
+0029800154,83,8,0,1,11:59 AM,3:22,,,SUB: Sealy FOR Peeler,,
+0029800154,84,1,1,1,12:00 PM,3:15,,,Smith 15' Jump Shot (3 PTS) (Marbury 4 AST),23 - 15,-8
+0029800154,85,5,2,1,12:00 PM,2:51,Johnson Lost Ball Turnover (P1.T3),,Garnett STEAL (1 STL),,
+0029800154,86,2,1,1,12:00 PM,2:46,,,MISS Marbury 15' Jump Shot,,
+0029800154,87,4,0,1,12:00 PM,2:44,,,Garrett REBOUND (Off:3 Def:2),,
+0029800154,89,7,3,1,12:00 PM,2:44,Ewing Violation:Lane,,,,
+0029800154,88,1,5,1,12:00 PM,2:44,,,Garrett  Layup (8 PTS),25 - 15,-10
+0029800154,90,6,2,1,12:00 PM,2:44,Childs S.FOUL (P1.T4),,,,
+0029800154,91,9,1,1,12:00 PM,2:44,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,
+0029800154,94,8,0,1,12:03 PM,2:44,SUB: Ward FOR Houston,,,,
+0029800154,95,8,0,1,12:03 PM,2:44,SUB: Thomas FOR Ewing,,,,
+0029800154,96,3,10,1,12:03 PM,2:44,,,MISS Garrett Free Throw 1 of 1,,
+0029800154,97,4,0,1,12:03 PM,2:42,Thomas REBOUND (Off:0 Def:3),,,,
+0029800154,98,1,1,1,12:03 PM,2:22,Thomas 16' Jump Shot (7 PTS) (Childs 2 AST),,,25 - 17,-8
+0029800154,99,1,1,1,12:04 PM,2:03,,,Sealy 13' Jump Shot (2 PTS) (Smith 1 AST),27 - 17,-10
+0029800154,100,6,2,1,12:04 PM,2:03,Childs S.FOUL (P2.PN),,,,
+0029800154,101,3,10,1,12:04 PM,2:03,,,MISS Sealy Free Throw 1 of 1,,
+0029800154,102,4,0,1,12:04 PM,2:01,Johnson REBOUND (Off:0 Def:1),,,,
+0029800154,103,1,1,1,12:04 PM,1:40,Childs 22' Jump Shot (4 PTS) (Ward 3 AST),,,27 - 19,-8
+0029800154,104,5,2,1,12:05 PM,1:21,Childs STEAL (1 STL),,Marbury Lost Ball Turnover (P3.T4),,
+0029800154,105,5,2,1,12:05 PM,1:15,Camby Lost Ball Turnover (P1.T4),,Garrett STEAL (1 STL),,
+0029800154,106,6,1,1,12:05 PM,1:01,Thomas P.FOUL (P1.PN),,,,
+0029800154,107,3,11,1,12:05 PM,1:01,,,Garrett Free Throw 1 of 2 (9 PTS),28 - 19,-9
+0029800154,108,3,12,1,12:05 PM,1:01,,,MISS Garrett Free Throw 2 of 2,,
+0029800154,109,4,0,1,12:06 PM,0:59,Thomas REBOUND (Off:0 Def:4),,,,
+0029800154,110,1,6,1,12:06 PM,0:46,Childs  Driving Layup (6 PTS),,,28 - 21,-7
+0029800154,111,5,1,1,12:06 PM,0:34,Childs STEAL (2 STL),,Marbury Bad Pass Turnover (P4.T5),,
+0029800154,112,2,1,1,12:06 PM,0:25,MISS Ward 25' 3PT Jump Shot,,,,
+0029800154,113,4,0,1,12:06 PM,0:24,,,Timberwolves Rebound,,
+0029800154,114,8,0,1,12:06 PM,0:24,,,SUB: Mitchell FOR Garrett,,
+0029800154,115,8,0,1,12:07 PM,0:24,SUB: Wingate FOR Childs,,,,
+0029800154,116,8,0,1,12:07 PM,0:24,,,SUB: Jackson FOR Smith,,
+0029800154,117,8,0,1,12:07 PM,0:24,SUB: Brunson FOR Johnson,,,,
+0029800154,118,1,1,1,12:07 PM,0:04,,,Mitchell 20' Jump Shot (2 PTS) (Marbury 5 AST),30 - 21,-9
+0029800154,119,1,1,1,12:08 PM,0:00,Ward 44' 3PT Jump Shot (3 PTS) (Brunson 1 AST),,,30 - 24,-6
+0029800154,121,13,0,1,12:08 PM,0:00,,,,30 - 24,-6
+0029800154,123,12,0,2,12:11 PM,12:00,,,,30 - 24,-6
+0029800154,124,2,1,2,12:11 PM,11:40,MISS Thomas 5' Jump Shot,,,,
+0029800154,125,4,0,2,12:11 PM,11:38,KNICKS Rebound,,,,
+0029800154,126,2,1,2,12:11 PM,11:37,MISS Scott 24' 3PT Jump Shot,,,,
+0029800154,127,4,0,2,12:11 PM,11:36,KNICKS Rebound,,,,
+0029800154,128,5,11,2,12:11 PM,11:36,KNICKS Turnover: Shot Clock (T#5),,,,
+0029800154,129,1,1,2,12:12 PM,11:19,,,Garnett 12' Jump Shot (4 PTS),32 - 24,-8
+0029800154,130,2,6,2,12:12 PM,11:01,MISS Ward  Driving Layup,,,,
+0029800154,131,4,0,2,12:12 PM,11:00,,,Garnett REBOUND (Off:1 Def:3),,
+0029800154,132,6,2,2,12:12 PM,10:55,Thomas S.FOUL (P2.T1),,,,
+0029800154,133,8,0,2,12:12 PM,10:55,SUB: Ewing FOR Thomas,,,,
+0029800154,134,8,0,2,12:13 PM,10:55,,,SUB: Garrett FOR Garnett,,
+0029800154,135,3,11,2,12:13 PM,10:55,,,MISS Marbury Free Throw 1 of 2,,
+0029800154,136,4,2,2,12:13 PM,10:55,,,Timberwolves Rebound,,
+0029800154,137,3,12,2,12:13 PM,10:55,,,Marbury Free Throw 2 of 2 (9 PTS),33 - 24,-9
+0029800154,138,5,2,2,12:13 PM,10:43,Childs Lost Ball Turnover (P1.T6),,,,
+0029800154,139,6,2,2,12:13 PM,10:32,Camby S.FOUL (P1.T2),,,,
+0029800154,140,3,11,2,12:14 PM,10:32,,,MISS Mitchell Free Throw 1 of 2,,
+0029800154,141,4,2,2,12:14 PM,10:32,,,Timberwolves Rebound,,
+0029800154,142,3,12,2,12:14 PM,10:32,,,Mitchell Free Throw 2 of 2 (3 PTS),34 - 24,-10
+0029800154,143,1,1,2,12:14 PM,10:19,Childs 16' Jump Shot (8 PTS),,,34 - 26,-8
+0029800154,144,1,1,2,12:15 PM,9:58,,,Garrett 13' Jump Shot (11 PTS) (Sealy 1 AST),36 - 26,-10
+0029800154,145,1,1,2,12:15 PM,9:43,Scott 21' Jump Shot (2 PTS) (Ward 4 AST),,,36 - 28,-8
+0029800154,146,1,1,2,12:15 PM,9:30,,,Garrett 12' Jump Shot (13 PTS) (Marbury 6 AST),38 - 28,-10
+0029800154,147,9,2,2,12:16 PM,9:24,KNICKS Timeout: Short (Full 1 Short 1),,,,
+0029800154,148,9,3,2,12:16 PM,9:24,,,,,
+0029800154,151,8,0,2,12:18 PM,9:24,,,SUB: Smith FOR Marbury,,
+0029800154,152,1,2,2,12:18 PM,9:18,Ward 6' Running Jump Shot (5 PTS),,,38 - 30,-8
+0029800154,153,1,1,2,12:18 PM,8:57,,,Sealy 16' Jump Shot (4 PTS) (Garrett 1 AST),40 - 30,-10
+0029800154,154,6,1,2,12:18 PM,8:44,,,Jackson P.FOUL (P1.T1),,
+0029800154,155,5,4,2,12:19 PM,8:35,Ewing Traveling Turnover (P1.T7),,,,
+0029800154,156,2,1,2,12:19 PM,8:21,,,MISS Mitchell 24' 3PT Jump Shot,,
+0029800154,157,4,0,2,12:19 PM,8:19,,,Garrett REBOUND (Off:4 Def:2),,
+0029800154,158,1,1,2,12:19 PM,8:16,,,Smith 19' Jump Shot (5 PTS) (Garrett 2 AST),42 - 30,-12
+0029800154,162,6,1,2,12:20 PM,8:04,,,Garrett P.FOUL (P1.T2),,
+0029800154,163,8,0,2,12:20 PM,8:04,SUB: Houston FOR Ward,,,,
+0029800154,165,1,1,2,12:20 PM,7:58,Houston 17' Jump Shot (4 PTS) (Childs 3 AST),,,42 - 32,-10
+0029800154,166,2,1,2,12:20 PM,7:33,,,MISS Mitchell 17' Jump Shot,,
+0029800154,167,4,0,2,12:20 PM,7:32,Childs REBOUND (Off:0 Def:3),,,,
+0029800154,168,6,1,2,12:20 PM,7:31,,,Garrett P.FOUL (P2.T3),,
+0029800154,169,8,0,2,12:21 PM,7:31,,,SUB: Curley FOR Garrett,,
+0029800154,170,6,4,2,12:21 PM,7:19,Houston OFF.Foul (P2),,,,
+0029800154,171,5,5,2,12:21 PM,7:19,Houston Foul Turnover (P3.T8),,,,
+0029800154,172,1,6,2,12:22 PM,7:03,,,Jackson  Driving Layup (2 PTS) (Smith 2 AST),44 - 32,-12
+0029800154,173,2,5,2,12:22 PM,6:43,MISS Ewing  Layup,,,,
+0029800154,174,4,0,2,12:22 PM,6:40,,,Smith REBOUND (Off:3 Def:2),,
+0029800154,175,1,6,2,12:22 PM,6:27,,,Sealy  Driving Layup (6 PTS) (Jackson 1 AST),46 - 32,-14
+0029800154,176,6,2,2,12:22 PM,6:27,Childs S.FOUL (P3.T3),,,,
+0029800154,177,9,1,2,12:22 PM,6:27,KNICKS Timeout: Regular (Full 2 Short 1),,,,
+0029800154,180,8,0,2,12:25 PM,6:27,SUB: Johnson FOR Camby,,,,
+0029800154,181,8,0,2,12:25 PM,6:27,SUB: Ward FOR Childs,,,,
+0029800154,182,3,10,2,12:25 PM,6:27,,,MISS Sealy Free Throw 1 of 1,,
+0029800154,183,4,0,2,12:25 PM,6:26,Ewing REBOUND (Off:0 Def:2),,,,
+0029800154,185,6,1,2,12:25 PM,6:11,,,Curley P.FOUL (P1.T4),,
+0029800154,186,1,6,2,12:26 PM,6:04,Ward  Driving Layup (7 PTS),,,46 - 34,-12
+0029800154,187,6,2,2,12:26 PM,5:46,Scott S.FOUL (P1.T4),,,,
+0029800154,188,3,11,2,12:26 PM,5:46,,,Mitchell Free Throw 1 of 2 (4 PTS),47 - 34,-13
+0029800154,189,8,0,2,12:26 PM,5:46,,,SUB: Marbury FOR Jackson,,
+0029800154,190,3,12,2,12:27 PM,5:46,,,Mitchell Free Throw 2 of 2 (5 PTS),48 - 34,-14
+0029800154,191,5,1,2,12:27 PM,5:34,Ward Bad Pass Turnover (P1.T9),,Curley STEAL (1 STL),,
+0029800154,192,1,1,2,12:27 PM,5:19,,,Marbury 15' Jump Shot (11 PTS),50 - 34,-16
+0029800154,193,2,1,2,12:28 PM,4:57,MISS Houston 25' 3PT Jump Shot,,,,
+0029800154,194,4,0,2,12:28 PM,4:55,Ewing REBOUND (Off:1 Def:2),,,,
+0029800154,195,6,2,2,12:28 PM,4:50,,,Sealy S.FOUL (P1.PN),,
+0029800154,196,8,0,2,12:28 PM,4:50,,,SUB: Garnett FOR Mitchell,,
+0029800154,197,3,11,2,12:28 PM,4:50,Ewing Free Throw 1 of 2 (3 PTS),,,50 - 35,-15
+0029800154,198,3,12,2,12:28 PM,4:50,Ewing Free Throw 2 of 2 (4 PTS),,,50 - 36,-14
+0029800154,199,2,1,2,12:29 PM,4:31,,,MISS Marbury 26' 3PT Jump Shot,,
+0029800154,200,4,0,2,12:29 PM,4:29,,,Curley REBOUND (Off:1 Def:0),,
+0029800154,201,1,5,2,12:29 PM,4:28,,,Curley  Layup (2 PTS),52 - 36,-16
+0029800154,202,1,6,2,12:29 PM,4:05,Johnson  Driving Layup (6 PTS),,,52 - 38,-14
+0029800154,203,2,1,2,12:30 PM,3:52,,,MISS Marbury 16' Jump Shot,,
+0029800154,204,4,0,2,12:30 PM,3:50,Houston REBOUND (Off:0 Def:1),,,,
+0029800154,205,2,1,2,12:30 PM,3:44,MISS Scott 24' 3PT Jump Shot,,,,
+0029800154,206,4,0,2,12:30 PM,3:41,,,Garnett REBOUND (Off:1 Def:4),,
+0029800154,207,6,4,2,12:30 PM,3:37,,,Marbury OFF.Foul (P1),,
+0029800154,208,5,5,2,12:30 PM,3:37,,,Marbury Foul Turnover (P5.T6),,
+0029800154,209,8,0,2,12:30 PM,3:37,SUB: Thomas FOR Scott,,,,
+0029800154,210,2,1,2,12:30 PM,3:24,MISS Houston 14' Jump Shot,,,,
+0029800154,211,4,0,2,12:30 PM,3:23,,,Smith REBOUND (Off:3 Def:3),,
+0029800154,212,1,1,2,12:31 PM,3:12,,,Garnett 18' Jump Shot (6 PTS) (Smith 3 AST),54 - 38,-16
+0029800154,213,1,3,2,12:31 PM,2:55,Ewing 6' Hook Shot (6 PTS) (Ward 5 AST),,,54 - 40,-14
+0029800154,214,2,1,2,12:31 PM,2:45,,,MISS Curley 11' Jump Shot,,
+0029800154,215,4,0,2,12:31 PM,2:43,,,Garnett REBOUND (Off:2 Def:4),,
+0029800154,216,5,2,2,12:31 PM,2:35,Johnson STEAL (1 STL),,Marbury Lost Ball Turnover (P6.T7),,
+0029800154,217,6,1,2,12:31 PM,2:28,,,Smith P.FOUL (P2.PN),,
+0029800154,219,9,1,2,12:32 PM,2:28,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,
+0029800154,220,3,11,2,12:34 PM,2:28,Johnson Free Throw 1 of 2 (7 PTS),,,54 - 41,-13
+0029800154,221,3,12,2,12:34 PM,2:28,Johnson Free Throw 2 of 2 (8 PTS),,,54 - 42,-12
+0029800154,222,5,1,2,12:34 PM,2:19,Ward STEAL (1 STL),,Sealy Bad Pass Turnover (P1.T8),,
+0029800154,223,1,1,2,12:35 PM,2:13,Thomas 9' Jump Shot (9 PTS) (Houston 1 AST),,,54 - 44,-10
+0029800154,224,6,2,2,12:35 PM,1:59,Thomas S.FOUL (P3.PN),,,,
+0029800154,225,3,11,2,12:35 PM,1:59,,,Garnett Free Throw 1 of 2 (7 PTS),55 - 44,-11
+0029800154,226,8,0,2,12:35 PM,1:59,,,SUB: Hammonds FOR Smith,,
+0029800154,227,8,0,2,12:35 PM,1:59,SUB: Camby FOR Thomas,,,,
+0029800154,228,3,12,2,12:35 PM,1:59,,,Garnett Free Throw 2 of 2 (8 PTS),56 - 44,-12
+0029800154,229,1,2,2,12:36 PM,1:45,Ward 6' Running Jump Shot (9 PTS),,,56 - 46,-10
+0029800154,230,6,2,2,12:36 PM,1:29,Johnson S.FOUL (P2.PN),,,,
+0029800154,231,3,11,2,12:36 PM,1:29,,,Garnett Free Throw 1 of 2 (9 PTS),57 - 46,-11
+0029800154,232,3,12,2,12:37 PM,1:29,,,Garnett Free Throw 2 of 2 (10 PTS),58 - 46,-12
+0029800154,233,5,2,2,12:37 PM,1:20,Ward Lost Ball Turnover (P2.T10),,Marbury STEAL (1 STL),,
+0029800154,234,2,5,2,12:37 PM,1:15,Camby BLOCK (1 BLK),,MISS Marbury  Layup,,
+0029800154,235,4,0,2,12:37 PM,1:11,Johnson REBOUND (Off:0 Def:2),,,,
+0029800154,236,2,1,2,12:37 PM,1:03,MISS Ward 5' Jump Shot,,Garnett BLOCK (2 BLK),,
+0029800154,237,4,0,2,12:37 PM,1:03,KNICKS Rebound,,,,
+0029800154,238,1,5,2,12:38 PM,1:01,Johnson  Layup (10 PTS),,,58 - 48,-10
+0029800154,239,6,2,2,12:38 PM,1:01,,,Hammonds S.FOUL (P1.PN),,
+0029800154,240,3,10,2,12:38 PM,1:01,Johnson Free Throw 1 of 1 (11 PTS),,,58 - 49,-9
+0029800154,241,2,1,2,12:38 PM,0:50,,,MISS Sealy 24' 3PT Jump Shot,,
+0029800154,242,4,0,2,12:38 PM,0:48,,,Timberwolves Rebound,,
+0029800154,243,9,2,2,12:38 PM,0:48,,,Timberwolves Timeout: Short (Reg.2 Short 1),,
+0029800154,244,6,1,2,12:40 PM,0:41,Ward P.FOUL (P2.PN),,,,
+0029800154,245,6,11,2,12:40 PM,0:41,,,,,
+0029800154,246,3,16,2,12:40 PM,0:41,,,Garnett Free Throw Technical (11 PTS),59 - 49,-10
+0029800154,247,3,11,2,12:40 PM,0:41,,,Marbury Free Throw 1 of 2 (12 PTS),60 - 49,-11
+0029800154,248,3,12,2,12:40 PM,0:41,,,Marbury Free Throw 2 of 2 (13 PTS),61 - 49,-12
+0029800154,249,6,1,2,12:41 PM,0:34,,,Hammonds P.FOUL (P2.PN),,
+0029800154,250,3,11,2,12:41 PM,0:34,Camby Free Throw 1 of 2 (1 PTS),,,61 - 50,-11
+0029800154,251,3,12,2,12:41 PM,0:34,MISS Camby Free Throw 2 of 2,,,,
+0029800154,252,4,0,2,12:41 PM,0:33,,,Garnett REBOUND (Off:2 Def:5),,
+0029800154,253,2,1,2,12:41 PM,0:21,,,MISS Marbury 25' 3PT Jump Shot,,
+0029800154,254,4,0,2,12:42 PM,0:18,Houston REBOUND (Off:0 Def:2),,,,
+0029800154,255,1,1,2,12:42 PM,0:01,Johnson  3PT Jump Shot (14 PTS) (Houston 2 AST),,,61 - 53,-8
+0029800154,256,2,1,2,12:42 PM,0:00,,,MISS Curley 71' 3PT Jump Shot,,
+0029800154,257,4,0,2,12:42 PM,0:00,,,Timberwolves Rebound,,
+0029800154,258,13,0,2,12:42 PM,0:00,,,,61 - 53,-8
+0029800154,260,12,0,3,12:59 PM,12:00,,,,61 - 53,-8
+0029800154,261,1,5,3,12:59 PM,11:45,Ewing  Layup (8 PTS) (Ward 6 AST),,,61 - 55,-6
+0029800154,262,1,1,3,12:59 PM,11:27,,,Smith 16' Jump Shot (7 PTS) (Garnett 3 AST),63 - 55,-8
+0029800154,263,6,2,3,12:59 PM,11:12,,,Garnett S.FOUL (P1.T1),,
+0029800154,264,3,11,3,12:59 PM,11:12,Ewing Free Throw 1 of 2 (9 PTS),,,63 - 56,-7
+0029800154,265,3,12,3,1:00 PM,11:12,Ewing Free Throw 2 of 2 (10 PTS),,,63 - 57,-6
+0029800154,266,1,1,3,1:00 PM,11:00,,,Smith 22' Jump Shot (9 PTS) (Garnett 4 AST),65 - 57,-8
+0029800154,267,2,1,3,1:00 PM,10:42,MISS Houston 20' Jump Shot,,,,
+0029800154,268,4,0,3,1:00 PM,10:40,,,Marbury REBOUND (Off:0 Def:4),,
+0029800154,269,2,1,3,1:01 PM,10:28,Ewing BLOCK (3 BLK),,MISS Sealy 20' Jump Shot,,
+0029800154,270,4,0,3,1:01 PM,10:24,Houston REBOUND (Off:0 Def:3),,,,
+0029800154,271,5,4,3,1:01 PM,10:24,Ward Traveling Turnover (P3.T11),,,,
+0029800154,272,2,1,3,1:01 PM,10:08,,,MISS Marbury 16' Jump Shot,,
+0029800154,273,4,0,3,1:01 PM,10:05,Ewing REBOUND (Off:1 Def:3),,,,
+0029800154,274,2,5,3,1:01 PM,9:58,MISS Ewing  Layup,,,,
+0029800154,275,4,0,3,1:02 PM,9:56,,,Garrett REBOUND (Off:4 Def:3),,
+0029800154,277,2,1,3,1:02 PM,9:45,,,MISS Sealy 10' Jump Shot,,
+0029800154,283,4,0,3,1:02 PM,9:44,,,Timberwolves Rebound,,
+0029800154,276,1,1,3,1:02 PM,9:39,,,Smith 21' Jump Shot (11 PTS) (Marbury 7 AST),67 - 57,-10
+0029800154,278,2,1,3,1:02 PM,9:20,MISS Houston 18' Jump Shot,,,,
+0029800154,280,4,0,3,1:02 PM,9:19,,,Garnett REBOUND (Off:2 Def:6),,
+0029800154,281,6,4,3,1:03 PM,9:10,,,Marbury OFF.Foul (P2),,
+0029800154,282,5,5,3,1:03 PM,9:10,,,Marbury Foul Turnover (P7.T9),,
+0029800154,284,6,2,3,1:03 PM,8:56,,,Marbury S.FOUL (P3.T2),,
+0029800154,285,3,11,3,1:03 PM,8:56,Johnson Free Throw 1 of 2 (15 PTS),,,67 - 58,-9
+0029800154,287,3,12,3,1:03 PM,8:56,Johnson Free Throw 2 of 2 (16 PTS),,,67 - 59,-8
+0029800154,290,2,1,3,1:04 PM,8:41,,,MISS Garnett 13' Jump Shot,,
+0029800154,291,4,0,3,1:04 PM,8:40,Ewing REBOUND (Off:1 Def:4),,,,
+0029800154,292,6,1,3,1:04 PM,8:31,,,Garnett P.FOUL (P2.T3),,
+0029800154,293,6,2,3,1:05 PM,8:23,,,Smith S.FOUL (P3.T4),,
+0029800154,294,3,11,3,1:05 PM,8:23,Ewing Free Throw 1 of 2 (11 PTS),,,67 - 60,-7
+0029800154,295,3,12,3,1:05 PM,8:23,MISS Ewing Free Throw 2 of 2,,,,
+0029800154,296,4,0,3,1:05 PM,8:22,,,Sealy REBOUND (Off:0 Def:1),,
+0029800154,297,2,1,3,1:06 PM,8:01,,,MISS Sealy 19' Jump Shot,,
+0029800154,298,4,0,3,1:06 PM,8:00,Ward REBOUND (Off:0 Def:1),,,,
+0029800154,299,5,2,3,1:06 PM,7:49,Thomas Lost Ball Turnover (P1.T12),,,,
+0029800154,300,1,1,3,1:06 PM,7:36,,,Garnett 18' Jump Shot (13 PTS) (Smith 4 AST),69 - 60,-9
+0029800154,301,2,1,3,1:06 PM,7:21,MISS Ward 24' 3PT Jump Shot,,,,
+0029800154,302,4,0,3,1:07 PM,7:18,,,Garrett REBOUND (Off:4 Def:4),,
+0029800154,303,6,1,3,1:07 PM,7:06,Houston P.FOUL (P3.T1),,,,
+0029800154,304,1,1,3,1:07 PM,6:56,,,Sealy 22' Jump Shot (8 PTS) (Marbury 8 AST),71 - 60,-11
+0029800154,305,9,1,3,1:07 PM,6:53,KNICKS Timeout: Regular (Full 3 Short 1),,,,
+0029800154,307,5,4,3,1:10 PM,6:47,Ward Traveling Turnover (P4.T13),,,,
+0029800154,308,2,1,3,1:10 PM,6:31,,,MISS Garrett 10' Jump Shot,,
+0029800154,309,4,0,3,1:10 PM,6:30,Thomas REBOUND (Off:0 Def:5),,,,
+0029800154,310,2,1,3,1:11 PM,6:16,MISS Thomas 15' Jump Shot,,,,
+0029800154,311,4,0,3,1:11 PM,6:13,Johnson REBOUND (Off:1 Def:2),,,,
+0029800154,312,6,1,3,1:11 PM,6:11,,,Sealy P.FOUL (P2.PN),,
+0029800154,313,3,11,3,1:11 PM,6:11,Houston Free Throw 1 of 2 (5 PTS),,,71 - 61,-10
+0029800154,314,3,12,3,1:11 PM,6:11,Houston Free Throw 2 of 2 (6 PTS),,,71 - 62,-9
+0029800154,315,2,7,3,1:12 PM,5:59,,,MISS Sealy  Dunk,,
+0029800154,316,4,0,3,1:12 PM,5:56,Johnson REBOUND (Off:1 Def:3),,,,
+0029800154,317,2,5,3,1:12 PM,5:47,MISS Ward  Layup,,Smith BLOCK (1 BLK),,
+0029800154,318,4,0,3,1:12 PM,5:43,,,Marbury REBOUND (Off:0 Def:5),,
+0029800154,319,2,5,3,1:12 PM,5:39,,,MISS Smith  Layup,,
+0029800154,321,4,0,3,1:12 PM,5:36,,,Smith REBOUND (Off:4 Def:3),,
+0029800154,320,2,5,3,1:12 PM,5:36,Ewing BLOCK (4 BLK),,MISS Smith  Layup,,
+0029800154,322,4,0,3,1:12 PM,5:33,,,Marbury REBOUND (Off:1 Def:5),,
+0029800154,323,5,4,3,1:12 PM,5:30,,,Marbury Traveling Turnover (P8.T10),,
+0029800154,324,1,1,3,1:13 PM,5:17,Houston 18' Jump Shot (8 PTS) (Johnson 2 AST),,,71 - 64,-7
+0029800154,325,2,1,3,1:13 PM,4:56,,,MISS Garnett 14' Jump Shot,,
+0029800154,326,4,0,3,1:13 PM,4:55,Thomas REBOUND (Off:0 Def:6),,,,
+0029800154,327,1,5,3,1:13 PM,4:48,Ward  Layup (11 PTS) (Johnson 3 AST),,,71 - 66,-5
+0029800154,328,9,1,3,1:13 PM,4:44,,,Timberwolves Timeout: Regular (Reg.3 Short 1),,
+0029800154,330,8,0,3,1:15 PM,4:44,,,SUB: Jackson FOR Sealy,,
+0029800154,331,1,1,3,1:15 PM,4:28,,,Marbury 17' Jump Shot (15 PTS) (Garnett 5 AST),73 - 66,-7
+0029800154,332,1,1,3,1:16 PM,4:13,Houston 15' Jump Shot (10 PTS) (Ward 7 AST),,,73 - 68,-5
+0029800154,333,2,1,3,1:16 PM,3:58,,,MISS Smith 20' Jump Shot,,
+0029800154,334,4,0,3,1:16 PM,3:56,,,Timberwolves Rebound,,
+0029800154,335,8,0,3,1:16 PM,3:56,SUB: Camby FOR Thomas,,,,
+0029800154,336,5,4,3,1:16 PM,3:51,,,Smith Traveling Turnover (P1.T11),,
+0029800154,337,6,1,3,1:17 PM,3:43,,,Jackson P.FOUL (P2.PN),,
+0029800154,338,3,11,3,1:17 PM,3:43,Houston Free Throw 1 of 2 (11 PTS),,,73 - 69,-4
+0029800154,339,3,12,3,1:17 PM,3:43,Houston Free Throw 2 of 2 (12 PTS),,,73 - 70,-3
+0029800154,340,5,1,3,1:18 PM,3:32,Ewing STEAL (2 STL),,Garnett Bad Pass Turnover (P2.T12),,
+0029800154,341,1,9,3,1:18 PM,3:28,Houston  Driving Dunk (14 PTS) (Camby 1 AST),,,73 - 72,-1
+0029800154,342,2,1,3,1:18 PM,3:11,,,MISS Marbury 10' Jump Shot,,
+0029800154,343,4,0,3,1:18 PM,3:09,Ewing REBOUND (Off:1 Def:5),,,,
+0029800154,344,1,6,3,1:18 PM,3:03,Ward  Driving Layup (13 PTS),,,73 - 74,1
+0029800154,345,9,1,3,1:18 PM,3:01,,,Timberwolves Timeout: Regular (Reg.4 Short 1),,
+0029800154,347,1,1,3,1:20 PM,2:47,,,Garnett 8' Jump Shot (15 PTS) (Smith 5 AST),75 - 74,-1
+0029800154,348,6,1,3,1:21 PM,2:31,,,Jackson P.FOUL (P3.PN),,
+0029800154,349,3,11,3,1:21 PM,2:31,Houston Free Throw 1 of 2 (15 PTS),,,75 - 75,TIE
+0029800154,350,8,0,3,1:21 PM,2:31,,,SUB: Mitchell FOR Jackson,,
+0029800154,351,8,0,3,1:21 PM,2:31,,,SUB: Carr FOR Smith,,
+0029800154,352,3,12,3,1:21 PM,2:31,Houston Free Throw 2 of 2 (16 PTS),,,75 - 76,1
+0029800154,353,2,1,3,1:22 PM,2:10,Camby BLOCK (2 BLK),,MISS Mitchell 13' Jump Shot,,
+0029800154,354,4,0,3,1:22 PM,2:09,,,Marbury REBOUND (Off:2 Def:5),,
+0029800154,355,2,1,3,1:22 PM,2:08,,,MISS Marbury 7' Jump Shot,,
+0029800154,356,4,0,3,1:22 PM,2:07,,,Timberwolves Rebound,,
+0029800154,357,5,11,3,1:22 PM,2:07,,,Timberwolves Turnover: Shot Clock (T#13),,
+0029800154,358,2,1,3,1:23 PM,1:48,MISS Johnson 24' 3PT Jump Shot,,,,
+0029800154,359,4,0,3,1:23 PM,1:45,Camby REBOUND (Off:1 Def:0),,,,
+0029800154,360,1,1,3,1:23 PM,1:42,Houston 24' 3PT Jump Shot (19 PTS) (Ward 8 AST),,,75 - 79,4
+0029800154,361,2,1,3,1:23 PM,1:22,,,MISS Mitchell 19' Jump Shot,,
+0029800154,362,4,0,3,1:23 PM,1:20,Ewing REBOUND (Off:1 Def:6),,,,
+0029800154,363,2,1,3,1:23 PM,1:07,MISS Houston 13' Jump Shot,,,,
+0029800154,364,4,0,3,1:23 PM,1:06,,,Garrett REBOUND (Off:4 Def:5),,
+0029800154,365,2,1,3,1:24 PM,0:48,,,MISS Carr 24' 3PT Jump Shot,,
+0029800154,367,4,0,3,1:24 PM,0:47,,,Garnett REBOUND (Off:3 Def:6),,
+0029800154,366,1,8,3,1:24 PM,0:47,,,Garnett  Slam Dunk (17 PTS),77 - 79,2
+0029800154,369,1,1,3,1:24 PM,0:31,Ward 26' 3PT Jump Shot (16 PTS) (Johnson 4 AST),,,77 - 82,5
+0029800154,370,6,2,3,1:24 PM,0:23,Ward S.FOUL (P3.T2),,,,
+0029800154,371,8,0,3,1:24 PM,0:23,SUB: Brunson FOR Johnson,,,,
+0029800154,373,8,0,3,1:24 PM,0:23,SUB: Childs FOR Camby,,,,
+0029800154,374,3,11,3,1:25 PM,0:23,,,Marbury Free Throw 1 of 2 (16 PTS),78 - 82,4
+0029800154,375,3,12,3,1:25 PM,0:23,,,MISS Marbury Free Throw 2 of 2,,
+0029800154,376,4,0,3,1:25 PM,0:23,Houston REBOUND (Off:0 Def:4),,,,
+0029800154,377,1,6,3,1:25 PM,0:04,Ward  Driving Layup (18 PTS),,,78 - 84,6
+0029800154,378,2,2,3,1:25 PM,0:00,,,MISS Marbury 6' Running Jump Shot,,
+0029800154,379,4,0,3,1:25 PM,0:00,,,Timberwolves Rebound,,
+0029800154,380,13,0,3,1:26 PM,0:00,,,,78 - 84,6
+0029800154,382,12,0,4,1:28 PM,12:00,,,,78 - 84,6
+0029800154,383,6,2,4,1:29 PM,11:37,Scott S.FOUL (P2.T1),,,,
+0029800154,384,3,13,4,1:29 PM,11:37,,,MISS Mitchell Free Throw 1 of 3,,
+0029800154,385,4,2,4,1:29 PM,11:37,,,Timberwolves Rebound,,
+0029800154,386,3,14,4,1:29 PM,11:37,,,Mitchell Free Throw 2 of 3 (6 PTS),79 - 84,5
+0029800154,387,3,15,4,1:29 PM,11:37,,,Mitchell Free Throw 3 of 3 (7 PTS),80 - 84,4
+0029800154,388,5,2,4,1:30 PM,11:26,Ewing Lost Ball Turnover (P2.T14),,Marbury STEAL (2 STL),,
+0029800154,389,2,1,4,1:30 PM,11:04,,,MISS Marbury 21' Jump Shot,,
+0029800154,390,4,0,4,1:30 PM,11:03,,,Smith REBOUND (Off:5 Def:3),,
+0029800154,391,5,1,4,1:30 PM,10:56,Ward STEAL (2 STL),,Smith Bad Pass Turnover (P2.T14),,
+0029800154,392,1,1,4,1:30 PM,10:52,Scott 24' 3PT Jump Shot (5 PTS) (Ward 9 AST),,,80 - 87,7
+0029800154,393,2,1,4,1:31 PM,10:28,,,MISS Carr 25' 3PT Jump Shot,,
+0029800154,394,4,0,4,1:31 PM,10:26,,,Garrett REBOUND (Off:5 Def:5),,
+0029800154,395,6,1,4,1:31 PM,10:16,Childs P.FOUL (P4.T2),,,,
+0029800154,396,8,0,4,1:31 PM,10:16,SUB: Houston FOR Ward,,,,
+0029800154,397,1,6,4,1:32 PM,10:00,,,Smith  Driving Layup (13 PTS),82 - 87,5
+0029800154,398,6,18,4,1:33 PM,9:57,,,Smith Delay (P3.T0),,
+0029800154,399,3,16,4,1:33 PM,9:57,Houston Free Throw Technical (20 PTS),,,82 - 88,6
+0029800154,400,9,3,4,1:33 PM,9:57,,,,,
+0029800154,401,8,0,4,1:34 PM,9:57,,,SUB: Jackson FOR Garrett,,
+0029800154,402,8,0,4,1:34 PM,9:57,,,SUB: Garnett FOR Marbury,,
+0029800154,403,2,1,4,1:35 PM,9:39,MISS Scott 24' 3PT Jump Shot,,,,
+0029800154,404,4,0,4,1:35 PM,9:36,,,Jackson REBOUND (Off:0 Def:1),,
+0029800154,405,2,1,4,1:35 PM,9:20,,,MISS Garnett 18' Jump Shot,,
+0029800154,406,4,0,4,1:35 PM,9:18,Camby REBOUND (Off:1 Def:1),,,,
+0029800154,407,1,1,4,1:35 PM,9:09,Childs 17' Jump Shot (10 PTS),,,82 - 90,8
+0029800154,408,1,1,4,1:35 PM,8:52,,,Garnett 10' Jump Shot (19 PTS),84 - 90,6
+0029800154,409,1,1,4,1:36 PM,8:35,Ewing 8' Jump Shot (13 PTS) (Childs 4 AST),,,84 - 92,8
+0029800154,410,1,5,4,1:36 PM,8:21,,,Jackson  Layup (4 PTS) (Mitchell 1 AST),86 - 92,6
+0029800154,411,2,1,4,1:36 PM,7:54,MISS Ewing 11' Jump Shot,,,,
+0029800154,412,4,0,4,1:36 PM,7:52,,,Jackson REBOUND (Off:0 Def:2),,
+0029800154,413,1,1,4,1:37 PM,7:45,,,Carr 24' 3PT Jump Shot (3 PTS) (Jackson 2 AST),89 - 92,3
+0029800154,414,9,1,4,1:37 PM,7:42,KNICKS Timeout: Regular (Full 4 Short 1),,,,
+0029800154,416,8,0,4,1:39 PM,7:42,SUB: Thomas FOR Ewing,,,,
+0029800154,417,2,6,4,1:39 PM,7:21,MISS Childs  Driving Layup,,,,
+0029800154,418,4,0,4,1:39 PM,7:18,,,Mitchell REBOUND (Off:0 Def:1),,
+0029800154,419,1,6,4,1:39 PM,7:15,,,Jackson  Driving Layup (6 PTS),91 - 92,1
+0029800154,423,6,10,4,1:40 PM,7:01,,,,,
+0029800154,425,8,0,4,1:40 PM,7:01,SUB: Ward FOR Childs,,,,
+0029800154,426,8,0,4,1:40 PM,7:01,SUB: Johnson FOR Scott,,,,
+0029800154,427,2,1,4,1:40 PM,6:44,MISS Ward 7' Jump Shot,,,,
+0029800154,429,4,0,4,1:40 PM,6:42,Camby REBOUND (Off:2 Def:1),,,,
+0029800154,428,2,4,4,1:40 PM,6:42,MISS Camby  Tip Shot,,,,
+0029800154,430,4,0,4,1:40 PM,6:39,,,Mitchell REBOUND (Off:0 Def:2),,
+0029800154,431,2,1,4,1:40 PM,6:32,,,MISS Garnett 9' Jump Shot,,
+0029800154,432,4,0,4,1:40 PM,6:31,Johnson REBOUND (Off:1 Def:4),,,,
+0029800154,433,6,2,4,1:40 PM,6:25,,,Mitchell S.FOUL (P1.T1),,
+0029800154,434,8,0,4,1:41 PM,6:25,SUB: Ewing FOR Thomas,,,,
+0029800154,435,3,11,4,1:41 PM,6:25,Camby Free Throw 1 of 2 (2 PTS),,,91 - 93,2
+0029800154,436,8,0,4,1:41 PM,6:25,,,SUB: Sealy FOR Carr,,
+0029800154,438,3,12,4,1:41 PM,6:25,MISS Camby Free Throw 2 of 2,,,,
+0029800154,439,4,0,4,1:41 PM,6:23,,,Garnett REBOUND (Off:3 Def:7),,
+0029800154,440,2,5,4,1:41 PM,6:08,,,MISS Smith  Layup,,
+0029800154,442,4,0,4,1:41 PM,6:05,,,Garnett REBOUND (Off:4 Def:7),,
+0029800154,441,1,8,4,1:41 PM,6:05,,,Garnett  Slam Dunk (21 PTS),93 - 93,TIE
+0029800154,444,1,6,4,1:42 PM,5:33,Houston  Driving Layup (22 PTS),,,93 - 95,2
+0029800154,445,7,2,4,1:42 PM,5:23,Ewing Violation:Defensive Goaltending,,,,
+0029800154,447,1,1,4,1:43 PM,5:15,,,Smith 16' Jump Shot (15 PTS) (Jackson 3 AST),95 - 95,TIE
+0029800154,448,9,2,4,1:43 PM,4:56,KNICKS Timeout: Short (Full 4 Short 2),,,,
+0029800154,450,1,1,4,1:44 PM,4:54,Ewing 11' Jump Shot (15 PTS) (Johnson 5 AST),,,95 - 97,2
+0029800154,451,2,6,4,1:44 PM,4:40,,,MISS Jackson  Driving Layup,,
+0029800154,452,4,0,4,1:44 PM,4:37,Ewing REBOUND (Off:1 Def:7),,,,
+0029800154,454,8,0,4,1:45 PM,4:29,,,SUB: Marbury FOR Jackson,,
+0029800154,455,2,6,4,1:45 PM,4:17,MISS Ward  Driving Layup,,,,
+0029800154,456,4,0,4,1:45 PM,4:14,,,Garnett REBOUND (Off:4 Def:8),,
+0029800154,457,2,1,4,1:45 PM,4:12,,,MISS Marbury 25' 3PT Jump Shot,,
+0029800154,459,4,0,4,1:45 PM,4:08,,,Mitchell REBOUND (Off:1 Def:2),,
+0029800154,458,2,4,4,1:45 PM,4:08,,,MISS Mitchell  Tip Shot,,
+0029800154,461,4,0,4,1:45 PM,4:05,,,Smith REBOUND (Off:6 Def:3),,
+0029800154,460,2,4,4,1:45 PM,4:05,,,MISS Smith  Tip Shot,,
+0029800154,462,4,0,4,1:45 PM,4:03,,,Mitchell REBOUND (Off:2 Def:2),,
+0029800154,463,2,1,4,1:45 PM,4:02,,,MISS Marbury 14' Jump Shot,,
+0029800154,464,4,0,4,1:45 PM,4:00,Ewing REBOUND (Off:1 Def:8),,,,
+0029800154,465,2,1,4,1:46 PM,3:43,MISS Ewing 12' Jump Shot,,,,
+0029800154,466,4,0,4,1:46 PM,3:41,,,Smith REBOUND (Off:6 Def:4),,
+0029800154,467,1,5,4,1:46 PM,3:32,,,Marbury  Layup (18 PTS),97 - 97,TIE
+0029800154,468,9,1,4,1:46 PM,3:30,KNICKS Timeout: Regular (Full 5 Short 2),,,,
+0029800154,473,1,1,4,1:48 PM,3:17,Ewing 8' Jump Shot (17 PTS) (Ward 10 AST),,,97 - 99,2
+0029800154,474,6,2,4,1:48 PM,3:17,,,Smith S.FOUL (P4.T2),,
+0029800154,476,3,10,4,1:49 PM,3:17,MISS Ewing Free Throw 1 of 1,,,,
+0029800154,477,4,0,4,1:49 PM,3:17,,,Timberwolves Rebound,,
+0029800154,478,6,3,4,1:49 PM,3:17,Camby L.B.FOUL (P2.T3),,,,
+0029800154,479,2,6,4,1:49 PM,3:07,,,MISS Mitchell  Driving Layup,,
+0029800154,480,4,0,4,1:50 PM,3:05,,,Timberwolves Rebound,,
+0029800154,481,1,1,4,1:50 PM,3:03,,,Mitchell 17' Jump Shot (9 PTS) (Garnett 6 AST),99 - 99,TIE
+0029800154,482,6,2,4,1:50 PM,3:03,Johnson S.FOUL (P3.T4),,,,
+0029800154,483,3,10,4,1:50 PM,3:03,,,Mitchell Free Throw 1 of 1 (10 PTS),100 - 99,-1
+0029800154,484,2,1,4,1:51 PM,2:49,MISS Houston 14' Jump Shot,,,,
+0029800154,485,4,0,4,1:51 PM,2:48,,,Garnett REBOUND (Off:4 Def:9),,
+0029800154,486,2,1,4,1:51 PM,2:38,Ewing BLOCK (5 BLK),,MISS Marbury 10' Jump Shot,,
+0029800154,487,4,0,4,1:51 PM,2:36,,,Marbury REBOUND (Off:3 Def:5),,
+0029800154,488,2,6,4,1:51 PM,2:31,Ewing BLOCK (6 BLK),,MISS Sealy  Driving Layup,,
+0029800154,489,4,0,4,1:51 PM,2:27,,,Garnett REBOUND (Off:5 Def:9),,
+0029800154,490,1,1,4,1:51 PM,2:25,,,Garnett 11' Jump Shot (23 PTS),102 - 99,-3
+0029800154,491,2,1,4,1:51 PM,2:11,MISS Ward 25' 3PT Jump Shot,,,,
+0029800154,492,4,0,4,1:51 PM,2:09,,,Marbury REBOUND (Off:3 Def:6),,
+0029800154,493,2,1,4,1:52 PM,1:56,Camby BLOCK (3 BLK),,MISS Marbury 9' Jump Shot,,
+0029800154,494,4,0,4,1:52 PM,1:54,Ewing REBOUND (Off:1 Def:9),,,,
+0029800154,495,1,5,4,1:52 PM,1:47,Johnson  Layup (18 PTS) (Ward 11 AST),,,102 - 101,-1
+0029800154,496,2,1,4,1:52 PM,1:29,,,MISS Sealy 18' Jump Shot,,
+0029800154,497,4,0,4,1:52 PM,1:28,Ewing REBOUND (Off:1 Def:10),,,,
+0029800154,498,2,6,4,1:52 PM,1:14,MISS Johnson  Driving Layup,,,,
+0029800154,499,4,0,4,1:53 PM,1:11,,,Smith REBOUND (Off:6 Def:5),,
+0029800154,500,5,1,4,1:53 PM,0:57,Camby STEAL (1 STL),,Marbury Bad Pass Turnover (P9.T15),,
+0029800154,501,1,5,4,1:53 PM,0:50,Johnson  Layup (20 PTS) (Houston 3 AST),,,102 - 103,1
+0029800154,503,9,1,4,1:53 PM,0:49,,,Timberwolves Timeout: Regular (Reg.5 Short 1),,
+0029800154,504,2,1,4,1:55 PM,0:39,,,MISS Garnett 10' Jump Shot,,
+0029800154,505,4,0,4,1:55 PM,0:37,Houston REBOUND (Off:0 Def:5),,,,
+0029800154,506,6,1,4,1:56 PM,0:19,,,Garnett P.FOUL (P4.T3),,
+0029800154,508,9,2,4,1:56 PM,0:19,,,Timberwolves Timeout: Short (Reg.5 Short 2),,
+0029800154,509,8,0,4,1:57 PM,0:19,SUB: Childs FOR Camby,,,,
+0029800154,510,7,6,4,1:57 PM,0:10,,,Garnett Violation:Double Lane,,
+0029800154,511,9,1,4,1:58 PM,0:10,KNICKS Timeout: Regular (Full 6 Short 2),,,,
+0029800154,512,8,0,4,2:00 PM,0:10,,,SUB: Jackson FOR Mitchell,,
+0029800154,513,6,1,4,2:00 PM,0:07,,,Jackson P.FOUL (P4.PN),,
+0029800154,514,3,11,4,2:00 PM,0:07,MISS Houston Free Throw 1 of 2,,,,
+0029800154,515,4,2,4,2:00 PM,0:07,KNICKS Rebound,,,,
+0029800154,516,3,12,4,2:01 PM,0:07,Houston Free Throw 2 of 2 (23 PTS),,,102 - 104,2
+0029800154,517,9,1,4,2:01 PM,0:07,,,Timberwolves Timeout: Regular (Reg.6 Short 2),,
+0029800154,519,8,0,4,2:03 PM,0:07,,,SUB: Mitchell FOR Smith,,
+0029800154,520,1,2,4,2:03 PM,0:02,,,Marbury 9' Running Jump Shot (20 PTS),104 - 104,TIE
+0029800154,521,9,1,4,2:04 PM,0:02,KNICKS Timeout: Regular (Full 7 Short 2),,,,
+0029800154,523,8,0,4,2:05 PM,0:02,,,SUB: Smith FOR Jackson,,
+0029800154,524,9,1,4,2:06 PM,0:02,,,Timberwolves Timeout: Regular (Reg.7 Short 2),,
+0029800154,526,8,0,4,2:07 PM,0:02,SUB: Scott FOR Johnson,,,,
+0029800154,527,5,2,4,2:07 PM,0:00,Houston Lost Ball Turnover (P4.T15),,,,
+0029800154,528,13,0,4,2:08 PM,0:00,,,,104 - 104,TIE
+0029800154,530,12,0,5,2:10 PM,5:00,,,,104 - 104,TIE
+0029800154,531,10,0,5,2:10 PM,5:00,Jump Ball Ewing vs. Garnett: Tip to Johnson,,,,
+0029800154,532,1,5,5,2:10 PM,4:40,Camby  Layup (4 PTS) (Ward 12 AST),,,104 - 106,2
+0029800154,533,6,2,5,2:10 PM,4:40,,,Garnett S.FOUL (P5.T1),,
+0029800154,534,3,10,5,2:10 PM,4:40,Camby Free Throw 1 of 1 (5 PTS),,,104 - 107,3
+0029800154,535,2,5,5,2:11 PM,4:19,,,MISS Garnett  Layup,,
+0029800154,537,4,0,5,2:11 PM,4:17,,,Smith REBOUND (Off:7 Def:5),,
+0029800154,536,1,4,5,2:11 PM,4:17,,,Smith  Tip Shot (17 PTS),106 - 107,1
+0029800154,538,5,2,5,2:11 PM,3:57,Ewing Lost Ball Turnover (P3.T16),,Sealy STEAL (1 STL),,
+0029800154,539,2,1,5,2:11 PM,3:46,,,MISS Garnett 10' Jump Shot,,
+0029800154,540,4,0,5,2:12 PM,3:45,Johnson REBOUND (Off:1 Def:5),,,,
+0029800154,541,2,1,5,2:12 PM,3:35,MISS Ward 22' Jump Shot,,,,
+0029800154,542,4,0,5,2:12 PM,3:33,,,Smith REBOUND (Off:7 Def:6),,
+0029800154,543,2,1,5,2:12 PM,3:22,Camby BLOCK (4 BLK),,MISS Garnett 8' Jump Shot,,
+0029800154,544,4,0,5,2:12 PM,3:20,Houston REBOUND (Off:0 Def:6),,,,
+0029800154,545,2,1,5,2:12 PM,3:02,MISS Ward 25' 3PT Jump Shot,,,,
+0029800154,546,4,0,5,2:12 PM,3:00,,,Smith REBOUND (Off:7 Def:7),,
+0029800154,547,2,1,5,2:13 PM,2:43,,,MISS Mitchell 15' Jump Shot,,
+0029800154,548,4,0,5,2:13 PM,2:42,Camby REBOUND (Off:2 Def:2),,,,
+0029800154,549,6,2,5,2:13 PM,2:34,,,Smith S.FOUL (P5.T2),,
+0029800154,550,3,11,5,2:13 PM,2:34,MISS Ewing Free Throw 1 of 2,,,,
+0029800154,551,4,2,5,2:13 PM,2:34,KNICKS Rebound,,,,
+0029800154,552,3,12,5,2:13 PM,2:34,Ewing Free Throw 2 of 2 (18 PTS),,,106 - 108,2
+0029800154,553,9,1,5,2:14 PM,2:18,,,Timberwolves Timeout: Regular (Reg.8 Short 2),,
+0029800154,555,2,1,5,2:16 PM,2:11,,,MISS Marbury 27' 3PT Jump Shot,,
+0029800154,556,4,0,5,2:16 PM,2:10,,,Smith REBOUND (Off:8 Def:7),,
+0029800154,557,6,2,5,2:16 PM,2:10,Camby S.FOUL (P3.T1),,,,
+0029800154,558,3,11,5,2:16 PM,2:10,,,Smith Free Throw 1 of 2 (18 PTS),107 - 108,1
+0029800154,559,3,12,5,2:17 PM,2:10,,,MISS Smith Free Throw 2 of 2,,
+0029800154,560,4,0,5,2:17 PM,2:10,Houston REBOUND (Off:0 Def:7),,,,
+0029800154,561,5,1,5,2:17 PM,1:46,Ward Bad Pass Turnover (P5.T17),,Marbury STEAL (3 STL),,
+0029800154,562,1,8,5,2:17 PM,1:41,,,Sealy  Slam Dunk (10 PTS) (Marbury 9 AST),109 - 108,-1
+0029800154,563,9,1,5,2:17 PM,1:41,KNICKS Timeout: Regular (Full 8 Short 2),,,,
+0029800154,565,1,5,5,2:20 PM,1:22,Johnson  Layup (22 PTS),,,109 - 110,1
+0029800154,566,6,2,5,2:20 PM,1:10,Houston S.FOUL (P4.T2),,,,
+0029800154,567,3,11,5,2:20 PM,1:10,,,Garnett Free Throw 1 of 2 (24 PTS),110 - 110,TIE
+0029800154,568,3,12,5,2:20 PM,1:10,,,Garnett Free Throw 2 of 2 (25 PTS),111 - 110,-1
+0029800154,569,9,1,5,2:21 PM,0:48,KNICKS Timeout: Regular (Full 9 Short 2),,,,
+0029800154,570,1,1,5,2:23 PM,0:46,Ewing 11' Jump Shot (20 PTS) (Ward 13 AST),,,111 - 112,1
+0029800154,571,2,6,5,2:24 PM,0:27,,,MISS Mitchell  Driving Layup,,
+0029800154,573,4,0,5,2:24 PM,0:27,,,Smith REBOUND (Off:9 Def:7),,
+0029800154,572,1,4,5,2:24 PM,0:27,,,Smith  Tip Shot (20 PTS),113 - 112,-1
+0029800154,574,9,1,5,2:24 PM,0:27,KNICKS Timeout: Regular (Full 10 Short 2),,,,
+0029800154,575,8,0,5,2:26 PM,0:27,SUB: Childs FOR Camby,,,,
+0029800154,576,8,0,5,2:26 PM,0:27,,,SUB: Jackson FOR Mitchell,,
+0029800154,577,1,1,5,2:27 PM,0:04,Houston 25' 3PT Jump Shot (26 PTS) (Johnson 6 AST),,,113 - 115,2
+0029800154,578,9,1,5,2:27 PM,0:04,,,Timberwolves Timeout: Regular (Reg.9 Short 2),,
+0029800154,579,8,0,5,2:29 PM,0:04,,,SUB: Mitchell FOR Jackson,,
+0029800154,580,8,0,5,2:29 PM,0:04,SUB: Camby FOR Childs,,,,
+0029800154,581,2,1,5,2:29 PM,0:01,Camby BLOCK (5 BLK),,MISS Marbury 7' Jump Shot,,
+0029800154,582,4,0,5,2:29 PM,0:00,,,Timberwolves Rebound,,
+0029800154,583,9,1,5,2:31 PM,0:00,,,Timberwolves Timeout: Regular (Reg.10 Short 2),,
+0029800154,585,2,5,5,2:32 PM,0:00,,,MISS Garnett  Layup,,
+0029800154,586,4,0,5,2:32 PM,0:00,,,Timberwolves Rebound,,
+0029800154,588,13,0,5,2:32 PM,0:00,,,,113 - 115,2

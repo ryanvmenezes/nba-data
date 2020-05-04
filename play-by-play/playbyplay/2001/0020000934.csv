@@ -1,0 +1,438 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000934,0,12,0,1,2:10 PM,12:00,,,,,
+0020000934,1,10,0,1,2:10 PM,12:00,Jump Ball Sabonis vs. Tsakalidis: Tip to Wallace,,,,
+0020000934,2,1,1,1,2:11 PM,11:40,Wallace 18' Jump Shot (2 PTS) (Stoudamire 1 AST),,,0 - 2,2
+0020000934,3,2,1,1,2:12 PM,11:18,,,MISS Robinson 21' Jump Shot,,
+0020000934,5,4,0,1,2:12 PM,11:15,,,Tsakalidis REBOUND (Off:1 Def:0),,
+0020000934,4,2,5,1,2:12 PM,11:15,,,MISS Tsakalidis  Layup,,
+0020000934,7,4,0,1,2:12 PM,11:15,,,Tsakalidis REBOUND (Off:2 Def:0),,
+0020000934,6,1,5,1,2:12 PM,11:15,,,Tsakalidis  Layup (2 PTS),2 - 2,TIE
+0020000934,8,6,2,1,2:12 PM,11:15,Pippen S.FOUL (P1.T1),,,,
+0020000934,9,3,10,1,2:12 PM,11:15,,,MISS Tsakalidis Free Throw 1 of 1,,
+0020000934,10,4,0,1,2:12 PM,11:14,Sabonis REBOUND (Off:0 Def:1),,,,
+0020000934,11,5,4,1,2:13 PM,10:58,Sabonis Traveling Turnover (P1.T1),,,,
+0020000934,12,1,1,1,2:13 PM,10:41,,,Marion 10' Jump Shot (2 PTS) (Kidd 1 AST),4 - 2,-2
+0020000934,13,1,1,1,2:13 PM,10:26,Pippen 16' Jump Shot (2 PTS) (Wells 1 AST),,,4 - 4,TIE
+0020000934,14,2,1,1,2:14 PM,10:12,,,MISS Tsakalidis 14' Jump Shot,,
+0020000934,15,4,0,1,2:14 PM,10:10,Sabonis REBOUND (Off:0 Def:2),,,,
+0020000934,16,2,1,1,2:14 PM,10:02,MISS Stoudamire 21' Jump Shot,,,,
+0020000934,17,4,0,1,2:14 PM,10:00,,,Tsakalidis REBOUND (Off:2 Def:1),,
+0020000934,18,1,46,1,2:14 PM,9:51,,,Marion 6' Running Jump Shot (4 PTS),6 - 4,-2
+0020000934,19,2,1,1,2:14 PM,9:40,MISS Wells 5' Jump Shot,,,,
+0020000934,20,4,0,1,2:14 PM,9:36,,,Robinson REBOUND (Off:0 Def:1),,
+0020000934,21,2,1,1,2:14 PM,9:32,,,MISS Marion 19' Jump Shot,,
+0020000934,22,4,0,1,2:14 PM,9:30,Wallace REBOUND (Off:0 Def:1),,,,
+0020000934,23,2,1,1,2:14 PM,9:16,MISS Sabonis 23' Jump Shot,,,,
+0020000934,24,4,0,1,2:15 PM,9:13,,,Marion REBOUND (Off:0 Def:1),,
+0020000934,25,2,1,1,2:15 PM,9:03,,,MISS Robinson 5' Jump Shot,,
+0020000934,26,4,0,1,2:15 PM,9:02,Sabonis REBOUND (Off:0 Def:3),,,,
+0020000934,27,5,1,1,2:15 PM,8:54,Pippen Bad Pass Turnover (P1.T2),,Robinson STEAL (1 STL),,
+0020000934,28,1,1,1,2:15 PM,8:31,,,Marion 10' Jump Shot (6 PTS) (Elie 1 AST),8 - 4,-4
+0020000934,29,6,2,1,2:15 PM,8:19,,,Kidd S.FOUL (P1.T1),,
+0020000934,30,3,11,1,2:16 PM,8:19,Stoudamire Free Throw 1 of 2 (1 PTS),,,8 - 5,-3
+0020000934,31,3,12,1,2:16 PM,8:19,Stoudamire Free Throw 2 of 2 (2 PTS),,,8 - 6,-2
+0020000934,32,2,5,1,2:16 PM,8:03,Sabonis BLOCK (1 BLK),,MISS Tsakalidis  Layup,,
+0020000934,33,4,0,1,2:16 PM,8:01,Sabonis REBOUND (Off:0 Def:4),,,,
+0020000934,34,2,5,1,2:16 PM,7:33,MISS Pippen  Layup,,,,
+0020000934,35,4,0,1,2:17 PM,7:32,,,Tsakalidis REBOUND (Off:2 Def:2),,
+0020000934,36,5,1,1,2:17 PM,7:31,Wells STEAL (1 STL),,Tsakalidis Bad Pass Turnover (P1.T1),,
+0020000934,38,2,1,1,2:17 PM,7:29,MISS Wells 19' Jump Shot,,,,
+0020000934,39,4,0,1,2:17 PM,7:27,Sabonis REBOUND (Off:1 Def:4),,,,
+0020000934,40,6,1,1,2:17 PM,7:23,,,Tsakalidis P.FOUL (P1.T2),,
+0020000934,41,2,3,1,2:18 PM,7:11,MISS Sabonis 8' Hook Shot,,,,
+0020000934,42,4,0,1,2:18 PM,7:08,,,Kidd REBOUND (Off:0 Def:1),,
+0020000934,43,6,1,1,2:18 PM,7:00,Wallace P.FOUL (P1.T2),,,,
+0020000934,44,5,1,1,2:18 PM,6:54,Wells STEAL (2 STL),,Kidd Bad Pass Turnover (P1.T2),,
+0020000934,45,5,2,1,2:19 PM,6:35,Wallace Lost Ball Turnover (P1.T3),,,,
+0020000934,46,6,11,1,2:19 PM,6:35,Wallace T.FOUL (P1.T2),,,,
+0020000934,47,3,16,1,2:19 PM,6:35,,,Marion Free Throw Technical (7 PTS),9 - 6,-3
+0020000934,48,2,1,1,2:19 PM,6:20,,,MISS Robinson 18' Jump Shot,,
+0020000934,49,4,0,1,2:19 PM,6:18,Stoudamire REBOUND (Off:0 Def:1),,,,
+0020000934,50,5,8,1,2:20 PM,6:07,Wells 3 Second Violation Turnover (P1.T4),,,,
+0020000934,51,1,42,1,2:20 PM,5:50,,,Marion  Driving Layup (9 PTS) (Elie 2 AST),11 - 6,-5
+0020000934,52,1,1,1,2:20 PM,5:34,Sabonis 23' Jump Shot (2 PTS) (Stoudamire 2 AST),,,11 - 8,-3
+0020000934,53,1,1,1,2:21 PM,5:17,,,Tsakalidis 17' Jump Shot (4 PTS) (Elie 3 AST),13 - 8,-5
+0020000934,54,6,2,1,2:21 PM,4:55,,,Robinson S.FOUL (P1.T3),,
+0020000934,55,9,1,1,2:21 PM,4:55,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,
+0020000934,57,8,0,1,2:23 PM,4:55,,,SUB: Gugliotta FOR Robinson,,
+0020000934,58,3,11,1,2:24 PM,4:55,MISS Wallace Free Throw 1 of 2,,,,
+0020000934,59,4,1,1,2:24 PM,4:55,TRAIL BLAZERS Rebound,,,,
+0020000934,60,3,12,1,2:24 PM,4:55,MISS Wallace Free Throw 2 of 2,,,,
+0020000934,61,4,0,1,2:24 PM,4:54,Sabonis REBOUND (Off:2 Def:4),,,,
+0020000934,62,5,1,1,2:24 PM,4:45,Sabonis Bad Pass Turnover (P2.T5),,Marion STEAL (1 STL),,
+0020000934,63,6,1,1,2:25 PM,4:26,Wallace P.FOUL (P2.T3),,,,
+0020000934,64,2,1,1,2:25 PM,4:17,,,MISS Marion 20' Jump Shot,,
+0020000934,65,4,0,1,2:25 PM,4:15,Wells REBOUND (Off:0 Def:1),,,,
+0020000934,66,1,1,1,2:25 PM,3:58,Sabonis 23' Jump Shot (4 PTS) (Pippen 1 AST),,,13 - 10,-3
+0020000934,67,2,1,1,2:25 PM,3:44,,,MISS Kidd 18' Jump Shot,,
+0020000934,68,4,0,1,2:25 PM,3:41,Wallace REBOUND (Off:0 Def:2),,,,
+0020000934,69,6,1,1,2:26 PM,3:35,,,Elie P.FOUL (P1.T4),,
+0020000934,70,8,0,1,2:26 PM,3:35,SUB: Davis FOR Wallace,,,,
+0020000934,71,8,0,1,2:26 PM,3:35,,,SUB: Rogers FOR Tsakalidis,,
+0020000934,72,5,1,1,2:26 PM,3:25,Stoudamire Bad Pass Turnover (P1.T6),,Gugliotta STEAL (1 STL),,
+0020000934,73,1,1,1,2:27 PM,3:07,,,Marion 14' Jump Shot (11 PTS) (Elie 4 AST),15 - 10,-5
+0020000934,74,6,1,1,2:27 PM,2:54,,,Gugliotta P.FOUL (P1.PN),,
+0020000934,75,9,1,1,2:27 PM,2:54,,,Suns Timeout: Regular (Reg.1 Short 0),,
+0020000934,77,8,0,1,2:29 PM,2:54,SUB: Strickland FOR Stoudamire,,,,
+0020000934,78,8,0,1,2:29 PM,2:54,SUB: Smith FOR Wells,,,,
+0020000934,79,3,11,1,2:29 PM,2:54,Sabonis Free Throw 1 of 2 (5 PTS),,,15 - 11,-4
+0020000934,80,3,12,1,2:30 PM,2:54,MISS Sabonis Free Throw 2 of 2,,,,
+0020000934,81,4,0,1,2:30 PM,2:51,,,Rogers REBOUND (Off:0 Def:1),,
+0020000934,82,2,46,1,2:30 PM,2:39,,,MISS Gugliotta 9' Running Jump Shot,,
+0020000934,84,4,0,1,2:30 PM,2:37,,,Gugliotta REBOUND (Off:1 Def:0),,
+0020000934,83,1,4,1,2:30 PM,2:37,,,Gugliotta  Tip Shot (2 PTS),17 - 11,-6
+0020000934,85,2,47,1,2:30 PM,2:21,MISS Davis 5' Turnaround Jump Shot,,,,
+0020000934,86,4,0,1,2:30 PM,2:19,,,Gugliotta REBOUND (Off:1 Def:1),,
+0020000934,87,1,1,1,2:30 PM,2:09,,,Kidd 19' Jump Shot (2 PTS),19 - 11,-8
+0020000934,88,2,1,1,2:31 PM,1:54,MISS Sabonis 21' Jump Shot,,,,
+0020000934,89,4,0,1,2:31 PM,1:51,,,Marion REBOUND (Off:0 Def:2),,
+0020000934,90,5,1,1,2:31 PM,1:40,,,Gugliotta Bad Pass Turnover (P1.T3),,
+0020000934,91,8,0,1,2:31 PM,1:40,SUB: Kemp FOR Sabonis,,,,
+0020000934,92,8,0,1,2:31 PM,1:40,,,SUB: Delk FOR Elie,,
+0020000934,93,6,4,1,2:32 PM,1:19,Kemp OFF.Foul (P1),,,,
+0020000934,94,5,5,1,2:32 PM,1:19,Kemp Foul Turnover (P1.T7),,,,
+0020000934,95,2,1,1,2:32 PM,1:06,,,MISS Gugliotta 21' Jump Shot,,
+0020000934,96,4,0,1,2:32 PM,1:04,Davis REBOUND (Off:0 Def:1),,,,
+0020000934,97,5,1,1,2:32 PM,0:47,Pippen Bad Pass Turnover (P2.T8),,,,
+0020000934,98,1,46,1,2:33 PM,0:32,,,Marion 12' Running Jump Shot (13 PTS) (Delk 1 AST),21 - 11,-10
+0020000934,99,1,1,1,2:33 PM,0:11,Kemp 22' Jump Shot (2 PTS) (Smith 1 AST),,,21 - 13,-8
+0020000934,100,2,1,1,2:33 PM,0:01,,,MISS Kidd 23' Jump Shot,,
+0020000934,102,4,0,1,2:34 PM,0:00,,,Marion REBOUND (Off:1 Def:2),,
+0020000934,101,1,4,1,2:34 PM,0:00,,,Marion  Tip Shot (15 PTS),23 - 13,-10
+0020000934,103,13,0,1,2:34 PM,0:00,,,,23 - 13,-10
+0020000934,105,12,0,2,2:36 PM,12:00,,,,23 - 13,-10
+0020000934,106,6,1,2,2:37 PM,11:45,Smith P.FOUL (P1.T1),,,,
+0020000934,107,1,1,2,2:37 PM,11:33,,,Delk 21' Jump Shot (2 PTS) (Robinson 1 AST),25 - 13,-12
+0020000934,108,2,1,2,2:38 PM,11:12,MISS Kemp 21' Jump Shot,,,,
+0020000934,109,4,0,2,2:38 PM,11:10,,,Kidd REBOUND (Off:0 Def:2),,
+0020000934,110,2,1,2,2:38 PM,11:05,,,MISS Gugliotta 9' Jump Shot,,
+0020000934,111,4,0,2,2:38 PM,11:03,,,Gugliotta REBOUND (Off:2 Def:1),,
+0020000934,112,2,1,2,2:38 PM,11:01,,,MISS Gugliotta 12' Jump Shot,,
+0020000934,113,4,0,2,2:38 PM,11:01,TRAIL BLAZERS Rebound,,,,
+0020000934,114,2,1,2,2:38 PM,10:38,MISS Kemp 20' Jump Shot,,,,
+0020000934,115,4,0,2,2:38 PM,10:35,,,Kidd REBOUND (Off:0 Def:3),,
+0020000934,116,2,1,2,2:38 PM,10:30,,,MISS Delk 23' Jump Shot,,
+0020000934,117,4,0,2,2:38 PM,10:28,Davis REBOUND (Off:0 Def:2),,,,
+0020000934,118,8,0,2,2:39 PM,10:25,,,SUB: Del Negro FOR Kidd,,
+0020000934,119,2,5,2,2:39 PM,10:22,MISS Kemp  Layup,,,,
+0020000934,120,4,0,2,2:39 PM,10:20,,,Gugliotta REBOUND (Off:2 Def:2),,
+0020000934,121,6,11,2,2:39 PM,10:16,,,,,
+0020000934,122,3,16,2,2:39 PM,10:16,,,MISS Delk Free Throw Technical,,
+0020000934,123,4,1,2,2:39 PM,10:16,,,Suns Rebound,,
+0020000934,124,8,0,2,2:40 PM,10:16,SUB: Wallace FOR Kemp,,,,
+0020000934,125,1,1,2,2:40 PM,10:12,,,Delk 22' Jump Shot (4 PTS),27 - 13,-14
+0020000934,126,6,1,2,2:40 PM,10:01,,,Robinson P.FOUL (P2.T1),,
+0020000934,127,2,1,2,2:40 PM,9:55,MISS Davis 8' Jump Shot,,,,
+0020000934,128,4,0,2,2:41 PM,9:53,,,Robinson REBOUND (Off:0 Def:2),,
+0020000934,129,1,1,2,2:41 PM,9:45,,,Del Negro 12' Jump Shot (2 PTS) (Robinson 2 AST),29 - 13,-16
+0020000934,130,6,1,2,2:41 PM,9:35,,,Delk P.FOUL (P1.T2),,
+0020000934,131,8,0,2,2:41 PM,9:35,,,SUB: Tsakalidis FOR Robinson,,
+0020000934,132,6,4,2,2:41 PM,9:32,Smith OFF.Foul (P2),,,,
+0020000934,133,5,5,2,2:41 PM,9:32,Smith Foul Turnover (P1.T9),,,,
+0020000934,134,2,1,2,2:42 PM,9:18,,,MISS Rogers 24' 3PT Jump Shot,,
+0020000934,135,4,0,2,2:42 PM,9:14,,,Gugliotta REBOUND (Off:3 Def:2),,
+0020000934,136,2,1,2,2:42 PM,9:09,,,MISS Del Negro 18' Jump Shot,,
+0020000934,137,4,0,2,2:42 PM,9:06,,,Rogers REBOUND (Off:1 Def:1),,
+0020000934,138,2,5,2,2:42 PM,9:05,,,MISS Rogers  Layup,,
+0020000934,139,4,0,2,2:42 PM,9:03,Davis REBOUND (Off:0 Def:3),,,,
+0020000934,140,1,1,2,2:42 PM,8:54,Wallace 20' Jump Shot (4 PTS) (Strickland 1 AST),,,29 - 15,-14
+0020000934,141,2,1,2,2:42 PM,8:39,,,MISS Rogers 19' Jump Shot,,
+0020000934,142,4,0,2,2:42 PM,8:36,Wallace REBOUND (Off:0 Def:3),,,,
+0020000934,143,2,1,2,2:42 PM,8:29,MISS Wallace 24' 3PT Jump Shot,,,,
+0020000934,144,4,0,2,2:42 PM,8:27,Schrempf REBOUND (Off:1 Def:0),,,,
+0020000934,145,2,1,2,2:43 PM,8:23,MISS Schrempf 16' Jump Shot,,,,
+0020000934,146,4,0,2,2:43 PM,8:22,Schrempf REBOUND (Off:2 Def:0),,,,
+0020000934,147,6,1,2,2:43 PM,8:21,,,Del Negro P.FOUL (P1.T3),,
+0020000934,148,9,4,2,2:43 PM,8:21,,,,,
+0020000934,150,1,1,2,2:45 PM,8:11,Schrempf 17' Jump Shot (2 PTS) (Davis 1 AST),,,29 - 17,-12
+0020000934,151,2,1,2,2:46 PM,7:45,,,MISS Gugliotta 15' Jump Shot,,
+0020000934,152,4,0,2,2:46 PM,7:42,,,Rogers REBOUND (Off:2 Def:1),,
+0020000934,153,1,4,2,2:46 PM,7:40,,,Rogers  Tip Shot (2 PTS),31 - 17,-14
+0020000934,154,1,1,2,2:46 PM,7:27,Davis 16' Jump Shot (2 PTS) (Schrempf 1 AST),,,31 - 19,-12
+0020000934,155,2,1,2,2:46 PM,7:03,,,MISS Del Negro 19' Jump Shot,,
+0020000934,156,4,0,2,2:46 PM,7:01,Strickland REBOUND (Off:0 Def:1),,,,
+0020000934,157,2,1,2,2:46 PM,6:55,MISS Schrempf 26' 3PT Jump Shot,,,,
+0020000934,158,4,0,2,2:46 PM,6:53,,,Del Negro REBOUND (Off:0 Def:1),,
+0020000934,159,5,4,2,2:47 PM,6:49,,,Delk Traveling Turnover (P1.T4),,
+0020000934,160,8,0,2,2:47 PM,6:49,SUB: Stoudamire FOR Strickland,,,,
+0020000934,161,2,1,2,2:47 PM,6:33,MISS Smith 27' 3PT Jump Shot,,,,
+0020000934,162,4,0,2,2:47 PM,6:31,,,Suns Rebound,,
+0020000934,163,1,1,2,2:48 PM,6:16,,,Gugliotta 15' Jump Shot (4 PTS) (Del Negro 1 AST),33 - 19,-14
+0020000934,164,6,1,2,2:48 PM,6:07,,,Delk P.FOUL (P2.T4),,
+0020000934,165,8,0,2,2:48 PM,6:07,,,SUB: Marion FOR Gugliotta,,
+0020000934,166,8,0,2,2:48 PM,6:07,,,SUB: Elie FOR Delk,,
+0020000934,167,2,46,2,2:48 PM,6:01,MISS Stoudamire 9' Running Jump Shot,,,,
+0020000934,168,4,0,2,2:48 PM,5:59,,,Tsakalidis REBOUND (Off:2 Def:3),,
+0020000934,169,6,2,2,2:49 PM,5:45,Schrempf S.FOUL (P1.T2),,,,
+0020000934,170,9,1,2,2:49 PM,5:45,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,
+0020000934,172,8,0,2,2:51 PM,5:45,SUB: Wells FOR Smith,,,,
+0020000934,173,8,0,2,2:51 PM,5:45,,,SUB: Kidd FOR Del Negro,,
+0020000934,174,3,11,2,2:51 PM,5:45,,,MISS Marion Free Throw 1 of 2,,
+0020000934,175,4,1,2,2:51 PM,5:45,,,Suns Rebound,,
+0020000934,176,3,12,2,2:51 PM,5:45,,,Marion Free Throw 2 of 2 (16 PTS),34 - 19,-15
+0020000934,177,2,1,2,2:52 PM,5:23,MISS Wallace 19' Jump Shot,,,,
+0020000934,178,4,0,2,2:52 PM,5:20,TRAIL BLAZERS Rebound,,,,
+0020000934,179,2,5,2,2:52 PM,5:11,MISS Wells  Layup,,,,
+0020000934,180,4,0,2,2:53 PM,5:08,,,Kidd REBOUND (Off:0 Def:4),,
+0020000934,181,5,1,2,2:53 PM,4:54,Davis STEAL (1 STL),,Kidd Bad Pass Turnover (P2.T5),,
+0020000934,182,2,1,2,2:53 PM,4:45,MISS Davis 16' Jump Shot,,,,
+0020000934,183,4,0,2,2:53 PM,4:43,Wallace REBOUND (Off:1 Def:3),,,,
+0020000934,184,1,7,2,2:53 PM,4:42,Wallace  Dunk (6 PTS),,,34 - 21,-13
+0020000934,185,5,11,2,2:54 PM,4:09,,,Suns Turnover: Shot Clock (T#6),,
+0020000934,186,8,0,2,2:54 PM,4:09,SUB: Pippen FOR Schrempf,,,,
+0020000934,187,6,1,2,2:55 PM,3:52,,,Tsakalidis P.FOUL (P2.PN),,
+0020000934,189,8,0,2,2:55 PM,3:52,,,SUB: Robinson FOR Rogers,,
+0020000934,190,3,11,2,2:55 PM,3:52,MISS Davis Free Throw 1 of 2,,,,
+0020000934,191,4,1,2,2:55 PM,3:52,TRAIL BLAZERS Rebound,,,,
+0020000934,192,3,12,2,2:55 PM,3:52,MISS Davis Free Throw 2 of 2,,,,
+0020000934,193,4,0,2,2:55 PM,3:51,,,Marion REBOUND (Off:1 Def:3),,
+0020000934,194,2,42,2,2:56 PM,3:36,,,MISS Robinson  Driving Layup,,
+0020000934,195,4,0,2,2:56 PM,3:34,Wallace REBOUND (Off:1 Def:4),,,,
+0020000934,196,2,1,2,2:56 PM,3:26,MISS Wallace 25' 3PT Jump Shot,,,,
+0020000934,197,4,0,2,2:56 PM,3:24,Wells REBOUND (Off:1 Def:1),,,,
+0020000934,198,7,2,2,2:56 PM,3:17,,,Robinson Violation:Defensive Goaltending,,
+0020000934,199,8,0,2,2:56 PM,3:17,SUB: Sabonis FOR Davis,,,,
+0020000934,200,6,4,2,2:56 PM,3:12,Wells OFF.Foul (P1),,,,
+0020000934,201,5,5,2,2:56 PM,3:12,Wells Foul Turnover (P2.T10),,,,
+0020000934,202,1,1,2,2:57 PM,2:58,,,Kidd 22' Jump Shot (4 PTS) (Tsakalidis 1 AST),36 - 21,-15
+0020000934,203,6,1,2,2:57 PM,2:46,,,Elie P.FOUL (P2.PN),,
+0020000934,204,9,1,2,2:57 PM,2:46,,,Suns Timeout: Regular (Reg.2 Short 0),,
+0020000934,206,3,11,2,3:00 PM,2:46,Wallace Free Throw 1 of 2 (7 PTS),,,36 - 22,-14
+0020000934,207,3,12,2,3:00 PM,2:46,MISS Wallace Free Throw 2 of 2,,,,
+0020000934,208,4,0,2,3:00 PM,2:45,,,Marion REBOUND (Off:1 Def:4),,
+0020000934,209,2,5,2,3:01 PM,2:30,Wallace BLOCK (1 BLK),,MISS Elie  Layup,,
+0020000934,210,4,0,2,3:01 PM,2:28,Wallace REBOUND (Off:1 Def:5),,,,
+0020000934,211,2,5,2,3:01 PM,2:24,MISS Wells  Layup,,,,
+0020000934,212,4,0,2,3:01 PM,2:22,Stoudamire REBOUND (Off:1 Def:1),,,,
+0020000934,213,1,5,2,3:01 PM,2:13,Wallace  Layup (9 PTS) (Wells 2 AST),,,36 - 24,-12
+0020000934,214,2,1,2,3:01 PM,2:00,,,MISS Robinson 18' Jump Shot,,
+0020000934,215,4,0,2,3:01 PM,1:59,Sabonis REBOUND (Off:2 Def:5),,,,
+0020000934,216,5,2,2,3:01 PM,1:54,Wells Lost Ball Turnover (P3.T11),,,,
+0020000934,217,2,1,2,3:01 PM,1:40,,,MISS Elie 25' 3PT Jump Shot,,
+0020000934,218,4,0,2,3:01 PM,1:39,Pippen REBOUND (Off:0 Def:1),,,,
+0020000934,219,2,1,2,3:02 PM,1:27,MISS Stoudamire 20' Jump Shot,,,,
+0020000934,220,4,0,2,3:02 PM,1:25,,,Elie REBOUND (Off:0 Def:1),,
+0020000934,221,2,1,2,3:02 PM,1:17,,,MISS Robinson 26' 3PT Jump Shot,,
+0020000934,222,4,0,2,3:02 PM,1:15,,,Tsakalidis REBOUND (Off:3 Def:3),,
+0020000934,223,6,1,2,3:02 PM,1:04,Wells P.FOUL (P2.T3),,,,
+0020000934,224,8,0,2,3:02 PM,1:04,,,SUB: Rogers FOR Elie,,
+0020000934,225,8,0,2,3:02 PM,1:04,,,SUB: Gugliotta FOR Tsakalidis,,
+0020000934,226,2,1,2,3:03 PM,0:56,,,MISS Gugliotta 21' Jump Shot,,
+0020000934,227,4,0,2,3:03 PM,0:54,Stoudamire REBOUND (Off:1 Def:2),,,,
+0020000934,228,1,47,2,3:03 PM,0:36,Wallace 7' Turnaround Jump Shot (11 PTS) (Sabonis 1 AST),,,36 - 26,-10
+0020000934,229,6,2,2,3:03 PM,0:36,,,Gugliotta S.FOUL (P2.PN),,
+0020000934,230,8,0,2,3:03 PM,0:36,SUB: Smith FOR Sabonis,,,,
+0020000934,237,8,0,2,3:03 PM,0:36,,,SUB: Elie FOR Robinson,,
+0020000934,231,3,10,2,3:03 PM,0:36,Wallace Free Throw 1 of 1 (12 PTS),,,36 - 27,-9
+0020000934,232,2,1,2,3:04 PM,0:18,,,MISS Kidd 27' 3PT Jump Shot,,
+0020000934,233,4,0,2,3:04 PM,0:15,,,Elie REBOUND (Off:1 Def:1),,
+0020000934,234,6,1,2,3:04 PM,0:15,Stoudamire P.FOUL (P1.PN),,,,
+0020000934,235,3,11,2,3:04 PM,0:15,,,Kidd Free Throw 1 of 2 (5 PTS),37 - 27,-10
+0020000934,236,3,12,2,3:05 PM,0:15,,,Kidd Free Throw 2 of 2 (6 PTS),38 - 27,-11
+0020000934,238,2,1,2,3:05 PM,0:01,MISS Stoudamire 16' Jump Shot,,,,
+0020000934,239,4,0,2,3:05 PM,0:00,,,Rogers REBOUND (Off:2 Def:2),,
+0020000934,240,2,1,2,3:05 PM,0:00,,,MISS Kidd 64' 3PT Jump Shot,,
+0020000934,241,4,0,2,3:05 PM,0:00,,,Suns Rebound,,
+0020000934,242,13,0,2,3:06 PM,0:00,,,,38 - 27,-11
+0020000934,244,12,0,3,3:22 PM,12:00,,,,38 - 27,-11
+0020000934,245,6,2,3,3:22 PM,11:50,Pippen S.FOUL (P2.T1),,,,
+0020000934,246,3,11,3,3:22 PM,11:50,,,Marion Free Throw 1 of 2 (17 PTS),39 - 27,-12
+0020000934,247,3,12,3,3:22 PM,11:50,,,Marion Free Throw 2 of 2 (18 PTS),40 - 27,-13
+0020000934,248,1,1,3,3:23 PM,11:33,Wallace 9' Jump Shot (14 PTS) (Pippen 2 AST),,,40 - 29,-11
+0020000934,249,2,1,3,3:23 PM,11:13,,,MISS Robinson  3PT Jump Shot,,
+0020000934,250,4,0,3,3:23 PM,11:11,Stoudamire REBOUND (Off:1 Def:3),,,,
+0020000934,251,2,1,3,3:23 PM,10:57,MISS Pippen 26' 3PT Jump Shot,,,,
+0020000934,252,4,0,3,3:23 PM,10:55,,,Marion REBOUND (Off:1 Def:5),,
+0020000934,253,2,1,3,3:24 PM,10:41,,,MISS Tsakalidis 11' Jump Shot,,
+0020000934,254,4,0,3,3:24 PM,10:39,Sabonis REBOUND (Off:2 Def:6),,,,
+0020000934,255,2,47,3,3:24 PM,10:31,MISS Wallace 12' Turnaround Jump Shot,,,,
+0020000934,256,4,0,3,3:24 PM,10:29,,,Marion REBOUND (Off:1 Def:6),,
+0020000934,257,1,42,3,3:24 PM,10:13,,,Marion  Driving Layup (20 PTS) (Robinson 3 AST),42 - 29,-13
+0020000934,258,1,1,3,3:24 PM,9:52,Stoudamire 25' 3PT Jump Shot (5 PTS) (Pippen 3 AST),,,42 - 32,-10
+0020000934,259,1,5,3,3:25 PM,9:30,,,Tsakalidis  Layup (6 PTS) (Robinson 4 AST),44 - 32,-12
+0020000934,260,2,5,3,3:25 PM,9:10,MISS Pippen 7' Layup,,,,
+0020000934,261,4,0,3,3:25 PM,9:05,,,Kidd REBOUND (Off:0 Def:5),,
+0020000934,262,1,1,3,3:25 PM,8:58,,,Kidd 14' Jump Shot (8 PTS),46 - 32,-14
+0020000934,263,2,1,3,3:26 PM,8:42,MISS Wells 26' 3PT Jump Shot,,,,
+0020000934,264,4,0,3,3:26 PM,8:41,,,Tsakalidis REBOUND (Off:3 Def:4),,
+0020000934,265,2,1,3,3:26 PM,8:16,,,MISS Kidd 26' 3PT Jump Shot,,
+0020000934,266,4,0,3,3:26 PM,8:13,Wallace REBOUND (Off:1 Def:6),,,,
+0020000934,267,2,1,3,3:26 PM,7:59,MISS Sabonis 18' Jump Shot,,,,
+0020000934,268,4,0,3,3:26 PM,7:57,,,Marion REBOUND (Off:1 Def:7),,
+0020000934,269,1,8,3,3:26 PM,7:49,,,Tsakalidis  Slam Dunk (8 PTS) (Kidd 2 AST),48 - 32,-16
+0020000934,270,6,2,3,3:26 PM,7:49,Sabonis S.FOUL (P1.T2),,,,
+0020000934,271,3,10,3,3:27 PM,7:49,,,Tsakalidis Free Throw 1 of 1 (9 PTS),49 - 32,-17
+0020000934,272,6,1,3,3:27 PM,7:38,,,Robinson P.FOUL (P3.T1),,
+0020000934,273,2,1,3,3:28 PM,7:24,MISS Stoudamire 19' Jump Shot,,,,
+0020000934,275,4,0,3,3:28 PM,7:23,Wells REBOUND (Off:2 Def:1),,,,
+0020000934,274,1,7,3,3:28 PM,7:23,Wells  Dunk (2 PTS),,,49 - 34,-15
+0020000934,276,5,2,3,3:28 PM,7:00,Pippen STEAL (1 STL),,Tsakalidis Lost Ball Turnover (P2.T7),,
+0020000934,277,1,5,3,3:28 PM,6:53,Wells  Layup (4 PTS) (Pippen 4 AST),,,49 - 36,-13
+0020000934,278,9,1,3,3:28 PM,6:49,,,Suns Timeout: Regular (Reg.3 Short 0),,
+0020000934,280,2,1,3,3:31 PM,6:29,,,MISS Marion 14' Jump Shot,,
+0020000934,281,4,0,3,3:31 PM,6:28,Wells REBOUND (Off:2 Def:2),,,,
+0020000934,282,6,1,3,3:31 PM,6:22,,,Elie P.FOUL (P3.T2),,
+0020000934,283,2,1,3,3:32 PM,6:06,MISS Sabonis 20' Jump Shot,,,,
+0020000934,284,4,0,3,3:32 PM,6:04,Wallace REBOUND (Off:2 Def:6),,,,
+0020000934,285,1,7,3,3:32 PM,6:00,Pippen  Dunk (4 PTS) (Wallace 1 AST),,,49 - 38,-11
+0020000934,286,6,1,3,3:32 PM,5:51,Wells P.FOUL (P3.T3),,,,
+0020000934,287,8,0,3,3:32 PM,5:51,,,SUB: Gugliotta FOR Robinson,,
+0020000934,288,8,0,3,3:32 PM,5:51,SUB: Davis FOR Sabonis,,,,
+0020000934,289,2,3,3,3:32 PM,5:43,,,MISS Gugliotta 4' Hook Shot,,
+0020000934,291,4,0,3,3:32 PM,5:41,,,Gugliotta REBOUND (Off:4 Def:2),,
+0020000934,290,1,4,3,3:32 PM,5:41,,,Gugliotta  Tip Shot (6 PTS),51 - 38,-13
+0020000934,292,2,47,3,3:33 PM,5:22,MISS Wells 9' Turnaround Jump Shot,,,,
+0020000934,293,4,0,3,3:33 PM,5:20,Davis REBOUND (Off:1 Def:3),,,,
+0020000934,294,1,1,3,3:33 PM,5:17,Wells 18' Jump Shot (6 PTS) (Davis 2 AST),,,51 - 40,-11
+0020000934,295,2,1,3,3:33 PM,4:49,,,MISS Gugliotta 21' Jump Shot,,
+0020000934,297,4,0,3,3:33 PM,4:47,,,Marion REBOUND (Off:2 Def:7),,
+0020000934,296,2,1,3,3:33 PM,4:47,,,MISS Marion 5' Jump Shot,,
+0020000934,298,4,0,3,3:33 PM,4:45,Wells REBOUND (Off:2 Def:3),,,,
+0020000934,299,2,1,3,3:33 PM,4:38,MISS Wells 6' Jump Shot,,,,
+0020000934,300,4,0,3,3:33 PM,4:36,,,Kidd REBOUND (Off:0 Def:6),,
+0020000934,301,6,4,3,3:34 PM,4:29,,,Marion OFF.Foul (P1),,
+0020000934,302,5,5,3,3:34 PM,4:29,,,Marion Foul Turnover (P1.T8),,
+0020000934,303,1,1,3,3:34 PM,4:15,Wallace 21' Jump Shot (16 PTS) (Pippen 5 AST),,,51 - 42,-9
+0020000934,304,1,1,3,3:35 PM,3:53,,,Marion 20' Jump Shot (22 PTS) (Gugliotta 1 AST),53 - 42,-11
+0020000934,305,1,5,3,3:35 PM,3:46,Pippen  Layup (6 PTS) (Stoudamire 3 AST),,,53 - 44,-9
+0020000934,306,6,2,3,3:35 PM,3:46,,,Tsakalidis S.FOUL (P3.T3),,
+0020000934,307,3,10,3,3:35 PM,3:46,Pippen Free Throw 1 of 1 (7 PTS),,,53 - 45,-8
+0020000934,308,2,5,3,3:35 PM,3:30,Davis BLOCK (1 BLK),,MISS Tsakalidis  Layup,,
+0020000934,309,4,0,3,3:36 PM,3:29,,,Suns Rebound,,
+0020000934,310,5,1,3,3:36 PM,3:24,Pippen STEAL (2 STL),,Elie Bad Pass Turnover (P1.T9),,
+0020000934,311,2,1,3,3:36 PM,3:16,MISS Pippen  3PT Jump Shot,,,,
+0020000934,312,4,0,3,3:36 PM,3:14,,,Marion REBOUND (Off:2 Def:8),,
+0020000934,313,8,0,3,3:37 PM,3:06,,,SUB: Delk FOR Elie,,
+0020000934,314,1,1,3,3:37 PM,2:56,,,Delk 15' Jump Shot (6 PTS),55 - 45,-10
+0020000934,315,6,2,3,3:37 PM,2:56,Stoudamire S.FOUL (P2.T4),,,,
+0020000934,316,9,1,3,3:37 PM,2:56,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,,,
+0020000934,318,3,10,3,3:39 PM,2:56,,,MISS Delk Free Throw 1 of 1,,
+0020000934,319,4,0,3,3:40 PM,2:56,Davis REBOUND (Off:1 Def:4),,,,
+0020000934,320,1,1,3,3:40 PM,2:34,Stoudamire 24' 3PT Jump Shot (8 PTS) (Pippen 6 AST),,,55 - 48,-7
+0020000934,321,2,46,3,3:40 PM,2:14,,,MISS Marion 11' Running Jump Shot,,
+0020000934,322,4,0,3,3:40 PM,2:12,Davis REBOUND (Off:1 Def:5),,,,
+0020000934,323,1,1,3,3:41 PM,1:54,Stoudamire 26' 3PT Jump Shot (11 PTS),,,55 - 51,-4
+0020000934,324,1,1,3,3:41 PM,1:35,,,Kidd 26' 3PT Jump Shot (11 PTS) (Gugliotta 2 AST),58 - 51,-7
+0020000934,325,1,1,3,3:41 PM,1:18,Wallace 15' Jump Shot (18 PTS) (Stoudamire 4 AST),,,58 - 53,-5
+0020000934,326,6,1,3,3:42 PM,0:53,Stoudamire P.FOUL (P3.PN),,,,
+0020000934,327,3,11,3,3:42 PM,0:53,,,Delk Free Throw 1 of 2 (7 PTS),59 - 53,-6
+0020000934,328,3,12,3,3:42 PM,0:53,,,Delk Free Throw 2 of 2 (8 PTS),60 - 53,-7
+0020000934,329,2,1,3,3:43 PM,0:37,MISS Davis 9' Jump Shot,,,,
+0020000934,331,4,0,3,3:43 PM,0:34,Davis REBOUND (Off:2 Def:5),,,,
+0020000934,330,1,5,3,3:43 PM,0:34,Davis  Layup (4 PTS),,,60 - 55,-5
+0020000934,332,1,1,3,3:43 PM,0:20,,,Delk 16' Jump Shot (10 PTS) (Kidd 3 AST),62 - 55,-7
+0020000934,333,6,1,3,3:43 PM,0:06,,,Delk P.FOUL (P3.T4),,
+0020000934,334,2,1,3,3:44 PM,0:00,MISS Wallace 27' 3PT Jump Shot,,,,
+0020000934,335,4,0,3,3:44 PM,0:00,TRAIL BLAZERS Rebound,,,,
+0020000934,336,13,0,3,3:44 PM,0:00,,,,62 - 55,-7
+0020000934,338,12,0,4,3:46 PM,12:00,,,,62 - 55,-7
+0020000934,339,1,1,4,3:47 PM,11:38,Wallace 21' Jump Shot (20 PTS) (Smith 2 AST),,,62 - 57,-5
+0020000934,340,2,1,4,3:48 PM,11:13,,,MISS Marion 19' Jump Shot,,
+0020000934,341,4,0,4,3:48 PM,11:11,Wallace REBOUND (Off:2 Def:7),,,,
+0020000934,342,6,2,4,3:48 PM,11:06,,,Delk S.FOUL (P4.T1),,
+0020000934,343,3,11,4,3:48 PM,11:06,Stoudamire Free Throw 1 of 2 (12 PTS),,,62 - 58,-4
+0020000934,344,8,0,4,3:48 PM,11:06,,,SUB: Elie FOR Delk,,
+0020000934,345,3,12,4,3:48 PM,11:06,MISS Stoudamire Free Throw 2 of 2,,,,
+0020000934,346,4,0,4,3:48 PM,11:05,,,Marion REBOUND (Off:2 Def:9),,
+0020000934,347,6,1,4,3:49 PM,10:57,Wallace P.FOUL (P3.T1),,,,
+0020000934,348,1,1,4,3:49 PM,10:41,,,Gugliotta 11' Jump Shot (8 PTS),64 - 58,-6
+0020000934,349,6,1,4,3:49 PM,10:26,,,Marion P.FOUL (P2.T2),,
+0020000934,350,2,1,4,3:50 PM,10:16,MISS Wallace 20' Jump Shot,,,,
+0020000934,351,4,0,4,3:50 PM,10:14,,,Marion REBOUND (Off:2 Def:10),,
+0020000934,352,10,0,4,3:50 PM,9:59,Jump Ball Pippen vs. Kidd: Tip to,,,,
+0020000934,353,5,2,4,3:50 PM,9:59,Pippen STEAL (3 STL),,Kidd Lost Ball Turnover (P3.T10),,
+0020000934,354,1,5,4,3:51 PM,9:36,Wallace 1' Layup (22 PTS),,,64 - 60,-4
+0020000934,355,1,1,4,3:52 PM,9:12,,,Rogers 20' Jump Shot (4 PTS) (Gugliotta 3 AST),66 - 60,-6
+0020000934,356,1,1,4,3:52 PM,8:56,Stoudamire 21' Jump Shot (14 PTS) (Pippen 7 AST),,,66 - 62,-4
+0020000934,357,6,1,4,3:52 PM,8:32,Pippen P.FOUL (P3.T2),,,,
+0020000934,358,9,4,4,3:52 PM,8:32,,,,,
+0020000934,360,8,0,4,3:54 PM,8:32,SUB: Strickland FOR Stoudamire,,,,
+0020000934,361,8,0,4,3:54 PM,8:32,SUB: Schrempf FOR Wallace,,,,
+0020000934,362,1,1,4,3:55 PM,8:21,,,Kidd 19' Jump Shot (13 PTS),68 - 62,-6
+0020000934,363,5,1,4,3:55 PM,8:04,Schrempf Bad Pass Turnover (P1.T12),,Marion STEAL (2 STL),,
+0020000934,364,1,8,4,3:55 PM,7:53,,,Marion  Slam Dunk (24 PTS) (Rogers 1 AST),70 - 62,-8
+0020000934,365,2,42,4,3:56 PM,7:37,MISS Pippen  Driving Layup,,,,
+0020000934,366,4,0,4,3:56 PM,7:34,,,Marion REBOUND (Off:2 Def:11),,
+0020000934,367,2,1,4,3:56 PM,7:19,,,MISS Kidd 8' Jump Shot,,
+0020000934,368,4,0,4,3:56 PM,7:17,,,Kidd REBOUND (Off:1 Def:6),,
+0020000934,369,1,1,4,3:56 PM,7:13,,,Kidd 3' Jump Shot (15 PTS),72 - 62,-10
+0020000934,370,6,2,4,3:56 PM,6:57,,,Kidd S.FOUL (P2.T3),,
+0020000934,371,8,0,4,3:57 PM,6:57,SUB: Wallace FOR Davis,,,,
+0020000934,372,6,11,4,3:57 PM,6:57,Pippen T.FOUL (P3.T2),,,,
+0020000934,373,3,16,4,3:57 PM,6:57,,,MISS Marion Free Throw Technical,,
+0020000934,374,4,1,4,3:57 PM,6:57,TRAIL BLAZERS Rebound,,,,
+0020000934,375,3,11,4,3:57 PM,6:57,Pippen Free Throw 1 of 2 (8 PTS),,,72 - 63,-9
+0020000934,376,3,12,4,3:58 PM,6:57,Pippen Free Throw 2 of 2 (9 PTS),,,72 - 64,-8
+0020000934,377,5,2,4,3:58 PM,6:36,Pippen STEAL (4 STL),,Marion Lost Ball Turnover (P2.T11),,
+0020000934,378,1,1,4,3:58 PM,6:30,Smith 25' 3PT Jump Shot (3 PTS) (Pippen 8 AST),,,72 - 67,-5
+0020000934,379,9,1,4,3:59 PM,6:22,,,Suns Timeout: Regular (Reg.4 Short 0),,
+0020000934,381,8,0,4,4:01 PM,6:22,SUB: Stoudamire FOR Strickland,,,,
+0020000934,382,8,0,4,4:01 PM,6:22,SUB: Wells FOR Pippen,,,,
+0020000934,383,8,0,4,4:01 PM,6:22,,,SUB: Robinson FOR Marion,,
+0020000934,384,2,1,4,4:01 PM,6:01,,,MISS Robinson 15' Jump Shot,,
+0020000934,385,4,0,4,4:01 PM,5:59,Wallace REBOUND (Off:2 Def:8),,,,
+0020000934,386,2,1,4,4:02 PM,5:41,MISS Schrempf 18' Jump Shot,,,,
+0020000934,387,4,0,4,4:02 PM,5:39,,,Kidd REBOUND (Off:1 Def:7),,
+0020000934,388,5,2,4,4:02 PM,5:21,Wallace STEAL (1 STL),,Rogers Lost Ball Turnover (P1.T12),,
+0020000934,389,1,1,4,4:02 PM,5:11,Smith 25' 3PT Jump Shot (6 PTS) (Stoudamire 5 AST),,,72 - 70,-2
+0020000934,390,5,2,4,4:02 PM,4:55,Schrempf STEAL (1 STL),,Kidd Lost Ball Turnover (P4.T13),,
+0020000934,391,1,1,4,4:03 PM,4:42,Wallace 26' 3PT Jump Shot (25 PTS) (Stoudamire 6 AST),,,72 - 73,1
+0020000934,392,2,1,4,4:03 PM,4:21,,,MISS Elie 26' 3PT Jump Shot,,
+0020000934,393,4,0,4,4:03 PM,4:20,,,Suns Rebound,,
+0020000934,394,6,3,4,4:03 PM,4:20,Schrempf L.B.FOUL (P2.T3),,,,
+0020000934,395,6,1,4,4:03 PM,4:16,Smith P.FOUL (P3.T4),,,,
+0020000934,396,6,4,4,4:04 PM,4:01,,,Rogers OFF.Foul (P1),,
+0020000934,397,5,5,4,4:04 PM,4:01,,,Rogers Foul Turnover (P2.T14),,
+0020000934,399,8,0,4,4:04 PM,4:01,,,SUB: Delk FOR Rogers,,
+0020000934,400,2,1,4,4:04 PM,3:48,MISS Smith 26' 3PT Jump Shot,,,,
+0020000934,401,4,0,4,4:04 PM,3:46,Wells REBOUND (Off:3 Def:3),,,,
+0020000934,402,2,5,4,4:05 PM,3:44,MISS Wells  Layup,,,,
+0020000934,403,4,0,4,4:05 PM,3:42,,,Delk REBOUND (Off:0 Def:1),,
+0020000934,404,2,1,4,4:05 PM,3:31,,,MISS Robinson 25' 3PT Jump Shot,,
+0020000934,405,4,0,4,4:05 PM,3:29,Schrempf REBOUND (Off:2 Def:1),,,,
+0020000934,406,1,47,4,4:05 PM,3:20,Wallace 15' Turnaround Jump Shot (27 PTS) (Stoudamire 7 AST),,,72 - 75,3
+0020000934,407,9,1,4,4:05 PM,3:18,,,Suns Timeout: Regular (Reg.5 Short 0),,
+0020000934,409,8,0,4,4:07 PM,3:18,,,SUB: Marion FOR Robinson,,
+0020000934,410,6,1,4,4:08 PM,3:04,Smith P.FOUL (P4.PN),,,,
+0020000934,411,3,11,4,4:08 PM,3:04,,,Kidd Free Throw 1 of 2 (16 PTS),73 - 75,2
+0020000934,412,3,12,4,4:08 PM,3:04,,,Kidd Free Throw 2 of 2 (17 PTS),74 - 75,1
+0020000934,413,1,47,4,4:09 PM,2:49,Wells 7' Turnaround Jump Shot (8 PTS) (Wallace 2 AST),,,74 - 77,3
+0020000934,414,2,42,4,4:09 PM,2:37,Wallace BLOCK (2 BLK),,MISS Delk 5' Driving Layup,,
+0020000934,415,4,0,4,4:09 PM,2:37,,,Suns Rebound,,
+0020000934,416,2,46,4,4:10 PM,2:23,,,MISS Marion 9' Running Jump Shot,,
+0020000934,417,4,0,4,4:10 PM,2:20,Wells REBOUND (Off:3 Def:4),,,,
+0020000934,418,5,1,4,4:10 PM,2:07,Stoudamire Bad Pass Turnover (P2.T13),,Marion STEAL (3 STL),,
+0020000934,419,2,5,4,4:10 PM,2:04,Wallace BLOCK (3 BLK),,MISS Marion  Layup,,
+0020000934,420,4,0,4,4:10 PM,2:04,,,Suns Rebound,,
+0020000934,421,1,1,4,4:11 PM,1:50,,,Kidd 21' Jump Shot (19 PTS),76 - 77,1
+0020000934,422,5,1,4,4:11 PM,1:34,Wallace Bad Pass Turnover (P2.T14),,Kidd STEAL (1 STL),,
+0020000934,423,2,5,4,4:11 PM,1:28,Wallace BLOCK (4 BLK),,MISS Gugliotta  Layup,,
+0020000934,424,4,0,4,4:11 PM,1:25,,,Gugliotta REBOUND (Off:5 Def:2),,
+0020000934,425,6,2,4,4:11 PM,1:21,Stoudamire S.FOUL (P4.PN),,,,
+0020000934,426,3,11,4,4:12 PM,1:21,,,Delk Free Throw 1 of 2 (11 PTS),77 - 77,TIE
+0020000934,427,3,12,4,4:12 PM,1:21,,,Delk Free Throw 2 of 2 (12 PTS),78 - 77,-1
+0020000934,428,5,1,4,4:12 PM,1:07,Schrempf Bad Pass Turnover (P2.T15),,,,
+0020000934,429,1,44,4,4:13 PM,0:49,,,Delk  Reverse Layup (14 PTS) (Elie 5 AST),80 - 77,-3
+0020000934,430,9,1,4,4:13 PM,0:49,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,,,
+0020000934,432,8,0,4,4:15 PM,0:49,SUB: Pippen FOR Schrempf,,,,
+0020000934,433,2,1,4,4:15 PM,0:30,MISS Wallace 8' Jump Shot,,,,
+0020000934,435,4,0,4,4:15 PM,0:29,Wallace REBOUND (Off:3 Def:8),,,,
+0020000934,434,2,4,4,4:15 PM,0:29,MISS Wallace  Tip Shot,,,,
+0020000934,436,4,0,4,4:15 PM,0:26,Stoudamire REBOUND (Off:2 Def:3),,,,
+0020000934,437,6,2,4,4:15 PM,0:25,,,Gugliotta S.FOUL (P3.T4),,
+0020000934,438,3,11,4,4:16 PM,0:25,Wallace Free Throw 1 of 2 (28 PTS),,,80 - 78,-2
+0020000934,439,3,12,4,4:16 PM,0:25,Wallace Free Throw 2 of 2 (29 PTS),,,80 - 79,-1
+0020000934,440,6,1,4,4:17 PM,0:19,Stoudamire P.FOUL (P5.PN),,,,
+0020000934,441,3,11,4,4:17 PM,0:19,,,Marion Free Throw 1 of 2 (25 PTS),81 - 79,-2
+0020000934,442,8,0,4,4:17 PM,0:19,SUB: Davis FOR Stoudamire,,,,
+0020000934,443,3,12,4,4:17 PM,0:19,,,Marion Free Throw 2 of 2 (26 PTS),82 - 79,-3
+0020000934,444,9,1,4,4:17 PM,0:19,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,,,
+0020000934,446,8,0,4,4:19 PM,0:19,SUB: Sabonis FOR Davis,,,,
+0020000934,447,8,0,4,4:19 PM,0:19,SUB: Stoudamire FOR Wells,,,,
+0020000934,448,9,2,4,4:19 PM,0:19,TRAIL BLAZERS Timeout: Short (Full 5 Short 1),,,,
+0020000934,449,5,1,4,4:20 PM,0:09,Stoudamire Bad Pass Turnover (P3.T16),,Elie STEAL (1 STL),,
+0020000934,450,6,1,4,4:21 PM,0:05,Sabonis P.FOUL (P2.PN),,,,
+0020000934,451,3,11,4,4:21 PM,0:05,,,Kidd Free Throw 1 of 2 (20 PTS),83 - 79,-4
+0020000934,452,3,12,4,4:21 PM,0:05,,,Kidd Free Throw 2 of 2 (21 PTS),84 - 79,-5
+0020000934,453,5,1,4,4:21 PM,0:05,Wallace Bad Pass Turnover (P3.T17),,Kidd STEAL (2 STL),,
+0020000934,454,13,0,4,4:22 PM,0:00,,,,84 - 79,-5

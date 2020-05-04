@@ -1,0 +1,429 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000455,0,12,0,1,2:11 PM,12:00,,,,,
+0020000455,1,10,0,1,2:11 PM,12:00,Jump Ball Dudley vs. Olowokandi: Tip to Kidd,,,,
+0020000455,2,2,5,1,2:13 PM,11:49,MISS Robinson  Layup,,,,
+0020000455,3,4,0,1,2:13 PM,11:47,Dudley REBOUND (Off:1 Def:0),,,,
+0020000455,4,2,1,1,2:13 PM,11:43,MISS Marion 10' Jump Shot,,,,
+0020000455,6,4,0,1,2:13 PM,11:41,Marion REBOUND (Off:1 Def:0),,,,
+0020000455,5,2,4,1,2:13 PM,11:41,MISS Marion  Tip Shot,,,,
+0020000455,8,4,0,1,2:13 PM,11:38,Robinson REBOUND (Off:1 Def:0),,,,
+0020000455,7,1,47,1,2:13 PM,11:38,Robinson 8' Turnaround Jump Shot (2 PTS),,,0 - 2,2
+0020000455,9,2,1,1,2:13 PM,11:17,,,MISS Odom 25' 3PT Jump Shot,,
+0020000455,10,4,0,1,2:13 PM,11:16,SUNS Rebound,,,,
+0020000455,11,6,3,1,2:13 PM,11:16,,,Olowokandi L.B.FOUL (P1.T1),,
+0020000455,12,2,1,1,2:14 PM,11:00,MISS Robinson 18' Jump Shot,,,,
+0020000455,13,4,0,1,2:14 PM,10:58,,,McInnis REBOUND (Off:0 Def:1),,
+0020000455,14,1,7,1,2:14 PM,10:51,,,Olowokandi  Dunk (2 PTS) (Richardson 1 AST),2 - 2,TIE
+0020000455,15,1,1,1,2:14 PM,10:33,Marion 10' Jump Shot (2 PTS) (Dudley 1 AST),,,2 - 4,2
+0020000455,16,2,46,1,2:15 PM,10:08,,,MISS McInnis 6' Running Jump Shot,,
+0020000455,17,4,0,1,2:15 PM,10:06,Dudley REBOUND (Off:1 Def:1),,,,
+0020000455,18,1,1,1,2:15 PM,10:01,Delk 17' Jump Shot (2 PTS) (Marion 1 AST),,,2 - 6,4
+0020000455,19,6,1,1,2:15 PM,9:40,Dudley P.FOUL (P1.T1),,,,
+0020000455,20,6,1,1,2:16 PM,9:30,Dudley P.FOUL (P2.T2),,,,
+0020000455,21,8,0,1,2:16 PM,9:30,SUB: Tsakalidis FOR Dudley,,,,
+0020000455,22,5,1,1,2:16 PM,9:22,,,Miles Bad Pass Turnover (P1.T1),,
+0020000455,23,6,1,1,2:16 PM,9:14,,,McInnis P.FOUL (P1.T2),,
+0020000455,24,1,1,1,2:16 PM,9:09,Delk 17' Jump Shot (4 PTS) (Kidd 1 AST),,,2 - 8,6
+0020000455,25,5,4,1,2:17 PM,8:49,,,Olowokandi Traveling Turnover (P1.T2),,
+0020000455,26,1,3,1,2:17 PM,8:34,Tsakalidis 7' Hook Shot (2 PTS) (Delk 1 AST),,,2 - 10,8
+0020000455,27,2,1,1,2:18 PM,8:20,,,MISS Olowokandi 9' Jump Shot,,
+0020000455,28,4,0,1,2:18 PM,8:19,Marion REBOUND (Off:1 Def:1),,,,
+0020000455,29,1,1,1,2:18 PM,8:12,Robinson 10' Jump Shot (4 PTS) (Marion 2 AST),,,2 - 12,10
+0020000455,30,2,1,1,2:18 PM,7:50,,,MISS Odom 24' 3PT Jump Shot,,
+0020000455,31,4,0,1,2:18 PM,7:48,,,Clippers Rebound,,
+0020000455,32,5,2,1,2:19 PM,7:33,Kidd STEAL (1 STL),,Odom Lost Ball Turnover (P1.T3),,
+0020000455,33,6,2,1,2:19 PM,7:18,,,Olowokandi S.FOUL (P2.T3),,
+0020000455,34,3,11,1,2:19 PM,7:18,Tsakalidis Free Throw 1 of 2 (3 PTS),,,2 - 13,11
+0020000455,35,8,0,1,2:19 PM,7:18,,,SUB: Rooks FOR Olowokandi,,
+0020000455,36,3,12,1,2:19 PM,7:18,Tsakalidis Free Throw 2 of 2 (4 PTS),,,2 - 14,12
+0020000455,37,1,42,1,2:20 PM,7:03,,,Richardson  Driving Layup (2 PTS),4 - 14,10
+0020000455,38,1,42,1,2:20 PM,6:48,Robinson  Driving Layup (6 PTS) (Kidd 2 AST),,,4 - 16,12
+0020000455,39,1,5,1,2:20 PM,6:31,,,Odom  Layup (2 PTS) (McInnis 1 AST),6 - 16,10
+0020000455,40,5,1,1,2:21 PM,6:20,Kidd Bad Pass Turnover (P1.T1),,Rooks STEAL (1 STL),,
+0020000455,41,1,42,1,2:21 PM,6:15,,,McInnis  Driving Layup (2 PTS),8 - 16,8
+0020000455,42,9,1,1,2:21 PM,6:05,SUNS Timeout: Regular (Full 1 Short 0),,,,
+0020000455,44,1,1,1,2:23 PM,5:58,Marion 18' Jump Shot (4 PTS) (Kidd 3 AST),,,8 - 18,10
+0020000455,45,1,1,1,2:23 PM,5:41,,,Rooks 16' Jump Shot (2 PTS) (Odom 1 AST),10 - 18,8
+0020000455,46,2,1,1,2:24 PM,5:18,MISS Marion 10' Jump Shot,,,,
+0020000455,47,4,0,1,2:24 PM,5:17,,,Odom REBOUND (Off:0 Def:1),,
+0020000455,48,1,7,1,2:24 PM,5:14,,,Miles  Dunk (2 PTS) (Odom 2 AST),12 - 18,6
+0020000455,49,1,3,1,2:24 PM,4:53,Tsakalidis 7' Hook Shot (6 PTS) (Kidd 4 AST),,,12 - 20,8
+0020000455,50,1,1,1,2:24 PM,4:35,,,Rooks 19' Jump Shot (4 PTS) (McInnis 2 AST),14 - 20,6
+0020000455,51,2,1,1,2:25 PM,4:15,MISS Tsakalidis 11' Jump Shot,,Rooks BLOCK (1 BLK),,
+0020000455,52,4,0,1,2:25 PM,4:11,,,Odom REBOUND (Off:0 Def:2),,
+0020000455,53,2,1,1,2:25 PM,3:54,,,MISS Richardson 19' Jump Shot,,
+0020000455,54,4,0,1,2:25 PM,3:53,Marion REBOUND (Off:1 Def:2),,,,
+0020000455,55,1,1,1,2:25 PM,3:36,Marion  3PT Jump Shot (7 PTS) (Robinson 1 AST),,,14 - 23,9
+0020000455,56,2,1,1,2:26 PM,3:19,,,MISS Rooks 15' Jump Shot,,
+0020000455,57,4,0,1,2:26 PM,3:17,Tsakalidis REBOUND (Off:0 Def:1),,,,
+0020000455,58,2,1,1,2:26 PM,3:11,MISS Delk 17' Jump Shot,,Rooks BLOCK (2 BLK),,
+0020000455,59,4,0,1,2:26 PM,3:09,,,Richardson REBOUND (Off:0 Def:1),,
+0020000455,60,1,7,1,2:26 PM,3:00,,,Odom  Dunk (4 PTS) (Richardson 2 AST),16 - 23,7
+0020000455,61,6,2,1,2:26 PM,2:45,,,Rooks S.FOUL (P1.T4),,
+0020000455,62,9,1,1,2:26 PM,2:45,,,Clippers Timeout: Regular (Reg.1 Short 0),,
+0020000455,64,8,0,1,2:28 PM,2:45,,,SUB: Maggette FOR Richardson,,
+0020000455,65,8,0,1,2:28 PM,2:45,SUB: Rogers FOR Tsakalidis,,,,
+0020000455,66,3,11,1,2:29 PM,2:45,Robinson Free Throw 1 of 2 (7 PTS),,,16 - 24,8
+0020000455,67,3,12,1,2:29 PM,2:45,MISS Robinson Free Throw 2 of 2,,,,
+0020000455,68,4,0,1,2:29 PM,2:45,,,Miles REBOUND (Off:0 Def:1),,
+0020000455,69,2,1,1,2:29 PM,2:27,,,MISS Maggette 13' Jump Shot,,
+0020000455,70,4,0,1,2:29 PM,2:25,SUNS Rebound,,,,
+0020000455,71,5,8,1,2:30 PM,2:12,Robinson 3 Second Violation Turnover (P1.T2),,,,
+0020000455,72,2,1,1,2:30 PM,1:55,,,MISS Miles 13' Jump Shot,,
+0020000455,73,4,0,1,2:30 PM,1:53,,,McInnis REBOUND (Off:1 Def:1),,
+0020000455,74,6,2,1,2:30 PM,1:49,Delk S.FOUL (P1.T3),,,,
+0020000455,75,8,0,1,2:31 PM,1:49,SUB: McPherson FOR Delk,,,,
+0020000455,76,3,11,1,2:31 PM,1:49,,,MISS Maggette Free Throw 1 of 2,,
+0020000455,77,4,1,1,2:31 PM,1:49,,,Clippers Rebound,,
+0020000455,78,3,12,1,2:31 PM,1:49,,,Maggette Free Throw 2 of 2 (1 PTS),17 - 24,7
+0020000455,79,7,6,1,2:31 PM,1:39,,,Rooks Violation:Double Lane,,
+0020000455,80,5,1,1,2:31 PM,1:36,Kidd Bad Pass Turnover (P2.T3),,,,
+0020000455,81,2,1,1,2:32 PM,1:14,Robinson BLOCK (1 BLK),,MISS Miles 5' Jump Shot,,
+0020000455,83,4,0,1,2:32 PM,1:10,,,McInnis REBOUND (Off:2 Def:1),,
+0020000455,82,1,1,1,2:32 PM,1:10,,,McInnis 9' Jump Shot (4 PTS),19 - 24,5
+0020000455,84,6,1,1,2:32 PM,0:57,,,Miles P.FOUL (P1.PN),,
+0020000455,85,3,11,1,2:32 PM,0:57,Robinson Free Throw 1 of 2 (8 PTS),,,19 - 25,6
+0020000455,86,3,12,1,2:33 PM,0:57,MISS Robinson Free Throw 2 of 2,,,,
+0020000455,87,4,0,1,2:33 PM,0:57,,,Miles REBOUND (Off:0 Def:2),,
+0020000455,88,6,4,1,2:33 PM,0:48,,,Odom OFF.Foul (P1),,
+0020000455,89,5,5,1,2:33 PM,0:48,,,Odom Foul Turnover (P2.T4),,
+0020000455,90,8,0,1,2:33 PM,0:48,SUB: Gugliotta FOR Robinson,,,,
+0020000455,91,2,1,1,2:33 PM,0:37,MISS Marion 7' Jump Shot,,,,
+0020000455,92,4,0,1,2:33 PM,0:35,,,Maggette REBOUND (Off:0 Def:1),,
+0020000455,93,6,2,1,2:34 PM,0:14,Gugliotta S.FOUL (P1.PN),,,,
+0020000455,94,3,11,1,2:34 PM,0:14,,,Rooks Free Throw 1 of 2 (5 PTS),20 - 25,5
+0020000455,95,8,0,1,2:34 PM,0:14,,,SUB: Dooling FOR McInnis,,
+0020000455,96,8,0,1,2:34 PM,0:14,,,SUB: Piatkowski FOR Odom,,
+0020000455,97,3,12,1,2:34 PM,0:14,,,Rooks Free Throw 2 of 2 (6 PTS),21 - 25,4
+0020000455,98,2,1,1,2:35 PM,0:00,MISS Kidd 23' Jump Shot,,,,
+0020000455,100,4,0,1,2:35 PM,0:00,SUNS Rebound,,,,
+0020000455,99,13,0,1,2:35 PM,0:00,,,,21 - 25,4
+0020000455,102,12,0,2,2:37 PM,12:00,,,,21 - 25,4
+0020000455,103,2,1,2,2:38 PM,11:43,,,MISS Rooks 5' Jump Shot,,
+0020000455,105,4,0,2,2:38 PM,11:42,,,Maggette REBOUND (Off:1 Def:1),,
+0020000455,104,2,4,2,2:38 PM,11:42,,,MISS Maggette  Tip Shot,,
+0020000455,106,4,0,2,2:38 PM,11:41,Marion REBOUND (Off:1 Def:3),,,,
+0020000455,107,2,1,2,2:38 PM,11:24,MISS Perry 21' Jump Shot,,,,
+0020000455,108,4,0,2,2:38 PM,11:22,,,Rooks REBOUND (Off:0 Def:1),,
+0020000455,109,1,5,2,2:38 PM,11:19,,,Maggette  Layup (3 PTS) (Rooks 1 AST),23 - 25,2
+0020000455,110,5,11,2,2:39 PM,10:51,SUNS Turnover: Shot Clock (T#4),,,,
+0020000455,111,2,1,2,2:39 PM,10:41,McPherson BLOCK (1 BLK),,MISS Piatkowski 13' Jump Shot,,
+0020000455,112,4,0,2,2:39 PM,10:38,Marion REBOUND (Off:1 Def:4),,,,
+0020000455,113,2,5,2,2:39 PM,10:34,MISS McPherson  Layup,,Miles BLOCK (1 BLK),,
+0020000455,114,4,0,2,2:39 PM,10:32,,,Miles REBOUND (Off:0 Def:3),,
+0020000455,115,1,1,2,2:39 PM,10:27,,,Dooling 17' Jump Shot (2 PTS) (Miles 1 AST),25 - 25,TIE
+0020000455,116,1,7,2,2:40 PM,10:08,Santiago  Dunk (2 PTS) (Gugliotta 1 AST),,,25 - 27,2
+0020000455,117,6,2,2,2:40 PM,10:08,,,Maggette S.FOUL (P1.T1),,
+0020000455,118,3,10,2,2:40 PM,10:08,Santiago Free Throw 1 of 1 (3 PTS),,,25 - 28,3
+0020000455,119,2,5,2,2:40 PM,9:58,,,MISS Dooling  Layup,,
+0020000455,120,4,0,2,2:40 PM,9:57,Marion REBOUND (Off:1 Def:5),,,,
+0020000455,121,2,1,2,2:40 PM,9:50,MISS Marion 17' Jump Shot,,,,
+0020000455,122,4,0,2,2:40 PM,9:49,,,Dooling REBOUND (Off:0 Def:1),,
+0020000455,123,2,5,2,2:41 PM,9:43,,,MISS Maggette  Layup,,
+0020000455,124,4,0,2,2:41 PM,9:41,Santiago REBOUND (Off:0 Def:1),,,,
+0020000455,125,1,1,2,2:41 PM,9:27,Gugliotta 16' Jump Shot (2 PTS) (Perry 1 AST),,,25 - 30,5
+0020000455,126,2,1,2,2:41 PM,9:05,,,MISS Rooks 18' Jump Shot,,
+0020000455,127,4,0,2,2:41 PM,9:02,SUNS Rebound,,,,
+0020000455,128,8,0,2,2:41 PM,9:02,,,SUB: Skinner FOR Miles,,
+0020000455,129,5,7,2,2:42 PM,8:51,Perry Discontinue Dribble Turnover (P1.T5),,,,
+0020000455,130,9,4,2,2:42 PM,8:51,,,Clippers Timeout: Official (Reg.1 Short 0),,
+0020000455,132,8,0,2,2:43 PM,8:51,,,SUB: Olowokandi FOR Maggette,,
+0020000455,133,8,0,2,2:44 PM,8:51,SUB: Rogers FOR Marion,,,,
+0020000455,134,8,0,2,2:44 PM,8:51,,,SUB: Richardson FOR Rooks,,
+0020000455,135,6,2,2,2:44 PM,8:29,McPherson S.FOUL (P1.T1),,,,
+0020000455,136,3,11,2,2:44 PM,8:29,,,Richardson Free Throw 1 of 2 (3 PTS),26 - 30,4
+0020000455,137,3,12,2,2:45 PM,8:29,,,Richardson Free Throw 2 of 2 (4 PTS),27 - 30,3
+0020000455,138,2,1,2,2:45 PM,8:16,MISS Gugliotta 8' Jump Shot,,,,
+0020000455,139,4,0,2,2:45 PM,8:14,,,Olowokandi REBOUND (Off:0 Def:1),,
+0020000455,140,5,1,2,2:45 PM,8:06,Gugliotta STEAL (1 STL),,Dooling Bad Pass Turnover (P1.T5),,
+0020000455,141,1,7,2,2:45 PM,8:01,McPherson  Dunk (2 PTS) (Rogers 1 AST),,,27 - 32,5
+0020000455,142,6,2,2,2:46 PM,7:43,Santiago S.FOUL (P1.T2),,,,
+0020000455,143,3,11,2,2:46 PM,7:43,,,Olowokandi Free Throw 1 of 2 (3 PTS),28 - 32,4
+0020000455,144,3,12,2,2:46 PM,7:43,,,Olowokandi Free Throw 2 of 2 (4 PTS),29 - 32,3
+0020000455,145,1,5,2,2:47 PM,7:24,Gugliotta  Layup (4 PTS) (Perry 2 AST),,,29 - 34,5
+0020000455,146,1,1,2,2:47 PM,6:59,,,Richardson 11' Jump Shot (6 PTS),31 - 34,3
+0020000455,147,6,2,2,2:47 PM,6:49,,,Richardson S.FOUL (P1.T2),,
+0020000455,148,3,11,2,2:47 PM,6:49,Rogers Free Throw 1 of 2 (1 PTS),,,31 - 35,4
+0020000455,149,8,0,2,2:48 PM,6:49,,,SUB: Odom FOR Piatkowski,,
+0020000455,150,3,12,2,2:48 PM,6:49,Rogers Free Throw 2 of 2 (2 PTS),,,31 - 36,5
+0020000455,151,5,1,2,2:48 PM,6:37,Santiago STEAL (1 STL),,Skinner Bad Pass Turnover (P1.T6),,
+0020000455,152,2,5,2,2:48 PM,6:27,MISS Rogers  Layup,,,,
+0020000455,154,4,0,2,2:48 PM,6:26,McPherson REBOUND (Off:1 Def:0),,,,
+0020000455,153,1,5,2,2:48 PM,6:26,McPherson  Layup (4 PTS),,,31 - 38,7
+0020000455,155,2,1,2,2:49 PM,6:08,,,MISS Odom 25' 3PT Jump Shot,,
+0020000455,156,4,0,2,2:49 PM,6:07,,,Skinner REBOUND (Off:1 Def:0),,
+0020000455,157,1,5,2,2:49 PM,6:04,,,Skinner  Layup (2 PTS),33 - 38,5
+0020000455,158,6,2,2,2:49 PM,5:48,,,Olowokandi S.FOUL (P3.T3),,
+0020000455,159,9,1,2,2:49 PM,5:48,SUNS Timeout: Regular (Full 2 Short 0),,,,
+0020000455,161,8,0,2,2:51 PM,5:48,,,SUB: McInnis FOR Olowokandi,,
+0020000455,162,8,0,2,2:51 PM,5:48,,,SUB: Rooks FOR Dooling,,
+0020000455,163,3,11,2,2:52 PM,5:48,Santiago Free Throw 1 of 2 (4 PTS),,,33 - 39,6
+0020000455,164,3,12,2,2:52 PM,5:48,Santiago Free Throw 2 of 2 (5 PTS),,,33 - 40,7
+0020000455,165,2,1,2,2:53 PM,5:28,,,MISS McInnis 12' Jump Shot,,
+0020000455,166,4,0,2,2:53 PM,5:27,Gugliotta REBOUND (Off:0 Def:1),,,,
+0020000455,167,2,1,2,2:53 PM,5:11,MISS Gugliotta 16' Jump Shot,,,,
+0020000455,168,4,0,2,2:53 PM,5:10,,,Rooks REBOUND (Off:0 Def:2),,
+0020000455,169,6,1,2,2:53 PM,5:10,Santiago P.FOUL (P2.T3),,,,
+0020000455,170,8,0,2,2:53 PM,5:10,SUB: Tsakalidis FOR Santiago,,,,
+0020000455,171,7,2,2,2:54 PM,4:58,SUNS Violation: Def. Goaltending Violation,,,,
+0020000455,172,8,0,2,2:54 PM,4:58,SUB: Kidd FOR Perry,,,,
+0020000455,173,8,0,2,2:54 PM,4:58,SUB: Delk FOR McPherson,,,,
+0020000455,174,6,2,2,2:54 PM,4:51,Kidd S.FOUL (P1.T4),,,,
+0020000455,175,3,11,2,2:54 PM,4:51,,,MISS Richardson Free Throw 1 of 2,,
+0020000455,176,4,1,2,2:54 PM,4:51,,,Clippers Rebound,,
+0020000455,177,3,12,2,2:55 PM,4:51,,,Richardson Free Throw 2 of 2 (7 PTS),34 - 40,6
+0020000455,178,1,1,2,2:55 PM,4:30,Kidd 23' Jump Shot (2 PTS) (Tsakalidis 1 AST),,,34 - 42,8
+0020000455,179,1,1,2,2:55 PM,4:12,,,Odom 16' Jump Shot (6 PTS) (Rooks 2 AST),36 - 42,6
+0020000455,180,2,1,2,2:56 PM,3:49,MISS Tsakalidis 5' Jump Shot,,,,
+0020000455,181,4,0,2,2:56 PM,3:47,,,Skinner REBOUND (Off:1 Def:1),,
+0020000455,182,6,2,2,2:56 PM,3:28,Delk S.FOUL (P2.PN),,,,
+0020000455,183,3,11,2,2:57 PM,3:28,,,MISS Richardson Free Throw 1 of 2,,
+0020000455,184,4,1,2,2:57 PM,3:28,,,Clippers Rebound,,
+0020000455,185,8,0,2,2:57 PM,3:28,SUB: Robinson FOR Gugliotta,,,,
+0020000455,186,3,12,2,2:57 PM,3:28,,,Richardson Free Throw 2 of 2 (8 PTS),37 - 42,5
+0020000455,187,1,1,2,2:57 PM,3:17,Robinson 7' Jump Shot (10 PTS) (Delk 2 AST),,,37 - 44,7
+0020000455,188,6,1,2,2:57 PM,3:03,Robinson P.FOUL (P1.PN),,,,
+0020000455,189,3,11,2,2:57 PM,3:03,,,Odom Free Throw 1 of 2 (7 PTS),38 - 44,6
+0020000455,191,8,0,2,2:58 PM,3:03,,,SUB: Miles FOR Skinner,,
+0020000455,192,3,12,2,2:58 PM,3:03,,,Odom Free Throw 2 of 2 (8 PTS),39 - 44,5
+0020000455,193,2,1,2,2:58 PM,2:53,MISS Robinson 25' 3PT Jump Shot,,,,
+0020000455,194,4,0,2,2:58 PM,2:50,,,Richardson REBOUND (Off:0 Def:2),,
+0020000455,195,1,46,2,2:59 PM,2:43,,,McInnis 8' Running Jump Shot (6 PTS) (Richardson 3 AST),41 - 44,3
+0020000455,196,7,2,2,2:59 PM,2:30,,,Clippers Violation: Def. Goaltending Violation,,
+0020000455,197,9,1,2,2:59 PM,2:30,,,Clippers Timeout: Regular (Reg.2 Short 0),,
+0020000455,199,2,1,2,3:01 PM,2:18,MISS Rogers  3PT Jump Shot,,,,
+0020000455,200,4,0,2,3:02 PM,2:16,Robinson REBOUND (Off:2 Def:0),,,,
+0020000455,201,2,1,2,3:02 PM,2:14,MISS Robinson 5' Jump Shot,,,,
+0020000455,203,4,0,2,3:02 PM,2:13,Rogers REBOUND (Off:1 Def:0),,,,
+0020000455,202,1,4,2,3:02 PM,2:13,Rogers  Tip Shot (4 PTS),,,41 - 46,5
+0020000455,204,5,1,2,3:02 PM,1:58,,,McInnis Bad Pass Turnover (P1.T7),,
+0020000455,205,6,1,2,3:02 PM,1:54,,,McInnis P.FOUL (P2.T4),,
+0020000455,206,2,1,2,3:03 PM,1:42,MISS Delk  3PT Jump Shot,,,,
+0020000455,207,4,0,2,3:03 PM,1:41,,,McInnis REBOUND (Off:2 Def:2),,
+0020000455,208,2,1,2,3:03 PM,1:30,,,MISS Rooks 17' Jump Shot,,
+0020000455,209,4,0,2,3:03 PM,1:29,Robinson REBOUND (Off:2 Def:1),,,,
+0020000455,210,2,1,2,3:03 PM,1:22,MISS Robinson 24' 3PT Jump Shot,,,,
+0020000455,211,4,0,2,3:03 PM,1:20,,,Rooks REBOUND (Off:0 Def:3),,
+0020000455,212,1,1,2,3:03 PM,1:09,,,Odom 25' 3PT Jump Shot (11 PTS),44 - 46,2
+0020000455,213,2,1,2,3:03 PM,0:56,MISS Delk 19' Jump Shot,,,,
+0020000455,214,4,0,2,3:03 PM,0:54,,,Odom REBOUND (Off:0 Def:3),,
+0020000455,215,5,1,2,3:03 PM,0:47,,,Odom Bad Pass Turnover (P3.T8),,
+0020000455,216,8,0,2,3:03 PM,0:47,,,SUB: Dooling FOR McInnis,,
+0020000455,217,2,5,2,3:04 PM,0:33,MISS Delk  Layup,,,,
+0020000455,218,4,0,2,3:04 PM,0:31,,,Miles REBOUND (Off:0 Def:4),,
+0020000455,219,2,1,2,3:04 PM,0:23,,,MISS Miles 14' Jump Shot,,
+0020000455,220,4,0,2,3:04 PM,0:21,Tsakalidis REBOUND (Off:0 Def:2),,,,
+0020000455,221,6,1,2,3:05 PM,0:03,,,Miles P.FOUL (P2.PN),,
+0020000455,222,3,11,2,3:05 PM,0:03,Robinson Free Throw 1 of 2 (11 PTS),,,44 - 47,3
+0020000455,223,9,2,2,3:05 PM,0:03,,,Clippers Timeout: Short (Reg.2 Short 1),,
+0020000455,225,8,0,2,3:06 PM,0:03,SUB: McPherson FOR Delk,,,,
+0020000455,226,3,12,2,3:06 PM,0:03,Robinson Free Throw 2 of 2 (12 PTS),,,44 - 48,4
+0020000455,227,5,15,2,3:06 PM,0:00,,,Odom Offensive Goaltending Turnover (P4.T9),,
+0020000455,228,13,0,2,3:07 PM,0:00,,,,44 - 48,4
+0020000455,230,12,0,3,3:21 PM,12:00,,,,44 - 48,4
+0020000455,231,2,1,3,3:21 PM,11:37,,,MISS Odom 7' Jump Shot,,
+0020000455,232,4,0,3,3:21 PM,11:34,Marion REBOUND (Off:1 Def:6),,,,
+0020000455,233,2,1,3,3:22 PM,11:16,MISS Kidd 15' Jump Shot,,,,
+0020000455,234,4,0,3,3:22 PM,11:15,,,Richardson REBOUND (Off:0 Def:3),,
+0020000455,235,2,46,3,3:22 PM,11:03,,,MISS Miles 6' Running Jump Shot,,
+0020000455,236,4,0,3,3:22 PM,11:01,Marion REBOUND (Off:1 Def:7),,,,
+0020000455,237,1,5,3,3:22 PM,10:48,Delk  Layup (6 PTS) (Kidd 5 AST),,,44 - 50,6
+0020000455,238,2,1,3,3:23 PM,10:26,,,MISS Olowokandi 7' Jump Shot,,
+0020000455,239,4,0,3,3:23 PM,10:24,Marion REBOUND (Off:1 Def:8),,,,
+0020000455,240,1,1,3,3:23 PM,10:11,Marion 17' Jump Shot (9 PTS) (Robinson 2 AST),,,44 - 52,8
+0020000455,241,9,2,3,3:23 PM,10:02,,,Clippers Timeout: Short (Reg.2 Short 2),,
+0020000455,243,6,4,3,3:24 PM,9:51,,,Richardson OFF.Foul (P2),,
+0020000455,244,5,5,3,3:24 PM,9:51,,,Richardson Foul Turnover (P1.T10),,
+0020000455,245,6,2,3,3:25 PM,9:38,,,Odom S.FOUL (P2.T1),,
+0020000455,246,3,11,3,3:25 PM,9:38,MISS Dudley Free Throw 1 of 2,,,,
+0020000455,247,4,1,3,3:25 PM,9:38,SUNS Rebound,,,,
+0020000455,248,3,12,3,3:25 PM,9:38,Dudley Free Throw 2 of 2 (1 PTS),,,44 - 53,9
+0020000455,249,2,5,3,3:26 PM,9:20,Marion BLOCK (1 BLK),,MISS Miles  Layup,,
+0020000455,250,4,0,3,3:26 PM,9:18,Kidd REBOUND (Off:0 Def:1),,,,
+0020000455,251,1,5,3,3:26 PM,9:14,Delk  Layup (8 PTS) (Kidd 6 AST),,,44 - 55,11
+0020000455,252,2,1,3,3:26 PM,8:48,,,MISS Richardson 25' 3PT Jump Shot,,
+0020000455,253,4,0,3,3:26 PM,8:47,,,Clippers Rebound,,
+0020000455,254,5,11,3,3:26 PM,8:47,,,Clippers Turnover: Shot Clock (T#11),,
+0020000455,255,6,1,3,3:27 PM,8:33,,,Olowokandi P.FOUL (P4.T2),,
+0020000455,256,2,1,3,3:27 PM,8:26,MISS Marion 17' Jump Shot,,,,
+0020000455,257,4,0,3,3:27 PM,8:25,,,Miles REBOUND (Off:0 Def:5),,
+0020000455,258,6,1,3,3:27 PM,8:11,Dudley P.FOUL (P3.T1),,,,
+0020000455,259,2,1,3,3:28 PM,7:57,,,MISS Miles 14' Jump Shot,,
+0020000455,260,4,0,3,3:28 PM,7:56,Dudley REBOUND (Off:1 Def:2),,,,
+0020000455,261,6,1,3,3:28 PM,7:50,,,Odom P.FOUL (P3.T3),,
+0020000455,263,1,1,3,3:29 PM,7:33,Marion 11' Jump Shot (11 PTS) (Kidd 7 AST),,,44 - 57,13
+0020000455,264,9,1,3,3:29 PM,7:27,,,Clippers Timeout: Regular (Reg.3 Short 2),,
+0020000455,266,8,0,3,3:31 PM,7:27,,,SUB: Maggette FOR Richardson,,
+0020000455,267,2,1,3,3:31 PM,7:09,,,MISS McInnis 13' Jump Shot,,
+0020000455,268,4,0,3,3:31 PM,7:06,,,Miles REBOUND (Off:1 Def:5),,
+0020000455,269,2,1,3,3:31 PM,7:05,,,MISS Miles 8' Jump Shot,,
+0020000455,270,4,0,3,3:31 PM,7:03,,,Miles REBOUND (Off:2 Def:5),,
+0020000455,271,2,1,3,3:31 PM,6:53,,,MISS Maggette 5' Jump Shot,,
+0020000455,272,4,0,3,3:31 PM,6:51,Dudley REBOUND (Off:1 Def:3),,,,
+0020000455,273,2,1,3,3:32 PM,6:32,MISS Delk 24' 3PT Jump Shot,,,,
+0020000455,274,4,0,3,3:32 PM,6:30,,,Miles REBOUND (Off:2 Def:6),,
+0020000455,275,1,1,3,3:32 PM,6:19,,,McInnis 7' Jump Shot (8 PTS),46 - 57,11
+0020000455,276,1,1,3,3:32 PM,5:59,Robinson 17' Jump Shot (14 PTS) (Marion 3 AST),,,46 - 59,13
+0020000455,277,1,1,3,3:33 PM,5:43,,,Odom 17' Jump Shot (13 PTS) (McInnis 3 AST),48 - 59,11
+0020000455,278,5,1,3,3:33 PM,5:27,Robinson Bad Pass Turnover (P2.T6),,Maggette STEAL (1 STL),,
+0020000455,279,6,17,3,3:33 PM,5:11,SUNS Foul,,,,
+0020000455,280,8,0,3,3:33 PM,5:11,,,SUB: Rooks FOR Olowokandi,,
+0020000455,281,3,16,3,3:33 PM,5:11,,,McInnis Free Throw Technical (9 PTS),49 - 59,10
+0020000455,282,1,1,3,3:34 PM,5:02,,,Miles 7' Jump Shot (4 PTS) (Odom 3 AST),51 - 59,8
+0020000455,283,6,4,3,3:34 PM,4:48,Robinson OFF.Foul (P2),,,,
+0020000455,284,5,5,3,3:34 PM,4:48,Robinson Foul Turnover (P3.T7),,,,
+0020000455,285,2,1,3,3:35 PM,4:32,,,MISS Odom 20' Jump Shot,,
+0020000455,286,4,0,3,3:35 PM,4:30,,,Maggette REBOUND (Off:2 Def:1),,
+0020000455,288,7,3,3,3:35 PM,4:30,Dudley Violation:Lane,,,,
+0020000455,287,1,5,3,3:35 PM,4:30,,,Odom  Layup (15 PTS) (Maggette 1 AST),53 - 59,6
+0020000455,289,6,2,3,3:35 PM,4:30,Marion S.FOUL (P1.T2),,,,
+0020000455,290,3,10,3,3:35 PM,4:30,,,Odom Free Throw 1 of 1 (16 PTS),54 - 59,5
+0020000455,291,5,1,3,3:36 PM,4:13,Robinson Bad Pass Turnover (P4.T8),,,,
+0020000455,292,8,0,3,3:36 PM,4:13,SUB: Rogers FOR Marion,,,,
+0020000455,294,6,2,3,3:36 PM,3:55,Dudley S.FOUL (P4.T3),,,,
+0020000455,295,8,0,3,3:36 PM,3:55,SUB: Gugliotta FOR Robinson,,,,
+0020000455,296,3,11,3,3:36 PM,3:55,,,MISS McInnis Free Throw 1 of 2,,
+0020000455,297,4,1,3,3:36 PM,3:55,,,Clippers Rebound,,
+0020000455,298,8,0,3,3:37 PM,3:55,SUB: Tsakalidis FOR Dudley,,,,
+0020000455,299,3,12,3,3:37 PM,3:55,,,McInnis Free Throw 2 of 2 (10 PTS),55 - 59,4
+0020000455,300,1,1,3,3:37 PM,3:43,Rogers 25' 3PT Jump Shot (7 PTS) (Kidd 8 AST),,,55 - 62,7
+0020000455,301,1,5,3,3:37 PM,3:21,,,Rooks  Layup (8 PTS) (Maggette 2 AST),57 - 62,5
+0020000455,302,5,2,3,3:38 PM,3:07,Tsakalidis Lost Ball Turnover (P1.T9),,McInnis STEAL (1 STL),,
+0020000455,303,1,1,3,3:38 PM,2:54,,,Rooks 17' Jump Shot (10 PTS) (Maggette 3 AST),59 - 62,3
+0020000455,304,2,1,3,3:38 PM,2:35,MISS Gugliotta 13' Jump Shot,,,,
+0020000455,305,4,0,3,3:38 PM,2:33,,,Odom REBOUND (Off:0 Def:4),,
+0020000455,306,2,1,3,3:38 PM,2:29,,,MISS Odom 11' Jump Shot,,
+0020000455,307,4,0,3,3:38 PM,2:28,,,Odom REBOUND (Off:1 Def:4),,
+0020000455,308,1,7,3,3:38 PM,2:21,,,Maggette  Dunk (5 PTS) (Odom 4 AST),61 - 62,1
+0020000455,309,2,5,3,3:39 PM,2:03,MISS Tsakalidis  Layup,,,,
+0020000455,310,4,0,3,3:39 PM,2:02,,,Odom REBOUND (Off:1 Def:5),,
+0020000455,311,6,2,3,3:39 PM,1:55,Delk S.FOUL (P3.T4),,,,
+0020000455,312,9,1,3,3:39 PM,1:55,SUNS Timeout: Regular (Full 3 Short 0),,,,
+0020000455,314,3,11,3,3:41 PM,1:55,,,McInnis Free Throw 1 of 2 (11 PTS),62 - 62,TIE
+0020000455,315,3,12,3,3:42 PM,1:55,,,McInnis Free Throw 2 of 2 (12 PTS),63 - 62,-1
+0020000455,316,6,1,3,3:42 PM,1:47,,,Rooks P.FOUL (P2.T4),,
+0020000455,317,8,0,3,3:42 PM,1:47,SUB: McPherson FOR Delk,,,,
+0020000455,318,1,1,3,3:42 PM,1:34,Kidd 17' Jump Shot (4 PTS),,,63 - 64,1
+0020000455,319,2,1,3,3:43 PM,1:16,,,MISS Rooks 19' Jump Shot,,
+0020000455,320,4,0,3,3:43 PM,1:15,Rogers REBOUND (Off:1 Def:1),,,,
+0020000455,321,6,4,3,3:43 PM,0:54,Tsakalidis OFF.Foul (P1),,,,
+0020000455,322,5,5,3,3:43 PM,0:54,Tsakalidis Foul Turnover (P2.T10),,,,
+0020000455,323,1,1,3,3:44 PM,0:41,,,McInnis 17' Jump Shot (14 PTS),65 - 64,-1
+0020000455,324,6,2,3,3:44 PM,0:34,,,Rooks S.FOUL (P3.PN),,
+0020000455,325,3,11,3,3:44 PM,0:34,MISS Rogers Free Throw 1 of 2,,,,
+0020000455,326,4,1,3,3:44 PM,0:34,SUNS Rebound,,,,
+0020000455,327,3,12,3,3:44 PM,0:34,Rogers Free Throw 2 of 2 (8 PTS),,,65 - 65,TIE
+0020000455,328,2,47,3,3:45 PM,0:23,,,MISS Rooks 15' Turnaround Jump Shot,,
+0020000455,329,4,0,3,3:45 PM,0:21,Gugliotta REBOUND (Off:0 Def:2),,,,
+0020000455,330,2,5,3,3:45 PM,0:01,MISS Rogers  Layup,,,,
+0020000455,331,4,0,3,3:45 PM,0:01,,,Miles REBOUND (Off:2 Def:7),,
+0020000455,332,13,0,3,3:45 PM,0:00,,,,65 - 65,TIE
+0020000455,334,12,0,4,3:48 PM,12:00,,,,65 - 65,TIE
+0020000455,335,1,1,4,3:48 PM,11:47,Gugliotta 20' Jump Shot (6 PTS) (Rogers 2 AST),,,65 - 67,2
+0020000455,336,5,1,4,3:49 PM,11:25,Kidd STEAL (2 STL),,Odom Bad Pass Turnover (P5.T12),,
+0020000455,337,5,3,4,3:49 PM,11:20,Rogers Out Of Bounds Turnover (P1.T11),,,,
+0020000455,338,1,1,4,3:49 PM,10:58,,,Odom 25' 3PT Jump Shot (19 PTS) (Rooks 3 AST),68 - 67,-1
+0020000455,339,5,2,4,3:50 PM,10:39,Gugliotta Lost Ball Turnover (P1.T12),,,,
+0020000455,340,8,0,4,3:50 PM,10:39,,,SUB: Piatkowski FOR Miles,,
+0020000455,341,2,1,4,3:50 PM,10:19,,,MISS McInnis 14' Jump Shot,,
+0020000455,342,4,0,4,3:50 PM,10:17,Rogers REBOUND (Off:1 Def:2),,,,
+0020000455,343,6,17,4,3:50 PM,10:10,,,Clippers Foul,,
+0020000455,344,3,16,4,3:50 PM,10:10,Kidd Free Throw Technical (5 PTS),,,68 - 68,TIE
+0020000455,345,1,7,4,3:51 PM,10:03,Robinson  Dunk (16 PTS) (Kidd 9 AST),,,68 - 70,2
+0020000455,346,1,1,4,3:51 PM,9:37,,,Rooks 17' Jump Shot (12 PTS) (Piatkowski 1 AST),70 - 70,TIE
+0020000455,347,2,1,4,3:52 PM,9:24,MISS Robinson 15' Jump Shot,,,,
+0020000455,348,4,0,4,3:52 PM,9:22,,,McInnis REBOUND (Off:2 Def:3),,
+0020000455,349,8,0,4,3:52 PM,9:14,,,SUB: Dooling FOR McInnis,,
+0020000455,350,9,1,4,3:52 PM,9:14,,,Clippers Timeout: Regular (Reg.4 Short 2),,
+0020000455,352,1,1,4,3:55 PM,8:59,,,Odom 27' 3PT Jump Shot (22 PTS),73 - 70,-3
+0020000455,353,2,1,4,3:55 PM,8:42,MISS Kidd 23' Jump Shot,,,,
+0020000455,354,4,0,4,3:55 PM,8:40,,,Piatkowski REBOUND (Off:0 Def:1),,
+0020000455,355,5,2,4,3:55 PM,8:38,,,Piatkowski Lost Ball Turnover (P1.T13),,
+0020000455,356,1,1,4,3:55 PM,8:27,Rogers 12' Jump Shot (10 PTS),,,73 - 72,-1
+0020000455,357,6,4,4,3:56 PM,8:03,,,Dooling OFF.Foul (P1),,
+0020000455,358,5,5,4,3:56 PM,8:03,,,Dooling Foul Turnover (P2.T14),,
+0020000455,359,2,1,4,3:56 PM,7:48,MISS Rogers 12' Jump Shot,,,,
+0020000455,360,4,0,4,3:56 PM,7:47,Gugliotta REBOUND (Off:1 Def:2),,,,
+0020000455,361,6,1,4,3:56 PM,7:46,,,Dooling P.FOUL (P2.T1),,
+0020000455,362,1,5,4,3:57 PM,7:38,Robinson  Layup (18 PTS) (Kidd 10 AST),,,73 - 74,1
+0020000455,363,6,1,4,3:57 PM,7:15,Rogers P.FOUL (P1.T1),,,,
+0020000455,364,6,11,4,3:58 PM,7:15,,,Dooling T.FOUL (P2.T1),,
+0020000455,365,8,0,4,3:58 PM,7:15,,,SUB: Richardson FOR Maggette,,
+0020000455,366,3,16,4,3:58 PM,7:15,Kidd Free Throw Technical (6 PTS),,,73 - 75,2
+0020000455,367,8,0,4,3:58 PM,7:15,SUB: Delk FOR McPherson,,,,
+0020000455,368,6,2,4,3:59 PM,7:08,Gugliotta S.FOUL (P2.T2),,,,
+0020000455,369,3,11,4,3:59 PM,7:08,,,Odom Free Throw 1 of 2 (23 PTS),74 - 75,1
+0020000455,370,8,0,4,3:59 PM,7:08,,,SUB: Miles FOR Rooks,,
+0020000455,371,3,12,4,3:59 PM,7:08,,,Odom Free Throw 2 of 2 (24 PTS),75 - 75,TIE
+0020000455,372,6,2,4,4:00 PM,6:45,,,Odom S.FOUL (P4.T2),,
+0020000455,373,3,11,4,4:00 PM,6:45,Gugliotta Free Throw 1 of 2 (7 PTS),,,75 - 76,1
+0020000455,374,3,12,4,4:00 PM,6:45,Gugliotta Free Throw 2 of 2 (8 PTS),,,75 - 77,2
+0020000455,375,2,1,4,4:01 PM,6:37,,,MISS Piatkowski 23' Jump Shot,,
+0020000455,376,4,0,4,4:01 PM,6:35,Robinson REBOUND (Off:2 Def:2),,,,
+0020000455,377,2,1,4,4:01 PM,6:25,MISS Kidd 24' 3PT Jump Shot,,,,
+0020000455,378,4,0,4,4:01 PM,6:23,,,Dooling REBOUND (Off:0 Def:2),,
+0020000455,379,6,2,4,4:01 PM,6:04,Gugliotta S.FOUL (P3.T3),,,,
+0020000455,380,3,11,4,4:01 PM,6:04,,,MISS Dooling Free Throw 1 of 2,,
+0020000455,381,4,1,4,4:01 PM,6:04,,,Clippers Rebound,,
+0020000455,382,3,12,4,4:01 PM,6:04,,,Dooling Free Throw 2 of 2 (3 PTS),76 - 77,1
+0020000455,383,1,1,4,4:02 PM,5:48,Robinson 24' 3PT Jump Shot (21 PTS) (Kidd 11 AST),,,76 - 80,4
+0020000455,384,2,1,4,4:02 PM,5:26,,,MISS Richardson 25' 3PT Jump Shot,,
+0020000455,385,4,0,4,4:02 PM,5:24,Delk REBOUND (Off:0 Def:1),,,,
+0020000455,386,6,4,4,4:02 PM,5:18,Kidd OFF.Foul (P2),,,,
+0020000455,387,5,5,4,4:02 PM,5:18,Kidd Foul Turnover (P3.T13),,,,
+0020000455,388,9,4,4,4:03 PM,5:18,,,,,
+0020000455,390,8,0,4,4:05 PM,5:18,,,SUB: Rooks FOR Piatkowski,,
+0020000455,391,2,1,4,4:05 PM,5:01,Rogers BLOCK (1 BLK),,MISS Richardson 6' Jump Shot,,
+0020000455,392,4,0,4,4:05 PM,4:59,,,Odom REBOUND (Off:2 Def:5),,
+0020000455,393,2,1,4,4:05 PM,4:55,,,MISS Odom 24' 3PT Jump Shot,,
+0020000455,394,4,0,4,4:05 PM,4:53,Gugliotta REBOUND (Off:1 Def:3),,,,
+0020000455,395,2,1,4,4:05 PM,4:49,MISS Robinson 17' Jump Shot,,,,
+0020000455,396,4,0,4,4:05 PM,4:46,,,Rooks REBOUND (Off:0 Def:4),,
+0020000455,397,6,1,4,4:06 PM,4:31,Robinson P.FOUL (P3.T4),,,,
+0020000455,398,8,0,4,4:06 PM,4:31,,,SUB: McInnis FOR Dooling,,
+0020000455,399,2,1,4,4:06 PM,4:23,,,MISS Miles 13' Jump Shot,,
+0020000455,400,4,0,4,4:06 PM,4:21,Gugliotta REBOUND (Off:1 Def:4),,,,
+0020000455,401,2,1,4,4:06 PM,4:01,MISS Robinson 24' 3PT Jump Shot,,,,
+0020000455,402,4,0,4,4:06 PM,3:59,,,Clippers Rebound,,
+0020000455,403,8,0,4,4:07 PM,3:58,,,SUB: Piatkowski FOR Richardson,,
+0020000455,404,1,7,4,4:07 PM,3:48,,,Miles  Dunk (6 PTS) (Rooks 4 AST),78 - 80,2
+0020000455,405,1,5,4,4:07 PM,3:30,Kidd  Layup (8 PTS) (Robinson 3 AST),,,78 - 82,4
+0020000455,406,2,1,4,4:08 PM,3:10,,,MISS Odom 9' Jump Shot,,
+0020000455,407,4,0,4,4:08 PM,3:09,Gugliotta REBOUND (Off:1 Def:5),,,,
+0020000455,408,1,47,4,4:08 PM,2:52,Kidd 9' Turnaround Jump Shot (10 PTS),,,78 - 84,6
+0020000455,409,9,1,4,4:08 PM,2:45,,,Clippers Timeout: Regular (Reg.5 Short 2),,
+0020000455,411,1,1,4,4:10 PM,2:29,,,McInnis 24' 3PT Jump Shot (17 PTS) (Miles 2 AST),81 - 84,3
+0020000455,412,1,5,4,4:11 PM,2:05,Gugliotta  Layup (10 PTS) (Robinson 4 AST),,,81 - 86,5
+0020000455,413,1,1,4,4:11 PM,1:46,,,Miles 13' Jump Shot (8 PTS) (Odom 5 AST),83 - 86,3
+0020000455,414,2,1,4,4:12 PM,1:28,MISS Delk 25' 3PT Jump Shot,,,,
+0020000455,415,4,0,4,4:12 PM,1:25,,,Miles REBOUND (Off:2 Def:8),,
+0020000455,416,6,1,4,4:12 PM,1:18,Rogers P.FOUL (P2.PN),,,,
+0020000455,417,3,11,4,4:12 PM,1:18,,,MISS McInnis Free Throw 1 of 2,,
+0020000455,418,4,1,4,4:12 PM,1:18,,,Clippers Rebound,,
+0020000455,419,3,12,4,4:12 PM,1:18,,,MISS McInnis Free Throw 2 of 2,,
+0020000455,420,4,0,4,4:13 PM,1:15,Gugliotta REBOUND (Off:1 Def:6),,,,
+0020000455,421,6,1,4,4:13 PM,1:06,,,McInnis P.FOUL (P3.T3),,
+0020000455,423,2,1,4,4:13 PM,1:01,MISS Kidd 12' Jump Shot,,,,
+0020000455,425,4,0,4,4:13 PM,0:59,Gugliotta REBOUND (Off:2 Def:6),,,,
+0020000455,424,2,4,4,4:13 PM,0:59,MISS Gugliotta  Tip Shot,,,,
+0020000455,426,4,0,4,4:14 PM,0:58,Delk REBOUND (Off:1 Def:1),,,,
+0020000455,427,2,1,4,4:14 PM,0:45,MISS Robinson 15' Jump Shot,,,,
+0020000455,428,4,0,4,4:14 PM,0:43,Gugliotta REBOUND (Off:3 Def:6),,,,
+0020000455,429,9,1,4,4:14 PM,0:40,SUNS Timeout: Regular (Full 4 Short 0),,,,
+0020000455,431,5,8,4,4:17 PM,0:27,Gugliotta 3 Second Violation Turnover (P2.T14),,,,
+0020000455,432,2,1,4,4:17 PM,0:16,,,MISS Piatkowski 8' Jump Shot,,
+0020000455,433,4,0,4,4:17 PM,0:14,Kidd REBOUND (Off:0 Def:2),,,,
+0020000455,434,6,1,4,4:17 PM,0:14,,,Rooks P.FOUL (P4.PN),,
+0020000455,435,3,11,4,4:17 PM,0:14,Kidd Free Throw 1 of 2 (11 PTS),,,83 - 87,4
+0020000455,436,3,12,4,4:18 PM,0:14,Kidd Free Throw 2 of 2 (12 PTS),,,83 - 88,5
+0020000455,437,9,1,4,4:18 PM,0:14,,,Clippers Timeout: Regular (Reg.6 Short 2),,
+0020000455,439,2,1,4,4:20 PM,0:08,,,MISS Odom 25' 3PT Jump Shot,,
+0020000455,440,4,0,4,4:20 PM,0:07,Delk REBOUND (Off:1 Def:2),,,,
+0020000455,441,6,1,4,4:20 PM,0:06,,,Piatkowski P.FOUL (P1.PN),,
+0020000455,442,3,11,4,4:20 PM,0:06,Delk Free Throw 1 of 2 (9 PTS),,,83 - 89,6
+0020000455,443,8,0,4,4:21 PM,0:06,SUB: McPherson FOR Kidd,,,,
+0020000455,444,3,12,4,4:21 PM,0:06,Delk Free Throw 2 of 2 (10 PTS),,,83 - 90,7
+0020000455,445,6,1,4,4:21 PM,0:05,McPherson P.FOUL (P2.PN),,,,
+0020000455,446,3,11,4,4:21 PM,0:05,,,Piatkowski Free Throw 1 of 2 (1 PTS),84 - 90,6
+0020000455,447,3,12,4,4:21 PM,0:05,,,Piatkowski Free Throw 2 of 2 (2 PTS),85 - 90,5
+0020000455,448,13,0,4,4:22 PM,0:00,,,,85 - 90,5

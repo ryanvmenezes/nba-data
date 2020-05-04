@@ -1,0 +1,463 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020001156,0,12,0,1,5:10 AM,12:00,,,,,
+0020001156,1,10,0,1,5:10 AM,12:00,Jump Ball Smith vs. Mihm: Tip to Person,,,,
+0020001156,2,7,2,1,5:10 AM,11:51,WIZARDS Violation: Def. Goaltending Violation,,,,
+0020001156,3,2,5,1,5:11 AM,11:35,,,MISS Miller 1' Layup,,
+0020001156,4,4,0,1,5:11 AM,11:32,,,Mihm REBOUND (Off:1 Def:0),,
+0020001156,5,1,4,1,5:11 AM,11:31,,,Mihm 1' Tip Shot (2 PTS),2 - 0,-2
+0020001156,6,1,1,1,5:11 AM,11:17,Laettner 15' Jump Shot (2 PTS),,,2 - 2,TIE
+0020001156,7,5,3,1,5:12 AM,11:02,,,Mihm Out Of Bounds Turnover (P1.T1),,
+0020001156,8,5,14,1,5:12 AM,10:54,Hamilton Illegal Pick Turnover (P1.T1),,,,
+0020001156,9,2,1,1,5:12 AM,10:39,,,MISS Person 20' Jump Shot,,
+0020001156,10,4,0,1,5:12 AM,10:37,Smith REBOUND (Off:0 Def:1),,,,
+0020001156,11,1,5,1,5:12 AM,10:33,Laettner 2' Layup (4 PTS) (Profit 1 AST),,,2 - 4,2
+0020001156,12,2,1,1,5:13 AM,10:21,,,MISS Harpring 10' Jump Shot,,
+0020001156,13,4,0,1,5:13 AM,10:19,,,Mihm REBOUND (Off:2 Def:0),,
+0020001156,14,1,4,1,5:13 AM,10:17,,,Mihm  Tip Shot (4 PTS),4 - 4,TIE
+0020001156,15,2,1,1,5:13 AM,10:10,MISS Smith 4' Jump Shot,,,,
+0020001156,16,4,0,1,5:13 AM,10:09,Smith REBOUND (Off:1 Def:1),,,,
+0020001156,17,1,5,1,5:13 AM,10:09,Smith 2' Layup (2 PTS),,,4 - 6,2
+0020001156,18,6,2,1,5:13 AM,10:09,,,Miller S.FOUL (P1.T1),,
+0020001156,19,3,10,1,5:13 AM,10:09,Smith Free Throw 1 of 1 (3 PTS),,,4 - 7,3
+0020001156,20,6,2,1,5:13 AM,9:56,Hamilton S.FOUL (P1.T1),,,,
+0020001156,21,3,11,1,5:14 AM,9:56,,,Harpring Free Throw 1 of 2 (1 PTS),5 - 7,2
+0020001156,22,3,12,1,5:14 AM,9:56,,,MISS Harpring Free Throw 2 of 2,,
+0020001156,23,4,0,1,5:14 AM,9:55,Laettner REBOUND (Off:0 Def:1),,,,
+0020001156,24,2,1,1,5:14 AM,9:36,MISS Hamilton 13' Jump Shot,,,,
+0020001156,25,4,0,1,5:14 AM,9:34,Laettner REBOUND (Off:1 Def:1),,,,
+0020001156,26,6,2,1,5:15 AM,9:33,,,Weatherspoon S.FOUL (P1.T2),,
+0020001156,27,3,11,1,5:15 AM,9:33,Profit Free Throw 1 of 2 (1 PTS),,,5 - 8,3
+0020001156,28,3,12,1,5:15 AM,9:33,Profit Free Throw 2 of 2 (2 PTS),,,5 - 9,4
+0020001156,29,2,1,1,5:15 AM,9:17,,,MISS Person 4' Jump Shot,,
+0020001156,30,4,0,1,5:15 AM,9:15,Smith REBOUND (Off:1 Def:2),,,,
+0020001156,31,2,1,1,5:15 AM,9:11,MISS Hamilton 19' Jump Shot,,,,
+0020001156,32,4,0,1,5:15 AM,9:09,Alexander REBOUND (Off:1 Def:0),,,,
+0020001156,33,2,5,1,5:16 AM,9:04,MISS Laettner 2' Layup,,,,
+0020001156,34,4,0,1,5:16 AM,9:02,,,Weatherspoon REBOUND (Off:0 Def:1),,
+0020001156,36,8,0,1,5:16 AM,8:57,,,SUB: Murray FOR Harpring,,
+0020001156,38,5,1,1,5:16 AM,8:47,Laettner STEAL (1 STL),,Miller Bad Pass Turnover (P1.T2),,
+0020001156,39,2,1,1,5:17 AM,8:35,MISS Laettner 20' Jump Shot,,,,
+0020001156,40,4,0,1,5:17 AM,8:33,,,Miller REBOUND (Off:0 Def:1),,
+0020001156,41,2,1,1,5:17 AM,8:27,,,MISS Miller 13' Jump Shot,,
+0020001156,42,4,0,1,5:17 AM,8:25,,,Weatherspoon REBOUND (Off:1 Def:1),,
+0020001156,43,2,1,1,5:17 AM,8:22,,,MISS Person 18' Jump Shot,,
+0020001156,44,4,0,1,5:17 AM,8:21,Smith REBOUND (Off:1 Def:3),,,,
+0020001156,45,1,41,1,5:17 AM,8:16,Hamilton 2' Running Layup (2 PTS) (Smith 1 AST),,,5 - 11,6
+0020001156,47,1,5,1,5:17 AM,7:58,,,Weatherspoon 1' Layup (2 PTS) (Miller 1 AST),7 - 11,4
+0020001156,48,2,1,1,5:18 AM,7:35,MISS Hamilton 6' Jump Shot,,,,
+0020001156,49,4,0,1,5:18 AM,7:34,,,Cavaliers Rebound,,
+0020001156,50,6,1,1,5:18 AM,7:25,Smith P.FOUL (P1.T2),,,,
+0020001156,51,1,41,1,5:19 AM,7:21,,,Miller 1' Running Layup (2 PTS),9 - 11,2
+0020001156,52,6,1,1,5:19 AM,7:12,,,Murray P.FOUL (P1.T3),,
+0020001156,53,1,1,1,5:19 AM,7:07,Alexander 20' Jump Shot (2 PTS) (Profit 2 AST),,,9 - 13,4
+0020001156,54,1,3,1,5:19 AM,6:49,,,Weatherspoon 4' Hook Shot (4 PTS) (Miller 2 AST),11 - 13,2
+0020001156,55,2,1,1,5:20 AM,6:30,MISS Alexander 18' Jump Shot,,,,
+0020001156,56,4,0,1,5:20 AM,6:28,,,Person REBOUND (Off:0 Def:1),,
+0020001156,57,1,41,1,5:20 AM,6:26,,,Miller 1' Running Layup (4 PTS),13 - 13,TIE
+0020001156,58,6,2,1,5:20 AM,6:26,Profit S.FOUL (P1.T3),,,,
+0020001156,59,3,10,1,5:20 AM,6:26,,,MISS Miller Free Throw 1 of 1,,
+0020001156,60,4,0,1,5:21 AM,6:25,Profit REBOUND (Off:0 Def:1),,,,
+0020001156,61,1,1,1,5:21 AM,6:01,Laettner 17' Jump Shot (6 PTS) (Profit 3 AST),,,13 - 15,2
+0020001156,62,1,1,1,5:21 AM,5:42,,,Murray 25' 3PT Jump Shot (3 PTS) (Miller 3 AST),16 - 15,-1
+0020001156,63,2,1,1,5:22 AM,5:26,MISS Hamilton 8' Jump Shot,,,,
+0020001156,64,4,0,1,5:22 AM,5:24,,,Mihm REBOUND (Off:2 Def:1),,
+0020001156,65,1,1,1,5:22 AM,5:12,,,Miller 23' Jump Shot (6 PTS),18 - 15,-3
+0020001156,66,6,2,1,5:22 AM,5:04,,,Miller S.FOUL (P2.T4),,
+0020001156,67,9,1,1,5:22 AM,5:04,WIZARDS Timeout: Regular (Full 1 Short 0),,,,
+0020001156,69,8,0,1,5:24 AM,5:04,,,SUB: Coles FOR Miller,,
+0020001156,70,3,11,1,5:24 AM,5:04,Profit Free Throw 1 of 2 (3 PTS),,,18 - 16,-2
+0020001156,71,3,12,1,5:25 AM,5:04,Profit Free Throw 2 of 2 (4 PTS),,,18 - 17,-1
+0020001156,72,2,1,1,5:25 AM,4:43,,,MISS Murray 20' Jump Shot,,
+0020001156,73,4,0,1,5:25 AM,4:42,,,Murray REBOUND (Off:1 Def:0),,
+0020001156,74,2,1,1,5:25 AM,4:35,,,MISS Murray 18' Jump Shot,,
+0020001156,75,4,0,1,5:25 AM,4:34,,,Person REBOUND (Off:1 Def:1),,
+0020001156,76,1,1,1,5:25 AM,4:32,,,Person 8' Jump Shot (2 PTS),20 - 17,-3
+0020001156,77,2,1,1,5:26 AM,4:05,MISS Profit 6' Jump Shot,,Mihm BLOCK (1 BLK),,
+0020001156,78,4,0,1,5:26 AM,4:02,Laettner REBOUND (Off:2 Def:1),,,,
+0020001156,79,2,5,1,5:26 AM,4:02,MISS Laettner 1' Layup,,,,
+0020001156,80,4,0,1,5:26 AM,4:02,WIZARDS Rebound,,,,
+0020001156,81,8,0,1,5:26 AM,4:02,SUB: Vanterpool FOR Profit,,,,
+0020001156,82,2,1,1,5:27 AM,3:49,MISS Vanterpool 19' Jump Shot,,,,
+0020001156,83,4,0,1,5:27 AM,3:47,,,Person REBOUND (Off:1 Def:2),,
+0020001156,84,5,4,1,5:27 AM,3:42,,,Person Traveling Turnover (P1.T3),,
+0020001156,85,2,1,1,5:27 AM,3:30,MISS Laettner 17' Jump Shot,,,,
+0020001156,86,4,0,1,5:27 AM,3:28,,,Weatherspoon REBOUND (Off:1 Def:2),,
+0020001156,87,1,1,1,5:27 AM,3:18,,,Coles 19' Jump Shot (2 PTS),22 - 17,-5
+0020001156,88,6,1,1,5:27 AM,3:11,,,Person P.FOUL (P1.PN),,
+0020001156,89,3,11,1,5:28 AM,3:11,Hamilton Free Throw 1 of 2 (3 PTS),,,22 - 18,-4
+0020001156,90,3,12,1,5:28 AM,3:11,Hamilton Free Throw 2 of 2 (4 PTS),,,22 - 19,-3
+0020001156,91,8,0,1,5:28 AM,3:10,SUB: Jones FOR Smith,,,,
+0020001156,92,2,1,1,5:28 AM,2:58,,,MISS Coles 20' Jump Shot,,
+0020001156,93,4,0,1,5:28 AM,2:56,,,Murray REBOUND (Off:2 Def:0),,
+0020001156,94,1,5,1,5:29 AM,2:55,,,Murray 2' Layup (5 PTS),24 - 19,-5
+0020001156,95,2,5,1,5:29 AM,2:43,MISS Alexander 1' Layup,,,,
+0020001156,96,4,0,1,5:29 AM,2:41,,,Weatherspoon REBOUND (Off:1 Def:3),,
+0020001156,97,5,1,1,5:29 AM,2:35,Hamilton STEAL (1 STL),,Murray Bad Pass Turnover (P1.T4),,
+0020001156,98,1,8,1,5:29 AM,2:30,Alexander 1' Slam Dunk (4 PTS) (Hamilton 1 AST),,,24 - 21,-3
+0020001156,99,2,1,1,5:29 AM,2:11,,,MISS Mihm 7' Jump Shot,,
+0020001156,100,4,0,1,5:29 AM,2:10,,,Weatherspoon REBOUND (Off:2 Def:3),,
+0020001156,101,5,2,1,5:29 AM,2:08,Vanterpool STEAL (1 STL),,Weatherspoon Lost Ball Turnover (P1.T5),,
+0020001156,102,6,1,1,5:29 AM,2:04,,,Coles P.FOUL (P1.PN),,
+0020001156,103,9,1,1,5:30 AM,2:04,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,
+0020001156,105,3,11,1,5:32 AM,2:04,MISS Vanterpool Free Throw 1 of 2,,,,
+0020001156,106,4,1,1,5:32 AM,2:04,WIZARDS Rebound,,,,
+0020001156,107,8,0,1,5:32 AM,2:04,SUB: Nesby FOR Alexander,,,,
+0020001156,108,8,0,1,5:32 AM,2:04,SUB: Vaught FOR Laettner,,,,
+0020001156,109,3,12,1,5:32 AM,2:04,Vanterpool Free Throw 2 of 2 (1 PTS),,,24 - 22,-2
+0020001156,110,2,1,1,5:33 AM,1:43,,,MISS Coles 18' Jump Shot,,
+0020001156,111,4,0,1,5:33 AM,1:41,Jones REBOUND (Off:0 Def:1),,,,
+0020001156,112,2,1,1,5:33 AM,1:32,MISS Vaught 15' Jump Shot,,,,
+0020001156,113,4,0,1,5:33 AM,1:30,,,Weatherspoon REBOUND (Off:2 Def:4),,
+0020001156,114,5,1,1,5:33 AM,1:20,Vaught STEAL (1 STL),,Murray Bad Pass Turnover (P2.T6),,
+0020001156,115,1,1,1,5:33 AM,1:08,Vanterpool 18' Jump Shot (3 PTS) (Nesby 1 AST),,,24 - 24,TIE
+0020001156,116,6,4,1,5:34 AM,0:43,,,Mihm OFF.Foul (P1),,
+0020001156,117,5,5,1,5:34 AM,0:43,,,Mihm Foul Turnover (P2.T7),,
+0020001156,118,8,0,1,5:34 AM,0:43,,,SUB: Gatling FOR Mihm,,
+0020001156,119,1,41,1,5:34 AM,0:32,Vanterpool 2' Running Layup (5 PTS),,,24 - 26,2
+0020001156,120,2,5,1,5:34 AM,0:19,,,MISS Person 3' Layup,,
+0020001156,121,4,0,1,5:34 AM,0:17,Jones REBOUND (Off:0 Def:2),,,,
+0020001156,122,2,1,1,5:35 AM,0:00,MISS Vanterpool 17' Jump Shot,,,,
+0020001156,123,4,0,1,5:35 AM,0:00,,,Person REBOUND (Off:1 Def:3),,
+0020001156,124,13,0,1,5:35 AM,0:00,,,,24 - 26,2
+0020001156,126,12,0,2,5:37 AM,12:00,,,,24 - 26,2
+0020001156,127,2,1,2,5:38 AM,11:36,MISS Hamilton 15' Jump Shot,,,,
+0020001156,128,4,0,2,5:38 AM,11:34,Vaught REBOUND (Off:1 Def:0),,,,
+0020001156,129,1,3,2,5:38 AM,11:33,Vaught 4' Hook Shot (2 PTS),,,24 - 28,4
+0020001156,130,1,1,2,5:38 AM,11:15,,,Gatling 15' Jump Shot (2 PTS) (Miller 4 AST),26 - 28,2
+0020001156,131,1,1,2,5:38 AM,10:58,Vaught 16' Jump Shot (4 PTS) (Vanterpool 1 AST),,,26 - 30,4
+0020001156,132,1,7,2,5:39 AM,10:37,,,Traylor 1' Dunk (2 PTS) (Langdon 1 AST),28 - 30,2
+0020001156,133,6,1,2,5:39 AM,10:30,,,Langdon P.FOUL (P1.T1),,
+0020001156,134,2,1,2,5:39 AM,10:24,MISS Hamilton 4' Jump Shot,,,,
+0020001156,135,4,0,2,5:39 AM,10:24,Jones REBOUND (Off:1 Def:2),,,,
+0020001156,136,6,2,2,5:39 AM,10:24,,,Langdon S.FOUL (P2.T2),,
+0020001156,137,3,11,2,5:40 AM,10:24,Jones Free Throw 1 of 2 (1 PTS),,,28 - 31,3
+0020001156,138,8,0,2,5:40 AM,10:24,SUB: Profit FOR Hamilton,,,,
+0020001156,139,8,0,2,5:40 AM,10:24,SUB: Alexander FOR Vanterpool,,,,
+0020001156,140,3,12,2,5:40 AM,10:24,Jones Free Throw 2 of 2 (2 PTS),,,28 - 32,4
+0020001156,141,1,1,2,5:40 AM,10:05,,,Murray 15' Jump Shot (7 PTS) (Traylor 1 AST),30 - 32,2
+0020001156,142,1,1,2,5:40 AM,9:53,Alexander 18' Jump Shot (6 PTS) (Profit 4 AST),,,30 - 34,4
+0020001156,143,5,1,2,5:41 AM,9:39,Nesby STEAL (1 STL),,Murray Bad Pass Turnover (P3.T8),,
+0020001156,144,2,1,2,5:41 AM,9:29,MISS Jones 5' Jump Shot,,,,
+0020001156,145,4,0,2,5:41 AM,9:28,,,Murray REBOUND (Off:2 Def:1),,
+0020001156,146,6,2,2,5:41 AM,9:22,Nesby S.FOUL (P1.T1),,,,
+0020001156,147,3,11,2,5:41 AM,9:22,,,MISS Murray Free Throw 1 of 2,,
+0020001156,148,4,1,2,5:41 AM,9:22,,,Cavaliers Rebound,,
+0020001156,149,3,12,2,5:41 AM,9:22,,,Murray Free Throw 2 of 2 (8 PTS),31 - 34,3
+0020001156,150,1,1,2,5:42 AM,9:08,Alexander 9' Jump Shot (8 PTS),,,31 - 36,5
+0020001156,151,1,1,2,5:42 AM,8:52,,,Murray 17' Jump Shot (10 PTS),33 - 36,3
+0020001156,152,2,1,2,5:42 AM,8:40,MISS Alexander 15' Jump Shot,,,,
+0020001156,153,4,0,2,5:42 AM,8:37,,,Gatling REBOUND (Off:0 Def:1),,
+0020001156,154,2,1,2,5:43 AM,8:23,,,MISS Traylor 14' Jump Shot,,
+0020001156,155,4,0,2,5:43 AM,8:22,Alexander REBOUND (Off:1 Def:1),,,,
+0020001156,156,1,5,2,5:43 AM,8:16,Alexander 2' Layup (10 PTS),,,33 - 38,5
+0020001156,157,2,1,2,5:43 AM,7:55,,,MISS Murray 19' Jump Shot,,
+0020001156,158,4,0,2,5:43 AM,7:53,WIZARDS Rebound,,,,
+0020001156,159,9,4,2,5:43 AM,7:53,,,,,
+0020001156,161,5,1,2,5:45 AM,7:40,Profit Bad Pass Turnover (P1.T2),,,,
+0020001156,162,5,2,2,5:46 AM,7:23,Nesby STEAL (2 STL),,Gatling Lost Ball Turnover (P1.T9),,
+0020001156,163,2,1,2,5:46 AM,7:15,MISS Nesby 11' Jump Shot,,,,
+0020001156,164,4,0,2,5:46 AM,7:13,,,Miller REBOUND (Off:0 Def:2),,
+0020001156,165,5,1,2,5:46 AM,7:10,,,Langdon Bad Pass Turnover (P1.T10),,
+0020001156,166,8,0,2,5:46 AM,7:10,SUB: Laettner FOR Jones,,,,
+0020001156,167,8,0,2,5:46 AM,7:10,SUB: Smith FOR Vaught,,,,
+0020001156,168,2,1,2,5:47 AM,6:49,MISS Alexander 5' Jump Shot,,Traylor BLOCK (1 BLK),,
+0020001156,169,4,0,2,5:47 AM,6:47,,,Murray REBOUND (Off:2 Def:2),,
+0020001156,170,1,5,2,5:47 AM,6:44,,,Miller 1' Layup (8 PTS) (Murray 1 AST),35 - 38,3
+0020001156,171,9,1,2,5:47 AM,6:32,WIZARDS Timeout: Regular (Full 2 Short 0),,,,
+0020001156,173,1,1,2,5:49 AM,6:21,Nesby 12' Jump Shot (2 PTS) (Alexander 1 AST),,,35 - 40,5
+0020001156,174,2,1,2,5:50 AM,6:06,,,MISS Gatling 17' Jump Shot,,
+0020001156,175,4,0,2,5:50 AM,6:03,,,Traylor REBOUND (Off:1 Def:0),,
+0020001156,176,1,1,2,5:50 AM,6:01,,,Traylor 8' Jump Shot (4 PTS),37 - 40,3
+0020001156,177,1,1,2,5:50 AM,5:36,Profit 20' Jump Shot (6 PTS),,,37 - 42,5
+0020001156,178,1,1,2,5:50 AM,5:21,,,Langdon 24' 3PT Jump Shot (3 PTS) (Miller 5 AST),40 - 42,2
+0020001156,179,6,2,2,5:50 AM,5:13,,,Traylor S.FOUL (P1.T3),,
+0020001156,180,8,0,2,5:51 AM,5:13,,,SUB: Harpring FOR Langdon,,
+0020001156,181,3,11,2,5:51 AM,5:13,Profit Free Throw 1 of 2 (7 PTS),,,40 - 43,3
+0020001156,182,3,12,2,5:51 AM,5:13,Profit Free Throw 2 of 2 (8 PTS),,,40 - 44,4
+0020001156,183,2,1,2,5:51 AM,5:03,,,MISS Gatling 21' Jump Shot,,
+0020001156,184,4,0,2,5:51 AM,5:00,Nesby REBOUND (Off:0 Def:1),,,,
+0020001156,185,5,1,2,5:52 AM,4:41,Profit Bad Pass Turnover (P2.T3),,Miller STEAL (1 STL),,
+0020001156,186,2,5,2,5:52 AM,4:35,,,MISS Miller 2' Layup,,
+0020001156,187,4,0,2,5:52 AM,4:34,,,Traylor REBOUND (Off:2 Def:0),,
+0020001156,188,1,8,2,5:52 AM,4:32,,,Traylor 1' Slam Dunk (6 PTS),42 - 44,2
+0020001156,189,2,1,2,5:52 AM,4:20,MISS Alexander 5' Jump Shot,,Traylor BLOCK (2 BLK),,
+0020001156,190,4,0,2,5:52 AM,4:20,WIZARDS Rebound,,,,
+0020001156,191,8,0,2,5:52 AM,4:20,SUB: Hamilton FOR Nesby,,,,
+0020001156,192,8,0,2,5:52 AM,4:20,,,SUB: Weatherspoon FOR Gatling,,
+0020001156,193,1,1,2,5:53 AM,4:10,Laettner 17' Jump Shot (8 PTS) (Hamilton 2 AST),,,42 - 46,4
+0020001156,194,1,46,2,5:53 AM,3:47,,,Miller 6' Running Jump Shot (10 PTS),44 - 46,2
+0020001156,195,1,1,2,5:53 AM,3:37,Alexander 20' Jump Shot (12 PTS) (Hamilton 3 AST),,,44 - 48,4
+0020001156,196,2,5,2,5:53 AM,3:29,,,MISS Murray 2' Layup,,
+0020001156,197,4,0,2,5:53 AM,3:29,,,Traylor REBOUND (Off:3 Def:0),,
+0020001156,198,1,5,2,5:53 AM,3:29,,,Traylor 1' Layup (8 PTS),46 - 48,2
+0020001156,199,6,2,2,5:53 AM,3:29,Smith S.FOUL (P2.T2),,,,
+0020001156,200,3,10,2,5:53 AM,3:29,,,Traylor Free Throw 1 of 1 (9 PTS),47 - 48,1
+0020001156,201,2,1,2,5:54 AM,3:12,MISS Alexander 17' Jump Shot,,,,
+0020001156,202,4,0,2,5:54 AM,3:10,,,Weatherspoon REBOUND (Off:2 Def:5),,
+0020001156,203,2,1,2,5:54 AM,3:02,,,MISS Traylor 5' Jump Shot,,
+0020001156,204,4,0,2,5:54 AM,3:00,,,Weatherspoon REBOUND (Off:3 Def:5),,
+0020001156,205,1,5,2,5:54 AM,2:59,,,Weatherspoon 1' Layup (6 PTS),49 - 48,-1
+0020001156,206,6,1,2,5:55 AM,2:38,,,Harpring P.FOUL (P1.T4),,
+0020001156,207,9,1,2,5:55 AM,2:38,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,
+0020001156,210,8,0,2,5:57 AM,2:38,SUB: Jones FOR Smith,,,,
+0020001156,211,2,1,2,5:57 AM,2:22,MISS Hamilton 10' Jump Shot,,,,
+0020001156,212,4,0,2,5:57 AM,2:20,,,Weatherspoon REBOUND (Off:3 Def:6),,
+0020001156,213,2,1,2,5:57 AM,2:15,,,MISS Miller 8' Jump Shot,,
+0020001156,214,4,0,2,5:57 AM,2:13,Laettner REBOUND (Off:2 Def:2),,,,
+0020001156,215,2,1,2,5:57 AM,2:01,MISS Hamilton 6' Jump Shot,,Traylor BLOCK (3 BLK),,
+0020001156,216,4,0,2,5:57 AM,1:58,,,Murray REBOUND (Off:2 Def:3),,
+0020001156,217,5,2,2,5:58 AM,1:54,,,Traylor Lost Ball Turnover (P1.T11),,
+0020001156,218,1,1,2,5:58 AM,1:33,Laettner 15' Jump Shot (10 PTS),,,49 - 50,1
+0020001156,219,2,1,2,5:58 AM,1:15,,,MISS Murray 19' Jump Shot,,
+0020001156,220,4,0,2,5:58 AM,1:13,Hamilton REBOUND (Off:0 Def:1),,,,
+0020001156,221,1,41,2,5:59 AM,1:06,Hamilton 1' Running Layup (6 PTS),,,49 - 52,3
+0020001156,222,8,0,2,5:59 AM,0:47,,,SUB: Johnson FOR Miller,,
+0020001156,223,2,1,2,5:59 AM,0:39,,,MISS Weatherspoon 4' Jump Shot,,
+0020001156,224,4,0,2,5:59 AM,0:38,,,Traylor REBOUND (Off:4 Def:0),,
+0020001156,225,6,2,2,5:59 AM,0:38,Jones S.FOUL (P1.T3),,,,
+0020001156,226,3,11,2,5:59 AM,0:38,,,Traylor Free Throw 1 of 2 (10 PTS),50 - 52,2
+0020001156,227,3,12,2,6:00 AM,0:38,,,MISS Traylor Free Throw 2 of 2,,
+0020001156,228,4,0,2,6:00 AM,0:36,Jones REBOUND (Off:1 Def:3),,,,
+0020001156,229,2,1,2,6:00 AM,0:29,MISS Alexander 26' 3PT Jump Shot,,,,
+0020001156,230,4,0,2,6:00 AM,0:26,,,Traylor REBOUND (Off:4 Def:1),,
+0020001156,231,5,2,2,6:00 AM,0:25,Hamilton STEAL (2 STL),,Traylor Lost Ball Turnover (P2.T12),,
+0020001156,232,6,4,2,6:00 AM,0:24,Jones OFF.Foul (P2),,,,
+0020001156,233,5,5,2,6:00 AM,0:24,Jones Foul Turnover (P1.T4),,,,
+0020001156,234,7,1,2,6:01 AM,0:24,WIZARDS Violation: Delay of game Violation,,,,
+0020001156,235,9,2,2,6:01 AM,0:24,,,Cavaliers Timeout: Short (Reg.2 Short 1),,
+0020001156,237,8,0,2,6:02 AM,0:24,SUB: Vaught FOR Jones,,,,
+0020001156,238,8,0,2,6:02 AM,0:24,,,SUB: Langdon FOR Harpring,,
+0020001156,239,1,7,2,6:02 AM,0:03,,,Weatherspoon 2' Dunk (8 PTS) (Traylor 2 AST),52 - 52,TIE
+0020001156,240,2,1,2,6:02 AM,0:00,MISS Profit 30' 3PT Jump Shot,,Johnson BLOCK (1 BLK),,
+0020001156,241,4,0,2,6:02 AM,0:00,WIZARDS Rebound,,,,
+0020001156,242,13,0,2,6:02 AM,0:00,,,,52 - 52,TIE
+0020001156,245,12,0,3,6:18 AM,12:00,,,,52 - 52,TIE
+0020001156,246,2,1,3,6:19 AM,11:42,MISS Hamilton 18' Jump Shot,,,,
+0020001156,247,4,0,3,6:19 AM,11:41,,,Weatherspoon REBOUND (Off:3 Def:7),,
+0020001156,248,5,4,3,6:19 AM,11:27,,,Mihm Traveling Turnover (P3.T13),,
+0020001156,249,6,1,3,6:19 AM,11:17,,,Harpring P.FOUL (P2.T1),,
+0020001156,250,1,1,3,6:20 AM,11:04,Alexander 20' Jump Shot (14 PTS) (Profit 5 AST),,,52 - 54,2
+0020001156,251,6,1,3,6:20 AM,10:49,Laettner P.FOUL (P1.T1),,,,
+0020001156,252,1,1,3,6:20 AM,10:42,,,Person 6' Jump Shot (4 PTS) (Miller 6 AST),54 - 54,TIE
+0020001156,253,5,2,3,6:21 AM,10:13,Laettner Lost Ball Turnover (P1.T5),,Harpring STEAL (1 STL),,
+0020001156,254,6,2,3,6:21 AM,10:10,Alexander S.FOUL (P1.T2),,,,
+0020001156,255,6,11,3,6:21 AM,10:10,,,,,
+0020001156,256,3,16,3,6:21 AM,10:10,,,Miller Free Throw Technical (11 PTS),55 - 54,-1
+0020001156,257,3,11,3,6:22 AM,10:10,,,MISS Person Free Throw 1 of 2,,
+0020001156,258,4,1,3,6:22 AM,10:10,,,Cavaliers Rebound,,
+0020001156,259,3,12,3,6:22 AM,10:10,,,Person Free Throw 2 of 2 (5 PTS),56 - 54,-2
+0020001156,260,6,2,3,6:22 AM,9:52,,,Harpring S.FOUL (P3.T2),,
+0020001156,261,3,11,3,6:23 AM,9:52,Hamilton Free Throw 1 of 2 (7 PTS),,,56 - 55,-1
+0020001156,262,3,12,3,6:23 AM,9:52,Hamilton Free Throw 2 of 2 (8 PTS),,,56 - 56,TIE
+0020001156,263,2,1,3,6:23 AM,9:35,,,MISS Mihm 6' Jump Shot,,
+0020001156,264,4,0,3,6:23 AM,9:34,Laettner REBOUND (Off:2 Def:3),,,,
+0020001156,265,5,1,3,6:23 AM,9:31,Profit Bad Pass Turnover (P3.T6),,,,
+0020001156,266,1,5,3,6:24 AM,9:15,,,Mihm  Layup (6 PTS) (Miller 7 AST),58 - 56,-2
+0020001156,267,1,46,3,6:24 AM,8:52,Hamilton 15' Running Jump Shot (10 PTS),,,58 - 58,TIE
+0020001156,268,2,1,3,6:25 AM,8:34,,,MISS Harpring 17' Jump Shot,,
+0020001156,269,4,0,3,6:25 AM,8:32,,,Weatherspoon REBOUND (Off:4 Def:7),,
+0020001156,270,1,1,3,6:25 AM,8:12,,,Mihm 16' Jump Shot (8 PTS) (Miller 8 AST),60 - 58,-2
+0020001156,271,5,8,3,6:26 AM,7:54,Profit 3 Second Violation Turnover (P4.T7),,,,
+0020001156,272,1,41,3,6:26 AM,7:44,,,Miller 2' Running Layup (13 PTS),62 - 58,-4
+0020001156,273,5,2,3,6:26 AM,7:25,Hamilton Lost Ball Turnover (P2.T8),,Person STEAL (1 STL),,
+0020001156,274,2,5,3,6:26 AM,7:19,,,MISS Weatherspoon 2' Layup,,
+0020001156,275,4,0,3,6:27 AM,7:18,,,Weatherspoon REBOUND (Off:5 Def:7),,
+0020001156,276,6,1,3,6:27 AM,7:18,Smith P.FOUL (P3.T3),,,,
+0020001156,277,6,16,3,6:27 AM,7:18,,,,,
+0020001156,278,1,1,3,6:27 AM,7:11,,,Miller 14' Jump Shot (15 PTS),64 - 58,-6
+0020001156,279,9,1,3,6:27 AM,7:08,WIZARDS Timeout: Regular (Full 3 Short 0),,,,
+0020001156,281,2,1,3,6:30 AM,6:44,MISS Hamilton 13' Jump Shot,,Harpring BLOCK (1 BLK),,
+0020001156,282,4,0,3,6:30 AM,6:44,WIZARDS Rebound,,,,
+0020001156,283,5,11,3,6:30 AM,6:44,WIZARDS Turnover: Shot Clock (T#9),,,,
+0020001156,284,5,1,3,6:30 AM,6:32,,,Miller Bad Pass Turnover (P2.T14),,
+0020001156,285,8,0,3,6:30 AM,6:32,SUB: Jones FOR Smith,,,,
+0020001156,286,2,1,3,6:31 AM,6:14,MISS Alexander 25' 3PT Jump Shot,,,,
+0020001156,287,4,0,3,6:31 AM,6:12,Hamilton REBOUND (Off:1 Def:1),,,,
+0020001156,288,2,1,3,6:31 AM,6:10,MISS Hamilton 4' Jump Shot,,,,
+0020001156,289,4,0,3,6:31 AM,6:08,Hamilton REBOUND (Off:2 Def:1),,,,
+0020001156,290,2,1,3,6:31 AM,6:07,MISS Hamilton 7' Jump Shot,,,,
+0020001156,291,4,0,3,6:31 AM,6:05,,,Mihm REBOUND (Off:2 Def:2),,
+0020001156,292,1,41,3,6:31 AM,5:56,,,Miller 2' Running Layup (17 PTS),66 - 58,-8
+0020001156,293,7,2,3,6:31 AM,5:37,,,Cavaliers Violation: Def. Goaltending Violation,,
+0020001156,294,8,0,3,6:31 AM,5:37,SUB: Vanterpool FOR Hamilton,,,,
+0020001156,295,5,3,3,6:32 AM,5:28,Profit Out Of Bounds Turnover (P5.T10),,,,
+0020001156,296,6,17,3,6:32 AM,5:14,WIZARDS Foul,,,,
+0020001156,297,3,16,3,6:32 AM,5:14,,,MISS Miller Free Throw Technical,,
+0020001156,298,4,1,3,6:32 AM,5:14,,,Cavaliers Rebound,,
+0020001156,299,8,0,3,6:33 AM,5:14,SUB: Nesby FOR Profit,,,,
+0020001156,300,2,1,3,6:33 AM,5:04,,,MISS Mihm 21' Jump Shot,,
+0020001156,301,4,0,3,6:33 AM,5:02,Jones REBOUND (Off:1 Def:4),,,,
+0020001156,302,1,1,3,6:33 AM,4:45,Nesby 13' Jump Shot (4 PTS),,,66 - 60,-6
+0020001156,303,2,1,3,6:34 AM,4:30,,,MISS Person 20' Jump Shot,,
+0020001156,304,4,0,3,6:34 AM,4:28,Nesby REBOUND (Off:0 Def:2),,,,
+0020001156,305,5,1,3,6:34 AM,4:24,Vanterpool Bad Pass Turnover (P1.T11),,Weatherspoon STEAL (1 STL),,
+0020001156,306,6,2,3,6:34 AM,4:20,Nesby S.FOUL (P2.T4),,,,
+0020001156,307,3,11,3,6:34 AM,4:20,,,Miller Free Throw 1 of 2 (18 PTS),67 - 60,-7
+0020001156,308,9,1,3,6:34 AM,4:20,,,Cavaliers Timeout: Regular (Reg.3 Short 1),,
+0020001156,310,3,12,3,6:37 AM,4:20,,,Miller Free Throw 2 of 2 (19 PTS),68 - 60,-8
+0020001156,311,2,1,3,6:37 AM,4:00,MISS Vanterpool 6' Jump Shot,,,,
+0020001156,312,4,0,3,6:37 AM,3:58,,,Mihm REBOUND (Off:2 Def:3),,
+0020001156,313,6,1,3,6:37 AM,3:44,Jones P.FOUL (P3.PN),,,,
+0020001156,314,3,11,3,6:38 AM,3:44,,,Weatherspoon Free Throw 1 of 2 (9 PTS),69 - 60,-9
+0020001156,315,3,12,3,6:38 AM,3:44,,,Weatherspoon Free Throw 2 of 2 (10 PTS),70 - 60,-10
+0020001156,316,5,2,3,6:38 AM,3:35,Laettner Lost Ball Turnover (P2.T12),,,,
+0020001156,317,1,1,3,6:39 AM,3:16,,,Weatherspoon 10' Jump Shot (12 PTS),72 - 60,-12
+0020001156,318,6,1,3,6:39 AM,3:01,,,Person P.FOUL (P2.T3),,
+0020001156,319,1,1,3,6:39 AM,2:51,Vanterpool 20' Jump Shot (7 PTS) (Alexander 2 AST),,,72 - 62,-10
+0020001156,320,2,1,3,6:40 AM,2:29,,,MISS Miller 11' Jump Shot,,
+0020001156,321,4,0,3,6:40 AM,2:27,Nesby REBOUND (Off:0 Def:3),,,,
+0020001156,322,5,1,3,6:40 AM,2:19,Vanterpool Bad Pass Turnover (P2.T13),,Miller STEAL (2 STL),,
+0020001156,323,6,2,3,6:40 AM,2:17,Nesby S.FOUL (P3.PN),,,,
+0020001156,324,8,0,3,6:40 AM,2:17,SUB: Vaught FOR Laettner,,,,
+0020001156,325,3,11,3,6:40 AM,2:17,,,Person Free Throw 1 of 2 (6 PTS),73 - 62,-11
+0020001156,326,8,0,3,6:40 AM,2:17,,,SUB: Murray FOR Harpring,,
+0020001156,327,3,12,3,6:40 AM,2:17,,,MISS Person Free Throw 2 of 2,,
+0020001156,328,4,0,3,6:40 AM,2:16,Vaught REBOUND (Off:1 Def:1),,,,
+0020001156,329,1,1,3,6:41 AM,2:05,Jones 20' Jump Shot (4 PTS) (Vanterpool 2 AST),,,73 - 64,-9
+0020001156,330,6,1,3,6:41 AM,1:52,Vaught P.FOUL (P1.PN),,,,
+0020001156,331,3,11,3,6:41 AM,1:52,,,Weatherspoon Free Throw 1 of 2 (13 PTS),74 - 64,-10
+0020001156,332,8,0,3,6:41 AM,1:52,,,SUB: Traylor FOR Mihm,,
+0020001156,333,3,12,3,6:41 AM,1:52,,,Weatherspoon Free Throw 2 of 2 (14 PTS),75 - 64,-11
+0020001156,334,1,1,3,6:42 AM,1:41,Alexander 20' Jump Shot (16 PTS) (Vanterpool 3 AST),,,75 - 66,-9
+0020001156,335,6,1,3,6:42 AM,1:24,Jones P.FOUL (P4.PN),,,,
+0020001156,336,6,11,3,6:42 AM,1:24,Jones T.FOUL (P4.PN),,,,
+0020001156,337,3,16,3,6:42 AM,1:24,,,Miller Free Throw Technical (20 PTS),76 - 66,-10
+0020001156,338,6,11,3,6:42 AM,1:24,Nesby T.FOUL (P3.PN),,,,
+0020001156,339,3,16,3,6:43 AM,1:24,,,MISS Miller Free Throw Technical,,
+0020001156,340,4,1,3,6:43 AM,1:24,,,Cavaliers Rebound,,
+0020001156,341,3,11,3,6:43 AM,1:24,,,MISS Weatherspoon Free Throw 1 of 2,,
+0020001156,342,4,1,3,6:43 AM,1:24,,,Cavaliers Rebound,,
+0020001156,343,8,0,3,6:43 AM,1:24,,,SUB: Johnson FOR Miller,,
+0020001156,344,8,0,3,6:43 AM,1:24,SUB: Laettner FOR Jones,,,,
+0020001156,345,3,12,3,6:43 AM,1:24,,,Weatherspoon Free Throw 2 of 2 (15 PTS),77 - 66,-11
+0020001156,347,1,1,3,6:44 AM,1:06,Alexander 18' Jump Shot (18 PTS),,,77 - 68,-9
+0020001156,349,1,41,3,6:44 AM,0:47,,,Johnson  Running Layup (2 PTS) (Traylor 3 AST),79 - 68,-11
+0020001156,351,2,1,3,6:44 AM,0:38,MISS Alexander 10' Jump Shot,,,,
+0020001156,352,4,0,3,6:44 AM,0:36,,,Traylor REBOUND (Off:4 Def:2),,
+0020001156,353,1,1,3,6:44 AM,0:32,,,Person 20' Jump Shot (8 PTS) (Johnson 1 AST),81 - 68,-13
+0020001156,354,1,1,3,6:45 AM,0:15,Laettner 18' Jump Shot (12 PTS) (Alexander 3 AST),,,81 - 70,-11
+0020001156,355,2,1,3,6:45 AM,0:00,,,MISS Johnson 4' Jump Shot,,
+0020001156,356,4,0,3,6:45 AM,0:00,,,Johnson REBOUND (Off:1 Def:0),,
+0020001156,357,13,0,3,6:45 AM,0:00,,,,81 - 70,-11
+0020001156,359,12,0,4,6:48 AM,12:00,,,,81 - 70,-11
+0020001156,360,2,1,4,6:48 AM,11:47,,,MISS Langdon 15' Jump Shot,,
+0020001156,361,4,0,4,6:48 AM,11:45,Nesby REBOUND (Off:0 Def:4),,,,
+0020001156,362,1,5,4,6:48 AM,11:41,Vaught 1' Layup (6 PTS) (Vanterpool 4 AST),,,81 - 72,-9
+0020001156,363,2,1,4,6:49 AM,11:26,Vanterpool BLOCK (1 BLK),,MISS Johnson 9' Jump Shot,,
+0020001156,364,4,0,4,6:49 AM,11:22,Hamilton REBOUND (Off:2 Def:2),,,,
+0020001156,365,6,4,4,6:49 AM,11:21,Hamilton OFF.Foul (P2),,,,
+0020001156,366,5,5,4,6:49 AM,11:21,Hamilton Foul Turnover (P3.T14),,,,
+0020001156,367,8,0,4,6:49 AM,11:21,,,SUB: Gatling FOR Weatherspoon,,
+0020001156,368,1,1,4,6:50 AM,10:56,,,Gatling 20' Jump Shot (4 PTS) (Murray 2 AST),83 - 72,-11
+0020001156,369,6,2,4,6:50 AM,10:40,,,Murray S.FOUL (P2.T1),,
+0020001156,370,3,11,4,6:50 AM,10:40,MISS Laettner Free Throw 1 of 2,,,,
+0020001156,371,4,1,4,6:50 AM,10:40,WIZARDS Rebound,,,,
+0020001156,372,3,12,4,6:50 AM,10:40,MISS Laettner Free Throw 2 of 2,,,,
+0020001156,373,4,0,4,6:50 AM,10:39,,,Gatling REBOUND (Off:0 Def:2),,
+0020001156,374,5,1,4,6:51 AM,10:21,Laettner STEAL (2 STL),,Gatling Bad Pass Turnover (P2.T15),,
+0020001156,375,2,1,4,6:51 AM,10:12,MISS Nesby 20' Jump Shot,,,,
+0020001156,376,4,0,4,6:51 AM,10:10,Hamilton REBOUND (Off:3 Def:2),,,,
+0020001156,377,2,1,4,6:51 AM,10:08,MISS Hamilton 10' Jump Shot,,Traylor BLOCK (4 BLK),,
+0020001156,378,4,0,4,6:51 AM,10:06,,,Johnson REBOUND (Off:1 Def:1),,
+0020001156,379,5,2,4,6:51 AM,10:04,,,Langdon Lost Ball Turnover (P2.T16),,
+0020001156,380,6,11,4,6:51 AM,10:04,Hamilton T.FOUL (P2.T0),,,,
+0020001156,381,11,1,4,6:51 AM,10:04,Hamilton Ejection:Second Technical,,,,
+0020001156,382,8,0,4,6:51 AM,10:04,SUB: Alexander FOR Hamilton,,,,
+0020001156,383,3,16,4,6:52 AM,10:04,,,MISS Langdon Free Throw Technical,,
+0020001156,384,4,1,4,6:52 AM,10:04,WIZARDS Rebound,,,,
+0020001156,385,5,2,4,6:52 AM,9:45,Vaught Lost Ball Turnover (P1.T15),,Traylor STEAL (1 STL),,
+0020001156,386,2,5,4,6:52 AM,9:41,Vanterpool BLOCK (2 BLK),,MISS Langdon 2' Layup,,
+0020001156,387,4,0,4,6:53 AM,9:39,,,Traylor REBOUND (Off:5 Def:2),,
+0020001156,388,6,4,4,6:53 AM,9:39,,,Traylor OFF.Foul (P2),,
+0020001156,389,5,5,4,6:53 AM,9:39,,,Traylor Foul Turnover (P3.T17),,
+0020001156,390,1,1,4,6:53 AM,9:15,Alexander 19' Jump Shot (20 PTS),,,83 - 74,-9
+0020001156,391,1,3,4,6:54 AM,8:56,,,Gatling 5' Hook Shot (6 PTS),85 - 74,-11
+0020001156,392,6,2,4,6:54 AM,8:56,Vaught S.FOUL (P2.T1),,,,
+0020001156,393,9,4,4,6:54 AM,8:56,,,,,
+0020001156,395,3,10,4,6:56 AM,8:56,,,Gatling Free Throw 1 of 1 (7 PTS),86 - 74,-12
+0020001156,396,5,11,4,6:56 AM,8:32,WIZARDS Turnover: Shot Clock (T#16),,,,
+0020001156,397,2,1,4,6:57 AM,8:15,,,MISS Murray  3PT Jump Shot,,
+0020001156,398,4,0,4,6:57 AM,8:13,Laettner REBOUND (Off:2 Def:4),,,,
+0020001156,399,2,5,4,6:57 AM,8:00,MISS Vanterpool 2' Layup,,Traylor BLOCK (5 BLK),,
+0020001156,400,4,0,4,6:57 AM,7:58,,,Langdon REBOUND (Off:0 Def:1),,
+0020001156,401,2,1,4,6:58 AM,7:42,Alexander BLOCK (1 BLK),,MISS Gatling 4' Jump Shot,,
+0020001156,402,4,0,4,6:58 AM,7:42,,,Cavaliers Rebound,,
+0020001156,403,1,1,4,6:58 AM,7:27,,,Murray 15' Jump Shot (12 PTS) (Johnson 2 AST),88 - 74,-14
+0020001156,404,6,2,4,6:58 AM,7:11,,,Gatling S.FOUL (P1.T2),,
+0020001156,405,3,11,4,6:59 AM,7:11,Vanterpool Free Throw 1 of 2 (8 PTS),,,88 - 75,-13
+0020001156,406,3,12,4,6:59 AM,7:11,Vanterpool Free Throw 2 of 2 (9 PTS),,,88 - 76,-12
+0020001156,407,1,5,4,6:59 AM,6:59,,,Johnson 1' Layup (4 PTS),90 - 76,-14
+0020001156,408,6,2,4,6:59 AM,6:59,Nesby S.FOUL (P4.T2),,,,
+0020001156,409,8,0,4,7:00 AM,6:59,SUB: Profit FOR Vanterpool,,,,
+0020001156,410,3,10,4,7:00 AM,6:59,,,Johnson Free Throw 1 of 1 (5 PTS),91 - 76,-15
+0020001156,411,8,0,4,7:00 AM,6:42,SUB: Smith FOR Vaught,,,,
+0020001156,413,1,1,4,7:00 AM,6:40,Alexander 20' Jump Shot (22 PTS) (Profit 6 AST),,,91 - 78,-13
+0020001156,414,1,5,4,7:01 AM,6:20,,,Traylor 2' Layup (12 PTS) (Johnson 3 AST),93 - 78,-15
+0020001156,415,6,2,4,7:01 AM,6:20,Smith S.FOUL (P4.T3),,,,
+0020001156,416,3,10,4,7:01 AM,6:20,,,MISS Traylor Free Throw 1 of 1,,
+0020001156,417,4,0,4,7:01 AM,6:18,,,Gatling REBOUND (Off:1 Def:2),,
+0020001156,418,1,7,4,7:01 AM,6:16,,,Gatling 2' Dunk (9 PTS),95 - 78,-17
+0020001156,419,6,1,4,7:01 AM,6:06,,,Gatling P.FOUL (P2.T3),,
+0020001156,420,6,2,4,7:02 AM,5:56,,,Murray S.FOUL (P3.T4),,
+0020001156,421,9,1,4,7:02 AM,5:56,WIZARDS Timeout: Regular (Full 4 Short 0),,,,
+0020001156,423,3,11,4,7:04 AM,5:56,Profit Free Throw 1 of 2 (9 PTS),,,95 - 79,-16
+0020001156,424,3,12,4,7:04 AM,5:56,Profit Free Throw 2 of 2 (10 PTS),,,95 - 80,-15
+0020001156,425,2,1,4,7:05 AM,5:36,Laettner BLOCK (1 BLK),,MISS Gatling 7' Jump Shot,,
+0020001156,426,4,0,4,7:05 AM,5:34,Profit REBOUND (Off:0 Def:2),,,,
+0020001156,427,6,2,4,7:05 AM,5:21,,,Traylor S.FOUL (P3.PN),,
+0020001156,428,3,11,4,7:05 AM,5:21,Profit Free Throw 1 of 2 (11 PTS),,,95 - 81,-14
+0020001156,429,8,0,4,7:05 AM,5:21,SUB: Smith FOR Nesby,,,,
+0020001156,430,3,12,4,7:05 AM,5:21,Profit Free Throw 2 of 2 (12 PTS),,,95 - 82,-13
+0020001156,431,6,1,4,7:06 AM,5:19,Profit P.FOUL (P2.T4),,,,
+0020001156,432,1,5,4,7:06 AM,5:15,,,Traylor 1' Layup (14 PTS) (Murray 3 AST),97 - 82,-15
+0020001156,433,6,2,4,7:06 AM,5:15,Laettner S.FOUL (P2.PN),,,,
+0020001156,434,3,10,4,7:06 AM,5:15,,,Traylor Free Throw 1 of 1 (15 PTS),98 - 82,-16
+0020001156,435,1,1,4,7:07 AM,4:59,Alexander 17' Jump Shot (24 PTS),,,98 - 84,-14
+0020001156,436,1,3,4,7:07 AM,4:49,,,Gatling 5' Hook Shot (11 PTS) (Johnson 4 AST),100 - 84,-16
+0020001156,437,6,1,4,7:07 AM,4:42,,,Johnson P.FOUL (P1.PN),,
+0020001156,438,3,11,4,7:07 AM,4:42,Profit Free Throw 1 of 2 (13 PTS),,,100 - 85,-15
+0020001156,439,3,12,4,7:07 AM,4:42,Profit Free Throw 2 of 2 (14 PTS),,,100 - 86,-14
+0020001156,440,1,5,4,7:08 AM,4:37,,,Traylor 2' Layup (17 PTS) (Langdon 2 AST),102 - 86,-16
+0020001156,441,9,1,4,7:08 AM,4:35,WIZARDS Timeout: Regular (Full 5 Short 0),,,,
+0020001156,442,5,1,4,7:10 AM,4:26,Profit Bad Pass Turnover (P6.T17),,,,
+0020001156,443,1,1,4,7:10 AM,4:11,,,Gatling 19' Jump Shot (13 PTS) (Johnson 5 AST),104 - 86,-18
+0020001156,444,2,5,4,7:11 AM,4:00,MISS Profit 3' Layup,,Traylor BLOCK (6 BLK),,
+0020001156,445,4,0,4,7:11 AM,3:58,,,Traylor REBOUND (Off:5 Def:3),,
+0020001156,446,2,1,4,7:11 AM,3:54,,,MISS Langdon 25' 3PT Jump Shot,,
+0020001156,447,4,0,4,7:11 AM,3:52,Smith REBOUND (Off:1 Def:4),,,,
+0020001156,448,1,5,4,7:11 AM,3:43,Laettner 1' Layup (14 PTS) (Alexander 4 AST),,,104 - 88,-16
+0020001156,449,2,1,4,7:11 AM,3:22,,,MISS Langdon 27' 3PT Jump Shot,,
+0020001156,450,4,0,4,7:11 AM,3:20,Laettner REBOUND (Off:2 Def:5),,,,
+0020001156,451,6,2,4,7:12 AM,3:13,,,Traylor S.FOUL (P4.PN),,
+0020001156,452,3,11,4,7:12 AM,3:13,Laettner Free Throw 1 of 2 (15 PTS),,,104 - 89,-15
+0020001156,453,8,0,4,7:12 AM,3:13,SUB: Vanterpool FOR Profit,,,,
+0020001156,454,3,12,4,7:12 AM,3:13,Laettner Free Throw 2 of 2 (16 PTS),,,104 - 90,-14
+0020001156,455,2,1,4,7:12 AM,3:01,,,MISS Gatling 20' Jump Shot,,
+0020001156,456,4,0,4,7:12 AM,3:00,,,Murray REBOUND (Off:3 Def:3),,
+0020001156,457,5,2,4,7:12 AM,2:57,Vanterpool STEAL (2 STL),,Murray Lost Ball Turnover (P4.T18),,
+0020001156,458,1,1,4,7:13 AM,2:51,Alexander 18' Jump Shot (26 PTS),,,104 - 92,-12
+0020001156,459,2,1,4,7:13 AM,2:32,,,MISS Johnson 17' Jump Shot,,
+0020001156,460,4,0,4,7:13 AM,2:30,Laettner REBOUND (Off:2 Def:6),,,,
+0020001156,461,2,1,4,7:13 AM,2:23,MISS Alexander 24' 3PT Jump Shot,,,,
+0020001156,462,4,0,4,7:13 AM,2:21,Vanterpool REBOUND (Off:1 Def:0),,,,
+0020001156,463,1,7,4,7:13 AM,2:19,Laettner 1' Dunk (18 PTS) (Vanterpool 5 AST),,,104 - 94,-10
+0020001156,464,9,1,4,7:13 AM,2:15,,,Cavaliers Timeout: Regular (Reg.4 Short 1),,
+0020001156,465,8,0,4,7:13 AM,2:15,SUB: Vaught FOR Laettner,,,,
+0020001156,467,8,0,4,7:15 AM,2:15,SUB: Profit FOR Smith,,,,
+0020001156,468,5,11,4,7:15 AM,1:50,,,Cavaliers Turnover: Shot Clock (T#19),,
+0020001156,469,6,2,4,7:16 AM,1:37,,,Traylor S.FOUL (P5.PN),,
+0020001156,470,3,11,4,7:16 AM,1:37,Alexander Free Throw 1 of 2 (27 PTS),,,104 - 95,-9
+0020001156,471,3,12,4,7:16 AM,1:37,Alexander Free Throw 2 of 2 (28 PTS),,,104 - 96,-8
+0020001156,472,2,1,4,7:17 AM,1:17,,,MISS Gatling 17' Jump Shot,,
+0020001156,473,4,0,4,7:17 AM,1:15,Alexander REBOUND (Off:1 Def:2),,,,
+0020001156,474,1,1,4,7:17 AM,1:10,Alexander 16' Jump Shot (30 PTS),,,104 - 98,-6
+0020001156,475,6,1,4,7:17 AM,1:08,Alexander P.FOUL (P2.PN),,,,
+0020001156,476,3,11,4,7:17 AM,1:08,,,Langdon Free Throw 1 of 2 (4 PTS),105 - 98,-7
+0020001156,477,3,12,4,7:17 AM,1:08,,,Langdon Free Throw 2 of 2 (5 PTS),106 - 98,-8
+0020001156,478,2,1,4,7:18 AM,0:50,MISS Profit 24' 3PT Jump Shot,,,,
+0020001156,479,4,0,4,7:18 AM,0:49,,,Cavaliers Rebound,,
+0020001156,481,2,1,4,7:18 AM,0:26,,,MISS Johnson 13' Jump Shot,,
+0020001156,482,4,0,4,7:18 AM,0:24,Smith REBOUND (Off:1 Def:5),,,,
+0020001156,483,2,1,4,7:19 AM,0:12,MISS Alexander 27' 3PT Jump Shot,,,,
+0020001156,484,4,0,4,7:19 AM,0:11,,,Traylor REBOUND (Off:5 Def:4),,
+0020001156,485,13,0,4,7:19 AM,0:00,,,,106 - 98,-8

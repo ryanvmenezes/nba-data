@@ -1,0 +1,447 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000421,0,12,0,1,2:42 PM,12:00,,,,,
+0020000421,1,10,0,1,2:42 PM,12:00,Jump Ball Divac vs. Thorpe: Tip to Williams,,,,
+0020000421,2,2,1,1,2:42 PM,11:47,MISS Stojakovic 13' Jump Shot,,,,
+0020000421,3,4,0,1,2:42 PM,11:45,,,Davis REBOUND (Off:0 Def:1),,
+0020000421,4,2,1,1,2:43 PM,11:33,,,MISS Mashburn 12' Jump Shot,,
+0020000421,5,4,0,1,2:43 PM,11:32,Webber REBOUND (Off:0 Def:1),,,,
+0020000421,6,1,42,1,2:43 PM,11:25,Williams  Driving Layup (2 PTS),,,0 - 2,2
+0020000421,8,1,42,1,2:43 PM,11:15,,,Davis  Driving Layup (2 PTS),2 - 2,TIE
+0020000421,9,6,1,1,2:43 PM,11:08,,,Brown P.FOUL (P1.T1),,
+0020000421,10,1,1,1,2:43 PM,11:03,Webber 13' Jump Shot (2 PTS) (Christie 1 AST),,,2 - 4,2
+0020000421,11,2,5,1,2:44 PM,10:49,,,MISS Thorpe  Layup,,
+0020000421,12,4,0,1,2:44 PM,10:48,Stojakovic REBOUND (Off:0 Def:1),,,,
+0020000421,13,2,1,1,2:44 PM,10:42,MISS Christie 19' Jump Shot,,,,
+0020000421,14,4,0,1,2:44 PM,10:40,,,Brown REBOUND (Off:0 Def:1),,
+0020000421,15,2,1,1,2:44 PM,10:33,,,MISS Davis 19' Jump Shot,,
+0020000421,16,4,0,1,2:44 PM,10:31,Webber REBOUND (Off:0 Def:2),,,,
+0020000421,17,1,1,1,2:44 PM,10:17,Stojakovic 21' Jump Shot (2 PTS),,,2 - 6,4
+0020000421,19,1,1,1,2:44 PM,10:01,,,Wesley 20' Jump Shot (2 PTS) (Davis 1 AST),4 - 6,2
+0020000421,20,1,49,1,2:45 PM,9:49,Webber  Driving Dunk (4 PTS) (Christie 2 AST),,,4 - 8,4
+0020000421,21,2,5,1,2:45 PM,9:32,Webber BLOCK (1 BLK),,MISS Mashburn 3' Layup,,
+0020000421,22,4,0,1,2:45 PM,9:31,,,Mashburn REBOUND (Off:1 Def:0),,
+0020000421,23,1,1,1,2:45 PM,9:25,,,Davis 25' 3PT Jump Shot (5 PTS) (Mashburn 1 AST),7 - 8,1
+0020000421,24,2,1,1,2:45 PM,9:16,MISS Webber 16' Jump Shot,,,,
+0020000421,25,4,0,1,2:45 PM,9:15,,,Thorpe REBOUND (Off:0 Def:1),,
+0020000421,26,2,1,1,2:45 PM,9:06,,,MISS Brown 15' Jump Shot,,
+0020000421,27,4,0,1,2:45 PM,9:05,,,Hornets Rebound,,
+0020000421,28,6,2,1,2:46 PM,9:03,Christie S.FOUL (P1.T1),,,,
+0020000421,29,3,11,1,2:46 PM,9:03,,,Wesley Free Throw 1 of 2 (3 PTS),8 - 8,TIE
+0020000421,30,3,12,1,2:46 PM,9:03,,,Wesley Free Throw 2 of 2 (4 PTS),9 - 8,-1
+0020000421,32,2,1,1,2:47 PM,8:49,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000421,33,4,0,1,2:47 PM,8:47,,,Wesley REBOUND (Off:0 Def:1),,
+0020000421,34,1,42,1,2:47 PM,8:43,,,Wesley  Driving Layup (6 PTS),11 - 8,-3
+0020000421,35,6,2,1,2:47 PM,8:43,Williams S.FOUL (P1.T2),,,,
+0020000421,36,3,10,1,2:47 PM,8:43,,,Wesley Free Throw 1 of 1 (7 PTS),12 - 8,-4
+0020000421,37,1,5,1,2:47 PM,8:30,Divac 1' Layup (2 PTS),,,12 - 10,-2
+0020000421,38,6,2,1,2:47 PM,8:30,,,Thorpe S.FOUL (P1.T2),,
+0020000421,39,3,10,1,2:48 PM,8:30,Divac Free Throw 1 of 1 (3 PTS),,,12 - 11,-1
+0020000421,40,5,2,1,2:48 PM,8:16,Williams STEAL (1 STL),,Mashburn Lost Ball Turnover (P1.T1),,
+0020000421,41,1,7,1,2:48 PM,7:54,Christie  Dunk (2 PTS) (Divac 1 AST),,,12 - 13,1
+0020000421,42,2,1,1,2:49 PM,7:38,,,MISS Brown 17' Jump Shot,,
+0020000421,43,4,0,1,2:49 PM,7:37,Stojakovic REBOUND (Off:0 Def:2),,,,
+0020000421,44,5,2,1,2:49 PM,7:29,Divac Lost Ball Turnover (P1.T1),,Thorpe STEAL (1 STL),,
+0020000421,45,1,42,1,2:49 PM,7:25,,,Wesley  Driving Layup (9 PTS) (Thorpe 1 AST),14 - 13,-1
+0020000421,46,1,7,1,2:49 PM,7:04,Webber  Dunk (6 PTS) (Divac 2 AST),,,14 - 15,1
+0020000421,47,2,45,1,2:50 PM,6:40,Williams BLOCK (1 BLK),,MISS Davis 10' Jump Shot,,
+0020000421,48,4,0,1,2:50 PM,6:39,,,Brown REBOUND (Off:1 Def:1),,
+0020000421,49,5,11,1,2:50 PM,6:38,,,Hornets Turnover: Shot Clock (T#2),,
+0020000421,50,1,49,1,2:50 PM,6:25,Divac  Driving Dunk (5 PTS) (Williams 1 AST),,,14 - 17,3
+0020000421,52,1,1,1,2:51 PM,6:06,,,Wesley 20' Jump Shot (11 PTS) (Davis 2 AST),16 - 17,1
+0020000421,53,2,1,1,2:51 PM,5:56,MISS Williams 23' Jump Shot,,,,
+0020000421,54,4,0,1,2:51 PM,5:54,,,Brown REBOUND (Off:1 Def:2),,
+0020000421,55,5,1,1,2:51 PM,5:52,Webber STEAL (1 STL),,Brown Bad Pass Turnover (P1.T3),,
+0020000421,56,1,5,1,2:51 PM,5:48,Christie  Layup (4 PTS),,,16 - 19,3
+0020000421,57,7,2,1,2:51 PM,5:39,Webber Violation:Defensive Goaltending,,,,
+0020000421,58,9,1,1,2:51 PM,5:39,KINGS Timeout: Regular (Full 1 Short 0),,,,
+0020000421,60,8,0,1,2:53 PM,5:39,,,SUB: Coleman FOR Thorpe,,
+0020000421,61,5,2,1,2:54 PM,5:25,Stojakovic STEAL (1 STL),,Mashburn Lost Ball Turnover (P2.T4),,
+0020000421,62,2,5,1,2:54 PM,5:19,MISS Stojakovic 3' Layup,,,,
+0020000421,63,4,0,1,2:54 PM,5:17,Divac REBOUND (Off:1 Def:0),,,,
+0020000421,64,2,1,1,2:54 PM,5:12,MISS Webber 25' 3PT Jump Shot,,,,
+0020000421,65,4,0,1,2:54 PM,5:11,,,Brown REBOUND (Off:1 Def:3),,
+0020000421,66,2,1,1,2:54 PM,4:50,,,MISS Brown 8' Jump Shot,,
+0020000421,67,4,0,1,2:54 PM,4:49,,,Coleman REBOUND (Off:1 Def:0),,
+0020000421,70,5,11,1,2:55 PM,4:47,,,Hornets Turnover: Shot Clock (T#5),,
+0020000421,71,2,1,1,2:55 PM,4:24,MISS Divac 18' Jump Shot,,,,
+0020000421,72,4,0,1,2:55 PM,4:23,,,Mashburn REBOUND (Off:1 Def:1),,
+0020000421,73,1,1,1,2:55 PM,4:14,,,Coleman 19' Jump Shot (2 PTS) (Davis 3 AST),18 - 19,1
+0020000421,74,2,1,1,2:55 PM,3:58,MISS Christie 17' Jump Shot,,,,
+0020000421,75,4,0,1,2:55 PM,3:57,Stojakovic REBOUND (Off:1 Def:2),,,,
+0020000421,76,1,1,1,2:56 PM,3:48,Webber 19' Jump Shot (8 PTS) (Christie 3 AST),,,18 - 21,3
+0020000421,77,2,1,1,2:56 PM,3:36,,,MISS Coleman 20' Jump Shot,,
+0020000421,78,4,0,1,2:56 PM,3:34,,,Brown REBOUND (Off:2 Def:3),,
+0020000421,79,1,7,1,2:56 PM,3:15,,,Brown  Dunk (2 PTS) (Mashburn 2 AST),20 - 21,1
+0020000421,80,1,1,1,2:56 PM,3:07,Christie 13' Jump Shot (6 PTS),,,20 - 23,3
+0020000421,81,2,1,1,2:56 PM,2:51,,,MISS Mashburn 25' 3PT Jump Shot,,
+0020000421,82,4,0,1,2:57 PM,2:50,,,Brown REBOUND (Off:3 Def:3),,
+0020000421,83,9,1,1,2:57 PM,2:38,,,Hornets Timeout: Regular (Reg.1 Short 0),,
+0020000421,85,2,1,1,2:59 PM,2:31,,,MISS Mashburn 15' Jump Shot,,
+0020000421,86,4,0,1,2:59 PM,2:29,,,Coleman REBOUND (Off:2 Def:0),,
+0020000421,87,2,1,1,2:59 PM,2:22,,,MISS Wesley 19' Jump Shot,,
+0020000421,88,4,0,1,2:59 PM,2:20,Williams REBOUND (Off:0 Def:1),,,,
+0020000421,89,1,52,1,3:00 PM,2:08,Webber  Alley Oop Dunk (10 PTS) (Divac 3 AST),,,20 - 25,5
+0020000421,90,6,1,1,3:00 PM,1:47,Divac P.FOUL (P1.T3),,,,
+0020000421,91,2,1,1,3:00 PM,1:41,,,MISS Mashburn 18' Jump Shot,,
+0020000421,92,4,0,1,3:00 PM,1:40,,,Mashburn REBOUND (Off:2 Def:1),,
+0020000421,93,2,1,1,3:01 PM,1:22,,,MISS Mashburn 21' Jump Shot,,
+0020000421,94,4,0,1,3:01 PM,1:20,Divac REBOUND (Off:1 Def:1),,,,
+0020000421,95,2,1,1,3:01 PM,1:06,MISS Stojakovic 21' Jump Shot,,,,
+0020000421,96,4,0,1,3:01 PM,1:04,,,Coleman REBOUND (Off:2 Def:1),,
+0020000421,97,2,1,1,3:01 PM,0:58,,,MISS Wesley 19' Jump Shot,,
+0020000421,98,4,0,1,3:01 PM,0:57,,,Mashburn REBOUND (Off:3 Def:1),,
+0020000421,99,2,1,1,3:01 PM,0:44,,,MISS Brown 17' Jump Shot,,
+0020000421,100,4,0,1,3:01 PM,0:43,Webber REBOUND (Off:0 Def:3),,,,
+0020000421,101,1,1,1,3:01 PM,0:35,Webber 20' Jump Shot (12 PTS) (Williams 2 AST),,,20 - 27,7
+0020000421,102,2,1,1,3:02 PM,0:13,,,MISS Mashburn 25' 3PT Jump Shot,,
+0020000421,103,4,0,1,3:02 PM,0:12,Divac REBOUND (Off:1 Def:2),,,,
+0020000421,104,2,46,1,3:02 PM,0:02,MISS Williams 4' Running Jump Shot,,,,
+0020000421,105,4,0,1,3:02 PM,0:00,,,Mashburn REBOUND (Off:3 Def:2),,
+0020000421,106,13,0,1,3:02 PM,0:00,,,,20 - 27,7
+0020000421,108,12,0,2,3:05 PM,12:00,,,,20 - 27,7
+0020000421,109,8,0,2,3:05 PM,11:45,,,SUB: Hawkins FOR Wesley,,
+0020000421,110,8,0,2,3:05 PM,11:45,,,SUB: Nailon FOR Mashburn,,
+0020000421,111,1,42,2,3:06 PM,11:37,,,Hawkins 6' Driving Layup (2 PTS),22 - 27,5
+0020000421,112,1,1,2,3:06 PM,11:20,Stojakovic 24' 3PT Jump Shot (5 PTS) (Webber 1 AST),,,22 - 30,8
+0020000421,113,5,1,2,3:06 PM,11:02,Williams STEAL (2 STL),,Davis Bad Pass Turnover (P1.T6),,
+0020000421,114,5,1,2,3:06 PM,10:59,Barry Bad Pass Turnover (P1.T2),,Davis STEAL (1 STL),,
+0020000421,115,1,1,2,3:06 PM,10:54,,,Coleman 6' Jump Shot (4 PTS) (Davis 4 AST),24 - 30,6
+0020000421,116,2,1,2,3:07 PM,10:42,MISS Stojakovic 26' 3PT Jump Shot,,,,
+0020000421,117,4,0,2,3:07 PM,10:40,,,Coleman REBOUND (Off:2 Def:2),,
+0020000421,118,2,1,2,3:07 PM,10:29,,,MISS Nailon 18' Jump Shot,,
+0020000421,119,4,0,2,3:07 PM,10:27,KINGS Rebound,,,,
+0020000421,122,6,3,2,3:07 PM,10:27,,,Davis L.B.FOUL (P1.T1),,
+0020000421,120,8,0,2,3:07 PM,10:27,SUB: Jackson FOR Williams,,,,
+0020000421,121,8,0,2,3:07 PM,10:27,,,SUB: Recasner FOR Davis,,
+0020000421,123,8,0,2,3:07 PM,10:27,,,SUB: Thorpe FOR Brown,,
+0020000421,124,2,56,2,3:08 PM,10:12,MISS Webber 7' Running Hook Shot,,,,
+0020000421,125,4,0,2,3:08 PM,10:10,,,Hawkins REBOUND (Off:0 Def:1),,
+0020000421,127,1,42,2,3:08 PM,9:56,,,Hawkins 5' Driving Layup (4 PTS) (Thorpe 2 AST),26 - 30,4
+0020000421,128,6,2,2,3:09 PM,9:36,,,Thorpe S.FOUL (P2.T2),,
+0020000421,129,3,11,2,3:09 PM,9:36,Funderburke Free Throw 1 of 2 (1 PTS),,,26 - 31,5
+0020000421,130,3,12,2,3:09 PM,9:36,MISS Funderburke Free Throw 2 of 2,,,,
+0020000421,131,4,0,2,3:09 PM,9:35,Webber REBOUND (Off:1 Def:3),,,,
+0020000421,132,2,1,2,3:09 PM,9:22,MISS Webber 20' Jump Shot,,,,
+0020000421,133,4,0,2,3:09 PM,9:20,,,Thorpe REBOUND (Off:0 Def:2),,
+0020000421,134,6,1,2,3:09 PM,9:14,Jackson P.FOUL (P1.T1),,,,
+0020000421,135,1,1,2,3:10 PM,8:59,,,Coleman 16' Jump Shot (6 PTS) (Recasner 1 AST),28 - 31,3
+0020000421,136,2,1,2,3:10 PM,8:43,MISS Funderburke 9' Jump Shot,,,,
+0020000421,137,4,0,2,3:10 PM,8:41,Stojakovic REBOUND (Off:2 Def:2),,,,
+0020000421,138,1,7,2,3:10 PM,8:39,Stojakovic  Dunk (7 PTS),,,28 - 33,5
+0020000421,139,6,17,2,3:11 PM,8:29,KINGS T.Foul (Def. 3 Sec Funderburke ),,,,
+0020000421,140,9,4,2,3:11 PM,8:29,,,,,
+0020000421,142,3,16,2,3:13 PM,8:29,,,Hawkins Free Throw Technical (5 PTS),29 - 33,4
+0020000421,143,2,1,2,3:14 PM,8:22,,,MISS Recasner 24' 3PT Jump Shot,,
+0020000421,144,4,0,2,3:14 PM,8:19,Funderburke REBOUND (Off:0 Def:1),,,,
+0020000421,145,2,1,2,3:14 PM,8:02,MISS Jackson 20' Jump Shot,,,,
+0020000421,146,4,0,2,3:14 PM,8:00,,,Hawkins REBOUND (Off:0 Def:2),,
+0020000421,147,1,49,2,3:14 PM,7:58,,,Thorpe  Driving Dunk (2 PTS) (Hawkins 1 AST),31 - 33,2
+0020000421,148,2,1,2,3:14 PM,7:45,MISS Webber 6' Jump Shot,,,,
+0020000421,149,4,0,2,3:14 PM,7:44,,,Coleman REBOUND (Off:2 Def:3),,
+0020000421,150,1,1,2,3:14 PM,7:39,,,Nailon 19' Jump Shot (2 PTS) (Recasner 2 AST),33 - 33,TIE
+0020000421,151,2,5,2,3:15 PM,7:18,MISS Funderburke  Layup,,,,
+0020000421,152,4,0,2,3:15 PM,7:17,,,Nailon REBOUND (Off:0 Def:1),,
+0020000421,153,5,1,2,3:15 PM,7:00,Funderburke STEAL (1 STL),,Recasner Bad Pass Turnover (P1.T7),,
+0020000421,154,6,4,2,3:15 PM,6:47,Jackson OFF.Foul (P2),,,,
+0020000421,155,5,5,2,3:15 PM,6:47,Jackson Foul Turnover (P1.T3),,,,
+0020000421,156,8,0,2,3:15 PM,6:47,SUB: Divac FOR Webber,,,,
+0020000421,157,8,0,2,3:16 PM,6:47,,,SUB: Brown FOR Coleman,,
+0020000421,158,6,4,2,3:16 PM,6:35,,,Brown OFF.Foul (P2),,
+0020000421,159,5,5,2,3:16 PM,6:35,,,Brown Foul Turnover (P2.T8),,
+0020000421,160,8,0,2,3:16 PM,6:35,,,SUB: Mashburn FOR Nailon,,
+0020000421,161,2,3,2,3:17 PM,6:15,MISS Divac 7' Hook Shot,,,,
+0020000421,162,4,0,2,3:17 PM,6:14,,,Mashburn REBOUND (Off:3 Def:3),,
+0020000421,163,2,1,2,3:17 PM,6:08,,,MISS Hawkins 18' Jump Shot,,
+0020000421,164,4,0,2,3:17 PM,6:06,Jackson REBOUND (Off:0 Def:1),,,,
+0020000421,165,1,5,2,3:17 PM,6:03,Stojakovic  Layup (9 PTS) (Jackson 1 AST),,,33 - 35,2
+0020000421,166,2,1,2,3:17 PM,5:47,Funderburke BLOCK (1 BLK),,MISS Hawkins 8' Jump Shot,,
+0020000421,167,4,0,2,3:17 PM,5:45,Divac REBOUND (Off:1 Def:3),,,,
+0020000421,168,2,1,2,3:17 PM,5:36,MISS Jackson 18' Jump Shot,,,,
+0020000421,169,4,0,2,3:17 PM,5:33,Funderburke REBOUND (Off:1 Def:1),,,,
+0020000421,170,1,1,2,3:18 PM,5:26,Jackson 4' Jump Shot (2 PTS),,,33 - 37,4
+0020000421,171,9,1,2,3:18 PM,5:17,,,Hornets Timeout: Regular (Reg.2 Short 0),,
+0020000421,173,8,0,2,3:20 PM,5:17,,,SUB: Wesley FOR Hawkins,,
+0020000421,174,8,0,2,3:20 PM,5:17,,,SUB: Davis FOR Recasner,,
+0020000421,175,8,0,2,3:20 PM,5:17,SUB: Christie FOR Stojakovic,,,,
+0020000421,176,6,1,2,3:20 PM,5:05,Barry P.FOUL (P1.T2),,,,
+0020000421,177,2,7,2,3:21 PM,4:57,,,MISS Mashburn  Dunk,,
+0020000421,178,4,0,2,3:21 PM,4:56,Funderburke REBOUND (Off:1 Def:2),,,,
+0020000421,179,1,1,2,3:21 PM,4:39,Christie 14' Jump Shot (8 PTS) (Jackson 2 AST),,,33 - 39,6
+0020000421,180,6,2,2,3:21 PM,4:39,,,Davis S.FOUL (P2.T3),,
+0020000421,181,3,10,2,3:21 PM,4:39,MISS Christie Free Throw 1 of 1,,,,
+0020000421,182,4,0,2,3:21 PM,4:38,,,Thorpe REBOUND (Off:0 Def:3),,
+0020000421,183,2,1,2,3:22 PM,4:23,,,MISS Wesley 20' Jump Shot,,
+0020000421,184,4,0,2,3:22 PM,4:21,Jackson REBOUND (Off:0 Def:2),,,,
+0020000421,185,8,0,2,3:22 PM,4:14,SUB: Williams FOR Jackson,,,,
+0020000421,186,2,44,2,3:22 PM,4:05,MISS Christie  Reverse Layup,,,,
+0020000421,187,4,0,2,3:22 PM,4:04,,,Thorpe REBOUND (Off:0 Def:4),,
+0020000421,188,1,42,2,3:23 PM,3:43,,,Wesley  Driving Layup (13 PTS),35 - 39,4
+0020000421,189,1,1,2,3:23 PM,3:33,Barry 22' Jump Shot (2 PTS) (Williams 3 AST),,,35 - 41,6
+0020000421,190,6,1,2,3:23 PM,3:22,Christie P.FOUL (P2.T3),,,,
+0020000421,191,2,1,2,3:24 PM,3:15,,,MISS Mashburn 19' Jump Shot,,
+0020000421,192,4,0,2,3:24 PM,3:13,Funderburke REBOUND (Off:1 Def:3),,,,
+0020000421,193,2,1,2,3:24 PM,3:02,MISS Christie 18' Jump Shot,,,,
+0020000421,194,4,0,2,3:24 PM,3:01,,,Thorpe REBOUND (Off:0 Def:5),,
+0020000421,195,1,1,2,3:24 PM,2:52,,,Davis 25' 3PT Jump Shot (8 PTS) (Wesley 1 AST),38 - 41,3
+0020000421,196,2,1,2,3:24 PM,2:36,MISS Funderburke 16' Jump Shot,,,,
+0020000421,197,4,0,2,3:24 PM,2:34,,,Davis REBOUND (Off:0 Def:2),,
+0020000421,198,6,2,2,3:25 PM,2:30,Divac S.FOUL (P2.T4),,,,
+0020000421,199,9,1,2,3:25 PM,2:30,KINGS Timeout: Regular (Full 2 Short 0),,,,
+0020000421,201,8,0,2,3:27 PM,2:30,SUB: Webber FOR Barry,,,,
+0020000421,202,8,0,2,3:27 PM,2:30,SUB: Stojakovic FOR Funderburke,,,,
+0020000421,204,3,11,2,3:27 PM,2:30,,,MISS Mashburn Free Throw 1 of 2,,
+0020000421,205,4,1,2,3:27 PM,2:30,,,Hornets Rebound,,
+0020000421,206,8,0,2,3:27 PM,2:30,,,SUB: Coleman FOR Thorpe,,
+0020000421,207,3,12,2,3:27 PM,2:30,,,Mashburn Free Throw 2 of 2 (1 PTS),39 - 41,2
+0020000421,208,2,1,2,3:28 PM,2:15,MISS Webber 6' Jump Shot,,,,
+0020000421,209,4,0,2,3:28 PM,2:13,,,Mashburn REBOUND (Off:3 Def:4),,
+0020000421,210,2,48,2,3:28 PM,2:01,,,MISS Coleman  Dunk,,
+0020000421,211,4,0,2,3:28 PM,1:59,,,Coleman REBOUND (Off:3 Def:3),,
+0020000421,212,2,55,2,3:28 PM,1:57,Divac BLOCK (1 BLK),,MISS Coleman 6' Hook Shot,,
+0020000421,213,4,0,2,3:28 PM,1:55,,,Coleman REBOUND (Off:4 Def:3),,
+0020000421,214,2,1,2,3:28 PM,1:48,,,MISS Wesley 25' 3PT Jump Shot,,
+0020000421,215,4,0,2,3:28 PM,1:47,Webber REBOUND (Off:1 Def:4),,,,
+0020000421,216,5,1,2,3:28 PM,1:41,Williams Bad Pass Turnover (P1.T4),,Davis STEAL (2 STL),,
+0020000421,217,2,1,2,3:29 PM,1:34,,,MISS Davis 25' 3PT Jump Shot,,
+0020000421,218,4,0,2,3:29 PM,1:32,Divac REBOUND (Off:1 Def:4),,,,
+0020000421,219,6,1,2,3:29 PM,1:21,,,Wesley P.FOUL (P1.T4),,
+0020000421,220,2,1,2,3:29 PM,1:14,MISS Divac 6' Jump Shot,,Brown BLOCK (1 BLK),,
+0020000421,221,4,0,2,3:29 PM,1:14,KINGS Rebound,,,,
+0020000421,222,7,1,2,3:29 PM,1:14,KINGS Violation: Delay of game Violation,,,,
+0020000421,223,10,0,2,3:29 PM,1:14,Jump Ball Divac vs. Brown: Tip to Christie,,,,
+0020000421,224,2,1,2,3:30 PM,1:10,MISS Williams 25' 3PT Jump Shot,,,,
+0020000421,225,4,0,2,3:30 PM,1:08,Williams REBOUND (Off:1 Def:1),,,,
+0020000421,226,1,3,2,3:30 PM,1:07,Williams 6' Hook Shot (4 PTS),,,39 - 43,4
+0020000421,227,2,1,2,3:30 PM,0:56,,,MISS Davis 10' Jump Shot,,
+0020000421,228,4,0,2,3:30 PM,0:54,Webber REBOUND (Off:1 Def:5),,,,
+0020000421,229,6,2,2,3:30 PM,0:48,,,Brown S.FOUL (P3.PN),,
+0020000421,231,3,11,2,3:31 PM,0:48,MISS Webber Free Throw 1 of 2,,,,
+0020000421,232,4,1,2,3:31 PM,0:48,KINGS Rebound,,,,
+0020000421,233,8,0,2,3:31 PM,0:48,,,SUB: Thorpe FOR Brown,,
+0020000421,234,3,12,2,3:31 PM,0:48,Webber Free Throw 2 of 2 (13 PTS),,,39 - 44,5
+0020000421,235,2,1,2,3:31 PM,0:39,Williams BLOCK (2 BLK),,MISS Wesley 14' Jump Shot,,
+0020000421,236,4,0,2,3:31 PM,0:36,Webber REBOUND (Off:1 Def:6),,,,
+0020000421,237,5,2,2,3:31 PM,0:31,Divac Lost Ball Turnover (P2.T5),,,,
+0020000421,238,6,11,2,3:31 PM,0:31,,,Magloire T.FOUL (P0.PN),,
+0020000421,239,3,16,2,3:32 PM,0:31,Christie Free Throw Technical (9 PTS),,,39 - 45,6
+0020000421,241,1,46,2,3:33 PM,0:08,,,Mashburn 10' Running Jump Shot (3 PTS) (Davis 5 AST),41 - 45,4
+0020000421,242,2,1,2,3:33 PM,0:01,MISS Williams 27' 3PT Jump Shot,,,,
+0020000421,243,4,0,2,3:33 PM,0:00,,,Mashburn REBOUND (Off:3 Def:5),,
+0020000421,244,13,0,2,3:33 PM,0:00,,,,41 - 45,4
+0020000421,246,12,0,3,3:49 PM,12:00,,,,41 - 45,4
+0020000421,247,2,1,3,3:50 PM,11:41,,,MISS Davis 24' 3PT Jump Shot,,
+0020000421,248,4,0,3,3:50 PM,11:39,,,Mashburn REBOUND (Off:4 Def:5),,
+0020000421,249,6,1,3,3:50 PM,11:34,Stojakovic P.FOUL (P1.T1),,,,
+0020000421,250,2,1,3,3:50 PM,11:28,,,MISS Wesley 19' Jump Shot,,
+0020000421,251,4,0,3,3:50 PM,11:27,Webber REBOUND (Off:1 Def:7),,,,
+0020000421,252,2,1,3,3:50 PM,11:09,MISS Divac 5' Jump Shot,,Brown BLOCK (2 BLK),,
+0020000421,253,4,0,3,3:50 PM,11:07,,,Mashburn REBOUND (Off:4 Def:6),,
+0020000421,254,1,46,3,3:51 PM,10:50,,,Davis 3' Running Jump Shot (10 PTS),43 - 45,2
+0020000421,255,1,1,3,3:51 PM,10:37,Webber 16' Jump Shot (15 PTS) (Stojakovic 1 AST),,,43 - 47,4
+0020000421,257,6,1,3,3:51 PM,10:25,Christie P.FOUL (P3.T2),,,,
+0020000421,258,2,1,3,3:52 PM,10:14,,,MISS Coleman 12' Jump Shot,,
+0020000421,259,4,0,3,3:52 PM,10:12,Webber REBOUND (Off:1 Def:8),,,,
+0020000421,260,2,1,3,3:52 PM,10:04,MISS Divac 4' Jump Shot,,Coleman BLOCK (1 BLK),,
+0020000421,261,4,0,3,3:52 PM,10:02,,,Brown REBOUND (Off:3 Def:4),,
+0020000421,262,6,2,3,3:52 PM,9:57,Christie S.FOUL (P4.T3),,,,
+0020000421,263,3,11,3,3:52 PM,9:57,,,Wesley Free Throw 1 of 2 (14 PTS),44 - 47,3
+0020000421,264,3,12,3,3:52 PM,9:57,,,Wesley Free Throw 2 of 2 (15 PTS),45 - 47,2
+0020000421,265,1,1,3,3:53 PM,9:42,Williams 25' 3PT Jump Shot (7 PTS) (Webber 2 AST),,,45 - 50,5
+0020000421,266,2,1,3,3:53 PM,9:20,,,MISS Mashburn 18' Jump Shot,,
+0020000421,267,4,0,3,3:53 PM,9:18,Christie REBOUND (Off:0 Def:1),,,,
+0020000421,268,2,1,3,3:54 PM,9:10,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000421,269,4,0,3,3:54 PM,9:09,,,Mashburn REBOUND (Off:4 Def:7),,
+0020000421,270,2,1,3,3:54 PM,9:04,,,MISS Wesley 20' Jump Shot,,
+0020000421,271,4,0,3,3:54 PM,9:02,Williams REBOUND (Off:1 Def:2),,,,
+0020000421,272,1,1,3,3:54 PM,8:56,Webber 18' Jump Shot (17 PTS),,,45 - 52,7
+0020000421,273,6,2,3,3:54 PM,8:37,Divac S.FOUL (P3.T4),,,,
+0020000421,274,8,0,3,3:54 PM,8:37,SUB: Barry FOR Christie,,,,
+0020000421,275,3,11,3,3:55 PM,8:37,,,MISS Coleman Free Throw 1 of 2,,
+0020000421,276,4,1,3,3:55 PM,8:37,,,Hornets Rebound,,
+0020000421,277,3,12,3,3:55 PM,8:37,,,Coleman Free Throw 2 of 2 (7 PTS),46 - 52,6
+0020000421,278,5,1,3,3:55 PM,8:17,Williams Bad Pass Turnover (P2.T6),,,,
+0020000421,279,1,1,3,3:55 PM,8:13,,,Mashburn 5' Jump Shot (5 PTS) (Davis 6 AST),48 - 52,4
+0020000421,280,1,1,3,3:56 PM,7:57,Williams 27' 3PT Jump Shot (10 PTS) (Barry 1 AST),,,48 - 55,7
+0020000421,281,1,1,3,3:56 PM,7:40,,,Coleman 26' 3PT Jump Shot (10 PTS) (Brown 1 AST),51 - 55,4
+0020000421,282,2,1,3,3:56 PM,7:26,MISS Stojakovic 23' Jump Shot,,,,
+0020000421,283,4,0,3,3:56 PM,7:24,Stojakovic REBOUND (Off:3 Def:2),,,,
+0020000421,284,2,42,3,3:56 PM,7:19,MISS Stojakovic  Driving Layup,,Coleman BLOCK (2 BLK),,
+0020000421,285,4,0,3,3:56 PM,7:18,,,Coleman REBOUND (Off:4 Def:4),,
+0020000421,286,6,1,3,3:56 PM,7:18,Webber P.FOUL (P1.PN),,,,
+0020000421,287,3,11,3,3:57 PM,7:18,,,Coleman Free Throw 1 of 2 (11 PTS),52 - 55,3
+0020000421,288,3,12,3,3:57 PM,7:18,,,Coleman Free Throw 2 of 2 (12 PTS),53 - 55,2
+0020000421,289,6,2,3,3:58 PM,7:01,,,Mashburn S.FOUL (P1.T1),,
+0020000421,290,3,11,3,3:58 PM,7:01,Divac Free Throw 1 of 2 (6 PTS),,,53 - 56,3
+0020000421,291,3,12,3,3:58 PM,7:01,Divac Free Throw 2 of 2 (7 PTS),,,53 - 57,4
+0020000421,292,2,1,3,3:59 PM,6:48,,,MISS Mashburn 25' 3PT Jump Shot,,
+0020000421,293,4,0,3,3:59 PM,6:46,Webber REBOUND (Off:1 Def:9),,,,
+0020000421,294,1,1,3,3:59 PM,6:41,Barry 16' Jump Shot (4 PTS) (Williams 4 AST),,,53 - 59,6
+0020000421,295,6,4,3,3:59 PM,6:23,,,Davis OFF.Foul (P3),,
+0020000421,296,5,5,3,3:59 PM,6:23,,,Davis Foul Turnover (P2.T9),,
+0020000421,297,9,1,3,3:59 PM,6:23,,,Hornets Timeout: Regular (Reg.3 Short 0),,
+0020000421,299,8,0,3,4:01 PM,6:23,,,SUB: Thorpe FOR Coleman,,
+0020000421,300,2,5,3,4:02 PM,6:02,MISS Divac 3' Layup,,,,
+0020000421,301,4,0,3,4:02 PM,6:01,Barry REBOUND (Off:1 Def:0),,,,
+0020000421,302,2,1,3,4:02 PM,5:56,MISS Webber 6' Jump Shot,,Brown BLOCK (3 BLK),,
+0020000421,303,4,0,3,4:02 PM,5:55,,,Hornets Rebound,,
+0020000421,304,6,3,3,4:02 PM,5:55,Divac L.B.FOUL (P4.PN),,,,
+0020000421,305,3,11,3,4:02 PM,5:55,,,Davis Free Throw 1 of 2 (11 PTS),54 - 59,5
+0020000421,306,8,0,3,4:03 PM,5:55,SUB: Funderburke FOR Divac,,,,
+0020000421,307,8,0,3,4:03 PM,5:55,,,SUB: Hawkins FOR Wesley,,
+0020000421,308,3,12,3,4:03 PM,5:55,,,Davis Free Throw 2 of 2 (12 PTS),55 - 59,4
+0020000421,309,5,1,3,4:03 PM,5:39,Webber Bad Pass Turnover (P1.T7),,Hawkins STEAL (1 STL),,
+0020000421,310,1,3,3,4:03 PM,5:25,,,Thorpe 8' Hook Shot (4 PTS) (Mashburn 3 AST),57 - 59,2
+0020000421,311,6,1,3,4:04 PM,5:11,,,Hawkins P.FOUL (P1.T2),,
+0020000421,312,5,1,3,4:04 PM,5:07,Webber Bad Pass Turnover (P2.T8),,Davis STEAL (3 STL),,
+0020000421,313,6,9,3,4:04 PM,5:04,Williams C.P.FOUL (P2.PN),,,,
+0020000421,314,3,17,3,4:04 PM,5:04,,,Davis Free Throw Clear Path (13 PTS),58 - 59,1
+0020000421,316,2,1,3,4:05 PM,4:49,,,MISS Brown 19' Jump Shot,,
+0020000421,317,4,0,3,4:05 PM,4:47,Barry REBOUND (Off:1 Def:1),,,,
+0020000421,318,2,1,3,4:05 PM,4:39,MISS Williams 22' Jump Shot,,,,
+0020000421,319,4,0,3,4:05 PM,4:36,,,Brown REBOUND (Off:3 Def:5),,
+0020000421,320,1,1,3,4:05 PM,4:30,,,Davis 16' Jump Shot (15 PTS),60 - 59,-1
+0020000421,321,1,42,3,4:06 PM,4:09,Webber  Driving Layup (19 PTS),,,60 - 61,1
+0020000421,322,1,1,3,4:06 PM,3:56,,,Thorpe 18' Jump Shot (6 PTS) (Mashburn 4 AST),62 - 61,-1
+0020000421,323,2,1,3,4:06 PM,3:39,MISS Stojakovic 24' 3PT Jump Shot,,,,
+0020000421,324,4,0,3,4:06 PM,3:37,,,Brown REBOUND (Off:3 Def:6),,
+0020000421,325,1,42,3,4:06 PM,3:29,,,Davis  Driving Layup (17 PTS),64 - 61,-3
+0020000421,326,9,1,3,4:07 PM,3:26,KINGS Timeout: Regular (Full 3 Short 0),,,,
+0020000421,330,2,3,3,4:09 PM,3:13,MISS Webber 6' Hook Shot,,,,
+0020000421,331,4,0,3,4:09 PM,3:10,,,Brown REBOUND (Off:3 Def:7),,
+0020000421,332,6,2,3,4:10 PM,2:52,Funderburke S.FOUL (P1.PN),,,,
+0020000421,333,3,11,3,4:10 PM,2:52,,,Hawkins Free Throw 1 of 2 (6 PTS),65 - 61,-4
+0020000421,334,8,0,3,4:10 PM,2:52,,,SUB: Coleman FOR Brown,,
+0020000421,335,3,12,3,4:10 PM,2:52,,,Hawkins Free Throw 2 of 2 (7 PTS),66 - 61,-5
+0020000421,336,1,46,3,4:11 PM,2:40,Williams 8' Running Jump Shot (12 PTS),,,66 - 63,-3
+0020000421,337,2,1,3,4:11 PM,2:21,,,MISS Coleman 14' Jump Shot,,
+0020000421,338,4,0,3,4:11 PM,2:19,,,Mashburn REBOUND (Off:5 Def:7),,
+0020000421,339,1,3,3,4:11 PM,2:17,,,Mashburn 4' Hook Shot (7 PTS),68 - 63,-5
+0020000421,340,6,4,3,4:11 PM,2:04,Stojakovic OFF.Foul (P2),,,,
+0020000421,341,5,5,3,4:11 PM,2:04,Stojakovic Foul Turnover (P1.T9),,,,
+0020000421,342,8,0,3,4:11 PM,2:04,SUB: Jackson FOR Williams,,,,
+0020000421,343,8,0,3,4:11 PM,2:04,,,SUB: Recasner FOR Davis,,
+0020000421,344,2,1,3,4:12 PM,1:48,,,MISS Recasner 25' 3PT Jump Shot,,
+0020000421,345,4,0,3,4:12 PM,1:47,Barry REBOUND (Off:1 Def:2),,,,
+0020000421,346,2,1,3,4:12 PM,1:37,MISS Funderburke 15' Jump Shot,,,,
+0020000421,347,4,0,3,4:12 PM,1:36,,,Hornets Rebound,,
+0020000421,348,5,2,3,4:13 PM,1:15,Barry STEAL (1 STL),,Coleman Lost Ball Turnover (P1.T10),,
+0020000421,349,1,1,3,4:13 PM,1:03,Stojakovic 25' 3PT Jump Shot (12 PTS),,,68 - 66,-2
+0020000421,350,6,1,3,4:13 PM,0:49,Stojakovic P.FOUL (P3.PN),,,,
+0020000421,351,3,11,3,4:13 PM,0:49,,,Mashburn Free Throw 1 of 2 (8 PTS),69 - 66,-3
+0020000421,352,3,12,3,4:14 PM,0:49,,,Mashburn Free Throw 2 of 2 (9 PTS),70 - 66,-4
+0020000421,354,2,1,3,4:14 PM,0:35,MISS Webber 15' Jump Shot,,,,
+0020000421,355,4,0,3,4:14 PM,0:33,,,Hawkins REBOUND (Off:0 Def:3),,
+0020000421,356,2,1,3,4:14 PM,0:13,,,MISS Coleman 24' 3PT Jump Shot,,
+0020000421,357,4,0,3,4:14 PM,0:11,Barry REBOUND (Off:1 Def:3),,,,
+0020000421,358,6,1,3,4:15 PM,0:04,,,Hawkins P.FOUL (P2.T3),,
+0020000421,359,2,1,3,4:15 PM,0:00,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000421,361,4,0,3,4:15 PM,0:00,KINGS Rebound,,,,
+0020000421,360,13,0,3,4:15 PM,0:00,,,,70 - 66,-4
+0020000421,363,12,0,4,4:18 PM,12:00,,,,70 - 66,-4
+0020000421,364,2,1,4,4:18 PM,11:40,MISS Webber 18' Jump Shot,,,,
+0020000421,365,4,0,4,4:18 PM,11:38,Stojakovic REBOUND (Off:4 Def:2),,,,
+0020000421,366,6,2,4,4:19 PM,11:32,,,Thorpe S.FOUL (P3.T1),,
+0020000421,367,3,11,4,4:19 PM,11:32,Webber Free Throw 1 of 2 (20 PTS),,,70 - 67,-3
+0020000421,368,3,12,4,4:19 PM,11:32,Webber Free Throw 2 of 2 (21 PTS),,,70 - 68,-2
+0020000421,369,2,1,4,4:19 PM,11:14,,,MISS Coleman 16' Jump Shot,,
+0020000421,370,4,0,4,4:19 PM,11:11,Stojakovic REBOUND (Off:4 Def:3),,,,
+0020000421,371,2,1,4,4:20 PM,10:55,MISS Funderburke 16' Jump Shot,,,,
+0020000421,372,4,0,4,4:20 PM,10:53,,,Nailon REBOUND (Off:0 Def:2),,
+0020000421,373,5,6,4,4:20 PM,10:49,,,Wesley Double Dribble Turnover (P1.T11),,
+0020000421,374,8,0,4,4:20 PM,10:49,SUB: Divac FOR Stojakovic,,,,
+0020000421,375,6,2,4,4:20 PM,10:36,,,Nailon S.FOUL (P1.T2),,
+0020000421,376,3,11,4,4:21 PM,10:36,Funderburke Free Throw 1 of 2 (2 PTS),,,70 - 69,-1
+0020000421,377,3,12,4,4:21 PM,10:36,Funderburke Free Throw 2 of 2 (3 PTS),,,70 - 70,TIE
+0020000421,378,1,1,4,4:21 PM,10:21,,,Wesley 15' Jump Shot (17 PTS),72 - 70,-2
+0020000421,379,6,2,4,4:22 PM,10:07,,,Thorpe S.FOUL (P4.T3),,
+0020000421,380,3,11,4,4:22 PM,10:07,Divac Free Throw 1 of 2 (8 PTS),,,72 - 71,-1
+0020000421,381,3,12,4,4:22 PM,10:07,MISS Divac Free Throw 2 of 2,,,,
+0020000421,382,4,0,4,4:22 PM,10:06,,,Coleman REBOUND (Off:4 Def:5),,
+0020000421,383,2,1,4,4:23 PM,9:44,,,MISS Hawkins 17' Jump Shot,,
+0020000421,384,4,0,4,4:23 PM,9:41,Divac REBOUND (Off:1 Def:5),,,,
+0020000421,385,6,2,4,4:23 PM,9:21,,,Nailon S.FOUL (P2.T4),,
+0020000421,386,3,11,4,4:23 PM,9:21,MISS Webber Free Throw 1 of 2,,,,
+0020000421,387,4,1,4,4:23 PM,9:21,KINGS Rebound,,,,
+0020000421,388,3,12,4,4:24 PM,9:21,Webber Free Throw 2 of 2 (22 PTS),,,72 - 72,TIE
+0020000421,389,5,15,4,4:24 PM,9:07,,,Coleman Offensive Goaltending Turnover (P2.T12),,
+0020000421,390,1,5,4,4:24 PM,8:49,Divac  Layup (10 PTS) (Jackson 3 AST),,,72 - 74,2
+0020000421,391,9,4,4,4:25 PM,8:35,,,,,
+0020000421,393,8,0,4,4:27 PM,8:35,,,SUB: Davis FOR Thorpe,,
+0020000421,394,8,0,4,4:27 PM,8:35,,,SUB: Mashburn FOR Hawkins,,
+0020000421,395,8,0,4,4:27 PM,8:35,,,SUB: Brown FOR Nailon,,
+0020000421,396,2,42,4,4:28 PM,8:23,,,MISS Brown 4' Driving Layup,,
+0020000421,397,4,0,4,4:28 PM,8:22,,,Hornets Rebound,,
+0020000421,398,5,11,4,4:28 PM,8:22,,,Hornets Turnover: Shot Clock (T#13),,
+0020000421,399,5,1,4,4:28 PM,8:07,Funderburke Bad Pass Turnover (P1.T10),,Davis STEAL (4 STL),,
+0020000421,400,1,42,4,4:28 PM,8:01,,,Wesley  Driving Layup (19 PTS) (Davis 7 AST),74 - 74,TIE
+0020000421,401,1,56,4,4:29 PM,7:37,Funderburke 7' Running Hook Shot (5 PTS) (Webber 3 AST),,,74 - 76,2
+0020000421,402,1,1,4,4:29 PM,7:13,,,Wesley 23' Jump Shot (21 PTS) (Davis 8 AST),76 - 76,TIE
+0020000421,403,5,2,4,4:29 PM,6:55,Funderburke Lost Ball Turnover (P2.T11),,,,
+0020000421,404,2,1,4,4:30 PM,6:37,,,MISS Mashburn 17' Jump Shot,,
+0020000421,405,4,0,4,4:30 PM,6:36,,,Brown REBOUND (Off:4 Def:7),,
+0020000421,406,5,2,4,4:30 PM,6:32,Divac STEAL (1 STL),,Brown Lost Ball Turnover (P3.T14),,
+0020000421,407,5,2,4,4:30 PM,6:29,Jackson Lost Ball Turnover (P2.T12),,Davis STEAL (5 STL),,
+0020000421,408,1,1,4,4:30 PM,6:25,,,Wesley 20' Jump Shot (23 PTS) (Davis 9 AST),78 - 76,-2
+0020000421,409,9,1,4,4:30 PM,6:23,KINGS Timeout: Regular (Full 4 Short 0),,,,
+0020000421,412,8,0,4,4:32 PM,6:23,SUB: Christie FOR Barry,,,,
+0020000421,413,8,0,4,4:32 PM,6:23,SUB: Stojakovic FOR Funderburke,,,,
+0020000421,414,5,2,4,4:33 PM,6:00,Divac Lost Ball Turnover (P3.T13),,Davis STEAL (6 STL),,
+0020000421,415,1,49,4,4:33 PM,5:56,,,Mashburn  Driving Dunk (11 PTS) (Davis 10 AST),80 - 76,-4
+0020000421,416,1,1,4,4:33 PM,5:39,Stojakovic 25' 3PT Jump Shot (15 PTS) (Webber 4 AST),,,80 - 79,-1
+0020000421,417,2,1,4,4:34 PM,5:17,,,MISS Coleman 25' 3PT Jump Shot,,
+0020000421,418,4,0,4,4:34 PM,5:15,Christie REBOUND (Off:0 Def:2),,,,
+0020000421,419,1,1,4,4:34 PM,5:03,Webber 20' Jump Shot (24 PTS) (Jackson 4 AST),,,80 - 81,1
+0020000421,421,6,17,4,4:34 PM,4:47,KINGS T.Foul (Def. 3 Sec Webber ),,,,
+0020000421,422,8,0,4,4:34 PM,4:47,SUB: Williams FOR Jackson,,,,
+0020000421,423,3,16,4,4:34 PM,4:47,,,Wesley Free Throw Technical (24 PTS),81 - 81,TIE
+0020000421,424,1,5,4,4:35 PM,4:34,,,Davis  Layup (19 PTS) (Mashburn 5 AST),83 - 81,-2
+0020000421,425,1,42,4,4:35 PM,4:19,Stojakovic  Driving Layup (17 PTS) (Divac 4 AST),,,83 - 83,TIE
+0020000421,426,6,2,4,4:35 PM,4:19,,,Brown S.FOUL (P4.PN),,
+0020000421,427,3,10,4,4:36 PM,4:19,Stojakovic Free Throw 1 of 1 (18 PTS),,,83 - 84,1
+0020000421,428,5,1,4,4:36 PM,4:13,Christie STEAL (1 STL),,Mashburn Bad Pass Turnover (P3.T15),,
+0020000421,429,1,49,4,4:36 PM,4:09,Christie  Driving Dunk (11 PTS),,,83 - 86,3
+0020000421,430,2,1,4,4:36 PM,3:54,,,MISS Wesley 20' Jump Shot,,
+0020000421,432,4,0,4,4:36 PM,3:52,,,Davis REBOUND (Off:1 Def:2),,
+0020000421,431,1,1,4,4:36 PM,3:52,,,Davis 6' Jump Shot (21 PTS),85 - 86,1
+0020000421,433,6,1,4,4:36 PM,3:35,,,Wesley P.FOUL (P2.PN),,
+0020000421,434,3,11,4,4:37 PM,3:35,MISS Christie Free Throw 1 of 2,,,,
+0020000421,435,4,1,4,4:37 PM,3:35,KINGS Rebound,,,,
+0020000421,436,3,12,4,4:37 PM,3:35,Christie Free Throw 2 of 2 (12 PTS),,,85 - 87,2
+0020000421,438,6,1,4,4:37 PM,3:26,Christie P.FOUL (P5.T1),,,,
+0020000421,439,2,1,4,4:38 PM,3:18,Webber BLOCK (2 BLK),,MISS Wesley 5' Jump Shot,,
+0020000421,440,4,0,4,4:38 PM,3:16,Divac REBOUND (Off:1 Def:6),,,,
+0020000421,441,2,1,4,4:38 PM,3:03,MISS Stojakovic 12' Jump Shot,,,,
+0020000421,442,4,0,4,4:38 PM,3:01,Divac REBOUND (Off:2 Def:6),,,,
+0020000421,443,2,1,4,4:38 PM,2:55,MISS Christie  3PT Jump Shot,,,,
+0020000421,444,4,0,4,4:38 PM,2:54,Divac REBOUND (Off:3 Def:6),,,,
+0020000421,445,6,2,4,4:38 PM,2:39,,,Wesley S.FOUL (P3.PN),,
+0020000421,446,9,1,4,4:39 PM,2:39,,,Hornets Timeout: Regular (Reg.4 Short 0),,
+0020000421,449,3,11,4,4:41 PM,2:39,Divac Free Throw 1 of 2 (11 PTS),,,85 - 88,3
+0020000421,450,3,12,4,4:41 PM,2:39,MISS Divac Free Throw 2 of 2,,,,
+0020000421,451,4,0,4,4:41 PM,2:38,,,Brown REBOUND (Off:4 Def:8),,
+0020000421,452,1,1,4,4:41 PM,2:20,,,Coleman 10' Jump Shot (14 PTS) (Davis 11 AST),87 - 88,1
+0020000421,453,2,46,4,4:42 PM,1:52,MISS Christie 8' Running Jump Shot,,Brown BLOCK (4 BLK),,
+0020000421,454,4,0,4,4:42 PM,1:51,KINGS Rebound,,,,
+0020000421,455,5,11,4,4:42 PM,1:51,KINGS Turnover: Shot Clock (T#14),,,,
+0020000421,456,5,1,4,4:42 PM,1:39,Divac STEAL (2 STL),,Wesley Bad Pass Turnover (P2.T16),,
+0020000421,457,2,5,4,4:43 PM,1:25,MISS Divac  Layup,,,,
+0020000421,458,4,0,4,4:43 PM,1:24,,,Brown REBOUND (Off:4 Def:9),,
+0020000421,459,2,1,4,4:43 PM,1:06,,,MISS Davis 26' 3PT Jump Shot,,
+0020000421,460,4,0,4,4:43 PM,1:04,Stojakovic REBOUND (Off:4 Def:4),,,,
+0020000421,461,1,49,4,4:43 PM,0:54,Divac  Driving Dunk (13 PTS),,,87 - 90,3
+0020000421,462,9,1,4,4:43 PM,0:54,,,Hornets Timeout: Regular (Reg.5 Short 0),,
+0020000421,464,5,1,4,4:45 PM,0:33,,,Mashburn Bad Pass Turnover (P4.T17),,
+0020000421,465,2,44,4,4:46 PM,0:11,MISS Stojakovic  Reverse Layup,,,,
+0020000421,466,4,0,4,4:46 PM,0:09,,,Mashburn REBOUND (Off:5 Def:8),,
+0020000421,467,9,1,4,4:46 PM,0:08,,,Hornets Timeout: Regular (Reg.6 Short 0),,
+0020000421,469,9,2,4,4:47 PM,0:08,,,Hornets Timeout: Short (Reg.6 Short 1),,
+0020000421,470,8,0,4,4:48 PM,0:08,,,SUB: Hawkins FOR Brown,,
+0020000421,471,8,0,4,4:49 PM,0:08,SUB: Jackson FOR Divac,,,,
+0020000421,472,8,0,4,4:49 PM,0:08,SUB: Barry FOR Christie,,,,
+0020000421,473,2,1,4,4:49 PM,0:03,,,MISS Mashburn 26' 3PT Jump Shot,,
+0020000421,474,4,0,4,4:49 PM,0:01,Jackson REBOUND (Off:0 Def:3),,,,
+0020000421,475,6,1,4,4:49 PM,0:01,,,Wesley P.FOUL (P4.PN),,
+0020000421,477,3,11,4,4:49 PM,0:01,Jackson Free Throw 1 of 2 (3 PTS),,,87 - 91,4
+0020000421,478,3,12,4,4:50 PM,0:01,MISS Jackson Free Throw 2 of 2,,,,
+0020000421,479,4,0,4,4:50 PM,0:01,,,Coleman REBOUND (Off:4 Def:6),,
+0020000421,480,13,0,4,4:50 PM,0:00,,,,87 - 91,4

@@ -1,0 +1,456 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020600200,0,12,0,1,7:43 PM,12:00,,,,,
+0020600200,1,10,0,1,7:43 PM,12:00,Jump Ball Mourning vs. Dalembert: Tip to Wade,,,,
+0020600200,2,5,1,1,7:43 PM,11:43,Haslem Bad Pass Turnover (P1.T1),,,,
+0020600200,3,1,1,1,7:44 PM,11:29,,,Iverson 17' Jump Shot (2 PTS),2 - 0,-2
+0020600200,4,5,2,1,7:44 PM,11:20,Mourning Lost Ball Turnover (P1.T2),,Randolph STEAL (1 STL),,
+0020600200,6,2,7,1,7:44 PM,11:15,Wade BLOCK (1 BLK),,MISS Randolph  Dunk,,
+0020600200,7,4,0,1,7:44 PM,11:13,,,Randolph REBOUND (Off:1 Def:0),,
+0020600200,8,6,2,1,7:44 PM,11:13,Haslem S.FOUL (P1.T1),,,,
+0020600200,9,3,11,1,7:45 PM,11:13,,,Iverson Free Throw 1 of 2 (3 PTS),3 - 0,-3
+0020600200,10,3,12,1,7:45 PM,11:13,,,Iverson Free Throw 2 of 2 (4 PTS),4 - 0,-4
+0020600200,11,1,65,1,7:45 PM,11:01,Mourning 6' Jump Hook Shot (2 PTS),,,4 - 2,-2
+0020600200,12,2,1,1,7:45 PM,10:46,,,MISS Iverson 16' Jump Shot,,
+0020600200,13,4,0,1,7:45 PM,10:44,,,Dalembert REBOUND (Off:1 Def:0),,
+0020600200,14,2,1,1,7:45 PM,10:36,,,MISS Iguodala 8' Jump Shot,,
+0020600200,15,4,0,1,7:45 PM,10:34,Wade REBOUND (Off:0 Def:1),,,,
+0020600200,16,6,1,1,7:46 PM,10:29,,,Randolph P.FOUL (P1.T1),,
+0020600200,17,6,2,1,7:46 PM,10:23,,,Randolph S.FOUL (P2.T2),,
+0020600200,18,3,11,1,7:46 PM,10:23,Wade Free Throw 1 of 2 (1 PTS),,,4 - 3,-1
+0020600200,19,8,0,1,7:47 PM,10:23,,,SUB: Henderson FOR Randolph,,
+0020600200,20,3,12,1,7:47 PM,10:23,Wade Free Throw 2 of 2 (2 PTS),,,4 - 4,TIE
+0020600200,21,1,1,1,7:47 PM,10:02,,,Iguodala 26' 3PT Jump Shot (3 PTS) (Iverson 1 AST),7 - 4,-3
+0020600200,22,2,46,1,7:48 PM,9:49,MISS Wright 7' Running Jump Shot,,,,
+0020600200,23,4,0,1,7:48 PM,9:48,,,76ers Rebound,,
+0020600200,24,2,1,1,7:48 PM,9:29,,,MISS Iverson 13' Jump Shot,,
+0020600200,25,4,0,1,7:48 PM,9:26,,,Henderson REBOUND (Off:1 Def:0),,
+0020600200,26,2,1,1,7:48 PM,9:19,,,MISS Ollie 16' Jump Shot,,
+0020600200,27,10,0,1,7:49 PM,9:16,Jump Ball Wright vs. Dalembert: Tip to Iguodala,,,,
+0020600200,28,4,0,1,7:49 PM,9:16,,,76ers Rebound,,
+0020600200,29,5,1,1,7:49 PM,9:03,Haslem STEAL (1 STL),,Iguodala Bad Pass Turnover (P1.T1),,
+0020600200,30,1,7,1,7:49 PM,8:59,Wade  Dunk (4 PTS) (Williams 1 AST),,,7 - 6,-1
+0020600200,31,1,49,1,7:50 PM,8:37,,,Iguodala  Driving Dunk (5 PTS),9 - 6,-3
+0020600200,32,6,1,1,7:50 PM,8:30,,,Dalembert P.FOUL (P1.T3),,
+0020600200,33,2,5,1,7:50 PM,8:23,MISS Mourning  Layup,,Dalembert BLOCK (1 BLK),,
+0020600200,34,4,0,1,7:50 PM,8:20,,,Ollie REBOUND (Off:0 Def:1),,
+0020600200,35,1,42,1,7:50 PM,8:17,,,Ollie  Driving Layup (2 PTS),11 - 6,-5
+0020600200,36,6,2,1,7:51 PM,8:02,,,Henderson S.FOUL (P1.T4),,
+0020600200,37,3,11,1,7:51 PM,8:02,Wade Free Throw 1 of 2 (5 PTS),,,11 - 7,-4
+0020600200,38,3,12,1,7:51 PM,8:02,Wade Free Throw 2 of 2 (6 PTS),,,11 - 8,-3
+0020600200,39,2,1,1,7:52 PM,7:40,,,MISS Dalembert 17' Jump Shot,,
+0020600200,40,4,0,1,7:52 PM,7:38,Williams REBOUND (Off:0 Def:1),,,,
+0020600200,41,2,46,1,7:52 PM,7:25,MISS Wade 11' Running Jump Shot,,,,
+0020600200,42,4,0,1,7:52 PM,7:23,,,Iguodala REBOUND (Off:0 Def:1),,
+0020600200,43,2,1,1,7:52 PM,7:18,,,MISS Iverson 14' Jump Shot,,
+0020600200,44,4,0,1,7:52 PM,7:17,,,Iguodala REBOUND (Off:1 Def:1),,
+0020600200,45,2,5,1,7:52 PM,7:16,Mourning BLOCK (1 BLK),,MISS Iguodala  Layup,,
+0020600200,46,4,0,1,7:52 PM,7:15,,,76ers Rebound,,
+0020600200,47,1,63,1,7:53 PM,7:07,,,Iverson 10' Fadeaway Jumper (6 PTS),13 - 8,-5
+0020600200,48,2,1,1,7:53 PM,6:56,MISS Haslem 16' Jump Shot,,,,
+0020600200,49,4,0,1,7:53 PM,6:54,,,Dalembert REBOUND (Off:1 Def:1),,
+0020600200,50,5,1,1,7:53 PM,6:50,Wright STEAL (1 STL),,Dalembert Bad Pass Turnover (P1.T2),,
+0020600200,51,2,5,1,7:53 PM,6:46,MISS Wade  Layup,,,,
+0020600200,52,4,0,1,7:53 PM,6:44,,,Iguodala REBOUND (Off:1 Def:2),,
+0020600200,53,6,4,1,7:53 PM,6:41,,,Ollie OFF.Foul (P1),,
+0020600200,54,5,5,1,7:53 PM,6:41,,,Ollie Foul Turnover (P1.T3),,
+0020600200,109,9,1,1,7:54 PM,6:41,HEAT Timeout: Regular (Full 1 Short 0),,,,
+0020600200,58,2,1,1,7:56 PM,6:29,MISS Haslem 17' Jump Shot,,,,
+0020600200,59,4,0,1,7:56 PM,6:27,,,76ers Rebound,,
+0020600200,60,6,3,1,7:56 PM,6:27,Mourning L.B.FOUL (P1.T2),,,,
+0020600200,61,1,46,1,7:57 PM,6:13,,,Iverson 8' Running Jump Shot (8 PTS),15 - 8,-7
+0020600200,62,2,1,1,7:57 PM,6:00,MISS Williams 26' 3PT Jump Shot,,,,
+0020600200,63,4,0,1,7:57 PM,5:59,,,Iguodala REBOUND (Off:1 Def:3),,
+0020600200,64,1,1,1,7:57 PM,5:46,,,Ollie 21' Jump Shot (4 PTS),17 - 8,-9
+0020600200,65,1,5,1,7:57 PM,5:36,Mourning  Layup (4 PTS) (Wade 1 AST),,,17 - 10,-7
+0020600200,66,2,3,1,7:58 PM,5:17,,,MISS Dalembert 5' Hook Shot,,
+0020600200,67,4,0,1,7:58 PM,5:15,,,Dalembert REBOUND (Off:2 Def:1),,
+0020600200,68,2,5,1,7:58 PM,5:12,,,MISS Dalembert  Layup,,
+0020600200,69,4,0,1,7:58 PM,5:10,Wright REBOUND (Off:0 Def:1),,,,
+0020600200,70,1,42,1,7:58 PM,5:05,Wright  Driving Layup (2 PTS),,,17 - 12,-5
+0020600200,71,6,1,1,7:58 PM,5:01,Mourning P.FOUL (P2.T3),,,,
+0020600200,72,8,0,1,7:58 PM,5:01,SUB: Walker FOR Mourning,,,,
+0020600200,73,8,0,1,7:58 PM,5:01,,,SUB: Hunter FOR Dalembert,,
+0020600200,74,2,1,1,7:59 PM,4:51,,,MISS Iguodala 21' Jump Shot,,
+0020600200,75,4,0,1,7:59 PM,4:49,Haslem REBOUND (Off:0 Def:1),,,,
+0020600200,76,2,42,1,7:59 PM,4:37,MISS Walker  Driving Layup,,,,
+0020600200,77,4,0,1,7:59 PM,4:35,Wright REBOUND (Off:1 Def:1),,,,
+0020600200,78,1,64,1,7:59 PM,4:34,Wright  Follow Up Dunk (4 PTS),,,17 - 14,-3
+0020600200,79,1,42,1,7:59 PM,4:16,,,Ollie  Driving Layup (6 PTS),19 - 14,-5
+0020600200,80,1,52,1,7:59 PM,4:04,Wade  Alley Oop Dunk (8 PTS) (Williams 2 AST),,,19 - 16,-3
+0020600200,81,2,1,1,8:00 PM,3:48,,,MISS Iverson 26' 3PT Jump Shot,,
+0020600200,82,4,0,1,8:00 PM,3:47,Wade REBOUND (Off:0 Def:2),,,,
+0020600200,83,2,44,1,8:00 PM,3:43,MISS Wade  Reverse Layup,,,,
+0020600200,84,4,0,1,8:00 PM,3:41,,,Iguodala REBOUND (Off:1 Def:4),,
+0020600200,85,1,5,1,8:00 PM,3:36,,,Iverson  Layup (10 PTS),21 - 16,-5
+0020600200,86,7,5,1,8:00 PM,3:28,,,Iguodala Violation:Kicked Ball,,
+0020600200,87,8,0,1,8:00 PM,3:28,SUB: Kapono FOR Williams,,,,
+0020600200,88,8,0,1,8:00 PM,3:28,,,SUB: Green FOR Ollie,,
+0020600200,89,1,46,1,8:00 PM,3:16,Walker 5' Running Jump Shot (2 PTS),,,21 - 18,-3
+0020600200,90,9,1,1,8:01 PM,3:07,,,76ers Timeout: Regular (Reg.1 Short 0),,
+0020600200,92,8,0,1,8:03 PM,3:07,,,SUB: Korver FOR Henderson,,
+0020600200,94,1,5,1,8:04 PM,2:51,,,Iverson  Layup (12 PTS),23 - 18,-5
+0020600200,95,2,5,1,8:04 PM,2:32,MISS Haslem  Layup,,,,
+0020600200,96,4,0,1,8:04 PM,2:29,Haslem REBOUND (Off:1 Def:1),,,,
+0020600200,97,5,2,1,8:04 PM,2:27,Haslem Lost Ball Turnover (P2.T3),,Iverson STEAL (1 STL),,
+0020600200,98,6,2,1,8:04 PM,2:25,Walker S.FOUL (P1.T4),,,,
+0020600200,99,3,11,1,8:05 PM,2:25,,,Iverson Free Throw 1 of 2 (13 PTS),24 - 18,-6
+0020600200,100,8,0,1,8:05 PM,2:25,SUB: Doleac FOR Haslem,,,,
+0020600200,101,3,12,1,8:05 PM,2:25,,,Iverson Free Throw 2 of 2 (14 PTS),25 - 18,-7
+0020600200,102,2,1,1,8:05 PM,2:14,MISS Doleac 16' Jump Shot,,,,
+0020600200,103,4,0,1,8:05 PM,2:12,,,Iguodala REBOUND (Off:1 Def:5),,
+0020600200,104,1,1,1,8:06 PM,2:00,,,Iverson 17' Jump Shot (16 PTS),27 - 18,-9
+0020600200,105,2,1,1,8:06 PM,1:41,MISS Doleac 19' Jump Shot,,,,
+0020600200,106,4,0,1,8:06 PM,1:40,,,76ers Rebound,,
+0020600200,107,6,3,1,8:06 PM,1:40,Walker L.B.FOUL (P2.PN),,,,
+0020600200,108,3,11,1,8:06 PM,1:40,,,Iguodala Free Throw 1 of 2 (6 PTS),28 - 18,-10
+0020600200,110,8,0,1,8:07 PM,1:40,SUB: Payton FOR Wright,,,,
+0020600200,111,3,12,1,8:07 PM,1:40,,,Iguodala Free Throw 2 of 2 (7 PTS),29 - 18,-11
+0020600200,113,1,42,1,8:07 PM,1:26,Wade  Driving Layup (10 PTS),,,29 - 20,-9
+0020600200,114,1,42,1,8:08 PM,1:01,,,Green  Driving Layup (2 PTS),31 - 20,-11
+0020600200,115,1,1,1,8:08 PM,0:46,Payton 25' 3PT Jump Shot (3 PTS) (Wade 2 AST),,,31 - 23,-8
+0020600200,116,2,1,1,8:08 PM,0:33,,,MISS Iguodala 25' 3PT Jump Shot,,
+0020600200,117,4,0,1,8:08 PM,0:32,Wade REBOUND (Off:0 Def:3),,,,
+0020600200,118,1,1,1,8:08 PM,0:25,Kapono 20' Jump Shot (2 PTS) (Wade 3 AST),,,31 - 25,-6
+0020600200,119,2,1,1,8:09 PM,0:03,,,MISS Iverson 26' 3PT Jump Shot,,
+0020600200,120,4,0,1,8:09 PM,0:02,Wade REBOUND (Off:0 Def:4),,,,
+0020600200,121,2,1,1,8:09 PM,0:00,MISS Walker 42' 3PT Jump Shot,,,,
+0020600200,122,4,0,1,8:09 PM,0:00,HEAT Rebound,,,,
+0020600200,123,13,0,1,8:10 PM,0:00,,,,31 - 25,-6
+0020600200,125,12,0,2,8:12 PM,12:00,,,,31 - 25,-6
+0020600200,126,6,2,2,8:13 PM,11:43,Payton S.FOUL (P1.T1),,,,
+0020600200,127,3,11,2,8:13 PM,11:43,,,Iverson Free Throw 1 of 2 (17 PTS),32 - 25,-7
+0020600200,128,8,0,2,8:13 PM,11:43,,,SUB: Ollie FOR Iguodala,,
+0020600200,129,3,12,2,8:13 PM,11:43,,,Iverson Free Throw 2 of 2 (18 PTS),33 - 25,-8
+0020600200,130,1,5,2,8:14 PM,11:29,Walker  Layup (4 PTS) (Kapono 1 AST),,,33 - 27,-6
+0020600200,131,6,4,2,8:14 PM,11:07,,,Hunter OFF.Foul (P1),,
+0020600200,132,5,5,2,8:14 PM,11:07,,,Hunter Foul Turnover (P1.T4),,
+0020600200,133,1,1,2,8:15 PM,10:48,Kapono 19' Jump Shot (4 PTS) (Payton 1 AST),,,33 - 29,-4
+0020600200,134,2,42,2,8:15 PM,10:28,,,MISS Iverson  Driving Layup,,
+0020600200,135,4,0,2,8:15 PM,10:26,Payton REBOUND (Off:0 Def:1),,,,
+0020600200,136,2,3,2,8:15 PM,10:15,MISS Doleac  Hook Shot,,Hunter BLOCK (1 BLK),,
+0020600200,137,4,0,2,8:15 PM,10:13,Kapono REBOUND (Off:1 Def:0),,,,
+0020600200,138,6,2,2,8:15 PM,10:11,,,Green S.FOUL (P1.T1),,
+0020600200,139,3,11,2,8:16 PM,10:11,Wade Free Throw 1 of 2 (11 PTS),,,33 - 30,-3
+0020600200,140,3,12,2,8:16 PM,10:11,MISS Wade Free Throw 2 of 2,,,,
+0020600200,141,4,0,2,8:16 PM,10:09,,,Hunter REBOUND (Off:0 Def:1),,
+0020600200,142,2,1,2,8:16 PM,9:53,Wade BLOCK (2 BLK),,MISS Green 13' Jump Shot,,
+0020600200,143,4,0,2,8:16 PM,9:51,Payton REBOUND (Off:0 Def:2),,,,
+0020600200,144,5,21,2,8:16 PM,9:47,Wade Palming Turnover (P1.T4),,,,
+0020600200,145,1,63,2,8:17 PM,9:34,,,Iverson 11' Fadeaway Jumper (20 PTS),35 - 30,-5
+0020600200,146,2,1,2,8:17 PM,9:13,MISS Doleac 15' Jump Shot,,,,
+0020600200,147,4,0,2,8:17 PM,9:11,,,Ollie REBOUND (Off:0 Def:2),,
+0020600200,148,1,1,2,8:18 PM,9:06,,,Iverson 11' Jump Shot (22 PTS),37 - 30,-7
+0020600200,149,9,1,2,8:18 PM,8:57,HEAT Timeout: Regular (Full 2 Short 0),,,,
+0020600200,152,8,0,2,8:20 PM,8:57,SUB: Mourning FOR Doleac,,,,
+0020600200,153,5,2,2,8:21 PM,8:43,Mourning Lost Ball Turnover (P2.T5),,Green STEAL (1 STL),,
+0020600200,154,6,1,2,8:21 PM,8:34,Payton P.FOUL (P2.T2),,,,
+0020600200,155,6,4,2,8:21 PM,8:30,,,Green OFF.Foul (P2),,
+0020600200,156,5,5,2,8:21 PM,8:30,,,Green Foul Turnover (P1.T5),,
+0020600200,157,8,0,2,8:22 PM,8:30,,,SUB: Iguodala FOR Green,,
+0020600200,158,1,1,2,8:22 PM,8:18,Wade 9' Jump Shot (13 PTS),,,37 - 32,-5
+0020600200,159,1,63,2,8:22 PM,7:56,,,Korver 19' Fadeaway Jumper (2 PTS) (Ollie 1 AST),39 - 32,-7
+0020600200,160,1,63,2,8:22 PM,7:41,Wade 18' Fadeaway Jumper (15 PTS),,,39 - 34,-5
+0020600200,161,2,1,2,8:23 PM,7:23,,,MISS Iverson 20' Jump Shot,,
+0020600200,162,4,0,2,8:23 PM,7:21,Mourning REBOUND (Off:0 Def:1),,,,
+0020600200,163,6,1,2,8:23 PM,7:21,,,Hunter P.FOUL (P2.T2),,
+0020600200,164,5,1,2,8:23 PM,7:08,Kapono Bad Pass Turnover (P1.T6),,Ollie STEAL (1 STL),,
+0020600200,165,1,42,2,8:23 PM,7:02,,,Iverson  Driving Layup (24 PTS),41 - 34,-7
+0020600200,166,1,1,2,8:24 PM,6:33,Payton 25' 3PT Jump Shot (6 PTS),,,41 - 37,-4
+0020600200,167,2,5,2,8:24 PM,6:11,,,MISS Iguodala  Layup,,
+0020600200,168,4,0,2,8:24 PM,6:09,Walker REBOUND (Off:0 Def:1),,,,
+0020600200,169,5,2,2,8:24 PM,5:58,Wade Lost Ball Turnover (P2.T7),,Korver STEAL (1 STL),,
+0020600200,170,6,4,2,8:25 PM,5:54,,,Hunter OFF.Foul (P3),,
+0020600200,171,5,5,2,8:25 PM,5:54,,,Hunter Foul Turnover (P2.T6),,
+0020600200,172,9,4,2,8:25 PM,5:54,,,,,
+0020600200,174,8,0,2,8:27 PM,5:54,,,SUB: Dalembert FOR Hunter,,
+0020600200,175,8,0,2,8:27 PM,5:54,SUB: Wright FOR Wade,,,,
+0020600200,176,1,1,2,8:27 PM,5:41,Payton 14' Jump Shot (8 PTS) (Wright 1 AST),,,41 - 39,-2
+0020600200,177,1,1,2,8:28 PM,5:18,,,Iguodala 25' 3PT Jump Shot (10 PTS) (Iverson 2 AST),44 - 39,-5
+0020600200,178,6,17,2,8:28 PM,5:02,,,76ers T.Foul (Def. 3 Sec Dalembert ),,
+0020600200,179,8,0,2,8:28 PM,5:02,,,SUB: Carney FOR Ollie,,
+0020600200,180,3,16,2,8:28 PM,5:02,Kapono Free Throw Technical (5 PTS),,,44 - 40,-4
+0020600200,181,1,1,2,8:29 PM,4:47,Kapono 25' 3PT Jump Shot (8 PTS) (Payton 2 AST),,,44 - 43,-1
+0020600200,183,6,4,2,8:29 PM,4:32,,,Korver OFF.Foul (P1),,
+0020600200,184,5,5,2,8:29 PM,4:32,,,Korver Foul Turnover (P1.T7),,
+0020600200,185,6,2,2,8:30 PM,4:20,,,Carney S.FOUL (P1.T3),,
+0020600200,186,3,11,2,8:30 PM,4:20,Mourning Free Throw 1 of 2 (5 PTS),,,44 - 44,TIE
+0020600200,187,8,0,2,8:30 PM,4:20,,,SUB: Randolph FOR Korver,,
+0020600200,188,3,12,2,8:30 PM,4:20,Mourning Free Throw 2 of 2 (6 PTS),,,44 - 45,1
+0020600200,189,2,1,2,8:31 PM,4:04,,,MISS Iverson 14' Jump Shot,,
+0020600200,190,4,0,2,8:31 PM,4:02,,,Randolph REBOUND (Off:2 Def:0),,
+0020600200,191,2,5,2,8:31 PM,4:01,Mourning BLOCK (2 BLK),,MISS Randolph  Layup,,
+0020600200,192,4,0,2,8:31 PM,4:00,HEAT Rebound,,,,
+0020600200,193,2,42,2,8:31 PM,3:45,MISS Walker  Driving Layup,,,,
+0020600200,194,4,0,2,8:31 PM,3:43,,,Dalembert REBOUND (Off:2 Def:2),,
+0020600200,195,2,5,2,8:31 PM,3:31,,,MISS Iguodala  Layup,,
+0020600200,196,4,0,2,8:31 PM,3:29,,,Randolph REBOUND (Off:3 Def:0),,
+0020600200,197,2,1,2,8:32 PM,3:22,,,MISS Carney 25' 3PT Jump Shot,,
+0020600200,198,4,0,2,8:32 PM,3:20,,,Dalembert REBOUND (Off:3 Def:2),,
+0020600200,199,1,1,2,8:32 PM,3:18,,,Iverson 8' Jump Shot (26 PTS),46 - 45,-1
+0020600200,200,6,2,2,8:32 PM,3:18,Mourning S.FOUL (P3.T3),,,,
+0020600200,201,8,0,2,8:32 PM,3:18,SUB: Wade FOR Mourning,,,,
+0020600200,202,8,0,2,8:32 PM,3:18,,,SUB: Ollie FOR Carney,,
+0020600200,203,8,0,2,8:32 PM,3:18,SUB: Haslem FOR Payton,,,,
+0020600200,204,3,10,2,8:33 PM,3:18,,,Iverson Free Throw 1 of 1 (27 PTS),47 - 45,-2
+0020600200,205,7,5,2,8:33 PM,3:10,,,Dalembert Violation:Kicked Ball,,
+0020600200,206,5,4,2,8:34 PM,3:02,Walker Traveling Turnover (P1.T8),,,,
+0020600200,207,2,1,2,8:34 PM,2:45,,,MISS Ollie 20' Jump Shot,,
+0020600200,208,4,0,2,8:34 PM,2:43,Kapono REBOUND (Off:1 Def:1),,,,
+0020600200,209,5,2,2,8:34 PM,2:33,Wade Lost Ball Turnover (P3.T9),,Randolph STEAL (2 STL),,
+0020600200,210,2,5,2,8:34 PM,2:27,,,MISS Iguodala  Layup,,
+0020600200,211,4,0,2,8:34 PM,2:25,,,Ollie REBOUND (Off:1 Def:2),,
+0020600200,212,1,7,2,8:34 PM,2:20,,,Randolph  Dunk (2 PTS) (Iverson 3 AST),49 - 45,-4
+0020600200,213,9,2,2,8:35 PM,2:09,HEAT Timeout: Short (Full 2 Short 1),,,,
+0020600200,215,9,1,2,8:35 PM,2:09,,,76ers Timeout: Regular (Reg.2 Short 0),,
+0020600200,218,1,5,2,8:38 PM,1:59,Haslem  Layup (2 PTS) (Wade 4 AST),,,49 - 47,-2
+0020600200,219,2,46,2,8:38 PM,1:34,,,MISS Ollie 7' Running Jump Shot,,
+0020600200,220,4,0,2,8:38 PM,1:31,Haslem REBOUND (Off:1 Def:2),,,,
+0020600200,221,1,49,2,8:38 PM,1:24,Wade  Driving Dunk (17 PTS),,,49 - 49,TIE
+0020600200,222,2,1,2,8:39 PM,0:58,,,MISS Dalembert 14' Jump Shot,,
+0020600200,223,4,0,2,8:39 PM,0:55,,,76ers Rebound,,
+0020600200,224,9,2,2,8:39 PM,0:55,,,76ers Timeout: Short (Reg.2 Short 1),,
+0020600200,227,8,0,2,8:40 PM,0:55,,,SUB: McFarlin FOR Randolph,,
+0020600200,228,8,0,2,8:40 PM,0:55,,,SUB: Korver FOR Ollie,,
+0020600200,229,2,1,2,8:40 PM,0:38,,,MISS Korver 26' 3PT Jump Shot,,
+0020600200,230,4,0,2,8:40 PM,0:37,Wright REBOUND (Off:1 Def:2),,,,
+0020600200,231,5,1,2,8:41 PM,0:31,Wright Bad Pass Turnover (P1.T10),,Iguodala STEAL (1 STL),,
+0020600200,232,1,5,2,8:41 PM,0:25,,,McFarlin  Layup (2 PTS) (Iguodala 1 AST),51 - 49,-2
+0020600200,233,2,1,2,8:41 PM,0:04,MISS Wright 26' 3PT Jump Shot,,,,
+0020600200,234,4,0,2,8:41 PM,0:03,Wade REBOUND (Off:1 Def:4),,,,
+0020600200,235,1,47,2,8:41 PM,0:02,Wade 18' Turnaround Jump Shot (19 PTS),,,51 - 51,TIE
+0020600200,236,2,1,2,8:41 PM,0:00,,,MISS McFarlin 31' 3PT Jump Shot,,
+0020600200,237,4,0,2,8:41 PM,0:00,,,76ers Rebound,,
+0020600200,238,13,0,2,8:42 PM,0:00,,,,51 - 51,TIE
+0020600200,240,12,0,3,8:58 PM,12:00,,,,51 - 51,TIE
+0020600200,241,5,8,3,8:58 PM,11:50,,,Dalembert 3 Second Violation Turnover (P2.T8),,
+0020600200,242,5,8,3,8:59 PM,11:35,Mourning 3 Second Violation Turnover (P3.T11),,,,
+0020600200,243,1,63,3,8:59 PM,11:17,,,Iverson 17' Fadeaway Jumper (29 PTS),53 - 51,-2
+0020600200,244,1,1,3,8:59 PM,11:06,Haslem 15' Jump Shot (4 PTS) (Wade 5 AST),,,53 - 53,TIE
+0020600200,245,2,5,3,9:00 PM,10:47,Mourning BLOCK (3 BLK),,MISS Randolph  Layup,,
+0020600200,246,4,0,3,9:00 PM,10:45,Wright REBOUND (Off:1 Def:3),,,,
+0020600200,247,6,1,3,9:00 PM,10:38,,,Dalembert P.FOUL (P2.T1),,
+0020600200,248,6,2,3,9:01 PM,10:25,,,Iguodala S.FOUL (P1.T2),,
+0020600200,249,3,11,3,9:01 PM,10:25,MISS Mourning Free Throw 1 of 2,,,,
+0020600200,250,4,1,3,9:01 PM,10:25,HEAT Rebound,,,,
+0020600200,251,3,12,3,9:01 PM,10:25,Mourning Free Throw 2 of 2 (7 PTS),,,53 - 54,1
+0020600200,252,5,1,3,9:02 PM,10:15,,,Iguodala Bad Pass Turnover (P2.T9),,
+0020600200,253,1,56,3,9:02 PM,10:01,Payton 6' Running Hook Shot (10 PTS),,,53 - 56,3
+0020600200,254,2,1,3,9:02 PM,9:42,,,MISS Ollie 15' Jump Shot,,
+0020600200,255,4,0,3,9:02 PM,9:40,Haslem REBOUND (Off:1 Def:3),,,,
+0020600200,256,6,1,3,9:03 PM,9:32,,,Dalembert P.FOUL (P3.T3),,
+0020600200,257,5,1,3,9:03 PM,9:22,Wade Bad Pass Turnover (P4.T12),,Iverson STEAL (2 STL),,
+0020600200,258,5,1,3,9:03 PM,9:18,Wright STEAL (2 STL),,Iverson Bad Pass Turnover (P1.T10),,
+0020600200,259,5,1,3,9:03 PM,9:11,Wright Bad Pass Turnover (P2.T13),,Iguodala STEAL (2 STL),,
+0020600200,260,1,1,3,9:03 PM,9:05,,,Iverson 21' Jump Shot (31 PTS) (Iguodala 2 AST),55 - 56,1
+0020600200,261,5,11,3,9:04 PM,8:37,HEAT Turnover: Shot Clock (T#14),,,,
+0020600200,262,2,3,3,9:04 PM,8:20,,,MISS Randolph 7' Hook Shot,,
+0020600200,263,4,0,3,9:05 PM,8:15,Mourning REBOUND (Off:0 Def:2),,,,
+0020600200,264,6,2,3,9:05 PM,8:04,,,Iguodala S.FOUL (P2.T4),,
+0020600200,265,3,11,3,9:05 PM,8:04,Haslem Free Throw 1 of 2 (5 PTS),,,55 - 57,2
+0020600200,266,8,0,3,9:05 PM,8:04,,,SUB: Korver FOR Ollie,,
+0020600200,267,3,12,3,9:05 PM,8:04,Haslem Free Throw 2 of 2 (6 PTS),,,55 - 58,3
+0020600200,268,6,2,3,9:06 PM,7:54,Wade S.FOUL (P1.T1),,,,
+0020600200,269,3,11,3,9:06 PM,7:54,,,Iguodala Free Throw 1 of 2 (11 PTS),56 - 58,2
+0020600200,270,3,12,3,9:06 PM,7:54,,,MISS Iguodala Free Throw 2 of 2,,
+0020600200,271,4,0,3,9:07 PM,7:52,,,Randolph REBOUND (Off:4 Def:0),,
+0020600200,272,2,7,3,9:07 PM,7:37,Mourning BLOCK (4 BLK),,MISS Dalembert  Dunk,,
+0020600200,273,4,0,3,9:07 PM,7:35,Haslem REBOUND (Off:1 Def:4),,,,
+0020600200,274,1,44,3,9:07 PM,7:24,Wade  Reverse Layup (21 PTS),,,56 - 60,4
+0020600200,275,2,5,3,9:08 PM,7:04,Mourning BLOCK (5 BLK),,MISS Randolph  Layup,,
+0020600200,276,4,0,3,9:08 PM,7:01,,,Randolph REBOUND (Off:5 Def:0),,
+0020600200,277,1,1,3,9:08 PM,6:59,,,Korver 14' Jump Shot (4 PTS) (Randolph 1 AST),58 - 60,2
+0020600200,278,6,4,3,9:08 PM,6:44,Payton OFF.Foul (P3),,,,
+0020600200,279,5,5,3,9:08 PM,6:44,Payton Foul Turnover (P1.T15),,,,
+0020600200,280,2,1,3,9:08 PM,6:29,,,MISS Iverson 16' Jump Shot,,
+0020600200,281,4,0,3,9:08 PM,6:27,,,Randolph REBOUND (Off:6 Def:0),,
+0020600200,282,1,1,3,9:09 PM,6:23,,,Korver 24' 3PT Jump Shot (7 PTS) (Iguodala 3 AST),61 - 60,-1
+0020600200,283,9,1,3,9:09 PM,6:12,HEAT Timeout: Regular (Full 3 Short 1),,,,
+0020600200,287,1,7,3,9:11 PM,6:01,Wade  Dunk (23 PTS) (Haslem 1 AST),,,61 - 62,1
+0020600200,288,2,5,3,9:12 PM,5:43,Mourning BLOCK (6 BLK),,MISS Iverson  Layup,,
+0020600200,289,4,0,3,9:12 PM,5:43,,,76ers Rebound,,
+0020600200,290,2,1,3,9:12 PM,5:37,,,MISS Dalembert 15' Jump Shot,,
+0020600200,291,4,0,3,9:12 PM,5:35,,,Korver REBOUND (Off:1 Def:0),,
+0020600200,292,2,1,3,9:12 PM,5:31,,,MISS Randolph 11' Jump Shot,,
+0020600200,293,4,0,3,9:12 PM,5:29,,,Dalembert REBOUND (Off:4 Def:2),,
+0020600200,294,6,1,3,9:13 PM,5:28,Payton P.FOUL (P4.T2),,,,
+0020600200,295,2,1,3,9:13 PM,5:15,,,MISS Iverson 16' Jump Shot,,
+0020600200,296,4,0,3,9:13 PM,5:13,,,Randolph REBOUND (Off:7 Def:0),,
+0020600200,297,2,4,3,9:13 PM,5:12,,,MISS Randolph  Tip Shot,,
+0020600200,298,4,0,3,9:13 PM,5:10,Wade REBOUND (Off:1 Def:5),,,,
+0020600200,299,1,3,3,9:13 PM,5:03,Payton 7' Hook Shot (12 PTS),,,61 - 64,3
+0020600200,300,2,5,3,9:13 PM,4:47,,,MISS Iguodala  Layup,,
+0020600200,301,4,0,3,9:13 PM,4:46,HEAT Rebound,,,,
+0020600200,302,8,0,3,9:13 PM,4:46,SUB: Kapono FOR Payton,,,,
+0020600200,304,2,1,3,9:14 PM,4:35,MISS Wade 20' Jump Shot,,,,
+0020600200,305,4,0,3,9:14 PM,4:33,,,Dalembert REBOUND (Off:4 Def:3),,
+0020600200,306,2,63,3,9:14 PM,4:23,,,MISS Korver 13' Fadeaway Jumper,,
+0020600200,307,4,0,3,9:14 PM,4:21,Wright REBOUND (Off:1 Def:4),,,,
+0020600200,308,6,4,3,9:14 PM,4:14,Mourning OFF.Foul (P4),,,,
+0020600200,309,5,5,3,9:14 PM,4:14,Mourning Foul Turnover (P4.T16),,,,
+0020600200,310,8,0,3,9:14 PM,4:14,SUB: Walker FOR Mourning,,,,
+0020600200,311,6,2,3,9:15 PM,3:59,Walker S.FOUL (P3.T3),,,,
+0020600200,312,3,11,3,9:15 PM,3:59,,,Iverson Free Throw 1 of 2 (32 PTS),62 - 64,2
+0020600200,313,3,12,3,9:15 PM,3:59,,,MISS Iverson Free Throw 2 of 2,,
+0020600200,314,4,0,3,9:16 PM,3:57,Wright REBOUND (Off:1 Def:5),,,,
+0020600200,315,1,5,3,9:16 PM,3:45,Haslem  Layup (8 PTS) (Wade 6 AST),,,62 - 66,4
+0020600200,316,6,2,3,9:16 PM,3:45,,,Randolph S.FOUL (P3.PN),,
+0020600200,317,3,10,3,9:16 PM,3:45,MISS Haslem Free Throw 1 of 1,,,,
+0020600200,318,4,0,3,9:17 PM,3:44,,,Randolph REBOUND (Off:7 Def:1),,
+0020600200,319,9,1,3,9:17 PM,3:43,,,76ers Timeout: Regular (Reg.3 Short 1),,
+0020600200,321,8,0,3,9:19 PM,3:43,,,SUB: Hunter FOR Dalembert,,
+0020600200,323,2,1,3,9:20 PM,3:21,Wright BLOCK (1 BLK),,MISS Iverson 18' Jump Shot,,
+0020600200,324,4,0,3,9:20 PM,3:20,Wright REBOUND (Off:1 Def:6),,,,
+0020600200,325,6,4,3,9:20 PM,3:09,Haslem OFF.Foul (P2),,,,
+0020600200,326,5,5,3,9:20 PM,3:09,Haslem Foul Turnover (P3.T17),,,,
+0020600200,327,8,0,3,9:20 PM,3:09,,,SUB: Green FOR Iguodala,,
+0020600200,328,2,1,3,9:21 PM,2:51,,,MISS Green 25' 3PT Jump Shot,,
+0020600200,329,4,0,3,9:21 PM,2:49,Haslem REBOUND (Off:1 Def:5),,,,
+0020600200,330,6,1,3,9:21 PM,2:42,,,Green P.FOUL (P3.PN),,
+0020600200,331,3,11,3,9:21 PM,2:42,Wade Free Throw 1 of 2 (24 PTS),,,62 - 67,5
+0020600200,332,3,12,3,9:21 PM,2:42,Wade Free Throw 2 of 2 (25 PTS),,,62 - 68,6
+0020600200,333,6,1,3,9:22 PM,2:31,Wade P.FOUL (P2.T4),,,,
+0020600200,334,2,1,3,9:22 PM,2:17,,,MISS Iverson 24' 3PT Jump Shot,,
+0020600200,335,4,0,3,9:22 PM,2:16,Wade REBOUND (Off:1 Def:6),,,,
+0020600200,336,6,3,3,9:22 PM,2:16,,,Korver L.B.FOUL (P2.PN),,
+0020600200,337,8,0,3,9:23 PM,2:16,,,SUB: Henderson FOR Randolph,,
+0020600200,338,3,11,3,9:23 PM,2:16,Wade Free Throw 1 of 2 (26 PTS),,,62 - 69,7
+0020600200,339,3,12,3,9:23 PM,2:16,Wade Free Throw 2 of 2 (27 PTS),,,62 - 70,8
+0020600200,340,1,5,3,9:24 PM,1:53,,,Hunter  Layup (2 PTS) (Henderson 1 AST),64 - 70,6
+0020600200,341,6,2,3,9:24 PM,1:53,Kapono S.FOUL (P1.PN),,,,
+0020600200,342,3,10,3,9:24 PM,1:53,,,Hunter Free Throw 1 of 1 (3 PTS),65 - 70,5
+0020600200,343,1,1,3,9:25 PM,1:29,Wright 19' Jump Shot (6 PTS),,,65 - 72,7
+0020600200,344,2,1,3,9:26 PM,1:06,,,MISS Iverson 20' Jump Shot,,
+0020600200,345,4,0,3,9:26 PM,1:04,Kapono REBOUND (Off:1 Def:2),,,,
+0020600200,346,1,44,3,9:26 PM,0:52,Haslem  Reverse Layup (10 PTS) (Wade 7 AST),,,65 - 74,9
+0020600200,347,2,42,3,9:26 PM,0:38,,,MISS Iverson  Driving Layup,,
+0020600200,348,4,0,3,9:26 PM,0:37,Kapono REBOUND (Off:1 Def:3),,,,
+0020600200,349,2,1,3,9:27 PM,0:18,MISS Walker 26' 3PT Jump Shot,,,,
+0020600200,350,4,0,3,9:27 PM,0:16,,,Hunter REBOUND (Off:0 Def:2),,
+0020600200,351,1,5,3,9:27 PM,0:03,,,Iverson  Layup (34 PTS),67 - 74,7
+0020600200,352,6,2,3,9:27 PM,0:03,Walker S.FOUL (P4.PN),,,,
+0020600200,353,8,0,3,9:27 PM,0:03,,,SUB: Ollie FOR Korver,,
+0020600200,354,3,10,3,9:27 PM,0:03,,,Iverson Free Throw 1 of 1 (35 PTS),68 - 74,6
+0020600200,355,2,1,3,9:28 PM,0:00,MISS Wade 42' 3PT Jump Shot,,,,
+0020600200,356,4,0,3,9:28 PM,0:00,HEAT Rebound,,,,
+0020600200,357,13,0,3,9:28 PM,0:00,,,,68 - 74,6
+0020600200,359,12,0,4,9:31 PM,12:00,,,,68 - 74,6
+0020600200,360,1,3,4,9:31 PM,11:41,Haslem 6' Hook Shot (12 PTS) (Walker 1 AST),,,68 - 76,8
+0020600200,361,2,47,4,9:32 PM,11:19,,,MISS Korver 13' Turnaround Jump Shot,,
+0020600200,362,4,0,4,9:32 PM,11:18,Haslem REBOUND (Off:1 Def:6),,,,
+0020600200,363,5,2,4,9:32 PM,11:11,Wade Lost Ball Turnover (P5.T18),,Henderson STEAL (1 STL),,
+0020600200,364,6,4,4,9:32 PM,11:09,,,Iverson OFF.Foul (P1),,
+0020600200,365,5,5,4,9:32 PM,11:09,,,Iverson Foul Turnover (P2.T11),,
+0020600200,366,1,7,4,9:33 PM,10:55,Haslem  Dunk (14 PTS) (Wright 2 AST),,,68 - 78,10
+0020600200,367,9,1,4,9:33 PM,10:53,,,76ers Timeout: Regular (Reg.4 Short 1),,
+0020600200,370,8,0,4,9:35 PM,10:53,,,SUB: Iguodala FOR Henderson,,
+0020600200,371,5,2,4,9:35 PM,10:46,Wright STEAL (3 STL),,Korver Lost Ball Turnover (P2.T12),,
+0020600200,372,1,7,4,9:36 PM,10:42,Wright  Dunk (8 PTS) (Wade 8 AST),,,68 - 80,12
+0020600200,373,1,42,4,9:36 PM,10:25,,,Iverson  Driving Layup (37 PTS),70 - 80,10
+0020600200,374,6,4,4,9:36 PM,10:13,Haslem OFF.Foul (P3),,,,
+0020600200,375,5,5,4,9:36 PM,10:13,Haslem Foul Turnover (P4.T19),,,,
+0020600200,376,1,1,4,9:37 PM,10:01,,,Green 25' 3PT Jump Shot (5 PTS) (Iverson 4 AST),73 - 80,7
+0020600200,377,2,1,4,9:37 PM,9:45,MISS Wade 16' Jump Shot,,,,
+0020600200,378,4,0,4,9:37 PM,9:43,,,Hunter REBOUND (Off:0 Def:3),,
+0020600200,379,6,2,4,9:37 PM,9:35,Wright S.FOUL (P1.T1),,,,
+0020600200,380,3,11,4,9:37 PM,9:35,,,Iverson Free Throw 1 of 2 (38 PTS),74 - 80,6
+0020600200,381,8,0,4,9:37 PM,9:35,SUB: Payton FOR Wright,,,,
+0020600200,382,8,0,4,9:38 PM,9:35,SUB: Mourning FOR Haslem,,,,
+0020600200,383,3,12,4,9:38 PM,9:35,,,Iverson Free Throw 2 of 2 (39 PTS),75 - 80,5
+0020600200,384,1,1,4,9:38 PM,9:14,Walker 24' 3PT Jump Shot (7 PTS) (Wade 9 AST),,,75 - 83,8
+0020600200,385,2,1,4,9:39 PM,8:55,,,MISS Iverson 20' Jump Shot,,
+0020600200,386,4,0,4,9:39 PM,8:53,Kapono REBOUND (Off:1 Def:4),,,,
+0020600200,387,1,5,4,9:39 PM,8:45,Mourning  Layup (9 PTS) (Wade 10 AST),,,75 - 85,10
+0020600200,388,6,2,4,9:39 PM,8:45,,,Hunter S.FOUL (P4.T1),,
+0020600200,389,3,10,4,9:39 PM,8:45,Mourning Free Throw 1 of 1 (10 PTS),,,75 - 86,11
+0020600200,390,2,5,4,9:40 PM,8:33,Mourning BLOCK (7 BLK),,MISS Green  Layup,,
+0020600200,391,4,0,4,9:40 PM,8:32,,,76ers Rebound,,
+0020600200,392,8,0,4,9:40 PM,8:32,,,SUB: Ollie FOR Green,,
+0020600200,394,8,0,4,9:40 PM,8:32,,,SUB: Dalembert FOR Hunter,,
+0020600200,393,1,61,4,9:40 PM,8:26,,,Iverson  Driving Finger Roll (41 PTS),77 - 86,9
+0020600200,395,10,0,4,9:41 PM,8:10,Jump Ball Mourning vs. Dalembert: Tip to Ollie,,,,
+0020600200,396,5,2,4,9:41 PM,8:10,HEAT Turnover: Lost Ball (T#20),,,,
+0020600200,397,2,1,4,9:42 PM,7:56,,,MISS Iverson 19' Jump Shot,,
+0020600200,398,4,0,4,9:42 PM,7:54,Walker REBOUND (Off:0 Def:2),,,,
+0020600200,399,2,1,4,9:42 PM,7:39,MISS Walker 27' 3PT Jump Shot,,,,
+0020600200,400,4,0,4,9:42 PM,7:38,,,Iguodala REBOUND (Off:1 Def:6),,
+0020600200,401,5,1,4,9:42 PM,7:33,Wade STEAL (1 STL),,Iguodala Bad Pass Turnover (P3.T13),,
+0020600200,402,6,4,4,9:42 PM,7:26,Mourning OFF.Foul (P5),,,,
+0020600200,403,5,5,4,9:42 PM,7:26,Mourning Foul Turnover (P5.T21),,,,
+0020600200,404,6,4,4,9:43 PM,7:05,,,Ollie OFF.Foul (P2),,
+0020600200,405,5,5,4,9:43 PM,7:05,,,Ollie Foul Turnover (P2.T14),,
+0020600200,406,8,0,4,9:43 PM,7:05,,,SUB: Green FOR Korver,,
+0020600200,407,6,2,4,9:43 PM,6:55,,,Dalembert S.FOUL (P4.T2),,
+0020600200,408,3,11,4,9:44 PM,6:55,Wade Free Throw 1 of 2 (28 PTS),,,77 - 87,10
+0020600200,409,3,12,4,9:44 PM,6:55,Wade Free Throw 2 of 2 (29 PTS),,,77 - 88,11
+0020600200,411,1,1,4,9:44 PM,6:39,,,Green 14' Jump Shot (7 PTS),79 - 88,9
+0020600200,412,1,1,4,9:45 PM,6:22,Kapono 25' 3PT Jump Shot (11 PTS) (Wade 11 AST),,,79 - 91,12
+0020600200,413,2,44,4,9:45 PM,6:12,,,MISS Green  Reverse Layup,,
+0020600200,414,4,0,4,9:45 PM,6:09,,,Ollie REBOUND (Off:2 Def:2),,
+0020600200,415,1,7,4,9:45 PM,6:07,,,Iguodala  Dunk (13 PTS) (Ollie 2 AST),81 - 91,10
+0020600200,416,1,7,4,9:45 PM,5:59,Mourning  Dunk (12 PTS) (Wade 12 AST),,,81 - 93,12
+0020600200,417,2,1,4,9:45 PM,5:33,,,MISS Iguodala 26' 3PT Jump Shot,,
+0020600200,418,4,0,4,9:45 PM,5:32,Walker REBOUND (Off:0 Def:3),,,,
+0020600200,419,5,1,4,9:46 PM,5:19,Wade Bad Pass Turnover (P6.T22),,Iverson STEAL (3 STL),,
+0020600200,420,1,42,4,9:46 PM,5:14,,,Iverson  Driving Layup (43 PTS),83 - 93,10
+0020600200,421,6,2,4,9:46 PM,5:03,,,Dalembert S.FOUL (P5.T3),,
+0020600200,422,9,4,4,9:46 PM,5:03,,,,,
+0020600200,425,8,0,4,9:49 PM,5:03,SUB: Haslem FOR Walker,,,,
+0020600200,426,3,11,4,9:49 PM,5:03,Mourning Free Throw 1 of 2 (13 PTS),,,83 - 94,11
+0020600200,427,3,12,4,9:49 PM,5:03,MISS Mourning Free Throw 2 of 2,,,,
+0020600200,428,4,0,4,9:49 PM,5:02,,,Iguodala REBOUND (Off:1 Def:7),,
+0020600200,429,2,42,4,9:50 PM,4:42,,,MISS Green  Driving Layup,,
+0020600200,430,4,0,4,9:50 PM,4:41,Haslem REBOUND (Off:1 Def:7),,,,
+0020600200,431,9,2,4,9:50 PM,4:41,HEAT Timeout: Short (Full 3 Short 2),,,,
+0020600200,432,8,0,4,9:51 PM,4:41,,,SUB: Henderson FOR Dalembert,,
+0020600200,434,1,1,4,9:51 PM,4:22,Haslem 15' Jump Shot (16 PTS) (Wade 13 AST),,,83 - 96,13
+0020600200,435,2,5,4,9:52 PM,3:59,,,MISS Iguodala  Layup,,
+0020600200,436,4,0,4,9:52 PM,3:58,,,Henderson REBOUND (Off:2 Def:0),,
+0020600200,437,1,4,4,9:52 PM,3:57,,,Henderson  Tip Shot (2 PTS),85 - 96,11
+0020600200,438,2,1,4,9:52 PM,3:43,MISS Wade 18' Jump Shot,,,,
+0020600200,439,4,0,4,9:52 PM,3:41,,,Green REBOUND (Off:0 Def:1),,
+0020600200,440,2,56,4,9:52 PM,3:34,,,MISS Iverson 7' Running Hook Shot,,
+0020600200,441,4,0,4,9:52 PM,3:32,Mourning REBOUND (Off:0 Def:3),,,,
+0020600200,442,5,1,4,9:53 PM,3:14,Wade Bad Pass Turnover (P7.T23),,,,
+0020600200,443,8,0,4,9:53 PM,3:14,,,SUB: Korver FOR Ollie,,
+0020600200,444,2,5,4,9:53 PM,3:04,,,MISS Iguodala  Layup,,
+0020600200,445,4,0,4,9:53 PM,3:03,Mourning REBOUND (Off:0 Def:4),,,,
+0020600200,446,1,63,4,9:53 PM,2:44,Wade 21' Fadeaway Jumper (31 PTS),,,85 - 98,13
+0020600200,447,5,4,4,9:53 PM,2:31,,,Iverson Traveling Turnover (P3.T15),,
+0020600200,448,9,1,4,9:54 PM,2:31,HEAT Timeout: Regular (Full 4 Short 2),,,,
+0020600200,452,2,1,4,9:56 PM,2:14,MISS Kapono 25' 3PT Jump Shot,,,,
+0020600200,453,4,0,4,9:56 PM,2:12,,,Iverson REBOUND (Off:0 Def:1),,
+0020600200,454,2,42,4,9:56 PM,2:05,,,MISS Iverson  Driving Layup,,
+0020600200,455,4,0,4,9:56 PM,2:03,Haslem REBOUND (Off:1 Def:8),,,,
+0020600200,456,2,66,4,9:57 PM,1:41,MISS Wade 13' Jump Bank Shot,,,,
+0020600200,457,4,0,4,9:57 PM,1:39,,,Henderson REBOUND (Off:2 Def:1),,
+0020600200,458,9,1,4,9:57 PM,1:39,,,76ers Timeout: Regular (Reg.5 Short 1),,
+0020600200,462,2,1,4,10:00 PM,1:27,,,MISS Green 17' Jump Shot,,
+0020600200,464,4,0,4,10:00 PM,1:26,,,Henderson REBOUND (Off:3 Def:1),,
+0020600200,463,1,4,4,10:00 PM,1:25,,,Henderson  Tip Shot (4 PTS),87 - 98,11
+0020600200,465,6,1,4,10:00 PM,1:09,,,Iguodala P.FOUL (P3.T4),,
+0020600200,466,2,1,4,10:01 PM,0:56,MISS Payton 25' 3PT Jump Shot,,,,
+0020600200,467,4,0,4,10:01 PM,0:56,Mourning REBOUND (Off:1 Def:4),,,,
+0020600200,468,6,2,4,10:01 PM,0:56,,,Henderson S.FOUL (P2.PN),,
+0020600200,469,3,11,4,10:01 PM,0:56,MISS Mourning Free Throw 1 of 2,,,,
+0020600200,470,4,1,4,10:01 PM,0:56,HEAT Rebound,,,,
+0020600200,471,3,12,4,10:01 PM,0:56,Mourning Free Throw 2 of 2 (14 PTS),,,87 - 99,12
+0020600200,472,9,2,4,10:01 PM,0:56,,,76ers Timeout: Short (Reg.5 Short 2),,
+0020600200,475,8,0,4,10:03 PM,0:56,SUB: Wright FOR Mourning,,,,
+0020600200,476,2,1,4,10:03 PM,0:52,,,MISS Korver 25' 3PT Jump Shot,,
+0020600200,477,4,0,4,10:03 PM,0:51,,,Iguodala REBOUND (Off:2 Def:7),,
+0020600200,478,2,5,4,10:03 PM,0:50,,,MISS Iverson  Layup,,
+0020600200,479,4,0,4,10:03 PM,0:49,,,76ers Rebound,,
+0020600200,480,6,3,4,10:03 PM,0:49,Haslem L.B.FOUL (P4.T2),,,,
+0020600200,481,1,5,4,10:03 PM,0:42,,,Iguodala  Layup (15 PTS),89 - 99,10
+0020600200,482,6,1,4,10:04 PM,0:34,,,Henderson P.FOUL (P3.PN),,
+0020600200,483,3,11,4,10:04 PM,0:34,Haslem Free Throw 1 of 2 (17 PTS),,,89 - 100,11
+0020600200,484,3,12,4,10:04 PM,0:34,Haslem Free Throw 2 of 2 (18 PTS),,,89 - 101,12
+0020600200,485,9,2,4,10:04 PM,0:34,,,76ers Timeout: Short (Reg.5 Short 3),,
+0020600200,487,1,44,4,10:05 PM,0:30,,,Iverson  Reverse Layup (45 PTS),91 - 101,10
+0020600200,488,6,1,4,10:05 PM,0:27,,,Iverson P.FOUL (P2.PN),,
+0020600200,489,3,11,4,10:06 PM,0:27,Wade Free Throw 1 of 2 (32 PTS),,,91 - 102,11
+0020600200,491,8,0,4,10:06 PM,0:27,,,SUB: Williams FOR Iverson,,
+0020600200,492,3,12,4,10:06 PM,0:27,Wade Free Throw 2 of 2 (33 PTS),,,91 - 103,12
+0020600200,493,2,1,4,10:06 PM,0:20,,,MISS Green 25' 3PT Jump Shot,,
+0020600200,494,4,0,4,10:06 PM,0:19,Haslem REBOUND (Off:1 Def:9),,,,
+0020600200,495,13,0,4,10:07 PM,0:00,,,,91 - 103,12

@@ -1,0 +1,465 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020200660,0,12,0,1,7:45 PM,12:00,,,,,
+0020200660,1,10,0,1,7:46 PM,12:00,Jump Ball Ratliff vs. Ilgauskas: Tip to Parker,,,,
+0020200660,2,2,5,1,7:47 PM,11:45,Ratliff BLOCK (1 BLK),,MISS Ilgauskas  Layup,,
+0020200660,3,4,0,1,7:47 PM,11:42,Abdur-Rahim REBOUND (Off:0 Def:1),,,,
+0020200660,4,1,1,1,7:47 PM,11:35,Robinson 15' Jump Shot (2 PTS),,,0 - 2,2
+0020200660,5,6,2,1,7:47 PM,11:23,Terry S.FOUL (P1.T1),,,,
+0020200660,6,3,11,1,7:48 PM,11:23,,,Parker Free Throw 1 of 2 (1 PTS),1 - 2,1
+0020200660,7,3,12,1,7:48 PM,11:23,,,Parker Free Throw 2 of 2 (2 PTS),2 - 2,TIE
+0020200660,8,6,2,1,7:48 PM,11:08,,,Davis S.FOUL (P1.T1),,
+0020200660,9,3,11,1,7:48 PM,11:08,Ratliff Free Throw 1 of 2 (1 PTS),,,2 - 3,1
+0020200660,10,3,12,1,7:49 PM,11:08,Ratliff Free Throw 2 of 2 (2 PTS),,,2 - 4,2
+0020200660,11,5,2,1,7:49 PM,11:00,,,Ilgauskas Lost Ball Turnover (P1.T1),,
+0020200660,12,1,42,1,7:50 PM,10:46,Glover  Driving Layup (2 PTS),,,2 - 6,4
+0020200660,13,9,2,1,7:50 PM,10:38,,,Cavaliers Timeout: Short (Reg.0 Short 1),,
+0020200660,14,6,2,1,7:51 PM,10:31,Glover S.FOUL (P1.T2),,,,
+0020200660,15,3,11,1,7:51 PM,10:31,,,MISS Davis Free Throw 1 of 2,,
+0020200660,16,4,1,1,7:51 PM,10:31,,,Cavaliers Rebound,,
+0020200660,17,3,12,1,7:51 PM,10:31,,,Davis Free Throw 2 of 2 (1 PTS),3 - 6,3
+0020200660,18,1,1,1,7:52 PM,10:15,Terry  3PT Jump Shot (3 PTS) (Robinson 1 AST),,,3 - 9,6
+0020200660,19,5,2,1,7:52 PM,10:03,Ratliff STEAL (1 STL),,Ilgauskas Lost Ball Turnover (P2.T2),,
+0020200660,20,2,1,1,7:52 PM,9:57,MISS Abdur-Rahim 26' 3PT Jump Shot,,,,
+0020200660,21,4,0,1,7:52 PM,9:55,,,Parker REBOUND (Off:0 Def:1),,
+0020200660,22,6,1,1,7:53 PM,9:38,Abdur-Rahim P.FOUL (P1.T3),,,,
+0020200660,23,3,11,1,7:53 PM,9:38,,,Ilgauskas Free Throw 1 of 2 (1 PTS),4 - 9,5
+0020200660,24,3,12,1,7:53 PM,9:38,,,Ilgauskas Free Throw 2 of 2 (2 PTS),5 - 9,4
+0020200660,25,1,1,1,7:53 PM,9:25,Robinson 15' Jump Shot (4 PTS),,,5 - 11,6
+0020200660,26,1,7,1,7:53 PM,9:19,,,Miles  Dunk (2 PTS) (Parker 1 AST),7 - 11,4
+0020200660,27,5,2,1,7:54 PM,9:13,Terry Lost Ball Turnover (P1.T1),,Parker STEAL (1 STL),,
+0020200660,28,2,1,1,7:54 PM,9:07,,,MISS Miles 25' 3PT Jump Shot,,
+0020200660,29,4,0,1,7:54 PM,9:05,,,Ilgauskas REBOUND (Off:1 Def:0),,
+0020200660,30,2,5,1,7:54 PM,9:02,,,MISS Ilgauskas  Layup,,
+0020200660,31,4,0,1,7:54 PM,9:01,,,Cavaliers Rebound,,
+0020200660,32,5,1,1,7:54 PM,8:59,Terry STEAL (1 STL),,Miles Bad Pass Turnover (P1.T3),,
+0020200660,33,1,42,1,7:54 PM,8:55,Terry  Driving Layup (5 PTS),,,7 - 13,6
+0020200660,35,2,1,1,7:55 PM,8:32,,,MISS Parker 25' 3PT Jump Shot,,
+0020200660,36,4,0,1,7:55 PM,8:30,,,Boozer REBOUND (Off:1 Def:0),,
+0020200660,37,1,5,1,7:55 PM,8:20,,,Ilgauskas  Layup (4 PTS) (Miles 1 AST),9 - 13,4
+0020200660,38,2,1,1,7:55 PM,8:09,MISS Robinson 16' Jump Shot,,,,
+0020200660,39,4,0,1,7:55 PM,8:06,,,Boozer REBOUND (Off:1 Def:1),,
+0020200660,40,1,1,1,7:55 PM,7:59,,,Ilgauskas 15' Jump Shot (6 PTS) (Parker 2 AST),11 - 13,2
+0020200660,41,5,1,1,7:56 PM,7:37,Robinson Bad Pass Turnover (P1.T2),,,,
+0020200660,42,5,1,1,7:56 PM,7:29,Ratliff STEAL (2 STL),,Parker Bad Pass Turnover (P1.T4),,
+0020200660,44,2,1,1,7:56 PM,7:23,MISS Terry 19' Jump Shot,,,,
+0020200660,45,4,0,1,7:56 PM,7:23,,,Cavaliers Rebound,,
+0020200660,46,2,5,1,7:56 PM,7:08,,,MISS Miles  Layup,,
+0020200660,47,4,0,1,7:56 PM,7:07,Terry REBOUND (Off:0 Def:1),,,,
+0020200660,48,1,5,1,7:56 PM,7:02,Robinson  Layup (6 PTS) (Terry 1 AST),,,11 - 15,4
+0020200660,49,1,1,1,7:57 PM,6:45,,,Miles 18' Jump Shot (4 PTS),13 - 15,2
+0020200660,50,2,5,1,7:57 PM,6:34,MISS Glover  Layup,,Ilgauskas BLOCK (1 BLK),,
+0020200660,51,4,0,1,7:57 PM,6:31,,,Davis REBOUND (Off:0 Def:1),,
+0020200660,52,1,7,1,7:57 PM,6:29,,,Davis  Dunk (3 PTS) (Parker 3 AST),15 - 15,TIE
+0020200660,53,5,1,1,7:57 PM,6:25,Terry Bad Pass Turnover (P2.T3),,,,
+0020200660,54,9,1,1,7:57 PM,6:25,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0020200660,55,8,0,1,8:00 PM,6:25,,,SUB: Jones FOR Miles,,
+0020200660,56,1,7,1,8:00 PM,6:09,,,Boozer  Dunk (2 PTS) (Ilgauskas 1 AST),17 - 15,-2
+0020200660,57,1,1,1,8:01 PM,5:45,Ratliff 13' Jump Shot (4 PTS) (Abdur-Rahim 1 AST),,,17 - 17,TIE
+0020200660,58,2,5,1,8:01 PM,5:33,Ratliff BLOCK (2 BLK),,MISS Boozer  Layup,,
+0020200660,59,4,0,1,8:01 PM,5:30,Abdur-Rahim REBOUND (Off:0 Def:2),,,,
+0020200660,60,1,5,1,8:01 PM,5:27,Glover  Layup (4 PTS) (Terry 2 AST),,,17 - 19,2
+0020200660,61,5,1,1,8:01 PM,5:07,,,Davis Bad Pass Turnover (P1.T5),,
+0020200660,62,8,0,1,8:01 PM,5:07,SUB: Henderson FOR Abdur-Rahim,,,,
+0020200660,63,8,0,1,8:01 PM,5:07,SUB: Mohammed FOR Ratliff,,,,
+0020200660,64,2,56,1,8:02 PM,4:53,MISS Robinson 7' Running Hook Shot,,,,
+0020200660,65,4,0,1,8:02 PM,4:48,,,Davis REBOUND (Off:0 Def:2),,
+0020200660,66,2,1,1,8:02 PM,4:45,,,MISS Jones 21' Jump Shot,,
+0020200660,68,4,0,1,8:02 PM,4:42,,,Boozer REBOUND (Off:2 Def:1),,
+0020200660,67,2,4,1,8:02 PM,4:42,,,MISS Boozer  Tip Shot,,
+0020200660,69,4,0,1,8:02 PM,4:40,Mohammed REBOUND (Off:0 Def:1),,,,
+0020200660,70,1,1,1,8:02 PM,4:33,Robinson 13' Jump Shot (8 PTS) (Terry 3 AST),,,17 - 21,4
+0020200660,72,5,2,1,8:03 PM,4:03,Mohammed STEAL (1 STL),,Davis Lost Ball Turnover (P2.T6),,
+0020200660,73,5,1,1,8:03 PM,3:53,Robinson Bad Pass Turnover (P2.T4),,Davis STEAL (1 STL),,
+0020200660,74,1,7,1,8:03 PM,3:48,,,Parker  Dunk (4 PTS),19 - 21,2
+0020200660,75,2,1,1,8:03 PM,3:39,MISS Terry 25' 3PT Jump Shot,,,,
+0020200660,76,4,0,1,8:03 PM,3:36,,,Boozer REBOUND (Off:2 Def:2),,
+0020200660,77,1,1,1,8:03 PM,3:24,,,Ilgauskas 13' Jump Shot (8 PTS) (Parker 4 AST),21 - 21,TIE
+0020200660,78,2,1,1,8:04 PM,3:04,MISS Terry 20' Jump Shot,,,,
+0020200660,79,4,0,1,8:04 PM,3:02,,,Ilgauskas REBOUND (Off:1 Def:1),,
+0020200660,80,2,1,1,8:04 PM,2:57,,,MISS Davis 7' Jump Shot,,
+0020200660,81,4,0,1,8:04 PM,2:55,,,Jones REBOUND (Off:1 Def:0),,
+0020200660,82,6,4,1,8:04 PM,2:43,,,Boozer OFF.Foul (P1),,
+0020200660,83,5,5,1,8:04 PM,2:43,,,Boozer Foul Turnover (P1.T7),,
+0020200660,84,8,0,1,8:04 PM,2:43,SUB: Dickau FOR Terry,,,,
+0020200660,85,9,1,1,8:04 PM,2:43,,,Cavaliers Timeout: Regular (Reg.1 Short 1),,
+0020200660,86,8,0,1,8:06 PM,2:43,,,SUB: Diop FOR Ilgauskas,,
+0020200660,87,1,1,1,8:07 PM,2:35,Robinson 25' 3PT Jump Shot (11 PTS) (Glover 1 AST),,,21 - 24,3
+0020200660,88,6,1,1,8:07 PM,2:24,Henderson P.FOUL (P1.T4),,,,
+0020200660,89,6,1,1,8:07 PM,2:16,Henderson P.FOUL (P2.PN),,,,
+0020200660,90,3,11,1,8:08 PM,2:16,,,Davis Free Throw 1 of 2 (4 PTS),22 - 24,2
+0020200660,91,3,12,1,8:08 PM,2:16,,,Davis Free Throw 2 of 2 (5 PTS),23 - 24,1
+0020200660,92,2,3,1,8:08 PM,2:06,MISS Robinson 10' Hook Shot,,,,
+0020200660,93,4,0,1,8:08 PM,2:02,,,Davis REBOUND (Off:0 Def:3),,
+0020200660,94,1,1,1,8:08 PM,1:54,,,Boozer 10' Jump Shot (4 PTS) (Diop 1 AST),25 - 24,-1
+0020200660,95,1,1,1,8:09 PM,1:40,Mohammed 17' Jump Shot (2 PTS) (Glover 2 AST),,,25 - 26,1
+0020200660,96,8,0,1,8:09 PM,1:31,SUB: Benjamin FOR Glover,,,,
+0020200660,97,8,0,1,8:09 PM,1:31,SUB: Abdur-Rahim FOR Robinson,,,,
+0020200660,98,8,0,1,8:09 PM,1:31,,,SUB: Wagner FOR Parker,,
+0020200660,99,5,1,1,8:09 PM,1:25,,,Davis Bad Pass Turnover (P3.T8),,
+0020200660,100,6,1,1,8:10 PM,1:11,,,Diop P.FOUL (P1.T2),,
+0020200660,101,5,1,1,8:10 PM,1:03,Abdur-Rahim Bad Pass Turnover (P1.T5),,Wagner STEAL (1 STL),,
+0020200660,102,1,7,1,8:10 PM,0:58,,,Jones  Dunk (2 PTS) (Wagner 1 AST),27 - 26,-1
+0020200660,103,1,1,1,8:10 PM,0:46,Abdur-Rahim 20' Jump Shot (2 PTS) (Dickau 1 AST),,,27 - 28,1
+0020200660,104,2,1,1,8:11 PM,0:38,,,MISS Wagner 13' Jump Shot,,
+0020200660,105,4,0,1,8:11 PM,0:36,Mohammed REBOUND (Off:0 Def:2),,,,
+0020200660,106,1,1,1,8:11 PM,0:27,Henderson 14' Jump Shot (2 PTS) (Dickau 2 AST),,,27 - 30,3
+0020200660,108,2,1,1,8:11 PM,0:02,,,MISS Davis 21' Jump Shot,,
+0020200660,109,4,0,1,8:11 PM,0:00,Henderson REBOUND (Off:0 Def:1),,,,
+0020200660,110,13,0,1,8:11 PM,0:00,,,,27 - 30,3
+0020200660,112,12,0,2,8:14 PM,12:00,,,,27 - 30,3
+0020200660,113,2,1,2,8:15 PM,11:39,MISS Dickau 26' 3PT Jump Shot,,,,
+0020200660,114,4,0,2,8:15 PM,11:38,Benjamin REBOUND (Off:1 Def:0),,,,
+0020200660,115,6,2,2,8:15 PM,11:38,,,Mihm S.FOUL (P1.T1),,
+0020200660,116,3,11,2,8:15 PM,11:38,Benjamin Free Throw 1 of 2 (1 PTS),,,27 - 31,4
+0020200660,117,3,12,2,8:15 PM,11:38,MISS Benjamin Free Throw 2 of 2,,,,
+0020200660,118,4,0,2,8:15 PM,11:38,,,Jones REBOUND (Off:1 Def:1),,
+0020200660,119,1,1,2,8:16 PM,11:19,,,Wagner 17' Jump Shot (2 PTS) (Davis 1 AST),29 - 31,2
+0020200660,120,2,1,2,8:16 PM,11:07,MISS Henderson 15' Jump Shot,,,,
+0020200660,121,4,0,2,8:16 PM,11:05,Abdur-Rahim REBOUND (Off:1 Def:2),,,,
+0020200660,122,6,2,2,8:16 PM,11:04,,,Diop S.FOUL (P2.T2),,
+0020200660,124,3,11,2,8:16 PM,11:04,Abdur-Rahim Free Throw 1 of 2 (3 PTS),,,29 - 32,3
+0020200660,125,3,12,2,8:17 PM,11:04,Abdur-Rahim Free Throw 2 of 2 (4 PTS),,,29 - 33,4
+0020200660,126,2,1,2,8:17 PM,10:52,,,MISS Jones 24' 3PT Jump Shot,,
+0020200660,127,4,0,2,8:17 PM,10:51,Henderson REBOUND (Off:0 Def:2),,,,
+0020200660,128,2,1,2,8:18 PM,10:31,MISS Mohammed 11' Jump Shot,,,,
+0020200660,129,4,0,2,8:18 PM,10:28,,,Mihm REBOUND (Off:0 Def:1),,
+0020200660,130,1,1,2,8:18 PM,10:20,,,Davis 11' Jump Shot (7 PTS),31 - 33,2
+0020200660,131,2,5,2,8:18 PM,9:54,MISS Mohammed  Layup,,Diop BLOCK (1 BLK),,
+0020200660,132,4,0,2,8:18 PM,9:52,Benjamin REBOUND (Off:2 Def:0),,,,
+0020200660,134,5,11,2,8:18 PM,9:51,HAWKS Turnover: Shot Clock (T#6),,,,
+0020200660,136,5,1,2,8:19 PM,9:33,,,Davis Bad Pass Turnover (P4.T9),,
+0020200660,137,6,2,2,8:19 PM,9:30,,,Davis S.FOUL (P2.T3),,
+0020200660,138,3,11,2,8:19 PM,9:30,Benjamin Free Throw 1 of 2 (2 PTS),,,31 - 34,3
+0020200660,139,8,0,2,8:19 PM,9:30,,,SUB: Palacio FOR Davis,,
+0020200660,140,3,12,2,8:19 PM,9:30,Benjamin Free Throw 2 of 2 (3 PTS),,,31 - 35,4
+0020200660,141,2,1,2,8:20 PM,9:10,,,MISS Mihm 11' Jump Shot,,
+0020200660,142,4,0,2,8:20 PM,9:08,,,Jones REBOUND (Off:2 Def:1),,
+0020200660,143,2,1,2,8:20 PM,8:56,,,MISS Wagner 25' 3PT Jump Shot,,
+0020200660,144,4,0,2,8:20 PM,8:53,Benjamin REBOUND (Off:2 Def:1),,,,
+0020200660,145,1,42,2,8:20 PM,8:48,Benjamin  Driving Layup (5 PTS),,,31 - 37,6
+0020200660,146,2,1,2,8:21 PM,8:31,,,MISS Jones 17' Jump Shot,,
+0020200660,147,4,0,2,8:21 PM,8:29,Mohammed REBOUND (Off:0 Def:3),,,,
+0020200660,148,2,1,2,8:21 PM,8:24,MISS Benjamin 18' Jump Shot,,,,
+0020200660,149,4,0,2,8:21 PM,8:22,,,Mihm REBOUND (Off:0 Def:2),,
+0020200660,150,2,1,2,8:21 PM,8:14,,,MISS Wagner 23' Jump Shot,,
+0020200660,151,4,0,2,8:21 PM,8:12,,,Jones REBOUND (Off:3 Def:1),,
+0020200660,152,5,1,2,8:21 PM,8:04,Mohammed STEAL (2 STL),,Diop Bad Pass Turnover (P1.T10),,
+0020200660,153,6,2,2,8:21 PM,7:54,,,Mihm S.FOUL (P2.T4),,
+0020200660,154,9,4,2,8:21 PM,7:54,,,,,
+0020200660,156,8,0,2,8:23 PM,7:54,SUB: Robinson FOR Abdur-Rahim,,,,
+0020200660,157,8,0,2,8:23 PM,7:54,SUB: Ratliff FOR Henderson,,,,
+0020200660,158,3,11,2,8:24 PM,7:54,MISS Mohammed Free Throw 1 of 2,,,,
+0020200660,159,4,1,2,8:24 PM,7:54,HAWKS Rebound,,,,
+0020200660,160,3,12,2,8:24 PM,7:54,MISS Mohammed Free Throw 2 of 2,,,,
+0020200660,161,4,0,2,8:24 PM,7:52,,,Jones REBOUND (Off:3 Def:2),,
+0020200660,162,2,1,2,8:24 PM,7:38,,,MISS Jones 18' Jump Shot,,
+0020200660,163,4,0,2,8:24 PM,7:36,Benjamin REBOUND (Off:2 Def:2),,,,
+0020200660,164,2,1,2,8:25 PM,7:30,MISS Robinson 24' 3PT Jump Shot,,,,
+0020200660,165,4,0,2,8:25 PM,7:27,,,Wagner REBOUND (Off:0 Def:1),,
+0020200660,166,2,5,2,8:25 PM,7:21,,,MISS Wagner  Layup,,
+0020200660,167,4,0,2,8:25 PM,7:20,,,Jones REBOUND (Off:4 Def:2),,
+0020200660,168,2,1,2,8:25 PM,7:17,,,MISS Jones 17' Jump Shot,,
+0020200660,169,4,0,2,8:25 PM,7:16,Benjamin REBOUND (Off:2 Def:3),,,,
+0020200660,170,6,2,2,8:25 PM,7:02,,,Wagner S.FOUL (P1.PN),,
+0020200660,171,8,0,2,8:25 PM,7:02,,,SUB: Stewart FOR Diop,,
+0020200660,172,3,11,2,8:25 PM,7:02,Benjamin Free Throw 1 of 2 (6 PTS),,,31 - 38,7
+0020200660,173,8,0,2,8:26 PM,7:02,,,SUB: Miles FOR Jones,,
+0020200660,174,3,12,2,8:26 PM,7:02,Benjamin Free Throw 2 of 2 (7 PTS),,,31 - 39,8
+0020200660,175,2,1,2,8:26 PM,6:50,Benjamin BLOCK (1 BLK),,MISS Wagner 18' Jump Shot,,
+0020200660,176,4,0,2,8:26 PM,6:43,Mohammed REBOUND (Off:0 Def:4),,,,
+0020200660,177,2,1,2,8:27 PM,6:29,MISS Benjamin  3PT Jump Shot,,,,
+0020200660,178,4,0,2,8:27 PM,6:26,,,Mihm REBOUND (Off:0 Def:3),,
+0020200660,179,6,1,2,8:27 PM,6:25,Ratliff P.FOUL (P1.T1),,,,
+0020200660,181,6,2,2,8:27 PM,6:21,Mohammed S.FOUL (P1.T2),,,,
+0020200660,182,3,11,2,8:27 PM,6:21,,,Wagner Free Throw 1 of 2 (3 PTS),32 - 39,7
+0020200660,183,3,12,2,8:28 PM,6:21,,,Wagner Free Throw 2 of 2 (4 PTS),33 - 39,6
+0020200660,184,6,1,2,8:28 PM,6:12,,,Palacio P.FOUL (P1.PN),,
+0020200660,185,3,11,2,8:28 PM,6:12,Dickau Free Throw 1 of 2 (1 PTS),,,33 - 40,7
+0020200660,186,8,0,2,8:28 PM,6:12,SUB: Glover FOR Benjamin,,,,
+0020200660,187,3,12,2,8:28 PM,6:12,Dickau Free Throw 2 of 2 (2 PTS),,,33 - 41,8
+0020200660,188,1,1,2,8:29 PM,5:58,,,Mihm 18' Jump Shot (2 PTS) (Stewart 1 AST),35 - 41,6
+0020200660,189,2,5,2,8:29 PM,5:48,MISS Dickau  Layup,,Stewart BLOCK (1 BLK),,
+0020200660,190,4,0,2,8:29 PM,5:46,,,Mihm REBOUND (Off:0 Def:4),,
+0020200660,191,2,5,2,8:29 PM,5:42,,,MISS Miles  Layup,,
+0020200660,192,4,0,2,8:29 PM,5:41,Mohammed REBOUND (Off:0 Def:5),,,,
+0020200660,193,2,5,2,8:29 PM,5:33,MISS Dickau  Layup,,,,
+0020200660,194,4,0,2,8:29 PM,5:29,,,Miles REBOUND (Off:0 Def:1),,
+0020200660,195,6,1,2,8:29 PM,5:21,Glover P.FOUL (P2.T3),,,,
+0020200660,197,9,1,2,8:30 PM,5:21,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0020200660,198,8,0,2,8:31 PM,5:21,SUB: Abdur-Rahim FOR Mohammed,,,,
+0020200660,199,8,0,2,8:31 PM,5:21,SUB: Terry FOR Dickau,,,,
+0020200660,200,2,1,2,8:32 PM,5:15,,,MISS Wagner 25' 3PT Jump Shot,,
+0020200660,201,4,0,2,8:32 PM,5:13,,,Stewart REBOUND (Off:1 Def:0),,
+0020200660,202,1,1,2,8:32 PM,5:05,,,Miles 19' Jump Shot (6 PTS),37 - 41,4
+0020200660,203,1,1,2,8:32 PM,4:43,Robinson 17' Jump Shot (13 PTS),,,37 - 43,6
+0020200660,204,1,1,2,8:32 PM,4:25,,,Miles 6' Jump Shot (8 PTS),39 - 43,4
+0020200660,205,1,1,2,8:33 PM,4:08,Ratliff 12' Jump Shot (6 PTS) (Terry 4 AST),,,39 - 45,6
+0020200660,206,5,1,2,8:33 PM,3:53,Robinson STEAL (1 STL),,Palacio Bad Pass Turnover (P1.T11),,
+0020200660,207,6,2,2,8:33 PM,3:49,,,Stewart S.FOUL (P1.PN),,
+0020200660,208,8,0,2,8:33 PM,3:49,,,SUB: Boozer FOR Mihm,,
+0020200660,209,8,0,2,8:33 PM,3:49,,,SUB: Ilgauskas FOR Palacio,,
+0020200660,210,8,0,2,8:33 PM,3:49,,,SUB: Davis FOR Stewart,,
+0020200660,211,3,11,2,8:33 PM,3:49,MISS Glover Free Throw 1 of 2,,,,
+0020200660,212,4,1,2,8:33 PM,3:49,HAWKS Rebound,,,,
+0020200660,213,3,12,2,8:34 PM,3:49,Glover Free Throw 2 of 2 (5 PTS),,,39 - 46,7
+0020200660,215,5,2,2,8:34 PM,3:43,,,Davis Lost Ball Turnover (P5.T12),,
+0020200660,217,2,1,2,8:35 PM,3:26,MISS Glover  3PT Jump Shot,,,,
+0020200660,218,4,0,2,8:35 PM,3:24,,,Miles REBOUND (Off:0 Def:2),,
+0020200660,219,6,1,2,8:35 PM,3:21,Robinson P.FOUL (P1.T4),,,,
+0020200660,220,2,1,2,8:35 PM,3:16,Robinson BLOCK (1 BLK),,MISS Davis 19' Jump Shot,,
+0020200660,221,4,0,2,8:35 PM,3:14,,,Boozer REBOUND (Off:3 Def:2),,
+0020200660,222,6,1,2,8:35 PM,3:14,Ratliff P.FOUL (P2.PN),,,,
+0020200660,223,3,11,2,8:35 PM,3:14,,,Ilgauskas Free Throw 1 of 2 (9 PTS),40 - 46,6
+0020200660,224,3,12,2,8:36 PM,3:14,,,Ilgauskas Free Throw 2 of 2 (10 PTS),41 - 46,5
+0020200660,225,2,1,2,8:36 PM,3:00,MISS Terry 18' Jump Shot,,,,
+0020200660,226,4,0,2,8:36 PM,2:59,,,Boozer REBOUND (Off:3 Def:3),,
+0020200660,227,1,46,2,8:36 PM,2:42,,,Wagner 8' Running Jump Shot (6 PTS),43 - 46,3
+0020200660,228,5,1,2,8:37 PM,2:22,Ratliff Bad Pass Turnover (P1.T7),,Davis STEAL (2 STL),,
+0020200660,229,5,2,2,8:37 PM,2:11,Glover STEAL (1 STL),,Davis Lost Ball Turnover (P6.T13),,
+0020200660,230,2,5,2,8:37 PM,1:55,MISS Terry  Layup,,,,
+0020200660,231,4,0,2,8:37 PM,1:54,Terry REBOUND (Off:1 Def:1),,,,
+0020200660,232,1,1,2,8:37 PM,1:51,Robinson 25' 3PT Jump Shot (16 PTS) (Terry 5 AST),,,43 - 49,6
+0020200660,234,5,1,2,8:37 PM,1:34,Glover STEAL (2 STL),,Davis Bad Pass Turnover (P7.T14),,
+0020200660,235,2,5,2,8:38 PM,1:21,MISS Glover  Layup,,Ilgauskas BLOCK (2 BLK),,
+0020200660,236,4,0,2,8:38 PM,1:20,Ratliff REBOUND (Off:1 Def:0),,,,
+0020200660,237,6,2,2,8:38 PM,1:20,,,Ilgauskas S.FOUL (P1.PN),,
+0020200660,239,9,1,2,8:38 PM,1:20,,,Cavaliers Timeout: Regular (Reg.2 Short 1),,
+0020200660,240,3,11,2,8:40 PM,1:20,MISS Ratliff Free Throw 1 of 2,,,,
+0020200660,241,4,1,2,8:40 PM,1:20,HAWKS Rebound,,,,
+0020200660,242,3,12,2,8:40 PM,1:20,Ratliff Free Throw 2 of 2 (7 PTS),,,43 - 50,7
+0020200660,243,1,5,2,8:41 PM,1:04,,,Miles  Layup (10 PTS) (Davis 2 AST),45 - 50,5
+0020200660,244,2,1,2,8:41 PM,0:49,MISS Robinson 25' 3PT Jump Shot,,,,
+0020200660,245,4,0,2,8:41 PM,0:48,HAWKS Rebound,,,,
+0020200660,246,2,5,2,8:41 PM,0:40,MISS Ratliff  Layup,,Davis BLOCK (1 BLK),,
+0020200660,247,4,0,2,8:41 PM,0:38,Glover REBOUND (Off:1 Def:0),,,,
+0020200660,253,5,1,2,8:41 PM,0:38,Glover Bad Pass Turnover (P1.T8),,Davis STEAL (3 STL),,
+0020200660,248,5,1,2,8:42 PM,0:37,,,Davis Bad Pass Turnover (P8.T15),,
+0020200660,249,8,0,2,8:42 PM,0:37,,,SUB: Jones FOR Davis,,
+0020200660,250,1,7,2,8:42 PM,0:21,Ratliff  Dunk (9 PTS) (Abdur-Rahim 2 AST),,,45 - 52,7
+0020200660,251,5,1,2,8:43 PM,0:05,,,Wagner Bad Pass Turnover (P1.T16),,
+0020200660,252,9,2,2,8:43 PM,0:05,HAWKS Timeout: Short (Full 2 Short 1),,,,
+0020200660,255,8,0,2,8:44 PM,0:04,SUB: Henderson FOR Ratliff,,,,
+0020200660,256,2,1,2,8:44 PM,0:00,MISS Abdur-Rahim 18' Jump Shot,,,,
+0020200660,257,4,0,2,8:44 PM,0:00,,,Cavaliers Rebound,,
+0020200660,258,13,0,2,8:44 PM,0:00,,,,45 - 52,7
+0020200660,260,12,0,3,9:00 PM,12:00,,,,45 - 52,7
+0020200660,261,2,1,3,9:01 PM,11:45,MISS Ratliff 10' Jump Shot,,,,
+0020200660,262,4,0,3,9:01 PM,11:42,Glover REBOUND (Off:2 Def:0),,,,
+0020200660,263,2,1,3,9:01 PM,11:33,MISS Robinson 8' Jump Shot,,,,
+0020200660,264,4,0,3,9:01 PM,11:32,,,Boozer REBOUND (Off:3 Def:4),,
+0020200660,265,2,1,3,9:01 PM,11:23,,,MISS Parker 10' Jump Shot,,
+0020200660,266,4,0,3,9:01 PM,11:22,Abdur-Rahim REBOUND (Off:1 Def:3),,,,
+0020200660,267,1,1,3,9:01 PM,11:08,Abdur-Rahim 5' Jump Shot (6 PTS),,,45 - 54,9
+0020200660,268,2,1,3,9:02 PM,10:45,,,MISS Davis 21' Jump Shot,,
+0020200660,269,4,0,3,9:02 PM,10:43,Ratliff REBOUND (Off:1 Def:1),,,,
+0020200660,270,2,1,3,9:02 PM,10:35,MISS Abdur-Rahim 19' Jump Shot,,,,
+0020200660,271,4,0,3,9:02 PM,10:33,,,Miles REBOUND (Off:0 Def:3),,
+0020200660,272,5,2,3,9:02 PM,10:26,Glover STEAL (3 STL),,Miles Lost Ball Turnover (P2.T17),,
+0020200660,273,5,1,3,9:02 PM,10:22,Glover Bad Pass Turnover (P2.T9),,,,
+0020200660,275,6,1,3,9:03 PM,10:11,Terry P.FOUL (P2.T1),,,,
+0020200660,276,2,1,3,9:03 PM,10:02,,,MISS Miles 16' Jump Shot,,
+0020200660,277,4,0,3,9:03 PM,10:00,Robinson REBOUND (Off:0 Def:1),,,,
+0020200660,278,6,2,3,9:03 PM,9:54,,,Miles S.FOUL (P1.T1),,
+0020200660,279,3,11,3,9:03 PM,9:54,MISS Abdur-Rahim Free Throw 1 of 2,,,,
+0020200660,280,4,1,3,9:03 PM,9:54,HAWKS Rebound,,,,
+0020200660,281,3,12,3,9:04 PM,9:54,Abdur-Rahim Free Throw 2 of 2 (7 PTS),,,45 - 55,10
+0020200660,282,1,7,3,9:04 PM,9:44,,,Boozer  Dunk (6 PTS) (Davis 3 AST),47 - 55,8
+0020200660,283,5,1,3,9:04 PM,9:33,Abdur-Rahim Bad Pass Turnover (P2.T10),,Davis STEAL (4 STL),,
+0020200660,284,1,7,3,9:04 PM,9:29,,,Davis  Dunk (9 PTS),49 - 55,6
+0020200660,285,1,46,3,9:05 PM,9:12,Abdur-Rahim 4' Running Jump Shot (9 PTS) (Terry 6 AST),,,49 - 57,8
+0020200660,286,6,2,3,9:05 PM,9:12,,,Ilgauskas S.FOUL (P2.T2),,
+0020200660,287,3,10,3,9:05 PM,9:12,Abdur-Rahim Free Throw 1 of 1 (10 PTS),,,49 - 58,9
+0020200660,288,1,61,3,9:05 PM,9:00,,,Boozer  Driving Finger Roll (8 PTS),51 - 58,7
+0020200660,289,5,1,3,9:06 PM,8:45,Robinson Bad Pass Turnover (P3.T11),,,,
+0020200660,290,1,1,3,9:06 PM,8:25,,,Ilgauskas 18' Jump Shot (12 PTS),53 - 58,5
+0020200660,291,5,4,3,9:06 PM,8:07,Glover Traveling Turnover (P3.T12),,,,
+0020200660,292,2,1,3,9:07 PM,7:48,,,MISS Davis 14' Jump Shot,,
+0020200660,293,4,0,3,9:07 PM,7:47,,,Boozer REBOUND (Off:4 Def:4),,
+0020200660,294,2,5,3,9:08 PM,7:28,,,MISS Boozer  Layup,,
+0020200660,295,4,0,3,9:08 PM,7:27,Abdur-Rahim REBOUND (Off:1 Def:4),,,,
+0020200660,296,2,1,3,9:08 PM,7:07,MISS Robinson 17' Jump Shot,,,,
+0020200660,297,4,0,3,9:08 PM,7:06,Abdur-Rahim REBOUND (Off:2 Def:4),,,,
+0020200660,298,9,1,3,9:08 PM,7:01,HAWKS Timeout: Regular (Full 3 Short 1),,,,
+0020200660,300,2,1,3,9:11 PM,6:47,MISS Abdur-Rahim 12' Jump Shot,,,,
+0020200660,301,4,0,3,9:11 PM,6:45,,,Davis REBOUND (Off:0 Def:4),,
+0020200660,302,2,1,3,9:11 PM,6:37,,,MISS Ilgauskas 8' Jump Shot,,
+0020200660,303,4,0,3,9:11 PM,6:36,Ratliff REBOUND (Off:1 Def:2),,,,
+0020200660,304,1,1,3,9:11 PM,6:27,Terry  3PT Jump Shot (8 PTS) (Glover 3 AST),,,53 - 61,8
+0020200660,305,2,1,3,9:12 PM,6:02,,,MISS Davis 16' Jump Shot,,
+0020200660,306,4,0,3,9:12 PM,6:01,Ratliff REBOUND (Off:1 Def:3),,,,
+0020200660,307,2,1,3,9:12 PM,5:46,MISS Robinson 26' 3PT Jump Shot,,,,
+0020200660,308,4,0,3,9:12 PM,5:43,Abdur-Rahim REBOUND (Off:3 Def:4),,,,
+0020200660,309,2,1,3,9:12 PM,5:39,MISS Robinson 7' Jump Shot,,,,
+0020200660,310,4,0,3,9:12 PM,5:36,,,Boozer REBOUND (Off:4 Def:5),,
+0020200660,311,1,7,3,9:12 PM,5:31,,,Ilgauskas  Dunk (14 PTS) (Parker 5 AST),55 - 61,6
+0020200660,313,2,1,3,9:13 PM,5:06,MISS Terry 26' 3PT Jump Shot,,,,
+0020200660,314,4,0,3,9:13 PM,5:05,Robinson REBOUND (Off:1 Def:1),,,,
+0020200660,315,1,7,3,9:13 PM,5:03,Ratliff  Dunk (11 PTS) (Robinson 2 AST),,,55 - 63,8
+0020200660,316,2,1,3,9:13 PM,4:43,,,MISS Ilgauskas 6' Jump Shot,,
+0020200660,318,4,0,3,9:13 PM,4:41,,,Boozer REBOUND (Off:5 Def:5),,
+0020200660,317,1,4,3,9:13 PM,4:41,,,Boozer  Tip Shot (10 PTS),57 - 63,6
+0020200660,319,5,8,3,9:14 PM,4:16,Ratliff 3 Second Violation Turnover (P2.T13),,,,
+0020200660,320,8,0,3,9:14 PM,4:16,SUB: Henderson FOR Ratliff,,,,
+0020200660,321,8,0,3,9:14 PM,4:16,SUB: Mohammed FOR Abdur-Rahim,,,,
+0020200660,322,1,1,3,9:14 PM,4:00,,,Ilgauskas 17' Jump Shot (16 PTS) (Davis 4 AST),59 - 63,4
+0020200660,323,2,1,3,9:14 PM,3:47,MISS Robinson 17' Jump Shot,,Miles BLOCK (1 BLK),,
+0020200660,324,4,0,3,9:15 PM,3:44,,,Miles REBOUND (Off:0 Def:4),,
+0020200660,325,1,7,3,9:15 PM,3:41,,,Boozer  Dunk (12 PTS) (Miles 2 AST),61 - 63,2
+0020200660,326,1,1,3,9:15 PM,3:17,Henderson 13' Jump Shot (4 PTS) (Glover 4 AST),,,61 - 65,4
+0020200660,327,6,1,3,9:15 PM,3:03,Mohammed P.FOUL (P2.T2),,,,
+0020200660,328,8,0,3,9:15 PM,3:03,SUB: Benjamin FOR Glover,,,,
+0020200660,329,2,1,3,9:16 PM,2:55,,,MISS Boozer 15' Jump Shot,,
+0020200660,330,4,0,3,9:16 PM,2:54,Robinson REBOUND (Off:1 Def:2),,,,
+0020200660,331,1,3,3,9:16 PM,2:43,Henderson 5' Hook Shot (6 PTS),,,61 - 67,6
+0020200660,332,6,2,3,9:16 PM,2:43,,,Boozer S.FOUL (P2.T3),,
+0020200660,333,9,1,3,9:16 PM,2:43,,,Cavaliers Timeout: Regular (Reg.3 Short 1),,
+0020200660,334,8,0,3,9:18 PM,2:43,SUB: Dickau FOR Terry,,,,
+0020200660,336,3,10,3,9:18 PM,2:43,MISS Henderson Free Throw 1 of 1,,,,
+0020200660,337,4,0,3,9:19 PM,2:41,,,Cavaliers Rebound,,
+0020200660,338,1,46,3,9:19 PM,2:22,,,Davis 4' Running Jump Shot (11 PTS),63 - 67,4
+0020200660,339,1,44,3,9:19 PM,2:04,Henderson  Reverse Layup (8 PTS) (Robinson 3 AST),,,63 - 69,6
+0020200660,340,1,47,3,9:20 PM,1:48,,,Miles 4' Turnaround Jump Shot (12 PTS),65 - 69,4
+0020200660,341,1,7,3,9:20 PM,1:18,Mohammed  Dunk (4 PTS) (Robinson 4 AST),,,65 - 71,6
+0020200660,342,2,1,3,9:20 PM,0:52,,,MISS Boozer 15' Jump Shot,,
+0020200660,343,4,0,3,9:20 PM,0:50,,,Davis REBOUND (Off:1 Def:4),,
+0020200660,344,6,1,3,9:21 PM,0:44,Dickau P.FOUL (P1.T3),,,,
+0020200660,345,8,0,3,9:21 PM,0:44,,,SUB: Jones FOR Miles,,
+0020200660,346,5,1,3,9:21 PM,0:27,Robinson STEAL (2 STL),,Davis Bad Pass Turnover (P9.T18),,
+0020200660,347,1,7,3,9:21 PM,0:23,Mohammed  Dunk (6 PTS) (Robinson 5 AST),,,65 - 73,8
+0020200660,348,6,2,3,9:22 PM,0:11,Mohammed S.FOUL (P3.PN),,,,
+0020200660,349,3,11,3,9:22 PM,0:11,,,MISS Ilgauskas Free Throw 1 of 2,,
+0020200660,350,4,1,3,9:22 PM,0:11,,,Cavaliers Rebound,,
+0020200660,351,8,0,3,9:22 PM,0:11,SUB: Terry FOR Henderson,,,,
+0020200660,352,8,0,3,9:23 PM,0:11,,,SUB: Palacio FOR Boozer,,
+0020200660,353,3,12,3,9:23 PM,0:11,,,Ilgauskas Free Throw 2 of 2 (17 PTS),66 - 73,7
+0020200660,354,6,1,3,9:23 PM,0:03,,,Parker P.FOUL (P1.T4),,
+0020200660,356,2,1,3,9:24 PM,0:01,MISS Terry 15' Jump Shot,,,,
+0020200660,357,4,0,3,9:24 PM,0:00,,,Cavaliers Rebound,,
+0020200660,358,13,0,3,9:24 PM,0:00,,,,66 - 73,7
+0020200660,360,12,0,4,9:26 PM,12:00,,,,66 - 73,7
+0020200660,361,6,2,4,9:27 PM,11:37,Benjamin S.FOUL (P1.T1),,,,
+0020200660,362,3,11,4,9:27 PM,11:37,,,MISS Wagner Free Throw 1 of 2,,
+0020200660,363,4,1,4,9:27 PM,11:37,,,Cavaliers Rebound,,
+0020200660,364,3,12,4,9:27 PM,11:37,,,Wagner Free Throw 2 of 2 (7 PTS),67 - 73,6
+0020200660,365,2,1,4,9:28 PM,11:18,MISS Benjamin 5' Jump Shot,,,,
+0020200660,366,4,0,4,9:28 PM,11:17,,,Mihm REBOUND (Off:0 Def:5),,
+0020200660,367,2,1,4,9:28 PM,11:02,,,MISS Stewart 10' Jump Shot,,
+0020200660,368,4,0,4,9:28 PM,11:02,HAWKS Rebound,,,,
+0020200660,369,6,3,4,9:28 PM,11:02,,,Mihm L.B.FOUL (P3.T1),,
+0020200660,370,7,5,4,9:28 PM,10:57,,,Jones Violation:Kicked Ball,,
+0020200660,371,2,1,4,9:29 PM,10:44,MISS Benjamin 8' Jump Shot,,,,
+0020200660,373,4,0,4,9:29 PM,10:42,Mohammed REBOUND (Off:1 Def:5),,,,
+0020200660,372,1,5,4,9:29 PM,10:42,Mohammed  Layup (8 PTS),,,67 - 75,8
+0020200660,374,1,1,4,9:29 PM,10:27,,,Jones 27' 3PT Jump Shot (5 PTS) (Palacio 1 AST),70 - 75,5
+0020200660,375,1,1,4,9:29 PM,10:12,Robinson 14' Jump Shot (18 PTS) (Dickau 3 AST),,,70 - 77,7
+0020200660,376,5,7,4,9:29 PM,10:06,,,Palacio Discontinue Dribble Turnover (P2.T19),,
+0020200660,377,2,1,4,9:30 PM,9:55,MISS Robinson 15' Jump Shot,,,,
+0020200660,378,4,0,4,9:30 PM,9:54,HAWKS Rebound,,,,
+0020200660,379,6,1,4,9:30 PM,9:54,,,Wagner P.FOUL (P2.T2),,
+0020200660,380,5,2,4,9:30 PM,9:48,Robinson Lost Ball Turnover (P4.T14),,Jones STEAL (1 STL),,
+0020200660,381,2,5,4,9:30 PM,9:42,,,MISS Wagner  Layup,,
+0020200660,382,4,0,4,9:30 PM,9:41,,,Stewart REBOUND (Off:2 Def:0),,
+0020200660,383,1,1,4,9:30 PM,9:38,,,Jones 24' 3PT Jump Shot (8 PTS) (Stewart 2 AST),73 - 77,4
+0020200660,384,6,1,4,9:31 PM,9:19,,,Stewart P.FOUL (P2.T3),,
+0020200660,385,2,1,4,9:31 PM,9:13,MISS Dickau 25' 3PT Jump Shot,,,,
+0020200660,386,4,0,4,9:31 PM,9:13,,,Jones REBOUND (Off:4 Def:3),,
+0020200660,387,6,1,4,9:31 PM,9:13,Robinson P.FOUL (P2.T2),,,,
+0020200660,388,6,2,4,9:32 PM,8:57,Benjamin S.FOUL (P2.T3),,,,
+0020200660,389,9,4,4,9:32 PM,8:57,,,,,
+0020200660,391,8,0,4,9:34 PM,8:57,SUB: Abdur-Rahim FOR Robinson,,,,
+0020200660,392,8,0,4,9:34 PM,8:57,SUB: Terry FOR Benjamin,,,,
+0020200660,394,3,11,4,9:34 PM,8:57,,,Mihm Free Throw 1 of 2 (3 PTS),74 - 77,3
+0020200660,395,3,12,4,9:34 PM,8:57,,,Mihm Free Throw 2 of 2 (4 PTS),75 - 77,2
+0020200660,396,6,2,4,9:35 PM,8:38,,,Stewart S.FOUL (P3.T4),,
+0020200660,397,3,11,4,9:35 PM,8:38,Abdur-Rahim Free Throw 1 of 2 (11 PTS),,,75 - 78,3
+0020200660,398,8,0,4,9:35 PM,8:38,,,SUB: Davis FOR Stewart,,
+0020200660,399,8,0,4,9:36 PM,8:38,,,SUB: Ilgauskas FOR Palacio,,
+0020200660,400,3,12,4,9:36 PM,8:38,Abdur-Rahim Free Throw 2 of 2 (12 PTS),,,75 - 79,4
+0020200660,401,1,1,4,9:36 PM,8:21,,,Davis 20' Jump Shot (13 PTS) (Wagner 2 AST),77 - 79,2
+0020200660,402,2,1,4,9:36 PM,7:55,MISS Henderson 7' Jump Shot,,,,
+0020200660,403,4,0,4,9:36 PM,7:54,,,Ilgauskas REBOUND (Off:1 Def:2),,
+0020200660,404,1,1,4,9:37 PM,7:35,,,Jones 19' Jump Shot (10 PTS),79 - 79,TIE
+0020200660,405,1,1,4,9:37 PM,7:19,Terry 25' 3PT Jump Shot (11 PTS),,,79 - 82,3
+0020200660,406,5,11,4,9:38 PM,6:50,,,Cavaliers Turnover: Shot Clock (T#20),,
+0020200660,407,8,0,4,9:38 PM,6:50,SUB: Glover FOR Dickau,,,,
+0020200660,408,8,0,4,9:38 PM,6:50,SUB: Ratliff FOR Mohammed,,,,
+0020200660,409,2,1,4,9:38 PM,6:33,MISS Abdur-Rahim 16' Jump Shot,,,,
+0020200660,410,4,0,4,9:38 PM,6:32,,,Mihm REBOUND (Off:0 Def:6),,
+0020200660,411,2,1,4,9:38 PM,6:18,,,MISS Jones 24' 3PT Jump Shot,,
+0020200660,412,4,0,4,9:38 PM,6:16,Abdur-Rahim REBOUND (Off:3 Def:5),,,,
+0020200660,413,1,1,4,9:39 PM,6:09,Glover 18' Jump Shot (7 PTS) (Terry 7 AST),,,79 - 84,5
+0020200660,414,9,1,4,9:39 PM,6:07,,,Cavaliers Timeout: Regular (Reg.4 Short 1),,
+0020200660,415,8,0,4,9:41 PM,6:07,SUB: Robinson FOR Henderson,,,,
+0020200660,417,5,1,4,9:41 PM,5:55,,,Wagner Bad Pass Turnover (P2.T21),,
+0020200660,418,2,1,4,9:42 PM,5:43,MISS Abdur-Rahim 22' Jump Shot,,,,
+0020200660,419,4,0,4,9:42 PM,5:41,,,Ilgauskas REBOUND (Off:1 Def:3),,
+0020200660,420,2,1,4,9:42 PM,5:31,,,MISS Davis 3' Jump Shot,,
+0020200660,422,4,0,4,9:42 PM,5:30,,,Davis REBOUND (Off:2 Def:4),,
+0020200660,421,2,4,4,9:42 PM,5:30,,,MISS Davis  Tip Shot,,
+0020200660,423,4,0,4,9:42 PM,5:28,,,Mihm REBOUND (Off:1 Def:6),,
+0020200660,424,6,2,4,9:42 PM,5:17,Robinson S.FOUL (P3.T4),,,,
+0020200660,425,8,0,4,9:42 PM,5:17,,,SUB: Parker FOR Wagner,,
+0020200660,426,8,0,4,9:42 PM,5:17,,,SUB: Miles FOR Mihm,,
+0020200660,427,3,11,4,9:42 PM,5:17,,,MISS Ilgauskas Free Throw 1 of 2,,
+0020200660,428,4,1,4,9:42 PM,5:17,,,Cavaliers Rebound,,
+0020200660,429,3,12,4,9:43 PM,5:17,,,MISS Ilgauskas Free Throw 2 of 2,,
+0020200660,430,4,0,4,9:43 PM,5:16,Ratliff REBOUND (Off:1 Def:4),,,,
+0020200660,431,1,1,4,9:43 PM,5:02,Terry 19' Jump Shot (13 PTS),,,79 - 86,7
+0020200660,432,2,1,4,9:43 PM,4:41,,,MISS Jones 24' 3PT Jump Shot,,
+0020200660,433,4,0,4,9:43 PM,4:40,HAWKS Rebound,,,,
+0020200660,434,9,1,4,9:44 PM,4:32,HAWKS Timeout: Regular (Full 4 Short 1),,,,
+0020200660,435,6,4,4,9:47 PM,4:20,Ratliff OFF.Foul (P3),,,,
+0020200660,436,5,5,4,9:47 PM,4:20,Ratliff Foul Turnover (P3.T15),,,,
+0020200660,437,2,1,4,9:47 PM,4:00,,,MISS Davis 17' Jump Shot,,
+0020200660,438,4,0,4,9:47 PM,3:59,,,Jones REBOUND (Off:5 Def:3),,
+0020200660,440,6,1,4,9:47 PM,3:51,Ratliff P.FOUL (P4.PN),,,,
+0020200660,441,3,11,4,9:48 PM,3:51,,,Ilgauskas Free Throw 1 of 2 (18 PTS),80 - 86,6
+0020200660,442,3,12,4,9:48 PM,3:51,,,Ilgauskas Free Throw 2 of 2 (19 PTS),81 - 86,5
+0020200660,443,5,2,4,9:48 PM,3:43,Terry Lost Ball Turnover (P3.T16),,Parker STEAL (2 STL),,
+0020200660,444,6,2,4,9:48 PM,3:42,Abdur-Rahim S.FOUL (P2.PN),,,,
+0020200660,445,3,11,4,9:49 PM,3:42,,,MISS Miles Free Throw 1 of 2,,
+0020200660,446,4,1,4,9:49 PM,3:42,,,Cavaliers Rebound,,
+0020200660,448,8,0,4,9:49 PM,3:42,,,SUB: Boozer FOR Ilgauskas,,
+0020200660,449,3,12,4,9:49 PM,3:42,,,Miles Free Throw 2 of 2 (13 PTS),82 - 86,4
+0020200660,450,1,1,4,9:50 PM,3:27,Terry 22' Jump Shot (15 PTS),,,82 - 88,6
+0020200660,451,1,1,4,9:50 PM,3:17,,,Jones 24' 3PT Jump Shot (13 PTS) (Parker 6 AST),85 - 88,3
+0020200660,452,2,1,4,9:51 PM,2:43,MISS Terry 24' 3PT Jump Shot,,,,
+0020200660,453,4,0,4,9:51 PM,2:41,,,Davis REBOUND (Off:2 Def:5),,
+0020200660,454,2,5,4,9:51 PM,2:36,Ratliff BLOCK (3 BLK),,MISS Boozer  Layup,,
+0020200660,455,4,0,4,9:51 PM,2:35,,,Davis REBOUND (Off:3 Def:5),,
+0020200660,457,2,1,4,9:51 PM,2:17,,,MISS Jones 24' 3PT Jump Shot,,
+0020200660,461,4,0,4,9:51 PM,2:17,HAWKS Rebound,,,,
+0020200660,462,6,3,4,9:52 PM,2:17,,,Miles L.B.FOUL (P2.PN),,
+0020200660,464,3,11,4,9:52 PM,2:17,Abdur-Rahim Free Throw 1 of 2 (13 PTS),,,85 - 89,4
+0020200660,465,8,0,4,9:52 PM,2:17,,,SUB: Ilgauskas FOR Boozer,,
+0020200660,467,3,12,4,9:52 PM,2:17,Abdur-Rahim Free Throw 2 of 2 (14 PTS),,,85 - 90,5
+0020200660,468,2,1,4,9:52 PM,2:07,,,MISS Davis 14' Jump Shot,,
+0020200660,469,4,0,4,9:52 PM,2:05,,,Parker REBOUND (Off:1 Def:1),,
+0020200660,470,1,5,4,9:52 PM,1:59,,,Parker  Layup (6 PTS),87 - 90,3
+0020200660,471,5,2,4,9:53 PM,1:52,Terry Lost Ball Turnover (P4.T17),,Parker STEAL (3 STL),,
+0020200660,472,1,5,4,9:53 PM,1:49,,,Jones  Layup (15 PTS) (Parker 7 AST),89 - 90,1
+0020200660,474,9,1,4,9:53 PM,1:49,HAWKS Timeout: Regular (Full 5 Short 1),,,,
+0020200660,477,6,1,4,9:55 PM,1:43,,,Parker P.FOUL (P2.PN),,
+0020200660,478,3,11,4,9:55 PM,1:43,Terry Free Throw 1 of 2 (16 PTS),,,89 - 91,2
+0020200660,479,3,12,4,9:56 PM,1:43,Terry Free Throw 2 of 2 (17 PTS),,,89 - 92,3
+0020200660,480,6,2,4,9:56 PM,1:27,Ratliff S.FOUL (P5.PN),,,,
+0020200660,481,3,11,4,9:56 PM,1:27,,,Ilgauskas Free Throw 1 of 2 (20 PTS),90 - 92,2
+0020200660,482,3,12,4,9:57 PM,1:27,,,Ilgauskas Free Throw 2 of 2 (21 PTS),91 - 92,1
+0020200660,483,6,4,4,9:57 PM,1:03,Glover OFF.Foul (P3),,,,
+0020200660,484,5,5,4,9:57 PM,1:03,Glover Foul Turnover (P4.T18),,,,
+0020200660,485,9,1,4,9:57 PM,1:03,,,Cavaliers Timeout: Regular (Reg.5 Short 1),,
+0020200660,487,2,1,4,10:00 PM,0:46,,,MISS Miles 12' Jump Shot,,
+0020200660,488,4,0,4,10:00 PM,0:44,Glover REBOUND (Off:2 Def:1),,,,
+0020200660,489,6,2,4,10:00 PM,0:21,,,Jones S.FOUL (P1.PN),,
+0020200660,490,3,11,4,10:00 PM,0:21,Glover Free Throw 1 of 2 (8 PTS),,,91 - 93,2
+0020200660,491,3,12,4,10:00 PM,0:21,Glover Free Throw 2 of 2 (9 PTS),,,91 - 94,3
+0020200660,492,9,1,4,10:01 PM,0:21,,,Cavaliers Timeout: Regular (Reg.6 Short 1),,
+0020200660,493,8,0,4,10:03 PM,0:21,SUB: Benjamin FOR Terry,,,,
+0020200660,494,5,1,4,10:03 PM,0:10,Ratliff STEAL (3 STL),,Parker Bad Pass Turnover (P2.T22),,
+0020200660,495,6,1,4,10:03 PM,0:07,,,Jones P.FOUL (P2.PN),,
+0020200660,496,3,11,4,10:03 PM,0:07,Robinson Free Throw 1 of 2 (19 PTS),,,91 - 95,4
+0020200660,497,3,12,4,10:04 PM,0:07,Robinson Free Throw 2 of 2 (20 PTS),,,91 - 96,5
+0020200660,498,9,2,4,10:04 PM,0:07,,,Cavaliers Timeout: Short (Reg.6 Short 2),,
+0020200660,499,2,1,4,10:05 PM,0:03,,,MISS Davis 26' 3PT Jump Shot,,
+0020200660,500,4,0,4,10:05 PM,0:02,Glover REBOUND (Off:2 Def:2),,,,
+0020200660,501,13,0,4,10:05 PM,0:00,,,,91 - 96,5

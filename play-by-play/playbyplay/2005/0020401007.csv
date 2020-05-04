@@ -1,0 +1,436 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020401007,0,12,0,1,7:54 PM,12:00,,,,,
+0020401007,1,10,0,1,7:54 PM,12:00,Jump Ball Collins vs. Wright: Tip to Kidd,,,,
+0020401007,2,5,8,1,7:54 PM,11:43,Krstic 3 Second Violation Turnover (P1.T1),,,,
+0020401007,3,2,1,1,7:55 PM,11:19,,,MISS Cardinal 16' Jump Shot,,
+0020401007,4,4,0,1,7:55 PM,11:18,Kidd REBOUND (Off:0 Def:1),,,,
+0020401007,5,6,2,1,7:55 PM,11:10,,,Wright S.FOUL (P1.T1),,
+0020401007,6,3,11,1,7:55 PM,11:10,Krstic Free Throw 1 of 2 (1 PTS),,,0 - 1,1
+0020401007,7,3,12,1,7:56 PM,11:10,Krstic Free Throw 2 of 2 (2 PTS),,,0 - 2,2
+0020401007,8,1,1,1,7:56 PM,10:54,,,Miller 24' 3PT Jump Shot (3 PTS) (Wright 1 AST),3 - 2,-1
+0020401007,9,6,17,1,7:56 PM,10:36,,,Grizzlies T.Foul (Def. 3 Sec Cardinal ),,
+0020401007,10,3,16,1,7:56 PM,10:36,Carter Free Throw Technical (1 PTS),,,3 - 3,TIE
+0020401007,11,2,3,1,7:57 PM,10:30,MISS Carter 8' Hook Shot,,,,
+0020401007,12,4,0,1,7:57 PM,10:28,,,Miller REBOUND (Off:0 Def:1),,
+0020401007,13,1,1,1,7:57 PM,10:21,,,Cardinal 20' Jump Shot (2 PTS) (Williams 1 AST),5 - 3,-2
+0020401007,14,2,5,1,7:57 PM,10:04,MISS Krstic  Layup,,,,
+0020401007,15,4,0,1,7:57 PM,10:03,,,Cardinal REBOUND (Off:0 Def:1),,
+0020401007,16,6,2,1,7:58 PM,9:48,Krstic S.FOUL (P1.T1),,,,
+0020401007,17,3,11,1,7:58 PM,9:48,,,MISS Wright Free Throw 1 of 2,,
+0020401007,18,4,1,1,7:58 PM,9:48,,,Grizzlies Rebound,,
+0020401007,19,3,12,1,7:58 PM,9:48,,,MISS Wright Free Throw 2 of 2,,
+0020401007,20,4,0,1,7:58 PM,9:47,Kidd REBOUND (Off:0 Def:2),,,,
+0020401007,21,2,1,1,7:58 PM,9:35,MISS Carter 19' Jump Shot,,,,
+0020401007,22,4,0,1,7:58 PM,9:33,,,Miller REBOUND (Off:0 Def:2),,
+0020401007,23,5,1,1,7:59 PM,9:12,Vaughn STEAL (1 STL),,Cardinal Bad Pass Turnover (P1.T1),,
+0020401007,24,2,5,1,7:59 PM,9:04,MISS Krstic  Layup,,Wright BLOCK (1 BLK),,
+0020401007,25,4,0,1,7:59 PM,9:02,Krstic REBOUND (Off:1 Def:0),,,,
+0020401007,26,1,5,1,7:59 PM,9:01,Krstic  Layup (4 PTS),,,5 - 5,TIE
+0020401007,27,2,42,1,7:59 PM,8:40,,,MISS Battier  Driving Layup,,
+0020401007,28,4,0,1,7:59 PM,8:39,Vaughn REBOUND (Off:0 Def:1),,,,
+0020401007,29,2,1,1,7:59 PM,8:31,MISS Kidd  3PT Jump Shot,,,,
+0020401007,30,4,0,1,8:00 PM,8:29,,,Cardinal REBOUND (Off:0 Def:2),,
+0020401007,31,1,61,1,8:00 PM,8:16,,,Williams  Driving Finger Roll (2 PTS),7 - 5,-2
+0020401007,32,2,1,1,8:00 PM,7:58,MISS Carter 16' Jump Shot,,,,
+0020401007,33,4,0,1,8:00 PM,7:57,,,Wright REBOUND (Off:0 Def:1),,
+0020401007,34,6,1,1,8:00 PM,7:53,Collins P.FOUL (P1.T2),,,,
+0020401007,35,6,1,1,8:01 PM,7:39,Vaughn P.FOUL (P1.T3),,,,
+0020401007,36,1,1,1,8:01 PM,7:33,,,Williams 14' Jump Shot (4 PTS),9 - 5,-4
+0020401007,37,1,5,1,8:01 PM,7:19,Vaughn  Layup (2 PTS) (Kidd 1 AST),,,9 - 7,-2
+0020401007,38,1,1,1,8:02 PM,6:55,,,Cardinal 17' Jump Shot (4 PTS),11 - 7,-4
+0020401007,39,1,42,1,8:02 PM,6:39,Carter  Driving Layup (3 PTS),,,11 - 9,-2
+0020401007,40,1,1,1,8:03 PM,6:18,,,Williams  3PT Jump Shot (7 PTS) (Battier 1 AST),14 - 9,-5
+0020401007,41,9,1,1,8:03 PM,6:08,NETS Timeout: Regular (Full 1 Short 0),,,,
+0020401007,43,1,1,1,8:05 PM,5:55,Kidd 17' Jump Shot (2 PTS) (Carter 1 AST),,,14 - 11,-3
+0020401007,44,1,7,1,8:06 PM,5:36,,,Wright  Dunk (2 PTS) (Cardinal 1 AST),16 - 11,-5
+0020401007,45,1,47,1,8:06 PM,5:18,Krstic 13' Turnaround Jump Shot (6 PTS),,,16 - 13,-3
+0020401007,46,1,1,1,8:06 PM,5:02,,,Wright 13' Jump Shot (4 PTS) (Cardinal 2 AST),18 - 13,-5
+0020401007,47,1,5,1,8:06 PM,4:41,Collins  Layup (2 PTS) (Krstic 1 AST),,,18 - 15,-3
+0020401007,48,6,1,1,8:07 PM,4:26,Collins P.FOUL (P2.T4),,,,
+0020401007,49,8,0,1,8:07 PM,4:26,SUB: Robinson FOR Collins,,,,
+0020401007,50,2,1,1,8:07 PM,4:12,,,MISS Cardinal 25' 3PT Jump Shot,,
+0020401007,51,4,0,1,8:07 PM,4:11,Krstic REBOUND (Off:1 Def:1),,,,
+0020401007,52,2,1,1,8:08 PM,4:02,MISS Vaughn 21' Jump Shot,,,,
+0020401007,53,4,0,1,8:08 PM,4:01,,,Battier REBOUND (Off:0 Def:1),,
+0020401007,54,1,1,1,8:08 PM,3:38,,,Cardinal 26' 3PT Jump Shot (7 PTS) (Williams 2 AST),21 - 15,-6
+0020401007,55,1,61,1,8:08 PM,3:19,Carter  Driving Finger Roll (5 PTS),,,21 - 17,-4
+0020401007,56,6,2,1,8:09 PM,3:01,Robinson S.FOUL (P1.PN),,,,
+0020401007,57,8,0,1,8:09 PM,3:01,,,SUB: Posey FOR Battier,,
+0020401007,58,3,11,1,8:09 PM,3:01,,,Wright Free Throw 1 of 2 (5 PTS),22 - 17,-5
+0020401007,59,3,12,1,8:09 PM,3:01,,,Wright Free Throw 2 of 2 (6 PTS),23 - 17,-6
+0020401007,60,2,3,1,8:10 PM,2:47,MISS Kidd 7' Hook Shot,,,,
+0020401007,61,4,0,1,8:10 PM,2:45,,,Wright REBOUND (Off:0 Def:2),,
+0020401007,62,1,1,1,8:10 PM,2:39,,,Posey 24' 3PT Jump Shot (3 PTS) (Williams 3 AST),26 - 17,-9
+0020401007,63,5,2,1,8:10 PM,2:19,Carter Lost Ball Turnover (P1.T2),,Posey STEAL (1 STL),,
+0020401007,64,5,39,1,8:10 PM,2:18,,,Posey Step Out of Bounds Turnover (P1.T2),,
+0020401007,65,9,1,1,8:11 PM,2:18,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,
+0020401007,67,8,0,1,8:12 PM,2:18,,,SUB: Watson FOR Williams,,
+0020401007,68,2,5,1,8:13 PM,2:02,MISS Krstic  Layup,,,,
+0020401007,69,4,0,1,8:13 PM,2:01,,,Posey REBOUND (Off:0 Def:1),,
+0020401007,70,5,13,1,8:13 PM,1:46,,,Grizzlies Turnover: Backcourt (T#3),,
+0020401007,71,8,0,1,8:13 PM,1:46,SUB: Buford FOR Kidd,,,,
+0020401007,72,8,0,1,8:13 PM,1:46,,,SUB: Gasol FOR Wright,,
+0020401007,73,2,1,1,8:14 PM,1:40,MISS Buford 22' Jump Shot,,,,
+0020401007,74,4,0,1,8:14 PM,1:38,,,Watson REBOUND (Off:0 Def:1),,
+0020401007,75,2,1,1,8:14 PM,1:26,,,MISS Cardinal  3PT Jump Shot,,
+0020401007,76,4,0,1,8:14 PM,1:24,NETS Rebound,,,,
+0020401007,77,8,0,1,8:14 PM,1:24,,,SUB: Wells FOR Miller,,
+0020401007,78,6,1,1,8:14 PM,1:13,,,Gasol P.FOUL (P1.T2),,
+0020401007,79,1,1,1,8:15 PM,1:04,Robinson  3PT Jump Shot (3 PTS) (Carter 2 AST),,,26 - 20,-6
+0020401007,80,6,4,1,8:15 PM,0:51,,,Wells OFF.Foul (P1),,
+0020401007,81,5,5,1,8:15 PM,0:51,,,Wells Foul Turnover (P1.T4),,
+0020401007,82,6,1,1,8:15 PM,0:42,,,Posey P.FOUL (P1.PN),,
+0020401007,83,3,11,1,8:16 PM,0:42,MISS Carter Free Throw 1 of 2,,,,
+0020401007,84,4,1,1,8:16 PM,0:42,NETS Rebound,,,,
+0020401007,85,3,12,1,8:16 PM,0:42,Carter Free Throw 2 of 2 (6 PTS),,,26 - 21,-5
+0020401007,86,5,41,1,8:16 PM,0:24,,,Watson Poss Lost Ball Turnover (P1.T5),,
+0020401007,87,1,1,1,8:17 PM,0:00,Buford  3PT Jump Shot (3 PTS) (Carter 3 AST),,,26 - 24,-2
+0020401007,89,18,0,1,8:18 PM,0:00,,,,26 - 24,-2
+0020401007,90,13,0,1,8:18 PM,0:00,,,,26 - 24,-2
+0020401007,92,12,0,2,8:20 PM,12:00,,,,26 - 24,-2
+0020401007,93,2,47,2,8:20 PM,11:46,Krstic BLOCK (1 BLK),,MISS Gasol 9' Turnaround Jump Shot,,
+0020401007,94,4,0,2,8:20 PM,11:45,Robinson REBOUND (Off:0 Def:1),,,,
+0020401007,95,1,5,2,8:21 PM,11:34,Krstic  Layup (8 PTS) (Carter 4 AST),,,26 - 26,TIE
+0020401007,96,6,2,2,8:21 PM,11:34,,,Watson S.FOUL (P1.T1),,
+0020401007,97,8,0,2,8:21 PM,11:34,,,SUB: Swift FOR Cardinal,,
+0020401007,98,3,10,2,8:21 PM,11:34,Krstic Free Throw 1 of 1 (9 PTS),,,26 - 27,1
+0020401007,99,6,1,2,8:21 PM,11:24,Krstic P.FOUL (P2.T1),,,,
+0020401007,100,8,0,2,8:22 PM,11:24,SUB: Scalabrine FOR Krstic,,,,
+0020401007,101,6,1,2,8:22 PM,11:13,Robinson P.FOUL (P2.T2),,,,
+0020401007,102,2,1,2,8:22 PM,11:07,,,MISS Posey  3PT Jump Shot,,
+0020401007,103,4,0,2,8:22 PM,11:06,NETS Rebound,,,,
+0020401007,104,6,3,2,8:22 PM,11:06,,,Swift L.B.FOUL (P1.T2),,
+0020401007,105,1,1,2,8:23 PM,10:50,Buford 20' Jump Shot (5 PTS) (Scalabrine 1 AST),,,26 - 29,3
+0020401007,106,1,61,2,8:23 PM,10:37,,,Watson  Driving Finger Roll (2 PTS),28 - 29,1
+0020401007,107,1,1,2,8:23 PM,10:15,Robinson 23' Jump Shot (5 PTS) (Carter 5 AST),,,28 - 31,3
+0020401007,108,6,4,2,8:24 PM,9:55,,,Wells OFF.Foul (P2),,
+0020401007,109,5,5,2,8:24 PM,9:55,,,Wells Foul Turnover (P2.T6),,
+0020401007,110,6,4,2,8:24 PM,9:43,Carter OFF.Foul (P1),,,,
+0020401007,111,5,5,2,8:24 PM,9:43,Carter Foul Turnover (P2.T3),,,,
+0020401007,112,5,1,2,8:25 PM,9:33,Carter STEAL (1 STL),,Swift Bad Pass Turnover (P1.T7),,
+0020401007,113,1,5,2,8:25 PM,9:28,Scalabrine  Layup (2 PTS) (Carter 6 AST),,,28 - 33,5
+0020401007,114,6,2,2,8:25 PM,9:28,,,Swift S.FOUL (P2.T3),,
+0020401007,115,8,0,2,8:25 PM,9:28,SUB: Kidd FOR Carter,,,,
+0020401007,116,8,0,2,8:25 PM,9:28,,,SUB: Battier FOR Swift,,
+0020401007,117,3,10,2,8:25 PM,9:28,Scalabrine Free Throw 1 of 1 (3 PTS),,,28 - 34,6
+0020401007,118,2,1,2,8:26 PM,9:12,,,MISS Watson 25' 3PT Jump Shot,,
+0020401007,119,4,0,2,8:26 PM,9:11,,,Wells REBOUND (Off:1 Def:0),,
+0020401007,120,1,5,2,8:26 PM,9:09,,,Wells  Layup (2 PTS),30 - 34,4
+0020401007,122,6,2,2,8:26 PM,8:51,,,Watson S.FOUL (P2.T4),,
+0020401007,123,9,4,2,8:26 PM,8:51,,,,,
+0020401007,125,3,11,2,8:28 PM,8:51,Best Free Throw 1 of 2 (1 PTS),,,30 - 35,5
+0020401007,126,3,12,2,8:28 PM,8:51,Best Free Throw 2 of 2 (2 PTS),,,30 - 36,6
+0020401007,127,1,44,2,8:29 PM,8:37,,,Wells  Reverse Layup (4 PTS) (Battier 2 AST),32 - 36,4
+0020401007,128,2,1,2,8:29 PM,8:11,MISS Scalabrine 20' Jump Shot,,,,
+0020401007,129,4,0,2,8:29 PM,8:09,Buford REBOUND (Off:1 Def:0),,,,
+0020401007,130,1,1,2,8:29 PM,8:03,Best 24' 3PT Jump Shot (5 PTS) (Kidd 2 AST),,,32 - 39,7
+0020401007,131,1,1,2,8:30 PM,7:37,,,Wells  3PT Jump Shot (7 PTS) (Watson 1 AST),35 - 39,4
+0020401007,132,2,1,2,8:30 PM,7:17,MISS Buford 24' 3PT Jump Shot,,,,
+0020401007,133,4,0,2,8:30 PM,7:14,Buford REBOUND (Off:2 Def:0),,,,
+0020401007,134,1,1,2,8:30 PM,7:09,Buford 15' Jump Shot (7 PTS) (Kidd 3 AST),,,35 - 41,6
+0020401007,135,5,1,2,8:31 PM,6:54,Robinson STEAL (1 STL),,Watson Bad Pass Turnover (P2.T8),,
+0020401007,136,2,1,2,8:31 PM,6:49,MISS Kidd 17' Jump Shot,,,,
+0020401007,137,4,0,2,8:31 PM,6:47,,,Wells REBOUND (Off:1 Def:1),,
+0020401007,138,6,2,2,8:31 PM,6:32,Scalabrine S.FOUL (P1.T3),,,,
+0020401007,139,8,0,2,8:31 PM,6:32,,,SUB: Miller FOR Wells,,
+0020401007,140,8,0,2,8:31 PM,6:32,,,SUB: Williams FOR Watson,,
+0020401007,141,3,11,2,8:31 PM,6:32,,,Gasol Free Throw 1 of 2 (1 PTS),36 - 41,5
+0020401007,142,3,12,2,8:31 PM,6:32,,,Gasol Free Throw 2 of 2 (2 PTS),37 - 41,4
+0020401007,143,6,1,2,8:32 PM,6:22,,,Miller P.FOUL (P1.PN),,
+0020401007,144,8,0,2,8:32 PM,6:22,,,SUB: Wright FOR Gasol,,
+0020401007,145,3,11,2,8:32 PM,6:22,MISS Scalabrine Free Throw 1 of 2,,,,
+0020401007,146,4,1,2,8:32 PM,6:22,NETS Rebound,,,,
+0020401007,147,3,12,2,8:32 PM,6:22,Scalabrine Free Throw 2 of 2 (4 PTS),,,37 - 42,5
+0020401007,148,5,40,2,8:33 PM,6:18,,,Miller Out of Bounds Lost Ball Turnover (P1.T9),,
+0020401007,149,1,1,2,8:33 PM,6:06,Robinson 25' 3PT Jump Shot (8 PTS) (Kidd 4 AST),,,37 - 45,8
+0020401007,150,9,1,2,8:33 PM,5:56,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,
+0020401007,152,2,1,2,8:36 PM,5:41,,,MISS Posey 24' 3PT Jump Shot,,
+0020401007,153,4,0,2,8:36 PM,5:40,Kidd REBOUND (Off:0 Def:3),,,,
+0020401007,154,2,1,2,8:36 PM,5:34,MISS Scalabrine 17' Jump Shot,,,,
+0020401007,155,4,0,2,8:36 PM,5:33,,,Battier REBOUND (Off:0 Def:2),,
+0020401007,156,5,2,2,8:36 PM,5:22,Kidd STEAL (1 STL),,Williams Lost Ball Turnover (P1.T10),,
+0020401007,157,2,1,2,8:36 PM,5:09,MISS Robinson 21' Jump Shot,,,,
+0020401007,158,4,0,2,8:36 PM,5:07,,,Posey REBOUND (Off:0 Def:2),,
+0020401007,159,1,1,2,8:36 PM,4:54,,,Williams 25' 3PT Jump Shot (10 PTS) (Miller 1 AST),40 - 45,5
+0020401007,160,2,1,2,8:37 PM,4:40,MISS Best 25' 3PT Jump Shot,,,,
+0020401007,161,4,0,2,8:37 PM,4:38,,,Battier REBOUND (Off:0 Def:3),,
+0020401007,162,2,1,2,8:37 PM,4:27,,,MISS Miller 25' 3PT Jump Shot,,
+0020401007,163,4,0,2,8:37 PM,4:26,Buford REBOUND (Off:2 Def:1),,,,
+0020401007,164,9,1,2,8:37 PM,4:20,NETS Timeout: Regular (Full 2 Short 0),,,,
+0020401007,166,8,0,2,8:39 PM,4:20,SUB: Carter FOR Best,,,,
+0020401007,167,8,0,2,8:39 PM,4:20,,,SUB: Cardinal FOR Posey,,
+0020401007,168,6,1,2,8:39 PM,4:15,,,Miller P.FOUL (P2.PN),,
+0020401007,169,3,11,2,8:40 PM,4:15,Kidd Free Throw 1 of 2 (3 PTS),,,40 - 46,6
+0020401007,170,8,0,2,8:40 PM,4:15,SUB: Collins FOR Robinson,,,,
+0020401007,171,3,12,2,8:40 PM,4:15,Kidd Free Throw 2 of 2 (4 PTS),,,40 - 47,7
+0020401007,172,1,42,2,8:40 PM,4:01,,,Williams  Driving Layup (12 PTS),42 - 47,5
+0020401007,173,2,46,2,8:41 PM,3:40,MISS Carter 7' Running Jump Shot,,,,
+0020401007,174,4,0,2,8:41 PM,3:39,,,Battier REBOUND (Off:0 Def:4),,
+0020401007,175,1,1,2,8:41 PM,3:22,,,Wright 15' Jump Shot (8 PTS) (Williams 4 AST),44 - 47,3
+0020401007,176,2,1,2,8:41 PM,3:05,MISS Buford 26' 3PT Jump Shot,,,,
+0020401007,177,4,0,2,8:41 PM,3:04,,,Grizzlies Rebound,,
+0020401007,178,5,2,2,8:42 PM,2:47,Buford STEAL (1 STL),,Miller Lost Ball Turnover (P2.T11),,
+0020401007,179,1,42,2,8:42 PM,2:43,Buford  Driving Layup (9 PTS),,,44 - 49,5
+0020401007,180,1,42,2,8:42 PM,2:22,,,Williams  Driving Layup (14 PTS),46 - 49,3
+0020401007,181,2,1,2,8:42 PM,2:05,MISS Buford 22' Jump Shot,,,,
+0020401007,182,4,0,2,8:42 PM,2:04,Carter REBOUND (Off:1 Def:0),,,,
+0020401007,183,6,2,2,8:43 PM,2:00,,,Battier S.FOUL (P1.PN),,
+0020401007,184,8,0,2,8:43 PM,2:00,,,SUB: Posey FOR Miller,,
+0020401007,185,8,0,2,8:43 PM,2:00,SUB: Krstic FOR Scalabrine,,,,
+0020401007,186,3,11,2,8:43 PM,2:00,Carter Free Throw 1 of 2 (7 PTS),,,46 - 50,4
+0020401007,187,3,12,2,8:43 PM,2:00,Carter Free Throw 2 of 2 (8 PTS),,,46 - 51,5
+0020401007,188,1,7,2,8:44 PM,1:50,,,Wright  Dunk (10 PTS) (Cardinal 3 AST),48 - 51,3
+0020401007,189,6,2,2,8:44 PM,1:50,Carter S.FOUL (P2.T4),,,,
+0020401007,190,3,10,2,8:44 PM,1:50,,,MISS Wright Free Throw 1 of 1,,
+0020401007,191,4,0,2,8:44 PM,1:49,Kidd REBOUND (Off:0 Def:4),,,,
+0020401007,192,5,1,2,8:44 PM,1:36,Kidd Bad Pass Turnover (P1.T4),,Wright STEAL (1 STL),,
+0020401007,193,5,2,2,8:44 PM,1:34,Kidd STEAL (2 STL),,Williams Lost Ball Turnover (P2.T12),,
+0020401007,194,6,2,2,8:45 PM,1:33,,,Battier S.FOUL (P2.PN),,
+0020401007,195,3,11,2,8:45 PM,1:33,MISS Krstic Free Throw 1 of 2,,,,
+0020401007,196,4,1,2,8:45 PM,1:33,NETS Rebound,,,,
+0020401007,197,3,12,2,8:45 PM,1:33,MISS Krstic Free Throw 2 of 2,,,,
+0020401007,198,4,0,2,8:45 PM,1:32,,,Wright REBOUND (Off:0 Def:3),,
+0020401007,199,6,17,2,8:46 PM,1:19,NETS T.Foul (Def. 3 Sec Krstic ),,,,
+0020401007,200,3,16,2,8:46 PM,1:19,,,Williams Free Throw Technical (15 PTS),49 - 51,2
+0020401007,201,1,5,2,8:46 PM,1:09,,,Wright  Layup (12 PTS) (Cardinal 4 AST),51 - 51,TIE
+0020401007,202,9,2,2,8:46 PM,1:06,NETS Timeout: Short (Full 2 Short 1),,,,
+0020401007,204,2,1,2,8:49 PM,0:45,MISS Carter 21' Jump Shot,,,,
+0020401007,205,4,0,2,8:49 PM,0:44,,,Williams REBOUND (Off:0 Def:1),,
+0020401007,206,5,7,2,8:49 PM,0:42,,,Williams Discontinue Dribble Turnover (P3.T13),,
+0020401007,207,1,42,2,8:49 PM,0:30,Buford  Driving Layup (11 PTS) (Kidd 5 AST),,,51 - 53,2
+0020401007,208,1,44,2,8:49 PM,0:14,,,Williams  Reverse Layup (17 PTS) (Cardinal 5 AST),53 - 53,TIE
+0020401007,209,1,1,2,8:50 PM,0:00,Buford 18' Jump Shot (13 PTS) (Carter 7 AST),,,53 - 55,2
+0020401007,211,13,0,2,8:50 PM,0:00,,,,53 - 55,2
+0020401007,212,12,0,3,9:06 PM,12:00,,,,53 - 55,2
+0020401007,213,2,1,3,9:06 PM,11:47,,,MISS Cardinal 17' Jump Shot,,
+0020401007,214,4,0,3,9:06 PM,11:46,Carter REBOUND (Off:1 Def:1),,,,
+0020401007,215,1,42,3,9:06 PM,11:29,Carter  Driving Layup (10 PTS),,,53 - 57,4
+0020401007,216,1,1,3,9:07 PM,11:05,,,Williams 24' 3PT Jump Shot (20 PTS),56 - 57,1
+0020401007,217,2,1,3,9:07 PM,10:44,MISS Carter 13' Jump Shot,,,,
+0020401007,218,4,0,3,9:07 PM,10:43,,,Cardinal REBOUND (Off:0 Def:3),,
+0020401007,219,1,1,3,9:07 PM,10:28,,,Wright 14' Jump Shot (14 PTS) (Cardinal 6 AST),58 - 57,-1
+0020401007,220,2,1,3,9:08 PM,10:09,MISS Collins 16' Jump Shot,,,,
+0020401007,221,4,0,3,9:08 PM,10:07,,,Wright REBOUND (Off:0 Def:4),,
+0020401007,222,2,1,3,9:08 PM,9:56,,,MISS Cardinal 15' Jump Shot,,
+0020401007,223,4,0,3,9:08 PM,9:54,,,Battier REBOUND (Off:1 Def:4),,
+0020401007,224,1,5,3,9:08 PM,9:52,,,Battier  Layup (2 PTS),60 - 57,-3
+0020401007,225,5,40,3,9:08 PM,9:40,Krstic Out of Bounds Lost Ball Turnover (P2.T5),,,,
+0020401007,226,2,1,3,9:08 PM,9:27,,,MISS Cardinal 17' Jump Shot,,
+0020401007,227,4,0,3,9:08 PM,9:25,Collins REBOUND (Off:0 Def:1),,,,
+0020401007,228,6,1,3,9:09 PM,9:12,,,Battier P.FOUL (P3.T1),,
+0020401007,229,2,46,3,9:09 PM,9:04,MISS Carter 5' Running Jump Shot,,,,
+0020401007,230,4,0,3,9:09 PM,9:02,,,Wright REBOUND (Off:0 Def:5),,
+0020401007,231,1,61,3,9:09 PM,8:41,,,Cardinal  Driving Finger Roll (9 PTS),62 - 57,-5
+0020401007,232,9,1,3,9:10 PM,8:38,NETS Timeout: Regular (Full 3 Short 1),,,,
+0020401007,234,1,1,3,9:12 PM,8:19,Carter 19' Jump Shot (12 PTS) (Kidd 6 AST),,,62 - 59,-3
+0020401007,235,6,2,3,9:12 PM,7:57,Collins S.FOUL (P3.T1),,,,
+0020401007,236,3,11,3,9:13 PM,7:57,,,Miller Free Throw 1 of 2 (4 PTS),63 - 59,-4
+0020401007,237,3,12,3,9:13 PM,7:57,,,Miller Free Throw 2 of 2 (5 PTS),64 - 59,-5
+0020401007,238,1,1,3,9:13 PM,7:35,Carter 5' Jump Shot (14 PTS) (Kidd 7 AST),,,64 - 61,-3
+0020401007,239,6,2,3,9:14 PM,7:11,Krstic S.FOUL (P3.T2),,,,
+0020401007,240,3,11,3,9:14 PM,7:11,,,Battier Free Throw 1 of 2 (3 PTS),65 - 61,-4
+0020401007,241,3,12,3,9:14 PM,7:11,,,MISS Battier Free Throw 2 of 2,,
+0020401007,242,4,0,3,9:15 PM,7:10,Krstic REBOUND (Off:1 Def:2),,,,
+0020401007,243,2,1,3,9:15 PM,6:53,MISS Krstic 18' Jump Shot,,,,
+0020401007,244,4,0,3,9:15 PM,6:51,,,Wright REBOUND (Off:0 Def:6),,
+0020401007,245,2,1,3,9:15 PM,6:41,,,MISS Williams 20' Jump Shot,,
+0020401007,246,4,0,3,9:15 PM,6:40,NETS Rebound,,,,
+0020401007,247,2,1,3,9:15 PM,6:26,MISS Kidd 24' 3PT Jump Shot,,,,
+0020401007,248,4,0,3,9:15 PM,6:25,,,Battier REBOUND (Off:1 Def:5),,
+0020401007,249,6,1,3,9:16 PM,6:14,Carter P.FOUL (P3.T3),,,,
+0020401007,250,2,1,3,9:16 PM,5:57,,,MISS Miller 25' 3PT Jump Shot,,
+0020401007,251,4,0,3,9:16 PM,5:55,,,Miller REBOUND (Off:1 Def:2),,
+0020401007,252,9,1,3,9:16 PM,5:54,,,Grizzlies Timeout: Regular (Reg.3 Short 0),,
+0020401007,254,2,46,3,9:19 PM,5:43,,,MISS Cardinal 8' Running Jump Shot,,
+0020401007,255,4,0,3,9:19 PM,5:42,Collins REBOUND (Off:0 Def:2),,,,
+0020401007,256,6,1,3,9:19 PM,5:41,,,Cardinal P.FOUL (P1.T2),,
+0020401007,257,2,1,3,9:19 PM,5:21,MISS Carter 25' 3PT Jump Shot,,,,
+0020401007,258,4,0,3,9:19 PM,5:20,,,Cardinal REBOUND (Off:0 Def:4),,
+0020401007,259,2,42,3,9:20 PM,5:04,Krstic BLOCK (2 BLK),,MISS Miller  Driving Layup,,
+0020401007,260,10,0,3,9:20 PM,5:04,Jump Ball Krstic vs. Miller: Tip to Kidd,,,,
+0020401007,261,4,0,3,9:20 PM,5:04,NETS Rebound,,,,
+0020401007,262,1,1,3,9:20 PM,4:57,Vaughn 17' Jump Shot (4 PTS) (Kidd 8 AST),,,65 - 63,-2
+0020401007,263,5,4,3,9:20 PM,4:43,,,Williams Traveling Turnover (P4.T14),,
+0020401007,264,2,5,3,9:21 PM,4:30,MISS Carter  Layup,,,,
+0020401007,265,4,0,3,9:21 PM,4:29,Krstic REBOUND (Off:2 Def:2),,,,
+0020401007,266,2,5,3,9:21 PM,4:27,MISS Krstic  Layup,,,,
+0020401007,267,4,0,3,9:21 PM,4:25,Collins REBOUND (Off:1 Def:2),,,,
+0020401007,268,1,4,3,9:21 PM,4:24,Collins  Tip Shot (4 PTS),,,65 - 65,TIE
+0020401007,269,2,1,3,9:21 PM,4:08,,,MISS Cardinal  3PT Jump Shot,,
+0020401007,270,4,0,3,9:21 PM,4:07,Kidd REBOUND (Off:0 Def:5),,,,
+0020401007,271,5,1,3,9:21 PM,4:01,Kidd Bad Pass Turnover (P2.T6),,Battier STEAL (1 STL),,
+0020401007,272,6,1,3,9:21 PM,3:49,Carter P.FOUL (P4.T4),,,,
+0020401007,273,8,0,3,9:22 PM,3:49,,,SUB: Gasol FOR Cardinal,,
+0020401007,274,8,0,3,9:22 PM,3:49,SUB: Buford FOR Carter,,,,
+0020401007,275,2,1,3,9:22 PM,3:38,,,MISS Miller 26' 3PT Jump Shot,,
+0020401007,276,4,0,3,9:22 PM,3:36,,,Gasol REBOUND (Off:1 Def:0),,
+0020401007,277,5,11,3,9:22 PM,3:35,,,Grizzlies Turnover: Shot Clock (T#15),,
+0020401007,278,2,1,3,9:22 PM,3:17,MISS Kidd 15' Jump Shot,,,,
+0020401007,279,4,0,3,9:22 PM,3:16,,,Williams REBOUND (Off:0 Def:2),,
+0020401007,280,1,5,3,9:23 PM,3:10,,,Wright  Layup (16 PTS) (Williams 5 AST),67 - 65,-2
+0020401007,281,2,5,3,9:23 PM,2:54,MISS Vaughn  Layup,,,,
+0020401007,282,4,0,3,9:23 PM,2:53,NETS Rebound,,,,
+0020401007,283,6,3,3,9:23 PM,2:53,,,Wright L.B.FOUL (P2.T3),,
+0020401007,284,8,0,3,9:23 PM,2:53,SUB: Robinson FOR Collins,,,,
+0020401007,285,6,2,3,9:24 PM,2:43,,,Wright S.FOUL (P3.T4),,
+0020401007,286,3,11,3,9:24 PM,2:43,Krstic Free Throw 1 of 2 (10 PTS),,,67 - 66,-1
+0020401007,287,8,0,3,9:24 PM,2:43,,,SUB: Posey FOR Battier,,
+0020401007,288,3,12,3,9:24 PM,2:43,Krstic Free Throw 2 of 2 (11 PTS),,,67 - 67,TIE
+0020401007,289,6,2,3,9:25 PM,2:32,Krstic S.FOUL (P4.PN),,,,
+0020401007,290,3,11,3,9:25 PM,2:32,,,Wright Free Throw 1 of 2 (17 PTS),68 - 67,-1
+0020401007,291,8,0,3,9:25 PM,2:32,SUB: Collins FOR Krstic,,,,
+0020401007,292,8,0,3,9:25 PM,2:32,,,SUB: Watson FOR Williams,,
+0020401007,293,3,12,3,9:25 PM,2:32,,,Wright Free Throw 2 of 2 (18 PTS),69 - 67,-2
+0020401007,294,1,46,3,9:26 PM,2:15,Buford 6' Running Jump Shot (15 PTS) (Kidd 9 AST),,,69 - 69,TIE
+0020401007,295,2,5,3,9:26 PM,1:55,,,MISS Posey  Layup,,
+0020401007,296,4,0,3,9:26 PM,1:53,Buford REBOUND (Off:2 Def:2),,,,
+0020401007,297,1,1,3,9:26 PM,1:42,Kidd 25' 3PT Jump Shot (7 PTS) (Robinson 1 AST),,,69 - 72,3
+0020401007,298,5,40,3,9:26 PM,1:26,,,Watson Out of Bounds Lost Ball Turnover (P3.T16),,
+0020401007,299,6,2,3,9:27 PM,1:14,,,Miller S.FOUL (P3.PN),,
+0020401007,300,3,11,3,9:27 PM,1:14,MISS Collins Free Throw 1 of 2,,,,
+0020401007,301,4,1,3,9:27 PM,1:14,NETS Rebound,,,,
+0020401007,302,3,12,3,9:27 PM,1:14,Collins Free Throw 2 of 2 (5 PTS),,,69 - 73,4
+0020401007,303,6,2,3,9:28 PM,1:02,Robinson S.FOUL (P3.PN),,,,
+0020401007,304,3,11,3,9:28 PM,1:02,,,Gasol Free Throw 1 of 2 (3 PTS),70 - 73,3
+0020401007,305,3,12,3,9:28 PM,1:02,,,Gasol Free Throw 2 of 2 (4 PTS),71 - 73,2
+0020401007,306,2,1,3,9:29 PM,0:49,MISS Kidd 19' Jump Shot,,,,
+0020401007,307,4,0,3,9:29 PM,0:48,,,Wright REBOUND (Off:0 Def:7),,
+0020401007,308,1,1,3,9:29 PM,0:33,,,Miller 25' 3PT Jump Shot (8 PTS) (Watson 2 AST),74 - 73,-1
+0020401007,309,2,42,3,9:29 PM,0:16,MISS Buford  Driving Layup,,,,
+0020401007,310,4,0,3,9:29 PM,0:14,Collins REBOUND (Off:2 Def:2),,,,
+0020401007,311,2,4,3,9:29 PM,0:13,MISS Collins  Tip Shot,,,,
+0020401007,312,4,0,3,9:29 PM,0:12,,,Wright REBOUND (Off:0 Def:8),,
+0020401007,313,2,46,3,9:30 PM,0:00,,,MISS Watson 5' Running Jump Shot,,
+0020401007,314,4,0,3,9:30 PM,0:00,,,Grizzlies Rebound,,
+0020401007,316,13,0,3,9:30 PM,0:00,,,,74 - 73,-1
+0020401007,317,12,0,4,9:32 PM,12:00,,,,74 - 73,-1
+0020401007,318,2,1,4,9:33 PM,11:38,MISS Kidd  3PT Jump Shot,,,,
+0020401007,319,4,0,4,9:33 PM,11:37,,,Wright REBOUND (Off:0 Def:9),,
+0020401007,320,1,1,4,9:33 PM,11:14,,,Wells 17' Jump Shot (9 PTS) (Posey 1 AST),76 - 73,-3
+0020401007,321,6,1,4,9:34 PM,10:51,,,Watson P.FOUL (P3.T1),,
+0020401007,322,2,1,4,9:34 PM,10:38,MISS Best 25' 3PT Jump Shot,,,,
+0020401007,323,4,0,4,9:34 PM,10:36,,,Watson REBOUND (Off:0 Def:2),,
+0020401007,324,1,3,4,9:34 PM,10:25,,,Wright 8' Hook Shot (20 PTS) (Gasol 1 AST),78 - 73,-5
+0020401007,325,2,1,4,9:35 PM,10:11,MISS Robinson 25' 3PT Jump Shot,,Gasol BLOCK (1 BLK),,
+0020401007,326,4,0,4,9:35 PM,10:09,,,Grizzlies Rebound,,
+0020401007,327,6,3,4,9:35 PM,10:09,Robinson L.B.FOUL (P4.T1),,,,
+0020401007,328,8,0,4,9:35 PM,10:09,SUB: Carter FOR Buford,,,,
+0020401007,329,1,49,4,9:35 PM,9:49,,,Wells  Driving Dunk (11 PTS) (Posey 2 AST),80 - 73,-7
+0020401007,330,9,1,4,9:35 PM,9:47,NETS Timeout: Regular (Full 4 Short 1),,,,
+0020401007,332,1,1,4,9:38 PM,9:28,Carter 22' Jump Shot (16 PTS) (Kidd 10 AST),,,80 - 75,-5
+0020401007,333,1,42,4,9:38 PM,9:17,,,Watson  Driving Layup (4 PTS),82 - 75,-7
+0020401007,334,6,2,4,9:38 PM,9:17,Collins S.FOUL (P4.T2),,,,
+0020401007,335,8,0,4,9:38 PM,9:17,SUB: Krstic FOR Robinson,,,,
+0020401007,336,8,0,4,9:38 PM,9:17,SUB: Buford FOR Best,,,,
+0020401007,337,3,10,4,9:38 PM,9:17,,,Watson Free Throw 1 of 1 (5 PTS),83 - 75,-8
+0020401007,338,6,1,4,9:39 PM,9:00,,,Wells P.FOUL (P3.T2),,
+0020401007,339,6,1,4,9:39 PM,8:55,,,Wright P.FOUL (P4.T3),,
+0020401007,340,2,1,4,9:40 PM,8:49,MISS Carter 23' Jump Shot,,,,
+0020401007,341,4,0,4,9:40 PM,8:48,Collins REBOUND (Off:3 Def:2),,,,
+0020401007,342,1,1,4,9:40 PM,8:38,Kidd  3PT Jump Shot (10 PTS) (Carter 8 AST),,,83 - 78,-5
+0020401007,343,2,63,4,9:40 PM,8:16,,,MISS Wells 13' Fadeaway Jumper,,
+0020401007,344,4,0,4,9:40 PM,8:15,Kidd REBOUND (Off:0 Def:6),,,,
+0020401007,345,1,1,4,9:40 PM,8:09,Carter 24' 3PT Jump Shot (19 PTS) (Kidd 11 AST),,,83 - 81,-2
+0020401007,346,9,1,4,9:40 PM,8:07,,,Grizzlies Timeout: Regular (Reg.4 Short 0),,
+0020401007,348,2,42,4,9:43 PM,7:57,Krstic BLOCK (3 BLK),,MISS Wells  Driving Layup,,
+0020401007,349,4,0,4,9:43 PM,7:55,NETS Rebound,,,,
+0020401007,350,6,2,4,9:43 PM,7:43,,,Posey S.FOUL (P2.T4),,
+0020401007,351,8,0,4,9:43 PM,7:43,,,SUB: Miller FOR Wells,,
+0020401007,352,3,11,4,9:43 PM,7:43,Carter Free Throw 1 of 2 (20 PTS),,,83 - 82,-1
+0020401007,353,3,12,4,9:44 PM,7:43,MISS Carter Free Throw 2 of 2,,,,
+0020401007,354,4,0,4,9:44 PM,7:42,,,Wright REBOUND (Off:0 Def:10),,
+0020401007,355,1,1,4,9:44 PM,7:24,,,Gasol 10' Jump Shot (6 PTS),85 - 82,-3
+0020401007,356,6,2,4,9:44 PM,7:24,Collins S.FOUL (P5.T3),,,,
+0020401007,357,8,0,4,9:45 PM,7:24,,,SUB: Cardinal FOR Wright,,
+0020401007,358,8,0,4,9:45 PM,7:24,SUB: Robinson FOR Collins,,,,
+0020401007,359,3,10,4,9:45 PM,7:24,,,MISS Gasol Free Throw 1 of 1,,
+0020401007,360,4,0,4,9:45 PM,7:23,Krstic REBOUND (Off:2 Def:3),,,,
+0020401007,361,2,1,4,9:45 PM,7:02,MISS Kidd 25' 3PT Jump Shot,,,,
+0020401007,362,4,0,4,9:45 PM,7:00,NETS Rebound,,,,
+0020401007,363,5,11,4,9:45 PM,6:59,NETS Turnover: Shot Clock (T#7),,,,
+0020401007,364,2,56,4,9:46 PM,6:43,,,MISS Gasol 6' Running Hook Shot,,
+0020401007,365,4,0,4,9:46 PM,6:42,Krstic REBOUND (Off:2 Def:4),,,,
+0020401007,366,6,2,4,9:46 PM,6:26,,,Gasol S.FOUL (P2.PN),,
+0020401007,367,3,11,4,9:46 PM,6:26,Krstic Free Throw 1 of 2 (12 PTS),,,85 - 83,-2
+0020401007,368,3,12,4,9:47 PM,6:26,Krstic Free Throw 2 of 2 (13 PTS),,,85 - 84,-1
+0020401007,369,1,1,4,9:47 PM,6:04,,,Watson  3PT Jump Shot (8 PTS),88 - 84,-4
+0020401007,370,2,1,4,9:48 PM,5:41,MISS Robinson  3PT Jump Shot,,,,
+0020401007,371,4,0,4,9:48 PM,5:40,,,Posey REBOUND (Off:0 Def:3),,
+0020401007,372,2,1,4,9:48 PM,5:26,,,MISS Cardinal 19' Jump Shot,,
+0020401007,373,4,0,4,9:48 PM,5:24,,,Gasol REBOUND (Off:2 Def:0),,
+0020401007,374,1,5,4,9:48 PM,5:12,,,Gasol  Layup (8 PTS) (Watson 3 AST),90 - 84,-6
+0020401007,376,9,1,4,9:48 PM,5:09,NETS Timeout: Regular (Full 5 Short 1),,,,
+0020401007,377,2,1,4,9:51 PM,4:49,MISS Buford  3PT Jump Shot,,,,
+0020401007,378,4,0,4,9:51 PM,4:48,,,Watson REBOUND (Off:0 Def:3),,
+0020401007,379,1,3,4,9:51 PM,4:32,,,Gasol 4' Hook Shot (10 PTS) (Watson 4 AST),92 - 84,-8
+0020401007,380,2,3,4,9:51 PM,4:19,MISS Krstic 6' Hook Shot,,,,
+0020401007,381,4,0,4,9:51 PM,4:18,,,Posey REBOUND (Off:0 Def:4),,
+0020401007,382,1,1,4,9:51 PM,4:01,,,Posey 24' 3PT Jump Shot (6 PTS) (Gasol 2 AST),95 - 84,-11
+0020401007,383,1,57,4,9:52 PM,3:39,Krstic 5' Driving Hook Shot (15 PTS) (Kidd 12 AST),,,95 - 86,-9
+0020401007,384,1,1,4,9:52 PM,3:24,,,Watson 18' Jump Shot (10 PTS),97 - 86,-11
+0020401007,385,9,2,4,9:52 PM,3:22,NETS Timeout: Short (Full 5 Short 2),,,,
+0020401007,387,8,0,4,9:53 PM,3:22,SUB: Best FOR Robinson,,,,
+0020401007,388,8,0,4,9:53 PM,3:22,,,SUB: Battier FOR Cardinal,,
+0020401007,389,6,1,4,9:53 PM,3:14,,,Gasol P.FOUL (P3.PN),,
+0020401007,390,3,11,4,9:54 PM,3:14,MISS Krstic Free Throw 1 of 2,,,,
+0020401007,391,4,1,4,9:54 PM,3:14,NETS Rebound,,,,
+0020401007,392,3,12,4,9:54 PM,3:14,Krstic Free Throw 2 of 2 (16 PTS),,,97 - 87,-10
+0020401007,393,5,8,4,9:55 PM,2:59,,,Gasol 3 Second Violation Turnover (P1.T17),,
+0020401007,394,2,1,4,9:55 PM,2:51,MISS Kidd 19' Jump Shot,,,,
+0020401007,395,4,0,4,9:55 PM,2:50,,,Miller REBOUND (Off:1 Def:3),,
+0020401007,396,2,1,4,9:55 PM,2:29,,,MISS Watson 19' Jump Shot,,
+0020401007,397,4,0,4,9:55 PM,2:28,Carter REBOUND (Off:1 Def:2),,,,
+0020401007,398,6,3,4,9:55 PM,2:23,,,Miller L.B.FOUL (P4.PN),,
+0020401007,399,3,11,4,9:56 PM,2:23,Krstic Free Throw 1 of 2 (17 PTS),,,97 - 88,-9
+0020401007,400,3,12,4,9:56 PM,2:23,Krstic Free Throw 2 of 2 (18 PTS),,,97 - 89,-8
+0020401007,401,2,1,4,9:57 PM,2:07,,,MISS Posey 24' 3PT Jump Shot,,
+0020401007,402,4,0,4,9:57 PM,2:05,NETS Rebound,,,,
+0020401007,403,6,3,4,9:57 PM,2:05,,,Gasol L.B.FOUL (P4.PN),,
+0020401007,404,3,11,4,9:57 PM,2:05,Krstic Free Throw 1 of 2 (19 PTS),,,97 - 90,-7
+0020401007,405,3,12,4,9:58 PM,2:05,Krstic Free Throw 2 of 2 (20 PTS),,,97 - 91,-6
+0020401007,406,5,2,4,9:58 PM,1:47,Carter STEAL (2 STL),,Gasol Lost Ball Turnover (P2.T18),,
+0020401007,407,2,1,4,9:58 PM,1:38,MISS Carter 27' 3PT Jump Shot,,,,
+0020401007,408,4,0,4,9:58 PM,1:37,,,Posey REBOUND (Off:0 Def:5),,
+0020401007,409,9,2,4,9:58 PM,1:32,,,Grizzlies Timeout: Short (Reg.4 Short 1),,
+0020401007,411,2,3,4,10:00 PM,1:19,,,MISS Gasol 5' Hook Shot,,
+0020401007,412,4,0,4,10:00 PM,1:18,Buford REBOUND (Off:2 Def:3),,,,
+0020401007,413,6,1,4,10:00 PM,1:13,,,Miller P.FOUL (P5.PN),,
+0020401007,414,3,11,4,10:00 PM,1:13,Kidd Free Throw 1 of 2 (11 PTS),,,97 - 92,-5
+0020401007,415,8,0,4,10:00 PM,1:13,,,SUB: Williams FOR Watson,,
+0020401007,416,3,12,4,10:00 PM,1:13,Kidd Free Throw 2 of 2 (12 PTS),,,97 - 93,-4
+0020401007,417,2,1,4,10:01 PM,0:52,,,MISS Miller  3PT Jump Shot,,
+0020401007,418,4,0,4,10:01 PM,0:51,Carter REBOUND (Off:1 Def:3),,,,
+0020401007,419,2,42,4,10:01 PM,0:45,MISS Buford  Driving Layup,,Miller BLOCK (1 BLK),,
+0020401007,420,4,0,4,10:01 PM,0:45,NETS Rebound,,,,
+0020401007,421,2,1,4,10:01 PM,0:38,MISS Krstic 10' Jump Shot,,,,
+0020401007,422,4,0,4,10:02 PM,0:36,,,Grizzlies Rebound,,
+0020401007,423,6,1,4,10:02 PM,0:26,Buford P.FOUL (P1.T4),,,,
+0020401007,424,8,0,4,10:02 PM,0:26,,,SUB: Watson FOR Miller,,
+0020401007,425,9,1,4,10:05 PM,0:26,,,Grizzlies Timeout: Regular (Reg.5 Short 1),,
+0020401007,427,6,1,4,10:06 PM,0:24,Carter P.FOUL (P5.PN),,,,
+0020401007,428,3,11,4,10:07 PM,0:24,,,Battier Free Throw 1 of 2 (4 PTS),98 - 93,-5
+0020401007,429,3,12,4,10:07 PM,0:24,,,Battier Free Throw 2 of 2 (5 PTS),99 - 93,-6
+0020401007,430,6,1,4,10:07 PM,0:17,,,Gasol P.FOUL (P5.PN),,
+0020401007,431,3,11,4,10:08 PM,0:17,Krstic Free Throw 1 of 2 (21 PTS),,,99 - 94,-5
+0020401007,432,8,0,4,10:08 PM,0:17,SUB: Vaughn FOR Carter,,,,
+0020401007,433,3,12,4,10:08 PM,0:17,MISS Krstic Free Throw 2 of 2,,,,
+0020401007,434,4,0,4,10:08 PM,0:16,,,Posey REBOUND (Off:0 Def:6),,
+0020401007,435,6,1,4,10:08 PM,0:16,Kidd P.FOUL (P1.PN),,,,
+0020401007,436,8,0,4,10:08 PM,0:16,SUB: Carter FOR Vaughn,,,,
+0020401007,437,3,11,4,10:08 PM,0:16,,,Posey Free Throw 1 of 2 (7 PTS),100 - 94,-6
+0020401007,438,8,0,4,10:09 PM,0:16,,,SUB: Miller FOR Gasol,,
+0020401007,439,3,12,4,10:09 PM,0:16,,,Posey Free Throw 2 of 2 (8 PTS),101 - 94,-7
+0020401007,440,9,1,4,10:09 PM,0:16,NETS Timeout: Regular (Full 6 Short 2),,,,
+0020401007,442,8,0,4,10:11 PM,0:16,SUB: Collins FOR Krstic,,,,
+0020401007,443,1,42,4,10:11 PM,0:13,Carter  Driving Layup (22 PTS) (Collins 1 AST),,,101 - 96,-5
+0020401007,444,6,1,4,10:11 PM,0:13,Collins P.FOUL (P6.PN),,,,
+0020401007,445,8,0,4,10:12 PM,0:13,SUB: Robinson FOR Collins,,,,
+0020401007,446,3,11,4,10:12 PM,0:13,,,Posey Free Throw 1 of 2 (9 PTS),102 - 96,-6
+0020401007,450,3,12,4,10:12 PM,0:13,,,Posey Free Throw 2 of 2 (10 PTS),103 - 96,-7
+0020401007,451,2,1,4,10:13 PM,0:04,MISS Carter 25' 3PT Jump Shot,,,,
+0020401007,452,4,0,4,10:13 PM,0:03,,,Posey REBOUND (Off:0 Def:7),,
+0020401007,453,6,1,4,10:13 PM,0:02,Carter P.FOUL (P6.PN),,,,
+0020401007,454,8,0,4,10:13 PM,0:02,SUB: Thomas FOR Carter,,,,
+0020401007,455,3,11,4,10:13 PM,0:02,,,Posey Free Throw 1 of 2 (11 PTS),104 - 96,-8
+0020401007,456,3,12,4,10:13 PM,0:02,,,Posey Free Throw 2 of 2 (12 PTS),105 - 96,-9
+0020401007,458,13,0,4,10:14 PM,0:00,,,,105 - 96,-9

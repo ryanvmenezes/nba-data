@@ -1,0 +1,434 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020600048,1,12,0,1,8:51 PM,12:00,,,,,
+0020600048,2,10,0,1,8:51 PM,12:00,Jump Ball Diop vs. Biedrins: Tip to Murphy,,,,
+0020600048,3,6,2,1,8:52 PM,11:47,Howard S.FOUL (P1.T1),,,,
+0020600048,4,3,11,1,8:52 PM,11:47,,,MISS Richardson Free Throw 1 of 2,,
+0020600048,5,4,1,1,8:52 PM,11:47,,,Warriors Rebound,,
+0020600048,6,3,12,1,8:52 PM,11:47,,,Richardson Free Throw 2 of 2 (1 PTS),1 - 0,-1
+0020600048,7,2,1,1,8:53 PM,11:28,MISS Howard  3PT Jump Shot,,,,
+0020600048,8,4,0,1,8:53 PM,11:26,,,Biedrins REBOUND (Off:0 Def:1),,
+0020600048,9,1,44,1,8:53 PM,11:16,,,Biedrins  Reverse Layup (2 PTS) (Davis 1 AST),3 - 0,-3
+0020600048,10,1,42,1,8:53 PM,11:01,Howard  Driving Layup (2 PTS),,,3 - 2,-1
+0020600048,11,5,2,1,8:54 PM,10:45,Nowitzki STEAL (1 STL),,Pietrus Lost Ball Turnover (P1.T1),,
+0020600048,12,1,44,1,8:54 PM,10:40,Harris  Reverse Layup (2 PTS) (Nowitzki 1 AST),,,3 - 4,1
+0020600048,13,6,4,1,8:54 PM,10:19,,,Murphy OFF.Foul (P1),,
+0020600048,14,5,5,1,8:54 PM,10:19,,,Murphy Foul Turnover (P1.T2),,
+0020600048,15,2,1,1,8:55 PM,10:06,MISS Howard 25' 3PT Jump Shot,,,,
+0020600048,16,4,0,1,8:55 PM,10:05,,,Biedrins REBOUND (Off:0 Def:2),,
+0020600048,17,2,5,1,8:55 PM,9:59,,,MISS Richardson  Layup,,
+0020600048,18,4,0,1,8:55 PM,9:58,Nowitzki REBOUND (Off:0 Def:1),,,,
+0020600048,19,2,1,1,8:55 PM,9:51,MISS Terry  3PT Jump Shot,,,,
+0020600048,24,4,0,1,8:55 PM,9:51,Nowitzki REBOUND (Off:1 Def:1),,,,
+0020600048,26,2,53,1,8:55 PM,9:51,MISS Nowitzki  Tip Shot,,,,
+0020600048,20,4,0,1,8:55 PM,9:50,,,Biedrins REBOUND (Off:0 Def:3),,
+0020600048,21,6,1,1,8:55 PM,9:36,Diop P.FOUL (P1.T2),,,,
+0020600048,22,2,1,1,8:56 PM,9:26,,,MISS Davis 16' Jump Shot,,
+0020600048,23,4,0,1,8:56 PM,9:25,Howard REBOUND (Off:0 Def:1),,,,
+0020600048,25,1,50,1,8:56 PM,9:21,Nowitzki  Running Dunk (2 PTS) (Howard 1 AST),,,3 - 6,3
+0020600048,27,5,2,1,8:56 PM,9:06,Harris STEAL (1 STL),,Richardson Lost Ball Turnover (P1.T3),,
+0020600048,28,1,1,1,8:56 PM,9:00,Terry 25' 3PT Jump Shot (3 PTS) (Harris 1 AST),,,3 - 9,6
+0020600048,29,9,1,1,8:56 PM,8:52,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020600048,33,2,1,1,8:59 PM,8:39,,,MISS Pietrus 20' Jump Shot,,
+0020600048,34,4,0,1,8:59 PM,8:38,Harris REBOUND (Off:0 Def:1),,,,
+0020600048,35,2,5,1,8:59 PM,8:26,MISS Harris  Layup,,,,
+0020600048,36,4,0,1,8:59 PM,8:25,Harris REBOUND (Off:1 Def:1),,,,
+0020600048,37,2,5,1,8:59 PM,8:24,MISS Harris  Layup,,Pietrus BLOCK (1 BLK),,
+0020600048,38,4,0,1,8:59 PM,8:22,,,Richardson REBOUND (Off:0 Def:1),,
+0020600048,39,1,1,1,8:59 PM,8:16,,,Murphy 16' Jump Shot (2 PTS),5 - 9,4
+0020600048,40,1,1,1,8:59 PM,7:54,Howard 24' 3PT Jump Shot (5 PTS) (Terry 1 AST),,,5 - 12,7
+0020600048,41,2,1,1,9:00 PM,7:39,,,MISS Richardson 14' Jump Shot,,
+0020600048,42,4,0,1,9:00 PM,7:38,,,Biedrins REBOUND (Off:1 Def:3),,
+0020600048,43,1,1,1,9:00 PM,7:21,,,Pietrus  3PT Jump Shot (3 PTS),8 - 12,4
+0020600048,44,2,1,1,9:00 PM,7:01,MISS Howard 18' Jump Shot,,,,
+0020600048,45,4,0,1,9:00 PM,6:59,,,Biedrins REBOUND (Off:1 Def:4),,
+0020600048,46,1,66,1,9:00 PM,6:51,,,Davis 12' Jump Bank Shot (2 PTS),10 - 12,2
+0020600048,47,1,1,1,9:01 PM,6:36,Terry 15' Jump Shot (5 PTS),,,10 - 14,4
+0020600048,48,5,2,1,9:01 PM,6:22,Howard STEAL (1 STL),,Pietrus Lost Ball Turnover (P2.T4),,
+0020600048,49,6,1,1,9:01 PM,6:22,,,Pietrus P.FOUL (P1.T1),,
+0020600048,50,6,1,1,9:02 PM,6:13,,,Richardson P.FOUL (P1.T2),,
+0020600048,51,2,1,1,9:02 PM,6:02,MISS Howard 11' Jump Shot,,,,
+0020600048,52,4,0,1,9:02 PM,6:02,,,Richardson REBOUND (Off:0 Def:2),,
+0020600048,53,6,3,1,9:02 PM,6:02,Diop L.B.FOUL (P2.T3),,,,
+0020600048,54,8,0,1,9:02 PM,6:02,SUB: Stackhouse FOR Howard,,,,
+0020600048,55,8,0,1,9:02 PM,6:02,SUB: Dampier FOR Diop,,,,
+0020600048,56,6,2,1,9:03 PM,5:47,Nowitzki S.FOUL (P1.T4),,,,
+0020600048,57,3,11,1,9:03 PM,5:47,,,Murphy Free Throw 1 of 2 (3 PTS),11 - 14,3
+0020600048,58,3,12,1,9:03 PM,5:47,,,Murphy Free Throw 2 of 2 (4 PTS),12 - 14,2
+0020600048,59,2,1,1,9:04 PM,5:34,MISS Nowitzki 5' Jump Shot,,Murphy BLOCK (1 BLK),,
+0020600048,60,4,0,1,9:04 PM,5:34,MAVERICKS Rebound,,,,
+0020600048,61,2,1,1,9:04 PM,5:29,MISS Stackhouse 18' Jump Shot,,,,
+0020600048,62,4,0,1,9:04 PM,5:28,,,Pietrus REBOUND (Off:0 Def:1),,
+0020600048,63,1,5,1,9:04 PM,5:22,,,Murphy  Layup (6 PTS) (Davis 2 AST),14 - 14,TIE
+0020600048,64,1,1,1,9:04 PM,5:08,Terry 25' 3PT Jump Shot (8 PTS) (Harris 2 AST),,,14 - 17,3
+0020600048,65,5,1,1,9:05 PM,4:59,Terry STEAL (1 STL),,Davis Bad Pass Turnover (P1.T5),,
+0020600048,66,5,39,1,9:05 PM,4:42,Harris Step Out of Bounds Turnover (P1.T1),,,,
+0020600048,67,8,0,1,9:05 PM,4:42,SUB: Johnson FOR Harris,,,,
+0020600048,68,2,5,1,9:06 PM,4:24,,,MISS Davis  Layup,,
+0020600048,69,4,0,1,9:06 PM,4:22,Nowitzki REBOUND (Off:1 Def:2),,,,
+0020600048,70,1,8,1,9:06 PM,4:08,Dampier  Slam Dunk (2 PTS) (Johnson 1 AST),,,14 - 19,5
+0020600048,71,6,2,1,9:06 PM,3:55,Terry S.FOUL (P1.PN),,,,
+0020600048,72,3,11,1,9:07 PM,3:55,,,MISS Davis Free Throw 1 of 2,,
+0020600048,73,4,1,1,9:07 PM,3:55,,,Warriors Rebound,,
+0020600048,74,3,12,1,9:07 PM,3:55,,,Davis Free Throw 2 of 2 (3 PTS),15 - 19,4
+0020600048,75,5,1,1,9:07 PM,3:36,Terry Bad Pass Turnover (P1.T2),,Davis STEAL (1 STL),,
+0020600048,76,1,41,1,9:07 PM,3:32,,,Davis  Running Layup (5 PTS),17 - 19,2
+0020600048,77,6,2,1,9:07 PM,3:32,Dampier S.FOUL (P1.PN),,,,
+0020600048,78,8,0,1,9:08 PM,3:32,SUB: Howard FOR Terry,,,,
+0020600048,79,3,10,1,9:08 PM,3:32,,,Davis Free Throw 1 of 1 (6 PTS),18 - 19,1
+0020600048,80,6,2,1,9:08 PM,3:19,,,Murphy S.FOUL (P2.T3),,
+0020600048,81,3,11,1,9:08 PM,3:19,Nowitzki Free Throw 1 of 2 (3 PTS),,,18 - 20,2
+0020600048,82,3,12,1,9:09 PM,3:19,MISS Nowitzki Free Throw 2 of 2,,,,
+0020600048,83,4,0,1,9:09 PM,3:19,,,Pietrus REBOUND (Off:0 Def:2),,
+0020600048,84,1,42,1,9:09 PM,3:09,,,Davis  Driving Layup (8 PTS),20 - 20,TIE
+0020600048,85,9,1,1,9:09 PM,3:03,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,
+0020600048,89,1,8,1,9:11 PM,2:53,Dampier  Slam Dunk (4 PTS) (Johnson 2 AST),,,20 - 22,2
+0020600048,90,6,2,1,9:12 PM,2:34,Johnson S.FOUL (P1.PN),,,,
+0020600048,91,3,11,1,9:12 PM,2:34,,,Davis Free Throw 1 of 2 (9 PTS),21 - 22,1
+0020600048,92,3,12,1,9:12 PM,2:34,,,Davis Free Throw 2 of 2 (10 PTS),22 - 22,TIE
+0020600048,93,6,2,1,9:13 PM,2:15,,,Biedrins S.FOUL (P1.T4),,
+0020600048,94,3,11,1,9:13 PM,2:15,Nowitzki Free Throw 1 of 2 (4 PTS),,,22 - 23,1
+0020600048,95,3,12,1,9:13 PM,2:15,Nowitzki Free Throw 2 of 2 (5 PTS),,,22 - 24,2
+0020600048,96,2,1,1,9:14 PM,1:56,,,MISS Davis 19' Jump Shot,,
+0020600048,97,4,0,1,9:14 PM,1:55,Stackhouse REBOUND (Off:0 Def:1),,,,
+0020600048,98,1,1,1,9:14 PM,1:45,Howard 24' 3PT Jump Shot (8 PTS) (Nowitzki 2 AST),,,22 - 27,5
+0020600048,99,1,1,1,9:14 PM,1:23,,,Richardson  3PT Jump Shot (4 PTS) (Murphy 1 AST),25 - 27,2
+0020600048,100,1,5,1,9:14 PM,1:11,Dampier  Layup (6 PTS) (Johnson 3 AST),,,25 - 29,4
+0020600048,101,5,1,1,9:15 PM,0:57,,,Richardson Bad Pass Turnover (P2.T6),,
+0020600048,102,8,0,1,9:15 PM,0:57,,,SUB: Dunleavy FOR Pietrus,,
+0020600048,103,1,47,1,9:15 PM,0:47,Stackhouse 18' Turnaround Jump Shot (2 PTS),,,25 - 31,6
+0020600048,104,1,1,1,9:15 PM,0:33,,,Murphy 17' Jump Shot (8 PTS),27 - 31,4
+0020600048,105,2,1,1,9:15 PM,0:26,MISS Stackhouse 25' 3PT Jump Shot,,,,
+0020600048,106,4,0,1,9:16 PM,0:26,Howard REBOUND (Off:1 Def:1),,,,
+0020600048,107,6,1,1,9:16 PM,0:26,,,Biedrins P.FOUL (P2.PN),,
+0020600048,108,8,0,1,9:16 PM,0:26,SUB: Croshere FOR Nowitzki,,,,
+0020600048,109,8,0,1,9:16 PM,0:26,,,SUB: Pietrus FOR Biedrins,,
+0020600048,110,3,11,1,9:16 PM,0:26,Dampier Free Throw 1 of 2 (7 PTS),,,27 - 32,5
+0020600048,111,3,12,1,9:16 PM,0:26,MISS Dampier Free Throw 2 of 2,,,,
+0020600048,112,4,0,1,9:17 PM,0:25,Stackhouse REBOUND (Off:1 Def:1),,,,
+0020600048,113,1,61,1,9:17 PM,0:03,Stackhouse  Driving Finger Roll (4 PTS),,,27 - 34,7
+0020600048,114,5,1,1,9:17 PM,0:01,Johnson STEAL (1 STL),,Murphy Bad Pass Turnover (P2.T7),,
+0020600048,115,2,1,1,9:17 PM,0:00,MISS Croshere 22' Jump Shot,,,,
+0020600048,116,4,0,1,9:17 PM,0:00,MAVERICKS Rebound,,,,
+0020600048,117,13,0,1,9:17 PM,0:00,,,,27 - 34,7
+0020600048,119,12,0,2,9:20 PM,12:00,,,,27 - 34,7
+0020600048,120,5,8,2,9:20 PM,11:41,Dampier 3 Second Violation Turnover (P1.T3),,,,
+0020600048,121,1,1,2,9:21 PM,11:27,,,Murphy 24' 3PT Jump Shot (11 PTS) (Richardson 1 AST),30 - 34,4
+0020600048,122,2,1,2,9:21 PM,11:15,MISS Croshere 24' 3PT Jump Shot,,,,
+0020600048,123,4,0,2,9:21 PM,11:14,,,Davis REBOUND (Off:0 Def:1),,
+0020600048,124,1,47,2,9:21 PM,10:58,,,Richardson 7' Turnaround Jump Shot (6 PTS),32 - 34,2
+0020600048,125,2,1,2,9:22 PM,10:36,MISS Johnson 24' 3PT Jump Shot,,,,
+0020600048,126,4,0,2,9:22 PM,10:35,Croshere REBOUND (Off:1 Def:0),,,,
+0020600048,127,1,5,2,9:22 PM,10:33,Croshere  Layup (2 PTS),,,32 - 36,4
+0020600048,128,1,42,2,9:22 PM,10:22,,,Murphy  Driving Layup (13 PTS),34 - 36,2
+0020600048,129,2,1,2,9:22 PM,10:10,MISS Howard 24' 3PT Jump Shot,,,,
+0020600048,130,4,0,2,9:22 PM,10:10,,,Warriors Rebound,,
+0020600048,131,8,0,2,9:22 PM,10:10,SUB: Nowitzki FOR Dampier,,,,
+0020600048,132,8,0,2,9:22 PM,10:10,SUB: Harris FOR Johnson,,,,
+0020600048,133,5,1,2,9:22 PM,10:00,Howard STEAL (2 STL),,Davis Bad Pass Turnover (P2.T8),,
+0020600048,134,1,60,2,9:23 PM,9:56,Howard  Running Finger Roll (10 PTS),,,34 - 38,4
+0020600048,135,2,1,2,9:23 PM,9:39,,,MISS Richardson 19' Jump Shot,,
+0020600048,136,4,0,2,9:23 PM,9:38,Harris REBOUND (Off:1 Def:2),,,,
+0020600048,137,1,46,2,9:23 PM,9:31,Harris 5' Running Jump Shot (4 PTS),,,34 - 40,6
+0020600048,138,1,44,2,9:23 PM,9:07,,,Murphy  Reverse Layup (15 PTS),36 - 40,4
+0020600048,139,6,2,2,9:23 PM,9:07,Howard S.FOUL (P2.T1),,,,
+0020600048,140,8,0,2,9:24 PM,9:07,,,SUB: Ellis FOR Richardson,,
+0020600048,141,8,0,2,9:24 PM,9:07,SUB: Terry FOR Stackhouse,,,,
+0020600048,142,3,10,2,9:24 PM,9:07,,,Murphy Free Throw 1 of 1 (16 PTS),37 - 40,3
+0020600048,143,1,1,2,9:24 PM,8:48,Nowitzki 19' Jump Shot (7 PTS) (Terry 2 AST),,,37 - 42,5
+0020600048,144,1,50,2,9:25 PM,8:34,,,Davis  Running Dunk (12 PTS),39 - 42,3
+0020600048,145,9,1,2,9:25 PM,8:25,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,
+0020600048,150,6,1,2,9:27 PM,8:13,,,Davis P.FOUL (P1.T1),,
+0020600048,151,2,1,2,9:28 PM,8:06,MISS Terry 21' Jump Shot,,,,
+0020600048,152,4,0,2,9:28 PM,8:04,,,Ellis REBOUND (Off:0 Def:1),,
+0020600048,153,1,1,2,9:28 PM,7:45,,,Dunleavy 25' 3PT Jump Shot (3 PTS) (Davis 3 AST),42 - 42,TIE
+0020600048,154,2,42,2,9:28 PM,7:37,MISS Harris  Driving Layup,,,,
+0020600048,155,4,0,2,9:28 PM,7:36,,,Murphy REBOUND (Off:0 Def:1),,
+0020600048,156,1,42,2,9:28 PM,7:30,,,Ellis  Driving Layup (2 PTS) (Murphy 2 AST),44 - 42,-2
+0020600048,157,1,61,2,9:28 PM,7:13,Howard  Driving Finger Roll (12 PTS),,,44 - 44,TIE
+0020600048,158,2,1,2,9:29 PM,7:05,,,MISS Davis 25' 3PT Jump Shot,,
+0020600048,159,4,0,2,9:29 PM,7:04,,,Pietrus REBOUND (Off:1 Def:2),,
+0020600048,160,2,46,2,9:29 PM,6:50,Harris BLOCK (1 BLK),,MISS Ellis 6' Running Jump Shot,,
+0020600048,161,4,0,2,9:29 PM,6:48,Howard REBOUND (Off:1 Def:2),,,,
+0020600048,162,6,2,2,9:29 PM,6:35,,,Pietrus S.FOUL (P2.T2),,
+0020600048,163,8,0,2,9:30 PM,6:35,SUB: Diop FOR Croshere,,,,
+0020600048,164,8,0,2,9:30 PM,6:35,,,SUB: Biedrins FOR Murphy,,
+0020600048,165,3,11,2,9:30 PM,6:35,MISS Howard Free Throw 1 of 2,,,,
+0020600048,166,4,1,2,9:30 PM,6:35,MAVERICKS Rebound,,,,
+0020600048,167,3,12,2,9:31 PM,6:35,Howard Free Throw 2 of 2 (13 PTS),,,44 - 45,1
+0020600048,168,6,1,2,9:31 PM,6:34,Harris P.FOUL (P1.T2),,,,
+0020600048,169,8,0,2,9:31 PM,6:34,SUB: Stackhouse FOR Howard,,,,
+0020600048,170,5,2,2,9:31 PM,6:20,Harris STEAL (2 STL),,Davis Lost Ball Turnover (P3.T9),,
+0020600048,171,1,1,2,9:32 PM,6:04,Terry 16' Jump Shot (10 PTS) (Nowitzki 3 AST),,,44 - 47,3
+0020600048,172,2,1,2,9:32 PM,5:40,,,MISS Ellis 8' Jump Shot,,
+0020600048,173,4,0,2,9:32 PM,5:37,Diop REBOUND (Off:0 Def:1),,,,
+0020600048,174,2,1,2,9:32 PM,5:26,MISS Stackhouse  3PT Jump Shot,,,,
+0020600048,175,4,0,2,9:32 PM,5:25,,,Dunleavy REBOUND (Off:0 Def:1),,
+0020600048,176,1,66,2,9:32 PM,5:15,,,Davis 8' Jump Bank Shot (14 PTS),46 - 47,1
+0020600048,177,1,44,2,9:33 PM,4:56,Nowitzki  Reverse Layup (9 PTS) (Terry 3 AST),,,46 - 49,3
+0020600048,178,2,1,2,9:33 PM,4:46,,,MISS Dunleavy  3PT Jump Shot,,
+0020600048,179,4,0,2,9:33 PM,4:45,Terry REBOUND (Off:0 Def:1),,,,
+0020600048,180,1,1,2,9:33 PM,4:37,Nowitzki 13' Jump Shot (11 PTS) (Terry 4 AST),,,46 - 51,5
+0020600048,181,1,1,2,9:33 PM,4:22,,,Pietrus  3PT Jump Shot (6 PTS) (Ellis 1 AST),49 - 51,2
+0020600048,182,2,5,2,9:34 PM,4:08,MISS Harris  Layup,,,,
+0020600048,183,4,0,2,9:34 PM,4:06,Diop REBOUND (Off:1 Def:1),,,,
+0020600048,184,2,5,2,9:34 PM,3:59,MISS Terry  Layup,,Biedrins BLOCK (1 BLK),,
+0020600048,185,4,0,2,9:34 PM,3:56,,,Davis REBOUND (Off:0 Def:2),,
+0020600048,188,9,4,2,9:34 PM,3:54,,,,,
+0020600048,189,6,11,2,9:35 PM,3:54,,,,,
+0020600048,192,3,16,2,9:36 PM,3:54,,,Dunleavy Free Throw Technical (4 PTS),50 - 51,1
+0020600048,193,6,11,2,9:36 PM,3:54,,,,,
+0020600048,194,3,16,2,9:36 PM,3:54,,,Dunleavy Free Throw Technical (5 PTS),51 - 51,TIE
+0020600048,195,11,1,2,9:36 PM,3:54,,,,,
+0020600048,186,6,2,2,9:37 PM,3:54,Nowitzki S.FOUL (P2.T3),,,,
+0020600048,196,3,11,2,9:37 PM,3:54,,,MISS Ellis Free Throw 1 of 2,,
+0020600048,197,4,1,2,9:37 PM,3:54,,,Warriors Rebound,,
+0020600048,198,3,12,2,9:37 PM,3:54,,,Ellis Free Throw 2 of 2 (3 PTS),52 - 51,-1
+0020600048,200,2,1,2,9:37 PM,3:37,MISS Stackhouse 20' Jump Shot,,,,
+0020600048,201,4,0,2,9:37 PM,3:36,,,Pietrus REBOUND (Off:1 Def:3),,
+0020600048,203,2,1,2,9:37 PM,3:26,,,MISS Davis 12' Jump Shot,,
+0020600048,204,4,0,2,9:37 PM,3:24,Nowitzki REBOUND (Off:1 Def:3),,,,
+0020600048,206,1,1,2,9:38 PM,3:14,Harris 19' Jump Shot (6 PTS) (Diop 1 AST),,,52 - 53,1
+0020600048,207,6,17,2,9:38 PM,3:01,MAVERICKS T.Foul (Def. 3 Sec Nowitzki ),,,,
+0020600048,208,3,16,2,9:38 PM,3:01,,,Dunleavy Free Throw Technical (6 PTS),53 - 53,TIE
+0020600048,210,5,4,2,9:39 PM,2:49,,,Pietrus Traveling Turnover (P3.T10),,
+0020600048,211,9,1,2,9:39 PM,2:49,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020600048,215,6,17,2,9:41 PM,2:36,,,Warriors T.Foul (Def. 3 Sec Ellis ),,
+0020600048,216,3,16,2,9:41 PM,2:36,Nowitzki Free Throw Technical (12 PTS),,,53 - 54,1
+0020600048,217,6,2,2,9:42 PM,2:26,,,Ellis S.FOUL (P1.T3),,
+0020600048,218,3,11,2,9:42 PM,2:26,Nowitzki Free Throw 1 of 2 (13 PTS),,,53 - 55,2
+0020600048,219,3,12,2,9:42 PM,2:26,Nowitzki Free Throw 2 of 2 (14 PTS),,,53 - 56,3
+0020600048,221,5,1,2,9:43 PM,2:09,,,Pietrus Bad Pass Turnover (P4.T11),,
+0020600048,222,2,1,2,9:43 PM,1:49,MISS Terry 17' Jump Shot,,,,
+0020600048,223,4,0,2,9:43 PM,1:48,,,Dunleavy REBOUND (Off:0 Def:2),,
+0020600048,224,1,42,2,9:44 PM,1:34,,,Ellis  Driving Layup (5 PTS) (Biedrins 1 AST),55 - 56,1
+0020600048,225,1,1,2,9:44 PM,1:16,Terry 25' 3PT Jump Shot (13 PTS) (Stackhouse 1 AST),,,55 - 59,4
+0020600048,226,6,2,2,9:44 PM,1:02,Diop S.FOUL (P3.T4),,,,
+0020600048,227,3,11,2,9:45 PM,1:02,,,Pietrus Free Throw 1 of 2 (7 PTS),56 - 59,3
+0020600048,228,8,0,2,9:45 PM,1:02,SUB: Dampier FOR Diop,,,,
+0020600048,229,8,0,2,9:45 PM,1:02,,,SUB: Murphy FOR Biedrins,,
+0020600048,230,3,12,2,9:45 PM,1:02,,,Pietrus Free Throw 2 of 2 (8 PTS),57 - 59,2
+0020600048,231,6,1,2,9:46 PM,0:52,,,Pietrus P.FOUL (P3.T4),,
+0020600048,232,8,0,2,9:46 PM,0:52,,,SUB: Barnes FOR Pietrus,,
+0020600048,233,5,1,2,9:46 PM,0:45,Nowitzki Bad Pass Turnover (P1.T4),,,,
+0020600048,234,2,1,2,9:47 PM,0:28,,,MISS Murphy 14' Jump Shot,,
+0020600048,235,4,0,2,9:47 PM,0:26,Terry REBOUND (Off:0 Def:2),,,,
+0020600048,236,2,1,2,9:47 PM,0:04,MISS Terry 24' 3PT Jump Shot,,,,
+0020600048,237,4,0,2,9:47 PM,0:03,Dampier REBOUND (Off:1 Def:0),,,,
+0020600048,238,2,5,2,9:47 PM,0:02,MISS Dampier  Layup,,,,
+0020600048,239,4,0,2,9:47 PM,0:01,,,Barnes REBOUND (Off:0 Def:1),,
+0020600048,240,2,1,2,9:47 PM,0:00,,,MISS Davis 41' 3PT Jump Shot,,
+0020600048,241,4,0,2,9:47 PM,0:00,,,Warriors Rebound,,
+0020600048,242,13,0,2,9:47 PM,0:00,,,,57 - 59,2
+0020600048,244,12,0,3,10:03 PM,12:00,,,,57 - 59,2
+0020600048,245,2,1,3,10:04 PM,11:34,MISS Nowitzki 23' Jump Shot,,,,
+0020600048,246,4,0,3,10:04 PM,11:32,Diop REBOUND (Off:2 Def:1),,,,
+0020600048,247,5,39,3,10:04 PM,11:30,Diop Step Out of Bounds Turnover (P1.T5),,,,
+0020600048,248,6,2,3,10:04 PM,11:25,Buckner S.FOUL (P1.T1),,,,
+0020600048,249,3,11,3,10:04 PM,11:25,,,Richardson Free Throw 1 of 2 (7 PTS),58 - 59,1
+0020600048,250,3,12,3,10:05 PM,11:25,,,Richardson Free Throw 2 of 2 (8 PTS),59 - 59,TIE
+0020600048,251,5,4,3,10:05 PM,11:05,Terry Traveling Turnover (P2.T6),,,,
+0020600048,252,1,1,3,10:06 PM,10:53,,,Richardson 18' Jump Shot (10 PTS) (Pietrus 1 AST),61 - 59,-2
+0020600048,253,5,2,3,10:06 PM,10:33,Nowitzki Lost Ball Turnover (P2.T7),,Richardson STEAL (1 STL),,
+0020600048,254,5,39,3,10:06 PM,10:32,,,Richardson Step Out of Bounds Turnover (P3.T12),,
+0020600048,255,8,0,3,10:06 PM,10:32,SUB: Croshere FOR Diop,,,,
+0020600048,256,2,1,3,10:06 PM,10:21,MISS Terry 21' Jump Shot,,,,
+0020600048,257,4,0,3,10:07 PM,10:20,,,Richardson REBOUND (Off:0 Def:3),,
+0020600048,258,1,1,3,10:07 PM,9:59,,,Davis 20' Jump Shot (16 PTS) (Murphy 3 AST),63 - 59,-4
+0020600048,259,6,2,3,10:07 PM,9:34,,,Pietrus S.FOUL (P4.T1),,
+0020600048,260,8,0,3,10:07 PM,9:34,,,SUB: Biedrins FOR Ellis,,
+0020600048,261,3,11,3,10:08 PM,9:34,Nowitzki Free Throw 1 of 2 (15 PTS),,,63 - 60,-3
+0020600048,262,8,0,3,10:08 PM,9:34,,,SUB: Barnes FOR Pietrus,,
+0020600048,263,3,12,3,10:08 PM,9:34,Nowitzki Free Throw 2 of 2 (16 PTS),,,63 - 61,-2
+0020600048,264,2,5,3,10:09 PM,9:18,,,MISS Biedrins  Layup,,
+0020600048,265,4,0,3,10:09 PM,9:17,Harris REBOUND (Off:1 Def:3),,,,
+0020600048,266,1,1,3,10:09 PM,9:10,Buckner 25' 3PT Jump Shot (3 PTS) (Harris 3 AST),,,63 - 64,1
+0020600048,267,2,1,3,10:09 PM,8:55,,,MISS Davis 25' 3PT Jump Shot,,
+0020600048,268,4,0,3,10:09 PM,8:54,Harris REBOUND (Off:1 Def:4),,,,
+0020600048,269,2,1,3,10:09 PM,8:48,MISS Harris 19' Jump Shot,,,,
+0020600048,270,4,0,3,10:09 PM,8:47,,,Richardson REBOUND (Off:0 Def:4),,
+0020600048,271,2,1,3,10:09 PM,8:27,,,MISS Richardson 25' 3PT Jump Shot,,
+0020600048,272,4,0,3,10:09 PM,8:26,Buckner REBOUND (Off:0 Def:1),,,,
+0020600048,273,2,41,3,10:10 PM,8:21,MISS Harris  Running Layup,,Davis BLOCK (1 BLK),,
+0020600048,274,4,0,3,10:10 PM,8:19,,,Biedrins REBOUND (Off:1 Def:5),,
+0020600048,275,6,1,3,10:10 PM,8:14,Harris P.FOUL (P2.T2),,,,
+0020600048,276,2,1,3,10:10 PM,7:57,,,MISS Richardson  3PT Jump Shot,,
+0020600048,277,4,0,3,10:10 PM,7:56,,,Biedrins REBOUND (Off:2 Def:5),,
+0020600048,278,5,1,3,10:10 PM,7:52,Terry STEAL (2 STL),,Davis Bad Pass Turnover (P4.T13),,
+0020600048,279,1,41,3,10:10 PM,7:48,Buckner  Running Layup (5 PTS) (Nowitzki 4 AST),,,63 - 66,3
+0020600048,280,6,4,3,10:11 PM,7:33,,,Richardson OFF.Foul (P2),,
+0020600048,281,5,5,3,10:11 PM,7:33,,,Richardson Foul Turnover (P4.T14),,
+0020600048,282,8,0,3,10:11 PM,7:33,,,SUB: Ellis FOR Biedrins,,
+0020600048,283,1,46,3,10:12 PM,7:09,Buckner 5' Running Jump Shot (7 PTS),,,63 - 68,5
+0020600048,284,1,1,3,10:12 PM,6:46,,,Murphy 19' Jump Shot (18 PTS) (Davis 4 AST),65 - 68,3
+0020600048,285,6,2,3,10:12 PM,6:38,,,Davis S.FOUL (P2.T2),,
+0020600048,286,3,11,3,10:13 PM,6:38,Terry Free Throw 1 of 2 (14 PTS),,,65 - 69,4
+0020600048,287,3,12,3,10:13 PM,6:38,Terry Free Throw 2 of 2 (15 PTS),,,65 - 70,5
+0020600048,288,1,1,3,10:13 PM,6:22,,,Barnes 20' Jump Shot (2 PTS) (Ellis 2 AST),67 - 70,3
+0020600048,289,1,1,3,10:14 PM,6:07,Buckner  3PT Jump Shot (10 PTS) (Harris 4 AST),,,67 - 73,6
+0020600048,290,2,1,3,10:14 PM,5:53,,,MISS Ellis 25' 3PT Jump Shot,,
+0020600048,291,4,0,3,10:14 PM,5:52,,,Davis REBOUND (Off:1 Def:2),,
+0020600048,292,1,1,3,10:14 PM,5:38,,,Ellis 25' 3PT Jump Shot (8 PTS) (Murphy 4 AST),70 - 73,3
+0020600048,293,2,1,3,10:14 PM,5:21,MISS Terry 25' 3PT Jump Shot,,,,
+0020600048,294,4,0,3,10:14 PM,5:20,,,Murphy REBOUND (Off:0 Def:2),,
+0020600048,295,1,1,3,10:15 PM,5:03,,,Davis  3PT Jump Shot (19 PTS) (Ellis 3 AST),73 - 73,TIE
+0020600048,296,2,1,3,10:15 PM,4:44,MISS Buckner  3PT Jump Shot,,,,
+0020600048,297,4,0,3,10:15 PM,4:43,Harris REBOUND (Off:2 Def:4),,,,
+0020600048,298,6,1,3,10:15 PM,4:41,,,Davis P.FOUL (P3.T3),,
+0020600048,299,9,1,3,10:15 PM,4:41,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,
+0020600048,301,8,0,3,10:17 PM,4:41,SUB: Stackhouse FOR Terry,,,,
+0020600048,302,8,0,3,10:17 PM,4:41,SUB: Johnson FOR Buckner,,,,
+0020600048,304,2,1,3,10:18 PM,4:31,MISS Croshere 16' Jump Shot,,,,
+0020600048,305,4,0,3,10:18 PM,4:30,,,Ellis REBOUND (Off:0 Def:2),,
+0020600048,306,2,1,3,10:18 PM,4:21,,,MISS Murphy 25' 3PT Jump Shot,,
+0020600048,307,4,0,3,10:18 PM,4:20,Nowitzki REBOUND (Off:1 Def:4),,,,
+0020600048,308,2,1,3,10:18 PM,4:05,MISS Stackhouse  3PT Jump Shot,,,,
+0020600048,309,4,0,3,10:18 PM,4:04,,,Ellis REBOUND (Off:0 Def:3),,
+0020600048,310,6,4,3,10:18 PM,4:00,,,Ellis OFF.Foul (P2),,
+0020600048,311,5,5,3,10:18 PM,4:00,,,Ellis Foul Turnover (P1.T15),,
+0020600048,312,2,1,3,10:19 PM,3:43,MISS Croshere 17' Jump Shot,,,,
+0020600048,313,4,0,3,10:19 PM,3:42,,,Davis REBOUND (Off:1 Def:3),,
+0020600048,314,2,61,3,10:19 PM,3:38,Harris BLOCK (2 BLK),,MISS Ellis  Driving Finger Roll,,
+0020600048,315,4,0,3,10:19 PM,3:36,Nowitzki REBOUND (Off:1 Def:5),,,,
+0020600048,316,2,1,3,10:19 PM,3:29,MISS Croshere 25' 3PT Jump Shot,,,,
+0020600048,317,4,0,3,10:19 PM,3:28,,,Richardson REBOUND (Off:0 Def:5),,
+0020600048,320,6,2,3,10:19 PM,3:25,Johnson S.FOUL (P2.T3),,,,
+0020600048,321,3,11,3,10:19 PM,3:25,,,Richardson Free Throw 1 of 2 (11 PTS),74 - 73,-1
+0020600048,322,8,0,3,10:20 PM,3:25,SUB: Buckner FOR Croshere,,,,
+0020600048,323,3,12,3,10:20 PM,3:25,,,Richardson Free Throw 2 of 2 (12 PTS),75 - 73,-2
+0020600048,324,2,63,3,10:20 PM,3:09,MISS Stackhouse 4' Fadeaway Jumper,,,,
+0020600048,325,4,0,3,10:20 PM,3:07,,,Murphy REBOUND (Off:0 Def:3),,
+0020600048,326,1,1,3,10:20 PM,2:55,,,Richardson 13' Jump Shot (14 PTS),77 - 73,-4
+0020600048,327,1,42,3,10:21 PM,2:38,Nowitzki  Driving Layup (18 PTS),,,77 - 75,-2
+0020600048,328,6,2,3,10:21 PM,2:38,,,Barnes S.FOUL (P1.T4),,
+0020600048,329,9,1,3,10:21 PM,2:38,,,Warriors Timeout: Regular (Reg.3 Short 0),,
+0020600048,331,8,0,3,10:23 PM,2:38,SUB: Terry FOR Harris,,,,
+0020600048,333,3,10,3,10:23 PM,2:38,Nowitzki Free Throw 1 of 1 (19 PTS),,,77 - 76,-1
+0020600048,334,2,1,3,10:24 PM,2:23,Buckner BLOCK (1 BLK),,MISS Richardson 15' Jump Shot,,
+0020600048,335,4,0,3,10:24 PM,2:21,Johnson REBOUND (Off:0 Def:1),,,,
+0020600048,336,2,1,3,10:24 PM,2:14,MISS Johnson 24' 3PT Jump Shot,,,,
+0020600048,337,4,0,3,10:24 PM,2:13,,,Davis REBOUND (Off:1 Def:4),,
+0020600048,338,1,63,3,10:24 PM,1:55,,,Richardson 14' Fadeaway Jumper (16 PTS),79 - 76,-3
+0020600048,339,6,1,3,10:24 PM,1:45,,,Barnes P.FOUL (P2.PN),,
+0020600048,340,3,11,3,10:25 PM,1:45,Nowitzki Free Throw 1 of 2 (20 PTS),,,79 - 77,-2
+0020600048,341,8,0,3,10:25 PM,1:45,,,SUB: Biedrins FOR Barnes,,
+0020600048,342,3,12,3,10:25 PM,1:45,Nowitzki Free Throw 2 of 2 (21 PTS),,,79 - 78,-1
+0020600048,343,1,47,3,10:26 PM,1:24,,,Davis 16' Turnaround Jump Shot (21 PTS),81 - 78,-3
+0020600048,344,1,1,3,10:26 PM,1:11,Nowitzki 25' 3PT Jump Shot (24 PTS) (Terry 5 AST),,,81 - 81,TIE
+0020600048,345,2,1,3,10:26 PM,0:53,,,MISS Richardson 11' Jump Shot,,
+0020600048,346,4,0,3,10:26 PM,0:52,,,Richardson REBOUND (Off:1 Def:5),,
+0020600048,347,2,5,3,10:26 PM,0:50,,,MISS Richardson  Layup,,
+0020600048,348,4,0,3,10:26 PM,0:49,Johnson REBOUND (Off:0 Def:2),,,,
+0020600048,349,1,61,3,10:26 PM,0:39,Stackhouse  Driving Finger Roll (6 PTS),,,81 - 83,2
+0020600048,350,1,1,3,10:27 PM,0:29,,,Davis 25' 3PT Jump Shot (24 PTS),84 - 83,-1
+0020600048,351,2,5,3,10:27 PM,0:09,MISS Stackhouse  Layup,,,,
+0020600048,352,4,0,3,10:27 PM,0:08,,,Murphy REBOUND (Off:0 Def:4),,
+0020600048,353,2,1,3,10:27 PM,0:00,,,MISS Davis 25' 3PT Jump Shot,,
+0020600048,354,4,0,3,10:27 PM,0:00,Nowitzki REBOUND (Off:1 Def:6),,,,
+0020600048,355,13,0,3,10:27 PM,0:00,,,,84 - 83,-1
+0020600048,357,12,0,4,10:30 PM,12:00,,,,84 - 83,-1
+0020600048,358,5,1,4,10:30 PM,11:49,Terry STEAL (3 STL),,Ellis Bad Pass Turnover (P2.T16),,
+0020600048,359,6,2,4,10:30 PM,11:46,,,Murphy S.FOUL (P3.T1),,
+0020600048,360,3,11,4,10:31 PM,11:46,MISS Buckner Free Throw 1 of 2,,,,
+0020600048,361,4,1,4,10:31 PM,11:46,MAVERICKS Rebound,,,,
+0020600048,362,3,12,4,10:31 PM,11:46,Buckner Free Throw 2 of 2 (11 PTS),,,84 - 84,TIE
+0020600048,363,2,1,4,10:31 PM,11:33,,,MISS Richardson 19' Jump Shot,,
+0020600048,364,4,0,4,10:31 PM,11:32,,,Davis REBOUND (Off:2 Def:4),,
+0020600048,365,2,1,4,10:31 PM,11:22,,,MISS Davis  3PT Jump Shot,,
+0020600048,366,4,0,4,10:31 PM,11:21,Johnson REBOUND (Off:0 Def:3),,,,
+0020600048,367,2,1,4,10:32 PM,11:15,MISS Terry 24' 3PT Jump Shot,,,,
+0020600048,368,4,0,4,10:32 PM,11:14,Stackhouse REBOUND (Off:2 Def:1),,,,
+0020600048,369,2,1,4,10:32 PM,11:05,MISS Buckner 25' 3PT Jump Shot,,,,
+0020600048,370,4,0,4,10:32 PM,11:03,,,Murphy REBOUND (Off:0 Def:5),,
+0020600048,371,6,2,4,10:32 PM,10:58,Johnson S.FOUL (P3.T1),,,,
+0020600048,372,8,0,4,10:32 PM,10:58,,,SUB: Pietrus FOR Richardson,,
+0020600048,373,3,11,4,10:32 PM,10:58,,,MISS Davis Free Throw 1 of 2,,
+0020600048,374,4,1,4,10:32 PM,10:58,,,Warriors Rebound,,
+0020600048,375,3,12,4,10:32 PM,10:58,,,Davis Free Throw 2 of 2 (25 PTS),85 - 84,-1
+0020600048,376,2,1,4,10:33 PM,10:40,MISS Johnson 22' Jump Shot,,,,
+0020600048,377,4,0,4,10:33 PM,10:39,,,Davis REBOUND (Off:2 Def:5),,
+0020600048,378,2,5,4,10:33 PM,10:34,,,MISS Pietrus  Layup,,
+0020600048,379,4,0,4,10:33 PM,10:32,Stackhouse REBOUND (Off:2 Def:2),,,,
+0020600048,380,5,1,4,10:33 PM,10:28,Stackhouse Bad Pass Turnover (P1.T8),,Biedrins STEAL (1 STL),,
+0020600048,381,2,1,4,10:33 PM,10:10,,,MISS Pietrus  3PT Jump Shot,,
+0020600048,382,4,0,4,10:33 PM,10:09,,,Biedrins REBOUND (Off:3 Def:5),,
+0020600048,383,1,50,4,10:34 PM,9:54,,,Pietrus  Running Dunk (10 PTS) (Davis 5 AST),87 - 84,-3
+0020600048,384,2,1,4,10:34 PM,9:25,MISS Stackhouse 4' Jump Shot,,Biedrins BLOCK (2 BLK),,
+0020600048,385,4,0,4,10:34 PM,9:25,MAVERICKS Rebound,,,,
+0020600048,386,5,11,4,10:34 PM,9:25,MAVERICKS Turnover: Shot Clock (T#9),,,,
+0020600048,387,8,0,4,10:34 PM,9:25,SUB: Nowitzki FOR Stackhouse,,,,
+0020600048,388,1,1,4,10:35 PM,9:07,,,Ellis 25' 3PT Jump Shot (11 PTS) (Davis 6 AST),90 - 84,-6
+0020600048,389,9,1,4,10:35 PM,9:05,MAVERICKS Timeout: Regular (Full 4 Short 0),,,,
+0020600048,393,1,1,4,10:37 PM,8:44,Johnson  3PT Jump Shot (3 PTS) (Buckner 1 AST),,,90 - 87,-3
+0020600048,394,2,47,4,10:38 PM,8:17,,,MISS Davis 15' Turnaround Jump Shot,,
+0020600048,396,4,0,4,10:38 PM,8:16,,,Pietrus REBOUND (Off:2 Def:3),,
+0020600048,395,1,64,4,10:38 PM,8:16,,,Pietrus  Follow Up Dunk (12 PTS),92 - 87,-5
+0020600048,397,1,61,4,10:38 PM,8:02,Johnson  Driving Finger Roll (5 PTS),,,92 - 89,-3
+0020600048,398,6,2,4,10:39 PM,7:39,Buckner S.FOUL (P2.T2),,,,
+0020600048,399,3,11,4,10:39 PM,7:39,,,MISS Biedrins Free Throw 1 of 2,,
+0020600048,400,4,1,4,10:39 PM,7:39,,,Warriors Rebound,,
+0020600048,401,3,12,4,10:39 PM,7:39,,,Biedrins Free Throw 2 of 2 (3 PTS),93 - 89,-4
+0020600048,402,2,47,4,10:40 PM,7:26,MISS Terry 8' Turnaround Jump Shot,,Biedrins BLOCK (3 BLK),,
+0020600048,403,4,0,4,10:40 PM,7:25,,,Murphy REBOUND (Off:0 Def:6),,
+0020600048,404,6,1,4,10:40 PM,7:25,Terry P.FOUL (P2.T3),,,,
+0020600048,405,6,1,4,10:40 PM,7:17,Johnson P.FOUL (P4.T4),,,,
+0020600048,406,6,2,4,10:40 PM,7:12,Buckner S.FOUL (P3.PN),,,,
+0020600048,407,3,11,4,10:41 PM,7:12,,,Davis Free Throw 1 of 2 (26 PTS),94 - 89,-5
+0020600048,408,8,0,4,10:41 PM,7:12,SUB: Harris FOR Johnson,,,,
+0020600048,409,3,12,4,10:41 PM,7:12,,,MISS Davis Free Throw 2 of 2,,
+0020600048,410,4,0,4,10:41 PM,7:11,Dampier REBOUND (Off:1 Def:1),,,,
+0020600048,411,1,1,4,10:42 PM,6:48,Harris 24' 3PT Jump Shot (9 PTS) (Nowitzki 5 AST),,,94 - 92,-2
+0020600048,412,2,42,4,10:42 PM,6:19,,,MISS Davis  Driving Layup,,
+0020600048,413,4,0,4,10:42 PM,6:18,Nowitzki REBOUND (Off:1 Def:7),,,,
+0020600048,414,1,1,4,10:42 PM,6:10,Buckner 10' Jump Shot (13 PTS) (Terry 6 AST),,,94 - 94,TIE
+0020600048,415,9,1,4,10:42 PM,6:09,,,Warriors Timeout: Regular (Reg.4 Short 0),,
+0020600048,418,8,0,4,10:44 PM,6:09,,,SUB: Richardson FOR Biedrins,,
+0020600048,419,8,0,4,10:45 PM,6:09,SUB: Croshere FOR Dampier,,,,
+0020600048,420,1,51,4,10:45 PM,5:52,,,Murphy  Reverse Dunk (20 PTS) (Davis 7 AST),96 - 94,-2
+0020600048,421,6,2,4,10:45 PM,5:35,,,Richardson S.FOUL (P3.T2),,
+0020600048,422,3,11,4,10:46 PM,5:35,MISS Harris Free Throw 1 of 2,,,,
+0020600048,423,4,1,4,10:46 PM,5:35,MAVERICKS Rebound,,,,
+0020600048,424,3,12,4,10:46 PM,5:35,Harris Free Throw 2 of 2 (10 PTS),,,96 - 95,-1
+0020600048,425,2,1,4,10:46 PM,5:20,,,MISS Richardson 12' Jump Shot,,
+0020600048,426,4,0,4,10:46 PM,5:19,Nowitzki REBOUND (Off:1 Def:8),,,,
+0020600048,427,6,1,4,10:46 PM,5:12,,,Ellis P.FOUL (P3.T3),,
+0020600048,428,6,4,4,10:47 PM,5:07,Croshere OFF.Foul (P1),,,,
+0020600048,429,5,5,4,10:47 PM,5:07,Croshere Foul Turnover (P1.T10),,,,
+0020600048,430,1,1,4,10:47 PM,4:47,,,Ellis 25' 3PT Jump Shot (14 PTS) (Richardson 2 AST),99 - 95,-4
+0020600048,431,6,1,4,10:48 PM,4:30,,,Pietrus P.FOUL (P5.T4),,
+0020600048,432,1,42,4,10:48 PM,4:21,Harris  Driving Layup (12 PTS),,,99 - 97,-2
+0020600048,433,6,2,4,10:49 PM,4:02,Harris S.FOUL (P3.PN),,,,
+0020600048,434,3,11,4,10:49 PM,4:02,,,Richardson Free Throw 1 of 2 (17 PTS),100 - 97,-3
+0020600048,435,3,12,4,10:49 PM,4:02,,,Richardson Free Throw 2 of 2 (18 PTS),101 - 97,-4
+0020600048,436,2,1,4,10:49 PM,3:47,MISS Terry 25' 3PT Jump Shot,,,,
+0020600048,437,4,0,4,10:49 PM,3:47,,,Warriors Rebound,,
+0020600048,438,2,1,4,10:50 PM,3:31,,,MISS Davis  3PT Jump Shot,,
+0020600048,440,4,0,4,10:50 PM,3:29,,,Richardson REBOUND (Off:2 Def:5),,
+0020600048,439,1,4,4,10:50 PM,3:29,,,Richardson  Tip Shot (20 PTS),103 - 97,-6
+0020600048,442,5,2,4,10:50 PM,3:08,Nowitzki Lost Ball Turnover (P3.T11),,Davis STEAL (2 STL),,
+0020600048,443,6,15,4,10:51 PM,3:05,Terry FLAGRANT.FOUL.TYPE2 (P3.PN),,,,
+0020600048,444,8,0,4,10:51 PM,3:05,SUB: Johnson FOR Terry,,,,
+0020600048,445,11,3,4,10:51 PM,3:05,Terry Ejection:First Flagrant Type 2,,,,
+0020600048,446,3,18,4,10:53 PM,3:05,,,Ellis Free Throw Flagrant 1 of 2 (15 PTS),104 - 97,-7
+0020600048,447,3,19,4,10:54 PM,3:05,,,Ellis Free Throw Flagrant 2 of 2 (16 PTS),105 - 97,-8
+0020600048,449,8,0,4,10:54 PM,3:05,SUB: Stackhouse FOR Croshere,,,,
+0020600048,450,2,1,4,10:54 PM,2:54,,,MISS Richardson 16' Jump Shot,,
+0020600048,451,4,0,4,10:54 PM,2:52,Buckner REBOUND (Off:0 Def:2),,,,
+0020600048,453,5,2,4,10:54 PM,2:43,Harris Lost Ball Turnover (P2.T12),,Ellis STEAL (1 STL),,
+0020600048,454,1,41,4,10:55 PM,2:26,,,Richardson  Running Layup (22 PTS) (Davis 8 AST),107 - 97,-10
+0020600048,455,1,1,4,10:55 PM,2:00,Harris 24' 3PT Jump Shot (15 PTS) (Nowitzki 6 AST),,,107 - 100,-7
+0020600048,456,2,47,4,10:56 PM,1:36,,,MISS Richardson 13' Turnaround Jump Shot,,
+0020600048,457,4,0,4,10:56 PM,1:35,Nowitzki REBOUND (Off:1 Def:9),,,,
+0020600048,458,2,1,4,10:56 PM,1:27,MISS Harris 24' 3PT Jump Shot,,,,
+0020600048,459,4,0,4,10:56 PM,1:26,MAVERICKS Rebound,,,,
+0020600048,460,9,4,4,10:56 PM,1:26,,,,,
+0020600048,464,1,1,4,10:58 PM,1:23,Nowitzki 13' Jump Shot (26 PTS),,,107 - 102,-5
+0020600048,465,5,2,4,10:58 PM,1:12,Harris STEAL (3 STL),,Ellis Lost Ball Turnover (P3.T17),,
+0020600048,466,1,41,4,10:58 PM,1:08,Harris  Running Layup (17 PTS),,,107 - 104,-3
+0020600048,467,2,1,4,10:59 PM,0:44,,,MISS Davis 17' Jump Shot,,
+0020600048,468,4,0,4,10:59 PM,0:43,Nowitzki REBOUND (Off:1 Def:10),,,,
+0020600048,469,5,40,4,10:59 PM,0:36,Stackhouse Out of Bounds Lost Ball Turnover (P2.T13),,,,
+0020600048,470,2,1,4,11:00 PM,0:13,,,MISS Pietrus  3PT Jump Shot,,
+0020600048,471,4,0,4,11:00 PM,0:12,Buckner REBOUND (Off:0 Def:3),,,,
+0020600048,472,2,1,4,11:00 PM,0:03,MISS Stackhouse 24' 3PT Jump Shot,,,,
+0020600048,473,4,0,4,11:00 PM,0:01,Johnson REBOUND (Off:1 Def:3),,,,
+0020600048,474,13,0,4,11:00 PM,0:00,,,,107 - 104,-3

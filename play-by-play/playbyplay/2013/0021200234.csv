@@ -1,0 +1,513 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021200234,0,12,0,1,7:42 PM,12:00,,,,,
+0021200234,1,10,0,1,7:42 PM,12:00,Jump Ball Varejao vs. Hickson: Tip to Aldridge,,,,
+0021200234,2,1,5,1,7:43 PM,11:43,,,Matthews  Layup (2 PTS) (Lillard 1 AST),2 - 0,-2
+0021200234,3,1,7,1,7:43 PM,11:34,Gee  Dunk (2 PTS) (Varejao 1 AST),,,2 - 2,TIE
+0021200234,4,6,2,1,7:43 PM,11:34,,,Batum S.FOUL (P1.T1),,
+0021200234,5,3,10,1,7:43 PM,11:34,MISS Gee Free Throw 1 of 1,,,,
+0021200234,7,4,0,1,7:43 PM,11:32,,,Hickson REBOUND (Off:0 Def:1),,
+0021200234,10,1,1,1,7:44 PM,11:03,,,Aldridge 14' Jump Shot (2 PTS) (Lillard 2 AST),4 - 2,-2
+0021200234,11,2,1,1,7:45 PM,10:33,MISS Waiters 26' 3PT Jump Shot,,,,
+0021200234,12,4,0,1,7:45 PM,10:30,,,Aldridge REBOUND (Off:0 Def:1),,
+0021200234,13,5,1,1,7:45 PM,10:28,,,Lillard Bad Pass Turnover (P1.T1),,
+0021200234,14,1,7,1,7:45 PM,10:15,Thompson  Dunk (2 PTS) (Pargo 1 AST),,,4 - 4,TIE
+0021200234,16,2,1,1,7:46 PM,9:51,,,MISS Matthews 25' 3PT Jump Shot,,
+0021200234,17,4,0,1,7:46 PM,9:50,Varejao REBOUND (Off:0 Def:1),,,,
+0021200234,18,2,5,1,7:46 PM,9:33,MISS Gee 1' Layup,,Batum BLOCK (1 BLK),,
+0021200234,19,4,0,1,7:46 PM,9:32,,,Aldridge REBOUND (Off:0 Def:2),,
+0021200234,20,1,44,1,7:46 PM,9:25,,,Lillard  Reverse Layup (2 PTS),6 - 4,-2
+0021200234,21,1,78,1,7:47 PM,9:15,Gee 5' Floating Jump Shot (4 PTS) (Thompson 1 AST),,,6 - 6,TIE
+0021200234,22,1,1,1,7:47 PM,8:59,,,Hickson 21' Jump Shot (2 PTS) (Matthews 1 AST),8 - 6,-2
+0021200234,24,6,2,1,7:47 PM,8:51,,,Aldridge S.FOUL (P1.T2),,
+0021200234,26,8,0,1,7:48 PM,8:51,,,SUB: Barton FOR Batum,,
+0021200234,27,3,11,1,7:48 PM,8:51,Pargo Free Throw 1 of 2 (1 PTS),,,8 - 7,-1
+0021200234,29,3,12,1,7:48 PM,8:51,Pargo Free Throw 2 of 2 (2 PTS),,,8 - 8,TIE
+0021200234,32,1,1,1,7:49 PM,8:32,,,Aldridge 19' Jump Shot (4 PTS) (Lillard 3 AST),10 - 8,-2
+0021200234,33,1,7,1,7:49 PM,8:19,Thompson  Dunk (4 PTS) (Pargo 2 AST),,,10 - 10,TIE
+0021200234,34,1,7,1,7:49 PM,8:05,,,Barton 1' Dunk (2 PTS) (Hickson 1 AST),12 - 10,-2
+0021200234,35,1,5,1,7:49 PM,7:57,Varejao 1' Layup (2 PTS),,,12 - 12,TIE
+0021200234,36,6,2,1,7:49 PM,7:57,,,Aldridge S.FOUL (P2.T3),,
+0021200234,37,9,1,1,7:50 PM,7:57,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,
+0021200234,40,8,0,1,7:52 PM,7:57,,,SUB: Jeffries FOR Aldridge,,
+0021200234,41,3,10,1,7:52 PM,7:57,Varejao Free Throw 1 of 1 (3 PTS),,,12 - 13,1
+0021200234,43,5,2,1,7:52 PM,7:50,Waiters STEAL (1 STL),,Barton Lost Ball Turnover (P1.T2),,
+0021200234,44,6,2,1,7:52 PM,7:48,,,Barton S.FOUL (P1.T4),,
+0021200234,45,3,11,1,7:53 PM,7:48,Waiters Free Throw 1 of 2 (1 PTS),,,12 - 14,2
+0021200234,48,3,12,1,7:53 PM,7:48,Waiters Free Throw 2 of 2 (2 PTS),,,12 - 15,3
+0021200234,51,5,2,1,7:53 PM,7:25,Gee STEAL (1 STL),,Matthews Lost Ball Turnover (P1.T3),,
+0021200234,52,1,52,1,7:53 PM,7:20,Gee 1' Alley Oop Dunk (6 PTS) (Waiters 1 AST),,,12 - 17,5
+0021200234,53,6,1,1,7:54 PM,7:07,Varejao P.FOUL (P1.T1),,,,
+0021200234,54,1,1,1,7:54 PM,6:52,,,Barton 24' 3PT Jump Shot (5 PTS) (Lillard 4 AST),15 - 17,2
+0021200234,55,2,1,1,7:54 PM,6:33,MISS Pargo 15' Jump Shot,,,,
+0021200234,56,4,0,1,7:54 PM,6:31,,,Hickson REBOUND (Off:0 Def:2),,
+0021200234,57,2,5,1,7:55 PM,6:15,,,MISS Matthews  Layup,,
+0021200234,58,4,0,1,7:55 PM,6:15,CAVALIERS Rebound,,,,
+0021200234,59,1,1,1,7:55 PM,6:00,Varejao 16' Jump Shot (5 PTS) (Pargo 3 AST),,,15 - 19,4
+0021200234,60,5,4,1,7:56 PM,5:48,,,Lillard Traveling Turnover (P2.T4),,
+0021200234,61,8,0,1,7:56 PM,5:48,,,SUB: Leonard FOR Hickson,,
+0021200234,62,8,0,1,7:56 PM,5:48,SUB: Zeller FOR Thompson,,,,
+0021200234,63,2,1,1,7:56 PM,5:37,MISS Waiters 26' 3PT Jump Shot,,,,
+0021200234,64,4,0,1,7:56 PM,5:37,Varejao REBOUND (Off:1 Def:1),,,,
+0021200234,65,9,1,1,7:57 PM,5:32,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,
+0021200234,68,8,0,1,7:58 PM,5:32,,,SUB: Batum FOR Matthews,,
+0021200234,69,8,0,1,7:59 PM,5:32,SUB: Gibson FOR Pargo,,,,
+0021200234,70,1,1,1,7:59 PM,5:17,Gibson 25' 3PT Jump Shot (3 PTS) (Varejao 2 AST),,,15 - 22,7
+0021200234,71,6,26,1,7:59 PM,5:05,,,Lillard Offensive Charge Foul (P1.PN),,
+0021200234,72,5,5,1,7:59 PM,5:05,,,Lillard Foul Turnover (P3.T5),,
+0021200234,74,2,1,1,8:00 PM,4:52,MISS Waiters 17' Jump Shot,,,,
+0021200234,75,4,0,1,8:00 PM,4:51,,,Lillard REBOUND (Off:0 Def:1),,
+0021200234,76,1,52,1,8:00 PM,4:45,,,Leonard  Alley Oop Dunk (2 PTS) (Lillard 5 AST),17 - 22,5
+0021200234,77,5,1,1,8:00 PM,4:26,Varejao Bad Pass Turnover (P1.T1),,,,
+0021200234,78,6,1,1,8:01 PM,4:15,Zeller P.FOUL (P1.T2),,,,
+0021200234,79,1,1,1,8:01 PM,4:02,,,Jeffries 20' Jump Shot (2 PTS) (Lillard 6 AST),19 - 22,3
+0021200234,80,2,1,1,8:01 PM,3:38,MISS Gibson 21' Jump Shot,,,,
+0021200234,81,4,0,1,8:01 PM,3:35,Varejao REBOUND (Off:2 Def:1),,,,
+0021200234,82,1,7,1,8:02 PM,3:20,Varejao  Dunk (7 PTS) (Waiters 2 AST),,,19 - 24,5
+0021200234,83,2,5,1,8:02 PM,3:01,,,MISS Batum 1' Layup,,
+0021200234,84,4,0,1,8:02 PM,2:59,Zeller REBOUND (Off:0 Def:1),,,,
+0021200234,85,2,1,1,8:02 PM,2:37,MISS Gee  3PT Jump Shot,,,,
+0021200234,86,4,0,1,8:02 PM,2:36,CAVALIERS Rebound,,,,
+0021200234,88,5,2,1,8:03 PM,2:27,Gibson Lost Ball Turnover (P1.T2),,Barton STEAL (1 STL),,
+0021200234,89,6,1,1,8:03 PM,2:27,Gibson P.FOUL (P1.T3),,,,
+0021200234,90,8,0,1,8:03 PM,2:27,,,SUB: Smith FOR Lillard,,
+0021200234,91,8,0,1,8:03 PM,2:27,,,SUB: Aldridge FOR Jeffries,,
+0021200234,92,5,1,1,8:03 PM,2:17,,,Smith Bad Pass Turnover (P1.T6),,
+0021200234,93,2,1,1,8:04 PM,2:01,MISS Gee 25' 3PT Jump Shot,,,,
+0021200234,94,4,0,1,8:04 PM,1:59,Varejao REBOUND (Off:3 Def:1),,,,
+0021200234,95,1,88,1,8:04 PM,1:51,Waiters  Driving Slam Dunk (4 PTS),,,19 - 26,7
+0021200234,96,2,1,1,8:04 PM,1:31,,,MISS Smith 24' 3PT Jump Shot,,
+0021200234,97,4,0,1,8:04 PM,1:30,Gee REBOUND (Off:0 Def:1),,,,
+0021200234,98,1,1,1,8:05 PM,1:17,Zeller 18' Jump Shot (2 PTS) (Waiters 3 AST),,,19 - 28,9
+0021200234,99,9,2,1,8:05 PM,1:14,,,Trail Blazers Timeout: Short (Reg.1 Short 1),,
+0021200234,101,8,0,1,8:06 PM,1:14,,,SUB: Babbitt FOR Barton,,
+0021200234,102,8,0,1,8:06 PM,1:14,,,SUB: Hickson FOR Leonard,,
+0021200234,104,6,1,1,8:06 PM,1:07,Gee P.FOUL (P1.T4),,,,
+0021200234,105,2,1,1,8:06 PM,0:54,,,MISS Babbitt 26' 3PT Jump Shot,,
+0021200234,106,4,0,1,8:06 PM,0:53,,,Batum REBOUND (Off:1 Def:0),,
+0021200234,107,2,1,1,8:07 PM,0:48,,,MISS Babbitt 25' 3PT Jump Shot,,
+0021200234,108,4,0,1,8:07 PM,0:47,Zeller REBOUND (Off:0 Def:2),,,,
+0021200234,109,2,78,1,8:07 PM,0:38,MISS Waiters 10' Floating Jump Shot,,,,
+0021200234,110,4,0,1,8:07 PM,0:36,,,Batum REBOUND (Off:1 Def:1),,
+0021200234,111,2,7,1,8:07 PM,0:34,,,MISS Batum 1' Dunk,,
+0021200234,112,4,0,1,8:07 PM,0:32,,,Babbitt REBOUND (Off:1 Def:0),,
+0021200234,113,1,5,1,8:07 PM,0:32,,,Babbitt 1' Layup (2 PTS),21 - 28,7
+0021200234,114,5,1,1,8:07 PM,0:10,Waiters Bad Pass Turnover (P1.T3),,Batum STEAL (1 STL),,
+0021200234,115,2,1,1,8:07 PM,0:05,,,MISS Smith 6' Jump Shot,,
+0021200234,116,4,0,1,8:07 PM,0:03,CAVALIERS Rebound,,,,
+0021200234,117,2,1,1,8:08 PM,0:00,MISS Gee 19' Jump Shot,,,,
+0021200234,118,4,0,1,8:08 PM,0:00,CAVALIERS Rebound,,,,
+0021200234,119,13,0,1,8:08 PM,0:00,,,,21 - 28,7
+0021200234,121,12,0,2,8:10 PM,12:00,,,,21 - 28,7
+0021200234,122,2,1,2,8:11 PM,11:49,MISS Gibson 27' 3PT Jump Shot,,,,
+0021200234,123,4,0,2,8:11 PM,11:49,,,Babbitt REBOUND (Off:1 Def:1),,
+0021200234,124,1,47,2,8:11 PM,11:31,,,Batum 15' Turnaround Jump Shot (2 PTS) (Smith 1 AST),23 - 28,5
+0021200234,125,5,1,2,8:11 PM,11:18,Casspi Bad Pass Turnover (P1.T4),,Batum STEAL (2 STL),,
+0021200234,126,2,5,2,8:11 PM,11:13,,,MISS Batum 1' Layup,,
+0021200234,128,4,0,2,8:11 PM,11:12,,,Batum REBOUND (Off:2 Def:1),,
+0021200234,127,2,5,2,8:11 PM,11:12,,,MISS Batum 1' Layup,,
+0021200234,129,4,0,2,8:11 PM,11:11,Zeller REBOUND (Off:0 Def:3),,,,
+0021200234,139,2,45,2,8:11 PM,11:02,MISS Pargo 15' Jump Shot,,,,
+0021200234,130,4,0,2,8:11 PM,11:02,Thompson REBOUND (Off:1 Def:0),,,,
+0021200234,131,2,1,2,8:12 PM,10:47,MISS Zeller 19' Jump Shot,,,,
+0021200234,132,4,0,2,8:12 PM,10:46,Casspi REBOUND (Off:1 Def:0),,,,
+0021200234,133,5,2,2,8:12 PM,10:30,Pargo Lost Ball Turnover (P1.T5),,Hickson STEAL (1 STL),,
+0021200234,134,6,2,2,8:12 PM,10:26,Gibson S.FOUL (P2.T1),,,,
+0021200234,135,3,11,2,8:12 PM,10:26,,,Hickson Free Throw 1 of 2 (3 PTS),24 - 28,4
+0021200234,137,3,12,2,8:13 PM,10:26,,,Hickson Free Throw 2 of 2 (4 PTS),25 - 28,3
+0021200234,140,5,1,2,8:13 PM,10:13,Gibson Bad Pass Turnover (P2.T6),,,,
+0021200234,141,1,80,2,8:14 PM,9:57,,,Babbitt 15' Step Back Jump Shot (4 PTS),27 - 28,1
+0021200234,143,1,1,2,8:14 PM,9:38,Casspi 24' 3PT Jump Shot (3 PTS) (Pargo 4 AST),,,27 - 31,4
+0021200234,144,1,44,2,8:14 PM,9:26,,,Smith  Reverse Layup (2 PTS),29 - 31,2
+0021200234,145,1,1,2,8:14 PM,9:13,Pargo 25' 3PT Jump Shot (5 PTS) (Gibson 1 AST),,,29 - 34,5
+0021200234,147,2,1,2,8:15 PM,8:54,Thompson BLOCK (1 BLK),,MISS Aldridge 5' Jump Shot,,
+0021200234,148,4,0,2,8:15 PM,8:54,CAVALIERS Rebound,,,,
+0021200234,149,9,4,2,8:15 PM,8:54,,,,,
+0021200234,152,8,0,2,8:17 PM,8:54,,,SUB: Lillard FOR Batum,,
+0021200234,153,8,0,2,8:17 PM,8:54,,,SUB: Matthews FOR Smith,,
+0021200234,154,2,1,2,8:18 PM,8:33,MISS Gibson 26' 3PT Jump Shot,,,,
+0021200234,155,4,0,2,8:18 PM,8:33,,,Hickson REBOUND (Off:0 Def:3),,
+0021200234,156,2,1,2,8:18 PM,8:19,,,MISS Lillard 27' 3PT Jump Shot,,
+0021200234,157,4,0,2,8:18 PM,8:18,Zeller REBOUND (Off:0 Def:4),,,,
+0021200234,158,2,1,2,8:18 PM,8:06,MISS Casspi 25' 3PT Jump Shot,,,,
+0021200234,159,4,0,2,8:18 PM,8:05,,,Matthews REBOUND (Off:0 Def:1),,
+0021200234,160,2,1,2,8:18 PM,7:58,,,MISS Babbitt 26' 3PT Jump Shot,,
+0021200234,161,4,0,2,8:18 PM,7:56,Pargo REBOUND (Off:0 Def:1),,,,
+0021200234,162,2,5,2,8:18 PM,7:43,MISS Thompson  Layup,,Babbitt BLOCK (1 BLK),,
+0021200234,163,4,0,2,8:18 PM,7:38,,,Babbitt REBOUND (Off:1 Def:2),,
+0021200234,164,6,1,2,8:19 PM,7:24,Casspi P.FOUL (P1.T2),,,,
+0021200234,166,8,0,2,8:19 PM,7:24,,,SUB: Leonard FOR Hickson,,
+0021200234,167,5,2,2,8:19 PM,7:17,Pargo STEAL (1 STL),,Lillard Lost Ball Turnover (P4.T7),,
+0021200234,168,2,5,2,8:19 PM,7:09,MISS Pargo 1' Layup,,,,
+0021200234,169,4,0,2,8:20 PM,7:07,,,Trail Blazers Rebound,,
+0021200234,170,1,42,2,8:20 PM,6:54,,,Matthews 1' Driving Layup (4 PTS),31 - 34,3
+0021200234,171,2,42,2,8:20 PM,6:40,MISS Casspi 2' Driving Layup,,,,
+0021200234,172,4,0,2,8:20 PM,6:37,,,Babbitt REBOUND (Off:1 Def:3),,
+0021200234,173,2,47,2,8:20 PM,6:26,,,MISS Aldridge 16' Turnaround Jump Shot,,
+0021200234,174,4,0,2,8:20 PM,6:18,Casspi REBOUND (Off:1 Def:1),,,,
+0021200234,175,1,1,2,8:20 PM,6:13,Casspi 25' 3PT Jump Shot (6 PTS) (Gibson 2 AST),,,31 - 37,6
+0021200234,176,9,1,2,8:21 PM,6:07,,,Trail Blazers Timeout: Regular (Reg.2 Short 1),,
+0021200234,178,8,0,2,8:23 PM,6:07,,,SUB: Batum FOR Babbitt,,
+0021200234,179,8,0,2,8:23 PM,6:07,SUB: Varejao FOR Casspi,,,,
+0021200234,184,8,0,2,8:23 PM,6:07,SUB: Gee FOR Zeller,,,,
+0021200234,180,6,2,2,8:23 PM,6:04,Gee S.FOUL (P2.T3),,,,
+0021200234,185,3,11,2,8:24 PM,6:04,,,Batum Free Throw 1 of 2 (3 PTS),32 - 37,5
+0021200234,182,3,12,2,8:24 PM,6:04,,,Batum Free Throw 2 of 2 (4 PTS),33 - 37,4
+0021200234,187,2,78,2,8:24 PM,5:47,MISS Gibson 5' Floating Jump Shot,,,,
+0021200234,188,4,0,2,8:24 PM,5:45,,,Trail Blazers Rebound,,
+0021200234,189,6,4,2,8:25 PM,5:34,,,Leonard OFF.Foul (P1),,
+0021200234,190,5,5,2,8:25 PM,5:34,,,Leonard Foul Turnover (P1.T8),,
+0021200234,191,8,0,2,8:25 PM,5:34,SUB: Waiters FOR Gibson,,,,
+0021200234,193,5,1,2,8:25 PM,5:22,Pargo Bad Pass Turnover (P2.T7),,,,
+0021200234,194,2,7,2,8:25 PM,5:17,,,MISS Batum  Dunk,,
+0021200234,195,4,0,2,8:25 PM,5:16,CAVALIERS Rebound,,,,
+0021200234,197,1,1,2,8:26 PM,4:57,Varejao 18' Jump Shot (9 PTS) (Pargo 5 AST),,,33 - 39,6
+0021200234,200,6,1,2,8:26 PM,4:46,Pargo P.FOUL (P1.T4),,,,
+0021200234,201,1,1,2,8:27 PM,4:33,,,Batum 24' 3PT Jump Shot (7 PTS) (Matthews 2 AST),36 - 39,3
+0021200234,202,2,1,2,8:27 PM,4:11,MISS Gee 24' 3PT Jump Shot,,,,
+0021200234,203,4,0,2,8:27 PM,4:10,,,Aldridge REBOUND (Off:0 Def:3),,
+0021200234,205,1,42,2,8:27 PM,4:00,,,Aldridge 1' Driving Layup (6 PTS) (Lillard 7 AST),38 - 39,1
+0021200234,206,2,1,2,8:27 PM,3:39,MISS Pargo 26' 3PT Jump Shot,,,,
+0021200234,207,4,0,2,8:27 PM,3:38,Varejao REBOUND (Off:4 Def:1),,,,
+0021200234,208,6,2,2,8:28 PM,3:38,,,Aldridge S.FOUL (P3.T1),,
+0021200234,209,3,11,2,8:28 PM,3:38,Varejao Free Throw 1 of 2 (10 PTS),,,38 - 40,2
+0021200234,211,8,0,2,8:28 PM,3:38,SUB: Sloan FOR Pargo,,,,
+0021200234,212,8,0,2,8:28 PM,3:38,,,SUB: Freeland FOR Aldridge,,
+0021200234,213,3,12,2,8:28 PM,3:38,Varejao Free Throw 2 of 2 (11 PTS),,,38 - 41,3
+0021200234,215,6,1,2,8:29 PM,3:27,Waiters P.FOUL (P1.PN),,,,
+0021200234,216,3,11,2,8:29 PM,3:27,,,Matthews Free Throw 1 of 2 (5 PTS),39 - 41,2
+0021200234,218,3,12,2,8:29 PM,3:27,,,Matthews Free Throw 2 of 2 (6 PTS),40 - 41,1
+0021200234,220,2,1,2,8:30 PM,3:12,MISS Waiters 17' Jump Shot,,,,
+0021200234,221,4,0,2,8:30 PM,3:12,Varejao REBOUND (Off:5 Def:1),,,,
+0021200234,222,1,1,2,8:30 PM,3:03,Gee 24' 3PT Jump Shot (9 PTS) (Waiters 4 AST),,,40 - 44,4
+0021200234,224,2,1,2,8:30 PM,2:47,,,MISS Lillard 5' Jump Shot,,
+0021200234,226,4,0,2,8:30 PM,2:46,,,Lillard REBOUND (Off:1 Def:1),,
+0021200234,225,2,4,2,8:30 PM,2:46,,,MISS Lillard 1' Tip Shot,,
+0021200234,227,4,0,2,8:30 PM,2:44,Varejao REBOUND (Off:5 Def:2),,,,
+0021200234,228,1,8,2,8:30 PM,2:36,Thompson 1' Slam Dunk (6 PTS) (Sloan 1 AST),,,40 - 46,6
+0021200234,229,6,1,2,8:31 PM,2:17,Gee P.FOUL (P3.PN),,,,
+0021200234,230,9,1,2,8:31 PM,2:17,CAVALIERS Timeout: Regular (Full 2 Short 0),,,,
+0021200234,235,8,0,2,8:33 PM,2:17,SUB: Casspi FOR Gee,,,,
+0021200234,234,3,11,2,8:33 PM,2:17,,,Batum Free Throw 1 of 2 (8 PTS),41 - 46,5
+0021200234,237,3,12,2,8:33 PM,2:17,,,MISS Batum Free Throw 2 of 2,,
+0021200234,239,4,0,2,8:34 PM,2:15,Varejao REBOUND (Off:5 Def:3),,,,
+0021200234,240,6,4,2,8:34 PM,2:05,Thompson OFF.Foul (P1),,,,
+0021200234,241,5,5,2,8:34 PM,2:05,Thompson Foul Turnover (P1.T8),,,,
+0021200234,242,1,1,2,8:34 PM,1:52,,,Freeland 22' Jump Shot (2 PTS) (Lillard 8 AST),43 - 46,3
+0021200234,243,1,5,2,8:35 PM,1:39,Thompson 2' Layup (8 PTS) (Varejao 3 AST),,,43 - 48,5
+0021200234,245,2,1,2,8:35 PM,1:19,,,MISS Batum 17' Jump Shot,,
+0021200234,246,4,0,2,8:35 PM,1:18,,,Leonard REBOUND (Off:1 Def:0),,
+0021200234,249,1,42,2,8:35 PM,1:07,,,Freeland 1' Driving Layup (4 PTS) (Matthews 3 AST),45 - 48,3
+0021200234,250,2,1,2,8:36 PM,0:47,MISS Sloan 25' 3PT Jump Shot,,,,
+0021200234,251,4,0,2,8:36 PM,0:46,,,Matthews REBOUND (Off:0 Def:2),,
+0021200234,252,5,1,2,8:36 PM,0:40,,,Leonard Bad Pass Turnover (P2.T9),,
+0021200234,254,2,1,2,8:36 PM,0:17,MISS Waiters 27' 3PT Jump Shot,,,,
+0021200234,255,4,0,2,8:37 PM,0:16,,,Trail Blazers Rebound,,
+0021200234,256,6,3,2,8:37 PM,0:16,Thompson L.B.FOUL (P2.PN),,,,
+0021200234,257,3,11,2,8:37 PM,0:16,,,Freeland Free Throw 1 of 2 (5 PTS),46 - 48,2
+0021200234,259,8,0,2,8:37 PM,0:16,SUB: Gibson FOR Thompson,,,,
+0021200234,260,3,12,2,8:37 PM,0:16,,,Freeland Free Throw 2 of 2 (6 PTS),47 - 48,1
+0021200234,263,2,5,2,8:38 PM,0:00,MISS Waiters  Layup,,Freeland BLOCK (1 BLK),,
+0021200234,264,4,0,2,8:38 PM,0:00,CAVALIERS Rebound,,,,
+0021200234,265,13,0,2,8:38 PM,0:00,,,,47 - 48,1
+0021200234,267,12,0,3,8:53 PM,12:00,,,,47 - 48,1
+0021200234,268,1,1,3,8:54 PM,11:35,Gee 26' 3PT Jump Shot (12 PTS) (Pargo 6 AST),,,47 - 51,4
+0021200234,269,1,47,3,8:54 PM,11:16,,,Aldridge 4' Turnaround Jump Shot (8 PTS),49 - 51,2
+0021200234,270,5,1,3,8:55 PM,10:54,Gee Bad Pass Turnover (P1.T9),,Lillard STEAL (1 STL),,
+0021200234,272,2,1,3,8:55 PM,10:48,,,MISS Aldridge 7' Jump Shot,,
+0021200234,273,4,0,3,8:55 PM,10:46,Waiters REBOUND (Off:0 Def:1),,,,
+0021200234,274,2,1,3,8:55 PM,10:38,MISS Gee 25' 3PT Jump Shot,,,,
+0021200234,275,4,0,3,8:55 PM,10:38,,,Trail Blazers Rebound,,
+0021200234,276,2,47,3,8:56 PM,10:22,,,MISS Matthews 5' Turnaround Jump Shot,,
+0021200234,277,4,0,3,8:56 PM,10:21,,,Trail Blazers Rebound,,
+0021200234,279,6,2,3,8:56 PM,10:14,Thompson S.FOUL (P3.T1),,,,
+0021200234,280,3,11,3,8:56 PM,10:14,,,Aldridge Free Throw 1 of 2 (9 PTS),50 - 51,1
+0021200234,282,3,12,3,8:57 PM,10:14,,,MISS Aldridge Free Throw 2 of 2,,
+0021200234,284,4,0,3,8:57 PM,10:13,Varejao REBOUND (Off:5 Def:4),,,,
+0021200234,285,2,1,3,8:57 PM,10:01,MISS Waiters 26' 3PT Jump Shot,,,,
+0021200234,286,4,0,3,8:57 PM,9:59,Varejao REBOUND (Off:6 Def:4),,,,
+0021200234,287,1,1,3,8:57 PM,9:55,Waiters 26' 3PT Jump Shot (7 PTS) (Varejao 4 AST),,,50 - 54,4
+0021200234,288,6,1,3,8:58 PM,9:43,Waiters P.FOUL (P2.T2),,,,
+0021200234,289,2,1,3,8:58 PM,9:28,,,MISS Matthews 25' 3PT Jump Shot,,
+0021200234,290,4,0,3,8:58 PM,9:28,Waiters REBOUND (Off:0 Def:2),,,,
+0021200234,291,2,5,3,8:59 PM,9:04,MISS Pargo 3' Layup,,,,
+0021200234,292,4,0,3,8:59 PM,9:01,,,Batum REBOUND (Off:2 Def:2),,
+0021200234,293,1,52,3,8:59 PM,8:57,,,Aldridge 1' Alley Oop Dunk (11 PTS) (Matthews 4 AST),52 - 54,2
+0021200234,294,6,1,3,8:59 PM,8:45,,,Hickson P.FOUL (P1.T1),,
+0021200234,295,6,1,3,8:59 PM,8:37,,,Aldridge P.FOUL (P4.T2),,
+0021200234,296,8,0,3,9:00 PM,8:37,,,SUB: Freeland FOR Aldridge,,
+0021200234,297,2,1,3,9:00 PM,8:28,MISS Waiters 17' Jump Shot,,,,
+0021200234,298,4,0,3,9:00 PM,8:27,,,Batum REBOUND (Off:2 Def:3),,
+0021200234,299,1,42,3,9:00 PM,8:22,,,Lillard  Driving Layup (4 PTS),54 - 54,TIE
+0021200234,300,2,1,3,9:00 PM,8:04,MISS Gee 18' Jump Shot,,,,
+0021200234,301,4,0,3,9:00 PM,8:04,,,Batum REBOUND (Off:2 Def:4),,
+0021200234,302,1,1,3,9:01 PM,7:54,,,Lillard 26' 3PT Jump Shot (7 PTS),57 - 54,-3
+0021200234,303,1,75,3,9:01 PM,7:35,Gee  Driving Finger Roll Layup (14 PTS),,,57 - 56,-1
+0021200234,304,1,7,3,9:01 PM,7:22,,,Freeland  Dunk (8 PTS) (Matthews 5 AST),59 - 56,-3
+0021200234,305,1,1,3,9:01 PM,6:57,Varejao 17' Jump Shot (13 PTS) (Waiters 5 AST),,,59 - 58,-1
+0021200234,306,1,1,3,9:02 PM,6:42,,,Lillard 26' 3PT Jump Shot (10 PTS),62 - 58,-4
+0021200234,307,2,1,3,9:02 PM,6:32,MISS Waiters 26' 3PT Jump Shot,,,,
+0021200234,308,4,0,3,9:02 PM,6:32,,,Trail Blazers Rebound,,
+0021200234,309,1,42,3,9:02 PM,6:18,,,Lillard  Driving Layup (12 PTS),64 - 58,-6
+0021200234,310,9,1,3,9:02 PM,6:17,CAVALIERS Timeout: Regular (Full 3 Short 0),,,,
+0021200234,312,8,0,3,9:04 PM,6:17,SUB: Gibson FOR Thompson,,,,
+0021200234,313,8,0,3,9:04 PM,6:17,SUB: Sloan FOR Waiters,,,,
+0021200234,314,8,0,3,9:04 PM,6:17,SUB: Zeller FOR Pargo,,,,
+0021200234,316,2,1,3,9:05 PM,6:00,MISS Gibson 25' 3PT Jump Shot,,,,
+0021200234,317,4,0,3,9:05 PM,6:00,Varejao REBOUND (Off:7 Def:4),,,,
+0021200234,318,6,1,3,9:05 PM,6:00,,,Batum P.FOUL (P2.T3),,
+0021200234,319,6,2,3,9:06 PM,5:55,,,Freeland S.FOUL (P1.T4),,
+0021200234,320,3,11,3,9:06 PM,5:55,Sloan Free Throw 1 of 2 (1 PTS),,,64 - 59,-5
+0021200234,322,3,12,3,9:06 PM,5:55,Sloan Free Throw 2 of 2 (2 PTS),,,64 - 60,-4
+0021200234,324,6,2,3,9:07 PM,5:40,Gee S.FOUL (P4.T3),,,,
+0021200234,325,3,11,3,9:07 PM,5:40,,,Batum Free Throw 1 of 2 (9 PTS),65 - 60,-5
+0021200234,327,8,0,3,9:07 PM,5:40,SUB: Casspi FOR Gee,,,,
+0021200234,328,8,0,3,9:07 PM,5:40,,,SUB: Leonard FOR Hickson,,
+0021200234,329,3,12,3,9:07 PM,5:40,,,Batum Free Throw 2 of 2 (10 PTS),66 - 60,-6
+0021200234,332,2,1,3,9:08 PM,5:17,MISS Casspi 27' 3PT Jump Shot,,,,
+0021200234,333,4,0,3,9:08 PM,5:17,,,Lillard REBOUND (Off:1 Def:2),,
+0021200234,334,5,2,3,9:08 PM,5:06,Varejao STEAL (1 STL),,Batum Lost Ball Turnover (P1.T10),,
+0021200234,335,6,2,3,9:08 PM,5:01,,,Freeland S.FOUL (P2.PN),,
+0021200234,336,3,11,3,9:08 PM,5:01,MISS Casspi Free Throw 1 of 2,,,,
+0021200234,337,4,1,3,9:08 PM,5:01,CAVALIERS Rebound,,,,
+0021200234,338,8,0,3,9:09 PM,5:01,,,SUB: Babbitt FOR Batum,,
+0021200234,341,5,17,3,9:09 PM,5:01,Varejao Lane Violation Turnover (P2.T10),,,,
+0021200234,345,2,45,3,9:09 PM,4:46,,,MISS Freeland 9' Jump Shot,,
+0021200234,343,4,0,3,9:09 PM,4:44,Casspi REBOUND (Off:1 Def:2),,,,
+0021200234,346,1,1,3,9:10 PM,4:29,Zeller 19' Jump Shot (4 PTS) (Casspi 1 AST),,,66 - 62,-4
+0021200234,347,6,3,3,9:10 PM,4:29,,,Freeland L.B.FOUL (P3.PN),,
+0021200234,349,3,10,3,9:10 PM,4:29,MISS Varejao Free Throw 1 of 1,,,,
+0021200234,351,4,0,3,9:10 PM,4:27,,,Babbitt REBOUND (Off:1 Def:4),,
+0021200234,352,2,1,3,9:11 PM,4:11,,,MISS Lillard 4' Jump Shot,,
+0021200234,353,4,0,3,9:11 PM,4:09,Varejao REBOUND (Off:7 Def:5),,,,
+0021200234,354,2,5,3,9:11 PM,3:56,MISS Varejao 2' Layup,,Leonard BLOCK (1 BLK),,
+0021200234,355,4,0,3,9:11 PM,3:53,Zeller REBOUND (Off:1 Def:4),,,,
+0021200234,356,1,1,3,9:11 PM,3:51,Casspi 26' 3PT Jump Shot (9 PTS) (Zeller 1 AST),,,66 - 65,-1
+0021200234,357,9,1,3,9:11 PM,3:50,,,Trail Blazers Timeout: Regular (Reg.3 Short 1),,
+0021200234,361,2,47,3,9:14 PM,3:29,Zeller BLOCK (1 BLK),,MISS Matthews 10' Turnaround Jump Shot,,
+0021200234,362,4,0,3,9:14 PM,3:28,Gibson REBOUND (Off:0 Def:1),,,,
+0021200234,363,6,2,3,9:14 PM,3:25,,,Lillard S.FOUL (P2.PN),,
+0021200234,364,3,11,3,9:14 PM,3:25,Sloan Free Throw 1 of 2 (3 PTS),,,66 - 66,TIE
+0021200234,367,8,0,3,9:15 PM,3:25,,,SUB: Aldridge FOR Leonard,,
+0021200234,368,8,0,3,9:15 PM,3:25,,,SUB: Smith FOR Lillard,,
+0021200234,369,3,12,3,9:15 PM,3:25,Sloan Free Throw 2 of 2 (4 PTS),,,66 - 67,1
+0021200234,371,2,1,3,9:15 PM,3:04,,,MISS Matthews 17' Jump Shot,,
+0021200234,372,4,0,3,9:15 PM,3:02,Varejao REBOUND (Off:7 Def:6),,,,
+0021200234,373,2,1,3,9:16 PM,2:42,MISS Varejao 18' Jump Shot,,,,
+0021200234,374,4,0,3,9:16 PM,2:41,,,Freeland REBOUND (Off:0 Def:1),,
+0021200234,375,2,1,3,9:16 PM,2:27,,,MISS Aldridge 19' Jump Shot,,
+0021200234,376,4,0,3,9:16 PM,2:26,,,Matthews REBOUND (Off:1 Def:2),,
+0021200234,377,6,2,3,9:16 PM,2:25,Gibson S.FOUL (P3.T4),,,,
+0021200234,378,3,11,3,9:16 PM,2:25,,,Matthews Free Throw 1 of 2 (7 PTS),67 - 67,TIE
+0021200234,380,3,12,3,9:16 PM,2:25,,,Matthews Free Throw 2 of 2 (8 PTS),68 - 67,-1
+0021200234,382,2,1,3,9:17 PM,2:07,MISS Gibson 26' 3PT Jump Shot,,,,
+0021200234,383,4,0,3,9:17 PM,2:06,,,Freeland REBOUND (Off:0 Def:2),,
+0021200234,384,7,5,3,9:17 PM,1:59,Varejao Violation:Kicked Ball,,,,
+0021200234,385,8,0,3,9:17 PM,1:59,,,SUB: Barton FOR Matthews,,
+0021200234,386,2,1,3,9:18 PM,1:43,,,MISS Smith 26' 3PT Jump Shot,,
+0021200234,387,4,0,3,9:18 PM,1:42,Sloan REBOUND (Off:0 Def:1),,,,
+0021200234,388,5,1,3,9:18 PM,1:40,Sloan Bad Pass Turnover (P1.T11),,,,
+0021200234,389,1,47,3,9:18 PM,1:22,,,Smith 8' Turnaround Jump Shot (4 PTS),70 - 67,-3
+0021200234,390,1,1,3,9:19 PM,0:57,Zeller 17' Jump Shot (6 PTS) (Sloan 2 AST),,,70 - 69,-1
+0021200234,392,2,1,3,9:19 PM,0:33,,,MISS Babbitt 24' 3PT Jump Shot,,
+0021200234,393,4,0,3,9:19 PM,0:33,Varejao REBOUND (Off:7 Def:7),,,,
+0021200234,394,1,1,3,9:19 PM,0:26,Gibson 26' 3PT Jump Shot (6 PTS) (Sloan 3 AST),,,70 - 72,2
+0021200234,395,5,4,3,9:20 PM,0:06,,,Aldridge Traveling Turnover (P1.T11),,
+0021200234,397,8,0,3,9:20 PM,0:06,,,SUB: Leonard FOR Aldridge,,
+0021200234,398,1,1,3,9:20 PM,0:01,Sloan 14' Jump Shot (6 PTS),,,70 - 74,4
+0021200234,399,2,1,3,9:20 PM,0:00,,,MISS Barton 76' 3PT Jump Shot,,
+0021200234,400,4,0,3,9:20 PM,0:00,,,Trail Blazers Rebound,,
+0021200234,401,13,0,3,9:21 PM,0:00,,,,70 - 74,4
+0021200234,403,12,0,4,9:23 PM,12:00,,,,70 - 74,4
+0021200234,404,2,1,4,9:23 PM,11:43,,,MISS Babbitt 20' Jump Shot,,
+0021200234,405,4,0,4,9:23 PM,11:43,Thompson REBOUND (Off:1 Def:1),,,,
+0021200234,406,2,1,4,9:24 PM,11:25,MISS Gibson 21' Jump Shot,,,,
+0021200234,407,4,0,4,9:24 PM,11:25,,,Leonard REBOUND (Off:1 Def:1),,
+0021200234,408,6,1,4,9:24 PM,11:16,Thompson P.FOUL (P4.T1),,,,
+0021200234,409,8,0,4,9:24 PM,11:16,,,SUB: Batum FOR Babbitt,,
+0021200234,410,2,47,4,9:24 PM,11:05,,,MISS Aldridge 4' Turnaround Jump Shot,,
+0021200234,411,4,0,4,9:24 PM,11:03,Casspi REBOUND (Off:1 Def:3),,,,
+0021200234,412,1,1,4,9:25 PM,10:45,Sloan 19' Jump Shot (8 PTS),,,70 - 76,6
+0021200234,413,5,1,4,9:25 PM,10:19,Sloan STEAL (1 STL),,Barton Bad Pass Turnover (P2.T12),,
+0021200234,414,2,7,4,9:25 PM,10:15,MISS Sloan  Dunk,,,,
+0021200234,416,4,0,4,9:25 PM,10:14,Casspi REBOUND (Off:2 Def:3),,,,
+0021200234,415,1,72,4,9:25 PM,10:14,Casspi 1' Putback Layup (11 PTS),,,70 - 78,8
+0021200234,417,2,1,4,9:26 PM,9:48,,,MISS Barton 26' 3PT Jump Shot,,
+0021200234,418,4,0,4,9:26 PM,9:48,Casspi REBOUND (Off:2 Def:4),,,,
+0021200234,419,2,66,4,9:26 PM,9:36,MISS Casspi 6' Jump Bank Shot,,,,
+0021200234,420,4,0,4,9:26 PM,9:33,,,Aldridge REBOUND (Off:0 Def:4),,
+0021200234,421,1,42,4,9:26 PM,9:29,,,Smith 1' Driving Layup (6 PTS),72 - 78,6
+0021200234,422,2,5,4,9:26 PM,9:08,MISS Zeller  Layup,,Barton BLOCK (1 BLK),,
+0021200234,423,4,0,4,9:26 PM,9:07,,,Barton REBOUND (Off:0 Def:1),,
+0021200234,424,1,52,4,9:27 PM,8:50,,,Barton 1' Alley Oop Dunk (7 PTS) (Smith 2 AST),74 - 78,4
+0021200234,425,9,1,4,9:27 PM,8:49,CAVALIERS Timeout: Regular (Full 4 Short 0),,,,
+0021200234,428,8,0,4,9:29 PM,8:49,,,SUB: Lillard FOR Barton,,
+0021200234,429,8,0,4,9:29 PM,8:49,,,SUB: Matthews FOR Smith,,
+0021200234,430,2,1,4,9:29 PM,8:37,MISS Casspi 25' 3PT Jump Shot,,,,
+0021200234,431,4,0,4,9:29 PM,8:37,CAVALIERS Rebound,,,,
+0021200234,433,5,1,4,9:30 PM,8:25,Sloan Bad Pass Turnover (P2.T12),,Aldridge STEAL (1 STL),,
+0021200234,434,2,1,4,9:30 PM,8:06,,,MISS Aldridge 17' Jump Shot,,
+0021200234,435,4,0,4,9:30 PM,8:06,Zeller REBOUND (Off:1 Def:5),,,,
+0021200234,436,6,1,4,9:30 PM,7:52,,,Matthews P.FOUL (P1.T1),,
+0021200234,437,1,1,4,9:31 PM,7:45,Sloan 18' Jump Shot (10 PTS),,,74 - 80,6
+0021200234,438,2,47,4,9:31 PM,7:25,,,MISS Batum 17' Turnaround Jump Shot,,
+0021200234,440,4,0,4,9:31 PM,7:24,,,Aldridge REBOUND (Off:1 Def:4),,
+0021200234,439,2,72,4,9:31 PM,7:24,,,MISS Aldridge 1' Putback Layup,,
+0021200234,441,4,0,4,9:31 PM,7:23,Zeller REBOUND (Off:1 Def:6),,,,
+0021200234,442,2,1,4,9:31 PM,7:11,MISS Zeller 4' Jump Shot,,Leonard BLOCK (2 BLK),,
+0021200234,443,4,0,4,9:32 PM,7:10,,,Lillard REBOUND (Off:1 Def:3),,
+0021200234,444,1,5,4,9:32 PM,6:58,,,Aldridge 1' Layup (13 PTS) (Matthews 6 AST),76 - 80,4
+0021200234,445,6,1,4,9:32 PM,6:39,,,Lillard P.FOUL (P3.T2),,
+0021200234,446,8,0,4,9:32 PM,6:39,SUB: Varejao FOR Zeller,,,,
+0021200234,447,8,0,4,9:32 PM,6:39,,,SUB: Hickson FOR Leonard,,
+0021200234,448,2,1,4,9:33 PM,6:25,MISS Thompson 10' Jump Shot,,,,
+0021200234,449,4,0,4,9:33 PM,6:23,,,Matthews REBOUND (Off:1 Def:3),,
+0021200234,451,1,1,4,9:33 PM,6:12,,,Lillard 29' 3PT Jump Shot (15 PTS) (Matthews 7 AST),79 - 80,1
+0021200234,452,9,1,4,9:33 PM,6:11,CAVALIERS Timeout: Regular (Full 5 Short 0),,,,
+0021200234,453,8,0,4,9:35 PM,6:11,SUB: Waiters FOR Gibson,,,,
+0021200234,454,8,0,4,9:35 PM,6:11,SUB: Pargo FOR Casspi,,,,
+0021200234,455,8,0,4,9:35 PM,6:11,SUB: Gee FOR Sloan,,,,
+0021200234,457,5,1,4,9:36 PM,5:47,Pargo Bad Pass Turnover (P3.T13),,Hickson STEAL (2 STL),,
+0021200234,458,2,5,4,9:36 PM,5:42,,,MISS Lillard 1' Layup,,
+0021200234,460,4,0,4,9:36 PM,5:41,,,Hickson REBOUND (Off:1 Def:3),,
+0021200234,459,1,72,4,9:36 PM,5:41,,,Hickson 2' Putback Layup (6 PTS),81 - 80,-1
+0021200234,461,2,1,4,9:36 PM,5:24,MISS Waiters 26' 3PT Jump Shot,,,,
+0021200234,462,4,0,4,9:36 PM,5:23,,,Aldridge REBOUND (Off:1 Def:5),,
+0021200234,463,6,2,4,9:36 PM,5:09,Thompson S.FOUL (P5.T2),,,,
+0021200234,464,3,11,4,9:37 PM,5:09,,,Hickson Free Throw 1 of 2 (7 PTS),82 - 80,-2
+0021200234,466,3,12,4,9:37 PM,5:09,,,MISS Hickson Free Throw 2 of 2,,
+0021200234,468,4,0,4,9:37 PM,5:08,Gee REBOUND (Off:0 Def:2),,,,
+0021200234,470,2,42,4,9:37 PM,4:53,MISS Pargo 2' Driving Layup,,Matthews BLOCK (1 BLK),,
+0021200234,469,4,0,4,9:37 PM,4:51,CAVALIERS Rebound,,,,
+0021200234,471,1,44,4,9:38 PM,4:49,Varejao  Reverse Layup (15 PTS) (Gee 1 AST),,,82 - 82,TIE
+0021200234,473,1,65,4,9:38 PM,4:31,,,Aldridge 7' Jump Hook Shot (15 PTS),84 - 82,-2
+0021200234,474,2,1,4,9:39 PM,4:07,MISS Thompson 15' Jump Shot,,Batum BLOCK (2 BLK),,
+0021200234,475,4,0,4,9:39 PM,4:05,,,Lillard REBOUND (Off:1 Def:4),,
+0021200234,477,2,1,4,9:39 PM,3:48,,,MISS Batum 25' 3PT Jump Shot,,
+0021200234,478,4,0,4,9:39 PM,3:47,Varejao REBOUND (Off:7 Def:8),,,,
+0021200234,479,1,8,4,9:39 PM,3:36,Gee  Slam Dunk (16 PTS) (Varejao 5 AST),,,84 - 84,TIE
+0021200234,480,9,1,4,9:39 PM,3:28,,,Trail Blazers Timeout: Regular (Reg.4 Short 1),,
+0021200234,485,7,2,4,9:42 PM,3:22,Varejao Violation:Defensive Goaltending,,,,
+0021200234,484,1,42,4,9:42 PM,3:22,,,Batum  Driving Layup (12 PTS),86 - 84,-2
+0021200234,486,1,8,4,9:43 PM,3:06,Varejao 1' Slam Dunk (17 PTS) (Gee 2 AST),,,86 - 86,TIE
+0021200234,487,2,1,4,9:43 PM,2:49,,,MISS Lillard 26' 3PT Jump Shot,,
+0021200234,488,4,0,4,9:43 PM,2:45,,,Lillard REBOUND (Off:2 Def:4),,
+0021200234,489,1,1,4,9:43 PM,2:23,,,Batum 25' 3PT Jump Shot (15 PTS),89 - 86,-3
+0021200234,490,2,1,4,9:44 PM,2:02,MISS Gee  3PT Jump Shot,,,,
+0021200234,491,4,0,4,9:44 PM,2:01,,,Aldridge REBOUND (Off:1 Def:6),,
+0021200234,493,2,1,4,9:44 PM,1:43,Thompson BLOCK (2 BLK),,MISS Aldridge 6' Jump Shot,,
+0021200234,494,4,0,4,9:44 PM,1:41,Pargo REBOUND (Off:0 Def:2),,,,
+0021200234,495,1,1,4,9:44 PM,1:27,Pargo 25' 3PT Jump Shot (8 PTS) (Waiters 6 AST),,,89 - 89,TIE
+0021200234,496,2,1,4,9:45 PM,1:10,,,MISS Aldridge 19' Jump Shot,,
+0021200234,497,4,0,4,9:45 PM,1:10,Waiters REBOUND (Off:0 Def:3),,,,
+0021200234,498,1,5,4,9:45 PM,0:53,Thompson 1' Layup (10 PTS) (Waiters 7 AST),,,89 - 91,2
+0021200234,499,9,1,4,9:45 PM,0:53,,,Trail Blazers Timeout: Regular (Reg.5 Short 1),,
+0021200234,503,2,1,4,9:47 PM,0:36,,,MISS Matthews 12' Jump Shot,,
+0021200234,504,4,0,4,9:47 PM,0:36,,,Aldridge REBOUND (Off:2 Def:6),,
+0021200234,506,7,2,4,9:47 PM,0:36,Thompson Violation:Defensive Goaltending,,,,
+0021200234,505,1,5,4,9:47 PM,0:36,,,Aldridge  Layup (17 PTS),91 - 91,TIE
+0021200234,507,6,2,4,9:47 PM,0:36,Varejao S.FOUL (P2.T3),,,,
+0021200234,508,18,0,4,9:48 PM,0:36,,,,,
+0021200234,509,3,10,4,9:49 PM,0:36,,,MISS Aldridge Free Throw 1 of 1,,
+0021200234,511,4,0,4,9:49 PM,0:36,Gee REBOUND (Off:0 Def:3),,,,
+0021200234,512,2,1,4,9:50 PM,0:13,MISS Varejao 11' Jump Shot,,Hickson BLOCK (1 BLK),,
+0021200234,513,4,0,4,9:50 PM,0:12,CAVALIERS Rebound,,,,
+0021200234,515,5,11,4,9:50 PM,0:12,CAVALIERS Turnover: Shot Clock (T#14),,,,
+0021200234,516,9,2,4,9:50 PM,0:12,,,Trail Blazers Timeout: Short (Reg.5 Short 2),,
+0021200234,520,2,41,4,9:52 PM,0:00,,,MISS Lillard 1' Running Layup,,
+0021200234,521,4,0,4,9:52 PM,0:00,,,Trail Blazers Rebound,,
+0021200234,522,13,0,4,9:52 PM,0:00,,,,91 - 91,TIE
+0021200234,524,12,0,5,9:53 PM,5:00,,,,91 - 91,TIE
+0021200234,525,10,0,5,9:54 PM,5:00,Jump Ball Varejao vs. Hickson: Tip to,,,,
+0021200234,526,6,3,5,9:54 PM,4:59,Varejao L.B.FOUL (P3.T1),,,,
+0021200234,527,2,47,5,9:55 PM,4:45,,,MISS Aldridge 9' Turnaround Jump Shot,,
+0021200234,528,4,0,5,9:55 PM,4:43,Waiters REBOUND (Off:0 Def:4),,,,
+0021200234,530,2,1,5,9:56 PM,4:19,MISS Pargo 35' 3PT Jump Shot,,,,
+0021200234,531,4,0,5,9:56 PM,4:19,CAVALIERS Rebound,,,,
+0021200234,532,5,11,5,9:56 PM,4:19,CAVALIERS Turnover: Shot Clock (T#15),,,,
+0021200234,533,2,1,5,9:56 PM,4:02,,,MISS Matthews  3PT Jump Shot,,
+0021200234,534,4,0,5,9:56 PM,4:01,Gee REBOUND (Off:0 Def:4),,,,
+0021200234,535,1,1,5,9:56 PM,3:51,Pargo 24' 3PT Jump Shot (11 PTS),,,91 - 94,3
+0021200234,536,1,46,5,9:57 PM,3:27,,,Hickson 5' Running Jump Shot (9 PTS),93 - 94,1
+0021200234,537,5,13,5,9:57 PM,3:06,Waiters Backcourt Turnover (P2.T16),,,,
+0021200234,538,8,0,5,9:57 PM,3:06,SUB: Zeller FOR Thompson,,,,
+0021200234,539,1,1,5,9:58 PM,2:53,,,Lillard 25' 3PT Jump Shot (18 PTS) (Matthews 8 AST),96 - 94,-2
+0021200234,540,2,1,5,9:58 PM,2:36,MISS Pargo 25' 3PT Jump Shot,,,,
+0021200234,541,4,0,5,9:58 PM,2:36,CAVALIERS Rebound,,,,
+0021200234,542,1,1,5,9:59 PM,2:17,Waiters 25' 3PT Jump Shot (10 PTS),,,96 - 97,1
+0021200234,543,6,2,5,9:59 PM,2:01,Varejao S.FOUL (P4.T2),,,,
+0021200234,544,3,11,5,9:59 PM,2:01,,,Lillard Free Throw 1 of 2 (19 PTS),97 - 97,TIE
+0021200234,546,3,12,5,10:00 PM,2:01,,,Lillard Free Throw 2 of 2 (20 PTS),98 - 97,-1
+0021200234,548,1,46,5,10:00 PM,1:40,Waiters 4' Running Jump Shot (12 PTS),,,98 - 99,1
+0021200234,550,1,1,5,10:01 PM,1:22,,,Matthews  3PT Jump Shot (11 PTS) (Lillard 9 AST),101 - 99,-2
+0021200234,552,9,1,5,10:01 PM,1:22,CAVALIERS Timeout: Regular (Full 6 Short 0),,,,
+0021200234,556,6,2,5,10:03 PM,1:01,,,Lillard S.FOUL (P4.T1),,
+0021200234,557,3,11,5,10:03 PM,1:01,Pargo Free Throw 1 of 2 (12 PTS),,,101 - 100,-1
+0021200234,559,3,12,5,10:03 PM,1:01,Pargo Free Throw 2 of 2 (13 PTS),,,101 - 101,TIE
+0021200234,561,5,2,5,10:04 PM,0:47,Varejao STEAL (2 STL),,Lillard Lost Ball Turnover (P5.T13),,
+0021200234,562,2,5,5,10:04 PM,0:42,MISS Pargo  Layup,,,,
+0021200234,563,4,0,5,10:04 PM,0:39,,,Aldridge REBOUND (Off:2 Def:7),,
+0021200234,564,1,7,5,10:04 PM,0:25,,,Aldridge  Dunk (19 PTS) (Matthews 9 AST),103 - 101,-2
+0021200234,565,9,2,5,10:04 PM,0:25,CAVALIERS Timeout: Short (Full 6 Short 1),,,,
+0021200234,569,2,1,5,10:06 PM,0:09,MISS Waiters 20' Jump Shot,,,,
+0021200234,570,4,0,5,10:06 PM,0:07,Zeller REBOUND (Off:2 Def:6),,,,
+0021200234,571,1,84,5,10:06 PM,0:06,Gee 5' Running Bank Shot (18 PTS) (Zeller 2 AST),,,103 - 103,TIE
+0021200234,572,9,1,5,10:07 PM,0:06,,,Trail Blazers Timeout: Regular (Reg.6 Short 2),,
+0021200234,573,8,0,5,10:08 PM,0:06,SUB: Casspi FOR Waiters,,,,
+0021200234,574,8,0,5,10:08 PM,0:06,SUB: Gibson FOR Zeller,,,,
+0021200234,575,8,0,5,10:08 PM,0:06,,,SUB: Babbitt FOR Hickson,,
+0021200234,576,2,1,5,10:09 PM,0:01,,,MISS Lillard 24' 3PT Jump Shot,,
+0021200234,577,4,0,5,10:09 PM,0:00,,,Batum REBOUND (Off:3 Def:4),,
+0021200234,579,18,1,5,10:09 PM,0:00,,,,,
+0021200234,580,13,0,5,10:10 PM,0:00,,,,103 - 103,TIE
+0021200234,583,12,0,6,10:12 PM,5:00,,,,103 - 103,TIE
+0021200234,584,10,0,6,10:12 PM,5:00,Jump Ball Zeller vs. Hickson: Tip to Lillard,,,,
+0021200234,586,1,5,6,10:13 PM,4:40,,,Batum 1' Layup (17 PTS) (Hickson 2 AST),105 - 103,-2
+0021200234,587,1,49,6,10:13 PM,4:24,Zeller 1' Driving Dunk (8 PTS) (Pargo 7 AST),,,105 - 105,TIE
+0021200234,588,1,74,6,10:13 PM,4:07,,,Lillard  Running Reverse Layup (22 PTS),107 - 105,-2
+0021200234,589,2,1,6,10:14 PM,3:48,MISS Varejao 5' Jump Shot,,,,
+0021200234,590,4,0,6,10:14 PM,3:47,Zeller REBOUND (Off:3 Def:6),,,,
+0021200234,591,1,5,6,10:14 PM,3:45,Zeller  Layup (10 PTS),,,107 - 107,TIE
+0021200234,592,1,47,6,10:14 PM,3:27,,,Aldridge 6' Turnaround Jump Shot (21 PTS),109 - 107,-2
+0021200234,593,6,1,6,10:14 PM,3:08,,,Batum P.FOUL (P3.T1),,
+0021200234,594,5,41,6,10:15 PM,2:58,Gee Poss Lost Ball Turnover (P2.T17),,,,
+0021200234,595,8,0,6,10:15 PM,2:58,SUB: Waiters FOR Pargo,,,,
+0021200234,596,1,47,6,10:15 PM,2:40,,,Hickson 3' Turnaround Jump Shot (11 PTS) (Matthews 10 AST),111 - 107,-4
+0021200234,597,9,1,6,10:16 PM,2:39,CAVALIERS Timeout: Regular (Full 7 Short 1),,,,
+0021200234,601,6,2,6,10:17 PM,2:27,,,Batum S.FOUL (P4.T2),,
+0021200234,602,3,11,6,10:18 PM,2:27,Zeller Free Throw 1 of 2 (11 PTS),,,111 - 108,-3
+0021200234,604,3,12,6,10:18 PM,2:27,Zeller Free Throw 2 of 2 (12 PTS),,,111 - 109,-2
+0021200234,607,2,1,6,10:18 PM,2:03,,,MISS Matthews 25' 3PT Jump Shot,,
+0021200234,608,4,0,6,10:19 PM,2:01,Waiters REBOUND (Off:0 Def:5),,,,
+0021200234,609,2,5,6,10:19 PM,1:49,MISS Waiters  Layup,,,,
+0021200234,611,4,0,6,10:19 PM,1:49,Zeller REBOUND (Off:4 Def:6),,,,
+0021200234,610,2,72,6,10:19 PM,1:49,MISS Zeller 1' Putback Layup,,,,
+0021200234,612,4,0,6,10:19 PM,1:49,Varejao REBOUND (Off:8 Def:8),,,,
+0021200234,613,6,2,6,10:19 PM,1:49,,,Aldridge S.FOUL (P5.T3),,
+0021200234,615,9,2,6,10:19 PM,1:49,CAVALIERS Timeout: Short (Full 7 Short 2),,,,
+0021200234,617,8,0,6,10:20 PM,1:49,SUB: Pargo FOR Waiters,,,,
+0021200234,618,3,11,6,10:21 PM,1:49,Varejao Free Throw 1 of 2 (18 PTS),,,111 - 110,-1
+0021200234,620,3,12,6,10:21 PM,1:49,Varejao Free Throw 2 of 2 (19 PTS),,,111 - 111,TIE
+0021200234,622,1,1,6,10:21 PM,1:32,,,Batum 20' Jump Shot (19 PTS) (Lillard 10 AST),113 - 111,-2
+0021200234,623,1,1,6,10:22 PM,1:20,Gee  3PT Jump Shot (21 PTS) (Pargo 8 AST),,,113 - 114,1
+0021200234,624,1,1,6,10:22 PM,1:06,,,Lillard 18' Jump Shot (24 PTS),115 - 114,-1
+0021200234,626,1,1,6,10:22 PM,0:52,Zeller 20' Jump Shot (14 PTS) (Gee 3 AST),,,115 - 116,1
+0021200234,627,9,1,6,10:22 PM,0:52,,,Trail Blazers Timeout: Regular (Reg.7 Short 2),,
+0021200234,633,5,40,6,10:25 PM,0:36,,,Lillard Out of Bounds Lost Ball Turnover (P6.T14),,
+0021200234,634,2,5,6,10:25 PM,0:19,MISS Zeller  Layup,,,,
+0021200234,635,4,0,6,10:25 PM,0:19,CAVALIERS Rebound,,,,
+0021200234,636,5,4,6,10:25 PM,0:19,Zeller Traveling Turnover (P1.T18),,,,
+0021200234,637,9,2,6,10:25 PM,0:19,,,Trail Blazers Timeout: Short (Reg.7 Short 3),,
+0021200234,641,2,1,6,10:26 PM,0:09,,,MISS Aldridge 20' Jump Shot,,
+0021200234,642,4,0,6,10:26 PM,0:09,,,Hickson REBOUND (Off:2 Def:3),,
+0021200234,643,2,5,6,10:26 PM,0:05,Zeller BLOCK (2 BLK),,MISS Hickson 1' Layup,,
+0021200234,644,4,0,6,10:26 PM,0:03,Varejao REBOUND (Off:8 Def:9),,,,
+0021200234,645,6,28,6,10:27 PM,0:02,,,Batum Personal Take Foul (P5.PN),,
+0021200234,646,3,11,6,10:27 PM,0:02,MISS Gee Free Throw 1 of 2,,,,
+0021200234,647,4,1,6,10:27 PM,0:02,CAVALIERS Rebound,,,,
+0021200234,648,3,12,6,10:27 PM,0:02,Gee Free Throw 2 of 2 (22 PTS),,,115 - 117,2
+0021200234,650,9,2,6,10:28 PM,0:02,,,Trail Blazers Timeout: Short (Reg.7 Short 4),,
+0021200234,654,1,1,6,10:29 PM,0:00,,,Batum 24' 3PT Jump Shot (22 PTS) (Lillard 11 AST),118 - 117,-1
+0021200234,655,9,1,6,10:29 PM,0:00,CAVALIERS Timeout: Regular (Full 8 Short 2),,,,
+0021200234,656,18,0,6,10:29 PM,0:00,,,,,
+0021200234,659,8,0,6,10:31 PM,0:00,,,SUB: Leonard FOR Lillard,,
+0021200234,661,13,0,6,10:31 PM,0:00,,,,118 - 117,-1

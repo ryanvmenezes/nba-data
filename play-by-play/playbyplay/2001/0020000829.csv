@@ -1,0 +1,391 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000829,0,12,0,1,4:00 AM,12:00,,,,,
+0020000829,1,10,0,1,4:01 AM,12:00,Jump Ball Polynice vs. Reeves: Tip to Stockton,,,,
+0020000829,2,2,1,1,4:01 AM,11:41,MISS Starks 21' Jump Shot,,,,
+0020000829,3,4,0,1,4:01 AM,11:39,,,Long REBOUND (Off:0 Def:1),,
+0020000829,4,6,1,1,4:02 AM,11:26,Marshall P.FOUL (P1.T1),,,,
+0020000829,5,2,5,1,4:02 AM,11:16,,,MISS Dickerson  Layup,,
+0020000829,7,4,0,1,4:02 AM,11:14,,,Reeves REBOUND (Off:1 Def:0),,
+0020000829,6,1,5,1,4:02 AM,11:14,,,Reeves  Layup (2 PTS),2 - 0,-2
+0020000829,8,2,5,1,4:02 AM,11:00,MISS Stockton  Layup,,,,
+0020000829,10,4,0,1,4:02 AM,10:58,Polynice REBOUND (Off:1 Def:0),,,,
+0020000829,9,1,5,1,4:02 AM,10:58,Polynice  Layup (2 PTS),,,2 - 2,TIE
+0020000829,11,5,1,1,4:02 AM,10:47,Marshall STEAL (1 STL),,Long Bad Pass Turnover (P1.T1),,
+0020000829,12,6,2,1,4:02 AM,10:43,,,Dickerson S.FOUL (P1.T1),,
+0020000829,13,3,11,1,4:03 AM,10:43,Malone Free Throw 1 of 2 (1 PTS),,,2 - 3,1
+0020000829,14,3,12,1,4:03 AM,10:43,Malone Free Throw 2 of 2 (2 PTS),,,2 - 4,2
+0020000829,15,1,5,1,4:04 AM,10:24,,,Dickerson  Layup (2 PTS) (Reeves 1 AST),4 - 4,TIE
+0020000829,16,1,58,1,4:04 AM,10:06,Starks 9' Turnaround Hook Shot (2 PTS) (Polynice 1 AST),,,4 - 6,2
+0020000829,17,6,4,1,4:04 AM,9:45,,,Reeves OFF.Foul (P1),,
+0020000829,18,5,5,1,4:04 AM,9:45,,,Reeves Foul Turnover (P1.T2),,
+0020000829,19,5,1,1,4:05 AM,9:30,Malone Bad Pass Turnover (P1.T1),,Dickerson STEAL (1 STL),,
+0020000829,20,2,1,1,4:05 AM,9:22,,,MISS Bibby 19' Jump Shot,,
+0020000829,21,4,0,1,4:05 AM,9:18,,,Abdur-Rahim REBOUND (Off:1 Def:0),,
+0020000829,22,1,1,1,4:05 AM,9:16,,,Bibby 21' Jump Shot (2 PTS) (Abdur-Rahim 1 AST),6 - 6,TIE
+0020000829,23,2,5,1,4:05 AM,8:59,MISS Starks  Layup,,Dickerson BLOCK (1 BLK),,
+0020000829,24,4,0,1,4:05 AM,8:56,Polynice REBOUND (Off:2 Def:0),,,,
+0020000829,25,2,1,1,4:05 AM,8:49,MISS Marshall 24' 3PT Jump Shot,,,,
+0020000829,26,4,0,1,4:05 AM,8:46,Malone REBOUND (Off:1 Def:0),,,,
+0020000829,27,1,7,1,4:06 AM,8:37,Malone  Dunk (4 PTS) (Stockton 1 AST),,,6 - 8,2
+0020000829,28,1,5,1,4:06 AM,8:15,,,Abdur-Rahim  Layup (2 PTS) (Dickerson 1 AST),8 - 8,TIE
+0020000829,29,1,5,1,4:06 AM,7:59,Stockton  Layup (2 PTS),,,8 - 10,2
+0020000829,30,2,1,1,4:06 AM,7:41,,,MISS Abdur-Rahim 17' Jump Shot,,
+0020000829,31,4,0,1,4:07 AM,7:38,Starks REBOUND (Off:0 Def:1),,,,
+0020000829,32,5,1,1,4:07 AM,7:33,Malone Bad Pass Turnover (P2.T2),,Abdur-Rahim STEAL (1 STL),,
+0020000829,33,5,1,1,4:07 AM,7:28,Marshall STEAL (2 STL),,Bibby Bad Pass Turnover (P1.T3),,
+0020000829,34,1,5,1,4:07 AM,7:21,Malone  Layup (6 PTS) (Starks 1 AST),,,8 - 12,4
+0020000829,35,6,2,1,4:07 AM,7:01,Polynice S.FOUL (P1.T2),,,,
+0020000829,36,3,11,1,4:07 AM,7:01,,,Reeves Free Throw 1 of 2 (3 PTS),9 - 12,3
+0020000829,37,3,12,1,4:08 AM,7:01,,,Reeves Free Throw 2 of 2 (4 PTS),10 - 12,2
+0020000829,38,2,1,1,4:08 AM,6:43,MISS Starks 20' Jump Shot,,,,
+0020000829,39,4,0,1,4:08 AM,6:41,,,Long REBOUND (Off:0 Def:2),,
+0020000829,40,5,1,1,4:08 AM,6:32,Marshall STEAL (3 STL),,Abdur-Rahim Bad Pass Turnover (P1.T4),,
+0020000829,41,1,7,1,4:08 AM,6:27,Marshall  Dunk (2 PTS) (Malone 1 AST),,,10 - 14,4
+0020000829,42,9,1,1,4:09 AM,6:19,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,
+0020000829,44,2,1,1,4:11 AM,6:04,,,MISS Bibby 26' 3PT Jump Shot,,
+0020000829,45,4,0,1,4:11 AM,6:00,,,Abdur-Rahim REBOUND (Off:2 Def:0),,
+0020000829,46,5,2,1,4:11 AM,5:59,Malone STEAL (1 STL),,Abdur-Rahim Lost Ball Turnover (P2.T5),,
+0020000829,47,9,2,1,4:11 AM,5:59,JAZZ Timeout: Short (Full 0 Short 1),,,,
+0020000829,48,2,1,1,4:12 AM,5:41,MISS Stockton 16' Jump Shot,,,,
+0020000829,49,4,0,1,4:12 AM,5:40,,,Grizzlies Rebound,,
+0020000829,50,1,1,1,4:13 AM,5:25,,,Long 21' Jump Shot (2 PTS) (Bibby 1 AST),12 - 14,2
+0020000829,51,1,42,1,4:13 AM,5:09,Marshall  Driving Layup (4 PTS) (Stockton 2 AST),,,12 - 16,4
+0020000829,52,6,1,1,4:13 AM,4:58,Starks P.FOUL (P1.T3),,,,
+0020000829,53,8,0,1,4:13 AM,4:58,SUB: Vaughn FOR Stockton,,,,
+0020000829,54,8,0,1,4:13 AM,4:58,,,SUB: Massenburg FOR Reeves,,
+0020000829,55,2,1,1,4:14 AM,4:44,,,MISS Long 20' Jump Shot,,
+0020000829,56,4,0,1,4:14 AM,4:39,,,Massenburg REBOUND (Off:1 Def:0),,
+0020000829,57,2,1,1,4:14 AM,4:37,,,MISS Dickerson 24' 3PT Jump Shot,,
+0020000829,58,4,0,1,4:14 AM,4:34,Vaughn REBOUND (Off:0 Def:1),,,,
+0020000829,59,5,2,1,4:14 AM,4:31,Vaughn Lost Ball Turnover (P1.T3),,Dickerson STEAL (2 STL),,
+0020000829,60,1,7,1,4:14 AM,4:27,,,Abdur-Rahim  Dunk (4 PTS) (Bibby 2 AST),14 - 16,2
+0020000829,61,8,0,1,4:15 AM,3:58,,,SUB: Abdul-Rauf FOR Bibby,,
+0020000829,62,6,2,1,4:15 AM,3:54,,,Abdur-Rahim S.FOUL (P1.T2),,
+0020000829,63,3,11,1,4:15 AM,3:54,Polynice Free Throw 1 of 2 (3 PTS),,,14 - 17,3
+0020000829,64,8,0,1,4:16 AM,3:54,SUB: Russell FOR Marshall,,,,
+0020000829,65,3,12,1,4:16 AM,3:54,MISS Polynice Free Throw 2 of 2,,,,
+0020000829,66,4,0,1,4:16 AM,3:53,,,Abdur-Rahim REBOUND (Off:2 Def:1),,
+0020000829,67,5,2,1,4:16 AM,3:37,Russell STEAL (1 STL),,Abdur-Rahim Lost Ball Turnover (P3.T6),,
+0020000829,68,7,6,1,4:16 AM,3:33,,,Long Violation:Double Lane,,
+0020000829,69,1,1,1,4:17 AM,3:14,Polynice 7' Jump Shot (5 PTS) (Malone 2 AST),,,14 - 19,5
+0020000829,70,2,1,1,4:17 AM,2:55,Malone BLOCK (1 BLK),,MISS Abdur-Rahim 8' Jump Shot,,
+0020000829,71,4,0,1,4:17 AM,2:55,,,Grizzlies Rebound,,
+0020000829,72,9,1,1,4:17 AM,2:55,JAZZ Timeout: Regular (Full 1 Short 1),,,,
+0020000829,74,1,1,1,4:20 AM,2:51,,,Abdul-Rauf 20' Jump Shot (2 PTS) (Dickerson 2 AST),16 - 19,3
+0020000829,75,1,5,1,4:20 AM,2:33,Vaughn  Layup (2 PTS) (Malone 3 AST),,,16 - 21,5
+0020000829,76,1,1,1,4:20 AM,2:19,,,Abdur-Rahim 10' Jump Shot (6 PTS) (Abdul-Rauf 1 AST),18 - 21,3
+0020000829,77,1,1,1,4:20 AM,2:02,Russell 24' 3PT Jump Shot (3 PTS) (Malone 4 AST),,,18 - 24,6
+0020000829,78,1,1,1,4:21 AM,1:47,,,Dickerson 24' 3PT Jump Shot (5 PTS) (Long 1 AST),21 - 24,3
+0020000829,79,1,5,1,4:21 AM,1:30,Polynice  Layup (7 PTS) (Vaughn 1 AST),,,21 - 26,5
+0020000829,80,5,1,1,4:21 AM,1:18,,,Abdul-Rauf Bad Pass Turnover (P1.T7),,
+0020000829,81,8,0,1,4:21 AM,1:18,SUB: Manning FOR Malone,,,,
+0020000829,82,8,0,1,4:21 AM,1:18,,,SUB: Strickland FOR Dickerson,,
+0020000829,83,1,1,1,4:22 AM,1:03,Russell  3PT Jump Shot (6 PTS) (Manning 1 AST),,,21 - 29,8
+0020000829,84,1,1,1,4:22 AM,0:45,,,Abdul-Rauf 21' Jump Shot (4 PTS),23 - 29,6
+0020000829,85,5,1,1,4:23 AM,0:27,Polynice Bad Pass Turnover (P1.T4),,Long STEAL (1 STL),,
+0020000829,86,6,1,1,4:23 AM,0:25,Starks P.FOUL (P2.T4),,,,
+0020000829,87,8,0,1,4:23 AM,0:25,SUB: Crotty FOR Starks,,,,
+0020000829,88,6,1,1,4:23 AM,0:10,Russell P.FOUL (P1.PN),,,,
+0020000829,89,3,11,1,4:24 AM,0:10,,,Abdur-Rahim Free Throw 1 of 2 (7 PTS),24 - 29,5
+0020000829,90,3,12,1,4:24 AM,0:10,,,Abdur-Rahim Free Throw 2 of 2 (8 PTS),25 - 29,4
+0020000829,91,1,42,1,4:24 AM,0:04,Vaughn  Driving Layup (4 PTS),,,25 - 31,6
+0020000829,92,2,1,1,4:24 AM,0:00,,,MISS Abdul-Rauf 22' Jump Shot,,
+0020000829,93,4,0,1,4:25 AM,0:00,,,Grizzlies Rebound,,
+0020000829,95,13,0,1,4:25 AM,0:00,,,,25 - 31,6
+0020000829,97,12,0,2,4:27 AM,12:00,,,,25 - 31,6
+0020000829,98,2,1,2,4:28 AM,11:34,,,MISS Swift 20' Jump Shot,,
+0020000829,99,4,0,2,4:28 AM,11:33,Russell REBOUND (Off:0 Def:1),,,,
+0020000829,100,2,1,2,4:28 AM,11:16,MISS Russell 20' Jump Shot,,,,
+0020000829,101,4,0,2,4:28 AM,11:14,,,Abdul-Rauf REBOUND (Off:0 Def:1),,
+0020000829,102,2,1,2,4:28 AM,11:09,,,MISS Strickland 21' Jump Shot,,
+0020000829,103,4,0,2,4:28 AM,11:07,,,Dickerson REBOUND (Off:1 Def:0),,
+0020000829,104,1,1,2,4:28 AM,10:53,,,Massenburg 9' Jump Shot (2 PTS) (Strickland 1 AST),27 - 31,4
+0020000829,105,6,2,2,4:28 AM,10:53,Russell S.FOUL (P2.T1),,,,
+0020000829,106,3,10,2,4:29 AM,10:53,,,MISS Massenburg Free Throw 1 of 1,,
+0020000829,107,4,0,2,4:29 AM,10:50,Manning REBOUND (Off:0 Def:1),,,,
+0020000829,108,1,1,2,4:29 AM,10:32,Vaughn 21' Jump Shot (6 PTS),,,27 - 33,6
+0020000829,109,2,1,2,4:29 AM,10:12,,,MISS Dickerson 24' 3PT Jump Shot,,
+0020000829,110,4,0,2,4:29 AM,10:10,Ostertag REBOUND (Off:0 Def:1),,,,
+0020000829,111,5,1,2,4:30 AM,10:04,Crotty Bad Pass Turnover (P1.T5),,,,
+0020000829,112,2,1,2,4:30 AM,9:47,,,MISS Dickerson 20' Jump Shot,,
+0020000829,113,4,0,2,4:30 AM,9:46,,,Strickland REBOUND (Off:1 Def:0),,
+0020000829,114,6,1,2,4:30 AM,9:46,Russell P.FOUL (P3.T2),,,,
+0020000829,115,8,0,2,4:30 AM,9:46,,,SUB: Bibby FOR Abdul-Rauf,,
+0020000829,116,8,0,2,4:30 AM,9:46,SUB: Marshall FOR Russell,,,,
+0020000829,117,6,2,2,4:31 AM,9:36,Ostertag S.FOUL (P1.T3),,,,
+0020000829,118,6,11,2,4:31 AM,9:36,Ostertag T.FOUL (P1.T3),,,,
+0020000829,119,3,16,2,4:31 AM,9:36,,,Bibby Free Throw Technical (3 PTS),28 - 33,5
+0020000829,120,3,11,2,4:31 AM,9:36,,,Dickerson Free Throw 1 of 2 (6 PTS),29 - 33,4
+0020000829,121,3,12,2,4:32 AM,9:36,,,Dickerson Free Throw 2 of 2 (7 PTS),30 - 33,3
+0020000829,122,1,1,2,4:32 AM,9:16,Ostertag 8' Jump Shot (2 PTS) (Manning 2 AST),,,30 - 35,5
+0020000829,123,2,1,2,4:32 AM,8:59,,,MISS Massenburg 20' Jump Shot,,
+0020000829,124,4,0,2,4:32 AM,8:56,,,Dickerson REBOUND (Off:2 Def:0),,
+0020000829,125,1,1,2,4:33 AM,8:46,,,Dickerson 22' Jump Shot (9 PTS),32 - 35,3
+0020000829,126,6,11,2,4:33 AM,8:41,,,,,
+0020000829,127,9,4,2,4:33 AM,8:41,,,,,
+0020000829,129,3,16,2,4:35 AM,8:41,Vaughn Free Throw Technical (7 PTS),,,32 - 36,4
+0020000829,130,6,1,2,4:36 AM,8:32,,,Strickland P.FOUL (P1.T1),,
+0020000829,131,5,1,2,4:36 AM,8:24,Vaughn Bad Pass Turnover (P2.T6),,Strickland STEAL (1 STL),,
+0020000829,132,1,1,2,4:36 AM,8:10,,,Massenburg 3' Jump Shot (4 PTS) (Dickerson 3 AST),34 - 36,2
+0020000829,133,1,5,2,4:37 AM,7:55,Marshall  Layup (6 PTS) (Manning 3 AST),,,34 - 38,4
+0020000829,134,1,1,2,4:37 AM,7:38,,,Bibby 24' 3PT Jump Shot (6 PTS) (Strickland 2 AST),37 - 38,1
+0020000829,135,6,2,2,4:37 AM,7:23,,,Swift S.FOUL (P1.T2),,
+0020000829,136,3,11,2,4:37 AM,7:23,MISS Manning Free Throw 1 of 2,,,,
+0020000829,137,4,1,2,4:37 AM,7:23,JAZZ Rebound,,,,
+0020000829,138,8,0,2,4:38 AM,7:23,SUB: Stockton FOR Vaughn,,,,
+0020000829,140,8,0,2,4:38 AM,7:23,,,SUB: Abdur-Rahim FOR Strickland,,
+0020000829,141,3,12,2,4:38 AM,7:23,Manning Free Throw 2 of 2 (1 PTS),,,37 - 39,2
+0020000829,142,1,1,2,4:38 AM,7:07,,,Dickerson 18' Jump Shot (11 PTS),39 - 39,TIE
+0020000829,143,2,44,2,4:39 AM,6:54,MISS Crotty  Reverse Layup,,,,
+0020000829,144,4,0,2,4:39 AM,6:52,,,Abdur-Rahim REBOUND (Off:2 Def:2),,
+0020000829,145,1,1,2,4:39 AM,6:46,,,Bibby 19' Jump Shot (8 PTS) (Abdur-Rahim 2 AST),41 - 39,-2
+0020000829,146,5,1,2,4:39 AM,6:27,Marshall Bad Pass Turnover (P1.T7),,,,
+0020000829,147,2,1,2,4:39 AM,6:08,,,MISS Dickerson 19' Jump Shot,,
+0020000829,148,4,0,2,4:40 AM,6:06,Marshall REBOUND (Off:0 Def:1),,,,
+0020000829,149,2,44,2,4:40 AM,5:59,MISS Marshall  Reverse Layup,,,,
+0020000829,150,4,0,2,4:40 AM,5:57,,,Massenburg REBOUND (Off:1 Def:1),,
+0020000829,151,6,1,2,4:40 AM,5:53,Manning P.FOUL (P1.T4),,,,
+0020000829,152,9,1,2,4:40 AM,5:53,JAZZ Timeout: Regular (Full 2 Short 1),,,,
+0020000829,154,8,0,2,4:40 AM,5:53,SUB: Malone FOR Manning,,,,
+0020000829,155,8,0,2,4:42 AM,5:53,SUB: Starks FOR Crotty,,,,
+0020000829,156,2,1,2,4:42 AM,5:38,,,MISS Dickerson 20' Jump Shot,,
+0020000829,157,4,0,2,4:42 AM,5:36,Marshall REBOUND (Off:0 Def:2),,,,
+0020000829,158,5,1,2,4:42 AM,5:33,Stockton Bad Pass Turnover (P1.T8),,Swift STEAL (1 STL),,
+0020000829,159,5,1,2,4:42 AM,5:30,Malone STEAL (2 STL),,Swift Bad Pass Turnover (P1.T8),,
+0020000829,160,1,5,2,4:42 AM,5:26,Malone  Layup (8 PTS),,,41 - 41,TIE
+0020000829,161,2,1,2,4:43 AM,5:09,,,MISS Abdur-Rahim  3PT Jump Shot,,
+0020000829,162,4,0,2,4:43 AM,5:07,Marshall REBOUND (Off:0 Def:3),,,,
+0020000829,163,8,0,2,4:43 AM,4:59,,,SUB: Long FOR Swift,,
+0020000829,164,5,1,2,4:44 AM,4:52,Malone Bad Pass Turnover (P3.T9),,Long STEAL (2 STL),,
+0020000829,165,9,2,2,4:44 AM,4:50,,,Grizzlies Timeout: Short (Reg.1 Short 1),,
+0020000829,166,1,8,2,4:45 AM,4:37,,,Massenburg  Slam Dunk (6 PTS) (Abdur-Rahim 3 AST),43 - 41,-2
+0020000829,167,1,1,2,4:45 AM,4:17,Marshall 17' Jump Shot (8 PTS) (Stockton 3 AST),,,43 - 43,TIE
+0020000829,168,2,1,2,4:46 AM,3:53,Marshall BLOCK (1 BLK),,MISS Abdur-Rahim 19' Jump Shot,,
+0020000829,169,4,0,2,4:46 AM,3:52,JAZZ Rebound,,,,
+0020000829,170,7,2,2,4:46 AM,3:43,,,Dickerson Violation:Defensive Goaltending,,
+0020000829,171,1,1,2,4:46 AM,3:34,Marshall 10' Jump Shot (10 PTS) (Stockton 4 AST),,,43 - 45,2
+0020000829,172,2,1,2,4:47 AM,3:27,,,MISS Massenburg 5' Jump Shot,,
+0020000829,173,4,0,2,4:47 AM,3:27,Ostertag REBOUND (Off:0 Def:2),,,,
+0020000829,174,5,1,2,4:47 AM,3:27,Stockton Bad Pass Turnover (P2.T10),,Long STEAL (3 STL),,
+0020000829,175,2,1,2,4:47 AM,3:27,,,MISS Dickerson 24' 3PT Jump Shot,,
+0020000829,176,4,0,2,4:47 AM,3:27,Ostertag REBOUND (Off:0 Def:3),,,,
+0020000829,177,1,8,2,4:47 AM,3:27,Marshall  Slam Dunk (12 PTS) (Stockton 5 AST),,,43 - 47,4
+0020000829,178,9,1,2,4:48 AM,3:21,,,Grizzlies Timeout: Regular (Reg.2 Short 1),,
+0020000829,180,2,3,2,4:50 AM,3:06,,,MISS Abdur-Rahim 6' Hook Shot,,
+0020000829,181,4,0,2,4:50 AM,3:04,Stockton REBOUND (Off:0 Def:1),,,,
+0020000829,182,6,2,2,4:50 AM,2:57,,,Long S.FOUL (P1.T3),,
+0020000829,183,3,11,2,4:50 AM,2:57,Malone Free Throw 1 of 2 (9 PTS),,,43 - 48,5
+0020000829,184,8,0,2,4:51 AM,2:57,,,SUB: Reeves FOR Massenburg,,
+0020000829,185,3,12,2,4:51 AM,2:57,Malone Free Throw 2 of 2 (10 PTS),,,43 - 49,6
+0020000829,186,1,42,2,4:51 AM,2:36,,,Abdur-Rahim  Driving Layup (10 PTS),45 - 49,4
+0020000829,187,1,1,2,4:52 AM,2:16,Malone 16' Jump Shot (12 PTS),,,45 - 51,6
+0020000829,188,2,5,2,4:52 AM,1:59,Ostertag BLOCK (1 BLK),,MISS Dickerson  Layup,,
+0020000829,190,4,0,2,4:52 AM,1:55,,,Dickerson REBOUND (Off:3 Def:0),,
+0020000829,189,2,5,2,4:52 AM,1:55,,,MISS Dickerson  Layup,,
+0020000829,191,4,0,2,4:52 AM,1:53,Malone REBOUND (Off:1 Def:1),,,,
+0020000829,192,2,5,2,4:53 AM,1:42,MISS Ostertag  Layup,,Long BLOCK (1 BLK),,
+0020000829,193,4,0,2,4:53 AM,1:42,JAZZ Rebound,,,,
+0020000829,194,2,1,2,4:53 AM,1:30,MISS Malone 20' Jump Shot,,,,
+0020000829,195,4,0,2,4:53 AM,1:28,,,Grizzlies Rebound,,
+0020000829,196,2,1,2,4:54 AM,1:03,,,MISS Bibby 27' 3PT Jump Shot,,
+0020000829,197,4,0,2,4:54 AM,1:01,Malone REBOUND (Off:1 Def:2),,,,
+0020000829,198,5,1,2,4:54 AM,0:56,Stockton Bad Pass Turnover (P3.T11),,,,
+0020000829,199,1,1,2,4:54 AM,0:44,,,Bibby 14' Jump Shot (10 PTS),47 - 51,4
+0020000829,200,5,2,2,4:55 AM,0:29,Ostertag Lost Ball Turnover (P1.T12),,Long STEAL (4 STL),,
+0020000829,201,1,1,2,4:55 AM,0:23,,,Dickerson 20' Jump Shot (13 PTS) (Bibby 3 AST),49 - 51,2
+0020000829,202,6,1,2,4:55 AM,0:04,,,Long P.FOUL (P2.T4),,
+0020000829,203,2,1,2,4:55 AM,0:00,MISS Stockton 15' Jump Shot,,,,
+0020000829,204,4,0,2,4:55 AM,0:00,Ostertag REBOUND (Off:1 Def:3),,,,
+0020000829,206,13,0,2,4:56 AM,0:00,,,,49 - 51,2
+0020000829,207,12,0,3,5:12 AM,12:00,,,,49 - 51,2
+0020000829,208,2,1,3,5:12 AM,11:44,,,MISS Bibby  3PT Jump Shot,,
+0020000829,209,4,0,3,5:12 AM,11:39,Malone REBOUND (Off:1 Def:3),,,,
+0020000829,210,1,42,3,5:13 AM,11:26,Polynice  Driving Layup (9 PTS),,,49 - 53,4
+0020000829,211,5,2,3,5:13 AM,11:10,Polynice STEAL (1 STL),,Dickerson Lost Ball Turnover (P1.T9),,
+0020000829,212,2,5,3,5:13 AM,11:07,MISS Starks  Layup,,Long BLOCK (2 BLK),,
+0020000829,213,4,0,3,5:13 AM,11:05,JAZZ Rebound,,,,
+0020000829,214,6,1,3,5:13 AM,11:05,,,Dickerson P.FOUL (P2.T1),,
+0020000829,215,1,1,3,5:14 AM,10:53,Malone 19' Jump Shot (14 PTS) (Starks 2 AST),,,49 - 55,6
+0020000829,217,2,1,3,5:14 AM,10:26,,,MISS Dickerson 14' Jump Shot,,
+0020000829,218,4,0,3,5:14 AM,10:24,Marshall REBOUND (Off:0 Def:4),,,,
+0020000829,219,6,2,3,5:15 AM,10:09,,,Abdur-Rahim S.FOUL (P2.T2),,
+0020000829,221,3,11,3,5:15 AM,10:09,Marshall Free Throw 1 of 2 (13 PTS),,,49 - 56,7
+0020000829,222,3,12,3,5:15 AM,10:09,Marshall Free Throw 2 of 2 (14 PTS),,,49 - 57,8
+0020000829,223,1,1,3,5:16 AM,9:53,,,Reeves 16' Jump Shot (6 PTS) (Bibby 4 AST),51 - 57,6
+0020000829,224,2,5,3,5:16 AM,9:31,MISS Starks  Layup,,,,
+0020000829,225,4,0,3,5:16 AM,9:30,Polynice REBOUND (Off:3 Def:0),,,,
+0020000829,226,5,2,3,5:16 AM,9:24,Polynice Lost Ball Turnover (P2.T13),,Reeves STEAL (1 STL),,
+0020000829,227,6,4,3,5:16 AM,9:20,,,Abdur-Rahim OFF.Foul (P3),,
+0020000829,228,5,5,3,5:16 AM,9:20,,,Abdur-Rahim Foul Turnover (P4.T10),,
+0020000829,229,5,1,3,5:17 AM,9:10,Stockton Bad Pass Turnover (P4.T14),,Long STEAL (5 STL),,
+0020000829,230,6,1,3,5:17 AM,9:10,Stockton P.FOUL (P1.T1),,,,
+0020000829,231,1,1,3,5:17 AM,8:58,,,Reeves 18' Jump Shot (8 PTS) (Bibby 5 AST),53 - 57,4
+0020000829,232,2,1,3,5:17 AM,8:42,MISS Malone 20' Jump Shot,,,,
+0020000829,233,4,0,3,5:17 AM,8:39,,,Bibby REBOUND (Off:0 Def:1),,
+0020000829,234,1,8,3,5:18 AM,8:29,,,Abdur-Rahim  Slam Dunk (12 PTS) (Bibby 6 AST),55 - 57,2
+0020000829,235,1,5,3,5:18 AM,8:13,Malone  Layup (16 PTS) (Stockton 6 AST),,,55 - 59,4
+0020000829,236,5,2,3,5:18 AM,7:51,,,Dickerson Lost Ball Turnover (P2.T11),,
+0020000829,237,1,1,3,5:18 AM,7:45,Starks 21' Jump Shot (4 PTS) (Stockton 7 AST),,,55 - 61,6
+0020000829,238,6,1,3,5:19 AM,7:24,Stockton P.FOUL (P2.T2),,,,
+0020000829,239,2,1,3,5:19 AM,7:16,,,MISS Abdur-Rahim 19' Jump Shot,,
+0020000829,240,4,0,3,5:19 AM,7:13,Malone REBOUND (Off:1 Def:4),,,,
+0020000829,241,1,5,3,5:19 AM,7:03,Polynice  Layup (11 PTS) (Stockton 8 AST),,,55 - 63,8
+0020000829,242,9,1,3,5:19 AM,7:02,,,Grizzlies Timeout: Regular (Reg.3 Short 1),,
+0020000829,244,2,1,3,5:22 AM,6:47,,,MISS Dickerson 24' 3PT Jump Shot,,
+0020000829,245,4,0,3,5:22 AM,6:45,Marshall REBOUND (Off:0 Def:5),,,,
+0020000829,246,2,1,3,5:22 AM,6:29,MISS Stockton 13' Jump Shot,,,,
+0020000829,248,4,0,3,5:22 AM,6:26,Polynice REBOUND (Off:4 Def:0),,,,
+0020000829,247,2,5,3,5:22 AM,6:26,MISS Polynice  Layup,,,,
+0020000829,249,4,0,3,5:22 AM,6:24,Malone REBOUND (Off:2 Def:4),,,,
+0020000829,250,1,42,3,5:22 AM,6:12,Stockton  Driving Layup (4 PTS),,,55 - 65,10
+0020000829,251,1,46,3,5:23 AM,5:53,,,Bibby 13' Running Jump Shot (12 PTS),57 - 65,8
+0020000829,252,2,1,3,5:23 AM,5:33,MISS Malone 18' Jump Shot,,,,
+0020000829,253,4,0,3,5:23 AM,5:32,,,Grizzlies Rebound,,
+0020000829,254,6,3,3,5:23 AM,5:32,Marshall L.B.FOUL (P2.T3),,,,
+0020000829,255,8,0,3,5:23 AM,5:32,SUB: Vaughn FOR Stockton,,,,
+0020000829,256,8,0,3,5:23 AM,5:32,,,SUB: Jones FOR Dickerson,,
+0020000829,257,1,1,3,5:24 AM,5:20,,,Bibby 20' Jump Shot (14 PTS) (Jones 1 AST),59 - 65,6
+0020000829,258,6,1,3,5:24 AM,5:06,,,Long P.FOUL (P3.T3),,
+0020000829,260,2,1,3,5:24 AM,4:58,MISS Starks 19' Jump Shot,,,,
+0020000829,262,4,0,3,5:24 AM,4:55,Polynice REBOUND (Off:5 Def:0),,,,
+0020000829,261,1,1,3,5:24 AM,4:55,Polynice 3' Jump Shot (13 PTS),,,59 - 67,8
+0020000829,263,5,1,3,5:25 AM,4:46,,,Bibby Bad Pass Turnover (P2.T12),,
+0020000829,264,1,1,3,5:25 AM,4:23,Malone 19' Jump Shot (18 PTS) (Vaughn 2 AST),,,59 - 69,10
+0020000829,265,1,1,3,5:25 AM,4:02,,,Bibby 20' Jump Shot (16 PTS) (Jones 2 AST),61 - 69,8
+0020000829,266,6,1,3,5:26 AM,3:51,,,Jones P.FOUL (P1.T4),,
+0020000829,267,8,0,3,5:26 AM,3:51,,,SUB: Massenburg FOR Reeves,,
+0020000829,268,1,1,3,5:26 AM,3:35,Malone 24' 3PT Jump Shot (21 PTS) (Starks 3 AST),,,61 - 72,11
+0020000829,269,5,1,3,5:27 AM,3:17,Marshall STEAL (4 STL),,Jones Bad Pass Turnover (P1.T13),,
+0020000829,270,1,1,3,5:27 AM,2:55,Polynice 11' Jump Shot (15 PTS),,,61 - 74,13
+0020000829,271,6,2,3,5:28 AM,2:33,Malone S.FOUL (P1.T4),,,,
+0020000829,272,9,1,3,5:28 AM,2:33,JAZZ Timeout: Regular (Full 3 Short 1),,,,
+0020000829,275,8,0,3,5:30 AM,2:33,SUB: Russell FOR Marshall,,,,
+0020000829,276,3,11,3,5:30 AM,2:33,,,Massenburg Free Throw 1 of 2 (7 PTS),62 - 74,12
+0020000829,277,3,12,3,5:30 AM,2:33,,,Massenburg Free Throw 2 of 2 (8 PTS),63 - 74,11
+0020000829,278,6,2,3,5:31 AM,2:18,,,Massenburg S.FOUL (P1.PN),,
+0020000829,279,3,11,3,5:31 AM,2:18,Russell Free Throw 1 of 2 (7 PTS),,,63 - 75,12
+0020000829,280,3,12,3,5:31 AM,2:18,Russell Free Throw 2 of 2 (8 PTS),,,63 - 76,13
+0020000829,281,2,1,3,5:32 AM,2:04,,,MISS Bibby 22' Jump Shot,,
+0020000829,282,4,0,3,5:32 AM,2:02,Polynice REBOUND (Off:5 Def:1),,,,
+0020000829,283,2,1,3,5:32 AM,1:42,MISS Vaughn 24' 3PT Jump Shot,,,,
+0020000829,284,4,0,3,5:32 AM,1:37,,,Long REBOUND (Off:0 Def:3),,
+0020000829,285,6,1,3,5:32 AM,1:32,Vaughn P.FOUL (P1.PN),,,,
+0020000829,286,8,0,3,5:33 AM,1:32,,,SUB: Swift FOR Long,,
+0020000829,287,8,0,3,5:33 AM,1:32,SUB: Manning FOR Malone,,,,
+0020000829,288,3,11,3,5:33 AM,1:32,,,Bibby Free Throw 1 of 2 (17 PTS),64 - 76,12
+0020000829,289,3,12,3,5:33 AM,1:32,,,MISS Bibby Free Throw 2 of 2,,
+0020000829,290,4,0,3,5:33 AM,1:31,Russell REBOUND (Off:0 Def:2),,,,
+0020000829,291,2,1,3,5:34 AM,1:07,MISS Russell 24' 3PT Jump Shot,,,,
+0020000829,292,4,0,3,5:34 AM,1:05,,,Abdur-Rahim REBOUND (Off:2 Def:3),,
+0020000829,293,1,1,3,5:34 AM,0:53,,,Abdur-Rahim 12' Jump Shot (14 PTS),66 - 76,10
+0020000829,294,1,1,3,5:35 AM,0:38,Manning 16' Jump Shot (3 PTS) (Vaughn 3 AST),,,66 - 78,12
+0020000829,295,2,1,3,5:35 AM,0:18,,,MISS Abdur-Rahim  3PT Jump Shot,,
+0020000829,296,4,0,3,5:35 AM,0:15,Russell REBOUND (Off:0 Def:3),,,,
+0020000829,298,2,1,3,5:35 AM,0:00,MISS Polynice 8' Jump Shot,,,,
+0020000829,299,4,0,3,5:35 AM,0:00,Polynice REBOUND (Off:6 Def:1),,,,
+0020000829,300,13,0,3,5:35 AM,0:00,,,,66 - 78,12
+0020000829,302,12,0,4,5:38 AM,12:00,,,,66 - 78,12
+0020000829,303,1,1,4,5:38 AM,11:44,Manning 21' Jump Shot (5 PTS) (Vaughn 4 AST),,,66 - 80,14
+0020000829,304,2,1,4,5:39 AM,11:19,,,MISS Massenburg 17' Jump Shot,,
+0020000829,305,4,0,4,5:39 AM,11:18,,,Grizzlies Rebound,,
+0020000829,306,1,1,4,5:39 AM,11:15,,,Abdul-Rauf 16' Jump Shot (6 PTS) (Jones 3 AST),68 - 80,12
+0020000829,307,1,46,4,5:39 AM,10:53,Manning 8' Running Jump Shot (7 PTS) (Vaughn 5 AST),,,68 - 82,14
+0020000829,308,6,1,4,5:40 AM,10:30,Russell P.FOUL (P4.T1),,,,
+0020000829,309,2,5,4,5:40 AM,10:17,Ostertag BLOCK (2 BLK),,MISS Swift  Layup,,
+0020000829,310,4,0,4,5:40 AM,10:15,Marshall REBOUND (Off:0 Def:6),,,,
+0020000829,311,5,1,4,5:41 AM,10:06,Vaughn Bad Pass Turnover (P3.T15),,Swift STEAL (2 STL),,
+0020000829,312,2,1,4,5:41 AM,10:01,Ostertag BLOCK (3 BLK),,MISS Jones 20' Jump Shot,,
+0020000829,313,4,0,4,5:41 AM,9:58,Marshall REBOUND (Off:0 Def:7),,,,
+0020000829,314,2,1,4,5:41 AM,9:48,MISS Vaughn 24' 3PT Jump Shot,,,,
+0020000829,315,4,0,4,5:41 AM,9:45,,,Jones REBOUND (Off:0 Def:1),,
+0020000829,316,2,1,4,5:41 AM,9:32,Ostertag BLOCK (4 BLK),,MISS Massenburg 3' Jump Shot,,
+0020000829,317,4,0,4,5:41 AM,9:30,Ostertag REBOUND (Off:1 Def:4),,,,
+0020000829,318,6,2,4,5:41 AM,9:20,,,Massenburg S.FOUL (P2.T1),,
+0020000829,319,3,11,4,5:41 AM,9:20,MISS Marshall Free Throw 1 of 2,,,,
+0020000829,320,4,1,4,5:41 AM,9:20,JAZZ Rebound,,,,
+0020000829,321,3,12,4,5:42 AM,9:20,Marshall Free Throw 2 of 2 (15 PTS),,,68 - 83,15
+0020000829,322,5,11,4,5:43 AM,8:56,,,Grizzlies Turnover: Shot Clock (T#14),,
+0020000829,323,9,4,4,5:43 AM,8:56,,,,,
+0020000829,325,2,42,4,5:45 AM,8:44,MISS Marshall 4' Driving Layup,,,,
+0020000829,327,4,0,4,5:45 AM,8:42,Ostertag REBOUND (Off:2 Def:4),,,,
+0020000829,326,1,5,4,5:45 AM,8:42,Ostertag  Layup (4 PTS),,,68 - 85,17
+0020000829,328,1,1,4,5:45 AM,8:24,,,Abdul-Rauf 19' Jump Shot (8 PTS) (Jones 4 AST),70 - 85,15
+0020000829,329,6,1,4,5:46 AM,8:06,,,Abdul-Rauf P.FOUL (P1.T2),,
+0020000829,330,8,0,4,5:46 AM,8:06,,,SUB: Abdur-Rahim FOR Jones,,
+0020000829,331,8,0,4,5:46 AM,8:06,,,SUB: Bibby FOR Swift,,
+0020000829,332,1,7,4,5:46 AM,7:53,Ostertag  Dunk (6 PTS) (Russell 1 AST),,,70 - 87,17
+0020000829,333,1,1,4,5:47 AM,7:40,,,Dickerson 22' Jump Shot (15 PTS),72 - 87,15
+0020000829,334,2,5,4,5:47 AM,7:16,MISS Russell  Layup,,,,
+0020000829,335,4,0,4,5:47 AM,7:14,,,Massenburg REBOUND (Off:1 Def:2),,
+0020000829,336,2,1,4,5:47 AM,7:04,Ostertag BLOCK (5 BLK),,MISS Abdul-Rauf 18' Jump Shot,,
+0020000829,338,4,0,4,5:47 AM,7:00,,,Abdur-Rahim REBOUND (Off:3 Def:3),,
+0020000829,337,1,5,4,5:47 AM,7:00,,,Abdur-Rahim  Layup (16 PTS),74 - 87,13
+0020000829,339,1,1,4,5:48 AM,6:37,Manning 21' Jump Shot (9 PTS) (Russell 2 AST),,,74 - 89,15
+0020000829,340,2,1,4,5:48 AM,6:27,,,MISS Dickerson 21' Jump Shot,,
+0020000829,341,4,0,4,5:48 AM,6:25,Ostertag REBOUND (Off:2 Def:5),,,,
+0020000829,342,2,1,4,5:48 AM,6:08,MISS Manning 21' Jump Shot,,,,
+0020000829,343,4,0,4,5:48 AM,6:05,,,Massenburg REBOUND (Off:1 Def:3),,
+0020000829,344,6,2,4,5:48 AM,5:53,Manning S.FOUL (P2.T2),,,,
+0020000829,345,9,1,4,5:49 AM,5:53,JAZZ Timeout: Regular (Full 4 Short 1),,,,
+0020000829,347,8,0,4,5:50 AM,5:53,SUB: Stockton FOR Vaughn,,,,
+0020000829,348,8,0,4,5:50 AM,5:53,SUB: Malone FOR Ostertag,,,,
+0020000829,349,8,0,4,5:50 AM,5:53,,,SUB: Long FOR Massenburg,,
+0020000829,350,8,0,4,5:50 AM,5:53,,,SUB: Swift FOR Abdul-Rauf,,
+0020000829,351,3,11,4,5:51 AM,5:53,,,Abdur-Rahim Free Throw 1 of 2 (17 PTS),75 - 89,14
+0020000829,352,3,12,4,5:51 AM,5:53,,,MISS Abdur-Rahim Free Throw 2 of 2,,
+0020000829,353,4,0,4,5:51 AM,5:52,Malone REBOUND (Off:2 Def:5),,,,
+0020000829,354,6,2,4,5:51 AM,5:36,,,Abdur-Rahim S.FOUL (P4.T3),,
+0020000829,355,3,11,4,5:52 AM,5:36,Marshall Free Throw 1 of 2 (16 PTS),,,75 - 90,15
+0020000829,356,3,12,4,5:52 AM,5:36,Marshall Free Throw 2 of 2 (17 PTS),,,75 - 91,16
+0020000829,357,6,1,4,5:52 AM,5:25,Marshall P.FOUL (P3.T3),,,,
+0020000829,358,8,0,4,5:53 AM,5:25,SUB: Starks FOR Manning,,,,
+0020000829,359,1,58,4,5:53 AM,5:13,,,Abdur-Rahim 4' Turnaround Hook Shot (19 PTS),77 - 91,14
+0020000829,360,6,2,4,5:53 AM,4:59,,,Abdur-Rahim S.FOUL (P5.T4),,
+0020000829,361,3,11,4,5:54 AM,4:59,MISS Russell Free Throw 1 of 2,,,,
+0020000829,362,4,1,4,5:54 AM,4:59,JAZZ Rebound,,,,
+0020000829,363,3,12,4,5:54 AM,4:59,Russell Free Throw 2 of 2 (9 PTS),,,77 - 92,15
+0020000829,364,6,1,4,5:54 AM,4:43,Malone P.FOUL (P2.T4),,,,
+0020000829,365,1,58,4,5:55 AM,4:28,,,Swift 6' Turnaround Hook Shot (2 PTS),79 - 92,13
+0020000829,366,1,1,4,5:55 AM,4:06,Stockton  3PT Jump Shot (7 PTS) (Malone 5 AST),,,79 - 95,16
+0020000829,367,1,42,4,5:56 AM,3:45,,,Dickerson  Driving Layup (17 PTS),81 - 95,14
+0020000829,368,2,5,4,5:56 AM,3:20,MISS Marshall  Layup,,,,
+0020000829,369,4,0,4,5:56 AM,3:17,Stockton REBOUND (Off:1 Def:1),,,,
+0020000829,370,5,2,4,5:56 AM,3:02,Russell Lost Ball Turnover (P1.T16),,,,
+0020000829,371,5,1,4,5:57 AM,2:54,Marshall STEAL (5 STL),,Bibby Bad Pass Turnover (P3.T15),,
+0020000829,372,1,49,4,5:57 AM,2:50,Marshall  Driving Dunk (19 PTS),,,81 - 97,16
+0020000829,373,9,1,4,5:57 AM,2:47,,,Grizzlies Timeout: Regular (Reg.4 Short 1),,
+0020000829,375,8,0,4,5:59 AM,2:47,SUB: Crotty FOR Stockton,,,,
+0020000829,376,8,0,4,5:59 AM,2:47,SUB: Padgett FOR Malone,,,,
+0020000829,377,8,0,4,5:59 AM,2:47,,,SUB: Abdul-Rauf FOR Bibby,,
+0020000829,378,8,0,4,5:59 AM,2:47,,,SUB: Jones FOR Dickerson,,
+0020000829,400,8,0,4,5:59 AM,2:47,,,SUB: Massenburg FOR Abdur-Rahim,,
+0020000829,379,2,1,4,5:59 AM,2:35,,,MISS Abdul-Rauf 18' Jump Shot,,
+0020000829,380,4,0,4,5:59 AM,2:33,Padgett REBOUND (Off:0 Def:1),,,,
+0020000829,381,2,5,4,5:59 AM,2:17,MISS Russell  Layup,,Long BLOCK (3 BLK),,
+0020000829,382,4,0,4,6:00 AM,2:15,,,Massenburg REBOUND (Off:1 Def:4),,
+0020000829,383,2,1,4,6:00 AM,2:03,,,MISS Swift 6' Jump Shot,,
+0020000829,385,4,0,4,6:00 AM,2:01,,,Massenburg REBOUND (Off:2 Def:4),,
+0020000829,384,2,40,4,6:00 AM,2:01,,,MISS Massenburg  Layup,,
+0020000829,386,4,0,4,6:00 AM,1:58,Marshall REBOUND (Off:0 Def:8),,,,
+0020000829,387,2,1,4,6:00 AM,1:50,MISS Marshall 11' Jump Shot,,,,
+0020000829,388,4,0,4,6:00 AM,1:46,,,Jones REBOUND (Off:0 Def:2),,
+0020000829,389,2,1,4,6:00 AM,1:42,,,MISS Jones 24' 3PT Jump Shot,,
+0020000829,391,4,0,4,6:00 AM,1:38,,,Swift REBOUND (Off:1 Def:0),,
+0020000829,390,2,5,4,6:00 AM,1:38,,,MISS Swift  Layup,,
+0020000829,392,4,0,4,6:00 AM,1:36,Crotty REBOUND (Off:0 Def:1),,,,
+0020000829,393,1,5,4,6:00 AM,1:23,Padgett  Layup (2 PTS) (Starks 4 AST),,,81 - 99,18
+0020000829,396,6,1,4,6:01 AM,1:11,Starks P.FOUL (P3.PN),,,,
+0020000829,397,8,0,4,6:01 AM,1:11,SUB: Stevenson FOR Starks,,,,
+0020000829,398,8,0,4,6:01 AM,1:11,SUB: Vaughn FOR Marshall,,,,
+0020000829,399,3,11,4,6:01 AM,1:11,,,Jones Free Throw 1 of 2 (1 PTS),82 - 99,17
+0020000829,401,3,12,4,6:01 AM,1:11,,,Jones Free Throw 2 of 2 (2 PTS),83 - 99,16
+0020000829,402,1,46,4,6:02 AM,1:01,Stevenson 4' Running Jump Shot (2 PTS) (Crotty 1 AST),,,83 - 101,18
+0020000829,403,2,7,4,6:02 AM,0:48,,,MISS Swift  Dunk,,
+0020000829,405,4,0,4,6:02 AM,0:45,,,Swift REBOUND (Off:2 Def:0),,
+0020000829,404,2,5,4,6:02 AM,0:45,,,MISS Swift 3' Layup,,
+0020000829,406,4,0,4,6:02 AM,0:44,JAZZ Rebound,,,,
+0020000829,407,2,42,4,6:02 AM,0:35,MISS Crotty  Driving Layup,,,,
+0020000829,408,4,0,4,6:02 AM,0:32,Padgett REBOUND (Off:1 Def:1),,,,
+0020000829,409,5,2,4,6:02 AM,0:31,Padgett Lost Ball Turnover (P1.T17),,,,
+0020000829,410,5,1,4,6:03 AM,0:23,,,Jones Bad Pass Turnover (P2.T16),,
+0020000829,412,13,0,4,6:03 AM,0:00,,,,83 - 101,18

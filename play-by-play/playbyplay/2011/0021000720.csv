@@ -1,0 +1,494 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000720,0,12,0,1,7:13 PM,12:00,,,,,
+0021000720,1,10,0,1,7:13 PM,12:00,Jump Ball Hickson vs. McRoberts: Tip to Hibbert,,,,
+0021000720,2,1,7,1,7:14 PM,11:42,,,Hibbert 1' Dunk (2 PTS) (McRoberts 1 AST),2 - 0,-2
+0021000720,3,2,46,1,7:14 PM,11:26,MISS Jamison 5' Running Jump Shot,,,,
+0021000720,4,4,0,1,7:14 PM,11:24,,,Hibbert REBOUND (Off:0 Def:1),,
+0021000720,5,1,42,1,7:14 PM,11:18,,,Collison 1' Driving Layup (2 PTS),4 - 0,-4
+0021000720,6,2,1,1,7:15 PM,10:58,MISS Jamison 22' Jump Shot,,,,
+0021000720,7,4,0,1,7:15 PM,10:57,CAVALIERS Rebound,,,,
+0021000720,9,2,1,1,7:15 PM,10:47,MISS Harris 20' Jump Shot,,,,
+0021000720,10,4,0,1,7:15 PM,10:45,,,Collison REBOUND (Off:0 Def:1),,
+0021000720,11,1,5,1,7:15 PM,10:41,,,Dunleavy 1' Layup (2 PTS) (Collison 1 AST),6 - 0,-6
+0021000720,12,2,1,1,7:15 PM,10:28,MISS Hickson 19' Jump Shot,,,,
+0021000720,13,4,0,1,7:15 PM,10:27,,,Dunleavy REBOUND (Off:0 Def:1),,
+0021000720,14,2,1,1,7:16 PM,10:16,,,MISS McRoberts 5' Jump Shot,,
+0021000720,15,4,0,1,7:16 PM,10:15,Harris REBOUND (Off:0 Def:1),,,,
+0021000720,16,2,1,1,7:16 PM,10:10,MISS Harris 5' Jump Shot,,,,
+0021000720,17,4,0,1,7:16 PM,10:09,Hickson REBOUND (Off:1 Def:0),,,,
+0021000720,18,2,5,1,7:16 PM,10:06,MISS Hickson 1' Layup,,Granger BLOCK (1 BLK),,
+0021000720,19,4,0,1,7:16 PM,10:05,Hickson REBOUND (Off:2 Def:0),,,,
+0021000720,20,2,1,1,7:16 PM,10:02,MISS Eyenga 24' 3PT Jump Shot,,,,
+0021000720,21,4,0,1,7:16 PM,10:00,,,McRoberts REBOUND (Off:0 Def:1),,
+0021000720,22,6,1,1,7:16 PM,9:57,Hickson P.FOUL (P1.T1),,,,
+0021000720,23,5,2,1,7:17 PM,9:46,Eyenga STEAL (1 STL),,Granger Lost Ball Turnover (P1.T1),,
+0021000720,24,2,42,1,7:17 PM,9:41,MISS Eyenga  Driving Layup,,,,
+0021000720,25,4,0,1,7:17 PM,9:38,,,Granger REBOUND (Off:0 Def:1),,
+0021000720,26,7,5,1,7:17 PM,9:36,Jamison Violation:Kicked Ball,,,,
+0021000720,27,1,43,1,7:17 PM,9:30,,,Granger 1' Alley Oop Layup (2 PTS) (Hibbert 1 AST),8 - 0,-8
+0021000720,28,9,1,1,7:17 PM,9:24,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,
+0021000720,32,2,1,1,7:20 PM,9:06,MISS Hickson 14' Jump Shot,,,,
+0021000720,33,4,0,1,7:20 PM,9:05,,,Dunleavy REBOUND (Off:0 Def:2),,
+0021000720,34,1,65,1,7:20 PM,8:55,,,Hibbert 7' Jump Hook Shot (4 PTS) (Collison 2 AST),10 - 0,-10
+0021000720,35,2,5,1,7:20 PM,8:41,MISS Sessions 1' Layup,,,,
+0021000720,36,4,0,1,7:20 PM,8:40,,,Hibbert REBOUND (Off:0 Def:2),,
+0021000720,37,6,2,1,7:21 PM,8:39,Harris S.FOUL (P1.T2),,,,
+0021000720,38,3,11,1,7:21 PM,8:39,,,Collison Free Throw 1 of 2 (3 PTS),11 - 0,-11
+0021000720,40,3,12,1,7:21 PM,8:39,,,Collison Free Throw 2 of 2 (4 PTS),12 - 0,-12
+0021000720,42,6,2,1,7:21 PM,8:33,,,Granger S.FOUL (P1.T1),,
+0021000720,43,3,11,1,7:22 PM,8:33,Sessions Free Throw 1 of 2 (1 PTS),,,12 - 1,-11
+0021000720,45,3,12,1,7:22 PM,8:33,Sessions Free Throw 2 of 2 (2 PTS),,,12 - 2,-10
+0021000720,47,1,65,1,7:22 PM,8:24,,,Hibbert 8' Jump Hook Shot (6 PTS) (Collison 3 AST),14 - 2,-12
+0021000720,48,1,47,1,7:22 PM,8:09,Eyenga 12' Turnaround Jump Shot (2 PTS),,,14 - 4,-10
+0021000720,49,1,7,1,7:23 PM,7:58,,,McRoberts 1' Dunk (2 PTS) (Collison 4 AST),16 - 4,-12
+0021000720,50,5,2,1,7:23 PM,7:41,Jamison Lost Ball Turnover (P1.T1),,Collison STEAL (1 STL),,
+0021000720,51,1,1,1,7:23 PM,7:37,,,Granger 17' Jump Shot (4 PTS),18 - 4,-14
+0021000720,52,6,2,1,7:23 PM,7:37,Eyenga S.FOUL (P1.T3),,,,
+0021000720,53,3,10,1,7:23 PM,7:37,,,Granger Free Throw 1 of 1 (5 PTS),19 - 4,-15
+0021000720,55,1,42,1,7:24 PM,7:25,Sessions 1' Driving Layup (4 PTS),,,19 - 6,-13
+0021000720,57,1,66,1,7:24 PM,7:09,,,Dunleavy 10' Jump Bank Shot (4 PTS) (Granger 1 AST),21 - 6,-15
+0021000720,58,2,1,1,7:25 PM,6:50,MISS Harris  3PT Jump Shot,,,,
+0021000720,59,4,0,1,7:25 PM,6:50,Eyenga REBOUND (Off:1 Def:0),,,,
+0021000720,60,6,1,1,7:25 PM,6:50,,,McRoberts P.FOUL (P1.T2),,
+0021000720,61,8,0,1,7:25 PM,6:50,SUB: Parker FOR Harris,,,,
+0021000720,62,1,1,1,7:25 PM,6:42,Jamison 25' 3PT Jump Shot (3 PTS) (Sessions 1 AST),,,21 - 9,-12
+0021000720,64,8,0,1,7:26 PM,6:25,SUB: Hollins FOR Hickson,,,,
+0021000720,65,5,2,1,7:26 PM,6:17,Sessions STEAL (1 STL),,Granger Lost Ball Turnover (P2.T2),,
+0021000720,66,1,49,1,7:26 PM,6:13,Sessions  Driving Dunk (6 PTS),,,21 - 11,-10
+0021000720,67,2,1,1,7:27 PM,5:46,Eyenga BLOCK (1 BLK),,MISS Granger 7' Jump Shot,,
+0021000720,68,4,0,1,7:27 PM,5:43,Hollins REBOUND (Off:0 Def:1),,,,
+0021000720,69,1,1,1,7:27 PM,5:38,Parker 25' 3PT Jump Shot (3 PTS) (Sessions 2 AST),,,21 - 14,-7
+0021000720,70,9,1,1,7:27 PM,5:29,,,Pacers Timeout: Regular (Reg.1 Short 0),,
+0021000720,74,2,1,1,7:30 PM,5:15,,,MISS Collison 14' Jump Shot,,
+0021000720,75,4,0,1,7:30 PM,5:13,Eyenga REBOUND (Off:1 Def:1),,,,
+0021000720,76,2,1,1,7:30 PM,5:04,MISS Jamison 15' Jump Shot,,,,
+0021000720,77,4,0,1,7:30 PM,5:03,,,Hibbert REBOUND (Off:0 Def:3),,
+0021000720,78,2,1,1,7:31 PM,4:42,,,MISS Hibbert 9' Jump Shot,,
+0021000720,79,4,0,1,7:31 PM,4:41,,,Collison REBOUND (Off:1 Def:1),,
+0021000720,81,8,0,1,7:31 PM,4:26,,,SUB: Hansbrough FOR McRoberts,,
+0021000720,82,6,2,1,7:31 PM,4:17,Hollins S.FOUL (P1.T4),,,,
+0021000720,83,3,11,1,7:32 PM,4:17,,,Granger Free Throw 1 of 2 (6 PTS),22 - 14,-8
+0021000720,85,3,12,1,7:32 PM,4:17,,,MISS Granger Free Throw 2 of 2,,
+0021000720,87,4,0,1,7:32 PM,4:16,Hollins REBOUND (Off:0 Def:2),,,,
+0021000720,88,1,1,1,7:32 PM,4:03,Parker 22' Jump Shot (5 PTS) (Sessions 3 AST),,,22 - 16,-6
+0021000720,89,1,84,1,7:32 PM,3:48,,,Collison 14' Running Bank Shot (6 PTS),24 - 16,-8
+0021000720,90,2,5,1,7:33 PM,3:37,MISS Hollins 2' Layup,,Granger BLOCK (2 BLK),,
+0021000720,91,4,0,1,7:33 PM,3:37,CAVALIERS Rebound,,,,
+0021000720,92,6,5,1,7:33 PM,3:37,,,Hansbrough IN.FOUL (P1.T3),,
+0021000720,93,3,11,1,7:33 PM,3:37,Jamison Free Throw 1 of 2 (4 PTS),,,24 - 17,-7
+0021000720,95,3,12,1,7:33 PM,3:37,Jamison Free Throw 2 of 2 (5 PTS),,,24 - 18,-6
+0021000720,98,1,1,1,7:34 PM,3:19,,,Dunleavy 25' 3PT Jump Shot (7 PTS) (Granger 2 AST),27 - 18,-9
+0021000720,99,6,2,1,7:34 PM,3:04,,,Hansbrough S.FOUL (P2.T4),,
+0021000720,100,3,11,1,7:35 PM,3:04,Hollins Free Throw 1 of 2 (1 PTS),,,27 - 19,-8
+0021000720,102,3,12,1,7:35 PM,3:04,MISS Hollins Free Throw 2 of 2,,,,
+0021000720,104,4,0,1,7:35 PM,3:04,,,Hansbrough REBOUND (Off:0 Def:1),,
+0021000720,105,5,40,1,7:35 PM,2:53,,,Hansbrough Out of Bounds Lost Ball Turnover (P1.T3),,
+0021000720,106,7,5,1,7:35 PM,2:36,,,Dunleavy Violation:Kicked Ball,,
+0021000720,107,8,0,1,7:36 PM,2:36,,,SUB: Foster FOR Hibbert,,
+0021000720,108,2,1,1,7:36 PM,2:26,MISS Eyenga 25' 3PT Jump Shot,,,,
+0021000720,109,4,0,1,7:36 PM,2:25,,,Foster REBOUND (Off:0 Def:1),,
+0021000720,111,8,0,1,7:36 PM,2:18,,,SUB: George FOR Dunleavy,,
+0021000720,112,6,4,1,7:37 PM,2:11,,,Granger OFF.Foul (P2),,
+0021000720,113,5,5,1,7:37 PM,2:11,,,Granger Foul Turnover (P3.T4),,
+0021000720,114,8,0,1,7:37 PM,2:11,,,SUB: Jones FOR Granger,,
+0021000720,115,1,78,1,7:37 PM,1:55,Sessions 9' Floating Jump Shot (8 PTS),,,27 - 21,-6
+0021000720,116,6,1,1,7:37 PM,1:46,Hollins P.FOUL (P2.PN),,,,
+0021000720,117,8,0,1,7:38 PM,1:46,SUB: Gee FOR Eyenga,,,,
+0021000720,118,8,0,1,7:38 PM,1:46,SUB: Samuels FOR Hollins,,,,
+0021000720,119,3,11,1,7:38 PM,1:46,,,Jones Free Throw 1 of 2 (1 PTS),28 - 21,-7
+0021000720,121,3,12,1,7:38 PM,1:46,,,MISS Jones Free Throw 2 of 2,,
+0021000720,123,4,0,1,7:38 PM,1:45,,,Foster REBOUND (Off:1 Def:1),,
+0021000720,124,2,5,1,7:38 PM,1:44,,,MISS Foster 2' Layup,,
+0021000720,125,4,0,1,7:38 PM,1:40,,,Hansbrough REBOUND (Off:1 Def:1),,
+0021000720,126,5,2,1,7:38 PM,1:38,Jamison STEAL (1 STL),,Hansbrough Lost Ball Turnover (P2.T5),,
+0021000720,127,1,8,1,7:38 PM,1:31,Samuels 1' Slam Dunk (2 PTS) (Gee 1 AST),,,28 - 23,-5
+0021000720,128,6,1,1,7:39 PM,1:14,Parker P.FOUL (P1.PN),,,,
+0021000720,129,8,0,1,7:39 PM,1:14,SUB: Graham FOR Jamison,,,,
+0021000720,130,3,11,1,7:39 PM,1:14,,,George Free Throw 1 of 2 (1 PTS),29 - 23,-6
+0021000720,132,3,12,1,7:39 PM,1:14,,,George Free Throw 2 of 2 (2 PTS),30 - 23,-7
+0021000720,134,2,1,1,7:40 PM,0:59,MISS Sessions 19' Jump Shot,,,,
+0021000720,135,4,0,1,7:40 PM,0:58,,,Hansbrough REBOUND (Off:1 Def:2),,
+0021000720,137,1,1,1,7:40 PM,0:48,,,Collison 4' Jump Shot (8 PTS),32 - 23,-9
+0021000720,138,1,46,1,7:40 PM,0:35,Sessions 5' Running Jump Shot (10 PTS) (Parker 1 AST),,,32 - 25,-7
+0021000720,139,2,1,1,7:41 PM,0:29,,,MISS Jones 9' Jump Shot,,
+0021000720,140,4,0,1,7:41 PM,0:28,Samuels REBOUND (Off:0 Def:1),,,,
+0021000720,141,5,11,1,7:41 PM,0:04,CAVALIERS Turnover: Shot Clock (T#2),,,,
+0021000720,142,1,1,1,7:41 PM,0:00,,,Collison 26' 3PT Jump Shot (11 PTS),35 - 25,-10
+0021000720,145,18,0,1,7:41 PM,0:00,,,,,
+0021000720,143,13,0,1,7:42 PM,0:00,,,,35 - 25,-10
+0021000720,146,12,0,2,7:44 PM,12:00,,,,35 - 25,-10
+0021000720,147,6,1,2,7:45 PM,11:40,,,George P.FOUL (P1.T1),,
+0021000720,148,2,1,2,7:45 PM,11:30,MISS Graham 17' Jump Shot,,,,
+0021000720,149,4,0,2,7:45 PM,11:28,,,George REBOUND (Off:0 Def:1),,
+0021000720,150,5,21,2,7:46 PM,11:11,,,Jones Palming Turnover (P1.T6),,
+0021000720,151,2,1,2,7:46 PM,10:57,MISS Parker 19' Jump Shot,,,,
+0021000720,152,4,0,2,7:46 PM,10:56,,,Foster REBOUND (Off:1 Def:2),,
+0021000720,153,5,1,2,7:46 PM,10:49,Gee STEAL (1 STL),,Price Bad Pass Turnover (P1.T7),,
+0021000720,154,6,2,2,7:46 PM,10:46,,,Price S.FOUL (P1.T2),,
+0021000720,155,3,11,2,7:47 PM,10:46,Harris Free Throw 1 of 2 (1 PTS),,,35 - 26,-9
+0021000720,157,3,12,2,7:47 PM,10:46,Harris Free Throw 2 of 2 (2 PTS),,,35 - 27,-8
+0021000720,159,2,1,2,7:47 PM,10:30,,,MISS Hansbrough 16' Jump Shot,,
+0021000720,160,4,0,2,7:47 PM,10:29,,,Hansbrough REBOUND (Off:2 Def:2),,
+0021000720,161,1,1,2,7:47 PM,10:24,,,George 25' 3PT Jump Shot (5 PTS) (Hansbrough 1 AST),38 - 27,-11
+0021000720,162,1,75,2,7:48 PM,10:05,Parker 2' Driving Finger Roll Layup (7 PTS),,,38 - 29,-9
+0021000720,163,6,2,2,7:48 PM,10:05,,,Foster S.FOUL (P1.T3),,
+0021000720,164,3,10,2,7:48 PM,10:05,Parker Free Throw 1 of 1 (8 PTS),,,38 - 30,-8
+0021000720,166,2,5,2,7:48 PM,9:52,,,MISS George 3' Layup,,
+0021000720,167,4,0,2,7:48 PM,9:50,Graham REBOUND (Off:0 Def:1),,,,
+0021000720,168,6,2,2,7:49 PM,9:40,,,Foster S.FOUL (P2.T4),,
+0021000720,169,3,11,2,7:49 PM,9:40,MISS Samuels Free Throw 1 of 2,,,,
+0021000720,170,4,1,2,7:49 PM,9:40,CAVALIERS Rebound,,,,
+0021000720,171,3,12,2,7:49 PM,9:40,Samuels Free Throw 2 of 2 (3 PTS),,,38 - 31,-7
+0021000720,173,5,1,2,7:50 PM,9:21,Parker STEAL (1 STL),,Hansbrough Bad Pass Turnover (P3.T8),,
+0021000720,175,1,49,2,7:50 PM,9:08,Gee 1' Driving Dunk (2 PTS) (Parker 2 AST),,,38 - 33,-5
+0021000720,176,6,13,2,7:50 PM,9:08,Gee HANGING.TECH.FOUL (P0.T0),,,,
+0021000720,177,3,16,2,7:50 PM,9:08,,,MISS Price Free Throw Technical,,
+0021000720,178,4,1,2,7:50 PM,9:08,,,Pacers Rebound,,
+0021000720,179,1,1,2,7:51 PM,8:55,,,George 25' 3PT Jump Shot (8 PTS) (Price 1 AST),41 - 33,-8
+0021000720,180,2,5,2,7:51 PM,8:39,MISS Samuels 2' Layup,,,,
+0021000720,181,4,0,2,7:51 PM,8:38,,,Hansbrough REBOUND (Off:2 Def:3),,
+0021000720,183,1,80,2,7:52 PM,8:19,,,Price 13' Step Back Jump Shot (2 PTS),43 - 33,-10
+0021000720,184,9,1,2,7:52 PM,8:13,CAVALIERS Timeout: Regular (Full 2 Short 0),,,,
+0021000720,186,8,0,2,7:54 PM,8:13,SUB: Hickson FOR Samuels,,,,
+0021000720,188,1,1,2,7:55 PM,8:04,Parker 18' Jump Shot (10 PTS) (Graham 1 AST),,,43 - 35,-8
+0021000720,189,1,66,2,7:55 PM,7:39,,,Hansbrough 10' Jump Bank Shot (2 PTS) (Price 2 AST),45 - 35,-10
+0021000720,190,6,2,2,7:55 PM,7:39,Graham S.FOUL (P1.T1),,,,
+0021000720,191,3,10,2,7:56 PM,7:39,,,Hansbrough Free Throw 1 of 1 (3 PTS),46 - 35,-11
+0021000720,193,5,1,2,7:56 PM,7:31,Harris Bad Pass Turnover (P1.T3),,George STEAL (1 STL),,
+0021000720,194,1,42,2,7:56 PM,7:28,,,George 1' Driving Layup (10 PTS),48 - 35,-13
+0021000720,195,2,1,2,7:56 PM,7:06,MISS Harris 22' Jump Shot,,,,
+0021000720,196,4,0,2,7:56 PM,7:05,,,Price REBOUND (Off:0 Def:1),,
+0021000720,197,2,1,2,7:56 PM,6:54,,,MISS Price 25' 3PT Jump Shot,,
+0021000720,198,4,0,2,7:57 PM,6:52,,,Price REBOUND (Off:1 Def:1),,
+0021000720,199,2,65,2,7:57 PM,6:48,,,MISS Hansbrough 7' Jump Hook Shot,,
+0021000720,200,4,0,2,7:57 PM,6:46,,,Hansbrough REBOUND (Off:3 Def:3),,
+0021000720,201,6,2,2,7:57 PM,6:46,Gee S.FOUL (P1.T2),,,,
+0021000720,202,8,0,2,7:57 PM,6:46,,,SUB: Granger FOR Jones,,
+0021000720,203,8,0,2,7:57 PM,6:46,SUB: Sessions FOR Parker,,,,
+0021000720,204,3,11,2,7:57 PM,6:46,,,Hansbrough Free Throw 1 of 2 (4 PTS),49 - 35,-14
+0021000720,206,8,0,2,7:57 PM,6:46,SUB: Eyenga FOR Gee,,,,
+0021000720,208,8,0,2,7:57 PM,6:46,SUB: Jamison FOR Graham,,,,
+0021000720,209,3,12,2,7:58 PM,6:46,,,MISS Hansbrough Free Throw 2 of 2,,
+0021000720,211,4,0,2,7:58 PM,6:46,,,Foster REBOUND (Off:2 Def:2),,
+0021000720,212,2,1,2,7:58 PM,6:40,,,MISS George 25' 3PT Jump Shot,,
+0021000720,213,4,0,2,7:58 PM,6:39,Harris REBOUND (Off:0 Def:2),,,,
+0021000720,214,2,1,2,7:58 PM,6:34,MISS Harris 6' Jump Shot,,,,
+0021000720,215,4,0,2,7:58 PM,6:33,,,Foster REBOUND (Off:2 Def:3),,
+0021000720,216,2,1,2,7:58 PM,6:25,,,MISS Hansbrough 19' Jump Shot,,
+0021000720,217,4,0,2,7:58 PM,6:24,Harris REBOUND (Off:0 Def:3),,,,
+0021000720,218,6,17,2,7:59 PM,6:05,,,Pacers T.Foul (Def. 3 Sec George ),,
+0021000720,219,3,16,2,7:59 PM,6:05,Sessions Free Throw Technical (11 PTS),,,49 - 36,-13
+0021000720,221,8,0,2,7:59 PM,6:05,,,SUB: McRoberts FOR Hansbrough,,
+0021000720,222,2,80,2,7:59 PM,5:58,MISS Hickson 12' Step Back Jump Shot,,,,
+0021000720,225,4,0,2,7:59 PM,5:56,,,Pacers Rebound,,
+0021000720,226,6,3,2,8:00 PM,5:56,Eyenga L.B.FOUL (P2.T3),,,,
+0021000720,227,9,4,2,8:00 PM,5:56,,,,,
+0021000720,231,1,66,2,8:02 PM,5:40,,,Foster 8' Jump Bank Shot (2 PTS) (George 1 AST),51 - 36,-15
+0021000720,232,5,4,2,8:03 PM,5:19,Eyenga Traveling Turnover (P1.T4),,,,
+0021000720,233,8,0,2,8:03 PM,5:19,,,SUB: Hibbert FOR Foster,,
+0021000720,234,6,2,2,8:03 PM,5:04,Hickson S.FOUL (P2.T4),,,,
+0021000720,235,3,11,2,8:03 PM,5:04,,,McRoberts Free Throw 1 of 2 (3 PTS),52 - 36,-16
+0021000720,237,3,12,2,8:04 PM,5:04,,,McRoberts Free Throw 2 of 2 (4 PTS),53 - 36,-17
+0021000720,239,2,5,2,8:04 PM,4:42,MISS Eyenga 2' Layup,,Hibbert BLOCK (1 BLK),,
+0021000720,240,4,0,2,8:04 PM,4:41,,,Granger REBOUND (Off:0 Def:2),,
+0021000720,243,2,44,2,8:04 PM,4:35,,,MISS Hibbert 2' Reverse Layup,,
+0021000720,241,4,0,2,8:04 PM,4:33,Jamison REBOUND (Off:0 Def:1),,,,
+0021000720,242,6,2,2,8:05 PM,4:29,,,Price S.FOUL (P2.PN),,
+0021000720,244,3,11,2,8:05 PM,4:29,Sessions Free Throw 1 of 2 (12 PTS),,,53 - 37,-16
+0021000720,246,8,0,2,8:05 PM,4:29,,,SUB: Collison FOR Price,,
+0021000720,247,3,12,2,8:05 PM,4:29,Sessions Free Throw 2 of 2 (13 PTS),,,53 - 38,-15
+0021000720,250,2,1,2,8:06 PM,4:18,,,MISS Granger 25' 3PT Jump Shot,,
+0021000720,251,4,0,2,8:06 PM,4:17,Harris REBOUND (Off:0 Def:4),,,,
+0021000720,252,2,78,2,8:06 PM,4:10,MISS Jamison 8' Floating Jump Shot,,,,
+0021000720,253,4,0,2,8:06 PM,4:09,CAVALIERS Rebound,,,,
+0021000720,254,6,3,2,8:06 PM,4:09,,,McRoberts L.B.FOUL (P2.PN),,
+0021000720,255,3,11,2,8:06 PM,4:09,Jamison Free Throw 1 of 2 (6 PTS),,,53 - 39,-14
+0021000720,257,3,12,2,8:06 PM,4:09,MISS Jamison Free Throw 2 of 2,,,,
+0021000720,259,4,0,2,8:07 PM,4:09,,,Pacers Rebound,,
+0021000720,260,2,3,2,8:07 PM,3:51,,,MISS Hibbert 6' Hook Shot,,
+0021000720,261,4,0,2,8:07 PM,3:49,Jamison REBOUND (Off:0 Def:2),,,,
+0021000720,262,6,2,2,8:07 PM,3:46,,,Hibbert S.FOUL (P1.PN),,
+0021000720,263,3,11,2,8:07 PM,3:46,MISS Hickson Free Throw 1 of 2,,,,
+0021000720,264,4,1,2,8:07 PM,3:46,CAVALIERS Rebound,,,,
+0021000720,265,3,12,2,8:08 PM,3:46,Hickson Free Throw 2 of 2 (1 PTS),,,53 - 40,-13
+0021000720,267,9,1,2,8:08 PM,3:42,,,Pacers Timeout: Regular (Reg.2 Short 0),,
+0021000720,270,8,0,2,8:10 PM,3:42,,,SUB: Dunleavy FOR George,,
+0021000720,271,5,1,2,8:11 PM,3:37,,,Dunleavy Bad Pass Turnover (P1.T9),,
+0021000720,272,1,1,2,8:11 PM,3:23,Hickson 21' Jump Shot (3 PTS) (Eyenga 1 AST),,,53 - 42,-11
+0021000720,273,2,1,2,8:12 PM,3:04,Jamison BLOCK (1 BLK),,MISS McRoberts 9' Jump Shot,,
+0021000720,274,4,0,2,8:12 PM,3:01,Sessions REBOUND (Off:0 Def:1),,,,
+0021000720,275,6,1,2,8:12 PM,3:01,,,Granger P.FOUL (P3.PN),,
+0021000720,276,3,11,2,8:12 PM,3:01,Sessions Free Throw 1 of 2 (14 PTS),,,53 - 43,-10
+0021000720,278,8,0,2,8:12 PM,3:01,,,SUB: George FOR Granger,,
+0021000720,279,3,12,2,8:12 PM,3:01,Sessions Free Throw 2 of 2 (15 PTS),,,53 - 44,-9
+0021000720,281,2,1,2,8:13 PM,2:49,,,MISS McRoberts 7' Jump Shot,,
+0021000720,282,4,0,2,8:13 PM,2:48,,,Hibbert REBOUND (Off:1 Def:3),,
+0021000720,284,1,42,2,8:13 PM,2:41,,,Collison 3' Driving Layup (13 PTS),55 - 44,-11
+0021000720,285,6,29,2,8:13 PM,2:23,,,George Shooting Block Foul (P2.PN),,
+0021000720,286,3,11,2,8:14 PM,2:23,Harris Free Throw 1 of 2 (3 PTS),,,55 - 45,-10
+0021000720,288,3,12,2,8:14 PM,2:23,Harris Free Throw 2 of 2 (4 PTS),,,55 - 46,-9
+0021000720,290,2,1,2,8:14 PM,2:11,,,MISS Dunleavy 10' Jump Shot,,
+0021000720,291,4,0,2,8:14 PM,2:10,,,McRoberts REBOUND (Off:1 Def:1),,
+0021000720,292,1,65,2,8:15 PM,1:54,,,Hibbert 7' Jump Hook Shot (8 PTS) (Collison 5 AST),57 - 46,-11
+0021000720,293,5,2,2,8:15 PM,1:44,Sessions Lost Ball Turnover (P1.T5),,Collison STEAL (2 STL),,
+0021000720,294,2,5,2,8:15 PM,1:27,,,MISS Collison 3' Layup,,
+0021000720,296,4,0,2,8:15 PM,1:26,,,McRoberts REBOUND (Off:2 Def:1),,
+0021000720,295,2,4,2,8:15 PM,1:26,,,MISS McRoberts 1' Tip Shot,,
+0021000720,297,4,0,2,8:15 PM,1:26,CAVALIERS Rebound,,,,
+0021000720,298,2,5,2,8:16 PM,1:08,MISS Eyenga 2' Layup,,,,
+0021000720,299,4,0,2,8:16 PM,1:07,,,McRoberts REBOUND (Off:2 Def:2),,
+0021000720,300,2,5,2,8:16 PM,1:00,,,MISS McRoberts 1' Layup,,
+0021000720,301,4,0,2,8:16 PM,0:59,Harris REBOUND (Off:0 Def:5),,,,
+0021000720,302,1,42,2,8:16 PM,0:55,Harris  Driving Layup (6 PTS),,,57 - 48,-9
+0021000720,303,6,2,2,8:16 PM,0:55,,,Hibbert S.FOUL (P2.PN),,
+0021000720,304,3,10,2,8:16 PM,0:55,Harris Free Throw 1 of 1 (7 PTS),,,57 - 49,-8
+0021000720,307,9,2,2,8:17 PM,0:53,,,Pacers Timeout: Short (Reg.2 Short 1),,
+0021000720,310,8,0,2,8:17 PM,0:53,,,SUB: Jones FOR George,,
+0021000720,311,1,1,2,8:18 PM,0:44,,,Dunleavy 21' Jump Shot (9 PTS) (Collison 6 AST),59 - 49,-10
+0021000720,312,1,7,2,8:18 PM,0:33,Hickson 1' Dunk (5 PTS) (Sessions 4 AST),,,59 - 51,-8
+0021000720,313,2,1,2,8:18 PM,0:24,,,MISS Jones  3PT Jump Shot,,
+0021000720,314,4,0,2,8:18 PM,0:24,CAVALIERS Rebound,,,,
+0021000720,316,1,1,2,8:19 PM,0:03,Harris 25' 3PT Jump Shot (10 PTS) (Sessions 5 AST),,,59 - 54,-5
+0021000720,317,2,46,2,8:19 PM,0:00,,,MISS Collison 17' Running Jump Shot,,
+0021000720,318,4,0,2,8:19 PM,0:00,,,Pacers Rebound,,
+0021000720,319,13,0,2,8:19 PM,0:00,,,,59 - 54,-5
+0021000720,321,12,0,3,8:35 PM,12:00,,,,59 - 54,-5
+0021000720,322,6,2,3,8:35 PM,11:46,,,McRoberts S.FOUL (P3.T1),,
+0021000720,323,3,11,3,8:35 PM,11:46,Jamison Free Throw 1 of 2 (7 PTS),,,59 - 55,-4
+0021000720,325,3,12,3,8:36 PM,11:46,Jamison Free Throw 2 of 2 (8 PTS),,,59 - 56,-3
+0021000720,327,1,42,3,8:36 PM,11:29,,,Granger 1' Driving Layup (8 PTS) (Collison 7 AST),61 - 56,-5
+0021000720,328,2,5,3,8:36 PM,11:18,MISS Hickson 2' Layup,,Granger BLOCK (3 BLK),,
+0021000720,329,4,0,3,8:36 PM,11:18,CAVALIERS Rebound,,,,
+0021000720,330,1,1,3,8:37 PM,11:05,Jamison 24' 3PT Jump Shot (11 PTS) (Sessions 6 AST),,,61 - 59,-2
+0021000720,331,2,46,3,8:37 PM,10:52,,,MISS Granger 10' Running Jump Shot,,
+0021000720,332,4,0,3,8:37 PM,10:51,,,McRoberts REBOUND (Off:3 Def:2),,
+0021000720,333,1,72,3,8:37 PM,10:49,,,McRoberts 1' Putback Layup (6 PTS),63 - 59,-4
+0021000720,334,6,2,3,8:37 PM,10:39,,,Dunleavy S.FOUL (P1.T2),,
+0021000720,335,3,11,3,8:38 PM,10:39,Hickson Free Throw 1 of 2 (6 PTS),,,63 - 60,-3
+0021000720,337,3,12,3,8:38 PM,10:39,Hickson Free Throw 2 of 2 (7 PTS),,,63 - 61,-2
+0021000720,339,5,1,3,8:38 PM,10:26,,,Collison Bad Pass Turnover (P1.T10),,
+0021000720,340,5,1,3,8:39 PM,10:18,Sessions Bad Pass Turnover (P2.T6),,Dunleavy STEAL (1 STL),,
+0021000720,341,1,5,3,8:39 PM,10:13,,,Hibbert 1' Layup (10 PTS) (Dunleavy 1 AST),65 - 61,-4
+0021000720,342,6,2,3,8:39 PM,10:13,Jamison S.FOUL (P1.T1),,,,
+0021000720,343,3,10,3,8:39 PM,10:13,,,Hibbert Free Throw 1 of 1 (11 PTS),66 - 61,-5
+0021000720,345,5,39,3,8:40 PM,9:52,Eyenga Step Out of Bounds Turnover (P2.T7),,,,
+0021000720,348,2,40,3,8:40 PM,9:42,,,MISS Hibbert 2' Layup,,
+0021000720,346,4,0,3,8:40 PM,9:40,Harris REBOUND (Off:0 Def:6),,,,
+0021000720,347,1,1,3,8:40 PM,9:35,Harris 25' 3PT Jump Shot (13 PTS),,,66 - 64,-2
+0021000720,349,1,80,3,8:41 PM,9:12,,,Collison 8' Step Back Jump Shot (15 PTS),68 - 64,-4
+0021000720,352,6,2,3,8:41 PM,8:51,,,McRoberts S.FOUL (P4.T3),,
+0021000720,353,3,11,3,8:42 PM,8:51,MISS Jamison Free Throw 1 of 2,,,,
+0021000720,354,4,1,3,8:42 PM,8:51,CAVALIERS Rebound,,,,
+0021000720,355,8,0,3,8:42 PM,8:51,,,SUB: Hansbrough FOR McRoberts,,
+0021000720,356,3,12,3,8:42 PM,8:51,MISS Jamison Free Throw 2 of 2,,,,
+0021000720,358,4,0,3,8:42 PM,8:51,,,Dunleavy REBOUND (Off:0 Def:3),,
+0021000720,359,2,65,3,8:42 PM,8:34,,,MISS Hibbert 8' Jump Hook Shot,,
+0021000720,360,4,0,3,8:42 PM,8:31,Jamison REBOUND (Off:0 Def:3),,,,
+0021000720,361,6,2,3,8:43 PM,8:24,,,Hibbert S.FOUL (P3.T4),,
+0021000720,362,3,11,3,8:43 PM,8:24,MISS Eyenga Free Throw 1 of 2,,,,
+0021000720,363,4,1,3,8:43 PM,8:24,CAVALIERS Rebound,,,,
+0021000720,364,3,12,3,8:43 PM,8:24,Eyenga Free Throw 2 of 2 (3 PTS),,,68 - 65,-3
+0021000720,366,2,1,3,8:44 PM,8:14,,,MISS Hansbrough 17' Jump Shot,,
+0021000720,367,4,0,3,8:44 PM,8:12,,,Hansbrough REBOUND (Off:4 Def:3),,
+0021000720,368,2,1,3,8:44 PM,8:09,Jamison BLOCK (2 BLK),,MISS Hibbert 5' Jump Shot,,
+0021000720,369,10,0,3,8:44 PM,8:09,Jump Ball Jamison vs. Hibbert: Tip to Granger,,,,
+0021000720,370,4,0,3,8:44 PM,8:09,,,Pacers Rebound,,
+0021000720,371,5,1,3,8:44 PM,7:54,Eyenga STEAL (2 STL),,Collison Bad Pass Turnover (P2.T11),,
+0021000720,372,1,5,3,8:44 PM,7:48,Eyenga 1' Layup (5 PTS),,,68 - 67,-1
+0021000720,373,9,1,3,8:45 PM,7:42,,,Pacers Timeout: Regular (Reg.3 Short 1),,
+0021000720,377,2,1,3,8:48 PM,7:27,,,MISS Dunleavy 26' 3PT Jump Shot,,
+0021000720,378,4,0,3,8:48 PM,7:27,,,Hibbert REBOUND (Off:2 Def:3),,
+0021000720,379,6,2,3,8:48 PM,7:27,Hickson S.FOUL (P3.T2),,,,
+0021000720,380,3,11,3,8:48 PM,7:27,,,Hibbert Free Throw 1 of 2 (12 PTS),69 - 67,-2
+0021000720,382,3,12,3,8:48 PM,7:27,,,Hibbert Free Throw 2 of 2 (13 PTS),70 - 67,-3
+0021000720,384,5,2,3,8:49 PM,7:14,Sessions Lost Ball Turnover (P3.T8),,Collison STEAL (3 STL),,
+0021000720,385,2,65,3,8:49 PM,7:05,,,MISS Hibbert 10' Jump Hook Shot,,
+0021000720,386,4,0,3,8:49 PM,7:05,,,Pacers Rebound,,
+0021000720,387,6,3,3,8:49 PM,7:05,Harris L.B.FOUL (P2.T3),,,,
+0021000720,388,1,1,3,8:49 PM,6:57,,,Hansbrough 16' Jump Shot (6 PTS) (Collison 8 AST),72 - 67,-5
+0021000720,389,6,1,3,8:50 PM,6:44,,,Hansbrough P.FOUL (P3.PN),,
+0021000720,390,3,11,3,8:50 PM,6:44,Sessions Free Throw 1 of 2 (16 PTS),,,72 - 68,-4
+0021000720,392,3,12,3,8:50 PM,6:44,Sessions Free Throw 2 of 2 (17 PTS),,,72 - 69,-3
+0021000720,394,2,47,3,8:51 PM,6:28,,,MISS Hansbrough 16' Turnaround Jump Shot,,
+0021000720,395,4,0,3,8:51 PM,6:25,,,Hibbert REBOUND (Off:3 Def:3),,
+0021000720,397,7,2,3,8:51 PM,6:24,Eyenga Violation:Defensive Goaltending,,,,
+0021000720,396,1,5,3,8:51 PM,6:24,,,Hansbrough 1' Layup (8 PTS) (Hibbert 2 AST),74 - 69,-5
+0021000720,399,2,46,3,8:53 PM,6:06,MISS Jamison 8' Running Jump Shot,,,,
+0021000720,400,4,0,3,8:53 PM,6:03,,,Hansbrough REBOUND (Off:4 Def:4),,
+0021000720,401,6,2,3,8:53 PM,6:00,Sessions S.FOUL (P1.T4),,,,
+0021000720,402,3,11,3,8:53 PM,6:00,,,Granger Free Throw 1 of 2 (9 PTS),75 - 69,-6
+0021000720,404,8,0,3,8:54 PM,6:00,SUB: Parker FOR Harris,,,,
+0021000720,405,3,12,3,8:54 PM,6:00,,,Granger Free Throw 2 of 2 (10 PTS),76 - 69,-7
+0021000720,407,1,1,3,8:54 PM,5:44,Jamison 24' 3PT Jump Shot (14 PTS) (Eyenga 2 AST),,,76 - 72,-4
+0021000720,408,2,1,3,8:54 PM,5:34,Eyenga BLOCK (2 BLK),,MISS Granger 5' Jump Shot,,
+0021000720,409,4,0,3,8:54 PM,5:32,Jamison REBOUND (Off:0 Def:4),,,,
+0021000720,410,1,7,3,8:54 PM,5:27,Hickson  Dunk (9 PTS) (Sessions 7 AST),,,76 - 74,-2
+0021000720,412,2,5,3,8:55 PM,5:08,Jamison BLOCK (3 BLK),,MISS Hansbrough 2' Layup,,
+0021000720,413,4,0,3,8:55 PM,5:07,Hickson REBOUND (Off:2 Def:1),,,,
+0021000720,414,2,5,3,8:55 PM,5:00,MISS Hickson 1' Layup,,,,
+0021000720,415,4,0,3,8:55 PM,4:59,,,Hibbert REBOUND (Off:3 Def:4),,
+0021000720,416,2,1,3,8:55 PM,4:43,,,MISS Collison 25' 3PT Jump Shot,,
+0021000720,417,4,0,3,8:55 PM,4:41,Parker REBOUND (Off:0 Def:1),,,,
+0021000720,418,6,2,3,8:56 PM,4:30,,,Dunleavy S.FOUL (P2.PN),,
+0021000720,419,8,0,3,8:56 PM,4:30,,,SUB: George FOR Dunleavy,,
+0021000720,420,3,11,3,8:56 PM,4:30,Hickson Free Throw 1 of 2 (10 PTS),,,76 - 75,-1
+0021000720,423,8,0,3,8:56 PM,4:30,,,SUB: Foster FOR Hibbert,,
+0021000720,424,3,12,3,8:56 PM,4:30,MISS Hickson Free Throw 2 of 2,,,,
+0021000720,426,4,0,3,8:56 PM,4:30,,,Foster REBOUND (Off:2 Def:4),,
+0021000720,428,1,7,3,8:57 PM,4:16,,,Hansbrough 1' Dunk (10 PTS) (Granger 3 AST),78 - 75,-3
+0021000720,429,1,1,3,8:57 PM,4:05,Eyenga 24' 3PT Jump Shot (8 PTS) (Sessions 8 AST),,,78 - 78,TIE
+0021000720,430,5,1,3,8:57 PM,3:53,Parker STEAL (2 STL),,Collison Bad Pass Turnover (P3.T12),,
+0021000720,431,2,1,3,8:57 PM,3:45,MISS Jamison  3PT Jump Shot,,,,
+0021000720,432,4,0,3,8:57 PM,3:44,,,George REBOUND (Off:0 Def:2),,
+0021000720,433,2,5,3,8:57 PM,3:39,,,MISS Collison 1' Layup,,
+0021000720,434,4,0,3,8:57 PM,3:36,Jamison REBOUND (Off:0 Def:5),,,,
+0021000720,435,2,80,3,8:57 PM,3:25,MISS Hickson 11' Step Back Jump Shot,,,,
+0021000720,436,4,0,3,8:58 PM,3:22,Parker REBOUND (Off:1 Def:1),,,,
+0021000720,437,2,1,3,8:58 PM,3:15,MISS Sessions 15' Jump Shot,,,,
+0021000720,438,4,0,3,8:58 PM,3:14,,,Granger REBOUND (Off:0 Def:3),,
+0021000720,439,6,2,3,8:58 PM,3:08,Eyenga S.FOUL (P3.PN),,,,
+0021000720,440,8,0,3,8:58 PM,3:08,SUB: Hollins FOR Hickson,,,,
+0021000720,441,3,11,3,8:58 PM,3:08,,,Granger Free Throw 1 of 2 (11 PTS),79 - 78,-1
+0021000720,443,3,12,3,8:58 PM,3:08,,,Granger Free Throw 2 of 2 (12 PTS),80 - 78,-2
+0021000720,445,5,1,3,8:59 PM,2:52,Parker Bad Pass Turnover (P1.T9),,Collison STEAL (4 STL),,
+0021000720,446,2,1,3,8:59 PM,2:49,Sessions BLOCK (1 BLK),,MISS Collison 3' Jump Shot,,
+0021000720,447,4,0,3,8:59 PM,2:49,,,Pacers Rebound,,
+0021000720,448,9,1,3,8:59 PM,2:49,CAVALIERS Timeout: Regular (Full 3 Short 0),,,,
+0021000720,453,10,0,3,9:03 PM,2:49,Jump Ball Sessions vs. Collison: Tip to Hansbrough,,,,
+0021000720,454,1,1,3,9:03 PM,2:21,,,Collison 20' Jump Shot (17 PTS),82 - 78,-4
+0021000720,455,1,78,3,9:03 PM,1:59,Parker 7' Floating Jump Shot (12 PTS) (Eyenga 3 AST),,,82 - 80,-2
+0021000720,456,2,1,3,9:04 PM,1:44,,,MISS Collison 26' 3PT Jump Shot,,
+0021000720,457,4,0,3,9:04 PM,1:43,Eyenga REBOUND (Off:1 Def:2),,,,
+0021000720,458,1,65,3,9:04 PM,1:33,Hollins 5' Jump Hook Shot (3 PTS) (Parker 3 AST),,,82 - 82,TIE
+0021000720,459,2,1,3,9:04 PM,1:25,,,MISS Granger 24' 3PT Jump Shot,,
+0021000720,460,4,0,3,9:04 PM,1:25,,,Foster REBOUND (Off:3 Def:4),,
+0021000720,462,1,5,3,9:04 PM,1:25,,,Foster 1' Layup (4 PTS),84 - 82,-2
+0021000720,463,6,2,3,9:04 PM,1:25,Hollins S.FOUL (P3.PN),,,,
+0021000720,467,8,0,3,9:04 PM,1:25,,,SUB: Price FOR Collison,,
+0021000720,464,3,10,3,9:05 PM,1:25,,,MISS Foster Free Throw 1 of 1,,
+0021000720,466,4,0,3,9:05 PM,1:24,Hollins REBOUND (Off:0 Def:3),,,,
+0021000720,468,1,5,3,9:05 PM,1:15,Sessions 1' Layup (19 PTS) (Parker 4 AST),,,84 - 84,TIE
+0021000720,469,6,2,3,9:05 PM,1:15,,,Price S.FOUL (P3.PN),,
+0021000720,470,3,10,3,9:05 PM,1:15,Sessions Free Throw 1 of 1 (20 PTS),,,84 - 85,1
+0021000720,473,1,1,3,9:05 PM,1:04,,,Hansbrough 18' Jump Shot (12 PTS) (Price 3 AST),86 - 85,-1
+0021000720,475,2,1,3,9:06 PM,0:45,MISS Jamison  3PT Jump Shot,,,,
+0021000720,476,4,0,3,9:06 PM,0:44,,,Granger REBOUND (Off:0 Def:4),,
+0021000720,477,1,1,3,9:06 PM,0:30,,,George 24' 3PT Jump Shot (13 PTS) (Foster 1 AST),89 - 85,-4
+0021000720,478,6,2,3,9:06 PM,0:13,,,Foster S.FOUL (P3.PN),,
+0021000720,479,8,0,3,9:07 PM,0:13,,,SUB: Jones FOR Granger,,
+0021000720,480,3,11,3,9:07 PM,0:13,Jamison Free Throw 1 of 2 (15 PTS),,,89 - 86,-3
+0021000720,482,8,0,3,9:07 PM,0:13,SUB: Gee FOR Eyenga,,,,
+0021000720,483,3,12,3,9:07 PM,0:13,Jamison Free Throw 2 of 2 (16 PTS),,,89 - 87,-2
+0021000720,485,5,1,3,9:08 PM,0:00,Jamison STEAL (2 STL),,George Bad Pass Turnover (P1.T13),,
+0021000720,486,13,0,3,9:08 PM,0:00,,,,89 - 87,-2
+0021000720,488,12,0,4,9:10 PM,12:00,,,,89 - 87,-2
+0021000720,489,2,5,4,9:11 PM,11:42,,,MISS Hansbrough 1' Layup,,
+0021000720,490,4,0,4,9:11 PM,11:40,Harris REBOUND (Off:0 Def:7),,,,
+0021000720,491,6,29,4,9:11 PM,11:37,,,Price Shooting Block Foul (P4.T1),,
+0021000720,492,3,11,4,9:11 PM,11:37,Harris Free Throw 1 of 2 (14 PTS),,,89 - 88,-1
+0021000720,494,3,12,4,9:12 PM,11:37,Harris Free Throw 2 of 2 (15 PTS),,,89 - 89,TIE
+0021000720,496,2,1,4,9:12 PM,11:22,,,MISS Price 20' Jump Shot,,
+0021000720,497,4,0,4,9:12 PM,11:21,,,Foster REBOUND (Off:4 Def:4),,
+0021000720,498,1,1,4,9:12 PM,11:17,,,Price 25' 3PT Jump Shot (5 PTS) (Foster 2 AST),92 - 89,-3
+0021000720,499,5,2,4,9:12 PM,10:57,Parker Lost Ball Turnover (P2.T10),,Price STEAL (1 STL),,
+0021000720,500,1,52,4,9:13 PM,10:53,,,Jones 1' Alley Oop Dunk (3 PTS) (George 2 AST),94 - 89,-5
+0021000720,501,6,4,4,9:13 PM,10:31,Parker OFF.Foul (P2),,,,
+0021000720,502,5,5,4,9:13 PM,10:31,Parker Foul Turnover (P3.T11),,,,
+0021000720,503,6,2,4,9:13 PM,10:20,Graham S.FOUL (P2.T1),,,,
+0021000720,504,3,11,4,9:14 PM,10:20,,,MISS Hansbrough Free Throw 1 of 2,,
+0021000720,505,4,1,4,9:14 PM,10:20,,,Pacers Rebound,,
+0021000720,506,3,12,4,9:14 PM,10:20,,,Hansbrough Free Throw 2 of 2 (13 PTS),95 - 89,-6
+0021000720,508,1,1,4,9:15 PM,10:03,Parker 21' Jump Shot (14 PTS) (Harris 1 AST),,,95 - 91,-4
+0021000720,509,5,4,4,9:15 PM,9:50,,,Jones Traveling Turnover (P2.T14),,
+0021000720,510,8,0,4,9:15 PM,9:50,SUB: Sessions FOR Harris,,,,
+0021000720,511,2,1,4,9:15 PM,9:27,MISS Parker 17' Jump Shot,,,,
+0021000720,512,4,0,4,9:15 PM,9:26,Gee REBOUND (Off:1 Def:0),,,,
+0021000720,513,1,1,4,9:16 PM,9:21,Parker 25' 3PT Jump Shot (17 PTS) (Graham 2 AST),,,95 - 94,-1
+0021000720,514,6,4,4,9:16 PM,9:01,,,Hansbrough OFF.Foul (P4),,
+0021000720,515,5,5,4,9:16 PM,9:01,,,Hansbrough Foul Turnover (P4.T15),,
+0021000720,516,8,0,4,9:16 PM,9:01,,,SUB: Dunleavy FOR Jones,,
+0021000720,517,8,0,4,9:16 PM,9:01,SUB: Hickson FOR Hollins,,,,
+0021000720,518,6,2,4,9:17 PM,8:46,,,Price S.FOUL (P5.T2),,
+0021000720,519,9,4,4,9:17 PM,8:46,,,,,
+0021000720,521,8,0,4,9:19 PM,8:46,SUB: Harris FOR Parker,,,,
+0021000720,522,8,0,4,9:19 PM,8:46,,,SUB: McRoberts FOR Hansbrough,,
+0021000720,523,8,0,4,9:19 PM,8:46,,,SUB: Granger FOR Foster,,
+0021000720,524,8,0,4,9:19 PM,8:46,,,SUB: Hibbert FOR George,,
+0021000720,525,8,0,4,9:19 PM,8:46,,,SUB: Collison FOR Price,,
+0021000720,526,3,11,4,9:19 PM,8:46,Sessions Free Throw 1 of 2 (21 PTS),,,95 - 95,TIE
+0021000720,528,3,12,4,9:19 PM,8:46,Sessions Free Throw 2 of 2 (22 PTS),,,95 - 96,1
+0021000720,531,1,1,4,9:20 PM,8:28,,,Granger 17' Jump Shot (14 PTS),97 - 96,-1
+0021000720,532,2,1,4,9:20 PM,8:09,MISS Harris 25' 3PT Jump Shot,,,,
+0021000720,533,4,0,4,9:20 PM,8:08,,,McRoberts REBOUND (Off:3 Def:3),,
+0021000720,534,1,1,4,9:21 PM,7:55,,,Dunleavy 7' Jump Shot (11 PTS),99 - 96,-3
+0021000720,535,6,2,4,9:21 PM,7:55,Harris S.FOUL (P3.T2),,,,
+0021000720,536,8,0,4,9:21 PM,7:55,SUB: Jamison FOR Gee,,,,
+0021000720,537,8,0,4,9:21 PM,7:55,SUB: Eyenga FOR Graham,,,,
+0021000720,538,3,10,4,9:21 PM,7:55,,,Dunleavy Free Throw 1 of 1 (12 PTS),100 - 96,-4
+0021000720,540,5,4,4,9:21 PM,7:38,Hickson Traveling Turnover (P1.T12),,,,
+0021000720,541,2,1,4,9:22 PM,7:26,,,MISS McRoberts 17' Jump Shot,,
+0021000720,542,4,0,4,9:22 PM,7:25,Harris REBOUND (Off:0 Def:8),,,,
+0021000720,543,1,42,4,9:22 PM,7:20,Harris 2' Driving Layup (17 PTS),,,100 - 98,-2
+0021000720,544,5,8,4,9:22 PM,7:05,,,Hibbert 3 Second Violation Turnover (P1.T16),,
+0021000720,545,2,1,4,9:23 PM,6:50,MISS Harris 24' 3PT Jump Shot,,,,
+0021000720,546,4,0,4,9:23 PM,6:49,,,Hibbert REBOUND (Off:3 Def:5),,
+0021000720,547,2,46,4,9:23 PM,6:41,,,MISS Granger 11' Running Jump Shot,,
+0021000720,548,4,0,4,9:23 PM,6:41,CAVALIERS Rebound,,,,
+0021000720,549,2,1,4,9:23 PM,6:23,MISS Eyenga 10' Jump Shot,,Hibbert BLOCK (2 BLK),,
+0021000720,550,4,0,4,9:23 PM,6:21,,,Hibbert REBOUND (Off:3 Def:6),,
+0021000720,551,5,1,4,9:23 PM,6:19,,,Granger Bad Pass Turnover (P4.T17),,
+0021000720,552,1,1,4,9:24 PM,6:00,Jamison  3PT Jump Shot (19 PTS) (Eyenga 4 AST),,,100 - 101,1
+0021000720,553,1,42,4,9:24 PM,5:45,,,Collison 2' Driving Layup (19 PTS),102 - 101,-1
+0021000720,554,6,2,4,9:24 PM,5:29,,,Hibbert S.FOUL (P4.T3),,
+0021000720,555,9,1,4,9:25 PM,5:29,CAVALIERS Timeout: Regular (Full 4 Short 0),,,,
+0021000720,559,3,11,4,9:27 PM,5:29,MISS Sessions Free Throw 1 of 2,,,,
+0021000720,560,4,1,4,9:27 PM,5:29,CAVALIERS Rebound,,,,
+0021000720,561,3,12,4,9:27 PM,5:29,Sessions Free Throw 2 of 2 (23 PTS),,,102 - 102,TIE
+0021000720,563,2,1,4,9:28 PM,5:11,Hickson BLOCK (1 BLK),,MISS Hibbert 5' Jump Shot,,
+0021000720,564,4,0,4,9:28 PM,5:09,Eyenga REBOUND (Off:1 Def:3),,,,
+0021000720,565,1,5,4,9:28 PM,5:04,Eyenga 1' Layup (10 PTS),,,102 - 104,2
+0021000720,566,1,1,4,9:29 PM,4:40,,,Granger 26' 3PT Jump Shot (17 PTS) (Dunleavy 2 AST),105 - 104,-1
+0021000720,567,1,1,4,9:29 PM,4:14,Sessions 17' Jump Shot (25 PTS),,,105 - 106,1
+0021000720,568,2,1,4,9:29 PM,3:51,,,MISS Granger 25' 3PT Jump Shot,,
+0021000720,569,4,0,4,9:29 PM,3:51,Jamison REBOUND (Off:0 Def:6),,,,
+0021000720,570,1,78,4,9:30 PM,3:32,Harris 4' Floating Jump Shot (19 PTS) (Sessions 9 AST),,,105 - 108,3
+0021000720,571,9,1,4,9:30 PM,3:28,,,Pacers Timeout: Regular (Reg.4 Short 1),,
+0021000720,573,8,0,4,9:32 PM,3:28,SUB: Parker FOR Harris,,,,
+0021000720,575,6,2,4,9:33 PM,3:19,Jamison S.FOUL (P2.T3),,,,
+0021000720,576,3,11,4,9:33 PM,3:19,,,Granger Free Throw 1 of 2 (18 PTS),106 - 108,2
+0021000720,578,3,12,4,9:33 PM,3:19,,,Granger Free Throw 2 of 2 (19 PTS),107 - 108,1
+0021000720,580,2,1,4,9:34 PM,3:01,MISS Hickson 16' Jump Shot,,,,
+0021000720,581,4,0,4,9:34 PM,3:00,,,Collison REBOUND (Off:1 Def:2),,
+0021000720,582,1,1,4,9:34 PM,2:53,,,Dunleavy 25' 3PT Jump Shot (15 PTS) (Collison 9 AST),110 - 108,-2
+0021000720,583,2,1,4,9:34 PM,2:29,MISS Jamison 25' 3PT Jump Shot,,,,
+0021000720,584,4,0,4,9:34 PM,2:27,,,Hibbert REBOUND (Off:3 Def:7),,
+0021000720,585,2,46,4,9:35 PM,2:09,,,MISS Collison 8' Running Jump Shot,,
+0021000720,586,4,0,4,9:35 PM,2:09,CAVALIERS Rebound,,,,
+0021000720,587,2,78,4,9:35 PM,1:58,MISS Sessions 6' Floating Jump Shot,,,,
+0021000720,588,4,0,4,9:35 PM,1:56,,,Granger REBOUND (Off:0 Def:5),,
+0021000720,589,5,40,4,9:35 PM,1:38,,,Hibbert Out of Bounds Lost Ball Turnover (P2.T18),,
+0021000720,590,1,78,4,9:36 PM,1:23,Jamison 8' Floating Jump Shot (21 PTS) (Eyenga 5 AST),,,110 - 110,TIE
+0021000720,591,1,1,4,9:36 PM,1:08,,,Collison 24' 3PT Jump Shot (22 PTS) (Granger 4 AST),113 - 110,-3
+0021000720,592,9,1,4,9:36 PM,1:08,CAVALIERS Timeout: Regular (Full 5 Short 0),,,,
+0021000720,596,1,1,4,9:39 PM,0:52,Eyenga 19' Jump Shot (12 PTS) (Jamison 1 AST),,,113 - 112,-1
+0021000720,597,6,1,4,9:39 PM,0:41,Hickson P.FOUL (P4.T4),,,,
+0021000720,598,9,2,4,9:39 PM,0:41,,,Pacers Timeout: Short (Reg.4 Short 2),,
+0021000720,602,2,1,4,9:41 PM,0:29,,,MISS Granger 24' 3PT Jump Shot,,
+0021000720,603,4,0,4,9:41 PM,0:27,Parker REBOUND (Off:1 Def:2),,,,
+0021000720,604,2,46,4,9:41 PM,0:18,MISS Parker 5' Running Jump Shot,,,,
+0021000720,605,4,0,4,9:41 PM,0:17,,,Dunleavy REBOUND (Off:0 Def:4),,
+0021000720,606,6,28,4,9:41 PM,0:17,Parker Personal Take Foul (P3.PN),,,,
+0021000720,607,3,11,4,9:41 PM,0:17,,,Granger Free Throw 1 of 2 (20 PTS),114 - 112,-2
+0021000720,610,3,12,4,9:41 PM,0:17,,,Granger Free Throw 2 of 2 (21 PTS),115 - 112,-3
+0021000720,612,9,2,4,9:42 PM,0:17,CAVALIERS Timeout: Short (Full 5 Short 1),,,,
+0021000720,616,5,2,4,9:43 PM,0:11,Hickson Lost Ball Turnover (P2.T13),,Granger STEAL (1 STL),,
+0021000720,617,6,28,4,9:43 PM,0:10,Sessions Personal Take Foul (P2.PN),,,,
+0021000720,618,3,11,4,9:44 PM,0:10,,,Granger Free Throw 1 of 2 (22 PTS),116 - 112,-4
+0021000720,621,8,0,4,9:44 PM,0:10,,,SUB: George FOR Hibbert,,
+0021000720,622,3,12,4,9:44 PM,0:10,,,Granger Free Throw 2 of 2 (23 PTS),117 - 112,-5
+0021000720,624,9,2,4,9:44 PM,0:10,CAVALIERS Timeout: Short (Full 5 Short 2),,,,
+0021000720,628,2,46,4,9:46 PM,0:03,MISS Jamison 5' Running Jump Shot,,,,
+0021000720,629,4,0,4,9:46 PM,0:02,Jamison REBOUND (Off:1 Def:6),,,,
+0021000720,630,2,1,4,9:46 PM,0:02,MISS Parker 25' 3PT Jump Shot,,,,
+0021000720,631,4,0,4,9:46 PM,0:00,,,Collison REBOUND (Off:1 Def:3),,
+0021000720,632,13,0,4,9:46 PM,0:00,,,,117 - 112,-5

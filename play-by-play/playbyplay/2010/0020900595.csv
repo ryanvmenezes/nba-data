@@ -1,0 +1,410 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900595,0,12,0,1,1:12 PM,12:00,,,,,
+0020900595,1,10,0,1,1:13 PM,12:00,Jump Ball Haywood vs. Aldridge: Tip to Stevenson,,,,
+0020900595,2,2,5,1,1:13 PM,11:47,MISS Foye 3' Layup,,,,
+0020900595,3,4,0,1,1:13 PM,11:46,,,Webster REBOUND (Off:0 Def:1),,
+0020900595,4,2,1,1,1:13 PM,11:28,,,MISS Aldridge 14' Jump Shot,,
+0020900595,5,4,0,1,1:13 PM,11:27,Jamison REBOUND (Off:0 Def:1),,,,
+0020900595,6,1,1,1,1:14 PM,11:17,Butler 19' Jump Shot (2 PTS),,,0 - 2,2
+0020900595,7,1,86,1,1:14 PM,10:52,,,Miller 15' Turnaround Fadeaway (2 PTS),2 - 2,TIE
+0020900595,8,2,1,1,1:14 PM,10:32,MISS Jamison 17' Jump Shot,,,,
+0020900595,9,4,0,1,1:14 PM,10:31,Haywood REBOUND (Off:1 Def:0),,,,
+0020900595,10,2,5,1,1:14 PM,10:30,MISS Haywood 1' Layup,,,,
+0020900595,11,4,0,1,1:14 PM,10:30,Haywood REBOUND (Off:2 Def:0),,,,
+0020900595,12,6,2,1,1:14 PM,10:30,,,Miller S.FOUL (P1.T1),,
+0020900595,13,3,11,1,1:15 PM,10:30,Haywood Free Throw 1 of 2 (1 PTS),,,2 - 3,1
+0020900595,15,3,12,1,1:15 PM,10:30,MISS Haywood Free Throw 2 of 2,,,,
+0020900595,17,4,0,1,1:15 PM,10:29,,,Webster REBOUND (Off:0 Def:2),,
+0020900595,19,1,1,1,1:15 PM,10:12,,,Aldridge 21' Jump Shot (2 PTS) (Bayless 1 AST),4 - 3,-1
+0020900595,20,1,41,1,1:16 PM,9:49,Butler 1' Running Layup (4 PTS),,,4 - 5,1
+0020900595,21,1,1,1,1:16 PM,9:23,,,Bayless 18' Jump Shot (2 PTS),6 - 5,-1
+0020900595,22,2,1,1,1:16 PM,9:00,MISS Stevenson 24' 3PT Jump Shot,,,,
+0020900595,23,4,0,1,1:17 PM,8:59,,,Bayless REBOUND (Off:0 Def:1),,
+0020900595,24,1,1,1,1:17 PM,8:49,,,Webster 20' Jump Shot (2 PTS) (Bayless 2 AST),8 - 5,-3
+0020900595,25,9,1,1,1:17 PM,8:43,WIZARDS Timeout: Regular (Full 1 Short 0),,,,
+0020900595,27,1,7,1,1:20 PM,8:30,Haywood 1' Dunk (3 PTS) (Jamison 1 AST),,,8 - 7,-1
+0020900595,28,2,1,1,1:20 PM,8:06,,,MISS Howard 12' Jump Shot,,
+0020900595,29,4,0,1,1:20 PM,8:03,,,Aldridge REBOUND (Off:1 Def:0),,
+0020900595,30,1,72,1,1:20 PM,8:01,,,Aldridge 1' Putback Layup (4 PTS),10 - 7,-3
+0020900595,31,1,1,1,1:21 PM,7:38,Jamison 18' Jump Shot (2 PTS),,,10 - 9,-1
+0020900595,32,1,1,1,1:21 PM,7:19,,,Aldridge 21' Jump Shot (6 PTS) (Bayless 3 AST),12 - 9,-3
+0020900595,33,6,1,1,1:21 PM,7:01,,,Miller P.FOUL (P2.T2),,
+0020900595,34,8,0,1,1:21 PM,7:01,,,SUB: Blake FOR Miller,,
+0020900595,35,2,5,1,1:22 PM,6:55,MISS Butler  Layup,,Bayless BLOCK (1 BLK),,
+0020900595,36,4,0,1,1:22 PM,6:53,,,Blake REBOUND (Off:0 Def:1),,
+0020900595,37,1,1,1,1:22 PM,6:48,,,Webster 20' Jump Shot (4 PTS) (Blake 1 AST),14 - 9,-5
+0020900595,38,6,2,1,1:22 PM,6:26,,,Aldridge S.FOUL (P1.T3),,
+0020900595,39,3,11,1,1:23 PM,6:26,Foye Free Throw 1 of 2 (1 PTS),,,14 - 10,-4
+0020900595,41,3,12,1,1:23 PM,6:26,Foye Free Throw 2 of 2 (2 PTS),,,14 - 11,-3
+0020900595,44,2,1,1,1:23 PM,6:06,,,MISS Webster  3PT Jump Shot,,
+0020900595,45,4,0,1,1:23 PM,6:05,,,Howard REBOUND (Off:1 Def:0),,
+0020900595,46,5,1,1,1:24 PM,5:48,,,Bayless Bad Pass Turnover (P1.T1),,
+0020900595,47,2,1,1,1:25 PM,5:26,MISS Jamison  3PT Jump Shot,,,,
+0020900595,48,4,0,1,1:25 PM,5:25,,,Aldridge REBOUND (Off:1 Def:1),,
+0020900595,49,2,1,1,1:25 PM,5:14,,,MISS Blake 19' Jump Shot,,
+0020900595,50,4,0,1,1:25 PM,5:13,Butler REBOUND (Off:0 Def:1),,,,
+0020900595,51,1,78,1,1:25 PM,5:03,Jamison 6' Floating Jump Shot (4 PTS),,,14 - 13,-1
+0020900595,52,1,1,1,1:25 PM,4:43,,,Blake 26' 3PT Jump Shot (3 PTS) (Howard 1 AST),17 - 13,-4
+0020900595,53,1,84,1,1:26 PM,4:27,Foye 4' Running Bank Shot (4 PTS),,,17 - 15,-2
+0020900595,54,5,40,1,1:26 PM,4:11,,,Webster Out of Bounds Lost Ball Turnover (P1.T2),,
+0020900595,55,8,0,1,1:26 PM,4:11,,,SUB: Pendergraph FOR Howard,,
+0020900595,56,8,0,1,1:26 PM,4:11,SUB: Miller FOR Stevenson,,,,
+0020900595,58,6,2,1,1:27 PM,3:55,,,Bayless S.FOUL (P1.T4),,
+0020900595,59,3,11,1,1:27 PM,3:55,Miller Free Throw 1 of 2 (1 PTS),,,17 - 16,-1
+0020900595,61,8,0,1,1:27 PM,3:55,,,SUB: Fernandez FOR Bayless,,
+0020900595,62,3,12,1,1:27 PM,3:55,Miller Free Throw 2 of 2 (2 PTS),,,17 - 17,TIE
+0020900595,65,9,1,1,1:27 PM,3:50,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,
+0020900595,66,8,0,1,1:29 PM,3:50,SUB: Blatche FOR Jamison,,,,
+0020900595,67,2,1,1,1:30 PM,3:34,,,MISS Aldridge 17' Jump Shot,,
+0020900595,68,4,0,1,1:30 PM,3:32,Blatche REBOUND (Off:0 Def:1),,,,
+0020900595,69,5,1,1,1:31 PM,3:12,Foye Bad Pass Turnover (P1.T1),,Webster STEAL (1 STL),,
+0020900595,70,2,1,1,1:31 PM,2:59,,,MISS Fernandez 24' 3PT Jump Shot,,
+0020900595,71,4,0,1,1:31 PM,2:59,Foye REBOUND (Off:0 Def:1),,,,
+0020900595,72,2,1,1,1:31 PM,2:37,MISS Haywood 9' Jump Shot,,,,
+0020900595,73,4,0,1,1:31 PM,2:36,,,Aldridge REBOUND (Off:1 Def:2),,
+0020900595,74,1,63,1,1:32 PM,2:25,,,Pendergraph 17' Fadeaway Jumper (2 PTS) (Blake 2 AST),19 - 17,-2
+0020900595,75,6,1,1,1:32 PM,2:09,,,Webster P.FOUL (P1.PN),,
+0020900595,76,8,0,1,1:32 PM,2:09,SUB: Boykins FOR Foye,,,,
+0020900595,77,3,11,1,1:32 PM,2:09,Butler Free Throw 1 of 2 (5 PTS),,,19 - 18,-1
+0020900595,79,3,12,1,1:32 PM,2:09,Butler Free Throw 2 of 2 (6 PTS),,,19 - 19,TIE
+0020900595,82,2,1,1,1:33 PM,1:46,,,MISS Webster 24' 3PT Jump Shot,,
+0020900595,83,4,0,1,1:33 PM,1:45,,,Trail Blazers Rebound,,
+0020900595,84,1,79,1,1:33 PM,1:37,,,Fernandez 16' Pullup Jump Shot (2 PTS) (Blake 3 AST),21 - 19,-2
+0020900595,85,1,1,1,1:34 PM,1:19,Blatche 15' Jump Shot (2 PTS) (Boykins 1 AST),,,21 - 21,TIE
+0020900595,86,5,1,1,1:34 PM,1:04,,,Blake Bad Pass Turnover (P1.T3),,
+0020900595,87,1,1,1,1:35 PM,0:46,Miller  3PT Jump Shot (5 PTS) (Butler 1 AST),,,21 - 24,3
+0020900595,88,2,1,1,1:35 PM,0:25,,,MISS Blake 27' 3PT Jump Shot,,
+0020900595,89,4,0,1,1:35 PM,0:23,Haywood REBOUND (Off:2 Def:1),,,,
+0020900595,90,2,1,1,1:35 PM,0:02,MISS Blatche 15' Jump Shot,,,,
+0020900595,91,4,0,1,1:35 PM,0:01,,,Fernandez REBOUND (Off:0 Def:1),,
+0020900595,92,13,0,1,1:35 PM,0:00,,,,21 - 24,3
+0020900595,94,12,0,2,1:38 PM,12:00,,,,21 - 24,3
+0020900595,95,2,5,2,1:39 PM,11:46,,,MISS Fernandez  Layup,,
+0020900595,96,4,0,2,1:39 PM,11:44,Butler REBOUND (Off:0 Def:2),,,,
+0020900595,97,6,4,2,1:39 PM,11:36,Blatche OFF.Foul (P1),,,,
+0020900595,98,5,5,2,1:39 PM,11:36,Blatche Foul Turnover (P1.T2),,,,
+0020900595,99,1,41,2,1:39 PM,11:20,,,Blake 1' Running Layup (5 PTS),23 - 24,1
+0020900595,100,1,8,2,1:39 PM,11:07,Blatche 1' Slam Dunk (4 PTS) (Miller 1 AST),,,23 - 26,3
+0020900595,101,2,1,2,1:40 PM,10:43,,,MISS Fernandez 18' Jump Shot,,
+0020900595,102,4,0,2,1:40 PM,10:42,Blatche REBOUND (Off:0 Def:2),,,,
+0020900595,103,2,1,2,1:40 PM,10:27,MISS Blatche 12' Jump Shot,,,,
+0020900595,104,4,0,2,1:40 PM,10:26,,,Pendergraph REBOUND (Off:0 Def:1),,
+0020900595,105,1,79,2,1:40 PM,10:18,,,Blake 20' Pullup Jump Shot (7 PTS),25 - 26,1
+0020900595,106,6,1,2,1:41 PM,10:00,,,Pendergraph P.FOUL (P1.T1),,
+0020900595,107,8,0,2,1:41 PM,10:00,,,SUB: Bayless FOR Webster,,
+0020900595,109,8,0,2,1:41 PM,10:00,SUB: Foye FOR Butler,,,,
+0020900595,110,1,80,2,1:41 PM,9:54,Foye 19' Step Back Jump Shot (6 PTS),,,25 - 28,3
+0020900595,111,2,1,2,1:42 PM,9:37,,,MISS Pendergraph 17' Jump Shot,,
+0020900595,112,4,0,2,1:42 PM,9:36,Miller REBOUND (Off:0 Def:1),,,,
+0020900595,113,2,1,2,1:42 PM,9:25,MISS Jamison 25' 3PT Jump Shot,,,,
+0020900595,114,4,0,2,1:42 PM,9:24,,,Fernandez REBOUND (Off:0 Def:2),,
+0020900595,115,2,1,2,1:42 PM,9:12,,,MISS Blake 19' Jump Shot,,
+0020900595,116,4,0,2,1:42 PM,9:11,Miller REBOUND (Off:0 Def:2),,,,
+0020900595,117,5,1,2,1:42 PM,9:08,Miller Bad Pass Turnover (P1.T3),,Blake STEAL (1 STL),,
+0020900595,118,2,5,2,1:42 PM,9:00,,,MISS Fernandez 2' Layup,,
+0020900595,119,4,0,2,1:42 PM,8:59,Jamison REBOUND (Off:0 Def:2),,,,
+0020900595,120,1,1,2,1:42 PM,8:44,Boykins 17' Jump Shot (2 PTS),,,25 - 30,5
+0020900595,121,2,1,2,1:43 PM,8:24,,,MISS Cunningham 16' Jump Shot,,
+0020900595,122,4,0,2,1:43 PM,8:23,Blatche REBOUND (Off:0 Def:3),,,,
+0020900595,123,1,46,2,1:43 PM,8:16,Boykins 4' Running Jump Shot (4 PTS),,,25 - 32,7
+0020900595,124,9,1,2,1:43 PM,8:09,,,Trail Blazers Timeout: Regular (Reg.2 Short 0),,
+0020900595,126,8,0,2,1:45 PM,8:09,,,SUB: Aldridge FOR Blake,,
+0020900595,127,8,0,2,1:45 PM,8:09,,,SUB: Miller FOR Pendergraph,,
+0020900595,128,8,0,2,1:45 PM,8:09,,,SUB: Howard FOR Fernandez,,
+0020900595,129,8,0,2,1:45 PM,8:09,,,SUB: Webster FOR Cunningham,,
+0020900595,130,1,5,2,1:46 PM,7:58,,,Bayless 2' Layup (4 PTS),27 - 32,5
+0020900595,131,2,1,2,1:46 PM,7:43,MISS Foye 12' Jump Shot,,,,
+0020900595,132,4,0,2,1:46 PM,7:42,Foye REBOUND (Off:1 Def:1),,,,
+0020900595,133,2,5,2,1:46 PM,7:27,MISS Jamison 1' Layup,,,,
+0020900595,134,4,0,2,1:46 PM,7:26,,,Howard REBOUND (Off:1 Def:1),,
+0020900595,135,1,1,2,1:47 PM,7:09,,,Aldridge 17' Jump Shot (8 PTS) (Bayless 4 AST),29 - 32,3
+0020900595,136,2,1,2,1:47 PM,6:54,MISS Boykins 16' Jump Shot,,,,
+0020900595,137,4,0,2,1:47 PM,6:53,,,Aldridge REBOUND (Off:1 Def:3),,
+0020900595,138,2,1,2,1:47 PM,6:37,,,MISS Aldridge 7' Jump Shot,,
+0020900595,139,4,0,2,1:47 PM,6:36,WIZARDS Rebound,,,,
+0020900595,140,8,0,2,1:47 PM,6:36,SUB: Stevenson FOR Boykins,,,,
+0020900595,141,8,0,2,1:47 PM,6:36,SUB: Haywood FOR Blatche,,,,
+0020900595,142,1,46,2,1:48 PM,6:18,Jamison 5' Running Jump Shot (6 PTS),,,29 - 34,5
+0020900595,143,6,2,2,1:48 PM,6:18,,,Howard S.FOUL (P1.T2),,
+0020900595,144,8,0,2,1:48 PM,6:18,SUB: Butler FOR Miller,,,,
+0020900595,145,3,10,2,1:48 PM,6:18,Jamison Free Throw 1 of 1 (7 PTS),,,29 - 35,6
+0020900595,148,6,2,2,1:49 PM,6:02,Haywood S.FOUL (P1.T1),,,,
+0020900595,149,3,11,2,1:49 PM,6:02,,,Aldridge Free Throw 1 of 2 (9 PTS),30 - 35,5
+0020900595,151,3,12,2,1:49 PM,6:02,,,Aldridge Free Throw 2 of 2 (10 PTS),31 - 35,4
+0020900595,154,9,4,2,1:50 PM,5:50,,,,,
+0020900595,156,5,4,2,1:53 PM,5:42,Butler Traveling Turnover (P1.T4),,,,
+0020900595,157,2,1,2,1:53 PM,5:25,,,MISS Miller 14' Jump Shot,,
+0020900595,158,4,0,2,1:53 PM,5:24,Stevenson REBOUND (Off:0 Def:1),,,,
+0020900595,159,2,1,2,1:53 PM,5:17,MISS Jamison 13' Jump Shot,,,,
+0020900595,160,4,0,2,1:53 PM,5:16,Haywood REBOUND (Off:3 Def:1),,,,
+0020900595,161,2,5,2,1:53 PM,5:13,MISS Haywood  Layup,,Webster BLOCK (1 BLK),,
+0020900595,162,4,0,2,1:53 PM,5:12,Jamison REBOUND (Off:1 Def:2),,,,
+0020900595,163,2,5,2,1:53 PM,5:09,MISS Jamison 1' Layup,,,,
+0020900595,164,4,0,2,1:53 PM,5:08,,,Bayless REBOUND (Off:0 Def:2),,
+0020900595,165,2,1,2,1:54 PM,4:51,,,MISS Bayless 21' Jump Shot,,
+0020900595,166,4,0,2,1:54 PM,4:50,,,Aldridge REBOUND (Off:2 Def:3),,
+0020900595,167,2,1,2,1:54 PM,4:43,Haywood BLOCK (1 BLK),,MISS Howard 8' Jump Shot,,
+0020900595,168,4,0,2,1:54 PM,4:43,,,Trail Blazers Rebound,,
+0020900595,170,2,1,2,1:54 PM,4:32,,,MISS Miller 15' Jump Shot,,
+0020900595,171,4,0,2,1:54 PM,4:31,,,Aldridge REBOUND (Off:3 Def:3),,
+0020900595,172,6,2,2,1:54 PM,4:30,Jamison S.FOUL (P1.T2),,,,
+0020900595,173,3,11,2,1:54 PM,4:30,,,Aldridge Free Throw 1 of 2 (11 PTS),32 - 35,3
+0020900595,175,3,12,2,1:55 PM,4:30,,,Aldridge Free Throw 2 of 2 (12 PTS),33 - 35,2
+0020900595,178,1,80,2,1:55 PM,4:17,Butler 16' Step Back Jump Shot (8 PTS),,,33 - 37,4
+0020900595,179,5,15,2,1:56 PM,4:01,,,Aldridge Offensive Goaltending Turnover (P1.T4),,
+0020900595,181,1,42,2,1:56 PM,3:49,Foye 2' Driving Layup (8 PTS),,,33 - 39,6
+0020900595,182,2,1,2,1:56 PM,3:39,,,MISS Bayless 27' 3PT Jump Shot,,
+0020900595,183,4,0,2,1:56 PM,3:38,Stevenson REBOUND (Off:0 Def:2),,,,
+0020900595,184,6,4,2,1:57 PM,3:19,Jamison OFF.Foul (P2),,,,
+0020900595,185,5,5,2,1:57 PM,3:19,Jamison Foul Turnover (P1.T5),,,,
+0020900595,186,2,1,2,1:57 PM,2:57,,,MISS Webster 18' Jump Shot,,
+0020900595,187,4,0,2,1:57 PM,2:56,WIZARDS Rebound,,,,
+0020900595,188,9,1,2,1:57 PM,2:56,WIZARDS Timeout: Regular (Full 2 Short 0),,,,
+0020900595,190,1,78,2,2:00 PM,2:38,Foye 5' Floating Jump Shot (10 PTS),,,33 - 41,8
+0020900595,191,1,5,2,2:00 PM,2:19,,,Howard 2' Layup (2 PTS) (Webster 1 AST),35 - 41,6
+0020900595,192,6,2,2,2:00 PM,2:19,Butler S.FOUL (P1.T3),,,,
+0020900595,193,3,10,2,2:01 PM,2:19,,,Howard Free Throw 1 of 1 (3 PTS),36 - 41,5
+0020900595,196,2,1,2,2:01 PM,2:05,MISS Jamison 7' Jump Shot,,,,
+0020900595,197,4,0,2,2:01 PM,2:03,,,Bayless REBOUND (Off:0 Def:3),,
+0020900595,198,2,1,2,2:01 PM,1:51,,,MISS Aldridge 18' Jump Shot,,
+0020900595,199,4,0,2,2:01 PM,1:50,Haywood REBOUND (Off:3 Def:2),,,,
+0020900595,200,2,1,2,2:02 PM,1:33,MISS Butler  3PT Jump Shot,,,,
+0020900595,201,4,0,2,2:02 PM,1:32,,,Miller REBOUND (Off:0 Def:1),,
+0020900595,202,6,4,2,2:02 PM,1:28,,,Miller OFF.Foul (P3),,
+0020900595,203,5,5,2,2:02 PM,1:28,,,Miller Foul Turnover (P1.T5),,
+0020900595,204,8,0,2,2:02 PM,1:28,,,SUB: Blake FOR Miller,,
+0020900595,205,8,0,2,2:02 PM,1:28,SUB: Blatche FOR Jamison,,,,
+0020900595,206,1,1,2,2:02 PM,1:09,Blatche 22' Jump Shot (6 PTS) (Foye 1 AST),,,36 - 43,7
+0020900595,207,1,1,2,2:03 PM,0:56,,,Howard 17' Jump Shot (5 PTS) (Blake 4 AST),38 - 43,5
+0020900595,208,2,1,2,2:03 PM,0:43,MISS Stevenson  3PT Jump Shot,,,,
+0020900595,209,4,0,2,2:03 PM,0:42,,,Webster REBOUND (Off:0 Def:3),,
+0020900595,210,6,4,2,2:03 PM,0:30,,,Howard OFF.Foul (P2),,
+0020900595,211,5,5,2,2:03 PM,0:30,,,Howard Foul Turnover (P1.T6),,
+0020900595,212,9,2,2,2:04 PM,0:30,WIZARDS Timeout: Short (Full 2 Short 1),,,,
+0020900595,214,8,0,2,2:04 PM,0:30,,,SUB: Pendergraph FOR Howard,,
+0020900595,215,8,0,2,2:04 PM,0:30,SUB: Miller FOR Stevenson,,,,
+0020900595,216,2,1,2,2:05 PM,0:04,MISS Foye 21' Jump Shot,,,,
+0020900595,217,4,0,2,2:05 PM,0:03,,,Pendergraph REBOUND (Off:0 Def:2),,
+0020900595,218,2,1,2,2:05 PM,0:00,,,MISS Bayless 38' 3PT Jump Shot,,
+0020900595,219,4,0,2,2:05 PM,0:00,,,Trail Blazers Rebound,,
+0020900595,220,13,0,2,2:05 PM,0:00,,,,38 - 43,5
+0020900595,222,12,0,3,2:21 PM,12:00,,,,38 - 43,5
+0020900595,223,5,2,3,2:22 PM,11:35,Jamison STEAL (1 STL),,Miller Lost Ball Turnover (P2.T7),,
+0020900595,224,5,2,3,2:22 PM,11:18,Butler Lost Ball Turnover (P2.T6),,Aldridge STEAL (1 STL),,
+0020900595,225,1,5,3,2:22 PM,11:12,,,Howard 3' Layup (7 PTS) (Bayless 5 AST),40 - 43,3
+0020900595,226,2,1,3,2:23 PM,10:54,MISS Jamison 21' Jump Shot,,,,
+0020900595,227,4,0,3,2:23 PM,10:53,Butler REBOUND (Off:1 Def:2),,,,
+0020900595,228,1,46,3,2:23 PM,10:44,Jamison 5' Running Jump Shot (9 PTS) (Foye 2 AST),,,40 - 45,5
+0020900595,229,6,2,3,2:23 PM,10:44,,,Aldridge S.FOUL (P2.T1),,
+0020900595,230,3,10,3,2:23 PM,10:44,Jamison Free Throw 1 of 1 (10 PTS),,,40 - 46,6
+0020900595,233,2,1,3,2:24 PM,10:27,,,MISS Webster 25' 3PT Jump Shot,,
+0020900595,234,4,0,3,2:24 PM,10:25,,,Aldridge REBOUND (Off:4 Def:3),,
+0020900595,235,1,44,3,2:24 PM,10:17,,,Webster 2' Reverse Layup (6 PTS) (Bayless 6 AST),42 - 46,4
+0020900595,236,2,1,3,2:24 PM,9:58,MISS Jamison 23' Jump Shot,,,,
+0020900595,237,4,0,3,2:24 PM,9:57,Butler REBOUND (Off:2 Def:2),,,,
+0020900595,238,1,82,3,2:24 PM,9:42,Jamison 6' Driving Bank Shot (12 PTS) (Butler 2 AST),,,42 - 48,6
+0020900595,239,2,5,3,2:25 PM,9:31,,,MISS Bayless 2' Layup,,
+0020900595,240,4,0,3,2:25 PM,9:29,,,Aldridge REBOUND (Off:5 Def:3),,
+0020900595,241,1,4,3,2:25 PM,9:28,,,Aldridge 3' Tip Shot (14 PTS),44 - 48,4
+0020900595,242,1,5,3,2:25 PM,9:09,Jamison 2' Layup (14 PTS) (Stevenson 1 AST),,,44 - 50,6
+0020900595,243,6,1,3,2:25 PM,8:54,Jamison P.FOUL (P3.T1),,,,
+0020900595,244,2,1,3,2:26 PM,8:47,,,MISS Howard 18' Jump Shot,,
+0020900595,245,4,0,3,2:26 PM,8:46,Butler REBOUND (Off:2 Def:3),,,,
+0020900595,246,6,2,3,2:26 PM,8:37,,,Howard S.FOUL (P3.T2),,
+0020900595,247,3,11,3,2:26 PM,8:37,Jamison Free Throw 1 of 2 (15 PTS),,,44 - 51,7
+0020900595,249,3,12,3,2:26 PM,8:37,Jamison Free Throw 2 of 2 (16 PTS),,,44 - 52,8
+0020900595,252,5,1,3,2:27 PM,8:16,Foye STEAL (1 STL),,Bayless Bad Pass Turnover (P2.T8),,
+0020900595,253,1,1,3,2:27 PM,8:06,Butler 21' Jump Shot (10 PTS) (Foye 3 AST),,,44 - 54,10
+0020900595,254,2,1,3,2:27 PM,7:54,,,MISS Miller 18' Jump Shot,,
+0020900595,255,4,0,3,2:27 PM,7:53,,,Aldridge REBOUND (Off:6 Def:3),,
+0020900595,256,1,5,3,2:28 PM,7:49,,,Miller 2' Layup (4 PTS) (Aldridge 1 AST),46 - 54,8
+0020900595,257,2,1,3,2:28 PM,7:34,MISS Jamison 10' Jump Shot,,,,
+0020900595,258,4,0,3,2:28 PM,7:33,,,Aldridge REBOUND (Off:6 Def:4),,
+0020900595,259,2,1,3,2:28 PM,7:21,,,MISS Webster 22' Jump Shot,,
+0020900595,260,4,0,3,2:28 PM,7:20,Haywood REBOUND (Off:3 Def:3),,,,
+0020900595,261,5,40,3,2:28 PM,7:05,Foye Out of Bounds Lost Ball Turnover (P2.T7),,,,
+0020900595,262,1,79,3,2:29 PM,6:50,,,Aldridge 15' Pullup Jump Shot (16 PTS),48 - 54,6
+0020900595,263,6,1,3,2:29 PM,6:36,,,Bayless P.FOUL (P2.T3),,
+0020900595,264,1,88,3,2:30 PM,6:26,Jamison 2' Driving Slam Dunk (18 PTS) (Butler 3 AST),,,48 - 56,8
+0020900595,265,6,1,3,2:30 PM,6:13,Haywood P.FOUL (P2.T2),,,,
+0020900595,266,1,1,3,2:30 PM,6:04,,,Aldridge 18' Jump Shot (18 PTS),50 - 56,6
+0020900595,267,1,1,3,2:31 PM,5:50,Foye 19' Jump Shot (12 PTS),,,50 - 58,8
+0020900595,268,1,52,3,2:31 PM,5:40,,,Bayless 1' Alley Oop Dunk (6 PTS) (Miller 1 AST),52 - 58,6
+0020900595,269,5,2,3,2:31 PM,5:22,Jamison Lost Ball Turnover (P2.T8),,Howard STEAL (1 STL),,
+0020900595,270,1,1,3,2:31 PM,5:15,,,Webster 25' 3PT Jump Shot (9 PTS) (Bayless 7 AST),55 - 58,3
+0020900595,271,9,1,3,2:31 PM,5:13,WIZARDS Timeout: Regular (Full 3 Short 1),,,,
+0020900595,273,8,0,3,2:34 PM,5:13,SUB: Miller FOR Stevenson,,,,
+0020900595,274,1,73,3,2:34 PM,4:53,Butler 2' Driving Reverse Layup (12 PTS),,,55 - 60,5
+0020900595,275,5,40,3,2:35 PM,4:28,,,Aldridge Out of Bounds Lost Ball Turnover (P2.T9),,
+0020900595,276,8,0,3,2:35 PM,4:28,,,SUB: Pendergraph FOR Howard,,
+0020900595,277,8,0,3,2:35 PM,4:28,SUB: Boykins FOR Foye,,,,
+0020900595,278,2,1,3,2:35 PM,4:12,MISS Butler 22' Jump Shot,,,,
+0020900595,279,4,0,3,2:35 PM,4:11,Miller REBOUND (Off:1 Def:2),,,,
+0020900595,280,1,5,3,2:35 PM,4:08,Jamison  Layup (20 PTS) (Miller 2 AST),,,55 - 62,7
+0020900595,281,2,5,3,2:35 PM,4:02,,,MISS Miller 2' Layup,,
+0020900595,282,4,0,3,2:35 PM,3:59,,,Aldridge REBOUND (Off:7 Def:4),,
+0020900595,283,1,72,3,2:36 PM,3:57,,,Aldridge 1' Putback Layup (20 PTS),57 - 62,5
+0020900595,284,1,5,3,2:36 PM,3:43,Miller 1' Layup (7 PTS) (Boykins 2 AST),,,57 - 64,7
+0020900595,285,2,1,3,2:36 PM,3:28,,,MISS Bayless 15' Jump Shot,,
+0020900595,286,4,0,3,2:36 PM,3:27,,,Pendergraph REBOUND (Off:1 Def:2),,
+0020900595,287,1,1,3,2:36 PM,3:18,,,Miller 20' Jump Shot (6 PTS),59 - 64,5
+0020900595,288,1,56,3,2:37 PM,2:55,Haywood 6' Running Hook Shot (5 PTS) (Butler 4 AST),,,59 - 66,7
+0020900595,289,1,5,3,2:37 PM,2:39,,,Miller 1' Layup (8 PTS) (Aldridge 2 AST),61 - 66,5
+0020900595,290,1,5,3,2:37 PM,2:28,Butler 1' Layup (14 PTS) (Miller 3 AST),,,61 - 68,7
+0020900595,291,9,1,3,2:37 PM,2:21,,,Trail Blazers Timeout: Regular (Reg.3 Short 0),,
+0020900595,293,8,0,3,2:39 PM,2:21,,,SUB: Blake FOR Bayless,,
+0020900595,294,8,0,3,2:40 PM,2:21,SUB: Young FOR Butler,,,,
+0020900595,295,1,5,3,2:40 PM,2:13,,,Miller 1' Layup (10 PTS),63 - 68,5
+0020900595,296,2,1,3,2:40 PM,1:47,MISS Boykins 19' Jump Shot,,,,
+0020900595,297,4,0,3,2:40 PM,1:46,,,Miller REBOUND (Off:0 Def:2),,
+0020900595,298,1,71,3,2:40 PM,1:40,,,Miller  Finger Roll Layup (12 PTS),65 - 68,3
+0020900595,299,5,2,3,2:41 PM,1:13,Jamison Lost Ball Turnover (P3.T9),,Aldridge STEAL (2 STL),,
+0020900595,300,6,1,3,2:41 PM,1:12,Boykins P.FOUL (P1.T3),,,,
+0020900595,301,1,1,3,2:42 PM,1:03,,,Miller 19' Jump Shot (14 PTS),67 - 68,1
+0020900595,302,6,6,3,2:42 PM,1:03,Miller AWAY.FROM.PLAY.FOUL (P1.PN),,,,
+0020900595,303,5,5,3,2:42 PM,1:03,Miller Foul Turnover (P2.T10),,,,
+0020900595,304,3,10,3,2:42 PM,1:03,,,Blake Free Throw 1 of 1 (8 PTS),68 - 68,TIE
+0020900595,307,2,45,3,2:42 PM,0:47,MISS Young 18' Jump Shot,,,,
+0020900595,308,4,0,3,2:42 PM,0:40,,,Blake REBOUND (Off:0 Def:2),,
+0020900595,309,2,1,3,2:43 PM,0:38,Miller BLOCK (1 BLK),,MISS Blake 3' Jump Shot,,
+0020900595,310,4,0,3,2:43 PM,0:36,Miller REBOUND (Off:1 Def:3),,,,
+0020900595,311,5,1,3,2:43 PM,0:34,Miller Bad Pass Turnover (P3.T11),,Blake STEAL (2 STL),,
+0020900595,312,1,8,3,2:43 PM,0:31,,,Aldridge 1' Slam Dunk (22 PTS) (Miller 2 AST),70 - 68,-2
+0020900595,313,6,2,3,2:43 PM,0:17,,,Miller S.FOUL (P4.T4),,
+0020900595,314,3,11,3,2:43 PM,0:17,Boykins Free Throw 1 of 2 (5 PTS),,,70 - 69,-1
+0020900595,316,8,0,3,2:44 PM,0:17,SUB: Blatche FOR Jamison,,,,
+0020900595,317,8,0,3,2:44 PM,0:17,,,SUB: Fernandez FOR Miller,,
+0020900595,318,3,12,3,2:44 PM,0:17,Boykins Free Throw 2 of 2 (6 PTS),,,70 - 70,TIE
+0020900595,321,6,2,3,2:44 PM,0:00,Miller S.FOUL (P2.PN),,,,
+0020900595,322,3,13,3,2:44 PM,0:00,,,Webster Free Throw 1 of 3 (10 PTS),71 - 70,-1
+0020900595,324,8,0,3,2:45 PM,0:00,,,SUB: Cunningham FOR Aldridge,,
+0020900595,325,3,14,3,2:45 PM,0:00,,,Webster Free Throw 2 of 3 (11 PTS),72 - 70,-2
+0020900595,327,3,15,3,2:45 PM,0:00,,,Webster Free Throw 3 of 3 (12 PTS),73 - 70,-3
+0020900595,329,2,1,3,2:45 PM,0:00,MISS Blatche 38' 3PT Jump Shot,,,,
+0020900595,330,4,0,3,2:45 PM,0:00,WIZARDS Rebound,,,,
+0020900595,331,13,0,3,2:45 PM,0:00,,,,73 - 70,-3
+0020900595,333,12,0,4,2:48 PM,12:00,,,,73 - 70,-3
+0020900595,334,6,2,4,2:49 PM,11:46,,,Pendergraph S.FOUL (P2.T1),,
+0020900595,335,3,11,4,2:49 PM,11:46,Foye Free Throw 1 of 2 (13 PTS),,,73 - 71,-2
+0020900595,337,3,12,4,2:49 PM,11:46,Foye Free Throw 2 of 2 (14 PTS),,,73 - 72,-1
+0020900595,340,1,1,4,2:49 PM,11:32,,,Webster 20' Jump Shot (14 PTS) (Fernandez 1 AST),75 - 72,-3
+0020900595,341,6,2,4,2:50 PM,11:18,,,Cunningham S.FOUL (P1.T2),,
+0020900595,342,8,0,4,2:50 PM,11:18,,,SUB: Aldridge FOR Cunningham,,
+0020900595,343,3,11,4,2:50 PM,11:18,Blatche Free Throw 1 of 2 (7 PTS),,,75 - 73,-2
+0020900595,345,3,12,4,2:50 PM,11:18,Blatche Free Throw 2 of 2 (8 PTS),,,75 - 74,-1
+0020900595,348,5,2,4,2:51 PM,11:10,Jamison STEAL (2 STL),,Blake Lost Ball Turnover (P2.T10),,
+0020900595,349,6,1,4,2:51 PM,11:00,,,Blake P.FOUL (P1.T3),,
+0020900595,350,2,1,4,2:51 PM,10:52,MISS Jamison 9' Jump Shot,,,,
+0020900595,351,4,0,4,2:51 PM,10:51,,,Aldridge REBOUND (Off:7 Def:5),,
+0020900595,352,2,1,4,2:52 PM,10:30,,,MISS Fernandez 27' 3PT Jump Shot,,
+0020900595,353,4,0,4,2:52 PM,10:29,Butler REBOUND (Off:2 Def:4),,,,
+0020900595,354,1,1,4,2:52 PM,10:18,Jamison 25' 3PT Jump Shot (23 PTS) (Foye 4 AST),,,75 - 77,2
+0020900595,355,1,80,4,2:52 PM,9:54,,,Blake 15' Step Back Jump Shot (10 PTS),77 - 77,TIE
+0020900595,356,2,5,4,2:53 PM,9:39,MISS Blatche 2' Layup,,Webster BLOCK (2 BLK),,
+0020900595,357,4,0,4,2:53 PM,9:38,,,Blake REBOUND (Off:0 Def:3),,
+0020900595,358,2,5,4,2:53 PM,9:27,,,MISS Aldridge 1' Layup,,
+0020900595,359,4,0,4,2:53 PM,9:26,,,Fernandez REBOUND (Off:1 Def:2),,
+0020900595,360,5,15,4,2:53 PM,9:17,,,Pendergraph Offensive Goaltending Turnover (P1.T11),,
+0020900595,363,8,0,4,2:53 PM,9:17,,,SUB: Miller FOR Webster,,
+0020900595,364,8,0,4,2:53 PM,9:17,,,SUB: Howard FOR Pendergraph,,
+0020900595,361,5,8,4,2:54 PM,9:08,Blatche 3 Second Violation Turnover (P2.T12),,,,
+0020900595,362,1,1,4,2:54 PM,8:50,,,Miller 16' Jump Shot (16 PTS),79 - 77,-2
+0020900595,366,8,0,4,2:57 PM,8:44,SUB: Miller FOR Blatche,,,,
+0020900595,367,8,0,4,2:57 PM,8:44,SUB: Haywood FOR Boykins,,,,
+0020900595,370,9,1,4,2:57 PM,8:44,WIZARDS Timeout: Regular (Full 4 Short 1),,,,
+0020900595,368,2,1,4,2:57 PM,8:33,MISS Butler 20' Jump Shot,,,,
+0020900595,369,4,0,4,2:57 PM,8:31,,,Aldridge REBOUND (Off:7 Def:6),,
+0020900595,371,6,4,4,2:58 PM,8:15,,,Aldridge OFF.Foul (P3),,
+0020900595,372,5,5,4,2:58 PM,8:15,,,Aldridge Foul Turnover (P3.T12),,
+0020900595,374,6,2,4,2:58 PM,7:54,,,Fernandez S.FOUL (P1.T4),,
+0020900595,375,3,11,4,2:59 PM,7:54,Jamison Free Throw 1 of 2 (24 PTS),,,79 - 78,-1
+0020900595,377,3,12,4,2:59 PM,7:54,Jamison Free Throw 2 of 2 (25 PTS),,,79 - 79,TIE
+0020900595,380,2,1,4,2:59 PM,7:34,,,MISS Fernandez 26' 3PT Jump Shot,,
+0020900595,381,4,0,4,3:00 PM,7:33,,,Trail Blazers Rebound,,
+0020900595,383,2,1,4,3:00 PM,7:21,,,MISS Blake 27' 3PT Jump Shot,,
+0020900595,384,4,0,4,3:00 PM,7:20,,,Aldridge REBOUND (Off:8 Def:6),,
+0020900595,385,6,3,4,3:00 PM,7:20,Haywood L.B.FOUL (P3.T1),,,,
+0020900595,386,8,0,4,3:00 PM,7:20,,,SUB: Bayless FOR Blake,,
+0020900595,387,8,0,4,3:00 PM,7:20,,,SUB: Webster FOR Fernandez,,
+0020900595,388,1,1,4,3:01 PM,7:08,,,Miller 16' Jump Shot (18 PTS),81 - 79,-2
+0020900595,389,1,5,4,3:01 PM,6:42,Jamison 2' Layup (27 PTS) (Miller 4 AST),,,81 - 81,TIE
+0020900595,390,2,1,4,3:02 PM,6:16,,,MISS Webster 10' Jump Shot,,
+0020900595,391,4,0,4,3:02 PM,6:14,Haywood REBOUND (Off:3 Def:4),,,,
+0020900595,392,2,5,4,3:02 PM,6:05,MISS Butler 3' Layup,,,,
+0020900595,393,4,0,4,3:02 PM,6:04,,,Howard REBOUND (Off:1 Def:2),,
+0020900595,394,6,2,4,3:02 PM,5:49,Foye S.FOUL (P1.T2),,,,
+0020900595,395,9,4,4,3:02 PM,5:49,,,,,
+0020900595,397,3,11,4,3:05 PM,5:49,,,Miller Free Throw 1 of 2 (19 PTS),82 - 81,-1
+0020900595,399,3,12,4,3:05 PM,5:49,,,Miller Free Throw 2 of 2 (20 PTS),83 - 81,-2
+0020900595,402,1,42,4,3:06 PM,5:31,Miller  Driving Layup (9 PTS),,,83 - 83,TIE
+0020900595,403,2,1,4,3:06 PM,5:07,,,MISS Aldridge 14' Jump Shot,,
+0020900595,404,4,0,4,3:06 PM,5:06,,,Miller REBOUND (Off:1 Def:2),,
+0020900595,405,1,5,4,3:06 PM,5:03,,,Miller 3' Layup (22 PTS),85 - 83,-2
+0020900595,406,6,2,4,3:07 PM,4:47,,,Miller S.FOUL (P5.PN),,
+0020900595,407,3,11,4,3:07 PM,4:47,Miller Free Throw 1 of 2 (10 PTS),,,85 - 84,-1
+0020900595,409,8,0,4,3:08 PM,4:47,,,SUB: Blake FOR Miller,,
+0020900595,410,3,12,4,3:08 PM,4:47,Miller Free Throw 2 of 2 (11 PTS),,,85 - 85,TIE
+0020900595,413,2,1,4,3:08 PM,4:25,,,MISS Bayless 20' Jump Shot,,
+0020900595,414,4,0,4,3:08 PM,4:24,Haywood REBOUND (Off:3 Def:5),,,,
+0020900595,415,5,1,4,3:09 PM,4:14,Miller Bad Pass Turnover (P4.T13),,,,
+0020900595,416,1,1,4,3:09 PM,4:01,,,Webster 24' 3PT Jump Shot (17 PTS) (Bayless 8 AST),88 - 85,-3
+0020900595,417,1,42,4,3:09 PM,3:50,Foye  Driving Layup (16 PTS),,,88 - 87,-1
+0020900595,418,6,4,4,3:10 PM,3:25,,,Howard OFF.Foul (P4),,
+0020900595,419,5,5,4,3:10 PM,3:25,,,Howard Foul Turnover (P2.T13),,
+0020900595,420,6,2,4,3:10 PM,3:13,,,Bayless S.FOUL (P3.PN),,
+0020900595,421,3,11,4,3:11 PM,3:13,MISS Jamison Free Throw 1 of 2,,,,
+0020900595,422,4,1,4,3:11 PM,3:13,WIZARDS Rebound,,,,
+0020900595,423,8,0,4,3:11 PM,3:13,,,SUB: Miller FOR Bayless,,
+0020900595,424,3,12,4,3:11 PM,3:13,Jamison Free Throw 2 of 2 (28 PTS),,,88 - 88,TIE
+0020900595,427,2,1,4,3:12 PM,2:52,,,MISS Webster 25' 3PT Jump Shot,,
+0020900595,428,4,0,4,3:12 PM,2:51,Foye REBOUND (Off:1 Def:2),,,,
+0020900595,429,1,41,4,3:12 PM,2:47,Miller 1' Running Layup (13 PTS) (Foye 5 AST),,,88 - 90,2
+0020900595,430,9,1,4,3:12 PM,2:45,,,Trail Blazers Timeout: Regular (Reg.4 Short 0),,
+0020900595,432,8,0,4,3:14 PM,2:45,,,SUB: Bayless FOR Blake,,
+0020900595,433,2,1,4,3:15 PM,2:27,,,MISS Miller 14' Jump Shot,,
+0020900595,434,4,0,4,3:15 PM,2:26,,,Howard REBOUND (Off:2 Def:2),,
+0020900595,435,2,1,4,3:15 PM,2:21,,,MISS Aldridge 18' Jump Shot,,
+0020900595,436,4,0,4,3:15 PM,2:20,Butler REBOUND (Off:2 Def:5),,,,
+0020900595,437,2,1,4,3:15 PM,1:59,MISS Foye 23' Jump Shot,,,,
+0020900595,438,4,0,4,3:15 PM,1:59,,,Howard REBOUND (Off:2 Def:3),,
+0020900595,439,2,1,4,3:16 PM,1:33,,,MISS Miller 30' 3PT Jump Shot,,
+0020900595,440,4,0,4,3:16 PM,1:32,Butler REBOUND (Off:2 Def:6),,,,
+0020900595,441,1,1,4,3:16 PM,1:09,Butler 20' Jump Shot (16 PTS),,,88 - 92,4
+0020900595,442,9,1,4,3:16 PM,1:09,,,Trail Blazers Timeout: Regular (Reg.5 Short 0),,
+0020900595,444,6,2,4,3:18 PM,1:05,Jamison S.FOUL (P4.T3),,,,
+0020900595,445,3,11,4,3:19 PM,1:05,,,Bayless Free Throw 1 of 2 (7 PTS),89 - 92,3
+0020900595,447,3,12,4,3:19 PM,1:05,,,Bayless Free Throw 2 of 2 (8 PTS),90 - 92,2
+0020900595,450,2,5,4,3:19 PM,0:44,MISS Butler 2' Layup,,,,
+0020900595,451,4,0,4,3:19 PM,0:43,Butler REBOUND (Off:3 Def:6),,,,
+0020900595,452,1,5,4,3:19 PM,0:42,Butler  Layup (18 PTS),,,90 - 94,4
+0020900595,453,2,1,4,3:20 PM,0:30,,,MISS Aldridge 18' Jump Shot,,
+0020900595,454,4,0,4,3:20 PM,0:28,,,Howard REBOUND (Off:3 Def:3),,
+0020900595,455,6,2,4,3:20 PM,0:23,Haywood S.FOUL (P4.PN),,,,
+0020900595,456,3,11,4,3:20 PM,0:23,,,MISS Bayless Free Throw 1 of 2,,
+0020900595,457,4,1,4,3:20 PM,0:23,,,Trail Blazers Rebound,,
+0020900595,458,8,0,4,3:20 PM,0:23,,,SUB: Cunningham FOR Howard,,
+0020900595,459,3,12,4,3:20 PM,0:23,,,Bayless Free Throw 2 of 2 (9 PTS),91 - 94,3
+0020900595,462,6,1,4,3:21 PM,0:18,,,Miller P.FOUL (P6.PN),,
+0020900595,463,8,0,4,3:21 PM,0:18,,,SUB: Blake FOR Miller,,
+0020900595,464,3,11,4,3:21 PM,0:18,Foye Free Throw 1 of 2 (17 PTS),,,91 - 95,4
+0020900595,466,3,12,4,3:22 PM,0:18,Foye Free Throw 2 of 2 (18 PTS),,,91 - 96,5
+0020900595,468,9,2,4,3:22 PM,0:18,,,Trail Blazers Timeout: Short (Reg.5 Short 1),,
+0020900595,470,8,0,4,3:23 PM,0:18,SUB: McGuire FOR Haywood,,,,
+0020900595,471,8,0,4,3:23 PM,0:18,,,SUB: Fernandez FOR Bayless,,
+0020900595,472,8,0,4,3:23 PM,0:18,,,SUB: Howard FOR Cunningham,,
+0020900595,473,6,5,4,3:24 PM,0:13,Miller IN.FOUL (P3.PN),,,,
+0020900595,474,3,10,4,3:24 PM,0:13,,,Webster Free Throw 1 of 1 (18 PTS),92 - 96,4
+0020900595,477,2,1,4,3:25 PM,0:07,,,MISS Fernandez 28' 3PT Jump Shot,,
+0020900595,478,4,0,4,3:25 PM,0:06,,,Aldridge REBOUND (Off:9 Def:6),,
+0020900595,479,5,39,4,3:25 PM,0:04,,,Blake Step Out of Bounds Turnover (P3.T14),,
+0020900595,480,8,0,4,3:25 PM,0:04,SUB: Boykins FOR McGuire,,,,
+0020900595,481,9,2,4,3:25 PM,0:04,WIZARDS Timeout: Short (Full 4 Short 2),,,,
+0020900595,483,6,1,4,3:27 PM,0:04,,,Blake P.FOUL (P2.PN),,
+0020900595,484,3,11,4,3:27 PM,0:04,MISS Foye Free Throw 1 of 2,,,,
+0020900595,485,4,1,4,3:27 PM,0:04,WIZARDS Rebound,,,,
+0020900595,486,8,0,4,3:27 PM,0:04,SUB: McGuire FOR Boykins,,,,
+0020900595,487,3,12,4,3:27 PM,0:04,Foye Free Throw 2 of 2 (19 PTS),,,92 - 97,5
+0020900595,489,9,2,4,3:27 PM,0:04,,,Trail Blazers Timeout: Short (Reg.5 Short 2),,
+0020900595,491,2,1,4,3:28 PM,0:01,,,MISS Webster 28' 3PT Jump Shot,,
+0020900595,492,4,0,4,3:28 PM,0:00,Jamison REBOUND (Off:1 Def:3),,,,
+0020900595,493,13,0,4,3:29 PM,0:00,,,,92 - 97,5

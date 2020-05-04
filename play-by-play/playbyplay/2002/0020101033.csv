@@ -1,0 +1,428 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020101033,1,12,0,1,7:47 PM,12:00,,,,,
+0020101033,2,10,0,1,7:47 PM,12:00,Jump Ball Thomas vs. Garnett: Tip to Jackson,,,,
+0020101033,3,10,0,1,7:47 PM,11:45,Jump Ball Thomas vs. Mitchell: Tip to Anderson,,,,
+0020101033,4,2,1,1,7:48 PM,11:33,MISS Thomas 5' Jump Shot,,,,
+0020101033,5,4,0,1,7:48 PM,11:31,,,Garnett REBOUND (Off:0 Def:1),,
+0020101033,6,2,1,1,7:48 PM,11:15,,,MISS Mitchell 19' Jump Shot,,
+0020101033,7,4,0,1,7:48 PM,11:14,,,Garnett REBOUND (Off:1 Def:1),,
+0020101033,8,5,4,1,7:48 PM,11:01,,,Szczerbiak Traveling Turnover (P1.T1),,
+0020101033,9,2,1,1,7:49 PM,10:50,MISS Sprewell 24' 3PT Jump Shot,,,,
+0020101033,10,4,0,1,7:49 PM,10:47,,,Garnett REBOUND (Off:1 Def:2),,
+0020101033,11,2,1,1,7:49 PM,10:35,,,MISS Garnett 11' Jump Shot,,
+0020101033,12,4,0,1,7:49 PM,10:33,,,Mitchell REBOUND (Off:1 Def:0),,
+0020101033,13,2,1,1,7:49 PM,10:27,,,MISS Garnett 17' Jump Shot,,
+0020101033,14,4,0,1,7:49 PM,10:25,Anderson REBOUND (Off:0 Def:1),,,,
+0020101033,15,2,1,1,7:49 PM,10:06,MISS Sprewell  3PT Jump Shot,,,,
+0020101033,16,4,0,1,7:49 PM,10:04,,,Garnett REBOUND (Off:1 Def:3),,
+0020101033,17,1,47,1,7:49 PM,9:56,,,Garnett 5' Turnaround Jump Shot (2 PTS),2 - 0,-2
+0020101033,18,1,47,1,7:50 PM,9:30,Weatherspoon 7' Turnaround Jump Shot (2 PTS),,,2 - 2,TIE
+0020101033,19,2,1,1,7:50 PM,9:15,,,MISS Garnett 12' Jump Shot,,
+0020101033,20,4,0,1,7:50 PM,9:13,Thomas REBOUND (Off:0 Def:1),,,,
+0020101033,21,7,5,1,7:50 PM,9:00,,,Garnett Violation:Kicked Ball,,
+0020101033,22,2,1,1,7:51 PM,8:52,MISS Anderson 24' 3PT Jump Shot,,,,
+0020101033,23,4,0,1,7:51 PM,8:50,,,Garnett REBOUND (Off:1 Def:4),,
+0020101033,24,5,1,1,7:51 PM,8:45,Anderson STEAL (1 STL),,Billups Bad Pass Turnover (P1.T2),,
+0020101033,25,1,42,1,7:51 PM,8:38,Jackson  Driving Layup (2 PTS) (Sprewell 1 AST),,,2 - 4,2
+0020101033,26,6,2,1,7:51 PM,8:26,Weatherspoon S.FOUL (P1.T1),,,,
+0020101033,27,3,11,1,7:51 PM,8:26,,,Nesterovic Free Throw 1 of 2 (1 PTS),3 - 4,1
+0020101033,28,3,12,1,7:52 PM,8:26,,,Nesterovic Free Throw 2 of 2 (2 PTS),4 - 4,TIE
+0020101033,29,5,2,1,7:52 PM,8:13,Anderson Lost Ball Turnover (P1.T1),,Szczerbiak STEAL (1 STL),,
+0020101033,30,2,1,1,7:52 PM,8:07,,,MISS Billups 14' Jump Shot,,
+0020101033,32,4,0,1,7:52 PM,8:05,,,Nesterovic REBOUND (Off:1 Def:0),,
+0020101033,31,2,4,1,7:52 PM,8:05,,,MISS Nesterovic  Tip Shot,,
+0020101033,33,4,0,1,7:52 PM,8:03,Weatherspoon REBOUND (Off:0 Def:1),,,,
+0020101033,34,2,1,1,7:52 PM,7:59,MISS Sprewell 16' Jump Shot,,,,
+0020101033,35,4,0,1,7:52 PM,7:58,,,Timberwolves Rebound,,
+0020101033,36,2,1,1,7:53 PM,7:50,,,MISS Szczerbiak 18' Jump Shot,,
+0020101033,37,4,0,1,7:53 PM,7:49,Jackson REBOUND (Off:0 Def:1),,,,
+0020101033,38,1,5,1,7:53 PM,7:46,Anderson  Layup (2 PTS) (Jackson 1 AST),,,4 - 6,2
+0020101033,39,5,4,1,7:53 PM,7:30,,,Garnett Traveling Turnover (P1.T3),,
+0020101033,40,2,1,1,7:54 PM,7:16,MISS Jackson 25' 3PT Jump Shot,,,,
+0020101033,41,4,0,1,7:54 PM,7:15,,,Mitchell REBOUND (Off:1 Def:1),,
+0020101033,42,2,1,1,7:54 PM,7:02,,,MISS Nesterovic 6' Jump Shot,,
+0020101033,43,4,0,1,7:54 PM,6:59,Anderson REBOUND (Off:0 Def:2),,,,
+0020101033,44,2,1,1,7:54 PM,6:45,MISS Weatherspoon 11' Jump Shot,,,,
+0020101033,45,4,0,1,7:54 PM,6:43,,,Billups REBOUND (Off:0 Def:1),,
+0020101033,46,9,1,1,7:54 PM,6:40,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,
+0020101033,48,1,5,1,7:57 PM,6:31,,,Mitchell  Layup (2 PTS) (Garnett 1 AST),6 - 6,TIE
+0020101033,49,6,2,1,7:57 PM,6:31,Weatherspoon S.FOUL (P2.T2),,,,
+0020101033,50,3,10,1,7:57 PM,6:31,,,Mitchell Free Throw 1 of 1 (3 PTS),7 - 6,-1
+0020101033,51,1,1,1,7:57 PM,6:10,Jackson 24' 3PT Jump Shot (5 PTS) (Sprewell 2 AST),,,7 - 9,2
+0020101033,52,1,1,1,7:58 PM,5:49,,,Garnett 22' Jump Shot (4 PTS) (Mitchell 1 AST),9 - 9,TIE
+0020101033,53,6,2,1,7:58 PM,5:32,,,Nesterovic S.FOUL (P1.T1),,
+0020101033,54,8,0,1,7:58 PM,5:32,SUB: Knight FOR Weatherspoon,,,,
+0020101033,55,3,11,1,7:58 PM,5:32,Anderson Free Throw 1 of 2 (3 PTS),,,9 - 10,1
+0020101033,56,3,12,1,7:59 PM,5:32,MISS Anderson Free Throw 2 of 2,,,,
+0020101033,57,4,0,1,7:59 PM,5:31,,,Garnett REBOUND (Off:1 Def:5),,
+0020101033,58,1,1,1,7:59 PM,5:15,,,Szczerbiak 14' Jump Shot (2 PTS) (Billups 1 AST),11 - 10,-1
+0020101033,59,1,1,1,7:59 PM,4:59,Thomas 4' Jump Shot (2 PTS),,,11 - 12,1
+0020101033,60,2,1,1,8:00 PM,4:38,,,MISS Billups 13' Jump Shot,,
+0020101033,61,4,0,1,8:00 PM,4:37,,,Szczerbiak REBOUND (Off:1 Def:0),,
+0020101033,62,1,5,1,8:00 PM,4:35,,,Szczerbiak  Layup (4 PTS),13 - 12,-1
+0020101033,63,2,5,1,8:00 PM,4:13,MISS Anderson  Layup,,Mitchell BLOCK (1 BLK),,
+0020101033,64,4,0,1,8:00 PM,4:12,KNICKS Rebound,,,,
+0020101033,65,8,0,1,8:00 PM,4:12,,,SUB: Peeler FOR Mitchell,,
+0020101033,66,1,1,1,8:01 PM,4:08,Thomas 15' Jump Shot (4 PTS),,,13 - 14,1
+0020101033,67,2,1,1,8:01 PM,3:50,,,MISS Billups 17' Jump Shot,,
+0020101033,68,4,0,1,8:01 PM,3:47,Thomas REBOUND (Off:0 Def:2),,,,
+0020101033,69,6,4,1,8:01 PM,3:39,Thomas OFF.Foul (P1),,,,
+0020101033,70,5,5,1,8:01 PM,3:39,Thomas Foul Turnover (P1.T2),,,,
+0020101033,71,5,2,1,8:02 PM,3:28,Sprewell STEAL (1 STL),,Szczerbiak Lost Ball Turnover (P2.T4),,
+0020101033,72,5,2,1,8:02 PM,3:23,Sprewell Lost Ball Turnover (P1.T3),,Nesterovic STEAL (1 STL),,
+0020101033,73,1,5,1,8:02 PM,3:17,,,Nesterovic  Layup (4 PTS) (Garnett 2 AST),15 - 14,-1
+0020101033,74,5,2,1,8:02 PM,3:06,Sprewell Lost Ball Turnover (P2.T4),,Szczerbiak STEAL (2 STL),,
+0020101033,76,5,3,1,8:03 PM,3:02,,,Szczerbiak Out Of Bounds Turnover (P3.T5),,
+0020101033,75,9,1,1,8:03 PM,3:02,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0020101033,78,8,0,1,8:04 PM,3:02,,,SUB: Smith FOR Nesterovic,,
+0020101033,79,2,1,1,8:05 PM,2:52,MISS Sprewell 14' Jump Shot,,,,
+0020101033,80,4,0,1,8:05 PM,2:50,,,Smith REBOUND (Off:0 Def:1),,
+0020101033,81,6,2,1,8:05 PM,2:31,Sprewell S.FOUL (P1.T3),,,,
+0020101033,82,3,11,1,8:06 PM,2:31,,,MISS Szczerbiak Free Throw 1 of 2,,
+0020101033,83,4,1,1,8:06 PM,2:31,,,Timberwolves Rebound,,
+0020101033,84,3,12,1,8:06 PM,2:31,,,Szczerbiak Free Throw 2 of 2 (5 PTS),16 - 14,-2
+0020101033,85,5,2,1,8:07 PM,2:11,Knight Lost Ball Turnover (P1.T5),,Billups STEAL (1 STL),,
+0020101033,86,2,1,1,8:07 PM,2:03,,,MISS Smith 10' Jump Shot,,
+0020101033,87,4,0,1,8:07 PM,2:01,,,Szczerbiak REBOUND (Off:2 Def:0),,
+0020101033,88,5,3,1,8:07 PM,2:00,,,Szczerbiak Out Of Bounds Turnover (P4.T6),,
+0020101033,89,2,1,1,8:07 PM,1:47,MISS Thomas 15' Jump Shot,,,,
+0020101033,90,4,0,1,8:07 PM,1:45,,,Garnett REBOUND (Off:1 Def:6),,
+0020101033,91,1,1,1,8:08 PM,1:31,,,Garnett 16' Jump Shot (6 PTS),18 - 14,-4
+0020101033,92,2,1,1,8:08 PM,1:06,MISS Knight 20' Jump Shot,,,,
+0020101033,93,4,0,1,8:08 PM,1:05,Thomas REBOUND (Off:1 Def:2),,,,
+0020101033,94,6,1,1,8:08 PM,0:56,,,Smith P.FOUL (P1.T2),,
+0020101033,95,8,0,1,8:08 PM,0:56,,,SUB: Lopez FOR Szczerbiak,,
+0020101033,96,1,1,1,8:09 PM,0:46,Knight 20' Jump Shot (2 PTS) (Jackson 2 AST),,,18 - 16,-2
+0020101033,97,5,1,1,8:09 PM,0:36,,,Smith Bad Pass Turnover (P1.T7),,
+0020101033,98,2,5,1,8:09 PM,0:29,MISS Jackson  Layup,,,,
+0020101033,99,4,0,1,8:09 PM,0:27,,,Garnett REBOUND (Off:1 Def:7),,
+0020101033,100,2,1,1,8:10 PM,0:04,,,MISS Peeler 24' 3PT Jump Shot,,
+0020101033,101,4,0,1,8:10 PM,0:02,,,Smith REBOUND (Off:1 Def:1),,
+0020101033,102,6,2,1,8:10 PM,0:02,Thomas S.FOUL (P2.T4),,,,
+0020101033,103,8,0,1,8:10 PM,0:02,SUB: Harrington FOR Thomas,,,,
+0020101033,104,8,0,1,8:10 PM,0:02,,,SUB: Pack FOR Billups,,
+0020101033,105,3,11,1,8:10 PM,0:02,,,Smith Free Throw 1 of 2 (1 PTS),19 - 16,-3
+0020101033,106,3,12,1,8:10 PM,0:02,,,Smith Free Throw 2 of 2 (2 PTS),20 - 16,-4
+0020101033,107,5,2,1,8:11 PM,0:00,Anderson Lost Ball Turnover (P2.T6),,,,
+0020101033,108,13,0,1,8:11 PM,0:00,,,,20 - 16,-4
+0020101033,110,12,0,2,8:14 PM,12:00,,,,20 - 16,-4
+0020101033,111,6,2,2,8:15 PM,11:41,Postell S.FOUL (P1.T1),,,,
+0020101033,112,3,11,2,8:15 PM,11:41,,,Lopez Free Throw 1 of 2 (1 PTS),21 - 16,-5
+0020101033,113,3,12,2,8:15 PM,11:41,,,Lopez Free Throw 2 of 2 (2 PTS),22 - 16,-6
+0020101033,114,2,1,2,8:15 PM,11:27,MISS Postell 26' 3PT Jump Shot,,,,
+0020101033,115,4,0,2,8:15 PM,11:25,KNICKS Rebound,,,,
+0020101033,116,6,3,2,8:15 PM,11:25,,,Pack L.B.FOUL (P1.T1),,
+0020101033,117,1,5,2,8:16 PM,11:21,Anderson  Layup (5 PTS) (Knight 1 AST),,,22 - 18,-4
+0020101033,118,1,1,2,8:16 PM,10:57,,,Peeler  3PT Jump Shot (3 PTS) (Pack 1 AST),25 - 18,-7
+0020101033,119,5,1,2,8:16 PM,10:40,Anderson Bad Pass Turnover (P3.T7),,Garnett STEAL (1 STL),,
+0020101033,120,5,1,2,8:17 PM,10:36,Anderson STEAL (2 STL),,Pack Bad Pass Turnover (P1.T8),,
+0020101033,121,6,2,2,8:17 PM,10:22,,,Lopez S.FOUL (P1.T2),,
+0020101033,122,3,11,2,8:17 PM,10:22,MISS Postell Free Throw 1 of 2,,,,
+0020101033,123,4,1,2,8:17 PM,10:22,KNICKS Rebound,,,,
+0020101033,124,3,12,2,8:17 PM,10:22,MISS Postell Free Throw 2 of 2,,,,
+0020101033,125,4,0,2,8:17 PM,10:21,,,Timberwolves Rebound,,
+0020101033,126,2,5,2,8:18 PM,10:13,,,MISS Garnett  Layup,,
+0020101033,127,4,0,2,8:18 PM,10:12,Anderson REBOUND (Off:0 Def:3),,,,
+0020101033,128,1,42,2,8:18 PM,10:05,Postell  Driving Layup (2 PTS),,,25 - 20,-5
+0020101033,129,1,1,2,8:18 PM,9:49,,,Peeler 25' 3PT Jump Shot (6 PTS) (Garnett 3 AST),28 - 20,-8
+0020101033,130,1,1,2,8:18 PM,9:30,Eisley 19' Jump Shot (2 PTS),,,28 - 22,-6
+0020101033,131,6,4,2,8:19 PM,9:08,,,Pack OFF.Foul (P2),,
+0020101033,132,5,5,2,8:19 PM,9:08,,,Pack Foul Turnover (P2.T9),,
+0020101033,133,8,0,2,8:19 PM,9:08,,,SUB: Trent FOR Garnett,,
+0020101033,134,8,0,2,8:19 PM,9:08,,,SUB: Billups FOR Pack,,
+0020101033,135,5,1,2,8:19 PM,8:56,Knight Bad Pass Turnover (P2.T8),,,,
+0020101033,136,9,4,2,8:19 PM,8:56,,,,,
+0020101033,138,1,8,2,8:22 PM,8:44,,,Smith  Slam Dunk (4 PTS),30 - 22,-8
+0020101033,139,6,1,2,8:22 PM,8:27,,,Trent P.FOUL (P1.T3),,
+0020101033,140,6,2,2,8:23 PM,8:21,,,Lopez S.FOUL (P2.T4),,
+0020101033,141,3,11,2,8:23 PM,8:21,Postell Free Throw 1 of 2 (3 PTS),,,30 - 23,-7
+0020101033,142,8,0,2,8:23 PM,8:21,,,SUB: Szczerbiak FOR Lopez,,
+0020101033,143,8,0,2,8:23 PM,8:21,SUB: Sprewell FOR Anderson,,,,
+0020101033,144,3,12,2,8:23 PM,8:21,Postell Free Throw 2 of 2 (4 PTS),,,30 - 24,-6
+0020101033,145,2,1,2,8:24 PM,8:03,,,MISS Szczerbiak 13' Jump Shot,,
+0020101033,146,4,0,2,8:24 PM,8:02,,,Timberwolves Rebound,,
+0020101033,147,6,3,2,8:24 PM,8:02,Knight L.B.FOUL (P1.T2),,,,
+0020101033,148,2,1,2,8:24 PM,7:53,,,MISS Peeler 13' Jump Shot,,
+0020101033,149,4,0,2,8:24 PM,7:50,,,Szczerbiak REBOUND (Off:3 Def:0),,
+0020101033,150,1,1,2,8:25 PM,7:39,,,Smith 13' Jump Shot (6 PTS),32 - 24,-8
+0020101033,151,1,42,2,8:25 PM,7:16,Postell  Driving Layup (6 PTS),,,32 - 26,-6
+0020101033,152,1,1,2,8:25 PM,6:56,,,Trent 10' Jump Shot (2 PTS),34 - 26,-8
+0020101033,153,2,1,2,8:26 PM,6:37,MISS Postell 14' Jump Shot,,,,
+0020101033,154,4,0,2,8:26 PM,6:36,,,Billups REBOUND (Off:0 Def:2),,
+0020101033,155,6,10,2,8:26 PM,6:32,,,,,
+0020101033,157,8,0,2,8:26 PM,6:32,SUB: Weatherspoon FOR Knight,,,,
+0020101033,158,9,1,2,8:26 PM,6:32,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0020101033,160,2,1,2,8:29 PM,6:18,,,MISS Billups 25' 3PT Jump Shot,,
+0020101033,161,4,0,2,8:29 PM,6:15,Weatherspoon REBOUND (Off:0 Def:2),,,,
+0020101033,162,2,1,2,8:29 PM,6:03,MISS Eisley 19' Jump Shot,,,,
+0020101033,163,4,0,2,8:29 PM,6:01,,,Smith REBOUND (Off:1 Def:2),,
+0020101033,164,2,5,2,8:29 PM,5:45,,,MISS Trent  Layup,,
+0020101033,165,4,0,2,8:29 PM,5:44,,,Smith REBOUND (Off:2 Def:2),,
+0020101033,166,1,1,2,8:29 PM,5:41,,,Smith 6' Jump Shot (8 PTS),36 - 26,-10
+0020101033,167,5,1,2,8:30 PM,5:23,Eisley Bad Pass Turnover (P1.T9),,Trent STEAL (1 STL),,
+0020101033,168,5,1,2,8:30 PM,5:17,Sprewell STEAL (2 STL),,Billups Bad Pass Turnover (P2.T10),,
+0020101033,169,2,1,2,8:30 PM,5:07,MISS Sprewell 12' Jump Shot,,Szczerbiak BLOCK (1 BLK),,
+0020101033,170,4,0,2,8:30 PM,5:06,KNICKS Rebound,,,,
+0020101033,171,5,1,2,8:31 PM,4:59,Sprewell Bad Pass Turnover (P3.T10),,Peeler STEAL (1 STL),,
+0020101033,172,6,2,2,8:31 PM,4:55,Eisley S.FOUL (P1.T3),,,,
+0020101033,173,8,0,2,8:31 PM,4:55,,,SUB: Garnett FOR Smith,,
+0020101033,174,3,11,2,8:31 PM,4:55,,,Szczerbiak Free Throw 1 of 2 (6 PTS),37 - 26,-11
+0020101033,175,8,0,2,8:31 PM,4:55,SUB: Jackson FOR Eisley,,,,
+0020101033,176,8,0,2,8:31 PM,4:55,SUB: Thomas FOR Harrington,,,,
+0020101033,177,3,12,2,8:31 PM,4:55,,,Szczerbiak Free Throw 2 of 2 (7 PTS),38 - 26,-12
+0020101033,178,2,5,2,8:32 PM,4:35,MISS Weatherspoon  Layup,,,,
+0020101033,179,4,0,2,8:32 PM,4:33,,,Trent REBOUND (Off:0 Def:1),,
+0020101033,180,1,63,2,8:32 PM,4:23,,,Trent 6' Fadeaway Jumper (4 PTS),40 - 26,-14
+0020101033,181,2,1,2,8:32 PM,4:05,MISS Jackson 24' 3PT Jump Shot,,,,
+0020101033,182,4,0,2,8:33 PM,4:03,,,Garnett REBOUND (Off:1 Def:8),,
+0020101033,183,2,5,2,8:33 PM,3:58,,,MISS Peeler  Layup,,
+0020101033,184,4,0,2,8:33 PM,3:57,,,Trent REBOUND (Off:1 Def:1),,
+0020101033,185,1,5,2,8:33 PM,3:55,,,Trent  Layup (6 PTS),42 - 26,-16
+0020101033,186,9,1,2,8:33 PM,3:53,KNICKS Timeout: Regular (Full 3 Short 0),,,,
+0020101033,188,8,0,2,8:35 PM,3:53,SUB: Anderson FOR Postell,,,,
+0020101033,189,5,2,2,8:35 PM,3:37,Weatherspoon Lost Ball Turnover (P1.T11),,Garnett STEAL (2 STL),,
+0020101033,190,1,42,2,8:35 PM,3:34,,,Szczerbiak  Driving Layup (9 PTS),44 - 26,-18
+0020101033,191,6,1,2,8:36 PM,3:17,,,Szczerbiak P.FOUL (P1.PN),,
+0020101033,192,3,11,2,8:36 PM,3:17,MISS Thomas Free Throw 1 of 2,,,,
+0020101033,193,4,1,2,8:36 PM,3:17,KNICKS Rebound,,,,
+0020101033,194,3,12,2,8:36 PM,3:17,Thomas Free Throw 2 of 2 (5 PTS),,,44 - 27,-17
+0020101033,195,2,1,2,8:37 PM,3:06,,,MISS Peeler 18' Jump Shot,,
+0020101033,196,4,0,2,8:37 PM,3:04,,,Billups REBOUND (Off:1 Def:2),,
+0020101033,197,1,47,2,8:37 PM,2:54,,,Trent 10' Turnaround Jump Shot (8 PTS),46 - 27,-19
+0020101033,198,2,3,2,8:37 PM,2:30,MISS Jackson 4' Hook Shot,,Garnett BLOCK (1 BLK),,
+0020101033,199,4,0,2,8:37 PM,2:28,Jackson REBOUND (Off:1 Def:1),,,,
+0020101033,200,5,11,2,8:37 PM,2:27,KNICKS Turnover: Shot Clock (T#12),,,,
+0020101033,201,1,1,2,8:38 PM,2:16,,,Szczerbiak 24' 3PT Jump Shot (12 PTS) (Billups 2 AST),49 - 27,-22
+0020101033,202,9,2,2,8:38 PM,2:12,KNICKS Timeout: Short (Full 3 Short 1),,,,
+0020101033,203,8,0,2,8:39 PM,2:12,SUB: Postell FOR Sprewell,,,,
+0020101033,204,1,1,2,8:39 PM,1:58,Anderson 21' Jump Shot (7 PTS) (Thomas 1 AST),,,49 - 29,-20
+0020101033,205,5,2,2,8:40 PM,1:43,Anderson STEAL (3 STL),,Szczerbiak Lost Ball Turnover (P5.T11),,
+0020101033,206,6,1,2,8:40 PM,1:40,,,Billups P.FOUL (P1.PN),,
+0020101033,207,3,11,2,8:40 PM,1:40,Jackson Free Throw 1 of 2 (6 PTS),,,49 - 30,-19
+0020101033,208,3,12,2,8:40 PM,1:40,Jackson Free Throw 2 of 2 (7 PTS),,,49 - 31,-18
+0020101033,209,1,1,2,8:41 PM,1:26,,,Garnett 15' Jump Shot (8 PTS),51 - 31,-20
+0020101033,210,6,2,2,8:41 PM,1:08,,,Garnett S.FOUL (P1.PN),,
+0020101033,211,3,11,2,8:41 PM,1:08,Jackson Free Throw 1 of 2 (8 PTS),,,51 - 32,-19
+0020101033,212,8,0,2,8:42 PM,1:08,,,SUB: Nesterovic FOR Trent,,
+0020101033,213,3,12,2,8:42 PM,1:08,Jackson Free Throw 2 of 2 (9 PTS),,,51 - 33,-18
+0020101033,214,1,1,2,8:42 PM,0:48,,,Szczerbiak 25' 3PT Jump Shot (15 PTS) (Billups 3 AST),54 - 33,-21
+0020101033,215,1,47,2,8:43 PM,0:26,Thomas 13' Turnaround Jump Shot (7 PTS),,,54 - 35,-19
+0020101033,216,6,2,2,8:43 PM,0:09,Weatherspoon S.FOUL (P3.T4),,,,
+0020101033,217,3,11,2,8:43 PM,0:09,,,Billups Free Throw 1 of 2 (1 PTS),55 - 35,-20
+0020101033,218,8,0,2,8:43 PM,0:09,,,SUB: Lopez FOR Szczerbiak,,
+0020101033,219,8,0,2,8:44 PM,0:09,SUB: Spencer FOR Weatherspoon,,,,
+0020101033,220,3,12,2,8:44 PM,0:09,,,Billups Free Throw 2 of 2 (2 PTS),56 - 35,-21
+0020101033,221,1,42,2,8:44 PM,0:00,Postell  Driving Layup (8 PTS),,,56 - 37,-19
+0020101033,222,2,1,2,8:44 PM,0:00,,,MISS Garnett 54' 3PT Jump Shot,,
+0020101033,223,4,0,2,8:44 PM,0:00,,,Timberwolves Rebound,,
+0020101033,224,13,0,2,8:44 PM,0:00,,,,56 - 37,-19
+0020101033,226,12,0,3,9:02 PM,12:00,,,,56 - 37,-19
+0020101033,227,2,1,3,9:02 PM,11:43,,,MISS Mitchell 19' Jump Shot,,
+0020101033,228,4,0,3,9:02 PM,11:41,Weatherspoon REBOUND (Off:0 Def:3),,,,
+0020101033,229,1,47,3,9:02 PM,11:22,Thomas 13' Turnaround Jump Shot (9 PTS) (Jackson 3 AST),,,56 - 39,-17
+0020101033,230,1,1,3,9:03 PM,11:06,,,Garnett 13' Jump Shot (10 PTS),58 - 39,-19
+0020101033,231,2,1,3,9:03 PM,10:48,MISS Thomas 15' Jump Shot,,Nesterovic BLOCK (1 BLK),,
+0020101033,232,4,0,3,9:03 PM,10:46,,,Szczerbiak REBOUND (Off:3 Def:1),,
+0020101033,233,2,5,3,9:03 PM,10:32,,,MISS Nesterovic  Layup,,
+0020101033,234,4,0,3,9:03 PM,10:29,Thomas REBOUND (Off:1 Def:3),,,,
+0020101033,235,6,1,3,9:03 PM,10:21,,,Nesterovic P.FOUL (P2.T1),,
+0020101033,236,2,1,3,9:04 PM,10:07,MISS Weatherspoon 6' Jump Shot,,,,
+0020101033,237,4,0,3,9:04 PM,10:05,,,Garnett REBOUND (Off:1 Def:9),,
+0020101033,238,6,2,3,9:04 PM,9:57,Anderson S.FOUL (P1.T1),,,,
+0020101033,239,3,11,3,9:04 PM,9:57,,,MISS Mitchell Free Throw 1 of 2,,
+0020101033,240,4,1,3,9:04 PM,9:57,,,Timberwolves Rebound,,
+0020101033,241,3,12,3,9:05 PM,9:57,,,MISS Mitchell Free Throw 2 of 2,,
+0020101033,242,4,0,3,9:05 PM,9:57,Thomas REBOUND (Off:1 Def:4),,,,
+0020101033,243,1,42,3,9:05 PM,9:37,Anderson  Driving Layup (9 PTS),,,58 - 41,-17
+0020101033,244,1,1,3,9:05 PM,9:26,,,Szczerbiak 7' Jump Shot (17 PTS) (Billups 4 AST),60 - 41,-19
+0020101033,245,2,1,3,9:06 PM,9:11,MISS Sprewell 19' Jump Shot,,,,
+0020101033,246,4,0,3,9:06 PM,9:09,,,Garnett REBOUND (Off:1 Def:10),,
+0020101033,247,1,5,3,9:06 PM,8:56,,,Billups  Layup (4 PTS) (Nesterovic 1 AST),62 - 41,-21
+0020101033,248,2,1,3,9:06 PM,8:36,MISS Anderson  3PT Jump Shot,,,,
+0020101033,249,4,0,3,9:06 PM,8:35,Jackson REBOUND (Off:2 Def:1),,,,
+0020101033,250,2,1,3,9:06 PM,8:31,MISS Anderson  3PT Jump Shot,,,,
+0020101033,251,4,0,3,9:06 PM,8:30,,,Timberwolves Rebound,,
+0020101033,252,6,3,3,9:06 PM,8:30,Thomas L.B.FOUL (P3.T2),,,,
+0020101033,253,1,5,3,9:07 PM,8:17,,,Szczerbiak  Layup (19 PTS) (Garnett 4 AST),64 - 41,-23
+0020101033,254,2,1,3,9:07 PM,8:04,MISS Jackson 18' Jump Shot,,,,
+0020101033,255,4,0,3,9:07 PM,8:01,,,Timberwolves Rebound,,
+0020101033,256,6,3,3,9:07 PM,8:01,Weatherspoon L.B.FOUL (P4.T3),,,,
+0020101033,257,1,63,3,9:08 PM,7:46,,,Billups 13' Fadeaway Jumper (6 PTS),66 - 41,-25
+0020101033,258,2,1,3,9:08 PM,7:19,MISS Jackson 24' 3PT Jump Shot,,,,
+0020101033,259,4,0,3,9:08 PM,7:17,Weatherspoon REBOUND (Off:1 Def:3),,,,
+0020101033,260,2,5,3,9:08 PM,7:13,MISS Jackson  Layup,,,,
+0020101033,261,4,0,3,9:08 PM,7:12,Jackson REBOUND (Off:3 Def:1),,,,
+0020101033,262,2,1,3,9:08 PM,7:11,MISS Jackson 6' Jump Shot,,Garnett BLOCK (2 BLK),,
+0020101033,264,4,0,3,9:08 PM,7:09,,,Garnett REBOUND (Off:1 Def:11),,
+0020101033,263,6,1,3,9:08 PM,7:07,Thomas P.FOUL (P4.T4),,,,
+0020101033,266,9,1,3,9:09 PM,7:07,KNICKS Timeout: Regular (Full 4 Short 1),,,,
+0020101033,268,8,0,3,9:11 PM,7:07,SUB: Spencer FOR Weatherspoon,,,,
+0020101033,269,8,0,3,9:11 PM,7:07,SUB: Knight FOR Thomas,,,,
+0020101033,270,8,0,3,9:11 PM,7:07,SUB: Ward FOR Jackson,,,,
+0020101033,271,1,1,3,9:11 PM,6:52,,,Mitchell 16' Jump Shot (5 PTS) (Billups 5 AST),68 - 41,-27
+0020101033,272,5,1,3,9:11 PM,6:32,Anderson Bad Pass Turnover (P4.T13),,Nesterovic STEAL (2 STL),,
+0020101033,273,2,1,3,9:12 PM,6:12,,,MISS Garnett 26' 3PT Jump Shot,,
+0020101033,274,4,0,3,9:12 PM,6:10,Spencer REBOUND (Off:0 Def:1),,,,
+0020101033,275,6,4,3,9:12 PM,6:05,Knight OFF.Foul (P2),,,,
+0020101033,276,5,5,3,9:12 PM,6:05,Knight Foul Turnover (P3.T14),,,,
+0020101033,277,1,1,3,9:12 PM,5:46,,,Szczerbiak 21' Jump Shot (21 PTS),70 - 41,-29
+0020101033,278,2,1,3,9:13 PM,5:26,MISS Ward 6' Jump Shot,,,,
+0020101033,279,4,0,3,9:13 PM,5:24,,,Billups REBOUND (Off:1 Def:3),,
+0020101033,280,6,2,3,9:13 PM,5:20,Anderson S.FOUL (P2.PN),,,,
+0020101033,281,3,11,3,9:13 PM,5:20,,,Szczerbiak Free Throw 1 of 2 (22 PTS),71 - 41,-30
+0020101033,282,8,0,3,9:13 PM,5:20,SUB: Postell FOR Sprewell,,,,
+0020101033,283,8,0,3,9:14 PM,5:20,,,SUB: Lopez FOR Mitchell,,
+0020101033,284,3,12,3,9:14 PM,5:20,,,Szczerbiak Free Throw 2 of 2 (23 PTS),72 - 41,-31
+0020101033,285,6,2,3,9:14 PM,5:06,,,Szczerbiak S.FOUL (P2.T2),,
+0020101033,286,3,11,3,9:14 PM,5:06,Anderson Free Throw 1 of 2 (10 PTS),,,72 - 42,-30
+0020101033,287,3,12,3,9:14 PM,5:06,Anderson Free Throw 2 of 2 (11 PTS),,,72 - 43,-29
+0020101033,288,1,7,3,9:15 PM,4:58,,,Nesterovic  Dunk (6 PTS) (Lopez 1 AST),74 - 43,-31
+0020101033,289,5,1,3,9:15 PM,4:39,Anderson Bad Pass Turnover (P5.T15),,,,
+0020101033,290,1,5,3,9:15 PM,4:24,,,Szczerbiak  Layup (25 PTS) (Garnett 5 AST),76 - 43,-33
+0020101033,291,9,1,3,9:16 PM,4:17,KNICKS Timeout: Regular (Full 5 Short 1),,,,
+0020101033,293,1,1,3,9:19 PM,4:01,Knight 15' Jump Shot (4 PTS) (Ward 1 AST),,,76 - 45,-31
+0020101033,294,1,63,3,9:19 PM,3:42,,,Garnett 13' Fadeaway Jumper (12 PTS),78 - 45,-33
+0020101033,295,2,1,3,9:19 PM,3:24,MISS Postell 7' Jump Shot,,,,
+0020101033,296,4,0,3,9:19 PM,3:21,,,Garnett REBOUND (Off:1 Def:12),,
+0020101033,297,2,1,3,9:19 PM,3:16,,,MISS Billups 25' 3PT Jump Shot,,
+0020101033,298,4,0,3,9:19 PM,3:13,Spencer REBOUND (Off:0 Def:2),,,,
+0020101033,299,5,8,3,9:20 PM,2:55,Spencer 3 Second Violation Turnover (P1.T16),,,,
+0020101033,300,2,1,3,9:20 PM,2:36,,,MISS Billups 16' Jump Shot,,
+0020101033,301,4,0,3,9:20 PM,2:34,Spencer REBOUND (Off:0 Def:3),,,,
+0020101033,302,2,1,3,9:21 PM,2:20,MISS Spencer 14' Jump Shot,,,,
+0020101033,303,4,0,3,9:21 PM,2:19,,,Garnett REBOUND (Off:1 Def:13),,
+0020101033,304,6,2,3,9:21 PM,2:13,Knight S.FOUL (P3.PN),,,,
+0020101033,305,8,0,3,9:21 PM,2:13,,,SUB: Pack FOR Billups,,
+0020101033,306,3,11,3,9:21 PM,2:13,,,Lopez Free Throw 1 of 2 (3 PTS),79 - 45,-34
+0020101033,307,8,0,3,9:21 PM,2:13,SUB: Thomas FOR Spencer,,,,
+0020101033,308,3,12,3,9:21 PM,2:13,,,Lopez Free Throw 2 of 2 (4 PTS),80 - 45,-35
+0020101033,309,5,1,3,9:22 PM,1:48,Anderson Bad Pass Turnover (P6.T17),,Szczerbiak STEAL (3 STL),,
+0020101033,310,2,1,3,9:22 PM,1:30,,,MISS Garnett 6' Jump Shot,,
+0020101033,311,4,0,3,9:22 PM,1:27,Anderson REBOUND (Off:0 Def:4),,,,
+0020101033,312,6,1,3,9:23 PM,1:17,,,Nesterovic P.FOUL (P3.T3),,
+0020101033,313,8,0,3,9:23 PM,1:17,,,SUB: Smith FOR Nesterovic,,
+0020101033,314,6,1,3,9:23 PM,1:13,,,Lopez P.FOUL (P3.PN),,
+0020101033,315,3,11,3,9:23 PM,1:13,Postell Free Throw 1 of 2 (9 PTS),,,80 - 46,-34
+0020101033,316,3,12,3,9:23 PM,1:13,MISS Postell Free Throw 2 of 2,,,,
+0020101033,317,4,0,3,9:24 PM,1:12,,,Pack REBOUND (Off:0 Def:1),,
+0020101033,318,2,1,3,9:24 PM,0:59,,,MISS Garnett 19' Jump Shot,,
+0020101033,319,4,0,3,9:24 PM,0:57,Anderson REBOUND (Off:0 Def:5),,,,
+0020101033,320,6,1,3,9:24 PM,0:55,,,Smith P.FOUL (P2.PN),,
+0020101033,321,6,11,3,9:24 PM,0:55,,,Smith T.FOUL (P2.PN),,
+0020101033,322,3,16,3,9:24 PM,0:55,Postell Free Throw Technical (10 PTS),,,80 - 47,-33
+0020101033,323,3,11,3,9:25 PM,0:55,Ward Free Throw 1 of 2 (1 PTS),,,80 - 48,-32
+0020101033,324,3,12,3,9:25 PM,0:55,Ward Free Throw 2 of 2 (2 PTS),,,80 - 49,-31
+0020101033,325,6,1,3,9:26 PM,0:43,Knight P.FOUL (P4.PN),,,,
+0020101033,326,3,11,3,9:26 PM,0:43,,,Smith Free Throw 1 of 2 (9 PTS),81 - 49,-32
+0020101033,327,3,12,3,9:26 PM,0:43,,,MISS Smith Free Throw 2 of 2,,
+0020101033,328,4,0,3,9:26 PM,0:42,,,Garnett REBOUND (Off:2 Def:13),,
+0020101033,329,2,1,3,9:27 PM,0:20,,,MISS Pack 19' Jump Shot,,
+0020101033,330,4,0,3,9:27 PM,0:18,,,Lopez REBOUND (Off:1 Def:0),,
+0020101033,331,2,1,3,9:27 PM,0:00,,,MISS Smith 16' Jump Shot,,
+0020101033,332,4,0,3,9:27 PM,0:00,,,Timberwolves Rebound,,
+0020101033,333,13,0,3,9:27 PM,0:00,,,,81 - 49,-32
+0020101033,335,12,0,4,9:30 PM,12:00,,,,81 - 49,-32
+0020101033,336,2,1,4,9:30 PM,11:45,MISS Postell 22' Jump Shot,,,,
+0020101033,337,4,0,4,9:30 PM,11:44,,,Timberwolves Rebound,,
+0020101033,338,2,1,4,9:31 PM,11:25,,,MISS Smith 11' Jump Shot,,
+0020101033,339,4,0,4,9:31 PM,11:23,Thomas REBOUND (Off:1 Def:5),,,,
+0020101033,340,5,2,4,9:31 PM,11:13,Eisley Lost Ball Turnover (P2.T18),,,,
+0020101033,341,6,1,4,9:31 PM,10:56,Harrington P.FOUL (P2.T1),,,,
+0020101033,342,1,1,4,9:32 PM,10:52,,,Peeler 21' Jump Shot (8 PTS) (Pack 2 AST),83 - 49,-34
+0020101033,344,1,47,4,9:32 PM,10:34,Sprewell 13' Turnaround Jump Shot (2 PTS),,,83 - 51,-32
+0020101033,345,2,1,4,9:33 PM,10:08,,,MISS Trent 14' Jump Shot,,
+0020101033,346,4,0,4,9:33 PM,10:07,Postell REBOUND (Off:0 Def:1),,,,
+0020101033,347,6,1,4,9:33 PM,9:56,,,Lopez P.FOUL (P4.T1),,
+0020101033,348,2,1,4,9:33 PM,9:48,MISS Thomas 11' Jump Shot,,,,
+0020101033,349,4,0,4,9:33 PM,9:45,,,Lopez REBOUND (Off:1 Def:1),,
+0020101033,350,6,1,4,9:33 PM,9:39,Sprewell P.FOUL (P2.T2),,,,
+0020101033,351,1,1,4,9:34 PM,9:28,,,Smith 19' Jump Shot (11 PTS) (Pack 3 AST),85 - 51,-34
+0020101033,352,1,42,4,9:34 PM,9:18,Thomas  Driving Layup (11 PTS) (Eisley 1 AST),,,85 - 53,-32
+0020101033,353,2,1,4,9:34 PM,9:04,,,MISS Peeler 11' Jump Shot,,
+0020101033,354,4,0,4,9:34 PM,9:02,Harrington REBOUND (Off:0 Def:1),,,,
+0020101033,355,6,2,4,9:35 PM,8:48,,,Peeler S.FOUL (P1.T2),,
+0020101033,356,9,4,4,9:35 PM,8:48,,,,,
+0020101033,358,3,11,4,9:37 PM,8:48,Thomas Free Throw 1 of 2 (12 PTS),,,85 - 54,-31
+0020101033,359,3,12,4,9:37 PM,8:48,Thomas Free Throw 2 of 2 (13 PTS),,,85 - 55,-30
+0020101033,360,5,2,4,9:38 PM,8:32,Sprewell STEAL (3 STL),,Trent Lost Ball Turnover (P1.T12),,
+0020101033,361,1,42,4,9:38 PM,8:28,Thomas  Driving Layup (15 PTS) (Sprewell 3 AST),,,85 - 57,-28
+0020101033,362,6,1,4,9:38 PM,8:16,Harrington P.FOUL (P3.T3),,,,
+0020101033,363,2,1,4,9:39 PM,8:02,,,MISS Trent 18' Jump Shot,,
+0020101033,364,4,0,4,9:39 PM,8:00,,,Smith REBOUND (Off:3 Def:2),,
+0020101033,365,6,2,4,9:39 PM,7:59,Eisley S.FOUL (P2.T4),,,,
+0020101033,366,3,11,4,9:39 PM,7:59,,,Smith Free Throw 1 of 2 (12 PTS),86 - 57,-29
+0020101033,367,3,12,4,9:39 PM,7:59,,,Smith Free Throw 2 of 2 (13 PTS),87 - 57,-30
+0020101033,368,1,1,4,9:40 PM,7:44,Harrington 7' Jump Shot (2 PTS) (Sprewell 4 AST),,,87 - 59,-28
+0020101033,369,2,1,4,9:40 PM,7:32,,,MISS Smith 21' Jump Shot,,
+0020101033,370,4,0,4,9:40 PM,7:30,Postell REBOUND (Off:0 Def:2),,,,
+0020101033,371,6,2,4,9:40 PM,7:17,,,Peeler S.FOUL (P2.T3),,
+0020101033,372,3,11,4,9:40 PM,7:17,MISS Harrington Free Throw 1 of 2,,,,
+0020101033,373,4,1,4,9:40 PM,7:17,KNICKS Rebound,,,,
+0020101033,374,3,12,4,9:40 PM,7:17,MISS Harrington Free Throw 2 of 2,,,,
+0020101033,375,4,0,4,9:41 PM,7:16,,,Trent REBOUND (Off:1 Def:2),,
+0020101033,376,7,5,4,9:41 PM,7:01,Eisley Violation:Kicked Ball,,,,
+0020101033,377,2,5,4,9:41 PM,6:48,,,MISS Lopez  Layup,,
+0020101033,378,4,0,4,9:41 PM,6:47,Harrington REBOUND (Off:0 Def:2),,,,
+0020101033,379,2,1,4,9:42 PM,6:43,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020101033,380,4,0,4,9:42 PM,6:40,,,Pack REBOUND (Off:0 Def:2),,
+0020101033,381,1,1,4,9:42 PM,6:24,,,Peeler 19' Jump Shot (10 PTS),89 - 59,-30
+0020101033,382,2,1,4,9:42 PM,6:07,MISS Postell 12' Jump Shot,,,,
+0020101033,383,4,0,4,9:42 PM,6:04,,,Smith REBOUND (Off:3 Def:3),,
+0020101033,384,1,1,4,9:42 PM,6:00,,,Peeler 17' Jump Shot (12 PTS) (Pack 4 AST),91 - 59,-32
+0020101033,385,9,1,4,9:42 PM,5:57,KNICKS Timeout: Regular (Full 6 Short 1),,,,
+0020101033,387,8,0,4,9:44 PM,5:57,,,SUB: Woods FOR Smith,,
+0020101033,388,8,0,4,9:44 PM,5:57,,,SUB: Jackson FOR Trent,,
+0020101033,389,6,1,4,9:45 PM,5:49,,,Pack P.FOUL (P3.T4),,
+0020101033,390,1,63,4,9:45 PM,5:42,Postell 12' Fadeaway Jumper (12 PTS),,,91 - 61,-30
+0020101033,391,2,1,4,9:45 PM,5:29,,,MISS Jackson 18' Jump Shot,,
+0020101033,392,4,0,4,9:45 PM,5:27,Postell REBOUND (Off:0 Def:3),,,,
+0020101033,393,1,1,4,9:46 PM,5:11,Harrington 19' Jump Shot (4 PTS) (Sprewell 5 AST),,,91 - 63,-28
+0020101033,394,2,1,4,9:46 PM,4:54,,,MISS Woods 10' Jump Shot,,
+0020101033,395,4,0,4,9:46 PM,4:52,,,Jackson REBOUND (Off:1 Def:0),,
+0020101033,396,1,1,4,9:46 PM,4:43,,,Jackson 8' Jump Shot (2 PTS),93 - 63,-30
+0020101033,397,1,1,4,9:47 PM,4:20,Postell 24' 3PT Jump Shot (15 PTS) (Eisley 2 AST),,,93 - 66,-27
+0020101033,398,5,4,4,9:47 PM,3:59,,,Lopez Traveling Turnover (P1.T13),,
+0020101033,399,8,0,4,9:47 PM,3:59,SUB: Weatherspoon FOR Thomas,,,,
+0020101033,400,2,1,4,9:48 PM,3:48,MISS Postell 14' Jump Shot,,,,
+0020101033,402,4,0,4,9:48 PM,3:45,Weatherspoon REBOUND (Off:2 Def:3),,,,
+0020101033,401,2,4,4,9:48 PM,3:45,MISS Weatherspoon  Tip Shot,,,,
+0020101033,403,4,0,4,9:48 PM,3:43,,,Jackson REBOUND (Off:1 Def:1),,
+0020101033,404,2,1,4,9:48 PM,3:27,,,MISS Jackson 22' Jump Shot,,
+0020101033,405,4,0,4,9:48 PM,3:25,,,Woods REBOUND (Off:1 Def:0),,
+0020101033,406,5,1,4,9:48 PM,3:22,Eisley STEAL (1 STL),,Woods Bad Pass Turnover (P1.T14),,
+0020101033,407,6,2,4,9:48 PM,3:06,,,Jackson S.FOUL (P1.PN),,
+0020101033,408,3,11,4,9:49 PM,3:06,Harrington Free Throw 1 of 2 (5 PTS),,,93 - 67,-26
+0020101033,409,3,12,4,9:49 PM,3:06,MISS Harrington Free Throw 2 of 2,,,,
+0020101033,410,4,0,4,9:49 PM,3:06,Eisley REBOUND (Off:1 Def:0),,,,
+0020101033,411,1,1,4,9:49 PM,3:00,Eisley 25' 3PT Jump Shot (5 PTS) (Sprewell 6 AST),,,93 - 70,-23
+0020101033,412,2,1,4,9:49 PM,2:47,,,MISS Lopez 12' Jump Shot,,
+0020101033,413,4,0,4,9:49 PM,2:44,Harrington REBOUND (Off:0 Def:3),,,,
+0020101033,414,2,5,4,9:50 PM,2:31,MISS Harrington  Layup,,,,
+0020101033,415,4,0,4,9:50 PM,2:29,,,Peeler REBOUND (Off:0 Def:1),,
+0020101033,416,6,2,4,9:50 PM,2:24,Weatherspoon S.FOUL (P5.PN),,,,
+0020101033,417,9,1,4,9:50 PM,2:24,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,
+0020101033,419,3,11,4,9:52 PM,2:24,,,MISS Lopez Free Throw 1 of 2,,
+0020101033,420,4,1,4,9:52 PM,2:24,,,Timberwolves Rebound,,
+0020101033,421,3,12,4,9:52 PM,2:24,,,Lopez Free Throw 2 of 2 (5 PTS),94 - 70,-24
+0020101033,422,6,1,4,9:53 PM,2:15,,,Jackson P.FOUL (P2.PN),,
+0020101033,423,3,11,4,9:53 PM,2:15,Postell Free Throw 1 of 2 (16 PTS),,,94 - 71,-23
+0020101033,424,3,12,4,9:53 PM,2:15,MISS Postell Free Throw 2 of 2,,,,
+0020101033,425,4,0,4,9:53 PM,2:14,,,Woods REBOUND (Off:1 Def:1),,
+0020101033,426,5,1,4,9:53 PM,2:10,Harrington STEAL (1 STL),,Woods Bad Pass Turnover (P2.T15),,
+0020101033,427,2,1,4,9:53 PM,2:07,MISS Harrington 11' Jump Shot,,,,
+0020101033,428,4,0,4,9:53 PM,2:05,,,Woods REBOUND (Off:1 Def:2),,
+0020101033,429,1,8,4,9:54 PM,1:54,,,Jackson  Slam Dunk (4 PTS) (Pack 5 AST),96 - 71,-25
+0020101033,430,6,1,4,9:54 PM,1:39,,,Pack P.FOUL (P4.PN),,
+0020101033,431,3,11,4,9:54 PM,1:39,Eisley Free Throw 1 of 2 (6 PTS),,,96 - 72,-24
+0020101033,432,3,12,4,9:54 PM,1:39,Eisley Free Throw 2 of 2 (7 PTS),,,96 - 73,-23
+0020101033,433,1,49,4,9:55 PM,1:29,,,Lopez  Driving Dunk (7 PTS) (Jackson 1 AST),98 - 73,-25
+0020101033,434,6,2,4,9:55 PM,1:20,,,Lopez S.FOUL (P5.PN),,
+0020101033,435,3,11,4,9:55 PM,1:20,Postell Free Throw 1 of 2 (17 PTS),,,98 - 74,-24
+0020101033,436,3,12,4,9:55 PM,1:20,Postell Free Throw 2 of 2 (18 PTS),,,98 - 75,-23
+0020101033,437,5,1,4,9:56 PM,1:09,Sprewell STEAL (4 STL),,Jackson Bad Pass Turnover (P1.T16),,
+0020101033,438,1,1,4,9:56 PM,0:48,Weatherspoon 13' Jump Shot (4 PTS) (Harrington 1 AST),,,98 - 77,-21
+0020101033,439,2,1,4,9:57 PM,0:32,,,MISS Lopez 18' Jump Shot,,
+0020101033,440,4,0,4,9:57 PM,0:31,Sprewell REBOUND (Off:0 Def:1),,,,
+0020101033,441,2,1,4,9:57 PM,0:17,MISS Eisley 26' 3PT Jump Shot,,,,
+0020101033,442,4,0,4,9:57 PM,0:15,,,Woods REBOUND (Off:1 Def:3),,
+0020101033,443,13,0,4,9:57 PM,0:00,,,,98 - 77,-21

@@ -1,0 +1,505 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020701084,0,12,0,1,7:30 PM,12:00,,,,,
+0020701084,1,10,0,1,7:30 PM,12:00,Jump Ball Boone vs. O'Neal: Tip to,,,,
+0020701084,53,7,4,1,7:30 PM,12:00,,,O'Neal Violation:Jump Ball,,
+0020701084,2,5,2,1,7:31 PM,11:51,Harris Lost Ball Turnover (P1.T1),,Nash STEAL (1 STL),,
+0020701084,3,5,1,1,7:31 PM,11:50,,,Nash Bad Pass Turnover (P1.T1),,
+0020701084,5,2,47,1,7:31 PM,11:24,MISS Krstic 11' Turnaround Jump Shot,,,,
+0020701084,6,4,0,1,7:31 PM,11:24,,,Stoudemire REBOUND (Off:0 Def:1),,
+0020701084,7,2,3,1,7:32 PM,11:02,,,MISS O'Neal 8' Hook Shot,,
+0020701084,8,4,0,1,7:32 PM,11:01,Carter REBOUND (Off:0 Def:1),,,,
+0020701084,9,1,1,1,7:32 PM,10:51,Krstic 18' Jump Shot (2 PTS) (Carter 1 AST),,,0 - 2,2
+0020701084,10,6,2,1,7:32 PM,10:38,Krstic S.FOUL (P1.T1),,,,
+0020701084,11,3,11,1,7:32 PM,10:38,,,O'Neal Free Throw 1 of 2 (1 PTS),1 - 2,1
+0020701084,12,3,12,1,7:33 PM,10:38,,,O'Neal Free Throw 2 of 2 (2 PTS),2 - 2,TIE
+0020701084,13,1,1,1,7:33 PM,10:23,Krstic 13' Jump Shot (4 PTS) (Jefferson 1 AST),,,2 - 4,2
+0020701084,14,1,7,1,7:33 PM,10:16,,,O'Neal  Dunk (4 PTS) (Nash 1 AST),4 - 4,TIE
+0020701084,15,1,1,1,7:34 PM,9:52,Krstic 17' Jump Shot (6 PTS) (Boone 1 AST),,,4 - 6,2
+0020701084,16,1,1,1,7:34 PM,9:33,,,Stoudemire 13' Jump Shot (2 PTS),6 - 6,TIE
+0020701084,17,2,1,1,7:34 PM,9:14,MISS Jefferson 24' 3PT Jump Shot,,,,
+0020701084,18,4,0,1,7:34 PM,9:13,,,Stoudemire REBOUND (Off:0 Def:2),,
+0020701084,19,2,1,1,7:34 PM,9:08,,,MISS Nash 25' 3PT Jump Shot,,
+0020701084,20,4,0,1,7:34 PM,9:07,Krstic REBOUND (Off:0 Def:1),,,,
+0020701084,21,2,1,1,7:35 PM,8:56,MISS Krstic 19' Jump Shot,,,,
+0020701084,22,4,0,1,7:35 PM,8:55,,,Nash REBOUND (Off:0 Def:1),,
+0020701084,23,2,1,1,7:35 PM,8:45,,,MISS Barbosa 19' Jump Shot,,
+0020701084,24,4,0,1,7:35 PM,8:44,Boone REBOUND (Off:0 Def:1),,,,
+0020701084,25,1,1,1,7:35 PM,8:34,Carter 17' Jump Shot (2 PTS),,,6 - 8,2
+0020701084,26,1,5,1,7:35 PM,8:27,,,Barbosa  Layup (2 PTS) (Nash 2 AST),8 - 8,TIE
+0020701084,27,6,1,1,7:35 PM,8:16,,,Nash P.FOUL (P1.T1),,
+0020701084,28,2,1,1,7:36 PM,7:59,MISS Harris 25' 3PT Jump Shot,,,,
+0020701084,29,4,0,1,7:36 PM,7:58,,,O'Neal REBOUND (Off:0 Def:1),,
+0020701084,30,2,1,1,7:36 PM,7:51,,,MISS Barbosa 18' Jump Shot,,
+0020701084,31,4,0,1,7:36 PM,7:50,Boone REBOUND (Off:0 Def:2),,,,
+0020701084,32,2,42,1,7:36 PM,7:43,MISS Harris  Driving Layup,,,,
+0020701084,33,4,0,1,7:36 PM,7:41,,,O'Neal REBOUND (Off:0 Def:2),,
+0020701084,34,2,1,1,7:36 PM,7:33,,,MISS Barbosa 23' Jump Shot,,
+0020701084,35,4,0,1,7:36 PM,7:32,Krstic REBOUND (Off:0 Def:2),,,,
+0020701084,36,6,1,1,7:37 PM,7:25,,,Bell P.FOUL (P1.T2),,
+0020701084,37,1,47,1,7:37 PM,7:15,Jefferson 17' Turnaround Jump Shot (2 PTS) (Carter 2 AST),,,8 - 10,2
+0020701084,38,1,1,1,7:37 PM,7:03,,,Stoudemire 8' Jump Shot (4 PTS) (Barbosa 1 AST),10 - 10,TIE
+0020701084,39,6,2,1,7:37 PM,7:03,Krstic S.FOUL (P2.T2),,,,
+0020701084,40,3,10,1,7:37 PM,7:03,,,MISS Stoudemire Free Throw 1 of 1,,
+0020701084,41,4,0,1,7:37 PM,7:02,Boone REBOUND (Off:0 Def:3),,,,
+0020701084,42,1,1,1,7:38 PM,6:47,Krstic 17' Jump Shot (8 PTS) (Harris 1 AST),,,10 - 12,2
+0020701084,43,2,1,1,7:38 PM,6:30,,,MISS Barbosa  3PT Jump Shot,,
+0020701084,44,4,0,1,7:38 PM,6:29,Krstic REBOUND (Off:0 Def:3),,,,
+0020701084,45,6,2,1,7:38 PM,6:26,,,Barbosa S.FOUL (P1.T3),,
+0020701084,46,3,11,1,7:38 PM,6:26,Krstic Free Throw 1 of 2 (9 PTS),,,10 - 13,3
+0020701084,47,3,12,1,7:39 PM,6:26,Krstic Free Throw 2 of 2 (10 PTS),,,10 - 14,4
+0020701084,48,2,46,1,7:39 PM,6:15,,,MISS Nash 7' Running Jump Shot,,
+0020701084,49,4,0,1,7:39 PM,6:14,,,Suns Rebound,,
+0020701084,50,8,0,1,7:39 PM,6:14,SUB: Williams FOR Krstic,,,,
+0020701084,51,1,1,1,7:40 PM,6:03,,,Bell  3PT Jump Shot (3 PTS) (Nash 3 AST),13 - 14,1
+0020701084,52,6,1,1,7:40 PM,5:49,,,Barbosa P.FOUL (P2.T4),,
+0020701084,54,9,1,1,7:40 PM,5:49,NETS Timeout: Regular (Full 1 Short 0),,,,
+0020701084,56,8,0,1,7:43 PM,5:49,,,SUB: Giricek FOR O'Neal,,
+0020701084,57,8,0,1,7:43 PM,5:49,,,SUB: Diaw FOR Barbosa,,
+0020701084,58,6,2,1,7:43 PM,5:40,,,Giricek S.FOUL (P1.PN),,
+0020701084,59,3,11,1,7:43 PM,5:40,Jefferson Free Throw 1 of 2 (3 PTS),,,13 - 15,2
+0020701084,60,3,12,1,7:43 PM,5:40,Jefferson Free Throw 2 of 2 (4 PTS),,,13 - 16,3
+0020701084,61,1,1,1,7:44 PM,5:26,,,Bell 18' Jump Shot (5 PTS) (Diaw 1 AST),15 - 16,1
+0020701084,62,1,1,1,7:44 PM,5:12,Carter 26' 3PT Jump Shot (5 PTS) (Harris 2 AST),,,15 - 19,4
+0020701084,63,2,63,1,7:44 PM,4:56,,,MISS Giricek 17' Fadeaway Jumper,,
+0020701084,64,4,0,1,7:44 PM,4:55,NETS Rebound,,,,
+0020701084,65,2,5,1,7:45 PM,4:43,MISS Jefferson  Layup,,,,
+0020701084,66,4,0,1,7:45 PM,4:42,,,Stoudemire REBOUND (Off:0 Def:3),,
+0020701084,67,5,2,1,7:45 PM,4:28,Boone STEAL (1 STL),,Stoudemire Lost Ball Turnover (P1.T2),,
+0020701084,68,5,2,1,7:45 PM,4:22,Harris Lost Ball Turnover (P2.T2),,Bell STEAL (1 STL),,
+0020701084,69,2,1,1,7:45 PM,4:07,,,MISS Giricek 25' 3PT Jump Shot,,
+0020701084,70,4,0,1,7:45 PM,4:06,,,Suns Rebound,,
+0020701084,71,6,4,1,7:46 PM,3:56,,,Stoudemire OFF.Foul (P1),,
+0020701084,72,5,5,1,7:46 PM,3:56,,,Stoudemire Foul Turnover (P2.T3),,
+0020701084,73,6,1,1,7:46 PM,3:48,,,Nash P.FOUL (P2.PN),,
+0020701084,74,3,11,1,7:46 PM,3:48,Harris Free Throw 1 of 2 (1 PTS),,,15 - 20,5
+0020701084,75,3,12,1,7:47 PM,3:48,Harris Free Throw 2 of 2 (2 PTS),,,15 - 21,6
+0020701084,76,2,3,1,7:47 PM,3:31,,,MISS Stoudemire 6' Hook Shot,,
+0020701084,77,4,0,1,7:47 PM,3:30,Boone REBOUND (Off:0 Def:4),,,,
+0020701084,78,1,1,1,7:47 PM,3:20,Boone 17' Jump Shot (2 PTS) (Jefferson 2 AST),,,15 - 23,8
+0020701084,79,1,43,1,7:47 PM,3:13,,,Diaw  Alley Oop Layup (2 PTS) (Nash 4 AST),17 - 23,6
+0020701084,80,1,43,1,7:48 PM,2:55,Jefferson  Alley Oop Layup (6 PTS) (Harris 3 AST),,,17 - 25,8
+0020701084,81,5,1,1,7:48 PM,2:42,Harris STEAL (1 STL),,Nash Bad Pass Turnover (P2.T4),,
+0020701084,82,5,1,1,7:48 PM,2:38,Harris Bad Pass Turnover (P3.T3),,Giricek STEAL (1 STL),,
+0020701084,83,2,1,1,7:48 PM,2:35,,,MISS Giricek 14' Jump Shot,,
+0020701084,84,4,0,1,7:48 PM,2:33,Carter REBOUND (Off:0 Def:2),,,,
+0020701084,85,2,66,1,7:48 PM,2:27,MISS Harris 8' Jump Bank Shot,,,,
+0020701084,86,4,0,1,7:48 PM,2:26,Harris REBOUND (Off:1 Def:0),,,,
+0020701084,87,1,5,1,7:48 PM,2:25,Harris  Layup (4 PTS),,,17 - 27,10
+0020701084,88,9,1,1,7:48 PM,2:16,,,Suns Timeout: Regular (Reg.1 Short 0),,
+0020701084,90,8,0,1,7:51 PM,2:16,,,SUB: Barbosa FOR Nash,,
+0020701084,91,8,0,1,7:51 PM,2:16,,,SUB: O'Neal FOR Stoudemire,,
+0020701084,92,1,1,1,7:51 PM,2:05,,,Bell 19' Jump Shot (7 PTS) (Barbosa 2 AST),19 - 27,8
+0020701084,93,2,1,1,7:51 PM,1:47,MISS Jefferson 18' Jump Shot,,,,
+0020701084,94,4,0,1,7:51 PM,1:46,,,Diaw REBOUND (Off:0 Def:1),,
+0020701084,95,2,42,1,7:51 PM,1:40,Williams BLOCK (1 BLK),,MISS Barbosa  Driving Layup,,
+0020701084,96,4,0,1,7:52 PM,1:39,,,Suns Rebound,,
+0020701084,97,8,0,1,7:52 PM,1:39,SUB: Williams FOR Harris,,,,
+0020701084,98,1,1,1,7:52 PM,1:22,,,Giricek 18' Jump Shot (2 PTS) (Diaw 2 AST),21 - 27,6
+0020701084,99,2,1,1,7:52 PM,1:06,MISS Carter 14' Jump Shot,,,,
+0020701084,100,4,0,1,7:52 PM,1:05,,,Barbosa REBOUND (Off:0 Def:1),,
+0020701084,101,5,2,1,7:53 PM,0:51,Carter STEAL (1 STL),,O'Neal Lost Ball Turnover (P1.T5),,
+0020701084,102,1,52,1,7:53 PM,0:46,Boone  Alley Oop Dunk (4 PTS) (Carter 3 AST),,,21 - 29,8
+0020701084,103,5,1,1,7:53 PM,0:33,Williams STEAL (1 STL),,Bell Bad Pass Turnover (P1.T6),,
+0020701084,104,1,3,1,7:53 PM,0:26,Williams 8' Hook Shot (2 PTS) (Williams 1 AST),,,21 - 31,10
+0020701084,105,6,4,1,7:53 PM,0:23,,,O'Neal OFF.Foul (P1),,
+0020701084,106,5,5,1,7:53 PM,0:23,,,O'Neal Foul Turnover (P2.T7),,
+0020701084,107,8,0,1,7:54 PM,0:23,SUB: Nachbar FOR Jefferson,,,,
+0020701084,108,2,73,1,7:54 PM,0:01,MISS Carter  Driving Reverse Layup,,,,
+0020701084,109,4,0,1,7:54 PM,0:00,,,Bell REBOUND (Off:0 Def:1),,
+0020701084,110,13,0,1,7:54 PM,0:00,,,,21 - 31,10
+0020701084,112,12,0,2,7:57 PM,12:00,,,,21 - 31,10
+0020701084,113,2,47,2,7:57 PM,11:44,,,MISS Diaw 15' Turnaround Jump Shot,,
+0020701084,114,4,0,2,7:57 PM,11:43,,,O'Neal REBOUND (Off:1 Def:2),,
+0020701084,115,6,1,2,7:57 PM,11:42,Carter P.FOUL (P1.T1),,,,
+0020701084,116,1,42,2,7:58 PM,11:25,,,Barbosa  Driving Layup (4 PTS),23 - 31,8
+0020701084,117,2,1,2,7:58 PM,11:06,MISS Carter 15' Jump Shot,,,,
+0020701084,118,4,0,2,7:58 PM,11:05,,,Stoudemire REBOUND (Off:0 Def:4),,
+0020701084,119,2,1,2,7:58 PM,10:55,,,MISS Barbosa 17' Jump Shot,,
+0020701084,120,4,0,2,7:58 PM,10:53,Boone REBOUND (Off:0 Def:5),,,,
+0020701084,121,5,1,2,7:58 PM,10:45,Williams Bad Pass Turnover (P1.T4),,Diaw STEAL (1 STL),,
+0020701084,123,1,42,2,7:59 PM,10:39,,,Barbosa  Driving Layup (6 PTS) (Giricek 1 AST),25 - 31,6
+0020701084,124,1,1,2,7:59 PM,10:23,Williams 10' Jump Shot (2 PTS),,,25 - 33,8
+0020701084,125,6,4,2,7:59 PM,10:20,,,O'Neal OFF.Foul (P2),,
+0020701084,126,5,5,2,7:59 PM,10:20,,,O'Neal Foul Turnover (P3.T8),,
+0020701084,127,8,0,2,7:59 PM,10:20,SUB: Diop FOR Boone,,,,
+0020701084,128,5,1,2,7:59 PM,10:10,Diop Bad Pass Turnover (P1.T5),,Barbosa STEAL (1 STL),,
+0020701084,129,1,42,2,7:59 PM,10:07,,,Barbosa  Driving Layup (8 PTS),27 - 33,6
+0020701084,130,2,1,2,8:00 PM,9:52,MISS Williams 16' Jump Shot,,,,
+0020701084,131,4,0,2,8:00 PM,9:51,Williams REBOUND (Off:1 Def:0),,,,
+0020701084,132,6,1,2,8:00 PM,9:31,,,Giricek P.FOUL (P2.T1),,
+0020701084,133,5,40,2,8:01 PM,9:24,Carter Out of Bounds Lost Ball Turnover (P1.T6),,,,
+0020701084,134,2,56,2,8:01 PM,9:13,,,MISS Diaw 5' Running Hook Shot,,
+0020701084,135,4,0,2,8:01 PM,9:12,,,O'Neal REBOUND (Off:2 Def:2),,
+0020701084,136,6,2,2,8:02 PM,9:11,Diop S.FOUL (P1.T2),,,,
+0020701084,140,3,11,2,8:09 PM,9:11,,,O'Neal Free Throw 1 of 2 (5 PTS),28 - 33,5
+0020701084,143,7,3,2,8:09 PM,9:11,Nachbar Violation:Lane,,,,
+0020701084,144,3,12,2,8:10 PM,9:11,,,MISS O'Neal Free Throw 2 of 2,,
+0020701084,145,4,0,2,8:10 PM,9:10,Diop REBOUND (Off:0 Def:1),,,,
+0020701084,146,1,46,2,8:10 PM,8:54,Carter 7' Running Jump Shot (7 PTS) (Williams 2 AST),,,28 - 35,7
+0020701084,147,2,42,2,8:10 PM,8:30,,,MISS Barbosa  Driving Layup,,
+0020701084,148,4,0,2,8:11 PM,8:28,Carter REBOUND (Off:0 Def:3),,,,
+0020701084,149,1,1,2,8:11 PM,8:15,Williams 17' Jump Shot (4 PTS),,,28 - 37,9
+0020701084,150,6,2,2,8:11 PM,7:53,Nachbar S.FOUL (P1.T3),,,,
+0020701084,151,9,4,2,8:11 PM,7:53,,,,,
+0020701084,153,8,0,2,8:14 PM,7:53,SUB: Jefferson FOR Carter,,,,
+0020701084,154,3,11,2,8:14 PM,7:53,,,Giricek Free Throw 1 of 2 (3 PTS),29 - 37,8
+0020701084,155,3,12,2,8:14 PM,7:53,,,Giricek Free Throw 2 of 2 (4 PTS),30 - 37,7
+0020701084,156,2,46,2,8:15 PM,7:33,MISS Jefferson 9' Running Jump Shot,,,,
+0020701084,157,4,0,2,8:15 PM,7:32,NETS Rebound,,,,
+0020701084,158,8,0,2,8:15 PM,7:32,,,SUB: Nash FOR Giricek,,
+0020701084,159,8,0,2,8:15 PM,7:32,,,SUB: Bell FOR O'Neal,,
+0020701084,160,2,1,2,8:15 PM,7:26,MISS Jefferson 17' Jump Shot,,,,
+0020701084,161,4,0,2,8:15 PM,7:24,,,Stoudemire REBOUND (Off:0 Def:5),,
+0020701084,162,6,2,2,8:15 PM,7:12,Diop S.FOUL (P2.T4),,,,
+0020701084,163,8,0,2,8:16 PM,7:12,SUB: Boone FOR Diop,,,,
+0020701084,164,3,11,2,8:16 PM,7:12,,,MISS Stoudemire Free Throw 1 of 2,,
+0020701084,165,4,1,2,8:16 PM,7:12,,,Suns Rebound,,
+0020701084,166,8,0,2,8:16 PM,7:12,SUB: Krstic FOR Williams,,,,
+0020701084,167,3,12,2,8:16 PM,7:12,,,MISS Stoudemire Free Throw 2 of 2,,
+0020701084,168,4,0,2,8:16 PM,7:11,Boone REBOUND (Off:0 Def:6),,,,
+0020701084,169,2,1,2,8:16 PM,6:53,MISS Williams 25' 3PT Jump Shot,,,,
+0020701084,170,4,0,2,8:16 PM,6:52,,,Stoudemire REBOUND (Off:0 Def:6),,
+0020701084,171,2,56,2,8:17 PM,6:30,,,MISS Diaw 8' Running Hook Shot,,
+0020701084,172,4,0,2,8:17 PM,6:29,Jefferson REBOUND (Off:0 Def:1),,,,
+0020701084,173,2,1,2,8:17 PM,6:18,MISS Krstic 20' Jump Shot,,,,
+0020701084,174,4,0,2,8:17 PM,6:17,,,Suns Rebound,,
+0020701084,175,6,3,2,8:17 PM,6:17,Boone L.B.FOUL (P1.PN),,,,
+0020701084,176,3,11,2,8:17 PM,6:17,,,Stoudemire Free Throw 1 of 2 (5 PTS),31 - 37,6
+0020701084,177,8,0,2,8:18 PM,6:17,SUB: Harris FOR Nachbar,,,,
+0020701084,178,3,12,2,8:18 PM,6:17,,,Stoudemire Free Throw 2 of 2 (6 PTS),32 - 37,5
+0020701084,179,2,1,2,8:18 PM,5:54,MISS Krstic 18' Jump Shot,,,,
+0020701084,180,4,0,2,8:18 PM,5:52,,,Diaw REBOUND (Off:0 Def:2),,
+0020701084,181,6,2,2,8:18 PM,5:48,Krstic S.FOUL (P3.PN),,,,
+0020701084,182,9,1,2,8:19 PM,5:48,NETS Timeout: Regular (Full 2 Short 0),,,,
+0020701084,184,8,0,2,8:21 PM,5:48,SUB: Nachbar FOR Williams,,,,
+0020701084,185,8,0,2,8:21 PM,5:48,SUB: Carter FOR Krstic,,,,
+0020701084,186,3,11,2,8:21 PM,5:48,,,MISS Stoudemire Free Throw 1 of 2,,
+0020701084,187,4,1,2,8:21 PM,5:48,,,Suns Rebound,,
+0020701084,188,3,12,2,8:21 PM,5:48,,,MISS Stoudemire Free Throw 2 of 2,,
+0020701084,189,4,0,2,8:21 PM,5:47,Nachbar REBOUND (Off:0 Def:1),,,,
+0020701084,190,2,1,2,8:22 PM,5:34,MISS Harris 22' Jump Shot,,,,
+0020701084,191,4,0,2,8:22 PM,5:33,,,Diaw REBOUND (Off:0 Def:3),,
+0020701084,192,2,42,2,8:22 PM,5:25,Boone BLOCK (1 BLK),,MISS Diaw  Driving Layup,,
+0020701084,193,4,0,2,8:22 PM,5:24,,,Suns Rebound,,
+0020701084,194,2,1,2,8:22 PM,5:21,,,MISS Nash 17' Jump Shot,,
+0020701084,195,4,0,2,8:22 PM,5:19,Jefferson REBOUND (Off:0 Def:2),,,,
+0020701084,197,7,2,2,8:22 PM,5:16,,,Stoudemire Violation:Defensive Goaltending,,
+0020701084,196,1,42,2,8:22 PM,5:16,Harris  Driving Layup (6 PTS) (Carter 4 AST),,,32 - 39,7
+0020701084,198,1,1,2,8:23 PM,5:07,,,Stoudemire 13' Jump Shot (8 PTS) (Barbosa 3 AST),34 - 39,5
+0020701084,199,1,46,2,8:23 PM,4:55,Jefferson 13' Running Jump Shot (8 PTS),,,34 - 41,7
+0020701084,200,6,2,2,8:23 PM,4:55,,,Diaw S.FOUL (P1.T2),,
+0020701084,201,3,10,2,8:23 PM,4:55,MISS Jefferson Free Throw 1 of 1,,,,
+0020701084,202,4,0,2,8:23 PM,4:54,,,Bell REBOUND (Off:0 Def:2),,
+0020701084,203,1,1,2,8:23 PM,4:35,,,Barbosa 24' 3PT Jump Shot (11 PTS) (Nash 5 AST),37 - 41,4
+0020701084,204,1,44,2,8:24 PM,4:13,Jefferson  Reverse Layup (10 PTS) (Harris 4 AST),,,37 - 43,6
+0020701084,205,1,1,2,8:24 PM,3:57,,,Diaw 18' Jump Shot (4 PTS) (Nash 6 AST),39 - 43,4
+0020701084,206,6,4,2,8:24 PM,3:52,Harris OFF.Foul (P1),,,,
+0020701084,207,5,5,2,8:24 PM,3:52,Harris Foul Turnover (P4.T7),,,,
+0020701084,208,2,1,2,8:25 PM,3:36,,,MISS Bell  3PT Jump Shot,,
+0020701084,209,4,0,2,8:25 PM,3:35,,,Bell REBOUND (Off:1 Def:2),,
+0020701084,210,6,2,2,8:26 PM,3:22,Boone S.FOUL (P2.PN),,,,
+0020701084,211,3,11,2,8:26 PM,3:22,,,Stoudemire Free Throw 1 of 2 (9 PTS),40 - 43,3
+0020701084,212,3,12,2,8:26 PM,3:22,,,Stoudemire Free Throw 2 of 2 (10 PTS),41 - 43,2
+0020701084,213,2,1,2,8:27 PM,3:01,MISS Carter 24' 3PT Jump Shot,,,,
+0020701084,214,4,0,2,8:27 PM,3:00,Jefferson REBOUND (Off:1 Def:2),,,,
+0020701084,215,2,1,2,8:27 PM,2:50,MISS Carter 11' Jump Shot,,,,
+0020701084,216,4,0,2,8:27 PM,2:49,NETS Rebound,,,,
+0020701084,217,9,1,2,8:27 PM,2:49,,,Suns Timeout: Regular (Reg.2 Short 0),,
+0020701084,219,8,0,2,8:29 PM,2:49,SUB: Williams FOR Boone,,,,
+0020701084,220,8,0,2,8:29 PM,2:49,,,SUB: O'Neal FOR Diaw,,
+0020701084,221,6,2,2,8:30 PM,2:39,,,Bell S.FOUL (P2.T3),,
+0020701084,222,3,11,2,8:30 PM,2:39,Carter Free Throw 1 of 2 (8 PTS),,,41 - 44,3
+0020701084,223,6,11,2,8:30 PM,2:39,,,Nash T.FOUL (P2.T3),,
+0020701084,224,3,16,2,8:31 PM,2:39,Carter Free Throw Technical (9 PTS),,,41 - 45,4
+0020701084,225,3,12,2,8:31 PM,2:39,Carter Free Throw 2 of 2 (10 PTS),,,41 - 46,5
+0020701084,226,5,1,2,8:32 PM,2:21,Jefferson STEAL (1 STL),,Nash Bad Pass Turnover (P3.T9),,
+0020701084,227,6,1,2,8:32 PM,2:20,,,Bell P.FOUL (P3.T4),,
+0020701084,228,6,4,2,8:32 PM,2:10,Carter OFF.Foul (P2),,,,
+0020701084,229,5,5,2,8:32 PM,2:10,Carter Foul Turnover (P2.T8),,,,
+0020701084,230,6,1,2,8:33 PM,1:52,Carter P.FOUL (P3.PN),,,,
+0020701084,231,3,11,2,8:33 PM,1:52,,,Stoudemire Free Throw 1 of 2 (11 PTS),42 - 46,4
+0020701084,232,8,0,2,8:33 PM,1:52,SUB: Williams FOR Carter,,,,
+0020701084,233,3,12,2,8:33 PM,1:52,,,Stoudemire Free Throw 2 of 2 (12 PTS),43 - 46,3
+0020701084,234,2,42,2,8:33 PM,1:35,MISS Nachbar  Driving Layup,,Stoudemire BLOCK (1 BLK),,
+0020701084,235,4,0,2,8:34 PM,1:34,NETS Rebound,,,,
+0020701084,236,2,1,2,8:34 PM,1:28,MISS Nachbar 20' Jump Shot,,,,
+0020701084,237,4,0,2,8:34 PM,1:27,,,Bell REBOUND (Off:1 Def:3),,
+0020701084,238,6,1,2,8:34 PM,1:22,Williams P.FOUL (P1.PN),,,,
+0020701084,239,3,11,2,8:34 PM,1:22,,,O'Neal Free Throw 1 of 2 (6 PTS),44 - 46,2
+0020701084,240,3,12,2,8:35 PM,1:22,,,O'Neal Free Throw 2 of 2 (7 PTS),45 - 46,1
+0020701084,241,1,1,2,8:35 PM,1:06,Nachbar  3PT Jump Shot (3 PTS) (Williams 3 AST),,,45 - 49,4
+0020701084,245,7,2,2,8:35 PM,1:03,Williams Violation:Defensive Goaltending,,,,
+0020701084,242,1,42,2,8:35 PM,1:03,,,Barbosa  Driving Layup (13 PTS),47 - 49,2
+0020701084,243,6,2,2,8:35 PM,1:03,Williams S.FOUL (P1.PN),,,,
+0020701084,244,8,0,2,8:36 PM,1:03,,,SUB: Giricek FOR Bell,,
+0020701084,246,3,10,2,8:36 PM,1:03,,,Barbosa Free Throw 1 of 1 (14 PTS),48 - 49,1
+0020701084,248,1,42,2,8:36 PM,0:47,Williams  Driving Layup (6 PTS),,,48 - 51,3
+0020701084,249,6,2,2,8:36 PM,0:36,Williams S.FOUL (P2.PN),,,,
+0020701084,250,3,11,2,8:37 PM,0:36,,,MISS O'Neal Free Throw 1 of 2,,
+0020701084,251,4,1,2,8:37 PM,0:36,,,Suns Rebound,,
+0020701084,252,3,12,2,8:37 PM,0:36,,,MISS O'Neal Free Throw 2 of 2,,
+0020701084,253,4,0,2,8:37 PM,0:34,Williams REBOUND (Off:1 Def:1),,,,
+0020701084,254,2,52,2,8:37 PM,0:18,MISS Williams  Alley Oop Dunk,,,,
+0020701084,255,4,0,2,8:37 PM,0:17,,,O'Neal REBOUND (Off:2 Def:3),,
+0020701084,256,1,66,2,8:38 PM,0:00,,,Stoudemire 7' Jump Bank Shot (14 PTS) (O'Neal 1 AST),50 - 51,1
+0020701084,257,6,2,2,8:38 PM,0:00,Williams S.FOUL (P2.PN),,,,
+0020701084,261,18,0,2,8:38 PM,0:00,,,,50 - 51,1
+0020701084,258,6,11,2,8:38 PM,0:00,Williams T.FOUL (P2.PN),,,,
+0020701084,260,3,16,2,8:39 PM,0:00,,,Nash Free Throw Technical (1 PTS),51 - 51,TIE
+0020701084,262,8,0,2,8:40 PM,0:00,SUB: Diop FOR Williams,,,,
+0020701084,263,3,10,2,8:40 PM,0:00,,,Stoudemire Free Throw 1 of 1 (15 PTS),52 - 51,-1
+0020701084,264,13,0,2,8:40 PM,0:00,,,,52 - 51,-1
+0020701084,267,12,0,3,8:56 PM,12:00,,,,52 - 51,-1
+0020701084,268,1,5,3,8:56 PM,11:44,,,Stoudemire  Layup (17 PTS) (O'Neal 2 AST),54 - 51,-3
+0020701084,269,5,1,3,8:57 PM,11:27,Carter Bad Pass Turnover (P3.T9),,,,
+0020701084,270,6,2,3,8:57 PM,11:07,Boone S.FOUL (P3.T1),,,,
+0020701084,271,3,11,3,8:57 PM,11:07,,,Stoudemire Free Throw 1 of 2 (18 PTS),55 - 51,-4
+0020701084,272,3,12,3,8:58 PM,11:07,,,Stoudemire Free Throw 2 of 2 (19 PTS),56 - 51,-5
+0020701084,273,2,42,3,8:58 PM,10:50,MISS Carter  Driving Layup,,O'Neal BLOCK (1 BLK),,
+0020701084,274,4,0,3,8:58 PM,10:49,NETS Rebound,,,,
+0020701084,275,2,1,3,8:58 PM,10:43,MISS Krstic 15' Jump Shot,,,,
+0020701084,276,4,0,3,8:58 PM,10:41,,,Barbosa REBOUND (Off:0 Def:2),,
+0020701084,277,1,1,3,8:59 PM,10:35,,,Barbosa  3PT Jump Shot (17 PTS) (Stoudemire 1 AST),59 - 51,-8
+0020701084,278,6,1,3,8:59 PM,10:23,,,Barbosa P.FOUL (P3.T1),,
+0020701084,279,6,1,3,8:59 PM,10:23,,,Barbosa P.FOUL (P4.T2),,
+0020701084,280,8,0,3,9:00 PM,10:23,,,SUB: Giricek FOR Barbosa,,
+0020701084,281,2,42,3,9:00 PM,10:14,MISS Jefferson  Driving Layup,,,,
+0020701084,282,4,0,3,9:00 PM,10:13,Boone REBOUND (Off:1 Def:6),,,,
+0020701084,283,2,4,3,9:00 PM,10:12,MISS Boone  Tip Shot,,,,
+0020701084,284,4,0,3,9:00 PM,10:11,,,O'Neal REBOUND (Off:2 Def:4),,
+0020701084,285,1,1,3,9:00 PM,10:05,,,Bell 21' Jump Shot (9 PTS),61 - 51,-10
+0020701084,286,9,1,3,9:00 PM,10:04,NETS Timeout: Regular (Full 3 Short 0),,,,
+0020701084,287,1,7,3,9:03 PM,9:52,Boone  Dunk (6 PTS) (Jefferson 3 AST),,,61 - 53,-8
+0020701084,288,5,2,3,9:03 PM,9:31,Carter STEAL (2 STL),,Stoudemire Lost Ball Turnover (P3.T10),,
+0020701084,289,1,1,3,9:03 PM,9:12,Krstic 18' Jump Shot (12 PTS) (Harris 5 AST),,,61 - 55,-6
+0020701084,290,2,1,3,9:04 PM,8:58,,,MISS Nash 18' Jump Shot,,
+0020701084,291,4,0,3,9:04 PM,8:57,Harris REBOUND (Off:1 Def:1),,,,
+0020701084,292,1,1,3,9:04 PM,8:52,Harris 20' Jump Shot (8 PTS),,,61 - 57,-4
+0020701084,295,5,8,3,9:04 PM,8:38,,,O'Neal 3 Second Violation Turnover (P4.T11),,
+0020701084,296,5,1,3,9:04 PM,8:30,Jefferson Bad Pass Turnover (P1.T10),,,,
+0020701084,297,1,1,3,9:05 PM,8:10,,,Giricek 18' Jump Shot (6 PTS) (Stoudemire 2 AST),63 - 57,-6
+0020701084,298,2,42,3,9:05 PM,7:58,MISS Carter  Driving Layup,,,,
+0020701084,299,4,0,3,9:05 PM,7:56,,,Stoudemire REBOUND (Off:0 Def:7),,
+0020701084,300,2,1,3,9:05 PM,7:51,,,MISS Giricek  3PT Jump Shot,,
+0020701084,301,4,0,3,9:05 PM,7:50,Boone REBOUND (Off:1 Def:7),,,,
+0020701084,302,6,1,3,9:05 PM,7:50,,,Stoudemire P.FOUL (P2.T3),,
+0020701084,303,6,16,3,9:06 PM,7:50,,,,,
+0020701084,304,6,2,3,9:06 PM,7:37,,,Stoudemire S.FOUL (P3.T4),,
+0020701084,305,3,11,3,9:07 PM,7:37,Boone Free Throw 1 of 2 (7 PTS),,,63 - 58,-5
+0020701084,306,3,12,3,9:07 PM,7:37,MISS Boone Free Throw 2 of 2,,,,
+0020701084,307,4,0,3,9:07 PM,7:36,,,Stoudemire REBOUND (Off:0 Def:8),,
+0020701084,308,2,1,3,9:07 PM,7:16,,,MISS Giricek 13' Jump Shot,,
+0020701084,309,4,0,3,9:07 PM,7:14,Boone REBOUND (Off:1 Def:8),,,,
+0020701084,310,1,1,3,9:08 PM,7:08,Carter 24' 3PT Jump Shot (13 PTS) (Harris 6 AST),,,63 - 61,-2
+0020701084,311,1,42,3,9:08 PM,6:48,,,Stoudemire  Driving Layup (21 PTS),65 - 61,-4
+0020701084,312,2,1,3,9:08 PM,6:36,MISS Harris 17' Jump Shot,,,,
+0020701084,313,4,0,3,9:08 PM,6:35,,,Stoudemire REBOUND (Off:0 Def:9),,
+0020701084,314,2,3,3,9:08 PM,6:27,,,MISS O'Neal 6' Hook Shot,,
+0020701084,315,4,0,3,9:08 PM,6:25,Krstic REBOUND (Off:0 Def:4),,,,
+0020701084,316,5,1,3,9:08 PM,6:20,Harris Bad Pass Turnover (P5.T11),,Stoudemire STEAL (1 STL),,
+0020701084,317,2,1,3,9:08 PM,6:14,,,MISS Nash 26' 3PT Jump Shot,,
+0020701084,318,4,0,3,9:08 PM,6:13,,,Stoudemire REBOUND (Off:1 Def:9),,
+0020701084,319,1,8,3,9:09 PM,6:00,,,O'Neal  Slam Dunk (9 PTS) (Giricek 2 AST),67 - 61,-6
+0020701084,320,6,4,3,9:09 PM,5:43,Carter OFF.Foul (P4),,,,
+0020701084,321,5,5,3,9:09 PM,5:43,Carter Foul Turnover (P4.T12),,,,
+0020701084,322,1,8,3,9:10 PM,5:33,,,Stoudemire  Slam Dunk (23 PTS) (Nash 7 AST),69 - 61,-8
+0020701084,323,9,2,3,9:10 PM,5:31,NETS Timeout: Short (Full 3 Short 1),,,,
+0020701084,326,2,46,3,9:11 PM,5:20,MISS Harris 13' Running Jump Shot,,,,
+0020701084,327,4,0,3,9:11 PM,5:19,,,Stoudemire REBOUND (Off:1 Def:10),,
+0020701084,328,1,42,3,9:11 PM,5:13,,,Stoudemire  Driving Layup (25 PTS) (Nash 8 AST),71 - 61,-10
+0020701084,329,2,5,3,9:11 PM,4:57,MISS Jefferson  Layup,,O'Neal BLOCK (2 BLK),,
+0020701084,330,4,0,3,9:11 PM,4:55,,,O'Neal REBOUND (Off:2 Def:5),,
+0020701084,331,1,8,3,9:12 PM,4:49,,,Stoudemire  Slam Dunk (27 PTS) (Giricek 3 AST),73 - 61,-12
+0020701084,332,6,11,3,9:12 PM,4:49,,,,,
+0020701084,333,3,16,3,9:12 PM,4:49,,,Nash Free Throw Technical (2 PTS),74 - 61,-13
+0020701084,334,8,0,3,9:12 PM,4:49,SUB: Williams FOR Carter,,,,
+0020701084,335,8,0,3,9:12 PM,4:49,,,SUB: Diaw FOR O'Neal,,
+0020701084,336,6,11,3,9:13 PM,4:46,,,,,
+0020701084,337,3,16,3,9:13 PM,4:46,,,MISS Nash Free Throw Technical,,
+0020701084,338,4,1,3,9:13 PM,4:46,NETS Rebound,,,,
+0020701084,339,1,1,3,9:13 PM,4:31,Williams 25' 3PT Jump Shot (9 PTS) (Krstic 1 AST),,,74 - 64,-10
+0020701084,340,2,1,3,9:14 PM,4:06,,,MISS Diaw 22' Jump Shot,,
+0020701084,341,4,0,3,9:14 PM,4:05,Williams REBOUND (Off:0 Def:1),,,,
+0020701084,342,2,42,3,9:14 PM,3:59,MISS Jefferson  Driving Layup,,,,
+0020701084,343,4,0,3,9:14 PM,3:58,,,Giricek REBOUND (Off:0 Def:1),,
+0020701084,344,6,2,3,9:14 PM,3:41,Harris S.FOUL (P2.T2),,,,
+0020701084,345,3,11,3,9:15 PM,3:41,,,MISS Diaw Free Throw 1 of 2,,
+0020701084,346,4,1,3,9:15 PM,3:41,,,Suns Rebound,,
+0020701084,347,8,0,3,9:15 PM,3:41,SUB: Williams FOR Krstic,,,,
+0020701084,348,3,12,3,9:15 PM,3:41,,,Diaw Free Throw 2 of 2 (5 PTS),75 - 64,-11
+0020701084,349,2,1,3,9:15 PM,3:24,MISS Williams 20' Jump Shot,,,,
+0020701084,350,4,0,3,9:15 PM,3:23,,,Bell REBOUND (Off:1 Def:4),,
+0020701084,351,2,84,3,9:15 PM,3:06,,,MISS Giricek 11' Running Bank Shot,,
+0020701084,352,4,0,3,9:15 PM,3:05,,,Giricek REBOUND (Off:1 Def:1),,
+0020701084,353,2,1,3,9:16 PM,2:58,,,MISS Giricek 18' Jump Shot,,
+0020701084,354,4,0,3,9:16 PM,2:57,NETS Rebound,,,,
+0020701084,355,9,1,3,9:16 PM,2:57,,,Suns Timeout: Regular (Reg.3 Short 0),,
+0020701084,357,8,0,3,9:18 PM,2:57,,,SUB: Barbosa FOR Nash,,
+0020701084,358,1,42,3,9:19 PM,2:40,Jefferson  Driving Layup (12 PTS),,,75 - 66,-9
+0020701084,359,2,42,3,9:19 PM,2:25,,,MISS Diaw  Driving Layup,,
+0020701084,360,4,0,3,9:19 PM,2:24,,,Diaw REBOUND (Off:1 Def:3),,
+0020701084,361,2,46,3,9:19 PM,2:20,,,MISS Barbosa 12' Running Jump Shot,,
+0020701084,362,4,0,3,9:19 PM,2:18,Boone REBOUND (Off:1 Def:9),,,,
+0020701084,363,2,5,3,9:19 PM,2:10,MISS Harris  Layup,,,,
+0020701084,364,4,0,3,9:19 PM,2:09,,,Stoudemire REBOUND (Off:1 Def:11),,
+0020701084,365,1,1,3,9:20 PM,1:47,,,Stoudemire 9' Jump Shot (29 PTS) (Diaw 3 AST),77 - 66,-11
+0020701084,366,6,2,3,9:20 PM,1:30,,,Giricek S.FOUL (P3.PN),,
+0020701084,367,3,11,3,9:20 PM,1:30,Jefferson Free Throw 1 of 2 (13 PTS),,,77 - 67,-10
+0020701084,368,8,0,3,9:20 PM,1:30,SUB: Nachbar FOR Harris,,,,
+0020701084,369,8,0,3,9:20 PM,1:30,SUB: Carter FOR Boone,,,,
+0020701084,370,3,12,3,9:21 PM,1:30,Jefferson Free Throw 2 of 2 (14 PTS),,,77 - 68,-9
+0020701084,371,1,49,3,9:21 PM,1:17,,,Stoudemire  Driving Dunk (31 PTS) (Diaw 4 AST),79 - 68,-11
+0020701084,372,2,44,3,9:21 PM,1:00,MISS Williams  Reverse Layup,,,,
+0020701084,373,4,0,3,9:21 PM,0:59,,,Stoudemire REBOUND (Off:1 Def:12),,
+0020701084,374,2,1,3,9:22 PM,0:41,,,MISS Barbosa 25' 3PT Jump Shot,,
+0020701084,375,4,0,3,9:22 PM,0:40,Williams REBOUND (Off:1 Def:2),,,,
+0020701084,376,1,1,3,9:22 PM,0:35,Carter 26' 3PT Jump Shot (16 PTS) (Williams 4 AST),,,79 - 71,-8
+0020701084,377,1,73,3,9:22 PM,0:17,,,Diaw  Driving Reverse Layup (7 PTS) (Barbosa 4 AST),81 - 71,-10
+0020701084,378,6,2,3,9:22 PM,0:17,Williams S.FOUL (P3.T3),,,,
+0020701084,379,3,10,3,9:22 PM,0:17,,,Diaw Free Throw 1 of 1 (8 PTS),82 - 71,-11
+0020701084,380,2,42,3,9:23 PM,0:04,MISS Carter  Driving Layup,,,,
+0020701084,381,4,0,3,9:23 PM,0:04,,,Suns Rebound,,
+0020701084,382,6,4,3,9:23 PM,0:01,,,Barbosa OFF.Foul (P5),,
+0020701084,383,5,5,3,9:23 PM,0:01,,,Barbosa Foul Turnover (P1.T12),,
+0020701084,384,2,1,3,9:23 PM,0:00,MISS Williams 43' 3PT Jump Shot,,,,
+0020701084,385,4,0,3,9:23 PM,0:00,NETS Rebound,,,,
+0020701084,386,13,0,3,9:24 PM,0:00,,,,82 - 71,-11
+0020701084,387,12,0,4,9:26 PM,12:00,,,,82 - 71,-11
+0020701084,388,6,2,4,9:27 PM,11:47,,,O'Neal S.FOUL (P3.T1),,
+0020701084,389,3,11,4,9:27 PM,11:47,Carter Free Throw 1 of 2 (17 PTS),,,82 - 72,-10
+0020701084,390,3,12,4,9:27 PM,11:47,Carter Free Throw 2 of 2 (18 PTS),,,82 - 73,-9
+0020701084,391,2,1,4,9:27 PM,11:33,,,MISS Bell 16' Jump Shot,,
+0020701084,392,4,0,4,9:27 PM,11:32,,,Diaw REBOUND (Off:2 Def:3),,
+0020701084,393,1,5,4,9:27 PM,11:28,,,Diaw  Layup (10 PTS),84 - 73,-11
+0020701084,394,2,1,4,9:28 PM,11:07,MISS Jefferson 18' Jump Shot,,,,
+0020701084,395,4,0,4,9:28 PM,11:06,,,Diaw REBOUND (Off:2 Def:4),,
+0020701084,396,5,4,4,9:28 PM,10:56,,,Diaw Traveling Turnover (P1.T13),,
+0020701084,397,2,1,4,9:28 PM,10:41,MISS Nachbar  3PT Jump Shot,,,,
+0020701084,398,4,0,4,9:28 PM,10:40,,,Nash REBOUND (Off:0 Def:2),,
+0020701084,399,2,1,4,9:29 PM,10:32,,,MISS Giricek 25' 3PT Jump Shot,,
+0020701084,400,4,0,4,9:29 PM,10:31,,,Suns Rebound,,
+0020701084,401,6,3,4,9:29 PM,10:31,Williams L.B.FOUL (P3.T1),,,,
+0020701084,402,2,1,4,9:29 PM,10:21,,,MISS Nash 18' Jump Shot,,
+0020701084,403,4,0,4,9:29 PM,10:20,NETS Rebound,,,,
+0020701084,404,6,1,4,9:30 PM,10:08,,,Giricek P.FOUL (P4.T2),,
+0020701084,405,8,0,4,9:30 PM,10:08,,,SUB: Stoudemire FOR Giricek,,
+0020701084,406,1,42,4,9:30 PM,9:59,Carter  Driving Layup (20 PTS),,,84 - 75,-9
+0020701084,407,6,2,4,9:30 PM,9:59,,,Diaw S.FOUL (P2.T3),,
+0020701084,408,8,0,4,9:30 PM,9:59,SUB: Boone FOR Nachbar,,,,
+0020701084,409,3,10,4,9:31 PM,9:59,Carter Free Throw 1 of 1 (21 PTS),,,84 - 76,-8
+0020701084,410,1,8,4,9:31 PM,9:45,,,O'Neal  Slam Dunk (11 PTS) (Bell 1 AST),86 - 76,-10
+0020701084,411,1,51,4,9:31 PM,9:23,Jefferson  Reverse Dunk (16 PTS) (Carter 5 AST),,,86 - 78,-8
+0020701084,412,1,43,4,9:31 PM,9:15,,,O'Neal  Alley Oop Layup (13 PTS) (Nash 9 AST),88 - 78,-10
+0020701084,413,2,1,4,9:32 PM,8:54,MISS Jefferson 16' Jump Shot,,,,
+0020701084,414,4,0,4,9:32 PM,8:53,,,Diaw REBOUND (Off:2 Def:5),,
+0020701084,415,2,1,4,9:32 PM,8:32,,,MISS Stoudemire 19' Jump Shot,,
+0020701084,416,4,0,4,9:32 PM,8:31,Carter REBOUND (Off:0 Def:4),,,,
+0020701084,417,2,1,4,9:32 PM,8:25,MISS Williams 18' Jump Shot,,,,
+0020701084,418,4,0,4,9:32 PM,8:23,Boone REBOUND (Off:2 Def:9),,,,
+0020701084,419,1,5,4,9:32 PM,8:19,Williams  Layup (4 PTS) (Boone 2 AST),,,88 - 80,-8
+0020701084,420,6,4,4,9:33 PM,8:00,,,Bell OFF.Foul (P4),,
+0020701084,421,5,5,4,9:33 PM,8:00,,,Bell Foul Turnover (P2.T14),,
+0020701084,422,9,4,4,9:33 PM,8:00,,,,,
+0020701084,425,8,0,4,9:35 PM,8:00,SUB: Harris FOR Williams,,,,
+0020701084,426,8,0,4,9:35 PM,8:00,SUB: Nachbar FOR Jefferson,,,,
+0020701084,427,2,42,4,9:36 PM,7:48,MISS Carter  Driving Layup,,,,
+0020701084,428,4,0,4,9:36 PM,7:47,Boone REBOUND (Off:3 Def:9),,,,
+0020701084,429,5,2,4,9:36 PM,7:34,Carter Lost Ball Turnover (P5.T13),,Stoudemire STEAL (2 STL),,
+0020701084,430,5,40,4,9:36 PM,7:13,,,O'Neal Out of Bounds Lost Ball Turnover (P5.T15),,
+0020701084,431,1,1,4,9:36 PM,6:58,Carter 12' Jump Shot (23 PTS),,,88 - 82,-6
+0020701084,432,5,2,4,9:37 PM,6:39,Williams STEAL (2 STL),,Stoudemire Lost Ball Turnover (P4.T16),,
+0020701084,433,2,1,4,9:37 PM,6:31,MISS Nachbar 18' Jump Shot,,,,
+0020701084,434,4,0,4,9:37 PM,6:30,,,Stoudemire REBOUND (Off:1 Def:13),,
+0020701084,435,1,1,4,9:37 PM,6:21,,,Nash 25' 3PT Jump Shot (5 PTS),91 - 82,-9
+0020701084,436,1,1,4,9:37 PM,6:05,Williams 17' Jump Shot (6 PTS) (Carter 6 AST),,,91 - 84,-7
+0020701084,437,2,1,4,9:38 PM,5:42,,,MISS Stoudemire 16' Jump Shot,,
+0020701084,438,4,0,4,9:38 PM,5:41,Carter REBOUND (Off:0 Def:5),,,,
+0020701084,439,1,1,4,9:38 PM,5:33,Harris 25' 3PT Jump Shot (11 PTS),,,91 - 87,-4
+0020701084,440,9,1,4,9:38 PM,5:31,,,Suns Timeout: Regular (Reg.4 Short 0),,
+0020701084,442,8,0,4,9:40 PM,5:31,SUB: Jefferson FOR Nachbar,,,,
+0020701084,443,8,0,4,9:40 PM,5:31,,,SUB: Barbosa FOR Diaw,,
+0020701084,444,1,47,4,9:41 PM,5:08,,,Stoudemire 7' Turnaround Jump Shot (33 PTS) (Nash 10 AST),93 - 87,-6
+0020701084,445,1,42,4,9:41 PM,4:58,Carter  Driving Layup (25 PTS) (Harris 7 AST),,,93 - 89,-4
+0020701084,446,6,2,4,9:41 PM,4:58,,,O'Neal S.FOUL (P4.T4),,
+0020701084,447,3,10,4,9:42 PM,4:58,Carter Free Throw 1 of 1 (26 PTS),,,93 - 90,-3
+0020701084,448,1,5,4,9:42 PM,4:42,,,O'Neal  Layup (15 PTS) (Barbosa 5 AST),95 - 90,-5
+0020701084,449,6,2,4,9:42 PM,4:42,Williams S.FOUL (P4.T2),,,,
+0020701084,452,7,3,4,9:43 PM,4:42,Williams Violation:Lane,,,,
+0020701084,454,7,3,4,9:43 PM,4:42,,,Stoudemire Violation:Lane,,
+0020701084,453,10,0,4,9:43 PM,4:42,Jump Ball Williams vs. O'Neal: Tip to Nash,,,,
+0020701084,455,1,42,4,9:44 PM,4:26,,,Barbosa  Driving Layup (19 PTS) (Nash 11 AST),97 - 90,-7
+0020701084,457,2,5,4,9:44 PM,3:58,MISS Carter  Layup,,,,
+0020701084,458,4,0,4,9:44 PM,3:57,Boone REBOUND (Off:4 Def:9),,,,
+0020701084,459,6,2,4,9:44 PM,3:56,,,O'Neal S.FOUL (P5.PN),,
+0020701084,460,6,11,4,9:44 PM,3:56,,,O'Neal T.FOUL (P5.PN),,
+0020701084,461,3,16,4,9:45 PM,3:56,MISS Carter Free Throw Technical,,,,
+0020701084,462,4,1,4,9:45 PM,3:56,NETS Rebound,,,,
+0020701084,463,8,0,4,9:45 PM,3:56,,,SUB: Diaw FOR O'Neal,,
+0020701084,464,3,11,4,9:45 PM,3:56,MISS Boone Free Throw 1 of 2,,,,
+0020701084,465,4,1,4,9:45 PM,3:56,NETS Rebound,,,,
+0020701084,466,8,0,4,9:45 PM,3:56,SUB: Nachbar FOR Williams,,,,
+0020701084,467,3,12,4,9:45 PM,3:56,MISS Boone Free Throw 2 of 2,,,,
+0020701084,468,4,0,4,9:46 PM,3:55,NETS Rebound,,,,
+0020701084,471,6,3,4,9:46 PM,3:55,,,Stoudemire L.B.FOUL (P4.PN),,
+0020701084,472,3,11,4,9:46 PM,3:55,Carter Free Throw 1 of 2 (27 PTS),,,97 - 91,-6
+0020701084,473,3,12,4,9:46 PM,3:55,Carter Free Throw 2 of 2 (28 PTS),,,97 - 92,-5
+0020701084,474,1,1,4,9:47 PM,3:33,,,Diaw 19' Jump Shot (12 PTS) (Nash 12 AST),99 - 92,-7
+0020701084,475,2,5,4,9:47 PM,3:16,MISS Carter  Layup,,,,
+0020701084,476,4,0,4,9:47 PM,3:15,Carter REBOUND (Off:1 Def:5),,,,
+0020701084,477,6,2,4,9:47 PM,3:14,,,Stoudemire S.FOUL (P5.PN),,
+0020701084,478,3,11,4,9:47 PM,3:14,MISS Carter Free Throw 1 of 2,,,,
+0020701084,479,4,1,4,9:47 PM,3:14,NETS Rebound,,,,
+0020701084,480,3,12,4,9:48 PM,3:14,MISS Carter Free Throw 2 of 2,,,,
+0020701084,481,4,0,4,9:48 PM,3:13,,,Stoudemire REBOUND (Off:1 Def:14),,
+0020701084,482,5,1,4,9:48 PM,2:57,,,Diaw Bad Pass Turnover (P2.T17),,
+0020701084,483,9,1,4,9:48 PM,2:57,NETS Timeout: Regular (Full 4 Short 1),,,,
+0020701084,485,8,0,4,9:50 PM,2:57,,,SUB: O'Neal FOR Diaw,,
+0020701084,486,1,1,4,9:51 PM,2:37,Carter 14' Jump Shot (30 PTS) (Nachbar 1 AST),,,99 - 94,-5
+0020701084,487,2,5,4,9:51 PM,2:19,Boone BLOCK (2 BLK),,MISS O'Neal  Layup,,
+0020701084,488,4,0,4,9:51 PM,2:17,Harris REBOUND (Off:1 Def:2),,,,
+0020701084,489,2,5,4,9:51 PM,2:13,MISS Boone  Layup,,,,
+0020701084,490,4,0,4,9:51 PM,2:12,Harris REBOUND (Off:2 Def:2),,,,
+0020701084,491,2,5,4,9:52 PM,2:10,MISS Harris  Layup,,,,
+0020701084,492,4,0,4,9:52 PM,2:09,,,Bell REBOUND (Off:1 Def:5),,
+0020701084,493,6,1,4,9:52 PM,1:55,Nachbar P.FOUL (P2.T3),,,,
+0020701084,494,2,42,4,9:52 PM,1:45,,,MISS Barbosa  Driving Layup,,
+0020701084,495,4,0,4,9:52 PM,1:44,,,Barbosa REBOUND (Off:1 Def:2),,
+0020701084,496,1,1,4,9:53 PM,1:29,,,Nash 26' 3PT Jump Shot (8 PTS),102 - 94,-8
+0020701084,497,9,1,4,9:53 PM,1:29,NETS Timeout: Regular (Full 5 Short 1),,,,
+0020701084,499,1,73,4,9:55 PM,1:26,Jefferson  Driving Reverse Layup (18 PTS) (Nachbar 2 AST),,,102 - 96,-6
+0020701084,500,2,1,4,9:55 PM,1:13,,,MISS Nash 25' 3PT Jump Shot,,
+0020701084,501,4,0,4,9:55 PM,1:12,,,Nash REBOUND (Off:1 Def:2),,
+0020701084,502,6,1,4,9:55 PM,1:10,Harris P.FOUL (P3.PN),,,,
+0020701084,503,3,11,4,9:55 PM,1:10,,,Nash Free Throw 1 of 2 (9 PTS),103 - 96,-7
+0020701084,504,8,0,4,9:55 PM,1:10,,,SUB: Diaw FOR Barbosa,,
+0020701084,505,3,12,4,9:55 PM,1:10,,,MISS Nash Free Throw 2 of 2,,
+0020701084,506,4,0,4,9:56 PM,1:09,Nachbar REBOUND (Off:0 Def:2),,,,
+0020701084,507,1,42,4,9:56 PM,0:59,Jefferson  Driving Layup (20 PTS) (Nachbar 3 AST),,,103 - 98,-5
+0020701084,508,9,2,4,9:56 PM,0:48,,,Suns Timeout: Short (Reg.4 Short 1),,
+0020701084,510,8,0,4,9:57 PM,0:48,,,SUB: Barbosa FOR Diaw,,
+0020701084,511,6,1,4,9:57 PM,0:48,Boone P.FOUL (P4.PN),,,,
+0020701084,512,3,11,4,9:57 PM,0:48,,,O'Neal Free Throw 1 of 2 (16 PTS),104 - 98,-6
+0020701084,513,3,12,4,9:58 PM,0:48,,,O'Neal Free Throw 2 of 2 (17 PTS),105 - 98,-7
+0020701084,514,1,1,4,9:58 PM,0:40,Carter 20' Jump Shot (32 PTS),,,105 - 100,-5
+0020701084,515,6,1,4,9:58 PM,0:38,Nachbar P.FOUL (P3.PN),,,,
+0020701084,516,3,11,4,9:59 PM,0:38,,,MISS Nash Free Throw 1 of 2,,
+0020701084,517,4,1,4,9:59 PM,0:38,,,Suns Rebound,,
+0020701084,518,3,12,4,9:59 PM,0:38,,,Nash Free Throw 2 of 2 (10 PTS),106 - 100,-6
+0020701084,519,2,1,4,9:59 PM,0:30,MISS Harris 25' 3PT Jump Shot,,,,
+0020701084,520,4,0,4,9:59 PM,0:29,Carter REBOUND (Off:2 Def:5),,,,
+0020701084,521,2,44,4,9:59 PM,0:27,MISS Carter  Reverse Layup,,,,
+0020701084,522,4,0,4,9:59 PM,0:27,Jefferson REBOUND (Off:2 Def:2),,,,
+0020701084,523,2,1,4,9:59 PM,0:21,MISS Jefferson 25' 3PT Jump Shot,,,,
+0020701084,524,4,0,4,9:59 PM,0:20,Harris REBOUND (Off:3 Def:2),,,,
+0020701084,525,2,1,4,9:59 PM,0:15,MISS Harris 24' 3PT Jump Shot,,,,
+0020701084,526,4,0,4,9:59 PM,0:15,,,Suns Rebound,,
+0020701084,527,6,1,4,10:00 PM,0:13,Nachbar P.FOUL (P4.PN),,,,
+0020701084,528,3,11,4,10:00 PM,0:13,,,Barbosa Free Throw 1 of 2 (20 PTS),107 - 100,-7
+0020701084,529,3,12,4,10:00 PM,0:13,,,Barbosa Free Throw 2 of 2 (21 PTS),108 - 100,-8
+0020701084,530,9,2,4,10:01 PM,0:13,NETS Timeout: Short (Full 5 Short 2),,,,
+0020701084,531,1,5,4,10:02 PM,0:08,Nachbar  Layup (5 PTS) (Jefferson 4 AST),,,108 - 102,-6
+0020701084,532,6,1,4,10:02 PM,0:07,Boone P.FOUL (P5.PN),,,,
+0020701084,533,3,11,4,10:02 PM,0:07,,,Bell Free Throw 1 of 2 (10 PTS),109 - 102,-7
+0020701084,534,3,12,4,10:03 PM,0:07,,,Bell Free Throw 2 of 2 (11 PTS),110 - 102,-8
+0020701084,535,1,5,4,10:03 PM,0:02,Harris  Layup (13 PTS),,,110 - 104,-6
+0020701084,536,13,0,4,10:03 PM,0:00,,,,110 - 104,-6

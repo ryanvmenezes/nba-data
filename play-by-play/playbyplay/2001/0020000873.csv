@@ -1,0 +1,448 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000873,0,12,0,1,2:12 PM,12:00,,,,,
+0020000873,1,10,0,1,2:12 PM,12:00,Jump Ball Wallace vs. Massenburg: Tip to Long,,,,
+0020000873,2,6,1,1,2:12 PM,11:44,Pippen P.FOUL (P1.T1),,,,
+0020000873,3,1,1,1,2:13 PM,11:34,,,Abdur-Rahim 10' Jump Shot (2 PTS) (Bibby 1 AST),2 - 0,-2
+0020000873,4,6,1,1,2:13 PM,11:22,,,Long P.FOUL (P1.T1),,
+0020000873,5,6,1,1,2:13 PM,11:13,,,Dickerson P.FOUL (P1.T2),,
+0020000873,6,3,11,1,2:13 PM,11:13,Pippen Free Throw 1 of 2 (1 PTS),,,2 - 1,-1
+0020000873,7,3,12,1,2:14 PM,11:13,Pippen Free Throw 2 of 2 (2 PTS),,,2 - 2,TIE
+0020000873,8,1,7,1,2:14 PM,10:56,,,Massenburg  Dunk (2 PTS) (Bibby 2 AST),4 - 2,-2
+0020000873,9,1,1,1,2:14 PM,10:41,Wells 21' Jump Shot (2 PTS) (Pippen 1 AST),,,4 - 4,TIE
+0020000873,10,6,1,1,2:15 PM,10:24,Wallace P.FOUL (P1.T2),,,,
+0020000873,11,1,1,1,2:15 PM,10:18,,,Dickerson 21' Jump Shot (2 PTS) (Bibby 3 AST),6 - 4,-2
+0020000873,12,2,1,1,2:15 PM,10:03,MISS Davis 18' Jump Shot,,,,
+0020000873,13,4,0,1,2:15 PM,10:01,Wallace REBOUND (Off:1 Def:0),,,,
+0020000873,14,2,1,1,2:15 PM,9:59,MISS Wallace 3' Jump Shot,,,,
+0020000873,16,4,0,1,2:15 PM,9:57,Davis REBOUND (Off:1 Def:0),,,,
+0020000873,15,2,4,1,2:15 PM,9:57,MISS Davis  Tip Shot,,,,
+0020000873,17,4,0,1,2:15 PM,9:54,,,Abdur-Rahim REBOUND (Off:0 Def:1),,
+0020000873,18,5,1,1,2:16 PM,9:46,Davis STEAL (1 STL),,Bibby Bad Pass Turnover (P1.T1),,
+0020000873,19,2,1,1,2:16 PM,9:42,MISS Pippen 6' Jump Shot,,,,
+0020000873,20,4,0,1,2:16 PM,9:40,,,Massenburg REBOUND (Off:0 Def:1),,
+0020000873,21,6,2,1,2:16 PM,9:32,Wells S.FOUL (P1.T3),,,,
+0020000873,22,3,11,1,2:16 PM,9:32,,,MISS Dickerson Free Throw 1 of 2,,
+0020000873,23,4,1,1,2:16 PM,9:32,,,Grizzlies Rebound,,
+0020000873,24,3,12,1,2:16 PM,9:32,,,Dickerson Free Throw 2 of 2 (3 PTS),7 - 4,-3
+0020000873,25,2,5,1,2:17 PM,9:20,MISS Davis  Layup,,,,
+0020000873,26,4,0,1,2:17 PM,9:18,,,Long REBOUND (Off:0 Def:1),,
+0020000873,27,1,47,1,2:17 PM,9:09,,,Massenburg 3' Turnaround Jump Shot (4 PTS),9 - 4,-5
+0020000873,28,1,46,1,2:17 PM,8:57,Pippen 3' Running Jump Shot (4 PTS),,,9 - 6,-3
+0020000873,29,6,1,1,2:17 PM,8:48,Stoudamire P.FOUL (P1.T4),,,,
+0020000873,30,2,1,1,2:18 PM,8:33,,,MISS Bibby 26' 3PT Jump Shot,,
+0020000873,31,4,0,1,2:18 PM,8:31,,,Massenburg REBOUND (Off:1 Def:1),,
+0020000873,32,2,1,1,2:18 PM,8:30,,,MISS Massenburg 3' Jump Shot,,
+0020000873,33,4,0,1,2:18 PM,8:28,Davis REBOUND (Off:1 Def:1),,,,
+0020000873,34,1,1,1,2:18 PM,8:22,Wells 15' Jump Shot (4 PTS) (Stoudamire 1 AST),,,9 - 8,-1
+0020000873,35,5,2,1,2:18 PM,8:04,Wells STEAL (1 STL),,Dickerson Lost Ball Turnover (P1.T2),,
+0020000873,37,1,43,1,2:19 PM,7:58,Pippen  Alley Oop Layup (6 PTS) (Wells 1 AST),,,9 - 10,1
+0020000873,38,2,1,1,2:19 PM,7:37,,,MISS Long 21' Jump Shot,,
+0020000873,39,4,0,1,2:19 PM,7:34,Wallace REBOUND (Off:1 Def:1),,,,
+0020000873,40,1,5,1,2:19 PM,7:32,Pippen  Layup (8 PTS) (Wallace 1 AST),,,9 - 12,3
+0020000873,41,9,1,1,2:19 PM,7:22,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,
+0020000873,43,1,1,1,2:22 PM,7:04,,,Bibby 24' 3PT Jump Shot (3 PTS) (Long 1 AST),12 - 12,TIE
+0020000873,44,1,47,1,2:22 PM,6:43,Wallace 8' Turnaround Jump Shot (2 PTS) (Wells 2 AST),,,12 - 14,2
+0020000873,45,1,42,1,2:22 PM,6:28,,,Bibby 6' Driving Layup (5 PTS),14 - 14,TIE
+0020000873,46,6,2,1,2:22 PM,6:22,,,Massenburg S.FOUL (P1.T3),,
+0020000873,47,3,11,1,2:23 PM,6:22,MISS Stoudamire Free Throw 1 of 2,,,,
+0020000873,48,4,1,1,2:23 PM,6:22,TRAIL BLAZERS Rebound,,,,
+0020000873,49,3,12,1,2:23 PM,6:22,Stoudamire Free Throw 2 of 2 (1 PTS),,,14 - 15,1
+0020000873,50,1,1,1,2:23 PM,6:00,,,Abdur-Rahim 23' Jump Shot (4 PTS) (Massenburg 1 AST),16 - 15,-1
+0020000873,51,2,1,1,2:24 PM,5:45,MISS Wallace  3PT Jump Shot,,,,
+0020000873,52,4,0,1,2:24 PM,5:43,Wallace REBOUND (Off:2 Def:1),,,,
+0020000873,53,5,2,1,2:24 PM,5:36,Stoudamire Lost Ball Turnover (P1.T1),,Bibby STEAL (1 STL),,
+0020000873,54,6,1,1,2:24 PM,5:34,Wallace P.FOUL (P2.PN),,,,
+0020000873,55,8,0,1,2:24 PM,5:34,,,SUB: Strickland FOR Dickerson,,
+0020000873,56,8,0,1,2:24 PM,5:34,,,SUB: Swift FOR Long,,
+0020000873,57,3,11,1,2:25 PM,5:34,,,Abdur-Rahim Free Throw 1 of 2 (5 PTS),17 - 15,-2
+0020000873,58,8,0,1,2:25 PM,5:34,SUB: Kemp FOR Wallace,,,,
+0020000873,59,3,12,1,2:25 PM,5:34,,,Abdur-Rahim Free Throw 2 of 2 (6 PTS),18 - 15,-3
+0020000873,60,2,47,1,2:25 PM,5:22,MISS Wells 13' Turnaround Jump Shot,,,,
+0020000873,61,4,0,1,2:25 PM,5:20,,,Massenburg REBOUND (Off:1 Def:2),,
+0020000873,62,1,46,1,2:26 PM,5:09,,,Swift 5' Running Jump Shot (2 PTS) (Bibby 4 AST),20 - 15,-5
+0020000873,63,6,2,1,2:26 PM,5:09,Kemp S.FOUL (P1.PN),,,,
+0020000873,64,3,10,1,2:26 PM,5:09,,,Swift Free Throw 1 of 1 (3 PTS),21 - 15,-6
+0020000873,65,2,1,1,2:26 PM,4:48,MISS Wells 13' Jump Shot,,,,
+0020000873,66,4,0,1,2:26 PM,4:47,Pippen REBOUND (Off:1 Def:0),,,,
+0020000873,67,1,1,1,2:26 PM,4:43,Pippen 25' 3PT Jump Shot (11 PTS),,,21 - 18,-3
+0020000873,68,2,1,1,2:27 PM,4:19,,,MISS Abdur-Rahim  3PT Jump Shot,,
+0020000873,69,4,0,1,2:27 PM,4:17,Wells REBOUND (Off:0 Def:1),,,,
+0020000873,70,6,4,1,2:27 PM,4:15,Pippen OFF.Foul (P2),,,,
+0020000873,71,5,5,1,2:27 PM,4:15,Pippen Foul Turnover (P1.T2),,,,
+0020000873,72,8,0,1,2:27 PM,4:15,,,SUB: Abdul-Rauf FOR Bibby,,
+0020000873,73,8,0,1,2:27 PM,4:15,,,SUB: Austin FOR Massenburg,,
+0020000873,74,8,0,1,2:27 PM,4:15,SUB: Schrempf FOR Pippen,,,,
+0020000873,75,2,1,1,2:28 PM,4:01,,,MISS Strickland 25' 3PT Jump Shot,,
+0020000873,76,4,0,1,2:28 PM,3:59,Kemp REBOUND (Off:0 Def:1),,,,
+0020000873,77,1,7,1,2:28 PM,3:57,Wells  Dunk (6 PTS) (Kemp 1 AST),,,21 - 20,-1
+0020000873,78,2,1,1,2:28 PM,3:38,,,MISS Austin 19' Jump Shot,,
+0020000873,79,4,0,1,2:28 PM,3:36,Kemp REBOUND (Off:0 Def:2),,,,
+0020000873,80,1,42,1,2:28 PM,3:33,Stoudamire  Driving Layup (3 PTS),,,21 - 22,1
+0020000873,81,2,1,1,2:29 PM,3:13,,,MISS Abdur-Rahim 20' Jump Shot,,
+0020000873,82,4,0,1,2:29 PM,3:12,Kemp REBOUND (Off:0 Def:3),,,,
+0020000873,83,1,47,1,2:29 PM,2:53,Davis 10' Turnaround Jump Shot (2 PTS),,,21 - 24,3
+0020000873,84,9,2,1,2:29 PM,2:45,,,Grizzlies Timeout: Short (Reg.1 Short 1),,
+0020000873,85,9,1,1,2:29 PM,2:45,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,
+0020000873,87,8,0,1,2:31 PM,2:45,SUB: Sabonis FOR Davis,,,,
+0020000873,88,2,1,1,2:32 PM,2:40,,,MISS Abdul-Rauf 18' Jump Shot,,
+0020000873,89,4,0,1,2:32 PM,2:39,Sabonis REBOUND (Off:0 Def:1),,,,
+0020000873,90,6,2,1,2:32 PM,2:28,,,Swift S.FOUL (P1.T4),,
+0020000873,91,3,11,1,2:32 PM,2:28,MISS Kemp Free Throw 1 of 2,,,,
+0020000873,92,4,1,1,2:32 PM,2:28,TRAIL BLAZERS Rebound,,,,
+0020000873,93,8,0,1,2:32 PM,2:28,SUB: Smith FOR Wells,,,,
+0020000873,94,3,12,1,2:32 PM,2:28,Kemp Free Throw 2 of 2 (1 PTS),,,21 - 25,4
+0020000873,95,6,4,1,2:33 PM,2:19,,,Swift OFF.Foul (P2),,
+0020000873,96,5,5,1,2:33 PM,2:19,,,Swift Foul Turnover (P1.T3),,
+0020000873,97,1,1,1,2:33 PM,2:04,Kemp 21' Jump Shot (3 PTS) (Schrempf 1 AST),,,21 - 27,6
+0020000873,98,2,1,1,2:33 PM,1:47,,,MISS Swift 3' Jump Shot,,
+0020000873,99,4,0,1,2:34 PM,1:44,Kemp REBOUND (Off:0 Def:4),,,,
+0020000873,100,2,1,1,2:34 PM,1:39,MISS Stoudamire 17' Jump Shot,,,,
+0020000873,101,4,0,1,2:34 PM,1:36,Kemp REBOUND (Off:1 Def:4),,,,
+0020000873,102,2,5,1,2:34 PM,1:34,MISS Kemp  Layup,,,,
+0020000873,103,4,0,1,2:34 PM,1:32,,,Grizzlies Rebound,,
+0020000873,104,1,1,1,2:34 PM,1:19,,,Austin 19' Jump Shot (2 PTS) (Abdul-Rauf 1 AST),23 - 27,4
+0020000873,105,2,1,1,2:34 PM,1:05,MISS Schrempf 17' Jump Shot,,,,
+0020000873,106,4,0,1,2:34 PM,1:03,,,Strickland REBOUND (Off:0 Def:1),,
+0020000873,107,1,8,1,2:35 PM,0:57,,,Swift  Slam Dunk (5 PTS) (Strickland 1 AST),25 - 27,2
+0020000873,108,2,5,1,2:35 PM,0:41,MISS Sabonis  Layup,,,,
+0020000873,109,4,0,1,2:35 PM,0:40,Sabonis REBOUND (Off:1 Def:1),,,,
+0020000873,110,6,2,1,2:35 PM,0:40,,,Abdur-Rahim S.FOUL (P1.PN),,
+0020000873,111,3,11,1,2:35 PM,0:40,Sabonis Free Throw 1 of 2 (1 PTS),,,25 - 28,3
+0020000873,112,3,12,1,2:35 PM,0:40,Sabonis Free Throw 2 of 2 (2 PTS),,,25 - 29,4
+0020000873,113,2,1,1,2:36 PM,0:28,,,MISS Abdul-Rauf 26' 3PT Jump Shot,,
+0020000873,114,4,0,1,2:36 PM,0:26,Schrempf REBOUND (Off:0 Def:1),,,,
+0020000873,115,2,42,1,2:36 PM,0:09,MISS Stoudamire  Driving Layup,,Swift BLOCK (1 BLK),,
+0020000873,116,4,0,1,2:36 PM,0:07,,,Abdul-Rauf REBOUND (Off:0 Def:1),,
+0020000873,117,6,1,1,2:36 PM,0:05,Schrempf P.FOUL (P1.PN),,,,
+0020000873,118,3,11,1,2:36 PM,0:05,,,Abdul-Rauf Free Throw 1 of 2 (1 PTS),26 - 29,3
+0020000873,120,8,0,1,2:37 PM,0:05,,,SUB: Dickerson FOR Swift,,
+0020000873,121,3,12,1,2:37 PM,0:05,,,MISS Abdul-Rauf Free Throw 2 of 2,,
+0020000873,122,4,0,1,2:37 PM,0:04,Sabonis REBOUND (Off:1 Def:2),,,,
+0020000873,123,2,1,1,2:37 PM,0:00,MISS Smith 40' 3PT Jump Shot,,,,
+0020000873,124,4,0,1,2:37 PM,0:00,TRAIL BLAZERS Rebound,,,,
+0020000873,125,13,0,1,2:37 PM,0:00,,,,26 - 29,3
+0020000873,127,12,0,2,2:40 PM,12:00,,,,26 - 29,3
+0020000873,128,5,1,2,2:40 PM,11:46,Kemp Bad Pass Turnover (P1.T3),,Strickland STEAL (1 STL),,
+0020000873,129,2,1,2,2:40 PM,11:30,,,MISS Austin 18' Jump Shot,,
+0020000873,130,4,0,2,2:40 PM,11:28,Kemp REBOUND (Off:1 Def:5),,,,
+0020000873,131,2,47,2,2:41 PM,11:13,MISS Smith 15' Turnaround Jump Shot,,,,
+0020000873,132,4,0,2,2:41 PM,11:11,,,Austin REBOUND (Off:0 Def:1),,
+0020000873,133,1,1,2,2:41 PM,11:04,,,Austin 18' Jump Shot (4 PTS) (Strickland 2 AST),28 - 29,1
+0020000873,134,2,7,2,2:41 PM,10:42,MISS Kemp  Dunk,,,,
+0020000873,135,4,0,2,2:41 PM,10:39,,,Swift REBOUND (Off:0 Def:1),,
+0020000873,136,5,2,2,2:41 PM,10:35,,,Strickland Lost Ball Turnover (P1.T4),,
+0020000873,137,6,1,2,2:42 PM,10:22,,,Swift P.FOUL (P3.T1),,
+0020000873,138,8,0,2,2:42 PM,10:22,,,SUB: Abdur-Rahim FOR Swift,,
+0020000873,139,1,5,2,2:42 PM,10:16,Smith  Layup (2 PTS),,,28 - 31,3
+0020000873,140,2,1,2,2:42 PM,9:58,,,MISS Abdur-Rahim 19' Jump Shot,,
+0020000873,141,4,0,2,2:42 PM,9:56,Sabonis REBOUND (Off:1 Def:3),,,,
+0020000873,142,1,5,2,2:43 PM,9:49,Kemp  Layup (5 PTS) (Schrempf 2 AST),,,28 - 33,5
+0020000873,143,1,1,2,2:43 PM,9:33,,,Strickland 25' 3PT Jump Shot (3 PTS) (Abdul-Rauf 2 AST),31 - 33,2
+0020000873,144,1,7,2,2:43 PM,9:18,Schrempf  Dunk (2 PTS) (Strickland 1 AST),,,31 - 35,4
+0020000873,145,5,2,2,2:43 PM,9:04,Sabonis STEAL (1 STL),,Abdur-Rahim Lost Ball Turnover (P1.T5),,
+0020000873,147,7,3,2,2:43 PM,8:58,,,Abdur-Rahim Violation:Lane,,
+0020000873,146,1,42,2,2:43 PM,8:58,Strickland  Driving Layup (2 PTS),,,31 - 37,6
+0020000873,148,9,1,2,2:44 PM,8:58,,,Grizzlies Timeout: Regular (Reg.2 Short 1),,
+0020000873,150,8,0,2,2:44 PM,8:58,SUB: Wallace FOR Kemp,,,,
+0020000873,151,8,0,2,2:45 PM,8:58,,,SUB: Bibby FOR Abdul-Rauf,,
+0020000873,152,2,1,2,2:46 PM,8:43,,,MISS Abdur-Rahim 6' Jump Shot,,
+0020000873,153,4,0,2,2:46 PM,8:41,Schrempf REBOUND (Off:0 Def:2),,,,
+0020000873,154,1,5,2,2:46 PM,8:37,Strickland  Layup (4 PTS) (Schrempf 3 AST),,,31 - 39,8
+0020000873,155,6,1,2,2:47 PM,8:20,Smith P.FOUL (P1.T1),,,,
+0020000873,156,1,1,2,2:47 PM,8:10,,,Strickland 24' 3PT Jump Shot (6 PTS) (Bibby 5 AST),34 - 39,5
+0020000873,157,5,1,2,2:47 PM,7:51,Sabonis Bad Pass Turnover (P1.T4),,Dickerson STEAL (1 STL),,
+0020000873,158,2,1,2,2:47 PM,7:43,,,MISS Bibby 26' 3PT Jump Shot,,
+0020000873,159,4,0,2,2:47 PM,7:41,Sabonis REBOUND (Off:1 Def:4),,,,
+0020000873,160,1,1,2,2:48 PM,7:29,Sabonis 22' Jump Shot (4 PTS) (Smith 1 AST),,,34 - 41,7
+0020000873,161,2,44,2,2:48 PM,7:12,,,MISS Austin  Reverse Layup,,
+0020000873,162,4,0,2,2:48 PM,7:10,Schrempf REBOUND (Off:0 Def:3),,,,
+0020000873,163,6,4,2,2:48 PM,7:07,Strickland OFF.Foul (P1),,,,
+0020000873,164,5,5,2,2:48 PM,7:07,Strickland Foul Turnover (P1.T5),,,,
+0020000873,165,8,0,2,2:48 PM,7:07,SUB: Wells FOR Schrempf,,,,
+0020000873,166,2,1,2,2:49 PM,6:49,,,MISS Strickland 25' 3PT Jump Shot,,
+0020000873,167,4,0,2,2:49 PM,6:47,,,Bibby REBOUND (Off:1 Def:0),,
+0020000873,168,1,42,2,2:49 PM,6:40,,,Dickerson  Driving Layup (5 PTS),36 - 41,5
+0020000873,169,2,47,2,2:49 PM,6:21,MISS Wallace 16' Turnaround Jump Shot,,,,
+0020000873,170,4,0,2,2:49 PM,6:19,,,Strickland REBOUND (Off:0 Def:2),,
+0020000873,171,2,1,2,2:49 PM,6:15,,,MISS Bibby 20' Jump Shot,,
+0020000873,172,4,0,2,2:49 PM,6:13,Strickland REBOUND (Off:0 Def:1),,,,
+0020000873,173,1,5,2,2:49 PM,6:08,Wells  Layup (8 PTS) (Strickland 2 AST),,,36 - 43,7
+0020000873,174,2,1,2,2:50 PM,5:41,,,MISS Bibby 25' 3PT Jump Shot,,
+0020000873,175,4,0,2,2:50 PM,5:38,Wells REBOUND (Off:0 Def:2),,,,
+0020000873,176,5,15,2,2:50 PM,5:32,Wallace Offensive Goaltending Turnover (P1.T6),,,,
+0020000873,177,9,4,2,2:50 PM,5:32,,,,,
+0020000873,179,8,0,2,2:52 PM,5:32,,,SUB: Long FOR Strickland,,
+0020000873,180,8,0,2,2:52 PM,5:32,,,SUB: Massenburg FOR Austin,,
+0020000873,181,1,1,2,2:53 PM,5:11,,,Long 23' Jump Shot (2 PTS) (Bibby 6 AST),38 - 43,5
+0020000873,182,2,1,2,2:53 PM,4:49,MISS Wallace 21' Jump Shot,,,,
+0020000873,183,4,0,2,2:53 PM,4:47,,,Dickerson REBOUND (Off:0 Def:1),,
+0020000873,184,2,5,2,2:53 PM,4:41,,,MISS Long  Layup,,
+0020000873,185,4,0,2,2:53 PM,4:39,,,Massenburg REBOUND (Off:2 Def:2),,
+0020000873,186,5,4,2,2:54 PM,4:23,,,Long Traveling Turnover (P1.T6),,
+0020000873,187,1,7,2,2:54 PM,4:14,Sabonis  Dunk (6 PTS) (Strickland 3 AST),,,38 - 45,7
+0020000873,188,6,2,2,2:54 PM,3:54,Wallace S.FOUL (P3.T2),,,,
+0020000873,189,8,0,2,2:55 PM,3:54,SUB: Stoudamire FOR Strickland,,,,
+0020000873,190,3,11,2,2:55 PM,3:54,,,Abdur-Rahim Free Throw 1 of 2 (7 PTS),39 - 45,6
+0020000873,191,8,0,2,2:55 PM,3:54,SUB: Davis FOR Wallace,,,,
+0020000873,192,3,12,2,2:55 PM,3:54,,,Abdur-Rahim Free Throw 2 of 2 (8 PTS),40 - 45,5
+0020000873,194,7,2,2,2:56 PM,3:42,,,Abdur-Rahim Violation:Defensive Goaltending,,
+0020000873,195,6,1,2,2:56 PM,3:33,,,Long P.FOUL (P2.T2),,
+0020000873,196,2,3,2,2:57 PM,3:26,MISS Sabonis 9' Hook Shot,,,,
+0020000873,197,4,0,2,2:57 PM,3:25,,,Abdur-Rahim REBOUND (Off:0 Def:2),,
+0020000873,198,1,44,2,2:57 PM,3:17,,,Massenburg  Reverse Layup (6 PTS) (Bibby 7 AST),42 - 45,3
+0020000873,199,2,1,2,2:57 PM,2:59,MISS Smith 20' Jump Shot,,,,
+0020000873,200,4,0,2,2:57 PM,2:57,Davis REBOUND (Off:2 Def:1),,,,
+0020000873,201,6,1,2,2:57 PM,2:47,,,Long P.FOUL (P3.T3),,
+0020000873,202,9,1,2,2:58 PM,2:47,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,
+0020000873,204,8,0,2,2:59 PM,2:47,SUB: Kemp FOR Sabonis,,,,
+0020000873,205,8,0,2,3:00 PM,2:47,,,SUB: Strickland FOR Long,,
+0020000873,206,6,1,2,3:00 PM,2:43,,,Strickland P.FOUL (P1.T4),,
+0020000873,207,1,47,2,3:00 PM,2:30,Smith 12' Turnaround Jump Shot (4 PTS),,,42 - 47,5
+0020000873,208,1,1,2,3:01 PM,2:11,,,Abdur-Rahim 21' Jump Shot (10 PTS) (Strickland 3 AST),44 - 47,3
+0020000873,209,2,42,2,3:01 PM,1:45,MISS Stoudamire  Driving Layup,,,,
+0020000873,210,4,0,2,3:01 PM,1:42,Stoudamire REBOUND (Off:1 Def:0),,,,
+0020000873,211,5,2,2,3:01 PM,1:42,Stoudamire Lost Ball Turnover (P2.T7),,,,
+0020000873,212,5,2,2,3:02 PM,1:22,Stoudamire STEAL (1 STL),,Massenburg Lost Ball Turnover (P1.T7),,
+0020000873,213,1,46,2,3:02 PM,1:15,Stoudamire 5' Running Jump Shot (5 PTS),,,44 - 49,5
+0020000873,214,6,2,2,3:02 PM,0:57,Kemp S.FOUL (P2.T3),,,,
+0020000873,215,3,11,2,3:02 PM,0:57,,,Abdur-Rahim Free Throw 1 of 2 (11 PTS),45 - 49,4
+0020000873,216,3,12,2,3:03 PM,0:57,,,Abdur-Rahim Free Throw 2 of 2 (12 PTS),46 - 49,3
+0020000873,217,5,2,2,3:03 PM,0:48,Stoudamire Lost Ball Turnover (P3.T8),,Strickland STEAL (2 STL),,
+0020000873,218,6,2,2,3:03 PM,0:43,Kemp S.FOUL (P3.PN),,,,
+0020000873,219,3,11,2,3:03 PM,0:43,,,MISS Bibby Free Throw 1 of 2,,
+0020000873,220,4,1,2,3:03 PM,0:43,,,Grizzlies Rebound,,
+0020000873,221,8,0,2,3:04 PM,0:43,SUB: Schrempf FOR Kemp,,,,
+0020000873,222,3,12,2,3:04 PM,0:43,,,MISS Bibby Free Throw 2 of 2,,
+0020000873,223,4,0,2,3:04 PM,0:43,Stoudamire REBOUND (Off:1 Def:1),,,,
+0020000873,224,6,1,2,3:04 PM,0:37,,,Dickerson P.FOUL (P2.PN),,
+0020000873,225,3,11,2,3:04 PM,0:37,Wells Free Throw 1 of 2 (9 PTS),,,46 - 50,4
+0020000873,226,3,12,2,3:04 PM,0:37,MISS Wells Free Throw 2 of 2,,,,
+0020000873,227,4,0,2,3:05 PM,0:37,,,Strickland REBOUND (Off:0 Def:3),,
+0020000873,228,2,46,2,3:05 PM,0:21,,,MISS Bibby 5' Running Jump Shot,,
+0020000873,229,4,0,2,3:05 PM,0:18,Davis REBOUND (Off:2 Def:2),,,,
+0020000873,230,2,42,2,3:05 PM,0:00,MISS Stoudamire  Driving Layup,,,,
+0020000873,231,4,0,2,3:05 PM,0:00,,,Strickland REBOUND (Off:0 Def:4),,
+0020000873,232,13,0,2,3:05 PM,0:00,,,,46 - 50,4
+0020000873,234,12,0,3,3:42 PM,12:00,,,,46 - 50,4
+0020000873,235,1,1,3,3:42 PM,11:48,Wells 5' Jump Shot (11 PTS),,,46 - 52,6
+0020000873,236,1,1,3,3:43 PM,11:26,,,Abdur-Rahim 9' Jump Shot (14 PTS),48 - 52,4
+0020000873,237,2,1,3,3:43 PM,11:09,MISS Wallace 18' Jump Shot,,,,
+0020000873,238,4,0,3,3:43 PM,11:07,,,Long REBOUND (Off:0 Def:2),,
+0020000873,239,1,1,3,3:43 PM,10:58,,,Dickerson 21' Jump Shot (7 PTS),50 - 52,2
+0020000873,240,2,1,3,3:44 PM,10:35,MISS Wallace 4' Jump Shot,,,,
+0020000873,241,4,0,3,3:44 PM,10:34,,,Grizzlies Rebound,,
+0020000873,242,6,11,3,3:44 PM,10:26,Wallace T.FOUL (P3.T0),,,,
+0020000873,243,6,11,3,3:44 PM,10:26,Wallace T.FOUL (P3.T0),,,,
+0020000873,244,11,1,3,3:44 PM,10:26,Wallace Ejection:Second Technical,,,,
+0020000873,245,8,0,3,3:44 PM,10:26,SUB: Sabonis FOR Wallace,,,,
+0020000873,246,3,16,3,3:45 PM,10:26,,,Abdur-Rahim Free Throw Technical (15 PTS),51 - 52,1
+0020000873,247,3,16,3,3:45 PM,10:26,,,Abdur-Rahim Free Throw Technical (16 PTS),52 - 52,TIE
+0020000873,248,6,1,3,3:45 PM,10:16,Davis P.FOUL (P1.T1),,,,
+0020000873,249,2,1,3,3:46 PM,10:01,,,MISS Long 21' Jump Shot,,
+0020000873,250,4,0,3,3:46 PM,10:00,Davis REBOUND (Off:2 Def:3),,,,
+0020000873,251,2,1,3,3:46 PM,9:49,MISS Davis 12' Jump Shot,,,,
+0020000873,252,4,0,3,3:46 PM,9:47,,,Massenburg REBOUND (Off:2 Def:3),,
+0020000873,253,1,1,3,3:46 PM,9:39,,,Bibby 22' Jump Shot (7 PTS),54 - 52,-2
+0020000873,254,1,1,3,3:47 PM,9:25,Stoudamire 14' Jump Shot (7 PTS) (Sabonis 1 AST),,,54 - 54,TIE
+0020000873,255,1,1,3,3:47 PM,9:06,,,Dickerson 4' Jump Shot (9 PTS),56 - 54,-2
+0020000873,256,2,1,3,3:47 PM,8:56,MISS Pippen 18' Jump Shot,,,,
+0020000873,257,4,0,3,3:47 PM,8:55,Stoudamire REBOUND (Off:2 Def:1),,,,
+0020000873,258,1,1,3,3:47 PM,8:51,Pippen 9' Jump Shot (13 PTS) (Stoudamire 2 AST),,,56 - 56,TIE
+0020000873,259,2,42,3,3:47 PM,8:40,,,MISS Bibby  Driving Layup,,
+0020000873,260,4,0,3,3:47 PM,8:38,Davis REBOUND (Off:2 Def:4),,,,
+0020000873,261,2,44,3,3:48 PM,8:28,MISS Stoudamire  Reverse Layup,,Abdur-Rahim BLOCK (1 BLK),,
+0020000873,263,4,0,3,3:48 PM,8:24,Davis REBOUND (Off:3 Def:4),,,,
+0020000873,262,1,7,3,3:48 PM,8:24,Davis  Dunk (4 PTS),,,56 - 58,2
+0020000873,264,2,1,3,3:48 PM,8:11,,,MISS Dickerson 3' Jump Shot,,
+0020000873,265,4,0,3,3:48 PM,8:09,TRAIL BLAZERS Rebound,,,,
+0020000873,266,6,1,3,3:48 PM,8:09,,,Massenburg P.FOUL (P2.T1),,
+0020000873,267,2,3,3,3:48 PM,7:50,MISS Sabonis 6' Hook Shot,,,,
+0020000873,268,4,0,3,3:48 PM,7:48,,,Dickerson REBOUND (Off:0 Def:2),,
+0020000873,269,6,4,3,3:49 PM,7:37,,,Dickerson OFF.Foul (P3),,
+0020000873,270,5,5,3,3:49 PM,7:37,,,Dickerson Foul Turnover (P2.T8),,
+0020000873,271,2,1,3,3:49 PM,7:21,MISS Sabonis 22' Jump Shot,,,,
+0020000873,272,4,0,3,3:49 PM,7:19,,,Massenburg REBOUND (Off:2 Def:4),,
+0020000873,273,1,46,3,3:50 PM,6:56,,,Bibby 16' Running Jump Shot (9 PTS),58 - 58,TIE
+0020000873,274,6,17,3,3:50 PM,6:45,,,Grizzlies T.Foul (Def. 3 Sec Massenburg ),,
+0020000873,275,3,16,3,3:50 PM,6:45,Stoudamire Free Throw Technical (8 PTS),,,58 - 59,1
+0020000873,276,2,3,3,3:51 PM,6:38,MISS Sabonis 5' Hook Shot,,,,
+0020000873,277,4,0,3,3:51 PM,6:37,,,Long REBOUND (Off:0 Def:3),,
+0020000873,278,5,1,3,3:51 PM,6:31,Pippen STEAL (1 STL),,Bibby Bad Pass Turnover (P2.T9),,
+0020000873,279,2,5,3,3:51 PM,6:26,MISS Stoudamire  Layup,,,,
+0020000873,280,4,0,3,3:51 PM,6:25,,,Long REBOUND (Off:0 Def:4),,
+0020000873,281,6,1,3,3:51 PM,6:25,Stoudamire P.FOUL (P2.T2),,,,
+0020000873,282,1,1,3,3:52 PM,6:08,,,Dickerson 21' Jump Shot (11 PTS),60 - 59,-1
+0020000873,283,2,1,3,3:52 PM,5:59,MISS Wells 21' Jump Shot,,,,
+0020000873,284,4,0,3,3:52 PM,5:59,,,Grizzlies Rebound,,
+0020000873,285,6,1,3,3:52 PM,5:59,Pippen P.FOUL (P3.T3),,,,
+0020000873,286,9,1,3,3:52 PM,5:59,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,,,
+0020000873,288,1,5,3,3:55 PM,5:49,,,Abdur-Rahim  Layup (18 PTS) (Dickerson 1 AST),62 - 59,-3
+0020000873,289,1,42,3,3:55 PM,5:30,Stoudamire  Driving Layup (10 PTS),,,62 - 61,-1
+0020000873,290,2,1,3,3:55 PM,5:19,,,MISS Abdur-Rahim 21' Jump Shot,,
+0020000873,291,4,0,3,3:55 PM,5:17,Sabonis REBOUND (Off:1 Def:5),,,,
+0020000873,292,2,1,3,3:55 PM,5:08,MISS Pippen 24' 3PT Jump Shot,,,,
+0020000873,293,4,0,3,3:55 PM,5:06,,,Long REBOUND (Off:0 Def:5),,
+0020000873,294,1,7,3,3:55 PM,4:59,,,Abdur-Rahim  Dunk (20 PTS) (Dickerson 2 AST),64 - 61,-3
+0020000873,295,2,5,3,3:56 PM,4:32,MISS Stoudamire  Layup,,,,
+0020000873,296,4,0,3,3:56 PM,4:29,,,Massenburg REBOUND (Off:2 Def:5),,
+0020000873,297,1,1,3,3:56 PM,4:25,,,Abdur-Rahim 22' Jump Shot (22 PTS) (Bibby 8 AST),66 - 61,-5
+0020000873,298,6,2,3,3:56 PM,4:07,,,Massenburg S.FOUL (P3.T2),,
+0020000873,299,3,11,3,3:56 PM,4:07,MISS Sabonis Free Throw 1 of 2,,,,
+0020000873,300,4,1,3,3:56 PM,4:07,TRAIL BLAZERS Rebound,,,,
+0020000873,301,8,0,3,3:57 PM,4:07,SUB: Kemp FOR Davis,,,,
+0020000873,303,8,0,3,3:57 PM,4:07,,,SUB: Strickland FOR Long,,
+0020000873,304,3,12,3,3:57 PM,4:07,Sabonis Free Throw 2 of 2 (7 PTS),,,66 - 62,-4
+0020000873,305,1,1,3,3:57 PM,3:47,,,Dickerson 24' Jump Shot (13 PTS) (Strickland 4 AST),68 - 62,-6
+0020000873,306,6,1,3,3:58 PM,3:33,,,Strickland P.FOUL (P2.T3),,
+0020000873,307,2,1,3,3:58 PM,3:29,MISS Sabonis 24' 3PT Jump Shot,,,,
+0020000873,308,4,0,3,3:58 PM,3:29,TRAIL BLAZERS Rebound,,,,
+0020000873,309,6,1,3,3:58 PM,3:29,,,Strickland P.FOUL (P3.T4),,
+0020000873,310,6,1,3,3:59 PM,3:22,,,Abdur-Rahim P.FOUL (P2.PN),,
+0020000873,311,3,11,3,3:59 PM,3:22,MISS Kemp Free Throw 1 of 2,,,,
+0020000873,312,4,1,3,3:59 PM,3:22,TRAIL BLAZERS Rebound,,,,
+0020000873,313,3,12,3,3:59 PM,3:22,Kemp Free Throw 2 of 2 (6 PTS),,,68 - 63,-5
+0020000873,314,1,1,3,4:00 PM,3:08,,,Massenburg 4' Jump Shot (8 PTS) (Bibby 9 AST),70 - 63,-7
+0020000873,315,6,2,3,4:00 PM,2:48,,,Strickland S.FOUL (P4.PN),,
+0020000873,316,9,1,3,4:00 PM,2:48,,,Grizzlies Timeout: Regular (Reg.3 Short 1),,
+0020000873,318,8,0,3,4:02 PM,2:48,,,SUB: Long FOR Strickland,,
+0020000873,320,8,0,3,4:03 PM,2:48,SUB: Schrempf FOR Sabonis,,,,
+0020000873,321,3,11,3,4:03 PM,2:48,Wells Free Throw 1 of 2 (12 PTS),,,70 - 64,-6
+0020000873,322,3,12,3,4:03 PM,2:48,Wells Free Throw 2 of 2 (13 PTS),,,70 - 65,-5
+0020000873,323,6,2,3,4:03 PM,2:34,Stoudamire S.FOUL (P3.T4),,,,
+0020000873,324,3,11,3,4:03 PM,2:34,,,Bibby Free Throw 1 of 2 (10 PTS),71 - 65,-6
+0020000873,325,8,0,3,4:04 PM,2:34,,,SUB: Austin FOR Massenburg,,
+0020000873,326,3,12,3,4:04 PM,2:34,,,Bibby Free Throw 2 of 2 (11 PTS),72 - 65,-7
+0020000873,327,2,1,3,4:04 PM,2:22,MISS Wells 5' Jump Shot,,,,
+0020000873,329,4,0,3,4:04 PM,2:20,Pippen REBOUND (Off:2 Def:0),,,,
+0020000873,328,2,5,3,4:04 PM,2:20,MISS Pippen  Layup,,,,
+0020000873,331,4,0,3,4:04 PM,2:18,Pippen REBOUND (Off:3 Def:0),,,,
+0020000873,330,1,4,3,4:04 PM,2:18,Pippen  Tip Shot (15 PTS),,,72 - 67,-5
+0020000873,332,2,1,3,4:04 PM,2:01,,,MISS Dickerson 23' Jump Shot,,
+0020000873,333,4,0,3,4:04 PM,1:58,Stoudamire REBOUND (Off:2 Def:2),,,,
+0020000873,334,1,5,3,4:04 PM,1:55,Wells  Layup (15 PTS) (Stoudamire 3 AST),,,72 - 69,-3
+0020000873,335,2,1,3,4:05 PM,1:29,,,MISS Dickerson 14' Jump Shot,,
+0020000873,336,4,0,3,4:05 PM,1:26,Kemp REBOUND (Off:1 Def:6),,,,
+0020000873,337,8,0,3,4:05 PM,1:20,,,SUB: Abdul-Rauf FOR Bibby,,
+0020000873,338,8,0,3,4:05 PM,1:20,SUB: Smith FOR Wells,,,,
+0020000873,339,1,59,3,4:06 PM,1:12,Schrempf  Finger Roll (4 PTS),,,72 - 71,-1
+0020000873,340,5,2,3,4:06 PM,0:51,Pippen STEAL (2 STL),,Austin Lost Ball Turnover (P1.T10),,
+0020000873,341,1,5,3,4:06 PM,0:40,Schrempf 4' Layup (6 PTS) (Stoudamire 4 AST),,,72 - 73,1
+0020000873,342,5,2,3,4:06 PM,0:21,Stoudamire STEAL (2 STL),,Abdul-Rauf Lost Ball Turnover (P1.T11),,
+0020000873,343,1,42,3,4:07 PM,0:17,Stoudamire  Driving Layup (12 PTS) (Kemp 2 AST),,,72 - 75,3
+0020000873,344,6,2,3,4:07 PM,0:17,,,Long S.FOUL (P4.PN),,
+0020000873,346,8,0,3,4:07 PM,0:17,,,SUB: Bibby FOR Austin,,
+0020000873,347,3,10,3,4:07 PM,0:17,Stoudamire Free Throw 1 of 1 (13 PTS),,,72 - 76,4
+0020000873,348,5,2,3,4:08 PM,0:02,Pippen STEAL (3 STL),,Bibby Lost Ball Turnover (P3.T12),,
+0020000873,351,13,0,3,4:08 PM,0:00,,,,72 - 76,4
+0020000873,353,12,0,4,4:10 PM,12:00,,,,72 - 76,4
+0020000873,354,6,1,4,4:11 PM,11:46,Schrempf P.FOUL (P2.T1),,,,
+0020000873,355,1,1,4,4:11 PM,11:42,,,Dickerson 22' Jump Shot (15 PTS) (Abdul-Rauf 3 AST),74 - 76,2
+0020000873,356,2,42,4,4:12 PM,11:22,MISS Smith  Driving Layup,,,,
+0020000873,357,4,0,4,4:12 PM,11:20,,,Abdul-Rauf REBOUND (Off:0 Def:2),,
+0020000873,358,6,2,4,4:12 PM,11:18,Kemp S.FOUL (P4.T2),,,,
+0020000873,359,3,11,4,4:12 PM,11:18,,,MISS Dickerson Free Throw 1 of 2,,
+0020000873,360,4,1,4,4:12 PM,11:18,,,Grizzlies Rebound,,
+0020000873,361,3,12,4,4:12 PM,11:18,,,Dickerson Free Throw 2 of 2 (16 PTS),75 - 76,1
+0020000873,362,2,46,4,4:13 PM,11:03,MISS Smith 14' Running Jump Shot,,,,
+0020000873,363,4,0,4,4:13 PM,11:00,,,Abdur-Rahim REBOUND (Off:0 Def:3),,
+0020000873,364,2,1,4,4:13 PM,10:54,,,MISS Dickerson 15' Jump Shot,,
+0020000873,366,4,0,4,4:13 PM,10:53,,,Austin REBOUND (Off:1 Def:1),,
+0020000873,365,1,4,4,4:13 PM,10:53,,,Austin  Tip Shot (6 PTS),77 - 76,-1
+0020000873,367,2,47,4,4:13 PM,10:34,MISS Pippen 14' Turnaround Jump Shot,,,,
+0020000873,368,4,0,4,4:13 PM,10:32,,,Austin REBOUND (Off:1 Def:2),,
+0020000873,369,1,42,4,4:13 PM,10:22,,,Dickerson  Driving Layup (18 PTS),79 - 76,-3
+0020000873,370,1,1,4,4:14 PM,10:00,Smith 24' 3PT Jump Shot (7 PTS) (Strickland 4 AST),,,79 - 79,TIE
+0020000873,371,1,1,4,4:14 PM,9:37,,,Abdul-Rauf 23' Jump Shot (3 PTS) (Dickerson 3 AST),81 - 79,-2
+0020000873,372,1,1,4,4:14 PM,9:19,Strickland 19' Jump Shot (6 PTS) (Smith 2 AST),,,81 - 81,TIE
+0020000873,373,1,1,4,4:15 PM,8:57,,,Long 22' Jump Shot (4 PTS) (Austin 1 AST),83 - 81,-2
+0020000873,374,1,1,4,4:15 PM,8:40,Smith 25' 3PT Jump Shot (10 PTS) (Strickland 5 AST),,,83 - 84,1
+0020000873,375,6,2,4,4:15 PM,8:30,Kemp S.FOUL (P5.T3),,,,
+0020000873,376,9,4,4,4:15 PM,8:30,,,,,
+0020000873,378,8,0,4,4:17 PM,8:30,SUB: Davis FOR Pippen,,,,
+0020000873,390,8,0,4,4:17 PM,8:30,SUB: Sabonis FOR Kemp,,,,
+0020000873,379,3,11,4,4:18 PM,8:30,,,Long Free Throw 1 of 2 (5 PTS),84 - 84,TIE
+0020000873,380,3,12,4,4:18 PM,8:30,,,Long Free Throw 2 of 2 (6 PTS),85 - 84,-1
+0020000873,381,2,1,4,4:18 PM,8:18,MISS Strickland 22' Jump Shot,,,,
+0020000873,382,4,0,4,4:18 PM,8:15,Davis REBOUND (Off:4 Def:4),,,,
+0020000873,383,2,1,4,4:19 PM,8:08,MISS Sabonis 21' Jump Shot,,,,
+0020000873,384,4,0,4,4:19 PM,8:05,,,Long REBOUND (Off:0 Def:6),,
+0020000873,386,2,1,4,4:19 PM,7:54,,,MISS Abdul-Rauf 19' Jump Shot,,
+0020000873,387,4,0,4,4:19 PM,7:53,TRAIL BLAZERS Rebound,,,,
+0020000873,388,6,3,4,4:19 PM,7:53,,,Abdur-Rahim L.B.FOUL (P3.T1),,
+0020000873,389,8,0,4,4:19 PM,7:53,,,SUB: Swift FOR Long,,
+0020000873,391,2,1,4,4:19 PM,7:40,MISS Strickland 2' Jump Shot,,,,
+0020000873,392,4,0,4,4:19 PM,7:38,,,Abdur-Rahim REBOUND (Off:0 Def:4),,
+0020000873,393,1,1,4,4:20 PM,7:23,,,Austin 19' Jump Shot (8 PTS) (Dickerson 4 AST),87 - 84,-3
+0020000873,394,2,3,4,4:20 PM,7:02,MISS Sabonis 7' Hook Shot,,,,
+0020000873,395,4,0,4,4:20 PM,7:01,,,Austin REBOUND (Off:1 Def:3),,
+0020000873,396,6,1,4,4:20 PM,7:01,Sabonis P.FOUL (P1.T4),,,,
+0020000873,397,8,0,4,4:20 PM,7:01,,,SUB: Bibby FOR Abdul-Rauf,,
+0020000873,398,2,1,4,4:21 PM,6:40,,,MISS Abdur-Rahim 17' Jump Shot,,
+0020000873,399,4,0,4,4:21 PM,6:38,Schrempf REBOUND (Off:0 Def:4),,,,
+0020000873,400,1,1,4,4:21 PM,6:21,Smith 19' Jump Shot (12 PTS) (Schrempf 4 AST),,,87 - 86,-1
+0020000873,401,9,1,4,4:21 PM,6:18,,,Grizzlies Timeout: Regular (Reg.4 Short 1),,
+0020000873,403,5,1,4,4:23 PM,6:04,Sabonis STEAL (2 STL),,Abdur-Rahim Bad Pass Turnover (P2.T13),,
+0020000873,404,1,1,4,4:24 PM,5:40,Schrempf 17' Jump Shot (8 PTS),,,87 - 88,1
+0020000873,405,1,1,4,4:24 PM,5:17,,,Bibby 21' Jump Shot (13 PTS) (Austin 2 AST),89 - 88,-1
+0020000873,406,6,17,4,4:25 PM,4:58,,,Grizzlies T.Foul (Def. 3 Sec Austin ),,
+0020000873,407,8,0,4,4:25 PM,4:58,SUB: Pippen FOR Sabonis,,,,
+0020000873,408,3,16,4,4:25 PM,4:58,MISS Smith Free Throw Technical,,,,
+0020000873,409,4,1,4,4:25 PM,4:58,TRAIL BLAZERS Rebound,,,,
+0020000873,410,1,47,4,4:26 PM,4:50,Smith 12' Turnaround Jump Shot (14 PTS),,,89 - 90,1
+0020000873,411,8,0,4,4:26 PM,4:27,SUB: Stoudamire FOR Strickland,,,,
+0020000873,412,5,11,4,4:26 PM,4:22,,,Grizzlies Turnover: Shot Clock (T#14),,
+0020000873,413,2,47,4,4:27 PM,4:09,MISS Smith 18' Turnaround Jump Shot,,,,
+0020000873,414,4,0,4,4:27 PM,4:07,,,Abdur-Rahim REBOUND (Off:0 Def:5),,
+0020000873,415,6,2,4,4:27 PM,3:48,Pippen S.FOUL (P4.PN),,,,
+0020000873,416,3,11,4,4:28 PM,3:48,,,Swift Free Throw 1 of 2 (6 PTS),90 - 90,TIE
+0020000873,417,3,12,4,4:28 PM,3:48,,,Swift Free Throw 2 of 2 (7 PTS),91 - 90,-1
+0020000873,418,1,42,4,4:28 PM,3:28,Stoudamire  Driving Layup (15 PTS),,,91 - 92,1
+0020000873,419,5,1,4,4:29 PM,3:14,,,Bibby Bad Pass Turnover (P4.T15),,
+0020000873,420,5,1,4,4:29 PM,3:01,Stoudamire Bad Pass Turnover (P4.T9),,Swift STEAL (1 STL),,
+0020000873,421,6,9,4,4:29 PM,3:00,Stoudamire C.P.FOUL (P4.PN),,,,
+0020000873,422,3,17,4,4:29 PM,3:00,,,Swift Free Throw Clear Path (8 PTS),92 - 92,TIE
+0020000873,423,1,7,4,4:30 PM,2:52,,,Swift  Dunk (10 PTS) (Austin 3 AST),94 - 92,-2
+0020000873,424,6,1,4,4:30 PM,2:36,,,Swift P.FOUL (P4.T2),,
+0020000873,425,9,1,4,4:30 PM,2:36,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,,,
+0020000873,427,6,1,4,4:33 PM,2:31,,,Dickerson P.FOUL (P4.T3),,
+0020000873,428,2,1,4,4:33 PM,2:17,MISS Schrempf 22' Jump Shot,,,,
+0020000873,429,4,0,4,4:33 PM,2:16,,,Grizzlies Rebound,,
+0020000873,430,6,3,4,4:33 PM,2:16,Schrempf L.B.FOUL (P3.PN),,,,
+0020000873,431,3,11,4,4:34 PM,2:16,,,Bibby Free Throw 1 of 2 (14 PTS),95 - 92,-3
+0020000873,432,3,12,4,4:34 PM,2:16,,,MISS Bibby Free Throw 2 of 2,,
+0020000873,433,4,0,4,4:34 PM,2:14,Pippen REBOUND (Off:3 Def:1),,,,
+0020000873,434,1,7,4,4:34 PM,2:09,Davis  Dunk (6 PTS) (Stoudamire 5 AST),,,95 - 94,-1
+0020000873,435,6,2,4,4:34 PM,2:09,,,Austin S.FOUL (P1.T4),,
+0020000873,436,3,10,4,4:34 PM,2:09,Davis Free Throw 1 of 1 (7 PTS),,,95 - 95,TIE
+0020000873,437,2,1,4,4:35 PM,1:54,,,MISS Austin 18' Jump Shot,,
+0020000873,438,4,0,4,4:35 PM,1:52,,,Abdur-Rahim REBOUND (Off:1 Def:5),,
+0020000873,439,2,1,4,4:35 PM,1:47,,,MISS Swift 6' Jump Shot,,
+0020000873,441,4,0,4,4:35 PM,1:46,,,Abdur-Rahim REBOUND (Off:2 Def:5),,
+0020000873,440,1,4,4,4:35 PM,1:46,,,Abdur-Rahim  Tip Shot (24 PTS),97 - 95,-2
+0020000873,442,2,1,4,4:35 PM,1:34,MISS Stoudamire 23' Jump Shot,,,,
+0020000873,443,4,0,4,4:35 PM,1:32,,,Dickerson REBOUND (Off:0 Def:3),,
+0020000873,444,1,42,4,4:36 PM,1:15,,,Abdur-Rahim  Driving Layup (26 PTS) (Bibby 10 AST),99 - 95,-4
+0020000873,445,9,1,4,4:36 PM,1:15,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,,,
+0020000873,447,8,0,4,4:37 PM,1:15,SUB: Sabonis FOR Davis,,,,
+0020000873,448,2,1,4,4:38 PM,0:58,MISS Schrempf 15' Jump Shot,,,,
+0020000873,449,4,0,4,4:38 PM,0:56,,,Abdur-Rahim REBOUND (Off:2 Def:6),,
+0020000873,450,1,5,4,4:38 PM,0:38,,,Swift  Layup (12 PTS) (Austin 4 AST),101 - 95,-6
+0020000873,451,2,1,4,4:39 PM,0:30,MISS Pippen  3PT Jump Shot,,,,
+0020000873,452,4,0,4,4:39 PM,0:27,,,Grizzlies Rebound,,
+0020000873,453,8,0,4,4:39 PM,0:27,,,SUB: Abdul-Rauf FOR Swift,,
+0020000873,454,8,0,4,4:39 PM,0:27,SUB: Davis FOR Sabonis,,,,
+0020000873,455,8,0,4,4:39 PM,0:27,,,SUB: Strickland FOR Austin,,
+0020000873,456,8,0,4,4:39 PM,0:27,SUB: Strickland FOR Davis,,,,
+0020000873,457,6,1,4,4:39 PM,0:25,Smith P.FOUL (P2.PN),,,,
+0020000873,458,3,11,4,4:40 PM,0:25,,,Dickerson Free Throw 1 of 2 (19 PTS),102 - 95,-7
+0020000873,459,8,0,4,4:40 PM,0:25,,,SUB: Long FOR Abdul-Rauf,,
+0020000873,460,3,12,4,4:40 PM,0:25,,,Dickerson Free Throw 2 of 2 (20 PTS),103 - 95,-8
+0020000873,461,1,42,4,4:41 PM,0:17,Strickland  Driving Layup (8 PTS),,,103 - 97,-6
+0020000873,462,6,1,4,4:41 PM,0:17,Smith P.FOUL (P3.PN),,,,
+0020000873,463,3,11,4,4:41 PM,0:17,,,Long Free Throw 1 of 2 (7 PTS),104 - 97,-7
+0020000873,464,3,12,4,4:41 PM,0:17,,,Long Free Throw 2 of 2 (8 PTS),105 - 97,-8
+0020000873,465,9,2,4,4:41 PM,0:17,TRAIL BLAZERS Timeout: Short (Full 5 Short 1),,,,
+0020000873,467,2,1,4,4:43 PM,0:10,MISS Stoudamire  3PT Jump Shot,,,,
+0020000873,468,4,0,4,4:43 PM,0:07,Schrempf REBOUND (Off:1 Def:4),,,,
+0020000873,469,5,1,4,4:43 PM,0:05,Schrempf Bad Pass Turnover (P1.T10),,Long STEAL (1 STL),,
+0020000873,470,13,0,4,4:43 PM,0:00,,,,105 - 97,-8

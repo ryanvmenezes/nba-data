@@ -1,0 +1,430 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000109,0,12,0,1,12:10 PM,12:00,,,,,
+0020000109,1,10,0,1,12:11 PM,12:00,Jump Ball Divac vs. McGrady: Tip to Reid,,,,
+0020000109,2,2,1,1,12:11 PM,11:45,Pollard BLOCK (1 BLK),,MISS Amaechi 6' Jump Shot,,
+0020000109,3,4,0,1,12:11 PM,11:43,,,Amaechi REBOUND (Off:1 Def:0),,
+0020000109,4,2,5,1,12:11 PM,11:39,Divac BLOCK (1 BLK),,MISS Amaechi 3' Layup,,
+0020000109,5,4,0,1,12:11 PM,11:38,Divac REBOUND (Off:0 Def:1),,,,
+0020000109,6,1,5,1,12:11 PM,11:30,Pollard 3' Layup (2 PTS) (Divac 1 AST),,,0 - 2,2
+0020000109,7,1,1,1,12:12 PM,11:09,,,Armstrong 19' Jump Shot (2 PTS),2 - 2,TIE
+0020000109,8,6,2,1,12:12 PM,10:51,,,Reid S.FOUL (P1.T1),,
+0020000109,9,3,11,1,12:12 PM,10:51,Divac Free Throw 1 of 2 (1 PTS),,,2 - 3,1
+0020000109,10,3,12,1,12:13 PM,10:51,Divac Free Throw 2 of 2 (2 PTS),,,2 - 4,2
+0020000109,11,7,2,1,12:13 PM,10:41,Divac Violation:Defensive Goaltending,,,,
+0020000109,13,2,42,1,12:13 PM,10:32,,,MISS McGrady 2' Driving Layup,,
+0020000109,14,4,0,1,12:13 PM,10:30,Divac REBOUND (Off:0 Def:2),,,,
+0020000109,15,1,58,1,12:13 PM,10:18,Pollard 6' Turnaround Hook Shot (4 PTS),,,2 - 6,4
+0020000109,16,5,2,1,12:14 PM,10:04,Christie STEAL (1 STL),,McGrady Lost Ball Turnover (P1.T1),,
+0020000109,17,6,2,1,12:14 PM,10:00,,,Reid S.FOUL (P2.T2),,
+0020000109,18,3,11,1,12:14 PM,10:00,Stojakovic Free Throw 1 of 2 (1 PTS),,,2 - 7,5
+0020000109,19,8,0,1,12:14 PM,10:00,,,SUB: Garrity FOR Reid,,
+0020000109,20,3,12,1,12:14 PM,10:00,Stojakovic Free Throw 2 of 2 (2 PTS),,,2 - 8,6
+0020000109,21,2,1,1,12:15 PM,9:48,,,MISS Armstrong  3PT Jump Shot,,
+0020000109,22,4,0,1,12:15 PM,9:45,,,Outlaw REBOUND (Off:1 Def:0),,
+0020000109,23,1,57,1,12:15 PM,9:30,,,Outlaw 3' Driving Hook Shot (2 PTS),4 - 8,4
+0020000109,24,2,1,1,12:15 PM,9:17,MISS Stojakovic 21' Jump Shot,,,,
+0020000109,25,4,0,1,12:15 PM,9:15,,,McGrady REBOUND (Off:0 Def:1),,
+0020000109,26,1,1,1,12:15 PM,9:03,,,McGrady 14' Jump Shot (2 PTS),6 - 8,2
+0020000109,27,5,2,1,12:16 PM,8:51,Stojakovic Lost Ball Turnover (P1.T1),,,,
+0020000109,28,1,1,1,12:16 PM,8:34,,,Garrity 25' 3PT Jump Shot (3 PTS) (Armstrong 1 AST),9 - 8,-1
+0020000109,29,1,3,1,12:16 PM,8:13,Pollard 4' Hook Shot (6 PTS) (Williams 1 AST),,,9 - 10,1
+0020000109,30,2,1,1,12:17 PM,7:56,,,MISS Amaechi 9' Jump Shot,,
+0020000109,31,4,0,1,12:17 PM,7:54,,,Armstrong REBOUND (Off:1 Def:0),,
+0020000109,32,6,2,1,12:17 PM,7:46,Williams S.FOUL (P1.T1),,,,
+0020000109,33,3,11,1,12:17 PM,7:46,,,Armstrong Free Throw 1 of 2 (3 PTS),10 - 10,TIE
+0020000109,34,3,12,1,12:17 PM,7:46,,,Armstrong Free Throw 2 of 2 (4 PTS),11 - 10,-1
+0020000109,35,2,1,1,12:18 PM,7:34,MISS Divac 14' Jump Shot,,,,
+0020000109,36,4,0,1,12:18 PM,7:32,,,Armstrong REBOUND (Off:1 Def:1),,
+0020000109,37,1,1,1,12:18 PM,7:28,,,Armstrong 19' Jump Shot (6 PTS),13 - 10,-3
+0020000109,38,6,2,1,12:18 PM,7:12,,,Garrity S.FOUL (P1.T3),,
+0020000109,39,3,11,1,12:18 PM,7:12,Stojakovic Free Throw 1 of 2 (3 PTS),,,13 - 11,-2
+0020000109,40,3,12,1,12:19 PM,7:12,Stojakovic Free Throw 2 of 2 (4 PTS),,,13 - 12,-1
+0020000109,41,1,1,1,12:19 PM,7:04,,,McGrady  3PT Jump Shot (5 PTS) (Armstrong 2 AST),16 - 12,-4
+0020000109,42,1,1,1,12:19 PM,6:46,Stojakovic 6' Jump Shot (6 PTS) (Divac 2 AST),,,16 - 14,-2
+0020000109,43,5,1,1,12:19 PM,6:41,Christie STEAL (2 STL),,Armstrong Bad Pass Turnover (P1.T2),,
+0020000109,44,2,1,1,12:19 PM,6:32,MISS Divac 21' Jump Shot,,,,
+0020000109,45,4,0,1,12:19 PM,6:30,KINGS Rebound,,,,
+0020000109,46,1,1,1,12:20 PM,6:27,Divac 17' Jump Shot (4 PTS) (Stojakovic 1 AST),,,16 - 16,TIE
+0020000109,47,5,1,1,12:20 PM,6:19,Williams STEAL (1 STL),,Outlaw Bad Pass Turnover (P1.T3),,
+0020000109,48,2,1,1,12:20 PM,6:07,MISS Stojakovic 16' Jump Shot,,,,
+0020000109,49,4,0,1,12:20 PM,6:04,Pollard REBOUND (Off:1 Def:0),,,,
+0020000109,50,5,1,1,12:20 PM,6:01,Pollard Bad Pass Turnover (P1.T2),,Amaechi STEAL (1 STL),,
+0020000109,51,1,3,1,12:20 PM,5:57,,,McGrady 3' Hook Shot (7 PTS) (Armstrong 3 AST),18 - 16,-2
+0020000109,52,9,1,1,12:21 PM,5:41,KINGS Timeout: Regular (Full 1 Short 0),,,,
+0020000109,54,1,1,1,12:23 PM,5:38,Divac 19' Jump Shot (6 PTS) (Stojakovic 2 AST),,,18 - 18,TIE
+0020000109,55,1,3,1,12:23 PM,5:25,,,Outlaw 6' Hook Shot (4 PTS) (McGrady 1 AST),20 - 18,-2
+0020000109,56,1,1,1,12:23 PM,5:11,Stojakovic 13' Jump Shot (8 PTS),,,20 - 20,TIE
+0020000109,57,2,1,1,12:24 PM,4:51,Divac BLOCK (2 BLK),,MISS Garrity 4' Jump Shot,,
+0020000109,58,4,0,1,12:24 PM,4:50,,,Garrity REBOUND (Off:1 Def:0),,
+0020000109,59,2,1,1,12:24 PM,4:44,,,MISS Amaechi 17' Jump Shot,,
+0020000109,60,4,0,1,12:24 PM,4:43,,,Magic Rebound,,
+0020000109,61,6,3,1,12:24 PM,4:43,Pollard L.B.FOUL (P1.T2),,,,
+0020000109,62,2,1,1,12:25 PM,4:21,,,MISS Amaechi 6' Jump Shot,,
+0020000109,63,4,0,1,12:25 PM,4:19,,,Outlaw REBOUND (Off:2 Def:0),,
+0020000109,64,6,2,1,12:25 PM,4:19,Divac S.FOUL (P1.T3),,,,
+0020000109,65,3,11,1,12:25 PM,4:19,,,Outlaw Free Throw 1 of 2 (5 PTS),21 - 20,-1
+0020000109,66,3,12,1,12:25 PM,4:19,,,MISS Outlaw Free Throw 2 of 2,,
+0020000109,67,4,0,1,12:26 PM,4:19,Stojakovic REBOUND (Off:0 Def:1),,,,
+0020000109,68,1,1,1,12:26 PM,4:03,Stojakovic 25' 3PT Jump Shot (11 PTS) (Williams 2 AST),,,21 - 23,2
+0020000109,69,1,1,1,12:26 PM,3:42,,,Amaechi 6' Jump Shot (2 PTS),23 - 23,TIE
+0020000109,70,1,5,1,12:26 PM,3:28,Stojakovic  Layup (13 PTS) (Williams 3 AST),,,23 - 25,2
+0020000109,71,2,1,1,12:27 PM,3:08,,,MISS McGrady 16' Jump Shot,,
+0020000109,72,4,0,1,12:27 PM,3:07,KINGS Rebound,,,,
+0020000109,73,6,3,1,12:27 PM,3:07,,,Amaechi L.B.FOUL (P1.T4),,
+0020000109,74,8,0,1,12:27 PM,3:07,,,SUB: Doleac FOR Amaechi,,
+0020000109,76,5,1,1,12:27 PM,2:52,Divac Bad Pass Turnover (P1.T3),,Garrity STEAL (1 STL),,
+0020000109,77,5,1,1,12:28 PM,2:40,Pollard STEAL (1 STL),,McGrady Bad Pass Turnover (P2.T4),,
+0020000109,78,2,1,1,12:28 PM,2:33,MISS Stojakovic 18' Jump Shot,,,,
+0020000109,79,4,0,1,12:28 PM,2:31,,,Outlaw REBOUND (Off:2 Def:1),,
+0020000109,80,5,4,1,12:28 PM,2:27,,,Garrity Traveling Turnover (P1.T5),,
+0020000109,81,9,1,1,12:28 PM,2:27,,,Magic Timeout: Regular (Reg.1 Short 0),,
+0020000109,83,8,0,1,12:31 PM,2:27,SUB: Funderburke FOR Pollard,,,,
+0020000109,84,6,2,1,12:31 PM,2:08,,,McGrady S.FOUL (P1.PN),,
+0020000109,85,3,11,1,12:31 PM,2:08,MISS Christie Free Throw 1 of 2,,,,
+0020000109,86,4,1,1,12:31 PM,2:08,KINGS Rebound,,,,
+0020000109,87,3,12,1,12:31 PM,2:08,Christie Free Throw 2 of 2 (1 PTS),,,23 - 26,3
+0020000109,88,2,1,1,12:32 PM,1:55,,,MISS McGrady 4' Jump Shot,,
+0020000109,90,4,0,1,12:32 PM,1:54,,,McGrady REBOUND (Off:1 Def:1),,
+0020000109,89,2,3,1,12:32 PM,1:54,,,MISS McGrady  Hook Shot,,
+0020000109,91,4,0,1,12:32 PM,1:53,,,McGrady REBOUND (Off:2 Def:1),,
+0020000109,92,1,3,1,12:32 PM,1:51,,,McGrady 6' Hook Shot (9 PTS),25 - 26,1
+0020000109,93,8,0,1,12:32 PM,1:32,,,SUB: Miller FOR Outlaw,,
+0020000109,94,2,1,1,12:33 PM,1:29,MISS Divac 20' Jump Shot,,,,
+0020000109,95,4,0,1,12:33 PM,1:27,,,McGrady REBOUND (Off:2 Def:2),,
+0020000109,96,5,2,1,12:33 PM,1:14,Funderburke STEAL (1 STL),,Armstrong Lost Ball Turnover (P2.T6),,
+0020000109,97,2,5,1,12:33 PM,1:10,MISS Williams  Layup,,,,
+0020000109,98,4,0,1,12:33 PM,1:10,,,Magic Rebound,,
+0020000109,99,6,3,1,12:33 PM,1:10,Funderburke L.B.FOUL (P1.T4),,,,
+0020000109,100,1,1,1,12:33 PM,0:57,,,Doleac 17' Jump Shot (2 PTS) (Armstrong 4 AST),27 - 26,-1
+0020000109,101,6,1,1,12:34 PM,0:45,,,Garrity P.FOUL (P2.PN),,
+0020000109,102,3,11,1,12:34 PM,0:45,MISS Stojakovic Free Throw 1 of 2,,,,
+0020000109,103,4,1,1,12:34 PM,0:45,KINGS Rebound,,,,
+0020000109,104,8,0,1,12:34 PM,0:45,,,SUB: Outlaw FOR Garrity,,
+0020000109,105,3,12,1,12:34 PM,0:45,Stojakovic Free Throw 2 of 2 (14 PTS),,,27 - 27,TIE
+0020000109,106,1,1,1,12:35 PM,0:33,,,Armstrong 25' 3PT Jump Shot (9 PTS),30 - 27,-3
+0020000109,107,5,1,1,12:35 PM,0:32,Divac Bad Pass Turnover (P2.T4),,Miller STEAL (1 STL),,
+0020000109,108,1,49,1,12:35 PM,0:11,,,McGrady  Driving Dunk (11 PTS),32 - 27,-5
+0020000109,109,6,2,1,12:35 PM,0:11,Stojakovic S.FOUL (P1.PN),,,,
+0020000109,110,3,10,1,12:35 PM,0:11,,,McGrady Free Throw 1 of 1 (12 PTS),33 - 27,-6
+0020000109,111,5,1,1,12:36 PM,0:00,Williams Bad Pass Turnover (P1.T5),,Doleac STEAL (1 STL),,
+0020000109,112,13,0,1,12:36 PM,0:00,,,,33 - 27,-6
+0020000109,114,12,0,2,12:39 PM,12:00,,,,33 - 27,-6
+0020000109,115,2,1,2,12:39 PM,11:43,MISS Stojakovic 18' Jump Shot,,,,
+0020000109,116,4,0,2,12:39 PM,11:41,,,Miller REBOUND (Off:0 Def:1),,
+0020000109,117,1,49,2,12:40 PM,11:39,,,McGrady  Driving Dunk (14 PTS) (Miller 1 AST),35 - 27,-8
+0020000109,118,1,47,2,12:40 PM,11:22,Divac 8' Turnaround Jump Shot (8 PTS),,,35 - 29,-6
+0020000109,119,8,0,2,12:40 PM,11:09,,,SUB: Williams FOR McGrady,,
+0020000109,120,1,1,2,12:40 PM,11:08,,,Doleac 17' Jump Shot (4 PTS) (Williams 1 AST),37 - 29,-8
+0020000109,121,2,1,2,12:41 PM,10:52,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000109,122,4,0,2,12:41 PM,10:50,,,Doleac REBOUND (Off:0 Def:1),,
+0020000109,123,5,1,2,12:41 PM,10:48,,,Hudson Bad Pass Turnover (P1.T7),,
+0020000109,124,2,1,2,12:41 PM,10:36,MISS Funderburke 18' Jump Shot,,,,
+0020000109,125,4,0,2,12:41 PM,10:35,,,Miller REBOUND (Off:0 Def:2),,
+0020000109,126,2,1,2,12:41 PM,10:28,,,MISS Miller 22' Jump Shot,,
+0020000109,127,4,0,2,12:41 PM,10:27,Divac REBOUND (Off:0 Def:3),,,,
+0020000109,128,7,2,2,12:41 PM,10:16,,,Outlaw Violation:Defensive Goaltending,,
+0020000109,129,8,0,2,12:42 PM,10:16,SUB: Anderson FOR Stojakovic,,,,
+0020000109,130,6,1,2,12:42 PM,10:14,,,Outlaw P.FOUL (P1.T1),,
+0020000109,131,6,2,2,12:42 PM,10:06,,,Doleac S.FOUL (P1.T2),,
+0020000109,132,3,11,2,12:43 PM,10:06,Divac Free Throw 1 of 2 (9 PTS),,,37 - 30,-7
+0020000109,133,3,12,2,12:43 PM,10:06,Divac Free Throw 2 of 2 (10 PTS),,,37 - 31,-6
+0020000109,134,1,3,2,12:43 PM,9:51,,,Outlaw 1' Hook Shot (7 PTS) (Williams 2 AST),39 - 31,-8
+0020000109,135,1,1,2,12:44 PM,9:30,Jackson 22' Jump Shot (2 PTS) (Divac 3 AST),,,39 - 33,-6
+0020000109,136,6,1,2,12:44 PM,9:18,Funderburke P.FOUL (P2.T1),,,,
+0020000109,137,8,0,2,12:44 PM,9:18,SUB: Turkoglu FOR Divac,,,,
+0020000109,138,1,42,2,12:44 PM,9:09,,,Williams  Driving Layup (2 PTS),41 - 33,-8
+0020000109,139,5,1,2,12:45 PM,8:49,Anderson Bad Pass Turnover (P1.T6),,,,
+0020000109,140,9,4,2,12:45 PM,8:49,,,,,
+0020000109,142,8,0,2,12:47 PM,8:49,SUB: Pollard FOR Funderburke,,,,
+0020000109,144,5,2,2,12:47 PM,8:37,Jackson STEAL (1 STL),,Williams Lost Ball Turnover (P1.T8),,
+0020000109,145,6,1,2,12:48 PM,8:31,,,Doleac P.FOUL (P2.T3),,
+0020000109,146,2,1,2,12:48 PM,8:16,MISS Turkoglu 20' Jump Shot,,,,
+0020000109,147,4,0,2,12:48 PM,8:14,KINGS Rebound,,,,
+0020000109,148,5,1,2,12:48 PM,8:13,Anderson Bad Pass Turnover (P2.T7),,Outlaw STEAL (1 STL),,
+0020000109,149,2,1,2,12:49 PM,8:04,,,MISS Miller 12' Jump Shot,,
+0020000109,150,4,0,2,12:49 PM,8:02,Pollard REBOUND (Off:1 Def:1),,,,
+0020000109,151,1,1,2,12:49 PM,7:53,Pollard 12' Jump Shot (8 PTS) (Barry 1 AST),,,41 - 35,-6
+0020000109,152,2,1,2,12:49 PM,7:27,,,MISS Hudson 25' 3PT Jump Shot,,
+0020000109,153,4,0,2,12:49 PM,7:26,Pollard REBOUND (Off:1 Def:2),,,,
+0020000109,154,1,1,2,12:49 PM,7:16,Barry 22' Jump Shot (2 PTS),,,41 - 37,-4
+0020000109,155,9,1,2,12:50 PM,7:10,,,Magic Timeout: Regular (Reg.2 Short 0),,
+0020000109,157,8,0,2,12:52 PM,7:10,,,SUB: Armstrong FOR Outlaw,,
+0020000109,158,8,0,2,12:52 PM,7:10,,,SUB: McGrady FOR Hudson,,
+0020000109,159,1,46,2,12:52 PM,6:59,,,McGrady 6' Running Jump Shot (16 PTS),43 - 37,-6
+0020000109,160,6,1,2,12:53 PM,6:45,,,Williams P.FOUL (P1.T4),,
+0020000109,161,1,1,2,12:53 PM,6:37,Jackson 18' Jump Shot (4 PTS),,,43 - 39,-4
+0020000109,162,1,1,2,12:53 PM,6:17,,,McGrady 17' Jump Shot (18 PTS),45 - 39,-6
+0020000109,163,2,1,2,12:53 PM,5:59,MISS Anderson 25' 3PT Jump Shot,,,,
+0020000109,164,4,0,2,12:53 PM,5:57,,,McGrady REBOUND (Off:2 Def:3),,
+0020000109,165,2,1,2,12:54 PM,5:39,,,MISS Doleac 17' Jump Shot,,
+0020000109,166,4,0,2,12:54 PM,5:37,,,Magic Rebound,,
+0020000109,167,8,0,2,12:54 PM,5:37,SUB: Stojakovic FOR Anderson,,,,
+0020000109,168,8,0,2,12:54 PM,5:37,SUB: Williams FOR Jackson,,,,
+0020000109,169,2,1,2,12:55 PM,5:22,,,MISS Armstrong 26' 3PT Jump Shot,,
+0020000109,170,4,0,2,12:55 PM,5:19,,,Williams REBOUND (Off:1 Def:0),,
+0020000109,171,1,42,2,12:55 PM,5:14,,,Armstrong  Driving Layup (11 PTS),47 - 39,-8
+0020000109,172,8,0,2,12:55 PM,4:56,SUB: Christie FOR Turkoglu,,,,
+0020000109,173,10,0,2,12:55 PM,4:56,Jump Ball Pollard vs. Armstrong: Tip to Williams,,,,
+0020000109,174,5,2,2,12:55 PM,4:56,Pollard Lost Ball Turnover (P2.T8),,,,
+0020000109,175,2,1,2,12:56 PM,4:41,,,MISS Doleac 19' Jump Shot,,
+0020000109,176,4,0,2,12:56 PM,4:39,,,Miller REBOUND (Off:1 Def:2),,
+0020000109,177,2,1,2,12:56 PM,4:36,,,MISS Armstrong 25' 3PT Jump Shot,,
+0020000109,178,4,0,2,12:56 PM,4:33,Williams REBOUND (Off:0 Def:1),,,,
+0020000109,179,1,42,2,12:56 PM,4:31,Pollard  Driving Layup (10 PTS) (Williams 4 AST),,,47 - 41,-6
+0020000109,180,5,2,2,12:56 PM,4:11,,,Doleac Lost Ball Turnover (P1.T9),,
+0020000109,181,8,0,2,12:56 PM,4:11,,,SUB: Amaechi FOR Doleac,,
+0020000109,182,1,1,2,12:57 PM,3:53,Christie  3PT Jump Shot (4 PTS) (Barry 2 AST),,,47 - 44,-3
+0020000109,183,2,1,2,12:57 PM,3:31,,,MISS Amaechi 17' Jump Shot,,
+0020000109,184,4,0,2,12:57 PM,3:28,Barry REBOUND (Off:0 Def:1),,,,
+0020000109,185,1,1,2,12:57 PM,3:22,Stojakovic 25' 3PT Jump Shot (17 PTS) (Williams 5 AST),,,47 - 47,TIE
+0020000109,186,9,2,2,12:57 PM,3:19,,,Magic Timeout: Short (Reg.2 Short 1),,
+0020000109,188,8,0,2,12:59 PM,3:19,,,SUB: Outlaw FOR Williams,,
+0020000109,189,5,2,2,12:59 PM,3:11,Stojakovic STEAL (1 STL),,Armstrong Lost Ball Turnover (P3.T10),,
+0020000109,190,5,1,2,12:59 PM,3:09,Stojakovic Bad Pass Turnover (P2.T9),,Armstrong STEAL (1 STL),,
+0020000109,191,1,1,2,12:59 PM,2:59,,,Armstrong 17' Jump Shot (13 PTS),49 - 47,-2
+0020000109,192,2,42,2,12:59 PM,2:48,MISS Williams  Driving Layup,,,,
+0020000109,194,4,0,2,12:59 PM,2:47,Pollard REBOUND (Off:2 Def:2),,,,
+0020000109,193,1,4,2,12:59 PM,2:47,Pollard  Tip Shot (12 PTS),,,49 - 49,TIE
+0020000109,195,6,1,2,1:00 PM,2:34,Christie P.FOUL (P1.T2),,,,
+0020000109,196,9,1,2,1:00 PM,2:34,KINGS Timeout: Regular (Full 2 Short 0),,,,
+0020000109,198,2,1,2,1:02 PM,2:23,,,MISS Amaechi 5' Jump Shot,,
+0020000109,199,4,0,2,1:02 PM,2:22,Barry REBOUND (Off:0 Def:2),,,,
+0020000109,200,2,1,2,1:03 PM,2:00,MISS Williams 19' Jump Shot,,,,
+0020000109,201,4,0,2,1:03 PM,1:59,Williams REBOUND (Off:1 Def:1),,,,
+0020000109,202,2,5,2,1:03 PM,1:58,MISS Williams  Layup,,,,
+0020000109,203,4,0,2,1:03 PM,1:57,,,McGrady REBOUND (Off:2 Def:4),,
+0020000109,204,6,1,2,1:03 PM,1:48,Stojakovic P.FOUL (P2.T3),,,,
+0020000109,205,8,0,2,1:03 PM,1:48,,,SUB: Williams FOR McGrady,,
+0020000109,206,5,1,2,1:04 PM,1:39,Stojakovic STEAL (2 STL),,Amaechi Bad Pass Turnover (P1.T11),,
+0020000109,207,1,49,2,1:04 PM,1:34,Stojakovic  Driving Dunk (19 PTS) (Williams 6 AST),,,49 - 51,2
+0020000109,208,2,1,2,1:04 PM,1:06,,,MISS Outlaw 22' Jump Shot,,
+0020000109,209,4,0,2,1:04 PM,1:06,,,Magic Rebound,,
+0020000109,210,5,11,2,1:04 PM,1:06,,,Magic Turnover: Shot Clock (T#12),,
+0020000109,211,1,1,2,1:05 PM,0:54,Barry 26' 3PT Jump Shot (5 PTS),,,49 - 54,5
+0020000109,212,2,1,2,1:05 PM,0:42,,,MISS Williams 8' Jump Shot,,
+0020000109,213,4,0,2,1:05 PM,0:40,Stojakovic REBOUND (Off:0 Def:2),,,,
+0020000109,214,5,3,2,1:05 PM,0:36,Barry Out Of Bounds Turnover (P1.T10),,,,
+0020000109,215,8,0,2,1:05 PM,0:36,,,SUB: Garrity FOR Outlaw,,
+0020000109,217,6,2,2,1:06 PM,0:27,Barry S.FOUL (P1.PN),,,,
+0020000109,218,3,11,2,1:06 PM,0:27,,,Armstrong Free Throw 1 of 2 (14 PTS),50 - 54,4
+0020000109,219,8,0,2,1:06 PM,0:27,,,SUB: Outlaw FOR Garrity,,
+0020000109,220,3,12,2,1:06 PM,0:27,,,Armstrong Free Throw 2 of 2 (15 PTS),51 - 54,3
+0020000109,221,5,1,2,1:07 PM,0:06,Barry Bad Pass Turnover (P2.T11),,Armstrong STEAL (2 STL),,
+0020000109,222,2,1,2,1:07 PM,0:02,,,MISS Armstrong 6' Jump Shot,,
+0020000109,223,4,0,2,1:07 PM,0:01,Stojakovic REBOUND (Off:0 Def:3),,,,
+0020000109,224,2,1,2,1:07 PM,0:00,MISS Stojakovic 55' 3PT Jump Shot,,,,
+0020000109,226,4,0,2,1:07 PM,0:00,KINGS Rebound,,,,
+0020000109,225,13,0,2,1:07 PM,0:00,,,,51 - 54,3
+0020000109,228,12,0,3,1:27 PM,12:00,,,,51 - 54,3
+0020000109,229,2,1,3,1:27 PM,11:46,MISS Divac 5' Jump Shot,,,,
+0020000109,230,4,0,3,1:27 PM,11:44,Divac REBOUND (Off:1 Def:3),,,,
+0020000109,231,1,5,3,1:27 PM,11:42,Divac  Layup (12 PTS),,,51 - 56,5
+0020000109,232,2,1,3,1:28 PM,11:23,,,MISS McGrady 25' 3PT Jump Shot,,
+0020000109,233,4,0,3,1:28 PM,11:21,Stojakovic REBOUND (Off:0 Def:4),,,,
+0020000109,234,2,1,3,1:28 PM,11:06,MISS Christie  3PT Jump Shot,,,,
+0020000109,235,4,0,3,1:28 PM,11:04,,,Outlaw REBOUND (Off:2 Def:2),,
+0020000109,236,1,1,3,1:28 PM,10:58,,,McGrady 18' Jump Shot (20 PTS) (Outlaw 1 AST),53 - 56,3
+0020000109,237,2,1,3,1:28 PM,10:46,MISS Pollard 4' Jump Shot,,,,
+0020000109,238,4,0,3,1:28 PM,10:44,,,Outlaw REBOUND (Off:2 Def:3),,
+0020000109,239,2,1,3,1:28 PM,10:37,,,MISS Armstrong 19' Jump Shot,,
+0020000109,240,4,0,3,1:28 PM,10:36,Divac REBOUND (Off:1 Def:4),,,,
+0020000109,241,6,2,3,1:29 PM,10:22,,,Reid S.FOUL (P3.T1),,
+0020000109,242,8,0,3,1:29 PM,10:22,,,SUB: Williams FOR McGrady,,
+0020000109,243,3,11,3,1:29 PM,10:22,Pollard Free Throw 1 of 2 (13 PTS),,,53 - 57,4
+0020000109,244,3,12,3,1:29 PM,10:22,Pollard Free Throw 2 of 2 (14 PTS),,,53 - 58,5
+0020000109,245,6,2,3,1:30 PM,10:11,Pollard S.FOUL (P2.T1),,,,
+0020000109,246,8,0,3,1:30 PM,10:11,,,SUB: McGrady FOR Williams,,
+0020000109,247,3,11,3,1:30 PM,10:11,,,Reid Free Throw 1 of 2 (1 PTS),54 - 58,4
+0020000109,248,3,12,3,1:30 PM,10:11,,,MISS Reid Free Throw 2 of 2,,
+0020000109,249,4,0,3,1:30 PM,10:10,Divac REBOUND (Off:1 Def:5),,,,
+0020000109,250,1,56,3,1:30 PM,9:58,Divac 5' Running Hook Shot (14 PTS) (Christie 1 AST),,,54 - 60,6
+0020000109,251,6,1,3,1:31 PM,9:40,Pollard P.FOUL (P3.T2),,,,
+0020000109,252,5,8,3,1:31 PM,9:40,,,Outlaw 3 Second Violation Turnover (P2.T13),,
+0020000109,253,5,8,3,1:32 PM,9:23,Pollard 3 Second Violation Turnover (P3.T12),,,,
+0020000109,254,2,1,3,1:32 PM,9:02,,,MISS Amaechi 20' Jump Shot,,
+0020000109,255,4,0,3,1:32 PM,9:00,,,Armstrong REBOUND (Off:2 Def:1),,
+0020000109,256,5,1,3,1:32 PM,8:55,Christie STEAL (3 STL),,Armstrong Bad Pass Turnover (P4.T14),,
+0020000109,257,1,42,3,1:32 PM,8:51,Christie  Driving Layup (6 PTS),,,54 - 62,8
+0020000109,258,9,2,3,1:32 PM,8:43,,,Magic Timeout: Short (Reg.2 Short 2),,
+0020000109,260,2,44,3,1:34 PM,8:34,,,MISS Amaechi 3' Reverse Layup,,
+0020000109,261,4,0,3,1:34 PM,8:33,Williams REBOUND (Off:1 Def:2),,,,
+0020000109,262,1,1,3,1:34 PM,8:11,Stojakovic 22' Jump Shot (21 PTS),,,54 - 64,10
+0020000109,263,1,1,3,1:34 PM,7:59,,,Armstrong 26' 3PT Jump Shot (18 PTS) (Outlaw 2 AST),57 - 64,7
+0020000109,264,2,59,3,1:35 PM,7:35,MISS Christie 4' Finger Roll,,,,
+0020000109,265,4,0,3,1:35 PM,7:33,,,Armstrong REBOUND (Off:2 Def:2),,
+0020000109,266,2,42,3,1:35 PM,7:26,,,MISS McGrady  Driving Layup,,
+0020000109,268,4,0,3,1:35 PM,7:25,,,Reid REBOUND (Off:1 Def:0),,
+0020000109,267,1,4,3,1:35 PM,7:25,,,Reid  Tip Shot (3 PTS),59 - 64,5
+0020000109,269,2,1,3,1:35 PM,7:05,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000109,270,4,0,3,1:35 PM,7:02,,,McGrady REBOUND (Off:2 Def:5),,
+0020000109,271,2,1,3,1:35 PM,6:49,,,MISS McGrady 18' Jump Shot,,
+0020000109,272,4,0,3,1:36 PM,6:48,KINGS Rebound,,,,
+0020000109,273,8,0,3,1:36 PM,6:46,,,SUB: Garrity FOR Amaechi,,
+0020000109,274,6,5,3,1:37 PM,6:38,,,Armstrong IN.FOUL (P1.T2),,
+0020000109,275,3,11,3,1:37 PM,6:38,MISS Williams Free Throw 1 of 2,,,,
+0020000109,276,4,1,3,1:37 PM,6:38,KINGS Rebound,,,,
+0020000109,277,3,12,3,1:37 PM,6:38,MISS Williams Free Throw 2 of 2,,,,
+0020000109,278,4,0,3,1:37 PM,6:38,,,Outlaw REBOUND (Off:2 Def:4),,
+0020000109,279,6,4,3,1:37 PM,6:30,,,Reid OFF.Foul (P4),,
+0020000109,280,5,5,3,1:37 PM,6:30,,,Reid Foul Turnover (P1.T15),,
+0020000109,281,6,17,3,1:38 PM,6:19,,,Magic T.Foul (Def. 3 Sec Garrity ),,
+0020000109,282,8,0,3,1:38 PM,6:19,,,SUB: Doleac FOR Reid,,
+0020000109,283,3,16,3,1:38 PM,6:19,Stojakovic Free Throw Technical (22 PTS),,,59 - 65,6
+0020000109,284,1,1,3,1:38 PM,6:07,Stojakovic 18' Jump Shot (24 PTS) (Williams 7 AST),,,59 - 67,8
+0020000109,285,2,1,3,1:39 PM,5:41,,,MISS Doleac 19' Jump Shot,,
+0020000109,286,4,0,3,1:39 PM,5:39,Christie REBOUND (Off:0 Def:1),,,,
+0020000109,287,5,1,3,1:39 PM,5:26,Divac Bad Pass Turnover (P3.T13),,Outlaw STEAL (2 STL),,
+0020000109,288,1,42,3,1:39 PM,5:23,,,Armstrong  Driving Layup (20 PTS) (Garrity 1 AST),61 - 67,6
+0020000109,289,6,1,3,1:39 PM,5:13,,,Armstrong P.FOUL (P2.T3),,
+0020000109,290,9,1,3,1:40 PM,5:13,KINGS Timeout: Regular (Full 3 Short 0),,,,
+0020000109,292,2,1,3,1:42 PM,4:57,MISS Stojakovic 15' Jump Shot,,,,
+0020000109,293,4,0,3,1:42 PM,4:55,,,Outlaw REBOUND (Off:2 Def:5),,
+0020000109,294,1,1,3,1:42 PM,4:49,,,Doleac 18' Jump Shot (6 PTS) (Armstrong 5 AST),63 - 67,4
+0020000109,295,6,1,3,1:43 PM,4:37,,,Armstrong P.FOUL (P3.T4),,
+0020000109,296,8,0,3,1:43 PM,4:37,,,SUB: Miller FOR McGrady,,
+0020000109,297,1,7,3,1:43 PM,4:29,Pollard  Dunk (16 PTS) (Williams 8 AST),,,63 - 69,6
+0020000109,298,2,1,3,1:43 PM,4:19,,,MISS Armstrong 25' 3PT Jump Shot,,
+0020000109,299,4,0,3,1:43 PM,4:17,Stojakovic REBOUND (Off:0 Def:5),,,,
+0020000109,300,5,2,3,1:43 PM,4:08,Divac Lost Ball Turnover (P4.T14),,,,
+0020000109,301,5,1,3,1:44 PM,3:53,Stojakovic STEAL (3 STL),,Outlaw Bad Pass Turnover (P3.T16),,
+0020000109,302,1,1,3,1:44 PM,3:33,Divac 18' Jump Shot (16 PTS) (Pollard 1 AST),,,63 - 71,8
+0020000109,303,9,1,3,1:44 PM,3:21,,,Magic Timeout: Regular (Reg.3 Short 2),,
+0020000109,305,1,1,3,1:47 PM,3:12,,,Doleac 17' Jump Shot (8 PTS) (Miller 2 AST),65 - 71,6
+0020000109,306,6,1,3,1:48 PM,3:00,,,Miller P.FOUL (P1.PN),,
+0020000109,307,3,11,3,1:48 PM,3:00,Christie Free Throw 1 of 2 (7 PTS),,,65 - 72,7
+0020000109,308,3,12,3,1:48 PM,3:00,Christie Free Throw 2 of 2 (8 PTS),,,65 - 73,8
+0020000109,309,2,1,3,1:48 PM,2:50,,,MISS Doleac 15' Jump Shot,,
+0020000109,310,4,0,3,1:48 PM,2:47,,,Garrity REBOUND (Off:2 Def:0),,
+0020000109,311,2,5,3,1:48 PM,2:45,,,MISS Garrity 3' Layup,,
+0020000109,313,4,0,3,1:48 PM,2:44,,,Garrity REBOUND (Off:3 Def:0),,
+0020000109,312,2,4,3,1:48 PM,2:44,,,MISS Garrity  Tip Shot,,
+0020000109,314,4,0,3,1:49 PM,2:43,Williams REBOUND (Off:1 Def:3),,,,
+0020000109,315,1,5,3,1:49 PM,2:34,Pollard  Layup (18 PTS) (Divac 4 AST),,,65 - 75,10
+0020000109,316,6,2,3,1:49 PM,2:21,Pollard S.FOUL (P4.T3),,,,
+0020000109,317,3,11,3,1:49 PM,2:21,,,MISS Miller Free Throw 1 of 2,,
+0020000109,318,4,1,3,1:49 PM,2:21,,,Magic Rebound,,
+0020000109,319,8,0,3,1:50 PM,2:21,SUB: Funderburke FOR Pollard,,,,
+0020000109,320,3,12,3,1:50 PM,2:21,,,Miller Free Throw 2 of 2 (1 PTS),66 - 75,9
+0020000109,321,2,1,3,1:50 PM,1:59,MISS Divac 25' 3PT Jump Shot,,,,
+0020000109,322,4,0,3,1:50 PM,1:57,,,Magic Rebound,,
+0020000109,323,8,0,3,1:50 PM,1:57,,,SUB: Williams FOR Miller,,
+0020000109,324,1,1,3,1:51 PM,1:46,,,Armstrong 15' Jump Shot (22 PTS),68 - 75,7
+0020000109,325,5,2,3,1:51 PM,1:25,Funderburke Lost Ball Turnover (P1.T15),,Doleac STEAL (2 STL),,
+0020000109,326,5,4,3,1:51 PM,1:20,,,Garrity Traveling Turnover (P2.T17),,
+0020000109,327,2,1,3,1:52 PM,1:03,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000109,328,4,0,3,1:52 PM,1:01,,,Outlaw REBOUND (Off:2 Def:6),,
+0020000109,329,2,1,3,1:52 PM,0:37,,,MISS Doleac 18' Jump Shot,,
+0020000109,330,4,0,3,1:52 PM,0:36,Divac REBOUND (Off:1 Def:6),,,,
+0020000109,331,2,1,3,1:52 PM,0:26,MISS Williams 24' 3PT Jump Shot,,,,
+0020000109,332,4,0,3,1:52 PM,0:26,,,Doleac REBOUND (Off:0 Def:2),,
+0020000109,333,2,1,3,1:53 PM,0:02,,,MISS Williams 19' Jump Shot,,
+0020000109,334,4,0,3,1:53 PM,0:02,,,Magic Rebound,,
+0020000109,335,5,11,3,1:53 PM,0:02,,,Magic Turnover: Shot Clock (T#18),,
+0020000109,336,2,1,3,1:53 PM,0:00,MISS Divac 42' 3PT Jump Shot,,Outlaw BLOCK (1 BLK),,
+0020000109,338,4,0,3,1:53 PM,0:00,KINGS Rebound,,,,
+0020000109,337,13,0,3,1:53 PM,0:00,,,,68 - 75,7
+0020000109,340,12,0,4,1:56 PM,12:00,,,,68 - 75,7
+0020000109,341,6,2,4,1:57 PM,11:42,Divac S.FOUL (P2.T1),,,,
+0020000109,342,3,11,4,1:57 PM,11:42,,,Doleac Free Throw 1 of 2 (9 PTS),69 - 75,6
+0020000109,343,3,12,4,1:57 PM,11:42,,,Doleac Free Throw 2 of 2 (10 PTS),70 - 75,5
+0020000109,344,2,1,4,1:58 PM,11:18,MISS Stojakovic 15' Jump Shot,,,,
+0020000109,345,4,0,4,1:58 PM,11:17,,,Doleac REBOUND (Off:0 Def:3),,
+0020000109,346,1,5,4,1:58 PM,11:13,,,Williams  Layup (4 PTS) (Armstrong 6 AST),72 - 75,3
+0020000109,347,1,1,4,1:58 PM,10:51,Jackson 19' Jump Shot (6 PTS) (Divac 5 AST),,,72 - 77,5
+0020000109,348,2,1,4,1:58 PM,10:41,,,MISS Armstrong 16' Jump Shot,,
+0020000109,349,4,0,4,1:58 PM,10:40,Divac REBOUND (Off:1 Def:7),,,,
+0020000109,351,2,3,4,1:59 PM,10:28,MISS Funderburke 6' Hook Shot,,,,
+0020000109,352,4,0,4,1:59 PM,10:26,,,Garrity REBOUND (Off:3 Def:1),,
+0020000109,353,2,1,4,1:59 PM,10:17,,,MISS Williams 18' Jump Shot,,
+0020000109,354,4,0,4,1:59 PM,10:15,,,Armstrong REBOUND (Off:3 Def:2),,
+0020000109,355,2,1,4,1:59 PM,10:14,,,MISS Doleac 21' Jump Shot,,
+0020000109,356,4,0,4,1:59 PM,10:11,Funderburke REBOUND (Off:0 Def:1),,,,
+0020000109,357,6,1,4,1:59 PM,10:00,,,Garrity P.FOUL (P3.T1),,
+0020000109,358,2,1,4,2:00 PM,9:51,MISS Funderburke 17' Jump Shot,,,,
+0020000109,359,4,0,4,2:00 PM,9:50,,,Armstrong REBOUND (Off:3 Def:3),,
+0020000109,360,2,1,4,2:00 PM,9:45,,,MISS Garrity 17' Jump Shot,,
+0020000109,361,4,0,4,2:00 PM,9:43,Stojakovic REBOUND (Off:0 Def:6),,,,
+0020000109,362,6,2,4,2:00 PM,9:24,,,Doleac S.FOUL (P3.T2),,
+0020000109,363,3,11,4,2:00 PM,9:24,Funderburke Free Throw 1 of 2 (1 PTS),,,72 - 78,6
+0020000109,364,3,12,4,2:01 PM,9:24,MISS Funderburke Free Throw 2 of 2,,,,
+0020000109,365,4,0,4,2:01 PM,9:24,,,Williams REBOUND (Off:1 Def:1),,
+0020000109,366,2,58,4,2:01 PM,9:01,,,MISS Doleac 6' Turnaround Hook Shot,,
+0020000109,367,4,0,4,2:01 PM,9:00,Funderburke REBOUND (Off:0 Def:2),,,,
+0020000109,368,1,1,4,2:02 PM,8:44,Divac 15' Jump Shot (18 PTS) (Stojakovic 3 AST),,,72 - 80,8
+0020000109,369,5,1,4,2:02 PM,8:29,Stojakovic STEAL (4 STL),,Doleac Bad Pass Turnover (P2.T19),,
+0020000109,370,5,2,4,2:02 PM,8:25,Stojakovic Lost Ball Turnover (P3.T16),,,,
+0020000109,371,9,4,4,2:02 PM,8:25,,,,,
+0020000109,373,1,5,4,2:05 PM,8:12,,,Williams  Layup (6 PTS),74 - 80,6
+0020000109,374,6,1,4,2:05 PM,8:02,,,Doleac P.FOUL (P4.T3),,
+0020000109,375,2,1,4,2:05 PM,7:49,MISS Christie 16' Jump Shot,,,,
+0020000109,376,4,0,4,2:05 PM,7:48,Divac REBOUND (Off:2 Def:7),,,,
+0020000109,377,5,1,4,2:06 PM,7:39,Jackson Bad Pass Turnover (P1.T17),,McGrady STEAL (1 STL),,
+0020000109,378,6,1,4,2:06 PM,7:38,Christie P.FOUL (P2.T2),,,,
+0020000109,379,2,3,4,2:07 PM,7:17,,,MISS Williams 5' Hook Shot,,
+0020000109,380,4,0,4,2:07 PM,7:15,Funderburke REBOUND (Off:0 Def:3),,,,
+0020000109,381,6,4,4,2:07 PM,7:06,Divac OFF.Foul (P3),,,,
+0020000109,382,5,5,4,2:07 PM,7:06,Divac Foul Turnover (P5.T18),,,,
+0020000109,383,2,1,4,2:07 PM,6:52,,,MISS Armstrong 25' 3PT Jump Shot,,
+0020000109,384,4,0,4,2:07 PM,6:50,Stojakovic REBOUND (Off:0 Def:7),,,,
+0020000109,385,2,3,4,2:08 PM,6:32,MISS Funderburke 6' Hook Shot,,,,
+0020000109,386,4,0,4,2:08 PM,6:31,,,Garrity REBOUND (Off:3 Def:2),,
+0020000109,387,2,1,4,2:08 PM,6:20,,,MISS McGrady 25' 3PT Jump Shot,,
+0020000109,388,4,0,4,2:08 PM,6:19,Stojakovic REBOUND (Off:0 Def:8),,,,
+0020000109,389,1,5,4,2:08 PM,6:04,Jackson  Layup (8 PTS) (Divac 6 AST),,,74 - 82,8
+0020000109,390,1,42,4,2:08 PM,5:54,,,Williams 5' Driving Layup (8 PTS),76 - 82,6
+0020000109,391,9,1,4,2:08 PM,5:44,KINGS Timeout: Regular (Full 4 Short 0),,,,
+0020000109,393,8,0,4,2:11 PM,5:44,,,SUB: Miller FOR McGrady,,
+0020000109,394,8,0,4,2:11 PM,5:44,SUB: Pollard FOR Funderburke,,,,
+0020000109,395,2,1,4,2:11 PM,5:28,MISS Jackson 24' 3PT Jump Shot,,,,
+0020000109,396,4,0,4,2:11 PM,5:28,KINGS Rebound,,,,
+0020000109,397,6,3,4,2:12 PM,5:28,,,Garrity L.B.FOUL (P4.T4),,
+0020000109,398,8,0,4,2:12 PM,5:28,SUB: Barry FOR Christie,,,,
+0020000109,400,6,1,4,2:12 PM,5:26,,,Miller P.FOUL (P2.PN),,
+0020000109,401,3,11,4,2:12 PM,5:26,Barry Free Throw 1 of 2 (6 PTS),,,76 - 83,7
+0020000109,402,3,12,4,2:12 PM,5:26,Barry Free Throw 2 of 2 (7 PTS),,,76 - 84,8
+0020000109,403,2,1,4,2:13 PM,5:12,,,MISS Garrity 20' Jump Shot,,
+0020000109,404,4,0,4,2:13 PM,5:10,Divac REBOUND (Off:2 Def:8),,,,
+0020000109,405,5,2,4,2:13 PM,4:49,Divac Lost Ball Turnover (P6.T19),,,,
+0020000109,406,2,1,4,2:13 PM,4:34,,,MISS Miller  3PT Jump Shot,,
+0020000109,407,4,0,4,2:13 PM,4:30,Stojakovic REBOUND (Off:0 Def:9),,,,
+0020000109,408,2,1,4,2:14 PM,4:12,MISS Divac 9' Jump Shot,,,,
+0020000109,409,4,0,4,2:14 PM,4:11,,,Doleac REBOUND (Off:0 Def:4),,
+0020000109,410,1,1,4,2:14 PM,3:57,,,Williams 18' Jump Shot (10 PTS) (Armstrong 7 AST),78 - 84,6
+0020000109,411,1,1,4,2:14 PM,3:31,Jackson 20' Jump Shot (10 PTS) (Barry 3 AST),,,78 - 86,8
+0020000109,412,9,1,4,2:15 PM,3:22,,,Magic Timeout: Regular (Reg.4 Short 2),,
+0020000109,415,8,0,4,2:17 PM,3:22,,,SUB: Outlaw FOR Miller,,
+0020000109,416,2,3,4,2:18 PM,3:09,,,MISS Williams 8' Hook Shot,,
+0020000109,417,4,0,4,2:18 PM,3:07,Jackson REBOUND (Off:0 Def:1),,,,
+0020000109,418,2,1,4,2:18 PM,2:45,MISS Divac 20' Jump Shot,,,,
+0020000109,419,4,0,4,2:18 PM,2:44,,,Armstrong REBOUND (Off:3 Def:4),,
+0020000109,420,5,2,4,2:18 PM,2:43,,,Armstrong Lost Ball Turnover (P5.T20),,
+0020000109,421,2,1,4,2:19 PM,2:26,MISS Jackson  3PT Jump Shot,,,,
+0020000109,422,4,0,4,2:19 PM,2:24,Stojakovic REBOUND (Off:1 Def:9),,,,
+0020000109,423,1,44,4,2:19 PM,2:08,Pollard  Reverse Layup (20 PTS) (Barry 4 AST),,,78 - 88,10
+0020000109,424,9,1,4,2:19 PM,2:00,,,Magic Timeout: Regular (Reg.5 Short 2),,
+0020000109,429,8,0,4,2:21 PM,2:00,,,SUB: Amaechi FOR Garrity,,
+0020000109,430,8,0,4,2:21 PM,2:00,,,SUB: Miller FOR Williams,,
+0020000109,431,5,1,4,2:22 PM,1:57,Stojakovic STEAL (5 STL),,Amaechi Bad Pass Turnover (P2.T21),,
+0020000109,432,5,4,4,2:22 PM,1:56,Stojakovic Traveling Turnover (P4.T20),,,,
+0020000109,433,2,1,4,2:22 PM,1:48,,,MISS Doleac 21' Jump Shot,,
+0020000109,434,4,0,4,2:22 PM,1:46,,,Armstrong REBOUND (Off:4 Def:4),,
+0020000109,435,1,1,4,2:22 PM,1:43,,,Doleac 21' Jump Shot (12 PTS) (Armstrong 8 AST),80 - 88,8
+0020000109,436,2,1,4,2:22 PM,1:24,MISS Barry  3PT Jump Shot,,,,
+0020000109,438,4,0,4,2:22 PM,1:24,Stojakovic REBOUND (Off:2 Def:9),,,,
+0020000109,437,1,8,4,2:22 PM,1:24,Stojakovic  Slam Dunk (26 PTS),,,80 - 90,10
+0020000109,439,6,2,4,2:22 PM,1:24,,,Outlaw S.FOUL (P2.PN),,
+0020000109,440,8,0,4,2:23 PM,1:24,,,SUB: Garrity FOR Outlaw,,
+0020000109,441,3,10,4,2:23 PM,1:24,Stojakovic Free Throw 1 of 1 (27 PTS),,,80 - 91,11
+0020000109,442,2,46,4,2:23 PM,1:13,,,MISS Armstrong 6' Running Jump Shot,,
+0020000109,443,4,0,4,2:23 PM,1:11,Divac REBOUND (Off:2 Def:9),,,,
+0020000109,444,1,7,4,2:23 PM,1:05,Pollard  Dunk (22 PTS) (Jackson 1 AST),,,80 - 93,13
+0020000109,445,2,1,4,2:23 PM,0:57,,,MISS Armstrong 25' 3PT Jump Shot,,
+0020000109,446,4,0,4,2:23 PM,0:54,KINGS Rebound,,,,
+0020000109,447,8,0,4,2:24 PM,0:54,,,SUB: Hudson FOR Armstrong,,
+0020000109,448,1,44,4,2:24 PM,0:44,Divac  Reverse Layup (20 PTS) (Barry 5 AST),,,80 - 95,15
+0020000109,449,6,2,4,2:24 PM,0:44,,,Doleac S.FOUL (P5.PN),,
+0020000109,450,3,10,4,2:24 PM,0:44,Divac Free Throw 1 of 1 (21 PTS),,,80 - 96,16
+0020000109,451,1,46,4,2:24 PM,0:36,,,Hudson 13' Running Jump Shot (2 PTS),82 - 96,14
+0020000109,452,5,1,4,2:25 PM,0:14,Stojakovic Bad Pass Turnover (P5.T21),,Doleac STEAL (3 STL),,
+0020000109,453,5,1,4,2:25 PM,0:11,Jackson STEAL (2 STL),,Doleac Bad Pass Turnover (P3.T22),,
+0020000109,456,13,0,4,2:25 PM,0:00,,,,82 - 96,14

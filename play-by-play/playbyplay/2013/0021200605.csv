@@ -1,0 +1,386 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021200605,0,12,0,1,1:12 PM,12:00,,,,,
+0021200605,1,10,0,1,1:12 PM,12:00,Jump Ball Gasol vs. Hibbert: Tip to Conley,,,,
+0021200605,2,1,3,1,1:13 PM,11:40,Gasol 10' Hook Shot (2 PTS),,,0 - 2,2
+0021200605,3,1,63,1,1:13 PM,11:22,,,West 11' Fadeaway Jumper (2 PTS) (George 1 AST),2 - 2,TIE
+0021200605,4,2,1,1,1:13 PM,11:03,MISS Randolph 15' Jump Shot,,,,
+0021200605,5,4,0,1,1:13 PM,11:02,,,Stephenson REBOUND (Off:0 Def:1),,
+0021200605,6,2,56,1,1:14 PM,10:45,,,MISS Hibbert 9' Running Hook Shot,,
+0021200605,7,4,0,1,1:14 PM,10:42,Gay REBOUND (Off:0 Def:1),,,,
+0021200605,8,1,1,1,1:14 PM,10:33,Allen 21' Jump Shot (2 PTS) (Gay 1 AST),,,2 - 4,2
+0021200605,9,1,5,1,1:14 PM,10:21,,,Stephenson 1' Layup (2 PTS) (West 1 AST),4 - 4,TIE
+0021200605,10,2,79,1,1:14 PM,10:00,MISS Gay 19' Pullup Jump Shot,,,,
+0021200605,11,4,0,1,1:15 PM,9:58,Randolph REBOUND (Off:1 Def:0),,,,
+0021200605,13,2,63,1,1:15 PM,9:42,MISS Gay 6' Fadeaway Jumper,,West BLOCK (1 BLK),,
+0021200605,15,4,0,1,1:15 PM,9:40,Gay REBOUND (Off:1 Def:1),,,,
+0021200605,14,2,5,1,1:15 PM,9:40,MISS Gay 3' Layup,,West BLOCK (2 BLK),,
+0021200605,16,4,0,1,1:15 PM,9:37,,,George REBOUND (Off:0 Def:1),,
+0021200605,17,2,63,1,1:15 PM,9:27,,,MISS West 7' Fadeaway Jumper,,
+0021200605,18,4,0,1,1:15 PM,9:24,Gay REBOUND (Off:1 Def:2),,,,
+0021200605,19,2,1,1,1:15 PM,9:13,MISS Randolph 19' Jump Shot,,,,
+0021200605,20,4,0,1,1:16 PM,9:12,,,Hill REBOUND (Off:0 Def:1),,
+0021200605,21,1,3,1,1:16 PM,9:02,,,Hibbert 7' Hook Shot (2 PTS) (Hill 1 AST),6 - 4,-2
+0021200605,22,2,79,1,1:16 PM,8:39,MISS Allen 8' Pullup Jump Shot,,West BLOCK (3 BLK),,
+0021200605,24,4,0,1,1:16 PM,8:37,Allen REBOUND (Off:1 Def:0),,,,
+0021200605,23,2,1,1,1:16 PM,8:37,MISS Allen 5' Jump Shot,,,,
+0021200605,25,4,0,1,1:16 PM,8:35,GRIZZLIES Rebound,,,,
+0021200605,26,1,79,1,1:17 PM,8:29,Conley 18' Pullup Jump Shot (2 PTS),,,6 - 6,TIE
+0021200605,28,2,1,1,1:17 PM,8:17,,,MISS Stephenson 27' 3PT Jump Shot,,
+0021200605,29,4,0,1,1:17 PM,8:16,Randolph REBOUND (Off:1 Def:1),,,,
+0021200605,30,2,86,1,1:17 PM,7:57,MISS Gasol 9' Turnaround Fadeaway Shot,,,,
+0021200605,31,4,0,1,1:17 PM,7:55,,,Hill REBOUND (Off:0 Def:2),,
+0021200605,32,1,63,1,1:17 PM,7:50,,,Hill 7' Fadeaway Jumper (2 PTS),8 - 6,-2
+0021200605,33,9,1,1,1:17 PM,7:49,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,
+0021200605,35,1,1,1,1:21 PM,7:31,Allen 8' Jump Shot (4 PTS),,,8 - 8,TIE
+0021200605,36,2,1,1,1:21 PM,7:18,,,MISS Stephenson  3PT Jump Shot,,
+0021200605,37,4,0,1,1:21 PM,7:17,Randolph REBOUND (Off:1 Def:2),,,,
+0021200605,38,5,2,1,1:22 PM,7:03,Gasol Lost Ball Turnover (P1.T1),,Hibbert STEAL (1 STL),,
+0021200605,39,5,1,1,1:22 PM,6:58,Conley STEAL (1 STL),,Hill Bad Pass Turnover (P1.T1),,
+0021200605,40,6,1,1,1:22 PM,6:46,,,Stephenson P.FOUL (P1.T1),,
+0021200605,41,1,42,1,1:22 PM,6:38,Conley 1' Driving Layup (4 PTS),,,8 - 10,2
+0021200605,42,1,1,1,1:23 PM,6:11,,,George 26' 3PT Jump Shot (3 PTS) (Hill 2 AST),11 - 10,-1
+0021200605,43,1,79,1,1:23 PM,5:46,Gay 8' Pullup Jump Shot (2 PTS),,,11 - 12,1
+0021200605,44,5,1,1,1:24 PM,5:35,Conley STEAL (2 STL),,Hill Bad Pass Turnover (P2.T2),,
+0021200605,45,2,5,1,1:24 PM,5:29,MISS Randolph 2' Layup,,,,
+0021200605,46,4,0,1,1:24 PM,5:27,,,Hibbert REBOUND (Off:0 Def:1),,
+0021200605,47,1,78,1,1:24 PM,5:21,,,Hill 6' Floating Jump Shot (4 PTS),13 - 12,-1
+0021200605,48,1,79,1,1:24 PM,5:04,Conley 15' Pullup Jump Shot (6 PTS) (Gasol 1 AST),,,13 - 14,1
+0021200605,49,7,5,1,1:24 PM,4:55,Gay Violation:Kicked Ball,,,,
+0021200605,50,2,46,1,1:25 PM,4:48,,,MISS Hill 5' Running Jump Shot,,
+0021200605,52,4,0,1,1:25 PM,4:47,,,West REBOUND (Off:1 Def:0),,
+0021200605,51,1,4,1,1:25 PM,4:47,,,West 1' Tip Shot (4 PTS),15 - 14,-1
+0021200605,53,2,1,1,1:25 PM,4:23,MISS Gay 5' Jump Shot,,,,
+0021200605,54,4,0,1,1:25 PM,4:22,,,Stephenson REBOUND (Off:0 Def:2),,
+0021200605,55,5,40,1,1:25 PM,4:16,,,West Out of Bounds Lost Ball Turnover (P1.T3),,
+0021200605,56,8,0,1,1:25 PM,4:16,,,SUB: Green FOR Stephenson,,
+0021200605,57,8,0,1,1:25 PM,4:16,,,SUB: Hansbrough FOR West,,
+0021200605,58,2,80,1,1:26 PM,4:04,MISS Gay 20' Step Back Jump Shot,,,,
+0021200605,59,4,0,1,1:26 PM,4:02,,,Hansbrough REBOUND (Off:0 Def:1),,
+0021200605,60,2,1,1,1:26 PM,3:42,,,MISS Hibbert 5' Jump Shot,,
+0021200605,61,4,0,1,1:26 PM,3:41,,,Hansbrough REBOUND (Off:1 Def:1),,
+0021200605,62,1,5,1,1:26 PM,3:35,,,Hibbert 1' Layup (4 PTS) (George 2 AST),17 - 14,-3
+0021200605,63,1,46,1,1:27 PM,3:15,Randolph 7' Running Jump Shot (2 PTS),,,17 - 16,-1
+0021200605,64,6,2,1,1:27 PM,3:15,,,Hansbrough S.FOUL (P1.T2),,
+0021200605,65,8,0,1,1:27 PM,3:15,SUB: Bayless FOR Conley,,,,
+0021200605,66,3,10,1,1:27 PM,3:15,Randolph Free Throw 1 of 1 (3 PTS),,,17 - 17,TIE
+0021200605,68,9,1,1,1:27 PM,3:14,,,Pacers Timeout: Regular (Reg.1 Short 0),,
+0021200605,70,8,0,1,1:30 PM,3:14,SUB: Ellington FOR Allen,,,,
+0021200605,72,1,5,1,1:31 PM,3:01,,,George 1' Layup (5 PTS) (Hibbert 1 AST),19 - 17,-2
+0021200605,73,1,1,1,1:31 PM,2:30,Ellington  3PT Jump Shot (3 PTS) (Gasol 2 AST),,,19 - 20,1
+0021200605,74,1,1,1,1:32 PM,2:12,,,Hibbert 10' Jump Shot (6 PTS) (Hill 3 AST),21 - 20,-1
+0021200605,75,1,1,1,1:32 PM,1:58,Ellington 25' 3PT Jump Shot (6 PTS) (Bayless 1 AST),,,21 - 23,2
+0021200605,76,1,1,1,1:32 PM,1:42,,,Hansbrough 18' Jump Shot (2 PTS) (Green 1 AST),23 - 23,TIE
+0021200605,77,2,1,1,1:33 PM,1:21,MISS Randolph 17' Jump Shot,,,,
+0021200605,78,4,0,1,1:33 PM,1:19,Gasol REBOUND (Off:1 Def:0),,,,
+0021200605,79,2,79,1,1:33 PM,1:10,MISS Gay 12' Pullup Jump Shot,,,,
+0021200605,80,4,0,1,1:33 PM,1:08,,,Hibbert REBOUND (Off:0 Def:2),,
+0021200605,81,2,1,1,1:33 PM,1:03,,,MISS Green 25' 3PT Jump Shot,,
+0021200605,83,4,0,1,1:33 PM,1:02,,,Hansbrough REBOUND (Off:2 Def:1),,
+0021200605,82,1,72,1,1:33 PM,1:02,,,Hansbrough  Putback Layup (4 PTS),25 - 23,-2
+0021200605,84,6,2,1,1:33 PM,1:02,Gasol S.FOUL (P1.T1),,,,
+0021200605,97,8,0,1,1:33 PM,1:02,SUB: Arthur FOR Gasol,,,,
+0021200605,85,8,0,1,1:33 PM,1:02,SUB: Speights FOR Randolph,,,,
+0021200605,86,8,0,1,1:33 PM,1:02,,,SUB: Augustin FOR Hill,,
+0021200605,87,8,0,1,1:33 PM,1:02,,,SUB: Mahinmi FOR Hibbert,,
+0021200605,88,3,10,1,1:33 PM,1:02,,,Hansbrough Free Throw 1 of 1 (5 PTS),26 - 23,-3
+0021200605,90,1,1,1,1:34 PM,0:45,Speights 8' Jump Shot (2 PTS) (Bayless 2 AST),,,26 - 25,-1
+0021200605,91,2,46,1,1:34 PM,0:31,,,MISS George 12' Running Jump Shot,,
+0021200605,92,4,0,1,1:34 PM,0:28,Gay REBOUND (Off:1 Def:3),,,,
+0021200605,93,1,44,1,1:34 PM,0:26,Ellington 2' Reverse Layup (8 PTS) (Gay 2 AST),,,26 - 27,1
+0021200605,94,2,1,1,1:35 PM,0:02,,,MISS George 15' Jump Shot,,
+0021200605,95,4,0,1,1:35 PM,0:02,GRIZZLIES Rebound,,,,
+0021200605,96,6,3,1,1:35 PM,0:02,,,Mahinmi L.B.FOUL (P1.T3),,
+0021200605,98,2,1,1,1:35 PM,0:01,MISS Gay 44' 3PT Jump Shot,,,,
+0021200605,101,4,0,1,1:35 PM,0:00,GRIZZLIES Rebound,,,,
+0021200605,100,13,0,1,1:35 PM,0:00,,,,26 - 27,1
+0021200605,102,12,0,2,1:39 PM,12:00,,,,26 - 27,1
+0021200605,103,2,84,2,1:39 PM,11:39,,,MISS Mahinmi 11' Running Bank Shot,,
+0021200605,104,4,0,2,1:40 PM,11:36,Speights REBOUND (Off:0 Def:1),,,,
+0021200605,105,6,4,2,1:40 PM,11:26,Speights OFF.Foul (P1),,,,
+0021200605,106,5,5,2,1:40 PM,11:26,Speights Foul Turnover (P1.T2),,,,
+0021200605,107,2,1,2,1:40 PM,11:13,,,MISS Green 20' Jump Shot,,
+0021200605,108,4,0,2,1:40 PM,11:12,Bayless REBOUND (Off:0 Def:1),,,,
+0021200605,109,2,1,2,1:40 PM,10:52,MISS Speights 15' Jump Shot,,,,
+0021200605,110,4,0,2,1:40 PM,10:52,,,Hansbrough REBOUND (Off:2 Def:2),,
+0021200605,111,2,1,2,1:41 PM,10:40,,,MISS Green 16' Jump Shot,,
+0021200605,112,4,0,2,1:41 PM,10:38,Bayless REBOUND (Off:0 Def:2),,,,
+0021200605,113,1,1,2,1:41 PM,10:28,Arthur 13' Jump Shot (2 PTS) (Bayless 3 AST),,,26 - 29,3
+0021200605,114,5,39,2,1:41 PM,10:08,,,Hansbrough Step Out of Bounds Turnover (P1.T4),,
+0021200605,115,2,1,2,1:42 PM,9:54,MISS Ellington 16' Jump Shot,,,,
+0021200605,116,4,0,2,1:42 PM,9:52,,,Hansbrough REBOUND (Off:2 Def:3),,
+0021200605,117,6,1,2,1:42 PM,9:48,Speights P.FOUL (P2.T1),,,,
+0021200605,118,8,0,2,1:42 PM,9:48,,,SUB: Johnson FOR George,,
+0021200605,119,8,0,2,1:42 PM,9:48,,,SUB: Stephenson FOR Green,,
+0021200605,120,2,1,2,1:43 PM,9:29,,,MISS Augustin 26' 3PT Jump Shot,,
+0021200605,121,4,0,2,1:43 PM,9:27,,,Hansbrough REBOUND (Off:3 Def:3),,
+0021200605,122,5,4,2,1:43 PM,9:26,,,Hansbrough Traveling Turnover (P2.T5),,
+0021200605,123,2,5,2,1:43 PM,9:11,MISS Arthur 1' Layup,,Mahinmi BLOCK (1 BLK),,
+0021200605,124,4,0,2,1:43 PM,9:11,GRIZZLIES Rebound,,,,
+0021200605,125,8,0,2,1:43 PM,9:11,,,SUB: West FOR Hansbrough,,
+0021200605,126,8,0,2,1:43 PM,9:11,SUB: Conley FOR Gay,,,,
+0021200605,127,1,1,2,1:44 PM,9:03,Arthur 7' Jump Shot (4 PTS) (Bayless 4 AST),,,26 - 31,5
+0021200605,128,6,4,2,1:44 PM,8:42,,,Johnson OFF.Foul (P1),,
+0021200605,129,5,5,2,1:44 PM,8:42,,,Johnson Foul Turnover (P1.T6),,
+0021200605,130,9,4,2,1:44 PM,8:42,,,,,
+0021200605,132,5,1,2,1:48 PM,8:27,Ellington Bad Pass Turnover (P1.T3),,Stephenson STEAL (1 STL),,
+0021200605,133,1,1,2,1:48 PM,8:16,,,Stephenson 24' 3PT Jump Shot (5 PTS) (Augustin 1 AST),29 - 31,2
+0021200605,134,2,1,2,1:48 PM,7:59,MISS Conley  3PT Jump Shot,,,,
+0021200605,135,4,0,2,1:48 PM,7:58,Speights REBOUND (Off:1 Def:1),,,,
+0021200605,136,6,2,2,1:48 PM,7:57,,,Mahinmi S.FOUL (P2.T1),,
+0021200605,137,3,11,2,1:49 PM,7:57,Speights Free Throw 1 of 2 (3 PTS),,,29 - 32,3
+0021200605,139,3,12,2,1:49 PM,7:57,Speights Free Throw 2 of 2 (4 PTS),,,29 - 33,4
+0021200605,141,2,63,2,1:49 PM,7:40,,,MISS West 15' Fadeaway Jumper,,
+0021200605,142,4,0,2,1:49 PM,7:37,Bayless REBOUND (Off:0 Def:3),,,,
+0021200605,143,5,40,2,1:50 PM,7:26,Ellington Out of Bounds Lost Ball Turnover (P2.T4),,,,
+0021200605,144,1,80,2,1:50 PM,7:10,,,West 15' Step Back Jump Shot (6 PTS),31 - 33,2
+0021200605,145,5,36,2,1:50 PM,6:59,Ellington Illegal Screen Turnover (P3.T5),,,,
+0021200605,147,2,63,2,1:51 PM,6:39,Arthur BLOCK (1 BLK),,MISS West 16' Fadeaway Jumper,,
+0021200605,148,4,0,2,1:51 PM,6:36,Bayless REBOUND (Off:0 Def:4),,,,
+0021200605,149,2,5,2,1:51 PM,6:28,MISS Speights 1' Layup,,Stephenson BLOCK (1 BLK),,
+0021200605,150,4,0,2,1:51 PM,6:23,,,Mahinmi REBOUND (Off:0 Def:1),,
+0021200605,151,1,1,2,1:51 PM,6:16,,,Johnson 26' 3PT Jump Shot (3 PTS) (Stephenson 1 AST),34 - 33,-1
+0021200605,153,1,1,2,1:52 PM,5:58,Bayless 21' Jump Shot (2 PTS) (Speights 1 AST),,,34 - 35,1
+0021200605,154,2,79,2,1:52 PM,5:35,,,MISS West 11' Pullup Jump Shot,,
+0021200605,155,4,0,2,1:52 PM,5:34,,,Mahinmi REBOUND (Off:1 Def:1),,
+0021200605,156,1,1,2,1:52 PM,5:30,,,West 16' Jump Shot (8 PTS),36 - 35,-1
+0021200605,157,2,1,2,1:53 PM,5:13,MISS Arthur 16' Jump Shot,,,,
+0021200605,158,4,0,2,1:53 PM,5:11,,,Stephenson REBOUND (Off:0 Def:3),,
+0021200605,159,6,2,2,1:53 PM,5:08,Arthur S.FOUL (P1.T2),,,,
+0021200605,160,9,1,2,1:53 PM,5:08,GRIZZLIES Timeout: Regular (Full 2 Short 0),,,,
+0021200605,162,8,0,2,1:56 PM,5:08,SUB: Randolph FOR Ellington,,,,
+0021200605,163,8,0,2,1:56 PM,5:08,SUB: Allen FOR Arthur,,,,
+0021200605,164,8,0,2,1:56 PM,5:08,SUB: Gasol FOR Speights,,,,
+0021200605,165,8,0,2,1:56 PM,5:08,,,SUB: Hibbert FOR Augustin,,
+0021200605,166,8,0,2,1:56 PM,5:08,,,SUB: Hill FOR Mahinmi,,
+0021200605,167,3,11,2,1:56 PM,5:08,,,MISS Stephenson Free Throw 1 of 2,,
+0021200605,168,4,1,2,1:56 PM,5:08,,,Pacers Rebound,,
+0021200605,169,3,12,2,1:56 PM,5:08,,,Stephenson Free Throw 2 of 2 (6 PTS),37 - 35,-2
+0021200605,171,5,4,2,1:57 PM,4:44,Bayless Traveling Turnover (P1.T6),,,,
+0021200605,172,2,1,2,1:58 PM,4:28,,,MISS West 13' Jump Shot,,
+0021200605,173,4,0,2,1:58 PM,4:26,Randolph REBOUND (Off:1 Def:3),,,,
+0021200605,174,2,1,2,1:58 PM,4:21,MISS Conley 6' Jump Shot,,,,
+0021200605,175,4,0,2,1:58 PM,4:18,,,Pacers Rebound,,
+0021200605,176,8,0,2,1:58 PM,4:18,,,SUB: George FOR Johnson,,
+0021200605,177,5,4,2,1:58 PM,4:14,,,Stephenson Traveling Turnover (P1.T7),,
+0021200605,178,8,0,2,1:59 PM,4:14,SUB: Gay FOR Bayless,,,,
+0021200605,179,2,1,2,1:59 PM,3:57,MISS Allen 19' Jump Shot,,,,
+0021200605,180,4,0,2,1:59 PM,3:55,,,George REBOUND (Off:0 Def:2),,
+0021200605,181,1,79,2,1:59 PM,3:47,,,George 16' Pullup Jump Shot (7 PTS),39 - 35,-4
+0021200605,182,2,1,2,2:00 PM,3:23,MISS Randolph 15' Jump Shot,,West BLOCK (4 BLK),,
+0021200605,183,4,0,2,2:00 PM,3:21,,,Hill REBOUND (Off:0 Def:3),,
+0021200605,184,1,79,2,2:00 PM,3:01,,,Hill 12' Pullup Jump Shot (6 PTS),41 - 35,-6
+0021200605,186,9,2,2,2:00 PM,2:58,GRIZZLIES Timeout: Short (Full 2 Short 1),,,,
+0021200605,188,9,1,2,2:00 PM,2:58,,,Pacers Timeout: Regular (Reg.2 Short 0),,
+0021200605,189,1,47,2,2:03 PM,2:45,Gay 7' Turnaround Jump Shot (4 PTS) (Conley 1 AST),,,41 - 37,-4
+0021200605,190,1,5,2,2:03 PM,2:27,,,Stephenson 2' Layup (8 PTS) (West 2 AST),43 - 37,-6
+0021200605,191,2,79,2,2:04 PM,2:05,MISS Gay 15' Pullup Jump Shot,,,,
+0021200605,192,4,0,2,2:04 PM,2:03,Allen REBOUND (Off:2 Def:0),,,,
+0021200605,193,1,5,2,2:04 PM,2:01,Allen 2' Layup (6 PTS),,,43 - 39,-4
+0021200605,194,5,1,2,2:04 PM,1:41,Allen STEAL (1 STL),,West Bad Pass Turnover (P2.T8),,
+0021200605,195,2,1,2,2:04 PM,1:30,MISS Gasol 17' Jump Shot,,,,
+0021200605,196,4,0,2,2:04 PM,1:29,,,George REBOUND (Off:0 Def:3),,
+0021200605,197,2,71,2,2:05 PM,1:23,,,MISS George 1' Finger Roll Layup,,
+0021200605,198,4,0,2,2:05 PM,1:18,Gay REBOUND (Off:1 Def:4),,,,
+0021200605,199,2,5,2,2:05 PM,1:11,MISS Gay 3' Layup,,West BLOCK (5 BLK),,
+0021200605,200,4,0,2,2:05 PM,1:11,,,Pacers Rebound,,
+0021200605,201,6,3,2,2:05 PM,1:11,Gay L.B.FOUL (P1.T3),,,,
+0021200605,202,2,1,2,2:06 PM,0:47,,,MISS West 27' 3PT Jump Shot,,
+0021200605,203,4,0,2,2:06 PM,0:47,GRIZZLIES Rebound,,,,
+0021200605,204,10,0,2,2:07 PM,0:35,Jump Ball Gasol vs. George: Tip to Gay,,,,
+0021200605,205,2,1,2,2:07 PM,0:29,MISS Conley 27' 3PT Jump Shot,,,,
+0021200605,206,4,0,2,2:07 PM,0:28,Randolph REBOUND (Off:2 Def:3),,,,
+0021200605,207,5,1,2,2:07 PM,0:19,Allen Bad Pass Turnover (P1.T7),,George STEAL (1 STL),,
+0021200605,208,2,46,2,2:07 PM,0:00,,,MISS Hill 13' Running Jump Shot,,
+0021200605,210,4,0,2,2:07 PM,0:00,,,Pacers Rebound,,
+0021200605,209,13,0,2,2:07 PM,0:00,,,,43 - 39,-4
+0021200605,212,12,0,3,2:25 PM,12:00,,,,43 - 39,-4
+0021200605,213,2,1,3,2:25 PM,11:46,,,MISS George 11' Jump Shot,,
+0021200605,214,4,0,3,2:25 PM,11:45,Gasol REBOUND (Off:1 Def:1),,,,
+0021200605,215,6,1,3,2:25 PM,11:25,,,Hibbert P.FOUL (P1.T1),,
+0021200605,216,5,1,3,2:26 PM,11:20,Conley Bad Pass Turnover (P1.T8),,Hill STEAL (1 STL),,
+0021200605,217,1,5,3,2:26 PM,11:02,,,Hill 2' Layup (8 PTS) (Hibbert 2 AST),45 - 39,-6
+0021200605,218,6,2,3,2:26 PM,11:02,Conley S.FOUL (P1.T1),,,,
+0021200605,219,3,10,3,2:26 PM,11:02,,,Hill Free Throw 1 of 1 (9 PTS),46 - 39,-7
+0021200605,221,2,1,3,2:27 PM,10:50,MISS Randolph 4' Jump Shot,,Hibbert BLOCK (1 BLK),,
+0021200605,222,4,0,3,2:27 PM,10:48,Gasol REBOUND (Off:2 Def:1),,,,
+0021200605,224,5,1,3,2:28 PM,10:40,Conley Bad Pass Turnover (P2.T9),,,,
+0021200605,225,1,1,3,2:28 PM,10:19,,,West 19' Jump Shot (10 PTS) (Hill 4 AST),48 - 39,-9
+0021200605,226,9,1,3,2:28 PM,10:12,GRIZZLIES Timeout: Regular (Full 3 Short 1),,,,
+0021200605,228,8,0,3,2:31 PM,10:12,SUB: Ellington FOR Allen,,,,
+0021200605,229,6,1,3,2:31 PM,10:07,,,Hibbert P.FOUL (P2.T2),,
+0021200605,230,1,86,3,2:32 PM,9:51,Gasol 9' Turnaround Fadeaway (4 PTS),,,48 - 41,-7
+0021200605,231,2,1,3,2:32 PM,9:36,,,MISS George 16' Jump Shot,,
+0021200605,232,4,0,3,2:32 PM,9:34,Gasol REBOUND (Off:2 Def:2),,,,
+0021200605,233,1,1,3,2:32 PM,9:20,Gay 14' Jump Shot (6 PTS),,,48 - 43,-5
+0021200605,234,5,1,3,2:33 PM,9:03,Gasol STEAL (1 STL),,Hill Bad Pass Turnover (P3.T9),,
+0021200605,235,1,5,3,2:33 PM,8:58,Ellington 1' Layup (10 PTS) (Conley 2 AST),,,48 - 45,-3
+0021200605,236,9,1,3,2:33 PM,8:58,,,Pacers Timeout: Regular (Reg.3 Short 0),,
+0021200605,238,5,40,3,2:37 PM,8:41,,,Hibbert Out of Bounds Lost Ball Turnover (P1.T10),,
+0021200605,239,6,1,3,2:37 PM,8:23,,,West P.FOUL (P1.T3),,
+0021200605,240,1,78,3,2:38 PM,8:15,Conley 8' Floating Jump Shot (8 PTS),,,48 - 47,-1
+0021200605,241,5,1,3,2:38 PM,7:53,Randolph STEAL (1 STL),,West Bad Pass Turnover (P3.T11),,
+0021200605,242,1,5,3,2:38 PM,7:42,Randolph 2' Layup (5 PTS),,,48 - 49,1
+0021200605,243,6,4,3,2:39 PM,7:27,,,Hill OFF.Foul (P1),,
+0021200605,244,5,5,3,2:39 PM,7:27,,,Hill Foul Turnover (P4.T12),,
+0021200605,245,6,4,3,2:39 PM,7:21,Conley OFF.Foul (P2),,,,
+0021200605,246,5,5,3,2:39 PM,7:21,Conley Foul Turnover (P3.T10),,,,
+0021200605,247,2,77,3,2:40 PM,6:59,,,MISS West 5' Driving Jump Shot,,
+0021200605,248,4,0,3,2:40 PM,6:57,GRIZZLIES Rebound,,,,
+0021200605,249,1,79,3,2:40 PM,6:40,Gay 19' Pullup Jump Shot (8 PTS),,,48 - 51,3
+0021200605,250,5,1,3,2:41 PM,6:20,Conley STEAL (3 STL),,Stephenson Bad Pass Turnover (P2.T13),,
+0021200605,251,2,5,3,2:41 PM,6:14,MISS Conley 1' Layup,,,,
+0021200605,252,4,0,3,2:41 PM,6:12,,,George REBOUND (Off:0 Def:4),,
+0021200605,253,6,26,3,2:41 PM,6:04,,,Hill Offensive Charge Foul (P2.T4),,
+0021200605,254,5,5,3,2:41 PM,6:04,,,Hill Foul Turnover (P5.T14),,
+0021200605,255,7,1,3,2:41 PM,6:04,,,Pacers Violation: Delay of game Violation,,
+0021200605,256,1,42,3,2:42 PM,5:45,Randolph 3' Driving Layup (7 PTS),,,48 - 53,5
+0021200605,257,6,2,3,2:42 PM,5:22,Gasol S.FOUL (P2.T2),,,,
+0021200605,258,3,11,3,2:42 PM,5:22,,,Hibbert Free Throw 1 of 2 (7 PTS),49 - 53,4
+0021200605,260,8,0,3,2:43 PM,5:22,,,SUB: Johnson FOR Stephenson,,
+0021200605,261,3,12,3,2:43 PM,5:22,,,Hibbert Free Throw 2 of 2 (8 PTS),50 - 53,3
+0021200605,263,1,80,3,2:43 PM,5:07,Gay 7' Step Back Jump Shot (10 PTS),,,50 - 55,5
+0021200605,264,1,1,3,2:43 PM,4:52,,,Hill 27' 3PT Jump Shot (12 PTS),53 - 55,2
+0021200605,265,2,46,3,2:44 PM,4:34,MISS Ellington 11' Running Jump Shot,,,,
+0021200605,266,4,0,3,2:44 PM,4:34,GRIZZLIES Rebound,,,,
+0021200605,267,6,3,3,2:44 PM,4:34,,,Johnson L.B.FOUL (P2.PN),,
+0021200605,268,8,0,3,2:44 PM,4:34,,,SUB: Mahinmi FOR Hibbert,,
+0021200605,269,8,0,3,2:44 PM,4:34,,,SUB: Augustin FOR Hill,,
+0021200605,270,2,1,3,2:44 PM,4:22,MISS Gay  3PT Jump Shot,,,,
+0021200605,271,4,0,3,2:44 PM,4:21,GRIZZLIES Rebound,,,,
+0021200605,272,6,1,3,2:45 PM,4:11,,,Mahinmi P.FOUL (P3.PN),,
+0021200605,273,3,11,3,2:46 PM,4:11,Gasol Free Throw 1 of 2 (5 PTS),,,53 - 56,3
+0021200605,275,3,12,3,2:46 PM,4:11,Gasol Free Throw 2 of 2 (6 PTS),,,53 - 57,4
+0021200605,277,2,1,3,2:46 PM,3:57,Gasol BLOCK (1 BLK),,MISS West 6' Jump Shot,,
+0021200605,278,4,0,3,2:46 PM,3:55,Randolph REBOUND (Off:2 Def:4),,,,
+0021200605,279,6,4,3,2:47 PM,3:48,Gasol OFF.Foul (P3),,,,
+0021200605,280,5,5,3,2:47 PM,3:48,Gasol Foul Turnover (P2.T11),,,,
+0021200605,281,6,1,3,2:47 PM,3:41,Gay P.FOUL (P2.T3),,,,
+0021200605,282,8,0,3,2:47 PM,3:41,SUB: Bayless FOR Conley,,,,
+0021200605,283,8,0,3,2:47 PM,3:41,SUB: Arthur FOR Gasol,,,,
+0021200605,284,1,1,3,2:47 PM,3:28,,,West 17' Jump Shot (12 PTS) (Augustin 2 AST),55 - 57,2
+0021200605,285,1,79,3,2:48 PM,3:09,Gay 7' Pullup Jump Shot (12 PTS),,,55 - 59,4
+0021200605,286,5,2,3,2:48 PM,2:38,Gay STEAL (1 STL),,Johnson Lost Ball Turnover (P2.T15),,
+0021200605,287,1,7,3,2:48 PM,2:34,Ellington  Dunk (12 PTS) (Gay 3 AST),,,55 - 61,6
+0021200605,288,1,7,3,2:49 PM,2:16,,,Mahinmi 1' Dunk (2 PTS) (George 3 AST),57 - 61,4
+0021200605,289,2,86,3,2:49 PM,1:52,MISS Gay 14' Turnaround Fadeaway Shot,,,,
+0021200605,290,4,0,3,2:49 PM,1:50,Arthur REBOUND (Off:1 Def:0),,,,
+0021200605,291,1,1,3,2:49 PM,1:47,Ellington 22' Jump Shot (14 PTS) (Arthur 1 AST),,,57 - 63,6
+0021200605,292,1,1,3,2:50 PM,1:23,,,Mahinmi 20' Jump Shot (4 PTS) (Augustin 3 AST),59 - 63,4
+0021200605,293,5,1,3,2:50 PM,1:08,Bayless Bad Pass Turnover (P2.T12),,West STEAL (1 STL),,
+0021200605,294,1,1,3,2:50 PM,1:00,,,Augustin  3PT Jump Shot (3 PTS) (George 4 AST),62 - 63,1
+0021200605,295,2,1,3,2:50 PM,0:34,MISS Bayless 22' Jump Shot,,,,
+0021200605,296,4,0,3,2:50 PM,0:33,,,George REBOUND (Off:0 Def:5),,
+0021200605,297,1,1,3,2:51 PM,0:09,,,Johnson  3PT Jump Shot (6 PTS) (George 5 AST),65 - 63,-2
+0021200605,298,5,1,3,2:51 PM,0:00,Bayless Bad Pass Turnover (P3.T13),,West STEAL (2 STL),,
+0021200605,302,13,0,3,2:51 PM,0:00,,,,65 - 63,-2
+0021200605,304,12,0,4,2:55 PM,12:00,,,,65 - 63,-2
+0021200605,305,2,1,4,2:55 PM,11:49,MISS Gay 21' Jump Shot,,,,
+0021200605,306,4,0,4,2:55 PM,11:48,,,George REBOUND (Off:0 Def:6),,
+0021200605,307,5,1,4,2:55 PM,11:38,Speights STEAL (1 STL),,Johnson Bad Pass Turnover (P3.T16),,
+0021200605,308,2,1,4,2:56 PM,11:27,MISS Arthur 9' Jump Shot,,,,
+0021200605,310,4,0,4,2:56 PM,11:25,Gay REBOUND (Off:2 Def:4),,,,
+0021200605,309,1,4,4,2:56 PM,11:25,Gay  Tip Shot (14 PTS),,,65 - 65,TIE
+0021200605,311,6,2,4,2:56 PM,11:04,Arthur S.FOUL (P2.T1),,,,
+0021200605,312,3,11,4,2:56 PM,11:04,,,MISS Mahinmi Free Throw 1 of 2,,
+0021200605,313,4,1,4,2:56 PM,11:04,,,Pacers Rebound,,
+0021200605,314,8,0,4,2:56 PM,11:04,,,SUB: Stephenson FOR Johnson,,
+0021200605,315,3,12,4,2:56 PM,11:04,,,MISS Mahinmi Free Throw 2 of 2,,
+0021200605,317,4,0,4,2:57 PM,11:04,GRIZZLIES Rebound,,,,
+0021200605,318,2,86,4,2:57 PM,10:49,MISS Speights 14' Turnaround Fadeaway Shot,,,,
+0021200605,319,4,0,4,2:57 PM,10:47,,,George REBOUND (Off:0 Def:7),,
+0021200605,320,1,1,4,2:57 PM,10:40,,,George 19' Jump Shot (9 PTS),67 - 65,-2
+0021200605,321,1,1,4,2:58 PM,10:23,Bayless 17' Jump Shot (4 PTS),,,67 - 67,TIE
+0021200605,323,2,5,4,2:58 PM,10:14,,,MISS Mahinmi 2' Layup,,
+0021200605,325,4,0,4,2:58 PM,10:12,,,Hansbrough REBOUND (Off:4 Def:3),,
+0021200605,324,2,4,4,2:58 PM,10:12,,,MISS Hansbrough 1' Tip Shot,,
+0021200605,326,4,0,4,2:58 PM,10:10,,,Hansbrough REBOUND (Off:5 Def:3),,
+0021200605,327,1,1,4,2:58 PM,9:52,,,Augustin 26' 3PT Jump Shot (6 PTS) (George 6 AST),70 - 67,-3
+0021200605,328,6,11,4,2:59 PM,9:50,Bayless T.FOUL (P0.T1),,,,
+0021200605,329,3,16,4,2:59 PM,9:50,,,MISS Augustin Free Throw Technical,,
+0021200605,330,4,1,4,2:59 PM,9:50,GRIZZLIES Rebound,,,,
+0021200605,331,8,0,4,2:59 PM,9:50,SUB: Allen FOR Gay,,,,
+0021200605,332,1,1,4,3:00 PM,9:32,Ellington 27' 3PT Jump Shot (17 PTS) (Bayless 5 AST),,,70 - 70,TIE
+0021200605,333,1,44,4,3:00 PM,9:15,,,Hansbrough 1' Reverse Layup (7 PTS) (George 7 AST),72 - 70,-2
+0021200605,334,6,1,4,3:00 PM,9:03,,,Hansbrough P.FOUL (P2.T1),,
+0021200605,335,8,0,4,3:00 PM,9:03,,,SUB: Hill FOR Augustin,,
+0021200605,336,8,0,4,3:00 PM,9:03,,,SUB: Hibbert FOR Mahinmi,,
+0021200605,337,8,0,4,3:00 PM,9:03,SUB: Randolph FOR Speights,,,,
+0021200605,338,2,1,4,3:01 PM,8:57,MISS Arthur 16' Jump Shot,,,,
+0021200605,339,4,0,4,3:01 PM,8:55,,,Hibbert REBOUND (Off:0 Def:3),,
+0021200605,340,2,1,4,3:01 PM,8:42,,,MISS Stephenson 24' 3PT Jump Shot,,
+0021200605,341,4,0,4,3:01 PM,8:40,,,Pacers Rebound,,
+0021200605,342,9,4,4,3:01 PM,8:40,,,,,
+0021200605,344,2,58,4,3:05 PM,8:25,,,MISS Hibbert 9' Turnaround Hook Shot,,
+0021200605,345,4,0,4,3:05 PM,8:22,Randolph REBOUND (Off:2 Def:5),,,,
+0021200605,346,2,1,4,3:05 PM,8:03,MISS Randolph 19' Jump Shot,,,,
+0021200605,347,4,0,4,3:05 PM,8:02,,,George REBOUND (Off:0 Def:8),,
+0021200605,348,1,1,4,3:05 PM,7:38,,,Hansbrough 18' Jump Shot (9 PTS),74 - 70,-4
+0021200605,349,2,5,4,3:06 PM,7:20,MISS Arthur 3' Layup,,Hibbert BLOCK (2 BLK),,
+0021200605,350,4,0,4,3:06 PM,7:18,,,George REBOUND (Off:0 Def:9),,
+0021200605,351,2,1,4,3:06 PM,7:07,,,MISS George 25' 3PT Jump Shot,,
+0021200605,352,4,0,4,3:06 PM,7:06,,,Hibbert REBOUND (Off:1 Def:3),,
+0021200605,353,1,5,4,3:06 PM,7:02,,,Hibbert 3' Layup (10 PTS),76 - 70,-6
+0021200605,355,9,1,4,3:06 PM,6:58,GRIZZLIES Timeout: Regular (Full 4 Short 1),,,,
+0021200605,356,8,0,4,3:08 PM,6:58,SUB: Gasol FOR Bayless,,,,
+0021200605,357,8,0,4,3:08 PM,6:58,SUB: Conley FOR Arthur,,,,
+0021200605,358,8,0,4,3:09 PM,6:58,,,SUB: West FOR Hansbrough,,
+0021200605,359,6,2,4,3:09 PM,6:44,,,Hibbert S.FOUL (P3.T2),,
+0021200605,360,3,11,4,3:09 PM,6:44,Randolph Free Throw 1 of 2 (8 PTS),,,76 - 71,-5
+0021200605,362,8,0,4,3:10 PM,6:44,SUB: Gay FOR Ellington,,,,
+0021200605,363,3,12,4,3:10 PM,6:44,Randolph Free Throw 2 of 2 (9 PTS),,,76 - 72,-4
+0021200605,365,2,1,4,3:10 PM,6:21,,,MISS Hill 22' Jump Shot,,
+0021200605,366,4,0,4,3:10 PM,6:20,Allen REBOUND (Off:2 Def:1),,,,
+0021200605,367,5,1,4,3:11 PM,6:07,Randolph Bad Pass Turnover (P1.T14),,George STEAL (2 STL),,
+0021200605,368,2,5,4,3:11 PM,6:03,,,MISS Stephenson 3' Layup,,
+0021200605,370,4,0,4,3:11 PM,6:01,,,George REBOUND (Off:1 Def:9),,
+0021200605,369,2,4,4,3:11 PM,6:01,,,MISS George  Tip Shot,,
+0021200605,371,4,0,4,3:11 PM,5:59,Gay REBOUND (Off:2 Def:5),,,,
+0021200605,372,2,47,4,3:11 PM,5:46,MISS Randolph 6' Turnaround Jump Shot,,,,
+0021200605,373,4,0,4,3:11 PM,5:45,,,Pacers Rebound,,
+0021200605,374,2,77,4,3:11 PM,5:28,,,MISS West 3' Driving Jump Shot,,
+0021200605,375,4,0,4,3:12 PM,5:25,Allen REBOUND (Off:2 Def:2),,,,
+0021200605,376,2,5,4,3:12 PM,5:19,MISS Randolph 2' Layup,,,,
+0021200605,378,4,0,4,3:12 PM,5:16,Allen REBOUND (Off:3 Def:2),,,,
+0021200605,377,2,4,4,3:12 PM,5:16,MISS Allen  Tip Shot,,,,
+0021200605,379,4,0,4,3:12 PM,5:14,,,Hill REBOUND (Off:0 Def:4),,
+0021200605,381,5,2,4,3:12 PM,5:14,,,Hill Lost Ball Turnover (P6.T17),,
+0021200605,380,10,0,4,3:13 PM,5:14,Jump Ball Randolph vs. Hill: Tip to Allen,,,,
+0021200605,382,2,1,4,3:13 PM,4:53,MISS Gay 25' 3PT Jump Shot,,,,
+0021200605,383,4,0,4,3:13 PM,4:52,,,Pacers Rebound,,
+0021200605,385,1,1,4,3:14 PM,4:29,,,West 21' Jump Shot (14 PTS) (George 8 AST),78 - 72,-6
+0021200605,386,1,46,4,3:14 PM,4:07,Randolph 7' Running Jump Shot (11 PTS),,,78 - 74,-4
+0021200605,387,2,1,4,3:15 PM,3:50,,,MISS George 26' 3PT Jump Shot,,
+0021200605,388,4,0,4,3:15 PM,3:50,Gasol REBOUND (Off:2 Def:3),,,,
+0021200605,389,1,80,4,3:15 PM,3:26,Conley 16' Step Back Jump Shot (10 PTS),,,78 - 76,-2
+0021200605,390,9,1,4,3:15 PM,3:15,,,Pacers Timeout: Regular (Reg.4 Short 0),,
+0021200605,393,5,1,4,3:19 PM,3:01,Allen STEAL (2 STL),,Hill Bad Pass Turnover (P7.T18),,
+0021200605,394,2,86,4,3:19 PM,2:38,MISS Gay 10' Turnaround Fadeaway Shot,,,,
+0021200605,395,4,0,4,3:19 PM,2:35,Gay REBOUND (Off:3 Def:5),,,,
+0021200605,396,5,1,4,3:19 PM,2:32,Gay Bad Pass Turnover (P1.T15),,West STEAL (3 STL),,
+0021200605,397,2,1,4,3:19 PM,2:20,,,MISS Hill 25' 3PT Jump Shot,,
+0021200605,398,4,0,4,3:19 PM,2:18,Allen REBOUND (Off:3 Def:3),,,,
+0021200605,399,1,1,4,3:19 PM,2:10,Conley 26' 3PT Jump Shot (13 PTS) (Randolph 1 AST),,,78 - 79,1
+0021200605,400,1,1,4,3:20 PM,1:42,,,George 26' 3PT Jump Shot (12 PTS) (West 3 AST),81 - 79,-2
+0021200605,401,10,0,4,3:21 PM,1:23,Jump Ball Gasol vs. Hill: Tip to Conley,,,,
+0021200605,402,2,1,4,3:21 PM,1:16,MISS Conley 25' 3PT Jump Shot,,,,
+0021200605,403,4,0,4,3:21 PM,1:15,,,West REBOUND (Off:1 Def:1),,
+0021200605,404,5,40,4,3:21 PM,0:57,,,Hill Out of Bounds Lost Ball Turnover (P8.T19),,
+0021200605,405,9,2,4,3:22 PM,0:57,GRIZZLIES Timeout: Short (Full 4 Short 2),,,,
+0021200605,408,2,5,4,3:23 PM,0:44,MISS Allen 2' Layup,,Hibbert BLOCK (3 BLK),,
+0021200605,409,4,0,4,3:23 PM,0:42,Allen REBOUND (Off:4 Def:3),,,,
+0021200605,410,2,79,4,3:23 PM,0:34,MISS Gay 15' Pullup Jump Shot,,,,
+0021200605,411,4,0,4,3:23 PM,0:32,Allen REBOUND (Off:5 Def:3),,,,
+0021200605,412,2,5,4,3:24 PM,0:14,MISS Conley 3' Layup,,Hibbert BLOCK (4 BLK),,
+0021200605,413,4,0,4,3:24 PM,0:12,,,Hibbert REBOUND (Off:1 Def:4),,
+0021200605,414,5,2,4,3:24 PM,0:11,Allen STEAL (3 STL),,Hibbert Lost Ball Turnover (P2.T20),,
+0021200605,415,1,5,4,3:24 PM,0:10,Randolph 2' Layup (13 PTS) (Allen 1 AST),,,81 - 81,TIE
+0021200605,416,9,1,4,3:24 PM,0:10,,,Pacers Timeout: Regular (Reg.5 Short 0),,
+0021200605,418,6,2,4,3:26 PM,0:01,Conley S.FOUL (P3.T2),,,,
+0021200605,419,3,11,4,3:26 PM,0:01,,,MISS Hill Free Throw 1 of 2,,
+0021200605,420,4,1,4,3:26 PM,0:01,,,Pacers Rebound,,
+0021200605,421,3,12,4,3:27 PM,0:01,,,Hill Free Throw 2 of 2 (13 PTS),82 - 81,-1
+0021200605,424,9,1,4,3:27 PM,0:01,GRIZZLIES Timeout: Regular (Full 5 Short 2),,,,
+0021200605,425,8,0,4,3:29 PM,0:01,,,SUB: Hansbrough FOR Stephenson,,
+0021200605,426,8,0,4,3:29 PM,0:01,SUB: Ellington FOR Allen,,,,
+0021200605,427,18,0,4,3:29 PM,0:00,,,,82 - 81,-1
+0021200605,429,13,0,4,3:30 PM,0:00,,,,82 - 81,-1

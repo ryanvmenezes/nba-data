@@ -1,0 +1,512 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000123,0,12,0,1,1:12 PM,12:00,,,,,
+0020000123,1,10,0,1,1:12 PM,12:00,Jump Ball Polynice vs. McGrady: Tip to Malone,,,,
+0020000123,2,1,1,1,1:13 PM,11:42,Russell 3' Jump Shot (2 PTS),,,0 - 2,2
+0020000123,3,1,1,1,1:13 PM,11:16,,,McGrady 21' Jump Shot (2 PTS),2 - 2,TIE
+0020000123,4,1,1,1,1:13 PM,10:59,Starks 22' Jump Shot (2 PTS) (Stockton 1 AST),,,2 - 4,2
+0020000123,5,2,5,1,1:14 PM,10:38,Polynice BLOCK (1 BLK),,MISS McGrady  Layup,,
+0020000123,6,4,0,1,1:14 PM,10:34,Russell REBOUND (Off:0 Def:1),,,,
+0020000123,7,6,2,1,1:14 PM,10:27,,,Doleac S.FOUL (P1.T1),,
+0020000123,8,3,11,1,1:14 PM,10:27,Malone Free Throw 1 of 2 (1 PTS),,,2 - 5,3
+0020000123,9,3,12,1,1:14 PM,10:27,Malone Free Throw 2 of 2 (2 PTS),,,2 - 6,4
+0020000123,10,2,1,1,1:15 PM,10:08,,,MISS Amaechi 20' Jump Shot,,
+0020000123,11,4,0,1,1:15 PM,10:06,,,Doleac REBOUND (Off:1 Def:0),,
+0020000123,12,1,1,1,1:15 PM,10:04,,,Armstrong 18' Jump Shot (2 PTS) (Doleac 1 AST),4 - 6,2
+0020000123,13,2,7,1,1:15 PM,9:49,MISS Starks  Dunk,,Outlaw BLOCK (1 BLK),,
+0020000123,14,4,0,1,1:15 PM,9:47,,,Armstrong REBOUND (Off:0 Def:1),,
+0020000123,15,2,1,1,1:16 PM,9:40,,,MISS Doleac 20' Jump Shot,,
+0020000123,16,4,0,1,1:16 PM,9:38,Malone REBOUND (Off:0 Def:1),,,,
+0020000123,17,2,3,1,1:16 PM,9:26,MISS Polynice 6' Hook Shot,,,,
+0020000123,18,4,0,1,1:16 PM,9:23,,,McGrady REBOUND (Off:0 Def:1),,
+0020000123,19,1,5,1,1:16 PM,9:16,,,Doleac  Layup (2 PTS) (McGrady 1 AST),6 - 6,TIE
+0020000123,20,1,5,1,1:16 PM,8:56,Stockton  Layup (2 PTS) (Polynice 1 AST),,,6 - 8,2
+0020000123,21,1,46,1,1:16 PM,8:47,,,Armstrong 4' Running Jump Shot (4 PTS),8 - 8,TIE
+0020000123,22,1,1,1,1:17 PM,8:22,Russell 20' Jump Shot (4 PTS),,,8 - 10,2
+0020000123,23,6,1,1,1:17 PM,8:12,Starks P.FOUL (P1.T1),,,,
+0020000123,24,5,1,1,1:17 PM,8:08,Stockton STEAL (1 STL),,Armstrong Bad Pass Turnover (P1.T1),,
+0020000123,25,2,42,1,1:17 PM,8:05,MISS Stockton  Driving Layup,,,,
+0020000123,26,4,0,1,1:17 PM,8:03,,,McGrady REBOUND (Off:0 Def:2),,
+0020000123,27,1,5,1,1:18 PM,7:54,,,Outlaw  Layup (2 PTS) (McGrady 2 AST),10 - 10,TIE
+0020000123,28,1,1,1,1:18 PM,7:36,Stockton 21' Jump Shot (4 PTS),,,10 - 12,2
+0020000123,29,1,46,1,1:18 PM,7:18,,,McGrady 4' Running Jump Shot (4 PTS),12 - 12,TIE
+0020000123,30,5,1,1,1:19 PM,7:00,Stockton Bad Pass Turnover (P1.T1),,,,
+0020000123,31,6,2,1,1:19 PM,6:49,Malone S.FOUL (P1.T2),,,,
+0020000123,32,3,11,1,1:19 PM,6:49,,,MISS Amaechi Free Throw 1 of 2,,
+0020000123,33,4,1,1,1:19 PM,6:49,,,Magic Rebound,,
+0020000123,34,3,12,1,1:19 PM,6:49,,,MISS Amaechi Free Throw 2 of 2,,
+0020000123,35,4,0,1,1:20 PM,6:48,Russell REBOUND (Off:0 Def:2),,,,
+0020000123,36,6,1,1,1:20 PM,6:37,,,Doleac P.FOUL (P2.T2),,
+0020000123,37,2,1,1,1:20 PM,6:26,MISS Russell 25' 3PT Jump Shot,,,,
+0020000123,38,4,0,1,1:20 PM,6:23,,,Outlaw REBOUND (Off:0 Def:1),,
+0020000123,39,1,1,1,1:20 PM,6:14,,,Amaechi 22' Jump Shot (2 PTS) (Armstrong 1 AST),14 - 12,-2
+0020000123,40,1,5,1,1:21 PM,5:50,Malone  Layup (4 PTS) (Stockton 2 AST),,,14 - 14,TIE
+0020000123,41,6,2,1,1:21 PM,5:50,,,Doleac S.FOUL (P3.T3),,
+0020000123,42,9,1,1,1:21 PM,5:50,JAZZ Timeout: Regular (Full 1 Short 0),,,,
+0020000123,44,8,0,1,1:23 PM,5:50,,,SUB: Garrity FOR Doleac,,
+0020000123,45,3,10,1,1:23 PM,5:50,MISS Malone Free Throw 1 of 1,,,,
+0020000123,46,4,0,1,1:24 PM,5:49,,,Outlaw REBOUND (Off:0 Def:2),,
+0020000123,47,1,1,1,1:24 PM,5:31,,,McGrady 14' Jump Shot (6 PTS),16 - 14,-2
+0020000123,48,2,1,1,1:24 PM,5:10,MISS Malone 16' Jump Shot,,,,
+0020000123,49,4,0,1,1:24 PM,5:08,,,Outlaw REBOUND (Off:0 Def:3),,
+0020000123,50,1,1,1,1:25 PM,4:57,,,Garrity 25' 3PT Jump Shot (3 PTS) (Armstrong 2 AST),19 - 14,-5
+0020000123,51,1,1,1,1:25 PM,4:33,Russell 22' Jump Shot (6 PTS) (Malone 1 AST),,,19 - 16,-3
+0020000123,52,1,1,1,1:25 PM,4:20,,,Outlaw 5' Jump Shot (4 PTS) (McGrady 3 AST),21 - 16,-5
+0020000123,53,7,2,1,1:25 PM,4:05,,,Outlaw Violation:Defensive Goaltending,,
+0020000123,54,8,0,1,1:26 PM,4:05,SUB: Vaughn FOR Stockton,,,,
+0020000123,55,8,0,1,1:26 PM,4:05,,,SUB: Reid FOR Amaechi,,
+0020000123,56,1,1,1,1:26 PM,3:59,Starks 21' Jump Shot (4 PTS) (Vaughn 1 AST),,,21 - 18,-3
+0020000123,57,2,1,1,1:26 PM,3:37,,,MISS Armstrong 25' 3PT Jump Shot,,
+0020000123,58,4,0,1,1:26 PM,3:35,,,Magic Rebound,,
+0020000123,59,1,1,1,1:27 PM,3:26,,,McGrady 19' Jump Shot (8 PTS) (Outlaw 1 AST),23 - 18,-5
+0020000123,60,5,1,1,1:27 PM,3:13,Russell Bad Pass Turnover (P1.T2),,Armstrong STEAL (1 STL),,
+0020000123,61,1,7,1,1:27 PM,3:07,,,Outlaw  Dunk (6 PTS) (Armstrong 3 AST),25 - 18,-7
+0020000123,62,2,1,1,1:27 PM,2:48,MISS Malone 18' Jump Shot,,,,
+0020000123,63,4,0,1,1:27 PM,2:45,,,Outlaw REBOUND (Off:0 Def:4),,
+0020000123,64,6,1,1,1:27 PM,2:40,Starks P.FOUL (P2.T3),,,,
+0020000123,65,9,1,1,1:28 PM,2:40,,,Magic Timeout: Regular (Reg.1 Short 0),,
+0020000123,67,8,0,1,1:29 PM,2:40,SUB: Lewis FOR Starks,,,,
+0020000123,68,8,0,1,1:30 PM,2:40,SUB: Benoit FOR Polynice,,,,
+0020000123,69,8,0,1,1:30 PM,2:40,,,SUB: Hudson FOR Armstrong,,
+0020000123,70,6,1,1,1:30 PM,2:31,Lewis P.FOUL (P1.T4),,,,
+0020000123,71,6,1,1,1:30 PM,2:29,Russell P.FOUL (P1.PN),,,,
+0020000123,72,3,11,1,1:31 PM,2:29,,,MISS Garrity Free Throw 1 of 2,,
+0020000123,73,4,1,1,1:31 PM,2:29,,,Magic Rebound,,
+0020000123,74,3,12,1,1:31 PM,2:29,,,Garrity Free Throw 2 of 2 (4 PTS),26 - 18,-8
+0020000123,75,5,1,1,1:31 PM,2:16,Russell Bad Pass Turnover (P2.T3),,Hudson STEAL (1 STL),,
+0020000123,76,2,1,1,1:31 PM,2:12,,,MISS Hudson 8' Jump Shot,,
+0020000123,77,4,0,1,1:31 PM,2:12,Lewis REBOUND (Off:0 Def:1),,,,
+0020000123,78,6,1,1,1:31 PM,2:12,,,Reid P.FOUL (P1.T4),,
+0020000123,79,1,42,1,1:32 PM,2:01,Vaughn  Driving Layup (2 PTS),,,26 - 20,-6
+0020000123,80,5,2,1,1:32 PM,1:45,Benoit STEAL (1 STL),,Outlaw Lost Ball Turnover (P1.T2),,
+0020000123,81,1,5,1,1:32 PM,1:40,Malone  Layup (6 PTS) (Vaughn 2 AST),,,26 - 22,-4
+0020000123,82,6,2,1,1:32 PM,1:40,,,Garrity S.FOUL (P1.PN),,
+0020000123,83,3,10,1,1:32 PM,1:40,MISS Malone Free Throw 1 of 1,,,,
+0020000123,84,4,0,1,1:33 PM,1:39,Russell REBOUND (Off:1 Def:2),,,,
+0020000123,85,6,1,1,1:33 PM,1:38,,,Reid P.FOUL (P2.PN),,
+0020000123,86,8,0,1,1:33 PM,1:38,,,SUB: Miller FOR Outlaw,,
+0020000123,87,3,11,1,1:33 PM,1:38,Russell Free Throw 1 of 2 (7 PTS),,,26 - 23,-3
+0020000123,88,8,0,1,1:33 PM,1:38,,,SUB: DeClercq FOR Reid,,
+0020000123,89,3,12,1,1:33 PM,1:38,Russell Free Throw 2 of 2 (8 PTS),,,26 - 24,-2
+0020000123,90,5,1,1,1:33 PM,1:22,,,McGrady Bad Pass Turnover (P1.T3),,
+0020000123,91,5,2,1,1:34 PM,1:04,Malone Lost Ball Turnover (P1.T4),,DeClercq STEAL (1 STL),,
+0020000123,92,6,2,1,1:34 PM,0:59,Lewis S.FOUL (P2.PN),,,,
+0020000123,93,3,11,1,1:34 PM,0:59,,,MISS McGrady Free Throw 1 of 2,,
+0020000123,94,4,1,1,1:34 PM,0:59,,,Magic Rebound,,
+0020000123,95,8,0,1,1:35 PM,0:59,SUB: Stevenson FOR Lewis,,,,
+0020000123,96,3,12,1,1:35 PM,0:59,,,McGrady Free Throw 2 of 2 (9 PTS),27 - 24,-3
+0020000123,97,1,1,1,1:35 PM,0:36,Benoit 25' 3PT Jump Shot (3 PTS) (Russell 1 AST),,,27 - 27,TIE
+0020000123,98,6,11,1,1:36 PM,0:35,Malone T.FOUL (P1.PN),,,,
+0020000123,99,3,16,1,1:36 PM,0:35,,,Garrity Free Throw Technical (5 PTS),28 - 27,-1
+0020000123,100,2,1,1,1:36 PM,0:25,,,MISS Garrity 20' Jump Shot,,
+0020000123,101,4,0,1,1:36 PM,0:23,,,Hudson REBOUND (Off:1 Def:0),,
+0020000123,102,5,2,1,1:36 PM,0:19,Russell STEAL (1 STL),,Hudson Lost Ball Turnover (P1.T4),,
+0020000123,103,2,1,1,1:37 PM,0:02,MISS Benoit 5' Jump Shot,,,,
+0020000123,105,4,0,1,1:37 PM,0:00,Benoit REBOUND (Off:1 Def:0),,,,
+0020000123,104,2,4,1,1:37 PM,0:00,MISS Benoit 3' Tip Shot,,,,
+0020000123,107,4,0,1,1:37 PM,0:00,Malone REBOUND (Off:1 Def:1),,,,
+0020000123,106,2,4,1,1:37 PM,0:00,MISS Malone  Tip Shot,,,,
+0020000123,108,4,0,1,1:37 PM,0:00,JAZZ Rebound,,,,
+0020000123,110,13,0,1,1:37 PM,0:00,,,,28 - 27,-1
+0020000123,112,12,0,2,1:39 PM,12:00,,,,28 - 27,-1
+0020000123,113,2,1,2,1:40 PM,11:48,,,MISS Garrity 21' Jump Shot,,
+0020000123,114,4,0,2,1:40 PM,11:45,JAZZ Rebound,,,,
+0020000123,115,2,1,2,1:40 PM,11:31,MISS Stevenson 18' Jump Shot,,,,
+0020000123,116,4,0,2,1:40 PM,11:30,Malone REBOUND (Off:2 Def:1),,,,
+0020000123,117,6,2,2,1:40 PM,11:30,,,Garrity S.FOUL (P2.T1),,
+0020000123,118,3,11,2,1:41 PM,11:30,MISS Malone Free Throw 1 of 2,,,,
+0020000123,119,4,1,2,1:41 PM,11:30,JAZZ Rebound,,,,
+0020000123,120,3,12,2,1:41 PM,11:30,Malone Free Throw 2 of 2 (7 PTS),,,28 - 28,TIE
+0020000123,121,2,5,2,1:41 PM,11:20,Marshall BLOCK (1 BLK),,MISS Williams  Layup,,
+0020000123,122,4,0,2,1:41 PM,11:18,Malone REBOUND (Off:2 Def:2),,,,
+0020000123,123,5,1,2,1:41 PM,11:09,Stevenson Bad Pass Turnover (P1.T5),,Garrity STEAL (1 STL),,
+0020000123,124,6,1,2,1:42 PM,10:54,Marshall P.FOUL (P1.T1),,,,
+0020000123,125,8,0,2,1:42 PM,10:54,SUB: Manning FOR Malone,,,,
+0020000123,126,2,1,2,1:42 PM,10:47,,,MISS Hudson 7' Jump Shot,,
+0020000123,127,4,0,2,1:42 PM,10:45,Benoit REBOUND (Off:1 Def:1),,,,
+0020000123,128,2,42,2,1:42 PM,10:23,MISS Stevenson  Driving Layup,,,,
+0020000123,129,4,0,2,1:42 PM,10:22,Manning REBOUND (Off:1 Def:0),,,,
+0020000123,130,2,1,2,1:43 PM,10:02,MISS Manning 18' Jump Shot,,,,
+0020000123,131,4,0,2,1:43 PM,10:00,,,Miller REBOUND (Off:0 Def:1),,
+0020000123,132,6,1,2,1:43 PM,9:52,Stevenson P.FOUL (P1.T2),,,,
+0020000123,133,8,0,2,1:43 PM,9:52,,,SUB: Armstrong FOR Hudson,,
+0020000123,134,8,0,2,1:43 PM,9:52,,,SUB: Outlaw FOR DeClercq,,
+0020000123,135,6,1,2,1:43 PM,9:51,Stevenson P.FOUL (P2.T3),,,,
+0020000123,136,5,2,2,1:44 PM,9:48,Manning STEAL (1 STL),,Armstrong Lost Ball Turnover (P2.T5),,
+0020000123,137,1,5,2,1:44 PM,9:42,Vaughn  Layup (4 PTS) (Manning 1 AST),,,28 - 30,2
+0020000123,138,1,1,2,1:44 PM,9:34,,,Miller 24' 3PT Jump Shot (3 PTS) (Armstrong 4 AST),31 - 30,-1
+0020000123,139,6,4,2,1:44 PM,9:18,Benoit OFF.Foul (P1),,,,
+0020000123,140,5,5,2,1:44 PM,9:18,Benoit Foul Turnover (P1.T6),,,,
+0020000123,141,1,46,2,1:45 PM,9:06,,,Armstrong 9' Running Jump Shot (6 PTS),33 - 30,-3
+0020000123,142,6,3,2,1:45 PM,9:05,,,Williams L.B.FOUL (P1.T2),,
+0020000123,143,2,1,2,1:45 PM,8:52,MISS Marshall 18' Jump Shot,,,,
+0020000123,144,4,0,2,1:45 PM,8:49,,,Outlaw REBOUND (Off:0 Def:5),,
+0020000123,145,6,1,2,1:45 PM,8:48,Benoit P.FOUL (P2.T4),,,,
+0020000123,146,9,4,2,1:45 PM,8:48,,,,,
+0020000123,148,8,0,2,1:47 PM,8:48,SUB: Starks FOR Stevenson,,,,
+0020000123,149,2,1,2,1:48 PM,8:36,,,MISS Garrity 19' Jump Shot,,
+0020000123,150,4,0,2,1:48 PM,8:34,,,Miller REBOUND (Off:1 Def:1),,
+0020000123,151,5,2,2,1:48 PM,8:28,Marshall STEAL (1 STL),,Garrity Lost Ball Turnover (P1.T6),,
+0020000123,152,2,5,2,1:48 PM,8:23,MISS Benoit  Layup,,,,
+0020000123,153,4,0,2,1:48 PM,8:21,,,Outlaw REBOUND (Off:0 Def:6),,
+0020000123,154,1,1,2,1:48 PM,8:16,,,Garrity 24' 3PT Jump Shot (8 PTS) (Armstrong 5 AST),36 - 30,-6
+0020000123,155,5,1,2,1:48 PM,7:55,Manning Bad Pass Turnover (P1.T7),,Miller STEAL (1 STL),,
+0020000123,156,2,1,2,1:49 PM,7:49,,,MISS Miller 9' Jump Shot,,
+0020000123,157,4,0,2,1:49 PM,7:46,Marshall REBOUND (Off:0 Def:1),,,,
+0020000123,158,1,42,2,1:49 PM,7:43,Starks  Driving Layup (6 PTS) (Marshall 1 AST),,,36 - 32,-4
+0020000123,159,2,1,2,1:49 PM,7:20,,,MISS Garrity 24' 3PT Jump Shot,,
+0020000123,160,4,0,2,1:49 PM,7:17,,,Williams REBOUND (Off:1 Def:0),,
+0020000123,161,8,0,2,1:49 PM,7:17,SUB: Stockton FOR Vaughn,,,,
+0020000123,162,10,0,2,1:49 PM,7:17,Jump Ball Benoit vs. Williams: Tip to Manning,,,,
+0020000123,163,5,2,2,1:49 PM,7:17,Benoit STEAL (2 STL),,Williams Lost Ball Turnover (P1.T7),,
+0020000123,164,1,7,2,1:50 PM,7:01,Marshall  Dunk (2 PTS) (Manning 2 AST),,,36 - 34,-2
+0020000123,165,6,4,2,1:50 PM,6:52,,,Williams OFF.Foul (P2),,
+0020000123,166,5,5,2,1:50 PM,6:52,,,Williams Foul Turnover (P2.T8),,
+0020000123,167,8,0,2,1:50 PM,6:52,SUB: Russell FOR Benoit,,,,
+0020000123,168,8,0,2,1:50 PM,6:52,,,SUB: McGrady FOR Miller,,
+0020000123,169,2,1,2,1:51 PM,6:28,MISS Starks 23' Jump Shot,,,,
+0020000123,170,4,0,2,1:51 PM,6:27,JAZZ Rebound,,,,
+0020000123,172,6,17,2,1:51 PM,6:19,,,Magic T.Foul (Def. 3 Sec Outlaw ),,
+0020000123,173,3,16,2,1:52 PM,6:19,Stockton Free Throw Technical (5 PTS),,,36 - 35,-1
+0020000123,174,1,42,2,1:52 PM,6:10,Manning  Driving Layup (2 PTS) (Stockton 3 AST),,,36 - 37,1
+0020000123,175,1,7,2,1:52 PM,5:55,,,McGrady  Dunk (11 PTS) (Williams 1 AST),38 - 37,-1
+0020000123,176,5,1,2,1:53 PM,5:39,Stockton Bad Pass Turnover (P2.T8),,,,
+0020000123,177,9,1,2,1:53 PM,5:39,JAZZ Timeout: Regular (Full 2 Short 0),,,,
+0020000123,179,8,0,2,1:55 PM,5:39,,,SUB: Amaechi FOR Williams,,
+0020000123,180,6,1,2,1:55 PM,5:30,Starks P.FOUL (P3.PN),,,,
+0020000123,181,3,11,2,1:55 PM,5:30,,,McGrady Free Throw 1 of 2 (12 PTS),39 - 37,-2
+0020000123,182,8,0,2,1:56 PM,5:30,SUB: Malone FOR Starks,,,,
+0020000123,183,3,12,2,1:56 PM,5:30,,,McGrady Free Throw 2 of 2 (13 PTS),40 - 37,-3
+0020000123,184,6,17,2,1:56 PM,5:22,,,Magic T.Foul (Def. 3 Sec Garrity ),,
+0020000123,185,3,16,2,1:56 PM,5:22,MISS Stockton Free Throw Technical,,,,
+0020000123,186,4,1,2,1:56 PM,5:22,JAZZ Rebound,,,,
+0020000123,187,5,1,2,1:57 PM,5:14,Malone Bad Pass Turnover (P2.T9),,Outlaw STEAL (1 STL),,
+0020000123,188,1,1,2,1:57 PM,5:09,,,Armstrong 15' Jump Shot (8 PTS) (Outlaw 2 AST),42 - 37,-5
+0020000123,189,2,5,2,1:57 PM,4:50,MISS Russell  Layup,,,,
+0020000123,191,4,0,2,1:57 PM,4:48,Russell REBOUND (Off:2 Def:2),,,,
+0020000123,190,1,4,2,1:57 PM,4:48,Russell  Tip Shot (10 PTS),,,42 - 39,-3
+0020000123,192,2,1,2,1:57 PM,4:37,,,MISS Amaechi 8' Jump Shot,,
+0020000123,193,4,0,2,1:57 PM,4:36,,,Magic Rebound,,
+0020000123,194,2,1,2,1:58 PM,4:34,,,MISS Garrity 17' Jump Shot,,
+0020000123,195,4,0,2,1:58 PM,4:31,Russell REBOUND (Off:2 Def:3),,,,
+0020000123,196,2,5,2,1:58 PM,4:21,MISS Stockton  Layup,,,,
+0020000123,197,4,0,2,1:58 PM,4:19,,,Garrity REBOUND (Off:0 Def:1),,
+0020000123,198,6,1,2,1:58 PM,4:15,Manning P.FOUL (P1.PN),,,,
+0020000123,199,3,11,2,1:58 PM,4:15,,,Armstrong Free Throw 1 of 2 (9 PTS),43 - 39,-4
+0020000123,200,3,12,2,1:58 PM,4:15,,,Armstrong Free Throw 2 of 2 (10 PTS),44 - 39,-5
+0020000123,201,1,7,2,1:59 PM,4:06,Russell  Dunk (12 PTS) (Stockton 4 AST),,,44 - 41,-3
+0020000123,202,2,5,2,1:59 PM,3:49,,,MISS Amaechi  Layup,,
+0020000123,203,4,0,2,1:59 PM,3:47,Manning REBOUND (Off:1 Def:1),,,,
+0020000123,204,5,1,2,1:59 PM,3:42,Russell Bad Pass Turnover (P3.T10),,Garrity STEAL (2 STL),,
+0020000123,205,5,1,2,1:59 PM,3:40,,,Amaechi Bad Pass Turnover (P1.T9),,
+0020000123,206,6,11,2,1:59 PM,3:40,,,,,
+0020000123,207,3,16,2,2:00 PM,3:40,,,Armstrong Free Throw Technical (11 PTS),45 - 41,-4
+0020000123,208,5,1,2,2:00 PM,3:28,Stockton Bad Pass Turnover (P3.T11),,McGrady STEAL (1 STL),,
+0020000123,209,5,2,2,2:00 PM,3:23,Russell STEAL (2 STL),,Armstrong Lost Ball Turnover (P3.T10),,
+0020000123,210,1,1,2,2:00 PM,3:18,Stockton 25' 3PT Jump Shot (8 PTS) (Manning 3 AST),,,45 - 44,-1
+0020000123,211,9,1,2,2:00 PM,3:09,,,Magic Timeout: Regular (Reg.2 Short 0),,
+0020000123,213,6,2,2,2:03 PM,3:00,Russell S.FOUL (P2.PN),,,,
+0020000123,214,3,11,2,2:03 PM,3:00,,,McGrady Free Throw 1 of 2 (14 PTS),46 - 44,-2
+0020000123,215,3,12,2,2:03 PM,3:00,,,McGrady Free Throw 2 of 2 (15 PTS),47 - 44,-3
+0020000123,216,2,5,2,2:04 PM,2:46,MISS Russell  Layup,,,,
+0020000123,218,4,0,2,2:04 PM,2:44,Russell REBOUND (Off:3 Def:3),,,,
+0020000123,217,1,4,2,2:04 PM,2:44,Russell  Tip Shot (14 PTS),,,47 - 46,-1
+0020000123,219,5,4,2,2:04 PM,2:27,,,Outlaw Traveling Turnover (P2.T11),,
+0020000123,220,1,5,2,2:04 PM,2:19,Marshall  Layup (4 PTS) (Manning 4 AST),,,47 - 48,1
+0020000123,221,5,1,2,2:04 PM,2:04,Marshall STEAL (2 STL),,Outlaw Bad Pass Turnover (P3.T12),,
+0020000123,222,1,5,2,2:05 PM,1:54,Malone  Layup (9 PTS) (Stockton 5 AST),,,47 - 50,3
+0020000123,223,2,1,2,2:05 PM,1:35,,,MISS Garrity 20' Jump Shot,,
+0020000123,225,4,0,2,2:05 PM,1:32,,,Outlaw REBOUND (Off:1 Def:6),,
+0020000123,224,2,4,2,2:05 PM,1:32,,,MISS Outlaw  Tip Shot,,
+0020000123,226,4,0,2,2:05 PM,1:30,Marshall REBOUND (Off:0 Def:2),,,,
+0020000123,227,8,0,2,2:06 PM,1:18,,,SUB: Miller FOR Outlaw,,
+0020000123,228,6,2,2,2:06 PM,1:17,,,Miller S.FOUL (P1.T3),,
+0020000123,229,3,11,2,2:06 PM,1:17,Marshall Free Throw 1 of 2 (5 PTS),,,47 - 51,4
+0020000123,231,8,0,2,2:06 PM,1:17,SUB: Lewis FOR Russell,,,,
+0020000123,232,3,12,2,2:06 PM,1:17,MISS Marshall Free Throw 2 of 2,,,,
+0020000123,233,4,0,2,2:07 PM,1:15,,,Amaechi REBOUND (Off:0 Def:1),,
+0020000123,234,6,4,2,2:07 PM,0:59,,,Miller OFF.Foul (P2),,
+0020000123,235,5,5,2,2:07 PM,0:59,,,Miller Foul Turnover (P1.T13),,
+0020000123,236,2,5,2,2:08 PM,0:44,MISS Malone  Layup,,,,
+0020000123,237,4,0,2,2:08 PM,0:43,,,McGrady REBOUND (Off:0 Def:3),,
+0020000123,238,1,1,2,2:08 PM,0:38,,,Miller 20' Jump Shot (5 PTS) (McGrady 4 AST),49 - 51,2
+0020000123,239,1,1,2,2:08 PM,0:28,Manning 5' Jump Shot (4 PTS) (Stockton 6 AST),,,49 - 53,4
+0020000123,240,1,1,2,2:08 PM,0:06,,,Miller 20' Jump Shot (7 PTS) (Armstrong 6 AST),51 - 53,2
+0020000123,241,6,2,2,2:09 PM,0:01,,,Garrity S.FOUL (P3.PN),,
+0020000123,243,9,2,2,2:09 PM,0:01,,,Magic Timeout: Short (Reg.2 Short 1),,
+0020000123,245,3,11,2,2:10 PM,0:01,Stockton Free Throw 1 of 2 (9 PTS),,,51 - 54,3
+0020000123,247,8,0,2,2:10 PM,0:01,,,SUB: DeClercq FOR Garrity,,
+0020000123,248,3,12,2,2:10 PM,0:01,Stockton Free Throw 2 of 2 (10 PTS),,,51 - 55,4
+0020000123,249,5,1,2,2:10 PM,0:00,Manning STEAL (2 STL),,Amaechi Bad Pass Turnover (P2.T14),,
+0020000123,251,13,0,2,2:11 PM,0:00,,,,51 - 55,4
+0020000123,253,12,0,3,2:27 PM,12:00,,,,51 - 55,4
+0020000123,254,2,1,3,2:27 PM,11:43,,,MISS Doleac 21' Jump Shot,,
+0020000123,255,4,0,3,2:27 PM,11:41,Malone REBOUND (Off:2 Def:3),,,,
+0020000123,256,6,17,3,2:27 PM,11:33,,,Magic T.Foul (Def. 3 Sec Doleac ),,
+0020000123,257,3,16,3,2:28 PM,11:33,Starks Free Throw Technical (7 PTS),,,51 - 56,5
+0020000123,259,2,1,3,2:28 PM,11:23,MISS Starks 19' Jump Shot,,,,
+0020000123,260,4,0,3,2:28 PM,11:20,Polynice REBOUND (Off:1 Def:0),,,,
+0020000123,261,2,1,3,2:28 PM,11:18,MISS Stockton 24' 3PT Jump Shot,,,,
+0020000123,262,4,0,3,2:28 PM,11:14,,,McGrady REBOUND (Off:0 Def:4),,
+0020000123,263,2,46,3,2:28 PM,11:06,,,MISS McGrady 13' Running Jump Shot,,
+0020000123,264,4,0,3,2:28 PM,11:06,,,McGrady REBOUND (Off:1 Def:4),,
+0020000123,265,6,3,3,2:28 PM,11:06,Russell L.B.FOUL (P3.T1),,,,
+0020000123,266,2,5,3,2:29 PM,10:52,,,MISS Outlaw  Layup,,
+0020000123,267,4,0,3,2:29 PM,10:50,Polynice REBOUND (Off:1 Def:1),,,,
+0020000123,268,6,1,3,2:29 PM,10:42,,,Outlaw P.FOUL (P1.T1),,
+0020000123,269,2,5,3,2:29 PM,10:31,MISS Starks  Layup,,McGrady BLOCK (1 BLK),,
+0020000123,270,4,0,3,2:30 PM,10:28,,,Doleac REBOUND (Off:1 Def:1),,
+0020000123,271,6,2,3,2:30 PM,10:18,Polynice S.FOUL (P1.T2),,,,
+0020000123,272,3,11,3,2:30 PM,10:18,,,McGrady Free Throw 1 of 2 (16 PTS),52 - 56,4
+0020000123,273,3,12,3,2:30 PM,10:18,,,MISS McGrady Free Throw 2 of 2,,
+0020000123,274,4,0,3,2:30 PM,10:17,Polynice REBOUND (Off:1 Def:2),,,,
+0020000123,275,6,4,3,2:31 PM,9:59,Stockton OFF.Foul (P1),,,,
+0020000123,276,5,5,3,2:31 PM,9:59,Stockton Foul Turnover (P4.T12),,,,
+0020000123,277,1,1,3,2:31 PM,9:50,,,Armstrong 17' Jump Shot (13 PTS),54 - 56,2
+0020000123,278,6,2,3,2:31 PM,9:50,Stockton S.FOUL (P2.T3),,,,
+0020000123,279,3,10,3,2:31 PM,9:50,,,Armstrong Free Throw 1 of 1 (14 PTS),55 - 56,1
+0020000123,280,2,1,3,2:32 PM,9:36,MISS Russell 24' 3PT Jump Shot,,,,
+0020000123,281,4,0,3,2:32 PM,9:34,,,Doleac REBOUND (Off:1 Def:2),,
+0020000123,282,2,47,3,2:32 PM,9:24,,,MISS McGrady 19' Turnaround Jump Shot,,
+0020000123,283,4,0,3,2:32 PM,9:22,Polynice REBOUND (Off:1 Def:3),,,,
+0020000123,284,1,1,3,2:32 PM,9:14,Starks 19' Jump Shot (9 PTS) (Stockton 7 AST),,,55 - 58,3
+0020000123,285,5,1,3,2:32 PM,9:02,,,Amaechi Bad Pass Turnover (P3.T15),,
+0020000123,286,6,2,3,2:33 PM,8:44,,,Amaechi S.FOUL (P1.T2),,
+0020000123,287,3,11,3,2:33 PM,8:44,MISS Malone Free Throw 1 of 2,,,,
+0020000123,288,4,1,3,2:33 PM,8:44,JAZZ Rebound,,,,
+0020000123,289,3,12,3,2:33 PM,8:44,Malone Free Throw 2 of 2 (10 PTS),,,55 - 59,4
+0020000123,290,2,1,3,2:34 PM,8:33,,,MISS Amaechi 9' Jump Shot,,
+0020000123,291,4,0,3,2:34 PM,8:31,Russell REBOUND (Off:3 Def:4),,,,
+0020000123,292,6,1,3,2:34 PM,8:29,,,Armstrong P.FOUL (P1.T3),,
+0020000123,293,6,2,3,2:34 PM,8:15,,,Doleac S.FOUL (P4.T4),,
+0020000123,294,3,11,3,2:35 PM,8:15,MISS Russell Free Throw 1 of 2,,,,
+0020000123,295,4,1,3,2:35 PM,8:15,JAZZ Rebound,,,,
+0020000123,296,8,0,3,2:35 PM,8:15,,,SUB: Garrity FOR Doleac,,
+0020000123,297,3,12,3,2:35 PM,8:15,MISS Russell Free Throw 2 of 2,,,,
+0020000123,298,4,0,3,2:35 PM,8:14,,,Amaechi REBOUND (Off:0 Def:2),,
+0020000123,299,6,1,3,2:35 PM,7:58,Polynice P.FOUL (P2.T4),,,,
+0020000123,300,2,1,3,2:36 PM,7:44,Malone BLOCK (1 BLK),,MISS Outlaw 11' Jump Shot,,
+0020000123,301,4,0,3,2:36 PM,7:42,Polynice REBOUND (Off:1 Def:4),,,,
+0020000123,302,5,1,3,2:36 PM,7:39,Stockton Bad Pass Turnover (P5.T13),,,,
+0020000123,303,2,1,3,2:36 PM,7:22,,,MISS Amaechi 21' Jump Shot,,
+0020000123,304,4,0,3,2:37 PM,7:19,Malone REBOUND (Off:2 Def:4),,,,
+0020000123,305,1,1,3,2:37 PM,7:06,Russell  3PT Jump Shot (17 PTS) (Stockton 8 AST),,,55 - 62,7
+0020000123,306,2,1,3,2:37 PM,6:48,Polynice BLOCK (2 BLK),,MISS Amaechi 14' Jump Shot,,
+0020000123,308,4,0,3,2:37 PM,6:45,,,Amaechi REBOUND (Off:1 Def:2),,
+0020000123,307,2,1,3,2:37 PM,6:45,,,MISS Amaechi 13' Jump Shot,,
+0020000123,309,4,0,3,2:37 PM,6:43,Russell REBOUND (Off:3 Def:5),,,,
+0020000123,310,6,1,3,2:37 PM,6:42,,,Armstrong P.FOUL (P2.PN),,
+0020000123,311,3,11,3,2:37 PM,6:42,MISS Stockton Free Throw 1 of 2,,,,
+0020000123,312,4,1,3,2:37 PM,6:42,JAZZ Rebound,,,,
+0020000123,313,3,12,3,2:38 PM,6:42,Stockton Free Throw 2 of 2 (11 PTS),,,55 - 63,8
+0020000123,314,9,1,3,2:38 PM,6:42,,,Magic Timeout: Regular (Reg.3 Short 1),,
+0020000123,316,6,4,3,2:40 PM,6:34,,,Armstrong OFF.Foul (P3),,
+0020000123,317,5,5,3,2:40 PM,6:34,,,Armstrong Foul Turnover (P4.T16),,
+0020000123,318,6,1,3,2:41 PM,6:25,,,Outlaw P.FOUL (P2.PN),,
+0020000123,319,3,11,3,2:41 PM,6:25,Russell Free Throw 1 of 2 (18 PTS),,,55 - 64,9
+0020000123,320,3,12,3,2:41 PM,6:25,Russell Free Throw 2 of 2 (19 PTS),,,55 - 65,10
+0020000123,321,2,1,3,2:42 PM,6:03,,,MISS McGrady 11' Jump Shot,,
+0020000123,323,4,0,3,2:42 PM,6:01,,,Outlaw REBOUND (Off:2 Def:6),,
+0020000123,322,2,4,3,2:42 PM,6:01,,,MISS Outlaw  Tip Shot,,
+0020000123,325,4,0,3,2:42 PM,5:58,,,Outlaw REBOUND (Off:3 Def:6),,
+0020000123,324,1,4,3,2:42 PM,5:58,,,Outlaw  Tip Shot (8 PTS),57 - 65,8
+0020000123,326,5,1,3,2:42 PM,5:44,Malone Bad Pass Turnover (P3.T14),,Outlaw STEAL (2 STL),,
+0020000123,327,6,3,3,2:42 PM,5:44,Russell L.B.FOUL (P4.PN),,,,
+0020000123,328,3,11,3,2:42 PM,5:44,,,MISS Outlaw Free Throw 1 of 2,,
+0020000123,329,4,1,3,2:42 PM,5:44,,,Magic Rebound,,
+0020000123,330,8,0,3,2:42 PM,5:44,SUB: Marshall FOR Russell,,,,
+0020000123,331,3,12,3,2:43 PM,5:44,,,Outlaw Free Throw 2 of 2 (9 PTS),58 - 65,7
+0020000123,332,1,1,3,2:43 PM,5:30,Marshall 19' Jump Shot (7 PTS) (Stockton 9 AST),,,58 - 67,9
+0020000123,333,8,0,3,2:43 PM,5:15,SUB: Vaughn FOR Stockton,,,,
+0020000123,334,6,1,3,2:44 PM,5:09,Starks P.FOUL (P4.PN),,,,
+0020000123,335,3,11,3,2:44 PM,5:09,,,MISS Amaechi Free Throw 1 of 2,,
+0020000123,336,4,1,3,2:44 PM,5:09,,,Magic Rebound,,
+0020000123,337,8,0,3,2:44 PM,5:09,SUB: Lewis FOR Starks,,,,
+0020000123,338,3,12,3,2:44 PM,5:09,,,Amaechi Free Throw 2 of 2 (3 PTS),59 - 67,8
+0020000123,339,2,1,3,2:45 PM,4:48,MISS Lewis 7' Jump Shot,,,,
+0020000123,340,4,0,3,2:45 PM,4:48,,,Magic Rebound,,
+0020000123,341,8,0,3,2:45 PM,4:48,,,SUB: Miller FOR Garrity,,
+0020000123,342,6,1,3,2:45 PM,4:35,Polynice P.FOUL (P3.PN),,,,
+0020000123,343,3,11,3,2:45 PM,4:35,,,MISS Amaechi Free Throw 1 of 2,,
+0020000123,344,4,1,3,2:45 PM,4:35,,,Magic Rebound,,
+0020000123,345,3,12,3,2:46 PM,4:35,,,Amaechi Free Throw 2 of 2 (4 PTS),60 - 67,7
+0020000123,346,2,1,3,2:46 PM,4:23,MISS Malone 19' Jump Shot,,,,
+0020000123,347,4,0,3,2:46 PM,4:21,,,McGrady REBOUND (Off:1 Def:5),,
+0020000123,348,2,1,3,2:46 PM,4:16,Marshall BLOCK (2 BLK),,MISS Miller 25' 3PT Jump Shot,,
+0020000123,349,4,0,3,2:46 PM,4:12,Polynice REBOUND (Off:1 Def:5),,,,
+0020000123,350,5,8,3,2:46 PM,4:01,Polynice 3 Second Violation Turnover (P1.T15),,,,
+0020000123,351,2,1,3,2:47 PM,3:45,,,MISS Amaechi 11' Jump Shot,,
+0020000123,352,4,0,3,2:47 PM,3:43,Malone REBOUND (Off:2 Def:5),,,,
+0020000123,353,1,5,3,2:47 PM,3:27,Polynice  Layup (2 PTS) (Vaughn 3 AST),,,60 - 69,9
+0020000123,354,6,1,3,2:48 PM,3:05,Lewis P.FOUL (P3.PN),,,,
+0020000123,355,3,11,3,2:48 PM,3:05,,,MISS McGrady Free Throw 1 of 2,,
+0020000123,356,4,1,3,2:48 PM,3:05,,,Magic Rebound,,
+0020000123,357,8,0,3,2:48 PM,3:05,,,SUB: Doleac FOR Amaechi,,
+0020000123,358,3,12,3,2:48 PM,3:05,,,McGrady Free Throw 2 of 2 (17 PTS),61 - 69,8
+0020000123,359,2,1,3,2:49 PM,2:49,MISS Marshall 24' 3PT Jump Shot,,,,
+0020000123,360,4,0,3,2:49 PM,2:47,,,Armstrong REBOUND (Off:0 Def:2),,
+0020000123,361,1,1,3,2:49 PM,2:40,,,Doleac 20' Jump Shot (4 PTS) (Armstrong 7 AST),63 - 69,6
+0020000123,362,6,4,3,2:49 PM,2:19,Malone OFF.Foul (P2),,,,
+0020000123,363,5,5,3,2:49 PM,2:19,Malone Foul Turnover (P4.T16),,,,
+0020000123,364,9,1,3,2:50 PM,2:19,JAZZ Timeout: Regular (Full 3 Short 0),,,,
+0020000123,366,2,1,3,2:52 PM,2:06,,,MISS Doleac 20' Jump Shot,,
+0020000123,367,4,0,3,2:52 PM,2:04,Lewis REBOUND (Off:0 Def:2),,,,
+0020000123,368,5,1,3,2:52 PM,1:48,Vaughn Bad Pass Turnover (P1.T17),,Doleac STEAL (1 STL),,
+0020000123,369,2,1,3,2:53 PM,1:31,,,MISS Miller 24' 3PT Jump Shot,,
+0020000123,370,4,0,3,2:53 PM,1:29,Malone REBOUND (Off:2 Def:6),,,,
+0020000123,371,1,1,3,2:53 PM,1:14,Polynice 15' Jump Shot (4 PTS) (Vaughn 4 AST),,,63 - 71,8
+0020000123,372,6,1,3,2:53 PM,0:58,Marshall P.FOUL (P2.PN),,,,
+0020000123,373,3,11,3,2:53 PM,0:58,,,McGrady Free Throw 1 of 2 (18 PTS),64 - 71,7
+0020000123,375,8,0,3,2:54 PM,0:58,,,SUB: Hudson FOR Armstrong,,
+0020000123,376,3,12,3,2:54 PM,0:58,,,McGrady Free Throw 2 of 2 (19 PTS),65 - 71,6
+0020000123,377,2,5,3,2:54 PM,0:43,MISS Lewis  Layup,,Outlaw BLOCK (2 BLK),,
+0020000123,378,4,0,3,2:54 PM,0:41,,,Hudson REBOUND (Off:1 Def:1),,
+0020000123,379,5,1,3,2:54 PM,0:35,Vaughn STEAL (1 STL),,Miller Bad Pass Turnover (P2.T17),,
+0020000123,381,7,3,3,2:55 PM,0:29,,,Outlaw Violation:Lane,,
+0020000123,380,1,5,3,2:55 PM,0:29,Marshall  Layup (9 PTS) (Vaughn 5 AST),,,65 - 73,8
+0020000123,382,1,1,3,2:55 PM,0:17,,,Miller 21' Jump Shot (9 PTS) (Hudson 1 AST),67 - 73,6
+0020000123,383,2,1,3,2:55 PM,0:00,MISS Vaughn 20' Jump Shot,,,,
+0020000123,385,4,0,3,2:55 PM,0:00,JAZZ Rebound,,,,
+0020000123,386,13,0,3,2:55 PM,0:00,,,,67 - 73,6
+0020000123,387,12,0,4,2:58 PM,12:00,,,,67 - 73,6
+0020000123,388,6,17,4,2:58 PM,11:47,,,Magic T.Foul (Def. 3 Sec Outlaw ),,
+0020000123,389,3,16,4,2:58 PM,11:47,Vaughn Free Throw Technical (5 PTS),,,67 - 74,7
+0020000123,390,6,4,4,2:59 PM,11:43,Marshall OFF.Foul (P3),,,,
+0020000123,391,5,5,4,2:59 PM,11:43,Marshall Foul Turnover (P1.T18),,,,
+0020000123,392,6,1,4,2:59 PM,11:36,Malone P.FOUL (P3.T1),,,,
+0020000123,393,2,1,4,3:00 PM,11:30,,,MISS Hudson 22' Jump Shot,,
+0020000123,394,4,0,4,3:00 PM,11:29,Malone REBOUND (Off:2 Def:7),,,,
+0020000123,395,5,1,4,3:00 PM,11:15,Vaughn Bad Pass Turnover (P2.T19),,Doleac STEAL (2 STL),,
+0020000123,396,5,1,4,3:00 PM,11:01,Vaughn STEAL (2 STL),,Doleac Bad Pass Turnover (P1.T18),,
+0020000123,397,5,1,4,3:00 PM,10:57,Vaughn Bad Pass Turnover (P3.T20),,,,
+0020000123,398,8,0,4,3:00 PM,10:57,SUB: Ostertag FOR Malone,,,,
+0020000123,399,6,4,4,3:01 PM,10:52,,,Doleac OFF.Foul (P5),,
+0020000123,400,5,5,4,3:01 PM,10:52,,,Doleac Foul Turnover (P2.T19),,
+0020000123,401,6,2,4,3:01 PM,10:35,,,Williams S.FOUL (P3.T1),,
+0020000123,402,8,0,4,3:01 PM,10:35,,,SUB: Amaechi FOR Doleac,,
+0020000123,404,3,11,4,3:02 PM,10:35,MISS Ostertag Free Throw 1 of 2,,,,
+0020000123,405,4,1,4,3:02 PM,10:35,JAZZ Rebound,,,,
+0020000123,406,8,0,4,3:02 PM,10:35,SUB: Stockton FOR Vaughn,,,,
+0020000123,407,3,12,4,3:02 PM,10:35,Ostertag Free Throw 2 of 2 (1 PTS),,,67 - 75,8
+0020000123,408,2,1,4,3:03 PM,10:10,,,MISS Amaechi 24' 3PT Jump Shot,,
+0020000123,409,4,0,4,3:03 PM,10:10,,,Magic Rebound,,
+0020000123,410,5,11,4,3:03 PM,10:10,,,Magic Turnover: Shot Clock (T#20),,
+0020000123,411,6,1,4,3:03 PM,9:57,,,Outlaw P.FOUL (P3.T2),,
+0020000123,412,8,0,4,3:04 PM,9:57,,,SUB: Armstrong FOR Hudson,,
+0020000123,413,5,1,4,3:04 PM,9:49,Stockton Bad Pass Turnover (P6.T21),,,,
+0020000123,414,6,1,4,3:04 PM,9:37,Manning P.FOUL (P2.T2),,,,
+0020000123,415,6,1,4,3:05 PM,9:30,Manning P.FOUL (P3.T3),,,,
+0020000123,416,1,40,4,3:05 PM,9:27,,,Amaechi  Layup (6 PTS) (Armstrong 8 AST),69 - 75,6
+0020000123,417,6,2,4,3:05 PM,9:27,Manning S.FOUL (P4.T4),,,,
+0020000123,418,3,10,4,3:05 PM,9:27,,,Amaechi Free Throw 1 of 1 (7 PTS),70 - 75,5
+0020000123,419,1,5,4,3:06 PM,9:14,Lewis  Layup (2 PTS) (Manning 5 AST),,,70 - 77,7
+0020000123,420,6,2,4,3:06 PM,9:09,Lewis S.FOUL (P4.PN),,,,
+0020000123,421,3,11,4,3:06 PM,9:09,,,Miller Free Throw 1 of 2 (10 PTS),71 - 77,6
+0020000123,422,3,12,4,3:06 PM,9:09,,,Miller Free Throw 2 of 2 (11 PTS),72 - 77,5
+0020000123,423,6,2,4,3:06 PM,8:55,,,Williams S.FOUL (P4.T3),,
+0020000123,424,9,4,4,3:07 PM,8:55,,,,,
+0020000123,426,8,0,4,3:08 PM,8:55,SUB: Starks FOR Lewis,,,,
+0020000123,427,8,0,4,3:08 PM,8:55,SUB: Malone FOR Manning,,,,
+0020000123,428,3,11,4,3:09 PM,8:55,Marshall Free Throw 1 of 2 (10 PTS),,,72 - 78,6
+0020000123,430,3,12,4,3:09 PM,8:55,MISS Marshall Free Throw 2 of 2,,,,
+0020000123,431,4,0,4,3:09 PM,8:54,,,Outlaw REBOUND (Off:3 Def:7),,
+0020000123,432,5,1,4,3:09 PM,8:41,Starks STEAL (1 STL),,Amaechi Bad Pass Turnover (P4.T21),,
+0020000123,433,6,2,4,3:09 PM,8:37,,,Miller S.FOUL (P3.T4),,
+0020000123,434,8,0,4,3:10 PM,8:37,,,SUB: McGrady FOR Williams,,
+0020000123,435,3,11,4,3:10 PM,8:37,Starks Free Throw 1 of 2 (10 PTS),,,72 - 79,7
+0020000123,436,3,12,4,3:10 PM,8:37,Starks Free Throw 2 of 2 (11 PTS),,,72 - 80,8
+0020000123,437,7,2,4,3:11 PM,8:23,Malone Violation:Defensive Goaltending,,,,
+0020000123,438,6,4,4,3:11 PM,8:15,,,Amaechi OFF.Foul (P2),,
+0020000123,439,5,5,4,3:11 PM,8:15,,,Amaechi Foul Turnover (P5.T22),,
+0020000123,440,6,11,4,3:11 PM,8:15,,,,,
+0020000123,441,3,16,4,3:11 PM,8:15,Starks Free Throw Technical (12 PTS),,,72 - 81,9
+0020000123,442,6,1,4,3:12 PM,8:06,,,Miller P.FOUL (P4.PN),,
+0020000123,443,3,11,4,3:12 PM,8:06,Starks Free Throw 1 of 2 (13 PTS),,,72 - 82,10
+0020000123,444,3,12,4,3:12 PM,8:06,MISS Starks Free Throw 2 of 2,,,,
+0020000123,445,4,0,4,3:13 PM,8:05,,,Outlaw REBOUND (Off:3 Def:8),,
+0020000123,446,9,1,4,3:13 PM,8:05,,,Magic Timeout: Regular (Reg.4 Short 1),,
+0020000123,448,8,0,4,3:15 PM,8:05,,,SUB: Doleac FOR Miller,,
+0020000123,449,2,42,4,3:15 PM,7:47,,,MISS McGrady  Driving Layup,,
+0020000123,450,4,0,4,3:15 PM,7:45,Marshall REBOUND (Off:0 Def:3),,,,
+0020000123,451,2,5,4,3:15 PM,7:42,MISS Malone  Layup,,Doleac BLOCK (1 BLK),,
+0020000123,452,10,0,4,3:16 PM,7:42,Jump Ball Malone vs. Doleac: Tip to Armstrong,,,,
+0020000123,453,4,0,4,3:16 PM,7:42,,,Doleac REBOUND (Off:1 Def:3),,
+0020000123,454,1,5,4,3:16 PM,7:39,,,Armstrong  Layup (16 PTS),74 - 82,8
+0020000123,455,5,1,4,3:16 PM,7:16,Stockton Bad Pass Turnover (P7.T22),,Doleac STEAL (3 STL),,
+0020000123,457,2,1,4,3:17 PM,6:55,,,MISS Armstrong 25' 3PT Jump Shot,,
+0020000123,458,4,0,4,3:17 PM,6:54,,,Outlaw REBOUND (Off:4 Def:8),,
+0020000123,459,6,2,4,3:17 PM,6:54,Ostertag S.FOUL (P1.PN),,,,
+0020000123,460,8,0,4,3:17 PM,6:54,SUB: Russell FOR Marshall,,,,
+0020000123,461,3,11,4,3:17 PM,6:54,,,Outlaw Free Throw 1 of 2 (10 PTS),75 - 82,7
+0020000123,462,3,12,4,3:17 PM,6:54,,,MISS Outlaw Free Throw 2 of 2,,
+0020000123,463,4,0,4,3:17 PM,6:52,Malone REBOUND (Off:2 Def:8),,,,
+0020000123,464,2,1,4,3:18 PM,6:36,MISS Russell 20' Jump Shot,,,,
+0020000123,465,4,0,4,3:18 PM,6:34,,,Outlaw REBOUND (Off:4 Def:9),,
+0020000123,466,1,7,4,3:18 PM,6:30,,,Doleac  Dunk (6 PTS) (McGrady 5 AST),77 - 82,5
+0020000123,467,2,1,4,3:18 PM,6:14,MISS Malone 20' Jump Shot,,,,
+0020000123,468,4,0,4,3:18 PM,6:12,,,Armstrong REBOUND (Off:0 Def:3),,
+0020000123,469,1,5,4,3:18 PM,6:06,,,McGrady  Layup (21 PTS) (Armstrong 9 AST),79 - 82,3
+0020000123,470,6,1,4,3:18 PM,5:51,,,McGrady P.FOUL (P1.PN),,
+0020000123,471,3,11,4,3:19 PM,5:51,Starks Free Throw 1 of 2 (14 PTS),,,79 - 83,4
+0020000123,472,3,12,4,3:19 PM,5:51,Starks Free Throw 2 of 2 (15 PTS),,,79 - 84,5
+0020000123,473,2,1,4,3:19 PM,5:37,Ostertag BLOCK (1 BLK),,MISS McGrady 12' Jump Shot,,
+0020000123,474,4,0,4,3:20 PM,5:35,Ostertag REBOUND (Off:0 Def:1),,,,
+0020000123,475,2,1,4,3:20 PM,5:26,MISS Malone 6' Jump Shot,,,,
+0020000123,476,4,0,4,3:20 PM,5:24,,,McGrady REBOUND (Off:1 Def:6),,
+0020000123,477,1,5,4,3:20 PM,5:12,,,McGrady  Layup (23 PTS),81 - 84,3
+0020000123,478,1,1,4,3:20 PM,4:48,Ostertag 7' Jump Shot (3 PTS) (Russell 2 AST),,,81 - 86,5
+0020000123,479,2,1,4,3:21 PM,4:25,Russell BLOCK (1 BLK),,MISS McGrady 6' Jump Shot,,
+0020000123,480,4,0,4,3:21 PM,4:25,,,Magic Rebound,,
+0020000123,481,2,1,4,3:21 PM,4:20,,,MISS Doleac 12' Jump Shot,,
+0020000123,482,4,0,4,3:21 PM,4:18,Stockton REBOUND (Off:0 Def:1),,,,
+0020000123,483,5,8,4,3:21 PM,4:11,Malone 3 Second Violation Turnover (P5.T23),,,,
+0020000123,484,7,1,4,3:21 PM,4:11,JAZZ Violation: Delay of game Violation,,,,
+0020000123,485,6,1,4,3:22 PM,3:58,Stockton P.FOUL (P3.PN),,,,
+0020000123,486,3,11,4,3:22 PM,3:58,,,McGrady Free Throw 1 of 2 (24 PTS),82 - 86,4
+0020000123,487,3,12,4,3:22 PM,3:58,,,MISS McGrady Free Throw 2 of 2,,
+0020000123,488,4,0,4,3:22 PM,3:58,Malone REBOUND (Off:2 Def:9),,,,
+0020000123,489,1,1,4,3:23 PM,3:45,Malone 16' Jump Shot (12 PTS) (Stockton 10 AST),,,82 - 88,6
+0020000123,490,1,1,4,3:23 PM,3:27,,,Doleac 19' Jump Shot (8 PTS) (McGrady 6 AST),84 - 88,4
+0020000123,491,1,7,4,3:23 PM,3:08,Ostertag  Dunk (5 PTS) (Stockton 11 AST),,,84 - 90,6
+0020000123,492,2,1,4,3:24 PM,2:50,,,MISS McGrady 19' Jump Shot,,
+0020000123,493,4,0,4,3:24 PM,2:47,Ostertag REBOUND (Off:0 Def:2),,,,
+0020000123,494,6,14,4,3:24 PM,2:44,,,Doleac FLAGRANT.FOUL.TYPE1 (P6.PN),,
+0020000123,495,9,1,4,3:24 PM,2:44,,,Magic Timeout: Regular (Reg.5 Short 1),,
+0020000123,497,8,0,4,3:26 PM,2:44,,,SUB: Garrity FOR Doleac,,
+0020000123,498,3,18,4,3:27 PM,2:44,Russell Free Throw Flagrant 1 of 2 (20 PTS),,,84 - 91,7
+0020000123,499,3,19,4,3:27 PM,2:44,Russell Free Throw Flagrant 2 of 2 (21 PTS),,,84 - 92,8
+0020000123,500,2,1,4,3:28 PM,2:30,MISS Russell 13' Jump Shot,,Outlaw BLOCK (3 BLK),,
+0020000123,501,4,0,4,3:28 PM,2:27,,,McGrady REBOUND (Off:1 Def:7),,
+0020000123,502,2,1,4,3:28 PM,2:19,,,MISS Armstrong 25' 3PT Jump Shot,,
+0020000123,503,4,0,4,3:28 PM,2:18,,,Armstrong REBOUND (Off:1 Def:3),,
+0020000123,504,2,1,4,3:29 PM,2:05,,,MISS Garrity 22' Jump Shot,,
+0020000123,505,4,0,4,3:29 PM,2:03,Malone REBOUND (Off:2 Def:10),,,,
+0020000123,506,7,6,4,3:30 PM,1:46,,,Armstrong Violation:Double Lane,,
+0020000123,507,5,1,4,3:30 PM,1:36,Malone Bad Pass Turnover (P6.T24),,Outlaw STEAL (3 STL),,
+0020000123,508,2,1,4,3:30 PM,1:31,,,MISS Armstrong 25' 3PT Jump Shot,,
+0020000123,509,4,0,4,3:30 PM,1:29,Ostertag REBOUND (Off:0 Def:3),,,,
+0020000123,510,2,1,4,3:31 PM,1:09,MISS Russell 25' 3PT Jump Shot,,,,
+0020000123,511,4,0,4,3:31 PM,1:07,Stockton REBOUND (Off:1 Def:1),,,,
+0020000123,512,6,1,4,3:31 PM,1:05,,,McGrady P.FOUL (P2.PN),,
+0020000123,513,9,1,4,3:31 PM,1:05,,,Magic Timeout: Regular (Reg.6 Short 1),,
+0020000123,515,8,0,4,3:33 PM,1:05,,,SUB: Miller FOR Outlaw,,
+0020000123,516,3,11,4,3:33 PM,1:05,Stockton Free Throw 1 of 2 (12 PTS),,,84 - 93,9
+0020000123,517,3,12,4,3:33 PM,1:05,Stockton Free Throw 2 of 2 (13 PTS),,,84 - 94,10
+0020000123,518,5,4,4,3:34 PM,0:55,,,Garrity Traveling Turnover (P2.T23),,
+0020000123,519,6,1,4,3:34 PM,0:43,,,Amaechi P.FOUL (P3.PN),,
+0020000123,520,3,11,4,3:34 PM,0:43,MISS Malone Free Throw 1 of 2,,,,
+0020000123,521,4,1,4,3:34 PM,0:43,JAZZ Rebound,,,,
+0020000123,522,3,12,4,3:35 PM,0:43,Malone Free Throw 2 of 2 (13 PTS),,,84 - 95,11
+0020000123,523,9,1,4,3:35 PM,0:43,,,Magic Timeout: Regular (Reg.7 Short 1),,
+0020000123,525,6,1,4,3:37 PM,0:39,Starks P.FOUL (P5.PN),,,,
+0020000123,526,3,11,4,3:37 PM,0:39,,,MISS Garrity Free Throw 1 of 2,,
+0020000123,527,4,1,4,3:37 PM,0:39,,,Magic Rebound,,
+0020000123,528,3,12,4,3:37 PM,0:39,,,MISS Garrity Free Throw 2 of 2,,
+0020000123,529,4,0,4,3:37 PM,0:39,Ostertag REBOUND (Off:0 Def:4),,,,
+0020000123,530,6,1,4,3:37 PM,0:33,,,McGrady P.FOUL (P3.PN),,
+0020000123,531,3,11,4,3:37 PM,0:33,Russell Free Throw 1 of 2 (22 PTS),,,84 - 96,12
+0020000123,532,3,12,4,3:38 PM,0:33,Russell Free Throw 2 of 2 (23 PTS),,,84 - 97,13
+0020000123,533,9,2,4,3:38 PM,0:33,,,Magic Timeout: Short (Reg.7 Short 2),,
+0020000123,535,2,1,4,3:39 PM,0:25,,,MISS Miller 7' Jump Shot,,
+0020000123,536,4,0,4,3:39 PM,0:23,Ostertag REBOUND (Off:0 Def:5),,,,
+0020000123,538,1,1,4,3:39 PM,0:05,Malone 18' Jump Shot (15 PTS) (Starks 1 AST),,,84 - 99,15
+0020000123,540,13,0,4,3:39 PM,0:00,,,,84 - 99,15

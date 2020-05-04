@@ -1,0 +1,426 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029600555,0,12,0,1,6:42 PM,12:00,,,,,
+0029600555,1,10,0,1,6:43 PM,12:00,Jump Ball Garnett vs. Perdue: Tip to West,,,,
+0029600555,2,2,5,1,6:43 PM,11:55,MISS West  Layup,,,,
+0029600555,3,4,0,1,6:43 PM,11:54,,,Perdue REBOUND (Off:0 Def:1),,
+0029600555,4,2,5,1,6:43 PM,11:40,,,MISS Johnson  Layup,,
+0029600555,5,4,0,1,6:43 PM,11:39,Gugliotta REBOUND (Off:0 Def:1),,,,
+0029600555,6,1,1,1,6:43 PM,11:28,Marbury  3PT Jump Shot (3 PTS) (Gugliotta 1 AST),,,0 - 3,3
+0029600555,7,2,5,1,6:44 PM,11:09,,,MISS Maxwell  Layup,,
+0029600555,8,4,0,1,6:44 PM,11:08,Gugliotta REBOUND (Off:0 Def:2),,,,
+0029600555,9,1,9,1,6:44 PM,10:52,Gugliotta  Driving Dunk (2 PTS) (Garnett 1 AST),,,0 - 5,5
+0029600555,10,7,2,1,6:44 PM,10:35,Gugliotta Violation:Defensive Goaltending,,,,
+0029600555,11,2,1,1,6:45 PM,10:21,,,MISS Maxwell  3PT Jump Shot,,
+0029600555,12,4,0,1,6:45 PM,10:19,Garnett REBOUND (Off:0 Def:1),,,,
+0029600555,13,1,8,1,6:45 PM,10:11,Garnett  Slam Dunk (2 PTS) (Garrett 1 AST),,,0 - 7,7
+0029600555,14,9,2,1,6:46 PM,10:02,,,Spurs Timeout: Short (Reg.0 Short 1),,
+0029600555,15,2,5,1,6:46 PM,9:45,,,MISS Herrera  Layup,,
+0029600555,16,4,0,1,6:46 PM,9:44,TIMBERWOLVES Rebound,,,,
+0029600555,17,6,3,1,6:46 PM,9:44,,,Perdue L.B.FOUL (P1.T1),,
+0029600555,18,1,8,1,6:47 PM,9:23,Garrett  Slam Dunk (2 PTS) (Marbury 1 AST),,,0 - 9,9
+0029600555,19,5,2,1,6:47 PM,9:12,Marbury STEAL (1 STL),,Johnson Lost Ball Turnover (P1.T1),,
+0029600555,20,1,2,1,6:47 PM,9:06,Marbury 10' Running Jump Shot (5 PTS),,,0 - 11,11
+0029600555,21,6,2,1,6:47 PM,9:06,,,Johnson S.FOUL (P1.T2),,
+0029600555,22,3,10,1,6:47 PM,9:06,Marbury Free Throw 1 of 1 (6 PTS),,,0 - 12,12
+0029600555,23,6,1,1,6:48 PM,9:03,West P.FOUL (P1.T1),,,,
+0029600555,24,2,6,1,6:48 PM,8:58,,,MISS Maxwell  Driving Layup,,
+0029600555,25,4,0,1,6:48 PM,8:56,Garrett REBOUND (Off:0 Def:1),,,,
+0029600555,26,6,1,1,6:48 PM,8:51,,,Johnson P.FOUL (P2.T3),,
+0029600555,27,8,0,1,6:48 PM,8:51,,,SUB: Alexander FOR Johnson,,
+0029600555,28,8,0,1,6:48 PM,8:51,,,SUB: Anderson FOR Herrera,,
+0029600555,29,1,2,1,6:49 PM,8:41,Garnett 13' Running Jump Shot (4 PTS) (Marbury 2 AST),,,0 - 14,14
+0029600555,30,1,1,1,6:49 PM,8:29,,,Elliott 24' 3PT Jump Shot (3 PTS) (Perdue 1 AST),3 - 14,11
+0029600555,31,2,1,1,6:49 PM,8:05,MISS West 20' Jump Shot,,,,
+0029600555,32,4,0,1,6:49 PM,8:02,,,Alexander REBOUND (Off:0 Def:1),,
+0029600555,33,1,6,1,6:50 PM,7:57,,,Maxwell  Driving Layup (2 PTS) (Alexander 1 AST),5 - 14,9
+0029600555,34,1,1,1,6:50 PM,7:43,Garnett 20' Jump Shot (6 PTS) (Gugliotta 2 AST),,,5 - 16,11
+0029600555,35,5,4,1,6:50 PM,7:23,,,Perdue Traveling Turnover (P1.T2),,
+0029600555,36,1,1,1,6:51 PM,7:11,Marbury  3PT Jump Shot (9 PTS) (Gugliotta 3 AST),,,5 - 19,14
+0029600555,37,6,2,1,6:51 PM,6:52,Garrett S.FOUL (P1.T2),,,,
+0029600555,38,9,1,1,6:51 PM,6:52,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,
+0029600555,39,3,11,1,6:53 PM,6:52,,,Elliott Free Throw 1 of 2 (4 PTS),6 - 19,13
+0029600555,40,3,12,1,6:53 PM,6:52,,,Elliott Free Throw 2 of 2 (5 PTS),7 - 19,12
+0029600555,42,1,6,1,6:54 PM,6:34,Gugliotta  Driving Layup (4 PTS) (Marbury 3 AST),,,7 - 21,14
+0029600555,43,2,5,1,6:54 PM,6:13,,,MISS Alexander  Layup,,
+0029600555,44,4,0,1,6:54 PM,6:12,Gugliotta REBOUND (Off:0 Def:3),,,,
+0029600555,45,1,3,1,6:54 PM,6:05,Garrett 6' Hook Shot (4 PTS) (Marbury 4 AST),,,7 - 23,16
+0029600555,46,2,5,1,6:55 PM,5:47,Garrett BLOCK (1 BLK),,MISS Anderson  Layup,,
+0029600555,47,4,0,1,6:55 PM,5:45,Gugliotta REBOUND (Off:0 Def:4),,,,
+0029600555,48,1,1,1,6:55 PM,5:39,Marbury 26' 3PT Jump Shot (12 PTS),,,7 - 26,19
+0029600555,49,9,1,1,6:55 PM,5:30,,,Spurs Timeout: Regular (Reg.1 Short 1),,
+0029600555,50,8,0,1,6:58 PM,5:18,,,SUB: Williams FOR Elliott,,
+0029600555,51,2,1,1,6:58 PM,5:14,,,MISS Alexander  3PT Jump Shot,,
+0029600555,52,4,0,1,6:58 PM,5:13,Gugliotta REBOUND (Off:0 Def:5),,,,
+0029600555,53,2,5,1,6:58 PM,5:00,MISS Gugliotta  Layup,,,,
+0029600555,54,4,0,1,6:58 PM,4:58,,,Anderson REBOUND (Off:0 Def:1),,
+0029600555,55,6,1,1,6:58 PM,4:57,West P.FOUL (P2.T3),,,,
+0029600555,56,8,0,1,6:58 PM,4:57,SUB: Robinson FOR West,,,,
+0029600555,57,6,2,1,6:59 PM,4:45,Gugliotta S.FOUL (P1.T4),,,,
+0029600555,58,8,0,1,6:59 PM,4:45,,,SUB: Del Negro FOR Maxwell,,
+0029600555,59,3,11,1,6:59 PM,4:45,,,Williams Free Throw 1 of 2 (1 PTS),8 - 26,18
+0029600555,60,8,0,1,6:59 PM,4:45,,,SUB: Herrera FOR Perdue,,
+0029600555,61,3,12,1,6:59 PM,4:45,,,MISS Williams Free Throw 2 of 2,,
+0029600555,62,4,0,1,7:00 PM,4:43,,,Alexander REBOUND (Off:1 Def:1),,
+0029600555,63,2,5,1,7:00 PM,4:32,,,MISS Anderson  Layup,,
+0029600555,64,4,0,1,7:00 PM,4:31,,,Herrera REBOUND (Off:1 Def:0),,
+0029600555,65,1,5,1,7:00 PM,4:31,,,Herrera  Layup (2 PTS),10 - 26,16
+0029600555,66,1,2,1,7:00 PM,4:15,Garnett 10' Running Jump Shot (8 PTS) (Marbury 5 AST),,,10 - 28,18
+0029600555,67,5,2,1,7:01 PM,3:54,,,Alexander Lost Ball Turnover (P1.T3),,
+0029600555,68,1,1,1,7:01 PM,3:38,Robinson  3PT Jump Shot (3 PTS) (Gugliotta 4 AST),,,10 - 31,21
+0029600555,69,2,5,1,7:01 PM,3:21,,,MISS Williams  Layup,,
+0029600555,70,4,0,1,7:01 PM,3:19,Garnett REBOUND (Off:0 Def:2),,,,
+0029600555,71,2,1,1,7:01 PM,3:07,MISS Garnett 19' Jump Shot,,,,
+0029600555,72,4,0,1,7:01 PM,3:06,Gugliotta REBOUND (Off:1 Def:5),,,,
+0029600555,73,2,5,1,7:02 PM,2:58,MISS Marbury  Layup,,,,
+0029600555,74,4,0,1,7:02 PM,2:58,,,Spurs Rebound,,
+0029600555,75,8,0,1,7:02 PM,2:58,,,SUB: Sasser FOR Herrera,,
+0029600555,76,1,2,1,7:02 PM,2:47,,,Del Negro 15' Running Jump Shot (2 PTS) (Alexander 2 AST),12 - 31,19
+0029600555,77,2,1,1,7:02 PM,2:28,MISS Gugliotta 11' Jump Shot,,,,
+0029600555,78,4,0,1,7:02 PM,2:26,Garrett REBOUND (Off:1 Def:1),,,,
+0029600555,79,6,1,1,7:03 PM,2:21,,,Alexander P.FOUL (P1.T4),,
+0029600555,80,2,1,1,7:03 PM,2:08,MISS Marbury 24' 3PT Jump Shot,,,,
+0029600555,81,4,0,1,7:03 PM,2:06,,,Williams REBOUND (Off:0 Def:1),,
+0029600555,83,5,1,1,7:04 PM,1:44,Garnett STEAL (1 STL),,Williams Bad Pass Turnover (P1.T4),,
+0029600555,84,1,1,1,7:04 PM,1:29,Robinson  3PT Jump Shot (6 PTS) (Gugliotta 5 AST),,,12 - 34,22
+0029600555,85,6,1,1,7:04 PM,1:07,Robinson P.FOUL (P1.PN),,,,
+0029600555,86,8,0,1,7:04 PM,1:07,SUB: Mitchell FOR Garnett,,,,
+0029600555,87,8,0,1,7:04 PM,1:07,SUB: Porter FOR Marbury,,,,
+0029600555,88,3,11,1,7:05 PM,1:07,,,MISS Del Negro Free Throw 1 of 2,,
+0029600555,89,4,0,1,7:05 PM,1:07,,,Spurs Rebound,,
+0029600555,90,3,12,1,7:05 PM,1:07,,,Del Negro Free Throw 2 of 2 (3 PTS),13 - 34,21
+0029600555,91,6,2,1,7:05 PM,0:53,,,Sasser S.FOUL (P1.PN),,
+0029600555,92,3,11,1,7:05 PM,0:53,MISS Gugliotta Free Throw 1 of 2,,,,
+0029600555,93,4,0,1,7:05 PM,0:53,TIMBERWOLVES Rebound,,,,
+0029600555,94,8,0,1,7:06 PM,0:53,SUB: Parks FOR Garrett,,,,
+0029600555,95,3,12,1,7:06 PM,0:53,Gugliotta Free Throw 2 of 2 (5 PTS),,,13 - 35,22
+0029600555,96,1,6,1,7:07 PM,0:38,,,Williams  Driving Layup (3 PTS) (Alexander 3 AST),15 - 35,20
+0029600555,97,1,7,1,7:07 PM,0:26,Parks  Dunk (2 PTS) (Porter 1 AST),,,15 - 37,22
+0029600555,99,6,2,1,7:07 PM,0:03,Porter S.FOUL (P1.PN),,,,
+0029600555,100,3,11,1,7:08 PM,0:03,,,Williams Free Throw 1 of 2 (4 PTS),16 - 37,21
+0029600555,101,3,12,1,7:08 PM,0:03,,,Williams Free Throw 2 of 2 (5 PTS),17 - 37,20
+0029600555,102,2,1,1,7:08 PM,0:00,MISS Robinson 39' 3PT Jump Shot,,,,
+0029600555,103,4,0,1,7:08 PM,0:00,TIMBERWOLVES Rebound,,,,
+0029600555,104,13,0,1,7:08 PM,0:00,,,,17 - 37,20
+0029600555,105,12,0,2,7:11 PM,12:00,,,,17 - 37,20
+0029600555,106,2,5,2,7:11 PM,12:00,,,MISS Del Negro  Layup,,
+0029600555,108,4,0,2,7:11 PM,12:00,,,Williams REBOUND (Off:1 Def:1),,
+0029600555,107,1,4,2,7:11 PM,11:42,,,Williams  Tip Shot (7 PTS),19 - 37,18
+0029600555,109,1,1,2,7:11 PM,11:23,Parks 14' Jump Shot (4 PTS) (Mitchell 1 AST),,,19 - 39,20
+0029600555,110,5,4,2,7:11 PM,11:04,,,Anderson Traveling Turnover (P1.T5),,
+0029600555,111,8,0,2,7:11 PM,11:04,,,SUB: Perdue FOR Anderson,,
+0029600555,112,2,1,2,7:12 PM,10:44,MISS Gugliotta 14' Jump Shot,,,,
+0029600555,113,4,0,2,7:12 PM,10:41,,,Perdue REBOUND (Off:0 Def:2),,
+0029600555,114,2,1,2,7:12 PM,10:32,,,MISS Johnson 18' Jump Shot,,
+0029600555,115,4,0,2,7:12 PM,10:30,,,Perdue REBOUND (Off:1 Def:2),,
+0029600555,116,1,6,2,7:12 PM,10:27,,,Williams  Driving Layup (9 PTS) (Perdue 2 AST),21 - 39,18
+0029600555,117,2,1,2,7:12 PM,10:13,MISS Mitchell 16' Jump Shot,,,,
+0029600555,118,4,0,2,7:12 PM,10:10,Gugliotta REBOUND (Off:2 Def:5),,,,
+0029600555,119,2,1,2,7:13 PM,10:06,MISS Parks 9' Jump Shot,,Perdue BLOCK (1 BLK),,
+0029600555,120,4,0,2,7:13 PM,10:05,Parks REBOUND (Off:1 Def:0),,,,
+0029600555,121,6,2,2,7:13 PM,10:04,,,Johnson S.FOUL (P3.T1),,
+0029600555,122,3,11,2,7:13 PM,10:04,Parks Free Throw 1 of 2 (5 PTS),,,21 - 40,19
+0029600555,123,8,0,2,7:13 PM,10:04,,,SUB: Alexander FOR Johnson,,
+0029600555,125,8,0,2,7:13 PM,10:04,SUB: Garnett FOR Gugliotta,,,,
+0029600555,126,3,12,2,7:13 PM,10:04,MISS Parks Free Throw 2 of 2,,,,
+0029600555,127,4,0,2,7:14 PM,10:02,,,Williams REBOUND (Off:1 Def:2),,
+0029600555,128,6,1,2,7:14 PM,9:45,Porter P.FOUL (P2.T1),,,,
+0029600555,129,8,0,2,7:14 PM,9:45,SUB: Marbury FOR Porter,,,,
+0029600555,130,3,11,2,7:14 PM,9:45,,,Alexander Free Throw 1 of 2 (1 PTS),22 - 40,18
+0029600555,131,3,12,2,7:14 PM,9:45,,,Alexander Free Throw 2 of 2 (2 PTS),23 - 40,17
+0029600555,132,1,1,2,7:15 PM,9:30,Robinson  3PT Jump Shot (9 PTS) (Marbury 6 AST),,,23 - 43,20
+0029600555,133,6,2,2,7:15 PM,9:17,Parks S.FOUL (P1.T2),,,,
+0029600555,134,3,11,2,7:15 PM,9:17,,,Perdue Free Throw 1 of 2 (1 PTS),24 - 43,19
+0029600555,135,3,12,2,7:16 PM,9:17,,,Perdue Free Throw 2 of 2 (2 PTS),25 - 43,18
+0029600555,136,1,2,2,7:16 PM,9:05,Garnett 18' Running Jump Shot (10 PTS) (Marbury 7 AST),,,25 - 45,20
+0029600555,137,5,1,2,7:16 PM,8:47,Mitchell STEAL (1 STL),,Del Negro Bad Pass Turnover (P1.T6),,
+0029600555,138,5,1,2,7:16 PM,8:39,Marbury Bad Pass Turnover (P1.T1),,Williams STEAL (1 STL),,
+0029600555,139,1,6,2,7:16 PM,8:35,,,Williams  Driving Layup (11 PTS),27 - 45,18
+0029600555,140,1,6,2,7:17 PM,8:19,Marbury  Driving Layup (14 PTS),,,27 - 47,20
+0029600555,141,5,1,2,7:17 PM,8:01,,,Alexander Bad Pass Turnover (P2.T7),,
+0029600555,142,1,1,2,7:17 PM,7:45,Robinson  3PT Jump Shot (12 PTS) (Garnett 2 AST),,,27 - 50,23
+0029600555,143,9,1,2,7:18 PM,7:37,,,Spurs Timeout: Regular (Reg.2 Short 1),,
+0029600555,144,2,5,2,7:20 PM,7:20,Parks BLOCK (1 BLK),,MISS Alexander  Layup,,
+0029600555,145,4,0,2,7:20 PM,7:19,Mitchell REBOUND (Off:0 Def:1),,,,
+0029600555,146,2,1,2,7:20 PM,7:12,MISS Marbury 6' Jump Shot,,Williams BLOCK (1 BLK),,
+0029600555,147,4,0,2,7:20 PM,7:11,Marbury REBOUND (Off:1 Def:0),,,,
+0029600555,148,2,5,2,7:20 PM,7:09,MISS Marbury  Layup,,Elliott BLOCK (1 BLK),,
+0029600555,149,4,0,2,7:20 PM,7:07,,,Elliott REBOUND (Off:0 Def:1),,
+0029600555,150,2,2,2,7:20 PM,6:59,,,MISS Williams 4' Running Jump Shot,,
+0029600555,151,4,0,2,7:21 PM,6:58,TIMBERWOLVES Rebound,,,,
+0029600555,152,2,1,2,7:21 PM,6:43,MISS Parks 14' Jump Shot,,,,
+0029600555,153,4,0,2,7:21 PM,6:41,,,Del Negro REBOUND (Off:0 Def:1),,
+0029600555,154,6,1,2,7:21 PM,6:27,Mitchell P.FOUL (P1.T3),,,,
+0029600555,155,2,1,2,7:21 PM,6:21,,,MISS Del Negro  3PT Jump Shot,,
+0029600555,156,4,0,2,7:21 PM,6:21,TIMBERWOLVES Rebound,,,,
+0029600555,157,6,1,2,7:22 PM,6:10,,,Williams P.FOUL (P1.T2),,
+0029600555,158,8,0,2,7:22 PM,6:10,,,SUB: Maxwell FOR Del Negro,,
+0029600555,159,8,0,2,7:22 PM,6:10,,,SUB: Herrera FOR Williams,,
+0029600555,160,2,1,2,7:22 PM,6:02,MISS Robinson 24' 3PT Jump Shot,,,,
+0029600555,161,4,0,2,7:22 PM,6:00,Garnett REBOUND (Off:1 Def:2),,,,
+0029600555,162,6,1,2,7:23 PM,5:53,,,Alexander P.FOUL (P2.T3),,
+0029600555,163,1,6,2,7:23 PM,5:31,Mitchell  Driving Layup (2 PTS),,,27 - 52,25
+0029600555,164,5,1,2,7:24 PM,5:16,Robinson STEAL (1 STL),,Herrera Bad Pass Turnover (P1.T8),,
+0029600555,165,5,2,2,7:24 PM,5:11,Mitchell Lost Ball Turnover (P1.T2),,,,
+0029600555,166,2,1,2,7:24 PM,4:58,,,MISS Maxwell 24' 3PT Jump Shot,,
+0029600555,167,4,0,2,7:24 PM,4:56,,,Herrera REBOUND (Off:2 Def:0),,
+0029600555,168,1,1,2,7:24 PM,4:45,,,Elliott  3PT Jump Shot (8 PTS) (Alexander 4 AST),30 - 52,22
+0029600555,170,1,1,2,7:25 PM,4:23,Mitchell 18' Jump Shot (4 PTS),,,30 - 54,24
+0029600555,171,6,17,2,7:25 PM,4:06,TIMBERWOLVES T.Foul (Def. 3 Sec Mitchell ),,,,
+0029600555,172,8,0,2,7:25 PM,4:06,,,SUB: Del Negro FOR Alexander,,
+0029600555,173,3,16,2,7:27 PM,4:06,,,MISS Elliott Free Throw Technical,,
+0029600555,174,4,0,2,7:27 PM,4:06,,,Spurs Rebound,,
+0029600555,175,1,2,2,7:27 PM,3:53,,,Del Negro 14' Running Jump Shot (5 PTS),32 - 54,22
+0029600555,176,6,2,2,7:28 PM,3:40,,,Del Negro S.FOUL (P1.T4),,
+0029600555,177,3,11,2,7:28 PM,3:40,Marbury Free Throw 1 of 2 (15 PTS),,,32 - 55,23
+0029600555,178,8,0,2,7:28 PM,3:40,,,SUB: Williams FOR Elliott,,
+0029600555,179,3,12,2,7:28 PM,3:40,MISS Marbury Free Throw 2 of 2,,,,
+0029600555,180,4,0,2,7:28 PM,3:38,,,Perdue REBOUND (Off:1 Def:3),,
+0029600555,181,1,1,2,7:28 PM,3:27,,,Del Negro 16' Jump Shot (7 PTS) (Maxwell 1 AST),34 - 55,21
+0029600555,182,1,2,2,7:29 PM,3:13,Garnett 6' Running Jump Shot (12 PTS) (Marbury 8 AST),,,34 - 57,23
+0029600555,183,6,4,2,7:29 PM,2:58,,,Herrera OFF.Foul (P1),,
+0029600555,184,5,5,2,7:29 PM,2:58,,,Herrera Foul Turnover (P2.T9),,
+0029600555,185,9,1,2,7:29 PM,2:58,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,
+0029600555,186,5,8,2,7:31 PM,2:43,Garnett 3 Second Violation Turnover (P1.T3),,,,
+0029600555,187,2,5,2,7:32 PM,2:21,,,MISS Del Negro  Layup,,
+0029600555,188,4,0,2,7:32 PM,2:21,,,Del Negro REBOUND (Off:1 Def:1),,
+0029600555,189,9,1,2,7:32 PM,2:21,,,Spurs Timeout: Regular (Reg.3 Short 1),,
+0029600555,190,1,5,2,7:34 PM,2:14,,,Maxwell  Layup (4 PTS) (Herrera 1 AST),36 - 57,21
+0029600555,191,6,4,2,7:35 PM,2:00,Parks OFF.Foul (P2),,,,
+0029600555,192,5,5,2,7:35 PM,2:00,Parks Foul Turnover (P1.T4),,,,
+0029600555,193,2,1,2,7:35 PM,1:40,,,MISS Maxwell 15' Jump Shot,,
+0029600555,194,4,0,2,7:35 PM,1:38,Marbury REBOUND (Off:1 Def:1),,,,
+0029600555,195,1,1,2,7:35 PM,1:29,Garnett 17' Jump Shot (14 PTS) (Marbury 9 AST),,,36 - 59,23
+0029600555,196,2,1,2,7:36 PM,1:05,,,MISS Del Negro 14' Jump Shot,,
+0029600555,197,4,0,2,7:36 PM,1:03,Parks REBOUND (Off:1 Def:1),,,,
+0029600555,198,2,5,2,7:36 PM,0:56,MISS Marbury  Layup,,,,
+0029600555,199,4,0,2,7:36 PM,0:54,,,Williams REBOUND (Off:1 Def:3),,
+0029600555,200,2,1,2,7:36 PM,0:32,,,MISS Del Negro 20' Jump Shot,,
+0029600555,201,4,0,2,7:36 PM,0:30,Parks REBOUND (Off:1 Def:2),,,,
+0029600555,202,9,2,2,7:36 PM,0:26,TIMBERWOLVES Timeout: Short (Full 2 Short 1),,,,
+0029600555,203,5,1,2,7:38 PM,0:15,Robinson Bad Pass Turnover (P1.T5),,Herrera STEAL (1 STL),,
+0029600555,204,1,6,2,7:38 PM,0:11,,,Del Negro  Driving Layup (9 PTS) (Maxwell 2 AST),38 - 59,21
+0029600555,205,2,1,2,7:38 PM,0:00,MISS Marbury 13' Jump Shot,,,,
+0029600555,206,4,0,2,7:38 PM,0:00,TIMBERWOLVES Rebound,,,,
+0029600555,207,13,0,2,7:38 PM,0:00,,,,38 - 59,21
+0029600555,208,12,0,3,7:55 PM,12:00,,,,38 - 59,21
+0029600555,209,1,2,3,7:55 PM,11:48,,,Johnson 7' Running Jump Shot (2 PTS),40 - 59,19
+0029600555,210,1,1,3,7:55 PM,11:29,Gugliotta 17' Jump Shot (7 PTS) (Marbury 10 AST),,,40 - 61,21
+0029600555,211,5,2,3,7:56 PM,11:12,Marbury STEAL (2 STL),,Johnson Lost Ball Turnover (P2.T10),,
+0029600555,212,2,1,3,7:56 PM,10:59,MISS Marbury 7' Jump Shot,,Herrera BLOCK (1 BLK),,
+0029600555,213,4,0,3,7:56 PM,10:57,,,Johnson REBOUND (Off:0 Def:1),,
+0029600555,214,6,2,3,7:56 PM,10:52,West S.FOUL (P3.T1),,,,
+0029600555,215,3,11,3,7:56 PM,10:52,,,MISS Johnson Free Throw 1 of 2,,
+0029600555,216,4,0,3,7:56 PM,10:52,,,Spurs Rebound,,
+0029600555,217,3,12,3,7:57 PM,10:52,,,Johnson Free Throw 2 of 2 (3 PTS),41 - 61,20
+0029600555,218,2,1,3,7:57 PM,10:39,MISS Garnett 7' Jump Shot,,,,
+0029600555,219,4,0,3,7:57 PM,10:37,,,Maxwell REBOUND (Off:0 Def:1),,
+0029600555,220,1,1,3,7:57 PM,10:22,,,Elliott  3PT Jump Shot (11 PTS) (Johnson 1 AST),44 - 61,17
+0029600555,221,2,1,3,7:58 PM,9:55,MISS Garnett 16' Jump Shot,,,,
+0029600555,222,4,0,3,7:58 PM,9:54,,,Perdue REBOUND (Off:1 Def:4),,
+0029600555,223,5,1,3,7:58 PM,9:52,Marbury STEAL (3 STL),,Perdue Bad Pass Turnover (P2.T11),,
+0029600555,224,6,2,3,7:58 PM,9:46,,,Maxwell S.FOUL (P1.T1),,
+0029600555,225,3,11,3,7:58 PM,9:46,MISS Gugliotta Free Throw 1 of 2,,,,
+0029600555,226,4,0,3,7:58 PM,9:46,TIMBERWOLVES Rebound,,,,
+0029600555,227,3,12,3,7:58 PM,9:46,Gugliotta Free Throw 2 of 2 (8 PTS),,,44 - 62,18
+0029600555,228,2,5,3,7:59 PM,9:26,West BLOCK (1 BLK),,MISS Maxwell  Layup,,
+0029600555,229,4,0,3,7:59 PM,9:23,Garnett REBOUND (Off:1 Def:3),,,,
+0029600555,230,2,2,3,7:59 PM,9:09,MISS Gugliotta 16' Running Jump Shot,,,,
+0029600555,231,4,0,3,7:59 PM,9:07,Garrett REBOUND (Off:2 Def:1),,,,
+0029600555,232,2,1,3,7:59 PM,8:53,MISS Gugliotta 10' Jump Shot,,,,
+0029600555,233,4,0,3,7:59 PM,8:50,,,Perdue REBOUND (Off:1 Def:5),,
+0029600555,234,1,5,3,8:00 PM,8:43,,,Herrera  Layup (4 PTS) (Maxwell 3 AST),46 - 62,16
+0029600555,235,2,1,3,8:00 PM,8:17,MISS West 15' Jump Shot,,,,
+0029600555,236,4,0,3,8:00 PM,8:15,,,Perdue REBOUND (Off:1 Def:6),,
+0029600555,237,5,1,3,8:00 PM,8:14,West STEAL (1 STL),,Perdue Bad Pass Turnover (P3.T12),,
+0029600555,238,1,1,3,8:00 PM,7:57,West 15' Jump Shot (2 PTS) (Marbury 11 AST),,,46 - 64,18
+0029600555,239,2,5,3,8:01 PM,7:37,,,MISS Johnson  Layup,,
+0029600555,240,4,0,3,8:01 PM,7:35,Garrett REBOUND (Off:2 Def:2),,,,
+0029600555,241,1,2,3,8:01 PM,7:25,Gugliotta 8' Running Jump Shot (10 PTS) (Marbury 12 AST),,,46 - 66,20
+0029600555,242,2,2,3,8:01 PM,7:02,,,MISS Elliott 7' Running Jump Shot,,
+0029600555,243,4,0,3,8:01 PM,7:00,West REBOUND (Off:0 Def:1),,,,
+0029600555,244,2,1,3,8:02 PM,6:50,MISS Garnett 18' Jump Shot,,,,
+0029600555,245,4,0,3,8:02 PM,6:48,,,Elliott REBOUND (Off:0 Def:2),,
+0029600555,246,6,1,3,8:02 PM,6:40,West P.FOUL (P4.T2),,,,
+0029600555,247,9,1,3,8:02 PM,6:40,TIMBERWOLVES Timeout: Regular (Full 3 Short 1),,,,
+0029600555,248,8,0,3,8:03 PM,6:40,SUB: Robinson FOR West,,,,
+0029600555,249,2,5,3,8:04 PM,6:29,,,MISS Elliott  Layup,,
+0029600555,250,4,0,3,8:04 PM,6:28,Garrett REBOUND (Off:2 Def:3),,,,
+0029600555,251,5,2,3,8:05 PM,6:10,Marbury Lost Ball Turnover (P2.T6),,Herrera STEAL (2 STL),,
+0029600555,252,1,6,3,8:05 PM,6:08,,,Johnson  Driving Layup (5 PTS),48 - 66,18
+0029600555,253,2,1,3,8:05 PM,5:40,MISS Robinson 14' Jump Shot,,Perdue BLOCK (2 BLK),,
+0029600555,254,4,0,3,8:05 PM,5:38,,,Maxwell REBOUND (Off:0 Def:2),,
+0029600555,255,5,1,3,8:05 PM,5:37,Marbury STEAL (4 STL),,Maxwell Bad Pass Turnover (P1.T13),,
+0029600555,256,1,8,3,8:05 PM,5:30,Garnett  Slam Dunk (16 PTS) (Marbury 13 AST),,,48 - 68,20
+0029600555,257,1,1,3,8:06 PM,5:10,,,Elliott 17' Jump Shot (13 PTS) (Maxwell 4 AST),50 - 68,18
+0029600555,258,2,1,3,8:06 PM,4:54,MISS Robinson  3PT Jump Shot,,,,
+0029600555,259,4,0,3,8:06 PM,4:51,,,Herrera REBOUND (Off:2 Def:1),,
+0029600555,260,2,1,3,8:06 PM,4:42,Garnett BLOCK (1 BLK),,MISS Elliott  3PT Jump Shot,,
+0029600555,261,4,0,3,8:06 PM,4:41,,,Spurs Rebound,,
+0029600555,262,2,5,3,8:06 PM,4:33,,,MISS Johnson  Layup,,
+0029600555,263,4,0,3,8:06 PM,4:31,,,Herrera REBOUND (Off:3 Def:1),,
+0029600555,264,2,5,3,8:06 PM,4:29,,,MISS Johnson  Layup,,
+0029600555,265,4,0,3,8:07 PM,4:27,Gugliotta REBOUND (Off:2 Def:6),,,,
+0029600555,267,5,4,3,8:07 PM,4:11,Garnett Traveling Turnover (P2.T7),,,,
+0029600555,268,2,5,3,8:07 PM,3:59,Garrett BLOCK (2 BLK),,MISS Maxwell  Layup,,
+0029600555,269,4,0,3,8:07 PM,3:58,Garrett REBOUND (Off:2 Def:4),,,,
+0029600555,270,2,5,3,8:08 PM,3:53,MISS Robinson  Layup,,,,
+0029600555,272,4,0,3,8:08 PM,3:51,Garnett REBOUND (Off:2 Def:3),,,,
+0029600555,271,1,4,3,8:08 PM,3:51,Garnett  Tip Shot (18 PTS),,,50 - 70,20
+0029600555,273,9,1,3,8:08 PM,3:49,,,Spurs Timeout: Regular (Reg.4 Short 1),,
+0029600555,274,8,0,3,8:09 PM,3:49,,,SUB: Williams FOR Herrera,,
+0029600555,275,8,0,3,8:09 PM,3:49,,,SUB: Alexander FOR Johnson,,
+0029600555,276,6,2,3,8:10 PM,3:27,Garnett S.FOUL (P1.T3),,,,
+0029600555,277,3,11,3,8:10 PM,3:27,,,Elliott Free Throw 1 of 2 (14 PTS),51 - 70,19
+0029600555,278,8,0,3,8:10 PM,3:27,,,SUB: Del Negro FOR Maxwell,,
+0029600555,279,3,12,3,8:10 PM,3:27,,,MISS Elliott Free Throw 2 of 2,,
+0029600555,280,4,0,3,8:11 PM,3:26,Gugliotta REBOUND (Off:2 Def:7),,,,
+0029600555,281,2,5,3,8:11 PM,3:05,MISS Gugliotta  Layup,,Elliott BLOCK (2 BLK),,
+0029600555,282,4,0,3,8:11 PM,3:03,,,Del Negro REBOUND (Off:1 Def:2),,
+0029600555,283,2,5,3,8:11 PM,2:46,,,MISS Elliott  Layup,,
+0029600555,284,4,0,3,8:11 PM,2:46,TIMBERWOLVES Rebound,,,,
+0029600555,285,8,0,3,8:12 PM,2:46,,,SUB: Anderson FOR Perdue,,
+0029600555,286,2,1,3,8:12 PM,2:25,MISS Garrett 9' Jump Shot,,,,
+0029600555,287,4,0,3,8:12 PM,2:24,,,Williams REBOUND (Off:1 Def:4),,
+0029600555,288,1,2,3,8:12 PM,2:10,,,Del Negro 16' Running Jump Shot (11 PTS) (Alexander 5 AST),53 - 70,17
+0029600555,289,6,1,3,8:13 PM,1:56,,,Elliott P.FOUL (P1.T2),,
+0029600555,290,8,0,3,8:13 PM,1:56,SUB: Porter FOR Marbury,,,,
+0029600555,291,8,0,3,8:13 PM,1:56,,,SUB: Sasser FOR Elliott,,
+0029600555,292,6,2,3,8:13 PM,1:52,,,Del Negro S.FOUL (P2.PN),,
+0029600555,293,3,11,3,8:13 PM,1:52,MISS Robinson Free Throw 1 of 2,,,,
+0029600555,294,4,0,3,8:13 PM,1:52,TIMBERWOLVES Rebound,,,,
+0029600555,295,3,12,3,8:13 PM,1:52,Robinson Free Throw 2 of 2 (13 PTS),,,53 - 71,18
+0029600555,296,5,4,3,8:14 PM,1:35,,,Williams Traveling Turnover (P2.T14),,
+0029600555,297,6,1,3,8:14 PM,1:23,,,Sasser P.FOUL (P2.PN),,
+0029600555,298,3,11,3,8:14 PM,1:23,Gugliotta Free Throw 1 of 2 (11 PTS),,,53 - 72,19
+0029600555,299,3,12,3,8:15 PM,1:23,Gugliotta Free Throw 2 of 2 (12 PTS),,,53 - 73,20
+0029600555,300,2,2,3,8:15 PM,1:09,,,MISS Del Negro 7' Running Jump Shot,,
+0029600555,301,4,0,3,8:15 PM,1:08,Garrett REBOUND (Off:2 Def:5),,,,
+0029600555,302,1,8,3,8:15 PM,1:03,Garnett  Slam Dunk (20 PTS) (Robinson 1 AST),,,53 - 75,22
+0029600555,303,1,1,3,8:16 PM,0:49,,,Del Negro  3PT Jump Shot (14 PTS),56 - 75,19
+0029600555,304,2,1,3,8:16 PM,0:32,MISS Robinson  3PT Jump Shot,,Williams BLOCK (2 BLK),,
+0029600555,305,4,0,3,8:16 PM,0:29,,,Sasser REBOUND (Off:0 Def:1),,
+0029600555,306,2,2,3,8:16 PM,0:24,,,MISS Sasser 7' Running Jump Shot,,
+0029600555,307,4,0,3,8:16 PM,0:23,Robinson REBOUND (Off:0 Def:1),,,,
+0029600555,308,6,2,3,8:16 PM,0:19,,,Anderson S.FOUL (P1.PN),,
+0029600555,309,3,11,3,8:17 PM,0:19,Garrett Free Throw 1 of 2 (5 PTS),,,56 - 76,20
+0029600555,310,3,12,3,8:17 PM,0:19,MISS Garrett Free Throw 2 of 2,,,,
+0029600555,311,4,0,3,8:17 PM,0:18,Porter REBOUND (Off:1 Def:0),,,,
+0029600555,312,2,5,3,8:17 PM,0:15,MISS Porter  Layup,,,,
+0029600555,313,4,0,3,8:17 PM,0:13,Garrett REBOUND (Off:3 Def:5),,,,
+0029600555,314,6,2,3,8:17 PM,0:13,,,Williams S.FOUL (P2.PN),,
+0029600555,315,3,11,3,8:17 PM,0:13,MISS Garrett Free Throw 1 of 2,,,,
+0029600555,316,4,0,3,8:17 PM,0:13,TIMBERWOLVES Rebound,,,,
+0029600555,318,8,0,3,8:18 PM,0:13,,,SUB: Perdue FOR Anderson,,
+0029600555,319,3,12,3,8:18 PM,0:13,Garrett Free Throw 2 of 2 (6 PTS),,,56 - 77,21
+0029600555,320,6,2,3,8:18 PM,0:04,Porter S.FOUL (P3.T4),,,,
+0029600555,321,3,11,3,8:18 PM,0:04,,,Alexander Free Throw 1 of 2 (3 PTS),57 - 77,20
+0029600555,322,3,12,3,8:19 PM,0:04,,,Alexander Free Throw 2 of 2 (4 PTS),58 - 77,19
+0029600555,323,2,1,3,8:19 PM,0:00,MISS Robinson  3PT Jump Shot,,,,
+0029600555,324,4,0,3,8:19 PM,0:00,TIMBERWOLVES Rebound,,,,
+0029600555,325,13,0,3,8:19 PM,0:00,,,,58 - 77,19
+0029600555,340,12,0,4,8:19 PM,12:00,,,,,
+0029600555,326,2,1,4,8:22 PM,11:43,MISS Garnett 12' Jump Shot,,,,
+0029600555,327,4,0,4,8:22 PM,11:41,,,Perdue REBOUND (Off:1 Def:7),,
+0029600555,328,2,5,4,8:22 PM,11:28,Garrett BLOCK (3 BLK),,MISS Williams  Layup,,
+0029600555,329,4,0,4,8:22 PM,11:27,Robinson REBOUND (Off:0 Def:2),,,,
+0029600555,330,5,1,4,8:22 PM,11:14,Garnett Bad Pass Turnover (P3.T8),,Sasser STEAL (1 STL),,
+0029600555,331,5,1,4,8:22 PM,11:09,Porter STEAL (1 STL),,Del Negro Bad Pass Turnover (P2.T15),,
+0029600555,332,2,1,4,8:23 PM,10:59,MISS Porter  3PT Jump Shot,,,,
+0029600555,333,4,0,4,8:23 PM,10:57,,,Perdue REBOUND (Off:1 Def:8),,
+0029600555,334,1,2,4,8:23 PM,10:36,,,Del Negro 14' Running Jump Shot (16 PTS),60 - 77,17
+0029600555,335,2,1,4,8:23 PM,10:10,MISS Garnett 19' Jump Shot,,,,
+0029600555,336,4,0,4,8:23 PM,10:09,,,Spurs Rebound,,
+0029600555,337,8,0,4,8:23 PM,10:09,,,SUB: Elliott FOR Sasser,,
+0029600555,338,8,0,4,8:23 PM,10:09,SUB: Parks FOR Garrett,,,,
+0029600555,339,6,1,4,8:24 PM,9:51,Robinson P.FOUL (P2.T1),,,,
+0029600555,341,1,7,4,8:24 PM,9:40,,,Perdue  Dunk (4 PTS),62 - 77,15
+0029600555,342,5,2,4,8:25 PM,9:18,Porter Lost Ball Turnover (P1.T9),,Williams STEAL (2 STL),,
+0029600555,343,6,9,4,8:25 PM,9:18,Porter C.P.FOUL (P4.T2),,,,
+0029600555,344,9,1,4,8:25 PM,9:18,TIMBERWOLVES Timeout: Regular (Full 4 Short 1),,,,
+0029600555,345,8,0,4,8:27 PM,9:18,SUB: Marbury FOR Porter,,,,
+0029600555,346,8,0,4,8:27 PM,9:18,SUB: Gugliotta FOR Parks,,,,
+0029600555,347,3,11,4,8:27 PM,9:18,,,Williams Free Throw 1 of 2 (12 PTS),63 - 77,14
+0029600555,348,3,12,4,8:27 PM,9:18,,,MISS Williams Free Throw 2 of 2,,
+0029600555,349,4,0,4,8:28 PM,9:16,Mitchell REBOUND (Off:0 Def:2),,,,
+0029600555,350,2,1,4,8:28 PM,8:59,MISS Gugliotta 9' Jump Shot,,,,
+0029600555,351,4,0,4,8:28 PM,8:57,,,Perdue REBOUND (Off:1 Def:9),,
+0029600555,352,1,1,4,8:28 PM,8:51,,,Del Negro 20' Jump Shot (18 PTS) (Alexander 6 AST),65 - 77,12
+0029600555,354,2,1,4,8:28 PM,8:30,MISS Robinson 16' Jump Shot,,,,
+0029600555,355,4,0,4,8:28 PM,8:27,,,Williams REBOUND (Off:1 Def:5),,
+0029600555,356,2,1,4,8:29 PM,8:07,,,MISS Del Negro 17' Jump Shot,,
+0029600555,357,4,0,4,8:29 PM,8:05,Gugliotta REBOUND (Off:2 Def:8),,,,
+0029600555,358,6,2,4,8:29 PM,8:02,,,Williams S.FOUL (P3.T1),,
+0029600555,359,3,11,4,8:29 PM,8:02,Gugliotta Free Throw 1 of 2 (13 PTS),,,65 - 78,13
+0029600555,360,3,12,4,8:30 PM,8:02,MISS Gugliotta Free Throw 2 of 2,,,,
+0029600555,361,4,0,4,8:30 PM,8:01,,,Perdue REBOUND (Off:1 Def:10),,
+0029600555,362,5,4,4,8:30 PM,7:48,,,Elliott Traveling Turnover (P1.T16),,
+0029600555,363,2,1,4,8:31 PM,7:35,MISS Gugliotta 16' Jump Shot,,,,
+0029600555,364,4,0,4,8:31 PM,7:31,,,Williams REBOUND (Off:1 Def:6),,
+0029600555,365,1,6,4,8:31 PM,7:22,,,Del Negro  Driving Layup (20 PTS),67 - 78,11
+0029600555,366,1,6,4,8:31 PM,7:08,Marbury  Driving Layup (17 PTS),,,67 - 80,13
+0029600555,367,6,2,4,8:31 PM,7:08,,,Alexander S.FOUL (P3.T2),,
+0029600555,368,3,10,4,8:31 PM,7:08,MISS Marbury Free Throw 1 of 1,,,,
+0029600555,369,4,0,4,8:31 PM,7:08,,,Elliott REBOUND (Off:0 Def:3),,
+0029600555,370,2,5,4,8:32 PM,6:47,,,MISS Alexander  Layup,,
+0029600555,371,4,0,4,8:32 PM,6:45,Gugliotta REBOUND (Off:2 Def:9),,,,
+0029600555,372,2,1,4,8:32 PM,6:42,MISS Robinson 14' Jump Shot,,,,
+0029600555,373,4,0,4,8:32 PM,6:42,,,Spurs Rebound,,
+0029600555,374,6,3,4,8:32 PM,6:42,Gugliotta L.B.FOUL (P2.T3),,,,
+0029600555,375,6,1,4,8:32 PM,6:29,Mitchell P.FOUL (P2.T4),,,,
+0029600555,377,5,15,4,8:33 PM,6:15,,,Williams Offensive Goaltending Turnover (P3.T17),,
+0029600555,379,8,0,4,8:33 PM,6:15,,,SUB: Maxwell FOR Alexander,,
+0029600555,380,1,2,4,8:33 PM,5:58,Gugliotta 6' Running Jump Shot (15 PTS),,,67 - 82,15
+0029600555,381,1,6,4,8:34 PM,5:33,,,Williams  Driving Layup (14 PTS) (Maxwell 5 AST),69 - 82,13
+0029600555,382,1,1,4,8:34 PM,5:17,Mitchell 17' Jump Shot (6 PTS) (Robinson 2 AST),,,69 - 84,15
+0029600555,383,1,1,4,8:34 PM,4:57,,,Williams 8' Jump Shot (16 PTS),71 - 84,13
+0029600555,384,2,1,4,8:35 PM,4:36,MISS Gugliotta 18' Jump Shot,,,,
+0029600555,385,4,0,4,8:35 PM,4:35,,,Perdue REBOUND (Off:1 Def:11),,
+0029600555,386,1,7,4,8:35 PM,4:20,,,Perdue  Dunk (6 PTS) (Del Negro 1 AST),73 - 84,11
+0029600555,387,9,1,4,8:35 PM,4:17,TIMBERWOLVES Timeout: Regular (Full 5 Short 1),,,,
+0029600555,388,6,2,4,8:37 PM,4:01,,,Elliott S.FOUL (P2.T3),,
+0029600555,389,3,11,4,8:38 PM,4:01,MISS Gugliotta Free Throw 1 of 2,,,,
+0029600555,390,4,0,4,8:38 PM,4:01,TIMBERWOLVES Rebound,,,,
+0029600555,391,3,12,4,8:38 PM,4:01,Gugliotta Free Throw 2 of 2 (16 PTS),,,73 - 85,12
+0029600555,392,6,1,4,8:39 PM,3:46,Robinson P.FOUL (P3.PN),,,,
+0029600555,393,3,11,4,8:39 PM,3:46,,,Del Negro Free Throw 1 of 2 (21 PTS),74 - 85,11
+0029600555,394,3,12,4,8:39 PM,3:46,,,Del Negro Free Throw 2 of 2 (22 PTS),75 - 85,10
+0029600555,395,5,1,4,8:40 PM,3:32,Marbury Bad Pass Turnover (P3.T10),,Williams STEAL (3 STL),,
+0029600555,396,1,6,4,8:40 PM,3:28,,,Williams  Driving Layup (18 PTS),77 - 85,8
+0029600555,397,6,1,4,8:40 PM,3:15,,,Elliott P.FOUL (P3.T4),,
+0029600555,398,1,1,4,8:41 PM,2:57,Marbury 24' 3PT Jump Shot (20 PTS),,,77 - 88,11
+0029600555,399,2,5,4,8:41 PM,2:41,,,MISS Del Negro  Layup,,
+0029600555,401,4,0,4,8:41 PM,2:39,,,Perdue REBOUND (Off:2 Def:11),,
+0029600555,400,1,5,4,8:41 PM,2:39,,,Perdue  Layup (8 PTS),79 - 88,9
+0029600555,402,2,1,4,8:41 PM,2:23,MISS Marbury 24' 3PT Jump Shot,,,,
+0029600555,403,4,0,4,8:41 PM,2:20,Gugliotta REBOUND (Off:3 Def:9),,,,
+0029600555,404,1,6,4,8:41 PM,2:05,Gugliotta  Driving Layup (18 PTS),,,79 - 90,11
+0029600555,405,9,1,4,8:42 PM,1:57,,,Spurs Timeout: Regular (Reg.5 Short 1),,
+0029600555,407,2,1,4,8:44 PM,1:50,,,MISS Maxwell 24' 3PT Jump Shot,,
+0029600555,408,4,0,4,8:44 PM,1:48,Robinson REBOUND (Off:0 Def:3),,,,
+0029600555,409,6,1,4,8:44 PM,1:47,,,Perdue P.FOUL (P2.PN),,
+0029600555,410,3,11,4,8:44 PM,1:47,Robinson Free Throw 1 of 2 (14 PTS),,,79 - 91,12
+0029600555,411,3,12,4,8:45 PM,1:47,Robinson Free Throw 2 of 2 (15 PTS),,,79 - 92,13
+0029600555,412,1,6,4,8:45 PM,1:37,,,Williams  Driving Layup (20 PTS),81 - 92,11
+0029600555,413,6,2,4,8:45 PM,1:37,Robinson S.FOUL (P4.PN),,,,
+0029600555,414,3,10,4,8:45 PM,1:37,,,MISS Williams Free Throw 1 of 1,,
+0029600555,415,4,0,4,8:46 PM,1:36,Garnett REBOUND (Off:2 Def:4),,,,
+0029600555,416,1,1,4,8:46 PM,1:17,Mitchell 20' Jump Shot (8 PTS) (Robinson 3 AST),,,81 - 94,13
+0029600555,417,1,7,4,8:46 PM,1:09,,,Perdue  Dunk (10 PTS) (Del Negro 2 AST),83 - 94,11
+0029600555,418,6,1,4,8:46 PM,1:02,,,Perdue P.FOUL (P3.PN),,
+0029600555,419,3,11,4,8:46 PM,1:02,MISS Robinson Free Throw 1 of 2,,,,
+0029600555,420,4,0,4,8:46 PM,1:02,TIMBERWOLVES Rebound,,,,
+0029600555,421,8,0,4,8:47 PM,1:02,SUB: Parks FOR Gugliotta,,,,
+0029600555,422,3,12,4,8:47 PM,1:02,MISS Robinson Free Throw 2 of 2,,,,
+0029600555,423,4,0,4,8:47 PM,1:01,Robinson REBOUND (Off:1 Def:3),,,,
+0029600555,424,6,1,4,8:47 PM,1:01,,,Perdue P.FOUL (P4.PN),,
+0029600555,425,3,11,4,8:47 PM,1:01,Robinson Free Throw 1 of 2 (16 PTS),,,83 - 95,12
+0029600555,426,3,12,4,8:48 PM,1:01,Robinson Free Throw 2 of 2 (17 PTS),,,83 - 96,13
+0029600555,427,2,1,4,8:48 PM,0:50,,,MISS Maxwell 10' Jump Shot,,
+0029600555,428,4,0,4,8:48 PM,0:48,Robinson REBOUND (Off:1 Def:4),,,,
+0029600555,429,2,1,4,8:48 PM,0:31,MISS Robinson 19' Jump Shot,,,,
+0029600555,430,4,0,4,8:48 PM,0:29,,,Elliott REBOUND (Off:0 Def:4),,
+0029600555,431,2,2,4,8:49 PM,0:21,,,MISS Del Negro 6' Running Jump Shot,,
+0029600555,432,4,0,4,8:49 PM,0:17,Garnett REBOUND (Off:2 Def:5),,,,
+0029600555,433,2,1,4,8:49 PM,0:00,MISS Mitchell  3PT Jump Shot,,,,
+0029600555,434,4,0,4,8:49 PM,0:00,,,Elliott REBOUND (Off:0 Def:5),,
+0029600555,435,13,0,4,8:49 PM,0:00,,,,83 - 96,13

@@ -1,0 +1,448 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100612,0,12,0,1,9:34 PM,12:00,,,,,
+0020100612,1,10,0,1,9:34 PM,12:00,Jump Ball Collins vs. Webber: Tip to Bibby,,,,
+0020100612,2,2,1,1,9:35 PM,11:50,,,MISS Bibby 23' Jump Shot,,
+0020100612,3,4,0,1,9:35 PM,11:49,Kirilenko REBOUND (Off:0 Def:1),,,,
+0020100612,4,2,1,1,9:35 PM,11:40,MISS Russell 19' Jump Shot,,,,
+0020100612,5,4,0,1,9:35 PM,11:37,,,Divac REBOUND (Off:0 Def:1),,
+0020100612,6,2,1,1,9:35 PM,11:20,,,MISS Bibby 18' Jump Shot,,
+0020100612,7,4,0,1,9:35 PM,11:19,Malone REBOUND (Off:0 Def:1),,,,
+0020100612,8,2,1,1,9:36 PM,11:03,MISS Kirilenko 14' Jump Shot,,,,
+0020100612,9,4,0,1,9:36 PM,11:01,,,Webber REBOUND (Off:0 Def:1),,
+0020100612,10,5,2,1,9:36 PM,10:48,Malone STEAL (1 STL),,Webber Lost Ball Turnover (P1.T1),,
+0020100612,11,1,7,1,9:36 PM,10:42,Kirilenko  Dunk (2 PTS) (Collins 1 AST),,,0 - 2,2
+0020100612,14,7,2,1,9:36 PM,10:20,Kirilenko Violation:Defensive Goaltending,,,,
+0020100612,12,1,42,1,9:36 PM,10:20,,,Bibby  Driving Layup (2 PTS),2 - 2,TIE
+0020100612,15,1,5,1,9:37 PM,10:01,Russell  Layup (2 PTS) (Stockton 1 AST),,,2 - 4,2
+0020100612,16,6,2,1,9:37 PM,9:50,Malone S.FOUL (P1.T1),,,,
+0020100612,17,6,11,1,9:37 PM,9:50,Malone T.FOUL (P1.T1),,,,
+0020100612,18,3,16,1,9:37 PM,9:50,,,Christie Free Throw Technical (1 PTS),3 - 4,1
+0020100612,19,3,11,1,9:38 PM,9:50,,,Webber Free Throw 1 of 2 (1 PTS),4 - 4,TIE
+0020100612,20,3,12,1,9:38 PM,9:50,,,Webber Free Throw 2 of 2 (2 PTS),5 - 4,-1
+0020100612,21,1,1,1,9:38 PM,9:36,Collins 9' Jump Shot (2 PTS) (Russell 1 AST),,,5 - 6,1
+0020100612,22,6,2,1,9:38 PM,9:36,,,Webber S.FOUL (P1.T1),,
+0020100612,23,3,10,1,9:39 PM,9:36,Collins Free Throw 1 of 1 (3 PTS),,,5 - 7,2
+0020100612,25,5,2,1,9:39 PM,9:25,Malone STEAL (2 STL),,Webber Lost Ball Turnover (P2.T2),,
+0020100612,26,2,1,1,9:39 PM,9:07,MISS Malone 14' Jump Shot,,,,
+0020100612,27,4,0,1,9:39 PM,9:06,,,Divac REBOUND (Off:0 Def:2),,
+0020100612,28,2,63,1,9:40 PM,8:56,,,MISS Stojakovic 17' Fadeaway Jumper,,
+0020100612,29,4,0,1,9:40 PM,8:53,Collins REBOUND (Off:0 Def:1),,,,
+0020100612,30,6,1,1,9:40 PM,8:46,,,Bibby P.FOUL (P1.T2),,
+0020100612,31,1,1,1,9:40 PM,8:43,Malone 21' Jump Shot (2 PTS) (Kirilenko 1 AST),,,5 - 9,4
+0020100612,32,1,42,1,9:41 PM,8:23,,,Divac  Driving Layup (2 PTS),7 - 9,2
+0020100612,33,1,63,1,9:41 PM,8:13,Malone 14' Fadeaway Jumper (4 PTS) (Stockton 2 AST),,,7 - 11,4
+0020100612,34,1,1,1,9:41 PM,7:56,,,Christie 22' Jump Shot (3 PTS),9 - 11,2
+0020100612,35,1,1,1,9:41 PM,7:36,Russell 25' 3PT Jump Shot (5 PTS) (Collins 2 AST),,,9 - 14,5
+0020100612,36,2,65,1,9:42 PM,7:17,,,MISS Webber 8' Jump Hook Shot,,
+0020100612,37,4,0,1,9:42 PM,7:15,Malone REBOUND (Off:0 Def:2),,,,
+0020100612,38,6,1,1,9:42 PM,7:04,,,Divac P.FOUL (P1.T3),,
+0020100612,39,2,1,1,9:42 PM,6:53,MISS Russell 25' 3PT Jump Shot,,,,
+0020100612,40,4,0,1,9:42 PM,6:50,,,Divac REBOUND (Off:0 Def:3),,
+0020100612,41,5,1,1,9:42 PM,6:46,,,Christie Bad Pass Turnover (P1.T3),,
+0020100612,42,6,1,1,9:43 PM,6:35,,,Divac P.FOUL (P2.T4),,
+0020100612,43,9,1,1,9:43 PM,6:35,,,Kings Timeout: Regular (Reg.1 Short 0),,
+0020100612,45,8,0,1,9:45 PM,6:35,,,SUB: Pollard FOR Divac,,
+0020100612,46,1,49,1,9:45 PM,6:31,Collins  Driving Dunk (5 PTS) (Stockton 3 AST),,,9 - 16,7
+0020100612,47,1,7,1,9:45 PM,6:17,,,Pollard  Dunk (2 PTS) (Bibby 1 AST),11 - 16,5
+0020100612,48,2,1,1,9:46 PM,5:57,MISS Russell 23' Jump Shot,,,,
+0020100612,49,4,0,1,9:46 PM,5:55,Collins REBOUND (Off:1 Def:1),,,,
+0020100612,50,2,1,1,9:46 PM,5:42,MISS Malone 18' Jump Shot,,,,
+0020100612,51,4,0,1,9:46 PM,5:37,Stockton REBOUND (Off:1 Def:0),,,,
+0020100612,52,1,7,1,9:46 PM,5:36,Kirilenko  Dunk (4 PTS) (Malone 1 AST),,,11 - 18,7
+0020100612,53,1,7,1,9:46 PM,5:21,,,Pollard  Dunk (4 PTS) (Stojakovic 1 AST),13 - 18,5
+0020100612,54,6,1,1,9:47 PM,5:05,,,Bibby P.FOUL (P2.PN),,
+0020100612,55,3,11,1,9:47 PM,5:05,Russell Free Throw 1 of 2 (6 PTS),,,13 - 19,6
+0020100612,56,8,0,1,9:47 PM,5:05,,,SUB: Jackson FOR Bibby,,
+0020100612,57,3,12,1,9:47 PM,5:05,Russell Free Throw 2 of 2 (7 PTS),,,13 - 20,7
+0020100612,58,1,5,1,9:48 PM,4:56,,,Jackson  Layup (2 PTS) (Christie 1 AST),15 - 20,5
+0020100612,59,5,1,1,9:48 PM,4:41,Collins Bad Pass Turnover (P1.T1),,Pollard STEAL (1 STL),,
+0020100612,60,2,1,1,9:48 PM,4:32,,,MISS Jackson 25' 3PT Jump Shot,,
+0020100612,61,4,0,1,9:48 PM,4:30,Malone REBOUND (Off:0 Def:3),,,,
+0020100612,62,1,1,1,9:48 PM,4:22,Kirilenko 20' Jump Shot (6 PTS) (Malone 2 AST),,,15 - 22,7
+0020100612,63,1,1,1,9:48 PM,4:06,,,Christie 21' Jump Shot (5 PTS) (Webber 1 AST),17 - 22,5
+0020100612,64,5,2,1,9:49 PM,3:46,Kirilenko Lost Ball Turnover (P1.T2),,,,
+0020100612,65,8,0,1,9:49 PM,3:46,SUB: Stevenson FOR Stockton,,,,
+0020100612,66,2,1,1,9:49 PM,3:33,Kirilenko BLOCK (1 BLK),,MISS Stojakovic 15' Jump Shot,,
+0020100612,67,4,0,1,9:49 PM,3:31,Malone REBOUND (Off:0 Def:4),,,,
+0020100612,68,2,1,1,9:49 PM,3:15,MISS Stevenson 21' Jump Shot,,,,
+0020100612,69,4,0,1,9:49 PM,3:13,,,Stojakovic REBOUND (Off:0 Def:1),,
+0020100612,70,1,5,1,9:50 PM,3:03,,,Stojakovic  Layup (2 PTS) (Webber 2 AST),19 - 22,3
+0020100612,71,1,46,1,9:50 PM,2:33,Stevenson 7' Running Jump Shot (2 PTS),,,19 - 24,5
+0020100612,72,2,5,1,9:50 PM,2:20,Collins BLOCK (1 BLK),,MISS Stojakovic  Layup,,
+0020100612,73,4,0,1,9:50 PM,2:15,Malone REBOUND (Off:0 Def:5),,,,
+0020100612,74,9,1,1,9:51 PM,2:10,JAZZ Timeout: Regular (Full 1 Short 0),,,,
+0020100612,76,8,0,1,9:52 PM,2:10,SUB: Lewis FOR Russell,,,,
+0020100612,77,2,1,1,9:53 PM,2:07,MISS Stevenson 19' Jump Shot,,,,
+0020100612,78,4,0,1,9:53 PM,2:05,,,Stojakovic REBOUND (Off:0 Def:2),,
+0020100612,79,6,1,1,9:53 PM,1:58,Lewis P.FOUL (P1.T2),,,,
+0020100612,80,2,1,1,9:54 PM,1:42,,,MISS Christie 25' 3PT Jump Shot,,
+0020100612,81,4,0,1,9:54 PM,1:41,Collins REBOUND (Off:1 Def:2),,,,
+0020100612,82,1,1,1,9:54 PM,1:23,Malone 18' Jump Shot (6 PTS) (Kirilenko 2 AST),,,19 - 26,7
+0020100612,83,1,42,1,9:54 PM,1:06,,,Jackson  Driving Layup (4 PTS),21 - 26,5
+0020100612,84,6,2,1,9:54 PM,1:06,Stevenson S.FOUL (P1.PN),,,,
+0020100612,85,8,0,1,9:54 PM,1:06,,,SUB: Turkoglu FOR Stojakovic,,
+0020100612,86,3,10,1,9:55 PM,1:06,,,MISS Jackson Free Throw 1 of 1,,
+0020100612,87,4,0,1,9:55 PM,1:06,Malone REBOUND (Off:0 Def:6),,,,
+0020100612,88,5,2,1,9:55 PM,0:56,Stevenson Lost Ball Turnover (P1.T3),,Jackson STEAL (1 STL),,
+0020100612,89,6,2,1,9:55 PM,0:53,Stevenson S.FOUL (P2.PN),,,,
+0020100612,90,3,11,1,9:55 PM,0:53,,,Jackson Free Throw 1 of 2 (5 PTS),22 - 26,4
+0020100612,91,3,12,1,9:55 PM,0:53,,,Jackson Free Throw 2 of 2 (6 PTS),23 - 26,3
+0020100612,92,1,5,1,9:56 PM,0:39,Lewis  Layup (2 PTS) (Malone 3 AST),,,23 - 28,5
+0020100612,93,5,2,1,9:56 PM,0:25,,,Christie Lost Ball Turnover (P2.T4),,
+0020100612,94,2,1,1,9:57 PM,0:01,MISS Kirilenko 17' Jump Shot,,,,
+0020100612,95,4,0,1,9:57 PM,0:01,,,Kings Rebound,,
+0020100612,96,2,1,1,9:57 PM,0:00,,,MISS Jackson 28' 3PT Jump Shot,,
+0020100612,98,4,0,1,9:57 PM,0:00,,,Kings Rebound,,
+0020100612,99,13,0,1,9:57 PM,0:00,,,,23 - 28,5
+0020100612,100,12,0,2,10:00 PM,12:00,,,,23 - 28,5
+0020100612,101,5,1,2,10:00 PM,11:47,Russell Bad Pass Turnover (P1.T4),,Christie STEAL (1 STL),,
+0020100612,102,2,1,2,10:00 PM,11:33,,,MISS Turkoglu 20' Jump Shot,,
+0020100612,103,4,0,2,10:00 PM,11:33,,,Kings Rebound,,
+0020100612,104,1,1,2,10:01 PM,11:27,,,Christie  3PT Jump Shot (8 PTS) (Jackson 1 AST),26 - 28,2
+0020100612,105,2,1,2,10:01 PM,11:10,MISS Amaechi 18' Jump Shot,,,,
+0020100612,106,4,0,2,10:01 PM,11:07,,,Webber REBOUND (Off:0 Def:2),,
+0020100612,107,2,1,2,10:01 PM,10:57,,,MISS Jackson 15' Jump Shot,,
+0020100612,108,4,0,2,10:01 PM,10:57,,,Pollard REBOUND (Off:1 Def:0),,
+0020100612,109,6,1,2,10:01 PM,10:47,Amaechi P.FOUL (P1.T1),,,,
+0020100612,110,2,65,2,10:02 PM,10:47,,,MISS Webber 9' Jump Hook Shot,,
+0020100612,111,4,0,2,10:02 PM,10:47,,,Pollard REBOUND (Off:2 Def:0),,
+0020100612,112,6,3,2,10:02 PM,10:47,Amaechi L.B.FOUL (P2.T2),,,,
+0020100612,113,8,0,2,10:02 PM,10:47,SUB: Ostertag FOR Amaechi,,,,
+0020100612,114,2,65,2,10:02 PM,10:38,,,MISS Webber 9' Jump Hook Shot,,
+0020100612,115,4,0,2,10:02 PM,10:37,Ostertag REBOUND (Off:0 Def:1),,,,
+0020100612,116,2,56,2,10:03 PM,10:18,MISS Stevenson 6' Running Hook Shot,,,,
+0020100612,117,4,0,2,10:03 PM,10:15,Stevenson REBOUND (Off:1 Def:0),,,,
+0020100612,118,1,1,2,10:03 PM,10:02,Lewis 16' Jump Shot (4 PTS),,,26 - 30,4
+0020100612,119,2,1,2,10:03 PM,9:44,,,MISS Pollard 16' Jump Shot,,
+0020100612,120,4,0,2,10:03 PM,9:42,Russell REBOUND (Off:0 Def:1),,,,
+0020100612,121,5,2,2,10:04 PM,9:33,Malone Lost Ball Turnover (P1.T5),,Christie STEAL (2 STL),,
+0020100612,123,7,2,2,10:04 PM,9:29,Ostertag Violation:Defensive Goaltending,,,,
+0020100612,122,1,5,2,10:04 PM,9:29,,,Jackson  Layup (8 PTS) (Turkoglu 1 AST),28 - 30,2
+0020100612,124,5,1,2,10:04 PM,9:12,Malone Bad Pass Turnover (P2.T6),,Webber STEAL (1 STL),,
+0020100612,125,6,1,2,10:04 PM,9:11,Malone P.FOUL (P2.T3),,,,
+0020100612,126,8,0,2,10:04 PM,9:11,SUB: Padgett FOR Malone,,,,
+0020100612,127,8,0,2,10:04 PM,9:11,SUB: Stockton FOR Stevenson,,,,
+0020100612,128,2,5,2,10:05 PM,8:56,Ostertag BLOCK (1 BLK),,MISS Webber  Layup,,
+0020100612,130,4,0,2,10:05 PM,8:53,,,Pollard REBOUND (Off:3 Def:0),,
+0020100612,129,1,7,2,10:05 PM,8:53,,,Pollard  Dunk (6 PTS),30 - 30,TIE
+0020100612,131,1,1,2,10:05 PM,8:44,Lewis  3PT Jump Shot (7 PTS) (Padgett 1 AST),,,30 - 33,3
+0020100612,132,5,1,2,10:05 PM,8:33,Russell STEAL (1 STL),,Jackson Bad Pass Turnover (P1.T5),,
+0020100612,133,5,3,2,10:05 PM,8:25,Lewis Out Of Bounds Turnover (P1.T7),,,,
+0020100612,134,9,4,2,10:05 PM,8:25,,,,,
+0020100612,136,8,0,2,10:07 PM,8:25,,,SUB: Stojakovic FOR Christie,,
+0020100612,137,1,65,2,10:08 PM,8:09,,,Webber 3' Jump Hook Shot (4 PTS),32 - 33,1
+0020100612,138,2,5,2,10:08 PM,8:02,MISS Padgett  Layup,,,,
+0020100612,139,4,0,2,10:08 PM,8:01,,,Pollard REBOUND (Off:3 Def:1),,
+0020100612,140,1,1,2,10:08 PM,7:48,,,Jackson 22' Jump Shot (10 PTS),34 - 33,-1
+0020100612,141,2,3,2,10:08 PM,7:24,MISS Ostertag 9' Hook Shot,,,,
+0020100612,142,4,0,2,10:08 PM,7:22,,,Stojakovic REBOUND (Off:0 Def:3),,
+0020100612,143,6,2,2,10:09 PM,7:09,Padgett S.FOUL (P1.T4),,,,
+0020100612,144,3,11,2,10:09 PM,7:09,,,Webber Free Throw 1 of 2 (5 PTS),35 - 33,-2
+0020100612,145,8,0,2,10:09 PM,7:09,,,SUB: Bibby FOR Jackson,,
+0020100612,146,3,12,2,10:09 PM,7:09,,,Webber Free Throw 2 of 2 (6 PTS),36 - 33,-3
+0020100612,147,2,46,2,10:10 PM,6:51,MISS Lewis 10' Running Jump Shot,,,,
+0020100612,148,4,0,2,10:10 PM,6:49,,,Pollard REBOUND (Off:3 Def:2),,
+0020100612,149,2,1,2,10:10 PM,6:36,Ostertag BLOCK (2 BLK),,MISS Stojakovic 14' Jump Shot,,
+0020100612,150,4,0,2,10:10 PM,6:33,,,Stojakovic REBOUND (Off:1 Def:3),,
+0020100612,151,1,1,2,10:10 PM,6:31,,,Stojakovic 21' Jump Shot (4 PTS) (Webber 3 AST),38 - 33,-5
+0020100612,152,5,2,2,10:10 PM,6:15,Padgett Lost Ball Turnover (P1.T8),,Bibby STEAL (1 STL),,
+0020100612,153,6,2,2,10:11 PM,6:12,Lewis S.FOUL (P2.PN),,,,
+0020100612,154,8,0,2,10:11 PM,6:12,SUB: Kirilenko FOR Lewis,,,,
+0020100612,155,3,11,2,10:11 PM,6:12,,,Bibby Free Throw 1 of 2 (3 PTS),39 - 33,-6
+0020100612,156,8,0,2,10:11 PM,6:12,SUB: Malone FOR Padgett,,,,
+0020100612,157,3,12,2,10:11 PM,6:12,,,MISS Bibby Free Throw 2 of 2,,
+0020100612,158,4,0,2,10:11 PM,6:11,Malone REBOUND (Off:0 Def:7),,,,
+0020100612,159,2,1,2,10:11 PM,5:59,MISS Russell  3PT Jump Shot,,,,
+0020100612,161,4,0,2,10:12 PM,5:56,Malone REBOUND (Off:1 Def:7),,,,
+0020100612,160,2,1,2,10:12 PM,5:56,MISS Malone 15' Jump Shot,,,,
+0020100612,162,4,0,2,10:12 PM,5:54,,,Turkoglu REBOUND (Off:0 Def:1),,
+0020100612,163,6,1,2,10:12 PM,5:47,Kirilenko P.FOUL (P1.PN),,,,
+0020100612,164,9,1,2,10:12 PM,5:47,JAZZ Timeout: Regular (Full 2 Short 0),,,,
+0020100612,166,8,0,2,10:14 PM,5:47,SUB: Collins FOR Ostertag,,,,
+0020100612,167,8,0,2,10:14 PM,5:47,,,SUB: Divac FOR Webber,,
+0020100612,168,3,11,2,10:14 PM,5:47,,,Stojakovic Free Throw 1 of 2 (5 PTS),40 - 33,-7
+0020100612,169,3,12,2,10:14 PM,5:47,,,Stojakovic Free Throw 2 of 2 (6 PTS),41 - 33,-8
+0020100612,170,2,1,2,10:15 PM,5:31,MISS Stockton 15' Jump Shot,,,,
+0020100612,171,4,0,2,10:15 PM,5:29,,,Divac REBOUND (Off:0 Def:4),,
+0020100612,172,6,2,2,10:15 PM,5:12,Malone S.FOUL (P3.PN),,,,
+0020100612,173,3,11,2,10:15 PM,5:12,,,Turkoglu Free Throw 1 of 2 (1 PTS),42 - 33,-9
+0020100612,174,8,0,2,10:16 PM,5:12,SUB: Padgett FOR Malone,,,,
+0020100612,175,8,0,2,10:16 PM,5:12,,,SUB: Christie FOR Pollard,,
+0020100612,176,3,12,2,10:16 PM,5:12,,,Turkoglu Free Throw 2 of 2 (2 PTS),43 - 33,-10
+0020100612,177,1,1,2,10:16 PM,4:56,Padgett 17' Jump Shot (2 PTS) (Stockton 4 AST),,,43 - 35,-8
+0020100612,178,1,42,2,10:17 PM,4:40,,,Stojakovic  Driving Layup (8 PTS),45 - 35,-10
+0020100612,179,1,5,2,10:17 PM,4:17,Padgett 5' Layup (4 PTS),,,45 - 37,-8
+0020100612,180,2,1,2,10:17 PM,4:05,,,MISS Bibby 19' Jump Shot,,
+0020100612,181,4,0,2,10:17 PM,4:03,Russell REBOUND (Off:0 Def:2),,,,
+0020100612,182,2,5,2,10:17 PM,3:56,MISS Collins  Layup,,,,
+0020100612,183,4,0,2,10:17 PM,3:55,,,Turkoglu REBOUND (Off:0 Def:2),,
+0020100612,184,1,1,2,10:18 PM,3:43,,,Turkoglu 24' 3PT Jump Shot (5 PTS) (Stojakovic 2 AST),48 - 37,-11
+0020100612,185,2,1,2,10:18 PM,3:19,MISS Padgett 25' 3PT Jump Shot,,,,
+0020100612,187,4,0,2,10:18 PM,3:17,Collins REBOUND (Off:2 Def:2),,,,
+0020100612,186,2,5,2,10:18 PM,3:17,MISS Collins  Layup,,,,
+0020100612,188,4,0,2,10:18 PM,3:16,,,Divac REBOUND (Off:0 Def:5),,
+0020100612,189,5,1,2,10:18 PM,3:07,Russell STEAL (2 STL),,Turkoglu Bad Pass Turnover (P1.T6),,
+0020100612,190,5,1,2,10:18 PM,3:00,Padgett Bad Pass Turnover (P2.T9),,,,
+0020100612,191,9,1,2,10:19 PM,3:00,,,Kings Timeout: Regular (Reg.2 Short 0),,
+0020100612,193,1,46,2,10:22 PM,2:39,,,Turkoglu 8' Running Jump Shot (7 PTS),50 - 37,-13
+0020100612,194,2,5,2,10:22 PM,2:15,MISS Stockton  Layup,,,,
+0020100612,196,4,0,2,10:22 PM,2:12,Kirilenko REBOUND (Off:1 Def:1),,,,
+0020100612,195,1,7,2,10:22 PM,2:12,Kirilenko  Dunk (8 PTS),,,50 - 39,-11
+0020100612,197,1,1,2,10:22 PM,2:05,,,Stojakovic 25' 3PT Jump Shot (11 PTS),53 - 39,-14
+0020100612,198,1,5,2,10:23 PM,1:39,Kirilenko  Layup (10 PTS) (Stockton 5 AST),,,53 - 41,-12
+0020100612,199,6,1,2,10:23 PM,1:27,Padgett P.FOUL (P2.PN),,,,
+0020100612,200,8,0,2,10:23 PM,1:27,,,SUB: Webber FOR Divac,,
+0020100612,201,8,0,2,10:23 PM,1:27,SUB: Starks FOR Padgett,,,,
+0020100612,202,3,11,2,10:23 PM,1:27,,,Stojakovic Free Throw 1 of 2 (12 PTS),54 - 41,-13
+0020100612,203,3,12,2,10:23 PM,1:27,,,Stojakovic Free Throw 2 of 2 (13 PTS),55 - 41,-14
+0020100612,204,1,1,2,10:24 PM,1:17,Stockton 20' Jump Shot (2 PTS),,,55 - 43,-12
+0020100612,205,2,5,2,10:24 PM,1:00,Kirilenko BLOCK (2 BLK),,MISS Bibby  Layup,,
+0020100612,206,4,0,2,10:24 PM,0:57,Stockton REBOUND (Off:1 Def:1),,,,
+0020100612,207,2,5,2,10:24 PM,0:52,MISS Stockton  Layup,,,,
+0020100612,208,4,0,2,10:24 PM,0:52,Kirilenko REBOUND (Off:2 Def:1),,,,
+0020100612,209,6,2,2,10:25 PM,0:52,,,Turkoglu S.FOUL (P1.T1),,
+0020100612,210,3,11,2,10:25 PM,0:52,Kirilenko Free Throw 1 of 2 (11 PTS),,,55 - 44,-11
+0020100612,211,3,12,2,10:25 PM,0:52,Kirilenko Free Throw 2 of 2 (12 PTS),,,55 - 45,-10
+0020100612,212,5,1,2,10:25 PM,0:40,Stockton STEAL (1 STL),,Turkoglu Bad Pass Turnover (P2.T7),,
+0020100612,213,2,5,2,10:25 PM,0:38,MISS Kirilenko  Layup,,,,
+0020100612,214,4,0,2,10:25 PM,0:35,,,Turkoglu REBOUND (Off:0 Def:3),,
+0020100612,215,7,1,2,10:26 PM,0:35,,,Kings Violation: Delay of game Violation,,
+0020100612,216,10,0,2,10:26 PM,0:34,Jump Ball Starks vs. Turkoglu: Tip to Stojakovic,,,,
+0020100612,217,6,1,2,10:26 PM,0:17,Collins P.FOUL (P1.PN),,,,
+0020100612,218,3,11,2,10:26 PM,0:17,,,Webber Free Throw 1 of 2 (7 PTS),56 - 45,-11
+0020100612,219,8,0,2,10:27 PM,0:17,,,SUB: Jackson FOR Bibby,,
+0020100612,220,3,12,2,10:27 PM,0:17,,,Webber Free Throw 2 of 2 (8 PTS),57 - 45,-12
+0020100612,221,6,2,2,10:27 PM,0:03,,,Jackson S.FOUL (P1.PN),,
+0020100612,222,3,11,2,10:28 PM,0:03,Stockton Free Throw 1 of 2 (3 PTS),,,57 - 46,-11
+0020100612,223,3,12,2,10:28 PM,0:03,Stockton Free Throw 2 of 2 (4 PTS),,,57 - 47,-10
+0020100612,224,5,2,2,10:28 PM,0:00,Stockton STEAL (2 STL),,Christie Lost Ball Turnover (P3.T8),,
+0020100612,226,13,0,2,10:28 PM,0:00,,,,57 - 47,-10
+0020100612,228,12,0,3,10:46 PM,12:00,,,,57 - 47,-10
+0020100612,229,6,1,3,10:48 PM,11:48,,,Bibby P.FOUL (P3.T1),,
+0020100612,230,2,1,3,10:48 PM,11:45,MISS Malone 21' Jump Shot,,,,
+0020100612,231,4,0,3,10:48 PM,11:43,,,Webber REBOUND (Off:0 Def:3),,
+0020100612,232,2,1,3,10:49 PM,11:20,,,MISS Webber 18' Jump Shot,,
+0020100612,233,4,0,3,10:49 PM,11:17,Russell REBOUND (Off:0 Def:3),,,,
+0020100612,234,2,5,3,10:49 PM,11:12,MISS Stockton  Layup,,Webber BLOCK (1 BLK),,
+0020100612,235,4,0,3,10:49 PM,11:11,Malone REBOUND (Off:2 Def:7),,,,
+0020100612,236,6,2,3,10:49 PM,11:11,,,Divac S.FOUL (P3.T2),,
+0020100612,237,3,11,3,10:49 PM,11:11,Malone Free Throw 1 of 2 (7 PTS),,,57 - 48,-9
+0020100612,238,3,12,3,10:49 PM,11:11,Malone Free Throw 2 of 2 (8 PTS),,,57 - 49,-8
+0020100612,239,1,1,3,10:50 PM,10:53,,,Bibby 20' Jump Shot (5 PTS) (Webber 4 AST),59 - 49,-10
+0020100612,240,6,1,3,10:50 PM,10:37,,,Christie P.FOUL (P1.T3),,
+0020100612,241,2,1,3,10:51 PM,10:25,MISS Russell 24' 3PT Jump Shot,,,,
+0020100612,242,4,0,3,10:51 PM,10:23,,,Stojakovic REBOUND (Off:1 Def:4),,
+0020100612,243,1,1,3,10:51 PM,10:06,,,Stojakovic 25' 3PT Jump Shot (16 PTS) (Christie 2 AST),62 - 49,-13
+0020100612,244,6,14,3,10:51 PM,9:58,,,Webber FLAGRANT.FOUL.TYPE1 (P2.T4),,
+0020100612,245,3,18,3,10:52 PM,9:58,Collins Free Throw Flagrant 1 of 2 (6 PTS),,,62 - 50,-12
+0020100612,246,3,19,3,10:52 PM,9:58,MISS Collins Free Throw Flagrant 2 of 2,,,,
+0020100612,247,4,1,3,10:52 PM,9:58,JAZZ Rebound,,,,
+0020100612,248,5,1,3,10:53 PM,9:46,Stockton Bad Pass Turnover (P1.T10),,,,
+0020100612,249,2,5,3,10:53 PM,9:29,Collins BLOCK (2 BLK),,MISS Webber  Layup,,
+0020100612,251,4,0,3,10:53 PM,9:26,,,Webber REBOUND (Off:1 Def:3),,
+0020100612,250,2,5,3,10:53 PM,9:26,Kirilenko BLOCK (3 BLK),,MISS Webber  Layup,,
+0020100612,252,4,0,3,10:53 PM,9:25,Kirilenko REBOUND (Off:2 Def:2),,,,
+0020100612,253,2,1,3,10:53 PM,9:17,MISS Malone 15' Jump Shot,,,,
+0020100612,254,4,0,3,10:53 PM,9:13,,,Divac REBOUND (Off:0 Def:6),,
+0020100612,255,6,1,3,10:53 PM,9:13,Russell P.FOUL (P1.T1),,,,
+0020100612,256,1,1,3,10:54 PM,9:01,,,Christie 24' 3PT Jump Shot (11 PTS) (Webber 5 AST),65 - 50,-15
+0020100612,257,2,1,3,10:54 PM,8:47,MISS Malone 21' Jump Shot,,,,
+0020100612,258,4,0,3,10:54 PM,8:47,JAZZ Rebound,,,,
+0020100612,259,6,3,3,10:54 PM,8:47,,,Christie L.B.FOUL (P2.PN),,
+0020100612,260,3,11,3,10:54 PM,8:47,Russell Free Throw 1 of 2 (8 PTS),,,65 - 51,-14
+0020100612,261,3,12,3,10:54 PM,8:47,Russell Free Throw 2 of 2 (9 PTS),,,65 - 52,-13
+0020100612,262,2,65,3,10:55 PM,8:30,,,MISS Webber 7' Jump Hook Shot,,
+0020100612,263,4,0,3,10:55 PM,8:28,Russell REBOUND (Off:0 Def:4),,,,
+0020100612,264,1,1,3,10:55 PM,8:12,Malone 18' Jump Shot (10 PTS) (Russell 2 AST),,,65 - 54,-11
+0020100612,265,6,4,3,10:55 PM,7:54,,,Webber OFF.Foul (P3),,
+0020100612,266,5,5,3,10:55 PM,7:54,,,Webber Foul Turnover (P3.T9),,
+0020100612,267,2,1,3,10:56 PM,7:43,MISS Malone 20' Jump Shot,,,,
+0020100612,269,4,0,3,10:56 PM,7:40,Kirilenko REBOUND (Off:3 Def:2),,,,
+0020100612,268,1,4,3,10:56 PM,7:40,Kirilenko  Tip Shot (14 PTS),,,65 - 56,-9
+0020100612,270,1,5,3,10:56 PM,7:28,,,Divac  Layup (4 PTS),67 - 56,-11
+0020100612,271,5,8,3,10:57 PM,7:05,Collins 3 Second Violation Turnover (P2.T11),,,,
+0020100612,272,6,1,3,10:57 PM,6:50,Collins P.FOUL (P2.T2),,,,
+0020100612,273,2,1,3,10:57 PM,6:40,,,MISS Stojakovic 19' Jump Shot,,
+0020100612,274,4,0,3,10:57 PM,6:36,,,Stojakovic REBOUND (Off:2 Def:4),,
+0020100612,275,2,1,3,10:57 PM,6:35,,,MISS Bibby 24' 3PT Jump Shot,,
+0020100612,276,4,0,3,10:58 PM,6:34,,,Webber REBOUND (Off:2 Def:3),,
+0020100612,277,6,2,3,10:58 PM,6:34,Collins S.FOUL (P3.T3),,,,
+0020100612,278,3,11,3,10:58 PM,6:34,,,Webber Free Throw 1 of 2 (9 PTS),68 - 56,-12
+0020100612,279,3,12,3,10:58 PM,6:34,,,Webber Free Throw 2 of 2 (10 PTS),69 - 56,-13
+0020100612,280,1,5,3,10:59 PM,6:29,Collins  Layup (8 PTS) (Stockton 6 AST),,,69 - 58,-11
+0020100612,281,6,1,3,10:59 PM,6:21,Stockton P.FOUL (P1.T4),,,,
+0020100612,282,8,0,3,10:59 PM,6:21,,,SUB: Pollard FOR Divac,,
+0020100612,283,5,4,3,10:59 PM,6:13,,,Webber Traveling Turnover (P4.T10),,
+0020100612,284,1,5,3,11:00 PM,5:57,Kirilenko  Layup (16 PTS) (Stockton 7 AST),,,69 - 60,-9
+0020100612,285,2,1,3,11:00 PM,5:40,,,MISS Webber 21' Jump Shot,,
+0020100612,286,4,0,3,11:00 PM,5:37,,,Kings Rebound,,
+0020100612,287,9,1,3,11:00 PM,5:37,JAZZ Timeout: Regular (Full 3 Short 0),,,,
+0020100612,289,5,1,3,11:03 PM,5:35,Stockton STEAL (3 STL),,Christie Bad Pass Turnover (P4.T11),,
+0020100612,290,2,5,3,11:03 PM,5:30,MISS Collins  Layup,,Webber BLOCK (2 BLK),,
+0020100612,291,4,0,3,11:03 PM,5:27,,,Pollard REBOUND (Off:3 Def:3),,
+0020100612,292,2,5,3,11:03 PM,5:12,Kirilenko BLOCK (4 BLK),,MISS Stojakovic  Layup,,
+0020100612,293,4,0,3,11:03 PM,5:11,,,Webber REBOUND (Off:3 Def:3),,
+0020100612,294,1,5,3,11:03 PM,5:11,,,Webber  Layup (12 PTS),71 - 60,-11
+0020100612,295,6,2,3,11:03 PM,5:11,Stockton S.FOUL (P2.PN),,,,
+0020100612,296,3,10,3,11:04 PM,5:11,,,Webber Free Throw 1 of 1 (13 PTS),72 - 60,-12
+0020100612,297,2,1,3,11:04 PM,4:56,MISS Malone 4' Jump Shot,,,,
+0020100612,299,4,0,3,11:04 PM,4:53,Russell REBOUND (Off:1 Def:4),,,,
+0020100612,298,2,5,3,11:04 PM,4:53,MISS Russell  Layup,,,,
+0020100612,300,4,0,3,11:04 PM,4:52,,,Webber REBOUND (Off:3 Def:4),,
+0020100612,301,6,1,3,11:04 PM,4:40,Russell P.FOUL (P2.PN),,,,
+0020100612,302,3,11,3,11:05 PM,4:40,,,Stojakovic Free Throw 1 of 2 (17 PTS),73 - 60,-13
+0020100612,304,8,0,3,11:05 PM,4:40,SUB: Stevenson FOR Stockton,,,,
+0020100612,305,3,12,3,11:05 PM,4:40,,,Stojakovic Free Throw 2 of 2 (18 PTS),74 - 60,-14
+0020100612,306,1,1,3,11:05 PM,4:23,Malone 21' Jump Shot (12 PTS) (Russell 3 AST),,,74 - 62,-12
+0020100612,307,1,1,3,11:06 PM,4:09,,,Bibby 24' 3PT Jump Shot (8 PTS) (Christie 3 AST),77 - 62,-15
+0020100612,308,1,1,3,11:06 PM,3:53,Stevenson 22' Jump Shot (4 PTS) (Russell 4 AST),,,77 - 64,-13
+0020100612,309,1,5,3,11:06 PM,3:45,,,Stojakovic  Layup (20 PTS),79 - 64,-15
+0020100612,310,2,1,3,11:06 PM,3:30,MISS Stevenson 17' Jump Shot,,,,
+0020100612,311,4,0,3,11:06 PM,3:28,,,Pollard REBOUND (Off:3 Def:4),,
+0020100612,312,1,1,3,11:06 PM,3:22,,,Christie 23' Jump Shot (13 PTS) (Pollard 1 AST),81 - 64,-17
+0020100612,313,6,1,3,11:07 PM,3:07,,,Christie P.FOUL (P3.PN),,
+0020100612,314,3,11,3,11:07 PM,3:07,Russell Free Throw 1 of 2 (10 PTS),,,81 - 65,-16
+0020100612,315,8,0,3,11:07 PM,3:07,SUB: Starks FOR Kirilenko,,,,
+0020100612,316,3,12,3,11:07 PM,3:07,Russell Free Throw 2 of 2 (11 PTS),,,81 - 66,-15
+0020100612,317,2,63,3,11:08 PM,2:46,,,MISS Webber 17' Fadeaway Jumper,,
+0020100612,318,4,0,3,11:08 PM,2:44,Russell REBOUND (Off:1 Def:5),,,,
+0020100612,319,2,1,3,11:08 PM,2:34,MISS Malone 18' Jump Shot,,,,
+0020100612,320,4,0,3,11:08 PM,2:34,,,Webber REBOUND (Off:3 Def:5),,
+0020100612,321,6,3,3,11:08 PM,2:34,Collins L.B.FOUL (P4.PN),,,,
+0020100612,323,9,1,3,11:08 PM,2:34,,,Kings Timeout: Regular (Reg.3 Short 0),,
+0020100612,324,8,0,3,11:11 PM,2:34,,,SUB: Jackson FOR Christie,,
+0020100612,325,8,0,3,11:11 PM,2:34,SUB: Ostertag FOR Collins,,,,
+0020100612,326,3,11,3,11:11 PM,2:34,,,Webber Free Throw 1 of 2 (14 PTS),82 - 66,-16
+0020100612,327,3,12,3,11:12 PM,2:34,,,Webber Free Throw 2 of 2 (15 PTS),83 - 66,-17
+0020100612,328,2,41,3,11:12 PM,2:20,MISS Starks 4' Running Layup,,,,
+0020100612,329,4,0,3,11:12 PM,2:19,,,Pollard REBOUND (Off:3 Def:5),,
+0020100612,330,2,3,3,11:12 PM,2:04,,,MISS Webber 5' Hook Shot,,
+0020100612,331,4,0,3,11:13 PM,2:01,Russell REBOUND (Off:1 Def:6),,,,
+0020100612,332,2,3,3,11:13 PM,1:47,MISS Malone 8' Hook Shot,,,,
+0020100612,333,4,0,3,11:13 PM,1:44,,,Pollard REBOUND (Off:3 Def:6),,
+0020100612,334,2,1,3,11:13 PM,1:38,,,MISS Webber 20' Jump Shot,,
+0020100612,335,4,0,3,11:13 PM,1:36,Stevenson REBOUND (Off:1 Def:1),,,,
+0020100612,336,5,1,3,11:13 PM,1:28,Starks Bad Pass Turnover (P1.T12),,Pollard STEAL (2 STL),,
+0020100612,337,1,1,3,11:13 PM,1:14,,,Bibby 16' Jump Shot (10 PTS),85 - 66,-19
+0020100612,338,6,4,3,11:14 PM,0:56,Ostertag OFF.Foul (P1),,,,
+0020100612,339,5,5,3,11:14 PM,0:56,Ostertag Foul Turnover (P1.T13),,,,
+0020100612,340,6,1,3,11:14 PM,0:46,Ostertag P.FOUL (P2.PN),,,,
+0020100612,341,3,11,3,11:14 PM,0:46,,,Jackson Free Throw 1 of 2 (11 PTS),86 - 66,-20
+0020100612,342,3,12,3,11:14 PM,0:46,,,MISS Jackson Free Throw 2 of 2,,
+0020100612,343,4,0,3,11:15 PM,0:44,Starks REBOUND (Off:0 Def:1),,,,
+0020100612,344,6,1,3,11:15 PM,0:44,,,Jackson P.FOUL (P2.PN),,
+0020100612,345,3,11,3,11:15 PM,0:44,Starks Free Throw 1 of 2 (1 PTS),,,86 - 67,-19
+0020100612,346,8,0,3,11:15 PM,0:44,SUB: Padgett FOR Malone,,,,
+0020100612,347,3,12,3,11:15 PM,0:44,Starks Free Throw 2 of 2 (2 PTS),,,86 - 68,-18
+0020100612,348,1,1,3,11:16 PM,0:31,,,Webber 21' Jump Shot (17 PTS) (Bibby 2 AST),88 - 68,-20
+0020100612,349,2,1,3,11:16 PM,0:14,MISS Russell  3PT Jump Shot,,,,
+0020100612,350,4,0,3,11:16 PM,0:11,,,Pollard REBOUND (Off:3 Def:7),,
+0020100612,351,2,1,3,11:17 PM,0:02,,,MISS Stojakovic 11' Jump Shot,,
+0020100612,352,4,0,3,11:17 PM,0:00,Padgett REBOUND (Off:0 Def:1),,,,
+0020100612,354,13,0,3,11:17 PM,0:00,,,,88 - 68,-20
+0020100612,355,12,0,4,11:20 PM,12:00,,,,88 - 68,-20
+0020100612,356,2,5,4,11:21 PM,11:42,,,MISS Jackson  Layup,,
+0020100612,358,4,0,4,11:21 PM,11:41,,,Pollard REBOUND (Off:4 Def:7),,
+0020100612,357,1,5,4,11:21 PM,11:41,,,Pollard  Layup (8 PTS),90 - 68,-22
+0020100612,359,1,1,4,11:21 PM,11:26,Stockton 18' Jump Shot (6 PTS),,,90 - 70,-20
+0020100612,360,2,1,4,11:21 PM,11:12,,,MISS Bibby 4' Jump Shot,,
+0020100612,362,4,0,4,11:21 PM,11:09,,,Webber REBOUND (Off:4 Def:5),,
+0020100612,361,1,5,4,11:21 PM,11:09,,,Webber  Layup (19 PTS),92 - 70,-22
+0020100612,363,6,2,4,11:22 PM,10:53,,,Bibby S.FOUL (P4.T1),,
+0020100612,364,3,11,4,11:22 PM,10:53,Padgett Free Throw 1 of 2 (5 PTS),,,92 - 71,-21
+0020100612,365,3,12,4,11:22 PM,10:53,Padgett Free Throw 2 of 2 (6 PTS),,,92 - 72,-20
+0020100612,366,2,1,4,11:22 PM,10:36,,,MISS Jackson 16' Jump Shot,,
+0020100612,367,4,0,4,11:22 PM,10:32,,,Webber REBOUND (Off:5 Def:5),,
+0020100612,368,1,5,4,11:22 PM,10:30,,,Bibby  Layup (12 PTS) (Webber 6 AST),94 - 72,-22
+0020100612,369,1,5,4,11:23 PM,10:16,Malone  Layup (14 PTS) (Stockton 8 AST),,,94 - 74,-20
+0020100612,370,6,2,4,11:23 PM,10:16,,,Webber S.FOUL (P4.T2),,
+0020100612,371,3,10,4,11:23 PM,10:16,Malone Free Throw 1 of 1 (15 PTS),,,94 - 75,-19
+0020100612,372,2,1,4,11:24 PM,9:55,,,MISS Bibby 25' 3PT Jump Shot,,
+0020100612,373,4,0,4,11:24 PM,9:52,Stockton REBOUND (Off:1 Def:2),,,,
+0020100612,374,1,1,4,11:24 PM,9:46,Padgett 21' Jump Shot (8 PTS) (Stockton 9 AST),,,94 - 77,-17
+0020100612,375,2,1,4,11:24 PM,9:25,,,MISS Bibby 15' Jump Shot,,
+0020100612,376,4,0,4,11:24 PM,9:22,,,Bibby REBOUND (Off:1 Def:0),,
+0020100612,377,6,4,4,11:24 PM,9:16,,,Stojakovic OFF.Foul (P1),,
+0020100612,378,5,5,4,11:24 PM,9:16,,,Stojakovic Foul Turnover (P1.T12),,
+0020100612,379,8,0,4,11:24 PM,9:16,,,SUB: Turkoglu FOR Webber,,
+0020100612,380,2,1,4,11:25 PM,9:01,MISS Kirilenko 13' Jump Shot,,,,
+0020100612,381,4,0,4,11:25 PM,8:59,,,Pollard REBOUND (Off:4 Def:8),,
+0020100612,382,1,1,4,11:25 PM,8:39,,,Stojakovic 24' 3PT Jump Shot (23 PTS) (Turkoglu 2 AST),97 - 77,-20
+0020100612,383,2,1,4,11:25 PM,8:25,MISS Stockton 19' Jump Shot,,,,
+0020100612,384,4,0,4,11:25 PM,8:23,,,Jackson REBOUND (Off:0 Def:1),,
+0020100612,385,1,1,4,11:26 PM,8:04,,,Turkoglu 24' 3PT Jump Shot (10 PTS) (Stojakovic 3 AST),100 - 77,-23
+0020100612,386,5,1,4,11:26 PM,7:53,Stockton Bad Pass Turnover (P2.T14),,Turkoglu STEAL (1 STL),,
+0020100612,388,6,1,4,11:26 PM,7:52,Padgett P.FOUL (P3.T1),,,,
+0020100612,390,9,4,4,11:26 PM,7:52,,,,,
+0020100612,392,1,1,4,11:29 PM,7:39,,,Bibby 19' Jump Shot (14 PTS) (Jackson 2 AST),102 - 77,-25
+0020100612,393,2,1,4,11:30 PM,7:18,MISS Starks 25' 3PT Jump Shot,,,,
+0020100612,395,4,0,4,11:30 PM,7:14,Malone REBOUND (Off:3 Def:7),,,,
+0020100612,394,1,1,4,11:30 PM,7:14,Malone 18' Jump Shot (17 PTS),,,102 - 79,-23
+0020100612,396,2,1,4,11:30 PM,6:49,,,MISS Stojakovic  3PT Jump Shot,,
+0020100612,397,4,0,4,11:30 PM,6:48,Padgett REBOUND (Off:0 Def:2),,,,
+0020100612,398,2,1,4,11:30 PM,6:37,MISS Malone 14' Jump Shot,,,,
+0020100612,399,4,0,4,11:30 PM,6:35,,,Turkoglu REBOUND (Off:0 Def:4),,
+0020100612,400,2,1,4,11:31 PM,6:16,,,MISS Turkoglu 20' Jump Shot,,
+0020100612,402,4,0,4,11:31 PM,6:13,,,Pollard REBOUND (Off:5 Def:8),,
+0020100612,401,1,4,4,11:31 PM,6:13,,,Pollard  Tip Shot (10 PTS),104 - 79,-25
+0020100612,403,8,0,4,11:31 PM,6:00,SUB: Russell FOR Starks,,,,
+0020100612,404,8,0,4,11:31 PM,6:00,SUB: Stevenson FOR Stockton,,,,
+0020100612,405,2,1,4,11:31 PM,5:53,MISS Stevenson 20' Jump Shot,,,,
+0020100612,406,4,0,4,11:31 PM,5:50,,,Stojakovic REBOUND (Off:2 Def:5),,
+0020100612,407,5,2,4,11:31 PM,5:42,Kirilenko STEAL (1 STL),,Stojakovic Lost Ball Turnover (P2.T13),,
+0020100612,408,6,1,4,11:31 PM,5:41,,,Jackson P.FOUL (P3.T3),,
+0020100612,409,9,1,4,11:32 PM,5:41,JAZZ Timeout: Regular (Full 4 Short 0),,,,
+0020100612,411,8,0,4,11:34 PM,5:41,SUB: Ostertag FOR Malone,,,,
+0020100612,412,5,2,4,11:35 PM,5:26,Kirilenko Lost Ball Turnover (P2.T15),,Stojakovic STEAL (1 STL),,
+0020100612,413,2,1,4,11:35 PM,5:06,,,MISS Jackson 22' Jump Shot,,
+0020100612,414,4,0,4,11:35 PM,5:04,Padgett REBOUND (Off:0 Def:3),,,,
+0020100612,415,6,1,4,11:35 PM,4:58,,,Stojakovic P.FOUL (P2.T4),,
+0020100612,416,8,0,4,11:35 PM,4:58,,,SUB: Wallace FOR Bibby,,
+0020100612,417,8,0,4,11:35 PM,4:58,SUB: Lewis FOR Kirilenko,,,,
+0020100612,418,1,1,4,11:36 PM,4:54,Lewis 20' Jump Shot (9 PTS) (Stevenson 1 AST),,,104 - 81,-23
+0020100612,419,1,1,4,11:36 PM,4:40,,,Wallace 22' Jump Shot (2 PTS) (Stojakovic 4 AST),106 - 81,-25
+0020100612,420,1,1,4,11:36 PM,4:19,Stevenson 18' Jump Shot (6 PTS),,,106 - 83,-23
+0020100612,421,6,2,4,11:37 PM,4:01,Lewis S.FOUL (P3.T2),,,,
+0020100612,422,8,0,4,11:37 PM,4:01,SUB: Amaechi FOR Russell,,,,
+0020100612,423,3,11,4,11:37 PM,4:01,,,Stojakovic Free Throw 1 of 2 (24 PTS),107 - 83,-24
+0020100612,424,8,0,4,11:37 PM,4:01,,,SUB: Price FOR Turkoglu,,
+0020100612,425,3,12,4,11:37 PM,4:01,,,Stojakovic Free Throw 2 of 2 (25 PTS),108 - 83,-25
+0020100612,426,5,2,4,11:37 PM,3:50,Lewis Lost Ball Turnover (P2.T16),,Jackson STEAL (2 STL),,
+0020100612,427,5,2,4,11:38 PM,3:46,Padgett STEAL (1 STL),,Jackson Lost Ball Turnover (P2.T14),,
+0020100612,428,2,5,4,11:38 PM,3:28,MISS Stevenson  Layup,,,,
+0020100612,430,4,0,4,11:38 PM,3:26,Stevenson REBOUND (Off:2 Def:1),,,,
+0020100612,429,2,5,4,11:38 PM,3:26,MISS Stevenson  Layup,,,,
+0020100612,432,4,0,4,11:38 PM,3:25,Ostertag REBOUND (Off:1 Def:1),,,,
+0020100612,431,2,1,4,11:38 PM,3:25,MISS Ostertag 4' Jump Shot,,,,
+0020100612,433,4,0,4,11:38 PM,3:23,,,Pollard REBOUND (Off:5 Def:9),,
+0020100612,434,2,1,4,11:38 PM,3:15,,,MISS Wallace 19' Jump Shot,,
+0020100612,435,4,0,4,11:38 PM,3:14,,,Kings Rebound,,
+0020100612,436,8,0,4,11:38 PM,3:14,,,SUB: Turkoglu FOR Stojakovic,,
+0020100612,437,5,3,4,11:38 PM,3:11,,,Wallace Out Of Bounds Turnover (P1.T15),,
+0020100612,438,2,1,4,11:39 PM,2:57,MISS Amaechi 14' Jump Shot,,,,
+0020100612,439,4,0,4,11:39 PM,2:55,,,Pollard REBOUND (Off:5 Def:10),,
+0020100612,440,1,1,4,11:39 PM,2:42,,,Jackson  3PT Jump Shot (14 PTS) (Price 1 AST),111 - 83,-28
+0020100612,441,2,1,4,11:39 PM,2:28,MISS Lewis 25' 3PT Jump Shot,,,,
+0020100612,442,4,0,4,11:39 PM,2:27,Ostertag REBOUND (Off:2 Def:1),,,,
+0020100612,443,2,1,4,11:39 PM,2:18,MISS Stevenson 19' Jump Shot,,,,
+0020100612,444,4,0,4,11:39 PM,2:17,,,Wallace REBOUND (Off:0 Def:1),,
+0020100612,445,1,1,4,11:40 PM,2:12,,,Price 24' 3PT Jump Shot (3 PTS) (Wallace 1 AST),114 - 83,-31
+0020100612,446,1,1,4,11:40 PM,1:57,Padgett 21' Jump Shot (10 PTS) (Stevenson 2 AST),,,114 - 85,-29
+0020100612,447,5,4,4,11:40 PM,1:43,,,Price Traveling Turnover (P1.T16),,
+0020100612,448,9,1,4,11:40 PM,1:43,,,Kings Timeout: Regular (Reg.4 Short 0),,
+0020100612,450,1,42,4,11:43 PM,1:32,Amaechi  Driving Layup (2 PTS),,,114 - 87,-27
+0020100612,451,6,2,4,11:43 PM,1:32,,,Turkoglu S.FOUL (P2.PN),,
+0020100612,452,3,10,4,11:43 PM,1:32,Amaechi Free Throw 1 of 1 (3 PTS),,,114 - 88,-26
+0020100612,453,2,1,4,11:43 PM,1:22,,,MISS Price 22' Jump Shot,,
+0020100612,454,4,0,4,11:43 PM,1:19,Amaechi REBOUND (Off:0 Def:1),,,,
+0020100612,455,1,3,4,11:44 PM,1:00,Amaechi 4' Hook Shot (5 PTS) (Stevenson 3 AST),,,114 - 90,-24
+0020100612,456,2,1,4,11:44 PM,0:47,,,MISS Jackson 26' 3PT Jump Shot,,
+0020100612,457,4,0,4,11:44 PM,0:46,Ostertag REBOUND (Off:2 Def:2),,,,
+0020100612,458,5,1,4,11:44 PM,0:41,Stevenson Bad Pass Turnover (P2.T17),,Jackson STEAL (3 STL),,
+0020100612,459,2,5,4,11:44 PM,0:35,,,MISS Wallace  Layup,,
+0020100612,460,4,0,4,11:44 PM,0:34,Padgett REBOUND (Off:0 Def:4),,,,
+0020100612,461,2,1,4,11:44 PM,0:27,MISS Lewis  3PT Jump Shot,,,,
+0020100612,462,4,0,4,11:44 PM,0:24,,,Jackson REBOUND (Off:0 Def:2),,
+0020100612,463,6,1,4,11:44 PM,0:18,Lewis P.FOUL (P4.T3),,,,
+0020100612,464,5,11,4,11:45 PM,0:01,,,Kings Turnover: Shot Clock (T#17),,
+0020100612,467,13,0,4,11:46 PM,0:00,,,,114 - 90,-24

@@ -1,0 +1,459 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000546,0,12,0,1,8:11 AM,12:00,,,,,
+0020000546,1,10,0,1,8:11 AM,12:00,Jump Ball Jackson vs. Weatherspoon: Tip to Jackson,,,,
+0020000546,2,6,2,1,8:12 AM,11:47,Jamison S.FOUL (P1.T1),,,,
+0020000546,3,3,11,1,8:12 AM,11:47,,,Gatling Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0020000546,4,3,12,1,8:12 AM,11:47,,,Gatling Free Throw 2 of 2 (2 PTS),2 - 0,-2
+0020000546,5,1,3,1,8:12 AM,11:33,Jamison 7' Hook Shot (2 PTS) (Sura 1 AST),,,2 - 2,TIE
+0020000546,6,1,1,1,8:13 AM,11:13,,,Murray 18' Jump Shot (2 PTS),4 - 2,-2
+0020000546,7,1,1,1,8:13 AM,10:58,Sura 24' 3PT Jump Shot (3 PTS) (Jackson 1 AST),,,4 - 5,1
+0020000546,8,2,1,1,8:13 AM,10:38,,,MISS Weatherspoon 16' Jump Shot,,
+0020000546,9,4,0,1,8:13 AM,10:37,Jackson REBOUND (Off:0 Def:1),,,,
+0020000546,10,6,2,1,8:14 AM,10:26,,,Weatherspoon S.FOUL (P1.T1),,
+0020000546,11,3,11,1,8:14 AM,10:26,MISS Jamison Free Throw 1 of 2,,,,
+0020000546,12,4,1,1,8:14 AM,10:26,WARRIORS Rebound,,,,
+0020000546,13,3,12,1,8:14 AM,10:26,Jamison Free Throw 2 of 2 (3 PTS),,,4 - 6,2
+0020000546,14,5,1,1,8:14 AM,10:18,,,Gatling Bad Pass Turnover (P1.T1),,
+0020000546,15,2,5,1,8:15 AM,10:07,MISS Blaylock 3' Layup,,,,
+0020000546,16,4,0,1,8:15 AM,10:05,,,Weatherspoon REBOUND (Off:0 Def:1),,
+0020000546,17,2,5,1,8:15 AM,10:02,Mullin BLOCK (1 BLK),,MISS Miller 3' Layup,,
+0020000546,18,4,0,1,8:15 AM,10:00,,,Weatherspoon REBOUND (Off:1 Def:1),,
+0020000546,19,1,8,1,8:15 AM,9:59,,,Gatling  Slam Dunk (4 PTS) (Weatherspoon 1 AST),6 - 6,TIE
+0020000546,20,6,2,1,8:15 AM,9:46,,,Murray S.FOUL (P1.T2),,
+0020000546,21,3,11,1,8:15 AM,9:46,Jamison Free Throw 1 of 2 (4 PTS),,,6 - 7,1
+0020000546,22,3,12,1,8:15 AM,9:46,Jamison Free Throw 2 of 2 (5 PTS),,,6 - 8,2
+0020000546,23,2,1,1,8:16 AM,9:31,,,MISS Murray 17' Jump Shot,,
+0020000546,24,4,0,1,8:16 AM,9:30,Sura REBOUND (Off:0 Def:1),,,,
+0020000546,25,2,1,1,8:16 AM,9:20,MISS Jackson 19' Jump Shot,,,,
+0020000546,26,4,0,1,8:16 AM,9:19,,,Gatling REBOUND (Off:0 Def:1),,
+0020000546,27,6,1,1,8:16 AM,9:12,Sura P.FOUL (P1.T2),,,,
+0020000546,28,2,1,1,8:17 AM,8:59,,,MISS Murray  3PT Jump Shot,,
+0020000546,29,4,0,1,8:17 AM,8:57,,,Gatling REBOUND (Off:1 Def:1),,
+0020000546,30,2,1,1,8:17 AM,8:56,,,MISS Gatling 4' Jump Shot,,
+0020000546,32,4,0,1,8:17 AM,8:55,,,Gatling REBOUND (Off:2 Def:1),,
+0020000546,31,2,4,1,8:17 AM,8:54,,,MISS Gatling  Tip Shot,,
+0020000546,33,4,0,1,8:17 AM,8:53,,,Cavaliers Rebound,,
+0020000546,34,6,3,1,8:17 AM,8:53,Jackson L.B.FOUL (P1.T3),,,,
+0020000546,35,2,1,1,8:17 AM,8:35,,,MISS Jackson 16' Jump Shot,,
+0020000546,36,4,0,1,8:17 AM,8:33,,,Weatherspoon REBOUND (Off:2 Def:1),,
+0020000546,37,2,1,1,8:17 AM,8:30,,,MISS Jackson 4' Jump Shot,,
+0020000546,38,4,0,1,8:17 AM,8:28,Jamison REBOUND (Off:0 Def:1),,,,
+0020000546,39,2,1,1,8:17 AM,8:24,MISS Sura 25' 3PT Jump Shot,,,,
+0020000546,40,4,0,1,8:18 AM,8:22,,,Weatherspoon REBOUND (Off:2 Def:2),,
+0020000546,41,6,4,1,8:18 AM,8:18,,,Murray OFF.Foul (P2),,
+0020000546,42,5,5,1,8:18 AM,8:18,,,Murray Foul Turnover (P1.T2),,
+0020000546,43,8,0,1,8:18 AM,8:18,,,SUB: Henderson FOR Murray,,
+0020000546,44,2,1,1,8:18 AM,8:07,MISS Blaylock 25' 3PT Jump Shot,,,,
+0020000546,45,4,0,1,8:18 AM,8:05,,,Henderson REBOUND (Off:0 Def:1),,
+0020000546,46,1,5,1,8:18 AM,7:58,,,Weatherspoon  Layup (2 PTS) (Jackson 1 AST),8 - 8,TIE
+0020000546,47,5,1,1,8:18 AM,7:52,Sura Bad Pass Turnover (P1.T1),,,,
+0020000546,48,5,1,1,8:19 AM,7:43,Jackson STEAL (1 STL),,Gatling Bad Pass Turnover (P2.T3),,
+0020000546,49,1,42,1,8:19 AM,7:37,Blaylock  Driving Layup (2 PTS),,,8 - 10,2
+0020000546,50,2,1,1,8:19 AM,7:21,,,MISS Henderson 16' Jump Shot,,
+0020000546,52,4,0,1,8:19 AM,7:20,,,Jackson REBOUND (Off:1 Def:0),,
+0020000546,51,2,53,1,8:19 AM,7:19,,,MISS Jackson  Tip Shot,,
+0020000546,53,4,0,1,8:19 AM,7:18,Jamison REBOUND (Off:0 Def:2),,,,
+0020000546,54,2,1,1,8:19 AM,7:13,MISS Sura 5' Jump Shot,,Henderson BLOCK (1 BLK),,
+0020000546,55,4,0,1,8:19 AM,7:11,Jamison REBOUND (Off:1 Def:2),,,,
+0020000546,56,1,4,1,8:19 AM,7:10,Jamison  Tip Shot (7 PTS),,,8 - 12,4
+0020000546,57,2,1,1,8:20 AM,6:58,,,MISS Henderson 13' Jump Shot,,
+0020000546,58,4,0,1,8:20 AM,6:55,Jackson REBOUND (Off:0 Def:2),,,,
+0020000546,59,1,5,1,8:20 AM,6:53,Sura  Layup (5 PTS) (Jackson 2 AST),,,8 - 14,6
+0020000546,60,9,1,1,8:20 AM,6:46,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,
+0020000546,62,1,1,1,8:22 AM,6:34,,,Gatling 16' Jump Shot (6 PTS) (Jackson 2 AST),10 - 14,4
+0020000546,63,1,1,1,8:23 AM,6:14,Jamison 17' Jump Shot (9 PTS) (Blaylock 1 AST),,,10 - 16,6
+0020000546,64,1,1,1,8:23 AM,5:55,,,Gatling 20' Jump Shot (8 PTS) (Jackson 3 AST),12 - 16,4
+0020000546,65,2,1,1,8:23 AM,5:42,MISS Mullin 17' Jump Shot,,,,
+0020000546,66,4,0,1,8:23 AM,5:41,,,Weatherspoon REBOUND (Off:2 Def:3),,
+0020000546,67,1,1,1,8:23 AM,5:29,,,Jackson 12' Jump Shot (2 PTS),14 - 16,2
+0020000546,68,2,1,1,8:24 AM,5:12,MISS Jackson 8' Jump Shot,,,,
+0020000546,69,4,0,1,8:24 AM,5:10,,,Henderson REBOUND (Off:0 Def:2),,
+0020000546,70,1,42,1,8:24 AM,5:06,,,Miller  Driving Layup (2 PTS),16 - 16,TIE
+0020000546,71,5,1,1,8:24 AM,4:51,Jackson Bad Pass Turnover (P1.T2),,,,
+0020000546,72,1,5,1,8:25 AM,4:40,,,Gatling  Layup (10 PTS) (Henderson 1 AST),18 - 16,-2
+0020000546,73,2,1,1,8:25 AM,4:27,MISS Jamison 18' Jump Shot,,,,
+0020000546,74,4,0,1,8:25 AM,4:26,,,Weatherspoon REBOUND (Off:2 Def:4),,
+0020000546,75,1,1,1,8:25 AM,4:12,,,Miller 14' Jump Shot (4 PTS),20 - 16,-4
+0020000546,76,9,1,1,8:25 AM,4:05,WARRIORS Timeout: Regular (Full 1 Short 0),,,,
+0020000546,78,2,1,1,8:28 AM,3:49,MISS Blaylock 15' Jump Shot,,Henderson BLOCK (2 BLK),,
+0020000546,79,4,0,1,8:28 AM,3:47,,,Weatherspoon REBOUND (Off:2 Def:5),,
+0020000546,80,6,1,1,8:28 AM,3:35,Jackson P.FOUL (P2.T4),,,,
+0020000546,81,8,0,1,8:29 AM,3:35,SUB: Keefe FOR Jackson,,,,
+0020000546,82,5,2,1,8:29 AM,3:26,Jamison STEAL (1 STL),,Gatling Lost Ball Turnover (P3.T4),,
+0020000546,83,6,2,1,8:29 AM,3:17,,,Jackson S.FOUL (P1.T3),,
+0020000546,84,3,11,1,8:29 AM,3:17,Sura Free Throw 1 of 2 (6 PTS),,,20 - 17,-3
+0020000546,85,8,0,1,8:30 AM,3:17,,,SUB: Traylor FOR Gatling,,
+0020000546,86,3,12,1,8:30 AM,3:17,Sura Free Throw 2 of 2 (7 PTS),,,20 - 18,-2
+0020000546,87,5,2,1,8:30 AM,3:00,Mullin STEAL (1 STL),,Jackson Lost Ball Turnover (P1.T5),,
+0020000546,88,6,2,1,8:30 AM,2:55,,,Henderson S.FOUL (P1.T4),,
+0020000546,89,3,11,1,8:31 AM,2:55,Mullin Free Throw 1 of 2 (1 PTS),,,20 - 19,-1
+0020000546,90,3,12,1,8:31 AM,2:55,Mullin Free Throw 2 of 2 (2 PTS),,,20 - 20,TIE
+0020000546,91,1,8,1,8:31 AM,2:42,,,Traylor  Slam Dunk (2 PTS) (Jackson 4 AST),22 - 20,-2
+0020000546,92,2,1,1,8:31 AM,2:34,MISS Jamison 22' Jump Shot,,,,
+0020000546,93,4,0,1,8:31 AM,2:32,,,Miller REBOUND (Off:0 Def:1),,
+0020000546,94,1,8,1,8:31 AM,2:30,,,Traylor  Slam Dunk (4 PTS) (Miller 1 AST),24 - 20,-4
+0020000546,95,9,2,1,8:32 AM,2:21,WARRIORS Timeout: Short (Full 1 Short 1),,,,
+0020000546,97,6,2,1,8:33 AM,2:17,,,Traylor S.FOUL (P1.PN),,
+0020000546,98,3,11,1,8:33 AM,2:17,Sura Free Throw 1 of 2 (8 PTS),,,24 - 21,-3
+0020000546,99,8,0,1,8:33 AM,2:17,SUB: Brown FOR Mullin,,,,
+0020000546,100,3,12,1,8:33 AM,2:17,Sura Free Throw 2 of 2 (9 PTS),,,24 - 22,-2
+0020000546,101,1,1,1,8:34 AM,1:57,,,Weatherspoon 13' Jump Shot (4 PTS) (Henderson 2 AST),26 - 22,-4
+0020000546,102,6,2,1,8:34 AM,1:45,,,Jackson S.FOUL (P2.PN),,
+0020000546,103,3,11,1,8:34 AM,1:45,MISS Sura Free Throw 1 of 2,,,,
+0020000546,104,4,1,1,8:34 AM,1:45,WARRIORS Rebound,,,,
+0020000546,105,8,0,1,8:34 AM,1:45,,,SUB: Langdon FOR Jackson,,
+0020000546,106,3,12,1,8:34 AM,1:45,Sura Free Throw 2 of 2 (10 PTS),,,26 - 23,-3
+0020000546,107,5,2,1,8:35 AM,1:27,Brown STEAL (1 STL),,Weatherspoon Lost Ball Turnover (P1.T6),,
+0020000546,108,2,58,1,8:35 AM,1:11,MISS Keefe 7' Turnaround Hook Shot,,,,
+0020000546,109,4,0,1,8:35 AM,1:10,,,Langdon REBOUND (Off:0 Def:1),,
+0020000546,110,6,1,1,8:35 AM,0:58,Keefe P.FOUL (P1.PN),,,,
+0020000546,111,3,11,1,8:36 AM,0:58,,,Miller Free Throw 1 of 2 (5 PTS),27 - 23,-4
+0020000546,112,8,0,1,8:36 AM,0:58,SUB: Cummings FOR Blaylock,,,,
+0020000546,113,3,12,1,8:36 AM,0:58,,,MISS Miller Free Throw 2 of 2,,
+0020000546,114,4,0,1,8:36 AM,0:57,Keefe REBOUND (Off:0 Def:1),,,,
+0020000546,115,5,2,1,8:36 AM,0:45,Sura Lost Ball Turnover (P2.T3),,Miller STEAL (1 STL),,
+0020000546,116,1,42,1,8:37 AM,0:41,,,Miller  Driving Layup (7 PTS),29 - 23,-6
+0020000546,117,2,1,1,8:37 AM,0:25,MISS Cummings 20' Jump Shot,,,,
+0020000546,118,4,0,1,8:37 AM,0:23,,,Henderson REBOUND (Off:0 Def:3),,
+0020000546,119,2,1,1,8:37 AM,0:00,,,MISS Henderson 19' Jump Shot,,
+0020000546,120,4,0,1,8:37 AM,0:00,Jamison REBOUND (Off:1 Def:3),,,,
+0020000546,121,13,0,1,8:37 AM,0:00,,,,29 - 23,-6
+0020000546,123,12,0,2,8:39 AM,12:00,,,,29 - 23,-6
+0020000546,124,1,5,2,8:40 AM,11:45,Brown  Layup (2 PTS) (Jamison 1 AST),,,29 - 25,-4
+0020000546,125,2,1,2,8:40 AM,11:25,,,MISS Henderson 14' Jump Shot,,
+0020000546,126,4,0,2,8:41 AM,11:24,Keefe REBOUND (Off:0 Def:2),,,,
+0020000546,127,1,1,2,8:41 AM,11:19,Jamison 15' Jump Shot (11 PTS) (Cummings 1 AST),,,29 - 27,-2
+0020000546,128,2,1,2,8:41 AM,11:06,,,MISS Langdon 16' Jump Shot,,
+0020000546,129,4,0,2,8:41 AM,11:05,Keefe REBOUND (Off:0 Def:3),,,,
+0020000546,130,2,1,2,8:41 AM,10:44,MISS Del Negro 18' Jump Shot,,,,
+0020000546,131,4,0,2,8:41 AM,10:43,,,Traylor REBOUND (Off:0 Def:1),,
+0020000546,132,1,1,2,8:41 AM,10:36,,,Johnson 5' Jump Shot (2 PTS) (Traylor 1 AST),31 - 27,-4
+0020000546,133,1,5,2,8:42 AM,10:21,Jamison  Layup (13 PTS) (Del Negro 1 AST),,,31 - 29,-2
+0020000546,134,1,8,2,8:42 AM,9:57,,,Henderson  Slam Dunk (2 PTS) (Langdon 1 AST),33 - 29,-4
+0020000546,135,6,2,2,8:42 AM,9:51,,,Henderson S.FOUL (P2.T1),,
+0020000546,136,3,11,2,8:42 AM,9:51,Brown Free Throw 1 of 2 (3 PTS),,,33 - 30,-3
+0020000546,137,8,0,2,8:43 AM,9:51,SUB: Jackson FOR Keefe,,,,
+0020000546,138,3,12,2,8:43 AM,9:51,MISS Brown Free Throw 2 of 2,,,,
+0020000546,139,4,0,2,8:43 AM,9:50,,,Traylor REBOUND (Off:0 Def:2),,
+0020000546,140,1,46,2,8:43 AM,9:44,,,Johnson 9' Running Jump Shot (4 PTS),35 - 30,-5
+0020000546,141,2,1,2,8:43 AM,9:28,MISS Jackson 18' Jump Shot,,,,
+0020000546,142,4,0,2,8:43 AM,9:27,,,Cavaliers Rebound,,
+0020000546,143,1,1,2,8:44 AM,9:14,,,Johnson 17' Jump Shot (6 PTS),37 - 30,-7
+0020000546,144,1,1,2,8:44 AM,8:53,Cummings 25' 3PT Jump Shot (3 PTS) (Del Negro 2 AST),,,37 - 33,-4
+0020000546,145,1,1,2,8:44 AM,8:35,,,Langdon 17' Jump Shot (2 PTS) (Johnson 1 AST),39 - 33,-6
+0020000546,146,1,1,2,8:45 AM,8:14,Jamison 18' Jump Shot (15 PTS) (Cummings 2 AST),,,39 - 35,-4
+0020000546,147,1,42,2,8:45 AM,7:59,,,Murray  Driving Layup (4 PTS) (Johnson 2 AST),41 - 35,-6
+0020000546,148,1,1,2,8:45 AM,7:40,Cummings 19' Jump Shot (5 PTS) (Jamison 2 AST),,,41 - 37,-4
+0020000546,149,9,4,2,8:46 AM,7:23,,,,,
+0020000546,151,8,0,2,8:48 AM,7:23,SUB: Sura FOR Del Negro,,,,
+0020000546,152,8,0,2,8:48 AM,7:23,SUB: Blaylock FOR Brown,,,,
+0020000546,153,1,1,2,8:48 AM,7:18,,,Johnson 19' Jump Shot (8 PTS),43 - 37,-6
+0020000546,154,6,2,2,8:48 AM,6:56,,,Johnson S.FOUL (P1.T2),,
+0020000546,155,3,11,2,8:49 AM,6:56,MISS Jamison Free Throw 1 of 2,,,,
+0020000546,156,4,1,2,8:49 AM,6:56,WARRIORS Rebound,,,,
+0020000546,157,3,12,2,8:49 AM,6:56,MISS Jamison Free Throw 2 of 2,,,,
+0020000546,158,4,0,2,8:49 AM,6:55,,,Traylor REBOUND (Off:0 Def:3),,
+0020000546,159,1,1,2,8:49 AM,6:46,,,Murray 25' 3PT Jump Shot (7 PTS) (Johnson 3 AST),46 - 37,-9
+0020000546,160,6,2,2,8:50 AM,6:29,,,Traylor S.FOUL (P2.T3),,
+0020000546,161,3,11,2,8:50 AM,6:29,Jackson Free Throw 1 of 2 (1 PTS),,,46 - 38,-8
+0020000546,162,3,12,2,8:50 AM,6:29,Jackson Free Throw 2 of 2 (2 PTS),,,46 - 39,-7
+0020000546,163,2,1,2,8:50 AM,6:16,,,MISS Henderson 6' Jump Shot,,
+0020000546,164,4,0,2,8:50 AM,6:15,Jackson REBOUND (Off:0 Def:3),,,,
+0020000546,165,2,1,2,8:51 AM,6:09,MISS Sura 24' 3PT Jump Shot,,,,
+0020000546,166,4,0,2,8:51 AM,6:05,Blaylock REBOUND (Off:1 Def:0),,,,
+0020000546,167,6,2,2,8:51 AM,6:05,,,Langdon S.FOUL (P1.T4),,
+0020000546,168,8,0,2,8:51 AM,6:05,,,SUB: Weatherspoon FOR Traylor,,
+0020000546,169,3,11,2,8:51 AM,6:05,Jackson Free Throw 1 of 2 (3 PTS),,,46 - 40,-6
+0020000546,170,3,12,2,8:51 AM,6:05,Jackson Free Throw 2 of 2 (4 PTS),,,46 - 41,-5
+0020000546,171,1,1,2,8:51 AM,5:54,,,Johnson 23' Jump Shot (10 PTS),48 - 41,-7
+0020000546,172,2,1,2,8:52 AM,5:46,MISS Sura 5' Jump Shot,,Weatherspoon BLOCK (1 BLK),,
+0020000546,173,4,0,2,8:52 AM,5:44,Sura REBOUND (Off:1 Def:1),,,,
+0020000546,174,9,1,2,8:52 AM,5:42,WARRIORS Timeout: Regular (Full 2 Short 1),,,,
+0020000546,184,8,0,2,8:52 AM,5:42,,,SUB: Gatling FOR Henderson,,
+0020000546,176,2,1,2,8:54 AM,5:31,MISS Blaylock 25' 3PT Jump Shot,,,,
+0020000546,177,4,0,2,8:54 AM,5:30,Jamison REBOUND (Off:2 Def:3),,,,
+0020000546,178,1,5,2,8:54 AM,5:27,Jackson  Layup (6 PTS) (Jamison 3 AST),,,48 - 43,-5
+0020000546,179,1,1,2,8:55 AM,5:12,,,Langdon 15' Jump Shot (4 PTS) (Johnson 4 AST),50 - 43,-7
+0020000546,180,6,1,2,8:55 AM,5:04,,,Gatling P.FOUL (P1.PN),,
+0020000546,181,3,11,2,8:55 AM,5:04,MISS Jackson Free Throw 1 of 2,,,,
+0020000546,182,4,1,2,8:55 AM,5:04,WARRIORS Rebound,,,,
+0020000546,183,3,12,2,8:55 AM,5:04,Jackson Free Throw 2 of 2 (7 PTS),,,50 - 44,-6
+0020000546,185,2,5,2,8:56 AM,4:43,,,MISS Weatherspoon 3' Layup,,
+0020000546,186,4,0,2,8:56 AM,4:42,Blaylock REBOUND (Off:1 Def:1),,,,
+0020000546,187,1,1,2,8:56 AM,4:38,Blaylock 24' 3PT Jump Shot (5 PTS) (Sura 2 AST),,,50 - 47,-3
+0020000546,188,1,5,2,8:56 AM,4:20,,,Murray  Layup (9 PTS) (Langdon 2 AST),52 - 47,-5
+0020000546,189,5,2,2,8:56 AM,4:09,Jackson Lost Ball Turnover (P2.T4),,Langdon STEAL (1 STL),,
+0020000546,190,5,2,2,8:56 AM,4:03,Cummings STEAL (1 STL),,Murray Lost Ball Turnover (P2.T7),,
+0020000546,191,5,1,2,8:56 AM,3:58,Cummings Bad Pass Turnover (P1.T5),,Johnson STEAL (1 STL),,
+0020000546,192,1,1,2,8:57 AM,3:36,,,Johnson 15' Jump Shot (12 PTS) (Langdon 3 AST),54 - 47,-7
+0020000546,193,2,1,2,8:57 AM,3:13,MISS Sura 24' 3PT Jump Shot,,,,
+0020000546,194,4,0,2,8:57 AM,3:11,,,Gatling REBOUND (Off:2 Def:2),,
+0020000546,196,2,5,2,8:57 AM,2:59,,,MISS Murray  Layup,,
+0020000546,197,4,0,2,8:57 AM,2:58,Jackson REBOUND (Off:0 Def:4),,,,
+0020000546,198,5,1,2,8:58 AM,2:51,Blaylock Bad Pass Turnover (P1.T6),,,,
+0020000546,199,9,1,2,8:58 AM,2:51,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,
+0020000546,201,2,1,2,9:00 AM,2:33,,,MISS Langdon  3PT Jump Shot,,
+0020000546,202,4,0,2,9:00 AM,2:31,Jackson REBOUND (Off:0 Def:5),,,,
+0020000546,203,2,1,2,9:00 AM,2:17,MISS Jackson 18' Jump Shot,,,,
+0020000546,204,4,0,2,9:00 AM,2:16,,,Gatling REBOUND (Off:2 Def:3),,
+0020000546,205,2,1,2,9:00 AM,2:05,,,MISS Weatherspoon 7' Jump Shot,,
+0020000546,206,4,0,2,9:01 AM,2:04,Jamison REBOUND (Off:2 Def:4),,,,
+0020000546,207,1,42,2,9:01 AM,1:58,Blaylock  Driving Layup (7 PTS),,,54 - 49,-5
+0020000546,208,6,1,2,9:01 AM,1:40,Sura P.FOUL (P2.T1),,,,
+0020000546,209,8,0,2,9:01 AM,1:40,,,SUB: Miller FOR Langdon,,
+0020000546,210,6,2,2,9:01 AM,1:30,Blaylock S.FOUL (P1.PN),,,,
+0020000546,211,8,0,2,9:02 AM,1:30,SUB: Brown FOR Sura,,,,
+0020000546,212,3,11,2,9:02 AM,1:30,,,Gatling Free Throw 1 of 2 (11 PTS),55 - 49,-6
+0020000546,213,3,12,2,9:02 AM,1:30,,,Gatling Free Throw 2 of 2 (12 PTS),56 - 49,-7
+0020000546,214,6,1,2,9:02 AM,1:21,,,Miller P.FOUL (P1.PN),,
+0020000546,215,3,11,2,9:03 AM,1:21,Cummings Free Throw 1 of 2 (6 PTS),,,56 - 50,-6
+0020000546,216,3,12,2,9:03 AM,1:21,Cummings Free Throw 2 of 2 (7 PTS),,,56 - 51,-5
+0020000546,217,2,1,2,9:03 AM,1:05,,,MISS Murray 19' Jump Shot,,
+0020000546,218,4,0,2,9:03 AM,1:03,WARRIORS Rebound,,,,
+0020000546,219,1,46,2,9:04 AM,0:52,Jamison 6' Running Jump Shot (17 PTS) (Cummings 3 AST),,,56 - 53,-3
+0020000546,220,2,5,2,9:04 AM,0:45,Jamison BLOCK (1 BLK),,MISS Weatherspoon 2' Layup,,
+0020000546,221,4,0,2,9:04 AM,0:44,Blaylock REBOUND (Off:1 Def:2),,,,
+0020000546,222,2,1,2,9:04 AM,0:32,MISS Cummings  3PT Jump Shot,,,,
+0020000546,223,4,0,2,9:04 AM,0:31,,,Johnson REBOUND (Off:0 Def:1),,
+0020000546,224,1,1,2,9:04 AM,0:15,,,Weatherspoon 6' Jump Shot (6 PTS) (Miller 2 AST),58 - 53,-5
+0020000546,225,2,1,2,9:05 AM,0:00,MISS Brown 25' 3PT Jump Shot,,,,
+0020000546,226,4,0,2,9:05 AM,0:00,Jackson REBOUND (Off:1 Def:5),,,,
+0020000546,227,13,0,2,9:05 AM,0:00,,,,58 - 53,-5
+0020000546,229,12,0,3,9:20 AM,12:00,,,,58 - 53,-5
+0020000546,230,1,5,3,9:21 AM,11:46,Jamison  Layup (19 PTS) (Sura 3 AST),,,58 - 55,-3
+0020000546,231,2,1,3,9:22 AM,11:22,,,MISS Jackson 25' 3PT Jump Shot,,
+0020000546,232,4,0,3,9:22 AM,11:21,Sura REBOUND (Off:1 Def:2),,,,
+0020000546,233,2,42,3,9:22 AM,11:15,MISS Jackson  Driving Layup,,,,
+0020000546,234,4,0,3,9:22 AM,11:13,,,Gatling REBOUND (Off:2 Def:4),,
+0020000546,235,6,1,3,9:22 AM,11:05,Mullin P.FOUL (P1.T1),,,,
+0020000546,236,2,1,3,9:22 AM,11:01,,,MISS Jackson 18' Jump Shot,,
+0020000546,237,4,0,3,9:22 AM,11:00,Jamison REBOUND (Off:2 Def:5),,,,
+0020000546,238,2,1,3,9:23 AM,10:45,MISS Mullin  3PT Jump Shot,,,,
+0020000546,239,4,0,3,9:23 AM,10:43,Jackson REBOUND (Off:2 Def:5),,,,
+0020000546,240,1,1,3,9:23 AM,10:39,Jackson 8' Jump Shot (9 PTS),,,58 - 57,-1
+0020000546,241,2,1,3,9:23 AM,10:27,,,MISS Gatling 6' Jump Shot,,
+0020000546,242,4,0,3,9:23 AM,10:26,WARRIORS Rebound,,,,
+0020000546,243,6,3,3,9:23 AM,10:26,,,Gatling L.B.FOUL (P2.T1),,
+0020000546,244,1,1,3,9:24 AM,10:06,Jamison 16' Jump Shot (21 PTS) (Sura 4 AST),,,58 - 59,1
+0020000546,245,2,1,3,9:24 AM,9:44,,,MISS Miller 17' Jump Shot,,
+0020000546,246,4,0,3,9:24 AM,9:43,Jackson REBOUND (Off:2 Def:6),,,,
+0020000546,247,1,1,3,9:24 AM,9:35,Jackson 17' Jump Shot (11 PTS) (Sura 5 AST),,,58 - 61,3
+0020000546,248,9,2,3,9:24 AM,9:33,,,Cavaliers Timeout: Short (Reg.2 Short 1),,
+0020000546,250,8,0,3,9:25 AM,9:33,,,SUB: Traylor FOR Gatling,,
+0020000546,251,5,1,3,9:25 AM,9:10,,,Murray Bad Pass Turnover (P3.T8),,
+0020000546,252,2,1,3,9:26 AM,8:56,MISS Jamison 8' Jump Shot,,,,
+0020000546,253,4,0,3,9:26 AM,8:55,,,Murray REBOUND (Off:0 Def:1),,
+0020000546,254,1,5,3,9:26 AM,8:47,,,Weatherspoon  Layup (8 PTS) (Miller 3 AST),60 - 61,1
+0020000546,255,1,1,3,9:26 AM,8:29,Mullin  3PT Jump Shot (5 PTS) (Jamison 4 AST),,,60 - 64,4
+0020000546,256,2,1,3,9:27 AM,8:11,,,MISS Murray 21' Jump Shot,,
+0020000546,257,4,0,3,9:27 AM,8:10,Mullin REBOUND (Off:0 Def:1),,,,
+0020000546,258,1,1,3,9:27 AM,8:01,Mullin 25' 3PT Jump Shot (8 PTS) (Blaylock 2 AST),,,60 - 67,7
+0020000546,259,5,2,3,9:27 AM,7:33,Mullin STEAL (2 STL),,Miller Lost Ball Turnover (P1.T9),,
+0020000546,260,1,5,3,9:27 AM,7:28,Sura  Layup (12 PTS) (Blaylock 3 AST),,,60 - 69,9
+0020000546,261,9,1,3,9:28 AM,7:28,,,Cavaliers Timeout: Regular (Reg.3 Short 1),,
+0020000546,263,8,0,3,9:29 AM,7:28,,,SUB: Henderson FOR Murray,,
+0020000546,264,2,1,3,9:30 AM,7:11,,,MISS Jackson 8' Jump Shot,,
+0020000546,265,4,0,3,9:30 AM,7:10,Jamison REBOUND (Off:2 Def:6),,,,
+0020000546,266,6,1,3,9:30 AM,7:10,,,Jackson P.FOUL (P3.T2),,
+0020000546,267,8,0,3,9:30 AM,7:10,,,SUB: Langdon FOR Jackson,,
+0020000546,268,1,1,3,9:30 AM,6:48,Blaylock 24' 3PT Jump Shot (10 PTS) (Sura 6 AST),,,60 - 72,12
+0020000546,269,6,1,3,9:31 AM,6:35,Blaylock P.FOUL (P2.T2),,,,
+0020000546,270,1,1,3,9:31 AM,6:22,,,Miller 8' Jump Shot (9 PTS) (Weatherspoon 2 AST),62 - 72,10
+0020000546,271,6,2,3,9:31 AM,6:16,,,Langdon S.FOUL (P2.T3),,
+0020000546,272,3,11,3,9:32 AM,6:16,MISS Jackson Free Throw 1 of 2,,,,
+0020000546,273,4,1,3,9:32 AM,6:16,WARRIORS Rebound,,,,
+0020000546,274,3,12,3,9:32 AM,6:16,Jackson Free Throw 2 of 2 (12 PTS),,,62 - 73,11
+0020000546,275,6,4,3,9:32 AM,6:05,,,Langdon OFF.Foul (P3),,
+0020000546,276,5,5,3,9:32 AM,6:05,,,Langdon Foul Turnover (P1.T10),,
+0020000546,277,5,1,3,9:33 AM,5:54,Blaylock Bad Pass Turnover (P2.T7),,,,
+0020000546,278,2,1,3,9:33 AM,5:38,,,MISS Miller 19' Jump Shot,,
+0020000546,279,4,0,3,9:33 AM,5:37,Sura REBOUND (Off:1 Def:3),,,,
+0020000546,280,6,4,3,9:33 AM,5:25,Sura OFF.Foul (P3),,,,
+0020000546,281,5,5,3,9:33 AM,5:25,Sura Foul Turnover (P3.T8),,,,
+0020000546,282,6,11,3,9:33 AM,5:25,Sura T.FOUL (P3.T2),,,,
+0020000546,283,8,0,3,9:34 AM,5:25,SUB: Cummings FOR Mullin,,,,
+0020000546,284,3,16,3,9:34 AM,5:25,,,Langdon Free Throw Technical (5 PTS),63 - 73,10
+0020000546,285,8,0,3,9:34 AM,5:25,,,SUB: Johnson FOR Miller,,
+0020000546,286,5,4,3,9:34 AM,5:16,,,Traylor Traveling Turnover (P1.T11),,
+0020000546,287,2,1,3,9:34 AM,5:04,MISS Blaylock 6' Jump Shot,,,,
+0020000546,289,4,0,3,9:34 AM,5:03,Jackson REBOUND (Off:3 Def:6),,,,
+0020000546,288,1,4,3,9:34 AM,5:02,Jackson  Tip Shot (14 PTS),,,63 - 75,12
+0020000546,290,5,1,3,9:35 AM,4:40,Jackson STEAL (2 STL),,Henderson Bad Pass Turnover (P1.T12),,
+0020000546,291,2,1,3,9:35 AM,4:30,MISS Sura  3PT Jump Shot,,,,
+0020000546,292,4,0,3,9:35 AM,4:29,,,Henderson REBOUND (Off:0 Def:4),,
+0020000546,293,6,2,3,9:35 AM,4:21,Sura S.FOUL (P4.T3),,,,
+0020000546,294,3,11,3,9:35 AM,4:21,,,Weatherspoon Free Throw 1 of 2 (9 PTS),64 - 75,11
+0020000546,295,8,0,3,9:36 AM,4:21,SUB: Mullin FOR Sura,,,,
+0020000546,296,3,12,3,9:36 AM,4:21,,,Weatherspoon Free Throw 2 of 2 (10 PTS),65 - 75,10
+0020000546,297,2,1,3,9:36 AM,4:02,MISS Jamison 16' Jump Shot,,,,
+0020000546,298,4,0,3,9:36 AM,3:59,Cummings REBOUND (Off:1 Def:0),,,,
+0020000546,299,2,1,3,9:36 AM,3:58,MISS Cummings 5' Jump Shot,,Weatherspoon BLOCK (2 BLK),,
+0020000546,300,4,0,3,9:36 AM,3:55,Blaylock REBOUND (Off:2 Def:2),,,,
+0020000546,301,2,1,3,9:36 AM,3:49,MISS Jackson 10' Jump Shot,,,,
+0020000546,302,4,0,3,9:36 AM,3:48,,,Traylor REBOUND (Off:0 Def:4),,
+0020000546,303,2,7,3,9:36 AM,3:41,,,MISS Johnson  Dunk,,
+0020000546,304,4,0,3,9:36 AM,3:40,,,Weatherspoon REBOUND (Off:3 Def:5),,
+0020000546,305,1,5,3,9:36 AM,3:38,,,Weatherspoon  Layup (12 PTS),67 - 75,8
+0020000546,306,9,1,3,9:37 AM,3:37,WARRIORS Timeout: Regular (Full 3 Short 1),,,,
+0020000546,308,5,1,3,9:39 AM,3:21,Blaylock Bad Pass Turnover (P3.T9),,Weatherspoon STEAL (1 STL),,
+0020000546,309,1,1,3,9:39 AM,3:16,,,Langdon 24' 3PT Jump Shot (8 PTS) (Johnson 5 AST),70 - 75,5
+0020000546,310,1,1,3,9:39 AM,2:57,Cummings 21' Jump Shot (9 PTS) (Blaylock 4 AST),,,70 - 77,7
+0020000546,311,6,2,3,9:40 AM,2:39,Cummings S.FOUL (P1.T4),,,,
+0020000546,312,3,11,3,9:40 AM,2:39,,,MISS Weatherspoon Free Throw 1 of 2,,
+0020000546,313,4,1,3,9:40 AM,2:39,,,Cavaliers Rebound,,
+0020000546,314,3,12,3,9:40 AM,2:39,,,MISS Weatherspoon Free Throw 2 of 2,,
+0020000546,315,4,0,3,9:40 AM,2:38,Blaylock REBOUND (Off:2 Def:3),,,,
+0020000546,316,2,1,3,9:40 AM,2:27,MISS Cummings 16' Jump Shot,,,,
+0020000546,318,4,0,3,9:40 AM,2:26,Blaylock REBOUND (Off:3 Def:3),,,,
+0020000546,317,2,4,3,9:40 AM,2:25,MISS Blaylock  Tip Shot,,,,
+0020000546,319,4,0,3,9:41 AM,2:24,,,Weatherspoon REBOUND (Off:3 Def:6),,
+0020000546,320,5,1,3,9:41 AM,2:19,,,Johnson Bad Pass Turnover (P1.T13),,
+0020000546,321,2,1,3,9:41 AM,1:54,MISS Jamison 17' Jump Shot,,,,
+0020000546,322,4,0,3,9:41 AM,1:53,Mullin REBOUND (Off:1 Def:1),,,,
+0020000546,323,5,11,3,9:41 AM,1:53,WARRIORS Turnover: Shot Clock (T#10),,,,
+0020000546,324,1,5,3,9:42 AM,1:40,,,Weatherspoon  Layup (14 PTS) (Johnson 6 AST),72 - 77,5
+0020000546,325,2,1,3,9:42 AM,1:18,MISS Jamison 8' Jump Shot,,Weatherspoon BLOCK (3 BLK),,
+0020000546,326,4,0,3,9:42 AM,1:15,,,Traylor REBOUND (Off:0 Def:5),,
+0020000546,327,2,1,3,9:42 AM,1:13,,,MISS Henderson 11' Jump Shot,,
+0020000546,329,4,0,3,9:42 AM,1:12,,,Weatherspoon REBOUND (Off:4 Def:6),,
+0020000546,328,1,4,3,9:42 AM,1:11,,,Weatherspoon  Tip Shot (16 PTS),74 - 77,3
+0020000546,330,9,1,3,9:43 AM,1:05,WARRIORS Timeout: Regular (Full 4 Short 1),,,,
+0020000546,332,8,0,3,9:44 AM,1:05,SUB: Del Negro FOR Blaylock,,,,
+0020000546,333,8,0,3,9:44 AM,1:05,SUB: Keefe FOR Jamison,,,,
+0020000546,334,1,1,3,9:45 AM,0:47,Cummings 14' Jump Shot (11 PTS) (Del Negro 3 AST),,,74 - 79,5
+0020000546,335,6,4,3,9:45 AM,0:24,,,Weatherspoon OFF.Foul (P2),,
+0020000546,336,5,5,3,9:45 AM,0:24,,,Weatherspoon Foul Turnover (P2.T14),,
+0020000546,337,1,1,3,9:46 AM,0:04,Mullin 25' 3PT Jump Shot (11 PTS) (Del Negro 4 AST),,,74 - 82,8
+0020000546,338,6,1,3,9:46 AM,0:01,Cummings P.FOUL (P2.PN),,,,
+0020000546,339,3,11,3,9:46 AM,0:01,,,Johnson Free Throw 1 of 2 (13 PTS),75 - 82,7
+0020000546,340,3,12,3,9:47 AM,0:01,,,Johnson Free Throw 2 of 2 (14 PTS),76 - 82,6
+0020000546,341,13,0,3,9:47 AM,0:00,,,,76 - 82,6
+0020000546,343,12,0,4,9:49 AM,12:00,,,,76 - 82,6
+0020000546,344,2,1,4,9:50 AM,11:40,Cummings BLOCK (1 BLK),,MISS Henderson 4' Jump Shot,,
+0020000546,345,4,0,4,9:50 AM,11:39,,,Traylor REBOUND (Off:1 Def:5),,
+0020000546,346,2,1,4,9:50 AM,11:37,,,MISS Traylor 5' Jump Shot,,
+0020000546,348,4,0,4,9:50 AM,11:36,,,Traylor REBOUND (Off:2 Def:5),,
+0020000546,347,1,40,4,9:50 AM,11:35,,,Traylor  Layup (6 PTS),78 - 82,4
+0020000546,349,5,1,4,9:50 AM,11:19,Jackson Bad Pass Turnover (P3.T11),,Johnson STEAL (2 STL),,
+0020000546,350,6,2,4,9:51 AM,11:16,Jackson S.FOUL (P3.T1),,,,
+0020000546,351,3,11,4,9:51 AM,11:16,,,MISS Murray Free Throw 1 of 2,,
+0020000546,352,4,1,4,9:51 AM,11:16,,,Cavaliers Rebound,,
+0020000546,353,3,12,4,9:51 AM,11:16,,,Murray Free Throw 2 of 2 (10 PTS),79 - 82,3
+0020000546,354,6,1,4,9:52 AM,11:12,,,Johnson P.FOUL (P2.T1),,
+0020000546,355,2,1,4,9:52 AM,10:51,MISS Mullin 14' Jump Shot,,,,
+0020000546,356,4,0,4,9:52 AM,10:49,Mullin REBOUND (Off:2 Def:1),,,,
+0020000546,357,5,2,4,9:53 AM,10:33,Jackson Lost Ball Turnover (P4.T12),,Murray STEAL (1 STL),,
+0020000546,358,1,1,4,9:53 AM,10:27,,,Johnson 17' Jump Shot (16 PTS),81 - 82,1
+0020000546,359,1,1,4,9:53 AM,10:07,Mullin 15' Jump Shot (13 PTS),,,81 - 84,3
+0020000546,360,2,1,4,9:53 AM,9:51,,,MISS Johnson 17' Jump Shot,,
+0020000546,361,4,0,4,9:53 AM,9:48,,,Henderson REBOUND (Off:1 Def:4),,
+0020000546,362,6,2,4,9:54 AM,9:38,Keefe S.FOUL (P2.T2),,,,
+0020000546,363,8,0,4,9:54 AM,9:38,SUB: Blaylock FOR Del Negro,,,,
+0020000546,364,8,0,4,9:54 AM,9:38,SUB: Jamison FOR Keefe,,,,
+0020000546,365,3,11,4,9:54 AM,9:38,,,Henderson Free Throw 1 of 2 (3 PTS),82 - 84,2
+0020000546,366,8,0,4,9:54 AM,9:38,SUB: Curley FOR Jackson,,,,
+0020000546,367,3,12,4,9:54 AM,9:38,,,Henderson Free Throw 2 of 2 (4 PTS),83 - 84,1
+0020000546,368,2,1,4,9:54 AM,9:27,MISS Mullin 18' Jump Shot,,,,
+0020000546,369,4,0,4,9:54 AM,9:26,,,Traylor REBOUND (Off:2 Def:6),,
+0020000546,370,2,1,4,9:55 AM,9:20,,,MISS Langdon  3PT Jump Shot,,
+0020000546,371,4,0,4,9:55 AM,9:18,Jamison REBOUND (Off:2 Def:7),,,,
+0020000546,372,6,2,4,9:55 AM,9:14,,,Johnson S.FOUL (P3.T2),,
+0020000546,373,3,11,4,9:55 AM,9:14,Cummings Free Throw 1 of 2 (12 PTS),,,83 - 85,2
+0020000546,374,8,0,4,9:55 AM,9:14,,,SUB: Miller FOR Johnson,,
+0020000546,375,3,12,4,9:55 AM,9:14,Cummings Free Throw 2 of 2 (13 PTS),,,83 - 86,3
+0020000546,376,1,1,4,9:56 AM,8:59,,,Murray  3PT Jump Shot (13 PTS) (Miller 4 AST),86 - 86,TIE
+0020000546,377,9,4,4,9:56 AM,8:39,,,,,
+0020000546,379,10,0,4,9:58 AM,8:39,Jump Ball Jamison vs. Miller: Tip to Blaylock,,,,
+0020000546,380,2,1,4,9:59 AM,8:27,MISS Jamison 10' Jump Shot,,,,
+0020000546,381,4,0,4,9:59 AM,8:24,,,Miller REBOUND (Off:0 Def:2),,
+0020000546,382,6,2,4,9:59 AM,8:22,Mullin S.FOUL (P2.T3),,,,
+0020000546,383,3,11,4,10:00 AM,8:22,,,Murray Free Throw 1 of 2 (14 PTS),87 - 86,-1
+0020000546,384,3,12,4,10:00 AM,8:22,,,Murray Free Throw 2 of 2 (15 PTS),88 - 86,-2
+0020000546,385,1,1,4,10:00 AM,8:05,Curley 12' Jump Shot (2 PTS) (Blaylock 5 AST),,,88 - 88,TIE
+0020000546,386,6,2,4,10:01 AM,7:51,Curley S.FOUL (P1.T4),,,,
+0020000546,387,3,11,4,10:01 AM,7:51,,,MISS Traylor Free Throw 1 of 2,,
+0020000546,388,4,1,4,10:01 AM,7:51,,,Cavaliers Rebound,,
+0020000546,389,3,12,4,10:01 AM,7:51,,,Traylor Free Throw 2 of 2 (7 PTS),89 - 88,-1
+0020000546,390,6,1,4,10:02 AM,7:39,,,Miller P.FOUL (P2.T3),,
+0020000546,391,1,5,4,10:02 AM,7:34,Jamison  Layup (23 PTS) (Cummings 4 AST),,,89 - 90,1
+0020000546,393,5,8,4,10:02 AM,7:12,,,Traylor 3 Second Violation Turnover (P2.T15),,
+0020000546,394,2,1,4,10:03 AM,6:51,MISS Cummings 20' Jump Shot,,Henderson BLOCK (3 BLK),,
+0020000546,395,4,0,4,10:03 AM,6:49,Curley REBOUND (Off:1 Def:0),,,,
+0020000546,396,5,11,4,10:03 AM,6:48,WARRIORS Turnover: Shot Clock (T#13),,,,
+0020000546,397,6,4,4,10:03 AM,6:36,,,Murray OFF.Foul (P3),,
+0020000546,398,5,5,4,10:03 AM,6:36,,,Murray Foul Turnover (P4.T16),,
+0020000546,399,2,1,4,10:04 AM,6:21,MISS Mullin 24' 3PT Jump Shot,,,,
+0020000546,400,4,0,4,10:04 AM,6:19,Jamison REBOUND (Off:3 Def:7),,,,
+0020000546,401,6,2,4,10:04 AM,6:19,,,Henderson S.FOUL (P3.T4),,
+0020000546,402,3,11,4,10:04 AM,6:19,Jamison Free Throw 1 of 2 (24 PTS),,,89 - 91,2
+0020000546,403,8,0,4,10:04 AM,6:19,SUB: Jackson FOR Curley,,,,
+0020000546,404,3,12,4,10:04 AM,6:19,Jamison Free Throw 2 of 2 (25 PTS),,,89 - 92,3
+0020000546,405,5,1,4,10:05 AM,6:03,Blaylock STEAL (1 STL),,Miller Bad Pass Turnover (P2.T17),,
+0020000546,406,6,1,4,10:05 AM,5:46,,,Murray P.FOUL (P4.PN),,
+0020000546,407,9,1,4,10:05 AM,5:46,WARRIORS Timeout: Regular (Full 5 Short 1),,,,
+0020000546,410,8,0,4,10:08 AM,5:46,,,SUB: Weatherspoon FOR Henderson,,
+0020000546,411,3,11,4,10:08 AM,5:46,Jamison Free Throw 1 of 2 (26 PTS),,,89 - 93,4
+0020000546,412,3,12,4,10:08 AM,5:46,MISS Jamison Free Throw 2 of 2,,,,
+0020000546,413,4,0,4,10:08 AM,5:45,,,Weatherspoon REBOUND (Off:4 Def:7),,
+0020000546,414,5,1,4,10:08 AM,5:32,,,Murray Bad Pass Turnover (P5.T18),,
+0020000546,415,1,5,4,10:09 AM,5:15,Jackson  Layup (16 PTS) (Cummings 5 AST),,,89 - 95,6
+0020000546,416,6,2,4,10:09 AM,5:06,Blaylock S.FOUL (P3.PN),,,,
+0020000546,417,3,11,4,10:09 AM,5:06,,,MISS Weatherspoon Free Throw 1 of 2,,
+0020000546,418,4,1,4,10:09 AM,5:06,,,Cavaliers Rebound,,
+0020000546,419,3,12,4,10:09 AM,5:06,,,Weatherspoon Free Throw 2 of 2 (17 PTS),90 - 95,5
+0020000546,420,2,1,4,10:09 AM,4:53,MISS Cummings 17' Jump Shot,,,,
+0020000546,421,4,0,4,10:09 AM,4:51,,,Miller REBOUND (Off:0 Def:3),,
+0020000546,422,6,1,4,10:10 AM,4:49,Blaylock P.FOUL (P4.PN),,,,
+0020000546,423,3,11,4,10:10 AM,4:49,,,Miller Free Throw 1 of 2 (10 PTS),91 - 95,4
+0020000546,424,3,12,4,10:10 AM,4:49,,,Miller Free Throw 2 of 2 (11 PTS),92 - 95,3
+0020000546,425,5,8,4,10:11 AM,4:31,Jackson 3 Second Violation Turnover (P5.T14),,,,
+0020000546,426,1,1,4,10:11 AM,4:17,,,Murray 17' Jump Shot (17 PTS) (Langdon 4 AST),94 - 95,1
+0020000546,427,5,1,4,10:11 AM,3:56,Mullin Bad Pass Turnover (P1.T15),,,,
+0020000546,428,6,4,4,10:12 AM,3:36,,,Traylor OFF.Foul (P3),,
+0020000546,429,5,5,4,10:12 AM,3:36,,,Traylor Foul Turnover (P3.T19),,
+0020000546,430,8,0,4,10:12 AM,3:36,SUB: Sura FOR Cummings,,,,
+0020000546,431,5,2,4,10:12 AM,3:25,Sura Lost Ball Turnover (P4.T16),,,,
+0020000546,432,1,1,4,10:13 AM,3:08,,,Miller 9' Jump Shot (13 PTS) (Murray 1 AST),96 - 95,-1
+0020000546,433,2,1,4,10:13 AM,2:41,MISS Jamison 9' Jump Shot,,,,
+0020000546,434,4,0,4,10:13 AM,2:40,,,Langdon REBOUND (Off:0 Def:2),,
+0020000546,435,1,1,4,10:13 AM,2:26,,,Murray 18' Jump Shot (19 PTS) (Miller 5 AST),98 - 95,-3
+0020000546,436,9,2,4,10:14 AM,2:24,WARRIORS Timeout: Short (Full 5 Short 2),,,,
+0020000546,438,9,1,4,10:14 AM,2:24,,,Cavaliers Timeout: Regular (Reg.4 Short 1),,
+0020000546,440,8,0,4,10:16 AM,2:24,SUB: Cummings FOR Mullin,,,,
+0020000546,441,5,1,4,10:16 AM,2:10,Blaylock Bad Pass Turnover (P4.T17),,Weatherspoon STEAL (2 STL),,
+0020000546,442,1,5,4,10:17 AM,1:50,,,Weatherspoon  Layup (19 PTS) (Miller 6 AST),100 - 95,-5
+0020000546,443,5,3,4,10:17 AM,1:28,Cummings Out Of Bounds Turnover (P2.T18),,,,
+0020000546,444,1,5,4,10:17 AM,1:10,,,Weatherspoon  Layup (21 PTS) (Miller 7 AST),102 - 95,-7
+0020000546,445,6,2,4,10:17 AM,1:10,Sura S.FOUL (P5.PN),,,,
+0020000546,446,3,10,4,10:18 AM,1:10,,,Weatherspoon Free Throw 1 of 1 (22 PTS),103 - 95,-8
+0020000546,447,6,2,4,10:18 AM,1:06,,,Langdon S.FOUL (P4.PN),,
+0020000546,448,3,11,4,10:18 AM,1:06,Sura Free Throw 1 of 2 (13 PTS),,,103 - 96,-7
+0020000546,449,3,12,4,10:18 AM,1:06,Sura Free Throw 2 of 2 (14 PTS),,,103 - 97,-6
+0020000546,450,2,1,4,10:19 AM,0:46,Sura BLOCK (1 BLK),,MISS Miller 6' Jump Shot,,
+0020000546,451,4,0,4,10:19 AM,0:45,Sura REBOUND (Off:1 Def:4),,,,
+0020000546,452,6,1,4,10:19 AM,0:44,,,Traylor P.FOUL (P4.PN),,
+0020000546,453,3,11,4,10:19 AM,0:44,Sura Free Throw 1 of 2 (15 PTS),,,103 - 98,-5
+0020000546,454,3,12,4,10:19 AM,0:44,Sura Free Throw 2 of 2 (16 PTS),,,103 - 99,-4
+0020000546,455,6,1,4,10:20 AM,0:35,Blaylock P.FOUL (P5.PN),,,,
+0020000546,456,3,11,4,10:20 AM,0:35,,,MISS Miller Free Throw 1 of 2,,
+0020000546,457,4,1,4,10:20 AM,0:35,,,Cavaliers Rebound,,
+0020000546,458,3,12,4,10:20 AM,0:35,,,Miller Free Throw 2 of 2 (14 PTS),104 - 99,-5
+0020000546,459,9,1,4,10:20 AM,0:35,WARRIORS Timeout: Regular (Full 6 Short 2),,,,
+0020000546,461,2,42,4,10:22 AM,0:31,MISS Blaylock  Driving Layup,,,,
+0020000546,462,4,0,4,10:22 AM,0:30,,,Traylor REBOUND (Off:2 Def:7),,
+0020000546,463,6,3,4,10:22 AM,0:30,Jackson L.B.FOUL (P4.PN),,,,
+0020000546,464,3,11,4,10:23 AM,0:30,,,MISS Traylor Free Throw 1 of 2,,
+0020000546,465,4,1,4,10:23 AM,0:30,,,Cavaliers Rebound,,
+0020000546,466,3,12,4,10:23 AM,0:30,,,MISS Traylor Free Throw 2 of 2,,
+0020000546,467,4,0,4,10:23 AM,0:28,,,Miller REBOUND (Off:1 Def:3),,
+0020000546,468,6,1,4,10:23 AM,0:24,Cummings P.FOUL (P3.PN),,,,
+0020000546,469,3,11,4,10:23 AM,0:24,,,Miller Free Throw 1 of 2 (15 PTS),105 - 99,-6
+0020000546,470,3,12,4,10:24 AM,0:24,,,MISS Miller Free Throw 2 of 2,,
+0020000546,471,4,0,4,10:24 AM,0:23,Jackson REBOUND (Off:3 Def:7),,,,
+0020000546,472,2,1,4,10:24 AM,0:13,MISS Blaylock 25' 3PT Jump Shot,,,,
+0020000546,473,4,0,4,10:24 AM,0:12,,,Miller REBOUND (Off:1 Def:4),,
+0020000546,474,6,3,4,10:24 AM,0:10,Jackson L.B.FOUL (P5.PN),,,,
+0020000546,475,3,11,4,10:24 AM,0:10,,,Miller Free Throw 1 of 2 (16 PTS),106 - 99,-7
+0020000546,476,3,12,4,10:25 AM,0:10,,,Miller Free Throw 2 of 2 (17 PTS),107 - 99,-8
+0020000546,477,1,42,4,10:25 AM,0:04,Blaylock  Driving Layup (12 PTS),,,107 - 101,-6
+0020000546,478,13,0,4,10:25 AM,0:00,,,,107 - 101,-6

@@ -1,0 +1,462 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900005,1,12,0,1,7:14 PM,12:00,,,,,
+0020900005,2,10,0,1,7:15 PM,12:00,Jump Ball Smith vs. Hibbert: Tip to Johnson,,,,
+0020900005,3,5,2,1,7:19 PM,11:42,Johnson Lost Ball Turnover (P1.T1),,Granger STEAL (1 STL),,
+0020900005,4,5,2,1,7:19 PM,11:38,Johnson STEAL (1 STL),,Granger Lost Ball Turnover (P1.T1),,
+0020900005,5,1,5,1,7:19 PM,11:35,Smith  Layup (2 PTS) (Johnson 1 AST),,,0 - 2,2
+0020900005,6,2,1,1,7:20 PM,11:18,,,MISS Granger 24' 3PT Jump Shot,,
+0020900005,7,4,0,1,7:20 PM,11:16,Horford REBOUND (Off:0 Def:1),,,,
+0020900005,8,2,1,1,7:20 PM,11:00,MISS Bibby 20' Jump Shot,,,,
+0020900005,9,4,0,1,7:20 PM,10:59,,,Hibbert REBOUND (Off:0 Def:1),,
+0020900005,10,2,42,1,7:20 PM,10:50,,,MISS Ford 2' Driving Layup,,
+0020900005,11,4,0,1,7:20 PM,10:49,,,Hibbert REBOUND (Off:1 Def:1),,
+0020900005,12,1,72,1,7:20 PM,10:47,,,Hibbert  Putback Layup (2 PTS),2 - 2,TIE
+0020900005,13,1,56,1,7:20 PM,10:26,Horford 4' Running Hook Shot (2 PTS),,,2 - 4,2
+0020900005,14,1,1,1,7:21 PM,10:15,,,Granger 19' Jump Shot (2 PTS) (Murphy 1 AST),4 - 4,TIE
+0020900005,16,2,1,1,7:21 PM,9:54,MISS Johnson 18' Jump Shot,,,,
+0020900005,17,4,0,1,7:21 PM,9:52,,,Murphy REBOUND (Off:0 Def:1),,
+0020900005,18,5,1,1,7:21 PM,9:42,Williams STEAL (1 STL),,Murphy Bad Pass Turnover (P1.T2),,
+0020900005,19,5,40,1,7:21 PM,9:38,Williams Out of Bounds Lost Ball Turnover (P1.T2),,,,
+0020900005,20,1,1,1,7:22 PM,9:25,,,Murphy 21' Jump Shot (2 PTS) (Ford 1 AST),6 - 4,-2
+0020900005,22,7,2,1,7:22 PM,9:13,,,Hibbert Violation:Defensive Goaltending,,
+0020900005,21,1,41,1,7:22 PM,9:13,Johnson  Running Layup (2 PTS) (Smith 1 AST),,,6 - 6,TIE
+0020900005,24,1,42,1,7:22 PM,8:58,,,Granger 2' Driving Layup (4 PTS),8 - 6,-2
+0020900005,25,1,42,1,7:23 PM,8:47,Smith 1' Driving Layup (4 PTS) (Bibby 1 AST),,,8 - 8,TIE
+0020900005,26,2,1,1,7:23 PM,8:35,,,MISS Granger 25' 3PT Jump Shot,,
+0020900005,27,4,0,1,7:23 PM,8:33,,,Murphy REBOUND (Off:1 Def:1),,
+0020900005,28,5,4,1,7:23 PM,8:29,,,Rush Traveling Turnover (P1.T3),,
+0020900005,30,2,1,1,7:23 PM,8:09,MISS Williams 18' Jump Shot,,,,
+0020900005,31,4,0,1,7:23 PM,8:08,,,Hibbert REBOUND (Off:1 Def:2),,
+0020900005,32,2,42,1,7:24 PM,8:02,,,MISS Ford 1' Driving Layup,,
+0020900005,33,4,0,1,7:24 PM,8:01,Horford REBOUND (Off:0 Def:2),,,,
+0020900005,34,1,41,1,7:24 PM,7:57,Smith 2' Running Layup (6 PTS) (Horford 1 AST),,,8 - 10,2
+0020900005,35,1,5,1,7:24 PM,7:40,,,Granger 2' Layup (6 PTS) (Hibbert 1 AST),10 - 10,TIE
+0020900005,36,2,1,1,7:24 PM,7:18,MISS Horford 17' Jump Shot,,,,
+0020900005,37,4,0,1,7:24 PM,7:16,,,Hibbert REBOUND (Off:1 Def:3),,
+0020900005,38,1,1,1,7:24 PM,7:09,,,Murphy 20' Jump Shot (4 PTS) (Rush 1 AST),12 - 10,-2
+0020900005,39,2,47,1,7:25 PM,6:43,MISS Johnson 18' Turnaround Jump Shot,,,,
+0020900005,40,4,0,1,7:25 PM,6:41,,,Granger REBOUND (Off:0 Def:1),,
+0020900005,41,1,1,1,7:25 PM,6:34,,,Murphy 24' 3PT Jump Shot (7 PTS) (Granger 1 AST),15 - 10,-5
+0020900005,42,1,43,1,7:25 PM,6:21,Bibby 2' Alley Oop Layup (2 PTS) (Smith 2 AST),,,15 - 12,-3
+0020900005,43,6,2,1,7:25 PM,6:16,Smith S.FOUL (P1.T1),,,,
+0020900005,44,3,11,1,7:26 PM,6:16,,,Ford Free Throw 1 of 2 (1 PTS),16 - 12,-4
+0020900005,46,3,12,1,7:26 PM,6:16,,,MISS Ford Free Throw 2 of 2,,
+0020900005,48,4,0,1,7:26 PM,6:15,Horford REBOUND (Off:0 Def:3),,,,
+0020900005,49,2,1,1,7:26 PM,5:58,MISS Smith 21' Jump Shot,,,,
+0020900005,50,4,0,1,7:26 PM,5:57,,,Hibbert REBOUND (Off:1 Def:4),,
+0020900005,52,5,2,1,7:27 PM,5:48,Smith STEAL (1 STL),,Murphy Lost Ball Turnover (P2.T4),,
+0020900005,53,1,50,1,7:27 PM,5:43,Smith  Running Dunk (8 PTS),,,16 - 14,-2
+0020900005,54,1,42,1,7:27 PM,5:32,,,Rush 1' Driving Layup (2 PTS),18 - 14,-4
+0020900005,55,9,1,1,7:27 PM,5:27,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0020900005,57,1,1,1,7:30 PM,5:09,Horford 4' Jump Shot (4 PTS) (Smith 3 AST),,,18 - 16,-2
+0020900005,58,1,1,1,7:30 PM,4:49,,,Granger 25' 3PT Jump Shot (9 PTS) (Ford 2 AST),21 - 16,-5
+0020900005,59,2,1,1,7:31 PM,4:25,MISS Horford 15' Jump Shot,,,,
+0020900005,60,4,0,1,7:31 PM,4:23,,,Hibbert REBOUND (Off:1 Def:5),,
+0020900005,61,1,51,1,7:31 PM,4:07,,,Murphy  Reverse Dunk (9 PTS) (Hibbert 2 AST),23 - 16,-7
+0020900005,62,2,1,1,7:31 PM,3:51,MISS Johnson 24' 3PT Jump Shot,,,,
+0020900005,63,4,0,1,7:31 PM,3:50,,,Ford REBOUND (Off:0 Def:1),,
+0020900005,64,1,1,1,7:31 PM,3:42,,,Murphy 19' Jump Shot (11 PTS) (Rush 2 AST),25 - 16,-9
+0020900005,65,1,42,1,7:32 PM,3:18,Horford 2' Driving Layup (6 PTS),,,25 - 18,-7
+0020900005,67,1,3,1,7:32 PM,2:56,,,Hibbert 8' Hook Shot (4 PTS),27 - 18,-9
+0020900005,68,1,7,1,7:33 PM,2:31,Smith  Dunk (10 PTS) (Bibby 2 AST),,,27 - 20,-7
+0020900005,69,5,1,1,7:33 PM,2:26,Williams STEAL (2 STL),,Hibbert Bad Pass Turnover (P1.T5),,
+0020900005,70,2,5,1,7:33 PM,2:23,MISS Williams  Layup,,,,
+0020900005,71,4,0,1,7:33 PM,2:22,,,Hibbert REBOUND (Off:1 Def:6),,
+0020900005,72,2,1,1,7:33 PM,2:16,,,MISS Ford 17' Jump Shot,,
+0020900005,73,4,0,1,7:33 PM,2:15,Bibby REBOUND (Off:0 Def:1),,,,
+0020900005,74,5,1,1,7:33 PM,2:04,Johnson Bad Pass Turnover (P2.T3),,,,
+0020900005,75,9,1,1,7:33 PM,2:04,,,Pacers Timeout: Regular (Reg.1 Short 0),,
+0020900005,77,8,0,1,7:36 PM,2:04,,,SUB: Foster FOR Murphy,,
+0020900005,78,8,0,1,7:36 PM,2:04,,,SUB: Watson FOR Hibbert,,
+0020900005,79,8,0,1,7:36 PM,2:04,,,SUB: Jones FOR Rush,,
+0020900005,80,8,0,1,7:36 PM,2:04,,,SUB: Jones FOR Ford,,
+0020900005,81,8,0,1,7:36 PM,2:04,SUB: Crawford FOR Williams,,,,
+0020900005,82,8,0,1,7:36 PM,2:04,SUB: Pachulia FOR Horford,,,,
+0020900005,83,2,1,1,7:36 PM,1:49,,,MISS Granger 7' Jump Shot,,
+0020900005,84,4,0,1,7:36 PM,1:48,Smith REBOUND (Off:0 Def:1),,,,
+0020900005,85,1,1,1,7:37 PM,1:34,Johnson 20' Jump Shot (4 PTS),,,27 - 22,-5
+0020900005,86,6,1,1,7:37 PM,1:27,Crawford P.FOUL (P1.T2),,,,
+0020900005,87,8,0,1,7:37 PM,1:27,SUB: Evans FOR Bibby,,,,
+0020900005,88,6,1,1,7:37 PM,1:23,Evans P.FOUL (P1.PN),,,,
+0020900005,89,3,11,1,7:38 PM,1:23,,,Granger Free Throw 1 of 2 (10 PTS),28 - 22,-6
+0020900005,91,3,12,1,7:38 PM,1:23,,,Granger Free Throw 2 of 2 (11 PTS),29 - 22,-7
+0020900005,99,1,5,1,7:40 PM,1:11,Johnson  Layup (6 PTS),,,29 - 24,-5
+0020900005,94,6,2,1,7:40 PM,1:11,,,Jones S.FOUL (P1.T1),,
+0020900005,95,6,12,1,7:40 PM,1:11,,,Jones Non-Unsportsmanlike (P0.T1),,
+0020900005,96,3,16,1,7:41 PM,1:11,Johnson Free Throw Technical (7 PTS),,,29 - 25,-4
+0020900005,100,3,10,1,7:41 PM,1:11,Johnson Free Throw 1 of 1 (8 PTS),,,29 - 26,-3
+0020900005,102,1,1,1,7:42 PM,0:59,,,Granger 26' 3PT Jump Shot (14 PTS) (Foster 1 AST),32 - 26,-6
+0020900005,103,6,2,1,7:42 PM,0:50,,,Foster S.FOUL (P1.PN),,
+0020900005,104,3,11,1,7:43 PM,0:50,Pachulia Free Throw 1 of 2 (1 PTS),,,32 - 27,-5
+0020900005,107,3,12,1,7:43 PM,0:50,Pachulia Free Throw 2 of 2 (2 PTS),,,32 - 28,-4
+0020900005,110,5,1,1,7:43 PM,0:40,Smith STEAL (2 STL),,Jones Bad Pass Turnover (P1.T6),,
+0020900005,111,6,3,1,7:44 PM,0:40,,,Foster L.B.FOUL (P2.PN),,
+0020900005,112,3,11,1,7:44 PM,0:40,Smith Free Throw 1 of 2 (11 PTS),,,32 - 29,-3
+0020900005,114,8,0,1,7:44 PM,0:40,SUB: Teague FOR Johnson,,,,
+0020900005,115,3,12,1,7:44 PM,0:40,MISS Smith Free Throw 2 of 2,,,,
+0020900005,117,4,0,1,7:44 PM,0:39,,,Granger REBOUND (Off:0 Def:2),,
+0020900005,119,5,1,1,7:44 PM,0:28,,,Foster Bad Pass Turnover (P1.T7),,
+0020900005,120,2,1,1,7:45 PM,0:03,MISS Crawford 25' 3PT Jump Shot,,,,
+0020900005,121,4,0,1,7:45 PM,0:01,,,Jones REBOUND (Off:0 Def:1),,
+0020900005,122,5,1,1,7:45 PM,0:00,Crawford STEAL (1 STL),,Jones Bad Pass Turnover (P2.T8),,
+0020900005,124,18,1,1,7:45 PM,0:00,,,,32 - 29,-3
+0020900005,126,13,0,1,7:45 PM,0:00,,,,32 - 29,-3
+0020900005,128,12,0,2,7:48 PM,12:00,,,,32 - 29,-3
+0020900005,130,2,1,2,7:49 PM,11:34,,,MISS Jones 19' Jump Shot,,
+0020900005,131,4,0,2,7:49 PM,11:32,Evans REBOUND (Off:0 Def:1),,,,
+0020900005,132,6,1,2,7:50 PM,11:22,,,Head P.FOUL (P1.T1),,
+0020900005,133,6,1,2,7:50 PM,11:18,,,Watson P.FOUL (P1.T2),,
+0020900005,134,2,1,2,7:50 PM,11:12,MISS Teague 19' Jump Shot,,,,
+0020900005,135,4,0,2,7:51 PM,11:11,,,Jones REBOUND (Off:0 Def:1),,
+0020900005,136,6,1,2,7:51 PM,11:06,Smith P.FOUL (P1.T1),,,,
+0020900005,137,2,1,2,7:51 PM,10:57,,,MISS Head 19' Jump Shot,,
+0020900005,138,4,0,2,7:51 PM,10:54,Teague REBOUND (Off:0 Def:1),,,,
+0020900005,139,6,1,2,7:51 PM,10:47,,,Jones P.FOUL (P1.T3),,
+0020900005,140,2,1,2,7:52 PM,10:39,MISS Smith 18' Jump Shot,,,,
+0020900005,141,4,0,2,7:52 PM,10:37,Pachulia REBOUND (Off:1 Def:0),,,,
+0020900005,143,2,72,2,7:52 PM,10:35,MISS Pachulia  Putback Layup,,,,
+0020900005,144,4,0,2,7:52 PM,10:34,,,Murphy REBOUND (Off:1 Def:2),,
+0020900005,145,5,1,2,7:52 PM,10:28,Teague STEAL (1 STL),,Head Bad Pass Turnover (P1.T9),,
+0020900005,146,1,50,2,7:52 PM,10:25,Teague  Running Dunk (2 PTS),,,32 - 31,-1
+0020900005,147,1,1,2,7:52 PM,10:13,,,Watson 18' Jump Shot (2 PTS),34 - 31,-3
+0020900005,148,1,1,2,7:52 PM,9:55,Smith 18' Jump Shot (2 PTS) (Crawford 1 AST),,,34 - 33,-1
+0020900005,149,1,1,2,7:53 PM,9:41,,,Head 21' Jump Shot (2 PTS) (Murphy 2 AST),36 - 33,-3
+0020900005,150,2,5,2,7:53 PM,9:31,MISS Teague 2' Layup,,,,
+0020900005,151,4,0,2,7:53 PM,9:31,,,Pacers Rebound,,
+0020900005,153,6,3,2,7:53 PM,9:31,Pachulia L.B.FOUL (P1.T2),,,,
+0020900005,154,1,42,2,7:53 PM,9:16,,,Jones 2' Driving Layup (2 PTS) (Murphy 3 AST),38 - 33,-5
+0020900005,155,2,1,2,7:54 PM,9:00,MISS Smith 18' Jump Shot,,,,
+0020900005,156,4,0,2,7:54 PM,8:58,,,Jones REBOUND (Off:0 Def:2),,
+0020900005,157,6,2,2,7:54 PM,8:54,Crawford S.FOUL (P2.T3),,,,
+0020900005,158,9,4,2,7:54 PM,8:54,,,,,
+0020900005,160,8,0,2,7:56 PM,8:54,,,SUB: Hibbert FOR Jones,,
+0020900005,162,3,11,2,7:57 PM,8:54,,,Jones Free Throw 1 of 2 (3 PTS),39 - 33,-6
+0020900005,164,3,12,2,7:57 PM,8:54,,,Jones Free Throw 2 of 2 (4 PTS),40 - 33,-7
+0020900005,166,2,5,2,7:57 PM,8:38,MISS Pachulia 2' Layup,,,,
+0020900005,167,4,0,2,7:57 PM,8:37,Smith REBOUND (Off:1 Def:0),,,,
+0020900005,168,1,72,2,7:57 PM,8:34,Smith 2' Putback Layup (4 PTS) (Teague 1 AST),,,40 - 35,-5
+0020900005,169,6,2,2,7:57 PM,8:34,,,Hibbert S.FOUL (P1.T4),,
+0020900005,170,8,0,2,7:58 PM,8:34,SUB: Williams FOR Evans,,,,
+0020900005,171,8,0,2,7:58 PM,8:34,SUB: Johnson FOR Crawford,,,,
+0020900005,172,3,10,2,7:58 PM,8:34,Smith Free Throw 1 of 1 (5 PTS),,,40 - 36,-4
+0020900005,175,1,42,2,7:59 PM,8:20,,,Jones  Driving Layup (6 PTS),42 - 36,-6
+0020900005,176,6,2,2,7:59 PM,8:20,Williams S.FOUL (P1.T4),,,,
+0020900005,177,8,0,2,7:59 PM,8:20,,,SUB: Rush FOR Head,,
+0020900005,178,3,10,2,7:59 PM,8:20,,,Jones Free Throw 1 of 1 (7 PTS),43 - 36,-7
+0020900005,180,1,1,2,7:59 PM,8:02,Williams 18' Jump Shot (2 PTS),,,43 - 38,-5
+0020900005,181,1,42,2,8:00 PM,7:41,,,Watson 3' Driving Layup (4 PTS),45 - 38,-7
+0020900005,183,1,1,2,8:00 PM,7:23,Williams 19' Jump Shot (4 PTS),,,45 - 40,-5
+0020900005,184,2,1,2,8:00 PM,7:01,Williams BLOCK (1 BLK),,MISS Jones 5' Jump Shot,,
+0020900005,185,4,0,2,8:00 PM,6:58,,,Jones REBOUND (Off:1 Def:2),,
+0020900005,186,5,1,2,8:00 PM,6:57,Johnson STEAL (2 STL),,Jones Bad Pass Turnover (P3.T10),,
+0020900005,187,1,1,2,8:01 PM,6:51,Teague 25' 3PT Jump Shot (5 PTS) (Johnson 2 AST),,,45 - 43,-2
+0020900005,188,1,1,2,8:01 PM,6:35,,,Watson 25' 3PT Jump Shot (7 PTS),48 - 43,-5
+0020900005,190,1,1,2,8:01 PM,6:08,Pachulia 17' Jump Shot (4 PTS) (Teague 2 AST),,,48 - 45,-3
+0020900005,191,1,47,2,8:01 PM,5:59,,,Rush 14' Turnaround Jump Shot (4 PTS),50 - 45,-5
+0020900005,192,9,1,2,8:02 PM,5:51,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0020900005,194,8,0,2,8:04 PM,5:51,,,SUB: Ford FOR Jones,,
+0020900005,195,8,0,2,8:04 PM,5:51,,,SUB: Granger FOR Watson,,
+0020900005,196,8,0,2,8:04 PM,5:51,SUB: Bibby FOR Pachulia,,,,
+0020900005,197,8,0,2,8:04 PM,5:51,SUB: Smith FOR Teague,,,,
+0020900005,198,8,0,2,8:04 PM,5:51,SUB: Horford FOR Smith,,,,
+0020900005,200,1,5,2,8:05 PM,5:39,Smith 2' Layup (13 PTS) (Bibby 3 AST),,,50 - 47,-3
+0020900005,202,5,40,2,8:05 PM,5:22,,,Rush Out of Bounds Lost Ball Turnover (P2.T11),,
+0020900005,204,1,1,2,8:05 PM,5:01,Williams 25' 3PT Jump Shot (7 PTS) (Smith 4 AST),,,50 - 50,TIE
+0020900005,205,1,1,2,8:06 PM,4:48,,,Granger  3PT Jump Shot (17 PTS) (Rush 3 AST),53 - 50,-3
+0020900005,206,1,1,2,8:06 PM,4:30,Horford 17' Jump Shot (8 PTS) (Johnson 3 AST),,,53 - 52,-1
+0020900005,208,2,5,2,8:06 PM,4:18,Smith BLOCK (1 BLK),,MISS Murphy 1' Layup,,
+0020900005,209,4,0,2,8:06 PM,4:16,Horford REBOUND (Off:0 Def:4),,,,
+0020900005,210,2,1,2,8:06 PM,4:11,MISS Williams 19' Jump Shot,,,,
+0020900005,211,4,0,2,8:06 PM,4:10,,,Ford REBOUND (Off:0 Def:2),,
+0020900005,213,2,1,2,8:06 PM,4:01,,,MISS Granger 24' 3PT Jump Shot,,
+0020900005,214,4,0,2,8:06 PM,4:00,Horford REBOUND (Off:0 Def:5),,,,
+0020900005,215,6,2,2,8:07 PM,3:55,,,Hibbert S.FOUL (P2.PN),,
+0020900005,216,3,11,2,8:07 PM,3:55,Horford Free Throw 1 of 2 (9 PTS),,,53 - 53,TIE
+0020900005,218,8,0,2,8:07 PM,3:55,,,SUB: Jones FOR Hibbert,,
+0020900005,219,3,12,2,8:07 PM,3:55,Horford Free Throw 2 of 2 (10 PTS),,,53 - 54,1
+0020900005,222,5,2,2,8:08 PM,3:40,Bibby STEAL (1 STL),,Rush Lost Ball Turnover (P3.T12),,
+0020900005,223,1,5,2,8:08 PM,3:37,Smith 2' Layup (15 PTS) (Johnson 4 AST),,,53 - 56,3
+0020900005,224,6,2,2,8:08 PM,3:37,,,Granger S.FOUL (P1.PN),,
+0020900005,225,9,1,2,8:08 PM,3:37,,,Pacers Timeout: Regular (Reg.2 Short 0),,
+0020900005,227,8,0,2,8:11 PM,3:37,,,SUB: Jones FOR Rush,,
+0020900005,228,3,10,2,8:11 PM,3:37,Smith Free Throw 1 of 1 (16 PTS),,,53 - 57,4
+0020900005,230,1,42,2,8:12 PM,3:21,,,Ford 1' Driving Layup (3 PTS) (Jones 1 AST),55 - 57,2
+0020900005,232,6,1,2,8:12 PM,3:12,,,Granger P.FOUL (P2.PN),,
+0020900005,233,3,11,2,8:12 PM,3:12,Williams Free Throw 1 of 2 (8 PTS),,,55 - 58,3
+0020900005,235,3,12,2,8:12 PM,3:12,Williams Free Throw 2 of 2 (9 PTS),,,55 - 59,4
+0020900005,237,1,42,2,8:13 PM,3:02,,,Granger 2' Driving Layup (19 PTS) (Murphy 4 AST),57 - 59,2
+0020900005,238,6,2,2,8:13 PM,3:02,Williams S.FOUL (P2.PN),,,,
+0020900005,239,3,10,2,8:13 PM,3:02,,,Granger Free Throw 1 of 1 (20 PTS),58 - 59,1
+0020900005,241,5,40,2,8:14 PM,2:43,Johnson Out of Bounds Lost Ball Turnover (P3.T4),,,,
+0020900005,242,8,0,2,8:14 PM,2:43,SUB: Evans FOR Williams,,,,
+0020900005,243,6,1,2,8:14 PM,2:33,Bibby P.FOUL (P1.PN),,,,
+0020900005,244,3,11,2,8:14 PM,2:33,,,Jones Free Throw 1 of 2 (8 PTS),59 - 59,TIE
+0020900005,246,3,12,2,8:15 PM,2:33,,,Jones Free Throw 2 of 2 (9 PTS),60 - 59,-1
+0020900005,249,2,46,2,8:15 PM,2:19,MISS Johnson 4' Running Jump Shot,,,,
+0020900005,250,4,0,2,8:15 PM,2:16,,,Murphy REBOUND (Off:1 Def:3),,
+0020900005,251,5,1,2,8:15 PM,2:15,Smith STEAL (3 STL),,Murphy Bad Pass Turnover (P3.T13),,
+0020900005,252,1,5,2,8:15 PM,2:01,Evans 2' Layup (2 PTS) (Smith 5 AST),,,60 - 61,1
+0020900005,253,6,4,2,8:16 PM,1:52,,,Jones OFF.Foul (P2),,
+0020900005,254,5,5,2,8:16 PM,1:52,,,Jones Foul Turnover (P1.T14),,
+0020900005,255,1,1,2,8:16 PM,1:33,Evans  3PT Jump Shot (5 PTS) (Smith 6 AST),,,60 - 64,4
+0020900005,256,2,1,2,8:16 PM,1:13,,,MISS Ford 12' Jump Shot,,
+0020900005,257,4,0,2,8:16 PM,1:13,,,Pacers Rebound,,
+0020900005,258,8,0,2,8:17 PM,1:13,,,SUB: Foster FOR Jones,,
+0020900005,259,2,1,2,8:17 PM,1:11,,,MISS Granger 15' Jump Shot,,
+0020900005,260,4,0,2,8:17 PM,1:09,,,Jones REBOUND (Off:2 Def:2),,
+0020900005,261,2,1,2,8:17 PM,1:04,,,MISS Jones 15' Jump Shot,,
+0020900005,262,4,0,2,8:17 PM,1:03,HAWKS Rebound,,,,
+0020900005,263,9,2,2,8:17 PM,1:03,HAWKS Timeout: Short (Full 2 Short 1),,,,
+0020900005,266,2,77,2,8:18 PM,0:48,MISS Johnson 6' Driving Jump Shot,,,,
+0020900005,268,4,0,2,8:18 PM,0:48,Horford REBOUND (Off:1 Def:5),,,,
+0020900005,267,1,72,2,8:18 PM,0:48,Horford  Putback Layup (12 PTS),,,60 - 66,6
+0020900005,269,6,1,2,8:19 PM,0:41,Smith P.FOUL (P2.PN),,,,
+0020900005,270,3,11,2,8:19 PM,0:41,,,Granger Free Throw 1 of 2 (21 PTS),61 - 66,5
+0020900005,272,8,0,2,8:20 PM,0:41,SUB: Smith FOR Smith,,,,
+0020900005,273,3,12,2,8:20 PM,0:41,,,Granger Free Throw 2 of 2 (22 PTS),62 - 66,4
+0020900005,276,2,1,2,8:20 PM,0:23,MISS Johnson 19' Jump Shot,,,,
+0020900005,277,4,0,2,8:20 PM,0:21,,,Foster REBOUND (Off:0 Def:1),,
+0020900005,278,1,1,2,8:20 PM,0:00,,,Murphy 25' 3PT Jump Shot (14 PTS) (Ford 3 AST),65 - 66,1
+0020900005,279,13,0,2,8:21 PM,0:00,,,,65 - 66,1
+0020900005,281,12,0,3,8:36 PM,12:00,,,,65 - 66,1
+0020900005,282,2,3,3,8:37 PM,11:41,,,MISS Hibbert 5' Hook Shot,,
+0020900005,283,4,0,3,8:37 PM,11:39,,,Hibbert REBOUND (Off:2 Def:6),,
+0020900005,284,5,1,3,8:37 PM,11:38,Johnson STEAL (3 STL),,Hibbert Bad Pass Turnover (P2.T15),,
+0020900005,285,6,2,3,8:37 PM,11:33,,,Murphy S.FOUL (P1.T1),,
+0020900005,286,3,11,3,8:37 PM,11:33,MISS Smith Free Throw 1 of 2,,,,
+0020900005,287,4,1,3,8:37 PM,11:33,HAWKS Rebound,,,,
+0020900005,288,3,12,3,8:38 PM,11:33,Smith Free Throw 2 of 2 (17 PTS),,,65 - 67,2
+0020900005,290,2,1,3,8:38 PM,11:20,,,MISS Ford 19' Jump Shot,,
+0020900005,291,4,0,3,8:38 PM,11:19,Bibby REBOUND (Off:0 Def:2),,,,
+0020900005,292,1,1,3,8:38 PM,11:11,Horford 18' Jump Shot (14 PTS) (Bibby 4 AST),,,65 - 69,4
+0020900005,293,2,1,3,8:39 PM,10:57,,,MISS Ford 10' Jump Shot,,
+0020900005,294,4,0,3,8:39 PM,10:56,Bibby REBOUND (Off:0 Def:3),,,,
+0020900005,295,2,1,3,8:39 PM,10:48,MISS Bibby 19' Jump Shot,,,,
+0020900005,297,4,0,3,8:39 PM,10:44,Horford REBOUND (Off:2 Def:5),,,,
+0020900005,296,2,4,3,8:39 PM,10:44,MISS Horford  Tip Shot,,,,
+0020900005,298,4,0,3,8:39 PM,10:44,,,Murphy REBOUND (Off:1 Def:4),,
+0020900005,299,5,1,3,8:39 PM,10:44,Bibby STEAL (2 STL),,Murphy Bad Pass Turnover (P4.T16),,
+0020900005,300,6,1,3,8:39 PM,10:44,,,Ford P.FOUL (P1.T2),,
+0020900005,301,6,2,3,8:39 PM,10:33,,,Rush S.FOUL (P1.T3),,
+0020900005,302,3,11,3,8:40 PM,10:33,MISS Williams Free Throw 1 of 2,,,,
+0020900005,303,4,1,3,8:40 PM,10:33,HAWKS Rebound,,,,
+0020900005,304,3,12,3,8:40 PM,10:33,Williams Free Throw 2 of 2 (10 PTS),,,65 - 70,5
+0020900005,307,1,77,3,8:40 PM,10:13,,,Granger 5' Driving Jump Shot (24 PTS) (Murphy 5 AST),67 - 70,3
+0020900005,308,1,1,3,8:41 PM,10:01,Horford 16' Jump Shot (16 PTS) (Smith 7 AST),,,67 - 72,5
+0020900005,309,2,45,3,8:41 PM,9:44,Horford BLOCK (1 BLK),,MISS Hibbert 3' Jump Shot,,
+0020900005,378,4,0,3,8:41 PM,9:35,Horford REBOUND (Off:2 Def:6),,,,
+0020900005,310,2,42,3,8:41 PM,9:35,MISS Smith 2' Driving Layup,,Granger BLOCK (1 BLK),,
+0020900005,311,4,0,3,8:41 PM,9:34,,,Granger REBOUND (Off:0 Def:3),,
+0020900005,312,2,5,3,8:41 PM,9:32,,,MISS Granger  Layup,,
+0020900005,313,4,0,3,8:41 PM,9:29,Horford REBOUND (Off:2 Def:7),,,,
+0020900005,314,5,4,3,8:41 PM,9:26,Bibby Traveling Turnover (P1.T5),,,,
+0020900005,316,1,7,3,8:42 PM,9:13,,,Hibbert  Dunk (6 PTS) (Murphy 6 AST),69 - 72,3
+0020900005,318,1,5,3,8:42 PM,8:55,Williams 2' Layup (12 PTS) (Horford 2 AST),,,69 - 74,5
+0020900005,319,9,1,3,8:42 PM,8:52,,,Pacers Timeout: Regular (Reg.3 Short 0),,
+0020900005,323,8,0,3,8:45 PM,8:52,SUB: Crawford FOR Bibby,,,,
+0020900005,324,1,5,3,8:45 PM,8:42,,,Rush 3' Layup (6 PTS) (Murphy 7 AST),71 - 74,3
+0020900005,326,1,1,3,8:45 PM,8:17,Johnson 26' 3PT Jump Shot (11 PTS) (Horford 3 AST),,,71 - 77,6
+0020900005,327,6,1,3,8:46 PM,7:51,Williams P.FOUL (P3.T1),,,,
+0020900005,328,6,1,3,8:46 PM,7:46,Horford P.FOUL (P1.T2),,,,
+0020900005,329,2,1,3,8:47 PM,7:32,,,MISS Ford  3PT Jump Shot,,
+0020900005,330,4,0,3,8:47 PM,7:31,Horford REBOUND (Off:2 Def:8),,,,
+0020900005,331,1,5,3,8:47 PM,7:23,Horford 2' Layup (18 PTS) (Smith 8 AST),,,71 - 79,8
+0020900005,332,6,2,3,8:47 PM,7:23,,,Hibbert S.FOUL (P3.T4),,
+0020900005,333,8,0,3,8:47 PM,7:23,,,SUB: Jones FOR Hibbert,,
+0020900005,334,8,0,3,8:47 PM,7:23,,,SUB: Jones FOR Rush,,
+0020900005,335,8,0,3,8:47 PM,7:23,,,SUB: Watson FOR Ford,,
+0020900005,336,3,10,3,8:47 PM,7:23,MISS Horford Free Throw 1 of 1,,,,
+0020900005,338,4,0,3,8:48 PM,7:22,,,Murphy REBOUND (Off:1 Def:5),,
+0020900005,340,2,47,3,8:48 PM,7:07,,,MISS Jones 6' Turnaround Jump Shot,,
+0020900005,341,4,0,3,8:48 PM,7:04,Horford REBOUND (Off:2 Def:9),,,,
+0020900005,342,1,1,3,8:48 PM,6:50,Johnson 16' Jump Shot (13 PTS) (Crawford 2 AST),,,71 - 81,10
+0020900005,344,1,42,3,8:48 PM,6:41,,,Jones 2' Driving Layup (11 PTS),73 - 81,8
+0020900005,346,2,1,3,8:49 PM,6:23,MISS Johnson 5' Jump Shot,,,,
+0020900005,347,4,0,3,8:49 PM,6:22,,,Murphy REBOUND (Off:1 Def:6),,
+0020900005,348,6,2,3,8:49 PM,6:17,Crawford S.FOUL (P3.T3),,,,
+0020900005,349,8,0,3,8:49 PM,6:17,SUB: Teague FOR Williams,,,,
+0020900005,351,3,11,3,8:49 PM,6:17,,,Watson Free Throw 1 of 2 (8 PTS),74 - 81,7
+0020900005,353,8,0,3,8:49 PM,6:17,,,SUB: Foster FOR Murphy,,
+0020900005,354,3,12,3,8:50 PM,6:17,,,Watson Free Throw 2 of 2 (9 PTS),75 - 81,6
+0020900005,357,1,1,3,8:50 PM,6:03,Johnson 11' Jump Shot (15 PTS) (Teague 3 AST),,,75 - 83,8
+0020900005,358,6,1,3,8:50 PM,5:58,Teague P.FOUL (P1.T4),,,,
+0020900005,359,8,0,3,8:50 PM,5:58,SUB: Pachulia FOR Smith,,,,
+0020900005,361,1,1,3,8:51 PM,5:50,,,Granger 25' 3PT Jump Shot (27 PTS) (Foster 2 AST),78 - 83,5
+0020900005,362,2,1,3,8:51 PM,5:38,MISS Teague 10' Jump Shot,,,,
+0020900005,363,4,0,3,8:51 PM,5:37,Teague REBOUND (Off:1 Def:1),,,,
+0020900005,364,2,5,3,8:51 PM,5:35,MISS Teague  Layup,,Jones BLOCK (1 BLK),,
+0020900005,365,4,0,3,8:51 PM,5:34,,,Jones REBOUND (Off:2 Def:3),,
+0020900005,366,5,7,3,8:51 PM,5:29,,,Jones Discontinue Dribble Turnover (P4.T17),,
+0020900005,367,1,46,3,8:52 PM,5:16,Crawford 10' Running Jump Shot (2 PTS),,,78 - 85,7
+0020900005,368,6,2,3,8:52 PM,5:16,,,Jones S.FOUL (P2.PN),,
+0020900005,370,8,0,3,8:52 PM,5:16,,,SUB: Head FOR Granger,,
+0020900005,371,8,0,3,8:52 PM,5:16,SUB: Evans FOR Johnson,,,,
+0020900005,372,3,10,3,8:52 PM,5:16,Crawford Free Throw 1 of 1 (3 PTS),,,78 - 86,8
+0020900005,375,1,1,3,8:52 PM,5:06,,,Watson  3PT Jump Shot (12 PTS) (Head 1 AST),81 - 86,5
+0020900005,376,9,1,3,8:53 PM,5:05,HAWKS Timeout: Regular (Full 3 Short 1),,,,
+0020900005,381,2,47,3,8:55 PM,4:49,MISS Horford 13' Turnaround Jump Shot,,,,
+0020900005,382,4,0,3,8:55 PM,4:48,Evans REBOUND (Off:1 Def:1),,,,
+0020900005,383,2,72,3,8:55 PM,4:47,MISS Evans  Putback Layup,,,,
+0020900005,384,4,0,3,8:55 PM,4:45,,,Foster REBOUND (Off:0 Def:2),,
+0020900005,385,1,77,3,8:56 PM,4:35,,,Jones 4' Driving Jump Shot (13 PTS) (Watson 1 AST),83 - 86,3
+0020900005,386,1,7,3,8:56 PM,4:23,Horford  Dunk (20 PTS) (Crawford 3 AST),,,83 - 88,5
+0020900005,387,6,4,3,8:56 PM,3:58,,,Watson OFF.Foul (P2),,
+0020900005,388,5,5,3,8:56 PM,3:58,,,Watson Foul Turnover (P1.T18),,
+0020900005,389,8,0,3,8:57 PM,3:58,SUB: Smith FOR Horford,,,,
+0020900005,390,2,1,3,8:57 PM,3:43,MISS Crawford 19' Jump Shot,,,,
+0020900005,391,4,0,3,8:57 PM,3:41,,,Head REBOUND (Off:0 Def:1),,
+0020900005,392,1,46,3,8:57 PM,3:24,,,Head 9' Running Jump Shot (4 PTS),85 - 88,3
+0020900005,393,1,66,3,8:58 PM,3:02,Evans 15' Jump Bank Shot (7 PTS),,,85 - 90,5
+0020900005,394,6,2,3,8:58 PM,3:02,,,Head S.FOUL (P2.PN),,
+0020900005,395,3,10,3,8:58 PM,3:02,Evans Free Throw 1 of 1 (8 PTS),,,85 - 91,6
+0020900005,397,2,1,3,8:58 PM,2:51,,,MISS Jones 18' Jump Shot,,
+0020900005,398,4,0,3,8:58 PM,2:50,Teague REBOUND (Off:1 Def:2),,,,
+0020900005,399,1,1,3,8:58 PM,2:44,Evans 21' Jump Shot (10 PTS) (Teague 4 AST),,,85 - 93,8
+0020900005,400,5,7,3,8:59 PM,2:39,,,Head Discontinue Dribble Turnover (P2.T19),,
+0020900005,401,6,2,3,8:59 PM,2:22,,,Foster S.FOUL (P3.PN),,
+0020900005,402,3,11,3,8:59 PM,2:22,MISS Pachulia Free Throw 1 of 2,,,,
+0020900005,403,4,1,3,8:59 PM,2:22,HAWKS Rebound,,,,
+0020900005,404,3,12,3,9:00 PM,2:22,MISS Pachulia Free Throw 2 of 2,,,,
+0020900005,406,4,0,3,9:00 PM,2:21,,,Watson REBOUND (Off:0 Def:1),,
+0020900005,407,1,1,3,9:00 PM,2:11,,,Head 18' Jump Shot (6 PTS),87 - 93,6
+0020900005,408,2,46,3,9:00 PM,1:53,MISS Teague 8' Running Jump Shot,,,,
+0020900005,409,4,0,3,9:00 PM,1:50,,,Foster REBOUND (Off:0 Def:3),,
+0020900005,410,6,2,3,9:01 PM,1:44,Smith S.FOUL (P2.PN),,,,
+0020900005,411,3,11,3,9:01 PM,1:44,,,Jones Free Throw 1 of 2 (14 PTS),88 - 93,5
+0020900005,413,3,12,3,9:01 PM,1:44,,,Jones Free Throw 2 of 2 (15 PTS),89 - 93,4
+0020900005,415,6,1,3,9:01 PM,1:32,,,Jones P.FOUL (P3.PN),,
+0020900005,416,3,11,3,9:02 PM,1:32,Evans Free Throw 1 of 2 (11 PTS),,,89 - 94,5
+0020900005,418,3,12,3,9:02 PM,1:32,Evans Free Throw 2 of 2 (12 PTS),,,89 - 95,6
+0020900005,421,6,2,3,9:02 PM,1:17,Teague S.FOUL (P2.PN),,,,
+0020900005,422,3,11,3,9:03 PM,1:17,,,MISS Watson Free Throw 1 of 2,,
+0020900005,423,4,1,3,9:03 PM,1:17,,,Pacers Rebound,,
+0020900005,424,3,12,3,9:03 PM,1:17,,,Watson Free Throw 2 of 2 (13 PTS),90 - 95,5
+0020900005,426,2,1,3,9:03 PM,1:03,MISS Smith 7' Jump Shot,,Jones BLOCK (2 BLK),,
+0020900005,427,4,0,3,9:03 PM,1:01,,,Jones REBOUND (Off:0 Def:2),,
+0020900005,428,2,1,3,9:04 PM,0:46,,,MISS Jones 15' Jump Shot,,
+0020900005,429,4,0,3,9:04 PM,0:46,,,Pacers Rebound,,
+0020900005,430,6,3,3,9:04 PM,0:46,Crawford L.B.FOUL (P4.PN),,,,
+0020900005,431,3,11,3,9:04 PM,0:46,,,Foster Free Throw 1 of 2 (1 PTS),91 - 95,4
+0020900005,433,8,0,3,9:04 PM,0:46,SUB: Johnson FOR Crawford,,,,
+0020900005,434,3,12,3,9:04 PM,0:46,,,Foster Free Throw 2 of 2 (2 PTS),92 - 95,3
+0020900005,437,6,4,3,9:05 PM,0:26,Johnson OFF.Foul (P1),,,,
+0020900005,438,5,5,3,9:05 PM,0:26,Johnson Foul Turnover (P4.T6),,,,
+0020900005,439,2,46,3,9:05 PM,0:06,,,MISS Watson 8' Running Jump Shot,,
+0020900005,441,4,0,3,9:05 PM,0:06,,,Jones REBOUND (Off:1 Def:2),,
+0020900005,440,1,87,3,9:05 PM,0:06,,,Jones  Putback Dunk (2 PTS),94 - 95,1
+0020900005,442,2,1,3,9:06 PM,0:01,MISS Johnson 28' 3PT Jump Shot,,,,
+0020900005,443,4,0,3,9:06 PM,0:00,Smith REBOUND (Off:2 Def:0),,,,
+0020900005,444,13,0,3,9:06 PM,0:00,,,,94 - 95,1
+0020900005,446,12,0,4,9:08 PM,12:00,,,,94 - 95,1
+0020900005,447,1,42,4,9:09 PM,11:38,Johnson 2' Driving Layup (17 PTS),,,94 - 97,3
+0020900005,448,5,2,4,9:09 PM,11:19,Johnson STEAL (4 STL),,Jones Lost Ball Turnover (P5.T20),,
+0020900005,449,6,2,4,9:09 PM,11:16,,,Foster S.FOUL (P4.T1),,
+0020900005,450,3,11,4,9:10 PM,11:16,Smith Free Throw 1 of 2 (18 PTS),,,94 - 98,4
+0020900005,452,3,12,4,9:10 PM,11:16,MISS Smith Free Throw 2 of 2,,,,
+0020900005,454,4,0,4,9:10 PM,11:15,,,Foster REBOUND (Off:0 Def:4),,
+0020900005,455,6,2,4,9:11 PM,11:05,Evans S.FOUL (P2.T1),,,,
+0020900005,456,3,11,4,9:11 PM,11:05,,,Jones Free Throw 1 of 2 (16 PTS),95 - 98,3
+0020900005,458,3,12,4,9:11 PM,11:05,,,Jones Free Throw 2 of 2 (17 PTS),96 - 98,2
+0020900005,461,2,5,4,9:11 PM,10:52,MISS Pachulia 2' Layup,,,,
+0020900005,462,4,0,4,9:11 PM,10:49,,,Jones REBOUND (Off:1 Def:3),,
+0020900005,463,1,46,4,9:11 PM,10:45,,,Watson 6' Running Jump Shot (15 PTS),98 - 98,TIE
+0020900005,464,6,1,4,9:12 PM,10:31,,,Watson P.FOUL (P3.T2),,
+0020900005,465,8,0,4,9:12 PM,10:31,SUB: Horford FOR Pachulia,,,,
+0020900005,466,1,47,4,9:12 PM,10:17,Johnson 4' Turnaround Jump Shot (19 PTS),,,98 - 100,2
+0020900005,467,2,1,4,9:13 PM,9:57,,,MISS Head 11' Jump Shot,,
+0020900005,468,4,0,4,9:13 PM,9:56,Smith REBOUND (Off:0 Def:2),,,,
+0020900005,469,6,1,4,9:13 PM,9:44,,,Foster P.FOUL (P5.T3),,
+0020900005,470,8,0,4,9:13 PM,9:44,SUB: Williams FOR Evans,,,,
+0020900005,471,8,0,4,9:13 PM,9:44,,,SUB: Granger FOR Jones,,
+0020900005,472,8,0,4,9:13 PM,9:44,,,SUB: Murphy FOR Foster,,
+0020900005,473,8,0,4,9:13 PM,9:44,,,SUB: Hibbert FOR Jones,,
+0020900005,474,2,1,4,9:14 PM,9:31,MISS Smith 13' Jump Shot,,,,
+0020900005,475,4,0,4,9:14 PM,9:30,,,Hibbert REBOUND (Off:2 Def:7),,
+0020900005,476,6,1,4,9:14 PM,9:19,Smith P.FOUL (P3.T2),,,,
+0020900005,477,1,1,4,9:15 PM,9:04,,,Watson 25' 3PT Jump Shot (18 PTS) (Hibbert 3 AST),101 - 100,-1
+0020900005,478,9,4,4,9:15 PM,8:51,,,,,
+0020900005,480,8,0,4,9:17 PM,8:51,,,SUB: Jones FOR Head,,
+0020900005,482,2,5,4,9:18 PM,8:42,MISS Johnson 1' Layup,,Hibbert BLOCK (1 BLK),,
+0020900005,483,4,0,4,9:18 PM,8:42,HAWKS Rebound,,,,
+0020900005,484,6,3,4,9:18 PM,8:42,,,Watson L.B.FOUL (P4.T4),,
+0020900005,485,2,1,4,9:18 PM,8:33,MISS Horford 16' Jump Shot,,,,
+0020900005,486,4,0,4,9:18 PM,8:31,,,Pacers Rebound,,
+0020900005,487,2,1,4,9:19 PM,8:17,,,MISS Murphy 26' 3PT Jump Shot,,
+0020900005,488,4,0,4,9:19 PM,8:15,Williams REBOUND (Off:0 Def:1),,,,
+0020900005,489,1,1,4,9:19 PM,8:05,Bibby 26' 3PT Jump Shot (5 PTS) (Johnson 5 AST),,,101 - 103,2
+0020900005,490,5,4,4,9:19 PM,7:44,,,Granger Traveling Turnover (P2.T21),,
+0020900005,491,1,77,4,9:20 PM,7:28,Bibby 4' Driving Jump Shot (7 PTS),,,101 - 105,4
+0020900005,492,5,2,4,9:20 PM,7:09,Smith STEAL (4 STL),,Hibbert Lost Ball Turnover (P3.T22),,
+0020900005,493,2,1,4,9:20 PM,7:02,MISS Johnson 24' 3PT Jump Shot,,,,
+0020900005,495,4,0,4,9:20 PM,7:00,Horford REBOUND (Off:3 Def:9),,,,
+0020900005,494,1,87,4,9:20 PM,7:00,Horford  Putback Dunk (22 PTS),,,101 - 107,6
+0020900005,496,6,13,4,9:20 PM,7:00,Horford HANGING.TECH.FOUL (P1.T2),,,,
+0020900005,497,9,1,4,9:21 PM,7:00,,,Pacers Timeout: Regular (Reg.4 Short 0),,
+0020900005,499,3,16,4,9:23 PM,7:00,,,MISS Granger Free Throw Technical,,
+0020900005,500,4,1,4,9:23 PM,7:00,,,Pacers Rebound,,
+0020900005,501,2,1,4,9:24 PM,6:46,Williams BLOCK (2 BLK),,MISS Jones 12' Jump Shot,,
+0020900005,502,4,0,4,9:24 PM,6:45,Williams REBOUND (Off:0 Def:2),,,,
+0020900005,503,6,4,4,9:24 PM,6:34,Smith OFF.Foul (P4),,,,
+0020900005,504,5,5,4,9:24 PM,6:34,Smith Foul Turnover (P1.T7),,,,
+0020900005,505,2,47,4,9:25 PM,6:19,,,MISS Hibbert 8' Turnaround Jump Shot,,
+0020900005,506,4,0,4,9:25 PM,6:17,Williams REBOUND (Off:0 Def:3),,,,
+0020900005,507,2,1,4,9:25 PM,6:06,MISS Johnson 17' Jump Shot,,,,
+0020900005,508,4,0,4,9:25 PM,6:05,,,Murphy REBOUND (Off:1 Def:7),,
+0020900005,509,2,1,4,9:25 PM,5:48,,,MISS Granger 26' 3PT Jump Shot,,
+0020900005,510,4,0,4,9:25 PM,5:46,Horford REBOUND (Off:3 Def:10),,,,
+0020900005,511,1,42,4,9:26 PM,5:23,Johnson 2' Driving Layup (21 PTS) (Horford 4 AST),,,101 - 109,8
+0020900005,512,5,1,4,9:26 PM,5:11,Bibby STEAL (3 STL),,Watson Bad Pass Turnover (P2.T23),,
+0020900005,513,2,1,4,9:26 PM,5:06,MISS Bibby 25' 3PT Jump Shot,,,,
+0020900005,514,4,0,4,9:26 PM,5:06,HAWKS Rebound,,,,
+0020900005,515,6,3,4,9:26 PM,5:06,,,Granger L.B.FOUL (P3.PN),,
+0020900005,516,3,11,4,9:26 PM,5:06,Johnson Free Throw 1 of 2 (22 PTS),,,101 - 110,9
+0020900005,518,8,0,4,9:27 PM,5:06,,,SUB: Ford FOR Watson,,
+0020900005,519,3,12,4,9:27 PM,5:06,MISS Johnson Free Throw 2 of 2,,,,
+0020900005,521,4,0,4,9:27 PM,5:05,,,Granger REBOUND (Off:0 Def:4),,
+0020900005,523,6,2,4,9:27 PM,4:54,Johnson S.FOUL (P2.T3),,,,
+0020900005,524,3,11,4,9:27 PM,4:54,,,Granger Free Throw 1 of 2 (28 PTS),102 - 110,8
+0020900005,526,3,12,4,9:28 PM,4:54,,,MISS Granger Free Throw 2 of 2,,
+0020900005,528,4,0,4,9:28 PM,4:53,Horford REBOUND (Off:3 Def:11),,,,
+0020900005,529,6,1,4,9:28 PM,4:39,,,Jones P.FOUL (P4.PN),,
+0020900005,530,3,11,4,9:28 PM,4:39,Williams Free Throw 1 of 2 (13 PTS),,,102 - 111,9
+0020900005,532,3,12,4,9:28 PM,4:39,Williams Free Throw 2 of 2 (14 PTS),,,102 - 112,10
+0020900005,534,5,2,4,9:29 PM,4:25,Smith STEAL (5 STL),,Jones Lost Ball Turnover (P6.T24),,
+0020900005,535,5,11,4,9:30 PM,4:01,HAWKS Turnover: Shot Clock (T#8),,,,
+0020900005,536,9,2,4,9:30 PM,4:01,,,Pacers Timeout: Short (Reg.4 Short 1),,
+0020900005,537,18,0,4,9:31 PM,4:01,,,,102 - 112,10
+0020900005,538,8,0,4,9:31 PM,4:01,,,SUB: Foster FOR Hibbert,,
+0020900005,539,8,0,4,9:31 PM,4:01,,,SUB: Head FOR Jones,,
+0020900005,540,2,42,4,9:31 PM,3:51,Smith BLOCK (2 BLK),,MISS Murphy 1' Driving Layup,,
+0020900005,541,4,0,4,9:31 PM,3:49,Bibby REBOUND (Off:0 Def:4),,,,
+0020900005,543,2,1,4,9:32 PM,3:32,MISS Williams 20' Jump Shot,,,,
+0020900005,544,4,0,4,9:32 PM,3:31,,,Murphy REBOUND (Off:1 Def:8),,
+0020900005,545,5,1,4,9:32 PM,3:30,,,Murphy Bad Pass Turnover (P5.T25),,
+0020900005,547,8,0,4,9:32 PM,3:30,,,SUB: Jones FOR Head,,
+0020900005,548,9,1,4,9:32 PM,3:30,HAWKS Timeout: Regular (Full 4 Short 1),,,,
+0020900005,550,6,4,4,9:35 PM,3:20,Horford OFF.Foul (P2),,,,
+0020900005,551,5,5,4,9:35 PM,3:20,Horford Foul Turnover (P1.T9),,,,
+0020900005,552,8,0,4,9:35 PM,3:20,,,SUB: Head FOR Jones,,
+0020900005,553,6,1,4,9:35 PM,3:07,Horford P.FOUL (P3.T4),,,,
+0020900005,554,1,1,4,9:36 PM,3:02,,,Granger 26' 3PT Jump Shot (31 PTS) (Foster 3 AST),105 - 112,7
+0020900005,555,1,1,4,9:36 PM,2:43,Bibby 25' 3PT Jump Shot (10 PTS) (Johnson 6 AST),,,105 - 115,10
+0020900005,556,2,42,4,9:36 PM,2:28,Horford BLOCK (2 BLK),,MISS Ford 2' Driving Layup,,
+0020900005,557,4,0,4,9:36 PM,2:26,Horford REBOUND (Off:3 Def:12),,,,
+0020900005,558,6,4,4,9:36 PM,2:22,Williams OFF.Foul (P4),,,,
+0020900005,559,5,5,4,9:36 PM,2:22,Williams Foul Turnover (P2.T10),,,,
+0020900005,560,8,0,4,9:37 PM,2:22,,,SUB: Watson FOR Ford,,
+0020900005,561,2,42,4,9:37 PM,2:02,,,MISS Head 2' Driving Layup,,
+0020900005,562,4,0,4,9:37 PM,2:00,Smith REBOUND (Off:0 Def:3),,,,
+0020900005,563,1,1,4,9:37 PM,1:44,Horford 10' Jump Shot (24 PTS) (Bibby 5 AST),,,105 - 117,12
+0020900005,564,2,1,4,9:38 PM,1:36,,,MISS Head 26' 3PT Jump Shot,,
+0020900005,565,4,0,4,9:38 PM,1:35,Horford REBOUND (Off:3 Def:13),,,,
+0020900005,566,2,47,4,9:38 PM,1:14,MISS Horford 10' Turnaround Jump Shot,,,,
+0020900005,567,4,0,4,9:38 PM,1:12,,,Murphy REBOUND (Off:1 Def:9),,
+0020900005,568,2,1,4,9:38 PM,1:07,,,MISS Granger 24' 3PT Jump Shot,,
+0020900005,569,4,0,4,9:38 PM,1:06,Williams REBOUND (Off:0 Def:4),,,,
+0020900005,571,5,1,4,9:38 PM,0:48,Bibby Bad Pass Turnover (P2.T11),,,,
+0020900005,572,8,0,4,9:39 PM,0:48,SUB: Teague FOR Bibby,,,,
+0020900005,573,8,0,4,9:39 PM,0:48,SUB: Pachulia FOR Horford,,,,
+0020900005,574,1,1,4,9:39 PM,0:32,,,Head 19' Jump Shot (8 PTS),107 - 117,10
+0020900005,576,1,1,4,9:40 PM,0:06,Johnson 24' 3PT Jump Shot (25 PTS),,,107 - 120,13
+0020900005,577,1,41,4,9:40 PM,0:01,,,Watson 1' Running Layup (20 PTS),109 - 120,11
+0020900005,578,13,0,4,9:40 PM,0:00,,,,109 - 120,11

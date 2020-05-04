@@ -1,0 +1,437 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100812,0,12,0,1,7:10 PM,12:00,,,,,
+0020100812,1,10,0,1,7:11 PM,12:00,Jump Ball Campbell vs. Van Horn: Tip to Lynch,,,,
+0020100812,2,6,4,1,7:11 PM,11:47,Campbell OFF.Foul (P1),,,,
+0020100812,3,5,5,1,7:11 PM,11:47,Campbell Foul Turnover (P1.T1),,,,
+0020100812,4,1,42,1,7:12 PM,11:28,,,Kittles  Driving Layup (2 PTS),2 - 0,-2
+0020100812,5,5,2,1,7:12 PM,11:19,Davis Lost Ball Turnover (P1.T2),,Kidd STEAL (1 STL),,
+0020100812,6,1,7,1,7:12 PM,11:13,,,Van Horn  Dunk (2 PTS) (Kidd 1 AST),4 - 0,-4
+0020100812,7,2,1,1,7:13 PM,10:46,MISS Lynch 17' Jump Shot,,Kittles BLOCK (1 BLK),,
+0020100812,8,4,0,1,7:13 PM,10:46,HORNETS Rebound,,,,
+0020100812,9,5,11,1,7:13 PM,10:46,HORNETS Turnover: Shot Clock (T#3),,,,
+0020100812,10,2,1,1,7:13 PM,10:28,,,MISS Collins 17' Jump Shot,,
+0020100812,11,4,0,1,7:13 PM,10:26,Lynch REBOUND (Off:0 Def:1),,,,
+0020100812,12,2,1,1,7:13 PM,10:11,MISS Campbell 16' Jump Shot,,,,
+0020100812,13,4,0,1,7:13 PM,10:09,,,Kidd REBOUND (Off:0 Def:1),,
+0020100812,14,2,1,1,7:14 PM,10:03,,,MISS Kidd 10' Jump Shot,,
+0020100812,15,4,0,1,7:14 PM,10:01,,,Kidd REBOUND (Off:1 Def:1),,
+0020100812,16,5,2,1,7:14 PM,9:53,Davis STEAL (1 STL),,Collins Lost Ball Turnover (P1.T1),,
+0020100812,17,1,1,1,7:14 PM,9:39,Mashburn 21' Jump Shot (2 PTS) (Davis 1 AST),,,4 - 2,-2
+0020100812,18,2,5,1,7:15 PM,9:30,Lynch BLOCK (1 BLK),,MISS Kittles  Layup,,
+0020100812,19,4,0,1,7:15 PM,9:28,Brown REBOUND (Off:0 Def:1),,,,
+0020100812,20,2,1,1,7:15 PM,9:24,MISS Davis 18' Jump Shot,,,,
+0020100812,21,4,0,1,7:15 PM,9:22,,,Kittles REBOUND (Off:0 Def:1),,
+0020100812,22,2,1,1,7:15 PM,9:09,,,MISS Kittles 18' Jump Shot,,
+0020100812,23,4,0,1,7:15 PM,9:07,Mashburn REBOUND (Off:0 Def:1),,,,
+0020100812,24,6,2,1,7:15 PM,9:01,,,Martin S.FOUL (P1.T1),,
+0020100812,25,3,11,1,7:15 PM,9:01,MISS Mashburn Free Throw 1 of 2,,,,
+0020100812,26,4,1,1,7:15 PM,9:01,HORNETS Rebound,,,,
+0020100812,27,3,12,1,7:15 PM,9:01,Mashburn Free Throw 2 of 2 (3 PTS),,,4 - 3,-1
+0020100812,28,1,1,1,7:16 PM,8:45,,,Martin 15' Jump Shot (2 PTS) (Kidd 2 AST),6 - 3,-3
+0020100812,29,1,5,1,7:16 PM,8:33,Mashburn  Layup (5 PTS) (Davis 2 AST),,,6 - 5,-1
+0020100812,30,2,1,1,7:16 PM,8:16,,,MISS Kidd 19' Jump Shot,,
+0020100812,31,4,0,1,7:16 PM,8:15,Brown REBOUND (Off:0 Def:2),,,,
+0020100812,32,1,5,1,7:17 PM,8:03,Campbell  Layup (2 PTS),,,6 - 7,1
+0020100812,33,6,2,1,7:17 PM,8:03,,,Collins S.FOUL (P1.T2),,
+0020100812,34,3,10,1,7:17 PM,8:03,Campbell Free Throw 1 of 1 (3 PTS),,,6 - 8,2
+0020100812,35,2,1,1,7:17 PM,7:46,,,MISS Kittles 16' Jump Shot,,
+0020100812,36,4,0,1,7:17 PM,7:44,Brown REBOUND (Off:0 Def:3),,,,
+0020100812,37,1,47,1,7:18 PM,7:27,Mashburn 14' Turnaround Jump Shot (7 PTS) (Davis 3 AST),,,6 - 10,4
+0020100812,38,2,1,1,7:18 PM,6:59,,,MISS Kidd 26' 3PT Jump Shot,,
+0020100812,39,4,0,1,7:18 PM,6:57,Brown REBOUND (Off:0 Def:4),,,,
+0020100812,40,6,1,1,7:18 PM,6:47,,,Kidd P.FOUL (P1.T3),,
+0020100812,41,1,1,1,7:19 PM,6:39,Mashburn 17' Jump Shot (9 PTS),,,6 - 12,6
+0020100812,42,2,1,1,7:19 PM,6:23,,,MISS Van Horn 16' Jump Shot,,
+0020100812,44,4,0,1,7:19 PM,6:21,,,Collins REBOUND (Off:1 Def:0),,
+0020100812,43,1,4,1,7:19 PM,6:21,,,Collins  Tip Shot (2 PTS),8 - 12,4
+0020100812,45,1,1,1,7:19 PM,6:07,Mashburn 16' Jump Shot (11 PTS),,,8 - 14,6
+0020100812,46,5,1,1,7:19 PM,6:00,Lynch STEAL (1 STL),,Martin Bad Pass Turnover (P1.T2),,
+0020100812,47,2,1,1,7:19 PM,5:49,MISS Brown 15' Jump Shot,,,,
+0020100812,48,4,0,1,7:19 PM,5:47,,,Kidd REBOUND (Off:1 Def:2),,
+0020100812,49,1,3,1,7:20 PM,5:41,,,Van Horn 7' Hook Shot (4 PTS) (Kidd 3 AST),10 - 14,4
+0020100812,50,2,5,1,7:20 PM,5:27,MISS Brown  Layup,,,,
+0020100812,51,4,0,1,7:20 PM,5:25,,,Collins REBOUND (Off:1 Def:1),,
+0020100812,52,1,7,1,7:20 PM,5:18,,,Van Horn  Dunk (6 PTS) (Kidd 4 AST),12 - 14,2
+0020100812,53,6,2,1,7:20 PM,5:01,,,Martin S.FOUL (P2.T4),,
+0020100812,54,9,1,1,7:20 PM,5:01,HORNETS Timeout: Regular (Full 1 Short 0),,,,
+0020100812,56,8,0,1,7:22 PM,5:01,SUB: Magloire FOR Campbell,,,,
+0020100812,57,8,0,1,7:22 PM,5:01,,,SUB: Jefferson FOR Martin,,
+0020100812,58,3,11,1,7:23 PM,5:01,Mashburn Free Throw 1 of 2 (12 PTS),,,12 - 15,3
+0020100812,59,3,12,1,7:23 PM,5:01,Mashburn Free Throw 2 of 2 (13 PTS),,,12 - 16,4
+0020100812,60,5,4,1,7:23 PM,4:48,,,Van Horn Traveling Turnover (P1.T3),,
+0020100812,61,1,47,1,7:24 PM,4:33,Mashburn 15' Turnaround Jump Shot (15 PTS) (Davis 4 AST),,,12 - 18,6
+0020100812,62,5,1,1,7:24 PM,4:18,,,Jefferson Bad Pass Turnover (P1.T4),,
+0020100812,63,2,1,1,7:25 PM,3:57,MISS Mashburn 18' Jump Shot,,,,
+0020100812,64,4,0,1,7:25 PM,3:55,,,Collins REBOUND (Off:1 Def:2),,
+0020100812,65,1,46,1,7:25 PM,3:37,,,Jefferson 5' Running Jump Shot (2 PTS),14 - 18,4
+0020100812,66,5,1,1,7:25 PM,3:19,Mashburn Bad Pass Turnover (P1.T4),,,,
+0020100812,67,8,0,1,7:25 PM,3:19,,,SUB: Harris FOR Kidd,,
+0020100812,68,8,0,1,7:25 PM,3:19,,,SUB: Williams FOR Collins,,
+0020100812,69,8,0,1,7:26 PM,3:19,SUB: Nailon FOR Lynch,,,,
+0020100812,70,1,1,1,7:26 PM,3:01,,,Harris 19' Jump Shot (2 PTS) (Kittles 1 AST),16 - 18,2
+0020100812,71,5,8,1,7:27 PM,2:40,Magloire 3 Second Violation Turnover (P1.T5),,,,
+0020100812,72,9,1,1,7:27 PM,2:40,,,Nets Timeout: Regular (Reg.1 Short 0),,
+0020100812,74,5,1,1,7:29 PM,2:28,Davis STEAL (2 STL),,Williams Bad Pass Turnover (P1.T5),,
+0020100812,75,2,5,1,7:29 PM,2:15,MISS Brown  Layup,,Van Horn BLOCK (1 BLK),,
+0020100812,76,4,0,1,7:29 PM,2:15,Magloire REBOUND (Off:1 Def:0),,,,
+0020100812,77,6,2,1,7:29 PM,2:15,,,Van Horn S.FOUL (P1.PN),,
+0020100812,78,3,11,1,7:29 PM,2:15,Magloire Free Throw 1 of 2 (1 PTS),,,16 - 19,3
+0020100812,79,8,0,1,7:29 PM,2:15,SUB: Drew FOR Davis,,,,
+0020100812,80,3,12,1,7:30 PM,2:15,Magloire Free Throw 2 of 2 (2 PTS),,,16 - 20,4
+0020100812,81,2,1,1,7:30 PM,1:57,,,MISS Harris 17' Jump Shot,,
+0020100812,82,4,0,1,7:30 PM,1:55,Magloire REBOUND (Off:1 Def:1),,,,
+0020100812,83,1,42,1,7:30 PM,1:37,Magloire  Driving Layup (4 PTS),,,16 - 22,6
+0020100812,84,6,2,1,7:30 PM,1:37,,,Williams S.FOUL (P1.PN),,
+0020100812,85,3,10,1,7:31 PM,1:37,Magloire Free Throw 1 of 1 (5 PTS),,,16 - 23,7
+0020100812,86,2,1,1,7:31 PM,1:21,,,MISS Jefferson 19' Jump Shot,,
+0020100812,87,4,0,1,7:31 PM,1:18,Magloire REBOUND (Off:1 Def:2),,,,
+0020100812,88,1,1,1,7:31 PM,1:12,Mashburn 15' Jump Shot (17 PTS),,,16 - 25,9
+0020100812,89,1,5,1,7:32 PM,0:52,,,Williams  Layup (2 PTS),18 - 25,7
+0020100812,90,1,1,1,7:32 PM,0:32,Mashburn 14' Jump Shot (19 PTS),,,18 - 27,9
+0020100812,91,6,1,1,7:32 PM,0:21,Nailon P.FOUL (P1.T1),,,,
+0020100812,92,2,7,1,7:33 PM,0:12,Magloire BLOCK (1 BLK),,MISS Jefferson  Dunk,,
+0020100812,93,4,0,1,7:33 PM,0:08,Mashburn REBOUND (Off:0 Def:2),,,,
+0020100812,94,2,1,1,7:33 PM,0:00,MISS Mashburn 26' 3PT Jump Shot,,Jefferson BLOCK (1 BLK),,
+0020100812,96,4,0,1,7:33 PM,0:00,HORNETS Rebound,,,,
+0020100812,95,13,0,1,7:33 PM,0:00,,,,18 - 27,9
+0020100812,98,12,0,2,7:35 PM,12:00,,,,18 - 27,9
+0020100812,99,6,1,2,7:36 PM,11:49,Drew P.FOUL (P1.T1),,,,
+0020100812,100,5,4,2,7:36 PM,11:41,,,Scalabrine Traveling Turnover (P1.T6),,
+0020100812,101,1,49,2,7:36 PM,11:28,Magloire  Driving Dunk (7 PTS) (Drew 1 AST),,,18 - 29,11
+0020100812,102,2,1,2,7:37 PM,11:09,,,MISS Jefferson 16' Jump Shot,,
+0020100812,103,4,0,2,7:37 PM,11:07,Drew REBOUND (Off:0 Def:1),,,,
+0020100812,104,2,1,2,7:37 PM,10:55,MISS Nailon 15' Jump Shot,,,,
+0020100812,105,4,0,2,7:37 PM,10:54,HORNETS Rebound,,,,
+0020100812,106,5,1,2,7:37 PM,10:46,Drew Bad Pass Turnover (P1.T6),,Jefferson STEAL (1 STL),,
+0020100812,107,2,1,2,7:38 PM,10:35,Magloire BLOCK (2 BLK),,MISS Williams 7' Jump Shot,,
+0020100812,109,4,0,2,7:38 PM,10:32,,,Williams REBOUND (Off:1 Def:0),,
+0020100812,108,2,5,2,7:38 PM,10:32,,,MISS Williams  Layup,,
+0020100812,110,4,0,2,7:38 PM,10:31,,,Scalabrine REBOUND (Off:1 Def:0),,
+0020100812,111,2,5,2,7:38 PM,10:31,Magloire BLOCK (3 BLK),,MISS Scalabrine  Layup,,
+0020100812,113,4,0,2,7:38 PM,10:31,,,Nets Rebound,,
+0020100812,112,8,0,2,7:38 PM,10:31,,,SUB: Kidd FOR Kittles,,
+0020100812,115,8,0,2,7:38 PM,10:31,SUB: Davis FOR Drew,,,,
+0020100812,116,10,0,2,7:38 PM,10:31,Jump Ball Magloire vs. Scalabrine: Tip to Jefferson,,,,
+0020100812,118,5,4,2,7:38 PM,10:20,,,Harris Traveling Turnover (P1.T7),,
+0020100812,119,1,1,2,7:39 PM,10:01,Nailon 8' Jump Shot (2 PTS) (Lynch 1 AST),,,18 - 31,13
+0020100812,120,2,5,2,7:39 PM,9:38,Magloire BLOCK (4 BLK),,MISS Williams  Layup,,
+0020100812,121,4,0,2,7:39 PM,9:35,Augmon REBOUND (Off:0 Def:1),,,,
+0020100812,122,1,1,2,7:39 PM,9:31,Davis 27' 3PT Jump Shot (3 PTS) (Augmon 1 AST),,,18 - 34,16
+0020100812,123,9,1,2,7:40 PM,9:24,,,Nets Timeout: Regular (Reg.2 Short 0),,
+0020100812,125,8,0,2,7:42 PM,9:24,,,SUB: Martin FOR Scalabrine,,
+0020100812,126,1,8,2,7:42 PM,9:13,,,Williams  Slam Dunk (4 PTS) (Kidd 5 AST),20 - 34,14
+0020100812,127,1,47,2,7:43 PM,8:51,Augmon 19' Turnaround Jump Shot (2 PTS),,,20 - 36,16
+0020100812,128,5,1,2,7:43 PM,8:25,,,Kidd Bad Pass Turnover (P1.T8),,
+0020100812,129,1,5,2,7:43 PM,8:08,Magloire  Layup (9 PTS),,,20 - 38,18
+0020100812,130,6,1,2,7:44 PM,7:53,Magloire P.FOUL (P1.T2),,,,
+0020100812,131,1,7,2,7:44 PM,7:42,,,Williams  Dunk (6 PTS) (Harris 1 AST),22 - 38,16
+0020100812,132,9,1,2,7:44 PM,7:29,HORNETS Timeout: Regular (Full 2 Short 0),,,,
+0020100812,134,8,0,2,7:46 PM,7:29,SUB: Mashburn FOR Nailon,,,,
+0020100812,135,1,1,2,7:47 PM,7:17,Davis  3PT Jump Shot (6 PTS) (Lynch 2 AST),,,22 - 41,19
+0020100812,136,2,5,2,7:47 PM,6:55,,,MISS Harris  Layup,,
+0020100812,137,4,0,2,7:47 PM,6:52,Magloire REBOUND (Off:1 Def:3),,,,
+0020100812,138,2,5,2,7:47 PM,6:36,MISS Augmon  Layup,,,,
+0020100812,140,4,0,2,7:47 PM,6:35,Lynch REBOUND (Off:1 Def:1),,,,
+0020100812,139,2,4,2,7:47 PM,6:35,MISS Lynch  Tip Shot,,,,
+0020100812,141,4,0,2,7:47 PM,6:35,,,Nets Rebound,,
+0020100812,142,8,0,2,7:47 PM,6:35,,,SUB: Collins FOR Williams,,
+0020100812,143,8,0,2,7:48 PM,6:35,SUB: Campbell FOR Magloire,,,,
+0020100812,144,2,1,2,7:48 PM,6:19,,,MISS Martin 18' Jump Shot,,
+0020100812,145,4,0,2,7:48 PM,6:17,Campbell REBOUND (Off:0 Def:1),,,,
+0020100812,147,7,2,2,7:48 PM,6:11,,,Martin Violation:Defensive Goaltending,,
+0020100812,146,1,1,2,7:48 PM,6:11,Mashburn 4' Jump Shot (21 PTS) (Davis 5 AST),,,22 - 43,21
+0020100812,148,2,1,2,7:48 PM,5:54,,,MISS Martin 10' Jump Shot,,
+0020100812,149,4,0,2,7:49 PM,5:49,Lynch REBOUND (Off:1 Def:2),,,,
+0020100812,150,1,42,2,7:49 PM,5:44,Mashburn  Driving Layup (23 PTS),,,22 - 45,23
+0020100812,151,5,1,2,7:49 PM,5:29,Augmon STEAL (1 STL),,Harris Bad Pass Turnover (P2.T9),,
+0020100812,152,1,5,2,7:49 PM,5:24,Lynch  Layup (2 PTS) (Davis 6 AST),,,22 - 47,25
+0020100812,153,9,1,2,7:49 PM,5:22,,,Nets Timeout: Regular (Reg.3 Short 0),,
+0020100812,155,8,0,2,7:51 PM,5:22,SUB: Brown FOR Lynch,,,,
+0020100812,156,8,0,2,7:51 PM,5:22,,,SUB: Van Horn FOR Jefferson,,
+0020100812,157,2,1,2,7:51 PM,5:10,,,MISS Van Horn 20' Jump Shot,,
+0020100812,158,4,0,2,7:51 PM,5:08,Davis REBOUND (Off:0 Def:1),,,,
+0020100812,159,1,1,2,7:52 PM,4:50,Mashburn 19' Jump Shot (25 PTS),,,22 - 49,27
+0020100812,160,2,1,2,7:52 PM,4:22,,,MISS Van Horn 7' Jump Shot,,
+0020100812,161,4,0,2,7:52 PM,4:20,Brown REBOUND (Off:0 Def:5),,,,
+0020100812,162,2,1,2,7:52 PM,4:05,MISS Davis 26' 3PT Jump Shot,,,,
+0020100812,163,4,0,2,7:52 PM,4:03,,,Harris REBOUND (Off:0 Def:1),,
+0020100812,164,1,5,2,7:52 PM,4:00,,,Martin  Layup (4 PTS) (Harris 2 AST),24 - 49,25
+0020100812,165,6,2,2,7:52 PM,4:00,Davis S.FOUL (P1.T3),,,,
+0020100812,166,8,0,2,7:53 PM,4:00,,,SUB: Kittles FOR Harris,,
+0020100812,167,3,10,2,7:53 PM,4:00,,,MISS Martin Free Throw 1 of 1,,
+0020100812,168,4,0,2,7:53 PM,3:59,Campbell REBOUND (Off:0 Def:2),,,,
+0020100812,169,1,47,2,7:53 PM,3:47,Mashburn 14' Turnaround Jump Shot (27 PTS),,,24 - 51,27
+0020100812,170,1,1,2,7:53 PM,3:34,,,Kidd 20' Jump Shot (2 PTS),26 - 51,25
+0020100812,171,2,1,2,7:54 PM,3:12,MISS Brown 16' Jump Shot,,,,
+0020100812,173,4,0,2,7:54 PM,3:09,Augmon REBOUND (Off:1 Def:1),,,,
+0020100812,172,2,5,2,7:54 PM,3:09,MISS Augmon  Layup,,,,
+0020100812,174,4,0,2,7:54 PM,3:08,,,Kittles REBOUND (Off:0 Def:2),,
+0020100812,175,1,1,2,7:54 PM,2:59,,,Kidd 26' 3PT Jump Shot (5 PTS),29 - 51,22
+0020100812,176,8,0,2,7:55 PM,2:40,SUB: Lynch FOR Augmon,,,,
+0020100812,177,9,2,2,7:55 PM,2:40,HORNETS Timeout: Short (Full 2 Short 1),,,,
+0020100812,179,10,0,2,7:55 PM,2:40,Jump Ball Campbell vs. Collins: Tip to Lynch,,,,
+0020100812,180,2,1,2,7:56 PM,2:33,MISS Mashburn 26' 3PT Jump Shot,,,,
+0020100812,181,4,0,2,7:56 PM,2:30,,,Van Horn REBOUND (Off:0 Def:1),,
+0020100812,182,1,5,2,7:57 PM,2:14,,,Van Horn  Layup (8 PTS) (Collins 1 AST),31 - 51,20
+0020100812,183,2,1,2,7:57 PM,1:57,MISS Campbell 12' Jump Shot,,,,
+0020100812,184,4,0,2,7:57 PM,1:55,,,Kidd REBOUND (Off:1 Def:3),,
+0020100812,185,6,2,2,7:57 PM,1:53,Mashburn S.FOUL (P1.T4),,,,
+0020100812,186,3,11,2,7:57 PM,1:53,,,Kittles Free Throw 1 of 2 (3 PTS),32 - 51,19
+0020100812,187,3,12,2,7:57 PM,1:53,,,Kittles Free Throw 2 of 2 (4 PTS),33 - 51,18
+0020100812,188,2,1,2,7:58 PM,1:31,MISS Davis 27' 3PT Jump Shot,,,,
+0020100812,189,4,0,2,7:58 PM,1:28,,,Collins REBOUND (Off:1 Def:3),,
+0020100812,190,6,1,2,7:58 PM,1:18,Davis P.FOUL (P2.PN),,,,
+0020100812,191,3,11,2,7:58 PM,1:18,,,Kidd Free Throw 1 of 2 (6 PTS),34 - 51,17
+0020100812,192,3,12,2,7:59 PM,1:18,,,Kidd Free Throw 2 of 2 (7 PTS),35 - 51,16
+0020100812,193,5,4,2,7:59 PM,0:59,Davis Traveling Turnover (P2.T7),,,,
+0020100812,194,2,1,2,8:00 PM,0:42,,,MISS Collins 18' Jump Shot,,
+0020100812,195,4,0,2,8:00 PM,0:40,Brown REBOUND (Off:0 Def:6),,,,
+0020100812,196,2,5,2,8:00 PM,0:32,MISS Davis  Layup,,,,
+0020100812,198,4,0,2,8:00 PM,0:31,Campbell REBOUND (Off:1 Def:2),,,,
+0020100812,197,2,5,2,8:00 PM,0:31,MISS Campbell  Layup,,Martin BLOCK (1 BLK),,
+0020100812,199,4,0,2,8:00 PM,0:28,,,Martin REBOUND (Off:0 Def:1),,
+0020100812,200,5,2,2,8:00 PM,0:28,Lynch STEAL (2 STL),,Martin Lost Ball Turnover (P2.T10),,
+0020100812,201,6,2,2,8:00 PM,0:28,,,Collins S.FOUL (P2.T1),,
+0020100812,202,3,11,2,8:00 PM,0:28,Lynch Free Throw 1 of 2 (3 PTS),,,35 - 52,17
+0020100812,203,8,0,2,8:01 PM,0:28,SUB: Magloire FOR Campbell,,,,
+0020100812,204,3,12,2,8:01 PM,0:28,Lynch Free Throw 2 of 2 (4 PTS),,,35 - 53,18
+0020100812,205,2,1,2,8:01 PM,0:06,,,MISS Van Horn 19' Jump Shot,,
+0020100812,206,4,0,2,8:01 PM,0:04,Brown REBOUND (Off:0 Def:7),,,,
+0020100812,207,6,4,2,8:01 PM,0:01,Davis OFF.Foul (P3),,,,
+0020100812,208,5,5,2,8:01 PM,0:01,Davis Foul Turnover (P3.T8),,,,
+0020100812,209,5,1,2,8:02 PM,0:00,Lynch STEAL (3 STL),,Van Horn Bad Pass Turnover (P2.T11),,
+0020100812,210,13,0,2,8:02 PM,0:00,,,,35 - 53,18
+0020100812,212,12,0,3,8:18 PM,12:00,,,,35 - 53,18
+0020100812,213,6,11,3,8:18 PM,12:00,Davis T.FOUL (P3.T0),,,,
+0020100812,214,3,16,3,8:18 PM,12:00,,,MISS Kidd Free Throw Technical,,
+0020100812,215,4,1,3,8:18 PM,12:00,,,Nets Rebound,,
+0020100812,217,1,1,3,8:19 PM,11:37,,,Kittles 21' Jump Shot (6 PTS) (Van Horn 1 AST),37 - 53,16
+0020100812,218,2,1,3,8:19 PM,11:08,MISS Lynch 7' Jump Shot,,,,
+0020100812,219,4,0,3,8:19 PM,11:06,,,Van Horn REBOUND (Off:0 Def:2),,
+0020100812,220,6,2,3,8:19 PM,11:02,Campbell S.FOUL (P2.T1),,,,
+0020100812,221,3,11,3,8:20 PM,11:02,,,MISS Kittles Free Throw 1 of 2,,
+0020100812,222,4,1,3,8:20 PM,11:02,,,Nets Rebound,,
+0020100812,223,3,12,3,8:20 PM,11:02,,,MISS Kittles Free Throw 2 of 2,,
+0020100812,224,4,0,3,8:20 PM,11:01,Campbell REBOUND (Off:1 Def:3),,,,
+0020100812,225,2,1,3,8:20 PM,10:42,MISS Lynch 19' Jump Shot,,,,
+0020100812,226,4,0,3,8:20 PM,10:40,Mashburn REBOUND (Off:1 Def:2),,,,
+0020100812,227,2,1,3,8:21 PM,10:21,MISS Mashburn 6' Jump Shot,,,,
+0020100812,228,4,0,3,8:21 PM,10:19,,,Kidd REBOUND (Off:1 Def:4),,
+0020100812,229,6,2,3,8:21 PM,10:18,Lynch S.FOUL (P1.T2),,,,
+0020100812,230,8,0,3,8:21 PM,10:18,SUB: Nailon FOR Lynch,,,,
+0020100812,231,3,11,3,8:21 PM,10:18,,,Kittles Free Throw 1 of 2 (7 PTS),38 - 53,15
+0020100812,232,3,12,3,8:21 PM,10:18,,,MISS Kittles Free Throw 2 of 2,,
+0020100812,233,4,0,3,8:21 PM,10:16,Brown REBOUND (Off:0 Def:8),,,,
+0020100812,234,2,1,3,8:22 PM,10:04,MISS Nailon 9' Jump Shot,,,,
+0020100812,235,4,0,3,8:22 PM,10:02,,,Van Horn REBOUND (Off:0 Def:3),,
+0020100812,236,1,1,3,8:22 PM,9:56,,,Kidd 22' Jump Shot (9 PTS),40 - 53,13
+0020100812,237,9,1,3,8:22 PM,9:50,HORNETS Timeout: Regular (Full 3 Short 1),,,,
+0020100812,239,2,5,3,8:24 PM,9:42,MISS Campbell  Layup,,,,
+0020100812,240,4,0,3,8:24 PM,9:41,,,Collins REBOUND (Off:1 Def:4),,
+0020100812,241,6,1,3,8:24 PM,9:41,Campbell P.FOUL (P3.T3),,,,
+0020100812,242,6,1,3,8:25 PM,9:32,Campbell P.FOUL (P4.T4),,,,
+0020100812,247,8,0,3,8:25 PM,9:32,SUB: Magloire FOR Campbell,,,,
+0020100812,243,1,5,3,8:25 PM,9:21,,,Martin  Layup (6 PTS) (Collins 2 AST),42 - 53,11
+0020100812,244,2,1,3,8:25 PM,9:03,MISS Magloire 10' Jump Shot,,,,
+0020100812,245,4,0,3,8:25 PM,8:57,,,Kidd REBOUND (Off:1 Def:5),,
+0020100812,246,5,1,3,8:26 PM,8:57,,,Kidd Bad Pass Turnover (P2.T12),,
+0020100812,248,1,1,3,8:26 PM,8:44,Davis 25' 3PT Jump Shot (9 PTS),,,42 - 56,14
+0020100812,250,2,1,3,8:26 PM,8:36,,,MISS Van Horn 25' 3PT Jump Shot,,
+0020100812,251,4,0,3,8:26 PM,8:34,Davis REBOUND (Off:0 Def:2),,,,
+0020100812,252,6,2,3,8:26 PM,8:32,,,Van Horn S.FOUL (P2.T1),,
+0020100812,253,3,11,3,8:26 PM,8:32,Mashburn Free Throw 1 of 2 (28 PTS),,,42 - 57,15
+0020100812,254,3,12,3,8:26 PM,8:32,Mashburn Free Throw 2 of 2 (29 PTS),,,42 - 58,16
+0020100812,255,2,5,3,8:27 PM,8:21,,,MISS Van Horn  Layup,,
+0020100812,256,4,0,3,8:27 PM,8:15,,,Van Horn REBOUND (Off:1 Def:3),,
+0020100812,257,5,1,3,8:27 PM,8:12,Brown STEAL (1 STL),,Collins Bad Pass Turnover (P2.T13),,
+0020100812,258,5,1,3,8:27 PM,7:55,Davis Bad Pass Turnover (P4.T9),,,,
+0020100812,259,2,5,3,8:27 PM,7:49,,,MISS Kidd  Layup,,
+0020100812,261,4,0,3,8:27 PM,7:48,,,Collins REBOUND (Off:2 Def:4),,
+0020100812,260,1,5,3,8:27 PM,7:48,,,Collins  Layup (4 PTS),44 - 58,14
+0020100812,262,6,2,3,8:27 PM,7:48,Magloire S.FOUL (P2.PN),,,,
+0020100812,263,3,10,3,8:28 PM,7:48,,,Collins Free Throw 1 of 1 (5 PTS),45 - 58,13
+0020100812,264,1,1,3,8:28 PM,7:26,Mashburn 16' Jump Shot (31 PTS),,,45 - 60,15
+0020100812,265,2,5,3,8:28 PM,7:13,,,MISS Martin  Layup,,
+0020100812,267,4,0,3,8:29 PM,7:11,,,Van Horn REBOUND (Off:2 Def:3),,
+0020100812,266,1,4,3,8:29 PM,7:11,,,Van Horn  Tip Shot (10 PTS),47 - 60,13
+0020100812,268,1,1,3,8:29 PM,6:50,Nailon 16' Jump Shot (4 PTS) (Mashburn 1 AST),,,47 - 62,15
+0020100812,269,2,1,3,8:29 PM,6:37,,,MISS Martin 26' 3PT Jump Shot,,
+0020100812,270,4,0,3,8:29 PM,6:35,Magloire REBOUND (Off:1 Def:4),,,,
+0020100812,271,2,5,3,8:30 PM,6:26,MISS Davis  Layup,,,,
+0020100812,273,4,0,3,8:30 PM,6:24,Magloire REBOUND (Off:2 Def:4),,,,
+0020100812,272,1,64,3,8:30 PM,6:24,Magloire  Follow Up Dunk (11 PTS),,,47 - 64,17
+0020100812,274,2,1,3,8:30 PM,6:02,,,MISS Van Horn 8' Jump Shot,,
+0020100812,275,4,0,3,8:30 PM,5:59,Davis REBOUND (Off:0 Def:3),,,,
+0020100812,276,6,4,3,8:30 PM,5:53,Davis OFF.Foul (P4),,,,
+0020100812,277,5,5,3,8:30 PM,5:53,Davis Foul Turnover (P5.T10),,,,
+0020100812,278,8,0,3,8:30 PM,5:53,SUB: Drew FOR Davis,,,,
+0020100812,279,9,1,3,8:31 PM,5:53,,,Nets Timeout: Regular (Reg.4 Short 0),,
+0020100812,281,8,0,3,8:33 PM,5:53,SUB: Augmon FOR Drew,,,,
+0020100812,282,2,1,3,8:33 PM,5:42,,,MISS Kittles 20' Jump Shot,,
+0020100812,283,4,0,3,8:33 PM,5:42,HORNETS Rebound,,,,
+0020100812,284,6,1,3,8:33 PM,5:33,,,Martin P.FOUL (P3.T2),,
+0020100812,285,6,2,3,8:34 PM,5:26,,,Van Horn S.FOUL (P3.T3),,
+0020100812,286,3,11,3,8:34 PM,5:26,MISS Mashburn Free Throw 1 of 2,,,,
+0020100812,287,4,1,3,8:34 PM,5:26,HORNETS Rebound,,,,
+0020100812,288,3,12,3,8:34 PM,5:26,Mashburn Free Throw 2 of 2 (32 PTS),,,47 - 65,18
+0020100812,289,2,1,3,8:35 PM,5:07,,,MISS Kidd 15' Jump Shot,,
+0020100812,290,4,0,3,8:35 PM,5:05,Magloire REBOUND (Off:2 Def:5),,,,
+0020100812,291,2,1,3,8:35 PM,4:57,MISS Nailon 11' Jump Shot,,,,
+0020100812,293,4,0,3,8:35 PM,4:56,Brown REBOUND (Off:1 Def:8),,,,
+0020100812,292,2,4,3,8:35 PM,4:56,MISS Brown  Tip Shot,,,,
+0020100812,294,4,0,3,8:35 PM,4:56,Brown REBOUND (Off:2 Def:8),,,,
+0020100812,295,6,2,3,8:35 PM,4:56,,,Martin S.FOUL (P4.T4),,
+0020100812,296,8,0,3,8:35 PM,4:56,,,SUB: Jefferson FOR Van Horn,,
+0020100812,297,3,11,3,8:35 PM,4:56,Brown Free Throw 1 of 2 (1 PTS),,,47 - 66,19
+0020100812,298,3,12,3,8:35 PM,4:56,MISS Brown Free Throw 2 of 2,,,,
+0020100812,299,4,0,3,8:36 PM,4:55,,,Martin REBOUND (Off:0 Def:2),,
+0020100812,300,6,2,3,8:36 PM,4:39,Magloire S.FOUL (P3.PN),,,,
+0020100812,301,3,11,3,8:36 PM,4:39,,,MISS Kidd Free Throw 1 of 2,,
+0020100812,302,4,1,3,8:36 PM,4:39,,,Nets Rebound,,
+0020100812,303,3,12,3,8:36 PM,4:39,,,Kidd Free Throw 2 of 2 (10 PTS),48 - 66,18
+0020100812,304,5,1,3,8:37 PM,4:25,Magloire Bad Pass Turnover (P2.T11),,,,
+0020100812,305,2,1,3,8:37 PM,4:12,,,MISS Kittles 27' 3PT Jump Shot,,
+0020100812,306,4,0,3,8:37 PM,4:08,Brown REBOUND (Off:2 Def:9),,,,
+0020100812,307,6,2,3,8:38 PM,3:59,,,Collins S.FOUL (P3.PN),,
+0020100812,308,3,11,3,8:38 PM,3:59,MISS Nailon Free Throw 1 of 2,,,,
+0020100812,309,4,1,3,8:38 PM,3:59,HORNETS Rebound,,,,
+0020100812,310,8,0,3,8:38 PM,3:59,,,SUB: Harris FOR Kittles,,
+0020100812,311,3,12,3,8:38 PM,3:59,MISS Nailon Free Throw 2 of 2,,,,
+0020100812,312,4,0,3,8:38 PM,3:58,,,Collins REBOUND (Off:2 Def:5),,
+0020100812,313,1,1,3,8:39 PM,3:38,,,Jefferson 7' Jump Shot (4 PTS),50 - 66,16
+0020100812,315,7,2,3,8:39 PM,3:18,,,Martin Violation:Defensive Goaltending,,
+0020100812,314,1,5,3,8:39 PM,3:18,Magloire  Layup (13 PTS) (Nailon 1 AST),,,50 - 68,18
+0020100812,316,1,42,3,8:39 PM,3:00,,,Martin  Driving Layup (8 PTS) (Kidd 6 AST),52 - 68,16
+0020100812,317,2,1,3,8:40 PM,2:40,MISS Nailon 7' Jump Shot,,,,
+0020100812,319,4,0,3,8:40 PM,2:38,Magloire REBOUND (Off:3 Def:5),,,,
+0020100812,318,1,4,3,8:40 PM,2:38,Magloire  Tip Shot (15 PTS),,,52 - 70,18
+0020100812,320,2,5,3,8:40 PM,2:28,,,MISS Harris  Layup,,
+0020100812,321,4,0,3,8:40 PM,2:27,Brown REBOUND (Off:2 Def:10),,,,
+0020100812,322,1,5,3,8:40 PM,2:22,Augmon  Layup (4 PTS),,,52 - 72,20
+0020100812,323,6,2,3,8:40 PM,2:22,,,Martin S.FOUL (P5.PN),,
+0020100812,324,8,0,3,8:40 PM,2:22,,,SUB: Williams FOR Collins,,
+0020100812,325,8,0,3,8:40 PM,2:22,,,SUB: Scalabrine FOR Martin,,
+0020100812,326,3,10,3,8:40 PM,2:22,Augmon Free Throw 1 of 1 (5 PTS),,,52 - 73,21
+0020100812,327,1,1,3,8:41 PM,2:01,,,Kidd 20' Jump Shot (12 PTS) (Jefferson 1 AST),54 - 73,19
+0020100812,328,1,1,3,8:41 PM,1:41,Mashburn 20' Jump Shot (34 PTS),,,54 - 75,21
+0020100812,329,6,2,3,8:41 PM,1:38,Mashburn S.FOUL (P2.PN),,,,
+0020100812,330,3,11,3,8:42 PM,1:38,,,MISS Jefferson Free Throw 1 of 2,,
+0020100812,331,4,1,3,8:42 PM,1:38,,,Nets Rebound,,
+0020100812,332,3,12,3,8:42 PM,1:38,,,Jefferson Free Throw 2 of 2 (5 PTS),55 - 75,20
+0020100812,333,1,1,3,8:42 PM,1:19,Mashburn 16' Jump Shot (36 PTS),,,55 - 77,22
+0020100812,334,2,1,3,8:43 PM,1:00,,,MISS Harris 26' 3PT Jump Shot,,
+0020100812,335,4,0,3,8:43 PM,0:57,Augmon REBOUND (Off:1 Def:2),,,,
+0020100812,336,5,1,3,8:43 PM,0:53,Augmon Bad Pass Turnover (P1.T12),,Kidd STEAL (2 STL),,
+0020100812,337,1,1,3,8:43 PM,0:49,,,Jefferson 18' Jump Shot (7 PTS) (Williams 1 AST),57 - 77,20
+0020100812,338,2,1,3,8:43 PM,0:34,MISS Brown 19' Jump Shot,,,,
+0020100812,339,4,0,3,8:43 PM,0:32,,,Harris REBOUND (Off:0 Def:2),,
+0020100812,340,2,1,3,8:43 PM,0:26,,,MISS Kidd 18' Jump Shot,,
+0020100812,341,4,0,3,8:43 PM,0:23,Magloire REBOUND (Off:3 Def:6),,,,
+0020100812,342,2,1,3,8:44 PM,0:02,MISS Mashburn 18' Jump Shot,,,,
+0020100812,343,4,0,3,8:44 PM,0:01,,,Williams REBOUND (Off:1 Def:1),,
+0020100812,344,13,0,3,8:44 PM,0:00,,,,57 - 77,20
+0020100812,346,12,0,4,8:46 PM,12:00,,,,57 - 77,20
+0020100812,347,1,1,4,8:47 PM,11:42,Davis 16' Jump Shot (11 PTS),,,57 - 79,22
+0020100812,348,5,2,4,8:47 PM,11:31,Nailon STEAL (1 STL),,Jefferson Lost Ball Turnover (P2.T14),,
+0020100812,349,1,5,4,8:47 PM,11:25,Nailon  Layup (6 PTS),,,57 - 81,24
+0020100812,350,1,7,4,8:47 PM,11:03,,,Jefferson  Dunk (9 PTS) (Williams 2 AST),59 - 81,22
+0020100812,351,1,1,4,8:48 PM,10:36,Davis 16' Jump Shot (13 PTS),,,59 - 83,24
+0020100812,352,1,5,4,8:48 PM,10:20,,,Harris  Layup (4 PTS) (Johnson 1 AST),61 - 83,22
+0020100812,353,1,5,4,8:48 PM,9:58,Magloire  Layup (17 PTS) (Davis 7 AST),,,61 - 85,24
+0020100812,354,6,2,4,8:49 PM,9:39,Lynch S.FOUL (P2.T1),,,,
+0020100812,355,3,11,4,8:49 PM,9:39,,,Scalabrine Free Throw 1 of 2 (1 PTS),62 - 85,23
+0020100812,356,3,12,4,8:49 PM,9:39,,,MISS Scalabrine Free Throw 2 of 2,,
+0020100812,357,4,0,4,8:49 PM,9:39,Magloire REBOUND (Off:3 Def:7),,,,
+0020100812,358,2,1,4,8:50 PM,9:17,MISS Augmon 11' Jump Shot,,,,
+0020100812,359,4,0,4,8:50 PM,9:13,,,Scalabrine REBOUND (Off:1 Def:1),,
+0020100812,360,6,4,4,8:50 PM,9:12,,,Harris OFF.Foul (P1),,
+0020100812,361,5,5,4,8:50 PM,9:12,,,Harris Foul Turnover (P3.T15),,
+0020100812,362,1,1,4,8:51 PM,9:01,Nailon 11' Jump Shot (8 PTS) (Davis 8 AST),,,62 - 87,25
+0020100812,363,5,1,4,8:51 PM,8:46,,,Williams Bad Pass Turnover (P2.T16),,
+0020100812,364,9,4,4,8:51 PM,8:46,,,,,
+0020100812,372,5,15,4,8:51 PM,8:46,Magloire Offensive Goaltending Turnover (P3.T13),,,,
+0020100812,369,5,2,4,8:54 PM,8:10,,,Jefferson Lost Ball Turnover (P3.T17),,
+0020100812,370,5,1,4,8:54 PM,8:01,Lynch Bad Pass Turnover (P1.T14),,Johnson STEAL (1 STL),,
+0020100812,371,1,5,4,8:54 PM,7:57,,,Harris  Layup (6 PTS) (Johnson 2 AST),64 - 87,23
+0020100812,373,1,1,4,8:54 PM,7:39,Davis 8' Jump Shot (15 PTS),,,64 - 89,25
+0020100812,374,6,2,4,8:54 PM,7:39,,,Johnson S.FOUL (P1.T1),,
+0020100812,376,3,10,4,8:55 PM,7:39,MISS Davis Free Throw 1 of 1,,,,
+0020100812,377,4,0,4,8:55 PM,7:37,,,Jefferson REBOUND (Off:0 Def:1),,
+0020100812,379,6,1,4,8:55 PM,7:20,Augmon P.FOUL (P1.T2),,,,
+0020100812,381,8,0,4,8:55 PM,7:20,SUB: Haston FOR Lynch,,,,
+0020100812,382,8,0,4,8:56 PM,7:20,,,SUB: Marshall FOR Jefferson,,
+0020100812,383,1,1,4,8:56 PM,7:13,,,Harris 27' 3PT Jump Shot (9 PTS) (Johnson 3 AST),67 - 89,22
+0020100812,384,1,1,4,8:56 PM,6:59,Haston 19' Jump Shot (2 PTS) (Davis 9 AST),,,67 - 91,24
+0020100812,385,2,5,4,8:56 PM,6:41,Magloire BLOCK (5 BLK),,MISS Scalabrine  Layup,,
+0020100812,386,4,0,4,8:56 PM,6:38,,,Scalabrine REBOUND (Off:2 Def:1),,
+0020100812,387,6,2,4,8:56 PM,6:38,Haston S.FOUL (P1.T3),,,,
+0020100812,394,1,40,4,8:56 PM,6:38,,,Williams 3' Layup (8 PTS),69 - 91,22
+0020100812,388,8,0,4,8:56 PM,6:38,,,SUB: Armstrong FOR Harris,,
+0020100812,389,8,0,4,8:56 PM,6:38,SUB: Drew FOR Augmon,,,,
+0020100812,390,3,10,4,8:56 PM,6:38,,,Williams Free Throw 1 of 1 (9 PTS),70 - 91,21
+0020100812,391,5,2,4,8:57 PM,6:30,Drew Lost Ball Turnover (P2.T15),,Armstrong STEAL (1 STL),,
+0020100812,392,6,1,4,8:57 PM,6:30,Drew P.FOUL (P2.T4),,,,
+0020100812,395,2,5,4,8:57 PM,6:18,,,MISS Johnson  Layup,,
+0020100812,396,4,0,4,8:57 PM,6:17,Drew REBOUND (Off:0 Def:2),,,,
+0020100812,397,1,1,4,8:57 PM,6:05,Haston 17' Jump Shot (4 PTS) (Davis 10 AST),,,70 - 93,23
+0020100812,398,5,1,4,8:58 PM,5:58,,,Johnson Bad Pass Turnover (P1.T18),,
+0020100812,399,9,1,4,8:58 PM,5:58,HORNETS Timeout: Regular (Full 4 Short 1),,,,
+0020100812,403,8,0,4,9:00 PM,5:58,SUB: Traylor FOR Magloire,,,,
+0020100812,405,2,1,4,9:00 PM,5:33,MISS Davis 25' 3PT Jump Shot,,,,
+0020100812,406,4,0,4,9:00 PM,5:28,,,Scalabrine REBOUND (Off:2 Def:2),,
+0020100812,407,6,2,4,9:01 PM,5:17,Traylor S.FOUL (P1.PN),,,,
+0020100812,408,3,11,4,9:01 PM,5:17,,,Williams Free Throw 1 of 2 (10 PTS),71 - 93,22
+0020100812,409,3,12,4,9:01 PM,5:17,,,MISS Williams Free Throw 2 of 2,,
+0020100812,410,4,0,4,9:01 PM,5:15,Haston REBOUND (Off:0 Def:1),,,,
+0020100812,411,6,2,4,9:01 PM,5:11,,,Marshall S.FOUL (P1.T2),,
+0020100812,412,3,11,4,9:01 PM,5:11,MISS Nailon Free Throw 1 of 2,,,,
+0020100812,413,4,1,4,9:01 PM,5:11,HORNETS Rebound,,,,
+0020100812,414,8,0,4,9:02 PM,5:11,SUB: Moiso FOR Davis,,,,
+0020100812,415,3,12,4,9:02 PM,5:11,Nailon Free Throw 2 of 2 (9 PTS),,,71 - 94,23
+0020100812,416,6,2,4,9:02 PM,4:53,Haston S.FOUL (P2.PN),,,,
+0020100812,417,3,11,4,9:03 PM,4:53,,,MISS Armstrong Free Throw 1 of 2,,
+0020100812,418,4,1,4,9:03 PM,4:53,,,Nets Rebound,,
+0020100812,419,3,12,4,9:03 PM,4:53,,,Armstrong Free Throw 2 of 2 (1 PTS),72 - 94,22
+0020100812,420,5,1,4,9:03 PM,4:40,Nailon Bad Pass Turnover (P1.T16),,Williams STEAL (1 STL),,
+0020100812,421,1,1,4,9:03 PM,4:33,,,Marshall 24' 3PT Jump Shot (3 PTS),75 - 94,19
+0020100812,422,5,2,4,9:03 PM,4:20,Drew Lost Ball Turnover (P3.T17),,Johnson STEAL (2 STL),,
+0020100812,423,5,1,4,9:04 PM,4:13,Moiso STEAL (1 STL),,Johnson Bad Pass Turnover (P2.T19),,
+0020100812,424,1,52,4,9:04 PM,4:08,Traylor  Alley Oop Dunk (2 PTS) (Haston 1 AST),,,75 - 96,21
+0020100812,425,1,1,4,9:04 PM,3:41,,,Armstrong 17' Jump Shot (3 PTS),77 - 96,19
+0020100812,426,6,2,4,9:04 PM,3:27,,,Scalabrine S.FOUL (P1.T3),,
+0020100812,427,3,11,4,9:04 PM,3:27,Traylor Free Throw 1 of 2 (3 PTS),,,77 - 97,20
+0020100812,428,3,12,4,9:05 PM,3:27,Traylor Free Throw 2 of 2 (4 PTS),,,77 - 98,21
+0020100812,429,2,5,4,9:05 PM,3:14,,,MISS Marshall  Layup,,
+0020100812,430,4,0,4,9:05 PM,3:13,Moiso REBOUND (Off:0 Def:1),,,,
+0020100812,431,2,1,4,9:05 PM,3:02,MISS Haston 28' 3PT Jump Shot,,,,
+0020100812,432,4,0,4,9:05 PM,3:02,,,Nets Rebound,,
+0020100812,433,6,3,4,9:05 PM,3:02,Moiso L.B.FOUL (P1.PN),,,,
+0020100812,434,3,11,4,9:06 PM,3:02,,,MISS Marshall Free Throw 1 of 2,,
+0020100812,435,4,1,4,9:06 PM,3:02,,,Nets Rebound,,
+0020100812,436,3,12,4,9:06 PM,3:02,,,Marshall Free Throw 2 of 2 (4 PTS),78 - 98,20
+0020100812,437,6,1,4,9:06 PM,2:54,,,Marshall P.FOUL (P2.T4),,
+0020100812,438,9,1,4,9:06 PM,2:54,,,Nets Timeout: Regular (Reg.5 Short 0),,
+0020100812,440,1,7,4,9:08 PM,2:46,Moiso  Dunk (2 PTS) (Haston 2 AST),,,78 - 100,22
+0020100812,441,1,5,4,9:09 PM,2:32,,,Williams  Layup (12 PTS) (Johnson 4 AST),80 - 100,20
+0020100812,442,1,5,4,9:09 PM,2:16,Traylor  Layup (6 PTS) (Nailon 2 AST),,,80 - 102,22
+0020100812,443,2,1,4,9:09 PM,2:03,,,MISS Johnson 21' Jump Shot,,
+0020100812,444,4,0,4,9:09 PM,2:01,Haston REBOUND (Off:0 Def:2),,,,
+0020100812,445,2,1,4,9:09 PM,1:53,MISS Drew 18' Jump Shot,,,,
+0020100812,446,4,0,4,9:09 PM,1:50,,,Armstrong REBOUND (Off:0 Def:1),,
+0020100812,447,2,1,4,9:09 PM,1:44,,,MISS Armstrong 25' 3PT Jump Shot,,
+0020100812,448,4,0,4,9:09 PM,1:41,Traylor REBOUND (Off:0 Def:1),,,,
+0020100812,449,2,1,4,9:10 PM,1:34,MISS Nailon 8' Jump Shot,,,,
+0020100812,451,4,0,4,9:10 PM,1:29,Traylor REBOUND (Off:1 Def:1),,,,
+0020100812,450,2,5,4,9:10 PM,1:29,MISS Traylor  Layup,,,,
+0020100812,452,4,0,4,9:10 PM,1:27,,,Scalabrine REBOUND (Off:2 Def:3),,
+0020100812,453,2,1,4,9:10 PM,1:20,,,MISS Marshall 9' Jump Shot,,
+0020100812,454,4,0,4,9:10 PM,1:18,,,Johnson REBOUND (Off:1 Def:0),,
+0020100812,455,1,1,4,9:10 PM,1:16,,,Johnson 11' Jump Shot (2 PTS),82 - 102,20
+0020100812,456,2,1,4,9:10 PM,0:57,MISS Drew 13' Jump Shot,,,,
+0020100812,457,4,0,4,9:10 PM,0:55,,,Armstrong REBOUND (Off:0 Def:2),,
+0020100812,458,5,1,4,9:10 PM,0:52,,,Armstrong Bad Pass Turnover (P1.T20),,
+0020100812,459,2,1,4,9:11 PM,0:40,MISS Moiso 9' Jump Shot,,,,
+0020100812,460,4,0,4,9:11 PM,0:37,,,Marshall REBOUND (Off:0 Def:1),,
+0020100812,461,1,1,4,9:11 PM,0:27,,,Johnson 25' 3PT Jump Shot (5 PTS) (Scalabrine 1 AST),85 - 102,17
+0020100812,462,1,5,4,9:11 PM,0:03,Nailon  Layup (11 PTS) (Haston 3 AST),,,85 - 104,19
+0020100812,463,13,0,4,9:11 PM,0:00,,,,85 - 104,19

@@ -1,0 +1,464 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100009,2,12,0,1,4:00 AM,12:00,,,,,
+0020100009,3,10,0,1,4:01 AM,12:00,Jump Ball Ostertag vs. Przybilla: Tip to Stockton,,,,
+0020100009,4,2,1,1,4:01 AM,11:51,MISS Malone 20' Jump Shot,,,,
+0020100009,5,4,0,1,4:01 AM,11:48,Stockton REBOUND (Off:1 Def:0),,,,
+0020100009,6,2,1,1,4:01 AM,11:32,MISS Malone 16' Jump Shot,,,,
+0020100009,7,4,0,1,4:01 AM,11:31,,,Mason REBOUND (Off:0 Def:1),,
+0020100009,8,6,2,1,4:01 AM,11:27,Lewis S.FOUL (P1.T1),,,,
+0020100009,9,3,11,1,4:02 AM,11:27,,,Allen Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0020100009,10,3,12,1,4:02 AM,11:27,,,Allen Free Throw 2 of 2 (2 PTS),2 - 0,-2
+0020100009,11,2,1,1,4:02 AM,11:08,MISS Malone  Jump Shot,,,,
+0020100009,13,4,0,1,4:02 AM,11:06,Ostertag REBOUND (Off:1 Def:0),,,,
+0020100009,12,2,4,1,4:02 AM,11:06,MISS Ostertag  Tip Shot,,,,
+0020100009,14,4,0,1,4:02 AM,11:05,,,Przybilla REBOUND (Off:0 Def:1),,
+0020100009,15,5,2,1,4:03 AM,10:59,Stockton STEAL (1 STL),,Cassell Lost Ball Turnover (P1.T1),,
+0020100009,16,6,2,1,4:03 AM,10:52,,,Przybilla S.FOUL (P1.T1),,
+0020100009,17,3,11,1,4:03 AM,10:52,Malone Free Throw 1 of 2 (1 PTS),,,2 - 1,-1
+0020100009,18,3,12,1,4:03 AM,10:52,Malone Free Throw 2 of 2 (2 PTS),,,2 - 2,TIE
+0020100009,19,1,1,1,4:04 AM,10:43,,,Allen 24' 3PT Jump Shot (5 PTS) (Cassell 1 AST),5 - 2,-3
+0020100009,20,2,1,1,4:04 AM,10:18,MISS Stockton 22' Jump Shot,,,,
+0020100009,21,4,0,1,4:04 AM,10:15,,,Robinson REBOUND (Off:0 Def:1),,
+0020100009,22,1,1,1,4:04 AM,10:10,,,Cassell 18' Jump Shot (2 PTS) (Allen 1 AST),7 - 2,-5
+0020100009,23,5,2,1,4:05 AM,9:50,Lewis Lost Ball Turnover (P1.T1),,Robinson STEAL (1 STL),,
+0020100009,24,2,1,1,4:05 AM,9:43,,,MISS Allen 25' 3PT Jump Shot,,
+0020100009,25,4,0,1,4:05 AM,9:40,Malone REBOUND (Off:0 Def:1),,,,
+0020100009,27,7,2,1,4:05 AM,9:37,,,Przybilla Violation:Defensive Goaltending,,
+0020100009,26,1,1,1,4:05 AM,9:37,Lewis  Jump Shot (2 PTS) (Stockton 1 AST),,,7 - 4,-3
+0020100009,28,1,1,1,4:05 AM,9:19,,,Cassell 24' 3PT Jump Shot (5 PTS) (Allen 2 AST),10 - 4,-6
+0020100009,29,5,1,1,4:06 AM,9:03,Stockton Bad Pass Turnover (P1.T2),,Allen STEAL (1 STL),,
+0020100009,30,6,2,1,4:06 AM,8:59,Ostertag S.FOUL (P1.T2),,,,
+0020100009,31,3,11,1,4:06 AM,8:59,,,Robinson Free Throw 1 of 2 (1 PTS),11 - 4,-7
+0020100009,32,3,12,1,4:06 AM,8:59,,,Robinson Free Throw 2 of 2 (2 PTS),12 - 4,-8
+0020100009,33,1,1,1,4:07 AM,8:49,Stockton 18' Jump Shot (2 PTS) (Lewis 1 AST),,,12 - 6,-6
+0020100009,34,2,1,1,4:07 AM,8:42,Ostertag BLOCK (1 BLK),,MISS Cassell 5' Jump Shot,,
+0020100009,35,4,0,1,4:07 AM,8:40,,,Przybilla REBOUND (Off:1 Def:1),,
+0020100009,36,2,1,1,4:07 AM,8:31,Ostertag BLOCK (2 BLK),,MISS Robinson 15' Jump Shot,,
+0020100009,37,4,0,1,4:07 AM,8:28,,,Robinson REBOUND (Off:1 Def:1),,
+0020100009,38,2,1,1,4:07 AM,8:25,,,MISS Robinson 24' 3PT Jump Shot,,
+0020100009,39,4,0,1,4:07 AM,8:23,Malone REBOUND (Off:0 Def:2),,,,
+0020100009,40,1,7,1,4:07 AM,8:17,Marshall  Dunk (2 PTS) (Lewis 2 AST),,,12 - 8,-4
+0020100009,41,2,1,1,4:07 AM,7:52,,,MISS Cassell 24' 3PT Jump Shot,,
+0020100009,42,4,0,1,4:08 AM,7:50,Ostertag REBOUND (Off:1 Def:1),,,,
+0020100009,43,1,5,1,4:08 AM,7:36,Ostertag  Layup (2 PTS) (Malone 1 AST),,,12 - 10,-2
+0020100009,44,6,2,1,4:08 AM,7:36,,,Przybilla S.FOUL (P2.T2),,
+0020100009,45,3,10,1,4:08 AM,7:36,MISS Ostertag Free Throw 1 of 1,,,,
+0020100009,48,4,0,1,4:08 AM,7:34,,,Przybilla REBOUND (Off:1 Def:2),,
+0020100009,49,6,4,1,4:09 AM,7:20,,,Mason OFF.Foul (P1),,
+0020100009,50,5,5,1,4:09 AM,7:20,,,Mason Foul Turnover (P1.T2),,
+0020100009,51,5,1,1,4:09 AM,7:03,Malone Bad Pass Turnover (P1.T3),,Allen STEAL (2 STL),,
+0020100009,52,1,7,1,4:09 AM,6:59,,,Robinson  Dunk (4 PTS) (Cassell 2 AST),14 - 10,-4
+0020100009,53,1,1,1,4:10 AM,6:39,Lewis 21' Jump Shot (4 PTS) (Stockton 2 AST),,,14 - 12,-2
+0020100009,54,2,1,1,4:10 AM,6:20,,,MISS Robinson 13' Jump Shot,,
+0020100009,55,4,0,1,4:10 AM,6:17,Ostertag REBOUND (Off:1 Def:2),,,,
+0020100009,56,5,2,1,4:10 AM,6:08,Marshall Lost Ball Turnover (P1.T4),,Mason STEAL (1 STL),,
+0020100009,57,2,1,1,4:10 AM,6:01,,,MISS Cassell 15' Jump Shot,,
+0020100009,58,4,0,1,4:10 AM,5:59,Malone REBOUND (Off:0 Def:3),,,,
+0020100009,59,6,1,1,4:11 AM,5:47,,,Cassell P.FOUL (P1.T3),,
+0020100009,71,9,1,1,4:11 AM,5:47,JAZZ Timeout: Regular (Full 1 Short 0),,,,
+0020100009,61,8,0,1,4:12 AM,5:47,SUB: Crotty FOR Stockton,,,,
+0020100009,62,8,0,1,4:13 AM,5:47,,,SUB: Thomas FOR Robinson,,
+0020100009,63,6,4,1,4:13 AM,5:40,Lewis OFF.Foul (P2),,,,
+0020100009,64,5,5,1,4:13 AM,5:40,Lewis Foul Turnover (P2.T5),,,,
+0020100009,65,8,0,1,4:13 AM,5:40,SUB: Starks FOR Lewis,,,,
+0020100009,66,1,1,1,4:14 AM,5:21,,,Allen  3PT Jump Shot (8 PTS) (Mason 1 AST),17 - 12,-5
+0020100009,67,2,1,1,4:14 AM,5:00,MISS Malone 19' Jump Shot,,,,
+0020100009,68,4,0,1,4:14 AM,4:59,JAZZ Rebound,,,,
+0020100009,69,6,3,1,4:14 AM,4:59,,,Przybilla L.B.FOUL (P3.T4),,
+0020100009,70,8,0,1,4:14 AM,4:59,,,SUB: Johnson FOR Przybilla,,
+0020100009,72,1,5,1,4:15 AM,4:39,Ostertag  Layup (4 PTS) (Crotty 1 AST),,,17 - 14,-3
+0020100009,73,2,1,1,4:15 AM,4:22,,,MISS Thomas 26' 3PT Jump Shot,,
+0020100009,74,4,0,1,4:15 AM,4:19,,,Johnson REBOUND (Off:1 Def:0),,
+0020100009,75,1,63,1,4:15 AM,4:13,,,Mason 12' Fadeaway Jumper (2 PTS),19 - 14,-5
+0020100009,76,2,1,1,4:15 AM,3:54,MISS Marshall 22' Jump Shot,,,,
+0020100009,77,4,0,1,4:15 AM,3:52,,,Mason REBOUND (Off:0 Def:2),,
+0020100009,78,2,1,1,4:16 AM,3:48,,,MISS Cassell 24' 3PT Jump Shot,,
+0020100009,79,4,0,1,4:16 AM,3:46,Ostertag REBOUND (Off:1 Def:3),,,,
+0020100009,80,2,1,1,4:16 AM,3:23,MISS Ostertag 9' Jump Shot,,,,
+0020100009,81,4,0,1,4:16 AM,3:21,,,Cassell REBOUND (Off:0 Def:1),,
+0020100009,82,5,1,1,4:16 AM,3:10,,,Cassell Bad Pass Turnover (P2.T3),,
+0020100009,83,8,0,1,4:16 AM,3:10,SUB: Russell FOR Marshall,,,,
+0020100009,85,5,2,1,4:17 AM,2:55,Starks Lost Ball Turnover (P1.T6),,Cassell STEAL (1 STL),,
+0020100009,86,1,1,1,4:17 AM,2:51,,,Cassell 16' Jump Shot (7 PTS),21 - 14,-7
+0020100009,87,1,1,1,4:17 AM,2:28,Starks 22' Jump Shot (2 PTS) (Russell 1 AST),,,21 - 16,-5
+0020100009,88,9,1,1,4:17 AM,2:18,,,Bucks Timeout: Regular (Reg.1 Short 0),,
+0020100009,90,8,0,1,4:19 AM,2:18,SUB: Amaechi FOR Ostertag,,,,
+0020100009,91,2,1,1,4:20 AM,2:16,,,MISS Thomas 22' Jump Shot,,
+0020100009,92,4,0,1,4:20 AM,2:13,,,Allen REBOUND (Off:1 Def:0),,
+0020100009,93,6,2,1,4:20 AM,2:02,Crotty S.FOUL (P1.T3),,,,
+0020100009,94,3,11,1,4:20 AM,2:02,,,Cassell Free Throw 1 of 2 (8 PTS),22 - 16,-6
+0020100009,95,3,12,1,4:20 AM,2:02,,,Cassell Free Throw 2 of 2 (9 PTS),23 - 16,-7
+0020100009,96,6,1,1,4:21 AM,1:50,,,Thomas P.FOUL (P1.PN),,
+0020100009,97,8,0,1,4:21 AM,1:50,,,SUB: Redd FOR Allen,,
+0020100009,98,3,11,1,4:21 AM,1:50,Amaechi Free Throw 1 of 2 (1 PTS),,,23 - 17,-6
+0020100009,99,3,12,1,4:21 AM,1:50,Amaechi Free Throw 2 of 2 (2 PTS),,,23 - 18,-5
+0020100009,100,2,42,1,4:22 AM,1:43,,,MISS Thomas  Driving Layup,,
+0020100009,101,4,0,1,4:22 AM,1:42,Malone REBOUND (Off:0 Def:4),,,,
+0020100009,102,1,1,1,4:22 AM,1:34,Crotty 23' Jump Shot (2 PTS) (Starks 1 AST),,,23 - 20,-3
+0020100009,103,2,1,1,4:22 AM,1:21,,,MISS Cassell 23' Jump Shot,,
+0020100009,104,4,0,1,4:22 AM,1:19,Amaechi REBOUND (Off:0 Def:1),,,,
+0020100009,105,1,1,1,4:22 AM,1:08,Crotty 22' Jump Shot (4 PTS) (Malone 2 AST),,,23 - 22,-1
+0020100009,106,5,2,1,4:22 AM,0:50,Russell STEAL (1 STL),,Thomas Lost Ball Turnover (P1.T4),,
+0020100009,107,1,7,1,4:22 AM,0:45,Malone  Dunk (4 PTS) (Russell 2 AST),,,23 - 24,1
+0020100009,108,6,1,1,4:23 AM,0:41,Crotty P.FOUL (P2.T4),,,,
+0020100009,109,1,49,1,4:23 AM,0:34,,,Thomas  Driving Dunk (2 PTS),25 - 24,-1
+0020100009,110,6,2,1,4:23 AM,0:26,,,Redd S.FOUL (P1.PN),,
+0020100009,111,3,11,1,4:24 AM,0:26,Crotty Free Throw 1 of 2 (5 PTS),,,25 - 25,TIE
+0020100009,112,8,0,1,4:24 AM,0:26,SUB: Kirilenko FOR Malone,,,,
+0020100009,113,8,0,1,4:24 AM,0:26,,,SUB: Allen FOR Johnson,,
+0020100009,114,3,12,1,4:24 AM,0:26,Crotty Free Throw 2 of 2 (6 PTS),,,25 - 26,1
+0020100009,115,1,42,1,4:24 AM,0:17,,,Allen  Driving Layup (10 PTS) (Thomas 1 AST),27 - 26,-1
+0020100009,116,1,5,1,4:25 AM,0:05,Amaechi  Layup (4 PTS) (Crotty 2 AST),,,27 - 28,1
+0020100009,117,6,2,1,4:25 AM,0:05,,,Redd S.FOUL (P2.PN),,
+0020100009,118,8,0,1,4:25 AM,0:05,SUB: Stockton FOR Crotty,,,,
+0020100009,119,3,10,1,4:25 AM,0:05,MISS Amaechi Free Throw 1 of 1,,,,
+0020100009,120,4,0,1,4:25 AM,0:03,Kirilenko REBOUND (Off:1 Def:0),,,,
+0020100009,121,2,1,1,4:25 AM,0:00,MISS Starks 30' 3PT Jump Shot,,,,
+0020100009,123,4,0,1,4:25 AM,0:00,JAZZ Rebound,,,,
+0020100009,124,13,0,1,4:25 AM,0:00,,,,27 - 28,1
+0020100009,125,12,0,2,4:28 AM,12:00,,,,27 - 28,1
+0020100009,126,1,1,2,4:28 AM,11:39,,,Caffey 11' Jump Shot (2 PTS) (Cassell 3 AST),29 - 28,-1
+0020100009,127,5,1,2,4:29 AM,11:19,Stockton Bad Pass Turnover (P2.T7),,Johnson STEAL (1 STL),,
+0020100009,128,9,2,2,4:29 AM,11:12,,,Bucks Timeout: Short (Reg.1 Short 1),,
+0020100009,130,2,1,2,4:30 AM,11:02,,,MISS Caffey 13' Jump Shot,,
+0020100009,132,4,0,2,4:30 AM,10:59,,,Caffey REBOUND (Off:1 Def:0),,
+0020100009,131,1,5,2,4:30 AM,10:59,,,Caffey  Layup (4 PTS),31 - 28,-3
+0020100009,133,6,1,2,4:30 AM,10:43,,,Johnson P.FOUL (P1.T1),,
+0020100009,134,6,1,2,4:31 AM,10:34,,,Johnson P.FOUL (P2.T2),,
+0020100009,135,6,2,2,4:31 AM,10:28,,,Thomas S.FOUL (P2.T3),,
+0020100009,136,3,11,2,4:31 AM,10:28,Kirilenko Free Throw 1 of 2 (1 PTS),,,31 - 29,-2
+0020100009,137,8,0,2,4:31 AM,10:28,,,SUB: Robinson FOR Johnson,,
+0020100009,138,3,12,2,4:31 AM,10:28,Kirilenko Free Throw 2 of 2 (2 PTS),,,31 - 30,-1
+0020100009,139,5,2,2,4:32 AM,10:21,,,Caffey Lost Ball Turnover (P1.T5),,
+0020100009,140,1,1,2,4:32 AM,10:15,Starks 20' Jump Shot (4 PTS) (Stockton 3 AST),,,31 - 32,1
+0020100009,141,1,1,2,4:32 AM,10:00,,,Redd 20' Jump Shot (2 PTS) (Cassell 4 AST),33 - 32,-1
+0020100009,142,2,3,2,4:33 AM,9:43,MISS Amaechi 4' Hook Shot,,,,
+0020100009,143,4,0,2,4:33 AM,9:43,,,Bucks Rebound,,
+0020100009,144,6,3,2,4:33 AM,9:43,Kirilenko L.B.FOUL (P1.T1),,,,
+0020100009,145,8,0,2,4:33 AM,9:43,,,SUB: Allen FOR Redd,,
+0020100009,146,8,0,2,4:33 AM,9:43,,,SUB: Alston FOR Cassell,,
+0020100009,147,6,4,2,4:33 AM,9:32,,,Caffey OFF.Foul (P1),,
+0020100009,148,5,5,2,4:33 AM,9:32,,,Caffey Foul Turnover (P2.T6),,
+0020100009,149,1,1,2,4:34 AM,9:14,Russell 12' Jump Shot (2 PTS) (Stockton 4 AST),,,33 - 34,1
+0020100009,150,2,1,2,4:34 AM,8:57,Amaechi BLOCK (1 BLK),,MISS Allen 9' Jump Shot,,
+0020100009,151,4,0,2,4:34 AM,8:53,Kirilenko REBOUND (Off:1 Def:1),,,,
+0020100009,152,1,42,2,4:34 AM,8:49,Stockton  Driving Layup (4 PTS),,,33 - 36,3
+0020100009,153,2,5,2,4:34 AM,8:26,,,MISS Robinson 1' Layup,,
+0020100009,154,4,0,2,4:34 AM,8:23,Starks REBOUND (Off:0 Def:1),,,,
+0020100009,155,2,1,2,4:34 AM,8:19,MISS Russell  3PT Jump Shot,,,,
+0020100009,156,4,0,2,4:34 AM,8:17,,,Robinson REBOUND (Off:1 Def:2),,
+0020100009,157,5,2,2,4:35 AM,8:08,Russell STEAL (2 STL),,Robinson Lost Ball Turnover (P1.T7),,
+0020100009,158,2,1,2,4:35 AM,7:47,MISS Kirilenko 25' 3PT Jump Shot,,,,
+0020100009,159,4,0,2,4:35 AM,7:45,,,Caffey REBOUND (Off:1 Def:1),,
+0020100009,160,5,1,2,4:35 AM,7:41,Stockton STEAL (2 STL),,Caffey Bad Pass Turnover (P3.T8),,
+0020100009,161,1,5,2,4:35 AM,7:39,Stockton  Layup (6 PTS),,,33 - 38,5
+0020100009,162,6,2,2,4:35 AM,7:39,,,Caffey S.FOUL (P2.T4),,
+0020100009,163,9,4,2,4:35 AM,7:39,,,,,
+0020100009,165,8,0,2,4:37 AM,7:39,,,SUB: Mason FOR Thomas,,
+0020100009,166,3,10,2,4:37 AM,7:39,Stockton Free Throw 1 of 1 (7 PTS),,,33 - 39,6
+0020100009,167,5,2,2,4:38 AM,7:20,Stockton STEAL (3 STL),,Allen Lost Ball Turnover (P1.T9),,
+0020100009,168,1,7,2,4:38 AM,7:14,Kirilenko  Dunk (4 PTS) (Starks 2 AST),,,33 - 41,8
+0020100009,169,2,1,2,4:39 AM,6:48,,,MISS Robinson 11' Jump Shot,,
+0020100009,170,4,0,2,4:39 AM,6:46,JAZZ Rebound,,,,
+0020100009,171,8,0,2,4:39 AM,6:46,,,SUB: Johnson FOR Caffey,,
+0020100009,172,8,0,2,4:39 AM,6:46,,,SUB: Cassell FOR Alston,,
+0020100009,173,5,2,2,4:39 AM,6:31,Amaechi Lost Ball Turnover (P1.T8),,,,
+0020100009,174,2,1,2,4:40 AM,6:12,,,MISS Allen 11' Jump Shot,,
+0020100009,175,4,0,2,4:40 AM,6:10,,,Johnson REBOUND (Off:2 Def:0),,
+0020100009,176,2,1,2,4:40 AM,6:07,,,MISS Cassell 9' Jump Shot,,
+0020100009,177,4,0,2,4:40 AM,6:04,Russell REBOUND (Off:0 Def:1),,,,
+0020100009,178,2,1,2,4:40 AM,5:59,MISS Amaechi 9' Jump Shot,,,,
+0020100009,179,4,0,2,4:40 AM,5:57,,,Johnson REBOUND (Off:2 Def:1),,
+0020100009,180,6,2,2,4:40 AM,5:54,Kirilenko S.FOUL (P2.T2),,,,
+0020100009,181,9,1,2,4:40 AM,5:54,JAZZ Timeout: Regular (Full 2 Short 0),,,,
+0020100009,183,8,0,2,4:42 AM,5:54,SUB: Malone FOR Amaechi,,,,
+0020100009,184,3,11,2,4:42 AM,5:54,,,Allen Free Throw 1 of 2 (11 PTS),34 - 41,7
+0020100009,185,3,12,2,4:42 AM,5:54,,,Allen Free Throw 2 of 2 (12 PTS),35 - 41,6
+0020100009,186,1,1,2,4:43 AM,5:35,Russell 25' 3PT Jump Shot (5 PTS) (Stockton 5 AST),,,35 - 44,9
+0020100009,187,5,2,2,4:43 AM,5:15,Kirilenko STEAL (1 STL),,Mason Lost Ball Turnover (P2.T10),,
+0020100009,188,1,1,2,4:43 AM,5:04,Stockton 18' Jump Shot (9 PTS) (Starks 3 AST),,,35 - 46,11
+0020100009,189,2,1,2,4:44 AM,4:45,,,MISS Robinson 10' Jump Shot,,
+0020100009,190,4,0,2,4:44 AM,4:41,Kirilenko REBOUND (Off:1 Def:2),,,,
+0020100009,191,6,2,2,4:44 AM,4:30,,,Cassell S.FOUL (P2.PN),,
+0020100009,192,8,0,2,4:44 AM,4:30,SUB: Marshall FOR Kirilenko,,,,
+0020100009,193,8,0,2,4:44 AM,4:30,,,SUB: Thomas FOR Johnson,,
+0020100009,194,3,11,2,4:44 AM,4:30,Starks Free Throw 1 of 2 (5 PTS),,,35 - 47,12
+0020100009,195,3,12,2,4:45 AM,4:30,Starks Free Throw 2 of 2 (6 PTS),,,35 - 48,13
+0020100009,196,1,1,2,4:45 AM,4:18,,,Robinson 10' Jump Shot (6 PTS) (Cassell 5 AST),37 - 48,11
+0020100009,197,2,5,2,4:46 AM,3:56,MISS Stockton 1' Layup,,,,
+0020100009,199,4,0,2,4:46 AM,3:51,Marshall REBOUND (Off:1 Def:0),,,,
+0020100009,198,1,5,2,4:46 AM,3:51,Marshall  Layup (4 PTS),,,37 - 50,13
+0020100009,200,6,1,2,4:46 AM,3:41,Marshall P.FOUL (P1.T3),,,,
+0020100009,201,2,1,2,4:46 AM,3:34,,,MISS Allen 25' 3PT Jump Shot,,
+0020100009,202,4,0,2,4:46 AM,3:32,Marshall REBOUND (Off:1 Def:1),,,,
+0020100009,203,2,1,2,4:46 AM,3:25,MISS Starks 19' Jump Shot,,,,
+0020100009,204,4,0,2,4:46 AM,3:22,Marshall REBOUND (Off:2 Def:1),,,,
+0020100009,205,5,1,2,4:46 AM,3:21,Marshall Bad Pass Turnover (P2.T9),,Cassell STEAL (2 STL),,
+0020100009,206,1,1,2,4:46 AM,3:16,,,Allen 24' 3PT Jump Shot (15 PTS) (Cassell 6 AST),40 - 50,10
+0020100009,207,5,1,2,4:47 AM,3:00,Stockton Bad Pass Turnover (P3.T10),,,,
+0020100009,208,1,1,2,4:47 AM,2:47,,,Mason 17' Jump Shot (4 PTS) (Cassell 7 AST),42 - 50,8
+0020100009,209,1,1,2,4:48 AM,2:27,Starks 4' Jump Shot (8 PTS) (Stockton 6 AST),,,42 - 52,10
+0020100009,210,2,1,2,4:48 AM,2:10,,,MISS Cassell 25' 3PT Jump Shot,,
+0020100009,211,4,0,2,4:48 AM,2:08,,,Mason REBOUND (Off:1 Def:2),,
+0020100009,212,1,1,2,4:48 AM,2:04,,,Robinson 25' 3PT Jump Shot (9 PTS) (Thomas 2 AST),45 - 52,7
+0020100009,213,2,1,2,4:48 AM,1:41,MISS Russell 24' Jump Shot,,,,
+0020100009,214,4,0,2,4:48 AM,1:40,,,Cassell REBOUND (Off:0 Def:2),,
+0020100009,215,6,4,2,4:48 AM,1:40,,,Cassell OFF.Foul (P3),,
+0020100009,216,5,5,2,4:48 AM,1:40,,,Cassell Foul Turnover (P3.T11),,
+0020100009,217,9,1,2,4:48 AM,1:40,,,Bucks Timeout: Regular (Reg.2 Short 1),,
+0020100009,219,8,0,2,4:51 AM,1:40,,,SUB: Alston FOR Cassell,,
+0020100009,220,8,0,2,4:51 AM,1:40,,,SUB: Johnson FOR Robinson,,
+0020100009,221,2,1,2,4:51 AM,1:26,MISS Russell 25' 3PT Jump Shot,,,,
+0020100009,222,4,0,2,4:51 AM,1:24,,,Mason REBOUND (Off:1 Def:3),,
+0020100009,223,1,1,2,4:51 AM,1:10,,,Alston 24' 3PT Jump Shot (3 PTS) (Mason 2 AST),48 - 52,4
+0020100009,224,2,65,2,4:52 AM,0:48,MISS Marshall 3' Jump Hook Shot,,,,
+0020100009,225,4,0,2,4:52 AM,0:46,,,Johnson REBOUND (Off:2 Def:2),,
+0020100009,226,6,1,2,4:52 AM,0:39,Starks P.FOUL (P1.T4),,,,
+0020100009,227,1,1,2,4:52 AM,0:29,,,Alston 25' 3PT Jump Shot (6 PTS) (Allen 3 AST),51 - 52,1
+0020100009,228,1,5,2,4:52 AM,0:12,Marshall  Layup (6 PTS) (Stockton 7 AST),,,51 - 54,3
+0020100009,229,5,2,2,4:53 AM,0:01,Malone STEAL (1 STL),,Mason Lost Ball Turnover (P3.T12),,
+0020100009,231,13,0,2,4:53 AM,0:00,,,,51 - 54,3
+0020100009,232,12,0,3,5:09 AM,12:00,,,,51 - 54,3
+0020100009,233,2,1,3,5:09 AM,11:41,,,MISS Cassell 15' Jump Shot,,
+0020100009,234,4,0,3,5:09 AM,11:38,Malone REBOUND (Off:0 Def:5),,,,
+0020100009,236,7,2,3,5:09 AM,11:36,,,Pope Violation:Defensive Goaltending,,
+0020100009,235,1,5,3,5:09 AM,11:36,Marshall  Layup (8 PTS) (Stockton 8 AST),,,51 - 56,5
+0020100009,237,2,1,3,5:10 AM,11:20,,,MISS Allen 25' 3PT Jump Shot,,
+0020100009,238,4,0,3,5:10 AM,11:18,Ostertag REBOUND (Off:1 Def:4),,,,
+0020100009,239,2,1,3,5:10 AM,11:00,MISS Lewis 24' 3PT Jump Shot,,,,
+0020100009,240,4,0,3,5:10 AM,11:00,,,Bucks Rebound,,
+0020100009,241,2,5,3,5:10 AM,10:45,Ostertag BLOCK (3 BLK),,MISS Robinson 3' Layup,,
+0020100009,242,4,0,3,5:11 AM,10:42,Marshall REBOUND (Off:2 Def:2),,,,
+0020100009,243,1,1,3,5:11 AM,10:39,Stockton 16' Jump Shot (11 PTS) (Marshall 1 AST),,,51 - 58,7
+0020100009,244,1,1,3,5:11 AM,10:23,,,Robinson 22' Jump Shot (11 PTS) (Cassell 8 AST),53 - 58,5
+0020100009,245,5,2,3,5:11 AM,9:58,Marshall Lost Ball Turnover (P3.T11),,,,
+0020100009,246,1,1,3,5:12 AM,9:48,,,Mason 11' Jump Shot (6 PTS) (Robinson 1 AST),55 - 58,3
+0020100009,247,2,1,3,5:12 AM,9:24,MISS Lewis 12' Jump Shot,,,,
+0020100009,248,4,0,3,5:12 AM,9:23,,,Mason REBOUND (Off:1 Def:4),,
+0020100009,249,1,1,3,5:12 AM,9:16,,,Allen  3PT Jump Shot (18 PTS) (Robinson 2 AST),58 - 58,TIE
+0020100009,250,6,4,3,5:13 AM,9:01,Ostertag OFF.Foul (P2),,,,
+0020100009,251,5,5,3,5:13 AM,9:01,Ostertag Foul Turnover (P1.T12),,,,
+0020100009,252,8,0,3,5:13 AM,9:01,SUB: Starks FOR Lewis,,,,
+0020100009,253,6,1,3,5:13 AM,8:49,Starks P.FOUL (P2.T1),,,,
+0020100009,254,2,1,3,5:14 AM,8:40,,,MISS Pope 20' Jump Shot,,
+0020100009,255,4,0,3,5:14 AM,8:39,Malone REBOUND (Off:0 Def:6),,,,
+0020100009,256,1,5,3,5:14 AM,8:29,Stockton  Layup (13 PTS) (Malone 3 AST),,,58 - 60,2
+0020100009,257,1,1,3,5:14 AM,8:18,,,Cassell 25' 3PT Jump Shot (12 PTS) (Pope 1 AST),61 - 60,-1
+0020100009,258,5,1,3,5:14 AM,7:55,Malone Bad Pass Turnover (P2.T13),,,,
+0020100009,259,2,1,3,5:15 AM,7:39,,,MISS Robinson 24' 3PT Jump Shot,,
+0020100009,260,4,0,3,5:15 AM,7:37,Ostertag REBOUND (Off:1 Def:5),,,,
+0020100009,261,6,2,3,5:15 AM,7:30,,,Mason S.FOUL (P2.T1),,
+0020100009,262,3,11,3,5:15 AM,7:30,Malone Free Throw 1 of 2 (5 PTS),,,61 - 61,TIE
+0020100009,263,3,12,3,5:15 AM,7:30,Malone Free Throw 2 of 2 (6 PTS),,,61 - 62,1
+0020100009,264,2,1,3,5:16 AM,7:21,,,MISS Allen 11' Jump Shot,,
+0020100009,265,4,0,3,5:16 AM,7:19,Ostertag REBOUND (Off:1 Def:6),,,,
+0020100009,266,6,1,3,5:16 AM,7:18,,,Allen P.FOUL (P1.T2),,
+0020100009,267,2,1,3,5:16 AM,7:03,MISS Malone 18' Jump Shot,,,,
+0020100009,268,4,0,3,5:17 AM,7:01,Starks REBOUND (Off:1 Def:1),,,,
+0020100009,269,1,7,3,5:17 AM,6:58,Ostertag  Dunk (6 PTS) (Starks 4 AST),,,61 - 64,3
+0020100009,270,2,1,3,5:17 AM,6:34,,,MISS Cassell 23' Jump Shot,,
+0020100009,271,4,0,3,5:17 AM,6:31,Marshall REBOUND (Off:2 Def:3),,,,
+0020100009,272,6,2,3,5:17 AM,6:12,,,Pope S.FOUL (P1.T3),,
+0020100009,273,3,11,3,5:17 AM,6:12,Ostertag Free Throw 1 of 2 (7 PTS),,,61 - 65,4
+0020100009,274,3,12,3,5:18 AM,6:12,Ostertag Free Throw 2 of 2 (8 PTS),,,61 - 66,5
+0020100009,275,6,1,3,5:18 AM,5:59,Starks P.FOUL (P3.T2),,,,
+0020100009,276,9,1,3,5:19 AM,5:59,JAZZ Timeout: Regular (Full 3 Short 0),,,,
+0020100009,278,6,2,3,5:21 AM,5:48,Ostertag S.FOUL (P3.T3),,,,
+0020100009,279,3,11,3,5:21 AM,5:48,,,Mason Free Throw 1 of 2 (7 PTS),62 - 66,4
+0020100009,280,3,12,3,5:21 AM,5:48,,,Mason Free Throw 2 of 2 (8 PTS),63 - 66,3
+0020100009,281,1,5,3,5:22 AM,5:29,Marshall 3' Layup (10 PTS) (Malone 4 AST),,,63 - 68,5
+0020100009,282,1,1,3,5:22 AM,5:18,,,Robinson 20' Jump Shot (13 PTS) (Allen 4 AST),65 - 68,3
+0020100009,283,2,5,3,5:22 AM,4:54,MISS Stockton 3' Layup,,,,
+0020100009,284,4,0,3,5:22 AM,4:52,,,Allen REBOUND (Off:1 Def:1),,
+0020100009,285,5,1,3,5:22 AM,4:51,Marshall STEAL (1 STL),,Allen Bad Pass Turnover (P2.T13),,
+0020100009,286,1,5,3,5:23 AM,4:35,Malone  Layup (8 PTS) (Stockton 9 AST),,,65 - 70,5
+0020100009,287,1,1,3,5:23 AM,4:18,,,Allen 18' Jump Shot (20 PTS) (Cassell 9 AST),67 - 70,3
+0020100009,288,2,1,3,5:23 AM,3:50,MISS Marshall 17' Jump Shot,,,,
+0020100009,289,4,0,3,5:23 AM,3:50,,,Bucks Rebound,,
+0020100009,290,8,0,3,5:23 AM,3:50,SUB: Crotty FOR Stockton,,,,
+0020100009,291,8,0,3,5:24 AM,3:50,,,SUB: Caffey FOR Robinson,,
+0020100009,292,8,0,3,5:24 AM,3:50,,,SUB: Johnson FOR Pope,,
+0020100009,293,8,0,3,5:24 AM,3:50,,,SUB: Thomas FOR Mason,,
+0020100009,294,1,1,3,5:24 AM,3:38,,,Cassell 21' Jump Shot (14 PTS),69 - 70,1
+0020100009,295,1,42,3,5:24 AM,3:22,Starks  Driving Layup (10 PTS),,,69 - 72,3
+0020100009,296,2,1,3,5:24 AM,3:01,,,MISS Cassell 14' Jump Shot,,
+0020100009,297,4,0,3,5:24 AM,3:01,,,Caffey REBOUND (Off:2 Def:1),,
+0020100009,298,6,2,3,5:25 AM,3:01,Malone S.FOUL (P1.T4),,,,
+0020100009,299,8,0,3,5:25 AM,3:01,SUB: Amaechi FOR Ostertag,,,,
+0020100009,300,8,0,3,5:25 AM,3:01,SUB: Russell FOR Marshall,,,,
+0020100009,301,3,11,3,5:25 AM,3:01,,,MISS Caffey Free Throw 1 of 2,,
+0020100009,302,4,1,3,5:25 AM,3:01,,,Bucks Rebound,,
+0020100009,303,3,12,3,5:25 AM,3:01,,,MISS Caffey Free Throw 2 of 2,,
+0020100009,304,4,0,3,5:25 AM,2:59,Russell REBOUND (Off:0 Def:2),,,,
+0020100009,305,1,5,3,5:26 AM,2:46,Starks  Layup (12 PTS) (Malone 5 AST),,,69 - 74,5
+0020100009,306,2,1,3,5:26 AM,2:32,,,MISS Cassell 24' 3PT Jump Shot,,
+0020100009,307,4,0,3,5:26 AM,2:29,Amaechi REBOUND (Off:0 Def:2),,,,
+0020100009,308,1,1,3,5:26 AM,2:23,Russell  3PT Jump Shot (8 PTS) (Crotty 3 AST),,,69 - 77,8
+0020100009,309,9,1,3,5:26 AM,2:16,,,Bucks Timeout: Regular (Reg.3 Short 1),,
+0020100009,311,8,0,3,5:28 AM,2:16,,,SUB: Alston FOR Cassell,,
+0020100009,312,6,2,3,5:28 AM,2:02,Russell S.FOUL (P1.PN),,,,
+0020100009,313,3,11,3,5:29 AM,2:02,,,Thomas Free Throw 1 of 2 (3 PTS),70 - 77,7
+0020100009,314,3,12,3,5:29 AM,2:02,,,Thomas Free Throw 2 of 2 (4 PTS),71 - 77,6
+0020100009,315,7,5,3,5:29 AM,1:47,,,Thomas Violation:Kicked Ball,,
+0020100009,316,1,5,3,5:30 AM,1:40,Crotty  Layup (8 PTS),,,71 - 79,8
+0020100009,317,2,1,3,5:30 AM,1:16,,,MISS Allen 16' Jump Shot,,
+0020100009,319,4,0,3,5:30 AM,1:14,,,Thomas REBOUND (Off:1 Def:0),,
+0020100009,318,1,5,3,5:30 AM,1:14,,,Thomas  Layup (6 PTS),73 - 79,6
+0020100009,320,8,0,3,5:30 AM,0:57,SUB: Kirilenko FOR Malone,,,,
+0020100009,321,2,1,3,5:31 AM,0:54,MISS Starks 24' 3PT Jump Shot,,,,
+0020100009,322,4,0,3,5:31 AM,0:51,,,Alston REBOUND (Off:0 Def:1),,
+0020100009,323,6,1,3,5:31 AM,0:48,Kirilenko P.FOUL (P3.PN),,,,
+0020100009,324,3,11,3,5:31 AM,0:48,,,Thomas Free Throw 1 of 2 (7 PTS),74 - 79,5
+0020100009,325,3,12,3,5:31 AM,0:48,,,Thomas Free Throw 2 of 2 (8 PTS),75 - 79,4
+0020100009,326,1,1,3,5:32 AM,0:36,Starks  3PT Jump Shot (15 PTS) (Crotty 4 AST),,,75 - 82,7
+0020100009,327,2,1,3,5:32 AM,0:24,,,MISS Thomas 24' 3PT Jump Shot,,
+0020100009,328,4,0,3,5:32 AM,0:22,Starks REBOUND (Off:1 Def:2),,,,
+0020100009,329,1,50,3,5:32 AM,0:05,Kirilenko  Running Dunk (6 PTS) (Crotty 5 AST),,,75 - 84,9
+0020100009,330,2,1,3,5:33 AM,0:00,,,MISS Allen 29' 3PT Jump Shot,,
+0020100009,331,4,0,3,5:33 AM,0:00,,,Bucks Rebound,,
+0020100009,334,13,0,3,5:33 AM,0:00,,,,75 - 84,9
+0020100009,335,12,0,4,5:35 AM,12:00,,,,75 - 84,9
+0020100009,336,5,1,4,5:35 AM,11:45,Amaechi Bad Pass Turnover (P2.T14),,Caffey STEAL (1 STL),,
+0020100009,337,2,1,4,5:36 AM,11:28,,,MISS Johnson 9' Jump Shot,,
+0020100009,338,4,0,4,5:36 AM,11:27,Russell REBOUND (Off:0 Def:3),,,,
+0020100009,339,2,5,4,5:36 AM,11:20,MISS Kirilenko  Layup,,Thomas BLOCK (1 BLK),,
+0020100009,340,4,0,4,5:36 AM,11:17,,,Alston REBOUND (Off:0 Def:2),,
+0020100009,341,2,1,4,5:36 AM,11:06,,,MISS Caffey 13' Jump Shot,,
+0020100009,342,4,0,4,5:36 AM,11:04,Kirilenko REBOUND (Off:1 Def:3),,,,
+0020100009,343,5,1,4,5:36 AM,11:00,Crotty Bad Pass Turnover (P1.T15),,,,
+0020100009,344,8,0,4,5:36 AM,11:00,,,SUB: Robinson FOR Allen,,
+0020100009,345,1,1,4,5:37 AM,10:41,,,Robinson 18' Jump Shot (15 PTS),77 - 84,7
+0020100009,346,6,1,4,5:37 AM,10:17,,,Thomas P.FOUL (P3.T1),,
+0020100009,347,8,0,4,5:37 AM,10:17,SUB: Stockton FOR Crotty,,,,
+0020100009,348,8,0,4,5:37 AM,10:17,,,SUB: Pope FOR Johnson,,
+0020100009,349,1,1,4,5:37 AM,10:09,Russell 25' 3PT Jump Shot (11 PTS) (Stockton 10 AST),,,77 - 87,10
+0020100009,350,1,5,4,5:38 AM,9:48,,,Caffey  Layup (6 PTS),79 - 87,8
+0020100009,351,6,2,4,5:38 AM,9:48,Amaechi S.FOUL (P1.T1),,,,
+0020100009,353,8,0,4,5:38 AM,9:48,SUB: Malone FOR Starks,,,,
+0020100009,354,3,10,4,5:38 AM,9:48,,,Caffey Free Throw 1 of 1 (7 PTS),80 - 87,7
+0020100009,355,6,1,4,5:39 AM,9:37,,,Thomas P.FOUL (P4.T2),,
+0020100009,356,1,50,4,5:39 AM,9:25,Amaechi  Running Dunk (6 PTS) (Stockton 11 AST),,,80 - 89,9
+0020100009,357,2,1,4,5:39 AM,9:07,,,MISS Robinson 24' 3PT Jump Shot,,
+0020100009,358,4,0,4,5:39 AM,9:05,Amaechi REBOUND (Off:0 Def:3),,,,
+0020100009,359,9,4,4,5:40 AM,8:56,,,,,
+0020100009,360,8,0,4,5:41 AM,8:56,,,SUB: Cassell FOR Alston,,
+0020100009,361,8,0,4,5:41 AM,8:56,,,SUB: Mason FOR Thomas,,
+0020100009,362,2,1,4,5:42 AM,8:46,MISS Malone 18' Jump Shot,,,,
+0020100009,363,4,0,4,5:42 AM,8:44,JAZZ Rebound,,,,
+0020100009,364,2,1,4,5:42 AM,8:31,MISS Stockton 20' Jump Shot,,,,
+0020100009,365,4,0,4,5:42 AM,8:29,Amaechi REBOUND (Off:1 Def:3),,,,
+0020100009,366,6,1,4,5:43 AM,8:19,,,Pope P.FOUL (P2.T3),,
+0020100009,367,8,0,4,5:43 AM,8:19,,,SUB: Allen FOR Pope,,
+0020100009,368,5,1,4,5:43 AM,8:09,Stockton Bad Pass Turnover (P4.T16),,,,
+0020100009,369,2,1,4,5:43 AM,7:58,,,MISS Allen 19' Jump Shot,,
+0020100009,370,4,0,4,5:43 AM,7:57,Kirilenko REBOUND (Off:1 Def:4),,,,
+0020100009,371,6,1,4,5:44 AM,7:52,,,Cassell P.FOUL (P4.T4),,
+0020100009,372,6,2,4,5:44 AM,7:46,,,Caffey S.FOUL (P3.PN),,
+0020100009,373,3,11,4,5:44 AM,7:46,Malone Free Throw 1 of 2 (9 PTS),,,80 - 90,10
+0020100009,374,3,12,4,5:44 AM,7:46,Malone Free Throw 2 of 2 (10 PTS),,,80 - 91,11
+0020100009,375,6,2,4,5:45 AM,7:30,Malone S.FOUL (P2.T2),,,,
+0020100009,376,8,0,4,5:45 AM,7:30,,,SUB: Johnson FOR Caffey,,
+0020100009,377,3,11,4,5:45 AM,7:30,,,Mason Free Throw 1 of 2 (9 PTS),81 - 91,10
+0020100009,378,3,12,4,5:46 AM,7:30,,,MISS Mason Free Throw 2 of 2,,
+0020100009,379,4,0,4,5:46 AM,7:28,,,Robinson REBOUND (Off:2 Def:2),,
+0020100009,380,1,42,4,5:46 AM,7:17,,,Robinson  Driving Layup (17 PTS),83 - 91,8
+0020100009,381,2,1,4,5:47 AM,6:56,MISS Russell  3PT Jump Shot,,,,
+0020100009,382,4,0,4,5:47 AM,6:52,Stockton REBOUND (Off:2 Def:0),,,,
+0020100009,383,2,1,4,5:47 AM,6:32,MISS Amaechi 19' Jump Shot,,,,
+0020100009,384,4,0,4,5:47 AM,6:30,,,Mason REBOUND (Off:1 Def:5),,
+0020100009,385,1,7,4,5:47 AM,6:26,,,Allen  Dunk (22 PTS) (Mason 3 AST),85 - 91,6
+0020100009,386,1,5,4,5:47 AM,6:10,Amaechi  Layup (8 PTS) (Stockton 12 AST),,,85 - 93,8
+0020100009,387,1,1,4,5:48 AM,5:51,,,Robinson 15' Jump Shot (19 PTS) (Cassell 10 AST),87 - 93,6
+0020100009,388,1,46,4,5:48 AM,5:24,Malone 7' Running Jump Shot (12 PTS) (Amaechi 1 AST),,,87 - 95,8
+0020100009,389,6,2,4,5:48 AM,5:24,,,Johnson S.FOUL (P3.PN),,
+0020100009,390,9,1,4,5:48 AM,5:24,JAZZ Timeout: Regular (Full 4 Short 0),,,,
+0020100009,392,8,0,4,5:50 AM,5:24,SUB: Starks FOR Kirilenko,,,,
+0020100009,393,3,10,4,5:50 AM,5:24,Malone Free Throw 1 of 1 (13 PTS),,,87 - 96,9
+0020100009,394,1,1,4,5:51 AM,5:07,,,Robinson 20' Jump Shot (21 PTS) (Allen 5 AST),89 - 96,7
+0020100009,395,2,1,4,5:51 AM,4:39,MISS Starks 23' Jump Shot,,,,
+0020100009,396,4,0,4,5:51 AM,4:37,,,Johnson REBOUND (Off:2 Def:3),,
+0020100009,397,1,1,4,5:52 AM,4:28,,,Cassell 15' Jump Shot (16 PTS),91 - 96,5
+0020100009,398,1,1,4,5:52 AM,4:03,Stockton 12' Jump Shot (15 PTS),,,91 - 98,7
+0020100009,399,2,1,4,5:52 AM,3:48,,,MISS Robinson 19' Jump Shot,,
+0020100009,400,4,0,4,5:52 AM,3:46,Malone REBOUND (Off:0 Def:7),,,,
+0020100009,401,6,2,4,5:53 AM,3:22,,,Johnson S.FOUL (P4.PN),,
+0020100009,402,3,11,4,5:53 AM,3:22,MISS Amaechi Free Throw 1 of 2,,,,
+0020100009,403,4,1,4,5:53 AM,3:22,JAZZ Rebound,,,,
+0020100009,404,3,12,4,5:53 AM,3:22,Amaechi Free Throw 2 of 2 (9 PTS),,,91 - 99,8
+0020100009,405,6,2,4,5:54 AM,3:14,Amaechi S.FOUL (P2.T3),,,,
+0020100009,406,3,11,4,5:54 AM,3:14,,,Cassell Free Throw 1 of 2 (17 PTS),92 - 99,7
+0020100009,407,3,12,4,5:54 AM,3:14,,,Cassell Free Throw 2 of 2 (18 PTS),93 - 99,6
+0020100009,408,9,1,4,5:55 AM,2:56,,,Bucks Timeout: Regular (Reg.4 Short 1),,
+0020100009,409,10,0,4,5:57 AM,2:51,Jump Ball Stockton vs. Cassell: Tip to Robinson,,,,
+0020100009,410,5,2,4,5:57 AM,2:51,Stockton Lost Ball Turnover (P5.T17),,Cassell STEAL (3 STL),,
+0020100009,411,1,1,4,5:58 AM,2:31,,,Allen 16' Jump Shot (24 PTS),95 - 99,4
+0020100009,412,2,1,4,5:58 AM,2:08,MISS Malone 19' Jump Shot,,,,
+0020100009,413,4,0,4,5:58 AM,2:05,,,Mason REBOUND (Off:1 Def:6),,
+0020100009,414,6,1,4,5:59 AM,2:01,Starks P.FOUL (P4.T4),,,,
+0020100009,415,2,1,4,5:59 AM,1:56,,,MISS Allen 26' 3PT Jump Shot,,
+0020100009,416,4,0,4,5:59 AM,1:54,Amaechi REBOUND (Off:1 Def:4),,,,
+0020100009,417,2,1,4,5:59 AM,1:31,MISS Stockton 17' Jump Shot,,,,
+0020100009,418,4,0,4,5:59 AM,1:31,JAZZ Rebound,,,,
+0020100009,419,5,11,4,5:59 AM,1:31,JAZZ Turnover: Shot Clock (T#18),,,,
+0020100009,420,1,46,4,6:00 AM,1:17,,,Allen 11' Running Jump Shot (26 PTS),97 - 99,2
+0020100009,421,6,2,4,6:00 AM,1:03,,,Johnson S.FOUL (P5.PN),,
+0020100009,422,3,11,4,6:00 AM,1:03,MISS Amaechi Free Throw 1 of 2,,,,
+0020100009,423,4,1,4,6:00 AM,1:03,JAZZ Rebound,,,,
+0020100009,424,3,12,4,6:01 AM,1:03,Amaechi Free Throw 2 of 2 (10 PTS),,,97 - 100,3
+0020100009,425,6,1,4,6:01 AM,0:51,Russell P.FOUL (P2.PN),,,,
+0020100009,426,3,11,4,6:01 AM,0:51,,,Robinson Free Throw 1 of 2 (22 PTS),98 - 100,2
+0020100009,427,3,12,4,6:02 AM,0:51,,,Robinson Free Throw 2 of 2 (23 PTS),99 - 100,1
+0020100009,428,5,1,4,6:02 AM,0:38,Stockton Bad Pass Turnover (P6.T19),,Cassell STEAL (4 STL),,
+0020100009,429,1,1,4,6:02 AM,0:31,,,Cassell 18' Jump Shot (20 PTS),101 - 100,-1
+0020100009,430,5,1,4,6:03 AM,0:11,Stockton Bad Pass Turnover (P7.T20),,Cassell STEAL (5 STL),,
+0020100009,431,6,1,4,6:03 AM,0:07,Russell P.FOUL (P3.PN),,,,
+0020100009,432,3,11,4,6:03 AM,0:07,,,Robinson Free Throw 1 of 2 (24 PTS),102 - 100,-2
+0020100009,433,3,12,4,6:03 AM,0:07,,,MISS Robinson Free Throw 2 of 2,,
+0020100009,434,4,0,4,6:03 AM,0:07,Malone REBOUND (Off:0 Def:8),,,,
+0020100009,436,9,1,4,6:04 AM,0:07,JAZZ Timeout: Regular (Full 5 Short 0),,,,
+0020100009,438,8,0,4,6:05 AM,0:07,,,SUB: Pope FOR Robinson,,
+0020100009,439,8,0,4,6:05 AM,0:07,,,SUB: Thomas FOR Johnson,,
+0020100009,440,8,0,4,6:05 AM,0:07,SUB: Marshall FOR Amaechi,,,,
+0020100009,441,1,42,4,6:06 AM,0:03,Stockton  Driving Layup (17 PTS),,,102 - 102,TIE
+0020100009,442,8,0,4,6:07 AM,0:03,,,SUB: Robinson FOR Pope,,
+0020100009,443,2,1,4,6:08 AM,0:00,,,MISS Thomas 24' 3PT Jump Shot,,
+0020100009,444,4,0,4,6:08 AM,0:00,,,Bucks Rebound,,
+0020100009,446,13,0,4,6:08 AM,0:00,,,,102 - 102,TIE
+0020100009,447,12,0,5,6:10 AM,5:00,,,,102 - 102,TIE
+0020100009,448,10,0,5,6:10 AM,5:00,Jump Ball Marshall vs. Johnson: Tip to Allen,,,,
+0020100009,449,1,46,5,6:11 AM,4:37,,,Allen 13' Running Jump Shot (28 PTS),104 - 102,-2
+0020100009,450,2,1,5,6:11 AM,4:17,MISS Russell 25' 3PT Jump Shot,,,,
+0020100009,451,4,0,5,6:11 AM,4:14,Stockton REBOUND (Off:3 Def:0),,,,
+0020100009,452,2,1,5,6:11 AM,4:01,MISS Stockton 25' 3PT Jump Shot,,,,
+0020100009,453,4,0,5,6:12 AM,3:59,Marshall REBOUND (Off:3 Def:3),,,,
+0020100009,454,6,17,5,6:12 AM,3:46,,,Bucks T.Foul (Def. 3 Sec Mason ),,
+0020100009,455,3,16,5,6:12 AM,3:46,Stockton Free Throw Technical (18 PTS),,,104 - 103,-1
+0020100009,456,2,1,5,6:12 AM,3:37,MISS Russell  3PT Jump Shot,,,,
+0020100009,457,4,0,5,6:12 AM,3:35,,,Cassell REBOUND (Off:0 Def:3),,
+0020100009,458,1,1,5,6:13 AM,3:31,,,Cassell 24' 3PT Jump Shot (23 PTS),107 - 103,-4
+0020100009,459,2,1,5,6:13 AM,3:16,MISS Malone 4' Jump Shot,,Johnson BLOCK (1 BLK),,
+0020100009,460,4,0,5,6:13 AM,3:16,Marshall REBOUND (Off:4 Def:3),,,,
+0020100009,461,6,1,5,6:13 AM,3:16,,,Robinson P.FOUL (P1.T1),,
+0020100009,462,1,1,5,6:14 AM,3:03,Starks 24' 3PT Jump Shot (18 PTS) (Russell 3 AST),,,107 - 106,-1
+0020100009,463,1,49,5,6:14 AM,2:51,,,Allen  Driving Dunk (30 PTS),109 - 106,-3
+0020100009,464,1,5,5,6:14 AM,2:30,Marshall  Layup (12 PTS) (Stockton 13 AST),,,109 - 108,-1
+0020100009,465,1,1,5,6:14 AM,2:13,,,Cassell 21' Jump Shot (25 PTS),111 - 108,-3
+0020100009,466,6,1,5,6:15 AM,2:02,,,Cassell P.FOUL (P5.T2),,
+0020100009,467,5,8,5,6:16 AM,1:55,Marshall 3 Second Violation Turnover (P4.T21),,,,
+0020100009,469,1,1,5,6:17 AM,1:34,,,Robinson 13' Jump Shot (26 PTS),113 - 108,-5
+0020100009,470,1,1,5,6:17 AM,1:18,Starks 20' Jump Shot (20 PTS) (Russell 4 AST),,,113 - 110,-3
+0020100009,471,1,1,5,6:18 AM,1:00,,,Robinson 20' Jump Shot (28 PTS) (Cassell 11 AST),115 - 110,-5
+0020100009,472,1,63,5,6:18 AM,0:48,Malone 9' Fadeaway Jumper (15 PTS) (Stockton 14 AST),,,115 - 112,-3
+0020100009,473,6,1,5,6:18 AM,0:33,Starks P.FOUL (P5.T1),,,,
+0020100009,474,1,5,5,6:19 AM,0:21,,,Mason  Layup (11 PTS) (Allen 6 AST),117 - 112,-5
+0020100009,475,9,1,5,6:20 AM,0:21,JAZZ Timeout: Regular (Full 6 Short 0),,,,
+0020100009,476,8,0,5,6:20 AM,0:21,,,SUB: Pope FOR Robinson,,
+0020100009,477,2,1,5,6:21 AM,0:17,MISS Stockton 24' 3PT Jump Shot,,,,
+0020100009,478,4,0,5,6:21 AM,0:15,,,Allen REBOUND (Off:1 Def:2),,
+0020100009,479,6,1,5,6:21 AM,0:14,Marshall P.FOUL (P2.PN),,,,
+0020100009,480,3,11,5,6:21 AM,0:14,,,Allen Free Throw 1 of 2 (31 PTS),118 - 112,-6
+0020100009,481,3,12,5,6:21 AM,0:14,,,Allen Free Throw 2 of 2 (32 PTS),119 - 112,-7
+0020100009,482,9,1,5,6:21 AM,0:14,JAZZ Timeout: Regular (Full 7 Short 0),,,,
+0020100009,483,2,5,5,6:23 AM,0:05,MISS Starks  Layup,,Johnson BLOCK (2 BLK),,
+0020100009,484,4,0,5,6:23 AM,0:05,,,Bucks Rebound,,
+0020100009,486,13,0,5,6:23 AM,0:00,,,,119 - 112,-7

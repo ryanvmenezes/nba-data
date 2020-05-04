@@ -1,0 +1,394 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020300179,0,12,0,1,4:00 AM,12:00,,,,,
+0020300179,1,10,0,1,8:15 PM,12:00,Jump Ball Garnett vs. Wilcox: Tip to Cassell,,,,
+0020300179,2,2,1,1,8:16 PM,11:45,MISS Madsen 13' Jump Shot,,,,
+0020300179,3,4,0,1,8:16 PM,11:43,,,Wilcox REBOUND (Off:0 Def:1),,
+0020300179,4,6,17,1,8:16 PM,11:28,TIMBERWOLVES T.Foul (Def. 3 Sec Garnett ),,,,
+0020300179,5,3,16,1,8:16 PM,11:28,,,Richardson Free Throw Technical (1 PTS),1 - 0,-1
+0020300179,6,1,47,1,8:16 PM,11:21,,,Richardson 12' Turnaround Jump Shot (3 PTS) (Maggette 1 AST),3 - 0,-3
+0020300179,7,6,2,1,8:16 PM,11:21,Hassell S.FOUL (P1.T1),,,,
+0020300179,9,3,10,1,8:17 PM,11:21,,,Richardson Free Throw 1 of 1 (4 PTS),4 - 0,-4
+0020300179,10,1,63,1,8:17 PM,11:01,Garnett 15' Fadeaway Jumper (2 PTS),,,4 - 2,-2
+0020300179,11,1,3,1,8:18 PM,10:41,,,Richardson 10' Hook Shot (6 PTS),6 - 2,-4
+0020300179,12,5,40,1,8:18 PM,10:32,Madsen Out of Bounds Lost Ball Turnover (P1.T1),,,,
+0020300179,13,6,1,1,8:18 PM,10:17,Hassell P.FOUL (P2.T2),,,,
+0020300179,14,8,0,1,8:18 PM,10:17,SUB: Hoiberg FOR Hassell,,,,
+0020300179,15,2,1,1,8:18 PM,10:14,,,MISS Wilcox 19' Jump Shot,,
+0020300179,16,4,0,1,8:19 PM,10:12,Garnett REBOUND (Off:0 Def:1),,,,
+0020300179,17,2,1,1,8:19 PM,10:03,MISS Madsen 9' Jump Shot,,Drobnjak BLOCK (1 BLK),,
+0020300179,18,4,0,1,8:19 PM,10:00,,,Drobnjak REBOUND (Off:0 Def:1),,
+0020300179,19,5,1,1,8:19 PM,9:57,,,Maggette Bad Pass Turnover (P1.T1),,
+0020300179,20,2,1,1,8:19 PM,9:41,MISS Cassell 21' Jump Shot,,,,
+0020300179,21,4,0,1,8:19 PM,9:39,,,Clippers Rebound,,
+0020300179,22,2,1,1,8:20 PM,9:22,,,MISS Richardson 24' 3PT Jump Shot,,
+0020300179,23,4,0,1,8:20 PM,9:20,Hoiberg REBOUND (Off:0 Def:1),,,,
+0020300179,24,2,1,1,8:20 PM,9:07,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020300179,25,4,0,1,8:20 PM,9:04,Garnett REBOUND (Off:1 Def:1),,,,
+0020300179,26,1,44,1,8:20 PM,9:02,Garnett  Reverse Layup (4 PTS),,,6 - 4,-2
+0020300179,27,2,1,1,8:20 PM,8:46,,,MISS Drobnjak 14' Jump Shot,,
+0020300179,28,4,0,1,8:20 PM,8:44,Garnett REBOUND (Off:1 Def:2),,,,
+0020300179,29,1,42,1,8:20 PM,8:40,Cassell  Driving Layup (2 PTS),,,6 - 6,TIE
+0020300179,30,6,2,1,8:20 PM,8:40,,,Dooling S.FOUL (P1.T1),,
+0020300179,31,3,10,1,8:20 PM,8:40,Cassell Free Throw 1 of 1 (3 PTS),,,6 - 7,1
+0020300179,32,1,1,1,8:21 PM,8:15,,,Dooling 26' 3PT Jump Shot (3 PTS) (Maggette 2 AST),9 - 7,-2
+0020300179,33,1,1,1,8:22 PM,8:00,Garnett 18' Jump Shot (6 PTS) (Madsen 1 AST),,,9 - 9,TIE
+0020300179,34,2,5,1,8:22 PM,7:39,,,MISS Richardson  Layup,,
+0020300179,35,4,0,1,8:22 PM,7:38,TIMBERWOLVES Rebound,,,,
+0020300179,36,6,3,1,8:22 PM,7:38,,,Wilcox L.B.FOUL (P1.T2),,
+0020300179,37,1,46,1,8:22 PM,7:24,Cassell 15' Running Jump Shot (5 PTS),,,9 - 11,2
+0020300179,38,2,1,1,8:23 PM,6:59,,,MISS Maggette 25' 3PT Jump Shot,,
+0020300179,39,4,0,1,8:23 PM,6:57,Garnett REBOUND (Off:1 Def:3),,,,
+0020300179,40,1,42,1,8:23 PM,6:51,Cassell  Driving Layup (7 PTS) (Hoiberg 1 AST),,,9 - 13,4
+0020300179,41,6,2,1,8:23 PM,6:51,,,Wilcox S.FOUL (P2.T3),,
+0020300179,42,9,2,1,8:23 PM,6:51,,,Clippers Timeout: Short (Reg.0 Short 1),,
+0020300179,45,8,0,1,8:24 PM,6:51,,,SUB: Kaman FOR Wilcox,,
+0020300179,46,3,10,1,8:24 PM,6:51,Cassell Free Throw 1 of 1 (8 PTS),,,9 - 14,5
+0020300179,47,5,2,1,8:25 PM,6:29,Garnett STEAL (1 STL),,Dooling Lost Ball Turnover (P1.T2),,
+0020300179,48,2,1,1,8:25 PM,6:23,MISS Sprewell 15' Jump Shot,,,,
+0020300179,49,4,0,1,8:25 PM,6:22,Sprewell REBOUND (Off:1 Def:0),,,,
+0020300179,50,1,46,1,8:26 PM,6:13,Sprewell 9' Running Jump Shot (2 PTS),,,9 - 16,7
+0020300179,51,6,2,1,8:26 PM,6:13,,,Maggette S.FOUL (P1.T4),,
+0020300179,52,3,10,1,8:26 PM,6:13,MISS Sprewell Free Throw 1 of 1,,,,
+0020300179,53,4,0,1,8:26 PM,6:12,,,Drobnjak REBOUND (Off:0 Def:2),,
+0020300179,54,2,1,1,8:26 PM,5:56,,,MISS Drobnjak 25' 3PT Jump Shot,,
+0020300179,55,4,0,1,8:26 PM,5:55,Sprewell REBOUND (Off:1 Def:1),,,,
+0020300179,56,1,1,1,8:27 PM,5:38,Cassell 24' 3PT Jump Shot (11 PTS) (Sprewell 1 AST),,,9 - 19,10
+0020300179,57,9,1,1,8:27 PM,5:19,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,
+0020300179,59,2,5,1,8:29 PM,5:16,,,MISS Maggette  Layup,,
+0020300179,60,4,0,1,8:29 PM,5:15,,,Maggette REBOUND (Off:1 Def:0),,
+0020300179,61,1,1,1,8:29 PM,5:11,,,Richardson  3PT Jump Shot (9 PTS) (Maggette 3 AST),12 - 19,7
+0020300179,62,1,1,1,8:30 PM,4:54,Garnett 18' Jump Shot (8 PTS),,,12 - 21,9
+0020300179,64,7,2,1,8:30 PM,4:29,Garnett Violation:Defensive Goaltending,,,,
+0020300179,63,1,61,1,8:30 PM,4:29,,,Maggette  Driving Finger Roll (2 PTS),14 - 21,7
+0020300179,65,2,1,1,8:31 PM,4:16,MISS Sprewell 17' Jump Shot,,,,
+0020300179,66,4,0,1,8:31 PM,4:14,,,Kaman REBOUND (Off:0 Def:1),,
+0020300179,67,6,4,1,8:31 PM,4:07,,,Kaman OFF.Foul (P1),,
+0020300179,68,5,5,1,8:31 PM,4:07,,,Kaman Foul Turnover (P1.T3),,
+0020300179,69,1,5,1,8:31 PM,3:54,Madsen  Layup (2 PTS) (Cassell 1 AST),,,14 - 23,9
+0020300179,70,2,1,1,8:31 PM,3:43,,,MISS Dooling 19' Jump Shot,,
+0020300179,71,4,0,1,8:31 PM,3:41,Madsen REBOUND (Off:0 Def:1),,,,
+0020300179,75,2,45,1,8:32 PM,3:28,MISS Hoiberg 25' 3PT Jump Shot,,,,
+0020300179,72,4,0,1,8:32 PM,3:27,,,Drobnjak REBOUND (Off:0 Def:3),,
+0020300179,73,8,0,1,8:32 PM,3:05,SUB: McLeod FOR Cassell,,,,
+0020300179,76,2,1,1,8:33 PM,3:02,,,MISS Drobnjak 26' 3PT Jump Shot,,
+0020300179,77,4,0,1,8:33 PM,3:01,,,Richardson REBOUND (Off:1 Def:0),,
+0020300179,79,6,2,1,8:33 PM,2:51,Madsen S.FOUL (P1.T3),,,,
+0020300179,80,9,1,1,8:33 PM,2:51,,,Clippers Timeout: Regular (Reg.1 Short 1),,
+0020300179,82,8,0,1,8:35 PM,2:51,SUB: Trent FOR Madsen,,,,
+0020300179,83,8,0,1,8:35 PM,2:51,,,SUB: House FOR Dooling,,
+0020300179,84,3,11,1,8:35 PM,2:51,,,Kaman Free Throw 1 of 2 (1 PTS),15 - 23,8
+0020300179,85,3,12,1,8:36 PM,2:51,,,MISS Kaman Free Throw 2 of 2,,
+0020300179,86,4,0,1,8:36 PM,2:50,Garnett REBOUND (Off:1 Def:4),,,,
+0020300179,87,1,47,1,8:36 PM,2:36,Garnett 14' Turnaround Jump Shot (10 PTS) (Trent 1 AST),,,15 - 25,10
+0020300179,88,5,2,1,8:36 PM,2:29,Sprewell STEAL (1 STL),,Maggette Lost Ball Turnover (P2.T4),,
+0020300179,89,5,7,1,8:36 PM,2:27,Sprewell Discontinue Dribble Turnover (P1.T2),,,,
+0020300179,90,1,44,1,8:37 PM,2:15,,,Drobnjak  Reverse Layup (2 PTS) (Kaman 1 AST),17 - 25,8
+0020300179,91,1,1,1,8:37 PM,1:59,Hoiberg 25' 3PT Jump Shot (3 PTS) (Garnett 1 AST),,,17 - 28,11
+0020300179,92,2,1,1,8:37 PM,1:42,,,MISS Maggette 22' Jump Shot,,
+0020300179,93,4,0,1,8:37 PM,1:39,,,Drobnjak REBOUND (Off:1 Def:3),,
+0020300179,94,2,1,1,8:37 PM,1:36,,,MISS Drobnjak 9' Jump Shot,,
+0020300179,95,4,0,1,8:37 PM,1:35,Garnett REBOUND (Off:1 Def:5),,,,
+0020300179,96,6,1,1,8:38 PM,1:24,,,Drobnjak P.FOUL (P1.PN),,
+0020300179,97,3,11,1,8:38 PM,1:24,Hoiberg Free Throw 1 of 2 (4 PTS),,,17 - 29,12
+0020300179,98,8,0,1,8:38 PM,1:24,,,SUB: Ely FOR Drobnjak,,
+0020300179,99,3,12,1,8:38 PM,1:24,Hoiberg Free Throw 2 of 2 (5 PTS),,,17 - 30,13
+0020300179,100,1,44,1,8:39 PM,1:10,,,Richardson  Reverse Layup (11 PTS) (House 1 AST),19 - 30,11
+0020300179,101,6,2,1,8:39 PM,0:51,,,Kaman S.FOUL (P2.PN),,
+0020300179,102,3,11,1,8:39 PM,0:51,McLeod Free Throw 1 of 2 (1 PTS),,,19 - 31,12
+0020300179,103,3,12,1,8:39 PM,0:51,McLeod Free Throw 2 of 2 (2 PTS),,,19 - 32,13
+0020300179,104,5,1,1,8:40 PM,0:40,Sprewell STEAL (2 STL),,House Bad Pass Turnover (P1.T5),,
+0020300179,105,6,3,1,8:40 PM,0:39,,,House L.B.FOUL (P1.PN),,
+0020300179,106,3,11,1,8:40 PM,0:39,Sprewell Free Throw 1 of 2 (3 PTS),,,19 - 33,14
+0020300179,107,8,0,1,8:41 PM,0:39,,,SUB: Rice FOR Maggette,,
+0020300179,108,3,12,1,8:41 PM,0:39,Sprewell Free Throw 2 of 2 (4 PTS),,,19 - 34,15
+0020300179,109,5,2,1,8:41 PM,0:22,Garnett STEAL (2 STL),,Ely Lost Ball Turnover (P1.T6),,
+0020300179,110,6,4,1,8:41 PM,0:19,McLeod OFF.Foul (P1),,,,
+0020300179,111,5,5,1,8:41 PM,0:19,McLeod Foul Turnover (P1.T3),,,,
+0020300179,112,2,1,1,8:42 PM,0:00,,,MISS Richardson 17' Jump Shot,,
+0020300179,113,4,0,1,8:42 PM,0:00,,,Clippers Rebound,,
+0020300179,114,13,0,1,8:42 PM,0:00,,,,19 - 34,15
+0020300179,116,12,0,2,8:44 PM,12:00,,,,19 - 34,15
+0020300179,117,1,1,2,8:45 PM,11:45,,,Richardson 24' 3PT Jump Shot (14 PTS) (Kaman 2 AST),22 - 34,12
+0020300179,118,1,1,2,8:45 PM,11:27,Garnett 19' Jump Shot (12 PTS) (Cassell 2 AST),,,22 - 36,14
+0020300179,119,2,1,2,8:45 PM,11:10,,,MISS Ely 17' Jump Shot,,
+0020300179,120,4,0,2,8:45 PM,11:08,,,Rice REBOUND (Off:1 Def:0),,
+0020300179,121,2,1,2,8:45 PM,11:06,,,MISS Rice 9' Jump Shot,,
+0020300179,122,4,0,2,8:45 PM,11:04,Garnett REBOUND (Off:1 Def:6),,,,
+0020300179,123,2,3,2,8:46 PM,10:44,MISS Garnett 9' Hook Shot,,,,
+0020300179,124,4,0,2,8:46 PM,10:42,Garnett REBOUND (Off:2 Def:6),,,,
+0020300179,125,5,1,2,8:46 PM,10:25,Garnett Bad Pass Turnover (P1.T4),,Rice STEAL (1 STL),,
+0020300179,126,1,5,2,8:46 PM,10:13,,,Ely  Layup (2 PTS) (Rice 1 AST),24 - 36,12
+0020300179,127,2,1,2,8:47 PM,9:45,MISS Trent 16' Jump Shot,,,,
+0020300179,128,4,0,2,8:47 PM,9:43,,,Kaman REBOUND (Off:0 Def:2),,
+0020300179,129,1,58,2,8:47 PM,9:35,,,Ely 6' Turnaround Hook Shot (4 PTS) (Rice 2 AST),26 - 36,10
+0020300179,130,2,1,2,8:47 PM,9:09,MISS McLeod 25' 3PT Jump Shot,,,,
+0020300179,131,4,0,2,8:47 PM,9:08,Trent REBOUND (Off:1 Def:0),,,,
+0020300179,132,6,2,2,8:48 PM,8:50,,,Ely S.FOUL (P1.T1),,
+0020300179,133,9,1,2,8:48 PM,8:50,,,,,
+0020300179,135,8,0,2,8:50 PM,8:50,SUB: Hassell FOR McLeod,,,,
+0020300179,136,3,11,2,8:50 PM,8:50,Garnett Free Throw 1 of 2 (13 PTS),,,26 - 37,11
+0020300179,137,3,12,2,8:51 PM,8:50,Garnett Free Throw 2 of 2 (14 PTS),,,26 - 38,12
+0020300179,138,5,2,2,8:51 PM,8:34,Cassell STEAL (1 STL),,Kaman Lost Ball Turnover (P2.T7),,
+0020300179,139,2,1,2,8:51 PM,8:28,MISS Cassell 16' Jump Shot,,,,
+0020300179,140,4,0,2,8:51 PM,8:27,,,Kaman REBOUND (Off:0 Def:3),,
+0020300179,141,1,1,2,8:51 PM,8:21,,,House 25' 3PT Jump Shot (3 PTS),29 - 38,9
+0020300179,142,5,1,2,8:52 PM,7:55,Hoiberg Bad Pass Turnover (P1.T5),,Ely STEAL (1 STL),,
+0020300179,143,2,1,2,8:52 PM,7:47,,,MISS Richardson 18' Jump Shot,,
+0020300179,144,4,0,2,8:52 PM,7:45,,,Richardson REBOUND (Off:2 Def:0),,
+0020300179,145,2,1,2,8:52 PM,7:43,,,MISS House 24' 3PT Jump Shot,,
+0020300179,146,4,0,2,8:52 PM,7:41,Garnett REBOUND (Off:2 Def:7),,,,
+0020300179,147,2,47,2,8:52 PM,7:19,MISS Cassell 15' Turnaround Jump Shot,,,,
+0020300179,148,4,0,2,8:52 PM,7:18,,,Kaman REBOUND (Off:0 Def:4),,
+0020300179,149,2,1,2,8:53 PM,7:04,,,MISS Ely 16' Jump Shot,,
+0020300179,150,4,0,2,8:53 PM,7:03,,,Kaman REBOUND (Off:1 Def:4),,
+0020300179,151,1,8,2,8:53 PM,7:01,,,Kaman  Slam Dunk (3 PTS),31 - 38,7
+0020300179,152,9,1,2,8:53 PM,6:59,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,
+0020300179,154,8,0,2,8:53 PM,6:59,SUB: Johnson FOR Garnett,,,,
+0020300179,155,8,0,2,8:55 PM,6:59,SUB: Sprewell FOR Hoiberg,,,,
+0020300179,156,8,0,2,8:55 PM,6:59,,,SUB: Maggette FOR Richardson,,
+0020300179,157,2,1,2,8:55 PM,6:34,MISS Hassell 16' Jump Shot,,,,
+0020300179,158,4,0,2,8:55 PM,6:32,,,Kaman REBOUND (Off:1 Def:5),,
+0020300179,159,1,1,2,8:56 PM,6:21,,,Rice 18' Jump Shot (2 PTS) (Maggette 4 AST),33 - 38,5
+0020300179,160,6,1,2,8:56 PM,5:58,,,Ely P.FOUL (P2.T2),,
+0020300179,161,2,1,2,8:56 PM,5:45,MISS Sprewell  3PT Jump Shot,,,,
+0020300179,162,4,0,2,8:56 PM,5:43,,,Rice REBOUND (Off:1 Def:1),,
+0020300179,163,2,1,2,8:57 PM,5:33,,,MISS House 19' Jump Shot,,
+0020300179,164,4,0,2,8:57 PM,5:31,Johnson REBOUND (Off:0 Def:1),,,,
+0020300179,165,1,44,2,8:57 PM,5:22,Trent  Reverse Layup (2 PTS) (Hassell 1 AST),,,33 - 40,7
+0020300179,166,2,1,2,8:57 PM,5:07,,,MISS Rice  3PT Jump Shot,,
+0020300179,167,4,0,2,8:57 PM,5:06,,,Maggette REBOUND (Off:2 Def:0),,
+0020300179,168,6,2,2,8:57 PM,5:05,Hassell S.FOUL (P3.T1),,,,
+0020300179,169,8,0,2,8:57 PM,5:05,SUB: Hoiberg FOR Hassell,,,,
+0020300179,170,3,11,2,8:58 PM,5:05,,,Maggette Free Throw 1 of 2 (3 PTS),34 - 40,6
+0020300179,171,8,0,2,8:58 PM,5:05,,,SUB: Drobnjak FOR Kaman,,
+0020300179,172,3,12,2,8:58 PM,5:05,,,Maggette Free Throw 2 of 2 (4 PTS),35 - 40,5
+0020300179,173,1,3,2,8:58 PM,4:54,Trent 7' Hook Shot (4 PTS) (Cassell 3 AST),,,35 - 42,7
+0020300179,175,7,2,2,8:58 PM,4:43,Johnson Violation:Defensive Goaltending,,,,
+0020300179,174,1,5,2,8:58 PM,4:43,,,Drobnjak  Layup (4 PTS) (Rice 3 AST),37 - 42,5
+0020300179,176,1,1,2,8:59 PM,4:22,Sprewell 16' Jump Shot (6 PTS),,,37 - 44,7
+0020300179,177,1,1,2,8:59 PM,3:54,,,House 22' Jump Shot (5 PTS),39 - 44,5
+0020300179,178,1,1,2,9:00 PM,3:32,Cassell 17' Jump Shot (13 PTS) (Hoiberg 2 AST),,,39 - 46,7
+0020300179,179,5,1,2,9:00 PM,3:18,,,House Bad Pass Turnover (P2.T8),,
+0020300179,180,6,1,2,9:00 PM,3:03,,,Ely P.FOUL (P3.T3),,
+0020300179,181,8,0,2,9:00 PM,3:03,,,SUB: Wilcox FOR Ely,,
+0020300179,182,2,1,2,9:01 PM,2:52,MISS Johnson 12' Jump Shot,,,,
+0020300179,183,4,0,2,9:01 PM,2:50,,,House REBOUND (Off:0 Def:1),,
+0020300179,184,2,1,2,9:01 PM,2:26,Trent BLOCK (1 BLK),,MISS Drobnjak 16' Jump Shot,,
+0020300179,185,4,0,2,9:01 PM,2:24,Sprewell REBOUND (Off:1 Def:2),,,,
+0020300179,186,1,1,2,9:02 PM,2:12,Cassell 16' Jump Shot (15 PTS),,,39 - 48,9
+0020300179,187,2,1,2,9:02 PM,1:47,,,MISS House 9' Jump Shot,,
+0020300179,188,4,0,2,9:02 PM,1:46,Sprewell REBOUND (Off:1 Def:3),,,,
+0020300179,189,2,1,2,9:02 PM,1:36,MISS Trent 8' Jump Shot,,,,
+0020300179,190,4,0,2,9:02 PM,1:34,,,Drobnjak REBOUND (Off:1 Def:4),,
+0020300179,191,9,1,2,9:02 PM,1:28,,,Clippers Timeout: Regular (Reg.2 Short 1),,
+0020300179,193,8,0,2,9:04 PM,1:28,SUB: Garnett FOR Trent,,,,
+0020300179,194,8,0,2,9:04 PM,1:28,SUB: Madsen FOR Johnson,,,,
+0020300179,195,8,0,2,9:04 PM,1:28,,,SUB: Dooling FOR House,,
+0020300179,196,8,0,2,9:04 PM,1:28,,,SUB: Richardson FOR Rice,,
+0020300179,197,2,1,2,9:05 PM,1:18,,,MISS Wilcox 4' Jump Shot,,
+0020300179,198,4,0,2,9:05 PM,1:16,Cassell REBOUND (Off:0 Def:1),,,,
+0020300179,199,1,47,2,9:05 PM,1:06,Garnett 12' Turnaround Jump Shot (16 PTS) (Cassell 4 AST),,,39 - 50,11
+0020300179,200,5,1,2,9:05 PM,0:48,Cassell STEAL (2 STL),,Drobnjak Bad Pass Turnover (P1.T9),,
+0020300179,201,1,8,2,9:05 PM,0:45,Hoiberg  Slam Dunk (7 PTS) (Sprewell 2 AST),,,39 - 52,13
+0020300179,202,2,1,2,9:05 PM,0:32,,,MISS Maggette 20' Jump Shot,,
+0020300179,203,4,0,2,9:05 PM,0:31,Cassell REBOUND (Off:0 Def:2),,,,
+0020300179,204,1,1,2,9:06 PM,0:22,Sprewell 18' Jump Shot (8 PTS) (Madsen 2 AST),,,39 - 54,15
+0020300179,205,6,1,2,9:06 PM,0:07,Cassell P.FOUL (P1.T2),,,,
+0020300179,206,8,0,2,9:06 PM,0:07,SUB: McLeod FOR Cassell,,,,
+0020300179,207,8,0,2,9:06 PM,0:07,SUB: Lewis FOR Madsen,,,,
+0020300179,208,1,3,2,9:06 PM,0:01,,,Drobnjak 6' Hook Shot (6 PTS) (Maggette 5 AST),41 - 54,13
+0020300179,209,2,1,2,9:07 PM,0:00,MISS Lewis 52' 3PT Jump Shot,,,,
+0020300179,210,4,0,2,9:07 PM,0:00,TIMBERWOLVES Rebound,,,,
+0020300179,211,13,0,2,9:07 PM,0:00,,,,41 - 54,13
+0020300179,213,12,0,3,9:23 PM,12:00,,,,41 - 54,13
+0020300179,214,1,1,3,9:23 PM,11:43,,,Richardson 25' 3PT Jump Shot (17 PTS) (Dooling 1 AST),44 - 54,10
+0020300179,215,1,46,3,9:23 PM,11:14,Sprewell 12' Running Jump Shot (10 PTS),,,44 - 56,12
+0020300179,216,2,1,3,9:24 PM,11:00,,,MISS Maggette 24' 3PT Jump Shot,,
+0020300179,217,4,0,3,9:24 PM,10:58,Hassell REBOUND (Off:0 Def:1),,,,
+0020300179,218,2,1,3,9:24 PM,10:44,MISS Cassell 20' Jump Shot,,,,
+0020300179,219,4,0,3,9:24 PM,10:42,,,Maggette REBOUND (Off:2 Def:1),,
+0020300179,220,5,2,3,9:24 PM,10:35,Garnett STEAL (3 STL),,Wilcox Lost Ball Turnover (P1.T10),,
+0020300179,221,6,2,3,9:24 PM,10:31,,,Richardson S.FOUL (P1.T1),,
+0020300179,222,3,11,3,9:24 PM,10:31,Sprewell Free Throw 1 of 2 (11 PTS),,,44 - 57,13
+0020300179,223,3,12,3,9:25 PM,10:31,Sprewell Free Throw 2 of 2 (12 PTS),,,44 - 58,14
+0020300179,224,2,1,3,9:25 PM,10:16,,,MISS Wilcox 11' Jump Shot,,
+0020300179,225,4,0,3,9:25 PM,10:14,Madsen REBOUND (Off:0 Def:2),,,,
+0020300179,226,1,42,3,9:25 PM,10:09,Hassell  Driving Layup (2 PTS) (Cassell 5 AST),,,44 - 60,16
+0020300179,227,1,1,3,9:26 PM,9:53,,,Drobnjak 21' Jump Shot (8 PTS) (Richardson 1 AST),46 - 60,14
+0020300179,228,2,1,3,9:26 PM,9:40,MISS Sprewell 18' Jump Shot,,,,
+0020300179,229,4,0,3,9:26 PM,9:39,,,Richardson REBOUND (Off:2 Def:1),,
+0020300179,230,2,3,3,9:26 PM,9:32,,,MISS Wilcox 4' Hook Shot,,
+0020300179,231,4,0,3,9:26 PM,9:30,Garnett REBOUND (Off:2 Def:8),,,,
+0020300179,232,2,1,3,9:26 PM,9:16,MISS Sprewell  3PT Jump Shot,,,,
+0020300179,233,4,0,3,9:26 PM,9:14,,,Wilcox REBOUND (Off:0 Def:2),,
+0020300179,234,6,2,3,9:26 PM,8:58,Garnett S.FOUL (P1.T1),,,,
+0020300179,235,3,11,3,9:27 PM,8:58,,,Richardson Free Throw 1 of 2 (18 PTS),47 - 60,13
+0020300179,236,3,12,3,9:27 PM,8:58,,,Richardson Free Throw 2 of 2 (19 PTS),48 - 60,12
+0020300179,237,2,1,3,9:27 PM,8:43,MISS Garnett 15' Jump Shot,,,,
+0020300179,238,4,0,3,9:27 PM,8:42,,,Clippers Rebound,,
+0020300179,239,1,1,3,9:28 PM,8:29,,,Drobnjak 20' Jump Shot (10 PTS),50 - 60,10
+0020300179,242,2,1,3,9:28 PM,8:07,MISS Garnett 18' Jump Shot,,,,
+0020300179,243,4,0,3,9:28 PM,8:05,,,Maggette REBOUND (Off:2 Def:2),,
+0020300179,244,1,1,3,9:28 PM,7:58,,,Richardson 19' Jump Shot (21 PTS) (Dooling 2 AST),52 - 60,8
+0020300179,245,9,1,3,9:28 PM,7:56,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,,,
+0020300179,247,1,1,3,9:31 PM,7:40,Hassell 20' Jump Shot (4 PTS) (Cassell 6 AST),,,52 - 62,10
+0020300179,248,6,1,3,9:31 PM,7:26,Madsen P.FOUL (P2.T2),,,,
+0020300179,249,1,67,3,9:31 PM,7:18,,,Richardson 14' Hook Bank Shot (23 PTS) (Maggette 6 AST),54 - 62,8
+0020300179,250,1,1,3,9:32 PM,6:57,Hassell 20' Jump Shot (6 PTS) (Garnett 2 AST),,,54 - 64,10
+0020300179,251,6,1,3,9:32 PM,6:39,Hassell P.FOUL (P4.T3),,,,
+0020300179,252,8,0,3,9:32 PM,6:39,SUB: Hoiberg FOR Hassell,,,,
+0020300179,253,6,2,3,9:33 PM,6:32,Sprewell S.FOUL (P1.T4),,,,
+0020300179,254,3,11,3,9:33 PM,6:32,,,Richardson Free Throw 1 of 2 (24 PTS),55 - 64,9
+0020300179,255,3,12,3,9:33 PM,6:32,,,Richardson Free Throw 2 of 2 (25 PTS),56 - 64,8
+0020300179,256,1,1,3,9:33 PM,6:19,Garnett 17' Jump Shot (18 PTS) (Cassell 7 AST),,,56 - 66,10
+0020300179,257,2,1,3,9:34 PM,6:06,,,MISS Dooling 18' Jump Shot,,
+0020300179,258,4,0,3,9:34 PM,6:04,Madsen REBOUND (Off:0 Def:3),,,,
+0020300179,259,1,1,3,9:34 PM,5:51,Cassell  3PT Jump Shot (18 PTS) (Garnett 3 AST),,,56 - 69,13
+0020300179,260,6,2,3,9:34 PM,5:35,Hoiberg S.FOUL (P1.PN),,,,
+0020300179,261,3,11,3,9:34 PM,5:35,,,Drobnjak Free Throw 1 of 2 (11 PTS),57 - 69,12
+0020300179,262,3,12,3,9:35 PM,5:35,,,Drobnjak Free Throw 2 of 2 (12 PTS),58 - 69,11
+0020300179,263,5,1,3,9:35 PM,5:23,Sprewell Bad Pass Turnover (P2.T6),,Wilcox STEAL (1 STL),,
+0020300179,264,1,8,3,9:35 PM,5:19,,,Richardson  Slam Dunk (27 PTS) (Wilcox 1 AST),60 - 69,9
+0020300179,265,2,1,3,9:35 PM,5:04,MISS Garnett 17' Jump Shot,,,,
+0020300179,266,4,0,3,9:35 PM,5:02,,,Maggette REBOUND (Off:2 Def:3),,
+0020300179,267,2,1,3,9:36 PM,4:53,,,MISS Maggette 15' Jump Shot,,
+0020300179,268,4,0,3,9:36 PM,4:51,Garnett REBOUND (Off:2 Def:9),,,,
+0020300179,269,1,8,3,9:36 PM,4:45,Garnett  Slam Dunk (20 PTS) (Hoiberg 3 AST),,,60 - 71,11
+0020300179,270,9,1,3,9:36 PM,4:38,,,Clippers Timeout: Regular (Reg.3 Short 1),,
+0020300179,272,8,0,3,9:38 PM,4:38,SUB: McLeod FOR Cassell,,,,
+0020300179,273,8,0,3,9:38 PM,4:38,,,SUB: Kaman FOR Wilcox,,
+0020300179,274,1,1,3,9:38 PM,4:28,,,Maggette 16' Jump Shot (6 PTS),62 - 71,9
+0020300179,275,2,1,3,9:39 PM,4:12,MISS Hoiberg 17' Jump Shot,,,,
+0020300179,276,4,0,3,9:39 PM,4:10,,,Kaman REBOUND (Off:1 Def:6),,
+0020300179,277,2,5,3,9:39 PM,3:59,Garnett BLOCK (1 BLK),,MISS Richardson  Layup,,
+0020300179,295,4,0,3,9:39 PM,3:56,,,Richardson REBOUND (Off:3 Def:1),,
+0020300179,278,1,4,3,9:39 PM,3:56,,,Richardson  Tip Shot (29 PTS),64 - 71,7
+0020300179,279,2,1,3,9:39 PM,3:38,MISS McLeod 14' Jump Shot,,,,
+0020300179,281,4,0,3,9:39 PM,3:36,,,Drobnjak REBOUND (Off:1 Def:5),,
+0020300179,282,5,1,3,9:39 PM,3:26,McLeod STEAL (1 STL),,Drobnjak Bad Pass Turnover (P2.T11),,
+0020300179,283,6,1,3,9:40 PM,3:23,,,Dooling P.FOUL (P2.T2),,
+0020300179,284,8,0,3,9:40 PM,3:23,SUB: Trent FOR Madsen,,,,
+0020300179,285,2,1,3,9:40 PM,3:11,MISS McLeod 21' Jump Shot,,,,
+0020300179,286,4,0,3,9:40 PM,3:10,TIMBERWOLVES Rebound,,,,
+0020300179,287,6,3,3,9:40 PM,3:10,,,Maggette L.B.FOUL (P2.T3),,
+0020300179,288,1,52,3,9:40 PM,3:02,Garnett  Alley Oop Dunk (22 PTS) (McLeod 1 AST),,,64 - 73,9
+0020300179,289,1,1,3,9:41 PM,2:41,,,Drobnjak 24' 3PT Jump Shot (15 PTS) (Dooling 3 AST),67 - 73,6
+0020300179,290,1,1,3,9:41 PM,2:24,Sprewell 20' Jump Shot (14 PTS) (Trent 2 AST),,,67 - 75,8
+0020300179,291,2,1,3,9:41 PM,2:02,,,MISS Dooling 25' 3PT Jump Shot,,
+0020300179,292,4,0,3,9:41 PM,2:00,Garnett REBOUND (Off:2 Def:10),,,,
+0020300179,293,1,1,3,9:42 PM,1:47,Hoiberg 21' Jump Shot (9 PTS) (Garnett 4 AST),,,67 - 77,10
+0020300179,294,6,2,3,9:42 PM,1:26,Garnett S.FOUL (P2.PN),,,,
+0020300179,296,3,11,3,9:42 PM,1:26,,,Kaman Free Throw 1 of 2 (4 PTS),68 - 77,9
+0020300179,297,8,0,3,9:42 PM,1:26,SUB: Madsen FOR Garnett,,,,
+0020300179,298,3,12,3,9:43 PM,1:26,,,MISS Kaman Free Throw 2 of 2,,
+0020300179,299,4,0,3,9:43 PM,1:25,Hoiberg REBOUND (Off:0 Def:2),,,,
+0020300179,300,8,0,3,9:43 PM,1:12,,,SUB: Rice FOR Maggette,,
+0020300179,302,2,1,3,9:44 PM,1:00,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020300179,303,4,0,3,9:44 PM,0:58,,,Kaman REBOUND (Off:1 Def:7),,
+0020300179,304,6,2,3,9:44 PM,0:51,McLeod S.FOUL (P2.PN),,,,
+0020300179,305,3,11,3,9:44 PM,0:51,,,Dooling Free Throw 1 of 2 (4 PTS),69 - 77,8
+0020300179,307,3,12,3,9:44 PM,0:51,,,Dooling Free Throw 2 of 2 (5 PTS),70 - 77,7
+0020300179,308,1,1,3,9:45 PM,0:38,McLeod 24' 3PT Jump Shot (5 PTS) (Trent 3 AST),,,70 - 80,10
+0020300179,309,10,0,3,9:45 PM,0:25,Jump Ball Trent vs. Dooling: Tip to McLeod,,,,
+0020300179,311,5,2,3,9:45 PM,0:25,Trent STEAL (1 STL),,Dooling Lost Ball Turnover (P2.T12),,
+0020300179,314,6,1,3,9:46 PM,0:04,,,Richardson P.FOUL (P2.T4),,
+0020300179,315,2,1,3,9:47 PM,0:00,MISS Sprewell  3PT Jump Shot,,,,
+0020300179,316,4,0,3,9:47 PM,0:00,TIMBERWOLVES Rebound,,,,
+0020300179,318,13,0,3,9:48 PM,0:00,,,,70 - 80,10
+0020300179,319,12,0,4,9:49 PM,12:00,,,,70 - 80,10
+0020300179,320,1,1,4,9:50 PM,11:44,Hoiberg 25' 3PT Jump Shot (12 PTS) (Trent 4 AST),,,70 - 83,13
+0020300179,342,2,45,4,9:50 PM,11:28,,,MISS Richardson 17' Jump Shot,,
+0020300179,321,4,0,4,9:50 PM,11:27,,,Clippers Rebound,,
+0020300179,322,6,3,4,9:50 PM,11:27,Madsen L.B.FOUL (P3.T1),,,,
+0020300179,323,2,5,4,9:50 PM,11:10,Trent BLOCK (2 BLK),,MISS Dooling  Layup,,
+0020300179,326,4,0,4,9:50 PM,11:08,,,Kaman REBOUND (Off:2 Def:7),,
+0020300179,324,1,4,4,9:50 PM,11:08,,,Kaman  Tip Shot (6 PTS),72 - 83,11
+0020300179,325,1,44,4,9:51 PM,10:51,Trent  Reverse Layup (6 PTS) (McLeod 2 AST),,,72 - 85,13
+0020300179,327,8,0,4,9:51 PM,10:28,,,SUB: House FOR Dooling,,
+0020300179,328,8,0,4,9:51 PM,10:28,,,SUB: Wilcox FOR Drobnjak,,
+0020300179,329,1,1,4,9:52 PM,10:23,,,Richardson 29' 3PT Jump Shot (32 PTS) (Rice 4 AST),75 - 85,10
+0020300179,330,2,1,4,9:52 PM,10:02,MISS McLeod 19' Jump Shot,,,,
+0020300179,331,4,0,4,9:52 PM,10:00,,,Kaman REBOUND (Off:2 Def:8),,
+0020300179,333,5,1,4,9:52 PM,9:43,McLeod STEAL (2 STL),,Kaman Bad Pass Turnover (P3.T13),,
+0020300179,335,1,42,4,9:52 PM,9:38,McLeod  Driving Layup (7 PTS),,,75 - 87,12
+0020300179,336,6,2,4,9:53 PM,9:20,Trent S.FOUL (P1.T2),,,,
+0020300179,337,8,0,4,9:53 PM,9:20,SUB: Hassell FOR Sprewell,,,,
+0020300179,338,3,11,4,9:53 PM,9:20,,,Richardson Free Throw 1 of 2 (33 PTS),76 - 87,11
+0020300179,339,8,0,4,9:53 PM,9:20,SUB: Garnett FOR Madsen,,,,
+0020300179,340,3,12,4,9:53 PM,9:20,,,Richardson Free Throw 2 of 2 (34 PTS),77 - 87,10
+0020300179,341,1,1,4,9:54 PM,9:11,Garnett 19' Jump Shot (24 PTS) (McLeod 3 AST),,,77 - 89,12
+0020300179,343,1,1,4,9:54 PM,8:55,,,Richardson 21' Jump Shot (36 PTS),79 - 89,10
+0020300179,344,2,1,4,9:54 PM,8:41,MISS Garnett 20' Jump Shot,,,,
+0020300179,345,4,0,4,9:54 PM,8:39,,,Richardson REBOUND (Off:3 Def:2),,
+0020300179,346,2,1,4,9:54 PM,8:26,,,MISS Kaman 15' Jump Shot,,
+0020300179,347,4,0,4,9:54 PM,8:22,Garnett REBOUND (Off:2 Def:11),,,,
+0020300179,348,2,1,4,9:55 PM,8:06,MISS Hoiberg 25' 3PT Jump Shot,,,,
+0020300179,349,4,0,4,9:55 PM,8:05,Hoiberg REBOUND (Off:1 Def:2),,,,
+0020300179,350,2,1,4,9:55 PM,8:03,MISS Hoiberg 19' Jump Shot,,,,
+0020300179,351,4,0,4,9:55 PM,8:02,,,Clippers Rebound,,
+0020300179,352,9,1,4,9:55 PM,8:02,,,,,
+0020300179,354,8,0,4,9:57 PM,8:02,SUB: Cassell FOR McLeod,,,,
+0020300179,355,2,1,4,9:57 PM,7:47,,,MISS House 24' 3PT Jump Shot,,
+0020300179,356,4,0,4,9:57 PM,7:45,Garnett REBOUND (Off:2 Def:12),,,,
+0020300179,357,1,1,4,9:58 PM,7:29,Hassell 18' Jump Shot (8 PTS) (Hoiberg 4 AST),,,79 - 91,12
+0020300179,358,2,3,4,9:58 PM,7:13,,,MISS Wilcox 3' Hook Shot,,
+0020300179,359,4,0,4,9:58 PM,7:11,Garnett REBOUND (Off:2 Def:13),,,,
+0020300179,360,1,49,4,9:58 PM,6:56,Garnett  Driving Dunk (26 PTS),,,79 - 93,14
+0020300179,361,2,1,4,9:58 PM,6:35,Garnett BLOCK (2 BLK),,MISS Wilcox 5' Jump Shot,,
+0020300179,362,4,0,4,9:59 PM,6:34,Garnett REBOUND (Off:2 Def:14),,,,
+0020300179,363,2,1,4,9:59 PM,6:26,MISS Cassell 18' Jump Shot,,,,
+0020300179,364,4,0,4,9:59 PM,6:24,,,Kaman REBOUND (Off:2 Def:9),,
+0020300179,365,2,1,4,9:59 PM,6:15,,,MISS Rice 21' Jump Shot,,
+0020300179,366,4,0,4,9:59 PM,6:13,,,Wilcox REBOUND (Off:1 Def:2),,
+0020300179,367,1,8,4,9:59 PM,6:11,,,Kaman  Slam Dunk (8 PTS) (Wilcox 2 AST),81 - 93,12
+0020300179,368,1,63,4,9:59 PM,5:43,Garnett 19' Fadeaway Jumper (28 PTS),,,81 - 95,14
+0020300179,369,9,1,4,10:00 PM,5:33,,,Clippers Timeout: Regular (Reg.4 Short 1),,
+0020300179,371,8,0,4,10:02 PM,5:33,SUB: Sprewell FOR Hoiberg,,,,
+0020300179,372,8,0,4,10:02 PM,5:33,,,SUB: Maggette FOR Rice,,
+0020300179,373,8,0,4,10:02 PM,5:33,,,SUB: Drobnjak FOR Wilcox,,
+0020300179,374,5,40,4,10:02 PM,5:28,,,Drobnjak Out of Bounds Lost Ball Turnover (P3.T14),,
+0020300179,375,1,1,4,10:03 PM,5:07,Garnett 14' Jump Shot (30 PTS),,,81 - 97,16
+0020300179,376,6,1,4,10:03 PM,4:52,Cassell P.FOUL (P2.T3),,,,
+0020300179,377,2,1,4,10:03 PM,4:42,,,MISS Drobnjak 9' Jump Shot,,
+0020300179,378,4,0,4,10:03 PM,4:40,Garnett REBOUND (Off:2 Def:15),,,,
+0020300179,379,1,42,4,10:03 PM,4:36,Trent  Driving Layup (8 PTS) (Garnett 5 AST),,,81 - 99,18
+0020300179,380,5,1,4,10:04 PM,4:19,,,Kaman Bad Pass Turnover (P4.T15),,
+0020300179,381,1,1,4,10:04 PM,3:56,Trent 16' Jump Shot (10 PTS) (Hassell 2 AST),,,81 - 101,20
+0020300179,382,2,1,4,10:04 PM,3:37,,,MISS Richardson 16' Jump Shot,,
+0020300179,383,4,0,4,10:04 PM,3:36,Garnett REBOUND (Off:2 Def:16),,,,
+0020300179,384,2,1,4,10:05 PM,3:29,MISS Hassell 19' Jump Shot,,,,
+0020300179,385,4,0,4,10:05 PM,3:28,,,Kaman REBOUND (Off:2 Def:10),,
+0020300179,386,2,1,4,10:05 PM,3:15,,,MISS Drobnjak 15' Jump Shot,,
+0020300179,387,4,0,4,10:05 PM,3:13,,,Maggette REBOUND (Off:3 Def:3),,
+0020300179,388,1,44,4,10:05 PM,3:10,,,Maggette  Reverse Layup (8 PTS),83 - 101,18
+0020300179,389,1,5,4,10:05 PM,3:00,Trent  Layup (12 PTS) (Cassell 8 AST),,,83 - 103,20
+0020300179,390,9,1,4,10:05 PM,2:55,,,Clippers Timeout: Regular (Reg.5 Short 1),,
+0020300179,395,8,0,4,10:07 PM,2:55,,,SUB: Rice FOR Drobnjak,,
+0020300179,392,8,0,4,10:07 PM,2:55,,,SUB: Overton FOR House,,
+0020300179,393,8,0,4,10:07 PM,2:55,,,SUB: Ely FOR Richardson,,
+0020300179,394,1,47,4,10:08 PM,2:37,,,Kaman 13' Turnaround Jump Shot (10 PTS) (Rice 5 AST),85 - 103,18
+0020300179,396,2,5,4,10:08 PM,2:15,MISS Trent  Layup,,Ely BLOCK (1 BLK),,
+0020300179,397,4,0,4,10:08 PM,2:11,Garnett REBOUND (Off:3 Def:16),,,,
+0020300179,399,2,1,4,10:09 PM,1:52,MISS Cassell 10' Jump Shot,,,,
+0020300179,400,4,0,4,10:09 PM,1:50,,,Kaman REBOUND (Off:2 Def:11),,
+0020300179,401,1,42,4,10:09 PM,1:45,,,Overton  Driving Layup (2 PTS),87 - 103,16
+0020300179,402,2,1,4,10:09 PM,1:28,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020300179,403,4,0,4,10:09 PM,1:27,,,Clippers Rebound,,
+0020300179,404,8,0,4,10:09 PM,1:27,SUB: McLeod FOR Sprewell,,,,
+0020300179,405,8,0,4,10:09 PM,1:27,SUB: Johnson FOR Garnett,,,,
+0020300179,406,8,0,4,10:09 PM,1:27,SUB: Lewis FOR Hassell,,,,
+0020300179,407,8,0,4,10:09 PM,1:27,SUB: Ebi FOR Cassell,,,,
+0020300179,408,2,1,4,10:10 PM,1:13,,,MISS Maggette 13' Jump Shot,,
+0020300179,409,4,0,4,10:10 PM,1:11,Trent REBOUND (Off:1 Def:1),,,,
+0020300179,410,2,5,4,10:10 PM,0:48,MISS McLeod  Layup,,,,
+0020300179,411,4,0,4,10:10 PM,0:47,,,Kaman REBOUND (Off:2 Def:12),,
+0020300179,412,6,2,4,10:10 PM,0:41,McLeod S.FOUL (P3.T4),,,,
+0020300179,413,3,11,4,10:11 PM,0:41,,,Overton Free Throw 1 of 2 (3 PTS),88 - 103,15
+0020300179,414,3,12,4,10:11 PM,0:41,,,Overton Free Throw 2 of 2 (4 PTS),89 - 103,14
+0020300179,415,5,2,4,10:11 PM,0:32,Johnson Lost Ball Turnover (P1.T7),,Overton STEAL (1 STL),,
+0020300179,416,2,1,4,10:11 PM,0:27,,,MISS Overton 15' Jump Shot,,
+0020300179,417,4,0,4,10:11 PM,0:25,,,Kaman REBOUND (Off:3 Def:12),,
+0020300179,418,1,3,4,10:11 PM,0:25,,,Kaman 6' Hook Shot (12 PTS),91 - 103,12
+0020300179,419,2,1,4,10:12 PM,0:01,MISS Trent 16' Jump Shot,,,,
+0020300179,420,4,0,4,10:12 PM,0:00,TIMBERWOLVES Rebound,,,,
+0020300179,421,13,0,4,10:12 PM,0:00,,,,91 - 103,12

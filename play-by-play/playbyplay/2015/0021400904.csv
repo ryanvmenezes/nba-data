@@ -1,0 +1,581 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021400904,0,12,0,1,8:11 PM,12:00,,,,,
+0021400904,1,10,0,1,8:11 PM,12:00,Jump Ball Ibaka vs. Noel: Tip to Kanter,,,,
+0021400904,2,2,1,1,8:11 PM,11:48,MISS Ibaka 17' Jump Shot,,,,
+0021400904,3,4,0,1,8:11 PM,11:47,,,Richardson REBOUND (Off:0 Def:1),,
+0021400904,4,2,1,1,8:11 PM,11:33,,,MISS Noel 18' Jump Shot,,
+0021400904,5,4,0,1,8:11 PM,11:32,Roberson REBOUND (Off:0 Def:1),,,,
+0021400904,6,5,2,1,8:11 PM,11:20,Kanter Lost Ball Turnover (P1.T1),,Noel STEAL (1 STL),,
+0021400904,7,1,1,1,8:11 PM,11:11,,,Richardson 24' 3PT Jump Shot (3 PTS) (Sampson 1 AST),3 - 0,-3
+0021400904,8,6,1,1,8:12 PM,10:53,,,Noel P.FOUL (P1.T1),,
+0021400904,9,2,1,1,8:12 PM,10:47,MISS Westbrook 24' 3PT Jump Shot,,,,
+0021400904,10,4,0,1,8:12 PM,10:46,,,Richardson REBOUND (Off:0 Def:2),,
+0021400904,11,6,1,1,8:12 PM,10:41,Singler P.FOUL (P1.T1),,,,
+0021400904,12,1,1,1,8:13 PM,10:34,,,Canaan 24' 3PT Jump Shot (3 PTS) (Mbah a Moute 1 AST),6 - 0,-6
+0021400904,13,2,5,1,8:13 PM,10:14,MISS Kanter 2' Layup,,,,
+0021400904,14,4,0,1,8:13 PM,10:13,,,Sampson REBOUND (Off:0 Def:1),,
+0021400904,15,1,42,1,8:13 PM,10:00,,,Richardson 2' Driving Layup (5 PTS) (Canaan 1 AST),8 - 0,-8
+0021400904,16,2,1,1,8:13 PM,9:44,MISS Westbrook 19' Jump Shot,,,,
+0021400904,17,4,0,1,8:13 PM,9:43,,,Canaan REBOUND (Off:0 Def:1),,
+0021400904,19,5,1,1,8:14 PM,9:35,Westbrook STEAL (1 STL),,Noel Bad Pass Turnover (P1.T1),,
+0021400904,20,6,1,1,8:14 PM,9:31,,,Sampson P.FOUL (P1.T2),,
+0021400904,21,3,11,1,8:14 PM,9:31,Singler Free Throw 1 of 2 (1 PTS),,,8 - 1,-7
+0021400904,23,3,12,1,8:14 PM,9:31,Singler Free Throw 2 of 2 (2 PTS),,,8 - 2,-6
+0021400904,25,2,5,1,8:15 PM,9:22,,,MISS Richardson 2' Layup,,
+0021400904,26,4,0,1,8:15 PM,9:21,,,Noel REBOUND (Off:1 Def:0),,
+0021400904,27,2,1,1,8:15 PM,9:20,,,MISS Noel 5' Jump Shot,,
+0021400904,28,4,0,1,8:15 PM,9:18,Westbrook REBOUND (Off:0 Def:1),,,,
+0021400904,29,5,1,1,8:15 PM,9:13,Westbrook Bad Pass Turnover (P1.T2),,Sampson STEAL (1 STL),,
+0021400904,30,6,2,1,8:15 PM,9:01,Kanter S.FOUL (P1.T2),,,,
+0021400904,31,3,11,1,8:15 PM,9:01,,,Sampson Free Throw 1 of 2 (1 PTS),9 - 2,-7
+0021400904,33,3,12,1,8:16 PM,9:01,,,Sampson Free Throw 2 of 2 (2 PTS),10 - 2,-8
+0021400904,35,1,77,1,8:16 PM,8:45,Westbrook 4' Driving Jump Shot (2 PTS),,,10 - 4,-6
+0021400904,36,6,2,1,8:16 PM,8:45,,,Sampson S.FOUL (P2.T3),,
+0021400904,37,3,10,1,8:16 PM,8:45,Westbrook Free Throw 1 of 1 (3 PTS),,,10 - 5,-5
+0021400904,39,1,7,1,8:17 PM,8:33,,,Noel  Dunk (2 PTS) (Mbah a Moute 2 AST),12 - 5,-7
+0021400904,40,1,5,1,8:17 PM,8:13,Kanter 1' Layup (2 PTS),,,12 - 7,-5
+0021400904,42,8,0,1,8:18 PM,7:56,,,SUB: Grant FOR Sampson,,
+0021400904,43,2,1,1,8:18 PM,7:50,,,MISS Mbah a Moute 16' Jump Shot,,
+0021400904,44,4,0,1,8:18 PM,7:49,Roberson REBOUND (Off:0 Def:2),,,,
+0021400904,45,6,2,1,8:18 PM,7:42,,,Grant S.FOUL (P1.T4),,
+0021400904,46,3,11,1,8:19 PM,7:42,Westbrook Free Throw 1 of 2 (4 PTS),,,12 - 8,-4
+0021400904,48,3,12,1,8:19 PM,7:42,Westbrook Free Throw 2 of 2 (5 PTS),,,12 - 9,-3
+0021400904,50,6,2,1,8:19 PM,7:34,Roberson S.FOUL (P1.T3),,,,
+0021400904,51,3,11,1,8:19 PM,7:34,,,Grant Free Throw 1 of 2 (1 PTS),13 - 9,-4
+0021400904,53,3,12,1,8:19 PM,7:34,,,MISS Grant Free Throw 2 of 2,,
+0021400904,55,4,0,1,8:20 PM,7:33,Singler REBOUND (Off:0 Def:1),,,,
+0021400904,56,1,79,1,8:20 PM,7:23,Westbrook 20' Pullup Jump Shot (7 PTS),,,13 - 11,-2
+0021400904,57,2,1,1,8:20 PM,7:15,,,MISS Mbah a Moute 25' 3PT Jump Shot,,
+0021400904,59,4,0,1,8:20 PM,7:14,Ibaka REBOUND (Off:0 Def:1),,,,
+0021400904,58,1,42,1,8:20 PM,7:08,Westbrook 1' Driving Layup (9 PTS),,,13 - 13,TIE
+0021400904,60,6,2,1,8:21 PM,6:48,Roberson S.FOUL (P2.T4),,,,
+0021400904,61,3,11,1,8:21 PM,6:48,,,Mbah a Moute Free Throw 1 of 2 (1 PTS),14 - 13,-1
+0021400904,63,8,0,1,8:21 PM,6:48,SUB: Waiters FOR Roberson,,,,
+0021400904,64,3,12,1,8:21 PM,6:48,,,MISS Mbah a Moute Free Throw 2 of 2,,
+0021400904,66,4,0,1,8:21 PM,6:48,,,Mbah a Moute REBOUND (Off:1 Def:0),,
+0021400904,67,2,42,1,8:21 PM,6:37,,,MISS Grant 2' Driving Layup,,
+0021400904,68,4,0,1,8:22 PM,6:36,Westbrook REBOUND (Off:0 Def:2),,,,
+0021400904,69,5,2,1,8:22 PM,6:31,Westbrook Lost Ball Turnover (P2.T3),,Richardson STEAL (1 STL),,
+0021400904,70,9,1,1,8:22 PM,6:23,,,76ers Timeout: Regular (Reg.1 Short 0),,
+0021400904,72,2,1,1,8:24 PM,6:16,,,MISS Richardson 24' Jump Shot,,
+0021400904,73,4,0,1,8:24 PM,6:15,,,Noel REBOUND (Off:2 Def:0),,
+0021400904,74,2,1,1,8:25 PM,6:10,,,MISS Mbah a Moute  3PT Jump Shot,,
+0021400904,75,4,0,1,8:25 PM,6:09,,,Mbah a Moute REBOUND (Off:2 Def:0),,
+0021400904,76,1,1,1,8:25 PM,6:04,,,Canaan 27' 3PT Jump Shot (6 PTS) (Mbah a Moute 3 AST),17 - 13,-4
+0021400904,77,5,1,1,8:25 PM,5:48,Waiters Bad Pass Turnover (P1.T4),,Noel STEAL (2 STL),,
+0021400904,78,1,5,1,8:25 PM,5:43,,,Mbah a Moute 2' Layup (3 PTS) (Richardson 1 AST),19 - 13,-6
+0021400904,79,2,1,1,8:25 PM,5:34,MISS Westbrook 20' Jump Shot,,,,
+0021400904,80,4,0,1,8:25 PM,5:33,,,76ers Rebound,,
+0021400904,81,8,0,1,8:25 PM,5:32,,,SUB: Thompson FOR Richardson,,
+0021400904,82,8,0,1,8:25 PM,5:32,SUB: Collison FOR Kanter,,,,
+0021400904,83,1,42,1,8:26 PM,5:10,,,Mbah a Moute 1' Driving Layup (5 PTS),21 - 13,-8
+0021400904,84,1,5,1,8:26 PM,4:57,Collison 1' Layup (2 PTS) (Waiters 1 AST),,,21 - 15,-6
+0021400904,85,6,2,1,8:26 PM,4:57,,,Noel S.FOUL (P2.PN),,
+0021400904,86,8,0,1,8:26 PM,4:57,,,SUB: Robinson FOR Noel,,
+0021400904,89,5,17,1,8:27 PM,4:57,Ibaka Lane Violation Turnover (P1.T5),,,,
+0021400904,91,1,1,1,8:27 PM,4:44,,,Canaan 24' 3PT Jump Shot (9 PTS) (Mbah a Moute 4 AST),24 - 15,-9
+0021400904,92,2,5,1,8:27 PM,4:25,MISS Collison 2' Layup,,Grant BLOCK (1 BLK),,
+0021400904,93,4,0,1,8:27 PM,4:23,,,Mbah a Moute REBOUND (Off:2 Def:1),,
+0021400904,95,8,0,1,8:28 PM,4:20,,,SUB: Sims FOR Mbah a Moute,,
+0021400904,96,8,0,1,8:28 PM,4:20,SUB: Morrow FOR Singler,,,,
+0021400904,97,6,5,1,8:28 PM,4:20,Morrow IN.FOUL (P1.PN),,,,
+0021400904,98,3,11,1,8:28 PM,4:20,,,Grant Free Throw 1 of 2 (2 PTS),25 - 15,-10
+0021400904,100,3,12,1,8:28 PM,4:20,,,Grant Free Throw 2 of 2 (3 PTS),26 - 15,-11
+0021400904,102,6,29,1,8:29 PM,4:05,,,Grant Shooting Block Foul (P2.PN),,
+0021400904,103,3,11,1,8:29 PM,4:05,Westbrook Free Throw 1 of 2 (10 PTS),,,26 - 16,-10
+0021400904,105,8,0,1,8:29 PM,4:05,,,SUB: Smith FOR Grant,,
+0021400904,106,3,12,1,8:30 PM,4:05,Westbrook Free Throw 2 of 2 (11 PTS),,,26 - 17,-9
+0021400904,108,1,1,1,8:30 PM,3:49,,,Canaan 25' 3PT Jump Shot (12 PTS) (Robinson 1 AST),29 - 17,-12
+0021400904,109,5,2,1,8:30 PM,3:35,Westbrook Lost Ball Turnover (P3.T6),,Robinson STEAL (1 STL),,
+0021400904,110,1,79,1,8:30 PM,3:30,,,Canaan 25' 3PT Pullup Jump Shot (15 PTS),32 - 17,-15
+0021400904,112,9,1,1,8:30 PM,3:29,THUNDER Timeout: Regular (Full 1 Short 0),,,,
+0021400904,114,1,49,1,8:33 PM,3:24,Westbrook  Driving Dunk (13 PTS),,,32 - 19,-13
+0021400904,115,2,1,1,8:33 PM,3:04,,,MISS Thompson 25' 3PT Jump Shot,,
+0021400904,116,4,0,1,8:33 PM,3:03,Waiters REBOUND (Off:0 Def:1),,,,
+0021400904,117,1,1,1,8:33 PM,2:57,Morrow  3PT Jump Shot (3 PTS) (Waiters 2 AST),,,32 - 22,-10
+0021400904,118,2,1,1,8:34 PM,2:36,,,MISS Canaan 25' 3PT Jump Shot,,
+0021400904,119,4,0,1,8:34 PM,2:35,Ibaka REBOUND (Off:0 Def:2),,,,
+0021400904,120,2,1,1,8:34 PM,2:29,MISS Waiters 24' 3PT Jump Shot,,,,
+0021400904,121,4,0,1,8:34 PM,2:27,,,Canaan REBOUND (Off:0 Def:2),,
+0021400904,122,2,1,1,8:34 PM,2:13,,,MISS Sims 15' Jump Shot,,
+0021400904,123,4,0,1,8:34 PM,2:12,Westbrook REBOUND (Off:0 Def:3),,,,
+0021400904,124,6,1,1,8:34 PM,2:07,,,Sims P.FOUL (P1.PN),,
+0021400904,125,3,11,1,8:35 PM,2:07,Collison Free Throw 1 of 2 (3 PTS),,,32 - 23,-9
+0021400904,127,8,0,1,8:35 PM,2:07,SUB: McGary FOR Ibaka,,,,
+0021400904,128,3,12,1,8:35 PM,2:07,Collison Free Throw 2 of 2 (4 PTS),,,32 - 24,-8
+0021400904,130,2,1,1,8:36 PM,1:48,,,MISS Smith 24' 3PT Jump Shot,,
+0021400904,131,4,0,1,8:36 PM,1:45,Collison REBOUND (Off:0 Def:1),,,,
+0021400904,132,1,1,1,8:36 PM,1:40,Morrow  3PT Jump Shot (6 PTS) (Westbrook 1 AST),,,32 - 27,-5
+0021400904,133,6,26,1,8:36 PM,1:24,,,Thompson Offensive Charge Foul (P1.PN),,
+0021400904,134,5,5,1,8:36 PM,1:24,,,Thompson Foul Turnover (P1.T2),,
+0021400904,135,2,1,1,8:36 PM,1:05,MISS Morrow 9' Jump Shot,,,,
+0021400904,136,4,0,1,8:37 PM,1:03,Westbrook REBOUND (Off:1 Def:3),,,,
+0021400904,137,1,1,1,8:37 PM,0:59,Morrow 24' 3PT Jump Shot (9 PTS) (Westbrook 2 AST),,,32 - 30,-2
+0021400904,138,2,1,1,8:37 PM,0:47,,,MISS Smith 12' Jump Shot,,
+0021400904,139,4,0,1,8:37 PM,0:46,THUNDER Rebound,,,,
+0021400904,140,6,3,1,8:37 PM,0:46,,,Sims L.B.FOUL (P2.PN),,
+0021400904,141,3,11,1,8:37 PM,0:46,Morrow Free Throw 1 of 2 (10 PTS),,,32 - 31,-1
+0021400904,143,3,12,1,8:37 PM,0:46,Morrow Free Throw 2 of 2 (11 PTS),,,32 - 32,TIE
+0021400904,145,1,1,1,8:38 PM,0:33,,,Sims 17' Jump Shot (2 PTS) (Smith 1 AST),34 - 32,-2
+0021400904,146,1,79,1,8:38 PM,0:29,Westbrook 25' 3PT Pullup Jump Shot (16 PTS),,,34 - 35,1
+0021400904,147,2,5,1,8:39 PM,0:04,,,MISS Robinson 2' Layup,,
+0021400904,148,4,0,1,8:39 PM,0:03,Westbrook REBOUND (Off:1 Def:4),,,,
+0021400904,149,1,1,1,8:39 PM,0:00,McGary 5' Jump Shot (2 PTS) (Westbrook 3 AST),,,34 - 37,3
+0021400904,150,18,0,1,8:39 PM,0:00,,,,,
+0021400904,152,13,0,1,8:40 PM,0:00,,,,34 - 37,3
+0021400904,154,12,0,2,8:42 PM,12:00,,,,34 - 37,3
+0021400904,155,2,1,2,8:42 PM,11:35,,,MISS Richardson 17' Jump Shot,,
+0021400904,156,4,0,2,8:42 PM,11:34,McGary REBOUND (Off:0 Def:1),,,,
+0021400904,157,1,1,2,8:42 PM,11:17,Waiters 12' Jump Shot (2 PTS) (Morrow 1 AST),,,34 - 39,5
+0021400904,158,2,1,2,8:43 PM,10:56,,,MISS Richardson 25' 3PT Jump Shot,,
+0021400904,159,4,0,2,8:43 PM,10:55,,,Sims REBOUND (Off:1 Def:0),,
+0021400904,160,6,2,2,8:43 PM,10:53,Collison S.FOUL (P1.T1),,,,
+0021400904,161,3,11,2,8:43 PM,10:53,,,MISS Grant Free Throw 1 of 2,,
+0021400904,162,4,1,2,8:43 PM,10:53,,,76ers Rebound,,
+0021400904,163,8,0,2,8:43 PM,10:53,,,SUB: Noel FOR Sims,,
+0021400904,164,3,12,2,8:44 PM,10:53,,,Grant Free Throw 2 of 2 (4 PTS),35 - 39,4
+0021400904,166,6,2,2,8:44 PM,10:40,,,Richardson S.FOUL (P1.T1),,
+0021400904,167,3,11,2,8:44 PM,10:40,MISS Waiters Free Throw 1 of 2,,,,
+0021400904,168,4,1,2,8:44 PM,10:40,THUNDER Rebound,,,,
+0021400904,169,3,12,2,8:44 PM,10:40,MISS Waiters Free Throw 2 of 2,,,,
+0021400904,171,4,0,2,8:45 PM,10:39,,,Noel REBOUND (Off:2 Def:1),,
+0021400904,172,6,17,2,8:45 PM,10:31,THUNDER T.Foul (Def. 3 Sec McGary ),,,,
+0021400904,173,3,16,2,8:45 PM,10:31,,,Richardson Free Throw Technical (6 PTS),36 - 39,3
+0021400904,175,6,2,2,8:45 PM,10:24,Collison S.FOUL (P2.T2),,,,
+0021400904,176,3,11,2,8:46 PM,10:24,,,Grant Free Throw 1 of 2 (5 PTS),37 - 39,2
+0021400904,178,3,12,2,8:46 PM,10:24,,,Grant Free Throw 2 of 2 (6 PTS),38 - 39,1
+0021400904,180,2,42,2,8:46 PM,10:14,MISS Morrow 2' Driving Layup,,,,
+0021400904,181,4,0,2,8:46 PM,10:13,,,Noel REBOUND (Off:2 Def:2),,
+0021400904,182,2,82,2,8:47 PM,9:59,,,MISS Richardson 9' Driving Bank Shot,,
+0021400904,183,4,0,2,8:47 PM,9:58,Collison REBOUND (Off:0 Def:2),,,,
+0021400904,184,6,1,2,8:47 PM,9:56,,,Grant P.FOUL (P3.T2),,
+0021400904,185,8,0,2,8:47 PM,9:56,,,SUB: Sampson FOR Grant,,
+0021400904,186,8,0,2,8:47 PM,9:56,,,SUB: Mbah a Moute FOR Robinson,,
+0021400904,187,1,5,2,8:47 PM,9:46,McGary 1' Layup (4 PTS) (Collison 1 AST),,,38 - 41,3
+0021400904,188,5,2,2,8:47 PM,9:34,Collison STEAL (1 STL),,Smith Lost Ball Turnover (P1.T3),,
+0021400904,189,2,1,2,8:48 PM,9:26,MISS Collison 17' Jump Shot,,,,
+0021400904,190,4,0,2,8:48 PM,9:25,,,Richardson REBOUND (Off:0 Def:3),,
+0021400904,191,2,1,2,8:48 PM,9:10,,,MISS Mbah a Moute 20' Jump Shot,,
+0021400904,192,4,0,2,8:48 PM,9:09,Augustin REBOUND (Off:0 Def:1),,,,
+0021400904,193,2,79,2,8:48 PM,9:01,MISS Augustin 17' Pullup Jump Shot,,,,
+0021400904,194,4,0,2,8:48 PM,9:00,,,Mbah a Moute REBOUND (Off:2 Def:2),,
+0021400904,199,2,42,2,8:51 PM,8:38,,,MISS Smith 1' Driving Layup,,
+0021400904,200,4,0,2,8:51 PM,8:37,McGary REBOUND (Off:0 Def:2),,,,
+0021400904,201,5,4,2,8:51 PM,8:30,Augustin Traveling Turnover (P1.T7),,,,
+0021400904,202,1,78,2,8:52 PM,8:12,,,Smith 4' Floating Jump Shot (2 PTS),40 - 41,1
+0021400904,203,1,1,2,8:52 PM,7:58,Waiters 16' Jump Shot (4 PTS),,,40 - 43,3
+0021400904,204,2,79,2,8:52 PM,7:50,,,MISS Smith 6' Pullup Jump Shot,,
+0021400904,205,4,0,2,8:52 PM,7:48,Collison REBOUND (Off:0 Def:3),,,,
+0021400904,206,1,42,2,8:52 PM,7:37,Waiters 2' Driving Layup (6 PTS),,,40 - 45,5
+0021400904,207,6,17,2,8:53 PM,7:24,THUNDER T.Foul (Def. 3 Sec Collison ),,,,
+0021400904,208,3,16,2,8:53 PM,7:24,,,Richardson Free Throw Technical (7 PTS),41 - 45,4
+0021400904,210,8,0,2,8:53 PM,7:24,SUB: Ibaka FOR Collison,,,,
+0021400904,211,8,0,2,8:53 PM,7:24,SUB: Kanter FOR Morrow,,,,
+0021400904,212,8,0,2,8:53 PM,7:24,SUB: Westbrook FOR McGary,,,,
+0021400904,213,1,5,2,8:54 PM,7:15,,,Sampson 3' Layup (4 PTS),43 - 45,2
+0021400904,214,2,79,2,8:54 PM,6:55,MISS Waiters 19' Pullup Jump Shot,,,,
+0021400904,215,4,0,2,8:54 PM,6:54,,,Richardson REBOUND (Off:0 Def:4),,
+0021400904,217,7,2,2,8:54 PM,6:49,Ibaka Violation:Defensive Goaltending,,,,
+0021400904,216,1,5,2,8:54 PM,6:49,,,Richardson 2' Layup (9 PTS),45 - 45,TIE
+0021400904,218,2,1,2,8:54 PM,6:34,MISS Augustin 3' Jump Shot,,Noel BLOCK (1 BLK),,
+0021400904,219,4,0,2,8:54 PM,6:32,,,Smith REBOUND (Off:0 Def:1),,
+0021400904,220,2,1,2,8:54 PM,6:27,,,MISS Sampson  3PT Jump Shot,,
+0021400904,221,4,0,2,8:55 PM,6:26,Westbrook REBOUND (Off:1 Def:5),,,,
+0021400904,222,1,79,2,8:55 PM,6:20,Westbrook 17' Pullup Jump Shot (18 PTS),,,45 - 47,2
+0021400904,223,6,1,2,8:55 PM,6:02,Kanter P.FOUL (P2.T3),,,,
+0021400904,224,8,0,2,8:55 PM,6:02,,,SUB: Canaan FOR Smith,,
+0021400904,225,6,2,2,8:56 PM,5:51,Ibaka S.FOUL (P1.T4),,,,
+0021400904,226,9,1,2,8:56 PM,5:51,THUNDER Timeout: Regular (Full 2 Short 0),,,,
+0021400904,230,3,11,2,8:58 PM,5:51,,,MISS Mbah a Moute Free Throw 1 of 2,,
+0021400904,231,4,1,2,8:58 PM,5:51,,,76ers Rebound,,
+0021400904,232,3,12,2,8:58 PM,5:51,,,MISS Mbah a Moute Free Throw 2 of 2,,
+0021400904,234,4,0,2,8:58 PM,5:50,Waiters REBOUND (Off:0 Def:2),,,,
+0021400904,235,2,1,2,8:59 PM,5:33,MISS Augustin 24' 3PT Jump Shot,,,,
+0021400904,236,4,0,2,8:59 PM,5:32,,,Richardson REBOUND (Off:0 Def:5),,
+0021400904,237,2,42,2,8:59 PM,5:17,Ibaka BLOCK (1 BLK),,MISS Mbah a Moute 2' Driving Layup,,
+0021400904,238,4,0,2,8:59 PM,5:16,Kanter REBOUND (Off:0 Def:1),,,,
+0021400904,239,2,42,2,8:59 PM,5:04,MISS Ibaka 2' Driving Layup,,,,
+0021400904,240,4,0,2,8:59 PM,5:03,,,Mbah a Moute REBOUND (Off:2 Def:3),,
+0021400904,241,1,78,2,8:59 PM,4:59,,,Sampson 4' Floating Jump Shot (6 PTS),47 - 47,TIE
+0021400904,242,6,2,2,8:59 PM,4:59,Augustin S.FOUL (P1.PN),,,,
+0021400904,243,8,0,2,8:59 PM,4:59,,,SUB: Thompson FOR Richardson,,
+0021400904,244,3,10,2,9:00 PM,4:59,,,Sampson Free Throw 1 of 1 (7 PTS),48 - 47,-1
+0021400904,246,1,77,2,9:00 PM,4:46,Augustin 3' Driving Jump Shot (2 PTS),,,48 - 49,1
+0021400904,247,1,65,2,9:00 PM,4:34,,,Noel 4' Jump Hook Shot (4 PTS),50 - 49,-1
+0021400904,249,8,0,2,9:00 PM,4:26,SUB: Singler FOR Waiters,,,,
+0021400904,250,1,44,2,9:01 PM,4:18,Kanter 1' Reverse Layup (4 PTS) (Westbrook 4 AST),,,50 - 51,1
+0021400904,251,2,1,2,9:01 PM,4:01,,,MISS Mbah a Moute  3PT Jump Shot,,
+0021400904,252,4,0,2,9:01 PM,4:00,Singler REBOUND (Off:0 Def:2),,,,
+0021400904,253,6,2,2,9:01 PM,3:55,,,Sampson S.FOUL (P3.T3),,
+0021400904,254,3,11,2,9:01 PM,3:55,Westbrook Free Throw 1 of 2 (19 PTS),,,50 - 52,2
+0021400904,257,8,0,2,9:02 PM,3:55,,,SUB: Robinson FOR Sampson,,
+0021400904,258,3,12,2,9:02 PM,3:55,MISS Westbrook Free Throw 2 of 2,,,,
+0021400904,260,4,0,2,9:02 PM,3:55,,,Canaan REBOUND (Off:0 Def:3),,
+0021400904,261,2,5,2,9:02 PM,3:40,,,MISS Robinson 2' Layup,,
+0021400904,262,4,0,2,9:02 PM,3:39,,,Robinson REBOUND (Off:1 Def:0),,
+0021400904,263,2,5,2,9:02 PM,3:36,,,MISS Robinson 3' Layup,,
+0021400904,265,4,0,2,9:02 PM,3:35,,,Mbah a Moute REBOUND (Off:3 Def:3),,
+0021400904,264,2,5,2,9:02 PM,3:35,,,MISS Mbah a Moute 1' Layup,,
+0021400904,266,4,0,2,9:02 PM,3:35,,,Mbah a Moute REBOUND (Off:4 Def:3),,
+0021400904,267,1,5,2,9:02 PM,3:35,,,Mbah a Moute 1' Layup (7 PTS),52 - 52,TIE
+0021400904,268,6,2,2,9:02 PM,3:35,Singler S.FOUL (P2.PN),,,,
+0021400904,269,8,0,2,9:03 PM,3:35,SUB: McGary FOR Ibaka,,,,
+0021400904,270,3,10,2,9:03 PM,3:35,,,Mbah a Moute Free Throw 1 of 1 (8 PTS),53 - 52,-1
+0021400904,272,2,5,2,9:03 PM,3:19,MISS Kanter  Layup,,,,
+0021400904,273,4,0,2,9:03 PM,3:18,,,Robinson REBOUND (Off:1 Def:1),,
+0021400904,274,2,1,2,9:03 PM,3:07,,,MISS Canaan 25' 3PT Jump Shot,,
+0021400904,275,4,0,2,9:03 PM,3:07,Singler REBOUND (Off:0 Def:3),,,,
+0021400904,276,2,79,2,9:04 PM,3:01,MISS Westbrook 17' Pullup Jump Shot,,,,
+0021400904,277,4,0,2,9:04 PM,3:00,,,Mbah a Moute REBOUND (Off:4 Def:4),,
+0021400904,278,5,2,2,9:04 PM,2:46,Westbrook STEAL (2 STL),,Thompson Lost Ball Turnover (P2.T4),,
+0021400904,279,1,5,2,9:04 PM,2:42,Westbrook 1' Layup (21 PTS) (Augustin 1 AST),,,53 - 54,1
+0021400904,280,9,1,2,9:04 PM,2:41,,,76ers Timeout: Regular (Reg.2 Short 0),,
+0021400904,283,2,1,2,9:07 PM,2:27,,,MISS Noel 17' Jump Shot,,
+0021400904,284,4,0,2,9:07 PM,2:26,Westbrook REBOUND (Off:1 Def:6),,,,
+0021400904,285,5,1,2,9:07 PM,2:07,Singler Bad Pass Turnover (P1.T8),,Noel STEAL (3 STL),,
+0021400904,286,1,5,2,9:07 PM,2:02,,,Canaan 3' Layup (17 PTS),55 - 54,-1
+0021400904,287,2,81,2,9:08 PM,1:39,MISS Westbrook 16' Pullup Bank Shot,,,,
+0021400904,288,4,0,2,9:08 PM,1:38,,,Noel REBOUND (Off:2 Def:3),,
+0021400904,289,2,1,2,9:08 PM,1:29,,,MISS Mbah a Moute 23' Jump Shot,,
+0021400904,290,4,0,2,9:08 PM,1:28,McGary REBOUND (Off:0 Def:3),,,,
+0021400904,291,2,42,2,9:08 PM,1:16,MISS Augustin 1' Driving Layup,,,,
+0021400904,293,4,0,2,9:08 PM,1:14,Kanter REBOUND (Off:1 Def:1),,,,
+0021400904,292,1,4,2,9:08 PM,1:14,Kanter 1' Tip Shot (6 PTS),,,55 - 56,1
+0021400904,294,2,7,2,9:08 PM,0:56,,,MISS Noel  Dunk,,
+0021400904,295,4,0,2,9:08 PM,0:54,,,Robinson REBOUND (Off:2 Def:1),,
+0021400904,296,6,2,2,9:09 PM,0:53,Westbrook S.FOUL (P1.PN),,,,
+0021400904,297,3,11,2,9:09 PM,0:53,,,Noel Free Throw 1 of 2 (5 PTS),56 - 56,TIE
+0021400904,299,8,0,2,9:09 PM,0:53,SUB: Collison FOR Kanter,,,,
+0021400904,300,3,12,2,9:09 PM,0:53,,,Noel Free Throw 2 of 2 (6 PTS),57 - 56,-1
+0021400904,302,6,1,2,9:10 PM,0:46,,,Robinson P.FOUL (P1.T4),,
+0021400904,303,2,1,2,9:10 PM,0:33,MISS McGary 5' Jump Shot,,,,
+0021400904,304,4,0,2,9:10 PM,0:32,,,Robinson REBOUND (Off:2 Def:2),,
+0021400904,305,6,1,2,9:10 PM,0:31,McGary P.FOUL (P1.PN),,,,
+0021400904,306,3,11,2,9:10 PM,0:31,,,Robinson Free Throw 1 of 2 (1 PTS),58 - 56,-2
+0021400904,308,3,12,2,9:11 PM,0:31,,,Robinson Free Throw 2 of 2 (2 PTS),59 - 56,-3
+0021400904,310,2,42,2,9:11 PM,0:12,MISS Westbrook 3' Driving Layup,,,,
+0021400904,311,4,0,2,9:11 PM,0:11,,,Canaan REBOUND (Off:0 Def:4),,
+0021400904,312,5,40,2,9:11 PM,0:03,,,Canaan Out of Bounds Lost Ball Turnover (P1.T5),,
+0021400904,313,2,1,2,9:12 PM,0:00,MISS Westbrook 6' Jump Shot,,Noel BLOCK (2 BLK),,
+0021400904,314,4,0,2,9:12 PM,0:00,THUNDER Rebound,,,,
+0021400904,316,13,0,2,9:12 PM,0:00,,,,59 - 56,-3
+0021400904,318,12,0,3,9:29 PM,12:00,,,,59 - 56,-3
+0021400904,319,2,1,3,9:29 PM,11:50,,,MISS Richardson  3PT Jump Shot,,
+0021400904,320,4,0,3,9:29 PM,11:49,Kanter REBOUND (Off:1 Def:2),,,,
+0021400904,321,2,3,3,9:29 PM,11:36,MISS Kanter 3' Hook Shot,,,,
+0021400904,322,4,0,3,9:29 PM,11:36,THUNDER Rebound,,,,
+0021400904,323,6,3,3,9:29 PM,11:36,,,Mbah a Moute L.B.FOUL (P1.T1),,
+0021400904,325,1,1,3,9:30 PM,11:27,Ibaka 18' Jump Shot (2 PTS) (Westbrook 5 AST),,,59 - 58,-1
+0021400904,327,2,1,3,9:30 PM,11:05,,,MISS Mbah a Moute 20' Jump Shot,,
+0021400904,328,4,0,3,9:30 PM,11:04,,,Mbah a Moute REBOUND (Off:5 Def:4),,
+0021400904,329,1,1,3,9:30 PM,11:00,,,Canaan 25' 3PT Jump Shot (20 PTS) (Mbah a Moute 5 AST),62 - 58,-4
+0021400904,331,6,1,3,9:31 PM,10:45,,,Sampson P.FOUL (P4.T2),,
+0021400904,332,1,42,3,9:31 PM,10:39,Westbrook 2' Driving Layup (23 PTS),,,62 - 60,-2
+0021400904,333,2,1,3,9:31 PM,10:16,,,MISS Noel 10' Jump Shot,,
+0021400904,334,4,0,3,9:31 PM,10:15,Singler REBOUND (Off:0 Def:4),,,,
+0021400904,335,6,4,3,9:32 PM,10:07,Ibaka OFF.Foul (P2),,,,
+0021400904,336,5,5,3,9:32 PM,10:07,Ibaka Foul Turnover (P2.T9),,,,
+0021400904,337,8,0,3,9:32 PM,10:07,,,SUB: Grant FOR Sampson,,
+0021400904,338,6,1,3,9:32 PM,9:56,Roberson P.FOUL (P3.T1),,,,
+0021400904,339,6,2,3,9:33 PM,9:49,Ibaka S.FOUL (P3.T2),,,,
+0021400904,340,3,11,3,9:33 PM,9:49,,,Mbah a Moute Free Throw 1 of 2 (9 PTS),63 - 60,-3
+0021400904,342,3,12,3,9:33 PM,9:49,,,Mbah a Moute Free Throw 2 of 2 (10 PTS),64 - 60,-4
+0021400904,344,5,1,3,9:34 PM,9:32,Ibaka Bad Pass Turnover (P3.T10),,,,
+0021400904,345,2,1,3,9:34 PM,9:18,,,MISS Richardson  3PT Jump Shot,,
+0021400904,346,4,0,3,9:34 PM,9:17,Westbrook REBOUND (Off:1 Def:7),,,,
+0021400904,347,2,79,3,9:34 PM,9:09,MISS Westbrook 11' Pullup Jump Shot,,,,
+0021400904,349,4,0,3,9:34 PM,9:07,Kanter REBOUND (Off:2 Def:2),,,,
+0021400904,348,2,72,3,9:34 PM,9:07,MISS Kanter 1' Putback Layup,,,,
+0021400904,350,4,0,3,9:34 PM,9:06,,,Grant REBOUND (Off:0 Def:1),,
+0021400904,351,1,42,3,9:34 PM,8:49,,,Mbah a Moute 1' Driving Layup (12 PTS),66 - 60,-6
+0021400904,352,2,1,3,9:35 PM,8:35,MISS Singler 25' 3PT Jump Shot,,,,
+0021400904,353,4,0,3,9:35 PM,8:34,,,Mbah a Moute REBOUND (Off:5 Def:5),,
+0021400904,354,6,2,3,9:35 PM,8:28,Westbrook S.FOUL (P2.T3),,,,
+0021400904,356,3,13,3,9:35 PM,8:28,,,Canaan Free Throw 1 of 3 (21 PTS),67 - 60,-7
+0021400904,358,3,14,3,9:35 PM,8:28,,,Canaan Free Throw 2 of 3 (22 PTS),68 - 60,-8
+0021400904,360,8,0,3,9:36 PM,8:28,,,SUB: Robinson FOR Mbah a Moute,,
+0021400904,361,3,15,3,9:36 PM,8:28,,,Canaan Free Throw 3 of 3 (23 PTS),69 - 60,-9
+0021400904,362,2,1,3,9:36 PM,8:07,MISS Singler  3PT Jump Shot,,,,
+0021400904,363,4,0,3,9:36 PM,8:06,,,Noel REBOUND (Off:2 Def:4),,
+0021400904,364,1,80,3,9:36 PM,7:58,,,Canaan 24' 3PT Step Back Jump Shot (26 PTS),72 - 60,-12
+0021400904,365,9,1,3,9:36 PM,7:58,THUNDER Timeout: Regular (Full 3 Short 0),,,,
+0021400904,367,8,0,3,9:38 PM,7:58,SUB: Augustin FOR Singler,,,,
+0021400904,368,8,0,3,9:38 PM,7:58,SUB: Waiters FOR Roberson,,,,
+0021400904,370,2,1,3,9:39 PM,7:42,MISS Augustin 24' 3PT Jump Shot,,,,
+0021400904,371,4,0,3,9:39 PM,7:41,,,Robinson REBOUND (Off:2 Def:3),,
+0021400904,372,1,1,3,9:39 PM,7:20,,,Canaan 24' 3PT Jump Shot (29 PTS) (Noel 1 AST),75 - 60,-15
+0021400904,373,1,79,3,9:39 PM,7:06,Westbrook 18' Pullup Jump Shot (25 PTS),,,75 - 62,-13
+0021400904,374,6,1,3,9:40 PM,6:50,Kanter P.FOUL (P3.T4),,,,
+0021400904,375,2,1,3,9:40 PM,6:42,,,MISS Robinson 17' Jump Shot,,
+0021400904,376,4,0,3,9:40 PM,6:42,Kanter REBOUND (Off:2 Def:3),,,,
+0021400904,377,1,1,3,9:40 PM,6:34,Westbrook 15' Jump Shot (27 PTS) (Waiters 3 AST),,,75 - 64,-11
+0021400904,378,1,1,3,9:40 PM,6:21,,,Richardson 20' Jump Shot (11 PTS) (Robinson 2 AST),77 - 64,-13
+0021400904,379,2,42,3,9:41 PM,6:06,MISS Westbrook 3' Driving Layup,,Noel BLOCK (3 BLK),,
+0021400904,380,4,0,3,9:41 PM,6:05,,,Robinson REBOUND (Off:2 Def:4),,
+0021400904,381,2,5,3,9:41 PM,5:59,Ibaka BLOCK (2 BLK),,MISS Grant 3' Layup,,
+0021400904,382,4,0,3,9:41 PM,5:57,,,Robinson REBOUND (Off:3 Def:4),,
+0021400904,383,2,1,3,9:41 PM,5:52,,,MISS Robinson 16' Jump Shot,,
+0021400904,384,4,0,3,9:41 PM,5:49,Westbrook REBOUND (Off:1 Def:8),,,,
+0021400904,386,7,2,3,9:41 PM,5:47,,,Robinson Violation:Defensive Goaltending,,
+0021400904,385,1,5,3,9:41 PM,5:47,Kanter 3' Layup (8 PTS) (Westbrook 6 AST),,,77 - 66,-11
+0021400904,387,1,1,3,9:41 PM,5:33,,,Richardson 25' 3PT Jump Shot (14 PTS) (Canaan 2 AST),80 - 66,-14
+0021400904,389,2,1,3,9:42 PM,5:15,MISS Westbrook 5' Jump Shot,,Noel BLOCK (4 BLK),,
+0021400904,390,4,0,3,9:42 PM,5:13,,,Canaan REBOUND (Off:0 Def:5),,
+0021400904,391,1,82,3,9:42 PM,5:09,,,Richardson 6' Driving Bank Shot (16 PTS) (Canaan 3 AST),82 - 66,-16
+0021400904,392,1,80,3,9:42 PM,4:54,Waiters 16' Step Back Jump Shot (8 PTS),,,82 - 68,-14
+0021400904,393,5,2,3,9:42 PM,4:33,Kanter STEAL (1 STL),,Grant Lost Ball Turnover (P1.T6),,
+0021400904,394,6,2,3,9:43 PM,4:31,,,Richardson S.FOUL (P2.T3),,
+0021400904,396,3,11,3,9:43 PM,4:31,Westbrook Free Throw 1 of 2 (28 PTS),,,82 - 69,-13
+0021400904,398,8,0,3,9:43 PM,4:31,SUB: McGary FOR Ibaka,,,,
+0021400904,399,3,12,3,9:43 PM,4:31,Westbrook Free Throw 2 of 2 (29 PTS),,,82 - 70,-12
+0021400904,402,6,2,3,9:44 PM,4:16,Waiters S.FOUL (P1.PN),,,,
+0021400904,403,3,11,3,9:44 PM,4:16,,,Richardson Free Throw 1 of 2 (17 PTS),83 - 70,-13
+0021400904,405,3,12,3,9:44 PM,4:16,,,Richardson Free Throw 2 of 2 (18 PTS),84 - 70,-14
+0021400904,407,2,1,3,9:45 PM,4:04,MISS Westbrook 24' 3PT Jump Shot,,,,
+0021400904,408,4,0,3,9:45 PM,4:03,,,Robinson REBOUND (Off:3 Def:5),,
+0021400904,409,1,52,3,9:45 PM,3:58,,,Noel  Alley Oop Dunk (8 PTS) (Richardson 2 AST),86 - 70,-16
+0021400904,410,1,1,3,9:45 PM,3:38,Waiters 15' Jump Shot (10 PTS) (Westbrook 7 AST),,,86 - 72,-14
+0021400904,411,9,1,3,9:45 PM,3:37,,,76ers Timeout: Regular (Reg.3 Short 0),,
+0021400904,413,8,0,3,9:47 PM,3:37,SUB: Collison FOR Kanter,,,,
+0021400904,414,8,0,3,9:48 PM,3:37,,,SUB: Mbah a Moute FOR Richardson,,
+0021400904,415,1,1,3,9:48 PM,3:16,,,Mbah a Moute 13' Jump Shot (14 PTS),88 - 72,-16
+0021400904,416,1,80,3,9:48 PM,3:01,Waiters 15' Step Back Jump Shot (12 PTS),,,88 - 74,-14
+0021400904,417,5,4,3,9:49 PM,2:53,,,Grant Traveling Turnover (P2.T7),,
+0021400904,418,8,0,3,9:49 PM,2:53,,,SUB: Smith FOR Canaan,,
+0021400904,419,8,0,3,9:49 PM,2:53,,,SUB: Sims FOR Noel,,
+0021400904,420,2,1,3,9:49 PM,2:40,MISS Westbrook 24' 3PT Jump Shot,,,,
+0021400904,421,4,0,3,9:49 PM,2:39,Westbrook REBOUND (Off:2 Def:8),,,,
+0021400904,422,6,2,3,9:49 PM,2:39,,,Robinson S.FOUL (P2.T4),,
+0021400904,423,3,11,3,9:50 PM,2:39,Westbrook Free Throw 1 of 2 (30 PTS),,,88 - 75,-13
+0021400904,425,3,12,3,9:50 PM,2:39,Westbrook Free Throw 2 of 2 (31 PTS),,,88 - 76,-12
+0021400904,427,2,1,3,9:50 PM,2:27,,,MISS Grant  3PT Jump Shot,,
+0021400904,428,4,0,3,9:50 PM,2:27,,,76ers Rebound,,
+0021400904,429,6,3,3,9:50 PM,2:27,Collison L.B.FOUL (P3.PN),,,,
+0021400904,430,3,11,3,9:50 PM,2:27,,,Sims Free Throw 1 of 2 (3 PTS),89 - 76,-13
+0021400904,432,8,0,3,9:51 PM,2:27,,,SUB: Thompson FOR Grant,,
+0021400904,433,8,0,3,9:51 PM,2:27,SUB: Morrow FOR Westbrook,,,,
+0021400904,434,3,12,3,9:51 PM,2:27,,,Sims Free Throw 2 of 2 (4 PTS),90 - 76,-14
+0021400904,436,1,42,3,9:51 PM,2:14,Waiters 2' Driving Layup (14 PTS),,,90 - 78,-12
+0021400904,437,6,2,3,9:51 PM,2:14,,,Mbah a Moute S.FOUL (P2.PN),,
+0021400904,438,3,10,3,9:51 PM,2:14,Waiters Free Throw 1 of 1 (15 PTS),,,90 - 79,-11
+0021400904,440,2,44,3,9:52 PM,1:54,McGary BLOCK (1 BLK),,MISS Thompson 3' Reverse Layup,,
+0021400904,441,4,0,3,9:52 PM,1:52,,,Thompson REBOUND (Off:1 Def:0),,
+0021400904,442,2,1,3,9:52 PM,1:49,,,MISS Mbah a Moute 17' Jump Shot,,
+0021400904,443,4,0,3,9:52 PM,1:48,Waiters REBOUND (Off:0 Def:3),,,,
+0021400904,444,2,1,3,9:52 PM,1:42,MISS Morrow  3PT Jump Shot,,,,
+0021400904,445,4,0,3,9:52 PM,1:39,Collison REBOUND (Off:1 Def:3),,,,
+0021400904,446,1,1,3,9:53 PM,1:26,Waiters 25' 3PT Jump Shot (18 PTS) (Augustin 2 AST),,,90 - 82,-8
+0021400904,447,2,1,3,9:53 PM,0:57,,,MISS Thompson 15' Jump Shot,,
+0021400904,448,4,0,3,9:53 PM,0:56,Collison REBOUND (Off:1 Def:4),,,,
+0021400904,449,2,1,3,9:53 PM,0:51,MISS Morrow 25' 3PT Jump Shot,,,,
+0021400904,450,4,0,3,9:53 PM,0:49,,,Mbah a Moute REBOUND (Off:5 Def:6),,
+0021400904,451,6,1,3,9:53 PM,0:34,Collison P.FOUL (P4.PN),,,,
+0021400904,452,3,11,3,9:54 PM,0:34,,,MISS Smith Free Throw 1 of 2,,
+0021400904,453,4,1,3,9:54 PM,0:34,,,76ers Rebound,,
+0021400904,455,8,0,3,9:54 PM,0:34,,,SUB: Noel FOR Robinson,,
+0021400904,456,3,12,3,9:54 PM,0:34,,,MISS Smith Free Throw 2 of 2,,
+0021400904,458,4,0,3,9:55 PM,0:33,Augustin REBOUND (Off:0 Def:2),,,,
+0021400904,459,1,42,3,9:55 PM,0:27,Augustin 1' Driving Layup (4 PTS),,,90 - 84,-6
+0021400904,460,5,41,3,9:55 PM,0:06,,,Noel Poss Lost Ball Turnover (P2.T8),,
+0021400904,461,2,63,3,9:55 PM,0:01,MISS Waiters 17' Fadeaway Jumper,,,,
+0021400904,462,4,0,3,9:55 PM,0:00,,,Noel REBOUND (Off:2 Def:5),,
+0021400904,463,13,0,3,9:55 PM,0:00,,,,90 - 84,-6
+0021400904,465,12,0,4,9:58 PM,12:00,,,,90 - 84,-6
+0021400904,466,6,2,4,9:58 PM,11:50,,,Smith S.FOUL (P1.T1),,
+0021400904,467,3,11,4,9:58 PM,11:50,Augustin Free Throw 1 of 2 (5 PTS),,,90 - 85,-5
+0021400904,469,3,12,4,9:58 PM,11:50,Augustin Free Throw 2 of 2 (6 PTS),,,90 - 86,-4
+0021400904,471,2,5,4,9:59 PM,11:38,McGary BLOCK (2 BLK),,MISS Mbah a Moute 3' Layup,,
+0021400904,472,4,0,4,9:59 PM,11:36,Collison REBOUND (Off:1 Def:5),,,,
+0021400904,473,1,78,4,9:59 PM,11:23,Augustin 6' Floating Jump Shot (8 PTS),,,90 - 88,-2
+0021400904,475,2,1,4,10:00 PM,10:55,,,MISS Thompson  3PT Jump Shot,,
+0021400904,476,4,0,4,10:00 PM,10:54,,,Sims REBOUND (Off:2 Def:0),,
+0021400904,477,2,5,4,10:00 PM,10:51,,,MISS Sims 2' Layup,,
+0021400904,478,4,0,4,10:00 PM,10:50,Waiters REBOUND (Off:0 Def:4),,,,
+0021400904,479,2,1,4,10:00 PM,10:45,MISS Waiters 4' Jump Shot,,,,
+0021400904,480,4,0,4,10:00 PM,10:44,McGary REBOUND (Off:1 Def:3),,,,
+0021400904,481,2,1,4,10:00 PM,10:41,MISS Morrow  3PT Jump Shot,,,,
+0021400904,482,4,0,4,10:00 PM,10:40,,,Sampson REBOUND (Off:0 Def:2),,
+0021400904,483,5,1,4,10:00 PM,10:31,Augustin STEAL (1 STL),,Sampson Bad Pass Turnover (P1.T9),,
+0021400904,484,2,1,4,10:00 PM,10:28,MISS Augustin 3' Jump Shot,,Smith BLOCK (1 BLK),,
+0021400904,485,4,0,4,10:00 PM,10:26,Waiters REBOUND (Off:1 Def:4),,,,
+0021400904,486,1,5,4,10:00 PM,10:18,Collison 1' Layup (6 PTS) (Morrow 2 AST),,,90 - 90,TIE
+0021400904,487,9,1,4,10:00 PM,10:18,,,76ers Timeout: Regular (Reg.4 Short 0),,
+0021400904,489,8,0,4,10:02 PM,10:18,,,SUB: Canaan FOR Sampson,,
+0021400904,490,8,0,4,10:02 PM,10:18,,,SUB: Richardson FOR Thompson,,
+0021400904,491,8,0,4,10:02 PM,10:18,,,SUB: Grant FOR Sims,,
+0021400904,492,8,0,4,10:02 PM,10:18,,,SUB: Noel FOR Smith,,
+0021400904,493,2,1,4,10:03 PM,10:01,,,MISS Canaan  3PT Jump Shot,,
+0021400904,494,4,0,4,10:03 PM,10:00,Augustin REBOUND (Off:0 Def:3),,,,
+0021400904,495,6,4,4,10:03 PM,9:57,Augustin OFF.Foul (P2),,,,
+0021400904,496,5,5,4,10:03 PM,9:57,Augustin Foul Turnover (P2.T11),,,,
+0021400904,497,2,63,4,10:03 PM,9:40,,,MISS Richardson 11' Fadeaway Jumper,,
+0021400904,498,4,0,4,10:03 PM,9:39,Augustin REBOUND (Off:0 Def:4),,,,
+0021400904,499,2,1,4,10:04 PM,9:28,MISS Waiters 24' 3PT Jump Shot,,,,
+0021400904,500,4,0,4,10:04 PM,9:27,,,Noel REBOUND (Off:2 Def:6),,
+0021400904,501,5,40,4,10:04 PM,9:18,,,Noel Out of Bounds Lost Ball Turnover (P3.T10),,
+0021400904,502,1,79,4,10:04 PM,9:05,Augustin 25' 3PT Pullup Jump Shot (11 PTS),,,90 - 93,3
+0021400904,503,5,2,4,10:05 PM,8:41,Morrow STEAL (1 STL),,Noel Lost Ball Turnover (P4.T11),,
+0021400904,504,5,2,4,10:05 PM,8:32,Waiters Lost Ball Turnover (P2.T12),,Canaan STEAL (1 STL),,
+0021400904,505,2,5,4,10:05 PM,8:27,McGary BLOCK (3 BLK),,MISS Richardson 1' Layup,,
+0021400904,506,4,0,4,10:05 PM,8:27,,,Grant REBOUND (Off:1 Def:1),,
+0021400904,507,6,2,4,10:05 PM,8:27,Augustin S.FOUL (P3.T1),,,,
+0021400904,508,6,11,4,10:05 PM,8:27,,,Richardson T.FOUL (P2.T1),,
+0021400904,509,3,16,4,10:05 PM,8:27,Augustin Free Throw Technical (12 PTS),,,90 - 94,4
+0021400904,511,3,11,4,10:06 PM,8:27,,,Grant Free Throw 1 of 2 (7 PTS),91 - 94,3
+0021400904,513,8,0,4,10:06 PM,8:27,SUB: Westbrook FOR Morrow,,,,
+0021400904,514,3,12,4,10:06 PM,8:27,,,Grant Free Throw 2 of 2 (8 PTS),92 - 94,2
+0021400904,516,2,1,4,10:07 PM,8:12,MISS McGary 13' Jump Shot,,,,
+0021400904,517,4,0,4,10:07 PM,8:11,,,76ers Rebound,,
+0021400904,518,2,1,4,10:07 PM,7:55,,,MISS Mbah a Moute 16' Jump Shot,,
+0021400904,519,4,0,4,10:07 PM,7:54,Westbrook REBOUND (Off:2 Def:9),,,,
+0021400904,521,1,44,4,10:07 PM,7:50,Augustin 1' Reverse Layup (14 PTS) (Westbrook 8 AST),,,92 - 96,4
+0021400904,522,6,26,4,10:07 PM,7:45,,,Grant Offensive Charge Foul (P4.T2),,
+0021400904,523,5,5,4,10:07 PM,7:45,,,Grant Foul Turnover (P3.T12),,
+0021400904,524,1,44,4,10:08 PM,7:32,McGary 2' Reverse Layup (6 PTS) (Westbrook 9 AST),,,92 - 98,6
+0021400904,526,1,1,4,10:08 PM,7:13,,,Mbah a Moute 19' Jump Shot (16 PTS) (Canaan 4 AST),94 - 98,4
+0021400904,527,1,1,4,10:08 PM,6:55,Westbrook 17' Jump Shot (33 PTS),,,94 - 100,6
+0021400904,528,2,5,4,10:09 PM,6:36,Westbrook BLOCK (1 BLK),,MISS Mbah a Moute 2' Layup,,
+0021400904,529,4,0,4,10:09 PM,6:35,,,Mbah a Moute REBOUND (Off:6 Def:6),,
+0021400904,530,2,5,4,10:09 PM,6:33,Collison BLOCK (1 BLK),,MISS Grant 2' Layup,,
+0021400904,531,4,0,4,10:09 PM,6:31,,,Mbah a Moute REBOUND (Off:7 Def:6),,
+0021400904,532,6,2,4,10:09 PM,6:31,Collison S.FOUL (P5.T2),,,,
+0021400904,533,3,11,4,10:09 PM,6:31,,,Mbah a Moute Free Throw 1 of 2 (17 PTS),95 - 100,5
+0021400904,535,3,12,4,10:09 PM,6:31,,,Mbah a Moute Free Throw 2 of 2 (18 PTS),96 - 100,4
+0021400904,537,2,1,4,10:10 PM,6:19,MISS McGary 4' Jump Shot,,,,
+0021400904,538,4,0,4,10:10 PM,6:18,McGary REBOUND (Off:2 Def:3),,,,
+0021400904,539,2,5,4,10:10 PM,6:17,MISS McGary  Layup,,,,
+0021400904,540,4,0,4,10:10 PM,6:16,,,76ers Rebound,,
+0021400904,541,6,3,4,10:10 PM,6:16,McGary L.B.FOUL (P2.T3),,,,
+0021400904,542,8,0,4,10:10 PM,6:16,SUB: Ibaka FOR McGary,,,,
+0021400904,543,5,4,4,10:11 PM,6:02,,,Mbah a Moute Traveling Turnover (P1.T13),,
+0021400904,544,6,2,4,10:11 PM,5:51,,,Noel S.FOUL (P3.T3),,
+0021400904,545,9,4,4,10:11 PM,5:51,,,,,
+0021400904,547,8,0,4,10:13 PM,5:51,,,SUB: Robinson FOR Mbah a Moute,,
+0021400904,548,3,11,4,10:13 PM,5:51,Collison Free Throw 1 of 2 (7 PTS),,,96 - 101,5
+0021400904,550,3,12,4,10:14 PM,5:51,Collison Free Throw 2 of 2 (8 PTS),,,96 - 102,6
+0021400904,552,2,41,4,10:14 PM,5:32,,,MISS Robinson 2' Running Layup,,
+0021400904,553,4,0,4,10:14 PM,5:31,Waiters REBOUND (Off:1 Def:5),,,,
+0021400904,554,2,44,4,10:15 PM,5:10,MISS Collison 3' Reverse Layup,,Noel BLOCK (5 BLK),,
+0021400904,555,4,0,4,10:15 PM,5:09,,,Noel REBOUND (Off:2 Def:7),,
+0021400904,556,5,1,4,10:15 PM,4:54,Augustin STEAL (2 STL),,Noel Bad Pass Turnover (P5.T14),,
+0021400904,557,2,1,4,10:15 PM,4:48,MISS Augustin 24' 3PT Jump Shot,,,,
+0021400904,558,4,0,4,10:15 PM,4:46,,,Noel REBOUND (Off:2 Def:8),,
+0021400904,559,2,1,4,10:15 PM,4:37,,,MISS Grant  3PT Jump Shot,,
+0021400904,560,4,0,4,10:15 PM,4:36,Westbrook REBOUND (Off:2 Def:10),,,,
+0021400904,561,2,1,4,10:16 PM,4:18,MISS Ibaka 24' 3PT Jump Shot,,,,
+0021400904,562,4,0,4,10:16 PM,4:18,,,Robinson REBOUND (Off:3 Def:6),,
+0021400904,563,2,1,4,10:16 PM,4:10,,,MISS Canaan 24' 3PT Jump Shot,,
+0021400904,564,4,0,4,10:16 PM,4:09,Waiters REBOUND (Off:1 Def:6),,,,
+0021400904,565,1,42,4,10:16 PM,3:48,Waiters 3' Driving Layup (20 PTS),,,96 - 104,8
+0021400904,566,9,1,4,10:16 PM,3:48,,,76ers Timeout: Regular (Reg.5 Short 0),,
+0021400904,568,8,0,4,10:18 PM,3:48,,,SUB: Thompson FOR Noel,,
+0021400904,569,8,0,4,10:18 PM,3:48,,,SUB: Sampson FOR Richardson,,
+0021400904,570,8,0,4,10:18 PM,3:48,,,SUB: Mbah a Moute FOR Robinson,,
+0021400904,571,5,2,4,10:19 PM,3:31,Collison STEAL (2 STL),,Grant Lost Ball Turnover (P4.T15),,
+0021400904,572,5,1,4,10:19 PM,3:12,Collison Bad Pass Turnover (P1.T13),,,,
+0021400904,574,1,1,4,10:20 PM,2:58,,,Grant 24' 3PT Jump Shot (11 PTS) (Canaan 5 AST),99 - 104,5
+0021400904,575,2,1,4,10:20 PM,2:36,MISS Westbrook 4' Jump Shot,,Grant BLOCK (2 BLK),,
+0021400904,576,4,0,4,10:20 PM,2:34,Westbrook REBOUND (Off:3 Def:10),,,,
+0021400904,577,1,44,4,10:20 PM,2:33,Westbrook 2' Reverse Layup (35 PTS),,,99 - 106,7
+0021400904,578,5,1,4,10:20 PM,2:28,Westbrook STEAL (3 STL),,Canaan Bad Pass Turnover (P2.T16),,
+0021400904,579,1,78,4,10:20 PM,2:12,Westbrook 5' Floating Jump Shot (37 PTS),,,99 - 108,9
+0021400904,580,9,1,4,10:20 PM,2:10,,,76ers Timeout: Regular (Reg.6 Short 0),,
+0021400904,582,8,0,4,10:22 PM,2:10,,,SUB: Richardson FOR Sampson,,
+0021400904,583,8,0,4,10:22 PM,2:10,SUB: Roberson FOR Collison,,,,
+0021400904,584,6,1,4,10:22 PM,1:59,Ibaka P.FOUL (P4.T4),,,,
+0021400904,585,1,1,4,10:23 PM,1:47,,,Richardson 26' 3PT Jump Shot (21 PTS) (Canaan 6 AST),102 - 108,6
+0021400904,586,6,2,4,10:23 PM,1:32,,,Canaan S.FOUL (P1.T4),,
+0021400904,587,3,11,4,10:23 PM,1:32,Westbrook Free Throw 1 of 2 (38 PTS),,,102 - 109,7
+0021400904,589,3,12,4,10:24 PM,1:32,Westbrook Free Throw 2 of 2 (39 PTS),,,102 - 110,8
+0021400904,591,1,42,4,10:24 PM,1:25,,,Canaan 1' Driving Layup (31 PTS),104 - 110,6
+0021400904,592,2,66,4,10:25 PM,1:07,MISS Westbrook 16' Jump Bank Shot,,,,
+0021400904,593,4,0,4,10:25 PM,1:06,,,Thompson REBOUND (Off:1 Def:1),,
+0021400904,594,1,1,4,10:25 PM,0:55,,,Thompson 27' 3PT Jump Shot (3 PTS) (Grant 1 AST),107 - 110,3
+0021400904,596,9,1,4,10:25 PM,0:55,THUNDER Timeout: Regular (Full 4 Short 0),,,,
+0021400904,597,8,0,4,10:26 PM,0:55,,,SUB: Noel FOR Canaan,,
+0021400904,598,5,2,4,10:27 PM,0:38,Westbrook Lost Ball Turnover (P4.T14),,Noel STEAL (4 STL),,
+0021400904,599,1,1,4,10:27 PM,0:27,,,Richardson 25' 3PT Jump Shot (24 PTS),110 - 110,TIE
+0021400904,600,2,46,4,10:27 PM,0:05,MISS Westbrook 4' Running Jump Shot,,,,
+0021400904,601,4,0,4,10:27 PM,0:04,,,Richardson REBOUND (Off:0 Def:6),,
+0021400904,602,9,2,4,10:28 PM,0:04,,,76ers Timeout: Short (Reg.6 Short 1),,
+0021400904,604,8,0,4,10:28 PM,0:04,SUB: Singler FOR Augustin,,,,
+0021400904,605,8,0,4,10:29 PM,0:04,,,SUB: Canaan FOR Grant,,
+0021400904,606,2,56,4,10:29 PM,0:00,,,MISS Noel 3' Running Hook Shot,,
+0021400904,607,4,0,4,10:29 PM,0:00,THUNDER Rebound,,,,
+0021400904,608,13,0,4,10:29 PM,0:00,,,,110 - 110,TIE
+0021400904,611,12,0,5,10:32 PM,5:00,,,,110 - 110,TIE
+0021400904,612,10,0,5,10:32 PM,5:00,Jump Ball Ibaka vs. Noel: Tip to Mbah a Moute,,,,
+0021400904,613,5,1,5,10:32 PM,4:42,,,Canaan Bad Pass Turnover (P3.T17),,
+0021400904,615,2,1,5,10:32 PM,4:21,MISS Westbrook 17' Jump Shot,,,,
+0021400904,616,4,0,5,10:33 PM,4:20,,,Noel REBOUND (Off:2 Def:9),,
+0021400904,619,2,1,5,10:33 PM,3:59,,,MISS Richardson  3PT Jump Shot,,
+0021400904,620,4,0,5,10:33 PM,3:58,Waiters REBOUND (Off:1 Def:7),,,,
+0021400904,621,2,80,5,10:33 PM,3:48,MISS Waiters 17' Step Back Jump Shot,,,,
+0021400904,622,4,0,5,10:33 PM,3:47,,,Canaan REBOUND (Off:0 Def:6),,
+0021400904,623,6,1,5,10:34 PM,3:43,Waiters P.FOUL (P2.T1),,,,
+0021400904,624,2,1,5,10:34 PM,3:35,,,MISS Noel 9' Jump Shot,,
+0021400904,625,4,0,5,10:34 PM,3:35,,,76ers Rebound,,
+0021400904,626,6,3,5,10:34 PM,3:35,Ibaka L.B.FOUL (P5.T2),,,,
+0021400904,630,2,45,5,10:35 PM,3:14,,,MISS Mbah a Moute 5' Jump Shot,,
+0021400904,627,4,0,5,10:35 PM,3:12,Waiters REBOUND (Off:1 Def:8),,,,
+0021400904,628,1,1,5,10:35 PM,3:06,Augustin  3PT Jump Shot (17 PTS) (Westbrook 10 AST),,,110 - 113,3
+0021400904,629,9,1,5,10:35 PM,3:04,,,76ers Timeout: Regular (Reg.7 Short 1),,
+0021400904,633,2,42,5,10:37 PM,2:45,Ibaka BLOCK (3 BLK),,MISS Canaan 2' Driving Layup,,
+0021400904,634,4,0,5,10:37 PM,2:44,Waiters REBOUND (Off:1 Def:9),,,,
+0021400904,635,2,46,5,10:37 PM,2:22,MISS Ibaka 8' Running Jump Shot,,,,
+0021400904,636,4,0,5,10:37 PM,2:22,,,Mbah a Moute REBOUND (Off:7 Def:7),,
+0021400904,637,2,5,5,10:38 PM,1:59,Ibaka BLOCK (4 BLK),,MISS Mbah a Moute 3' Layup,,
+0021400904,638,4,0,5,10:38 PM,1:58,Ibaka REBOUND (Off:0 Def:3),,,,
+0021400904,639,1,5,5,10:38 PM,1:55,Westbrook 2' Layup (41 PTS),,,110 - 115,5
+0021400904,640,6,2,5,10:38 PM,1:55,,,Noel S.FOUL (P4.T1),,
+0021400904,641,3,10,5,10:38 PM,1:55,MISS Westbrook Free Throw 1 of 1,,,,
+0021400904,643,4,0,5,10:39 PM,1:53,,,Noel REBOUND (Off:2 Def:10),,
+0021400904,644,6,2,5,10:39 PM,1:44,Ibaka S.FOUL (P6.T3),,,,
+0021400904,645,8,0,5,10:39 PM,1:44,SUB: Collison FOR Ibaka,,,,
+0021400904,646,3,11,5,10:39 PM,1:44,,,MISS Noel Free Throw 1 of 2,,
+0021400904,647,4,1,5,10:39 PM,1:44,,,76ers Rebound,,
+0021400904,648,3,12,5,10:39 PM,1:44,,,MISS Noel Free Throw 2 of 2,,
+0021400904,650,4,0,5,10:40 PM,1:43,Westbrook REBOUND (Off:3 Def:11),,,,
+0021400904,651,1,79,5,10:40 PM,1:29,Westbrook 17' Pullup Jump Shot (43 PTS),,,110 - 117,7
+0021400904,652,9,1,5,10:40 PM,1:29,,,76ers Timeout: Regular (Reg.8 Short 1),,
+0021400904,655,6,2,5,10:42 PM,1:20,Augustin S.FOUL (P4.PN),,,,
+0021400904,656,3,13,5,10:42 PM,1:20,,,Richardson Free Throw 1 of 3 (25 PTS),111 - 117,6
+0021400904,658,3,14,5,10:43 PM,1:20,,,Richardson Free Throw 2 of 3 (26 PTS),112 - 117,5
+0021400904,660,3,15,5,10:43 PM,1:20,,,Richardson Free Throw 3 of 3 (27 PTS),113 - 117,4
+0021400904,662,2,77,5,10:43 PM,1:05,MISS Westbrook 4' Driving Jump Shot,,,,
+0021400904,663,4,0,5,10:43 PM,1:04,,,Canaan REBOUND (Off:0 Def:7),,
+0021400904,664,1,1,5,10:44 PM,0:52,,,Grant 26' 3PT Jump Shot (14 PTS) (Richardson 3 AST),116 - 117,1
+0021400904,665,9,1,5,10:44 PM,0:52,THUNDER Timeout: Regular (Full 5 Short 0),,,,
+0021400904,668,1,79,5,10:46 PM,0:38,Westbrook 19' Pullup Jump Shot (45 PTS) (Collison 2 AST),,,116 - 119,3
+0021400904,669,2,79,5,10:46 PM,0:32,,,MISS Canaan 25' 3PT Pullup Jump Shot,,
+0021400904,670,4,0,5,10:46 PM,0:31,Westbrook REBOUND (Off:3 Def:12),,,,
+0021400904,671,6,28,5,10:46 PM,0:30,,,Grant Personal Take Foul (P5.PN),,
+0021400904,672,3,11,5,10:46 PM,0:30,Westbrook Free Throw 1 of 2 (46 PTS),,,116 - 120,4
+0021400904,674,3,12,5,10:47 PM,0:30,MISS Westbrook Free Throw 2 of 2,,,,
+0021400904,676,4,0,5,10:47 PM,0:30,,,Noel REBOUND (Off:2 Def:11),,
+0021400904,677,9,2,5,10:47 PM,0:30,,,76ers Timeout: Short (Reg.8 Short 2),,
+0021400904,680,8,0,5,10:48 PM,0:30,SUB: Roberson FOR Augustin,,,,
+0021400904,681,6,1,5,10:48 PM,0:26,Westbrook P.FOUL (P3.PN),,,,
+0021400904,682,3,11,5,10:49 PM,0:26,,,Richardson Free Throw 1 of 2 (28 PTS),117 - 120,3
+0021400904,684,3,12,5,10:49 PM,0:26,,,Richardson Free Throw 2 of 2 (29 PTS),118 - 120,2
+0021400904,686,9,2,5,10:49 PM,0:26,THUNDER Timeout: Short (Full 5 Short 1),,,,
+0021400904,688,8,0,5,10:50 PM,0:26,SUB: Morrow FOR Singler,,,,
+0021400904,689,8,0,5,10:50 PM,0:26,SUB: Augustin FOR Roberson,,,,
+0021400904,690,9,2,5,10:50 PM,0:26,THUNDER Timeout: Short (Full 5 Short 2),,,,
+0021400904,691,8,0,5,10:51 PM,0:26,SUB: Singler FOR Collison,,,,
+0021400904,692,6,27,5,10:52 PM,0:21,,,Grant Personal Block Foul (P6.PN),,
+0021400904,693,8,0,5,10:52 PM,0:21,,,SUB: Thompson FOR Grant,,
+0021400904,694,8,0,5,10:53 PM,0:21,SUB: Roberson FOR Morrow,,,,
+0021400904,695,3,11,5,10:53 PM,0:21,MISS Westbrook Free Throw 1 of 2,,,,
+0021400904,696,4,1,5,10:53 PM,0:21,THUNDER Rebound,,,,
+0021400904,697,3,12,5,10:53 PM,0:21,Westbrook Free Throw 2 of 2 (47 PTS),,,118 - 121,3
+0021400904,699,2,1,5,10:53 PM,0:13,,,MISS Richardson 25' 3PT Jump Shot,,
+0021400904,700,4,0,5,10:53 PM,0:10,THUNDER Rebound,,,,
+0021400904,701,18,1,5,10:53 PM,0:10,,,,,
+0021400904,703,8,0,5,10:55 PM,0:10,SUB: Morrow FOR Roberson,,,,
+0021400904,707,6,28,5,10:56 PM,0:06,,,Thompson Personal Take Foul (P2.PN),,
+0021400904,709,3,11,5,10:56 PM,0:06,Westbrook Free Throw 1 of 2 (48 PTS),,,118 - 122,4
+0021400904,711,3,12,5,10:56 PM,0:06,Westbrook Free Throw 2 of 2 (49 PTS),,,118 - 123,5
+0021400904,713,2,46,5,10:57 PM,0:00,,,MISS Thompson 25' 3PT Running Jump Shot,,
+0021400904,714,4,0,5,10:57 PM,0:00,THUNDER Rebound,,,,
+0021400904,715,13,0,5,10:57 PM,0:00,,,,118 - 123,5

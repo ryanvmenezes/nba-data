@@ -1,0 +1,433 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020501150,0,12,0,1,7:14 PM,12:00,,,,,
+0020501150,1,10,0,1,7:14 PM,12:00,Jump Ball Howard vs. Smith: Tip to Nelson,,,,
+0020501150,2,2,3,1,7:15 PM,11:40,MISS Howard 6' Hook Shot,,,,
+0020501150,3,4,0,1,7:15 PM,11:39,,,Edwards REBOUND (Off:0 Def:1),,
+0020501150,4,2,1,1,7:15 PM,11:20,,,MISS Harrington 24' 3PT Jump Shot,,
+0020501150,5,4,0,1,7:16 PM,11:18,,,Johnson REBOUND (Off:1 Def:0),,
+0020501150,6,2,1,1,7:16 PM,11:12,,,MISS Smith 25' 3PT Jump Shot,,
+0020501150,7,4,0,1,7:16 PM,11:10,Stevenson REBOUND (Off:0 Def:1),,,,
+0020501150,8,1,42,1,7:16 PM,11:02,Nelson  Driving Layup (2 PTS),,,0 - 2,2
+0020501150,9,1,1,1,7:16 PM,10:44,,,Harrington 18' Jump Shot (2 PTS),2 - 2,TIE
+0020501150,10,2,47,1,7:16 PM,10:29,MISS Battie 13' Turnaround Jump Shot,,,,
+0020501150,11,4,0,1,7:16 PM,10:27,,,Johnson REBOUND (Off:1 Def:1),,
+0020501150,12,2,1,1,7:17 PM,10:20,,,MISS Johnson 25' 3PT Jump Shot,,
+0020501150,13,4,0,1,7:17 PM,10:17,Turkoglu REBOUND (Off:0 Def:1),,,,
+0020501150,14,1,5,1,7:17 PM,10:08,Turkoglu  Layup (2 PTS) (Howard 1 AST),,,2 - 4,2
+0020501150,15,2,1,1,7:17 PM,9:51,,,MISS Harrington 21' Jump Shot,,
+0020501150,16,4,0,1,7:17 PM,9:49,Nelson REBOUND (Off:0 Def:1),,,,
+0020501150,17,6,2,1,7:17 PM,9:42,,,Edwards S.FOUL (P1.T1),,
+0020501150,18,3,11,1,7:17 PM,9:42,Howard Free Throw 1 of 2 (1 PTS),,,2 - 5,3
+0020501150,19,3,12,1,7:18 PM,9:42,Howard Free Throw 2 of 2 (2 PTS),,,2 - 6,4
+0020501150,20,1,1,1,7:18 PM,9:25,,,Ivey 21' Jump Shot (2 PTS) (Johnson 1 AST),4 - 6,2
+0020501150,21,6,1,1,7:19 PM,9:09,,,Ivey P.FOUL (P1.T2),,
+0020501150,22,2,47,1,7:19 PM,8:59,MISS Turkoglu 11' Turnaround Jump Shot,,,,
+0020501150,23,4,0,1,7:19 PM,8:57,,,Harrington REBOUND (Off:0 Def:1),,
+0020501150,24,2,5,1,7:20 PM,8:37,,,MISS Harrington  Layup,,
+0020501150,25,4,0,1,7:20 PM,8:36,,,Harrington REBOUND (Off:1 Def:1),,
+0020501150,26,2,5,1,7:20 PM,8:35,,,MISS Harrington  Layup,,
+0020501150,28,4,0,1,7:20 PM,8:33,,,Harrington REBOUND (Off:2 Def:1),,
+0020501150,27,1,4,1,7:20 PM,8:33,,,Harrington  Tip Shot (4 PTS),6 - 6,TIE
+0020501150,29,5,2,1,7:20 PM,8:24,Battie Lost Ball Turnover (P1.T1),,Harrington STEAL (1 STL),,
+0020501150,30,1,7,1,7:20 PM,8:19,,,Johnson  Dunk (2 PTS) (Harrington 1 AST),8 - 6,-2
+0020501150,31,6,1,1,7:20 PM,8:07,,,Ivey P.FOUL (P2.T3),,
+0020501150,32,8,0,1,7:21 PM,8:07,,,SUB: Lue FOR Ivey,,
+0020501150,33,2,1,1,7:21 PM,8:02,MISS Nelson 25' 3PT Jump Shot,,,,
+0020501150,34,4,0,1,7:21 PM,8:01,,,Smith REBOUND (Off:0 Def:1),,
+0020501150,35,5,1,1,7:21 PM,7:54,,,Lue Bad Pass Turnover (P1.T1),,
+0020501150,36,6,2,1,7:21 PM,7:37,,,Edwards S.FOUL (P2.T4),,
+0020501150,37,3,11,1,7:22 PM,7:37,MISS Howard Free Throw 1 of 2,,,,
+0020501150,38,4,1,1,7:22 PM,7:37,MAGIC Rebound,,,,
+0020501150,39,8,0,1,7:22 PM,7:37,,,SUB: Batista FOR Edwards,,
+0020501150,40,3,12,1,7:22 PM,7:37,MISS Howard Free Throw 2 of 2,,,,
+0020501150,41,4,0,1,7:22 PM,7:37,,,Batista REBOUND (Off:0 Def:1),,
+0020501150,42,2,1,1,7:23 PM,7:18,,,MISS Lue 25' 3PT Jump Shot,,
+0020501150,43,4,0,1,7:23 PM,7:16,,,Batista REBOUND (Off:1 Def:1),,
+0020501150,44,1,5,1,7:23 PM,7:14,,,Batista  Layup (2 PTS),10 - 6,-4
+0020501150,45,9,1,1,7:23 PM,7:06,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0020501150,50,2,49,1,7:26 PM,6:58,MISS Turkoglu  Driving Dunk,,Smith BLOCK (1 BLK),,
+0020501150,51,4,0,1,7:26 PM,6:57,MAGIC Rebound,,,,
+0020501150,52,2,1,1,7:26 PM,6:50,MISS Stevenson 21' Jump Shot,,,,
+0020501150,53,4,0,1,7:26 PM,6:48,,,Smith REBOUND (Off:0 Def:2),,
+0020501150,54,2,1,1,7:26 PM,6:24,,,MISS Lue 5' Jump Shot,,
+0020501150,55,4,0,1,7:26 PM,6:23,Stevenson REBOUND (Off:0 Def:2),,,,
+0020501150,56,1,8,1,7:27 PM,6:10,Battie  Slam Dunk (2 PTS) (Turkoglu 1 AST),,,10 - 8,-2
+0020501150,57,1,46,1,7:27 PM,5:54,,,Johnson 6' Running Jump Shot (4 PTS),12 - 8,-4
+0020501150,58,1,5,1,7:27 PM,5:36,Stevenson  Layup (2 PTS) (Howard 2 AST),,,12 - 10,-2
+0020501150,59,1,5,1,7:28 PM,5:13,,,Harrington  Layup (6 PTS),14 - 10,-4
+0020501150,60,2,1,1,7:28 PM,4:56,MISS Nelson 20' Jump Shot,,,,
+0020501150,61,4,0,1,7:28 PM,4:54,,,Harrington REBOUND (Off:2 Def:2),,
+0020501150,62,6,17,1,7:28 PM,4:43,MAGIC T.Foul (Def. 3 Sec Turkoglu ),,,,
+0020501150,63,8,0,1,7:28 PM,4:43,,,SUB: Childress FOR Harrington,,
+0020501150,64,3,16,1,7:28 PM,4:43,,,Johnson Free Throw Technical (5 PTS),15 - 10,-5
+0020501150,65,2,42,1,7:29 PM,4:30,,,MISS Smith  Driving Layup,,
+0020501150,66,4,0,1,7:29 PM,4:28,Battie REBOUND (Off:0 Def:1),,,,
+0020501150,67,2,5,1,7:29 PM,4:23,MISS Stevenson  Layup,,Smith BLOCK (2 BLK),,
+0020501150,68,4,0,1,7:29 PM,4:23,MAGIC Rebound,,,,
+0020501150,69,1,49,1,7:29 PM,4:18,Howard  Driving Dunk (4 PTS),,,15 - 12,-3
+0020501150,71,9,1,1,7:30 PM,4:09,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0020501150,74,8,0,1,7:32 PM,4:09,,,SUB: Williams FOR Johnson,,
+0020501150,75,2,5,1,7:32 PM,4:00,,,MISS Williams  Layup,,
+0020501150,76,4,0,1,7:32 PM,3:59,Howard REBOUND (Off:0 Def:1),,,,
+0020501150,77,1,42,1,7:33 PM,3:43,Stevenson  Driving Layup (4 PTS),,,15 - 14,-1
+0020501150,78,2,1,1,7:33 PM,3:26,,,MISS Williams 18' Jump Shot,,
+0020501150,79,4,0,1,7:33 PM,3:22,Stevenson REBOUND (Off:0 Def:3),,,,
+0020501150,80,2,1,1,7:33 PM,3:16,MISS Battie 19' Jump Shot,,,,
+0020501150,81,4,0,1,7:33 PM,3:14,Howard REBOUND (Off:1 Def:1),,,,
+0020501150,82,1,1,1,7:33 PM,3:09,Turkoglu 27' 3PT Jump Shot (5 PTS) (Howard 3 AST),,,15 - 17,2
+0020501150,83,1,47,1,7:34 PM,2:41,,,Childress 17' Turnaround Jump Shot (2 PTS),17 - 17,TIE
+0020501150,84,2,42,1,7:34 PM,2:22,MISS Stevenson  Driving Layup,,Smith BLOCK (3 BLK),,
+0020501150,85,4,0,1,7:34 PM,2:20,,,Smith REBOUND (Off:0 Def:3),,
+0020501150,86,1,5,1,7:34 PM,2:15,,,Childress  Layup (4 PTS) (Smith 1 AST),19 - 17,-2
+0020501150,87,1,42,1,7:34 PM,1:57,Nelson  Driving Layup (4 PTS),,,19 - 19,TIE
+0020501150,88,1,1,1,7:35 PM,1:45,,,Lue 25' 3PT Jump Shot (3 PTS),22 - 19,-3
+0020501150,89,5,1,1,7:35 PM,1:27,Nelson Bad Pass Turnover (P1.T2),,,,
+0020501150,90,8,0,1,7:35 PM,1:27,SUB: Dooling FOR Battie,,,,
+0020501150,91,8,0,1,7:35 PM,1:27,SUB: Outlaw FOR Stevenson,,,,
+0020501150,92,6,2,1,7:35 PM,1:12,Outlaw S.FOUL (P1.T1),,,,
+0020501150,93,3,11,1,7:36 PM,1:12,,,Williams Free Throw 1 of 2 (1 PTS),23 - 19,-4
+0020501150,94,3,12,1,7:36 PM,1:12,,,MISS Williams Free Throw 2 of 2,,
+0020501150,95,4,0,1,7:36 PM,1:10,Howard REBOUND (Off:1 Def:2),,,,
+0020501150,96,5,2,1,7:37 PM,0:55,Nelson Lost Ball Turnover (P2.T3),,Childress STEAL (1 STL),,
+0020501150,97,6,1,1,7:37 PM,0:53,Outlaw P.FOUL (P2.PN),,,,
+0020501150,98,3,11,1,7:37 PM,0:53,,,Smith Free Throw 1 of 2 (1 PTS),24 - 19,-5
+0020501150,99,3,12,1,7:37 PM,0:53,,,MISS Smith Free Throw 2 of 2,,
+0020501150,100,4,0,1,7:38 PM,0:52,Howard REBOUND (Off:1 Def:3),,,,
+0020501150,101,2,1,1,7:38 PM,0:31,MISS Nelson 20' Jump Shot,,,,
+0020501150,102,4,0,1,7:38 PM,0:30,,,Williams REBOUND (Off:0 Def:1),,
+0020501150,103,1,5,1,7:38 PM,0:27,,,Smith  Layup (3 PTS) (Williams 1 AST),26 - 19,-7
+0020501150,104,6,2,1,7:38 PM,0:27,Nelson S.FOUL (P1.PN),,,,
+0020501150,105,8,0,1,7:38 PM,0:27,,,SUB: Grundy FOR Lue,,
+0020501150,106,3,10,1,7:38 PM,0:27,,,MISS Smith Free Throw 1 of 1,,
+0020501150,107,4,0,1,7:39 PM,0:26,Howard REBOUND (Off:1 Def:4),,,,
+0020501150,108,1,47,1,7:39 PM,0:05,Turkoglu 14' Turnaround Jump Shot (7 PTS) (Nelson 1 AST),,,26 - 21,-5
+0020501150,109,2,1,1,7:39 PM,0:00,,,MISS Williams 21' Jump Shot,,
+0020501150,110,4,0,1,7:39 PM,0:00,,,Hawks Rebound,,
+0020501150,111,13,0,1,7:39 PM,0:00,,,,26 - 21,-5
+0020501150,113,12,0,2,7:42 PM,12:00,,,,26 - 21,-5
+0020501150,114,1,42,2,7:43 PM,11:38,,,Harrington  Driving Layup (8 PTS),28 - 21,-7
+0020501150,115,1,42,2,7:43 PM,11:15,Ariza  Driving Layup (2 PTS) (Dooling 1 AST),,,28 - 23,-5
+0020501150,116,1,1,2,7:43 PM,10:53,,,Harrington 20' Jump Shot (10 PTS),30 - 23,-7
+0020501150,117,6,2,2,7:44 PM,10:36,,,Harrington S.FOUL (P1.T1),,
+0020501150,118,3,11,2,7:44 PM,10:36,Milicic Free Throw 1 of 2 (1 PTS),,,30 - 24,-6
+0020501150,119,8,0,2,7:44 PM,10:36,SUB: Diener FOR Nelson,,,,
+0020501150,120,3,12,2,7:44 PM,10:36,Milicic Free Throw 2 of 2 (2 PTS),,,30 - 25,-5
+0020501150,121,6,2,2,7:45 PM,10:24,Milicic S.FOUL (P1.T1),,,,
+0020501150,122,3,11,2,7:45 PM,10:24,,,Childress Free Throw 1 of 2 (5 PTS),31 - 25,-6
+0020501150,123,3,12,2,7:45 PM,10:24,,,Childress Free Throw 2 of 2 (6 PTS),32 - 25,-7
+0020501150,124,1,8,2,7:46 PM,10:13,Dooling  Slam Dunk (2 PTS),,,32 - 27,-5
+0020501150,125,1,1,2,7:46 PM,9:59,,,Harrington 17' Jump Shot (12 PTS) (Grundy 1 AST),34 - 27,-7
+0020501150,126,2,1,2,7:46 PM,9:37,MISS Dooling 22' Jump Shot,,,,
+0020501150,128,4,0,2,7:46 PM,9:34,Ariza REBOUND (Off:1 Def:0),,,,
+0020501150,127,2,64,2,7:46 PM,9:34,MISS Ariza  Follow Up Dunk,,,,
+0020501150,129,4,0,2,7:46 PM,9:32,Ariza REBOUND (Off:2 Def:0),,,,
+0020501150,130,1,5,2,7:46 PM,9:31,Ariza  Layup (4 PTS),,,34 - 29,-5
+0020501150,131,2,5,2,7:46 PM,9:21,Outlaw BLOCK (1 BLK),,MISS Williams  Layup,,
+0020501150,132,4,0,2,7:46 PM,9:19,,,Williams REBOUND (Off:1 Def:1),,
+0020501150,133,1,5,2,7:46 PM,9:17,,,Williams  Layup (3 PTS),36 - 29,-7
+0020501150,134,2,1,2,7:47 PM,8:57,MISS Ariza 20' Jump Shot,,,,
+0020501150,135,4,0,2,7:47 PM,8:55,,,Batista REBOUND (Off:1 Def:2),,
+0020501150,136,2,63,2,7:47 PM,8:39,,,MISS Grundy 14' Fadeaway Jumper,,
+0020501150,137,4,0,2,7:47 PM,8:35,Milicic REBOUND (Off:0 Def:1),,,,
+0020501150,138,2,1,2,7:47 PM,8:30,MISS Diener 26' 3PT Jump Shot,,,,
+0020501150,139,4,0,2,7:47 PM,8:27,,,Williams REBOUND (Off:1 Def:2),,
+0020501150,140,1,1,2,7:47 PM,8:22,,,Harrington 17' Jump Shot (14 PTS),38 - 29,-9
+0020501150,141,9,1,2,7:48 PM,8:13,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0020501150,144,8,0,2,7:50 PM,8:13,,,SUB: Johnson FOR Grundy,,
+0020501150,145,1,66,2,7:50 PM,8:03,Dooling 6' Jump Bank Shot (4 PTS) (Outlaw 1 AST),,,38 - 31,-7
+0020501150,146,2,46,2,7:51 PM,7:39,,,MISS Childress 16' Running Jump Shot,,
+0020501150,147,4,0,2,7:51 PM,7:36,,,Batista REBOUND (Off:2 Def:2),,
+0020501150,148,1,5,2,7:51 PM,7:35,,,Batista  Layup (4 PTS),40 - 31,-9
+0020501150,149,2,5,2,7:51 PM,7:16,MISS Dooling  Layup,,Johnson BLOCK (1 BLK),,
+0020501150,150,4,0,2,7:51 PM,7:13,,,Williams REBOUND (Off:1 Def:3),,
+0020501150,151,2,5,2,7:51 PM,7:07,Outlaw BLOCK (2 BLK),,MISS Harrington  Layup,,
+0020501150,152,4,0,2,7:51 PM,7:06,,,Harrington REBOUND (Off:3 Def:2),,
+0020501150,153,2,5,2,7:51 PM,7:04,,,MISS Batista  Layup,,
+0020501150,154,4,0,2,7:51 PM,7:03,Ariza REBOUND (Off:2 Def:1),,,,
+0020501150,155,1,3,2,7:52 PM,6:48,Milicic 6' Hook Shot (4 PTS),,,40 - 33,-7
+0020501150,156,2,5,2,7:52 PM,6:26,,,MISS Harrington  Layup,,
+0020501150,157,4,0,2,7:52 PM,6:25,Milicic REBOUND (Off:0 Def:2),,,,
+0020501150,158,5,1,2,7:52 PM,6:18,Dooling Bad Pass Turnover (P1.T4),,Williams STEAL (1 STL),,
+0020501150,159,5,40,2,7:52 PM,6:03,,,Johnson Out of Bounds Lost Ball Turnover (P1.T2),,
+0020501150,160,8,0,2,7:52 PM,6:03,,,SUB: Smith FOR Batista,,
+0020501150,161,8,0,2,7:53 PM,6:03,SUB: Stevenson FOR Outlaw,,,,
+0020501150,162,8,0,2,7:53 PM,6:03,SUB: Howard FOR Diener,,,,
+0020501150,163,1,3,2,7:53 PM,5:42,Milicic 4' Hook Shot (6 PTS) (Ariza 1 AST),,,40 - 35,-5
+0020501150,164,1,42,2,7:53 PM,5:30,,,Johnson  Driving Layup (7 PTS),42 - 35,-7
+0020501150,165,9,4,2,7:53 PM,5:16,,,,,
+0020501150,169,1,1,2,7:56 PM,5:11,Dooling 7' Jump Shot (6 PTS),,,42 - 37,-5
+0020501150,170,2,63,2,7:56 PM,4:49,,,MISS Johnson 16' Fadeaway Jumper,,
+0020501150,171,4,0,2,7:57 PM,4:45,Ariza REBOUND (Off:2 Def:2),,,,
+0020501150,172,1,1,2,7:57 PM,4:38,Milicic 19' Jump Shot (8 PTS) (Dooling 2 AST),,,42 - 39,-3
+0020501150,173,2,1,2,7:57 PM,4:17,,,MISS Harrington 16' Jump Shot,,
+0020501150,174,4,0,2,7:57 PM,4:16,Ariza REBOUND (Off:2 Def:3),,,,
+0020501150,175,6,2,2,7:57 PM,3:55,,,Childress S.FOUL (P1.T2),,
+0020501150,176,3,11,2,7:58 PM,3:55,Dooling Free Throw 1 of 2 (7 PTS),,,42 - 40,-2
+0020501150,177,8,0,2,7:58 PM,3:55,,,SUB: Lue FOR Williams,,
+0020501150,178,3,12,2,7:58 PM,3:55,Dooling Free Throw 2 of 2 (8 PTS),,,42 - 41,-1
+0020501150,179,5,1,2,7:58 PM,3:40,Howard STEAL (1 STL),,Smith Bad Pass Turnover (P1.T3),,
+0020501150,180,5,1,2,7:58 PM,3:37,Howard Bad Pass Turnover (P1.T5),,,,
+0020501150,181,6,1,2,7:59 PM,3:22,Dooling P.FOUL (P1.T2),,,,
+0020501150,182,8,0,2,7:59 PM,3:22,SUB: Turkoglu FOR Ariza,,,,
+0020501150,183,8,0,2,7:59 PM,3:22,SUB: Nelson FOR Dooling,,,,
+0020501150,184,6,2,2,8:00 PM,3:14,Milicic S.FOUL (P2.T3),,,,
+0020501150,185,3,11,2,8:00 PM,3:14,,,Harrington Free Throw 1 of 2 (15 PTS),43 - 41,-2
+0020501150,186,3,12,2,8:00 PM,3:14,,,MISS Harrington Free Throw 2 of 2,,
+0020501150,187,4,0,2,8:00 PM,3:12,Howard REBOUND (Off:1 Def:5),,,,
+0020501150,188,1,44,2,8:00 PM,2:55,Howard  Reverse Layup (6 PTS) (Stevenson 1 AST),,,43 - 43,TIE
+0020501150,189,1,46,2,8:01 PM,2:46,,,Lue 16' Running Jump Shot (5 PTS),45 - 43,-2
+0020501150,190,5,1,2,8:01 PM,2:35,Milicic Bad Pass Turnover (P1.T6),,,,
+0020501150,191,9,1,2,8:01 PM,2:35,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0020501150,195,1,46,2,8:04 PM,2:16,,,Johnson 7' Running Jump Shot (9 PTS),47 - 43,-4
+0020501150,196,1,1,2,8:04 PM,1:53,Turkoglu 24' 3PT Jump Shot (10 PTS) (Howard 4 AST),,,47 - 46,-1
+0020501150,197,8,0,2,8:04 PM,1:34,SUB: Battie FOR Milicic,,,,
+0020501150,198,6,1,2,8:05 PM,1:30,Stevenson P.FOUL (P1.T4),,,,
+0020501150,199,2,1,2,8:05 PM,1:19,,,MISS Harrington 21' Jump Shot,,
+0020501150,200,4,0,2,8:05 PM,1:18,Howard REBOUND (Off:1 Def:6),,,,
+0020501150,201,1,1,2,8:05 PM,1:04,Nelson 25' 3PT Jump Shot (7 PTS) (Battie 1 AST),,,47 - 49,2
+0020501150,202,9,2,2,8:06 PM,0:43,,,Hawks Timeout: Short (Reg.2 Short 1),,
+0020501150,203,2,1,2,8:07 PM,0:41,,,MISS Johnson 20' Jump Shot,,
+0020501150,204,4,0,2,8:07 PM,0:40,,,Childress REBOUND (Off:1 Def:0),,
+0020501150,205,5,11,2,8:07 PM,0:39,,,Hawks Turnover: Shot Clock (T#4),,
+0020501150,206,1,1,2,8:08 PM,0:32,Nelson 20' Jump Shot (9 PTS),,,47 - 51,4
+0020501150,208,5,11,2,8:08 PM,0:08,,,Hawks Turnover: Shot Clock (T#5),,
+0020501150,209,6,2,2,8:09 PM,0:04,,,Lue S.FOUL (P1.T3),,
+0020501150,210,3,11,2,8:09 PM,0:04,Nelson Free Throw 1 of 2 (10 PTS),,,47 - 52,5
+0020501150,211,3,12,2,8:09 PM,0:04,MISS Nelson Free Throw 2 of 2,,,,
+0020501150,212,4,0,2,8:09 PM,0:03,,,Childress REBOUND (Off:1 Def:1),,
+0020501150,213,5,2,2,8:09 PM,0:01,Battie STEAL (1 STL),,Childress Lost Ball Turnover (P1.T6),,
+0020501150,214,2,1,2,8:10 PM,0:00,MISS Stevenson 38' 3PT Jump Shot,,,,
+0020501150,215,4,0,2,8:10 PM,0:00,MAGIC Rebound,,,,
+0020501150,216,13,0,2,8:10 PM,0:00,,,,47 - 52,5
+0020501150,218,12,0,3,8:26 PM,12:00,,,,47 - 52,5
+0020501150,219,6,4,3,8:27 PM,11:38,,,Johnson OFF.Foul (P1),,
+0020501150,220,5,5,3,8:27 PM,11:38,,,Johnson Foul Turnover (P2.T7),,
+0020501150,221,6,1,3,8:27 PM,11:20,,,Harrington P.FOUL (P2.T1),,
+0020501150,222,1,1,3,8:28 PM,11:15,Turkoglu 24' 3PT Jump Shot (13 PTS) (Howard 5 AST),,,47 - 55,8
+0020501150,223,2,1,3,8:28 PM,10:55,,,MISS Harrington 18' Jump Shot,,
+0020501150,224,4,0,3,8:28 PM,10:53,Stevenson REBOUND (Off:0 Def:4),,,,
+0020501150,225,2,43,3,8:29 PM,10:44,MISS Howard  Alley Oop Layup,,,,
+0020501150,226,4,0,3,8:29 PM,10:43,Howard REBOUND (Off:2 Def:6),,,,
+0020501150,227,2,1,3,8:29 PM,10:34,MISS Nelson 16' Jump Shot,,,,
+0020501150,228,4,0,3,8:29 PM,10:32,Howard REBOUND (Off:3 Def:6),,,,
+0020501150,229,6,2,3,8:29 PM,10:32,,,Batista S.FOUL (P1.T2),,
+0020501150,230,3,11,3,8:29 PM,10:32,MISS Howard Free Throw 1 of 2,,,,
+0020501150,231,4,1,3,8:29 PM,10:32,MAGIC Rebound,,,,
+0020501150,232,3,12,3,8:29 PM,10:32,Howard Free Throw 2 of 2 (7 PTS),,,47 - 56,9
+0020501150,233,2,1,3,8:30 PM,10:17,,,MISS Ivey 17' Jump Shot,,
+0020501150,234,4,0,3,8:30 PM,10:15,,,Hawks Rebound,,
+0020501150,235,2,1,3,8:30 PM,10:08,,,MISS Harrington 19' Jump Shot,,
+0020501150,236,4,0,3,8:30 PM,10:06,Turkoglu REBOUND (Off:0 Def:2),,,,
+0020501150,237,1,1,3,8:31 PM,9:51,Stevenson 20' Jump Shot (6 PTS) (Nelson 2 AST),,,47 - 58,11
+0020501150,238,5,1,3,8:31 PM,9:31,Turkoglu STEAL (1 STL),,Johnson Bad Pass Turnover (P3.T8),,
+0020501150,239,6,1,3,8:31 PM,9:31,,,Ivey P.FOUL (P3.T3),,
+0020501150,240,8,0,3,8:31 PM,9:31,,,SUB: Lue FOR Ivey,,
+0020501150,241,5,41,3,8:32 PM,9:19,Howard Poss Lost Ball Turnover (P2.T7),,Harrington STEAL (2 STL),,
+0020501150,242,1,1,3,8:32 PM,9:12,,,Lue 20' Jump Shot (7 PTS) (Johnson 2 AST),49 - 58,9
+0020501150,243,6,1,3,8:32 PM,8:56,,,Lue P.FOUL (P2.T4),,
+0020501150,244,2,5,3,8:32 PM,8:45,MISS Howard  Layup,,,,
+0020501150,245,4,0,3,8:32 PM,8:44,,,Harrington REBOUND (Off:3 Def:3),,
+0020501150,246,2,1,3,8:33 PM,8:26,,,MISS Johnson 17' Jump Shot,,
+0020501150,247,4,0,3,8:33 PM,8:23,Turkoglu REBOUND (Off:0 Def:3),,,,
+0020501150,248,1,42,3,8:33 PM,8:17,Nelson  Driving Layup (12 PTS),,,49 - 60,11
+0020501150,250,2,5,3,8:33 PM,8:00,,,MISS Harrington  Layup,,
+0020501150,251,4,0,3,8:33 PM,7:59,Battie REBOUND (Off:0 Def:2),,,,
+0020501150,252,2,5,3,8:33 PM,7:52,MISS Nelson  Layup,,,,
+0020501150,254,4,0,3,8:33 PM,7:51,Howard REBOUND (Off:4 Def:6),,,,
+0020501150,253,2,4,3,8:33 PM,7:51,MISS Howard  Tip Shot,,,,
+0020501150,255,4,0,3,8:33 PM,7:50,,,Batista REBOUND (Off:2 Def:3),,
+0020501150,256,9,1,3,8:34 PM,7:40,,,Hawks Timeout: Regular (Reg.3 Short 1),,
+0020501150,258,8,0,3,8:36 PM,7:40,,,SUB: Williams FOR Harrington,,
+0020501150,260,6,17,3,8:36 PM,7:32,MAGIC T.Foul (Def. 3 Sec Howard ),,,,
+0020501150,261,3,16,3,8:37 PM,7:32,,,Johnson Free Throw Technical (10 PTS),50 - 60,10
+0020501150,262,1,1,3,8:37 PM,7:24,,,Lue 22' Jump Shot (9 PTS),52 - 60,8
+0020501150,263,2,47,3,8:37 PM,7:03,MISS Battie 5' Turnaround Jump Shot,,,,
+0020501150,264,4,0,3,8:38 PM,7:01,,,Williams REBOUND (Off:1 Def:4),,
+0020501150,265,1,1,3,8:38 PM,6:52,,,Johnson 19' Jump Shot (12 PTS),54 - 60,6
+0020501150,266,2,1,3,8:38 PM,6:30,MISS Nelson 26' 3PT Jump Shot,,,,
+0020501150,267,4,0,3,8:38 PM,6:28,,,Smith REBOUND (Off:0 Def:4),,
+0020501150,268,2,1,3,8:38 PM,6:22,,,MISS Lue 25' 3PT Jump Shot,,
+0020501150,269,4,0,3,8:38 PM,6:20,Turkoglu REBOUND (Off:0 Def:4),,,,
+0020501150,270,2,1,3,8:39 PM,5:59,MISS Turkoglu 25' 3PT Jump Shot,,,,
+0020501150,271,4,0,3,8:39 PM,5:58,Battie REBOUND (Off:1 Def:2),,,,
+0020501150,272,6,2,3,8:39 PM,5:58,,,Smith S.FOUL (P1.PN),,
+0020501150,273,3,11,3,8:39 PM,5:58,Battie Free Throw 1 of 2 (3 PTS),,,54 - 61,7
+0020501150,274,3,12,3,8:39 PM,5:58,MISS Battie Free Throw 2 of 2,,,,
+0020501150,275,4,0,3,8:39 PM,5:56,,,Batista REBOUND (Off:2 Def:4),,
+0020501150,276,2,63,3,8:40 PM,5:33,,,MISS Lue 20' Fadeaway Jumper,,
+0020501150,277,4,0,3,8:40 PM,5:32,Battie REBOUND (Off:1 Def:3),,,,
+0020501150,278,2,46,3,8:40 PM,5:18,MISS Turkoglu 14' Running Jump Shot,,,,
+0020501150,279,4,0,3,8:40 PM,5:16,,,Batista REBOUND (Off:2 Def:5),,
+0020501150,280,2,1,3,8:40 PM,5:10,,,MISS Johnson 27' 3PT Jump Shot,,
+0020501150,281,4,0,3,8:40 PM,5:08,,,Batista REBOUND (Off:3 Def:5),,
+0020501150,282,6,2,3,8:40 PM,5:08,Turkoglu S.FOUL (P1.T1),,,,
+0020501150,283,3,11,3,8:41 PM,5:08,,,Batista Free Throw 1 of 2 (5 PTS),55 - 61,6
+0020501150,284,8,0,3,8:41 PM,5:08,,,SUB: Childress FOR Johnson,,
+0020501150,285,3,12,3,8:41 PM,5:08,,,MISS Batista Free Throw 2 of 2,,
+0020501150,286,4,0,3,8:41 PM,5:07,Turkoglu REBOUND (Off:0 Def:5),,,,
+0020501150,287,2,1,3,8:41 PM,4:50,MISS Stevenson 20' Jump Shot,,,,
+0020501150,288,4,0,3,8:41 PM,4:49,,,Hawks Rebound,,
+0020501150,289,6,3,3,8:41 PM,4:49,Howard L.B.FOUL (P1.T2),,,,
+0020501150,290,2,42,3,8:42 PM,4:35,,,MISS Lue  Driving Layup,,
+0020501150,291,4,0,3,8:42 PM,4:34,Battie REBOUND (Off:1 Def:4),,,,
+0020501150,292,1,5,3,8:42 PM,4:29,Howard  Layup (9 PTS) (Turkoglu 2 AST),,,55 - 63,8
+0020501150,293,6,2,3,8:42 PM,4:29,,,Smith S.FOUL (P2.PN),,
+0020501150,294,8,0,3,8:42 PM,4:29,SUB: Milicic FOR Battie,,,,
+0020501150,295,8,0,3,8:42 PM,4:29,SUB: Dooling FOR Stevenson,,,,
+0020501150,296,3,10,3,8:43 PM,4:29,Howard Free Throw 1 of 1 (10 PTS),,,55 - 64,9
+0020501150,297,1,42,3,8:43 PM,4:14,,,Lue  Driving Layup (11 PTS),57 - 64,7
+0020501150,298,6,2,3,8:43 PM,4:14,Nelson S.FOUL (P2.T3),,,,
+0020501150,299,3,10,3,8:43 PM,4:14,,,Lue Free Throw 1 of 1 (12 PTS),58 - 64,6
+0020501150,300,1,1,3,8:44 PM,3:48,Nelson 26' 3PT Jump Shot (15 PTS) (Dooling 3 AST),,,58 - 67,9
+0020501150,301,6,4,3,8:44 PM,3:30,,,Lue OFF.Foul (P3),,
+0020501150,302,5,5,3,8:44 PM,3:30,,,Lue Foul Turnover (P2.T9),,
+0020501150,303,8,0,3,8:45 PM,3:30,SUB: Augmon FOR Turkoglu,,,,
+0020501150,304,8,0,3,8:45 PM,3:30,,,SUB: Grundy FOR Lue,,
+0020501150,305,1,1,3,8:45 PM,3:18,Dooling 18' Jump Shot (10 PTS) (Howard 6 AST),,,58 - 69,11
+0020501150,307,2,1,3,8:45 PM,3:03,,,MISS Smith 24' 3PT Jump Shot,,
+0020501150,308,4,0,3,8:45 PM,3:00,Howard REBOUND (Off:4 Def:7),,,,
+0020501150,309,5,1,3,8:46 PM,2:50,Nelson Bad Pass Turnover (P3.T8),,Batista STEAL (1 STL),,
+0020501150,310,6,1,3,8:46 PM,2:49,Dooling P.FOUL (P2.T4),,,,
+0020501150,311,9,1,3,8:46 PM,2:49,MAGIC Timeout: Regular (Full 3 Short 0),,,,
+0020501150,315,6,1,3,8:48 PM,2:40,Augmon P.FOUL (P1.PN),,,,
+0020501150,316,3,11,3,8:49 PM,2:40,,,Williams Free Throw 1 of 2 (4 PTS),59 - 69,10
+0020501150,317,3,12,3,8:49 PM,2:40,,,Williams Free Throw 2 of 2 (5 PTS),60 - 69,9
+0020501150,318,1,1,3,8:49 PM,2:28,Milicic 20' Jump Shot (10 PTS) (Nelson 3 AST),,,60 - 71,11
+0020501150,319,2,1,3,8:50 PM,2:06,,,MISS Smith 25' 3PT Jump Shot,,
+0020501150,320,4,0,3,8:50 PM,2:03,Howard REBOUND (Off:4 Def:8),,,,
+0020501150,321,5,2,3,8:50 PM,1:59,Dooling Lost Ball Turnover (P2.T9),,Grundy STEAL (1 STL),,
+0020501150,322,6,2,3,8:50 PM,1:57,Nelson S.FOUL (P3.PN),,,,
+0020501150,323,3,11,3,8:50 PM,1:57,,,Smith Free Throw 1 of 2 (4 PTS),61 - 71,10
+0020501150,324,8,0,3,8:50 PM,1:57,SUB: Diener FOR Nelson,,,,
+0020501150,325,3,12,3,8:50 PM,1:57,,,Smith Free Throw 2 of 2 (5 PTS),62 - 71,9
+0020501150,326,1,7,3,8:51 PM,1:49,Howard  Dunk (12 PTS) (Milicic 1 AST),,,62 - 73,11
+0020501150,327,6,1,3,8:51 PM,1:36,Augmon P.FOUL (P2.PN),,,,
+0020501150,328,8,0,3,8:51 PM,1:36,,,SUB: Harrington FOR Smith,,
+0020501150,329,3,11,3,8:52 PM,1:36,,,MISS Batista Free Throw 1 of 2,,
+0020501150,330,4,1,3,8:52 PM,1:36,,,Hawks Rebound,,
+0020501150,331,3,12,3,8:52 PM,1:36,,,Batista Free Throw 2 of 2 (6 PTS),63 - 73,10
+0020501150,332,2,5,3,8:52 PM,1:23,MISS Dooling  Layup,,,,
+0020501150,333,4,0,3,8:52 PM,1:22,,,Batista REBOUND (Off:3 Def:6),,
+0020501150,334,1,42,3,8:53 PM,1:12,,,Grundy  Driving Layup (2 PTS),65 - 73,8
+0020501150,335,6,1,3,8:53 PM,0:57,,,Williams P.FOUL (P1.PN),,
+0020501150,336,3,11,3,8:53 PM,0:57,Augmon Free Throw 1 of 2 (1 PTS),,,65 - 74,9
+0020501150,337,3,12,3,8:53 PM,0:57,Augmon Free Throw 2 of 2 (2 PTS),,,65 - 75,10
+0020501150,338,2,1,3,8:54 PM,0:41,,,MISS Grundy 27' 3PT Jump Shot,,
+0020501150,339,4,0,3,8:54 PM,0:39,Howard REBOUND (Off:4 Def:9),,,,
+0020501150,340,6,2,3,8:54 PM,0:28,,,Childress S.FOUL (P2.PN),,
+0020501150,341,3,11,3,8:54 PM,0:28,Milicic Free Throw 1 of 2 (11 PTS),,,65 - 76,11
+0020501150,342,3,12,3,8:54 PM,0:28,MISS Milicic Free Throw 2 of 2,,,,
+0020501150,343,4,0,3,8:55 PM,0:27,Diener REBOUND (Off:1 Def:0),,,,
+0020501150,344,2,42,3,8:55 PM,0:02,MISS Dooling  Driving Layup,,,,
+0020501150,346,4,0,3,8:55 PM,0:02,Howard REBOUND (Off:5 Def:9),,,,
+0020501150,345,1,64,3,8:55 PM,0:02,Howard  Follow Up Dunk (14 PTS),,,65 - 78,13
+0020501150,347,13,0,3,8:55 PM,0:00,,,,65 - 78,13
+0020501150,349,12,0,4,8:58 PM,12:00,,,,65 - 78,13
+0020501150,350,6,2,4,8:59 PM,11:45,,,Smith S.FOUL (P3.T1),,
+0020501150,351,3,11,4,8:59 PM,11:45,Howard Free Throw 1 of 2 (15 PTS),,,65 - 79,14
+0020501150,352,3,12,4,8:59 PM,11:45,MISS Howard Free Throw 2 of 2,,,,
+0020501150,353,4,0,4,8:59 PM,11:44,Augmon REBOUND (Off:1 Def:0),,,,
+0020501150,354,5,21,4,9:00 PM,11:36,Dooling Palming Turnover (P3.T10),,,,
+0020501150,355,2,1,4,9:00 PM,11:25,,,MISS Johnson 5' Jump Shot,,
+0020501150,356,4,0,4,9:00 PM,11:23,MAGIC Rebound,,,,
+0020501150,357,2,1,4,9:00 PM,11:05,MISS Diener 25' 3PT Jump Shot,,,,
+0020501150,358,4,0,4,9:00 PM,11:04,,,Johnson REBOUND (Off:1 Def:2),,
+0020501150,359,1,1,4,9:01 PM,10:45,,,Williams 18' Jump Shot (7 PTS) (Johnson 3 AST),67 - 79,12
+0020501150,360,2,5,4,9:01 PM,10:26,MISS Howard  Layup,,,,
+0020501150,361,4,0,4,9:01 PM,10:24,Augmon REBOUND (Off:2 Def:0),,,,
+0020501150,362,1,5,4,9:01 PM,10:22,Augmon  Layup (4 PTS),,,67 - 81,14
+0020501150,363,6,4,4,9:01 PM,10:05,,,Smith OFF.Foul (P4),,
+0020501150,364,5,5,4,9:01 PM,10:05,,,Smith Foul Turnover (P2.T10),,
+0020501150,365,2,59,4,9:02 PM,9:48,MISS Dooling  Finger Roll,,,,
+0020501150,366,4,0,4,9:02 PM,9:47,,,Childress REBOUND (Off:1 Def:2),,
+0020501150,367,10,0,4,9:02 PM,9:39,Jump Ball Diener vs. Smith: Tip to Johnson,,,,
+0020501150,368,2,5,4,9:03 PM,9:30,Milicic BLOCK (1 BLK),,MISS Harrington  Layup,,
+0020501150,369,4,0,4,9:03 PM,9:28,,,Williams REBOUND (Off:2 Def:4),,
+0020501150,370,2,1,4,9:03 PM,9:26,,,MISS Williams 14' Jump Shot,,
+0020501150,371,4,0,4,9:03 PM,9:24,,,Childress REBOUND (Off:2 Def:2),,
+0020501150,373,6,2,4,9:03 PM,9:22,Milicic S.FOUL (P3.T1),,,,
+0020501150,374,3,11,4,9:03 PM,9:22,,,Smith Free Throw 1 of 2 (6 PTS),68 - 81,13
+0020501150,375,3,12,4,9:04 PM,9:22,,,Smith Free Throw 2 of 2 (7 PTS),69 - 81,12
+0020501150,377,6,4,4,9:04 PM,9:09,Howard OFF.Foul (P2),,,,
+0020501150,378,5,5,4,9:04 PM,9:09,Howard Foul Turnover (P3.T11),,,,
+0020501150,379,8,0,4,9:04 PM,9:09,SUB: Battie FOR Howard,,,,
+0020501150,380,5,4,4,9:05 PM,8:57,,,Harrington Traveling Turnover (P1.T11),,
+0020501150,381,9,4,4,9:05 PM,8:57,,,,,
+0020501150,384,8,0,4,9:07 PM,8:57,SUB: Turkoglu FOR Diener,,,,
+0020501150,385,8,0,4,9:07 PM,8:57,SUB: Nelson FOR Augmon,,,,
+0020501150,386,1,1,4,9:07 PM,8:38,Milicic 5' Jump Shot (13 PTS) (Turkoglu 3 AST),,,69 - 83,14
+0020501150,387,2,5,4,9:08 PM,8:13,Battie BLOCK (1 BLK),,MISS Harrington  Layup,,
+0020501150,388,4,0,4,9:08 PM,8:13,,,Hawks Rebound,,
+0020501150,389,1,63,4,9:08 PM,8:09,,,Harrington 15' Fadeaway Jumper (17 PTS),71 - 83,12
+0020501150,390,2,1,4,9:09 PM,7:46,MISS Milicic 21' Jump Shot,,,,
+0020501150,391,4,0,4,9:09 PM,7:44,,,Smith REBOUND (Off:0 Def:5),,
+0020501150,392,1,1,4,9:09 PM,7:33,,,Childress 27' 3PT Jump Shot (9 PTS) (Smith 2 AST),74 - 83,9
+0020501150,393,2,1,4,9:09 PM,7:12,MISS Dooling  3PT Jump Shot,,,,
+0020501150,394,4,0,4,9:09 PM,7:09,,,Johnson REBOUND (Off:1 Def:3),,
+0020501150,395,6,2,4,9:09 PM,7:09,Battie S.FOUL (P1.T2),,,,
+0020501150,396,3,11,4,9:09 PM,7:09,,,Williams Free Throw 1 of 2 (8 PTS),75 - 83,8
+0020501150,398,3,12,4,9:10 PM,7:09,,,Williams Free Throw 2 of 2 (9 PTS),76 - 83,7
+0020501150,399,2,1,4,9:10 PM,6:54,MISS Nelson 21' Jump Shot,,,,
+0020501150,400,4,0,4,9:10 PM,6:52,,,Harrington REBOUND (Off:3 Def:4),,
+0020501150,401,1,42,4,9:11 PM,6:36,,,Harrington  Driving Layup (19 PTS),78 - 83,5
+0020501150,402,9,1,4,9:11 PM,6:31,MAGIC Timeout: Regular (Full 4 Short 0),,,,
+0020501150,404,8,0,4,9:13 PM,6:31,SUB: Stevenson FOR Dooling,,,,
+0020501150,406,5,2,4,9:13 PM,6:12,Turkoglu Lost Ball Turnover (P1.T12),,Williams STEAL (2 STL),,
+0020501150,407,2,5,4,9:13 PM,6:08,,,MISS Williams  Layup,,
+0020501150,408,4,0,4,9:13 PM,6:07,,,Williams REBOUND (Off:3 Def:4),,
+0020501150,409,5,2,4,9:14 PM,6:02,Turkoglu STEAL (2 STL),,Williams Lost Ball Turnover (P1.T12),,
+0020501150,410,2,5,4,9:14 PM,5:57,MISS Nelson  Layup,,,,
+0020501150,412,4,0,4,9:14 PM,5:56,Stevenson REBOUND (Off:1 Def:4),,,,
+0020501150,411,1,64,4,9:14 PM,5:56,Stevenson  Follow Up Dunk (8 PTS),,,78 - 85,7
+0020501150,413,2,1,4,9:14 PM,5:33,,,MISS Williams 19' Jump Shot,,
+0020501150,414,4,0,4,9:14 PM,5:31,Stevenson REBOUND (Off:1 Def:5),,,,
+0020501150,415,2,5,4,9:14 PM,5:10,MISS Nelson  Layup,,,,
+0020501150,416,4,0,4,9:14 PM,5:09,,,Harrington REBOUND (Off:3 Def:5),,
+0020501150,417,2,1,4,9:15 PM,4:53,,,MISS Childress  3PT Jump Shot,,
+0020501150,418,4,0,4,9:15 PM,4:50,Battie REBOUND (Off:1 Def:5),,,,
+0020501150,419,8,0,4,9:15 PM,4:33,SUB: Howard FOR Milicic,,,,
+0020501150,420,1,63,4,9:15 PM,4:30,Stevenson 18' Fadeaway Jumper (10 PTS) (Turkoglu 4 AST),,,78 - 87,9
+0020501150,421,6,1,4,9:16 PM,4:16,Nelson P.FOUL (P4.T3),,,,
+0020501150,422,9,1,4,9:16 PM,4:16,,,Hawks Timeout: Regular (Reg.4 Short 1),,
+0020501150,424,8,0,4,9:18 PM,4:16,,,SUB: Lue FOR Williams,,
+0020501150,426,2,5,4,9:18 PM,4:09,,,MISS Smith  Layup,,
+0020501150,427,4,0,4,9:18 PM,4:08,Howard REBOUND (Off:5 Def:10),,,,
+0020501150,428,8,0,4,9:19 PM,3:53,,,SUB: Williams FOR Harrington,,
+0020501150,429,1,1,4,9:19 PM,3:44,Nelson 18' Jump Shot (17 PTS) (Turkoglu 5 AST),,,78 - 89,11
+0020501150,430,1,5,4,9:19 PM,3:31,,,Childress  Layup (11 PTS),80 - 89,9
+0020501150,431,6,2,4,9:19 PM,3:31,Turkoglu S.FOUL (P2.T4),,,,
+0020501150,432,3,10,4,9:20 PM,3:31,,,MISS Childress Free Throw 1 of 1,,
+0020501150,433,4,0,4,9:20 PM,3:29,Battie REBOUND (Off:1 Def:6),,,,
+0020501150,434,1,1,4,9:20 PM,3:10,Stevenson 22' Jump Shot (12 PTS) (Nelson 4 AST),,,80 - 91,11
+0020501150,435,2,1,4,9:20 PM,2:54,,,MISS Johnson 20' Jump Shot,,
+0020501150,436,4,0,4,9:20 PM,2:53,Battie REBOUND (Off:1 Def:7),,,,
+0020501150,437,1,52,4,9:21 PM,2:44,Howard  Alley Oop Dunk (17 PTS) (Nelson 5 AST),,,80 - 93,13
+0020501150,438,2,56,4,9:21 PM,2:22,,,MISS Smith 6' Running Hook Shot,,
+0020501150,439,4,0,4,9:21 PM,2:20,Howard REBOUND (Off:5 Def:11),,,,
+0020501150,440,1,1,4,9:21 PM,2:04,Turkoglu 27' 3PT Jump Shot (16 PTS) (Nelson 6 AST),,,80 - 96,16
+0020501150,441,9,1,4,9:21 PM,2:01,,,Hawks Timeout: Regular (Reg.5 Short 1),,
+0020501150,444,8,0,4,9:23 PM,2:01,,,SUB: Batista FOR Johnson,,
+0020501150,445,8,0,4,9:23 PM,2:01,,,SUB: Grundy FOR Lue,,
+0020501150,447,5,1,4,9:24 PM,1:54,,,Smith Bad Pass Turnover (P3.T13),,
+0020501150,448,8,0,4,9:24 PM,1:53,,,SUB: Smith FOR Smith,,
+0020501150,449,1,5,4,9:24 PM,1:39,Howard  Layup (19 PTS) (Stevenson 2 AST),,,80 - 98,18
+0020501150,450,6,2,4,9:24 PM,1:39,,,Grundy S.FOUL (P1.T2),,
+0020501150,451,3,10,4,9:25 PM,1:39,Howard Free Throw 1 of 1 (20 PTS),,,80 - 99,19
+0020501150,452,1,5,4,9:25 PM,1:24,,,Williams  Layup (11 PTS) (Childress 1 AST),82 - 99,17
+0020501150,453,6,2,4,9:25 PM,1:24,Battie S.FOUL (P2.PN),,,,
+0020501150,454,8,0,4,9:25 PM,1:24,SUB: Diener FOR Nelson,,,,
+0020501150,455,8,0,4,9:26 PM,1:24,SUB: Ariza FOR Turkoglu,,,,
+0020501150,456,3,10,4,9:26 PM,1:24,,,MISS Williams Free Throw 1 of 1,,
+0020501150,457,4,0,4,9:26 PM,1:23,MAGIC Rebound,,,,
+0020501150,458,6,3,4,9:26 PM,1:23,,,Batista L.B.FOUL (P2.PN),,
+0020501150,459,8,0,4,9:26 PM,1:23,SUB: Outlaw FOR Howard,,,,
+0020501150,460,3,11,4,9:26 PM,1:23,Battie Free Throw 1 of 2 (4 PTS),,,82 - 100,18
+0020501150,461,3,12,4,9:27 PM,1:23,Battie Free Throw 2 of 2 (5 PTS),,,82 - 101,19
+0020501150,462,1,5,4,9:27 PM,1:09,,,Batista  Layup (8 PTS) (Grundy 2 AST),84 - 101,17
+0020501150,463,1,5,4,9:28 PM,0:53,Stevenson  Layup (14 PTS),,,84 - 103,19
+0020501150,464,1,66,4,9:28 PM,0:47,,,Childress 6' Jump Bank Shot (13 PTS),86 - 103,17
+0020501150,465,1,1,4,9:28 PM,0:28,Battie 17' Jump Shot (7 PTS) (Stevenson 3 AST),,,86 - 105,19
+0020501150,466,2,1,4,9:29 PM,0:16,,,MISS Williams 27' 3PT Jump Shot,,
+0020501150,467,4,0,4,9:29 PM,0:14,,,Batista REBOUND (Off:4 Def:6),,
+0020501150,468,1,5,4,9:29 PM,0:14,,,Batista  Layup (10 PTS),88 - 105,17
+0020501150,469,13,0,4,9:29 PM,0:00,,,,88 - 105,17

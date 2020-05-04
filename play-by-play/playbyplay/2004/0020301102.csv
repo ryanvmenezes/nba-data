@@ -1,0 +1,474 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020301102,0,12,0,1,7:41 PM,12:00,,,,,
+0020301102,1,10,0,1,7:42 PM,12:00,Jump Ball Ilgauskas vs. Foyle: Tip to James,,,,
+0020301102,2,1,46,1,7:43 PM,11:50,James 9' Running Jump Shot (2 PTS),,,0 - 2,2
+0020301102,3,2,42,1,7:43 PM,11:28,,,MISS Robinson 2' Driving Layup,,
+0020301102,4,4,0,1,7:43 PM,11:25,Cleaves REBOUND (Off:0 Def:1),,,,
+0020301102,5,2,1,1,7:44 PM,11:11,MISS James 8' Jump Shot,,,,
+0020301102,6,4,0,1,7:44 PM,11:10,,,Foyle REBOUND (Off:0 Def:1),,
+0020301102,7,1,41,1,7:44 PM,11:04,,,Pietrus 3' Running Layup (2 PTS) (Foyle 1 AST),2 - 2,TIE
+0020301102,8,2,1,1,7:44 PM,10:43,MISS Nailon 19' Jump Shot,,,,
+0020301102,9,4,0,1,7:44 PM,10:41,,,Foyle REBOUND (Off:0 Def:2),,
+0020301102,10,2,1,1,7:45 PM,10:18,,,MISS Richardson 7' Jump Shot,,
+0020301102,11,4,0,1,7:45 PM,10:12,Ilgauskas REBOUND (Off:0 Def:1),,,,
+0020301102,12,1,8,1,7:45 PM,10:09,Nailon 1' Slam Dunk (2 PTS) (Ilgauskas 1 AST),,,2 - 4,2
+0020301102,13,6,1,1,7:45 PM,10:01,Cleaves P.FOUL (P1.T1),,,,
+0020301102,14,2,1,1,7:45 PM,9:56,,,MISS Richardson 14' Jump Shot,,
+0020301102,15,4,0,1,7:45 PM,9:54,CAVALIERS Rebound,,,,
+0020301102,16,5,4,1,7:46 PM,9:34,James Traveling Turnover (P1.T1),,,,
+0020301102,17,1,1,1,7:46 PM,9:17,,,Robinson 8' Jump Shot (2 PTS),4 - 4,TIE
+0020301102,18,1,1,1,7:47 PM,9:01,Boozer 11' Jump Shot (2 PTS),,,4 - 6,2
+0020301102,19,1,42,1,7:47 PM,8:36,,,Richardson 2' Driving Layup (2 PTS) (Robinson 1 AST),6 - 6,TIE
+0020301102,21,2,1,1,7:47 PM,8:21,MISS James 12' Jump Shot,,,,
+0020301102,22,4,0,1,7:47 PM,8:19,,,Pietrus REBOUND (Off:0 Def:1),,
+0020301102,23,5,40,1,7:48 PM,8:11,,,Foyle Out of Bounds Lost Ball Turnover (P1.T1),,
+0020301102,24,2,47,1,7:48 PM,7:55,MISS Boozer 15' Turnaround Jump Shot,,,,
+0020301102,26,4,0,1,7:48 PM,7:52,Nailon REBOUND (Off:1 Def:0),,,,
+0020301102,25,2,4,1,7:48 PM,7:52,MISS Nailon  Tip Shot,,,,
+0020301102,27,4,0,1,7:48 PM,7:49,Cleaves REBOUND (Off:1 Def:1),,,,
+0020301102,28,6,2,1,7:48 PM,7:49,,,Pietrus S.FOUL (P1.T1),,
+0020301102,29,3,11,1,7:48 PM,7:49,Ilgauskas Free Throw 1 of 2 (1 PTS),,,6 - 7,1
+0020301102,30,3,12,1,7:49 PM,7:49,Ilgauskas Free Throw 2 of 2 (2 PTS),,,6 - 8,2
+0020301102,31,2,1,1,7:49 PM,7:36,,,MISS Foyle 9' Jump Shot,,
+0020301102,32,4,0,1,7:49 PM,7:34,Nailon REBOUND (Off:1 Def:1),,,,
+0020301102,33,1,5,1,7:49 PM,7:29,Boozer 1' Layup (4 PTS) (Cleaves 1 AST),,,6 - 10,4
+0020301102,34,6,2,1,7:49 PM,7:29,,,Foyle S.FOUL (P1.T2),,
+0020301102,35,3,10,1,7:49 PM,7:29,Boozer Free Throw 1 of 1 (5 PTS),,,6 - 11,5
+0020301102,36,6,1,1,7:50 PM,7:21,Cleaves P.FOUL (P2.T2),,,,
+0020301102,37,6,17,1,7:50 PM,7:10,CAVALIERS T.Foul (Def. 3 Sec Ilgauskas ),,,,
+0020301102,38,3,16,1,7:50 PM,7:10,,,Dunleavy Free Throw Technical (1 PTS),7 - 11,4
+0020301102,39,8,0,1,7:50 PM,7:10,SUB: Ollie FOR Cleaves,,,,
+0020301102,40,5,4,1,7:51 PM,7:00,,,Foyle Traveling Turnover (P2.T2),,
+0020301102,41,6,2,1,7:51 PM,6:41,,,Foyle S.FOUL (P2.T3),,
+0020301102,42,8,0,1,7:51 PM,6:41,,,SUB: Murphy FOR Foyle,,
+0020301102,43,3,11,1,7:52 PM,6:41,Ilgauskas Free Throw 1 of 2 (3 PTS),,,7 - 12,5
+0020301102,44,3,12,1,7:52 PM,6:41,Ilgauskas Free Throw 2 of 2 (4 PTS),,,7 - 13,6
+0020301102,45,6,1,1,7:52 PM,6:32,Ollie P.FOUL (P1.T3),,,,
+0020301102,46,1,66,1,7:53 PM,6:19,,,Dunleavy 10' Jump Bank Shot (3 PTS),9 - 13,4
+0020301102,47,2,1,1,7:53 PM,5:56,MISS Ilgauskas 18' Jump Shot,,,,
+0020301102,48,4,0,1,7:53 PM,5:56,CAVALIERS Rebound,,,,
+0020301102,49,6,3,1,7:53 PM,5:56,,,Dunleavy L.B.FOUL (P1.T4),,
+0020301102,50,9,1,1,7:53 PM,5:56,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,
+0020301102,54,6,2,1,7:56 PM,5:49,,,Pietrus S.FOUL (P2.PN),,
+0020301102,55,3,11,1,7:56 PM,5:49,MISS James Free Throw 1 of 2,,,,
+0020301102,56,4,1,1,7:56 PM,5:49,CAVALIERS Rebound,,,,
+0020301102,57,8,0,1,7:56 PM,5:49,,,SUB: Cheaney FOR Pietrus,,
+0020301102,58,3,12,1,7:56 PM,5:49,James Free Throw 2 of 2 (3 PTS),,,9 - 14,5
+0020301102,59,1,47,1,7:57 PM,5:34,,,Dunleavy 12' Turnaround Jump Shot (5 PTS) (Richardson 1 AST),11 - 14,3
+0020301102,60,6,2,1,7:57 PM,5:34,Ollie S.FOUL (P2.T4),,,,
+0020301102,61,8,0,1,7:57 PM,5:34,SUB: Brown FOR Ollie,,,,
+0020301102,62,3,10,1,7:57 PM,5:34,,,Dunleavy Free Throw 1 of 1 (6 PTS),12 - 14,2
+0020301102,63,1,1,1,7:57 PM,5:17,Boozer 16' Jump Shot (7 PTS) (James 1 AST),,,12 - 16,4
+0020301102,64,1,5,1,7:58 PM,4:59,,,Dunleavy 3' Layup (8 PTS) (Richardson 2 AST),14 - 16,2
+0020301102,65,6,4,1,7:58 PM,4:52,Boozer OFF.Foul (P1),,,,
+0020301102,66,5,5,1,7:58 PM,4:52,Boozer Foul Turnover (P1.T2),,,,
+0020301102,67,6,1,1,7:58 PM,4:42,James P.FOUL (P1.PN),,,,
+0020301102,68,3,11,1,7:59 PM,4:42,,,MISS Dunleavy Free Throw 1 of 2,,
+0020301102,69,4,1,1,7:59 PM,4:42,,,Warriors Rebound,,
+0020301102,70,3,12,1,7:59 PM,4:42,,,Dunleavy Free Throw 2 of 2 (9 PTS),15 - 16,1
+0020301102,71,2,1,1,7:59 PM,4:28,MISS Ilgauskas 9' Jump Shot,,,,
+0020301102,72,4,0,1,7:59 PM,4:27,Boozer REBOUND (Off:1 Def:0),,,,
+0020301102,73,2,3,1,7:59 PM,4:25,MISS Boozer 8' Hook Shot,,,,
+0020301102,75,4,0,1,7:59 PM,4:21,Ilgauskas REBOUND (Off:1 Def:1),,,,
+0020301102,74,2,4,1,7:59 PM,4:21,MISS Ilgauskas 1' Tip Shot,,,,
+0020301102,77,4,0,1,7:59 PM,4:19,Ilgauskas REBOUND (Off:2 Def:1),,,,
+0020301102,76,1,4,1,7:59 PM,4:19,Ilgauskas 2' Tip Shot (6 PTS),,,15 - 18,3
+0020301102,78,1,63,1,8:00 PM,4:05,,,Dunleavy 13' Fadeaway Jumper (11 PTS),17 - 18,1
+0020301102,79,9,2,1,8:00 PM,4:00,CAVALIERS Timeout: Short (Full 1 Short 1),,,,
+0020301102,83,2,5,1,8:01 PM,3:52,MISS James 2' Layup,,Robinson BLOCK (1 BLK),,
+0020301102,84,4,0,1,8:01 PM,3:50,,,Dunleavy REBOUND (Off:0 Def:1),,
+0020301102,85,6,2,1,8:01 PM,3:47,Ilgauskas S.FOUL (P1.PN),,,,
+0020301102,86,3,11,1,8:01 PM,3:47,,,MISS Richardson Free Throw 1 of 2,,
+0020301102,87,4,1,1,8:01 PM,3:47,,,Warriors Rebound,,
+0020301102,88,3,12,1,8:02 PM,3:47,,,Richardson Free Throw 2 of 2 (3 PTS),18 - 18,TIE
+0020301102,89,6,1,1,8:02 PM,3:32,,,Robinson P.FOUL (P1.PN),,
+0020301102,90,3,11,1,8:02 PM,3:32,Ilgauskas Free Throw 1 of 2 (7 PTS),,,18 - 19,1
+0020301102,91,3,12,1,8:02 PM,3:32,Ilgauskas Free Throw 2 of 2 (8 PTS),,,18 - 20,2
+0020301102,92,6,2,1,8:03 PM,3:19,Brown S.FOUL (P1.PN),,,,
+0020301102,95,3,11,1,8:03 PM,3:19,,,MISS Robinson Free Throw 1 of 2,,
+0020301102,96,4,1,1,8:03 PM,3:19,,,Warriors Rebound,,
+0020301102,97,3,12,1,8:03 PM,3:19,,,Robinson Free Throw 2 of 2 (3 PTS),19 - 20,1
+0020301102,98,2,56,1,8:04 PM,3:00,MISS Ilgauskas 9' Running Hook Shot,,,,
+0020301102,99,4,0,1,8:04 PM,2:57,Ilgauskas REBOUND (Off:3 Def:1),,,,
+0020301102,100,2,42,1,8:04 PM,2:51,MISS Boozer 1' Driving Layup,,,,
+0020301102,101,4,0,1,8:04 PM,2:49,,,Cheaney REBOUND (Off:0 Def:1),,
+0020301102,102,1,1,1,8:04 PM,2:41,,,Cheaney 17' Jump Shot (2 PTS) (Robinson 2 AST),21 - 20,-1
+0020301102,103,2,59,1,8:05 PM,2:19,MISS Boozer 3' Finger Roll,,,,
+0020301102,104,4,0,1,8:05 PM,2:16,,,Dunleavy REBOUND (Off:0 Def:2),,
+0020301102,105,1,46,1,8:05 PM,2:05,,,Murphy 7' Running Jump Shot (2 PTS),23 - 20,-3
+0020301102,106,6,2,1,8:05 PM,2:05,Ilgauskas S.FOUL (P2.PN),,,,
+0020301102,107,9,1,1,8:05 PM,2:05,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020301102,110,8,0,1,8:07 PM,2:05,SUB: Battie FOR Ilgauskas,,,,
+0020301102,111,3,10,1,8:07 PM,2:05,,,MISS Murphy Free Throw 1 of 1,,
+0020301102,112,4,0,1,8:08 PM,2:04,Battie REBOUND (Off:0 Def:1),,,,
+0020301102,113,5,2,1,8:08 PM,2:00,Battie Lost Ball Turnover (P1.T3),,Richardson STEAL (1 STL),,
+0020301102,114,1,5,1,8:08 PM,1:54,,,Murphy  Layup (4 PTS) (Dunleavy 1 AST),25 - 20,-5
+0020301102,115,1,47,1,8:08 PM,1:33,Nailon 9' Turnaround Jump Shot (4 PTS),,,25 - 22,-3
+0020301102,116,1,1,1,8:08 PM,1:13,,,Dunleavy 25' 3PT Jump Shot (14 PTS) (Cheaney 1 AST),28 - 22,-6
+0020301102,117,2,1,1,8:09 PM,0:53,MISS Brown 24' 3PT Jump Shot,,,,
+0020301102,118,4,0,1,8:09 PM,0:52,CAVALIERS Rebound,,,,
+0020301102,119,2,1,1,8:09 PM,0:41,MISS Battie 17' Jump Shot,,,,
+0020301102,120,4,0,1,8:09 PM,0:39,,,Dunleavy REBOUND (Off:0 Def:3),,
+0020301102,121,2,1,1,8:09 PM,0:32,,,MISS Cheaney 21' Jump Shot,,
+0020301102,122,4,0,1,8:09 PM,0:31,,,Murphy REBOUND (Off:1 Def:0),,
+0020301102,123,6,2,1,8:09 PM,0:31,Battie S.FOUL (P1.PN),,,,
+0020301102,124,3,11,1,8:09 PM,0:31,,,Murphy Free Throw 1 of 2 (5 PTS),29 - 22,-7
+0020301102,125,8,0,1,8:10 PM,0:31,SUB: Newble FOR Battie,,,,
+0020301102,126,3,12,1,8:10 PM,0:31,,,MISS Murphy Free Throw 2 of 2,,
+0020301102,127,4,0,1,8:10 PM,0:30,Boozer REBOUND (Off:1 Def:1),,,,
+0020301102,128,2,1,1,8:10 PM,0:16,MISS Nailon 15' Jump Shot,,,,
+0020301102,129,4,0,1,8:10 PM,0:15,,,Cheaney REBOUND (Off:0 Def:2),,
+0020301102,130,2,1,1,8:11 PM,0:00,,,MISS Cheaney 25' 3PT Jump Shot,,
+0020301102,131,4,0,1,8:11 PM,0:00,,,Warriors Rebound,,
+0020301102,132,13,0,1,8:11 PM,0:00,,,,29 - 22,-7
+0020301102,134,12,0,2,8:13 PM,12:00,,,,29 - 22,-7
+0020301102,135,2,1,2,8:14 PM,11:48,,,MISS Murphy 16' Jump Shot,,
+0020301102,136,4,0,2,8:14 PM,11:46,James REBOUND (Off:0 Def:1),,,,
+0020301102,137,1,8,2,8:14 PM,11:31,James 1' Slam Dunk (5 PTS) (Newble 1 AST),,,29 - 24,-5
+0020301102,138,2,5,2,8:14 PM,11:11,,,MISS Murphy 2' Layup,,
+0020301102,139,4,0,2,8:14 PM,11:10,Kapono REBOUND (Off:0 Def:1),,,,
+0020301102,140,2,3,2,8:15 PM,10:50,MISS Ilgauskas 5' Hook Shot,,,,
+0020301102,141,4,0,2,8:15 PM,10:48,,,Murphy REBOUND (Off:1 Def:1),,
+0020301102,142,1,44,2,8:15 PM,10:29,,,Murphy  Reverse Layup (7 PTS) (Dunleavy 2 AST),31 - 24,-7
+0020301102,143,1,1,2,8:16 PM,10:07,Newble 18' Jump Shot (2 PTS) (Kapono 1 AST),,,31 - 26,-5
+0020301102,144,5,1,2,8:16 PM,9:57,,,Robinson Bad Pass Turnover (P1.T3),,
+0020301102,145,2,5,2,8:16 PM,9:42,MISS Kapono 2' Layup,,,,
+0020301102,146,4,0,2,8:16 PM,9:41,,,Murphy REBOUND (Off:1 Def:2),,
+0020301102,147,1,42,2,8:16 PM,9:32,,,Richardson 1' Driving Layup (5 PTS),33 - 26,-7
+0020301102,148,6,1,2,8:17 PM,9:13,,,Cheaney P.FOUL (P1.T1),,
+0020301102,149,8,0,2,8:17 PM,9:13,,,SUB: Cardinal FOR Robinson,,
+0020301102,150,8,0,2,8:17 PM,9:13,SUB: Cleaves FOR Nailon,,,,
+0020301102,151,2,1,2,8:17 PM,8:58,MISS Newble 16' Jump Shot,,,,
+0020301102,152,4,0,2,8:17 PM,8:57,Ilgauskas REBOUND (Off:4 Def:1),,,,
+0020301102,153,2,1,2,8:17 PM,8:52,MISS James 5' Jump Shot,,,,
+0020301102,155,4,0,2,8:18 PM,8:47,Newble REBOUND (Off:1 Def:0),,,,
+0020301102,154,1,4,2,8:18 PM,8:47,Newble 1' Tip Shot (4 PTS),,,33 - 28,-5
+0020301102,156,1,5,2,8:18 PM,8:39,,,Dunleavy 2' Layup (16 PTS) (Richardson 3 AST),35 - 28,-7
+0020301102,157,1,3,2,8:18 PM,8:15,Ilgauskas 3' Hook Shot (10 PTS) (Cleaves 2 AST),,,35 - 30,-5
+0020301102,158,1,41,2,8:18 PM,8:06,,,Richardson 5' Running Layup (7 PTS),37 - 30,-7
+0020301102,159,2,1,2,8:18 PM,7:58,MISS Kapono 25' 3PT Jump Shot,,,,
+0020301102,160,4,0,2,8:18 PM,7:55,,,Cardinal REBOUND (Off:0 Def:1),,
+0020301102,161,6,2,2,8:19 PM,7:52,Ilgauskas S.FOUL (P3.T1),,,,
+0020301102,162,9,4,2,8:19 PM,7:52,,,,,
+0020301102,165,8,0,2,8:21 PM,7:52,SUB: Diop FOR Ilgauskas,,,,
+0020301102,166,3,11,2,8:21 PM,7:52,,,Richardson Free Throw 1 of 2 (8 PTS),38 - 30,-8
+0020301102,167,3,12,2,8:21 PM,7:52,,,Richardson Free Throw 2 of 2 (9 PTS),39 - 30,-9
+0020301102,168,6,2,2,8:22 PM,7:37,,,Cheaney S.FOUL (P2.T2),,
+0020301102,169,3,11,2,8:22 PM,7:37,James Free Throw 1 of 2 (6 PTS),,,39 - 31,-8
+0020301102,170,3,12,2,8:22 PM,7:37,MISS James Free Throw 2 of 2,,,,
+0020301102,171,4,0,2,8:22 PM,7:36,,,Cardinal REBOUND (Off:0 Def:2),,
+0020301102,172,6,4,2,8:22 PM,7:27,,,Murphy OFF.Foul (P1),,
+0020301102,173,5,5,2,8:22 PM,7:27,,,Murphy Foul Turnover (P1.T4),,
+0020301102,174,6,2,2,8:23 PM,7:09,,,Cheaney S.FOUL (P3.T3),,
+0020301102,175,3,11,2,8:23 PM,7:09,MISS James Free Throw 1 of 2,,,,
+0020301102,176,4,1,2,8:23 PM,7:09,CAVALIERS Rebound,,,,
+0020301102,177,3,12,2,8:23 PM,7:09,James Free Throw 2 of 2 (7 PTS),,,39 - 32,-7
+0020301102,178,2,1,2,8:24 PM,6:54,,,MISS Dunleavy 24' 3PT Jump Shot,,
+0020301102,179,4,0,2,8:24 PM,6:53,,,Warriors Rebound,,
+0020301102,180,1,1,2,8:24 PM,6:50,,,Murphy 18' Jump Shot (9 PTS) (Cheaney 2 AST),41 - 32,-9
+0020301102,181,1,1,2,8:24 PM,6:32,Newble 20' Jump Shot (6 PTS) (James 2 AST),,,41 - 34,-7
+0020301102,182,8,0,2,8:25 PM,6:17,,,SUB: Pietrus FOR Cheaney,,
+0020301102,183,1,1,2,8:25 PM,6:07,,,Cardinal  3PT Jump Shot (3 PTS) (Richardson 4 AST),44 - 34,-10
+0020301102,184,1,42,2,8:25 PM,5:56,James 2' Driving Layup (9 PTS),,,44 - 36,-8
+0020301102,185,2,5,2,8:25 PM,5:49,Cleaves BLOCK (1 BLK),,MISS Richardson 1' Layup,,
+0020301102,187,4,0,2,8:25 PM,5:49,,,Warriors Rebound,,
+0020301102,188,9,1,2,8:26 PM,5:49,CAVALIERS Timeout: Regular (Full 2 Short 1),,,,
+0020301102,192,10,0,2,8:28 PM,5:49,Jump Ball Cleaves vs. Richardson: Tip to Dunleavy,,,,
+0020301102,193,1,1,2,8:29 PM,5:32,,,Murphy 21' Jump Shot (11 PTS) (Dunleavy 3 AST),46 - 36,-10
+0020301102,194,2,1,2,8:29 PM,5:17,MISS Kapono 17' Jump Shot,,,,
+0020301102,196,4,0,2,8:29 PM,5:14,Diop REBOUND (Off:1 Def:0),,,,
+0020301102,195,2,4,2,8:29 PM,5:14,MISS Diop 1' Tip Shot,,,,
+0020301102,197,4,0,2,8:29 PM,5:11,Diop REBOUND (Off:2 Def:0),,,,
+0020301102,198,2,1,2,8:29 PM,5:01,MISS Cleaves 17' Jump Shot,,,,
+0020301102,199,4,0,2,8:29 PM,4:59,Diop REBOUND (Off:3 Def:0),,,,
+0020301102,200,2,1,2,8:29 PM,4:43,MISS Kapono  3PT Jump Shot,,,,
+0020301102,201,4,0,2,8:29 PM,4:41,,,Richardson REBOUND (Off:0 Def:1),,
+0020301102,202,1,47,2,8:30 PM,4:26,,,Richardson 11' Turnaround Jump Shot (11 PTS) (Murphy 1 AST),48 - 36,-12
+0020301102,203,2,1,2,8:30 PM,4:10,MISS Cleaves 17' Jump Shot,,,,
+0020301102,204,4,0,2,8:30 PM,4:08,,,Richardson REBOUND (Off:0 Def:2),,
+0020301102,205,1,5,2,8:30 PM,4:00,,,Murphy  Layup (13 PTS) (Dunleavy 4 AST),50 - 36,-14
+0020301102,206,6,2,2,8:30 PM,4:00,Diop S.FOUL (P1.T2),,,,
+0020301102,208,8,0,2,8:31 PM,4:00,SUB: Boozer FOR Kapono,,,,
+0020301102,209,3,10,2,8:31 PM,4:00,,,Murphy Free Throw 1 of 1 (14 PTS),51 - 36,-15
+0020301102,210,2,1,2,8:31 PM,3:46,MISS James 3' Jump Shot,,,,
+0020301102,211,4,0,2,8:31 PM,3:45,James REBOUND (Off:1 Def:1),,,,
+0020301102,212,1,5,2,8:31 PM,3:44,James 1' Layup (11 PTS),,,51 - 38,-13
+0020301102,213,6,2,2,8:31 PM,3:44,,,Cardinal S.FOUL (P1.T4),,
+0020301102,214,8,0,2,8:31 PM,3:44,,,SUB: Robinson FOR Pietrus,,
+0020301102,215,8,0,2,8:32 PM,3:44,SUB: Ilgauskas FOR Diop,,,,
+0020301102,216,3,10,2,8:32 PM,3:44,MISS James Free Throw 1 of 1,,,,
+0020301102,217,4,0,2,8:32 PM,3:40,,,Robinson REBOUND (Off:0 Def:1),,
+0020301102,218,6,1,2,8:32 PM,3:35,Newble P.FOUL (P1.T3),,,,
+0020301102,219,5,40,2,8:33 PM,3:27,,,Cardinal Out of Bounds Lost Ball Turnover (P1.T5),,
+0020301102,220,2,1,2,8:33 PM,3:15,MISS James 5' Jump Shot,,,,
+0020301102,221,4,0,2,8:33 PM,3:13,James REBOUND (Off:2 Def:1),,,,
+0020301102,222,2,5,2,8:33 PM,3:12,MISS James 2' Layup,,Cardinal BLOCK (1 BLK),,
+0020301102,223,4,0,2,8:33 PM,3:10,,,Cardinal REBOUND (Off:0 Def:3),,
+0020301102,224,2,1,2,8:33 PM,3:06,,,MISS Robinson 25' 3PT Jump Shot,,
+0020301102,225,4,0,2,8:33 PM,3:04,Cleaves REBOUND (Off:1 Def:2),,,,
+0020301102,226,2,42,2,8:33 PM,2:58,MISS Cleaves 2' Driving Layup,,,,
+0020301102,227,4,0,2,8:33 PM,2:56,,,Robinson REBOUND (Off:0 Def:2),,
+0020301102,228,1,3,2,8:33 PM,2:44,,,Richardson 1' Hook Shot (13 PTS) (Dunleavy 5 AST),53 - 38,-15
+0020301102,229,2,1,2,8:34 PM,2:22,MISS Cleaves 4' Jump Shot,,,,
+0020301102,231,4,0,2,8:34 PM,2:20,Ilgauskas REBOUND (Off:5 Def:1),,,,
+0020301102,230,2,4,2,8:34 PM,2:20,MISS Ilgauskas 1' Tip Shot,,,,
+0020301102,233,4,0,2,8:34 PM,2:16,Ilgauskas REBOUND (Off:6 Def:1),,,,
+0020301102,232,1,4,2,8:34 PM,2:16,Ilgauskas 1' Tip Shot (12 PTS),,,53 - 40,-13
+0020301102,234,2,1,2,8:34 PM,1:59,Ilgauskas BLOCK (1 BLK),,MISS Cardinal 4' Jump Shot,,
+0020301102,235,4,0,2,8:34 PM,1:56,Boozer REBOUND (Off:1 Def:2),,,,
+0020301102,236,1,8,2,8:34 PM,1:53,Ilgauskas 1' Slam Dunk (14 PTS) (James 3 AST),,,53 - 42,-11
+0020301102,237,5,2,2,8:35 PM,1:38,Boozer STEAL (1 STL),,Murphy Lost Ball Turnover (P2.T6),,
+0020301102,238,6,2,2,8:35 PM,1:35,,,Richardson S.FOUL (P1.PN),,
+0020301102,239,9,1,2,8:35 PM,1:35,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020301102,241,8,0,2,8:37 PM,1:35,,,SUB: Pietrus FOR Richardson,,
+0020301102,242,8,0,2,8:37 PM,1:35,SUB: Nailon FOR Ilgauskas,,,,
+0020301102,243,3,11,2,8:37 PM,1:35,James Free Throw 1 of 2 (12 PTS),,,53 - 43,-10
+0020301102,244,3,12,2,8:37 PM,1:35,James Free Throw 2 of 2 (13 PTS),,,53 - 44,-9
+0020301102,245,2,5,2,8:38 PM,1:19,,,MISS Pietrus 2' Layup,,
+0020301102,246,4,0,2,8:38 PM,1:17,Boozer REBOUND (Off:1 Def:3),,,,
+0020301102,247,6,2,2,8:38 PM,1:05,,,Robinson S.FOUL (P2.PN),,
+0020301102,248,3,11,2,8:38 PM,1:05,MISS Cleaves Free Throw 1 of 2,,,,
+0020301102,249,4,1,2,8:38 PM,1:05,CAVALIERS Rebound,,,,
+0020301102,250,3,12,2,8:38 PM,1:05,Cleaves Free Throw 2 of 2 (1 PTS),,,53 - 45,-8
+0020301102,252,1,5,2,8:39 PM,0:50,,,Dunleavy 2' Layup (18 PTS) (Robinson 3 AST),55 - 45,-10
+0020301102,253,2,1,2,8:39 PM,0:37,MISS Newble 18' Jump Shot,,,,
+0020301102,254,4,0,2,8:39 PM,0:37,Boozer REBOUND (Off:2 Def:3),,,,
+0020301102,255,1,3,2,8:39 PM,0:37,Boozer 3' Hook Shot (9 PTS),,,55 - 47,-8
+0020301102,256,6,2,2,8:39 PM,0:37,,,Murphy S.FOUL (P2.PN),,
+0020301102,257,3,10,2,8:39 PM,0:37,Boozer Free Throw 1 of 1 (10 PTS),,,55 - 48,-7
+0020301102,258,6,2,2,8:40 PM,0:24,Cleaves S.FOUL (P3.T4),,,,
+0020301102,259,3,11,2,8:40 PM,0:24,,,Pietrus Free Throw 1 of 2 (3 PTS),56 - 48,-8
+0020301102,260,8,0,2,8:40 PM,0:24,SUB: Brown FOR Cleaves,,,,
+0020301102,261,3,12,2,8:40 PM,0:24,,,MISS Pietrus Free Throw 2 of 2,,
+0020301102,262,4,0,2,8:40 PM,0:23,,,Murphy REBOUND (Off:2 Def:2),,
+0020301102,263,2,5,2,8:41 PM,0:02,James BLOCK (1 BLK),,MISS Dunleavy 2' Layup,,
+0020301102,264,4,0,2,8:41 PM,0:00,,,Robinson REBOUND (Off:1 Def:2),,
+0020301102,265,5,11,2,8:41 PM,0:00,,,Warriors Turnover: Shot Clock (T#7),,
+0020301102,266,8,0,2,8:41 PM,0:00,,,SUB: Foyle FOR Murphy,,
+0020301102,267,13,0,2,8:41 PM,0:00,,,,56 - 48,-8
+0020301102,269,12,0,3,8:57 PM,12:00,,,,56 - 48,-8
+0020301102,270,10,0,3,8:58 PM,11:42,Jump Ball Ilgauskas vs. Dunleavy: Tip to Pietrus,,,,
+0020301102,271,2,1,3,8:58 PM,11:36,,,MISS Dunleavy 35' 3PT Jump Shot,,
+0020301102,272,4,0,3,8:58 PM,11:33,CAVALIERS Rebound,,,,
+0020301102,273,2,1,3,8:58 PM,11:21,MISS Newble 14' Jump Shot,,,,
+0020301102,274,4,0,3,8:58 PM,11:20,Ilgauskas REBOUND (Off:7 Def:1),,,,
+0020301102,275,2,1,3,8:58 PM,11:20,MISS Ilgauskas 3' Jump Shot,,Richardson BLOCK (1 BLK),,
+0020301102,276,4,0,3,8:59 PM,11:20,CAVALIERS Rebound,,,,
+0020301102,277,2,1,3,8:59 PM,11:13,MISS Cleaves 13' Jump Shot,,,,
+0020301102,278,4,0,3,8:59 PM,11:11,,,Foyle REBOUND (Off:0 Def:3),,
+0020301102,279,2,1,3,8:59 PM,11:06,,,MISS Robinson 14' Jump Shot,,
+0020301102,280,4,0,3,8:59 PM,11:04,,,Foyle REBOUND (Off:1 Def:3),,
+0020301102,281,2,1,3,8:59 PM,10:49,,,MISS Robinson 3' Jump Shot,,
+0020301102,282,4,0,3,8:59 PM,10:48,Cleaves REBOUND (Off:1 Def:3),,,,
+0020301102,283,1,49,3,8:59 PM,10:45,James  Driving Dunk (15 PTS) (Cleaves 3 AST),,,56 - 50,-6
+0020301102,284,2,1,3,9:00 PM,10:17,,,MISS Pietrus 25' 3PT Jump Shot,,
+0020301102,285,4,0,3,9:00 PM,10:15,Boozer REBOUND (Off:2 Def:4),,,,
+0020301102,286,1,42,3,9:00 PM,10:08,Cleaves 2' Driving Layup (3 PTS) (Boozer 1 AST),,,56 - 52,-4
+0020301102,287,2,1,3,9:00 PM,9:45,,,MISS Robinson 21' Jump Shot,,
+0020301102,288,4,0,3,9:00 PM,9:42,James REBOUND (Off:2 Def:2),,,,
+0020301102,289,2,42,3,9:00 PM,9:30,MISS Cleaves 1' Driving Layup,,Foyle BLOCK (1 BLK),,
+0020301102,290,4,0,3,9:00 PM,9:30,CAVALIERS Rebound,,,,
+0020301102,291,2,1,3,9:01 PM,9:27,MISS James 13' Jump Shot,,,,
+0020301102,292,4,0,3,9:01 PM,9:25,,,Robinson REBOUND (Off:1 Def:3),,
+0020301102,293,1,1,3,9:01 PM,9:21,,,Richardson 13' Jump Shot (15 PTS),58 - 52,-6
+0020301102,294,1,1,3,9:01 PM,9:09,Boozer 17' Jump Shot (12 PTS) (James 4 AST),,,58 - 54,-4
+0020301102,295,2,47,3,9:01 PM,8:53,,,MISS Dunleavy 17' Turnaround Jump Shot,,
+0020301102,296,4,0,3,9:01 PM,8:52,CAVALIERS Rebound,,,,
+0020301102,297,5,2,3,9:02 PM,8:37,Boozer Lost Ball Turnover (P2.T4),,Robinson STEAL (1 STL),,
+0020301102,298,1,8,3,9:02 PM,8:32,,,Pietrus 1' Slam Dunk (5 PTS) (Robinson 4 AST),60 - 54,-6
+0020301102,299,1,46,3,9:02 PM,8:11,Ilgauskas 5' Running Jump Shot (16 PTS) (James 5 AST),,,60 - 56,-4
+0020301102,301,5,2,3,9:02 PM,7:53,Cleaves STEAL (1 STL),,Richardson Lost Ball Turnover (P1.T8),,
+0020301102,302,1,5,3,9:03 PM,7:48,Boozer 2' Layup (14 PTS) (James 6 AST),,,60 - 58,-2
+0020301102,303,9,1,3,9:03 PM,7:43,,,Warriors Timeout: Regular (Reg.3 Short 0),,
+0020301102,305,8,0,3,9:04 PM,7:43,,,SUB: Murphy FOR Foyle,,
+0020301102,307,2,1,3,9:05 PM,7:30,Boozer BLOCK (1 BLK),,MISS Robinson 6' Jump Shot,,
+0020301102,308,4,0,3,9:05 PM,7:29,James REBOUND (Off:2 Def:3),,,,
+0020301102,309,6,1,3,9:06 PM,7:19,,,Pietrus P.FOUL (P3.T1),,
+0020301102,310,8,0,3,9:06 PM,7:19,,,SUB: Cheaney FOR Pietrus,,
+0020301102,311,5,1,3,9:06 PM,7:09,Cleaves Bad Pass Turnover (P1.T5),,Murphy STEAL (1 STL),,
+0020301102,313,1,1,3,9:06 PM,7:02,,,Cheaney 21' Jump Shot (4 PTS),62 - 58,-4
+0020301102,314,5,1,3,9:06 PM,6:47,James Bad Pass Turnover (P2.T6),,Robinson STEAL (2 STL),,
+0020301102,315,1,5,3,9:07 PM,6:35,,,Richardson 2' Layup (17 PTS) (Robinson 5 AST),64 - 58,-6
+0020301102,317,1,1,3,9:07 PM,6:17,James 26' 3PT Jump Shot (18 PTS),,,64 - 61,-3
+0020301102,318,6,2,3,9:07 PM,5:56,Ilgauskas S.FOUL (P4.T1),,,,
+0020301102,319,8,0,3,9:08 PM,5:56,SUB: Battie FOR Ilgauskas,,,,
+0020301102,320,3,11,3,9:08 PM,5:56,,,MISS Murphy Free Throw 1 of 2,,
+0020301102,321,4,1,3,9:08 PM,5:56,,,Warriors Rebound,,
+0020301102,322,3,12,3,9:08 PM,5:56,,,Murphy Free Throw 2 of 2 (15 PTS),65 - 61,-4
+0020301102,323,5,1,3,9:08 PM,5:43,Cleaves Bad Pass Turnover (P2.T7),,,,
+0020301102,324,1,46,3,9:09 PM,5:36,,,Richardson 4' Running Jump Shot (19 PTS),67 - 61,-6
+0020301102,325,6,2,3,9:09 PM,5:36,Newble S.FOUL (P2.T2),,,,
+0020301102,326,3,10,3,9:09 PM,5:36,,,MISS Richardson Free Throw 1 of 1,,
+0020301102,327,4,0,3,9:09 PM,5:35,Boozer REBOUND (Off:2 Def:5),,,,
+0020301102,329,2,5,3,9:09 PM,5:25,MISS James 1' Layup,,Richardson BLOCK (2 BLK),,
+0020301102,330,4,0,3,9:09 PM,5:22,,,Richardson REBOUND (Off:0 Def:3),,
+0020301102,331,5,1,3,9:09 PM,5:19,Cleaves STEAL (2 STL),,Richardson Bad Pass Turnover (P2.T9),,
+0020301102,332,6,2,3,9:10 PM,5:16,,,Robinson S.FOUL (P3.T2),,
+0020301102,333,8,0,3,9:10 PM,5:16,SUB: Kapono FOR Cleaves,,,,
+0020301102,334,3,11,3,9:10 PM,5:16,Boozer Free Throw 1 of 2 (15 PTS),,,67 - 62,-5
+0020301102,335,3,12,3,9:10 PM,5:16,Boozer Free Throw 2 of 2 (16 PTS),,,67 - 63,-4
+0020301102,336,2,1,3,9:11 PM,4:52,,,MISS Richardson 25' 3PT Jump Shot,,
+0020301102,337,4,0,3,9:11 PM,4:50,Boozer REBOUND (Off:2 Def:6),,,,
+0020301102,338,6,2,3,9:11 PM,4:46,,,Richardson S.FOUL (P2.T3),,
+0020301102,339,3,11,3,9:11 PM,4:46,James Free Throw 1 of 2 (19 PTS),,,67 - 64,-3
+0020301102,340,3,12,3,9:11 PM,4:46,James Free Throw 2 of 2 (20 PTS),,,67 - 65,-2
+0020301102,341,2,1,3,9:12 PM,4:28,,,MISS Cheaney 18' Jump Shot,,
+0020301102,342,4,0,3,9:12 PM,4:26,James REBOUND (Off:2 Def:4),,,,
+0020301102,343,1,1,3,9:12 PM,4:19,James 22' Jump Shot (22 PTS),,,67 - 67,TIE
+0020301102,344,1,3,3,9:12 PM,4:00,,,Robinson 5' Hook Shot (5 PTS),69 - 67,-2
+0020301102,345,1,1,3,9:12 PM,3:47,James 15' Jump Shot (24 PTS),,,69 - 69,TIE
+0020301102,346,5,1,3,9:13 PM,3:32,,,Richardson Bad Pass Turnover (P3.T10),,
+0020301102,347,8,0,3,9:13 PM,3:32,,,SUB: Cardinal FOR Dunleavy,,
+0020301102,348,2,1,3,9:13 PM,3:21,MISS Boozer 18' Jump Shot,,,,
+0020301102,349,4,0,3,9:13 PM,3:19,,,Cardinal REBOUND (Off:0 Def:4),,
+0020301102,350,2,1,3,9:14 PM,2:54,,,MISS Cheaney 13' Jump Shot,,
+0020301102,351,4,0,3,9:14 PM,2:53,Boozer REBOUND (Off:2 Def:7),,,,
+0020301102,352,2,46,3,9:14 PM,2:48,MISS James 11' Running Jump Shot,,,,
+0020301102,353,4,0,3,9:14 PM,2:45,,,Murphy REBOUND (Off:2 Def:3),,
+0020301102,354,5,2,3,9:14 PM,2:43,James STEAL (1 STL),,Murphy Lost Ball Turnover (P3.T11),,
+0020301102,355,5,1,3,9:14 PM,2:38,James Bad Pass Turnover (P3.T8),,Cheaney STEAL (1 STL),,
+0020301102,356,5,2,3,9:14 PM,2:26,Boozer STEAL (2 STL),,Cheaney Lost Ball Turnover (P1.T12),,
+0020301102,357,5,2,3,9:14 PM,2:22,Kapono Lost Ball Turnover (P1.T9),,Cheaney STEAL (2 STL),,
+0020301102,358,9,1,3,9:14 PM,2:14,CAVALIERS Timeout: Regular (Full 3 Short 1),,,,
+0020301102,362,6,2,3,9:17 PM,2:03,Battie S.FOUL (P2.T3),,,,
+0020301102,363,3,11,3,9:17 PM,2:03,,,Cardinal Free Throw 1 of 2 (4 PTS),70 - 69,-1
+0020301102,364,8,0,3,9:17 PM,2:03,SUB: Nailon FOR Kapono,,,,
+0020301102,365,3,12,3,9:17 PM,2:03,,,Cardinal Free Throw 2 of 2 (5 PTS),71 - 69,-2
+0020301102,366,2,3,3,9:18 PM,1:49,MISS Battie 4' Hook Shot,,,,
+0020301102,367,4,0,3,9:18 PM,1:47,,,Richardson REBOUND (Off:0 Def:4),,
+0020301102,368,2,1,3,9:18 PM,1:24,,,MISS Murphy 8' Jump Shot,,
+0020301102,369,4,0,3,9:18 PM,1:22,James REBOUND (Off:2 Def:5),,,,
+0020301102,370,5,9,3,9:19 PM,1:08,CAVALIERS Turnover: 5 Second Violation (T#10),,,,
+0020301102,372,1,61,3,9:19 PM,0:55,,,Richardson 2' Driving Finger Roll (21 PTS),73 - 69,-4
+0020301102,373,2,1,3,9:19 PM,0:49,MISS Nailon 5' Jump Shot,,,,
+0020301102,374,4,0,3,9:19 PM,0:47,,,Robinson REBOUND (Off:1 Def:4),,
+0020301102,375,6,2,3,9:20 PM,0:31,Boozer S.FOUL (P2.T4),,,,
+0020301102,376,3,11,3,9:20 PM,0:31,,,Murphy Free Throw 1 of 2 (16 PTS),74 - 69,-5
+0020301102,377,8,0,3,9:20 PM,0:31,,,SUB: Pietrus FOR Richardson,,
+0020301102,379,3,12,3,9:21 PM,0:31,,,MISS Murphy Free Throw 2 of 2,,
+0020301102,386,4,0,3,9:21 PM,0:31,Boozer REBOUND (Off:2 Def:8),,,,
+0020301102,380,2,42,3,9:21 PM,0:17,MISS James 3' Driving Layup,,,,
+0020301102,381,4,0,3,9:21 PM,0:15,,,Pietrus REBOUND (Off:0 Def:2),,
+0020301102,382,2,1,3,9:21 PM,0:00,,,MISS Robinson 18' Jump Shot,,
+0020301102,383,4,0,3,9:21 PM,0:00,,,Pietrus REBOUND (Off:1 Def:2),,
+0020301102,384,13,0,3,9:21 PM,0:00,,,,74 - 69,-5
+0020301102,388,12,0,4,9:24 PM,12:00,,,,74 - 69,-5
+0020301102,389,6,2,4,9:24 PM,11:42,,,Cheaney S.FOUL (P4.T1),,
+0020301102,390,3,11,4,9:24 PM,11:42,Ilgauskas Free Throw 1 of 2 (17 PTS),,,74 - 70,-4
+0020301102,391,3,12,4,9:25 PM,11:42,MISS Ilgauskas Free Throw 2 of 2,,,,
+0020301102,393,4,0,4,9:25 PM,11:42,Battie REBOUND (Off:1 Def:1),,,,
+0020301102,392,1,4,4,9:25 PM,11:42,Battie  Tip Shot (2 PTS),,,74 - 72,-2
+0020301102,394,2,1,4,9:25 PM,11:28,,,MISS Murphy 17' Jump Shot,,
+0020301102,395,4,0,4,9:25 PM,11:26,Battie REBOUND (Off:1 Def:2),,,,
+0020301102,396,2,1,4,9:26 PM,11:05,MISS Nailon 19' Jump Shot,,,,
+0020301102,397,4,0,4,9:26 PM,11:03,,,Robinson REBOUND (Off:1 Def:5),,
+0020301102,398,1,1,4,9:26 PM,10:48,,,Murphy 17' Jump Shot (18 PTS) (Cheaney 3 AST),76 - 72,-4
+0020301102,399,2,5,4,9:26 PM,10:23,MISS Cleaves 3' Layup,,Murphy BLOCK (1 BLK),,
+0020301102,400,4,0,4,9:26 PM,10:19,,,Robinson REBOUND (Off:1 Def:6),,
+0020301102,401,6,2,4,9:26 PM,10:15,Ilgauskas S.FOUL (P5.T1),,,,
+0020301102,402,3,11,4,9:27 PM,10:15,,,Cardinal Free Throw 1 of 2 (6 PTS),77 - 72,-5
+0020301102,403,8,0,4,9:27 PM,10:15,SUB: Boozer FOR Ilgauskas,,,,
+0020301102,404,8,0,4,9:27 PM,10:15,SUB: James FOR Cleaves,,,,
+0020301102,405,3,12,4,9:27 PM,10:15,,,MISS Cardinal Free Throw 2 of 2,,
+0020301102,406,4,0,4,9:27 PM,10:15,Boozer REBOUND (Off:2 Def:9),,,,
+0020301102,407,2,1,4,9:28 PM,9:59,MISS Boozer 13' Jump Shot,,,,
+0020301102,408,4,0,4,9:28 PM,9:56,,,Robinson REBOUND (Off:1 Def:7),,
+0020301102,409,6,2,4,9:28 PM,9:44,Nailon S.FOUL (P1.T2),,,,
+0020301102,410,8,0,4,9:28 PM,9:44,SUB: Kapono FOR Newble,,,,
+0020301102,411,3,11,4,9:28 PM,9:44,,,Cardinal Free Throw 1 of 2 (7 PTS),78 - 72,-6
+0020301102,412,3,12,4,9:28 PM,9:44,,,Cardinal Free Throw 2 of 2 (8 PTS),79 - 72,-7
+0020301102,413,2,1,4,9:29 PM,9:28,MISS James 17' Jump Shot,,,,
+0020301102,414,4,0,4,9:29 PM,9:27,,,Robinson REBOUND (Off:1 Def:8),,
+0020301102,415,1,5,4,9:29 PM,9:23,,,Dunleavy 1' Layup (20 PTS) (Robinson 6 AST),81 - 72,-9
+0020301102,416,9,1,4,9:29 PM,9:22,CAVALIERS Timeout: Regular (Full 4 Short 1),,,,
+0020301102,418,8,0,4,9:31 PM,9:22,SUB: Newble FOR Nailon,,,,
+0020301102,420,1,5,4,9:31 PM,9:05,Boozer 2' Layup (18 PTS) (James 7 AST),,,81 - 74,-7
+0020301102,422,6,2,4,9:31 PM,9:05,,,Cardinal S.FOUL (P2.T2),,
+0020301102,421,3,10,4,9:32 PM,9:05,Boozer Free Throw 1 of 1 (19 PTS),,,81 - 75,-6
+0020301102,423,1,1,4,9:32 PM,8:48,,,Dunleavy  3PT Jump Shot (23 PTS) (Cheaney 4 AST),84 - 75,-9
+0020301102,424,2,1,4,9:32 PM,8:34,MISS Battie 15' Jump Shot,,,,
+0020301102,426,4,0,4,9:33 PM,8:29,,,Robinson REBOUND (Off:1 Def:9),,
+0020301102,428,2,5,4,9:33 PM,8:19,Newble BLOCK (1 BLK),,MISS Murphy 3' Layup,,
+0020301102,430,4,0,4,9:33 PM,8:19,CAVALIERS Rebound,,,,
+0020301102,429,8,0,4,9:33 PM,8:19,,,SUB: Richardson FOR Cardinal,,
+0020301102,431,8,0,4,9:33 PM,8:19,SUB: Brown FOR Kapono,,,,
+0020301102,432,10,0,4,9:33 PM,8:19,Jump Ball Newble vs. Murphy: Tip to Battie,,,,
+0020301102,435,2,5,4,9:34 PM,7:34,MISS James 1' Layup,,,,
+0020301102,437,4,0,4,9:34 PM,7:31,James REBOUND (Off:3 Def:5),,,,
+0020301102,436,1,5,4,9:34 PM,7:31,James  Layup (26 PTS),,,84 - 77,-7
+0020301102,438,2,1,4,9:34 PM,7:28,,,MISS Cheaney 13' Jump Shot,,
+0020301102,439,4,0,4,9:34 PM,7:26,Newble REBOUND (Off:1 Def:1),,,,
+0020301102,440,1,56,4,9:34 PM,7:21,Boozer  Running Hook Shot (21 PTS) (James 8 AST),,,84 - 79,-5
+0020301102,441,6,2,4,9:35 PM,7:04,Newble S.FOUL (P3.T3),,,,
+0020301102,442,8,0,4,9:35 PM,7:04,,,SUB: Cardinal FOR Robinson,,
+0020301102,443,3,11,4,9:35 PM,7:04,,,Richardson Free Throw 1 of 2 (22 PTS),85 - 79,-6
+0020301102,444,3,12,4,9:35 PM,7:04,,,Richardson Free Throw 2 of 2 (23 PTS),86 - 79,-7
+0020301102,446,2,1,4,9:36 PM,6:49,MISS James 24' 3PT Jump Shot,,,,
+0020301102,447,4,0,4,9:36 PM,6:47,Boozer REBOUND (Off:3 Def:9),,,,
+0020301102,448,6,2,4,9:36 PM,6:46,,,Murphy S.FOUL (P3.T3),,
+0020301102,450,3,11,4,9:36 PM,6:46,Boozer Free Throw 1 of 2 (22 PTS),,,86 - 80,-6
+0020301102,451,3,12,4,9:36 PM,6:46,Boozer Free Throw 2 of 2 (23 PTS),,,86 - 81,-5
+0020301102,455,6,2,4,9:37 PM,6:29,Battie S.FOUL (P3.T4),,,,
+0020301102,456,3,11,4,9:37 PM,6:29,,,Richardson Free Throw 1 of 2 (24 PTS),87 - 81,-6
+0020301102,457,3,12,4,9:37 PM,6:29,,,Richardson Free Throw 2 of 2 (25 PTS),88 - 81,-7
+0020301102,459,6,2,4,9:38 PM,6:17,,,Murphy S.FOUL (P4.T4),,
+0020301102,460,3,11,4,9:38 PM,6:17,MISS Boozer Free Throw 1 of 2,,,,
+0020301102,461,4,1,4,9:38 PM,6:17,CAVALIERS Rebound,,,,
+0020301102,462,8,0,4,9:38 PM,6:17,,,SUB: Robinson FOR Cheaney,,
+0020301102,463,3,12,4,9:38 PM,6:17,Boozer Free Throw 2 of 2 (24 PTS),,,88 - 82,-6
+0020301102,464,1,8,4,9:39 PM,6:00,,,Robinson 1' Slam Dunk (7 PTS) (Cardinal 1 AST),90 - 82,-8
+0020301102,465,2,1,4,9:39 PM,5:37,MISS Boozer 16' Jump Shot,,,,
+0020301102,466,4,0,4,9:39 PM,5:35,,,Dunleavy REBOUND (Off:0 Def:4),,
+0020301102,467,2,1,4,9:40 PM,5:20,,,MISS Richardson 7' Jump Shot,,
+0020301102,468,4,0,4,9:40 PM,5:18,Battie REBOUND (Off:1 Def:3),,,,
+0020301102,469,1,1,4,9:40 PM,5:04,James 25' 3PT Jump Shot (29 PTS),,,90 - 85,-5
+0020301102,470,1,1,4,9:40 PM,4:45,,,Robinson 24' 3PT Jump Shot (10 PTS) (Richardson 5 AST),93 - 85,-8
+0020301102,471,9,1,4,9:40 PM,4:38,CAVALIERS Timeout: Regular (Full 5 Short 1),,,,
+0020301102,475,1,1,4,9:43 PM,4:18,Brown  3PT Jump Shot (3 PTS) (James 9 AST),,,93 - 88,-5
+0020301102,476,2,1,4,9:43 PM,3:54,,,MISS Richardson 25' 3PT Jump Shot,,
+0020301102,477,4,0,4,9:43 PM,3:52,,,Dunleavy REBOUND (Off:1 Def:4),,
+0020301102,478,2,1,4,9:44 PM,3:44,,,MISS Robinson 24' 3PT Jump Shot,,
+0020301102,479,4,0,4,9:44 PM,3:41,,,Murphy REBOUND (Off:3 Def:3),,
+0020301102,480,1,46,4,9:44 PM,3:24,,,Richardson 5' Running Jump Shot (27 PTS),95 - 88,-7
+0020301102,481,2,1,4,9:44 PM,3:00,MISS Newble 15' Jump Shot,,,,
+0020301102,482,4,0,4,9:44 PM,2:59,,,Cardinal REBOUND (Off:0 Def:5),,
+0020301102,484,7,2,4,9:45 PM,2:40,Battie Violation:Defensive Goaltending,,,,
+0020301102,483,1,42,4,9:45 PM,2:40,,,Richardson 1' Driving Layup (29 PTS),97 - 88,-9
+0020301102,485,2,1,4,9:45 PM,2:29,MISS Brown  3PT Jump Shot,,,,
+0020301102,486,4,0,4,9:45 PM,2:27,Battie REBOUND (Off:2 Def:3),,,,
+0020301102,487,6,2,4,9:45 PM,2:26,,,Murphy S.FOUL (P5.PN),,
+0020301102,488,9,4,4,9:45 PM,2:26,,,,,
+0020301102,492,3,11,4,9:48 PM,2:26,Battie Free Throw 1 of 2 (3 PTS),,,97 - 89,-8
+0020301102,493,3,12,4,9:48 PM,2:26,Battie Free Throw 2 of 2 (4 PTS),,,97 - 90,-7
+0020301102,494,5,1,4,9:48 PM,2:09,Battie STEAL (1 STL),,Dunleavy Bad Pass Turnover (P1.T13),,
+0020301102,495,2,1,4,9:49 PM,2:02,MISS James 6' Jump Shot,,Cardinal BLOCK (2 BLK),,
+0020301102,496,4,0,4,9:49 PM,2:02,CAVALIERS Rebound,,,,
+0020301102,497,8,0,4,9:49 PM,2:02,SUB: Ilgauskas FOR Battie,,,,
+0020301102,498,2,1,4,9:49 PM,1:45,MISS James 25' 3PT Jump Shot,,,,
+0020301102,499,4,0,4,9:49 PM,1:45,Boozer REBOUND (Off:4 Def:9),,,,
+0020301102,500,6,2,4,9:49 PM,1:45,,,Robinson S.FOUL (P4.PN),,
+0020301102,501,3,11,4,9:49 PM,1:45,Boozer Free Throw 1 of 2 (25 PTS),,,97 - 91,-6
+0020301102,502,8,0,4,9:50 PM,1:45,SUB: Battie FOR Ilgauskas,,,,
+0020301102,503,3,12,4,9:50 PM,1:45,Boozer Free Throw 2 of 2 (26 PTS),,,97 - 92,-5
+0020301102,504,5,2,4,9:50 PM,1:23,Brown STEAL (1 STL),,Cardinal Lost Ball Turnover (P2.T14),,
+0020301102,505,1,1,4,9:51 PM,1:13,James 25' 3PT Jump Shot (32 PTS),,,97 - 95,-2
+0020301102,506,1,1,4,9:51 PM,0:54,,,Richardson 20' Jump Shot (31 PTS),99 - 95,-4
+0020301102,508,1,1,4,9:51 PM,0:47,Newble 3' Jump Shot (8 PTS) (James 10 AST),,,99 - 97,-2
+0020301102,509,6,2,4,9:51 PM,0:47,,,Murphy S.FOUL (P6.PN),,
+0020301102,510,8,0,4,9:52 PM,0:47,,,SUB: Cheaney FOR Murphy,,
+0020301102,511,3,10,4,9:52 PM,0:47,Newble Free Throw 1 of 1 (9 PTS),,,99 - 98,-1
+0020301102,512,6,1,4,9:52 PM,0:31,Brown P.FOUL (P2.PN),,,,
+0020301102,513,3,11,4,9:53 PM,0:31,,,Richardson Free Throw 1 of 2 (32 PTS),100 - 98,-2
+0020301102,514,8,0,4,9:53 PM,0:31,SUB: Ilgauskas FOR Battie,,,,
+0020301102,515,3,12,4,9:53 PM,0:31,,,Richardson Free Throw 2 of 2 (33 PTS),101 - 98,-3
+0020301102,516,1,42,4,9:53 PM,0:18,James 1' Driving Layup (34 PTS),,,101 - 100,-1
+0020301102,517,6,1,4,9:53 PM,0:16,Brown P.FOUL (P3.PN),,,,
+0020301102,518,3,11,4,9:54 PM,0:16,,,Richardson Free Throw 1 of 2 (34 PTS),102 - 100,-2
+0020301102,519,3,12,4,9:54 PM,0:16,,,Richardson Free Throw 2 of 2 (35 PTS),103 - 100,-3
+0020301102,520,9,1,4,9:54 PM,0:16,CAVALIERS Timeout: Regular (Full 6 Short 1),,,,
+0020301102,522,8,0,4,9:56 PM,0:16,SUB: Kapono FOR Newble,,,,
+0020301102,524,2,1,4,9:56 PM,0:00,MISS Ilgauskas 26' 3PT Jump Shot,,,,
+0020301102,525,4,0,4,9:56 PM,0:00,Brown REBOUND (Off:1 Def:0),,,,
+0020301102,526,2,1,4,9:56 PM,0:00,MISS Brown 7' Jump Shot,,,,
+0020301102,527,4,0,4,9:56 PM,0:00,CAVALIERS Rebound,,,,
+0020301102,528,13,0,4,9:56 PM,0:00,,,,103 - 100,-3

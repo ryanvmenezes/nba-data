@@ -1,0 +1,491 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000191,0,12,0,1,2:41 PM,12:00,,,,,
+0020000191,1,10,0,1,2:41 PM,12:00,Jump Ball Divac vs. Ewing: Tip to Webber,,,,
+0020000191,2,2,44,1,2:41 PM,11:38,MISS Divac  Reverse Layup,,,,
+0020000191,3,4,0,1,2:41 PM,11:37,Divac REBOUND (Off:1 Def:0),,,,
+0020000191,4,2,5,1,2:41 PM,11:36,MISS Divac  Layup,,Barry BLOCK (1 BLK),,
+0020000191,5,4,0,1,2:41 PM,11:35,Divac REBOUND (Off:2 Def:0),,,,
+0020000191,6,2,59,1,2:41 PM,11:34,MISS Divac 3' Finger Roll,,,,
+0020000191,7,4,0,1,2:41 PM,11:33,Divac REBOUND (Off:3 Def:0),,,,
+0020000191,8,6,2,1,2:42 PM,11:32,,,Baker S.FOUL (P1.T1),,
+0020000191,9,3,11,1,2:42 PM,11:32,Divac Free Throw 1 of 2 (1 PTS),,,0 - 1,1
+0020000191,10,3,12,1,2:42 PM,11:32,MISS Divac Free Throw 2 of 2,,,,
+0020000191,11,4,0,1,2:42 PM,11:31,,,Ewing REBOUND (Off:0 Def:1),,
+0020000191,12,2,1,1,2:42 PM,11:18,,,MISS Patterson 17' Jump Shot,,
+0020000191,13,4,0,1,2:42 PM,11:17,,,Ewing REBOUND (Off:1 Def:1),,
+0020000191,14,5,1,1,2:43 PM,11:04,Webber STEAL (1 STL),,Patterson Bad Pass Turnover (P1.T1),,
+0020000191,15,2,1,1,2:43 PM,10:57,MISS Christie 25' 3PT Jump Shot,,,,
+0020000191,16,4,0,1,2:43 PM,10:56,Webber REBOUND (Off:1 Def:0),,,,
+0020000191,17,1,7,1,2:43 PM,10:55,Webber  Dunk (2 PTS),,,0 - 3,3
+0020000191,19,7,6,1,2:43 PM,10:40,Christie Violation:Double Lane,,,,
+0020000191,20,2,1,1,2:43 PM,10:28,,,MISS Patterson 21' Jump Shot,,
+0020000191,21,4,0,1,2:43 PM,10:26,Williams REBOUND (Off:0 Def:1),,,,
+0020000191,22,6,4,1,2:43 PM,10:20,Stojakovic OFF.Foul (P1),,,,
+0020000191,23,5,5,1,2:43 PM,10:20,Stojakovic Foul Turnover (P1.T1),,,,
+0020000191,24,5,2,1,2:44 PM,10:04,Williams STEAL (1 STL),,Patterson Lost Ball Turnover (P2.T2),,
+0020000191,25,2,5,1,2:44 PM,9:57,MISS Williams  Layup,,,,
+0020000191,26,4,0,1,2:44 PM,9:55,,,SuperSonics Rebound,,
+0020000191,27,1,3,1,2:45 PM,9:36,,,Ewing 5' Hook Shot (2 PTS),2 - 3,1
+0020000191,28,1,5,1,2:45 PM,9:16,Williams  Layup (2 PTS) (Webber 1 AST),,,2 - 5,3
+0020000191,29,1,44,1,2:45 PM,9:03,,,Baker  Reverse Layup (2 PTS),4 - 5,1
+0020000191,30,1,42,1,2:45 PM,8:48,Divac  Driving Layup (3 PTS) (Webber 2 AST),,,4 - 7,3
+0020000191,31,2,5,1,2:45 PM,8:39,,,MISS Payton  Layup,,
+0020000191,32,4,0,1,2:46 PM,8:37,Webber REBOUND (Off:1 Def:1),,,,
+0020000191,33,1,1,1,2:46 PM,8:29,Stojakovic 20' Jump Shot (2 PTS) (Williams 1 AST),,,4 - 9,5
+0020000191,35,2,42,1,2:46 PM,8:12,Webber BLOCK (1 BLK),,MISS Baker  Driving Layup,,
+0020000191,36,4,0,1,2:46 PM,8:10,Webber REBOUND (Off:1 Def:2),,,,
+0020000191,37,1,1,1,2:46 PM,8:05,Stojakovic 15' Jump Shot (4 PTS) (Williams 2 AST),,,4 - 11,7
+0020000191,38,9,1,1,2:46 PM,8:02,,,SuperSonics Timeout: Regular (Reg.1 Short 0),,
+0020000191,40,2,1,1,2:48 PM,7:49,,,MISS Payton 26' 3PT Jump Shot,,
+0020000191,41,4,0,1,2:48 PM,7:47,,,Barry REBOUND (Off:1 Def:0),,
+0020000191,42,2,1,1,2:49 PM,7:35,,,MISS Barry 25' 3PT Jump Shot,,
+0020000191,43,4,0,1,2:49 PM,7:33,,,Payton REBOUND (Off:1 Def:0),,
+0020000191,44,2,1,1,2:49 PM,7:28,,,MISS Patterson 6' Jump Shot,,
+0020000191,45,4,0,1,2:49 PM,7:25,,,Baker REBOUND (Off:1 Def:0),,
+0020000191,46,1,5,1,2:49 PM,7:24,,,Baker  Layup (4 PTS),6 - 11,5
+0020000191,47,2,1,1,2:49 PM,6:59,MISS Stojakovic  3PT Jump Shot,,,,
+0020000191,48,4,0,1,2:49 PM,6:57,,,Baker REBOUND (Off:1 Def:1),,
+0020000191,49,2,43,1,2:49 PM,6:53,,,MISS Patterson  Alley Oop Layup,,
+0020000191,50,4,0,1,2:49 PM,6:52,Webber REBOUND (Off:1 Def:3),,,,
+0020000191,51,1,5,1,2:49 PM,6:44,Stojakovic  Layup (6 PTS) (Christie 1 AST),,,6 - 13,7
+0020000191,52,1,5,1,2:50 PM,6:23,,,Patterson  Layup (2 PTS) (Barry 1 AST),8 - 13,5
+0020000191,53,2,1,1,2:50 PM,6:15,MISS Williams 25' 3PT Jump Shot,,,,
+0020000191,54,4,0,1,2:50 PM,6:13,,,Ewing REBOUND (Off:1 Def:2),,
+0020000191,55,1,1,1,2:50 PM,5:57,,,Payton 10' Jump Shot (2 PTS),10 - 13,3
+0020000191,56,2,1,1,2:50 PM,5:49,MISS Divac 18' Jump Shot,,,,
+0020000191,57,4,0,1,2:50 PM,5:47,,,Ewing REBOUND (Off:1 Def:3),,
+0020000191,58,1,5,1,2:51 PM,5:30,,,Baker  Layup (6 PTS),12 - 13,1
+0020000191,59,2,1,1,2:51 PM,5:09,MISS Webber 5' Jump Shot,,,,
+0020000191,60,4,0,1,2:51 PM,5:08,Divac REBOUND (Off:4 Def:0),,,,
+0020000191,61,1,5,1,2:51 PM,5:06,Divac  Layup (5 PTS),,,12 - 15,3
+0020000191,62,2,1,1,2:51 PM,4:44,,,MISS Barry 25' 3PT Jump Shot,,
+0020000191,63,4,0,1,2:52 PM,4:43,KINGS Rebound,,,,
+0020000191,64,6,3,1,2:52 PM,4:35,,,Patterson L.B.FOUL (P1.T2),,
+0020000191,65,6,2,1,2:52 PM,4:35,,,Ewing S.FOUL (P1.T3),,
+0020000191,66,3,11,1,2:52 PM,4:35,MISS Divac Free Throw 1 of 2,,,,
+0020000191,67,4,1,1,2:52 PM,4:35,KINGS Rebound,,,,
+0020000191,68,3,12,1,2:52 PM,4:35,Divac Free Throw 2 of 2 (6 PTS),,,12 - 16,4
+0020000191,69,1,42,1,2:53 PM,4:22,,,Payton  Driving Layup (4 PTS),14 - 16,2
+0020000191,70,1,1,1,2:53 PM,4:09,Stojakovic 15' Jump Shot (8 PTS) (Christie 2 AST),,,14 - 18,4
+0020000191,71,5,1,1,2:53 PM,3:56,Divac STEAL (1 STL),,Ewing Bad Pass Turnover (P1.T3),,
+0020000191,72,5,1,1,2:53 PM,3:52,Webber Bad Pass Turnover (P1.T2),,Barry STEAL (1 STL),,
+0020000191,73,2,1,1,2:53 PM,3:47,,,MISS Baker 5' Jump Shot,,
+0020000191,74,4,0,1,2:53 PM,3:45,Webber REBOUND (Off:1 Def:4),,,,
+0020000191,75,1,7,1,2:53 PM,3:39,Webber  Dunk (4 PTS) (Christie 3 AST),,,14 - 20,6
+0020000191,76,5,1,1,2:54 PM,3:20,Webber STEAL (2 STL),,Patterson Bad Pass Turnover (P3.T4),,
+0020000191,77,2,1,1,2:54 PM,3:13,MISS Christie 24' 3PT Jump Shot,,,,
+0020000191,78,4,0,1,2:54 PM,3:10,,,Ewing REBOUND (Off:1 Def:4),,
+0020000191,79,2,1,1,2:54 PM,3:04,,,MISS Payton 15' Jump Shot,,
+0020000191,80,4,0,1,2:54 PM,3:02,Divac REBOUND (Off:4 Def:1),,,,
+0020000191,81,1,1,1,2:54 PM,2:57,Stojakovic 25' 3PT Jump Shot (11 PTS) (Williams 3 AST),,,14 - 23,9
+0020000191,82,9,2,1,2:54 PM,2:49,,,SuperSonics Timeout: Short (Reg.1 Short 1),,
+0020000191,84,9,1,1,2:55 PM,2:49,KINGS Timeout: Regular (Full 1 Short 0),,,,
+0020000191,85,8,0,1,2:57 PM,2:49,,,SUB: Mason FOR Barry,,
+0020000191,86,1,1,1,2:57 PM,2:38,,,Baker 21' Jump Shot (8 PTS) (Payton 1 AST),16 - 23,7
+0020000191,87,2,1,1,2:58 PM,2:11,MISS Williams 15' Jump Shot,,,,
+0020000191,88,4,0,1,2:58 PM,2:09,Webber REBOUND (Off:2 Def:4),,,,
+0020000191,89,2,1,1,2:58 PM,2:07,MISS Webber 16' Jump Shot,,,,
+0020000191,90,4,0,1,2:58 PM,2:05,,,Patterson REBOUND (Off:0 Def:1),,
+0020000191,91,2,1,1,2:58 PM,1:55,,,MISS Mason 18' Jump Shot,,
+0020000191,92,4,0,1,2:58 PM,1:54,Webber REBOUND (Off:2 Def:5),,,,
+0020000191,93,5,1,1,2:58 PM,1:43,Divac Bad Pass Turnover (P1.T3),,,,
+0020000191,94,2,1,1,2:59 PM,1:34,,,MISS Ewing 19' Jump Shot,,
+0020000191,95,4,0,1,2:59 PM,1:33,Webber REBOUND (Off:2 Def:6),,,,
+0020000191,96,6,2,1,2:59 PM,1:27,,,Patterson S.FOUL (P2.T4),,
+0020000191,97,3,11,1,2:59 PM,1:27,Stojakovic Free Throw 1 of 2 (12 PTS),,,16 - 24,8
+0020000191,98,8,0,1,2:59 PM,1:27,,,SUB: Wolkowyski FOR Ewing,,
+0020000191,99,8,0,1,2:59 PM,1:27,SUB: Pollard FOR Divac,,,,
+0020000191,100,3,12,1,3:00 PM,1:27,Stojakovic Free Throw 2 of 2 (13 PTS),,,16 - 25,9
+0020000191,101,2,1,1,3:00 PM,1:11,,,MISS Payton 18' Jump Shot,,
+0020000191,102,4,0,1,3:00 PM,1:08,Webber REBOUND (Off:2 Def:7),,,,
+0020000191,103,1,49,1,3:00 PM,1:05,Christie  Driving Dunk (2 PTS) (Williams 4 AST),,,16 - 27,11
+0020000191,104,5,2,1,3:00 PM,0:45,Webber STEAL (3 STL),,Baker Lost Ball Turnover (P1.T5),,
+0020000191,105,1,42,1,3:00 PM,0:42,Williams  Driving Layup (4 PTS) (Pollard 1 AST),,,16 - 29,13
+0020000191,106,1,1,1,3:01 PM,0:27,,,Patterson 4' Jump Shot (4 PTS),18 - 29,11
+0020000191,107,1,1,1,3:01 PM,0:07,Webber 16' Jump Shot (6 PTS) (Williams 5 AST),,,18 - 31,13
+0020000191,108,5,1,1,3:01 PM,0:04,Stojakovic STEAL (1 STL),,Mason Bad Pass Turnover (P1.T6),,
+0020000191,109,2,1,1,3:01 PM,0:00,MISS Christie 19' Jump Shot,,,,
+0020000191,111,4,0,1,3:01 PM,0:00,KINGS Rebound,,,,
+0020000191,110,13,0,1,3:01 PM,0:00,,,,18 - 31,13
+0020000191,113,12,0,2,3:04 PM,12:00,,,,18 - 31,13
+0020000191,114,6,2,2,3:05 PM,11:51,Pollard S.FOUL (P1.T1),,,,
+0020000191,115,3,11,2,3:05 PM,11:51,,,Payton Free Throw 1 of 2 (5 PTS),19 - 31,12
+0020000191,116,3,12,2,3:05 PM,11:51,,,MISS Payton Free Throw 2 of 2,,
+0020000191,117,4,0,2,3:05 PM,11:51,Stojakovic REBOUND (Off:0 Def:1),,,,
+0020000191,118,1,1,2,3:05 PM,11:30,Webber 17' Jump Shot (8 PTS) (Stojakovic 1 AST),,,19 - 33,14
+0020000191,119,2,45,2,3:06 PM,11:07,,,MISS Baker 3' Jump Shot,,
+0020000191,120,4,0,2,3:06 PM,11:07,,,Baker REBOUND (Off:2 Def:1),,
+0020000191,121,6,2,2,3:06 PM,11:07,Webber S.FOUL (P1.T2),,,,
+0020000191,122,3,11,2,3:06 PM,11:07,,,Baker Free Throw 1 of 2 (9 PTS),20 - 33,13
+0020000191,123,3,12,2,3:06 PM,11:07,,,Baker Free Throw 2 of 2 (10 PTS),21 - 33,12
+0020000191,125,5,4,2,3:07 PM,10:53,Webber Traveling Turnover (P2.T4),,,,
+0020000191,126,1,1,2,3:07 PM,10:37,,,Davis  3PT Jump Shot (3 PTS) (Baker 1 AST),24 - 33,9
+0020000191,127,1,44,2,3:07 PM,10:17,Jackson  Reverse Layup (2 PTS),,,24 - 35,11
+0020000191,128,2,1,2,3:08 PM,9:59,Webber BLOCK (2 BLK),,MISS Baker 10' Jump Shot,,
+0020000191,129,4,0,2,3:08 PM,9:58,Christie REBOUND (Off:0 Def:1),,,,
+0020000191,130,5,1,2,3:08 PM,9:52,Jackson Bad Pass Turnover (P1.T5),,Davis STEAL (1 STL),,
+0020000191,131,1,42,2,3:08 PM,9:48,,,Payton  Driving Layup (7 PTS),26 - 35,9
+0020000191,132,2,1,2,3:08 PM,9:21,MISS Jackson 20' Jump Shot,,,,
+0020000191,133,4,0,2,3:08 PM,9:19,Pollard REBOUND (Off:1 Def:0),,,,
+0020000191,139,2,53,2,3:08 PM,9:19,MISS Pollard  Tip Shot,,,,
+0020000191,143,4,0,2,3:08 PM,9:18,Pollard REBOUND (Off:2 Def:0),,,,
+0020000191,134,1,3,2,3:09 PM,9:02,Pollard 5' Hook Shot (2 PTS) (Webber 3 AST),,,26 - 37,11
+0020000191,135,6,2,2,3:09 PM,9:02,,,Davis S.FOUL (P1.T1),,
+0020000191,136,3,10,2,3:09 PM,9:02,Pollard Free Throw 1 of 1 (3 PTS),,,26 - 38,12
+0020000191,137,2,1,2,3:09 PM,8:51,,,MISS Payton 18' Jump Shot,,
+0020000191,138,4,0,2,3:09 PM,8:49,Stojakovic REBOUND (Off:0 Def:2),,,,
+0020000191,140,2,1,2,3:10 PM,8:35,MISS Webber 19' Jump Shot,,,,
+0020000191,142,4,0,2,3:10 PM,8:33,,,Payton REBOUND (Off:1 Def:1),,
+0020000191,144,6,4,2,3:10 PM,8:26,,,Baker OFF.Foul (P2),,
+0020000191,145,5,5,2,3:10 PM,8:26,,,Baker Foul Turnover (P2.T7),,
+0020000191,146,9,4,2,3:10 PM,8:26,,,,,
+0020000191,148,8,0,2,3:12 PM,8:26,,,SUB: Ewing FOR Baker,,
+0020000191,149,8,0,2,3:12 PM,8:26,,,SUB: Barry FOR Payton,,
+0020000191,150,8,0,2,3:12 PM,8:26,SUB: Barry FOR Christie,,,,
+0020000191,151,1,1,2,3:13 PM,8:11,Webber 19' Jump Shot (10 PTS),,,26 - 40,14
+0020000191,152,2,1,2,3:13 PM,7:58,,,MISS Barry 19' Jump Shot,,
+0020000191,153,4,0,2,3:13 PM,7:56,Webber REBOUND (Off:2 Def:8),,,,
+0020000191,154,1,1,2,3:13 PM,7:49,Stojakovic 17' Jump Shot (15 PTS) (Jackson 1 AST),,,26 - 42,16
+0020000191,155,1,56,2,3:13 PM,7:29,,,Wolkowyski 6' Running Hook Shot (2 PTS),28 - 42,14
+0020000191,156,1,1,2,3:13 PM,7:17,Webber 17' Jump Shot (12 PTS) (Jackson 2 AST),,,28 - 44,16
+0020000191,157,2,56,2,3:14 PM,6:59,,,MISS Wolkowyski 6' Running Hook Shot,,
+0020000191,158,4,0,2,3:14 PM,6:56,Pollard REBOUND (Off:2 Def:1),,,,
+0020000191,159,2,1,2,3:14 PM,6:42,MISS Stojakovic 20' Jump Shot,,,,
+0020000191,160,4,0,2,3:14 PM,6:40,,,Wolkowyski REBOUND (Off:0 Def:1),,
+0020000191,161,1,1,2,3:14 PM,6:29,,,Barry 25' 3PT Jump Shot (3 PTS) (Davis 1 AST),31 - 44,13
+0020000191,162,2,1,2,3:15 PM,6:09,MISS Barry 20' Jump Shot,,,,
+0020000191,163,4,0,2,3:15 PM,6:07,,,Davis REBOUND (Off:0 Def:1),,
+0020000191,164,2,1,2,3:15 PM,5:51,,,MISS Wolkowyski 9' Jump Shot,,
+0020000191,166,4,0,2,3:15 PM,5:49,,,Ewing REBOUND (Off:2 Def:4),,
+0020000191,165,2,4,2,3:15 PM,5:49,,,MISS Ewing  Tip Shot,,
+0020000191,167,4,0,2,3:15 PM,5:48,Pollard REBOUND (Off:2 Def:2),,,,
+0020000191,168,2,44,2,3:15 PM,5:42,MISS Jackson  Reverse Layup,,,,
+0020000191,169,4,0,2,3:15 PM,5:39,,,Davis REBOUND (Off:0 Def:2),,
+0020000191,170,1,1,2,3:15 PM,5:26,,,Ewing 15' Jump Shot (4 PTS) (Davis 2 AST),33 - 44,11
+0020000191,171,9,1,2,3:15 PM,5:16,KINGS Timeout: Regular (Full 2 Short 0),,,,
+0020000191,173,8,0,2,3:17 PM,5:16,SUB: Divac FOR Stojakovic,,,,
+0020000191,174,8,0,2,3:17 PM,5:16,SUB: Turkoglu FOR Webber,,,,
+0020000191,175,2,1,2,3:18 PM,5:07,MISS Barry 22' Jump Shot,,,,
+0020000191,176,4,0,2,3:18 PM,5:05,,,Davis REBOUND (Off:0 Def:3),,
+0020000191,177,6,2,2,3:18 PM,5:00,Barry S.FOUL (P1.T3),,,,
+0020000191,178,3,11,2,3:18 PM,5:00,,,Davis Free Throw 1 of 2 (4 PTS),34 - 44,10
+0020000191,179,8,0,2,3:18 PM,5:00,SUB: Williams FOR Jackson,,,,
+0020000191,180,3,12,2,3:18 PM,5:00,,,Davis Free Throw 2 of 2 (5 PTS),35 - 44,9
+0020000191,181,2,1,2,3:19 PM,4:39,MISS Barry 23' Jump Shot,,,,
+0020000191,182,4,0,2,3:19 PM,4:37,,,Mason REBOUND (Off:0 Def:1),,
+0020000191,183,7,6,2,3:19 PM,4:32,Pollard Violation:Double Lane,,,,
+0020000191,184,8,0,2,3:19 PM,4:32,,,SUB: Baker FOR Ewing,,
+0020000191,185,6,2,2,3:20 PM,4:27,Williams S.FOUL (P1.T4),,,,
+0020000191,186,3,11,2,3:20 PM,4:27,,,Davis Free Throw 1 of 2 (6 PTS),36 - 44,8
+0020000191,187,3,12,2,3:20 PM,4:27,,,Davis Free Throw 2 of 2 (7 PTS),37 - 44,7
+0020000191,188,6,1,2,3:21 PM,4:18,,,Baker P.FOUL (P3.T2),,
+0020000191,189,8,0,2,3:21 PM,4:18,,,SUB: Payton FOR Davis,,
+0020000191,190,8,0,2,3:21 PM,4:18,,,SUB: Ewing FOR Baker,,
+0020000191,191,8,0,2,3:21 PM,4:18,SUB: Webber FOR Pollard,,,,
+0020000191,192,8,0,2,3:21 PM,4:18,SUB: Christie FOR Barry,,,,
+0020000191,193,2,1,2,3:21 PM,4:03,MISS Williams 19' Jump Shot,,,,
+0020000191,194,4,0,2,3:21 PM,4:01,,,Ewing REBOUND (Off:2 Def:5),,
+0020000191,195,2,46,2,3:22 PM,3:56,Turkoglu BLOCK (1 BLK),,MISS Barry 7' Running Jump Shot,,
+0020000191,196,4,0,2,3:22 PM,3:53,Turkoglu REBOUND (Off:0 Def:1),,,,
+0020000191,197,1,1,2,3:22 PM,3:47,Divac 19' Jump Shot (8 PTS) (Christie 4 AST),,,37 - 46,9
+0020000191,198,1,1,2,3:22 PM,3:24,,,Ewing 19' Jump Shot (6 PTS) (Payton 2 AST),39 - 46,7
+0020000191,199,6,1,2,3:22 PM,3:12,,,Ewing P.FOUL (P2.T3),,
+0020000191,200,8,0,2,3:23 PM,3:12,,,SUB: Patterson FOR Mason,,
+0020000191,201,1,5,2,3:23 PM,3:10,Webber  Layup (14 PTS) (Christie 5 AST),,,39 - 48,9
+0020000191,202,6,2,2,3:23 PM,3:04,Turkoglu S.FOUL (P1.PN),,,,
+0020000191,203,3,11,2,3:23 PM,3:04,,,Barry Free Throw 1 of 2 (4 PTS),40 - 48,8
+0020000191,204,3,12,2,3:23 PM,3:04,,,Barry Free Throw 2 of 2 (5 PTS),41 - 48,7
+0020000191,205,2,1,2,3:24 PM,2:47,MISS Divac 20' Jump Shot,,,,
+0020000191,206,4,0,2,3:24 PM,2:45,,,SuperSonics Rebound,,
+0020000191,207,9,1,2,3:24 PM,2:44,,,SuperSonics Timeout: Regular (Reg.2 Short 1),,
+0020000191,209,6,2,2,3:26 PM,2:33,Webber S.FOUL (P2.PN),,,,
+0020000191,210,3,11,2,3:26 PM,2:33,,,Ewing Free Throw 1 of 2 (7 PTS),42 - 48,6
+0020000191,211,3,12,2,3:26 PM,2:33,,,Ewing Free Throw 2 of 2 (8 PTS),43 - 48,5
+0020000191,212,5,2,2,3:27 PM,2:22,Webber Lost Ball Turnover (P3.T6),,Patterson STEAL (1 STL),,
+0020000191,213,1,5,2,3:27 PM,2:15,,,Payton  Layup (9 PTS) (Patterson 1 AST),45 - 48,3
+0020000191,214,6,1,2,3:27 PM,2:06,,,Barry P.FOUL (P1.T4),,
+0020000191,215,8,0,2,3:27 PM,2:06,SUB: Stojakovic FOR Turkoglu,,,,
+0020000191,216,1,5,2,3:27 PM,2:02,Webber 4' Layup (16 PTS) (Williams 6 AST),,,45 - 50,5
+0020000191,217,2,42,2,3:28 PM,1:43,,,MISS Payton  Driving Layup,,
+0020000191,219,4,0,2,3:28 PM,1:42,,,Patterson REBOUND (Off:1 Def:1),,
+0020000191,218,2,4,2,3:28 PM,1:42,,,MISS Patterson  Tip Shot,,
+0020000191,220,4,0,2,3:28 PM,1:41,,,SuperSonics Rebound,,
+0020000191,221,5,2,2,3:28 PM,1:31,Christie STEAL (1 STL),,Payton Lost Ball Turnover (P1.T8),,
+0020000191,222,5,1,2,3:28 PM,1:24,Williams Bad Pass Turnover (P1.T7),,Payton STEAL (1 STL),,
+0020000191,223,1,47,2,3:28 PM,1:17,,,Payton 13' Turnaround Jump Shot (11 PTS),47 - 50,3
+0020000191,224,1,1,2,3:29 PM,0:59,Divac 5' Jump Shot (10 PTS) (Williams 7 AST),,,47 - 52,5
+0020000191,225,1,42,2,3:29 PM,0:48,,,Payton  Driving Layup (13 PTS),49 - 52,3
+0020000191,226,6,1,2,3:29 PM,0:42,,,Payton P.FOUL (P1.PN),,
+0020000191,227,3,11,2,3:29 PM,0:42,Christie Free Throw 1 of 2 (3 PTS),,,49 - 53,4
+0020000191,228,3,12,2,3:30 PM,0:42,Christie Free Throw 2 of 2 (4 PTS),,,49 - 54,5
+0020000191,229,1,1,2,3:30 PM,0:27,,,Payton 9' Jump Shot (15 PTS),51 - 54,3
+0020000191,230,5,1,2,3:30 PM,0:25,Divac Bad Pass Turnover (P2.T8),,Payton STEAL (2 STL),,
+0020000191,231,1,5,2,3:30 PM,0:23,,,Patterson  Layup (6 PTS) (Payton 3 AST),53 - 54,1
+0020000191,232,13,0,2,3:31 PM,0:00,,,,53 - 54,1
+0020000191,234,12,0,3,3:47 PM,12:00,,,,53 - 54,1
+0020000191,235,2,1,3,3:47 PM,11:49,,,MISS Payton 20' Jump Shot,,
+0020000191,236,4,0,3,3:47 PM,11:48,Divac REBOUND (Off:4 Def:2),,,,
+0020000191,237,1,1,3,3:47 PM,11:31,Christie 20' Jump Shot (6 PTS) (Divac 1 AST),,,53 - 56,3
+0020000191,238,2,1,3,3:47 PM,11:14,,,MISS Baker 19' Jump Shot,,
+0020000191,239,4,0,3,3:47 PM,11:11,Webber REBOUND (Off:2 Def:9),,,,
+0020000191,240,2,1,3,3:48 PM,11:04,MISS Webber 17' Jump Shot,,,,
+0020000191,241,4,0,3,3:48 PM,11:02,,,Patterson REBOUND (Off:1 Def:2),,
+0020000191,242,2,1,3,3:48 PM,10:57,,,MISS Barry 21' Jump Shot,,
+0020000191,243,4,0,3,3:48 PM,10:55,Divac REBOUND (Off:4 Def:3),,,,
+0020000191,244,1,1,3,3:48 PM,10:44,Christie 24' 3PT Jump Shot (9 PTS),,,53 - 59,6
+0020000191,245,2,1,3,3:49 PM,10:20,,,MISS Ewing 20' Jump Shot,,
+0020000191,246,4,0,3,3:49 PM,10:19,Williams REBOUND (Off:0 Def:2),,,,
+0020000191,247,1,1,3,3:49 PM,10:08,Williams 21' Jump Shot (6 PTS),,,53 - 61,8
+0020000191,248,9,1,3,3:49 PM,10:06,,,SuperSonics Timeout: Regular (Reg.3 Short 1),,
+0020000191,250,2,5,3,3:51 PM,9:49,,,MISS Patterson 3' Layup,,
+0020000191,252,4,0,3,3:51 PM,9:48,,,Ewing REBOUND (Off:3 Def:5),,
+0020000191,251,1,4,3,3:51 PM,9:48,,,Ewing  Tip Shot (10 PTS),55 - 61,6
+0020000191,253,1,1,3,3:52 PM,9:27,Stojakovic 20' Jump Shot (17 PTS) (Williams 8 AST),,,55 - 63,8
+0020000191,254,1,44,3,3:52 PM,9:10,,,Payton  Reverse Layup (17 PTS) (Ewing 1 AST),57 - 63,6
+0020000191,255,1,1,3,3:52 PM,9:02,Webber 17' Jump Shot (18 PTS) (Williams 9 AST),,,57 - 65,8
+0020000191,256,2,1,3,3:52 PM,8:37,,,MISS Baker 11' Jump Shot,,
+0020000191,257,4,0,3,3:52 PM,8:36,,,Baker REBOUND (Off:3 Def:1),,
+0020000191,258,2,5,3,3:52 PM,8:35,,,MISS Baker  Layup,,
+0020000191,259,4,0,3,3:52 PM,8:33,Webber REBOUND (Off:2 Def:10),,,,
+0020000191,260,5,1,3,3:53 PM,8:27,Williams Bad Pass Turnover (P2.T9),,Barry STEAL (2 STL),,
+0020000191,261,5,1,3,3:53 PM,8:23,Stojakovic STEAL (2 STL),,Barry Bad Pass Turnover (P1.T9),,
+0020000191,262,2,1,3,3:53 PM,8:10,MISS Williams 17' Jump Shot,,,,
+0020000191,263,4,0,3,3:53 PM,8:07,Divac REBOUND (Off:5 Def:3),,,,
+0020000191,264,1,5,3,3:53 PM,8:05,Stojakovic  Layup (19 PTS) (Divac 2 AST),,,57 - 67,10
+0020000191,265,2,1,3,3:53 PM,7:43,,,MISS Barry 25' 3PT Jump Shot,,
+0020000191,266,4,0,3,3:54 PM,7:42,KINGS Rebound,,,,
+0020000191,267,6,3,3,3:54 PM,7:42,,,Ewing L.B.FOUL (P3.T1),,
+0020000191,268,8,0,3,3:54 PM,7:42,,,SUB: Mason FOR Patterson,,
+0020000191,269,1,42,3,3:54 PM,7:23,Webber  Driving Layup (20 PTS),,,57 - 69,12
+0020000191,270,2,5,3,3:54 PM,6:59,Webber BLOCK (3 BLK),,MISS Ewing 3' Layup,,
+0020000191,271,4,0,3,3:54 PM,6:57,Webber REBOUND (Off:2 Def:11),,,,
+0020000191,272,1,1,3,3:55 PM,6:52,Christie 25' 3PT Jump Shot (12 PTS) (Williams 10 AST),,,57 - 72,15
+0020000191,273,9,2,3,3:55 PM,6:50,,,SuperSonics Timeout: Short (Reg.3 Short 2),,
+0020000191,275,5,2,3,3:56 PM,6:37,Christie STEAL (2 STL),,Mason Lost Ball Turnover (P2.T10),,
+0020000191,276,2,1,3,3:56 PM,6:32,MISS Christie 17' Jump Shot,,,,
+0020000191,277,4,0,3,3:56 PM,6:30,,,Barry REBOUND (Off:1 Def:1),,
+0020000191,278,6,2,3,3:56 PM,6:25,Christie S.FOUL (P1.T1),,,,
+0020000191,279,3,11,3,3:56 PM,6:25,,,MISS Mason Free Throw 1 of 2,,
+0020000191,280,4,1,3,3:56 PM,6:25,,,SuperSonics Rebound,,
+0020000191,281,3,12,3,3:56 PM,6:25,,,Mason Free Throw 2 of 2 (1 PTS),58 - 72,14
+0020000191,282,1,1,3,3:57 PM,6:12,Stojakovic 25' 3PT Jump Shot (22 PTS) (Christie 6 AST),,,58 - 75,17
+0020000191,283,1,42,3,3:57 PM,5:54,,,Ewing  Driving Layup (12 PTS) (Payton 4 AST),60 - 75,15
+0020000191,284,1,51,3,3:57 PM,5:40,Divac  Reverse Dunk (12 PTS) (Stojakovic 2 AST),,,60 - 77,17
+0020000191,285,2,1,3,3:57 PM,5:29,Stojakovic BLOCK (1 BLK),,MISS Mason 4' Jump Shot,,
+0020000191,286,4,0,3,3:57 PM,5:29,,,SuperSonics Rebound,,
+0020000191,287,2,1,3,3:58 PM,5:18,,,MISS Payton 25' 3PT Jump Shot,,
+0020000191,288,4,0,3,3:58 PM,5:15,,,Baker REBOUND (Off:4 Def:1),,
+0020000191,289,1,1,3,3:58 PM,5:13,,,Payton 4' Jump Shot (19 PTS) (Baker 2 AST),62 - 77,15
+0020000191,290,2,1,3,3:58 PM,4:55,MISS Webber 15' Jump Shot,,,,
+0020000191,291,4,0,3,3:58 PM,4:54,,,Payton REBOUND (Off:1 Def:2),,
+0020000191,292,5,2,3,3:58 PM,4:48,Williams STEAL (2 STL),,Barry Lost Ball Turnover (P2.T11),,
+0020000191,293,1,42,3,3:58 PM,4:45,Williams  Driving Layup (8 PTS) (Divac 3 AST),,,62 - 79,17
+0020000191,294,1,1,3,3:59 PM,4:34,,,Barry 25' 3PT Jump Shot (8 PTS),65 - 79,14
+0020000191,295,1,1,3,3:59 PM,4:13,Christie 11' Jump Shot (14 PTS),,,65 - 81,16
+0020000191,296,6,2,3,3:59 PM,3:57,Divac S.FOUL (P1.T2),,,,
+0020000191,297,8,0,3,3:59 PM,3:57,,,SUB: Patterson FOR Baker,,
+0020000191,298,3,11,3,4:00 PM,3:57,,,Ewing Free Throw 1 of 2 (13 PTS),66 - 81,15
+0020000191,299,3,12,3,4:00 PM,3:57,,,Ewing Free Throw 2 of 2 (14 PTS),67 - 81,14
+0020000191,300,2,1,3,4:00 PM,3:42,MISS Stojakovic 24' 3PT Jump Shot,,,,
+0020000191,301,4,0,3,4:00 PM,3:39,,,Payton REBOUND (Off:1 Def:3),,
+0020000191,302,6,2,3,4:00 PM,3:36,Christie S.FOUL (P2.T3),,,,
+0020000191,303,3,11,3,4:01 PM,3:36,,,MISS Patterson Free Throw 1 of 2,,
+0020000191,304,4,1,3,4:01 PM,3:36,,,SuperSonics Rebound,,
+0020000191,305,3,12,3,4:01 PM,3:36,,,Patterson Free Throw 2 of 2 (7 PTS),68 - 81,13
+0020000191,306,5,1,3,4:01 PM,3:23,Williams Bad Pass Turnover (P3.T10),,Patterson STEAL (2 STL),,
+0020000191,307,1,49,3,4:01 PM,3:19,,,Patterson  Driving Dunk (9 PTS) (Barry 2 AST),70 - 81,11
+0020000191,308,1,1,3,4:02 PM,2:58,Williams 18' Jump Shot (10 PTS) (Divac 4 AST),,,70 - 83,13
+0020000191,309,6,4,3,4:02 PM,2:46,,,Ewing OFF.Foul (P4),,
+0020000191,310,5,5,3,4:02 PM,2:46,,,Ewing Foul Turnover (P2.T12),,
+0020000191,311,6,11,3,4:02 PM,2:46,,,Ewing T.FOUL (P4.T1),,
+0020000191,312,6,11,3,4:02 PM,2:46,,,Ewing T.FOUL (P4.T1),,
+0020000191,313,11,1,3,4:02 PM,2:46,,,Ewing Ejection:Second Technical,,
+0020000191,314,8,0,3,4:02 PM,2:46,,,SUB: Wolkowyski FOR Ewing,,
+0020000191,315,9,1,3,4:03 PM,2:46,KINGS Timeout: Regular (Full 3 Short 0),,,,
+0020000191,317,8,0,3,4:05 PM,2:46,,,SUB: Davis FOR Barry,,
+0020000191,318,3,16,3,4:05 PM,2:46,MISS Stojakovic Free Throw Technical,,,,
+0020000191,319,4,1,3,4:05 PM,2:46,KINGS Rebound,,,,
+0020000191,320,3,16,3,4:05 PM,2:46,Stojakovic Free Throw Technical (23 PTS),,,70 - 84,14
+0020000191,322,2,1,3,4:05 PM,2:25,MISS Webber 18' Jump Shot,,,,
+0020000191,323,4,0,3,4:05 PM,2:24,,,Mason REBOUND (Off:0 Def:2),,
+0020000191,324,6,1,3,4:06 PM,2:23,Divac P.FOUL (P2.T4),,,,
+0020000191,325,1,44,3,4:06 PM,2:07,,,Patterson  Reverse Layup (11 PTS),72 - 84,12
+0020000191,326,6,2,3,4:06 PM,2:07,Webber S.FOUL (P3.PN),,,,
+0020000191,327,8,0,3,4:06 PM,2:07,SUB: Turkoglu FOR Divac,,,,
+0020000191,328,3,10,3,4:06 PM,2:07,,,Patterson Free Throw 1 of 1 (12 PTS),73 - 84,11
+0020000191,329,2,1,3,4:07 PM,1:46,MISS Christie 25' 3PT Jump Shot,,,,
+0020000191,330,4,0,3,4:07 PM,1:44,,,Payton REBOUND (Off:1 Def:4),,
+0020000191,331,5,2,3,4:07 PM,1:38,Williams STEAL (3 STL),,Payton Lost Ball Turnover (P2.T13),,
+0020000191,332,1,1,3,4:07 PM,1:24,Stojakovic 11' Jump Shot (25 PTS),,,73 - 86,13
+0020000191,333,2,1,3,4:07 PM,1:09,,,MISS Mason 25' 3PT Jump Shot,,
+0020000191,334,4,0,3,4:07 PM,1:05,,,Payton REBOUND (Off:2 Def:4),,
+0020000191,335,5,2,3,4:08 PM,1:03,Christie STEAL (3 STL),,Payton Lost Ball Turnover (P3.T14),,
+0020000191,336,6,2,3,4:08 PM,0:59,,,Davis S.FOUL (P2.T2),,
+0020000191,337,3,11,3,4:08 PM,0:59,Williams Free Throw 1 of 2 (11 PTS),,,73 - 87,14
+0020000191,338,3,12,3,4:08 PM,0:59,MISS Williams Free Throw 2 of 2,,,,
+0020000191,339,4,0,3,4:08 PM,0:59,,,Wolkowyski REBOUND (Off:0 Def:2),,
+0020000191,340,2,1,3,4:08 PM,0:49,,,MISS Mason 20' Jump Shot,,
+0020000191,341,4,0,3,4:08 PM,0:48,Turkoglu REBOUND (Off:0 Def:2),,,,
+0020000191,342,2,45,3,4:09 PM,0:44,MISS Stojakovic 26' 3PT Jump Shot,,,,
+0020000191,351,4,0,3,4:09 PM,0:42,,,SuperSonics Rebound,,
+0020000191,343,6,3,3,4:09 PM,0:42,Christie L.B.FOUL (P3.PN),,,,
+0020000191,344,3,11,3,4:09 PM,0:42,,,Mason Free Throw 1 of 2 (2 PTS),74 - 87,13
+0020000191,346,3,12,3,4:09 PM,0:42,,,Mason Free Throw 2 of 2 (3 PTS),75 - 87,12
+0020000191,348,1,46,3,4:09 PM,0:27,Webber 5' Running Jump Shot (22 PTS),,,75 - 89,14
+0020000191,350,6,2,3,4:10 PM,0:13,Turkoglu S.FOUL (P2.PN),,,,
+0020000191,352,3,11,3,4:10 PM,0:13,,,Patterson Free Throw 1 of 2 (13 PTS),76 - 89,13
+0020000191,353,3,12,3,4:10 PM,0:13,,,Patterson Free Throw 2 of 2 (14 PTS),77 - 89,12
+0020000191,355,5,2,3,4:11 PM,0:02,Williams Lost Ball Turnover (P4.T11),,,,
+0020000191,357,8,0,3,4:11 PM,0:02,,,SUB: Barry FOR Wolkowyski,,
+0020000191,359,8,0,3,4:11 PM,0:02,SUB: Jackson FOR Webber,,,,
+0020000191,360,5,12,3,4:11 PM,0:02,,,Patterson Inbound Turnover (P4.T15),,
+0020000191,361,8,0,3,4:11 PM,0:02,SUB: Webber FOR Jackson,,,,
+0020000191,362,8,0,3,4:11 PM,0:02,,,SUB: Wolkowyski FOR Barry,,
+0020000191,363,2,1,3,4:12 PM,0:00,MISS Williams 28' 3PT Jump Shot,,,,
+0020000191,365,4,0,3,4:12 PM,0:00,KINGS Rebound,,,,
+0020000191,364,13,0,3,4:12 PM,0:00,,,,77 - 89,12
+0020000191,368,12,0,4,4:15 PM,12:00,,,,77 - 89,12
+0020000191,369,6,1,4,4:15 PM,11:43,,,Payton P.FOUL (P2.T1),,
+0020000191,370,2,1,4,4:16 PM,11:33,MISS Jackson 22' Jump Shot,,,,
+0020000191,371,4,0,4,4:16 PM,11:31,,,Williams REBOUND (Off:0 Def:1),,
+0020000191,372,5,2,4,4:16 PM,11:27,Christie STEAL (4 STL),,Davis Lost Ball Turnover (P1.T16),,
+0020000191,373,1,7,4,4:16 PM,11:18,Webber  Dunk (24 PTS) (Stojakovic 3 AST),,,77 - 91,14
+0020000191,374,5,1,4,4:16 PM,11:02,Jackson STEAL (1 STL),,Davis Bad Pass Turnover (P2.T17),,
+0020000191,375,1,5,4,4:16 PM,10:55,Jackson  Layup (4 PTS) (Stojakovic 4 AST),,,77 - 93,16
+0020000191,376,6,2,4,4:16 PM,10:55,,,Davis S.FOUL (P3.T2),,
+0020000191,377,3,10,4,4:17 PM,10:55,Jackson Free Throw 1 of 1 (5 PTS),,,77 - 94,17
+0020000191,378,1,1,4,4:17 PM,10:41,,,Payton 20' Jump Shot (21 PTS),79 - 94,15
+0020000191,379,2,1,4,4:17 PM,10:22,MISS Christie 16' Jump Shot,,,,
+0020000191,380,4,0,4,4:17 PM,10:21,Turkoglu REBOUND (Off:1 Def:2),,,,
+0020000191,381,1,7,4,4:17 PM,10:19,Turkoglu  Dunk (2 PTS),,,79 - 96,17
+0020000191,382,2,1,4,4:18 PM,10:09,,,MISS Mason 13' Jump Shot,,
+0020000191,383,4,0,4,4:18 PM,10:06,Stojakovic REBOUND (Off:0 Def:3),,,,
+0020000191,384,5,1,4,4:18 PM,9:50,Turkoglu Bad Pass Turnover (P1.T12),,,,
+0020000191,385,6,1,4,4:18 PM,9:40,Christie P.FOUL (P4.T1),,,,
+0020000191,386,9,1,4,4:18 PM,9:40,KINGS Timeout: Regular (Full 4 Short 0),,,,
+0020000191,388,8,0,4,4:20 PM,9:40,,,SUB: Barry FOR Patterson,,
+0020000191,389,8,0,4,4:20 PM,9:40,,,SUB: Baker FOR Mason,,
+0020000191,392,1,1,4,4:21 PM,9:26,,,Baker 21' Jump Shot (12 PTS) (Williams 1 AST),81 - 96,15
+0020000191,393,6,2,4,4:21 PM,9:05,,,Davis S.FOUL (P4.T3),,
+0020000191,394,3,11,4,4:21 PM,9:05,MISS Jackson Free Throw 1 of 2,,,,
+0020000191,395,4,1,4,4:21 PM,9:05,KINGS Rebound,,,,
+0020000191,396,3,12,4,4:22 PM,9:05,Jackson Free Throw 2 of 2 (6 PTS),,,81 - 97,16
+0020000191,397,2,1,4,4:22 PM,8:50,,,MISS Baker 17' Jump Shot,,
+0020000191,398,4,0,4,4:22 PM,8:49,Turkoglu REBOUND (Off:1 Def:3),,,,
+0020000191,399,1,47,4,4:22 PM,8:41,Turkoglu 7' Turnaround Jump Shot (4 PTS),,,81 - 99,18
+0020000191,400,1,46,4,4:22 PM,8:29,,,Barry 7' Running Jump Shot (10 PTS),83 - 99,16
+0020000191,401,1,1,4,4:23 PM,8:05,Stojakovic 25' 3PT Jump Shot (28 PTS) (Christie 7 AST),,,83 - 102,19
+0020000191,402,2,46,4,4:23 PM,7:51,Webber BLOCK (4 BLK),,MISS Williams 5' Running Jump Shot,,
+0020000191,403,4,0,4,4:23 PM,7:50,,,Williams REBOUND (Off:1 Def:1),,
+0020000191,404,2,3,4,4:23 PM,7:49,Webber BLOCK (5 BLK),,MISS Williams 6' Hook Shot,,
+0020000191,405,4,0,4,4:23 PM,7:47,Webber REBOUND (Off:2 Def:12),,,,
+0020000191,406,2,1,4,4:23 PM,7:42,MISS Christie 25' 3PT Jump Shot,,,,
+0020000191,407,4,0,4,4:23 PM,7:39,KINGS Rebound,,,,
+0020000191,408,2,1,4,4:24 PM,7:32,MISS Jackson 8' Jump Shot,,,,
+0020000191,410,4,0,4,4:24 PM,7:31,Turkoglu REBOUND (Off:2 Def:3),,,,
+0020000191,409,2,4,4,4:24 PM,7:31,MISS Turkoglu  Tip Shot,,,,
+0020000191,411,4,0,4,4:24 PM,7:30,,,SuperSonics Rebound,,
+0020000191,412,6,3,4,4:24 PM,7:30,Christie L.B.FOUL (P5.T2),,,,
+0020000191,413,2,1,4,4:24 PM,7:18,,,MISS Davis 18' Jump Shot,,
+0020000191,414,4,0,4,4:24 PM,7:16,Stojakovic REBOUND (Off:0 Def:4),,,,
+0020000191,415,6,1,4,4:24 PM,7:04,,,Williams P.FOUL (P1.T4),,
+0020000191,416,8,0,4,4:24 PM,7:04,SUB: Barry FOR Christie,,,,
+0020000191,417,6,2,4,4:25 PM,6:57,,,Baker S.FOUL (P4.PN),,
+0020000191,418,3,11,4,4:25 PM,6:57,Turkoglu Free Throw 1 of 2 (5 PTS),,,83 - 103,20
+0020000191,419,6,11,4,4:25 PM,6:57,,,Baker T.FOUL (P4.PN),,
+0020000191,420,8,0,4,4:26 PM,6:57,,,SUB: Mason FOR Davis,,
+0020000191,421,3,16,4,4:26 PM,6:57,Stojakovic Free Throw Technical (29 PTS),,,83 - 104,21
+0020000191,422,3,12,4,4:26 PM,6:57,MISS Turkoglu Free Throw 2 of 2,,,,
+0020000191,423,4,0,4,4:26 PM,6:57,,,Mason REBOUND (Off:0 Def:3),,
+0020000191,424,5,1,4,4:26 PM,6:44,,,Mason Bad Pass Turnover (P3.T18),,
+0020000191,425,2,1,4,4:27 PM,6:20,MISS Webber 17' Jump Shot,,,,
+0020000191,426,4,0,4,4:27 PM,6:18,,,Mason REBOUND (Off:0 Def:4),,
+0020000191,427,2,1,4,4:27 PM,6:11,,,MISS Baker 6' Jump Shot,,
+0020000191,428,4,0,4,4:27 PM,6:09,Barry REBOUND (Off:0 Def:1),,,,
+0020000191,429,1,59,4,4:27 PM,6:04,Turkoglu  Finger Roll (7 PTS) (Barry 1 AST),,,83 - 106,23
+0020000191,430,1,3,4,4:28 PM,5:37,,,Payton 6' Hook Shot (23 PTS),85 - 106,21
+0020000191,431,2,1,4,4:28 PM,5:20,MISS Webber 6' Jump Shot,,,,
+0020000191,432,4,0,4,4:28 PM,5:19,Turkoglu REBOUND (Off:3 Def:3),,,,
+0020000191,433,6,2,4,4:28 PM,5:19,,,Barry S.FOUL (P2.PN),,
+0020000191,434,9,4,4,4:28 PM,5:19,,,,,
+0020000191,438,3,11,4,4:31 PM,5:19,Turkoglu Free Throw 1 of 2 (8 PTS),,,85 - 107,22
+0020000191,439,3,12,4,4:31 PM,5:19,Turkoglu Free Throw 2 of 2 (9 PTS),,,85 - 108,23
+0020000191,440,6,1,4,4:32 PM,5:09,Jackson P.FOUL (P1.T3),,,,
+0020000191,442,6,16,4,4:32 PM,5:09,,,,,
+0020000191,443,6,11,4,4:32 PM,5:09,Webber T.FOUL (P3.T3),,,,
+0020000191,444,11,1,4,4:32 PM,5:09,,,Baker Ejection:Second Technical,,
+0020000191,445,8,0,4,4:32 PM,5:09,,,SUB: Wolkowyski FOR Baker,,
+0020000191,446,11,1,4,4:33 PM,5:09,Webber Ejection:Second Technical,,,,
+0020000191,447,8,0,4,4:33 PM,5:09,SUB: Funderburke FOR Webber,,,,
+0020000191,454,3,16,4,4:33 PM,5:09,,,Payton Free Throw Technical (24 PTS),86 - 108,22
+0020000191,448,3,11,4,4:33 PM,5:09,,,Payton Free Throw 1 of 2 (25 PTS),87 - 108,21
+0020000191,449,3,12,4,4:33 PM,5:09,,,Payton Free Throw 2 of 2 (26 PTS),88 - 108,20
+0020000191,451,1,1,4,4:33 PM,4:52,Turkoglu 20' Jump Shot (11 PTS),,,88 - 110,22
+0020000191,452,2,1,4,4:34 PM,4:37,,,MISS Barry 23' Jump Shot,,
+0020000191,453,4,0,4,4:34 PM,4:34,Stojakovic REBOUND (Off:0 Def:5),,,,
+0020000191,455,8,0,4,4:34 PM,4:26,SUB: Martin FOR Stojakovic,,,,
+0020000191,456,6,1,4,4:34 PM,4:26,,,Mason P.FOUL (P1.PN),,
+0020000191,457,3,11,4,4:34 PM,4:26,Turkoglu Free Throw 1 of 2 (12 PTS),,,88 - 111,23
+0020000191,458,3,12,4,4:35 PM,4:26,Turkoglu Free Throw 2 of 2 (13 PTS),,,88 - 112,24
+0020000191,460,6,2,4,4:35 PM,4:19,Jackson S.FOUL (P2.T4),,,,
+0020000191,462,3,11,4,4:35 PM,4:19,,,Williams Free Throw 1 of 2 (1 PTS),89 - 112,23
+0020000191,464,9,1,4,4:35 PM,4:19,KINGS Timeout: Regular (Full 5 Short 0),,,,
+0020000191,467,8,0,4,4:37 PM,4:19,,,SUB: Davis FOR Barry,,
+0020000191,468,8,0,4,4:37 PM,4:19,,,SUB: McCoy FOR Payton,,
+0020000191,470,3,12,4,4:38 PM,4:19,,,Williams Free Throw 2 of 2 (2 PTS),90 - 112,22
+0020000191,471,1,61,4,4:38 PM,4:07,Martin 5' Driving Finger Roll (2 PTS),,,90 - 114,24
+0020000191,472,2,1,4,4:38 PM,3:52,,,MISS Mason 7' Jump Shot,,
+0020000191,473,4,0,4,4:38 PM,3:51,Turkoglu REBOUND (Off:3 Def:4),,,,
+0020000191,474,2,1,4,4:38 PM,3:39,MISS Funderburke 20' Jump Shot,,,,
+0020000191,475,4,0,4,4:38 PM,3:37,Turkoglu REBOUND (Off:4 Def:4),,,,
+0020000191,476,2,1,4,4:38 PM,3:33,MISS Barry 25' 3PT Jump Shot,,,,
+0020000191,477,4,0,4,4:39 PM,3:30,Turkoglu REBOUND (Off:5 Def:4),,,,
+0020000191,478,2,1,4,4:39 PM,3:24,MISS Jackson 16' Jump Shot,,,,
+0020000191,479,4,0,4,4:39 PM,3:23,Turkoglu REBOUND (Off:6 Def:4),,,,
+0020000191,480,6,2,4,4:39 PM,3:23,,,Davis S.FOUL (P5.PN),,
+0020000191,481,3,11,4,4:39 PM,3:23,Turkoglu Free Throw 1 of 2 (14 PTS),,,90 - 115,25
+0020000191,482,3,12,4,4:39 PM,3:23,Turkoglu Free Throw 2 of 2 (15 PTS),,,90 - 116,26
+0020000191,483,1,1,4,4:40 PM,3:07,,,Wolkowyski 20' Jump Shot (4 PTS) (Williams 2 AST),92 - 116,24
+0020000191,484,2,1,4,4:40 PM,2:47,MISS Funderburke 19' Jump Shot,,,,
+0020000191,485,4,0,4,4:40 PM,2:45,,,Williams REBOUND (Off:1 Def:2),,
+0020000191,486,6,2,4,4:40 PM,2:42,Martin S.FOUL (P1.PN),,,,
+0020000191,487,3,11,4,4:40 PM,2:42,,,McCoy Free Throw 1 of 2 (1 PTS),93 - 116,23
+0020000191,488,3,12,4,4:40 PM,2:42,,,MISS McCoy Free Throw 2 of 2,,
+0020000191,489,4,0,4,4:41 PM,2:42,Funderburke REBOUND (Off:0 Def:1),,,,
+0020000191,490,1,1,4,4:41 PM,2:26,Jackson  3PT Jump Shot (9 PTS) (Turkoglu 1 AST),,,93 - 119,26
+0020000191,491,2,1,4,4:41 PM,2:18,,,MISS Williams 26' 3PT Jump Shot,,
+0020000191,492,4,0,4,4:41 PM,2:16,Funderburke REBOUND (Off:0 Def:2),,,,
+0020000191,493,6,4,4,4:41 PM,2:15,Barry OFF.Foul (P2),,,,
+0020000191,494,5,5,4,4:41 PM,2:15,Barry Foul Turnover (P1.T13),,,,
+0020000191,495,6,11,4,4:41 PM,2:15,Barry T.FOUL (P2.PN),,,,
+0020000191,496,3,16,4,4:41 PM,2:15,,,Williams Free Throw Technical (3 PTS),94 - 119,25
+0020000191,497,2,3,4,4:42 PM,2:09,,,MISS Wolkowyski 6' Hook Shot,,
+0020000191,498,4,0,4,4:42 PM,2:07,Turkoglu REBOUND (Off:6 Def:5),,,,
+0020000191,499,2,1,4,4:42 PM,2:02,MISS Barry 24' 3PT Jump Shot,,,,
+0020000191,500,4,0,4,4:42 PM,2:00,Funderburke REBOUND (Off:1 Def:2),,,,
+0020000191,501,5,2,4,4:42 PM,1:56,Funderburke Lost Ball Turnover (P1.T14),,Mason STEAL (1 STL),,
+0020000191,502,2,1,4,4:42 PM,1:51,,,MISS Williams 25' 3PT Jump Shot,,
+0020000191,503,4,0,4,4:42 PM,1:48,,,Williams REBOUND (Off:2 Def:2),,
+0020000191,504,6,2,4,4:42 PM,1:46,Turkoglu S.FOUL (P3.PN),,,,
+0020000191,505,3,11,4,4:42 PM,1:46,,,MISS Wolkowyski Free Throw 1 of 2,,
+0020000191,506,4,1,4,4:42 PM,1:46,,,SuperSonics Rebound,,
+0020000191,507,3,12,4,4:43 PM,1:46,,,Wolkowyski Free Throw 2 of 2 (5 PTS),95 - 119,24
+0020000191,509,2,1,4,4:43 PM,1:36,MISS Martin 21' Jump Shot,,,,
+0020000191,510,4,0,4,4:43 PM,1:34,,,Davis REBOUND (Off:0 Def:4),,
+0020000191,512,6,2,4,4:43 PM,1:28,Jackson S.FOUL (P3.PN),,,,
+0020000191,513,3,11,4,4:43 PM,1:28,,,Wolkowyski Free Throw 1 of 2 (6 PTS),96 - 119,23
+0020000191,514,3,12,4,4:43 PM,1:28,,,Wolkowyski Free Throw 2 of 2 (7 PTS),97 - 119,22
+0020000191,515,5,2,4,4:44 PM,1:12,Jackson Lost Ball Turnover (P2.T15),,McCoy STEAL (1 STL),,
+0020000191,516,5,2,4,4:44 PM,1:09,Turkoglu STEAL (1 STL),,McCoy Lost Ball Turnover (P1.T19),,
+0020000191,517,1,7,4,4:44 PM,1:07,Turkoglu  Dunk (17 PTS),,,97 - 121,24
+0020000191,518,6,2,4,4:44 PM,0:57,Martin S.FOUL (P2.PN),,,,
+0020000191,519,3,11,4,4:44 PM,0:57,,,Davis Free Throw 1 of 2 (8 PTS),98 - 121,23
+0020000191,520,3,12,4,4:45 PM,0:57,,,Davis Free Throw 2 of 2 (9 PTS),99 - 121,22
+0020000191,522,1,56,4,4:45 PM,0:46,Funderburke 6' Running Hook Shot (2 PTS) (Jackson 3 AST),,,99 - 123,24
+0020000191,523,2,1,4,4:45 PM,0:39,,,MISS Williams 9' Jump Shot,,
+0020000191,524,4,0,4,4:45 PM,0:37,Turkoglu REBOUND (Off:6 Def:6),,,,
+0020000191,525,2,5,4,4:45 PM,0:29,MISS Turkoglu  Layup,,,,
+0020000191,527,4,0,4,4:45 PM,0:29,Funderburke REBOUND (Off:2 Def:2),,,,
+0020000191,526,1,4,4,4:45 PM,0:29,Funderburke  Tip Shot (4 PTS),,,99 - 125,26
+0020000191,528,1,49,4,4:45 PM,0:22,,,Mason  Driving Dunk (5 PTS),101 - 125,24
+0020000191,529,13,0,4,4:46 PM,0:00,,,,101 - 125,24

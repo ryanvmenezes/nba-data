@@ -1,0 +1,415 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000481,0,12,0,1,5:11 AM,12:00,,,,,
+0020000481,1,10,0,1,5:11 AM,12:00,Jump Ball Willis vs. Ewing: Tip to Jackson,,,,
+0020000481,3,1,1,1,5:11 AM,11:42,Oakley 20' Jump Shot (2 PTS) (Peterson 1 AST),,,0 - 2,2
+0020000481,4,2,1,1,5:12 AM,11:24,,,MISS Payton 19' Jump Shot,,
+0020000481,5,4,0,1,5:12 AM,11:23,,,Lewis REBOUND (Off:1 Def:0),,
+0020000481,6,6,1,1,5:12 AM,11:20,Carter P.FOUL (P1.T1),,,,
+0020000481,7,2,46,1,5:12 AM,11:08,,,MISS Ewing 6' Running Jump Shot,,
+0020000481,8,4,0,1,5:12 AM,11:07,Willis REBOUND (Off:0 Def:1),,,,
+0020000481,9,2,1,1,5:12 AM,10:59,MISS Peterson 24' 3PT Jump Shot,,,,
+0020000481,10,4,0,1,5:12 AM,10:58,,,Davis REBOUND (Off:0 Def:1),,
+0020000481,11,5,2,1,5:12 AM,10:53,Jackson STEAL (1 STL),,Davis Lost Ball Turnover (P1.T1),,
+0020000481,12,6,2,1,5:13 AM,10:36,,,Lewis S.FOUL (P1.T1),,
+0020000481,13,3,11,1,5:13 AM,10:36,Willis Free Throw 1 of 2 (1 PTS),,,0 - 3,3
+0020000481,14,3,12,1,5:13 AM,10:36,MISS Willis Free Throw 2 of 2,,,,
+0020000481,15,4,0,1,5:13 AM,10:36,,,Ewing REBOUND (Off:0 Def:1),,
+0020000481,16,1,1,1,5:14 AM,10:26,,,Payton 18' Jump Shot (2 PTS),2 - 3,1
+0020000481,17,1,52,1,5:14 AM,10:11,Carter  Alley Oop Dunk (2 PTS) (Jackson 1 AST),,,2 - 5,3
+0020000481,18,2,49,1,5:14 AM,9:55,Oakley BLOCK (1 BLK),,MISS Davis  Driving Dunk,,
+0020000481,19,4,0,1,5:14 AM,9:52,,,McCoy REBOUND (Off:1 Def:0),,
+0020000481,20,2,5,1,5:14 AM,9:51,Willis BLOCK (1 BLK),,MISS McCoy  Layup,,
+0020000481,21,4,0,1,5:14 AM,9:49,Jackson REBOUND (Off:0 Def:1),,,,
+0020000481,22,2,5,1,5:14 AM,9:45,MISS Willis  Layup,,,,
+0020000481,23,4,0,1,5:14 AM,9:42,,,McCoy REBOUND (Off:1 Def:1),,
+0020000481,25,2,1,1,5:15 AM,9:28,,,MISS Payton 26' 3PT Jump Shot,,
+0020000481,26,4,0,1,5:15 AM,9:27,Peterson REBOUND (Off:0 Def:1),,,,
+0020000481,27,1,1,1,5:15 AM,9:19,Carter 24' 3PT Jump Shot (5 PTS) (Jackson 2 AST),,,2 - 8,6
+0020000481,28,9,1,1,5:15 AM,9:12,,,SuperSonics Timeout: Regular (Reg.1 Short 0),,
+0020000481,31,2,1,1,5:18 AM,8:52,Jackson BLOCK (1 BLK),,MISS Payton 26' 3PT Jump Shot,,
+0020000481,32,4,0,1,5:18 AM,8:52,,,SuperSonics Rebound,,
+0020000481,33,5,11,1,5:18 AM,8:52,,,SuperSonics Turnover: Shot Clock (T#2),,
+0020000481,35,1,1,1,5:18 AM,8:39,Jackson 25' 3PT Jump Shot (3 PTS) (Oakley 1 AST),,,2 - 11,9
+0020000481,37,6,2,1,5:19 AM,8:25,Peterson S.FOUL (P1.T2),,,,
+0020000481,38,3,11,1,5:19 AM,8:25,,,Lewis Free Throw 1 of 2 (1 PTS),3 - 11,8
+0020000481,39,3,12,1,5:19 AM,8:25,,,Lewis Free Throw 2 of 2 (2 PTS),4 - 11,7
+0020000481,40,2,1,1,5:19 AM,8:09,MISS Carter 25' 3PT Jump Shot,,,,
+0020000481,41,4,0,1,5:20 AM,8:07,,,Ewing REBOUND (Off:0 Def:2),,
+0020000481,42,1,1,1,5:20 AM,7:57,,,Lewis 25' 3PT Jump Shot (5 PTS) (Ewing 1 AST),7 - 11,4
+0020000481,43,1,58,1,5:20 AM,7:32,Willis 9' Turnaround Hook Shot (3 PTS),,,7 - 13,6
+0020000481,44,6,1,1,5:21 AM,7:18,Oakley P.FOUL (P1.T3),,,,
+0020000481,45,1,1,1,5:21 AM,7:12,,,Lewis 12' Jump Shot (7 PTS) (McCoy 1 AST),9 - 13,4
+0020000481,46,1,5,1,5:21 AM,6:57,Carter  Layup (7 PTS) (Oakley 2 AST),,,9 - 15,6
+0020000481,47,2,1,1,5:21 AM,6:44,,,MISS Payton 20' Jump Shot,,
+0020000481,48,4,0,1,5:21 AM,6:43,,,SuperSonics Rebound,,
+0020000481,49,6,3,1,5:21 AM,6:43,Willis L.B.FOUL (P1.T4),,,,
+0020000481,50,7,2,1,5:22 AM,6:37,Carter Violation:Defensive Goaltending,,,,
+0020000481,52,2,58,1,5:22 AM,6:27,,,MISS McCoy 10' Turnaround Hook Shot,,
+0020000481,53,4,0,1,5:22 AM,6:24,Oakley REBOUND (Off:0 Def:1),,,,
+0020000481,54,2,1,1,5:22 AM,6:10,MISS Jackson  3PT Jump Shot,,,,
+0020000481,55,4,0,1,5:22 AM,6:09,,,Ewing REBOUND (Off:0 Def:3),,
+0020000481,56,2,1,1,5:23 AM,6:03,,,MISS Lewis 18' Jump Shot,,
+0020000481,57,4,0,1,5:23 AM,6:01,,,McCoy REBOUND (Off:2 Def:1),,
+0020000481,58,2,5,1,5:23 AM,5:59,,,MISS McCoy  Layup,,
+0020000481,59,4,0,1,5:23 AM,5:58,RAPTORS Rebound,,,,
+0020000481,60,6,3,1,5:23 AM,5:58,,,McCoy L.B.FOUL (P1.T2),,
+0020000481,61,2,1,1,5:23 AM,5:44,MISS Peterson 15' Jump Shot,,,,
+0020000481,62,4,0,1,5:23 AM,5:43,RAPTORS Rebound,,,,
+0020000481,63,1,1,1,5:24 AM,5:29,Oakley 16' Jump Shot (4 PTS) (Jackson 3 AST),,,9 - 17,8
+0020000481,64,2,40,1,5:24 AM,5:14,Peterson BLOCK (1 BLK),,MISS Lewis  Layup,,
+0020000481,65,4,0,1,5:24 AM,5:12,Peterson REBOUND (Off:0 Def:2),,,,
+0020000481,66,1,52,1,5:24 AM,5:08,Willis  Alley Oop Dunk (5 PTS) (Oakley 3 AST),,,9 - 19,10
+0020000481,68,2,1,1,5:25 AM,4:39,,,MISS Ewing 8' Jump Shot,,
+0020000481,69,4,0,1,5:25 AM,4:39,,,SuperSonics Rebound,,
+0020000481,70,5,11,1,5:25 AM,4:39,,,SuperSonics Turnover: Shot Clock (T#3),,
+0020000481,71,8,0,1,5:25 AM,4:39,,,SUB: Baker FOR Ewing,,
+0020000481,72,8,0,1,5:25 AM,4:39,,,SUB: Patterson FOR McCoy,,
+0020000481,73,6,1,1,5:25 AM,4:30,,,Patterson P.FOUL (P1.T3),,
+0020000481,74,1,41,1,5:25 AM,4:23,Willis  Running Layup (7 PTS) (Jackson 4 AST),,,9 - 21,12
+0020000481,75,6,17,1,5:26 AM,4:10,RAPTORS T.Foul (Def. 3 Sec Carter ),,,,
+0020000481,76,3,16,1,5:26 AM,4:10,,,Payton Free Throw Technical (3 PTS),10 - 21,11
+0020000481,77,1,1,1,5:26 AM,4:06,,,Patterson 16' Jump Shot (2 PTS),12 - 21,9
+0020000481,79,6,1,1,5:26 AM,3:56,,,Lewis P.FOUL (P2.T4),,
+0020000481,80,1,1,1,5:27 AM,3:45,Oakley 21' Jump Shot (6 PTS) (Carter 1 AST),,,12 - 23,11
+0020000481,81,5,1,1,5:27 AM,3:26,Carter STEAL (1 STL),,Payton Bad Pass Turnover (P1.T4),,
+0020000481,82,5,1,1,5:27 AM,3:22,Carter Bad Pass Turnover (P1.T1),,,,
+0020000481,83,1,1,1,5:28 AM,3:12,,,Payton 22' Jump Shot (5 PTS),14 - 23,9
+0020000481,84,2,1,1,5:28 AM,2:58,MISS Oakley 21' Jump Shot,,,,
+0020000481,85,4,0,1,5:28 AM,2:56,,,Patterson REBOUND (Off:0 Def:1),,
+0020000481,86,2,5,1,5:28 AM,2:45,Oakley BLOCK (2 BLK),,MISS Patterson 3' Layup,,
+0020000481,87,4,0,1,5:28 AM,2:43,,,Baker REBOUND (Off:1 Def:0),,
+0020000481,88,2,58,1,5:28 AM,2:41,Willis BLOCK (2 BLK),,MISS Baker  Turnaround Hook Shot,,
+0020000481,89,4,0,1,5:28 AM,2:39,Carter REBOUND (Off:0 Def:1),,,,
+0020000481,90,2,5,1,5:28 AM,2:36,MISS Peterson  Layup,,Payton BLOCK (1 BLK),,
+0020000481,91,4,0,1,5:28 AM,2:33,,,Davis REBOUND (Off:0 Def:2),,
+0020000481,92,2,46,1,5:28 AM,2:29,,,MISS Lewis 7' Running Jump Shot,,
+0020000481,93,4,0,1,5:28 AM,2:27,,,Payton REBOUND (Off:1 Def:0),,
+0020000481,94,2,47,1,5:29 AM,2:16,,,MISS Baker 9' Turnaround Jump Shot,,
+0020000481,95,4,0,1,5:29 AM,2:15,Willis REBOUND (Off:0 Def:2),,,,
+0020000481,97,2,1,1,5:29 AM,1:53,MISS Peterson 20' Jump Shot,,,,
+0020000481,98,4,0,1,5:29 AM,1:51,Willis REBOUND (Off:1 Def:2),,,,
+0020000481,99,1,46,1,5:29 AM,1:42,Peterson 8' Running Jump Shot (2 PTS) (Willis 1 AST),,,14 - 25,11
+0020000481,100,1,1,1,5:30 AM,1:14,,,Davis 20' Jump Shot (2 PTS) (Payton 1 AST),16 - 25,9
+0020000481,101,1,1,1,5:30 AM,0:52,Peterson 25' 3PT Jump Shot (5 PTS) (Jackson 5 AST),,,16 - 28,12
+0020000481,102,2,1,1,5:30 AM,0:39,Oakley BLOCK (3 BLK),,MISS Patterson 16' Jump Shot,,
+0020000481,103,4,0,1,5:30 AM,0:37,Oakley REBOUND (Off:0 Def:2),,,,
+0020000481,104,2,43,1,5:30 AM,0:35,MISS Carter  Alley Oop Layup,,,,
+0020000481,105,4,0,1,5:30 AM,0:33,,,Lewis REBOUND (Off:1 Def:1),,
+0020000481,106,1,42,1,5:30 AM,0:30,,,Davis  Driving Layup (4 PTS) (Lewis 1 AST),18 - 28,10
+0020000481,107,2,42,1,5:31 AM,0:15,MISS Carter  Driving Layup,,Baker BLOCK (1 BLK),,
+0020000481,108,4,0,1,5:31 AM,0:11,,,Baker REBOUND (Off:1 Def:1),,
+0020000481,110,2,1,1,5:31 AM,0:04,,,MISS Davis  3PT Jump Shot,,
+0020000481,111,4,0,1,5:31 AM,0:01,Willis REBOUND (Off:1 Def:3),,,,
+0020000481,112,2,1,1,5:31 AM,0:00,MISS Willis 79' 3PT Jump Shot,,,,
+0020000481,113,4,0,1,5:31 AM,0:00,RAPTORS Rebound,,,,
+0020000481,114,13,0,1,5:31 AM,0:00,,,,18 - 28,10
+0020000481,116,12,0,2,5:34 AM,12:00,,,,18 - 28,10
+0020000481,117,2,58,2,5:34 AM,11:45,,,MISS Baker 3' Turnaround Hook Shot,,
+0020000481,118,4,0,2,5:34 AM,11:44,Willis REBOUND (Off:1 Def:4),,,,
+0020000481,119,5,1,2,5:34 AM,11:39,Williams Bad Pass Turnover (P1.T2),,Payton STEAL (1 STL),,
+0020000481,120,2,1,2,5:34 AM,11:32,Carter BLOCK (1 BLK),,MISS Payton 18' Jump Shot,,
+0020000481,121,4,0,2,5:35 AM,11:30,,,Baker REBOUND (Off:2 Def:1),,
+0020000481,122,2,1,2,5:35 AM,11:27,,,MISS Baker 19' Jump Shot,,
+0020000481,123,4,0,2,5:35 AM,11:25,Williams REBOUND (Off:0 Def:1),,,,
+0020000481,124,1,47,2,5:35 AM,11:12,Williamson 6' Turnaround Jump Shot (2 PTS) (Carter 2 AST),,,18 - 30,12
+0020000481,125,5,1,2,5:35 AM,10:52,Williams STEAL (1 STL),,Mason Bad Pass Turnover (P1.T5),,
+0020000481,126,1,8,2,5:35 AM,10:46,Carter  Slam Dunk (9 PTS) (Peterson 2 AST),,,18 - 32,14
+0020000481,127,9,1,2,5:35 AM,10:41,,,SuperSonics Timeout: Regular (Reg.2 Short 0),,
+0020000481,131,1,5,2,5:38 AM,10:30,,,Baker 6' Layup (2 PTS) (Payton 2 AST),20 - 32,12
+0020000481,132,5,1,2,5:39 AM,10:16,Peterson Bad Pass Turnover (P1.T3),,Barry STEAL (1 STL),,
+0020000481,133,1,43,2,5:39 AM,10:11,,,Patterson  Alley Oop Layup (4 PTS) (Barry 1 AST),22 - 32,10
+0020000481,134,2,1,2,5:39 AM,9:55,MISS Carter 21' Jump Shot,,,,
+0020000481,135,4,0,2,5:39 AM,9:53,,,Patterson REBOUND (Off:0 Def:2),,
+0020000481,136,2,1,2,5:39 AM,9:44,,,MISS Barry 25' 3PT Jump Shot,,
+0020000481,137,4,0,2,5:39 AM,9:43,Willis REBOUND (Off:1 Def:5),,,,
+0020000481,138,5,2,2,5:39 AM,9:28,Peterson Lost Ball Turnover (P2.T4),,,,
+0020000481,139,6,1,2,5:40 AM,9:18,Willis P.FOUL (P2.T1),,,,
+0020000481,140,2,46,2,5:40 AM,9:10,Willis BLOCK (3 BLK),,MISS Baker 4' Running Jump Shot,,
+0020000481,141,4,0,2,5:40 AM,9:09,,,Patterson REBOUND (Off:1 Def:2),,
+0020000481,143,6,2,2,5:40 AM,9:09,Williamson S.FOUL (P1.T2),,,,
+0020000481,144,8,0,2,5:40 AM,9:09,SUB: Oakley FOR Willis,,,,
+0020000481,145,3,11,2,5:40 AM,9:09,,,Patterson Free Throw 1 of 2 (5 PTS),23 - 32,9
+0020000481,146,8,0,2,5:41 AM,9:09,,,SUB: Davis FOR Payton,,
+0020000481,147,3,12,2,5:41 AM,9:09,,,Patterson Free Throw 2 of 2 (6 PTS),24 - 32,8
+0020000481,149,1,46,2,5:41 AM,8:52,Peterson 6' Running Jump Shot (7 PTS),,,24 - 34,10
+0020000481,150,1,5,2,5:42 AM,8:26,,,Baker  Layup (4 PTS) (Davis 1 AST),26 - 34,8
+0020000481,151,2,1,2,5:42 AM,8:06,MISS Williamson 9' Jump Shot,,,,
+0020000481,152,4,0,2,5:42 AM,8:02,Peterson REBOUND (Off:1 Def:2),,,,
+0020000481,153,2,5,2,5:42 AM,8:00,MISS Peterson  Layup,,,,
+0020000481,154,4,0,2,5:42 AM,7:57,,,Davis REBOUND (Off:0 Def:3),,
+0020000481,155,1,1,2,5:42 AM,7:54,,,Mason 21' Jump Shot (2 PTS) (Barry 2 AST),28 - 34,6
+0020000481,156,1,47,2,5:42 AM,7:38,Williamson 8' Turnaround Jump Shot (4 PTS),,,28 - 36,8
+0020000481,158,1,42,2,5:43 AM,7:20,,,Patterson  Driving Layup (8 PTS),30 - 36,6
+0020000481,159,2,1,2,5:43 AM,6:57,MISS Williams 17' Jump Shot,,,,
+0020000481,160,4,0,2,5:43 AM,6:56,,,Mason REBOUND (Off:0 Def:1),,
+0020000481,162,2,5,2,5:43 AM,6:41,Oakley BLOCK (4 BLK),,MISS Baker  Layup,,
+0020000481,163,4,0,2,5:43 AM,6:39,Oakley REBOUND (Off:0 Def:3),,,,
+0020000481,164,1,42,2,5:43 AM,6:36,Williamson  Driving Layup (6 PTS) (Williams 1 AST),,,30 - 38,8
+0020000481,165,2,1,2,5:44 AM,6:11,Carter BLOCK (2 BLK),,MISS Patterson 9' Jump Shot,,
+0020000481,166,4,0,2,5:44 AM,6:07,,,Patterson REBOUND (Off:2 Def:2),,
+0020000481,167,2,1,2,5:44 AM,6:07,,,MISS Patterson 12' Jump Shot,,
+0020000481,168,4,0,2,5:44 AM,6:07,,,SuperSonics Rebound,,
+0020000481,169,5,11,2,5:44 AM,6:07,,,SuperSonics Turnover: Shot Clock (T#6),,
+0020000481,170,8,0,2,5:44 AM,6:07,SUB: Curry FOR Peterson,,,,
+0020000481,171,8,0,2,5:44 AM,6:07,,,SUB: Lewis FOR Patterson,,
+0020000481,172,2,1,2,5:44 AM,5:58,MISS Carter 19' Jump Shot,,,,
+0020000481,173,4,0,2,5:44 AM,5:56,,,Davis REBOUND (Off:0 Def:4),,
+0020000481,174,2,42,2,5:44 AM,5:50,Williams BLOCK (1 BLK),,MISS Davis  Driving Layup,,
+0020000481,175,4,0,2,5:44 AM,5:48,,,Baker REBOUND (Off:3 Def:1),,
+0020000481,176,1,5,2,5:44 AM,5:45,,,Baker  Layup (6 PTS),32 - 38,6
+0020000481,177,2,1,2,5:45 AM,5:35,MISS Curry 18' Jump Shot,,,,
+0020000481,178,4,0,2,5:45 AM,5:34,,,SuperSonics Rebound,,
+0020000481,179,9,3,2,5:45 AM,5:34,,,,,
+0020000481,182,1,5,2,5:48 AM,5:19,,,Baker  Layup (8 PTS),34 - 38,4
+0020000481,183,1,1,2,5:48 AM,5:11,Carter 18' Jump Shot (11 PTS),,,34 - 40,6
+0020000481,184,2,1,2,5:48 AM,5:04,,,MISS Mason 19' Jump Shot,,
+0020000481,185,4,0,2,5:48 AM,5:03,Williamson REBOUND (Off:0 Def:1),,,,
+0020000481,186,2,1,2,5:48 AM,4:44,MISS Oakley 19' Jump Shot,,Baker BLOCK (2 BLK),,
+0020000481,187,4,0,2,5:48 AM,4:41,,,Barry REBOUND (Off:0 Def:1),,
+0020000481,188,1,8,2,5:48 AM,4:38,,,Baker  Slam Dunk (10 PTS) (Barry 3 AST),36 - 40,4
+0020000481,189,1,47,2,5:49 AM,4:20,Williamson 7' Turnaround Jump Shot (8 PTS) (Carter 3 AST),,,36 - 42,6
+0020000481,190,6,1,2,5:49 AM,4:00,Oakley P.FOUL (P2.T3),,,,
+0020000481,191,8,0,2,5:49 AM,4:00,,,SUB: Payton FOR Davis,,
+0020000481,192,1,5,2,5:50 AM,3:49,,,Payton  Layup (7 PTS),38 - 42,4
+0020000481,193,6,4,2,5:50 AM,3:37,Oakley OFF.Foul (P3),,,,
+0020000481,194,5,5,2,5:50 AM,3:37,Oakley Foul Turnover (P1.T5),,,,
+0020000481,195,8,0,2,5:50 AM,3:37,SUB: Jackson FOR Williams,,,,
+0020000481,196,8,0,2,5:50 AM,3:37,SUB: Willis FOR Oakley,,,,
+0020000481,197,2,5,2,5:51 AM,3:20,,,MISS Baker  Layup,,
+0020000481,198,4,0,2,5:51 AM,3:18,Willis REBOUND (Off:1 Def:6),,,,
+0020000481,199,2,56,2,5:51 AM,3:04,MISS Willis 6' Running Hook Shot,,,,
+0020000481,200,4,0,2,5:51 AM,3:02,,,Baker REBOUND (Off:3 Def:2),,
+0020000481,201,1,1,2,5:51 AM,2:54,,,Payton 7' Jump Shot (9 PTS),40 - 42,2
+0020000481,202,2,1,2,5:51 AM,2:41,MISS Williamson 20' Jump Shot,,,,
+0020000481,203,4,0,2,5:51 AM,2:39,RAPTORS Rebound,,,,
+0020000481,204,6,3,2,5:51 AM,2:39,,,Baker L.B.FOUL (P1.T1),,
+0020000481,205,9,3,2,5:52 AM,2:39,RAPTORS Timeout: Official TV (Full 0 Short 0),,,,
+0020000481,208,8,0,2,5:54 AM,2:39,,,SUB: Patterson FOR Lewis,,
+0020000481,209,1,1,2,5:54 AM,2:31,Curry 19' Jump Shot (2 PTS) (Jackson 6 AST),,,40 - 44,4
+0020000481,210,1,49,2,5:54 AM,2:16,,,Mason  Driving Dunk (4 PTS),42 - 44,2
+0020000481,211,6,1,2,5:55 AM,2:01,,,Mason P.FOUL (P1.T2),,
+0020000481,212,6,1,2,5:55 AM,1:54,,,Mason P.FOUL (P2.T3),,
+0020000481,213,1,1,2,5:56 AM,1:44,Willis 17' Jump Shot (9 PTS),,,42 - 46,4
+0020000481,215,1,1,2,5:56 AM,1:24,,,Patterson 18' Jump Shot (10 PTS),44 - 46,2
+0020000481,216,2,47,2,5:56 AM,1:07,MISS Curry 19' Turnaround Jump Shot,,,,
+0020000481,217,4,0,2,5:56 AM,1:05,,,Mason REBOUND (Off:0 Def:2),,
+0020000481,218,1,1,2,5:56 AM,0:56,,,Barry 25' 3PT Jump Shot (3 PTS) (Baker 1 AST),47 - 46,-1
+0020000481,219,2,1,2,5:57 AM,0:37,MISS Carter 24' 3PT Jump Shot,,,,
+0020000481,220,4,0,2,5:57 AM,0:35,Willis REBOUND (Off:2 Def:6),,,,
+0020000481,221,2,1,2,5:57 AM,0:34,MISS Willis 10' Jump Shot,,,,
+0020000481,222,4,0,2,5:57 AM,0:33,Williamson REBOUND (Off:1 Def:1),,,,
+0020000481,223,2,1,2,5:57 AM,0:32,MISS Williamson 7' Jump Shot,,,,
+0020000481,224,4,0,2,5:57 AM,0:32,Carter REBOUND (Off:1 Def:1),,,,
+0020000481,225,1,4,2,5:57 AM,0:30,Carter  Tip Shot (13 PTS),,,47 - 48,1
+0020000481,226,6,1,2,5:57 AM,0:28,Carter P.FOUL (P2.T4),,,,
+0020000481,227,2,42,2,5:57 AM,0:18,Carter BLOCK (3 BLK),,MISS Payton  Driving Layup,,
+0020000481,228,4,0,2,5:57 AM,0:16,Jackson REBOUND (Off:0 Def:2),,,,
+0020000481,229,1,1,2,5:58 AM,0:00,Williamson 5' Jump Shot (10 PTS) (Carter 4 AST),,,47 - 50,3
+0020000481,230,13,0,2,5:58 AM,0:00,,,,47 - 50,3
+0020000481,232,12,0,3,6:15 AM,12:00,,,,47 - 50,3
+0020000481,233,2,1,3,6:15 AM,11:45,,,MISS Payton 18' Jump Shot,,
+0020000481,234,4,0,3,6:15 AM,11:44,Oakley REBOUND (Off:0 Def:4),,,,
+0020000481,235,1,1,3,6:16 AM,11:30,Carter 25' 3PT Jump Shot (16 PTS) (Oakley 4 AST),,,47 - 53,6
+0020000481,236,2,47,3,6:16 AM,11:14,,,MISS Lewis 7' Turnaround Jump Shot,,
+0020000481,237,4,0,3,6:16 AM,11:12,Peterson REBOUND (Off:1 Def:3),,,,
+0020000481,238,7,2,3,6:16 AM,11:03,,,Davis Violation:Defensive Goaltending,,
+0020000481,239,5,2,3,6:17 AM,10:51,Jackson Lost Ball Turnover (P1.T6),,Ewing STEAL (1 STL),,
+0020000481,240,7,6,3,6:17 AM,10:44,Carter Violation:Double Lane,,,,
+0020000481,242,6,4,3,6:17 AM,10:31,,,Payton OFF.Foul (P1),,
+0020000481,243,5,5,3,6:17 AM,10:31,,,Payton Foul Turnover (P2.T7),,
+0020000481,244,6,4,3,6:18 AM,10:20,Jackson OFF.Foul (P1),,,,
+0020000481,245,5,5,3,6:18 AM,10:20,Jackson Foul Turnover (P2.T7),,,,
+0020000481,246,2,47,3,6:18 AM,10:08,,,MISS Lewis 5' Turnaround Jump Shot,,
+0020000481,247,4,0,3,6:18 AM,10:05,,,Ewing REBOUND (Off:1 Def:3),,
+0020000481,248,2,42,3,6:18 AM,10:02,Willis BLOCK (4 BLK),,MISS Ewing  Driving Layup,,
+0020000481,249,4,0,3,6:18 AM,10:00,Oakley REBOUND (Off:0 Def:5),,,,
+0020000481,250,1,61,3,6:18 AM,9:56,Peterson  Driving Finger Roll (9 PTS) (Oakley 5 AST),,,47 - 55,8
+0020000481,251,2,46,3,6:19 AM,9:37,,,MISS McCoy 7' Running Jump Shot,,
+0020000481,252,4,0,3,6:19 AM,9:36,,,McCoy REBOUND (Off:3 Def:1),,
+0020000481,253,2,58,3,6:19 AM,9:34,,,MISS McCoy 7' Turnaround Hook Shot,,
+0020000481,254,4,0,3,6:19 AM,9:31,,,McCoy REBOUND (Off:4 Def:1),,
+0020000481,255,1,8,3,6:19 AM,9:29,,,McCoy  Slam Dunk (2 PTS),49 - 55,6
+0020000481,256,2,46,3,6:19 AM,9:12,MISS Peterson 8' Running Jump Shot,,,,
+0020000481,257,4,0,3,6:19 AM,9:12,Carter REBOUND (Off:2 Def:1),,,,
+0020000481,258,6,2,3,6:19 AM,9:12,,,Payton S.FOUL (P2.T1),,
+0020000481,259,3,11,3,6:19 AM,9:12,Carter Free Throw 1 of 2 (17 PTS),,,49 - 56,7
+0020000481,260,3,12,3,6:19 AM,9:12,Carter Free Throw 2 of 2 (18 PTS),,,49 - 57,8
+0020000481,262,1,42,3,6:20 AM,9:04,,,Payton  Driving Layup (11 PTS),51 - 57,6
+0020000481,263,5,1,3,6:20 AM,8:52,Jackson Bad Pass Turnover (P3.T8),,Ewing STEAL (2 STL),,
+0020000481,264,1,50,3,6:20 AM,8:47,,,Lewis  Running Dunk (9 PTS) (Davis 2 AST),53 - 57,4
+0020000481,265,9,1,3,6:20 AM,8:43,RAPTORS Timeout: Regular (Full 1 Short 0),,,,
+0020000481,269,2,1,3,6:23 AM,8:27,MISS Oakley 19' Jump Shot,,,,
+0020000481,270,4,0,3,6:23 AM,8:26,,,Lewis REBOUND (Off:1 Def:2),,
+0020000481,271,2,1,3,6:23 AM,8:09,,,MISS Payton 19' Jump Shot,,
+0020000481,272,4,0,3,6:23 AM,8:07,Willis REBOUND (Off:2 Def:7),,,,
+0020000481,273,5,1,3,6:23 AM,8:06,Willis Bad Pass Turnover (P1.T9),,Davis STEAL (1 STL),,
+0020000481,274,2,1,3,6:23 AM,8:01,,,MISS Payton  3PT Jump Shot,,
+0020000481,275,4,0,3,6:24 AM,7:59,,,Davis REBOUND (Off:1 Def:4),,
+0020000481,276,1,3,3,6:24 AM,7:58,,,Davis 8' Hook Shot (6 PTS),55 - 57,2
+0020000481,277,1,1,3,6:24 AM,7:32,Oakley 19' Jump Shot (8 PTS) (Carter 5 AST),,,55 - 59,4
+0020000481,278,2,5,3,6:24 AM,7:17,Willis BLOCK (5 BLK),,MISS Ewing  Layup,,
+0020000481,279,4,0,3,6:24 AM,7:15,Oakley REBOUND (Off:0 Def:6),,,,
+0020000481,280,2,1,3,6:24 AM,7:00,MISS Peterson 18' Jump Shot,,,,
+0020000481,281,4,0,3,6:25 AM,6:58,Carter REBOUND (Off:3 Def:1),,,,
+0020000481,282,1,8,3,6:25 AM,6:57,Carter  Slam Dunk (20 PTS),,,55 - 61,6
+0020000481,283,6,2,3,6:25 AM,6:33,Peterson S.FOUL (P2.T1),,,,
+0020000481,284,3,11,3,6:25 AM,6:33,,,Lewis Free Throw 1 of 2 (10 PTS),56 - 61,5
+0020000481,285,3,12,3,6:25 AM,6:33,,,MISS Lewis Free Throw 2 of 2,,
+0020000481,286,4,0,3,6:26 AM,6:32,Oakley REBOUND (Off:0 Def:7),,,,
+0020000481,287,5,2,3,6:26 AM,6:17,Peterson Lost Ball Turnover (P3.T10),,Davis STEAL (2 STL),,
+0020000481,288,1,50,3,6:26 AM,6:13,,,Lewis  Running Dunk (12 PTS) (Davis 3 AST),58 - 61,3
+0020000481,289,2,1,3,6:26 AM,5:46,MISS Carter 24' 3PT Jump Shot,,,,
+0020000481,290,4,0,3,6:26 AM,5:44,,,Ewing REBOUND (Off:1 Def:4),,
+0020000481,291,5,1,3,6:26 AM,5:41,Peterson STEAL (1 STL),,Ewing Bad Pass Turnover (P1.T8),,
+0020000481,292,1,5,3,6:27 AM,5:40,Peterson  Layup (11 PTS),,,58 - 63,5
+0020000481,293,6,2,3,6:27 AM,5:40,,,Ewing S.FOUL (P1.T2),,
+0020000481,295,8,0,3,6:27 AM,5:40,,,SUB: Baker FOR McCoy,,
+0020000481,296,8,0,3,6:27 AM,5:40,,,SUB: Patterson FOR Ewing,,
+0020000481,297,3,10,3,6:27 AM,5:40,Peterson Free Throw 1 of 1 (12 PTS),,,58 - 64,6
+0020000481,299,2,1,3,6:28 AM,5:24,,,MISS Payton 24' 3PT Jump Shot,,
+0020000481,300,4,0,3,6:28 AM,5:22,Willis REBOUND (Off:2 Def:8),,,,
+0020000481,301,2,1,3,6:28 AM,5:12,MISS Jackson 25' 3PT Jump Shot,,,,
+0020000481,302,4,0,3,6:28 AM,5:10,,,Lewis REBOUND (Off:1 Def:3),,
+0020000481,303,5,1,3,6:28 AM,5:03,Carter STEAL (2 STL),,Payton Bad Pass Turnover (P3.T9),,
+0020000481,304,2,1,3,6:28 AM,4:55,MISS Carter 25' 3PT Jump Shot,,,,
+0020000481,305,4,0,3,6:28 AM,4:54,,,SuperSonics Rebound,,
+0020000481,306,1,49,3,6:29 AM,4:41,,,Patterson  Driving Dunk (12 PTS),60 - 64,4
+0020000481,307,2,1,3,6:29 AM,4:13,MISS Jackson 24' 3PT Jump Shot,,,,
+0020000481,308,4,0,3,6:29 AM,4:12,Willis REBOUND (Off:3 Def:8),,,,
+0020000481,309,1,8,3,6:29 AM,4:10,Willis  Slam Dunk (11 PTS),,,60 - 66,6
+0020000481,310,1,5,3,6:29 AM,3:53,,,Baker  Layup (12 PTS),62 - 66,4
+0020000481,311,2,1,3,6:30 AM,3:35,MISS Willis 14' Jump Shot,,,,
+0020000481,312,4,0,3,6:30 AM,3:33,Peterson REBOUND (Off:2 Def:3),,,,
+0020000481,313,1,5,3,6:30 AM,3:32,Peterson  Layup (14 PTS),,,62 - 68,6
+0020000481,314,1,44,3,6:30 AM,3:19,,,Payton  Reverse Layup (13 PTS),64 - 68,4
+0020000481,315,6,17,3,6:30 AM,3:03,,,SuperSonics T.Foul (Def. 3 Sec Davis ),,
+0020000481,316,3,16,3,6:31 AM,3:03,Oakley Free Throw Technical (9 PTS),,,64 - 69,5
+0020000481,317,1,47,3,6:31 AM,2:50,Carter 25' 3PT Turnaround Jump Shot (23 PTS) (Jackson 7 AST),,,64 - 72,8
+0020000481,318,6,2,3,6:31 AM,2:39,Peterson S.FOUL (P3.T2),,,,
+0020000481,320,9,3,3,6:32 AM,2:39,,,SuperSonics Timeout: Official TV (Reg.2 Short 0),,
+0020000481,324,3,11,3,6:34 AM,2:39,,,Patterson Free Throw 1 of 2 (13 PTS),65 - 72,7
+0020000481,325,3,12,3,6:35 AM,2:39,,,Patterson Free Throw 2 of 2 (14 PTS),66 - 72,6
+0020000481,326,6,2,3,6:35 AM,2:24,,,Baker S.FOUL (P2.T3),,
+0020000481,327,3,11,3,6:35 AM,2:24,MISS Willis Free Throw 1 of 2,,,,
+0020000481,328,4,1,3,6:35 AM,2:24,RAPTORS Rebound,,,,
+0020000481,329,3,12,3,6:36 AM,2:24,Willis Free Throw 2 of 2 (12 PTS),,,66 - 73,7
+0020000481,330,2,1,3,6:36 AM,2:08,,,MISS Davis 18' Jump Shot,,
+0020000481,331,4,0,3,6:36 AM,2:07,Oakley REBOUND (Off:0 Def:8),,,,
+0020000481,332,2,47,3,6:36 AM,1:44,MISS Jackson 11' Turnaround Jump Shot,,,,
+0020000481,333,4,0,3,6:36 AM,1:42,Peterson REBOUND (Off:3 Def:3),,,,
+0020000481,334,1,1,3,6:36 AM,1:41,Peterson 8' Jump Shot (16 PTS),,,66 - 75,9
+0020000481,335,2,1,3,6:37 AM,1:27,,,MISS Davis 24' 3PT Jump Shot,,
+0020000481,336,4,0,3,6:37 AM,1:26,Oakley REBOUND (Off:0 Def:9),,,,
+0020000481,337,5,2,3,6:37 AM,1:10,Willis Lost Ball Turnover (P2.T11),,,,
+0020000481,338,8,0,3,6:37 AM,1:10,,,SUB: Barry FOR Davis,,
+0020000481,339,1,1,3,6:37 AM,0:54,,,Lewis  3PT Jump Shot (15 PTS) (Baker 2 AST),69 - 75,6
+0020000481,340,9,1,3,6:37 AM,0:53,RAPTORS Timeout: Regular (Full 2 Short 0),,,,
+0020000481,343,1,1,3,6:40 AM,0:32,Peterson 20' Jump Shot (18 PTS) (Jackson 8 AST),,,69 - 77,8
+0020000481,346,5,2,3,6:40 AM,0:16,Jackson STEAL (2 STL),,Patterson Lost Ball Turnover (P1.T10),,
+0020000481,347,6,3,3,6:41 AM,0:08,,,Patterson L.B.FOUL (P2.T4),,
+0020000481,348,6,4,3,6:41 AM,0:01,Carter OFF.Foul (P3),,,,
+0020000481,349,5,5,3,6:41 AM,0:01,Carter Foul Turnover (P2.T12),,,,
+0020000481,350,5,1,3,6:41 AM,0:00,Willis STEAL (1 STL),,Lewis Bad Pass Turnover (P1.T11),,
+0020000481,351,13,0,3,6:41 AM,0:00,,,,69 - 77,8
+0020000481,354,12,0,4,6:44 AM,12:00,,,,69 - 77,8
+0020000481,355,5,4,4,6:44 AM,11:40,Willis Traveling Turnover (P3.T13),,,,
+0020000481,356,8,0,4,6:45 AM,11:40,,,SUB: Mason FOR Lewis,,
+0020000481,357,1,1,4,6:45 AM,11:27,,,Barry 25' 3PT Jump Shot (6 PTS) (Baker 3 AST),72 - 77,5
+0020000481,358,1,1,4,6:45 AM,11:06,Willis 18' Jump Shot (14 PTS) (Oakley 6 AST),,,72 - 79,7
+0020000481,359,2,42,4,6:46 AM,10:43,,,MISS Payton  Driving Layup,,
+0020000481,360,4,0,4,6:46 AM,10:39,,,Patterson REBOUND (Off:3 Def:2),,
+0020000481,361,1,1,4,6:46 AM,10:38,,,Patterson 7' Jump Shot (16 PTS),74 - 79,5
+0020000481,362,1,47,4,6:46 AM,10:22,Oakley 17' Turnaround Jump Shot (11 PTS) (Jackson 9 AST),,,74 - 81,7
+0020000481,363,2,1,4,6:46 AM,10:04,,,MISS Barry 24' 3PT Jump Shot,,
+0020000481,364,4,0,4,6:46 AM,10:02,,,Payton REBOUND (Off:2 Def:0),,
+0020000481,365,2,1,4,6:46 AM,9:57,,,MISS Payton 15' Jump Shot,,
+0020000481,366,4,0,4,6:46 AM,9:56,,,Patterson REBOUND (Off:4 Def:2),,
+0020000481,367,5,1,4,6:46 AM,9:53,Carter STEAL (3 STL),,Patterson Bad Pass Turnover (P2.T12),,
+0020000481,369,2,1,4,6:47 AM,9:44,MISS Carter 25' 3PT Jump Shot,,,,
+0020000481,370,4,0,4,6:47 AM,9:43,,,SuperSonics Rebound,,
+0020000481,372,8,0,4,6:47 AM,9:43,SUB: Williams FOR Carter,,,,
+0020000481,374,6,1,4,6:47 AM,9:30,Willis P.FOUL (P3.T1),,,,
+0020000481,375,1,1,4,6:48 AM,9:21,,,Baker 19' Jump Shot (14 PTS) (Payton 3 AST),76 - 81,5
+0020000481,376,2,1,4,6:48 AM,9:03,MISS Oakley 16' Jump Shot,,,,
+0020000481,377,4,0,4,6:48 AM,9:01,,,Baker REBOUND (Off:3 Def:3),,
+0020000481,378,1,7,4,6:48 AM,8:47,,,Patterson  Dunk (18 PTS) (Payton 4 AST),78 - 81,3
+0020000481,379,6,11,4,6:48 AM,8:37,,,Patterson T.FOUL (P2.T0),,
+0020000481,380,3,16,4,6:49 AM,8:37,Oakley Free Throw Technical (12 PTS),,,78 - 82,4
+0020000481,381,9,3,4,6:49 AM,8:37,,,,,
+0020000481,388,2,1,4,6:51 AM,8:24,MISS Williams 17' Jump Shot,,,,
+0020000481,389,4,0,4,6:52 AM,8:23,,,Barry REBOUND (Off:0 Def:2),,
+0020000481,390,6,1,4,6:52 AM,8:14,Williams P.FOUL (P1.T2),,,,
+0020000481,391,1,47,4,6:52 AM,8:01,,,Baker 5' Turnaround Jump Shot (16 PTS),80 - 82,2
+0020000481,392,1,1,4,6:52 AM,7:42,Peterson 21' Jump Shot (20 PTS) (Williams 2 AST),,,80 - 84,4
+0020000481,393,2,1,4,6:53 AM,7:15,,,MISS Payton 25' 3PT Jump Shot,,
+0020000481,394,4,0,4,6:53 AM,7:13,Oakley REBOUND (Off:0 Def:10),,,,
+0020000481,395,1,57,4,6:53 AM,6:59,Willis 7' Driving Hook Shot (16 PTS),,,80 - 86,6
+0020000481,396,2,40,4,6:54 AM,6:39,Oakley BLOCK (5 BLK),,MISS Patterson  Layup,,
+0020000481,397,4,0,4,6:54 AM,6:37,,,Patterson REBOUND (Off:5 Def:2),,
+0020000481,398,2,5,4,6:54 AM,6:37,Oakley BLOCK (6 BLK),,MISS Patterson  Layup,,
+0020000481,399,4,0,4,6:54 AM,6:37,,,SuperSonics Rebound,,
+0020000481,400,8,0,4,6:54 AM,6:37,SUB: Williamson FOR Willis,,,,
+0020000481,401,2,46,4,6:54 AM,6:32,,,MISS Payton 13' Running Jump Shot,,
+0020000481,402,4,0,4,6:54 AM,6:30,Peterson REBOUND (Off:3 Def:4),,,,
+0020000481,404,6,4,4,6:54 AM,6:14,Peterson OFF.Foul (P4),,,,
+0020000481,405,5,5,4,6:54 AM,6:14,Peterson Foul Turnover (P4.T14),,,,
+0020000481,406,5,8,4,6:55 AM,6:03,,,Mason 3 Second Violation Turnover (P2.T13),,
+0020000481,407,1,44,4,6:55 AM,5:54,Peterson  Reverse Layup (22 PTS) (Williams 3 AST),,,80 - 88,8
+0020000481,408,5,1,4,6:55 AM,5:37,,,Barry Bad Pass Turnover (P1.T14),,
+0020000481,409,9,3,4,6:56 AM,5:37,RAPTORS Timeout: Official TV (Full 2 Short 0),,,,
+0020000481,411,8,0,4,6:58 AM,5:37,,,SUB: Lewis FOR Mason,,
+0020000481,412,1,1,4,6:58 AM,5:20,Jackson 16' Jump Shot (5 PTS) (Oakley 7 AST),,,80 - 90,10
+0020000481,413,6,1,4,6:59 AM,4:58,Oakley P.FOUL (P4.T3),,,,
+0020000481,414,1,5,4,6:59 AM,4:46,,,Baker  Layup (18 PTS),82 - 90,8
+0020000481,416,2,1,4,7:00 AM,4:24,MISS Jackson 24' 3PT Jump Shot,,,,
+0020000481,417,4,0,4,7:00 AM,4:23,,,SuperSonics Rebound,,
+0020000481,418,2,47,4,7:00 AM,4:10,,,MISS Baker 13' Turnaround Jump Shot,,
+0020000481,419,4,0,4,7:00 AM,4:08,Williamson REBOUND (Off:1 Def:2),,,,
+0020000481,420,6,1,4,7:00 AM,3:49,,,Patterson P.FOUL (P3.T1),,
+0020000481,421,8,0,4,7:01 AM,3:49,SUB: Carter FOR Peterson,,,,
+0020000481,422,2,1,4,7:01 AM,3:44,MISS Williams 18' Jump Shot,,,,
+0020000481,423,4,0,4,7:01 AM,3:42,Carter REBOUND (Off:4 Def:1),,,,
+0020000481,424,5,4,4,7:01 AM,3:26,Oakley Traveling Turnover (P2.T15),,,,
+0020000481,425,6,2,4,7:02 AM,3:10,Oakley S.FOUL (P5.T4),,,,
+0020000481,426,8,0,4,7:02 AM,3:10,,,SUB: Mason FOR Patterson,,
+0020000481,427,8,0,4,7:02 AM,3:10,SUB: Willis FOR Oakley,,,,
+0020000481,428,3,11,4,7:02 AM,3:10,,,Lewis Free Throw 1 of 2 (16 PTS),83 - 90,7
+0020000481,429,3,12,4,7:02 AM,3:10,,,MISS Lewis Free Throw 2 of 2,,
+0020000481,430,4,0,4,7:03 AM,3:10,,,Barry REBOUND (Off:1 Def:2),,
+0020000481,432,1,1,4,7:03 AM,3:02,,,Lewis 25' 3PT Jump Shot (19 PTS) (Payton 5 AST),86 - 90,4
+0020000481,433,2,42,4,7:03 AM,2:39,MISS Williams  Driving Layup,,Baker BLOCK (3 BLK),,
+0020000481,434,4,0,4,7:03 AM,2:38,RAPTORS Rebound,,,,
+0020000481,435,9,3,4,7:03 AM,2:38,,,SuperSonics Timeout: Official TV (Reg.2 Short 0),,
+0020000481,438,8,0,4,7:05 AM,2:38,SUB: Peterson FOR Williams,,,,
+0020000481,439,2,1,4,7:06 AM,2:36,MISS Carter 24' 3PT Jump Shot,,,,
+0020000481,440,4,0,4,7:06 AM,2:34,RAPTORS Rebound,,,,
+0020000481,441,5,1,4,7:06 AM,2:20,Carter Bad Pass Turnover (P3.T16),,Baker STEAL (1 STL),,
+0020000481,442,6,2,4,7:07 AM,2:15,Willis S.FOUL (P4.PN),,,,
+0020000481,443,3,11,4,7:07 AM,2:15,,,MISS Barry Free Throw 1 of 2,,
+0020000481,444,4,1,4,7:07 AM,2:15,,,SuperSonics Rebound,,
+0020000481,445,3,12,4,7:07 AM,2:15,,,MISS Barry Free Throw 2 of 2,,
+0020000481,446,4,0,4,7:07 AM,2:15,Willis REBOUND (Off:3 Def:9),,,,
+0020000481,447,5,1,4,7:07 AM,1:59,Jackson Bad Pass Turnover (P4.T17),,Barry STEAL (2 STL),,
+0020000481,448,6,1,4,7:07 AM,1:56,Carter P.FOUL (P4.PN),,,,
+0020000481,449,3,11,4,7:08 AM,1:56,,,Barry Free Throw 1 of 2 (7 PTS),87 - 90,3
+0020000481,450,3,12,4,7:08 AM,1:56,,,Barry Free Throw 2 of 2 (8 PTS),88 - 90,2
+0020000481,451,2,1,4,7:09 AM,1:36,MISS Peterson 24' 3PT Jump Shot,,,,
+0020000481,452,4,0,4,7:09 AM,1:34,,,Payton REBOUND (Off:2 Def:1),,
+0020000481,453,1,8,4,7:09 AM,1:30,,,Lewis  Slam Dunk (21 PTS) (Payton 6 AST),90 - 90,TIE
+0020000481,454,9,1,4,7:09 AM,1:30,RAPTORS Timeout: Regular (Full 3 Short 0),,,,
+0020000481,456,8,0,4,7:11 AM,1:30,SUB: Oakley FOR Carter,,,,
+0020000481,457,8,0,4,7:11 AM,1:30,SUB: Williams FOR Williamson,,,,
+0020000481,459,1,1,4,7:11 AM,1:16,Williams 18' Jump Shot (2 PTS) (Jackson 10 AST),,,90 - 92,2
+0020000481,460,9,2,4,7:12 AM,0:59,,,SuperSonics Timeout: Short (Reg.2 Short 1),,
+0020000481,463,2,1,4,7:13 AM,0:53,Willis BLOCK (6 BLK),,MISS Lewis 25' 3PT Jump Shot,,
+0020000481,464,4,0,4,7:13 AM,0:52,RAPTORS Rebound,,,,
+0020000481,466,2,58,4,7:14 AM,0:33,MISS Willis 9' Turnaround Hook Shot,,,,
+0020000481,467,4,0,4,7:14 AM,0:30,,,Lewis REBOUND (Off:1 Def:4),,
+0020000481,468,1,5,4,7:14 AM,0:14,,,Baker  Layup (20 PTS),92 - 92,TIE
+0020000481,469,2,56,4,7:14 AM,0:00,MISS Jackson 5' Running Hook Shot,,,,
+0020000481,470,4,0,4,7:14 AM,0:00,Willis REBOUND (Off:4 Def:9),,,,
+0020000481,471,2,4,4,7:14 AM,0:00,MISS Willis  Tip Shot,,,,
+0020000481,472,4,0,4,7:14 AM,0:00,Williams REBOUND (Off:1 Def:1),,,,
+0020000481,473,1,4,4,7:14 AM,0:00,Williams  Tip Shot (4 PTS),,,92 - 94,2
+0020000481,474,9,1,4,7:15 AM,0:00,,,SuperSonics Timeout: Regular (Reg.3 Short 1),,
+0020000481,476,13,0,4,7:16 AM,0:00,,,,92 - 94,2

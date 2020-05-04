@@ -1,0 +1,428 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000529,0,12,0,1,8:12 PM,12:00,,,,,
+0021000529,1,10,0,1,8:12 PM,12:00,Jump Ball Howard vs. Hill: Tip to Bass,,,,
+0021000529,3,2,1,1,8:12 PM,11:35,MISS Turkoglu 25' 3PT Jump Shot,,,,
+0021000529,4,4,0,1,8:12 PM,11:34,,,Hill REBOUND (Off:0 Def:1),,
+0021000529,5,1,1,1,8:13 PM,11:09,,,Battier 24' 3PT Jump Shot (3 PTS) (Lowry 1 AST),3 - 0,-3
+0021000529,6,2,73,1,8:13 PM,10:52,MISS Bass 2' Driving Reverse Layup,,,,
+0021000529,7,4,0,1,8:13 PM,10:50,,,Scola REBOUND (Off:0 Def:1),,
+0021000529,8,1,65,1,8:13 PM,10:42,,,Scola 9' Jump Hook Shot (2 PTS) (Martin 1 AST),5 - 0,-5
+0021000529,9,1,1,1,8:14 PM,10:28,Bass 20' Jump Shot (2 PTS) (Nelson 1 AST),,,5 - 2,-3
+0021000529,10,1,1,1,8:14 PM,10:02,,,Scola 20' Jump Shot (4 PTS) (Martin 2 AST),7 - 2,-5
+0021000529,11,1,42,1,8:14 PM,9:44,Nelson 1' Driving Layup (2 PTS),,,7 - 4,-3
+0021000529,12,6,2,1,8:15 PM,9:32,Nelson S.FOUL (P1.T1),,,,
+0021000529,13,3,11,1,8:15 PM,9:32,,,Martin Free Throw 1 of 2 (1 PTS),8 - 4,-4
+0021000529,15,3,12,1,8:15 PM,9:32,,,Martin Free Throw 2 of 2 (2 PTS),9 - 4,-5
+0021000529,17,2,56,1,8:16 PM,9:15,MISS Howard 9' Running Hook Shot,,,,
+0021000529,18,4,0,1,8:16 PM,9:13,,,Scola REBOUND (Off:0 Def:2),,
+0021000529,19,2,1,1,8:16 PM,8:57,,,MISS Hill 18' Jump Shot,,
+0021000529,20,4,0,1,8:16 PM,8:56,Bass REBOUND (Off:0 Def:1),,,,
+0021000529,21,1,3,1,8:16 PM,8:49,Howard 8' Hook Shot (2 PTS) (Richardson 1 AST),,,9 - 6,-3
+0021000529,22,2,1,1,8:16 PM,8:36,,,MISS Scola 7' Jump Shot,,
+0021000529,24,4,0,1,8:16 PM,8:35,,,Hill REBOUND (Off:1 Def:1),,
+0021000529,23,1,72,1,8:16 PM,8:35,,,Hill 1' Putback Layup (2 PTS),11 - 6,-5
+0021000529,25,6,4,1,8:16 PM,8:26,Howard OFF.Foul (P1),,,,
+0021000529,26,5,5,1,8:16 PM,8:26,Howard Foul Turnover (P1.T1),,,,
+0021000529,27,6,2,1,8:17 PM,8:15,Richardson S.FOUL (P1.T2),,,,
+0021000529,28,3,11,1,8:17 PM,8:15,,,Martin Free Throw 1 of 2 (3 PTS),12 - 6,-6
+0021000529,30,3,12,1,8:17 PM,8:15,,,Martin Free Throw 2 of 2 (4 PTS),13 - 6,-7
+0021000529,32,2,63,1,8:18 PM,7:57,MISS Turkoglu 18' Fadeaway Jumper,,,,
+0021000529,33,4,0,1,8:18 PM,7:56,,,Martin REBOUND (Off:0 Def:1),,
+0021000529,34,1,1,1,8:18 PM,7:43,,,Martin 21' Jump Shot (6 PTS) (Hill 1 AST),15 - 6,-9
+0021000529,35,9,1,1,8:18 PM,7:38,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0021000529,37,1,42,1,8:21 PM,7:25,Turkoglu 2' Driving Layup (2 PTS),,,15 - 8,-7
+0021000529,38,2,1,1,8:22 PM,7:14,,,MISS Martin 26' 3PT Jump Shot,,
+0021000529,39,4,0,1,8:22 PM,7:13,Howard REBOUND (Off:0 Def:1),,,,
+0021000529,41,2,1,1,8:22 PM,7:01,MISS Bass 18' Jump Shot,,,,
+0021000529,42,4,0,1,8:22 PM,7:00,Turkoglu REBOUND (Off:1 Def:0),,,,
+0021000529,43,2,86,1,8:22 PM,6:56,MISS Turkoglu 9' Turnaround Fadeaway Shot,,,,
+0021000529,44,4,0,1,8:22 PM,6:55,Bass REBOUND (Off:1 Def:1),,,,
+0021000529,45,1,5,1,8:22 PM,6:55,Bass 2' Layup (4 PTS),,,15 - 10,-5
+0021000529,46,6,2,1,8:22 PM,6:55,,,Hill S.FOUL (P1.T1),,
+0021000529,48,3,10,1,8:23 PM,6:55,Bass Free Throw 1 of 1 (5 PTS),,,15 - 11,-4
+0021000529,50,1,5,1,8:23 PM,6:38,,,Scola 2' Layup (6 PTS),17 - 11,-6
+0021000529,51,6,2,1,8:23 PM,6:38,Bass S.FOUL (P1.T3),,,,
+0021000529,52,3,10,1,8:23 PM,6:38,,,Scola Free Throw 1 of 1 (7 PTS),18 - 11,-7
+0021000529,54,2,1,1,8:24 PM,6:20,MISS Bass 20' Jump Shot,,,,
+0021000529,55,4,0,1,8:24 PM,6:19,,,Martin REBOUND (Off:0 Def:2),,
+0021000529,56,2,1,1,8:24 PM,6:06,,,MISS Battier 25' 3PT Jump Shot,,
+0021000529,57,4,0,1,8:24 PM,6:05,Nelson REBOUND (Off:0 Def:1),,,,
+0021000529,58,2,44,1,8:24 PM,5:46,MISS Howard 2' Reverse Layup,,,,
+0021000529,59,4,0,1,8:24 PM,5:44,,,Scola REBOUND (Off:0 Def:3),,
+0021000529,60,5,2,1,8:25 PM,5:34,Howard STEAL (1 STL),,Hill Lost Ball Turnover (P1.T1),,
+0021000529,61,6,1,1,8:25 PM,5:34,,,Lowry P.FOUL (P1.T2),,
+0021000529,62,8,0,1,8:25 PM,5:34,SUB: Redick FOR Turkoglu,,,,
+0021000529,63,1,94,1,8:25 PM,5:15,Howard 8' Jump Bank Hook Shot (4 PTS),,,18 - 13,-5
+0021000529,65,1,1,1,8:26 PM,4:58,,,Martin 22' Jump Shot (8 PTS) (Hill 2 AST),20 - 13,-7
+0021000529,66,1,1,1,8:26 PM,4:48,Richardson 25' 3PT Jump Shot (3 PTS) (Nelson 2 AST),,,20 - 16,-4
+0021000529,67,6,1,1,8:26 PM,4:25,Howard P.FOUL (P2.T4),,,,
+0021000529,68,8,0,1,8:26 PM,4:25,SUB: Anderson FOR Howard,,,,
+0021000529,69,1,1,1,8:27 PM,4:19,,,Scola 19' Jump Shot (9 PTS) (Lowry 2 AST),22 - 16,-6
+0021000529,70,5,1,1,8:27 PM,4:05,Redick Bad Pass Turnover (P1.T2),,Battier STEAL (1 STL),,
+0021000529,71,1,1,1,8:27 PM,4:00,,,Martin 25' 3PT Jump Shot (11 PTS) (Lowry 3 AST),25 - 16,-9
+0021000529,72,1,1,1,8:27 PM,3:45,Richardson 26' 3PT Jump Shot (6 PTS) (Nelson 3 AST),,,25 - 19,-6
+0021000529,73,5,1,1,8:28 PM,3:35,,,Battier Bad Pass Turnover (P1.T2),,
+0021000529,74,1,79,1,8:28 PM,3:18,Redick 15' Pullup Jump Shot (2 PTS) (Anderson 1 AST),,,25 - 21,-4
+0021000529,75,2,46,1,8:28 PM,3:03,,,MISS Martin 17' Running Jump Shot,,
+0021000529,76,4,0,1,8:28 PM,3:03,,,Rockets Rebound,,
+0021000529,77,2,1,1,8:29 PM,3:01,,,MISS Martin 20' Jump Shot,,
+0021000529,78,4,0,1,8:29 PM,2:59,Anderson REBOUND (Off:0 Def:1),,,,
+0021000529,79,1,42,1,8:29 PM,2:51,Nelson 2' Driving Layup (4 PTS),,,25 - 23,-2
+0021000529,80,2,1,1,8:29 PM,2:41,,,MISS Martin 18' Jump Shot,,
+0021000529,81,4,0,1,8:29 PM,2:40,Anderson REBOUND (Off:0 Def:2),,,,
+0021000529,82,2,1,1,8:29 PM,2:34,MISS Nelson 25' 3PT Jump Shot,,,,
+0021000529,83,4,0,1,8:29 PM,2:32,,,Hill REBOUND (Off:1 Def:2),,
+0021000529,84,6,1,1,8:29 PM,2:29,Anderson P.FOUL (P1.PN),,,,
+0021000529,85,9,1,1,8:30 PM,2:29,,,Rockets Timeout: Regular (Reg.1 Short 0),,
+0021000529,87,8,0,1,8:31 PM,2:29,SUB: Arenas FOR Nelson,,,,
+0021000529,88,8,0,1,8:32 PM,2:29,,,SUB: Lee FOR Battier,,
+0021000529,89,8,0,1,8:32 PM,2:29,,,SUB: Budinger FOR Hill,,
+0021000529,90,8,0,1,8:32 PM,2:29,,,SUB: Patterson FOR Martin,,
+0021000529,91,3,11,1,8:32 PM,2:29,,,MISS Lowry Free Throw 1 of 2,,
+0021000529,92,4,1,1,8:32 PM,2:29,,,Rockets Rebound,,
+0021000529,93,3,12,1,8:33 PM,2:29,,,MISS Lowry Free Throw 2 of 2,,
+0021000529,95,4,0,1,8:33 PM,2:28,Anderson REBOUND (Off:0 Def:3),,,,
+0021000529,96,5,4,1,8:33 PM,2:15,Redick Traveling Turnover (P2.T3),,,,
+0021000529,97,2,1,1,8:34 PM,1:53,,,MISS Scola 12' Jump Shot,,
+0021000529,98,4,0,1,8:34 PM,1:51,Bass REBOUND (Off:1 Def:2),,,,
+0021000529,99,2,1,1,8:34 PM,1:42,MISS Anderson 26' 3PT Jump Shot,,,,
+0021000529,100,4,0,1,8:34 PM,1:41,,,Budinger REBOUND (Off:0 Def:1),,
+0021000529,102,6,1,1,8:34 PM,1:34,Bass P.FOUL (P2.PN),,,,
+0021000529,103,3,11,1,8:34 PM,1:34,,,MISS Scola Free Throw 1 of 2,,
+0021000529,104,4,1,1,8:34 PM,1:34,,,Rockets Rebound,,
+0021000529,105,8,0,1,8:34 PM,1:34,SUB: Clark FOR Bass,,,,
+0021000529,106,3,12,1,8:34 PM,1:34,,,Scola Free Throw 2 of 2 (10 PTS),26 - 23,-3
+0021000529,108,1,86,1,8:35 PM,1:20,Richardson 13' Turnaround Fadeaway (8 PTS),,,26 - 25,-1
+0021000529,109,6,4,1,8:35 PM,1:03,,,Patterson OFF.Foul (P1),,
+0021000529,110,5,5,1,8:35 PM,1:03,,,Patterson Foul Turnover (P1.T3),,
+0021000529,111,1,1,1,8:36 PM,0:51,Richardson 22' Jump Shot (10 PTS) (Arenas 1 AST),,,26 - 27,1
+0021000529,112,6,1,1,8:36 PM,0:40,Anderson P.FOUL (P2.PN),,,,
+0021000529,113,3,11,1,8:36 PM,0:40,,,Scola Free Throw 1 of 2 (11 PTS),27 - 27,TIE
+0021000529,115,8,0,1,8:36 PM,0:40,,,SUB: Williams FOR Lowry,,
+0021000529,116,3,12,1,8:37 PM,0:40,,,Scola Free Throw 2 of 2 (12 PTS),28 - 27,-1
+0021000529,118,5,1,1,8:37 PM,0:28,Arenas Bad Pass Turnover (P1.T4),,Scola STEAL (1 STL),,
+0021000529,119,2,1,1,8:37 PM,0:18,,,MISS Budinger 25' 3PT Jump Shot,,
+0021000529,120,4,0,1,8:37 PM,0:16,Arenas REBOUND (Off:0 Def:1),,,,
+0021000529,121,2,1,1,8:37 PM,0:00,MISS Arenas 19' Jump Shot,,,,
+0021000529,122,4,0,1,8:37 PM,0:00,,,Scola REBOUND (Off:0 Def:4),,
+0021000529,123,13,0,1,8:37 PM,0:00,,,,28 - 27,-1
+0021000529,125,12,0,2,8:41 PM,12:00,,,,28 - 27,-1
+0021000529,126,2,1,2,8:42 PM,11:37,,,MISS Williams 20' Jump Shot,,
+0021000529,127,4,0,2,8:42 PM,11:36,Redick REBOUND (Off:0 Def:1),,,,
+0021000529,128,1,8,2,8:42 PM,11:19,Howard 1' Slam Dunk (6 PTS),,,28 - 29,1
+0021000529,129,1,1,2,8:42 PM,10:57,,,Patterson 18' Jump Shot (2 PTS) (Budinger 1 AST),30 - 29,-1
+0021000529,130,1,1,2,8:43 PM,10:32,Clark 21' Jump Shot (2 PTS),,,30 - 31,1
+0021000529,131,1,42,2,8:43 PM,10:14,,,Budinger 2' Driving Layup (2 PTS) (Williams 1 AST),32 - 31,-1
+0021000529,132,1,42,2,8:43 PM,9:54,Clark 2' Driving Layup (4 PTS) (Turkoglu 1 AST),,,32 - 33,1
+0021000529,133,2,1,2,8:44 PM,9:41,,,MISS Miller 19' Jump Shot,,
+0021000529,134,4,0,2,8:44 PM,9:40,Howard REBOUND (Off:0 Def:2),,,,
+0021000529,135,6,1,2,8:44 PM,9:37,,,Lee P.FOUL (P1.T1),,
+0021000529,136,2,1,2,8:44 PM,9:34,MISS Clark 18' Jump Shot,,,,
+0021000529,137,4,0,2,8:44 PM,9:33,,,Lee REBOUND (Off:0 Def:1),,
+0021000529,138,6,1,2,8:44 PM,9:33,Howard P.FOUL (P3.T1),,,,
+0021000529,139,8,0,2,8:44 PM,9:33,SUB: Bass FOR Howard,,,,
+0021000529,140,5,1,2,8:45 PM,9:15,Clark STEAL (1 STL),,Williams Bad Pass Turnover (P1.T4),,
+0021000529,141,6,1,2,8:45 PM,9:10,,,Lee P.FOUL (P2.T2),,
+0021000529,142,1,65,2,8:45 PM,9:01,Bass 4' Jump Hook Shot (7 PTS) (Arenas 2 AST),,,32 - 35,3
+0021000529,143,1,1,2,8:46 PM,8:44,,,Patterson 22' Jump Shot (4 PTS) (Miller 1 AST),34 - 35,1
+0021000529,144,1,65,2,8:46 PM,8:21,Bass 4' Jump Hook Shot (9 PTS),,,34 - 37,3
+0021000529,145,1,42,2,8:46 PM,8:06,,,Williams 2' Driving Layup (2 PTS) (Miller 2 AST),36 - 37,1
+0021000529,146,2,63,2,8:47 PM,7:49,MISS Turkoglu 20' Fadeaway Jumper,,,,
+0021000529,147,4,0,2,8:47 PM,7:46,,,Williams REBOUND (Off:0 Def:1),,
+0021000529,148,2,46,2,8:47 PM,7:40,,,MISS Williams 9' Running Jump Shot,,
+0021000529,149,4,0,2,8:47 PM,7:39,Bass REBOUND (Off:1 Def:3),,,,
+0021000529,150,2,1,2,8:47 PM,7:33,MISS Arenas 17' Jump Shot,,,,
+0021000529,151,4,0,2,8:47 PM,7:32,,,Patterson REBOUND (Off:0 Def:1),,
+0021000529,152,2,1,2,8:47 PM,7:22,,,MISS Lee 20' Jump Shot,,
+0021000529,153,4,0,2,8:47 PM,7:22,MAGIC Rebound,,,,
+0021000529,154,9,4,2,8:47 PM,7:22,,,,,
+0021000529,158,2,63,2,8:51 PM,7:03,MISS Turkoglu 10' Fadeaway Jumper,,,,
+0021000529,159,4,0,2,8:51 PM,7:02,Bass REBOUND (Off:2 Def:3),,,,
+0021000529,162,6,1,2,8:51 PM,7:02,,,Miller P.FOUL (P1.T3),,
+0021000529,163,6,1,2,8:51 PM,6:57,,,Patterson P.FOUL (P2.T4),,
+0021000529,165,2,1,2,8:52 PM,6:47,MISS Clark 12' Jump Shot,,,,
+0021000529,166,4,0,2,8:52 PM,6:46,,,Miller REBOUND (Off:0 Def:1),,
+0021000529,167,2,1,2,8:52 PM,6:33,,,MISS Budinger 17' Jump Shot,,
+0021000529,168,4,0,2,8:52 PM,6:31,Arenas REBOUND (Off:0 Def:2),,,,
+0021000529,169,5,1,2,8:52 PM,6:25,Turkoglu Bad Pass Turnover (P1.T5),,,,
+0021000529,170,2,1,2,8:52 PM,6:09,,,MISS Williams 25' 3PT Jump Shot,,
+0021000529,171,4,0,2,8:52 PM,6:07,,,Lee REBOUND (Off:1 Def:1),,
+0021000529,172,2,1,2,8:53 PM,5:59,,,MISS Lee 25' 3PT Jump Shot,,
+0021000529,173,4,0,2,8:53 PM,5:58,,,Budinger REBOUND (Off:1 Def:1),,
+0021000529,174,1,3,2,8:53 PM,5:54,,,Miller 4' Hook Shot (2 PTS) (Budinger 2 AST),38 - 37,-1
+0021000529,175,1,42,2,8:53 PM,5:40,Turkoglu 2' Driving Layup (4 PTS),,,38 - 39,1
+0021000529,176,6,1,2,8:53 PM,5:21,Arenas P.FOUL (P1.T2),,,,
+0021000529,177,9,1,2,8:53 PM,5:21,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0021000529,180,8,0,2,8:56 PM,5:21,SUB: Richardson FOR Redick,,,,
+0021000529,181,8,0,2,8:56 PM,5:21,SUB: Nelson FOR Arenas,,,,
+0021000529,182,1,5,2,8:56 PM,5:15,,,Budinger 2' Layup (4 PTS) (Miller 3 AST),40 - 39,-1
+0021000529,183,1,1,2,8:57 PM,4:55,Richardson 25' 3PT Jump Shot (13 PTS) (Nelson 4 AST),,,40 - 42,2
+0021000529,184,1,66,2,8:57 PM,4:39,,,Patterson 11' Jump Bank Shot (6 PTS) (Lee 1 AST),42 - 42,TIE
+0021000529,185,9,2,2,8:57 PM,4:31,MAGIC Timeout: Short (Full 2 Short 1),,,,
+0021000529,187,8,0,2,8:58 PM,4:31,,,SUB: Martin FOR Lee,,
+0021000529,188,8,0,2,8:58 PM,4:31,,,SUB: Lowry FOR Williams,,
+0021000529,189,6,1,2,8:58 PM,4:24,,,Lowry P.FOUL (P2.PN),,
+0021000529,190,8,0,2,8:58 PM,4:24,,,SUB: Scola FOR Patterson,,
+0021000529,191,3,11,2,8:58 PM,4:24,Nelson Free Throw 1 of 2 (5 PTS),,,42 - 43,1
+0021000529,193,3,12,2,8:59 PM,4:24,Nelson Free Throw 2 of 2 (6 PTS),,,42 - 44,2
+0021000529,195,6,2,2,8:59 PM,4:14,Richardson S.FOUL (P2.T3),,,,
+0021000529,196,3,11,2,9:00 PM,4:14,,,Martin Free Throw 1 of 2 (12 PTS),43 - 44,1
+0021000529,198,8,0,2,9:00 PM,4:14,SUB: Redick FOR Richardson,,,,
+0021000529,199,3,12,2,9:00 PM,4:14,,,MISS Martin Free Throw 2 of 2,,
+0021000529,201,4,0,2,9:00 PM,4:13,Bass REBOUND (Off:2 Def:4),,,,
+0021000529,202,2,1,2,9:00 PM,3:59,MISS Clark 20' Jump Shot,,,,
+0021000529,203,4,0,2,9:00 PM,3:57,Nelson REBOUND (Off:1 Def:1),,,,
+0021000529,204,5,1,2,9:00 PM,3:47,Nelson Bad Pass Turnover (P1.T6),,Scola STEAL (2 STL),,
+0021000529,205,1,1,2,9:01 PM,3:42,,,Martin 5' Jump Shot (14 PTS),45 - 44,-1
+0021000529,206,6,2,2,9:01 PM,3:42,Redick S.FOUL (P1.T4),,,,
+0021000529,207,3,10,2,9:01 PM,3:42,,,Martin Free Throw 1 of 1 (15 PTS),46 - 44,-2
+0021000529,209,1,1,2,9:01 PM,3:27,Turkoglu 12' Jump Shot (6 PTS),,,46 - 46,TIE
+0021000529,210,2,1,2,9:01 PM,3:09,,,MISS Miller 16' Jump Shot,,
+0021000529,211,4,0,2,9:01 PM,3:07,Redick REBOUND (Off:0 Def:2),,,,
+0021000529,212,1,49,2,9:02 PM,3:01,Bass 2' Driving Dunk (11 PTS) (Turkoglu 2 AST),,,46 - 48,2
+0021000529,213,6,26,2,9:02 PM,2:48,,,Scola Offensive Charge Foul (P1.PN),,
+0021000529,214,5,5,2,9:02 PM,2:48,,,Scola Foul Turnover (P1.T5),,
+0021000529,215,9,1,2,9:02 PM,2:48,,,Rockets Timeout: Regular (Reg.2 Short 0),,
+0021000529,218,8,0,2,9:04 PM,2:48,,,SUB: Jeffries FOR Budinger,,
+0021000529,219,8,0,2,9:04 PM,2:48,,,SUB: Battier FOR Miller,,
+0021000529,220,8,0,2,9:04 PM,2:48,SUB: Anderson FOR Clark,,,,
+0021000529,221,1,42,2,9:05 PM,2:34,Nelson 2' Driving Layup (8 PTS),,,46 - 50,4
+0021000529,222,2,1,2,9:05 PM,2:20,,,MISS Scola 15' Jump Shot,,
+0021000529,223,4,0,2,9:05 PM,2:19,Turkoglu REBOUND (Off:1 Def:1),,,,
+0021000529,224,2,1,2,9:05 PM,2:11,MISS Redick 21' Jump Shot,,,,
+0021000529,225,4,0,2,9:05 PM,2:09,,,Jeffries REBOUND (Off:0 Def:1),,
+0021000529,226,2,46,2,9:06 PM,1:57,,,MISS Scola 7' Running Jump Shot,,
+0021000529,227,4,0,2,9:06 PM,1:55,Bass REBOUND (Off:2 Def:5),,,,
+0021000529,228,2,1,2,9:06 PM,1:46,MISS Anderson  3PT Jump Shot,,,,
+0021000529,229,4,0,2,9:06 PM,1:45,,,Scola REBOUND (Off:0 Def:5),,
+0021000529,230,2,1,2,9:06 PM,1:36,,,MISS Lowry 25' 3PT Jump Shot,,
+0021000529,231,4,0,2,9:06 PM,1:35,Nelson REBOUND (Off:1 Def:2),,,,
+0021000529,232,1,1,2,9:06 PM,1:26,Redick 25' 3PT Jump Shot (5 PTS) (Turkoglu 3 AST),,,46 - 53,7
+0021000529,233,2,46,2,9:06 PM,1:15,,,MISS Lowry 5' Running Jump Shot,,
+0021000529,234,4,0,2,9:06 PM,1:15,MAGIC Rebound,,,,
+0021000529,235,5,2,2,9:07 PM,0:55,Nelson Lost Ball Turnover (P2.T7),,Lowry STEAL (1 STL),,
+0021000529,236,2,5,2,9:07 PM,0:49,,,MISS Lowry 1' Layup,,
+0021000529,237,4,0,2,9:07 PM,0:46,,,Lowry REBOUND (Off:1 Def:0),,
+0021000529,238,1,5,2,9:07 PM,0:46,,,Martin 2' Layup (17 PTS) (Lowry 4 AST),48 - 53,5
+0021000529,239,2,1,2,9:07 PM,0:29,MISS Anderson 24' 3PT Jump Shot,,,,
+0021000529,240,4,0,2,9:07 PM,0:28,,,Martin REBOUND (Off:0 Def:3),,
+0021000529,241,1,42,2,9:08 PM,0:09,,,Martin 3' Driving Layup (19 PTS),50 - 53,3
+0021000529,242,2,1,2,9:08 PM,0:01,MISS Nelson 20' Jump Shot,,,,
+0021000529,244,4,0,2,9:08 PM,0:00,Bass REBOUND (Off:3 Def:5),,,,
+0021000529,243,2,4,2,9:08 PM,0:00,MISS Bass 3' Tip Shot,,,,
+0021000529,245,4,0,2,9:08 PM,0:00,MAGIC Rebound,,,,
+0021000529,246,13,0,2,9:08 PM,0:00,,,,50 - 53,3
+0021000529,248,12,0,3,9:27 PM,12:00,,,,50 - 53,3
+0021000529,249,5,40,3,9:27 PM,11:42,,,Battier Out of Bounds Lost Ball Turnover (P2.T6),,
+0021000529,250,2,94,3,9:28 PM,11:23,MISS Howard 8' Jump Bank Hook Shot,,,,
+0021000529,251,4,0,3,9:28 PM,11:22,,,Battier REBOUND (Off:0 Def:1),,
+0021000529,252,2,1,3,9:28 PM,11:01,,,MISS Hill 13' Jump Shot,,
+0021000529,253,4,0,3,9:28 PM,11:00,Richardson REBOUND (Off:0 Def:1),,,,
+0021000529,254,1,1,3,9:28 PM,10:53,Turkoglu 13' Jump Shot (8 PTS) (Richardson 2 AST),,,50 - 55,5
+0021000529,255,1,1,3,9:29 PM,10:31,,,Battier 24' 3PT Jump Shot (6 PTS) (Lowry 5 AST),53 - 55,2
+0021000529,256,1,1,3,9:29 PM,10:14,Bass 18' Jump Shot (13 PTS) (Richardson 3 AST),,,53 - 57,4
+0021000529,257,1,65,3,9:29 PM,9:55,,,Battier 7' Jump Hook Shot (8 PTS) (Scola 1 AST),55 - 57,2
+0021000529,258,5,40,3,9:30 PM,9:41,Howard Out of Bounds Lost Ball Turnover (P2.T8),,,,
+0021000529,259,6,1,3,9:30 PM,9:37,Bass P.FOUL (P3.T1),,,,
+0021000529,260,2,1,3,9:30 PM,9:31,,,MISS Battier 3' Jump Shot,,
+0021000529,261,4,0,3,9:30 PM,9:30,Turkoglu REBOUND (Off:1 Def:2),,,,
+0021000529,262,6,1,3,9:30 PM,9:24,,,Lowry P.FOUL (P3.T1),,
+0021000529,263,1,1,3,9:31 PM,9:14,Bass 15' Jump Shot (15 PTS),,,55 - 59,4
+0021000529,264,2,1,3,9:31 PM,8:59,,,MISS Martin 27' 3PT Jump Shot,,
+0021000529,265,4,0,3,9:31 PM,8:58,Bass REBOUND (Off:3 Def:6),,,,
+0021000529,266,1,52,3,9:31 PM,8:50,Howard 1' Alley Oop Dunk (8 PTS) (Turkoglu 4 AST),,,55 - 61,6
+0021000529,267,2,63,3,9:32 PM,8:27,,,MISS Martin 26' 3PT Fadeaway Jumper,,
+0021000529,268,4,0,3,9:32 PM,8:27,MAGIC Rebound,,,,
+0021000529,269,6,3,3,9:32 PM,8:27,,,Scola L.B.FOUL (P2.T2),,
+0021000529,271,1,1,3,9:32 PM,8:05,Richardson 24' 3PT Jump Shot (16 PTS) (Nelson 5 AST),,,55 - 64,9
+0021000529,272,2,1,3,9:33 PM,7:48,,,MISS Scola 19' Jump Shot,,
+0021000529,273,4,0,3,9:33 PM,7:47,Howard REBOUND (Off:0 Def:3),,,,
+0021000529,274,1,1,3,9:33 PM,7:35,Bass 19' Jump Shot (17 PTS) (Nelson 6 AST),,,55 - 66,11
+0021000529,275,9,1,3,9:33 PM,7:33,,,Rockets Timeout: Regular (Reg.3 Short 0),,
+0021000529,278,2,1,3,9:36 PM,7:21,,,MISS Martin 25' 3PT Jump Shot,,
+0021000529,279,4,0,3,9:37 PM,7:19,Howard REBOUND (Off:0 Def:4),,,,
+0021000529,280,6,1,3,9:37 PM,7:12,,,Martin P.FOUL (P1.T3),,
+0021000529,281,1,8,3,9:37 PM,7:03,Richardson 1' Slam Dunk (18 PTS) (Nelson 7 AST),,,55 - 68,13
+0021000529,282,2,86,3,9:38 PM,6:46,,,MISS Hill 8' Turnaround Fadeaway Shot,,
+0021000529,283,4,0,3,9:38 PM,6:44,Howard REBOUND (Off:0 Def:5),,,,
+0021000529,284,2,57,3,9:38 PM,6:34,MISS Howard 6' Driving Hook Shot,,Hill BLOCK (1 BLK),,
+0021000529,285,4,0,3,9:38 PM,6:34,MAGIC Rebound,,,,
+0021000529,286,6,5,3,9:38 PM,6:34,,,Lowry IN.FOUL (P4.T4),,
+0021000529,287,6,11,3,9:38 PM,6:34,,,Lowry T.FOUL (P4.T4),,
+0021000529,288,3,16,3,9:39 PM,6:34,Bass Free Throw Technical (18 PTS),,,55 - 69,14
+0021000529,290,3,11,3,9:39 PM,6:34,Nelson Free Throw 1 of 2 (9 PTS),,,55 - 70,15
+0021000529,292,8,0,3,9:39 PM,6:34,,,SUB: Lee FOR Lowry,,
+0021000529,293,3,12,3,9:40 PM,6:34,Nelson Free Throw 2 of 2 (10 PTS),,,55 - 71,16
+0021000529,295,5,4,3,9:40 PM,6:19,,,Martin Traveling Turnover (P1.T7),,
+0021000529,296,7,1,3,9:40 PM,6:19,,,Rockets Violation: Delay of game Violation,,
+0021000529,298,2,1,3,9:41 PM,6:05,MISS Howard 7' Jump Shot,,,,
+0021000529,299,4,0,3,9:41 PM,6:05,,,Rockets Rebound,,
+0021000529,300,6,3,3,9:41 PM,6:05,Bass L.B.FOUL (P4.T2),,,,
+0021000529,301,8,0,3,9:41 PM,6:05,SUB: Anderson FOR Bass,,,,
+0021000529,304,5,15,3,9:42 PM,5:47,,,Hill Offensive Goaltending Turnover (P2.T8),,
+0021000529,306,1,1,3,9:42 PM,5:33,Anderson 25' 3PT Jump Shot (3 PTS) (Nelson 8 AST),,,55 - 74,19
+0021000529,307,9,1,3,9:42 PM,5:31,,,Rockets Timeout: Regular (Reg.4 Short 0),,
+0021000529,310,8,0,3,9:45 PM,5:31,,,SUB: Smith FOR Lee,,
+0021000529,311,2,1,3,9:45 PM,5:16,Howard BLOCK (1 BLK),,MISS Hill 10' Jump Shot,,
+0021000529,312,4,0,3,9:45 PM,5:14,,,Martin REBOUND (Off:1 Def:3),,
+0021000529,313,2,5,3,9:46 PM,5:07,Howard BLOCK (2 BLK),,MISS Hill 3' Layup,,
+0021000529,314,4,0,3,9:46 PM,5:05,Howard REBOUND (Off:0 Def:6),,,,
+0021000529,315,5,4,3,9:46 PM,4:51,Howard Traveling Turnover (P3.T9),,,,
+0021000529,316,1,1,3,9:46 PM,4:39,,,Hill 17' Jump Shot (4 PTS),57 - 74,17
+0021000529,317,1,1,3,9:47 PM,4:23,Anderson 27' 3PT Jump Shot (6 PTS) (Turkoglu 5 AST),,,57 - 77,20
+0021000529,318,1,1,3,9:47 PM,4:12,,,Martin 26' 3PT Jump Shot (22 PTS) (Smith 1 AST),60 - 77,17
+0021000529,319,1,73,3,9:47 PM,3:54,Turkoglu 2' Driving Reverse Layup (10 PTS),,,60 - 79,19
+0021000529,321,1,1,3,9:47 PM,3:39,,,Scola 17' Jump Shot (14 PTS) (Smith 2 AST),62 - 79,17
+0021000529,322,1,42,3,9:48 PM,3:21,Anderson 2' Driving Layup (8 PTS) (Turkoglu 6 AST),,,62 - 81,19
+0021000529,323,6,2,3,9:48 PM,3:21,,,Battier S.FOUL (P1.PN),,
+0021000529,324,8,0,3,9:48 PM,3:21,SUB: Redick FOR Richardson,,,,
+0021000529,325,3,10,3,9:48 PM,3:21,Anderson Free Throw 1 of 1 (9 PTS),,,62 - 82,20
+0021000529,327,2,1,3,9:49 PM,3:09,,,MISS Smith 20' Jump Shot,,
+0021000529,328,4,0,3,9:49 PM,3:08,Anderson REBOUND (Off:0 Def:4),,,,
+0021000529,329,2,44,3,9:49 PM,2:58,MISS Turkoglu 2' Reverse Layup,,,,
+0021000529,331,4,0,3,9:49 PM,2:57,Anderson REBOUND (Off:1 Def:4),,,,
+0021000529,330,1,4,3,9:49 PM,2:57,Anderson 2' Tip Shot (11 PTS),,,62 - 84,22
+0021000529,332,1,3,3,9:49 PM,2:40,,,Battier 6' Hook Shot (10 PTS) (Scola 2 AST),64 - 84,20
+0021000529,333,6,4,3,9:49 PM,2:34,Nelson OFF.Foul (P2),,,,
+0021000529,334,5,5,3,9:49 PM,2:34,Nelson Foul Turnover (P3.T10),,,,
+0021000529,335,8,0,3,9:50 PM,2:34,SUB: Arenas FOR Nelson,,,,
+0021000529,336,8,0,3,9:50 PM,2:34,,,SUB: Budinger FOR Battier,,
+0021000529,340,2,1,3,9:50 PM,2:18,,,MISS Hill 14' Jump Shot,,
+0021000529,341,4,0,3,9:50 PM,2:17,,,Budinger REBOUND (Off:2 Def:1),,
+0021000529,343,2,1,3,9:50 PM,2:15,,,MISS Budinger 15' Jump Shot,,
+0021000529,344,4,0,3,9:50 PM,2:12,Howard REBOUND (Off:0 Def:7),,,,
+0021000529,345,1,71,3,9:50 PM,1:55,Anderson 2' Finger Roll Layup (13 PTS) (Howard 1 AST),,,64 - 86,22
+0021000529,346,6,1,3,9:51 PM,1:44,Howard P.FOUL (P4.T3),,,,
+0021000529,347,3,11,3,9:51 PM,1:44,,,Hill Free Throw 1 of 2 (5 PTS),65 - 86,21
+0021000529,349,8,0,3,9:51 PM,1:44,SUB: Clark FOR Howard,,,,
+0021000529,350,3,12,3,9:51 PM,1:44,,,Hill Free Throw 2 of 2 (6 PTS),66 - 86,20
+0021000529,352,2,42,3,9:52 PM,1:30,MISS Arenas 2' Driving Layup,,,,
+0021000529,353,4,0,3,9:52 PM,1:28,,,Budinger REBOUND (Off:2 Def:2),,
+0021000529,354,6,1,3,9:52 PM,1:25,Redick P.FOUL (P2.PN),,,,
+0021000529,355,3,11,3,9:52 PM,1:25,,,Martin Free Throw 1 of 2 (23 PTS),67 - 86,19
+0021000529,357,8,0,3,9:52 PM,1:25,,,SUB: Williams FOR Scola,,
+0021000529,358,8,0,3,9:52 PM,1:25,,,SUB: Miller FOR Hill,,
+0021000529,359,3,12,3,9:53 PM,1:25,,,MISS Martin Free Throw 2 of 2,,
+0021000529,361,4,0,3,9:53 PM,1:23,Clark REBOUND (Off:0 Def:1),,,,
+0021000529,362,1,63,3,9:53 PM,1:05,Turkoglu 18' Fadeaway Jumper (12 PTS),,,67 - 88,21
+0021000529,363,1,42,3,9:53 PM,0:53,,,Martin 2' Driving Layup (25 PTS),69 - 88,19
+0021000529,364,2,1,3,9:53 PM,0:39,MISS Arenas 25' 3PT Jump Shot,,,,
+0021000529,365,4,0,3,9:53 PM,0:38,Clark REBOUND (Off:1 Def:1),,,,
+0021000529,366,1,44,3,9:53 PM,0:37,Clark 2' Reverse Layup (6 PTS),,,69 - 90,21
+0021000529,367,6,2,3,9:54 PM,0:28,Redick S.FOUL (P3.PN),,,,
+0021000529,368,3,11,3,9:54 PM,0:28,,,Martin Free Throw 1 of 2 (26 PTS),70 - 90,20
+0021000529,370,3,12,3,9:54 PM,0:28,,,Martin Free Throw 2 of 2 (27 PTS),71 - 90,19
+0021000529,372,1,42,3,9:55 PM,0:14,Clark 2' Driving Layup (8 PTS) (Arenas 3 AST),,,71 - 92,21
+0021000529,373,2,1,3,9:55 PM,0:02,,,MISS Budinger 25' 3PT Jump Shot,,
+0021000529,374,4,0,3,9:55 PM,0:01,Anderson REBOUND (Off:1 Def:5),,,,
+0021000529,375,13,0,3,9:55 PM,0:00,,,,71 - 92,21
+0021000529,377,12,0,4,9:59 PM,12:00,,,,71 - 92,21
+0021000529,378,2,1,4,9:59 PM,11:45,MISS Anderson 24' 3PT Jump Shot,,,,
+0021000529,379,4,0,4,9:59 PM,11:44,,,Lee REBOUND (Off:1 Def:2),,
+0021000529,380,2,47,4,9:59 PM,11:26,,,MISS Lee 17' Turnaround Jump Shot,,
+0021000529,381,4,0,4,10:00 PM,11:23,Richardson REBOUND (Off:0 Def:2),,,,
+0021000529,382,5,1,4,10:00 PM,11:20,Richardson Bad Pass Turnover (P1.T11),,,,
+0021000529,383,2,5,4,10:00 PM,11:04,Clark BLOCK (1 BLK),,MISS Jeffries 2' Layup,,
+0021000529,384,4,0,4,10:00 PM,11:03,Anderson REBOUND (Off:1 Def:6),,,,
+0021000529,385,2,1,4,10:00 PM,10:51,MISS Anderson 6' Jump Shot,,Patterson BLOCK (1 BLK),,
+0021000529,386,4,0,4,10:00 PM,10:51,MAGIC Rebound,,,,
+0021000529,387,6,1,4,10:01 PM,10:50,,,Patterson P.FOUL (P3.T1),,
+0021000529,388,2,5,4,10:01 PM,10:42,MISS Redick 3' Layup,,Lee BLOCK (1 BLK),,
+0021000529,389,4,0,4,10:01 PM,10:40,,,Patterson REBOUND (Off:0 Def:2),,
+0021000529,390,6,2,4,10:01 PM,10:39,Arenas S.FOUL (P2.T1),,,,
+0021000529,391,3,11,4,10:01 PM,10:39,,,Budinger Free Throw 1 of 2 (5 PTS),72 - 92,20
+0021000529,393,3,12,4,10:02 PM,10:39,,,Budinger Free Throw 2 of 2 (6 PTS),73 - 92,19
+0021000529,395,5,1,4,10:02 PM,10:21,Arenas Bad Pass Turnover (P2.T12),,Jeffries STEAL (1 STL),,
+0021000529,396,5,2,4,10:02 PM,10:18,Arenas STEAL (1 STL),,Lee Lost Ball Turnover (P1.T9),,
+0021000529,397,5,1,4,10:02 PM,10:16,Redick Bad Pass Turnover (P3.T13),,,,
+0021000529,398,1,1,4,10:03 PM,10:10,,,Patterson 17' Jump Shot (8 PTS) (Jeffries 1 AST),75 - 92,17
+0021000529,399,6,2,4,10:03 PM,9:47,,,Patterson S.FOUL (P4.T2),,
+0021000529,400,3,11,4,10:04 PM,9:47,Redick Free Throw 1 of 2 (6 PTS),,,75 - 93,18
+0021000529,403,3,12,4,10:04 PM,9:47,Redick Free Throw 2 of 2 (7 PTS),,,75 - 94,19
+0021000529,405,1,1,4,10:04 PM,9:35,,,Patterson 19' Jump Shot (10 PTS) (Jeffries 2 AST),77 - 94,17
+0021000529,406,2,79,4,10:05 PM,9:07,MISS Redick 16' Pullup Jump Shot,,,,
+0021000529,407,4,0,4,10:05 PM,9:06,,,Williams REBOUND (Off:0 Def:2),,
+0021000529,408,1,56,4,10:05 PM,8:52,,,Williams 6' Running Hook Shot (4 PTS),79 - 94,15
+0021000529,409,2,1,4,10:05 PM,8:42,MISS Arenas 25' 3PT Jump Shot,,,,
+0021000529,410,4,0,4,10:05 PM,8:41,Clark REBOUND (Off:2 Def:1),,,,
+0021000529,411,2,5,4,10:05 PM,8:38,MISS Clark 2' Layup,,Budinger BLOCK (1 BLK),,
+0021000529,412,4,0,4,10:05 PM,8:38,MAGIC Rebound,,,,
+0021000529,413,9,4,4,10:05 PM,8:38,,,,,
+0021000529,415,8,0,4,10:07 PM,8:38,SUB: Howard FOR Clark,,,,
+0021000529,417,5,39,4,10:08 PM,8:38,Redick Step Out of Bounds Turnover (P4.T14),,,,
+0021000529,418,2,1,4,10:09 PM,8:21,,,MISS Jeffries 4' Jump Shot,,
+0021000529,419,4,0,4,10:09 PM,8:20,Howard REBOUND (Off:0 Def:8),,,,
+0021000529,420,2,1,4,10:09 PM,8:15,MISS Richardson 26' 3PT Jump Shot,,,,
+0021000529,421,4,0,4,10:09 PM,8:14,,,Rockets Rebound,,
+0021000529,422,2,1,4,10:09 PM,7:59,,,MISS Lee 20' Jump Shot,,
+0021000529,423,4,0,4,10:09 PM,7:57,,,Patterson REBOUND (Off:1 Def:2),,
+0021000529,424,2,1,4,10:09 PM,7:50,,,MISS Jeffries 26' 3PT Jump Shot,,
+0021000529,425,4,0,4,10:09 PM,7:48,Richardson REBOUND (Off:0 Def:3),,,,
+0021000529,426,1,65,4,10:10 PM,7:35,Howard 6' Jump Hook Shot (10 PTS),,,79 - 96,17
+0021000529,427,5,40,4,10:10 PM,7:21,,,Williams Out of Bounds Lost Ball Turnover (P2.T10),,
+0021000529,428,5,1,4,10:10 PM,7:02,Howard Bad Pass Turnover (P4.T15),,Budinger STEAL (1 STL),,
+0021000529,429,6,1,4,10:11 PM,7:01,Richardson P.FOUL (P3.T2),,,,
+0021000529,430,18,1,4,10:11 PM,7:01,,,,,
+0021000529,432,2,1,4,10:12 PM,6:55,,,MISS Williams 20' Jump Shot,,
+0021000529,433,4,0,4,10:12 PM,6:54,Howard REBOUND (Off:0 Def:9),,,,
+0021000529,434,1,42,4,10:13 PM,6:44,Arenas 2' Driving Layup (2 PTS),,,79 - 98,19
+0021000529,435,1,1,4,10:13 PM,6:22,,,Patterson 19' Jump Shot (12 PTS),81 - 98,17
+0021000529,436,6,1,4,10:13 PM,6:03,,,Jeffries P.FOUL (P1.T3),,
+0021000529,437,1,42,4,10:14 PM,5:53,Arenas 1' Driving Layup (4 PTS),,,81 - 100,19
+0021000529,438,6,2,4,10:14 PM,5:40,Arenas S.FOUL (P3.T3),,,,
+0021000529,439,9,1,4,10:14 PM,5:40,MAGIC Timeout: Regular (Full 3 Short 1),,,,
+0021000529,441,8,0,4,10:17 PM,5:40,SUB: Duhon FOR Richardson,,,,
+0021000529,442,8,0,4,10:17 PM,5:40,SUB: Richardson FOR Redick,,,,
+0021000529,444,3,11,4,10:17 PM,5:40,,,Williams Free Throw 1 of 2 (5 PTS),82 - 100,18
+0021000529,446,3,12,4,10:17 PM,5:40,,,Williams Free Throw 2 of 2 (6 PTS),83 - 100,17
+0021000529,448,1,8,4,10:18 PM,5:28,Howard 2' Slam Dunk (12 PTS) (Arenas 4 AST),,,83 - 102,19
+0021000529,449,6,2,4,10:18 PM,5:28,,,Patterson S.FOUL (P5.T4),,
+0021000529,450,3,10,4,10:18 PM,5:28,Howard Free Throw 1 of 1 (13 PTS),,,83 - 103,20
+0021000529,452,2,1,4,10:18 PM,5:14,,,MISS Lee 20' Jump Shot,,
+0021000529,453,4,0,4,10:18 PM,5:13,Howard REBOUND (Off:0 Def:10),,,,
+0021000529,454,2,1,4,10:18 PM,5:01,MISS Richardson 4' Jump Shot,,Jeffries BLOCK (1 BLK),,
+0021000529,455,4,0,4,10:18 PM,4:59,,,Budinger REBOUND (Off:2 Def:3),,
+0021000529,456,2,63,4,10:19 PM,4:51,,,MISS Williams 10' Fadeaway Jumper,,
+0021000529,457,4,0,4,10:19 PM,4:50,Duhon REBOUND (Off:0 Def:1),,,,
+0021000529,458,2,1,4,10:19 PM,4:39,MISS Richardson 15' Jump Shot,,,,
+0021000529,459,4,0,4,10:19 PM,4:38,,,Lee REBOUND (Off:1 Def:3),,
+0021000529,460,6,2,4,10:19 PM,4:23,Howard S.FOUL (P5.T4),,,,
+0021000529,461,3,11,4,10:19 PM,4:23,,,Budinger Free Throw 1 of 2 (7 PTS),84 - 103,19
+0021000529,463,3,12,4,10:20 PM,4:23,,,Budinger Free Throw 2 of 2 (8 PTS),85 - 103,18
+0021000529,465,2,42,4,10:20 PM,4:03,MISS Anderson 3' Driving Layup,,,,
+0021000529,466,4,0,4,10:20 PM,4:03,Howard REBOUND (Off:1 Def:10),,,,
+0021000529,469,2,53,4,10:20 PM,4:02,MISS Howard 1' Tip Shot,,,,
+0021000529,474,4,0,4,10:20 PM,4:02,,,Rockets Rebound,,
+0021000529,467,1,42,4,10:21 PM,3:48,,,Jeffries 3' Driving Layup (2 PTS),87 - 103,16
+0021000529,468,1,1,4,10:21 PM,3:37,Arenas 18' Jump Shot (6 PTS) (Anderson 2 AST),,,87 - 105,18
+0021000529,485,2,42,4,10:21 PM,3:23,Arenas BLOCK (1 BLK),,MISS Lee 3' Driving Layup,,
+0021000529,471,4,0,4,10:21 PM,3:18,,,Patterson REBOUND (Off:2 Def:2),,
+0021000529,470,2,1,4,10:21 PM,3:18,,,MISS Williams 24' 3PT Jump Shot,,
+0021000529,472,4,0,4,10:21 PM,3:16,Arenas REBOUND (Off:0 Def:3),,,,
+0021000529,475,5,4,4,10:22 PM,3:00,Duhon Traveling Turnover (P1.T16),,,,
+0021000529,477,1,1,4,10:22 PM,2:43,,,Williams 7' Jump Shot (8 PTS),89 - 105,16
+0021000529,478,2,1,4,10:22 PM,2:29,MISS Richardson 24' 3PT Jump Shot,,,,
+0021000529,479,4,0,4,10:22 PM,2:27,,,Lee REBOUND (Off:1 Def:4),,
+0021000529,480,2,1,4,10:22 PM,2:22,,,MISS Budinger 25' 3PT Jump Shot,,
+0021000529,481,4,0,4,10:23 PM,2:21,,,Jeffries REBOUND (Off:1 Def:1),,
+0021000529,482,1,7,4,10:23 PM,2:18,,,Budinger 1' Dunk (10 PTS) (Jeffries 3 AST),91 - 105,14
+0021000529,483,6,2,4,10:23 PM,2:01,,,Lee S.FOUL (P3.PN),,
+0021000529,484,9,1,4,10:23 PM,2:01,,,Rockets Timeout: Regular (Reg.5 Short 0),,
+0021000529,487,8,0,4,10:25 PM,2:01,SUB: Clark FOR Howard,,,,
+0021000529,489,3,11,4,10:26 PM,2:01,Arenas Free Throw 1 of 2 (7 PTS),,,91 - 106,15
+0021000529,491,3,12,4,10:26 PM,2:01,Arenas Free Throw 2 of 2 (8 PTS),,,91 - 107,16
+0021000529,493,2,65,4,10:27 PM,1:47,,,MISS Patterson 10' Jump Hook Shot,,
+0021000529,494,4,0,4,10:27 PM,1:45,Richardson REBOUND (Off:0 Def:1),,,,
+0021000529,495,2,1,4,10:27 PM,1:39,MISS Arenas 26' 3PT Jump Shot,,,,
+0021000529,496,4,0,4,10:27 PM,1:38,,,Williams REBOUND (Off:0 Def:3),,
+0021000529,497,1,1,4,10:27 PM,1:18,,,Williams 26' 3PT Jump Shot (11 PTS) (Patterson 1 AST),94 - 107,13
+0021000529,498,2,1,4,10:27 PM,1:00,MISS Duhon 27' 3PT Jump Shot,,,,
+0021000529,499,4,0,4,10:27 PM,0:59,,,Lee REBOUND (Off:1 Def:5),,
+0021000529,500,6,2,4,10:28 PM,0:51,Clark S.FOUL (P1.PN),,,,
+0021000529,501,3,11,4,10:28 PM,0:51,,,Lee Free Throw 1 of 2 (1 PTS),95 - 107,12
+0021000529,503,3,12,4,10:28 PM,0:51,,,MISS Lee Free Throw 2 of 2,,
+0021000529,505,4,0,4,10:28 PM,0:49,Clark REBOUND (Off:2 Def:2),,,,
+0021000529,506,1,1,4,10:28 PM,0:38,Anderson 25' 3PT Jump Shot (16 PTS) (Duhon 1 AST),,,95 - 110,15
+0021000529,507,2,5,4,10:29 PM,0:23,Anderson BLOCK (1 BLK),,MISS Williams 3' Layup,,
+0021000529,508,4,0,4,10:29 PM,0:22,Arenas REBOUND (Off:0 Def:4),,,,
+0021000529,509,13,0,4,10:29 PM,0:00,,,,95 - 110,15

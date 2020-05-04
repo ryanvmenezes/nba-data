@@ -1,0 +1,459 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021200227,0,12,0,1,7:41 PM,12:00,,,,,
+0021200227,1,10,0,1,7:41 PM,12:00,Jump Ball Smith vs. Varejao: Tip to Horford,,,,
+0021200227,2,2,1,1,7:41 PM,11:43,MISS Horford 20' Jump Shot,,,,
+0021200227,3,4,0,1,7:41 PM,11:41,,,Varejao REBOUND (Off:0 Def:1),,
+0021200227,4,2,46,1,7:42 PM,11:23,,,MISS Varejao 8' Running Jump Shot,,
+0021200227,5,4,0,1,7:42 PM,11:20,Stevenson REBOUND (Off:0 Def:1),,,,
+0021200227,6,2,1,1,7:42 PM,10:58,MISS Teague 19' Jump Shot,,,,
+0021200227,7,4,0,1,7:42 PM,10:55,Horford REBOUND (Off:1 Def:0),,,,
+0021200227,8,5,19,1,7:42 PM,10:55,Horford Kicked Ball Violation Turnover (P1.T1),,,,
+0021200227,9,6,2,1,7:43 PM,10:49,Smith S.FOUL (P1.T1),,,,
+0021200227,10,3,11,1,7:43 PM,10:49,,,Pargo Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0021200227,12,3,12,1,7:43 PM,10:49,,,Pargo Free Throw 2 of 2 (2 PTS),2 - 0,-2
+0021200227,15,5,2,1,7:44 PM,10:28,Smith Lost Ball Turnover (P1.T2),,Pargo STEAL (1 STL),,
+0021200227,24,2,43,1,7:44 PM,10:22,,,MISS Gee 1' Alley Oop Layup,,
+0021200227,40,4,0,1,7:44 PM,10:20,,,Varejao REBOUND (Off:1 Def:1),,
+0021200227,16,1,5,1,7:44 PM,10:19,,,Varejao 1' Layup (2 PTS),4 - 0,-4
+0021200227,17,1,77,1,7:44 PM,10:11,Harris 6' Driving Jump Shot (2 PTS) (Stevenson 1 AST),,,4 - 2,-2
+0021200227,18,6,2,1,7:44 PM,10:11,,,Waiters S.FOUL (P1.T1),,
+0021200227,19,3,10,1,7:44 PM,10:11,Harris Free Throw 1 of 1 (3 PTS),,,4 - 3,-1
+0021200227,21,6,1,1,7:45 PM,9:57,Harris P.FOUL (P1.T2),,,,
+0021200227,22,2,1,1,7:45 PM,9:46,Smith BLOCK (1 BLK),,MISS Thompson 6' Jump Shot,,
+0021200227,23,4,0,1,7:45 PM,9:44,Horford REBOUND (Off:1 Def:1),,,,
+0021200227,25,6,2,1,7:45 PM,9:42,,,Waiters S.FOUL (P2.T2),,
+0021200227,26,3,11,1,7:46 PM,9:42,MISS Teague Free Throw 1 of 2,,,,
+0021200227,28,4,1,1,7:46 PM,9:42,HAWKS Rebound,,,,
+0021200227,29,8,0,1,7:46 PM,9:42,,,SUB: Gibson FOR Waiters,,
+0021200227,30,3,12,1,7:46 PM,9:42,MISS Teague Free Throw 2 of 2,,,,
+0021200227,32,4,0,1,7:46 PM,9:41,Smith REBOUND (Off:1 Def:0),,,,
+0021200227,33,2,5,1,7:46 PM,9:37,MISS Teague 2' Layup,,,,
+0021200227,35,4,0,1,7:46 PM,9:36,Horford REBOUND (Off:2 Def:1),,,,
+0021200227,34,1,72,1,7:46 PM,9:36,Horford 1' Putback Layup (2 PTS),,,4 - 5,1
+0021200227,36,2,1,1,7:46 PM,9:24,,,MISS Varejao 20' Jump Shot,,
+0021200227,37,4,0,1,7:46 PM,9:22,,,Thompson REBOUND (Off:1 Def:0),,
+0021200227,38,2,42,1,7:47 PM,9:02,,,MISS Gibson 2' Driving Layup,,
+0021200227,39,4,0,1,7:47 PM,9:01,Smith REBOUND (Off:1 Def:1),,,,
+0021200227,41,2,63,1,7:47 PM,8:46,MISS Smith 11' Fadeaway Jumper,,,,
+0021200227,42,4,0,1,7:47 PM,8:43,,,Varejao REBOUND (Off:1 Def:2),,
+0021200227,43,1,49,1,7:47 PM,8:33,,,Gee 2' Driving Dunk (2 PTS) (Varejao 1 AST),6 - 5,-1
+0021200227,44,2,42,1,7:47 PM,8:13,MISS Smith  Driving Layup,,Thompson BLOCK (1 BLK),,
+0021200227,45,4,0,1,7:48 PM,8:11,,,Varejao REBOUND (Off:1 Def:3),,
+0021200227,46,2,1,1,7:48 PM,7:59,,,MISS Gee 16' Jump Shot,,
+0021200227,47,4,0,1,7:48 PM,7:58,Smith REBOUND (Off:1 Def:2),,,,
+0021200227,48,6,2,1,7:48 PM,7:54,,,Gee S.FOUL (P1.T3),,
+0021200227,50,3,11,1,7:48 PM,7:54,Harris Free Throw 1 of 2 (4 PTS),,,6 - 6,TIE
+0021200227,52,3,12,1,7:48 PM,7:54,Harris Free Throw 2 of 2 (5 PTS),,,6 - 7,1
+0021200227,55,2,42,1,7:49 PM,7:32,Smith BLOCK (2 BLK),,MISS Gee 1' Driving Layup,,
+0021200227,63,4,0,1,7:49 PM,7:31,,,Thompson REBOUND (Off:2 Def:0),,
+0021200227,56,1,87,1,7:49 PM,7:31,,,Thompson 1' Putback Dunk (2 PTS),8 - 7,-1
+0021200227,58,1,1,1,7:49 PM,7:14,Stevenson 25' 3PT Jump Shot (3 PTS) (Teague 1 AST),,,8 - 10,2
+0021200227,59,5,2,1,7:49 PM,7:02,Teague STEAL (1 STL),,Varejao Lost Ball Turnover (P1.T1),,
+0021200227,61,1,41,1,7:49 PM,6:57,Teague  Running Layup (2 PTS),,,8 - 12,4
+0021200227,64,2,1,1,7:50 PM,6:35,,,MISS Gibson 21' Jump Shot,,
+0021200227,65,4,0,1,7:50 PM,6:35,HAWKS Rebound,,,,
+0021200227,67,1,1,1,7:50 PM,6:15,Stevenson  3PT Jump Shot (6 PTS) (Teague 2 AST),,,8 - 15,7
+0021200227,68,9,1,1,7:51 PM,6:07,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,
+0021200227,70,8,0,1,7:53 PM,6:07,,,SUB: Zeller FOR Thompson,,
+0021200227,72,1,1,1,7:53 PM,5:51,,,Zeller 20' Jump Shot (2 PTS) (Gibson 1 AST),10 - 15,5
+0021200227,73,1,5,1,7:53 PM,5:33,Horford 1' Layup (4 PTS) (Harris 1 AST),,,10 - 17,7
+0021200227,74,1,5,1,7:54 PM,5:20,,,Varejao 1' Layup (4 PTS) (Zeller 1 AST),12 - 17,5
+0021200227,75,1,42,1,7:54 PM,5:10,Harris 1' Driving Layup (7 PTS),,,12 - 19,7
+0021200227,76,1,42,1,7:54 PM,5:02,,,Pargo  Driving Layup (4 PTS),14 - 19,5
+0021200227,78,2,1,1,7:55 PM,4:44,MISS Smith 18' Jump Shot,,,,
+0021200227,79,4,0,1,7:55 PM,4:42,,,Gee REBOUND (Off:0 Def:1),,
+0021200227,80,2,42,1,7:55 PM,4:32,,,MISS Pargo 2' Driving Layup,,
+0021200227,81,4,0,1,7:55 PM,4:32,,,Zeller REBOUND (Off:1 Def:0),,
+0021200227,82,6,1,1,7:55 PM,4:32,Teague P.FOUL (P1.T3),,,,
+0021200227,83,8,0,1,7:55 PM,4:32,SUB: Williams FOR Teague,,,,
+0021200227,84,2,1,1,7:56 PM,4:18,,,MISS Zeller 18' Jump Shot,,
+0021200227,85,4,0,1,7:56 PM,4:18,HAWKS Rebound,,,,
+0021200227,87,6,2,1,7:56 PM,4:02,,,Gibson S.FOUL (P1.T4),,
+0021200227,88,3,11,1,7:56 PM,4:02,Smith Free Throw 1 of 2 (1 PTS),,,14 - 20,6
+0021200227,90,3,12,1,7:57 PM,4:02,Smith Free Throw 2 of 2 (2 PTS),,,14 - 21,7
+0021200227,92,5,1,1,7:57 PM,3:49,Smith STEAL (1 STL),,Pargo Bad Pass Turnover (P1.T2),,
+0021200227,93,1,52,1,7:57 PM,3:45,Smith 1' Alley Oop Dunk (4 PTS) (Harris 2 AST),,,14 - 23,9
+0021200227,94,6,2,1,7:58 PM,3:27,Stevenson S.FOUL (P1.T4),,,,
+0021200227,95,3,11,1,7:58 PM,3:27,,,Gee Free Throw 1 of 2 (3 PTS),15 - 23,8
+0021200227,97,8,0,1,7:58 PM,3:27,SUB: Morrow FOR Stevenson,,,,
+0021200227,98,3,12,1,7:58 PM,3:27,,,Gee Free Throw 2 of 2 (4 PTS),16 - 23,7
+0021200227,100,1,42,1,7:59 PM,3:16,Harris 1' Driving Layup (9 PTS),,,16 - 25,9
+0021200227,101,1,1,1,7:59 PM,3:03,,,Gibson 24' 3PT Jump Shot (3 PTS),19 - 25,6
+0021200227,102,2,77,1,7:59 PM,2:41,MISS Williams 7' Driving Jump Shot,,,,
+0021200227,103,4,0,1,7:59 PM,2:40,,,Zeller REBOUND (Off:1 Def:1),,
+0021200227,104,1,41,1,8:00 PM,2:22,,,Zeller 2' Running Layup (4 PTS) (Pargo 1 AST),21 - 25,4
+0021200227,105,9,1,1,8:00 PM,2:14,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0021200227,107,8,0,1,8:02 PM,2:14,SUB: Pachulia FOR Horford,,,,
+0021200227,108,8,0,1,8:02 PM,2:14,,,SUB: Sloan FOR Pargo,,
+0021200227,109,2,1,1,8:02 PM,1:59,MISS Smith 21' Jump Shot,,,,
+0021200227,110,4,0,1,8:02 PM,1:58,,,Varejao REBOUND (Off:1 Def:4),,
+0021200227,111,2,5,1,8:03 PM,1:40,,,MISS Gibson 2' Layup,,
+0021200227,112,4,0,1,8:03 PM,1:40,,,Cavaliers Rebound,,
+0021200227,113,6,3,1,8:03 PM,1:40,Morrow L.B.FOUL (P1.PN),,,,
+0021200227,114,3,11,1,8:03 PM,1:40,,,Zeller Free Throw 1 of 2 (5 PTS),22 - 25,3
+0021200227,116,8,0,1,8:03 PM,1:40,SUB: Teague FOR Harris,,,,
+0021200227,117,3,12,1,8:03 PM,1:40,,,Zeller Free Throw 2 of 2 (6 PTS),23 - 25,2
+0021200227,119,5,1,1,8:04 PM,1:26,Smith Bad Pass Turnover (P2.T3),,Gibson STEAL (1 STL),,
+0021200227,120,1,50,1,8:04 PM,1:22,,,Zeller  Running Dunk (8 PTS) (Sloan 1 AST),25 - 25,TIE
+0021200227,121,1,1,1,8:04 PM,1:08,Morrow 14' Jump Shot (2 PTS),,,25 - 27,2
+0021200227,122,6,2,1,8:04 PM,0:52,Morrow S.FOUL (P2.PN),,,,
+0021200227,123,6,11,1,8:05 PM,0:52,Smith T.FOUL (P1.PN),,,,
+0021200227,124,3,16,1,8:05 PM,0:52,,,MISS Gee Free Throw Technical,,
+0021200227,125,4,1,1,8:05 PM,0:52,,,Cavaliers Rebound,,
+0021200227,126,8,0,1,8:05 PM,0:52,SUB: Horford FOR Smith,,,,
+0021200227,127,8,0,1,8:05 PM,0:52,,,SUB: Samuels FOR Varejao,,
+0021200227,128,3,11,1,8:05 PM,0:52,,,Gee Free Throw 1 of 2 (5 PTS),26 - 27,1
+0021200227,130,3,12,1,8:05 PM,0:52,,,Gee Free Throw 2 of 2 (6 PTS),27 - 27,TIE
+0021200227,132,6,2,1,8:06 PM,0:36,,,Gibson S.FOUL (P2.PN),,
+0021200227,133,3,11,1,8:06 PM,0:36,Williams Free Throw 1 of 2 (1 PTS),,,27 - 28,1
+0021200227,135,3,12,1,8:06 PM,0:36,Williams Free Throw 2 of 2 (2 PTS),,,27 - 29,2
+0021200227,138,2,42,1,8:07 PM,0:18,Pachulia BLOCK (1 BLK),,MISS Sloan 4' Driving Layup,,
+0021200227,139,4,0,1,8:07 PM,0:16,,,Sloan REBOUND (Off:1 Def:0),,
+0021200227,141,2,1,1,8:08 PM,0:01,,,MISS Gibson 21' Jump Shot,,
+0021200227,142,4,0,1,8:08 PM,0:01,HAWKS Rebound,,,,
+0021200227,143,13,0,1,8:08 PM,0:00,,,,27 - 29,2
+0021200227,145,12,0,2,8:10 PM,12:00,,,,27 - 29,2
+0021200227,146,1,42,2,8:11 PM,11:45,,,Sloan 1' Driving Layup (2 PTS),29 - 29,TIE
+0021200227,147,1,1,2,8:11 PM,11:28,Morrow 25' 3PT Jump Shot (5 PTS) (Horford 1 AST),,,29 - 32,3
+0021200227,148,5,1,2,8:12 PM,11:06,Morrow STEAL (1 STL),,Waiters Bad Pass Turnover (P1.T3),,
+0021200227,149,2,1,2,8:12 PM,11:00,MISS Teague 24' 3PT Jump Shot,,,,
+0021200227,150,4,0,2,8:12 PM,10:57,Pachulia REBOUND (Off:1 Def:0),,,,
+0021200227,151,2,1,2,8:12 PM,10:54,MISS Morrow 24' 3PT Jump Shot,,,,
+0021200227,152,4,0,2,8:12 PM,10:53,,,Sloan REBOUND (Off:1 Def:1),,
+0021200227,153,1,1,2,8:12 PM,10:33,,,Waiters 15' Jump Shot (2 PTS),31 - 32,1
+0021200227,154,2,1,2,8:13 PM,10:16,MISS Williams 24' 3PT Jump Shot,,,,
+0021200227,155,4,0,2,8:13 PM,10:15,,,Cavaliers Rebound,,
+0021200227,156,8,0,2,8:13 PM,10:15,,,SUB: Thompson FOR Samuels,,
+0021200227,157,1,1,2,8:13 PM,10:02,,,Casspi 25' 3PT Jump Shot (3 PTS) (Waiters 1 AST),34 - 32,-2
+0021200227,159,2,1,2,8:13 PM,9:43,MISS Horford 18' Jump Shot,,,,
+0021200227,160,4,0,2,8:13 PM,9:42,Pachulia REBOUND (Off:2 Def:0),,,,
+0021200227,161,1,1,2,8:14 PM,9:36,Williams 19' Jump Shot (4 PTS),,,34 - 34,TIE
+0021200227,162,6,4,2,8:14 PM,9:19,,,Zeller OFF.Foul (P1),,
+0021200227,163,5,5,2,8:14 PM,9:19,,,Zeller Foul Turnover (P1.T4),,
+0021200227,164,8,0,2,8:14 PM,9:19,SUB: Stevenson FOR Morrow,,,,
+0021200227,165,1,42,2,8:15 PM,8:56,Horford 2' Driving Layup (6 PTS) (Teague 3 AST),,,34 - 36,2
+0021200227,166,2,1,2,8:15 PM,8:34,,,MISS Waiters  3PT Jump Shot,,
+0021200227,167,4,0,2,8:15 PM,8:33,Horford REBOUND (Off:2 Def:2),,,,
+0021200227,169,9,4,2,8:15 PM,8:30,,,,,
+0021200227,173,6,1,2,8:18 PM,8:18,,,Thompson P.FOUL (P1.T1),,
+0021200227,174,2,63,2,8:18 PM,8:06,MISS Pachulia 12' Fadeaway Jumper,,,,
+0021200227,176,4,0,2,8:18 PM,8:04,Williams REBOUND (Off:1 Def:0),,,,
+0021200227,175,1,4,2,8:18 PM,8:04,Williams 2' Tip Shot (6 PTS),,,34 - 38,4
+0021200227,177,6,4,2,8:18 PM,7:49,,,Zeller OFF.Foul (P2),,
+0021200227,178,5,5,2,8:18 PM,7:49,,,Zeller Foul Turnover (P2.T5),,
+0021200227,179,8,0,2,8:19 PM,7:49,,,SUB: Gee FOR Casspi,,
+0021200227,180,6,4,2,8:19 PM,7:40,Horford OFF.Foul (P1),,,,
+0021200227,181,5,5,2,8:19 PM,7:40,Horford Foul Turnover (P2.T4),,,,
+0021200227,182,5,40,2,8:19 PM,7:25,,,Gee Out of Bounds Lost Ball Turnover (P1.T6),,
+0021200227,184,2,1,2,8:20 PM,7:09,MISS Williams 20' Jump Shot,,,,
+0021200227,185,4,0,2,8:20 PM,7:05,,,Gee REBOUND (Off:0 Def:2),,
+0021200227,186,1,63,2,8:20 PM,6:49,,,Waiters 20' Fadeaway Jumper (4 PTS),36 - 38,2
+0021200227,187,1,42,2,8:20 PM,6:33,Pachulia 3' Driving Layup (2 PTS) (Teague 4 AST),,,36 - 40,4
+0021200227,188,1,1,2,8:21 PM,6:15,,,Waiters 25' 3PT Jump Shot (7 PTS) (Gee 1 AST),39 - 40,1
+0021200227,190,2,1,2,8:21 PM,5:56,MISS Horford 17' Jump Shot,,,,
+0021200227,191,4,0,2,8:21 PM,5:53,,,Thompson REBOUND (Off:2 Def:1),,
+0021200227,192,1,41,2,8:21 PM,5:49,,,Sloan  Running Layup (4 PTS),41 - 40,-1
+0021200227,193,9,1,2,8:21 PM,5:45,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0021200227,195,8,0,2,8:23 PM,5:45,SUB: Smith FOR Williams,,,,
+0021200227,196,8,0,2,8:23 PM,5:45,SUB: Harris FOR Pachulia,,,,
+0021200227,197,8,0,2,8:23 PM,5:45,,,SUB: Varejao FOR Zeller,,
+0021200227,198,8,0,2,8:23 PM,5:45,,,SUB: Pargo FOR Sloan,,
+0021200227,199,1,42,2,8:24 PM,5:30,Smith 1' Driving Layup (6 PTS) (Stevenson 2 AST),,,41 - 42,1
+0021200227,200,6,2,2,8:24 PM,5:30,,,Varejao S.FOUL (P1.T2),,
+0021200227,201,3,10,2,8:24 PM,5:30,MISS Smith Free Throw 1 of 1,,,,
+0021200227,203,4,0,2,8:24 PM,5:29,,,Thompson REBOUND (Off:2 Def:2),,
+0021200227,204,1,1,2,8:24 PM,5:15,,,Waiters 25' 3PT Jump Shot (10 PTS) (Varejao 2 AST),44 - 42,-2
+0021200227,205,2,1,2,8:25 PM,5:02,MISS Teague 13' Jump Shot,,,,
+0021200227,206,4,0,2,8:25 PM,5:00,,,Varejao REBOUND (Off:1 Def:5),,
+0021200227,207,1,7,2,8:25 PM,4:52,,,Thompson 1' Dunk (4 PTS) (Waiters 2 AST),46 - 42,-4
+0021200227,208,2,1,2,8:25 PM,4:35,MISS Smith 19' Jump Shot,,,,
+0021200227,209,4,0,2,8:25 PM,4:34,Horford REBOUND (Off:3 Def:2),,,,
+0021200227,210,1,1,2,8:25 PM,4:31,Stevenson 25' 3PT Jump Shot (9 PTS) (Horford 2 AST),,,46 - 45,-1
+0021200227,212,1,42,2,8:25 PM,4:18,,,Varejao 3' Driving Layup (6 PTS) (Waiters 3 AST),48 - 45,-3
+0021200227,213,6,2,2,8:25 PM,4:18,Harris S.FOUL (P2.T1),,,,
+0021200227,214,3,10,2,8:26 PM,4:18,,,Varejao Free Throw 1 of 1 (7 PTS),49 - 45,-4
+0021200227,216,2,1,2,8:26 PM,3:59,MISS Harris 26' 3PT Jump Shot,,,,
+0021200227,217,4,0,2,8:26 PM,3:58,,,Thompson REBOUND (Off:2 Def:3),,
+0021200227,218,5,1,2,8:26 PM,3:54,Harris STEAL (1 STL),,Pargo Bad Pass Turnover (P2.T7),,
+0021200227,219,2,1,2,8:26 PM,3:46,MISS Teague 5' Jump Shot,,,,
+0021200227,221,4,0,2,8:26 PM,3:45,Smith REBOUND (Off:2 Def:2),,,,
+0021200227,220,2,72,2,8:26 PM,3:45,MISS Smith 1' Putback Layup,,,,
+0021200227,222,4,0,2,8:26 PM,3:43,Smith REBOUND (Off:3 Def:2),,,,
+0021200227,223,1,72,2,8:26 PM,3:43,Smith 1' Putback Layup (8 PTS),,,49 - 47,-2
+0021200227,224,6,2,2,8:26 PM,3:43,,,Thompson S.FOUL (P2.T3),,
+0021200227,225,3,10,2,8:27 PM,3:43,MISS Smith Free Throw 1 of 1,,,,
+0021200227,227,4,0,2,8:27 PM,3:40,,,Gee REBOUND (Off:0 Def:3),,
+0021200227,229,1,1,2,8:27 PM,3:29,,,Pargo 24' 3PT Jump Shot (7 PTS) (Waiters 4 AST),52 - 47,-5
+0021200227,230,1,1,2,8:27 PM,3:13,Stevenson 24' 3PT Jump Shot (12 PTS) (Horford 3 AST),,,52 - 50,-2
+0021200227,231,6,2,2,8:28 PM,3:03,Stevenson S.FOUL (P2.T2),,,,
+0021200227,232,3,11,2,8:28 PM,3:03,,,Waiters Free Throw 1 of 2 (11 PTS),53 - 50,-3
+0021200227,234,8,0,2,8:28 PM,3:03,SUB: Johnson FOR Stevenson,,,,
+0021200227,235,3,12,2,8:28 PM,3:03,,,Waiters Free Throw 2 of 2 (12 PTS),54 - 50,-4
+0021200227,237,1,1,2,8:29 PM,2:44,Smith 25' 3PT Jump Shot (11 PTS) (Teague 5 AST),,,54 - 53,-1
+0021200227,238,6,26,2,8:29 PM,2:36,,,Pargo Offensive Charge Foul (P1.T4),,
+0021200227,239,5,5,2,8:29 PM,2:36,,,Pargo Foul Turnover (P3.T8),,
+0021200227,240,9,1,2,8:29 PM,2:36,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,
+0021200227,243,8,0,2,8:31 PM,2:36,,,SUB: Sloan FOR Pargo,,
+0021200227,244,1,7,2,8:32 PM,2:18,Smith 1' Dunk (13 PTS) (Teague 6 AST),,,54 - 55,1
+0021200227,245,2,1,2,8:32 PM,2:01,Horford BLOCK (1 BLK),,MISS Sloan 6' Jump Shot,,
+0021200227,246,4,0,2,8:32 PM,2:00,,,Thompson REBOUND (Off:3 Def:3),,
+0021200227,247,2,72,2,8:32 PM,1:59,,,MISS Thompson 1' Putback Layup,,
+0021200227,248,4,0,2,8:32 PM,1:57,Horford REBOUND (Off:3 Def:3),,,,
+0021200227,249,1,3,2,8:32 PM,1:45,Smith 4' Hook Shot (15 PTS),,,54 - 57,3
+0021200227,250,6,29,2,8:33 PM,1:27,Smith Shooting Block Foul (P2.T3),,,,
+0021200227,251,3,11,2,8:33 PM,1:27,,,Waiters Free Throw 1 of 2 (13 PTS),55 - 57,2
+0021200227,253,8,0,2,8:33 PM,1:27,SUB: Williams FOR Harris,,,,
+0021200227,254,8,0,2,8:33 PM,1:27,SUB: Pachulia FOR Smith,,,,
+0021200227,255,3,12,2,8:33 PM,1:27,,,Waiters Free Throw 2 of 2 (14 PTS),56 - 57,1
+0021200227,257,6,2,2,8:34 PM,1:17,,,Sloan S.FOUL (P1.PN),,
+0021200227,258,3,11,2,8:34 PM,1:17,Teague Free Throw 1 of 2 (3 PTS),,,56 - 58,2
+0021200227,260,3,12,2,8:34 PM,1:17,Teague Free Throw 2 of 2 (4 PTS),,,56 - 59,3
+0021200227,263,5,2,2,8:35 PM,0:59,Johnson STEAL (1 STL),,Gee Lost Ball Turnover (P2.T9),,
+0021200227,264,1,5,2,8:35 PM,0:45,Horford 2' Layup (8 PTS) (Johnson 1 AST),,,56 - 61,5
+0021200227,265,6,2,2,8:35 PM,0:45,,,Gee S.FOUL (P2.PN),,
+0021200227,266,3,10,2,8:35 PM,0:45,Horford Free Throw 1 of 1 (9 PTS),,,56 - 62,6
+0021200227,268,2,1,2,8:36 PM,0:37,,,MISS Waiters 25' 3PT Jump Shot,,
+0021200227,269,4,0,2,8:36 PM,0:35,,,Varejao REBOUND (Off:2 Def:5),,
+0021200227,270,2,1,2,8:36 PM,0:15,,,MISS Gee  3PT Jump Shot,,
+0021200227,271,4,0,2,8:36 PM,0:12,Williams REBOUND (Off:1 Def:1),,,,
+0021200227,272,1,5,2,8:36 PM,0:07,Johnson 2' Layup (2 PTS) (Pachulia 1 AST),,,56 - 64,8
+0021200227,273,2,1,2,8:36 PM,0:02,,,MISS Waiters 25' 3PT Jump Shot,,
+0021200227,274,4,0,2,8:36 PM,0:02,HAWKS Rebound,,,,
+0021200227,275,9,2,2,8:37 PM,0:02,HAWKS Timeout: Short (Full 2 Short 1),,,,
+0021200227,277,8,0,2,8:37 PM,0:02,,,SUB: Casspi FOR Gee,,
+0021200227,278,8,0,2,8:37 PM,0:02,,,SUB: Gibson FOR Waiters,,
+0021200227,280,1,1,2,8:38 PM,0:00,Johnson 26' 3PT Jump Shot (5 PTS) (Horford 4 AST),,,56 - 67,11
+0021200227,281,18,0,2,8:38 PM,0:00,,,,,
+0021200227,282,13,0,2,8:38 PM,0:00,,,,56 - 67,11
+0021200227,284,12,0,3,8:54 PM,12:00,,,,56 - 67,11
+0021200227,285,6,2,3,8:54 PM,11:41,Horford S.FOUL (P2.T1),,,,
+0021200227,286,3,11,3,8:54 PM,11:41,,,Varejao Free Throw 1 of 2 (8 PTS),57 - 67,10
+0021200227,288,3,12,3,8:55 PM,11:41,,,Varejao Free Throw 2 of 2 (9 PTS),58 - 67,9
+0021200227,290,2,1,3,8:55 PM,11:27,MISS Harris 20' Jump Shot,,,,
+0021200227,291,4,0,3,8:55 PM,11:26,,,Thompson REBOUND (Off:3 Def:4),,
+0021200227,292,2,1,3,8:55 PM,11:16,,,MISS Varejao 19' Jump Shot,,
+0021200227,293,4,0,3,8:55 PM,11:14,Smith REBOUND (Off:3 Def:3),,,,
+0021200227,294,2,1,3,8:55 PM,11:06,MISS Harris  3PT Jump Shot,,,,
+0021200227,295,4,0,3,8:55 PM,11:05,,,Thompson REBOUND (Off:3 Def:5),,
+0021200227,296,6,17,3,8:56 PM,10:55,HAWKS T.Foul (Def. 3 Sec Horford ),,,,
+0021200227,297,3,16,3,8:56 PM,10:55,,,Waiters Free Throw Technical (15 PTS),59 - 67,8
+0021200227,299,2,1,3,8:56 PM,10:50,,,MISS Thompson 5' Jump Shot,,
+0021200227,300,4,0,3,8:56 PM,10:49,Horford REBOUND (Off:3 Def:4),,,,
+0021200227,301,2,1,3,8:56 PM,10:41,MISS Stevenson  3PT Jump Shot,,,,
+0021200227,302,4,0,3,8:56 PM,10:39,,,Varejao REBOUND (Off:2 Def:6),,
+0021200227,303,2,42,3,8:57 PM,10:23,,,MISS Gee 1' Driving Layup,,
+0021200227,305,4,0,3,8:57 PM,10:23,,,Varejao REBOUND (Off:3 Def:6),,
+0021200227,304,1,4,3,8:57 PM,10:23,,,Varejao  Tip Shot (11 PTS),61 - 67,6
+0021200227,306,6,2,3,8:57 PM,10:23,Smith S.FOUL (P3.T2),,,,
+0021200227,307,3,10,3,8:57 PM,10:23,,,Varejao Free Throw 1 of 1 (12 PTS),62 - 67,5
+0021200227,309,1,42,3,8:58 PM,10:01,Harris 3' Driving Layup (11 PTS) (Smith 1 AST),,,62 - 69,7
+0021200227,310,6,26,3,8:58 PM,9:49,,,Gee Offensive Charge Foul (P3.T1),,
+0021200227,311,5,5,3,8:58 PM,9:49,,,Gee Foul Turnover (P3.T10),,
+0021200227,312,2,3,3,8:59 PM,9:31,MISS Smith 8' Hook Shot,,,,
+0021200227,313,4,0,3,8:59 PM,9:29,,,Varejao REBOUND (Off:3 Def:7),,
+0021200227,314,1,1,3,8:59 PM,9:24,,,Pargo 20' Jump Shot (9 PTS),64 - 69,5
+0021200227,315,2,1,3,8:59 PM,9:11,MISS Smith 20' Jump Shot,,,,
+0021200227,316,4,0,3,8:59 PM,9:09,HAWKS Rebound,,,,
+0021200227,317,1,1,3,8:59 PM,9:03,Horford 21' Jump Shot (11 PTS) (Teague 7 AST),,,64 - 71,7
+0021200227,318,2,63,3,9:00 PM,8:44,,,MISS Waiters 11' Fadeaway Jumper,,
+0021200227,320,4,0,3,9:00 PM,8:42,,,Thompson REBOUND (Off:4 Def:5),,
+0021200227,319,1,4,3,9:00 PM,8:42,,,Thompson 1' Tip Shot (6 PTS),66 - 71,5
+0021200227,321,2,1,3,9:00 PM,8:23,MISS Harris 20' Jump Shot,,,,
+0021200227,322,4,0,3,9:00 PM,8:22,,,Waiters REBOUND (Off:0 Def:1),,
+0021200227,323,2,1,3,9:00 PM,8:10,,,MISS Gee 17' Jump Shot,,
+0021200227,324,4,0,3,9:00 PM,8:09,Horford REBOUND (Off:3 Def:5),,,,
+0021200227,325,2,42,3,9:00 PM,8:00,MISS Teague 1' Driving Layup,,,,
+0021200227,326,4,0,3,9:00 PM,7:59,Horford REBOUND (Off:4 Def:5),,,,
+0021200227,327,6,2,3,9:00 PM,7:59,,,Varejao S.FOUL (P2.T2),,
+0021200227,328,3,11,3,9:01 PM,7:59,Horford Free Throw 1 of 2 (12 PTS),,,66 - 72,6
+0021200227,330,3,12,3,9:01 PM,7:59,MISS Horford Free Throw 2 of 2,,,,
+0021200227,332,4,0,3,9:01 PM,7:58,,,Varejao REBOUND (Off:3 Def:8),,
+0021200227,333,5,1,3,9:01 PM,7:44,Teague STEAL (2 STL),,Gee Bad Pass Turnover (P4.T11),,
+0021200227,334,6,1,3,9:01 PM,7:44,,,Thompson P.FOUL (P3.T3),,
+0021200227,335,2,58,3,9:02 PM,7:25,MISS Horford 8' Turnaround Hook Shot,,,,
+0021200227,336,4,0,3,9:02 PM,7:22,,,Varejao REBOUND (Off:3 Def:9),,
+0021200227,337,1,1,3,9:02 PM,7:13,,,Pargo 25' 3PT Jump Shot (12 PTS) (Waiters 5 AST),69 - 72,3
+0021200227,338,6,2,3,9:02 PM,7:00,,,Thompson S.FOUL (P4.T4),,
+0021200227,339,3,11,3,9:03 PM,7:00,Teague Free Throw 1 of 2 (5 PTS),,,69 - 73,4
+0021200227,341,8,0,3,9:03 PM,7:00,,,SUB: Zeller FOR Thompson,,
+0021200227,342,3,12,3,9:03 PM,7:00,Teague Free Throw 2 of 2 (6 PTS),,,69 - 74,5
+0021200227,344,2,42,3,9:03 PM,6:43,Smith BLOCK (3 BLK),,MISS Waiters 4' Driving Layup,,
+0021200227,346,4,0,3,9:03 PM,6:41,,,Varejao REBOUND (Off:4 Def:9),,
+0021200227,345,1,72,3,9:03 PM,6:41,,,Varejao 1' Putback Layup (14 PTS),71 - 74,3
+0021200227,347,2,1,3,9:04 PM,6:30,MISS Horford 15' Jump Shot,,,,
+0021200227,348,4,0,3,9:04 PM,6:26,,,Gee REBOUND (Off:0 Def:4),,
+0021200227,349,2,1,3,9:04 PM,6:18,,,MISS Pargo 25' 3PT Jump Shot,,
+0021200227,350,4,0,3,9:04 PM,6:15,,,Varejao REBOUND (Off:5 Def:9),,
+0021200227,352,1,63,3,9:04 PM,6:08,,,Waiters 20' Fadeaway Jumper (17 PTS),73 - 74,1
+0021200227,353,6,2,3,9:05 PM,5:49,,,Gee S.FOUL (P4.PN),,
+0021200227,354,9,1,3,9:05 PM,5:49,HAWKS Timeout: Regular (Full 3 Short 1),,,,
+0021200227,356,8,0,3,9:07 PM,5:49,,,SUB: Gibson FOR Gee,,
+0021200227,357,8,0,3,9:07 PM,5:49,,,SUB: Casspi FOR Pargo,,
+0021200227,358,3,11,3,9:07 PM,5:49,MISS Horford Free Throw 1 of 2,,,,
+0021200227,359,4,1,3,9:07 PM,5:49,HAWKS Rebound,,,,
+0021200227,360,3,12,3,9:08 PM,5:49,Horford Free Throw 2 of 2 (13 PTS),,,73 - 75,2
+0021200227,362,5,1,3,9:08 PM,5:30,Teague STEAL (3 STL),,Waiters Bad Pass Turnover (P2.T12),,
+0021200227,363,1,41,3,9:08 PM,5:26,Teague 2' Running Layup (8 PTS),,,73 - 77,4
+0021200227,364,6,2,3,9:08 PM,5:26,,,Zeller S.FOUL (P3.PN),,
+0021200227,365,8,0,3,9:08 PM,5:26,SUB: Pachulia FOR Horford,,,,
+0021200227,366,3,10,3,9:09 PM,5:26,Teague Free Throw 1 of 1 (9 PTS),,,73 - 78,5
+0021200227,369,2,1,3,9:09 PM,5:02,,,MISS Zeller 7' Jump Shot,,
+0021200227,370,4,0,3,9:09 PM,5:01,,,Cavaliers Rebound,,
+0021200227,371,5,11,3,9:09 PM,5:01,,,Cavaliers Turnover: Shot Clock (T#13),,
+0021200227,373,1,63,3,9:10 PM,4:45,Smith 11' Fadeaway Jumper (17 PTS),,,73 - 80,7
+0021200227,374,6,2,3,9:10 PM,4:45,,,Zeller S.FOUL (P4.PN),,
+0021200227,375,3,10,3,9:10 PM,4:45,Smith Free Throw 1 of 1 (18 PTS),,,73 - 81,8
+0021200227,377,2,77,3,9:11 PM,4:27,,,MISS Waiters 5' Driving Jump Shot,,
+0021200227,378,4,0,3,9:11 PM,4:25,Smith REBOUND (Off:3 Def:4),,,,
+0021200227,379,2,5,3,9:11 PM,4:20,MISS Pachulia 3' Layup,,,,
+0021200227,380,4,0,3,9:11 PM,4:18,,,Varejao REBOUND (Off:5 Def:10),,
+0021200227,381,5,1,3,9:11 PM,4:13,Harris STEAL (2 STL),,Varejao Bad Pass Turnover (P2.T14),,
+0021200227,382,2,1,3,9:11 PM,4:07,MISS Stevenson 25' 3PT Jump Shot,,,,
+0021200227,383,4,0,3,9:11 PM,4:05,,,Gibson REBOUND (Off:0 Def:1),,
+0021200227,384,2,63,3,9:11 PM,3:54,,,MISS Casspi 11' Fadeaway Jumper,,
+0021200227,385,4,0,3,9:11 PM,3:52,,,Varejao REBOUND (Off:6 Def:10),,
+0021200227,386,1,1,3,9:12 PM,3:37,,,Varejao 18' Jump Shot (16 PTS) (Gibson 2 AST),75 - 81,6
+0021200227,388,2,42,3,9:12 PM,3:20,MISS Pachulia 1' Driving Layup,,Zeller BLOCK (1 BLK),,
+0021200227,389,4,0,3,9:12 PM,3:17,,,Casspi REBOUND (Off:0 Def:1),,
+0021200227,390,6,2,3,9:12 PM,3:16,Harris S.FOUL (P3.T3),,,,
+0021200227,391,3,11,3,9:13 PM,3:16,,,Waiters Free Throw 1 of 2 (18 PTS),76 - 81,5
+0021200227,393,8,0,3,9:13 PM,3:16,SUB: Johnson FOR Smith,,,,
+0021200227,394,8,0,3,9:13 PM,3:16,SUB: Williams FOR Harris,,,,
+0021200227,395,3,12,3,9:13 PM,3:16,,,Waiters Free Throw 2 of 2 (19 PTS),77 - 81,4
+0021200227,397,1,1,3,9:13 PM,3:01,Williams 24' 3PT Jump Shot (9 PTS) (Stevenson 3 AST),,,77 - 84,7
+0021200227,399,2,1,3,9:14 PM,2:47,,,MISS Varejao 18' Jump Shot,,
+0021200227,400,4,0,3,9:14 PM,2:45,Johnson REBOUND (Off:0 Def:1),,,,
+0021200227,401,5,1,3,9:14 PM,2:33,Teague Bad Pass Turnover (P1.T5),,Casspi STEAL (1 STL),,
+0021200227,402,2,41,3,9:14 PM,2:28,,,MISS Waiters 1' Running Layup,,
+0021200227,404,4,0,3,9:14 PM,2:25,,,Casspi REBOUND (Off:1 Def:1),,
+0021200227,403,1,72,3,9:14 PM,2:25,,,Casspi 2' Putback Layup (5 PTS),79 - 84,5
+0021200227,405,2,77,3,9:14 PM,2:10,MISS Teague 3' Driving Jump Shot,,,,
+0021200227,406,4,0,3,9:14 PM,2:09,,,Casspi REBOUND (Off:1 Def:2),,
+0021200227,407,1,1,3,9:14 PM,2:01,,,Casspi 26' 3PT Jump Shot (8 PTS) (Waiters 6 AST),82 - 84,2
+0021200227,409,1,1,3,9:15 PM,1:40,Teague 25' 3PT Jump Shot (12 PTS) (Stevenson 4 AST),,,82 - 87,5
+0021200227,414,5,1,3,9:15 PM,1:22,,,Waiters Bad Pass Turnover (P3.T15),,
+0021200227,412,9,1,3,9:15 PM,1:22,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,
+0021200227,415,8,0,3,9:17 PM,1:22,SUB: Horford FOR Stevenson,,,,
+0021200227,417,6,1,3,9:18 PM,1:12,,,Casspi P.FOUL (P1.PN),,
+0021200227,418,3,11,3,9:18 PM,1:12,MISS Johnson Free Throw 1 of 2,,,,
+0021200227,419,4,1,3,9:18 PM,1:12,HAWKS Rebound,,,,
+0021200227,420,8,0,3,9:18 PM,1:12,SUB: Harris FOR Teague,,,,
+0021200227,421,3,12,3,9:18 PM,1:12,Johnson Free Throw 2 of 2 (6 PTS),,,82 - 88,6
+0021200227,423,2,1,3,9:19 PM,0:51,,,MISS Waiters 26' 3PT Jump Shot,,
+0021200227,424,4,0,3,9:19 PM,0:50,HAWKS Rebound,,,,
+0021200227,426,6,2,3,9:20 PM,0:39,,,Waiters S.FOUL (P3.PN),,
+0021200227,429,18,0,3,9:20 PM,0:39,,,,,
+0021200227,430,3,13,3,9:21 PM,0:39,Williams Free Throw 1 of 3 (10 PTS),,,82 - 89,7
+0021200227,432,3,14,3,9:21 PM,0:39,Williams Free Throw 2 of 3 (11 PTS),,,82 - 90,8
+0021200227,434,3,15,3,9:21 PM,0:39,Williams Free Throw 3 of 3 (12 PTS),,,82 - 91,9
+0021200227,437,2,1,3,9:21 PM,0:17,,,MISS Varejao 20' Jump Shot,,
+0021200227,438,4,0,3,9:21 PM,0:14,,,Zeller REBOUND (Off:2 Def:1),,
+0021200227,439,6,28,3,9:22 PM,0:06,Williams Personal Take Foul (P1.T4),,,,
+0021200227,440,8,0,3,9:22 PM,0:06,SUB: Teague FOR Harris,,,,
+0021200227,441,5,2,3,9:22 PM,0:01,Teague STEAL (4 STL),,Waiters Lost Ball Turnover (P4.T16),,
+0021200227,442,13,0,3,9:22 PM,0:00,,,,82 - 91,9
+0021200227,444,12,0,4,9:24 PM,12:00,,,,82 - 91,9
+0021200227,445,5,41,4,9:25 PM,11:41,Pachulia Poss Lost Ball Turnover (P1.T6),,Thompson STEAL (1 STL),,
+0021200227,446,2,1,4,9:25 PM,11:26,,,MISS Gibson 21' Jump Shot,,
+0021200227,447,4,0,4,9:25 PM,11:25,Horford REBOUND (Off:4 Def:6),,,,
+0021200227,449,2,1,4,9:26 PM,11:08,MISS Williams 26' 3PT Jump Shot,,,,
+0021200227,450,4,0,4,9:26 PM,11:07,,,Cavaliers Rebound,,
+0021200227,452,1,42,4,9:26 PM,10:47,,,Zeller 2' Driving Layup (10 PTS) (Casspi 1 AST),84 - 91,7
+0021200227,453,5,1,4,9:26 PM,10:32,Horford Bad Pass Turnover (P3.T7),,Casspi STEAL (2 STL),,
+0021200227,454,2,1,4,9:26 PM,10:25,,,MISS Casspi 26' 3PT Jump Shot,,
+0021200227,455,4,0,4,9:27 PM,10:23,,,Cavaliers Rebound,,
+0021200227,456,2,46,4,9:27 PM,10:11,,,MISS Thompson 14' Running Jump Shot,,
+0021200227,457,4,0,4,9:27 PM,10:10,Johnson REBOUND (Off:0 Def:2),,,,
+0021200227,458,2,1,4,9:27 PM,9:47,MISS Horford 17' Jump Shot,,,,
+0021200227,459,4,0,4,9:28 PM,9:47,,,Cavaliers Rebound,,
+0021200227,460,6,3,4,9:28 PM,9:47,Pachulia L.B.FOUL (P1.T1),,,,
+0021200227,461,2,1,4,9:28 PM,9:34,,,MISS Gibson 26' 3PT Jump Shot,,
+0021200227,462,4,0,4,9:28 PM,9:32,Horford REBOUND (Off:4 Def:7),,,,
+0021200227,463,2,1,4,9:28 PM,9:22,MISS Johnson 5' Jump Shot,,,,
+0021200227,464,4,0,4,9:28 PM,9:20,,,Thompson REBOUND (Off:4 Def:6),,
+0021200227,465,6,1,4,9:28 PM,9:20,Williams P.FOUL (P2.T2),,,,
+0021200227,466,8,0,4,9:29 PM,9:20,,,SUB: Gee FOR Casspi,,
+0021200227,467,8,0,4,9:29 PM,9:20,SUB: Smith FOR Johnson,,,,
+0021200227,469,1,1,4,9:29 PM,9:04,,,Gee 24' 3PT Jump Shot (9 PTS) (Zeller 2 AST),87 - 91,4
+0021200227,470,1,7,4,9:29 PM,8:42,Horford  Dunk (15 PTS) (Smith 2 AST),,,87 - 93,6
+0021200227,471,5,2,4,9:30 PM,8:29,Smith STEAL (2 STL),,Gee Lost Ball Turnover (P5.T17),,
+0021200227,472,6,2,4,9:30 PM,8:26,,,Gee S.FOUL (P5.T1),,
+0021200227,473,9,4,4,9:30 PM,8:26,,,,,
+0021200227,476,3,11,4,9:32 PM,8:26,MISS Smith Free Throw 1 of 2,,,,
+0021200227,477,4,1,4,9:32 PM,8:26,HAWKS Rebound,,,,
+0021200227,478,3,12,4,9:33 PM,8:26,MISS Smith Free Throw 2 of 2,,,,
+0021200227,480,4,0,4,9:33 PM,8:24,,,Thompson REBOUND (Off:4 Def:7),,
+0021200227,481,1,42,4,9:33 PM,8:05,,,Pargo 4' Driving Layup (14 PTS) (Gibson 3 AST),89 - 93,4
+0021200227,483,1,42,4,9:33 PM,7:47,Harris 1' Driving Layup (13 PTS),,,89 - 95,6
+0021200227,484,2,1,4,9:34 PM,7:32,,,MISS Gee 24' 3PT Jump Shot,,
+0021200227,485,4,0,4,9:34 PM,7:30,Williams REBOUND (Off:1 Def:2),,,,
+0021200227,486,6,2,4,9:34 PM,7:28,,,Gibson S.FOUL (P3.T2),,
+0021200227,487,3,11,4,9:34 PM,7:28,Smith Free Throw 1 of 2 (19 PTS),,,89 - 96,7
+0021200227,489,3,12,4,9:34 PM,7:28,Smith Free Throw 2 of 2 (20 PTS),,,89 - 97,8
+0021200227,491,2,47,4,9:35 PM,7:04,,,MISS Gee  3PT Turnaround Jump Shot,,
+0021200227,492,4,0,4,9:35 PM,7:03,,,Thompson REBOUND (Off:5 Def:7),,
+0021200227,493,2,1,4,9:35 PM,6:45,,,MISS Pargo 25' 3PT Jump Shot,,
+0021200227,494,4,0,4,9:35 PM,6:43,,,Thompson REBOUND (Off:6 Def:7),,
+0021200227,495,1,1,4,9:35 PM,6:39,,,Gibson 25' 3PT Jump Shot (6 PTS) (Thompson 1 AST),92 - 97,5
+0021200227,496,2,58,4,9:35 PM,6:19,MISS Pachulia 6' Turnaround Hook Shot,,Zeller BLOCK (2 BLK),,
+0021200227,497,4,0,4,9:36 PM,6:17,,,Pargo REBOUND (Off:0 Def:1),,
+0021200227,498,1,1,4,9:36 PM,6:13,,,Gee 18' Jump Shot (11 PTS) (Pargo 2 AST),94 - 97,3
+0021200227,499,9,1,4,9:36 PM,6:09,HAWKS Timeout: Regular (Full 4 Short 1),,,,
+0021200227,501,8,0,4,9:38 PM,6:09,SUB: Stevenson FOR Harris,,,,
+0021200227,502,8,0,4,9:38 PM,6:09,SUB: Teague FOR Pachulia,,,,
+0021200227,503,8,0,4,9:38 PM,6:09,,,SUB: Varejao FOR Zeller,,
+0021200227,504,2,77,4,9:38 PM,5:55,MISS Smith 8' Driving Jump Shot,,,,
+0021200227,505,4,0,4,9:38 PM,5:53,,,Thompson REBOUND (Off:6 Def:8),,
+0021200227,520,5,1,4,9:39 PM,5:43,Teague STEAL (5 STL),,Gee Bad Pass Turnover (P6.T18),,
+0021200227,523,5,1,4,9:39 PM,5:38,Teague Bad Pass Turnover (P2.T8),,Pargo STEAL (2 STL),,
+0021200227,506,1,42,4,9:39 PM,5:15,,,Pargo 1' Driving Layup (16 PTS) (Varejao 3 AST),96 - 97,1
+0021200227,507,2,77,4,9:39 PM,4:56,MISS Williams 13' Driving Jump Shot,,,,
+0021200227,508,4,0,4,9:39 PM,4:54,,,Thompson REBOUND (Off:6 Def:9),,
+0021200227,509,2,73,4,9:39 PM,4:44,,,MISS Pargo 2' Driving Reverse Layup,,
+0021200227,510,4,0,4,9:39 PM,4:41,,,Varejao REBOUND (Off:7 Def:10),,
+0021200227,511,1,1,4,9:40 PM,4:23,,,Gibson 26' 3PT Jump Shot (9 PTS),99 - 97,-2
+0021200227,512,1,1,4,9:40 PM,4:02,Smith 20' Jump Shot (22 PTS) (Horford 5 AST),,,99 - 99,TIE
+0021200227,513,1,47,4,9:40 PM,3:45,,,Pargo 10' Turnaround Jump Shot (18 PTS),101 - 99,-2
+0021200227,514,5,40,4,9:41 PM,3:30,Teague Out of Bounds Lost Ball Turnover (P3.T9),,,,
+0021200227,515,8,0,4,9:41 PM,3:30,,,SUB: Waiters FOR Gee,,
+0021200227,516,8,0,4,9:41 PM,3:30,SUB: Harris FOR Williams,,,,
+0021200227,517,1,42,4,9:41 PM,3:16,,,Pargo 1' Driving Layup (20 PTS),103 - 99,-4
+0021200227,518,9,1,4,9:41 PM,3:16,HAWKS Timeout: Regular (Full 5 Short 1),,,,
+0021200227,524,2,58,4,9:44 PM,3:02,MISS Smith 12' Turnaround Hook Shot,,,,
+0021200227,525,4,0,4,9:44 PM,2:59,,,Varejao REBOUND (Off:7 Def:11),,
+0021200227,526,5,1,4,9:44 PM,2:44,Teague STEAL (6 STL),,Pargo Bad Pass Turnover (P4.T19),,
+0021200227,545,5,1,4,9:45 PM,2:41,Teague Bad Pass Turnover (P4.T10),,Gibson STEAL (2 STL),,
+0021200227,527,1,1,4,9:45 PM,2:24,,,Pargo 20' Jump Shot (22 PTS),105 - 99,-6
+0021200227,528,1,77,4,9:45 PM,2:04,Teague 9' Driving Jump Shot (14 PTS),,,105 - 101,-4
+0021200227,529,6,2,4,9:45 PM,2:04,,,Pargo S.FOUL (P2.T3),,
+0021200227,531,8,0,4,9:46 PM,2:04,SUB: Williams FOR Stevenson,,,,
+0021200227,532,3,10,4,9:46 PM,2:04,Teague Free Throw 1 of 1 (15 PTS),,,105 - 102,-3
+0021200227,534,2,1,4,9:46 PM,1:42,,,MISS Gibson 25' 3PT Jump Shot,,
+0021200227,535,4,0,4,9:46 PM,1:40,Harris REBOUND (Off:0 Def:1),,,,
+0021200227,536,5,2,4,9:46 PM,1:38,Harris Lost Ball Turnover (P1.T11),,Thompson STEAL (2 STL),,
+0021200227,538,2,42,4,9:47 PM,1:22,,,MISS Waiters 1' Driving Layup,,
+0021200227,539,4,0,4,9:47 PM,1:21,Smith REBOUND (Off:3 Def:5),,,,
+0021200227,540,1,1,4,9:47 PM,1:16,Williams 24' 3PT Jump Shot (15 PTS) (Smith 3 AST),,,105 - 105,TIE
+0021200227,542,9,2,4,9:47 PM,1:16,,,Cavaliers Timeout: Short (Reg.3 Short 1),,
+0021200227,543,8,0,4,9:48 PM,1:16,SUB: Stevenson FOR Horford,,,,
+0021200227,546,1,46,4,9:48 PM,0:57,,,Varejao 9' Running Jump Shot (18 PTS) (Waiters 7 AST),107 - 105,-2
+0021200227,547,5,1,4,9:49 PM,0:46,Smith Bad Pass Turnover (P3.T12),,,,
+0021200227,549,1,42,4,9:49 PM,0:25,,,Waiters 4' Driving Layup (21 PTS),109 - 105,-4
+0021200227,551,9,1,4,9:49 PM,0:25,HAWKS Timeout: Regular (Full 6 Short 1),,,,
+0021200227,553,8,0,4,9:50 PM,0:25,SUB: Horford FOR Stevenson,,,,
+0021200227,555,8,0,4,9:51 PM,0:25,,,SUB: Gee FOR Waiters,,
+0021200227,557,1,1,4,9:51 PM,0:18,Smith 26' 3PT Jump Shot (25 PTS) (Harris 3 AST),,,109 - 108,-1
+0021200227,558,9,2,4,9:51 PM,0:18,,,Cavaliers Timeout: Short (Reg.3 Short 2),,
+0021200227,560,8,0,4,9:52 PM,0:18,,,SUB: Waiters FOR Thompson,,
+0021200227,561,6,28,4,9:53 PM,0:16,Smith Personal Take Foul (P4.T3),,,,
+0021200227,562,6,1,4,9:53 PM,0:15,Horford P.FOUL (P3.PN),,,,
+0021200227,563,3,11,4,9:53 PM,0:15,,,Varejao Free Throw 1 of 2 (19 PTS),110 - 108,-2
+0021200227,565,3,12,4,9:54 PM,0:15,,,Varejao Free Throw 2 of 2 (20 PTS),111 - 108,-3
+0021200227,567,9,2,4,9:54 PM,0:15,HAWKS Timeout: Short (Full 6 Short 2),,,,
+0021200227,568,1,1,4,9:55 PM,0:13,Williams 24' 3PT Jump Shot (18 PTS) (Harris 4 AST),,,111 - 111,TIE
+0021200227,569,9,1,4,9:55 PM,0:13,,,Cavaliers Timeout: Regular (Reg.4 Short 2),,
+0021200227,571,8,0,4,9:57 PM,0:13,SUB: Stevenson FOR Williams,,,,
+0021200227,572,2,1,4,9:57 PM,0:02,,,MISS Waiters 25' 3PT Jump Shot,,
+0021200227,573,4,0,4,9:57 PM,0:00,,,Gee REBOUND (Off:1 Def:4),,
+0021200227,574,1,72,4,9:57 PM,0:00,,,Gee 1' Putback Layup (13 PTS),113 - 111,-2
+0021200227,575,13,0,4,9:58 PM,0:00,,,,113 - 111,-2

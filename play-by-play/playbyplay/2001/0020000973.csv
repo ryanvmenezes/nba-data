@@ -1,0 +1,458 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000973,1,12,0,1,4:00 AM,12:00,,,,,
+0020000973,2,10,0,1,4:02 AM,12:00,Jump Ball Polynice vs. Wallace: Tip to Smith,,,,
+0020000973,3,2,1,1,4:02 AM,11:44,,,MISS Curry 19' Jump Shot,,
+0020000973,4,4,0,1,4:02 AM,11:42,Polynice REBOUND (Off:0 Def:1),,,,
+0020000973,5,5,2,1,4:02 AM,11:32,Malone Lost Ball Turnover (P1.T1),,,,
+0020000973,6,2,1,1,4:02 AM,11:18,,,MISS Smith 17' Jump Shot,,
+0020000973,7,4,0,1,4:02 AM,11:14,Polynice REBOUND (Off:0 Def:2),,,,
+0020000973,8,2,5,1,4:03 AM,11:11,MISS Marshall  Layup,,Smith BLOCK (1 BLK),,
+0020000973,9,4,0,1,4:03 AM,11:11,JAZZ Rebound,,,,
+0020000973,10,1,1,1,4:03 AM,11:10,Starks 19' Jump Shot (2 PTS) (Malone 1 AST),,,0 - 2,2
+0020000973,11,2,5,1,4:03 AM,11:03,,,MISS Stackhouse  Layup,,
+0020000973,12,4,0,1,4:03 AM,11:01,,,Smith REBOUND (Off:1 Def:0),,
+0020000973,13,1,7,1,4:03 AM,10:59,,,Smith  Dunk (2 PTS),2 - 2,TIE
+0020000973,14,1,1,1,4:03 AM,10:41,Stockton 19' Jump Shot (2 PTS) (Malone 2 AST),,,2 - 4,2
+0020000973,15,5,1,1,4:04 AM,10:25,Malone STEAL (1 STL),,Atkins Bad Pass Turnover (P1.T1),,
+0020000973,16,5,1,1,4:04 AM,10:12,Malone Bad Pass Turnover (P2.T2),,,,
+0020000973,17,2,7,1,4:04 AM,9:58,Polynice BLOCK (1 BLK),,MISS Stackhouse  Dunk,,
+0020000973,18,4,0,1,4:04 AM,9:57,,,Pistons Rebound,,
+0020000973,19,2,1,1,4:05 AM,9:47,,,MISS Curry 17' Jump Shot,,
+0020000973,20,4,0,1,4:05 AM,9:44,Starks REBOUND (Off:0 Def:1),,,,
+0020000973,21,7,2,1,4:05 AM,9:41,,,Smith Violation:Defensive Goaltending,,
+0020000973,22,1,1,1,4:05 AM,9:38,Malone 22' Jump Shot (2 PTS) (Marshall 1 AST),,,2 - 6,4
+0020000973,23,5,2,1,4:05 AM,9:19,,,Stackhouse Lost Ball Turnover (P1.T2),,
+0020000973,24,1,1,1,4:06 AM,9:04,Polynice 17' Jump Shot (2 PTS),,,2 - 8,6
+0020000973,25,6,1,1,4:06 AM,8:44,Marshall P.FOUL (P1.T1),,,,
+0020000973,26,2,1,1,4:06 AM,8:37,,,MISS Stackhouse 16' Jump Shot,,
+0020000973,27,4,0,1,4:06 AM,8:33,Polynice REBOUND (Off:0 Def:3),,,,
+0020000973,28,5,8,1,4:07 AM,8:24,Marshall 3 Second Violation Turnover (P1.T3),,,,
+0020000973,29,6,1,1,4:07 AM,8:11,Starks P.FOUL (P1.T2),,,,
+0020000973,30,1,1,1,4:07 AM,8:05,,,Atkins 21' Jump Shot (2 PTS),4 - 8,4
+0020000973,31,2,1,1,4:08 AM,7:50,MISS Malone 18' Jump Shot,,Stackhouse BLOCK (1 BLK),,
+0020000973,32,4,0,1,4:08 AM,7:48,,,Atkins REBOUND (Off:0 Def:1),,
+0020000973,33,5,2,1,4:08 AM,7:35,Stockton STEAL (1 STL),,Wallace Lost Ball Turnover (P1.T3),,
+0020000973,34,2,5,1,4:08 AM,7:30,MISS Marshall  Layup,,Wallace BLOCK (1 BLK),,
+0020000973,36,4,0,1,4:08 AM,7:27,Marshall REBOUND (Off:1 Def:0),,,,
+0020000973,35,1,58,1,4:08 AM,7:26,Marshall 3' Turnaround Hook Shot (2 PTS),,,4 - 10,6
+0020000973,37,2,1,1,4:08 AM,7:06,Marshall BLOCK (1 BLK),,MISS Curry 13' Jump Shot,,
+0020000973,38,4,0,1,4:08 AM,7:03,,,Smith REBOUND (Off:2 Def:0),,
+0020000973,39,2,58,1,4:08 AM,7:01,,,MISS Smith 3' Turnaround Hook Shot,,
+0020000973,40,4,0,1,4:08 AM,7:00,Malone REBOUND (Off:0 Def:1),,,,
+0020000973,41,2,5,1,4:08 AM,6:55,MISS Marshall  Layup,,,,
+0020000973,42,4,0,1,4:09 AM,6:53,,,Smith REBOUND (Off:2 Def:1),,
+0020000973,43,1,1,1,4:09 AM,6:47,,,Atkins 14' Jump Shot (4 PTS),6 - 10,4
+0020000973,44,6,1,1,4:09 AM,6:30,,,Curry P.FOUL (P1.T1),,
+0020000973,45,2,1,1,4:09 AM,6:23,MISS Starks 19' Jump Shot,,,,
+0020000973,46,4,0,1,4:09 AM,6:20,,,Wallace REBOUND (Off:0 Def:1),,
+0020000973,47,1,1,1,4:10 AM,6:12,,,Atkins 19' Jump Shot (6 PTS),8 - 10,2
+0020000973,48,6,2,1,4:10 AM,5:55,,,Wallace S.FOUL (P1.T2),,
+0020000973,49,9,1,1,4:10 AM,5:55,JAZZ Timeout: Regular (Full 1 Short 0),,,,
+0020000973,51,3,11,1,4:12 AM,5:55,Marshall Free Throw 1 of 2 (3 PTS),,,8 - 11,3
+0020000973,52,3,12,1,4:12 AM,5:55,Marshall Free Throw 2 of 2 (4 PTS),,,8 - 12,4
+0020000973,53,6,1,1,4:13 AM,5:47,Starks P.FOUL (P2.T3),,,,
+0020000973,54,8,0,1,4:13 AM,5:47,SUB: Russell FOR Starks,,,,
+0020000973,55,8,0,1,4:13 AM,5:47,SUB: Vaughn FOR Stockton,,,,
+0020000973,56,1,1,1,4:13 AM,5:40,,,Stackhouse 19' Jump Shot (2 PTS),10 - 12,2
+0020000973,57,5,11,1,4:14 AM,5:13,JAZZ Turnover: Shot Clock (T#4),,,,
+0020000973,58,1,1,1,4:14 AM,5:00,,,Stackhouse 24' 3PT Jump Shot (5 PTS) (Wallace 1 AST),13 - 12,-1
+0020000973,59,2,1,1,4:15 AM,4:33,MISS Vaughn  3PT Jump Shot,,,,
+0020000973,60,4,0,1,4:15 AM,4:31,,,Smith REBOUND (Off:2 Def:2),,
+0020000973,61,2,1,1,4:15 AM,4:23,,,MISS Stackhouse 24' 3PT Jump Shot,,
+0020000973,62,4,0,1,4:15 AM,4:21,Polynice REBOUND (Off:0 Def:4),,,,
+0020000973,63,2,5,1,4:15 AM,4:10,MISS Malone  Layup,,,,
+0020000973,64,4,0,1,4:15 AM,4:09,,,Smith REBOUND (Off:2 Def:3),,
+0020000973,65,1,42,1,4:15 AM,4:04,,,Atkins  Driving Layup (8 PTS),15 - 12,-3
+0020000973,66,1,1,1,4:15 AM,3:48,Malone 20' Jump Shot (4 PTS) (Russell 1 AST),,,15 - 14,-1
+0020000973,67,6,2,1,4:16 AM,3:36,Russell S.FOUL (P1.T4),,,,
+0020000973,68,3,11,1,4:16 AM,3:36,,,Smith Free Throw 1 of 2 (3 PTS),16 - 14,-2
+0020000973,69,3,12,1,4:16 AM,3:36,,,Smith Free Throw 2 of 2 (4 PTS),17 - 14,-3
+0020000973,70,1,5,1,4:16 AM,3:25,Vaughn  Layup (2 PTS),,,17 - 16,-1
+0020000973,71,2,1,1,4:17 AM,3:11,,,MISS Smith 15' Jump Shot,,
+0020000973,72,4,0,1,4:17 AM,3:09,,,Smith REBOUND (Off:3 Def:3),,
+0020000973,73,1,58,1,4:17 AM,2:55,,,Smith 3' Turnaround Hook Shot (6 PTS),19 - 16,-3
+0020000973,74,6,17,1,4:17 AM,2:44,,,Pistons T.Foul (Def. 3 Sec Curry ),,
+0020000973,75,9,1,1,4:17 AM,2:44,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0020000973,77,3,16,1,4:19 AM,2:44,Vaughn Free Throw Technical (3 PTS),,,19 - 17,-2
+0020000973,78,8,0,1,4:19 AM,2:44,SUB: Benoit FOR Marshall,,,,
+0020000973,79,2,1,1,4:20 AM,2:31,MISS Polynice 13' Jump Shot,,,,
+0020000973,80,4,0,1,4:20 AM,2:28,,,Wallace REBOUND (Off:0 Def:2),,
+0020000973,81,1,5,1,4:20 AM,2:09,,,Curry  Layup (2 PTS) (Wallace 2 AST),21 - 17,-4
+0020000973,82,1,1,1,4:20 AM,1:57,Vaughn 22' Jump Shot (5 PTS),,,21 - 19,-2
+0020000973,83,1,1,1,4:21 AM,1:43,,,Curry 17' Jump Shot (4 PTS) (Atkins 1 AST),23 - 19,-4
+0020000973,84,1,1,1,4:21 AM,1:29,Benoit 24' 3PT Jump Shot (3 PTS),,,23 - 22,-1
+0020000973,85,2,1,1,4:21 AM,1:14,,,MISS Stackhouse 16' Jump Shot,,
+0020000973,86,4,0,1,4:21 AM,1:12,Polynice REBOUND (Off:0 Def:5),,,,
+0020000973,87,2,1,1,4:21 AM,0:59,MISS Malone 15' Jump Shot,,Wallace BLOCK (2 BLK),,
+0020000973,88,4,0,1,4:21 AM,0:56,,,Curry REBOUND (Off:0 Def:1),,
+0020000973,89,1,42,1,4:21 AM,0:47,,,Stackhouse  Driving Layup (7 PTS),25 - 22,-3
+0020000973,92,6,1,1,4:22 AM,0:36,,,Smith P.FOUL (P1.T3),,
+0020000973,93,8,0,1,4:22 AM,0:36,,,SUB: Owens FOR Curry,,
+0020000973,94,8,0,1,4:22 AM,0:36,,,SUB: Williamson FOR Wallace,,
+0020000973,95,8,0,1,4:22 AM,0:36,SUB: Manning FOR Malone,,,,
+0020000973,96,5,1,1,4:22 AM,0:31,Russell Bad Pass Turnover (P1.T5),,,,
+0020000973,97,1,42,1,4:23 AM,0:22,,,Atkins  Driving Layup (10 PTS),27 - 22,-5
+0020000973,98,1,1,1,4:23 AM,0:02,Manning 24' 3PT Jump Shot (3 PTS) (Vaughn 1 AST),,,27 - 25,-2
+0020000973,99,2,1,1,4:23 AM,0:00,,,MISS Owens 40' 3PT Jump Shot,,
+0020000973,100,4,0,1,4:23 AM,0:00,,,Pistons Rebound,,
+0020000973,101,13,0,1,4:23 AM,0:00,,,,27 - 25,-2
+0020000973,103,12,0,2,4:26 AM,12:00,,,,27 - 25,-2
+0020000973,104,5,1,2,4:26 AM,11:46,Manning Bad Pass Turnover (P1.T6),,,,
+0020000973,105,5,1,2,4:26 AM,11:37,,,Owens Bad Pass Turnover (P1.T4),,
+0020000973,106,6,1,2,4:27 AM,11:23,,,Stackhouse P.FOUL (P1.T1),,
+0020000973,107,2,1,2,4:27 AM,11:10,MISS Vaughn 20' Jump Shot,,,,
+0020000973,109,4,0,2,4:27 AM,11:05,Russell REBOUND (Off:1 Def:0),,,,
+0020000973,108,2,5,2,4:27 AM,11:05,MISS Russell  Layup,,,,
+0020000973,110,4,0,2,4:27 AM,11:03,Vaughn REBOUND (Off:1 Def:0),,,,
+0020000973,111,2,1,2,4:27 AM,11:01,MISS Russell 20' Jump Shot,,,,
+0020000973,113,4,0,2,4:27 AM,11:00,,,Pistons Rebound,,
+0020000973,114,6,3,2,4:28 AM,10:59,Benoit L.B.FOUL (P1.T1),,,,
+0020000973,116,2,1,2,4:28 AM,10:46,,,MISS Atkins 24' 3PT Jump Shot,,
+0020000973,117,4,0,2,4:28 AM,10:42,Russell REBOUND (Off:1 Def:1),,,,
+0020000973,118,2,5,2,4:28 AM,10:39,MISS Vaughn  Layup,,,,
+0020000973,119,4,0,2,4:28 AM,10:36,,,Smith REBOUND (Off:3 Def:4),,
+0020000973,120,1,1,2,4:28 AM,10:31,,,Stackhouse 25' 3PT Jump Shot (10 PTS) (Atkins 2 AST),30 - 25,-5
+0020000973,122,5,2,2,4:28 AM,10:03,Manning Lost Ball Turnover (P2.T7),,Williamson STEAL (1 STL),,
+0020000973,123,1,1,2,4:29 AM,9:58,,,Stackhouse 25' 3PT Jump Shot (13 PTS) (Atkins 3 AST),33 - 25,-8
+0020000973,124,2,1,2,4:29 AM,9:39,MISS Benoit 3' Jump Shot,,Smith BLOCK (2 BLK),,
+0020000973,125,4,0,2,4:29 AM,9:39,JAZZ Rebound,,,,
+0020000973,126,8,0,2,4:29 AM,9:39,,,SUB: Cleaves FOR Atkins,,
+0020000973,127,8,0,2,4:29 AM,9:39,,,SUB: Moore FOR Smith,,
+0020000973,128,1,1,2,4:29 AM,9:37,Vaughn 18' Jump Shot (7 PTS) (Manning 1 AST),,,33 - 27,-6
+0020000973,129,2,1,2,4:29 AM,9:24,,,MISS Williamson 5' Jump Shot,,
+0020000973,130,4,0,2,4:29 AM,9:22,Manning REBOUND (Off:0 Def:1),,,,
+0020000973,131,6,1,2,4:30 AM,9:15,,,Moore P.FOUL (P1.T2),,
+0020000973,132,6,2,2,4:30 AM,9:03,,,Williamson S.FOUL (P1.T3),,
+0020000973,133,3,11,2,4:30 AM,9:03,Manning Free Throw 1 of 2 (4 PTS),,,33 - 28,-5
+0020000973,134,3,12,2,4:30 AM,9:03,MISS Manning Free Throw 2 of 2,,,,
+0020000973,135,4,0,2,4:31 AM,9:02,,,Owens REBOUND (Off:0 Def:1),,
+0020000973,136,1,1,2,4:31 AM,8:47,,,Owens 21' Jump Shot (2 PTS) (Cleaves 1 AST),35 - 28,-7
+0020000973,137,6,1,2,4:31 AM,8:33,,,Owens P.FOUL (P1.T4),,
+0020000973,138,9,4,2,4:31 AM,8:33,,,,,
+0020000973,140,8,0,2,4:33 AM,8:33,SUB: Stockton FOR Vaughn,,,,
+0020000973,141,8,0,2,4:33 AM,8:33,SUB: Marshall FOR Benoit,,,,
+0020000973,142,1,1,2,4:34 AM,8:20,Manning 15' Jump Shot (6 PTS),,,35 - 30,-5
+0020000973,143,2,1,2,4:34 AM,8:09,,,MISS Williamson 16' Jump Shot,,
+0020000973,144,4,0,2,4:34 AM,8:05,,,Pistons Rebound,,
+0020000973,145,2,1,2,4:34 AM,7:52,Ostertag BLOCK (1 BLK),,MISS Owens 4' Jump Shot,,
+0020000973,146,4,0,2,4:34 AM,7:49,,,Owens REBOUND (Off:1 Def:1),,
+0020000973,147,2,1,2,4:35 AM,7:44,,,MISS Cleaves 17' Jump Shot,,
+0020000973,148,4,0,2,4:35 AM,7:43,,,Pistons Rebound,,
+0020000973,149,6,3,2,4:35 AM,7:43,Ostertag L.B.FOUL (P1.T2),,,,
+0020000973,150,8,0,2,4:35 AM,7:43,SUB: Malone FOR Manning,,,,
+0020000973,151,2,1,2,4:35 AM,7:35,,,MISS Stackhouse 25' 3PT Jump Shot,,
+0020000973,152,4,0,2,4:35 AM,7:32,Stockton REBOUND (Off:0 Def:1),,,,
+0020000973,153,6,2,2,4:35 AM,7:28,,,Owens S.FOUL (P2.PN),,
+0020000973,154,3,11,2,4:35 AM,7:28,Malone Free Throw 1 of 2 (5 PTS),,,35 - 31,-4
+0020000973,156,8,0,2,4:36 AM,7:28,,,SUB: Wallace FOR Williamson,,
+0020000973,157,3,12,2,4:36 AM,7:28,Malone Free Throw 2 of 2 (6 PTS),,,35 - 32,-3
+0020000973,158,2,1,2,4:37 AM,7:11,,,MISS Owens  3PT Jump Shot,,
+0020000973,159,4,0,2,4:37 AM,7:08,,,Moore REBOUND (Off:1 Def:0),,
+0020000973,160,1,1,2,4:37 AM,7:04,,,Cleaves 19' Jump Shot (2 PTS) (Moore 1 AST),37 - 32,-5
+0020000973,161,2,1,2,4:37 AM,6:47,MISS Russell 12' Jump Shot,,,,
+0020000973,162,4,0,2,4:37 AM,6:45,JAZZ Rebound,,,,
+0020000973,163,8,0,2,4:37 AM,6:45,,,SUB: Williamson FOR Stackhouse,,
+0020000973,164,5,1,2,4:38 AM,6:42,Malone Bad Pass Turnover (P3.T8),,Moore STEAL (1 STL),,
+0020000973,165,2,1,2,4:38 AM,6:26,,,MISS Williamson 20' Jump Shot,,
+0020000973,166,4,0,2,4:38 AM,6:24,Malone REBOUND (Off:0 Def:2),,,,
+0020000973,167,6,2,2,4:38 AM,6:15,,,Owens S.FOUL (P3.PN),,
+0020000973,168,3,11,2,4:38 AM,6:15,Malone Free Throw 1 of 2 (7 PTS),,,37 - 33,-4
+0020000973,169,8,0,2,4:38 AM,6:15,,,SUB: Curry FOR Owens,,
+0020000973,170,3,12,2,4:38 AM,6:15,Malone Free Throw 2 of 2 (8 PTS),,,37 - 34,-3
+0020000973,171,6,1,2,4:39 AM,6:05,Marshall P.FOUL (P2.T3),,,,
+0020000973,172,5,1,2,4:39 AM,5:56,,,Williamson Bad Pass Turnover (P1.T5),,
+0020000973,173,9,1,2,4:39 AM,5:56,JAZZ Timeout: Regular (Full 2 Short 0),,,,
+0020000973,175,8,0,2,4:41 AM,5:56,,,SUB: Atkins FOR Cleaves,,
+0020000973,176,2,1,2,4:42 AM,5:42,MISS Russell 25' 3PT Jump Shot,,,,
+0020000973,177,4,0,2,4:42 AM,5:40,,,Wallace REBOUND (Off:0 Def:3),,
+0020000973,178,2,1,2,4:42 AM,5:20,,,MISS Moore 17' Jump Shot,,
+0020000973,179,4,0,2,4:42 AM,5:18,Russell REBOUND (Off:1 Def:2),,,,
+0020000973,180,2,1,2,4:42 AM,5:04,MISS Russell 22' Jump Shot,,,,
+0020000973,181,4,0,2,4:42 AM,5:01,,,Williamson REBOUND (Off:0 Def:1),,
+0020000973,182,5,1,2,4:42 AM,4:56,Stockton STEAL (2 STL),,Williamson Bad Pass Turnover (P2.T6),,
+0020000973,183,1,5,2,4:42 AM,4:53,Marshall  Layup (6 PTS) (Stockton 1 AST),,,37 - 36,-1
+0020000973,184,2,1,2,4:43 AM,4:31,,,MISS Atkins  3PT Jump Shot,,
+0020000973,186,4,0,2,4:43 AM,4:29,,,Moore REBOUND (Off:2 Def:0),,
+0020000973,185,1,5,2,4:43 AM,4:29,,,Moore  Layup (2 PTS),39 - 36,-3
+0020000973,187,1,5,2,4:43 AM,4:09,Ostertag  Layup (2 PTS) (Malone 3 AST),,,39 - 38,-1
+0020000973,188,2,7,2,4:43 AM,3:55,,,MISS Curry  Dunk,,
+0020000973,189,4,0,2,4:43 AM,3:52,Malone REBOUND (Off:0 Def:3),,,,
+0020000973,190,6,2,2,4:44 AM,3:32,,,Moore S.FOUL (P2.PN),,
+0020000973,191,8,0,2,4:44 AM,3:32,SUB: Polynice FOR Ostertag,,,,
+0020000973,192,8,0,2,4:44 AM,3:32,,,SUB: Smith FOR Moore,,
+0020000973,193,3,11,2,4:44 AM,3:32,MISS Malone Free Throw 1 of 2,,,,
+0020000973,194,4,1,2,4:44 AM,3:32,JAZZ Rebound,,,,
+0020000973,195,3,12,2,4:44 AM,3:32,Malone Free Throw 2 of 2 (9 PTS),,,39 - 39,TIE
+0020000973,196,9,1,2,4:45 AM,3:28,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0020000973,198,8,0,2,4:47 AM,3:28,,,SUB: Stackhouse FOR Curry,,
+0020000973,199,2,1,2,4:47 AM,3:20,,,MISS Smith 10' Jump Shot,,
+0020000973,201,4,0,2,4:47 AM,3:16,,,Williamson REBOUND (Off:1 Def:1),,
+0020000973,200,2,4,2,4:47 AM,3:16,,,MISS Williamson  Tip Shot,,
+0020000973,202,4,0,2,4:47 AM,3:15,Stockton REBOUND (Off:0 Def:2),,,,
+0020000973,203,2,1,2,4:47 AM,2:59,MISS Marshall 10' Jump Shot,,,,
+0020000973,204,4,0,2,4:47 AM,2:57,,,Smith REBOUND (Off:3 Def:5),,
+0020000973,205,6,2,2,4:48 AM,2:46,Polynice S.FOUL (P1.T4),,,,
+0020000973,206,3,11,2,4:48 AM,2:46,,,Williamson Free Throw 1 of 2 (1 PTS),40 - 39,-1
+0020000973,207,3,12,2,4:48 AM,2:46,,,MISS Williamson Free Throw 2 of 2,,
+0020000973,209,4,0,2,4:48 AM,2:44,,,Smith REBOUND (Off:4 Def:5),,
+0020000973,208,1,5,2,4:48 AM,2:44,,,Smith  Layup (8 PTS),42 - 39,-3
+0020000973,210,6,2,2,4:48 AM,2:44,Polynice S.FOUL (P2.PN),,,,
+0020000973,211,3,10,2,4:49 AM,2:44,,,Smith Free Throw 1 of 1 (9 PTS),43 - 39,-4
+0020000973,212,1,1,2,4:49 AM,2:32,Russell 19' Jump Shot (2 PTS) (Stockton 2 AST),,,43 - 41,-2
+0020000973,213,1,1,2,4:49 AM,2:17,,,Atkins  3PT Jump Shot (13 PTS) (Stackhouse 1 AST),46 - 41,-5
+0020000973,214,1,1,2,4:50 AM,1:57,Marshall 12' Jump Shot (8 PTS),,,46 - 43,-3
+0020000973,215,1,1,2,4:50 AM,1:37,,,Atkins  3PT Jump Shot (16 PTS) (Stackhouse 2 AST),49 - 43,-6
+0020000973,216,1,5,2,4:50 AM,1:16,Polynice  Layup (4 PTS) (Malone 4 AST),,,49 - 45,-4
+0020000973,217,5,2,2,4:51 AM,0:57,Russell STEAL (1 STL),,Stackhouse Lost Ball Turnover (P2.T7),,
+0020000973,218,1,1,2,4:51 AM,0:51,Stockton 25' 3PT Jump Shot (5 PTS),,,49 - 48,-1
+0020000973,219,9,2,2,4:51 AM,0:47,,,Pistons Timeout: Short (Reg.2 Short 1),,
+0020000973,221,8,0,2,4:52 AM,0:47,SUB: Padgett FOR Marshall,,,,
+0020000973,222,2,1,2,4:52 AM,0:31,,,MISS Wallace 20' Jump Shot,,
+0020000973,223,4,0,2,4:52 AM,0:29,Russell REBOUND (Off:1 Def:3),,,,
+0020000973,224,1,5,2,4:52 AM,0:23,Malone  Layup (11 PTS) (Padgett 1 AST),,,49 - 50,1
+0020000973,225,2,1,2,4:53 AM,0:01,,,MISS Smith 20' Jump Shot,,
+0020000973,226,4,0,2,4:53 AM,0:00,,,Pistons Rebound,,
+0020000973,228,13,0,2,4:53 AM,0:00,,,,49 - 50,1
+0020000973,229,12,0,3,5:10 AM,12:00,,,,49 - 50,1
+0020000973,230,1,58,3,5:10 AM,11:38,Polynice 5' Turnaround Hook Shot (6 PTS) (Malone 5 AST),,,49 - 52,3
+0020000973,231,2,1,3,5:11 AM,11:19,,,MISS Stackhouse 16' Jump Shot,,
+0020000973,232,4,0,3,5:11 AM,11:16,Malone REBOUND (Off:0 Def:4),,,,
+0020000973,233,6,1,3,5:11 AM,11:01,,,Curry P.FOUL (P2.T1),,
+0020000973,234,2,1,3,5:11 AM,10:57,MISS Malone 20' Jump Shot,,,,
+0020000973,235,4,0,3,5:11 AM,10:55,Starks REBOUND (Off:1 Def:1),,,,
+0020000973,236,2,1,3,5:11 AM,10:46,MISS Stockton 17' Jump Shot,,,,
+0020000973,237,4,0,3,5:11 AM,10:43,,,Atkins REBOUND (Off:0 Def:2),,
+0020000973,238,6,2,3,5:12 AM,10:24,Malone S.FOUL (P1.T1),,,,
+0020000973,239,3,11,3,5:12 AM,10:24,,,MISS Wallace Free Throw 1 of 2,,
+0020000973,240,4,1,3,5:12 AM,10:24,,,Pistons Rebound,,
+0020000973,241,3,12,3,5:12 AM,10:24,,,Wallace Free Throw 2 of 2 (1 PTS),50 - 52,2
+0020000973,242,2,1,3,5:13 AM,10:13,MISS Starks  3PT Jump Shot,,,,
+0020000973,243,4,0,3,5:13 AM,10:11,Polynice REBOUND (Off:1 Def:5),,,,
+0020000973,244,2,1,3,5:13 AM,10:07,MISS Marshall 20' Jump Shot,,,,
+0020000973,245,4,0,3,5:13 AM,10:05,,,Wallace REBOUND (Off:0 Def:4),,
+0020000973,246,6,1,3,5:13 AM,10:00,Stockton P.FOUL (P1.T2),,,,
+0020000973,247,1,5,3,5:13 AM,9:49,,,Smith  Layup (11 PTS),52 - 52,TIE
+0020000973,248,2,1,3,5:14 AM,9:22,MISS Starks 24' 3PT Jump Shot,,,,
+0020000973,249,4,0,3,5:14 AM,9:19,,,Smith REBOUND (Off:4 Def:6),,
+0020000973,250,2,1,3,5:14 AM,9:05,,,MISS Atkins 20' Jump Shot,,
+0020000973,251,4,0,3,5:14 AM,9:03,,,Wallace REBOUND (Off:1 Def:4),,
+0020000973,252,2,1,3,5:14 AM,9:01,,,MISS Atkins  3PT Jump Shot,,
+0020000973,253,4,0,3,5:14 AM,8:59,Malone REBOUND (Off:0 Def:5),,,,
+0020000973,254,6,1,3,5:15 AM,8:54,,,Atkins P.FOUL (P1.T2),,
+0020000973,255,2,1,3,5:15 AM,8:41,MISS Marshall 25' 3PT Jump Shot,,,,
+0020000973,256,4,0,3,5:15 AM,8:38,,,Atkins REBOUND (Off:0 Def:3),,
+0020000973,257,6,2,3,5:15 AM,8:36,Starks S.FOUL (P3.T3),,,,
+0020000973,258,3,11,3,5:15 AM,8:36,,,Wallace Free Throw 1 of 2 (2 PTS),53 - 52,-1
+0020000973,259,3,12,3,5:15 AM,8:36,,,MISS Wallace Free Throw 2 of 2,,
+0020000973,260,4,0,3,5:16 AM,8:34,Malone REBOUND (Off:0 Def:6),,,,
+0020000973,261,2,5,3,5:16 AM,8:22,MISS Starks  Layup,,Smith BLOCK (3 BLK),,
+0020000973,262,4,0,3,5:16 AM,8:19,,,Stackhouse REBOUND (Off:0 Def:1),,
+0020000973,263,2,5,3,5:16 AM,8:06,,,MISS Smith  Layup,,
+0020000973,264,4,0,3,5:16 AM,8:04,Malone REBOUND (Off:0 Def:7),,,,
+0020000973,265,6,1,3,5:16 AM,7:54,,,Curry P.FOUL (P3.T3),,
+0020000973,266,1,1,3,5:17 AM,7:42,Starks 22' Jump Shot (4 PTS) (Marshall 2 AST),,,53 - 54,1
+0020000973,267,2,1,3,5:17 AM,7:25,,,MISS Stackhouse 17' Jump Shot,,
+0020000973,268,4,0,3,5:17 AM,7:22,Marshall REBOUND (Off:1 Def:1),,,,
+0020000973,269,1,1,3,5:17 AM,7:16,Starks  3PT Jump Shot (7 PTS) (Stockton 3 AST),,,53 - 57,4
+0020000973,270,2,1,3,5:18 AM,6:52,,,MISS Atkins 12' Jump Shot,,
+0020000973,271,4,0,3,5:18 AM,6:50,Polynice REBOUND (Off:1 Def:6),,,,
+0020000973,272,2,5,3,5:18 AM,6:46,MISS Malone  Layup,,,,
+0020000973,274,4,0,3,5:18 AM,6:43,Malone REBOUND (Off:1 Def:7),,,,
+0020000973,273,2,5,3,5:18 AM,6:43,MISS Malone  Layup,,Wallace BLOCK (3 BLK),,
+0020000973,275,4,0,3,5:18 AM,6:43,JAZZ Rebound,,,,
+0020000973,276,2,1,3,5:18 AM,6:40,MISS Starks 19' Jump Shot,,,,
+0020000973,277,4,0,3,5:18 AM,6:38,,,Atkins REBOUND (Off:0 Def:4),,
+0020000973,278,1,5,3,5:18 AM,6:35,,,Stackhouse  Layup (15 PTS) (Atkins 4 AST),55 - 57,2
+0020000973,279,2,1,3,5:18 AM,6:20,MISS Starks 21' Jump Shot,,,,
+0020000973,280,4,0,3,5:19 AM,6:19,,,Smith REBOUND (Off:4 Def:7),,
+0020000973,281,1,1,3,5:19 AM,6:02,,,Stackhouse 21' Jump Shot (17 PTS) (Curry 1 AST),57 - 57,TIE
+0020000973,282,2,1,3,5:19 AM,5:44,MISS Malone 19' Jump Shot,,,,
+0020000973,283,4,0,3,5:19 AM,5:42,,,Pistons Rebound,,
+0020000973,284,6,3,3,5:19 AM,5:42,Marshall L.B.FOUL (P3.T4),,,,
+0020000973,285,9,1,3,5:19 AM,5:42,JAZZ Timeout: Regular (Full 3 Short 0),,,,
+0020000973,287,8,0,3,5:21 AM,5:42,SUB: Vaughn FOR Stockton,,,,
+0020000973,288,6,1,3,5:22 AM,5:31,Starks P.FOUL (P4.PN),,,,
+0020000973,289,8,0,3,5:22 AM,5:31,SUB: Russell FOR Starks,,,,
+0020000973,290,3,11,3,5:22 AM,5:31,,,Stackhouse Free Throw 1 of 2 (18 PTS),58 - 57,-1
+0020000973,291,3,12,3,5:22 AM,5:31,,,Stackhouse Free Throw 2 of 2 (19 PTS),59 - 57,-2
+0020000973,292,2,1,3,5:23 AM,5:07,MISS Polynice 15' Jump Shot,,,,
+0020000973,293,4,0,3,5:23 AM,5:05,,,Stackhouse REBOUND (Off:0 Def:2),,
+0020000973,294,2,1,3,5:23 AM,4:52,,,MISS Smith 20' Jump Shot,,
+0020000973,295,4,0,3,5:23 AM,4:49,,,Wallace REBOUND (Off:2 Def:4),,
+0020000973,296,6,1,3,5:23 AM,4:44,Malone P.FOUL (P2.PN),,,,
+0020000973,297,3,11,3,5:23 AM,4:44,,,MISS Wallace Free Throw 1 of 2,,
+0020000973,298,4,1,3,5:23 AM,4:44,,,Pistons Rebound,,
+0020000973,299,8,0,3,5:23 AM,4:44,,,SUB: Owens FOR Curry,,
+0020000973,300,3,12,3,5:24 AM,4:44,,,MISS Wallace Free Throw 2 of 2,,
+0020000973,301,4,0,3,5:24 AM,4:41,Polynice REBOUND (Off:1 Def:7),,,,
+0020000973,302,2,1,3,5:24 AM,4:22,MISS Vaughn 24' 3PT Jump Shot,,,,
+0020000973,303,4,0,3,5:24 AM,4:19,,,Stackhouse REBOUND (Off:0 Def:3),,
+0020000973,304,1,1,3,5:24 AM,4:15,,,Stackhouse 20' Jump Shot (21 PTS),61 - 57,-4
+0020000973,305,2,58,3,5:25 AM,3:48,MISS Polynice 9' Turnaround Hook Shot,,,,
+0020000973,306,4,0,3,5:25 AM,3:47,,,Wallace REBOUND (Off:2 Def:5),,
+0020000973,307,1,5,3,5:25 AM,3:40,,,Owens  Layup (4 PTS) (Wallace 3 AST),63 - 57,-6
+0020000973,308,5,1,3,5:25 AM,3:20,Malone Bad Pass Turnover (P4.T9),,Owens STEAL (1 STL),,
+0020000973,309,1,1,3,5:25 AM,3:10,,,Stackhouse 15' Jump Shot (23 PTS),65 - 57,-8
+0020000973,310,9,1,3,5:25 AM,3:01,JAZZ Timeout: Regular (Full 4 Short 0),,,,
+0020000973,312,8,0,3,5:27 AM,3:01,SUB: Manning FOR Polynice,,,,
+0020000973,313,8,0,3,5:27 AM,3:01,,,SUB: Moore FOR Smith,,
+0020000973,314,2,1,3,5:28 AM,2:48,MISS Manning 13' Jump Shot,,,,
+0020000973,315,4,0,3,5:28 AM,2:46,Manning REBOUND (Off:1 Def:1),,,,
+0020000973,316,2,1,3,5:28 AM,2:32,MISS Marshall 25' 3PT Jump Shot,,,,
+0020000973,317,4,0,3,5:28 AM,2:29,,,Wallace REBOUND (Off:2 Def:6),,
+0020000973,318,2,1,3,5:28 AM,2:24,,,MISS Stackhouse 17' Jump Shot,,
+0020000973,319,4,0,3,5:28 AM,2:23,,,Owens REBOUND (Off:2 Def:1),,
+0020000973,320,2,1,3,5:28 AM,2:12,,,MISS Atkins 13' Jump Shot,,
+0020000973,321,4,0,3,5:28 AM,2:08,Manning REBOUND (Off:1 Def:2),,,,
+0020000973,322,1,1,3,5:29 AM,1:55,Russell  3PT Jump Shot (5 PTS) (Manning 2 AST),,,65 - 60,-5
+0020000973,323,5,2,3,5:29 AM,1:35,Manning STEAL (1 STL),,Moore Lost Ball Turnover (P1.T8),,
+0020000973,324,2,1,3,5:29 AM,1:19,MISS Marshall 5' Jump Shot,,Wallace BLOCK (4 BLK),,
+0020000973,325,4,0,3,5:29 AM,1:16,,,Atkins REBOUND (Off:0 Def:5),,
+0020000973,326,6,1,3,5:29 AM,1:14,Russell P.FOUL (P2.PN),,,,
+0020000973,327,8,0,3,5:30 AM,1:14,SUB: Ostertag FOR Malone,,,,
+0020000973,328,3,11,3,5:30 AM,1:14,,,Atkins Free Throw 1 of 2 (17 PTS),66 - 60,-6
+0020000973,329,8,0,3,5:30 AM,1:14,SUB: Padgett FOR Marshall,,,,
+0020000973,330,8,0,3,5:30 AM,1:14,,,SUB: Curry FOR Stackhouse,,
+0020000973,331,8,0,3,5:30 AM,1:14,,,SUB: Williamson FOR Wallace,,
+0020000973,332,3,12,3,5:30 AM,1:14,,,MISS Atkins Free Throw 2 of 2,,
+0020000973,333,4,0,3,5:30 AM,1:11,Padgett REBOUND (Off:0 Def:1),,,,
+0020000973,334,2,1,3,5:31 AM,0:55,MISS Manning 9' Jump Shot,,,,
+0020000973,335,4,0,3,5:31 AM,0:51,,,Williamson REBOUND (Off:1 Def:2),,
+0020000973,336,6,2,3,5:31 AM,0:46,Padgett S.FOUL (P1.PN),,,,
+0020000973,337,3,11,3,5:31 AM,0:46,,,Moore Free Throw 1 of 2 (3 PTS),67 - 60,-7
+0020000973,338,3,12,3,5:31 AM,0:46,,,Moore Free Throw 2 of 2 (4 PTS),68 - 60,-8
+0020000973,339,6,1,3,5:32 AM,0:36,,,Curry P.FOUL (P4.T4),,
+0020000973,340,8,0,3,5:32 AM,0:36,,,SUB: Buechler FOR Owens,,
+0020000973,341,5,1,3,5:32 AM,0:28,Vaughn Bad Pass Turnover (P1.T10),,,,
+0020000973,342,9,1,3,5:33 AM,0:28,,,Pistons Timeout: Regular (Reg.3 Short 1),,
+0020000973,344,8,0,3,5:34 AM,0:28,,,SUB: Stackhouse FOR Curry,,
+0020000973,345,5,1,3,5:35 AM,0:11,Padgett STEAL (1 STL),,Stackhouse Bad Pass Turnover (P3.T9),,
+0020000973,346,6,1,3,5:35 AM,0:10,,,Buechler P.FOUL (P1.PN),,
+0020000973,347,3,11,3,5:35 AM,0:10,Padgett Free Throw 1 of 2 (1 PTS),,,68 - 61,-7
+0020000973,348,3,12,3,5:35 AM,0:10,MISS Padgett Free Throw 2 of 2,,,,
+0020000973,349,4,0,3,5:35 AM,0:09,,,Moore REBOUND (Off:2 Def:1),,
+0020000973,350,5,2,3,5:35 AM,0:02,Vaughn STEAL (1 STL),,Atkins Lost Ball Turnover (P2.T10),,
+0020000973,351,2,1,3,5:35 AM,0:00,MISS Vaughn 48' 3PT Jump Shot,,,,
+0020000973,352,4,0,3,5:36 AM,0:00,JAZZ Rebound,,,,
+0020000973,354,13,0,3,5:36 AM,0:00,,,,68 - 61,-7
+0020000973,355,12,0,4,5:38 AM,12:00,,,,68 - 61,-7
+0020000973,356,2,1,4,5:38 AM,11:40,Ostertag BLOCK (2 BLK),,MISS Cleaves 13' Jump Shot,,
+0020000973,357,4,0,4,5:38 AM,11:39,,,Pistons Rebound,,
+0020000973,358,2,1,4,5:39 AM,11:37,,,MISS Moore 15' Jump Shot,,
+0020000973,359,4,0,4,5:39 AM,11:34,Russell REBOUND (Off:1 Def:4),,,,
+0020000973,360,5,1,4,5:39 AM,11:23,Padgett Bad Pass Turnover (P1.T11),,Moore STEAL (2 STL),,
+0020000973,361,2,5,4,5:39 AM,11:16,,,MISS Williamson  Layup,,
+0020000973,363,4,0,4,5:39 AM,11:14,,,Owens REBOUND (Off:3 Def:1),,
+0020000973,362,1,4,4,5:39 AM,11:14,,,Owens  Tip Shot (6 PTS),70 - 61,-9
+0020000973,364,6,2,4,5:39 AM,10:53,,,Moore S.FOUL (P3.T1),,
+0020000973,365,3,11,4,5:39 AM,10:53,MISS Manning Free Throw 1 of 2,,,,
+0020000973,366,4,1,4,5:39 AM,10:53,JAZZ Rebound,,,,
+0020000973,367,3,12,4,5:40 AM,10:53,Manning Free Throw 2 of 2 (7 PTS),,,70 - 62,-8
+0020000973,368,2,1,4,5:40 AM,10:32,,,MISS Owens 17' Jump Shot,,
+0020000973,369,4,0,4,5:40 AM,10:28,,,Owens REBOUND (Off:4 Def:1),,
+0020000973,370,2,1,4,5:41 AM,10:17,,,MISS Stackhouse 18' Jump Shot,,
+0020000973,371,4,0,4,5:41 AM,10:15,Manning REBOUND (Off:1 Def:3),,,,
+0020000973,372,1,5,4,5:41 AM,10:03,Vaughn  Layup (9 PTS) (Russell 2 AST),,,70 - 64,-6
+0020000973,373,2,1,4,5:41 AM,9:44,Padgett BLOCK (1 BLK),,MISS Owens 5' Jump Shot,,
+0020000973,374,4,0,4,5:41 AM,9:39,Vaughn REBOUND (Off:1 Def:1),,,,
+0020000973,375,8,0,4,5:41 AM,9:37,,,SUB: Atkins FOR Cleaves,,
+0020000973,376,8,0,4,5:41 AM,9:37,,,SUB: Smith FOR Moore,,
+0020000973,377,8,0,4,5:41 AM,9:37,SUB: Stockton FOR Vaughn,,,,
+0020000973,378,2,5,4,5:42 AM,9:35,MISS Padgett  Layup,,,,
+0020000973,379,4,0,4,5:42 AM,9:34,Padgett REBOUND (Off:1 Def:1),,,,
+0020000973,380,2,5,4,5:42 AM,9:23,MISS Padgett  Layup,,Smith BLOCK (4 BLK),,
+0020000973,381,10,0,4,5:42 AM,9:20,Jump Ball Ostertag vs. Owens: Tip to Russell,,,,
+0020000973,382,4,0,4,5:42 AM,9:20,Ostertag REBOUND (Off:1 Def:0),,,,
+0020000973,383,1,1,4,5:43 AM,9:05,Stockton 25' 3PT Jump Shot (8 PTS) (Padgett 2 AST),,,70 - 67,-3
+0020000973,384,9,1,4,5:43 AM,9:03,,,Pistons Timeout: Regular (Reg.4 Short 1),,
+0020000973,386,8,0,4,5:44 AM,9:03,,,SUB: Wallace FOR Williamson,,
+0020000973,387,2,1,4,5:45 AM,8:48,Manning BLOCK (1 BLK),,MISS Atkins 8' Jump Shot,,
+0020000973,388,4,0,4,5:45 AM,8:46,,,Atkins REBOUND (Off:1 Def:5),,
+0020000973,389,2,1,4,5:45 AM,8:43,,,MISS Atkins 21' Jump Shot,,
+0020000973,390,4,0,4,5:45 AM,8:39,Stockton REBOUND (Off:0 Def:3),,,,
+0020000973,391,5,1,4,5:45 AM,8:28,Padgett Bad Pass Turnover (P2.T12),,Owens STEAL (2 STL),,
+0020000973,392,2,1,4,5:46 AM,8:10,,,MISS Stackhouse  3PT Jump Shot,,
+0020000973,393,4,0,4,5:46 AM,8:08,Ostertag REBOUND (Off:1 Def:1),,,,
+0020000973,394,6,1,4,5:46 AM,7:56,,,Smith P.FOUL (P2.T2),,
+0020000973,395,8,0,4,5:46 AM,7:56,SUB: Malone FOR Manning,,,,
+0020000973,396,8,0,4,5:46 AM,7:56,,,SUB: Curry FOR Owens,,
+0020000973,397,8,0,4,5:46 AM,7:56,SUB: Marshall FOR Padgett,,,,
+0020000973,398,1,1,4,5:47 AM,7:45,Russell 23' Jump Shot (7 PTS) (Stockton 4 AST),,,70 - 69,-1
+0020000973,399,2,1,4,5:47 AM,7:29,,,MISS Stackhouse  3PT Jump Shot,,
+0020000973,400,4,0,4,5:47 AM,7:27,,,Pistons Rebound,,
+0020000973,401,6,3,4,5:47 AM,7:27,Ostertag L.B.FOUL (P2.T1),,,,
+0020000973,402,2,5,4,5:47 AM,7:12,,,MISS Smith  Layup,,
+0020000973,403,4,0,4,5:47 AM,7:11,Malone REBOUND (Off:1 Def:8),,,,
+0020000973,404,2,1,4,5:48 AM,6:55,MISS Malone 20' Jump Shot,,,,
+0020000973,405,4,0,4,5:48 AM,6:53,,,Atkins REBOUND (Off:1 Def:6),,
+0020000973,406,6,1,4,5:48 AM,6:50,Russell P.FOUL (P3.T2),,,,
+0020000973,407,2,1,4,5:48 AM,6:42,,,MISS Stackhouse 20' Jump Shot,,
+0020000973,408,4,0,4,5:48 AM,6:38,,,Wallace REBOUND (Off:3 Def:6),,
+0020000973,409,2,5,4,5:48 AM,6:34,,,MISS Smith  Layup,,
+0020000973,410,4,0,4,5:48 AM,6:33,,,Wallace REBOUND (Off:4 Def:6),,
+0020000973,411,2,1,4,5:48 AM,6:28,,,MISS Curry 16' Jump Shot,,
+0020000973,412,4,0,4,5:48 AM,6:25,Russell REBOUND (Off:1 Def:5),,,,
+0020000973,413,1,1,4,5:49 AM,6:16,Stockton  3PT Jump Shot (11 PTS) (Malone 6 AST),,,70 - 72,2
+0020000973,414,1,1,4,5:49 AM,5:51,,,Stackhouse 11' Jump Shot (25 PTS),72 - 72,TIE
+0020000973,415,2,1,4,5:49 AM,5:36,MISS Malone 18' Jump Shot,,,,
+0020000973,416,4,0,4,5:49 AM,5:34,Marshall REBOUND (Off:2 Def:1),,,,
+0020000973,417,2,58,4,5:49 AM,5:33,MISS Marshall 4' Turnaround Hook Shot,,,,
+0020000973,418,4,0,4,5:49 AM,5:32,,,Pistons Rebound,,
+0020000973,419,9,4,4,5:50 AM,5:32,,,,,
+0020000973,421,8,0,4,5:51 AM,5:32,SUB: Starks FOR Ostertag,,,,
+0020000973,422,1,1,4,5:52 AM,5:19,,,Stackhouse 17' Jump Shot (27 PTS),74 - 72,-2
+0020000973,423,1,5,4,5:52 AM,5:02,Stockton  Layup (13 PTS) (Malone 7 AST),,,74 - 74,TIE
+0020000973,424,6,2,4,5:52 AM,5:02,,,Curry S.FOUL (P5.T3),,
+0020000973,425,3,10,4,5:52 AM,5:02,Stockton Free Throw 1 of 1 (14 PTS),,,74 - 75,1
+0020000973,426,6,1,4,5:53 AM,4:46,Marshall P.FOUL (P4.T3),,,,
+0020000973,427,8,0,4,5:53 AM,4:46,,,SUB: Owens FOR Curry,,
+0020000973,428,2,1,4,5:53 AM,4:31,,,MISS Stackhouse 24' 3PT Jump Shot,,
+0020000973,429,4,0,4,5:53 AM,4:29,,,Wallace REBOUND (Off:5 Def:6),,
+0020000973,430,2,1,4,5:53 AM,4:21,,,MISS Atkins 24' 3PT Jump Shot,,
+0020000973,431,4,0,4,5:53 AM,4:18,Marshall REBOUND (Off:2 Def:2),,,,
+0020000973,432,2,5,4,5:54 AM,4:07,MISS Malone  Layup,,,,
+0020000973,434,4,0,4,5:54 AM,4:05,Marshall REBOUND (Off:3 Def:2),,,,
+0020000973,433,1,5,4,5:54 AM,4:05,Marshall  Layup (10 PTS),,,74 - 77,3
+0020000973,435,2,1,4,5:54 AM,3:43,Stockton BLOCK (1 BLK),,MISS Atkins 21' Jump Shot,,
+0020000973,436,4,0,4,5:54 AM,3:40,Russell REBOUND (Off:1 Def:6),,,,
+0020000973,437,6,1,4,5:54 AM,3:30,,,Smith P.FOUL (P3.T4),,
+0020000973,438,2,1,4,5:55 AM,3:16,MISS Starks  3PT Jump Shot,,,,
+0020000973,439,4,0,4,5:55 AM,3:16,,,Pistons Rebound,,
+0020000973,440,9,1,4,5:55 AM,3:16,,,Pistons Timeout: Regular (Reg.5 Short 1),,
+0020000973,442,5,2,4,5:57 AM,3:10,,,Atkins Lost Ball Turnover (P3.T11),,
+0020000973,443,1,1,4,5:58 AM,2:53,Russell 24' 3PT Jump Shot (10 PTS) (Malone 8 AST),,,74 - 80,6
+0020000973,444,6,1,4,5:58 AM,2:47,Starks P.FOUL (P5.T4),,,,
+0020000973,445,2,1,4,5:58 AM,2:40,,,MISS Stackhouse 25' 3PT Jump Shot,,
+0020000973,446,4,0,4,5:58 AM,2:37,,,Smith REBOUND (Off:5 Def:7),,
+0020000973,447,2,1,4,5:58 AM,2:23,,,MISS Owens 23' Jump Shot,,
+0020000973,448,4,0,4,5:58 AM,2:21,JAZZ Rebound,,,,
+0020000973,449,5,1,4,5:59 AM,2:01,Marshall Bad Pass Turnover (P2.T13),,Wallace STEAL (1 STL),,
+0020000973,450,2,42,4,5:59 AM,1:55,,,MISS Stackhouse  Driving Layup,,
+0020000973,452,4,0,4,5:59 AM,1:54,,,Owens REBOUND (Off:5 Def:1),,
+0020000973,451,2,4,4,5:59 AM,1:54,,,MISS Owens  Tip Shot,,
+0020000973,453,4,0,4,5:59 AM,1:52,,,Pistons Rebound,,
+0020000973,454,2,1,4,5:59 AM,1:50,,,MISS Atkins 24' 3PT Jump Shot,,
+0020000973,455,4,0,4,6:00 AM,1:48,Marshall REBOUND (Off:3 Def:3),,,,
+0020000973,456,2,1,4,6:00 AM,1:30,MISS Russell 25' 3PT Jump Shot,,,,
+0020000973,457,4,0,4,6:00 AM,1:27,,,Owens REBOUND (Off:5 Def:2),,
+0020000973,458,6,4,4,6:00 AM,1:25,,,Stackhouse OFF.Foul (P2),,
+0020000973,459,5,5,4,6:00 AM,1:25,,,Stackhouse Foul Turnover (P4.T12),,
+0020000973,460,2,1,4,6:00 AM,1:08,MISS Stockton 7' Jump Shot,,,,
+0020000973,461,4,0,4,6:00 AM,1:06,,,Owens REBOUND (Off:5 Def:3),,
+0020000973,462,2,5,4,6:01 AM,0:57,Malone BLOCK (1 BLK),,MISS Atkins  Layup,,
+0020000973,463,4,0,4,6:01 AM,0:57,,,Pistons Rebound,,
+0020000973,464,1,1,4,6:01 AM,0:48,,,Wallace 24' 3PT Jump Shot (5 PTS) (Atkins 5 AST),77 - 80,3
+0020000973,465,2,1,4,6:01 AM,0:32,MISS Malone 19' Jump Shot,,,,
+0020000973,466,4,0,4,6:01 AM,0:30,Russell REBOUND (Off:2 Def:6),,,,
+0020000973,467,6,10,4,6:02 AM,0:12,,,,,
+0020000973,468,6,1,4,6:02 AM,0:12,,,Stackhouse P.FOUL (P3.PN),,
+0020000973,469,3,11,4,6:03 AM,0:12,Malone Free Throw 1 of 2 (12 PTS),,,77 - 81,4
+0020000973,470,3,12,4,6:03 AM,0:12,Malone Free Throw 2 of 2 (13 PTS),,,77 - 82,5
+0020000973,471,9,1,4,6:03 AM,0:12,,,Pistons Timeout: Regular (Reg.6 Short 1),,
+0020000973,473,2,1,4,6:05 AM,0:09,,,MISS Atkins 22' Jump Shot,,
+0020000973,474,4,0,4,6:05 AM,0:07,Marshall REBOUND (Off:3 Def:4),,,,
+0020000973,475,6,1,4,6:05 AM,0:06,,,Stackhouse P.FOUL (P4.PN),,
+0020000973,476,3,11,4,6:05 AM,0:06,Marshall Free Throw 1 of 2 (11 PTS),,,77 - 83,6
+0020000973,477,3,12,4,6:06 AM,0:06,Marshall Free Throw 2 of 2 (12 PTS),,,77 - 84,7
+0020000973,478,1,5,4,6:06 AM,0:00,,,Stackhouse  Layup (29 PTS),79 - 84,5
+0020000973,480,13,0,4,6:06 AM,0:00,,,,79 - 84,5

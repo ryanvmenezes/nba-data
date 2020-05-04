@@ -1,0 +1,514 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029901129,0,12,0,1,1:13 PM,12:00,,,,,
+0029901129,1,10,0,1,1:13 PM,12:00,Jump Ball Longley vs. Parks: Tip to Robinson,,,,
+0029901129,2,2,5,1,1:13 PM,11:43,MISS Marion 6' Layup,,,,
+0029901129,3,4,0,1,1:13 PM,11:42,SUNS Rebound,,,,
+0029901129,4,6,3,1,1:13 PM,11:42,,,Harrington L.B.FOUL (P1.T1),,
+0029901129,5,2,1,1,1:14 PM,11:36,MISS Livingston 19' Jump Shot,,,,
+0029901129,6,4,0,1,1:14 PM,11:35,,,Harrington REBOUND (Off:0 Def:1),,
+0029901129,7,2,5,1,1:14 PM,11:15,Livingston BLOCK (1 BLK),,MISS Bibby  Layup,,
+0029901129,8,4,0,1,1:14 PM,11:15,,,Grizzlies Rebound,,
+0029901129,9,2,1,1,1:14 PM,11:13,,,MISS Harrington 15' Jump Shot,,
+0029901129,10,4,0,1,1:14 PM,11:11,,,Abdur-Rahim REBOUND (Off:1 Def:0),,
+0029901129,11,1,6,1,1:14 PM,11:06,,,Abdur-Rahim  Driving Layup (2 PTS),2 - 0,-2
+0029901129,12,1,1,1,1:15 PM,10:52,Livingston 12' Jump Shot (2 PTS) (Longley 1 AST),,,2 - 2,TIE
+0029901129,13,5,1,1,1:15 PM,10:46,Livingston STEAL (1 STL),,Harrington Bad Pass Turnover (P1.T1),,
+0029901129,14,1,1,1,1:15 PM,10:42,Robinson 6' Jump Shot (2 PTS) (Livingston 1 AST),,,2 - 4,2
+0029901129,15,6,2,1,1:15 PM,10:42,,,Parks S.FOUL (P1.T2),,
+0029901129,16,3,10,1,1:15 PM,10:42,Robinson Free Throw 1 of 1 (3 PTS),,,2 - 5,3
+0029901129,17,1,1,1,1:16 PM,10:27,,,Bibby 24' 3PT Jump Shot (3 PTS) (Dickerson 1 AST),5 - 5,TIE
+0029901129,18,1,1,1,1:16 PM,10:13,Robinson 19' Jump Shot (5 PTS) (Livingston 2 AST),,,5 - 7,2
+0029901129,19,1,1,1,1:16 PM,9:52,,,Bibby 25' 3PT Jump Shot (6 PTS) (Abdur-Rahim 1 AST),8 - 7,-1
+0029901129,20,1,1,1,1:16 PM,9:39,Robinson 18' Jump Shot (7 PTS) (Longley 2 AST),,,8 - 9,1
+0029901129,21,6,2,1,1:17 PM,9:21,Marion S.FOUL (P1.T1),,,,
+0029901129,22,3,11,1,1:17 PM,9:21,,,Abdur-Rahim Free Throw 1 of 2 (3 PTS),9 - 9,TIE
+0029901129,23,3,12,1,1:17 PM,9:21,,,Abdur-Rahim Free Throw 2 of 2 (4 PTS),10 - 9,-1
+0029901129,24,2,1,1,1:18 PM,9:09,MISS Livingston 8' Jump Shot,,,,
+0029901129,25,4,0,1,1:18 PM,9:07,,,Abdur-Rahim REBOUND (Off:1 Def:1),,
+0029901129,26,1,1,1,1:18 PM,9:00,,,Harrington 11' Jump Shot (2 PTS) (Bibby 1 AST),12 - 9,-3
+0029901129,27,2,1,1,1:18 PM,8:48,MISS Longley 17' Jump Shot,,,,
+0029901129,28,4,0,1,1:18 PM,8:46,,,Dickerson REBOUND (Off:0 Def:1),,
+0029901129,29,2,1,1,1:18 PM,8:36,,,MISS Harrington 11' Jump Shot,,
+0029901129,30,4,0,1,1:18 PM,8:35,,,Harrington REBOUND (Off:1 Def:1),,
+0029901129,31,5,1,1,1:18 PM,8:33,,,Harrington Bad Pass Turnover (P2.T2),,
+0029901129,32,7,2,1,1:19 PM,8:20,,,Grizzlies Violation: Def. Goaltending Violation,,
+0029901129,33,6,2,1,1:19 PM,8:17,,,Dickerson S.FOUL (P1.T3),,
+0029901129,34,3,11,1,1:19 PM,8:17,Hardaway Free Throw 1 of 2 (1 PTS),,,12 - 10,-2
+0029901129,35,3,12,1,1:19 PM,8:17,Hardaway Free Throw 2 of 2 (2 PTS),,,12 - 11,-1
+0029901129,36,1,1,1,1:20 PM,8:05,,,Dickerson 16' Jump Shot (2 PTS) (Bibby 2 AST),14 - 11,-3
+0029901129,37,2,5,1,1:20 PM,7:47,MISS Hardaway  Layup,,,,
+0029901129,38,4,0,1,1:20 PM,7:45,,,Abdur-Rahim REBOUND (Off:1 Def:2),,
+0029901129,39,2,5,1,1:20 PM,7:40,,,MISS Dickerson  Layup,,
+0029901129,40,4,0,1,1:20 PM,7:40,Longley REBOUND (Off:0 Def:1),,,,
+0029901129,41,5,2,1,1:21 PM,7:28,Longley Lost Ball Turnover (P1.T1),,Parks STEAL (1 STL),,
+0029901129,42,1,7,1,1:21 PM,7:22,,,Abdur-Rahim  Dunk (6 PTS) (Bibby 3 AST),16 - 11,-5
+0029901129,43,1,1,1,1:21 PM,7:02,Hardaway 16' Jump Shot (4 PTS) (Livingston 3 AST),,,16 - 13,-3
+0029901129,44,7,2,1,1:21 PM,6:49,SUNS Violation: Def. Goaltending Violation,,,,
+0029901129,45,9,1,1,1:21 PM,6:49,SUNS Timeout: Regular (Full 1 Short 0),,,,
+0029901129,47,2,1,1,1:24 PM,6:41,Hardaway BLOCK (1 BLK),,MISS Dickerson 15' Jump Shot,,
+0029901129,48,4,0,1,1:24 PM,6:38,Marion REBOUND (Off:0 Def:1),,,,
+0029901129,49,1,1,1,1:24 PM,6:33,Robinson 26' 3PT Jump Shot (10 PTS) (Marion 1 AST),,,16 - 16,TIE
+0029901129,50,5,1,1,1:25 PM,6:12,Livingston STEAL (2 STL),,Abdur-Rahim Bad Pass Turnover (P1.T3),,
+0029901129,51,1,5,1,1:25 PM,6:06,Marion  Layup (2 PTS) (Livingston 4 AST),,,16 - 18,2
+0029901129,52,1,1,1,1:25 PM,5:51,,,Dickerson 24' 3PT Jump Shot (5 PTS) (Abdur-Rahim 2 AST),19 - 18,-1
+0029901129,53,1,1,1,1:25 PM,5:33,Robinson 11' Jump Shot (12 PTS) (Longley 3 AST),,,19 - 20,1
+0029901129,54,6,1,1,1:25 PM,5:18,Robinson P.FOUL (P1.T2),,,,
+0029901129,55,2,1,1,1:26 PM,5:14,,,MISS Bibby 24' 3PT Jump Shot,,
+0029901129,56,4,0,1,1:26 PM,5:13,SUNS Rebound,,,,
+0029901129,57,1,1,1,1:26 PM,5:05,Livingston 15' Jump Shot (4 PTS),,,19 - 22,3
+0029901129,58,5,2,1,1:27 PM,4:45,Hardaway STEAL (1 STL),,Dickerson Lost Ball Turnover (P1.T4),,
+0029901129,59,1,7,1,1:27 PM,4:40,Longley  Dunk (2 PTS) (Livingston 5 AST),,,19 - 24,5
+0029901129,60,2,5,1,1:27 PM,4:16,,,MISS Harrington  Layup,,
+0029901129,62,4,0,1,1:27 PM,4:15,,,Harrington REBOUND (Off:2 Def:1),,
+0029901129,61,2,5,1,1:27 PM,4:15,,,MISS Harrington  Layup,,
+0029901129,64,4,0,1,1:27 PM,4:12,,,Parks REBOUND (Off:1 Def:0),,
+0029901129,63,1,5,1,1:27 PM,4:12,,,Parks  Layup (2 PTS),21 - 24,3
+0029901129,65,6,2,1,1:27 PM,4:12,Marion S.FOUL (P2.T3),,,,
+0029901129,66,8,0,1,1:27 PM,4:12,SUB: Rogers FOR Marion,,,,
+0029901129,67,3,10,1,1:27 PM,4:12,,,Parks Free Throw 1 of 1 (3 PTS),22 - 24,2
+0029901129,68,2,5,1,1:28 PM,4:00,MISS Hardaway  Layup,,,,
+0029901129,69,4,0,1,1:28 PM,3:59,,,Bibby REBOUND (Off:0 Def:1),,
+0029901129,70,2,1,1,1:28 PM,3:54,,,MISS Abdur-Rahim 21' Jump Shot,,
+0029901129,71,4,0,1,1:28 PM,3:52,Rogers REBOUND (Off:0 Def:1),,,,
+0029901129,72,2,1,1,1:28 PM,3:45,MISS Livingston 25' 3PT Jump Shot,,,,
+0029901129,73,4,0,1,1:28 PM,3:43,,,Grizzlies Rebound,,
+0029901129,74,8,0,1,1:28 PM,3:43,,,SUB: West FOR Parks,,
+0029901129,75,8,0,1,1:28 PM,3:43,SUB: Blount FOR Longley,,,,
+0029901129,76,6,2,1,1:29 PM,3:24,Blount S.FOUL (P1.T4),,,,
+0029901129,77,3,11,1,1:29 PM,3:24,,,Harrington Free Throw 1 of 2 (3 PTS),23 - 24,1
+0029901129,78,3,12,1,1:29 PM,3:24,,,Harrington Free Throw 2 of 2 (4 PTS),24 - 24,TIE
+0029901129,79,1,5,1,1:30 PM,3:08,Livingston  Layup (6 PTS) (Robinson 1 AST),,,24 - 26,2
+0029901129,80,6,2,1,1:30 PM,3:08,,,Abdur-Rahim S.FOUL (P1.T4),,
+0029901129,81,3,10,1,1:30 PM,3:08,Livingston Free Throw 1 of 1 (7 PTS),,,24 - 27,3
+0029901129,82,1,1,1,1:30 PM,2:52,,,Dickerson 13' Jump Shot (7 PTS),26 - 27,1
+0029901129,83,2,5,1,1:31 PM,2:39,MISS Robinson  Layup,,,,
+0029901129,85,4,0,1,1:31 PM,2:37,Robinson REBOUND (Off:1 Def:0),,,,
+0029901129,84,1,5,1,1:31 PM,2:37,Robinson  Layup (14 PTS),,,26 - 29,3
+0029901129,86,6,2,1,1:31 PM,2:26,Livingston S.FOUL (P1.PN),,,,
+0029901129,87,9,1,1,1:31 PM,2:26,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,
+0029901129,89,3,11,1,1:33 PM,2:26,,,Bibby Free Throw 1 of 2 (7 PTS),27 - 29,2
+0029901129,90,3,12,1,1:34 PM,2:26,,,Bibby Free Throw 2 of 2 (8 PTS),28 - 29,1
+0029901129,91,1,7,1,1:34 PM,2:13,Blount  Dunk (2 PTS) (Robinson 2 AST),,,28 - 31,3
+0029901129,92,2,1,1,1:34 PM,1:52,,,MISS West 18' Jump Shot,,
+0029901129,93,4,0,1,1:34 PM,1:49,Blount REBOUND (Off:0 Def:1),,,,
+0029901129,94,1,6,1,1:34 PM,1:44,Livingston  Driving Layup (9 PTS),,,28 - 33,5
+0029901129,95,2,1,1,1:35 PM,1:24,,,MISS Dickerson 25' 3PT Jump Shot,,
+0029901129,96,4,0,1,1:35 PM,1:21,Rogers REBOUND (Off:0 Def:2),,,,
+0029901129,97,2,1,1,1:35 PM,1:14,MISS Hardaway 23' Jump Shot,,,,
+0029901129,98,4,0,1,1:35 PM,1:12,,,Bibby REBOUND (Off:0 Def:2),,
+0029901129,99,2,5,1,1:35 PM,1:07,,,MISS Dickerson  Layup,,
+0029901129,100,4,0,1,1:35 PM,1:05,,,Harrington REBOUND (Off:3 Def:1),,
+0029901129,101,5,1,1,1:35 PM,1:05,,,Harrington Bad Pass Turnover (P3.T5),,
+0029901129,102,8,0,1,1:35 PM,1:05,SUB: Day FOR Livingston,,,,
+0029901129,103,1,1,1,1:36 PM,0:48,Rogers 24' 3PT Jump Shot (3 PTS) (Robinson 3 AST),,,28 - 36,8
+0029901129,104,1,7,1,1:36 PM,0:34,,,Abdur-Rahim  Dunk (8 PTS) (Bibby 4 AST),30 - 36,6
+0029901129,105,1,5,1,1:37 PM,0:21,Blount  Layup (4 PTS) (Hardaway 1 AST),,,30 - 38,8
+0029901129,106,6,2,1,1:37 PM,0:21,,,Harrington S.FOUL (P2.PN),,
+0029901129,107,8,0,1,1:37 PM,0:21,SUB: Bailey FOR Hardaway,,,,
+0029901129,108,8,0,1,1:37 PM,0:21,,,SUB: Scott FOR Harrington,,
+0029901129,109,3,10,1,1:37 PM,0:21,Blount Free Throw 1 of 1 (5 PTS),,,30 - 39,9
+0029901129,110,6,2,1,1:38 PM,0:01,Bailey S.FOUL (P1.PN),,,,
+0029901129,111,3,11,1,1:38 PM,0:01,,,West Free Throw 1 of 2 (1 PTS),31 - 39,8
+0029901129,112,8,0,1,1:38 PM,0:01,SUB: Longley FOR Blount,,,,
+0029901129,113,3,12,1,1:38 PM,0:01,,,West Free Throw 2 of 2 (2 PTS),32 - 39,7
+0029901129,114,2,1,1,1:39 PM,0:00,MISS Bailey 49' 3PT Jump Shot,,,,
+0029901129,116,4,0,1,1:39 PM,0:00,SUNS Rebound,,,,
+0029901129,115,13,0,1,1:39 PM,0:00,,,,32 - 39,7
+0029901129,118,12,0,2,1:41 PM,12:00,,,,32 - 39,7
+0029901129,119,1,1,2,1:42 PM,11:42,,,Scott 24' 3PT Jump Shot (3 PTS) (Bibby 5 AST),35 - 39,4
+0029901129,120,6,1,2,1:42 PM,11:26,,,Bibby P.FOUL (P1.T1),,
+0029901129,121,1,7,2,1:42 PM,11:19,Longley  Dunk (4 PTS) (Rogers 1 AST),,,35 - 41,6
+0029901129,122,2,1,2,1:43 PM,10:59,,,MISS Parks 15' Jump Shot,,
+0029901129,123,4,0,2,1:43 PM,10:55,Marion REBOUND (Off:0 Def:2),,,,
+0029901129,124,6,1,2,1:43 PM,10:54,,,Parks P.FOUL (P2.T2),,
+0029901129,125,8,0,2,1:43 PM,10:54,,,SUB: Ekezie FOR Parks,,
+0029901129,126,1,1,2,1:43 PM,10:46,Longley 17' Jump Shot (6 PTS) (Bailey 1 AST),,,35 - 43,8
+0029901129,127,6,1,2,1:44 PM,10:30,Rogers P.FOUL (P1.T1),,,,
+0029901129,128,2,1,2,1:44 PM,10:20,,,MISS Abdur-Rahim 11' Jump Shot,,
+0029901129,129,4,0,2,1:44 PM,10:18,Marion REBOUND (Off:0 Def:3),,,,
+0029901129,130,6,2,2,1:44 PM,10:07,,,Lopez S.FOUL (P1.T3),,
+0029901129,131,3,11,2,1:45 PM,10:07,Bailey Free Throw 1 of 2 (1 PTS),,,35 - 44,9
+0029901129,138,7,4,2,1:45 PM,10:07,,,Abdur-Rahim Violation:Jump Ball,,
+0029901129,132,3,12,2,1:45 PM,10:07,MISS Bailey Free Throw 2 of 2,,,,
+0029901129,133,4,0,2,1:45 PM,10:02,,,Scott REBOUND (Off:0 Def:1),,
+0029901129,134,6,4,2,1:46 PM,9:53,,,Scott OFF.Foul (P1),,
+0029901129,135,5,5,2,1:46 PM,9:53,,,Scott Foul Turnover (P1.T6),,
+0029901129,136,9,4,2,1:46 PM,9:53,,,,,
+0029901129,139,2,2,2,1:48 PM,9:37,MISS Day 7' Running Jump Shot,,,,
+0029901129,140,4,0,2,1:48 PM,9:35,Longley REBOUND (Off:1 Def:1),,,,
+0029901129,141,2,1,2,1:48 PM,9:31,MISS Rogers 24' 3PT Jump Shot,,,,
+0029901129,142,4,0,2,1:48 PM,9:31,,,Grizzlies Rebound,,
+0029901129,143,6,3,2,1:48 PM,9:31,Longley L.B.FOUL (P1.T2),,,,
+0029901129,144,1,1,2,1:49 PM,9:17,,,Scott 16' Jump Shot (5 PTS) (Bibby 6 AST),37 - 44,7
+0029901129,145,1,3,2,1:49 PM,8:57,Longley 6' Hook Shot (8 PTS) (Bailey 2 AST),,,37 - 46,9
+0029901129,146,2,5,2,1:49 PM,8:38,,,MISS Ekezie  Layup,,
+0029901129,147,4,0,2,1:49 PM,8:37,Marion REBOUND (Off:0 Def:4),,,,
+0029901129,148,2,1,2,1:50 PM,8:30,MISS Day 25' 3PT Jump Shot,,,,
+0029901129,150,4,0,2,1:50 PM,8:28,Bailey REBOUND (Off:1 Def:0),,,,
+0029901129,149,1,5,2,1:50 PM,8:28,Bailey  Layup (3 PTS),,,37 - 48,11
+0029901129,151,9,1,2,1:50 PM,8:19,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,
+0029901129,153,8,0,2,1:52 PM,8:19,,,SUB: Palacio FOR Lopez,,
+0029901129,154,8,0,2,1:52 PM,8:19,SUB: Livingston FOR Bailey,,,,
+0029901129,160,8,0,2,1:52 PM,8:19,,,SUB: Harrington FOR Abdur-Rahim,,
+0029901129,155,8,0,2,1:52 PM,8:19,,,SUB: Dickerson FOR Bibby,,
+0029901129,156,5,1,2,1:52 PM,8:07,Marion STEAL (1 STL),,Ekezie Bad Pass Turnover (P1.T7),,
+0029901129,157,2,1,2,1:53 PM,7:59,MISS Day 26' 3PT Jump Shot,,,,
+0029901129,158,4,0,2,1:53 PM,7:59,,,Grizzlies Rebound,,
+0029901129,159,6,3,2,1:53 PM,7:59,Rogers L.B.FOUL (P2.T3),,,,
+0029901129,161,8,0,2,1:53 PM,7:59,SUB: Robinson FOR Rogers,,,,
+0029901129,162,8,0,2,1:53 PM,7:59,SUB: Hardaway FOR Day,,,,
+0029901129,163,2,7,2,1:53 PM,7:41,,,MISS Ekezie  Dunk,,
+0029901129,164,4,0,2,1:54 PM,7:39,,,Palacio REBOUND (Off:1 Def:0),,
+0029901129,165,6,1,2,1:54 PM,7:33,Longley P.FOUL (P2.T4),,,,
+0029901129,166,8,0,2,1:54 PM,7:33,SUB: Blount FOR Longley,,,,
+0029901129,167,5,9,2,1:54 PM,7:33,,,Grizzlies Turnover: 5 Second Violation (T#8),,
+0029901129,168,9,2,2,1:54 PM,7:33,,,Grizzlies Timeout: Short (Reg.2 Short 1),,
+0029901129,170,6,4,2,1:55 PM,7:21,Robinson OFF.Foul (P2),,,,
+0029901129,171,5,5,2,1:55 PM,7:21,Robinson Foul Turnover (P1.T2),,,,
+0029901129,172,5,1,2,1:56 PM,7:04,Marion STEAL (2 STL),,Palacio Bad Pass Turnover (P1.T9),,
+0029901129,173,1,5,2,1:56 PM,7:00,Marion  Layup (4 PTS),,,37 - 50,13
+0029901129,174,6,1,2,1:56 PM,6:44,Hardaway P.FOUL (P1.PN),,,,
+0029901129,175,8,0,2,1:56 PM,6:44,,,SUB: Bibby FOR Palacio,,
+0029901129,176,8,0,2,1:56 PM,6:44,,,SUB: Abdur-Rahim FOR Ekezie,,
+0029901129,177,3,11,2,1:57 PM,6:44,,,Dickerson Free Throw 1 of 2 (8 PTS),38 - 50,12
+0029901129,178,3,12,2,1:57 PM,6:44,,,Dickerson Free Throw 2 of 2 (9 PTS),39 - 50,11
+0029901129,179,2,1,2,1:57 PM,6:36,MISS Marion 15' Jump Shot,,,,
+0029901129,180,4,0,2,1:57 PM,6:35,,,Abdur-Rahim REBOUND (Off:1 Def:3),,
+0029901129,181,1,1,2,1:57 PM,6:23,,,Scott 25' 3PT Jump Shot (8 PTS) (Bibby 7 AST),42 - 50,8
+0029901129,182,6,2,2,1:58 PM,6:05,,,Abdur-Rahim S.FOUL (P2.T4),,
+0029901129,183,3,11,2,1:58 PM,6:05,Robinson Free Throw 1 of 2 (15 PTS),,,42 - 51,9
+0029901129,185,5,17,2,1:58 PM,6:01,Blount Lane Violation Turnover (P1.T3),,,,
+0029901129,186,2,2,2,1:59 PM,5:44,,,MISS Bibby 9' Running Jump Shot,,
+0029901129,187,4,0,2,1:59 PM,5:42,Livingston REBOUND (Off:0 Def:1),,,,
+0029901129,188,5,1,2,1:59 PM,5:36,Robinson Bad Pass Turnover (P2.T4),,,,
+0029901129,189,1,6,2,2:00 PM,5:18,,,Dickerson  Driving Layup (11 PTS),44 - 51,7
+0029901129,190,6,2,2,2:00 PM,5:18,Hardaway S.FOUL (P2.PN),,,,
+0029901129,191,3,10,2,2:00 PM,5:18,,,Dickerson Free Throw 1 of 1 (12 PTS),45 - 51,6
+0029901129,192,1,1,2,2:00 PM,4:59,Robinson 25' 3PT Jump Shot (18 PTS) (Marion 2 AST),,,45 - 54,9
+0029901129,193,2,5,2,2:01 PM,4:40,Marion BLOCK (1 BLK),,MISS Harrington  Layup,,
+0029901129,194,4,0,2,2:01 PM,4:38,Blount REBOUND (Off:0 Def:2),,,,
+0029901129,195,1,1,2,2:01 PM,4:31,Livingston 24' 3PT Jump Shot (12 PTS) (Robinson 4 AST),,,45 - 57,12
+0029901129,196,2,1,2,2:01 PM,4:11,,,MISS Dickerson 17' Jump Shot,,
+0029901129,197,4,0,2,2:01 PM,4:09,Hardaway REBOUND (Off:0 Def:1),,,,
+0029901129,198,1,1,2,2:01 PM,4:02,Hardaway 23' Jump Shot (6 PTS),,,45 - 59,14
+0029901129,199,5,2,2,2:02 PM,3:45,Marion STEAL (3 STL),,Bibby Lost Ball Turnover (P1.T10),,
+0029901129,200,1,5,2,2:02 PM,3:40,Marion  Layup (6 PTS) (Robinson 5 AST),,,45 - 61,16
+0029901129,201,9,1,2,2:02 PM,3:27,,,Grizzlies Timeout: Regular (Reg.3 Short 1),,
+0029901129,203,6,17,2,2:05 PM,3:16,SUNS Foul,,,,
+0029901129,204,3,16,2,2:05 PM,3:16,,,MISS Scott Free Throw Technical,,
+0029901129,205,4,1,2,2:05 PM,3:16,,,Grizzlies Rebound,,
+0029901129,206,6,1,2,2:06 PM,3:05,Hardaway P.FOUL (P3.PN),,,,
+0029901129,207,8,0,2,2:06 PM,3:05,SUB: Day FOR Hardaway,,,,
+0029901129,208,3,11,2,2:06 PM,3:05,,,Harrington Free Throw 1 of 2 (5 PTS),46 - 61,15
+0029901129,209,3,12,2,2:06 PM,3:05,,,Harrington Free Throw 2 of 2 (6 PTS),47 - 61,14
+0029901129,210,1,1,2,2:07 PM,2:51,Robinson 12' Jump Shot (20 PTS) (Marion 3 AST),,,47 - 63,16
+0029901129,211,1,7,2,2:07 PM,2:40,,,Dickerson  Dunk (14 PTS) (Bibby 8 AST),49 - 63,14
+0029901129,212,5,1,2,2:07 PM,2:29,Marion Bad Pass Turnover (P1.T5),,Bibby STEAL (1 STL),,
+0029901129,213,1,5,2,2:07 PM,2:25,,,Bibby  Layup (10 PTS),51 - 63,12
+0029901129,214,6,4,2,2:07 PM,2:13,Blount OFF.Foul (P2),,,,
+0029901129,215,5,5,2,2:07 PM,2:13,Blount Foul Turnover (P2.T6),,,,
+0029901129,216,1,1,2,2:08 PM,1:59,,,Bibby 24' 3PT Jump Shot (13 PTS) (Abdur-Rahim 3 AST),54 - 63,9
+0029901129,217,5,1,2,2:08 PM,1:44,Day Bad Pass Turnover (P1.T7),,Dickerson STEAL (1 STL),,
+0029901129,218,1,1,2,2:08 PM,1:35,,,Scott 25' 3PT Jump Shot (11 PTS) (Bibby 9 AST),57 - 63,6
+0029901129,219,2,5,2,2:08 PM,1:21,MISS Livingston  Layup,,Abdur-Rahim BLOCK (1 BLK),,
+0029901129,220,4,0,2,2:08 PM,1:20,,,Abdur-Rahim REBOUND (Off:1 Def:4),,
+0029901129,221,2,1,2,2:08 PM,1:06,,,MISS Bibby 15' Jump Shot,,
+0029901129,222,4,0,2,2:08 PM,1:05,Livingston REBOUND (Off:0 Def:2),,,,
+0029901129,223,1,1,2,2:09 PM,0:57,Robinson 25' 3PT Jump Shot (23 PTS) (Livingston 6 AST),,,57 - 66,9
+0029901129,224,2,1,2,2:09 PM,0:38,,,MISS Scott  3PT Jump Shot,,
+0029901129,225,4,0,2,2:09 PM,0:37,Blount REBOUND (Off:0 Def:3),,,,
+0029901129,226,1,5,2,2:09 PM,0:26,Robinson  Layup (25 PTS) (Day 1 AST),,,57 - 68,11
+0029901129,227,1,1,2,2:10 PM,0:04,,,Scott  3PT Jump Shot (14 PTS) (Dickerson 2 AST),60 - 68,8
+0029901129,228,2,1,2,2:10 PM,0:00,MISS Day 36' 3PT Jump Shot,,,,
+0029901129,229,4,0,2,2:10 PM,0:00,,,Dickerson REBOUND (Off:0 Def:2),,
+0029901129,230,13,0,2,2:10 PM,0:00,,,,60 - 68,8
+0029901129,233,12,0,3,2:26 PM,12:00,,,,60 - 68,8
+0029901129,234,1,1,3,2:26 PM,11:41,,,Dickerson 24' 3PT Jump Shot (17 PTS) (West 1 AST),63 - 68,5
+0029901129,235,2,5,3,2:26 PM,11:24,MISS Livingston  Layup,,Dickerson BLOCK (1 BLK),,
+0029901129,236,4,0,3,2:27 PM,11:19,,,Dickerson REBOUND (Off:0 Def:3),,
+0029901129,237,2,1,3,2:27 PM,11:15,,,MISS Bibby 20' Jump Shot,,
+0029901129,238,4,0,3,2:27 PM,11:14,Longley REBOUND (Off:1 Def:2),,,,
+0029901129,239,6,4,3,2:27 PM,10:59,Livingston OFF.Foul (P2),,,,
+0029901129,240,5,5,3,2:27 PM,10:59,Livingston Foul Turnover (P1.T8),,,,
+0029901129,241,1,1,3,2:27 PM,10:45,,,Dickerson 26' 3PT Jump Shot (20 PTS) (Abdur-Rahim 4 AST),66 - 68,2
+0029901129,242,5,1,3,2:28 PM,10:26,Hardaway Bad Pass Turnover (P1.T9),,Dickerson STEAL (2 STL),,
+0029901129,243,1,5,3,2:28 PM,10:20,,,Abdur-Rahim  Layup (10 PTS) (West 2 AST),68 - 68,TIE
+0029901129,244,2,5,3,2:28 PM,9:54,MISS Robinson  Layup,,Dickerson BLOCK (2 BLK),,
+0029901129,246,4,0,3,2:28 PM,9:53,Robinson REBOUND (Off:2 Def:0),,,,
+0029901129,245,2,5,3,2:28 PM,9:53,MISS Robinson  Layup,,Abdur-Rahim BLOCK (2 BLK),,
+0029901129,247,4,0,3,2:28 PM,9:53,Robinson REBOUND (Off:3 Def:0),,,,
+0029901129,248,5,11,3,2:28 PM,9:53,SUNS Turnover: Shot Clock (T#10),,,,
+0029901129,249,2,5,3,2:28 PM,9:47,,,MISS Dickerson  Layup,,
+0029901129,250,4,0,3,2:28 PM,9:46,Hardaway REBOUND (Off:0 Def:2),,,,
+0029901129,251,2,5,3,2:29 PM,9:35,MISS Hardaway  Layup,,,,
+0029901129,253,4,0,3,2:29 PM,9:33,Hardaway REBOUND (Off:1 Def:2),,,,
+0029901129,252,1,5,3,2:29 PM,9:33,Hardaway  Layup (8 PTS),,,68 - 70,2
+0029901129,254,2,1,3,2:29 PM,9:10,,,MISS Bibby 24' 3PT Jump Shot,,
+0029901129,255,4,0,3,2:29 PM,9:08,Longley REBOUND (Off:1 Def:3),,,,
+0029901129,256,5,1,3,2:29 PM,9:05,Longley Bad Pass Turnover (P2.T11),,Bibby STEAL (2 STL),,
+0029901129,257,6,2,3,2:29 PM,9:03,Longley S.FOUL (P3.T1),,,,
+0029901129,259,3,11,3,2:30 PM,9:03,,,MISS Abdur-Rahim Free Throw 1 of 2,,
+0029901129,260,4,1,3,2:30 PM,9:03,,,Grizzlies Rebound,,
+0029901129,261,3,12,3,2:30 PM,9:03,,,Abdur-Rahim Free Throw 2 of 2 (11 PTS),69 - 70,1
+0029901129,262,1,1,3,2:30 PM,8:41,Robinson 15' Jump Shot (27 PTS) (Hardaway 2 AST),,,69 - 72,3
+0029901129,263,1,1,3,2:31 PM,8:24,,,Dickerson 25' 3PT Jump Shot (23 PTS) (Bibby 10 AST),72 - 72,TIE
+0029901129,264,2,1,3,2:31 PM,8:07,MISS Hardaway 19' Jump Shot,,,,
+0029901129,265,4,0,3,2:31 PM,8:05,,,Abdur-Rahim REBOUND (Off:1 Def:5),,
+0029901129,266,2,5,3,2:31 PM,8:01,,,MISS West  Layup,,
+0029901129,267,4,0,3,2:31 PM,7:59,,,Harrington REBOUND (Off:4 Def:1),,
+0029901129,268,2,5,3,2:31 PM,7:55,,,MISS West  Layup,,
+0029901129,269,4,0,3,2:31 PM,7:54,,,Abdur-Rahim REBOUND (Off:2 Def:5),,
+0029901129,270,2,5,3,2:31 PM,7:53,,,MISS Abdur-Rahim  Layup,,
+0029901129,271,4,0,3,2:31 PM,7:52,Marion REBOUND (Off:0 Def:5),,,,
+0029901129,272,1,5,3,2:31 PM,7:46,Livingston  Layup (14 PTS) (Marion 4 AST),,,72 - 74,2
+0029901129,274,6,1,3,2:32 PM,7:33,Hardaway P.FOUL (P4.T2),,,,
+0029901129,275,6,16,3,2:32 PM,7:33,,,,,
+0029901129,276,6,11,3,2:33 PM,7:33,,,,,
+0029901129,277,3,16,3,2:33 PM,7:33,,,MISS Dickerson Free Throw Technical,,
+0029901129,278,4,1,3,2:33 PM,7:33,,,Grizzlies Rebound,,
+0029901129,280,8,0,3,2:33 PM,7:33,SUB: Day FOR Hardaway,,,,
+0029901129,281,5,4,3,2:34 PM,7:31,,,Dickerson Traveling Turnover (P2.T11),,
+0029901129,282,1,1,3,2:34 PM,7:14,Livingston 14' Jump Shot (16 PTS) (Marion 5 AST),,,72 - 76,4
+0029901129,283,6,1,3,2:35 PM,7:02,Longley P.FOUL (P4.T3),,,,
+0029901129,284,8,0,3,2:35 PM,7:02,SUB: Rogers FOR Longley,,,,
+0029901129,285,1,6,3,2:35 PM,6:59,,,Dickerson  Driving Layup (25 PTS),74 - 76,2
+0029901129,286,1,6,3,2:35 PM,6:41,Robinson 7' Driving Layup (29 PTS) (Livingston 7 AST),,,74 - 78,4
+0029901129,288,2,5,3,2:36 PM,6:18,,,MISS Abdur-Rahim  Layup,,
+0029901129,290,4,0,3,2:36 PM,6:14,,,Harrington REBOUND (Off:5 Def:1),,
+0029901129,289,1,4,3,2:36 PM,6:14,,,Harrington  Tip Shot (8 PTS),76 - 78,2
+0029901129,291,2,1,3,2:36 PM,5:58,MISS Robinson 24' 3PT Jump Shot,,,,
+0029901129,292,4,0,3,2:36 PM,5:55,,,Grizzlies Rebound,,
+0029901129,293,9,1,3,2:36 PM,5:55,SUNS Timeout: Regular (Full 2 Short 0),,,,
+0029901129,295,8,0,3,2:38 PM,5:55,SUB: Bailey FOR Marion,,,,
+0029901129,296,8,0,3,2:38 PM,5:55,SUB: Blount FOR Day,,,,
+0029901129,297,2,5,3,2:39 PM,5:38,,,MISS Dickerson  Layup,,
+0029901129,298,4,0,3,2:39 PM,5:37,Robinson REBOUND (Off:3 Def:1),,,,
+0029901129,299,2,1,3,2:39 PM,5:27,MISS Rogers 25' 3PT Jump Shot,,,,
+0029901129,300,4,0,3,2:39 PM,5:25,,,Dickerson REBOUND (Off:0 Def:4),,
+0029901129,301,2,1,3,2:39 PM,5:14,,,MISS Abdur-Rahim 17' Jump Shot,,
+0029901129,302,4,0,3,2:39 PM,5:12,Livingston REBOUND (Off:0 Def:3),,,,
+0029901129,303,6,1,3,2:40 PM,4:57,,,Harrington P.FOUL (P3.T1),,
+0029901129,304,2,1,3,2:40 PM,4:48,MISS Livingston 20' Jump Shot,,,,
+0029901129,305,4,0,3,2:40 PM,4:46,,,Grizzlies Rebound,,
+0029901129,306,1,1,3,2:41 PM,4:31,,,Harrington 7' Jump Shot (10 PTS),78 - 78,TIE
+0029901129,307,5,1,3,2:41 PM,4:23,Livingston Bad Pass Turnover (P2.T12),,,,
+0029901129,308,2,5,3,2:41 PM,4:16,Blount BLOCK (1 BLK),,MISS Abdur-Rahim  Layup,,
+0029901129,309,4,0,3,2:41 PM,4:11,,,Bibby REBOUND (Off:1 Def:2),,
+0029901129,310,6,1,3,2:41 PM,4:10,Blount P.FOUL (P3.T4),,,,
+0029901129,311,2,1,3,2:41 PM,4:05,,,MISS Dickerson 13' Jump Shot,,
+0029901129,312,4,0,3,2:41 PM,4:01,Blount REBOUND (Off:0 Def:4),,,,
+0029901129,313,2,1,3,2:42 PM,3:47,MISS Bailey 15' Jump Shot,,,,
+0029901129,314,4,0,3,2:42 PM,3:46,,,Grizzlies Rebound,,
+0029901129,315,6,3,3,2:42 PM,3:46,Robinson L.B.FOUL (P3.PN),,,,
+0029901129,316,3,11,3,2:42 PM,3:46,,,West Free Throw 1 of 2 (3 PTS),79 - 78,-1
+0029901129,317,8,0,3,2:42 PM,3:46,,,SUB: Scott FOR Dickerson,,
+0029901129,318,3,12,3,2:43 PM,3:46,,,West Free Throw 2 of 2 (4 PTS),80 - 78,-2
+0029901129,319,2,1,3,2:43 PM,3:31,MISS Robinson 14' Jump Shot,,,,
+0029901129,320,4,0,3,2:43 PM,3:28,SUNS Rebound,,,,
+0029901129,321,2,1,3,2:43 PM,3:26,MISS Rogers 14' Jump Shot,,,,
+0029901129,322,4,0,3,2:43 PM,3:25,SUNS Rebound,,,,
+0029901129,323,2,5,3,2:44 PM,3:22,MISS Livingston  Layup,,,,
+0029901129,324,4,0,3,2:44 PM,3:21,,,Harrington REBOUND (Off:5 Def:2),,
+0029901129,325,6,1,3,2:44 PM,3:03,Blount P.FOUL (P4.PN),,,,
+0029901129,326,3,11,3,2:44 PM,3:03,,,Harrington Free Throw 1 of 2 (11 PTS),81 - 78,-3
+0029901129,327,3,12,3,2:44 PM,3:03,,,Harrington Free Throw 2 of 2 (12 PTS),82 - 78,-4
+0029901129,328,2,1,3,2:45 PM,2:47,MISS Rogers 24' 3PT Jump Shot,,,,
+0029901129,329,4,0,3,2:45 PM,2:45,,,Harrington REBOUND (Off:5 Def:3),,
+0029901129,330,9,1,3,2:45 PM,2:44,,,Grizzlies Timeout: Regular (Reg.4 Short 1),,
+0029901129,332,2,1,3,2:47 PM,2:22,,,MISS Abdur-Rahim 13' Jump Shot,,
+0029901129,333,4,0,3,2:48 PM,2:20,Bailey REBOUND (Off:1 Def:1),,,,
+0029901129,334,6,4,3,2:48 PM,2:04,Blount OFF.Foul (P5),,,,
+0029901129,335,5,5,3,2:48 PM,2:04,Blount Foul Turnover (P3.T13),,,,
+0029901129,336,8,0,3,2:48 PM,2:04,SUB: Longley FOR Blount,,,,
+0029901129,337,2,5,3,2:49 PM,1:45,,,MISS Abdur-Rahim  Layup,,
+0029901129,339,4,0,3,2:49 PM,1:43,,,Harrington REBOUND (Off:6 Def:3),,
+0029901129,338,1,5,3,2:49 PM,1:43,,,Harrington  Layup (14 PTS),84 - 78,-6
+0029901129,340,2,2,3,2:49 PM,1:28,MISS Bailey 8' Running Jump Shot,,,,
+0029901129,341,4,0,3,2:49 PM,1:26,Rogers REBOUND (Off:1 Def:2),,,,
+0029901129,342,1,5,3,2:49 PM,1:26,Rogers  Layup (5 PTS),,,84 - 80,-4
+0029901129,343,6,2,3,2:49 PM,1:26,,,Harrington S.FOUL (P4.T2),,
+0029901129,344,3,10,3,2:49 PM,1:26,Rogers Free Throw 1 of 1 (6 PTS),,,84 - 81,-3
+0029901129,345,2,1,3,2:50 PM,1:11,,,MISS Scott 24' 3PT Jump Shot,,
+0029901129,346,4,0,3,2:50 PM,1:10,Robinson REBOUND (Off:3 Def:2),,,,
+0029901129,347,6,2,3,2:50 PM,0:53,,,West S.FOUL (P1.PN),,
+0029901129,348,8,0,3,2:50 PM,0:53,,,SUB: Dickerson FOR West,,
+0029901129,349,3,11,3,2:50 PM,0:53,Bailey Free Throw 1 of 2 (4 PTS),,,84 - 82,-2
+0029901129,350,3,12,3,2:50 PM,0:53,Bailey Free Throw 2 of 2 (5 PTS),,,84 - 83,-1
+0029901129,351,2,1,3,2:51 PM,0:34,,,MISS Abdur-Rahim 16' Jump Shot,,
+0029901129,352,4,0,3,2:51 PM,0:32,Robinson REBOUND (Off:3 Def:3),,,,
+0029901129,353,1,5,3,2:51 PM,0:26,Rogers  Layup (8 PTS) (Bailey 3 AST),,,84 - 85,1
+0029901129,354,1,1,3,2:51 PM,0:04,,,Dickerson 13' Jump Shot (27 PTS),86 - 85,-1
+0029901129,355,1,2,3,2:52 PM,0:00,Livingston 24' 3PT Running Jump Shot (19 PTS),,,86 - 88,2
+0029901129,356,13,0,3,2:52 PM,0:00,,,,86 - 88,2
+0029901129,359,12,0,4,2:54 PM,12:00,,,,86 - 88,2
+0029901129,360,6,4,4,2:55 PM,11:51,Longley OFF.Foul (P5),,,,
+0029901129,361,5,5,4,2:55 PM,11:51,Longley Foul Turnover (P3.T14),,,,
+0029901129,362,1,2,4,2:55 PM,11:36,,,Bibby 5' Running Jump Shot (15 PTS),88 - 88,TIE
+0029901129,363,2,1,4,2:55 PM,11:21,MISS Robinson 12' Jump Shot,,,,
+0029901129,365,4,0,4,2:55 PM,11:14,Livingston REBOUND (Off:1 Def:3),,,,
+0029901129,364,1,5,4,2:55 PM,11:14,Livingston  Layup (21 PTS),,,88 - 90,2
+0029901129,366,1,5,4,2:56 PM,10:53,,,Dickerson  Layup (29 PTS),90 - 90,TIE
+0029901129,369,5,8,4,2:56 PM,10:35,Longley 3 Second Violation Turnover (P4.T15),,,,
+0029901129,370,8,0,4,2:56 PM,10:35,SUB: MacLean FOR Longley,,,,
+0029901129,371,5,1,4,2:56 PM,10:27,Hardaway STEAL (2 STL),,Bibby Bad Pass Turnover (P2.T12),,
+0029901129,372,2,5,4,2:57 PM,10:15,MISS Rogers  Layup,,,,
+0029901129,373,4,0,4,2:57 PM,10:13,,,Harrington REBOUND (Off:6 Def:4),,
+0029901129,374,1,5,4,2:57 PM,10:03,,,Harrington  Layup (16 PTS) (Scott 1 AST),92 - 90,-2
+0029901129,375,9,1,4,2:57 PM,10:01,SUNS Timeout: Regular (Full 3 Short 0),,,,
+0029901129,377,2,1,4,2:59 PM,9:45,MISS Hardaway 11' Jump Shot,,,,
+0029901129,378,4,0,4,2:59 PM,9:43,,,Dickerson REBOUND (Off:0 Def:5),,
+0029901129,379,6,2,4,3:00 PM,9:24,Hardaway S.FOUL (P5.T1),,,,
+0029901129,380,3,11,4,3:00 PM,9:24,,,Dickerson Free Throw 1 of 2 (30 PTS),93 - 90,-3
+0029901129,381,8,0,4,3:00 PM,9:24,SUB: Marion FOR Hardaway,,,,
+0029901129,382,3,12,4,3:00 PM,9:24,,,Dickerson Free Throw 2 of 2 (31 PTS),94 - 90,-4
+0029901129,383,6,2,4,3:01 PM,9:15,,,West S.FOUL (P2.T1),,
+0029901129,384,3,11,4,3:01 PM,9:15,Robinson Free Throw 1 of 2 (30 PTS),,,94 - 91,-3
+0029901129,385,3,12,4,3:01 PM,9:15,Robinson Free Throw 2 of 2 (31 PTS),,,94 - 92,-2
+0029901129,386,5,2,4,3:01 PM,9:03,Rogers STEAL (1 STL),,Dickerson Lost Ball Turnover (P3.T13),,
+0029901129,387,2,5,4,3:01 PM,8:56,MISS Livingston  Layup,,,,
+0029901129,388,4,0,4,3:02 PM,8:54,Marion REBOUND (Off:1 Def:5),,,,
+0029901129,389,1,1,4,3:02 PM,8:47,Robinson 25' 3PT Jump Shot (34 PTS) (Rogers 2 AST),,,94 - 95,1
+0029901129,390,2,1,4,3:02 PM,8:26,,,MISS Dickerson 24' 3PT Jump Shot,,
+0029901129,391,4,0,4,3:02 PM,8:24,Robinson REBOUND (Off:3 Def:4),,,,
+0029901129,392,2,1,4,3:02 PM,8:06,MISS Robinson 25' 3PT Jump Shot,,,,
+0029901129,393,4,0,4,3:02 PM,8:04,,,Bibby REBOUND (Off:1 Def:3),,
+0029901129,394,2,1,4,3:02 PM,7:59,,,MISS Scott 24' 3PT Jump Shot,,
+0029901129,395,4,0,4,3:02 PM,7:57,Robinson REBOUND (Off:3 Def:5),,,,
+0029901129,396,5,1,4,3:02 PM,7:56,Robinson Bad Pass Turnover (P3.T16),,West STEAL (1 STL),,
+0029901129,397,2,5,4,3:03 PM,7:53,,,MISS Dickerson  Layup,,
+0029901129,399,4,0,4,3:03 PM,7:52,,,West REBOUND (Off:1 Def:0),,
+0029901129,398,2,5,4,3:03 PM,7:52,,,MISS West  Layup,,
+0029901129,401,4,0,4,3:03 PM,7:51,,,West REBOUND (Off:2 Def:0),,
+0029901129,400,1,5,4,3:03 PM,7:51,,,West  Layup (6 PTS),96 - 95,-1
+0029901129,402,2,1,4,3:03 PM,7:25,MISS Robinson 6' Jump Shot,,,,
+0029901129,403,4,0,4,3:03 PM,7:24,,,West REBOUND (Off:2 Def:1),,
+0029901129,404,6,2,4,3:03 PM,7:20,Marion S.FOUL (P3.T2),,,,
+0029901129,405,8,0,4,3:03 PM,7:20,,,SUB: Abdur-Rahim FOR Harrington,,
+0029901129,406,3,11,4,3:03 PM,7:20,,,Dickerson Free Throw 1 of 2 (32 PTS),97 - 95,-2
+0029901129,407,3,12,4,3:04 PM,7:20,,,Dickerson Free Throw 2 of 2 (33 PTS),98 - 95,-3
+0029901129,408,1,6,4,3:04 PM,7:01,Livingston  Driving Layup (23 PTS),,,98 - 97,-1
+0029901129,409,2,5,4,3:04 PM,6:35,,,MISS West  Layup,,
+0029901129,411,4,0,4,3:05 PM,6:33,,,Abdur-Rahim REBOUND (Off:3 Def:5),,
+0029901129,410,1,4,4,3:05 PM,6:33,,,Abdur-Rahim  Tip Shot (13 PTS),100 - 97,-3
+0029901129,412,2,1,4,3:05 PM,6:18,MISS MacLean 25' 3PT Jump Shot,,,,
+0029901129,413,4,0,4,3:05 PM,6:16,,,Bibby REBOUND (Off:1 Def:4),,
+0029901129,414,6,2,4,3:05 PM,6:14,Livingston S.FOUL (P3.T3),,,,
+0029901129,416,9,4,4,3:05 PM,6:14,,,,,
+0029901129,418,8,0,4,3:07 PM,6:14,SUB: Day FOR MacLean,,,,
+0029901129,419,3,11,4,3:07 PM,6:14,,,West Free Throw 1 of 2 (7 PTS),101 - 97,-4
+0029901129,420,3,12,4,3:07 PM,6:14,,,West Free Throw 2 of 2 (8 PTS),102 - 97,-5
+0029901129,421,2,5,4,3:08 PM,6:00,MISS Robinson  Layup,,,,
+0029901129,422,4,0,4,3:08 PM,6:00,,,Grizzlies Rebound,,
+0029901129,423,1,1,4,3:08 PM,5:42,,,Dickerson 20' Jump Shot (35 PTS),104 - 97,-7
+0029901129,424,2,1,4,3:09 PM,5:24,MISS Day  3PT Jump Shot,,,,
+0029901129,426,4,0,4,3:09 PM,5:22,Livingston REBOUND (Off:2 Def:3),,,,
+0029901129,425,2,5,4,3:09 PM,5:22,MISS Livingston  Layup,,,,
+0029901129,428,4,0,4,3:09 PM,5:20,Livingston REBOUND (Off:3 Def:3),,,,
+0029901129,427,2,4,4,3:09 PM,5:20,MISS Livingston  Tip Shot,,,,
+0029901129,429,4,0,4,3:09 PM,5:19,,,West REBOUND (Off:2 Def:2),,
+0029901129,430,2,1,4,3:09 PM,5:11,,,MISS Scott 25' 3PT Jump Shot,,
+0029901129,431,4,0,4,3:09 PM,5:08,Livingston REBOUND (Off:3 Def:4),,,,
+0029901129,432,6,1,4,3:09 PM,5:05,,,West P.FOUL (P3.T2),,
+0029901129,433,5,2,4,3:10 PM,4:59,Livingston Lost Ball Turnover (P3.T17),,Scott STEAL (1 STL),,
+0029901129,434,2,5,4,3:10 PM,4:55,Robinson BLOCK (1 BLK),,MISS Dickerson  Layup,,
+0029901129,436,4,0,4,3:10 PM,4:55,SUNS Rebound,,,,
+0029901129,435,8,0,4,3:10 PM,4:55,SUB: Hardaway FOR Livingston,,,,
+0029901129,437,10,0,4,3:10 PM,4:55,Jump Ball Robinson vs. Dickerson: Tip to Rogers,,,,
+0029901129,439,2,5,4,3:10 PM,4:41,MISS Robinson  Layup,,Abdur-Rahim BLOCK (3 BLK),,
+0029901129,440,4,0,4,3:10 PM,4:40,,,Abdur-Rahim REBOUND (Off:3 Def:6),,
+0029901129,441,6,2,4,3:11 PM,4:32,Rogers S.FOUL (P3.T4),,,,
+0029901129,442,3,11,4,3:11 PM,4:32,,,Abdur-Rahim Free Throw 1 of 2 (14 PTS),105 - 97,-8
+0029901129,443,3,12,4,3:11 PM,4:32,,,MISS Abdur-Rahim Free Throw 2 of 2,,
+0029901129,444,4,0,4,3:11 PM,4:31,Marion REBOUND (Off:1 Def:6),,,,
+0029901129,445,2,1,4,3:11 PM,4:16,MISS Hardaway 24' 3PT Jump Shot,,,,
+0029901129,446,4,0,4,3:11 PM,4:11,,,West REBOUND (Off:2 Def:3),,
+0029901129,447,6,2,4,3:12 PM,3:51,Robinson S.FOUL (P4.PN),,,,
+0029901129,448,3,11,4,3:12 PM,3:51,,,Abdur-Rahim Free Throw 1 of 2 (15 PTS),106 - 97,-9
+0029901129,449,3,12,4,3:12 PM,3:51,,,Abdur-Rahim Free Throw 2 of 2 (16 PTS),107 - 97,-10
+0029901129,450,9,1,4,3:12 PM,3:51,SUNS Timeout: Regular (Full 4 Short 0),,,,
+0029901129,452,1,7,4,3:15 PM,3:36,Robinson  Dunk (36 PTS) (Hardaway 3 AST),,,107 - 99,-8
+0029901129,453,5,11,4,3:15 PM,3:09,,,Grizzlies Turnover: Shot Clock (T#14),,
+0029901129,454,1,5,4,3:16 PM,2:51,Rogers  Layup (10 PTS) (Day 2 AST),,,107 - 101,-6
+0029901129,455,6,2,4,3:16 PM,2:51,,,Abdur-Rahim S.FOUL (P3.T3),,
+0029901129,456,8,0,4,3:16 PM,2:51,,,SUB: Harrington FOR West,,
+0029901129,457,3,10,4,3:16 PM,2:51,Rogers Free Throw 1 of 1 (11 PTS),,,107 - 102,-5
+0029901129,458,2,1,4,3:17 PM,2:33,,,MISS Bibby 17' Jump Shot,,
+0029901129,459,4,0,4,3:17 PM,2:32,Rogers REBOUND (Off:1 Def:3),,,,
+0029901129,460,6,2,4,3:17 PM,2:21,,,Scott S.FOUL (P2.T4),,
+0029901129,461,3,11,4,3:17 PM,2:21,Marion Free Throw 1 of 2 (7 PTS),,,107 - 103,-4
+0029901129,462,3,12,4,3:17 PM,2:21,Marion Free Throw 2 of 2 (8 PTS),,,107 - 104,-3
+0029901129,463,2,1,4,3:18 PM,2:01,,,MISS Dickerson 16' Jump Shot,,
+0029901129,464,4,0,4,3:18 PM,1:58,,,Harrington REBOUND (Off:7 Def:4),,
+0029901129,465,2,1,4,3:18 PM,1:42,,,MISS Dickerson 5' Jump Shot,,
+0029901129,466,4,0,4,3:18 PM,1:41,Robinson REBOUND (Off:3 Def:6),,,,
+0029901129,467,6,2,4,3:18 PM,1:33,,,Abdur-Rahim S.FOUL (P4.PN),,
+0029901129,468,3,11,4,3:19 PM,1:33,MISS Hardaway Free Throw 1 of 2,,,,
+0029901129,469,4,1,4,3:19 PM,1:33,SUNS Rebound,,,,
+0029901129,470,3,12,4,3:19 PM,1:33,Hardaway Free Throw 2 of 2 (9 PTS),,,107 - 105,-2
+0029901129,471,6,2,4,3:19 PM,1:16,Day S.FOUL (P1.PN),,,,
+0029901129,472,3,11,4,3:19 PM,1:16,,,Harrington Free Throw 1 of 2 (17 PTS),108 - 105,-3
+0029901129,473,8,0,4,3:20 PM,1:16,,,SUB: West FOR Abdur-Rahim,,
+0029901129,474,3,12,4,3:20 PM,1:16,,,Harrington Free Throw 2 of 2 (18 PTS),109 - 105,-4
+0029901129,475,1,1,4,3:20 PM,1:03,Day 25' 3PT Jump Shot (3 PTS) (Hardaway 4 AST),,,109 - 108,-1
+0029901129,476,9,1,4,3:20 PM,0:57,,,Grizzlies Timeout: Regular (Reg.5 Short 1),,
+0029901129,478,8,0,4,3:23 PM,0:57,,,SUB: Abdur-Rahim FOR West,,
+0029901129,479,2,1,4,3:23 PM,0:43,,,MISS Bibby 17' Jump Shot,,
+0029901129,480,4,0,4,3:23 PM,0:41,Robinson REBOUND (Off:3 Def:7),,,,
+0029901129,481,6,2,4,3:23 PM,0:19,,,Scott S.FOUL (P3.PN),,
+0029901129,482,3,13,4,3:24 PM,0:19,MISS Day Free Throw 1 of 3,,,,
+0029901129,483,4,1,4,3:24 PM,0:19,SUNS Rebound,,,,
+0029901129,484,3,14,4,3:24 PM,0:19,MISS Day Free Throw 2 of 3,,,,
+0029901129,485,4,1,4,3:24 PM,0:19,SUNS Rebound,,,,
+0029901129,486,3,15,4,3:24 PM,0:19,Day Free Throw 3 of 3 (4 PTS),,,109 - 109,TIE
+0029901129,487,9,1,4,3:25 PM,0:19,,,Grizzlies Timeout: Regular (Reg.6 Short 1),,
+0029901129,489,5,4,4,3:27 PM,0:03,,,Dickerson Traveling Turnover (P4.T15),,
+0029901129,490,9,1,4,3:27 PM,0:03,SUNS Timeout: Regular (Full 5 Short 0),,,,
+0029901129,492,13,0,4,3:30 PM,0:00,,,,109 - 109,TIE
+0029901129,494,12,0,5,3:32 PM,5:00,,,,109 - 109,TIE
+0029901129,495,10,0,5,3:32 PM,5:00,Jump Ball Robinson vs. Abdur-Rahim: Tip to Marion,,,,
+0029901129,496,1,1,5,3:33 PM,4:39,Hardaway 13' Jump Shot (11 PTS),,,109 - 111,2
+0029901129,497,1,1,5,3:33 PM,4:14,,,Bibby 25' 3PT Jump Shot (18 PTS) (Dickerson 3 AST),112 - 111,-1
+0029901129,498,2,1,5,3:34 PM,3:47,MISS Day 28' 3PT Jump Shot,,,,
+0029901129,499,4,0,5,3:34 PM,3:45,,,Bibby REBOUND (Off:1 Def:5),,
+0029901129,500,2,5,5,3:34 PM,3:42,,,MISS Bibby  Layup,,
+0029901129,501,4,0,5,3:34 PM,3:41,SUNS Rebound,,,,
+0029901129,502,6,3,5,3:34 PM,3:41,,,Dickerson L.B.FOUL (P2.T1),,
+0029901129,503,1,6,5,3:35 PM,3:25,Hardaway  Driving Layup (13 PTS),,,112 - 113,1
+0029901129,504,2,1,5,3:35 PM,3:03,,,MISS Dickerson 5' Jump Shot,,
+0029901129,505,4,0,5,3:35 PM,3:01,SUNS Rebound,,,,
+0029901129,506,1,5,5,3:36 PM,2:45,Rogers  Layup (13 PTS) (Day 3 AST),,,112 - 115,3
+0029901129,507,6,2,5,3:36 PM,2:45,,,Dickerson S.FOUL (P3.T2),,
+0029901129,508,3,10,5,3:36 PM,2:45,Rogers Free Throw 1 of 1 (14 PTS),,,112 - 116,4
+0029901129,509,2,1,5,3:37 PM,2:23,,,MISS Dickerson 12' Jump Shot,,
+0029901129,510,4,0,5,3:37 PM,2:21,,,Grizzlies Rebound,,
+0029901129,511,6,3,5,3:37 PM,2:21,Robinson L.B.FOUL (P5.T1),,,,
+0029901129,512,1,5,5,3:37 PM,2:09,,,Harrington  Layup (20 PTS) (Bibby 11 AST),114 - 116,2
+0029901129,513,6,4,5,3:37 PM,1:48,Robinson OFF.Foul (P6),,,,
+0029901129,514,5,5,5,3:38 PM,1:48,Robinson Foul Turnover (P4.T18),,,,
+0029901129,515,8,0,5,3:38 PM,1:48,SUB: Longley FOR Robinson,,,,
+0029901129,516,2,5,5,3:38 PM,1:39,,,MISS Harrington  Layup,,
+0029901129,517,4,0,5,3:38 PM,1:38,Hardaway REBOUND (Off:1 Def:3),,,,
+0029901129,518,1,6,5,3:39 PM,1:24,Hardaway  Driving Layup (15 PTS),,,114 - 118,4
+0029901129,519,9,1,5,3:39 PM,1:24,,,Grizzlies Timeout: Regular (Reg.7 Short 1),,
+0029901129,521,2,5,5,3:41 PM,1:10,,,MISS Harrington  Layup,,
+0029901129,522,4,0,5,3:41 PM,1:09,,,Harrington REBOUND (Off:8 Def:4),,
+0029901129,523,5,2,5,3:41 PM,1:06,Hardaway STEAL (3 STL),,Harrington Lost Ball Turnover (P4.T16),,
+0029901129,524,6,1,5,3:41 PM,1:04,,,Abdur-Rahim P.FOUL (P5.T3),,
+0029901129,525,2,5,5,3:42 PM,0:50,MISS Rogers  Layup,,,,
+0029901129,526,4,0,5,3:42 PM,0:49,SUNS Rebound,,,,
+0029901129,527,9,1,5,3:42 PM,0:49,SUNS Timeout: Regular (Full 6 Short 0),,,,
+0029901129,529,2,1,5,3:44 PM,0:30,MISS Day 24' 3PT Jump Shot,,,,
+0029901129,530,4,0,5,3:44 PM,0:28,Day REBOUND (Off:1 Def:0),,,,
+0029901129,531,6,1,5,3:45 PM,0:24,,,Dickerson P.FOUL (P4.PN),,
+0029901129,532,3,11,5,3:45 PM,0:24,Hardaway Free Throw 1 of 2 (16 PTS),,,114 - 119,5
+0029901129,533,3,12,5,3:45 PM,0:24,Hardaway Free Throw 2 of 2 (17 PTS),,,114 - 120,6
+0029901129,534,9,1,5,3:45 PM,0:24,,,Grizzlies Timeout: Regular (Reg.8 Short 1),,
+0029901129,536,2,1,5,3:48 PM,0:16,,,MISS Dickerson 25' 3PT Jump Shot,,
+0029901129,537,4,0,5,3:48 PM,0:14,Day REBOUND (Off:1 Def:1),,,,
+0029901129,538,6,1,5,3:48 PM,0:12,,,Harrington P.FOUL (P5.PN),,
+0029901129,539,3,11,5,3:48 PM,0:12,Day Free Throw 1 of 2 (5 PTS),,,114 - 121,7
+0029901129,540,3,12,5,3:48 PM,0:12,Day Free Throw 2 of 2 (6 PTS),,,114 - 122,8
+0029901129,541,2,1,5,3:48 PM,0:05,,,MISS Bibby  3PT Jump Shot,,
+0029901129,542,4,0,5,3:49 PM,0:03,,,Abdur-Rahim REBOUND (Off:4 Def:6),,
+0029901129,543,1,1,5,3:49 PM,0:01,,,Abdur-Rahim 5' Jump Shot (18 PTS),116 - 122,6
+0029901129,544,13,0,5,3:49 PM,0:00,,,,116 - 122,6

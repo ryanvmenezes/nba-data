@@ -1,0 +1,414 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900846,0,12,0,1,7:12 PM,12:00,,,,,
+0020900846,1,10,0,1,7:12 PM,12:00,Jump Ball Bargnani vs. Aldridge: Tip to Jack,,,,
+0020900846,2,2,1,1,7:12 PM,11:42,MISS Bargnani 22' Jump Shot,,,,
+0020900846,3,4,0,1,7:12 PM,11:41,,,Trail Blazers Rebound,,
+0020900846,4,2,1,1,7:13 PM,11:24,,,MISS Aldridge 18' Jump Shot,,
+0020900846,5,4,0,1,7:13 PM,11:23,Turkoglu REBOUND (Off:0 Def:1),,,,
+0020900846,6,1,79,1,7:13 PM,11:13,Turkoglu 18' Pullup Jump Shot (2 PTS),,,0 - 2,2
+0020900846,7,1,5,1,7:13 PM,10:55,,,Batum 3' Layup (2 PTS) (Howard 1 AST),2 - 2,TIE
+0020900846,8,1,1,1,7:14 PM,10:30,Turkoglu 25' 3PT Jump Shot (5 PTS),,,2 - 5,3
+0020900846,9,5,11,1,7:14 PM,10:04,,,Trail Blazers Turnover: Shot Clock (T#1),,
+0020900846,10,5,2,1,7:15 PM,9:53,Jack Lost Ball Turnover (P1.T1),,Howard STEAL (1 STL),,
+0020900846,11,6,2,1,7:15 PM,9:40,Bargnani S.FOUL (P1.T1),,,,
+0020900846,12,3,11,1,7:15 PM,9:40,,,MISS Aldridge Free Throw 1 of 2,,
+0020900846,13,4,1,1,7:15 PM,9:40,,,Trail Blazers Rebound,,
+0020900846,14,3,12,1,7:16 PM,9:40,,,Aldridge Free Throw 2 of 2 (1 PTS),3 - 5,2
+0020900846,16,6,2,1,7:16 PM,9:21,,,Howard S.FOUL (P1.T1),,
+0020900846,17,3,11,1,7:16 PM,9:21,DeRozan Free Throw 1 of 2 (1 PTS),,,3 - 6,3
+0020900846,19,3,12,1,7:17 PM,9:21,DeRozan Free Throw 2 of 2 (2 PTS),,,3 - 7,4
+0020900846,21,1,42,1,7:17 PM,8:59,,,Miller 2' Driving Layup (2 PTS),5 - 7,2
+0020900846,22,6,2,1,7:17 PM,8:59,Turkoglu S.FOUL (P1.T2),,,,
+0020900846,23,3,10,1,7:18 PM,8:59,,,Miller Free Throw 1 of 1 (3 PTS),6 - 7,1
+0020900846,26,1,8,1,7:18 PM,8:50,Turkoglu  Slam Dunk (7 PTS) (DeRozan 1 AST),,,6 - 9,3
+0020900846,27,5,1,1,7:18 PM,8:36,Nesterovic STEAL (1 STL),,Batum Bad Pass Turnover (P1.T2),,
+0020900846,28,5,1,1,7:18 PM,8:28,Turkoglu Bad Pass Turnover (P1.T2),,Batum STEAL (1 STL),,
+0020900846,29,1,75,1,7:18 PM,8:25,,,Batum  Driving Finger Roll Layup (4 PTS),8 - 9,1
+0020900846,30,1,1,1,7:19 PM,8:11,Jack 25' 3PT Jump Shot (3 PTS) (DeRozan 2 AST),,,8 - 12,4
+0020900846,31,2,1,1,7:19 PM,7:57,,,MISS Roy 20' Jump Shot,,
+0020900846,32,4,0,1,7:19 PM,7:56,Bargnani REBOUND (Off:0 Def:1),,,,
+0020900846,33,2,46,1,7:19 PM,7:47,MISS Jack 3' Running Jump Shot,,,,
+0020900846,34,4,0,1,7:19 PM,7:46,,,Howard REBOUND (Off:0 Def:1),,
+0020900846,35,2,42,1,7:19 PM,7:34,,,MISS Batum 2' Driving Layup,,
+0020900846,36,4,0,1,7:19 PM,7:33,DeRozan REBOUND (Off:0 Def:1),,,,
+0020900846,37,5,39,1,7:20 PM,7:23,Bargnani Step Out of Bounds Turnover (P1.T3),,,,
+0020900846,38,6,1,1,7:20 PM,7:09,Turkoglu P.FOUL (P2.T3),,,,
+0020900846,39,8,0,1,7:20 PM,7:09,SUB: Wright FOR Turkoglu,,,,
+0020900846,40,6,2,1,7:21 PM,7:03,DeRozan S.FOUL (P1.T4),,,,
+0020900846,41,3,11,1,7:21 PM,7:03,,,Roy Free Throw 1 of 2 (1 PTS),9 - 12,3
+0020900846,43,3,12,1,7:21 PM,7:03,,,Roy Free Throw 2 of 2 (2 PTS),10 - 12,2
+0020900846,45,1,65,1,7:22 PM,6:40,Nesterovic 8' Jump Hook Shot (2 PTS) (Jack 1 AST),,,10 - 14,4
+0020900846,46,1,1,1,7:22 PM,6:26,,,Howard 13' Jump Shot (2 PTS) (Miller 1 AST),12 - 14,2
+0020900846,48,1,79,1,7:22 PM,6:14,Bargnani 18' Pullup Jump Shot (2 PTS) (Jack 2 AST),,,12 - 16,4
+0020900846,49,1,42,1,7:22 PM,6:00,,,Miller 2' Driving Layup (5 PTS),14 - 16,2
+0020900846,50,5,1,1,7:23 PM,5:48,Jack Bad Pass Turnover (P2.T4),,Aldridge STEAL (1 STL),,
+0020900846,52,1,42,1,7:23 PM,5:42,,,Roy  Driving Layup (4 PTS) (Miller 2 AST),16 - 16,TIE
+0020900846,53,2,1,1,7:23 PM,5:27,MISS DeRozan 19' Jump Shot,,,,
+0020900846,54,4,0,1,7:23 PM,5:26,,,Trail Blazers Rebound,,
+0020900846,55,9,1,1,7:23 PM,5:24,RAPTORS Timeout: Regular (Full 1 Short 0),,,,
+0020900846,57,8,0,1,7:25 PM,5:24,,,SUB: Bayless FOR Batum,,
+0020900846,58,8,0,1,7:25 PM,5:24,,,SUB: Fernandez FOR Miller,,
+0020900846,59,8,0,1,7:26 PM,5:24,SUB: Belinelli FOR DeRozan,,,,
+0020900846,60,1,42,1,7:26 PM,5:10,,,Roy 3' Driving Layup (6 PTS),18 - 16,-2
+0020900846,61,2,1,1,7:26 PM,4:46,MISS Nesterovic 20' Jump Shot,,,,
+0020900846,62,4,0,1,7:27 PM,4:45,,,Aldridge REBOUND (Off:0 Def:1),,
+0020900846,63,1,65,1,7:27 PM,4:32,,,Roy 7' Jump Hook Shot (8 PTS) (Bayless 1 AST),20 - 16,-4
+0020900846,64,6,1,1,7:27 PM,4:20,,,Bayless P.FOUL (P1.T2),,
+0020900846,65,8,0,1,7:27 PM,4:20,,,SUB: Cunningham FOR Howard,,
+0020900846,66,1,58,1,7:27 PM,4:14,Nesterovic 6' Turnaround Hook Shot (4 PTS) (Jack 3 AST),,,20 - 18,-2
+0020900846,67,1,1,1,7:28 PM,3:55,,,Bayless 22' Jump Shot (2 PTS) (Roy 1 AST),22 - 18,-4
+0020900846,68,2,42,1,7:28 PM,3:39,MISS Wright 3' Driving Layup,,,,
+0020900846,69,4,0,1,7:28 PM,3:38,,,Cunningham REBOUND (Off:0 Def:1),,
+0020900846,70,1,47,1,7:28 PM,3:25,,,Aldridge 12' Turnaround Jump Shot (3 PTS),24 - 18,-6
+0020900846,71,1,79,1,7:29 PM,3:10,Jack 18' Pullup Jump Shot (5 PTS),,,24 - 20,-4
+0020900846,72,2,42,1,7:29 PM,2:56,Nesterovic BLOCK (1 BLK),,MISS Bayless 2' Driving Layup,,
+0020900846,73,4,0,1,7:29 PM,2:54,Belinelli REBOUND (Off:0 Def:1),,,,
+0020900846,74,5,1,1,7:29 PM,2:51,Jack Bad Pass Turnover (P3.T5),,Cunningham STEAL (1 STL),,
+0020900846,75,2,1,1,7:29 PM,2:45,,,MISS Bayless  3PT Jump Shot,,
+0020900846,76,4,0,1,7:29 PM,2:44,Jack REBOUND (Off:0 Def:1),,,,
+0020900846,77,1,73,1,7:29 PM,2:38,Jack  Driving Reverse Layup (7 PTS),,,24 - 22,-2
+0020900846,79,2,1,1,7:29 PM,2:18,,,MISS Cunningham 19' Jump Shot,,
+0020900846,80,4,0,1,7:29 PM,2:17,,,Fernandez REBOUND (Off:1 Def:0),,
+0020900846,81,2,1,1,7:30 PM,2:07,,,MISS Roy  3PT Jump Shot,,
+0020900846,82,4,0,1,7:30 PM,2:07,Jack REBOUND (Off:0 Def:2),,,,
+0020900846,83,5,1,1,7:30 PM,2:02,Nesterovic Bad Pass Turnover (P1.T6),,Roy STEAL (1 STL),,
+0020900846,84,6,2,1,7:30 PM,1:59,Nesterovic S.FOUL (P1.PN),,,,
+0020900846,85,9,1,1,7:30 PM,1:59,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,
+0020900846,86,8,0,1,7:32 PM,1:59,SUB: Calderon FOR Nesterovic,,,,
+0020900846,87,8,0,1,7:32 PM,1:59,SUB: Johnson FOR Jack,,,,
+0020900846,88,8,0,1,7:32 PM,1:59,,,SUB: Webster FOR Roy,,
+0020900846,89,3,11,1,7:32 PM,1:59,,,Cunningham Free Throw 1 of 2 (1 PTS),25 - 22,-3
+0020900846,91,3,12,1,7:33 PM,1:59,,,MISS Cunningham Free Throw 2 of 2,,
+0020900846,93,4,0,1,7:33 PM,1:59,Wright REBOUND (Off:0 Def:1),,,,
+0020900846,94,2,58,1,7:33 PM,1:45,MISS Bargnani 11' Turnaround Hook Shot,,,,
+0020900846,95,4,0,1,7:33 PM,1:44,,,Bayless REBOUND (Off:0 Def:1),,
+0020900846,96,2,1,1,7:33 PM,1:31,,,MISS Fernandez 25' 3PT Jump Shot,,
+0020900846,97,4,0,1,7:33 PM,1:30,RAPTORS Rebound,,,,
+0020900846,98,2,1,1,7:34 PM,1:11,MISS Wright 25' 3PT Jump Shot,,,,
+0020900846,99,4,0,1,7:34 PM,1:10,Bargnani REBOUND (Off:1 Def:1),,,,
+0020900846,100,2,79,1,7:34 PM,1:04,MISS Belinelli 20' Pullup Jump Shot,,,,
+0020900846,101,4,0,1,7:34 PM,1:03,,,Bayless REBOUND (Off:0 Def:2),,
+0020900846,102,1,1,1,7:34 PM,0:57,,,Bayless 11' Jump Shot (4 PTS) (Fernandez 1 AST),27 - 22,-5
+0020900846,103,2,1,1,7:34 PM,0:40,MISS Bargnani 25' 3PT Jump Shot,,,,
+0020900846,104,4,0,1,7:34 PM,0:39,,,Bayless REBOUND (Off:0 Def:3),,
+0020900846,105,1,41,1,7:34 PM,0:34,,,Cunningham 2' Running Layup (3 PTS) (Bayless 2 AST),29 - 22,-7
+0020900846,106,1,5,1,7:35 PM,0:17,Belinelli 2' Layup (2 PTS) (Johnson 1 AST),,,29 - 24,-5
+0020900846,107,1,1,1,7:35 PM,0:01,,,Fernandez  3PT Jump Shot (3 PTS) (Bayless 3 AST),32 - 24,-8
+0020900846,108,2,46,1,7:35 PM,0:00,MISS Wright 55' 3PT Running Jump Shot,,,,
+0020900846,109,4,0,1,7:35 PM,0:00,RAPTORS Rebound,,,,
+0020900846,110,13,0,1,7:35 PM,0:00,,,,32 - 24,-8
+0020900846,112,12,0,2,7:38 PM,12:00,,,,32 - 24,-8
+0020900846,113,2,58,2,7:38 PM,11:42,,,MISS Aldridge 5' Turnaround Hook Shot,,
+0020900846,114,4,0,2,7:38 PM,11:41,Johnson REBOUND (Off:0 Def:1),,,,
+0020900846,115,2,1,2,7:39 PM,11:22,MISS Calderon 19' Jump Shot,,,,
+0020900846,116,4,0,2,7:39 PM,11:21,Johnson REBOUND (Off:1 Def:1),,,,
+0020900846,117,1,92,2,7:39 PM,11:20,Johnson  Putback Slam Dunk (2 PTS),,,32 - 26,-6
+0020900846,118,1,79,2,7:39 PM,10:56,,,Bayless 15' Pullup Jump Shot (6 PTS),34 - 26,-8
+0020900846,119,2,1,2,7:39 PM,10:38,MISS Belinelli 25' 3PT Jump Shot,,,,
+0020900846,120,4,0,2,7:40 PM,10:37,RAPTORS Rebound,,,,
+0020900846,121,6,3,2,7:40 PM,10:36,,,Cunningham L.B.FOUL (P1.T1),,
+0020900846,122,5,1,2,7:40 PM,10:32,Calderon Bad Pass Turnover (P1.T7),,Fernandez STEAL (1 STL),,
+0020900846,123,2,1,2,7:40 PM,10:24,,,MISS Bayless 24' 3PT Jump Shot,,
+0020900846,124,4,0,2,7:40 PM,10:23,Evans REBOUND (Off:0 Def:1),,,,
+0020900846,125,2,79,2,7:40 PM,10:11,MISS Calderon 14' Pullup Jump Shot,,,,
+0020900846,126,4,0,2,7:40 PM,10:09,Evans REBOUND (Off:1 Def:1),,,,
+0020900846,127,2,5,2,7:40 PM,10:07,MISS Evans  Layup,,Aldridge BLOCK (1 BLK),,
+0020900846,128,4,0,2,7:40 PM,10:05,Evans REBOUND (Off:2 Def:1),,,,
+0020900846,129,2,5,2,7:41 PM,10:04,MISS Evans  Layup,,Cunningham BLOCK (1 BLK),,
+0020900846,130,4,0,2,7:41 PM,10:03,Johnson REBOUND (Off:2 Def:1),,,,
+0020900846,131,2,5,2,7:41 PM,10:03,MISS Johnson  Layup,,,,
+0020900846,132,4,0,2,7:41 PM,10:03,,,Trail Blazers Rebound,,
+0020900846,133,8,0,2,7:41 PM,9:47,SUB: Weems FOR Belinelli,,,,
+0020900846,134,2,1,2,7:42 PM,9:39,Johnson BLOCK (1 BLK),,MISS Bayless 17' Jump Shot,,
+0020900846,135,4,0,2,7:42 PM,9:37,Evans REBOUND (Off:2 Def:2),,,,
+0020900846,136,2,73,2,7:42 PM,9:27,MISS Turkoglu 3' Driving Reverse Layup,,,,
+0020900846,137,4,0,2,7:42 PM,9:26,,,Webster REBOUND (Off:0 Def:1),,
+0020900846,138,6,4,2,7:42 PM,9:15,,,Bayless OFF.Foul (P2),,
+0020900846,139,5,5,2,7:42 PM,9:15,,,Bayless Foul Turnover (P1.T3),,
+0020900846,141,8,0,2,7:42 PM,9:15,,,SUB: Miller FOR Bayless,,
+0020900846,142,8,0,2,7:42 PM,9:15,,,SUB: Howard FOR Aldridge,,
+0020900846,144,1,79,2,7:43 PM,9:05,Turkoglu 15' Pullup Jump Shot (9 PTS),,,34 - 28,-6
+0020900846,145,1,80,2,7:43 PM,8:45,,,Fernandez 20' Step Back Jump Shot (5 PTS),36 - 28,-8
+0020900846,146,6,1,2,7:44 PM,8:32,,,Howard P.FOUL (P2.T2),,
+0020900846,147,9,4,2,7:44 PM,8:32,,,,,
+0020900846,150,1,1,2,7:46 PM,8:23,Calderon  3PT Jump Shot (3 PTS) (Turkoglu 1 AST),,,36 - 31,-5
+0020900846,151,2,42,2,7:47 PM,7:59,,,MISS Miller 2' Driving Layup,,
+0020900846,152,4,0,2,7:47 PM,7:58,Evans REBOUND (Off:2 Def:3),,,,
+0020900846,153,2,1,2,7:47 PM,7:48,MISS Calderon 24' 3PT Jump Shot,,,,
+0020900846,154,4,0,2,7:47 PM,7:47,,,Trail Blazers Rebound,,
+0020900846,155,1,1,2,7:47 PM,7:24,,,Cunningham 20' Jump Shot (5 PTS) (Fernandez 2 AST),38 - 31,-7
+0020900846,156,2,1,2,7:48 PM,7:02,MISS Johnson 9' Jump Shot,,,,
+0020900846,157,4,0,2,7:48 PM,7:01,,,Webster REBOUND (Off:0 Def:2),,
+0020900846,158,1,74,2,7:48 PM,6:55,,,Fernandez 2' Running Reverse Layup (7 PTS) (Miller 3 AST),40 - 31,-9
+0020900846,159,1,1,2,7:48 PM,6:35,Turkoglu 24' 3PT Jump Shot (12 PTS) (Calderon 1 AST),,,40 - 34,-6
+0020900846,160,1,1,2,7:49 PM,6:18,,,Howard 19' Jump Shot (4 PTS) (Miller 4 AST),42 - 34,-8
+0020900846,161,2,1,2,7:49 PM,5:59,MISS Weems 22' Jump Shot,,,,
+0020900846,162,4,0,2,7:49 PM,5:59,,,Trail Blazers Rebound,,
+0020900846,163,6,1,2,7:49 PM,5:59,Evans P.FOUL (P1.T1),,,,
+0020900846,164,9,1,2,7:49 PM,5:59,RAPTORS Timeout: Regular (Full 2 Short 0),,,,
+0020900846,165,8,0,2,7:51 PM,5:59,,,SUB: Roy FOR Webster,,
+0020900846,166,8,0,2,7:52 PM,5:59,SUB: Bargnani FOR Johnson,,,,
+0020900846,167,2,46,2,7:52 PM,5:50,,,MISS Miller 4' Running Jump Shot,,
+0020900846,168,4,0,2,7:52 PM,5:48,,,Miller REBOUND (Off:1 Def:0),,
+0020900846,169,1,4,2,7:52 PM,5:46,,,Miller  Tip Shot (7 PTS),44 - 34,-10
+0020900846,170,5,1,2,7:52 PM,5:35,Calderon Bad Pass Turnover (P2.T8),,Miller STEAL (1 STL),,
+0020900846,171,1,50,2,7:52 PM,5:30,,,Howard 1' Running Dunk (6 PTS) (Miller 5 AST),46 - 34,-12
+0020900846,172,5,2,2,7:53 PM,5:11,Evans Lost Ball Turnover (P1.T9),,Miller STEAL (2 STL),,
+0020900846,173,1,74,2,7:53 PM,5:06,,,Fernandez 1' Running Reverse Layup (9 PTS) (Miller 6 AST),48 - 34,-14
+0020900846,174,2,79,2,7:53 PM,4:49,MISS Calderon 18' Pullup Jump Shot,,,,
+0020900846,175,4,0,2,7:53 PM,4:48,,,Miller REBOUND (Off:1 Def:1),,
+0020900846,176,2,1,2,7:53 PM,4:35,,,MISS Roy 18' Jump Shot,,
+0020900846,177,4,0,2,7:53 PM,4:34,Weems REBOUND (Off:0 Def:1),,,,
+0020900846,178,6,1,2,7:53 PM,4:32,,,Fernandez P.FOUL (P1.T3),,
+0020900846,179,8,0,2,7:53 PM,4:32,SUB: Jack FOR Calderon,,,,
+0020900846,180,8,0,2,7:53 PM,4:32,SUB: Johnson FOR Evans,,,,
+0020900846,182,5,4,2,7:54 PM,4:20,Weems Traveling Turnover (P1.T10),,,,
+0020900846,183,2,1,2,7:54 PM,4:07,,,MISS Howard 19' Jump Shot,,
+0020900846,184,4,0,2,7:54 PM,4:06,Turkoglu REBOUND (Off:0 Def:2),,,,
+0020900846,185,2,1,2,7:54 PM,3:58,MISS Jack 25' 3PT Jump Shot,,,,
+0020900846,186,4,0,2,7:54 PM,3:57,,,Miller REBOUND (Off:1 Def:2),,
+0020900846,187,1,1,2,7:55 PM,3:43,,,Roy  3PT Jump Shot (11 PTS) (Miller 7 AST),51 - 34,-17
+0020900846,188,9,2,2,7:55 PM,3:33,RAPTORS Timeout: Short (Full 2 Short 1),,,,
+0020900846,190,8,0,2,7:56 PM,3:33,,,SUB: Aldridge FOR Howard,,
+0020900846,192,1,1,2,7:56 PM,3:24,Bargnani 17' Jump Shot (4 PTS),,,51 - 36,-15
+0020900846,193,2,1,2,7:57 PM,3:09,,,MISS Aldridge 20' Jump Shot,,
+0020900846,194,4,0,2,7:57 PM,3:08,Bargnani REBOUND (Off:1 Def:2),,,,
+0020900846,195,1,52,2,7:57 PM,3:02,Weems 1' Alley Oop Dunk (2 PTS) (Turkoglu 2 AST),,,51 - 38,-13
+0020900846,196,2,1,2,7:57 PM,2:43,,,MISS Miller 20' Jump Shot,,
+0020900846,197,4,0,2,7:57 PM,2:42,RAPTORS Rebound,,,,
+0020900846,198,6,3,2,7:57 PM,2:42,,,Cunningham L.B.FOUL (P2.T4),,
+0020900846,199,9,1,2,7:57 PM,2:42,,,Trail Blazers Timeout: Regular (Reg.2 Short 0),,
+0020900846,200,8,0,2,8:00 PM,2:42,,,SUB: Batum FOR Fernandez,,
+0020900846,201,8,0,2,8:00 PM,2:42,SUB: Wright FOR Weems,,,,
+0020900846,202,2,80,2,8:00 PM,2:27,MISS Bargnani 16' Step Back Jump Shot,,,,
+0020900846,203,4,0,2,8:00 PM,2:26,,,Miller REBOUND (Off:1 Def:3),,
+0020900846,204,1,79,2,8:01 PM,2:05,,,Roy 19' Pullup Jump Shot (13 PTS) (Aldridge 1 AST),53 - 38,-15
+0020900846,206,1,47,2,8:01 PM,1:42,Bargnani 16' Turnaround Jump Shot (6 PTS),,,53 - 40,-13
+0020900846,207,2,5,2,8:01 PM,1:27,Johnson BLOCK (2 BLK),,MISS Cunningham 1' Layup,,
+0020900846,208,4,0,2,8:01 PM,1:25,Johnson REBOUND (Off:2 Def:2),,,,
+0020900846,209,1,76,2,8:01 PM,1:21,Johnson 1' Running Finger Roll Layup (4 PTS) (Jack 4 AST),,,53 - 42,-11
+0020900846,211,7,5,2,8:02 PM,1:01,Turkoglu Violation:Kicked Ball,,,,
+0020900846,212,2,5,2,8:02 PM,0:49,,,MISS Cunningham 2' Layup,,
+0020900846,213,4,0,2,8:02 PM,0:47,Johnson REBOUND (Off:2 Def:3),,,,
+0020900846,214,1,1,2,8:03 PM,0:42,Wright 18' Jump Shot (2 PTS) (Turkoglu 3 AST),,,53 - 44,-9
+0020900846,215,2,57,2,8:03 PM,0:23,,,MISS Aldridge 7' Driving Hook Shot,,
+0020900846,216,4,0,2,8:03 PM,0:22,Johnson REBOUND (Off:2 Def:4),,,,
+0020900846,217,1,80,2,8:03 PM,0:14,Turkoglu 24' 3PT Step Back Jump Shot (15 PTS) (Jack 5 AST),,,53 - 47,-6
+0020900846,219,2,80,2,8:03 PM,0:00,,,MISS Roy 18' Step Back Jump Shot,,
+0020900846,220,4,0,2,8:03 PM,0:00,,,Trail Blazers Rebound,,
+0020900846,221,13,0,2,8:03 PM,0:00,,,,53 - 47,-6
+0020900846,223,12,0,3,8:21 PM,12:00,,,,53 - 47,-6
+0020900846,224,6,1,3,8:21 PM,11:47,Nesterovic P.FOUL (P2.T1),,,,
+0020900846,225,5,4,3,8:21 PM,11:40,,,Aldridge Traveling Turnover (P1.T4),,
+0020900846,226,2,1,3,8:22 PM,11:21,MISS Bargnani 24' 3PT Jump Shot,,,,
+0020900846,227,4,0,3,8:22 PM,11:20,,,Aldridge REBOUND (Off:0 Def:2),,
+0020900846,228,2,47,3,8:22 PM,11:04,,,MISS Howard 10' Turnaround Jump Shot,,
+0020900846,229,4,0,3,8:22 PM,11:02,DeRozan REBOUND (Off:0 Def:2),,,,
+0020900846,230,5,4,3,8:22 PM,10:49,Bargnani Traveling Turnover (P2.T11),,,,
+0020900846,231,6,4,3,8:23 PM,10:36,,,Howard OFF.Foul (P3),,
+0020900846,232,5,5,3,8:23 PM,10:36,,,Howard Foul Turnover (P1.T5),,
+0020900846,233,5,1,3,8:23 PM,10:25,DeRozan Bad Pass Turnover (P1.T12),,Miller STEAL (3 STL),,
+0020900846,234,1,73,3,8:23 PM,10:21,,,Miller 2' Driving Reverse Layup (9 PTS),55 - 47,-8
+0020900846,235,1,73,3,8:23 PM,10:10,Jack 2' Driving Reverse Layup (9 PTS),,,55 - 49,-6
+0020900846,236,2,79,3,8:24 PM,9:47,,,MISS Miller 11' Pullup Jump Shot,,
+0020900846,237,4,0,3,8:24 PM,9:46,Bargnani REBOUND (Off:1 Def:3),,,,
+0020900846,238,2,1,3,8:24 PM,9:35,MISS Bargnani 21' Jump Shot,,,,
+0020900846,239,4,0,3,8:24 PM,9:34,,,Trail Blazers Rebound,,
+0020900846,240,6,3,3,8:24 PM,9:34,Nesterovic L.B.FOUL (P3.T2),,,,
+0020900846,241,2,65,3,8:25 PM,9:13,,,MISS Aldridge 8' Jump Hook Shot,,
+0020900846,242,4,0,3,8:25 PM,9:12,,,Miller REBOUND (Off:2 Def:3),,
+0020900846,243,1,84,3,8:25 PM,8:58,,,Miller 10' Running Bank Shot (11 PTS),57 - 49,-8
+0020900846,244,1,42,3,8:25 PM,8:41,Jack 3' Driving Layup (11 PTS),,,57 - 51,-6
+0020900846,245,1,1,3,8:26 PM,8:22,,,Batum 24' 3PT Jump Shot (7 PTS) (Miller 8 AST),60 - 51,-9
+0020900846,246,1,79,3,8:26 PM,8:08,Jack 25' 3PT Pullup Jump Shot (14 PTS),,,60 - 54,-6
+0020900846,247,2,1,3,8:26 PM,7:50,,,MISS Roy 25' 3PT Jump Shot,,
+0020900846,248,4,0,3,8:26 PM,7:49,Turkoglu REBOUND (Off:0 Def:3),,,,
+0020900846,249,2,1,3,8:26 PM,7:36,MISS DeRozan 21' Jump Shot,,,,
+0020900846,250,4,0,3,8:26 PM,7:35,,,Batum REBOUND (Off:0 Def:1),,
+0020900846,251,1,86,3,8:27 PM,7:25,,,Miller 9' Turnaround Fadeaway (13 PTS),62 - 54,-8
+0020900846,252,1,1,3,8:27 PM,7:08,Bargnani 25' 3PT Jump Shot (9 PTS) (Jack 6 AST),,,62 - 57,-5
+0020900846,253,2,42,3,8:27 PM,6:52,,,MISS Roy 2' Driving Layup,,
+0020900846,254,4,0,3,8:27 PM,6:51,Nesterovic REBOUND (Off:0 Def:1),,,,
+0020900846,255,1,42,3,8:27 PM,6:41,Turkoglu 2' Driving Layup (17 PTS) (Jack 7 AST),,,62 - 59,-3
+0020900846,256,9,1,3,8:27 PM,6:41,,,Trail Blazers Timeout: Regular (Reg.3 Short 0),,
+0020900846,260,2,1,3,8:30 PM,6:19,,,MISS Aldridge 22' Jump Shot,,
+0020900846,261,4,0,3,8:30 PM,6:18,Nesterovic REBOUND (Off:0 Def:2),,,,
+0020900846,262,2,84,3,8:31 PM,5:53,MISS Jack 11' Running Bank Shot,,,,
+0020900846,263,4,0,3,8:31 PM,5:51,,,Batum REBOUND (Off:0 Def:2),,
+0020900846,264,1,58,3,8:31 PM,5:38,,,Aldridge 6' Turnaround Hook Shot (5 PTS),64 - 59,-5
+0020900846,265,1,42,3,8:31 PM,5:17,Jack 2' Driving Layup (16 PTS),,,64 - 61,-3
+0020900846,266,6,4,3,8:32 PM,5:01,,,Roy OFF.Foul (P1),,
+0020900846,267,5,5,3,8:32 PM,5:01,,,Roy Foul Turnover (P1.T6),,
+0020900846,268,8,0,3,8:32 PM,5:01,SUB: Johnson FOR Nesterovic,,,,
+0020900846,269,8,0,3,8:32 PM,5:01,,,SUB: Bayless FOR Batum,,
+0020900846,270,8,0,3,8:32 PM,5:01,,,SUB: Fernandez FOR Miller,,
+0020900846,271,1,65,3,8:32 PM,4:47,Johnson 4' Jump Hook Shot (6 PTS) (Jack 8 AST),,,64 - 63,-1
+0020900846,272,1,1,3,8:33 PM,4:30,,,Bayless  3PT Jump Shot (9 PTS) (Roy 2 AST),67 - 63,-4
+0020900846,273,2,1,3,8:33 PM,4:16,MISS Bargnani 24' 3PT Jump Shot,,,,
+0020900846,274,4,0,3,8:33 PM,4:15,,,Fernandez REBOUND (Off:1 Def:1),,
+0020900846,275,1,79,3,8:33 PM,3:56,,,Roy 15' Pullup Jump Shot (15 PTS),69 - 63,-6
+0020900846,276,1,75,3,8:33 PM,3:39,Turkoglu 1' Driving Finger Roll Layup (19 PTS),,,69 - 65,-4
+0020900846,277,6,2,3,8:34 PM,3:27,DeRozan S.FOUL (P2.T3),,,,
+0020900846,278,8,0,3,8:34 PM,3:27,,,SUB: Cunningham FOR Howard,,
+0020900846,279,18,0,3,8:34 PM,3:27,,,,69 - 65,-4
+0020900846,280,3,11,3,8:36 PM,3:27,,,MISS Roy Free Throw 1 of 2,,
+0020900846,281,4,1,3,8:36 PM,3:27,,,Trail Blazers Rebound,,
+0020900846,282,3,12,3,8:36 PM,3:27,,,MISS Roy Free Throw 2 of 2,,
+0020900846,284,4,0,3,8:36 PM,3:26,Bargnani REBOUND (Off:1 Def:4),,,,
+0020900846,285,6,2,3,8:37 PM,3:13,,,Cunningham S.FOUL (P3.T1),,
+0020900846,286,3,11,3,8:37 PM,3:13,Turkoglu Free Throw 1 of 2 (20 PTS),,,69 - 66,-3
+0020900846,288,3,12,3,8:37 PM,3:13,MISS Turkoglu Free Throw 2 of 2,,,,
+0020900846,290,4,0,3,8:37 PM,3:13,,,Cunningham REBOUND (Off:0 Def:2),,
+0020900846,291,9,1,3,8:38 PM,2:58,RAPTORS Timeout: Regular (Full 3 Short 1),,,,
+0020900846,292,8,0,3,8:40 PM,2:58,SUB: Calderon FOR Jack,,,,
+0020900846,294,2,42,3,8:40 PM,2:53,,,MISS Bayless 2' Driving Layup,,
+0020900846,295,4,0,3,8:40 PM,2:52,,,Cunningham REBOUND (Off:1 Def:2),,
+0020900846,296,1,54,3,8:40 PM,2:49,,,Cunningham  Running Tip Shot (7 PTS),71 - 66,-5
+0020900846,298,5,1,3,8:41 PM,2:35,Calderon Bad Pass Turnover (P3.T13),,,,
+0020900846,299,6,1,3,8:41 PM,2:28,DeRozan P.FOUL (P3.T4),,,,
+0020900846,300,1,1,3,8:42 PM,2:15,,,Fernandez 24' 3PT Jump Shot (12 PTS) (Bayless 4 AST),74 - 66,-8
+0020900846,301,2,1,3,8:42 PM,1:52,MISS Calderon 25' 3PT Jump Shot,,,,
+0020900846,302,4,0,3,8:42 PM,1:51,,,Roy REBOUND (Off:0 Def:1),,
+0020900846,303,2,1,3,8:42 PM,1:42,,,MISS Aldridge 15' Jump Shot,,
+0020900846,304,4,0,3,8:42 PM,1:41,,,Cunningham REBOUND (Off:2 Def:2),,
+0020900846,305,1,79,3,8:42 PM,1:27,,,Bayless 22' Pullup Jump Shot (11 PTS),76 - 66,-10
+0020900846,306,2,1,3,8:43 PM,1:13,MISS Bargnani 25' 3PT Jump Shot,,,,
+0020900846,307,4,0,3,8:43 PM,1:12,,,Roy REBOUND (Off:0 Def:2),,
+0020900846,308,6,2,3,8:43 PM,1:07,Bargnani S.FOUL (P2.PN),,,,
+0020900846,309,8,0,3,8:43 PM,1:07,SUB: Evans FOR Bargnani,,,,
+0020900846,310,8,0,3,8:43 PM,1:07,SUB: Wright FOR DeRozan,,,,
+0020900846,311,3,11,3,8:43 PM,1:07,,,Fernandez Free Throw 1 of 2 (13 PTS),77 - 66,-11
+0020900846,313,3,12,3,8:43 PM,1:07,,,Fernandez Free Throw 2 of 2 (14 PTS),78 - 66,-12
+0020900846,315,5,40,3,8:44 PM,0:53,Wright Out of Bounds Lost Ball Turnover (P1.T14),,,,
+0020900846,316,2,1,3,8:44 PM,0:34,,,MISS Bayless 22' Jump Shot,,
+0020900846,317,4,0,3,8:44 PM,0:32,Evans REBOUND (Off:2 Def:4),,,,
+0020900846,318,6,1,3,8:44 PM,0:25,,,Fernandez P.FOUL (P2.T2),,
+0020900846,319,3,11,3,8:45 PM,0:25,Turkoglu Free Throw 1 of 2 (21 PTS),,,78 - 67,-11
+0020900846,321,8,0,3,8:45 PM,0:25,,,SUB: Howard FOR Aldridge,,
+0020900846,322,3,12,3,8:45 PM,0:25,Turkoglu Free Throw 2 of 2 (22 PTS),,,78 - 68,-10
+0020900846,324,2,1,3,8:46 PM,0:04,,,MISS Cunningham 20' Jump Shot,,
+0020900846,325,4,0,3,8:46 PM,0:03,,,Howard REBOUND (Off:1 Def:1),,
+0020900846,326,2,1,3,8:46 PM,0:00,,,MISS Bayless 25' 3PT Jump Shot,,
+0020900846,327,4,0,3,8:46 PM,0:00,,,Trail Blazers Rebound,,
+0020900846,328,13,0,3,8:46 PM,0:00,,,,78 - 68,-10
+0020900846,330,12,0,4,8:49 PM,12:00,,,,78 - 68,-10
+0020900846,331,1,8,4,8:49 PM,11:46,Johnson 2' Slam Dunk (8 PTS) (Calderon 2 AST),,,78 - 70,-8
+0020900846,332,1,42,4,8:49 PM,11:34,,,Howard 2' Driving Layup (8 PTS) (Roy 3 AST),80 - 70,-10
+0020900846,333,6,1,4,8:49 PM,11:26,,,Cunningham P.FOUL (P4.T1),,
+0020900846,334,5,8,4,8:50 PM,11:19,Evans 3 Second Violation Turnover (P2.T15),,,,
+0020900846,335,2,1,4,8:50 PM,11:04,,,MISS Fernandez 22' Jump Shot,,
+0020900846,336,4,0,4,8:50 PM,11:03,Johnson REBOUND (Off:2 Def:5),,,,
+0020900846,337,2,1,4,8:51 PM,10:52,MISS Wright 22' Jump Shot,,,,
+0020900846,338,4,0,4,8:51 PM,10:52,,,Fernandez REBOUND (Off:1 Def:2),,
+0020900846,339,6,1,4,8:51 PM,10:36,Turkoglu P.FOUL (P3.T1),,,,
+0020900846,340,8,0,4,8:51 PM,10:36,SUB: Weems FOR Turkoglu,,,,
+0020900846,341,2,42,4,8:52 PM,10:22,Johnson BLOCK (3 BLK),,MISS Bayless 2' Driving Layup,,
+0020900846,342,4,0,4,8:52 PM,10:21,,,Bayless REBOUND (Off:1 Def:3),,
+0020900846,343,5,11,4,8:52 PM,10:21,,,Trail Blazers Turnover: Shot Clock (T#7),,
+0020900846,344,2,42,4,8:52 PM,10:13,MISS Calderon 3' Driving Layup,,,,
+0020900846,345,4,0,4,8:52 PM,10:12,Evans REBOUND (Off:3 Def:4),,,,
+0020900846,346,1,5,4,8:52 PM,10:12,Evans  Layup (2 PTS),,,80 - 72,-8
+0020900846,347,6,2,4,8:52 PM,10:12,,,Fernandez S.FOUL (P3.T2),,
+0020900846,348,8,0,4,8:52 PM,10:12,,,SUB: Aldridge FOR Cunningham,,
+0020900846,349,3,10,4,8:53 PM,10:12,MISS Evans Free Throw 1 of 1,,,,
+0020900846,351,4,0,4,8:53 PM,10:11,Johnson REBOUND (Off:3 Def:5),,,,
+0020900846,352,6,2,4,8:53 PM,10:04,,,Aldridge S.FOUL (P1.T3),,
+0020900846,353,3,11,4,8:53 PM,10:04,Weems Free Throw 1 of 2 (3 PTS),,,80 - 73,-7
+0020900846,355,8,0,4,8:53 PM,10:04,,,SUB: Miller FOR Roy,,
+0020900846,356,3,12,4,8:53 PM,10:04,MISS Weems Free Throw 2 of 2,,,,
+0020900846,358,4,0,4,8:54 PM,10:04,,,Miller REBOUND (Off:2 Def:4),,
+0020900846,360,6,2,4,8:54 PM,9:44,Johnson S.FOUL (P1.T2),,,,
+0020900846,361,3,11,4,8:54 PM,9:44,,,Howard Free Throw 1 of 2 (9 PTS),81 - 73,-8
+0020900846,363,3,12,4,8:55 PM,9:44,,,Howard Free Throw 2 of 2 (10 PTS),82 - 73,-9
+0020900846,365,2,1,4,8:55 PM,9:35,MISS Weems 21' Jump Shot,,,,
+0020900846,366,4,0,4,8:55 PM,9:34,Wright REBOUND (Off:1 Def:1),,,,
+0020900846,367,5,40,4,8:55 PM,9:29,Weems Out of Bounds Lost Ball Turnover (P2.T16),,,,
+0020900846,368,2,1,4,8:56 PM,9:10,,,MISS Aldridge 19' Jump Shot,,
+0020900846,369,4,0,4,8:56 PM,9:09,Wright REBOUND (Off:1 Def:2),,,,
+0020900846,370,1,42,4,8:56 PM,8:55,Calderon 1' Driving Layup (5 PTS),,,82 - 75,-7
+0020900846,371,6,1,4,8:56 PM,8:40,Calderon P.FOUL (P1.T3),,,,
+0020900846,372,9,4,4,8:57 PM,8:40,,,,,
+0020900846,373,8,0,4,8:59 PM,8:40,,,SUB: Roy FOR Bayless,,
+0020900846,374,8,0,4,8:59 PM,8:40,SUB: Bargnani FOR Wright,,,,
+0020900846,375,8,0,4,8:59 PM,8:40,SUB: Jack FOR Johnson,,,,
+0020900846,376,1,1,4,8:59 PM,8:30,,,Fernandez 26' 3PT Jump Shot (17 PTS) (Miller 9 AST),85 - 75,-10
+0020900846,377,1,73,4,9:00 PM,8:15,Bargnani 2' Driving Reverse Layup (11 PTS) (Calderon 3 AST),,,85 - 77,-8
+0020900846,378,2,42,4,9:00 PM,7:58,Weems BLOCK (1 BLK),,MISS Roy 2' Driving Layup,,
+0020900846,379,4,0,4,9:00 PM,7:57,,,Roy REBOUND (Off:1 Def:2),,
+0020900846,380,2,3,4,9:00 PM,7:55,Bargnani BLOCK (1 BLK),,MISS Roy 3' Hook Shot,,
+0020900846,381,4,0,4,9:00 PM,7:53,Evans REBOUND (Off:3 Def:5),,,,
+0020900846,382,2,67,4,9:00 PM,7:38,MISS Evans 6' Hook Bank Shot,,,,
+0020900846,383,4,0,4,9:00 PM,7:36,,,Roy REBOUND (Off:1 Def:3),,
+0020900846,384,6,1,4,9:01 PM,7:23,Weems P.FOUL (P1.T4),,,,
+0020900846,385,8,0,4,9:01 PM,7:23,SUB: Turkoglu FOR Evans,,,,
+0020900846,386,8,0,4,9:01 PM,7:23,SUB: Wright FOR Weems,,,,
+0020900846,387,1,1,4,9:01 PM,7:17,,,Aldridge 17' Jump Shot (7 PTS) (Roy 4 AST),87 - 77,-10
+0020900846,388,2,46,4,9:02 PM,7:01,MISS Jack 4' Running Jump Shot,,,,
+0020900846,389,4,0,4,9:02 PM,6:59,,,Fernandez REBOUND (Off:1 Def:3),,
+0020900846,390,1,1,4,9:02 PM,6:35,,,Aldridge 19' Jump Shot (9 PTS) (Roy 5 AST),89 - 77,-12
+0020900846,391,9,1,4,9:02 PM,6:34,RAPTORS Timeout: Regular (Full 4 Short 1),,,,
+0020900846,395,6,2,4,9:05 PM,6:22,,,Fernandez S.FOUL (P4.T4),,
+0020900846,396,3,11,4,9:05 PM,6:22,Turkoglu Free Throw 1 of 2 (23 PTS),,,89 - 78,-11
+0020900846,398,3,12,4,9:05 PM,6:22,Turkoglu Free Throw 2 of 2 (24 PTS),,,89 - 79,-10
+0020900846,400,1,47,4,9:06 PM,6:06,,,Miller 8' Turnaround Jump Shot (15 PTS),91 - 79,-12
+0020900846,401,1,1,4,9:06 PM,5:46,Bargnani 16' Jump Shot (13 PTS),,,91 - 81,-10
+0020900846,402,1,8,4,9:07 PM,5:28,,,Roy 1' Slam Dunk (17 PTS) (Miller 10 AST),93 - 81,-12
+0020900846,403,2,46,4,9:07 PM,5:14,MISS Wright 2' Running Jump Shot,,,,
+0020900846,404,4,0,4,9:07 PM,5:13,,,Howard REBOUND (Off:1 Def:2),,
+0020900846,406,1,42,4,9:07 PM,4:54,,,Miller 2' Driving Layup (17 PTS),95 - 81,-14
+0020900846,407,6,2,4,9:07 PM,4:54,Calderon S.FOUL (P2.PN),,,,
+0020900846,408,8,0,4,9:07 PM,4:54,,,SUB: Batum FOR Howard,,
+0020900846,409,3,10,4,9:07 PM,4:54,,,Miller Free Throw 1 of 1 (18 PTS),96 - 81,-15
+0020900846,411,6,2,4,9:08 PM,4:42,,,Aldridge S.FOUL (P2.PN),,
+0020900846,412,8,0,4,9:08 PM,4:42,,,SUB: Howard FOR Batum,,
+0020900846,413,3,11,4,9:08 PM,4:42,Bargnani Free Throw 1 of 2 (14 PTS),,,96 - 82,-14
+0020900846,415,3,12,4,9:09 PM,4:42,Bargnani Free Throw 2 of 2 (15 PTS),,,96 - 83,-13
+0020900846,417,2,47,4,9:09 PM,4:24,,,MISS Howard 14' Turnaround Jump Shot,,
+0020900846,418,4,0,4,9:09 PM,4:22,Turkoglu REBOUND (Off:0 Def:4),,,,
+0020900846,419,2,57,4,9:09 PM,4:13,MISS Bargnani 5' Driving Hook Shot,,,,
+0020900846,420,4,0,4,9:09 PM,4:12,,,Fernandez REBOUND (Off:1 Def:4),,
+0020900846,422,6,4,4,9:10 PM,3:59,,,Fernandez OFF.Foul (P5),,
+0020900846,423,5,5,4,9:10 PM,3:59,,,Fernandez Foul Turnover (P1.T8),,
+0020900846,424,2,1,4,9:10 PM,3:43,MISS Bargnani  3PT Jump Shot,,,,
+0020900846,425,4,0,4,9:10 PM,3:42,,,Fernandez REBOUND (Off:1 Def:5),,
+0020900846,426,2,1,4,9:10 PM,3:21,,,MISS Miller 24' 3PT Jump Shot,,
+0020900846,427,4,0,4,9:11 PM,3:20,Calderon REBOUND (Off:0 Def:1),,,,
+0020900846,428,6,2,4,9:11 PM,3:15,,,Miller S.FOUL (P1.PN),,
+0020900846,429,3,11,4,9:11 PM,3:15,MISS Jack Free Throw 1 of 2,,,,
+0020900846,430,4,1,4,9:11 PM,3:15,RAPTORS Rebound,,,,
+0020900846,432,8,0,4,9:11 PM,3:15,,,SUB: Batum FOR Howard,,
+0020900846,433,3,12,4,9:11 PM,3:15,MISS Jack Free Throw 2 of 2,,,,
+0020900846,435,4,0,4,9:12 PM,3:15,,,Roy REBOUND (Off:1 Def:4),,
+0020900846,436,2,1,4,9:12 PM,2:57,,,MISS Batum 25' 3PT Jump Shot,,
+0020900846,437,4,0,4,9:12 PM,2:56,Bargnani REBOUND (Off:1 Def:5),,,,
+0020900846,438,2,1,4,9:12 PM,2:45,MISS Wright  3PT Jump Shot,,,,
+0020900846,439,4,0,4,9:12 PM,2:44,,,Miller REBOUND (Off:2 Def:5),,
+0020900846,440,1,5,4,9:12 PM,2:30,,,Batum 2' Layup (9 PTS) (Fernandez 3 AST),98 - 83,-15
+0020900846,441,6,2,4,9:13 PM,2:13,,,Batum S.FOUL (P1.PN),,
+0020900846,442,9,1,4,9:13 PM,2:13,,,Trail Blazers Timeout: Regular (Reg.4 Short 0),,
+0020900846,444,8,0,4,9:15 PM,2:13,SUB: Johnson FOR Turkoglu,,,,
+0020900846,445,8,0,4,9:15 PM,2:13,SUB: Weems FOR Bargnani,,,,
+0020900846,446,8,0,4,9:15 PM,2:13,,,SUB: Howard FOR Batum,,
+0020900846,447,3,11,4,9:15 PM,2:13,Jack Free Throw 1 of 2 (17 PTS),,,98 - 84,-14
+0020900846,449,3,12,4,9:15 PM,2:13,Jack Free Throw 2 of 2 (18 PTS),,,98 - 85,-13
+0020900846,451,9,2,4,9:16 PM,2:01,,,Trail Blazers Timeout: Short (Reg.4 Short 1),,
+0020900846,454,1,41,4,9:17 PM,1:54,,,Roy 3' Running Layup (19 PTS) (Howard 2 AST),100 - 85,-15
+0020900846,455,6,2,4,9:17 PM,1:54,Jack S.FOUL (P1.PN),,,,
+0020900846,457,8,0,4,9:17 PM,1:54,,,SUB: Batum FOR Howard,,
+0020900846,458,3,10,4,9:17 PM,1:54,,,Roy Free Throw 1 of 1 (20 PTS),101 - 85,-16
+0020900846,460,2,1,4,9:18 PM,1:49,MISS Jack 25' 3PT Jump Shot,,,,
+0020900846,461,4,0,4,9:18 PM,1:48,Wright REBOUND (Off:2 Def:2),,,,
+0020900846,462,1,8,4,9:18 PM,1:44,Johnson 1' Slam Dunk (10 PTS) (Wright 1 AST),,,101 - 87,-14
+0020900846,463,2,1,4,9:18 PM,1:21,,,MISS Miller 22' Jump Shot,,
+0020900846,464,4,0,4,9:18 PM,1:20,,,Batum REBOUND (Off:1 Def:2),,
+0020900846,465,2,42,4,9:19 PM,0:59,Johnson BLOCK (4 BLK),,MISS Roy 2' Driving Layup,,
+0020900846,466,4,0,4,9:19 PM,0:58,Wright REBOUND (Off:2 Def:3),,,,
+0020900846,467,2,42,4,9:19 PM,0:51,MISS Jack 1' Driving Layup,,Aldridge BLOCK (2 BLK),,
+0020900846,468,4,0,4,9:19 PM,0:50,,,Trail Blazers Rebound,,
+0020900846,469,8,0,4,9:19 PM,0:50,,,SUB: Mills FOR Roy,,
+0020900846,470,8,0,4,9:19 PM,0:50,,,SUB: Pendergraph FOR Aldridge,,
+0020900846,471,2,1,4,9:20 PM,0:28,,,MISS Fernandez 24' 3PT Jump Shot,,
+0020900846,472,4,0,4,9:20 PM,0:27,Wright REBOUND (Off:2 Def:4),,,,
+0020900846,473,2,52,4,9:20 PM,0:22,MISS Johnson 1' Alley Oop Dunk,,,,
+0020900846,474,4,0,4,9:20 PM,0:20,,,Fernandez REBOUND (Off:1 Def:6),,
+0020900846,475,13,0,4,9:20 PM,0:00,,,,101 - 87,-14

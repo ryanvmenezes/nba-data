@@ -1,0 +1,491 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020901200,0,12,0,1,9:19 PM,12:00,,,,,
+0020901200,1,10,0,1,9:20 PM,12:00,Jump Ball Turiaf vs. Green: Tip to Tolliver,,,,
+0020901200,2,5,41,1,9:20 PM,11:47,Maggette Poss Lost Ball Turnover (P1.T1),,,,
+0020901200,3,1,52,1,9:20 PM,11:34,,,Westbrook 1' Alley Oop Dunk (2 PTS) (Durant 1 AST),2 - 0,-2
+0020901200,4,2,1,1,9:21 PM,11:15,MISS Maggette 19' Jump Shot,,,,
+0020901200,5,4,0,1,9:21 PM,11:13,Tolliver REBOUND (Off:1 Def:0),,,,
+0020901200,6,1,72,1,9:21 PM,11:13,Tolliver 2' Putback Layup (2 PTS),,,2 - 2,TIE
+0020901200,7,6,2,1,9:21 PM,11:13,,,Sefolosha S.FOUL (P1.T1),,
+0020901200,8,3,10,1,9:21 PM,11:13,Tolliver Free Throw 1 of 1 (3 PTS),,,2 - 3,1
+0020901200,10,6,1,1,9:21 PM,11:00,Curry P.FOUL (P1.T1),,,,
+0020901200,11,2,1,1,9:22 PM,10:57,,,MISS Durant 12' Jump Shot,,
+0020901200,13,4,0,1,9:22 PM,10:56,,,Collison REBOUND (Off:1 Def:0),,
+0020901200,12,2,4,1,9:22 PM,10:56,,,MISS Collison 1' Tip Shot,,
+0020901200,14,4,0,1,9:22 PM,10:54,,,Collison REBOUND (Off:2 Def:0),,
+0020901200,15,2,5,1,9:22 PM,10:52,Ellis BLOCK (1 BLK),,MISS Collison 1' Layup,,
+0020901200,16,4,0,1,9:22 PM,10:48,,,Collison REBOUND (Off:3 Def:0),,
+0020901200,17,1,79,1,9:22 PM,10:38,,,Green  3PT Pullup Jump Shot (3 PTS) (Sefolosha 1 AST),5 - 3,-2
+0020901200,18,1,80,1,9:23 PM,10:21,Maggette 18' Step Back Jump Shot (2 PTS) (Curry 1 AST),,,5 - 5,TIE
+0020901200,19,1,1,1,9:23 PM,10:10,,,Durant 18' Jump Shot (2 PTS) (Sefolosha 2 AST),7 - 5,-2
+0020901200,20,2,1,1,9:23 PM,9:48,MISS Curry  3PT Jump Shot,,,,
+0020901200,21,4,0,1,9:23 PM,9:46,,,Sefolosha REBOUND (Off:0 Def:1),,
+0020901200,22,2,1,1,9:24 PM,9:36,,,MISS Green 5' Jump Shot,,
+0020901200,24,4,0,1,9:24 PM,9:33,,,Collison REBOUND (Off:4 Def:0),,
+0020901200,23,1,72,1,9:24 PM,9:33,,,Collison 2' Putback Layup (2 PTS),9 - 5,-4
+0020901200,25,2,1,1,9:24 PM,9:27,MISS Maggette 14' Jump Shot,,,,
+0020901200,26,4,0,1,9:24 PM,9:25,,,Durant REBOUND (Off:0 Def:1),,
+0020901200,27,6,2,1,9:24 PM,9:20,Turiaf S.FOUL (P1.T2),,,,
+0020901200,28,3,11,1,9:24 PM,9:20,,,Durant Free Throw 1 of 2 (3 PTS),10 - 5,-5
+0020901200,30,3,12,1,9:24 PM,9:20,,,Durant Free Throw 2 of 2 (4 PTS),11 - 5,-6
+0020901200,32,6,1,1,9:25 PM,9:11,,,Green P.FOUL (P1.T2),,
+0020901200,33,5,1,1,9:25 PM,9:09,Ellis Bad Pass Turnover (P1.T2),,Westbrook STEAL (1 STL),,
+0020901200,34,1,42,1,9:25 PM,9:06,,,Westbrook 2' Driving Layup (4 PTS),13 - 5,-8
+0020901200,35,9,1,1,9:25 PM,9:00,WARRIORS Timeout: Regular (Full 1 Short 0),,,,
+0020901200,39,2,42,1,9:28 PM,8:50,MISS Turiaf 2' Driving Layup,,,,
+0020901200,40,4,0,1,9:28 PM,8:49,,,Collison REBOUND (Off:4 Def:1),,
+0020901200,41,1,42,1,9:28 PM,8:45,,,Westbrook 2' Driving Layup (6 PTS),15 - 5,-10
+0020901200,42,6,2,1,9:28 PM,8:45,Curry S.FOUL (P2.T3),,,,
+0020901200,43,3,10,1,9:28 PM,8:45,,,Westbrook Free Throw 1 of 1 (7 PTS),16 - 5,-11
+0020901200,45,2,78,1,9:29 PM,8:34,MISS Curry 8' Floating Jump Shot,,,,
+0020901200,46,4,0,1,9:29 PM,8:33,,,Durant REBOUND (Off:0 Def:2),,
+0020901200,47,1,1,1,9:29 PM,8:27,,,Durant 12' Jump Shot (6 PTS),18 - 5,-13
+0020901200,48,2,5,1,9:29 PM,8:18,MISS Ellis 2' Layup,,,,
+0020901200,49,4,0,1,9:29 PM,8:18,Turiaf REBOUND (Off:1 Def:0),,,,
+0020901200,50,6,2,1,9:29 PM,8:18,,,Sefolosha S.FOUL (P2.T3),,
+0020901200,51,3,11,1,9:29 PM,8:18,MISS Turiaf Free Throw 1 of 2,,,,
+0020901200,52,4,1,1,9:29 PM,8:18,WARRIORS Rebound,,,,
+0020901200,53,8,0,1,9:30 PM,8:18,,,SUB: Harden FOR Sefolosha,,
+0020901200,54,3,12,1,9:30 PM,8:18,MISS Turiaf Free Throw 2 of 2,,,,
+0020901200,56,4,0,1,9:30 PM,8:16,,,Collison REBOUND (Off:4 Def:2),,
+0020901200,57,2,46,1,9:30 PM,8:02,,,MISS Collison 4' Running Jump Shot,,
+0020901200,58,4,0,1,9:30 PM,8:01,Curry REBOUND (Off:0 Def:1),,,,
+0020901200,59,8,0,1,9:30 PM,7:56,SUB: Williams FOR Turiaf,,,,
+0020901200,60,2,1,1,9:31 PM,7:50,MISS Tolliver 15' Jump Shot,,,,
+0020901200,61,4,0,1,9:31 PM,7:49,Maggette REBOUND (Off:1 Def:0),,,,
+0020901200,62,1,5,1,9:31 PM,7:48,Maggette 2' Layup (4 PTS),,,18 - 7,-11
+0020901200,63,1,65,1,9:31 PM,7:35,,,Green 5' Jump Hook Shot (5 PTS) (Westbrook 1 AST),20 - 7,-13
+0020901200,64,6,2,1,9:31 PM,7:35,Tolliver S.FOUL (P1.T4),,,,
+0020901200,65,3,10,1,9:31 PM,7:35,,,MISS Green Free Throw 1 of 1,,
+0020901200,67,4,0,1,9:31 PM,7:33,Tolliver REBOUND (Off:1 Def:1),,,,
+0020901200,68,2,1,1,9:32 PM,7:22,MISS Maggette 3' Jump Shot,,,,
+0020901200,69,4,0,1,9:32 PM,7:21,,,Collison REBOUND (Off:4 Def:3),,
+0020901200,70,1,52,1,9:32 PM,7:17,,,Durant 1' Alley Oop Dunk (8 PTS) (Westbrook 2 AST),22 - 7,-15
+0020901200,71,6,2,1,9:32 PM,7:01,,,Collison S.FOUL (P1.T4),,
+0020901200,72,3,11,1,9:32 PM,7:01,Tolliver Free Throw 1 of 2 (4 PTS),,,22 - 8,-14
+0020901200,74,3,12,1,9:32 PM,7:01,Tolliver Free Throw 2 of 2 (5 PTS),,,22 - 9,-13
+0020901200,76,2,1,1,9:33 PM,6:45,Tolliver BLOCK (1 BLK),,MISS Green 11' Jump Shot,,
+0020901200,77,4,0,1,9:33 PM,6:44,Williams REBOUND (Off:0 Def:1),,,,
+0020901200,78,6,1,1,9:33 PM,6:35,,,Harden P.FOUL (P1.PN),,
+0020901200,79,3,11,1,9:34 PM,6:35,Williams Free Throw 1 of 2 (1 PTS),,,22 - 10,-12
+0020901200,81,3,12,1,9:34 PM,6:35,Williams Free Throw 2 of 2 (2 PTS),,,22 - 11,-11
+0020901200,83,1,42,1,9:34 PM,6:24,,,Durant 2' Driving Layup (10 PTS),24 - 11,-13
+0020901200,84,6,2,1,9:34 PM,6:24,Ellis S.FOUL (P1.PN),,,,
+0020901200,85,3,10,1,9:35 PM,6:24,,,Durant Free Throw 1 of 1 (11 PTS),25 - 11,-14
+0020901200,87,6,2,1,9:35 PM,6:13,,,Green S.FOUL (P2.PN),,
+0020901200,88,3,11,1,9:35 PM,6:13,Ellis Free Throw 1 of 2 (1 PTS),,,25 - 12,-13
+0020901200,90,8,0,1,9:35 PM,6:13,,,SUB: Maynor FOR Green,,
+0020901200,91,3,12,1,9:36 PM,6:13,Ellis Free Throw 2 of 2 (2 PTS),,,25 - 13,-12
+0020901200,93,1,79,1,9:36 PM,5:55,,,Harden 24' 3PT Pullup Jump Shot (3 PTS) (Maynor 1 AST),28 - 13,-15
+0020901200,94,5,1,1,9:36 PM,5:39,Maggette Bad Pass Turnover (P2.T3),,Westbrook STEAL (2 STL),,
+0020901200,95,2,5,1,9:36 PM,5:35,,,MISS Westbrook 1' Layup,,
+0020901200,96,4,0,1,9:36 PM,5:34,Williams REBOUND (Off:0 Def:2),,,,
+0020901200,97,2,1,1,9:37 PM,5:28,MISS Ellis 24' 3PT Jump Shot,,,,
+0020901200,98,4,0,1,9:37 PM,5:28,,,Thunder Rebound,,
+0020901200,99,1,79,1,9:37 PM,5:08,,,Durant 26' 3PT Pullup Jump Shot (14 PTS),31 - 13,-18
+0020901200,100,9,1,1,9:37 PM,5:04,WARRIORS Timeout: Regular (Full 2 Short 0),,,,
+0020901200,104,2,1,1,9:40 PM,4:55,MISS Tolliver 26' 3PT Jump Shot,,,,
+0020901200,105,4,0,1,9:40 PM,4:53,,,Durant REBOUND (Off:0 Def:3),,
+0020901200,106,2,75,1,9:40 PM,4:33,,,MISS Westbrook 3' Driving Finger Roll Layup,,
+0020901200,107,4,0,1,9:40 PM,4:32,Curry REBOUND (Off:0 Def:2),,,,
+0020901200,108,6,2,1,9:41 PM,4:20,,,Westbrook S.FOUL (P1.PN),,
+0020901200,109,3,11,1,9:41 PM,4:20,Tolliver Free Throw 1 of 2 (6 PTS),,,31 - 14,-17
+0020901200,111,8,0,1,9:41 PM,4:20,SUB: Turiaf FOR Maggette,,,,
+0020901200,112,8,0,1,9:41 PM,4:20,,,SUB: Ibaka FOR Collison,,
+0020901200,113,3,12,1,9:41 PM,4:20,Tolliver Free Throw 2 of 2 (7 PTS),,,31 - 15,-16
+0020901200,115,2,5,1,9:42 PM,4:09,,,MISS Ibaka 2' Layup,,
+0020901200,116,4,0,1,9:42 PM,4:08,Tolliver REBOUND (Off:1 Def:2),,,,
+0020901200,117,2,1,1,9:42 PM,3:59,MISS Curry 26' 3PT Jump Shot,,,,
+0020901200,118,4,0,1,9:42 PM,3:57,,,Maynor REBOUND (Off:0 Def:1),,
+0020901200,119,2,1,1,9:42 PM,3:48,,,MISS Westbrook 17' Jump Shot,,
+0020901200,120,4,0,1,9:42 PM,3:46,Curry REBOUND (Off:0 Def:3),,,,
+0020901200,121,1,56,1,9:42 PM,3:36,Turiaf 3' Running Hook Shot (2 PTS) (Curry 2 AST),,,31 - 17,-14
+0020901200,122,1,84,1,9:43 PM,3:14,,,Maynor 7' Running Bank Shot (2 PTS),33 - 17,-16
+0020901200,123,5,1,1,9:43 PM,3:10,Williams Bad Pass Turnover (P1.T4),,,,
+0020901200,124,5,2,1,9:43 PM,3:00,Tolliver STEAL (1 STL),,Durant Lost Ball Turnover (P1.T1),,
+0020901200,125,1,49,1,9:43 PM,2:55,Tolliver 1' Driving Dunk (9 PTS),,,33 - 19,-14
+0020901200,126,2,58,1,9:43 PM,2:37,,,MISS Ibaka 12' Turnaround Hook Shot,,
+0020901200,127,4,0,1,9:43 PM,2:36,Tolliver REBOUND (Off:1 Def:3),,,,
+0020901200,128,5,41,1,9:44 PM,2:27,Ellis Poss Lost Ball Turnover (P2.T5),,,,
+0020901200,129,9,1,1,9:44 PM,2:27,,,Thunder Timeout: Regular (Reg.1 Short 0),,
+0020901200,132,8,0,1,9:46 PM,2:27,,,SUB: Sefolosha FOR Westbrook,,
+0020901200,133,5,1,1,9:46 PM,2:12,Williams STEAL (1 STL),,Durant Bad Pass Turnover (P2.T2),,
+0020901200,134,1,78,1,9:46 PM,1:59,Curry 10' Floating Jump Shot (2 PTS),,,33 - 21,-12
+0020901200,135,2,42,1,9:47 PM,1:34,,,MISS Maynor 3' Driving Layup,,
+0020901200,136,4,0,1,9:47 PM,1:33,Curry REBOUND (Off:0 Def:4),,,,
+0020901200,137,5,1,1,9:47 PM,1:25,Ellis Bad Pass Turnover (P3.T6),,Durant STEAL (1 STL),,
+0020901200,138,1,88,1,9:47 PM,1:19,,,Harden  Driving Slam Dunk (5 PTS) (Maynor 2 AST),35 - 21,-14
+0020901200,139,1,79,1,9:47 PM,1:01,Ellis 19' Pullup Jump Shot (4 PTS) (Turiaf 1 AST),,,35 - 23,-12
+0020901200,140,1,63,1,9:48 PM,0:47,,,Durant 15' Fadeaway Jumper (16 PTS) (Maynor 3 AST),37 - 23,-14
+0020901200,141,1,75,1,9:48 PM,0:39,Ellis 2' Driving Finger Roll Layup (6 PTS),,,37 - 25,-12
+0020901200,142,6,2,1,9:48 PM,0:33,Turiaf S.FOUL (P2.PN),,,,
+0020901200,143,3,11,1,9:48 PM,0:33,,,Durant Free Throw 1 of 2 (17 PTS),38 - 25,-13
+0020901200,144,8,0,1,9:49 PM,0:33,SUB: Morrow FOR Curry,,,,
+0020901200,145,3,12,1,9:49 PM,0:33,,,Durant Free Throw 2 of 2 (18 PTS),39 - 25,-14
+0020901200,147,2,42,1,9:49 PM,0:27,MISS Ellis 3' Driving Layup,,,,
+0020901200,148,4,0,1,9:49 PM,0:23,,,Sefolosha REBOUND (Off:0 Def:2),,
+0020901200,149,1,1,1,9:49 PM,0:18,,,Harden  3PT Jump Shot (8 PTS) (Maynor 4 AST),42 - 25,-17
+0020901200,150,5,2,1,9:49 PM,0:02,Ellis Lost Ball Turnover (P4.T7),,Durant STEAL (2 STL),,
+0020901200,151,2,1,1,9:50 PM,0:01,,,MISS Durant 50' 3PT Jump Shot,,
+0020901200,152,4,0,1,9:50 PM,0:00,,,Thunder Rebound,,
+0020901200,153,13,0,1,9:50 PM,0:00,,,,42 - 25,-17
+0020901200,155,12,0,2,9:53 PM,12:00,,,,42 - 25,-17
+0020901200,156,1,79,2,9:53 PM,11:46,,,Harden  3PT Pullup Jump Shot (11 PTS) (Green 1 AST),45 - 25,-20
+0020901200,157,6,2,2,9:53 PM,11:28,,,Maynor S.FOUL (P1.T1),,
+0020901200,158,3,11,2,9:54 PM,11:28,Williams Free Throw 1 of 2 (3 PTS),,,45 - 26,-19
+0020901200,160,3,12,2,9:54 PM,11:28,Williams Free Throw 2 of 2 (4 PTS),,,45 - 27,-18
+0020901200,162,2,46,2,9:54 PM,11:11,,,MISS Green 5' Running Jump Shot,,
+0020901200,163,4,0,2,9:54 PM,11:10,Tolliver REBOUND (Off:1 Def:4),,,,
+0020901200,164,2,1,2,9:54 PM,10:58,MISS Morrow 26' 3PT Jump Shot,,,,
+0020901200,165,4,0,2,9:54 PM,10:57,,,Ibaka REBOUND (Off:0 Def:1),,
+0020901200,166,2,1,2,9:55 PM,10:47,Ellis BLOCK (2 BLK),,MISS Maynor 4' Jump Shot,,
+0020901200,167,4,0,2,9:55 PM,10:45,,,Maynor REBOUND (Off:1 Def:1),,
+0020901200,168,2,1,2,9:55 PM,10:41,,,MISS Green 27' 3PT Jump Shot,,
+0020901200,169,4,0,2,9:55 PM,10:40,,,Thunder Rebound,,
+0020901200,170,8,0,2,9:55 PM,10:40,SUB: Curry FOR Ellis,,,,
+0020901200,171,2,1,2,9:55 PM,10:36,,,MISS Harden 18' Jump Shot,,
+0020901200,172,4,0,2,9:55 PM,10:35,Curry REBOUND (Off:0 Def:5),,,,
+0020901200,173,1,79,2,9:55 PM,10:30,Curry 28' 3PT Pullup Jump Shot (5 PTS),,,45 - 30,-15
+0020901200,174,2,1,2,9:56 PM,10:09,,,MISS Maynor 25' 3PT Jump Shot,,
+0020901200,175,4,0,2,9:56 PM,10:07,Tolliver REBOUND (Off:1 Def:5),,,,
+0020901200,176,2,1,2,9:56 PM,9:56,MISS Curry 25' 3PT Jump Shot,,,,
+0020901200,177,4,0,2,9:56 PM,9:54,,,Maynor REBOUND (Off:1 Def:2),,
+0020901200,178,2,1,2,9:56 PM,9:47,,,MISS Sefolosha 20' Jump Shot,,
+0020901200,179,4,0,2,9:56 PM,9:46,WARRIORS Rebound,,,,
+0020901200,180,1,80,2,9:56 PM,9:38,Morrow 26' 3PT Step Back Jump Shot (3 PTS) (Curry 3 AST),,,45 - 33,-12
+0020901200,181,9,1,2,9:57 PM,9:30,,,Thunder Timeout: Regular (Reg.2 Short 0),,
+0020901200,184,8,0,2,9:59 PM,9:30,,,SUB: Westbrook FOR Maynor,,
+0020901200,185,1,42,2,9:59 PM,9:21,,,Green 2' Driving Layup (7 PTS) (Westbrook 3 AST),47 - 33,-14
+0020901200,186,2,79,2,10:00 PM,9:05,MISS Tolliver  3PT Pullup Jump Shot,,,,
+0020901200,187,4,0,2,10:00 PM,9:03,,,Ibaka REBOUND (Off:0 Def:2),,
+0020901200,188,2,1,2,10:00 PM,8:45,,,MISS Green 22' Jump Shot,,
+0020901200,189,4,0,2,10:00 PM,8:43,Morrow REBOUND (Off:0 Def:1),,,,
+0020901200,190,2,5,2,10:00 PM,8:37,MISS Morrow 2' Layup,,,,
+0020901200,191,4,0,2,10:00 PM,8:34,,,Green REBOUND (Off:0 Def:1),,
+0020901200,192,2,1,2,10:00 PM,8:31,,,MISS Green 4' Jump Shot,,
+0020901200,193,4,0,2,10:00 PM,8:29,Williams REBOUND (Off:0 Def:3),,,,
+0020901200,194,1,42,2,10:00 PM,8:24,Curry 3' Driving Layup (7 PTS) (Williams 1 AST),,,47 - 35,-12
+0020901200,195,2,1,2,10:01 PM,8:02,,,MISS Sefolosha 19' Jump Shot,,
+0020901200,196,4,0,2,10:01 PM,7:59,,,Ibaka REBOUND (Off:1 Def:2),,
+0020901200,197,2,5,2,10:01 PM,7:58,,,MISS Ibaka 3' Layup,,
+0020901200,198,4,0,2,10:01 PM,7:56,Tolliver REBOUND (Off:1 Def:6),,,,
+0020901200,199,1,73,2,10:01 PM,7:48,Curry 3' Driving Reverse Layup (9 PTS),,,47 - 37,-10
+0020901200,200,2,5,2,10:01 PM,7:31,,,MISS Westbrook 3' Layup,,
+0020901200,201,4,0,2,10:01 PM,7:30,Williams REBOUND (Off:0 Def:4),,,,
+0020901200,202,6,2,2,10:01 PM,7:24,,,Ibaka S.FOUL (P1.T2),,
+0020901200,203,3,11,2,10:02 PM,7:24,Curry Free Throw 1 of 2 (10 PTS),,,47 - 38,-9
+0020901200,205,8,0,2,10:02 PM,7:24,SUB: C. Hunter FOR Turiaf,,,,
+0020901200,206,8,0,2,10:02 PM,7:24,,,SUB: Durant FOR Ibaka,,
+0020901200,207,3,12,2,10:03 PM,7:24,MISS Curry Free Throw 2 of 2,,,,
+0020901200,209,4,0,2,10:03 PM,7:23,,,Sefolosha REBOUND (Off:0 Def:3),,
+0020901200,210,1,79,2,10:03 PM,7:00,,,Westbrook 20' Pullup Jump Shot (9 PTS) (Durant 2 AST),49 - 38,-11
+0020901200,211,2,1,2,10:04 PM,6:33,MISS Morrow 15' Jump Shot,,Harden BLOCK (1 BLK),,
+0020901200,212,4,0,2,10:04 PM,6:30,,,Green REBOUND (Off:0 Def:2),,
+0020901200,213,6,2,2,10:04 PM,6:26,Tolliver S.FOUL (P2.T1),,,,
+0020901200,214,3,11,2,10:04 PM,6:26,,,Durant Free Throw 1 of 2 (19 PTS),50 - 38,-12
+0020901200,216,3,12,2,10:04 PM,6:26,,,Durant Free Throw 2 of 2 (20 PTS),51 - 38,-13
+0020901200,264,2,75,2,10:05 PM,6:12,MISS C. Hunter 1' Driving Finger Roll Layup,,Durant BLOCK (1 BLK),,
+0020901200,275,4,0,2,10:05 PM,6:10,Tolliver REBOUND (Off:2 Def:6),,,,
+0020901200,218,1,8,2,10:05 PM,6:05,Tolliver 2' Slam Dunk (11 PTS) (Williams 2 AST),,,51 - 40,-11
+0020901200,219,1,80,2,10:05 PM,5:45,,,Durant 26' 3PT Step Back Jump Shot (23 PTS) (Green 2 AST),54 - 40,-14
+0020901200,220,1,78,2,10:06 PM,5:26,Curry 9' Floating Jump Shot (12 PTS) (Tolliver 1 AST),,,54 - 42,-12
+0020901200,221,6,2,2,10:06 PM,5:08,C. Hunter S.FOUL (P1.T2),,,,
+0020901200,222,9,4,2,10:06 PM,5:08,,,,,
+0020901200,224,3,11,2,10:09 PM,5:08,,,Westbrook Free Throw 1 of 2 (10 PTS),55 - 42,-13
+0020901200,226,8,0,2,10:10 PM,5:08,SUB: George FOR C. Hunter,,,,
+0020901200,227,3,12,2,10:10 PM,5:08,,,Westbrook Free Throw 2 of 2 (11 PTS),56 - 42,-14
+0020901200,229,2,78,2,10:10 PM,4:52,MISS Morrow 11' Floating Jump Shot,,,,
+0020901200,230,4,0,2,10:10 PM,4:51,,,Durant REBOUND (Off:0 Def:4),,
+0020901200,231,2,1,2,10:10 PM,4:31,,,MISS Green 20' Jump Shot,,
+0020901200,232,4,0,2,10:10 PM,4:29,Williams REBOUND (Off:0 Def:5),,,,
+0020901200,233,2,1,2,10:11 PM,4:18,MISS Williams 18' Jump Shot,,,,
+0020901200,234,4,0,2,10:11 PM,4:17,,,Durant REBOUND (Off:0 Def:5),,
+0020901200,235,2,1,2,10:11 PM,4:09,,,MISS Harden 25' 3PT Jump Shot,,
+0020901200,236,4,0,2,10:11 PM,4:08,George REBOUND (Off:0 Def:1),,,,
+0020901200,237,1,79,2,10:11 PM,3:57,George 27' 3PT Pullup Jump Shot (3 PTS) (Tolliver 2 AST),,,56 - 45,-11
+0020901200,238,6,4,2,10:11 PM,3:39,,,Westbrook OFF.Foul (P2),,
+0020901200,239,5,5,2,10:11 PM,3:39,,,Westbrook Foul Turnover (P1.T3),,
+0020901200,240,8,0,2,10:12 PM,3:39,,,SUB: Maynor FOR Harden,,
+0020901200,241,2,47,2,10:12 PM,3:25,MISS Tolliver 10' Turnaround Jump Shot,,,,
+0020901200,242,4,0,2,10:12 PM,3:24,,,Sefolosha REBOUND (Off:0 Def:4),,
+0020901200,243,2,1,2,10:12 PM,3:07,,,MISS Green 17' Jump Shot,,
+0020901200,244,4,0,2,10:12 PM,3:04,,,Westbrook REBOUND (Off:1 Def:0),,
+0020901200,245,2,1,2,10:12 PM,3:02,Tolliver BLOCK (2 BLK),,MISS Westbrook 5' Jump Shot,,
+0020901200,246,4,0,2,10:12 PM,2:59,,,Sefolosha REBOUND (Off:1 Def:4),,
+0020901200,247,2,1,2,10:12 PM,2:57,,,MISS Maynor 6' Jump Shot,,
+0020901200,248,4,0,2,10:12 PM,2:54,Tolliver REBOUND (Off:2 Def:7),,,,
+0020901200,249,5,1,2,10:13 PM,2:50,Curry Bad Pass Turnover (P1.T8),,Green STEAL (1 STL),,
+0020901200,250,5,39,2,10:13 PM,2:50,,,Green Step Out of Bounds Turnover (P1.T4),,
+0020901200,251,9,1,2,10:13 PM,2:50,WARRIORS Timeout: Regular (Full 3 Short 0),,,,
+0020901200,256,7,2,2,10:15 PM,2:42,,,Durant Violation:Defensive Goaltending,,
+0020901200,254,1,5,2,10:15 PM,2:42,Williams 2' Layup (6 PTS) (Curry 4 AST),,,56 - 47,-9
+0020901200,255,6,2,2,10:15 PM,2:42,,,Maynor S.FOUL (P2.T3),,
+0020901200,257,3,10,2,10:16 PM,2:42,Williams Free Throw 1 of 1 (7 PTS),,,56 - 48,-8
+0020901200,259,1,52,2,10:16 PM,2:31,,,Green 3' Alley Oop Dunk (9 PTS) (Westbrook 4 AST),58 - 48,-10
+0020901200,260,5,1,2,10:16 PM,2:24,Tolliver Bad Pass Turnover (P1.T9),,Westbrook STEAL (3 STL),,
+0020901200,261,5,1,2,10:16 PM,2:22,Williams STEAL (2 STL),,Westbrook Bad Pass Turnover (P2.T5),,
+0020901200,262,1,42,2,10:17 PM,2:04,Williams 1' Driving Layup (9 PTS),,,58 - 50,-8
+0020901200,263,6,1,2,10:17 PM,1:49,George P.FOUL (P1.T3),,,,
+0020901200,265,6,4,2,10:18 PM,1:42,,,Green OFF.Foul (P3),,
+0020901200,267,5,5,2,10:18 PM,1:42,,,Green Foul Turnover (P2.T6),,
+0020901200,268,8,0,2,10:18 PM,1:42,,,SUB: Collison FOR Green,,
+0020901200,269,6,1,2,10:18 PM,1:31,,,Sefolosha P.FOUL (P3.T4),,
+0020901200,270,8,0,2,10:18 PM,1:31,,,SUB: Harden FOR Sefolosha,,
+0020901200,271,6,1,2,10:19 PM,1:28,,,Maynor P.FOUL (P3.PN),,
+0020901200,272,3,11,2,10:19 PM,1:28,Morrow Free Throw 1 of 2 (4 PTS),,,58 - 51,-7
+0020901200,276,8,0,2,10:19 PM,1:28,,,SUB: Ollie FOR Maynor,,
+0020901200,277,7,1,2,10:19 PM,1:28,,,Thunder Violation: Delay of game Violation,,
+0020901200,278,3,12,2,10:20 PM,1:28,Morrow Free Throw 2 of 2 (5 PTS),,,58 - 52,-6
+0020901200,285,2,45,2,10:20 PM,1:20,,,MISS Westbrook 17' Jump Shot,,
+0020901200,290,4,0,2,10:20 PM,1:19,,,Collison REBOUND (Off:5 Def:3),,
+0020901200,305,2,53,2,10:20 PM,1:19,,,MISS Collison 1' Tip Shot,,
+0020901200,280,4,0,2,10:20 PM,1:18,Williams REBOUND (Off:0 Def:6),,,,
+0020901200,281,2,1,2,10:20 PM,1:08,MISS Williams 20' Jump Shot,,,,
+0020901200,282,4,0,2,10:20 PM,1:07,,,Durant REBOUND (Off:0 Def:6),,
+0020901200,283,1,42,2,10:20 PM,1:06,,,Harden 2' Driving Layup (13 PTS) (Durant 3 AST),60 - 52,-8
+0020901200,284,6,2,2,10:20 PM,1:06,Williams S.FOUL (P1.PN),,,,
+0020901200,286,3,10,2,10:21 PM,1:06,,,MISS Harden Free Throw 1 of 1,,
+0020901200,288,4,0,2,10:21 PM,1:04,Tolliver REBOUND (Off:2 Def:8),,,,
+0020901200,289,6,1,2,10:21 PM,0:57,,,Ollie P.FOUL (P1.PN),,
+0020901200,291,3,11,2,10:21 PM,0:57,MISS Tolliver Free Throw 1 of 2,,,,
+0020901200,292,4,1,2,10:21 PM,0:57,WARRIORS Rebound,,,,
+0020901200,293,3,12,2,10:21 PM,0:57,Tolliver Free Throw 2 of 2 (12 PTS),,,60 - 53,-7
+0020901200,295,1,79,2,10:22 PM,0:47,,,Durant 27' 3PT Pullup Jump Shot (26 PTS) (Westbrook 5 AST),63 - 53,-10
+0020901200,296,1,79,2,10:22 PM,0:39,Curry 26' 3PT Pullup Jump Shot (15 PTS),,,63 - 56,-7
+0020901200,297,5,41,2,10:22 PM,0:32,,,Westbrook Poss Lost Ball Turnover (P3.T7),,
+0020901200,298,2,5,2,10:23 PM,0:11,MISS Curry 3' Layup,,,,
+0020901200,299,4,0,2,10:23 PM,0:09,,,Collison REBOUND (Off:5 Def:4),,
+0020901200,300,5,41,2,10:23 PM,0:06,,,Westbrook Poss Lost Ball Turnover (P4.T8),,
+0020901200,302,2,1,2,10:23 PM,0:00,MISS Curry 9' Jump Shot,,,,
+0020901200,303,4,0,2,10:23 PM,0:00,WARRIORS Rebound,,,,
+0020901200,304,13,0,2,10:23 PM,0:00,,,,63 - 56,-7
+0020901200,307,12,0,3,10:40 PM,12:00,,,,63 - 56,-7
+0020901200,308,2,46,3,10:40 PM,11:37,,,MISS Sefolosha 7' Running Jump Shot,,
+0020901200,309,4,0,3,10:40 PM,11:35,Ellis REBOUND (Off:0 Def:1),,,,
+0020901200,310,5,1,3,10:40 PM,11:26,Williams Bad Pass Turnover (P2.T10),,,,
+0020901200,311,1,42,3,10:41 PM,11:04,,,Collison 1' Driving Layup (4 PTS),65 - 56,-9
+0020901200,312,2,1,3,10:41 PM,10:41,MISS Maggette 5' Jump Shot,,Durant BLOCK (2 BLK),,
+0020901200,313,4,0,3,10:41 PM,10:38,,,Collison REBOUND (Off:5 Def:5),,
+0020901200,314,1,42,3,10:41 PM,10:34,,,Green 2' Driving Layup (11 PTS) (Durant 4 AST),67 - 56,-11
+0020901200,315,2,1,3,10:42 PM,10:25,MISS Tolliver 18' Jump Shot,,,,
+0020901200,316,4,0,3,10:42 PM,10:23,,,Durant REBOUND (Off:0 Def:7),,
+0020901200,317,2,1,3,10:42 PM,10:18,,,MISS Durant 27' 3PT Jump Shot,,
+0020901200,318,4,0,3,10:42 PM,10:17,,,Westbrook REBOUND (Off:2 Def:0),,
+0020901200,319,1,1,3,10:42 PM,10:00,,,Sefolosha 16' Jump Shot (2 PTS) (Collison 1 AST),69 - 56,-13
+0020901200,320,9,1,3,10:42 PM,9:59,WARRIORS Timeout: Regular (Full 4 Short 0),,,,
+0020901200,324,2,46,3,10:45 PM,9:40,MISS Tolliver 5' Running Jump Shot,,,,
+0020901200,325,4,0,3,10:45 PM,9:38,,,Westbrook REBOUND (Off:2 Def:1),,
+0020901200,326,1,42,3,10:45 PM,9:21,,,Collison 3' Driving Layup (6 PTS),71 - 56,-15
+0020901200,327,5,1,3,10:45 PM,9:12,Curry Bad Pass Turnover (P2.T11),,,,
+0020901200,328,2,47,3,10:46 PM,8:54,,,MISS Collison 13' Turnaround Jump Shot,,
+0020901200,329,4,0,3,10:46 PM,8:53,Maggette REBOUND (Off:1 Def:1),,,,
+0020901200,330,1,1,3,10:46 PM,8:45,Maggette 19' Jump Shot (6 PTS),,,71 - 58,-13
+0020901200,331,2,79,3,10:46 PM,8:31,,,MISS Durant 26' 3PT Pullup Jump Shot,,
+0020901200,332,4,0,3,10:46 PM,8:29,Tolliver REBOUND (Off:2 Def:9),,,,
+0020901200,333,1,88,3,10:46 PM,8:18,Williams 1' Driving Slam Dunk (11 PTS) (Maggette 1 AST),,,71 - 60,-11
+0020901200,334,5,1,3,10:47 PM,8:01,,,Westbrook Bad Pass Turnover (P5.T9),,
+0020901200,335,5,1,3,10:47 PM,7:50,Curry Bad Pass Turnover (P3.T12),,,,
+0020901200,336,2,1,3,10:47 PM,7:32,,,MISS Westbrook 26' 3PT Jump Shot,,
+0020901200,337,4,0,3,10:47 PM,7:31,Maggette REBOUND (Off:1 Def:2),,,,
+0020901200,338,1,79,3,10:47 PM,7:25,Curry 26' 3PT Pullup Jump Shot (18 PTS) (Maggette 2 AST),,,71 - 63,-8
+0020901200,339,1,44,3,10:48 PM,7:06,,,Durant 2' Reverse Layup (28 PTS) (Westbrook 6 AST),73 - 63,-10
+0020901200,340,6,1,3,10:48 PM,6:56,,,Sefolosha P.FOUL (P4.T1),,
+0020901200,341,1,79,3,10:48 PM,6:43,Williams 26' 3PT Pullup Jump Shot (14 PTS) (Maggette 3 AST),,,73 - 66,-7
+0020901200,342,1,75,3,10:49 PM,6:28,,,Westbrook 1' Driving Finger Roll Layup (13 PTS),75 - 66,-9
+0020901200,343,1,79,3,10:49 PM,6:19,Williams 25' 3PT Pullup Jump Shot (17 PTS) (Curry 5 AST),,,75 - 69,-6
+0020901200,344,2,1,3,10:49 PM,6:00,,,MISS Durant 17' Jump Shot,,
+0020901200,345,4,0,3,10:49 PM,5:59,,,Westbrook REBOUND (Off:3 Def:1),,
+0020901200,346,1,66,3,10:49 PM,5:58,,,Westbrook 6' Jump Bank Shot (15 PTS),77 - 69,-8
+0020901200,347,6,2,3,10:49 PM,5:58,Tolliver S.FOUL (P3.T1),,,,
+0020901200,348,8,0,3,10:49 PM,5:58,,,SUB: Harden FOR Sefolosha,,
+0020901200,349,3,10,3,10:50 PM,5:58,,,Westbrook Free Throw 1 of 1 (16 PTS),78 - 69,-9
+0020901200,351,1,79,3,10:50 PM,5:45,Ellis 26' 3PT Pullup Jump Shot (9 PTS),,,78 - 72,-6
+0020901200,352,2,1,3,10:51 PM,5:30,,,MISS Durant 19' Jump Shot,,
+0020901200,354,4,0,3,10:51 PM,5:28,,,Collison REBOUND (Off:6 Def:5),,
+0020901200,353,2,4,3,10:51 PM,5:28,,,MISS Collison 2' Tip Shot,,
+0020901200,355,4,0,3,10:51 PM,5:27,Curry REBOUND (Off:0 Def:6),,,,
+0020901200,356,1,79,3,10:51 PM,5:19,Ellis 28' 3PT Pullup Jump Shot (12 PTS) (Williams 3 AST),,,78 - 75,-3
+0020901200,357,9,1,3,10:51 PM,5:18,,,Thunder Timeout: Regular (Reg.3 Short 0),,
+0020901200,359,8,0,3,10:53 PM,5:18,,,SUB: Ibaka FOR Collison,,
+0020901200,360,6,1,3,10:54 PM,5:03,Ellis P.FOUL (P2.T2),,,,
+0020901200,361,1,79,3,10:54 PM,4:53,,,Green 24' 3PT Pullup Jump Shot (14 PTS) (Westbrook 7 AST),81 - 75,-6
+0020901200,362,1,1,3,10:55 PM,4:39,Maggette  3PT Jump Shot (9 PTS) (Curry 6 AST),,,81 - 78,-3
+0020901200,363,2,80,3,10:55 PM,4:15,,,MISS Durant 26' 3PT Step Back Jump Shot,,
+0020901200,364,4,0,3,10:55 PM,4:13,,,Thunder Rebound,,
+0020901200,365,2,79,3,10:55 PM,4:11,,,MISS Green 26' 3PT Pullup Jump Shot,,
+0020901200,366,4,0,3,10:55 PM,4:10,Tolliver REBOUND (Off:2 Def:10),,,,
+0020901200,367,5,13,3,10:56 PM,4:00,Curry Backcourt Turnover (P4.T13),,,,
+0020901200,368,1,47,3,10:56 PM,3:48,,,Durant 6' Turnaround Jump Shot (30 PTS) (Harden 1 AST),83 - 78,-5
+0020901200,369,2,79,3,10:56 PM,3:39,MISS Ellis 28' 3PT Pullup Jump Shot,,,,
+0020901200,370,4,0,3,10:56 PM,3:38,Curry REBOUND (Off:1 Def:6),,,,
+0020901200,371,1,63,3,10:56 PM,3:37,Curry 12' Fadeaway Jumper (20 PTS),,,83 - 80,-3
+0020901200,372,6,1,3,10:57 PM,3:17,Maggette P.FOUL (P1.T3),,,,
+0020901200,373,6,1,3,10:57 PM,3:11,Maggette P.FOUL (P2.T4),,,,
+0020901200,374,2,79,3,10:57 PM,3:02,,,MISS Durant 14' Pullup Jump Shot,,
+0020901200,375,4,0,3,10:58 PM,3:01,Maggette REBOUND (Off:1 Def:3),,,,
+0020901200,376,2,1,3,10:58 PM,2:53,MISS Maggette 7' Jump Shot,,Ibaka BLOCK (1 BLK),,
+0020901200,377,4,0,3,10:58 PM,2:52,,,Ibaka REBOUND (Off:1 Def:3),,
+0020901200,378,1,42,3,10:58 PM,2:49,,,Durant 3' Driving Layup (32 PTS) (Westbrook 8 AST),85 - 80,-5
+0020901200,379,5,8,3,10:58 PM,2:30,Maggette 3 Second Violation Turnover (P3.T14),,,,
+0020901200,380,2,5,3,10:59 PM,2:16,,,MISS Westbrook 3' Layup,,
+0020901200,381,4,0,3,10:59 PM,2:14,,,Westbrook REBOUND (Off:4 Def:1),,
+0020901200,382,2,5,3,10:59 PM,2:13,Williams BLOCK (1 BLK),,MISS Westbrook 2' Layup,,
+0020901200,383,4,0,3,10:59 PM,2:10,,,Green REBOUND (Off:1 Def:2),,
+0020901200,384,2,5,3,10:59 PM,2:08,,,MISS Ibaka 1' Layup,,
+0020901200,386,4,0,3,10:59 PM,2:07,,,Durant REBOUND (Off:1 Def:7),,
+0020901200,385,1,92,3,10:59 PM,2:07,,,Durant 1' Putback Slam Dunk (34 PTS),87 - 80,-7
+0020901200,387,6,1,3,10:59 PM,1:54,,,Durant P.FOUL (P1.T2),,
+0020901200,388,3,11,3,11:00 PM,1:54,Maggette Free Throw 1 of 2 (10 PTS),,,87 - 81,-6
+0020901200,390,8,0,3,11:00 PM,1:54,SUB: Morrow FOR Curry,,,,
+0020901200,391,8,0,3,11:00 PM,1:54,SUB: Turiaf FOR Tolliver,,,,
+0020901200,392,8,0,3,11:00 PM,1:54,,,SUB: Collison FOR Green,,
+0020901200,393,3,12,3,11:00 PM,1:54,Maggette Free Throw 2 of 2 (11 PTS),,,87 - 82,-5
+0020901200,395,2,1,3,11:00 PM,1:38,,,MISS Durant 13' Jump Shot,,
+0020901200,396,4,0,3,11:00 PM,1:37,,,Durant REBOUND (Off:2 Def:7),,
+0020901200,397,2,5,3,11:00 PM,1:36,Turiaf BLOCK (1 BLK),,MISS Durant 3' Layup,,
+0020901200,398,4,0,3,11:01 PM,1:33,Ellis REBOUND (Off:0 Def:2),,,,
+0020901200,399,6,2,3,11:01 PM,1:28,,,Ibaka S.FOUL (P2.PN),,
+0020901200,400,3,11,3,11:01 PM,1:28,Maggette Free Throw 1 of 2 (12 PTS),,,87 - 83,-4
+0020901200,402,3,12,3,11:02 PM,1:28,Maggette Free Throw 2 of 2 (13 PTS),,,87 - 84,-3
+0020901200,404,2,42,3,11:02 PM,1:08,Turiaf BLOCK (2 BLK),,MISS Durant 1' Driving Layup,,
+0020901200,405,4,0,3,11:02 PM,1:08,,,Thunder Rebound,,
+0020901200,406,2,47,3,11:02 PM,1:04,,,MISS Durant 12' Turnaround Jump Shot,,
+0020901200,407,4,0,3,11:03 PM,1:02,,,Harden REBOUND (Off:1 Def:0),,
+0020901200,408,2,46,3,11:03 PM,0:54,,,MISS Westbrook 10' Running Jump Shot,,
+0020901200,409,4,0,3,11:03 PM,0:52,,,Collison REBOUND (Off:7 Def:5),,
+0020901200,410,1,42,3,11:03 PM,0:42,,,Harden 3' Driving Layup (15 PTS),89 - 84,-5
+0020901200,411,6,2,3,11:03 PM,0:42,Turiaf S.FOUL (P3.PN),,,,
+0020901200,412,3,10,3,11:03 PM,0:42,,,Harden Free Throw 1 of 1 (16 PTS),90 - 84,-6
+0020901200,414,1,46,3,11:03 PM,0:38,Morrow 13' Running Jump Shot (7 PTS) (Ellis 1 AST),,,90 - 86,-4
+0020901200,415,2,73,3,11:04 PM,0:26,,,MISS Durant 2' Driving Reverse Layup,,
+0020901200,417,4,0,3,11:04 PM,0:25,,,Ibaka REBOUND (Off:2 Def:3),,
+0020901200,416,2,5,3,11:04 PM,0:25,,,MISS Ibaka 2' Layup,,
+0020901200,418,4,0,3,11:04 PM,0:24,Turiaf REBOUND (Off:1 Def:1),,,,
+0020901200,419,2,79,3,11:04 PM,0:03,MISS Ellis 28' 3PT Pullup Jump Shot,,,,
+0020901200,420,4,0,3,11:04 PM,0:02,,,Ibaka REBOUND (Off:2 Def:4),,
+0020901200,421,13,0,3,11:04 PM,0:00,,,,90 - 86,-4
+0020901200,423,12,0,4,11:07 PM,12:00,,,,90 - 86,-4
+0020901200,424,2,1,4,11:07 PM,11:46,MISS Ellis 15' Jump Shot,,,,
+0020901200,425,4,0,4,11:07 PM,11:45,,,Sefolosha REBOUND (Off:1 Def:5),,
+0020901200,426,1,46,4,11:07 PM,11:33,,,Harden 5' Running Jump Shot (18 PTS),92 - 86,-6
+0020901200,427,2,58,4,11:08 PM,11:17,MISS Turiaf 5' Turnaround Hook Shot,,,,
+0020901200,429,4,0,4,11:08 PM,11:16,Turiaf REBOUND (Off:2 Def:1),,,,
+0020901200,428,1,5,4,11:08 PM,11:15,Turiaf 3' Layup (4 PTS),,,92 - 88,-4
+0020901200,430,7,1,4,11:08 PM,11:14,WARRIORS Violation: Delay of game Violation,,,,
+0020901200,431,2,1,4,11:08 PM,10:59,Turiaf BLOCK (3 BLK),,MISS Green 4' Jump Shot,,
+0020901200,432,4,0,4,11:08 PM,10:58,Ellis REBOUND (Off:0 Def:3),,,,
+0020901200,433,1,8,4,11:08 PM,10:57,Maggette 2' Slam Dunk (15 PTS) (Ellis 2 AST),,,92 - 90,-2
+0020901200,434,2,1,4,11:09 PM,10:40,,,MISS Westbrook 12' Jump Shot,,
+0020901200,436,4,0,4,11:09 PM,10:38,,,Ibaka REBOUND (Off:3 Def:4),,
+0020901200,435,1,4,4,11:09 PM,10:38,,,Ibaka  Tip Shot (2 PTS),94 - 90,-4
+0020901200,437,1,79,4,11:09 PM,10:14,Williams 25' 3PT Pullup Jump Shot (20 PTS) (Morrow 1 AST),,,94 - 93,-1
+0020901200,438,6,4,4,11:09 PM,9:53,,,Westbrook OFF.Foul (P3),,
+0020901200,439,5,5,4,11:09 PM,9:53,,,Westbrook Foul Turnover (P6.T10),,
+0020901200,440,8,0,4,11:09 PM,9:53,SUB: Tolliver FOR Maggette,,,,
+0020901200,441,8,0,4,11:10 PM,9:53,,,SUB: Maynor FOR Westbrook,,
+0020901200,442,2,80,4,11:10 PM,9:34,MISS Ellis 19' Step Back Jump Shot,,,,
+0020901200,443,4,0,4,11:10 PM,9:33,,,Ibaka REBOUND (Off:3 Def:5),,
+0020901200,444,5,1,4,11:10 PM,9:20,Williams STEAL (3 STL),,Maynor Bad Pass Turnover (P1.T11),,
+0020901200,445,1,75,4,11:10 PM,9:14,Ellis 2' Driving Finger Roll Layup (14 PTS) (Morrow 2 AST),,,94 - 95,1
+0020901200,446,9,1,4,11:11 PM,9:04,,,Thunder Timeout: Regular (Reg.4 Short 0),,
+0020901200,448,2,1,4,11:14 PM,8:46,,,MISS Harden 30' 3PT Jump Shot,,
+0020901200,449,4,0,4,11:14 PM,8:44,Williams REBOUND (Off:0 Def:7),,,,
+0020901200,450,2,86,4,11:14 PM,8:22,MISS Ellis 16' Turnaround Fadeaway Shot,,,,
+0020901200,451,4,0,4,11:14 PM,8:20,Ellis REBOUND (Off:1 Def:3),,,,
+0020901200,452,2,42,4,11:14 PM,8:09,MISS Ellis 3' Driving Layup,,Green BLOCK (1 BLK),,
+0020901200,453,4,0,4,11:14 PM,8:09,WARRIORS Rebound,,,,
+0020901200,454,8,0,4,11:14 PM,8:09,,,SUB: Durant FOR Green,,
+0020901200,455,2,79,4,11:15 PM,8:03,MISS Ellis 13' Pullup Jump Shot,,,,
+0020901200,456,4,0,4,11:15 PM,8:02,Tolliver REBOUND (Off:3 Def:10),,,,
+0020901200,457,1,49,4,11:15 PM,7:52,Turiaf 2' Driving Dunk (6 PTS) (Ellis 3 AST),,,94 - 97,3
+0020901200,458,6,2,4,11:15 PM,7:52,,,Ibaka S.FOUL (P3.T1),,
+0020901200,459,3,10,4,11:15 PM,7:52,Turiaf Free Throw 1 of 1 (7 PTS),,,94 - 98,4
+0020901200,461,2,5,4,11:16 PM,7:39,,,MISS Sefolosha 3' Layup,,
+0020901200,463,4,0,4,11:16 PM,7:38,,,Ibaka REBOUND (Off:4 Def:5),,
+0020901200,462,1,92,4,11:16 PM,7:38,,,Ibaka 1' Putback Slam Dunk (4 PTS),96 - 98,2
+0020901200,464,2,1,4,11:16 PM,7:17,MISS Williams 4' Jump Shot,,Ibaka BLOCK (2 BLK),,
+0020901200,465,4,0,4,11:16 PM,7:16,,,Durant REBOUND (Off:2 Def:8),,
+0020901200,466,2,47,4,11:16 PM,7:02,,,MISS Durant 12' Turnaround Jump Shot,,
+0020901200,467,4,0,4,11:16 PM,7:01,Williams REBOUND (Off:0 Def:8),,,,
+0020901200,468,1,5,4,11:17 PM,6:46,Tolliver 1' Layup (14 PTS) (Turiaf 2 AST),,,96 - 100,4
+0020901200,469,2,79,4,11:17 PM,6:24,,,MISS Durant 14' Pullup Jump Shot,,
+0020901200,470,4,0,4,11:17 PM,6:22,,,Sefolosha REBOUND (Off:2 Def:5),,
+0020901200,471,2,80,4,11:17 PM,6:19,,,MISS Harden 26' 3PT Step Back Jump Shot,,
+0020901200,472,4,0,4,11:17 PM,6:18,Williams REBOUND (Off:0 Def:9),,,,
+0020901200,473,2,1,4,11:17 PM,6:10,MISS Ellis 22' Jump Shot,,,,
+0020901200,474,4,0,4,11:17 PM,6:08,,,Ibaka REBOUND (Off:4 Def:6),,
+0020901200,475,1,79,4,11:18 PM,5:56,,,Sefolosha 25' 3PT Pullup Jump Shot (5 PTS) (Maynor 5 AST),99 - 100,1
+0020901200,476,1,44,4,11:18 PM,5:31,Ellis 2' Reverse Layup (16 PTS) (Turiaf 3 AST),,,99 - 102,3
+0020901200,477,6,2,4,11:18 PM,5:12,Turiaf S.FOUL (P4.T1),,,,
+0020901200,478,9,4,4,11:19 PM,5:12,,,,,
+0020901200,480,8,0,4,11:21 PM,5:12,,,SUB: Westbrook FOR Harden,,
+0020901200,481,8,0,4,11:21 PM,5:12,,,SUB: Green FOR Maynor,,
+0020901200,482,3,11,4,11:21 PM,5:12,,,Durant Free Throw 1 of 2 (35 PTS),100 - 102,2
+0020901200,484,3,12,4,11:21 PM,5:12,,,Durant Free Throw 2 of 2 (36 PTS),101 - 102,1
+0020901200,486,5,1,4,11:22 PM,4:58,Williams Bad Pass Turnover (P3.T15),,Green STEAL (2 STL),,
+0020901200,487,1,88,4,11:22 PM,4:53,,,Ibaka 1' Driving Slam Dunk (6 PTS) (Westbrook 9 AST),103 - 102,-1
+0020901200,488,1,63,4,11:22 PM,4:36,Ellis 11' Fadeaway Jumper (18 PTS),,,103 - 104,1
+0020901200,489,1,8,4,11:23 PM,4:13,,,Ibaka 1' Slam Dunk (8 PTS) (Durant 5 AST),105 - 104,-1
+0020901200,490,1,42,4,11:23 PM,3:56,Ellis 2' Driving Layup (20 PTS) (Turiaf 4 AST),,,105 - 106,1
+0020901200,491,1,42,4,11:23 PM,3:30,,,Green 2' Driving Layup (16 PTS),107 - 106,-1
+0020901200,492,1,75,4,11:24 PM,3:12,Ellis 1' Driving Finger Roll Layup (22 PTS),,,107 - 108,1
+0020901200,493,5,2,4,11:24 PM,2:47,Morrow STEAL (1 STL),,Green Lost Ball Turnover (P3.T12),,
+0020901200,494,2,5,4,11:24 PM,2:41,MISS Williams 2' Layup,,,,
+0020901200,495,4,0,4,11:24 PM,2:39,,,Ibaka REBOUND (Off:4 Def:7),,
+0020901200,496,6,2,4,11:25 PM,2:22,Williams S.FOUL (P2.T2),,,,
+0020901200,497,9,1,4,11:25 PM,2:22,WARRIORS Timeout: Regular (Full 5 Short 0),,,,
+0020901200,499,8,0,4,11:27 PM,2:22,SUB: Curry FOR Williams,,,,
+0020901200,501,3,11,4,11:27 PM,2:22,,,Westbrook Free Throw 1 of 2 (17 PTS),108 - 108,TIE
+0020901200,503,3,12,4,11:28 PM,2:22,,,Westbrook Free Throw 2 of 2 (18 PTS),109 - 108,-1
+0020901200,505,1,80,4,11:28 PM,2:02,Ellis 27' 3PT Step Back Jump Shot (25 PTS) (Turiaf 5 AST),,,109 - 111,2
+0020901200,506,1,79,4,11:28 PM,1:42,,,Durant 21' Pullup Jump Shot (38 PTS),111 - 111,TIE
+0020901200,507,2,78,4,11:29 PM,1:27,MISS Curry 18' Floating Jump Shot,,,,
+0020901200,508,4,0,4,11:29 PM,1:26,,,Ibaka REBOUND (Off:4 Def:8),,
+0020901200,509,6,2,4,11:29 PM,1:11,Ellis S.FOUL (P3.T3),,,,
+0020901200,510,3,11,4,11:30 PM,1:11,,,MISS Green Free Throw 1 of 2,,
+0020901200,511,4,1,4,11:30 PM,1:11,,,Thunder Rebound,,
+0020901200,512,3,12,4,11:30 PM,1:11,,,MISS Green Free Throw 2 of 2,,
+0020901200,514,4,0,4,11:31 PM,1:09,Turiaf REBOUND (Off:2 Def:2),,,,
+0020901200,515,1,79,4,11:31 PM,0:52,Curry 19' Pullup Jump Shot (22 PTS),,,111 - 113,2
+0020901200,516,9,1,4,11:31 PM,0:52,,,Thunder Timeout: Regular (Reg.5 Short 0),,
+0020901200,519,8,0,4,11:33 PM,0:52,SUB: Williams FOR Morrow,,,,
+0020901200,520,5,1,4,11:33 PM,0:47,,,Sefolosha Bad Pass Turnover (P1.T13),,
+0020901200,521,1,42,4,11:34 PM,0:30,Turiaf 1' Driving Layup (9 PTS) (Curry 7 AST),,,111 - 115,4
+0020901200,522,9,2,4,11:34 PM,0:30,,,Thunder Timeout: Short (Reg.5 Short 1),,
+0020901200,524,8,0,4,11:35 PM,0:30,,,SUB: Harden FOR Ibaka,,
+0020901200,525,5,1,4,11:35 PM,0:29,Curry STEAL (1 STL),,Sefolosha Bad Pass Turnover (P2.T14),,
+0020901200,526,6,1,4,11:35 PM,0:28,,,Sefolosha P.FOUL (P5.T2),,
+0020901200,527,8,0,4,11:35 PM,0:28,SUB: Morrow FOR Turiaf,,,,
+0020901200,528,6,1,4,11:36 PM,0:27,,,Sefolosha P.FOUL (P6.PN),,
+0020901200,530,8,0,4,11:36 PM,0:27,,,SUB: Maynor FOR Sefolosha,,
+0020901200,531,3,11,4,11:36 PM,0:27,MISS Curry Free Throw 1 of 2,,,,
+0020901200,532,4,1,4,11:36 PM,0:27,WARRIORS Rebound,,,,
+0020901200,533,8,0,4,11:36 PM,0:27,SUB: George FOR Morrow,,,,
+0020901200,534,3,12,4,11:37 PM,0:27,Curry Free Throw 2 of 2 (23 PTS),,,111 - 116,5
+0020901200,536,1,46,4,11:37 PM,0:13,,,Maynor 6' Running Jump Shot (4 PTS),113 - 116,3
+0020901200,537,6,1,4,11:38 PM,0:13,,,Harden P.FOUL (P2.PN),,
+0020901200,538,3,11,4,11:38 PM,0:13,MISS Ellis Free Throw 1 of 2,,,,
+0020901200,539,4,1,4,11:38 PM,0:13,WARRIORS Rebound,,,,
+0020901200,540,3,12,4,11:38 PM,0:13,MISS Ellis Free Throw 2 of 2,,,,
+0020901200,542,4,0,4,11:39 PM,0:12,,,Harden REBOUND (Off:1 Def:1),,
+0020901200,543,9,2,4,11:39 PM,0:12,,,Thunder Timeout: Short (Reg.5 Short 2),,
+0020901200,547,6,1,4,11:40 PM,0:11,George P.FOUL (P2.PN),,,,
+0020901200,548,3,11,4,11:40 PM,0:11,,,Durant Free Throw 1 of 2 (39 PTS),114 - 116,2
+0020901200,550,8,0,4,11:41 PM,0:11,SUB: Turiaf FOR George,,,,
+0020901200,551,3,12,4,11:41 PM,0:11,,,Durant Free Throw 2 of 2 (40 PTS),115 - 116,1
+0020901200,553,9,1,4,11:41 PM,0:11,WARRIORS Timeout: Regular (Full 6 Short 0),,,,
+0020901200,557,6,1,4,11:43 PM,0:10,,,Maynor P.FOUL (P4.PN),,
+0020901200,558,3,11,4,11:43 PM,0:10,Ellis Free Throw 1 of 2 (26 PTS),,,115 - 117,2
+0020901200,560,8,0,4,11:43 PM,0:10,SUB: George FOR Turiaf,,,,
+0020901200,561,3,12,4,11:43 PM,0:10,Ellis Free Throw 2 of 2 (27 PTS),,,115 - 118,3
+0020901200,563,6,1,4,11:44 PM,0:09,Williams P.FOUL (P3.PN),,,,
+0020901200,564,8,0,4,11:44 PM,0:09,SUB: Turiaf FOR George,,,,
+0020901200,565,3,11,4,11:44 PM,0:09,,,Westbrook Free Throw 1 of 2 (19 PTS),116 - 118,2
+0020901200,567,3,12,4,11:44 PM,0:09,,,Westbrook Free Throw 2 of 2 (20 PTS),117 - 118,1
+0020901200,569,6,1,4,11:44 PM,0:09,,,Harden P.FOUL (P3.PN),,
+0020901200,570,8,0,4,11:45 PM,0:09,SUB: George FOR Turiaf,,,,
+0020901200,571,3,11,4,11:45 PM,0:09,Curry Free Throw 1 of 2 (24 PTS),,,117 - 119,2
+0020901200,573,3,12,4,11:45 PM,0:09,Curry Free Throw 2 of 2 (25 PTS),,,117 - 120,3
+0020901200,575,2,1,4,11:45 PM,0:01,,,MISS Durant 27' 3PT Jump Shot,,
+0020901200,576,4,0,4,11:46 PM,0:00,,,Harden REBOUND (Off:2 Def:1),,
+0020901200,577,13,0,4,11:46 PM,0:00,,,,117 - 120,3

@@ -1,0 +1,441 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000456,0,12,0,1,7:10 PM,12:00,,,,,
+0021000456,1,10,0,1,7:10 PM,12:00,Jump Ball McRoberts vs. O'Neal: Tip to Pierce,,,,
+0021000456,2,1,5,1,7:11 PM,11:39,,,O'Neal 2' Layup (2 PTS) (Pierce 1 AST),2 - 0,-2
+0021000456,3,2,1,1,7:11 PM,11:24,MISS Hibbert 17' Jump Shot,,,,
+0021000456,4,4,0,1,7:11 PM,11:23,,,Garnett REBOUND (Off:0 Def:1),,
+0021000456,5,2,1,1,7:11 PM,11:12,,,MISS Garnett 20' Jump Shot,,
+0021000456,6,4,0,1,7:11 PM,11:11,Rush REBOUND (Off:0 Def:1),,,,
+0021000456,7,1,79,1,7:12 PM,11:04,Rush 26' 3PT Pullup Jump Shot (3 PTS) (Collison 1 AST),,,2 - 3,1
+0021000456,8,2,63,1,7:12 PM,10:47,,,MISS Garnett 10' Fadeaway Jumper,,
+0021000456,9,4,0,1,7:12 PM,10:46,Hibbert REBOUND (Off:0 Def:1),,,,
+0021000456,10,1,79,1,7:12 PM,10:40,Collison 16' Pullup Jump Shot (2 PTS),,,2 - 5,3
+0021000456,11,6,2,1,7:12 PM,10:18,Rush S.FOUL (P1.T1),,,,
+0021000456,12,3,11,1,7:13 PM,10:18,,,MISS O'Neal Free Throw 1 of 2,,
+0021000456,13,4,1,1,7:13 PM,10:18,,,Celtics Rebound,,
+0021000456,14,3,12,1,7:13 PM,10:18,,,O'Neal Free Throw 2 of 2 (3 PTS),3 - 5,2
+0021000456,16,2,1,1,7:14 PM,10:01,MISS Granger 11' Jump Shot,,,,
+0021000456,17,4,0,1,7:14 PM,9:59,,,Celtics Rebound,,
+0021000456,18,1,5,1,7:14 PM,9:51,,,O'Neal 1' Layup (5 PTS) (Robinson 1 AST),5 - 5,TIE
+0021000456,19,2,47,1,7:14 PM,9:29,MISS Hibbert 12' Turnaround Jump Shot,,O'Neal BLOCK (1 BLK),,
+0021000456,20,4,0,1,7:14 PM,9:28,,,Garnett REBOUND (Off:0 Def:2),,
+0021000456,21,1,1,1,7:14 PM,9:19,,,Allen 24' 3PT Jump Shot (3 PTS) (Pierce 2 AST),8 - 5,-3
+0021000456,22,1,1,1,7:15 PM,9:06,McRoberts 17' Jump Shot (2 PTS),,,8 - 7,-1
+0021000456,23,2,86,1,7:15 PM,8:42,,,MISS Garnett 10' Turnaround Fadeaway Shot,,
+0021000456,24,4,0,1,7:15 PM,8:41,Hibbert REBOUND (Off:0 Def:2),,,,
+0021000456,25,2,1,1,7:15 PM,8:30,MISS Rush 19' Jump Shot,,,,
+0021000456,26,4,0,1,7:15 PM,8:29,,,Allen REBOUND (Off:0 Def:1),,
+0021000456,27,2,80,1,7:16 PM,8:12,,,MISS Garnett 18' Step Back Jump Shot,,
+0021000456,28,4,0,1,7:16 PM,8:11,Collison REBOUND (Off:0 Def:1),,,,
+0021000456,29,6,28,1,7:16 PM,8:09,,,Pierce Personal Take Foul (P1.T1),,
+0021000456,30,1,47,1,7:16 PM,8:02,Granger 16' Turnaround Jump Shot (2 PTS),,,8 - 9,1
+0021000456,31,6,2,1,7:16 PM,8:02,,,Pierce S.FOUL (P2.T2),,
+0021000456,32,8,0,1,7:17 PM,8:02,,,SUB: Daniels FOR Pierce,,
+0021000456,33,3,10,1,7:17 PM,8:02,Granger Free Throw 1 of 1 (3 PTS),,,8 - 10,2
+0021000456,35,6,1,1,7:17 PM,7:45,Hibbert P.FOUL (P1.T2),,,,
+0021000456,36,1,47,1,7:18 PM,7:33,,,Garnett 10' Turnaround Jump Shot (2 PTS),10 - 10,TIE
+0021000456,37,2,42,1,7:18 PM,7:22,MISS Granger 2' Driving Layup,,,,
+0021000456,38,4,0,1,7:18 PM,7:21,,,Daniels REBOUND (Off:0 Def:1),,
+0021000456,39,1,79,1,7:18 PM,7:15,,,Daniels 14' Pullup Jump Shot (2 PTS),12 - 10,-2
+0021000456,40,1,78,1,7:18 PM,7:01,Collison 13' Floating Jump Shot (4 PTS),,,12 - 12,TIE
+0021000456,41,2,1,1,7:18 PM,6:46,,,MISS Allen 18' Jump Shot,,
+0021000456,42,4,0,1,7:18 PM,6:45,Granger REBOUND (Off:0 Def:1),,,,
+0021000456,43,6,2,1,7:19 PM,6:37,,,O'Neal S.FOUL (P1.T3),,
+0021000456,44,3,11,1,7:19 PM,6:37,Hibbert Free Throw 1 of 2 (1 PTS),,,12 - 13,1
+0021000456,46,8,0,1,7:19 PM,6:37,,,SUB: Davis FOR O'Neal,,
+0021000456,47,3,12,1,7:19 PM,6:37,Hibbert Free Throw 2 of 2 (2 PTS),,,12 - 14,2
+0021000456,49,6,2,1,7:20 PM,6:16,McRoberts S.FOUL (P1.T3),,,,
+0021000456,50,3,11,1,7:20 PM,6:16,,,Davis Free Throw 1 of 2 (1 PTS),13 - 14,1
+0021000456,52,3,12,1,7:20 PM,6:16,,,MISS Davis Free Throw 2 of 2,,
+0021000456,54,4,0,1,7:21 PM,6:16,Rush REBOUND (Off:0 Def:2),,,,
+0021000456,55,2,1,1,7:21 PM,6:03,MISS Granger 19' Jump Shot,,,,
+0021000456,56,4,0,1,7:21 PM,6:01,,,Garnett REBOUND (Off:0 Def:3),,
+0021000456,57,2,1,1,7:21 PM,5:52,,,MISS Robinson 19' Jump Shot,,
+0021000456,58,4,0,1,7:21 PM,5:51,McRoberts REBOUND (Off:0 Def:1),,,,
+0021000456,59,1,5,1,7:21 PM,5:29,Collison 1' Layup (6 PTS) (Hibbert 1 AST),,,13 - 16,3
+0021000456,60,2,5,1,7:22 PM,5:12,,,MISS Daniels 1' Layup,,
+0021000456,61,4,0,1,7:22 PM,5:11,Collison REBOUND (Off:0 Def:2),,,,
+0021000456,62,5,1,1,7:22 PM,4:57,McRoberts Bad Pass Turnover (P1.T1),,,,
+0021000456,63,9,1,1,7:22 PM,4:57,PACERS Timeout: Regular (Full 1 Short 0),,,,
+0021000456,65,8,0,1,7:24 PM,4:57,SUB: Dunleavy FOR Rush,,,,
+0021000456,66,8,0,1,7:24 PM,4:57,SUB: Posey FOR McRoberts,,,,
+0021000456,67,2,56,1,7:25 PM,4:35,,,MISS Davis 4' Running Hook Shot,,
+0021000456,68,4,0,1,7:25 PM,4:33,Hibbert REBOUND (Off:0 Def:3),,,,
+0021000456,69,1,5,1,7:25 PM,4:14,Hibbert 2' Layup (4 PTS) (Granger 1 AST),,,13 - 18,5
+0021000456,70,2,1,1,7:26 PM,3:56,,,MISS Robinson 19' Jump Shot,,
+0021000456,71,4,0,1,7:26 PM,3:55,Posey REBOUND (Off:0 Def:1),,,,
+0021000456,72,1,1,1,7:26 PM,3:44,Dunleavy  3PT Jump Shot (3 PTS) (Collison 2 AST),,,13 - 21,8
+0021000456,73,1,47,1,7:26 PM,3:23,,,Garnett 9' Turnaround Jump Shot (4 PTS),15 - 21,6
+0021000456,74,6,2,1,7:26 PM,3:12,,,Robinson S.FOUL (P1.T4),,
+0021000456,75,3,11,1,7:27 PM,3:12,Collison Free Throw 1 of 2 (7 PTS),,,15 - 22,7
+0021000456,77,8,0,1,7:27 PM,3:12,SUB: Rush FOR Granger,,,,
+0021000456,78,8,0,1,7:27 PM,3:12,SUB: Jones FOR Hibbert,,,,
+0021000456,79,8,0,1,7:27 PM,3:12,,,SUB: Bradley FOR Robinson,,
+0021000456,80,3,12,1,7:27 PM,3:12,MISS Collison Free Throw 2 of 2,,,,
+0021000456,82,4,0,1,7:27 PM,3:12,,,Daniels REBOUND (Off:0 Def:2),,
+0021000456,83,1,1,1,7:28 PM,2:58,,,Allen 20' Jump Shot (5 PTS) (Davis 1 AST),17 - 22,5
+0021000456,85,9,1,1,7:28 PM,2:48,,,Celtics Timeout: Regular (Reg.1 Short 0),,
+0021000456,87,8,0,1,7:30 PM,2:48,,,SUB: O'Neal FOR Garnett,,
+0021000456,88,8,0,1,7:30 PM,2:48,SUB: Ford FOR Collison,,,,
+0021000456,89,2,79,1,7:31 PM,2:40,MISS Dunleavy 18' Pullup Jump Shot,,,,
+0021000456,90,4,0,1,7:31 PM,2:38,,,Bradley REBOUND (Off:0 Def:1),,
+0021000456,91,5,2,1,7:31 PM,2:28,Ford STEAL (1 STL),,Allen Lost Ball Turnover (P1.T1),,
+0021000456,92,1,5,1,7:31 PM,2:24,Posey 1' Layup (2 PTS),,,17 - 24,7
+0021000456,94,5,2,1,7:32 PM,1:57,Rush STEAL (1 STL),,Allen Lost Ball Turnover (P2.T2),,
+0021000456,95,1,5,1,7:32 PM,1:54,Ford 2' Layup (2 PTS) (Rush 1 AST),,,17 - 26,9
+0021000456,96,2,1,1,7:32 PM,1:33,,,MISS Bradley 20' Jump Shot,,
+0021000456,97,4,0,1,7:32 PM,1:32,PACERS Rebound,,,,
+0021000456,98,2,65,1,7:33 PM,1:11,MISS Jones 5' Jump Hook Shot,,,,
+0021000456,99,4,0,1,7:33 PM,1:10,,,Celtics Rebound,,
+0021000456,100,6,1,1,7:33 PM,1:00,Rush P.FOUL (P2.T4),,,,
+0021000456,101,2,1,1,7:33 PM,0:46,,,MISS Davis 19' Jump Shot,,
+0021000456,102,4,0,1,7:33 PM,0:44,,,O'Neal REBOUND (Off:1 Def:0),,
+0021000456,103,1,77,1,7:34 PM,0:34,,,Daniels 6' Driving Jump Shot (4 PTS),19 - 26,7
+0021000456,104,5,1,1,7:34 PM,0:33,Posey Bad Pass Turnover (P1.T2),,,,
+0021000456,105,8,0,1,7:34 PM,0:33,SUB: Jones FOR Rush,,,,
+0021000456,106,2,1,1,7:35 PM,0:12,,,MISS Davis 16' Jump Shot,,
+0021000456,107,4,0,1,7:35 PM,0:10,Jones REBOUND (Off:0 Def:1),,,,
+0021000456,108,2,1,1,7:35 PM,0:01,MISS Jones 25' 3PT Jump Shot,,,,
+0021000456,109,4,0,1,7:35 PM,0:00,PACERS Rebound,,,,
+0021000456,110,13,0,1,7:35 PM,0:00,,,,19 - 26,7
+0021000456,112,12,0,2,7:37 PM,12:00,,,,19 - 26,7
+0021000456,113,2,1,2,7:38 PM,11:34,MISS Jones 15' Jump Shot,,,,
+0021000456,115,4,0,2,7:38 PM,11:33,Jones REBOUND (Off:1 Def:0),,,,
+0021000456,114,2,4,2,7:38 PM,11:33,MISS Jones 1' Tip Shot,,,,
+0021000456,116,4,0,2,7:38 PM,11:32,,,Celtics Rebound,,
+0021000456,117,6,1,2,7:38 PM,11:22,Posey P.FOUL (P1.T1),,,,
+0021000456,118,2,42,2,7:39 PM,11:13,,,MISS Daniels 2' Driving Layup,,
+0021000456,119,4,0,2,7:39 PM,11:11,Posey REBOUND (Off:0 Def:2),,,,
+0021000456,120,2,1,2,7:39 PM,11:02,MISS Jones 21' Jump Shot,,,,
+0021000456,121,4,0,2,7:39 PM,11:01,Jones REBOUND (Off:1 Def:1),,,,
+0021000456,122,2,1,2,7:39 PM,10:46,MISS Posey 25' 3PT Jump Shot,,,,
+0021000456,123,4,0,2,7:39 PM,10:43,PACERS Rebound,,,,
+0021000456,124,8,0,2,7:40 PM,10:43,SUB: Granger FOR Jones,,,,
+0021000456,125,6,2,2,7:40 PM,10:34,,,O'Neal S.FOUL (P1.T1),,
+0021000456,126,3,11,2,7:40 PM,10:34,Granger Free Throw 1 of 2 (4 PTS),,,19 - 27,8
+0021000456,128,3,12,2,7:40 PM,10:34,Granger Free Throw 2 of 2 (5 PTS),,,19 - 28,9
+0021000456,130,6,1,2,7:41 PM,10:20,Ford P.FOUL (P1.T2),,,,
+0021000456,131,2,1,2,7:41 PM,10:09,,,MISS Bradley 18' Jump Shot,,
+0021000456,132,4,0,2,7:41 PM,10:08,,,Bradley REBOUND (Off:1 Def:1),,
+0021000456,133,6,2,2,7:41 PM,10:06,Granger S.FOUL (P1.T3),,,,
+0021000456,134,3,11,2,7:42 PM,10:06,,,Bradley Free Throw 1 of 2 (1 PTS),20 - 28,8
+0021000456,136,3,12,2,7:42 PM,10:06,,,MISS Bradley Free Throw 2 of 2,,
+0021000456,138,4,0,2,7:42 PM,10:06,Posey REBOUND (Off:0 Def:3),,,,
+0021000456,139,2,1,2,7:42 PM,9:52,MISS Ford 22' Jump Shot,,,,
+0021000456,141,4,0,2,7:42 PM,9:51,Granger REBOUND (Off:1 Def:1),,,,
+0021000456,140,1,4,2,7:42 PM,9:51,Granger 3' Tip Shot (7 PTS),,,20 - 30,10
+0021000456,142,6,1,2,7:43 PM,9:34,Ford P.FOUL (P2.T4),,,,
+0021000456,143,8,0,2,7:43 PM,9:34,,,SUB: O'Neal FOR O'Neal,,
+0021000456,144,5,2,2,7:43 PM,9:29,Granger STEAL (1 STL),,O'Neal Lost Ball Turnover (P1.T3),,
+0021000456,145,5,1,2,7:43 PM,9:25,Jones Bad Pass Turnover (P1.T3),,,,
+0021000456,146,6,2,2,7:44 PM,9:10,Posey S.FOUL (P2.PN),,,,
+0021000456,147,3,11,2,7:44 PM,9:10,,,O'Neal Free Throw 1 of 2 (6 PTS),21 - 30,9
+0021000456,149,3,12,2,7:44 PM,9:10,,,O'Neal Free Throw 2 of 2 (7 PTS),22 - 30,8
+0021000456,151,1,42,2,7:45 PM,9:04,Dunleavy 4' Driving Layup (5 PTS),,,22 - 32,10
+0021000456,152,2,1,2,7:45 PM,8:45,,,MISS Davis 17' Jump Shot,,
+0021000456,153,4,0,2,7:45 PM,8:44,Ford REBOUND (Off:0 Def:1),,,,
+0021000456,154,1,42,2,7:45 PM,8:38,Dunleavy 4' Driving Layup (7 PTS),,,22 - 34,12
+0021000456,155,1,1,2,7:45 PM,8:17,,,Davis 4' Jump Shot (3 PTS) (Pierce 3 AST),24 - 34,10
+0021000456,156,6,2,2,7:45 PM,8:17,Jones S.FOUL (P1.PN),,,,
+0021000456,157,9,4,2,7:46 PM,8:17,,,,,
+0021000456,159,8,0,2,7:48 PM,8:17,,,SUB: Robinson FOR Bradley,,
+0021000456,160,8,0,2,7:48 PM,8:17,SUB: Rush FOR Dunleavy,,,,
+0021000456,161,8,0,2,7:48 PM,8:17,SUB: McRoberts FOR Posey,,,,
+0021000456,162,8,0,2,7:48 PM,8:17,SUB: Hibbert FOR Jones,,,,
+0021000456,163,8,0,2,7:48 PM,8:17,SUB: Collison FOR Ford,,,,
+0021000456,164,3,10,2,7:49 PM,8:17,,,Davis Free Throw 1 of 1 (4 PTS),25 - 34,9
+0021000456,166,5,11,2,7:49 PM,7:52,PACERS Turnover: Shot Clock (T#4),,,,
+0021000456,167,1,80,2,7:50 PM,7:38,,,Pierce 15' Step Back Jump Shot (2 PTS),27 - 34,7
+0021000456,168,1,3,2,7:50 PM,7:23,Hibbert 5' Hook Shot (6 PTS) (McRoberts 1 AST),,,27 - 36,9
+0021000456,169,1,42,2,7:50 PM,7:12,,,Pierce 1' Driving Layup (4 PTS),29 - 36,7
+0021000456,170,1,1,2,7:50 PM,6:57,Granger 16' Jump Shot (9 PTS) (McRoberts 2 AST),,,29 - 38,9
+0021000456,172,1,1,2,7:51 PM,6:39,,,Pierce 26' 3PT Jump Shot (7 PTS) (Robinson 2 AST),32 - 38,6
+0021000456,173,2,42,2,7:51 PM,6:31,MISS Granger 3' Driving Layup,,Daniels BLOCK (1 BLK),,
+0021000456,174,4,0,2,7:51 PM,6:31,PACERS Rebound,,,,
+0021000456,175,6,2,2,7:51 PM,6:28,,,O'Neal S.FOUL (P2.T2),,
+0021000456,176,3,11,2,7:52 PM,6:28,Rush Free Throw 1 of 2 (4 PTS),,,32 - 39,7
+0021000456,178,3,12,2,7:52 PM,6:28,MISS Rush Free Throw 2 of 2,,,,
+0021000456,180,4,0,2,7:52 PM,6:28,,,Davis REBOUND (Off:0 Def:1),,
+0021000456,182,2,5,2,7:52 PM,6:11,,,MISS Davis 2' Layup,,
+0021000456,183,4,0,2,7:52 PM,6:10,,,Robinson REBOUND (Off:1 Def:0),,
+0021000456,184,1,1,2,7:52 PM,6:05,,,Pierce 27' 3PT Jump Shot (10 PTS) (Robinson 3 AST),35 - 39,4
+0021000456,185,6,1,2,7:52 PM,5:58,,,Robinson P.FOUL (P2.T3),,
+0021000456,186,9,1,2,7:52 PM,5:58,PACERS Timeout: Regular (Full 2 Short 0),,,,
+0021000456,188,8,0,2,7:55 PM,5:58,,,SUB: Garnett FOR Daniels,,
+0021000456,189,8,0,2,7:55 PM,5:58,,,SUB: Allen FOR Davis,,
+0021000456,191,1,80,2,7:55 PM,5:43,Hibbert 12' Step Back Jump Shot (8 PTS) (Collison 3 AST),,,35 - 41,6
+0021000456,192,6,1,2,7:56 PM,5:24,McRoberts P.FOUL (P2.PN),,,,
+0021000456,193,3,11,2,7:56 PM,5:24,,,MISS Garnett Free Throw 1 of 2,,
+0021000456,194,4,1,2,7:56 PM,5:24,,,Celtics Rebound,,
+0021000456,195,3,12,2,7:56 PM,5:24,,,Garnett Free Throw 2 of 2 (5 PTS),36 - 41,5
+0021000456,197,5,2,2,7:57 PM,5:11,Hibbert Lost Ball Turnover (P1.T5),,Garnett STEAL (1 STL),,
+0021000456,198,2,42,2,7:57 PM,5:05,,,MISS Pierce 4' Driving Layup,,
+0021000456,199,4,0,2,7:57 PM,5:04,Rush REBOUND (Off:0 Def:3),,,,
+0021000456,200,2,1,2,7:57 PM,4:49,MISS Granger 25' 3PT Jump Shot,,,,
+0021000456,201,4,0,2,7:57 PM,4:47,,,Garnett REBOUND (Off:0 Def:4),,
+0021000456,202,6,2,2,7:57 PM,4:40,Hibbert S.FOUL (P2.PN),,,,
+0021000456,203,3,11,2,7:58 PM,4:40,,,O'Neal Free Throw 1 of 2 (8 PTS),37 - 41,4
+0021000456,205,8,0,2,7:58 PM,4:40,SUB: Foster FOR Hibbert,,,,
+0021000456,206,3,12,2,7:58 PM,4:40,,,O'Neal Free Throw 2 of 2 (9 PTS),38 - 41,3
+0021000456,208,2,63,2,7:58 PM,4:27,MISS Collison 13' Fadeaway Jumper,,,,
+0021000456,209,4,0,2,7:59 PM,4:26,,,Garnett REBOUND (Off:0 Def:5),,
+0021000456,210,5,1,2,7:59 PM,4:23,,,Garnett Bad Pass Turnover (P1.T4),,
+0021000456,211,1,76,2,7:59 PM,4:14,Foster 1' Running Finger Roll Layup (2 PTS) (Granger 2 AST),,,38 - 43,5
+0021000456,212,5,11,2,7:59 PM,3:48,,,Celtics Turnover: Shot Clock (T#5),,
+0021000456,213,2,5,2,8:00 PM,3:32,MISS Rush 2' Layup,,O'Neal BLOCK (2 BLK),,
+0021000456,214,4,0,2,8:00 PM,3:32,Rush REBOUND (Off:1 Def:3),,,,
+0021000456,215,6,2,2,8:00 PM,3:32,,,O'Neal S.FOUL (P3.T4),,
+0021000456,216,3,11,2,8:00 PM,3:32,Rush Free Throw 1 of 2 (5 PTS),,,38 - 44,6
+0021000456,218,8,0,2,8:00 PM,3:32,SUB: Ford FOR Collison,,,,
+0021000456,219,8,0,2,8:00 PM,3:32,,,SUB: Davis FOR O'Neal,,
+0021000456,220,3,12,2,8:01 PM,3:32,Rush Free Throw 2 of 2 (6 PTS),,,38 - 45,7
+0021000456,222,9,1,2,8:01 PM,3:27,,,Celtics Timeout: Regular (Reg.2 Short 0),,
+0021000456,224,5,2,2,8:04 PM,3:14,Ford STEAL (2 STL),,Davis Lost Ball Turnover (P1.T6),,
+0021000456,225,2,79,2,8:04 PM,3:08,MISS Granger 26' 3PT Pullup Jump Shot,,,,
+0021000456,226,4,0,2,8:04 PM,3:07,,,Pierce REBOUND (Off:0 Def:1),,
+0021000456,227,1,5,2,8:04 PM,3:01,,,Robinson 3' Layup (2 PTS) (Pierce 4 AST),40 - 45,5
+0021000456,228,2,1,2,8:04 PM,2:40,MISS Rush 18' Jump Shot,,,,
+0021000456,229,4,0,2,8:04 PM,2:39,,,Allen REBOUND (Off:0 Def:2),,
+0021000456,230,1,42,2,8:04 PM,2:25,,,Pierce 4' Driving Layup (12 PTS),42 - 45,3
+0021000456,231,6,1,2,8:05 PM,2:12,,,Davis P.FOUL (P1.PN),,
+0021000456,232,3,11,2,8:05 PM,2:12,Rush Free Throw 1 of 2 (7 PTS),,,42 - 46,4
+0021000456,234,8,0,2,8:05 PM,2:12,SUB: Hibbert FOR McRoberts,,,,
+0021000456,235,3,12,2,8:05 PM,2:12,Rush Free Throw 2 of 2 (8 PTS),,,42 - 47,5
+0021000456,237,1,1,2,8:06 PM,1:54,,,Robinson  3PT Jump Shot (5 PTS) (Allen 1 AST),45 - 47,2
+0021000456,238,2,80,2,8:06 PM,1:35,MISS Granger 15' Step Back Jump Shot,,,,
+0021000456,239,4,0,2,8:06 PM,1:33,Foster REBOUND (Off:1 Def:0),,,,
+0021000456,240,2,1,2,8:06 PM,1:16,MISS Granger 15' Jump Shot,,,,
+0021000456,241,4,0,2,8:06 PM,1:14,,,Garnett REBOUND (Off:0 Def:6),,
+0021000456,242,5,1,2,8:07 PM,1:07,Ford STEAL (3 STL),,Allen Bad Pass Turnover (P3.T7),,
+0021000456,243,2,1,2,8:07 PM,0:53,MISS Rush 25' 3PT Jump Shot,,,,
+0021000456,244,4,0,2,8:07 PM,0:52,,,Garnett REBOUND (Off:0 Def:7),,
+0021000456,245,2,1,2,8:07 PM,0:35,,,MISS Robinson 26' 3PT Jump Shot,,
+0021000456,246,4,0,2,8:07 PM,0:34,Granger REBOUND (Off:1 Def:2),,,,
+0021000456,247,6,26,2,8:08 PM,0:14,Ford Offensive Charge Foul (P3.PN),,,,
+0021000456,248,5,5,2,8:08 PM,0:14,Ford Foul Turnover (P1.T6),,,,
+0021000456,249,9,2,2,8:08 PM,0:14,,,Celtics Timeout: Short (Reg.2 Short 1),,
+0021000456,251,8,0,2,8:08 PM,0:14,,,SUB: Daniels FOR Robinson,,
+0021000456,252,8,0,2,8:09 PM,0:14,SUB: Jones FOR Hibbert,,,,
+0021000456,253,8,0,2,8:09 PM,0:14,SUB: Collison FOR Rush,,,,
+0021000456,254,8,0,2,8:09 PM,0:14,SUB: Jones FOR Ford,,,,
+0021000456,256,2,1,2,8:09 PM,0:00,,,MISS Allen 25' 3PT Jump Shot,,
+0021000456,257,4,0,2,8:09 PM,0:00,,,Daniels REBOUND (Off:1 Def:2),,
+0021000456,258,2,1,2,8:09 PM,0:00,,,MISS Daniels 11' Jump Shot,,
+0021000456,260,4,0,2,8:09 PM,0:00,,,Celtics Rebound,,
+0021000456,259,13,0,2,8:09 PM,0:00,,,,45 - 47,2
+0021000456,262,12,0,3,8:26 PM,12:00,,,,45 - 47,2
+0021000456,263,2,86,3,8:26 PM,11:36,MISS Hibbert 13' Turnaround Fadeaway Shot,,,,
+0021000456,264,4,0,3,8:26 PM,11:34,,,Garnett REBOUND (Off:0 Def:8),,
+0021000456,265,2,5,3,8:26 PM,11:19,Granger BLOCK (1 BLK),,MISS Pierce 4' Layup,,
+0021000456,266,4,0,3,8:27 PM,11:18,Hibbert REBOUND (Off:0 Def:4),,,,
+0021000456,267,1,1,3,8:27 PM,11:10,Rush  3PT Jump Shot (11 PTS) (Granger 3 AST),,,45 - 50,5
+0021000456,268,2,1,3,8:27 PM,10:38,,,MISS Robinson  3PT Jump Shot,,
+0021000456,269,4,0,3,8:27 PM,10:36,Rush REBOUND (Off:1 Def:4),,,,
+0021000456,270,1,85,3,8:27 PM,10:27,Rush 14' Turnaround Bank Shot (13 PTS),,,45 - 52,7
+0021000456,271,9,2,3,8:27 PM,10:27,,,Celtics Timeout: Short (Reg.2 Short 2),,
+0021000456,273,1,78,3,8:29 PM,10:13,,,Robinson 8' Floating Jump Shot (7 PTS),47 - 52,5
+0021000456,274,1,43,3,8:29 PM,10:01,Granger 2' Alley Oop Layup (11 PTS) (Hibbert 2 AST),,,47 - 54,7
+0021000456,275,6,1,3,8:29 PM,9:40,McRoberts P.FOUL (P3.T1),,,,
+0021000456,276,2,1,3,8:30 PM,9:34,,,MISS Allen 19' Jump Shot,,
+0021000456,277,4,0,3,8:30 PM,9:33,McRoberts REBOUND (Off:0 Def:2),,,,
+0021000456,278,6,1,3,8:30 PM,9:16,,,O'Neal P.FOUL (P4.T1),,
+0021000456,279,2,1,3,8:31 PM,9:02,MISS Rush 11' Jump Shot,,,,
+0021000456,280,4,0,3,8:31 PM,9:01,,,O'Neal REBOUND (Off:0 Def:1),,
+0021000456,281,5,1,3,8:31 PM,9:00,Granger STEAL (2 STL),,O'Neal Bad Pass Turnover (P2.T8),,
+0021000456,282,2,1,3,8:31 PM,8:46,MISS Granger 25' 3PT Jump Shot,,,,
+0021000456,283,4,0,3,8:31 PM,8:45,,,O'Neal REBOUND (Off:0 Def:2),,
+0021000456,284,6,1,3,8:31 PM,8:45,Hibbert P.FOUL (P3.T2),,,,
+0021000456,285,6,2,3,8:32 PM,8:29,McRoberts S.FOUL (P4.T3),,,,
+0021000456,286,3,11,3,8:32 PM,8:29,,,Robinson Free Throw 1 of 2 (8 PTS),48 - 54,6
+0021000456,288,8,0,3,8:32 PM,8:29,SUB: Foster FOR McRoberts,,,,
+0021000456,289,3,12,3,8:32 PM,8:29,,,MISS Robinson Free Throw 2 of 2,,
+0021000456,291,4,0,3,8:32 PM,8:29,Hibbert REBOUND (Off:0 Def:5),,,,
+0021000456,292,2,56,3,8:33 PM,8:14,MISS Hibbert 6' Running Hook Shot,,,,
+0021000456,293,4,0,3,8:33 PM,8:13,,,Pierce REBOUND (Off:0 Def:2),,
+0021000456,294,5,15,3,8:33 PM,8:08,,,O'Neal Offensive Goaltending Turnover (P3.T9),,
+0021000456,296,6,2,3,8:33 PM,7:55,,,O'Neal S.FOUL (P5.T2),,
+0021000456,297,3,11,3,8:33 PM,7:55,Granger Free Throw 1 of 2 (12 PTS),,,48 - 55,7
+0021000456,299,8,0,3,8:34 PM,7:55,,,SUB: Davis FOR O'Neal,,
+0021000456,300,3,12,3,8:34 PM,7:55,Granger Free Throw 2 of 2 (13 PTS),,,48 - 56,8
+0021000456,302,2,80,3,8:34 PM,7:43,,,MISS Garnett 15' Step Back Jump Shot,,
+0021000456,303,4,0,3,8:34 PM,7:42,Hibbert REBOUND (Off:0 Def:6),,,,
+0021000456,304,2,86,3,8:35 PM,7:19,MISS Collison 15' Turnaround Fadeaway Shot,,,,
+0021000456,305,4,0,3,8:35 PM,7:18,Foster REBOUND (Off:2 Def:0),,,,
+0021000456,306,1,72,3,8:35 PM,7:17,Foster 3' Putback Layup (4 PTS),,,48 - 58,10
+0021000456,307,2,1,3,8:35 PM,7:00,,,MISS Robinson 16' Jump Shot,,
+0021000456,308,4,0,3,8:35 PM,7:00,PACERS Rebound,,,,
+0021000456,309,6,4,3,8:35 PM,6:53,Hibbert OFF.Foul (P4),,,,
+0021000456,310,5,5,3,8:35 PM,6:53,Hibbert Foul Turnover (P2.T7),,,,
+0021000456,311,1,1,3,8:36 PM,6:39,,,Davis 15' Jump Shot (6 PTS) (Robinson 4 AST),50 - 58,8
+0021000456,312,2,3,3,8:36 PM,6:24,MISS Hibbert 8' Hook Shot,,,,
+0021000456,313,4,0,3,8:36 PM,6:22,,,Robinson REBOUND (Off:1 Def:1),,
+0021000456,314,2,1,3,8:36 PM,6:16,,,MISS Pierce 23' Jump Shot,,
+0021000456,315,4,0,3,8:36 PM,6:15,Hibbert REBOUND (Off:0 Def:7),,,,
+0021000456,316,1,42,3,8:36 PM,6:06,Collison 2' Driving Layup (9 PTS),,,50 - 60,10
+0021000456,317,2,1,3,8:37 PM,5:44,,,MISS Garnett 21' Jump Shot,,
+0021000456,318,4,0,3,8:37 PM,5:43,Rush REBOUND (Off:1 Def:5),,,,
+0021000456,319,2,78,3,8:37 PM,5:34,MISS Collison 13' Floating Jump Shot,,,,
+0021000456,320,4,0,3,8:37 PM,5:34,PACERS Rebound,,,,
+0021000456,321,9,1,3,8:37 PM,5:34,PACERS Timeout: Regular (Full 3 Short 0),,,,
+0021000456,323,8,0,3,8:39 PM,5:34,SUB: Jones FOR Hibbert,,,,
+0021000456,324,8,0,3,8:39 PM,5:34,SUB: Dunleavy FOR Granger,,,,
+0021000456,325,8,0,3,8:40 PM,5:34,SUB: Ford FOR Collison,,,,
+0021000456,326,5,1,3,8:40 PM,5:26,Rush Bad Pass Turnover (P1.T8),,Garnett STEAL (2 STL),,
+0021000456,327,6,2,3,8:40 PM,5:23,Foster S.FOUL (P1.T4),,,,
+0021000456,328,3,11,3,8:40 PM,5:23,,,Garnett Free Throw 1 of 2 (6 PTS),51 - 60,9
+0021000456,330,3,12,3,8:41 PM,5:23,,,MISS Garnett Free Throw 2 of 2,,
+0021000456,332,4,0,3,8:41 PM,5:23,Jones REBOUND (Off:1 Def:2),,,,
+0021000456,333,2,79,3,8:41 PM,5:14,MISS Rush 22' Pullup Jump Shot,,,,
+0021000456,334,4,0,3,8:41 PM,5:13,,,Garnett REBOUND (Off:0 Def:9),,
+0021000456,335,6,1,3,8:41 PM,5:05,Foster P.FOUL (P2.PN),,,,
+0021000456,336,3,11,3,8:41 PM,5:05,,,Pierce Free Throw 1 of 2 (13 PTS),52 - 60,8
+0021000456,338,3,12,3,8:42 PM,5:05,,,Pierce Free Throw 2 of 2 (14 PTS),53 - 60,7
+0021000456,340,2,1,3,8:42 PM,4:41,MISS Foster 18' Jump Shot,,,,
+0021000456,341,4,0,3,8:42 PM,4:40,,,Davis REBOUND (Off:0 Def:2),,
+0021000456,342,2,1,3,8:43 PM,4:31,,,MISS Pierce 15' Jump Shot,,
+0021000456,343,4,0,3,8:43 PM,4:30,Rush REBOUND (Off:1 Def:6),,,,
+0021000456,344,6,1,3,8:43 PM,4:21,,,Robinson P.FOUL (P3.T3),,
+0021000456,346,8,0,3,8:43 PM,4:21,,,SUB: Daniels FOR Robinson,,
+0021000456,347,8,0,3,8:43 PM,4:21,SUB: Granger FOR Dunleavy,,,,
+0021000456,348,2,65,3,8:44 PM,4:10,MISS Jones 7' Jump Hook Shot,,,,
+0021000456,349,4,0,3,8:44 PM,4:09,,,Pierce REBOUND (Off:0 Def:3),,
+0021000456,350,6,1,3,8:44 PM,4:06,Jones P.FOUL (P2.PN),,,,
+0021000456,351,3,11,3,8:45 PM,4:06,,,MISS Garnett Free Throw 1 of 2,,
+0021000456,352,4,1,3,8:45 PM,4:06,,,Celtics Rebound,,
+0021000456,353,8,0,3,8:45 PM,4:06,SUB: Posey FOR Foster,,,,
+0021000456,354,3,12,3,8:45 PM,4:06,,,Garnett Free Throw 2 of 2 (7 PTS),54 - 60,6
+0021000456,356,5,1,3,8:45 PM,3:56,Granger Bad Pass Turnover (P1.T9),,,,
+0021000456,357,1,1,3,8:46 PM,3:35,,,Allen 18' Jump Shot (7 PTS) (Pierce 5 AST),56 - 60,4
+0021000456,358,2,1,3,8:46 PM,3:27,MISS Granger 25' 3PT Jump Shot,,,,
+0021000456,359,4,0,3,8:46 PM,3:26,,,Garnett REBOUND (Off:0 Def:10),,
+0021000456,360,1,1,3,8:46 PM,3:12,,,Daniels 11' Jump Shot (6 PTS),58 - 60,2
+0021000456,361,1,1,3,8:47 PM,2:46,Posey 25' 3PT Jump Shot (5 PTS) (Ford 1 AST),,,58 - 63,5
+0021000456,362,1,1,3,8:47 PM,2:25,,,Daniels 13' Jump Shot (8 PTS),60 - 63,3
+0021000456,363,5,1,3,8:47 PM,2:13,Ford Bad Pass Turnover (P2.T10),,Daniels STEAL (1 STL),,
+0021000456,364,2,47,3,8:47 PM,1:55,,,MISS Daniels 14' Turnaround Jump Shot,,
+0021000456,365,4,0,3,8:47 PM,1:53,,,Garnett REBOUND (Off:1 Def:10),,
+0021000456,366,1,5,3,8:47 PM,1:52,,,Garnett 1' Layup (9 PTS),62 - 63,1
+0021000456,367,1,5,3,8:48 PM,1:31,Ford 2' Layup (4 PTS),,,62 - 65,3
+0021000456,368,1,63,3,8:48 PM,1:11,,,Davis 4' Fadeaway Jumper (8 PTS),64 - 65,1
+0021000456,369,6,4,3,8:48 PM,1:04,Jones OFF.Foul (P3),,,,
+0021000456,370,5,5,3,8:48 PM,1:04,Jones Foul Turnover (P2.T11),,,,
+0021000456,371,9,1,3,8:49 PM,1:04,,,Celtics Timeout: Regular (Reg.3 Short 2),,
+0021000456,373,8,0,3,8:51 PM,1:04,SUB: Foster FOR Jones,,,,
+0021000456,374,8,0,3,8:51 PM,1:04,,,SUB: O'Neal FOR Garnett,,
+0021000456,375,8,0,3,8:51 PM,1:04,,,SUB: Wafer FOR Allen,,
+0021000456,376,5,1,3,8:51 PM,0:52,Foster STEAL (1 STL),,Wafer Bad Pass Turnover (P1.T10),,
+0021000456,377,6,2,3,8:52 PM,0:44,,,Pierce S.FOUL (P3.T4),,
+0021000456,378,3,11,3,8:52 PM,0:44,Rush Free Throw 1 of 2 (14 PTS),,,64 - 66,2
+0021000456,380,3,12,3,8:52 PM,0:44,Rush Free Throw 2 of 2 (15 PTS),,,64 - 67,3
+0021000456,382,1,79,3,8:53 PM,0:22,,,Pierce 19' Pullup Jump Shot (16 PTS),66 - 67,1
+0021000456,383,2,1,3,8:53 PM,0:01,MISS Posey 26' 3PT Jump Shot,,,,
+0021000456,384,4,0,3,8:53 PM,0:00,,,Daniels REBOUND (Off:1 Def:3),,
+0021000456,385,13,0,3,8:53 PM,0:00,,,,66 - 67,1
+0021000456,387,12,0,4,8:56 PM,12:00,,,,66 - 67,1
+0021000456,388,2,1,4,8:56 PM,11:40,,,MISS Wafer 25' 3PT Jump Shot,,
+0021000456,389,4,0,4,8:56 PM,11:37,Hibbert REBOUND (Off:0 Def:8),,,,
+0021000456,390,5,1,4,8:57 PM,11:27,Collison Bad Pass Turnover (P1.T12),,Wafer STEAL (1 STL),,
+0021000456,391,1,47,4,8:57 PM,11:08,,,Daniels 6' Turnaround Jump Shot (10 PTS),68 - 67,-1
+0021000456,392,2,1,4,8:57 PM,10:43,MISS Collison 18' Jump Shot,,,,
+0021000456,394,4,0,4,8:57 PM,10:42,Granger REBOUND (Off:2 Def:2),,,,
+0021000456,393,2,4,4,8:57 PM,10:42,MISS Granger 2' Tip Shot,,,,
+0021000456,395,4,0,4,8:57 PM,10:40,,,Pierce REBOUND (Off:0 Def:4),,
+0021000456,396,1,1,4,8:58 PM,10:27,,,Davis 19' Jump Shot (10 PTS) (Daniels 1 AST),70 - 67,-3
+0021000456,397,9,1,4,8:58 PM,10:25,PACERS Timeout: Regular (Full 4 Short 0),,,,
+0021000456,399,8,0,4,9:00 PM,10:25,,,SUB: Allen FOR Pierce,,
+0021000456,400,8,0,4,9:00 PM,10:25,SUB: McRoberts FOR Posey,,,,
+0021000456,401,2,1,4,9:00 PM,10:17,MISS Granger 19' Jump Shot,,,,
+0021000456,402,4,0,4,9:00 PM,10:16,,,O'Neal REBOUND (Off:1 Def:1),,
+0021000456,403,1,5,4,9:01 PM,9:57,,,Wafer 3' Layup (2 PTS) (Daniels 2 AST),72 - 67,-5
+0021000456,404,5,1,4,9:01 PM,9:48,McRoberts Bad Pass Turnover (P2.T13),,Davis STEAL (1 STL),,
+0021000456,405,5,7,4,9:01 PM,9:43,,,Daniels Discontinue Dribble Turnover (P1.T11),,
+0021000456,406,2,3,4,9:01 PM,9:25,MISS Hibbert 5' Hook Shot,,,,
+0021000456,407,4,0,4,9:01 PM,9:23,,,Celtics Rebound,,
+0021000456,408,6,11,4,9:02 PM,9:22,,,,,
+0021000456,409,3,16,4,9:02 PM,9:22,,,Allen Free Throw Technical (8 PTS),73 - 67,-6
+0021000456,411,1,1,4,9:03 PM,9:06,,,Davis 22' Jump Shot (12 PTS) (Allen 2 AST),75 - 67,-8
+0021000456,412,2,1,4,9:03 PM,8:46,MISS McRoberts 17' Jump Shot,,,,
+0021000456,413,4,0,4,9:03 PM,8:44,,,Daniels REBOUND (Off:1 Def:4),,
+0021000456,414,1,81,4,9:03 PM,8:39,,,Allen 15' Pullup Bank Shot (10 PTS),77 - 67,-10
+0021000456,415,6,29,4,9:03 PM,8:30,,,O'Neal Shooting Block Foul (P2.T1),,
+0021000456,416,3,11,4,9:04 PM,8:30,Rush Free Throw 1 of 2 (16 PTS),,,77 - 68,-9
+0021000456,418,8,0,4,9:04 PM,8:30,SUB: Dunleavy FOR Granger,,,,
+0021000456,419,8,0,4,9:04 PM,8:30,SUB: Foster FOR Hibbert,,,,
+0021000456,420,3,12,4,9:04 PM,8:30,Rush Free Throw 2 of 2 (17 PTS),,,77 - 69,-8
+0021000456,422,2,1,4,9:04 PM,8:10,,,MISS Davis 16' Jump Shot,,
+0021000456,423,4,0,4,9:04 PM,8:09,Foster REBOUND (Off:2 Def:1),,,,
+0021000456,424,2,1,4,9:05 PM,7:50,MISS Foster 15' Jump Shot,,,,
+0021000456,425,4,0,4,9:05 PM,7:49,,,Davis REBOUND (Off:0 Def:3),,
+0021000456,427,1,1,4,9:05 PM,7:27,,,Davis 19' Jump Shot (14 PTS) (Daniels 3 AST),79 - 69,-10
+0021000456,428,1,42,4,9:06 PM,7:17,McRoberts 2' Driving Layup (4 PTS) (Dunleavy 1 AST),,,79 - 71,-8
+0021000456,429,6,2,4,9:06 PM,7:17,,,O'Neal S.FOUL (P3.T2),,
+0021000456,430,3,10,4,9:06 PM,7:17,MISS McRoberts Free Throw 1 of 1,,,,
+0021000456,432,4,0,4,9:06 PM,7:14,,,Wafer REBOUND (Off:0 Def:1),,
+0021000456,433,1,1,4,9:06 PM,6:58,,,Allen 24' 3PT Jump Shot (13 PTS) (Daniels 4 AST),82 - 71,-11
+0021000456,434,6,2,4,9:07 PM,6:46,,,Davis S.FOUL (P2.T3),,
+0021000456,435,3,11,4,9:07 PM,6:46,Foster Free Throw 1 of 2 (5 PTS),,,82 - 72,-10
+0021000456,437,8,0,4,9:07 PM,6:46,SUB: Granger FOR Rush,,,,
+0021000456,438,3,12,4,9:07 PM,6:46,MISS Foster Free Throw 2 of 2,,,,
+0021000456,440,4,0,4,9:07 PM,6:46,,,Davis REBOUND (Off:0 Def:4),,
+0021000456,441,6,26,4,9:08 PM,6:23,,,Daniels Offensive Charge Foul (P1.T4),,
+0021000456,442,5,5,4,9:08 PM,6:23,,,Daniels Foul Turnover (P2.T12),,
+0021000456,443,8,0,4,9:08 PM,6:23,,,SUB: Garnett FOR O'Neal,,
+0021000456,444,6,17,4,9:08 PM,6:07,,,Celtics T.Foul (Def. 3 Sec Garnett ),,
+0021000456,445,3,16,4,9:09 PM,6:07,Collison Free Throw Technical (10 PTS),,,82 - 73,-9
+0021000456,447,8,0,4,9:09 PM,6:07,,,SUB: Pierce FOR Wafer,,
+0021000456,448,6,26,4,9:09 PM,6:02,Granger Offensive Charge Foul (P2.T1),,,,
+0021000456,449,5,5,4,9:09 PM,6:02,Granger Foul Turnover (P2.T14),,,,
+0021000456,450,1,85,4,9:10 PM,5:47,,,Allen 16' Turnaround Bank Shot (15 PTS),84 - 73,-11
+0021000456,451,6,2,4,9:10 PM,5:31,,,Garnett S.FOUL (P1.PN),,
+0021000456,452,9,4,4,9:10 PM,5:31,,,,,
+0021000456,454,8,0,4,9:12 PM,5:31,,,SUB: O'Neal FOR Davis,,
+0021000456,455,3,11,4,9:13 PM,5:31,MISS McRoberts Free Throw 1 of 2,,,,
+0021000456,456,4,1,4,9:13 PM,5:31,PACERS Rebound,,,,
+0021000456,457,3,12,4,9:13 PM,5:31,McRoberts Free Throw 2 of 2 (5 PTS),,,84 - 74,-10
+0021000456,459,2,79,4,9:14 PM,5:13,,,MISS Pierce 19' Pullup Jump Shot,,
+0021000456,460,4,0,4,9:14 PM,5:10,PACERS Rebound,,,,
+0021000456,461,2,1,4,9:14 PM,4:54,MISS Dunleavy 22' Jump Shot,,,,
+0021000456,462,4,0,4,9:14 PM,4:52,,,Celtics Rebound,,
+0021000456,463,6,26,4,9:15 PM,4:35,,,O'Neal Offensive Charge Foul (P6.PN),,
+0021000456,464,5,5,4,9:15 PM,4:35,,,O'Neal Foul Turnover (P4.T13),,
+0021000456,465,8,0,4,9:15 PM,4:35,,,SUB: Davis FOR O'Neal,,
+0021000456,466,5,15,4,9:15 PM,4:17,McRoberts Offensive Goaltending Turnover (P3.T15),,,,
+0021000456,467,2,1,4,9:16 PM,4:03,,,MISS Davis 18' Jump Shot,,
+0021000456,468,4,0,4,9:16 PM,4:02,Collison REBOUND (Off:0 Def:3),,,,
+0021000456,469,2,1,4,9:16 PM,3:48,MISS Granger 17' Jump Shot,,Garnett BLOCK (1 BLK),,
+0021000456,470,4,0,4,9:16 PM,3:46,Foster REBOUND (Off:3 Def:1),,,,
+0021000456,471,2,5,4,9:16 PM,3:45,MISS Foster 2' Layup,,Daniels BLOCK (2 BLK),,
+0021000456,472,4,0,4,9:16 PM,3:43,,,Allen REBOUND (Off:0 Def:3),,
+0021000456,473,2,1,4,9:16 PM,3:39,,,MISS Allen 27' 3PT Jump Shot,,
+0021000456,474,4,0,4,9:16 PM,3:38,McRoberts REBOUND (Off:0 Def:3),,,,
+0021000456,476,8,0,4,9:16 PM,3:34,SUB: Posey FOR McRoberts,,,,
+0021000456,477,2,1,4,9:17 PM,3:26,MISS Granger 25' 3PT Jump Shot,,,,
+0021000456,478,4,0,4,9:17 PM,3:25,Posey REBOUND (Off:1 Def:3),,,,
+0021000456,479,1,43,4,9:17 PM,3:20,Dunleavy 2' Alley Oop Layup (9 PTS) (Posey 1 AST),,,84 - 76,-8
+0021000456,480,9,1,4,9:17 PM,3:15,,,Celtics Timeout: Regular (Reg.4 Short 2),,
+0021000456,482,1,47,4,9:20 PM,3:01,,,Garnett 12' Turnaround Jump Shot (11 PTS) (Pierce 6 AST),86 - 76,-10
+0021000456,483,1,42,4,9:20 PM,2:47,Granger 1' Driving Layup (15 PTS),,,86 - 78,-8
+0021000456,484,6,1,4,9:20 PM,2:35,Dunleavy P.FOUL (P1.T2),,,,
+0021000456,485,1,1,4,9:21 PM,2:27,,,Allen 6' Jump Shot (17 PTS),88 - 78,-10
+0021000456,486,1,1,4,9:21 PM,2:09,Posey 25' 3PT Jump Shot (8 PTS) (Granger 4 AST),,,88 - 81,-7
+0021000456,487,2,1,4,9:21 PM,1:47,,,MISS Davis 17' Jump Shot,,
+0021000456,488,4,0,4,9:21 PM,1:46,Dunleavy REBOUND (Off:0 Def:1),,,,
+0021000456,489,2,1,4,9:22 PM,1:38,MISS Granger 13' Jump Shot,,,,
+0021000456,490,4,0,4,9:22 PM,1:37,,,Garnett REBOUND (Off:1 Def:11),,
+0021000456,491,1,5,4,9:22 PM,1:17,,,Daniels 3' Layup (12 PTS) (Pierce 7 AST),90 - 81,-9
+0021000456,492,2,1,4,9:22 PM,1:12,MISS Granger 25' 3PT Jump Shot,,,,
+0021000456,493,4,0,4,9:22 PM,1:11,Foster REBOUND (Off:4 Def:1),,,,
+0021000456,494,1,72,4,9:22 PM,1:10,Foster 1' Putback Layup (7 PTS),,,90 - 83,-7
+0021000456,495,6,1,4,9:22 PM,0:56,Collison P.FOUL (P1.T3),,,,
+0021000456,496,2,1,4,9:23 PM,0:46,,,MISS Pierce 16' Jump Shot,,
+0021000456,497,4,0,4,9:23 PM,0:46,Dunleavy REBOUND (Off:0 Def:2),,,,
+0021000456,498,9,1,4,9:23 PM,0:45,PACERS Timeout: Regular (Full 5 Short 0),,,,
+0021000456,500,8,0,4,9:25 PM,0:45,SUB: Rush FOR Foster,,,,
+0021000456,501,5,1,4,9:25 PM,0:42,Posey Bad Pass Turnover (P2.T16),,Garnett STEAL (3 STL),,
+0021000456,502,1,8,4,9:25 PM,0:39,,,Pierce 2' Slam Dunk (18 PTS),92 - 83,-9
+0021000456,503,2,1,4,9:25 PM,0:34,MISS Collison 27' 3PT Jump Shot,,,,
+0021000456,504,4,0,4,9:25 PM,0:32,,,Pierce REBOUND (Off:0 Def:5),,
+0021000456,505,1,1,4,9:26 PM,0:16,,,Pierce 26' 3PT Jump Shot (21 PTS),95 - 83,-12
+0021000456,506,2,1,4,9:26 PM,0:10,MISS Collison 25' 3PT Jump Shot,,,,
+0021000456,507,4,0,4,9:26 PM,0:09,,,Garnett REBOUND (Off:1 Def:12),,
+0021000456,508,13,0,4,9:26 PM,0:00,,,,95 - 83,-12

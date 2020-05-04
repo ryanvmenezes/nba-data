@@ -1,0 +1,434 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020601205,0,12,0,1,8:12 PM,12:00,,,,,
+0020601205,1,10,0,1,8:12 PM,12:00,Jump Ball Gadzuric vs. Smith: Tip to Ivey,,,,
+0020601205,2,2,1,1,8:13 PM,11:41,,,MISS Smith 17' Jump Shot,,
+0020601205,3,4,0,1,8:13 PM,11:39,Bell REBOUND (Off:0 Def:1),,,,
+0020601205,4,1,1,1,8:13 PM,11:22,Williams 11' Jump Shot (2 PTS) (Patterson 1 AST),,,0 - 2,2
+0020601205,5,1,5,1,8:13 PM,11:05,,,Williams  Layup (2 PTS) (Lue 1 AST),2 - 2,TIE
+0020601205,6,1,1,1,8:14 PM,10:41,Williams 20' Jump Shot (4 PTS) (Boykins 1 AST),,,2 - 4,2
+0020601205,7,2,1,1,8:14 PM,10:14,,,MISS Shel. Williams 17' Jump Shot,,
+0020601205,8,4,0,1,8:14 PM,10:12,,,Smith REBOUND (Off:1 Def:0),,
+0020601205,9,2,3,1,8:14 PM,10:08,,,MISS Smith 5' Hook Shot,,
+0020601205,10,4,0,1,8:14 PM,10:06,Bell REBOUND (Off:0 Def:2),,,,
+0020601205,11,2,1,1,8:14 PM,9:58,MISS Patterson 11' Jump Shot,,,,
+0020601205,12,4,0,1,8:14 PM,9:56,,,Shel. Williams REBOUND (Off:0 Def:1),,
+0020601205,13,6,2,1,8:15 PM,9:51,Gadzuric S.FOUL (P1.T1),,,,
+0020601205,14,3,11,1,8:15 PM,9:51,,,Lue Free Throw 1 of 2 (1 PTS),3 - 4,1
+0020601205,15,3,12,1,8:15 PM,9:51,,,Lue Free Throw 2 of 2 (2 PTS),4 - 4,TIE
+0020601205,16,2,3,1,8:15 PM,9:33,MISS Gadzuric 3' Hook Shot,,,,
+0020601205,18,4,0,1,8:15 PM,9:31,Gadzuric REBOUND (Off:1 Def:0),,,,
+0020601205,17,1,4,1,8:15 PM,9:31,Gadzuric  Tip Shot (2 PTS),,,4 - 6,2
+0020601205,19,7,5,1,8:16 PM,9:12,Gadzuric Violation:Kicked Ball,,,,
+0020601205,20,1,1,1,8:16 PM,9:01,,,Williams 4' Jump Shot (4 PTS),6 - 6,TIE
+0020601205,21,2,1,1,8:16 PM,8:47,MISS Williams 24' 3PT Jump Shot,,,,
+0020601205,22,4,0,1,8:16 PM,8:45,,,Ivey REBOUND (Off:0 Def:1),,
+0020601205,23,1,1,1,8:17 PM,8:31,,,Williams 16' Jump Shot (6 PTS) (Lue 2 AST),8 - 6,-2
+0020601205,24,2,5,1,8:17 PM,8:11,MISS Boykins  Layup,,,,
+0020601205,25,4,0,1,8:17 PM,8:09,,,Shel. Williams REBOUND (Off:0 Def:2),,
+0020601205,26,2,1,1,8:17 PM,8:05,Gadzuric BLOCK (1 BLK),,MISS Lue 14' Jump Shot,,
+0020601205,27,4,0,1,8:17 PM,8:02,Bell REBOUND (Off:0 Def:3),,,,
+0020601205,28,1,46,1,8:18 PM,7:52,Boykins 5' Running Jump Shot (2 PTS),,,8 - 8,TIE
+0020601205,29,2,1,1,8:18 PM,7:34,,,MISS Smith 18' Jump Shot,,
+0020601205,30,4,0,1,8:18 PM,7:32,Gadzuric REBOUND (Off:1 Def:1),,,,
+0020601205,31,2,1,1,8:18 PM,7:14,MISS Bell 17' Jump Shot,,,,
+0020601205,32,4,0,1,8:18 PM,7:12,,,Ivey REBOUND (Off:0 Def:2),,
+0020601205,33,6,2,1,8:18 PM,7:01,Gadzuric S.FOUL (P2.T2),,,,
+0020601205,34,3,11,1,8:19 PM,7:01,,,Shel. Williams Free Throw 1 of 2 (1 PTS),9 - 8,-1
+0020601205,35,8,0,1,8:19 PM,7:01,SUB: Reiner FOR Gadzuric,,,,
+0020601205,36,3,12,1,8:19 PM,7:01,,,Shel. Williams Free Throw 2 of 2 (2 PTS),10 - 8,-2
+0020601205,37,1,5,1,8:19 PM,6:52,Patterson  Layup (2 PTS) (Boykins 2 AST),,,10 - 10,TIE
+0020601205,38,6,2,1,8:19 PM,6:52,,,Smith S.FOUL (P1.T1),,
+0020601205,39,3,10,1,8:20 PM,6:52,MISS Patterson Free Throw 1 of 1,,,,
+0020601205,40,4,0,1,8:20 PM,6:50,,,Shel. Williams REBOUND (Off:0 Def:3),,
+0020601205,41,6,2,1,8:20 PM,6:36,Reiner S.FOUL (P1.T3),,,,
+0020601205,42,3,11,1,8:21 PM,6:36,,,Shel. Williams Free Throw 1 of 2 (3 PTS),11 - 10,-1
+0020601205,43,3,12,1,8:21 PM,6:36,,,Shel. Williams Free Throw 2 of 2 (4 PTS),12 - 10,-2
+0020601205,44,1,1,1,8:21 PM,6:28,Williams 19' Jump Shot (6 PTS),,,12 - 12,TIE
+0020601205,45,5,2,1,8:21 PM,6:10,Patterson STEAL (1 STL),,Smith Lost Ball Turnover (P1.T1),,
+0020601205,47,1,1,1,8:21 PM,6:02,Boykins 26' 3PT Jump Shot (5 PTS) (Bell 1 AST),,,12 - 15,3
+0020601205,48,2,5,1,8:22 PM,5:42,,,MISS Ivey  Layup,,
+0020601205,50,4,0,1,8:22 PM,5:40,,,Ivey REBOUND (Off:1 Def:2),,
+0020601205,49,2,5,1,8:22 PM,5:40,,,MISS Ivey  Layup,,
+0020601205,51,4,0,1,8:22 PM,5:39,,,Shel. Williams REBOUND (Off:1 Def:3),,
+0020601205,52,1,5,1,8:22 PM,5:38,,,Shel. Williams  Layup (6 PTS),14 - 15,1
+0020601205,53,2,1,1,8:22 PM,5:17,MISS Reiner 12' Jump Shot,,Smith BLOCK (1 BLK),,
+0020601205,54,4,0,1,8:22 PM,5:15,,,Williams REBOUND (Off:0 Def:1),,
+0020601205,55,1,5,1,8:22 PM,5:08,,,Ivey  Layup (2 PTS) (Smith 1 AST),16 - 15,-1
+0020601205,56,9,1,1,8:22 PM,5:00,BUCKS Timeout: Regular (Full 1 Short 0),,,,
+0020601205,58,2,1,1,8:25 PM,4:50,MISS Williams 18' Jump Shot,,,,
+0020601205,59,4,0,1,8:25 PM,4:49,,,Smith REBOUND (Off:1 Def:1),,
+0020601205,60,6,2,1,8:26 PM,4:36,Williams S.FOUL (P1.T4),,,,
+0020601205,61,3,11,1,8:26 PM,4:36,,,MISS Smith Free Throw 1 of 2,,
+0020601205,62,4,1,1,8:26 PM,4:36,,,Hawks Rebound,,
+0020601205,63,3,12,1,8:26 PM,4:36,,,Smith Free Throw 2 of 2 (1 PTS),17 - 15,-2
+0020601205,64,1,5,1,8:26 PM,4:20,Patterson  Layup (4 PTS) (Reiner 1 AST),,,17 - 17,TIE
+0020601205,65,6,2,1,8:26 PM,4:20,,,Shel. Williams S.FOUL (P1.T2),,
+0020601205,66,8,0,1,8:27 PM,4:20,,,SUB: Jones FOR Smith,,
+0020601205,67,8,0,1,8:27 PM,4:20,,,SUB: Johnson FOR Lue,,
+0020601205,68,3,10,1,8:27 PM,4:20,Patterson Free Throw 1 of 1 (5 PTS),,,17 - 18,1
+0020601205,70,1,1,1,8:27 PM,4:05,,,Williams 22' Jump Shot (8 PTS) (Johnson 1 AST),19 - 18,-1
+0020601205,71,6,2,1,8:28 PM,3:37,,,Jones S.FOUL (P1.T3),,
+0020601205,72,3,11,1,8:28 PM,3:37,MISS Patterson Free Throw 1 of 2,,,,
+0020601205,73,4,1,1,8:28 PM,3:37,BUCKS Rebound,,,,
+0020601205,74,3,12,1,8:28 PM,3:37,MISS Patterson Free Throw 2 of 2,,,,
+0020601205,75,4,0,1,8:28 PM,3:36,,,Shel. Williams REBOUND (Off:1 Def:4),,
+0020601205,76,5,2,1,8:28 PM,3:31,Williams STEAL (1 STL),,Johnson Lost Ball Turnover (P1.T2),,
+0020601205,77,1,7,1,8:29 PM,3:23,Reiner  Dunk (2 PTS) (Patterson 2 AST),,,19 - 20,1
+0020601205,78,6,1,1,8:29 PM,3:12,Patterson P.FOUL (P1.PN),,,,
+0020601205,79,3,11,1,8:29 PM,3:12,,,Johnson Free Throw 1 of 2 (1 PTS),20 - 20,TIE
+0020601205,80,3,12,1,8:29 PM,3:12,,,Johnson Free Throw 2 of 2 (2 PTS),21 - 20,-1
+0020601205,81,1,43,1,8:30 PM,3:02,Patterson  Alley Oop Layup (7 PTS) (Williams 1 AST),,,21 - 22,1
+0020601205,82,2,3,1,8:30 PM,2:42,,,MISS Ivey 3' Hook Shot,,
+0020601205,83,4,0,1,8:30 PM,2:40,,,Jones REBOUND (Off:1 Def:0),,
+0020601205,84,2,1,1,8:30 PM,2:36,,,MISS Johnson 27' 3PT Jump Shot,,
+0020601205,85,4,0,1,8:30 PM,2:34,Reiner REBOUND (Off:0 Def:1),,,,
+0020601205,86,1,1,1,8:30 PM,2:28,Bell 25' 3PT Jump Shot (3 PTS) (Williams 2 AST),,,21 - 25,4
+0020601205,87,9,1,1,8:31 PM,2:21,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0020601205,89,1,1,1,8:34 PM,2:09,,,Williams 19' Jump Shot (10 PTS) (Johnson 2 AST),23 - 25,2
+0020601205,90,1,1,1,8:34 PM,1:42,Williams 27' 3PT Jump Shot (9 PTS) (Bell 2 AST),,,23 - 28,5
+0020601205,91,2,1,1,8:34 PM,1:23,,,MISS Ivey 19' Jump Shot,,
+0020601205,93,4,0,1,8:34 PM,1:21,,,Shel. Williams REBOUND (Off:2 Def:4),,
+0020601205,92,1,4,1,8:34 PM,1:21,,,Shel. Williams  Tip Shot (8 PTS),25 - 28,3
+0020601205,94,6,2,1,8:35 PM,1:16,,,Jones S.FOUL (P2.T4),,
+0020601205,95,3,11,1,8:35 PM,1:16,Patterson Free Throw 1 of 2 (8 PTS),,,25 - 29,4
+0020601205,96,8,0,1,8:35 PM,1:16,SUB: Ilyasova FOR Bell,,,,
+0020601205,97,8,0,1,8:35 PM,1:16,,,SUB: Lue FOR Ivey,,
+0020601205,106,8,0,1,8:35 PM,1:16,,,SUB: Wright FOR Shel. Williams,,
+0020601205,98,8,0,1,8:35 PM,1:16,,,SUB: Smith FOR Jones,,
+0020601205,100,3,12,1,8:35 PM,1:16,MISS Patterson Free Throw 2 of 2,,,,
+0020601205,101,4,0,1,8:35 PM,1:13,,,Williams REBOUND (Off:0 Def:2),,
+0020601205,102,2,1,1,8:36 PM,0:53,Patterson BLOCK (1 BLK),,MISS Lue 17' Jump Shot,,
+0020601205,103,4,0,1,8:36 PM,0:50,Williams REBOUND (Off:0 Def:1),,,,
+0020601205,107,6,2,1,8:36 PM,0:49,,,Williams S.FOUL (P1.PN),,
+0020601205,108,3,11,1,8:36 PM,0:49,Patterson Free Throw 1 of 2 (9 PTS),,,25 - 30,5
+0020601205,110,3,12,1,8:37 PM,0:49,Patterson Free Throw 2 of 2 (10 PTS),,,25 - 31,6
+0020601205,111,5,2,1,8:37 PM,0:30,Patterson STEAL (2 STL),,Lue Lost Ball Turnover (P1.T3),,
+0020601205,112,5,1,1,8:37 PM,0:27,Patterson Bad Pass Turnover (P1.T1),,,,
+0020601205,114,2,1,1,8:38 PM,0:08,,,MISS Wright 15' Jump Shot,,
+0020601205,115,4,0,1,8:38 PM,0:06,Reiner REBOUND (Off:0 Def:2),,,,
+0020601205,116,2,1,1,8:38 PM,0:00,MISS Williams 7' Jump Shot,,,,
+0020601205,117,4,0,1,8:38 PM,0:00,BUCKS Rebound,,,,
+0020601205,118,13,0,1,8:38 PM,0:00,,,,25 - 31,6
+0020601205,120,12,0,2,8:41 PM,12:00,,,,25 - 31,6
+0020601205,121,1,5,2,8:41 PM,11:48,Bell  Layup (5 PTS) (Gadzuric 1 AST),,,25 - 33,8
+0020601205,122,2,1,2,8:41 PM,11:33,,,MISS Williams 19' Jump Shot,,
+0020601205,123,4,0,2,8:41 PM,11:31,Gadzuric REBOUND (Off:1 Def:2),,,,
+0020601205,124,1,3,2,8:41 PM,11:19,Reiner 5' Hook Shot (4 PTS),,,25 - 35,10
+0020601205,125,1,3,2,8:42 PM,10:52,,,Smith 3' Hook Shot (3 PTS) (Johnson 3 AST),27 - 35,8
+0020601205,126,6,1,2,8:42 PM,10:32,,,Wright P.FOUL (P1.T1),,
+0020601205,127,8,0,2,8:42 PM,10:32,,,SUB: Shel. Williams FOR Wright,,
+0020601205,128,1,1,2,8:42 PM,10:25,Greer 19' Jump Shot (2 PTS) (Gadzuric 2 AST),,,27 - 37,10
+0020601205,129,2,56,2,8:43 PM,10:09,,,MISS Williams 4' Running Hook Shot,,
+0020601205,130,4,0,2,8:43 PM,10:07,Gadzuric REBOUND (Off:1 Def:3),,,,
+0020601205,131,2,5,2,8:43 PM,9:59,MISS Reiner  Layup,,Shel. Williams BLOCK (1 BLK),,
+0020601205,132,4,0,2,8:43 PM,9:54,,,Smith REBOUND (Off:1 Def:2),,
+0020601205,133,1,7,2,8:43 PM,9:52,,,Williams  Dunk (12 PTS) (Smith 2 AST),29 - 37,8
+0020601205,134,5,2,2,8:43 PM,9:42,Gadzuric Lost Ball Turnover (P1.T2),,Johnson STEAL (1 STL),,
+0020601205,135,2,1,2,8:43 PM,9:35,,,MISS Johnson 16' Jump Shot,,
+0020601205,136,4,0,2,8:43 PM,9:33,,,Shel. Williams REBOUND (Off:3 Def:4),,
+0020601205,137,2,1,2,8:43 PM,9:30,,,MISS Lue 14' Jump Shot,,
+0020601205,138,4,0,2,8:43 PM,9:29,Gadzuric REBOUND (Off:1 Def:4),,,,
+0020601205,139,1,1,2,8:44 PM,9:07,Bell 27' 3PT Jump Shot (8 PTS) (Greer 1 AST),,,29 - 40,11
+0020601205,140,6,2,2,8:44 PM,8:52,Reiner S.FOUL (P2.T1),,,,
+0020601205,141,9,4,2,8:44 PM,8:52,,,,,
+0020601205,143,8,0,2,8:47 PM,8:52,,,SUB: Medvedenko FOR Williams,,
+0020601205,144,8,0,2,8:47 PM,8:52,SUB: Patterson FOR Reiner,,,,
+0020601205,145,3,11,2,8:47 PM,8:52,,,Smith Free Throw 1 of 2 (4 PTS),30 - 40,10
+0020601205,146,3,12,2,8:47 PM,8:52,,,Smith Free Throw 2 of 2 (5 PTS),31 - 40,9
+0020601205,147,1,1,2,8:47 PM,8:37,Bell 26' 3PT Jump Shot (11 PTS) (Patterson 3 AST),,,31 - 43,12
+0020601205,148,2,56,2,8:48 PM,8:18,,,MISS Shel. Williams 3' Running Hook Shot,,
+0020601205,149,4,0,2,8:48 PM,8:16,Ilyasova REBOUND (Off:0 Def:1),,,,
+0020601205,150,5,1,2,8:48 PM,8:14,Ilyasova Bad Pass Turnover (P1.T3),,Shel. Williams STEAL (1 STL),,
+0020601205,151,1,5,2,8:48 PM,8:10,,,Shel. Williams  Layup (10 PTS),33 - 43,10
+0020601205,152,2,5,2,8:48 PM,7:56,MISS Greer  Layup,,,,
+0020601205,154,4,0,2,8:48 PM,7:54,Gadzuric REBOUND (Off:2 Def:4),,,,
+0020601205,153,1,7,2,8:48 PM,7:54,Gadzuric  Dunk (4 PTS),,,33 - 45,12
+0020601205,155,8,0,2,8:49 PM,7:39,,,SUB: Ivey FOR Johnson,,
+0020601205,156,8,0,2,8:49 PM,7:39,SUB: Noel FOR Gadzuric,,,,
+0020601205,157,2,1,2,8:49 PM,7:25,,,MISS Lue 13' Jump Shot,,
+0020601205,158,4,0,2,8:49 PM,7:23,Noel REBOUND (Off:0 Def:1),,,,
+0020601205,159,2,1,2,8:50 PM,7:05,MISS Greer 26' 3PT Jump Shot,,,,
+0020601205,160,4,0,2,8:50 PM,7:03,,,Shel. Williams REBOUND (Off:3 Def:5),,
+0020601205,161,2,1,2,8:50 PM,6:54,,,MISS Ivey 16' Jump Shot,,
+0020601205,162,4,0,2,8:50 PM,6:52,,,Shel. Williams REBOUND (Off:4 Def:5),,
+0020601205,163,2,1,2,8:50 PM,6:49,,,MISS Lue 28' 3PT Jump Shot,,
+0020601205,164,4,0,2,8:50 PM,6:47,,,Ivey REBOUND (Off:2 Def:2),,
+0020601205,165,2,1,2,8:50 PM,6:44,,,MISS Lue 14' Jump Shot,,
+0020601205,166,4,0,2,8:50 PM,6:43,Ilyasova REBOUND (Off:0 Def:2),,,,
+0020601205,167,1,7,2,8:50 PM,6:39,Patterson  Dunk (12 PTS) (Ilyasova 1 AST),,,33 - 47,14
+0020601205,168,2,1,2,8:51 PM,6:16,,,MISS Lue 15' Jump Shot,,
+0020601205,169,4,0,2,8:51 PM,6:14,Bell REBOUND (Off:0 Def:4),,,,
+0020601205,170,5,4,2,8:51 PM,6:07,Ilyasova Traveling Turnover (P2.T4),,,,
+0020601205,171,8,0,2,8:51 PM,6:07,SUB: Williams FOR Bell,,,,
+0020601205,172,1,1,2,8:52 PM,5:47,,,Lue 26' 3PT Jump Shot (5 PTS) (Smith 3 AST),36 - 47,11
+0020601205,173,9,1,2,8:52 PM,5:27,BUCKS Timeout: Regular (Full 2 Short 0),,,,
+0020601205,175,8,0,2,8:54 PM,5:27,SUB: Boykins FOR Greer,,,,
+0020601205,176,8,0,2,8:54 PM,5:27,,,SUB: Williams FOR Lue,,
+0020601205,177,2,1,2,8:54 PM,5:22,MISS Williams 9' Jump Shot,,,,
+0020601205,178,4,0,2,8:54 PM,5:20,,,Smith REBOUND (Off:1 Def:3),,
+0020601205,179,1,3,2,8:55 PM,5:10,,,Medvedenko 4' Hook Shot (2 PTS) (Smith 4 AST),38 - 47,9
+0020601205,180,2,1,2,8:55 PM,4:55,MISS Noel 4' Jump Shot,,,,
+0020601205,181,4,0,2,8:55 PM,4:53,,,Smith REBOUND (Off:1 Def:4),,
+0020601205,182,2,5,2,8:55 PM,4:41,,,MISS Smith  Layup,,
+0020601205,183,4,0,2,8:55 PM,4:39,Patterson REBOUND (Off:0 Def:1),,,,
+0020601205,184,6,4,2,8:55 PM,4:36,Patterson OFF.Foul (P2),,,,
+0020601205,185,5,5,2,8:55 PM,4:36,Patterson Foul Turnover (P2.T5),,,,
+0020601205,186,6,2,2,8:56 PM,4:17,Ilyasova S.FOUL (P1.T2),,,,
+0020601205,187,3,11,2,8:56 PM,4:17,,,Williams Free Throw 1 of 2 (13 PTS),39 - 47,8
+0020601205,188,8,0,2,8:57 PM,4:17,SUB: Gadzuric FOR Ilyasova,,,,
+0020601205,189,3,12,2,8:57 PM,4:17,,,Williams Free Throw 2 of 2 (14 PTS),40 - 47,7
+0020601205,190,1,5,2,8:57 PM,4:01,Patterson  Layup (14 PTS) (Williams 3 AST),,,40 - 49,9
+0020601205,191,2,1,2,8:57 PM,3:37,,,MISS Smith 17' Jump Shot,,
+0020601205,192,4,0,2,8:57 PM,3:35,Gadzuric REBOUND (Off:2 Def:5),,,,
+0020601205,193,1,1,2,8:58 PM,3:27,Williams 14' Jump Shot (11 PTS) (Patterson 4 AST),,,40 - 51,11
+0020601205,194,9,1,2,8:58 PM,3:16,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0020601205,196,2,1,2,9:01 PM,3:00,,,MISS Medvedenko 14' Jump Shot,,
+0020601205,197,4,0,2,9:01 PM,2:58,Williams REBOUND (Off:0 Def:2),,,,
+0020601205,198,2,1,2,9:01 PM,2:41,MISS Noel 26' 3PT Jump Shot,,,,
+0020601205,199,4,0,2,9:01 PM,2:39,,,Williams REBOUND (Off:0 Def:3),,
+0020601205,200,2,1,2,9:01 PM,2:30,,,MISS Medvedenko 24' 3PT Jump Shot,,
+0020601205,201,4,0,2,9:01 PM,2:28,Williams REBOUND (Off:0 Def:3),,,,
+0020601205,202,2,5,2,9:02 PM,2:12,MISS Noel  Layup,,,,
+0020601205,203,4,0,2,9:02 PM,2:10,Noel REBOUND (Off:1 Def:1),,,,
+0020601205,204,5,2,2,9:02 PM,2:08,Noel Lost Ball Turnover (P1.T6),,Smith STEAL (1 STL),,
+0020601205,205,6,2,2,9:02 PM,2:04,Patterson S.FOUL (P3.T3),,,,
+0020601205,206,3,11,2,9:02 PM,2:04,,,MISS Ivey Free Throw 1 of 2,,
+0020601205,207,4,1,2,9:02 PM,2:04,,,Hawks Rebound,,
+0020601205,208,8,0,2,9:02 PM,2:04,SUB: Bell FOR Patterson,,,,
+0020601205,209,3,12,2,9:02 PM,2:04,,,Ivey Free Throw 2 of 2 (3 PTS),41 - 51,10
+0020601205,210,2,1,2,9:03 PM,1:49,MISS Gadzuric 14' Jump Shot,,,,
+0020601205,211,4,0,2,9:03 PM,1:47,,,Shel. Williams REBOUND (Off:4 Def:6),,
+0020601205,212,2,1,2,9:03 PM,1:42,,,MISS Smith 5' Jump Shot,,
+0020601205,213,4,0,2,9:03 PM,1:41,,,Smith REBOUND (Off:2 Def:4),,
+0020601205,214,1,5,2,9:03 PM,1:40,,,Smith  Layup (7 PTS),43 - 51,8
+0020601205,215,1,1,2,9:03 PM,1:30,Williams 26' 3PT Jump Shot (14 PTS) (Bell 3 AST),,,43 - 54,11
+0020601205,216,6,4,2,9:03 PM,1:03,,,Medvedenko OFF.Foul (P1),,
+0020601205,217,5,5,2,9:03 PM,1:03,,,Medvedenko Foul Turnover (P1.T4),,
+0020601205,218,8,0,2,9:04 PM,1:03,,,SUB: Lue FOR Medvedenko,,
+0020601205,219,2,1,2,9:04 PM,0:50,MISS Williams 26' 3PT Jump Shot,,,,
+0020601205,220,4,0,2,9:04 PM,0:48,Noel REBOUND (Off:2 Def:1),,,,
+0020601205,221,1,3,2,9:04 PM,0:40,Gadzuric 5' Hook Shot (6 PTS) (Williams 4 AST),,,43 - 56,13
+0020601205,222,5,2,2,9:05 PM,0:22,Noel STEAL (1 STL),,Smith Lost Ball Turnover (P2.T5),,
+0020601205,223,6,1,2,9:05 PM,0:09,,,Williams P.FOUL (P2.T2),,
+0020601205,224,8,0,2,9:05 PM,0:09,,,SUB: Johnson FOR Williams,,
+0020601205,225,2,5,2,9:06 PM,0:01,MISS Gadzuric 4' Layup,,,,
+0020601205,226,4,0,2,9:06 PM,0:00,,,Shel. Williams REBOUND (Off:4 Def:7),,
+0020601205,227,13,0,2,9:06 PM,0:00,,,,43 - 56,13
+0020601205,229,12,0,3,9:22 PM,12:00,,,,43 - 56,13
+0020601205,230,2,5,3,9:22 PM,11:41,MISS Patterson  Layup,,,,
+0020601205,231,4,0,3,9:22 PM,11:40,,,Shel. Williams REBOUND (Off:4 Def:8),,
+0020601205,232,1,5,3,9:22 PM,11:34,,,Lue  Layup (7 PTS),45 - 56,11
+0020601205,233,1,47,3,9:23 PM,11:10,Gadzuric 6' Turnaround Jump Shot (8 PTS) (Bell 4 AST),,,45 - 58,13
+0020601205,234,2,1,3,9:23 PM,10:49,,,MISS Smith 20' Jump Shot,,
+0020601205,235,4,0,3,9:23 PM,10:47,,,Williams REBOUND (Off:1 Def:3),,
+0020601205,236,2,5,3,9:23 PM,10:43,Gadzuric BLOCK (2 BLK),,MISS Smith  Layup,,
+0020601205,237,4,0,3,9:23 PM,10:41,,,Shel. Williams REBOUND (Off:5 Def:8),,
+0020601205,238,1,5,3,9:23 PM,10:39,,,Shel. Williams  Layup (12 PTS),47 - 58,11
+0020601205,239,1,1,3,9:24 PM,10:15,Williams 11' Jump Shot (16 PTS),,,47 - 60,13
+0020601205,240,6,1,3,9:24 PM,9:57,Bell P.FOUL (P1.T1),,,,
+0020601205,241,1,1,3,9:24 PM,9:52,,,Ivey 19' Jump Shot (5 PTS),49 - 60,11
+0020601205,242,2,5,3,9:25 PM,9:30,MISS Patterson  Layup,,,,
+0020601205,243,4,0,3,9:25 PM,9:28,Patterson REBOUND (Off:1 Def:1),,,,
+0020601205,244,1,5,3,9:25 PM,9:27,Patterson  Layup (16 PTS),,,49 - 62,13
+0020601205,245,1,5,3,9:25 PM,9:10,,,Lue  Layup (9 PTS),51 - 62,11
+0020601205,246,1,5,3,9:25 PM,8:59,Patterson  Layup (18 PTS) (Boykins 3 AST),,,51 - 64,13
+0020601205,247,6,2,3,9:25 PM,8:59,,,Shel. Williams S.FOUL (P2.T1),,
+0020601205,248,3,10,3,9:26 PM,8:59,Patterson Free Throw 1 of 1 (19 PTS),,,51 - 65,14
+0020601205,249,1,5,3,9:26 PM,8:51,,,Ivey  Layup (7 PTS) (Williams 1 AST),53 - 65,12
+0020601205,250,1,56,3,9:26 PM,8:30,Boykins 5' Running Hook Shot (7 PTS),,,53 - 67,14
+0020601205,251,2,1,3,9:27 PM,8:01,,,MISS Williams 16' Jump Shot,,
+0020601205,252,4,0,3,9:27 PM,7:59,Williams REBOUND (Off:0 Def:4),,,,
+0020601205,253,2,1,3,9:27 PM,7:53,MISS Boykins 26' 3PT Jump Shot,,,,
+0020601205,254,4,0,3,9:27 PM,7:51,,,Williams REBOUND (Off:1 Def:4),,
+0020601205,255,6,4,3,9:27 PM,7:41,,,Smith OFF.Foul (P2),,
+0020601205,256,5,5,3,9:27 PM,7:41,,,Smith Foul Turnover (P3.T6),,
+0020601205,257,2,1,3,9:28 PM,7:28,MISS Bell  3PT Jump Shot,,,,
+0020601205,258,4,0,3,9:28 PM,7:27,,,Williams REBOUND (Off:1 Def:5),,
+0020601205,259,6,1,3,9:28 PM,7:26,Boykins P.FOUL (P1.T2),,,,
+0020601205,260,1,1,3,9:28 PM,7:10,,,Lue 15' Jump Shot (11 PTS),55 - 67,12
+0020601205,261,5,1,3,9:28 PM,6:59,Williams Bad Pass Turnover (P1.T7),,Smith STEAL (2 STL),,
+0020601205,262,1,5,3,9:28 PM,6:54,,,Ivey  Layup (9 PTS) (Lue 3 AST),57 - 67,10
+0020601205,263,6,1,3,9:29 PM,6:39,,,Ivey P.FOUL (P1.T2),,
+0020601205,264,2,1,3,9:29 PM,6:28,MISS Boykins 27' 3PT Jump Shot,,,,
+0020601205,266,4,0,3,9:29 PM,6:25,Gadzuric REBOUND (Off:3 Def:5),,,,
+0020601205,265,2,4,3,9:29 PM,6:25,MISS Gadzuric  Tip Shot,,,,
+0020601205,267,4,0,3,9:29 PM,6:24,Williams REBOUND (Off:1 Def:4),,,,
+0020601205,268,1,1,3,9:29 PM,6:23,Williams 12' Jump Shot (18 PTS),,,57 - 69,12
+0020601205,269,5,4,3,9:29 PM,6:09,,,Smith Traveling Turnover (P4.T7),,
+0020601205,270,7,1,3,9:29 PM,6:09,,,Hawks Violation: Delay of game Violation,,
+0020601205,271,1,1,3,9:30 PM,5:50,Williams 20' Jump Shot (20 PTS) (Boykins 4 AST),,,57 - 71,14
+0020601205,272,1,1,3,9:30 PM,5:27,,,Shel. Williams 19' Jump Shot (14 PTS) (Williams 2 AST),59 - 71,12
+0020601205,273,1,1,3,9:31 PM,5:16,Williams 26' 3PT Jump Shot (23 PTS) (Boykins 5 AST),,,59 - 74,15
+0020601205,274,9,1,3,9:31 PM,5:15,,,Hawks Timeout: Regular (Reg.3 Short 0),,
+0020601205,276,6,2,3,9:34 PM,4:55,Bell S.FOUL (P2.T3),,,,
+0020601205,277,3,11,3,9:34 PM,4:55,,,Smith Free Throw 1 of 2 (8 PTS),60 - 74,14
+0020601205,278,3,12,3,9:34 PM,4:55,,,Smith Free Throw 2 of 2 (9 PTS),61 - 74,13
+0020601205,279,1,5,3,9:35 PM,4:41,Patterson  Layup (21 PTS),,,61 - 76,15
+0020601205,280,1,5,3,9:35 PM,4:17,,,Smith  Layup (11 PTS),63 - 76,13
+0020601205,281,2,5,3,9:35 PM,3:58,MISS Bell  Layup,,Williams BLOCK (1 BLK),,
+0020601205,282,4,0,3,9:35 PM,3:56,,,Smith REBOUND (Off:2 Def:5),,
+0020601205,283,2,5,3,9:35 PM,3:48,,,MISS Smith  Layup,,
+0020601205,284,4,0,3,9:35 PM,3:47,Boykins REBOUND (Off:0 Def:1),,,,
+0020601205,285,2,3,3,9:36 PM,3:30,MISS Patterson 3' Hook Shot,,,,
+0020601205,286,4,0,3,9:36 PM,3:28,Patterson REBOUND (Off:2 Def:1),,,,
+0020601205,287,2,1,3,9:36 PM,3:26,MISS Bell 27' 3PT Jump Shot,,,,
+0020601205,288,4,0,3,9:36 PM,3:24,,,Smith REBOUND (Off:2 Def:6),,
+0020601205,289,1,1,3,9:36 PM,3:17,,,Ivey 19' Jump Shot (11 PTS) (Lue 4 AST),65 - 76,11
+0020601205,290,6,2,3,9:36 PM,3:11,,,Williams S.FOUL (P3.T3),,
+0020601205,291,8,0,3,9:36 PM,3:11,,,SUB: Jones FOR Smith,,
+0020601205,292,8,0,3,9:36 PM,3:11,,,SUB: Johnson FOR Lue,,
+0020601205,293,3,11,3,9:36 PM,3:11,Patterson Free Throw 1 of 2 (22 PTS),,,65 - 77,12
+0020601205,294,8,0,3,9:37 PM,3:11,SUB: Reiner FOR Gadzuric,,,,
+0020601205,295,3,12,3,9:37 PM,3:11,MISS Patterson Free Throw 2 of 2,,,,
+0020601205,296,4,0,3,9:37 PM,3:10,,,Williams REBOUND (Off:1 Def:6),,
+0020601205,297,2,1,3,9:37 PM,2:54,,,MISS Williams 15' Jump Shot,,
+0020601205,298,4,0,3,9:37 PM,2:52,Williams REBOUND (Off:1 Def:5),,,,
+0020601205,299,2,1,3,9:37 PM,2:45,MISS Patterson 18' Jump Shot,,,,
+0020601205,300,4,0,3,9:37 PM,2:42,Boykins REBOUND (Off:1 Def:1),,,,
+0020601205,301,1,1,3,9:37 PM,2:31,Williams 27' 3PT Jump Shot (26 PTS) (Boykins 6 AST),,,65 - 80,15
+0020601205,302,2,1,3,9:38 PM,2:16,,,MISS Jones 14' Jump Shot,,
+0020601205,303,4,0,3,9:38 PM,2:15,Reiner REBOUND (Off:0 Def:3),,,,
+0020601205,304,2,5,3,9:38 PM,2:08,MISS Reiner  Layup,,,,
+0020601205,305,4,0,3,9:38 PM,2:06,,,Jones REBOUND (Off:1 Def:1),,
+0020601205,306,6,1,3,9:38 PM,2:06,Patterson P.FOUL (P4.T4),,,,
+0020601205,307,9,1,3,9:38 PM,2:06,BUCKS Timeout: Regular (Full 3 Short 0),,,,
+0020601205,309,1,1,3,9:41 PM,1:53,,,Williams 18' Jump Shot (16 PTS) (Johnson 4 AST),67 - 80,13
+0020601205,310,7,5,3,9:41 PM,1:42,,,Ivey Violation:Kicked Ball,,
+0020601205,311,2,1,3,9:41 PM,1:26,MISS Bell 16' Jump Shot,,,,
+0020601205,312,4,0,3,9:41 PM,1:24,,,Williams REBOUND (Off:1 Def:7),,
+0020601205,313,1,7,3,9:42 PM,1:20,,,Jones  Dunk (2 PTS) (Johnson 5 AST),69 - 80,11
+0020601205,314,1,1,3,9:42 PM,1:00,Bell 27' 3PT Jump Shot (14 PTS) (Boykins 7 AST),,,69 - 83,14
+0020601205,315,1,1,3,9:42 PM,0:41,,,Williams 16' Jump Shot (18 PTS) (Shel. Williams 1 AST),71 - 83,12
+0020601205,316,6,1,3,9:43 PM,0:35,,,Johnson P.FOUL (P1.T4),,
+0020601205,317,2,1,3,9:43 PM,0:27,MISS Boykins 17' Jump Shot,,,,
+0020601205,318,4,0,3,9:43 PM,0:25,,,Williams REBOUND (Off:1 Def:8),,
+0020601205,319,2,1,3,9:43 PM,0:06,,,MISS Ivey 24' 3PT Jump Shot,,
+0020601205,320,4,0,3,9:43 PM,0:04,Patterson REBOUND (Off:2 Def:2),,,,
+0020601205,321,6,1,3,9:43 PM,0:04,,,Williams P.FOUL (P4.PN),,
+0020601205,322,3,11,3,9:44 PM,0:04,Patterson Free Throw 1 of 2 (23 PTS),,,71 - 84,13
+0020601205,323,3,12,3,9:44 PM,0:04,MISS Patterson Free Throw 2 of 2,,,,
+0020601205,324,4,0,3,9:44 PM,0:03,,,Shel. Williams REBOUND (Off:5 Def:9),,
+0020601205,325,2,1,3,9:44 PM,0:01,,,MISS Johnson 45' 3PT Jump Shot,,
+0020601205,326,4,0,3,9:44 PM,0:00,,,Hawks Rebound,,
+0020601205,327,13,0,3,9:45 PM,0:00,,,,71 - 84,13
+0020601205,329,12,0,4,9:47 PM,12:00,,,,71 - 84,13
+0020601205,330,2,1,4,9:47 PM,11:47,,,MISS Williams 19' Jump Shot,,
+0020601205,331,4,0,4,9:47 PM,11:45,Reiner REBOUND (Off:0 Def:4),,,,
+0020601205,332,6,1,4,9:48 PM,11:29,,,Williams P.FOUL (P5.T1),,
+0020601205,333,8,0,4,9:48 PM,11:29,,,SUB: Smith FOR Williams,,
+0020601205,335,7,2,4,9:48 PM,11:24,,,Jones Violation:Defensive Goaltending,,
+0020601205,334,1,3,4,9:48 PM,11:24,Boykins 4' Hook Shot (9 PTS) (Williams 5 AST),,,71 - 86,15
+0020601205,336,5,1,4,9:49 PM,11:09,,,Smith Bad Pass Turnover (P5.T8),,
+0020601205,337,2,56,4,9:49 PM,10:57,MISS Williams 5' Running Hook Shot,,,,
+0020601205,338,4,0,4,9:49 PM,10:54,,,Batista REBOUND (Off:0 Def:1),,
+0020601205,339,6,1,4,9:49 PM,10:46,Reiner P.FOUL (P3.T1),,,,
+0020601205,340,8,0,4,9:49 PM,10:46,SUB: Greer FOR Williams,,,,
+0020601205,341,5,4,4,9:50 PM,10:42,,,Batista Traveling Turnover (P1.T9),,
+0020601205,342,1,1,4,9:50 PM,10:25,Greer 16' Jump Shot (4 PTS) (Boykins 8 AST),,,71 - 88,17
+0020601205,343,2,1,4,9:50 PM,10:10,,,MISS Ivey 20' Jump Shot,,
+0020601205,344,4,0,4,9:50 PM,10:08,Reiner REBOUND (Off:0 Def:5),,,,
+0020601205,345,1,1,4,9:51 PM,10:02,Greer 14' Jump Shot (6 PTS),,,71 - 90,19
+0020601205,346,6,4,4,9:51 PM,9:48,,,Johnson OFF.Foul (P2),,
+0020601205,347,5,5,4,9:51 PM,9:48,,,Johnson Foul Turnover (P2.T10),,
+0020601205,348,2,5,4,9:51 PM,9:31,MISS Greer  Layup,,,,
+0020601205,350,4,0,4,9:51 PM,9:29,Reiner REBOUND (Off:1 Def:5),,,,
+0020601205,349,2,4,4,9:51 PM,9:29,MISS Reiner  Tip Shot,,,,
+0020601205,351,4,0,4,9:51 PM,9:28,,,Batista REBOUND (Off:0 Def:2),,
+0020601205,352,5,1,4,9:52 PM,9:17,Greer STEAL (1 STL),,Smith Bad Pass Turnover (P6.T11),,
+0020601205,353,6,1,4,9:52 PM,9:15,,,Johnson P.FOUL (P3.T2),,
+0020601205,354,9,1,4,9:52 PM,9:15,,,Hawks Timeout: Regular (Reg.4 Short 0),,
+0020601205,355,5,2,4,9:54 PM,9:08,Greer Lost Ball Turnover (P1.T8),,Johnson STEAL (2 STL),,
+0020601205,356,5,41,4,9:55 PM,9:04,,,Johnson Poss Lost Ball Turnover (P3.T12),,
+0020601205,357,6,4,4,9:55 PM,8:56,Reiner OFF.Foul (P4),,,,
+0020601205,358,5,5,4,9:55 PM,8:56,Reiner Foul Turnover (P1.T9),,,,
+0020601205,359,6,1,4,9:55 PM,8:41,Greer P.FOUL (P1.T2),,,,
+0020601205,360,8,0,4,9:56 PM,8:41,SUB: Williams FOR Boykins,,,,
+0020601205,361,1,46,4,9:56 PM,8:27,,,Ivey 6' Running Jump Shot (13 PTS) (Smith 5 AST),73 - 90,17
+0020601205,362,2,1,4,9:56 PM,8:08,MISS Williams 18' Jump Shot,,,,
+0020601205,363,4,0,4,9:56 PM,8:06,,,Ivey REBOUND (Off:2 Def:3),,
+0020601205,364,5,41,4,9:56 PM,8:01,,,Batista Poss Lost Ball Turnover (P2.T13),,
+0020601205,365,8,0,4,9:57 PM,8:01,,,SUB: Shel. Williams FOR Jones,,
+0020601205,366,8,0,4,9:57 PM,8:01,SUB: Noel FOR Bell,,,,
+0020601205,367,2,1,4,9:57 PM,7:46,MISS Williams 13' Jump Shot,,,,
+0020601205,368,4,0,4,9:57 PM,7:44,Noel REBOUND (Off:3 Def:1),,,,
+0020601205,369,2,3,4,9:57 PM,7:41,MISS Gadzuric 3' Hook Shot,,,,
+0020601205,370,4,0,4,9:57 PM,7:39,,,Batista REBOUND (Off:0 Def:3),,
+0020601205,371,1,1,4,9:57 PM,7:20,,,Shel. Williams 17' Jump Shot (16 PTS) (Johnson 6 AST),75 - 90,15
+0020601205,372,1,1,4,9:58 PM,6:52,Noel 24' 3PT Jump Shot (3 PTS) (Williams 6 AST),,,75 - 93,18
+0020601205,373,2,1,4,9:58 PM,6:26,Gadzuric BLOCK (3 BLK),,MISS Ivey 17' Jump Shot,,
+0020601205,374,4,0,4,9:58 PM,6:23,Reiner REBOUND (Off:1 Def:6),,,,
+0020601205,375,1,1,4,9:58 PM,6:15,Noel 24' 3PT Jump Shot (6 PTS) (Williams 7 AST),,,75 - 96,21
+0020601205,376,1,5,4,9:59 PM,5:57,,,Smith  Layup (13 PTS) (Shel. Williams 2 AST),77 - 96,19
+0020601205,377,6,2,4,9:59 PM,5:57,Reiner S.FOUL (P5.T3),,,,
+0020601205,378,9,4,4,9:59 PM,5:57,,,,,
+0020601205,380,8,0,4,10:01 PM,5:57,SUB: Ilyasova FOR Gadzuric,,,,
+0020601205,381,8,0,4,10:02 PM,5:57,SUB: Markota FOR Reiner,,,,
+0020601205,382,3,10,4,10:02 PM,5:57,,,MISS Smith Free Throw 1 of 1,,
+0020601205,383,4,0,4,10:02 PM,5:55,,,Shel. Williams REBOUND (Off:6 Def:9),,
+0020601205,384,2,46,4,10:02 PM,5:38,,,MISS Smith 6' Running Jump Shot,,
+0020601205,386,4,0,4,10:02 PM,5:35,,,Smith REBOUND (Off:3 Def:6),,
+0020601205,385,1,4,4,10:02 PM,5:35,,,Smith  Tip Shot (15 PTS),79 - 96,17
+0020601205,387,5,1,4,10:02 PM,5:24,Williams Bad Pass Turnover (P2.T10),,,,
+0020601205,388,1,1,4,10:03 PM,5:03,,,Johnson 8' Jump Shot (4 PTS),81 - 96,15
+0020601205,389,6,2,4,10:03 PM,5:03,Williams S.FOUL (P2.T4),,,,
+0020601205,390,8,0,4,10:03 PM,5:03,,,SUB: Williams FOR Smith,,
+0020601205,391,3,10,4,10:03 PM,5:03,,,MISS Johnson Free Throw 1 of 1,,
+0020601205,392,4,0,4,10:03 PM,5:02,Greer REBOUND (Off:0 Def:1),,,,
+0020601205,393,2,1,4,10:04 PM,4:51,MISS Ilyasova 25' 3PT Jump Shot,,,,
+0020601205,395,4,0,4,10:04 PM,4:48,Noel REBOUND (Off:4 Def:1),,,,
+0020601205,394,2,4,4,10:04 PM,4:48,MISS Noel  Tip Shot,,,,
+0020601205,397,4,0,4,10:04 PM,4:47,Markota REBOUND (Off:1 Def:0),,,,
+0020601205,396,2,4,4,10:04 PM,4:47,MISS Markota  Tip Shot,,,,
+0020601205,398,4,0,4,10:04 PM,4:45,Markota REBOUND (Off:2 Def:0),,,,
+0020601205,399,5,4,4,10:04 PM,4:45,Greer Traveling Turnover (P2.T11),,,,
+0020601205,400,6,1,4,10:04 PM,4:36,Williams P.FOUL (P3.PN),,,,
+0020601205,401,3,11,4,10:05 PM,4:36,,,MISS Johnson Free Throw 1 of 2,,
+0020601205,402,4,1,4,10:05 PM,4:36,,,Hawks Rebound,,
+0020601205,403,3,12,4,10:05 PM,4:36,,,Johnson Free Throw 2 of 2 (5 PTS),82 - 96,14
+0020601205,404,5,1,4,10:05 PM,4:27,Ilyasova Bad Pass Turnover (P3.T12),,Williams STEAL (1 STL),,
+0020601205,405,5,1,4,10:05 PM,4:24,,,Williams Bad Pass Turnover (P1.T14),,
+0020601205,406,1,5,4,10:06 PM,4:16,Markota  Layup (2 PTS) (Ilyasova 2 AST),,,82 - 98,16
+0020601205,407,2,5,4,10:06 PM,4:00,,,MISS Ivey  Layup,,
+0020601205,408,4,0,4,10:06 PM,4:00,,,Hawks Rebound,,
+0020601205,409,1,5,4,10:06 PM,3:49,,,Batista  Layup (2 PTS) (Shel. Williams 3 AST),84 - 98,14
+0020601205,410,6,2,4,10:07 PM,3:38,,,Johnson S.FOUL (P4.T3),,
+0020601205,411,3,11,4,10:07 PM,3:38,MISS Ilyasova Free Throw 1 of 2,,,,
+0020601205,412,4,1,4,10:07 PM,3:38,BUCKS Rebound,,,,
+0020601205,413,8,0,4,10:07 PM,3:38,,,SUB: Smith FOR Batista,,
+0020601205,414,3,12,4,10:07 PM,3:38,Ilyasova Free Throw 2 of 2 (1 PTS),,,84 - 99,15
+0020601205,415,2,56,4,10:08 PM,3:22,,,MISS Smith  Running Hook Shot,,
+0020601205,416,4,0,4,10:08 PM,3:20,,,Shel. Williams REBOUND (Off:7 Def:9),,
+0020601205,417,6,2,4,10:08 PM,3:18,Markota S.FOUL (P1.PN),,,,
+0020601205,418,3,11,4,10:08 PM,3:18,,,MISS Williams Free Throw 1 of 2,,
+0020601205,419,4,1,4,10:08 PM,3:18,,,Hawks Rebound,,
+0020601205,420,3,12,4,10:08 PM,3:18,,,Williams Free Throw 2 of 2 (19 PTS),85 - 99,14
+0020601205,421,2,1,4,10:09 PM,2:59,MISS Noel 14' Jump Shot,,,,
+0020601205,422,4,0,4,10:09 PM,2:57,,,Smith REBOUND (Off:3 Def:7),,
+0020601205,423,2,1,4,10:09 PM,2:39,,,MISS Shel. Williams 14' Jump Shot,,
+0020601205,424,4,0,4,10:09 PM,2:37,Noel REBOUND (Off:4 Def:2),,,,
+0020601205,425,2,5,4,10:09 PM,2:23,MISS Greer  Layup,,,,
+0020601205,426,4,0,4,10:09 PM,2:22,,,Johnson REBOUND (Off:0 Def:1),,
+0020601205,427,1,5,4,10:09 PM,2:17,,,Johnson  Layup (7 PTS) (Ivey 1 AST),87 - 99,12
+0020601205,428,5,2,4,10:10 PM,1:59,Ilyasova Lost Ball Turnover (P4.T13),,Smith STEAL (3 STL),,
+0020601205,429,6,2,4,10:10 PM,1:53,Ilyasova S.FOUL (P2.PN),,,,
+0020601205,430,9,1,4,10:10 PM,1:53,BUCKS Timeout: Regular (Full 4 Short 0),,,,
+0020601205,432,3,11,4,10:13 PM,1:53,,,Smith Free Throw 1 of 2 (16 PTS),88 - 99,11
+0020601205,433,3,12,4,10:13 PM,1:53,,,Smith Free Throw 2 of 2 (17 PTS),89 - 99,10
+0020601205,434,1,5,4,10:13 PM,1:34,Ilyasova  Layup (3 PTS),,,89 - 101,12
+0020601205,435,6,2,4,10:13 PM,1:34,,,Shel. Williams S.FOUL (P3.T4),,
+0020601205,436,3,10,4,10:14 PM,1:34,Ilyasova Free Throw 1 of 1 (4 PTS),,,89 - 102,13
+0020601205,437,6,2,4,10:14 PM,1:15,Noel S.FOUL (P1.PN),,,,
+0020601205,438,3,11,4,10:14 PM,1:15,,,Williams Free Throw 1 of 2 (20 PTS),90 - 102,12
+0020601205,439,3,12,4,10:15 PM,1:15,,,Williams Free Throw 2 of 2 (21 PTS),91 - 102,11
+0020601205,440,2,5,4,10:15 PM,0:56,MISS Williams  Layup,,,,
+0020601205,442,4,0,4,10:15 PM,0:55,Ilyasova REBOUND (Off:1 Def:2),,,,
+0020601205,441,2,4,4,10:15 PM,0:55,MISS Ilyasova  Tip Shot,,,,
+0020601205,443,4,0,4,10:15 PM,0:53,,,Johnson REBOUND (Off:0 Def:2),,
+0020601205,444,1,5,4,10:15 PM,0:40,,,Johnson  Layup (9 PTS),93 - 102,9
+0020601205,445,2,5,4,10:16 PM,0:32,MISS Ilyasova  Layup,,,,
+0020601205,446,4,0,4,10:16 PM,0:31,,,Shel. Williams REBOUND (Off:7 Def:10),,
+0020601205,447,2,1,4,10:16 PM,0:25,,,MISS Johnson 27' 3PT Jump Shot,,
+0020601205,448,4,0,4,10:16 PM,0:24,Ilyasova REBOUND (Off:1 Def:3),,,,
+0020601205,450,5,11,4,10:16 PM,0:00,BUCKS Turnover: Shot Clock (T#14),,,,
+0020601205,451,1,1,4,10:17 PM,0:00,,,Ivey 29' 3PT Jump Shot (16 PTS) (Smith 6 AST),96 - 102,6
+0020601205,453,13,0,4,10:18 PM,0:00,,,,96 - 102,6

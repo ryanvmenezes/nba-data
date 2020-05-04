@@ -1,0 +1,455 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020200677,0,12,0,1,1:12 PM,12:00,,,,,
+0020200677,1,10,0,1,1:14 PM,12:00,Jump Ball Ilgauskas vs. Wallace: Tip to Parker,,,,
+0020200677,2,5,2,1,1:15 PM,11:43,Ilgauskas Lost Ball Turnover (P1.T1),,Pippen STEAL (1 STL),,
+0020200677,3,6,2,1,1:15 PM,11:38,Miles S.FOUL (P1.T1),,,,
+0020200677,4,3,11,1,1:15 PM,11:38,,,MISS Wells Free Throw 1 of 2,,
+0020200677,5,4,1,1,1:15 PM,11:38,,,Trail Blazers Rebound,,
+0020200677,6,3,12,1,1:15 PM,11:38,,,Wells Free Throw 2 of 2 (1 PTS),1 - 0,-1
+0020200677,7,6,1,1,1:16 PM,11:29,,,Pippen P.FOUL (P1.T1),,
+0020200677,8,1,1,1,1:16 PM,11:24,Davis 17' Jump Shot (2 PTS) (Parker 1 AST),,,1 - 2,1
+0020200677,10,2,1,1,1:16 PM,11:05,,,MISS Wells 16' Jump Shot,,
+0020200677,11,4,0,1,1:16 PM,11:02,Davis REBOUND (Off:0 Def:1),,,,
+0020200677,12,1,5,1,1:16 PM,10:57,Ilgauskas 1' Layup (2 PTS) (Parker 2 AST),,,1 - 4,3
+0020200677,13,2,5,1,1:17 PM,10:40,Ilgauskas BLOCK (1 BLK),,MISS Davis 1' Layup,,
+0020200677,14,4,0,1,1:17 PM,10:37,,,Davis REBOUND (Off:1 Def:0),,
+0020200677,15,1,1,1,1:17 PM,10:33,,,Wallace  3PT Jump Shot (3 PTS) (Pippen 1 AST),4 - 4,TIE
+0020200677,16,7,5,1,1:17 PM,10:22,,,Wallace Violation:Kicked Ball,,
+0020200677,17,6,2,1,1:17 PM,10:19,,,Davis S.FOUL (P1.T2),,
+0020200677,19,3,11,1,1:17 PM,10:19,Boozer Free Throw 1 of 2 (1 PTS),,,4 - 5,1
+0020200677,20,3,12,1,1:18 PM,10:19,MISS Boozer Free Throw 2 of 2,,,,
+0020200677,21,4,0,1,1:18 PM,10:17,,,Anderson REBOUND (Off:0 Def:1),,
+0020200677,22,1,52,1,1:18 PM,10:06,,,Davis 1' Alley Oop Dunk (2 PTS) (Pippen 2 AST),6 - 5,-1
+0020200677,23,2,5,1,1:18 PM,9:56,MISS Ilgauskas 2' Layup,,Wells BLOCK (1 BLK),,
+0020200677,24,4,0,1,1:18 PM,9:56,,,Trail Blazers Rebound,,
+0020200677,25,2,1,1,1:19 PM,9:40,,,MISS Pippen 12' Jump Shot,,
+0020200677,26,4,0,1,1:19 PM,9:37,,,Pippen REBOUND (Off:1 Def:0),,
+0020200677,27,1,59,1,1:19 PM,9:32,,,Pippen 1' Finger Roll (2 PTS) (Anderson 1 AST),8 - 5,-3
+0020200677,28,5,1,1,1:19 PM,9:24,Parker Bad Pass Turnover (P1.T2),,Anderson STEAL (1 STL),,
+0020200677,29,1,5,1,1:19 PM,9:19,,,Wells 1' Layup (3 PTS) (Anderson 2 AST),10 - 5,-5
+0020200677,30,9,1,1,1:19 PM,9:14,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,
+0020200677,34,2,1,1,1:21 PM,8:59,MISS Parker 8' Jump Shot,,,,
+0020200677,35,4,0,1,1:22 PM,8:57,,,Wells REBOUND (Off:0 Def:1),,
+0020200677,36,1,63,1,1:22 PM,8:45,,,Wallace 2' Fadeaway Jumper (5 PTS) (Wells 1 AST),12 - 5,-7
+0020200677,37,6,2,1,1:22 PM,8:45,Boozer S.FOUL (P1.T2),,,,
+0020200677,38,8,0,1,1:22 PM,8:45,SUB: Palacio FOR Parker,,,,
+0020200677,39,3,10,1,1:22 PM,8:45,,,Wallace Free Throw 1 of 1 (6 PTS),13 - 5,-8
+0020200677,40,2,63,1,1:22 PM,8:33,MISS Ilgauskas 15' Fadeaway Jumper,,,,
+0020200677,41,4,0,1,1:22 PM,8:30,,,Wallace REBOUND (Off:0 Def:1),,
+0020200677,42,2,1,1,1:23 PM,8:16,,,MISS Anderson 18' Jump Shot,,
+0020200677,43,4,0,1,1:23 PM,8:14,Ilgauskas REBOUND (Off:0 Def:1),,,,
+0020200677,44,2,1,1,1:23 PM,7:59,MISS Davis 17' Jump Shot,,,,
+0020200677,45,4,0,1,1:23 PM,7:58,,,Pippen REBOUND (Off:1 Def:1),,
+0020200677,46,2,1,1,1:23 PM,7:50,,,MISS Wallace 25' 3PT Jump Shot,,
+0020200677,47,4,0,1,1:23 PM,7:48,Palacio REBOUND (Off:0 Def:1),,,,
+0020200677,48,1,42,1,1:23 PM,7:43,Palacio 3' Driving Layup (2 PTS),,,13 - 7,-6
+0020200677,49,1,1,1,1:24 PM,7:21,,,Anderson 25' 3PT Jump Shot (3 PTS) (Davis 1 AST),16 - 7,-9
+0020200677,50,2,47,1,1:24 PM,6:58,MISS Ilgauskas 5' Turnaround Jump Shot,,,,
+0020200677,51,4,0,1,1:24 PM,6:57,CAVALIERS Rebound,,,,
+0020200677,52,2,1,1,1:25 PM,6:55,MISS Davis 14' Jump Shot,,,,
+0020200677,53,4,0,1,1:25 PM,6:53,Boozer REBOUND (Off:1 Def:0),,,,
+0020200677,54,2,3,1,1:25 PM,6:51,MISS Boozer 4' Hook Shot,,Wallace BLOCK (1 BLK),,
+0020200677,55,4,0,1,1:25 PM,6:47,,,Wallace REBOUND (Off:0 Def:2),,
+0020200677,56,2,1,1,1:25 PM,6:44,,,MISS Anderson  3PT Jump Shot,,
+0020200677,57,4,0,1,1:25 PM,6:41,Miles REBOUND (Off:0 Def:1),,,,
+0020200677,58,2,1,1,1:25 PM,6:37,MISS Boozer 16' Jump Shot,,,,
+0020200677,59,4,0,1,1:25 PM,6:35,,,Wells REBOUND (Off:0 Def:2),,
+0020200677,60,1,52,1,1:25 PM,6:19,,,Wallace 1' Alley Oop Dunk (8 PTS) (Wells 2 AST),18 - 7,-11
+0020200677,61,5,1,1,1:25 PM,6:08,Miles Bad Pass Turnover (P1.T3),,Davis STEAL (1 STL),,
+0020200677,62,6,3,1,1:26 PM,5:54,Palacio L.B.FOUL (P1.T3),,,,
+0020200677,63,8,0,1,1:26 PM,5:54,SUB: Mihm FOR Boozer,,,,
+0020200677,64,5,1,1,1:26 PM,5:43,Mihm STEAL (1 STL),,Wells Bad Pass Turnover (P1.T1),,
+0020200677,65,5,1,1,1:26 PM,5:43,Ilgauskas Bad Pass Turnover (P2.T4),,,,
+0020200677,66,1,5,1,1:27 PM,5:37,,,Pippen 1' Layup (4 PTS) (Wallace 1 AST),20 - 7,-13
+0020200677,67,5,1,1,1:27 PM,5:17,Palacio Bad Pass Turnover (P1.T5),,Anderson STEAL (2 STL),,
+0020200677,68,9,1,1,1:27 PM,5:13,CAVALIERS Timeout: Regular (Full 2 Short 0),,,,
+0020200677,72,2,1,1,1:30 PM,5:04,,,MISS Wells 24' 3PT Jump Shot,,
+0020200677,73,4,0,1,1:30 PM,5:02,Davis REBOUND (Off:0 Def:2),,,,
+0020200677,74,2,1,1,1:30 PM,4:52,MISS Davis 18' Jump Shot,,,,
+0020200677,75,4,0,1,1:30 PM,4:51,,,Wells REBOUND (Off:0 Def:3),,
+0020200677,76,1,1,1,1:30 PM,4:38,,,Davis 15' Jump Shot (4 PTS) (Wells 3 AST),22 - 7,-15
+0020200677,77,1,59,1,1:31 PM,4:18,Miles 2' Finger Roll (2 PTS),,,22 - 9,-13
+0020200677,78,8,0,1,1:31 PM,4:06,,,SUB: McInnis FOR Pippen,,
+0020200677,79,8,0,1,1:31 PM,4:06,SUB: Diop FOR Ilgauskas,,,,
+0020200677,80,2,47,1,1:31 PM,3:56,,,MISS Davis 12' Turnaround Jump Shot,,
+0020200677,81,4,0,1,1:31 PM,3:53,Diop REBOUND (Off:0 Def:1),,,,
+0020200677,82,6,2,1,1:31 PM,3:50,,,Wells S.FOUL (P1.T3),,
+0020200677,83,3,11,1,1:31 PM,3:50,Mihm Free Throw 1 of 2 (1 PTS),,,22 - 10,-12
+0020200677,84,3,12,1,1:32 PM,3:50,MISS Mihm Free Throw 2 of 2,,,,
+0020200677,85,4,0,1,1:32 PM,3:49,,,Anderson REBOUND (Off:0 Def:2),,
+0020200677,86,1,1,1,1:32 PM,3:36,,,Wallace 5' Jump Shot (10 PTS),24 - 10,-14
+0020200677,87,6,2,1,1:32 PM,3:36,Mihm S.FOUL (P1.T4),,,,
+0020200677,88,3,10,1,1:33 PM,3:36,,,MISS Wallace Free Throw 1 of 1,,
+0020200677,89,4,0,1,1:33 PM,3:35,Mihm REBOUND (Off:0 Def:1),,,,
+0020200677,90,1,44,1,1:33 PM,3:23,Davis 1' Reverse Layup (4 PTS),,,24 - 12,-12
+0020200677,91,1,1,1,1:33 PM,3:07,,,Anderson 22' Jump Shot (5 PTS),26 - 12,-14
+0020200677,92,2,1,1,1:33 PM,2:53,MISS Davis 17' Jump Shot,,,,
+0020200677,93,4,0,1,1:33 PM,2:51,,,Anderson REBOUND (Off:0 Def:3),,
+0020200677,94,6,1,1,1:34 PM,2:43,Mihm P.FOUL (P2.PN),,,,
+0020200677,95,3,11,1,1:34 PM,2:43,,,MISS Wallace Free Throw 1 of 2,,
+0020200677,96,4,1,1,1:34 PM,2:43,,,Trail Blazers Rebound,,
+0020200677,97,3,12,1,1:34 PM,2:43,,,Wallace Free Throw 2 of 2 (11 PTS),27 - 12,-15
+0020200677,98,2,1,1,1:35 PM,2:24,MISS Miles 16' Jump Shot,,,,
+0020200677,99,4,0,1,1:35 PM,2:22,CAVALIERS Rebound,,,,
+0020200677,100,2,1,1,1:35 PM,2:10,MISS Palacio 16' Jump Shot,,,,
+0020200677,101,4,0,1,1:35 PM,2:07,,,Wells REBOUND (Off:0 Def:4),,
+0020200677,102,1,5,1,1:35 PM,2:03,,,Wallace 3' Layup (13 PTS) (Wells 4 AST),29 - 12,-17
+0020200677,103,6,2,1,1:35 PM,2:03,Diop S.FOUL (P1.PN),,,,
+0020200677,104,8,0,1,1:35 PM,2:03,SUB: Wagner FOR Palacio,,,,
+0020200677,105,8,0,1,1:36 PM,2:03,,,SUB: Patterson FOR Wells,,
+0020200677,106,3,10,1,1:36 PM,2:03,,,Wallace Free Throw 1 of 1 (14 PTS),30 - 12,-18
+0020200677,107,1,1,1,1:36 PM,1:47,Mihm 15' Jump Shot (3 PTS) (Davis 1 AST),,,30 - 14,-16
+0020200677,108,1,1,1,1:37 PM,1:33,,,McInnis 13' Jump Shot (2 PTS) (Davis 2 AST),32 - 14,-18
+0020200677,109,2,1,1,1:37 PM,1:16,MISS Wagner 6' Jump Shot,,,,
+0020200677,110,4,0,1,1:37 PM,1:13,,,Wallace REBOUND (Off:0 Def:3),,
+0020200677,111,6,2,1,1:37 PM,0:59,Diop S.FOUL (P2.PN),,,,
+0020200677,112,3,11,1,1:37 PM,0:59,,,Patterson Free Throw 1 of 2 (1 PTS),33 - 14,-19
+0020200677,113,3,12,1,1:38 PM,0:59,,,Patterson Free Throw 2 of 2 (2 PTS),34 - 14,-20
+0020200677,114,5,1,1,1:38 PM,0:48,Davis Bad Pass Turnover (P1.T6),,,,
+0020200677,115,5,1,1,1:39 PM,0:27,Miles STEAL (1 STL),,Davis Bad Pass Turnover (P1.T2),,
+0020200677,116,6,1,1,1:39 PM,0:27,,,Davis P.FOUL (P2.T4),,
+0020200677,118,8,0,1,1:39 PM,0:27,,,SUB: Randolph FOR Davis,,
+0020200677,119,1,1,1,1:40 PM,0:10,Mihm 16' Jump Shot (5 PTS) (Davis 2 AST),,,34 - 16,-18
+0020200677,120,2,1,1,1:40 PM,0:01,,,MISS Wallace 24' 3PT Jump Shot,,
+0020200677,121,4,0,1,1:40 PM,0:00,Davis REBOUND (Off:0 Def:3),,,,
+0020200677,122,13,0,1,1:40 PM,0:00,,,,34 - 16,-18
+0020200677,124,12,0,2,1:42 PM,12:00,,,,34 - 16,-18
+0020200677,125,2,1,2,1:43 PM,11:37,Mihm BLOCK (1 BLK),,MISS Randolph 5' Jump Shot,,
+0020200677,126,4,0,2,1:43 PM,11:34,Diop REBOUND (Off:0 Def:2),,,,
+0020200677,127,2,5,2,1:43 PM,11:31,MISS Wagner 2' Layup,,Patterson BLOCK (1 BLK),,
+0020200677,128,4,0,2,1:43 PM,11:31,CAVALIERS Rebound,,,,
+0020200677,129,2,1,2,1:43 PM,11:21,MISS Davis 15' Jump Shot,,,,
+0020200677,130,4,0,2,1:43 PM,11:19,,,Sabonis REBOUND (Off:0 Def:1),,
+0020200677,131,6,2,2,1:44 PM,11:14,Diop S.FOUL (P3.T1),,,,
+0020200677,132,8,0,2,1:44 PM,11:14,,,SUB: Stoudamire FOR Anderson,,
+0020200677,133,3,11,2,1:44 PM,11:14,,,Patterson Free Throw 1 of 2 (3 PTS),35 - 16,-19
+0020200677,134,8,0,2,1:44 PM,11:14,SUB: Hill FOR Diop,,,,
+0020200677,135,3,12,2,1:44 PM,11:14,,,Patterson Free Throw 2 of 2 (4 PTS),36 - 16,-20
+0020200677,136,2,1,2,1:45 PM,10:57,MISS Wagner 25' 3PT Jump Shot,,,,
+0020200677,137,4,0,2,1:45 PM,10:55,Mihm REBOUND (Off:1 Def:1),,,,
+0020200677,138,1,5,2,1:45 PM,10:55,Mihm 1' Layup (7 PTS),,,36 - 18,-18
+0020200677,139,6,2,2,1:45 PM,10:55,,,Sabonis S.FOUL (P1.T1),,
+0020200677,140,3,10,2,1:45 PM,10:55,Mihm Free Throw 1 of 1 (8 PTS),,,36 - 19,-17
+0020200677,141,1,3,2,1:46 PM,10:41,,,Sabonis 4' Hook Shot (2 PTS) (Stoudamire 1 AST),38 - 19,-19
+0020200677,142,1,42,2,1:46 PM,10:31,Wagner 2' Driving Layup (2 PTS),,,38 - 21,-17
+0020200677,143,6,4,2,1:46 PM,10:14,,,Randolph OFF.Foul (P1),,
+0020200677,144,5,5,2,1:46 PM,10:14,,,Randolph Foul Turnover (P1.T3),,
+0020200677,145,1,8,2,1:47 PM,9:58,Davis 1' Slam Dunk (6 PTS) (Mihm 1 AST),,,38 - 23,-15
+0020200677,146,1,1,2,1:47 PM,9:42,,,McInnis 16' Jump Shot (4 PTS),40 - 23,-17
+0020200677,147,6,1,2,1:47 PM,9:26,,,Patterson P.FOUL (P1.T2),,
+0020200677,148,2,1,2,1:47 PM,9:23,MISS Jones 25' 3PT Jump Shot,,,,
+0020200677,149,4,0,2,1:47 PM,9:21,Hill REBOUND (Off:1 Def:0),,,,
+0020200677,150,5,1,2,1:48 PM,9:18,Wagner Bad Pass Turnover (P1.T7),,,,
+0020200677,151,2,1,2,1:48 PM,9:00,,,MISS Stoudamire 18' Jump Shot,,
+0020200677,152,4,0,2,1:48 PM,8:58,Davis REBOUND (Off:0 Def:4),,,,
+0020200677,153,2,5,2,1:48 PM,8:50,MISS Davis 2' Layup,,,,
+0020200677,154,4,0,2,1:48 PM,8:49,,,Sabonis REBOUND (Off:0 Def:2),,
+0020200677,155,2,5,2,1:48 PM,8:44,Hill BLOCK (1 BLK),,MISS Stoudamire 2' Layup,,
+0020200677,156,4,0,2,1:48 PM,8:40,,,Stoudamire REBOUND (Off:1 Def:0),,
+0020200677,157,5,1,2,1:48 PM,8:33,Hill STEAL (1 STL),,Stoudamire Bad Pass Turnover (P1.T4),,
+0020200677,158,2,5,2,1:48 PM,8:28,MISS Hill 2' Layup,,,,
+0020200677,159,4,0,2,1:48 PM,8:27,Jones REBOUND (Off:1 Def:0),,,,
+0020200677,160,1,1,2,1:49 PM,8:24,Wagner 17' Jump Shot (4 PTS) (Jones 1 AST),,,40 - 25,-15
+0020200677,161,9,1,2,1:49 PM,8:14,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,
+0020200677,163,8,0,2,1:50 PM,8:14,SUB: Boozer FOR Mihm,,,,
+0020200677,165,1,1,2,1:51 PM,8:02,,,Stoudamire 22' Jump Shot (2 PTS),42 - 25,-17
+0020200677,166,1,1,2,1:52 PM,7:44,Jones 20' Jump Shot (2 PTS) (Wagner 1 AST),,,42 - 27,-15
+0020200677,167,2,1,2,1:52 PM,7:29,,,MISS Stoudamire 20' Jump Shot,,
+0020200677,168,4,0,2,1:52 PM,7:27,CAVALIERS Rebound,,,,
+0020200677,169,6,3,2,1:52 PM,7:27,,,Sabonis L.B.FOUL (P2.T3),,
+0020200677,170,8,0,2,1:52 PM,7:27,,,SUB: Wallace FOR Randolph,,
+0020200677,171,2,1,2,1:52 PM,7:16,MISS Davis  3PT Jump Shot,,,,
+0020200677,172,4,0,2,1:52 PM,7:12,Jones REBOUND (Off:2 Def:0),,,,
+0020200677,173,1,1,2,1:52 PM,7:09,Wagner 25' 3PT Jump Shot (7 PTS) (Jones 2 AST),,,42 - 30,-12
+0020200677,174,2,1,2,1:53 PM,6:44,,,MISS Wallace 18' Jump Shot,,
+0020200677,175,4,0,2,1:53 PM,6:42,,,Patterson REBOUND (Off:1 Def:0),,
+0020200677,176,1,46,2,1:53 PM,6:31,,,McInnis 7' Running Jump Shot (6 PTS),44 - 30,-14
+0020200677,177,1,1,2,1:53 PM,6:19,Jones 24' 3PT Jump Shot (5 PTS) (Davis 3 AST),,,44 - 33,-11
+0020200677,178,2,63,2,1:54 PM,5:52,,,MISS Patterson 16' Fadeaway Jumper,,
+0020200677,179,4,0,2,1:54 PM,5:49,Jones REBOUND (Off:2 Def:1),,,,
+0020200677,180,2,1,2,1:54 PM,5:40,MISS Davis 21' Jump Shot,,,,
+0020200677,181,4,0,2,1:54 PM,5:37,,,Wallace REBOUND (Off:0 Def:4),,
+0020200677,182,1,47,2,1:54 PM,5:26,,,Wallace 7' Turnaround Jump Shot (16 PTS) (Stoudamire 2 AST),46 - 33,-13
+0020200677,183,1,46,2,1:54 PM,5:06,Wagner 4' Running Jump Shot (9 PTS) (Hill 1 AST),,,46 - 35,-11
+0020200677,184,1,1,2,1:55 PM,4:53,,,Stoudamire 10' Jump Shot (4 PTS) (Sabonis 1 AST),48 - 35,-13
+0020200677,185,5,1,2,1:55 PM,4:47,Davis Bad Pass Turnover (P2.T8),,Patterson STEAL (1 STL),,
+0020200677,186,2,1,2,1:55 PM,4:34,,,MISS Stoudamire 21' Jump Shot,,
+0020200677,187,4,0,2,1:55 PM,4:32,Jones REBOUND (Off:2 Def:2),,,,
+0020200677,188,5,1,2,1:55 PM,4:29,Jones Bad Pass Turnover (P1.T9),,Sabonis STEAL (1 STL),,
+0020200677,189,9,1,2,1:55 PM,4:24,,,Trail Blazers Timeout: Regular (Reg.2 Short 0),,
+0020200677,191,8,0,2,1:57 PM,4:24,,,SUB: Wells FOR McInnis,,
+0020200677,192,8,0,2,1:57 PM,4:24,,,SUB: Davis FOR Sabonis,,
+0020200677,193,8,0,2,1:57 PM,4:24,,,SUB: Pippen FOR Stoudamire,,
+0020200677,194,8,0,2,1:57 PM,4:24,SUB: Ilgauskas FOR Hill,,,,
+0020200677,195,2,3,2,1:58 PM,4:11,,,MISS Patterson 6' Hook Shot,,
+0020200677,196,4,0,2,1:58 PM,4:08,Boozer REBOUND (Off:1 Def:1),,,,
+0020200677,197,2,1,2,1:58 PM,3:54,MISS Wagner 24' 3PT Jump Shot,,,,
+0020200677,198,4,0,2,1:58 PM,3:52,,,Patterson REBOUND (Off:1 Def:1),,
+0020200677,199,1,8,2,1:58 PM,3:47,,,Patterson  Slam Dunk (6 PTS) (Pippen 3 AST),50 - 35,-15
+0020200677,200,2,1,2,1:58 PM,3:31,MISS Wagner 24' 3PT Jump Shot,,,,
+0020200677,201,4,0,2,1:58 PM,3:29,,,Davis REBOUND (Off:1 Def:1),,
+0020200677,202,2,44,2,1:59 PM,3:23,,,MISS Wells 2' Reverse Layup,,
+0020200677,203,4,0,2,1:59 PM,3:22,Boozer REBOUND (Off:1 Def:2),,,,
+0020200677,204,6,1,2,1:59 PM,3:22,,,Patterson P.FOUL (P2.T4),,
+0020200677,205,8,0,2,1:59 PM,3:22,SUB: Parker FOR Davis,,,,
+0020200677,206,8,0,2,1:59 PM,3:22,,,SUB: Anderson FOR Patterson,,
+0020200677,207,5,2,2,1:59 PM,3:02,Jones Lost Ball Turnover (P2.T10),,Wells STEAL (1 STL),,
+0020200677,208,1,8,2,2:00 PM,2:57,,,Wallace 1' Slam Dunk (18 PTS) (Pippen 4 AST),52 - 35,-17
+0020200677,211,6,1,2,2:00 PM,2:39,,,Pippen P.FOUL (P2.PN),,
+0020200677,212,9,4,2,2:00 PM,2:39,,,,,
+0020200677,216,3,11,2,2:02 PM,2:39,Ilgauskas Free Throw 1 of 2 (3 PTS),,,52 - 36,-16
+0020200677,217,3,12,2,2:02 PM,2:39,Ilgauskas Free Throw 2 of 2 (4 PTS),,,52 - 37,-15
+0020200677,218,1,1,2,2:03 PM,2:23,,,Wallace 16' Jump Shot (20 PTS) (Wells 5 AST),54 - 37,-17
+0020200677,219,1,58,2,2:03 PM,2:03,Ilgauskas 2' Turnaround Hook Shot (6 PTS) (Wagner 2 AST),,,54 - 39,-15
+0020200677,220,6,1,2,2:03 PM,1:45,Wagner P.FOUL (P1.T2),,,,
+0020200677,221,8,0,2,2:04 PM,1:45,SUB: Miles FOR Wagner,,,,
+0020200677,222,6,1,2,2:04 PM,1:36,Parker P.FOUL (P1.PN),,,,
+0020200677,223,3,11,2,2:04 PM,1:36,,,Anderson Free Throw 1 of 2 (6 PTS),55 - 39,-16
+0020200677,224,3,12,2,2:04 PM,1:36,,,Anderson Free Throw 2 of 2 (7 PTS),56 - 39,-17
+0020200677,225,1,1,2,2:05 PM,1:25,Ilgauskas 4' Jump Shot (8 PTS) (Parker 3 AST),,,56 - 41,-15
+0020200677,226,2,1,2,2:05 PM,1:13,,,MISS Anderson 19' Jump Shot,,
+0020200677,227,4,0,2,2:05 PM,1:11,Boozer REBOUND (Off:1 Def:3),,,,
+0020200677,228,5,2,2,2:05 PM,1:07,Boozer Lost Ball Turnover (P1.T11),,Davis STEAL (2 STL),,
+0020200677,229,2,5,2,2:05 PM,1:02,,,MISS Anderson 1' Layup,,
+0020200677,231,4,0,2,2:05 PM,1:01,,,Wells REBOUND (Off:1 Def:4),,
+0020200677,230,1,4,2,2:05 PM,1:01,,,Wells 1' Tip Shot (5 PTS),58 - 41,-17
+0020200677,232,2,1,2,2:06 PM,0:44,MISS Jones 25' 3PT Jump Shot,,,,
+0020200677,233,4,0,2,2:06 PM,0:42,Ilgauskas REBOUND (Off:1 Def:1),,,,
+0020200677,234,1,1,2,2:06 PM,0:41,Ilgauskas 15' Jump Shot (10 PTS),,,58 - 43,-15
+0020200677,235,1,63,2,2:06 PM,0:23,,,Wells 15' Fadeaway Jumper (7 PTS),60 - 43,-17
+0020200677,237,2,1,2,2:06 PM,0:00,MISS Jones  3PT Jump Shot,,,,
+0020200677,238,4,0,2,2:06 PM,0:00,CAVALIERS Rebound,,,,
+0020200677,239,13,0,2,2:06 PM,0:00,,,,60 - 43,-17
+0020200677,241,12,0,3,2:22 PM,12:00,,,,60 - 43,-17
+0020200677,242,6,2,3,2:23 PM,11:44,Ilgauskas S.FOUL (P1.T1),,,,
+0020200677,243,3,11,3,2:23 PM,11:44,,,Davis Free Throw 1 of 2 (5 PTS),61 - 43,-18
+0020200677,244,3,12,3,2:23 PM,11:44,,,Davis Free Throw 2 of 2 (6 PTS),62 - 43,-19
+0020200677,245,2,1,3,2:24 PM,11:27,MISS Parker 16' Jump Shot,,,,
+0020200677,246,4,0,3,2:24 PM,11:25,,,Wallace REBOUND (Off:0 Def:5),,
+0020200677,247,1,1,3,2:24 PM,11:18,,,Anderson 20' Jump Shot (9 PTS),64 - 43,-21
+0020200677,248,6,2,3,2:24 PM,11:02,,,Wallace S.FOUL (P1.T1),,
+0020200677,249,3,11,3,2:24 PM,11:02,MISS Ilgauskas Free Throw 1 of 2,,,,
+0020200677,250,4,1,3,2:24 PM,11:02,CAVALIERS Rebound,,,,
+0020200677,251,3,12,3,2:24 PM,11:02,MISS Ilgauskas Free Throw 2 of 2,,,,
+0020200677,252,4,0,3,2:25 PM,10:57,,,Davis REBOUND (Off:1 Def:2),,
+0020200677,253,2,1,3,2:25 PM,10:42,,,MISS Anderson 25' 3PT Jump Shot,,
+0020200677,254,4,0,3,2:25 PM,10:41,Miles REBOUND (Off:0 Def:2),,,,
+0020200677,255,1,1,3,2:25 PM,10:30,Davis 14' Jump Shot (8 PTS),,,64 - 45,-19
+0020200677,256,2,1,3,2:26 PM,10:02,,,MISS Anderson 24' 3PT Jump Shot,,
+0020200677,257,4,0,3,2:26 PM,10:00,Miles REBOUND (Off:0 Def:3),,,,
+0020200677,258,5,1,3,2:26 PM,9:55,Miles Bad Pass Turnover (P2.T12),,Wallace STEAL (1 STL),,
+0020200677,259,6,1,3,2:26 PM,9:52,Davis P.FOUL (P1.T2),,,,
+0020200677,260,2,1,3,2:26 PM,9:44,,,MISS Wells 21' Jump Shot,,
+0020200677,261,4,0,3,2:26 PM,9:42,Parker REBOUND (Off:0 Def:1),,,,
+0020200677,262,1,52,3,2:26 PM,9:37,Miles 1' Alley Oop Dunk (4 PTS) (Parker 4 AST),,,64 - 47,-17
+0020200677,263,5,8,3,2:27 PM,9:19,,,Davis 3 Second Violation Turnover (P2.T5),,
+0020200677,264,1,42,3,2:27 PM,9:06,Boozer 2' Driving Layup (3 PTS) (Parker 5 AST),,,64 - 49,-15
+0020200677,265,6,1,3,2:27 PM,8:52,Boozer P.FOUL (P2.T3),,,,
+0020200677,266,2,1,3,2:28 PM,8:40,,,MISS Anderson 12' Jump Shot,,
+0020200677,267,4,0,3,2:28 PM,8:39,,,Davis REBOUND (Off:2 Def:2),,
+0020200677,268,1,5,3,2:28 PM,8:34,,,Davis 1' Layup (8 PTS),66 - 49,-17
+0020200677,269,1,8,3,2:28 PM,8:22,Ilgauskas 1' Slam Dunk (12 PTS) (Boozer 1 AST),,,66 - 51,-15
+0020200677,270,6,1,3,2:29 PM,8:07,Ilgauskas P.FOUL (P2.T4),,,,
+0020200677,271,1,1,3,2:29 PM,8:05,,,Pippen 15' Jump Shot (6 PTS) (Wells 6 AST),68 - 51,-17
+0020200677,272,6,17,3,2:29 PM,7:51,,,Trail Blazers T.Foul (Def. 3 Sec Wells ),,
+0020200677,273,3,16,3,2:29 PM,7:51,Davis Free Throw Technical (9 PTS),,,68 - 52,-16
+0020200677,274,2,1,3,2:30 PM,7:45,MISS Parker 24' 3PT Jump Shot,,,,
+0020200677,275,4,0,3,2:30 PM,7:43,,,Trail Blazers Rebound,,
+0020200677,276,2,1,3,2:30 PM,7:31,,,MISS Anderson 21' Jump Shot,,
+0020200677,277,4,0,3,2:30 PM,7:30,Ilgauskas REBOUND (Off:1 Def:2),,,,
+0020200677,278,2,5,3,2:30 PM,7:23,MISS Parker 2' Layup,,,,
+0020200677,279,4,0,3,2:30 PM,7:23,Ilgauskas REBOUND (Off:2 Def:2),,,,
+0020200677,280,6,2,3,2:31 PM,7:23,,,Davis S.FOUL (P3.T2),,
+0020200677,281,3,11,3,2:31 PM,7:23,Ilgauskas Free Throw 1 of 2 (13 PTS),,,68 - 53,-15
+0020200677,282,3,12,3,2:31 PM,7:23,Ilgauskas Free Throw 2 of 2 (14 PTS),,,68 - 54,-14
+0020200677,283,6,2,3,2:31 PM,7:08,Ilgauskas S.FOUL (P3.PN),,,,
+0020200677,284,3,11,3,2:32 PM,7:08,,,Wells Free Throw 1 of 2 (8 PTS),69 - 54,-15
+0020200677,285,3,12,3,2:32 PM,7:08,,,MISS Wells Free Throw 2 of 2,,
+0020200677,286,4,0,3,2:32 PM,7:08,Ilgauskas REBOUND (Off:2 Def:3),,,,
+0020200677,287,6,2,3,2:32 PM,6:49,,,Wallace S.FOUL (P2.T3),,
+0020200677,288,3,11,3,2:33 PM,6:49,Boozer Free Throw 1 of 2 (4 PTS),,,69 - 55,-14
+0020200677,289,3,12,3,2:33 PM,6:49,Boozer Free Throw 2 of 2 (5 PTS),,,69 - 56,-13
+0020200677,290,6,1,3,2:33 PM,6:39,Parker P.FOUL (P2.PN),,,,
+0020200677,291,3,11,3,2:34 PM,6:39,,,Pippen Free Throw 1 of 2 (7 PTS),70 - 56,-14
+0020200677,292,3,12,3,2:34 PM,6:39,,,Pippen Free Throw 2 of 2 (8 PTS),71 - 56,-15
+0020200677,293,5,2,3,2:34 PM,6:31,Parker Lost Ball Turnover (P2.T13),,Wallace STEAL (2 STL),,
+0020200677,294,6,1,3,2:34 PM,6:28,Boozer P.FOUL (P3.PN),,,,
+0020200677,295,3,11,3,2:35 PM,6:28,,,Wallace Free Throw 1 of 2 (21 PTS),72 - 56,-16
+0020200677,296,3,12,3,2:35 PM,6:28,,,Wallace Free Throw 2 of 2 (22 PTS),73 - 56,-17
+0020200677,297,1,1,3,2:36 PM,6:05,Boozer 15' Jump Shot (7 PTS),,,73 - 58,-15
+0020200677,298,2,59,3,2:36 PM,5:48,,,MISS Wells 2' Finger Roll,,
+0020200677,299,4,0,3,2:36 PM,5:45,Boozer REBOUND (Off:1 Def:4),,,,
+0020200677,300,6,2,3,2:36 PM,5:43,,,Pippen S.FOUL (P3.T4),,
+0020200677,301,9,1,3,2:36 PM,5:43,CAVALIERS Timeout: Regular (Full 3 Short 0),,,,
+0020200677,305,3,11,3,2:39 PM,5:43,Miles Free Throw 1 of 2 (5 PTS),,,73 - 59,-14
+0020200677,306,3,12,3,2:39 PM,5:43,MISS Miles Free Throw 2 of 2,,,,
+0020200677,309,4,0,3,2:39 PM,5:39,Ilgauskas REBOUND (Off:3 Def:3),,,,
+0020200677,310,1,61,3,2:40 PM,5:35,Miles 2' Driving Finger Roll (7 PTS) (Ilgauskas 1 AST),,,73 - 61,-12
+0020200677,311,1,1,3,2:40 PM,5:16,,,Wallace 25' 3PT Jump Shot (25 PTS),76 - 61,-15
+0020200677,312,2,1,3,2:40 PM,5:05,MISS Miles 6' Jump Shot,,,,
+0020200677,313,4,0,3,2:40 PM,5:01,,,Wallace REBOUND (Off:0 Def:6),,
+0020200677,314,1,1,3,2:40 PM,4:58,,,Davis 15' Jump Shot (10 PTS) (Pippen 5 AST),78 - 61,-17
+0020200677,315,6,2,3,2:40 PM,4:47,,,Wallace S.FOUL (P3.PN),,
+0020200677,316,3,11,3,2:40 PM,4:47,MISS Miles Free Throw 1 of 2,,,,
+0020200677,317,4,1,3,2:40 PM,4:47,CAVALIERS Rebound,,,,
+0020200677,319,8,0,3,2:41 PM,4:47,SUB: Wagner FOR Parker,,,,
+0020200677,320,3,12,3,2:41 PM,4:47,Miles Free Throw 2 of 2 (8 PTS),,,78 - 62,-16
+0020200677,322,5,2,3,2:41 PM,4:39,Wagner STEAL (1 STL),,Anderson Lost Ball Turnover (P1.T6),,
+0020200677,323,2,5,3,2:41 PM,4:35,MISS Wagner  Layup,,,,
+0020200677,325,4,0,3,2:41 PM,4:32,Miles REBOUND (Off:1 Def:3),,,,
+0020200677,324,1,64,3,2:41 PM,4:32,Miles  Follow Up Dunk (10 PTS),,,78 - 64,-14
+0020200677,326,2,8,3,2:42 PM,4:15,,,MISS Davis 2' Slam Dunk,,
+0020200677,327,4,0,3,2:42 PM,4:12,Miles REBOUND (Off:1 Def:4),,,,
+0020200677,333,7,2,3,2:42 PM,4:04,,,Davis Violation:Defensive Goaltending,,
+0020200677,328,1,1,3,2:42 PM,4:04,Ilgauskas 9' Jump Shot (16 PTS),,,78 - 66,-12
+0020200677,329,5,2,3,2:42 PM,3:56,Davis STEAL (1 STL),,Pippen Lost Ball Turnover (P1.T7),,
+0020200677,330,1,8,3,2:42 PM,3:51,Davis 1' Slam Dunk (11 PTS),,,78 - 68,-10
+0020200677,331,9,1,3,2:43 PM,3:51,,,Trail Blazers Timeout: Regular (Reg.3 Short 0),,
+0020200677,337,1,63,3,2:45 PM,3:37,,,Wallace 16' Fadeaway Jumper (27 PTS),80 - 68,-12
+0020200677,338,2,63,3,2:45 PM,3:12,MISS Ilgauskas 11' Fadeaway Jumper,,,,
+0020200677,339,4,0,3,2:45 PM,3:10,,,Wells REBOUND (Off:1 Def:5),,
+0020200677,340,2,1,3,2:45 PM,3:03,,,MISS Wells 6' Jump Shot,,
+0020200677,341,4,0,3,2:46 PM,3:02,,,Davis REBOUND (Off:3 Def:2),,
+0020200677,344,2,1,3,2:46 PM,2:55,,,MISS Pippen 18' Jump Shot,,
+0020200677,346,4,0,3,2:46 PM,2:52,Boozer REBOUND (Off:1 Def:5),,,,
+0020200677,347,1,1,3,2:46 PM,2:36,Ilgauskas 12' Jump Shot (18 PTS) (Boozer 2 AST),,,80 - 70,-10
+0020200677,348,5,8,3,2:46 PM,2:15,,,Davis 3 Second Violation Turnover (P3.T8),,
+0020200677,349,8,0,3,2:46 PM,2:15,SUB: Jones FOR Miles,,,,
+0020200677,350,2,1,3,2:47 PM,2:04,MISS Ilgauskas 14' Jump Shot,,,,
+0020200677,351,4,0,3,2:47 PM,2:04,,,Trail Blazers Rebound,,
+0020200677,352,6,3,3,2:47 PM,2:04,Boozer L.B.FOUL (P4.PN),,,,
+0020200677,353,3,11,3,2:47 PM,2:04,,,Wallace Free Throw 1 of 2 (28 PTS),81 - 70,-11
+0020200677,354,3,12,3,2:48 PM,2:04,,,Wallace Free Throw 2 of 2 (29 PTS),82 - 70,-12
+0020200677,356,2,1,3,2:48 PM,1:45,MISS Jones 24' 3PT Jump Shot,,,,
+0020200677,357,4,0,3,2:48 PM,1:44,,,Davis REBOUND (Off:3 Def:3),,
+0020200677,358,6,1,3,2:48 PM,1:40,Wagner P.FOUL (P2.PN),,,,
+0020200677,359,8,0,3,2:49 PM,1:40,SUB: Stewart FOR Boozer,,,,
+0020200677,360,3,11,3,2:49 PM,1:40,,,Anderson Free Throw 1 of 2 (10 PTS),83 - 70,-13
+0020200677,361,8,0,3,2:49 PM,1:40,SUB: Mihm FOR Ilgauskas,,,,
+0020200677,362,3,12,3,2:49 PM,1:40,,,Anderson Free Throw 2 of 2 (11 PTS),84 - 70,-14
+0020200677,363,2,5,3,2:49 PM,1:30,MISS Davis 1' Layup,,,,
+0020200677,364,4,0,3,2:49 PM,1:28,,,Wells REBOUND (Off:1 Def:6),,
+0020200677,365,1,1,3,2:49 PM,1:22,,,Pippen  3PT Jump Shot (11 PTS) (Wells 7 AST),87 - 70,-17
+0020200677,366,2,1,3,2:50 PM,0:59,MISS Wagner 14' Jump Shot,,,,
+0020200677,367,4,0,3,2:50 PM,0:57,,,Pippen REBOUND (Off:1 Def:2),,
+0020200677,368,1,52,3,2:50 PM,0:53,,,Anderson 1' Alley Oop Dunk (13 PTS) (Wells 8 AST),89 - 70,-19
+0020200677,369,9,2,3,2:50 PM,0:53,CAVALIERS Timeout: Short (Full 3 Short 1),,,,
+0020200677,373,1,46,3,2:51 PM,0:29,Wagner 5' Running Jump Shot (11 PTS),,,89 - 72,-17
+0020200677,374,1,7,3,2:51 PM,0:12,,,Davis  Dunk (12 PTS) (Wallace 2 AST),91 - 72,-19
+0020200677,375,5,1,3,2:52 PM,0:02,Wagner Bad Pass Turnover (P2.T14),,,,
+0020200677,377,13,0,3,2:52 PM,0:00,,,,91 - 72,-19
+0020200677,379,12,0,4,2:54 PM,12:00,,,,91 - 72,-19
+0020200677,380,2,63,4,2:55 PM,11:47,MISS Davis 9' Fadeaway Jumper,,,,
+0020200677,381,4,0,4,2:55 PM,11:45,CAVALIERS Rebound,,,,
+0020200677,382,6,1,4,2:56 PM,11:33,,,Wallace P.FOUL (P4.T1),,
+0020200677,383,2,1,4,2:56 PM,11:24,MISS Mihm 16' Jump Shot,,,,
+0020200677,384,4,0,4,2:56 PM,11:23,,,Wallace REBOUND (Off:0 Def:7),,
+0020200677,385,5,2,4,2:56 PM,11:06,Mihm STEAL (2 STL),,Davis Lost Ball Turnover (P4.T9),,
+0020200677,386,2,1,4,2:56 PM,10:59,MISS Davis 16' Jump Shot,,,,
+0020200677,387,4,0,4,2:56 PM,10:59,,,Trail Blazers Rebound,,
+0020200677,388,6,3,4,2:56 PM,10:59,Mihm L.B.FOUL (P3.T1),,,,
+0020200677,389,8,0,4,2:57 PM,10:59,,,SUB: Randolph FOR Wallace,,
+0020200677,390,1,1,4,2:57 PM,10:41,,,Stoudamire 24' 3PT Jump Shot (7 PTS) (Davis 3 AST),94 - 72,-22
+0020200677,391,2,1,4,2:57 PM,10:21,MISS Davis 16' Jump Shot,,,,
+0020200677,392,4,0,4,2:57 PM,10:20,CAVALIERS Rebound,,,,
+0020200677,393,6,3,4,2:57 PM,10:20,,,Randolph L.B.FOUL (P2.T2),,
+0020200677,394,8,0,4,2:58 PM,10:20,SUB: Ilgauskas FOR Stewart,,,,
+0020200677,395,8,0,4,2:58 PM,10:20,,,SUB: McInnis FOR Davis,,
+0020200677,396,8,0,4,2:58 PM,10:20,,,SUB: Sabonis FOR Anderson,,
+0020200677,397,8,0,4,2:58 PM,10:20,SUB: Parker FOR Davis,,,,
+0020200677,398,2,63,4,2:58 PM,10:12,MISS Ilgauskas 13' Fadeaway Jumper,,,,
+0020200677,399,4,0,4,2:58 PM,10:12,,,Trail Blazers Rebound,,
+0020200677,400,6,3,4,2:58 PM,10:12,Mihm L.B.FOUL (P4.T2),,,,
+0020200677,401,2,1,4,2:59 PM,9:51,Mihm BLOCK (2 BLK),,MISS Randolph 4' Jump Shot,,
+0020200677,402,4,0,4,2:59 PM,9:48,,,Randolph REBOUND (Off:1 Def:0),,
+0020200677,403,5,11,4,2:59 PM,9:48,,,Trail Blazers Turnover: Shot Clock (T#10),,
+0020200677,404,2,5,4,2:59 PM,9:38,MISS Mihm 2' Layup,,,,
+0020200677,405,4,0,4,2:59 PM,9:36,Mihm REBOUND (Off:2 Def:1),,,,
+0020200677,406,1,63,4,2:59 PM,9:34,Mihm 6' Fadeaway Jumper (10 PTS),,,94 - 74,-20
+0020200677,407,2,1,4,3:00 PM,9:09,,,MISS Stoudamire 17' Jump Shot,,
+0020200677,408,4,0,4,3:00 PM,9:08,Wagner REBOUND (Off:0 Def:1),,,,
+0020200677,409,1,44,4,3:00 PM,9:03,Parker 2' Reverse Layup (2 PTS) (Wagner 3 AST),,,94 - 76,-18
+0020200677,410,9,1,4,3:00 PM,9:00,,,Trail Blazers Timeout: Regular (Reg.4 Short 0),,
+0020200677,414,1,44,4,3:02 PM,8:41,,,Randolph 2' Reverse Layup (2 PTS) (Sabonis 2 AST),96 - 76,-20
+0020200677,415,2,1,4,3:03 PM,8:28,MISS Mihm 10' Jump Shot,,,,
+0020200677,417,4,0,4,3:03 PM,8:26,Ilgauskas REBOUND (Off:4 Def:3),,,,
+0020200677,416,2,4,4,3:03 PM,8:26,MISS Ilgauskas  Tip Shot,,,,
+0020200677,418,4,0,4,3:03 PM,8:23,,,Sabonis REBOUND (Off:0 Def:3),,
+0020200677,419,2,43,4,3:03 PM,8:08,,,MISS Sabonis 3' Alley Oop Layup,,
+0020200677,421,4,0,4,3:03 PM,8:06,,,Sabonis REBOUND (Off:1 Def:3),,
+0020200677,420,1,4,4,3:03 PM,8:06,,,Sabonis  Tip Shot (4 PTS),98 - 76,-22
+0020200677,422,2,1,4,3:03 PM,7:47,MISS Wagner 24' 3PT Jump Shot,,,,
+0020200677,423,4,0,4,3:03 PM,7:45,Mihm REBOUND (Off:3 Def:1),,,,
+0020200677,424,1,47,4,3:03 PM,7:43,Mihm 7' Turnaround Jump Shot (12 PTS),,,98 - 78,-20
+0020200677,425,2,47,4,3:04 PM,7:16,,,MISS McInnis 15' Turnaround Jump Shot,,
+0020200677,426,4,0,4,3:04 PM,7:13,Mihm REBOUND (Off:3 Def:2),,,,
+0020200677,427,5,2,4,3:04 PM,7:03,Mihm Lost Ball Turnover (P1.T15),,Patterson STEAL (2 STL),,
+0020200677,428,2,8,4,3:04 PM,6:58,,,MISS Patterson 1' Slam Dunk,,
+0020200677,429,4,0,4,3:04 PM,6:52,,,McInnis REBOUND (Off:1 Def:0),,
+0020200677,430,6,1,4,3:04 PM,6:47,Mihm P.FOUL (P5.T3),,,,
+0020200677,431,8,0,4,3:04 PM,6:47,SUB: Miles FOR Mihm,,,,
+0020200677,432,1,5,4,3:05 PM,6:33,,,Randolph 2' Layup (4 PTS) (Patterson 1 AST),100 - 78,-22
+0020200677,433,5,1,4,3:05 PM,6:14,Parker Bad Pass Turnover (P3.T16),,Sabonis STEAL (2 STL),,
+0020200677,434,6,2,4,3:05 PM,6:10,Miles S.FOUL (P2.T4),,,,
+0020200677,435,3,11,4,3:05 PM,6:10,,,Randolph Free Throw 1 of 2 (5 PTS),101 - 78,-23
+0020200677,436,8,0,4,3:06 PM,6:10,SUB: Davis FOR Parker,,,,
+0020200677,437,3,12,4,3:06 PM,6:10,,,Randolph Free Throw 2 of 2 (6 PTS),102 - 78,-24
+0020200677,438,6,2,4,3:06 PM,5:59,,,Randolph S.FOUL (P3.T3),,
+0020200677,439,9,4,4,3:06 PM,5:59,,,,,
+0020200677,443,3,11,4,3:09 PM,5:59,Davis Free Throw 1 of 2 (12 PTS),,,102 - 79,-23
+0020200677,444,3,12,4,3:09 PM,5:59,Davis Free Throw 2 of 2 (13 PTS),,,102 - 80,-22
+0020200677,445,1,5,4,3:09 PM,5:39,,,Stoudamire 2' Layup (9 PTS) (Sabonis 3 AST),104 - 80,-24
+0020200677,446,5,2,4,3:10 PM,5:23,Davis Lost Ball Turnover (P3.T17),,Sabonis STEAL (3 STL),,
+0020200677,447,2,1,4,3:10 PM,5:16,,,MISS Patterson 15' Jump Shot,,
+0020200677,448,4,0,4,3:10 PM,5:15,Miles REBOUND (Off:1 Def:5),,,,
+0020200677,449,2,1,4,3:10 PM,5:10,MISS Davis 5' Jump Shot,,,,
+0020200677,451,4,0,4,3:10 PM,5:07,Ilgauskas REBOUND (Off:5 Def:3),,,,
+0020200677,450,1,5,4,3:10 PM,5:07,Ilgauskas 2' Layup (20 PTS),,,104 - 82,-22
+0020200677,452,1,52,4,3:10 PM,4:53,,,Patterson 1' Alley Oop Dunk (8 PTS) (McInnis 1 AST),106 - 82,-24
+0020200677,453,2,3,4,3:11 PM,4:33,MISS Ilgauskas 4' Hook Shot,,,,
+0020200677,454,4,0,4,3:11 PM,4:29,,,Randolph REBOUND (Off:1 Def:1),,
+0020200677,455,2,1,4,3:11 PM,4:25,Miles BLOCK (1 BLK),,MISS McInnis 3' Jump Shot,,
+0020200677,456,4,0,4,3:11 PM,4:25,,,Trail Blazers Rebound,,
+0020200677,457,8,0,4,3:11 PM,4:25,SUB: Diop FOR Ilgauskas,,,,
+0020200677,458,8,0,4,3:11 PM,4:25,,,SUB: Woods FOR Sabonis,,
+0020200677,459,2,5,4,3:11 PM,4:09,Diop BLOCK (1 BLK),,MISS Randolph 2' Layup,,
+0020200677,460,4,0,4,3:12 PM,4:09,,,Trail Blazers Rebound,,
+0020200677,462,5,1,4,3:12 PM,4:08,Miles STEAL (2 STL),,McInnis Bad Pass Turnover (P1.T11),,
+0020200677,463,1,44,4,3:12 PM,4:02,Davis 1' Reverse Layup (15 PTS) (Miles 1 AST),,,106 - 84,-22
+0020200677,464,2,1,4,3:13 PM,3:47,,,MISS McInnis 18' Jump Shot,,
+0020200677,465,4,0,4,3:13 PM,3:46,Diop REBOUND (Off:0 Def:3),,,,
+0020200677,466,1,42,4,3:13 PM,3:39,Miles 1' Driving Layup (12 PTS) (Davis 4 AST),,,106 - 86,-20
+0020200677,467,2,1,4,3:13 PM,3:20,,,MISS Randolph 15' Jump Shot,,
+0020200677,468,4,0,4,3:13 PM,3:20,CAVALIERS Rebound,,,,
+0020200677,469,6,3,4,3:13 PM,3:20,,,Patterson L.B.FOUL (P3.T4),,
+0020200677,470,2,1,4,3:14 PM,2:59,MISS Wagner 13' Jump Shot,,,,
+0020200677,472,4,0,4,3:14 PM,2:57,Miles REBOUND (Off:2 Def:5),,,,
+0020200677,471,1,4,4,3:14 PM,2:57,Miles  Tip Shot (14 PTS),,,106 - 88,-18
+0020200677,473,1,1,4,3:14 PM,2:38,,,Woods 15' Jump Shot (2 PTS) (McInnis 2 AST),108 - 88,-20
+0020200677,474,6,4,4,3:14 PM,2:27,Jones OFF.Foul (P1),,,,
+0020200677,475,5,5,4,3:14 PM,2:27,Jones Foul Turnover (P3.T18),,,,
+0020200677,476,9,1,4,3:14 PM,2:27,CAVALIERS Timeout: Regular (Full 4 Short 1),,,,
+0020200677,478,6,11,4,3:15 PM,2:27,Jones T.FOUL (P1.T4),,,,
+0020200677,481,3,16,4,3:16 PM,2:27,,,MISS Woods Free Throw Technical,,
+0020200677,482,4,1,4,3:16 PM,2:27,,,Trail Blazers Rebound,,
+0020200677,483,1,1,4,3:17 PM,2:03,,,Stoudamire 25' 3PT Jump Shot (12 PTS) (McInnis 3 AST),111 - 88,-23
+0020200677,484,2,5,4,3:18 PM,1:51,MISS Davis 1' Layup,,McInnis BLOCK (1 BLK),,
+0020200677,485,4,0,4,3:18 PM,1:51,CAVALIERS Rebound,,,,
+0020200677,486,8,0,4,3:18 PM,1:51,SUB: Stewart FOR Miles,,,,
+0020200677,487,8,0,4,3:18 PM,1:51,SUB: Parker FOR Davis,,,,
+0020200677,488,6,2,4,3:18 PM,1:44,,,Patterson S.FOUL (P4.PN),,
+0020200677,489,3,11,4,3:18 PM,1:44,MISS Stewart Free Throw 1 of 2,,,,
+0020200677,490,4,1,4,3:18 PM,1:44,CAVALIERS Rebound,,,,
+0020200677,493,7,3,4,3:19 PM,1:44,,,Randolph Violation:Lane,,
+0020200677,494,3,12,4,3:19 PM,1:44,Stewart Free Throw 2 of 2 (1 PTS),,,111 - 89,-22
+0020200677,495,5,1,4,3:19 PM,1:24,Stewart STEAL (1 STL),,McInnis Bad Pass Turnover (P2.T12),,
+0020200677,497,1,5,4,3:20 PM,1:16,Wagner 1' Layup (13 PTS) (Parker 6 AST),,,111 - 91,-20
+0020200677,499,1,1,4,3:20 PM,1:05,,,Woods  3PT Jump Shot (5 PTS) (Stoudamire 3 AST),114 - 91,-23
+0020200677,501,1,42,4,3:20 PM,0:58,Parker 1' Driving Layup (4 PTS),,,114 - 93,-21
+0020200677,503,5,1,4,3:20 PM,0:45,,,Stoudamire Bad Pass Turnover (P2.T13),,
+0020200677,505,1,5,4,3:20 PM,0:39,Wagner 1' Layup (15 PTS) (Parker 7 AST),,,114 - 95,-19
+0020200677,507,2,1,4,3:21 PM,0:19,,,MISS Stoudamire 23' Jump Shot,,
+0020200677,508,4,0,4,3:21 PM,0:17,,,Woods REBOUND (Off:1 Def:0),,
+0020200677,509,2,5,4,3:21 PM,0:16,Parker BLOCK (1 BLK),,MISS Woods 1' Layup,,
+0020200677,510,4,0,4,3:21 PM,0:16,,,Trail Blazers Rebound,,
+0020200677,511,13,0,4,3:21 PM,0:00,,,,114 - 95,-19

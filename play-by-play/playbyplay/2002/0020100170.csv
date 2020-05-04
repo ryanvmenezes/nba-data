@@ -1,0 +1,447 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100170,0,12,0,1,7:40 PM,12:00,,,,,
+0020100170,1,10,0,1,7:41 PM,12:00,Jump Ball Stepania vs. Bradley: Tip to Nash,,,,
+0020100170,2,2,1,1,7:42 PM,11:45,,,MISS Finley 12' Jump Shot,,
+0020100170,3,4,0,1,7:42 PM,11:42,Stepania REBOUND (Off:0 Def:1),,,,
+0020100170,4,1,1,1,7:42 PM,11:22,Mack 16' Jump Shot (2 PTS),,,0 - 2,2
+0020100170,5,1,1,1,7:42 PM,10:59,,,Nowitzki 18' Jump Shot (2 PTS) (Nash 1 AST),2 - 2,TIE
+0020100170,6,1,1,1,7:43 PM,10:44,Jones 25' 3PT Jump Shot (3 PTS) (Carter 1 AST),,,2 - 5,3
+0020100170,7,1,1,1,7:43 PM,10:32,,,Nash 24' 3PT Jump Shot (3 PTS),5 - 5,TIE
+0020100170,8,2,1,1,7:43 PM,10:16,MISS Mack 21' Jump Shot,,,,
+0020100170,9,4,0,1,7:43 PM,10:14,,,Bradley REBOUND (Off:0 Def:1),,
+0020100170,10,1,1,1,7:43 PM,10:00,,,Nowitzki 11' Jump Shot (4 PTS),7 - 5,-2
+0020100170,11,6,1,1,7:44 PM,9:35,,,Bradley P.FOUL (P1.T1),,
+0020100170,12,1,7,1,7:44 PM,9:28,Stepania  Dunk (2 PTS) (Carter 2 AST),,,7 - 7,TIE
+0020100170,13,6,2,1,7:45 PM,9:11,Mack S.FOUL (P1.T1),,,,
+0020100170,14,3,11,1,7:45 PM,9:11,,,Nowitzki Free Throw 1 of 2 (5 PTS),8 - 7,-1
+0020100170,15,3,12,1,7:45 PM,9:11,,,Nowitzki Free Throw 2 of 2 (6 PTS),9 - 7,-2
+0020100170,16,2,55,1,7:45 PM,8:55,MISS Stepania 5' Hook Shot,,,,
+0020100170,17,4,0,1,7:45 PM,8:51,,,Bradley REBOUND (Off:0 Def:2),,
+0020100170,18,2,1,1,7:46 PM,8:42,,,MISS Nash 17' Jump Shot,,
+0020100170,19,4,0,1,7:46 PM,8:40,Ellis REBOUND (Off:0 Def:1),,,,
+0020100170,20,6,1,1,7:46 PM,8:35,,,Nowitzki P.FOUL (P1.T2),,
+0020100170,21,2,1,1,7:46 PM,8:25,MISS Carter 9' Jump Shot,,,,
+0020100170,22,4,0,1,7:46 PM,8:23,,,Nowitzki REBOUND (Off:0 Def:1),,
+0020100170,23,1,44,1,7:46 PM,8:15,,,Nowitzki  Reverse Layup (8 PTS),11 - 7,-4
+0020100170,24,6,2,1,7:46 PM,8:15,Stepania S.FOUL (P1.T2),,,,
+0020100170,25,3,10,1,7:47 PM,8:15,,,Nowitzki Free Throw 1 of 1 (9 PTS),12 - 7,-5
+0020100170,26,5,1,1,7:47 PM,8:00,Ellis Bad Pass Turnover (P1.T1),,Buckner STEAL (1 STL),,
+0020100170,27,1,1,1,7:47 PM,7:51,,,Finley 16' Jump Shot (2 PTS),14 - 7,-7
+0020100170,28,6,1,1,7:47 PM,7:48,,,Buckner P.FOUL (P1.T3),,
+0020100170,29,9,1,1,7:48 PM,7:48,HEAT Timeout: Regular (Full 1 Short 0),,,,
+0020100170,31,1,1,1,7:50 PM,7:36,Ellis 24' 3PT Jump Shot (3 PTS) (Carter 3 AST),,,14 - 10,-4
+0020100170,32,2,7,1,7:50 PM,7:20,Ellis BLOCK (1 BLK),,MISS Bradley  Dunk,,
+0020100170,33,4,0,1,7:50 PM,7:16,Jones REBOUND (Off:0 Def:1),,,,
+0020100170,34,1,1,1,7:51 PM,7:09,Mack 24' 3PT Jump Shot (5 PTS) (Carter 4 AST),,,14 - 13,-1
+0020100170,35,5,1,1,7:51 PM,6:51,Stepania STEAL (1 STL),,Nash Bad Pass Turnover (P1.T1),,
+0020100170,36,6,4,1,7:51 PM,6:45,Carter OFF.Foul (P1),,,,
+0020100170,37,5,5,1,7:51 PM,6:45,Carter Foul Turnover (P1.T2),,,,
+0020100170,38,1,55,1,7:52 PM,6:27,,,Bradley 2' Hook Shot (2 PTS) (Nowitzki 1 AST),16 - 13,-3
+0020100170,39,2,1,1,7:52 PM,6:03,MISS Jones 18' Jump Shot,,,,
+0020100170,40,4,0,1,7:52 PM,6:01,,,Nowitzki REBOUND (Off:0 Def:2),,
+0020100170,41,5,2,1,7:52 PM,5:51,,,Finley Lost Ball Turnover (P1.T2),,
+0020100170,42,6,2,1,7:53 PM,5:48,,,Finley S.FOUL (P1.T4),,
+0020100170,43,8,0,1,7:53 PM,5:48,SUB: Mourning FOR Stepania,,,,
+0020100170,44,3,11,1,7:53 PM,5:48,Mack Free Throw 1 of 2 (6 PTS),,,16 - 14,-2
+0020100170,45,3,12,1,7:53 PM,5:48,MISS Mack Free Throw 2 of 2,,,,
+0020100170,46,4,0,1,7:53 PM,5:46,Mack REBOUND (Off:1 Def:0),,,,
+0020100170,47,1,1,1,7:54 PM,5:27,Jones 25' 3PT Jump Shot (6 PTS) (Carter 5 AST),,,16 - 17,1
+0020100170,48,6,1,1,7:54 PM,5:16,Mourning P.FOUL (P1.T3),,,,
+0020100170,49,2,1,1,7:54 PM,5:08,,,MISS Finley 18' Jump Shot,,
+0020100170,50,4,0,1,7:54 PM,5:06,Mourning REBOUND (Off:0 Def:1),,,,
+0020100170,51,2,1,1,7:54 PM,5:00,MISS Carter 20' Jump Shot,,,,
+0020100170,52,4,0,1,7:55 PM,4:58,,,Buckner REBOUND (Off:0 Def:1),,
+0020100170,53,1,1,1,7:55 PM,4:51,,,Finley 21' Jump Shot (4 PTS),18 - 17,-1
+0020100170,54,2,1,1,7:55 PM,4:30,MISS Mack 26' 3PT Jump Shot,,,,
+0020100170,55,4,0,1,7:55 PM,4:26,,,Nash REBOUND (Off:0 Def:1),,
+0020100170,56,1,1,1,7:55 PM,4:21,,,Nowitzki 26' 3PT Jump Shot (12 PTS) (Nash 2 AST),21 - 17,-4
+0020100170,57,1,1,1,7:55 PM,4:04,Mourning 17' Jump Shot (2 PTS) (Carter 6 AST),,,21 - 19,-2
+0020100170,58,2,1,1,7:56 PM,3:37,,,MISS Nowitzki 28' 3PT Jump Shot,,
+0020100170,59,4,0,1,7:56 PM,3:35,Jones REBOUND (Off:0 Def:2),,,,
+0020100170,60,6,1,1,7:56 PM,3:35,,,Bradley P.FOUL (P2.PN),,
+0020100170,61,8,0,1,7:56 PM,3:35,SUB: Strickland FOR Carter,,,,
+0020100170,62,8,0,1,7:56 PM,3:35,,,SUB: Hardaway FOR Nash,,
+0020100170,63,8,0,1,7:56 PM,3:35,,,SUB: Griffin FOR Buckner,,
+0020100170,64,8,0,1,7:56 PM,3:35,,,SUB: Howard FOR Bradley,,
+0020100170,65,3,11,1,7:57 PM,3:35,Jones Free Throw 1 of 2 (7 PTS),,,21 - 20,-1
+0020100170,66,3,12,1,7:57 PM,3:35,Jones Free Throw 2 of 2 (8 PTS),,,21 - 21,TIE
+0020100170,67,2,1,1,7:57 PM,3:24,,,MISS Finley 21' Jump Shot,,
+0020100170,68,4,0,1,7:57 PM,3:23,HEAT Rebound,,,,
+0020100170,69,1,3,1,7:58 PM,3:04,Ellis 6' Hook Shot (5 PTS) (Strickland 1 AST),,,21 - 23,2
+0020100170,70,5,1,1,7:58 PM,2:55,,,Hardaway Bad Pass Turnover (P1.T3),,
+0020100170,72,9,1,1,8:00 PM,2:55,,,Mavericks Timeout: Regular (Reg.1 Short 0),,
+0020100170,73,8,0,1,8:00 PM,2:55,SUB: Gatling FOR Mack,,,,
+0020100170,74,1,42,1,8:00 PM,2:50,Strickland  Driving Layup (2 PTS) (Gatling 1 AST),,,21 - 25,4
+0020100170,75,6,1,1,8:01 PM,2:40,Strickland P.FOUL (P1.T4),,,,
+0020100170,76,2,1,1,8:01 PM,2:25,,,MISS Hardaway 17' Jump Shot,,
+0020100170,77,4,0,1,8:01 PM,2:23,Mourning REBOUND (Off:0 Def:2),,,,
+0020100170,78,2,1,1,8:01 PM,2:03,MISS Strickland 22' Jump Shot,,,,
+0020100170,79,4,0,1,8:01 PM,2:00,,,Hardaway REBOUND (Off:0 Def:1),,
+0020100170,80,1,1,1,8:01 PM,1:57,,,Hardaway 22' Jump Shot (2 PTS),23 - 25,2
+0020100170,81,1,1,1,8:02 PM,1:40,Gatling 10' Jump Shot (2 PTS) (Strickland 2 AST),,,23 - 27,4
+0020100170,82,2,1,1,8:02 PM,1:27,,,MISS Howard 19' Jump Shot,,
+0020100170,83,4,0,1,8:02 PM,1:25,Strickland REBOUND (Off:0 Def:1),,,,
+0020100170,84,2,1,1,8:02 PM,1:08,MISS Strickland 21' Jump Shot,,,,
+0020100170,85,4,0,1,8:02 PM,1:06,,,Howard REBOUND (Off:0 Def:1),,
+0020100170,86,2,1,1,8:03 PM,0:49,,,MISS Griffin 17' Jump Shot,,
+0020100170,87,4,0,1,8:03 PM,0:47,Mourning REBOUND (Off:0 Def:3),,,,
+0020100170,88,1,42,1,8:03 PM,0:30,Mourning  Driving Layup (4 PTS),,,23 - 29,6
+0020100170,89,2,1,1,8:03 PM,0:20,,,MISS Howard 15' Jump Shot,,
+0020100170,90,4,0,1,8:03 PM,0:15,Gatling REBOUND (Off:0 Def:1),,,,
+0020100170,91,2,1,1,8:04 PM,0:01,MISS Mourning 11' Jump Shot,,,,
+0020100170,92,4,0,1,8:04 PM,0:00,,,Finley REBOUND (Off:0 Def:1),,
+0020100170,93,13,0,1,8:04 PM,0:00,,,,23 - 29,6
+0020100170,95,12,0,2,8:07 PM,12:00,,,,23 - 29,6
+0020100170,96,1,8,2,8:07 PM,11:46,Marks  Slam Dunk (2 PTS) (Jones 1 AST),,,23 - 31,8
+0020100170,97,6,1,2,8:07 PM,11:28,Marks P.FOUL (P1.T1),,,,
+0020100170,98,8,0,2,8:07 PM,11:28,,,SUB: Harvey FOR Eschmeyer,,
+0020100170,99,6,1,2,8:08 PM,11:20,Strickland P.FOUL (P2.T2),,,,
+0020100170,100,6,2,2,8:08 PM,11:16,Marks S.FOUL (P2.T3),,,,
+0020100170,101,3,11,2,8:08 PM,11:16,,,MISS Howard Free Throw 1 of 2,,
+0020100170,102,4,1,2,8:08 PM,11:16,,,Mavericks Rebound,,
+0020100170,103,3,12,2,8:08 PM,11:16,,,MISS Howard Free Throw 2 of 2,,
+0020100170,104,4,0,2,8:09 PM,11:15,Gatling REBOUND (Off:0 Def:2),,,,
+0020100170,105,10,0,2,8:09 PM,11:03,Jump Ball Marks vs. Harvey: Tip to Ellis,,,,
+0020100170,106,1,1,2,8:10 PM,10:47,Strickland 18' Jump Shot (4 PTS) (Jones 2 AST),,,23 - 33,10
+0020100170,129,2,65,2,8:10 PM,10:21,,,MISS Finley 19' Jump Hook Shot,,
+0020100170,162,4,0,2,8:10 PM,10:21,,,Harvey REBOUND (Off:1 Def:0),,
+0020100170,108,1,53,2,8:10 PM,10:18,,,Harvey  Tip Shot (2 PTS),25 - 33,8
+0020100170,110,2,5,2,8:11 PM,10:01,MISS Gatling  Layup,,Howard BLOCK (1 BLK),,
+0020100170,111,4,0,2,8:11 PM,10:01,Gatling REBOUND (Off:1 Def:2),,,,
+0020100170,112,6,3,2,8:11 PM,10:01,,,Harvey L.B.FOUL (P1.T1),,
+0020100170,113,8,0,2,8:11 PM,10:01,,,SUB: Nash FOR Finley,,
+0020100170,114,8,0,2,8:11 PM,10:01,SUB: Mack FOR Ellis,,,,
+0020100170,116,5,1,2,8:11 PM,9:52,Jones Bad Pass Turnover (P1.T3),,,,
+0020100170,118,1,63,2,8:11 PM,9:33,,,Nash 9' Fadeaway Jumper (5 PTS),27 - 33,6
+0020100170,119,2,42,2,8:12 PM,9:20,MISS Strickland  Driving Layup,,,,
+0020100170,120,4,0,2,8:12 PM,9:18,,,Harvey REBOUND (Off:1 Def:1),,
+0020100170,121,2,1,2,8:12 PM,9:09,,,MISS Hardaway 26' 3PT Jump Shot,,
+0020100170,122,4,0,2,8:12 PM,9:07,,,Griffin REBOUND (Off:1 Def:0),,
+0020100170,123,1,5,2,8:12 PM,9:02,,,Griffin  Layup (2 PTS),29 - 33,4
+0020100170,124,1,1,2,8:12 PM,8:47,Jones 19' Jump Shot (10 PTS) (Strickland 3 AST),,,29 - 35,6
+0020100170,125,2,1,2,8:13 PM,8:25,,,MISS Hardaway  Jump Shot,,
+0020100170,126,4,0,2,8:13 PM,8:24,,,Mavericks Rebound,,
+0020100170,127,9,4,2,8:13 PM,8:24,,,,,
+0020100170,130,8,0,2,8:15 PM,8:24,SUB: House FOR Jones,,,,
+0020100170,131,8,0,2,8:15 PM,8:24,,,SUB: Nowitzki FOR Griffin,,
+0020100170,132,5,13,2,8:15 PM,8:16,,,Mavericks Turnover: Backcourt (T#4),,
+0020100170,134,2,46,2,8:16 PM,8:05,MISS Gatling 14' Running Jump Shot,,,,
+0020100170,135,4,0,2,8:16 PM,8:01,,,Howard REBOUND (Off:0 Def:2),,
+0020100170,136,1,46,2,8:16 PM,7:53,,,Nash 6' Running Jump Shot (7 PTS),31 - 35,4
+0020100170,138,2,3,2,8:16 PM,7:41,MISS Gatling 5' Hook Shot,,,,
+0020100170,139,4,0,2,8:16 PM,7:37,Marks REBOUND (Off:1 Def:0),,,,
+0020100170,140,1,7,2,8:16 PM,7:35,Marks  Dunk (4 PTS),,,31 - 37,6
+0020100170,141,1,1,2,8:17 PM,7:27,,,Nash 21' Jump Shot (9 PTS),33 - 37,4
+0020100170,142,1,1,2,8:17 PM,7:08,Marks 21' Jump Shot (6 PTS) (Strickland 4 AST),,,33 - 39,6
+0020100170,144,2,1,2,8:17 PM,6:47,,,MISS Howard 14' Jump Shot,,
+0020100170,145,4,0,2,8:17 PM,6:47,HEAT Rebound,,,,
+0020100170,146,6,3,2,8:17 PM,6:47,,,Nash L.B.FOUL (P1.T2),,
+0020100170,147,2,1,2,8:18 PM,6:24,MISS Strickland 4' Jump Shot,,,,
+0020100170,148,4,0,2,8:18 PM,6:22,,,Nowitzki REBOUND (Off:0 Def:3),,
+0020100170,149,1,7,2,8:18 PM,6:18,,,Howard  Dunk (2 PTS) (Nash 3 AST),35 - 39,4
+0020100170,150,6,2,2,8:18 PM,6:18,Mack S.FOUL (P2.T4),,,,
+0020100170,151,8,0,2,8:18 PM,6:18,SUB: Carter FOR Strickland,,,,
+0020100170,152,3,10,2,8:18 PM,6:18,,,Howard Free Throw 1 of 1 (3 PTS),36 - 39,3
+0020100170,153,5,3,2,8:19 PM,6:04,House Out Of Bounds Turnover (P1.T4),,,,
+0020100170,154,2,3,2,8:19 PM,5:48,,,MISS Howard 3' Hook Shot,,
+0020100170,155,4,0,2,8:19 PM,5:44,House REBOUND (Off:0 Def:1),,,,
+0020100170,156,2,1,2,8:20 PM,5:31,MISS House 16' Jump Shot,,,,
+0020100170,157,4,0,2,8:20 PM,5:28,,,Nowitzki REBOUND (Off:0 Def:4),,
+0020100170,158,2,1,2,8:20 PM,5:24,,,MISS Nowitzki 17' Jump Shot,,
+0020100170,159,4,0,2,8:20 PM,5:23,,,Mavericks Rebound,,
+0020100170,160,6,1,2,8:20 PM,5:23,House P.FOUL (P1.PN),,,,
+0020100170,163,8,0,2,8:22 PM,5:23,SUB: Ellis FOR Gatling,,,,
+0020100170,164,8,0,2,8:23 PM,5:23,,,SUB: Finley FOR Hardaway,,
+0020100170,165,3,11,2,8:23 PM,5:23,,,Howard Free Throw 1 of 2 (4 PTS),37 - 39,2
+0020100170,166,8,0,2,8:23 PM,5:23,SUB: Jones FOR House,,,,
+0020100170,167,3,12,2,8:23 PM,5:23,,,Howard Free Throw 2 of 2 (5 PTS),38 - 39,1
+0020100170,168,2,1,2,8:23 PM,5:05,MISS Mack 25' 3PT Jump Shot,,,,
+0020100170,169,4,0,2,8:23 PM,5:02,,,Nash REBOUND (Off:0 Def:2),,
+0020100170,170,1,1,2,8:24 PM,4:44,,,Nash 25' 3PT Jump Shot (12 PTS) (Nowitzki 2 AST),41 - 39,-2
+0020100170,171,2,1,2,8:24 PM,4:27,MISS Mack 26' 3PT Jump Shot,,,,
+0020100170,172,4,0,2,8:24 PM,4:24,,,Nowitzki REBOUND (Off:0 Def:5),,
+0020100170,173,2,1,2,8:24 PM,4:17,,,MISS Nash 15' Jump Shot,,
+0020100170,174,4,0,2,8:24 PM,4:15,Jones REBOUND (Off:0 Def:3),,,,
+0020100170,175,2,44,2,8:24 PM,4:11,MISS Ellis  Reverse Layup,,,,
+0020100170,176,4,0,2,8:24 PM,4:09,,,Howard REBOUND (Off:0 Def:3),,
+0020100170,177,1,1,2,8:24 PM,4:05,,,Finley 19' Jump Shot (6 PTS) (Nash 4 AST),43 - 39,-4
+0020100170,178,9,2,2,8:25 PM,3:57,HEAT Timeout: Short (Full 1 Short 1),,,,
+0020100170,180,8,0,2,8:26 PM,3:57,SUB: Mourning FOR Marks,,,,
+0020100170,181,8,0,2,8:26 PM,3:57,,,SUB: Eschmeyer FOR Harvey,,
+0020100170,182,1,1,2,8:26 PM,3:41,Carter 16' Jump Shot (2 PTS) (Ellis 1 AST),,,43 - 41,-2
+0020100170,183,1,1,2,8:27 PM,3:25,,,Nowitzki 11' Jump Shot (14 PTS),45 - 41,-4
+0020100170,184,6,2,2,8:27 PM,3:25,Mack S.FOUL (P3.PN),,,,
+0020100170,185,3,10,2,8:27 PM,3:25,,,Nowitzki Free Throw 1 of 1 (15 PTS),46 - 41,-5
+0020100170,186,1,44,2,8:27 PM,3:08,Mourning  Reverse Layup (6 PTS) (Carter 7 AST),,,46 - 43,-3
+0020100170,187,6,2,2,8:27 PM,3:08,,,Eschmeyer S.FOUL (P1.T3),,
+0020100170,188,8,0,2,8:28 PM,3:08,SUB: Marks FOR Mack,,,,
+0020100170,189,3,10,2,8:28 PM,3:08,Mourning Free Throw 1 of 1 (7 PTS),,,46 - 44,-2
+0020100170,190,1,1,2,8:28 PM,2:53,,,Nowitzki 13' Jump Shot (17 PTS),48 - 44,-4
+0020100170,191,6,1,2,8:29 PM,2:35,,,Nowitzki P.FOUL (P2.T4),,
+0020100170,192,9,1,2,8:29 PM,2:35,,,Mavericks Timeout: Regular (Reg.2 Short 0),,
+0020100170,194,3,11,2,8:31 PM,2:35,Marks Free Throw 1 of 2 (7 PTS),,,48 - 45,-3
+0020100170,195,3,12,2,8:31 PM,2:35,MISS Marks Free Throw 2 of 2,,,,
+0020100170,196,4,0,2,8:32 PM,2:35,Ellis REBOUND (Off:1 Def:1),,,,
+0020100170,197,1,1,2,8:32 PM,2:10,Ellis 19' Jump Shot (7 PTS) (Carter 8 AST),,,48 - 47,-1
+0020100170,198,6,1,2,8:32 PM,1:58,Marks P.FOUL (P3.PN),,,,
+0020100170,199,3,11,2,8:32 PM,1:58,,,Howard Free Throw 1 of 2 (6 PTS),49 - 47,-2
+0020100170,200,8,0,2,8:33 PM,1:58,SUB: Gatling FOR Marks,,,,
+0020100170,201,3,12,2,8:33 PM,1:58,,,Howard Free Throw 2 of 2 (7 PTS),50 - 47,-3
+0020100170,202,5,1,2,8:33 PM,1:47,Mourning Bad Pass Turnover (P1.T5),,,,
+0020100170,203,2,1,2,8:33 PM,1:36,,,MISS Nash 26' 3PT Jump Shot,,
+0020100170,204,4,0,2,8:33 PM,1:35,,,Eschmeyer REBOUND (Off:1 Def:0),,
+0020100170,205,6,1,2,8:33 PM,1:35,Jones P.FOUL (P1.PN),,,,
+0020100170,206,3,11,2,8:34 PM,1:35,,,Eschmeyer Free Throw 1 of 2 (1 PTS),51 - 47,-4
+0020100170,207,3,12,2,8:34 PM,1:35,,,MISS Eschmeyer Free Throw 2 of 2,,
+0020100170,208,4,0,2,8:34 PM,1:33,Gatling REBOUND (Off:1 Def:3),,,,
+0020100170,209,5,1,2,8:35 PM,1:11,Carter Bad Pass Turnover (P2.T6),,,,
+0020100170,210,6,1,2,8:35 PM,0:59,Gatling P.FOUL (P1.PN),,,,
+0020100170,211,3,11,2,8:35 PM,0:59,,,MISS Eschmeyer Free Throw 1 of 2,,
+0020100170,212,4,1,2,8:35 PM,0:59,,,Mavericks Rebound,,
+0020100170,213,3,12,2,8:35 PM,0:59,,,Eschmeyer Free Throw 2 of 2 (2 PTS),52 - 47,-5
+0020100170,214,2,1,2,8:36 PM,0:46,MISS Ellis 11' Jump Shot,,,,
+0020100170,215,4,0,2,8:36 PM,0:42,Ellis REBOUND (Off:2 Def:1),,,,
+0020100170,216,2,1,2,8:36 PM,0:30,MISS Jones 16' Jump Shot,,,,
+0020100170,217,4,0,2,8:36 PM,0:26,,,Eschmeyer REBOUND (Off:1 Def:1),,
+0020100170,218,2,1,2,8:36 PM,0:20,,,MISS Finley 25' 3PT Jump Shot,,
+0020100170,219,4,0,2,8:36 PM,0:18,,,Nash REBOUND (Off:1 Def:2),,
+0020100170,220,6,2,2,8:36 PM,0:18,Carter S.FOUL (P2.PN),,,,
+0020100170,221,3,11,2,8:36 PM,0:18,,,Nowitzki Free Throw 1 of 2 (18 PTS),53 - 47,-6
+0020100170,222,8,0,2,8:37 PM,0:18,SUB: Mack FOR Gatling,,,,
+0020100170,223,3,12,2,8:37 PM,0:18,,,Nowitzki Free Throw 2 of 2 (19 PTS),54 - 47,-7
+0020100170,224,1,1,2,8:37 PM,0:06,Mack  3PT Jump Shot (9 PTS) (Carter 9 AST),,,54 - 50,-4
+0020100170,225,2,1,2,8:37 PM,0:00,,,MISS Finley 21' Jump Shot,,
+0020100170,226,4,0,2,8:37 PM,0:00,,,Mavericks Rebound,,
+0020100170,227,13,0,2,8:38 PM,0:00,,,,54 - 50,-4
+0020100170,229,12,0,3,8:54 PM,12:00,,,,54 - 50,-4
+0020100170,230,2,5,3,8:54 PM,11:48,MISS Jones  Layup,,,,
+0020100170,231,4,0,3,8:54 PM,11:45,Stepania REBOUND (Off:1 Def:1),,,,
+0020100170,232,2,5,3,8:54 PM,11:41,MISS Stepania  Layup,,,,
+0020100170,233,4,0,3,8:54 PM,11:39,,,Nowitzki REBOUND (Off:0 Def:6),,
+0020100170,234,1,7,3,8:55 PM,11:32,,,Bradley  Dunk (4 PTS) (Nash 5 AST),56 - 50,-6
+0020100170,235,6,1,3,8:55 PM,11:12,,,Nash P.FOUL (P2.T1),,
+0020100170,236,2,1,3,8:55 PM,10:58,MISS Carter 19' Jump Shot,,,,
+0020100170,237,4,0,3,8:55 PM,10:56,,,Finley REBOUND (Off:0 Def:2),,
+0020100170,238,2,1,3,8:56 PM,10:49,Mack BLOCK (1 BLK),,MISS Buckner 5' Jump Shot,,
+0020100170,239,4,0,3,8:56 PM,10:44,Stepania REBOUND (Off:1 Def:2),,,,
+0020100170,240,2,1,3,8:56 PM,10:34,MISS Mack 20' Jump Shot,,,,
+0020100170,241,4,0,3,8:56 PM,10:32,,,Nowitzki REBOUND (Off:0 Def:7),,
+0020100170,242,2,1,3,8:56 PM,10:28,,,MISS Nash 21' Jump Shot,,
+0020100170,243,4,0,3,8:56 PM,10:26,Jones REBOUND (Off:0 Def:4),,,,
+0020100170,244,6,1,3,8:56 PM,10:15,,,Buckner P.FOUL (P2.T2),,
+0020100170,245,1,5,3,8:57 PM,10:07,Stepania  Layup (4 PTS) (Carter 10 AST),,,56 - 52,-4
+0020100170,246,6,2,3,8:57 PM,10:07,,,Bradley S.FOUL (P3.T3),,
+0020100170,247,3,10,3,8:57 PM,10:07,MISS Stepania Free Throw 1 of 1,,,,
+0020100170,248,4,0,3,8:57 PM,10:05,,,Bradley REBOUND (Off:0 Def:3),,
+0020100170,249,2,1,3,8:57 PM,9:55,,,MISS Buckner 13' Jump Shot,,
+0020100170,250,4,0,3,8:57 PM,9:54,,,Mavericks Rebound,,
+0020100170,251,6,3,3,8:58 PM,9:54,Stepania L.B.FOUL (P2.T1),,,,
+0020100170,252,1,1,3,8:58 PM,9:44,,,Finley 15' Jump Shot (8 PTS) (Buckner 1 AST),58 - 52,-6
+0020100170,253,1,1,3,8:59 PM,9:24,Jones 25' 3PT Jump Shot (13 PTS),,,58 - 55,-3
+0020100170,254,2,5,3,8:59 PM,9:11,Stepania BLOCK (1 BLK),,MISS Finley  Layup,,
+0020100170,255,4,0,3,8:59 PM,9:10,,,Mavericks Rebound,,
+0020100170,256,1,7,3,8:59 PM,9:05,,,Bradley  Dunk (6 PTS) (Nash 6 AST),60 - 55,-5
+0020100170,257,2,1,3,8:59 PM,8:51,MISS Stepania 4' Jump Shot,,Bradley BLOCK (1 BLK),,
+0020100170,258,4,0,3,8:59 PM,8:47,Carter REBOUND (Off:1 Def:0),,,,
+0020100170,259,2,1,3,8:59 PM,8:45,MISS Mack 24' 3PT Jump Shot,,,,
+0020100170,260,4,0,3,9:00 PM,8:41,,,Nash REBOUND (Off:1 Def:3),,
+0020100170,261,5,1,3,9:00 PM,8:39,Carter STEAL (1 STL),,Nash Bad Pass Turnover (P2.T5),,
+0020100170,262,2,1,3,9:00 PM,8:33,MISS Jones 13' Jump Shot,,,,
+0020100170,263,4,0,3,9:00 PM,8:30,Ellis REBOUND (Off:3 Def:1),,,,
+0020100170,264,10,0,3,9:01 PM,8:09,Jump Ball Jones vs. Nash: Tip to Stepania,,,,
+0020100170,265,10,0,3,9:01 PM,8:05,Jump Ball Stepania vs. Bradley: Tip to Nash,,,,
+0020100170,266,5,2,3,9:01 PM,8:05,Stepania Lost Ball Turnover (P1.T7),,Bradley STEAL (1 STL),,
+0020100170,267,6,1,3,9:01 PM,7:55,Ellis P.FOUL (P1.T2),,,,
+0020100170,268,6,17,3,9:02 PM,7:46,HEAT T.Foul (Def. 3 Sec Stepania ),,,,
+0020100170,269,3,16,3,9:02 PM,7:46,,,Nash Free Throw Technical (13 PTS),61 - 55,-6
+0020100170,270,2,1,3,9:03 PM,7:32,,,MISS Finley 21' Jump Shot,,
+0020100170,271,4,0,3,9:03 PM,7:30,Stepania REBOUND (Off:1 Def:3),,,,
+0020100170,272,1,42,3,9:03 PM,7:23,Stepania  Driving Layup (6 PTS),,,61 - 57,-4
+0020100170,273,6,2,3,9:03 PM,7:23,,,Bradley S.FOUL (P4.T4),,
+0020100170,274,8,0,3,9:03 PM,7:23,,,SUB: Howard FOR Bradley,,
+0020100170,275,3,10,3,9:03 PM,7:23,MISS Stepania Free Throw 1 of 1,,,,
+0020100170,276,4,0,3,9:03 PM,7:22,,,Howard REBOUND (Off:0 Def:4),,
+0020100170,277,2,1,3,9:04 PM,7:03,,,MISS Nash 12' Jump Shot,,
+0020100170,278,4,0,3,9:04 PM,7:01,Carter REBOUND (Off:1 Def:1),,,,
+0020100170,279,2,1,3,9:04 PM,6:46,MISS Jones 20' Jump Shot,,,,
+0020100170,280,4,0,3,9:04 PM,6:45,,,Mavericks Rebound,,
+0020100170,281,6,3,3,9:04 PM,6:45,Stepania L.B.FOUL (P3.T3),,,,
+0020100170,282,2,63,3,9:05 PM,6:35,,,MISS Nash 10' Fadeaway Jumper,,
+0020100170,283,4,0,3,9:05 PM,6:30,Ellis REBOUND (Off:3 Def:2),,,,
+0020100170,284,2,1,3,9:05 PM,6:19,MISS Mack 19' Jump Shot,,Buckner BLOCK (1 BLK),,
+0020100170,285,4,0,3,9:05 PM,6:14,,,Howard REBOUND (Off:0 Def:5),,
+0020100170,286,1,1,3,9:05 PM,6:10,,,Nowitzki 21' Jump Shot (21 PTS) (Nash 7 AST),63 - 57,-6
+0020100170,287,9,1,3,9:05 PM,6:02,HEAT Timeout: Regular (Full 2 Short 1),,,,
+0020100170,289,8,0,3,9:07 PM,6:02,,,SUB: Hardaway FOR Nash,,
+0020100170,290,8,0,3,9:07 PM,6:02,,,SUB: Griffin FOR Buckner,,
+0020100170,291,2,1,3,9:08 PM,5:46,MISS Jones 19' Jump Shot,,,,
+0020100170,292,4,0,3,9:08 PM,5:44,,,Hardaway REBOUND (Off:0 Def:2),,
+0020100170,293,2,1,3,9:08 PM,5:37,,,MISS Finley 26' 3PT Jump Shot,,
+0020100170,294,4,0,3,9:08 PM,5:35,,,Howard REBOUND (Off:1 Def:5),,
+0020100170,295,2,1,3,9:08 PM,5:31,,,MISS Hardaway 26' 3PT Jump Shot,,
+0020100170,296,4,0,3,9:08 PM,5:29,,,Nowitzki REBOUND (Off:1 Def:7),,
+0020100170,297,2,1,3,9:08 PM,5:10,,,MISS Nowitzki 11' Jump Shot,,
+0020100170,298,4,0,3,9:08 PM,5:07,Stepania REBOUND (Off:1 Def:4),,,,
+0020100170,299,5,1,3,9:08 PM,5:04,Stepania Bad Pass Turnover (P2.T8),,Griffin STEAL (1 STL),,
+0020100170,300,1,1,3,9:09 PM,5:00,,,Hardaway 26' 3PT Jump Shot (5 PTS) (Griffin 1 AST),66 - 57,-9
+0020100170,301,2,1,3,9:09 PM,4:38,MISS Mack 24' 3PT Jump Shot,,,,
+0020100170,302,4,0,3,9:09 PM,4:36,Ellis REBOUND (Off:4 Def:2),,,,
+0020100170,303,1,1,3,9:09 PM,4:32,Jones 26' 3PT Jump Shot (16 PTS) (Ellis 2 AST),,,66 - 60,-6
+0020100170,304,6,2,3,9:09 PM,4:18,Mack S.FOUL (P4.T4),,,,
+0020100170,306,8,0,3,9:10 PM,4:18,SUB: Strickland FOR Carter,,,,
+0020100170,307,8,0,3,9:10 PM,4:18,SUB: Mourning FOR Stepania,,,,
+0020100170,308,3,11,3,9:10 PM,4:18,,,Nowitzki Free Throw 1 of 2 (22 PTS),67 - 60,-7
+0020100170,309,3,12,3,9:10 PM,4:18,,,Nowitzki Free Throw 2 of 2 (23 PTS),68 - 60,-8
+0020100170,310,2,1,3,9:10 PM,3:58,MISS Mack 24' 3PT Jump Shot,,,,
+0020100170,311,4,0,3,9:10 PM,3:57,,,Mavericks Rebound,,
+0020100170,313,1,1,3,9:11 PM,3:46,,,Nowitzki 16' Jump Shot (25 PTS) (Hardaway 1 AST),70 - 60,-10
+0020100170,315,5,4,3,9:11 PM,3:32,Mack Traveling Turnover (P1.T9),,,,
+0020100170,317,2,1,3,9:11 PM,3:18,,,MISS Howard 12' Jump Shot,,
+0020100170,319,4,0,3,9:12 PM,3:16,Mack REBOUND (Off:1 Def:1),,,,
+0020100170,320,6,2,3,9:12 PM,3:10,,,Finley S.FOUL (P2.PN),,
+0020100170,321,8,0,3,9:12 PM,3:10,SUB: House FOR Mack,,,,
+0020100170,322,3,11,3,9:12 PM,3:10,Jones Free Throw 1 of 2 (17 PTS),,,70 - 61,-9
+0020100170,323,3,12,3,9:12 PM,3:10,Jones Free Throw 2 of 2 (18 PTS),,,70 - 62,-8
+0020100170,324,9,1,3,9:12 PM,2:58,,,Mavericks Timeout: Regular (Reg.3 Short 0),,
+0020100170,326,8,0,3,9:15 PM,2:58,,,SUB: Nash FOR Finley,,
+0020100170,327,2,1,3,9:15 PM,2:49,Mourning BLOCK (1 BLK),,MISS Howard 11' Jump Shot,,
+0020100170,328,4,0,3,9:15 PM,2:45,Strickland REBOUND (Off:0 Def:2),,,,
+0020100170,329,2,1,3,9:17 PM,2:26,MISS Strickland 22' Jump Shot,,,,
+0020100170,330,4,0,3,9:17 PM,2:24,,,Mavericks Rebound,,
+0020100170,331,1,1,3,9:17 PM,2:12,,,Nash 19' Jump Shot (15 PTS),72 - 62,-10
+0020100170,332,2,1,3,9:17 PM,1:51,MISS House 19' Jump Shot,,,,
+0020100170,333,4,0,3,9:17 PM,1:49,,,Griffin REBOUND (Off:1 Def:1),,
+0020100170,334,2,1,3,9:18 PM,1:44,,,MISS Nowitzki 26' 3PT Jump Shot,,
+0020100170,335,4,0,3,9:18 PM,1:41,,,Howard REBOUND (Off:2 Def:5),,
+0020100170,336,2,1,3,9:18 PM,1:38,,,MISS Hardaway 25' 3PT Jump Shot,,
+0020100170,337,4,0,3,9:18 PM,1:35,,,Nash REBOUND (Off:2 Def:3),,
+0020100170,338,2,1,3,9:18 PM,1:33,,,MISS Nash  3PT Jump Shot,,
+0020100170,339,4,0,3,9:18 PM,1:30,Mourning REBOUND (Off:0 Def:4),,,,
+0020100170,340,1,5,3,9:18 PM,1:28,House  Layup (2 PTS) (Jones 3 AST),,,72 - 64,-8
+0020100170,341,1,1,3,9:18 PM,1:08,,,Griffin 6' Jump Shot (4 PTS),74 - 64,-10
+0020100170,342,6,1,3,9:18 PM,0:53,,,Nash P.FOUL (P3.PN),,
+0020100170,343,3,11,3,9:19 PM,0:53,Jones Free Throw 1 of 2 (19 PTS),,,74 - 65,-9
+0020100170,344,3,12,3,9:19 PM,0:53,Jones Free Throw 2 of 2 (20 PTS),,,74 - 66,-8
+0020100170,345,1,1,3,9:19 PM,0:31,,,Howard 17' Jump Shot (9 PTS) (Nash 8 AST),76 - 66,-10
+0020100170,346,2,1,3,9:20 PM,0:12,MISS House 21' Jump Shot,,,,
+0020100170,347,4,0,3,9:20 PM,0:10,,,Griffin REBOUND (Off:1 Def:2),,
+0020100170,348,6,1,3,9:20 PM,0:06,Ellis P.FOUL (P2.PN),,,,
+0020100170,349,3,11,3,9:20 PM,0:06,,,Nowitzki Free Throw 1 of 2 (26 PTS),77 - 66,-11
+0020100170,350,8,0,3,9:20 PM,0:06,SUB: Mack FOR Mourning,,,,
+0020100170,352,8,0,3,9:21 PM,0:06,,,SUB: Buckner FOR Howard,,
+0020100170,353,3,12,3,9:21 PM,0:06,,,Nowitzki Free Throw 2 of 2 (27 PTS),78 - 66,-12
+0020100170,354,6,2,3,9:21 PM,0:01,,,Nowitzki S.FOUL (P3.PN),,
+0020100170,355,3,11,3,9:21 PM,0:01,MISS Strickland Free Throw 1 of 2,,,,
+0020100170,356,4,1,3,9:21 PM,0:01,HEAT Rebound,,,,
+0020100170,357,3,12,3,9:22 PM,0:01,Strickland Free Throw 2 of 2 (5 PTS),,,78 - 67,-11
+0020100170,358,5,1,3,9:22 PM,0:00,,,Buckner Bad Pass Turnover (P1.T6),,
+0020100170,359,2,1,3,9:22 PM,0:00,MISS Jones 66' 3PT Jump Shot,,,,
+0020100170,360,4,0,3,9:22 PM,0:00,HEAT Rebound,,,,
+0020100170,361,13,0,3,9:23 PM,0:00,,,,78 - 67,-11
+0020100170,363,12,0,4,9:25 PM,12:00,,,,78 - 67,-11
+0020100170,364,5,2,4,9:25 PM,11:45,House STEAL (1 STL),,Nowitzki Lost Ball Turnover (P1.T7),,
+0020100170,365,6,2,4,9:26 PM,11:40,,,Griffin S.FOUL (P1.T1),,
+0020100170,366,3,11,4,9:26 PM,11:40,MISS Strickland Free Throw 1 of 2,,,,
+0020100170,367,4,1,4,9:26 PM,11:40,HEAT Rebound,,,,
+0020100170,368,8,0,4,9:26 PM,11:40,,,SUB: Finley FOR Hardaway,,
+0020100170,369,3,12,4,9:26 PM,11:40,MISS Strickland Free Throw 2 of 2,,,,
+0020100170,370,4,0,4,9:26 PM,11:38,,,Nowitzki REBOUND (Off:1 Def:8),,
+0020100170,371,1,7,4,9:26 PM,11:22,,,Howard  Dunk (11 PTS) (Nash 9 AST),80 - 67,-13
+0020100170,372,2,1,4,9:27 PM,11:01,MISS Marks 17' Jump Shot,,,,
+0020100170,373,4,0,4,9:27 PM,10:58,,,Griffin REBOUND (Off:1 Def:3),,
+0020100170,374,5,13,4,9:27 PM,10:45,,,Mavericks Turnover: Backcourt (T#8),,
+0020100170,375,8,0,4,9:27 PM,10:45,SUB: Gatling FOR Ellis,,,,
+0020100170,376,5,2,4,9:28 PM,10:26,Gatling Lost Ball Turnover (P1.T10),,Griffin STEAL (2 STL),,
+0020100170,377,1,5,4,9:28 PM,10:22,,,Nowitzki  Layup (29 PTS) (Howard 1 AST),82 - 67,-15
+0020100170,378,9,1,4,9:28 PM,10:20,HEAT Timeout: Regular (Full 3 Short 1),,,,
+0020100170,380,6,2,4,9:30 PM,10:06,,,Howard S.FOUL (P1.T2),,
+0020100170,381,3,11,4,9:30 PM,10:06,Strickland Free Throw 1 of 2 (6 PTS),,,82 - 68,-14
+0020100170,383,7,3,4,9:31 PM,10:06,,,Nowitzki Violation:Lane,,
+0020100170,384,3,12,4,9:31 PM,10:06,Strickland Free Throw 2 of 2 (7 PTS),,,82 - 69,-13
+0020100170,385,2,5,4,9:32 PM,9:53,,,MISS Nowitzki  Layup,,
+0020100170,386,4,0,4,9:32 PM,9:50,,,Nowitzki REBOUND (Off:2 Def:8),,
+0020100170,387,1,5,4,9:32 PM,9:47,,,Nowitzki  Layup (31 PTS),84 - 69,-15
+0020100170,388,6,2,4,9:32 PM,9:26,,,Howard S.FOUL (P2.T3),,
+0020100170,389,3,11,4,9:32 PM,9:26,MISS Marks Free Throw 1 of 2,,,,
+0020100170,390,4,1,4,9:32 PM,9:26,HEAT Rebound,,,,
+0020100170,391,3,12,4,9:33 PM,9:26,MISS Marks Free Throw 2 of 2,,,,
+0020100170,392,4,0,4,9:33 PM,9:25,Gatling REBOUND (Off:2 Def:3),,,,
+0020100170,393,1,1,4,9:33 PM,9:22,House 16' Jump Shot (4 PTS),,,84 - 71,-13
+0020100170,394,5,1,4,9:33 PM,8:57,Jones STEAL (1 STL),,Finley Bad Pass Turnover (P2.T9),,
+0020100170,395,5,1,4,9:33 PM,8:50,House Bad Pass Turnover (P2.T11),,,,
+0020100170,396,6,2,4,9:34 PM,8:41,House S.FOUL (P2.T1),,,,
+0020100170,397,3,11,4,9:34 PM,8:41,,,Howard Free Throw 1 of 2 (12 PTS),85 - 71,-14
+0020100170,398,3,12,4,9:34 PM,8:41,,,Howard Free Throw 2 of 2 (13 PTS),86 - 71,-15
+0020100170,399,1,1,4,9:35 PM,8:24,House  3PT Jump Shot (7 PTS) (Marks 1 AST),,,86 - 74,-12
+0020100170,400,1,1,4,9:35 PM,8:12,,,Nowitzki 6' Jump Shot (33 PTS) (Howard 2 AST),88 - 74,-14
+0020100170,401,1,42,4,9:35 PM,7:55,Strickland  Driving Layup (9 PTS),,,88 - 76,-12
+0020100170,402,6,2,4,9:35 PM,7:55,,,Howard S.FOUL (P3.T4),,
+0020100170,403,8,0,4,9:36 PM,7:55,SUB: Mourning FOR Marks,,,,
+0020100170,404,3,10,4,9:36 PM,7:55,Strickland Free Throw 1 of 1 (10 PTS),,,88 - 77,-11
+0020100170,405,6,2,4,9:36 PM,7:44,House S.FOUL (P3.T2),,,,
+0020100170,406,3,11,4,9:36 PM,7:44,,,Nash Free Throw 1 of 2 (16 PTS),89 - 77,-12
+0020100170,407,3,12,4,9:36 PM,7:44,,,Nash Free Throw 2 of 2 (17 PTS),90 - 77,-13
+0020100170,408,2,5,4,9:37 PM,7:32,MISS Gatling  Layup,,,,
+0020100170,409,4,0,4,9:37 PM,7:28,Gatling REBOUND (Off:3 Def:3),,,,
+0020100170,410,2,4,4,9:37 PM,7:26,MISS Gatling  Tip Shot,,,,
+0020100170,411,4,0,4,9:37 PM,7:24,,,Nash REBOUND (Off:2 Def:4),,
+0020100170,412,1,1,4,9:37 PM,7:09,,,Griffin 22' Jump Shot (6 PTS) (Howard 3 AST),92 - 77,-15
+0020100170,413,1,5,4,9:37 PM,6:57,Gatling  Layup (4 PTS) (Strickland 5 AST),,,92 - 79,-13
+0020100170,414,1,1,4,9:38 PM,6:38,,,Nash 16' Jump Shot (19 PTS),94 - 79,-15
+0020100170,415,6,2,4,9:38 PM,6:16,,,Nowitzki S.FOUL (P4.PN),,
+0020100170,416,8,0,4,9:38 PM,6:16,SUB: Carter FOR Jones,,,,
+0020100170,417,3,11,4,9:38 PM,6:16,MISS Mourning Free Throw 1 of 2,,,,
+0020100170,418,4,1,4,9:38 PM,6:16,HEAT Rebound,,,,
+0020100170,419,3,12,4,9:38 PM,6:16,Mourning Free Throw 2 of 2 (8 PTS),,,94 - 80,-14
+0020100170,420,6,4,4,9:39 PM,6:06,,,Griffin OFF.Foul (P2),,
+0020100170,421,5,5,4,9:39 PM,6:06,,,Griffin Foul Turnover (P1.T10),,
+0020100170,422,1,3,4,9:39 PM,5:54,Mourning 5' Hook Shot (10 PTS) (Carter 11 AST),,,94 - 82,-12
+0020100170,423,1,1,4,9:40 PM,5:34,,,Nash 25' 3PT Jump Shot (22 PTS) (Griffin 2 AST),97 - 82,-15
+0020100170,424,1,42,4,9:40 PM,5:16,Gatling  Driving Layup (6 PTS),,,97 - 84,-13
+0020100170,425,6,2,4,9:40 PM,5:16,,,Nowitzki S.FOUL (P5.PN),,
+0020100170,426,9,4,4,9:40 PM,5:16,,,,,
+0020100170,428,3,10,4,9:43 PM,5:16,MISS Gatling Free Throw 1 of 1,,,,
+0020100170,429,4,0,4,9:43 PM,5:14,,,Nowitzki REBOUND (Off:2 Def:9),,
+0020100170,430,1,1,4,9:44 PM,4:55,,,Finley 15' Jump Shot (10 PTS),99 - 84,-15
+0020100170,431,7,2,4,9:44 PM,4:55,Gatling Violation:Defensive Goaltending,,,,
+0020100170,432,2,3,4,9:44 PM,4:43,MISS Gatling 4' Hook Shot,,,,
+0020100170,433,4,0,4,9:44 PM,4:40,HEAT Rebound,,,,
+0020100170,434,9,2,4,9:44 PM,4:40,,,Mavericks Timeout: Short (Reg.3 Short 1),,
+0020100170,435,1,63,4,9:46 PM,4:26,Gatling 15' Fadeaway Jumper (8 PTS) (Carter 12 AST),,,99 - 86,-13
+0020100170,436,5,1,4,9:46 PM,4:06,Strickland STEAL (1 STL),,Finley Bad Pass Turnover (P3.T11),,
+0020100170,437,1,42,4,9:46 PM,4:01,Strickland  Driving Layup (12 PTS),,,99 - 88,-11
+0020100170,438,2,1,4,9:47 PM,3:35,,,MISS Finley 20' Jump Shot,,
+0020100170,439,4,0,4,9:47 PM,3:33,,,Griffin REBOUND (Off:2 Def:3),,
+0020100170,440,2,46,4,9:47 PM,3:18,,,MISS Nash 8' Running Jump Shot,,
+0020100170,441,4,0,4,9:47 PM,3:13,Mourning REBOUND (Off:0 Def:5),,,,
+0020100170,442,1,42,4,9:47 PM,3:01,Strickland  Driving Layup (14 PTS),,,99 - 90,-9
+0020100170,443,2,1,4,9:48 PM,2:32,Gatling BLOCK (1 BLK),,MISS Griffin 17' Jump Shot,,
+0020100170,444,4,0,4,9:48 PM,2:29,,,Finley REBOUND (Off:1 Def:2),,
+0020100170,445,2,1,4,9:48 PM,2:27,,,MISS Griffin 20' Jump Shot,,
+0020100170,446,4,0,4,9:48 PM,2:24,,,Finley REBOUND (Off:2 Def:2),,
+0020100170,447,1,4,4,9:48 PM,2:23,,,Finley  Tip Shot (12 PTS),101 - 90,-11
+0020100170,448,9,1,4,9:48 PM,2:19,HEAT Timeout: Regular (Full 4 Short 1),,,,
+0020100170,449,6,16,4,9:49 PM,2:19,,,,,
+0020100170,450,8,0,4,9:50 PM,2:19,SUB: Jones FOR Carter,,,,
+0020100170,451,2,1,4,9:51 PM,2:12,MISS Jones 14' Jump Shot,,,,
+0020100170,452,4,0,4,9:51 PM,2:12,,,Mavericks Rebound,,
+0020100170,453,2,1,4,9:51 PM,1:51,,,MISS Nowitzki 17' Jump Shot,,
+0020100170,454,4,0,4,9:51 PM,1:49,House REBOUND (Off:0 Def:2),,,,
+0020100170,455,2,1,4,9:51 PM,1:45,MISS House 19' Jump Shot,,,,
+0020100170,456,4,0,4,9:51 PM,1:43,,,Finley REBOUND (Off:2 Def:3),,
+0020100170,457,5,1,4,9:51 PM,1:25,Jones STEAL (2 STL),,Nash Bad Pass Turnover (P3.T12),,
+0020100170,458,2,5,4,9:52 PM,1:20,MISS Strickland  Layup,,Finley BLOCK (1 BLK),,
+0020100170,459,4,0,4,9:52 PM,1:19,Jones REBOUND (Off:1 Def:4),,,,
+0020100170,460,6,2,4,9:52 PM,1:19,,,Finley S.FOUL (P3.PN),,
+0020100170,461,3,11,4,9:52 PM,1:19,Jones Free Throw 1 of 2 (21 PTS),,,101 - 91,-10
+0020100170,462,8,0,4,9:52 PM,1:19,SUB: Carter FOR Strickland,,,,
+0020100170,463,3,12,4,9:52 PM,1:19,Jones Free Throw 2 of 2 (22 PTS),,,101 - 92,-9
+0020100170,464,1,1,4,9:53 PM,0:58,,,Finley 24' 3PT Jump Shot (15 PTS) (Griffin 3 AST),104 - 92,-12
+0020100170,465,1,7,4,9:53 PM,0:45,Mourning  Dunk (12 PTS) (Jones 4 AST),,,104 - 94,-10
+0020100170,466,6,1,4,9:53 PM,0:44,Gatling P.FOUL (P2.T3),,,,
+0020100170,467,8,0,4,9:53 PM,0:44,,,SUB: Hardaway FOR Nowitzki,,
+0020100170,468,8,0,4,9:53 PM,0:44,SUB: Marks FOR Mourning,,,,
+0020100170,469,2,5,4,9:54 PM,0:23,,,MISS Howard  Layup,,
+0020100170,470,4,0,4,9:54 PM,0:20,Gatling REBOUND (Off:3 Def:4),,,,
+0020100170,471,5,1,4,9:54 PM,0:14,Carter Bad Pass Turnover (P3.T12),,Finley STEAL (1 STL),,
+0020100170,472,13,0,4,9:54 PM,0:00,,,,104 - 94,-10

@@ -1,0 +1,462 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020200703,1,12,0,1,9:15 PM,12:00,,,,,
+0020200703,2,10,0,1,9:15 PM,12:00,Jump Ball Ostertag vs. Gasol: Tip to Stockton,,,,
+0020200703,3,2,1,1,9:15 PM,11:46,MISS Malone 17' Jump Shot,,,,
+0020200703,5,4,0,1,9:15 PM,11:44,Ostertag REBOUND (Off:1 Def:0),,,,
+0020200703,4,1,5,1,9:15 PM,11:44,Ostertag  Layup (2 PTS),,,0 - 2,2
+0020200703,6,2,56,1,9:16 PM,11:23,,,MISS Gasol 9' Running Hook Shot,,
+0020200703,8,4,0,1,9:16 PM,11:20,,,Watson REBOUND (Off:1 Def:0),,
+0020200703,7,1,4,1,9:16 PM,11:20,,,Watson  Tip Shot (2 PTS),2 - 2,TIE
+0020200703,9,1,1,1,9:16 PM,11:00,Malone 17' Jump Shot (2 PTS) (Padgett 1 AST),,,2 - 4,2
+0020200703,10,2,1,1,9:16 PM,10:45,Ostertag BLOCK (1 BLK),,MISS Wright 10' Jump Shot,,
+0020200703,11,4,0,1,9:16 PM,10:42,,,Wright REBOUND (Off:1 Def:0),,
+0020200703,12,2,1,1,9:16 PM,10:35,,,MISS Watson 8' Jump Shot,,
+0020200703,13,4,0,1,9:16 PM,10:32,Ostertag REBOUND (Off:1 Def:1),,,,
+0020200703,14,2,5,1,9:17 PM,10:21,MISS Stockton  Layup,,Gasol BLOCK (1 BLK),,
+0020200703,15,4,0,1,9:17 PM,10:19,Stockton REBOUND (Off:1 Def:0),,,,
+0020200703,16,5,1,1,9:17 PM,10:16,Cheaney Bad Pass Turnover (P1.T1),,,,
+0020200703,17,6,2,1,9:17 PM,10:04,Padgett S.FOUL (P1.T1),,,,
+0020200703,18,3,11,1,9:17 PM,10:04,,,Battier Free Throw 1 of 2 (1 PTS),3 - 4,1
+0020200703,19,3,12,1,9:17 PM,10:04,,,Battier Free Throw 2 of 2 (2 PTS),4 - 4,TIE
+0020200703,20,6,1,1,9:18 PM,10:01,,,Giricek P.FOUL (P1.T1),,
+0020200703,21,2,1,1,9:18 PM,9:42,MISS Cheaney 16' Jump Shot,,,,
+0020200703,22,4,0,1,9:18 PM,9:40,,,Battier REBOUND (Off:0 Def:1),,
+0020200703,23,2,5,1,9:18 PM,9:34,,,MISS Wright  Layup,,
+0020200703,25,4,0,1,9:18 PM,9:33,,,Gasol REBOUND (Off:1 Def:0),,
+0020200703,24,1,7,1,9:18 PM,9:33,,,Gasol  Dunk (2 PTS),6 - 4,-2
+0020200703,26,6,4,1,9:18 PM,9:26,Malone OFF.Foul (P1),,,,
+0020200703,27,5,5,1,9:18 PM,9:26,Malone Foul Turnover (P1.T2),,,,
+0020200703,28,6,4,1,9:19 PM,9:10,,,Wright OFF.Foul (P1),,
+0020200703,29,5,5,1,9:19 PM,9:10,,,Wright Foul Turnover (P1.T1),,
+0020200703,30,1,7,1,9:19 PM,8:52,Ostertag  Dunk (4 PTS) (Malone 1 AST),,,6 - 6,TIE
+0020200703,31,2,1,1,9:20 PM,8:33,,,MISS Wright 5' Jump Shot,,
+0020200703,32,4,0,1,9:20 PM,8:32,,,Wright REBOUND (Off:2 Def:0),,
+0020200703,33,6,2,1,9:20 PM,8:32,Cheaney S.FOUL (P1.T2),,,,
+0020200703,34,3,11,1,9:20 PM,8:32,,,MISS Wright Free Throw 1 of 2,,
+0020200703,35,4,1,1,9:20 PM,8:32,,,Grizzlies Rebound,,
+0020200703,36,3,12,1,9:20 PM,8:32,,,Wright Free Throw 2 of 2 (1 PTS),7 - 6,-1
+0020200703,37,2,5,1,9:21 PM,8:16,MISS Padgett  Layup,,,,
+0020200703,38,4,0,1,9:21 PM,8:14,Stockton REBOUND (Off:2 Def:0),,,,
+0020200703,39,5,1,1,9:21 PM,8:12,Stockton Bad Pass Turnover (P1.T3),,Watson STEAL (1 STL),,
+0020200703,40,2,5,1,9:21 PM,8:06,Ostertag BLOCK (2 BLK),,MISS Giricek  Layup,,
+0020200703,41,4,0,1,9:21 PM,8:03,Stockton REBOUND (Off:2 Def:1),,,,
+0020200703,42,6,2,1,9:21 PM,8:01,,,Watson S.FOUL (P1.T2),,
+0020200703,43,3,11,1,9:22 PM,8:01,MISS Malone Free Throw 1 of 2,,,,
+0020200703,44,4,1,1,9:22 PM,8:01,JAZZ Rebound,,,,
+0020200703,45,3,12,1,9:22 PM,8:01,Malone Free Throw 2 of 2 (3 PTS),,,7 - 7,TIE
+0020200703,46,1,1,1,9:22 PM,7:52,,,Watson 18' Jump Shot (4 PTS),9 - 7,-2
+0020200703,47,5,1,1,9:23 PM,7:33,Stockton Bad Pass Turnover (P2.T4),,Watson STEAL (2 STL),,
+0020200703,48,6,1,1,9:23 PM,7:31,Stockton P.FOUL (P1.T3),,,,
+0020200703,49,6,2,1,9:23 PM,7:19,Ostertag S.FOUL (P1.T4),,,,
+0020200703,50,3,11,1,9:24 PM,7:19,,,Wright Free Throw 1 of 2 (2 PTS),10 - 7,-3
+0020200703,51,3,12,1,9:24 PM,7:19,,,Wright Free Throw 2 of 2 (3 PTS),11 - 7,-4
+0020200703,52,5,1,1,9:24 PM,7:11,Cheaney Bad Pass Turnover (P2.T5),,Battier STEAL (1 STL),,
+0020200703,53,2,5,1,9:24 PM,7:04,,,MISS Wright  Layup,,
+0020200703,55,4,0,1,9:24 PM,7:02,,,Gasol REBOUND (Off:2 Def:0),,
+0020200703,54,1,5,1,9:24 PM,7:02,,,Gasol  Layup (4 PTS),13 - 7,-6
+0020200703,56,1,42,1,9:24 PM,6:50,Cheaney  Driving Layup (2 PTS) (Stockton 1 AST),,,13 - 9,-4
+0020200703,57,2,46,1,9:25 PM,6:29,,,MISS Giricek 10' Running Jump Shot,,
+0020200703,58,4,0,1,9:25 PM,6:27,Stockton REBOUND (Off:2 Def:2),,,,
+0020200703,59,6,4,1,9:25 PM,6:16,Cheaney OFF.Foul (P2),,,,
+0020200703,60,5,5,1,9:25 PM,6:16,Cheaney Foul Turnover (P3.T6),,,,
+0020200703,61,8,0,1,9:25 PM,6:16,SUB: Kirilenko FOR Cheaney,,,,
+0020200703,62,5,1,1,9:26 PM,6:05,Malone STEAL (1 STL),,Wright Bad Pass Turnover (P2.T2),,
+0020200703,63,6,2,1,9:26 PM,5:57,,,Gasol S.FOUL (P1.T3),,
+0020200703,64,9,1,1,9:26 PM,5:57,JAZZ Timeout: Regular (Full 1 Short 0),,,,
+0020200703,66,8,0,1,9:28 PM,5:57,,,SUB: Gooden FOR Battier,,
+0020200703,67,3,11,1,9:28 PM,5:57,Malone Free Throw 1 of 2 (4 PTS),,,13 - 10,-3
+0020200703,68,3,12,1,9:28 PM,5:57,Malone Free Throw 2 of 2 (5 PTS),,,13 - 11,-2
+0020200703,70,2,1,1,9:29 PM,5:37,Malone BLOCK (1 BLK),,MISS Gasol 14' Jump Shot,,
+0020200703,71,4,0,1,9:29 PM,5:34,Ostertag REBOUND (Off:1 Def:2),,,,
+0020200703,72,1,1,1,9:30 PM,5:23,Stockton 21' Jump Shot (2 PTS) (Malone 2 AST),,,13 - 13,TIE
+0020200703,73,1,1,1,9:30 PM,5:09,,,Giricek 18' Jump Shot (2 PTS),15 - 13,-2
+0020200703,74,2,1,1,9:30 PM,4:47,MISS Stockton 25' 3PT Jump Shot,,,,
+0020200703,75,4,0,1,9:30 PM,4:43,Ostertag REBOUND (Off:2 Def:2),,,,
+0020200703,76,1,1,1,9:30 PM,4:42,Padgett 16' Jump Shot (2 PTS) (Ostertag 1 AST),,,15 - 15,TIE
+0020200703,77,2,1,1,9:31 PM,4:26,,,MISS Gooden 11' Jump Shot,,
+0020200703,78,4,0,1,9:31 PM,4:24,Ostertag REBOUND (Off:2 Def:3),,,,
+0020200703,79,2,1,1,9:31 PM,4:02,MISS Kirilenko 13' Jump Shot,,,,
+0020200703,80,4,0,1,9:31 PM,4:00,JAZZ Rebound,,,,
+0020200703,81,5,11,1,9:31 PM,4:00,JAZZ Turnover: Shot Clock (T#7),,,,
+0020200703,82,8,0,1,9:31 PM,4:00,,,SUB: Battier FOR Giricek,,
+0020200703,83,8,0,1,9:31 PM,4:00,SUB: Jackson FOR Stockton,,,,
+0020200703,84,2,65,1,9:32 PM,3:42,,,MISS Battier 7' Jump Hook Shot,,
+0020200703,85,4,0,1,9:32 PM,3:40,Malone REBOUND (Off:0 Def:1),,,,
+0020200703,86,5,1,1,9:32 PM,3:30,Padgett Bad Pass Turnover (P1.T8),,,,
+0020200703,87,1,1,1,9:32 PM,3:15,,,Wright 17' Jump Shot (5 PTS) (Watson 1 AST),17 - 15,-2
+0020200703,88,1,1,1,9:33 PM,2:58,Padgett 24' 3PT Jump Shot (5 PTS) (Jackson 1 AST),,,17 - 18,1
+0020200703,89,2,1,1,9:33 PM,2:48,,,MISS Gooden  3PT Jump Shot,,
+0020200703,90,4,0,1,9:33 PM,2:46,,,Wright REBOUND (Off:3 Def:0),,
+0020200703,91,1,42,1,9:33 PM,2:27,,,Gasol  Driving Layup (6 PTS),19 - 18,-1
+0020200703,92,1,52,1,9:33 PM,2:18,Kirilenko  Alley Oop Dunk (2 PTS) (Jackson 2 AST),,,19 - 20,1
+0020200703,93,9,1,1,9:33 PM,2:08,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,
+0020200703,95,8,0,1,9:35 PM,2:08,SUB: Stevenson FOR Padgett,,,,
+0020200703,96,1,1,1,9:36 PM,1:51,,,Watson 19' Jump Shot (6 PTS),21 - 20,-1
+0020200703,97,5,1,1,9:37 PM,1:27,Jackson Bad Pass Turnover (P1.T9),,Gasol STEAL (1 STL),,
+0020200703,98,2,1,1,9:37 PM,1:21,,,MISS Battier 24' 3PT Jump Shot,,
+0020200703,99,4,0,1,9:37 PM,1:19,,,Wright REBOUND (Off:4 Def:0),,
+0020200703,100,6,2,1,9:37 PM,1:17,Ostertag S.FOUL (P2.PN),,,,
+0020200703,101,8,0,1,9:37 PM,1:17,SUB: Massenburg FOR Ostertag,,,,
+0020200703,102,3,11,1,9:37 PM,1:17,,,Gasol Free Throw 1 of 2 (7 PTS),22 - 20,-2
+0020200703,103,8,0,1,9:37 PM,1:17,,,SUB: Batiste FOR Wright,,
+0020200703,104,3,12,1,9:37 PM,1:17,,,Gasol Free Throw 2 of 2 (8 PTS),23 - 20,-3
+0020200703,105,2,1,1,9:38 PM,1:00,MISS Kirilenko 24' 3PT Jump Shot,,,,
+0020200703,106,4,0,1,9:38 PM,0:58,Malone REBOUND (Off:1 Def:1),,,,
+0020200703,107,2,1,1,9:38 PM,0:48,MISS Kirilenko 19' Jump Shot,,Gasol BLOCK (2 BLK),,
+0020200703,108,4,0,1,9:38 PM,0:45,,,Batiste REBOUND (Off:0 Def:1),,
+0020200703,109,2,5,1,9:38 PM,0:40,Kirilenko BLOCK (1 BLK),,MISS Gooden  Layup,,
+0020200703,110,4,0,1,9:38 PM,0:39,Massenburg REBOUND (Off:0 Def:1),,,,
+0020200703,111,1,1,1,9:39 PM,0:33,Jackson 17' Jump Shot (2 PTS) (Malone 3 AST),,,23 - 22,-1
+0020200703,112,2,1,1,9:39 PM,0:13,,,MISS Gasol 12' Jump Shot,,
+0020200703,113,4,0,1,9:39 PM,0:12,JAZZ Rebound,,,,
+0020200703,114,6,3,1,9:39 PM,0:12,,,Batiste L.B.FOUL (P1.T4),,
+0020200703,115,1,52,1,9:39 PM,0:05,Kirilenko  Alley Oop Dunk (4 PTS) (Jackson 3 AST),,,23 - 24,1
+0020200703,116,1,46,1,9:40 PM,0:00,,,Gasol 9' Running Jump Shot (10 PTS),25 - 24,-1
+0020200703,118,13,0,1,9:40 PM,0:00,,,,25 - 24,-1
+0020200703,120,12,0,2,9:42 PM,12:00,,,,25 - 24,-1
+0020200703,121,2,5,2,9:43 PM,11:35,Massenburg BLOCK (1 BLK),,MISS Batiste  Layup,,
+0020200703,122,4,0,2,9:43 PM,11:33,,,Giricek REBOUND (Off:1 Def:0),,
+0020200703,123,5,1,2,9:43 PM,11:23,Jackson STEAL (1 STL),,Giricek Bad Pass Turnover (P1.T3),,
+0020200703,124,2,5,2,9:43 PM,11:16,MISS Jackson  Layup,,,,
+0020200703,125,4,0,2,9:43 PM,11:14,Massenburg REBOUND (Off:1 Def:1),,,,
+0020200703,126,2,1,2,9:43 PM,11:12,MISS Jackson 9' Jump Shot,,,,
+0020200703,128,4,0,2,9:43 PM,11:11,Massenburg REBOUND (Off:2 Def:1),,,,
+0020200703,127,1,5,2,9:43 PM,11:11,Massenburg  Layup (2 PTS),,,25 - 26,1
+0020200703,129,6,2,2,9:43 PM,11:11,,,Battier S.FOUL (P1.T1),,
+0020200703,130,3,10,2,9:44 PM,11:11,Massenburg Free Throw 1 of 1 (3 PTS),,,25 - 27,2
+0020200703,131,1,1,2,9:44 PM,10:55,,,Gooden 18' Jump Shot (2 PTS),27 - 27,TIE
+0020200703,132,5,4,2,9:45 PM,10:39,Padgett Traveling Turnover (P2.T10),,,,
+0020200703,133,2,1,2,9:45 PM,10:24,,,MISS Giricek 11' Jump Shot,,
+0020200703,135,4,0,2,9:45 PM,10:21,,,Batiste REBOUND (Off:1 Def:1),,
+0020200703,134,1,4,2,9:45 PM,10:21,,,Batiste  Tip Shot (2 PTS),29 - 27,-2
+0020200703,136,2,1,2,9:46 PM,10:02,MISS Massenburg 11' Jump Shot,,,,
+0020200703,137,4,0,2,9:46 PM,10:01,,,Grizzlies Rebound,,
+0020200703,138,6,3,2,9:46 PM,10:01,Kirilenko L.B.FOUL (P1.T1),,,,
+0020200703,139,6,1,2,9:46 PM,9:56,Stevenson P.FOUL (P1.T2),,,,
+0020200703,140,5,4,2,9:46 PM,9:48,,,Batiste Traveling Turnover (P1.T4),,
+0020200703,141,2,63,2,9:47 PM,9:29,MISS Stevenson 19' Fadeaway Jumper,,,,
+0020200703,142,4,0,2,9:47 PM,9:26,,,Wright REBOUND (Off:4 Def:1),,
+0020200703,143,1,7,2,9:47 PM,9:22,,,Batiste  Dunk (4 PTS) (Giricek 1 AST),31 - 27,-4
+0020200703,144,6,2,2,9:47 PM,9:22,Massenburg S.FOUL (P1.T3),,,,
+0020200703,145,8,0,2,9:47 PM,9:22,SUB: Stockton FOR Jackson,,,,
+0020200703,146,8,0,2,9:47 PM,9:22,SUB: Cheaney FOR Stevenson,,,,
+0020200703,147,3,10,2,9:47 PM,9:22,,,Batiste Free Throw 1 of 1 (5 PTS),32 - 27,-5
+0020200703,148,2,63,2,9:48 PM,8:58,MISS Massenburg 9' Fadeaway Jumper,,,,
+0020200703,149,4,0,2,9:48 PM,8:56,,,Batiste REBOUND (Off:1 Def:2),,
+0020200703,150,2,1,2,9:48 PM,8:42,,,MISS Wright 18' Jump Shot,,
+0020200703,151,4,0,2,9:48 PM,8:40,Padgett REBOUND (Off:0 Def:1),,,,
+0020200703,152,2,1,2,9:48 PM,8:29,MISS Padgett 21' Jump Shot,,,,
+0020200703,153,4,0,2,9:48 PM,8:28,JAZZ Rebound,,,,
+0020200703,154,9,4,2,9:49 PM,8:28,,,,,
+0020200703,156,1,1,2,9:51 PM,8:06,Cheaney  3PT Jump Shot (5 PTS) (Stockton 2 AST),,,32 - 30,-2
+0020200703,157,2,1,2,9:52 PM,7:48,,,MISS Gooden 21' Jump Shot,,
+0020200703,158,4,0,2,9:52 PM,7:46,Massenburg REBOUND (Off:2 Def:2),,,,
+0020200703,159,2,1,2,9:52 PM,7:38,MISS Cheaney 22' Jump Shot,,,,
+0020200703,160,4,0,2,9:52 PM,7:34,,,Giricek REBOUND (Off:1 Def:1),,
+0020200703,161,1,5,2,9:52 PM,7:20,,,Batiste  Layup (7 PTS) (Gooden 1 AST),34 - 30,-4
+0020200703,162,2,3,2,9:53 PM,6:56,MISS Massenburg 7' Hook Shot,,,,
+0020200703,163,4,0,2,9:53 PM,6:54,,,Batiste REBOUND (Off:1 Def:3),,
+0020200703,164,6,2,2,9:53 PM,6:48,Cheaney S.FOUL (P3.T4),,,,
+0020200703,165,8,0,2,9:53 PM,6:48,,,SUB: Gasol FOR Gooden,,
+0020200703,166,8,0,2,9:53 PM,6:48,,,SUB: Watson FOR Batiste,,
+0020200703,167,3,11,2,9:53 PM,6:48,,,MISS Giricek Free Throw 1 of 2,,
+0020200703,168,4,1,2,9:53 PM,6:48,,,Grizzlies Rebound,,
+0020200703,169,8,0,2,9:53 PM,6:48,SUB: Stevenson FOR Cheaney,,,,
+0020200703,170,3,12,2,9:53 PM,6:48,,,Giricek Free Throw 2 of 2 (3 PTS),35 - 30,-5
+0020200703,171,6,1,2,9:54 PM,6:44,,,Watson P.FOUL (P2.T2),,
+0020200703,172,2,1,2,9:54 PM,6:28,MISS Massenburg 8' Jump Shot,,,,
+0020200703,173,4,0,2,9:54 PM,6:25,,,Gasol REBOUND (Off:2 Def:1),,
+0020200703,174,1,42,2,9:54 PM,6:22,,,Giricek  Driving Layup (5 PTS) (Gasol 1 AST),37 - 30,-7
+0020200703,175,6,17,2,9:55 PM,6:08,,,Grizzlies T.Foul (Def. 3 Sec Gasol ),,
+0020200703,176,3,16,2,9:55 PM,6:08,Stockton Free Throw Technical (3 PTS),,,37 - 31,-6
+0020200703,177,8,0,2,9:55 PM,6:08,SUB: Malone FOR Massenburg,,,,
+0020200703,178,1,5,2,9:56 PM,5:58,Padgett  Layup (7 PTS) (Malone 4 AST),,,37 - 33,-4
+0020200703,179,1,1,2,9:56 PM,5:38,,,Watson 24' 3PT Jump Shot (9 PTS) (Giricek 2 AST),40 - 33,-7
+0020200703,180,2,1,2,9:56 PM,5:14,MISS Stockton 24' 3PT Jump Shot,,,,
+0020200703,181,4,0,2,9:56 PM,5:12,Padgett REBOUND (Off:1 Def:1),,,,
+0020200703,182,2,1,2,9:56 PM,5:03,MISS Kirilenko  3PT Jump Shot,,,,
+0020200703,183,4,0,2,9:56 PM,5:01,,,Gasol REBOUND (Off:2 Def:2),,
+0020200703,184,2,1,2,9:57 PM,4:55,,,MISS Giricek 24' 3PT Jump Shot,,
+0020200703,185,4,0,2,9:57 PM,4:53,Stevenson REBOUND (Off:0 Def:1),,,,
+0020200703,186,2,46,2,9:57 PM,4:48,MISS Stockton 9' Running Jump Shot,,,,
+0020200703,187,4,0,2,9:57 PM,4:46,,,Watson REBOUND (Off:1 Def:1),,
+0020200703,188,6,3,2,9:57 PM,4:46,Stockton L.B.FOUL (P2.PN),,,,
+0020200703,189,9,1,2,9:57 PM,4:46,JAZZ Timeout: Regular (Full 2 Short 0),,,,
+0020200703,191,8,0,2,9:59 PM,4:46,SUB: Massenburg FOR Kirilenko,,,,
+0020200703,192,3,11,2,9:59 PM,4:46,,,Watson Free Throw 1 of 2 (10 PTS),41 - 33,-8
+0020200703,193,3,12,2,9:59 PM,4:46,,,MISS Watson Free Throw 2 of 2,,
+0020200703,194,4,0,2,10:00 PM,4:43,,,Gasol REBOUND (Off:3 Def:2),,
+0020200703,196,6,4,2,10:00 PM,4:26,,,Wright OFF.Foul (P2),,
+0020200703,229,5,5,2,10:00 PM,4:26,,,Wright Foul Turnover (P3.T5),,
+0020200703,197,2,1,2,10:00 PM,4:09,MISS Padgett 24' 3PT Jump Shot,,,,
+0020200703,199,4,0,2,10:00 PM,4:07,Malone REBOUND (Off:2 Def:1),,,,
+0020200703,198,2,5,2,10:00 PM,4:07,MISS Malone  Layup,,Gasol BLOCK (3 BLK),,
+0020200703,200,4,0,2,10:00 PM,4:05,Malone REBOUND (Off:3 Def:1),,,,
+0020200703,201,2,5,2,10:01 PM,4:01,MISS Malone  Layup,,Gasol BLOCK (4 BLK),,
+0020200703,202,4,0,2,10:01 PM,3:58,,,Wright REBOUND (Off:4 Def:2),,
+0020200703,203,2,1,2,10:01 PM,3:53,,,MISS Watson 15' Jump Shot,,
+0020200703,204,4,0,2,10:01 PM,3:53,Stevenson REBOUND (Off:0 Def:2),,,,
+0020200703,205,1,1,2,10:01 PM,3:48,Malone 16' Jump Shot (7 PTS) (Stevenson 1 AST),,,41 - 35,-6
+0020200703,206,2,1,2,10:01 PM,3:27,,,MISS Battier 12' Jump Shot,,
+0020200703,207,4,0,2,10:01 PM,3:24,Massenburg REBOUND (Off:2 Def:3),,,,
+0020200703,208,1,5,2,10:01 PM,3:17,Malone  Layup (9 PTS) (Stockton 3 AST),,,41 - 37,-4
+0020200703,209,1,1,2,10:02 PM,2:51,,,Giricek 25' 3PT Jump Shot (8 PTS) (Wright 1 AST),44 - 37,-7
+0020200703,210,5,1,2,10:02 PM,2:27,Malone Bad Pass Turnover (P2.T11),,Watson STEAL (3 STL),,
+0020200703,212,1,1,2,10:02 PM,2:04,,,Watson 25' 3PT Jump Shot (13 PTS) (Gasol 2 AST),47 - 37,-10
+0020200703,213,2,5,2,10:03 PM,1:54,MISS Padgett  Layup,,Battier BLOCK (1 BLK),,
+0020200703,215,4,0,2,10:03 PM,1:48,,,Wright REBOUND (Off:4 Def:3),,
+0020200703,216,2,1,2,10:03 PM,1:45,Malone BLOCK (2 BLK),,MISS Gasol 6' Jump Shot,,
+0020200703,217,4,0,2,10:03 PM,1:42,Stockton REBOUND (Off:2 Def:3),,,,
+0020200703,219,2,1,2,10:03 PM,1:36,MISS Stockton 23' Jump Shot,,,,
+0020200703,220,4,0,2,10:03 PM,1:33,,,Battier REBOUND (Off:0 Def:2),,
+0020200703,222,5,1,2,10:03 PM,1:20,Stockton STEAL (1 STL),,Watson Bad Pass Turnover (P1.T6),,
+0020200703,223,2,42,2,10:03 PM,1:13,MISS Stockton  Driving Layup,,,,
+0020200703,224,4,0,2,10:03 PM,1:12,,,Wright REBOUND (Off:4 Def:4),,
+0020200703,225,1,7,2,10:03 PM,1:07,,,Gasol  Dunk (12 PTS) (Watson 2 AST),49 - 37,-12
+0020200703,226,1,1,2,10:04 PM,0:50,Malone 20' Jump Shot (11 PTS) (Stevenson 2 AST),,,49 - 39,-10
+0020200703,227,5,1,2,10:04 PM,0:37,Stevenson STEAL (1 STL),,Watson Bad Pass Turnover (P2.T7),,
+0020200703,228,1,42,2,10:04 PM,0:30,Stockton  Driving Layup (5 PTS),,,49 - 41,-8
+0020200703,230,5,2,2,10:05 PM,0:09,Stockton STEAL (2 STL),,Watson Lost Ball Turnover (P3.T8),,
+0020200703,231,6,2,2,10:05 PM,0:05,,,Giricek S.FOUL (P2.T3),,
+0020200703,233,9,1,2,10:05 PM,0:05,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,
+0020200703,235,8,0,2,10:07 PM,0:05,SUB: Jackson FOR Stockton,,,,
+0020200703,236,3,11,2,10:07 PM,0:05,MISS Stevenson Free Throw 1 of 2,,,,
+0020200703,237,4,1,2,10:07 PM,0:05,JAZZ Rebound,,,,
+0020200703,238,8,0,2,10:08 PM,0:05,,,SUB: Gooden FOR Giricek,,
+0020200703,239,3,12,2,10:08 PM,0:05,Stevenson Free Throw 2 of 2 (1 PTS),,,49 - 42,-7
+0020200703,240,2,1,2,10:08 PM,0:00,,,MISS Gooden 24' 3PT Jump Shot,,
+0020200703,242,4,0,2,10:08 PM,0:00,,,Grizzlies Rebound,,
+0020200703,243,13,0,2,10:08 PM,0:00,,,,49 - 42,-7
+0020200703,244,12,0,3,10:25 PM,12:00,,,,49 - 42,-7
+0020200703,245,6,1,3,10:25 PM,11:51,Cheaney P.FOUL (P4.T1),,,,
+0020200703,246,8,0,3,10:25 PM,11:51,SUB: Stevenson FOR Cheaney,,,,
+0020200703,247,1,1,3,10:26 PM,11:44,,,Giricek 25' 3PT Jump Shot (11 PTS) (Watson 3 AST),52 - 42,-10
+0020200703,248,1,5,3,10:26 PM,11:33,Ostertag  Layup (6 PTS) (Stockton 4 AST),,,52 - 44,-8
+0020200703,249,6,2,3,10:26 PM,11:33,,,Giricek S.FOUL (P3.T1),,
+0020200703,250,3,10,3,10:26 PM,11:33,MISS Ostertag Free Throw 1 of 1,,,,
+0020200703,251,4,0,3,10:27 PM,11:31,,,Gasol REBOUND (Off:3 Def:3),,
+0020200703,252,5,1,3,10:27 PM,11:21,Padgett STEAL (1 STL),,Gasol Bad Pass Turnover (P1.T9),,
+0020200703,253,5,1,3,10:27 PM,11:08,Padgett Bad Pass Turnover (P3.T12),,Battier STEAL (2 STL),,
+0020200703,254,1,1,3,10:27 PM,11:02,,,Giricek 24' 3PT Jump Shot (14 PTS) (Gasol 3 AST),55 - 44,-11
+0020200703,255,1,7,3,10:27 PM,10:49,Ostertag  Dunk (8 PTS) (Stockton 5 AST),,,55 - 46,-9
+0020200703,256,2,1,3,10:28 PM,10:27,Padgett BLOCK (1 BLK),,MISS Battier 11' Jump Shot,,
+0020200703,257,4,0,3,10:28 PM,10:25,Padgett REBOUND (Off:1 Def:2),,,,
+0020200703,258,1,7,3,10:28 PM,10:22,Malone  Dunk (13 PTS) (Stockton 6 AST),,,55 - 48,-7
+0020200703,259,9,2,3,10:28 PM,10:21,,,Grizzlies Timeout: Short (Reg.2 Short 1),,
+0020200703,261,6,1,3,10:29 PM,10:11,Padgett P.FOUL (P2.T2),,,,
+0020200703,262,2,1,3,10:30 PM,10:06,,,MISS Wright 19' Jump Shot,,
+0020200703,263,4,0,3,10:30 PM,10:04,Stockton REBOUND (Off:2 Def:4),,,,
+0020200703,264,6,1,3,10:30 PM,10:03,,,Wright P.FOUL (P3.T2),,
+0020200703,265,1,1,3,10:30 PM,9:52,Malone 20' Jump Shot (15 PTS) (Stockton 7 AST),,,55 - 50,-5
+0020200703,266,2,1,3,10:30 PM,9:30,Ostertag BLOCK (3 BLK),,MISS Gasol 12' Jump Shot,,
+0020200703,267,4,0,3,10:30 PM,9:28,Stockton REBOUND (Off:2 Def:5),,,,
+0020200703,268,1,5,3,10:31 PM,9:24,Malone  Layup (17 PTS) (Stockton 8 AST),,,55 - 52,-3
+0020200703,269,9,1,3,10:31 PM,9:21,,,Grizzlies Timeout: Regular (Reg.3 Short 1),,
+0020200703,270,5,4,3,10:33 PM,9:09,,,Wright Traveling Turnover (P4.T10),,
+0020200703,271,9,2,3,10:33 PM,8:58,JAZZ Timeout: Short (Full 2 Short 1),,,,
+0020200703,273,2,5,3,10:34 PM,8:51,MISS Ostertag  Layup,,Gasol BLOCK (5 BLK),,
+0020200703,274,4,0,3,10:35 PM,8:48,,,Giricek REBOUND (Off:1 Def:2),,
+0020200703,275,2,1,3,10:35 PM,8:27,,,MISS Gasol 5' Jump Shot,,
+0020200703,276,4,0,3,10:35 PM,8:25,,,Wright REBOUND (Off:5 Def:4),,
+0020200703,277,6,2,3,10:35 PM,8:25,Ostertag S.FOUL (P3.T3),,,,
+0020200703,278,3,11,3,10:35 PM,8:25,,,Wright Free Throw 1 of 2 (6 PTS),56 - 52,-4
+0020200703,279,3,12,3,10:35 PM,8:25,,,MISS Wright Free Throw 2 of 2,,
+0020200703,280,4,0,3,10:36 PM,8:24,Ostertag REBOUND (Off:2 Def:4),,,,
+0020200703,281,1,1,3,10:36 PM,8:08,Malone 18' Jump Shot (19 PTS) (Stockton 9 AST),,,56 - 54,-2
+0020200703,282,2,1,3,10:36 PM,7:51,Ostertag BLOCK (4 BLK),,MISS Watson 11' Jump Shot,,
+0020200703,284,4,0,3,10:36 PM,7:44,,,Wright REBOUND (Off:6 Def:4),,
+0020200703,283,1,5,3,10:36 PM,7:44,,,Wright  Layup (8 PTS),58 - 54,-4
+0020200703,285,6,2,3,10:37 PM,7:34,,,Battier S.FOUL (P2.T3),,
+0020200703,286,3,11,3,10:37 PM,7:34,Stevenson Free Throw 1 of 2 (2 PTS),,,58 - 55,-3
+0020200703,287,3,12,3,10:37 PM,7:34,MISS Stevenson Free Throw 2 of 2,,,,
+0020200703,288,4,0,3,10:37 PM,7:34,,,Gasol REBOUND (Off:3 Def:4),,
+0020200703,289,1,1,3,10:37 PM,7:25,,,Giricek 21' Jump Shot (16 PTS),60 - 55,-5
+0020200703,290,1,44,3,10:38 PM,7:06,Malone  Reverse Layup (21 PTS),,,60 - 57,-3
+0020200703,291,6,1,3,10:38 PM,6:54,Malone P.FOUL (P2.T4),,,,
+0020200703,292,2,1,3,10:38 PM,6:51,,,MISS Giricek 21' Jump Shot,,
+0020200703,293,4,0,3,10:38 PM,6:49,,,Gasol REBOUND (Off:4 Def:4),,
+0020200703,294,5,2,3,10:38 PM,6:41,Stockton STEAL (3 STL),,Gasol Lost Ball Turnover (P2.T11),,
+0020200703,295,2,5,3,10:38 PM,6:29,MISS Malone 3' Layup,,Battier BLOCK (2 BLK),,
+0020200703,296,4,0,3,10:39 PM,6:26,,,Wright REBOUND (Off:6 Def:5),,
+0020200703,297,2,5,3,10:39 PM,6:20,,,MISS Watson  Layup,,
+0020200703,298,4,0,3,10:39 PM,6:18,Ostertag REBOUND (Off:2 Def:5),,,,
+0020200703,299,2,1,3,10:39 PM,6:04,MISS Stevenson 15' Jump Shot,,,,
+0020200703,300,4,0,3,10:39 PM,6:02,,,Watson REBOUND (Off:1 Def:2),,
+0020200703,301,5,1,3,10:39 PM,5:59,,,Watson Bad Pass Turnover (P4.T12),,
+0020200703,302,1,65,3,10:40 PM,5:43,Ostertag 7' Jump Hook Shot (10 PTS) (Malone 5 AST),,,60 - 59,-1
+0020200703,303,6,4,3,10:40 PM,5:30,,,Watson OFF.Foul (P3),,
+0020200703,304,5,5,3,10:40 PM,5:30,,,Watson Foul Turnover (P5.T13),,
+0020200703,305,8,0,3,10:40 PM,5:30,SUB: Jackson FOR Stockton,,,,
+0020200703,306,8,0,3,10:40 PM,5:30,SUB: Kirilenko FOR Padgett,,,,
+0020200703,307,8,0,3,10:40 PM,5:30,,,SUB: Gooden FOR Battier,,
+0020200703,308,2,5,3,10:41 PM,5:18,MISS Ostertag  Layup,,,,
+0020200703,309,4,0,3,10:41 PM,5:17,,,Gasol REBOUND (Off:4 Def:5),,
+0020200703,310,1,49,3,10:41 PM,5:07,,,Wright  Driving Dunk (10 PTS),62 - 59,-3
+0020200703,311,1,1,3,10:41 PM,4:45,Stevenson 16' Jump Shot (4 PTS) (Ostertag 2 AST),,,62 - 61,-1
+0020200703,312,2,5,3,10:42 PM,4:16,,,MISS Wright  Layup,,
+0020200703,314,4,0,3,10:42 PM,4:15,,,Gasol REBOUND (Off:5 Def:5),,
+0020200703,313,1,64,3,10:42 PM,4:15,,,Gasol  Follow Up Dunk (14 PTS),64 - 61,-3
+0020200703,315,1,1,3,10:42 PM,3:51,Stevenson 21' Jump Shot (6 PTS) (Jackson 4 AST),,,64 - 63,-1
+0020200703,316,6,1,3,10:42 PM,3:35,Stevenson P.FOUL (P2.PN),,,,
+0020200703,317,3,11,3,10:43 PM,3:35,,,MISS Giricek Free Throw 1 of 2,,
+0020200703,318,4,1,3,10:43 PM,3:35,,,Grizzlies Rebound,,
+0020200703,319,3,12,3,10:43 PM,3:35,,,Giricek Free Throw 2 of 2 (17 PTS),65 - 63,-2
+0020200703,320,1,46,3,10:43 PM,3:13,Jackson 11' Running Jump Shot (4 PTS) (Malone 6 AST),,,65 - 65,TIE
+0020200703,321,1,1,3,10:44 PM,2:55,,,Wright 19' Jump Shot (12 PTS) (Giricek 3 AST),67 - 65,-2
+0020200703,322,1,43,3,10:44 PM,2:38,Jackson  Alley Oop Layup (6 PTS) (Kirilenko 1 AST),,,67 - 67,TIE
+0020200703,323,2,1,3,10:44 PM,2:11,,,MISS Watson 24' 3PT Jump Shot,,
+0020200703,324,4,0,3,10:45 PM,2:09,JAZZ Rebound,,,,
+0020200703,325,9,1,3,10:45 PM,2:09,JAZZ Timeout: Regular (Full 3 Short 1),,,,
+0020200703,327,8,0,3,10:47 PM,2:09,,,SUB: Batiste FOR Gasol,,
+0020200703,328,2,1,3,10:47 PM,1:58,MISS Malone 19' Jump Shot,,,,
+0020200703,329,4,0,3,10:47 PM,1:56,JAZZ Rebound,,,,
+0020200703,330,2,1,3,10:47 PM,1:52,MISS Stevenson 18' Jump Shot,,,,
+0020200703,331,4,0,3,10:47 PM,1:49,,,Watson REBOUND (Off:1 Def:3),,
+0020200703,332,2,1,3,10:48 PM,1:32,,,MISS Giricek 25' 3PT Jump Shot,,
+0020200703,333,4,0,3,10:48 PM,1:30,Ostertag REBOUND (Off:2 Def:6),,,,
+0020200703,334,1,1,3,10:48 PM,1:14,Malone 16' Jump Shot (23 PTS) (Jackson 5 AST),,,67 - 69,2
+0020200703,335,2,1,3,10:48 PM,0:55,,,MISS Gooden 13' Jump Shot,,
+0020200703,336,4,0,3,10:48 PM,0:52,Ostertag REBOUND (Off:2 Def:7),,,,
+0020200703,337,2,1,3,10:48 PM,0:46,MISS Jackson 5' Jump Shot,,Watson BLOCK (1 BLK),,
+0020200703,339,4,0,3,10:48 PM,0:43,Jackson REBOUND (Off:1 Def:0),,,,
+0020200703,338,1,5,3,10:48 PM,0:43,Jackson  Layup (8 PTS),,,67 - 71,4
+0020200703,340,1,1,3,10:49 PM,0:30,,,Watson 19' Jump Shot (15 PTS),69 - 71,2
+0020200703,341,2,1,3,10:49 PM,0:08,MISS Stevenson 19' Jump Shot,,,,
+0020200703,342,4,0,3,10:49 PM,0:06,,,Gooden REBOUND (Off:0 Def:1),,
+0020200703,343,2,1,3,10:49 PM,0:01,,,MISS Giricek 25' 3PT Jump Shot,,
+0020200703,344,4,0,3,10:49 PM,0:00,Malone REBOUND (Off:3 Def:2),,,,
+0020200703,346,13,0,3,10:49 PM,0:00,,,,69 - 71,2
+0020200703,347,12,0,4,10:52 PM,12:00,,,,69 - 71,2
+0020200703,348,5,8,4,10:53 PM,11:40,Massenburg 3 Second Violation Turnover (P1.T13),,,,
+0020200703,349,5,1,4,10:53 PM,11:25,,,Giricek Bad Pass Turnover (P2.T14),,
+0020200703,350,8,0,4,10:53 PM,11:25,,,SUB: Gasol FOR Wright,,
+0020200703,351,6,4,4,10:53 PM,11:13,Jackson OFF.Foul (P1),,,,
+0020200703,352,5,5,4,10:53 PM,11:13,Jackson Foul Turnover (P2.T14),,,,
+0020200703,353,2,65,4,10:54 PM,11:00,,,MISS Gasol 8' Jump Hook Shot,,
+0020200703,354,4,0,4,10:54 PM,10:58,Malone REBOUND (Off:3 Def:3),,,,
+0020200703,355,6,2,4,10:54 PM,10:46,,,Gasol S.FOUL (P2.T1),,
+0020200703,356,3,11,4,10:54 PM,10:46,Kirilenko Free Throw 1 of 2 (5 PTS),,,69 - 72,3
+0020200703,357,8,0,4,10:55 PM,10:46,SUB: Cheaney FOR Stevenson,,,,
+0020200703,358,3,12,4,10:55 PM,10:46,MISS Kirilenko Free Throw 2 of 2,,,,
+0020200703,359,4,0,4,10:55 PM,10:45,,,Batiste REBOUND (Off:1 Def:4),,
+0020200703,360,2,1,4,10:55 PM,10:33,,,MISS Gooden 24' 3PT Jump Shot,,
+0020200703,361,4,0,4,10:55 PM,10:31,Cheaney REBOUND (Off:0 Def:1),,,,
+0020200703,362,2,1,4,10:55 PM,10:13,MISS Massenburg 20' Jump Shot,,,,
+0020200703,363,4,0,4,10:55 PM,10:11,,,Batiste REBOUND (Off:1 Def:5),,
+0020200703,364,5,2,4,10:55 PM,10:08,Malone STEAL (2 STL),,Batiste Lost Ball Turnover (P2.T15),,
+0020200703,365,5,1,4,10:56 PM,9:52,Cheaney Bad Pass Turnover (P4.T15),,Gasol STEAL (2 STL),,
+0020200703,366,6,1,4,10:56 PM,9:52,Massenburg P.FOUL (P2.T1),,,,
+0020200703,367,2,65,4,10:56 PM,9:34,,,MISS Gooden 9' Jump Hook Shot,,
+0020200703,368,4,0,4,10:56 PM,9:31,JAZZ Rebound,,,,
+0020200703,369,1,1,4,10:57 PM,9:18,Malone 15' Jump Shot (25 PTS) (Cheaney 1 AST),,,69 - 74,5
+0020200703,370,6,1,4,10:57 PM,9:06,Massenburg P.FOUL (P3.T2),,,,
+0020200703,371,8,0,4,10:57 PM,9:06,,,SUB: Watson FOR Giricek,,
+0020200703,372,5,2,4,10:58 PM,9:02,Kirilenko STEAL (1 STL),,Watson Lost Ball Turnover (P6.T16),,
+0020200703,373,1,8,4,10:58 PM,8:58,Kirilenko  Slam Dunk (7 PTS),,,69 - 76,7
+0020200703,374,5,1,4,10:58 PM,8:43,Jackson STEAL (2 STL),,Watson Bad Pass Turnover (P7.T17),,
+0020200703,375,2,1,4,10:58 PM,8:33,MISS Malone 21' Jump Shot,,,,
+0020200703,376,4,0,4,10:58 PM,8:32,Massenburg REBOUND (Off:3 Def:3),,,,
+0020200703,377,6,2,4,10:58 PM,8:32,,,Gooden S.FOUL (P1.T2),,
+0020200703,378,9,4,4,10:58 PM,8:32,,,,,
+0020200703,380,3,11,4,11:01 PM,8:32,Massenburg Free Throw 1 of 2 (4 PTS),,,69 - 77,8
+0020200703,381,3,12,4,11:01 PM,8:32,Massenburg Free Throw 2 of 2 (5 PTS),,,69 - 78,9
+0020200703,382,2,1,4,11:01 PM,8:19,,,MISS Batiste 21' Jump Shot,,
+0020200703,383,4,0,4,11:01 PM,8:17,,,Gooden REBOUND (Off:1 Def:1),,
+0020200703,384,6,2,4,11:01 PM,8:16,Malone S.FOUL (P3.T3),,,,
+0020200703,385,8,0,4,11:02 PM,8:16,,,SUB: Wright FOR Batiste,,
+0020200703,386,3,11,4,11:02 PM,8:16,,,Gooden Free Throw 1 of 2 (3 PTS),70 - 78,8
+0020200703,387,3,12,4,11:02 PM,8:16,,,MISS Gooden Free Throw 2 of 2,,
+0020200703,388,4,0,4,11:02 PM,8:14,Massenburg REBOUND (Off:3 Def:4),,,,
+0020200703,389,2,42,4,11:02 PM,7:57,MISS Kirilenko  Driving Layup,,,,
+0020200703,390,4,0,4,11:02 PM,7:55,,,Wright REBOUND (Off:6 Def:6),,
+0020200703,391,2,1,4,11:02 PM,7:50,,,MISS Watson 17' Jump Shot,,
+0020200703,392,4,0,4,11:02 PM,7:47,Massenburg REBOUND (Off:3 Def:5),,,,
+0020200703,393,6,1,4,11:03 PM,7:40,,,Wright P.FOUL (P4.T3),,
+0020200703,394,8,0,4,11:03 PM,7:40,SUB: Stockton FOR Jackson,,,,
+0020200703,395,1,1,4,11:03 PM,7:26,Malone 19' Jump Shot (27 PTS) (Massenburg 1 AST),,,70 - 80,10
+0020200703,396,5,2,4,11:04 PM,7:02,Malone STEAL (3 STL),,Gasol Lost Ball Turnover (P3.T18),,
+0020200703,397,6,1,4,11:04 PM,7:01,,,Gasol P.FOUL (P3.T4),,
+0020200703,398,1,1,4,11:04 PM,6:54,Malone 21' Jump Shot (29 PTS) (Stockton 10 AST),,,70 - 82,12
+0020200703,399,9,1,4,11:04 PM,6:49,,,Grizzlies Timeout: Regular (Reg.4 Short 1),,
+0020200703,401,1,5,4,11:07 PM,6:35,,,Wright  Layup (14 PTS),72 - 82,10
+0020200703,402,1,1,4,11:07 PM,6:14,Cheaney 21' Jump Shot (7 PTS) (Stockton 11 AST),,,72 - 84,12
+0020200703,403,2,5,4,11:07 PM,5:55,,,MISS Gooden  Layup,,
+0020200703,404,4,0,4,11:07 PM,5:54,Massenburg REBOUND (Off:3 Def:6),,,,
+0020200703,405,1,5,4,11:08 PM,5:48,Kirilenko  Layup (9 PTS) (Malone 7 AST),,,72 - 86,14
+0020200703,406,6,2,4,11:08 PM,5:48,,,Gooden S.FOUL (P2.PN),,
+0020200703,407,6,11,4,11:08 PM,5:48,,,Gooden T.FOUL (P2.PN),,
+0020200703,408,8,0,4,11:08 PM,5:48,,,SUB: Giricek FOR Gooden,,
+0020200703,409,3,16,4,11:08 PM,5:48,Kirilenko Free Throw Technical (10 PTS),,,72 - 87,15
+0020200703,410,3,10,4,11:08 PM,5:48,MISS Kirilenko Free Throw 1 of 1,,,,
+0020200703,411,4,0,4,11:09 PM,5:46,,,Wright REBOUND (Off:6 Def:7),,
+0020200703,412,6,1,4,11:09 PM,5:39,Cheaney P.FOUL (P5.T4),,,,
+0020200703,413,5,1,4,11:09 PM,5:34,Malone STEAL (4 STL),,Wright Bad Pass Turnover (P5.T19),,
+0020200703,414,2,63,4,11:09 PM,5:18,MISS Malone 20' Fadeaway Jumper,,,,
+0020200703,415,4,0,4,11:10 PM,5:16,,,Watson REBOUND (Off:1 Def:4),,
+0020200703,416,6,14,4,11:10 PM,5:12,Malone FLAGRANT.FOUL.TYPE1 (P4.PN),,,,
+0020200703,417,3,18,4,11:10 PM,5:12,,,MISS Gasol Free Throw Flagrant 1 of 2,,
+0020200703,418,4,1,4,11:10 PM,5:12,,,Grizzlies Rebound,,
+0020200703,419,3,19,4,11:10 PM,5:12,,,MISS Gasol Free Throw Flagrant 2 of 2,,
+0020200703,420,4,1,4,11:10 PM,5:12,,,Grizzlies Rebound,,
+0020200703,421,2,1,4,11:11 PM,5:05,,,MISS Wright 11' Jump Shot,,
+0020200703,423,4,0,4,11:11 PM,5:02,,,Battier REBOUND (Off:1 Def:2),,
+0020200703,422,1,5,4,11:11 PM,5:02,,,Battier  Layup (4 PTS),74 - 87,13
+0020200703,424,2,1,4,11:11 PM,4:41,MISS Stockton 9' Jump Shot,,Watson BLOCK (2 BLK),,
+0020200703,425,4,0,4,11:11 PM,4:38,Stockton REBOUND (Off:3 Def:5),,,,
+0020200703,426,1,1,4,11:11 PM,4:36,Stockton 21' Jump Shot (7 PTS),,,74 - 89,15
+0020200703,427,2,1,4,11:12 PM,4:21,,,MISS Watson 5' Jump Shot,,
+0020200703,428,4,0,4,11:12 PM,4:18,Massenburg REBOUND (Off:3 Def:7),,,,
+0020200703,429,1,56,4,11:12 PM,4:06,Malone 9' Running Hook Shot (31 PTS),,,74 - 91,17
+0020200703,430,6,1,4,11:12 PM,3:53,Stockton P.FOUL (P3.PN),,,,
+0020200703,431,3,11,4,11:13 PM,3:53,,,Watson Free Throw 1 of 2 (16 PTS),75 - 91,16
+0020200703,432,3,12,4,11:13 PM,3:53,,,MISS Watson Free Throw 2 of 2,,
+0020200703,433,4,0,4,11:13 PM,3:51,Massenburg REBOUND (Off:3 Def:8),,,,
+0020200703,434,1,5,4,11:13 PM,3:39,Stockton  Layup (9 PTS) (Malone 8 AST),,,75 - 93,18
+0020200703,435,6,2,4,11:13 PM,3:39,,,Watson S.FOUL (P4.PN),,
+0020200703,436,3,10,4,11:14 PM,3:39,Stockton Free Throw 1 of 1 (10 PTS),,,75 - 94,19
+0020200703,438,2,56,4,11:14 PM,3:21,,,MISS Gasol 4' Running Hook Shot,,
+0020200703,439,4,0,4,11:14 PM,3:20,Massenburg REBOUND (Off:3 Def:9),,,,
+0020200703,440,6,3,4,11:14 PM,3:20,,,Gasol L.B.FOUL (P4.PN),,
+0020200703,441,3,11,4,11:14 PM,3:20,MISS Massenburg Free Throw 1 of 2,,,,
+0020200703,442,4,1,4,11:14 PM,3:20,JAZZ Rebound,,,,
+0020200703,443,8,0,4,11:15 PM,3:20,SUB: Arroyo FOR Stockton,,,,
+0020200703,444,3,12,4,11:15 PM,3:20,Massenburg Free Throw 2 of 2 (6 PTS),,,75 - 95,20
+0020200703,445,6,2,4,11:15 PM,3:05,Massenburg S.FOUL (P4.PN),,,,
+0020200703,446,8,0,4,11:15 PM,3:05,SUB: Padgett FOR Malone,,,,
+0020200703,447,3,11,4,11:16 PM,3:05,,,Wright Free Throw 1 of 2 (15 PTS),76 - 95,19
+0020200703,448,3,12,4,11:16 PM,3:05,,,Wright Free Throw 2 of 2 (16 PTS),77 - 95,18
+0020200703,449,2,65,4,11:16 PM,2:44,MISS Massenburg 6' Jump Hook Shot,,,,
+0020200703,450,4,0,4,11:16 PM,2:42,,,Giricek REBOUND (Off:1 Def:3),,
+0020200703,451,2,1,4,11:16 PM,2:33,,,MISS Battier 24' 3PT Jump Shot,,
+0020200703,452,4,0,4,11:16 PM,2:30,,,Gasol REBOUND (Off:6 Def:5),,
+0020200703,453,5,2,4,11:17 PM,2:29,Arroyo STEAL (1 STL),,Gasol Lost Ball Turnover (P4.T20),,
+0020200703,454,1,1,4,11:17 PM,2:12,Kirilenko  3PT Jump Shot (13 PTS) (Padgett 2 AST),,,77 - 98,21
+0020200703,455,9,1,4,11:17 PM,2:09,,,Grizzlies Timeout: Regular (Reg.5 Short 1),,
+0020200703,457,8,0,4,11:19 PM,2:09,,,SUB: Trybanski FOR Gasol,,
+0020200703,458,8,0,4,11:19 PM,2:09,,,SUB: Gooden FOR Wright,,
+0020200703,459,8,0,4,11:19 PM,2:09,,,SUB: Batiste FOR Giricek,,
+0020200703,460,2,5,4,11:19 PM,1:55,Kirilenko BLOCK (2 BLK),,MISS Trybanski  Layup,,
+0020200703,461,4,0,4,11:19 PM,1:50,Padgett REBOUND (Off:1 Def:3),,,,
+0020200703,462,1,7,4,11:19 PM,1:50,Massenburg  Dunk (8 PTS) (Arroyo 1 AST),,,77 - 100,23
+0020200703,463,6,2,4,11:19 PM,1:50,,,Trybanski S.FOUL (P1.PN),,
+0020200703,464,3,10,4,11:20 PM,1:50,Massenburg Free Throw 1 of 1 (9 PTS),,,77 - 101,24
+0020200703,465,2,1,4,11:20 PM,1:40,,,MISS Batiste 18' Jump Shot,,
+0020200703,467,4,0,4,11:20 PM,1:34,,,Gooden REBOUND (Off:2 Def:1),,
+0020200703,466,2,5,4,11:20 PM,1:34,,,MISS Gooden  Layup,,
+0020200703,468,4,0,4,11:20 PM,1:33,Kirilenko REBOUND (Off:0 Def:1),,,,
+0020200703,469,1,42,4,11:20 PM,1:17,Arroyo  Driving Layup (2 PTS),,,77 - 103,26
+0020200703,470,2,1,4,11:21 PM,0:58,,,MISS Batiste 19' Jump Shot,,
+0020200703,472,4,0,4,11:21 PM,0:57,,,Trybanski REBOUND (Off:1 Def:0),,
+0020200703,471,1,5,4,11:21 PM,0:57,,,Trybanski  Layup (2 PTS),79 - 103,24
+0020200703,473,1,1,4,11:21 PM,0:40,Massenburg 14' Jump Shot (11 PTS) (Cheaney 2 AST),,,79 - 105,26
+0020200703,474,2,1,4,11:21 PM,0:28,Kirilenko BLOCK (3 BLK),,MISS Watson 10' Jump Shot,,
+0020200703,475,4,0,4,11:21 PM,0:28,,,Trybanski REBOUND (Off:2 Def:0),,
+0020200703,476,1,5,4,11:21 PM,0:28,,,Trybanski  Layup (4 PTS),81 - 105,24
+0020200703,477,6,2,4,11:21 PM,0:28,Massenburg S.FOUL (P5.PN),,,,
+0020200703,478,3,10,4,11:21 PM,0:28,,,Trybanski Free Throw 1 of 1 (5 PTS),82 - 105,23
+0020200703,479,2,5,4,11:22 PM,0:15,MISS Massenburg  Layup,,,,
+0020200703,480,4,0,4,11:22 PM,0:14,,,Batiste REBOUND (Off:1 Def:6),,
+0020200703,481,2,1,4,11:22 PM,0:08,,,MISS Watson 19' Jump Shot,,
+0020200703,483,4,0,4,11:22 PM,0:07,,,Batiste REBOUND (Off:2 Def:6),,
+0020200703,482,1,64,4,11:22 PM,0:07,,,Batiste  Follow Up Dunk (9 PTS),84 - 105,21
+0020200703,485,13,0,4,11:23 PM,0:00,,,,84 - 105,21

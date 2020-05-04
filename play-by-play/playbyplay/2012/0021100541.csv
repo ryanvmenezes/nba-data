@@ -1,0 +1,473 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021100541,0,12,0,1,7:13 PM,12:00,,,,,
+0021100541,1,10,0,1,7:13 PM,12:00,Jump Ball Howard vs. Gooden: Tip to Nelson,,,,
+0021100541,2,1,52,1,7:13 PM,11:48,Howard 3' Alley Oop Dunk (2 PTS) (Nelson 1 AST),,,0 - 2,2
+0021100541,3,2,1,1,7:13 PM,11:31,,,MISS Gooden 19' Jump Shot,,
+0021100541,4,4,0,1,7:13 PM,11:30,,,Harris REBOUND (Off:1 Def:0),,
+0021100541,5,2,1,1,7:13 PM,11:25,,,MISS Delfino 16' Jump Shot,,
+0021100541,6,4,0,1,7:13 PM,11:24,Richardson REBOUND (Off:0 Def:1),,,,
+0021100541,7,1,3,1,7:14 PM,11:16,Howard 8' Hook Shot (4 PTS) (Richardson 1 AST),,,0 - 4,4
+0021100541,8,1,7,1,7:14 PM,10:54,,,Harris 2' Dunk (2 PTS) (Gooden 1 AST),2 - 4,2
+0021100541,9,1,1,1,7:14 PM,10:47,Richardson 24' 3PT Jump Shot (3 PTS) (Nelson 2 AST),,,2 - 7,5
+0021100541,10,1,5,1,7:14 PM,10:26,,,Gooden 2' Layup (2 PTS),4 - 7,3
+0021100541,11,1,5,1,7:15 PM,10:10,Turkoglu 1' Layup (2 PTS) (Nelson 3 AST),,,4 - 9,5
+0021100541,12,5,1,1,7:15 PM,10:00,Anderson STEAL (1 STL),,Jennings Bad Pass Turnover (P1.T1),,
+0021100541,13,1,52,1,7:15 PM,9:52,Richardson 1' Alley Oop Dunk (5 PTS) (Turkoglu 1 AST),,,4 - 11,7
+0021100541,14,6,2,1,7:15 PM,9:40,Nelson S.FOUL (P1.T1),,,,
+0021100541,15,3,11,1,7:15 PM,9:40,,,MISS Jennings Free Throw 1 of 2,,
+0021100541,16,4,1,1,7:15 PM,9:40,,,Bucks Rebound,,
+0021100541,17,3,12,1,7:15 PM,9:40,,,Jennings Free Throw 2 of 2 (1 PTS),5 - 11,6
+0021100541,19,2,46,1,7:16 PM,9:28,MISS Nelson 6' Running Jump Shot,,,,
+0021100541,20,4,0,1,7:16 PM,9:27,,,Jennings REBOUND (Off:0 Def:1),,
+0021100541,21,1,5,1,7:16 PM,9:19,,,Ilyasova 2' Layup (2 PTS) (Harris 1 AST),7 - 11,4
+0021100541,22,2,1,1,7:16 PM,9:03,MISS Anderson 25' 3PT Jump Shot,,,,
+0021100541,23,4,0,1,7:16 PM,9:01,,,Bucks Rebound,,
+0021100541,25,2,46,1,7:17 PM,8:47,,,MISS Harris 7' Running Jump Shot,,
+0021100541,26,4,0,1,7:17 PM,8:46,Anderson REBOUND (Off:0 Def:1),,,,
+0021100541,27,1,1,1,7:17 PM,8:37,Richardson  3PT Jump Shot (8 PTS) (Nelson 4 AST),,,7 - 14,7
+0021100541,28,2,46,1,7:17 PM,8:16,,,MISS Jennings 5' Running Jump Shot,,
+0021100541,29,4,0,1,7:17 PM,8:15,Anderson REBOUND (Off:0 Def:2),,,,
+0021100541,30,1,8,1,7:17 PM,8:09,Howard 2' Slam Dunk (6 PTS) (Anderson 1 AST),,,7 - 16,9
+0021100541,31,9,1,1,7:18 PM,8:01,,,Bucks Timeout: Regular (Reg.1 Short 0),,
+0021100541,33,2,42,1,7:20 PM,7:53,Howard BLOCK (1 BLK),,MISS Gooden 3' Driving Layup,,
+0021100541,34,4,0,1,7:20 PM,7:51,Anderson REBOUND (Off:0 Def:3),,,,
+0021100541,35,2,1,1,7:20 PM,7:45,MISS Anderson 25' 3PT Jump Shot,,,,
+0021100541,36,4,0,1,7:20 PM,7:43,,,Delfino REBOUND (Off:0 Def:1),,
+0021100541,37,2,1,1,7:21 PM,7:27,,,MISS Jennings 25' 3PT Jump Shot,,
+0021100541,38,4,0,1,7:21 PM,7:26,Nelson REBOUND (Off:0 Def:1),,,,
+0021100541,39,2,3,1,7:21 PM,7:19,MISS Howard 7' Hook Shot,,,,
+0021100541,40,4,0,1,7:21 PM,7:18,,,Bucks Rebound,,
+0021100541,41,2,1,1,7:21 PM,7:06,,,MISS Gooden 25' 3PT Jump Shot,,
+0021100541,42,4,0,1,7:21 PM,7:05,Turkoglu REBOUND (Off:0 Def:1),,,,
+0021100541,43,2,42,1,7:21 PM,6:49,MISS Turkoglu  Driving Layup,,,,
+0021100541,44,4,0,1,7:21 PM,6:48,Howard REBOUND (Off:1 Def:0),,,,
+0021100541,45,6,2,1,7:21 PM,6:48,,,Gooden S.FOUL (P1.T1),,
+0021100541,46,3,11,1,7:21 PM,6:48,MISS Howard Free Throw 1 of 2,,,,
+0021100541,47,4,1,1,7:21 PM,6:48,MAGIC Rebound,,,,
+0021100541,48,8,0,1,7:22 PM,6:48,,,SUB: Dunleavy FOR Delfino,,
+0021100541,49,8,0,1,7:22 PM,6:48,,,SUB: Mbah a Moute FOR Harris,,
+0021100541,50,3,12,1,7:22 PM,6:48,MISS Howard Free Throw 2 of 2,,,,
+0021100541,52,4,0,1,7:22 PM,6:47,,,Gooden REBOUND (Off:0 Def:1),,
+0021100541,53,5,1,1,7:22 PM,6:35,Anderson STEAL (2 STL),,Dunleavy Bad Pass Turnover (P1.T2),,
+0021100541,54,2,1,1,7:23 PM,6:26,MISS Richardson 25' 3PT Jump Shot,,,,
+0021100541,55,4,0,1,7:23 PM,6:25,,,Ilyasova REBOUND (Off:0 Def:1),,
+0021100541,56,6,2,1,7:23 PM,6:20,Turkoglu S.FOUL (P1.T2),,,,
+0021100541,57,3,11,1,7:23 PM,6:20,,,Jennings Free Throw 1 of 2 (2 PTS),8 - 16,8
+0021100541,59,3,12,1,7:23 PM,6:20,,,Jennings Free Throw 2 of 2 (3 PTS),9 - 16,7
+0021100541,61,1,1,1,7:24 PM,5:57,Anderson  3PT Jump Shot (3 PTS) (Turkoglu 2 AST),,,9 - 19,10
+0021100541,62,5,1,1,7:24 PM,5:42,Anderson STEAL (3 STL),,Jennings Bad Pass Turnover (P2.T3),,
+0021100541,63,5,1,1,7:24 PM,5:39,Nelson Bad Pass Turnover (P1.T1),,Ilyasova STEAL (1 STL),,
+0021100541,64,1,5,1,7:24 PM,5:34,,,Jennings 2' Layup (5 PTS) (Ilyasova 1 AST),11 - 19,8
+0021100541,65,1,5,1,7:24 PM,5:15,Howard 2' Layup (8 PTS),,,11 - 21,10
+0021100541,66,1,79,1,7:25 PM,4:51,,,Jennings 16' Pullup Jump Shot (7 PTS),13 - 21,8
+0021100541,67,1,52,1,7:25 PM,4:38,Howard 1' Alley Oop Dunk (10 PTS) (Richardson 2 AST),,,13 - 23,10
+0021100541,68,6,1,1,7:25 PM,4:31,Richardson P.FOUL (P1.T3),,,,
+0021100541,69,2,42,1,7:26 PM,4:21,,,MISS Ilyasova 1' Driving Layup,,
+0021100541,70,4,0,1,7:26 PM,4:21,,,Bucks Rebound,,
+0021100541,71,1,42,1,7:26 PM,4:12,,,Dunleavy 2' Driving Layup (2 PTS) (Jennings 1 AST),15 - 23,8
+0021100541,72,1,84,1,7:26 PM,3:57,Nelson 8' Running Bank Shot (2 PTS),,,15 - 25,10
+0021100541,73,1,42,1,7:27 PM,3:32,,,Jennings 1' Driving Layup (9 PTS),17 - 25,8
+0021100541,75,2,1,1,7:27 PM,3:18,MISS Nelson 25' 3PT Jump Shot,,,,
+0021100541,76,4,0,1,7:27 PM,3:17,,,Ilyasova REBOUND (Off:0 Def:2),,
+0021100541,77,5,2,1,7:27 PM,3:04,Anderson STEAL (4 STL),,Gooden Lost Ball Turnover (P1.T4),,
+0021100541,79,6,11,1,7:27 PM,3:04,,,Gooden T.FOUL (P1.T1),,
+0021100541,80,3,16,1,7:28 PM,3:04,Anderson Free Throw Technical (4 PTS),,,17 - 26,9
+0021100541,82,8,0,1,7:28 PM,3:04,SUB: Davis FOR Anderson,,,,
+0021100541,84,2,1,1,7:28 PM,2:52,MISS Turkoglu  3PT Jump Shot,,,,
+0021100541,85,4,0,1,7:28 PM,2:50,Nelson REBOUND (Off:1 Def:1),,,,
+0021100541,86,2,5,1,7:28 PM,2:45,MISS Richardson 2' Layup,,Ilyasova BLOCK (1 BLK),,
+0021100541,87,4,0,1,7:28 PM,2:43,Richardson REBOUND (Off:1 Def:1),,,,
+0021100541,88,1,42,1,7:28 PM,2:41,Richardson 1' Driving Layup (10 PTS),,,17 - 28,11
+0021100541,89,2,1,1,7:28 PM,2:29,,,MISS Jennings 25' 3PT Jump Shot,,
+0021100541,90,4,0,1,7:28 PM,2:27,Howard REBOUND (Off:1 Def:1),,,,
+0021100541,92,9,1,1,7:29 PM,2:25,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0021100541,94,8,0,1,7:31 PM,2:25,,,SUB: Udrih FOR Gooden,,
+0021100541,95,8,0,1,7:31 PM,2:25,,,SUB: Sanders FOR Jennings,,
+0021100541,96,8,0,1,7:31 PM,2:25,SUB: Redick FOR Richardson,,,,
+0021100541,97,8,0,1,7:31 PM,2:25,SUB: Duhon FOR Nelson,,,,
+0021100541,99,1,5,1,7:31 PM,2:12,Howard 2' Layup (12 PTS) (Turkoglu 3 AST),,,17 - 30,13
+0021100541,100,2,1,1,7:32 PM,1:47,,,MISS Ilyasova 6' Jump Shot,,
+0021100541,101,4,0,1,7:32 PM,1:46,Howard REBOUND (Off:1 Def:2),,,,
+0021100541,102,1,1,1,7:32 PM,1:32,Duhon  3PT Jump Shot (3 PTS) (Turkoglu 4 AST),,,17 - 33,16
+0021100541,103,1,1,1,7:32 PM,1:13,,,Udrih 13' Jump Shot (2 PTS),19 - 33,14
+0021100541,104,2,1,1,7:33 PM,0:54,MISS Davis 17' Jump Shot,,,,
+0021100541,105,4,0,1,7:33 PM,0:53,,,Bucks Rebound,,
+0021100541,107,8,0,1,7:33 PM,0:53,,,SUB: Harris FOR Ilyasova,,
+0021100541,108,2,79,1,7:33 PM,0:39,,,MISS Udrih 15' Pullup Jump Shot,,
+0021100541,109,4,0,1,7:33 PM,0:38,Howard REBOUND (Off:1 Def:3),,,,
+0021100541,110,1,1,1,7:33 PM,0:32,Turkoglu 24' 3PT Jump Shot (5 PTS),,,19 - 36,17
+0021100541,111,1,47,1,7:34 PM,0:19,,,Sanders 17' Turnaround Jump Shot (2 PTS) (Udrih 1 AST),21 - 36,15
+0021100541,112,6,1,1,7:34 PM,0:04,,,Sanders P.FOUL (P1.T2),,
+0021100541,113,2,1,1,7:34 PM,0:00,MISS Redick 29' 3PT Jump Shot,,,,
+0021100541,114,4,0,1,7:35 PM,0:00,MAGIC Rebound,,,,
+0021100541,116,13,0,1,7:35 PM,0:00,,,,21 - 36,15
+0021100541,118,12,0,2,7:37 PM,12:00,,,,21 - 36,15
+0021100541,119,6,4,2,7:37 PM,11:49,,,Harris OFF.Foul (P1),,
+0021100541,120,5,5,2,7:37 PM,11:49,,,Harris Foul Turnover (P1.T5),,
+0021100541,121,2,79,2,7:38 PM,11:37,MISS Redick 16' Pullup Jump Shot,,,,
+0021100541,122,4,0,2,7:38 PM,11:36,Clark REBOUND (Off:1 Def:0),,,,
+0021100541,123,5,1,2,7:38 PM,11:29,Clark Bad Pass Turnover (P1.T2),,Dunleavy STEAL (1 STL),,
+0021100541,124,1,5,2,7:38 PM,11:22,,,Harris 2' Layup (4 PTS),23 - 36,13
+0021100541,125,2,47,2,7:38 PM,11:05,MISS Redick 19' Turnaround Jump Shot,,,,
+0021100541,126,4,0,2,7:38 PM,11:04,,,Harris REBOUND (Off:1 Def:1),,
+0021100541,127,6,2,2,7:39 PM,10:45,Clark S.FOUL (P1.T1),,,,
+0021100541,128,3,11,2,7:39 PM,10:45,,,MISS Mbah a Moute Free Throw 1 of 2,,
+0021100541,129,4,1,2,7:39 PM,10:45,,,Bucks Rebound,,
+0021100541,130,3,12,2,7:39 PM,10:45,,,Mbah a Moute Free Throw 2 of 2 (1 PTS),24 - 36,12
+0021100541,132,2,1,2,7:40 PM,10:30,MISS Davis 16' Jump Shot,,,,
+0021100541,133,4,0,2,7:40 PM,10:29,,,Mbah a Moute REBOUND (Off:0 Def:1),,
+0021100541,134,1,73,2,7:40 PM,10:14,,,Mbah a Moute 2' Driving Reverse Layup (3 PTS) (Dunleavy 1 AST),26 - 36,10
+0021100541,135,2,42,2,7:40 PM,9:56,MISS Wafer 2' Driving Layup,,,,
+0021100541,137,4,0,2,7:40 PM,9:55,Davis REBOUND (Off:1 Def:0),,,,
+0021100541,136,2,4,2,7:40 PM,9:55,MISS Davis 1' Tip Shot,,,,
+0021100541,138,4,0,2,7:40 PM,9:53,Davis REBOUND (Off:2 Def:0),,,,
+0021100541,139,1,5,2,7:40 PM,9:53,Davis 2' Layup (2 PTS),,,26 - 38,12
+0021100541,140,6,2,2,7:40 PM,9:53,,,Mbah a Moute S.FOUL (P1.T1),,
+0021100541,141,3,10,2,7:41 PM,9:53,MISS Davis Free Throw 1 of 1,,,,
+0021100541,143,4,0,2,7:41 PM,9:52,,,Sanders REBOUND (Off:0 Def:1),,
+0021100541,144,1,77,2,7:41 PM,9:32,,,Udrih 3' Driving Jump Shot (4 PTS) (Mbah a Moute 1 AST),28 - 38,10
+0021100541,145,2,46,2,7:41 PM,9:17,MISS Davis 8' Running Jump Shot,,,,
+0021100541,146,4,0,2,7:41 PM,9:15,,,Mbah a Moute REBOUND (Off:0 Def:2),,
+0021100541,147,1,1,2,7:42 PM,9:02,,,Sanders 20' Jump Shot (4 PTS),30 - 38,8
+0021100541,149,9,1,2,7:42 PM,8:55,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0021100541,154,5,11,2,7:45 PM,8:36,MAGIC Turnover: Shot Clock (T#3),,,,
+0021100541,155,1,1,2,7:45 PM,8:23,,,Dunleavy 25' 3PT Jump Shot (5 PTS) (Udrih 2 AST),33 - 38,5
+0021100541,156,6,4,2,7:46 PM,8:06,Davis OFF.Foul (P1),,,,
+0021100541,157,5,5,2,7:46 PM,8:06,Davis Foul Turnover (P1.T4),,,,
+0021100541,158,1,5,2,7:46 PM,7:55,,,Sanders 2' Layup (6 PTS) (Mbah a Moute 2 AST),35 - 38,3
+0021100541,159,6,2,2,7:46 PM,7:55,Clark S.FOUL (P2.T2),,,,
+0021100541,160,8,0,2,7:46 PM,7:55,SUB: Anderson FOR Clark,,,,
+0021100541,161,8,0,2,7:47 PM,7:55,SUB: Richardson FOR Wafer,,,,
+0021100541,162,8,0,2,7:47 PM,7:55,SUB: Nelson FOR Duhon,,,,
+0021100541,163,3,10,2,7:47 PM,7:55,,,MISS Sanders Free Throw 1 of 1,,
+0021100541,165,4,0,2,7:47 PM,7:53,Anderson REBOUND (Off:0 Def:4),,,,
+0021100541,166,6,2,2,7:47 PM,7:46,,,Sanders S.FOUL (P2.T2),,
+0021100541,167,3,11,2,7:47 PM,7:46,Redick Free Throw 1 of 2 (1 PTS),,,35 - 39,4
+0021100541,169,8,0,2,7:48 PM,7:46,,,SUB: Delfino FOR Harris,,
+0021100541,170,8,0,2,7:48 PM,7:46,,,SUB: Gooden FOR Sanders,,
+0021100541,171,3,12,2,7:48 PM,7:46,Redick Free Throw 2 of 2 (2 PTS),,,35 - 40,5
+0021100541,173,2,1,2,7:48 PM,7:31,Anderson BLOCK (1 BLK),,MISS Mbah a Moute 4' Jump Shot,,
+0021100541,174,4,0,2,7:48 PM,7:29,Redick REBOUND (Off:0 Def:1),,,,
+0021100541,175,2,1,2,7:48 PM,7:23,MISS Anderson 25' 3PT Jump Shot,,,,
+0021100541,176,4,0,2,7:48 PM,7:22,,,Dunleavy REBOUND (Off:0 Def:1),,
+0021100541,177,2,42,2,7:48 PM,7:11,,,MISS Dunleavy 2' Driving Layup,,
+0021100541,179,4,0,2,7:48 PM,7:07,,,Mbah a Moute REBOUND (Off:1 Def:2),,
+0021100541,178,1,4,2,7:48 PM,7:07,,,Mbah a Moute  Tip Shot (5 PTS),37 - 40,3
+0021100541,180,1,1,2,7:49 PM,6:56,Nelson 17' Jump Shot (4 PTS),,,37 - 42,5
+0021100541,181,1,1,2,7:49 PM,6:45,,,Dunleavy 24' 3PT Jump Shot (8 PTS) (Udrih 3 AST),40 - 42,2
+0021100541,182,2,79,2,7:49 PM,6:34,MISS Nelson 18' Pullup Jump Shot,,,,
+0021100541,183,4,0,2,7:49 PM,6:33,,,Udrih REBOUND (Off:0 Def:1),,
+0021100541,184,2,79,2,7:49 PM,6:22,,,MISS Udrih 17' Pullup Jump Shot,,
+0021100541,185,4,0,2,7:49 PM,6:21,Davis REBOUND (Off:2 Def:1),,,,
+0021100541,186,1,1,2,7:49 PM,6:08,Redick 15' Jump Shot (4 PTS) (Nelson 5 AST),,,40 - 44,4
+0021100541,188,9,4,2,7:50 PM,5:53,,,,,
+0021100541,190,8,0,2,7:52 PM,5:53,,,SUB: Jennings FOR Udrih,,
+0021100541,191,8,0,2,7:52 PM,5:53,,,SUB: Ilyasova FOR Mbah a Moute,,
+0021100541,193,8,0,2,7:52 PM,5:53,SUB: Howard FOR Davis,,,,
+0021100541,194,2,1,2,7:52 PM,5:48,,,MISS Dunleavy 21' Jump Shot,,
+0021100541,195,4,0,2,7:52 PM,5:47,,,Gooden REBOUND (Off:1 Def:1),,
+0021100541,196,1,5,2,7:52 PM,5:45,,,Gooden 1' Layup (4 PTS),42 - 44,2
+0021100541,198,2,1,2,7:53 PM,5:28,MISS Richardson  3PT Jump Shot,,,,
+0021100541,199,4,0,2,7:53 PM,5:27,Howard REBOUND (Off:2 Def:3),,,,
+0021100541,200,6,1,2,7:53 PM,5:26,,,Gooden P.FOUL (P2.T3),,
+0021100541,201,1,7,2,7:53 PM,5:20,Anderson 1' Dunk (6 PTS) (Nelson 6 AST),,,42 - 46,4
+0021100541,202,5,2,2,7:53 PM,5:05,Howard STEAL (1 STL),,Gooden Lost Ball Turnover (P2.T6),,
+0021100541,203,2,40,2,7:54 PM,4:47,MISS Redick 2' Layup,,,,
+0021100541,204,4,0,2,7:54 PM,4:46,,,Ilyasova REBOUND (Off:0 Def:3),,
+0021100541,205,5,1,2,7:54 PM,4:39,Anderson STEAL (5 STL),,Ilyasova Bad Pass Turnover (P1.T7),,
+0021100541,206,2,40,2,7:54 PM,4:35,MISS Anderson  Layup,,,,
+0021100541,207,4,0,2,7:54 PM,4:34,,,Jennings REBOUND (Off:0 Def:2),,
+0021100541,208,1,5,2,7:54 PM,4:28,,,Jennings 2' Layup (11 PTS),44 - 46,2
+0021100541,209,6,4,2,7:54 PM,4:21,Howard OFF.Foul (P1),,,,
+0021100541,210,5,5,2,7:54 PM,4:21,Howard Foul Turnover (P1.T5),,,,
+0021100541,211,8,0,2,7:55 PM,4:21,SUB: Turkoglu FOR Redick,,,,
+0021100541,212,2,1,2,7:55 PM,4:09,Richardson BLOCK (1 BLK),,MISS Ilyasova 13' Jump Shot,,
+0021100541,213,4,0,2,7:55 PM,4:07,Howard REBOUND (Off:2 Def:4),,,,
+0021100541,214,6,2,2,7:55 PM,4:03,,,Ilyasova S.FOUL (P1.T4),,
+0021100541,215,3,11,2,7:55 PM,4:03,Howard Free Throw 1 of 2 (13 PTS),,,44 - 47,3
+0021100541,216,3,12,2,7:56 PM,4:03,MISS Howard Free Throw 2 of 2,,,,
+0021100541,218,4,0,2,7:56 PM,4:00,,,Gooden REBOUND (Off:1 Def:2),,
+0021100541,220,6,2,2,7:56 PM,3:51,Richardson S.FOUL (P2.T3),,,,
+0021100541,221,3,11,2,7:56 PM,3:51,,,Delfino Free Throw 1 of 2 (1 PTS),45 - 47,2
+0021100541,223,3,12,2,7:57 PM,3:51,,,Delfino Free Throw 2 of 2 (2 PTS),46 - 47,1
+0021100541,225,1,79,2,7:58 PM,3:31,Richardson 10' Pullup Jump Shot (12 PTS),,,46 - 49,3
+0021100541,226,1,42,2,7:58 PM,3:14,,,Ilyasova 1' Driving Layup (4 PTS),48 - 49,1
+0021100541,227,1,1,2,7:58 PM,3:02,Anderson 26' 3PT Jump Shot (9 PTS) (Nelson 7 AST),,,48 - 52,4
+0021100541,228,2,1,2,7:58 PM,2:49,,,MISS Delfino  3PT Jump Shot,,
+0021100541,229,4,0,2,7:58 PM,2:48,,,Ilyasova REBOUND (Off:1 Def:3),,
+0021100541,230,1,1,2,7:58 PM,2:43,,,Jennings 24' 3PT Jump Shot (14 PTS) (Ilyasova 2 AST),51 - 52,1
+0021100541,231,1,1,2,7:59 PM,2:28,Anderson 25' 3PT Jump Shot (12 PTS) (Nelson 8 AST),,,51 - 55,4
+0021100541,232,6,2,2,7:59 PM,2:13,Nelson S.FOUL (P2.T4),,,,
+0021100541,233,9,1,2,7:59 PM,2:13,,,Bucks Timeout: Regular (Reg.2 Short 0),,
+0021100541,236,8,0,2,8:01 PM,2:13,SUB: Redick FOR Richardson,,,,
+0021100541,237,8,0,2,8:01 PM,2:13,SUB: Duhon FOR Nelson,,,,
+0021100541,238,3,11,2,8:02 PM,2:13,,,MISS Jennings Free Throw 1 of 2,,
+0021100541,239,4,1,2,8:02 PM,2:13,,,Bucks Rebound,,
+0021100541,240,3,12,2,8:02 PM,2:13,,,Jennings Free Throw 2 of 2 (15 PTS),52 - 55,3
+0021100541,242,2,1,2,8:02 PM,1:57,MISS Duhon 20' Jump Shot,,,,
+0021100541,243,4,0,2,8:02 PM,1:56,,,Dunleavy REBOUND (Off:0 Def:2),,
+0021100541,244,1,1,2,8:03 PM,1:44,,,Ilyasova 26' 3PT Jump Shot (7 PTS) (Delfino 1 AST),55 - 55,TIE
+0021100541,245,1,42,2,8:03 PM,1:23,Turkoglu 1' Driving Layup (7 PTS),,,55 - 57,2
+0021100541,246,1,79,2,8:03 PM,1:09,,,Ilyasova 14' Pullup Jump Shot (9 PTS),57 - 57,TIE
+0021100541,247,6,2,2,8:03 PM,1:09,Anderson S.FOUL (P1.PN),,,,
+0021100541,248,3,10,2,8:03 PM,1:09,,,Ilyasova Free Throw 1 of 1 (10 PTS),58 - 57,-1
+0021100541,250,5,8,2,8:04 PM,0:51,Howard 3 Second Violation Turnover (P2.T6),,,,
+0021100541,251,8,0,2,8:04 PM,0:51,,,SUB: Sanders FOR Gooden,,
+0021100541,252,1,80,2,8:04 PM,0:38,,,Delfino 18' Step Back Jump Shot (4 PTS),60 - 57,-3
+0021100541,253,6,1,2,8:05 PM,0:27,,,Sanders P.FOUL (P3.PN),,
+0021100541,254,3,11,2,8:05 PM,0:27,MISS Howard Free Throw 1 of 2,,,,
+0021100541,255,4,1,2,8:05 PM,0:27,MAGIC Rebound,,,,
+0021100541,256,8,0,2,8:05 PM,0:27,,,SUB: Udrih FOR Sanders,,
+0021100541,257,3,12,2,8:05 PM,0:27,Howard Free Throw 2 of 2 (14 PTS),,,60 - 58,-2
+0021100541,259,2,79,2,8:06 PM,0:07,,,MISS Jennings 25' 3PT Pullup Jump Shot,,
+0021100541,260,4,0,2,8:06 PM,0:06,Anderson REBOUND (Off:0 Def:5),,,,
+0021100541,261,1,79,2,8:06 PM,0:00,Turkoglu 32' 3PT Pullup Jump Shot (10 PTS),,,60 - 61,1
+0021100541,265,2,1,2,8:07 PM,0:00,,,MISS Delfino 38' 3PT Jump Shot,,
+0021100541,266,4,0,2,8:07 PM,0:00,,,Bucks Rebound,,
+0021100541,267,13,0,2,8:07 PM,0:00,,,,60 - 61,1
+0021100541,270,12,0,3,8:23 PM,12:00,,,,60 - 61,1
+0021100541,271,6,2,3,8:23 PM,11:42,Anderson S.FOUL (P2.T1),,,,
+0021100541,272,3,11,3,8:23 PM,11:42,,,Ilyasova Free Throw 1 of 2 (11 PTS),61 - 61,TIE
+0021100541,274,3,12,3,8:24 PM,11:42,,,Ilyasova Free Throw 2 of 2 (12 PTS),62 - 61,-1
+0021100541,276,1,5,3,8:24 PM,11:31,Richardson 1' Layup (14 PTS) (Nelson 9 AST),,,62 - 63,1
+0021100541,277,1,5,3,8:24 PM,11:09,,,Ilyasova 1' Layup (14 PTS) (Delfino 2 AST),64 - 63,-1
+0021100541,278,1,5,3,8:25 PM,10:50,Howard 2' Layup (16 PTS) (Turkoglu 5 AST),,,64 - 65,1
+0021100541,279,6,2,3,8:25 PM,10:42,Nelson S.FOUL (P3.T2),,,,
+0021100541,280,3,11,3,8:25 PM,10:42,,,Gooden Free Throw 1 of 2 (5 PTS),65 - 65,TIE
+0021100541,282,3,12,3,8:25 PM,10:42,,,Gooden Free Throw 2 of 2 (6 PTS),66 - 65,-1
+0021100541,284,5,2,3,8:26 PM,10:25,Howard Lost Ball Turnover (P3.T7),,Harris STEAL (1 STL),,
+0021100541,285,5,39,3,8:26 PM,10:16,,,Ilyasova Step Out of Bounds Turnover (P2.T8),,
+0021100541,286,2,47,3,8:26 PM,10:04,MISS Richardson 21' Turnaround Jump Shot,,,,
+0021100541,287,4,0,3,8:26 PM,10:03,,,Gooden REBOUND (Off:1 Def:3),,
+0021100541,288,5,1,3,8:27 PM,9:56,Richardson STEAL (1 STL),,Delfino Bad Pass Turnover (P1.T9),,
+0021100541,289,1,7,3,8:27 PM,9:50,Howard 1' Dunk (18 PTS) (Turkoglu 6 AST),,,66 - 67,1
+0021100541,290,2,1,3,8:27 PM,9:30,,,MISS Harris 21' Jump Shot,,
+0021100541,291,4,0,3,8:27 PM,9:29,Richardson REBOUND (Off:1 Def:2),,,,
+0021100541,292,6,1,3,8:27 PM,9:18,,,Harris P.FOUL (P2.T1),,
+0021100541,293,5,1,3,8:28 PM,9:08,Anderson Bad Pass Turnover (P1.T8),,Gooden STEAL (1 STL),,
+0021100541,294,6,1,3,8:28 PM,9:07,Turkoglu P.FOUL (P2.T3),,,,
+0021100541,295,6,2,3,8:28 PM,8:59,Nelson S.FOUL (P4.T4),,,,
+0021100541,296,3,11,3,8:28 PM,8:59,,,Jennings Free Throw 1 of 2 (16 PTS),67 - 67,TIE
+0021100541,298,8,0,3,8:28 PM,8:59,SUB: Duhon FOR Nelson,,,,
+0021100541,299,3,12,3,8:28 PM,8:59,,,MISS Jennings Free Throw 2 of 2,,
+0021100541,301,4,0,3,8:29 PM,8:57,Turkoglu REBOUND (Off:0 Def:2),,,,
+0021100541,302,2,1,3,8:29 PM,8:43,MISS Turkoglu 25' 3PT Jump Shot,,,,
+0021100541,303,4,0,3,8:29 PM,8:42,,,Jennings REBOUND (Off:0 Def:3),,
+0021100541,304,1,79,3,8:29 PM,8:35,,,Jennings 19' Pullup Jump Shot (18 PTS),69 - 67,-2
+0021100541,305,9,1,3,8:29 PM,8:34,MAGIC Timeout: Regular (Full 3 Short 0),,,,
+0021100541,309,1,1,3,8:32 PM,8:13,Richardson 21' Jump Shot (16 PTS),,,69 - 69,TIE
+0021100541,310,1,1,3,8:32 PM,7:49,,,Ilyasova 15' Jump Shot (16 PTS) (Delfino 3 AST),71 - 69,-2
+0021100541,311,6,2,3,8:33 PM,7:30,,,Ilyasova S.FOUL (P2.T2),,
+0021100541,312,3,11,3,8:33 PM,7:30,Anderson Free Throw 1 of 2 (13 PTS),,,71 - 70,-1
+0021100541,314,3,12,3,8:33 PM,7:30,Anderson Free Throw 2 of 2 (14 PTS),,,71 - 71,TIE
+0021100541,316,2,5,3,8:33 PM,7:18,,,MISS Ilyasova 1' Layup,,
+0021100541,317,4,0,3,8:33 PM,7:17,Turkoglu REBOUND (Off:0 Def:3),,,,
+0021100541,318,5,1,3,8:34 PM,7:05,Richardson Bad Pass Turnover (P1.T9),,Gooden STEAL (2 STL),,
+0021100541,319,5,1,3,8:34 PM,6:53,,,Ilyasova Bad Pass Turnover (P3.T10),,
+0021100541,320,5,1,3,8:34 PM,6:38,Turkoglu Bad Pass Turnover (P1.T10),,Gooden STEAL (3 STL),,
+0021100541,321,6,4,3,8:34 PM,6:34,,,Gooden OFF.Foul (P3),,
+0021100541,322,5,5,3,8:34 PM,6:34,,,Gooden Foul Turnover (P3.T11),,
+0021100541,324,6,4,3,8:35 PM,6:18,Howard OFF.Foul (P2),,,,
+0021100541,325,5,5,3,8:35 PM,6:18,Howard Foul Turnover (P4.T11),,,,
+0021100541,326,7,1,3,8:35 PM,6:18,MAGIC Violation: Delay of game Violation,,,,
+0021100541,328,5,2,3,8:35 PM,6:05,Howard STEAL (2 STL),,Harris Lost Ball Turnover (P2.T12),,
+0021100541,329,6,1,3,8:36 PM,6:01,,,Jennings P.FOUL (P1.T3),,
+0021100541,330,3,11,3,8:36 PM,6:01,Turkoglu Free Throw 1 of 2 (11 PTS),,,71 - 72,1
+0021100541,332,8,0,3,8:36 PM,6:01,SUB: Redick FOR Richardson,,,,
+0021100541,333,3,12,3,8:36 PM,6:01,MISS Turkoglu Free Throw 2 of 2,,,,
+0021100541,335,4,0,3,8:36 PM,5:59,Duhon REBOUND (Off:1 Def:0),,,,
+0021100541,336,6,1,3,8:36 PM,5:58,,,Gooden P.FOUL (P4.T4),,
+0021100541,337,8,0,3,8:37 PM,5:58,,,SUB: Sanders FOR Gooden,,
+0021100541,338,8,0,3,8:37 PM,5:58,,,SUB: Dunleavy FOR Harris,,
+0021100541,339,2,57,3,8:37 PM,5:43,MISS Howard 5' Driving Hook Shot,,,,
+0021100541,340,4,0,3,8:37 PM,5:42,,,Delfino REBOUND (Off:0 Def:2),,
+0021100541,341,5,40,3,8:38 PM,5:35,,,Jennings Out of Bounds Lost Ball Turnover (P3.T13),,
+0021100541,342,2,1,3,8:38 PM,5:22,MISS Turkoglu 4' Jump Shot,,Sanders BLOCK (1 BLK),,
+0021100541,343,4,0,3,8:38 PM,5:21,Turkoglu REBOUND (Off:1 Def:3),,,,
+0021100541,344,2,5,3,8:38 PM,5:16,MISS Howard 1' Layup,,,,
+0021100541,345,4,0,3,8:38 PM,5:14,Anderson REBOUND (Off:1 Def:5),,,,
+0021100541,346,6,1,3,8:38 PM,5:13,,,Delfino P.FOUL (P1.PN),,
+0021100541,347,3,11,3,8:38 PM,5:13,Anderson Free Throw 1 of 2 (15 PTS),,,71 - 73,2
+0021100541,349,3,12,3,8:39 PM,5:13,Anderson Free Throw 2 of 2 (16 PTS),,,71 - 74,3
+0021100541,352,1,5,3,8:39 PM,4:57,,,Sanders 3' Layup (8 PTS) (Delfino 4 AST),73 - 74,1
+0021100541,353,2,5,3,8:40 PM,4:31,MISS Anderson 2' Layup,,Sanders BLOCK (2 BLK),,
+0021100541,354,4,0,3,8:40 PM,4:31,MAGIC Rebound,,,,
+0021100541,355,5,11,3,8:40 PM,4:31,MAGIC Turnover: Shot Clock (T#12),,,,
+0021100541,356,1,1,3,8:40 PM,4:19,,,Ilyasova 21' Jump Shot (18 PTS) (Jennings 2 AST),75 - 74,-1
+0021100541,357,6,2,3,8:40 PM,4:03,,,Sanders S.FOUL (P4.PN),,
+0021100541,358,3,11,3,8:40 PM,4:03,MISS Howard Free Throw 1 of 2,,,,
+0021100541,359,4,1,3,8:40 PM,4:03,MAGIC Rebound,,,,
+0021100541,361,8,0,3,8:41 PM,4:03,,,SUB: Brockman FOR Sanders,,
+0021100541,362,3,12,3,8:41 PM,4:03,Howard Free Throw 2 of 2 (19 PTS),,,75 - 75,TIE
+0021100541,364,2,80,3,8:41 PM,3:51,,,MISS Jennings 18' Step Back Jump Shot,,
+0021100541,365,4,0,3,8:41 PM,3:49,Turkoglu REBOUND (Off:1 Def:4),,,,
+0021100541,366,6,4,3,8:42 PM,3:44,Turkoglu OFF.Foul (P3),,,,
+0021100541,367,5,5,3,8:42 PM,3:44,Turkoglu Foul Turnover (P2.T13),,,,
+0021100541,368,6,1,3,8:42 PM,3:38,Anderson P.FOUL (P3.PN),,,,
+0021100541,369,3,11,3,8:42 PM,3:38,,,Jennings Free Throw 1 of 2 (19 PTS),76 - 75,-1
+0021100541,371,8,0,3,8:43 PM,3:38,SUB: Davis FOR Anderson,,,,
+0021100541,372,8,0,3,8:43 PM,3:38,,,SUB: Mbah a Moute FOR Delfino,,
+0021100541,373,3,12,3,8:43 PM,3:38,,,MISS Jennings Free Throw 2 of 2,,
+0021100541,375,4,0,3,8:43 PM,3:37,Howard REBOUND (Off:2 Def:5),,,,
+0021100541,376,6,1,3,8:43 PM,3:32,,,Brockman P.FOUL (P1.PN),,
+0021100541,377,3,11,3,8:43 PM,3:32,Howard Free Throw 1 of 2 (20 PTS),,,76 - 76,TIE
+0021100541,379,3,12,3,8:43 PM,3:32,MISS Howard Free Throw 2 of 2,,,,
+0021100541,381,4,0,3,8:44 PM,3:31,,,Mbah a Moute REBOUND (Off:1 Def:3),,
+0021100541,382,1,73,3,8:44 PM,3:20,,,Jennings 3' Driving Reverse Layup (21 PTS) (Ilyasova 3 AST),78 - 76,-2
+0021100541,383,6,1,3,8:44 PM,3:14,,,Brockman P.FOUL (P2.PN),,
+0021100541,384,3,11,3,8:44 PM,3:14,MISS Howard Free Throw 1 of 2,,,,
+0021100541,385,4,1,3,8:44 PM,3:14,MAGIC Rebound,,,,
+0021100541,386,3,12,3,8:44 PM,3:14,Howard Free Throw 2 of 2 (21 PTS),,,78 - 77,-1
+0021100541,388,5,2,3,8:45 PM,2:54,Howard STEAL (3 STL),,Ilyasova Lost Ball Turnover (P4.T14),,
+0021100541,389,1,5,3,8:45 PM,2:50,Turkoglu 1' Layup (13 PTS) (Duhon 1 AST),,,78 - 79,1
+0021100541,390,2,78,3,8:45 PM,2:32,,,MISS Jennings 7' Floating Jump Shot,,
+0021100541,391,4,0,3,8:45 PM,2:31,Davis REBOUND (Off:2 Def:2),,,,
+0021100541,392,1,1,3,8:45 PM,2:25,Duhon 24' 3PT Jump Shot (6 PTS) (Turkoglu 7 AST),,,78 - 82,4
+0021100541,393,9,1,3,8:46 PM,2:24,,,Bucks Timeout: Regular (Reg.3 Short 0),,
+0021100541,396,8,0,3,8:48 PM,2:24,SUB: Richardson FOR Turkoglu,,,,
+0021100541,397,2,1,3,8:48 PM,2:07,,,MISS Jennings 26' 3PT Jump Shot,,
+0021100541,398,4,0,3,8:48 PM,2:05,,,Mbah a Moute REBOUND (Off:2 Def:3),,
+0021100541,399,2,1,3,8:48 PM,2:01,,,MISS Mbah a Moute 15' Jump Shot,,
+0021100541,400,4,0,3,8:48 PM,2:00,Davis REBOUND (Off:2 Def:3),,,,
+0021100541,401,5,1,3,8:49 PM,1:45,Duhon Bad Pass Turnover (P1.T14),,Mbah a Moute STEAL (1 STL),,
+0021100541,402,6,2,3,8:49 PM,1:41,Duhon S.FOUL (P1.PN),,,,
+0021100541,403,3,11,3,8:49 PM,1:41,,,Jennings Free Throw 1 of 2 (22 PTS),79 - 82,3
+0021100541,405,3,12,3,8:49 PM,1:41,,,Jennings Free Throw 2 of 2 (23 PTS),80 - 82,2
+0021100541,407,2,1,3,8:50 PM,1:24,MISS Richardson  3PT Jump Shot,,,,
+0021100541,408,4,0,3,8:50 PM,1:23,Howard REBOUND (Off:3 Def:5),,,,
+0021100541,409,2,5,3,8:50 PM,1:21,MISS Howard 1' Layup,,,,
+0021100541,410,4,0,3,8:50 PM,1:20,MAGIC Rebound,,,,
+0021100541,411,8,0,3,8:50 PM,1:20,,,SUB: Udrih FOR Jennings,,
+0021100541,412,6,4,3,8:50 PM,1:11,Davis OFF.Foul (P2),,,,
+0021100541,413,5,5,3,8:50 PM,1:11,Davis Foul Turnover (P2.T15),,,,
+0021100541,415,5,1,3,8:51 PM,0:50,,,Udrih Bad Pass Turnover (P1.T15),,
+0021100541,416,1,1,3,8:51 PM,0:35,Duhon  3PT Jump Shot (9 PTS) (Davis 1 AST),,,80 - 85,5
+0021100541,417,2,1,3,8:52 PM,0:23,,,MISS Udrih 25' 3PT Jump Shot,,
+0021100541,418,4,0,3,8:52 PM,0:21,Davis REBOUND (Off:2 Def:4),,,,
+0021100541,419,2,1,3,8:52 PM,0:00,MISS Duhon 24' 3PT Jump Shot,,,,
+0021100541,420,4,0,3,8:52 PM,0:00,MAGIC Rebound,,,,
+0021100541,422,13,0,3,8:52 PM,0:00,,,,80 - 85,5
+0021100541,424,12,0,4,8:55 PM,12:00,,,,80 - 85,5
+0021100541,425,1,5,4,8:56 PM,11:43,Howard 2' Layup (23 PTS) (Richardson 3 AST),,,80 - 87,7
+0021100541,426,5,1,4,8:56 PM,11:31,,,Udrih Bad Pass Turnover (P2.T16),,
+0021100541,428,1,1,4,8:56 PM,11:15,Duhon 25' 3PT Jump Shot (12 PTS),,,80 - 90,10
+0021100541,430,2,5,4,8:56 PM,10:58,,,MISS Udrih 2' Layup,,
+0021100541,431,4,0,4,8:56 PM,10:57,Davis REBOUND (Off:2 Def:5),,,,
+0021100541,432,1,1,4,8:57 PM,10:41,Redick 21' Jump Shot (6 PTS),,,80 - 92,12
+0021100541,433,6,1,4,8:57 PM,10:31,Redick P.FOUL (P1.T1),,,,
+0021100541,434,2,79,4,8:57 PM,10:25,,,MISS Udrih 19' Pullup Jump Shot,,
+0021100541,435,4,0,4,8:57 PM,10:24,Davis REBOUND (Off:2 Def:6),,,,
+0021100541,436,6,1,4,8:57 PM,10:18,,,Gooden P.FOUL (P5.T1),,
+0021100541,437,2,3,4,8:58 PM,10:05,MISS Howard 7' Hook Shot,,,,
+0021100541,438,4,0,4,8:58 PM,10:04,Davis REBOUND (Off:3 Def:6),,,,
+0021100541,439,5,2,4,8:58 PM,10:02,Davis Lost Ball Turnover (P3.T16),,Udrih STEAL (1 STL),,
+0021100541,440,2,1,4,8:58 PM,9:54,Davis BLOCK (1 BLK),,MISS Gooden 11' Jump Shot,,
+0021100541,441,4,0,4,8:58 PM,9:54,,,Bucks Rebound,,
+0021100541,442,8,0,4,8:58 PM,9:54,,,SUB: Delfino FOR Harris,,
+0021100541,443,2,5,4,8:58 PM,9:52,,,MISS Dunleavy 2' Layup,,
+0021100541,444,4,0,4,8:58 PM,9:51,,,Bucks Rebound,,
+0021100541,446,6,2,4,8:59 PM,9:47,Howard S.FOUL (P3.T2),,,,
+0021100541,447,3,11,4,8:59 PM,9:47,,,MISS Gooden Free Throw 1 of 2,,
+0021100541,448,4,1,4,8:59 PM,9:47,,,Bucks Rebound,,
+0021100541,449,3,12,4,8:59 PM,9:47,,,Gooden Free Throw 2 of 2 (7 PTS),81 - 92,11
+0021100541,451,5,4,4,9:00 PM,9:35,Duhon Traveling Turnover (P2.T17),,,,
+0021100541,452,2,1,4,9:00 PM,9:26,,,MISS Udrih 24' 3PT Jump Shot,,
+0021100541,453,4,0,4,9:00 PM,9:25,Howard REBOUND (Off:3 Def:6),,,,
+0021100541,454,2,79,4,9:00 PM,9:11,MISS Redick 25' 3PT Pullup Jump Shot,,,,
+0021100541,455,4,0,4,9:00 PM,9:10,,,Dunleavy REBOUND (Off:0 Def:3),,
+0021100541,456,5,1,4,9:01 PM,8:58,Richardson STEAL (2 STL),,Mbah a Moute Bad Pass Turnover (P1.T17),,
+0021100541,457,5,1,4,9:01 PM,8:53,Richardson Bad Pass Turnover (P2.T18),,,,
+0021100541,458,9,4,4,9:01 PM,8:53,,,,,
+0021100541,460,8,0,4,9:03 PM,8:53,,,SUB: Jennings FOR Mbah a Moute,,
+0021100541,462,8,0,4,9:03 PM,8:53,SUB: Turkoglu FOR Davis,,,,
+0021100541,463,2,1,4,9:04 PM,8:42,,,MISS Dunleavy 11' Jump Shot,,
+0021100541,465,4,0,4,9:04 PM,8:39,,,Gooden REBOUND (Off:2 Def:3),,
+0021100541,464,2,72,4,9:04 PM,8:39,,,MISS Gooden 1' Putback Layup,,
+0021100541,466,4,0,4,9:04 PM,8:37,Richardson REBOUND (Off:1 Def:3),,,,
+0021100541,467,2,1,4,9:04 PM,8:29,MISS Richardson 21' Jump Shot,,,,
+0021100541,469,4,0,4,9:04 PM,8:28,Howard REBOUND (Off:4 Def:6),,,,
+0021100541,468,2,4,4,9:04 PM,8:28,MISS Howard 1' Tip Shot,,,,
+0021100541,470,4,0,4,9:04 PM,8:26,,,Dunleavy REBOUND (Off:0 Def:4),,
+0021100541,471,1,1,4,9:04 PM,8:20,,,Delfino 25' 3PT Jump Shot (7 PTS) (Jennings 3 AST),84 - 92,8
+0021100541,472,6,4,4,9:04 PM,7:58,Howard OFF.Foul (P4),,,,
+0021100541,473,5,5,4,9:04 PM,7:58,Howard Foul Turnover (P5.T19),,,,
+0021100541,474,2,65,4,9:05 PM,7:50,,,MISS Delfino 10' Jump Hook Shot,,
+0021100541,475,4,0,4,9:05 PM,7:49,Howard REBOUND (Off:4 Def:7),,,,
+0021100541,476,1,42,4,9:05 PM,7:41,Turkoglu 2' Driving Layup (15 PTS),,,84 - 94,10
+0021100541,477,6,2,4,9:05 PM,7:41,,,Delfino S.FOUL (P2.T2),,
+0021100541,478,8,0,4,9:05 PM,7:41,SUB: Nelson FOR Duhon,,,,
+0021100541,479,3,10,4,9:05 PM,7:41,Turkoglu Free Throw 1 of 1 (16 PTS),,,84 - 95,11
+0021100541,481,5,2,4,9:06 PM,7:21,Howard STEAL (4 STL),,Gooden Lost Ball Turnover (P4.T18),,
+0021100541,482,1,1,4,9:06 PM,7:15,Redick  3PT Jump Shot (9 PTS) (Turkoglu 8 AST),,,84 - 98,14
+0021100541,483,9,1,4,9:06 PM,7:13,,,Bucks Timeout: Regular (Reg.4 Short 0),,
+0021100541,485,8,0,4,9:08 PM,7:13,,,SUB: Mbah a Moute FOR Dunleavy,,
+0021100541,487,1,5,4,9:09 PM,7:01,,,Mbah a Moute 1' Layup (7 PTS) (Jennings 4 AST),86 - 98,12
+0021100541,488,6,2,4,9:09 PM,7:01,Turkoglu S.FOUL (P4.T3),,,,
+0021100541,489,3,10,4,9:09 PM,7:01,,,MISS Mbah a Moute Free Throw 1 of 1,,
+0021100541,491,4,0,4,9:09 PM,7:00,Howard REBOUND (Off:4 Def:8),,,,
+0021100541,492,1,1,4,9:10 PM,6:40,Redick  3PT Jump Shot (12 PTS) (Turkoglu 9 AST),,,86 - 101,15
+0021100541,493,2,46,4,9:10 PM,6:26,,,MISS Jennings 13' Running Jump Shot,,
+0021100541,494,4,0,4,9:10 PM,6:25,Howard REBOUND (Off:4 Def:9),,,,
+0021100541,495,2,79,4,9:10 PM,6:01,MISS Redick 12' Pullup Jump Shot,,,,
+0021100541,496,4,0,4,9:10 PM,6:00,,,Mbah a Moute REBOUND (Off:2 Def:4),,
+0021100541,497,1,79,4,9:10 PM,5:48,,,Jennings 15' Pullup Jump Shot (25 PTS),88 - 101,13
+0021100541,498,2,1,4,9:11 PM,5:27,MISS Richardson 24' 3PT Jump Shot,,,,
+0021100541,499,4,0,4,9:11 PM,5:26,Richardson REBOUND (Off:2 Def:3),,,,
+0021100541,500,1,49,4,9:11 PM,5:24,Richardson 2' Driving Dunk (18 PTS),,,88 - 103,15
+0021100541,501,1,80,4,9:11 PM,5:10,,,Jennings 20' Step Back Jump Shot (27 PTS),90 - 103,13
+0021100541,502,6,2,4,9:12 PM,4:45,,,Jennings S.FOUL (P2.T3),,
+0021100541,503,3,11,4,9:12 PM,4:45,MISS Nelson Free Throw 1 of 2,,,,
+0021100541,504,4,1,4,9:12 PM,4:45,MAGIC Rebound,,,,
+0021100541,505,8,0,4,9:12 PM,4:45,,,SUB: Ilyasova FOR Gooden,,
+0021100541,506,8,0,4,9:12 PM,4:45,SUB: Anderson FOR Turkoglu,,,,
+0021100541,507,3,12,4,9:12 PM,4:45,Nelson Free Throw 2 of 2 (5 PTS),,,90 - 104,14
+0021100541,510,2,42,4,9:13 PM,4:34,,,MISS Delfino 2' Driving Layup,,
+0021100541,521,4,0,4,9:13 PM,4:33,,,Ilyasova REBOUND (Off:2 Def:3),,
+0021100541,523,2,53,4,9:13 PM,4:33,,,MISS Ilyasova 2' Tip Shot,,
+0021100541,511,4,0,4,9:13 PM,4:32,,,Ilyasova REBOUND (Off:3 Def:3),,
+0021100541,527,2,63,4,9:13 PM,4:31,,,MISS Ilyasova 5' Fadeaway Jumper,,
+0021100541,531,4,0,4,9:13 PM,4:30,Howard REBOUND (Off:4 Def:10),,,,
+0021100541,513,1,1,4,9:13 PM,3:54,Howard 4' Jump Shot (25 PTS),,,90 - 106,16
+0021100541,514,1,1,4,9:13 PM,3:50,,,Delfino 28' 3PT Jump Shot (10 PTS) (Jennings 5 AST),93 - 106,13
+0021100541,515,6,2,4,9:14 PM,3:32,,,Ilyasova S.FOUL (P3.T4),,
+0021100541,516,3,11,4,9:14 PM,3:32,Howard Free Throw 1 of 2 (26 PTS),,,93 - 107,14
+0021100541,518,3,12,4,9:14 PM,3:32,MISS Howard Free Throw 2 of 2,,,,
+0021100541,520,4,0,4,9:14 PM,3:31,,,Ilyasova REBOUND (Off:3 Def:4),,
+0021100541,522,6,2,4,9:15 PM,3:24,Redick S.FOUL (P2.T4),,,,
+0021100541,524,3,11,4,9:15 PM,3:24,,,MISS Mbah a Moute Free Throw 1 of 2,,
+0021100541,525,4,1,4,9:15 PM,3:24,,,Bucks Rebound,,
+0021100541,526,3,12,4,9:15 PM,3:24,,,Mbah a Moute Free Throw 2 of 2 (8 PTS),94 - 107,13
+0021100541,529,1,3,4,9:16 PM,3:07,Howard 7' Hook Shot (28 PTS) (Redick 1 AST),,,94 - 109,15
+0021100541,532,2,1,4,9:16 PM,2:52,,,MISS Delfino 26' 3PT Jump Shot,,
+0021100541,533,4,0,4,9:16 PM,2:50,Redick REBOUND (Off:0 Def:2),,,,
+0021100541,535,1,1,4,9:16 PM,2:38,Nelson 27' 3PT Jump Shot (8 PTS),,,94 - 112,18
+0021100541,537,9,2,4,9:16 PM,2:37,,,Bucks Timeout: Short (Reg.4 Short 1),,
+0021100541,538,9,1,4,9:17 PM,2:37,MAGIC Timeout: Regular (Full 4 Short 0),,,,
+0021100541,540,8,0,4,9:18 PM,2:37,,,SUB: Harris FOR Ilyasova,,
+0021100541,541,8,0,4,9:18 PM,2:37,,,SUB: Brockman FOR Delfino,,
+0021100541,542,8,0,4,9:18 PM,2:37,,,SUB: Leuer FOR Jennings,,
+0021100541,543,8,0,4,9:18 PM,2:37,,,SUB: Sanders FOR Mbah a Moute,,
+0021100541,544,8,0,4,9:19 PM,2:37,SUB: Clark FOR Anderson,,,,
+0021100541,545,8,0,4,9:19 PM,2:37,SUB: Davis FOR Howard,,,,
+0021100541,546,1,5,4,9:19 PM,2:15,,,Brockman  Layup (2 PTS) (Udrih 4 AST),96 - 112,16
+0021100541,547,1,78,4,9:19 PM,2:00,Redick 7' Floating Jump Shot (14 PTS) (Nelson 10 AST),,,96 - 114,18
+0021100541,548,2,84,4,9:20 PM,1:44,,,MISS Sanders 12' Running Bank Shot,,
+0021100541,549,4,0,4,9:20 PM,1:43,,,Udrih REBOUND (Off:1 Def:1),,
+0021100541,550,2,5,4,9:20 PM,1:31,,,MISS Brockman 1' Layup,,
+0021100541,551,4,0,4,9:20 PM,1:30,,,Brockman REBOUND (Off:1 Def:0),,
+0021100541,552,1,5,4,9:20 PM,1:30,,,Brockman 2' Layup (4 PTS),98 - 114,16
+0021100541,553,9,2,4,9:20 PM,1:29,MAGIC Timeout: Short (Full 4 Short 1),,,,
+0021100541,554,8,0,4,9:21 PM,1:29,SUB: Smith FOR Richardson,,,,
+0021100541,555,8,0,4,9:21 PM,1:29,SUB: Wafer FOR Nelson,,,,
+0021100541,556,8,0,4,9:21 PM,1:29,SUB: Orton FOR Redick,,,,
+0021100541,558,5,2,4,9:21 PM,1:14,Wafer Lost Ball Turnover (P1.T20),,Udrih STEAL (2 STL),,
+0021100541,559,5,1,4,9:21 PM,1:10,,,Udrih Bad Pass Turnover (P3.T19),,
+0021100541,560,2,1,4,9:22 PM,0:57,MISS Wafer 22' Jump Shot,,,,
+0021100541,562,4,0,4,9:22 PM,0:57,,,Bucks Rebound,,
+0021100541,561,10,0,4,9:22 PM,0:57,Jump Ball Clark vs. Sanders: Tip to Udrih,,,,
+0021100541,563,2,1,4,9:22 PM,0:49,,,MISS Leuer 20' Jump Shot,,
+0021100541,564,4,0,4,9:22 PM,0:48,Orton REBOUND (Off:0 Def:1),,,,
+0021100541,566,5,1,4,9:23 PM,0:28,Clark Bad Pass Turnover (P2.T21),,Harris STEAL (2 STL),,
+0021100541,568,5,1,4,9:23 PM,0:24,Smith STEAL (1 STL),,Harris Bad Pass Turnover (P3.T20),,
+0021100541,569,5,11,4,9:24 PM,0:00,MAGIC Turnover: Shot Clock (T#22),,,,
+0021100541,570,13,0,4,9:24 PM,0:00,,,,98 - 114,16

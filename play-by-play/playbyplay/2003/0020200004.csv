@@ -1,0 +1,451 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020200004,0,12,0,1,7:12 PM,12:00,,,,,
+0020200004,1,10,0,1,7:12 PM,12:00,Jump Ball Battie vs. Chandler: Tip to Hassell,,,,
+0020200004,2,1,1,1,7:13 PM,11:40,,,Rose  3PT Jump Shot (3 PTS) (Chandler 1 AST),3 - 0,-3
+0020200004,3,2,5,1,7:13 PM,11:26,MISS Walker 3' Layup,,Chandler BLOCK (1 BLK),,
+0020200004,4,4,0,1,7:13 PM,11:24,,,Rose REBOUND (Off:0 Def:1),,
+0020200004,5,1,5,1,7:13 PM,11:16,,,Chandler 3' Layup (2 PTS) (Williams 1 AST),5 - 0,-5
+0020200004,6,2,5,1,7:13 PM,11:02,MISS Pierce 3' Layup,,Hassell BLOCK (1 BLK),,
+0020200004,7,4,0,1,7:13 PM,11:00,,,Rose REBOUND (Off:0 Def:2),,
+0020200004,8,1,5,1,7:14 PM,10:56,,,Curry 2' Layup (2 PTS) (Rose 1 AST),7 - 0,-7
+0020200004,9,2,1,1,7:14 PM,10:41,MISS Pierce 25' 3PT Jump Shot,,,,
+0020200004,10,4,0,1,7:14 PM,10:39,,,Williams REBOUND (Off:0 Def:1),,
+0020200004,11,5,4,1,7:14 PM,10:36,,,Chandler Traveling Turnover (P1.T1),,
+0020200004,12,6,1,1,7:14 PM,10:27,,,Rose P.FOUL (P1.T1),,
+0020200004,13,1,1,1,7:15 PM,10:20,Battie 19' Jump Shot (2 PTS) (Walker 1 AST),,,7 - 2,-5
+0020200004,14,1,5,1,7:15 PM,9:55,,,Chandler 3' Layup (4 PTS) (Rose 2 AST),9 - 2,-7
+0020200004,15,6,2,1,7:15 PM,9:38,,,Rose S.FOUL (P2.T2),,
+0020200004,16,3,11,1,7:16 PM,9:38,Williams Free Throw 1 of 2 (1 PTS),,,9 - 3,-6
+0020200004,17,8,0,1,7:16 PM,9:38,,,SUB: Hoiberg FOR Rose,,
+0020200004,18,3,12,1,7:16 PM,9:38,Williams Free Throw 2 of 2 (2 PTS),,,9 - 4,-5
+0020200004,19,6,4,1,7:17 PM,9:16,,,Hassell OFF.Foul (P1),,
+0020200004,20,5,5,1,7:17 PM,9:16,,,Hassell Foul Turnover (P1.T2),,
+0020200004,21,6,17,1,7:17 PM,9:07,,,Bulls T.Foul (Def. 3 Sec Hassell ),,
+0020200004,22,3,16,1,7:17 PM,9:07,Pierce Free Throw Technical (1 PTS),,,9 - 5,-4
+0020200004,23,1,1,1,7:18 PM,8:58,Delk 11' Jump Shot (2 PTS),,,9 - 7,-2
+0020200004,24,5,1,1,7:18 PM,8:42,Battie STEAL (1 STL),,Chandler Bad Pass Turnover (P2.T3),,
+0020200004,25,2,5,1,7:18 PM,8:32,MISS Walker 2' Layup,,,,
+0020200004,26,4,0,1,7:18 PM,8:31,Battie REBOUND (Off:1 Def:0),,,,
+0020200004,27,1,49,1,7:18 PM,8:25,Pierce 2' Driving Dunk (3 PTS) (Delk 1 AST),,,9 - 9,TIE
+0020200004,28,6,2,1,7:19 PM,8:08,Walker S.FOUL (P1.T1),,,,
+0020200004,29,3,11,1,7:19 PM,8:08,,,Chandler Free Throw 1 of 2 (5 PTS),10 - 9,-1
+0020200004,30,3,12,1,7:19 PM,8:08,,,MISS Chandler Free Throw 2 of 2,,
+0020200004,31,4,0,1,7:19 PM,8:08,Walker REBOUND (Off:0 Def:1),,,,
+0020200004,32,1,8,1,7:19 PM,7:55,Battie 2' Slam Dunk (4 PTS) (Pierce 1 AST),,,10 - 11,1
+0020200004,33,6,17,1,7:20 PM,7:34,CELTICS T.Foul (Def. 3 Sec Williams ),,,,
+0020200004,34,3,16,1,7:20 PM,7:34,,,Hoiberg Free Throw Technical (1 PTS),11 - 11,TIE
+0020200004,35,2,1,1,7:20 PM,7:28,,,MISS Hassell 22' Jump Shot,,
+0020200004,36,4,0,1,7:21 PM,7:26,Pierce REBOUND (Off:0 Def:1),,,,
+0020200004,37,2,1,1,7:21 PM,7:19,MISS Walker 24' 3PT Jump Shot,,,,
+0020200004,38,4,0,1,7:21 PM,7:17,,,Williams REBOUND (Off:0 Def:2),,
+0020200004,39,6,2,1,7:21 PM,7:06,Delk S.FOUL (P1.T2),,,,
+0020200004,40,3,11,1,7:21 PM,7:06,,,MISS Chandler Free Throw 1 of 2,,
+0020200004,41,4,1,1,7:21 PM,7:06,,,Bulls Rebound,,
+0020200004,42,3,12,1,7:21 PM,7:06,,,MISS Chandler Free Throw 2 of 2,,
+0020200004,43,4,0,1,7:22 PM,7:05,Williams REBOUND (Off:0 Def:1),,,,
+0020200004,44,1,1,1,7:22 PM,6:51,Pierce 24' 3PT Jump Shot (6 PTS),,,11 - 14,3
+0020200004,45,2,1,1,7:22 PM,6:30,,,MISS Chandler 10' Jump Shot,,
+0020200004,46,4,0,1,7:22 PM,6:28,Delk REBOUND (Off:0 Def:1),,,,
+0020200004,47,2,5,1,7:22 PM,6:19,MISS Walker 3' Layup,,,,
+0020200004,48,4,0,1,7:22 PM,6:18,Battie REBOUND (Off:2 Def:0),,,,
+0020200004,49,2,5,1,7:22 PM,6:16,MISS Battie 2' Layup,,,,
+0020200004,50,4,0,1,7:22 PM,6:14,,,Williams REBOUND (Off:0 Def:3),,
+0020200004,51,1,1,1,7:23 PM,5:52,,,Hassell 17' Jump Shot (2 PTS) (Williams 2 AST),13 - 14,1
+0020200004,52,6,2,1,7:23 PM,5:36,,,Williams S.FOUL (P1.T3),,
+0020200004,54,9,1,1,7:23 PM,5:36,CELTICS Timeout: Regular (Full 1 Short 0),,,,
+0020200004,55,8,0,1,7:25 PM,5:36,,,SUB: Fizer FOR Chandler,,
+0020200004,56,8,0,1,7:25 PM,5:36,,,SUB: Marshall FOR Curry,,
+0020200004,57,3,11,1,7:25 PM,5:36,Delk Free Throw 1 of 2 (3 PTS),,,13 - 15,2
+0020200004,58,3,12,1,7:26 PM,5:36,Delk Free Throw 2 of 2 (4 PTS),,,13 - 16,3
+0020200004,59,6,17,1,7:26 PM,5:23,CELTICS T.Foul (Def. 3 Sec Battie ),,,,
+0020200004,60,3,16,1,7:26 PM,5:23,,,Hoiberg Free Throw Technical (2 PTS),14 - 16,2
+0020200004,61,2,1,1,7:27 PM,5:13,,,MISS Hassell 21' Jump Shot,,
+0020200004,62,4,0,1,7:27 PM,5:10,Walker REBOUND (Off:0 Def:2),,,,
+0020200004,63,2,1,1,7:27 PM,5:04,MISS Walker 5' Jump Shot,,,,
+0020200004,64,4,0,1,7:27 PM,5:02,,,Fizer REBOUND (Off:0 Def:1),,
+0020200004,65,1,1,1,7:27 PM,4:45,,,Hassell 21' Jump Shot (4 PTS) (Williams 3 AST),16 - 16,TIE
+0020200004,66,1,42,1,7:27 PM,4:37,Pierce 2' Driving Layup (8 PTS) (Battie 1 AST),,,16 - 18,2
+0020200004,67,6,2,1,7:27 PM,4:37,,,Marshall S.FOUL (P1.T4),,
+0020200004,68,8,0,1,7:28 PM,4:37,SUB: Williams FOR Delk,,,,
+0020200004,69,8,0,1,7:28 PM,4:37,SUB: Baker FOR Battie,,,,
+0020200004,70,3,10,1,7:28 PM,4:37,MISS Pierce Free Throw 1 of 1,,,,
+0020200004,71,4,0,1,7:28 PM,4:36,,,Fizer REBOUND (Off:0 Def:2),,
+0020200004,72,5,1,1,7:28 PM,4:28,Williams STEAL (1 STL),,Williams Bad Pass Turnover (P1.T4),,
+0020200004,73,1,42,1,7:28 PM,4:24,Williams 3' Driving Layup (4 PTS),,,16 - 20,4
+0020200004,74,2,5,1,7:28 PM,3:57,,,MISS Hoiberg 2' Layup,,
+0020200004,75,4,0,1,7:29 PM,3:55,Williams REBOUND (Off:0 Def:1),,,,
+0020200004,76,6,2,1,7:29 PM,3:51,,,Hassell S.FOUL (P2.PN),,
+0020200004,77,8,0,1,7:29 PM,3:51,SUB: McCarty FOR Williams,,,,
+0020200004,78,8,0,1,7:29 PM,3:51,,,SUB: Robinson FOR Hassell,,
+0020200004,79,3,11,1,7:29 PM,3:51,MISS Pierce Free Throw 1 of 2,,,,
+0020200004,80,4,1,1,7:29 PM,3:51,CELTICS Rebound,,,,
+0020200004,81,3,12,1,7:29 PM,3:51,MISS Pierce Free Throw 2 of 2,,,,
+0020200004,82,4,0,1,7:29 PM,3:50,,,Marshall REBOUND (Off:0 Def:1),,
+0020200004,83,1,1,1,7:29 PM,3:38,,,Robinson 16' Jump Shot (2 PTS) (Hoiberg 1 AST),18 - 20,2
+0020200004,84,5,2,1,7:30 PM,3:20,Pierce Lost Ball Turnover (P1.T1),,Fizer STEAL (1 STL),,
+0020200004,85,5,1,1,7:30 PM,3:14,,,Hoiberg Bad Pass Turnover (P1.T5),,
+0020200004,86,8,0,1,7:30 PM,3:14,,,SUB: Crawford FOR Williams,,
+0020200004,87,1,63,1,7:30 PM,2:55,Walker 16' Fadeaway Jumper (2 PTS),,,18 - 22,4
+0020200004,88,5,1,1,7:31 PM,2:47,,,Crawford Bad Pass Turnover (P1.T6),,
+0020200004,89,9,1,1,7:31 PM,2:47,,,Bulls Timeout: Regular (Reg.1 Short 0),,
+0020200004,91,8,0,1,7:33 PM,2:47,SUB: Delk FOR Pierce,,,,
+0020200004,92,6,1,1,7:33 PM,2:38,,,Robinson P.FOUL (P1.PN),,
+0020200004,93,3,11,1,7:34 PM,2:38,McCarty Free Throw 1 of 2 (1 PTS),,,18 - 23,5
+0020200004,94,8,0,1,7:34 PM,2:38,SUB: Sundov FOR Walker,,,,
+0020200004,95,3,12,1,7:34 PM,2:38,McCarty Free Throw 2 of 2 (2 PTS),,,18 - 24,6
+0020200004,96,1,5,1,7:34 PM,2:17,,,Marshall 2' Layup (2 PTS) (Crawford 1 AST),20 - 24,4
+0020200004,97,2,5,1,7:35 PM,1:59,MISS Baker 1' Layup,,,,
+0020200004,98,4,0,1,7:35 PM,1:57,Baker REBOUND (Off:1 Def:0),,,,
+0020200004,99,2,5,1,7:35 PM,1:56,MISS Baker 1' Layup,,,,
+0020200004,100,4,0,1,7:35 PM,1:55,Baker REBOUND (Off:2 Def:0),,,,
+0020200004,101,1,5,1,7:35 PM,1:53,Baker 2' Layup (2 PTS),,,20 - 26,6
+0020200004,102,6,1,1,7:35 PM,1:48,Sundov P.FOUL (P1.T3),,,,
+0020200004,103,5,4,1,7:35 PM,1:42,,,Crawford Traveling Turnover (P2.T7),,
+0020200004,104,1,44,1,7:36 PM,1:26,Baker 1' Reverse Layup (4 PTS) (Sundov 1 AST),,,20 - 28,8
+0020200004,105,2,1,1,7:36 PM,1:09,,,MISS Fizer 15' Jump Shot,,
+0020200004,106,4,0,1,7:36 PM,1:07,,,Robinson REBOUND (Off:1 Def:0),,
+0020200004,107,1,8,1,7:36 PM,1:05,,,Robinson 1' Slam Dunk (4 PTS),22 - 28,6
+0020200004,108,5,1,1,7:36 PM,0:51,Williams Bad Pass Turnover (P1.T2),,Marshall STEAL (1 STL),,
+0020200004,109,2,1,1,7:36 PM,0:41,,,MISS Robinson 20' Jump Shot,,
+0020200004,110,4,0,1,7:36 PM,0:39,,,Fizer REBOUND (Off:1 Def:2),,
+0020200004,111,6,2,1,7:37 PM,0:39,Delk S.FOUL (P2.PN),,,,
+0020200004,112,3,11,1,7:37 PM,0:39,,,Fizer Free Throw 1 of 2 (1 PTS),23 - 28,5
+0020200004,113,8,0,1,7:37 PM,0:39,SUB: Pierce FOR Delk,,,,
+0020200004,114,3,12,1,7:37 PM,0:39,,,Fizer Free Throw 2 of 2 (2 PTS),24 - 28,4
+0020200004,115,1,42,1,7:37 PM,0:30,Williams 3' Driving Layup (2 PTS),,,24 - 30,6
+0020200004,116,2,1,1,7:38 PM,0:07,,,MISS Fizer 16' Jump Shot,,
+0020200004,117,4,0,1,7:38 PM,0:05,,,Hoiberg REBOUND (Off:1 Def:0),,
+0020200004,118,6,2,1,7:38 PM,0:04,McCarty S.FOUL (P1.PN),,,,
+0020200004,119,3,11,1,7:38 PM,0:04,,,Hoiberg Free Throw 1 of 2 (3 PTS),25 - 30,5
+0020200004,120,3,12,1,7:38 PM,0:04,,,Hoiberg Free Throw 2 of 2 (4 PTS),26 - 30,4
+0020200004,121,1,63,1,7:39 PM,0:00,Pierce 17' Fadeaway Jumper (10 PTS),,,26 - 32,6
+0020200004,123,13,0,1,7:39 PM,0:00,,,,26 - 32,6
+0020200004,124,12,0,2,7:42 PM,12:00,,,,26 - 32,6
+0020200004,125,5,10,2,7:42 PM,11:51,CELTICS Turnover: 8 Second Violation (T#3),,,,
+0020200004,126,6,1,2,7:43 PM,11:45,McCarty P.FOUL (P2.T1),,,,
+0020200004,127,6,1,2,7:43 PM,11:38,Pierce P.FOUL (P1.T2),,,,
+0020200004,128,8,0,2,7:43 PM,11:38,SUB: Walker FOR McCarty,,,,
+0020200004,129,8,0,2,7:43 PM,11:38,SUB: Williams FOR Sundov,,,,
+0020200004,130,2,1,2,7:44 PM,11:28,,,MISS Marshall 20' Jump Shot,,
+0020200004,131,4,0,2,7:44 PM,11:26,Pierce REBOUND (Off:0 Def:2),,,,
+0020200004,132,2,1,2,7:44 PM,11:17,MISS Williams 26' 3PT Jump Shot,,,,
+0020200004,133,4,0,2,7:44 PM,11:13,,,Fizer REBOUND (Off:1 Def:3),,
+0020200004,134,2,1,2,7:44 PM,11:10,,,MISS Rose 17' Jump Shot,,
+0020200004,135,4,0,2,7:44 PM,11:07,Walker REBOUND (Off:0 Def:3),,,,
+0020200004,136,2,1,2,7:44 PM,10:58,MISS Williams 25' 3PT Jump Shot,,,,
+0020200004,137,4,0,2,7:44 PM,10:55,,,Crawford REBOUND (Off:0 Def:1),,
+0020200004,138,2,1,2,7:44 PM,10:48,,,MISS Crawford 25' 3PT Jump Shot,,
+0020200004,139,4,0,2,7:44 PM,10:46,Baker REBOUND (Off:2 Def:1),,,,
+0020200004,140,2,1,2,7:44 PM,10:40,MISS Walker 24' 3PT Jump Shot,,,,
+0020200004,141,4,0,2,7:44 PM,10:38,,,Robinson REBOUND (Off:1 Def:1),,
+0020200004,142,2,1,2,7:45 PM,10:16,,,MISS Crawford  3PT Jump Shot,,
+0020200004,143,4,0,2,7:45 PM,10:14,,,Robinson REBOUND (Off:2 Def:1),,
+0020200004,158,2,45,2,7:45 PM,10:12,,,MISS Robinson 10' Jump Shot,,
+0020200004,159,4,0,2,7:45 PM,10:10,Baker REBOUND (Off:2 Def:2),,,,
+0020200004,145,6,2,2,7:45 PM,10:03,,,Robinson S.FOUL (P2.T1),,
+0020200004,146,3,11,2,7:45 PM,10:03,MISS Baker Free Throw 1 of 2,,,,
+0020200004,147,4,1,2,7:45 PM,10:03,CELTICS Rebound,,,,
+0020200004,148,8,0,2,7:45 PM,10:03,,,SUB: Williams FOR Crawford,,
+0020200004,149,3,12,2,7:46 PM,10:03,Baker Free Throw 2 of 2 (5 PTS),,,26 - 33,7
+0020200004,150,2,46,2,7:46 PM,9:53,,,MISS Rose 11' Running Jump Shot,,
+0020200004,151,4,0,2,7:46 PM,9:51,Pierce REBOUND (Off:0 Def:3),,,,
+0020200004,152,2,5,2,7:46 PM,9:48,MISS Williams 2' Layup,,Fizer BLOCK (1 BLK),,
+0020200004,153,4,0,2,7:46 PM,9:47,CELTICS Rebound,,,,
+0020200004,154,8,0,2,7:46 PM,9:47,SUB: Battie FOR Baker,,,,
+0020200004,155,1,49,2,7:47 PM,9:44,Pierce 1' Driving Dunk (12 PTS) (Williams 1 AST),,,26 - 35,9
+0020200004,156,9,1,2,7:47 PM,9:33,,,Bulls Timeout: Regular (Reg.2 Short 0),,
+0020200004,160,2,47,2,7:49 PM,9:23,,,MISS Robinson 6' Turnaround Jump Shot,,
+0020200004,161,4,0,2,7:49 PM,9:21,Battie REBOUND (Off:2 Def:1),,,,
+0020200004,162,5,4,2,7:49 PM,9:16,Walker Traveling Turnover (P1.T4),,,,
+0020200004,163,1,7,2,7:50 PM,8:52,,,Robinson 1' Dunk (6 PTS) (Fizer 1 AST),28 - 35,7
+0020200004,164,1,5,2,7:50 PM,8:35,Walker 2' Layup (4 PTS) (Williams 1 AST),,,28 - 37,9
+0020200004,165,1,7,2,7:51 PM,8:12,,,Marshall 1' Dunk (4 PTS) (Rose 3 AST),30 - 37,7
+0020200004,166,6,17,2,7:51 PM,7:54,,,Bulls T.Foul (Def. 3 Sec Marshall ),,
+0020200004,167,8,0,2,7:51 PM,7:54,,,SUB: Curry FOR Marshall,,
+0020200004,168,8,0,2,7:51 PM,7:54,,,SUB: Chandler FOR Fizer,,
+0020200004,169,3,16,2,7:51 PM,7:54,Pierce Free Throw Technical (13 PTS),,,30 - 38,8
+0020200004,170,1,49,2,7:52 PM,7:45,Pierce 2' Driving Dunk (15 PTS) (Williams 2 AST),,,30 - 40,10
+0020200004,171,1,1,2,7:52 PM,7:22,,,Williams 18' Jump Shot (2 PTS) (Rose 4 AST),32 - 40,8
+0020200004,172,1,5,2,7:52 PM,7:06,Pierce 3' Layup (17 PTS) (Walker 2 AST),,,32 - 42,10
+0020200004,173,2,1,2,7:53 PM,6:49,,,MISS Chandler 16' Jump Shot,,
+0020200004,174,4,0,2,7:53 PM,6:47,Walker REBOUND (Off:0 Def:4),,,,
+0020200004,175,2,1,2,7:53 PM,6:37,MISS Walker 25' 3PT Jump Shot,,,,
+0020200004,176,4,0,2,7:53 PM,6:35,,,Robinson REBOUND (Off:2 Def:2),,
+0020200004,177,5,2,2,7:53 PM,6:32,Walker STEAL (1 STL),,Robinson Lost Ball Turnover (P1.T8),,
+0020200004,178,6,1,2,7:53 PM,6:29,,,Robinson P.FOUL (P3.T2),,
+0020200004,179,8,0,2,7:53 PM,6:29,,,SUB: Hassell FOR Robinson,,
+0020200004,180,2,1,2,7:54 PM,6:23,MISS Pierce 18' Jump Shot,,,,
+0020200004,181,4,0,2,7:54 PM,6:21,,,Rose REBOUND (Off:0 Def:3),,
+0020200004,182,2,5,2,7:54 PM,6:07,,,MISS Curry 3' Layup,,
+0020200004,183,4,0,2,7:54 PM,6:04,,,Chandler REBOUND (Off:1 Def:0),,
+0020200004,184,1,4,2,7:54 PM,6:03,,,Chandler 2' Tip Shot (7 PTS),34 - 42,8
+0020200004,185,6,11,2,7:54 PM,5:56,,,Chandler T.FOUL (P0.T2),,
+0020200004,187,9,4,2,7:54 PM,5:56,,,,,
+0020200004,188,3,16,2,7:57 PM,5:56,Pierce Free Throw Technical (18 PTS),,,34 - 43,9
+0020200004,189,2,42,2,7:57 PM,5:42,MISS Walker 2' Driving Layup,,,,
+0020200004,190,4,0,2,7:57 PM,5:40,,,Chandler REBOUND (Off:1 Def:1),,
+0020200004,191,1,1,2,7:57 PM,5:34,,,Williams 15' Jump Shot (4 PTS) (Rose 5 AST),36 - 43,7
+0020200004,192,2,5,2,7:57 PM,5:14,MISS Pierce 1' Layup,,,,
+0020200004,193,4,0,2,7:58 PM,5:12,,,Williams REBOUND (Off:0 Def:4),,
+0020200004,194,1,43,2,7:58 PM,5:07,,,Chandler 2' Alley Oop Layup (9 PTS) (Rose 6 AST),38 - 43,5
+0020200004,195,6,2,2,7:58 PM,5:07,Battie S.FOUL (P1.T3),,,,
+0020200004,196,8,0,2,7:58 PM,5:07,SUB: Delk FOR Williams,,,,
+0020200004,197,8,0,2,7:58 PM,5:07,SUB: Baker FOR Battie,,,,
+0020200004,198,3,10,2,7:58 PM,5:07,,,Chandler Free Throw 1 of 1 (10 PTS),39 - 43,4
+0020200004,199,2,5,2,7:59 PM,4:53,MISS Walker 2' Layup,,,,
+0020200004,200,4,0,2,7:59 PM,4:51,,,Hassell REBOUND (Off:0 Def:1),,
+0020200004,201,1,1,2,7:59 PM,4:43,,,Hassell 15' Jump Shot (6 PTS) (Williams 4 AST),41 - 43,2
+0020200004,202,1,1,2,7:59 PM,4:19,Delk 17' Jump Shot (6 PTS) (Baker 1 AST),,,41 - 45,4
+0020200004,203,5,1,2,7:59 PM,4:01,Walker STEAL (2 STL),,Chandler Bad Pass Turnover (P3.T9),,
+0020200004,204,1,1,2,8:00 PM,3:51,Delk 9' Jump Shot (8 PTS),,,41 - 47,6
+0020200004,205,2,1,2,8:00 PM,3:31,,,MISS Rose 24' 3PT Jump Shot,,
+0020200004,206,4,0,2,8:00 PM,3:29,Williams REBOUND (Off:0 Def:2),,,,
+0020200004,207,1,5,2,8:00 PM,3:26,Walker 2' Layup (6 PTS) (Pierce 2 AST),,,41 - 49,8
+0020200004,208,2,1,2,8:00 PM,3:04,,,MISS Hassell  3PT Jump Shot,,
+0020200004,209,4,0,2,8:00 PM,3:02,Delk REBOUND (Off:0 Def:2),,,,
+0020200004,210,6,4,2,8:01 PM,2:58,Pierce OFF.Foul (P2),,,,
+0020200004,211,5,5,2,8:01 PM,2:58,Pierce Foul Turnover (P2.T5),,,,
+0020200004,212,9,1,2,8:01 PM,2:58,CELTICS Timeout: Regular (Full 2 Short 0),,,,
+0020200004,214,8,0,2,8:02 PM,2:58,,,SUB: Robinson FOR Hassell,,
+0020200004,215,8,0,2,8:03 PM,2:58,,,SUB: Marshall FOR Curry,,
+0020200004,216,8,0,2,8:03 PM,2:58,SUB: Williams FOR Pierce,,,,
+0020200004,217,5,1,2,8:03 PM,2:38,,,Marshall Bad Pass Turnover (P1.T10),,
+0020200004,218,8,0,2,8:03 PM,2:37,,,SUB: Hoiberg FOR Rose,,
+0020200004,219,6,4,2,8:04 PM,2:21,Williams OFF.Foul (P1),,,,
+0020200004,220,5,5,2,8:04 PM,2:21,Williams Foul Turnover (P1.T6),,,,
+0020200004,221,2,5,2,8:04 PM,2:09,,,MISS Marshall 2' Layup,,
+0020200004,222,4,0,2,8:04 PM,2:06,Delk REBOUND (Off:0 Def:3),,,,
+0020200004,223,2,46,2,8:05 PM,1:56,MISS Williams 10' Running Jump Shot,,,,
+0020200004,224,4,0,2,8:05 PM,1:54,,,Marshall REBOUND (Off:0 Def:2),,
+0020200004,225,1,42,2,8:05 PM,1:50,,,Williams 2' Driving Layup (6 PTS),43 - 49,6
+0020200004,226,2,1,2,8:05 PM,1:42,MISS Williams 15' Jump Shot,,,,
+0020200004,227,4,0,2,8:05 PM,1:40,,,Marshall REBOUND (Off:0 Def:3),,
+0020200004,228,2,1,2,8:05 PM,1:22,,,MISS Williams 24' 3PT Jump Shot,,
+0020200004,229,4,0,2,8:05 PM,1:20,Walker REBOUND (Off:0 Def:5),,,,
+0020200004,230,6,1,2,8:05 PM,1:15,,,Marshall P.FOUL (P2.T3),,
+0020200004,231,8,0,2,8:06 PM,1:15,SUB: McCarty FOR Williams,,,,
+0020200004,232,1,1,2,8:06 PM,1:01,Walker 20' Jump Shot (8 PTS) (Williams 3 AST),,,43 - 51,8
+0020200004,233,6,1,2,8:06 PM,0:50,Baker P.FOUL (P1.T4),,,,
+0020200004,234,2,1,2,8:07 PM,0:41,,,MISS Williams 15' Jump Shot,,
+0020200004,235,4,0,2,8:07 PM,0:39,Walker REBOUND (Off:0 Def:6),,,,
+0020200004,236,5,1,2,8:07 PM,0:30,Williams Bad Pass Turnover (P2.T7),,Robinson STEAL (1 STL),,
+0020200004,237,2,61,2,8:07 PM,0:26,,,MISS Hoiberg 2' Driving Finger Roll,,
+0020200004,238,4,0,2,8:07 PM,0:24,,,Marshall REBOUND (Off:1 Def:3),,
+0020200004,239,2,5,2,8:07 PM,0:24,,,MISS Marshall 1' Layup,,
+0020200004,240,4,0,2,8:07 PM,0:24,,,Robinson REBOUND (Off:3 Def:2),,
+0020200004,241,1,5,2,8:07 PM,0:24,,,Robinson  Layup (8 PTS),45 - 51,6
+0020200004,243,2,1,2,8:08 PM,0:00,MISS McCarty 17' Jump Shot,,,,
+0020200004,244,4,0,2,8:08 PM,0:00,CELTICS Rebound,,,,
+0020200004,245,5,11,2,8:08 PM,0:00,CELTICS Turnover: Shot Clock (T#8),,,,
+0020200004,246,13,0,2,8:08 PM,0:00,,,,45 - 51,6
+0020200004,248,12,0,3,8:24 PM,12:00,,,,45 - 51,6
+0020200004,249,1,52,3,8:25 PM,11:49,Battie 2' Alley Oop Dunk (6 PTS) (Walker 3 AST),,,45 - 53,8
+0020200004,250,5,2,3,8:25 PM,11:33,Walker STEAL (3 STL),,Chandler Lost Ball Turnover (P4.T11),,
+0020200004,251,1,5,3,8:25 PM,11:27,Pierce 2' Layup (20 PTS) (Walker 4 AST),,,45 - 55,10
+0020200004,252,2,1,3,8:26 PM,11:01,,,MISS Hassell 25' 3PT Jump Shot,,
+0020200004,253,4,0,3,8:26 PM,10:59,Walker REBOUND (Off:0 Def:7),,,,
+0020200004,254,1,1,3,8:26 PM,10:45,Delk  3PT Jump Shot (11 PTS) (Williams 2 AST),,,45 - 58,13
+0020200004,255,9,2,3,8:26 PM,10:37,,,Bulls Timeout: Short (Reg.2 Short 1),,
+0020200004,257,1,1,3,8:27 PM,10:29,,,Rose 20' Jump Shot (5 PTS),47 - 58,11
+0020200004,258,1,8,3,8:27 PM,10:09,Battie 2' Slam Dunk (8 PTS) (Delk 2 AST),,,47 - 60,13
+0020200004,259,1,5,3,8:28 PM,9:47,,,Williams 3' Layup (8 PTS),49 - 60,11
+0020200004,260,2,1,3,8:28 PM,9:34,MISS Delk 21' Jump Shot,,,,
+0020200004,261,4,0,3,8:28 PM,9:33,,,Rose REBOUND (Off:0 Def:4),,
+0020200004,262,6,2,3,8:28 PM,9:28,Battie S.FOUL (P2.T1),,,,
+0020200004,263,3,11,3,8:28 PM,9:28,,,MISS Chandler Free Throw 1 of 2,,
+0020200004,264,4,1,3,8:28 PM,9:28,,,Bulls Rebound,,
+0020200004,265,3,12,3,8:29 PM,9:28,,,Chandler Free Throw 2 of 2 (11 PTS),50 - 60,10
+0020200004,266,1,1,3,8:29 PM,9:11,Delk 24' 3PT Jump Shot (14 PTS) (Pierce 3 AST),,,50 - 63,13
+0020200004,267,2,1,3,8:29 PM,8:53,,,MISS Rose 21' Jump Shot,,
+0020200004,268,4,0,3,8:29 PM,8:52,,,Chandler REBOUND (Off:2 Def:1),,
+0020200004,269,1,8,3,8:29 PM,8:52,,,Chandler 2' Slam Dunk (13 PTS),52 - 63,11
+0020200004,270,6,11,3,8:30 PM,8:52,,,Chandler T.FOUL (P0.T0),,
+0020200004,271,11,1,3,8:30 PM,8:52,,,Chandler Ejection:Second Technical,,
+0020200004,272,8,0,3,8:30 PM,8:52,,,SUB: Marshall FOR Chandler,,
+0020200004,273,3,16,3,8:30 PM,8:52,Pierce Free Throw Technical (21 PTS),,,52 - 64,12
+0020200004,275,2,1,3,8:31 PM,8:33,MISS Walker 24' 3PT Jump Shot,,,,
+0020200004,276,4,0,3,8:31 PM,8:32,Battie REBOUND (Off:3 Def:1),,,,
+0020200004,277,2,1,3,8:31 PM,8:25,MISS Pierce 24' 3PT Jump Shot,,,,
+0020200004,278,4,0,3,8:31 PM,8:23,,,Marshall REBOUND (Off:1 Def:4),,
+0020200004,279,1,8,3,8:31 PM,8:18,,,Curry 3' Slam Dunk (4 PTS) (Rose 7 AST),54 - 64,10
+0020200004,280,1,8,3,8:31 PM,8:05,Pierce 2' Slam Dunk (23 PTS) (Battie 2 AST),,,54 - 66,12
+0020200004,281,1,1,3,8:32 PM,7:38,,,Marshall 18' Jump Shot (6 PTS) (Rose 8 AST),56 - 66,10
+0020200004,282,2,1,3,8:32 PM,7:20,MISS Pierce 25' 3PT Jump Shot,,,,
+0020200004,283,4,0,3,8:32 PM,7:18,,,Williams REBOUND (Off:0 Def:5),,
+0020200004,284,5,1,3,8:32 PM,7:13,,,Williams Bad Pass Turnover (P2.T12),,
+0020200004,285,1,5,3,8:33 PM,7:04,Williams 2' Layup (6 PTS) (Battie 3 AST),,,56 - 68,12
+0020200004,286,5,2,3,8:33 PM,6:47,Williams STEAL (2 STL),,Rose Lost Ball Turnover (P1.T13),,
+0020200004,287,5,1,3,8:33 PM,6:43,Williams Bad Pass Turnover (P2.T9),,,,
+0020200004,288,1,1,3,8:33 PM,6:29,,,Rose 24' 3PT Jump Shot (8 PTS) (Williams 5 AST),59 - 68,9
+0020200004,289,1,1,3,8:34 PM,6:11,Walker 25' 3PT Jump Shot (11 PTS) (Pierce 4 AST),,,59 - 71,12
+0020200004,290,1,1,3,8:34 PM,5:48,,,Rose 25' 3PT Jump Shot (11 PTS) (Hassell 1 AST),62 - 71,9
+0020200004,291,1,1,3,8:34 PM,5:30,Delk  3PT Jump Shot (17 PTS) (Pierce 5 AST),,,62 - 74,12
+0020200004,292,1,1,3,8:35 PM,5:18,,,Williams 25' 3PT Jump Shot (11 PTS) (Rose 9 AST),65 - 74,9
+0020200004,293,6,1,3,8:35 PM,5:03,,,Hassell P.FOUL (P3.T1),,
+0020200004,294,9,1,3,8:35 PM,5:03,CELTICS Timeout: Regular (Full 3 Short 0),,,,
+0020200004,296,8,0,3,8:37 PM,5:03,,,SUB: Blount FOR Curry,,
+0020200004,297,8,0,3,8:37 PM,5:03,SUB: McCarty FOR Williams,,,,
+0020200004,298,8,0,3,8:37 PM,5:03,SUB: Williams FOR Battie,,,,
+0020200004,299,8,0,3,8:37 PM,5:03,SUB: Baker FOR Delk,,,,
+0020200004,300,2,1,3,8:38 PM,4:50,MISS Walker 24' 3PT Jump Shot,,,,
+0020200004,301,4,0,3,8:38 PM,4:47,,,Blount REBOUND (Off:0 Def:1),,
+0020200004,302,6,17,3,8:38 PM,4:37,CELTICS T.Foul (Def. 3 Sec Baker ),,,,
+0020200004,303,3,16,3,8:38 PM,4:37,,,Rose Free Throw Technical (12 PTS),66 - 74,8
+0020200004,304,1,42,3,8:39 PM,4:24,,,Williams 2' Driving Layup (13 PTS),68 - 74,6
+0020200004,305,6,2,3,8:39 PM,4:24,Baker S.FOUL (P2.T2),,,,
+0020200004,306,3,10,3,8:39 PM,4:24,,,MISS Williams Free Throw 1 of 1,,
+0020200004,307,4,0,3,8:39 PM,4:24,Pierce REBOUND (Off:0 Def:4),,,,
+0020200004,308,2,1,3,8:39 PM,4:03,MISS Williams 24' 3PT Jump Shot,,,,
+0020200004,309,4,0,3,8:39 PM,4:01,,,Hassell REBOUND (Off:0 Def:2),,
+0020200004,310,1,1,3,8:39 PM,3:52,,,Blount 17' Jump Shot (2 PTS) (Williams 6 AST),70 - 74,4
+0020200004,311,1,1,3,8:40 PM,3:27,McCarty 24' 3PT Jump Shot (5 PTS) (Pierce 6 AST),,,70 - 77,7
+0020200004,312,2,1,3,8:40 PM,3:08,,,MISS Marshall 20' Jump Shot,,
+0020200004,313,4,0,3,8:40 PM,3:06,Pierce REBOUND (Off:0 Def:5),,,,
+0020200004,314,6,4,3,8:40 PM,3:01,Pierce OFF.Foul (P3),,,,
+0020200004,315,5,5,3,8:40 PM,3:01,Pierce Foul Turnover (P3.T10),,,,
+0020200004,316,8,0,3,8:41 PM,3:01,,,SUB: Crawford FOR Williams,,
+0020200004,317,8,0,3,8:41 PM,3:01,SUB: Delk FOR Pierce,,,,
+0020200004,318,6,2,3,8:41 PM,2:46,Walker S.FOUL (P2.T3),,,,
+0020200004,320,9,1,3,8:41 PM,2:46,,,Bulls Timeout: Regular (Reg.3 Short 1),,
+0020200004,321,8,0,3,8:43 PM,2:46,,,SUB: Robinson FOR Hassell,,
+0020200004,322,3,11,3,8:44 PM,2:46,,,MISS Rose Free Throw 1 of 2,,
+0020200004,323,4,1,3,8:44 PM,2:46,,,Bulls Rebound,,
+0020200004,324,3,12,3,8:44 PM,2:46,,,Rose Free Throw 2 of 2 (13 PTS),71 - 77,6
+0020200004,325,6,4,3,8:44 PM,2:35,Baker OFF.Foul (P3),,,,
+0020200004,326,5,5,3,8:44 PM,2:35,Baker Foul Turnover (P1.T11),,,,
+0020200004,327,1,42,3,8:45 PM,2:18,,,Rose 2' Driving Layup (15 PTS),73 - 77,4
+0020200004,328,6,2,3,8:45 PM,1:53,,,Blount S.FOUL (P1.T2),,
+0020200004,329,3,11,3,8:46 PM,1:53,Walker Free Throw 1 of 2 (12 PTS),,,73 - 78,5
+0020200004,330,3,12,3,8:46 PM,1:53,Walker Free Throw 2 of 2 (13 PTS),,,73 - 79,6
+0020200004,331,1,1,3,8:46 PM,1:38,,,Rose 20' Jump Shot (17 PTS) (Crawford 2 AST),75 - 79,4
+0020200004,332,6,2,3,8:47 PM,1:24,,,Marshall S.FOUL (P3.PN),,
+0020200004,333,3,11,3,8:47 PM,1:24,Walker Free Throw 1 of 2 (14 PTS),,,75 - 80,5
+0020200004,334,3,12,3,8:47 PM,1:24,MISS Walker Free Throw 2 of 2,,,,
+0020200004,335,4,0,3,8:47 PM,1:24,,,Marshall REBOUND (Off:1 Def:5),,
+0020200004,336,2,46,3,8:47 PM,1:12,,,MISS Rose 11' Running Jump Shot,,
+0020200004,337,4,0,3,8:47 PM,1:09,,,Blount REBOUND (Off:1 Def:1),,
+0020200004,338,2,1,3,8:47 PM,1:06,,,MISS Crawford 25' 3PT Jump Shot,,
+0020200004,339,4,0,3,8:47 PM,1:04,,,Robinson REBOUND (Off:4 Def:2),,
+0020200004,340,6,2,3,8:48 PM,1:02,Williams S.FOUL (P1.T4),,,,
+0020200004,341,3,11,3,8:48 PM,1:02,,,Robinson Free Throw 1 of 2 (9 PTS),76 - 80,4
+0020200004,342,3,12,3,8:48 PM,1:02,,,Robinson Free Throw 2 of 2 (10 PTS),77 - 80,3
+0020200004,343,6,2,3,8:48 PM,0:53,,,Blount S.FOUL (P2.PN),,
+0020200004,344,3,11,3,8:49 PM,0:53,MISS Delk Free Throw 1 of 2,,,,
+0020200004,345,4,1,3,8:49 PM,0:53,CELTICS Rebound,,,,
+0020200004,346,8,0,3,8:49 PM,0:53,SUB: Sundov FOR Walker,,,,
+0020200004,347,3,12,3,8:49 PM,0:53,Delk Free Throw 2 of 2 (18 PTS),,,77 - 81,4
+0020200004,348,1,1,3,8:49 PM,0:43,,,Marshall 18' Jump Shot (8 PTS) (Crawford 3 AST),79 - 81,2
+0020200004,349,6,1,3,8:50 PM,0:30,,,Blount P.FOUL (P3.PN),,
+0020200004,350,3,11,3,8:50 PM,0:30,Baker Free Throw 1 of 2 (6 PTS),,,79 - 82,3
+0020200004,351,3,12,3,8:50 PM,0:30,MISS Baker Free Throw 2 of 2,,,,
+0020200004,352,4,0,3,8:50 PM,0:30,,,Blount REBOUND (Off:1 Def:2),,
+0020200004,353,6,17,3,8:50 PM,0:15,CELTICS T.Foul (Def. 3 Sec Baker ),,,,
+0020200004,354,3,16,3,8:51 PM,0:15,,,Rose Free Throw Technical (18 PTS),80 - 82,2
+0020200004,355,5,2,3,8:51 PM,0:07,Williams STEAL (1 STL),,Crawford Lost Ball Turnover (P3.T14),,
+0020200004,356,1,8,3,8:51 PM,0:03,Williams 2' Slam Dunk (4 PTS),,,80 - 84,4
+0020200004,357,2,1,3,8:51 PM,0:00,,,MISS Crawford 32' 3PT Jump Shot,,
+0020200004,358,4,0,3,8:51 PM,0:00,,,Bulls Rebound,,
+0020200004,359,13,0,3,8:51 PM,0:00,,,,80 - 84,4
+0020200004,361,12,0,4,8:54 PM,12:00,,,,80 - 84,4
+0020200004,362,2,1,4,8:54 PM,11:49,,,MISS Marshall 18' Jump Shot,,
+0020200004,363,4,0,4,8:54 PM,11:47,Williams REBOUND (Off:0 Def:2),,,,
+0020200004,364,5,8,4,8:55 PM,11:33,Baker 3 Second Violation Turnover (P2.T12),,,,
+0020200004,365,6,1,4,8:55 PM,11:21,Williams P.FOUL (P2.T1),,,,
+0020200004,366,2,1,4,8:56 PM,11:08,,,MISS Robinson 17' Jump Shot,,
+0020200004,367,4,0,4,8:56 PM,11:06,Williams REBOUND (Off:0 Def:3),,,,
+0020200004,368,8,0,4,8:56 PM,10:59,SUB: Walker FOR Sundov,,,,
+0020200004,369,8,0,4,8:56 PM,10:59,SUB: Battie FOR Baker,,,,
+0020200004,370,2,5,4,8:56 PM,10:50,MISS Walker 1' Layup,,Rose BLOCK (1 BLK),,
+0020200004,371,4,0,4,8:56 PM,10:47,,,Marshall REBOUND (Off:1 Def:6),,
+0020200004,372,1,5,4,8:57 PM,10:41,,,Marshall 1' Layup (10 PTS) (Rose 10 AST),82 - 84,2
+0020200004,373,9,2,4,8:57 PM,10:20,CELTICS Timeout: Short (Full 3 Short 1),,,,
+0020200004,375,1,1,4,8:58 PM,10:15,Pierce 24' 3PT Jump Shot (26 PTS) (Williams 4 AST),,,82 - 87,5
+0020200004,376,1,1,4,8:59 PM,9:50,,,Rose 17' Jump Shot (20 PTS),84 - 87,3
+0020200004,377,6,2,4,8:59 PM,9:50,Pierce S.FOUL (P4.T2),,,,
+0020200004,378,3,10,4,8:59 PM,9:50,,,Rose Free Throw 1 of 1 (21 PTS),85 - 87,2
+0020200004,379,1,42,4,8:59 PM,9:38,Pierce 2' Driving Layup (28 PTS),,,85 - 89,4
+0020200004,380,8,0,4,9:00 PM,9:23,SUB: Delk FOR Williams,,,,
+0020200004,381,8,0,4,9:00 PM,9:23,,,SUB: Hassell FOR Robinson,,
+0020200004,382,6,4,4,9:00 PM,9:23,,,Marshall OFF.Foul (P4),,
+0020200004,383,5,5,4,9:00 PM,9:23,,,Marshall Foul Turnover (P2.T15),,
+0020200004,384,2,1,4,9:00 PM,9:10,MISS Walker 24' 3PT Jump Shot,,,,
+0020200004,385,4,0,4,9:01 PM,9:08,,,Crawford REBOUND (Off:0 Def:2),,
+0020200004,386,1,47,4,9:01 PM,8:51,,,Marshall 17' Turnaround Jump Shot (12 PTS) (Rose 11 AST),87 - 89,2
+0020200004,387,1,1,4,9:01 PM,8:29,Williams 18' Jump Shot (8 PTS) (Delk 3 AST),,,87 - 91,4
+0020200004,388,2,46,4,9:01 PM,8:13,,,MISS Rose 7' Running Jump Shot,,
+0020200004,389,4,0,4,9:02 PM,8:11,CELTICS Rebound,,,,
+0020200004,391,9,4,4,9:02 PM,8:11,,,,,
+0020200004,392,5,1,4,9:04 PM,7:56,Pierce Bad Pass Turnover (P4.T13),,Marshall STEAL (2 STL),,
+0020200004,394,2,45,4,9:04 PM,7:43,,,MISS Rose 17' Jump Shot,,
+0020200004,393,4,0,4,9:04 PM,7:41,,,Blount REBOUND (Off:2 Def:2),,
+0020200004,395,1,3,4,9:05 PM,7:24,,,Marshall 2' Hook Shot (14 PTS) (Hassell 2 AST),89 - 91,2
+0020200004,396,2,1,4,9:05 PM,7:07,MISS Pierce 16' Jump Shot,,,,
+0020200004,397,4,0,4,9:05 PM,7:05,,,Marshall REBOUND (Off:1 Def:7),,
+0020200004,399,2,1,4,9:05 PM,6:49,,,MISS Marshall 19' Jump Shot,,
+0020200004,400,4,0,4,9:05 PM,6:47,Pierce REBOUND (Off:0 Def:6),,,,
+0020200004,401,2,1,4,9:05 PM,6:37,MISS Walker 15' Jump Shot,,,,
+0020200004,402,4,0,4,9:05 PM,6:36,,,Crawford REBOUND (Off:0 Def:3),,
+0020200004,404,5,2,4,9:06 PM,6:31,Pierce STEAL (1 STL),,Rose Lost Ball Turnover (P2.T16),,
+0020200004,405,2,5,4,9:06 PM,6:17,MISS Pierce 2' Layup,,Hassell BLOCK (2 BLK),,
+0020200004,406,4,0,4,9:06 PM,6:15,,,Blount REBOUND (Off:2 Def:3),,
+0020200004,408,6,1,4,9:06 PM,6:02,Battie P.FOUL (P3.T3),,,,
+0020200004,410,2,1,4,9:07 PM,5:55,,,MISS Rose 25' 3PT Jump Shot,,
+0020200004,411,4,0,4,9:07 PM,5:53,Walker REBOUND (Off:0 Def:8),,,,
+0020200004,412,2,5,4,9:07 PM,5:43,MISS Williams 2' Layup,,,,
+0020200004,413,4,0,4,9:07 PM,5:41,,,Hassell REBOUND (Off:0 Def:3),,
+0020200004,415,1,5,4,9:07 PM,5:34,,,Marshall 2' Layup (16 PTS) (Blount 1 AST),91 - 91,TIE
+0020200004,416,6,1,4,9:08 PM,5:20,,,Hassell P.FOUL (P4.T1),,
+0020200004,418,9,1,4,9:08 PM,5:20,CELTICS Timeout: Regular (Full 4 Short 1),,,,
+0020200004,419,8,0,4,9:10 PM,5:20,,,SUB: Williams FOR Crawford,,
+0020200004,420,1,5,4,9:10 PM,5:09,Delk  Layup (20 PTS) (Pierce 7 AST),,,91 - 93,2
+0020200004,421,6,4,4,9:10 PM,4:56,,,Rose OFF.Foul (P3),,
+0020200004,422,5,5,4,9:10 PM,4:56,,,Rose Foul Turnover (P3.T17),,
+0020200004,423,2,1,4,9:11 PM,4:44,MISS Pierce 17' Jump Shot,,,,
+0020200004,424,4,0,4,9:11 PM,4:42,,,Hassell REBOUND (Off:0 Def:4),,
+0020200004,425,5,1,4,9:11 PM,4:19,,,Bulls Turnover: Bad Pass (T#18),,
+0020200004,426,2,5,4,9:12 PM,3:59,MISS Walker 3' Layup,,,,
+0020200004,427,4,0,4,9:12 PM,3:56,,,Marshall REBOUND (Off:1 Def:8),,
+0020200004,428,2,46,4,9:12 PM,3:50,,,MISS Williams 10' Running Jump Shot,,
+0020200004,429,4,0,4,9:12 PM,3:45,Pierce REBOUND (Off:0 Def:7),,,,
+0020200004,430,6,3,4,9:12 PM,3:45,,,Marshall L.B.FOUL (P5.T2),,
+0020200004,431,6,4,4,9:13 PM,3:40,Williams OFF.Foul (P3),,,,
+0020200004,432,5,5,4,9:13 PM,3:40,Williams Foul Turnover (P3.T14),,,,
+0020200004,434,9,1,4,9:13 PM,3:40,,,Bulls Timeout: Regular (Reg.4 Short 1),,
+0020200004,435,2,1,4,9:15 PM,3:23,,,MISS Rose 18' Jump Shot,,
+0020200004,436,4,0,4,9:15 PM,3:21,Walker REBOUND (Off:0 Def:9),,,,
+0020200004,437,2,1,4,9:16 PM,3:07,MISS Walker 24' 3PT Jump Shot,,,,
+0020200004,438,4,0,4,9:16 PM,3:05,,,Williams REBOUND (Off:0 Def:6),,
+0020200004,439,1,5,4,9:16 PM,2:59,,,Hassell 3' Layup (8 PTS) (Marshall 1 AST),93 - 93,TIE
+0020200004,440,2,1,4,9:16 PM,2:39,MISS Pierce 16' Jump Shot,,,,
+0020200004,441,4,0,4,9:16 PM,2:36,Walker REBOUND (Off:1 Def:9),,,,
+0020200004,442,5,2,4,9:16 PM,2:35,Walker Lost Ball Turnover (P2.T15),,Williams STEAL (1 STL),,
+0020200004,443,1,1,4,9:16 PM,2:23,,,Hassell 24' 3PT Jump Shot (11 PTS) (Rose 12 AST),96 - 93,-3
+0020200004,445,9,1,4,9:16 PM,2:21,CELTICS Timeout: Regular (Full 5 Short 1),,,,
+0020200004,446,2,1,4,9:18 PM,2:04,MISS Pierce 24' 3PT Jump Shot,,,,
+0020200004,447,4,0,4,9:18 PM,2:01,Delk REBOUND (Off:1 Def:3),,,,
+0020200004,448,1,1,4,9:18 PM,1:58,Delk 25' 3PT Jump Shot (23 PTS),,,96 - 96,TIE
+0020200004,449,2,1,4,9:19 PM,1:36,,,MISS Rose 26' 3PT Jump Shot,,
+0020200004,450,4,0,4,9:19 PM,1:33,,,Hassell REBOUND (Off:1 Def:4),,
+0020200004,451,6,2,4,9:19 PM,1:30,Battie S.FOUL (P4.T4),,,,
+0020200004,452,3,11,4,9:19 PM,1:30,,,MISS Williams Free Throw 1 of 2,,
+0020200004,453,4,1,4,9:19 PM,1:30,,,Bulls Rebound,,
+0020200004,454,3,12,4,9:19 PM,1:30,,,MISS Williams Free Throw 2 of 2,,
+0020200004,455,4,0,4,9:19 PM,1:30,Walker REBOUND (Off:1 Def:10),,,,
+0020200004,456,5,2,4,9:20 PM,1:20,Pierce Lost Ball Turnover (P5.T16),,Blount STEAL (1 STL),,
+0020200004,457,1,1,4,9:20 PM,1:00,,,Hassell 24' 3PT Jump Shot (14 PTS) (Williams 7 AST),99 - 96,-3
+0020200004,458,5,1,4,9:20 PM,0:49,Pierce Bad Pass Turnover (P6.T17),,,,
+0020200004,459,2,1,4,9:21 PM,0:27,,,MISS Rose 13' Jump Shot,,
+0020200004,460,4,0,4,9:21 PM,0:25,Delk REBOUND (Off:1 Def:4),,,,
+0020200004,461,2,1,4,9:21 PM,0:09,MISS Walker 25' 3PT Jump Shot,,,,
+0020200004,462,4,0,4,9:21 PM,0:08,,,Bulls Rebound,,
+0020200004,463,6,3,4,9:21 PM,0:08,Battie L.B.FOUL (P5.PN),,,,
+0020200004,464,3,11,4,9:22 PM,0:08,,,MISS Williams Free Throw 1 of 2,,
+0020200004,465,4,1,4,9:22 PM,0:08,,,Bulls Rebound,,
+0020200004,466,3,12,4,9:22 PM,0:08,,,MISS Williams Free Throw 2 of 2,,
+0020200004,467,4,0,4,9:22 PM,0:08,Battie REBOUND (Off:3 Def:2),,,,
+0020200004,468,9,1,4,9:22 PM,0:06,CELTICS Timeout: Regular (Full 6 Short 1),,,,
+0020200004,470,8,0,4,9:23 PM,0:06,SUB: Williams FOR Battie,,,,
+0020200004,471,8,0,4,9:24 PM,0:06,,,SUB: Hoiberg FOR Blount,,
+0020200004,472,2,1,4,9:24 PM,0:00,MISS Walker 24' 3PT Jump Shot,,,,
+0020200004,473,4,0,4,9:24 PM,0:00,,,Williams REBOUND (Off:0 Def:7),,
+0020200004,475,13,0,4,9:24 PM,0:00,,,,99 - 96,-3

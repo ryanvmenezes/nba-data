@@ -1,0 +1,448 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021300665,0,12,0,1,8:11 PM,12:00,,,,,
+0021300665,1,10,0,1,8:11 PM,12:00,Jump Ball Henson vs. Jordan: Tip to Griffin,,,,
+0021300665,2,6,2,1,8:12 PM,11:47,Ilyasova S.FOUL (P1.T1),,,,
+0021300665,3,3,11,1,8:12 PM,11:47,,,Griffin Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0021300665,5,3,12,1,8:12 PM,11:47,,,Griffin Free Throw 2 of 2 (2 PTS),2 - 0,-2
+0021300665,7,1,1,1,8:13 PM,11:28,Ilyasova 18' Jump Shot (2 PTS) (Antetokounmpo 1 AST),,,2 - 2,TIE
+0021300665,8,2,1,1,8:13 PM,11:13,,,MISS Redick 19' Jump Shot,,
+0021300665,9,4,0,1,8:13 PM,11:12,Henson REBOUND (Off:0 Def:1),,,,
+0021300665,10,1,3,1,8:13 PM,10:50,Henson 3' Hook Shot (2 PTS) (Middleton 1 AST),,,2 - 4,2
+0021300665,12,1,1,1,8:14 PM,10:33,,,Redick 25' 3PT Jump Shot (3 PTS) (Collison 1 AST),5 - 4,-1
+0021300665,13,2,1,1,8:14 PM,10:17,MISS Ilyasova 26' 3PT Jump Shot,,,,
+0021300665,14,4,0,1,8:14 PM,10:16,,,Barnes REBOUND (Off:0 Def:1),,
+0021300665,15,1,5,1,8:14 PM,10:09,,,Collison 1' Layup (2 PTS) (Barnes 1 AST),7 - 4,-3
+0021300665,16,5,1,1,8:14 PM,9:53,Middleton Bad Pass Turnover (P1.T1),,Collison STEAL (1 STL),,
+0021300665,17,1,5,1,8:14 PM,9:50,,,Collison 1' Layup (4 PTS),9 - 4,-5
+0021300665,18,2,1,1,8:15 PM,9:29,MISS Knight 27' 3PT Jump Shot,,,,
+0021300665,19,4,0,1,8:15 PM,9:29,,,Clippers Rebound,,
+0021300665,20,6,2,1,8:15 PM,9:17,Antetokounmpo S.FOUL (P1.T2),,,,
+0021300665,21,3,11,1,8:15 PM,9:17,,,Redick Free Throw 1 of 2 (4 PTS),10 - 4,-6
+0021300665,23,3,12,1,8:16 PM,9:17,,,Redick Free Throw 2 of 2 (5 PTS),11 - 4,-7
+0021300665,25,2,1,1,8:16 PM,8:57,MISS Knight 7' Jump Shot,,,,
+0021300665,26,4,0,1,8:16 PM,8:57,,,Clippers Rebound,,
+0021300665,27,6,2,1,8:17 PM,8:47,Knight S.FOUL (P1.T3),,,,
+0021300665,28,3,11,1,8:17 PM,8:47,,,Collison Free Throw 1 of 2 (5 PTS),12 - 4,-8
+0021300665,30,3,12,1,8:17 PM,8:47,,,MISS Collison Free Throw 2 of 2,,
+0021300665,32,4,0,1,8:17 PM,8:45,Ilyasova REBOUND (Off:0 Def:1),,,,
+0021300665,33,1,1,1,8:17 PM,8:34,Ilyasova 25' 3PT Jump Shot (5 PTS) (Knight 1 AST),,,12 - 7,-5
+0021300665,34,1,3,1,8:18 PM,8:18,,,Griffin 5' Hook Shot (4 PTS),14 - 7,-7
+0021300665,35,2,5,1,8:18 PM,7:57,MISS Ilyasova 1' Layup,,,,
+0021300665,36,4,0,1,8:18 PM,7:55,,,Jordan REBOUND (Off:0 Def:1),,
+0021300665,37,1,1,1,8:18 PM,7:49,,,Redick 18' Jump Shot (7 PTS) (Collison 2 AST),16 - 7,-9
+0021300665,38,9,1,1,8:18 PM,7:42,BUCKS Timeout: Regular (Full 1 Short 0),,,,
+0021300665,40,2,5,1,8:21 PM,7:36,MISS Antetokounmpo  Layup,,,,
+0021300665,41,4,0,1,8:21 PM,7:35,,,Jordan REBOUND (Off:0 Def:2),,
+0021300665,42,5,1,1,8:21 PM,7:35,,,Jordan Bad Pass Turnover (P1.T1),,
+0021300665,43,2,1,1,8:21 PM,7:28,MISS Ilyasova 26' 3PT Jump Shot,,,,
+0021300665,44,4,0,1,8:21 PM,7:27,,,Collison REBOUND (Off:0 Def:1),,
+0021300665,45,5,1,1,8:21 PM,7:15,,,Collison Bad Pass Turnover (P1.T2),,
+0021300665,46,1,5,1,8:22 PM,7:00,Knight 1' Layup (2 PTS) (Henson 1 AST),,,16 - 9,-7
+0021300665,47,1,1,1,8:22 PM,6:28,,,Collison 15' Jump Shot (7 PTS),18 - 9,-9
+0021300665,48,1,1,1,8:22 PM,6:19,Knight 4' Jump Shot (4 PTS),,,18 - 11,-7
+0021300665,49,6,2,1,8:23 PM,6:12,Knight S.FOUL (P2.T4),,,,
+0021300665,50,3,11,1,8:23 PM,6:12,,,Collison Free Throw 1 of 2 (8 PTS),19 - 11,-8
+0021300665,52,8,0,1,8:23 PM,6:12,SUB: Ridnour FOR Knight,,,,
+0021300665,53,3,12,1,8:23 PM,6:12,,,Collison Free Throw 2 of 2 (9 PTS),20 - 11,-9
+0021300665,55,1,3,1,8:24 PM,5:55,Henson 4' Hook Shot (4 PTS) (Antetokounmpo 2 AST),,,20 - 13,-7
+0021300665,56,7,5,1,8:24 PM,5:43,Middleton Violation:Kicked Ball,,,,
+0021300665,57,6,17,1,8:24 PM,5:38,BUCKS T.Foul (Def. 3 Sec Henson ),,,,
+0021300665,58,3,16,1,8:24 PM,5:38,,,Redick Free Throw Technical (8 PTS),21 - 13,-8
+0021300665,60,2,1,1,8:25 PM,5:31,,,MISS Barnes 20' Jump Shot,,
+0021300665,61,4,0,1,8:25 PM,5:29,Henson REBOUND (Off:0 Def:2),,,,
+0021300665,62,2,1,1,8:25 PM,5:21,MISS Middleton 12' Jump Shot,,,,
+0021300665,63,4,0,1,8:25 PM,5:20,,,Barnes REBOUND (Off:0 Def:2),,
+0021300665,64,2,5,1,8:25 PM,5:09,,,MISS Griffin 1' Layup,,
+0021300665,66,4,0,1,8:25 PM,5:08,,,Griffin REBOUND (Off:1 Def:0),,
+0021300665,67,5,15,1,8:26 PM,4:51,,,Jordan Offensive Goaltending Turnover (P2.T3),,
+0021300665,68,2,1,1,8:26 PM,4:46,MISS Henson 4' Jump Shot,,,,
+0021300665,69,4,0,1,8:26 PM,4:45,,,Jordan REBOUND (Off:0 Def:3),,
+0021300665,70,6,1,1,8:26 PM,4:43,Ilyasova P.FOUL (P2.PN),,,,
+0021300665,71,3,11,1,8:26 PM,4:43,,,MISS Griffin Free Throw 1 of 2,,
+0021300665,72,4,1,1,8:26 PM,4:43,,,Clippers Rebound,,
+0021300665,73,8,0,1,8:26 PM,4:43,SUB: Butler FOR Ilyasova,,,,
+0021300665,74,8,0,1,8:27 PM,4:43,SUB: Raduljica FOR Antetokounmpo,,,,
+0021300665,75,8,0,1,8:27 PM,4:43,,,SUB: Crawford FOR Redick,,
+0021300665,76,3,12,1,8:27 PM,4:43,,,Griffin Free Throw 2 of 2 (5 PTS),22 - 13,-9
+0021300665,79,2,1,1,8:27 PM,4:23,MISS Butler 25' 3PT Jump Shot,,,,
+0021300665,81,4,0,1,8:27 PM,4:22,Raduljica REBOUND (Off:1 Def:0),,,,
+0021300665,82,1,3,1,8:27 PM,4:08,Henson 3' Hook Shot (6 PTS) (Ridnour 1 AST),,,22 - 15,-7
+0021300665,83,1,66,1,8:28 PM,3:54,,,Griffin 13' Jump Bank Shot (7 PTS) (Barnes 2 AST),24 - 15,-9
+0021300665,84,1,5,1,8:28 PM,3:40,Raduljica 1' Layup (2 PTS) (Henson 2 AST),,,24 - 17,-7
+0021300665,85,2,1,1,8:28 PM,3:19,,,MISS Crawford 27' 3PT Jump Shot,,
+0021300665,86,4,0,1,8:28 PM,3:17,,,Collison REBOUND (Off:1 Def:1),,
+0021300665,88,5,1,1,8:28 PM,3:14,,,Collison Bad Pass Turnover (P2.T4),,
+0021300665,89,2,1,1,8:29 PM,3:05,MISS Ridnour 12' Jump Shot,,,,
+0021300665,90,4,0,1,8:29 PM,3:04,,,Jordan REBOUND (Off:0 Def:4),,
+0021300665,91,2,1,1,8:29 PM,2:56,,,MISS Barnes 26' 3PT Jump Shot,,
+0021300665,92,4,0,1,8:29 PM,2:56,BUCKS Rebound,,,,
+0021300665,93,9,1,1,8:29 PM,2:56,,,Clippers Timeout: Regular (Reg.1 Short 0),,
+0021300665,95,8,0,1,8:31 PM,2:56,,,SUB: Green FOR Collison,,
+0021300665,98,1,1,1,8:32 PM,2:38,Ridnour 21' Jump Shot (2 PTS),,,24 - 19,-5
+0021300665,99,2,7,1,8:33 PM,2:21,,,MISS Griffin 1' Dunk,,
+0021300665,100,4,0,1,8:33 PM,2:18,Henson REBOUND (Off:0 Def:3),,,,
+0021300665,101,1,1,1,8:33 PM,2:09,Butler 26' 3PT Jump Shot (3 PTS) (Ridnour 2 AST),,,24 - 22,-2
+0021300665,102,2,1,1,8:33 PM,1:51,Henson BLOCK (1 BLK),,MISS Barnes 27' 3PT Jump Shot,,
+0021300665,103,4,0,1,8:33 PM,1:48,Raduljica REBOUND (Off:1 Def:1),,,,
+0021300665,104,2,1,1,8:33 PM,1:36,MISS Middleton  3PT Jump Shot,,,,
+0021300665,105,4,0,1,8:33 PM,1:35,,,Jordan REBOUND (Off:0 Def:5),,
+0021300665,106,6,2,1,8:34 PM,1:19,Middleton S.FOUL (P1.PN),,,,
+0021300665,107,3,11,1,8:34 PM,1:19,,,Crawford Free Throw 1 of 2 (1 PTS),25 - 22,-3
+0021300665,109,8,0,1,8:34 PM,1:19,,,SUB: Hollins FOR Jordan,,
+0021300665,110,8,0,1,8:34 PM,1:19,,,SUB: Dudley FOR Barnes,,
+0021300665,111,8,0,1,8:34 PM,1:19,SUB: Antetokounmpo FOR Middleton,,,,
+0021300665,112,3,12,1,8:34 PM,1:19,,,Crawford Free Throw 2 of 2 (2 PTS),26 - 22,-4
+0021300665,114,6,2,1,8:35 PM,1:01,,,Griffin S.FOUL (P1.T1),,
+0021300665,115,3,11,1,8:35 PM,1:01,MISS Henson Free Throw 1 of 2,,,,
+0021300665,116,4,1,1,8:35 PM,1:01,BUCKS Rebound,,,,
+0021300665,117,3,12,1,8:36 PM,1:01,Henson Free Throw 2 of 2 (7 PTS),,,26 - 23,-3
+0021300665,119,1,1,1,8:36 PM,0:45,,,Crawford 24' 3PT Jump Shot (5 PTS) (Griffin 1 AST),29 - 23,-6
+0021300665,120,1,56,1,8:37 PM,0:25,Raduljica 3' Running Hook Shot (4 PTS) (Butler 1 AST),,,29 - 25,-4
+0021300665,121,1,1,1,8:37 PM,0:06,,,Crawford 26' 3PT Jump Shot (8 PTS),32 - 25,-7
+0021300665,122,5,2,1,8:37 PM,0:00,Ridnour Lost Ball Turnover (P1.T2),,Green STEAL (1 STL),,
+0021300665,123,13,0,1,8:37 PM,0:00,,,,32 - 25,-7
+0021300665,125,12,0,2,8:40 PM,12:00,,,,32 - 25,-7
+0021300665,126,1,1,2,8:40 PM,11:42,Butler 24' 3PT Jump Shot (6 PTS) (Ridnour 3 AST),,,32 - 28,-4
+0021300665,127,2,1,2,8:41 PM,11:28,,,MISS Crawford 27' 3PT Jump Shot,,
+0021300665,128,4,0,2,8:41 PM,11:27,,,Turkoglu REBOUND (Off:1 Def:0),,
+0021300665,129,1,1,2,8:41 PM,11:17,,,Green 16' Jump Shot (2 PTS) (Dudley 1 AST),34 - 28,-6
+0021300665,160,6,1,2,8:41 PM,11:12,,,Green P.FOUL (P1.T1),,
+0021300665,130,2,1,2,8:41 PM,10:53,MISS Ridnour 9' Jump Shot,,,,
+0021300665,145,4,0,2,8:41 PM,10:52,Raduljica REBOUND (Off:2 Def:1),,,,
+0021300665,133,6,2,2,8:42 PM,10:50,,,Hollins S.FOUL (P1.T2),,
+0021300665,134,3,11,2,8:42 PM,10:50,Raduljica Free Throw 1 of 2 (5 PTS),,,34 - 29,-5
+0021300665,136,3,12,2,8:42 PM,10:50,Raduljica Free Throw 2 of 2 (6 PTS),,,34 - 30,-4
+0021300665,138,2,1,2,8:43 PM,10:26,,,MISS Crawford 15' Jump Shot,,
+0021300665,139,4,0,2,8:43 PM,10:25,Middleton REBOUND (Off:0 Def:1),,,,
+0021300665,140,2,5,2,8:43 PM,10:20,MISS Middleton 1' Layup,,,,
+0021300665,141,4,0,2,8:43 PM,10:18,Ridnour REBOUND (Off:1 Def:0),,,,
+0021300665,143,1,1,2,8:43 PM,9:58,Middleton 18' Jump Shot (2 PTS),,,34 - 32,-2
+0021300665,147,2,5,2,8:44 PM,9:31,Raduljica BLOCK (1 BLK),,MISS Hollins 3' Layup,,
+0021300665,148,4,0,2,8:44 PM,9:31,,,Clippers Rebound,,
+0021300665,150,5,11,2,8:44 PM,9:31,,,Clippers Turnover: Shot Clock (T#5),,
+0021300665,151,8,0,2,8:44 PM,9:31,,,SUB: Jordan FOR Hollins,,
+0021300665,152,8,0,2,8:44 PM,9:31,SUB: Henson FOR Raduljica,,,,
+0021300665,153,6,1,2,8:44 PM,9:21,,,Jordan P.FOUL (P1.T3),,
+0021300665,154,2,1,2,8:45 PM,9:13,MISS Butler 25' 3PT Jump Shot,,,,
+0021300665,155,4,0,2,8:45 PM,9:12,,,Jordan REBOUND (Off:0 Def:6),,
+0021300665,157,8,0,2,8:45 PM,9:07,SUB: Knight FOR Ridnour,,,,
+0021300665,159,9,4,2,8:45 PM,8:59,,,,,
+0021300665,162,8,0,2,8:48 PM,8:59,,,SUB: Redick FOR Green,,
+0021300665,163,1,52,2,8:48 PM,8:57,,,Jordan 1' Alley Oop Dunk (2 PTS) (Turkoglu 1 AST),36 - 32,-4
+0021300665,164,1,1,2,8:48 PM,8:34,Middleton 15' Jump Shot (4 PTS) (Knight 2 AST),,,36 - 34,-2
+0021300665,165,2,1,2,8:48 PM,8:19,,,MISS Redick 6' Jump Shot,,
+0021300665,167,4,0,2,8:48 PM,8:19,,,Jordan REBOUND (Off:1 Def:6),,
+0021300665,166,1,7,2,8:48 PM,8:19,,,Jordan 1' Dunk (4 PTS),38 - 34,-4
+0021300665,168,6,2,2,8:48 PM,8:19,Henson S.FOUL (P1.T1),,,,
+0021300665,169,3,10,2,8:49 PM,8:19,,,MISS Jordan Free Throw 1 of 1,,
+0021300665,171,4,0,2,8:49 PM,8:18,Antetokounmpo REBOUND (Off:0 Def:1),,,,
+0021300665,172,2,3,2,8:49 PM,8:06,MISS Henson 4' Hook Shot,,,,
+0021300665,173,4,0,2,8:49 PM,8:05,,,Jordan REBOUND (Off:1 Def:7),,
+0021300665,174,2,1,2,8:49 PM,7:55,,,MISS Turkoglu 14' Jump Shot,,
+0021300665,175,4,0,2,8:49 PM,7:55,BUCKS Rebound,,,,
+0021300665,176,5,1,2,8:50 PM,7:31,Knight Bad Pass Turnover (P1.T3),,Crawford STEAL (1 STL),,
+0021300665,177,1,7,2,8:50 PM,7:28,,,Crawford 1' Dunk (10 PTS) (Dudley 2 AST),40 - 34,-6
+0021300665,178,2,1,2,8:50 PM,7:03,MISS Antetokounmpo 28' 3PT Jump Shot,,,,
+0021300665,179,4,0,2,8:50 PM,7:02,Butler REBOUND (Off:1 Def:0),,,,
+0021300665,180,5,11,2,8:50 PM,7:01,BUCKS Turnover: Shot Clock (T#4),,,,
+0021300665,181,8,0,2,8:51 PM,7:01,SUB: Ilyasova FOR Butler,,,,
+0021300665,182,1,1,2,8:51 PM,6:45,,,Crawford 24' 3PT Jump Shot (13 PTS) (Redick 1 AST),43 - 34,-9
+0021300665,183,9,1,2,8:51 PM,6:38,BUCKS Timeout: Regular (Full 2 Short 0),,,,
+0021300665,185,2,1,2,8:54 PM,6:20,MISS Knight 21' Jump Shot,,,,
+0021300665,186,4,0,2,8:54 PM,6:18,Ilyasova REBOUND (Off:1 Def:1),,,,
+0021300665,187,2,5,2,8:54 PM,6:18,MISS Ilyasova 1' Layup,,,,
+0021300665,188,4,0,2,8:54 PM,6:18,,,Clippers Rebound,,
+0021300665,189,6,3,2,8:54 PM,6:18,Henson L.B.FOUL (P2.T2),,,,
+0021300665,190,8,0,2,8:54 PM,6:18,SUB: Raduljica FOR Henson,,,,
+0021300665,191,1,1,2,8:54 PM,6:01,,,Crawford 19' Jump Shot (15 PTS) (Turkoglu 2 AST),45 - 34,-11
+0021300665,192,1,50,2,8:55 PM,5:47,Antetokounmpo 1' Running Dunk (2 PTS) (Middleton 2 AST),,,45 - 36,-9
+0021300665,193,2,1,2,8:55 PM,5:29,,,MISS Dudley 25' 3PT Jump Shot,,
+0021300665,194,4,0,2,8:55 PM,5:27,Antetokounmpo REBOUND (Off:0 Def:2),,,,
+0021300665,195,2,1,2,8:55 PM,5:16,MISS Knight 26' 3PT Jump Shot,,,,
+0021300665,196,4,0,2,8:55 PM,5:15,,,Jordan REBOUND (Off:1 Def:8),,
+0021300665,197,2,1,2,8:55 PM,5:08,,,MISS Crawford 19' Jump Shot,,
+0021300665,198,4,0,2,8:55 PM,5:07,Ilyasova REBOUND (Off:1 Def:2),,,,
+0021300665,199,2,1,2,8:55 PM,4:56,MISS Ilyasova 19' Jump Shot,,,,
+0021300665,200,4,0,2,8:55 PM,4:55,,,Jordan REBOUND (Off:1 Def:9),,
+0021300665,201,9,1,2,8:56 PM,4:54,,,Clippers Timeout: Regular (Reg.2 Short 0),,
+0021300665,203,8,0,2,8:57 PM,4:54,,,SUB: Griffin FOR Dudley,,
+0021300665,204,8,0,2,8:57 PM,4:54,,,SUB: Barnes FOR Turkoglu,,
+0021300665,205,2,66,2,8:58 PM,4:39,,,MISS Griffin 15' Jump Bank Shot,,
+0021300665,206,4,0,2,8:58 PM,4:37,,,Jordan REBOUND (Off:2 Def:9),,
+0021300665,207,2,1,2,8:58 PM,4:29,,,MISS Barnes 25' 3PT Jump Shot,,
+0021300665,208,4,0,2,8:58 PM,4:27,Ilyasova REBOUND (Off:1 Def:3),,,,
+0021300665,209,6,1,2,8:59 PM,4:14,,,Crawford P.FOUL (P1.T4),,
+0021300665,210,8,0,2,8:59 PM,4:14,,,SUB: Collison FOR Crawford,,
+0021300665,211,2,3,2,8:59 PM,4:05,MISS Raduljica 6' Hook Shot,,,,
+0021300665,212,4,0,2,8:59 PM,4:04,,,Jordan REBOUND (Off:2 Def:10),,
+0021300665,213,1,5,2,8:59 PM,3:47,,,Griffin 1' Layup (9 PTS),47 - 36,-11
+0021300665,214,5,1,2,9:00 PM,3:35,Knight Bad Pass Turnover (P2.T5),,Griffin STEAL (1 STL),,
+0021300665,215,1,7,2,9:00 PM,3:32,,,Griffin  Dunk (11 PTS),49 - 36,-13
+0021300665,216,2,1,2,9:00 PM,3:11,MISS Middleton 19' Jump Shot,,,,
+0021300665,217,4,0,2,9:00 PM,3:10,,,Jordan REBOUND (Off:2 Def:11),,
+0021300665,218,1,1,2,9:00 PM,3:04,,,Redick 25' 3PT Jump Shot (11 PTS) (Collison 3 AST),52 - 36,-16
+0021300665,219,6,2,2,9:00 PM,2:48,,,Barnes S.FOUL (P1.PN),,
+0021300665,220,3,11,2,9:01 PM,2:48,MISS Antetokounmpo Free Throw 1 of 2,,,,
+0021300665,221,4,1,2,9:01 PM,2:48,BUCKS Rebound,,,,
+0021300665,222,8,0,2,9:01 PM,2:48,SUB: Ridnour FOR Knight,,,,
+0021300665,223,3,12,2,9:01 PM,2:48,MISS Antetokounmpo Free Throw 2 of 2,,,,
+0021300665,225,4,0,2,9:01 PM,2:47,,,Barnes REBOUND (Off:0 Def:3),,
+0021300665,226,6,4,2,9:01 PM,2:32,,,Griffin OFF.Foul (P2),,
+0021300665,227,5,5,2,9:01 PM,2:32,,,Griffin Foul Turnover (P1.T6),,
+0021300665,228,2,5,2,9:02 PM,2:18,MISS Ilyasova 1' Layup,,,,
+0021300665,229,4,0,2,9:02 PM,2:16,,,Collison REBOUND (Off:1 Def:2),,
+0021300665,230,6,1,2,9:02 PM,2:16,Raduljica P.FOUL (P1.T3),,,,
+0021300665,231,6,16,2,9:03 PM,2:16,,,,,
+0021300665,232,2,5,2,9:03 PM,1:59,,,MISS Barnes 2' Layup,,
+0021300665,234,4,0,2,9:03 PM,1:57,,,Griffin REBOUND (Off:2 Def:0),,
+0021300665,233,1,4,2,9:03 PM,1:57,,,Griffin 1' Tip Shot (13 PTS),54 - 36,-18
+0021300665,235,5,1,2,9:03 PM,1:36,Ridnour Bad Pass Turnover (P2.T6),,Barnes STEAL (1 STL),,
+0021300665,236,1,5,2,9:04 PM,1:33,,,Griffin 1' Layup (15 PTS) (Collison 4 AST),56 - 36,-20
+0021300665,237,6,2,2,9:04 PM,1:33,Antetokounmpo S.FOUL (P2.T4),,,,
+0021300665,238,3,10,2,9:04 PM,1:33,,,Griffin Free Throw 1 of 1 (16 PTS),57 - 36,-21
+0021300665,240,1,5,2,9:04 PM,1:18,Raduljica 1' Layup (8 PTS) (Middleton 3 AST),,,57 - 38,-19
+0021300665,241,1,1,2,9:05 PM,1:00,,,Collison 26' 3PT Jump Shot (12 PTS),60 - 38,-22
+0021300665,242,1,44,2,9:05 PM,0:47,Antetokounmpo 1' Reverse Layup (4 PTS) (Raduljica 1 AST),,,60 - 40,-20
+0021300665,243,1,7,2,9:05 PM,0:41,,,Griffin 1' Dunk (18 PTS) (Collison 5 AST),62 - 40,-22
+0021300665,244,6,2,2,9:05 PM,0:28,,,Collison S.FOUL (P1.PN),,
+0021300665,245,3,11,2,9:06 PM,0:28,MISS Ilyasova Free Throw 1 of 2,,,,
+0021300665,246,4,1,2,9:06 PM,0:28,BUCKS Rebound,,,,
+0021300665,247,8,0,2,9:06 PM,0:28,,,SUB: Dudley FOR Griffin,,
+0021300665,248,3,12,2,9:06 PM,0:28,Ilyasova Free Throw 2 of 2 (6 PTS),,,62 - 41,-21
+0021300665,250,9,2,2,9:06 PM,0:24,,,Clippers Timeout: Short (Reg.2 Short 1),,
+0021300665,252,8,0,2,9:07 PM,0:24,SUB: Butler FOR Ilyasova,,,,
+0021300665,253,8,0,2,9:07 PM,0:24,SUB: Wolters FOR Antetokounmpo,,,,
+0021300665,254,8,0,2,9:08 PM,0:24,,,SUB: Crawford FOR Jordan,,
+0021300665,255,1,1,2,9:08 PM,0:05,,,Dudley 16' Jump Shot (2 PTS) (Collison 6 AST),64 - 41,-23
+0021300665,256,2,1,2,9:08 PM,0:00,MISS Middleton 14' Jump Shot,,,,
+0021300665,257,4,0,2,9:08 PM,0:00,BUCKS Rebound,,,,
+0021300665,258,13,0,2,9:08 PM,0:00,,,,64 - 41,-23
+0021300665,260,12,0,3,9:24 PM,12:00,,,,64 - 41,-23
+0021300665,261,2,3,3,9:25 PM,11:42,MISS Henson 7' Hook Shot,,Jordan BLOCK (1 BLK),,
+0021300665,262,4,0,3,9:25 PM,11:40,,,Redick REBOUND (Off:0 Def:1),,
+0021300665,263,2,1,3,9:25 PM,11:20,,,MISS Griffin 13' Jump Shot,,
+0021300665,265,4,0,3,9:25 PM,11:18,,,Jordan REBOUND (Off:3 Def:11),,
+0021300665,264,1,4,3,9:25 PM,11:18,,,Jordan 1' Tip Shot (6 PTS),66 - 41,-25
+0021300665,266,1,1,3,9:25 PM,10:59,Ilyasova 20' Jump Shot (8 PTS) (Knight 3 AST),,,66 - 43,-23
+0021300665,267,1,1,3,9:26 PM,10:41,,,Collison 26' 3PT Jump Shot (15 PTS),69 - 43,-26
+0021300665,268,2,1,3,9:26 PM,10:26,MISS Ilyasova 18' Jump Shot,,,,
+0021300665,269,4,0,3,9:26 PM,10:25,Henson REBOUND (Off:1 Def:3),,,,
+0021300665,270,6,27,3,9:26 PM,10:16,,,Barnes Personal Block Foul (P2.T1),,
+0021300665,271,1,1,3,9:27 PM,10:03,Middleton 15' Jump Shot (6 PTS),,,69 - 45,-24
+0021300665,272,5,4,3,9:27 PM,9:48,,,Redick Traveling Turnover (P1.T7),,
+0021300665,273,2,1,3,9:28 PM,9:31,MISS Middleton 27' 3PT Jump Shot,,,,
+0021300665,274,4,0,3,9:28 PM,9:31,BUCKS Rebound,,,,
+0021300665,275,6,3,3,9:28 PM,9:31,,,Griffin L.B.FOUL (P3.T2),,
+0021300665,276,2,5,3,9:28 PM,9:23,MISS Ilyasova 3' Layup,,Barnes BLOCK (1 BLK),,
+0021300665,277,4,0,3,9:28 PM,9:20,Ilyasova REBOUND (Off:2 Def:3),,,,
+0021300665,278,2,5,3,9:28 PM,9:18,MISS Ilyasova  Layup,,,,
+0021300665,280,4,0,3,9:28 PM,9:15,Henson REBOUND (Off:2 Def:3),,,,
+0021300665,279,2,4,3,9:28 PM,9:15,MISS Henson 2' Tip Shot,,,,
+0021300665,281,4,0,3,9:28 PM,9:13,,,Jordan REBOUND (Off:3 Def:12),,
+0021300665,282,2,1,3,9:29 PM,9:10,,,MISS Barnes 5' Jump Shot,,
+0021300665,283,4,0,3,9:29 PM,9:10,,,Clippers Rebound,,
+0021300665,284,1,1,3,9:29 PM,8:57,,,Barnes 26' 3PT Jump Shot (3 PTS) (Redick 2 AST),72 - 45,-27
+0021300665,285,2,1,3,9:29 PM,8:39,MISS Knight  3PT Jump Shot,,,,
+0021300665,286,4,0,3,9:29 PM,8:37,Henson REBOUND (Off:3 Def:3),,,,
+0021300665,287,2,5,3,9:29 PM,8:33,MISS Ilyasova 2' Layup,,Griffin BLOCK (1 BLK),,
+0021300665,288,4,0,3,9:29 PM,8:30,Antetokounmpo REBOUND (Off:1 Def:2),,,,
+0021300665,289,1,5,3,9:29 PM,8:28,Antetokounmpo 1' Layup (6 PTS),,,72 - 47,-25
+0021300665,290,9,1,3,9:29 PM,8:27,,,Clippers Timeout: Regular (Reg.3 Short 1),,
+0021300665,292,6,27,3,9:32 PM,8:07,Antetokounmpo Personal Block Foul (P3.T1),,,,
+0021300665,293,6,4,3,9:32 PM,8:04,,,Jordan OFF.Foul (P2),,
+0021300665,294,5,5,3,9:32 PM,8:04,,,Jordan Foul Turnover (P3.T8),,
+0021300665,295,1,5,3,9:33 PM,7:51,Ilyasova  Layup (10 PTS) (Knight 4 AST),,,72 - 49,-23
+0021300665,296,5,40,3,9:33 PM,7:40,,,Collison Out of Bounds Lost Ball Turnover (P3.T9),,
+0021300665,297,5,1,3,9:33 PM,7:28,Middleton Bad Pass Turnover (P2.T7),,Griffin STEAL (2 STL),,
+0021300665,298,2,1,3,9:34 PM,7:14,,,MISS Griffin 25' 3PT Jump Shot,,
+0021300665,299,4,0,3,9:34 PM,7:13,Antetokounmpo REBOUND (Off:1 Def:3),,,,
+0021300665,300,2,1,3,9:34 PM,7:04,MISS Knight 12' Jump Shot,,,,
+0021300665,301,4,0,3,9:34 PM,7:02,Henson REBOUND (Off:4 Def:3),,,,
+0021300665,302,1,5,3,9:34 PM,7:01,Henson  Layup (9 PTS),,,72 - 51,-21
+0021300665,303,1,1,3,9:34 PM,6:42,,,Redick 26' 3PT Jump Shot (14 PTS) (Collison 7 AST),75 - 51,-24
+0021300665,304,6,4,3,9:34 PM,6:31,Antetokounmpo OFF.Foul (P4),,,,
+0021300665,305,5,5,3,9:34 PM,6:31,Antetokounmpo Foul Turnover (P1.T8),,,,
+0021300665,306,8,0,3,9:35 PM,6:31,SUB: Butler FOR Middleton,,,,
+0021300665,307,2,1,3,9:35 PM,6:16,,,MISS Redick 21' Jump Shot,,
+0021300665,308,4,0,3,9:35 PM,6:14,Henson REBOUND (Off:4 Def:4),,,,
+0021300665,309,2,3,3,9:35 PM,6:02,MISS Henson 9' Hook Shot,,,,
+0021300665,311,4,0,3,9:35 PM,6:00,Ilyasova REBOUND (Off:3 Def:3),,,,
+0021300665,310,2,4,3,9:35 PM,6:00,MISS Ilyasova 1' Tip Shot,,,,
+0021300665,312,4,0,3,9:35 PM,5:58,,,Redick REBOUND (Off:0 Def:2),,
+0021300665,313,2,1,3,9:35 PM,5:49,,,MISS Redick 27' 3PT Jump Shot,,
+0021300665,314,4,0,3,9:35 PM,5:47,Butler REBOUND (Off:1 Def:1),,,,
+0021300665,315,1,1,3,9:36 PM,5:37,Butler 26' 3PT Jump Shot (9 PTS) (Knight 5 AST),,,75 - 54,-21
+0021300665,316,6,4,3,9:36 PM,5:31,,,Collison OFF.Foul (P2),,
+0021300665,317,5,5,3,9:36 PM,5:31,,,Collison Foul Turnover (P4.T10),,
+0021300665,318,8,0,3,9:36 PM,5:31,SUB: Wolters FOR Antetokounmpo,,,,
+0021300665,319,2,1,3,9:36 PM,5:14,MISS Ilyasova 26' 3PT Jump Shot,,,,
+0021300665,320,4,0,3,9:36 PM,5:12,,,Griffin REBOUND (Off:2 Def:1),,
+0021300665,321,2,1,3,9:37 PM,5:03,,,MISS Barnes 26' 3PT Jump Shot,,
+0021300665,322,4,0,3,9:37 PM,5:02,Knight REBOUND (Off:0 Def:1),,,,
+0021300665,323,5,1,3,9:37 PM,4:51,Butler Bad Pass Turnover (P1.T9),,Jordan STEAL (1 STL),,
+0021300665,324,1,7,3,9:37 PM,4:47,,,Griffin 1' Dunk (20 PTS) (Jordan 1 AST),77 - 54,-23
+0021300665,325,1,1,3,9:37 PM,4:35,Butler 19' Jump Shot (11 PTS) (Knight 6 AST),,,77 - 56,-21
+0021300665,326,5,11,3,9:38 PM,4:09,,,Clippers Turnover: Shot Clock (T#11),,
+0021300665,327,8,0,3,9:38 PM,4:09,,,SUB: Crawford FOR Redick,,
+0021300665,328,8,0,3,9:38 PM,4:09,SUB: Raduljica FOR Henson,,,,
+0021300665,329,2,1,3,9:38 PM,3:49,MISS Ilyasova 26' 3PT Jump Shot,,,,
+0021300665,330,4,0,3,9:38 PM,3:48,Butler REBOUND (Off:2 Def:1),,,,
+0021300665,331,2,1,3,9:38 PM,3:43,MISS Ilyasova 19' Jump Shot,,,,
+0021300665,332,4,0,3,9:38 PM,3:42,,,Barnes REBOUND (Off:0 Def:4),,
+0021300665,333,5,1,3,9:38 PM,3:33,Wolters STEAL (1 STL),,Griffin Bad Pass Turnover (P2.T12),,
+0021300665,334,6,29,3,9:39 PM,3:31,,,Crawford Shooting Block Foul (P2.T3),,
+0021300665,335,3,11,3,9:39 PM,3:31,Wolters Free Throw 1 of 2 (1 PTS),,,77 - 57,-20
+0021300665,337,8,0,3,9:39 PM,3:31,SUB: Middleton FOR Ilyasova,,,,
+0021300665,338,3,12,3,9:39 PM,3:31,MISS Wolters Free Throw 2 of 2,,,,
+0021300665,340,4,0,3,9:39 PM,3:30,,,Jordan REBOUND (Off:3 Def:13),,
+0021300665,341,1,1,3,9:39 PM,3:17,,,Crawford 25' 3PT Jump Shot (18 PTS) (Griffin 2 AST),80 - 57,-23
+0021300665,342,1,1,3,9:40 PM,2:58,Knight 15' Jump Shot (6 PTS) (Wolters 1 AST),,,80 - 59,-21
+0021300665,343,5,2,3,9:40 PM,2:40,Butler STEAL (1 STL),,Griffin Lost Ball Turnover (P3.T13),,
+0021300665,344,1,5,3,9:40 PM,2:36,Wolters 1' Layup (3 PTS) (Knight 7 AST),,,80 - 61,-19
+0021300665,345,2,1,3,9:40 PM,2:15,,,MISS Collison 25' 3PT Jump Shot,,
+0021300665,346,4,0,3,9:40 PM,2:14,Middleton REBOUND (Off:0 Def:2),,,,
+0021300665,347,2,1,3,9:41 PM,2:01,MISS Middleton 26' 3PT Jump Shot,,,,
+0021300665,348,4,0,3,9:41 PM,2:00,,,Griffin REBOUND (Off:2 Def:2),,
+0021300665,349,2,1,3,9:41 PM,1:51,,,MISS Barnes 24' 3PT Jump Shot,,
+0021300665,350,4,0,3,9:41 PM,1:50,Middleton REBOUND (Off:0 Def:3),,,,
+0021300665,351,2,1,3,9:41 PM,1:42,MISS Raduljica 7' Jump Shot,,,,
+0021300665,352,4,0,3,9:41 PM,1:41,,,Jordan REBOUND (Off:3 Def:14),,
+0021300665,353,1,1,3,9:41 PM,1:29,,,Crawford 17' Jump Shot (20 PTS),82 - 61,-21
+0021300665,354,2,1,3,9:41 PM,1:12,MISS Butler 27' 3PT Jump Shot,,,,
+0021300665,355,4,0,3,9:41 PM,1:11,,,Griffin REBOUND (Off:2 Def:3),,
+0021300665,356,1,52,3,9:42 PM,1:07,,,Jordan 1' Alley Oop Dunk (8 PTS) (Crawford 1 AST),84 - 61,-23
+0021300665,357,6,28,3,9:42 PM,0:47,,,Barnes Personal Take Foul (P3.T4),,
+0021300665,358,9,1,3,9:42 PM,0:47,BUCKS Timeout: Regular (Full 3 Short 0),,,,
+0021300665,360,8,0,3,9:44 PM,0:47,,,SUB: Dudley FOR Barnes,,
+0021300665,361,8,0,3,9:44 PM,0:47,,,SUB: Green FOR Collison,,
+0021300665,362,8,0,3,9:44 PM,0:47,SUB: Ridnour FOR Knight,,,,
+0021300665,363,2,1,3,9:45 PM,0:31,MISS Wolters 9' Jump Shot,,,,
+0021300665,364,4,0,3,9:45 PM,0:30,Butler REBOUND (Off:3 Def:1),,,,
+0021300665,365,2,1,3,9:45 PM,0:11,MISS Middleton 17' Jump Shot,,,,
+0021300665,366,4,0,3,9:45 PM,0:10,,,Green REBOUND (Off:0 Def:1),,
+0021300665,367,2,1,3,9:45 PM,0:01,,,MISS Crawford 25' 3PT Jump Shot,,
+0021300665,369,4,0,3,9:45 PM,0:01,,,Jordan REBOUND (Off:4 Def:14),,
+0021300665,368,2,7,3,9:45 PM,0:01,,,MISS Jordan 1' Dunk,,
+0021300665,370,4,0,3,9:45 PM,0:00,Middleton REBOUND (Off:0 Def:4),,,,
+0021300665,371,13,0,3,9:46 PM,0:00,,,,84 - 61,-23
+0021300665,373,12,0,4,9:48 PM,12:00,,,,84 - 61,-23
+0021300665,374,1,5,4,9:48 PM,11:49,,,Green 1' Layup (4 PTS) (Jordan 2 AST),86 - 61,-25
+0021300665,375,6,1,4,9:49 PM,11:41,,,Green P.FOUL (P2.T1),,
+0021300665,376,5,1,4,9:49 PM,11:23,Butler Bad Pass Turnover (P2.T10),,Green STEAL (2 STL),,
+0021300665,377,6,2,4,9:49 PM,11:21,Ridnour S.FOUL (P1.T1),,,,
+0021300665,378,3,11,4,9:49 PM,11:21,,,Green Free Throw 1 of 2 (5 PTS),87 - 61,-26
+0021300665,380,3,12,4,9:50 PM,11:21,,,Green Free Throw 2 of 2 (6 PTS),88 - 61,-27
+0021300665,382,1,3,4,9:50 PM,11:01,Henson 5' Hook Shot (11 PTS) (Wolters 2 AST),,,88 - 63,-25
+0021300665,383,2,1,4,9:50 PM,10:35,,,MISS Dudley 19' Jump Shot,,
+0021300665,384,4,0,4,9:51 PM,10:34,Butler REBOUND (Off:3 Def:2),,,,
+0021300665,385,5,1,4,9:51 PM,10:27,Butler Bad Pass Turnover (P3.T11),,Turkoglu STEAL (1 STL),,
+0021300665,386,6,2,4,9:51 PM,10:26,Henson S.FOUL (P3.T2),,,,
+0021300665,387,3,11,4,9:51 PM,10:26,,,MISS Turkoglu Free Throw 1 of 2,,
+0021300665,388,4,1,4,9:51 PM,10:26,,,Clippers Rebound,,
+0021300665,389,8,0,4,9:51 PM,10:26,,,SUB: Hollins FOR Jordan,,
+0021300665,390,8,0,4,9:51 PM,10:26,SUB: Antetokounmpo FOR Middleton,,,,
+0021300665,391,3,12,4,9:52 PM,10:26,,,MISS Turkoglu Free Throw 2 of 2,,
+0021300665,393,4,0,4,9:52 PM,10:25,Antetokounmpo REBOUND (Off:1 Def:4),,,,
+0021300665,394,2,1,4,9:52 PM,10:07,MISS Wolters 26' 3PT Jump Shot,,,,
+0021300665,395,4,0,4,9:52 PM,10:06,,,Turkoglu REBOUND (Off:1 Def:1),,
+0021300665,396,1,5,4,9:52 PM,9:54,,,Hollins 2' Layup (2 PTS) (Crawford 2 AST),90 - 63,-27
+0021300665,397,2,5,4,9:52 PM,9:34,MISS Wolters 1' Layup,,,,
+0021300665,398,4,0,4,9:52 PM,9:32,,,Dudley REBOUND (Off:0 Def:1),,
+0021300665,399,2,1,4,9:53 PM,9:24,,,MISS Dudley 16' Jump Shot,,
+0021300665,400,4,0,4,9:53 PM,9:21,,,Green REBOUND (Off:1 Def:1),,
+0021300665,401,1,1,4,9:53 PM,9:17,,,Crawford 25' 3PT Jump Shot (23 PTS) (Green 1 AST),93 - 63,-30
+0021300665,402,9,1,4,9:53 PM,9:17,BUCKS Timeout: Regular (Full 4 Short 0),,,,
+0021300665,404,8,0,4,9:55 PM,9:17,SUB: Knight FOR Ridnour,,,,
+0021300665,406,2,1,4,9:56 PM,8:51,MISS Butler 14' Jump Shot,,,,
+0021300665,407,4,0,4,9:56 PM,8:51,BUCKS Rebound,,,,
+0021300665,408,5,11,4,9:56 PM,8:51,BUCKS Turnover: Shot Clock (T#12),,,,
+0021300665,409,1,1,4,9:56 PM,8:40,,,Dudley 22' Jump Shot (4 PTS) (Green 2 AST),95 - 63,-32
+0021300665,410,6,4,4,9:56 PM,8:30,Henson OFF.Foul (P4),,,,
+0021300665,411,5,5,4,9:56 PM,8:30,Henson Foul Turnover (P1.T13),,,,
+0021300665,412,8,0,4,9:57 PM,8:30,SUB: Ilyasova FOR Henson,,,,
+0021300665,413,2,1,4,9:57 PM,8:17,,,MISS Crawford 25' 3PT Jump Shot,,
+0021300665,414,4,0,4,9:57 PM,8:16,Ilyasova REBOUND (Off:3 Def:4),,,,
+0021300665,415,2,1,4,9:57 PM,8:07,MISS Knight  3PT Jump Shot,,,,
+0021300665,416,4,0,4,9:57 PM,8:06,,,Turkoglu REBOUND (Off:1 Def:2),,
+0021300665,417,2,1,4,9:57 PM,7:54,Antetokounmpo BLOCK (1 BLK),,MISS Crawford 13' Jump Shot,,
+0021300665,418,4,0,4,9:57 PM,7:54,Antetokounmpo REBOUND (Off:1 Def:5),,,,
+0021300665,419,6,3,4,9:58 PM,7:54,,,Crawford L.B.FOUL (P3.T2),,
+0021300665,420,8,0,4,9:58 PM,7:54,,,SUB: Bullock FOR Dudley,,
+0021300665,421,2,1,4,9:58 PM,7:41,MISS Ilyasova 18' Jump Shot,,,,
+0021300665,422,4,0,4,9:58 PM,7:40,,,Turkoglu REBOUND (Off:1 Def:3),,
+0021300665,423,5,1,4,9:58 PM,7:30,Wolters STEAL (2 STL),,Turkoglu Bad Pass Turnover (P1.T14),,
+0021300665,424,6,28,4,9:58 PM,7:29,,,Turkoglu Personal Take Foul (P1.T3),,
+0021300665,425,6,1,4,9:59 PM,7:20,,,Bullock P.FOUL (P1.T4),,
+0021300665,426,2,1,4,9:59 PM,7:10,MISS Knight 7' Jump Shot,,,,
+0021300665,427,4,0,4,9:59 PM,7:09,,,Turkoglu REBOUND (Off:1 Def:4),,
+0021300665,428,1,41,4,9:59 PM,6:59,,,Crawford 2' Running Layup (25 PTS) (Green 3 AST),97 - 63,-34
+0021300665,429,6,29,4,9:59 PM,6:51,,,Turkoglu Shooting Block Foul (P2.PN),,
+0021300665,430,3,11,4,10:00 PM,6:51,Antetokounmpo Free Throw 1 of 2 (7 PTS),,,97 - 64,-33
+0021300665,432,3,12,4,10:00 PM,6:51,Antetokounmpo Free Throw 2 of 2 (8 PTS),,,97 - 65,-32
+0021300665,434,5,1,4,10:00 PM,6:45,,,Crawford Bad Pass Turnover (P1.T15),,
+0021300665,435,6,3,4,10:01 PM,6:45,,,Green L.B.FOUL (P3.PN),,
+0021300665,436,3,11,4,10:01 PM,6:45,Knight Free Throw 1 of 2 (7 PTS),,,97 - 66,-31
+0021300665,438,3,12,4,10:01 PM,6:45,Knight Free Throw 2 of 2 (8 PTS),,,97 - 67,-30
+0021300665,440,2,1,4,10:01 PM,6:37,,,MISS Green 16' Jump Shot,,
+0021300665,442,4,0,4,10:01 PM,6:34,,,Turkoglu REBOUND (Off:2 Def:4),,
+0021300665,441,2,4,4,10:01 PM,6:34,,,MISS Turkoglu 1' Tip Shot,,
+0021300665,443,4,0,4,10:01 PM,6:32,Knight REBOUND (Off:0 Def:2),,,,
+0021300665,444,6,2,4,10:01 PM,6:32,,,Green S.FOUL (P4.PN),,
+0021300665,445,3,11,4,10:02 PM,6:32,MISS Knight Free Throw 1 of 2,,,,
+0021300665,446,4,1,4,10:02 PM,6:32,BUCKS Rebound,,,,
+0021300665,447,3,12,4,10:02 PM,6:32,Knight Free Throw 2 of 2 (9 PTS),,,97 - 68,-29
+0021300665,450,1,46,4,10:02 PM,6:18,,,Green 6' Running Jump Shot (8 PTS) (Hollins 1 AST),99 - 68,-31
+0021300665,451,2,1,4,10:02 PM,6:00,MISS Knight 26' 3PT Jump Shot,,,,
+0021300665,452,4,0,4,10:03 PM,5:59,,,Turkoglu REBOUND (Off:2 Def:5),,
+0021300665,453,1,1,4,10:03 PM,5:49,,,Bullock 22' Jump Shot (2 PTS) (Crawford 3 AST),101 - 68,-33
+0021300665,454,6,2,4,10:03 PM,5:28,,,Green S.FOUL (P5.PN),,
+0021300665,455,9,4,4,10:03 PM,5:28,,,,,
+0021300665,457,8,0,4,10:05 PM,5:28,SUB: Raduljica FOR Butler,,,,
+0021300665,458,8,0,4,10:05 PM,5:28,,,SUB: Mullens FOR Crawford,,
+0021300665,459,3,11,4,10:06 PM,5:28,Wolters Free Throw 1 of 2 (4 PTS),,,101 - 69,-32
+0021300665,462,3,12,4,10:06 PM,5:28,MISS Wolters Free Throw 2 of 2,,,,
+0021300665,465,4,0,4,10:06 PM,5:27,,,Hollins REBOUND (Off:0 Def:1),,
+0021300665,466,1,1,4,10:06 PM,5:16,,,Turkoglu 28' 3PT Jump Shot (3 PTS) (Green 4 AST),104 - 69,-35
+0021300665,467,2,1,4,10:06 PM,4:56,MISS Wolters 6' Jump Shot,,,,
+0021300665,468,4,0,4,10:06 PM,4:55,,,Hollins REBOUND (Off:0 Def:2),,
+0021300665,469,1,1,4,10:07 PM,4:44,,,Green 19' Jump Shot (10 PTS) (Turkoglu 3 AST),106 - 69,-37
+0021300665,470,6,2,4,10:07 PM,4:24,,,Mullens S.FOUL (P1.PN),,
+0021300665,472,3,11,4,10:07 PM,4:24,Raduljica Free Throw 1 of 2 (9 PTS),,,106 - 70,-36
+0021300665,474,8,0,4,10:07 PM,4:24,SUB: Middleton FOR Knight,,,,
+0021300665,475,3,12,4,10:08 PM,4:24,MISS Raduljica Free Throw 2 of 2,,,,
+0021300665,477,4,0,4,10:08 PM,4:23,,,Hollins REBOUND (Off:0 Def:3),,
+0021300665,479,1,1,4,10:08 PM,4:13,,,Turkoglu 24' 3PT Jump Shot (6 PTS) (Green 5 AST),109 - 70,-39
+0021300665,480,1,1,4,10:08 PM,3:56,Middleton 18' Jump Shot (8 PTS) (Antetokounmpo 3 AST),,,109 - 72,-37
+0021300665,482,2,1,4,10:09 PM,3:38,,,MISS Mullens 25' 3PT Jump Shot,,
+0021300665,483,4,0,4,10:09 PM,3:36,,,Bullock REBOUND (Off:1 Def:0),,
+0021300665,484,5,2,4,10:09 PM,3:24,Middleton STEAL (1 STL),,Turkoglu Lost Ball Turnover (P2.T16),,
+0021300665,485,1,7,4,10:09 PM,3:20,Middleton 1' Dunk (10 PTS) (Ilyasova 1 AST),,,109 - 74,-35
+0021300665,486,6,4,4,10:09 PM,3:08,,,Mullens OFF.Foul (P2),,
+0021300665,487,5,5,4,10:09 PM,3:08,,,Mullens Foul Turnover (P1.T17),,
+0021300665,488,2,1,4,10:10 PM,2:58,MISS Ilyasova 25' 3PT Jump Shot,,,,
+0021300665,489,4,0,4,10:10 PM,2:57,,,Mullens REBOUND (Off:0 Def:1),,
+0021300665,490,2,1,4,10:10 PM,2:38,,,MISS Bullock 22' Jump Shot,,
+0021300665,491,4,0,4,10:10 PM,2:37,Antetokounmpo REBOUND (Off:1 Def:6),,,,
+0021300665,492,2,5,4,10:10 PM,2:33,MISS Antetokounmpo 1' Layup,,,,
+0021300665,494,4,0,4,10:10 PM,2:31,Raduljica REBOUND (Off:3 Def:1),,,,
+0021300665,493,1,4,4,10:10 PM,2:31,Raduljica  Tip Shot (11 PTS),,,109 - 76,-33
+0021300665,495,1,1,4,10:10 PM,2:18,,,Green 27' 3PT Jump Shot (13 PTS),112 - 76,-36
+0021300665,496,6,2,4,10:11 PM,2:07,,,Mullens S.FOUL (P3.PN),,
+0021300665,497,9,1,4,10:11 PM,2:07,,,Clippers Timeout: Regular (Reg.4 Short 1),,
+0021300665,499,3,11,4,10:13 PM,2:07,Ilyasova Free Throw 1 of 2 (11 PTS),,,112 - 77,-35
+0021300665,501,3,12,4,10:13 PM,2:07,Ilyasova Free Throw 2 of 2 (12 PTS),,,112 - 78,-34
+0021300665,503,5,1,4,10:13 PM,1:53,Ilyasova STEAL (1 STL),,Bullock Bad Pass Turnover (P1.T18),,
+0021300665,504,1,5,4,10:14 PM,1:50,Middleton 1' Layup (12 PTS),,,112 - 80,-32
+0021300665,505,5,1,4,10:14 PM,1:36,Middleton STEAL (2 STL),,Mullens Bad Pass Turnover (P2.T19),,
+0021300665,506,1,7,4,10:14 PM,1:34,Middleton 1' Dunk (14 PTS),,,112 - 82,-30
+0021300665,507,2,1,4,10:14 PM,1:23,,,MISS Bullock 19' Jump Shot,,
+0021300665,508,4,0,4,10:14 PM,1:21,Raduljica REBOUND (Off:3 Def:2),,,,
+0021300665,509,2,44,4,10:14 PM,1:11,MISS Antetokounmpo 1' Reverse Layup,,,,
+0021300665,510,4,0,4,10:14 PM,1:09,Raduljica REBOUND (Off:4 Def:2),,,,
+0021300665,511,2,1,4,10:14 PM,0:57,MISS Wolters 4' Jump Shot,,,,
+0021300665,513,4,0,4,10:14 PM,0:57,Ilyasova REBOUND (Off:4 Def:4),,,,
+0021300665,512,1,5,4,10:14 PM,0:57,Ilyasova 1' Layup (14 PTS),,,112 - 84,-28
+0021300665,514,1,1,4,10:15 PM,0:42,,,Mullens 11' Jump Shot (2 PTS),114 - 84,-30
+0021300665,515,1,5,4,10:15 PM,0:25,Ilyasova  Layup (16 PTS) (Wolters 3 AST),,,114 - 86,-28
+0021300665,516,5,11,4,10:16 PM,0:01,,,Clippers Turnover: Shot Clock (T#20),,
+0021300665,517,13,0,4,10:16 PM,0:00,,,,114 - 86,-28

@@ -1,0 +1,522 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020800031,0,12,0,1,7:45 PM,12:00,,,,,
+0020800031,1,10,0,1,7:45 PM,12:00,Jump Ball Boone vs. Biedrins: Tip to Harrington,,,,
+0020800031,2,2,1,1,7:45 PM,11:37,,,MISS Maggette 16' Jump Shot,,
+0020800031,3,4,0,1,7:45 PM,11:35,Boone REBOUND (Off:0 Def:1),,,,
+0020800031,4,2,40,1,7:45 PM,11:19,MISS Boone  Layup,,,,
+0020800031,5,4,0,1,7:45 PM,11:18,Boone REBOUND (Off:1 Def:1),,,,
+0020800031,6,2,53,1,7:45 PM,11:17,MISS Boone  Tip Shot,,,,
+0020800031,8,4,0,1,7:45 PM,11:16,Boone REBOUND (Off:2 Def:1),,,,
+0020800031,7,2,5,1,7:45 PM,11:15,MISS Boone  Layup,,,,
+0020800031,9,4,0,1,7:45 PM,11:14,Yi REBOUND (Off:1 Def:0),,,,
+0020800031,10,1,1,1,7:46 PM,11:07,Carter 24' 3PT Jump Shot (3 PTS) (Yi 1 AST),,,0 - 3,3
+0020800031,11,2,5,1,7:46 PM,11:00,Boone BLOCK (1 BLK),,MISS Harrington  Layup,,
+0020800031,12,4,0,1,7:46 PM,10:58,,,Harrington REBOUND (Off:1 Def:0),,
+0020800031,13,10,0,1,7:46 PM,10:47,Jump Ball Carter vs. Harrington: Tip to Yi,,,,
+0020800031,14,5,2,1,7:46 PM,10:47,Carter STEAL (1 STL),,Harrington Lost Ball Turnover (P1.T1),,
+0020800031,15,5,40,1,7:47 PM,10:31,Yi Out of Bounds Lost Ball Turnover (P1.T1),,,,
+0020800031,16,2,5,1,7:47 PM,10:16,Harris BLOCK (1 BLK),,MISS Biedrins  Layup,,
+0020800031,17,4,0,1,7:47 PM,10:14,,,Warriors Rebound,,
+0020800031,18,2,1,1,7:48 PM,10:07,,,MISS Harrington 26' 3PT Jump Shot,,
+0020800031,19,4,0,1,7:48 PM,10:06,Harris REBOUND (Off:0 Def:1),,,,
+0020800031,20,6,1,1,7:48 PM,9:58,,,Nelson P.FOUL (P1.T1),,
+0020800031,21,2,1,1,7:48 PM,9:45,MISS Yi 24' 3PT Jump Shot,,,,
+0020800031,22,4,0,1,7:48 PM,9:44,,,Maggette REBOUND (Off:0 Def:1),,
+0020800031,23,2,1,1,7:48 PM,9:32,,,MISS Maggette 21' Jump Shot,,
+0020800031,24,4,0,1,7:48 PM,9:31,Boone REBOUND (Off:2 Def:2),,,,
+0020800031,25,2,1,1,7:49 PM,9:20,MISS Simmons 25' 3PT Jump Shot,,,,
+0020800031,26,4,0,1,7:49 PM,9:19,,,Maggette REBOUND (Off:0 Def:2),,
+0020800031,27,1,5,1,7:49 PM,9:14,,,Nelson  Layup (2 PTS) (Maggette 1 AST),2 - 3,1
+0020800031,28,2,86,1,7:49 PM,8:54,MISS Yi 12' Turnaround Fadeaway Shot,,,,
+0020800031,29,4,0,1,7:49 PM,8:53,,,Biedrins REBOUND (Off:0 Def:1),,
+0020800031,30,1,5,1,7:49 PM,8:45,,,Biedrins  Layup (2 PTS) (Nelson 1 AST),4 - 3,-1
+0020800031,31,6,2,1,7:49 PM,8:45,Boone S.FOUL (P1.T1),,,,
+0020800031,32,3,10,1,7:50 PM,8:45,,,Biedrins Free Throw 1 of 1 (3 PTS),5 - 3,-2
+0020800031,34,1,43,1,7:50 PM,8:34,Boone  Alley Oop Layup (2 PTS) (Harris 1 AST),,,5 - 5,TIE
+0020800031,35,6,1,1,7:50 PM,8:21,Harris P.FOUL (P1.T2),,,,
+0020800031,36,1,42,1,7:51 PM,8:15,,,Nelson  Driving Layup (4 PTS),7 - 5,-2
+0020800031,37,6,2,1,7:51 PM,8:15,Harris S.FOUL (P2.T3),,,,
+0020800031,38,3,10,1,7:51 PM,8:15,,,MISS Nelson Free Throw 1 of 1,,
+0020800031,40,4,0,1,7:51 PM,8:13,Yi REBOUND (Off:1 Def:1),,,,
+0020800031,41,6,2,1,7:51 PM,8:08,,,Biedrins S.FOUL (P1.T2),,
+0020800031,42,3,11,1,7:51 PM,8:08,Harris Free Throw 1 of 2 (1 PTS),,,7 - 6,-1
+0020800031,44,3,12,1,7:52 PM,8:08,Harris Free Throw 2 of 2 (2 PTS),,,7 - 7,TIE
+0020800031,46,5,39,1,7:52 PM,8:04,,,Maggette Step Out of Bounds Turnover (P1.T2),,
+0020800031,47,2,42,1,7:52 PM,7:50,MISS Harris  Driving Layup,,,,
+0020800031,48,4,0,1,7:52 PM,7:49,,,Biedrins REBOUND (Off:0 Def:2),,
+0020800031,49,5,1,1,7:53 PM,7:49,,,Biedrins Bad Pass Turnover (P1.T3),,
+0020800031,50,8,0,1,7:53 PM,7:49,SUB: Dooling FOR Harris,,,,
+0020800031,52,1,73,1,7:53 PM,7:33,Carter  Driving Reverse Layup (5 PTS),,,7 - 9,2
+0020800031,53,2,1,1,7:53 PM,7:24,,,MISS Harrington 12' Jump Shot,,
+0020800031,54,4,0,1,7:53 PM,7:22,,,Jackson REBOUND (Off:1 Def:0),,
+0020800031,55,6,1,1,7:54 PM,7:18,Yi P.FOUL (P1.T4),,,,
+0020800031,56,1,1,1,7:54 PM,7:08,,,Maggette 12' Jump Shot (2 PTS),9 - 9,TIE
+0020800031,57,6,2,1,7:54 PM,6:46,,,Harrington S.FOUL (P1.T3),,
+0020800031,58,3,11,1,7:55 PM,6:46,Carter Free Throw 1 of 2 (6 PTS),,,9 - 10,1
+0020800031,60,3,12,1,7:55 PM,6:46,Carter Free Throw 2 of 2 (7 PTS),,,9 - 11,2
+0020800031,62,2,42,1,7:55 PM,6:38,Boone BLOCK (2 BLK),,MISS Nelson  Driving Layup,,
+0020800031,63,4,0,1,7:55 PM,6:36,Simmons REBOUND (Off:0 Def:1),,,,
+0020800031,64,6,2,1,7:56 PM,6:22,,,Biedrins S.FOUL (P2.T4),,
+0020800031,65,3,11,1,7:56 PM,6:22,MISS Boone Free Throw 1 of 2,,,,
+0020800031,66,4,1,1,7:56 PM,6:22,NETS Rebound,,,,
+0020800031,67,8,0,1,7:56 PM,6:22,,,SUB: Turiaf FOR Biedrins,,
+0020800031,68,3,12,1,7:56 PM,6:22,Boone Free Throw 2 of 2 (3 PTS),,,9 - 12,3
+0020800031,70,2,46,1,7:57 PM,6:10,Boone BLOCK (3 BLK),,MISS Maggette 8' Running Jump Shot,,
+0020800031,71,4,0,1,7:57 PM,6:08,,,Warriors Rebound,,
+0020800031,72,1,1,1,7:57 PM,6:01,,,Turiaf 18' Jump Shot (2 PTS),11 - 12,1
+0020800031,73,2,1,1,7:57 PM,5:37,MISS Carter 15' Jump Shot,,,,
+0020800031,74,4,0,1,7:57 PM,5:36,,,Turiaf REBOUND (Off:0 Def:1),,
+0020800031,75,2,1,1,7:57 PM,5:31,,,MISS Jackson 24' 3PT Jump Shot,,
+0020800031,76,4,0,1,7:57 PM,5:30,,,Maggette REBOUND (Off:1 Def:2),,
+0020800031,77,6,2,1,7:58 PM,5:29,Yi S.FOUL (P2.PN),,,,
+0020800031,78,9,1,1,7:58 PM,5:29,NETS Timeout: Regular (Full 1 Short 0),,,,
+0020800031,79,8,0,1,8:00 PM,5:29,,,SUB: Watson FOR Nelson,,
+0020800031,111,8,0,1,8:01 PM,5:29,SUB: Lopez FOR Boone,,,,
+0020800031,80,8,0,1,8:01 PM,5:29,SUB: Anderson FOR Yi,,,,
+0020800031,81,3,11,1,8:01 PM,5:29,,,Maggette Free Throw 1 of 2 (3 PTS),12 - 12,TIE
+0020800031,83,3,12,1,8:01 PM,5:29,,,Maggette Free Throw 2 of 2 (4 PTS),13 - 12,-1
+0020800031,85,1,1,1,8:01 PM,5:14,Simmons 25' 3PT Jump Shot (3 PTS) (Carter 1 AST),,,13 - 15,2
+0020800031,87,6,17,1,8:02 PM,5:00,NETS T.Foul (Def. 3 Sec Anderson ),,,,
+0020800031,88,3,16,1,8:02 PM,5:00,,,Jackson Free Throw Technical (1 PTS),14 - 15,1
+0020800031,90,2,1,1,8:02 PM,4:50,,,MISS Harrington  3PT Jump Shot,,
+0020800031,91,4,0,1,8:02 PM,4:49,,,Jackson REBOUND (Off:2 Def:0),,
+0020800031,92,1,1,1,8:02 PM,4:42,,,Maggette 24' 3PT Jump Shot (7 PTS) (Jackson 1 AST),17 - 15,-2
+0020800031,93,6,4,1,8:03 PM,4:28,Anderson OFF.Foul (P1),,,,
+0020800031,94,5,5,1,8:03 PM,4:28,Anderson Foul Turnover (P1.T2),,,,
+0020800031,95,1,42,1,8:04 PM,4:14,,,Harrington  Driving Layup (2 PTS),19 - 15,-4
+0020800031,96,2,1,1,8:04 PM,3:57,MISS Anderson 25' 3PT Jump Shot,,,,
+0020800031,97,4,0,1,8:04 PM,3:55,,,Maggette REBOUND (Off:1 Def:3),,
+0020800031,98,6,2,1,8:04 PM,3:52,Carter S.FOUL (P1.PN),,,,
+0020800031,99,3,11,1,8:04 PM,3:52,,,Maggette Free Throw 1 of 2 (8 PTS),20 - 15,-5
+0020800031,101,8,0,1,8:05 PM,3:52,SUB: Hayes FOR Simmons,,,,
+0020800031,102,3,12,1,8:05 PM,3:52,,,MISS Maggette Free Throw 2 of 2,,
+0020800031,105,4,0,1,8:05 PM,3:50,Anderson REBOUND (Off:0 Def:1),,,,
+0020800031,107,6,1,1,8:05 PM,3:34,,,Turiaf P.FOUL (P1.PN),,
+0020800031,108,9,2,1,8:06 PM,3:34,NETS Timeout: Short (Full 1 Short 1),,,,
+0020800031,109,3,11,1,8:06 PM,3:34,Lopez Free Throw 1 of 2 (1 PTS),,,20 - 16,-4
+0020800031,113,3,12,1,8:07 PM,3:34,Lopez Free Throw 2 of 2 (2 PTS),,,20 - 17,-3
+0020800031,115,5,4,1,8:07 PM,3:21,,,Jackson Traveling Turnover (P1.T4),,
+0020800031,117,1,43,1,8:08 PM,3:11,Dooling  Alley Oop Layup (2 PTS) (Carter 2 AST),,,20 - 19,-1
+0020800031,118,2,1,1,8:08 PM,2:58,Lopez BLOCK (1 BLK),,MISS Turiaf 13' Jump Shot,,
+0020800031,119,4,0,1,8:08 PM,2:57,,,Warriors Rebound,,
+0020800031,120,6,3,1,8:08 PM,2:56,Anderson L.B.FOUL (P2.PN),,,,
+0020800031,121,9,1,1,8:08 PM,2:56,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020800031,122,3,11,1,8:11 PM,2:56,,,MISS Harrington Free Throw 1 of 2,,
+0020800031,123,4,1,1,8:11 PM,2:56,,,Warriors Rebound,,
+0020800031,124,3,12,1,8:11 PM,2:56,,,Harrington Free Throw 2 of 2 (3 PTS),21 - 19,-2
+0020800031,126,2,1,1,8:11 PM,2:38,MISS Carter 21' Jump Shot,,,,
+0020800031,127,4,0,1,8:11 PM,2:37,Lopez REBOUND (Off:1 Def:0),,,,
+0020800031,128,6,2,1,8:12 PM,2:35,,,Harrington S.FOUL (P2.PN),,
+0020800031,129,3,11,1,8:12 PM,2:35,Anderson Free Throw 1 of 2 (1 PTS),,,21 - 20,-1
+0020800031,131,8,0,1,8:12 PM,2:35,SUB: Douglas-Roberts FOR Carter,,,,
+0020800031,132,3,12,1,8:12 PM,2:35,Anderson Free Throw 2 of 2 (2 PTS),,,21 - 21,TIE
+0020800031,134,2,1,1,8:13 PM,2:19,,,MISS Maggette  3PT Jump Shot,,
+0020800031,135,4,0,1,8:13 PM,2:18,Lopez REBOUND (Off:1 Def:1),,,,
+0020800031,136,6,4,1,8:13 PM,2:07,Hayes OFF.Foul (P1),,,,
+0020800031,137,5,5,1,8:13 PM,2:07,Hayes Foul Turnover (P1.T3),,,,
+0020800031,138,8,0,1,8:13 PM,2:07,,,SUB: Azubuike FOR Maggette,,
+0020800031,139,2,42,1,8:14 PM,1:50,,,MISS Watson  Driving Layup,,
+0020800031,140,4,0,1,8:14 PM,1:49,,,Turiaf REBOUND (Off:1 Def:1),,
+0020800031,141,2,4,1,8:14 PM,1:48,,,MISS Turiaf  Tip Shot,,
+0020800031,142,4,0,1,8:14 PM,1:47,,,Turiaf REBOUND (Off:2 Def:1),,
+0020800031,143,6,2,1,8:14 PM,1:47,Lopez S.FOUL (P1.PN),,,,
+0020800031,144,3,11,1,8:14 PM,1:47,,,MISS Turiaf Free Throw 1 of 2,,
+0020800031,145,4,1,1,8:14 PM,1:47,,,Warriors Rebound,,
+0020800031,146,3,12,1,8:14 PM,1:47,,,MISS Turiaf Free Throw 2 of 2,,
+0020800031,148,4,0,1,8:14 PM,1:46,Anderson REBOUND (Off:0 Def:2),,,,
+0020800031,149,1,1,1,8:15 PM,1:33,Hayes 19' Jump Shot (2 PTS) (Dooling 1 AST),,,21 - 23,2
+0020800031,150,1,1,1,8:15 PM,1:15,,,Harrington 25' 3PT Jump Shot (6 PTS) (Jackson 2 AST),24 - 23,-1
+0020800031,151,2,1,1,8:15 PM,1:00,MISS Douglas-Roberts 18' Jump Shot,,,,
+0020800031,152,4,0,1,8:15 PM,0:59,,,Warriors Rebound,,
+0020800031,153,5,2,1,8:16 PM,0:43,Douglas-Roberts STEAL (1 STL),,Jackson Lost Ball Turnover (P2.T5),,
+0020800031,154,1,42,1,8:16 PM,0:39,Anderson  Driving Layup (4 PTS) (Douglas-Roberts 1 AST),,,24 - 25,1
+0020800031,155,2,1,1,8:16 PM,0:31,,,MISS Harrington 24' 3PT Jump Shot,,
+0020800031,156,4,0,1,8:16 PM,0:30,Hayes REBOUND (Off:0 Def:1),,,,
+0020800031,157,5,2,1,8:16 PM,0:08,Douglas-Roberts Lost Ball Turnover (P1.T4),,Watson STEAL (1 STL),,
+0020800031,158,2,5,1,8:16 PM,0:04,,,MISS Watson  Layup,,
+0020800031,159,4,0,1,8:16 PM,0:02,Lopez REBOUND (Off:1 Def:2),,,,
+0020800031,160,2,1,1,8:17 PM,0:00,MISS Dooling 41' 3PT Jump Shot,,,,
+0020800031,161,4,0,1,8:17 PM,0:00,NETS Rebound,,,,
+0020800031,162,13,0,1,8:17 PM,0:00,,,,24 - 25,1
+0020800031,164,12,0,2,8:19 PM,12:00,,,,24 - 25,1
+0020800031,165,2,5,2,8:19 PM,12:00,MISS Lopez  Layup,,,,
+0020800031,166,4,0,2,8:20 PM,11:47,Lopez REBOUND (Off:2 Def:2),,,,
+0020800031,167,1,7,2,8:20 PM,11:46,Lopez  Dunk (4 PTS),,,24 - 27,3
+0020800031,169,5,1,2,8:20 PM,11:19,Lopez STEAL (1 STL),,Maggette Bad Pass Turnover (P2.T6),,
+0020800031,170,6,1,2,8:20 PM,11:12,,,Azubuike P.FOUL (P1.T1),,
+0020800031,171,8,0,2,8:20 PM,11:12,,,SUB: Biedrins FOR Turiaf,,
+0020800031,172,5,4,2,8:21 PM,11:08,Lopez Traveling Turnover (P1.T5),,,,
+0020800031,173,5,1,2,8:21 PM,10:56,Anderson STEAL (1 STL),,Biedrins Bad Pass Turnover (P2.T7),,
+0020800031,174,1,1,2,8:21 PM,10:45,Anderson 25' 3PT Jump Shot (7 PTS) (Dooling 2 AST),,,24 - 30,6
+0020800031,175,9,1,2,8:21 PM,10:42,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020800031,177,6,1,2,8:24 PM,10:33,Hayes P.FOUL (P2.T1),,,,
+0020800031,178,5,1,2,8:25 PM,10:23,Lopez STEAL (2 STL),,Maggette Bad Pass Turnover (P3.T8),,
+0020800031,179,6,1,2,8:25 PM,10:22,,,Wright P.FOUL (P1.T2),,
+0020800031,180,2,5,2,8:25 PM,10:09,MISS Anderson  Layup,,Biedrins BLOCK (1 BLK),,
+0020800031,181,4,0,2,8:25 PM,10:07,,,Warriors Rebound,,
+0020800031,182,6,3,2,8:25 PM,10:07,Lopez L.B.FOUL (P2.T2),,,,
+0020800031,183,6,4,2,8:25 PM,9:58,,,Watson OFF.Foul (P1),,
+0020800031,184,5,5,2,8:25 PM,9:58,,,Watson Foul Turnover (P1.T9),,
+0020800031,185,2,46,2,8:26 PM,9:44,MISS Anderson 8' Running Jump Shot,,Wright BLOCK (1 BLK),,
+0020800031,186,4,0,2,8:26 PM,9:42,,,Maggette REBOUND (Off:1 Def:4),,
+0020800031,187,1,8,2,8:26 PM,9:37,,,Maggette  Slam Dunk (10 PTS) (Watson 1 AST),26 - 30,4
+0020800031,188,6,2,2,8:26 PM,9:22,,,Watson S.FOUL (P2.T3),,
+0020800031,189,3,11,2,8:27 PM,9:22,MISS Dooling Free Throw 1 of 2,,,,
+0020800031,190,4,1,2,8:27 PM,9:22,NETS Rebound,,,,
+0020800031,191,3,12,2,8:27 PM,9:22,Dooling Free Throw 2 of 2 (3 PTS),,,26 - 31,5
+0020800031,193,6,17,2,8:28 PM,9:06,NETS T.Foul (Def. 3 Sec Lopez ),,,,
+0020800031,194,3,16,2,8:28 PM,9:06,,,Maggette Free Throw Technical (11 PTS),27 - 31,4
+0020800031,196,6,2,2,8:29 PM,9:00,Douglas-Roberts S.FOUL (P1.T3),,,,
+0020800031,197,3,11,2,8:29 PM,9:00,,,Maggette Free Throw 1 of 2 (12 PTS),28 - 31,3
+0020800031,199,3,12,2,8:29 PM,9:00,,,Maggette Free Throw 2 of 2 (13 PTS),29 - 31,2
+0020800031,201,2,1,2,8:30 PM,8:45,MISS Dooling 17' Jump Shot,,,,
+0020800031,202,4,0,2,8:30 PM,8:44,,,Watson REBOUND (Off:0 Def:1),,
+0020800031,203,1,42,2,8:30 PM,8:40,,,Azubuike  Driving Layup (2 PTS) (Watson 2 AST),31 - 31,TIE
+0020800031,204,6,2,2,8:30 PM,8:40,Hayes S.FOUL (P3.T4),,,,
+0020800031,205,8,0,2,8:30 PM,8:40,SUB: Carter FOR Hayes,,,,
+0020800031,206,8,0,2,8:30 PM,8:40,SUB: Harris FOR Dooling,,,,
+0020800031,207,8,0,2,8:30 PM,8:40,SUB: Yi FOR Anderson,,,,
+0020800031,208,3,10,2,8:30 PM,8:40,,,Azubuike Free Throw 1 of 1 (3 PTS),32 - 31,-1
+0020800031,210,1,52,2,8:31 PM,8:23,Carter  Alley Oop Dunk (9 PTS) (Douglas-Roberts 2 AST),,,32 - 33,1
+0020800031,211,5,8,2,8:31 PM,8:09,,,Biedrins 3 Second Violation Turnover (P3.T10),,
+0020800031,212,2,3,2,8:32 PM,7:49,MISS Lopez 8' Hook Shot,,,,
+0020800031,213,4,0,2,8:32 PM,7:48,,,Watson REBOUND (Off:0 Def:2),,
+0020800031,214,1,42,2,8:32 PM,7:43,,,Azubuike  Driving Layup (5 PTS) (Watson 3 AST),34 - 33,-1
+0020800031,215,5,1,2,8:32 PM,7:32,Yi Bad Pass Turnover (P2.T6),,,,
+0020800031,216,1,46,2,8:32 PM,7:18,,,Biedrins 5' Running Jump Shot (5 PTS),36 - 33,-3
+0020800031,217,1,76,2,8:33 PM,7:02,Douglas-Roberts  Running Finger Roll Layup (2 PTS),,,36 - 35,-1
+0020800031,218,7,5,2,8:33 PM,6:56,Yi Violation:Kicked Ball,,,,
+0020800031,219,8,0,2,8:33 PM,6:56,SUB: Boone FOR Lopez,,,,
+0020800031,220,2,1,2,8:33 PM,6:46,,,MISS Watson 16' Jump Shot,,
+0020800031,221,10,0,2,8:34 PM,6:42,Jump Ball Yi vs. Wright: Tip to Boone,,,,
+0020800031,222,4,0,2,8:34 PM,6:42,Yi REBOUND (Off:1 Def:2),,,,
+0020800031,223,2,1,2,8:34 PM,6:25,MISS Yi 21' Jump Shot,,,,
+0020800031,224,4,0,2,8:34 PM,6:23,,,Maggette REBOUND (Off:1 Def:5),,
+0020800031,225,1,7,2,8:34 PM,6:17,,,Biedrins  Dunk (7 PTS) (Watson 4 AST),38 - 35,-3
+0020800031,226,9,1,2,8:35 PM,6:08,NETS Timeout: Regular (Full 2 Short 1),,,,
+0020800031,228,6,2,2,8:38 PM,5:58,,,Maggette S.FOUL (P1.T4),,
+0020800031,229,3,11,2,8:38 PM,5:58,MISS Carter Free Throw 1 of 2,,,,
+0020800031,230,4,1,2,8:38 PM,5:58,NETS Rebound,,,,
+0020800031,231,3,12,2,8:38 PM,5:58,Carter Free Throw 2 of 2 (10 PTS),,,38 - 36,-2
+0020800031,233,2,1,2,8:38 PM,5:46,,,MISS Azubuike 15' Jump Shot,,
+0020800031,234,4,0,2,8:38 PM,5:44,Harris REBOUND (Off:0 Def:2),,,,
+0020800031,235,1,3,2,8:38 PM,5:38,Boone 7' Hook Shot (5 PTS) (Douglas-Roberts 3 AST),,,38 - 38,TIE
+0020800031,236,5,1,2,8:39 PM,5:29,,,Maggette Bad Pass Turnover (P4.T11),,
+0020800031,237,8,0,2,8:39 PM,5:29,SUB: Simmons FOR Douglas-Roberts,,,,
+0020800031,238,8,0,2,8:39 PM,5:29,,,SUB: Harrington FOR Wright,,
+0020800031,239,1,1,2,8:39 PM,5:15,Carter 17' Jump Shot (12 PTS),,,38 - 40,2
+0020800031,240,6,1,2,8:39 PM,5:05,Simmons P.FOUL (P1.PN),,,,
+0020800031,241,3,11,2,8:40 PM,5:05,,,Maggette Free Throw 1 of 2 (14 PTS),39 - 40,1
+0020800031,243,3,12,2,8:40 PM,5:05,,,Maggette Free Throw 2 of 2 (15 PTS),40 - 40,TIE
+0020800031,245,6,1,2,8:40 PM,4:54,,,Watson P.FOUL (P3.PN),,
+0020800031,246,8,0,2,8:40 PM,4:54,,,SUB: Jackson FOR Maggette,,
+0020800031,247,3,11,2,8:41 PM,4:54,Carter Free Throw 1 of 2 (13 PTS),,,40 - 41,1
+0020800031,249,3,12,2,8:41 PM,4:54,MISS Carter Free Throw 2 of 2,,,,
+0020800031,251,4,0,2,8:41 PM,4:52,,,Biedrins REBOUND (Off:0 Def:3),,
+0020800031,252,1,1,2,8:41 PM,4:42,,,Azubuike 17' Jump Shot (7 PTS),42 - 41,-1
+0020800031,253,5,4,2,8:41 PM,4:25,Carter Traveling Turnover (P1.T7),,,,
+0020800031,254,2,1,2,8:42 PM,4:07,,,MISS Azubuike 17' Jump Shot,,
+0020800031,255,4,0,2,8:42 PM,4:06,Yi REBOUND (Off:1 Def:3),,,,
+0020800031,256,6,2,2,8:42 PM,3:55,,,Azubuike S.FOUL (P2.PN),,
+0020800031,257,8,0,2,8:42 PM,3:55,,,SUB: Nelson FOR Watson,,
+0020800031,258,3,11,2,8:43 PM,3:55,MISS Harris Free Throw 1 of 2,,,,
+0020800031,259,4,1,2,8:43 PM,3:55,NETS Rebound,,,,
+0020800031,260,3,12,2,8:43 PM,3:55,Harris Free Throw 2 of 2 (3 PTS),,,42 - 42,TIE
+0020800031,262,1,5,2,8:43 PM,3:38,,,Biedrins  Layup (9 PTS) (Nelson 2 AST),44 - 42,-2
+0020800031,263,2,1,2,8:44 PM,3:21,MISS Yi 24' 3PT Jump Shot,,,,
+0020800031,264,4,0,2,8:44 PM,3:20,,,Azubuike REBOUND (Off:0 Def:1),,
+0020800031,265,2,5,2,8:44 PM,3:12,,,MISS Azubuike  Layup,,
+0020800031,266,4,0,2,8:44 PM,3:11,,,Warriors Rebound,,
+0020800031,267,2,42,2,8:44 PM,3:02,,,MISS Harrington  Driving Layup,,
+0020800031,268,4,0,2,8:44 PM,3:01,Yi REBOUND (Off:1 Def:4),,,,
+0020800031,269,6,2,2,8:44 PM,2:57,,,Nelson S.FOUL (P2.PN),,
+0020800031,270,9,4,2,8:44 PM,2:57,,,,,
+0020800031,271,3,11,2,8:47 PM,2:57,Boone Free Throw 1 of 2 (6 PTS),,,44 - 43,-1
+0020800031,273,3,12,2,8:48 PM,2:57,Boone Free Throw 2 of 2 (7 PTS),,,44 - 44,TIE
+0020800031,275,1,1,2,8:49 PM,2:17,,,Jackson 19' Jump Shot (3 PTS) (Harrington 1 AST),46 - 44,-2
+0020800031,276,2,5,2,8:49 PM,2:03,MISS Harris  Layup,,Biedrins BLOCK (2 BLK),,
+0020800031,277,4,0,2,8:49 PM,2:01,,,Nelson REBOUND (Off:0 Def:1),,
+0020800031,278,2,5,2,8:49 PM,1:59,Carter BLOCK (1 BLK),,MISS Azubuike  Layup,,
+0020800031,279,4,0,2,8:49 PM,1:58,,,Warriors Rebound,,
+0020800031,280,8,0,2,8:49 PM,1:58,SUB: Dooling FOR Harris,,,,
+0020800031,281,8,0,2,8:50 PM,1:58,SUB: Anderson FOR Yi,,,,
+0020800031,282,2,5,2,8:50 PM,1:54,,,MISS Harrington  Layup,,
+0020800031,283,4,0,2,8:50 PM,1:53,,,Biedrins REBOUND (Off:1 Def:3),,
+0020800031,284,1,5,2,8:50 PM,1:52,,,Biedrins  Layup (11 PTS),48 - 44,-4
+0020800031,285,6,2,2,8:50 PM,1:52,Simmons S.FOUL (P2.PN),,,,
+0020800031,286,3,10,2,8:50 PM,1:52,,,Biedrins Free Throw 1 of 1 (12 PTS),49 - 44,-5
+0020800031,288,2,1,2,8:51 PM,1:33,MISS Anderson 18' Jump Shot,,,,
+0020800031,289,4,0,2,8:51 PM,1:32,,,Biedrins REBOUND (Off:1 Def:4),,
+0020800031,290,1,1,2,8:51 PM,1:21,,,Nelson 18' Jump Shot (6 PTS) (Jackson 3 AST),51 - 44,-7
+0020800031,291,1,1,2,8:51 PM,0:55,Dooling 10' Jump Shot (5 PTS),,,51 - 46,-5
+0020800031,292,6,2,2,8:52 PM,0:42,Boone S.FOUL (P2.PN),,,,
+0020800031,293,3,11,2,8:52 PM,0:42,,,MISS Biedrins Free Throw 1 of 2,,
+0020800031,294,4,1,2,8:52 PM,0:42,,,Warriors Rebound,,
+0020800031,295,3,12,2,8:52 PM,0:42,,,Biedrins Free Throw 2 of 2 (13 PTS),52 - 46,-6
+0020800031,297,1,1,2,8:52 PM,0:32,Carter  3PT Jump Shot (16 PTS) (Boone 1 AST),,,52 - 49,-3
+0020800031,298,8,0,2,8:53 PM,0:27,,,SUB: Turiaf FOR Biedrins,,
+0020800031,299,5,11,2,8:53 PM,0:08,,,Warriors Turnover: Shot Clock (T#12),,
+0020800031,300,2,1,2,8:54 PM,0:03,MISS Simmons  3PT Jump Shot,,,,
+0020800031,301,4,0,2,8:54 PM,0:02,Anderson REBOUND (Off:1 Def:2),,,,
+0020800031,302,1,1,2,8:54 PM,0:00,Anderson 8' Jump Shot (9 PTS),,,52 - 51,-1
+0020800031,304,18,0,2,8:55 PM,0:00,,,,52 - 51,-1
+0020800031,305,13,0,2,8:55 PM,0:00,,,,52 - 51,-1
+0020800031,306,12,0,3,9:10 PM,12:00,,,,52 - 51,-1
+0020800031,307,2,5,3,9:11 PM,11:40,MISS Boone  Layup,,,,
+0020800031,308,4,0,3,9:11 PM,11:39,,,Biedrins REBOUND (Off:1 Def:5),,
+0020800031,309,1,5,3,9:11 PM,11:30,,,Biedrins  Layup (15 PTS) (Jackson 4 AST),54 - 51,-3
+0020800031,310,2,1,3,9:11 PM,11:05,MISS Harris 20' Jump Shot,,,,
+0020800031,311,4,0,3,9:11 PM,11:04,,,Harrington REBOUND (Off:1 Def:1),,
+0020800031,312,2,1,3,9:11 PM,10:54,,,MISS Jackson 25' 3PT Jump Shot,,
+0020800031,313,4,0,3,9:11 PM,10:52,Boone REBOUND (Off:2 Def:3),,,,
+0020800031,314,1,42,3,9:12 PM,10:49,Harris  Driving Layup (5 PTS),,,54 - 53,-1
+0020800031,315,6,2,3,9:12 PM,10:49,,,Nelson S.FOUL (P3.T1),,
+0020800031,316,3,10,3,9:12 PM,10:49,Harris Free Throw 1 of 1 (6 PTS),,,54 - 54,TIE
+0020800031,318,6,1,3,9:13 PM,10:31,Harris P.FOUL (P3.T1),,,,
+0020800031,319,2,1,3,9:13 PM,10:19,,,MISS Jackson 25' 3PT Jump Shot,,
+0020800031,320,4,0,3,9:13 PM,10:18,,,Nelson REBOUND (Off:1 Def:1),,
+0020800031,321,5,1,3,9:13 PM,10:15,Boone STEAL (1 STL),,Nelson Bad Pass Turnover (P1.T13),,
+0020800031,322,5,2,3,9:13 PM,10:12,Simmons Lost Ball Turnover (P1.T8),,Maggette STEAL (1 STL),,
+0020800031,323,6,1,3,9:13 PM,10:09,Carter P.FOUL (P2.T2),,,,
+0020800031,324,3,11,3,9:14 PM,10:09,,,Biedrins Free Throw 1 of 2 (16 PTS),55 - 54,-1
+0020800031,326,3,12,3,9:14 PM,10:09,,,Biedrins Free Throw 2 of 2 (17 PTS),56 - 54,-2
+0020800031,328,5,2,3,9:14 PM,9:55,Yi Lost Ball Turnover (P3.T9),,Harrington STEAL (1 STL),,
+0020800031,329,1,42,3,9:14 PM,9:49,,,Nelson  Driving Layup (8 PTS) (Jackson 5 AST),58 - 54,-4
+0020800031,330,2,56,3,9:15 PM,9:22,MISS Boone 7' Running Hook Shot,,,,
+0020800031,331,4,0,3,9:15 PM,9:21,,,Jackson REBOUND (Off:2 Def:1),,
+0020800031,332,1,1,3,9:15 PM,9:06,,,Harrington 25' 3PT Jump Shot (9 PTS) (Jackson 6 AST),61 - 54,-7
+0020800031,333,9,1,3,9:15 PM,9:06,NETS Timeout: Regular (Full 3 Short 1),,,,
+0020800031,336,1,82,3,9:18 PM,8:46,Harris 15' Driving Bank Shot (8 PTS),,,61 - 56,-5
+0020800031,337,2,5,3,9:18 PM,8:32,,,MISS Biedrins  Layup,,
+0020800031,338,4,0,3,9:18 PM,8:30,,,Biedrins REBOUND (Off:2 Def:5),,
+0020800031,339,1,72,3,9:18 PM,8:28,,,Biedrins  Putback Layup (19 PTS),63 - 56,-7
+0020800031,340,2,1,3,9:18 PM,8:16,MISS Carter 28' 3PT Jump Shot,,,,
+0020800031,341,4,0,3,9:18 PM,8:15,Boone REBOUND (Off:3 Def:3),,,,
+0020800031,342,1,5,3,9:18 PM,8:12,Carter  Layup (18 PTS) (Harris 2 AST),,,63 - 58,-5
+0020800031,343,1,1,3,9:18 PM,7:57,,,Harrington  3PT Jump Shot (12 PTS) (Jackson 7 AST),66 - 58,-8
+0020800031,344,2,1,3,9:19 PM,7:43,MISS Harris 25' 3PT Jump Shot,,,,
+0020800031,345,4,0,3,9:19 PM,7:42,,,Jackson REBOUND (Off:2 Def:2),,
+0020800031,346,6,1,3,9:19 PM,7:38,Simmons P.FOUL (P3.T3),,,,
+0020800031,347,8,0,3,9:19 PM,7:38,SUB: Anderson FOR Boone,,,,
+0020800031,348,8,0,3,9:19 PM,7:38,SUB: Lopez FOR Yi,,,,
+0020800031,349,2,46,3,9:20 PM,7:26,,,MISS Biedrins 7' Running Jump Shot,,
+0020800031,350,4,0,3,9:20 PM,7:24,Lopez REBOUND (Off:2 Def:3),,,,
+0020800031,351,1,1,3,9:20 PM,7:02,Anderson 27' 3PT Jump Shot (12 PTS) (Harris 3 AST),,,66 - 61,-5
+0020800031,352,2,1,3,9:20 PM,6:46,,,MISS Harrington 25' 3PT Jump Shot,,
+0020800031,353,4,0,3,9:20 PM,6:44,Harris REBOUND (Off:0 Def:3),,,,
+0020800031,354,5,1,3,9:20 PM,6:39,Harris Bad Pass Turnover (P1.T10),,Biedrins STEAL (1 STL),,
+0020800031,355,6,2,3,9:21 PM,6:15,Lopez S.FOUL (P3.T4),,,,
+0020800031,356,3,11,3,9:21 PM,6:15,,,Biedrins Free Throw 1 of 2 (20 PTS),67 - 61,-6
+0020800031,358,3,12,3,9:22 PM,6:15,,,Biedrins Free Throw 2 of 2 (21 PTS),68 - 61,-7
+0020800031,360,1,3,3,9:22 PM,5:55,Lopez 5' Hook Shot (6 PTS) (Carter 3 AST),,,68 - 63,-5
+0020800031,361,1,1,3,9:22 PM,5:41,,,Jackson 25' 3PT Jump Shot (6 PTS) (Nelson 3 AST),71 - 63,-8
+0020800031,362,2,1,3,9:23 PM,5:25,MISS Lopez 8' Jump Shot,,,,
+0020800031,363,4,0,3,9:23 PM,5:24,,,Biedrins REBOUND (Off:2 Def:6),,
+0020800031,364,2,46,3,9:23 PM,5:18,,,MISS Nelson 7' Running Jump Shot,,
+0020800031,365,4,0,3,9:23 PM,5:16,Lopez REBOUND (Off:2 Def:4),,,,
+0020800031,366,2,5,3,9:23 PM,5:00,MISS Harris  Layup,,,,
+0020800031,367,4,0,3,9:23 PM,4:59,,,Biedrins REBOUND (Off:2 Def:7),,
+0020800031,368,2,5,3,9:23 PM,4:53,,,MISS Maggette  Layup,,
+0020800031,369,4,0,3,9:23 PM,4:52,,,Harrington REBOUND (Off:2 Def:1),,
+0020800031,370,2,4,3,9:23 PM,4:50,,,MISS Harrington  Tip Shot,,
+0020800031,371,4,0,3,9:23 PM,4:49,,,Maggette REBOUND (Off:2 Def:5),,
+0020800031,372,2,1,3,9:23 PM,4:43,,,MISS Jackson 25' 3PT Jump Shot,,
+0020800031,373,4,0,3,9:23 PM,4:42,Anderson REBOUND (Off:1 Def:3),,,,
+0020800031,374,2,42,3,9:24 PM,4:29,MISS Carter  Driving Layup,,,,
+0020800031,375,4,0,3,9:24 PM,4:28,Harris REBOUND (Off:1 Def:3),,,,
+0020800031,376,2,63,3,9:24 PM,4:22,MISS Harris 14' Fadeaway Jumper,,,,
+0020800031,377,4,0,3,9:24 PM,4:20,,,Biedrins REBOUND (Off:2 Def:8),,
+0020800031,378,6,2,3,9:24 PM,4:17,Simmons S.FOUL (P4.PN),,,,
+0020800031,379,8,0,3,9:24 PM,4:17,,,SUB: Turiaf FOR Biedrins,,
+0020800031,380,8,0,3,9:24 PM,4:17,SUB: Hayes FOR Simmons,,,,
+0020800031,381,8,0,3,9:24 PM,4:17,SUB: Dooling FOR Harris,,,,
+0020800031,382,9,1,3,9:24 PM,4:17,NETS Timeout: Regular (Full 4 Short 1),,,,
+0020800031,384,3,11,3,9:28 PM,4:17,,,MISS Harrington Free Throw 1 of 2,,
+0020800031,385,4,1,3,9:28 PM,4:17,,,Warriors Rebound,,
+0020800031,386,3,12,3,9:28 PM,4:17,,,Harrington Free Throw 2 of 2 (13 PTS),72 - 63,-9
+0020800031,388,5,2,3,9:28 PM,3:59,Lopez Lost Ball Turnover (P2.T11),,Maggette STEAL (2 STL),,
+0020800031,389,6,2,3,9:28 PM,3:56,Hayes S.FOUL (P4.PN),,,,
+0020800031,390,3,11,3,9:28 PM,3:56,,,MISS Nelson Free Throw 1 of 2,,
+0020800031,391,4,1,3,9:28 PM,3:56,,,Warriors Rebound,,
+0020800031,392,3,12,3,9:29 PM,3:56,,,MISS Nelson Free Throw 2 of 2,,
+0020800031,394,4,0,3,9:29 PM,3:55,Dooling REBOUND (Off:0 Def:1),,,,
+0020800031,395,2,1,3,9:29 PM,3:31,MISS Carter 27' 3PT Jump Shot,,,,
+0020800031,396,4,0,3,9:29 PM,3:30,,,Maggette REBOUND (Off:2 Def:6),,
+0020800031,397,1,75,3,9:29 PM,3:18,,,Jackson  Driving Finger Roll Layup (8 PTS),74 - 63,-11
+0020800031,398,2,42,3,9:30 PM,2:57,MISS Hayes  Driving Layup,,Turiaf BLOCK (1 BLK),,
+0020800031,399,4,0,3,9:30 PM,2:55,,,Warriors Rebound,,
+0020800031,400,8,0,3,9:30 PM,2:55,SUB: Douglas-Roberts FOR Carter,,,,
+0020800031,401,8,0,3,9:30 PM,2:55,,,SUB: Watson FOR Nelson,,
+0020800031,402,2,5,3,9:30 PM,2:34,Lopez BLOCK (2 BLK),,MISS Maggette  Layup,,
+0020800031,403,4,0,3,9:30 PM,2:32,Lopez REBOUND (Off:2 Def:5),,,,
+0020800031,404,5,2,3,9:30 PM,2:30,Dooling Lost Ball Turnover (P1.T12),,Jackson STEAL (1 STL),,
+0020800031,405,1,1,3,9:30 PM,2:26,,,Jackson 25' 3PT Jump Shot (11 PTS),77 - 63,-14
+0020800031,406,7,1,3,9:31 PM,2:26,,,Warriors Violation: Delay of game Violation,,
+0020800031,407,5,15,3,9:31 PM,2:10,Lopez Offensive Goaltending Turnover (P3.T13),,,,
+0020800031,408,1,7,3,9:31 PM,1:56,,,Jackson  Dunk (13 PTS),79 - 63,-16
+0020800031,409,9,1,3,9:31 PM,1:54,NETS Timeout: Regular (Full 5 Short 1),,,,
+0020800031,411,8,0,3,9:33 PM,1:54,SUB: Najera FOR Anderson,,,,
+0020800031,412,1,51,3,9:34 PM,1:41,Dooling  Reverse Dunk (7 PTS) (Lopez 1 AST),,,79 - 65,-14
+0020800031,413,6,2,3,9:34 PM,1:25,Najera S.FOUL (P1.PN),,,,
+0020800031,414,3,11,3,9:34 PM,1:25,,,Harrington Free Throw 1 of 2 (14 PTS),80 - 65,-15
+0020800031,416,3,12,3,9:34 PM,1:25,,,MISS Harrington Free Throw 2 of 2,,
+0020800031,418,4,0,3,9:34 PM,1:24,Hayes REBOUND (Off:0 Def:2),,,,
+0020800031,419,1,1,3,9:35 PM,1:07,Hayes 20' Jump Shot (4 PTS) (Dooling 3 AST),,,80 - 67,-13
+0020800031,420,1,42,3,9:35 PM,1:00,,,Watson  Driving Layup (2 PTS),82 - 67,-15
+0020800031,421,1,47,3,9:35 PM,0:46,Lopez 8' Turnaround Jump Shot (8 PTS) (Dooling 4 AST),,,82 - 69,-13
+0020800031,422,6,1,3,9:36 PM,0:37,Lopez P.FOUL (P4.PN),,,,
+0020800031,423,8,0,3,9:36 PM,0:37,,,SUB: Azubuike FOR Harrington,,
+0020800031,424,3,11,3,9:36 PM,0:37,,,Watson Free Throw 1 of 2 (3 PTS),83 - 69,-14
+0020800031,426,3,12,3,9:36 PM,0:37,,,Watson Free Throw 2 of 2 (4 PTS),84 - 69,-15
+0020800031,428,2,1,3,9:37 PM,0:27,MISS Najera 24' 3PT Jump Shot,,,,
+0020800031,429,4,0,3,9:37 PM,0:27,,,Warriors Rebound,,
+0020800031,430,2,1,3,9:37 PM,0:01,,,MISS Jackson 19' Jump Shot,,
+0020800031,431,4,0,3,9:37 PM,0:01,,,Warriors Rebound,,
+0020800031,432,6,3,3,9:38 PM,0:00,Lopez L.B.FOUL (P5.PN),,,,
+0020800031,433,3,11,3,9:38 PM,0:00,,,MISS Maggette Free Throw 1 of 2,,
+0020800031,434,4,1,3,9:38 PM,0:00,,,Warriors Rebound,,
+0020800031,435,8,0,3,9:38 PM,0:00,SUB: Boone FOR Lopez,,,,
+0020800031,436,3,12,3,9:38 PM,0:00,,,Maggette Free Throw 2 of 2 (16 PTS),85 - 69,-16
+0020800031,438,13,0,3,9:38 PM,0:00,,,,85 - 69,-16
+0020800031,440,12,0,4,9:41 PM,12:00,,,,85 - 69,-16
+0020800031,441,6,1,4,9:41 PM,11:57,Carter P.FOUL (P3.T1),,,,
+0020800031,442,2,42,4,9:42 PM,11:55,,,MISS Maggette  Driving Layup,,
+0020800031,443,4,0,4,9:42 PM,11:53,NETS Rebound,,,,
+0020800031,444,2,1,4,9:42 PM,11:37,MISS Hayes 24' 3PT Jump Shot,,,,
+0020800031,445,4,0,4,9:42 PM,11:36,Najera REBOUND (Off:1 Def:0),,,,
+0020800031,446,5,2,4,9:42 PM,11:22,Boone Lost Ball Turnover (P1.T14),,Biedrins STEAL (2 STL),,
+0020800031,447,2,1,4,9:43 PM,11:09,,,MISS Azubuike 24' 3PT Jump Shot,,
+0020800031,448,4,0,4,9:43 PM,11:08,Carter REBOUND (Off:0 Def:1),,,,
+0020800031,449,2,1,4,9:43 PM,10:53,MISS Dooling 26' 3PT Jump Shot,,,,
+0020800031,450,4,0,4,9:43 PM,10:51,Najera REBOUND (Off:2 Def:0),,,,
+0020800031,451,1,5,4,9:43 PM,10:49,Najera  Layup (2 PTS),,,85 - 71,-14
+0020800031,452,2,47,4,9:43 PM,10:21,,,MISS Maggette 19' Turnaround Jump Shot,,
+0020800031,453,4,0,4,9:43 PM,10:20,,,Azubuike REBOUND (Off:1 Def:1),,
+0020800031,454,1,1,4,9:44 PM,10:12,,,Jackson 25' 3PT Jump Shot (16 PTS) (Azubuike 1 AST),88 - 71,-17
+0020800031,455,5,39,4,9:44 PM,9:57,Najera Step Out of Bounds Turnover (P1.T15),,,,
+0020800031,456,8,0,4,9:44 PM,9:57,SUB: Harris FOR Hayes,,,,
+0020800031,457,1,1,4,9:45 PM,9:37,,,Jackson 16' Jump Shot (18 PTS),90 - 71,-19
+0020800031,458,1,7,4,9:45 PM,9:25,Boone  Dunk (9 PTS) (Harris 4 AST),,,90 - 73,-17
+0020800031,459,6,1,4,9:45 PM,9:08,Carter P.FOUL (P4.T2),,,,
+0020800031,461,8,0,4,9:45 PM,9:08,SUB: Simmons FOR Najera,,,,
+0020800031,462,2,1,4,9:46 PM,8:59,,,MISS Jackson 17' Jump Shot,,
+0020800031,463,4,0,4,9:46 PM,8:58,Carter REBOUND (Off:0 Def:2),,,,
+0020800031,464,6,2,4,9:46 PM,8:52,,,Azubuike S.FOUL (P3.T1),,
+0020800031,465,9,4,4,9:46 PM,8:52,,,,,
+0020800031,467,3,11,4,9:49 PM,8:52,Simmons Free Throw 1 of 2 (4 PTS),,,90 - 74,-16
+0020800031,469,3,12,4,9:49 PM,8:52,Simmons Free Throw 2 of 2 (5 PTS),,,90 - 75,-15
+0020800031,471,2,46,4,9:49 PM,8:40,,,MISS Maggette 10' Running Jump Shot,,
+0020800031,472,4,0,4,9:50 PM,8:39,,,Warriors Rebound,,
+0020800031,473,5,2,4,9:50 PM,8:35,Dooling STEAL (1 STL),,Azubuike Lost Ball Turnover (P1.T14),,
+0020800031,474,2,5,4,9:51 PM,8:16,MISS Boone  Layup,,,,
+0020800031,475,4,0,4,9:51 PM,8:14,Boone REBOUND (Off:4 Def:3),,,,
+0020800031,476,2,4,4,9:51 PM,8:13,MISS Boone  Tip Shot,,,,
+0020800031,477,4,0,4,9:51 PM,8:13,,,Biedrins REBOUND (Off:2 Def:9),,
+0020800031,478,6,1,4,9:51 PM,8:00,Simmons P.FOUL (P5.T3),,,,
+0020800031,479,1,5,4,9:51 PM,7:45,,,Biedrins  Layup (23 PTS) (Jackson 8 AST),92 - 75,-17
+0020800031,480,6,2,4,9:52 PM,7:38,,,Biedrins S.FOUL (P3.T2),,
+0020800031,481,8,0,4,9:52 PM,7:38,SUB: Lopez FOR Boone,,,,
+0020800031,482,3,11,4,9:52 PM,7:38,Harris Free Throw 1 of 2 (9 PTS),,,92 - 76,-16
+0020800031,484,3,12,4,9:52 PM,7:38,Harris Free Throw 2 of 2 (10 PTS),,,92 - 77,-15
+0020800031,486,2,1,4,9:53 PM,7:16,,,MISS Jackson 25' 3PT Jump Shot,,
+0020800031,487,4,0,4,9:53 PM,7:15,Carter REBOUND (Off:0 Def:3),,,,
+0020800031,488,2,1,4,9:53 PM,7:09,MISS Harris 25' 3PT Jump Shot,,,,
+0020800031,489,4,0,4,9:53 PM,7:07,,,Maggette REBOUND (Off:2 Def:7),,
+0020800031,490,6,2,4,9:53 PM,7:05,Harris S.FOUL (P4.T4),,,,
+0020800031,491,3,11,4,9:53 PM,7:05,,,Jackson Free Throw 1 of 2 (19 PTS),93 - 77,-16
+0020800031,493,3,12,4,9:53 PM,7:05,,,MISS Jackson Free Throw 2 of 2,,
+0020800031,495,4,0,4,9:54 PM,7:04,Lopez REBOUND (Off:2 Def:6),,,,
+0020800031,496,1,7,4,9:54 PM,6:51,Lopez  Dunk (10 PTS) (Dooling 5 AST),,,93 - 79,-14
+0020800031,497,6,1,4,9:54 PM,6:33,Lopez P.FOUL (P6.PN),,,,
+0020800031,498,8,0,4,9:55 PM,6:33,SUB: Anderson FOR Lopez,,,,
+0020800031,499,3,11,4,9:55 PM,6:33,,,Watson Free Throw 1 of 2 (5 PTS),94 - 79,-15
+0020800031,501,3,12,4,9:55 PM,6:33,,,MISS Watson Free Throw 2 of 2,,
+0020800031,503,4,0,4,9:55 PM,6:31,Dooling REBOUND (Off:0 Def:2),,,,
+0020800031,504,1,1,4,9:55 PM,6:14,Carter 19' Jump Shot (20 PTS),,,94 - 81,-13
+0020800031,505,2,1,4,9:56 PM,5:59,,,MISS Maggette 24' 3PT Jump Shot,,
+0020800031,506,4,0,4,9:56 PM,5:58,,,Watson REBOUND (Off:1 Def:2),,
+0020800031,507,2,47,4,9:56 PM,5:40,,,MISS Jackson 14' Turnaround Jump Shot,,
+0020800031,508,4,0,4,9:56 PM,5:39,NETS Rebound,,,,
+0020800031,509,6,3,4,9:56 PM,5:38,,,Maggette L.B.FOUL (P2.T3),,
+0020800031,510,9,1,4,9:57 PM,5:38,NETS Timeout: Regular (Full 6 Short 1),,,,
+0020800031,512,8,0,4,9:59 PM,5:38,,,SUB: Nelson FOR Biedrins,,
+0020800031,513,6,4,4,9:59 PM,5:32,Anderson OFF.Foul (P3),,,,
+0020800031,514,5,5,4,9:59 PM,5:32,Anderson Foul Turnover (P2.T16),,,,
+0020800031,515,1,1,4,10:00 PM,5:16,,,Azubuike 12' Jump Shot (9 PTS),96 - 81,-15
+0020800031,516,8,0,4,10:00 PM,5:01,SUB: Boone FOR Anderson,,,,
+0020800031,517,8,0,4,10:01 PM,5:01,,,SUB: Biedrins FOR Nelson,,
+0020800031,518,8,0,4,10:01 PM,5:01,SUB: Hayes FOR Carter,,,,
+0020800031,519,1,42,4,10:01 PM,4:57,Harris  Driving Layup (12 PTS) (Boone 2 AST),,,96 - 83,-13
+0020800031,520,6,1,4,10:01 PM,4:44,Dooling P.FOUL (P1.PN),,,,
+0020800031,521,3,11,4,10:02 PM,4:44,,,MISS Jackson Free Throw 1 of 2,,
+0020800031,522,4,1,4,10:02 PM,4:44,,,Warriors Rebound,,
+0020800031,523,3,12,4,10:02 PM,4:44,,,Jackson Free Throw 2 of 2 (20 PTS),97 - 83,-14
+0020800031,525,6,1,4,10:02 PM,4:38,,,Azubuike P.FOUL (P4.T4),,
+0020800031,526,2,46,4,10:03 PM,4:26,MISS Simmons 6' Running Jump Shot,,,,
+0020800031,527,4,0,4,10:03 PM,4:24,Boone REBOUND (Off:5 Def:3),,,,
+0020800031,528,2,4,4,10:03 PM,4:23,MISS Boone  Tip Shot,,,,
+0020800031,529,4,0,4,10:03 PM,4:22,Boone REBOUND (Off:6 Def:3),,,,
+0020800031,530,1,5,4,10:03 PM,4:21,Boone  Layup (11 PTS),,,97 - 85,-12
+0020800031,531,6,1,4,10:03 PM,4:16,Boone P.FOUL (P3.PN),,,,
+0020800031,532,3,11,4,10:03 PM,4:16,,,Jackson Free Throw 1 of 2 (21 PTS),98 - 85,-13
+0020800031,534,3,12,4,10:03 PM,4:16,,,Jackson Free Throw 2 of 2 (22 PTS),99 - 85,-14
+0020800031,536,2,1,4,10:04 PM,4:00,MISS Simmons 19' Jump Shot,,,,
+0020800031,537,4,0,4,10:04 PM,3:59,Boone REBOUND (Off:7 Def:3),,,,
+0020800031,538,2,5,4,10:04 PM,3:52,MISS Dooling  Layup,,,,
+0020800031,539,4,0,4,10:04 PM,3:51,,,Jackson REBOUND (Off:2 Def:3),,
+0020800031,540,6,4,4,10:04 PM,3:30,,,Watson OFF.Foul (P4),,
+0020800031,541,5,5,4,10:04 PM,3:30,,,Watson Foul Turnover (P2.T15),,
+0020800031,542,1,5,4,10:05 PM,3:19,Boone  Layup (13 PTS) (Harris 5 AST),,,99 - 87,-12
+0020800031,543,2,47,4,10:05 PM,2:54,,,MISS Jackson 17' Turnaround Jump Shot,,
+0020800031,544,4,0,4,10:05 PM,2:53,Boone REBOUND (Off:7 Def:4),,,,
+0020800031,545,1,1,4,10:05 PM,2:45,Hayes  3PT Jump Shot (7 PTS) (Dooling 6 AST),,,99 - 90,-9
+0020800031,546,5,4,4,10:06 PM,2:27,,,Jackson Traveling Turnover (P3.T16),,
+0020800031,547,9,1,4,10:06 PM,2:27,,,Warriors Timeout: Regular (Reg.3 Short 0),,
+0020800031,549,8,0,4,10:08 PM,2:27,,,SUB: Nelson FOR Biedrins,,
+0020800031,550,6,2,4,10:09 PM,2:17,,,Azubuike S.FOUL (P5.PN),,
+0020800031,551,3,11,4,10:09 PM,2:17,Harris Free Throw 1 of 2 (13 PTS),,,99 - 91,-8
+0020800031,553,8,0,4,10:09 PM,2:17,SUB: Carter FOR Simmons,,,,
+0020800031,554,3,12,4,10:09 PM,2:17,MISS Harris Free Throw 2 of 2,,,,
+0020800031,556,4,0,4,10:09 PM,2:16,,,Azubuike REBOUND (Off:1 Def:2),,
+0020800031,557,5,39,4,10:10 PM,2:11,,,Azubuike Step Out of Bounds Turnover (P2.T17),,
+0020800031,558,2,1,4,10:10 PM,1:58,MISS Harris 19' Jump Shot,,,,
+0020800031,559,4,0,4,10:10 PM,1:57,,,Maggette REBOUND (Off:2 Def:8),,
+0020800031,560,6,2,4,10:11 PM,1:35,Carter S.FOUL (P5.PN),,,,
+0020800031,561,3,11,4,10:11 PM,1:35,,,MISS Watson Free Throw 1 of 2,,
+0020800031,562,4,1,4,10:11 PM,1:35,,,Warriors Rebound,,
+0020800031,563,3,12,4,10:11 PM,1:35,,,MISS Watson Free Throw 2 of 2,,
+0020800031,565,4,0,4,10:11 PM,1:34,Boone REBOUND (Off:7 Def:5),,,,
+0020800031,566,2,5,4,10:11 PM,1:30,MISS Harris  Layup,,,,
+0020800031,567,4,0,4,10:11 PM,1:29,Boone REBOUND (Off:8 Def:5),,,,
+0020800031,568,1,87,4,10:11 PM,1:28,Boone  Putback Dunk (15 PTS),,,99 - 93,-6
+0020800031,569,2,1,4,10:12 PM,1:05,,,MISS Watson 19' Jump Shot,,
+0020800031,570,4,0,4,10:12 PM,1:04,,,Nelson REBOUND (Off:2 Def:1),,
+0020800031,571,6,1,4,10:12 PM,0:53,Harris P.FOUL (P5.PN),,,,
+0020800031,572,3,11,4,10:12 PM,0:53,,,MISS Jackson Free Throw 1 of 2,,
+0020800031,573,4,1,4,10:12 PM,0:53,,,Warriors Rebound,,
+0020800031,574,3,12,4,10:13 PM,0:53,,,Jackson Free Throw 2 of 2 (23 PTS),100 - 93,-7
+0020800031,576,2,46,4,10:13 PM,0:45,MISS Carter 9' Running Jump Shot,,,,
+0020800031,577,4,0,4,10:13 PM,0:45,Boone REBOUND (Off:9 Def:5),,,,
+0020800031,578,1,72,4,10:13 PM,0:45,Boone  Putback Layup (17 PTS),,,100 - 95,-5
+0020800031,579,6,1,4,10:13 PM,0:43,Boone P.FOUL (P4.PN),,,,
+0020800031,580,3,11,4,10:14 PM,0:43,,,Maggette Free Throw 1 of 2 (17 PTS),101 - 95,-6
+0020800031,582,3,12,4,10:14 PM,0:43,,,Maggette Free Throw 2 of 2 (18 PTS),102 - 95,-7
+0020800031,584,5,2,4,10:14 PM,0:33,Harris Lost Ball Turnover (P2.T17),,Nelson STEAL (1 STL),,
+0020800031,585,6,1,4,10:14 PM,0:33,Boone P.FOUL (P5.PN),,,,
+0020800031,586,3,11,4,10:15 PM,0:33,,,MISS Nelson Free Throw 1 of 2,,
+0020800031,594,4,0,4,10:15 PM,0:33,,,Warriors Rebound,,
+0020800031,588,3,12,4,10:15 PM,0:33,,,Nelson Free Throw 2 of 2 (9 PTS),103 - 95,-8
+0020800031,590,2,46,4,10:15 PM,0:26,MISS Dooling 8' Running Jump Shot,,Jackson BLOCK (1 BLK),,
+0020800031,591,4,0,4,10:15 PM,0:25,NETS Rebound,,,,
+0020800031,593,6,18,4,10:16 PM,0:25,,,Warriors Foul,,
+0020800031,595,3,16,4,10:16 PM,0:25,MISS Carter Free Throw Technical,,,,
+0020800031,596,4,1,4,10:16 PM,0:25,NETS Rebound,,,,
+0020800031,598,1,42,4,10:17 PM,0:19,Dooling  Driving Layup (9 PTS) (Carter 4 AST),,,103 - 97,-6
+0020800031,599,6,1,4,10:17 PM,0:19,Dooling P.FOUL (P2.PN),,,,
+0020800031,601,3,11,4,10:18 PM,0:19,,,Maggette Free Throw 1 of 2 (19 PTS),104 - 97,-7
+0020800031,604,3,12,4,10:18 PM,0:19,,,Maggette Free Throw 2 of 2 (20 PTS),105 - 97,-8
+0020800031,607,9,1,4,10:19 PM,0:19,NETS Timeout: Regular (Full 7 Short 1),,,,
+0020800031,608,8,0,4,10:20 PM,0:19,SUB: Simmons FOR Boone,,,,
+0020800031,609,2,1,4,10:20 PM,0:16,MISS Carter 25' 3PT Jump Shot,,,,
+0020800031,610,4,0,4,10:20 PM,0:15,,,Warriors Rebound,,
+0020800031,611,13,0,4,10:21 PM,0:00,,,,105 - 97,-8

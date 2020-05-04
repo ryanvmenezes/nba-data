@@ -1,0 +1,450 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021301040,0,12,0,1,1:11 PM,12:00,,,,,
+0021301040,1,10,0,1,1:11 PM,12:00,Jump Ball Valanciunas vs. Millsap: Tip to Johnson,,,,
+0021301040,2,2,65,1,1:11 PM,11:45,MISS Valanciunas 4' Jump Hook Shot,,,,
+0021301040,3,4,0,1,1:11 PM,11:44,,,Millsap REBOUND (Off:0 Def:1),,
+0021301040,4,5,1,1,1:12 PM,11:27,Johnson STEAL (1 STL),,Millsap Bad Pass Turnover (P1.T1),,
+0021301040,5,5,2,1,1:12 PM,11:12,Valanciunas Lost Ball Turnover (P1.T1),,Carroll STEAL (1 STL),,
+0021301040,6,5,1,1,1:12 PM,11:08,Lowry STEAL (1 STL),,Antic Bad Pass Turnover (P1.T2),,
+0021301040,7,6,2,1,1:12 PM,11:08,,,Teague S.FOUL (P1.T1),,
+0021301040,8,3,11,1,1:12 PM,11:08,Valanciunas Free Throw 1 of 2 (1 PTS),,,0 - 1,1
+0021301040,10,3,12,1,1:13 PM,11:08,Valanciunas Free Throw 2 of 2 (2 PTS),,,0 - 2,2
+0021301040,12,1,1,1,1:13 PM,10:58,,,Teague  3PT Jump Shot (3 PTS),3 - 2,-1
+0021301040,13,2,1,1,1:13 PM,10:40,MISS Johnson 21' Jump Shot,,,,
+0021301040,14,4,0,1,1:13 PM,10:39,,,Mack REBOUND (Off:0 Def:1),,
+0021301040,15,2,1,1,1:14 PM,10:22,,,MISS Antic  3PT Jump Shot,,
+0021301040,16,4,0,1,1:14 PM,10:20,Johnson REBOUND (Off:0 Def:1),,,,
+0021301040,17,5,1,1,1:14 PM,10:12,DeRozan Bad Pass Turnover (P1.T2),,Carroll STEAL (2 STL),,
+0021301040,18,6,1,1,1:14 PM,10:11,Johnson P.FOUL (P1.T1),,,,
+0021301040,19,2,63,1,1:14 PM,10:02,,,MISS Millsap 15' Fadeaway Jumper,,
+0021301040,20,4,0,1,1:14 PM,10:01,,,Antic REBOUND (Off:1 Def:0),,
+0021301040,21,1,4,1,1:14 PM,9:59,,,Antic 2' Tip Shot (2 PTS),5 - 2,-3
+0021301040,22,2,1,1,1:15 PM,9:41,MISS Ross  3PT Jump Shot,,,,
+0021301040,23,4,0,1,1:15 PM,9:40,,,Millsap REBOUND (Off:0 Def:2),,
+0021301040,25,5,1,1,1:15 PM,9:29,Lowry STEAL (2 STL),,Teague Bad Pass Turnover (P1.T3),,
+0021301040,26,1,1,1,1:15 PM,9:24,Ross 25' 3PT Jump Shot (3 PTS) (DeRozan 1 AST),,,5 - 5,TIE
+0021301040,27,1,1,1,1:15 PM,9:07,,,Carroll 26' 3PT Jump Shot (3 PTS) (Antic 1 AST),8 - 5,-3
+0021301040,28,6,2,1,1:15 PM,9:07,Valanciunas S.FOUL (P1.T2),,,,
+0021301040,29,3,10,1,1:15 PM,9:07,,,Carroll Free Throw 1 of 1 (4 PTS),9 - 5,-4
+0021301040,31,2,1,1,1:16 PM,8:50,MISS Lowry 25' 3PT Jump Shot,,,,
+0021301040,32,4,0,1,1:16 PM,8:49,,,Millsap REBOUND (Off:0 Def:3),,
+0021301040,33,2,77,1,1:16 PM,8:41,,,MISS Mack 4' Driving Jump Shot,,
+0021301040,34,4,0,1,1:16 PM,8:39,Valanciunas REBOUND (Off:0 Def:1),,,,
+0021301040,35,2,1,1,1:16 PM,8:16,MISS DeRozan 18' Jump Shot,,,,
+0021301040,36,4,0,1,1:17 PM,8:16,RAPTORS Rebound,,,,
+0021301040,37,5,11,1,1:17 PM,8:16,RAPTORS Turnover: Shot Clock (T#3),,,,
+0021301040,38,1,65,1,1:17 PM,8:02,,,Millsap 5' Jump Hook Shot (2 PTS),11 - 5,-6
+0021301040,39,9,1,1,1:17 PM,7:54,RAPTORS Timeout: Regular (Full 1 Short 0),,,,
+0021301040,40,8,0,1,1:19 PM,7:54,SUB: Hansbrough FOR Valanciunas,,,,
+0021301040,42,2,1,1,1:20 PM,7:37,MISS Lowry 26' 3PT Jump Shot,,,,
+0021301040,43,4,0,1,1:20 PM,7:36,,,Millsap REBOUND (Off:0 Def:4),,
+0021301040,44,6,2,1,1:21 PM,7:13,Johnson S.FOUL (P2.T3),,,,
+0021301040,45,3,11,1,1:21 PM,7:13,,,Teague Free Throw 1 of 2 (4 PTS),12 - 5,-7
+0021301040,47,8,0,1,1:21 PM,7:13,SUB: Vasquez FOR Lowry,,,,
+0021301040,48,3,12,1,1:21 PM,7:13,,,Teague Free Throw 2 of 2 (5 PTS),13 - 5,-8
+0021301040,50,1,50,1,1:22 PM,6:59,Johnson 1' Running Dunk (2 PTS) (DeRozan 2 AST),,,13 - 7,-6
+0021301040,51,6,1,1,1:22 PM,6:40,Hansbrough P.FOUL (P1.T4),,,,
+0021301040,52,8,0,1,1:22 PM,6:40,SUB: Valanciunas FOR Johnson,,,,
+0021301040,53,2,1,1,1:22 PM,6:34,,,MISS Antic 26' 3PT Jump Shot,,
+0021301040,54,4,0,1,1:22 PM,6:33,Hansbrough REBOUND (Off:0 Def:1),,,,
+0021301040,55,1,1,1,1:23 PM,6:20,Ross  3PT Jump Shot (6 PTS) (Hansbrough 1 AST),,,13 - 10,-3
+0021301040,56,5,2,1,1:23 PM,6:00,Ross STEAL (1 STL),,Millsap Lost Ball Turnover (P2.T4),,
+0021301040,57,2,1,1,1:23 PM,5:48,MISS Vasquez 26' 3PT Jump Shot,,,,
+0021301040,58,4,0,1,1:23 PM,5:47,Hansbrough REBOUND (Off:1 Def:1),,,,
+0021301040,59,2,1,1,1:23 PM,5:35,MISS Vasquez  3PT Jump Shot,,,,
+0021301040,60,4,0,1,1:23 PM,5:34,Valanciunas REBOUND (Off:1 Def:1),,,,
+0021301040,61,5,2,1,1:23 PM,5:25,Hansbrough Lost Ball Turnover (P1.T4),,Millsap STEAL (1 STL),,
+0021301040,62,6,1,1,1:24 PM,5:22,DeRozan P.FOUL (P1.PN),,,,
+0021301040,63,3,11,1,1:24 PM,5:22,,,Teague Free Throw 1 of 2 (6 PTS),14 - 10,-4
+0021301040,65,8,0,1,1:24 PM,5:22,,,SUB: Brand FOR Antic,,
+0021301040,66,3,12,1,1:24 PM,5:22,,,Teague Free Throw 2 of 2 (7 PTS),15 - 10,-5
+0021301040,69,2,79,1,1:25 PM,5:07,MISS DeRozan 13' Pullup Jump Shot,,,,
+0021301040,70,4,0,1,1:25 PM,5:06,,,Teague REBOUND (Off:0 Def:1),,
+0021301040,71,2,1,1,1:25 PM,4:51,,,MISS Carroll 16' Jump Shot,,
+0021301040,72,4,0,1,1:25 PM,4:50,Hansbrough REBOUND (Off:1 Def:2),,,,
+0021301040,74,2,79,1,1:25 PM,4:30,MISS Ross 17' Pullup Jump Shot,,,,
+0021301040,75,4,0,1,1:25 PM,4:30,Hansbrough REBOUND (Off:2 Def:2),,,,
+0021301040,77,6,2,1,1:25 PM,4:30,,,Brand S.FOUL (P1.T2),,
+0021301040,78,3,11,1,1:25 PM,4:30,MISS Hansbrough Free Throw 1 of 2,,,,
+0021301040,79,4,1,1,1:25 PM,4:30,RAPTORS Rebound,,,,
+0021301040,80,8,0,1,1:26 PM,4:30,,,SUB: Williams FOR Mack,,
+0021301040,81,3,12,1,1:26 PM,4:30,MISS Hansbrough Free Throw 2 of 2,,,,
+0021301040,83,4,0,1,1:26 PM,4:30,,,Brand REBOUND (Off:0 Def:1),,
+0021301040,84,2,42,1,1:26 PM,4:12,,,MISS Teague 2' Driving Layup,,
+0021301040,85,4,0,1,1:26 PM,4:11,Vasquez REBOUND (Off:0 Def:1),,,,
+0021301040,86,5,1,1,1:26 PM,4:08,Vasquez Bad Pass Turnover (P1.T5),,Carroll STEAL (3 STL),,
+0021301040,87,1,49,1,1:26 PM,4:04,,,Carroll 3' Driving Dunk (6 PTS),17 - 10,-7
+0021301040,88,2,1,1,1:27 PM,3:42,MISS Ross 26' 3PT Jump Shot,,,,
+0021301040,89,4,0,1,1:27 PM,3:41,RAPTORS Rebound,,,,
+0021301040,90,6,1,1,1:27 PM,3:32,,,Carroll P.FOUL (P1.T3),,
+0021301040,91,8,0,1,1:27 PM,3:32,,,SUB: Scott FOR Millsap,,
+0021301040,92,5,40,1,1:28 PM,3:22,Vasquez Out of Bounds Lost Ball Turnover (P2.T6),,,,
+0021301040,93,9,1,1,1:28 PM,3:22,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0021301040,96,8,0,1,1:30 PM,3:22,SUB: Salmons FOR DeRozan,,,,
+0021301040,97,2,65,1,1:31 PM,3:06,,,MISS Scott 8' Jump Hook Shot,,
+0021301040,98,4,0,1,1:31 PM,3:05,Valanciunas REBOUND (Off:1 Def:2),,,,
+0021301040,99,5,1,1,1:31 PM,2:48,Vasquez Bad Pass Turnover (P3.T7),,Carroll STEAL (4 STL),,
+0021301040,100,5,1,1,1:31 PM,2:33,Vasquez STEAL (1 STL),,Williams Bad Pass Turnover (P1.T5),,
+0021301040,101,1,42,1,1:31 PM,2:28,Vasquez 2' Driving Layup (2 PTS),,,17 - 12,-5
+0021301040,102,1,79,1,1:32 PM,2:03,,,Carroll 13' Pullup Jump Shot (8 PTS),19 - 12,-7
+0021301040,103,2,79,1,1:32 PM,1:48,MISS Ross 14' Pullup Jump Shot,,,,
+0021301040,104,4,0,1,1:32 PM,1:47,,,Scott REBOUND (Off:0 Def:1),,
+0021301040,105,1,77,1,1:32 PM,1:36,,,Brand 8' Driving Jump Shot (2 PTS) (Williams 1 AST),21 - 12,-9
+0021301040,106,2,1,1,1:33 PM,1:16,MISS Ross  3PT Jump Shot,,,,
+0021301040,107,4,0,1,1:33 PM,1:15,,,Scott REBOUND (Off:0 Def:2),,
+0021301040,108,1,1,1,1:33 PM,1:05,,,Carroll 16' Jump Shot (10 PTS) (Brand 1 AST),23 - 12,-11
+0021301040,109,9,2,1,1:33 PM,0:58,RAPTORS Timeout: Short (Full 1 Short 1),,,,
+0021301040,110,8,0,1,1:34 PM,0:58,SUB: Novak FOR Hansbrough,,,,
+0021301040,111,8,0,1,1:34 PM,0:58,,,SUB: Schroder FOR Teague,,
+0021301040,112,1,78,1,1:34 PM,0:45,Vasquez 8' Floating Jump Shot (4 PTS),,,23 - 14,-9
+0021301040,113,1,57,1,1:34 PM,0:35,,,Carroll 8' Driving Hook Shot (12 PTS),25 - 14,-11
+0021301040,114,6,2,1,1:35 PM,0:24,,,Carroll S.FOUL (P2.T4),,
+0021301040,115,3,11,1,1:35 PM,0:24,Valanciunas Free Throw 1 of 2 (3 PTS),,,25 - 15,-10
+0021301040,117,8,0,1,1:35 PM,0:24,SUB: De Colo FOR Ross,,,,
+0021301040,118,3,12,1,1:35 PM,0:24,Valanciunas Free Throw 2 of 2 (4 PTS),,,25 - 16,-9
+0021301040,120,13,0,1,1:36 PM,0:00,,,,25 - 16,-9
+0021301040,122,12,0,2,1:39 PM,12:00,,,,25 - 16,-9
+0021301040,123,2,47,2,1:39 PM,11:42,,,MISS Scott 5' Turnaround Jump Shot,,
+0021301040,124,4,0,2,1:39 PM,11:41,Salmons REBOUND (Off:0 Def:1),,,,
+0021301040,125,2,63,2,1:39 PM,11:32,MISS Salmons 18' Fadeaway Jumper,,,,
+0021301040,126,4,0,2,1:39 PM,11:32,,,Scott REBOUND (Off:0 Def:3),,
+0021301040,127,1,47,2,1:39 PM,11:19,,,Brand 10' Turnaround Jump Shot (4 PTS),27 - 16,-11
+0021301040,128,1,42,2,1:40 PM,10:55,Vasquez 3' Driving Layup (6 PTS),,,27 - 18,-9
+0021301040,129,1,1,2,1:40 PM,10:38,,,Williams 22' Jump Shot (2 PTS) (Schroder 1 AST),29 - 18,-11
+0021301040,130,6,3,2,1:40 PM,10:19,,,Schroder L.B.FOUL (P1.T1),,
+0021301040,131,1,42,2,1:41 PM,10:05,Vasquez 4' Driving Layup (8 PTS),,,29 - 20,-9
+0021301040,132,2,47,2,1:41 PM,9:42,,,MISS Scott 6' Turnaround Jump Shot,,
+0021301040,133,4,0,2,1:41 PM,9:41,Johnson REBOUND (Off:0 Def:2),,,,
+0021301040,134,1,42,2,1:41 PM,9:34,Vasquez 1' Driving Layup (10 PTS),,,29 - 22,-7
+0021301040,135,1,79,2,1:42 PM,9:19,,,Millsap 17' Pullup Jump Shot (4 PTS),31 - 22,-9
+0021301040,136,5,2,2,1:42 PM,8:58,Johnson Lost Ball Turnover (P1.T8),,Millsap STEAL (2 STL),,
+0021301040,137,6,1,2,1:42 PM,8:55,De Colo P.FOUL (P1.T1),,,,
+0021301040,138,9,4,2,1:42 PM,8:55,,,,,
+0021301040,139,8,0,2,1:44 PM,8:55,SUB: Lowry FOR Salmons,,,,
+0021301040,140,8,0,2,1:44 PM,8:55,SUB: DeRozan FOR De Colo,,,,
+0021301040,142,2,77,2,1:45 PM,8:37,,,MISS Schroder 10' Driving Jump Shot,,
+0021301040,143,4,0,2,1:45 PM,8:36,,,Scott REBOUND (Off:1 Def:3),,
+0021301040,144,1,5,2,1:45 PM,8:33,,,Scott 2' Layup (2 PTS),33 - 22,-11
+0021301040,145,1,79,2,1:45 PM,8:20,DeRozan 17' Pullup Jump Shot (2 PTS) (Johnson 1 AST),,,33 - 24,-9
+0021301040,146,2,1,2,1:46 PM,8:08,,,MISS Schroder 19' Jump Shot,,
+0021301040,147,4,0,2,1:46 PM,8:07,Lowry REBOUND (Off:0 Def:1),,,,
+0021301040,148,2,80,2,1:46 PM,7:54,MISS Lowry 24' 3PT Step Back Jump Shot,,,,
+0021301040,149,4,0,2,1:46 PM,7:53,,,Schroder REBOUND (Off:0 Def:1),,
+0021301040,150,2,46,2,1:46 PM,7:46,,,MISS Schroder 5' Running Jump Shot,,
+0021301040,151,4,0,2,1:46 PM,7:45,Johnson REBOUND (Off:0 Def:3),,,,
+0021301040,152,1,85,2,1:46 PM,7:31,DeRozan 5' Turnaround Bank Shot (4 PTS),,,33 - 26,-7
+0021301040,154,5,11,2,1:47 PM,7:05,,,Hawks Turnover: Shot Clock (T#6),,
+0021301040,155,8,0,2,1:47 PM,7:05,,,SUB: Teague FOR Schroder,,
+0021301040,156,5,2,2,1:47 PM,6:50,Lowry Lost Ball Turnover (P1.T9),,Teague STEAL (1 STL),,
+0021301040,157,1,42,2,1:47 PM,6:46,,,Teague 2' Driving Layup (9 PTS) (Williams 2 AST),35 - 26,-9
+0021301040,158,2,78,2,1:48 PM,6:22,MISS Vasquez 9' Floating Jump Shot,,,,
+0021301040,159,4,0,2,1:48 PM,6:21,,,Brand REBOUND (Off:0 Def:2),,
+0021301040,160,1,47,2,1:48 PM,6:13,,,Scott 3' Turnaround Jump Shot (4 PTS) (Teague 1 AST),37 - 26,-11
+0021301040,161,9,1,2,1:48 PM,6:05,RAPTORS Timeout: Regular (Full 2 Short 1),,,,
+0021301040,166,8,0,2,1:48 PM,6:05,,,SUB: Mack FOR Williams,,
+0021301040,164,2,1,2,1:51 PM,5:52,MISS DeRozan 19' Jump Shot,,,,
+0021301040,165,4,0,2,1:51 PM,5:51,,,Hawks Rebound,,
+0021301040,167,1,1,2,1:51 PM,5:30,,,Millsap 27' 3PT Jump Shot (7 PTS) (Brand 2 AST),40 - 26,-14
+0021301040,168,2,5,2,1:52 PM,5:04,MISS Johnson 5' Layup,,,,
+0021301040,169,4,0,2,1:52 PM,5:03,,,Millsap REBOUND (Off:0 Def:5),,
+0021301040,170,5,40,2,1:52 PM,4:58,,,Scott Out of Bounds Lost Ball Turnover (P1.T7),,
+0021301040,171,8,0,2,1:52 PM,4:58,SUB: Hayes FOR Johnson,,,,
+0021301040,179,8,0,2,1:52 PM,4:58,,,SUB: Carroll FOR Scott,,
+0021301040,175,2,63,2,1:52 PM,4:42,MISS DeRozan 8' Fadeaway Jumper,,,,
+0021301040,176,4,0,2,1:52 PM,4:41,,,Brand REBOUND (Off:0 Def:3),,
+0021301040,180,5,2,2,1:53 PM,4:20,Novak STEAL (1 STL),,Brand Lost Ball Turnover (P1.T8),,
+0021301040,178,10,0,2,1:53 PM,4:20,Jump Ball Novak vs. Brand: Tip to Vasquez,,,,
+0021301040,181,1,5,2,1:53 PM,4:13,Lowry 3' Layup (2 PTS) (Vasquez 1 AST),,,40 - 28,-12
+0021301040,182,2,1,2,1:54 PM,3:59,Hayes BLOCK (1 BLK),,MISS Millsap 5' Jump Shot,,
+0021301040,183,4,0,2,1:54 PM,3:56,Vasquez REBOUND (Off:0 Def:2),,,,
+0021301040,184,1,42,2,1:54 PM,3:54,Lowry 4' Driving Layup (4 PTS) (Vasquez 2 AST),,,40 - 30,-10
+0021301040,185,6,2,2,1:54 PM,3:54,,,Mack S.FOUL (P1.T2),,
+0021301040,186,8,0,2,1:54 PM,3:54,SUB: Ross FOR Vasquez,,,,
+0021301040,187,8,0,2,1:54 PM,3:54,SUB: Valanciunas FOR Novak,,,,
+0021301040,188,8,0,2,1:54 PM,3:54,,,SUB: Antic FOR Brand,,
+0021301040,189,3,10,2,1:54 PM,3:54,MISS Lowry Free Throw 1 of 1,,,,
+0021301040,191,4,0,2,1:54 PM,3:54,Lowry REBOUND (Off:1 Def:1),,,,
+0021301040,192,1,88,2,1:54 PM,3:48,Ross 3' Driving Slam Dunk (8 PTS) (Lowry 1 AST),,,40 - 32,-8
+0021301040,193,9,1,2,1:55 PM,3:43,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0021301040,197,1,1,2,1:57 PM,3:36,,,Millsap 21' Jump Shot (9 PTS) (Antic 2 AST),42 - 32,-10
+0021301040,198,2,79,2,1:57 PM,3:16,MISS Lowry 8' Pullup Jump Shot,,,,
+0021301040,199,4,0,2,1:57 PM,3:15,Valanciunas REBOUND (Off:2 Def:2),,,,
+0021301040,200,6,2,2,1:58 PM,3:15,,,Millsap S.FOUL (P1.T3),,
+0021301040,201,3,11,2,1:58 PM,3:15,Valanciunas Free Throw 1 of 2 (5 PTS),,,42 - 33,-9
+0021301040,203,3,12,2,1:58 PM,3:15,Valanciunas Free Throw 2 of 2 (6 PTS),,,42 - 34,-8
+0021301040,205,2,1,2,1:58 PM,3:00,,,MISS Mack  3PT Jump Shot,,
+0021301040,206,4,0,2,1:58 PM,2:59,,,Antic REBOUND (Off:2 Def:0),,
+0021301040,207,1,5,2,1:59 PM,2:55,,,Carroll 5' Layup (14 PTS) (Teague 2 AST),44 - 34,-10
+0021301040,208,1,5,2,1:59 PM,2:39,Hayes 1' Layup (2 PTS) (Lowry 2 AST),,,44 - 36,-8
+0021301040,209,2,75,2,1:59 PM,2:25,,,MISS Teague 2' Driving Finger Roll Layup,,
+0021301040,210,4,0,2,1:59 PM,2:23,Valanciunas REBOUND (Off:2 Def:3),,,,
+0021301040,211,6,2,2,1:59 PM,2:19,,,Teague S.FOUL (P2.T4),,
+0021301040,212,3,11,2,1:59 PM,2:19,Lowry Free Throw 1 of 2 (5 PTS),,,44 - 37,-7
+0021301040,214,3,12,2,2:00 PM,2:19,Lowry Free Throw 2 of 2 (6 PTS),,,44 - 38,-6
+0021301040,217,1,57,2,2:00 PM,2:06,,,Millsap 6' Driving Hook Shot (11 PTS),46 - 38,-8
+0021301040,218,2,63,2,2:00 PM,1:45,MISS Ross 9' Fadeaway Jumper,,,,
+0021301040,219,4,0,2,2:00 PM,1:45,,,Carroll REBOUND (Off:0 Def:1),,
+0021301040,220,6,2,2,2:01 PM,1:34,DeRozan S.FOUL (P2.T2),,,,
+0021301040,221,3,11,2,2:01 PM,1:34,,,MISS Carroll Free Throw 1 of 2,,
+0021301040,222,4,1,2,2:01 PM,1:34,,,Hawks Rebound,,
+0021301040,223,8,0,2,2:01 PM,1:34,SUB: Vasquez FOR Lowry,,,,
+0021301040,224,3,12,2,2:01 PM,1:34,,,Carroll Free Throw 2 of 2 (15 PTS),47 - 38,-9
+0021301040,226,2,1,2,2:02 PM,1:12,MISS Hayes 5' Jump Shot,,Millsap BLOCK (1 BLK),,
+0021301040,227,4,0,2,2:02 PM,1:10,,,Millsap REBOUND (Off:0 Def:6),,
+0021301040,231,5,1,2,2:02 PM,1:10,,,Millsap Bad Pass Turnover (P3.T9),,
+0021301040,228,8,0,2,2:02 PM,1:10,,,SUB: Schroder FOR Teague,,
+0021301040,229,2,1,2,2:02 PM,0:58,MISS Vasquez 27' 3PT Jump Shot,,,,
+0021301040,230,4,0,2,2:02 PM,0:57,,,Antic REBOUND (Off:2 Def:1),,
+0021301040,232,2,78,2,2:03 PM,0:48,,,MISS Carroll 9' Floating Jump Shot,,
+0021301040,233,4,0,2,2:03 PM,0:46,Ross REBOUND (Off:0 Def:1),,,,
+0021301040,234,1,63,2,2:03 PM,0:33,DeRozan 17' Fadeaway Jumper (6 PTS),,,47 - 40,-7
+0021301040,235,9,2,2,2:03 PM,0:29,,,Hawks Timeout: Short (Reg.2 Short 1),,
+0021301040,236,8,0,2,2:04 PM,0:29,SUB: Fields FOR DeRozan,,,,
+0021301040,237,8,0,2,2:04 PM,0:29,,,SUB: Teague FOR Schroder,,
+0021301040,238,1,65,2,2:04 PM,0:13,,,Millsap 8' Jump Hook Shot (13 PTS) (Teague 3 AST),49 - 40,-9
+0021301040,239,1,8,2,2:05 PM,0:03,Valanciunas 1' Slam Dunk (8 PTS) (Hayes 1 AST),,,49 - 42,-7
+0021301040,240,2,79,2,2:05 PM,0:00,,,MISS Teague 35' 3PT Pullup Jump Shot,,
+0021301040,241,4,0,2,2:05 PM,0:00,,,Hawks Rebound,,
+0021301040,242,13,0,2,2:05 PM,0:00,,,,49 - 42,-7
+0021301040,244,12,0,3,2:21 PM,12:00,,,,49 - 42,-7
+0021301040,245,5,40,3,2:21 PM,11:42,,,Millsap Out of Bounds Lost Ball Turnover (P4.T10),,
+0021301040,246,1,1,3,2:22 PM,11:31,Lowry 25' 3PT Jump Shot (9 PTS),,,49 - 45,-4
+0021301040,247,1,42,3,2:22 PM,11:04,,,Teague 1' Driving Layup (11 PTS),51 - 45,-6
+0021301040,248,6,29,3,2:22 PM,10:52,,,Antic Shooting Block Foul (P1.T1),,
+0021301040,249,3,11,3,2:23 PM,10:52,MISS Lowry Free Throw 1 of 2,,,,
+0021301040,250,4,1,3,2:23 PM,10:52,RAPTORS Rebound,,,,
+0021301040,251,3,12,3,2:23 PM,10:52,Lowry Free Throw 2 of 2 (10 PTS),,,51 - 46,-5
+0021301040,253,5,1,3,2:23 PM,10:35,Ross STEAL (2 STL),,Teague Bad Pass Turnover (P2.T11),,
+0021301040,254,2,1,3,2:23 PM,10:30,MISS Ross  3PT Jump Shot,,,,
+0021301040,255,4,0,3,2:23 PM,10:29,,,Antic REBOUND (Off:2 Def:2),,
+0021301040,256,6,2,3,2:24 PM,10:23,Lowry S.FOUL (P1.T1),,,,
+0021301040,257,3,11,3,2:24 PM,10:23,,,Millsap Free Throw 1 of 2 (14 PTS),52 - 46,-6
+0021301040,259,3,12,3,2:24 PM,10:23,,,MISS Millsap Free Throw 2 of 2,,
+0021301040,261,4,0,3,2:24 PM,10:22,Valanciunas REBOUND (Off:2 Def:4),,,,
+0021301040,262,1,79,3,2:24 PM,10:06,Lowry 19' Pullup Jump Shot (12 PTS) (DeRozan 3 AST),,,52 - 48,-4
+0021301040,263,5,2,3,2:25 PM,9:52,Lowry STEAL (3 STL),,Teague Lost Ball Turnover (P3.T12),,
+0021301040,264,1,65,3,2:25 PM,9:43,Valanciunas 4' Jump Hook Shot (10 PTS) (Lowry 3 AST),,,52 - 50,-2
+0021301040,265,9,1,3,2:25 PM,9:42,,,Hawks Timeout: Regular (Reg.3 Short 1),,
+0021301040,268,2,42,3,2:27 PM,9:23,,,MISS Millsap 4' Driving Layup,,
+0021301040,269,4,0,3,2:27 PM,9:22,,,Millsap REBOUND (Off:1 Def:6),,
+0021301040,270,2,72,3,2:27 PM,9:20,,,MISS Millsap 2' Putback Layup,,
+0021301040,271,4,0,3,2:28 PM,9:19,Valanciunas REBOUND (Off:2 Def:5),,,,
+0021301040,272,2,63,3,2:28 PM,9:00,MISS Lowry 16' Fadeaway Jumper,,Teague BLOCK (1 BLK),,
+0021301040,273,4,0,3,2:28 PM,8:58,,,Antic REBOUND (Off:2 Def:3),,
+0021301040,274,6,1,3,2:28 PM,8:52,Johnson P.FOUL (P3.T2),,,,
+0021301040,275,6,2,3,2:29 PM,8:43,Valanciunas S.FOUL (P2.T3),,,,
+0021301040,276,3,11,3,2:29 PM,8:43,,,Antic Free Throw 1 of 2 (3 PTS),53 - 50,-3
+0021301040,278,3,12,3,2:29 PM,8:43,,,Antic Free Throw 2 of 2 (4 PTS),54 - 50,-4
+0021301040,280,2,1,3,2:30 PM,8:24,MISS DeRozan 21' Jump Shot,,,,
+0021301040,281,4,0,3,2:30 PM,8:23,,,Millsap REBOUND (Off:1 Def:7),,
+0021301040,282,2,71,3,2:30 PM,8:13,,,MISS Carroll 2' Finger Roll Layup,,
+0021301040,283,4,0,3,2:30 PM,8:11,,,Carroll REBOUND (Off:1 Def:1),,
+0021301040,284,2,72,3,2:30 PM,8:11,,,MISS Carroll 2' Putback Layup,,
+0021301040,285,4,0,3,2:30 PM,8:11,,,Hawks Rebound,,
+0021301040,286,5,38,3,2:30 PM,8:11,,,Hawks Turnover: 5 Second Inbound (T#13),,
+0021301040,287,2,73,3,2:31 PM,8:04,MISS Lowry 2' Driving Reverse Layup,,,,
+0021301040,288,4,0,3,2:31 PM,8:03,,,Antic REBOUND (Off:2 Def:4),,
+0021301040,289,2,42,3,2:31 PM,7:54,Valanciunas BLOCK (1 BLK),,MISS Teague 3' Driving Layup,,
+0021301040,290,4,0,3,2:31 PM,7:52,Valanciunas REBOUND (Off:2 Def:6),,,,
+0021301040,292,5,1,3,2:31 PM,7:41,DeRozan Bad Pass Turnover (P2.T10),,Mack STEAL (1 STL),,
+0021301040,293,2,5,3,2:31 PM,7:36,,,MISS Mack 3' Layup,,
+0021301040,294,4,0,3,2:31 PM,7:35,,,Carroll REBOUND (Off:2 Def:1),,
+0021301040,295,2,5,3,2:31 PM,7:33,DeRozan BLOCK (1 BLK),,MISS Carroll 2' Layup,,
+0021301040,296,4,0,3,2:31 PM,7:31,,,Carroll REBOUND (Off:3 Def:1),,
+0021301040,297,1,5,3,2:31 PM,7:29,,,Carroll 3' Layup (17 PTS),56 - 50,-6
+0021301040,298,2,1,3,2:31 PM,7:22,MISS Ross 25' 3PT Jump Shot,,,,
+0021301040,299,4,0,3,2:31 PM,7:21,Ross REBOUND (Off:1 Def:1),,,,
+0021301040,300,2,63,3,2:31 PM,7:10,MISS Lowry 12' Fadeaway Jumper,,,,
+0021301040,301,4,0,3,2:31 PM,7:09,,,Teague REBOUND (Off:0 Def:2),,
+0021301040,302,2,1,3,2:32 PM,7:03,,,MISS Mack 24' 3PT Jump Shot,,
+0021301040,303,4,0,3,2:32 PM,7:02,Valanciunas REBOUND (Off:2 Def:7),,,,
+0021301040,305,2,1,3,2:32 PM,6:38,MISS Lowry 27' 3PT Jump Shot,,,,
+0021301040,306,4,0,3,2:32 PM,6:37,,,Mack REBOUND (Off:0 Def:2),,
+0021301040,307,5,1,3,2:32 PM,6:28,Johnson STEAL (2 STL),,Mack Bad Pass Turnover (P1.T14),,
+0021301040,308,2,78,3,2:32 PM,6:21,MISS Ross 9' Floating Jump Shot,,,,
+0021301040,309,4,0,3,2:32 PM,6:20,Valanciunas REBOUND (Off:3 Def:7),,,,
+0021301040,310,6,2,3,2:32 PM,6:20,,,Antic S.FOUL (P2.T2),,
+0021301040,312,3,11,3,2:33 PM,6:20,Valanciunas Free Throw 1 of 2 (11 PTS),,,56 - 51,-5
+0021301040,315,8,0,3,2:33 PM,6:20,SUB: Vasquez FOR Lowry,,,,
+0021301040,316,3,12,3,2:33 PM,6:20,MISS Valanciunas Free Throw 2 of 2,,,,
+0021301040,318,4,0,3,2:33 PM,6:19,,,Antic REBOUND (Off:2 Def:5),,
+0021301040,319,1,79,3,2:34 PM,5:56,,,Mack 16' Pullup Jump Shot (2 PTS),58 - 51,-7
+0021301040,322,6,2,3,2:34 PM,5:56,Valanciunas S.FOUL (P3.T4),,,,
+0021301040,327,3,10,3,2:34 PM,5:56,,,Mack Free Throw 1 of 1 (3 PTS),59 - 51,-8
+0021301040,323,5,4,3,2:34 PM,5:42,Valanciunas Traveling Turnover (P2.T11),,,,
+0021301040,324,2,1,3,2:35 PM,5:32,,,MISS Millsap 26' 3PT Jump Shot,,
+0021301040,325,4,0,3,2:35 PM,5:32,RAPTORS Rebound,,,,
+0021301040,326,9,1,3,2:35 PM,5:32,RAPTORS Timeout: Regular (Full 3 Short 1),,,,
+0021301040,329,8,0,3,2:37 PM,5:32,,,SUB: Williams FOR Antic,,
+0021301040,330,8,0,3,2:37 PM,5:32,,,SUB: Brand FOR Mack,,
+0021301040,331,8,0,3,2:37 PM,5:32,SUB: Hansbrough FOR Valanciunas,,,,
+0021301040,332,2,78,3,2:38 PM,5:17,MISS Vasquez 7' Floating Jump Shot,,,,
+0021301040,333,4,0,3,2:38 PM,5:16,Johnson REBOUND (Off:1 Def:3),,,,
+0021301040,334,6,26,3,2:38 PM,5:12,DeRozan Offensive Charge Foul (P3.PN),,,,
+0021301040,335,5,5,3,2:38 PM,5:12,DeRozan Foul Turnover (P3.T12),,,,
+0021301040,336,1,1,3,2:38 PM,4:59,,,Brand 16' Jump Shot (6 PTS) (Teague 4 AST),61 - 51,-10
+0021301040,337,2,1,3,2:38 PM,4:37,MISS Vasquez 26' 3PT Jump Shot,,,,
+0021301040,338,4,0,3,2:38 PM,4:36,RAPTORS Rebound,,,,
+0021301040,339,6,3,3,2:39 PM,4:36,,,Brand L.B.FOUL (P2.T3),,
+0021301040,340,1,1,3,2:39 PM,4:30,DeRozan 19' Jump Shot (8 PTS) (Vasquez 3 AST),,,61 - 53,-8
+0021301040,341,2,77,3,2:39 PM,4:06,Johnson BLOCK (1 BLK),,MISS Millsap 7' Driving Jump Shot,,
+0021301040,342,4,0,3,2:39 PM,4:03,Hansbrough REBOUND (Off:2 Def:3),,,,
+0021301040,343,1,76,3,2:40 PM,3:52,Johnson 2' Running Finger Roll Layup (4 PTS) (Vasquez 4 AST),,,61 - 55,-6
+0021301040,344,6,2,3,2:40 PM,3:33,Hansbrough S.FOUL (P2.PN),,,,
+0021301040,345,3,11,3,2:40 PM,3:33,,,Brand Free Throw 1 of 2 (7 PTS),62 - 55,-7
+0021301040,347,8,0,3,2:40 PM,3:33,,,SUB: Scott FOR Millsap,,
+0021301040,348,8,0,3,2:40 PM,3:33,SUB: De Colo FOR Ross,,,,
+0021301040,349,3,12,3,2:41 PM,3:33,,,MISS Brand Free Throw 2 of 2,,
+0021301040,351,4,0,3,2:41 PM,3:32,Hansbrough REBOUND (Off:2 Def:4),,,,
+0021301040,352,2,80,3,2:41 PM,3:11,MISS DeRozan 22' Step Back Jump Shot,,,,
+0021301040,353,4,0,3,2:41 PM,3:10,RAPTORS Rebound,,,,
+0021301040,355,2,1,3,2:42 PM,2:52,MISS Vasquez 24' 3PT Jump Shot,,,,
+0021301040,356,4,0,3,2:42 PM,2:51,Johnson REBOUND (Off:2 Def:3),,,,
+0021301040,357,2,80,3,2:42 PM,2:38,MISS DeRozan 19' Step Back Jump Shot,,,,
+0021301040,358,4,0,3,2:42 PM,2:37,RAPTORS Rebound,,,,
+0021301040,359,6,1,3,2:42 PM,2:36,,,Scott P.FOUL (P1.T4),,
+0021301040,361,5,1,3,2:43 PM,2:25,Johnson Bad Pass Turnover (P2.T13),,Carroll STEAL (5 STL),,
+0021301040,362,6,2,3,2:43 PM,2:21,Vasquez S.FOUL (P1.PN),,,,
+0021301040,363,3,11,3,2:43 PM,2:21,,,MISS Carroll Free Throw 1 of 2,,
+0021301040,364,4,1,3,2:43 PM,2:21,,,Hawks Rebound,,
+0021301040,365,8,0,3,2:43 PM,2:21,,,SUB: Schroder FOR Teague,,
+0021301040,366,3,12,3,2:43 PM,2:21,,,MISS Carroll Free Throw 2 of 2,,
+0021301040,368,4,0,3,2:44 PM,2:20,Hansbrough REBOUND (Off:2 Def:5),,,,
+0021301040,369,6,2,3,2:44 PM,2:06,,,Schroder S.FOUL (P2.PN),,
+0021301040,370,3,11,3,2:44 PM,2:06,Hansbrough Free Throw 1 of 2 (1 PTS),,,62 - 56,-6
+0021301040,372,3,12,3,2:44 PM,2:06,Hansbrough Free Throw 2 of 2 (2 PTS),,,62 - 57,-5
+0021301040,374,6,1,3,2:45 PM,1:53,De Colo P.FOUL (P2.PN),,,,
+0021301040,375,3,11,3,2:45 PM,1:53,,,Williams Free Throw 1 of 2 (3 PTS),63 - 57,-6
+0021301040,377,3,12,3,2:45 PM,1:53,,,Williams Free Throw 2 of 2 (4 PTS),64 - 57,-7
+0021301040,379,2,5,3,2:46 PM,1:37,MISS Hansbrough 3' Layup,,,,
+0021301040,380,4,0,3,2:46 PM,1:36,,,Scott REBOUND (Off:1 Def:4),,
+0021301040,382,1,1,3,2:46 PM,1:12,,,Schroder  3PT Jump Shot (3 PTS) (Scott 1 AST),67 - 57,-10
+0021301040,384,1,1,3,2:46 PM,0:58,DeRozan 24' 3PT Jump Shot (11 PTS) (De Colo 1 AST),,,67 - 60,-7
+0021301040,385,1,46,3,2:46 PM,0:54,,,Scott 3' Running Jump Shot (6 PTS) (Schroder 2 AST),69 - 60,-9
+0021301040,386,5,1,3,2:47 PM,0:38,De Colo Bad Pass Turnover (P1.T14),,Brand STEAL (1 STL),,
+0021301040,387,1,88,3,2:47 PM,0:34,,,Scott 2' Driving Slam Dunk (8 PTS) (Carroll 1 AST),71 - 60,-11
+0021301040,388,2,78,3,2:47 PM,0:15,MISS Vasquez 14' Floating Jump Shot,,,,
+0021301040,389,4,0,3,2:47 PM,0:14,RAPTORS Rebound,,,,
+0021301040,391,8,0,3,2:48 PM,0:11,SUB: Hayes FOR Johnson,,,,
+0021301040,394,18,0,3,2:49 PM,0:00,,,,,
+0021301040,395,13,0,3,2:49 PM,0:00,,,,71 - 60,-11
+0021301040,397,12,0,4,2:51 PM,12:00,,,,71 - 60,-11
+0021301040,398,2,47,4,2:51 PM,11:46,MISS Valanciunas 5' Turnaround Jump Shot,,,,
+0021301040,399,4,0,4,2:51 PM,11:45,,,Williams REBOUND (Off:0 Def:1),,
+0021301040,400,1,42,4,2:51 PM,11:28,,,Schroder 4' Driving Layup (5 PTS) (Williams 3 AST),73 - 60,-13
+0021301040,401,6,2,4,2:51 PM,11:28,Lowry S.FOUL (P2.T1),,,,
+0021301040,402,3,10,4,2:51 PM,11:28,,,Schroder Free Throw 1 of 1 (6 PTS),74 - 60,-14
+0021301040,404,1,1,4,2:52 PM,11:09,De Colo 25' 3PT Jump Shot (3 PTS) (Hayes 2 AST),,,74 - 63,-11
+0021301040,405,2,1,4,2:52 PM,11:00,,,MISS Williams 24' 3PT Jump Shot,,
+0021301040,406,4,0,4,2:52 PM,10:59,Hayes REBOUND (Off:0 Def:1),,,,
+0021301040,407,6,2,4,2:52 PM,10:52,,,Brand S.FOUL (P3.T1),,
+0021301040,408,3,11,4,2:53 PM,10:52,Vasquez Free Throw 1 of 2 (11 PTS),,,74 - 64,-10
+0021301040,410,3,12,4,2:53 PM,10:52,Vasquez Free Throw 2 of 2 (12 PTS),,,74 - 65,-9
+0021301040,412,2,1,4,2:53 PM,10:30,,,MISS Schroder 27' 3PT Jump Shot,,
+0021301040,413,4,0,4,2:53 PM,10:29,Vasquez REBOUND (Off:0 Def:3),,,,
+0021301040,414,2,41,4,2:53 PM,10:25,MISS De Colo 3' Running Layup,,,,
+0021301040,415,4,0,4,2:53 PM,10:24,,,Brand REBOUND (Off:0 Def:4),,
+0021301040,416,2,1,4,2:54 PM,10:15,,,MISS Williams  3PT Jump Shot,,
+0021301040,417,4,0,4,2:54 PM,10:14,De Colo REBOUND (Off:0 Def:1),,,,
+0021301040,418,6,2,4,2:54 PM,10:08,,,Scott S.FOUL (P2.T2),,
+0021301040,419,3,11,4,2:54 PM,10:08,Lowry Free Throw 1 of 2 (13 PTS),,,74 - 66,-8
+0021301040,421,8,0,4,2:54 PM,10:08,SUB: Ross FOR Vasquez,,,,
+0021301040,422,3,12,4,2:54 PM,10:08,MISS Lowry Free Throw 2 of 2,,,,
+0021301040,424,4,0,4,2:54 PM,10:07,,,Hawks Rebound,,
+0021301040,425,7,5,4,2:55 PM,9:55,Lowry Violation:Kicked Ball,,,,
+0021301040,426,6,1,4,2:55 PM,9:53,Ross P.FOUL (P1.T2),,,,
+0021301040,427,2,5,4,2:56 PM,9:41,,,MISS Scott 2' Layup,,
+0021301040,428,4,0,4,2:56 PM,9:40,Valanciunas REBOUND (Off:3 Def:8),,,,
+0021301040,429,5,1,4,2:56 PM,9:29,De Colo Bad Pass Turnover (P2.T15),,Millsap STEAL (3 STL),,
+0021301040,431,8,0,4,2:56 PM,9:17,,,SUB: Antic FOR Brand,,
+0021301040,432,2,1,4,2:56 PM,9:14,,,MISS Scott 19' Jump Shot,,
+0021301040,433,4,0,4,2:56 PM,9:13,Hayes REBOUND (Off:0 Def:2),,,,
+0021301040,435,5,2,4,2:57 PM,8:54,De Colo Lost Ball Turnover (P3.T16),,Scott STEAL (1 STL),,
+0021301040,436,2,1,4,2:57 PM,8:44,,,MISS Antic 25' 3PT Jump Shot,,
+0021301040,437,4,0,4,2:57 PM,8:43,Hayes REBOUND (Off:0 Def:3),,,,
+0021301040,438,1,1,4,2:57 PM,8:33,Lowry 26' 3PT Jump Shot (16 PTS),,,74 - 69,-5
+0021301040,439,9,1,4,2:57 PM,8:31,,,Hawks Timeout: Regular (Reg.4 Short 1),,
+0021301040,440,8,0,4,2:59 PM,8:31,SUB: DeRozan FOR De Colo,,,,
+0021301040,441,8,0,4,2:59 PM,8:31,,,SUB: Teague FOR Williams,,
+0021301040,442,8,0,4,2:59 PM,8:31,,,SUB: Carroll FOR Scott,,
+0021301040,443,8,0,4,2:59 PM,8:31,,,SUB: Mack FOR Schroder,,
+0021301040,444,5,2,4,3:00 PM,8:17,Hayes STEAL (1 STL),,Millsap Lost Ball Turnover (P5.T15),,
+0021301040,445,6,2,4,3:00 PM,8:03,,,Mack S.FOUL (P2.T3),,
+0021301040,446,3,11,4,3:00 PM,8:03,MISS DeRozan Free Throw 1 of 2,,,,
+0021301040,447,4,1,4,3:00 PM,8:03,RAPTORS Rebound,,,,
+0021301040,448,3,12,4,3:00 PM,8:03,DeRozan Free Throw 2 of 2 (12 PTS),,,74 - 70,-4
+0021301040,451,2,1,4,3:01 PM,7:42,,,MISS Millsap 17' Jump Shot,,
+0021301040,452,4,0,4,3:01 PM,7:40,Ross REBOUND (Off:1 Def:2),,,,
+0021301040,453,1,1,4,3:01 PM,7:31,DeRozan 24' 3PT Jump Shot (15 PTS) (Lowry 4 AST),,,74 - 73,-1
+0021301040,454,1,82,4,3:01 PM,7:26,,,Teague 10' Driving Bank Shot (13 PTS) (Antic 3 AST),76 - 73,-3
+0021301040,455,6,29,4,3:01 PM,7:26,Ross Shooting Block Foul (P2.T3),,,,
+0021301040,456,8,0,4,3:02 PM,7:26,SUB: Vasquez FOR Lowry,,,,
+0021301040,457,3,10,4,3:02 PM,7:26,,,Teague Free Throw 1 of 1 (14 PTS),77 - 73,-4
+0021301040,459,2,80,4,3:02 PM,7:04,MISS DeRozan 19' Step Back Jump Shot,,,,
+0021301040,460,4,0,4,3:02 PM,7:03,,,Antic REBOUND (Off:2 Def:6),,
+0021301040,461,5,1,4,3:03 PM,6:51,,,Antic Bad Pass Turnover (P2.T16),,
+0021301040,462,2,77,4,3:03 PM,6:37,MISS DeRozan 6' Driving Jump Shot,,,,
+0021301040,463,4,0,4,3:03 PM,6:36,,,Antic REBOUND (Off:2 Def:7),,
+0021301040,464,2,1,4,3:03 PM,6:27,,,MISS Antic 26' 3PT Jump Shot,,
+0021301040,465,4,0,4,3:03 PM,6:26,Ross REBOUND (Off:1 Def:3),,,,
+0021301040,466,1,65,4,3:03 PM,6:12,Hayes 9' Jump Hook Shot (4 PTS) (Vasquez 5 AST),,,77 - 75,-2
+0021301040,468,1,78,4,3:04 PM,5:52,,,Mack 8' Floating Jump Shot (5 PTS),79 - 75,-4
+0021301040,469,1,79,4,3:04 PM,5:24,Ross 8' Pullup Jump Shot (10 PTS),,,79 - 77,-2
+0021301040,470,6,2,4,3:04 PM,5:24,,,Mack S.FOUL (P3.T4),,
+0021301040,471,9,4,4,3:05 PM,5:24,,,,,
+0021301040,472,8,0,4,3:06 PM,5:24,SUB: Johnson FOR Hayes,,,,
+0021301040,474,3,10,4,3:07 PM,5:24,MISS Ross Free Throw 1 of 1,,,,
+0021301040,476,4,0,4,3:07 PM,5:23,Johnson REBOUND (Off:3 Def:3),,,,
+0021301040,477,2,5,4,3:07 PM,5:21,MISS Johnson 3' Layup,,,,
+0021301040,478,4,0,4,3:07 PM,5:19,Johnson REBOUND (Off:4 Def:3),,,,
+0021301040,479,1,4,4,3:07 PM,5:18,Johnson 1' Tip Shot (6 PTS),,,79 - 79,TIE
+0021301040,480,2,79,4,3:07 PM,4:59,,,MISS Teague 6' Pullup Jump Shot,,
+0021301040,481,4,0,4,3:07 PM,4:57,,,Antic REBOUND (Off:3 Def:7),,
+0021301040,482,5,2,4,3:07 PM,4:56,Johnson STEAL (3 STL),,Antic Lost Ball Turnover (P3.T17),,
+0021301040,497,2,42,4,3:07 PM,4:43,MISS Johnson 2' Driving Layup,,,,
+0021301040,500,4,0,4,3:07 PM,4:42,,,Hawks Rebound,,
+0021301040,485,6,3,4,3:08 PM,4:42,Valanciunas L.B.FOUL (P4.T4),,,,
+0021301040,488,8,0,4,3:08 PM,4:42,SUB: Lowry FOR Vasquez,,,,
+0021301040,489,1,42,4,3:08 PM,4:31,,,Teague 4' Driving Layup (16 PTS),81 - 79,-2
+0021301040,490,1,63,4,3:09 PM,4:15,DeRozan 14' Fadeaway Jumper (17 PTS),,,81 - 81,TIE
+0021301040,492,1,1,4,3:09 PM,3:52,,,Millsap 26' 3PT Jump Shot (17 PTS) (Teague 5 AST),84 - 81,-3
+0021301040,493,2,1,4,3:10 PM,3:31,MISS DeRozan 26' 3PT Jump Shot,,,,
+0021301040,494,4,0,4,3:10 PM,3:30,,,Teague REBOUND (Off:0 Def:3),,
+0021301040,495,2,78,4,3:10 PM,3:24,,,MISS Teague 8' Floating Jump Shot,,
+0021301040,496,4,0,4,3:10 PM,3:23,Johnson REBOUND (Off:4 Def:4),,,,
+0021301040,498,1,81,4,3:10 PM,3:12,Lowry 10' Pullup Bank Shot (18 PTS),,,84 - 83,-1
+0021301040,501,2,42,4,3:10 PM,2:54,,,MISS Teague 4' Driving Layup,,
+0021301040,502,4,0,4,3:10 PM,2:53,DeRozan REBOUND (Off:0 Def:1),,,,
+0021301040,503,9,1,4,3:11 PM,2:46,RAPTORS Timeout: Regular (Full 4 Short 1),,,,
+0021301040,507,1,1,4,3:13 PM,2:32,DeRozan 17' Jump Shot (19 PTS),,,84 - 85,1
+0021301040,508,2,42,4,3:13 PM,2:18,,,MISS Millsap 4' Driving Layup,,
+0021301040,509,4,0,4,3:13 PM,2:17,DeRozan REBOUND (Off:0 Def:2),,,,
+0021301040,510,2,1,4,3:14 PM,2:01,MISS Ross 24' 3PT Jump Shot,,,,
+0021301040,511,4,0,4,3:14 PM,2:00,Valanciunas REBOUND (Off:4 Def:8),,,,
+0021301040,512,6,2,4,3:14 PM,2:00,,,Millsap S.FOUL (P2.PN),,
+0021301040,513,9,2,4,3:14 PM,2:00,RAPTORS Timeout: Short (Full 4 Short 2),,,,
+0021301040,516,3,11,4,3:15 PM,2:00,Valanciunas Free Throw 1 of 2 (12 PTS),,,84 - 86,2
+0021301040,518,3,12,4,3:15 PM,2:00,Valanciunas Free Throw 2 of 2 (13 PTS),,,84 - 87,3
+0021301040,520,2,1,4,3:16 PM,1:47,,,MISS Millsap 24' 3PT Jump Shot,,
+0021301040,521,4,0,4,3:16 PM,1:46,Valanciunas REBOUND (Off:4 Def:9),,,,
+0021301040,522,9,2,4,3:17 PM,1:28,RAPTORS Timeout: Short (Full 4 Short 3),,,,
+0021301040,525,5,1,4,3:18 PM,1:24,DeRozan Bad Pass Turnover (P4.T17),,Mack STEAL (2 STL),,
+0021301040,526,2,1,4,3:18 PM,1:18,,,MISS Teague 25' 3PT Jump Shot,,
+0021301040,527,4,0,4,3:18 PM,1:17,RAPTORS Rebound,,,,
+0021301040,528,6,3,4,3:18 PM,1:17,,,Carroll L.B.FOUL (P3.PN),,
+0021301040,529,3,11,4,3:18 PM,1:17,DeRozan Free Throw 1 of 2 (20 PTS),,,84 - 88,4
+0021301040,531,3,12,4,3:18 PM,1:17,DeRozan Free Throw 2 of 2 (21 PTS),,,84 - 89,5
+0021301040,533,1,78,4,3:19 PM,1:02,,,Mack 9' Floating Jump Shot (7 PTS),86 - 89,3
+0021301040,534,1,65,4,3:19 PM,0:43,Lowry 7' Jump Hook Shot (20 PTS),,,86 - 91,5
+0021301040,535,9,1,4,3:19 PM,0:43,,,Hawks Timeout: Regular (Reg.5 Short 1),,
+0021301040,536,8,0,4,3:21 PM,0:43,,,SUB: Brand FOR Carroll,,
+0021301040,538,5,1,4,3:22 PM,0:41,Lowry STEAL (4 STL),,Antic Bad Pass Turnover (P4.T18),,
+0021301040,539,1,42,4,3:22 PM,0:38,Lowry 1' Driving Layup (22 PTS),,,86 - 93,7
+0021301040,540,9,2,4,3:22 PM,0:38,,,Hawks Timeout: Short (Reg.5 Short 2),,
+0021301040,543,8,0,4,3:23 PM,0:38,,,SUB: Carroll FOR Brand,,
+0021301040,544,2,1,4,3:23 PM,0:35,,,MISS Carroll 26' 3PT Jump Shot,,
+0021301040,545,4,0,4,3:23 PM,0:34,Ross REBOUND (Off:1 Def:4),,,,
+0021301040,546,1,80,4,3:24 PM,0:11,Lowry  3PT Step Back Jump Shot (25 PTS),,,86 - 96,10
+0021301040,547,2,1,4,3:24 PM,0:00,,,MISS Antic 27' 3PT Jump Shot,,
+0021301040,548,4,0,4,3:24 PM,0:00,,,Hawks Rebound,,
+0021301040,549,13,0,4,3:24 PM,0:00,,,,86 - 96,10

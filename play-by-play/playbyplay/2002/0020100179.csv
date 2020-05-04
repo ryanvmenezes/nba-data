@@ -1,0 +1,440 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100179,0,12,0,1,1:13 PM,12:00,,,,,
+0020100179,1,10,0,1,1:13 PM,12:00,Jump Ball Spencer vs. Miller: Tip to Jackson,,,,
+0020100179,2,1,1,1,1:13 PM,11:49,Houston 9' Jump Shot (2 PTS) (Jackson 1 AST),,,0 - 2,2
+0020100179,3,2,1,1,1:14 PM,11:28,,,MISS Mercer 15' Jump Shot,,
+0020100179,4,4,0,1,1:14 PM,11:25,Thomas REBOUND (Off:0 Def:1),,,,
+0020100179,5,1,1,1,1:14 PM,11:04,Thomas 13' Jump Shot (2 PTS) (Jackson 2 AST),,,0 - 4,4
+0020100179,6,1,7,1,1:15 PM,10:42,,,Miller  Dunk (2 PTS) (Oakley 1 AST),2 - 4,2
+0020100179,7,1,1,1,1:15 PM,10:22,Houston 23' Jump Shot (4 PTS),,,2 - 6,4
+0020100179,8,2,1,1,1:15 PM,10:05,,,MISS Oakley 16' Jump Shot,,
+0020100179,9,4,0,1,1:15 PM,10:03,Houston REBOUND (Off:0 Def:1),,,,
+0020100179,10,6,2,1,1:16 PM,9:57,,,Miller S.FOUL (P1.T1),,
+0020100179,11,3,11,1,1:16 PM,9:57,MISS Spencer Free Throw 1 of 2,,,,
+0020100179,12,4,1,1,1:16 PM,9:57,KNICKS Rebound,,,,
+0020100179,13,3,12,1,1:16 PM,9:57,Spencer Free Throw 2 of 2 (1 PTS),,,2 - 7,5
+0020100179,14,2,1,1,1:17 PM,9:32,,,MISS Mercer 19' Jump Shot,,
+0020100179,15,4,0,1,1:17 PM,9:29,,,Miller REBOUND (Off:1 Def:0),,
+0020100179,16,5,13,1,1:17 PM,9:26,,,Miller Backcourt Turnover (P1.T1),,
+0020100179,17,2,1,1,1:17 PM,9:18,MISS Sprewell 16' Jump Shot,,,,
+0020100179,19,4,0,1,1:17 PM,9:15,Houston REBOUND (Off:1 Def:1),,,,
+0020100179,18,2,4,1,1:17 PM,9:15,MISS Houston  Tip Shot,,,,
+0020100179,20,10,0,1,1:18 PM,9:15,Jump Ball Spencer vs. Miller: Tip to Spencer,,,,
+0020100179,21,4,0,1,1:18 PM,9:15,KNICKS Rebound,,,,
+0020100179,58,10,0,1,1:18 PM,9:11,Jump Ball Spencer vs. Miller: Tip to Jackson,,,,
+0020100179,22,2,1,1,1:19 PM,8:50,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020100179,23,4,0,1,1:19 PM,8:48,,,Mercer REBOUND (Off:0 Def:1),,
+0020100179,24,5,1,1,1:19 PM,8:38,Houston STEAL (1 STL),,Mercer Bad Pass Turnover (P1.T2),,
+0020100179,25,2,5,1,1:19 PM,8:33,MISS Jackson  Layup,,Mercer BLOCK (1 BLK),,
+0020100179,26,4,0,1,1:19 PM,8:32,Jackson REBOUND (Off:1 Def:0),,,,
+0020100179,27,1,5,1,1:19 PM,8:30,Jackson  Layup (2 PTS),,,2 - 9,7
+0020100179,29,1,5,1,1:20 PM,8:13,,,Miller  Layup (4 PTS),4 - 9,5
+0020100179,30,6,2,1,1:20 PM,8:13,Spencer S.FOUL (P1.T1),,,,
+0020100179,31,3,10,1,1:20 PM,8:13,,,Miller Free Throw 1 of 1 (5 PTS),5 - 9,4
+0020100179,32,6,17,1,1:20 PM,8:00,,,Bulls T.Foul (Def. 3 Sec Hassell ),,
+0020100179,33,3,16,1,1:20 PM,8:00,Houston Free Throw Technical (5 PTS),,,5 - 10,5
+0020100179,34,1,1,1,1:21 PM,7:52,Jackson 25' 3PT Jump Shot (5 PTS) (Houston 1 AST),,,5 - 13,8
+0020100179,35,2,1,1,1:21 PM,7:26,,,MISS Miller 11' Jump Shot,,
+0020100179,36,4,0,1,1:21 PM,7:26,KNICKS Rebound,,,,
+0020100179,37,6,1,1,1:22 PM,7:17,,,Oakley P.FOUL (P1.T2),,
+0020100179,38,5,1,1,1:22 PM,7:07,Sprewell Bad Pass Turnover (P1.T1),,Miller STEAL (1 STL),,
+0020100179,39,2,1,1,1:23 PM,6:58,,,MISS Oakley 21' Jump Shot,,
+0020100179,40,4,0,1,1:23 PM,6:56,Thomas REBOUND (Off:0 Def:2),,,,
+0020100179,41,1,46,1,1:23 PM,6:48,Sprewell 11' Running Jump Shot (2 PTS),,,5 - 15,10
+0020100179,42,6,1,1,1:23 PM,6:41,Spencer P.FOUL (P2.T2),,,,
+0020100179,43,5,1,1,1:23 PM,6:34,,,Oakley Bad Pass Turnover (P1.T3),,
+0020100179,44,2,1,1,1:24 PM,6:17,MISS Thomas 11' Jump Shot,,,,
+0020100179,45,4,0,1,1:24 PM,6:16,,,Anthony REBOUND (Off:0 Def:1),,
+0020100179,46,1,42,1,1:24 PM,6:10,,,Anthony  Driving Layup (2 PTS),7 - 15,8
+0020100179,47,6,2,1,1:24 PM,6:10,Spencer S.FOUL (P3.T3),,,,
+0020100179,48,8,0,1,1:24 PM,6:10,SUB: Harrington FOR Spencer,,,,
+0020100179,49,3,10,1,1:24 PM,6:10,,,Anthony Free Throw 1 of 1 (3 PTS),8 - 15,7
+0020100179,50,2,1,1,1:25 PM,5:52,MISS Sprewell 18' Jump Shot,,,,
+0020100179,51,4,0,1,1:25 PM,5:50,,,Miller REBOUND (Off:1 Def:1),,
+0020100179,52,2,5,1,1:25 PM,5:31,,,MISS Mercer  Layup,,
+0020100179,53,4,0,1,1:25 PM,5:28,Sprewell REBOUND (Off:0 Def:1),,,,
+0020100179,54,6,1,1,1:25 PM,5:24,,,Hassell P.FOUL (P1.T3),,
+0020100179,55,9,1,1,1:25 PM,5:24,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0020100179,59,1,1,1,1:27 PM,5:14,Houston 15' Jump Shot (7 PTS),,,8 - 17,9
+0020100179,60,2,1,1,1:28 PM,4:49,Harrington BLOCK (1 BLK),,MISS Miller 7' Jump Shot,,
+0020100179,61,4,0,1,1:28 PM,4:47,Thomas REBOUND (Off:0 Def:3),,,,
+0020100179,62,2,1,1,1:28 PM,4:35,MISS Sprewell 9' Jump Shot,,,,
+0020100179,63,4,0,1,1:28 PM,4:34,,,Oakley REBOUND (Off:0 Def:1),,
+0020100179,64,6,4,1,1:28 PM,4:28,,,Hassell OFF.Foul (P2),,
+0020100179,65,5,5,1,1:28 PM,4:28,,,Hassell Foul Turnover (P1.T4),,
+0020100179,66,2,1,1,1:29 PM,4:21,MISS Houston 17' Jump Shot,,,,
+0020100179,67,4,0,1,1:29 PM,4:19,Sprewell REBOUND (Off:1 Def:1),,,,
+0020100179,68,5,1,1,1:29 PM,4:16,Sprewell Bad Pass Turnover (P2.T2),,Mercer STEAL (1 STL),,
+0020100179,69,2,1,1,1:29 PM,4:11,,,MISS Anthony 26' 3PT Jump Shot,,
+0020100179,70,4,0,1,1:29 PM,4:08,Jackson REBOUND (Off:1 Def:1),,,,
+0020100179,71,2,1,1,1:29 PM,4:01,MISS Houston 20' Jump Shot,,,,
+0020100179,72,4,0,1,1:29 PM,3:59,,,Mercer REBOUND (Off:0 Def:2),,
+0020100179,73,5,1,1,1:29 PM,3:52,Houston STEAL (2 STL),,Mercer Bad Pass Turnover (P2.T5),,
+0020100179,74,1,42,1,1:29 PM,3:48,Houston  Driving Layup (9 PTS),,,8 - 19,11
+0020100179,75,1,1,1,1:29 PM,3:25,,,Hassell 24' 3PT Jump Shot (3 PTS) (Mercer 1 AST),11 - 19,8
+0020100179,76,2,1,1,1:30 PM,3:05,MISS Harrington 8' Jump Shot,,,,
+0020100179,77,4,0,1,1:30 PM,3:02,,,Anthony REBOUND (Off:0 Def:2),,
+0020100179,78,2,1,1,1:30 PM,2:54,,,MISS Mercer 9' Jump Shot,,
+0020100179,79,4,0,1,1:30 PM,2:52,Sprewell REBOUND (Off:1 Def:2),,,,
+0020100179,80,1,1,1,1:30 PM,2:36,Harrington 17' Jump Shot (2 PTS) (Jackson 3 AST),,,11 - 21,10
+0020100179,81,9,1,1,1:30 PM,2:25,,,Bulls Timeout: Regular (Reg.1 Short 0),,
+0020100179,83,8,0,1,1:32 PM,2:25,,,SUB: Hoiberg FOR Hassell,,
+0020100179,84,2,1,1,1:33 PM,2:08,,,MISS Miller 6' Jump Shot,,
+0020100179,85,4,0,1,1:33 PM,2:07,,,Bulls Rebound,,
+0020100179,86,2,1,1,1:33 PM,2:04,,,MISS Mercer 18' Jump Shot,,
+0020100179,87,4,0,1,1:33 PM,2:01,,,Miller REBOUND (Off:2 Def:1),,
+0020100179,88,1,3,1,1:33 PM,1:58,,,Miller 5' Hook Shot (7 PTS),13 - 21,8
+0020100179,89,1,3,1,1:34 PM,1:39,Thomas 7' Hook Shot (4 PTS) (Jackson 4 AST),,,13 - 23,10
+0020100179,90,2,1,1,1:34 PM,1:15,,,MISS Anthony 17' Jump Shot,,
+0020100179,91,4,0,1,1:34 PM,1:14,Thomas REBOUND (Off:0 Def:4),,,,
+0020100179,92,1,1,1,1:34 PM,1:00,Harrington 5' Jump Shot (4 PTS),,,13 - 25,12
+0020100179,93,1,5,1,1:35 PM,0:39,,,Miller  Layup (9 PTS) (Hoiberg 1 AST),15 - 25,10
+0020100179,94,6,2,1,1:35 PM,0:39,Harrington S.FOUL (P1.T4),,,,
+0020100179,96,8,0,1,1:35 PM,0:39,,,SUB: Fizer FOR Oakley,,
+0020100179,97,3,10,1,1:35 PM,0:39,,,Miller Free Throw 1 of 1 (10 PTS),16 - 25,9
+0020100179,98,5,2,1,1:36 PM,0:24,Thomas Lost Ball Turnover (P1.T3),,Hoiberg STEAL (1 STL),,
+0020100179,99,2,1,1,1:36 PM,0:03,,,MISS Fizer 8' Jump Shot,,
+0020100179,100,4,0,1,1:36 PM,0:01,Jackson REBOUND (Off:1 Def:2),,,,
+0020100179,101,2,1,1,1:36 PM,0:00,MISS Jackson 49' 3PT Jump Shot,,,,
+0020100179,102,4,0,1,1:36 PM,0:00,KNICKS Rebound,,,,
+0020100179,103,13,0,1,1:36 PM,0:00,,,,16 - 25,9
+0020100179,105,12,0,2,1:39 PM,12:00,,,,16 - 25,9
+0020100179,106,5,2,2,1:39 PM,11:42,Thomas STEAL (1 STL),,Fizer Lost Ball Turnover (P1.T6),,
+0020100179,107,1,5,2,1:39 PM,11:27,Thomas  Layup (6 PTS) (Harrington 1 AST),,,16 - 27,11
+0020100179,108,6,2,2,1:39 PM,11:27,,,Fizer S.FOUL (P1.T1),,
+0020100179,109,3,10,2,1:40 PM,11:27,Thomas Free Throw 1 of 1 (7 PTS),,,16 - 28,12
+0020100179,110,6,2,2,1:41 PM,11:06,Thomas S.FOUL (P1.T1),,,,
+0020100179,111,3,11,2,1:41 PM,11:06,,,MISS Fizer Free Throw 1 of 2,,
+0020100179,112,4,1,2,1:41 PM,11:06,,,Bulls Rebound,,
+0020100179,113,3,12,2,1:41 PM,11:06,,,MISS Fizer Free Throw 2 of 2,,
+0020100179,114,4,0,2,1:41 PM,11:05,Sprewell REBOUND (Off:1 Def:3),,,,
+0020100179,115,1,5,2,1:42 PM,10:44,Harrington  Layup (6 PTS) (Thomas 1 AST),,,16 - 30,14
+0020100179,116,6,2,2,1:42 PM,10:44,,,Ollie S.FOUL (P1.T2),,
+0020100179,117,3,10,2,1:42 PM,10:44,Harrington Free Throw 1 of 1 (7 PTS),,,16 - 31,15
+0020100179,118,2,5,2,1:42 PM,10:27,Thomas BLOCK (1 BLK),,MISS Curry  Layup,,
+0020100179,119,4,0,2,1:42 PM,10:25,Thomas REBOUND (Off:0 Def:5),,,,
+0020100179,120,1,42,2,1:43 PM,10:07,Harrington  Driving Layup (9 PTS) (Sprewell 1 AST),,,16 - 33,17
+0020100179,121,9,1,2,1:43 PM,9:58,,,Bulls Timeout: Regular (Reg.2 Short 0),,
+0020100179,123,6,2,2,1:45 PM,9:42,Harrington S.FOUL (P2.T2),,,,
+0020100179,124,3,11,2,1:46 PM,9:42,,,Curry Free Throw 1 of 2 (1 PTS),17 - 33,16
+0020100179,125,8,0,2,1:46 PM,9:42,SUB: Knight FOR Thomas,,,,
+0020100179,126,3,12,2,1:46 PM,9:42,,,Curry Free Throw 2 of 2 (2 PTS),18 - 33,15
+0020100179,127,5,1,2,1:46 PM,9:21,Knight Bad Pass Turnover (P1.T4),,Ollie STEAL (1 STL),,
+0020100179,128,2,1,2,1:46 PM,9:13,,,MISS Hassell 24' 3PT Jump Shot,,
+0020100179,129,4,0,2,1:46 PM,9:10,,,Fizer REBOUND (Off:1 Def:0),,
+0020100179,130,1,49,2,1:46 PM,9:09,,,Hassell  Driving Dunk (5 PTS) (Fizer 1 AST),20 - 33,13
+0020100179,131,6,2,2,1:46 PM,9:09,Sprewell S.FOUL (P1.T3),,,,
+0020100179,132,8,0,2,1:47 PM,9:09,SUB: Eisley FOR Jackson,,,,
+0020100179,133,3,10,2,1:47 PM,9:09,,,Hassell Free Throw 1 of 1 (6 PTS),21 - 33,12
+0020100179,134,2,5,2,1:47 PM,8:51,MISS Anderson  Layup,,,,
+0020100179,135,4,0,2,1:47 PM,8:49,,,Fizer REBOUND (Off:1 Def:1),,
+0020100179,136,6,2,2,1:48 PM,8:37,Anderson S.FOUL (P1.T4),,,,
+0020100179,137,8,0,2,1:48 PM,8:37,SUB: Houston FOR Sprewell,,,,
+0020100179,138,3,11,2,1:48 PM,8:37,,,Curry Free Throw 1 of 2 (3 PTS),22 - 33,11
+0020100179,139,8,0,2,1:48 PM,8:37,,,SUB: Mercer FOR Hoiberg,,
+0020100179,140,3,12,2,1:48 PM,8:37,,,Curry Free Throw 2 of 2 (4 PTS),23 - 33,10
+0020100179,141,2,1,2,1:49 PM,8:15,MISS Eisley 19' Jump Shot,,,,
+0020100179,142,4,0,2,1:49 PM,8:13,Knight REBOUND (Off:1 Def:0),,,,
+0020100179,143,2,1,2,1:49 PM,7:59,MISS Houston 14' Jump Shot,,,,
+0020100179,144,4,0,2,1:49 PM,7:57,,,Curry REBOUND (Off:0 Def:1),,
+0020100179,145,6,2,2,1:50 PM,7:35,Knight S.FOUL (P1.PN),,,,
+0020100179,146,3,11,2,1:50 PM,7:35,,,MISS Curry Free Throw 1 of 2,,
+0020100179,147,4,1,2,1:50 PM,7:35,,,Bulls Rebound,,
+0020100179,148,3,12,2,1:50 PM,7:35,,,Curry Free Throw 2 of 2 (5 PTS),24 - 33,9
+0020100179,149,5,1,2,1:50 PM,7:18,Anderson Bad Pass Turnover (P1.T5),,Curry STEAL (1 STL),,
+0020100179,150,2,1,2,1:51 PM,7:02,,,MISS Fizer 5' Jump Shot,,
+0020100179,151,4,0,2,1:51 PM,7:01,,,Bulls Rebound,,
+0020100179,152,6,3,2,1:51 PM,7:01,Houston L.B.FOUL (P1.PN),,,,
+0020100179,153,3,11,2,1:51 PM,7:01,,,MISS Fizer Free Throw 1 of 2,,
+0020100179,154,4,1,2,1:51 PM,7:01,,,Bulls Rebound,,
+0020100179,155,8,0,2,1:51 PM,7:01,SUB: Thomas FOR Harrington,,,,
+0020100179,156,3,12,2,1:51 PM,7:01,,,Fizer Free Throw 2 of 2 (1 PTS),25 - 33,8
+0020100179,157,2,1,2,1:52 PM,6:44,MISS Houston 10' Jump Shot,,,,
+0020100179,159,4,0,2,1:52 PM,6:42,Knight REBOUND (Off:2 Def:0),,,,
+0020100179,158,1,4,2,1:52 PM,6:42,Knight  Tip Shot (2 PTS),,,25 - 35,10
+0020100179,160,2,5,2,1:52 PM,6:21,,,MISS Fizer  Layup,,
+0020100179,161,4,0,2,1:52 PM,6:19,Knight REBOUND (Off:2 Def:1),,,,
+0020100179,162,2,1,2,1:52 PM,6:10,MISS Knight 21' Jump Shot,,,,
+0020100179,163,4,0,2,1:52 PM,6:08,,,Mercer REBOUND (Off:0 Def:3),,
+0020100179,164,2,1,2,1:53 PM,5:55,,,MISS Mercer 22' Jump Shot,,
+0020100179,165,4,0,2,1:53 PM,5:53,Thomas REBOUND (Off:0 Def:6),,,,
+0020100179,166,2,1,2,1:53 PM,5:42,MISS Houston 17' Jump Shot,,,,
+0020100179,167,4,0,2,1:53 PM,5:39,Knight REBOUND (Off:3 Def:1),,,,
+0020100179,168,6,2,2,1:53 PM,5:38,,,Curry S.FOUL (P1.T3),,
+0020100179,169,9,4,2,1:54 PM,5:38,,,,,
+0020100179,171,8,0,2,1:55 PM,5:38,,,SUB: Oakley FOR Fizer,,
+0020100179,172,8,0,2,1:55 PM,5:38,,,SUB: Miller FOR Curry,,
+0020100179,173,3,11,2,1:55 PM,5:38,Knight Free Throw 1 of 2 (3 PTS),,,25 - 36,11
+0020100179,174,3,12,2,1:56 PM,5:38,Knight Free Throw 2 of 2 (4 PTS),,,25 - 37,12
+0020100179,175,2,5,2,1:56 PM,5:17,,,MISS Mercer  Layup,,
+0020100179,176,4,0,2,1:56 PM,5:15,Anderson REBOUND (Off:0 Def:1),,,,
+0020100179,177,1,1,2,1:56 PM,4:55,Knight 17' Jump Shot (6 PTS) (Houston 2 AST),,,25 - 39,14
+0020100179,178,2,1,2,1:57 PM,4:31,,,MISS Ollie 17' Jump Shot,,
+0020100179,179,4,0,2,1:57 PM,4:30,Knight REBOUND (Off:3 Def:2),,,,
+0020100179,180,2,1,2,1:57 PM,4:15,MISS Eisley 10' Jump Shot,,,,
+0020100179,181,4,0,2,1:57 PM,4:13,,,Miller REBOUND (Off:2 Def:2),,
+0020100179,182,1,1,2,1:57 PM,4:06,,,Hassell 26' 3PT Jump Shot (9 PTS) (Ollie 1 AST),28 - 39,11
+0020100179,183,9,1,2,1:57 PM,3:59,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0020100179,185,8,0,2,1:59 PM,3:59,SUB: Jackson FOR Eisley,,,,
+0020100179,186,8,0,2,1:59 PM,3:59,SUB: Sprewell FOR Anderson,,,,
+0020100179,187,2,5,2,2:00 PM,3:44,MISS Thomas  Layup,,,,
+0020100179,188,4,0,2,2:00 PM,3:41,,,Miller REBOUND (Off:2 Def:3),,
+0020100179,189,2,1,2,2:00 PM,3:38,,,MISS Ollie 15' Jump Shot,,
+0020100179,190,4,0,2,2:00 PM,3:36,KNICKS Rebound,,,,
+0020100179,191,6,3,2,2:00 PM,3:36,,,Oakley L.B.FOUL (P2.T4),,
+0020100179,192,2,5,2,2:00 PM,3:23,MISS Thomas  Layup,,,,
+0020100179,193,4,0,2,2:01 PM,3:21,,,Mercer REBOUND (Off:0 Def:4),,
+0020100179,194,1,5,2,2:01 PM,3:17,,,Miller  Layup (12 PTS) (Oakley 2 AST),30 - 39,9
+0020100179,195,6,2,2,2:01 PM,3:17,Jackson S.FOUL (P1.PN),,,,
+0020100179,196,8,0,2,2:01 PM,3:17,SUB: Harrington FOR Knight,,,,
+0020100179,197,3,10,2,2:01 PM,3:17,,,Miller Free Throw 1 of 1 (13 PTS),31 - 39,8
+0020100179,198,6,17,2,2:02 PM,3:02,,,Bulls T.Foul (Def. 3 Sec Oakley ),,
+0020100179,199,3,16,2,2:02 PM,3:02,MISS Houston Free Throw Technical,,,,
+0020100179,200,4,1,2,2:02 PM,3:02,KNICKS Rebound,,,,
+0020100179,201,5,2,2,2:02 PM,2:57,Thomas Lost Ball Turnover (P2.T6),,Oakley STEAL (1 STL),,
+0020100179,202,1,1,2,2:02 PM,2:47,,,Miller 6' Jump Shot (15 PTS) (Hassell 1 AST),33 - 39,6
+0020100179,203,9,2,2,2:02 PM,2:41,KNICKS Timeout: Short (Full 2 Short 1),,,,
+0020100179,205,8,0,2,2:03 PM,2:41,SUB: Knight FOR Thomas,,,,
+0020100179,206,2,1,2,2:03 PM,2:35,MISS Knight 15' Jump Shot,,,,
+0020100179,207,4,0,2,2:04 PM,2:33,,,Hassell REBOUND (Off:0 Def:1),,
+0020100179,208,6,1,2,2:04 PM,2:18,Sprewell P.FOUL (P2.PN),,,,
+0020100179,209,3,11,2,2:04 PM,2:18,,,Mercer Free Throw 1 of 2 (1 PTS),34 - 39,5
+0020100179,210,3,12,2,2:04 PM,2:18,,,Mercer Free Throw 2 of 2 (2 PTS),35 - 39,4
+0020100179,211,2,1,2,2:05 PM,2:03,MISS Jackson 25' 3PT Jump Shot,,,,
+0020100179,212,4,0,2,2:05 PM,2:01,,,Bulls Rebound,,
+0020100179,213,1,46,2,2:05 PM,1:40,,,Mercer 7' Running Jump Shot (4 PTS),37 - 39,2
+0020100179,214,2,1,2,2:06 PM,1:13,MISS Houston 17' Jump Shot,,,,
+0020100179,215,4,0,2,2:06 PM,1:11,Houston REBOUND (Off:2 Def:1),,,,
+0020100179,216,1,46,2,2:06 PM,1:09,Houston 7' Running Jump Shot (11 PTS),,,37 - 41,4
+0020100179,217,2,1,2,2:06 PM,0:48,,,MISS Mercer 16' Jump Shot,,
+0020100179,218,4,0,2,2:06 PM,0:47,Jackson REBOUND (Off:1 Def:3),,,,
+0020100179,219,5,3,2,2:06 PM,0:45,Jackson Out Of Bounds Turnover (P1.T7),,,,
+0020100179,220,8,0,2,2:06 PM,0:45,SUB: Thomas FOR Harrington,,,,
+0020100179,221,2,1,2,2:07 PM,0:35,,,MISS Ollie 10' Jump Shot,,
+0020100179,222,4,0,2,2:07 PM,0:33,Thomas REBOUND (Off:0 Def:7),,,,
+0020100179,223,6,4,2,2:07 PM,0:16,Houston OFF.Foul (P2),,,,
+0020100179,224,5,5,2,2:07 PM,0:16,Houston Foul Turnover (P1.T8),,,,
+0020100179,225,8,0,2,2:07 PM,0:16,SUB: Anderson FOR Houston,,,,
+0020100179,226,8,0,2,2:07 PM,0:16,SUB: Eisley FOR Sprewell,,,,
+0020100179,227,2,1,2,2:08 PM,0:01,,,MISS Miller 5' Jump Shot,,
+0020100179,228,4,0,2,2:08 PM,0:00,Eisley REBOUND (Off:0 Def:1),,,,
+0020100179,229,13,0,2,2:08 PM,0:00,,,,37 - 41,4
+0020100179,231,12,0,3,2:25 PM,12:00,,,,37 - 41,4
+0020100179,232,2,1,3,2:25 PM,11:39,,,MISS Miller 13' Jump Shot,,
+0020100179,233,4,0,3,2:25 PM,11:38,,,Anthony REBOUND (Off:1 Def:2),,
+0020100179,234,2,1,3,2:25 PM,11:36,,,MISS Anthony 8' Jump Shot,,
+0020100179,235,4,0,3,2:26 PM,11:33,Sprewell REBOUND (Off:1 Def:4),,,,
+0020100179,236,2,1,3,2:26 PM,11:26,MISS Sprewell 15' Jump Shot,,,,
+0020100179,237,4,0,3,2:26 PM,11:24,,,Oakley REBOUND (Off:0 Def:2),,
+0020100179,238,6,1,3,2:26 PM,11:06,Spencer P.FOUL (P4.T1),,,,
+0020100179,239,1,1,3,2:27 PM,10:58,,,Mercer 16' Jump Shot (6 PTS) (Anthony 1 AST),39 - 41,2
+0020100179,240,5,1,3,2:27 PM,10:34,Thomas Bad Pass Turnover (P3.T9),,Mercer STEAL (2 STL),,
+0020100179,241,2,5,3,2:27 PM,10:31,,,MISS Mercer  Layup,,
+0020100179,242,4,0,3,2:27 PM,10:28,Houston REBOUND (Off:2 Def:2),,,,
+0020100179,243,2,3,3,2:27 PM,10:20,MISS Jackson 8' Hook Shot,,,,
+0020100179,244,4,0,3,2:27 PM,10:17,Spencer REBOUND (Off:1 Def:0),,,,
+0020100179,245,1,1,3,2:27 PM,10:16,Jackson 6' Jump Shot (7 PTS) (Spencer 1 AST),,,39 - 43,4
+0020100179,246,5,1,3,2:28 PM,9:56,Spencer STEAL (1 STL),,Mercer Bad Pass Turnover (P3.T7),,
+0020100179,247,5,2,3,2:28 PM,9:51,Sprewell Lost Ball Turnover (P3.T10),,,,
+0020100179,248,2,1,3,2:28 PM,9:32,,,MISS Hassell 25' 3PT Jump Shot,,
+0020100179,249,4,0,3,2:28 PM,9:30,Houston REBOUND (Off:2 Def:3),,,,
+0020100179,250,5,1,3,2:29 PM,9:15,Sprewell Bad Pass Turnover (P4.T11),,Oakley STEAL (2 STL),,
+0020100179,253,6,1,3,2:29 PM,9:13,Spencer P.FOUL (P5.T2),,,,
+0020100179,254,8,0,3,2:29 PM,9:13,SUB: Harrington FOR Spencer,,,,
+0020100179,255,1,5,3,2:29 PM,8:58,,,Miller  Layup (17 PTS),41 - 43,2
+0020100179,256,7,1,3,2:30 PM,8:56,,,Bulls Violation: Delay of game Violation,,
+0020100179,257,2,1,3,2:30 PM,8:45,MISS Jackson 5' Jump Shot,,,,
+0020100179,258,4,0,3,2:30 PM,8:42,,,Oakley REBOUND (Off:0 Def:3),,
+0020100179,259,5,1,3,2:30 PM,8:26,Jackson STEAL (1 STL),,Mercer Bad Pass Turnover (P4.T8),,
+0020100179,260,2,1,3,2:30 PM,8:12,MISS Houston  3PT Jump Shot,,,,
+0020100179,261,4,0,3,2:30 PM,8:10,,,Oakley REBOUND (Off:0 Def:4),,
+0020100179,262,2,1,3,2:31 PM,8:01,,,MISS Hassell 19' Jump Shot,,
+0020100179,263,4,0,3,2:31 PM,7:59,Sprewell REBOUND (Off:1 Def:5),,,,
+0020100179,264,9,1,3,2:31 PM,7:53,KNICKS Timeout: Regular (Full 3 Short 1),,,,
+0020100179,266,2,1,3,2:33 PM,7:45,MISS Harrington 5' Jump Shot,,,,
+0020100179,267,4,0,3,2:33 PM,7:43,,,Miller REBOUND (Off:2 Def:4),,
+0020100179,268,1,5,3,2:33 PM,7:25,,,Hassell  Layup (11 PTS),43 - 43,TIE
+0020100179,269,2,1,3,2:34 PM,7:03,MISS Houston 9' Jump Shot,,Hassell BLOCK (1 BLK),,
+0020100179,270,4,0,3,2:34 PM,7:01,Houston REBOUND (Off:3 Def:3),,,,
+0020100179,271,5,1,3,2:34 PM,6:59,Houston Bad Pass Turnover (P2.T12),,Miller STEAL (2 STL),,
+0020100179,272,6,2,3,2:34 PM,6:54,Harrington S.FOUL (P3.T3),,,,
+0020100179,273,3,11,3,2:34 PM,6:54,,,MISS Anthony Free Throw 1 of 2,,
+0020100179,274,4,1,3,2:34 PM,6:54,,,Bulls Rebound,,
+0020100179,275,3,12,3,2:35 PM,6:54,,,Anthony Free Throw 2 of 2 (4 PTS),44 - 43,-1
+0020100179,276,1,46,3,2:35 PM,6:43,Houston 7' Running Jump Shot (13 PTS),,,44 - 45,1
+0020100179,277,2,1,3,2:35 PM,6:24,,,MISS Mercer 17' Jump Shot,,
+0020100179,278,4,0,3,2:35 PM,6:22,Jackson REBOUND (Off:1 Def:4),,,,
+0020100179,279,2,1,3,2:36 PM,6:13,MISS Jackson 25' 3PT Jump Shot,,,,
+0020100179,280,4,0,3,2:36 PM,6:11,,,Hassell REBOUND (Off:0 Def:2),,
+0020100179,281,6,1,3,2:36 PM,5:54,Jackson P.FOUL (P2.T4),,,,
+0020100179,282,5,1,3,2:37 PM,5:44,Harrington STEAL (1 STL),,Anthony Bad Pass Turnover (P1.T9),,
+0020100179,283,2,1,3,2:37 PM,5:24,MISS Harrington 18' Jump Shot,,,,
+0020100179,284,4,0,3,2:37 PM,5:24,KNICKS Rebound,,,,
+0020100179,285,6,3,3,2:37 PM,5:24,,,Mercer L.B.FOUL (P1.T1),,
+0020100179,286,6,11,3,2:37 PM,5:24,,,Miller T.FOUL (P1.T1),,
+0020100179,287,3,16,3,2:37 PM,5:24,Houston Free Throw Technical (14 PTS),,,44 - 46,2
+0020100179,288,2,1,3,2:38 PM,5:20,MISS Thomas 17' Jump Shot,,,,
+0020100179,289,4,0,3,2:38 PM,5:15,Harrington REBOUND (Off:1 Def:0),,,,
+0020100179,290,1,5,3,2:38 PM,5:12,Harrington  Layup (11 PTS),,,44 - 48,4
+0020100179,291,2,5,3,2:38 PM,4:50,,,MISS Hassell  Layup,,
+0020100179,292,4,0,3,2:39 PM,4:49,,,Hassell REBOUND (Off:1 Def:2),,
+0020100179,293,5,11,3,2:39 PM,4:49,,,Bulls Turnover: Shot Clock (T#10),,
+0020100179,294,2,1,3,2:39 PM,4:27,MISS Houston 24' 3PT Jump Shot,,,,
+0020100179,295,4,0,3,2:39 PM,4:25,Thomas REBOUND (Off:1 Def:7),,,,
+0020100179,296,1,5,3,2:39 PM,4:22,Houston  Layup (16 PTS) (Thomas 2 AST),,,44 - 50,6
+0020100179,297,5,11,3,2:40 PM,3:55,,,Bulls Turnover: Shot Clock (T#11),,
+0020100179,298,8,0,3,2:40 PM,3:55,,,SUB: Hoiberg FOR Hassell,,
+0020100179,299,1,1,3,2:40 PM,3:43,Thomas 16' Jump Shot (9 PTS) (Jackson 5 AST),,,44 - 52,8
+0020100179,300,2,1,3,2:40 PM,3:20,,,MISS Oakley 16' Jump Shot,,
+0020100179,301,4,0,3,2:41 PM,3:18,Jackson REBOUND (Off:1 Def:5),,,,
+0020100179,302,6,4,3,2:41 PM,3:13,Jackson OFF.Foul (P3),,,,
+0020100179,303,5,5,3,2:41 PM,3:13,Jackson Foul Turnover (P2.T13),,,,
+0020100179,304,2,5,3,2:41 PM,3:02,,,MISS Mercer  Layup,,
+0020100179,305,4,0,3,2:41 PM,3:00,Houston REBOUND (Off:3 Def:4),,,,
+0020100179,306,2,1,3,2:41 PM,2:39,MISS Jackson  3PT Jump Shot,,,,
+0020100179,307,4,0,3,2:41 PM,2:37,,,Anthony REBOUND (Off:1 Def:3),,
+0020100179,308,1,5,3,2:42 PM,2:27,,,Miller  Layup (19 PTS) (Anthony 2 AST),46 - 52,6
+0020100179,309,6,2,3,2:42 PM,2:27,Thomas S.FOUL (P2.PN),,,,
+0020100179,310,9,1,3,2:42 PM,2:27,,,Bulls Timeout: Regular (Reg.3 Short 0),,
+0020100179,313,8,0,3,2:44 PM,2:27,,,SUB: Chandler FOR Oakley,,
+0020100179,314,8,0,3,2:44 PM,2:27,SUB: Eisley FOR Jackson,,,,
+0020100179,315,3,10,3,2:44 PM,2:27,,,Miller Free Throw 1 of 1 (20 PTS),47 - 52,5
+0020100179,316,1,1,3,2:45 PM,2:11,Sprewell 25' 3PT Jump Shot (5 PTS) (Eisley 1 AST),,,47 - 55,8
+0020100179,317,1,52,3,2:45 PM,1:57,,,Chandler  Alley Oop Dunk (2 PTS) (Anthony 3 AST),49 - 55,6
+0020100179,318,1,1,3,2:45 PM,1:38,Houston 20' Jump Shot (18 PTS) (Eisley 2 AST),,,49 - 57,8
+0020100179,319,1,1,3,2:46 PM,1:15,,,Mercer 16' Jump Shot (8 PTS) (Miller 1 AST),51 - 57,6
+0020100179,320,2,1,3,2:46 PM,0:50,MISS Eisley 19' Jump Shot,,,,
+0020100179,321,4,0,3,2:46 PM,0:48,Harrington REBOUND (Off:2 Def:0),,,,
+0020100179,322,2,1,3,2:46 PM,0:42,MISS Thomas 12' Jump Shot,,,,
+0020100179,323,4,0,3,2:46 PM,0:40,,,Mercer REBOUND (Off:0 Def:5),,
+0020100179,324,2,1,3,2:46 PM,0:28,,,MISS Anthony 9' Jump Shot,,
+0020100179,325,4,0,3,2:46 PM,0:27,Harrington REBOUND (Off:2 Def:1),,,,
+0020100179,326,6,4,3,2:47 PM,0:15,Thomas OFF.Foul (P3),,,,
+0020100179,327,5,5,3,2:47 PM,0:15,Thomas Foul Turnover (P4.T14),,,,
+0020100179,328,8,0,3,2:47 PM,0:15,SUB: Anderson FOR Thomas,,,,
+0020100179,329,2,1,3,2:47 PM,0:02,,,MISS Mercer 15' Jump Shot,,
+0020100179,330,4,0,3,2:47 PM,0:01,,,Mercer REBOUND (Off:1 Def:5),,
+0020100179,331,13,0,3,2:47 PM,0:00,,,,51 - 57,6
+0020100179,333,12,0,4,2:50 PM,12:00,,,,51 - 57,6
+0020100179,334,1,1,4,2:50 PM,11:43,Houston 13' Jump Shot (20 PTS),,,51 - 59,8
+0020100179,335,6,2,4,2:51 PM,11:19,Houston S.FOUL (P3.T1),,,,
+0020100179,336,3,11,4,2:51 PM,11:19,,,Mercer Free Throw 1 of 2 (9 PTS),52 - 59,7
+0020100179,337,3,12,4,2:51 PM,11:19,,,MISS Mercer Free Throw 2 of 2,,
+0020100179,338,4,0,4,2:51 PM,11:18,Anderson REBOUND (Off:0 Def:2),,,,
+0020100179,339,5,11,4,2:52 PM,10:54,KNICKS Turnover: Shot Clock (T#15),,,,
+0020100179,340,6,2,4,2:52 PM,10:38,Anderson S.FOUL (P2.T2),,,,
+0020100179,341,3,11,4,2:52 PM,10:38,,,MISS Chandler Free Throw 1 of 2,,
+0020100179,342,4,1,4,2:52 PM,10:38,,,Bulls Rebound,,
+0020100179,343,8,0,4,2:53 PM,10:38,SUB: Thomas FOR Houston,,,,
+0020100179,344,8,0,4,2:53 PM,10:38,,,SUB: Curry FOR Miller,,
+0020100179,345,3,12,4,2:53 PM,10:38,,,MISS Chandler Free Throw 2 of 2,,
+0020100179,346,4,0,4,2:53 PM,10:38,Thomas REBOUND (Off:1 Def:8),,,,
+0020100179,347,2,1,4,2:53 PM,10:19,MISS Anderson  3PT Jump Shot,,,,
+0020100179,348,4,0,4,2:53 PM,10:17,,,Mercer REBOUND (Off:1 Def:6),,
+0020100179,349,5,1,4,2:54 PM,9:58,,,Ollie Bad Pass Turnover (P1.T12),,
+0020100179,350,2,1,4,2:54 PM,9:45,MISS Eisley 10' Jump Shot,,,,
+0020100179,351,4,0,4,2:54 PM,9:43,Harrington REBOUND (Off:3 Def:1),,,,
+0020100179,352,1,3,4,2:54 PM,9:42,Harrington 6' Hook Shot (13 PTS),,,52 - 61,9
+0020100179,353,6,17,4,2:54 PM,9:30,KNICKS T.Foul (Def. 3 Sec Harrington ),,,,
+0020100179,354,3,16,4,2:54 PM,9:30,,,Hoiberg Free Throw Technical (1 PTS),53 - 61,8
+0020100179,355,2,1,4,2:55 PM,9:18,,,MISS Hoiberg 13' Jump Shot,,
+0020100179,356,4,0,4,2:55 PM,9:16,Thomas REBOUND (Off:1 Def:9),,,,
+0020100179,357,2,1,4,2:55 PM,9:01,MISS Eisley 25' 3PT Jump Shot,,,,
+0020100179,358,4,0,4,2:55 PM,8:59,,,Hoiberg REBOUND (Off:0 Def:1),,
+0020100179,359,6,2,4,2:56 PM,8:39,Sprewell S.FOUL (P3.T3),,,,
+0020100179,360,9,4,4,2:56 PM,8:39,,,,,
+0020100179,362,8,0,4,2:58 PM,8:39,,,SUB: Oakley FOR Mercer,,
+0020100179,363,8,0,4,2:58 PM,8:39,,,SUB: Hassell FOR Chandler,,
+0020100179,364,3,11,4,2:58 PM,8:39,,,MISS Curry Free Throw 1 of 2,,
+0020100179,365,4,1,4,2:58 PM,8:39,,,Bulls Rebound,,
+0020100179,366,3,12,4,2:58 PM,8:39,,,Curry Free Throw 2 of 2 (6 PTS),54 - 61,7
+0020100179,367,1,56,4,2:59 PM,8:25,Harrington 5' Running Hook Shot (15 PTS),,,54 - 63,9
+0020100179,368,5,1,4,2:59 PM,8:10,,,Oakley Bad Pass Turnover (P2.T13),,
+0020100179,369,8,0,4,2:59 PM,8:10,,,SUB: Miller FOR Curry,,
+0020100179,370,1,1,4,2:59 PM,7:58,Harrington 5' Jump Shot (17 PTS) (Sprewell 2 AST),,,54 - 65,11
+0020100179,371,1,42,4,3:00 PM,7:40,,,Ollie  Driving Layup (2 PTS),56 - 65,9
+0020100179,372,6,1,4,3:00 PM,7:17,,,Oakley P.FOUL (P3.T1),,
+0020100179,373,8,0,4,3:00 PM,7:17,SUB: Houston FOR Sprewell,,,,
+0020100179,374,1,46,4,3:00 PM,7:07,Eisley 17' Running Jump Shot (2 PTS) (Harrington 2 AST),,,56 - 67,11
+0020100179,375,2,1,4,3:01 PM,6:53,,,MISS Hoiberg 26' 3PT Jump Shot,,
+0020100179,376,4,0,4,3:01 PM,6:51,Harrington REBOUND (Off:3 Def:2),,,,
+0020100179,377,2,1,4,3:01 PM,6:36,MISS Houston 10' Jump Shot,,,,
+0020100179,378,4,0,4,3:01 PM,6:34,,,Ollie REBOUND (Off:0 Def:1),,
+0020100179,379,6,1,4,3:01 PM,6:23,Harrington P.FOUL (P4.T4),,,,
+0020100179,380,2,1,4,3:02 PM,6:15,,,MISS Hassell 17' Jump Shot,,
+0020100179,381,4,0,4,3:02 PM,6:15,Anderson REBOUND (Off:0 Def:3),,,,
+0020100179,382,9,1,4,3:03 PM,6:11,KNICKS Timeout: Regular (Full 4 Short 1),,,,
+0020100179,383,8,0,4,3:05 PM,6:11,SUB: Jackson FOR Eisley,,,,
+0020100179,390,8,0,4,3:05 PM,6:11,,,SUB: Guyton FOR Oakley,,
+0020100179,391,8,0,4,3:05 PM,6:11,,,SUB: Fizer FOR Hoiberg,,
+0020100179,392,8,0,4,3:05 PM,6:11,,,SUB: Mercer FOR Ollie,,
+0020100179,384,5,8,4,3:05 PM,5:53,Thomas 3 Second Violation Turnover (P5.T16),,,,
+0020100179,385,5,1,4,3:06 PM,5:38,Jackson STEAL (2 STL),,Guyton Bad Pass Turnover (P1.T14),,
+0020100179,453,5,1,4,3:06 PM,5:31,Jackson Bad Pass Turnover (P3.T17),,,,
+0020100179,386,2,5,4,3:06 PM,5:13,,,MISS Fizer  Layup,,
+0020100179,388,4,0,4,3:06 PM,5:06,Thomas REBOUND (Off:1 Def:10),,,,
+0020100179,389,1,1,4,3:06 PM,4:53,Jackson 16' Jump Shot (9 PTS) (Thomas 3 AST),,,56 - 69,13
+0020100179,393,2,1,4,3:07 PM,4:27,,,MISS Fizer 24' 3PT Jump Shot,,
+0020100179,394,4,0,4,3:07 PM,4:25,,,Miller REBOUND (Off:3 Def:4),,
+0020100179,395,2,1,4,3:07 PM,4:21,,,MISS Guyton 24' 3PT Jump Shot,,
+0020100179,396,4,0,4,3:07 PM,4:20,,,Miller REBOUND (Off:4 Def:4),,
+0020100179,397,1,5,4,3:07 PM,4:20,,,Miller  Layup (22 PTS),58 - 69,11
+0020100179,398,6,2,4,3:07 PM,4:20,Harrington S.FOUL (P5.PN),,,,
+0020100179,399,8,0,4,3:07 PM,4:20,SUB: Sprewell FOR Anderson,,,,
+0020100179,400,3,10,4,3:07 PM,4:20,,,MISS Miller Free Throw 1 of 1,,
+0020100179,401,4,0,4,3:07 PM,4:19,Thomas REBOUND (Off:1 Def:11),,,,
+0020100179,402,2,1,4,3:08 PM,3:59,MISS Jackson 8' Jump Shot,,,,
+0020100179,403,4,0,4,3:08 PM,3:57,,,Hassell REBOUND (Off:1 Def:3),,
+0020100179,404,2,1,4,3:08 PM,3:40,,,MISS Guyton 18' Jump Shot,,
+0020100179,405,4,0,4,3:08 PM,3:39,,,Fizer REBOUND (Off:2 Def:1),,
+0020100179,406,6,1,4,3:08 PM,3:36,Thomas P.FOUL (P4.PN),,,,
+0020100179,407,3,11,4,3:08 PM,3:36,,,Fizer Free Throw 1 of 2 (2 PTS),59 - 69,10
+0020100179,408,3,12,4,3:09 PM,3:36,,,MISS Fizer Free Throw 2 of 2,,
+0020100179,409,4,0,4,3:09 PM,3:35,Jackson REBOUND (Off:1 Def:6),,,,
+0020100179,410,5,1,4,3:09 PM,3:14,Sprewell Bad Pass Turnover (P5.T18),,,,
+0020100179,411,2,1,4,3:09 PM,3:09,,,MISS Guyton 24' 3PT Jump Shot,,
+0020100179,412,4,0,4,3:09 PM,3:06,Sprewell REBOUND (Off:1 Def:6),,,,
+0020100179,413,9,1,4,3:10 PM,2:54,,,Bulls Timeout: Regular (Reg.4 Short 0),,
+0020100179,415,2,1,4,3:12 PM,2:47,MISS Jackson 14' Jump Shot,,,,
+0020100179,416,4,0,4,3:12 PM,2:47,,,Miller REBOUND (Off:4 Def:5),,
+0020100179,417,6,3,4,3:12 PM,2:47,Thomas L.B.FOUL (P5.PN),,,,
+0020100179,418,3,11,4,3:13 PM,2:47,,,MISS Miller Free Throw 1 of 2,,
+0020100179,419,4,1,4,3:13 PM,2:47,,,Bulls Rebound,,
+0020100179,420,3,12,4,3:13 PM,2:47,,,Miller Free Throw 2 of 2 (23 PTS),60 - 69,9
+0020100179,421,6,2,4,3:13 PM,2:31,,,Hassell S.FOUL (P3.T2),,
+0020100179,422,3,11,4,3:14 PM,2:31,MISS Harrington Free Throw 1 of 2,,,,
+0020100179,423,4,1,4,3:14 PM,2:31,KNICKS Rebound,,,,
+0020100179,424,3,12,4,3:14 PM,2:31,Harrington Free Throw 2 of 2 (18 PTS),,,60 - 70,10
+0020100179,425,1,42,4,3:14 PM,2:14,,,Hassell  Driving Layup (13 PTS),62 - 70,8
+0020100179,426,6,2,4,3:14 PM,2:14,Harrington S.FOUL (P6.PN),,,,
+0020100179,427,8,0,4,3:15 PM,2:14,SUB: Knight FOR Harrington,,,,
+0020100179,428,3,10,4,3:15 PM,2:14,,,Hassell Free Throw 1 of 1 (14 PTS),63 - 70,7
+0020100179,429,6,1,4,3:15 PM,1:59,,,Guyton P.FOUL (P1.T3),,
+0020100179,430,1,1,4,3:16 PM,1:53,Houston 21' Jump Shot (22 PTS) (Sprewell 3 AST),,,63 - 72,9
+0020100179,431,1,1,4,3:16 PM,1:35,,,Mercer 25' 3PT Jump Shot (12 PTS) (Hassell 2 AST),66 - 72,6
+0020100179,432,1,5,4,3:16 PM,1:20,Thomas  Layup (11 PTS) (Jackson 6 AST),,,66 - 74,8
+0020100179,433,6,2,4,3:17 PM,1:05,Houston S.FOUL (P4.PN),,,,
+0020100179,434,3,11,4,3:17 PM,1:05,,,Fizer Free Throw 1 of 2 (3 PTS),67 - 74,7
+0020100179,435,3,12,4,3:17 PM,1:05,,,Fizer Free Throw 2 of 2 (4 PTS),68 - 74,6
+0020100179,436,5,1,4,3:18 PM,1:01,Sprewell Bad Pass Turnover (P6.T19),,,,
+0020100179,437,9,1,4,3:18 PM,1:01,,,Bulls Timeout: Regular (Reg.5 Short 0),,
+0020100179,439,6,2,4,3:20 PM,0:50,Sprewell S.FOUL (P4.PN),,,,
+0020100179,440,3,11,4,3:20 PM,0:50,,,MISS Hassell Free Throw 1 of 2,,
+0020100179,441,4,1,4,3:20 PM,0:50,,,Bulls Rebound,,
+0020100179,442,3,12,4,3:20 PM,0:50,,,Hassell Free Throw 2 of 2 (15 PTS),69 - 74,5
+0020100179,443,2,1,4,3:21 PM,0:32,MISS Houston 19' Jump Shot,,,,
+0020100179,444,10,0,4,3:21 PM,0:29,Jump Ball Thomas vs. Mercer: Tip to Mercer,,,,
+0020100179,445,4,0,4,3:21 PM,0:29,,,Bulls Rebound,,
+0020100179,446,1,46,4,3:21 PM,0:18,,,Mercer 20' Running Jump Shot (14 PTS),71 - 74,3
+0020100179,447,6,1,4,3:21 PM,0:16,,,Hassell P.FOUL (P4.PN),,
+0020100179,448,3,11,4,3:22 PM,0:16,Houston Free Throw 1 of 2 (23 PTS),,,71 - 75,4
+0020100179,449,8,0,4,3:22 PM,0:16,SUB: Anderson FOR Knight,,,,
+0020100179,450,3,12,4,3:22 PM,0:16,Houston Free Throw 2 of 2 (24 PTS),,,71 - 76,5
+0020100179,451,9,1,4,3:22 PM,0:16,,,Bulls Timeout: Regular (Reg.6 Short 0),,
+0020100179,454,2,1,4,3:24 PM,0:08,,,MISS Guyton 25' 3PT Jump Shot,,
+0020100179,455,4,0,4,3:24 PM,0:06,Anderson REBOUND (Off:0 Def:4),,,,
+0020100179,456,6,1,4,3:24 PM,0:05,,,Guyton P.FOUL (P2.PN),,
+0020100179,457,3,11,4,3:25 PM,0:05,Jackson Free Throw 1 of 2 (10 PTS),,,71 - 77,6
+0020100179,458,3,12,4,3:25 PM,0:05,Jackson Free Throw 2 of 2 (11 PTS),,,71 - 78,7
+0020100179,459,5,2,4,3:25 PM,0:01,Houston STEAL (3 STL),,Guyton Lost Ball Turnover (P2.T15),,
+0020100179,460,13,0,4,3:25 PM,0:00,,,,71 - 78,7

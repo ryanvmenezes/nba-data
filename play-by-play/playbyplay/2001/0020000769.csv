@@ -1,0 +1,438 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000769,0,12,0,1,2:41 PM,12:00,,,,,
+0020000769,1,10,0,1,2:41 PM,12:00,Jump Ball Divac vs. Mutombo: Tip to Williams,,,,
+0020000769,2,1,1,1,2:41 PM,11:46,Divac 20' Jump Shot (2 PTS) (Williams 1 AST),,,0 - 2,2
+0020000769,3,1,56,1,2:42 PM,11:29,,,Wright 6' Running Hook Shot (2 PTS),2 - 2,TIE
+0020000769,4,2,3,1,2:42 PM,11:20,MISS Pollard 6' Hook Shot,,,,
+0020000769,5,4,0,1,2:42 PM,11:18,,,Knight REBOUND (Off:0 Def:1),,
+0020000769,6,1,1,1,2:42 PM,11:06,,,Crawford 14' Jump Shot (2 PTS),4 - 2,-2
+0020000769,7,2,1,1,2:42 PM,10:48,MISS Pollard 16' Jump Shot,,,,
+0020000769,8,4,0,1,2:42 PM,10:46,,,Mutombo REBOUND (Off:0 Def:1),,
+0020000769,9,2,1,1,2:43 PM,10:36,,,MISS Crawford 6' Jump Shot,,
+0020000769,10,4,0,1,2:43 PM,10:34,Pollard REBOUND (Off:0 Def:1),,,,
+0020000769,11,2,1,1,2:43 PM,10:26,MISS Stojakovic 22' Jump Shot,,,,
+0020000769,12,4,0,1,2:43 PM,10:25,,,Knight REBOUND (Off:0 Def:2),,
+0020000769,13,2,1,1,2:43 PM,10:11,,,MISS Crawford 6' Jump Shot,,
+0020000769,14,4,0,1,2:44 PM,10:09,,,Wright REBOUND (Off:1 Def:0),,
+0020000769,15,6,2,1,2:44 PM,10:08,Pollard S.FOUL (P1.T1),,,,
+0020000769,16,3,11,1,2:44 PM,10:08,,,Wright Free Throw 1 of 2 (3 PTS),5 - 2,-3
+0020000769,17,3,12,1,2:44 PM,10:08,,,Wright Free Throw 2 of 2 (4 PTS),6 - 2,-4
+0020000769,18,2,3,1,2:45 PM,9:56,MISS Divac 4' Hook Shot,,,,
+0020000769,19,4,0,1,2:45 PM,9:55,,,Mutombo REBOUND (Off:0 Def:2),,
+0020000769,20,2,1,1,2:45 PM,9:38,,,MISS Mutombo 17' Jump Shot,,
+0020000769,21,4,0,1,2:45 PM,9:36,Divac REBOUND (Off:0 Def:1),,,,
+0020000769,22,2,1,1,2:45 PM,9:32,MISS Williams 14' Jump Shot,,,,
+0020000769,23,4,0,1,2:45 PM,9:30,Pollard REBOUND (Off:1 Def:1),,,,
+0020000769,24,2,5,1,2:45 PM,9:21,MISS Stojakovic 3' Layup,,Mutombo BLOCK (1 BLK),,
+0020000769,25,4,0,1,2:45 PM,9:19,Stojakovic REBOUND (Off:1 Def:0),,,,
+0020000769,26,2,5,1,2:45 PM,9:18,MISS Stojakovic 2' Layup,,,,
+0020000769,27,4,0,1,2:45 PM,9:17,,,Terry REBOUND (Off:0 Def:1),,
+0020000769,28,2,1,1,2:45 PM,9:03,,,MISS Terry 25' 3PT Jump Shot,,
+0020000769,29,4,0,1,2:45 PM,8:59,Pollard REBOUND (Off:1 Def:2),,,,
+0020000769,30,2,1,1,2:46 PM,8:44,MISS Williams 12' Jump Shot,,,,
+0020000769,31,4,0,1,2:46 PM,8:42,,,Mutombo REBOUND (Off:0 Def:3),,
+0020000769,32,1,8,1,2:46 PM,8:34,,,Crawford  Slam Dunk (4 PTS),8 - 2,-6
+0020000769,33,1,1,1,2:46 PM,8:18,Christie 15' Jump Shot (2 PTS),,,8 - 4,-4
+0020000769,34,2,1,1,2:46 PM,8:03,,,MISS Mutombo 15' Jump Shot,,
+0020000769,35,4,0,1,2:46 PM,8:01,Pollard REBOUND (Off:1 Def:3),,,,
+0020000769,36,2,1,1,2:47 PM,7:49,MISS Divac 6' Jump Shot,,,,
+0020000769,37,4,0,1,2:47 PM,7:48,Christie REBOUND (Off:1 Def:0),,,,
+0020000769,38,1,5,1,2:47 PM,7:43,Pollard  Layup (2 PTS) (Divac 1 AST),,,8 - 6,-2
+0020000769,39,2,56,1,2:47 PM,7:30,,,MISS Wright 4' Running Hook Shot,,
+0020000769,40,4,0,1,2:47 PM,7:27,Pollard REBOUND (Off:1 Def:4),,,,
+0020000769,41,2,1,1,2:47 PM,7:19,MISS Divac 18' Jump Shot,,,,
+0020000769,42,4,0,1,2:47 PM,7:18,,,Wright REBOUND (Off:1 Def:1),,
+0020000769,43,2,1,1,2:47 PM,7:00,,,MISS Terry 26' 3PT Jump Shot,,
+0020000769,44,4,0,1,2:48 PM,6:58,Pollard REBOUND (Off:1 Def:5),,,,
+0020000769,45,1,46,1,2:48 PM,6:53,Williams 22' Running Jump Shot (2 PTS),,,8 - 8,TIE
+0020000769,46,5,1,1,2:48 PM,6:33,Williams STEAL (1 STL),,Knight Bad Pass Turnover (P1.T1),,
+0020000769,47,1,1,1,2:48 PM,6:28,Williams 21' Jump Shot (4 PTS),,,8 - 10,2
+0020000769,48,9,1,1,2:48 PM,6:15,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0020000769,50,1,47,1,2:51 PM,6:01,,,Crawford 10' Turnaround Jump Shot (6 PTS),10 - 10,TIE
+0020000769,51,2,7,1,2:51 PM,5:46,MISS Divac  Dunk,,,,
+0020000769,52,4,0,1,2:51 PM,5:45,,,Knight REBOUND (Off:0 Def:3),,
+0020000769,53,2,1,1,2:51 PM,5:36,,,MISS Knight 19' Jump Shot,,
+0020000769,54,4,0,1,2:51 PM,5:34,,,Wright REBOUND (Off:2 Def:1),,
+0020000769,55,2,1,1,2:51 PM,5:17,,,MISS Wright 10' Jump Shot,,
+0020000769,56,4,0,1,2:51 PM,5:14,Divac REBOUND (Off:0 Def:2),,,,
+0020000769,57,1,5,1,2:51 PM,5:08,Pollard  Layup (4 PTS) (Christie 1 AST),,,10 - 12,2
+0020000769,58,2,1,1,2:52 PM,4:50,,,MISS Crawford 21' Jump Shot,,
+0020000769,59,4,0,1,2:52 PM,4:49,Divac REBOUND (Off:0 Def:3),,,,
+0020000769,60,2,42,1,2:52 PM,4:43,MISS Pollard  Driving Layup,,Mutombo BLOCK (2 BLK),,
+0020000769,61,4,0,1,2:52 PM,4:41,,,Crawford REBOUND (Off:0 Def:1),,
+0020000769,62,6,11,1,2:52 PM,4:41,,,Mutombo T.FOUL (P0.T0),,
+0020000769,63,3,16,1,2:52 PM,4:41,Christie Free Throw Technical (3 PTS),,,10 - 13,3
+0020000769,64,6,11,1,2:53 PM,4:31,,,,,
+0020000769,65,3,16,1,2:53 PM,4:31,Christie Free Throw Technical (4 PTS),,,10 - 14,4
+0020000769,66,2,56,1,2:54 PM,4:24,,,MISS Wright 6' Running Hook Shot,,
+0020000769,67,4,0,1,2:54 PM,4:22,Divac REBOUND (Off:0 Def:4),,,,
+0020000769,68,5,3,1,2:54 PM,4:16,Stojakovic Out Of Bounds Turnover (P1.T1),,,,
+0020000769,69,5,1,1,2:54 PM,4:05,Christie STEAL (1 STL),,Terry Bad Pass Turnover (P1.T2),,
+0020000769,70,2,3,1,2:55 PM,3:56,MISS Divac 3' Hook Shot,,Mutombo BLOCK (3 BLK),,
+0020000769,71,4,0,1,2:55 PM,3:54,,,Mutombo REBOUND (Off:0 Def:4),,
+0020000769,72,5,1,1,2:55 PM,3:51,,,Knight Bad Pass Turnover (P2.T3),,
+0020000769,73,1,49,1,2:55 PM,3:46,Christie  Driving Dunk (6 PTS) (Williams 2 AST),,,10 - 16,6
+0020000769,74,6,2,1,2:55 PM,3:46,,,Mutombo S.FOUL (P1.T1),,
+0020000769,75,3,10,1,2:55 PM,3:46,Christie Free Throw 1 of 1 (7 PTS),,,10 - 17,7
+0020000769,76,1,5,1,2:56 PM,3:26,,,Knight  Layup (2 PTS),12 - 17,5
+0020000769,77,1,49,1,2:56 PM,3:21,Stojakovic  Driving Dunk (2 PTS) (Williams 3 AST),,,12 - 19,7
+0020000769,78,2,1,1,2:56 PM,3:09,,,MISS Terry 19' Jump Shot,,
+0020000769,79,4,0,1,2:56 PM,3:08,Stojakovic REBOUND (Off:1 Def:1),,,,
+0020000769,80,6,4,1,2:57 PM,2:55,Stojakovic OFF.Foul (P1),,,,
+0020000769,81,5,5,1,2:57 PM,2:55,Stojakovic Foul Turnover (P2.T2),,,,
+0020000769,82,9,1,1,2:57 PM,2:55,KINGS Timeout: Regular (Full 1 Short 0),,,,
+0020000769,83,5,1,1,2:59 PM,2:40,Williams STEAL (2 STL),,Wright Bad Pass Turnover (P1.T4),,
+0020000769,84,2,5,1,2:59 PM,2:35,MISS Williams  Layup,,,,
+0020000769,86,4,0,1,2:59 PM,2:34,Stojakovic REBOUND (Off:2 Def:1),,,,
+0020000769,85,1,5,1,2:59 PM,2:34,Stojakovic  Layup (4 PTS),,,12 - 21,9
+0020000769,87,6,1,1,2:59 PM,2:22,Christie P.FOUL (P1.T2),,,,
+0020000769,88,5,1,1,3:00 PM,2:15,,,Knight Bad Pass Turnover (P3.T5),,
+0020000769,89,2,1,1,3:00 PM,2:00,MISS Stojakovic 4' Jump Shot,,Mutombo BLOCK (4 BLK),,
+0020000769,90,4,0,1,3:00 PM,1:59,KINGS Rebound,,,,
+0020000769,91,1,8,1,3:00 PM,1:55,Pollard  Slam Dunk (6 PTS) (Divac 2 AST),,,12 - 23,11
+0020000769,92,5,1,1,3:01 PM,1:35,Christie STEAL (2 STL),,Mutombo Bad Pass Turnover (P1.T6),,
+0020000769,93,6,1,1,3:01 PM,1:29,,,Crawford P.FOUL (P1.T2),,
+0020000769,94,8,0,1,3:01 PM,1:29,,,SUB: Robinson FOR Knight,,
+0020000769,95,8,0,1,3:01 PM,1:29,,,SUB: Henderson FOR Wright,,
+0020000769,96,2,1,1,3:01 PM,1:19,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000769,97,4,0,1,3:01 PM,1:17,,,Hawks Rebound,,
+0020000769,98,5,1,1,3:02 PM,1:04,Stojakovic STEAL (1 STL),,Robinson Bad Pass Turnover (P1.T7),,
+0020000769,99,1,49,1,3:02 PM,1:01,Stojakovic  Driving Dunk (6 PTS),,,12 - 25,13
+0020000769,100,6,1,1,3:02 PM,0:34,Divac P.FOUL (P1.T3),,,,
+0020000769,101,2,1,1,3:03 PM,0:31,,,MISS Henderson 19' Jump Shot,,
+0020000769,102,4,0,1,3:03 PM,0:30,Christie REBOUND (Off:1 Def:1),,,,
+0020000769,104,2,1,1,3:03 PM,0:08,MISS Stojakovic 15' Jump Shot,,,,
+0020000769,105,4,0,1,3:03 PM,0:06,,,Mutombo REBOUND (Off:0 Def:5),,
+0020000769,107,5,1,1,3:04 PM,0:03,,,Mutombo Bad Pass Turnover (P2.T8),,
+0020000769,109,1,1,1,3:04 PM,0:00,Williams 25' 3PT Jump Shot (7 PTS) (Pollard 1 AST),,,12 - 28,16
+0020000769,110,13,0,1,3:04 PM,0:00,,,,12 - 28,16
+0020000769,112,12,0,2,3:07 PM,12:00,,,,12 - 28,16
+0020000769,113,5,1,2,3:07 PM,11:39,Stojakovic STEAL (2 STL),,Robinson Bad Pass Turnover (P2.T9),,
+0020000769,114,6,1,2,3:07 PM,11:37,,,Knight P.FOUL (P1.T1),,
+0020000769,115,1,52,2,3:08 PM,11:36,Stojakovic  Alley Oop Dunk (8 PTS) (Christie 2 AST),,,12 - 30,18
+0020000769,116,2,1,2,3:08 PM,11:21,,,MISS Johnson 25' 3PT Jump Shot,,
+0020000769,117,4,0,2,3:08 PM,11:18,,,Robinson REBOUND (Off:1 Def:0),,
+0020000769,118,9,1,2,3:08 PM,11:16,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0020000769,120,1,46,2,3:11 PM,11:05,,,Henderson 6' Running Jump Shot (2 PTS) (Knight 1 AST),14 - 30,16
+0020000769,121,6,1,2,3:11 PM,10:58,,,Johnson P.FOUL (P1.T2),,
+0020000769,122,2,42,2,3:11 PM,10:55,MISS Stojakovic  Driving Layup,,,,
+0020000769,123,4,0,2,3:11 PM,10:54,,,Wright REBOUND (Off:2 Def:2),,
+0020000769,124,2,1,2,3:12 PM,10:38,,,MISS Robinson 24' 3PT Jump Shot,,
+0020000769,125,4,0,2,3:12 PM,10:35,,,Henderson REBOUND (Off:1 Def:0),,
+0020000769,126,2,1,2,3:12 PM,10:33,,,MISS Henderson 10' Jump Shot,,
+0020000769,127,4,0,2,3:12 PM,10:31,Divac REBOUND (Off:0 Def:5),,,,
+0020000769,128,5,1,2,3:12 PM,10:20,Christie Bad Pass Turnover (P1.T3),,Robinson STEAL (1 STL),,
+0020000769,129,2,1,2,3:12 PM,10:10,,,MISS Johnson 24' 3PT Jump Shot,,
+0020000769,130,4,0,2,3:12 PM,10:08,Divac REBOUND (Off:0 Def:6),,,,
+0020000769,131,2,46,2,3:12 PM,9:58,MISS Jackson 5' Running Jump Shot,,,,
+0020000769,132,4,0,2,3:12 PM,9:55,,,Knight REBOUND (Off:0 Def:4),,
+0020000769,133,2,5,2,3:12 PM,9:50,,,MISS Johnson 3' Layup,,
+0020000769,134,4,0,2,3:12 PM,9:49,,,Wright REBOUND (Off:3 Def:2),,
+0020000769,135,1,5,2,3:12 PM,9:48,,,Wright  Layup (6 PTS),16 - 30,14
+0020000769,136,2,1,2,3:13 PM,9:25,MISS Jackson 9' Jump Shot,,,,
+0020000769,138,4,0,2,3:13 PM,9:23,Funderburke REBOUND (Off:1 Def:0),,,,
+0020000769,137,2,53,2,3:13 PM,9:23,MISS Funderburke  Tip Shot,,,,
+0020000769,139,4,0,2,3:13 PM,9:23,Jackson REBOUND (Off:1 Def:0),,,,
+0020000769,140,1,1,2,3:13 PM,9:21,Jackson 13' Jump Shot (2 PTS),,,16 - 32,16
+0020000769,141,5,1,2,3:13 PM,9:17,Christie STEAL (3 STL),,Henderson Bad Pass Turnover (P1.T10),,
+0020000769,142,1,7,2,3:13 PM,9:14,Funderburke  Dunk (2 PTS) (Christie 3 AST),,,16 - 34,18
+0020000769,143,2,1,2,3:13 PM,8:53,,,MISS Wright 10' Jump Shot,,
+0020000769,144,4,0,2,3:13 PM,8:51,Christie REBOUND (Off:1 Def:2),,,,
+0020000769,146,6,2,2,3:14 PM,8:42,,,Johnson S.FOUL (P2.T3),,
+0020000769,148,8,0,2,3:14 PM,8:42,SUB: Pollard FOR Divac,,,,
+0020000769,149,3,11,2,3:14 PM,8:42,Stojakovic Free Throw 1 of 2 (9 PTS),,,16 - 35,19
+0020000769,150,8,0,2,3:14 PM,8:42,,,SUB: Terry FOR Johnson,,
+0020000769,151,3,12,2,3:14 PM,8:42,Stojakovic Free Throw 2 of 2 (10 PTS),,,16 - 36,20
+0020000769,152,5,2,2,3:15 PM,8:30,Christie STEAL (4 STL),,Wright Lost Ball Turnover (P2.T11),,
+0020000769,155,8,0,2,3:15 PM,8:22,SUB: Turkoglu FOR Stojakovic,,,,
+0020000769,157,5,1,2,3:15 PM,8:13,Jackson Bad Pass Turnover (P1.T4),,Wright STEAL (1 STL),,
+0020000769,158,2,42,2,3:15 PM,8:09,,,MISS Knight  Driving Layup,,
+0020000769,159,4,0,2,3:15 PM,8:07,Pollard REBOUND (Off:1 Def:6),,,,
+0020000769,160,2,1,2,3:16 PM,8:02,MISS Jackson 18' Jump Shot,,,,
+0020000769,161,4,0,2,3:16 PM,8:00,,,Robinson REBOUND (Off:1 Def:1),,
+0020000769,162,6,2,2,3:16 PM,7:58,Christie S.FOUL (P2.T1),,,,
+0020000769,163,3,11,2,3:16 PM,7:58,,,MISS Knight Free Throw 1 of 2,,
+0020000769,164,4,1,2,3:16 PM,7:58,,,Hawks Rebound,,
+0020000769,165,8,0,2,3:16 PM,7:58,SUB: Williams FOR Christie,,,,
+0020000769,166,8,0,2,3:16 PM,7:58,,,SUB: Crawford FOR Robinson,,
+0020000769,167,8,0,2,3:16 PM,7:58,,,SUB: Mutombo FOR Henderson,,
+0020000769,168,3,12,2,3:16 PM,7:58,,,Knight Free Throw 2 of 2 (3 PTS),17 - 36,19
+0020000769,170,2,42,2,3:17 PM,7:41,MISS Pollard  Driving Layup,,,,
+0020000769,171,4,0,2,3:17 PM,7:39,,,Wright REBOUND (Off:3 Def:3),,
+0020000769,172,1,1,2,3:17 PM,7:33,,,Terry 16' Jump Shot (2 PTS) (Knight 2 AST),19 - 36,17
+0020000769,173,2,1,2,3:17 PM,7:07,MISS Jackson 18' Jump Shot,,,,
+0020000769,174,4,0,2,3:17 PM,7:05,,,Mutombo REBOUND (Off:0 Def:6),,
+0020000769,175,1,5,2,3:17 PM,6:53,,,Terry 3' Layup (4 PTS),21 - 36,15
+0020000769,176,2,1,2,3:18 PM,6:35,MISS Turkoglu 18' Jump Shot,,,,
+0020000769,177,4,0,2,3:18 PM,6:34,,,Wright REBOUND (Off:3 Def:4),,
+0020000769,178,5,21,2,3:18 PM,6:31,,,Knight Palming Turnover (P4.T12),,
+0020000769,179,9,1,2,3:18 PM,6:31,KINGS Timeout: Regular (Full 2 Short 0),,,,
+0020000769,182,6,11,2,3:21 PM,6:25,,,Knight T.FOUL (P1.T3),,
+0020000769,183,3,16,2,3:21 PM,6:25,Jackson Free Throw Technical (3 PTS),,,21 - 37,16
+0020000769,184,8,0,2,3:21 PM,6:25,,,SUB: Bowman FOR Knight,,
+0020000769,185,2,1,2,3:21 PM,6:12,MISS Jackson 12' Jump Shot,,Terry BLOCK (1 BLK),,
+0020000769,186,4,0,2,3:21 PM,6:10,,,Mutombo REBOUND (Off:0 Def:7),,
+0020000769,187,5,1,2,3:22 PM,5:52,Pollard STEAL (1 STL),,Terry Bad Pass Turnover (P2.T13),,
+0020000769,188,1,1,2,3:22 PM,5:33,Turkoglu 21' Jump Shot (2 PTS),,,21 - 39,18
+0020000769,189,2,1,2,3:22 PM,5:15,,,MISS Bowman 15' Jump Shot,,
+0020000769,190,4,0,2,3:22 PM,5:12,Pollard REBOUND (Off:1 Def:7),,,,
+0020000769,191,1,1,2,3:22 PM,5:07,Williams 20' Jump Shot (9 PTS),,,21 - 41,20
+0020000769,192,2,1,2,3:23 PM,4:53,,,MISS Terry 25' 3PT Jump Shot,,
+0020000769,193,4,0,2,3:23 PM,4:51,Funderburke REBOUND (Off:1 Def:1),,,,
+0020000769,194,1,5,2,3:23 PM,4:44,Pollard  Layup (8 PTS) (Williams 4 AST),,,21 - 43,22
+0020000769,195,1,42,2,3:23 PM,4:25,,,Crawford  Driving Layup (8 PTS) (Bowman 1 AST),23 - 43,20
+0020000769,196,2,1,2,3:24 PM,4:04,MISS Williams 21' Jump Shot,,,,
+0020000769,197,4,0,2,3:24 PM,4:03,,,Wright REBOUND (Off:3 Def:5),,
+0020000769,198,6,2,2,3:24 PM,3:58,Jackson S.FOUL (P1.T2),,,,
+0020000769,200,8,0,2,3:24 PM,3:58,SUB: Christie FOR Jackson,,,,
+0020000769,201,3,11,2,3:24 PM,3:58,,,Terry Free Throw 1 of 2 (5 PTS),24 - 43,19
+0020000769,202,8,0,2,3:24 PM,3:58,SUB: Stojakovic FOR Funderburke,,,,
+0020000769,203,8,0,2,3:24 PM,3:58,SUB: Divac FOR Turkoglu,,,,
+0020000769,204,3,12,2,3:24 PM,3:58,,,Terry Free Throw 2 of 2 (6 PTS),25 - 43,18
+0020000769,205,2,1,2,3:25 PM,3:37,MISS Christie 20' Jump Shot,,,,
+0020000769,206,4,0,2,3:25 PM,3:35,,,Wright REBOUND (Off:3 Def:6),,
+0020000769,207,6,1,2,3:25 PM,3:31,Williams P.FOUL (P1.T3),,,,
+0020000769,208,2,1,2,3:26 PM,3:15,,,MISS Wright 19' Jump Shot,,
+0020000769,209,4,0,2,3:26 PM,3:13,Christie REBOUND (Off:1 Def:3),,,,
+0020000769,210,2,5,2,3:26 PM,2:59,MISS Divac  Layup,,Mutombo BLOCK (5 BLK),,
+0020000769,211,4,0,2,3:26 PM,2:56,,,Mutombo REBOUND (Off:0 Def:8),,
+0020000769,212,1,42,2,3:26 PM,2:53,,,Wright  Driving Layup (8 PTS) (Bowman 2 AST),27 - 43,16
+0020000769,213,7,2,2,3:26 PM,2:40,,,Mutombo Violation:Defensive Goaltending,,
+0020000769,214,9,4,2,3:26 PM,2:40,,,,,
+0020000769,218,2,1,2,3:29 PM,2:29,MISS Stojakovic  3PT Jump Shot,,,,
+0020000769,219,4,0,2,3:29 PM,2:27,Williams REBOUND (Off:1 Def:0),,,,
+0020000769,220,5,11,2,3:29 PM,2:03,KINGS Turnover: Shot Clock (T#5),,,,
+0020000769,221,6,2,2,3:30 PM,1:52,Divac S.FOUL (P2.T4),,,,
+0020000769,222,3,11,2,3:30 PM,1:52,,,Terry Free Throw 1 of 2 (7 PTS),28 - 43,15
+0020000769,223,3,12,2,3:30 PM,1:52,,,MISS Terry Free Throw 2 of 2,,
+0020000769,224,4,0,2,3:30 PM,1:51,Pollard REBOUND (Off:1 Def:8),,,,
+0020000769,225,6,1,2,3:31 PM,1:34,,,Crawford P.FOUL (P2.T4),,
+0020000769,226,2,55,2,3:31 PM,1:25,MISS Divac 6' Hook Shot,,Mutombo BLOCK (6 BLK),,
+0020000769,227,4,0,2,3:31 PM,1:24,Divac REBOUND (Off:1 Def:6),,,,
+0020000769,228,1,3,2,3:31 PM,1:23,Divac 6' Hook Shot (4 PTS),,,28 - 45,17
+0020000769,229,1,49,2,3:31 PM,1:16,,,Crawford  Driving Dunk (10 PTS) (Bowman 3 AST),30 - 45,15
+0020000769,230,1,5,2,3:31 PM,0:47,Pollard  Layup (10 PTS) (Christie 4 AST),,,30 - 47,17
+0020000769,231,2,1,2,3:32 PM,0:25,,,MISS Wright 11' Jump Shot,,
+0020000769,232,4,0,2,3:32 PM,0:23,Divac REBOUND (Off:1 Def:7),,,,
+0020000769,234,2,1,2,3:32 PM,0:00,MISS Stojakovic 36' 3PT Jump Shot,,,,
+0020000769,236,4,0,2,3:32 PM,0:00,KINGS Rebound,,,,
+0020000769,235,13,0,2,3:32 PM,0:00,,,,30 - 47,17
+0020000769,238,12,0,3,3:48 PM,12:00,,,,30 - 47,17
+0020000769,239,2,1,3,3:49 PM,11:44,,,MISS Terry 20' Jump Shot,,
+0020000769,240,4,0,3,3:49 PM,11:43,,,Knight REBOUND (Off:1 Def:4),,
+0020000769,241,1,1,3,3:49 PM,11:37,,,Crawford 20' Jump Shot (12 PTS) (Knight 3 AST),32 - 47,15
+0020000769,242,2,1,3,3:49 PM,11:19,MISS Divac 19' Jump Shot,,,,
+0020000769,243,4,0,3,3:49 PM,11:17,,,Mutombo REBOUND (Off:0 Def:9),,
+0020000769,244,2,1,3,3:50 PM,10:52,,,MISS Knight 8' Jump Shot,,
+0020000769,245,4,0,3,3:50 PM,10:52,,,Hawks Rebound,,
+0020000769,246,5,11,3,3:50 PM,10:52,,,Hawks Turnover: Shot Clock (T#14),,
+0020000769,247,2,1,3,3:50 PM,10:37,MISS Christie 21' Jump Shot,,,,
+0020000769,248,4,0,3,3:50 PM,10:34,,,Mutombo REBOUND (Off:0 Def:10),,
+0020000769,249,2,1,3,3:50 PM,10:26,,,MISS Terry 17' Jump Shot,,
+0020000769,250,4,0,3,3:50 PM,10:24,Divac REBOUND (Off:1 Def:8),,,,
+0020000769,251,1,1,3,3:51 PM,10:13,Williams 25' 3PT Jump Shot (12 PTS) (Christie 5 AST),,,32 - 50,18
+0020000769,252,1,3,3,3:51 PM,9:53,,,Mutombo 6' Hook Shot (2 PTS),34 - 50,16
+0020000769,253,2,1,3,3:51 PM,9:43,MISS Stojakovic 19' Jump Shot,,,,
+0020000769,254,4,0,3,3:51 PM,9:40,Williams REBOUND (Off:2 Def:0),,,,
+0020000769,255,2,1,3,3:51 PM,9:38,MISS Williams 14' Jump Shot,,,,
+0020000769,256,4,0,3,3:51 PM,9:37,Stojakovic REBOUND (Off:3 Def:1),,,,
+0020000769,257,2,45,3,3:51 PM,9:35,MISS Stojakovic 8' Jump Shot,,,,
+0020000769,258,4,0,3,3:51 PM,9:33,,,Wright REBOUND (Off:3 Def:7),,
+0020000769,260,2,3,3,3:52 PM,9:13,,,MISS Mutombo 7' Hook Shot,,
+0020000769,261,4,0,3,3:52 PM,9:12,,,Mutombo REBOUND (Off:1 Def:10),,
+0020000769,262,6,2,3,3:52 PM,9:12,Pollard S.FOUL (P2.T1),,,,
+0020000769,263,3,11,3,3:52 PM,9:12,,,MISS Mutombo Free Throw 1 of 2,,
+0020000769,264,4,1,3,3:52 PM,9:12,,,Hawks Rebound,,
+0020000769,265,8,0,3,3:52 PM,9:12,,,SUB: Robinson FOR Crawford,,
+0020000769,266,3,12,3,3:52 PM,9:12,,,Mutombo Free Throw 2 of 2 (3 PTS),35 - 50,15
+0020000769,267,2,42,3,3:53 PM,8:53,MISS Divac  Driving Layup,,Mutombo BLOCK (7 BLK),,
+0020000769,268,4,0,3,3:53 PM,8:51,,,Knight REBOUND (Off:1 Def:5),,
+0020000769,269,2,1,3,3:53 PM,8:45,,,MISS Robinson 19' Jump Shot,,
+0020000769,270,4,0,3,3:53 PM,8:42,Williams REBOUND (Off:2 Def:1),,,,
+0020000769,271,5,2,3,3:53 PM,8:36,Divac Lost Ball Turnover (P1.T6),,Wright STEAL (2 STL),,
+0020000769,272,1,7,3,3:53 PM,8:31,,,Wright  Dunk (10 PTS) (Terry 1 AST),37 - 50,13
+0020000769,273,1,56,3,3:53 PM,8:16,Divac 6' Running Hook Shot (6 PTS),,,37 - 52,15
+0020000769,274,1,1,3,3:54 PM,8:02,,,Mutombo 15' Jump Shot (5 PTS) (Knight 4 AST),39 - 52,13
+0020000769,275,2,61,3,3:54 PM,7:54,MISS Divac  Driving Finger Roll,,Mutombo BLOCK (8 BLK),,
+0020000769,277,4,0,3,3:54 PM,7:52,Divac REBOUND (Off:2 Def:8),,,,
+0020000769,276,2,53,3,3:54 PM,7:52,MISS Divac 4' Tip Shot,,,,
+0020000769,278,4,0,3,3:54 PM,7:50,Divac REBOUND (Off:3 Def:8),,,,
+0020000769,279,2,61,3,3:54 PM,7:49,MISS Divac  Driving Finger Roll,,Mutombo BLOCK (9 BLK),,
+0020000769,280,4,0,3,3:54 PM,7:47,,,Knight REBOUND (Off:1 Def:6),,
+0020000769,281,1,1,3,3:54 PM,7:41,,,Robinson 25' 3PT Jump Shot (3 PTS) (Knight 5 AST),42 - 52,10
+0020000769,283,9,1,3,3:54 PM,7:39,KINGS Timeout: Regular (Full 3 Short 0),,,,
+0020000769,286,2,1,3,3:56 PM,7:21,MISS Christie 19' Jump Shot,,,,
+0020000769,287,4,0,3,3:56 PM,7:19,Divac REBOUND (Off:4 Def:8),,,,
+0020000769,288,5,2,3,3:57 PM,7:13,Pollard Lost Ball Turnover (P1.T7),,,,
+0020000769,289,1,3,3,3:57 PM,6:52,,,Mutombo 7' Hook Shot (7 PTS),44 - 52,8
+0020000769,290,1,1,3,3:57 PM,6:30,Divac 19' Jump Shot (8 PTS),,,44 - 54,10
+0020000769,291,2,1,3,3:58 PM,6:07,Christie BLOCK (1 BLK),,MISS Terry 13' Jump Shot,,
+0020000769,292,4,0,3,3:58 PM,6:06,,,Hawks Rebound,,
+0020000769,293,2,1,3,3:58 PM,6:03,,,MISS Wright 20' Jump Shot,,
+0020000769,294,4,0,3,3:58 PM,6:02,KINGS Rebound,,,,
+0020000769,295,1,1,3,3:59 PM,5:47,Divac 3' Jump Shot (10 PTS),,,44 - 56,12
+0020000769,296,6,2,3,3:59 PM,5:47,,,Mutombo S.FOUL (P2.T1),,
+0020000769,297,3,10,3,3:59 PM,5:47,Divac Free Throw 1 of 1 (11 PTS),,,44 - 57,13
+0020000769,298,2,1,3,3:59 PM,5:23,,,MISS Terry 22' Jump Shot,,
+0020000769,299,4,0,3,3:59 PM,5:21,,,Wright REBOUND (Off:4 Def:7),,
+0020000769,300,2,5,3,3:59 PM,5:20,Pollard BLOCK (1 BLK),,MISS Wright  Layup,,
+0020000769,301,4,0,3,3:59 PM,5:19,Divac REBOUND (Off:4 Def:9),,,,
+0020000769,302,2,1,3,4:00 PM,5:13,MISS Divac 16' Jump Shot,,,,
+0020000769,303,4,0,3,4:00 PM,5:11,,,Knight REBOUND (Off:1 Def:7),,
+0020000769,304,5,2,3,4:00 PM,5:00,,,Wright Lost Ball Turnover (P3.T15),,
+0020000769,305,1,1,3,4:00 PM,4:46,Stojakovic 21' Jump Shot (12 PTS) (Williams 5 AST),,,44 - 59,15
+0020000769,307,9,1,3,4:00 PM,4:39,,,Hawks Timeout: Regular (Reg.3 Short 0),,
+0020000769,309,6,2,3,4:04 PM,4:29,Divac S.FOUL (P3.T2),,,,
+0020000769,310,3,11,3,4:04 PM,4:29,,,Knight Free Throw 1 of 2 (4 PTS),45 - 59,14
+0020000769,311,3,12,3,4:04 PM,4:29,,,Knight Free Throw 2 of 2 (5 PTS),46 - 59,13
+0020000769,312,2,1,3,4:04 PM,4:12,MISS Stojakovic  3PT Jump Shot,,,,
+0020000769,313,4,0,3,4:04 PM,4:10,,,Mutombo REBOUND (Off:1 Def:11),,
+0020000769,314,1,1,3,4:04 PM,4:06,,,Knight 16' Jump Shot (7 PTS),48 - 59,11
+0020000769,315,2,4,3,4:05 PM,3:49,MISS Pollard 5' Tip Shot,,,,
+0020000769,317,4,0,3,4:05 PM,3:48,Divac REBOUND (Off:5 Def:9),,,,
+0020000769,316,2,4,3,4:05 PM,3:48,MISS Divac  Tip Shot,,,,
+0020000769,319,4,0,3,4:05 PM,3:47,Divac REBOUND (Off:6 Def:9),,,,
+0020000769,318,2,4,3,4:05 PM,3:47,MISS Divac  Tip Shot,,,,
+0020000769,320,4,0,3,4:05 PM,3:46,Divac REBOUND (Off:7 Def:9),,,,
+0020000769,321,6,2,3,4:05 PM,3:46,,,Wright S.FOUL (P1.T2),,
+0020000769,322,3,11,3,4:05 PM,3:46,Divac Free Throw 1 of 2 (12 PTS),,,48 - 60,12
+0020000769,323,8,0,3,4:05 PM,3:46,,,SUB: Crawford FOR Wright,,
+0020000769,324,3,12,3,4:05 PM,3:46,Divac Free Throw 2 of 2 (13 PTS),,,48 - 61,13
+0020000769,325,6,2,3,4:06 PM,3:31,Christie S.FOUL (P3.T3),,,,
+0020000769,326,8,0,3,4:06 PM,3:31,SUB: Funderburke FOR Pollard,,,,
+0020000769,327,3,11,3,4:07 PM,3:31,,,Terry Free Throw 1 of 2 (8 PTS),49 - 61,12
+0020000769,328,3,12,3,4:07 PM,3:31,,,MISS Terry Free Throw 2 of 2,,
+0020000769,329,4,0,3,4:07 PM,3:31,Divac REBOUND (Off:7 Def:10),,,,
+0020000769,330,2,44,3,4:07 PM,3:12,MISS Christie  Reverse Layup,,,,
+0020000769,332,4,0,3,4:07 PM,3:10,Divac REBOUND (Off:8 Def:10),,,,
+0020000769,331,2,4,3,4:07 PM,3:10,MISS Divac  Tip Shot,,,,
+0020000769,333,4,0,3,4:07 PM,3:09,,,Mutombo REBOUND (Off:1 Def:12),,
+0020000769,334,2,1,3,4:08 PM,2:59,,,MISS Robinson  3PT Jump Shot,,
+0020000769,335,4,0,3,4:08 PM,2:57,Divac REBOUND (Off:8 Def:11),,,,
+0020000769,336,1,1,3,4:08 PM,2:43,Williams 21' Jump Shot (14 PTS),,,49 - 63,14
+0020000769,337,2,42,3,4:08 PM,2:26,Divac BLOCK (1 BLK),,MISS Terry 5' Driving Layup,,
+0020000769,338,4,0,3,4:08 PM,2:26,,,Hawks Rebound,,
+0020000769,339,5,1,3,4:09 PM,2:18,Christie STEAL (5 STL),,Terry Bad Pass Turnover (P3.T16),,
+0020000769,340,6,2,3,4:09 PM,2:15,,,Knight S.FOUL (P2.T3),,
+0020000769,342,3,11,3,4:09 PM,2:15,Stojakovic Free Throw 1 of 2 (13 PTS),,,49 - 64,15
+0020000769,343,3,12,3,4:09 PM,2:15,MISS Stojakovic Free Throw 2 of 2,,,,
+0020000769,344,4,0,3,4:09 PM,2:14,,,Mutombo REBOUND (Off:1 Def:13),,
+0020000769,345,2,1,3,4:10 PM,1:53,,,MISS Robinson 12' Jump Shot,,
+0020000769,346,4,0,3,4:10 PM,1:52,Funderburke REBOUND (Off:1 Def:2),,,,
+0020000769,347,2,42,3,4:10 PM,1:38,MISS Christie  Driving Layup,,,,
+0020000769,349,4,0,3,4:10 PM,1:36,Funderburke REBOUND (Off:2 Def:2),,,,
+0020000769,348,2,4,3,4:10 PM,1:36,MISS Funderburke  Tip Shot,,,,
+0020000769,350,4,0,3,4:10 PM,1:34,Funderburke REBOUND (Off:3 Def:2),,,,
+0020000769,351,1,1,3,4:10 PM,1:27,Stojakovic 24' 3PT Jump Shot (16 PTS) (Williams 6 AST),,,49 - 67,18
+0020000769,352,6,1,3,4:10 PM,1:17,Christie P.FOUL (P4.T4),,,,
+0020000769,353,1,1,3,4:11 PM,1:03,,,Mutombo 11' Jump Shot (9 PTS),51 - 67,16
+0020000769,354,1,44,3,4:11 PM,0:46,Christie  Reverse Layup (9 PTS) (Divac 3 AST),,,51 - 69,18
+0020000769,355,2,5,3,4:11 PM,0:42,,,MISS Terry 3' Layup,,
+0020000769,356,4,0,3,4:11 PM,0:40,,,Terry REBOUND (Off:1 Def:1),,
+0020000769,357,1,1,3,4:11 PM,0:37,,,Terry 17' Jump Shot (10 PTS),53 - 69,16
+0020000769,358,5,1,3,4:12 PM,0:22,Williams Bad Pass Turnover (P1.T8),,Terry STEAL (1 STL),,
+0020000769,359,6,1,3,4:12 PM,0:21,Christie P.FOUL (P5.PN),,,,
+0020000769,360,3,11,3,4:12 PM,0:21,,,Terry Free Throw 1 of 2 (11 PTS),54 - 69,15
+0020000769,361,8,0,3,4:13 PM,0:21,,,SUB: Henderson FOR Robinson,,
+0020000769,362,8,0,3,4:13 PM,0:21,SUB: Jackson FOR Christie,,,,
+0020000769,363,3,12,3,4:13 PM,0:21,,,Terry Free Throw 2 of 2 (12 PTS),55 - 69,14
+0020000769,364,1,1,3,4:13 PM,0:01,Williams 25' 3PT Jump Shot (17 PTS) (Divac 4 AST),,,55 - 72,17
+0020000769,365,2,1,3,4:13 PM,0:00,,,MISS Knight 66' 3PT Jump Shot,,
+0020000769,367,4,0,3,4:13 PM,0:00,,,Hawks Rebound,,
+0020000769,366,13,0,3,4:13 PM,0:00,,,,55 - 72,17
+0020000769,369,12,0,4,4:16 PM,12:00,,,,55 - 72,17
+0020000769,370,2,1,4,4:16 PM,11:38,MISS Williams 27' 3PT Jump Shot,,,,
+0020000769,371,4,0,4,4:16 PM,11:36,,,Bowman REBOUND (Off:0 Def:1),,
+0020000769,372,1,1,4,4:17 PM,11:25,,,Wright 13' Jump Shot (12 PTS) (Bowman 4 AST),57 - 72,15
+0020000769,373,1,1,4,4:17 PM,11:08,Funderburke 16' Jump Shot (4 PTS),,,57 - 74,17
+0020000769,374,2,46,4,4:17 PM,10:49,,,MISS Henderson 5' Running Jump Shot,,
+0020000769,375,4,0,4,4:17 PM,10:47,,,Hawks Rebound,,
+0020000769,376,1,1,4,4:18 PM,10:39,,,Terry 6' Jump Shot (14 PTS),59 - 74,15
+0020000769,377,1,1,4,4:18 PM,10:18,Jackson 16' Jump Shot (5 PTS) (Williams 7 AST),,,59 - 76,17
+0020000769,378,6,1,4,4:19 PM,10:05,Jackson P.FOUL (P2.T1),,,,
+0020000769,379,8,0,4,4:19 PM,10:05,,,SUB: Johnson FOR Terry,,
+0020000769,380,1,1,4,4:19 PM,9:56,,,Johnson 20' Jump Shot (2 PTS) (Bowman 5 AST),61 - 76,15
+0020000769,381,1,1,4,4:19 PM,9:33,Funderburke 17' Jump Shot (6 PTS),,,61 - 78,17
+0020000769,382,1,46,4,4:20 PM,9:20,,,Crawford 5' Running Jump Shot (14 PTS),63 - 78,15
+0020000769,383,2,1,4,4:20 PM,8:59,MISS Pollard 3' Jump Shot,,,,
+0020000769,385,4,0,4,4:20 PM,8:57,Funderburke REBOUND (Off:4 Def:2),,,,
+0020000769,384,2,4,4,4:20 PM,8:57,MISS Funderburke  Tip Shot,,,,
+0020000769,386,4,0,4,4:20 PM,8:55,Pollard REBOUND (Off:2 Def:8),,,,
+0020000769,387,1,1,4,4:20 PM,8:50,Stojakovic 24' 3PT Jump Shot (19 PTS) (Pollard 2 AST),,,63 - 81,18
+0020000769,388,6,1,4,4:21 PM,8:37,Williams P.FOUL (P2.T2),,,,
+0020000769,389,9,4,4,4:21 PM,8:37,,,,,
+0020000769,391,8,0,4,4:23 PM,8:37,,,SUB: Terry FOR Crawford,,
+0020000769,392,8,0,4,4:23 PM,8:37,,,SUB: Knight FOR Henderson,,
+0020000769,393,8,0,4,4:23 PM,8:37,,,SUB: Mutombo FOR Bowman,,
+0020000769,395,1,1,4,4:23 PM,8:30,,,Johnson 25' 3PT Jump Shot (5 PTS) (Knight 6 AST),66 - 81,15
+0020000769,396,6,4,4,4:23 PM,8:15,Williams OFF.Foul (P3),,,,
+0020000769,397,5,5,4,4:23 PM,8:15,Williams Foul Turnover (P2.T9),,,,
+0020000769,398,5,2,4,4:24 PM,8:04,Stojakovic STEAL (3 STL),,Johnson Lost Ball Turnover (P1.T17),,
+0020000769,399,1,42,4,4:24 PM,8:00,Williams  Driving Layup (19 PTS) (Pollard 3 AST),,,66 - 83,17
+0020000769,400,2,1,4,4:24 PM,7:48,,,MISS Knight 13' Jump Shot,,
+0020000769,401,4,0,4,4:24 PM,7:47,Pollard REBOUND (Off:2 Def:9),,,,
+0020000769,402,2,1,4,4:24 PM,7:40,MISS Funderburke 15' Jump Shot,,,,
+0020000769,403,4,0,4,4:24 PM,7:38,,,Mutombo REBOUND (Off:1 Def:14),,
+0020000769,404,1,5,4,4:24 PM,7:29,,,Wright 1' Layup (14 PTS) (Knight 7 AST),68 - 83,15
+0020000769,405,6,2,4,4:24 PM,7:29,Pollard S.FOUL (P3.T3),,,,
+0020000769,406,3,10,4,4:25 PM,7:29,,,Wright Free Throw 1 of 1 (15 PTS),69 - 83,14
+0020000769,407,1,1,4,4:25 PM,7:13,Williams 24' 3PT Jump Shot (22 PTS) (Jackson 1 AST),,,69 - 86,17
+0020000769,408,5,2,4,4:25 PM,6:58,Williams STEAL (3 STL),,Terry Lost Ball Turnover (P4.T18),,
+0020000769,409,1,7,4,4:26 PM,6:52,Funderburke  Dunk (8 PTS) (Jackson 2 AST),,,69 - 88,19
+0020000769,410,9,1,4,4:26 PM,6:42,,,Hawks Timeout: Regular (Reg.4 Short 0),,
+0020000769,412,2,3,4,4:28 PM,6:31,,,MISS Mutombo 8' Hook Shot,,
+0020000769,413,4,0,4,4:28 PM,6:29,Stojakovic REBOUND (Off:3 Def:2),,,,
+0020000769,414,1,47,4,4:29 PM,6:06,Funderburke 10' Turnaround Jump Shot (10 PTS),,,69 - 90,21
+0020000769,415,2,3,4,4:29 PM,5:50,,,MISS Mutombo 11' Hook Shot,,
+0020000769,416,4,0,4,4:29 PM,5:49,Jackson REBOUND (Off:1 Def:1),,,,
+0020000769,417,2,1,4,4:29 PM,5:29,MISS Stojakovic 25' 3PT Jump Shot,,,,
+0020000769,418,4,0,4,4:29 PM,5:27,,,Wright REBOUND (Off:4 Def:8),,
+0020000769,419,1,1,4,4:30 PM,5:07,,,Terry 17' Jump Shot (16 PTS) (Knight 8 AST),71 - 90,19
+0020000769,420,2,1,4,4:30 PM,4:46,MISS Williams 26' 3PT Jump Shot,,,,
+0020000769,421,4,0,4,4:30 PM,4:44,,,Wright REBOUND (Off:4 Def:9),,
+0020000769,422,1,3,4,4:30 PM,4:29,,,Mutombo 8' Hook Shot (11 PTS),73 - 90,17
+0020000769,423,2,1,4,4:31 PM,4:07,MISS Jackson 25' 3PT Jump Shot,,,,
+0020000769,424,4,0,4,4:31 PM,4:05,Funderburke REBOUND (Off:5 Def:2),,,,
+0020000769,425,2,1,4,4:31 PM,3:48,MISS Jackson 24' 3PT Jump Shot,,,,
+0020000769,426,4,0,4,4:31 PM,3:46,,,Knight REBOUND (Off:1 Def:8),,
+0020000769,427,2,1,4,4:31 PM,3:32,,,MISS Knight 19' Jump Shot,,
+0020000769,428,4,0,4,4:31 PM,3:30,Funderburke REBOUND (Off:5 Def:3),,,,
+0020000769,429,2,1,4,4:32 PM,3:16,MISS Jackson 14' Jump Shot,,,,
+0020000769,430,4,0,4,4:32 PM,3:14,,,Wright REBOUND (Off:4 Def:10),,
+0020000769,431,2,1,4,4:32 PM,3:03,,,MISS Wright 16' Jump Shot,,
+0020000769,432,4,0,4,4:32 PM,3:01,Jackson REBOUND (Off:1 Def:2),,,,
+0020000769,433,9,1,4,4:32 PM,2:54,KINGS Timeout: Regular (Full 4 Short 0),,,,
+0020000769,436,8,0,4,4:34 PM,2:54,,,SUB: Bowman FOR Wright,,
+0020000769,437,8,0,4,4:34 PM,2:54,,,SUB: Crawford FOR Mutombo,,
+0020000769,438,8,0,4,4:34 PM,2:54,,,SUB: Bowdler FOR Terry,,
+0020000769,439,8,0,4,4:34 PM,2:54,,,SUB: Robinson FOR Knight,,
+0020000769,441,8,0,4,4:34 PM,2:54,SUB: Martin FOR Williams,,,,
+0020000769,442,2,1,4,4:35 PM,2:41,MISS Stojakovic 24' 3PT Jump Shot,,,,
+0020000769,443,4,0,4,4:35 PM,2:40,,,Hawks Rebound,,
+0020000769,444,8,0,4,4:35 PM,2:40,SUB: Turkoglu FOR Stojakovic,,,,
+0020000769,445,6,1,4,4:35 PM,2:36,Martin P.FOUL (P1.T4),,,,
+0020000769,446,8,0,4,4:36 PM,2:36,SUB: Long FOR Pollard,,,,
+0020000769,447,8,0,4,4:36 PM,2:36,SUB: Smith FOR Funderburke,,,,
+0020000769,448,2,1,4,4:36 PM,2:26,,,MISS Johnson  3PT Jump Shot,,
+0020000769,449,4,0,4,4:36 PM,2:24,Long REBOUND (Off:0 Def:1),,,,
+0020000769,450,1,1,4,4:36 PM,2:08,Smith 5' Jump Shot (2 PTS),,,73 - 92,19
+0020000769,451,6,2,4,4:37 PM,1:52,Smith S.FOUL (P1.PN),,,,
+0020000769,452,3,11,4,4:37 PM,1:52,,,Johnson Free Throw 1 of 2 (6 PTS),74 - 92,18
+0020000769,453,3,12,4,4:37 PM,1:52,,,Johnson Free Throw 2 of 2 (7 PTS),75 - 92,17
+0020000769,454,5,1,4,4:37 PM,1:37,Jackson Bad Pass Turnover (P2.T10),,Robinson STEAL (2 STL),,
+0020000769,455,1,1,4,4:38 PM,1:23,,,Robinson 25' 3PT Jump Shot (6 PTS) (Bowdler 1 AST),78 - 92,14
+0020000769,456,6,4,4,4:38 PM,1:07,Long OFF.Foul (P1),,,,
+0020000769,457,5,5,4,4:38 PM,1:07,Long Foul Turnover (P1.T11),,,,
+0020000769,458,2,1,4,4:38 PM,0:50,,,MISS Johnson 4' Jump Shot,,
+0020000769,459,4,0,4,4:38 PM,0:48,,,Crawford REBOUND (Off:1 Def:1),,
+0020000769,460,2,1,4,4:39 PM,0:44,,,MISS Bowdler 17' Jump Shot,,
+0020000769,461,4,0,4,4:39 PM,0:43,,,Bowman REBOUND (Off:1 Def:1),,
+0020000769,462,2,1,4,4:39 PM,0:41,Long BLOCK (1 BLK),,MISS Bowman 6' Jump Shot,,
+0020000769,463,4,0,4,4:39 PM,0:40,,,Hawks Rebound,,
+0020000769,464,2,1,4,4:39 PM,0:35,,,MISS Crawford 10' Jump Shot,,
+0020000769,465,4,0,4,4:39 PM,0:34,Turkoglu REBOUND (Off:0 Def:1),,,,
+0020000769,466,1,42,4,4:39 PM,0:15,Martin  Driving Layup (2 PTS),,,78 - 94,16
+0020000769,467,6,1,4,4:39 PM,0:08,Martin P.FOUL (P2.PN),,,,
+0020000769,468,3,11,4,4:40 PM,0:08,,,Johnson Free Throw 1 of 2 (8 PTS),79 - 94,15
+0020000769,469,3,12,4,4:40 PM,0:08,,,Johnson Free Throw 2 of 2 (9 PTS),80 - 94,14
+0020000769,470,13,0,4,4:40 PM,0:00,,,,80 - 94,14

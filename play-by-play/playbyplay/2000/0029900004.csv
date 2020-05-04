@@ -1,0 +1,678 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029900004,0,12,0,1,11:40 AM,12:00,,,,,
+0029900004,1,10,0,1,11:43 AM,12:00,Jump Ball Mourning vs. Reid: Tip to Mashburn,,,,
+0029900004,2,7,2,1,11:43 AM,11:50,,,Pistons Violation: Def. Goaltending Violation,,
+0029900004,3,1,1,1,11:44 AM,11:40,Mashburn 19' Jump Shot (2 PTS) (Majerle 1 AST),,,0 - 2,2
+0029900004,4,2,2,1,11:44 AM,11:23,,,MISS Hill 9' Running Jump Shot,,
+0029900004,5,4,0,1,11:44 AM,11:20,Majerle REBOUND (Off:0 Def:1),,,,
+0029900004,6,5,1,1,11:44 AM,11:14,Mashburn Bad Pass Turnover (P1.T1),,,,
+0029900004,7,2,1,1,11:45 AM,11:01,,,MISS Hunter 16' Jump Shot,,
+0029900004,8,4,0,1,11:45 AM,10:59,Brown REBOUND (Off:0 Def:1),,,,
+0029900004,9,2,1,1,11:45 AM,10:53,MISS Majerle 25' 3PT Jump Shot,,,,
+0029900004,10,4,0,1,11:45 AM,10:50,,,Laettner REBOUND (Off:0 Def:1),,
+0029900004,11,2,1,1,11:45 AM,10:45,,,MISS Laettner 16' Jump Shot,,
+0029900004,12,4,0,1,11:45 AM,10:42,Majerle REBOUND (Off:0 Def:2),,,,
+0029900004,13,6,2,1,11:45 AM,10:37,,,Laettner S.FOUL (P1.T1),,
+0029900004,14,3,11,1,11:45 AM,10:37,Majerle Free Throw 1 of 2 (1 PTS),,,0 - 3,3
+0029900004,15,3,12,1,11:46 AM,10:37,Majerle Free Throw 2 of 2 (2 PTS),,,0 - 4,4
+0029900004,16,1,5,1,11:46 AM,10:25,,,Reid  Layup (2 PTS) (Hunter 1 AST),2 - 4,2
+0029900004,17,1,1,1,11:46 AM,10:16,Mourning 15' Jump Shot (2 PTS) (Hardaway 1 AST),,,2 - 6,4
+0029900004,18,6,2,1,11:46 AM,10:16,,,Reid S.FOUL (P1.T2),,
+0029900004,19,3,10,1,11:46 AM,10:16,MISS Mourning Free Throw 1 of 1,,,,
+0029900004,20,4,0,1,11:47 AM,10:16,,,Laettner REBOUND (Off:0 Def:2),,
+0029900004,21,6,1,1,11:47 AM,10:11,Mashburn P.FOUL (P1.T1),,,,
+0029900004,22,6,1,1,11:47 AM,10:02,Brown P.FOUL (P1.T2),,,,
+0029900004,23,2,1,1,11:48 AM,9:49,,,MISS Laettner 15' Jump Shot,,
+0029900004,24,4,0,1,11:48 AM,9:47,,,Hill REBOUND (Off:1 Def:0),,
+0029900004,25,2,1,1,11:48 AM,9:38,,,MISS Laettner 16' Jump Shot,,
+0029900004,26,4,0,1,11:48 AM,9:36,,,Stackhouse REBOUND (Off:1 Def:0),,
+0029900004,27,1,6,1,11:48 AM,9:20,,,Hunter  Driving Layup (2 PTS),4 - 6,2
+0029900004,28,1,6,1,11:49 AM,9:09,Majerle  Driving Layup (4 PTS),,,4 - 8,4
+0029900004,29,2,6,1,11:49 AM,8:57,Mourning BLOCK (1 BLK),,MISS Laettner  Driving Layup,,
+0029900004,30,4,0,1,11:49 AM,8:53,,,Laettner REBOUND (Off:1 Def:2),,
+0029900004,31,2,1,1,11:49 AM,8:52,,,MISS Laettner 5' Jump Shot,,
+0029900004,32,4,0,1,11:49 AM,8:51,Hardaway REBOUND (Off:0 Def:1),,,,
+0029900004,33,1,6,1,11:49 AM,8:40,Mashburn  Driving Layup (4 PTS),,,4 - 10,6
+0029900004,34,2,1,1,11:49 AM,8:26,,,MISS Hill 19' Jump Shot,,
+0029900004,35,4,0,1,11:49 AM,8:23,Mourning REBOUND (Off:0 Def:1),,,,
+0029900004,36,6,4,1,11:50 AM,8:15,Mourning OFF.Foul (P1),,,,
+0029900004,37,5,5,1,11:50 AM,8:15,Mourning Foul Turnover (P1.T2),,,,
+0029900004,39,5,1,1,11:50 AM,8:03,,,Hunter Bad Pass Turnover (P1.T1),,
+0029900004,40,2,1,1,11:50 AM,7:45,MISS Mashburn 11' Jump Shot,,,,
+0029900004,41,4,0,1,11:51 AM,7:45,Mourning REBOUND (Off:1 Def:1),,,,
+0029900004,42,6,1,1,11:51 AM,7:45,,,Reid P.FOUL (P2.T3),,
+0029900004,43,8,0,1,11:51 AM,7:45,,,SUB: Montross FOR Reid,,
+0029900004,44,1,1,1,11:51 AM,7:35,Brown 16' Jump Shot (2 PTS),,,4 - 12,8
+0029900004,45,6,2,1,11:51 AM,7:21,Majerle S.FOUL (P1.T3),,,,
+0029900004,46,3,11,1,11:52 AM,7:21,,,MISS Stackhouse Free Throw 1 of 2,,
+0029900004,47,4,1,1,11:52 AM,7:21,,,Pistons Rebound,,
+0029900004,48,3,12,1,11:52 AM,7:21,,,Stackhouse Free Throw 2 of 2 (1 PTS),5 - 12,7
+0029900004,49,6,1,1,11:52 AM,7:12,,,Stackhouse P.FOUL (P1.T4),,
+0029900004,51,9,1,1,11:52 AM,7:12,HEAT Timeout: Regular (Full 1 Short 0),,,,
+0029900004,53,1,1,1,11:55 AM,6:59,Mashburn 25' 3PT Jump Shot (7 PTS) (Mourning 1 AST),,,5 - 15,10
+0029900004,54,1,1,1,11:56 AM,6:32,,,Stackhouse 12' Jump Shot (3 PTS),7 - 15,8
+0029900004,55,2,1,1,11:56 AM,6:14,MISS Brown 17' Jump Shot,,,,
+0029900004,56,4,0,1,11:56 AM,6:11,,,Stackhouse REBOUND (Off:1 Def:1),,
+0029900004,57,6,2,1,11:56 AM,6:06,Brown S.FOUL (P2.T4),,,,
+0029900004,58,3,11,1,11:56 AM,6:06,,,Stackhouse Free Throw 1 of 2 (4 PTS),8 - 15,7
+0029900004,59,8,0,1,11:57 AM,6:06,,,SUB: Williams FOR Laettner,,
+0029900004,60,8,0,1,11:57 AM,6:06,SUB: Weatherspoon FOR Brown,,,,
+0029900004,62,3,12,1,11:57 AM,6:06,,,Stackhouse Free Throw 2 of 2 (5 PTS),9 - 15,6
+0029900004,63,1,3,1,11:57 AM,5:47,Mourning 6' Hook Shot (4 PTS),,,9 - 17,8
+0029900004,64,1,1,1,11:58 AM,5:30,,,Montross 13' Jump Shot (2 PTS),11 - 17,6
+0029900004,65,1,1,1,11:58 AM,5:19,Majerle  3PT Jump Shot (7 PTS) (Mashburn 1 AST),,,11 - 20,9
+0029900004,66,2,1,1,11:58 AM,5:09,,,MISS Hunter 25' 3PT Jump Shot,,
+0029900004,67,4,0,1,11:58 AM,5:06,Weatherspoon REBOUND (Off:0 Def:1),,,,
+0029900004,68,1,7,1,11:58 AM,4:55,Mourning  Dunk (6 PTS) (Hardaway 2 AST),,,11 - 22,11
+0029900004,69,6,4,1,11:58 AM,4:40,,,Montross OFF.Foul (P1),,
+0029900004,70,5,5,1,11:58 AM,4:40,,,Montross Foul Turnover (P1.T2),,
+0029900004,71,8,0,1,11:59 AM,4:40,SUB: Carter FOR Hardaway,,,,
+0029900004,72,8,0,1,11:59 AM,4:40,,,SUB: Curry FOR Hill,,
+0029900004,73,8,0,1,11:59 AM,4:40,,,SUB: Brown FOR Hunter,,
+0029900004,74,1,1,1,11:59 AM,4:28,Mashburn 18' Jump Shot (9 PTS) (Majerle 2 AST),,,11 - 24,13
+0029900004,75,6,1,1,11:59 AM,4:23,Majerle P.FOUL (P2.PN),,,,
+0029900004,76,3,11,1,12:00 PM,4:23,,,MISS Stackhouse Free Throw 1 of 2,,
+0029900004,77,4,1,1,12:00 PM,4:23,,,Pistons Rebound,,
+0029900004,78,8,0,1,12:00 PM,4:23,SUB: Lenard FOR Majerle,,,,
+0029900004,79,3,12,1,12:00 PM,4:23,,,Stackhouse Free Throw 2 of 2 (6 PTS),12 - 24,12
+0029900004,80,2,6,1,12:00 PM,4:02,MISS Carter  Driving Layup,,,,
+0029900004,81,4,0,1,12:00 PM,4:00,,,Curry REBOUND (Off:0 Def:1),,
+0029900004,82,1,1,1,12:01 PM,3:43,,,Curry 22' Jump Shot (2 PTS),14 - 24,10
+0029900004,83,6,1,1,12:01 PM,3:32,,,Montross P.FOUL (P2.PN),,
+0029900004,84,3,11,1,12:01 PM,3:32,MISS Mourning Free Throw 1 of 2,,,,
+0029900004,85,4,1,1,12:01 PM,3:32,HEAT Rebound,,,,
+0029900004,86,8,0,1,12:01 PM,3:32,,,SUB: Mills FOR Montross,,
+0029900004,87,3,12,1,12:02 PM,3:32,Mourning Free Throw 2 of 2 (7 PTS),,,14 - 25,11
+0029900004,88,5,1,1,12:02 PM,3:16,Lenard STEAL (1 STL),,Curry Bad Pass Turnover (P1.T3),,
+0029900004,89,1,6,1,12:02 PM,3:11,Carter  Driving Layup (2 PTS) (Lenard 1 AST),,,14 - 27,13
+0029900004,90,6,1,1,12:02 PM,2:58,Lenard P.FOUL (P1.PN),,,,
+0029900004,91,9,1,1,12:02 PM,2:58,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0029900004,93,3,11,1,12:05 PM,2:58,,,Stackhouse Free Throw 1 of 2 (7 PTS),15 - 27,12
+0029900004,94,3,12,1,12:05 PM,2:58,,,MISS Stackhouse Free Throw 2 of 2,,
+0029900004,95,4,0,1,12:05 PM,2:58,Carter REBOUND (Off:0 Def:1),,,,
+0029900004,96,2,1,1,12:06 PM,2:39,MISS Carter 21' Jump Shot,,,,
+0029900004,97,4,0,1,12:06 PM,2:36,Lenard REBOUND (Off:1 Def:0),,,,
+0029900004,98,2,1,1,12:06 PM,2:30,MISS Lenard 13' Jump Shot,,,,
+0029900004,99,4,0,1,12:06 PM,2:29,,,Pistons Rebound,,
+0029900004,100,6,3,1,12:06 PM,2:29,Mourning L.B.FOUL (P2.PN),,,,
+0029900004,101,3,11,1,12:06 PM,2:29,,,MISS Mills Free Throw 1 of 2,,
+0029900004,102,4,1,1,12:06 PM,2:29,,,Pistons Rebound,,
+0029900004,103,8,0,1,12:07 PM,2:29,SUB: Strickland FOR Mourning,,,,
+0029900004,104,3,12,1,12:07 PM,2:29,,,MISS Mills Free Throw 2 of 2,,
+0029900004,105,4,0,1,12:07 PM,2:29,Strickland REBOUND (Off:0 Def:1),,,,
+0029900004,106,2,1,1,12:07 PM,2:15,MISS Lenard 20' Jump Shot,,,,
+0029900004,107,4,0,1,12:07 PM,2:13,Strickland REBOUND (Off:1 Def:1),,,,
+0029900004,108,6,1,1,12:07 PM,2:13,,,Curry P.FOUL (P1.PN),,
+0029900004,109,8,0,1,12:07 PM,2:13,,,SUB: Hill FOR Stackhouse,,
+0029900004,110,8,0,1,12:07 PM,2:13,,,SUB: Laettner FOR Mills,,
+0029900004,111,3,11,1,12:07 PM,2:13,MISS Strickland Free Throw 1 of 2,,,,
+0029900004,112,4,1,1,12:07 PM,2:13,HEAT Rebound,,,,
+0029900004,113,3,12,1,12:08 PM,2:13,Strickland Free Throw 2 of 2 (1 PTS),,,15 - 28,13
+0029900004,115,2,5,1,12:08 PM,2:03,,,MISS Curry  Layup,,
+0029900004,116,4,0,1,12:08 PM,2:01,,,Williams REBOUND (Off:1 Def:0),,
+0029900004,117,1,3,1,12:08 PM,2:00,,,Williams 4' Hook Shot (2 PTS),17 - 28,11
+0029900004,118,6,2,1,12:08 PM,1:41,,,Brown S.FOUL (P1.PN),,
+0029900004,119,3,11,1,12:09 PM,1:41,MISS Weatherspoon Free Throw 1 of 2,,,,
+0029900004,120,4,1,1,12:09 PM,1:41,HEAT Rebound,,,,
+0029900004,121,8,0,1,12:09 PM,1:41,,,SUB: Hunter FOR Brown,,
+0029900004,122,3,12,1,12:09 PM,1:41,Weatherspoon Free Throw 2 of 2 (1 PTS),,,17 - 29,12
+0029900004,123,6,1,1,12:09 PM,1:33,Weatherspoon P.FOUL (P1.PN),,,,
+0029900004,124,3,11,1,12:10 PM,1:33,,,MISS Laettner Free Throw 1 of 2,,
+0029900004,125,4,1,1,12:10 PM,1:33,,,Pistons Rebound,,
+0029900004,126,3,12,1,12:10 PM,1:33,,,MISS Laettner Free Throw 2 of 2,,
+0029900004,127,4,0,1,12:10 PM,1:33,Strickland REBOUND (Off:1 Def:2),,,,
+0029900004,128,2,1,1,12:10 PM,1:16,MISS Carter 23' Jump Shot,,,,
+0029900004,129,4,0,1,12:10 PM,1:13,,,Pistons Rebound,,
+0029900004,130,2,1,1,12:10 PM,1:00,,,MISS Hunter 15' Jump Shot,,
+0029900004,131,4,0,1,12:10 PM,0:58,Lenard REBOUND (Off:1 Def:1),,,,
+0029900004,132,6,2,1,12:11 PM,0:54,,,Hunter S.FOUL (P1.PN),,
+0029900004,134,3,11,1,12:11 PM,0:54,Weatherspoon Free Throw 1 of 2 (2 PTS),,,17 - 30,13
+0029900004,135,3,12,1,12:11 PM,0:54,Weatherspoon Free Throw 2 of 2 (3 PTS),,,17 - 31,14
+0029900004,136,1,6,1,12:11 PM,0:42,,,Williams  Driving Layup (4 PTS) (Laettner 1 AST),19 - 31,12
+0029900004,137,6,2,1,12:11 PM,0:42,Strickland S.FOUL (P1.PN),,,,
+0029900004,138,3,10,1,12:12 PM,0:42,,,Williams Free Throw 1 of 1 (5 PTS),20 - 31,11
+0029900004,139,2,1,1,12:12 PM,0:22,MISS Lenard 25' 3PT Jump Shot,,,,
+0029900004,140,4,0,1,12:12 PM,0:19,,,Laettner REBOUND (Off:1 Def:3),,
+0029900004,141,2,6,1,12:12 PM,0:14,,,MISS Hill  Driving Layup,,
+0029900004,143,4,0,1,12:12 PM,0:12,,,Williams REBOUND (Off:2 Def:0),,
+0029900004,142,2,4,1,12:12 PM,0:12,,,MISS Williams  Tip Shot,,
+0029900004,144,4,0,1,12:12 PM,0:10,Carter REBOUND (Off:0 Def:2),,,,
+0029900004,145,1,5,1,12:12 PM,0:06,Mashburn  Layup (11 PTS) (Carter 1 AST),,,20 - 33,13
+0029900004,146,1,6,1,12:13 PM,0:00,,,Hunter  Driving Layup (4 PTS),22 - 33,11
+0029900004,147,13,0,1,12:13 PM,0:00,,,,22 - 33,11
+0029900004,149,12,0,2,12:16 PM,12:00,,,,22 - 33,11
+0029900004,150,2,1,2,12:16 PM,11:44,,,MISS Hill 16' Jump Shot,,
+0029900004,151,4,0,2,12:16 PM,11:42,Mashburn REBOUND (Off:0 Def:1),,,,
+0029900004,152,2,1,2,12:16 PM,11:34,MISS Mashburn 15' Jump Shot,,,,
+0029900004,153,4,0,2,12:16 PM,11:32,,,Williams REBOUND (Off:2 Def:1),,
+0029900004,154,2,1,2,12:16 PM,11:27,,,MISS Hill 19' Jump Shot,,
+0029900004,155,4,0,2,12:16 PM,11:24,Weatherspoon REBOUND (Off:0 Def:2),,,,
+0029900004,156,1,1,2,12:16 PM,11:08,Lenard 21' Jump Shot (2 PTS) (Strickland 1 AST),,,22 - 35,13
+0029900004,157,6,1,2,12:17 PM,11:00,Lenard P.FOUL (P2.T1),,,,
+0029900004,158,2,2,2,12:17 PM,10:47,,,MISS Hill 6' Running Jump Shot,,
+0029900004,159,4,0,2,12:17 PM,10:45,Lenard REBOUND (Off:1 Def:2),,,,
+0029900004,160,2,2,2,12:18 PM,10:30,MISS Mashburn 6' Running Jump Shot,,,,
+0029900004,161,4,0,2,12:18 PM,10:27,,,Laettner REBOUND (Off:1 Def:4),,
+0029900004,162,2,1,2,12:18 PM,10:19,,,MISS Hunter 19' Jump Shot,,
+0029900004,164,4,0,2,12:18 PM,10:17,,,Laettner REBOUND (Off:2 Def:4),,
+0029900004,163,2,4,2,12:18 PM,10:17,,,MISS Laettner  Tip Shot,,
+0029900004,165,4,0,2,12:18 PM,10:15,Weatherspoon REBOUND (Off:0 Def:3),,,,
+0029900004,166,5,1,2,12:18 PM,10:14,Weatherspoon Bad Pass Turnover (P1.T3),,,,
+0029900004,167,8,0,2,12:18 PM,10:14,,,SUB: Stackhouse FOR Hunter,,
+0029900004,168,8,0,2,12:18 PM,10:14,,,SUB: Buechler FOR Curry,,
+0029900004,169,2,5,2,12:18 PM,10:06,Strickland BLOCK (1 BLK),,MISS Stackhouse  Layup,,
+0029900004,170,4,0,2,12:19 PM,10:03,Strickland REBOUND (Off:1 Def:3),,,,
+0029900004,171,2,5,2,12:19 PM,9:46,MISS Weatherspoon  Layup,,,,
+0029900004,172,4,0,2,12:19 PM,9:44,,,Williams REBOUND (Off:2 Def:2),,
+0029900004,173,2,1,2,12:19 PM,9:40,,,MISS Buechler 21' Jump Shot,,
+0029900004,174,4,0,2,12:19 PM,9:38,,,Laettner REBOUND (Off:3 Def:4),,
+0029900004,175,6,1,2,12:19 PM,9:38,Weatherspoon P.FOUL (P2.T2),,,,
+0029900004,176,9,4,2,12:19 PM,9:38,,,,,
+0029900004,178,8,0,2,12:21 PM,9:38,SUB: Hardaway FOR Mashburn,,,,
+0029900004,179,8,0,2,12:21 PM,9:38,SUB: Majerle FOR Weatherspoon,,,,
+0029900004,180,8,0,2,12:21 PM,9:38,SUB: Brown FOR Carter,,,,
+0029900004,181,3,11,2,12:22 PM,9:38,,,Laettner Free Throw 1 of 2 (1 PTS),23 - 35,12
+0029900004,182,3,12,2,12:22 PM,9:38,,,Laettner Free Throw 2 of 2 (2 PTS),24 - 35,11
+0029900004,183,2,1,2,12:22 PM,9:13,MISS Lenard 24' 3PT Jump Shot,,,,
+0029900004,184,4,0,2,12:22 PM,9:13,,,Pistons Rebound,,
+0029900004,185,1,6,2,12:23 PM,9:04,,,Hill  Driving Layup (2 PTS) (Laettner 2 AST),26 - 35,9
+0029900004,186,9,2,2,12:23 PM,8:58,HEAT Timeout: Short (Full 1 Short 1),,,,
+0029900004,187,2,1,2,12:24 PM,8:42,MISS Hardaway 21' Jump Shot,,,,
+0029900004,188,4,0,2,12:24 PM,8:40,,,Buechler REBOUND (Off:0 Def:1),,
+0029900004,189,5,1,2,12:24 PM,8:31,Lenard STEAL (2 STL),,Stackhouse Bad Pass Turnover (P1.T4),,
+0029900004,190,2,6,2,12:24 PM,8:25,MISS Hardaway  Driving Layup,,,,
+0029900004,191,4,0,2,12:25 PM,8:23,Majerle REBOUND (Off:1 Def:2),,,,
+0029900004,192,2,1,2,12:25 PM,8:21,MISS Majerle 10' Jump Shot,,,,
+0029900004,193,4,0,2,12:25 PM,8:18,,,Buechler REBOUND (Off:0 Def:2),,
+0029900004,194,2,1,2,12:25 PM,8:10,,,MISS Hill 19' Jump Shot,,
+0029900004,195,4,0,2,12:25 PM,8:08,Brown REBOUND (Off:0 Def:2),,,,
+0029900004,196,6,1,2,12:25 PM,8:08,,,Williams P.FOUL (P1.T1),,
+0029900004,197,8,0,2,12:25 PM,8:08,SUB: Mourning FOR Strickland,,,,
+0029900004,198,5,2,2,12:25 PM,7:56,Brown Lost Ball Turnover (P1.T4),,Williams STEAL (1 STL),,
+0029900004,199,1,6,2,12:25 PM,7:52,,,Williams  Driving Layup (7 PTS),28 - 35,7
+0029900004,200,1,1,2,12:26 PM,7:32,Lenard 26' 3PT Jump Shot (5 PTS) (Majerle 3 AST),,,28 - 38,10
+0029900004,201,2,1,2,12:26 PM,7:14,,,MISS Laettner 13' Jump Shot,,
+0029900004,202,4,0,2,12:26 PM,7:11,Brown REBOUND (Off:0 Def:3),,,,
+0029900004,203,6,1,2,12:26 PM,7:06,,,Laettner P.FOUL (P2.T2),,
+0029900004,204,8,0,2,12:26 PM,7:06,,,SUB: Reid FOR Laettner,,
+0029900004,205,2,1,2,12:27 PM,6:52,MISS Lenard  3PT Jump Shot,,,,
+0029900004,206,4,0,2,12:27 PM,6:50,,,Stackhouse REBOUND (Off:1 Def:2),,
+0029900004,207,2,1,2,12:27 PM,6:38,,,MISS Buechler 21' Jump Shot,,
+0029900004,208,4,0,2,12:27 PM,6:37,HEAT Rebound,,,,
+0029900004,209,9,1,2,12:27 PM,6:37,HEAT Timeout: Regular (Full 2 Short 1),,,,
+0029900004,211,1,1,2,12:30 PM,6:13,Hardaway 24' 3PT Jump Shot (3 PTS) (Majerle 4 AST),,,28 - 41,13
+0029900004,212,5,1,2,12:30 PM,6:06,Hardaway STEAL (1 STL),,Reid Bad Pass Turnover (P1.T5),,
+0029900004,213,6,1,2,12:30 PM,6:03,,,Reid P.FOUL (P3.T3),,
+0029900004,214,8,0,2,12:31 PM,6:03,,,SUB: Montross FOR Reid,,
+0029900004,215,2,1,2,12:31 PM,5:51,MISS Majerle 24' 3PT Jump Shot,,,,
+0029900004,216,4,0,2,12:31 PM,5:50,,,Stackhouse REBOUND (Off:1 Def:3),,
+0029900004,217,2,1,2,12:31 PM,5:42,,,MISS Stackhouse 20' Jump Shot,,
+0029900004,218,4,0,2,12:31 PM,5:40,Mourning REBOUND (Off:1 Def:2),,,,
+0029900004,219,1,6,2,12:31 PM,5:33,Hardaway  Driving Layup (5 PTS),,,28 - 43,15
+0029900004,220,2,1,2,12:31 PM,5:18,,,MISS Montross 15' Jump Shot,,
+0029900004,221,4,0,2,12:31 PM,5:16,Majerle REBOUND (Off:1 Def:3),,,,
+0029900004,222,2,1,2,12:32 PM,5:11,MISS Lenard 24' 3PT Jump Shot,,,,
+0029900004,223,4,0,2,12:32 PM,5:10,,,Pistons Rebound,,
+0029900004,224,6,3,2,12:32 PM,5:10,Brown L.B.FOUL (P3.T3),,,,
+0029900004,225,9,1,2,12:32 PM,5:10,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0029900004,227,8,0,2,12:34 PM,5:10,,,SUB: Hunter FOR Buechler,,
+0029900004,228,8,0,2,12:34 PM,5:10,SUB: Weatherspoon FOR Brown,,,,
+0029900004,229,6,1,2,12:34 PM,4:55,Lenard P.FOUL (P3.T4),,,,
+0029900004,230,8,0,2,12:34 PM,4:55,SUB: Mashburn FOR Lenard,,,,
+0029900004,231,1,6,2,12:35 PM,4:51,,,Stackhouse  Driving Layup (9 PTS),30 - 43,13
+0029900004,232,6,2,2,12:35 PM,4:43,,,Hill S.FOUL (P1.T4),,
+0029900004,233,3,11,2,12:35 PM,4:43,Mashburn Free Throw 1 of 2 (12 PTS),,,30 - 44,14
+0029900004,234,3,12,2,12:35 PM,4:43,Mashburn Free Throw 2 of 2 (13 PTS),,,30 - 45,15
+0029900004,235,6,2,2,12:36 PM,4:37,Majerle S.FOUL (P3.PN),,,,
+0029900004,236,3,11,2,12:36 PM,4:37,,,Stackhouse Free Throw 1 of 2 (10 PTS),31 - 45,14
+0029900004,237,8,0,2,12:36 PM,4:37,SUB: Buford FOR Majerle,,,,
+0029900004,238,3,12,2,12:36 PM,4:37,,,Stackhouse Free Throw 2 of 2 (11 PTS),32 - 45,13
+0029900004,239,1,1,2,12:37 PM,4:18,Buford 21' Jump Shot (2 PTS) (Hardaway 3 AST),,,32 - 47,15
+0029900004,240,1,6,2,12:37 PM,4:08,,,Stackhouse  Driving Layup (13 PTS),34 - 47,13
+0029900004,241,2,1,2,12:38 PM,3:46,MISS Mourning 13' Jump Shot,,,,
+0029900004,242,4,0,2,12:38 PM,3:44,,,Montross REBOUND (Off:0 Def:1),,
+0029900004,243,1,1,2,12:38 PM,3:38,,,Hunter 10' Jump Shot (6 PTS),36 - 47,11
+0029900004,244,5,1,2,12:38 PM,3:33,Weatherspoon Bad Pass Turnover (P2.T5),,,,
+0029900004,245,2,2,2,12:38 PM,3:27,,,MISS Stackhouse 6' Running Jump Shot,,
+0029900004,247,4,0,2,12:38 PM,3:24,,,Williams REBOUND (Off:3 Def:2),,
+0029900004,246,2,7,2,12:38 PM,3:24,Weatherspoon BLOCK (1 BLK),,MISS Williams  Dunk,,
+0029900004,248,4,0,2,12:38 PM,3:23,,,Montross REBOUND (Off:1 Def:1),,
+0029900004,249,2,1,2,12:38 PM,3:16,,,MISS Hill 25' 3PT Jump Shot,,
+0029900004,251,4,0,2,12:38 PM,3:13,,,Montross REBOUND (Off:2 Def:1),,
+0029900004,250,1,4,2,12:38 PM,3:12,,,Montross  Tip Shot (4 PTS),38 - 47,9
+0029900004,252,9,1,2,12:39 PM,3:10,HEAT Timeout: Regular (Full 3 Short 1),,,,
+0029900004,254,2,1,2,12:41 PM,3:01,MISS Weatherspoon 15' Jump Shot,,,,
+0029900004,255,4,0,2,12:41 PM,2:57,Mourning REBOUND (Off:2 Def:2),,,,
+0029900004,256,2,5,2,12:41 PM,2:56,MISS Mourning  Layup,,Montross BLOCK (1 BLK),,
+0029900004,257,4,0,2,12:41 PM,2:50,Weatherspoon REBOUND (Off:1 Def:3),,,,
+0029900004,258,1,5,2,12:41 PM,2:49,Weatherspoon  Layup (5 PTS),,,38 - 49,11
+0029900004,259,1,1,2,12:41 PM,2:37,,,Hill 8' Jump Shot (4 PTS),40 - 49,9
+0029900004,260,2,6,2,12:41 PM,2:28,MISS Mourning  Driving Layup,,,,
+0029900004,261,4,0,2,12:42 PM,2:26,Mourning REBOUND (Off:3 Def:2),,,,
+0029900004,262,1,7,2,12:42 PM,2:24,Mourning  Dunk (9 PTS),,,40 - 51,11
+0029900004,263,2,3,2,12:42 PM,2:08,,,MISS Hill 10' Hook Shot,,
+0029900004,264,4,0,2,12:42 PM,2:05,Weatherspoon REBOUND (Off:1 Def:4),,,,
+0029900004,265,2,1,2,12:42 PM,1:57,MISS Buford 25' 3PT Jump Shot,,,,
+0029900004,266,4,0,2,12:42 PM,1:55,Mourning REBOUND (Off:4 Def:2),,,,
+0029900004,267,2,5,2,12:42 PM,1:53,MISS Mourning  Layup,,,,
+0029900004,268,4,0,2,12:42 PM,1:51,Mourning REBOUND (Off:5 Def:2),,,,
+0029900004,269,1,1,2,12:42 PM,1:39,Hardaway 21' Jump Shot (7 PTS),,,40 - 53,13
+0029900004,270,1,1,2,12:43 PM,1:23,,,Stackhouse 13' Jump Shot (15 PTS),42 - 53,11
+0029900004,271,7,6,2,12:43 PM,1:06,,,Williams Violation:Double Lane,,
+0029900004,272,8,0,2,12:43 PM,1:06,,,SUB: Mills FOR Montross,,
+0029900004,273,8,0,2,12:43 PM,1:06,SUB: Strickland FOR Mourning,,,,
+0029900004,274,8,0,2,12:43 PM,1:06,,,SUB: Laettner FOR Williams,,
+0029900004,275,1,1,2,12:44 PM,1:00,Hardaway 12' Jump Shot (9 PTS),,,42 - 55,13
+0029900004,276,1,1,2,12:44 PM,0:47,,,Stackhouse 25' 3PT Jump Shot (18 PTS) (Hill 1 AST),45 - 55,10
+0029900004,277,2,1,2,12:44 PM,0:32,MISS Hardaway 26' 3PT Jump Shot,,,,
+0029900004,278,4,0,2,12:44 PM,0:30,,,Mills REBOUND (Off:0 Def:1),,
+0029900004,279,6,2,2,12:44 PM,0:26,Mashburn S.FOUL (P2.PN),,,,
+0029900004,280,3,11,2,12:45 PM,0:26,,,MISS Hill Free Throw 1 of 2,,
+0029900004,281,4,1,2,12:45 PM,0:26,,,Pistons Rebound,,
+0029900004,282,8,0,2,12:45 PM,0:26,,,SUB: Williams FOR Laettner,,
+0029900004,283,3,12,2,12:45 PM,0:26,,,Hill Free Throw 2 of 2 (5 PTS),46 - 55,9
+0029900004,284,1,1,2,12:45 PM,0:12,Hardaway 18' Jump Shot (11 PTS),,,46 - 57,11
+0029900004,285,9,2,2,12:45 PM,0:05,,,Pistons Timeout: Short (Reg.2 Short 1),,
+0029900004,287,2,6,2,12:47 PM,0:00,,,MISS Hunter  Driving Layup,,
+0029900004,288,4,0,2,12:47 PM,0:00,Strickland REBOUND (Off:1 Def:4),,,,
+0029900004,289,13,0,2,12:47 PM,0:00,,,,46 - 57,11
+0029900004,291,12,0,3,1:03 PM,12:00,,,,46 - 57,11
+0029900004,292,2,1,3,1:03 PM,11:47,,,MISS Hill 14' Jump Shot,,
+0029900004,293,4,0,3,1:03 PM,11:44,Mourning REBOUND (Off:5 Def:3),,,,
+0029900004,294,2,1,3,1:03 PM,11:33,MISS Brown 20' Jump Shot,,,,
+0029900004,295,4,0,3,1:03 PM,11:29,,,Hill REBOUND (Off:1 Def:1),,
+0029900004,296,5,1,3,1:03 PM,11:26,,,Hill Bad Pass Turnover (P1.T6),,
+0029900004,297,5,1,3,1:04 PM,11:15,Hardaway Bad Pass Turnover (P1.T6),,Reid STEAL (1 STL),,
+0029900004,298,2,1,3,1:04 PM,11:07,,,MISS Laettner 19' Jump Shot,,
+0029900004,299,4,0,3,1:04 PM,11:04,HEAT Rebound,,,,
+0029900004,300,2,1,3,1:04 PM,10:47,MISS Mashburn 18' Jump Shot,,,,
+0029900004,301,4,0,3,1:04 PM,10:44,,,Hunter REBOUND (Off:0 Def:1),,
+0029900004,302,1,1,3,1:04 PM,10:37,,,Hunter 26' 3PT Jump Shot (9 PTS) (Hill 2 AST),49 - 57,8
+0029900004,303,2,6,3,1:05 PM,10:16,MISS Mashburn  Driving Layup,,,,
+0029900004,304,4,0,3,1:05 PM,10:14,,,Reid REBOUND (Off:0 Def:1),,
+0029900004,305,5,3,3,1:05 PM,10:08,,,Stackhouse Out Of Bounds Turnover (P2.T7),,
+0029900004,306,1,3,3,1:05 PM,9:53,Mourning 6' Hook Shot (11 PTS),,,49 - 59,10
+0029900004,307,6,4,3,1:06 PM,9:47,,,Stackhouse OFF.Foul (P2),,
+0029900004,308,5,5,3,1:06 PM,9:47,,,Stackhouse Foul Turnover (P3.T8),,
+0029900004,309,5,1,3,1:06 PM,9:28,Brown Bad Pass Turnover (P2.T7),,Hunter STEAL (1 STL),,
+0029900004,310,6,9,3,1:06 PM,9:28,Hardaway C.P.FOUL (P1.T1),,,,
+0029900004,312,3,11,3,1:06 PM,9:28,,,MISS Hunter Free Throw 1 of 2,,
+0029900004,313,4,1,3,1:06 PM,9:28,,,Pistons Rebound,,
+0029900004,314,3,12,3,1:07 PM,9:28,,,Hunter Free Throw 2 of 2 (10 PTS),50 - 59,9
+0029900004,315,2,1,3,1:07 PM,9:06,MISS Hardaway 24' 3PT Jump Shot,,,,
+0029900004,316,4,0,3,1:07 PM,9:05,Mourning REBOUND (Off:6 Def:3),,,,
+0029900004,317,6,1,3,1:07 PM,9:05,,,Reid P.FOUL (P4.T1),,
+0029900004,318,6,2,3,1:08 PM,8:58,,,Reid S.FOUL (P5.T2),,
+0029900004,319,3,11,3,1:08 PM,8:58,MISS Mashburn Free Throw 1 of 2,,,,
+0029900004,320,4,1,3,1:08 PM,8:58,HEAT Rebound,,,,
+0029900004,321,8,0,3,1:08 PM,8:58,,,SUB: Montross FOR Reid,,
+0029900004,322,3,12,3,1:08 PM,8:58,Mashburn Free Throw 2 of 2 (14 PTS),,,50 - 60,10
+0029900004,323,5,4,3,1:09 PM,8:47,,,Montross Traveling Turnover (P2.T9),,
+0029900004,324,2,1,3,1:09 PM,8:34,MISS Mourning 20' Jump Shot,,,,
+0029900004,325,4,0,3,1:09 PM,8:31,,,Laettner REBOUND (Off:3 Def:5),,
+0029900004,326,6,1,3,1:09 PM,8:23,Brown P.FOUL (P4.T2),,,,
+0029900004,327,8,0,3,1:09 PM,8:23,SUB: Weatherspoon FOR Brown,,,,
+0029900004,328,5,1,3,1:10 PM,8:17,,,Stackhouse Bad Pass Turnover (P4.T10),,
+0029900004,329,1,2,3,1:10 PM,7:55,Hardaway 8' Running Jump Shot (13 PTS),,,50 - 62,12
+0029900004,330,1,1,3,1:10 PM,7:48,,,Hill 17' Jump Shot (7 PTS),52 - 62,10
+0029900004,331,2,1,3,1:10 PM,7:35,MISS Majerle 25' 3PT Jump Shot,,,,
+0029900004,332,4,0,3,1:10 PM,7:34,,,Hill REBOUND (Off:1 Def:2),,
+0029900004,333,1,1,3,1:11 PM,7:28,,,Hunter 6' Jump Shot (12 PTS),54 - 62,8
+0029900004,334,6,1,3,1:11 PM,7:10,,,Hunter P.FOUL (P2.T3),,
+0029900004,335,8,0,3,1:11 PM,7:10,,,SUB: Williams FOR Laettner,,
+0029900004,336,9,1,3,1:11 PM,7:10,HEAT Timeout: Regular (Full 4 Short 1),,,,
+0029900004,338,1,1,3,1:13 PM,7:00,Weatherspoon 16' Jump Shot (7 PTS) (Hardaway 4 AST),,,54 - 64,10
+0029900004,339,1,1,3,1:14 PM,6:44,,,Hunter  3PT Jump Shot (15 PTS) (Hill 3 AST),57 - 64,7
+0029900004,340,2,1,3,1:14 PM,6:22,MISS Mashburn 20' Jump Shot,,Hill BLOCK (1 BLK),,
+0029900004,341,4,0,3,1:14 PM,6:20,,,Williams REBOUND (Off:3 Def:3),,
+0029900004,342,1,1,3,1:14 PM,6:07,,,Hill 16' Jump Shot (9 PTS),59 - 64,5
+0029900004,343,2,1,3,1:15 PM,5:52,MISS Mourning 18' Jump Shot,,,,
+0029900004,344,4,0,3,1:15 PM,5:49,,,Williams REBOUND (Off:3 Def:4),,
+0029900004,345,6,2,3,1:15 PM,5:43,Mashburn S.FOUL (P3.T3),,,,
+0029900004,346,3,11,3,1:15 PM,5:43,,,Hill Free Throw 1 of 2 (10 PTS),60 - 64,4
+0029900004,347,3,12,3,1:15 PM,5:43,,,Hill Free Throw 2 of 2 (11 PTS),61 - 64,3
+0029900004,348,2,1,3,1:16 PM,5:30,MISS Hardaway 19' Jump Shot,,,,
+0029900004,349,4,0,3,1:16 PM,5:29,,,Pistons Rebound,,
+0029900004,350,6,3,3,1:16 PM,5:29,Mourning L.B.FOUL (P3.T4),,,,
+0029900004,351,8,0,3,1:16 PM,5:29,,,SUB: Curry FOR Hill,,
+0029900004,352,1,1,3,1:16 PM,5:18,,,Hunter 9' Jump Shot (17 PTS),63 - 64,1
+0029900004,353,1,1,3,1:17 PM,4:55,Hardaway 26' 3PT Jump Shot (16 PTS) (Weatherspoon 1 AST),,,63 - 67,4
+0029900004,354,6,1,3,1:17 PM,4:49,Majerle P.FOUL (P4.PN),,,,
+0029900004,355,8,0,3,1:17 PM,4:49,SUB: Lenard FOR Majerle,,,,
+0029900004,356,8,0,3,1:17 PM,4:49,,,SUB: Brown FOR Hunter,,
+0029900004,357,3,11,3,1:17 PM,4:49,,,Stackhouse Free Throw 1 of 2 (19 PTS),64 - 67,3
+0029900004,358,3,12,3,1:17 PM,4:49,,,MISS Stackhouse Free Throw 2 of 2,,
+0029900004,359,4,0,3,1:18 PM,4:48,Mourning REBOUND (Off:6 Def:4),,,,
+0029900004,360,6,2,3,1:18 PM,4:32,,,Williams S.FOUL (P2.T4),,
+0029900004,361,8,0,3,1:18 PM,4:32,,,SUB: Hill FOR Stackhouse,,
+0029900004,362,3,11,3,1:18 PM,4:32,Mourning Free Throw 1 of 2 (12 PTS),,,64 - 68,4
+0029900004,363,3,12,3,1:19 PM,4:32,MISS Mourning Free Throw 2 of 2,,,,
+0029900004,364,4,0,3,1:19 PM,4:31,,,Williams REBOUND (Off:3 Def:5),,
+0029900004,365,2,6,3,1:19 PM,4:16,Mourning BLOCK (2 BLK),,MISS Montross  Driving Layup,,
+0029900004,366,4,0,3,1:19 PM,4:12,Mashburn REBOUND (Off:0 Def:2),,,,
+0029900004,367,7,6,3,1:19 PM,4:11,,,Hill Violation:Double Lane,,
+0029900004,368,1,1,3,1:20 PM,3:57,Mashburn  3PT Jump Shot (17 PTS) (Lenard 2 AST),,,64 - 71,7
+0029900004,369,2,1,3,1:20 PM,3:48,,,MISS Hill 16' Jump Shot,,
+0029900004,370,4,0,3,1:20 PM,3:46,Weatherspoon REBOUND (Off:1 Def:5),,,,
+0029900004,371,8,0,3,1:20 PM,3:38,,,SUB: Mills FOR Montross,,
+0029900004,372,2,1,3,1:21 PM,3:33,MISS Hardaway 18' Jump Shot,,,,
+0029900004,373,4,0,3,1:21 PM,3:30,,,Hill REBOUND (Off:1 Def:3),,
+0029900004,374,2,1,3,1:21 PM,3:25,,,MISS Mills 25' 3PT Jump Shot,,
+0029900004,375,4,0,3,1:21 PM,3:23,Hardaway REBOUND (Off:0 Def:2),,,,
+0029900004,376,2,1,3,1:21 PM,3:14,MISS Lenard 25' 3PT Jump Shot,,,,
+0029900004,377,4,0,3,1:21 PM,3:11,,,Williams REBOUND (Off:3 Def:6),,
+0029900004,378,1,6,3,1:21 PM,3:04,,,Hill  Driving Layup (13 PTS),66 - 71,5
+0029900004,379,6,1,3,1:22 PM,2:50,,,Mills P.FOUL (P1.PN),,
+0029900004,380,9,1,3,1:22 PM,2:50,,,Pistons Timeout: Regular (Reg.3 Short 1),,
+0029900004,382,3,11,3,1:24 PM,2:50,MISS Mashburn Free Throw 1 of 2,,,,
+0029900004,383,4,1,3,1:24 PM,2:50,HEAT Rebound,,,,
+0029900004,384,3,12,3,1:24 PM,2:50,Mashburn Free Throw 2 of 2 (18 PTS),,,66 - 72,6
+0029900004,385,2,1,3,1:25 PM,2:38,,,MISS Curry 20' Jump Shot,,
+0029900004,386,4,0,3,1:25 PM,2:35,Weatherspoon REBOUND (Off:1 Def:6),,,,
+0029900004,387,2,1,3,1:25 PM,2:16,MISS Hardaway 24' 3PT Jump Shot,,,,
+0029900004,388,4,0,3,1:25 PM,2:14,Mourning REBOUND (Off:7 Def:4),,,,
+0029900004,389,5,8,3,1:26 PM,2:09,Mourning 3 Second Violation Turnover (P2.T8),,,,
+0029900004,390,1,1,3,1:26 PM,1:59,,,Mills 20' Jump Shot (2 PTS),68 - 72,4
+0029900004,391,6,1,3,1:26 PM,1:48,,,Curry P.FOUL (P2.PN),,
+0029900004,392,6,11,3,1:26 PM,1:48,,,,,
+0029900004,393,3,16,3,1:27 PM,1:48,Hardaway Free Throw Technical (17 PTS),,,68 - 73,5
+0029900004,394,3,11,3,1:27 PM,1:48,MISS Lenard Free Throw 1 of 2,,,,
+0029900004,395,4,1,3,1:27 PM,1:48,HEAT Rebound,,,,
+0029900004,396,3,12,3,1:27 PM,1:48,Lenard Free Throw 2 of 2 (6 PTS),,,68 - 74,6
+0029900004,398,2,1,3,1:28 PM,1:34,,,MISS Mills 19' Jump Shot,,
+0029900004,399,4,0,3,1:28 PM,1:33,HEAT Rebound,,,,
+0029900004,400,2,1,3,1:28 PM,1:17,MISS Weatherspoon 12' Jump Shot,,,,
+0029900004,401,4,0,3,1:28 PM,1:14,,,Hill REBOUND (Off:1 Def:4),,
+0029900004,402,6,2,3,1:28 PM,1:11,Weatherspoon S.FOUL (P3.PN),,,,
+0029900004,403,3,11,3,1:29 PM,1:11,,,Hill Free Throw 1 of 2 (14 PTS),69 - 74,5
+0029900004,404,8,0,3,1:29 PM,1:11,SUB: Carter FOR Hardaway,,,,
+0029900004,405,3,12,3,1:29 PM,1:11,,,Hill Free Throw 2 of 2 (15 PTS),70 - 74,4
+0029900004,406,6,4,3,1:29 PM,0:58,Carter OFF.Foul (P1),,,,
+0029900004,407,5,5,3,1:29 PM,0:58,Carter Foul Turnover (P1.T9),,,,
+0029900004,408,2,1,3,1:30 PM,0:49,,,MISS Mills 25' 3PT Jump Shot,,
+0029900004,409,4,0,3,1:30 PM,0:47,Mourning REBOUND (Off:7 Def:5),,,,
+0029900004,410,1,1,3,1:30 PM,0:31,Mashburn 25' 3PT Jump Shot (21 PTS) (Carter 2 AST),,,70 - 77,7
+0029900004,411,2,1,3,1:30 PM,0:21,,,MISS Hill 16' Jump Shot,,
+0029900004,412,4,0,3,1:30 PM,0:15,Lenard REBOUND (Off:1 Def:3),,,,
+0029900004,414,2,5,3,1:31 PM,0:01,MISS Weatherspoon  Layup,,,,
+0029900004,415,4,0,3,1:31 PM,0:01,Carter REBOUND (Off:1 Def:2),,,,
+0029900004,416,2,1,3,1:31 PM,0:00,MISS Carter 15' Jump Shot,,,,
+0029900004,417,4,0,3,1:31 PM,0:00,HEAT Rebound,,,,
+0029900004,418,13,0,3,1:31 PM,0:00,,,,70 - 77,7
+0029900004,419,12,0,4,1:34 PM,12:00,,,,70 - 77,7
+0029900004,420,2,1,4,1:34 PM,11:41,MISS Mourning 15' Jump Shot,,,,
+0029900004,421,4,0,4,1:34 PM,11:39,,,Mills REBOUND (Off:0 Def:2),,
+0029900004,422,2,1,4,1:35 PM,11:17,,,MISS Hunter 20' Jump Shot,,
+0029900004,423,4,0,4,1:35 PM,11:14,Lenard REBOUND (Off:1 Def:4),,,,
+0029900004,424,6,1,4,1:35 PM,11:06,,,Mills P.FOUL (P2.T1),,
+0029900004,425,2,1,4,1:35 PM,10:57,MISS Mashburn 16' Jump Shot,,,,
+0029900004,426,4,0,4,1:35 PM,10:54,,,Mills REBOUND (Off:0 Def:3),,
+0029900004,427,5,1,4,1:35 PM,10:45,Mashburn STEAL (1 STL),,Curry Bad Pass Turnover (P2.T11),,
+0029900004,428,2,1,4,1:36 PM,10:33,MISS Mashburn 24' 3PT Jump Shot,,,,
+0029900004,429,4,0,4,1:36 PM,10:33,,,Williams REBOUND (Off:3 Def:7),,
+0029900004,430,6,1,4,1:36 PM,10:33,Weatherspoon P.FOUL (P4.T1),,,,
+0029900004,431,2,1,4,1:36 PM,10:18,,,MISS Hunter 25' 3PT Jump Shot,,
+0029900004,432,4,0,4,1:36 PM,10:15,Lenard REBOUND (Off:1 Def:5),,,,
+0029900004,433,2,1,4,1:36 PM,10:05,MISS Carter 21' Jump Shot,,,,
+0029900004,434,4,0,4,1:36 PM,10:01,,,Williams REBOUND (Off:3 Def:8),,
+0029900004,435,2,1,4,1:36 PM,9:57,,,MISS Stackhouse 25' 3PT Jump Shot,,
+0029900004,436,4,0,4,1:36 PM,9:56,Lenard REBOUND (Off:1 Def:6),,,,
+0029900004,437,5,7,4,1:37 PM,9:50,Lenard Discontinue Dribble Turnover (P1.T10),,,,
+0029900004,438,9,4,4,1:37 PM,9:50,,,,,
+0029900004,440,8,0,4,1:39 PM,9:50,,,SUB: Hill FOR Williams,,
+0029900004,441,8,0,4,1:39 PM,9:50,,,SUB: Laettner FOR Curry,,
+0029900004,442,8,0,4,1:39 PM,9:50,SUB: Brown FOR Mourning,,,,
+0029900004,443,1,1,4,1:39 PM,9:41,,,Hill 15' Jump Shot (17 PTS),72 - 77,5
+0029900004,444,6,2,4,1:39 PM,9:41,Mashburn S.FOUL (P4.T2),,,,
+0029900004,445,3,10,4,1:39 PM,9:41,,,MISS Hill Free Throw 1 of 1,,
+0029900004,446,4,0,4,1:39 PM,9:39,,,Hill REBOUND (Off:2 Def:4),,
+0029900004,447,2,1,4,1:39 PM,9:38,,,MISS Hill 15' Jump Shot,,
+0029900004,448,4,0,4,1:39 PM,9:35,Brown REBOUND (Off:0 Def:4),,,,
+0029900004,449,6,1,4,1:40 PM,9:29,,,Hunter P.FOUL (P3.T2),,
+0029900004,450,2,1,4,1:40 PM,9:21,MISS Lenard 23' Jump Shot,,,,
+0029900004,451,4,0,4,1:40 PM,9:18,,,Mills REBOUND (Off:0 Def:4),,
+0029900004,452,2,6,4,1:40 PM,9:12,,,MISS Stackhouse  Driving Layup,,
+0029900004,453,4,0,4,1:40 PM,9:10,Mashburn REBOUND (Off:0 Def:3),,,,
+0029900004,454,6,1,4,1:40 PM,9:09,,,Stackhouse P.FOUL (P3.T3),,
+0029900004,455,2,1,4,1:41 PM,8:55,MISS Weatherspoon 16' Jump Shot,,,,
+0029900004,456,4,0,4,1:41 PM,8:53,,,Laettner REBOUND (Off:3 Def:6),,
+0029900004,457,5,1,4,1:41 PM,8:46,,,Mills Bad Pass Turnover (P1.T12),,
+0029900004,458,6,1,4,1:42 PM,8:26,,,Hill P.FOUL (P2.T4),,
+0029900004,459,8,0,4,1:42 PM,8:26,SUB: Hardaway FOR Carter,,,,
+0029900004,466,8,0,4,1:42 PM,8:26,SUB: Majerle FOR Mashburn,,,,
+0029900004,460,2,1,4,1:42 PM,8:13,MISS Lenard 25' 3PT Jump Shot,,,,
+0029900004,461,4,0,4,1:42 PM,8:11,Weatherspoon REBOUND (Off:2 Def:6),,,,
+0029900004,462,2,1,4,1:42 PM,8:10,MISS Hardaway 25' 3PT Jump Shot,,,,
+0029900004,463,4,0,4,1:42 PM,8:07,Lenard REBOUND (Off:2 Def:6),,,,
+0029900004,464,1,1,4,1:43 PM,7:51,Majerle 24' 3PT Jump Shot (10 PTS) (Brown 1 AST),,,72 - 80,8
+0029900004,465,1,5,4,1:43 PM,7:38,,,Hill  Layup (19 PTS) (Laettner 3 AST),74 - 80,6
+0029900004,467,6,2,4,1:43 PM,7:23,,,Laettner S.FOUL (P3.PN),,
+0029900004,469,8,0,4,1:43 PM,7:23,,,SUB: Williams FOR Mills,,
+0029900004,470,8,0,4,1:43 PM,7:23,SUB: Mourning FOR Weatherspoon,,,,
+0029900004,471,3,11,4,1:44 PM,7:23,Brown Free Throw 1 of 2 (3 PTS),,,74 - 81,7
+0029900004,472,3,12,4,1:44 PM,7:23,Brown Free Throw 2 of 2 (4 PTS),,,74 - 82,8
+0029900004,474,6,2,4,1:44 PM,7:10,Lenard S.FOUL (P4.T3),,,,
+0029900004,475,3,11,4,1:44 PM,7:10,,,Stackhouse Free Throw 1 of 2 (20 PTS),75 - 82,7
+0029900004,476,3,12,4,1:44 PM,7:10,,,Stackhouse Free Throw 2 of 2 (21 PTS),76 - 82,6
+0029900004,477,2,6,4,1:45 PM,6:55,MISS Majerle  Driving Layup,,,,
+0029900004,478,4,0,4,1:45 PM,6:54,,,Pistons Rebound,,
+0029900004,479,9,1,4,1:45 PM,6:54,HEAT Timeout: Regular (Full 5 Short 1),,,,
+0029900004,480,5,1,4,1:47 PM,6:39,,,Hunter Bad Pass Turnover (P2.T13),,
+0029900004,481,6,4,4,1:48 PM,6:24,Mourning OFF.Foul (P4),,,,
+0029900004,482,5,5,4,1:48 PM,6:24,Mourning Foul Turnover (P3.T11),,,,
+0029900004,483,1,1,4,1:48 PM,6:13,,,Laettner 12' Jump Shot (4 PTS),78 - 82,4
+0029900004,484,1,1,4,1:48 PM,5:53,Brown 19' Jump Shot (6 PTS) (Mourning 2 AST),,,78 - 84,6
+0029900004,485,2,1,4,1:49 PM,5:40,,,MISS Hill 16' Jump Shot,,
+0029900004,486,4,0,4,1:49 PM,5:37,Lenard REBOUND (Off:2 Def:7),,,,
+0029900004,487,2,1,4,1:49 PM,5:28,MISS Hardaway 25' 3PT Jump Shot,,,,
+0029900004,488,4,0,4,1:49 PM,5:25,,,Hill REBOUND (Off:2 Def:5),,
+0029900004,489,6,2,4,1:49 PM,5:23,Mourning S.FOUL (P5.T4),,,,
+0029900004,490,3,11,4,1:49 PM,5:23,,,Laettner Free Throw 1 of 2 (5 PTS),79 - 84,5
+0029900004,491,3,12,4,1:49 PM,5:23,,,Laettner Free Throw 2 of 2 (6 PTS),80 - 84,4
+0029900004,492,2,1,4,1:50 PM,4:58,MISS Hardaway 20' Jump Shot,,,,
+0029900004,493,4,0,4,1:50 PM,4:56,,,Hill REBOUND (Off:2 Def:6),,
+0029900004,494,6,4,4,1:50 PM,4:51,,,Hill OFF.Foul (P3),,
+0029900004,495,5,5,4,1:50 PM,4:51,,,Hill Foul Turnover (P2.T14),,
+0029900004,496,6,1,4,1:51 PM,4:43,,,Laettner P.FOUL (P4.PN),,
+0029900004,497,3,11,4,1:51 PM,4:43,Mourning Free Throw 1 of 2 (13 PTS),,,80 - 85,5
+0029900004,498,3,12,4,1:51 PM,4:43,Mourning Free Throw 2 of 2 (14 PTS),,,80 - 86,6
+0029900004,499,6,1,4,1:52 PM,4:34,Lenard P.FOUL (P5.PN),,,,
+0029900004,500,3,11,4,1:52 PM,4:34,,,Stackhouse Free Throw 1 of 2 (22 PTS),81 - 86,5
+0029900004,501,3,12,4,1:52 PM,4:34,,,Stackhouse Free Throw 2 of 2 (23 PTS),82 - 86,4
+0029900004,502,1,1,4,1:52 PM,4:16,Brown 10' Jump Shot (8 PTS) (Lenard 3 AST),,,82 - 88,6
+0029900004,503,2,1,4,1:53 PM,4:01,,,MISS Hill  3PT Jump Shot,,
+0029900004,504,4,0,4,1:53 PM,3:58,Hardaway REBOUND (Off:0 Def:3),,,,
+0029900004,505,6,1,4,1:53 PM,3:58,,,Hunter P.FOUL (P4.PN),,
+0029900004,506,8,0,4,1:53 PM,3:58,SUB: Mashburn FOR Lenard,,,,
+0029900004,507,3,11,4,1:53 PM,3:58,Hardaway Free Throw 1 of 2 (18 PTS),,,82 - 89,7
+0029900004,508,3,12,4,1:53 PM,3:58,Hardaway Free Throw 2 of 2 (19 PTS),,,82 - 90,8
+0029900004,509,9,1,4,1:54 PM,3:58,,,Pistons Timeout: Regular (Reg.4 Short 1),,
+0029900004,511,2,1,4,1:56 PM,3:42,,,MISS Stackhouse 21' Jump Shot,,
+0029900004,512,4,0,4,1:56 PM,3:40,Mourning REBOUND (Off:7 Def:6),,,,
+0029900004,514,6,4,4,1:57 PM,3:21,Mourning OFF.Foul (P6),,,,
+0029900004,515,5,5,4,1:57 PM,3:21,Mourning Foul Turnover (P4.T12),,,,
+0029900004,516,8,0,4,1:57 PM,3:21,SUB: Lenard FOR Mourning,,,,
+0029900004,519,8,0,4,1:58 PM,3:10,,,SUB: Curry FOR Williams,,
+0029900004,520,6,10,4,1:59 PM,3:10,,,,,
+0029900004,522,10,0,4,1:59 PM,3:10,Jump Ball Brown vs. Laettner: Tip to Hill,,,,
+0029900004,524,1,5,4,1:59 PM,3:06,,,Hunter  Layup (19 PTS) (Hill 4 AST),84 - 90,6
+0029900004,525,6,1,4,2:00 PM,2:51,,,Hill P.FOUL (P5.PN),,
+0029900004,526,3,11,4,2:00 PM,2:51,Hardaway Free Throw 1 of 2 (20 PTS),,,84 - 91,7
+0029900004,527,3,12,4,2:00 PM,2:51,MISS Hardaway Free Throw 2 of 2,,,,
+0029900004,528,4,0,4,2:01 PM,2:51,,,Laettner REBOUND (Off:3 Def:7),,
+0029900004,529,2,1,4,2:01 PM,2:41,,,MISS Hill 20' Jump Shot,,
+0029900004,530,4,0,4,2:01 PM,2:39,,,Hunter REBOUND (Off:1 Def:1),,
+0029900004,531,1,2,4,2:01 PM,2:29,,,Hill 8' Running Jump Shot (21 PTS),86 - 91,5
+0029900004,533,2,1,4,2:01 PM,2:11,MISS Hardaway 21' Jump Shot,,,,
+0029900004,534,4,0,4,2:01 PM,2:09,,,Curry REBOUND (Off:0 Def:2),,
+0029900004,536,1,1,4,2:01 PM,2:01,,,Hill 11' Jump Shot (23 PTS),88 - 91,3
+0029900004,537,9,1,4,2:01 PM,2:00,HEAT Timeout: Regular (Full 6 Short 1),,,,
+0029900004,539,2,1,4,2:04 PM,1:38,MISS Brown 15' Jump Shot,,,,
+0029900004,540,4,0,4,2:04 PM,1:35,,,Stackhouse REBOUND (Off:1 Def:4),,
+0029900004,541,1,5,4,2:04 PM,1:32,,,Laettner  Layup (8 PTS) (Stackhouse 1 AST),90 - 91,1
+0029900004,542,1,1,4,2:05 PM,1:10,Hardaway 25' 3PT Jump Shot (23 PTS) (Majerle 5 AST),,,90 - 94,4
+0029900004,543,10,0,4,2:05 PM,0:54,Jump Ball Brown vs. Laettner: Tip to Curry,,,,
+0029900004,544,6,2,4,2:06 PM,0:52,Mashburn S.FOUL (P5.PN),,,,
+0029900004,545,3,11,4,2:06 PM,0:52,,,Curry Free Throw 1 of 2 (3 PTS),91 - 94,3
+0029900004,546,8,0,4,2:06 PM,0:52,,,SUB: Williams FOR Laettner,,
+0029900004,547,3,12,4,2:06 PM,0:52,,,Curry Free Throw 2 of 2 (4 PTS),92 - 94,2
+0029900004,548,6,2,4,2:07 PM,0:46,,,Curry S.FOUL (P3.PN),,
+0029900004,549,3,11,4,2:07 PM,0:46,MISS Brown Free Throw 1 of 2,,,,
+0029900004,550,4,1,4,2:07 PM,0:46,HEAT Rebound,,,,
+0029900004,552,8,0,4,2:07 PM,0:46,,,SUB: Laettner FOR Hunter,,
+0029900004,553,3,12,4,2:07 PM,0:46,Brown Free Throw 2 of 2 (9 PTS),,,92 - 95,3
+0029900004,554,9,1,4,2:08 PM,0:46,,,Pistons Timeout: Regular (Reg.5 Short 1),,
+0029900004,556,8,0,4,2:10 PM,0:46,,,SUB: Hunter FOR Williams,,
+0029900004,557,1,5,4,2:10 PM,0:38,,,Laettner  Layup (10 PTS) (Hill 5 AST),94 - 95,1
+0029900004,558,6,2,4,2:10 PM,0:38,Mashburn S.FOUL (P6.PN),,,,
+0029900004,560,8,0,4,2:11 PM,0:38,SUB: Weatherspoon FOR Mashburn,,,,
+0029900004,561,3,10,4,2:11 PM,0:38,,,Laettner Free Throw 1 of 1 (11 PTS),95 - 95,TIE
+0029900004,562,6,1,4,2:11 PM,0:29,,,Hunter P.FOUL (P5.PN),,
+0029900004,563,3,11,4,2:11 PM,0:29,Hardaway Free Throw 1 of 2 (24 PTS),,,95 - 96,1
+0029900004,564,8,0,4,2:12 PM,0:29,,,SUB: Williams FOR Hunter,,
+0029900004,565,3,12,4,2:12 PM,0:29,Hardaway Free Throw 2 of 2 (25 PTS),,,95 - 97,2
+0029900004,566,9,1,4,2:12 PM,0:29,,,Pistons Timeout: Regular (Reg.6 Short 1),,
+0029900004,567,8,0,4,2:14 PM,0:29,,,SUB: Hunter FOR Williams,,
+0029900004,568,5,1,4,2:14 PM,0:18,Brown STEAL (1 STL),,Stackhouse Bad Pass Turnover (P5.T15),,
+0029900004,569,6,1,4,2:15 PM,0:15,,,Curry P.FOUL (P4.PN),,
+0029900004,570,3,11,4,2:15 PM,0:15,Lenard Free Throw 1 of 2 (7 PTS),,,95 - 98,3
+0029900004,571,8,0,4,2:15 PM,0:15,,,SUB: Williams FOR Hunter,,
+0029900004,572,3,12,4,2:15 PM,0:15,Lenard Free Throw 2 of 2 (8 PTS),,,95 - 99,4
+0029900004,573,9,2,4,2:15 PM,0:15,,,Pistons Timeout: Short (Reg.6 Short 2),,
+0029900004,575,8,0,4,2:16 PM,0:15,,,SUB: Hunter FOR Williams,,
+0029900004,576,1,1,4,2:17 PM,0:05,,,Laettner 13' Jump Shot (13 PTS),97 - 99,2
+0029900004,577,6,1,4,2:17 PM,0:04,,,Stackhouse P.FOUL (P4.PN),,
+0029900004,578,3,11,4,2:17 PM,0:04,MISS Lenard Free Throw 1 of 2,,,,
+0029900004,579,4,1,4,2:17 PM,0:04,HEAT Rebound,,,,
+0029900004,580,8,0,4,2:17 PM,0:04,,,SUB: Williams FOR Hunter,,
+0029900004,581,3,12,4,2:17 PM,0:04,Lenard Free Throw 2 of 2 (9 PTS),,,97 - 100,3
+0029900004,582,9,1,4,2:18 PM,0:04,,,Pistons Timeout: Regular (Reg.7 Short 2),,
+0029900004,584,8,0,4,2:20 PM,0:04,,,SUB: Mills FOR Laettner,,
+0029900004,585,8,0,4,2:20 PM,0:04,,,SUB: Hunter FOR Williams,,
+0029900004,586,8,0,4,2:20 PM,0:04,,,SUB: Buechler FOR Curry,,
+0029900004,587,1,1,4,2:20 PM,0:00,,,Stackhouse 25' 3PT Jump Shot (26 PTS),100 - 100,TIE
+0029900004,588,9,1,4,2:20 PM,0:00,HEAT Timeout: Regular (Full 7 Short 1),,,,
+0029900004,589,8,0,4,2:22 PM,0:00,,,SUB: Montross FOR Hill,,
+0029900004,591,8,0,4,2:22 PM,0:00,,,SUB: Williams FOR Mills,,
+0029900004,592,7,1,4,2:23 PM,0:00,,,Pistons Violation: Delay of game Violation,,
+0029900004,593,13,0,4,2:23 PM,0:00,,,,100 - 100,TIE
+0029900004,596,12,0,5,2:25 PM,5:00,,,,100 - 100,TIE
+0029900004,597,10,0,5,2:25 PM,5:00,Jump Ball Brown vs. Stackhouse: Tip to Hunter,,,,
+0029900004,598,2,1,5,2:26 PM,4:45,,,MISS Hunter 24' 3PT Jump Shot,,
+0029900004,599,4,0,5,2:26 PM,4:42,,,Stackhouse REBOUND (Off:2 Def:4),,
+0029900004,600,6,1,5,2:26 PM,4:33,Hardaway P.FOUL (P2.T1),,,,
+0029900004,601,2,1,5,2:27 PM,4:22,,,MISS Stackhouse 21' Jump Shot,,
+0029900004,602,4,0,5,2:27 PM,4:19,Weatherspoon REBOUND (Off:2 Def:7),,,,
+0029900004,603,1,1,5,2:27 PM,3:58,Majerle 24' 3PT Jump Shot (13 PTS) (Brown 2 AST),,,100 - 103,3
+0029900004,604,2,6,5,2:27 PM,3:35,,,MISS Hill  Driving Layup,,
+0029900004,605,4,0,5,2:27 PM,3:33,Hardaway REBOUND (Off:0 Def:4),,,,
+0029900004,606,1,1,5,2:27 PM,3:27,Lenard 22' Jump Shot (11 PTS) (Hardaway 5 AST),,,100 - 105,5
+0029900004,607,9,1,5,2:28 PM,3:25,,,Pistons Timeout: Regular (Reg.8 Short 2),,
+0029900004,609,1,1,5,2:30 PM,3:13,,,Hill 16' Jump Shot (25 PTS) (Hunter 2 AST),102 - 105,3
+0029900004,610,7,6,5,2:30 PM,2:56,,,Williams Violation:Double Lane,,
+0029900004,611,2,1,5,2:30 PM,2:49,MISS Lenard 26' 3PT Jump Shot,,Stackhouse BLOCK (1 BLK),,
+0029900004,612,4,0,5,2:30 PM,2:47,,,Laettner REBOUND (Off:3 Def:8),,
+0029900004,613,1,1,5,2:30 PM,2:42,,,Hill 19' Jump Shot (27 PTS),104 - 105,1
+0029900004,614,2,5,5,2:31 PM,2:19,MISS Weatherspoon  Layup,,Williams BLOCK (1 BLK),,
+0029900004,615,4,0,5,2:31 PM,2:16,Weatherspoon REBOUND (Off:3 Def:7),,,,
+0029900004,616,1,5,5,2:31 PM,2:15,Weatherspoon  Layup (9 PTS),,,104 - 107,3
+0029900004,617,1,6,5,2:31 PM,2:07,,,Hill  Driving Layup (29 PTS),106 - 107,1
+0029900004,618,2,1,5,2:31 PM,1:42,MISS Weatherspoon 16' Jump Shot,,,,
+0029900004,619,4,0,5,2:32 PM,1:40,,,Stackhouse REBOUND (Off:2 Def:5),,
+0029900004,620,6,1,5,2:32 PM,1:36,Majerle P.FOUL (P6.T2),,,,
+0029900004,621,8,0,5,2:32 PM,1:36,SUB: Strickland FOR Majerle,,,,
+0029900004,622,9,1,5,2:33 PM,1:36,,,Pistons Timeout: Regular (Reg.9 Short 2),,
+0029900004,624,1,1,5,2:35 PM,1:25,,,Hill 20' Jump Shot (31 PTS),108 - 107,-1
+0029900004,625,1,2,5,2:35 PM,1:12,Hardaway 9' Running Jump Shot (27 PTS),,,108 - 109,1
+0029900004,626,6,1,5,2:35 PM,1:06,Brown P.FOUL (P5.PN),,,,
+0029900004,627,3,11,5,2:36 PM,1:06,,,Hill Free Throw 1 of 2 (32 PTS),109 - 109,TIE
+0029900004,628,3,12,5,2:36 PM,1:06,,,MISS Hill Free Throw 2 of 2,,
+0029900004,629,4,0,5,2:36 PM,1:06,Weatherspoon REBOUND (Off:3 Def:8),,,,
+0029900004,630,2,5,5,2:37 PM,0:46,MISS Weatherspoon  Layup,,,,
+0029900004,631,4,0,5,2:37 PM,0:44,Hardaway REBOUND (Off:1 Def:4),,,,
+0029900004,632,2,1,5,2:37 PM,0:42,MISS Hardaway 20' Jump Shot,,,,
+0029900004,633,4,0,5,2:37 PM,0:42,Weatherspoon REBOUND (Off:4 Def:8),,,,
+0029900004,634,5,11,5,2:37 PM,0:42,HEAT Turnover: Shot Clock (T#13),,,,
+0029900004,635,5,2,5,2:38 PM,0:32,Weatherspoon STEAL (1 STL),,Hill Lost Ball Turnover (P3.T16),,
+0029900004,636,2,6,5,2:38 PM,0:16,MISS Hardaway  Driving Layup,,,,
+0029900004,637,4,0,5,2:38 PM,0:12,Strickland REBOUND (Off:2 Def:4),,,,
+0029900004,638,6,1,5,2:38 PM,0:10,,,Hunter P.FOUL (P6.T1),,
+0029900004,639,9,1,5,2:39 PM,0:10,HEAT Timeout: Regular (Full 8 Short 1),,,,
+0029900004,640,8,0,5,2:40 PM,0:10,,,SUB: Reid FOR Hunter,,
+0029900004,641,8,0,5,2:41 PM,0:10,,,SUB: Curry FOR Laettner,,
+0029900004,642,8,0,5,2:41 PM,0:10,SUB: Walters FOR Strickland,,,,
+0029900004,643,2,1,5,2:41 PM,0:01,MISS Hardaway 25' 3PT Jump Shot,,,,
+0029900004,644,4,0,5,2:41 PM,0:00,,,Reid REBOUND (Off:0 Def:2),,
+0029900004,645,13,0,5,2:41 PM,0:00,,,,109 - 109,TIE
+0029900004,647,12,0,6,2:43 PM,5:00,,,,109 - 109,TIE
+0029900004,648,10,0,6,2:43 PM,5:00,Jump Ball Weatherspoon vs. Stackhouse: Tip to Hill,,,,
+0029900004,649,5,4,6,2:44 PM,4:43,,,Laettner Traveling Turnover (P1.T17),,
+0029900004,650,2,1,6,2:44 PM,4:29,MISS Brown 18' Jump Shot,,,,
+0029900004,652,4,0,6,2:44 PM,4:26,Strickland REBOUND (Off:3 Def:4),,,,
+0029900004,651,2,4,6,2:44 PM,4:26,MISS Strickland  Tip Shot,,,,
+0029900004,654,4,0,6,2:44 PM,4:23,Strickland REBOUND (Off:4 Def:4),,,,
+0029900004,653,1,5,6,2:44 PM,4:23,Strickland  Layup (3 PTS),,,109 - 111,2
+0029900004,655,5,1,6,2:45 PM,4:18,,,Hill Bad Pass Turnover (P4.T18),,
+0029900004,656,6,2,6,2:45 PM,4:08,,,Stackhouse S.FOUL (P5.T1),,
+0029900004,657,3,11,6,2:45 PM,4:08,MISS Lenard Free Throw 1 of 2,,,,
+0029900004,658,4,1,6,2:45 PM,4:08,HEAT Rebound,,,,
+0029900004,659,3,12,6,2:45 PM,4:08,Lenard Free Throw 2 of 2 (12 PTS),,,109 - 112,3
+0029900004,660,6,2,6,2:46 PM,3:57,Strickland S.FOUL (P2.T1),,,,
+0029900004,661,3,11,6,2:46 PM,3:57,,,Hill Free Throw 1 of 2 (33 PTS),110 - 112,2
+0029900004,663,8,0,6,2:46 PM,3:57,,,SUB: Buechler FOR Stackhouse,,
+0029900004,664,3,12,6,2:46 PM,3:57,,,Hill Free Throw 2 of 2 (34 PTS),111 - 112,1
+0029900004,665,1,1,6,2:47 PM,3:45,Weatherspoon 14' Jump Shot (11 PTS),,,111 - 114,3
+0029900004,666,1,2,6,2:47 PM,3:29,,,Hill 11' Running Jump Shot (36 PTS) (Curry 1 AST),113 - 114,1
+0029900004,667,2,1,6,2:48 PM,3:05,MISS Lenard 25' 3PT Jump Shot,,,,
+0029900004,668,4,0,6,2:48 PM,3:01,Brown REBOUND (Off:1 Def:4),,,,
+0029900004,669,6,2,6,2:48 PM,3:00,,,Williams S.FOUL (P3.T2),,
+0029900004,670,3,11,6,2:48 PM,3:00,Weatherspoon Free Throw 1 of 2 (12 PTS),,,113 - 115,2
+0029900004,671,3,12,6,2:48 PM,3:00,Weatherspoon Free Throw 2 of 2 (13 PTS),,,113 - 116,3
+0029900004,672,2,1,6,2:48 PM,2:54,,,MISS Laettner 25' 3PT Jump Shot,,
+0029900004,673,4,0,6,2:48 PM,2:50,Weatherspoon REBOUND (Off:4 Def:9),,,,
+0029900004,675,6,1,6,2:49 PM,2:40,,,Curry P.FOUL (P5.T3),,
+0029900004,676,9,1,6,2:49 PM,2:40,HEAT Timeout: Regular (Full 9 Short 1),,,,
+0029900004,677,8,0,6,2:51 PM,2:40,,,SUB: Brown FOR Hill,,
+0029900004,678,8,0,6,2:51 PM,2:40,,,SUB: Reid FOR Laettner,,
+0029900004,679,1,7,6,2:51 PM,2:28,Strickland  Dunk (5 PTS) (Lenard 4 AST),,,113 - 118,5
+0029900004,680,6,2,6,2:51 PM,2:28,,,Curry S.FOUL (P6.PN),,
+0029900004,681,8,0,6,2:52 PM,2:28,,,SUB: Hill FOR Curry,,
+0029900004,682,3,10,6,2:52 PM,2:28,Strickland Free Throw 1 of 1 (6 PTS),,,113 - 119,6
+0029900004,683,9,1,6,2:52 PM,2:28,,,Pistons Timeout: Regular (Reg.10 Short 2),,
+0029900004,684,8,0,6,2:54 PM,2:28,,,SUB: Stackhouse FOR Reid,,
+0029900004,685,8,0,6,2:54 PM,2:28,,,SUB: Laettner FOR Williams,,
+0029900004,686,2,6,6,2:54 PM,2:15,,,MISS Hill  Driving Layup,,
+0029900004,687,4,0,6,2:54 PM,2:13,,,Hill REBOUND (Off:3 Def:6),,
+0029900004,688,2,5,6,2:54 PM,2:12,Weatherspoon BLOCK (2 BLK),,MISS Hill  Layup,,
+0029900004,689,4,0,6,2:54 PM,2:10,,,Brown REBOUND (Off:1 Def:0),,
+0029900004,690,1,1,6,2:55 PM,1:59,,,Laettner 14' Jump Shot (15 PTS),115 - 119,4
+0029900004,691,1,6,6,2:55 PM,1:45,Hardaway  Driving Layup (29 PTS) (Brown 3 AST),,,115 - 121,6
+0029900004,692,6,2,6,2:55 PM,1:45,,,Brown S.FOUL (P2.PN),,
+0029900004,693,3,10,6,2:55 PM,1:45,Hardaway Free Throw 1 of 1 (30 PTS),,,115 - 122,7
+0029900004,694,2,1,6,2:56 PM,1:30,,,MISS Laettner 19' Jump Shot,,
+0029900004,695,4,0,6,2:56 PM,1:28,Weatherspoon REBOUND (Off:4 Def:10),,,,
+0029900004,696,2,5,6,2:56 PM,1:13,MISS Weatherspoon  Layup,,Laettner BLOCK (1 BLK),,
+0029900004,697,4,0,6,2:56 PM,1:11,Weatherspoon REBOUND (Off:5 Def:10),,,,
+0029900004,698,1,5,6,2:56 PM,1:10,Weatherspoon  Layup (15 PTS),,,115 - 124,9
+0029900004,699,2,1,6,2:56 PM,0:56,,,MISS Brown 24' 3PT Jump Shot,,
+0029900004,700,4,0,6,2:56 PM,0:54,Strickland REBOUND (Off:4 Def:5),,,,
+0029900004,701,5,3,6,2:56 PM,0:48,Hardaway Out Of Bounds Turnover (P2.T14),,,,
+0029900004,702,9,1,6,2:57 PM,0:48,,,Pistons Timeout: Regular (Reg.11 Short 2),,
+0029900004,703,8,0,6,2:58 PM,0:48,,,SUB: Mills FOR Laettner,,
+0029900004,704,5,2,6,2:59 PM,0:43,Brown STEAL (2 STL),,Stackhouse Lost Ball Turnover (P6.T19),,
+0029900004,705,6,1,6,2:59 PM,0:43,,,Brown P.FOUL (P3.PN),,
+0029900004,706,3,11,6,2:59 PM,0:43,Hardaway Free Throw 1 of 2 (31 PTS),,,115 - 125,10
+0029900004,707,3,12,6,2:59 PM,0:43,Hardaway Free Throw 2 of 2 (32 PTS),,,115 - 126,11
+0029900004,708,6,1,6,3:00 PM,0:39,Strickland P.FOUL (P3.T2),,,,
+0029900004,709,1,1,6,3:00 PM,0:33,,,Hill 25' 3PT Jump Shot (39 PTS),118 - 126,8
+0029900004,710,6,1,6,3:00 PM,0:31,,,Stackhouse P.FOUL (P6.PN),,
+0029900004,711,8,0,6,3:01 PM,0:31,,,SUB: Williams FOR Stackhouse,,
+0029900004,712,3,11,6,3:01 PM,0:31,Lenard Free Throw 1 of 2 (13 PTS),,,118 - 127,9
+0029900004,713,3,12,6,3:01 PM,0:31,Lenard Free Throw 2 of 2 (14 PTS),,,118 - 128,10
+0029900004,714,9,1,6,3:01 PM,0:31,,,Pistons Timeout: Regular (Reg.12 Short 2),,
+0029900004,715,6,2,6,3:03 PM,0:26,Weatherspoon S.FOUL (P5.PN),,,,
+0029900004,716,3,11,6,3:04 PM,0:26,,,Brown Free Throw 1 of 2 (1 PTS),119 - 128,9
+0029900004,717,3,12,6,3:04 PM,0:26,,,Brown Free Throw 2 of 2 (2 PTS),120 - 128,8
+0029900004,718,5,1,6,3:04 PM,0:11,Brown Bad Pass Turnover (P3.T15),,Mills STEAL (1 STL),,
+0029900004,719,1,7,6,3:04 PM,0:08,,,Hill  Dunk (41 PTS) (Brown 1 AST),122 - 128,6
+0029900004,720,13,0,6,3:04 PM,0:00,,,,122 - 128,6

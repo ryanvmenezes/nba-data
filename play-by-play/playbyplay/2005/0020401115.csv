@@ -1,0 +1,472 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020401115,0,12,0,1,10:20 PM,12:00,,,,,
+0020401115,1,10,0,1,10:21 PM,12:00,Jump Ball Przybilla vs. Foyle: Tip to Telfair,,,,
+0020401115,2,6,2,1,10:21 PM,11:36,,,Davis S.FOUL (P1.T1),,
+0020401115,3,3,11,1,10:22 PM,11:36,Telfair Free Throw 1 of 2 (1 PTS),,,0 - 1,1
+0020401115,4,3,12,1,10:22 PM,11:36,Telfair Free Throw 2 of 2 (2 PTS),,,0 - 2,2
+0020401115,5,2,3,1,10:23 PM,11:22,,,MISS Foyle 3' Hook Shot,,
+0020401115,6,4,0,1,10:23 PM,11:21,Przybilla REBOUND (Off:0 Def:1),,,,
+0020401115,7,5,8,1,10:23 PM,11:12,Abdur-Rahim 3 Second Violation Turnover (P1.T1),,,,
+0020401115,8,2,1,1,10:23 PM,11:00,Przybilla BLOCK (1 BLK),,MISS Dunleavy 5' Jump Shot,,
+0020401115,9,4,0,1,10:23 PM,10:57,Telfair REBOUND (Off:0 Def:1),,,,
+0020401115,10,1,7,1,10:23 PM,10:55,Patterson  Dunk (2 PTS) (Stoudamire 1 AST),,,0 - 4,4
+0020401115,11,6,17,1,10:24 PM,10:40,TRAIL BLAZERS T.Foul (Def. 3 Sec Przybilla ),,,,
+0020401115,12,3,16,1,10:24 PM,10:40,,,Davis Free Throw Technical (1 PTS),1 - 4,3
+0020401115,13,6,2,1,10:24 PM,10:29,Telfair S.FOUL (P1.T1),,,,
+0020401115,14,3,13,1,10:24 PM,10:29,,,Davis Free Throw 1 of 3 (2 PTS),2 - 4,2
+0020401115,15,3,14,1,10:24 PM,10:29,,,Davis Free Throw 2 of 3 (3 PTS),3 - 4,1
+0020401115,16,3,15,1,10:25 PM,10:29,,,Davis Free Throw 3 of 3 (4 PTS),4 - 4,TIE
+0020401115,17,2,1,1,10:25 PM,10:18,MISS Stoudamire 21' Jump Shot,,,,
+0020401115,18,4,0,1,10:25 PM,10:16,Przybilla REBOUND (Off:1 Def:1),,,,
+0020401115,19,1,1,1,10:25 PM,10:12,Patterson 16' Jump Shot (4 PTS) (Telfair 1 AST),,,4 - 6,2
+0020401115,20,2,5,1,10:25 PM,10:02,Przybilla BLOCK (2 BLK),,MISS Richardson  Layup,,
+0020401115,21,4,0,1,10:25 PM,10:01,Przybilla REBOUND (Off:1 Def:2),,,,
+0020401115,22,5,1,1,10:25 PM,9:57,Telfair Bad Pass Turnover (P1.T2),,Davis STEAL (1 STL),,
+0020401115,23,1,7,1,10:25 PM,9:51,,,Murphy  Dunk (2 PTS) (Davis 1 AST),6 - 6,TIE
+0020401115,24,1,1,1,10:26 PM,9:35,Abdur-Rahim 20' Jump Shot (2 PTS) (Patterson 1 AST),,,6 - 8,2
+0020401115,25,5,1,1,10:26 PM,9:19,,,Davis Bad Pass Turnover (P1.T1),,
+0020401115,26,1,1,1,10:26 PM,9:06,Abdur-Rahim 18' Jump Shot (4 PTS) (Patterson 2 AST),,,6 - 10,4
+0020401115,27,6,2,1,10:27 PM,8:51,Abdur-Rahim S.FOUL (P1.T2),,,,
+0020401115,28,3,11,1,10:27 PM,8:51,,,MISS Richardson Free Throw 1 of 2,,
+0020401115,29,4,1,1,10:27 PM,8:51,,,Warriors Rebound,,
+0020401115,30,3,12,1,10:27 PM,8:51,,,MISS Richardson Free Throw 2 of 2,,
+0020401115,31,4,0,1,10:27 PM,8:51,,,Foyle REBOUND (Off:1 Def:0),,
+0020401115,32,1,1,1,10:27 PM,8:45,,,Richardson 24' 3PT Jump Shot (3 PTS) (Davis 2 AST),9 - 10,1
+0020401115,33,2,3,1,10:28 PM,8:27,MISS Przybilla 6' Hook Shot,,,,
+0020401115,34,4,0,1,10:28 PM,8:25,,,Davis REBOUND (Off:0 Def:1),,
+0020401115,35,1,5,1,10:28 PM,8:20,,,Foyle  Layup (2 PTS) (Davis 3 AST),11 - 10,-1
+0020401115,36,5,1,1,10:28 PM,8:16,Patterson Bad Pass Turnover (P1.T3),,,,
+0020401115,37,6,2,1,10:28 PM,8:12,Przybilla S.FOUL (P1.T3),,,,
+0020401115,38,3,11,1,10:28 PM,8:12,,,Foyle Free Throw 1 of 2 (3 PTS),12 - 10,-2
+0020401115,39,3,12,1,10:28 PM,8:12,,,Foyle Free Throw 2 of 2 (4 PTS),13 - 10,-3
+0020401115,40,2,1,1,10:29 PM,7:52,MISS Stoudamire 20' Jump Shot,,,,
+0020401115,41,4,0,1,10:29 PM,7:50,Przybilla REBOUND (Off:2 Def:2),,,,
+0020401115,42,1,43,1,10:29 PM,7:45,Przybilla  Alley Oop Layup (2 PTS) (Telfair 2 AST),,,13 - 12,-1
+0020401115,43,6,2,1,10:29 PM,7:45,,,Richardson S.FOUL (P1.T2),,
+0020401115,45,5,17,1,10:29 PM,7:45,Patterson Lane Violation Turnover (P2.T4),,,,
+0020401115,46,1,47,1,10:30 PM,7:21,,,Richardson 16' Turnaround Jump Shot (5 PTS),15 - 12,-3
+0020401115,47,2,1,1,10:31 PM,7:07,MISS Telfair 18' Jump Shot,,,,
+0020401115,48,4,0,1,10:31 PM,7:06,,,Murphy REBOUND (Off:0 Def:1),,
+0020401115,49,1,1,1,10:31 PM,6:57,,,Murphy 25' 3PT Jump Shot (5 PTS) (Davis 4 AST),18 - 12,-6
+0020401115,50,2,1,1,10:31 PM,6:41,MISS Patterson 4' Jump Shot,,,,
+0020401115,51,4,0,1,10:31 PM,6:39,,,Murphy REBOUND (Off:0 Def:2),,
+0020401115,52,5,40,1,10:31 PM,6:35,,,Dunleavy Out of Bounds Lost Ball Turnover (P1.T2),,
+0020401115,53,6,2,1,10:32 PM,6:19,,,Foyle S.FOUL (P1.T3),,
+0020401115,54,3,11,1,10:32 PM,6:19,MISS Patterson Free Throw 1 of 2,,,,
+0020401115,55,4,1,1,10:32 PM,6:19,TRAIL BLAZERS Rebound,,,,
+0020401115,56,8,0,1,10:32 PM,6:19,SUB: Outlaw FOR Telfair,,,,
+0020401115,57,3,12,1,10:32 PM,6:19,Patterson Free Throw 2 of 2 (5 PTS),,,18 - 13,-5
+0020401115,58,2,1,1,10:33 PM,6:08,,,MISS Richardson 24' 3PT Jump Shot,,
+0020401115,59,4,0,1,10:33 PM,6:06,Stoudamire REBOUND (Off:0 Def:1),,,,
+0020401115,60,1,7,1,10:33 PM,6:01,Abdur-Rahim  Dunk (6 PTS) (Stoudamire 2 AST),,,18 - 15,-3
+0020401115,61,1,1,1,10:33 PM,5:50,,,Davis 24' 3PT Jump Shot (7 PTS),21 - 15,-6
+0020401115,62,2,1,1,10:33 PM,5:43,MISS Stoudamire 24' 3PT Jump Shot,,,,
+0020401115,63,4,0,1,10:33 PM,5:40,,,Dunleavy REBOUND (Off:0 Def:1),,
+0020401115,64,2,3,1,10:33 PM,5:31,,,MISS Murphy 8' Hook Shot,,
+0020401115,65,4,0,1,10:33 PM,5:28,,,Dunleavy REBOUND (Off:1 Def:1),,
+0020401115,66,2,5,1,10:33 PM,5:26,,,MISS Dunleavy  Layup,,
+0020401115,67,4,0,1,10:33 PM,5:24,Stoudamire REBOUND (Off:0 Def:2),,,,
+0020401115,68,2,5,1,10:33 PM,5:20,MISS Patterson  Layup,,,,
+0020401115,69,4,0,1,10:33 PM,5:19,Patterson REBOUND (Off:1 Def:0),,,,
+0020401115,70,1,5,1,10:33 PM,5:18,Patterson  Layup (7 PTS),,,21 - 17,-4
+0020401115,71,2,44,1,10:33 PM,5:08,,,MISS Richardson  Reverse Layup,,
+0020401115,72,4,0,1,10:34 PM,5:07,TRAIL BLAZERS Rebound,,,,
+0020401115,73,9,1,1,10:34 PM,5:07,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,
+0020401115,75,8,0,1,10:35 PM,5:07,SUB: Khryapa FOR Abdur-Rahim,,,,
+0020401115,76,2,5,1,10:36 PM,4:52,MISS Przybilla  Layup,,Foyle BLOCK (1 BLK),,
+0020401115,77,4,0,1,10:36 PM,4:51,Przybilla REBOUND (Off:3 Def:2),,,,
+0020401115,78,1,5,1,10:36 PM,4:50,Przybilla  Layup (4 PTS),,,21 - 19,-2
+0020401115,79,2,1,1,10:36 PM,4:33,,,MISS Murphy 24' 3PT Jump Shot,,
+0020401115,80,4,0,1,10:36 PM,4:31,Stoudamire REBOUND (Off:0 Def:3),,,,
+0020401115,81,2,5,1,10:37 PM,4:15,MISS Khryapa  Layup,,,,
+0020401115,82,4,0,1,10:37 PM,4:14,,,Foyle REBOUND (Off:1 Def:1),,
+0020401115,83,2,46,1,10:37 PM,4:07,Outlaw BLOCK (1 BLK),,MISS Davis 5' Running Jump Shot,,
+0020401115,84,4,0,1,10:37 PM,4:05,,,Dunleavy REBOUND (Off:2 Def:1),,
+0020401115,85,2,1,1,10:37 PM,3:56,,,MISS Murphy 14' Jump Shot,,
+0020401115,86,4,0,1,10:37 PM,3:54,,,Foyle REBOUND (Off:2 Def:1),,
+0020401115,87,1,1,1,10:37 PM,3:53,,,Dunleavy 24' 3PT Jump Shot (3 PTS) (Foyle 1 AST),24 - 19,-5
+0020401115,88,2,1,1,10:37 PM,3:34,MISS Khryapa 20' Jump Shot,,,,
+0020401115,89,4,0,1,10:37 PM,3:32,,,Foyle REBOUND (Off:2 Def:2),,
+0020401115,90,2,1,1,10:37 PM,3:27,Outlaw BLOCK (2 BLK),,MISS Murphy 4' Jump Shot,,
+0020401115,91,4,0,1,10:37 PM,3:24,Stoudamire REBOUND (Off:0 Def:4),,,,
+0020401115,92,2,42,1,10:38 PM,3:17,MISS Stoudamire  Driving Layup,,,,
+0020401115,93,4,0,1,10:38 PM,3:16,,,Richardson REBOUND (Off:0 Def:1),,
+0020401115,94,2,42,1,10:38 PM,3:07,,,MISS Dunleavy  Driving Layup,,
+0020401115,96,4,0,1,10:38 PM,3:04,,,Murphy REBOUND (Off:1 Def:2),,
+0020401115,95,1,5,1,10:38 PM,3:04,,,Murphy  Layup (7 PTS),26 - 19,-7
+0020401115,97,7,1,1,10:38 PM,3:02,,,Warriors Violation: Delay of game Violation,,
+0020401115,98,6,2,1,10:38 PM,2:46,,,Murphy S.FOUL (P1.T4),,
+0020401115,99,9,1,1,10:38 PM,2:46,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020401115,101,8,0,1,10:40 PM,2:46,,,SUB: Fisher FOR Dunleavy,,
+0020401115,102,3,11,1,10:40 PM,2:46,Outlaw Free Throw 1 of 2 (1 PTS),,,26 - 20,-6
+0020401115,103,3,12,1,10:41 PM,2:46,Outlaw Free Throw 2 of 2 (2 PTS),,,26 - 21,-5
+0020401115,104,1,8,1,10:41 PM,2:35,,,Foyle  Slam Dunk (6 PTS) (Davis 5 AST),28 - 21,-7
+0020401115,105,1,44,1,10:41 PM,2:20,Patterson  Reverse Layup (9 PTS),,,28 - 23,-5
+0020401115,106,1,5,1,10:42 PM,2:06,,,Murphy  Layup (9 PTS) (Foyle 2 AST),30 - 23,-7
+0020401115,107,5,1,1,10:42 PM,1:55,Przybilla Bad Pass Turnover (P1.T5),,Richardson STEAL (1 STL),,
+0020401115,108,2,49,1,10:42 PM,1:50,,,MISS Richardson  Driving Dunk,,
+0020401115,109,4,0,1,10:42 PM,1:48,Outlaw REBOUND (Off:0 Def:1),,,,
+0020401115,110,1,52,1,10:42 PM,1:43,Outlaw  Alley Oop Dunk (4 PTS) (Patterson 3 AST),,,30 - 25,-5
+0020401115,111,6,1,1,10:42 PM,1:16,Khryapa P.FOUL (P1.T4),,,,
+0020401115,112,8,0,1,10:43 PM,1:16,,,SUB: Biedrins FOR Foyle,,
+0020401115,114,7,2,1,10:43 PM,1:06,Przybilla Violation:Defensive Goaltending,,,,
+0020401115,113,1,1,1,10:43 PM,1:06,,,Biedrins 4' Jump Shot (2 PTS),32 - 25,-7
+0020401115,115,2,1,1,10:43 PM,0:54,MISS Stoudamire 24' 3PT Jump Shot,,,,
+0020401115,116,4,0,1,10:43 PM,0:52,,,Richardson REBOUND (Off:0 Def:2),,
+0020401115,117,5,2,1,10:43 PM,0:50,Stoudamire STEAL (1 STL),,Davis Lost Ball Turnover (P2.T3),,
+0020401115,118,6,2,1,10:44 PM,0:46,,,Biedrins S.FOUL (P1.PN),,
+0020401115,119,3,11,1,10:44 PM,0:46,Stoudamire Free Throw 1 of 2 (1 PTS),,,32 - 26,-6
+0020401115,120,8,0,1,10:44 PM,0:46,,,SUB: Pietrus FOR Davis,,
+0020401115,121,8,0,1,10:44 PM,0:46,,,SUB: Dunleavy FOR Murphy,,
+0020401115,122,3,12,1,10:44 PM,0:46,Stoudamire Free Throw 2 of 2 (2 PTS),,,32 - 27,-5
+0020401115,123,6,17,1,10:45 PM,0:35,TRAIL BLAZERS T.Foul (Def. 3 Sec Przybilla ),,,,
+0020401115,124,3,16,1,10:45 PM,0:35,,,Fisher Free Throw Technical (1 PTS),33 - 27,-6
+0020401115,125,2,1,1,10:45 PM,0:29,,,MISS Pietrus 20' Jump Shot,,
+0020401115,126,4,0,1,10:45 PM,0:27,Przybilla REBOUND (Off:3 Def:3),,,,
+0020401115,127,5,1,1,10:45 PM,0:21,Stoudamire Bad Pass Turnover (P1.T6),,Fisher STEAL (1 STL),,
+0020401115,128,5,2,1,10:46 PM,0:06,Patterson STEAL (1 STL),,Fisher Lost Ball Turnover (P1.T4),,
+0020401115,129,6,2,1,10:46 PM,0:03,,,Dunleavy S.FOUL (P1.PN),,
+0020401115,130,3,11,1,10:46 PM,0:03,Khryapa Free Throw 1 of 2 (1 PTS),,,33 - 28,-5
+0020401115,131,3,12,1,10:46 PM,0:03,MISS Khryapa Free Throw 2 of 2,,,,
+0020401115,132,4,0,1,10:47 PM,0:02,,,Biedrins REBOUND (Off:0 Def:1),,
+0020401115,133,2,1,1,10:47 PM,0:00,,,MISS Richardson 39' 3PT Jump Shot,,
+0020401115,134,4,0,1,10:47 PM,0:00,,,Warriors Rebound,,
+0020401115,135,13,0,1,10:47 PM,0:00,,,,33 - 28,-5
+0020401115,137,12,0,2,10:49 PM,12:00,,,,33 - 28,-5
+0020401115,138,2,1,2,10:50 PM,11:40,,,MISS Fisher 21' Jump Shot,,
+0020401115,140,4,0,2,10:50 PM,11:38,,,Pietrus REBOUND (Off:1 Def:0),,
+0020401115,139,1,4,2,10:50 PM,11:38,,,Pietrus  Tip Shot (2 PTS),35 - 28,-7
+0020401115,141,2,46,2,10:50 PM,11:24,MISS Outlaw 3' Running Jump Shot,,,,
+0020401115,142,4,0,2,10:50 PM,11:23,,,Biedrins REBOUND (Off:0 Def:2),,
+0020401115,143,1,1,2,10:50 PM,11:15,,,Dunleavy 15' Jump Shot (5 PTS),37 - 28,-9
+0020401115,144,5,1,2,10:50 PM,11:06,Khryapa Bad Pass Turnover (P1.T7),,Dunleavy STEAL (1 STL),,
+0020401115,145,1,49,2,10:51 PM,11:02,,,Pietrus  Driving Dunk (4 PTS) (Fisher 1 AST),39 - 28,-11
+0020401115,146,9,1,2,10:51 PM,10:52,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,
+0020401115,148,5,39,2,10:53 PM,10:51,Outlaw Step Out of Bounds Turnover (P1.T8),,,,
+0020401115,149,1,1,2,10:53 PM,10:39,,,Dunleavy 24' 3PT Jump Shot (8 PTS) (Biedrins 1 AST),42 - 28,-14
+0020401115,150,5,1,2,10:54 PM,10:19,Abdur-Rahim Bad Pass Turnover (P2.T9),,,,
+0020401115,151,1,1,2,10:54 PM,10:13,,,White  3PT Jump Shot (3 PTS) (Fisher 2 AST),45 - 28,-17
+0020401115,152,6,1,2,10:54 PM,9:55,,,White P.FOUL (P1.T1),,
+0020401115,153,6,11,2,10:54 PM,9:55,Abdur-Rahim T.FOUL (P1.T0),,,,
+0020401115,154,3,16,2,10:54 PM,9:55,,,Fisher Free Throw Technical (2 PTS),46 - 28,-18
+0020401115,155,8,0,2,10:55 PM,9:55,SUB: Frahm FOR Khryapa,,,,
+0020401115,156,6,2,2,10:55 PM,9:51,,,White S.FOUL (P2.T2),,
+0020401115,157,3,11,2,10:56 PM,9:51,Przybilla Free Throw 1 of 2 (5 PTS),,,46 - 29,-17
+0020401115,158,3,12,2,10:56 PM,9:51,Przybilla Free Throw 2 of 2 (6 PTS),,,46 - 30,-16
+0020401115,159,2,1,2,10:56 PM,9:45,,,MISS Dunleavy 24' 3PT Jump Shot,,
+0020401115,160,4,0,2,10:56 PM,9:43,Przybilla REBOUND (Off:3 Def:4),,,,
+0020401115,161,1,7,2,10:56 PM,9:30,Przybilla  Dunk (8 PTS) (Outlaw 1 AST),,,46 - 32,-14
+0020401115,162,2,1,2,10:57 PM,9:12,,,MISS Pietrus  3PT Jump Shot,,
+0020401115,163,4,0,2,10:57 PM,9:09,Przybilla REBOUND (Off:3 Def:5),,,,
+0020401115,164,5,2,2,10:57 PM,8:54,Telfair Lost Ball Turnover (P2.T10),,Fisher STEAL (2 STL),,
+0020401115,165,2,1,2,10:57 PM,8:46,,,MISS White 18' Jump Shot,,
+0020401115,166,4,0,2,10:57 PM,8:43,Przybilla REBOUND (Off:3 Def:6),,,,
+0020401115,167,2,5,2,10:58 PM,8:24,MISS Abdur-Rahim  Layup,,Pietrus BLOCK (1 BLK),,
+0020401115,168,4,0,2,10:58 PM,8:23,Outlaw REBOUND (Off:1 Def:1),,,,
+0020401115,169,1,61,2,10:58 PM,8:23,Outlaw  Driving Finger Roll (6 PTS),,,46 - 34,-12
+0020401115,170,6,2,2,10:58 PM,8:23,,,Biedrins S.FOUL (P2.T3),,
+0020401115,172,8,0,2,10:58 PM,8:23,,,SUB: Foyle FOR Biedrins,,
+0020401115,174,3,10,2,10:58 PM,8:23,MISS Outlaw Free Throw 1 of 1,,,,
+0020401115,175,4,0,2,10:59 PM,8:23,,,Foyle REBOUND (Off:2 Def:3),,
+0020401115,176,1,1,2,10:59 PM,8:11,,,Dunleavy 24' 3PT Jump Shot (11 PTS) (Fisher 3 AST),49 - 34,-15
+0020401115,177,5,1,2,10:59 PM,7:56,Frahm Bad Pass Turnover (P1.T11),,,,
+0020401115,178,8,0,2,10:59 PM,7:56,SUB: Patterson FOR Outlaw,,,,
+0020401115,179,6,1,2,10:59 PM,7:47,Przybilla P.FOUL (P2.T1),,,,
+0020401115,180,1,63,2,11:00 PM,7:38,,,Pietrus 20' Fadeaway Jumper (6 PTS) (White 1 AST),51 - 34,-17
+0020401115,181,2,1,2,11:01 PM,7:10,MISS Frahm 24' 3PT Jump Shot,,,,
+0020401115,182,4,0,2,11:01 PM,7:08,,,Fisher REBOUND (Off:0 Def:1),,
+0020401115,183,1,66,2,11:01 PM,6:57,,,Foyle 4' Jump Bank Shot (8 PTS) (White 2 AST),53 - 34,-19
+0020401115,184,2,1,2,11:01 PM,6:36,MISS Telfair 15' Jump Shot,,,,
+0020401115,185,4,0,2,11:01 PM,6:34,,,Foyle REBOUND (Off:2 Def:4),,
+0020401115,186,2,47,2,11:02 PM,6:24,,,MISS White 14' Turnaround Jump Shot,,
+0020401115,187,4,0,2,11:02 PM,6:23,Przybilla REBOUND (Off:3 Def:7),,,,
+0020401115,188,2,1,2,11:02 PM,6:10,MISS Patterson 15' Jump Shot,,,,
+0020401115,189,4,0,2,11:02 PM,6:09,Przybilla REBOUND (Off:4 Def:7),,,,
+0020401115,190,8,0,2,11:02 PM,6:09,SUB: Stoudamire FOR Telfair,,,,
+0020401115,191,1,1,2,11:02 PM,6:06,Frahm 24' 3PT Jump Shot (3 PTS) (Patterson 4 AST),,,53 - 37,-16
+0020401115,192,2,1,2,11:03 PM,5:50,,,MISS Pietrus 24' 3PT Jump Shot,,
+0020401115,193,4,0,2,11:03 PM,5:48,Frahm REBOUND (Off:0 Def:1),,,,
+0020401115,194,6,2,2,11:03 PM,5:33,,,Pietrus S.FOUL (P1.T4),,
+0020401115,195,9,4,2,11:03 PM,5:33,,,,,
+0020401115,197,8,0,2,11:05 PM,5:33,,,SUB: Richardson FOR Pietrus,,
+0020401115,198,8,0,2,11:05 PM,5:33,,,SUB: Davis FOR White,,
+0020401115,199,3,11,2,11:05 PM,5:33,Przybilla Free Throw 1 of 2 (9 PTS),,,53 - 38,-15
+0020401115,200,3,12,2,11:05 PM,5:33,Przybilla Free Throw 2 of 2 (10 PTS),,,53 - 39,-14
+0020401115,201,5,1,2,11:06 PM,5:19,Frahm STEAL (1 STL),,Fisher Bad Pass Turnover (P2.T5),,
+0020401115,202,6,1,2,11:06 PM,5:19,,,Fisher P.FOUL (P1.PN),,
+0020401115,203,3,11,2,11:06 PM,5:19,Frahm Free Throw 1 of 2 (4 PTS),,,53 - 40,-13
+0020401115,204,8,0,2,11:06 PM,5:19,,,SUB: Murphy FOR Dunleavy,,
+0020401115,205,3,12,2,11:07 PM,5:19,Frahm Free Throw 2 of 2 (5 PTS),,,53 - 41,-12
+0020401115,206,2,63,2,11:07 PM,5:01,,,MISS Davis 17' Fadeaway Jumper,,
+0020401115,207,4,0,2,11:07 PM,4:59,Przybilla REBOUND (Off:4 Def:8),,,,
+0020401115,208,1,7,2,11:07 PM,4:55,Abdur-Rahim  Dunk (8 PTS) (Patterson 5 AST),,,53 - 43,-10
+0020401115,209,1,49,2,11:07 PM,4:39,,,Richardson  Driving Dunk (7 PTS),55 - 43,-12
+0020401115,210,2,46,2,11:08 PM,4:07,MISS Stoudamire 13' Running Jump Shot,,,,
+0020401115,211,4,0,2,11:08 PM,4:05,,,Murphy REBOUND (Off:1 Def:3),,
+0020401115,212,5,1,2,11:08 PM,4:02,Stoudamire STEAL (2 STL),,Fisher Bad Pass Turnover (P3.T6),,
+0020401115,213,1,5,2,11:08 PM,3:57,Abdur-Rahim  Layup (10 PTS) (Stoudamire 3 AST),,,55 - 45,-10
+0020401115,214,6,2,2,11:08 PM,3:57,,,Davis S.FOUL (P2.PN),,
+0020401115,215,8,0,2,11:08 PM,3:57,,,SUB: Pietrus FOR Fisher,,
+0020401115,217,8,0,2,11:09 PM,3:57,SUB: Seung-Jin FOR Przybilla,,,,
+0020401115,218,3,10,2,11:09 PM,3:57,Abdur-Rahim Free Throw 1 of 1 (11 PTS),,,55 - 46,-9
+0020401115,219,1,1,2,11:09 PM,3:40,,,Richardson  3PT Jump Shot (10 PTS) (Pietrus 1 AST),58 - 46,-12
+0020401115,220,1,3,2,11:09 PM,3:26,Abdur-Rahim 4' Hook Shot (13 PTS),,,58 - 48,-10
+0020401115,221,6,2,2,11:10 PM,3:10,Seung-Jin S.FOUL (P1.T2),,,,
+0020401115,222,3,11,2,11:10 PM,3:10,,,MISS Murphy Free Throw 1 of 2,,
+0020401115,223,4,1,2,11:10 PM,3:10,,,Warriors Rebound,,
+0020401115,224,3,12,2,11:10 PM,3:10,,,MISS Murphy Free Throw 2 of 2,,
+0020401115,225,4,0,2,11:10 PM,3:09,Seung-Jin REBOUND (Off:0 Def:1),,,,
+0020401115,226,5,1,2,11:11 PM,3:01,Frahm Bad Pass Turnover (P2.T12),,Davis STEAL (2 STL),,
+0020401115,227,6,1,2,11:11 PM,3:00,Abdur-Rahim P.FOUL (P2.T3),,,,
+0020401115,228,2,42,2,11:11 PM,2:41,,,MISS Davis  Driving Layup,,
+0020401115,230,4,0,2,11:11 PM,2:39,,,Pietrus REBOUND (Off:2 Def:0),,
+0020401115,229,1,64,2,11:11 PM,2:39,,,Pietrus  Follow Up Dunk (8 PTS),60 - 48,-12
+0020401115,231,1,42,2,11:11 PM,2:35,Patterson  Driving Layup (11 PTS) (Stoudamire 4 AST),,,60 - 50,-10
+0020401115,232,5,1,2,11:12 PM,2:11,Abdur-Rahim STEAL (1 STL),,Foyle Bad Pass Turnover (P1.T7),,
+0020401115,233,1,5,2,11:12 PM,2:07,Patterson  Layup (13 PTS) (Abdur-Rahim 1 AST),,,60 - 52,-8
+0020401115,234,9,1,2,11:12 PM,1:55,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020401115,236,2,1,2,11:14 PM,1:42,,,MISS Murphy 22' Jump Shot,,
+0020401115,237,4,0,2,11:14 PM,1:39,,,Richardson REBOUND (Off:1 Def:2),,
+0020401115,238,1,52,2,11:14 PM,1:37,,,Pietrus  Alley Oop Dunk (10 PTS) (Richardson 1 AST),62 - 52,-10
+0020401115,239,5,1,2,11:15 PM,1:16,Abdur-Rahim Bad Pass Turnover (P3.T13),,,,
+0020401115,240,2,1,2,11:15 PM,1:11,,,MISS Davis 24' 3PT Jump Shot,,
+0020401115,241,4,0,2,11:15 PM,1:08,Abdur-Rahim REBOUND (Off:0 Def:1),,,,
+0020401115,242,2,1,2,11:15 PM,0:59,MISS Abdur-Rahim 22' Jump Shot,,,,
+0020401115,243,4,0,2,11:15 PM,0:57,Stoudamire REBOUND (Off:1 Def:4),,,,
+0020401115,244,2,46,2,11:15 PM,0:53,MISS Stoudamire 3' Running Jump Shot,,,,
+0020401115,245,4,0,2,11:16 PM,0:51,,,Murphy REBOUND (Off:1 Def:4),,
+0020401115,246,2,5,2,11:16 PM,0:46,Patterson BLOCK (1 BLK),,MISS Davis  Layup,,
+0020401115,247,4,0,2,11:16 PM,0:44,Frahm REBOUND (Off:0 Def:2),,,,
+0020401115,248,6,2,2,11:16 PM,0:41,,,Foyle S.FOUL (P2.PN),,
+0020401115,249,3,11,2,11:16 PM,0:41,Patterson Free Throw 1 of 2 (14 PTS),,,62 - 53,-9
+0020401115,250,3,12,2,11:16 PM,0:41,Patterson Free Throw 2 of 2 (15 PTS),,,62 - 54,-8
+0020401115,251,2,49,2,11:17 PM,0:30,,,MISS Richardson  Driving Dunk,,
+0020401115,252,4,0,2,11:17 PM,0:28,,,Foyle REBOUND (Off:3 Def:4),,
+0020401115,253,1,44,2,11:17 PM,0:27,,,Foyle  Reverse Layup (10 PTS),64 - 54,-10
+0020401115,254,2,1,2,11:17 PM,0:06,MISS Stoudamire 24' 3PT Jump Shot,,,,
+0020401115,255,4,0,2,11:17 PM,0:04,Patterson REBOUND (Off:2 Def:0),,,,
+0020401115,256,2,5,2,11:17 PM,0:02,MISS Patterson  Layup,,,,
+0020401115,257,4,0,2,11:17 PM,0:00,,,Murphy REBOUND (Off:1 Def:5),,
+0020401115,258,2,1,2,11:17 PM,0:00,,,MISS Davis 32' 3PT Jump Shot,,
+0020401115,259,4,0,2,11:17 PM,0:00,,,Warriors Rebound,,
+0020401115,260,13,0,2,11:17 PM,0:00,,,,64 - 54,-10
+0020401115,262,12,0,3,11:33 PM,12:00,,,,64 - 54,-10
+0020401115,263,1,1,3,11:34 PM,11:48,,,Davis 24' 3PT Jump Shot (10 PTS) (Richardson 2 AST),67 - 54,-13
+0020401115,264,1,1,3,11:34 PM,11:25,Telfair 20' Jump Shot (4 PTS) (Abdur-Rahim 2 AST),,,67 - 56,-11
+0020401115,265,2,1,3,11:34 PM,11:10,,,MISS Richardson 21' Jump Shot,,
+0020401115,266,4,0,3,11:34 PM,11:08,Abdur-Rahim REBOUND (Off:0 Def:2),,,,
+0020401115,267,1,5,3,11:35 PM,10:59,Przybilla  Layup (12 PTS) (Stoudamire 5 AST),,,67 - 58,-9
+0020401115,268,2,1,3,11:35 PM,10:37,,,MISS Foyle 16' Jump Shot,,
+0020401115,269,4,0,3,11:35 PM,10:34,,,Murphy REBOUND (Off:2 Def:5),,
+0020401115,270,1,1,3,11:35 PM,10:25,,,Murphy 17' Jump Shot (11 PTS) (Foyle 3 AST),69 - 58,-11
+0020401115,271,5,1,3,11:35 PM,10:15,Telfair Bad Pass Turnover (P3.T14),,Murphy STEAL (1 STL),,
+0020401115,272,2,42,3,11:36 PM,10:02,Przybilla BLOCK (3 BLK),,MISS Davis  Driving Layup,,
+0020401115,273,4,0,3,11:36 PM,10:00,Stoudamire REBOUND (Off:1 Def:5),,,,
+0020401115,274,1,7,3,11:36 PM,9:45,Przybilla  Dunk (14 PTS) (Abdur-Rahim 3 AST),,,69 - 60,-9
+0020401115,275,1,66,3,11:36 PM,9:22,,,Murphy 8' Jump Bank Shot (13 PTS),71 - 60,-11
+0020401115,276,1,7,3,11:37 PM,9:00,Przybilla  Dunk (16 PTS) (Abdur-Rahim 4 AST),,,71 - 62,-9
+0020401115,277,1,66,3,11:37 PM,8:43,,,Dunleavy 8' Jump Bank Shot (13 PTS) (Davis 6 AST),73 - 62,-11
+0020401115,278,1,42,3,11:37 PM,8:39,Stoudamire  Driving Layup (4 PTS),,,73 - 64,-9
+0020401115,279,6,2,3,11:37 PM,8:39,,,Murphy S.FOUL (P2.T1),,
+0020401115,280,3,10,3,11:37 PM,8:39,Stoudamire Free Throw 1 of 1 (5 PTS),,,73 - 65,-8
+0020401115,281,1,61,3,11:38 PM,8:30,,,Murphy  Driving Finger Roll (15 PTS) (Richardson 3 AST),75 - 65,-10
+0020401115,282,5,1,3,11:38 PM,8:20,Patterson Bad Pass Turnover (P3.T15),,Davis STEAL (3 STL),,
+0020401115,283,1,5,3,11:38 PM,8:14,,,Murphy  Layup (17 PTS) (Davis 7 AST),77 - 65,-12
+0020401115,284,6,2,3,11:39 PM,7:54,,,Davis S.FOUL (P3.T2),,
+0020401115,285,3,11,3,11:39 PM,7:54,Abdur-Rahim Free Throw 1 of 2 (14 PTS),,,77 - 66,-11
+0020401115,286,3,12,3,11:39 PM,7:54,Abdur-Rahim Free Throw 2 of 2 (15 PTS),,,77 - 67,-10
+0020401115,287,6,17,3,11:40 PM,7:39,TRAIL BLAZERS T.Foul (Def. 3 Sec Patterson ),,,,
+0020401115,288,3,16,3,11:40 PM,7:39,,,Davis Free Throw Technical (11 PTS),78 - 67,-11
+0020401115,289,1,5,3,11:40 PM,7:35,,,Dunleavy  Layup (15 PTS) (Davis 8 AST),80 - 67,-13
+0020401115,290,2,1,3,11:41 PM,7:19,MISS Telfair 20' Jump Shot,,,,
+0020401115,291,4,0,3,11:41 PM,7:17,,,Richardson REBOUND (Off:1 Def:3),,
+0020401115,292,2,66,3,11:41 PM,7:08,,,MISS Foyle 4' Jump Bank Shot,,
+0020401115,293,4,0,3,11:41 PM,7:07,Abdur-Rahim REBOUND (Off:0 Def:3),,,,
+0020401115,294,1,5,3,11:41 PM,7:02,Telfair  Layup (6 PTS) (Stoudamire 6 AST),,,80 - 69,-11
+0020401115,295,2,65,3,11:41 PM,6:46,,,MISS Richardson 7' Jump Hook Shot,,
+0020401115,296,4,0,3,11:41 PM,6:44,Patterson REBOUND (Off:2 Def:1),,,,
+0020401115,297,2,1,3,11:41 PM,6:39,MISS Stoudamire 11' Jump Shot,,,,
+0020401115,298,4,0,3,11:41 PM,6:39,,,Warriors Rebound,,
+0020401115,299,2,5,3,11:42 PM,6:31,,,MISS Dunleavy  Layup,,
+0020401115,301,4,0,3,11:42 PM,6:29,,,Foyle REBOUND (Off:4 Def:4),,
+0020401115,300,2,5,3,11:42 PM,6:29,,,MISS Foyle  Layup,,
+0020401115,302,4,0,3,11:42 PM,6:27,Stoudamire REBOUND (Off:1 Def:6),,,,
+0020401115,303,1,5,3,11:42 PM,6:16,Patterson  Layup (17 PTS),,,80 - 71,-9
+0020401115,304,1,1,3,11:42 PM,5:57,,,Davis 24' 3PT Jump Shot (14 PTS) (Richardson 4 AST),83 - 71,-12
+0020401115,305,1,5,3,11:42 PM,5:45,Abdur-Rahim  Layup (17 PTS) (Przybilla 1 AST),,,83 - 73,-10
+0020401115,306,5,1,3,11:43 PM,5:24,Przybilla STEAL (1 STL),,Davis Bad Pass Turnover (P3.T8),,
+0020401115,307,2,42,3,11:43 PM,5:19,MISS Stoudamire  Driving Layup,,,,
+0020401115,308,4,0,3,11:43 PM,5:17,Abdur-Rahim REBOUND (Off:1 Def:3),,,,
+0020401115,309,1,59,3,11:43 PM,5:16,Abdur-Rahim  Finger Roll (19 PTS),,,83 - 75,-8
+0020401115,310,9,1,3,11:43 PM,5:06,,,Warriors Timeout: Regular (Reg.3 Short 0),,
+0020401115,312,8,0,3,11:45 PM,5:06,SUB: Outlaw FOR Telfair,,,,
+0020401115,313,8,0,3,11:45 PM,5:06,,,SUB: Pietrus FOR Foyle,,
+0020401115,314,8,0,3,11:45 PM,5:06,,,SUB: Biedrins FOR Richardson,,
+0020401115,315,2,1,3,11:45 PM,4:55,,,MISS Pietrus 21' Jump Shot,,
+0020401115,316,4,0,3,11:45 PM,4:53,Abdur-Rahim REBOUND (Off:1 Def:4),,,,
+0020401115,317,5,1,3,11:45 PM,4:48,Stoudamire Bad Pass Turnover (P2.T16),,Pietrus STEAL (1 STL),,
+0020401115,318,2,1,3,11:46 PM,4:33,Przybilla BLOCK (4 BLK),,MISS Biedrins 6' Jump Shot,,
+0020401115,319,4,0,3,11:46 PM,4:31,Stoudamire REBOUND (Off:1 Def:7),,,,
+0020401115,320,2,5,3,11:46 PM,4:23,MISS Abdur-Rahim  Layup,,Murphy BLOCK (1 BLK),,
+0020401115,321,4,0,3,11:46 PM,4:22,,,Davis REBOUND (Off:0 Def:2),,
+0020401115,322,2,42,3,11:46 PM,4:09,,,MISS Davis  Driving Layup,,
+0020401115,323,4,0,3,11:46 PM,4:07,Stoudamire REBOUND (Off:1 Def:8),,,,
+0020401115,324,5,1,3,11:46 PM,4:01,Patterson Bad Pass Turnover (P4.T17),,,,
+0020401115,325,2,1,3,11:46 PM,3:57,,,MISS Davis 24' 3PT Jump Shot,,
+0020401115,326,4,0,3,11:46 PM,3:55,TRAIL BLAZERS Rebound,,,,
+0020401115,327,2,1,3,11:47 PM,3:31,MISS Patterson 24' 3PT Jump Shot,,,,
+0020401115,328,4,0,3,11:47 PM,3:30,,,Warriors Rebound,,
+0020401115,329,1,1,3,11:48 PM,3:08,,,Davis 24' 3PT Jump Shot (17 PTS) (Murphy 1 AST),86 - 75,-11
+0020401115,330,2,1,3,11:48 PM,2:51,MISS Stoudamire 24' 3PT Jump Shot,,,,
+0020401115,331,4,0,3,11:48 PM,2:49,,,Dunleavy REBOUND (Off:2 Def:2),,
+0020401115,332,2,5,3,11:48 PM,2:43,Patterson BLOCK (2 BLK),,MISS Biedrins  Layup,,
+0020401115,333,9,1,3,11:48 PM,2:43,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,,,
+0020401115,336,8,0,3,11:50 PM,2:43,,,SUB: Fisher FOR Davis,,
+0020401115,338,10,0,3,11:50 PM,2:43,Jump Ball Patterson vs. Biedrins: Tip to Outlaw,,,,
+0020401115,396,4,0,3,11:50 PM,2:43,TRAIL BLAZERS Rebound,,,,
+0020401115,340,2,1,3,11:51 PM,2:23,MISS Outlaw 8' Jump Shot,,,,
+0020401115,341,4,0,3,11:51 PM,2:21,,,Murphy REBOUND (Off:2 Def:6),,
+0020401115,342,1,1,3,11:51 PM,2:15,,,Fisher 23' Jump Shot (4 PTS),88 - 75,-13
+0020401115,343,2,44,3,11:52 PM,1:53,MISS Outlaw  Reverse Layup,,,,
+0020401115,344,4,0,3,11:52 PM,1:51,,,Pietrus REBOUND (Off:2 Def:1),,
+0020401115,345,2,1,3,11:52 PM,1:39,,,MISS Fisher 19' Jump Shot,,
+0020401115,346,4,0,3,11:52 PM,1:37,Outlaw REBOUND (Off:1 Def:2),,,,
+0020401115,347,1,1,3,11:52 PM,1:29,Stoudamire 22' Jump Shot (7 PTS),,,88 - 77,-11
+0020401115,348,2,1,3,11:52 PM,1:13,Abdur-Rahim BLOCK (1 BLK),,MISS Dunleavy 3' Jump Shot,,
+0020401115,349,4,0,3,11:52 PM,1:10,Stoudamire REBOUND (Off:1 Def:9),,,,
+0020401115,350,1,1,3,11:52 PM,0:58,Outlaw 22' Jump Shot (8 PTS) (Abdur-Rahim 5 AST),,,88 - 79,-9
+0020401115,351,5,2,3,11:53 PM,0:35,Stoudamire STEAL (3 STL),,Murphy Lost Ball Turnover (P1.T9),,
+0020401115,352,1,1,3,11:53 PM,0:30,Stoudamire 25' 3PT Jump Shot (10 PTS),,,88 - 82,-6
+0020401115,353,6,1,3,11:53 PM,0:08,Stoudamire P.FOUL (P1.T1),,,,
+0020401115,354,2,1,3,11:54 PM,0:03,,,MISS Pietrus 11' Jump Shot,,
+0020401115,355,4,0,3,11:54 PM,0:02,,,Dunleavy REBOUND (Off:3 Def:2),,
+0020401115,356,2,1,3,11:54 PM,0:00,,,MISS Dunleavy 17' Jump Shot,,
+0020401115,357,4,0,3,11:54 PM,0:00,Abdur-Rahim REBOUND (Off:1 Def:5),,,,
+0020401115,358,13,0,3,11:54 PM,0:00,,,,88 - 82,-6
+0020401115,364,12,0,4,11:57 PM,12:00,,,,88 - 82,-6
+0020401115,365,6,1,4,11:57 PM,11:47,,,Fisher P.FOUL (P2.T1),,
+0020401115,366,6,1,4,11:57 PM,11:41,,,Dunleavy P.FOUL (P2.T2),,
+0020401115,367,1,1,4,11:58 PM,11:26,Stoudamire 27' 3PT Jump Shot (13 PTS) (Patterson 6 AST),,,88 - 85,-3
+0020401115,368,2,63,4,11:58 PM,11:08,,,MISS Richardson 18' Fadeaway Jumper,,
+0020401115,370,4,0,4,11:58 PM,11:07,,,Dunleavy REBOUND (Off:4 Def:2),,
+0020401115,369,2,4,4,11:58 PM,11:07,,,MISS Dunleavy  Tip Shot,,
+0020401115,371,4,0,4,11:58 PM,11:05,Stoudamire REBOUND (Off:1 Def:10),,,,
+0020401115,372,5,40,4,11:59 PM,11:01,Stoudamire Out of Bounds Lost Ball Turnover (P3.T18),,,,
+0020401115,373,2,7,4,11:59 PM,10:48,,,MISS Pietrus  Dunk,,
+0020401115,374,4,0,4,11:59 PM,10:47,Przybilla REBOUND (Off:4 Def:9),,,,
+0020401115,375,6,1,4,11:59 PM,10:47,,,Biedrins P.FOUL (P3.T3),,
+0020401115,376,8,0,4,11:59 PM,10:47,,,SUB: Davis FOR Pietrus,,
+0020401115,377,2,1,4,11:59 PM,10:35,MISS Stoudamire 24' 3PT Jump Shot,,,,
+0020401115,378,4,0,4,12:00 PM,10:31,,,Dunleavy REBOUND (Off:4 Def:3),,
+0020401115,379,2,5,4,12:00 PM,10:14,Przybilla BLOCK (5 BLK),,MISS Davis  Layup,,
+0020401115,381,4,0,4,12:00 PM,10:12,,,Dunleavy REBOUND (Off:5 Def:3),,
+0020401115,380,1,64,4,12:00 PM,10:12,,,Dunleavy  Follow Up Dunk (17 PTS),90 - 85,-5
+0020401115,382,1,1,4,12:00 PM,9:52,Outlaw 22' Jump Shot (10 PTS) (Abdur-Rahim 6 AST),,,90 - 87,-3
+0020401115,383,6,1,4,12:01 PM,9:31,Przybilla P.FOUL (P3.T1),,,,
+0020401115,384,8,0,4,12:01 PM,9:31,SUB: Khryapa FOR Przybilla,,,,
+0020401115,385,2,1,4,12:01 PM,9:24,,,MISS Davis 25' 3PT Jump Shot,,
+0020401115,386,4,0,4,12:01 PM,9:22,,,Biedrins REBOUND (Off:1 Def:2),,
+0020401115,387,2,1,4,12:01 PM,9:19,,,MISS Dunleavy 24' 3PT Jump Shot,,
+0020401115,388,4,0,4,12:01 PM,9:18,Abdur-Rahim REBOUND (Off:1 Def:6),,,,
+0020401115,389,6,1,4,12:01 PM,9:18,,,Biedrins P.FOUL (P4.T4),,
+0020401115,390,2,1,4,12:02 PM,9:00,MISS Patterson 5' Jump Shot,,,,
+0020401115,391,4,0,4,12:02 PM,8:56,,,Dunleavy REBOUND (Off:5 Def:4),,
+0020401115,392,2,42,4,12:02 PM,8:51,Khryapa BLOCK (1 BLK),,MISS Davis  Driving Layup,,
+0020401115,393,9,4,4,12:02 PM,8:51,,,,,
+0020401115,397,10,0,4,12:04 PM,8:51,Jump Ball Khryapa vs. Davis: Tip to Stoudamire,,,,
+0020401115,398,4,0,4,12:04 PM,8:51,TRAIL BLAZERS Rebound,,,,
+0020401115,399,1,44,4,12:04 PM,8:45,Patterson  Reverse Layup (19 PTS) (Stoudamire 7 AST),,,90 - 89,-1
+0020401115,400,6,2,4,12:05 PM,8:28,Abdur-Rahim S.FOUL (P3.T2),,,,
+0020401115,401,3,11,4,12:05 PM,8:28,,,MISS Davis Free Throw 1 of 2,,
+0020401115,402,4,1,4,12:05 PM,8:28,,,Warriors Rebound,,
+0020401115,403,3,12,4,12:05 PM,8:28,,,Davis Free Throw 2 of 2 (18 PTS),91 - 89,-2
+0020401115,404,5,40,4,12:06 PM,8:17,Stoudamire Out of Bounds Lost Ball Turnover (P4.T19),,,,
+0020401115,405,2,1,4,12:06 PM,7:59,Outlaw BLOCK (3 BLK),,MISS Richardson 4' Jump Shot,,
+0020401115,406,4,0,4,12:06 PM,7:56,,,Davis REBOUND (Off:1 Def:2),,
+0020401115,407,2,1,4,12:06 PM,7:53,Patterson BLOCK (3 BLK),,MISS Davis 24' 3PT Jump Shot,,
+0020401115,408,4,0,4,12:06 PM,7:53,,,Warriors Rebound,,
+0020401115,409,5,11,4,12:06 PM,7:53,,,Warriors Turnover: Shot Clock (T#10),,
+0020401115,410,8,0,4,12:06 PM,7:53,,,SUB: Foyle FOR Biedrins,,
+0020401115,411,2,42,4,12:07 PM,7:38,MISS Abdur-Rahim  Driving Layup,,,,
+0020401115,412,4,0,4,12:07 PM,7:37,,,Davis REBOUND (Off:1 Def:3),,
+0020401115,414,5,40,4,12:07 PM,7:33,,,Davis Out of Bounds Lost Ball Turnover (P4.T11),,
+0020401115,415,8,0,4,12:07 PM,7:33,SUB: Przybilla FOR Khryapa,,,,
+0020401115,416,8,0,4,12:07 PM,7:33,,,SUB: Murphy FOR Dunleavy,,
+0020401115,417,1,1,4,12:08 PM,7:13,Abdur-Rahim 22' Jump Shot (21 PTS) (Stoudamire 8 AST),,,91 - 91,TIE
+0020401115,418,5,2,4,12:08 PM,6:56,Stoudamire STEAL (4 STL),,Fisher Lost Ball Turnover (P4.T12),,
+0020401115,419,8,0,4,12:08 PM,6:55,SUB: Telfair FOR Stoudamire,,,,
+0020401115,420,6,1,4,12:08 PM,6:42,,,Richardson P.FOUL (P2.PN),,
+0020401115,421,3,11,4,12:09 PM,6:42,MISS Patterson Free Throw 1 of 2,,,,
+0020401115,422,4,1,4,12:09 PM,6:42,TRAIL BLAZERS Rebound,,,,
+0020401115,423,3,12,4,12:09 PM,6:42,Patterson Free Throw 2 of 2 (20 PTS),,,91 - 92,1
+0020401115,424,2,1,4,12:09 PM,6:29,,,MISS Davis 24' 3PT Jump Shot,,
+0020401115,425,4,0,4,12:10 PM,6:27,Patterson REBOUND (Off:2 Def:2),,,,
+0020401115,426,2,1,4,12:10 PM,6:10,MISS Outlaw 17' Jump Shot,,,,
+0020401115,427,4,0,4,12:10 PM,6:08,,,Richardson REBOUND (Off:1 Def:4),,
+0020401115,428,1,5,4,12:10 PM,6:02,,,Murphy  Layup (19 PTS) (Davis 9 AST),93 - 92,-1
+0020401115,429,6,2,4,12:10 PM,6:02,Przybilla S.FOUL (P4.T3),,,,
+0020401115,430,3,10,4,12:10 PM,6:02,,,Murphy Free Throw 1 of 1 (20 PTS),94 - 92,-2
+0020401115,431,2,1,4,12:11 PM,5:44,MISS Abdur-Rahim 3' Jump Shot,,,,
+0020401115,432,4,0,4,12:11 PM,5:43,,,Davis REBOUND (Off:1 Def:4),,
+0020401115,433,1,49,4,12:11 PM,5:38,,,Richardson  Driving Dunk (12 PTS) (Davis 10 AST),96 - 92,-4
+0020401115,434,9,1,4,12:11 PM,5:36,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,,,
+0020401115,436,8,0,4,12:13 PM,5:36,,,SUB: Pietrus FOR Fisher,,
+0020401115,437,8,0,4,12:13 PM,5:36,SUB: Stoudamire FOR Outlaw,,,,
+0020401115,438,1,65,4,12:13 PM,5:18,Patterson 3' Jump Hook Shot (22 PTS),,,96 - 94,-2
+0020401115,439,6,2,4,12:14 PM,5:07,Telfair S.FOUL (P2.T4),,,,
+0020401115,440,3,11,4,12:14 PM,5:07,,,Davis Free Throw 1 of 2 (19 PTS),97 - 94,-3
+0020401115,441,3,12,4,12:14 PM,5:07,,,Davis Free Throw 2 of 2 (20 PTS),98 - 94,-4
+0020401115,442,1,7,4,12:14 PM,4:53,Przybilla  Dunk (18 PTS) (Stoudamire 9 AST),,,98 - 96,-2
+0020401115,443,1,5,4,12:15 PM,4:33,,,Pietrus  Layup (12 PTS) (Davis 11 AST),100 - 96,-4
+0020401115,444,1,5,4,12:15 PM,4:12,Patterson  Layup (24 PTS),,,100 - 98,-2
+0020401115,445,1,1,4,12:16 PM,3:47,,,Murphy 23' Jump Shot (22 PTS) (Richardson 5 AST),102 - 98,-4
+0020401115,446,6,17,4,12:16 PM,3:30,,,Warriors T.Foul (Def. 3 Sec Foyle ),,
+0020401115,447,3,16,4,12:16 PM,3:30,MISS Stoudamire Free Throw Technical,,,,
+0020401115,448,4,1,4,12:16 PM,3:30,TRAIL BLAZERS Rebound,,,,
+0020401115,449,8,0,4,12:16 PM,3:30,SUB: Outlaw FOR Telfair,,,,
+0020401115,450,2,1,4,12:17 PM,3:20,MISS Stoudamire 25' 3PT Jump Shot,,,,
+0020401115,451,4,0,4,12:17 PM,3:18,,,Pietrus REBOUND (Off:2 Def:2),,
+0020401115,452,5,2,4,12:17 PM,2:57,Stoudamire STEAL (5 STL),,Pietrus Lost Ball Turnover (P1.T13),,
+0020401115,453,2,1,4,12:17 PM,2:40,MISS Stoudamire 23' Jump Shot,,,,
+0020401115,454,4,0,4,12:17 PM,2:38,TRAIL BLAZERS Rebound,,,,
+0020401115,455,9,1,4,12:18 PM,2:38,,,Warriors Timeout: Regular (Reg.4 Short 0),,
+0020401115,457,8,0,4,12:19 PM,2:38,,,SUB: Dunleavy FOR Pietrus,,
+0020401115,458,2,1,4,12:20 PM,2:26,MISS Outlaw 17' Jump Shot,,,,
+0020401115,459,4,0,4,12:20 PM,2:24,,,Richardson REBOUND (Off:1 Def:5),,
+0020401115,460,6,2,4,12:21 PM,2:10,Przybilla S.FOUL (P5.PN),,,,
+0020401115,461,3,11,4,12:21 PM,2:10,,,MISS Davis Free Throw 1 of 2,,
+0020401115,462,4,1,4,12:21 PM,2:10,,,Warriors Rebound,,
+0020401115,463,8,0,4,12:21 PM,2:10,SUB: Frahm FOR Outlaw,,,,
+0020401115,464,3,12,4,12:21 PM,2:10,,,Davis Free Throw 2 of 2 (21 PTS),103 - 98,-5
+0020401115,465,1,5,4,12:22 PM,1:55,Patterson  Layup (26 PTS) (Stoudamire 10 AST),,,103 - 100,-3
+0020401115,466,6,2,4,12:22 PM,1:55,,,Richardson S.FOUL (P3.PN),,
+0020401115,468,8,0,4,12:22 PM,1:55,SUB: Outlaw FOR Frahm,,,,
+0020401115,469,3,10,4,12:22 PM,1:55,Patterson Free Throw 1 of 1 (27 PTS),,,103 - 101,-2
+0020401115,470,2,46,4,12:23 PM,1:31,,,MISS Richardson 4' Running Jump Shot,,
+0020401115,471,4,0,4,12:23 PM,1:31,,,Warriors Rebound,,
+0020401115,472,5,11,4,12:23 PM,1:31,,,Warriors Turnover: Shot Clock (T#14),,
+0020401115,473,8,0,4,12:23 PM,1:31,SUB: Frahm FOR Outlaw,,,,
+0020401115,474,5,2,4,12:24 PM,1:10,Abdur-Rahim Lost Ball Turnover (P4.T20),,Davis STEAL (4 STL),,
+0020401115,475,9,1,4,12:24 PM,0:54,,,Warriors Timeout: Regular (Reg.5 Short 0),,
+0020401115,477,8,0,4,12:25 PM,0:54,SUB: Outlaw FOR Stoudamire,,,,
+0020401115,478,2,1,4,12:26 PM,0:49,,,MISS Davis  3PT Jump Shot,,
+0020401115,479,4,0,4,12:26 PM,0:45,,,Murphy REBOUND (Off:3 Def:6),,
+0020401115,480,2,1,4,12:26 PM,0:25,,,MISS Dunleavy  3PT Jump Shot,,
+0020401115,481,4,0,4,12:26 PM,0:23,,,Murphy REBOUND (Off:4 Def:6),,
+0020401115,482,6,1,4,12:26 PM,0:17,Patterson P.FOUL (P1.PN),,,,
+0020401115,483,3,11,4,12:27 PM,0:17,,,MISS Davis Free Throw 1 of 2,,
+0020401115,484,4,1,4,12:27 PM,0:17,,,Warriors Rebound,,
+0020401115,485,3,12,4,12:27 PM,0:17,,,Davis Free Throw 2 of 2 (22 PTS),104 - 101,-3
+0020401115,486,9,1,4,12:27 PM,0:17,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,,,
+0020401115,488,8,0,4,12:29 PM,0:17,SUB: Stoudamire FOR Outlaw,,,,
+0020401115,489,2,1,4,12:29 PM,0:09,MISS Patterson 24' 3PT Jump Shot,,Richardson BLOCK (1 BLK),,
+0020401115,490,4,0,4,12:29 PM,0:09,Przybilla REBOUND (Off:5 Def:9),,,,
+0020401115,491,6,1,4,12:29 PM,0:09,,,Foyle P.FOUL (P3.PN),,
+0020401115,492,3,11,4,12:30 PM,0:09,Przybilla Free Throw 1 of 2 (19 PTS),,,104 - 102,-2
+0020401115,493,3,12,4,12:30 PM,0:09,MISS Przybilla Free Throw 2 of 2,,,,
+0020401115,494,4,0,4,12:30 PM,0:07,Stoudamire REBOUND (Off:2 Def:10),,,,
+0020401115,495,9,1,4,12:31 PM,0:04,TRAIL BLAZERS Timeout: Regular (Full 6 Short 0),,,,
+0020401115,497,8,0,4,12:32 PM,0:04,,,SUB: Pietrus FOR Foyle,,
+0020401115,498,2,1,4,12:33 PM,0:00,MISS Stoudamire 24' 3PT Jump Shot,,,,
+0020401115,499,4,0,4,12:33 PM,0:00,TRAIL BLAZERS Rebound,,,,
+0020401115,501,13,0,4,12:33 PM,0:00,,,,104 - 102,-2

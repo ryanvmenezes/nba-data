@@ -1,0 +1,411 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020301004,0,12,0,1,1:45 PM,12:00,,,,,
+0020301004,1,10,0,1,1:46 PM,12:00,Jump Ball Collins vs. Williams: Tip to Harris,,,,
+0020301004,2,5,1,1,1:46 PM,11:42,Kittles Bad Pass Turnover (P1.T1),,,,
+0020301004,3,2,1,1,1:46 PM,11:28,,,MISS Nowitzki 19' Jump Shot,,
+0020301004,4,4,0,1,1:46 PM,11:27,Harris REBOUND (Off:0 Def:1),,,,
+0020301004,5,2,42,1,1:46 PM,11:20,MISS Kittles  Driving Layup,,,,
+0020301004,6,4,0,1,1:46 PM,11:20,,,Walker REBOUND (Off:0 Def:1),,
+0020301004,7,7,5,1,1:47 PM,11:17,Harris Violation:Kicked Ball,,,,
+0020301004,8,1,1,1,1:47 PM,11:05,,,Finley 19' Jump Shot (2 PTS) (Walker 1 AST),2 - 0,-2
+0020301004,9,1,1,1,1:47 PM,10:47,Kittles 24' 3PT Jump Shot (3 PTS) (Harris 1 AST),,,2 - 3,1
+0020301004,10,2,1,1,1:47 PM,10:35,,,MISS Williams 18' Jump Shot,,
+0020301004,11,4,0,1,1:47 PM,10:34,Collins REBOUND (Off:0 Def:1),,,,
+0020301004,12,2,1,1,1:48 PM,10:22,MISS Harris  3PT Jump Shot,,,,
+0020301004,13,4,0,1,1:48 PM,10:21,,,Finley REBOUND (Off:0 Def:1),,
+0020301004,14,6,2,1,1:48 PM,10:12,Rogers S.FOUL (P1.T1),,,,
+0020301004,15,3,11,1,1:48 PM,10:12,,,MISS Williams Free Throw 1 of 2,,
+0020301004,16,4,1,1,1:48 PM,10:12,,,Mavericks Rebound,,
+0020301004,17,3,12,1,1:48 PM,10:12,,,MISS Williams Free Throw 2 of 2,,
+0020301004,18,4,0,1,1:48 PM,10:11,Jefferson REBOUND (Off:0 Def:1),,,,
+0020301004,19,5,11,1,1:49 PM,9:48,NETS Turnover: Shot Clock (T#2),,,,
+0020301004,20,7,5,1,1:50 PM,9:33,Kittles Violation:Kicked Ball,,,,
+0020301004,21,1,63,1,1:50 PM,9:23,,,Nowitzki 13' Fadeaway Jumper (2 PTS) (Nash 1 AST),4 - 3,-1
+0020301004,22,2,1,1,1:50 PM,8:56,MISS Jefferson 16' Jump Shot,,,,
+0020301004,23,4,0,1,1:50 PM,8:54,,,Nash REBOUND (Off:0 Def:1),,
+0020301004,24,2,63,1,1:51 PM,8:48,,,MISS Nash 9' Fadeaway Jumper,,
+0020301004,25,4,0,1,1:51 PM,8:47,Rogers REBOUND (Off:0 Def:1),,,,
+0020301004,26,2,42,1,1:51 PM,8:42,MISS Rogers  Driving Layup,,Nowitzki BLOCK (1 BLK),,
+0020301004,28,4,0,1,1:51 PM,8:40,,,Mavericks Rebound,,
+0020301004,27,8,0,1,1:51 PM,8:40,,,SUB: Fortson FOR Williams,,
+0020301004,29,2,1,1,1:51 PM,8:26,,,MISS Nowitzki 18' Jump Shot,,
+0020301004,30,4,0,1,1:51 PM,8:24,Kittles REBOUND (Off:0 Def:1),,,,
+0020301004,31,6,2,1,1:52 PM,8:09,,,Fortson S.FOUL (P1.T1),,
+0020301004,32,3,11,1,1:52 PM,8:09,Collins Free Throw 1 of 2 (1 PTS),,,4 - 4,TIE
+0020301004,33,3,12,1,1:52 PM,8:09,Collins Free Throw 2 of 2 (2 PTS),,,4 - 5,1
+0020301004,34,1,1,1,1:53 PM,8:03,,,Finley 16' Jump Shot (4 PTS) (Nash 2 AST),6 - 5,-1
+0020301004,35,1,5,1,1:53 PM,7:47,Harris  Layup (2 PTS) (Rogers 1 AST),,,6 - 7,1
+0020301004,36,5,1,1,1:53 PM,7:32,Jefferson STEAL (1 STL),,Nash Bad Pass Turnover (P1.T1),,
+0020301004,37,1,1,1,1:53 PM,7:18,Kittles 24' 3PT Jump Shot (6 PTS) (Rogers 2 AST),,,6 - 10,4
+0020301004,38,1,1,1,1:54 PM,6:58,,,Finley 18' Jump Shot (6 PTS) (Walker 2 AST),8 - 10,2
+0020301004,39,1,1,1,1:54 PM,6:42,Jefferson 20' Jump Shot (2 PTS),,,8 - 12,4
+0020301004,40,6,1,1,1:54 PM,6:21,Harris P.FOUL (P1.T2),,,,
+0020301004,41,8,0,1,1:55 PM,6:21,,,SUB: Jamison FOR Nowitzki,,
+0020301004,42,2,1,1,1:55 PM,6:13,,,MISS Nash 23' Jump Shot,,
+0020301004,43,4,0,1,1:55 PM,6:11,Harris REBOUND (Off:0 Def:2),,,,
+0020301004,44,1,49,1,1:55 PM,6:04,Rogers  Driving Dunk (2 PTS) (Kittles 1 AST),,,8 - 14,6
+0020301004,45,5,1,1,1:55 PM,5:52,Harris STEAL (1 STL),,Jamison Bad Pass Turnover (P1.T2),,
+0020301004,46,1,5,1,1:55 PM,5:47,Kittles  Layup (8 PTS) (Harris 2 AST),,,8 - 16,8
+0020301004,47,9,1,1,1:55 PM,5:39,,,Mavericks Timeout: Regular (Reg.1 Short 0),,
+0020301004,49,2,1,1,1:59 PM,5:31,,,MISS Nash 17' Jump Shot,,
+0020301004,50,4,0,1,1:59 PM,5:29,NETS Rebound,,,,
+0020301004,51,6,3,1,1:59 PM,5:29,,,Fortson L.B.FOUL (P2.T2),,
+0020301004,52,1,7,1,1:59 PM,5:17,Collins  Dunk (4 PTS) (Jefferson 1 AST),,,8 - 18,10
+0020301004,53,6,1,1,2:00 PM,5:04,Jefferson P.FOUL (P1.T3),,,,
+0020301004,54,2,61,1,2:00 PM,4:52,,,MISS Nash  Driving Finger Roll,,
+0020301004,55,4,0,1,2:00 PM,4:51,,,Fortson REBOUND (Off:1 Def:0),,
+0020301004,56,1,5,1,2:00 PM,4:49,,,Fortson  Layup (2 PTS),10 - 18,8
+0020301004,57,6,1,1,2:00 PM,4:42,,,Fortson P.FOUL (P3.T3),,
+0020301004,58,8,0,1,2:01 PM,4:42,,,SUB: Bradley FOR Fortson,,
+0020301004,59,2,5,1,2:01 PM,4:27,MISS Collins  Layup,,Bradley BLOCK (1 BLK),,
+0020301004,60,4,0,1,2:01 PM,4:26,,,Walker REBOUND (Off:0 Def:2),,
+0020301004,61,2,58,1,2:01 PM,4:17,,,MISS Jamison 8' Turnaround Hook Shot,,
+0020301004,62,4,0,1,2:01 PM,4:16,,,Bradley REBOUND (Off:1 Def:0),,
+0020301004,63,2,4,1,2:01 PM,4:15,,,MISS Bradley  Tip Shot,,
+0020301004,64,4,0,1,2:01 PM,4:14,NETS Rebound,,,,
+0020301004,65,6,3,1,2:01 PM,4:14,,,Bradley L.B.FOUL (P1.T4),,
+0020301004,66,1,5,1,2:02 PM,3:56,Harris  Layup (4 PTS) (Jefferson 2 AST),,,10 - 20,10
+0020301004,67,5,40,1,2:02 PM,3:38,,,Finley Out of Bounds Lost Ball Turnover (P1.T3),,
+0020301004,68,8,0,1,2:02 PM,3:38,,,SUB: Nowitzki FOR Walker,,
+0020301004,69,1,1,1,2:03 PM,3:22,Harris 20' Jump Shot (6 PTS) (Jefferson 3 AST),,,10 - 22,12
+0020301004,70,1,1,1,2:03 PM,3:01,,,Finley 25' 3PT Jump Shot (9 PTS),13 - 22,9
+0020301004,72,6,2,1,2:03 PM,2:45,,,Bradley S.FOUL (P2.PN),,
+0020301004,73,9,1,1,2:03 PM,2:45,NETS Timeout: Regular (Full 1 Short 0),,,,
+0020301004,75,8,0,1,2:06 PM,2:45,SUB: Scalabrine FOR Rogers,,,,
+0020301004,76,3,11,1,2:07 PM,2:45,MISS Collins Free Throw 1 of 2,,,,
+0020301004,77,4,1,1,2:07 PM,2:45,NETS Rebound,,,,
+0020301004,78,3,12,1,2:07 PM,2:45,Collins Free Throw 2 of 2 (5 PTS),,,13 - 23,10
+0020301004,79,2,3,1,2:08 PM,2:27,,,MISS Bradley 5' Hook Shot,,
+0020301004,80,4,0,1,2:08 PM,2:26,Collins REBOUND (Off:0 Def:2),,,,
+0020301004,81,5,1,1,2:08 PM,2:18,Jefferson Bad Pass Turnover (P1.T3),,Bradley STEAL (1 STL),,
+0020301004,82,2,63,1,2:08 PM,2:07,,,MISS Nowitzki 15' Fadeaway Jumper,,
+0020301004,83,4,0,1,2:08 PM,2:06,,,Jamison REBOUND (Off:1 Def:0),,
+0020301004,84,1,1,1,2:08 PM,2:04,,,Jamison 7' Jump Shot (2 PTS),15 - 23,8
+0020301004,85,5,13,1,2:08 PM,1:54,Kittles Backcourt Turnover (P2.T4),,,,
+0020301004,86,8,0,1,2:08 PM,1:54,SUB: Williams FOR Collins,,,,
+0020301004,87,6,1,1,2:09 PM,1:49,Scalabrine P.FOUL (P1.T4),,,,
+0020301004,88,6,1,1,2:09 PM,1:44,Scalabrine P.FOUL (P2.PN),,,,
+0020301004,89,3,11,1,2:09 PM,1:44,,,Jamison Free Throw 1 of 2 (3 PTS),16 - 23,7
+0020301004,90,3,12,1,2:09 PM,1:44,,,MISS Jamison Free Throw 2 of 2,,
+0020301004,91,4,0,1,2:10 PM,1:43,Jefferson REBOUND (Off:0 Def:2),,,,
+0020301004,92,2,1,1,2:10 PM,1:22,MISS Scalabrine 16' Jump Shot,,,,
+0020301004,93,4,0,1,2:10 PM,1:21,,,Bradley REBOUND (Off:1 Def:1),,
+0020301004,94,2,1,1,2:10 PM,1:10,,,MISS Finley 24' 3PT Jump Shot,,
+0020301004,95,4,0,1,2:10 PM,1:09,Harris REBOUND (Off:0 Def:3),,,,
+0020301004,96,1,1,1,2:10 PM,1:03,Kittles 20' Jump Shot (10 PTS) (Harris 3 AST),,,16 - 25,9
+0020301004,97,2,1,1,2:11 PM,0:40,,,MISS Jamison 20' Jump Shot,,
+0020301004,98,4,0,1,2:11 PM,0:39,,,Nash REBOUND (Off:1 Def:1),,
+0020301004,99,1,5,1,2:11 PM,0:34,,,Jamison  Layup (5 PTS) (Nash 3 AST),18 - 25,7
+0020301004,100,5,11,1,2:11 PM,0:10,NETS Turnover: Shot Clock (T#5),,,,
+0020301004,102,8,0,1,2:11 PM,0:09,SUB: Armstrong FOR Harris,,,,
+0020301004,103,8,0,1,2:11 PM,0:09,,,SUB: Walker FOR Bradley,,
+0020301004,104,8,0,1,2:12 PM,0:09,SUB: Slay FOR Jefferson,,,,
+0020301004,105,2,47,1,2:12 PM,0:01,,,MISS Finley 17' Turnaround Jump Shot,,
+0020301004,106,4,0,1,2:12 PM,0:00,,,Mavericks Rebound,,
+0020301004,108,13,0,1,2:12 PM,0:00,,,,18 - 25,7
+0020301004,110,12,0,2,2:16 PM,12:00,,,,18 - 25,7
+0020301004,111,1,61,2,2:16 PM,11:54,,,Jamison  Driving Finger Roll (7 PTS) (Daniels 1 AST),20 - 25,5
+0020301004,112,1,7,2,2:16 PM,11:36,Williams  Dunk (2 PTS) (Scalabrine 1 AST),,,20 - 27,7
+0020301004,113,5,2,2,2:17 PM,11:05,Scalabrine STEAL (1 STL),,Jamison Lost Ball Turnover (P2.T4),,
+0020301004,114,1,1,2,2:17 PM,10:53,Jefferson 20' Jump Shot (4 PTS),,,20 - 29,9
+0020301004,115,6,1,2,2:17 PM,10:41,Jefferson P.FOUL (P2.T1),,,,
+0020301004,116,8,0,2,2:17 PM,10:41,SUB: Harris FOR Kittles,,,,
+0020301004,117,1,1,2,2:18 PM,10:35,,,Daniels 19' Jump Shot (2 PTS),22 - 29,7
+0020301004,118,5,2,2,2:18 PM,10:20,Jefferson Lost Ball Turnover (P2.T6),,Walker STEAL (1 STL),,
+0020301004,119,1,42,2,2:18 PM,10:15,,,Daniels  Driving Layup (4 PTS),24 - 29,5
+0020301004,120,2,1,2,2:18 PM,9:56,MISS Scalabrine 26' 3PT Jump Shot,,,,
+0020301004,121,4,0,2,2:18 PM,9:55,,,Finley REBOUND (Off:0 Def:2),,
+0020301004,122,6,4,2,2:19 PM,9:45,,,Daniels OFF.Foul (P1),,
+0020301004,123,5,5,2,2:19 PM,9:45,,,Daniels Foul Turnover (P1.T5),,
+0020301004,124,2,46,2,2:19 PM,9:28,MISS Williams 7' Running Jump Shot,,,,
+0020301004,125,4,0,2,2:19 PM,9:27,,,Finley REBOUND (Off:0 Def:3),,
+0020301004,126,1,1,2,2:19 PM,9:17,,,Nowitzki 19' Jump Shot (4 PTS) (Finley 1 AST),26 - 29,3
+0020301004,127,9,1,2,2:20 PM,9:06,NETS Timeout: Regular (Full 2 Short 0),,,,
+0020301004,129,8,0,2,2:23 PM,9:06,SUB: Rogers FOR Scalabrine,,,,
+0020301004,130,6,4,2,2:23 PM,8:58,Williams OFF.Foul (P1),,,,
+0020301004,131,5,5,2,2:23 PM,8:58,Williams Foul Turnover (P1.T7),,,,
+0020301004,132,2,3,2,2:23 PM,8:43,,,MISS Nowitzki 5' Hook Shot,,
+0020301004,133,4,0,2,2:23 PM,8:42,Williams REBOUND (Off:0 Def:1),,,,
+0020301004,134,1,1,2,2:24 PM,8:21,Armstrong 18' Jump Shot (2 PTS) (Harris 4 AST),,,26 - 31,5
+0020301004,135,2,1,2,2:24 PM,8:00,,,MISS Nowitzki 19' Jump Shot,,
+0020301004,136,4,0,2,2:24 PM,7:58,,,Finley REBOUND (Off:1 Def:3),,
+0020301004,137,1,1,2,2:24 PM,7:56,,,Finley 18' Jump Shot (11 PTS),28 - 31,3
+0020301004,138,2,1,2,2:25 PM,7:32,MISS Rogers 24' 3PT Jump Shot,,,,
+0020301004,139,4,0,2,2:25 PM,7:31,,,Nowitzki REBOUND (Off:0 Def:1),,
+0020301004,140,1,46,2,2:25 PM,7:18,,,Daniels 5' Running Jump Shot (6 PTS),30 - 31,1
+0020301004,141,1,42,2,2:26 PM,6:55,Williams  Driving Layup (4 PTS) (Rogers 3 AST),,,30 - 33,3
+0020301004,142,6,2,2,2:26 PM,6:55,,,Nowitzki S.FOUL (P1.T1),,
+0020301004,143,8,0,2,2:26 PM,6:55,SUB: Kittles FOR Armstrong,,,,
+0020301004,144,3,10,2,2:26 PM,6:55,Williams Free Throw 1 of 1 (5 PTS),,,30 - 34,4
+0020301004,145,5,40,2,2:26 PM,6:40,,,Nowitzki Out of Bounds Lost Ball Turnover (P1.T6),,
+0020301004,146,1,44,2,2:27 PM,6:20,Harris  Reverse Layup (8 PTS) (Rogers 4 AST),,,30 - 36,6
+0020301004,147,2,46,2,2:27 PM,6:05,,,MISS Walker 8' Running Jump Shot,,
+0020301004,148,4,0,2,2:27 PM,6:04,Rogers REBOUND (Off:0 Def:2),,,,
+0020301004,149,1,5,2,2:27 PM,5:45,Jefferson  Layup (6 PTS) (Williams 1 AST),,,30 - 38,8
+0020301004,150,2,63,2,2:28 PM,5:24,,,MISS Nowitzki 18' Fadeaway Jumper,,
+0020301004,151,4,0,2,2:28 PM,5:23,Rogers REBOUND (Off:0 Def:3),,,,
+0020301004,152,5,1,2,2:28 PM,5:15,Jefferson Bad Pass Turnover (P3.T8),,Daniels STEAL (1 STL),,
+0020301004,153,2,42,2,2:28 PM,5:10,Williams BLOCK (1 BLK),,MISS Jamison  Driving Layup,,
+0020301004,154,4,0,2,2:28 PM,5:08,Harris REBOUND (Off:0 Def:4),,,,
+0020301004,155,6,2,2,2:28 PM,5:05,,,Nowitzki S.FOUL (P2.T2),,
+0020301004,156,9,4,2,2:28 PM,5:05,,,,,
+0020301004,158,8,0,2,2:32 PM,5:05,,,SUB: Nash FOR Daniels,,
+0020301004,159,8,0,2,2:32 PM,5:05,,,SUB: Howard FOR Finley,,
+0020301004,160,3,11,2,2:32 PM,5:05,MISS Jefferson Free Throw 1 of 2,,,,
+0020301004,161,4,1,2,2:32 PM,5:05,NETS Rebound,,,,
+0020301004,162,3,12,2,2:32 PM,5:05,Jefferson Free Throw 2 of 2 (7 PTS),,,30 - 39,9
+0020301004,163,1,5,2,2:33 PM,4:53,,,Jamison  Layup (9 PTS) (Walker 3 AST),32 - 39,7
+0020301004,164,2,1,2,2:33 PM,4:27,MISS Jefferson 25' 3PT Jump Shot,,,,
+0020301004,165,4,0,2,2:33 PM,4:26,,,Howard REBOUND (Off:0 Def:1),,
+0020301004,166,1,1,2,2:33 PM,4:17,,,Nowitzki 18' Jump Shot (6 PTS) (Nash 4 AST),34 - 39,5
+0020301004,167,2,47,2,2:33 PM,3:57,MISS Jefferson 16' Turnaround Jump Shot,,,,
+0020301004,168,4,0,2,2:33 PM,3:55,,,Nowitzki REBOUND (Off:0 Def:2),,
+0020301004,169,2,1,2,2:34 PM,3:37,,,MISS Jamison 19' Jump Shot,,
+0020301004,170,4,0,2,2:34 PM,3:36,Williams REBOUND (Off:0 Def:2),,,,
+0020301004,171,6,1,2,2:34 PM,3:20,,,Howard P.FOUL (P1.T3),,
+0020301004,172,8,0,2,2:34 PM,3:20,SUB: Collins FOR Williams,,,,
+0020301004,173,5,2,2,2:35 PM,3:09,Collins Lost Ball Turnover (P1.T9),,Jamison STEAL (1 STL),,
+0020301004,174,6,2,2,2:35 PM,3:06,Kittles S.FOUL (P1.T2),,,,
+0020301004,175,3,11,2,2:35 PM,3:06,,,Nowitzki Free Throw 1 of 2 (7 PTS),35 - 39,4
+0020301004,176,3,12,2,2:35 PM,3:06,,,Nowitzki Free Throw 2 of 2 (8 PTS),36 - 39,3
+0020301004,177,2,1,2,2:35 PM,2:58,MISS Harris 20' Jump Shot,,,,
+0020301004,178,4,0,2,2:35 PM,2:56,,,Nash REBOUND (Off:1 Def:2),,
+0020301004,179,1,44,2,2:36 PM,2:52,,,Howard  Reverse Layup (2 PTS) (Nash 5 AST),38 - 39,1
+0020301004,180,9,2,2,2:36 PM,2:44,NETS Timeout: Short (Full 2 Short 1),,,,
+0020301004,181,9,1,2,2:36 PM,2:44,,,Mavericks Timeout: Regular (Reg.2 Short 0),,
+0020301004,183,8,0,2,2:39 PM,2:44,,,SUB: Najera FOR Nowitzki,,
+0020301004,184,2,5,2,2:40 PM,2:29,MISS Rogers  Layup,,,,
+0020301004,185,4,0,2,2:40 PM,2:28,,,Walker REBOUND (Off:0 Def:3),,
+0020301004,186,2,1,2,2:40 PM,2:07,,,MISS Najera 18' Jump Shot,,
+0020301004,187,4,0,2,2:40 PM,2:06,Rogers REBOUND (Off:0 Def:4),,,,
+0020301004,188,2,1,2,2:40 PM,1:55,MISS Jefferson 17' Jump Shot,,,,
+0020301004,189,4,0,2,2:40 PM,1:54,Rogers REBOUND (Off:1 Def:4),,,,
+0020301004,190,2,4,2,2:40 PM,1:52,MISS Rogers  Tip Shot,,,,
+0020301004,191,4,0,2,2:40 PM,1:51,Collins REBOUND (Off:1 Def:2),,,,
+0020301004,192,1,4,2,2:40 PM,1:50,Collins  Tip Shot (7 PTS),,,38 - 41,3
+0020301004,193,2,46,2,2:41 PM,1:31,,,MISS Walker 7' Running Jump Shot,,
+0020301004,194,4,0,2,2:41 PM,1:30,,,Jamison REBOUND (Off:2 Def:0),,
+0020301004,195,6,1,2,2:41 PM,1:30,Jefferson P.FOUL (P3.T3),,,,
+0020301004,196,8,0,2,2:41 PM,1:30,SUB: Scalabrine FOR Jefferson,,,,
+0020301004,197,5,4,2,2:41 PM,1:24,,,Walker Traveling Turnover (P1.T7),,
+0020301004,198,2,1,2,2:42 PM,1:12,MISS Scalabrine 17' Jump Shot,,,,
+0020301004,199,4,0,2,2:42 PM,1:10,NETS Rebound,,,,
+0020301004,200,6,3,2,2:42 PM,1:10,,,Najera L.B.FOUL (P1.T4),,
+0020301004,201,8,0,2,2:42 PM,1:10,,,SUB: Finley FOR Jamison,,
+0020301004,202,2,42,2,2:43 PM,0:56,MISS Rogers  Driving Layup,,,,
+0020301004,203,4,0,2,2:43 PM,0:54,,,Finley REBOUND (Off:1 Def:4),,
+0020301004,205,7,2,2,2:43 PM,0:49,Rogers Violation:Defensive Goaltending,,,,
+0020301004,204,1,42,2,2:43 PM,0:49,,,Najera  Driving Layup (2 PTS) (Finley 2 AST),40 - 41,1
+0020301004,206,6,1,2,2:43 PM,0:41,,,Walker P.FOUL (P1.PN),,
+0020301004,207,3,11,2,2:44 PM,0:41,Rogers Free Throw 1 of 2 (3 PTS),,,40 - 42,2
+0020301004,208,8,0,2,2:44 PM,0:41,,,SUB: Jamison FOR Walker,,
+0020301004,209,3,12,2,2:44 PM,0:41,Rogers Free Throw 2 of 2 (4 PTS),,,40 - 43,3
+0020301004,210,2,1,2,2:44 PM,0:34,,,MISS Finley 24' 3PT Jump Shot,,
+0020301004,211,4,0,2,2:44 PM,0:32,,,Howard REBOUND (Off:1 Def:1),,
+0020301004,212,2,1,2,2:44 PM,0:31,,,MISS Howard 5' Jump Shot,,
+0020301004,213,4,0,2,2:44 PM,0:30,,,Najera REBOUND (Off:1 Def:0),,
+0020301004,214,1,4,2,2:44 PM,0:29,,,Najera  Tip Shot (4 PTS),42 - 43,1
+0020301004,215,6,2,2,2:45 PM,0:07,,,Howard S.FOUL (P2.PN),,
+0020301004,216,3,11,2,2:45 PM,0:07,Harris Free Throw 1 of 2 (9 PTS),,,42 - 44,2
+0020301004,217,3,12,2,2:45 PM,0:07,Harris Free Throw 2 of 2 (10 PTS),,,42 - 45,3
+0020301004,218,1,46,2,2:45 PM,0:00,,,Nash 9' Running Jump Shot (2 PTS),44 - 45,1
+0020301004,219,13,0,2,2:46 PM,0:00,,,,44 - 45,1
+0020301004,221,12,0,3,3:03 PM,12:00,,,,44 - 45,1
+0020301004,222,5,2,3,3:04 PM,11:49,Rogers STEAL (1 STL),,Walker Lost Ball Turnover (P2.T8),,
+0020301004,223,2,42,3,3:04 PM,11:36,MISS Harris  Driving Layup,,,,
+0020301004,224,4,0,3,3:04 PM,11:34,,,Nash REBOUND (Off:1 Def:3),,
+0020301004,225,2,5,3,3:04 PM,11:25,,,MISS Najera  Layup,,
+0020301004,226,4,0,3,3:04 PM,11:24,Rogers REBOUND (Off:1 Def:5),,,,
+0020301004,227,1,1,3,3:04 PM,11:08,Rogers 20' Jump Shot (6 PTS) (Collins 1 AST),,,44 - 47,3
+0020301004,228,1,5,3,3:04 PM,10:50,,,Walker  Layup (2 PTS) (Nowitzki 1 AST),46 - 47,1
+0020301004,229,2,1,3,3:05 PM,10:26,MISS Collins 13' Jump Shot,,,,
+0020301004,230,4,0,3,3:05 PM,10:25,Harris REBOUND (Off:1 Def:4),,,,
+0020301004,231,5,11,3,3:05 PM,10:23,NETS Turnover: Shot Clock (T#10),,,,
+0020301004,232,2,1,3,3:05 PM,10:16,,,MISS Walker 6' Jump Shot,,
+0020301004,233,4,0,3,3:05 PM,10:15,Kittles REBOUND (Off:0 Def:2),,,,
+0020301004,234,1,47,3,3:06 PM,10:02,Harris 10' Turnaround Jump Shot (12 PTS),,,46 - 49,3
+0020301004,235,6,2,3,3:06 PM,10:02,,,Nash S.FOUL (P1.T1),,
+0020301004,236,3,10,3,3:06 PM,10:02,Harris Free Throw 1 of 1 (13 PTS),,,46 - 50,4
+0020301004,237,1,5,3,3:06 PM,9:43,,,Walker  Layup (4 PTS) (Nash 6 AST),48 - 50,2
+0020301004,238,1,5,3,3:06 PM,9:26,Rogers  Layup (8 PTS) (Jefferson 4 AST),,,48 - 52,4
+0020301004,239,1,1,3,3:07 PM,9:15,,,Nowitzki 17' Jump Shot (10 PTS) (Finley 3 AST),50 - 52,2
+0020301004,240,1,42,3,3:07 PM,9:00,Kittles  Driving Layup (12 PTS) (Rogers 5 AST),,,50 - 54,4
+0020301004,241,6,2,3,3:07 PM,8:37,Rogers S.FOUL (P2.T1),,,,
+0020301004,242,3,11,3,3:08 PM,8:37,,,Nowitzki Free Throw 1 of 2 (11 PTS),51 - 54,3
+0020301004,243,3,12,3,3:08 PM,8:37,,,Nowitzki Free Throw 2 of 2 (12 PTS),52 - 54,2
+0020301004,244,1,42,3,3:08 PM,8:21,Harris  Driving Layup (15 PTS) (Collins 2 AST),,,52 - 56,4
+0020301004,245,2,63,3,3:09 PM,8:07,,,MISS Nowitzki 14' Fadeaway Jumper,,
+0020301004,246,4,0,3,3:09 PM,8:06,Rogers REBOUND (Off:1 Def:6),,,,
+0020301004,247,5,1,3,3:09 PM,7:56,Harris Bad Pass Turnover (P1.T11),,Nash STEAL (1 STL),,
+0020301004,248,5,1,3,3:09 PM,7:54,,,Walker Bad Pass Turnover (P3.T9),,
+0020301004,249,9,1,3,3:09 PM,7:54,NETS Timeout: Regular (Full 3 Short 1),,,,
+0020301004,251,1,1,3,3:13 PM,7:39,Rogers 26' 3PT Jump Shot (11 PTS) (Collins 3 AST),,,52 - 59,7
+0020301004,252,2,1,3,3:13 PM,7:21,,,MISS Finley 19' Jump Shot,,
+0020301004,253,4,0,3,3:13 PM,7:19,NETS Rebound,,,,
+0020301004,254,1,42,3,3:14 PM,7:03,Jefferson  Driving Layup (9 PTS),,,52 - 61,9
+0020301004,255,2,42,3,3:14 PM,6:46,,,MISS Nash  Driving Layup,,
+0020301004,256,4,0,3,3:14 PM,6:45,,,Walker REBOUND (Off:1 Def:3),,
+0020301004,257,2,4,3,3:14 PM,6:42,,,MISS Walker  Tip Shot,,
+0020301004,258,4,0,3,3:14 PM,6:41,Rogers REBOUND (Off:1 Def:7),,,,
+0020301004,259,1,42,3,3:14 PM,6:35,Jefferson  Driving Layup (11 PTS) (Harris 5 AST),,,52 - 63,11
+0020301004,260,6,2,3,3:14 PM,6:35,,,Nash S.FOUL (P2.T2),,
+0020301004,261,8,0,3,3:15 PM,6:35,,,SUB: Jamison FOR Najera,,
+0020301004,262,3,10,3,3:15 PM,6:35,Jefferson Free Throw 1 of 1 (12 PTS),,,52 - 64,12
+0020301004,263,2,1,3,3:15 PM,6:27,,,MISS Nowitzki 19' Jump Shot,,
+0020301004,264,4,0,3,3:15 PM,6:26,Jefferson REBOUND (Off:0 Def:3),,,,
+0020301004,265,5,1,3,3:15 PM,6:21,Jefferson Bad Pass Turnover (P4.T12),,,,
+0020301004,266,1,1,3,3:15 PM,6:16,,,Nash 25' 3PT Jump Shot (5 PTS),55 - 64,9
+0020301004,267,1,66,3,3:16 PM,5:55,Kittles 9' Jump Bank Shot (14 PTS) (Jefferson 5 AST),,,55 - 66,11
+0020301004,268,2,1,3,3:16 PM,5:43,,,MISS Nowitzki 14' Jump Shot,,
+0020301004,269,4,0,3,3:16 PM,5:42,Harris REBOUND (Off:1 Def:5),,,,
+0020301004,270,5,2,3,3:16 PM,5:38,Kittles Lost Ball Turnover (P3.T13),,Finley STEAL (1 STL),,
+0020301004,271,6,14,3,3:16 PM,5:33,Collins FLAGRANT.FOUL.TYPE1 (P1.T2),,,,
+0020301004,272,8,0,3,3:16 PM,5:33,,,SUB: Howard FOR Walker,,
+0020301004,273,3,18,3,3:16 PM,5:33,,,Nowitzki Free Throw Flagrant 1 of 2 (13 PTS),56 - 66,10
+0020301004,274,3,19,3,3:17 PM,5:33,,,Nowitzki Free Throw Flagrant 2 of 2 (14 PTS),57 - 66,9
+0020301004,275,2,1,3,3:17 PM,5:24,,,MISS Howard 17' Jump Shot,,
+0020301004,276,4,0,3,3:17 PM,5:23,Kittles REBOUND (Off:0 Def:3),,,,
+0020301004,277,1,1,3,3:17 PM,5:08,Harris 7' Jump Shot (17 PTS) (Rogers 6 AST),,,57 - 68,11
+0020301004,278,1,1,3,3:18 PM,4:50,,,Nowitzki 25' 3PT Jump Shot (17 PTS) (Finley 4 AST),60 - 68,8
+0020301004,279,2,1,3,3:18 PM,4:34,MISS Jefferson 20' Jump Shot,,,,
+0020301004,280,4,0,3,3:18 PM,4:33,,,Jamison REBOUND (Off:2 Def:1),,
+0020301004,281,5,1,3,3:18 PM,4:28,Kittles STEAL (1 STL),,Nash Bad Pass Turnover (P2.T10),,
+0020301004,282,1,7,3,3:18 PM,4:24,Rogers  Dunk (13 PTS) (Jefferson 6 AST),,,60 - 70,10
+0020301004,283,9,1,3,3:18 PM,4:21,,,Mavericks Timeout: Regular (Reg.3 Short 0),,
+0020301004,285,8,0,3,3:21 PM,4:21,SUB: Scalabrine FOR Rogers,,,,
+0020301004,286,2,1,3,3:22 PM,4:13,,,MISS Finley  3PT Jump Shot,,
+0020301004,287,4,0,3,3:22 PM,4:12,Scalabrine REBOUND (Off:0 Def:1),,,,
+0020301004,288,2,1,3,3:22 PM,3:51,MISS Kittles 24' 3PT Jump Shot,,,,
+0020301004,289,4,0,3,3:22 PM,3:50,Jefferson REBOUND (Off:1 Def:3),,,,
+0020301004,290,2,1,3,3:22 PM,3:43,MISS Harris 19' Jump Shot,,,,
+0020301004,291,4,0,3,3:22 PM,3:42,,,Nowitzki REBOUND (Off:0 Def:3),,
+0020301004,292,1,5,3,3:23 PM,3:29,,,Jamison  Layup (11 PTS) (Nash 7 AST),62 - 70,8
+0020301004,293,2,5,3,3:23 PM,3:06,MISS Harris  Layup,,,,
+0020301004,294,4,0,3,3:23 PM,3:04,,,Jamison REBOUND (Off:2 Def:2),,
+0020301004,295,6,1,3,3:23 PM,3:01,Harris P.FOUL (P2.T3),,,,
+0020301004,296,8,0,3,3:23 PM,3:01,SUB: Williams FOR Collins,,,,
+0020301004,297,2,1,3,3:24 PM,2:48,,,MISS Howard 11' Jump Shot,,
+0020301004,298,4,0,3,3:24 PM,2:47,Scalabrine REBOUND (Off:0 Def:2),,,,
+0020301004,299,6,4,3,3:24 PM,2:28,Scalabrine OFF.Foul (P3),,,,
+0020301004,300,5,5,3,3:24 PM,2:28,Scalabrine Foul Turnover (P1.T14),,,,
+0020301004,301,2,1,3,3:25 PM,2:20,,,MISS Finley 18' Jump Shot,,
+0020301004,302,4,0,3,3:25 PM,2:19,Kittles REBOUND (Off:0 Def:4),,,,
+0020301004,303,5,1,3,3:25 PM,2:07,Scalabrine Bad Pass Turnover (P2.T15),,Howard STEAL (1 STL),,
+0020301004,304,5,39,3,3:25 PM,2:05,,,Howard Step Out of Bounds Turnover (P1.T11),,
+0020301004,305,8,0,3,3:25 PM,2:05,,,SUB: Daniels FOR Finley,,
+0020301004,306,1,1,3,3:26 PM,1:46,Jefferson 14' Jump Shot (14 PTS),,,62 - 72,10
+0020301004,307,6,1,3,3:26 PM,1:38,Williams P.FOUL (P2.T4),,,,
+0020301004,308,8,0,3,3:26 PM,1:38,SUB: Armstrong FOR Harris,,,,
+0020301004,309,6,2,3,3:27 PM,1:32,Williams S.FOUL (P3.PN),,,,
+0020301004,310,3,11,3,3:27 PM,1:32,,,Jamison Free Throw 1 of 2 (12 PTS),63 - 72,9
+0020301004,311,8,0,3,3:27 PM,1:32,,,SUB: Bradley FOR Nowitzki,,
+0020301004,312,3,12,3,3:27 PM,1:32,,,MISS Jamison Free Throw 2 of 2,,
+0020301004,313,4,0,3,3:27 PM,1:31,Jefferson REBOUND (Off:1 Def:4),,,,
+0020301004,314,5,2,3,3:27 PM,1:15,Williams Lost Ball Turnover (P2.T16),,Bradley STEAL (2 STL),,
+0020301004,315,1,1,3,3:28 PM,0:59,,,Jamison 20' Jump Shot (14 PTS) (Nash 8 AST),65 - 72,7
+0020301004,316,6,2,3,3:28 PM,0:46,,,Bradley S.FOUL (P3.T3),,
+0020301004,317,3,11,3,3:28 PM,0:46,Jefferson Free Throw 1 of 2 (15 PTS),,,65 - 73,8
+0020301004,318,3,12,3,3:29 PM,0:46,Jefferson Free Throw 2 of 2 (16 PTS),,,65 - 74,9
+0020301004,319,1,1,3,3:29 PM,0:40,,,Nash 26' 3PT Jump Shot (8 PTS),68 - 74,6
+0020301004,320,2,1,3,3:29 PM,0:21,MISS Jefferson 24' 3PT Jump Shot,,,,
+0020301004,321,4,0,3,3:29 PM,0:21,,,Bradley REBOUND (Off:1 Def:2),,
+0020301004,322,1,1,3,3:30 PM,0:03,,,Howard 7' Jump Shot (4 PTS) (Nash 9 AST),70 - 74,4
+0020301004,323,2,46,3,3:30 PM,0:00,MISS Kittles 10' Running Jump Shot,,,,
+0020301004,324,4,0,3,3:30 PM,0:00,NETS Rebound,,,,
+0020301004,325,13,0,3,3:30 PM,0:00,,,,70 - 74,4
+0020301004,327,12,0,4,3:34 PM,12:00,,,,70 - 74,4
+0020301004,328,2,1,4,3:34 PM,11:43,MISS Rogers 25' 3PT Jump Shot,,,,
+0020301004,329,4,0,4,3:34 PM,11:41,,,Mavericks Rebound,,
+0020301004,330,1,1,4,3:35 PM,11:28,,,Bradley 15' Jump Shot (2 PTS) (Nash 10 AST),72 - 74,2
+0020301004,331,1,1,4,3:35 PM,10:56,Harris 22' Jump Shot (19 PTS) (Rogers 7 AST),,,72 - 76,4
+0020301004,332,1,5,4,3:35 PM,10:43,,,Jamison  Layup (16 PTS) (Nash 11 AST),74 - 76,2
+0020301004,333,2,1,4,3:36 PM,10:20,MISS Harris 23' Jump Shot,,Howard BLOCK (1 BLK),,
+0020301004,334,4,0,4,3:36 PM,10:19,NETS Rebound,,,,
+0020301004,335,2,1,4,3:36 PM,10:15,MISS Jefferson 20' Jump Shot,,,,
+0020301004,336,10,0,4,3:36 PM,10:13,Jump Ball Rogers vs. Howard: Tip to Bradley,,,,
+0020301004,337,4,0,4,3:36 PM,10:13,,,Mavericks Rebound,,
+0020301004,338,1,1,4,3:37 PM,10:01,,,Nash 25' 3PT Jump Shot (11 PTS),77 - 76,-1
+0020301004,339,2,1,4,3:37 PM,9:38,MISS Jefferson 18' Jump Shot,,,,
+0020301004,340,4,0,4,3:37 PM,9:35,,,Jamison REBOUND (Off:2 Def:3),,
+0020301004,341,1,5,4,3:37 PM,9:29,,,Jamison  Layup (18 PTS) (Howard 1 AST),79 - 76,-3
+0020301004,342,9,1,4,3:37 PM,9:26,NETS Timeout: Regular (Full 4 Short 1),,,,
+0020301004,344,8,0,4,3:41 PM,9:26,SUB: Kittles FOR Armstrong,,,,
+0020301004,345,2,1,4,3:41 PM,9:08,MISS Kittles 18' Jump Shot,,,,
+0020301004,346,4,0,4,3:42 PM,9:06,,,Mavericks Rebound,,
+0020301004,347,5,1,4,3:42 PM,8:57,Rogers STEAL (2 STL),,Nash Bad Pass Turnover (P3.T12),,
+0020301004,348,6,4,4,3:42 PM,8:53,Kittles OFF.Foul (P2),,,,
+0020301004,349,5,5,4,3:42 PM,8:53,Kittles Foul Turnover (P4.T17),,,,
+0020301004,350,1,42,4,3:43 PM,8:39,,,Daniels  Driving Layup (8 PTS) (Howard 2 AST),81 - 76,-5
+0020301004,351,1,5,4,3:43 PM,8:10,Rogers  Layup (15 PTS) (Jefferson 7 AST),,,81 - 78,-3
+0020301004,352,6,2,4,3:43 PM,7:56,Rogers S.FOUL (P3.T1),,,,
+0020301004,353,3,11,4,3:43 PM,7:56,,,MISS Jamison Free Throw 1 of 2,,
+0020301004,354,4,1,4,3:43 PM,7:56,,,Mavericks Rebound,,
+0020301004,355,3,12,4,3:44 PM,7:56,,,MISS Jamison Free Throw 2 of 2,,
+0020301004,356,4,0,4,3:44 PM,7:55,Jefferson REBOUND (Off:1 Def:5),,,,
+0020301004,357,1,1,4,3:44 PM,7:42,Kittles 26' 3PT Jump Shot (17 PTS) (Jefferson 8 AST),,,81 - 81,TIE
+0020301004,358,1,1,4,3:44 PM,7:27,,,Jamison 20' Jump Shot (20 PTS) (Bradley 1 AST),83 - 81,-2
+0020301004,359,2,5,4,3:45 PM,7:05,MISS Kittles  Layup,,,,
+0020301004,360,4,0,4,3:45 PM,7:04,,,Daniels REBOUND (Off:0 Def:1),,
+0020301004,361,6,1,4,3:45 PM,7:00,Rogers P.FOUL (P4.T2),,,,
+0020301004,362,8,0,4,3:45 PM,7:00,,,SUB: Finley FOR Jamison,,
+0020301004,363,1,1,4,3:45 PM,6:48,,,Daniels 19' Jump Shot (10 PTS) (Bradley 2 AST),85 - 81,-4
+0020301004,364,1,1,4,3:46 PM,6:29,Harris 19' Jump Shot (21 PTS) (Collins 4 AST),,,85 - 83,-2
+0020301004,365,1,1,4,3:46 PM,6:13,,,Nash 19' Jump Shot (13 PTS),87 - 83,-4
+0020301004,366,6,2,4,3:47 PM,5:48,,,Bradley S.FOUL (P4.T1),,
+0020301004,367,9,4,4,3:47 PM,5:48,,,,,
+0020301004,369,8,0,4,3:50 PM,5:48,,,SUB: Nowitzki FOR Bradley,,
+0020301004,370,3,11,4,3:50 PM,5:48,Jefferson Free Throw 1 of 2 (17 PTS),,,87 - 84,-3
+0020301004,371,3,12,4,3:50 PM,5:48,Jefferson Free Throw 2 of 2 (18 PTS),,,87 - 85,-2
+0020301004,372,1,1,4,3:51 PM,5:34,,,Finley 19' Jump Shot (13 PTS) (Nash 12 AST),89 - 85,-4
+0020301004,373,2,42,4,3:51 PM,5:09,MISS Rogers  Driving Layup,,,,
+0020301004,374,4,0,4,3:51 PM,5:08,,,Nowitzki REBOUND (Off:0 Def:4),,
+0020301004,375,1,5,4,3:51 PM,5:03,,,Daniels  Layup (12 PTS) (Nash 13 AST),91 - 85,-6
+0020301004,376,1,1,4,3:52 PM,4:37,Jefferson 9' Jump Shot (20 PTS),,,91 - 87,-4
+0020301004,377,2,46,4,3:52 PM,4:15,,,MISS Daniels 6' Running Jump Shot,,
+0020301004,378,4,0,4,3:52 PM,4:14,Rogers REBOUND (Off:1 Def:8),,,,
+0020301004,379,1,1,4,3:52 PM,3:57,Rogers 25' 3PT Jump Shot (18 PTS) (Collins 5 AST),,,91 - 90,-1
+0020301004,380,2,47,4,3:53 PM,3:44,,,MISS Nowitzki 20' Turnaround Jump Shot,,
+0020301004,381,4,0,4,3:53 PM,3:42,,,Howard REBOUND (Off:2 Def:1),,
+0020301004,382,1,1,4,3:53 PM,3:38,,,Howard 12' Jump Shot (6 PTS),93 - 90,-3
+0020301004,383,2,1,4,3:53 PM,3:16,MISS Kittles 25' 3PT Jump Shot,,,,
+0020301004,384,4,0,4,3:53 PM,3:15,,,Nowitzki REBOUND (Off:0 Def:5),,
+0020301004,385,2,1,4,3:53 PM,3:03,,,MISS Nash 24' 3PT Jump Shot,,
+0020301004,386,4,0,4,3:53 PM,3:02,Collins REBOUND (Off:1 Def:3),,,,
+0020301004,387,6,2,4,3:54 PM,2:57,,,Nash S.FOUL (P3.T2),,
+0020301004,389,9,1,4,3:54 PM,2:57,,,Mavericks Timeout: Regular (Reg.4 Short 0),,
+0020301004,390,3,11,4,3:57 PM,2:57,Jefferson Free Throw 1 of 2 (21 PTS),,,93 - 91,-2
+0020301004,392,8,0,4,3:57 PM,2:57,,,SUB: Jamison FOR Daniels,,
+0020301004,393,3,12,4,3:57 PM,2:57,Jefferson Free Throw 2 of 2 (22 PTS),,,93 - 92,-1
+0020301004,394,1,1,4,3:58 PM,2:36,,,Nowitzki 11' Jump Shot (19 PTS) (Nash 14 AST),95 - 92,-3
+0020301004,395,5,2,4,3:58 PM,2:22,Rogers Lost Ball Turnover (P1.T18),,Nash STEAL (2 STL),,
+0020301004,396,2,1,4,3:58 PM,2:17,,,MISS Nowitzki 24' 3PT Jump Shot,,
+0020301004,397,4,0,4,3:58 PM,2:15,,,Nash REBOUND (Off:2 Def:3),,
+0020301004,398,2,1,4,3:58 PM,2:05,,,MISS Nash 19' Jump Shot,,
+0020301004,399,4,0,4,3:59 PM,2:03,Jefferson REBOUND (Off:1 Def:6),,,,
+0020301004,400,2,1,4,3:59 PM,1:50,MISS Rogers 25' 3PT Jump Shot,,,,
+0020301004,401,4,0,4,3:59 PM,1:49,Collins REBOUND (Off:2 Def:3),,,,
+0020301004,402,1,5,4,3:59 PM,1:46,Collins  Layup (9 PTS),,,95 - 94,-1
+0020301004,403,1,1,4,3:59 PM,1:33,,,Finley 20' Jump Shot (15 PTS) (Nash 15 AST),97 - 94,-3
+0020301004,404,9,1,4,3:59 PM,1:33,NETS Timeout: Regular (Full 5 Short 1),,,,
+0020301004,406,2,1,4,4:02 PM,1:25,MISS Jefferson 19' Jump Shot,,Howard BLOCK (2 BLK),,
+0020301004,407,4,0,4,4:03 PM,1:23,,,Mavericks Rebound,,
+0020301004,408,6,3,4,4:03 PM,1:23,Rogers L.B.FOUL (P5.T3),,,,
+0020301004,409,2,1,4,4:03 PM,1:08,,,MISS Nowitzki 19' Jump Shot,,
+0020301004,410,4,0,4,4:03 PM,1:07,Rogers REBOUND (Off:1 Def:9),,,,
+0020301004,411,1,3,4,4:03 PM,0:51,Collins 6' Hook Shot (11 PTS),,,97 - 96,-1
+0020301004,412,5,2,4,4:03 PM,0:40,Kittles STEAL (2 STL),,Nash Lost Ball Turnover (P4.T13),,
+0020301004,413,1,5,4,4:04 PM,0:33,Rogers  Layup (20 PTS) (Kittles 2 AST),,,97 - 98,1
+0020301004,414,9,1,4,4:04 PM,0:33,,,Mavericks Timeout: Regular (Reg.5 Short 0),,
+0020301004,416,1,1,4,4:06 PM,0:26,,,Nowitzki 13' Jump Shot (21 PTS) (Nash 16 AST),99 - 98,-1
+0020301004,417,9,1,4,4:06 PM,0:26,NETS Timeout: Regular (Full 6 Short 1),,,,
+0020301004,424,8,0,4,4:06 PM,0:26,,,SUB: Daniels FOR Jamison,,
+0020301004,418,2,5,4,4:09 PM,0:18,MISS Collins  Layup,,Nowitzki BLOCK (2 BLK),,
+0020301004,419,4,0,4,4:09 PM,0:17,,,Mavericks Rebound,,
+0020301004,420,5,1,4,4:09 PM,0:15,Rogers STEAL (3 STL),,Nowitzki Bad Pass Turnover (P2.T14),,
+0020301004,421,9,2,4,4:09 PM,0:10,NETS Timeout: Short (Full 6 Short 2),,,,
+0020301004,422,6,1,4,4:11 PM,0:05,,,Howard P.FOUL (P3.T3),,
+0020301004,423,5,1,4,4:11 PM,0:04,Harris Bad Pass Turnover (P2.T19),,Daniels STEAL (2 STL),,
+0020301004,425,6,1,4,4:12 PM,0:00,Kittles P.FOUL (P3.PN),,,,
+0020301004,426,3,11,4,4:12 PM,0:00,,,Nash Free Throw 1 of 2 (14 PTS),100 - 98,-2
+0020301004,427,3,12,4,4:12 PM,0:00,,,Nash Free Throw 2 of 2 (15 PTS),101 - 98,-3
+0020301004,429,13,0,4,4:12 PM,0:00,,,,101 - 98,-3

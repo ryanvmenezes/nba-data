@@ -1,0 +1,483 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029800184,0,12,0,1,1:13 PM,12:00,,,,,
+0029800184,1,10,0,1,1:13 PM,12:00,Jump Ball McDyess vs. Reeves: Tip to Van Exel,,,,
+0029800184,2,2,1,1,1:13 PM,11:40,MISS McDyess 15' Jump Shot,,,,
+0029800184,3,4,0,1,1:13 PM,11:39,,,Grizzlies Rebound,,
+0029800184,4,1,1,1,1:13 PM,11:33,,,Bibby 19' Jump Shot (2 PTS),2 - 0,-2
+0029800184,5,1,6,1,1:14 PM,11:18,Billups  Driving Layup (2 PTS),,,2 - 2,TIE
+0029800184,6,1,1,1,1:14 PM,11:00,,,Reeves 9' Jump Shot (2 PTS) (Mack 1 AST),4 - 2,-2
+0029800184,7,2,1,1,1:14 PM,10:39,MISS Billups 25' 3PT Jump Shot,,,,
+0029800184,8,4,0,1,1:14 PM,10:37,,,Grizzlies Rebound,,
+0029800184,9,1,1,1,1:15 PM,10:20,,,Reeves 19' Jump Shot (4 PTS) (Abdur-Rahim 1 AST),6 - 2,-4
+0029800184,10,6,1,1,1:15 PM,10:06,,,Smith P.FOUL (P1.T1),,
+0029800184,11,2,1,1,1:15 PM,9:58,MISS Fortson 10' Jump Shot,,,,
+0029800184,12,4,0,1,1:15 PM,9:55,,,Smith REBOUND (Off:0 Def:1),,
+0029800184,13,2,5,1,1:16 PM,9:47,McDyess BLOCK (1 BLK),,MISS Abdur-Rahim  Layup,,
+0029800184,14,4,0,1,1:16 PM,9:42,,,Reeves REBOUND (Off:1 Def:0),,
+0029800184,15,2,3,1,1:16 PM,9:40,,,MISS Reeves 6' Hook Shot,,
+0029800184,16,4,0,1,1:16 PM,9:37,McDyess REBOUND (Off:0 Def:1),,,,
+0029800184,17,1,1,1,1:16 PM,9:30,Stith 27' 3PT Jump Shot (3 PTS) (Van Exel 1 AST),,,6 - 5,-1
+0029800184,18,5,1,1,1:16 PM,9:12,Van Exel STEAL (1 STL),,Abdur-Rahim Bad Pass Turnover (P1.T1),,
+0029800184,19,2,6,1,1:16 PM,9:04,MISS Stith  Driving Layup,,,,
+0029800184,21,4,0,1,1:16 PM,9:01,McDyess REBOUND (Off:1 Def:1),,,,
+0029800184,20,1,8,1,1:16 PM,9:01,McDyess  Slam Dunk (2 PTS),,,6 - 7,1
+0029800184,22,2,1,1,1:17 PM,8:43,Fortson BLOCK (1 BLK),,MISS Reeves 10' Jump Shot,,
+0029800184,23,4,0,1,1:17 PM,8:42,,,Grizzlies Rebound,,
+0029800184,24,5,2,1,1:17 PM,8:40,Billups STEAL (1 STL),,Mack Lost Ball Turnover (P1.T2),,
+0029800184,25,6,4,1,1:17 PM,8:36,Billups OFF.Foul (P1),,,,
+0029800184,26,5,5,1,1:17 PM,8:36,Billups Foul Turnover (P1.T1),,,,
+0029800184,27,6,1,1,1:18 PM,8:23,Fortson P.FOUL (P1.T1),,,,
+0029800184,28,6,1,1,1:18 PM,8:15,Van Exel P.FOUL (P1.T2),,,,
+0029800184,29,1,5,1,1:19 PM,8:09,,,Smith  Layup (2 PTS) (Bibby 1 AST),8 - 7,-1
+0029800184,30,2,1,1,1:19 PM,8:02,MISS Billups 14' Jump Shot,,,,
+0029800184,31,4,0,1,1:19 PM,8:00,McDyess REBOUND (Off:2 Def:1),,,,
+0029800184,32,6,2,1,1:19 PM,8:00,,,Reeves S.FOUL (P1.T2),,
+0029800184,33,3,11,1,1:19 PM,8:00,McDyess Free Throw 1 of 2 (3 PTS),,,8 - 8,TIE
+0029800184,34,3,12,1,1:19 PM,8:00,McDyess Free Throw 2 of 2 (4 PTS),,,8 - 9,1
+0029800184,35,6,2,1,1:19 PM,7:51,Stith S.FOUL (P1.T3),,,,
+0029800184,36,3,11,1,1:20 PM,7:51,,,Abdur-Rahim Free Throw 1 of 2 (1 PTS),9 - 9,TIE
+0029800184,37,3,12,1,1:20 PM,7:51,,,Abdur-Rahim Free Throw 2 of 2 (2 PTS),10 - 9,-1
+0029800184,38,2,5,1,1:20 PM,7:35,MISS Fortson  Layup,,,,
+0029800184,40,4,0,1,1:20 PM,7:31,Fortson REBOUND (Off:1 Def:0),,,,
+0029800184,39,2,5,1,1:20 PM,7:31,MISS Fortson  Layup,,,,
+0029800184,42,4,0,1,1:20 PM,7:29,McDyess REBOUND (Off:3 Def:1),,,,
+0029800184,41,1,4,1,1:20 PM,7:29,McDyess  Tip Shot (6 PTS),,,10 - 11,1
+0029800184,43,1,5,1,1:21 PM,7:19,,,Smith  Layup (4 PTS) (Abdur-Rahim 2 AST),12 - 11,-1
+0029800184,44,6,2,1,1:21 PM,7:19,Van Exel S.FOUL (P2.T4),,,,
+0029800184,45,8,0,1,1:21 PM,7:19,SUB: Alexander FOR Van Exel,,,,
+0029800184,46,3,10,1,1:21 PM,7:19,,,Smith Free Throw 1 of 1 (5 PTS),13 - 11,-2
+0029800184,47,2,5,1,1:21 PM,7:09,MISS McDyess  Layup,,,,
+0029800184,49,4,0,1,1:21 PM,7:06,McDyess REBOUND (Off:4 Def:1),,,,
+0029800184,48,2,4,1,1:21 PM,7:06,MISS McDyess  Tip Shot,,,,
+0029800184,50,4,0,1,1:21 PM,7:03,,,Bibby REBOUND (Off:0 Def:1),,
+0029800184,51,1,1,1,1:21 PM,7:01,,,Bibby 18' Jump Shot (4 PTS),15 - 11,-4
+0029800184,52,1,8,1,1:22 PM,6:45,McDyess  Slam Dunk (8 PTS) (Stith 1 AST),,,15 - 13,-2
+0029800184,53,7,6,1,1:22 PM,6:27,Alexander Violation:Double Lane,,,,
+0029800184,55,9,1,1,1:22 PM,6:27,NUGGETS Timeout: Regular (Full 1 Short 0),,,,
+0029800184,56,2,3,1,1:24 PM,6:14,,,MISS Reeves 12' Hook Shot,,
+0029800184,57,4,0,1,1:24 PM,6:11,Alexander REBOUND (Off:0 Def:1),,,,
+0029800184,58,2,1,1,1:25 PM,6:02,MISS Stith 20' Jump Shot,,,,
+0029800184,59,4,0,1,1:25 PM,6:00,,,Bibby REBOUND (Off:0 Def:2),,
+0029800184,60,1,7,1,1:25 PM,5:58,,,Abdur-Rahim  Dunk (4 PTS) (Bibby 2 AST),17 - 13,-4
+0029800184,61,1,1,1,1:25 PM,5:39,McDyess 7' Jump Shot (10 PTS) (Alexander 1 AST),,,17 - 15,-2
+0029800184,62,1,1,1,1:25 PM,5:25,,,Bibby 17' Jump Shot (6 PTS) (Abdur-Rahim 3 AST),19 - 15,-4
+0029800184,63,2,1,1,1:25 PM,5:12,MISS McDyess 15' Jump Shot,,,,
+0029800184,64,4,0,1,1:25 PM,5:09,,,Reeves REBOUND (Off:1 Def:1),,
+0029800184,65,1,1,1,1:26 PM,4:57,,,Reeves 20' Jump Shot (6 PTS) (Abdur-Rahim 4 AST),21 - 15,-6
+0029800184,66,1,5,1,1:26 PM,4:44,McDyess  Layup (12 PTS) (Stith 2 AST),,,21 - 17,-4
+0029800184,67,6,2,1,1:26 PM,4:44,,,Reeves S.FOUL (P2.T3),,
+0029800184,68,8,0,1,1:26 PM,4:44,,,SUB: Massenburg FOR Reeves,,
+0029800184,69,8,0,1,1:26 PM,4:44,,,SUB: Parks FOR Smith,,
+0029800184,70,3,10,1,1:26 PM,4:44,McDyess Free Throw 1 of 1 (13 PTS),,,21 - 18,-3
+0029800184,71,2,1,1,1:27 PM,4:29,,,MISS Abdur-Rahim 21' Jump Shot,,
+0029800184,72,4,0,1,1:27 PM,4:28,NUGGETS Rebound,,,,
+0029800184,73,6,2,1,1:27 PM,4:23,,,Bibby S.FOUL (P1.T4),,
+0029800184,74,3,11,1,1:27 PM,4:23,Fortson Free Throw 1 of 2 (1 PTS),,,21 - 19,-2
+0029800184,75,3,12,1,1:27 PM,4:23,Fortson Free Throw 2 of 2 (2 PTS),,,21 - 20,-1
+0029800184,76,5,16,1,1:28 PM,4:13,,,Grizzlies Turnover: Isolation Violation (T#3),,
+0029800184,77,5,1,1,1:28 PM,4:03,Billups Bad Pass Turnover (P2.T2),,Parks STEAL (1 STL),,
+0029800184,78,1,1,1,1:28 PM,3:55,,,Massenburg 8' Jump Shot (2 PTS) (Bibby 3 AST),23 - 20,-3
+0029800184,79,1,8,1,1:28 PM,3:49,McDyess  Slam Dunk (15 PTS) (Alexander 2 AST),,,23 - 22,-1
+0029800184,80,2,1,1,1:28 PM,3:34,,,MISS Bibby 18' Jump Shot,,
+0029800184,81,4,0,1,1:28 PM,3:32,Fortson REBOUND (Off:1 Def:1),,,,
+0029800184,82,7,6,1,1:29 PM,3:23,,,Mack Violation:Double Lane,,
+0029800184,83,6,2,1,1:29 PM,3:18,,,Massenburg S.FOUL (P1.PN),,
+0029800184,84,8,0,1,1:29 PM,3:18,,,SUB: West FOR Mack,,
+0029800184,85,3,11,1,1:29 PM,3:18,McDyess Free Throw 1 of 2 (16 PTS),,,23 - 23,TIE
+0029800184,86,8,0,1,1:29 PM,3:18,SUB: Clark FOR Fortson,,,,
+0029800184,87,8,0,1,1:29 PM,3:18,SUB: Williams FOR Stith,,,,
+0029800184,88,3,12,1,1:30 PM,3:18,McDyess Free Throw 2 of 2 (17 PTS),,,23 - 24,1
+0029800184,89,2,5,1,1:30 PM,2:58,Clark BLOCK (1 BLK),,MISS West  Layup,,
+0029800184,90,4,0,1,1:30 PM,2:55,McDyess REBOUND (Off:4 Def:2),,,,
+0029800184,91,5,1,1,1:30 PM,2:53,McDyess Bad Pass Turnover (P1.T3),,Parks STEAL (2 STL),,
+0029800184,92,1,1,1,1:30 PM,2:49,,,Parks 16' Jump Shot (2 PTS) (Bibby 4 AST),25 - 24,-1
+0029800184,93,1,8,1,1:30 PM,2:38,Clark  Slam Dunk (2 PTS) (Alexander 3 AST),,,25 - 26,1
+0029800184,94,2,3,1,1:31 PM,2:17,,,MISS Abdur-Rahim 13' Hook Shot,,
+0029800184,95,4,0,1,1:31 PM,2:14,McDyess REBOUND (Off:4 Def:3),,,,
+0029800184,96,5,2,1,1:31 PM,2:14,Billups Lost Ball Turnover (P3.T4),,,,
+0029800184,97,9,1,1,1:31 PM,2:14,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,
+0029800184,99,8,0,1,1:33 PM,2:14,,,SUB: Wheat FOR Bibby,,
+0029800184,100,2,5,1,1:33 PM,1:54,,,MISS Abdur-Rahim  Layup,,
+0029800184,101,4,0,1,1:33 PM,1:52,McDyess REBOUND (Off:4 Def:4),,,,
+0029800184,102,1,5,1,1:33 PM,1:48,Williams  Layup (2 PTS) (Billups 1 AST),,,25 - 28,3
+0029800184,103,2,1,1,1:34 PM,1:26,McDyess BLOCK (2 BLK),,MISS Massenburg 9' Jump Shot,,
+0029800184,104,4,0,1,1:34 PM,1:23,McDyess REBOUND (Off:4 Def:5),,,,
+0029800184,105,5,1,1,1:34 PM,1:19,Williams Bad Pass Turnover (P1.T5),,,,
+0029800184,106,1,1,1,1:34 PM,0:58,,,Massenburg 11' Jump Shot (4 PTS),27 - 28,1
+0029800184,107,6,1,1,1:35 PM,0:54,,,Wheat P.FOUL (P1.PN),,
+0029800184,108,3,11,1,1:35 PM,0:54,McDyess Free Throw 1 of 2 (18 PTS),,,27 - 29,2
+0029800184,109,3,12,1,1:35 PM,0:54,McDyess Free Throw 2 of 2 (19 PTS),,,27 - 30,3
+0029800184,110,6,3,1,1:36 PM,0:38,,,Massenburg L.B.FOUL (P2.PN),,
+0029800184,111,5,5,1,1:36 PM,0:38,,,Massenburg Foul Turnover (P1.T4),,
+0029800184,112,3,11,1,1:36 PM,0:38,McDyess Free Throw 1 of 2 (20 PTS),,,27 - 31,4
+0029800184,113,3,12,1,1:36 PM,0:38,MISS McDyess Free Throw 2 of 2,,,,
+0029800184,114,4,0,1,1:36 PM,0:36,Williams REBOUND (Off:1 Def:0),,,,
+0029800184,115,6,2,1,1:37 PM,0:36,,,Abdur-Rahim S.FOUL (P1.PN),,
+0029800184,116,3,11,1,1:37 PM,0:36,Williams Free Throw 1 of 2 (3 PTS),,,27 - 32,5
+0029800184,117,3,12,1,1:37 PM,0:36,Williams Free Throw 2 of 2 (4 PTS),,,27 - 33,6
+0029800184,118,5,1,1,1:37 PM,0:21,Billups STEAL (2 STL),,Wheat Bad Pass Turnover (P1.T5),,
+0029800184,119,1,5,1,1:37 PM,0:17,Billups  Layup (4 PTS),,,27 - 35,8
+0029800184,120,2,5,1,1:38 PM,0:00,,,MISS Wheat  Layup,,
+0029800184,122,4,0,1,1:38 PM,0:00,,,Massenburg REBOUND (Off:1 Def:0),,
+0029800184,121,1,4,1,1:38 PM,0:00,,,Massenburg  Tip Shot (6 PTS),29 - 35,6
+0029800184,124,13,0,1,1:38 PM,0:00,,,,29 - 35,6
+0029800184,125,12,0,2,1:40 PM,12:00,,,,29 - 35,6
+0029800184,126,2,1,2,1:41 PM,11:39,,,MISS West 19' Jump Shot,,
+0029800184,127,4,0,2,1:41 PM,11:36,Fortson REBOUND (Off:1 Def:2),,,,
+0029800184,128,2,1,2,1:41 PM,11:14,MISS Fortson 15' Jump Shot,,,,
+0029800184,129,4,0,2,1:41 PM,11:10,,,Wheat REBOUND (Off:0 Def:1),,
+0029800184,131,2,1,2,1:42 PM,10:51,,,MISS Mack 7' Jump Shot,,
+0029800184,132,4,0,2,1:42 PM,10:49,Fortson REBOUND (Off:1 Def:3),,,,
+0029800184,133,1,1,2,1:42 PM,10:43,Alexander 28' 3PT Jump Shot (3 PTS),,,29 - 38,9
+0029800184,134,1,6,2,1:42 PM,10:27,,,Wheat  Driving Layup (2 PTS),31 - 38,7
+0029800184,135,2,1,2,1:43 PM,10:05,MISS Williams 14' Jump Shot,,,,
+0029800184,136,4,0,2,1:43 PM,10:03,,,Mack REBOUND (Off:0 Def:1),,
+0029800184,137,2,1,2,1:43 PM,9:56,,,MISS West 17' Jump Shot,,
+0029800184,138,4,0,2,1:43 PM,9:53,,,Grizzlies Rebound,,
+0029800184,139,8,0,2,1:43 PM,9:53,,,SUB: Bibby FOR Wheat,,
+0029800184,140,9,4,2,1:43 PM,9:53,,,,,
+0029800184,142,1,1,2,1:45 PM,9:45,,,Reeves 15' Jump Shot (8 PTS) (Bibby 5 AST),33 - 38,5
+0029800184,143,6,4,2,1:45 PM,9:34,Washington OFF.Foul (P1),,,,
+0029800184,144,5,5,2,1:45 PM,9:34,Washington Foul Turnover (P1.T6),,,,
+0029800184,145,2,1,2,1:46 PM,9:14,,,MISS Parks 14' Jump Shot,,
+0029800184,146,4,0,2,1:46 PM,9:11,Clark REBOUND (Off:0 Def:1),,,,
+0029800184,147,6,2,2,1:46 PM,9:07,,,West S.FOUL (P1.T1),,
+0029800184,148,3,11,2,1:46 PM,9:07,Fortson Free Throw 1 of 2 (3 PTS),,,33 - 39,6
+0029800184,149,3,12,2,1:46 PM,9:07,Fortson Free Throw 2 of 2 (4 PTS),,,33 - 40,7
+0029800184,150,1,5,2,1:47 PM,8:56,,,West  Layup (2 PTS) (Reeves 1 AST),35 - 40,5
+0029800184,151,5,2,2,1:47 PM,8:44,Williams Lost Ball Turnover (P2.T7),,West STEAL (1 STL),,
+0029800184,152,1,1,2,1:47 PM,8:29,,,Reeves 13' Jump Shot (10 PTS),37 - 40,3
+0029800184,153,6,2,2,1:47 PM,8:24,,,West S.FOUL (P2.T2),,
+0029800184,154,8,0,2,1:48 PM,8:24,SUB: Van Exel FOR Washington,,,,
+0029800184,155,8,0,2,1:48 PM,8:24,SUB: McDyess FOR Clark,,,,
+0029800184,156,8,0,2,1:48 PM,8:24,,,SUB: Abdur-Rahim FOR West,,
+0029800184,157,3,11,2,1:48 PM,8:24,Fortson Free Throw 1 of 2 (5 PTS),,,37 - 41,4
+0029800184,158,3,12,2,1:48 PM,8:24,Fortson Free Throw 2 of 2 (6 PTS),,,37 - 42,5
+0029800184,159,2,1,2,1:49 PM,7:59,,,MISS Mack  3PT Jump Shot,,
+0029800184,160,4,0,2,1:49 PM,7:57,Fortson REBOUND (Off:1 Def:4),,,,
+0029800184,161,2,1,2,1:49 PM,7:51,MISS Alexander 26' 3PT Jump Shot,,,,
+0029800184,162,4,0,2,1:49 PM,7:47,,,Abdur-Rahim REBOUND (Off:0 Def:1),,
+0029800184,163,6,1,2,1:49 PM,7:45,Alexander P.FOUL (P1.T1),,,,
+0029800184,164,2,1,2,1:49 PM,7:38,,,MISS Abdur-Rahim 17' Jump Shot,,
+0029800184,165,4,0,2,1:49 PM,7:35,Fortson REBOUND (Off:1 Def:5),,,,
+0029800184,166,1,8,2,1:49 PM,7:32,McDyess  Slam Dunk (22 PTS) (Van Exel 2 AST),,,37 - 44,7
+0029800184,167,6,1,2,1:50 PM,7:14,Van Exel P.FOUL (P3.T2),,,,
+0029800184,168,8,0,2,1:50 PM,7:14,,,SUB: Massenburg FOR Parks,,
+0029800184,169,8,0,2,1:50 PM,7:14,,,SUB: Smith FOR Reeves,,
+0029800184,170,8,0,2,1:50 PM,7:14,SUB: Billups FOR Van Exel,,,,
+0029800184,180,2,1,2,1:50 PM,7:02,,,MISS Abdur-Rahim 16' Jump Shot,,
+0029800184,171,4,0,2,1:50 PM,7:02,,,Massenburg REBOUND (Off:2 Def:0),,
+0029800184,172,2,5,2,1:50 PM,7:00,Fortson BLOCK (2 BLK),,MISS Massenburg  Layup,,
+0029800184,173,4,0,2,1:51 PM,6:57,Billups REBOUND (Off:0 Def:1),,,,
+0029800184,174,2,1,2,1:51 PM,6:49,MISS Billups 25' 3PT Jump Shot,,,,
+0029800184,175,4,0,2,1:51 PM,6:48,,,Bibby REBOUND (Off:0 Def:3),,
+0029800184,176,1,6,2,1:51 PM,6:48,,,Bibby  Driving Layup (8 PTS),39 - 44,5
+0029800184,177,6,2,2,1:51 PM,6:48,Alexander S.FOUL (P2.T3),,,,
+0029800184,178,9,1,2,1:51 PM,6:48,NUGGETS Timeout: Regular (Full 2 Short 0),,,,
+0029800184,181,8,0,2,1:53 PM,6:48,SUB: Stith FOR Williams,,,,
+0029800184,182,3,10,2,1:53 PM,6:48,,,Bibby Free Throw 1 of 1 (9 PTS),40 - 44,4
+0029800184,183,2,1,2,1:54 PM,6:27,MISS Alexander 24' 3PT Jump Shot,,,,
+0029800184,184,4,0,2,1:54 PM,6:24,,,Massenburg REBOUND (Off:2 Def:1),,
+0029800184,185,2,5,2,1:54 PM,6:17,,,MISS Smith  Layup,,
+0029800184,186,4,0,2,1:54 PM,6:15,Fortson REBOUND (Off:1 Def:6),,,,
+0029800184,187,2,1,2,1:54 PM,6:01,MISS Alexander 15' Jump Shot,,,,
+0029800184,188,4,0,2,1:54 PM,5:58,,,Massenburg REBOUND (Off:2 Def:2),,
+0029800184,189,5,4,2,1:54 PM,5:53,,,Abdur-Rahim Traveling Turnover (P2.T6),,
+0029800184,190,6,2,2,1:55 PM,5:40,,,Smith S.FOUL (P2.T3),,
+0029800184,191,3,11,2,1:55 PM,5:40,MISS McDyess Free Throw 1 of 2,,,,
+0029800184,192,4,2,2,1:55 PM,5:40,NUGGETS Rebound,,,,
+0029800184,193,3,12,2,1:55 PM,5:40,MISS McDyess Free Throw 2 of 2,,,,
+0029800184,194,4,0,2,1:55 PM,5:38,,,Smith REBOUND (Off:0 Def:2),,
+0029800184,195,6,2,2,1:55 PM,5:32,McDyess S.FOUL (P1.T4),,,,
+0029800184,196,3,11,2,1:55 PM,5:32,,,Massenburg Free Throw 1 of 2 (7 PTS),41 - 44,3
+0029800184,197,3,12,2,1:56 PM,5:32,,,Massenburg Free Throw 2 of 2 (8 PTS),42 - 44,2
+0029800184,198,1,1,2,1:56 PM,5:09,Stith  3PT Jump Shot (6 PTS) (Alexander 4 AST),,,42 - 47,5
+0029800184,199,2,1,2,1:56 PM,4:56,,,MISS Massenburg 13' Jump Shot,,
+0029800184,200,4,0,2,1:56 PM,4:54,Fortson REBOUND (Off:1 Def:7),,,,
+0029800184,201,1,2,2,1:56 PM,4:49,McDyess 6' Running Jump Shot (24 PTS) (Billups 2 AST),,,42 - 49,7
+0029800184,202,6,2,2,1:57 PM,4:31,McDyess S.FOUL (P2.PN),,,,
+0029800184,203,3,11,2,1:57 PM,4:31,,,Massenburg Free Throw 1 of 2 (9 PTS),43 - 49,6
+0029800184,204,3,12,2,1:57 PM,4:31,,,MISS Massenburg Free Throw 2 of 2,,
+0029800184,205,4,0,2,1:57 PM,4:30,Alexander REBOUND (Off:0 Def:2),,,,
+0029800184,206,1,1,2,1:58 PM,4:07,Stith  3PT Jump Shot (9 PTS) (Fortson 1 AST),,,43 - 52,9
+0029800184,207,1,1,2,1:58 PM,3:52,,,Massenburg 17' Jump Shot (11 PTS) (Smith 1 AST),45 - 52,7
+0029800184,208,9,2,2,1:58 PM,3:50,NUGGETS Timeout: Short (Full 2 Short 1),,,,
+0029800184,209,8,0,2,1:59 PM,3:50,SUB: Clark FOR Stith,,,,
+0029800184,210,5,1,2,1:59 PM,3:40,Billups Bad Pass Turnover (P4.T8),,Smith STEAL (1 STL),,
+0029800184,211,2,1,2,1:59 PM,3:30,,,MISS Massenburg 6' Jump Shot,,
+0029800184,213,4,0,2,2:00 PM,3:28,,,Smith REBOUND (Off:1 Def:2),,
+0029800184,212,1,4,2,2:00 PM,3:28,,,Smith  Tip Shot (7 PTS),47 - 52,5
+0029800184,214,2,5,2,2:00 PM,3:17,MISS Fortson  Layup,,,,
+0029800184,216,4,0,2,2:00 PM,3:14,Fortson REBOUND (Off:2 Def:7),,,,
+0029800184,215,1,5,2,2:00 PM,3:14,Fortson  Layup (8 PTS),,,47 - 54,7
+0029800184,217,1,6,2,2:00 PM,3:01,,,Abdur-Rahim  Driving Layup (6 PTS) (Bibby 6 AST),49 - 54,5
+0029800184,218,1,1,2,2:00 PM,2:37,Alexander 15' Jump Shot (5 PTS) (Billups 3 AST),,,49 - 56,7
+0029800184,219,6,1,2,2:01 PM,2:27,Clark P.FOUL (P1.PN),,,,
+0029800184,220,9,1,2,2:01 PM,2:27,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,
+0029800184,222,8,0,2,2:02 PM,2:27,SUB: Williams FOR Fortson,,,,
+0029800184,223,8,0,2,2:03 PM,2:27,,,SUB: Mayberry FOR Bibby,,
+0029800184,224,3,11,2,2:03 PM,2:27,,,Abdur-Rahim Free Throw 1 of 2 (7 PTS),50 - 56,6
+0029800184,225,3,12,2,2:03 PM,2:27,,,Abdur-Rahim Free Throw 2 of 2 (8 PTS),51 - 56,5
+0029800184,226,2,1,2,2:04 PM,2:06,MISS Williams 13' Jump Shot,,,,
+0029800184,228,4,0,2,2:04 PM,2:03,McDyess REBOUND (Off:5 Def:5),,,,
+0029800184,227,2,5,2,2:04 PM,2:03,MISS McDyess  Layup,,,,
+0029800184,230,4,0,2,2:04 PM,2:00,McDyess REBOUND (Off:6 Def:5),,,,
+0029800184,229,2,1,2,2:04 PM,2:00,MISS McDyess 13' Jump Shot,,Abdur-Rahim BLOCK (1 BLK),,
+0029800184,231,4,0,2,2:04 PM,1:57,,,Mayberry REBOUND (Off:0 Def:1),,
+0029800184,232,5,4,2,2:04 PM,1:57,,,Smith Traveling Turnover (P1.T7),,
+0029800184,233,2,1,2,2:04 PM,1:40,MISS Billups 17' Jump Shot,,,,
+0029800184,234,4,0,2,2:04 PM,1:35,,,Smith REBOUND (Off:1 Def:3),,
+0029800184,235,5,4,2,2:05 PM,1:24,,,Smith Traveling Turnover (P2.T8),,
+0029800184,236,1,1,2,2:05 PM,1:07,McDyess 13' Jump Shot (26 PTS) (Alexander 5 AST),,,51 - 58,7
+0029800184,237,5,1,2,2:05 PM,1:02,Alexander STEAL (1 STL),,Smith Bad Pass Turnover (P3.T9),,
+0029800184,238,6,1,2,2:05 PM,0:53,,,Massenburg P.FOUL (P3.T4),,
+0029800184,239,6,2,2,2:06 PM,0:49,,,Mack S.FOUL (P1.PN),,
+0029800184,240,3,11,2,2:06 PM,0:49,McDyess Free Throw 1 of 2 (27 PTS),,,51 - 59,8
+0029800184,241,8,0,2,2:06 PM,0:49,,,SUB: Reeves FOR Massenburg,,
+0029800184,242,3,12,2,2:06 PM,0:49,McDyess Free Throw 2 of 2 (28 PTS),,,51 - 60,9
+0029800184,244,7,3,2,2:07 PM,0:36,Clark Violation:Lane,,,,
+0029800184,243,1,1,2,2:07 PM,0:36,,,Abdur-Rahim 7' Jump Shot (10 PTS),53 - 60,7
+0029800184,245,2,1,2,2:07 PM,0:17,MISS Alexander 15' Jump Shot,,,,
+0029800184,246,4,0,2,2:07 PM,0:14,Alexander REBOUND (Off:1 Def:2),,,,
+0029800184,247,1,5,2,2:07 PM,0:14,Clark  Layup (4 PTS) (Williams 1 AST),,,53 - 62,9
+0029800184,248,1,1,2,2:07 PM,0:00,,,Smith 15' Jump Shot (9 PTS) (Mayberry 1 AST),55 - 62,7
+0029800184,249,13,0,2,2:08 PM,0:00,,,,55 - 62,7
+0029800184,251,12,0,3,2:24 PM,12:00,,,,55 - 62,7
+0029800184,252,1,1,3,2:24 PM,11:45,,,Abdur-Rahim 20' Jump Shot (12 PTS) (Reeves 2 AST),57 - 62,5
+0029800184,253,1,1,3,2:24 PM,11:28,Billups 19' Jump Shot (6 PTS) (Fortson 2 AST),,,57 - 64,7
+0029800184,254,6,2,3,2:25 PM,11:13,Williams S.FOUL (P1.T1),,,,
+0029800184,255,3,11,3,2:25 PM,11:13,,,MISS Abdur-Rahim Free Throw 1 of 2,,
+0029800184,256,4,2,3,2:25 PM,11:13,,,Grizzlies Rebound,,
+0029800184,257,3,12,3,2:25 PM,11:13,,,Abdur-Rahim Free Throw 2 of 2 (13 PTS),58 - 64,6
+0029800184,258,7,6,3,2:25 PM,11:01,,,Mack Violation:Double Lane,,
+0029800184,259,2,1,3,2:26 PM,10:50,MISS Williams 7' Jump Shot,,,,
+0029800184,260,4,0,3,2:26 PM,10:47,,,Abdur-Rahim REBOUND (Off:0 Def:2),,
+0029800184,261,6,1,3,2:26 PM,10:40,Billups P.FOUL (P2.T2),,,,
+0029800184,262,1,1,3,2:26 PM,10:33,,,Bibby 16' Jump Shot (11 PTS),60 - 64,4
+0029800184,263,2,1,3,2:27 PM,10:15,MISS McDyess 19' Jump Shot,,,,
+0029800184,264,4,0,3,2:27 PM,10:12,,,Smith REBOUND (Off:1 Def:4),,
+0029800184,265,6,2,3,2:27 PM,9:56,Fortson S.FOUL (P2.T3),,,,
+0029800184,266,3,11,3,2:27 PM,9:56,,,MISS Smith Free Throw 1 of 2,,
+0029800184,267,4,2,3,2:27 PM,9:56,,,Grizzlies Rebound,,
+0029800184,268,3,12,3,2:27 PM,9:56,,,Smith Free Throw 2 of 2 (10 PTS),61 - 64,3
+0029800184,269,1,1,3,2:28 PM,9:45,McDyess 12' Jump Shot (30 PTS) (Van Exel 3 AST),,,61 - 66,5
+0029800184,270,2,1,3,2:28 PM,9:26,,,MISS Reeves 15' Jump Shot,,
+0029800184,271,4,0,3,2:28 PM,9:22,McDyess REBOUND (Off:6 Def:6),,,,
+0029800184,272,5,2,3,2:28 PM,9:17,Fortson Lost Ball Turnover (P1.T9),,Abdur-Rahim STEAL (1 STL),,
+0029800184,273,1,1,3,2:28 PM,9:10,,,Bibby 19' Jump Shot (13 PTS),63 - 66,3
+0029800184,274,5,1,3,2:29 PM,8:47,Billups Bad Pass Turnover (P5.T10),,Abdur-Rahim STEAL (2 STL),,
+0029800184,275,1,7,3,2:29 PM,8:42,,,Smith  Dunk (12 PTS) (Bibby 7 AST),65 - 66,1
+0029800184,276,9,1,3,2:29 PM,8:41,NUGGETS Timeout: Regular (Full 3 Short 1),,,,
+0029800184,278,2,1,3,2:31 PM,8:16,MISS Van Exel 27' 3PT Jump Shot,,,,
+0029800184,279,4,0,3,2:31 PM,8:14,,,Abdur-Rahim REBOUND (Off:0 Def:3),,
+0029800184,280,6,10,3,2:32 PM,8:14,,,,,
+0029800184,282,8,0,3,2:32 PM,8:14,SUB: Alexander FOR Billups,,,,
+0029800184,283,2,6,3,2:32 PM,8:02,,,MISS Bibby  Driving Layup,,
+0029800184,284,4,0,3,2:32 PM,7:59,Fortson REBOUND (Off:2 Def:8),,,,
+0029800184,285,1,6,3,2:33 PM,7:39,McDyess  Driving Layup (32 PTS),,,65 - 68,3
+0029800184,286,2,1,3,2:33 PM,7:31,,,MISS Abdur-Rahim 10' Jump Shot,,
+0029800184,288,4,0,3,2:33 PM,7:28,,,Reeves REBOUND (Off:2 Def:1),,
+0029800184,287,2,4,3,2:33 PM,7:28,,,MISS Reeves  Tip Shot,,
+0029800184,289,4,0,3,2:33 PM,7:26,Alexander REBOUND (Off:1 Def:3),,,,
+0029800184,290,5,8,3,2:33 PM,7:15,Fortson 3 Second Violation Turnover (P2.T11),,,,
+0029800184,291,8,0,3,2:33 PM,7:15,SUB: Washington FOR Williams,,,,
+0029800184,292,6,2,3,2:34 PM,7:02,Alexander S.FOUL (P3.T4),,,,
+0029800184,293,3,11,3,2:34 PM,7:02,,,MISS Reeves Free Throw 1 of 2,,
+0029800184,294,4,2,3,2:34 PM,7:02,,,Grizzlies Rebound,,
+0029800184,295,3,12,3,2:34 PM,7:02,,,Reeves Free Throw 2 of 2 (11 PTS),66 - 68,2
+0029800184,296,5,4,3,2:34 PM,6:45,McDyess Traveling Turnover (P2.T12),,,,
+0029800184,297,5,1,3,2:35 PM,6:28,Fortson STEAL (1 STL),,Abdur-Rahim Bad Pass Turnover (P3.T10),,
+0029800184,298,1,5,3,2:35 PM,6:18,Fortson  Layup (10 PTS) (Van Exel 4 AST),,,66 - 70,4
+0029800184,299,9,1,3,2:35 PM,6:16,,,Grizzlies Timeout: Regular (Reg.3 Short 0),,
+0029800184,301,1,1,3,2:37 PM,5:58,,,Mack 25' 3PT Jump Shot (3 PTS) (Reeves 3 AST),69 - 70,1
+0029800184,302,1,1,3,2:38 PM,5:35,Alexander 22' Jump Shot (7 PTS) (Van Exel 5 AST),,,69 - 72,3
+0029800184,303,7,2,3,2:38 PM,5:19,Fortson Violation:Defensive Goaltending,,,,
+0029800184,304,8,0,3,2:38 PM,5:19,,,SUB: Parks FOR Reeves,,
+0029800184,305,8,0,3,2:38 PM,5:19,,,SUB: Massenburg FOR Smith,,
+0029800184,306,6,2,3,2:39 PM,5:07,Fortson S.FOUL (P4.PN),,,,
+0029800184,307,3,11,3,2:39 PM,5:07,,,Massenburg Free Throw 1 of 2 (12 PTS),70 - 72,2
+0029800184,308,8,0,3,2:39 PM,5:07,SUB: Clark FOR Fortson,,,,
+0029800184,309,3,12,3,2:39 PM,5:07,,,MISS Massenburg Free Throw 2 of 2,,
+0029800184,310,4,0,3,2:39 PM,5:04,,,Massenburg REBOUND (Off:3 Def:2),,
+0029800184,311,2,1,3,2:39 PM,5:00,,,MISS Mack 24' 3PT Jump Shot,,
+0029800184,312,4,0,3,2:39 PM,4:55,McDyess REBOUND (Off:6 Def:7),,,,
+0029800184,313,2,2,3,2:39 PM,4:48,MISS Van Exel 11' Running Jump Shot,,,,
+0029800184,314,4,0,3,2:40 PM,4:44,,,Mack REBOUND (Off:0 Def:2),,
+0029800184,315,5,1,3,2:40 PM,4:38,Clark STEAL (1 STL),,Mack Bad Pass Turnover (P2.T11),,
+0029800184,316,2,1,3,2:40 PM,4:25,MISS Alexander 26' 3PT Jump Shot,,,,
+0029800184,317,4,0,3,2:40 PM,4:23,,,Mack REBOUND (Off:0 Def:3),,
+0029800184,318,2,1,3,2:40 PM,4:05,,,MISS Parks 12' Jump Shot,,
+0029800184,319,4,0,3,2:40 PM,4:02,McDyess REBOUND (Off:6 Def:8),,,,
+0029800184,320,1,1,3,2:41 PM,3:47,Washington 24' 3PT Jump Shot (3 PTS) (Alexander 6 AST),,,70 - 75,5
+0029800184,321,6,2,3,2:41 PM,3:25,McDyess S.FOUL (P3.PN),,,,
+0029800184,322,8,0,3,2:41 PM,3:25,,,SUB: Lopez FOR Mack,,
+0029800184,323,3,11,3,2:41 PM,3:25,,,MISS Massenburg Free Throw 1 of 2,,
+0029800184,324,4,2,3,2:41 PM,3:25,,,Grizzlies Rebound,,
+0029800184,325,3,12,3,2:41 PM,3:25,,,MISS Massenburg Free Throw 2 of 2,,
+0029800184,326,4,0,3,2:41 PM,3:23,McDyess REBOUND (Off:6 Def:9),,,,
+0029800184,327,1,1,3,2:42 PM,3:18,Washington 26' 3PT Jump Shot (6 PTS) (Van Exel 6 AST),,,70 - 78,8
+0029800184,328,6,2,3,2:42 PM,3:09,McDyess S.FOUL (P4.PN),,,,
+0029800184,329,3,11,3,2:42 PM,3:09,,,MISS Massenburg Free Throw 1 of 2,,
+0029800184,330,4,2,3,2:42 PM,3:09,,,Grizzlies Rebound,,
+0029800184,331,8,0,3,2:42 PM,3:09,SUB: Meyer FOR McDyess,,,,
+0029800184,332,3,12,3,2:42 PM,3:09,,,Massenburg Free Throw 2 of 2 (13 PTS),71 - 78,7
+0029800184,333,5,1,3,2:42 PM,3:04,Van Exel Bad Pass Turnover (P1.T13),,Massenburg STEAL (1 STL),,
+0029800184,334,6,2,3,2:43 PM,2:54,Washington S.FOUL (P2.PN),,,,
+0029800184,335,3,11,3,2:43 PM,2:54,,,Abdur-Rahim Free Throw 1 of 2 (14 PTS),72 - 78,6
+0029800184,336,3,12,3,2:43 PM,2:54,,,Abdur-Rahim Free Throw 2 of 2 (15 PTS),73 - 78,5
+0029800184,337,6,2,3,2:44 PM,2:32,,,Massenburg S.FOUL (P4.T1),,
+0029800184,338,8,0,3,2:44 PM,2:32,SUB: Billups FOR Alexander,,,,
+0029800184,339,3,11,3,2:44 PM,2:32,Van Exel Free Throw 1 of 2 (1 PTS),,,73 - 79,6
+0029800184,340,8,0,3,2:44 PM,2:32,,,SUB: Reeves FOR Massenburg,,
+0029800184,341,3,12,3,2:44 PM,2:32,Van Exel Free Throw 2 of 2 (2 PTS),,,73 - 80,7
+0029800184,342,5,4,3,2:45 PM,2:19,,,Lopez Traveling Turnover (P1.T12),,
+0029800184,343,2,1,3,2:45 PM,2:10,MISS Meyer 16' Jump Shot,,,,
+0029800184,344,4,0,3,2:45 PM,2:08,Clark REBOUND (Off:1 Def:1),,,,
+0029800184,345,1,1,3,2:45 PM,2:04,Washington 24' 3PT Jump Shot (9 PTS) (Clark 1 AST),,,73 - 83,10
+0029800184,346,9,2,3,2:45 PM,1:58,,,Grizzlies Timeout: Short (Reg.3 Short 1),,
+0029800184,347,2,1,3,2:46 PM,1:41,,,MISS Reeves 13' Jump Shot,,
+0029800184,348,4,0,3,2:46 PM,1:39,Washington REBOUND (Off:0 Def:1),,,,
+0029800184,349,6,2,3,2:46 PM,1:35,,,Bibby S.FOUL (P2.T2),,
+0029800184,350,8,0,3,2:46 PM,1:35,,,SUB: West FOR Parks,,
+0029800184,351,3,11,3,2:47 PM,1:35,Van Exel Free Throw 1 of 2 (3 PTS),,,73 - 84,11
+0029800184,352,3,12,3,2:47 PM,1:35,Van Exel Free Throw 2 of 2 (4 PTS),,,73 - 85,12
+0029800184,353,6,2,3,2:47 PM,1:24,Billups S.FOUL (P3.PN),,,,
+0029800184,354,3,11,3,2:47 PM,1:24,,,Reeves Free Throw 1 of 2 (12 PTS),74 - 85,11
+0029800184,355,3,12,3,2:48 PM,1:24,,,MISS Reeves Free Throw 2 of 2,,
+0029800184,356,4,0,3,2:48 PM,1:23,,,Abdur-Rahim REBOUND (Off:1 Def:3),,
+0029800184,357,2,1,3,2:48 PM,1:16,,,MISS Bibby 26' 3PT Jump Shot,,
+0029800184,358,4,0,3,2:48 PM,1:14,Billups REBOUND (Off:0 Def:2),,,,
+0029800184,359,5,2,3,2:48 PM,1:12,Washington Lost Ball Turnover (P2.T14),,,,
+0029800184,360,2,2,3,2:48 PM,0:54,Meyer BLOCK (1 BLK),,MISS Abdur-Rahim 7' Running Jump Shot,,
+0029800184,361,4,0,3,2:48 PM,0:53,NUGGETS Rebound,,,,
+0029800184,362,6,3,3,2:49 PM,0:53,,,West L.B.FOUL (P3.PN),,
+0029800184,363,3,11,3,2:49 PM,0:53,MISS Washington Free Throw 1 of 2,,,,
+0029800184,364,4,2,3,2:49 PM,0:53,NUGGETS Rebound,,,,
+0029800184,365,3,12,3,2:49 PM,0:53,Washington Free Throw 2 of 2 (10 PTS),,,74 - 86,12
+0029800184,366,1,1,3,2:49 PM,0:36,,,Reeves 15' Jump Shot (14 PTS),76 - 86,10
+0029800184,367,1,2,3,2:50 PM,0:27,Van Exel 12' Running Jump Shot (6 PTS),,,76 - 88,12
+0029800184,368,6,2,3,2:50 PM,0:04,Meyer S.FOUL (P1.PN),,,,
+0029800184,369,3,11,3,2:50 PM,0:04,,,Bibby Free Throw 1 of 2 (14 PTS),77 - 88,11
+0029800184,370,3,12,3,2:51 PM,0:04,,,Bibby Free Throw 2 of 2 (15 PTS),78 - 88,10
+0029800184,371,5,2,3,2:51 PM,0:00,Van Exel Lost Ball Turnover (P2.T15),,Bibby STEAL (1 STL),,
+0029800184,372,13,0,3,2:51 PM,0:00,,,,78 - 88,10
+0029800184,374,12,0,4,2:53 PM,12:00,,,,78 - 88,10
+0029800184,375,1,8,4,2:54 PM,11:39,Clark  Slam Dunk (6 PTS) (McDyess 1 AST),,,78 - 90,12
+0029800184,376,1,1,4,2:54 PM,11:21,,,Reeves 19' Jump Shot (16 PTS) (Mayberry 2 AST),80 - 90,10
+0029800184,377,5,1,4,2:54 PM,11:08,Billups Bad Pass Turnover (P6.T16),,Parks STEAL (3 STL),,
+0029800184,378,5,2,4,2:54 PM,11:04,Van Exel STEAL (2 STL),,Parks Lost Ball Turnover (P1.T13),,
+0029800184,379,2,1,4,2:54 PM,11:00,MISS Billups 8' Jump Shot,,,,
+0029800184,380,4,0,4,2:54 PM,10:58,McDyess REBOUND (Off:7 Def:9),,,,
+0029800184,381,6,1,4,2:55 PM,10:50,,,Mayberry P.FOUL (P1.T1),,
+0029800184,382,8,0,4,2:55 PM,10:50,SUB: Alexander FOR Washington,,,,
+0029800184,383,2,1,4,2:55 PM,10:41,MISS Van Exel 25' 3PT Jump Shot,,,,
+0029800184,384,4,0,4,2:55 PM,10:39,,,Reeves REBOUND (Off:2 Def:2),,
+0029800184,385,2,1,4,2:55 PM,10:24,McDyess BLOCK (3 BLK),,MISS Reeves 10' Jump Shot,,
+0029800184,386,4,0,4,2:55 PM,10:21,McDyess REBOUND (Off:7 Def:10),,,,
+0029800184,387,6,1,4,2:55 PM,10:19,,,Mayberry P.FOUL (P2.T2),,
+0029800184,388,6,2,4,2:56 PM,10:14,,,Reeves S.FOUL (P4.T3),,
+0029800184,389,3,11,4,2:56 PM,10:14,McDyess Free Throw 1 of 2 (33 PTS),,,80 - 91,11
+0029800184,390,3,12,4,2:56 PM,10:14,McDyess Free Throw 2 of 2 (34 PTS),,,80 - 92,12
+0029800184,391,5,1,4,2:56 PM,10:01,McDyess STEAL (1 STL),,Mayberry Bad Pass Turnover (P1.T14),,
+0029800184,392,2,5,4,2:57 PM,9:52,MISS Clark  Layup,,West BLOCK (1 BLK),,
+0029800184,393,4,0,4,2:57 PM,9:52,Clark REBOUND (Off:2 Def:1),,,,
+0029800184,394,6,2,4,2:57 PM,9:52,,,Reeves S.FOUL (P5.T4),,
+0029800184,395,9,4,4,2:57 PM,9:52,,,,,
+0029800184,397,8,0,4,2:59 PM,9:52,,,SUB: Massenburg FOR Reeves,,
+0029800184,405,8,0,4,2:59 PM,9:52,,,SUB: Chilcutt FOR Parks,,
+0029800184,398,3,11,4,2:59 PM,9:52,Clark Free Throw 1 of 2 (7 PTS),,,80 - 93,13
+0029800184,399,3,12,4,2:59 PM,9:52,Clark Free Throw 2 of 2 (8 PTS),,,80 - 94,14
+0029800184,400,2,6,4,3:00 PM,9:37,,,MISS Massenburg  Driving Layup,,
+0029800184,401,4,0,4,3:00 PM,9:34,Clark REBOUND (Off:2 Def:2),,,,
+0029800184,402,1,5,4,3:00 PM,9:28,McDyess  Layup (36 PTS) (Van Exel 7 AST),,,80 - 96,16
+0029800184,403,1,3,4,3:00 PM,9:13,,,Massenburg 6' Hook Shot (15 PTS),82 - 96,14
+0029800184,404,1,5,4,3:00 PM,8:59,McDyess  Layup (38 PTS) (Van Exel 8 AST),,,82 - 98,16
+0029800184,406,1,1,4,3:01 PM,8:38,,,Lopez  3PT Jump Shot (3 PTS) (Mayberry 3 AST),85 - 98,13
+0029800184,407,5,1,4,3:01 PM,8:31,Van Exel Bad Pass Turnover (P3.T17),,Mayberry STEAL (1 STL),,
+0029800184,408,1,2,4,3:01 PM,8:25,,,Mayberry 6' Running Jump Shot (2 PTS),87 - 98,11
+0029800184,409,6,2,4,3:01 PM,8:25,Van Exel S.FOUL (P4.T1),,,,
+0029800184,414,8,0,4,3:01 PM,8:25,SUB: Fortson FOR Clark,,,,
+0029800184,410,3,10,4,3:01 PM,8:25,,,Mayberry Free Throw 1 of 1 (3 PTS),88 - 98,10
+0029800184,411,2,1,4,3:02 PM,8:07,MISS McDyess 19' Jump Shot,,,,
+0029800184,412,4,0,4,3:02 PM,8:06,,,Grizzlies Rebound,,
+0029800184,413,6,3,4,3:02 PM,8:06,Fortson L.B.FOUL (P5.T2),,,,
+0029800184,426,8,0,4,3:02 PM,8:06,SUB: Meyer FOR Fortson,,,,
+0029800184,425,2,1,4,3:03 PM,7:51,,,MISS Chilcutt 13' Jump Shot,,
+0029800184,427,4,0,4,3:03 PM,7:51,,,Lopez REBOUND (Off:1 Def:0),,
+0029800184,416,6,2,4,3:03 PM,7:51,Alexander S.FOUL (P4.T3),,,,
+0029800184,417,3,11,4,3:03 PM,7:51,,,MISS Lopez Free Throw 1 of 2,,
+0029800184,476,4,0,4,3:03 PM,7:51,,,Grizzlies Rebound,,
+0029800184,418,3,12,4,3:03 PM,7:51,,,MISS Lopez Free Throw 2 of 2,,
+0029800184,419,4,0,4,3:03 PM,7:45,McDyess REBOUND (Off:7 Def:11),,,,
+0029800184,420,1,5,4,3:03 PM,7:38,McDyess  Layup (40 PTS) (Van Exel 9 AST),,,88 - 100,12
+0029800184,422,1,5,4,3:03 PM,7:20,,,Massenburg  Layup (17 PTS) (Mayberry 4 AST),90 - 100,10
+0029800184,423,5,11,4,3:04 PM,6:54,NUGGETS Turnover: Shot Clock (T#18),,,,
+0029800184,428,9,0,4,3:06 PM,6:54,NUGGETS Timeout: No Timeout (Full 3 Short 1),,,,
+0029800184,429,8,0,4,3:06 PM,6:54,SUB: Washington FOR Alexander,,,,
+0029800184,432,8,0,4,3:06 PM,6:54,,,SUB: Abdur-Rahim FOR West,,
+0029800184,430,6,1,4,3:06 PM,6:42,Washington P.FOUL (P3.T4),,,,
+0029800184,431,1,5,4,3:07 PM,6:31,,,Massenburg  Layup (19 PTS) (Mayberry 5 AST),92 - 100,8
+0029800184,433,6,1,4,3:07 PM,6:16,,,Mayberry P.FOUL (P3.PN),,
+0029800184,434,3,11,4,3:07 PM,6:16,MISS McDyess Free Throw 1 of 2,,,,
+0029800184,435,4,2,4,3:07 PM,6:16,NUGGETS Rebound,,,,
+0029800184,436,8,0,4,3:07 PM,6:16,SUB: Clark FOR Meyer,,,,
+0029800184,437,3,12,4,3:08 PM,6:16,McDyess Free Throw 2 of 2 (41 PTS),,,92 - 101,9
+0029800184,438,1,1,4,3:08 PM,6:02,,,Chilcutt 15' Jump Shot (2 PTS) (Mayberry 6 AST),94 - 101,7
+0029800184,439,1,1,4,3:08 PM,5:45,McDyess 9' Jump Shot (43 PTS) (Billups 4 AST),,,94 - 103,9
+0029800184,440,1,6,4,3:08 PM,5:29,,,Massenburg  Driving Layup (21 PTS),96 - 103,7
+0029800184,441,1,5,4,3:09 PM,5:10,McDyess  Layup (45 PTS) (Van Exel 10 AST),,,96 - 105,9
+0029800184,442,6,2,4,3:09 PM,5:10,,,Massenburg S.FOUL (P5.PN),,
+0029800184,443,8,0,4,3:09 PM,5:10,,,SUB: Bibby FOR Mayberry,,
+0029800184,444,3,10,4,3:09 PM,5:10,McDyess Free Throw 1 of 1 (46 PTS),,,96 - 106,10
+0029800184,445,6,2,4,3:10 PM,5:00,Clark S.FOUL (P2.PN),,,,
+0029800184,446,3,11,4,3:10 PM,5:00,,,Massenburg Free Throw 1 of 2 (22 PTS),97 - 106,9
+0029800184,447,3,12,4,3:10 PM,5:00,,,MISS Massenburg Free Throw 2 of 2,,
+0029800184,448,4,0,4,3:10 PM,4:59,Clark REBOUND (Off:2 Def:3),,,,
+0029800184,449,5,1,4,3:10 PM,4:45,McDyess Bad Pass Turnover (P3.T19),,Lopez STEAL (1 STL),,
+0029800184,450,6,2,4,3:11 PM,4:42,Billups S.FOUL (P4.PN),,,,
+0029800184,451,8,0,4,3:11 PM,4:42,SUB: Fortson FOR Clark,,,,
+0029800184,452,3,11,4,3:11 PM,4:42,,,MISS Lopez Free Throw 1 of 2,,
+0029800184,453,4,2,4,3:11 PM,4:42,,,Grizzlies Rebound,,
+0029800184,454,3,12,4,3:11 PM,4:42,,,Lopez Free Throw 2 of 2 (4 PTS),98 - 106,8
+0029800184,456,2,1,4,3:11 PM,4:30,MISS Billups 27' 3PT Jump Shot,,,,
+0029800184,457,4,0,4,3:11 PM,4:27,,,Lopez REBOUND (Off:1 Def:1),,
+0029800184,458,1,1,4,3:12 PM,4:12,,,Chilcutt 26' 3PT Jump Shot (5 PTS) (Bibby 8 AST),101 - 106,5
+0029800184,459,1,2,4,3:12 PM,3:56,Van Exel 5' Running Jump Shot (8 PTS),,,101 - 108,7
+0029800184,460,2,1,4,3:12 PM,3:38,,,MISS Lopez 24' 3PT Jump Shot,,
+0029800184,461,4,0,4,3:12 PM,3:37,NUGGETS Rebound,,,,
+0029800184,462,6,3,4,3:12 PM,3:37,,,Abdur-Rahim L.B.FOUL (P2.PN),,
+0029800184,464,3,11,4,3:13 PM,3:37,Washington Free Throw 1 of 2 (11 PTS),,,101 - 109,8
+0029800184,465,3,12,4,3:13 PM,3:37,Washington Free Throw 2 of 2 (12 PTS),,,101 - 110,9
+0029800184,466,5,1,4,3:13 PM,3:26,,,Bibby Bad Pass Turnover (P1.T15),,
+0029800184,468,2,1,4,3:14 PM,3:10,MISS Washington 26' 3PT Jump Shot,,,,
+0029800184,469,4,0,4,3:14 PM,3:08,McDyess REBOUND (Off:8 Def:11),,,,
+0029800184,470,2,1,4,3:14 PM,3:06,MISS McDyess 18' Jump Shot,,,,
+0029800184,471,4,0,4,3:14 PM,3:04,,,Abdur-Rahim REBOUND (Off:1 Def:4),,
+0029800184,472,1,1,4,3:14 PM,2:55,,,Massenburg 10' Jump Shot (24 PTS) (Bibby 9 AST),103 - 110,7
+0029800184,473,6,2,4,3:14 PM,2:55,Fortson S.FOUL (P6.PN),,,,
+0029800184,474,9,1,4,3:14 PM,2:55,,,Grizzlies Timeout: Regular (Reg.4 Short 1),,
+0029800184,477,8,0,4,3:16 PM,2:55,SUB: Clark FOR Fortson,,,,
+0029800184,478,3,10,4,3:16 PM,2:55,,,Massenburg Free Throw 1 of 1 (25 PTS),104 - 110,6
+0029800184,479,2,7,4,3:17 PM,2:43,MISS Clark  Dunk,,Massenburg BLOCK (1 BLK),,
+0029800184,480,4,0,4,3:17 PM,2:40,,,Massenburg REBOUND (Off:3 Def:3),,
+0029800184,481,1,8,4,3:17 PM,2:37,,,Abdur-Rahim  Slam Dunk (17 PTS) (Chilcutt 1 AST),106 - 110,4
+0029800184,482,6,2,4,3:17 PM,2:37,Washington S.FOUL (P4.PN),,,,
+0029800184,483,3,10,4,3:17 PM,2:37,,,Abdur-Rahim Free Throw 1 of 1 (18 PTS),107 - 110,3
+0029800184,484,2,1,4,3:17 PM,2:20,MISS Van Exel 27' 3PT Jump Shot,,,,
+0029800184,485,4,0,4,3:17 PM,2:18,,,Massenburg REBOUND (Off:3 Def:4),,
+0029800184,486,5,11,4,3:18 PM,1:54,,,Grizzlies Turnover: Shot Clock (T#16),,
+0029800184,487,2,7,4,3:19 PM,1:31,MISS Clark  Dunk,,Massenburg BLOCK (2 BLK),,
+0029800184,488,4,0,4,3:19 PM,1:30,,,Grizzlies Rebound,,
+0029800184,489,1,1,4,3:19 PM,1:13,,,Chilcutt 26' 3PT Jump Shot (8 PTS) (Abdur-Rahim 5 AST),110 - 110,TIE
+0029800184,490,1,1,4,3:20 PM,0:49,Billups 26' 3PT Jump Shot (9 PTS) (Van Exel 11 AST),,,110 - 113,3
+0029800184,491,1,8,4,3:20 PM,0:30,,,Massenburg  Slam Dunk (27 PTS) (Bibby 10 AST),112 - 113,1
+0029800184,492,1,1,4,3:20 PM,0:08,Billups 24' 3PT Jump Shot (12 PTS) (Van Exel 12 AST),,,112 - 116,4
+0029800184,493,9,1,4,3:21 PM,0:08,,,Grizzlies Timeout: Regular (Reg.5 Short 1),,
+0029800184,495,8,0,4,3:22 PM,0:08,SUB: Alexander FOR Billups,,,,
+0029800184,496,9,1,4,3:23 PM,0:08,,,Grizzlies Timeout: Regular (Reg.6 Short 1),,
+0029800184,497,8,0,4,3:24 PM,0:08,,,SUB: Mack FOR Lopez,,
+0029800184,498,2,6,4,3:24 PM,0:06,McDyess BLOCK (4 BLK),,MISS Abdur-Rahim  Driving Layup,,
+0029800184,499,4,0,4,3:24 PM,0:02,,,Abdur-Rahim REBOUND (Off:2 Def:4),,
+0029800184,500,2,5,4,3:24 PM,0:00,,,MISS Abdur-Rahim  Layup,,
+0029800184,501,4,0,4,3:24 PM,0:00,Washington REBOUND (Off:0 Def:2),,,,
+0029800184,502,13,0,4,3:24 PM,0:00,,,,112 - 116,4

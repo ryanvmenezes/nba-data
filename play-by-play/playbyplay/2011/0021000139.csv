@@ -1,0 +1,491 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000139,0,12,0,1,2:09 PM,12:00,,,,,
+0021000139,1,10,0,1,2:11 PM,12:00,Jump Ball Smith vs. Milicic: Tip to Telfair,,,,
+0021000139,2,1,42,1,2:13 PM,11:45,,,Beasley 2' Driving Layup (2 PTS),2 - 0,-2
+0021000139,3,2,1,1,2:13 PM,11:22,MISS Horford 7' Jump Shot,,,,
+0021000139,4,4,0,1,2:13 PM,11:19,,,W. Johnson REBOUND (Off:0 Def:1),,
+0021000139,5,6,2,1,2:13 PM,11:14,Williams S.FOUL (P1.T1),,,,
+0021000139,6,3,11,1,2:14 PM,11:14,,,Love Free Throw 1 of 2 (1 PTS),3 - 0,-3
+0021000139,8,3,12,1,2:14 PM,11:14,,,Love Free Throw 2 of 2 (2 PTS),4 - 0,-4
+0021000139,11,1,1,1,2:14 PM,10:56,Smith 24' 3PT Jump Shot (3 PTS) (Johnson 1 AST),,,4 - 3,-1
+0021000139,12,5,1,1,2:15 PM,10:40,Horford STEAL (1 STL),,Love Bad Pass Turnover (P1.T1),,
+0021000139,13,6,2,1,2:15 PM,10:37,,,Beasley S.FOUL (P1.T1),,
+0021000139,14,3,11,1,2:15 PM,10:37,Johnson Free Throw 1 of 2 (1 PTS),,,4 - 4,TIE
+0021000139,16,3,12,1,2:15 PM,10:37,Johnson Free Throw 2 of 2 (2 PTS),,,4 - 5,1
+0021000139,18,2,1,1,2:15 PM,10:26,,,MISS W. Johnson 24' 3PT Jump Shot,,
+0021000139,19,4,0,1,2:15 PM,10:25,,,Love REBOUND (Off:1 Def:0),,
+0021000139,20,1,72,1,2:16 PM,10:23,,,Love 2' Putback Layup (4 PTS),6 - 5,-1
+0021000139,21,1,1,1,2:16 PM,10:08,Bibby 20' Jump Shot (2 PTS) (Johnson 2 AST),,,6 - 7,1
+0021000139,22,1,3,1,2:16 PM,9:44,,,Milicic 3' Hook Shot (2 PTS) (Telfair 1 AST),8 - 7,-1
+0021000139,23,2,3,1,2:16 PM,9:25,MISS Smith 5' Hook Shot,,,,
+0021000139,24,4,0,1,2:17 PM,9:23,,,Love REBOUND (Off:1 Def:1),,
+0021000139,25,1,1,1,2:17 PM,9:18,,,Beasley 22' Jump Shot (4 PTS) (Telfair 2 AST),10 - 7,-3
+0021000139,26,5,1,1,2:17 PM,9:06,Bibby Bad Pass Turnover (P1.T1),,Beasley STEAL (1 STL),,
+0021000139,27,1,1,1,2:17 PM,8:59,,,Love 4' Jump Shot (6 PTS) (W. Johnson 1 AST),12 - 7,-5
+0021000139,28,2,42,1,2:17 PM,8:43,MISS Johnson 1' Driving Layup,,Milicic BLOCK (1 BLK),,
+0021000139,29,4,0,1,2:17 PM,8:40,,,W. Johnson REBOUND (Off:0 Def:2),,
+0021000139,30,1,3,1,2:17 PM,8:31,,,Love 5' Hook Shot (8 PTS) (Telfair 3 AST),14 - 7,-7
+0021000139,31,9,1,1,2:18 PM,8:21,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0021000139,33,2,1,1,2:20 PM,8:15,MISS Williams 17' Jump Shot,,,,
+0021000139,34,4,0,1,2:20 PM,8:14,,,Love REBOUND (Off:1 Def:2),,
+0021000139,35,2,1,1,2:20 PM,8:03,,,MISS Love 25' 3PT Jump Shot,,
+0021000139,36,4,0,1,2:20 PM,8:02,,,Milicic REBOUND (Off:1 Def:0),,
+0021000139,37,1,1,1,2:21 PM,7:57,,,Telfair 25' 3PT Jump Shot (3 PTS) (Milicic 1 AST),17 - 7,-10
+0021000139,38,6,1,1,2:21 PM,7:45,,,W. Johnson P.FOUL (P1.T2),,
+0021000139,39,2,1,1,2:21 PM,7:27,MISS Johnson 22' Jump Shot,,,,
+0021000139,40,4,0,1,2:21 PM,7:26,Smith REBOUND (Off:1 Def:0),,,,
+0021000139,41,1,4,1,2:21 PM,7:25,Smith 1' Tip Shot (5 PTS),,,17 - 9,-8
+0021000139,42,5,1,1,2:21 PM,7:20,Bibby STEAL (1 STL),,Beasley Bad Pass Turnover (P1.T2),,
+0021000139,43,2,1,1,2:22 PM,7:11,MISS Bibby 26' 3PT Jump Shot,,,,
+0021000139,45,4,0,1,2:22 PM,7:09,Johnson REBOUND (Off:1 Def:0),,,,
+0021000139,44,2,72,1,2:22 PM,7:09,MISS Johnson 1' Putback Layup,,,,
+0021000139,46,4,0,1,2:22 PM,7:07,Horford REBOUND (Off:1 Def:0),,,,
+0021000139,47,6,2,1,2:22 PM,7:07,,,Beasley S.FOUL (P2.T3),,
+0021000139,48,3,11,1,2:22 PM,7:07,Horford Free Throw 1 of 2 (1 PTS),,,17 - 10,-7
+0021000139,50,8,0,1,2:22 PM,7:07,,,SUB: Hayward FOR Beasley,,
+0021000139,51,3,12,1,2:23 PM,7:07,Horford Free Throw 2 of 2 (2 PTS),,,17 - 11,-6
+0021000139,54,2,1,1,2:23 PM,6:56,,,MISS Milicic 6' Jump Shot,,
+0021000139,56,4,0,1,2:23 PM,6:55,,,Love REBOUND (Off:2 Def:2),,
+0021000139,55,2,4,1,2:23 PM,6:55,,,MISS Love  Tip Shot,,
+0021000139,57,4,0,1,2:23 PM,6:52,Horford REBOUND (Off:1 Def:1),,,,
+0021000139,58,2,5,1,2:23 PM,6:48,MISS Smith 1' Layup,,,,
+0021000139,60,4,0,1,2:23 PM,6:47,Smith REBOUND (Off:2 Def:0),,,,
+0021000139,59,2,4,1,2:23 PM,6:47,MISS Smith 1' Tip Shot,,,,
+0021000139,61,4,0,1,2:23 PM,6:45,Smith REBOUND (Off:3 Def:0),,,,
+0021000139,62,2,1,1,2:23 PM,6:42,MISS Williams 25' 3PT Jump Shot,,,,
+0021000139,63,4,0,1,2:23 PM,6:40,,,Timberwolves Rebound,,
+0021000139,64,6,26,1,2:24 PM,6:19,,,Love Offensive Charge Foul (P1.T4),,
+0021000139,65,5,5,1,2:24 PM,6:19,,,Love Foul Turnover (P2.T3),,
+0021000139,66,8,0,1,2:24 PM,6:19,SUB: Crawford FOR Bibby,,,,
+0021000139,67,2,1,1,2:24 PM,6:04,MISS Smith 20' Jump Shot,,,,
+0021000139,68,4,0,1,2:24 PM,6:03,,,W. Johnson REBOUND (Off:0 Def:3),,
+0021000139,69,2,73,1,2:24 PM,5:53,Horford BLOCK (1 BLK),,MISS Milicic 2' Driving Reverse Layup,,
+0021000139,70,4,0,1,2:24 PM,5:53,,,Timberwolves Rebound,,
+0021000139,71,8,0,1,2:25 PM,5:53,SUB: Evans FOR Williams,,,,
+0021000139,72,2,56,1,2:25 PM,5:39,,,MISS Milicic 11' Running Hook Shot,,
+0021000139,73,4,0,1,2:25 PM,5:38,,,Timberwolves Rebound,,
+0021000139,74,1,1,1,2:25 PM,5:34,,,W. Johnson 20' Jump Shot (2 PTS) (Hayward 1 AST),19 - 11,-8
+0021000139,75,1,5,1,2:25 PM,5:22,Johnson 3' Layup (4 PTS) (Horford 1 AST),,,19 - 13,-6
+0021000139,76,1,42,1,2:26 PM,5:12,,,Telfair 1' Driving Layup (5 PTS),21 - 13,-8
+0021000139,77,2,77,1,2:26 PM,4:46,MISS Horford 7' Driving Jump Shot,,,,
+0021000139,78,4,0,1,2:26 PM,4:43,,,Love REBOUND (Off:2 Def:3),,
+0021000139,79,5,2,1,2:26 PM,4:32,Smith STEAL (1 STL),,Milicic Lost Ball Turnover (P1.T4),,
+0021000139,80,6,2,1,2:26 PM,4:26,,,Milicic S.FOUL (P1.PN),,
+0021000139,81,3,11,1,2:27 PM,4:26,Smith Free Throw 1 of 2 (6 PTS),,,21 - 14,-7
+0021000139,83,8,0,1,2:27 PM,4:26,,,SUB: Koufos FOR Milicic,,
+0021000139,84,8,0,1,2:27 PM,4:26,SUB: Teague FOR Johnson,,,,
+0021000139,85,3,12,1,2:27 PM,4:26,Smith Free Throw 2 of 2 (7 PTS),,,21 - 15,-6
+0021000139,88,2,42,1,2:28 PM,4:10,Smith BLOCK (1 BLK),,MISS Love 3' Driving Layup,,
+0021000139,89,4,0,1,2:28 PM,4:09,Horford REBOUND (Off:1 Def:2),,,,
+0021000139,90,6,2,1,2:28 PM,4:07,,,Hayward S.FOUL (P1.PN),,
+0021000139,91,3,11,1,2:28 PM,4:07,Crawford Free Throw 1 of 2 (1 PTS),,,21 - 16,-5
+0021000139,93,3,12,1,2:28 PM,4:07,Crawford Free Throw 2 of 2 (2 PTS),,,21 - 17,-4
+0021000139,95,6,26,1,2:29 PM,3:57,,,Telfair Offensive Charge Foul (P1.PN),,
+0021000139,96,5,5,1,2:29 PM,3:57,,,Telfair Foul Turnover (P1.T5),,
+0021000139,97,1,47,1,2:29 PM,3:35,Horford 8' Turnaround Jump Shot (4 PTS),,,21 - 19,-2
+0021000139,98,9,1,1,2:29 PM,3:29,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,
+0021000139,100,8,0,1,2:32 PM,3:29,,,SUB: Brewer FOR W. Johnson,,
+0021000139,101,8,0,1,2:32 PM,3:29,,,SUB: Gaines FOR Telfair,,
+0021000139,102,2,1,1,2:32 PM,3:19,,,MISS Brewer 21' Jump Shot,,
+0021000139,103,4,0,1,2:32 PM,3:18,Horford REBOUND (Off:1 Def:3),,,,
+0021000139,104,6,2,1,2:32 PM,3:15,,,Brewer S.FOUL (P1.PN),,
+0021000139,105,3,11,1,2:33 PM,3:15,Evans Free Throw 1 of 2 (1 PTS),,,21 - 20,-1
+0021000139,107,8,0,1,2:33 PM,3:15,,,SUB: Tolliver FOR Love,,
+0021000139,108,3,12,1,2:33 PM,3:15,MISS Evans Free Throw 2 of 2,,,,
+0021000139,110,4,0,1,2:33 PM,3:13,Teague REBOUND (Off:1 Def:0),,,,
+0021000139,111,1,3,1,2:33 PM,2:58,Horford 6' Hook Shot (6 PTS),,,21 - 22,1
+0021000139,112,2,1,1,2:33 PM,2:46,,,MISS Koufos 8' Jump Shot,,
+0021000139,113,4,0,1,2:33 PM,2:45,Crawford REBOUND (Off:0 Def:1),,,,
+0021000139,114,1,41,1,2:33 PM,2:40,Smith 1' Running Layup (9 PTS) (Crawford 1 AST),,,21 - 24,3
+0021000139,115,5,2,1,2:34 PM,2:22,Teague STEAL (1 STL),,Brewer Lost Ball Turnover (P1.T6),,
+0021000139,116,2,1,1,2:34 PM,2:15,MISS Crawford 17' Jump Shot,,,,
+0021000139,117,4,0,1,2:34 PM,2:14,,,Hayward REBOUND (Off:0 Def:1),,
+0021000139,118,1,1,1,2:34 PM,2:00,,,Tolliver 5' Jump Shot (2 PTS) (Hayward 2 AST),23 - 24,1
+0021000139,119,5,1,1,2:34 PM,1:46,Teague Bad Pass Turnover (P1.T2),,Koufos STEAL (1 STL),,
+0021000139,120,6,2,1,2:34 PM,1:43,Teague S.FOUL (P1.T2),,,,
+0021000139,121,8,0,1,2:35 PM,1:43,SUB: Pachulia FOR Smith,,,,
+0021000139,122,3,11,1,2:35 PM,1:43,,,Brewer Free Throw 1 of 2 (1 PTS),24 - 24,TIE
+0021000139,124,3,12,1,2:35 PM,1:43,,,Brewer Free Throw 2 of 2 (2 PTS),25 - 24,-1
+0021000139,127,1,77,1,2:36 PM,1:29,Crawford 11' Driving Jump Shot (4 PTS),,,25 - 26,1
+0021000139,128,2,46,1,2:36 PM,1:22,,,MISS Hayward 6' Running Jump Shot,,
+0021000139,129,4,0,1,2:36 PM,1:21,Evans REBOUND (Off:0 Def:1),,,,
+0021000139,130,6,1,1,2:36 PM,1:07,,,Brewer P.FOUL (P2.PN),,
+0021000139,131,8,0,1,2:36 PM,1:07,SUB: Powell FOR Horford,,,,
+0021000139,132,8,0,1,2:37 PM,1:07,,,SUB: W. Johnson FOR Brewer,,
+0021000139,133,3,11,1,2:37 PM,1:07,Pachulia Free Throw 1 of 2 (1 PTS),,,25 - 27,2
+0021000139,135,3,12,1,2:37 PM,1:07,Pachulia Free Throw 2 of 2 (2 PTS),,,25 - 28,3
+0021000139,138,5,39,1,2:37 PM,0:57,,,Gaines Step Out of Bounds Turnover (P1.T7),,
+0021000139,139,1,1,1,2:38 PM,0:39,Crawford 16' Jump Shot (6 PTS),,,25 - 30,5
+0021000139,140,2,42,1,2:38 PM,0:27,,,MISS Gaines 2' Driving Layup,,
+0021000139,142,4,0,1,2:38 PM,0:26,,,Koufos REBOUND (Off:1 Def:0),,
+0021000139,141,1,87,1,2:38 PM,0:26,,,Koufos 1' Putback Dunk (2 PTS),27 - 30,3
+0021000139,143,2,1,1,2:38 PM,0:05,MISS Crawford 21' Jump Shot,,,,
+0021000139,144,4,0,1,2:39 PM,0:03,,,Koufos REBOUND (Off:1 Def:1),,
+0021000139,145,2,1,1,2:39 PM,0:01,,,MISS W. Johnson 27' 3PT Jump Shot,,
+0021000139,146,4,0,1,2:39 PM,0:00,,,Timberwolves Rebound,,
+0021000139,147,13,0,1,2:39 PM,0:00,,,,27 - 30,3
+0021000139,149,12,0,2,2:42 PM,12:00,,,,27 - 30,3
+0021000139,150,6,4,2,2:42 PM,11:48,Powell OFF.Foul (P1),,,,
+0021000139,151,5,5,2,2:42 PM,11:48,Powell Foul Turnover (P1.T3),,,,
+0021000139,152,1,3,2,2:43 PM,11:29,,,Koufos 7' Hook Shot (4 PTS) (Hayward 3 AST),29 - 30,1
+0021000139,153,1,1,2,2:43 PM,11:10,Evans 24' 3PT Jump Shot (4 PTS) (Teague 1 AST),,,29 - 33,4
+0021000139,154,2,77,2,2:43 PM,10:56,,,MISS Koufos 6' Driving Jump Shot,,
+0021000139,155,4,0,2,2:43 PM,10:52,,,Timberwolves Rebound,,
+0021000139,156,2,1,2,2:44 PM,10:38,,,MISS Tolliver 8' Jump Shot,,
+0021000139,157,4,0,2,2:44 PM,10:37,Powell REBOUND (Off:0 Def:1),,,,
+0021000139,158,6,2,2,2:44 PM,10:31,,,Koufos S.FOUL (P1.T1),,
+0021000139,159,3,11,2,2:44 PM,10:31,Pachulia Free Throw 1 of 2 (3 PTS),,,29 - 34,5
+0021000139,161,8,0,2,2:45 PM,10:31,,,SUB: Telfair FOR Gaines,,
+0021000139,162,8,0,2,2:45 PM,10:31,,,SUB: Love FOR Koufos,,
+0021000139,163,3,12,2,2:45 PM,10:31,Pachulia Free Throw 2 of 2 (4 PTS),,,29 - 35,6
+0021000139,165,1,1,2,2:45 PM,10:13,,,Tolliver 17' Jump Shot (4 PTS) (W. Johnson 2 AST),31 - 35,4
+0021000139,167,1,1,2,2:46 PM,9:55,Evans 16' Jump Shot (6 PTS) (Powell 1 AST),,,31 - 37,6
+0021000139,168,5,4,2,2:46 PM,9:45,,,Love Traveling Turnover (P3.T8),,
+0021000139,169,5,1,2,2:46 PM,9:21,Teague Bad Pass Turnover (P2.T4),,Telfair STEAL (1 STL),,
+0021000139,170,5,1,2,2:47 PM,9:17,Teague STEAL (2 STL),,W. Johnson Bad Pass Turnover (P1.T9),,
+0021000139,171,1,41,2,2:47 PM,9:12,Teague 3' Running Layup (2 PTS),,,31 - 39,8
+0021000139,173,8,0,2,2:47 PM,9:01,,,SUB: Beasley FOR Hayward,,
+0021000139,174,8,0,2,2:47 PM,9:01,SUB: Smith FOR Evans,,,,
+0021000139,175,6,2,2,2:48 PM,8:51,Pachulia S.FOUL (P1.T1),,,,
+0021000139,176,9,4,2,2:48 PM,8:51,,,,,
+0021000139,179,3,11,2,2:51 PM,8:51,,,Love Free Throw 1 of 2 (9 PTS),32 - 39,7
+0021000139,181,3,12,2,2:51 PM,8:51,,,Love Free Throw 2 of 2 (10 PTS),33 - 39,6
+0021000139,185,7,2,2,2:51 PM,8:31,,,Beasley Violation:Defensive Goaltending,,
+0021000139,184,1,47,2,2:51 PM,8:31,Powell 11' Turnaround Jump Shot (2 PTS),,,33 - 41,8
+0021000139,186,1,5,2,2:52 PM,8:20,,,Tolliver 2' Layup (6 PTS) (Beasley 1 AST),35 - 41,6
+0021000139,187,6,2,2,2:52 PM,8:20,Pachulia S.FOUL (P2.T2),,,,
+0021000139,188,3,10,2,2:52 PM,8:20,,,Tolliver Free Throw 1 of 1 (7 PTS),36 - 41,5
+0021000139,190,1,3,2,2:52 PM,8:07,Smith 6' Hook Shot (11 PTS) (Pachulia 1 AST),,,36 - 43,7
+0021000139,191,1,1,2,2:53 PM,7:48,,,Beasley 21' Jump Shot (6 PTS),38 - 43,5
+0021000139,192,2,1,2,2:53 PM,7:27,MISS Powell 16' Jump Shot,,,,
+0021000139,193,4,0,2,2:53 PM,7:26,,,Love REBOUND (Off:2 Def:4),,
+0021000139,194,5,1,2,2:53 PM,7:18,Pachulia STEAL (1 STL),,Telfair Bad Pass Turnover (P2.T10),,
+0021000139,195,6,2,2,2:53 PM,7:02,,,W. Johnson S.FOUL (P2.T2),,
+0021000139,196,8,0,2,2:54 PM,7:02,SUB: Bibby FOR Teague,,,,
+0021000139,197,3,13,2,2:54 PM,7:02,Crawford Free Throw 1 of 3 (7 PTS),,,38 - 44,6
+0021000139,199,3,14,2,2:54 PM,7:02,Crawford Free Throw 2 of 3 (8 PTS),,,38 - 45,7
+0021000139,201,3,15,2,2:54 PM,7:02,Crawford Free Throw 3 of 3 (9 PTS),,,38 - 46,8
+0021000139,203,1,1,2,2:55 PM,6:40,,,Telfair 16' Jump Shot (7 PTS),40 - 46,6
+0021000139,204,6,4,2,2:55 PM,6:31,Powell OFF.Foul (P2),,,,
+0021000139,205,5,5,2,2:55 PM,6:31,Powell Foul Turnover (P2.T5),,,,
+0021000139,206,8,0,2,2:55 PM,6:31,SUB: Horford FOR Crawford,,,,
+0021000139,207,8,0,2,2:55 PM,6:31,SUB: Johnson FOR Powell,,,,
+0021000139,208,8,0,2,2:55 PM,6:31,,,SUB: Milicic FOR Tolliver,,
+0021000139,209,2,1,2,2:56 PM,6:15,Pachulia BLOCK (1 BLK),,MISS Milicic 6' Jump Shot,,
+0021000139,210,4,0,2,2:56 PM,6:13,,,Milicic REBOUND (Off:2 Def:0),,
+0021000139,211,1,1,2,2:56 PM,6:12,,,Beasley 11' Jump Shot (8 PTS) (Milicic 2 AST),42 - 46,4
+0021000139,212,6,2,2,2:56 PM,6:12,Pachulia S.FOUL (P3.T3),,,,
+0021000139,213,8,0,2,2:56 PM,6:12,SUB: Williams FOR Pachulia,,,,
+0021000139,214,3,10,2,2:56 PM,6:12,,,Beasley Free Throw 1 of 1 (9 PTS),43 - 46,3
+0021000139,216,1,1,2,2:57 PM,5:58,Williams 19' Jump Shot (2 PTS) (Johnson 3 AST),,,43 - 48,5
+0021000139,217,6,1,2,2:57 PM,5:37,Smith P.FOUL (P1.T4),,,,
+0021000139,218,9,1,2,2:57 PM,5:37,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0021000139,221,2,1,2,3:00 PM,5:28,,,MISS Beasley 18' Jump Shot,,
+0021000139,222,4,0,2,3:00 PM,5:27,Smith REBOUND (Off:3 Def:1),,,,
+0021000139,223,1,1,2,3:00 PM,5:13,Johnson 25' 3PT Jump Shot (7 PTS),,,43 - 51,8
+0021000139,224,6,2,2,3:01 PM,4:57,Horford S.FOUL (P1.PN),,,,
+0021000139,225,3,11,2,3:01 PM,4:57,,,MISS Beasley Free Throw 1 of 2,,
+0021000139,226,4,1,2,3:01 PM,4:57,,,Timberwolves Rebound,,
+0021000139,227,3,12,2,3:01 PM,4:57,,,Beasley Free Throw 2 of 2 (10 PTS),44 - 51,7
+0021000139,230,2,1,2,3:02 PM,4:44,MISS Bibby 20' Jump Shot,,,,
+0021000139,231,4,0,2,3:02 PM,4:43,,,Love REBOUND (Off:2 Def:5),,
+0021000139,232,6,2,2,3:02 PM,4:37,Bibby S.FOUL (P1.PN),,,,
+0021000139,234,3,11,2,3:02 PM,4:37,,,MISS Milicic Free Throw 1 of 2,,
+0021000139,235,4,1,2,3:02 PM,4:37,,,Timberwolves Rebound,,
+0021000139,236,3,12,2,3:02 PM,4:37,,,MISS Milicic Free Throw 2 of 2,,
+0021000139,238,4,0,2,3:02 PM,4:35,Horford REBOUND (Off:1 Def:4),,,,
+0021000139,240,2,1,2,3:03 PM,4:18,MISS Williams 19' Jump Shot,,,,
+0021000139,241,4,0,2,3:03 PM,4:16,Horford REBOUND (Off:2 Def:4),,,,
+0021000139,242,1,1,2,3:03 PM,4:05,Horford 14' Jump Shot (8 PTS) (Smith 1 AST),,,44 - 53,9
+0021000139,243,2,1,2,3:03 PM,3:44,,,MISS Beasley 25' 3PT Jump Shot,,
+0021000139,244,4,0,2,3:03 PM,3:44,HAWKS Rebound,,,,
+0021000139,245,1,7,2,3:04 PM,3:33,Horford 1' Dunk (10 PTS) (Smith 2 AST),,,44 - 55,11
+0021000139,246,6,2,2,3:04 PM,3:33,,,Milicic S.FOUL (P2.T3),,
+0021000139,247,3,10,2,3:04 PM,3:33,Horford Free Throw 1 of 1 (11 PTS),,,44 - 56,12
+0021000139,250,6,1,2,3:04 PM,3:25,Bibby P.FOUL (P2.PN),,,,
+0021000139,251,8,0,2,3:05 PM,3:25,,,SUB: Tolliver FOR Milicic,,
+0021000139,252,8,0,2,3:05 PM,3:25,SUB: Crawford FOR Bibby,,,,
+0021000139,253,3,11,2,3:05 PM,3:25,,,MISS Telfair Free Throw 1 of 2,,
+0021000139,254,4,1,2,3:05 PM,3:25,,,Timberwolves Rebound,,
+0021000139,255,3,12,2,3:05 PM,3:25,,,Telfair Free Throw 2 of 2 (8 PTS),45 - 56,11
+0021000139,258,5,1,2,3:06 PM,3:05,Crawford Bad Pass Turnover (P1.T6),,Love STEAL (1 STL),,
+0021000139,259,2,1,2,3:06 PM,2:59,,,MISS Beasley 18' Jump Shot,,
+0021000139,260,4,0,2,3:06 PM,2:57,,,Beasley REBOUND (Off:1 Def:0),,
+0021000139,261,1,72,2,3:06 PM,2:55,,,Beasley 2' Putback Layup (12 PTS),47 - 56,9
+0021000139,262,2,42,2,3:06 PM,2:37,MISS Smith 1' Driving Layup,,,,
+0021000139,263,4,0,2,3:06 PM,2:35,,,Love REBOUND (Off:2 Def:6),,
+0021000139,264,1,42,2,3:06 PM,2:28,,,Telfair 2' Driving Layup (10 PTS),49 - 56,7
+0021000139,265,6,2,2,3:06 PM,2:28,Crawford S.FOUL (P1.PN),,,,
+0021000139,266,9,1,2,3:06 PM,2:28,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,
+0021000139,269,3,10,2,3:09 PM,2:28,,,Telfair Free Throw 1 of 1 (11 PTS),50 - 56,6
+0021000139,271,1,63,2,3:10 PM,2:13,Johnson 19' Fadeaway Jumper (9 PTS),,,50 - 58,8
+0021000139,272,2,63,2,3:10 PM,1:52,Horford BLOCK (2 BLK),,MISS Love 10' Fadeaway Jumper,,
+0021000139,273,4,0,2,3:10 PM,1:49,,,Tolliver REBOUND (Off:1 Def:0),,
+0021000139,274,2,1,2,3:10 PM,1:46,,,MISS Telfair 25' 3PT Jump Shot,,
+0021000139,275,4,0,2,3:10 PM,1:45,Smith REBOUND (Off:3 Def:2),,,,
+0021000139,276,5,1,2,3:10 PM,1:41,Smith Bad Pass Turnover (P1.T7),,Telfair STEAL (2 STL),,
+0021000139,277,1,46,2,3:10 PM,1:33,,,Beasley 7' Running Jump Shot (14 PTS) (W. Johnson 3 AST),52 - 58,6
+0021000139,278,2,1,2,3:11 PM,1:06,MISS Smith 18' Jump Shot,,,,
+0021000139,280,4,0,2,3:11 PM,1:02,Williams REBOUND (Off:1 Def:0),,,,
+0021000139,279,1,4,2,3:11 PM,1:02,Williams 1' Tip Shot (4 PTS),,,52 - 60,8
+0021000139,281,2,46,2,3:11 PM,0:51,,,MISS Telfair 11' Running Jump Shot,,
+0021000139,282,4,0,2,3:11 PM,0:50,Horford REBOUND (Off:2 Def:5),,,,
+0021000139,283,2,1,2,3:11 PM,0:38,MISS Johnson 24' 3PT Jump Shot,,,,
+0021000139,284,4,0,2,3:11 PM,0:36,,,Love REBOUND (Off:2 Def:7),,
+0021000139,286,5,1,2,3:12 PM,0:14,Johnson STEAL (1 STL),,Beasley Bad Pass Turnover (P2.T11),,
+0021000139,287,2,1,2,3:12 PM,0:00,MISS Smith  3PT Jump Shot,,,,
+0021000139,288,4,0,2,3:12 PM,0:00,Johnson REBOUND (Off:2 Def:0),,,,
+0021000139,289,2,4,2,3:12 PM,0:00,MISS Johnson 16' Tip Shot,,,,
+0021000139,290,4,0,2,3:12 PM,0:00,HAWKS Rebound,,,,
+0021000139,291,13,0,2,3:12 PM,0:00,,,,52 - 60,8
+0021000139,293,12,0,3,3:28 PM,12:00,,,,52 - 60,8
+0021000139,294,6,1,3,3:29 PM,11:47,,,Milicic P.FOUL (P3.T1),,
+0021000139,295,2,47,3,3:29 PM,11:40,MISS Horford 14' Turnaround Jump Shot,,,,
+0021000139,296,4,0,3,3:29 PM,11:37,,,Love REBOUND (Off:2 Def:8),,
+0021000139,297,2,73,3,3:30 PM,11:23,,,MISS Beasley 1' Driving Reverse Layup,,
+0021000139,298,4,0,3,3:30 PM,11:20,Smith REBOUND (Off:3 Def:3),,,,
+0021000139,299,6,17,3,3:30 PM,11:13,,,Timberwolves T.Foul (Def. 3 Sec Love ),,
+0021000139,300,3,16,3,3:30 PM,11:13,Williams Free Throw Technical (5 PTS),,,52 - 61,9
+0021000139,302,1,1,3,3:30 PM,11:05,Horford 18' Jump Shot (13 PTS) (Bibby 1 AST),,,52 - 63,11
+0021000139,303,5,4,3,3:31 PM,10:52,,,Milicic Traveling Turnover (P2.T12),,
+0021000139,304,6,2,3,3:31 PM,10:42,,,Telfair S.FOUL (P2.T2),,
+0021000139,305,3,11,3,3:31 PM,10:42,Johnson Free Throw 1 of 2 (10 PTS),,,52 - 64,12
+0021000139,307,3,12,3,3:31 PM,10:42,MISS Johnson Free Throw 2 of 2,,,,
+0021000139,309,4,0,3,3:32 PM,10:41,,,Love REBOUND (Off:2 Def:9),,
+0021000139,310,2,3,3,3:32 PM,10:28,Williams BLOCK (1 BLK),,MISS Love 9' Hook Shot,,
+0021000139,311,4,0,3,3:32 PM,10:27,Williams REBOUND (Off:1 Def:1),,,,
+0021000139,312,2,1,3,3:32 PM,10:21,MISS Williams 19' Jump Shot,,,,
+0021000139,313,4,0,3,3:32 PM,10:18,,,Beasley REBOUND (Off:1 Def:1),,
+0021000139,314,2,58,3,3:32 PM,10:06,,,MISS Milicic 7' Turnaround Hook Shot,,
+0021000139,315,4,0,3,3:32 PM,10:04,Williams REBOUND (Off:1 Def:2),,,,
+0021000139,316,1,1,3,3:32 PM,9:54,Horford 18' Jump Shot (15 PTS) (Bibby 2 AST),,,52 - 66,14
+0021000139,317,1,1,3,3:33 PM,9:31,,,W. Johnson  3PT Jump Shot (5 PTS) (Telfair 4 AST),55 - 66,11
+0021000139,319,1,1,3,3:33 PM,9:08,Johnson 26' 3PT Jump Shot (13 PTS) (Horford 2 AST),,,55 - 69,14
+0021000139,320,1,1,3,3:33 PM,8:53,,,Telfair 25' 3PT Jump Shot (14 PTS),58 - 69,11
+0021000139,321,5,8,3,3:34 PM,8:30,Smith 3 Second Violation Turnover (P2.T8),,,,
+0021000139,322,8,0,3,3:34 PM,8:30,,,SUB: Brewer FOR W. Johnson,,
+0021000139,323,5,1,3,3:34 PM,8:22,Smith STEAL (2 STL),,Telfair Bad Pass Turnover (P3.T13),,
+0021000139,324,2,57,3,3:34 PM,8:13,MISS Smith 4' Driving Hook Shot,,Milicic BLOCK (2 BLK),,
+0021000139,325,4,0,3,3:34 PM,8:11,,,Love REBOUND (Off:2 Def:10),,
+0021000139,326,2,1,3,3:35 PM,8:06,,,MISS Brewer 6' Jump Shot,,
+0021000139,327,4,0,3,3:35 PM,8:04,Williams REBOUND (Off:1 Def:3),,,,
+0021000139,328,1,1,3,3:35 PM,7:47,Smith 20' Jump Shot (13 PTS),,,58 - 71,13
+0021000139,330,6,2,3,3:35 PM,7:35,Smith S.FOUL (P2.T1),,,,
+0021000139,331,3,11,3,3:35 PM,7:35,,,Love Free Throw 1 of 2 (11 PTS),59 - 71,12
+0021000139,333,3,12,3,3:36 PM,7:35,,,Love Free Throw 2 of 2 (12 PTS),60 - 71,11
+0021000139,335,2,47,3,3:36 PM,7:22,MISS Johnson 7' Turnaround Jump Shot,,,,
+0021000139,336,4,0,3,3:36 PM,7:20,,,Beasley REBOUND (Off:1 Def:2),,
+0021000139,337,6,3,3,3:36 PM,7:13,,,Love L.B.FOUL (P2.T3),,
+0021000139,338,5,41,3,3:36 PM,7:13,,,Love Poss Lost Ball Turnover (P4.T14),,
+0021000139,339,1,1,3,3:37 PM,6:49,Smith 19' Jump Shot (15 PTS) (Williams 1 AST),,,60 - 73,13
+0021000139,340,9,1,3,3:37 PM,6:47,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,
+0021000139,344,1,42,3,3:40 PM,6:35,,,Beasley 1' Driving Layup (16 PTS),62 - 73,11
+0021000139,345,6,11,3,3:40 PM,6:33,,,Beasley T.FOUL (P2.T3),,
+0021000139,346,3,16,3,3:40 PM,6:33,MISS Williams Free Throw Technical,,,,
+0021000139,347,4,1,3,3:40 PM,6:33,HAWKS Rebound,,,,
+0021000139,348,1,52,3,3:41 PM,6:17,Smith 1' Alley Oop Dunk (17 PTS) (Bibby 3 AST),,,62 - 75,13
+0021000139,349,6,1,3,3:41 PM,6:03,Johnson P.FOUL (P1.T2),,,,
+0021000139,350,6,1,3,3:42 PM,6:01,Williams P.FOUL (P2.T3),,,,
+0021000139,351,5,2,3,3:42 PM,5:50,Johnson STEAL (2 STL),,Beasley Lost Ball Turnover (P3.T15),,
+0021000139,352,6,26,3,3:42 PM,5:46,Smith Offensive Charge Foul (P3.T4),,,,
+0021000139,353,5,5,3,3:42 PM,5:46,Smith Foul Turnover (P3.T9),,,,
+0021000139,355,2,1,3,3:43 PM,5:33,,,MISS Love 24' 3PT Jump Shot,,
+0021000139,356,4,0,3,3:43 PM,5:32,Williams REBOUND (Off:1 Def:4),,,,
+0021000139,357,5,1,3,3:43 PM,5:28,Johnson Bad Pass Turnover (P1.T10),,,,
+0021000139,358,6,2,3,3:43 PM,5:20,Bibby S.FOUL (P3.PN),,,,
+0021000139,359,3,11,3,3:43 PM,5:20,,,Telfair Free Throw 1 of 2 (15 PTS),63 - 75,12
+0021000139,361,8,0,3,3:43 PM,5:20,SUB: Crawford FOR Johnson,,,,
+0021000139,362,3,12,3,3:44 PM,5:20,,,Telfair Free Throw 2 of 2 (16 PTS),64 - 75,11
+0021000139,366,2,1,3,3:44 PM,4:54,MISS Horford 18' Jump Shot,,,,
+0021000139,367,4,0,3,3:44 PM,4:52,Smith REBOUND (Off:4 Def:3),,,,
+0021000139,368,1,77,3,3:45 PM,4:46,Williams 4' Driving Jump Shot (7 PTS) (Bibby 4 AST),,,64 - 77,13
+0021000139,369,5,1,3,3:45 PM,4:42,Williams STEAL (1 STL),,Telfair Bad Pass Turnover (P4.T16),,
+0021000139,370,1,42,3,3:45 PM,4:27,Horford 2' Driving Layup (17 PTS),,,64 - 79,15
+0021000139,371,5,2,3,3:45 PM,4:01,Crawford STEAL (1 STL),,Telfair Lost Ball Turnover (P5.T17),,
+0021000139,372,2,47,3,3:46 PM,3:43,MISS Horford 10' Turnaround Jump Shot,,Milicic BLOCK (3 BLK),,
+0021000139,373,4,0,3,3:46 PM,3:43,HAWKS Rebound,,,,
+0021000139,374,1,1,3,3:46 PM,3:40,Smith 20' Jump Shot (19 PTS) (Williams 2 AST),,,64 - 81,17
+0021000139,375,2,77,3,3:46 PM,3:17,,,MISS Milicic 3' Driving Jump Shot,,
+0021000139,377,4,0,3,3:46 PM,3:16,,,Love REBOUND (Off:3 Def:10),,
+0021000139,376,1,4,3,3:46 PM,3:16,,,Love 2' Tip Shot (14 PTS),66 - 81,15
+0021000139,378,2,1,3,3:47 PM,3:05,MISS Crawford 15' Jump Shot,,,,
+0021000139,379,4,0,3,3:47 PM,3:03,Horford REBOUND (Off:3 Def:5),,,,
+0021000139,381,9,1,3,3:47 PM,2:56,HAWKS Timeout: Regular (Full 3 Short 0),,,,
+0021000139,382,8,0,3,3:49 PM,2:56,SUB: Pachulia FOR Horford,,,,
+0021000139,383,8,0,3,3:49 PM,2:56,SUB: Teague FOR Bibby,,,,
+0021000139,384,8,0,3,3:49 PM,2:56,,,SUB: Tolliver FOR Love,,
+0021000139,385,2,1,3,3:50 PM,2:39,MISS Pachulia 19' Jump Shot,,,,
+0021000139,386,4,0,3,3:50 PM,2:38,,,Tolliver REBOUND (Off:1 Def:1),,
+0021000139,387,5,40,3,3:50 PM,2:26,,,Beasley Out of Bounds Lost Ball Turnover (P4.T18),,
+0021000139,388,6,1,3,3:50 PM,2:19,,,Milicic P.FOUL (P4.T4),,
+0021000139,389,8,0,3,3:51 PM,2:19,SUB: Powell FOR Smith,,,,
+0021000139,390,8,0,3,3:51 PM,2:19,,,SUB: Love FOR Milicic,,
+0021000139,391,2,77,3,3:51 PM,2:13,MISS Teague 10' Driving Jump Shot,,,,
+0021000139,392,4,0,3,3:51 PM,2:11,Williams REBOUND (Off:2 Def:4),,,,
+0021000139,393,2,1,3,3:51 PM,2:01,MISS Pachulia 17' Jump Shot,,,,
+0021000139,394,4,0,3,3:51 PM,1:59,,,Brewer REBOUND (Off:0 Def:1),,
+0021000139,395,6,2,3,3:51 PM,1:49,Teague S.FOUL (P2.PN),,,,
+0021000139,396,3,11,3,3:52 PM,1:49,,,Beasley Free Throw 1 of 2 (17 PTS),67 - 81,14
+0021000139,398,3,12,3,3:52 PM,1:49,,,MISS Beasley Free Throw 2 of 2,,
+0021000139,400,4,0,3,3:52 PM,1:48,Pachulia REBOUND (Off:0 Def:1),,,,
+0021000139,401,2,1,3,3:52 PM,1:35,MISS Crawford 20' Jump Shot,,,,
+0021000139,402,4,0,3,3:52 PM,1:34,,,Beasley REBOUND (Off:1 Def:3),,
+0021000139,403,1,1,3,3:52 PM,1:24,,,Tolliver 24' 3PT Jump Shot (10 PTS) (Beasley 2 AST),70 - 81,11
+0021000139,404,5,2,3,3:53 PM,1:08,Crawford Lost Ball Turnover (P2.T11),,Telfair STEAL (3 STL),,
+0021000139,405,1,41,3,3:53 PM,1:03,,,Brewer 1' Running Layup (4 PTS) (Telfair 5 AST),72 - 81,9
+0021000139,406,6,1,3,3:53 PM,0:51,,,Beasley P.FOUL (P3.PN),,
+0021000139,407,3,11,3,3:53 PM,0:51,Williams Free Throw 1 of 2 (8 PTS),,,72 - 82,10
+0021000139,409,3,12,3,3:53 PM,0:51,Williams Free Throw 2 of 2 (9 PTS),,,72 - 83,11
+0021000139,412,2,1,3,3:54 PM,0:38,,,MISS Tolliver 26' 3PT Jump Shot,,
+0021000139,413,4,0,3,3:54 PM,0:35,,,Brewer REBOUND (Off:1 Def:1),,
+0021000139,414,2,3,3,3:54 PM,0:29,,,MISS Love 6' Hook Shot,,
+0021000139,415,4,0,3,3:54 PM,0:26,Powell REBOUND (Off:0 Def:2),,,,
+0021000139,416,2,1,3,3:54 PM,0:01,MISS Pachulia 16' Jump Shot,,,,
+0021000139,417,4,0,3,3:55 PM,0:00,,,Brewer REBOUND (Off:1 Def:2),,
+0021000139,418,2,1,3,3:55 PM,0:00,,,MISS Brewer 51' 3PT Jump Shot,,
+0021000139,419,4,0,3,3:55 PM,0:00,,,Timberwolves Rebound,,
+0021000139,420,13,0,3,3:55 PM,0:00,,,,72 - 83,11
+0021000139,422,12,0,4,3:57 PM,12:00,,,,72 - 83,11
+0021000139,423,6,1,4,3:58 PM,11:46,Teague P.FOUL (P3.T1),,,,
+0021000139,424,2,42,4,3:58 PM,11:36,Teague BLOCK (1 BLK),,MISS Gaines 2' Driving Layup,,
+0021000139,425,4,0,4,3:58 PM,11:34,Teague REBOUND (Off:1 Def:1),,,,
+0021000139,426,1,74,4,3:58 PM,11:31,Crawford 2' Running Reverse Layup (11 PTS) (Teague 2 AST),,,72 - 85,13
+0021000139,427,6,2,4,3:59 PM,11:15,Crawford S.FOUL (P2.T2),,,,
+0021000139,428,3,11,4,3:59 PM,11:15,,,MISS Brewer Free Throw 1 of 2,,
+0021000139,429,4,1,4,3:59 PM,11:15,,,Timberwolves Rebound,,
+0021000139,430,8,0,4,3:59 PM,11:15,,,SUB: Beasley FOR Love,,
+0021000139,431,3,12,4,3:59 PM,11:15,,,Brewer Free Throw 2 of 2 (5 PTS),73 - 85,12
+0021000139,433,2,5,4,4:00 PM,11:00,MISS Powell 3' Layup,,,,
+0021000139,434,4,0,4,4:00 PM,10:59,,,Gaines REBOUND (Off:0 Def:1),,
+0021000139,435,6,1,4,4:00 PM,10:51,Pachulia P.FOUL (P4.T3),,,,
+0021000139,436,8,0,4,4:00 PM,10:51,SUB: Smith FOR Pachulia,,,,
+0021000139,437,6,2,4,4:01 PM,10:42,Smith S.FOUL (P4.T4),,,,
+0021000139,438,3,11,4,4:01 PM,10:42,,,MISS Beasley Free Throw 1 of 2,,
+0021000139,439,4,1,4,4:01 PM,10:42,,,Timberwolves Rebound,,
+0021000139,440,3,12,4,4:01 PM,10:42,,,Beasley Free Throw 2 of 2 (18 PTS),74 - 85,11
+0021000139,443,6,2,4,4:02 PM,10:25,,,Gaines S.FOUL (P1.T1),,
+0021000139,444,3,11,4,4:02 PM,10:25,Teague Free Throw 1 of 2 (3 PTS),,,74 - 86,12
+0021000139,446,3,12,4,4:02 PM,10:25,Teague Free Throw 2 of 2 (4 PTS),,,74 - 87,13
+0021000139,448,5,1,4,4:03 PM,10:16,Teague STEAL (3 STL),,Brewer Bad Pass Turnover (P2.T19),,
+0021000139,449,2,1,4,4:03 PM,10:07,MISS Crawford 24' 3PT Jump Shot,,,,
+0021000139,450,4,0,4,4:03 PM,10:05,Evans REBOUND (Off:1 Def:1),,,,
+0021000139,451,2,5,4,4:03 PM,10:03,MISS Smith 1' Layup,,Tolliver BLOCK (1 BLK),,
+0021000139,452,4,0,4,4:03 PM,10:01,,,Tolliver REBOUND (Off:1 Def:2),,
+0021000139,453,2,1,4,4:03 PM,9:47,,,MISS Beasley 26' 3PT Jump Shot,,
+0021000139,454,4,0,4,4:03 PM,9:46,Powell REBOUND (Off:0 Def:3),,,,
+0021000139,455,2,5,4,4:04 PM,9:19,MISS Powell 3' Layup,,,,
+0021000139,456,4,0,4,4:04 PM,9:18,,,Tolliver REBOUND (Off:1 Def:3),,
+0021000139,457,2,1,4,4:04 PM,9:12,,,MISS Brewer 9' Jump Shot,,
+0021000139,458,4,0,4,4:04 PM,9:12,,,Timberwolves Rebound,,
+0021000139,459,8,0,4,4:04 PM,9:12,SUB: Horford FOR Powell,,,,
+0021000139,460,8,0,4,4:04 PM,9:12,,,SUB: Love FOR Tolliver,,
+0021000139,461,1,1,4,4:04 PM,9:02,,,W. Johnson 15' Jump Shot (7 PTS),76 - 87,11
+0021000139,462,1,1,4,4:04 PM,8:46,Evans 25' 3PT Jump Shot (9 PTS) (Horford 3 AST),,,76 - 90,14
+0021000139,463,2,1,4,4:05 PM,8:33,,,MISS Gaines 4' Jump Shot,,
+0021000139,464,4,0,4,4:05 PM,8:32,,,Love REBOUND (Off:4 Def:10),,
+0021000139,465,1,72,4,4:05 PM,8:31,,,Love 2' Putback Layup (16 PTS),78 - 90,12
+0021000139,466,1,1,4,4:05 PM,8:14,Horford 6' Jump Shot (19 PTS) (Crawford 2 AST),,,78 - 92,14
+0021000139,467,6,2,4,4:05 PM,8:14,,,Beasley S.FOUL (P4.T2),,
+0021000139,470,8,0,4,4:08 PM,8:14,,,SUB: Telfair FOR Gaines,,
+0021000139,471,3,10,4,4:08 PM,8:14,Horford Free Throw 1 of 1 (20 PTS),,,78 - 93,15
+0021000139,474,1,77,4,4:08 PM,8:03,,,Beasley 8' Driving Jump Shot (20 PTS),80 - 93,13
+0021000139,475,2,1,4,4:08 PM,7:51,MISS Evans 18' Jump Shot,,,,
+0021000139,476,4,0,4,4:08 PM,7:50,,,Love REBOUND (Off:4 Def:11),,
+0021000139,477,5,4,4,4:09 PM,7:39,,,Beasley Traveling Turnover (P5.T20),,
+0021000139,478,5,1,4,4:09 PM,7:17,Crawford Bad Pass Turnover (P3.T12),,Brewer STEAL (1 STL),,
+0021000139,479,6,2,4,4:09 PM,7:14,Teague S.FOUL (P4.PN),,,,
+0021000139,480,8,0,4,4:09 PM,7:14,SUB: Johnson FOR Teague,,,,
+0021000139,481,3,11,4,4:10 PM,7:14,,,Brewer Free Throw 1 of 2 (6 PTS),81 - 93,12
+0021000139,483,3,12,4,4:10 PM,7:14,,,MISS Brewer Free Throw 2 of 2,,
+0021000139,485,4,0,4,4:10 PM,7:13,Smith REBOUND (Off:4 Def:4),,,,
+0021000139,487,1,47,4,4:10 PM,6:53,Horford 7' Turnaround Jump Shot (22 PTS) (Johnson 4 AST),,,81 - 95,14
+0021000139,488,1,47,4,4:11 PM,6:33,,,Telfair 11' Turnaround Jump Shot (18 PTS) (Beasley 3 AST),83 - 95,12
+0021000139,489,6,1,4,4:11 PM,6:10,,,Beasley P.FOUL (P5.T3),,
+0021000139,490,8,0,4,4:11 PM,6:10,SUB: Williams FOR Evans,,,,
+0021000139,491,8,0,4,4:11 PM,6:10,,,SUB: Tolliver FOR Beasley,,
+0021000139,492,2,57,4,4:12 PM,5:57,MISS Williams 5' Driving Hook Shot,,,,
+0021000139,493,4,0,4,4:12 PM,5:55,Smith REBOUND (Off:5 Def:4),,,,
+0021000139,494,1,72,4,4:12 PM,5:53,Smith 1' Putback Layup (21 PTS),,,83 - 97,14
+0021000139,495,1,1,4,4:12 PM,5:42,,,W. Johnson  3PT Jump Shot (10 PTS) (Tolliver 1 AST),86 - 97,11
+0021000139,496,6,1,4,4:12 PM,5:23,,,Brewer P.FOUL (P3.T4),,
+0021000139,497,9,1,4,4:12 PM,5:23,HAWKS Timeout: Regular (Full 4 Short 0),,,,
+0021000139,501,2,47,4,4:15 PM,5:15,MISS Johnson 7' Turnaround Jump Shot,,,,
+0021000139,502,4,0,4,4:15 PM,5:13,Williams REBOUND (Off:3 Def:4),,,,
+0021000139,503,5,1,4,4:15 PM,5:05,Smith Bad Pass Turnover (P4.T13),,Love STEAL (2 STL),,
+0021000139,504,1,1,4,4:15 PM,4:58,,,Tolliver 26' 3PT Jump Shot (13 PTS) (Telfair 6 AST),89 - 97,8
+0021000139,505,5,40,4,4:16 PM,4:37,Williams Out of Bounds Lost Ball Turnover (P1.T14),,,,
+0021000139,506,2,1,4,4:16 PM,4:27,,,MISS W. Johnson 25' 3PT Jump Shot,,
+0021000139,507,4,0,4,4:16 PM,4:26,Johnson REBOUND (Off:2 Def:1),,,,
+0021000139,508,2,1,4,4:16 PM,4:05,MISS Smith 20' Jump Shot,,,,
+0021000139,509,4,0,4,4:16 PM,4:04,,,Love REBOUND (Off:4 Def:12),,
+0021000139,510,1,1,4,4:17 PM,3:56,,,Brewer  3PT Jump Shot (9 PTS) (Telfair 7 AST),92 - 97,5
+0021000139,511,9,2,4,4:17 PM,3:55,HAWKS Timeout: Short (Full 4 Short 1),,,,
+0021000139,513,8,0,4,4:17 PM,3:55,SUB: Bibby FOR Williams,,,,
+0021000139,515,1,63,4,4:18 PM,3:36,Smith 10' Fadeaway Jumper (23 PTS) (Johnson 5 AST),,,92 - 99,7
+0021000139,516,2,1,4,4:18 PM,3:16,,,MISS Telfair 25' 3PT Jump Shot,,
+0021000139,517,4,0,4,4:18 PM,3:15,Bibby REBOUND (Off:0 Def:1),,,,
+0021000139,518,1,63,4,4:19 PM,2:57,Johnson 17' Fadeaway Jumper (15 PTS),,,92 - 101,9
+0021000139,519,9,1,4,4:19 PM,2:56,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,
+0021000139,521,8,0,4,4:21 PM,2:56,,,SUB: Beasley FOR Tolliver,,
+0021000139,522,2,1,4,4:21 PM,2:45,,,MISS Beasley 15' Jump Shot,,
+0021000139,523,4,0,4,4:21 PM,2:44,Horford REBOUND (Off:3 Def:6),,,,
+0021000139,524,6,2,4,4:22 PM,2:24,,,W. Johnson S.FOUL (P3.PN),,
+0021000139,525,3,11,4,4:22 PM,2:24,Horford Free Throw 1 of 2 (23 PTS),,,92 - 102,10
+0021000139,527,3,12,4,4:22 PM,2:24,Horford Free Throw 2 of 2 (24 PTS),,,92 - 103,11
+0021000139,530,6,2,4,4:23 PM,2:11,Crawford S.FOUL (P3.PN),,,,
+0021000139,531,3,11,4,4:23 PM,2:11,,,Love Free Throw 1 of 2 (17 PTS),93 - 103,10
+0021000139,533,3,12,4,4:23 PM,2:11,,,Love Free Throw 2 of 2 (18 PTS),94 - 103,9
+0021000139,535,2,1,4,4:24 PM,1:53,MISS Bibby 18' Jump Shot,,,,
+0021000139,536,4,0,4,4:24 PM,1:52,,,Timberwolves Rebound,,
+0021000139,537,8,0,4,4:24 PM,1:52,SUB: Evans FOR Crawford,,,,
+0021000139,538,8,0,4,4:24 PM,1:52,SUB: Williams FOR Bibby,,,,
+0021000139,539,1,1,4,4:25 PM,1:44,,,Love 18' Jump Shot (20 PTS) (Telfair 8 AST),96 - 103,7
+0021000139,540,2,1,4,4:25 PM,1:34,MISS Evans 25' 3PT Jump Shot,,,,
+0021000139,541,4,0,4,4:25 PM,1:33,,,Brewer REBOUND (Off:1 Def:3),,
+0021000139,544,2,45,4,4:27 PM,1:18,Horford BLOCK (3 BLK),,MISS Love 19' Jump Shot,,
+0021000139,545,4,0,4,4:27 PM,1:18,,,Love REBOUND (Off:5 Def:12),,
+0021000139,565,5,40,4,4:27 PM,1:18,,,Love Out of Bounds Lost Ball Turnover (P5.T21),,
+0021000139,547,18,1,4,4:27 PM,1:18,,,,96 - 103,7
+0021000139,553,8,0,4,4:27 PM,1:18,SUB: Crawford FOR Evans,,,,
+0021000139,573,8,0,4,4:27 PM,1:18,SUB: Bibby FOR Williams,,,,
+0021000139,549,6,1,4,4:28 PM,1:13,,,Brewer P.FOUL (P4.PN),,
+0021000139,551,3,11,4,4:28 PM,1:13,MISS Bibby Free Throw 1 of 2,,,,
+0021000139,552,4,1,4,4:28 PM,1:13,HAWKS Rebound,,,,
+0021000139,555,3,12,4,4:29 PM,1:13,Bibby Free Throw 2 of 2 (3 PTS),,,96 - 104,8
+0021000139,557,8,0,4,4:29 PM,1:09,SUB: Evans FOR Crawford,,,,
+0021000139,558,1,42,4,4:29 PM,1:00,,,Beasley 2' Driving Layup (22 PTS),98 - 104,6
+0021000139,559,6,1,4,4:29 PM,0:47,,,W. Johnson P.FOUL (P4.PN),,
+0021000139,560,3,11,4,4:29 PM,0:47,MISS Bibby Free Throw 1 of 2,,,,
+0021000139,561,4,1,4,4:29 PM,0:47,HAWKS Rebound,,,,
+0021000139,562,3,12,4,4:30 PM,0:47,Bibby Free Throw 2 of 2 (4 PTS),,,98 - 105,7
+0021000139,564,9,1,4,4:30 PM,0:47,,,Timberwolves Timeout: Regular (Reg.5 Short 0),,
+0021000139,568,8,0,4,4:31 PM,0:47,SUB: Williams FOR Bibby,,,,
+0021000139,569,2,42,4,4:32 PM,0:39,,,MISS Brewer 2' Driving Layup,,
+0021000139,570,4,0,4,4:32 PM,0:38,,,W. Johnson REBOUND (Off:1 Def:3),,
+0021000139,571,6,2,4,4:32 PM,0:33,Horford S.FOUL (P2.PN),,,,
+0021000139,572,18,0,4,4:32 PM,0:33,,,,,
+0021000139,574,3,11,4,4:33 PM,0:33,,,Brewer Free Throw 1 of 2 (10 PTS),99 - 105,6
+0021000139,577,3,12,4,4:34 PM,0:33,,,Brewer Free Throw 2 of 2 (11 PTS),100 - 105,5
+0021000139,579,6,1,4,4:34 PM,0:32,,,Brewer P.FOUL (P5.PN),,
+0021000139,581,3,11,4,4:35 PM,0:32,Horford Free Throw 1 of 2 (25 PTS),,,100 - 106,6
+0021000139,583,8,0,4,4:35 PM,0:32,,,SUB: Tolliver FOR Love,,
+0021000139,584,8,0,4,4:35 PM,0:32,,,SUB: Love FOR W. Johnson,,
+0021000139,585,3,12,4,4:35 PM,0:32,Horford Free Throw 2 of 2 (26 PTS),,,100 - 107,7
+0021000139,587,9,2,4,4:35 PM,0:32,,,Timberwolves Timeout: Short (Reg.5 Short 1),,
+0021000139,589,8,0,4,4:36 PM,0:32,,,SUB: W. Johnson FOR Tolliver,,
+0021000139,590,2,1,4,4:37 PM,0:24,,,MISS W. Johnson 25' 3PT Jump Shot,,
+0021000139,591,4,0,4,4:37 PM,0:23,Smith REBOUND (Off:5 Def:5),,,,
+0021000139,592,5,1,4,4:37 PM,0:20,Smith Bad Pass Turnover (P5.T15),,Brewer STEAL (2 STL),,
+0021000139,593,1,7,4,4:37 PM,0:18,,,Love 1' Dunk (22 PTS) (Brewer 1 AST),102 - 107,5
+0021000139,594,6,1,4,4:37 PM,0:17,,,W. Johnson P.FOUL (P5.PN),,
+0021000139,595,3,11,4,4:37 PM,0:17,Horford Free Throw 1 of 2 (27 PTS),,,102 - 108,6
+0021000139,597,9,2,4,4:38 PM,0:17,,,Timberwolves Timeout: Short (Reg.5 Short 2),,
+0021000139,601,3,12,4,4:38 PM,0:17,Horford Free Throw 2 of 2 (28 PTS),,,102 - 109,7
+0021000139,603,1,1,4,4:39 PM,0:11,,,Beasley 26' 3PT Jump Shot (25 PTS),105 - 109,4
+0021000139,604,6,1,4,4:39 PM,0:09,,,W. Johnson P.FOUL (P6.PN),,
+0021000139,605,8,0,4,4:40 PM,0:09,,,SUB: Tolliver FOR W. Johnson,,
+0021000139,606,3,11,4,4:40 PM,0:09,Johnson Free Throw 1 of 2 (16 PTS),,,105 - 110,5
+0021000139,608,3,12,4,4:40 PM,0:09,Johnson Free Throw 2 of 2 (17 PTS),,,105 - 111,6
+0021000139,611,2,1,4,4:40 PM,0:04,,,MISS Brewer 26' 3PT Jump Shot,,
+0021000139,612,4,0,4,4:40 PM,0:02,Horford REBOUND (Off:3 Def:7),,,,
+0021000139,613,13,0,4,4:40 PM,0:00,,,,105 - 111,6

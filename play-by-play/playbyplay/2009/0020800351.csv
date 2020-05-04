@@ -1,0 +1,408 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020800351,0,12,0,1,7:08 PM,12:00,,,,,
+0020800351,1,10,0,1,7:08 PM,12:00,Jump Ball Smith vs. Okafor: Tip to Bell,,,,
+0020800351,2,6,4,1,7:13 PM,11:40,,,Okafor OFF.Foul (P1),,
+0020800351,3,5,5,1,7:13 PM,11:40,,,Okafor Foul Turnover (P1.T1),,
+0020800351,4,2,1,1,7:14 PM,11:18,MISS Horford 19' Jump Shot,,,,
+0020800351,5,4,0,1,7:14 PM,11:16,,,Okafor REBOUND (Off:0 Def:1),,
+0020800351,6,1,42,1,7:14 PM,11:05,,,Wallace 3' Driving Layup (2 PTS) (Felton 1 AST),2 - 0,-2
+0020800351,8,2,1,1,7:14 PM,10:46,MISS Bibby 19' Jump Shot,,,,
+0020800351,9,4,0,1,7:14 PM,10:45,,,Okafor REBOUND (Off:0 Def:2),,
+0020800351,10,1,58,1,7:14 PM,10:31,,,Diaw 6' Turnaround Hook Shot (2 PTS),4 - 0,-4
+0020800351,11,1,44,1,7:15 PM,10:18,Bibby 4' Reverse Layup (2 PTS) (Smith 1 AST),,,4 - 2,-2
+0020800351,12,2,1,1,7:15 PM,9:57,,,MISS Bell 19' Jump Shot,,
+0020800351,13,4,0,1,7:15 PM,9:55,Smith REBOUND (Off:0 Def:1),,,,
+0020800351,14,2,1,1,7:15 PM,9:48,MISS Johnson 26' 3PT Jump Shot,,,,
+0020800351,15,4,0,1,7:15 PM,9:48,,,Bobcats Rebound,,
+0020800351,16,1,41,1,7:16 PM,9:32,,,Wallace 3' Running Layup (4 PTS) (Diaw 1 AST),6 - 2,-4
+0020800351,17,1,1,1,7:16 PM,9:10,Horford 19' Jump Shot (2 PTS) (Johnson 1 AST),,,6 - 4,-2
+0020800351,18,2,1,1,7:16 PM,8:48,,,MISS Bell 7' Jump Shot,,
+0020800351,19,4,0,1,7:16 PM,8:47,Horford REBOUND (Off:0 Def:1),,,,
+0020800351,20,5,1,1,7:16 PM,8:42,Bibby Bad Pass Turnover (P1.T1),,Diaw STEAL (1 STL),,
+0020800351,21,6,1,1,7:17 PM,8:34,Johnson P.FOUL (P1.T1),,,,
+0020800351,22,2,1,1,7:17 PM,8:29,,,MISS Diaw 20' Jump Shot,,
+0020800351,23,4,0,1,7:17 PM,8:28,Williams REBOUND (Off:0 Def:1),,,,
+0020800351,24,1,1,1,7:17 PM,8:21,Bibby 18' Jump Shot (4 PTS),,,6 - 6,TIE
+0020800351,26,2,1,1,7:17 PM,7:58,Smith BLOCK (1 BLK),,MISS Diaw 3' Jump Shot,,
+0020800351,27,4,0,1,7:18 PM,7:55,Smith REBOUND (Off:0 Def:2),,,,
+0020800351,28,2,1,1,7:18 PM,7:46,MISS Horford 16' Jump Shot,,,,
+0020800351,29,4,0,1,7:18 PM,7:45,,,Wallace REBOUND (Off:0 Def:1),,
+0020800351,30,2,1,1,7:18 PM,7:31,,,MISS Wallace 21' Jump Shot,,
+0020800351,31,4,0,1,7:18 PM,7:29,Smith REBOUND (Off:0 Def:3),,,,
+0020800351,32,2,1,1,7:18 PM,7:21,MISS Williams 24' 3PT Jump Shot,,,,
+0020800351,33,4,0,1,7:18 PM,7:20,,,Okafor REBOUND (Off:0 Def:3),,
+0020800351,34,1,44,1,7:18 PM,7:05,,,Diaw 2' Reverse Layup (4 PTS) (Wallace 1 AST),8 - 6,-2
+0020800351,35,6,2,1,7:19 PM,6:50,,,Diaw S.FOUL (P1.T1),,
+0020800351,36,3,11,1,7:19 PM,6:50,Smith Free Throw 1 of 2 (1 PTS),,,8 - 7,-1
+0020800351,38,3,12,1,7:19 PM,6:50,Smith Free Throw 2 of 2 (2 PTS),,,8 - 8,TIE
+0020800351,40,1,1,1,7:20 PM,6:37,,,Diaw 19' Jump Shot (6 PTS) (Okafor 1 AST),10 - 8,-2
+0020800351,41,6,1,1,7:20 PM,6:24,,,Bell P.FOUL (P1.T2),,
+0020800351,42,1,1,1,7:20 PM,6:20,Bibby 21' Jump Shot (6 PTS) (Horford 1 AST),,,10 - 10,TIE
+0020800351,43,1,42,1,7:21 PM,6:05,,,Felton 3' Driving Layup (2 PTS),12 - 10,-2
+0020800351,44,6,2,1,7:21 PM,6:05,Horford S.FOUL (P1.T2),,,,
+0020800351,45,3,10,1,7:21 PM,6:05,,,Felton Free Throw 1 of 1 (3 PTS),13 - 10,-3
+0020800351,47,2,1,1,7:22 PM,5:46,MISS Bibby 26' 3PT Jump Shot,,,,
+0020800351,48,4,0,1,7:22 PM,5:45,,,Okafor REBOUND (Off:0 Def:4),,
+0020800351,49,1,42,1,7:22 PM,5:35,,,Diaw 3' Driving Layup (8 PTS) (Felton 2 AST),15 - 10,-5
+0020800351,50,6,2,1,7:22 PM,5:35,Smith S.FOUL (P1.T3),,,,
+0020800351,51,9,1,1,7:22 PM,5:35,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0020800351,52,8,0,1,7:25 PM,5:35,SUB: Evans FOR Williams,,,,
+0020800351,53,3,10,1,7:25 PM,5:35,,,Diaw Free Throw 1 of 1 (9 PTS),16 - 10,-6
+0020800351,55,1,56,1,7:25 PM,5:12,Smith 8' Running Hook Shot (4 PTS) (Johnson 2 AST),,,16 - 12,-4
+0020800351,56,1,57,1,7:26 PM,4:53,,,Diaw 4' Driving Hook Shot (11 PTS),18 - 12,-6
+0020800351,57,1,47,1,7:26 PM,4:34,Smith 5' Turnaround Jump Shot (6 PTS) (Johnson 3 AST),,,18 - 14,-4
+0020800351,58,1,1,1,7:26 PM,4:09,,,Bell 21' Jump Shot (2 PTS),20 - 14,-6
+0020800351,59,6,2,1,7:27 PM,3:54,,,Bell S.FOUL (P2.T3),,
+0020800351,60,8,0,1,7:27 PM,3:54,,,SUB: Carroll FOR Bell,,
+0020800351,61,3,11,1,7:27 PM,3:54,Johnson Free Throw 1 of 2 (1 PTS),,,20 - 15,-5
+0020800351,63,8,0,1,7:27 PM,3:54,SUB: Pachulia FOR Horford,,,,
+0020800351,64,3,12,1,7:27 PM,3:54,Johnson Free Throw 2 of 2 (2 PTS),,,20 - 16,-4
+0020800351,66,2,1,1,7:28 PM,3:43,,,MISS Wallace 10' Jump Shot,,
+0020800351,67,4,0,1,7:28 PM,3:42,Bibby REBOUND (Off:0 Def:1),,,,
+0020800351,68,2,5,1,7:28 PM,3:38,MISS Evans 2' Layup,,Wallace BLOCK (1 BLK),,
+0020800351,69,4,0,1,7:28 PM,3:36,,,Carroll REBOUND (Off:0 Def:1),,
+0020800351,70,2,1,1,7:28 PM,3:29,,,MISS Felton 17' Jump Shot,,
+0020800351,71,4,0,1,7:28 PM,3:28,Pachulia REBOUND (Off:0 Def:1),,,,
+0020800351,72,2,43,1,7:28 PM,3:23,MISS Smith 3' Alley Oop Layup,,,,
+0020800351,73,4,0,1,7:28 PM,3:21,Evans REBOUND (Off:1 Def:0),,,,
+0020800351,74,2,1,1,7:28 PM,3:17,MISS Johnson 24' 3PT Jump Shot,,,,
+0020800351,75,4,0,1,7:28 PM,3:15,Evans REBOUND (Off:2 Def:0),,,,
+0020800351,76,2,1,1,7:28 PM,3:12,MISS Bibby 28' 3PT Jump Shot,,,,
+0020800351,77,4,0,1,7:28 PM,3:11,,,Okafor REBOUND (Off:0 Def:5),,
+0020800351,78,1,47,1,7:29 PM,2:52,,,Okafor 9' Turnaround Jump Shot (2 PTS) (Carroll 1 AST),22 - 16,-6
+0020800351,79,1,1,1,7:29 PM,2:31,Smith 25' 3PT Jump Shot (9 PTS) (Evans 1 AST),,,22 - 19,-3
+0020800351,80,9,1,1,7:29 PM,2:25,,,Bobcats Timeout: Regular (Reg.1 Short 0),,
+0020800351,82,8,0,1,7:31 PM,2:25,SUB: Murray FOR Bibby,,,,
+0020800351,83,8,0,1,7:31 PM,2:25,,,SUB: Morrison FOR Wallace,,
+0020800351,84,6,1,1,7:32 PM,2:16,Smith P.FOUL (P2.T4),,,,
+0020800351,85,8,0,1,7:32 PM,2:16,SUB: Williams FOR Smith,,,,
+0020800351,86,2,1,1,7:33 PM,2:09,,,MISS Morrison 18' Jump Shot,,
+0020800351,87,4,0,1,7:33 PM,2:08,Murray REBOUND (Off:0 Def:1),,,,
+0020800351,88,1,77,1,7:33 PM,1:45,Evans 4' Driving Jump Shot (2 PTS) (Johnson 4 AST),,,22 - 21,-1
+0020800351,89,1,1,1,7:33 PM,1:26,,,Carroll 24' 3PT Jump Shot (3 PTS) (Felton 3 AST),25 - 21,-4
+0020800351,90,6,2,1,7:34 PM,1:02,,,Morrison S.FOUL (P1.T4),,
+0020800351,91,3,11,1,7:34 PM,1:02,Pachulia Free Throw 1 of 2 (1 PTS),,,25 - 22,-3
+0020800351,93,8,0,1,7:34 PM,1:02,,,SUB: Augustin FOR Felton,,
+0020800351,94,3,12,1,7:34 PM,1:02,Pachulia Free Throw 2 of 2 (2 PTS),,,25 - 23,-2
+0020800351,96,2,1,1,7:35 PM,0:44,,,MISS Augustin 28' 3PT Jump Shot,,
+0020800351,97,4,0,1,7:35 PM,0:40,HAWKS Rebound,,,,
+0020800351,98,8,0,1,7:35 PM,0:40,,,SUB: Wallace FOR Diaw,,
+0020800351,99,8,0,1,7:35 PM,0:40,SUB: Law FOR Johnson,,,,
+0020800351,100,5,2,1,7:35 PM,0:34,Murray Lost Ball Turnover (P1.T2),,Carroll STEAL (1 STL),,
+0020800351,101,1,41,1,7:36 PM,0:32,,,Augustin  Running Layup (2 PTS),27 - 23,-4
+0020800351,102,2,1,1,7:36 PM,0:12,MISS Murray 29' 3PT Jump Shot,,,,
+0020800351,103,4,0,1,7:36 PM,0:10,Pachulia REBOUND (Off:1 Def:1),,,,
+0020800351,104,2,77,1,7:36 PM,0:01,MISS Murray 4' Driving Jump Shot,,,,
+0020800351,105,4,0,1,7:36 PM,0:00,,,Wallace REBOUND (Off:0 Def:2),,
+0020800351,106,2,1,1,7:36 PM,0:00,,,MISS Augustin 37' 3PT Jump Shot,,
+0020800351,107,4,0,1,7:36 PM,0:00,,,Bobcats Rebound,,
+0020800351,108,13,0,1,7:36 PM,0:00,,,,27 - 23,-4
+0020800351,110,12,0,2,7:39 PM,12:00,,,,27 - 23,-4
+0020800351,111,5,2,2,7:39 PM,11:54,Murray Lost Ball Turnover (P2.T3),,Carroll STEAL (2 STL),,
+0020800351,112,1,41,2,7:39 PM,11:48,,,Carroll 3' Running Layup (5 PTS) (Augustin 1 AST),29 - 23,-6
+0020800351,113,2,1,2,7:40 PM,11:22,MISS Pachulia 3' Jump Shot,,,,
+0020800351,114,4,0,2,7:40 PM,11:20,Williams REBOUND (Off:1 Def:1),,,,
+0020800351,115,1,5,2,7:40 PM,11:17,Pachulia 3' Layup (4 PTS) (Williams 1 AST),,,29 - 25,-4
+0020800351,116,1,7,2,7:40 PM,10:59,,,Mohammed  Dunk (2 PTS) (Augustin 2 AST),31 - 25,-6
+0020800351,117,6,2,2,7:41 PM,10:39,,,Mohammed S.FOUL (P1.T1),,
+0020800351,118,3,11,2,7:41 PM,10:39,MISS Pachulia Free Throw 1 of 2,,,,
+0020800351,119,4,1,2,7:41 PM,10:39,HAWKS Rebound,,,,
+0020800351,120,3,12,2,7:41 PM,10:39,MISS Pachulia Free Throw 2 of 2,,,,
+0020800351,122,4,0,2,7:41 PM,10:38,,,Mohammed REBOUND (Off:0 Def:1),,
+0020800351,123,6,2,2,7:42 PM,10:29,Pachulia S.FOUL (P1.T1),,,,
+0020800351,124,3,11,2,7:42 PM,10:29,,,Wallace Free Throw 1 of 2 (5 PTS),32 - 25,-7
+0020800351,126,3,12,2,7:42 PM,10:29,,,Wallace Free Throw 2 of 2 (6 PTS),33 - 25,-8
+0020800351,128,6,2,2,7:43 PM,10:13,,,Mohammed S.FOUL (P2.T2),,
+0020800351,129,3,11,2,7:43 PM,10:13,Williams Free Throw 1 of 2 (1 PTS),,,33 - 26,-7
+0020800351,131,3,12,2,7:43 PM,10:13,MISS Williams Free Throw 2 of 2,,,,
+0020800351,133,4,0,2,7:43 PM,10:12,,,Wallace REBOUND (Off:0 Def:3),,
+0020800351,134,2,44,2,7:44 PM,10:00,,,MISS Mohammed 3' Reverse Layup,,
+0020800351,135,4,0,2,7:44 PM,9:59,Evans REBOUND (Off:2 Def:1),,,,
+0020800351,136,6,4,2,7:44 PM,9:43,Pachulia OFF.Foul (P2),,,,
+0020800351,137,5,5,2,7:44 PM,9:43,Pachulia Foul Turnover (P1.T4),,,,
+0020800351,138,8,0,2,7:44 PM,9:43,SUB: Horford FOR Pachulia,,,,
+0020800351,139,8,0,2,7:44 PM,9:43,SUB: Johnson FOR Evans,,,,
+0020800351,140,2,1,2,7:44 PM,9:31,,,MISS Morrison 6' Jump Shot,,
+0020800351,141,4,0,2,7:44 PM,9:31,,,Bobcats Rebound,,
+0020800351,142,6,3,2,7:45 PM,9:31,Horford L.B.FOUL (P2.T2),,,,
+0020800351,143,1,46,2,7:45 PM,9:14,,,Augustin 10' Running Jump Shot (4 PTS),35 - 26,-9
+0020800351,144,2,1,2,7:45 PM,8:58,MISS Murray 25' 3PT Jump Shot,,,,
+0020800351,145,4,0,2,7:45 PM,8:57,Williams REBOUND (Off:2 Def:1),,,,
+0020800351,146,1,72,2,7:45 PM,8:55,Williams  Putback Layup (3 PTS),,,35 - 28,-7
+0020800351,148,2,1,2,7:46 PM,8:32,,,MISS Carroll 27' 3PT Jump Shot,,
+0020800351,149,4,0,2,7:46 PM,8:31,Johnson REBOUND (Off:0 Def:1),,,,
+0020800351,150,5,39,2,7:46 PM,8:24,Law Step Out of Bounds Turnover (P1.T5),,,,
+0020800351,151,9,4,2,7:46 PM,8:24,,,,,
+0020800351,152,8,0,2,7:49 PM,8:24,,,SUB: Diaw FOR Morrison,,
+0020800351,153,8,0,2,7:49 PM,8:24,,,SUB: Okafor FOR Mohammed,,
+0020800351,154,7,5,2,7:49 PM,8:03,Horford Violation:Kicked Ball,,,,
+0020800351,155,2,42,2,7:50 PM,7:54,,,MISS Diaw 2' Driving Layup,,
+0020800351,156,4,0,2,7:50 PM,7:52,Horford REBOUND (Off:0 Def:2),,,,
+0020800351,157,2,56,2,7:50 PM,7:34,MISS Horford 5' Running Hook Shot,,,,
+0020800351,158,4,0,2,7:50 PM,7:33,,,Wallace REBOUND (Off:0 Def:4),,
+0020800351,159,6,1,2,7:50 PM,7:24,Williams P.FOUL (P1.T3),,,,
+0020800351,160,8,0,2,7:50 PM,7:24,,,SUB: Felton FOR Carroll,,
+0020800351,161,8,0,2,7:50 PM,7:24,SUB: Bibby FOR Murray,,,,
+0020800351,162,2,1,2,7:51 PM,7:13,Johnson BLOCK (1 BLK),,MISS Okafor 3' Jump Shot,,
+0020800351,163,4,0,2,7:51 PM,7:13,,,Bobcats Rebound,,
+0020800351,164,2,1,2,7:51 PM,7:10,,,MISS Felton 20' Jump Shot,,
+0020800351,165,4,0,2,7:51 PM,7:09,Horford REBOUND (Off:0 Def:3),,,,
+0020800351,166,1,3,2,7:51 PM,6:53,Johnson 5' Hook Shot (4 PTS),,,35 - 30,-5
+0020800351,167,2,1,2,7:52 PM,6:28,,,MISS Wallace 21' Jump Shot,,
+0020800351,168,4,0,2,7:52 PM,6:27,Horford REBOUND (Off:0 Def:4),,,,
+0020800351,169,2,1,2,7:52 PM,6:16,MISS Williams 15' Jump Shot,,,,
+0020800351,170,4,0,2,7:52 PM,6:15,,,Augustin REBOUND (Off:0 Def:1),,
+0020800351,171,6,1,2,7:52 PM,6:15,Law P.FOUL (P1.T4),,,,
+0020800351,172,1,46,2,7:52 PM,6:05,,,Augustin 11' Running Jump Shot (6 PTS),37 - 30,-7
+0020800351,174,2,1,2,7:53 PM,5:40,MISS Johnson 18' Jump Shot,,,,
+0020800351,175,4,0,2,7:53 PM,5:39,,,Wallace REBOUND (Off:0 Def:5),,
+0020800351,176,6,4,2,7:53 PM,5:36,,,Wallace OFF.Foul (P1),,
+0020800351,177,5,5,2,7:53 PM,5:36,,,Wallace Foul Turnover (P1.T2),,
+0020800351,178,9,1,2,7:53 PM,5:36,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0020800351,180,8,0,2,7:55 PM,5:36,SUB: Evans FOR Law,,,,
+0020800351,181,1,1,2,7:56 PM,5:22,Bibby 19' Jump Shot (8 PTS) (Horford 2 AST),,,37 - 32,-5
+0020800351,182,1,73,2,7:56 PM,5:02,,,Wallace 2' Driving Reverse Layup (8 PTS) (Diaw 2 AST),39 - 32,-7
+0020800351,183,7,5,2,7:57 PM,4:53,,,Augustin Violation:Kicked Ball,,
+0020800351,184,6,1,2,7:57 PM,4:51,,,Wallace P.FOUL (P2.T3),,
+0020800351,185,2,1,2,7:57 PM,4:43,MISS Evans 27' 3PT Jump Shot,,,,
+0020800351,186,4,0,2,7:57 PM,4:40,,,Okafor REBOUND (Off:0 Def:6),,
+0020800351,187,6,2,2,7:58 PM,4:26,Williams S.FOUL (P2.PN),,,,
+0020800351,188,3,11,2,7:58 PM,4:26,,,Okafor Free Throw 1 of 2 (3 PTS),40 - 32,-8
+0020800351,190,8,0,2,7:58 PM,4:26,,,SUB: Carroll FOR Wallace,,
+0020800351,191,3,12,2,7:59 PM,4:26,,,Okafor Free Throw 2 of 2 (4 PTS),41 - 32,-9
+0020800351,193,1,1,2,7:59 PM,4:06,Horford 5' Jump Shot (4 PTS) (Bibby 1 AST),,,41 - 34,-7
+0020800351,194,1,44,2,7:59 PM,3:45,,,Diaw 3' Reverse Layup (13 PTS) (Felton 4 AST),43 - 34,-9
+0020800351,195,6,1,2,8:00 PM,3:31,,,Augustin P.FOUL (P1.T4),,
+0020800351,196,1,5,2,8:00 PM,3:22,Johnson 2' Layup (6 PTS) (Williams 2 AST),,,43 - 36,-7
+0020800351,197,9,1,2,8:00 PM,3:16,,,Bobcats Timeout: Regular (Reg.2 Short 0),,
+0020800351,198,8,0,2,8:03 PM,3:16,SUB: Murray FOR Williams,,,,
+0020800351,199,8,0,2,8:03 PM,3:16,SUB: Pachulia FOR Horford,,,,
+0020800351,201,2,1,2,8:03 PM,3:04,,,MISS Augustin 26' 3PT Jump Shot,,
+0020800351,202,4,0,2,8:03 PM,3:03,Evans REBOUND (Off:2 Def:2),,,,
+0020800351,203,2,1,2,8:03 PM,2:56,MISS Bibby 26' 3PT Jump Shot,,,,
+0020800351,204,4,0,2,8:03 PM,2:54,,,Bobcats Rebound,,
+0020800351,205,6,1,2,8:04 PM,2:43,Evans P.FOUL (P1.PN),,,,
+0020800351,206,3,11,2,8:04 PM,2:43,,,MISS Diaw Free Throw 1 of 2,,
+0020800351,207,4,1,2,8:04 PM,2:43,,,Bobcats Rebound,,
+0020800351,208,3,12,2,8:04 PM,2:43,,,MISS Diaw Free Throw 2 of 2,,
+0020800351,210,4,0,2,8:04 PM,2:41,Johnson REBOUND (Off:0 Def:2),,,,
+0020800351,211,2,1,2,8:05 PM,2:29,MISS Evans 26' 3PT Jump Shot,,,,
+0020800351,212,4,0,2,8:05 PM,2:29,,,Bobcats Rebound,,
+0020800351,213,6,3,2,8:05 PM,2:29,Pachulia L.B.FOUL (P3.PN),,,,
+0020800351,214,3,11,2,8:05 PM,2:29,,,Okafor Free Throw 1 of 2 (5 PTS),44 - 36,-8
+0020800351,216,8,0,2,8:05 PM,2:29,SUB: Jones FOR Pachulia,,,,
+0020800351,217,3,12,2,8:05 PM,2:29,,,Okafor Free Throw 2 of 2 (6 PTS),45 - 36,-9
+0020800351,219,1,47,2,8:06 PM,2:12,Johnson 8' Turnaround Jump Shot (8 PTS) (Bibby 2 AST),,,45 - 38,-7
+0020800351,220,5,1,2,8:06 PM,1:52,Murray STEAL (1 STL),,Diaw Bad Pass Turnover (P1.T3),,
+0020800351,221,2,41,2,8:06 PM,1:46,MISS Murray 3' Running Layup,,,,
+0020800351,222,4,0,2,8:06 PM,1:44,Bibby REBOUND (Off:1 Def:1),,,,
+0020800351,223,1,46,2,8:06 PM,1:38,Bibby 10' Running Jump Shot (10 PTS) (Johnson 5 AST),,,45 - 40,-5
+0020800351,224,2,1,2,8:07 PM,1:16,,,MISS Augustin 28' 3PT Jump Shot,,
+0020800351,225,4,0,2,8:07 PM,1:15,HAWKS Rebound,,,,
+0020800351,227,6,1,2,8:07 PM,0:58,,,Augustin P.FOUL (P2.PN),,
+0020800351,228,3,11,2,8:07 PM,0:58,Johnson Free Throw 1 of 2 (9 PTS),,,45 - 41,-4
+0020800351,230,3,12,2,8:08 PM,0:58,Johnson Free Throw 2 of 2 (10 PTS),,,45 - 42,-3
+0020800351,232,1,1,2,8:08 PM,0:40,,,Felton 26' 3PT Jump Shot (6 PTS) (Augustin 3 AST),48 - 42,-6
+0020800351,233,2,1,2,8:09 PM,0:24,MISS Murray 29' 3PT Jump Shot,,,,
+0020800351,234,4,0,2,8:09 PM,0:21,Evans REBOUND (Off:3 Def:2),,,,
+0020800351,236,2,1,2,8:09 PM,0:01,MISS Bibby 24' 3PT Jump Shot,,,,
+0020800351,237,4,0,2,8:09 PM,0:00,,,Okafor REBOUND (Off:0 Def:7),,
+0020800351,238,13,0,2,8:09 PM,0:00,,,,48 - 42,-6
+0020800351,240,12,0,3,8:25 PM,12:00,,,,48 - 42,-6
+0020800351,241,1,1,3,8:25 PM,11:42,Johnson 13' Jump Shot (12 PTS) (Bibby 3 AST),,,48 - 44,-4
+0020800351,242,2,42,3,8:26 PM,11:28,,,MISS Diaw 4' Driving Layup,,
+0020800351,243,4,0,3,8:26 PM,11:28,,,Bobcats Rebound,,
+0020800351,244,2,1,3,8:26 PM,11:16,,,MISS Felton  3PT Jump Shot,,
+0020800351,245,4,0,3,8:26 PM,11:16,HAWKS Rebound,,,,
+0020800351,246,6,3,3,8:26 PM,11:16,,,Diaw L.B.FOUL (P2.T1),,
+0020800351,247,1,1,3,8:27 PM,11:02,Johnson  3PT Jump Shot (15 PTS) (Bibby 4 AST),,,48 - 47,-1
+0020800351,248,2,1,3,8:27 PM,10:39,,,MISS Bell 26' 3PT Jump Shot,,
+0020800351,249,4,0,3,8:27 PM,10:37,,,Okafor REBOUND (Off:1 Def:7),,
+0020800351,250,2,1,3,8:27 PM,10:35,,,MISS Okafor 6' Jump Shot,,
+0020800351,251,4,0,3,8:27 PM,10:34,Horford REBOUND (Off:0 Def:5),,,,
+0020800351,252,2,41,3,8:27 PM,10:29,MISS Horford 2' Running Layup,,,,
+0020800351,253,4,0,3,8:27 PM,10:27,,,Wallace REBOUND (Off:0 Def:6),,
+0020800351,254,1,5,3,8:27 PM,10:15,,,Okafor 3' Layup (8 PTS) (Diaw 3 AST),50 - 47,-3
+0020800351,255,1,1,3,8:28 PM,9:53,Bibby 21' Jump Shot (12 PTS) (Johnson 6 AST),,,50 - 49,-1
+0020800351,256,2,77,3,8:28 PM,9:35,,,MISS Felton 6' Driving Jump Shot,,
+0020800351,257,4,0,3,8:28 PM,9:34,Horford REBOUND (Off:0 Def:6),,,,
+0020800351,258,2,1,3,8:28 PM,9:29,MISS Johnson 24' 3PT Jump Shot,,,,
+0020800351,259,4,0,3,8:28 PM,9:27,,,Bell REBOUND (Off:0 Def:1),,
+0020800351,260,1,42,3,8:28 PM,9:18,,,Diaw 3' Driving Layup (15 PTS) (Felton 5 AST),52 - 49,-3
+0020800351,261,2,58,3,8:29 PM,8:56,MISS Smith 8' Turnaround Hook Shot,,,,
+0020800351,262,4,0,3,8:29 PM,8:52,,,Okafor REBOUND (Off:1 Def:8),,
+0020800351,263,6,1,3,8:29 PM,8:42,Bibby P.FOUL (P1.T1),,,,
+0020800351,264,1,1,3,8:29 PM,8:29,,,Felton 28' 3PT Jump Shot (9 PTS) (Bell 1 AST),55 - 49,-6
+0020800351,265,5,8,3,8:30 PM,8:12,Smith 3 Second Violation Turnover (P1.T6),,,,
+0020800351,266,1,1,3,8:30 PM,7:54,,,Diaw 22' Jump Shot (17 PTS) (Felton 6 AST),57 - 49,-8
+0020800351,267,5,1,3,8:31 PM,7:33,Horford Bad Pass Turnover (P1.T7),,,,
+0020800351,270,6,2,3,8:31 PM,7:17,Johnson S.FOUL (P2.T2),,,,
+0020800351,271,3,11,3,8:32 PM,7:17,,,Diaw Free Throw 1 of 2 (18 PTS),58 - 49,-9
+0020800351,273,3,12,3,8:32 PM,7:17,,,MISS Diaw Free Throw 2 of 2,,
+0020800351,275,4,0,3,8:32 PM,7:16,Williams REBOUND (Off:2 Def:2),,,,
+0020800351,276,1,1,3,8:32 PM,7:02,Johnson 5' Jump Shot (17 PTS) (Bibby 5 AST),,,58 - 51,-7
+0020800351,277,2,1,3,8:32 PM,6:47,,,MISS Diaw 8' Jump Shot,,
+0020800351,278,4,0,3,8:32 PM,6:46,Smith REBOUND (Off:0 Def:4),,,,
+0020800351,280,7,2,3,8:33 PM,6:42,,,Wallace Violation:Defensive Goaltending,,
+0020800351,279,1,56,3,8:33 PM,6:42,Smith 7' Running Hook Shot (11 PTS),,,58 - 53,-5
+0020800351,281,2,63,3,8:33 PM,6:29,,,MISS Bell 15' Fadeaway Jumper,,
+0020800351,282,4,0,3,8:33 PM,6:26,Bibby REBOUND (Off:1 Def:2),,,,
+0020800351,283,1,7,3,8:33 PM,6:22,Horford  Dunk (6 PTS) (Smith 2 AST),,,58 - 55,-3
+0020800351,284,1,1,3,8:33 PM,6:02,,,Diaw 28' 3PT Jump Shot (21 PTS) (Felton 7 AST),61 - 55,-6
+0020800351,285,2,46,3,8:34 PM,5:44,MISS Johnson 10' Running Jump Shot,,,,
+0020800351,286,4,0,3,8:34 PM,5:43,,,Okafor REBOUND (Off:1 Def:9),,
+0020800351,287,2,1,3,8:34 PM,5:39,,,MISS Felton 6' Jump Shot,,
+0020800351,296,4,0,3,8:34 PM,5:36,HAWKS Rebound,,,,
+0020800351,289,9,1,3,8:34 PM,5:36,HAWKS Timeout: Regular (Full 3 Short 0),,,,
+0020800351,292,8,0,3,8:37 PM,5:36,,,SUB: Morrison FOR Diaw,,
+0020800351,293,2,1,3,8:37 PM,5:13,MISS Johnson 28' 3PT Jump Shot,,,,
+0020800351,295,4,0,3,8:37 PM,5:11,,,Wallace REBOUND (Off:0 Def:7),,
+0020800351,297,2,1,3,8:38 PM,4:49,,,MISS Felton 22' Jump Shot,,
+0020800351,298,4,0,3,8:38 PM,4:47,Horford REBOUND (Off:0 Def:7),,,,
+0020800351,299,1,7,3,8:38 PM,4:37,Williams  Dunk (5 PTS) (Horford 3 AST),,,61 - 57,-4
+0020800351,301,1,5,3,8:38 PM,4:23,,,Wallace 2' Layup (10 PTS) (Morrison 1 AST),63 - 57,-6
+0020800351,303,2,47,3,8:39 PM,3:58,MISS Johnson 9' Turnaround Jump Shot,,,,
+0020800351,304,4,0,3,8:39 PM,3:58,,,Bobcats Rebound,,
+0020800351,305,6,3,3,8:39 PM,3:58,Horford L.B.FOUL (P3.T3),,,,
+0020800351,306,2,41,3,8:39 PM,3:42,,,MISS Wallace 2' Running Layup,,
+0020800351,307,4,0,3,8:39 PM,3:40,Williams REBOUND (Off:2 Def:3),,,,
+0020800351,308,2,1,3,8:39 PM,3:32,MISS Bibby 27' 3PT Jump Shot,,,,
+0020800351,309,4,0,3,8:39 PM,3:30,Johnson REBOUND (Off:1 Def:2),,,,
+0020800351,310,2,1,3,8:39 PM,3:23,MISS Smith 27' 3PT Jump Shot,,,,
+0020800351,311,4,0,3,8:40 PM,3:22,,,Wallace REBOUND (Off:0 Def:8),,
+0020800351,312,1,41,3,8:40 PM,3:17,,,Felton 3' Running Layup (11 PTS) (Wallace 2 AST),65 - 57,-8
+0020800351,313,9,1,3,8:40 PM,3:12,HAWKS Timeout: Regular (Full 4 Short 0),,,,
+0020800351,314,8,0,3,8:42 PM,3:12,SUB: Evans FOR Williams,,,,
+0020800351,315,8,0,3,8:42 PM,3:12,,,SUB: Augustin FOR Felton,,
+0020800351,316,1,1,3,8:43 PM,3:00,Bibby 17' Jump Shot (14 PTS) (Horford 4 AST),,,65 - 59,-6
+0020800351,317,2,47,3,8:43 PM,2:43,,,MISS Morrison 12' Turnaround Jump Shot,,
+0020800351,318,4,0,3,8:43 PM,2:42,Horford REBOUND (Off:0 Def:8),,,,
+0020800351,319,6,1,3,8:43 PM,2:41,,,Morrison P.FOUL (P2.T2),,
+0020800351,320,6,11,3,8:44 PM,2:41,,,Morrison T.FOUL (P2.T2),,
+0020800351,321,3,16,3,8:44 PM,2:41,MISS Johnson Free Throw Technical,,,,
+0020800351,322,4,1,3,8:44 PM,2:41,HAWKS Rebound,,,,
+0020800351,323,2,1,3,8:44 PM,2:25,MISS Bibby 19' Jump Shot,,,,
+0020800351,324,4,0,3,8:44 PM,2:23,Smith REBOUND (Off:1 Def:4),,,,
+0020800351,325,1,51,3,8:45 PM,2:22,Smith  Reverse Dunk (13 PTS),,,65 - 61,-4
+0020800351,326,5,4,3,8:45 PM,2:08,,,Wallace Traveling Turnover (P2.T4),,
+0020800351,327,8,0,3,8:45 PM,2:08,,,SUB: Diaw FOR Wallace,,
+0020800351,328,7,1,3,8:45 PM,2:08,,,Bobcats Violation: Delay of game Violation,,
+0020800351,329,6,1,3,8:46 PM,1:47,,,Augustin P.FOUL (P3.T3),,
+0020800351,330,1,1,3,8:46 PM,1:42,Johnson 27' 3PT Jump Shot (20 PTS) (Horford 5 AST),,,65 - 64,-1
+0020800351,331,9,1,3,8:46 PM,1:40,,,Bobcats Timeout: Regular (Reg.3 Short 0),,
+0020800351,333,1,1,3,8:49 PM,1:33,,,Augustin 27' 3PT Jump Shot (9 PTS),68 - 64,-4
+0020800351,334,2,1,3,8:49 PM,1:06,MISS Horford 18' Jump Shot,,,,
+0020800351,335,4,0,3,8:49 PM,1:05,,,Bell REBOUND (Off:0 Def:2),,
+0020800351,336,2,1,3,8:50 PM,0:53,,,MISS Augustin 25' 3PT Jump Shot,,
+0020800351,337,4,0,3,8:50 PM,0:52,Johnson REBOUND (Off:1 Def:3),,,,
+0020800351,338,1,46,3,8:50 PM,0:46,Johnson 7' Running Jump Shot (22 PTS),,,68 - 66,-2
+0020800351,339,2,1,3,8:50 PM,0:27,,,MISS Diaw 15' Jump Shot,,
+0020800351,340,4,0,3,8:50 PM,0:25,Evans REBOUND (Off:3 Def:3),,,,
+0020800351,341,1,1,3,8:50 PM,0:02,Horford 5' Jump Shot (8 PTS) (Johnson 7 AST),,,68 - 68,TIE
+0020800351,342,2,1,3,8:51 PM,0:00,,,MISS Bell 39' 3PT Jump Shot,,
+0020800351,343,4,0,3,8:51 PM,0:00,,,Bobcats Rebound,,
+0020800351,344,13,0,3,8:51 PM,0:00,,,,68 - 68,TIE
+0020800351,346,12,0,4,8:53 PM,12:00,,,,68 - 68,TIE
+0020800351,347,2,47,4,8:54 PM,11:44,,,MISS Diaw 6' Turnaround Jump Shot,,
+0020800351,348,4,0,4,8:54 PM,11:44,,,Bobcats Rebound,,
+0020800351,349,2,5,4,8:54 PM,11:21,,,MISS Diaw 3' Layup,,
+0020800351,350,4,0,4,8:54 PM,11:20,Horford REBOUND (Off:0 Def:9),,,,
+0020800351,351,2,77,4,8:54 PM,11:14,MISS Evans 4' Driving Jump Shot,,,,
+0020800351,352,4,0,4,8:54 PM,11:12,Horford REBOUND (Off:1 Def:9),,,,
+0020800351,353,1,72,4,8:54 PM,11:11,Horford  Putback Layup (10 PTS),,,68 - 70,2
+0020800351,354,2,3,4,8:55 PM,10:46,,,MISS Diaw 7' Hook Shot,,
+0020800351,355,10,0,4,8:55 PM,10:45,Jump Ball Smith vs. Wallace: Tip to Augustin,,,,
+0020800351,356,4,0,4,8:55 PM,10:45,,,Bobcats Rebound,,
+0020800351,357,2,1,4,8:56 PM,10:23,,,MISS Felton 19' Jump Shot,,
+0020800351,358,4,0,4,8:56 PM,10:20,Smith REBOUND (Off:1 Def:5),,,,
+0020800351,359,2,1,4,8:56 PM,9:57,MISS Evans 25' 3PT Jump Shot,,,,
+0020800351,360,4,0,4,8:56 PM,9:56,,,Mohammed REBOUND (Off:0 Def:2),,
+0020800351,361,5,1,4,8:57 PM,9:33,Evans STEAL (1 STL),,Wallace Bad Pass Turnover (P3.T5),,
+0020800351,362,2,1,4,8:57 PM,9:12,MISS Murray 17' Jump Shot,,,,
+0020800351,363,4,0,4,8:57 PM,9:11,,,Wallace REBOUND (Off:0 Def:9),,
+0020800351,364,2,1,4,8:57 PM,9:05,Smith BLOCK (2 BLK),,MISS Felton 4' Jump Shot,,
+0020800351,365,4,0,4,8:57 PM,9:03,Smith REBOUND (Off:1 Def:6),,,,
+0020800351,366,2,7,4,8:57 PM,8:59,MISS Evans 3' Dunk,,Wallace BLOCK (2 BLK),,
+0020800351,367,4,0,4,8:57 PM,8:56,Evans REBOUND (Off:4 Def:3),,,,
+0020800351,368,2,72,4,8:57 PM,8:55,MISS Evans  Putback Layup,,,,
+0020800351,369,4,0,4,8:57 PM,8:54,,,Augustin REBOUND (Off:0 Def:2),,
+0020800351,371,2,5,4,8:57 PM,8:39,Smith BLOCK (3 BLK),,MISS Augustin 2' Layup,,
+0020800351,372,4,0,4,8:57 PM,8:37,Evans REBOUND (Off:4 Def:4),,,,
+0020800351,373,1,46,4,8:58 PM,8:23,Johnson 12' Running Jump Shot (24 PTS),,,68 - 72,4
+0020800351,374,9,1,4,8:58 PM,8:23,,,Bobcats Timeout: Regular (Reg.4 Short 0),,
+0020800351,376,8,0,4,9:00 PM,8:23,,,SUB: Bell FOR Mohammed,,
+0020800351,377,2,3,4,9:01 PM,8:08,Horford BLOCK (1 BLK),,MISS Diaw 8' Hook Shot,,
+0020800351,378,4,0,4,9:01 PM,8:05,Murray REBOUND (Off:0 Def:2),,,,
+0020800351,379,6,1,4,9:01 PM,7:54,,,Felton P.FOUL (P1.T1),,
+0020800351,380,8,0,4,9:01 PM,7:54,SUB: Williams FOR Evans,,,,
+0020800351,381,1,47,4,9:01 PM,7:44,Murray 4' Turnaround Jump Shot (2 PTS),,,68 - 74,6
+0020800351,382,2,1,4,9:02 PM,7:19,,,MISS Augustin 29' 3PT Jump Shot,,
+0020800351,383,4,0,4,9:02 PM,7:17,,,Diaw REBOUND (Off:1 Def:0),,
+0020800351,384,1,72,4,9:02 PM,7:16,,,Diaw  Putback Layup (23 PTS),70 - 74,4
+0020800351,385,6,2,4,9:02 PM,6:58,,,Bell S.FOUL (P3.T2),,
+0020800351,386,3,11,4,9:02 PM,6:58,MISS Smith Free Throw 1 of 2,,,,
+0020800351,387,4,1,4,9:02 PM,6:58,HAWKS Rebound,,,,
+0020800351,388,3,12,4,9:03 PM,6:58,MISS Smith Free Throw 2 of 2,,,,
+0020800351,390,4,0,4,9:03 PM,6:56,,,Diaw REBOUND (Off:1 Def:1),,
+0020800351,391,2,42,4,9:03 PM,6:37,Horford BLOCK (2 BLK),,MISS Augustin 2' Driving Layup,,
+0020800351,392,4,0,4,9:03 PM,6:35,Horford REBOUND (Off:1 Def:10),,,,
+0020800351,393,2,47,4,9:04 PM,6:17,MISS Horford 8' Turnaround Jump Shot,,,,
+0020800351,394,4,0,4,9:04 PM,6:15,,,Wallace REBOUND (Off:0 Def:10),,
+0020800351,395,6,2,4,9:04 PM,6:12,Smith S.FOUL (P3.T1),,,,
+0020800351,396,3,11,4,9:04 PM,6:12,,,MISS Wallace Free Throw 1 of 2,,
+0020800351,397,4,1,4,9:04 PM,6:12,,,Bobcats Rebound,,
+0020800351,398,3,12,4,9:04 PM,6:12,,,Wallace Free Throw 2 of 2 (11 PTS),71 - 74,3
+0020800351,400,1,3,4,9:05 PM,5:53,Smith 11' Hook Shot (15 PTS) (Johnson 8 AST),,,71 - 76,5
+0020800351,401,2,42,4,9:05 PM,5:31,,,MISS Felton 4' Driving Layup,,
+0020800351,402,4,0,4,9:05 PM,5:30,Horford REBOUND (Off:1 Def:11),,,,
+0020800351,403,9,1,4,9:05 PM,5:25,HAWKS Timeout: Regular (Full 5 Short 0),,,,
+0020800351,405,8,0,4,9:08 PM,5:25,SUB: Bibby FOR Murray,,,,
+0020800351,406,1,1,4,9:08 PM,5:07,Johnson 20' Jump Shot (26 PTS),,,71 - 78,7
+0020800351,407,6,1,4,9:09 PM,4:48,Johnson P.FOUL (P3.T2),,,,
+0020800351,408,2,63,4,9:09 PM,4:40,,,MISS Augustin 13' Fadeaway Jumper,,
+0020800351,409,4,0,4,9:09 PM,4:38,Horford REBOUND (Off:1 Def:12),,,,
+0020800351,410,1,56,4,9:09 PM,4:22,Horford 6' Running Hook Shot (12 PTS) (Bibby 6 AST),,,71 - 80,9
+0020800351,411,2,1,4,9:10 PM,3:57,,,MISS Diaw 28' 3PT Jump Shot,,
+0020800351,412,4,0,4,9:10 PM,3:55,Williams REBOUND (Off:2 Def:4),,,,
+0020800351,413,6,1,4,9:10 PM,3:45,,,Bell P.FOUL (P4.T3),,
+0020800351,414,8,0,4,9:10 PM,3:45,,,SUB: Okafor FOR Wallace,,
+0020800351,415,5,40,4,9:10 PM,3:37,Horford Out of Bounds Lost Ball Turnover (P2.T8),,,,
+0020800351,416,6,1,4,9:11 PM,3:23,Bibby P.FOUL (P2.T3),,,,
+0020800351,417,6,4,4,9:11 PM,3:17,,,Diaw OFF.Foul (P3),,
+0020800351,418,5,5,4,9:11 PM,3:17,,,Diaw Foul Turnover (P2.T6),,
+0020800351,419,2,1,4,9:12 PM,2:58,MISS Bibby 19' Jump Shot,,,,
+0020800351,420,4,0,4,9:12 PM,2:57,,,Felton REBOUND (Off:0 Def:1),,
+0020800351,421,2,42,4,9:12 PM,2:46,Smith BLOCK (4 BLK),,MISS Felton 4' Driving Layup,,
+0020800351,422,4,0,4,9:12 PM,2:44,,,Diaw REBOUND (Off:2 Def:1),,
+0020800351,423,1,3,4,9:12 PM,2:38,,,Diaw 6' Hook Shot (25 PTS),73 - 80,7
+0020800351,424,6,4,4,9:13 PM,2:13,Horford OFF.Foul (P4),,,,
+0020800351,425,5,5,4,9:13 PM,2:13,Horford Foul Turnover (P3.T9),,,,
+0020800351,426,9,4,4,9:13 PM,2:13,,,,,
+0020800351,428,2,1,4,9:16 PM,2:02,,,MISS Diaw 16' Jump Shot,,
+0020800351,429,4,0,4,9:16 PM,2:01,,,Okafor REBOUND (Off:2 Def:9),,
+0020800351,430,2,3,4,9:16 PM,1:56,,,MISS Okafor 6' Hook Shot,,
+0020800351,431,4,0,4,9:16 PM,1:53,Horford REBOUND (Off:1 Def:13),,,,
+0020800351,432,2,1,4,9:16 PM,1:39,MISS Smith 18' Jump Shot,,,,
+0020800351,433,4,0,4,9:16 PM,1:38,,,Bell REBOUND (Off:0 Def:3),,
+0020800351,434,1,1,4,9:16 PM,1:29,,,Felton 21' Jump Shot (13 PTS) (Augustin 4 AST),75 - 80,5
+0020800351,435,2,1,4,9:17 PM,1:04,MISS Smith 17' Jump Shot,,,,
+0020800351,436,4,0,4,9:17 PM,1:04,HAWKS Rebound,,,,
+0020800351,437,5,11,4,9:17 PM,1:04,HAWKS Turnover: Shot Clock (T#10),,,,
+0020800351,439,6,2,4,9:17 PM,0:47,Horford S.FOUL (P5.T4),,,,
+0020800351,440,3,11,4,9:18 PM,0:47,,,Felton Free Throw 1 of 2 (14 PTS),76 - 80,4
+0020800351,442,3,12,4,9:18 PM,0:47,,,Felton Free Throw 2 of 2 (15 PTS),77 - 80,3
+0020800351,444,1,63,4,9:18 PM,0:24,Johnson 17' Fadeaway Jumper (28 PTS),,,77 - 82,5
+0020800351,445,9,1,4,9:19 PM,0:24,,,Bobcats Timeout: Regular (Reg.5 Short 0),,
+0020800351,446,2,5,4,9:21 PM,0:08,Smith BLOCK (5 BLK),,MISS Okafor 4' Layup,,
+0020800351,447,4,0,4,9:21 PM,0:07,Johnson REBOUND (Off:1 Def:4),,,,
+0020800351,448,6,1,4,9:21 PM,0:07,,,Bell P.FOUL (P5.T4),,
+0020800351,449,6,1,4,9:22 PM,0:04,,,Diaw P.FOUL (P4.PN),,
+0020800351,450,3,11,4,9:22 PM,0:04,MISS Williams Free Throw 1 of 2,,,,
+0020800351,451,4,1,4,9:22 PM,0:04,HAWKS Rebound,,,,
+0020800351,452,8,0,4,9:22 PM,0:04,SUB: West FOR Johnson,,,,
+0020800351,453,8,0,4,9:22 PM,0:04,SUB: Morris FOR Horford,,,,
+0020800351,454,3,12,4,9:22 PM,0:04,Williams Free Throw 2 of 2 (6 PTS),,,77 - 83,6
+0020800351,456,9,2,4,9:23 PM,0:04,,,Bobcats Timeout: Short (Reg.5 Short 1),,
+0020800351,457,8,0,4,9:23 PM,0:04,SUB: Jones FOR Bibby,,,,
+0020800351,458,1,47,4,9:24 PM,0:00,,,Okafor 12' Turnaround Jump Shot (10 PTS) (Bell 2 AST),79 - 83,4
+0020800351,459,13,0,4,9:24 PM,0:00,,,,79 - 83,4

@@ -1,0 +1,447 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020401053,0,12,0,1,7:30 PM,12:00,,,,,
+0020401053,1,10,0,1,7:30 PM,12:00,Jump Ball Thomas vs. Smith: Tip to Ekezie,,,,
+0020401053,2,5,2,1,7:31 PM,11:38,Hughes STEAL (1 STL),,Lue Lost Ball Turnover (P1.T1),,
+0020401053,3,1,42,1,7:31 PM,11:33,Hughes 1' Driving Layup (2 PTS) (Thomas 1 AST),,,0 - 2,2
+0020401053,4,6,1,1,7:31 PM,11:15,Hughes P.FOUL (P1.T1),,,,
+0020401053,5,2,1,1,7:31 PM,11:02,,,MISS Harrington 19' Jump Shot,,
+0020401053,6,4,0,1,7:31 PM,11:01,Profit REBOUND (Off:0 Def:1),,,,
+0020401053,7,1,42,1,7:32 PM,10:57,Hughes 1' Driving Layup (4 PTS) (Arenas 1 AST),,,0 - 4,4
+0020401053,8,6,2,1,7:32 PM,10:57,,,Childress S.FOUL (P1.T1),,
+0020401053,9,3,10,1,7:32 PM,10:57,MISS Hughes Free Throw 1 of 1,,,,
+0020401053,10,4,0,1,7:32 PM,10:56,,,Smith REBOUND (Off:0 Def:1),,
+0020401053,11,5,4,1,7:32 PM,10:48,,,Harrington Traveling Turnover (P1.T2),,
+0020401053,12,1,42,1,7:33 PM,10:36,Profit 1' Driving Layup (2 PTS),,,0 - 6,6
+0020401053,13,1,52,1,7:33 PM,10:17,,,Smith 1' Alley Oop Dunk (2 PTS) (Harrington 1 AST),2 - 6,4
+0020401053,14,1,65,1,7:33 PM,9:57,Thomas 4' Jump Hook Shot (2 PTS),,,2 - 8,6
+0020401053,15,5,2,1,7:33 PM,9:49,Thomas STEAL (1 STL),,Childress Lost Ball Turnover (P1.T3),,
+0020401053,16,2,1,1,7:33 PM,9:42,MISS Hughes 22' Jump Shot,,,,
+0020401053,17,4,0,1,7:33 PM,9:40,,,Ekezie REBOUND (Off:0 Def:1),,
+0020401053,18,2,1,1,7:34 PM,9:33,,,MISS Lue 19' Jump Shot,,
+0020401053,19,4,0,1,7:34 PM,9:31,,,Childress REBOUND (Off:1 Def:0),,
+0020401053,20,5,41,1,7:34 PM,9:30,,,Childress Poss Lost Ball Turnover (P2.T4),,
+0020401053,21,6,1,1,7:34 PM,9:22,,,Ekezie P.FOUL (P1.T2),,
+0020401053,22,5,41,1,7:34 PM,9:16,Thomas Poss Lost Ball Turnover (P1.T1),,,,
+0020401053,23,2,1,1,7:35 PM,9:01,,,MISS Smith 17' Jump Shot,,
+0020401053,24,4,0,1,7:35 PM,9:00,,,Childress REBOUND (Off:2 Def:0),,
+0020401053,25,1,8,1,7:35 PM,9:00,,,Childress 1' Slam Dunk (2 PTS),4 - 8,4
+0020401053,26,6,2,1,7:35 PM,9:00,Thomas S.FOUL (P1.T2),,,,
+0020401053,27,3,10,1,7:35 PM,9:00,,,Childress Free Throw 1 of 1 (3 PTS),5 - 8,3
+0020401053,28,2,1,1,7:36 PM,8:40,MISS Profit 5' Jump Shot,,Smith BLOCK (1 BLK),,
+0020401053,29,4,0,1,7:36 PM,8:38,,,Ekezie REBOUND (Off:0 Def:2),,
+0020401053,30,6,2,1,7:36 PM,8:25,Thomas S.FOUL (P2.T3),,,,
+0020401053,31,3,11,1,7:36 PM,8:25,,,Harrington Free Throw 1 of 2 (1 PTS),6 - 8,2
+0020401053,32,3,12,1,7:36 PM,8:25,,,MISS Harrington Free Throw 2 of 2,,
+0020401053,33,4,0,1,7:36 PM,8:24,Thomas REBOUND (Off:0 Def:1),,,,
+0020401053,34,2,1,1,7:37 PM,8:05,MISS Thomas 8' Jump Shot,,Smith BLOCK (2 BLK),,
+0020401053,35,4,0,1,7:37 PM,8:03,,,Lue REBOUND (Off:0 Def:1),,
+0020401053,36,2,1,1,7:37 PM,7:51,,,MISS Smith 21' Jump Shot,,
+0020401053,37,4,0,1,7:37 PM,7:50,,,Ekezie REBOUND (Off:1 Def:2),,
+0020401053,38,1,64,1,7:37 PM,7:48,,,Ekezie  Follow Up Dunk (2 PTS),8 - 8,TIE
+0020401053,39,1,49,1,7:37 PM,7:31,Thomas  Driving Dunk (4 PTS) (Profit 1 AST),,,8 - 10,2
+0020401053,40,1,1,1,7:38 PM,7:09,,,Lue 7' Jump Shot (2 PTS),10 - 10,TIE
+0020401053,41,1,44,1,7:38 PM,6:55,Profit 1' Reverse Layup (4 PTS),,,10 - 12,2
+0020401053,42,1,46,1,7:38 PM,6:31,,,Lue 8' Running Jump Shot (4 PTS),12 - 12,TIE
+0020401053,43,1,1,1,7:39 PM,6:17,Profit 24' 3PT Jump Shot (7 PTS) (Jeffries 1 AST),,,12 - 15,3
+0020401053,44,5,2,1,7:39 PM,5:59,Arenas STEAL (1 STL),,Lue Lost Ball Turnover (P2.T5),,
+0020401053,45,1,5,1,7:39 PM,5:53,Hughes  Layup (6 PTS) (Jeffries 2 AST),,,12 - 17,5
+0020401053,46,9,1,1,7:39 PM,5:47,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0020401053,48,2,1,1,7:42 PM,5:33,,,MISS Lue 8' Jump Shot,,
+0020401053,49,4,0,1,7:42 PM,5:31,WIZARDS Rebound,,,,
+0020401053,50,2,5,1,7:42 PM,5:23,MISS Thomas  Layup,,,,
+0020401053,51,4,0,1,7:42 PM,5:22,,,Lue REBOUND (Off:0 Def:2),,
+0020401053,52,1,1,1,7:42 PM,5:05,,,Lue 25' 3PT Jump Shot (7 PTS) (Harrington 2 AST),15 - 17,2
+0020401053,53,2,1,1,7:43 PM,4:49,MISS Thomas 8' Jump Shot,,,,
+0020401053,54,4,0,1,7:43 PM,4:47,,,Smith REBOUND (Off:0 Def:2),,
+0020401053,55,2,1,1,7:43 PM,4:36,,,MISS Ekezie 5' Jump Shot,,
+0020401053,56,4,0,1,7:43 PM,4:34,,,Smith REBOUND (Off:1 Def:2),,
+0020401053,57,1,1,1,7:43 PM,4:32,,,Ekezie 12' Jump Shot (4 PTS) (Smith 1 AST),17 - 17,TIE
+0020401053,58,6,1,1,7:43 PM,4:25,,,Lue P.FOUL (P1.T3),,
+0020401053,59,8,0,1,7:43 PM,4:25,,,SUB: Gugliotta FOR Harrington,,
+0020401053,60,8,0,1,7:44 PM,4:15,,,SUB: Ivey FOR Lue,,
+0020401053,61,2,1,1,7:44 PM,4:12,MISS Hughes 17' Jump Shot,,,,
+0020401053,62,4,0,1,7:44 PM,4:10,Profit REBOUND (Off:1 Def:1),,,,
+0020401053,63,2,5,1,7:44 PM,4:08,MISS Profit 2' Layup,,,,
+0020401053,64,4,0,1,7:44 PM,4:07,,,Smith REBOUND (Off:1 Def:3),,
+0020401053,65,5,1,1,7:44 PM,4:02,Profit STEAL (1 STL),,Smith Bad Pass Turnover (P1.T6),,
+0020401053,66,1,8,1,7:44 PM,3:54,Thomas 1' Slam Dunk (6 PTS) (Jeffries 3 AST),,,17 - 19,2
+0020401053,67,2,1,1,7:45 PM,3:48,,,MISS Childress 4' Jump Shot,,
+0020401053,68,4,0,1,7:45 PM,3:46,Thomas REBOUND (Off:0 Def:2),,,,
+0020401053,69,2,1,1,7:45 PM,3:32,MISS Jeffries 25' 3PT Jump Shot,,,,
+0020401053,70,4,0,1,7:45 PM,3:31,,,Ivey REBOUND (Off:0 Def:1),,
+0020401053,71,6,4,1,7:45 PM,3:22,,,Ekezie OFF.Foul (P2),,
+0020401053,72,5,5,1,7:45 PM,3:22,,,Ekezie Foul Turnover (P1.T7),,
+0020401053,73,8,0,1,7:45 PM,3:22,,,SUB: Delk FOR Childress,,
+0020401053,74,2,1,1,7:46 PM,3:01,MISS Arenas 21' Jump Shot,,,,
+0020401053,75,4,0,1,7:46 PM,2:59,,,Gugliotta REBOUND (Off:0 Def:1),,
+0020401053,76,6,1,1,7:46 PM,2:46,Hughes P.FOUL (P2.T4),,,,
+0020401053,77,9,1,1,7:46 PM,2:46,WIZARDS Timeout: Regular (Full 1 Short 0),,,,
+0020401053,79,8,0,1,7:48 PM,2:46,SUB: Brown FOR Profit,,,,
+0020401053,80,8,0,1,7:48 PM,2:46,SUB: Dixon FOR Hughes,,,,
+0020401053,81,8,0,1,7:48 PM,2:46,,,SUB: Drobnjak FOR Ekezie,,
+0020401053,82,2,1,1,7:49 PM,2:40,Brown BLOCK (1 BLK),,MISS Smith 5' Jump Shot,,
+0020401053,83,4,0,1,7:49 PM,2:37,Arenas REBOUND (Off:0 Def:1),,,,
+0020401053,84,1,42,1,7:49 PM,2:35,Arenas  Driving Layup (2 PTS),,,17 - 21,4
+0020401053,85,2,1,1,7:49 PM,2:09,Jeffries BLOCK (1 BLK),,MISS Gugliotta 15' Jump Shot,,
+0020401053,86,4,0,1,7:50 PM,2:01,,,Hawks Rebound,,
+0020401053,87,5,11,1,7:50 PM,1:54,,,Hawks Turnover: Shot Clock (T#8),,
+0020401053,88,6,2,1,7:50 PM,1:54,,,Ivey S.FOUL (P1.T4),,
+0020401053,89,3,11,1,7:50 PM,1:54,Arenas Free Throw 1 of 2 (3 PTS),,,17 - 22,5
+0020401053,90,8,0,1,7:50 PM,1:54,,,SUB: Childress FOR Smith,,
+0020401053,91,3,12,1,7:50 PM,1:54,Arenas Free Throw 2 of 2 (4 PTS),,,17 - 23,6
+0020401053,92,2,1,1,7:51 PM,1:36,,,MISS Delk 18' Jump Shot,,
+0020401053,93,4,0,1,7:51 PM,1:35,Jeffries REBOUND (Off:0 Def:1),,,,
+0020401053,94,1,1,1,7:51 PM,1:29,Arenas 27' 3PT Jump Shot (7 PTS) (Jeffries 4 AST),,,17 - 26,9
+0020401053,95,1,46,1,7:52 PM,1:13,,,Ivey 6' Running Jump Shot (2 PTS),19 - 26,7
+0020401053,96,5,4,1,7:52 PM,0:50,Dixon Traveling Turnover (P1.T2),,,,
+0020401053,97,2,1,1,7:52 PM,0:34,,,MISS Delk 27' 3PT Jump Shot,,
+0020401053,98,4,0,1,7:52 PM,0:32,Jeffries REBOUND (Off:0 Def:2),,,,
+0020401053,99,2,5,1,7:53 PM,0:22,MISS Brown 1' Layup,,,,
+0020401053,100,4,0,1,7:53 PM,0:20,,,Childress REBOUND (Off:2 Def:1),,
+0020401053,101,2,1,1,7:53 PM,0:03,,,MISS Childress  3PT Jump Shot,,
+0020401053,102,4,0,1,7:53 PM,0:01,,,Drobnjak REBOUND (Off:1 Def:0),,
+0020401053,103,5,1,1,7:53 PM,0:00,,,Hawks Turnover: Bad Pass (T#9),,
+0020401053,105,13,0,1,7:53 PM,0:00,,,,19 - 26,7
+0020401053,107,12,0,2,7:56 PM,12:00,,,,19 - 26,7
+0020401053,108,1,7,2,7:56 PM,11:38,Brown 1' Dunk (2 PTS) (Hughes 1 AST),,,19 - 28,9
+0020401053,109,1,1,2,7:57 PM,11:15,,,Gugliotta 20' Jump Shot (2 PTS) (Ivey 1 AST),21 - 28,7
+0020401053,110,1,1,2,7:57 PM,10:55,Dixon 17' Jump Shot (2 PTS),,,21 - 30,9
+0020401053,111,2,1,2,7:57 PM,10:27,,,MISS Drobnjak 16' Jump Shot,,
+0020401053,112,4,0,2,7:57 PM,10:26,Hughes REBOUND (Off:0 Def:1),,,,
+0020401053,113,5,1,2,7:58 PM,10:21,Hughes Bad Pass Turnover (P1.T3),,Childress STEAL (1 STL),,
+0020401053,114,1,5,2,7:58 PM,10:18,,,Delk 1' Layup (2 PTS) (Childress 1 AST),23 - 30,7
+0020401053,115,1,42,2,7:58 PM,10:01,Dixon 2' Driving Layup (4 PTS),,,23 - 32,9
+0020401053,116,6,2,2,7:58 PM,10:01,,,Delk S.FOUL (P1.T1),,
+0020401053,117,8,0,2,7:58 PM,10:01,,,SUB: Harrington FOR Delk,,
+0020401053,118,3,10,2,7:58 PM,10:01,Dixon Free Throw 1 of 1 (5 PTS),,,23 - 33,10
+0020401053,119,1,1,2,7:59 PM,9:42,,,Drobnjak 17' Jump Shot (2 PTS) (Harrington 3 AST),25 - 33,8
+0020401053,120,2,1,2,7:59 PM,9:26,MISS Hughes 16' Jump Shot,,,,
+0020401053,121,4,0,2,7:59 PM,9:25,Ruffin REBOUND (Off:1 Def:0),,,,
+0020401053,122,6,2,2,7:59 PM,9:18,,,Childress S.FOUL (P2.T2),,
+0020401053,123,3,11,2,7:59 PM,9:18,Dixon Free Throw 1 of 2 (6 PTS),,,25 - 34,9
+0020401053,124,8,0,2,8:00 PM,9:18,,,SUB: Lue FOR Childress,,
+0020401053,125,3,12,2,8:00 PM,9:18,Dixon Free Throw 2 of 2 (7 PTS),,,25 - 35,10
+0020401053,126,2,1,2,8:00 PM,9:00,,,MISS Drobnjak 29' 3PT Jump Shot,,
+0020401053,127,4,0,2,8:00 PM,8:59,Hughes REBOUND (Off:0 Def:2),,,,
+0020401053,128,6,2,2,8:00 PM,8:57,,,Drobnjak S.FOUL (P1.T3),,
+0020401053,129,9,4,2,8:00 PM,8:57,,,,,
+0020401053,131,3,11,2,8:00 PM,8:57,Brown Free Throw 1 of 2 (3 PTS),,,25 - 36,11
+0020401053,132,3,12,2,8:03 PM,8:57,MISS Brown Free Throw 2 of 2,,,,
+0020401053,133,4,0,2,8:03 PM,8:56,,,Hawks Rebound,,
+0020401053,134,5,1,2,8:03 PM,8:49,Hughes STEAL (2 STL),,Ivey Bad Pass Turnover (P1.T10),,
+0020401053,135,2,1,2,8:03 PM,8:43,MISS Hughes 25' 3PT Jump Shot,,,,
+0020401053,136,4,0,2,8:03 PM,8:43,,,Hawks Rebound,,
+0020401053,137,9,2,2,8:03 PM,8:43,,,Hawks Timeout: Short (Reg.1 Short 1),,
+0020401053,139,1,5,2,8:05 PM,8:24,,,Harrington 2' Layup (3 PTS),27 - 36,9
+0020401053,140,2,1,2,8:05 PM,8:06,MISS Dixon 18' Jump Shot,,,,
+0020401053,141,4,0,2,8:05 PM,8:05,,,Hawks Rebound,,
+0020401053,142,6,3,2,8:05 PM,8:05,Brown L.B.FOUL (P1.T1),,,,
+0020401053,143,5,2,2,8:06 PM,7:47,Brown STEAL (1 STL),,Drobnjak Lost Ball Turnover (P1.T11),,
+0020401053,144,1,1,2,8:06 PM,7:39,Hughes 18' Jump Shot (8 PTS) (Dixon 1 AST),,,27 - 38,11
+0020401053,145,9,1,2,8:06 PM,7:31,,,Hawks Timeout: Regular (Reg.2 Short 1),,
+0020401053,147,8,0,2,8:08 PM,7:31,,,SUB: Smith FOR Drobnjak,,
+0020401053,148,1,5,2,8:09 PM,7:18,,,Harrington  Layup (5 PTS) (Gugliotta 1 AST),29 - 38,9
+0020401053,149,6,2,2,8:09 PM,7:18,Ruffin S.FOUL (P1.T2),,,,
+0020401053,150,3,10,2,8:09 PM,7:18,,,Harrington Free Throw 1 of 1 (6 PTS),30 - 38,8
+0020401053,151,10,0,2,8:10 PM,7:14,Jump Ball Ruffin vs. Smith: Tip to Dixon,,,,
+0020401053,152,2,1,2,8:11 PM,6:53,MISS Dixon 18' Jump Shot,,,,
+0020401053,153,4,0,2,8:11 PM,6:51,,,Gugliotta REBOUND (Off:0 Def:2),,
+0020401053,154,2,1,2,8:11 PM,6:35,,,MISS Harrington 14' Jump Shot,,
+0020401053,155,4,0,2,8:11 PM,6:33,Brown REBOUND (Off:0 Def:1),,,,
+0020401053,156,5,1,2,8:11 PM,6:26,Blake Bad Pass Turnover (P1.T4),,Lue STEAL (1 STL),,
+0020401053,157,1,42,2,8:11 PM,6:22,,,Lue 2' Driving Layup (9 PTS) (Smith 2 AST),32 - 38,6
+0020401053,158,1,49,2,8:11 PM,6:04,Hughes 1' Driving Dunk (10 PTS),,,32 - 40,8
+0020401053,159,1,1,2,8:12 PM,5:42,,,Gugliotta 22' Jump Shot (4 PTS) (Ivey 2 AST),34 - 40,6
+0020401053,160,2,1,2,8:12 PM,5:31,MISS Dixon  3PT Jump Shot,,,,
+0020401053,161,4,0,2,8:12 PM,5:27,,,Ivey REBOUND (Off:0 Def:2),,
+0020401053,162,2,1,2,8:12 PM,5:22,,,MISS Lue 27' 3PT Jump Shot,,
+0020401053,163,4,0,2,8:12 PM,5:20,Hughes REBOUND (Off:0 Def:3),,,,
+0020401053,164,6,1,2,8:12 PM,5:20,,,Lue P.FOUL (P2.T4),,
+0020401053,165,8,0,2,8:12 PM,5:20,SUB: Arenas FOR Dixon,,,,
+0020401053,166,8,0,2,8:12 PM,5:20,SUB: Jeffries FOR Ruffin,,,,
+0020401053,167,8,0,2,8:13 PM,5:20,,,SUB: Diaw FOR Lue,,
+0020401053,168,2,1,2,8:13 PM,5:05,MISS Hughes 4' Jump Shot,,Harrington BLOCK (1 BLK),,
+0020401053,169,4,0,2,8:13 PM,5:02,,,Smith REBOUND (Off:1 Def:4),,
+0020401053,170,2,1,2,8:13 PM,4:40,,,MISS Harrington 26' 3PT Jump Shot,,
+0020401053,171,4,0,2,8:13 PM,4:38,Arenas REBOUND (Off:0 Def:2),,,,
+0020401053,172,5,1,2,8:13 PM,4:34,Arenas Bad Pass Turnover (P1.T5),,Harrington STEAL (1 STL),,
+0020401053,173,1,1,2,8:13 PM,4:29,,,Ivey 18' Jump Shot (4 PTS) (Diaw 1 AST),36 - 40,4
+0020401053,174,9,1,2,8:14 PM,4:19,WIZARDS Timeout: Regular (Full 2 Short 0),,,,
+0020401053,176,1,42,2,8:16 PM,4:12,Arenas 1' Driving Layup (9 PTS),,,36 - 42,6
+0020401053,177,6,2,2,8:16 PM,4:12,,,Diaw S.FOUL (P1.PN),,
+0020401053,178,3,10,2,8:16 PM,4:12,Arenas Free Throw 1 of 1 (10 PTS),,,36 - 43,7
+0020401053,179,2,1,2,8:17 PM,3:58,,,MISS Smith 4' Jump Shot,,
+0020401053,180,4,0,2,8:17 PM,3:56,,,Harrington REBOUND (Off:1 Def:0),,
+0020401053,181,1,64,2,8:17 PM,3:55,,,Harrington 1' Follow Up Dunk (8 PTS),38 - 43,5
+0020401053,182,8,0,2,8:18 PM,3:33,SUB: Thomas FOR Blake,,,,
+0020401053,183,2,1,2,8:18 PM,3:30,MISS Brown 17' Jump Shot,,Diaw BLOCK (1 BLK),,
+0020401053,184,4,0,2,8:18 PM,3:28,,,Gugliotta REBOUND (Off:0 Def:3),,
+0020401053,185,10,0,2,8:18 PM,3:07,Jump Ball Thomas vs. Harrington: Tip to Arenas,,,,
+0020401053,186,5,2,2,8:18 PM,3:07,Thomas STEAL (2 STL),,Harrington Lost Ball Turnover (P2.T12),,
+0020401053,187,5,1,2,8:19 PM,3:05,Arenas Bad Pass Turnover (P2.T6),,,,
+0020401053,188,2,1,2,8:19 PM,2:56,,,MISS Gugliotta 15' Jump Shot,,
+0020401053,189,4,0,2,8:19 PM,2:54,Thomas REBOUND (Off:0 Def:3),,,,
+0020401053,190,1,42,2,8:19 PM,2:49,Arenas 1' Driving Layup (12 PTS),,,38 - 45,7
+0020401053,191,6,2,2,8:19 PM,2:49,,,Harrington S.FOUL (P1.PN),,
+0020401053,192,3,10,2,8:20 PM,2:49,Arenas Free Throw 1 of 1 (13 PTS),,,38 - 46,8
+0020401053,193,6,2,2,8:20 PM,2:35,Jeffries S.FOUL (P1.T3),,,,
+0020401053,194,3,11,2,8:20 PM,2:35,,,Harrington Free Throw 1 of 2 (9 PTS),39 - 46,7
+0020401053,195,3,12,2,8:21 PM,2:35,,,Harrington Free Throw 2 of 2 (10 PTS),40 - 46,6
+0020401053,196,2,5,2,8:21 PM,2:16,MISS Hughes 3' Layup,,,,
+0020401053,197,4,0,2,8:21 PM,2:14,Hughes REBOUND (Off:1 Def:3),,,,
+0020401053,198,1,4,2,8:21 PM,2:13,Hughes 2' Tip Shot (12 PTS),,,40 - 48,8
+0020401053,199,2,1,2,8:22 PM,1:54,,,MISS Ivey 17' Jump Shot,,
+0020401053,200,4,0,2,8:22 PM,1:53,WIZARDS Rebound,,,,
+0020401053,201,5,1,2,8:22 PM,1:39,Hughes Bad Pass Turnover (P2.T7),,Harrington STEAL (2 STL),,
+0020401053,202,5,41,2,8:22 PM,1:39,,,Ivey Poss Lost Ball Turnover (P2.T13),,
+0020401053,203,1,1,2,8:23 PM,1:23,Arenas 25' 3PT Jump Shot (16 PTS),,,40 - 51,11
+0020401053,204,1,5,2,8:23 PM,1:09,,,Smith 2' Layup (4 PTS) (Diaw 2 AST),42 - 51,9
+0020401053,205,2,1,2,8:24 PM,0:50,MISS Jeffries 5' Jump Shot,,,,
+0020401053,206,4,0,2,8:24 PM,0:48,,,Harrington REBOUND (Off:1 Def:1),,
+0020401053,207,1,1,2,8:24 PM,0:37,,,Smith 19' Jump Shot (6 PTS) (Diaw 3 AST),44 - 51,7
+0020401053,208,6,1,2,8:24 PM,0:30,,,Smith P.FOUL (P1.PN),,
+0020401053,209,3,11,2,8:24 PM,0:30,MISS Jeffries Free Throw 1 of 2,,,,
+0020401053,210,4,1,2,8:24 PM,0:30,WIZARDS Rebound,,,,
+0020401053,212,5,17,2,8:24 PM,0:30,Brown Lane Violation Turnover (P1.T8),,,,
+0020401053,213,2,1,2,8:25 PM,0:13,,,MISS Harrington 12' Jump Shot,,
+0020401053,214,4,0,2,8:25 PM,0:11,,,Hawks Rebound,,
+0020401053,215,1,1,2,8:26 PM,0:00,,,Harrington 19' Jump Shot (12 PTS),46 - 51,5
+0020401053,219,18,0,2,8:26 PM,0:00,,,,46 - 51,5
+0020401053,216,13,0,2,8:26 PM,0:00,,,,46 - 51,5
+0020401053,220,12,0,3,8:43 PM,12:00,,,,46 - 51,5
+0020401053,221,2,1,3,8:43 PM,11:42,MISS Jeffries 4' Jump Shot,,,,
+0020401053,222,4,0,3,8:43 PM,11:42,Thomas REBOUND (Off:1 Def:3),,,,
+0020401053,223,6,1,3,8:44 PM,11:42,,,Ekezie P.FOUL (P3.T1),,
+0020401053,224,2,1,3,8:44 PM,11:31,MISS Arenas 20' Jump Shot,,,,
+0020401053,225,4,0,3,8:44 PM,11:29,,,Harrington REBOUND (Off:1 Def:2),,
+0020401053,226,1,52,3,8:44 PM,11:09,,,Smith 1' Alley Oop Dunk (8 PTS) (Childress 2 AST),48 - 51,3
+0020401053,227,1,8,3,8:45 PM,10:53,Thomas 1' Slam Dunk (8 PTS) (Jeffries 5 AST),,,48 - 53,5
+0020401053,228,5,2,3,8:45 PM,10:35,Arenas STEAL (2 STL),,Childress Lost Ball Turnover (P3.T14),,
+0020401053,229,1,42,3,8:45 PM,10:30,Hughes  Driving Layup (14 PTS) (Arenas 2 AST),,,48 - 55,7
+0020401053,230,6,2,3,8:45 PM,10:10,Jeffries S.FOUL (P2.T1),,,,
+0020401053,231,3,11,3,8:46 PM,10:10,,,Childress Free Throw 1 of 2 (4 PTS),49 - 55,6
+0020401053,232,3,12,3,8:46 PM,10:10,,,Childress Free Throw 2 of 2 (5 PTS),50 - 55,5
+0020401053,233,2,5,3,8:47 PM,9:53,MISS Profit 2' Layup,,Smith BLOCK (3 BLK),,
+0020401053,234,4,0,3,8:47 PM,9:51,,,Childress REBOUND (Off:2 Def:2),,
+0020401053,235,5,1,3,8:47 PM,9:45,Jeffries STEAL (1 STL),,Childress Bad Pass Turnover (P4.T15),,
+0020401053,236,2,1,3,8:47 PM,9:36,MISS Arenas 26' 3PT Jump Shot,,,,
+0020401053,237,4,0,3,8:47 PM,9:34,,,Childress REBOUND (Off:2 Def:3),,
+0020401053,238,6,4,3,8:47 PM,9:20,,,Harrington OFF.Foul (P2),,
+0020401053,239,5,5,3,8:47 PM,9:20,,,Harrington Foul Turnover (P3.T16),,
+0020401053,240,2,1,3,8:48 PM,9:08,MISS Hughes 25' 3PT Jump Shot,,,,
+0020401053,241,4,0,3,8:48 PM,9:07,Thomas REBOUND (Off:2 Def:3),,,,
+0020401053,242,2,1,3,8:48 PM,9:04,MISS Profit 18' Jump Shot,,,,
+0020401053,243,4,0,3,8:48 PM,9:03,,,Lue REBOUND (Off:0 Def:3),,
+0020401053,244,6,1,3,8:48 PM,8:54,Profit P.FOUL (P1.T2),,,,
+0020401053,245,1,43,3,8:48 PM,8:48,,,Harrington  Alley Oop Layup (14 PTS) (Smith 3 AST),52 - 55,3
+0020401053,246,1,47,3,8:49 PM,8:22,Thomas 4' Turnaround Jump Shot (10 PTS),,,52 - 57,5
+0020401053,247,1,44,3,8:49 PM,8:04,,,Harrington 2' Reverse Layup (16 PTS) (Childress 3 AST),54 - 57,3
+0020401053,248,6,2,3,8:49 PM,7:51,,,Harrington S.FOUL (P3.T2),,
+0020401053,249,3,11,3,8:49 PM,7:51,MISS Jeffries Free Throw 1 of 2,,,,
+0020401053,250,4,1,3,8:49 PM,7:51,WIZARDS Rebound,,,,
+0020401053,251,8,0,3,8:50 PM,7:51,,,SUB: Gugliotta FOR Harrington,,
+0020401053,252,3,12,3,8:50 PM,7:51,Jeffries Free Throw 2 of 2 (1 PTS),,,54 - 58,4
+0020401053,253,2,1,3,8:50 PM,7:35,,,MISS Smith 19' Jump Shot,,
+0020401053,254,4,0,3,8:51 PM,7:33,Arenas REBOUND (Off:0 Def:3),,,,
+0020401053,255,6,1,3,8:51 PM,7:27,,,Lue P.FOUL (P3.T3),,
+0020401053,256,1,1,3,8:51 PM,7:18,Hughes 25' 3PT Jump Shot (17 PTS) (Jeffries 6 AST),,,54 - 61,7
+0020401053,257,1,1,3,8:51 PM,7:06,,,Ekezie 9' Jump Shot (6 PTS) (Lue 1 AST),56 - 61,5
+0020401053,258,1,1,3,8:52 PM,6:50,Arenas 26' 3PT Jump Shot (19 PTS) (Jeffries 7 AST),,,56 - 64,8
+0020401053,259,2,1,3,8:52 PM,6:31,,,MISS Ekezie 15' Jump Shot,,
+0020401053,260,4,0,3,8:52 PM,6:30,Hughes REBOUND (Off:1 Def:4),,,,
+0020401053,261,1,8,3,8:52 PM,6:19,Thomas 2' Slam Dunk (12 PTS) (Hughes 2 AST),,,56 - 66,10
+0020401053,262,9,1,3,8:52 PM,6:16,,,Hawks Timeout: Regular (Reg.3 Short 1),,
+0020401053,265,8,0,3,8:54 PM,6:16,,,SUB: Collier FOR Ekezie,,
+0020401053,266,8,0,3,8:54 PM,6:16,,,SUB: Ivey FOR Lue,,
+0020401053,267,2,1,3,8:55 PM,6:01,,,MISS Gugliotta 15' Jump Shot,,
+0020401053,268,4,0,3,8:55 PM,5:59,,,Collier REBOUND (Off:1 Def:0),,
+0020401053,269,5,1,3,8:55 PM,5:54,Arenas STEAL (3 STL),,Gugliotta Bad Pass Turnover (P1.T17),,
+0020401053,270,5,1,3,8:55 PM,5:39,Profit Bad Pass Turnover (P1.T9),,Childress STEAL (2 STL),,
+0020401053,271,1,8,3,8:55 PM,5:36,,,Childress 1' Slam Dunk (7 PTS),58 - 66,8
+0020401053,272,6,4,3,8:55 PM,5:21,Arenas OFF.Foul (P1),,,,
+0020401053,273,5,5,3,8:55 PM,5:21,Arenas Foul Turnover (P3.T10),,,,
+0020401053,274,8,0,3,8:56 PM,5:21,SUB: Brown FOR Profit,,,,
+0020401053,275,1,46,3,8:56 PM,5:06,,,Ivey 10' Running Jump Shot (6 PTS),60 - 66,6
+0020401053,276,6,1,3,8:56 PM,4:53,,,Ivey P.FOUL (P2.T4),,
+0020401053,277,2,5,3,8:57 PM,4:46,MISS Jeffries 2' Layup,,,,
+0020401053,278,4,0,3,8:57 PM,4:46,Thomas REBOUND (Off:3 Def:3),,,,
+0020401053,279,1,7,3,8:57 PM,4:46,Thomas 1' Dunk (14 PTS),,,60 - 68,8
+0020401053,280,6,2,3,8:57 PM,4:46,,,Smith S.FOUL (P2.PN),,
+0020401053,281,3,10,3,8:57 PM,4:46,MISS Thomas Free Throw 1 of 1,,,,
+0020401053,282,4,0,3,8:57 PM,4:44,,,Gugliotta REBOUND (Off:0 Def:4),,
+0020401053,283,2,1,3,8:58 PM,4:32,,,MISS Gugliotta 19' Jump Shot,,
+0020401053,284,4,0,3,8:58 PM,4:30,Hughes REBOUND (Off:1 Def:5),,,,
+0020401053,285,6,2,3,8:58 PM,4:24,,,Ivey S.FOUL (P3.PN),,
+0020401053,286,3,11,3,8:58 PM,4:24,Thomas Free Throw 1 of 2 (15 PTS),,,60 - 69,9
+0020401053,287,3,12,3,8:58 PM,4:24,Thomas Free Throw 2 of 2 (16 PTS),,,60 - 70,10
+0020401053,288,1,49,3,8:59 PM,4:10,,,Smith 1' Driving Dunk (10 PTS) (Ivey 3 AST),62 - 70,8
+0020401053,289,6,2,3,8:59 PM,4:10,Brown S.FOUL (P2.T3),,,,
+0020401053,290,3,10,3,8:59 PM,4:10,,,Smith Free Throw 1 of 1 (11 PTS),63 - 70,7
+0020401053,291,2,1,3,9:00 PM,3:51,MISS Jeffries 27' 3PT Jump Shot,,,,
+0020401053,292,4,0,3,9:00 PM,3:49,,,Hawks Rebound,,
+0020401053,293,8,0,3,9:00 PM,3:49,,,SUB: Delk FOR Childress,,
+0020401053,294,1,1,3,9:00 PM,3:38,,,Smith 19' Jump Shot (13 PTS) (Ivey 4 AST),65 - 70,5
+0020401053,295,5,8,3,9:01 PM,3:20,Brown 3 Second Violation Turnover (P2.T11),,,,
+0020401053,296,8,0,3,9:01 PM,3:20,SUB: Brown FOR Jeffries,,,,
+0020401053,297,2,1,3,9:01 PM,3:07,,,MISS Delk 24' 3PT Jump Shot,,
+0020401053,298,4,0,3,9:01 PM,3:05,Brown REBOUND (Off:0 Def:1),,,,
+0020401053,299,6,4,3,9:01 PM,3:00,Arenas OFF.Foul (P2),,,,
+0020401053,300,5,5,3,9:01 PM,3:00,Arenas Foul Turnover (P4.T12),,,,
+0020401053,301,1,1,3,9:02 PM,2:46,,,Collier 4' Jump Shot (2 PTS) (Ivey 5 AST),67 - 70,3
+0020401053,302,5,1,3,9:02 PM,2:23,Arenas Bad Pass Turnover (P5.T13),,,,
+0020401053,303,9,1,3,9:02 PM,2:23,WIZARDS Timeout: Regular (Full 3 Short 0),,,,
+0020401053,305,5,1,3,9:04 PM,2:06,Hughes STEAL (3 STL),,Delk Bad Pass Turnover (P1.T18),,
+0020401053,306,6,9,3,9:05 PM,2:04,,,Ivey C.P.FOUL (P4.PN),,
+0020401053,308,3,17,3,9:05 PM,2:04,Hughes Free Throw Clear Path (18 PTS),,,67 - 71,4
+0020401053,309,8,0,3,9:05 PM,2:04,SUB: Ruffin FOR Thomas,,,,
+0020401053,311,2,1,3,9:06 PM,1:50,MISS Brown 25' 3PT Jump Shot,,,,
+0020401053,312,4,0,3,9:06 PM,1:47,,,Collier REBOUND (Off:1 Def:1),,
+0020401053,313,2,1,3,9:06 PM,1:43,Brown BLOCK (1 BLK),,MISS Ivey 3' Jump Shot,,
+0020401053,314,4,0,3,9:06 PM,1:39,Arenas REBOUND (Off:0 Def:4),,,,
+0020401053,315,1,42,3,9:06 PM,1:37,Arenas  Driving Layup (21 PTS),,,67 - 73,6
+0020401053,316,9,2,3,9:06 PM,1:31,,,Hawks Timeout: Short (Reg.3 Short 2),,
+0020401053,318,8,0,3,9:07 PM,1:31,,,SUB: Diaw FOR Ivey,,
+0020401053,319,6,1,3,9:08 PM,1:26,Brown P.FOUL (P1.T4),,,,
+0020401053,320,2,1,3,9:08 PM,1:15,,,MISS Gugliotta 15' Jump Shot,,
+0020401053,321,4,0,3,9:08 PM,1:14,Ruffin REBOUND (Off:1 Def:1),,,,
+0020401053,322,6,2,3,9:08 PM,1:06,,,Gugliotta S.FOUL (P1.PN),,
+0020401053,323,3,11,3,9:08 PM,1:06,Brown Free Throw 1 of 2 (4 PTS),,,67 - 74,7
+0020401053,324,3,12,3,9:09 PM,1:06,Brown Free Throw 2 of 2 (5 PTS),,,67 - 75,8
+0020401053,325,1,51,3,9:09 PM,0:53,,,Smith 2' Reverse Dunk (15 PTS) (Gugliotta 2 AST),69 - 75,6
+0020401053,326,6,1,3,9:10 PM,0:42,,,Diaw P.FOUL (P2.PN),,
+0020401053,327,3,11,3,9:10 PM,0:42,Arenas Free Throw 1 of 2 (22 PTS),,,69 - 76,7
+0020401053,328,8,0,3,9:10 PM,0:42,SUB: Dixon FOR Brown,,,,
+0020401053,329,3,12,3,9:10 PM,0:42,Arenas Free Throw 2 of 2 (23 PTS),,,69 - 77,8
+0020401053,330,6,2,3,9:11 PM,0:27,Arenas S.FOUL (P3.PN),,,,
+0020401053,331,3,11,3,9:11 PM,0:27,,,Diaw Free Throw 1 of 2 (1 PTS),70 - 77,7
+0020401053,332,8,0,3,9:11 PM,0:27,,,SUB: Childress FOR Smith,,
+0020401053,333,3,12,3,9:11 PM,0:27,,,Diaw Free Throw 2 of 2 (2 PTS),71 - 77,6
+0020401053,334,2,1,3,9:12 PM,0:03,MISS Arenas 26' 3PT Jump Shot,,,,
+0020401053,335,4,0,3,9:12 PM,0:02,WIZARDS Rebound,,,,
+0020401053,336,5,11,3,9:12 PM,0:02,WIZARDS Turnover: Shot Clock (T#14),,,,
+0020401053,337,8,0,3,9:12 PM,0:02,SUB: Jeffries FOR Arenas,,,,
+0020401053,338,2,1,3,9:13 PM,0:01,,,MISS Delk 38' 3PT Jump Shot,,
+0020401053,339,4,0,3,9:13 PM,0:00,,,Hawks Rebound,,
+0020401053,340,13,0,3,9:13 PM,0:00,,,,71 - 77,6
+0020401053,342,12,0,4,9:16 PM,12:00,,,,71 - 77,6
+0020401053,343,1,46,4,9:16 PM,11:43,,,Diaw 7' Running Jump Shot (4 PTS),73 - 77,4
+0020401053,344,6,2,4,9:16 PM,11:43,Jeffries S.FOUL (P3.T1),,,,
+0020401053,345,3,10,4,9:16 PM,11:43,,,Diaw Free Throw 1 of 1 (5 PTS),74 - 77,3
+0020401053,346,6,1,4,9:17 PM,11:26,,,Delk P.FOUL (P2.T1),,
+0020401053,347,1,1,4,9:17 PM,11:14,Hughes 23' Jump Shot (20 PTS) (Jeffries 8 AST),,,74 - 79,5
+0020401053,348,1,1,4,9:18 PM,10:51,,,Delk 22' Jump Shot (4 PTS) (Diaw 4 AST),76 - 79,3
+0020401053,349,2,1,4,9:18 PM,10:34,MISS Dixon 16' Jump Shot,,,,
+0020401053,350,4,0,4,9:18 PM,10:32,,,Diaw REBOUND (Off:0 Def:1),,
+0020401053,351,1,52,4,9:18 PM,10:19,,,Childress  Alley Oop Dunk (9 PTS) (Diaw 5 AST),78 - 79,1
+0020401053,352,6,1,4,9:19 PM,9:59,,,Collier P.FOUL (P1.T2),,
+0020401053,353,8,0,4,9:19 PM,9:59,SUB: Thomas FOR Ruffin,,,,
+0020401053,354,8,0,4,9:19 PM,9:59,SUB: Arenas FOR Jeffries,,,,
+0020401053,355,2,1,4,9:19 PM,9:52,MISS Arenas  3PT Jump Shot,,,,
+0020401053,356,4,0,4,9:19 PM,9:50,,,Gugliotta REBOUND (Off:0 Def:5),,
+0020401053,357,1,1,4,9:20 PM,9:37,,,Delk 25' 3PT Jump Shot (7 PTS) (Diaw 6 AST),81 - 79,-2
+0020401053,358,9,1,4,9:20 PM,9:35,WIZARDS Timeout: Regular (Full 4 Short 0),,,,
+0020401053,360,2,1,4,9:22 PM,9:21,MISS Arenas 27' 3PT Jump Shot,,,,
+0020401053,361,4,0,4,9:22 PM,9:19,,,Childress REBOUND (Off:2 Def:4),,
+0020401053,362,2,1,4,9:22 PM,9:00,,,MISS Delk 26' 3PT Jump Shot,,
+0020401053,363,4,0,4,9:22 PM,8:58,,,Childress REBOUND (Off:3 Def:4),,
+0020401053,364,2,5,4,9:23 PM,8:55,,,MISS Childress 3' Layup,,
+0020401053,365,4,0,4,9:23 PM,8:54,,,Gugliotta REBOUND (Off:1 Def:5),,
+0020401053,366,6,2,4,9:23 PM,8:54,Dixon S.FOUL (P1.T2),,,,
+0020401053,367,3,11,4,9:23 PM,8:54,,,Delk Free Throw 1 of 2 (8 PTS),82 - 79,-3
+0020401053,368,3,12,4,9:23 PM,8:54,,,MISS Delk Free Throw 2 of 2,,
+0020401053,369,4,0,4,9:23 PM,8:52,Brown REBOUND (Off:0 Def:2),,,,
+0020401053,370,6,2,4,9:23 PM,8:47,,,Collier S.FOUL (P2.T3),,
+0020401053,371,3,11,4,9:23 PM,8:47,Hughes Free Throw 1 of 2 (21 PTS),,,82 - 80,-2
+0020401053,372,3,12,4,9:24 PM,8:47,Hughes Free Throw 2 of 2 (22 PTS),,,82 - 81,-1
+0020401053,373,1,47,4,9:24 PM,8:29,,,Gugliotta 11' Turnaround Jump Shot (6 PTS),84 - 81,-3
+0020401053,374,1,46,4,9:25 PM,8:11,Arenas 6' Running Jump Shot (25 PTS),,,84 - 83,-1
+0020401053,375,5,1,4,9:25 PM,7:49,Hughes STEAL (4 STL),,Diaw Bad Pass Turnover (P1.T19),,
+0020401053,376,5,41,4,9:25 PM,7:49,Arenas Poss Lost Ball Turnover (P6.T15),,,,
+0020401053,377,2,1,4,9:26 PM,7:33,,,MISS Gugliotta 19' Jump Shot,,
+0020401053,378,4,0,4,9:26 PM,7:32,Dixon REBOUND (Off:0 Def:1),,,,
+0020401053,379,5,40,4,9:26 PM,7:26,Thomas Out of Bounds Lost Ball Turnover (P2.T16),,,,
+0020401053,380,6,4,4,9:26 PM,7:12,,,Childress OFF.Foul (P3),,
+0020401053,381,5,5,4,9:26 PM,7:12,,,Childress Foul Turnover (P5.T20),,
+0020401053,382,1,42,4,9:27 PM,7:00,Arenas 1' Driving Layup (27 PTS),,,84 - 85,1
+0020401053,383,6,2,4,9:27 PM,7:00,,,Childress S.FOUL (P4.T4),,
+0020401053,385,8,0,4,9:27 PM,7:00,,,SUB: Lue FOR Diaw,,
+0020401053,387,8,0,4,9:27 PM,7:00,,,SUB: Harrington FOR Collier,,
+0020401053,388,8,0,4,9:27 PM,7:00,SUB: Jeffries FOR Dixon,,,,
+0020401053,389,3,10,4,9:27 PM,7:00,MISS Arenas Free Throw 1 of 1,,,,
+0020401053,390,4,0,4,9:28 PM,7:00,,,Hawks Rebound,,
+0020401053,391,2,1,4,9:28 PM,6:45,,,MISS Lue 17' Jump Shot,,
+0020401053,392,4,0,4,9:28 PM,6:43,Thomas REBOUND (Off:3 Def:4),,,,
+0020401053,393,5,41,4,9:28 PM,6:34,Brown Poss Lost Ball Turnover (P3.T17),,,,
+0020401053,394,9,1,4,9:29 PM,6:34,,,Hawks Timeout: Regular (Reg.4 Short 2),,
+0020401053,396,2,1,4,9:31 PM,6:17,,,MISS Lue 20' Jump Shot,,
+0020401053,397,4,0,4,9:31 PM,6:16,WIZARDS Rebound,,,,
+0020401053,398,1,1,4,9:32 PM,5:58,Brown 13' Jump Shot (7 PTS) (Jeffries 9 AST),,,84 - 87,3
+0020401053,399,2,1,4,9:32 PM,5:40,Brown BLOCK (2 BLK),,MISS Harrington 7' Jump Shot,,
+0020401053,400,4,0,4,9:32 PM,5:40,,,Hawks Rebound,,
+0020401053,401,1,1,4,9:32 PM,5:33,,,Delk 26' 3PT Jump Shot (11 PTS),87 - 87,TIE
+0020401053,402,2,1,4,9:33 PM,5:09,MISS Jeffries 5' Jump Shot,,,,
+0020401053,403,4,0,4,9:33 PM,5:07,,,Gugliotta REBOUND (Off:1 Def:6),,
+0020401053,404,5,11,4,9:33 PM,4:44,,,Hawks Turnover: Shot Clock (T#21),,
+0020401053,405,8,0,4,9:33 PM,4:44,,,SUB: Smith FOR Childress,,
+0020401053,406,6,2,4,9:34 PM,4:29,,,Delk S.FOUL (P3.PN),,
+0020401053,407,3,11,4,9:34 PM,4:29,Hughes Free Throw 1 of 2 (23 PTS),,,87 - 88,1
+0020401053,408,3,12,4,9:34 PM,4:29,Hughes Free Throw 2 of 2 (24 PTS),,,87 - 89,2
+0020401053,409,2,1,4,9:35 PM,4:14,,,MISS Smith 18' Jump Shot,,
+0020401053,410,4,0,4,9:35 PM,4:13,Thomas REBOUND (Off:3 Def:5),,,,
+0020401053,411,6,4,4,9:35 PM,4:05,Hughes OFF.Foul (P3),,,,
+0020401053,412,5,5,4,9:35 PM,4:05,Hughes Foul Turnover (P3.T18),,,,
+0020401053,413,6,2,4,9:36 PM,3:50,Brown S.FOUL (P3.T3),,,,
+0020401053,414,3,11,4,9:36 PM,3:50,,,Smith Free Throw 1 of 2 (16 PTS),88 - 89,1
+0020401053,415,3,12,4,9:36 PM,3:50,,,Smith Free Throw 2 of 2 (17 PTS),89 - 89,TIE
+0020401053,416,2,1,4,9:37 PM,3:32,MISS Hughes 10' Jump Shot,,,,
+0020401053,417,4,0,4,9:37 PM,3:30,,,Lue REBOUND (Off:0 Def:4),,
+0020401053,418,1,66,4,9:37 PM,3:23,,,Lue 14' Jump Bank Shot (11 PTS),91 - 89,-2
+0020401053,419,6,2,4,9:37 PM,3:06,,,Smith S.FOUL (P3.PN),,
+0020401053,420,3,11,4,9:37 PM,3:06,Arenas Free Throw 1 of 2 (28 PTS),,,91 - 90,-1
+0020401053,421,3,12,4,9:38 PM,3:06,Arenas Free Throw 2 of 2 (29 PTS),,,91 - 91,TIE
+0020401053,422,6,4,4,9:38 PM,2:54,,,Delk OFF.Foul (P4),,
+0020401053,423,5,5,4,9:38 PM,2:54,,,Delk Foul Turnover (P2.T22),,
+0020401053,424,9,4,4,9:38 PM,2:54,,,,,
+0020401053,426,2,1,4,9:41 PM,2:36,MISS Brown 12' Jump Shot,,,,
+0020401053,427,4,0,4,9:41 PM,2:35,,,Delk REBOUND (Off:0 Def:1),,
+0020401053,428,2,1,4,9:42 PM,2:11,,,MISS Gugliotta 16' Jump Shot,,
+0020401053,429,4,0,4,9:42 PM,2:08,,,Harrington REBOUND (Off:2 Def:2),,
+0020401053,430,1,5,4,9:42 PM,2:07,,,Harrington 2' Layup (18 PTS),93 - 91,-2
+0020401053,431,6,1,4,9:42 PM,1:55,,,Smith P.FOUL (P4.PN),,
+0020401053,432,3,11,4,9:42 PM,1:55,Arenas Free Throw 1 of 2 (30 PTS),,,93 - 92,-1
+0020401053,433,3,12,4,9:42 PM,1:55,Arenas Free Throw 2 of 2 (31 PTS),,,93 - 93,TIE
+0020401053,434,2,1,4,9:43 PM,1:36,,,MISS Gugliotta 28' 3PT Jump Shot,,
+0020401053,435,4,0,4,9:43 PM,1:34,Jeffries REBOUND (Off:0 Def:3),,,,
+0020401053,437,1,1,4,9:44 PM,1:18,Arenas 18' Jump Shot (33 PTS) (Jeffries 10 AST),,,93 - 95,2
+0020401053,438,9,1,4,9:44 PM,1:12,,,Hawks Timeout: Regular (Reg.5 Short 2),,
+0020401053,440,6,1,4,9:46 PM,1:01,Brown P.FOUL (P4.T4),,,,
+0020401053,442,1,63,4,9:47 PM,0:50,,,Harrington 10' Fadeaway Jumper (20 PTS),95 - 95,TIE
+0020401053,443,9,1,4,9:47 PM,0:50,WIZARDS Timeout: Regular (Full 5 Short 0),,,,
+0020401053,445,1,5,4,9:49 PM,0:34,Arenas 1' Layup (35 PTS),,,95 - 97,2
+0020401053,446,6,4,4,9:49 PM,0:19,,,Harrington OFF.Foul (P4),,
+0020401053,447,5,5,4,9:49 PM,0:19,,,Harrington Foul Turnover (P4.T23),,
+0020401053,448,8,0,4,9:49 PM,0:19,SUB: Dixon FOR Jeffries,,,,
+0020401053,449,9,1,4,9:49 PM,0:19,WIZARDS Timeout: Regular (Full 6 Short 0),,,,
+0020401053,451,8,0,4,9:50 PM,0:19,SUB: Blake FOR Thomas,,,,
+0020401053,452,8,0,4,9:51 PM,0:19,,,SUB: Childress FOR Lue,,
+0020401053,453,6,1,4,9:51 PM,0:19,,,Childress P.FOUL (P5.PN),,
+0020401053,454,3,11,4,9:51 PM,0:19,Dixon Free Throw 1 of 2 (8 PTS),,,95 - 98,3
+0020401053,455,8,0,4,9:51 PM,0:19,SUB: Jeffries FOR Blake,,,,
+0020401053,456,3,12,4,9:51 PM,0:19,Dixon Free Throw 2 of 2 (9 PTS),,,95 - 99,4
+0020401053,457,9,1,4,9:52 PM,0:19,,,Hawks Timeout: Regular (Reg.6 Short 2),,
+0020401053,459,8,0,4,9:53 PM,0:19,,,SUB: Lue FOR Smith,,
+0020401053,460,6,2,4,9:54 PM,0:15,Brown S.FOUL (P5.PN),,,,
+0020401053,461,3,11,4,9:55 PM,0:15,,,Lue Free Throw 1 of 2 (12 PTS),96 - 99,3
+0020401053,462,3,12,4,9:56 PM,0:15,,,Lue Free Throw 2 of 2 (13 PTS),97 - 99,2
+0020401053,463,6,1,4,9:56 PM,0:14,,,Lue P.FOUL (P4.PN),,
+0020401053,464,3,11,4,9:57 PM,0:14,Hughes Free Throw 1 of 2 (25 PTS),,,97 - 100,3
+0020401053,465,3,12,4,9:57 PM,0:14,Hughes Free Throw 2 of 2 (26 PTS),,,97 - 101,4
+0020401053,466,1,42,4,9:57 PM,0:06,,,Lue 2' Driving Layup (15 PTS),99 - 101,2
+0020401053,467,6,1,4,9:58 PM,0:05,,,Childress P.FOUL (P6.PN),,
+0020401053,468,8,0,4,9:58 PM,0:05,,,SUB: Smith FOR Childress,,
+0020401053,469,3,11,4,9:59 PM,0:05,MISS Arenas Free Throw 1 of 2,,,,
+0020401053,470,4,1,4,9:59 PM,0:05,WIZARDS Rebound,,,,
+0020401053,471,3,12,4,9:59 PM,0:05,Arenas Free Throw 2 of 2 (36 PTS),,,99 - 102,3
+0020401053,472,2,1,4,9:59 PM,0:01,,,MISS Lue 27' 3PT Jump Shot,,
+0020401053,473,4,0,4,9:59 PM,0:00,Hughes REBOUND (Off:1 Def:6),,,,
+0020401053,474,13,0,4,9:59 PM,0:00,,,,99 - 102,3

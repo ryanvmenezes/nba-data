@@ -1,0 +1,410 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900735,0,12,0,1,8:07 PM,12:00,,,,,
+0020900735,1,10,0,1,8:08 PM,12:00,Jump Ball Smith vs. Miller: Tip to Johnson,,,,
+0020900735,2,2,1,1,8:11 PM,11:35,MISS Williams 25' 3PT Jump Shot,,,,
+0020900735,3,4,0,1,8:11 PM,11:32,,,Gibson REBOUND (Off:0 Def:1),,
+0020900735,4,2,1,1,8:11 PM,11:13,,,MISS Hinrich 18' Jump Shot,,
+0020900735,5,4,0,1,8:11 PM,11:11,Williams REBOUND (Off:0 Def:1),,,,
+0020900735,7,1,1,1,8:11 PM,10:56,Bibby 20' Jump Shot (2 PTS) (Smith 1 AST),,,0 - 2,2
+0020900735,8,2,1,1,8:12 PM,10:36,,,MISS Gibson 12' Jump Shot,,
+0020900735,9,4,0,1,8:12 PM,10:35,Johnson REBOUND (Off:0 Def:1),,,,
+0020900735,10,2,46,1,8:12 PM,10:22,MISS Johnson 12' Running Jump Shot,,,,
+0020900735,11,4,0,1,8:12 PM,10:21,Horford REBOUND (Off:1 Def:0),,,,
+0020900735,12,2,72,1,8:12 PM,10:20,MISS Horford  Putback Layup,,,,
+0020900735,13,4,0,1,8:12 PM,10:20,,,Bulls Rebound,,
+0020900735,14,2,1,1,8:12 PM,10:04,,,MISS Deng 21' Jump Shot,,
+0020900735,15,4,0,1,8:12 PM,10:03,Williams REBOUND (Off:0 Def:2),,,,
+0020900735,16,1,1,1,8:13 PM,9:53,Johnson 24' 3PT Jump Shot (3 PTS) (Smith 2 AST),,,0 - 5,5
+0020900735,17,2,42,1,8:13 PM,9:36,Williams BLOCK (1 BLK),,MISS Rose 4' Driving Layup,,
+0020900735,18,4,0,1,8:13 PM,9:34,Williams REBOUND (Off:0 Def:3),,,,
+0020900735,19,1,41,1,8:13 PM,9:30,Horford  Running Layup (2 PTS) (Smith 3 AST),,,0 - 7,7
+0020900735,20,6,2,1,8:13 PM,9:30,,,Hinrich S.FOUL (P1.T1),,
+0020900735,21,3,10,1,8:13 PM,9:30,Horford Free Throw 1 of 1 (3 PTS),,,0 - 8,8
+0020900735,23,2,1,1,8:14 PM,9:12,,,MISS Hinrich 19' Jump Shot,,
+0020900735,24,4,0,1,8:14 PM,9:10,,,Bulls Rebound,,
+0020900735,26,1,1,1,8:14 PM,8:52,,,Deng 8' Jump Shot (2 PTS),2 - 8,6
+0020900735,27,1,1,1,8:15 PM,8:34,Johnson 25' 3PT Jump Shot (6 PTS) (Smith 4 AST),,,2 - 11,9
+0020900735,28,1,47,1,8:15 PM,8:15,,,Miller 6' Turnaround Jump Shot (2 PTS),4 - 11,7
+0020900735,29,1,41,1,8:15 PM,8:07,Smith 2' Running Layup (2 PTS) (Bibby 1 AST),,,4 - 13,9
+0020900735,30,6,2,1,8:15 PM,8:07,,,Gibson S.FOUL (P1.T2),,
+0020900735,31,3,10,1,8:15 PM,8:07,MISS Smith Free Throw 1 of 1,,,,
+0020900735,33,4,0,1,8:16 PM,8:06,,,Deng REBOUND (Off:0 Def:1),,
+0020900735,34,9,1,1,8:16 PM,8:02,,,Bulls Timeout: Regular (Reg.1 Short 0),,
+0020900735,36,2,1,1,8:19 PM,7:54,,,MISS Rose 21' Jump Shot,,
+0020900735,37,10,0,1,8:19 PM,7:53,Jump Ball Smith vs. Gibson: Tip to Rose,,,,
+0020900735,38,4,0,1,8:19 PM,7:53,,,Bulls Rebound,,
+0020900735,39,5,1,1,8:20 PM,7:43,Smith STEAL (1 STL),,Rose Bad Pass Turnover (P1.T1),,
+0020900735,40,1,50,1,8:20 PM,7:40,Smith  Running Dunk (4 PTS),,,4 - 15,11
+0020900735,41,2,1,1,8:20 PM,7:19,,,MISS Miller 19' Jump Shot,,
+0020900735,42,4,0,1,8:20 PM,7:17,,,Gibson REBOUND (Off:1 Def:1),,
+0020900735,43,1,72,1,8:20 PM,7:17,,,Gibson  Putback Layup (2 PTS),6 - 15,9
+0020900735,44,6,2,1,8:20 PM,7:17,Smith S.FOUL (P1.T1),,,,
+0020900735,45,3,10,1,8:20 PM,7:17,,,MISS Gibson Free Throw 1 of 1,,
+0020900735,47,4,0,1,8:20 PM,7:15,Horford REBOUND (Off:1 Def:1),,,,
+0020900735,49,5,1,1,8:21 PM,7:04,Bibby Bad Pass Turnover (P1.T1),,Hinrich STEAL (1 STL),,
+0020900735,50,1,1,1,8:21 PM,6:54,,,Hinrich 16' Jump Shot (2 PTS) (Rose 1 AST),8 - 15,7
+0020900735,51,1,52,1,8:21 PM,6:38,Horford  Alley Oop Dunk (5 PTS) (Smith 5 AST),,,8 - 17,9
+0020900735,52,1,1,1,8:21 PM,6:22,,,Deng 19' Jump Shot (4 PTS),10 - 17,7
+0020900735,53,1,63,1,8:22 PM,6:00,Johnson 17' Fadeaway Jumper (8 PTS),,,10 - 19,9
+0020900735,54,5,4,1,8:22 PM,5:48,,,Miller Traveling Turnover (P1.T2),,
+0020900735,55,6,17,1,8:22 PM,5:31,,,Bulls T.Foul (Def. 3 Sec Miller ),,
+0020900735,56,3,16,1,8:23 PM,5:31,MISS Williams Free Throw Technical,,,,
+0020900735,57,4,1,1,8:23 PM,5:31,HAWKS Rebound,,,,
+0020900735,59,2,1,1,8:23 PM,5:17,MISS Smith 17' Jump Shot,,,,
+0020900735,60,4,0,1,8:23 PM,5:15,,,Hinrich REBOUND (Off:0 Def:1),,
+0020900735,61,8,0,1,8:24 PM,4:57,SUB: Crawford FOR Bibby,,,,
+0020900735,62,5,2,1,8:24 PM,4:54,Williams STEAL (1 STL),,Rose Lost Ball Turnover (P2.T3),,
+0020900735,63,2,1,1,8:24 PM,4:44,MISS Williams 19' Jump Shot,,,,
+0020900735,64,4,0,1,8:24 PM,4:43,,,Hinrich REBOUND (Off:0 Def:2),,
+0020900735,65,6,2,1,8:24 PM,4:39,Crawford S.FOUL (P1.T2),,,,
+0020900735,66,3,11,1,8:25 PM,4:39,,,Deng Free Throw 1 of 2 (5 PTS),11 - 19,8
+0020900735,68,8,0,1,8:25 PM,4:39,,,SUB: Salmons FOR Gibson,,
+0020900735,69,8,0,1,8:25 PM,4:39,,,SUB: Thomas FOR Hinrich,,
+0020900735,70,8,0,1,8:25 PM,4:39,SUB: Evans FOR Williams,,,,
+0020900735,71,3,12,1,8:25 PM,4:39,,,Deng Free Throw 2 of 2 (6 PTS),12 - 19,7
+0020900735,74,2,73,1,8:26 PM,4:18,MISS Johnson 2' Driving Reverse Layup,,,,
+0020900735,75,4,0,1,8:26 PM,4:16,,,Thomas REBOUND (Off:0 Def:1),,
+0020900735,76,2,1,1,8:26 PM,4:12,,,MISS Rose 19' Jump Shot,,
+0020900735,77,4,0,1,8:26 PM,4:10,Smith REBOUND (Off:0 Def:1),,,,
+0020900735,78,2,1,1,8:26 PM,4:00,MISS Crawford 24' 3PT Jump Shot,,,,
+0020900735,79,4,0,1,8:26 PM,3:58,,,Thomas REBOUND (Off:0 Def:2),,
+0020900735,80,5,1,1,8:26 PM,3:50,Evans STEAL (1 STL),,Deng Bad Pass Turnover (P1.T4),,
+0020900735,81,1,56,1,8:26 PM,3:38,Smith 4' Running Hook Shot (6 PTS) (Crawford 1 AST),,,12 - 21,9
+0020900735,83,2,42,1,8:26 PM,3:23,Smith BLOCK (1 BLK),,MISS Rose 3' Driving Layup,,
+0020900735,84,4,0,1,8:27 PM,3:20,,,Thomas REBOUND (Off:1 Def:2),,
+0020900735,85,2,1,1,8:27 PM,3:15,,,MISS Thomas 20' Jump Shot,,
+0020900735,86,4,0,1,8:27 PM,3:13,Evans REBOUND (Off:0 Def:1),,,,
+0020900735,87,9,1,1,8:27 PM,3:08,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0020900735,89,8,0,1,8:27 PM,3:08,SUB: Smith FOR Smith,,,,
+0020900735,92,8,0,1,8:29 PM,3:08,,,SUB: Gibson FOR Miller,,
+0020900735,93,2,42,1,8:30 PM,3:03,MISS Crawford 3' Driving Layup,,,,
+0020900735,94,4,0,1,8:30 PM,3:00,,,Gibson REBOUND (Off:1 Def:2),,
+0020900735,95,6,1,1,8:30 PM,2:56,Evans P.FOUL (P1.T3),,,,
+0020900735,97,1,42,1,8:31 PM,2:39,,,Thomas 2' Driving Layup (2 PTS) (Salmons 1 AST),14 - 21,7
+0020900735,99,7,2,1,8:31 PM,2:23,,,Thomas Violation:Defensive Goaltending,,
+0020900735,98,1,56,1,8:31 PM,2:23,Horford 4' Running Hook Shot (7 PTS),,,14 - 23,9
+0020900735,100,2,3,1,8:31 PM,2:04,,,MISS Thomas 7' Hook Shot,,
+0020900735,101,4,0,1,8:31 PM,2:02,Evans REBOUND (Off:0 Def:2),,,,
+0020900735,102,2,63,1,8:32 PM,1:40,MISS Horford 13' Fadeaway Jumper,,,,
+0020900735,104,4,0,1,8:32 PM,1:37,Smith REBOUND (Off:1 Def:0),,,,
+0020900735,103,2,4,1,8:32 PM,1:37,MISS Smith  Tip Shot,,,,
+0020900735,105,4,0,1,8:32 PM,1:35,,,Salmons REBOUND (Off:0 Def:1),,
+0020900735,106,1,42,1,8:32 PM,1:27,,,Rose 3' Driving Layup (2 PTS) (Salmons 2 AST),16 - 23,7
+0020900735,107,5,2,1,8:32 PM,1:08,Smith Lost Ball Turnover (P1.T2),,Thomas STEAL (1 STL),,
+0020900735,108,1,42,1,8:32 PM,1:03,,,Rose  Driving Layup (4 PTS) (Salmons 3 AST),18 - 23,5
+0020900735,109,2,63,1,8:33 PM,0:45,MISS Johnson 17' Fadeaway Jumper,,,,
+0020900735,110,4,0,1,8:33 PM,0:43,,,Thomas REBOUND (Off:1 Def:3),,
+0020900735,111,5,1,1,8:33 PM,0:31,Evans STEAL (2 STL),,Thomas Bad Pass Turnover (P1.T5),,
+0020900735,112,1,50,1,8:33 PM,0:30,Evans  Running Dunk (2 PTS),,,18 - 25,7
+0020900735,114,1,1,1,8:33 PM,0:11,,,Gibson 19' Jump Shot (4 PTS) (Salmons 4 AST),20 - 25,5
+0020900735,116,7,2,1,8:34 PM,0:01,,,Thomas Violation:Defensive Goaltending,,
+0020900735,115,1,42,1,8:34 PM,0:01,Crawford 1' Driving Layup (2 PTS),,,20 - 27,7
+0020900735,117,2,1,1,8:34 PM,0:01,,,MISS Rose 60' 3PT Jump Shot,,
+0020900735,118,4,0,1,8:34 PM,0:00,,,Bulls Rebound,,
+0020900735,119,13,0,1,8:34 PM,0:00,,,,20 - 27,7
+0020900735,121,12,0,2,8:38 PM,12:00,,,,20 - 27,7
+0020900735,122,1,42,2,8:38 PM,11:44,,,Deng 2' Driving Layup (8 PTS) (Salmons 5 AST),22 - 27,5
+0020900735,123,2,1,2,8:39 PM,11:26,MISS Crawford 20' Jump Shot,,,,
+0020900735,124,4,0,2,8:39 PM,11:25,,,Hinrich REBOUND (Off:0 Def:3),,
+0020900735,125,2,1,2,8:39 PM,11:14,,,MISS Hinrich 25' 3PT Jump Shot,,
+0020900735,127,4,0,2,8:39 PM,11:12,,,Gibson REBOUND (Off:2 Def:2),,
+0020900735,126,2,4,2,8:39 PM,11:12,,,MISS Gibson  Tip Shot,,
+0020900735,128,4,0,2,8:39 PM,11:12,,,Deng REBOUND (Off:1 Def:1),,
+0020900735,129,6,2,2,8:39 PM,11:12,Evans S.FOUL (P2.T1),,,,
+0020900735,130,3,11,2,8:39 PM,11:12,,,MISS Deng Free Throw 1 of 2,,
+0020900735,131,4,1,2,8:39 PM,11:12,,,Bulls Rebound,,
+0020900735,132,3,12,2,8:40 PM,11:12,,,Deng Free Throw 2 of 2 (9 PTS),23 - 27,4
+0020900735,135,1,1,2,8:40 PM,10:51,Teague 19' Jump Shot (2 PTS) (Crawford 2 AST),,,23 - 29,6
+0020900735,136,6,1,2,8:40 PM,10:36,Teague P.FOUL (P1.T2),,,,
+0020900735,137,8,0,2,8:40 PM,10:36,SUB: Williams FOR Evans,,,,
+0020900735,138,8,0,2,8:41 PM,10:36,,,SUB: Brown FOR Deng,,
+0020900735,139,6,2,2,8:41 PM,10:32,Smith S.FOUL (P1.T3),,,,
+0020900735,140,3,11,2,8:41 PM,10:32,,,Gibson Free Throw 1 of 2 (5 PTS),24 - 29,5
+0020900735,142,3,12,2,8:41 PM,10:32,,,MISS Gibson Free Throw 2 of 2,,
+0020900735,144,4,0,2,8:42 PM,10:31,Pachulia REBOUND (Off:0 Def:1),,,,
+0020900735,145,2,1,2,8:42 PM,10:21,MISS Smith 20' Jump Shot,,,,
+0020900735,146,4,0,2,8:42 PM,10:19,Pachulia REBOUND (Off:1 Def:1),,,,
+0020900735,147,2,1,2,8:42 PM,10:16,MISS Teague 8' Jump Shot,,,,
+0020900735,148,4,0,2,8:42 PM,10:15,Teague REBOUND (Off:1 Def:0),,,,
+0020900735,149,2,5,2,8:42 PM,10:08,MISS Smith 2' Layup,,Gibson BLOCK (1 BLK),,
+0020900735,150,4,0,2,8:42 PM,10:06,,,Salmons REBOUND (Off:0 Def:2),,
+0020900735,151,2,1,2,8:42 PM,9:56,,,MISS Brown 25' 3PT Jump Shot,,
+0020900735,152,4,0,2,8:42 PM,9:54,Williams REBOUND (Off:0 Def:4),,,,
+0020900735,153,2,1,2,8:42 PM,9:47,MISS Crawford 25' 3PT Jump Shot,,,,
+0020900735,154,4,0,2,8:42 PM,9:47,,,Bulls Rebound,,
+0020900735,155,6,3,2,8:42 PM,9:47,Smith L.B.FOUL (P2.T4),,,,
+0020900735,156,8,0,2,8:43 PM,9:47,SUB: Smith FOR Smith,,,,
+0020900735,158,2,1,2,8:43 PM,9:31,,,MISS Hinrich 25' 3PT Jump Shot,,
+0020900735,159,4,0,2,8:43 PM,9:30,Williams REBOUND (Off:0 Def:5),,,,
+0020900735,160,1,47,2,8:43 PM,9:18,Williams 12' Turnaround Jump Shot (2 PTS),,,24 - 31,7
+0020900735,161,5,39,2,8:43 PM,8:59,,,Hinrich Step Out of Bounds Turnover (P1.T6),,
+0020900735,162,9,4,2,8:44 PM,8:59,,,,,
+0020900735,166,1,1,2,8:47 PM,8:43,Crawford 18' Jump Shot (4 PTS),,,24 - 33,9
+0020900735,167,2,1,2,8:47 PM,8:19,,,MISS Brown 20' Jump Shot,,
+0020900735,168,4,0,2,8:47 PM,8:17,,,Miller REBOUND (Off:1 Def:0),,
+0020900735,169,1,72,2,8:48 PM,8:16,,,Miller  Putback Layup (4 PTS),26 - 33,7
+0020900735,170,6,2,2,8:48 PM,8:16,Pachulia S.FOUL (P1.PN),,,,
+0020900735,171,8,0,2,8:48 PM,8:16,SUB: Johnson FOR Teague,,,,
+0020900735,172,8,0,2,8:48 PM,8:16,,,SUB: Rose FOR Brown,,
+0020900735,173,3,10,2,8:48 PM,8:16,,,Miller Free Throw 1 of 1 (5 PTS),27 - 33,6
+0020900735,175,1,63,2,8:49 PM,8:01,Crawford 19' Fadeaway Jumper (6 PTS),,,27 - 35,8
+0020900735,176,2,1,2,8:49 PM,7:49,,,MISS Salmons 25' 3PT Jump Shot,,
+0020900735,177,4,0,2,8:49 PM,7:43,Pachulia REBOUND (Off:1 Def:2),,,,
+0020900735,178,1,1,2,8:49 PM,7:29,Crawford 24' 3PT Jump Shot (9 PTS) (Smith 6 AST),,,27 - 38,11
+0020900735,179,9,1,2,8:49 PM,7:20,,,Bulls Timeout: Regular (Reg.2 Short 0),,
+0020900735,183,1,47,2,8:53 PM,7:09,,,Miller 5' Turnaround Jump Shot (7 PTS),29 - 38,9
+0020900735,184,6,2,2,8:53 PM,7:09,Pachulia S.FOUL (P2.PN),,,,
+0020900735,185,8,0,2,8:53 PM,7:09,SUB: Horford FOR Pachulia,,,,
+0020900735,186,3,10,2,8:53 PM,7:09,,,Miller Free Throw 1 of 1 (8 PTS),30 - 38,8
+0020900735,188,2,47,2,8:54 PM,6:48,MISS Johnson 6' Turnaround Jump Shot,,,,
+0020900735,189,4,0,2,8:54 PM,6:47,,,Gibson REBOUND (Off:2 Def:3),,
+0020900735,190,1,49,2,8:54 PM,6:42,,,Rose  Driving Dunk (6 PTS),32 - 38,6
+0020900735,191,6,1,2,8:54 PM,6:15,,,Gibson P.FOUL (P2.T1),,
+0020900735,192,8,0,2,8:55 PM,6:15,SUB: Bibby FOR Crawford,,,,
+0020900735,193,2,5,2,8:55 PM,6:06,MISS Horford 3' Layup,,,,
+0020900735,194,4,0,2,8:55 PM,6:04,,,Hinrich REBOUND (Off:0 Def:4),,
+0020900735,195,2,7,2,8:55 PM,5:53,,,MISS Gibson 1' Dunk,,
+0020900735,196,4,0,2,8:55 PM,5:52,Johnson REBOUND (Off:0 Def:2),,,,
+0020900735,197,6,9,2,8:55 PM,5:52,,,Hinrich C.P.FOUL (P2.T2),,
+0020900735,198,3,25,2,8:56 PM,5:52,Smith Free Throw Clear Path 1 of 2 (7 PTS),,,32 - 39,7
+0020900735,200,3,26,2,8:56 PM,5:52,Smith Free Throw Clear Path 2 of 2 (8 PTS),,,32 - 40,8
+0020900735,203,2,77,2,8:57 PM,5:39,MISS Horford 5' Driving Jump Shot,,,,
+0020900735,204,4,0,2,8:57 PM,5:36,,,Miller REBOUND (Off:1 Def:1),,
+0020900735,205,6,1,2,8:57 PM,5:29,Bibby P.FOUL (P1.PN),,,,
+0020900735,206,3,11,2,8:57 PM,5:29,,,Hinrich Free Throw 1 of 2 (3 PTS),33 - 40,7
+0020900735,208,3,12,2,8:57 PM,5:29,,,Hinrich Free Throw 2 of 2 (4 PTS),34 - 40,6
+0020900735,210,2,1,2,8:58 PM,5:16,MISS Johnson 21' Jump Shot,,,,
+0020900735,211,4,0,2,8:58 PM,5:15,Smith REBOUND (Off:1 Def:1),,,,
+0020900735,212,1,7,2,8:58 PM,5:01,Horford  Dunk (9 PTS),,,34 - 42,8
+0020900735,213,8,0,2,8:58 PM,4:58,,,SUB: Deng FOR Gibson,,
+0020900735,214,1,42,2,8:59 PM,4:43,,,Miller 2' Driving Layup (10 PTS) (Hinrich 1 AST),36 - 42,6
+0020900735,215,5,6,2,8:59 PM,4:33,Johnson Double Dribble Turnover (P1.T3),,,,
+0020900735,216,6,2,2,8:59 PM,4:24,Bibby S.FOUL (P2.PN),,,,
+0020900735,217,3,11,2,8:59 PM,4:24,,,Hinrich Free Throw 1 of 2 (5 PTS),37 - 42,5
+0020900735,219,3,12,2,9:00 PM,4:24,,,Hinrich Free Throw 2 of 2 (6 PTS),38 - 42,4
+0020900735,221,5,4,2,9:00 PM,4:06,Horford Traveling Turnover (P1.T4),,,,
+0020900735,223,2,77,2,9:00 PM,3:54,,,MISS Rose 8' Driving Jump Shot,,
+0020900735,224,4,0,2,9:00 PM,3:52,Horford REBOUND (Off:1 Def:2),,,,
+0020900735,225,1,42,2,9:01 PM,3:39,Williams 2' Driving Layup (4 PTS) (Smith 7 AST),,,38 - 44,6
+0020900735,226,1,50,2,9:01 PM,3:32,,,Deng  Running Dunk (11 PTS) (Rose 2 AST),40 - 44,4
+0020900735,227,2,1,2,9:01 PM,3:03,MISS Johnson  3PT Jump Shot,,,,
+0020900735,229,4,0,2,9:01 PM,3:00,Williams REBOUND (Off:1 Def:5),,,,
+0020900735,228,1,87,2,9:01 PM,3:00,Williams  Putback Dunk (6 PTS),,,40 - 46,6
+0020900735,230,2,1,2,9:02 PM,2:43,,,MISS Rose 22' Jump Shot,,
+0020900735,231,4,0,2,9:02 PM,2:42,Williams REBOUND (Off:1 Def:6),,,,
+0020900735,232,2,77,2,9:02 PM,2:24,MISS Williams 9' Driving Jump Shot,,,,
+0020900735,233,4,0,2,9:02 PM,2:21,,,Miller REBOUND (Off:1 Def:2),,
+0020900735,234,6,2,2,9:02 PM,2:18,Williams S.FOUL (P1.PN),,,,
+0020900735,235,9,1,2,9:02 PM,2:18,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0020900735,238,3,11,2,9:05 PM,2:18,,,MISS Deng Free Throw 1 of 2,,
+0020900735,239,4,1,2,9:05 PM,2:18,,,Bulls Rebound,,
+0020900735,240,3,12,2,9:06 PM,2:18,,,Deng Free Throw 2 of 2 (12 PTS),41 - 46,5
+0020900735,243,1,1,2,9:07 PM,1:53,Williams 18' Jump Shot (8 PTS) (Smith 8 AST),,,41 - 48,7
+0020900735,244,1,46,2,9:07 PM,1:37,,,Deng 8' Running Jump Shot (14 PTS) (Rose 3 AST),43 - 48,5
+0020900735,245,1,43,2,9:07 PM,1:18,Smith 2' Alley Oop Layup (10 PTS) (Bibby 2 AST),,,43 - 50,7
+0020900735,246,2,5,2,9:07 PM,1:02,,,MISS Rose 1' Layup,,
+0020900735,247,4,0,2,9:07 PM,1:01,,,Deng REBOUND (Off:2 Def:1),,
+0020900735,248,2,1,2,9:07 PM,0:57,,,MISS Salmons 25' 3PT Jump Shot,,
+0020900735,249,4,0,2,9:07 PM,0:55,Smith REBOUND (Off:1 Def:2),,,,
+0020900735,250,2,1,2,9:08 PM,0:46,MISS Smith 18' Jump Shot,,,,
+0020900735,251,4,0,2,9:08 PM,0:44,,,Hinrich REBOUND (Off:0 Def:5),,
+0020900735,252,1,42,2,9:08 PM,0:37,,,Hinrich 1' Driving Layup (8 PTS),45 - 50,5
+0020900735,253,6,2,2,9:08 PM,0:37,Williams S.FOUL (P2.PN),,,,
+0020900735,254,8,0,2,9:08 PM,0:37,SUB: Crawford FOR Williams,,,,
+0020900735,255,3,10,2,9:08 PM,0:37,,,Hinrich Free Throw 1 of 1 (9 PTS),46 - 50,4
+0020900735,257,2,42,2,9:09 PM,0:28,MISS Johnson 2' Driving Layup,,,,
+0020900735,258,4,0,2,9:09 PM,0:27,,,Deng REBOUND (Off:2 Def:2),,
+0020900735,259,9,2,2,9:09 PM,0:23,,,Bulls Timeout: Short (Reg.2 Short 1),,
+0020900735,261,8,0,2,9:10 PM,0:23,SUB: West FOR Bibby,,,,
+0020900735,262,8,0,2,9:10 PM,0:23,,,SUB: Brown FOR Hinrich,,
+0020900735,263,2,1,2,9:10 PM,0:03,,,MISS Deng 20' Jump Shot,,
+0020900735,264,4,0,2,9:10 PM,0:01,Johnson REBOUND (Off:0 Def:3),,,,
+0020900735,265,5,1,2,9:10 PM,0:00,Johnson Bad Pass Turnover (P2.T5),,,,
+0020900735,266,13,0,2,9:11 PM,0:00,,,,46 - 50,4
+0020900735,268,12,0,3,9:30 PM,12:00,,,,46 - 50,4
+0020900735,269,1,63,3,9:31 PM,11:45,,,Deng 17' Fadeaway Jumper (16 PTS),48 - 50,2
+0020900735,270,2,63,3,9:31 PM,11:28,MISS Johnson 19' Fadeaway Jumper,,,,
+0020900735,271,4,0,3,9:31 PM,11:26,,,Hinrich REBOUND (Off:0 Def:6),,
+0020900735,272,2,42,3,9:32 PM,11:03,,,MISS Hinrich 1' Driving Layup,,
+0020900735,273,4,0,3,9:32 PM,11:01,,,Rose REBOUND (Off:1 Def:0),,
+0020900735,274,6,1,3,9:32 PM,10:50,Johnson P.FOUL (P1.T1),,,,
+0020900735,275,5,4,3,9:32 PM,10:44,,,Deng Traveling Turnover (P2.T7),,
+0020900735,276,2,1,3,9:33 PM,10:28,MISS Bibby 17' Jump Shot,,,,
+0020900735,277,4,0,3,9:33 PM,10:27,,,Miller REBOUND (Off:1 Def:3),,
+0020900735,278,1,1,3,9:33 PM,10:17,,,Gibson 14' Jump Shot (7 PTS) (Rose 4 AST),50 - 50,TIE
+0020900735,279,2,1,3,9:33 PM,9:56,MISS Smith 21' Jump Shot,,,,
+0020900735,280,4,0,3,9:33 PM,9:55,,,Deng REBOUND (Off:2 Def:3),,
+0020900735,281,2,1,3,9:33 PM,9:46,,,MISS Rose 18' Jump Shot,,
+0020900735,282,4,0,3,9:33 PM,9:45,Johnson REBOUND (Off:0 Def:4),,,,
+0020900735,283,1,42,3,9:34 PM,9:33,Johnson 2' Driving Layup (10 PTS),,,50 - 52,2
+0020900735,284,5,4,3,9:34 PM,9:13,,,Miller Traveling Turnover (P2.T8),,
+0020900735,285,2,56,3,9:35 PM,8:55,MISS Horford 5' Running Hook Shot,,,,
+0020900735,286,4,0,3,9:35 PM,8:55,,,Bulls Rebound,,
+0020900735,287,1,47,3,9:35 PM,8:32,,,Deng 15' Turnaround Jump Shot (18 PTS),52 - 52,TIE
+0020900735,288,1,1,3,9:35 PM,8:13,Bibby  3PT Jump Shot (5 PTS) (Johnson 1 AST),,,52 - 55,3
+0020900735,289,6,1,3,9:36 PM,7:54,Williams P.FOUL (P3.T2),,,,
+0020900735,290,5,1,3,9:36 PM,7:40,,,Deng Bad Pass Turnover (P3.T9),,
+0020900735,291,2,47,3,9:37 PM,7:29,MISS Horford 11' Turnaround Jump Shot,,,,
+0020900735,293,4,0,3,9:37 PM,7:27,Smith REBOUND (Off:2 Def:2),,,,
+0020900735,292,2,4,3,9:37 PM,7:27,MISS Smith  Tip Shot,,,,
+0020900735,294,4,0,3,9:37 PM,7:25,,,Miller REBOUND (Off:1 Def:4),,
+0020900735,295,1,41,3,9:37 PM,7:21,,,Rose 1' Running Layup (8 PTS),54 - 55,1
+0020900735,296,2,47,3,9:37 PM,7:02,MISS Smith 6' Turnaround Jump Shot,,,,
+0020900735,297,4,0,3,9:37 PM,7:02,,,Rose REBOUND (Off:1 Def:1),,
+0020900735,298,6,1,3,9:37 PM,7:02,Bibby P.FOUL (P3.T3),,,,
+0020900735,299,2,1,3,9:38 PM,6:53,,,MISS Gibson 11' Jump Shot,,
+0020900735,300,4,0,3,9:38 PM,6:51,Williams REBOUND (Off:1 Def:7),,,,
+0020900735,301,2,1,3,9:38 PM,6:45,MISS Bibby 26' 3PT Jump Shot,,,,
+0020900735,302,4,0,3,9:38 PM,6:43,,,Hinrich REBOUND (Off:0 Def:7),,
+0020900735,303,2,1,3,9:38 PM,6:38,,,MISS Hinrich 20' Jump Shot,,
+0020900735,304,4,0,3,9:38 PM,6:37,,,Hinrich REBOUND (Off:1 Def:7),,
+0020900735,305,1,7,3,9:38 PM,6:34,,,Gibson  Dunk (9 PTS) (Hinrich 2 AST),56 - 55,-1
+0020900735,306,9,1,3,9:38 PM,6:25,HAWKS Timeout: Regular (Full 3 Short 0),,,,
+0020900735,310,1,47,3,9:42 PM,6:11,Horford 4' Turnaround Jump Shot (11 PTS) (Johnson 2 AST),,,56 - 57,1
+0020900735,311,2,47,3,9:42 PM,5:52,,,MISS Deng 5' Turnaround Jump Shot,,
+0020900735,312,4,0,3,9:42 PM,5:52,HAWKS Rebound,,,,
+0020900735,313,6,3,3,9:42 PM,5:52,,,Gibson L.B.FOUL (P3.T1),,
+0020900735,314,8,0,3,9:42 PM,5:52,SUB: Crawford FOR Bibby,,,,
+0020900735,315,8,0,3,9:42 PM,5:52,,,SUB: Thomas FOR Gibson,,
+0020900735,316,1,47,3,9:43 PM,5:30,Johnson 10' Turnaround Jump Shot (12 PTS),,,56 - 59,3
+0020900735,317,2,1,3,9:43 PM,5:11,,,MISS Rose 17' Jump Shot,,
+0020900735,318,4,0,3,9:43 PM,5:10,Johnson REBOUND (Off:0 Def:5),,,,
+0020900735,319,2,47,3,9:43 PM,5:00,MISS Johnson 17' Turnaround Jump Shot,,,,
+0020900735,320,4,0,3,9:43 PM,4:58,,,Hinrich REBOUND (Off:1 Def:8),,
+0020900735,321,6,2,3,9:44 PM,4:47,Horford S.FOUL (P1.T4),,,,
+0020900735,322,3,11,3,9:44 PM,4:47,,,Hinrich Free Throw 1 of 2 (10 PTS),57 - 59,2
+0020900735,324,3,12,3,9:44 PM,4:47,,,Hinrich Free Throw 2 of 2 (11 PTS),58 - 59,1
+0020900735,327,2,1,3,9:44 PM,4:33,MISS Crawford 19' Jump Shot,,,,
+0020900735,328,4,0,3,9:44 PM,4:31,,,Deng REBOUND (Off:2 Def:4),,
+0020900735,329,1,41,3,9:45 PM,4:26,,,Rose 2' Running Layup (10 PTS),60 - 59,-1
+0020900735,330,6,1,3,9:45 PM,4:17,,,Hinrich P.FOUL (P3.T2),,
+0020900735,331,8,0,3,9:45 PM,4:17,,,SUB: Salmons FOR Hinrich,,
+0020900735,332,2,1,3,9:45 PM,4:05,MISS Johnson 25' 3PT Jump Shot,,,,
+0020900735,333,4,0,3,9:45 PM,4:03,,,Salmons REBOUND (Off:0 Def:3),,
+0020900735,334,1,42,3,9:46 PM,3:46,,,Rose 2' Driving Layup (12 PTS),62 - 59,-3
+0020900735,335,1,1,3,9:46 PM,3:23,Williams  3PT Jump Shot (11 PTS) (Smith 9 AST),,,62 - 62,TIE
+0020900735,336,6,4,3,9:46 PM,3:01,,,Deng OFF.Foul (P1),,
+0020900735,337,5,5,3,9:46 PM,3:01,,,Deng Foul Turnover (P4.T10),,
+0020900735,338,8,0,3,9:47 PM,3:01,SUB: Evans FOR Williams,,,,
+0020900735,339,5,1,3,9:47 PM,2:44,Smith Bad Pass Turnover (P1.T6),,,,
+0020900735,340,9,1,3,9:47 PM,2:44,,,Bulls Timeout: Regular (Reg.3 Short 1),,
+0020900735,344,5,1,3,9:51 PM,2:32,,,Miller Bad Pass Turnover (P3.T11),,
+0020900735,345,5,7,3,9:52 PM,2:21,Crawford Discontinue Dribble Turnover (P1.T7),,,,
+0020900735,346,1,1,3,9:52 PM,2:03,,,Salmons 16' Jump Shot (2 PTS) (Rose 5 AST),64 - 62,-2
+0020900735,347,6,2,3,9:53 PM,1:48,,,Deng S.FOUL (P2.T3),,
+0020900735,348,8,0,3,9:53 PM,1:48,,,SUB: Gibson FOR Miller,,
+0020900735,349,3,11,3,9:53 PM,1:48,MISS Crawford Free Throw 1 of 2,,,,
+0020900735,350,4,1,3,9:53 PM,1:48,HAWKS Rebound,,,,
+0020900735,351,8,0,3,9:53 PM,1:48,,,SUB: Brown FOR Deng,,
+0020900735,352,3,12,3,9:53 PM,1:48,MISS Crawford Free Throw 2 of 2,,,,
+0020900735,354,4,0,3,9:54 PM,1:46,,,Gibson REBOUND (Off:2 Def:4),,
+0020900735,355,1,1,3,9:54 PM,1:23,,,Rose 17' Jump Shot (14 PTS),66 - 62,-4
+0020900735,356,2,42,3,9:54 PM,0:59,MISS Crawford 1' Driving Layup,,Gibson BLOCK (2 BLK),,
+0020900735,357,4,0,3,9:54 PM,0:57,Smith REBOUND (Off:3 Def:2),,,,
+0020900735,358,2,72,3,9:54 PM,0:55,MISS Smith  Putback Layup,,,,
+0020900735,360,4,0,3,9:54 PM,0:55,Smith REBOUND (Off:4 Def:2),,,,
+0020900735,359,1,4,3,9:54 PM,0:55,Smith  Tip Shot (12 PTS),,,66 - 64,-2
+0020900735,361,5,40,3,9:55 PM,0:43,,,Thomas Out of Bounds Lost Ball Turnover (P2.T12),,
+0020900735,362,8,0,3,9:55 PM,0:43,SUB: Bibby FOR Johnson,,,,
+0020900735,363,8,0,3,9:55 PM,0:43,,,SUB: Hinrich FOR Rose,,
+0020900735,364,2,63,3,9:55 PM,0:31,MISS Crawford 15' Fadeaway Jumper,,,,
+0020900735,365,4,0,3,9:55 PM,0:29,,,Gibson REBOUND (Off:2 Def:5),,
+0020900735,366,1,7,3,9:56 PM,0:07,,,Gibson  Dunk (11 PTS) (Brown 1 AST),68 - 64,-4
+0020900735,367,5,1,3,9:56 PM,0:04,Bibby Bad Pass Turnover (P2.T8),,Thomas STEAL (2 STL),,
+0020900735,368,1,42,3,9:56 PM,0:03,,,Thomas  Driving Layup (4 PTS),70 - 64,-6
+0020900735,369,2,1,3,9:56 PM,0:01,MISS Horford 16' Jump Shot,,,,
+0020900735,370,4,0,3,9:56 PM,0:00,HAWKS Rebound,,,,
+0020900735,371,13,0,3,9:56 PM,0:00,,,,70 - 64,-6
+0020900735,373,12,0,4,9:59 PM,12:00,,,,70 - 64,-6
+0020900735,374,2,47,4,10:01 PM,11:37,MISS Horford 7' Turnaround Jump Shot,,,,
+0020900735,375,4,0,4,10:01 PM,11:37,,,Bulls Rebound,,
+0020900735,376,6,3,4,10:01 PM,11:37,Smith L.B.FOUL (P2.T1),,,,
+0020900735,377,5,1,4,10:01 PM,11:20,Smith STEAL (2 STL),,Hinrich Bad Pass Turnover (P2.T13),,
+0020900735,378,6,2,4,10:01 PM,11:18,,,Brown S.FOUL (P1.T1),,
+0020900735,379,3,11,4,10:02 PM,11:18,MISS Smith Free Throw 1 of 2,,,,
+0020900735,380,4,1,4,10:02 PM,11:18,HAWKS Rebound,,,,
+0020900735,381,3,12,4,10:02 PM,11:18,Smith Free Throw 2 of 2 (13 PTS),,,70 - 65,-5
+0020900735,384,2,63,4,10:03 PM,10:54,,,MISS Brown 16' Fadeaway Jumper,,
+0020900735,385,4,0,4,10:03 PM,10:52,Smith REBOUND (Off:4 Def:3),,,,
+0020900735,386,1,5,4,10:03 PM,10:36,Smith 1' Layup (15 PTS) (Crawford 3 AST),,,70 - 67,-3
+0020900735,387,2,42,4,10:03 PM,10:21,,,MISS Salmons 2' Driving Layup,,
+0020900735,388,4,0,4,10:03 PM,10:19,Evans REBOUND (Off:0 Def:3),,,,
+0020900735,389,2,1,4,10:04 PM,10:04,MISS Crawford 19' Jump Shot,,,,
+0020900735,390,4,0,4,10:04 PM,10:02,,,Brown REBOUND (Off:0 Def:1),,
+0020900735,391,5,4,4,10:04 PM,9:44,,,Gibson Traveling Turnover (P1.T14),,
+0020900735,392,1,1,4,10:04 PM,9:33,Crawford 26' 3PT Jump Shot (12 PTS),,,70 - 70,TIE
+0020900735,393,9,1,4,10:04 PM,9:31,,,Bulls Timeout: Regular (Reg.4 Short 1),,
+0020900735,395,8,0,4,10:07 PM,9:31,SUB: Johnson FOR Evans,,,,
+0020900735,397,2,1,4,10:09 PM,9:09,,,MISS Gibson 19' Jump Shot,,
+0020900735,398,4,0,4,10:09 PM,9:09,,,Bulls Rebound,,
+0020900735,399,6,3,4,10:09 PM,9:09,Bibby L.B.FOUL (P4.T2),,,,
+0020900735,400,8,0,4,10:09 PM,9:09,,,SUB: Miller FOR Gibson,,
+0020900735,401,8,0,4,10:09 PM,9:09,,,SUB: Rose FOR Brown,,
+0020900735,402,2,1,4,10:09 PM,8:51,,,MISS Salmons 14' Jump Shot,,
+0020900735,403,4,0,4,10:10 PM,8:47,Smith REBOUND (Off:4 Def:4),,,,
+0020900735,404,1,50,4,10:10 PM,8:31,Horford  Running Dunk (13 PTS) (Bibby 3 AST),,,70 - 72,2
+0020900735,405,1,73,4,10:10 PM,8:06,,,Salmons 2' Driving Reverse Layup (4 PTS) (Miller 1 AST),72 - 72,TIE
+0020900735,406,1,46,4,10:11 PM,7:46,Johnson 11' Running Jump Shot (14 PTS) (Bibby 4 AST),,,72 - 74,2
+0020900735,407,2,1,4,10:11 PM,7:31,,,MISS Miller 26' 3PT Jump Shot,,
+0020900735,408,4,0,4,10:11 PM,7:29,Horford REBOUND (Off:1 Def:3),,,,
+0020900735,409,2,1,4,10:11 PM,7:06,MISS Johnson 26' 3PT Jump Shot,,,,
+0020900735,410,4,0,4,10:11 PM,7:05,,,Rose REBOUND (Off:1 Def:2),,
+0020900735,411,2,1,4,10:11 PM,6:53,,,MISS Salmons 24' 3PT Jump Shot,,
+0020900735,412,4,0,4,10:11 PM,6:52,Bibby REBOUND (Off:0 Def:1),,,,
+0020900735,413,9,1,4,10:12 PM,6:47,HAWKS Timeout: Regular (Full 4 Short 0),,,,
+0020900735,415,8,0,4,10:15 PM,6:47,,,SUB: Deng FOR Thomas,,
+0020900735,417,2,1,4,10:15 PM,6:34,MISS Bibby 17' Jump Shot,,,,
+0020900735,418,4,0,4,10:15 PM,6:33,Smith REBOUND (Off:5 Def:4),,,,
+0020900735,419,2,1,4,10:15 PM,6:29,MISS Crawford 26' 3PT Jump Shot,,,,
+0020900735,420,4,0,4,10:15 PM,6:27,Horford REBOUND (Off:2 Def:3),,,,
+0020900735,421,1,42,4,10:16 PM,6:11,Johnson 1' Driving Layup (16 PTS) (Bibby 5 AST),,,72 - 76,4
+0020900735,422,2,1,4,10:16 PM,5:55,,,MISS Deng 25' 3PT Jump Shot,,
+0020900735,423,4,0,4,10:16 PM,5:54,Crawford REBOUND (Off:0 Def:1),,,,
+0020900735,424,2,43,4,10:16 PM,5:32,MISS Smith  Alley Oop Layup,,,,
+0020900735,426,4,0,4,10:16 PM,5:28,Smith REBOUND (Off:6 Def:4),,,,
+0020900735,425,1,72,4,10:16 PM,5:28,Smith  Putback Layup (17 PTS),,,72 - 78,6
+0020900735,427,2,1,4,10:17 PM,5:03,,,MISS Rose 19' Jump Shot,,
+0020900735,428,4,0,4,10:17 PM,5:01,Crawford REBOUND (Off:0 Def:2),,,,
+0020900735,429,1,42,4,10:17 PM,4:53,Crawford 1' Driving Layup (14 PTS),,,72 - 80,8
+0020900735,430,9,1,4,10:17 PM,4:51,,,Bulls Timeout: Regular (Reg.5 Short 1),,
+0020900735,433,8,0,4,10:20 PM,4:51,,,SUB: Gibson FOR Salmons,,
+0020900735,434,1,1,4,10:21 PM,4:38,,,Deng 17' Jump Shot (20 PTS) (Rose 6 AST),74 - 80,6
+0020900735,435,6,2,4,10:21 PM,4:18,,,Gibson S.FOUL (P4.T2),,
+0020900735,436,3,11,4,10:21 PM,4:18,MISS Smith Free Throw 1 of 2,,,,
+0020900735,437,4,1,4,10:21 PM,4:18,HAWKS Rebound,,,,
+0020900735,438,3,12,4,10:21 PM,4:18,Smith Free Throw 2 of 2 (18 PTS),,,74 - 81,7
+0020900735,440,1,63,4,10:22 PM,4:06,,,Rose 18' Fadeaway Jumper (16 PTS),76 - 81,5
+0020900735,441,2,1,4,10:22 PM,3:42,MISS Horford 18' Jump Shot,,,,
+0020900735,442,4,0,4,10:22 PM,3:41,,,Bulls Rebound,,
+0020900735,443,6,3,4,10:22 PM,3:41,Smith L.B.FOUL (P3.T3),,,,
+0020900735,444,1,1,4,10:23 PM,3:34,,,Hinrich 17' Jump Shot (13 PTS),78 - 81,3
+0020900735,445,1,63,4,10:23 PM,3:10,Johnson 20' Fadeaway Jumper (18 PTS),,,78 - 83,5
+0020900735,446,2,63,4,10:23 PM,2:51,,,MISS Hinrich 8' Fadeaway Jumper,,
+0020900735,447,4,0,4,10:23 PM,2:49,Bibby REBOUND (Off:0 Def:2),,,,
+0020900735,448,2,1,4,10:24 PM,2:34,MISS Bibby  3PT Jump Shot,,,,
+0020900735,449,4,0,4,10:24 PM,2:32,Smith REBOUND (Off:7 Def:4),,,,
+0020900735,450,2,1,4,10:24 PM,2:15,MISS Johnson 19' Jump Shot,,Deng BLOCK (1 BLK),,
+0020900735,451,4,0,4,10:24 PM,2:14,Smith REBOUND (Off:8 Def:4),,,,
+0020900735,452,1,1,4,10:24 PM,2:10,Bibby 24' 3PT Jump Shot (8 PTS) (Smith 10 AST),,,78 - 86,8
+0020900735,453,1,42,4,10:24 PM,2:01,,,Rose 2' Driving Layup (18 PTS),80 - 86,6
+0020900735,454,1,1,4,10:25 PM,1:42,Horford 6' Jump Shot (15 PTS) (Crawford 4 AST),,,80 - 88,8
+0020900735,455,9,1,4,10:25 PM,1:42,,,Bulls Timeout: Regular (Reg.6 Short 1),,
+0020900735,460,2,1,4,10:27 PM,1:33,,,MISS Rose 25' 3PT Jump Shot,,
+0020900735,461,4,0,4,10:27 PM,1:32,Smith REBOUND (Off:8 Def:5),,,,
+0020900735,462,1,1,4,10:28 PM,1:09,Crawford 26' 3PT Jump Shot (17 PTS),,,80 - 91,11
+0020900735,463,2,1,4,10:28 PM,0:58,,,MISS Hinrich 21' Jump Shot,,
+0020900735,464,4,0,4,10:28 PM,0:57,,,Deng REBOUND (Off:3 Def:4),,
+0020900735,465,2,72,4,10:28 PM,0:55,,,MISS Deng  Putback Layup,,
+0020900735,466,4,0,4,10:28 PM,0:54,Smith REBOUND (Off:8 Def:6),,,,
+0020900735,467,2,1,4,10:28 PM,0:35,MISS Bibby 24' 3PT Jump Shot,,,,
+0020900735,468,4,0,4,10:28 PM,0:33,,,Deng REBOUND (Off:3 Def:5),,
+0020900735,469,2,41,4,10:28 PM,0:25,,,MISS Deng 2' Running Layup,,
+0020900735,470,4,0,4,10:28 PM,0:25,,,Bulls Rebound,,
+0020900735,471,8,0,4,10:29 PM,0:25,SUB: West FOR Johnson,,,,
+0020900735,472,8,0,4,10:29 PM,0:25,SUB: Teague FOR Bibby,,,,
+0020900735,473,6,2,4,10:29 PM,0:24,Teague S.FOUL (P2.T4),,,,
+0020900735,474,3,11,4,10:30 PM,0:24,,,MISS Rose Free Throw 1 of 2,,
+0020900735,475,4,1,4,10:30 PM,0:24,,,Bulls Rebound,,
+0020900735,476,8,0,4,10:30 PM,0:24,SUB: Williams FOR Smith,,,,
+0020900735,477,3,12,4,10:30 PM,0:24,,,Rose Free Throw 2 of 2 (19 PTS),81 - 91,10
+0020900735,479,13,0,4,10:31 PM,0:00,,,,81 - 91,10

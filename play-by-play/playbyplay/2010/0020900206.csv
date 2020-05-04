@@ -1,0 +1,418 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900206,0,12,0,1,9:13 PM,12:00,,,,,
+0020900206,1,10,0,1,9:14 PM,12:00,Jump Ball Okur vs. Green: Tip to Krstic,,,,
+0020900206,2,6,4,1,9:14 PM,11:49,,,Green OFF.Foul (P1),,
+0020900206,3,5,5,1,9:14 PM,11:49,,,Green Foul Turnover (P1.T1),,
+0020900206,4,2,5,1,9:15 PM,11:28,MISS Okur  Layup,,,,
+0020900206,6,4,0,1,9:15 PM,11:26,Okur REBOUND (Off:1 Def:0),,,,
+0020900206,5,2,4,1,9:15 PM,11:26,MISS Okur  Tip Shot,,,,
+0020900206,7,4,0,1,9:15 PM,11:25,,,Krstic REBOUND (Off:0 Def:1),,
+0020900206,8,1,1,1,9:15 PM,11:03,,,Durant 24' 3PT Jump Shot (3 PTS) (Krstic 1 AST),3 - 0,-3
+0020900206,9,2,1,1,9:16 PM,10:43,MISS Boozer 21' Jump Shot,,,,
+0020900206,10,4,0,1,9:16 PM,10:41,,,Green REBOUND (Off:0 Def:1),,
+0020900206,11,5,2,1,9:16 PM,10:28,Boozer STEAL (1 STL),,Green Lost Ball Turnover (P2.T2),,
+0020900206,12,1,8,1,9:16 PM,10:23,Brewer  Slam Dunk (2 PTS) (D. Williams 1 AST),,,3 - 2,-1
+0020900206,13,1,1,1,9:16 PM,10:06,,,Krstic 19' Jump Shot (2 PTS) (Durant 1 AST),5 - 2,-3
+0020900206,14,5,1,1,9:16 PM,9:57,Matthews Bad Pass Turnover (P1.T1),,Green STEAL (1 STL),,
+0020900206,15,6,2,1,9:17 PM,9:51,Boozer S.FOUL (P1.T1),,,,
+0020900206,16,3,11,1,9:17 PM,9:51,,,Durant Free Throw 1 of 2 (4 PTS),6 - 2,-4
+0020900206,18,3,12,1,9:17 PM,9:51,,,Durant Free Throw 2 of 2 (5 PTS),7 - 2,-5
+0020900206,20,5,4,1,9:18 PM,9:38,Boozer Traveling Turnover (P1.T2),,,,
+0020900206,21,1,47,1,9:18 PM,9:28,,,Durant 13' Turnaround Jump Shot (7 PTS),9 - 2,-7
+0020900206,22,2,46,1,9:18 PM,9:16,MISS D. Williams 8' Running Jump Shot,,,,
+0020900206,23,4,0,1,9:18 PM,9:14,,,Krstic REBOUND (Off:0 Def:2),,
+0020900206,24,6,4,1,9:18 PM,9:01,,,Krstic OFF.Foul (P1),,
+0020900206,25,5,5,1,9:18 PM,9:01,,,Krstic Foul Turnover (P1.T3),,
+0020900206,26,1,1,1,9:19 PM,8:37,Brewer 25' 3PT Jump Shot (5 PTS) (D. Williams 2 AST),,,9 - 5,-4
+0020900206,27,2,1,1,9:19 PM,8:18,,,MISS Green 21' Jump Shot,,
+0020900206,28,4,0,1,9:19 PM,8:18,,,Thunder Rebound,,
+0020900206,29,6,3,1,9:19 PM,8:18,Boozer L.B.FOUL (P2.T2),,,,
+0020900206,30,8,0,1,9:19 PM,8:18,SUB: Millsap FOR Boozer,,,,
+0020900206,31,2,1,1,9:20 PM,8:11,,,MISS Durant 20' Jump Shot,,
+0020900206,32,4,0,1,9:20 PM,8:10,D. Williams REBOUND (Off:0 Def:1),,,,
+0020900206,33,2,1,1,9:20 PM,8:00,MISS Matthews 24' 3PT Jump Shot,,,,
+0020900206,34,4,0,1,9:20 PM,7:58,,,Krstic REBOUND (Off:0 Def:3),,
+0020900206,35,1,1,1,9:20 PM,7:52,,,Westbrook 20' Jump Shot (2 PTS) (Krstic 2 AST),11 - 5,-6
+0020900206,36,1,5,1,9:20 PM,7:26,Matthews  Layup (2 PTS),,,11 - 7,-4
+0020900206,37,1,1,1,9:21 PM,7:10,,,Krstic 22' Jump Shot (4 PTS) (Durant 2 AST),13 - 7,-6
+0020900206,38,2,5,1,9:21 PM,6:55,MISS Okur  Layup,,,,
+0020900206,39,4,0,1,9:21 PM,6:53,,,Krstic REBOUND (Off:0 Def:4),,
+0020900206,40,5,2,1,9:21 PM,6:48,D. Williams STEAL (1 STL),,Westbrook Lost Ball Turnover (P1.T4),,
+0020900206,41,1,5,1,9:21 PM,6:32,Millsap  Layup (2 PTS) (D. Williams 3 AST),,,13 - 9,-4
+0020900206,42,2,1,1,9:22 PM,6:15,,,MISS Krstic 19' Jump Shot,,
+0020900206,43,4,0,1,9:22 PM,6:13,D. Williams REBOUND (Off:0 Def:2),,,,
+0020900206,44,6,2,1,9:22 PM,6:07,,,Green S.FOUL (P2.T1),,
+0020900206,45,3,11,1,9:22 PM,6:07,MISS D. Williams Free Throw 1 of 2,,,,
+0020900206,46,4,1,1,9:22 PM,6:07,JAZZ Rebound,,,,
+0020900206,47,8,0,1,9:22 PM,6:07,,,SUB: Ibaka FOR Green,,
+0020900206,48,3,12,1,9:22 PM,6:07,MISS D. Williams Free Throw 2 of 2,,,,
+0020900206,50,4,0,1,9:23 PM,6:05,Millsap REBOUND (Off:1 Def:0),,,,
+0020900206,51,1,1,1,9:23 PM,5:54,D. Williams 21' Jump Shot (2 PTS) (Brewer 1 AST),,,13 - 11,-2
+0020900206,52,2,1,1,9:23 PM,5:42,,,MISS Westbrook 22' Jump Shot,,
+0020900206,53,4,0,1,9:23 PM,5:42,JAZZ Rebound,,,,
+0020900206,55,9,1,1,9:23 PM,5:42,JAZZ Timeout: Regular (Full 1 Short 0),,,,
+0020900206,56,1,1,1,9:26 PM,5:20,Millsap 19' Jump Shot (4 PTS),,,13 - 13,TIE
+0020900206,57,1,47,1,9:26 PM,5:08,,,Durant 14' Turnaround Jump Shot (9 PTS),15 - 13,-2
+0020900206,58,2,42,1,9:27 PM,4:51,MISS Millsap  Driving Layup,,,,
+0020900206,59,4,0,1,9:27 PM,4:50,,,Ibaka REBOUND (Off:0 Def:1),,
+0020900206,60,6,4,1,9:27 PM,4:46,,,Westbrook OFF.Foul (P1),,
+0020900206,61,5,5,1,9:27 PM,4:46,,,Westbrook Foul Turnover (P2.T5),,
+0020900206,62,8,0,1,9:27 PM,4:46,SUB: Kirilenko FOR Brewer,,,,
+0020900206,63,1,42,1,9:27 PM,4:38,D. Williams  Driving Layup (4 PTS),,,15 - 15,TIE
+0020900206,64,1,1,1,9:27 PM,4:20,,,Ibaka 18' Jump Shot (2 PTS) (Durant 3 AST),17 - 15,-2
+0020900206,65,6,2,1,9:28 PM,4:04,,,Ibaka S.FOUL (P1.T2),,
+0020900206,66,8,0,1,9:28 PM,4:04,,,SUB: Harden FOR Krstic,,
+0020900206,67,3,11,1,9:28 PM,4:04,Okur Free Throw 1 of 2 (1 PTS),,,17 - 16,-1
+0020900206,69,3,12,1,9:28 PM,4:04,Okur Free Throw 2 of 2 (2 PTS),,,17 - 17,TIE
+0020900206,71,1,78,1,9:29 PM,3:57,,,Westbrook 5' Floating Jump Shot (4 PTS),19 - 17,-2
+0020900206,72,2,42,1,9:29 PM,3:47,MISS D. Williams  Driving Layup,,,,
+0020900206,74,4,0,1,9:29 PM,3:46,Millsap REBOUND (Off:2 Def:0),,,,
+0020900206,73,1,87,1,9:29 PM,3:46,Millsap  Putback Dunk (6 PTS),,,19 - 19,TIE
+0020900206,75,2,1,1,9:29 PM,3:33,,,MISS Sefolosha 19' Jump Shot,,
+0020900206,76,4,0,1,9:29 PM,3:33,JAZZ Rebound,,,,
+0020900206,77,1,65,1,9:30 PM,3:16,Okur 4' Jump Hook Shot (4 PTS),,,19 - 21,2
+0020900206,78,9,1,1,9:30 PM,3:10,,,Thunder Timeout: Regular (Reg.1 Short 0),,
+0020900206,80,8,0,1,9:32 PM,3:10,SUB: Maynor FOR D. Williams,,,,
+0020900206,81,8,0,1,9:32 PM,3:10,,,SUB: Weaver FOR Westbrook,,
+0020900206,82,2,1,1,9:32 PM,3:05,,,MISS Durant 21' Jump Shot,,
+0020900206,83,4,0,1,9:32 PM,3:04,Okur REBOUND (Off:1 Def:1),,,,
+0020900206,84,5,4,1,9:33 PM,2:43,Okur Traveling Turnover (P1.T3),,,,
+0020900206,85,1,1,1,9:33 PM,2:28,,,Weaver 21' Jump Shot (2 PTS) (Sefolosha 1 AST),21 - 21,TIE
+0020900206,86,2,1,1,9:34 PM,2:03,MISS Okur 20' Jump Shot,,,,
+0020900206,87,4,0,1,9:34 PM,2:02,,,Ibaka REBOUND (Off:0 Def:2),,
+0020900206,88,2,42,1,9:34 PM,1:56,,,MISS Sefolosha  Driving Layup,,
+0020900206,89,4,0,1,9:34 PM,1:55,Kirilenko REBOUND (Off:0 Def:1),,,,
+0020900206,90,1,44,1,9:34 PM,1:49,Millsap  Reverse Layup (8 PTS) (Maynor 1 AST),,,21 - 23,2
+0020900206,91,6,2,1,9:34 PM,1:49,,,Ibaka S.FOUL (P2.T3),,
+0020900206,92,8,0,1,9:34 PM,1:49,SUB: Brewer FOR Matthews,,,,
+0020900206,93,8,0,1,9:34 PM,1:49,,,SUB: Thomas FOR Ibaka,,
+0020900206,94,3,10,1,9:34 PM,1:49,Millsap Free Throw 1 of 1 (9 PTS),,,21 - 24,3
+0020900206,96,6,2,1,9:35 PM,1:34,Kirilenko S.FOUL (P1.T3),,,,
+0020900206,97,3,11,1,9:35 PM,1:34,,,Durant Free Throw 1 of 2 (10 PTS),22 - 24,2
+0020900206,99,3,12,1,9:35 PM,1:34,,,Durant Free Throw 2 of 2 (11 PTS),23 - 24,1
+0020900206,101,1,44,1,9:36 PM,1:14,Millsap  Reverse Layup (11 PTS),,,23 - 26,3
+0020900206,102,2,1,1,9:37 PM,0:53,,,MISS Durant 22' Jump Shot,,
+0020900206,103,4,0,1,9:37 PM,0:51,,,Durant REBOUND (Off:1 Def:0),,
+0020900206,104,2,1,1,9:37 PM,0:47,,,MISS Sefolosha 18' Jump Shot,,
+0020900206,106,4,0,1,9:37 PM,0:44,,,Durant REBOUND (Off:2 Def:0),,
+0020900206,105,2,1,1,9:37 PM,0:44,,,MISS Durant 4' Jump Shot,,
+0020900206,107,4,0,1,9:37 PM,0:43,Millsap REBOUND (Off:2 Def:1),,,,
+0020900206,108,6,3,1,9:37 PM,0:43,,,Weaver L.B.FOUL (P1.PN),,
+0020900206,109,3,11,1,9:37 PM,0:43,Millsap Free Throw 1 of 2 (12 PTS),,,23 - 27,4
+0020900206,111,3,12,1,9:38 PM,0:43,Millsap Free Throw 2 of 2 (13 PTS),,,23 - 28,5
+0020900206,113,2,1,1,9:38 PM,0:32,,,MISS Weaver 20' Jump Shot,,
+0020900206,114,4,0,1,9:38 PM,0:31,Okur REBOUND (Off:1 Def:2),,,,
+0020900206,115,2,46,1,9:38 PM,0:08,MISS Maynor 8' Running Jump Shot,,,,
+0020900206,116,4,0,1,9:38 PM,0:07,,,Durant REBOUND (Off:2 Def:1),,
+0020900206,117,1,42,1,9:38 PM,0:02,,,Durant  Driving Layup (13 PTS),25 - 28,3
+0020900206,118,2,1,1,9:39 PM,0:00,MISS Brewer 18' Jump Shot,,,,
+0020900206,119,4,0,1,9:39 PM,0:00,JAZZ Rebound,,,,
+0020900206,121,13,0,1,9:39 PM,0:00,,,,25 - 28,3
+0020900206,123,12,0,2,9:41 PM,12:00,,,,25 - 28,3
+0020900206,124,5,2,2,9:42 PM,11:42,Millsap Lost Ball Turnover (P1.T4),,Thomas STEAL (1 STL),,
+0020900206,125,5,41,2,9:42 PM,11:25,,,Weaver Poss Lost Ball Turnover (P1.T6),,
+0020900206,126,5,41,2,9:43 PM,11:07,Kirilenko Poss Lost Ball Turnover (P1.T5),,,,
+0020900206,127,1,5,2,9:43 PM,10:47,,,Thomas  Layup (2 PTS) (Green 1 AST),27 - 28,1
+0020900206,128,2,1,2,9:43 PM,10:24,MISS Kirilenko 26' 3PT Jump Shot,,Durant BLOCK (1 BLK),,
+0020900206,129,4,0,2,9:43 PM,10:23,,,Green REBOUND (Off:0 Def:2),,
+0020900206,130,1,42,2,9:44 PM,10:20,,,Harden  Driving Layup (2 PTS),29 - 28,-1
+0020900206,131,6,2,2,9:44 PM,10:20,Maynor S.FOUL (P1.T1),,,,
+0020900206,132,3,10,2,9:44 PM,10:20,,,Harden Free Throw 1 of 1 (3 PTS),30 - 28,-2
+0020900206,134,2,5,2,9:44 PM,10:04,MISS Maynor  Layup,,Weaver BLOCK (1 BLK),,
+0020900206,135,4,0,2,9:44 PM,10:04,,,Thunder Rebound,,
+0020900206,136,7,5,2,9:45 PM,9:53,Fesenko Violation:Kicked Ball,,,,
+0020900206,137,8,0,2,9:45 PM,9:53,SUB: Boozer FOR Fesenko,,,,
+0020900206,138,2,1,2,9:45 PM,9:47,,,MISS Durant 21' Jump Shot,,
+0020900206,139,4,0,2,9:45 PM,9:46,Millsap REBOUND (Off:2 Def:2),,,,
+0020900206,140,1,7,2,9:46 PM,9:25,Kirilenko  Dunk (2 PTS) (Brewer 2 AST),,,30 - 30,TIE
+0020900206,141,9,1,2,9:46 PM,9:13,,,Thunder Timeout: Regular (Reg.2 Short 0),,
+0020900206,143,8,0,2,9:48 PM,9:13,,,SUB: Sefolosha FOR Durant,,
+0020900206,144,1,5,2,9:49 PM,9:01,,,Thomas  Layup (4 PTS) (Green 2 AST),32 - 30,-2
+0020900206,145,1,1,2,9:49 PM,8:46,Kirilenko 21' Jump Shot (4 PTS) (Boozer 1 AST),,,32 - 32,TIE
+0020900206,146,5,4,2,9:49 PM,8:28,,,Thomas Traveling Turnover (P1.T7),,
+0020900206,147,8,0,2,9:49 PM,8:28,SUB: D. Williams FOR Maynor,,,,
+0020900206,148,2,1,2,9:50 PM,8:15,MISS Brewer 20' Jump Shot,,,,
+0020900206,149,4,0,2,9:50 PM,8:14,Boozer REBOUND (Off:1 Def:0),,,,
+0020900206,150,2,1,2,9:50 PM,8:10,MISS Boozer 14' Jump Shot,,,,
+0020900206,151,4,0,2,9:50 PM,8:09,Kirilenko REBOUND (Off:1 Def:1),,,,
+0020900206,152,2,1,2,9:50 PM,8:06,MISS Kirilenko 4' Jump Shot,,Weaver BLOCK (2 BLK),,
+0020900206,153,4,0,2,9:50 PM,8:05,,,Thomas REBOUND (Off:0 Def:1),,
+0020900206,154,1,5,2,9:50 PM,8:02,,,Harden  Layup (5 PTS) (Sefolosha 2 AST),34 - 32,-2
+0020900206,155,1,5,2,9:50 PM,7:46,Boozer  Layup (2 PTS) (Kirilenko 1 AST),,,34 - 34,TIE
+0020900206,156,1,42,2,9:51 PM,7:27,,,Harden  Driving Layup (7 PTS),36 - 34,-2
+0020900206,157,1,1,2,9:51 PM,7:18,D. Williams 14' Jump Shot (6 PTS),,,36 - 36,TIE
+0020900206,158,1,1,2,9:51 PM,6:54,,,Harden 24' 3PT Jump Shot (10 PTS) (Weaver 1 AST),39 - 36,-3
+0020900206,159,2,1,2,9:51 PM,6:34,MISS D. Williams 18' Jump Shot,,Weaver BLOCK (3 BLK),,
+0020900206,160,4,0,2,9:51 PM,6:32,,,Thomas REBOUND (Off:0 Def:2),,
+0020900206,161,2,5,2,9:52 PM,6:17,Millsap BLOCK (1 BLK),,MISS Thomas  Layup,,
+0020900206,162,4,0,2,9:52 PM,6:16,Kirilenko REBOUND (Off:1 Def:2),,,,
+0020900206,163,6,1,2,9:52 PM,6:12,,,Sefolosha P.FOUL (P1.T1),,
+0020900206,164,8,0,2,9:52 PM,6:12,,,SUB: Westbrook FOR Weaver,,
+0020900206,165,8,0,2,9:52 PM,6:12,,,SUB: Krstic FOR Thomas,,
+0020900206,166,1,65,2,9:52 PM,6:06,Boozer 6' Jump Hook Shot (4 PTS) (D. Williams 4 AST),,,39 - 38,-1
+0020900206,167,2,1,2,9:53 PM,5:44,,,MISS Green 20' Jump Shot,,
+0020900206,168,4,0,2,9:53 PM,5:42,Kirilenko REBOUND (Off:1 Def:3),,,,
+0020900206,169,5,1,2,9:53 PM,5:34,Boozer Bad Pass Turnover (P2.T6),,Krstic STEAL (1 STL),,
+0020900206,170,6,2,2,9:53 PM,5:25,Millsap S.FOUL (P1.T2),,,,
+0020900206,171,9,4,2,9:53 PM,5:25,,,,,
+0020900206,172,8,0,2,9:55 PM,5:25,,,SUB: Durant FOR Sefolosha,,
+0020900206,173,3,11,2,9:56 PM,5:25,,,Green Free Throw 1 of 2 (1 PTS),40 - 38,-2
+0020900206,175,3,12,2,9:56 PM,5:25,,,Green Free Throw 2 of 2 (2 PTS),41 - 38,-3
+0020900206,177,2,1,2,9:56 PM,5:10,MISS Kirilenko 23' Jump Shot,,,,
+0020900206,178,4,0,2,9:57 PM,5:09,,,Westbrook REBOUND (Off:0 Def:1),,
+0020900206,179,1,1,2,9:57 PM,5:02,,,Green 24' 3PT Jump Shot (5 PTS) (Westbrook 1 AST),44 - 38,-6
+0020900206,180,1,42,2,9:57 PM,4:47,Boozer  Driving Layup (6 PTS) (D. Williams 5 AST),,,44 - 40,-4
+0020900206,181,1,42,2,9:57 PM,4:31,,,Durant  Driving Layup (15 PTS),46 - 40,-6
+0020900206,182,6,2,2,9:57 PM,4:20,,,Krstic S.FOUL (P2.T2),,
+0020900206,183,8,0,2,9:57 PM,4:20,SUB: Okur FOR Millsap,,,,
+0020900206,184,3,11,2,9:58 PM,4:20,Boozer Free Throw 1 of 2 (7 PTS),,,46 - 41,-5
+0020900206,186,3,12,2,9:58 PM,4:20,Boozer Free Throw 2 of 2 (8 PTS),,,46 - 42,-4
+0020900206,188,1,1,2,9:58 PM,4:09,,,Green 24' 3PT Jump Shot (8 PTS) (Westbrook 2 AST),49 - 42,-7
+0020900206,189,1,49,2,9:59 PM,3:52,Kirilenko  Driving Dunk (6 PTS),,,49 - 44,-5
+0020900206,190,2,1,2,9:59 PM,3:37,Kirilenko BLOCK (1 BLK),,MISS Krstic 4' Jump Shot,,
+0020900206,191,4,0,2,9:59 PM,3:33,Boozer REBOUND (Off:1 Def:1),,,,
+0020900206,192,5,1,2,9:59 PM,3:19,Boozer Bad Pass Turnover (P3.T7),,,,
+0020900206,193,1,1,2,10:00 PM,2:55,,,Krstic 22' Jump Shot (6 PTS) (Durant 4 AST),51 - 44,-7
+0020900206,194,6,2,2,10:00 PM,2:43,,,Durant S.FOUL (P1.T3),,
+0020900206,195,9,1,2,10:00 PM,2:43,JAZZ Timeout: Regular (Full 2 Short 0),,,,
+0020900206,197,3,11,2,10:03 PM,2:43,Boozer Free Throw 1 of 2 (9 PTS),,,51 - 45,-6
+0020900206,199,3,12,2,10:03 PM,2:43,Boozer Free Throw 2 of 2 (10 PTS),,,51 - 46,-5
+0020900206,201,6,1,2,10:03 PM,2:31,D. Williams P.FOUL (P1.T3),,,,
+0020900206,202,2,1,2,10:04 PM,2:25,,,MISS Harden  3PT Jump Shot,,
+0020900206,204,4,0,2,10:04 PM,2:23,,,Krstic REBOUND (Off:1 Def:4),,
+0020900206,203,2,4,2,10:04 PM,2:23,,,MISS Krstic  Tip Shot,,
+0020900206,205,4,0,2,10:04 PM,2:22,Kirilenko REBOUND (Off:1 Def:4),,,,
+0020900206,206,2,1,2,10:04 PM,2:05,MISS D. Williams 25' 3PT Jump Shot,,,,
+0020900206,207,4,0,2,10:04 PM,2:04,,,Harden REBOUND (Off:0 Def:1),,
+0020900206,208,5,41,2,10:04 PM,1:52,,,Westbrook Poss Lost Ball Turnover (P3.T8),,
+0020900206,209,8,0,2,10:04 PM,1:52,,,SUB: Sefolosha FOR Harden,,
+0020900206,210,5,1,2,10:05 PM,1:37,D. Williams Bad Pass Turnover (P1.T8),,Green STEAL (2 STL),,
+0020900206,211,6,4,2,10:05 PM,1:33,,,Krstic OFF.Foul (P3),,
+0020900206,212,5,5,2,10:05 PM,1:33,,,Krstic Foul Turnover (P2.T9),,
+0020900206,213,8,0,2,10:05 PM,1:33,,,SUB: Thomas FOR Krstic,,
+0020900206,214,2,1,2,10:06 PM,1:10,MISS Boozer 8' Jump Shot,,Thomas BLOCK (1 BLK),,
+0020900206,215,4,0,2,10:06 PM,1:08,Okur REBOUND (Off:2 Def:2),,,,
+0020900206,216,2,1,2,10:06 PM,1:04,MISS Okur 9' Jump Shot,,,,
+0020900206,218,4,0,2,10:06 PM,1:03,Boozer REBOUND (Off:2 Def:1),,,,
+0020900206,217,1,5,2,10:06 PM,1:03,Boozer  Layup (12 PTS),,,51 - 48,-3
+0020900206,219,2,1,2,10:06 PM,0:51,,,MISS Westbrook 13' Jump Shot,,
+0020900206,220,4,0,2,10:06 PM,0:50,Brewer REBOUND (Off:0 Def:1),,,,
+0020900206,221,1,1,2,10:06 PM,0:43,D. Williams 17' Jump Shot (8 PTS),,,51 - 50,-1
+0020900206,222,9,2,2,10:06 PM,0:38,,,Thunder Timeout: Short (Reg.2 Short 1),,
+0020900206,223,8,0,2,10:07 PM,0:38,SUB: Millsap FOR Boozer,,,,
+0020900206,224,2,1,2,10:08 PM,0:31,Kirilenko BLOCK (2 BLK),,MISS Durant 20' Jump Shot,,
+0020900206,225,4,0,2,10:08 PM,0:29,Brewer REBOUND (Off:0 Def:2),,,,
+0020900206,226,1,5,2,10:08 PM,0:07,Okur  Layup (6 PTS) (D. Williams 6 AST),,,51 - 52,1
+0020900206,227,6,2,2,10:09 PM,0:02,Okur S.FOUL (P1.T4),,,,
+0020900206,228,3,11,2,10:09 PM,0:02,,,Green Free Throw 1 of 2 (9 PTS),52 - 52,TIE
+0020900206,230,3,12,2,10:10 PM,0:02,,,Green Free Throw 2 of 2 (10 PTS),53 - 52,-1
+0020900206,232,2,1,2,10:10 PM,0:00,MISS D. Williams 23' Jump Shot,,,,
+0020900206,233,4,0,2,10:10 PM,0:00,JAZZ Rebound,,,,
+0020900206,234,13,0,2,10:10 PM,0:00,,,,53 - 52,-1
+0020900206,236,12,0,3,10:26 PM,12:00,,,,53 - 52,-1
+0020900206,237,5,1,3,10:27 PM,11:45,D. Williams Bad Pass Turnover (P2.T9),,Green STEAL (3 STL),,
+0020900206,238,2,1,3,10:27 PM,11:33,,,MISS Krstic 22' Jump Shot,,
+0020900206,240,4,0,3,10:27 PM,11:32,,,Westbrook REBOUND (Off:1 Def:1),,
+0020900206,239,2,5,3,10:27 PM,11:32,,,MISS Westbrook  Layup,,
+0020900206,241,4,0,3,10:27 PM,11:31,,,Westbrook REBOUND (Off:2 Def:1),,
+0020900206,242,2,1,3,10:27 PM,11:25,,,MISS Green 25' 3PT Jump Shot,,
+0020900206,243,4,0,3,10:27 PM,11:24,Matthews REBOUND (Off:0 Def:1),,,,
+0020900206,244,1,5,3,10:27 PM,11:13,Matthews  Layup (4 PTS) (Okur 1 AST),,,53 - 54,1
+0020900206,245,1,1,3,10:28 PM,10:47,,,Durant 17' Jump Shot (17 PTS),55 - 54,-1
+0020900206,246,2,46,3,10:28 PM,10:24,MISS Okur 8' Running Jump Shot,,,,
+0020900206,247,4,0,3,10:28 PM,10:23,,,Durant REBOUND (Off:2 Def:2),,
+0020900206,248,1,1,3,10:28 PM,10:14,,,Green 24' 3PT Jump Shot (13 PTS) (Sefolosha 3 AST),58 - 54,-4
+0020900206,249,1,1,3,10:29 PM,9:47,Boozer 5' Jump Shot (14 PTS),,,58 - 56,-2
+0020900206,250,1,1,3,10:29 PM,9:33,,,Krstic 20' Jump Shot (8 PTS) (Durant 5 AST),60 - 56,-4
+0020900206,251,1,1,3,10:29 PM,9:16,Okur 18' Jump Shot (8 PTS) (Boozer 2 AST),,,60 - 58,-2
+0020900206,252,1,1,3,10:30 PM,8:58,,,Green 21' Jump Shot (15 PTS) (Durant 6 AST),62 - 58,-4
+0020900206,253,2,44,3,10:30 PM,8:41,MISS Brewer  Reverse Layup,,,,
+0020900206,254,4,0,3,10:30 PM,8:39,,,Krstic REBOUND (Off:1 Def:5),,
+0020900206,255,2,5,3,10:30 PM,8:33,,,MISS Durant  Layup,,
+0020900206,256,4,0,3,10:30 PM,8:31,Boozer REBOUND (Off:2 Def:2),,,,
+0020900206,257,2,1,3,10:31 PM,8:17,MISS D. Williams 12' Jump Shot,,,,
+0020900206,258,4,0,3,10:31 PM,8:16,,,Green REBOUND (Off:0 Def:3),,
+0020900206,259,1,1,3,10:31 PM,8:10,,,Sefolosha 18' Jump Shot (2 PTS) (Green 3 AST),64 - 58,-6
+0020900206,260,1,5,3,10:31 PM,7:49,Okur  Layup (10 PTS) (D. Williams 7 AST),,,64 - 60,-4
+0020900206,261,1,1,3,10:31 PM,7:36,,,Durant 25' 3PT Jump Shot (20 PTS) (Krstic 3 AST),67 - 60,-7
+0020900206,262,9,2,3,10:31 PM,7:36,JAZZ Timeout: Short (Full 2 Short 1),,,,
+0020900206,264,6,2,3,10:33 PM,7:30,,,Krstic S.FOUL (P4.T1),,
+0020900206,265,3,11,3,10:33 PM,7:30,Matthews Free Throw 1 of 2 (5 PTS),,,67 - 61,-6
+0020900206,267,8,0,3,10:34 PM,7:30,,,SUB: Ibaka FOR Krstic,,
+0020900206,268,3,12,3,10:34 PM,7:30,Matthews Free Throw 2 of 2 (6 PTS),,,67 - 62,-5
+0020900206,270,6,2,3,10:34 PM,7:14,Okur S.FOUL (P2.T1),,,,
+0020900206,271,3,11,3,10:34 PM,7:14,,,MISS Westbrook Free Throw 1 of 2,,
+0020900206,272,4,1,3,10:34 PM,7:14,,,Thunder Rebound,,
+0020900206,273,3,12,3,10:34 PM,7:14,,,Westbrook Free Throw 2 of 2 (5 PTS),68 - 62,-6
+0020900206,275,5,2,3,10:35 PM,7:05,Brewer Lost Ball Turnover (P1.T10),,Durant STEAL (1 STL),,
+0020900206,276,1,8,3,10:35 PM,7:01,,,Durant  Slam Dunk (22 PTS),70 - 62,-8
+0020900206,277,1,44,3,10:35 PM,6:33,Boozer  Reverse Layup (16 PTS) (Brewer 3 AST),,,70 - 64,-6
+0020900206,278,6,1,3,10:36 PM,6:18,Brewer P.FOUL (P1.T2),,,,
+0020900206,279,8,0,3,10:36 PM,6:18,SUB: Kirilenko FOR Brewer,,,,
+0020900206,280,2,1,3,10:36 PM,6:10,,,MISS Green 24' 3PT Jump Shot,,
+0020900206,281,4,0,3,10:36 PM,6:09,D. Williams REBOUND (Off:0 Def:3),,,,
+0020900206,282,2,1,3,10:36 PM,6:01,MISS Okur 24' 3PT Jump Shot,,,,
+0020900206,283,4,0,3,10:36 PM,6:00,,,Green REBOUND (Off:0 Def:4),,
+0020900206,284,1,1,3,10:37 PM,5:44,,,Ibaka 14' Jump Shot (4 PTS) (Durant 7 AST),72 - 64,-8
+0020900206,285,2,1,3,10:37 PM,5:28,MISS Matthews 24' 3PT Jump Shot,,,,
+0020900206,286,4,0,3,10:37 PM,5:27,,,Green REBOUND (Off:0 Def:5),,
+0020900206,287,1,1,3,10:37 PM,5:21,,,Westbrook 24' 3PT Jump Shot (8 PTS) (Green 4 AST),75 - 64,-11
+0020900206,288,5,4,3,10:37 PM,5:06,Okur Traveling Turnover (P2.T11),,,,
+0020900206,289,9,1,3,10:37 PM,5:06,JAZZ Timeout: Regular (Full 3 Short 1),,,,
+0020900206,291,8,0,3,10:40 PM,5:06,SUB: Millsap FOR Okur,,,,
+0020900206,292,1,5,3,10:40 PM,4:56,,,Westbrook  Layup (10 PTS) (Green 5 AST),77 - 64,-13
+0020900206,293,5,8,3,10:40 PM,4:36,Millsap 3 Second Violation Turnover (P2.T12),,,,
+0020900206,294,2,1,3,10:41 PM,4:17,,,MISS Durant 25' 3PT Jump Shot,,
+0020900206,295,4,0,3,10:41 PM,4:14,,,Thunder Rebound,,
+0020900206,296,2,1,3,10:41 PM,4:07,,,MISS Sefolosha 24' 3PT Jump Shot,,
+0020900206,297,4,0,3,10:41 PM,4:06,Boozer REBOUND (Off:2 Def:3),,,,
+0020900206,298,6,4,3,10:42 PM,3:58,Millsap OFF.Foul (P2),,,,
+0020900206,299,5,5,3,10:42 PM,3:58,Millsap Foul Turnover (P3.T13),,,,
+0020900206,300,8,0,3,10:42 PM,3:58,SUB: Brewer FOR Matthews,,,,
+0020900206,301,5,2,3,10:42 PM,3:46,D. Williams STEAL (2 STL),,Durant Lost Ball Turnover (P1.T10),,
+0020900206,302,1,42,3,10:42 PM,3:42,D. Williams  Driving Layup (10 PTS),,,77 - 66,-11
+0020900206,303,1,1,3,10:43 PM,3:16,,,Durant 22' Jump Shot (24 PTS),79 - 66,-13
+0020900206,304,2,1,3,10:43 PM,2:49,MISS Kirilenko  3PT Jump Shot,,,,
+0020900206,305,4,0,3,10:43 PM,2:48,JAZZ Rebound,,,,
+0020900206,306,9,1,3,10:43 PM,2:48,,,Thunder Timeout: Regular (Reg.3 Short 1),,
+0020900206,308,1,88,3,10:46 PM,2:43,Boozer  Driving Slam Dunk (18 PTS),,,79 - 68,-11
+0020900206,309,6,1,3,10:46 PM,2:29,Boozer P.FOUL (P3.T3),,,,
+0020900206,310,2,1,3,10:47 PM,2:19,,,MISS Sefolosha 24' 3PT Jump Shot,,
+0020900206,311,4,0,3,10:47 PM,2:17,Millsap REBOUND (Off:2 Def:3),,,,
+0020900206,312,2,5,3,10:47 PM,2:06,MISS Boozer  Layup,,,,
+0020900206,313,4,0,3,10:47 PM,2:05,,,Sefolosha REBOUND (Off:0 Def:1),,
+0020900206,314,1,5,3,10:47 PM,1:58,,,Green  Layup (17 PTS) (Durant 8 AST),81 - 68,-13
+0020900206,315,7,1,3,10:47 PM,1:57,,,Thunder Violation: Delay of game Violation,,
+0020900206,316,2,78,3,10:47 PM,1:46,MISS D. Williams 13' Floating Jump Shot,,,,
+0020900206,317,4,0,3,10:47 PM,1:44,D. Williams REBOUND (Off:1 Def:3),,,,
+0020900206,318,5,1,3,10:47 PM,1:41,D. Williams Bad Pass Turnover (P3.T14),,Sefolosha STEAL (1 STL),,
+0020900206,319,6,2,3,10:47 PM,1:37,D. Williams S.FOUL (P2.T4),,,,
+0020900206,320,3,11,3,10:48 PM,1:37,,,MISS Westbrook Free Throw 1 of 2,,
+0020900206,321,4,1,3,10:48 PM,1:37,,,Thunder Rebound,,
+0020900206,322,8,0,3,10:48 PM,1:37,,,SUB: Harden FOR Sefolosha,,
+0020900206,323,3,12,3,10:48 PM,1:37,,,Westbrook Free Throw 2 of 2 (11 PTS),82 - 68,-14
+0020900206,325,2,63,3,10:49 PM,1:16,MISS Millsap 16' Fadeaway Jumper,,,,
+0020900206,326,4,0,3,10:49 PM,1:14,,,Durant REBOUND (Off:2 Def:3),,
+0020900206,327,2,1,3,10:49 PM,1:00,,,MISS Green 19' Jump Shot,,
+0020900206,328,4,0,3,10:49 PM,0:58,D. Williams REBOUND (Off:1 Def:4),,,,
+0020900206,329,2,1,3,10:49 PM,0:53,MISS D. Williams 18' Jump Shot,,,,
+0020900206,330,4,0,3,10:49 PM,0:51,,,Green REBOUND (Off:0 Def:6),,
+0020900206,331,1,1,3,10:50 PM,0:36,,,Durant 22' Jump Shot (26 PTS) (Westbrook 3 AST),84 - 68,-16
+0020900206,332,2,1,3,10:50 PM,0:13,MISS D. Williams 18' Jump Shot,,,,
+0020900206,333,4,0,3,10:50 PM,0:11,,,Harden REBOUND (Off:0 Def:2),,
+0020900206,334,2,1,3,10:51 PM,0:00,,,MISS Westbrook 24' 3PT Jump Shot,,
+0020900206,335,4,0,3,10:51 PM,0:00,,,Thunder Rebound,,
+0020900206,337,13,0,3,10:51 PM,0:00,,,,84 - 68,-16
+0020900206,339,12,0,4,10:53 PM,12:00,,,,84 - 68,-16
+0020900206,340,6,2,4,10:54 PM,11:47,Millsap S.FOUL (P3.T1),,,,
+0020900206,341,3,11,4,10:54 PM,11:47,,,MISS Ibaka Free Throw 1 of 2,,
+0020900206,342,4,1,4,10:54 PM,11:47,,,Thunder Rebound,,
+0020900206,343,3,12,4,10:54 PM,11:47,,,Ibaka Free Throw 2 of 2 (5 PTS),85 - 68,-17
+0020900206,345,5,8,4,10:55 PM,11:28,Millsap 3 Second Violation Turnover (P4.T15),,,,
+0020900206,346,5,1,4,10:55 PM,11:16,Kirilenko STEAL (1 STL),,Weaver Bad Pass Turnover (P2.T11),,
+0020900206,347,1,49,4,10:55 PM,11:13,Kirilenko  Driving Dunk (8 PTS),,,85 - 70,-15
+0020900206,348,6,2,4,10:55 PM,11:13,,,Durant S.FOUL (P2.T1),,
+0020900206,349,3,10,4,10:56 PM,11:13,Kirilenko Free Throw 1 of 1 (9 PTS),,,85 - 71,-14
+0020900206,351,1,1,4,10:56 PM,10:49,,,Weaver 25' 3PT Jump Shot (5 PTS) (Harden 1 AST),88 - 71,-17
+0020900206,352,6,2,4,10:57 PM,10:35,,,Harden S.FOUL (P1.T2),,
+0020900206,353,3,11,4,10:57 PM,10:35,Kirilenko Free Throw 1 of 2 (10 PTS),,,88 - 72,-16
+0020900206,355,3,12,4,10:57 PM,10:35,Kirilenko Free Throw 2 of 2 (11 PTS),,,88 - 73,-15
+0020900206,357,6,2,4,10:57 PM,10:27,Maynor S.FOUL (P2.T2),,,,
+0020900206,358,3,11,4,10:57 PM,10:27,,,Weaver Free Throw 1 of 2 (6 PTS),89 - 73,-16
+0020900206,360,3,12,4,10:58 PM,10:27,,,Weaver Free Throw 2 of 2 (7 PTS),90 - 73,-17
+0020900206,362,2,1,4,10:58 PM,10:17,MISS Maynor 4' Jump Shot,,,,
+0020900206,363,4,0,4,10:58 PM,10:15,Kirilenko REBOUND (Off:2 Def:4),,,,
+0020900206,364,5,4,4,10:58 PM,10:15,Kirilenko Traveling Turnover (P2.T16),,,,
+0020900206,365,2,1,4,10:59 PM,9:54,,,MISS Durant 27' 3PT Jump Shot,,
+0020900206,366,4,0,4,10:59 PM,9:53,JAZZ Rebound,,,,
+0020900206,367,2,5,4,10:59 PM,9:40,MISS Kirilenko  Layup,,,,
+0020900206,368,4,0,4,10:59 PM,9:38,Brewer REBOUND (Off:1 Def:2),,,,
+0020900206,369,2,5,4,10:59 PM,9:37,MISS Brewer  Layup,,Ibaka BLOCK (1 BLK),,
+0020900206,370,4,0,4,10:59 PM,9:35,Okur REBOUND (Off:3 Def:2),,,,
+0020900206,371,2,5,4,10:59 PM,9:30,MISS Okur  Layup,,,,
+0020900206,372,4,0,4,10:59 PM,9:28,,,Ibaka REBOUND (Off:0 Def:3),,
+0020900206,373,1,46,4,11:00 PM,9:07,,,Durant 4' Running Jump Shot (28 PTS),92 - 73,-19
+0020900206,374,1,1,4,11:00 PM,8:42,Okur 24' 3PT Jump Shot (13 PTS) (Maynor 2 AST),,,92 - 76,-16
+0020900206,375,9,1,4,11:00 PM,8:39,,,Thunder Timeout: Regular (Reg.4 Short 1),,
+0020900206,376,8,0,4,11:02 PM,8:39,SUB: Matthews FOR Brewer,,,,
+0020900206,377,8,0,4,11:03 PM,8:39,,,SUB: Green FOR Durant,,
+0020900206,378,8,0,4,11:03 PM,8:39,SUB: D. Williams FOR Maynor,,,,
+0020900206,379,2,1,4,11:03 PM,8:26,,,MISS Krstic 19' Jump Shot,,
+0020900206,380,4,0,4,11:03 PM,8:25,Okur REBOUND (Off:3 Def:3),,,,
+0020900206,381,6,2,4,11:03 PM,8:11,,,Ibaka S.FOUL (P3.T3),,
+0020900206,383,8,0,4,11:04 PM,8:11,,,SUB: Sefolosha FOR Harden,,
+0020900206,384,3,11,4,11:04 PM,8:11,MISS Matthews Free Throw 1 of 2,,,,
+0020900206,385,4,1,4,11:04 PM,8:11,JAZZ Rebound,,,,
+0020900206,386,3,12,4,11:04 PM,8:11,Matthews Free Throw 2 of 2 (7 PTS),,,92 - 77,-15
+0020900206,388,1,1,4,11:04 PM,7:56,,,Ibaka 18' Jump Shot (7 PTS) (Krstic 4 AST),94 - 77,-17
+0020900206,389,5,41,4,11:05 PM,7:35,Matthews Poss Lost Ball Turnover (P2.T17),,,,
+0020900206,390,8,0,4,11:05 PM,7:35,SUB: Boozer FOR Okur,,,,
+0020900206,391,6,2,4,11:05 PM,7:24,Matthews S.FOUL (P1.T3),,,,
+0020900206,392,3,11,4,11:05 PM,7:24,,,Sefolosha Free Throw 1 of 2 (3 PTS),95 - 77,-18
+0020900206,394,3,12,4,11:05 PM,7:24,,,Sefolosha Free Throw 2 of 2 (4 PTS),96 - 77,-19
+0020900206,396,1,1,4,11:06 PM,7:10,Kirilenko 25' 3PT Jump Shot (14 PTS) (Boozer 3 AST),,,96 - 80,-16
+0020900206,397,2,1,4,11:06 PM,6:51,,,MISS Krstic 20' Jump Shot,,
+0020900206,398,4,0,4,11:06 PM,6:49,Millsap REBOUND (Off:2 Def:4),,,,
+0020900206,399,5,41,4,11:07 PM,6:36,Boozer Poss Lost Ball Turnover (P4.T18),,,,
+0020900206,400,8,0,4,11:07 PM,6:36,SUB: Maynor FOR Matthews,,,,
+0020900206,401,2,1,4,11:07 PM,6:22,,,MISS Green  3PT Jump Shot,,
+0020900206,402,4,0,4,11:07 PM,6:21,JAZZ Rebound,,,,
+0020900206,403,6,3,4,11:07 PM,6:21,,,Krstic L.B.FOUL (P5.T4),,
+0020900206,404,8,0,4,11:08 PM,6:21,,,SUB: Westbrook FOR Weaver,,
+0020900206,405,8,0,4,11:08 PM,6:21,,,SUB: Durant FOR Krstic,,
+0020900206,406,1,89,4,11:08 PM,6:09,Millsap  Reverse Slam Dunk (15 PTS) (Maynor 3 AST),,,96 - 82,-14
+0020900206,407,2,1,4,11:08 PM,5:42,,,MISS Green 24' 3PT Jump Shot,,
+0020900206,408,4,0,4,11:08 PM,5:40,D. Williams REBOUND (Off:1 Def:5),,,,
+0020900206,409,2,1,4,11:09 PM,5:31,MISS Millsap 6' Jump Shot,,,,
+0020900206,410,4,0,4,11:09 PM,5:29,,,Ibaka REBOUND (Off:0 Def:4),,
+0020900206,411,5,6,4,11:09 PM,5:28,,,Westbrook Double Dribble Turnover (P4.T12),,
+0020900206,412,9,4,4,11:09 PM,5:28,,,,,
+0020900206,414,10,0,4,11:12 PM,5:17,Jump Ball Millsap vs. Ibaka: Tip to Green,,,,
+0020900206,415,5,2,4,11:12 PM,5:17,D. Williams Lost Ball Turnover (P4.T19),,Ibaka STEAL (1 STL),,
+0020900206,416,6,4,4,11:12 PM,5:07,,,Westbrook OFF.Foul (P2),,
+0020900206,417,5,5,4,11:12 PM,5:07,,,Westbrook Foul Turnover (P5.T13),,
+0020900206,418,1,1,4,11:13 PM,4:50,Boozer 17' Jump Shot (20 PTS) (D. Williams 8 AST),,,96 - 84,-12
+0020900206,419,2,5,4,11:13 PM,4:32,,,MISS Westbrook  Layup,,
+0020900206,421,4,0,4,11:13 PM,4:31,,,Ibaka REBOUND (Off:1 Def:4),,
+0020900206,420,2,4,4,11:13 PM,4:31,,,MISS Ibaka  Tip Shot,,
+0020900206,422,4,0,4,11:13 PM,4:30,Boozer REBOUND (Off:2 Def:4),,,,
+0020900206,423,1,63,4,11:13 PM,4:17,Boozer 14' Fadeaway Jumper (22 PTS) (Maynor 4 AST),,,96 - 86,-10
+0020900206,424,9,1,4,11:13 PM,4:17,,,Thunder Timeout: Regular (Reg.5 Short 1),,
+0020900206,426,2,1,4,11:16 PM,4:02,,,MISS Durant 22' Jump Shot,,
+0020900206,427,4,0,4,11:16 PM,4:01,D. Williams REBOUND (Off:1 Def:6),,,,
+0020900206,430,6,4,4,11:16 PM,3:49,Boozer OFF.Foul (P4),,,,
+0020900206,431,5,5,4,11:16 PM,3:49,Boozer Foul Turnover (P5.T20),,,,
+0020900206,432,2,1,4,11:17 PM,3:33,,,MISS Durant 23' Jump Shot,,
+0020900206,433,4,0,4,11:17 PM,3:32,Boozer REBOUND (Off:2 Def:5),,,,
+0020900206,434,5,4,4,11:17 PM,3:24,Millsap Traveling Turnover (P5.T21),,,,
+0020900206,435,8,0,4,11:17 PM,3:24,,,SUB: Krstic FOR Ibaka,,
+0020900206,436,5,4,4,11:17 PM,3:12,,,Green Traveling Turnover (P3.T14),,
+0020900206,437,1,8,4,11:18 PM,2:58,Millsap  Slam Dunk (17 PTS) (Maynor 5 AST),,,96 - 88,-8
+0020900206,438,6,1,4,11:18 PM,2:42,Maynor P.FOUL (P3.T4),,,,
+0020900206,439,5,2,4,11:19 PM,2:30,Boozer STEAL (2 STL),,Durant Lost Ball Turnover (P2.T15),,
+0020900206,440,5,2,4,11:19 PM,2:26,D. Williams Lost Ball Turnover (P5.T22),,Sefolosha STEAL (2 STL),,
+0020900206,441,6,1,4,11:19 PM,2:25,Boozer P.FOUL (P5.PN),,,,
+0020900206,442,3,11,4,11:20 PM,2:25,,,Westbrook Free Throw 1 of 2 (12 PTS),97 - 88,-9
+0020900206,444,3,12,4,11:20 PM,2:25,,,Westbrook Free Throw 2 of 2 (13 PTS),98 - 88,-10
+0020900206,446,2,1,4,11:20 PM,2:11,MISS Maynor 25' 3PT Jump Shot,,,,
+0020900206,447,4,0,4,11:21 PM,2:09,,,Sefolosha REBOUND (Off:0 Def:2),,
+0020900206,448,6,1,4,11:21 PM,1:52,Maynor P.FOUL (P4.PN),,,,
+0020900206,449,3,11,4,11:21 PM,1:52,,,Westbrook Free Throw 1 of 2 (14 PTS),99 - 88,-11
+0020900206,451,3,12,4,11:21 PM,1:52,,,Westbrook Free Throw 2 of 2 (15 PTS),100 - 88,-12
+0020900206,454,5,1,4,11:21 PM,1:43,D. Williams Bad Pass Turnover (P6.T23),,Green STEAL (4 STL),,
+0020900206,455,1,1,4,11:22 PM,1:24,,,Green 6' Jump Shot (19 PTS),102 - 88,-14
+0020900206,456,1,8,4,11:22 PM,1:14,Boozer  Slam Dunk (24 PTS) (Maynor 6 AST),,,102 - 90,-12
+0020900206,457,2,1,4,11:22 PM,0:51,,,MISS Westbrook 11' Jump Shot,,
+0020900206,458,4,0,4,11:22 PM,0:50,Millsap REBOUND (Off:2 Def:5),,,,
+0020900206,459,1,1,4,11:23 PM,0:41,Boozer 15' Jump Shot (26 PTS) (D. Williams 9 AST),,,102 - 92,-10
+0020900206,460,9,2,4,11:23 PM,0:33,,,Thunder Timeout: Short (Reg.5 Short 2),,
+0020900206,461,6,4,4,11:24 PM,0:33,,,Krstic OFF.Foul (P6),,
+0020900206,462,5,5,4,11:24 PM,0:33,,,Krstic Foul Turnover (P3.T16),,
+0020900206,463,8,0,4,11:24 PM,0:33,,,SUB: Ibaka FOR Krstic,,
+0020900206,464,5,41,4,11:25 PM,0:27,D. Williams Poss Lost Ball Turnover (P7.T24),,,,
+0020900206,465,7,5,4,11:25 PM,0:27,D. Williams Violation:Kicked Ball,,,,
+0020900206,466,6,1,4,11:25 PM,0:25,Kirilenko P.FOUL (P2.PN),,,,
+0020900206,467,3,11,4,11:25 PM,0:25,,,Westbrook Free Throw 1 of 2 (16 PTS),103 - 92,-11
+0020900206,469,3,12,4,11:25 PM,0:25,,,Westbrook Free Throw 2 of 2 (17 PTS),104 - 92,-12
+0020900206,471,1,8,4,11:26 PM,0:17,Millsap  Slam Dunk (19 PTS) (Maynor 7 AST),,,104 - 94,-10
+0020900206,473,13,0,4,11:26 PM,0:00,,,,104 - 94,-10

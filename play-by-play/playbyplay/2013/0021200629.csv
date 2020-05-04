@@ -1,0 +1,410 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021200629,0,12,0,1,7:11 PM,12:00,,,,,
+0021200629,1,10,0,1,7:12 PM,12:00,Jump Ball Vucevic vs. Johnson: Tip to Davis,,,,
+0021200629,2,2,5,1,7:12 PM,11:35,,,MISS Davis 2' Layup,,
+0021200629,3,4,0,1,7:12 PM,11:34,Vucevic REBOUND (Off:0 Def:1),,,,
+0021200629,4,2,1,1,7:12 PM,11:20,MISS Afflalo 16' Jump Shot,,DeRozan BLOCK (1 BLK),,
+0021200629,5,4,0,1,7:12 PM,11:18,,,Fields REBOUND (Off:0 Def:1),,
+0021200629,6,1,63,1,7:12 PM,11:12,,,Calderon 14' Fadeaway Jumper (2 PTS) (Fields 1 AST),2 - 0,-2
+0021200629,7,2,73,1,7:13 PM,10:47,MISS Redick 1' Driving Reverse Layup,,,,
+0021200629,8,4,0,1,7:13 PM,10:46,Davis REBOUND (Off:1 Def:0),,,,
+0021200629,9,2,1,1,7:13 PM,10:36,MISS Afflalo 21' Jump Shot,,,,
+0021200629,10,4,0,1,7:13 PM,10:35,,,Davis REBOUND (Off:0 Def:1),,
+0021200629,11,1,1,1,7:13 PM,10:23,,,Johnson 20' Jump Shot (2 PTS) (Calderon 1 AST),4 - 0,-4
+0021200629,12,2,1,1,7:14 PM,9:58,MISS Redick 21' Jump Shot,,,,
+0021200629,13,4,0,1,7:14 PM,9:56,,,Calderon REBOUND (Off:0 Def:1),,
+0021200629,14,1,79,1,7:14 PM,9:43,,,DeRozan 13' Pullup Jump Shot (2 PTS),6 - 0,-6
+0021200629,15,1,1,1,7:14 PM,9:26,Vucevic 17' Jump Shot (2 PTS) (Nelson 1 AST),,,6 - 2,-4
+0021200629,16,6,17,1,7:14 PM,9:13,MAGIC T.Foul (Def. 3 Sec Vucevic ),,,,
+0021200629,17,3,16,1,7:15 PM,9:13,,,Calderon Free Throw Technical (3 PTS),7 - 2,-5
+0021200629,19,2,1,1,7:15 PM,9:02,,,MISS Johnson 19' Jump Shot,,
+0021200629,20,4,0,1,7:15 PM,9:01,Nelson REBOUND (Off:0 Def:1),,,,
+0021200629,21,2,1,1,7:15 PM,8:51,MISS Vucevic 15' Jump Shot,,,,
+0021200629,22,4,0,1,7:15 PM,8:50,,,Johnson REBOUND (Off:0 Def:1),,
+0021200629,23,5,1,1,7:15 PM,8:43,Nelson STEAL (1 STL),,Calderon Bad Pass Turnover (P1.T1),,
+0021200629,24,1,1,1,7:16 PM,8:30,Afflalo 22' Jump Shot (2 PTS) (Nelson 2 AST),,,7 - 4,-3
+0021200629,25,2,5,1,7:16 PM,8:18,Davis BLOCK (1 BLK),,MISS Fields 1' Layup,,
+0021200629,26,4,0,1,7:16 PM,8:17,Vucevic REBOUND (Off:0 Def:2),,,,
+0021200629,27,1,1,1,7:16 PM,8:09,Davis 14' Jump Shot (2 PTS) (Afflalo 1 AST),,,7 - 6,-1
+0021200629,28,2,56,1,7:16 PM,7:51,,,MISS DeRozan 5' Running Hook Shot,,
+0021200629,29,4,0,1,7:16 PM,7:49,Vucevic REBOUND (Off:0 Def:3),,,,
+0021200629,30,6,1,1,7:16 PM,7:42,,,DeRozan P.FOUL (P1.T1),,
+0021200629,31,2,5,1,7:17 PM,7:29,MISS Davis 3' Layup,,,,
+0021200629,32,4,0,1,7:17 PM,7:28,,,Davis REBOUND (Off:0 Def:2),,
+0021200629,33,2,1,1,7:17 PM,7:21,,,MISS Calderon 25' 3PT Jump Shot,,
+0021200629,34,4,0,1,7:17 PM,7:20,Davis REBOUND (Off:1 Def:1),,,,
+0021200629,35,1,1,1,7:17 PM,7:08,Nelson 25' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),,,7 - 9,2
+0021200629,36,2,1,1,7:18 PM,6:42,,,MISS Fields 24' 3PT Jump Shot,,
+0021200629,37,4,0,1,7:18 PM,6:42,Vucevic REBOUND (Off:0 Def:4),,,,
+0021200629,38,6,1,1,7:18 PM,6:38,,,Fields P.FOUL (P1.T2),,
+0021200629,39,5,1,1,7:18 PM,6:31,Redick Bad Pass Turnover (P1.T1),,,,
+0021200629,40,6,2,1,7:19 PM,6:14,Davis S.FOUL (P1.T1),,,,
+0021200629,41,3,11,1,7:19 PM,6:14,,,MISS Davis Free Throw 1 of 2,,
+0021200629,42,4,1,1,7:19 PM,6:14,,,Raptors Rebound,,
+0021200629,43,3,12,1,7:19 PM,6:14,,,Davis Free Throw 2 of 2 (1 PTS),8 - 9,1
+0021200629,45,9,1,1,7:19 PM,6:11,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0021200629,49,6,17,1,7:22 PM,6:04,,,Raptors T.Foul (Def. 3 Sec Johnson ),,
+0021200629,50,3,16,1,7:22 PM,6:04,Redick Free Throw Technical (1 PTS),,,8 - 10,2
+0021200629,52,2,5,1,7:23 PM,5:54,MISS Vucevic 3' Layup,,Davis BLOCK (1 BLK),,
+0021200629,53,4,0,1,7:23 PM,5:54,MAGIC Rebound,,,,
+0021200629,54,1,1,1,7:23 PM,5:49,Vucevic 14' Jump Shot (4 PTS),,,8 - 12,4
+0021200629,55,2,1,1,7:23 PM,5:28,,,MISS DeRozan 19' Jump Shot,,
+0021200629,56,4,0,1,7:23 PM,5:27,,,Davis REBOUND (Off:1 Def:2),,
+0021200629,57,2,5,1,7:23 PM,5:23,Vucevic BLOCK (1 BLK),,MISS Davis 2' Layup,,
+0021200629,58,4,0,1,7:23 PM,5:21,Vucevic REBOUND (Off:0 Def:5),,,,
+0021200629,59,1,58,1,7:24 PM,5:07,Davis 4' Turnaround Hook Shot (4 PTS),,,8 - 14,6
+0021200629,61,2,1,1,7:24 PM,4:40,,,MISS Johnson 12' Jump Shot,,
+0021200629,62,4,0,1,7:24 PM,4:39,Redick REBOUND (Off:0 Def:1),,,,
+0021200629,63,2,78,1,7:25 PM,4:33,MISS Afflalo 6' Floating Jump Shot,,,,
+0021200629,64,4,0,1,7:25 PM,4:32,,,Fields REBOUND (Off:0 Def:2),,
+0021200629,65,1,1,1,7:25 PM,4:18,,,Johnson 20' Jump Shot (4 PTS),10 - 14,4
+0021200629,66,1,63,1,7:25 PM,3:58,Davis 5' Fadeaway Jumper (6 PTS),,,10 - 16,6
+0021200629,67,2,5,1,7:25 PM,3:39,,,MISS Davis 3' Layup,,
+0021200629,68,4,0,1,7:26 PM,3:33,Nelson REBOUND (Off:0 Def:2),,,,
+0021200629,69,2,5,1,7:26 PM,3:30,MISS Nelson 1' Layup,,,,
+0021200629,71,4,0,1,7:26 PM,3:28,Vucevic REBOUND (Off:1 Def:5),,,,
+0021200629,70,1,4,1,7:26 PM,3:27,Vucevic 1' Tip Shot (6 PTS),,,10 - 18,8
+0021200629,72,9,1,1,7:26 PM,3:26,,,Raptors Timeout: Regular (Reg.1 Short 0),,
+0021200629,75,8,0,1,7:28 PM,3:26,,,SUB: Lowry FOR Fields,,
+0021200629,76,8,0,1,7:28 PM,3:26,,,SUB: Anderson FOR Calderon,,
+0021200629,77,8,0,1,7:28 PM,3:26,SUB: Nicholson FOR Davis,,,,
+0021200629,78,1,7,1,7:28 PM,3:05,,,Davis 1' Dunk (3 PTS) (Anderson 1 AST),12 - 18,6
+0021200629,79,5,1,1,7:29 PM,2:43,Nelson Bad Pass Turnover (P1.T2),,,,
+0021200629,80,8,0,1,7:29 PM,2:43,SUB: Moore FOR Nelson,,,,
+0021200629,81,1,7,1,7:29 PM,2:31,,,Johnson  Dunk (6 PTS) (Lowry 1 AST),14 - 18,4
+0021200629,82,2,5,1,7:30 PM,2:16,MISS Nicholson 3' Layup,,Davis BLOCK (2 BLK),,
+0021200629,84,4,0,1,7:30 PM,2:14,,,Lowry REBOUND (Off:0 Def:1),,
+0021200629,83,6,2,1,7:30 PM,2:11,Nicholson S.FOUL (P1.T2),,,,
+0021200629,85,3,11,1,7:30 PM,2:11,,,MISS Johnson Free Throw 1 of 2,,
+0021200629,86,4,1,1,7:30 PM,2:11,,,Raptors Rebound,,
+0021200629,87,8,0,1,7:30 PM,2:11,,,SUB: Gray FOR Davis,,
+0021200629,88,3,12,1,7:30 PM,2:11,,,Johnson Free Throw 2 of 2 (7 PTS),15 - 18,3
+0021200629,90,2,3,1,7:31 PM,1:53,MISS Nicholson 7' Hook Shot,,,,
+0021200629,91,4,0,1,7:31 PM,1:51,,,Lowry REBOUND (Off:0 Def:2),,
+0021200629,92,6,4,1,7:31 PM,1:47,,,Johnson OFF.Foul (P1),,
+0021200629,93,5,5,1,7:31 PM,1:47,,,Johnson Foul Turnover (P1.T2),,
+0021200629,95,8,0,1,7:31 PM,1:47,SUB: Davis FOR Vucevic,,,,
+0021200629,97,2,63,1,7:32 PM,1:31,MISS Davis 13' Fadeaway Jumper,,,,
+0021200629,98,4,0,1,7:32 PM,1:29,,,Anderson REBOUND (Off:0 Def:1),,
+0021200629,99,1,58,1,7:32 PM,1:19,,,Johnson 6' Turnaround Hook Shot (9 PTS),17 - 18,1
+0021200629,100,5,2,1,7:32 PM,0:56,Nicholson Lost Ball Turnover (P1.T3),,Johnson STEAL (1 STL),,
+0021200629,101,1,1,1,7:32 PM,0:42,,,Johnson 16' Jump Shot (11 PTS) (DeRozan 1 AST),19 - 18,-1
+0021200629,102,6,2,1,7:33 PM,0:32,,,Lowry S.FOUL (P1.T3),,
+0021200629,103,3,11,1,7:33 PM,0:32,Moore Free Throw 1 of 2 (1 PTS),,,19 - 19,TIE
+0021200629,105,8,0,1,7:33 PM,0:32,SUB: Harkless FOR Redick,,,,
+0021200629,106,3,12,1,7:33 PM,0:32,Moore Free Throw 2 of 2 (2 PTS),,,19 - 20,1
+0021200629,108,1,1,1,7:34 PM,0:12,,,Anderson 14' Jump Shot (2 PTS),21 - 20,-1
+0021200629,109,5,4,1,7:34 PM,0:01,Davis Traveling Turnover (P1.T4),,,,
+0021200629,110,6,11,1,7:34 PM,0:01,Davis T.FOUL (P1.T2),,,,
+0021200629,111,3,16,1,7:35 PM,0:01,,,Anderson Free Throw Technical (3 PTS),22 - 20,-2
+0021200629,114,13,0,1,7:35 PM,0:00,,,,22 - 20,-2
+0021200629,116,12,0,2,7:38 PM,12:00,,,,22 - 20,-2
+0021200629,118,1,79,2,7:38 PM,11:40,Nelson 25' 3PT Pullup Jump Shot (6 PTS),,,22 - 23,1
+0021200629,119,2,1,2,7:39 PM,11:17,,,MISS Anderson 25' 3PT Jump Shot,,
+0021200629,120,4,0,2,7:39 PM,11:17,Nelson REBOUND (Off:0 Def:3),,,,
+0021200629,121,6,2,2,7:39 PM,11:13,,,Davis S.FOUL (P1.T1),,
+0021200629,122,3,11,2,7:39 PM,11:13,Moore Free Throw 1 of 2 (3 PTS),,,22 - 24,2
+0021200629,124,8,0,2,7:39 PM,11:13,SUB: Ayon FOR Nicholson,,,,
+0021200629,125,3,12,2,7:39 PM,11:13,Moore Free Throw 2 of 2 (4 PTS),,,22 - 25,3
+0021200629,127,1,1,2,7:40 PM,10:57,,,Gray 6' Jump Shot (2 PTS) (Lowry 2 AST),24 - 25,1
+0021200629,128,6,2,2,7:40 PM,10:38,,,Ross S.FOUL (P1.T2),,
+0021200629,129,3,11,2,7:40 PM,10:38,Moore Free Throw 1 of 2 (5 PTS),,,24 - 26,2
+0021200629,131,3,12,2,7:41 PM,10:38,Moore Free Throw 2 of 2 (6 PTS),,,24 - 27,3
+0021200629,133,1,1,2,7:41 PM,10:26,,,Ross 24' 3PT Jump Shot (3 PTS) (Lowry 3 AST),27 - 27,TIE
+0021200629,134,5,4,2,7:41 PM,10:10,Ayon Traveling Turnover (P1.T5),,,,
+0021200629,135,1,1,2,7:42 PM,9:47,,,Davis 13' Jump Shot (5 PTS) (Anderson 2 AST),29 - 27,-2
+0021200629,136,1,1,2,7:42 PM,9:32,Moore 25' 3PT Jump Shot (9 PTS) (Nelson 3 AST),,,29 - 30,1
+0021200629,137,2,1,2,7:42 PM,9:13,,,MISS Lowry 27' 3PT Jump Shot,,
+0021200629,138,4,0,2,7:42 PM,9:11,Davis REBOUND (Off:1 Def:2),,,,
+0021200629,139,5,1,2,7:43 PM,9:01,Nelson Bad Pass Turnover (P2.T6),,Ross STEAL (1 STL),,
+0021200629,140,6,2,2,7:43 PM,8:57,Nelson S.FOUL (P1.T1),,,,
+0021200629,141,9,4,2,7:43 PM,8:57,,,,,
+0021200629,144,8,0,2,7:45 PM,8:57,SUB: Redick FOR Davis,,,,
+0021200629,145,8,0,2,7:45 PM,8:57,SUB: Vucevic FOR Moore,,,,
+0021200629,146,8,0,2,7:45 PM,8:57,SUB: Afflalo FOR Harkless,,,,
+0021200629,147,3,11,2,7:45 PM,8:57,,,Davis Free Throw 1 of 2 (6 PTS),30 - 30,TIE
+0021200629,149,3,12,2,7:46 PM,8:57,,,MISS Davis Free Throw 2 of 2,,
+0021200629,151,4,0,2,7:46 PM,8:56,Vucevic REBOUND (Off:1 Def:6),,,,
+0021200629,152,5,36,2,7:46 PM,8:46,Afflalo Illegal Screen Turnover (P1.T7),,,,
+0021200629,153,5,1,2,7:46 PM,8:36,Nelson STEAL (2 STL),,Lowry Bad Pass Turnover (P1.T3),,
+0021200629,154,2,5,2,7:47 PM,8:21,MISS Ayon 3' Layup,,,,
+0021200629,155,4,0,2,7:47 PM,8:20,Nelson REBOUND (Off:1 Def:3),,,,
+0021200629,156,2,1,2,7:47 PM,8:11,MISS Vucevic 16' Jump Shot,,,,
+0021200629,157,4,0,2,7:47 PM,8:07,,,Lowry REBOUND (Off:0 Def:3),,
+0021200629,158,1,41,2,7:47 PM,8:00,,,Davis 2' Running Layup (8 PTS) (Lowry 4 AST),32 - 30,-2
+0021200629,159,6,1,2,7:47 PM,7:49,,,Ross P.FOUL (P2.T3),,
+0021200629,160,1,7,2,7:48 PM,7:38,Vucevic  Dunk (8 PTS) (Ayon 1 AST),,,32 - 32,TIE
+0021200629,161,6,4,2,7:48 PM,7:27,,,Davis OFF.Foul (P2),,
+0021200629,162,5,5,2,7:48 PM,7:27,,,Davis Foul Turnover (P1.T4),,
+0021200629,163,8,0,2,7:48 PM,7:27,,,SUB: Johnson FOR Gray,,
+0021200629,164,8,0,2,7:48 PM,7:27,,,SUB: DeRozan FOR Ross,,
+0021200629,165,1,44,2,7:49 PM,7:04,Ayon 2' Reverse Layup (2 PTS) (Redick 1 AST),,,32 - 34,2
+0021200629,166,6,2,2,7:49 PM,6:58,Redick S.FOUL (P1.T2),,,,
+0021200629,167,3,11,2,7:49 PM,6:58,,,MISS Johnson Free Throw 1 of 2,,
+0021200629,168,4,1,2,7:49 PM,6:58,,,Raptors Rebound,,
+0021200629,169,8,0,2,7:49 PM,6:58,,,SUB: Fields FOR Davis,,
+0021200629,170,3,12,2,7:50 PM,6:58,,,Johnson Free Throw 2 of 2 (12 PTS),33 - 34,1
+0021200629,172,1,5,2,7:50 PM,6:40,Vucevic 2' Layup (10 PTS) (Nelson 4 AST),,,33 - 36,3
+0021200629,173,5,2,2,7:50 PM,6:29,Nelson STEAL (3 STL),,Fields Lost Ball Turnover (P1.T5),,
+0021200629,174,2,5,2,7:50 PM,6:24,MISS Redick 3' Layup,,,,
+0021200629,175,4,0,2,7:50 PM,6:20,,,DeRozan REBOUND (Off:0 Def:1),,
+0021200629,176,1,1,2,7:50 PM,6:10,,,Lowry 25' 3PT Jump Shot (3 PTS) (DeRozan 2 AST),36 - 36,TIE
+0021200629,178,9,1,2,7:51 PM,6:04,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0021200629,181,8,0,2,7:53 PM,6:04,SUB: Harkless FOR Ayon,,,,
+0021200629,182,1,63,2,7:53 PM,5:53,Afflalo 7' Fadeaway Jumper (4 PTS),,,36 - 38,2
+0021200629,183,1,42,2,7:54 PM,5:28,,,Anderson 3' Driving Layup (5 PTS),38 - 38,TIE
+0021200629,184,2,46,2,7:54 PM,5:12,MISS Redick 7' Running Jump Shot,,,,
+0021200629,185,4,0,2,7:54 PM,5:11,,,Anderson REBOUND (Off:0 Def:2),,
+0021200629,186,2,1,2,7:54 PM,5:03,,,MISS Anderson 24' 3PT Jump Shot,,
+0021200629,187,4,0,2,7:54 PM,5:02,Afflalo REBOUND (Off:0 Def:1),,,,
+0021200629,188,1,83,2,7:54 PM,4:52,Afflalo 4' Fadeaway Bank Shot (6 PTS),,,38 - 40,2
+0021200629,189,2,1,2,7:55 PM,4:33,,,MISS DeRozan 22' Jump Shot,,
+0021200629,190,4,0,2,7:55 PM,4:33,Harkless REBOUND (Off:0 Def:1),,,,
+0021200629,191,1,43,2,7:55 PM,4:22,Vucevic 2' Alley Oop Layup (12 PTS) (Nelson 5 AST),,,38 - 42,4
+0021200629,192,2,44,2,7:55 PM,4:01,,,MISS Fields 2' Reverse Layup,,
+0021200629,193,4,0,2,7:55 PM,3:59,,,Fields REBOUND (Off:1 Def:2),,
+0021200629,194,2,1,2,7:55 PM,3:47,,,MISS Johnson 22' Jump Shot,,
+0021200629,195,4,0,2,7:55 PM,3:46,Afflalo REBOUND (Off:0 Def:2),,,,
+0021200629,196,5,2,2,7:56 PM,3:36,Afflalo Lost Ball Turnover (P2.T8),,Fields STEAL (1 STL),,
+0021200629,197,6,1,2,7:56 PM,3:35,Harkless P.FOUL (P1.T3),,,,
+0021200629,198,8,0,2,7:56 PM,3:35,SUB: Davis FOR Vucevic,,,,
+0021200629,199,6,2,2,7:56 PM,3:21,Harkless S.FOUL (P2.T4),,,,
+0021200629,200,3,11,2,7:56 PM,3:21,,,Anderson Free Throw 1 of 2 (6 PTS),39 - 42,3
+0021200629,202,3,12,2,7:57 PM,3:21,,,Anderson Free Throw 2 of 2 (7 PTS),40 - 42,2
+0021200629,204,2,79,2,7:57 PM,3:09,MISS Nelson 25' 3PT Pullup Jump Shot,,,,
+0021200629,205,4,0,2,7:57 PM,3:07,,,DeRozan REBOUND (Off:0 Def:2),,
+0021200629,206,6,1,2,7:57 PM,2:57,Davis P.FOUL (P2.PN),,,,
+0021200629,207,9,1,2,7:57 PM,2:57,,,Raptors Timeout: Regular (Reg.2 Short 0),,
+0021200629,210,8,0,2,8:00 PM,2:57,,,SUB: Calderon FOR Lowry,,
+0021200629,211,8,0,2,8:00 PM,2:57,SUB: Moore FOR Harkless,,,,
+0021200629,212,3,11,2,8:00 PM,2:57,,,Anderson Free Throw 1 of 2 (8 PTS),41 - 42,1
+0021200629,213,3,12,2,8:00 PM,2:57,,,Anderson Free Throw 2 of 2 (9 PTS),42 - 42,TIE
+0021200629,215,2,5,2,8:00 PM,2:41,MISS Nelson 3' Layup,,Johnson BLOCK (1 BLK),,
+0021200629,216,4,0,2,8:00 PM,2:39,,,Johnson REBOUND (Off:0 Def:2),,
+0021200629,217,2,1,2,8:01 PM,2:31,,,MISS Anderson  3PT Jump Shot,,
+0021200629,218,4,0,2,8:01 PM,2:31,Moore REBOUND (Off:0 Def:1),,,,
+0021200629,219,1,1,2,8:01 PM,2:22,Redick 24' 3PT Jump Shot (4 PTS),,,42 - 45,3
+0021200629,220,6,1,2,8:01 PM,2:03,Davis P.FOUL (P3.PN),,,,
+0021200629,221,3,11,2,8:01 PM,2:03,,,DeRozan Free Throw 1 of 2 (3 PTS),43 - 45,2
+0021200629,223,8,0,2,8:02 PM,2:03,,,SUB: Ross FOR Anderson,,
+0021200629,224,8,0,2,8:02 PM,2:03,SUB: Vucevic FOR Davis,,,,
+0021200629,225,3,12,2,8:02 PM,2:03,,,DeRozan Free Throw 2 of 2 (4 PTS),44 - 45,1
+0021200629,227,2,63,2,8:02 PM,1:46,MISS Afflalo 8' Fadeaway Jumper,,,,
+0021200629,229,4,0,2,8:02 PM,1:44,Vucevic REBOUND (Off:2 Def:6),,,,
+0021200629,228,1,4,2,8:02 PM,1:44,Vucevic 2' Tip Shot (14 PTS),,,44 - 47,3
+0021200629,230,1,5,2,8:03 PM,1:26,,,Johnson 2' Layup (14 PTS) (DeRozan 3 AST),46 - 47,1
+0021200629,231,2,1,2,8:03 PM,1:02,MISS Moore 25' 3PT Jump Shot,,,,
+0021200629,232,4,0,2,8:03 PM,1:01,,,Fields REBOUND (Off:1 Def:3),,
+0021200629,233,1,44,2,8:03 PM,0:50,,,DeRozan 2' Reverse Layup (6 PTS) (Calderon 2 AST),48 - 47,-1
+0021200629,234,9,2,2,8:03 PM,0:46,MAGIC Timeout: Short (Full 2 Short 1),,,,
+0021200629,238,2,73,2,8:05 PM,0:34,MISS Redick 2' Driving Reverse Layup,,,,
+0021200629,239,4,0,2,8:05 PM,0:33,,,Johnson REBOUND (Off:0 Def:3),,
+0021200629,241,9,2,2,8:05 PM,0:22,,,Raptors Timeout: Short (Reg.2 Short 1),,
+0021200629,244,2,3,2,8:06 PM,0:14,,,MISS DeRozan 4' Hook Shot,,
+0021200629,246,4,0,2,8:06 PM,0:12,,,Johnson REBOUND (Off:1 Def:3),,
+0021200629,245,2,5,2,8:06 PM,0:12,,,MISS Johnson  Layup,,
+0021200629,247,4,0,2,8:06 PM,0:10,Vucevic REBOUND (Off:2 Def:7),,,,
+0021200629,248,6,1,2,8:06 PM,0:06,,,Calderon P.FOUL (P1.T4),,
+0021200629,249,2,1,2,8:07 PM,0:02,MISS Moore 6' Jump Shot,,Johnson BLOCK (2 BLK),,
+0021200629,251,4,0,2,8:07 PM,0:02,MAGIC Rebound,,,,
+0021200629,250,10,0,2,8:07 PM,0:02,Jump Ball Moore vs. Johnson: Tip to Moore,,,,
+0021200629,252,2,5,2,8:07 PM,0:00,MISS Moore 1' Layup,,,,
+0021200629,253,4,0,2,8:07 PM,0:00,MAGIC Rebound,,,,
+0021200629,254,13,0,2,8:07 PM,0:00,,,,48 - 47,-1
+0021200629,256,12,0,3,8:24 PM,12:00,,,,48 - 47,-1
+0021200629,257,2,1,3,8:24 PM,11:36,MISS Davis 16' Jump Shot,,,,
+0021200629,258,4,0,3,8:24 PM,11:35,,,Davis REBOUND (Off:1 Def:3),,
+0021200629,259,1,42,3,8:24 PM,11:17,,,Johnson 3' Driving Layup (16 PTS) (Calderon 3 AST),50 - 47,-3
+0021200629,260,6,2,3,8:24 PM,11:17,Davis S.FOUL (P4.T1),,,,
+0021200629,261,3,10,3,8:25 PM,11:17,,,Johnson Free Throw 1 of 1 (17 PTS),51 - 47,-4
+0021200629,263,2,5,3,8:25 PM,11:03,MISS Vucevic 2' Layup,,,,
+0021200629,264,4,0,3,8:25 PM,11:02,,,Johnson REBOUND (Off:1 Def:4),,
+0021200629,265,1,1,3,8:25 PM,10:52,,,Calderon 24' 3PT Jump Shot (6 PTS) (DeRozan 4 AST),54 - 47,-7
+0021200629,266,9,1,3,8:25 PM,10:51,MAGIC Timeout: Regular (Full 3 Short 1),,,,
+0021200629,269,1,1,3,8:28 PM,10:40,Nelson 25' 3PT Jump Shot (9 PTS) (Davis 1 AST),,,54 - 50,-4
+0021200629,270,2,1,3,8:28 PM,10:19,,,MISS Davis 7' Jump Shot,,
+0021200629,271,4,0,3,8:28 PM,10:19,,,Fields REBOUND (Off:2 Def:3),,
+0021200629,272,6,2,3,8:28 PM,10:19,Redick S.FOUL (P2.T2),,,,
+0021200629,273,3,11,3,8:28 PM,10:19,,,Fields Free Throw 1 of 2 (1 PTS),55 - 50,-5
+0021200629,275,3,12,3,8:29 PM,10:19,,,Fields Free Throw 2 of 2 (2 PTS),56 - 50,-6
+0021200629,277,1,86,3,8:29 PM,10:01,Davis 7' Turnaround Fadeaway (8 PTS),,,56 - 52,-4
+0021200629,278,1,1,3,8:29 PM,9:46,,,DeRozan 20' Jump Shot (8 PTS) (Calderon 4 AST),58 - 52,-6
+0021200629,279,5,13,3,8:30 PM,9:31,Nelson Backcourt Turnover (P3.T9),,,,
+0021200629,280,1,7,3,8:30 PM,9:09,,,Johnson  Dunk (19 PTS) (Davis 1 AST),60 - 52,-8
+0021200629,281,1,1,3,8:30 PM,8:53,Afflalo 24' 3PT Jump Shot (9 PTS) (Redick 2 AST),,,60 - 55,-5
+0021200629,283,1,79,3,8:31 PM,8:33,,,Calderon 22' Pullup Jump Shot (8 PTS),62 - 55,-7
+0021200629,284,2,1,3,8:31 PM,8:15,MISS Afflalo 19' Jump Shot,,,,
+0021200629,285,4,0,3,8:31 PM,8:14,Vucevic REBOUND (Off:3 Def:7),,,,
+0021200629,286,6,2,3,8:31 PM,8:13,,,Davis S.FOUL (P3.T1),,
+0021200629,287,3,11,3,8:32 PM,8:13,Vucevic Free Throw 1 of 2 (15 PTS),,,62 - 56,-6
+0021200629,289,3,12,3,8:32 PM,8:13,Vucevic Free Throw 2 of 2 (16 PTS),,,62 - 57,-5
+0021200629,291,2,1,3,8:32 PM,8:02,,,MISS Calderon 25' 3PT Jump Shot,,
+0021200629,292,4,0,3,8:32 PM,8:01,Vucevic REBOUND (Off:3 Def:8),,,,
+0021200629,293,1,3,3,8:32 PM,7:47,Vucevic 7' Hook Shot (18 PTS) (Nelson 6 AST),,,62 - 59,-3
+0021200629,294,2,1,3,8:33 PM,7:24,,,MISS Davis 14' Jump Shot,,
+0021200629,295,4,0,3,8:33 PM,7:24,MAGIC Rebound,,,,
+0021200629,296,6,3,3,8:33 PM,7:24,,,Johnson L.B.FOUL (P2.T2),,
+0021200629,297,1,1,3,8:33 PM,7:12,Afflalo 13' Jump Shot (11 PTS) (Nelson 7 AST),,,62 - 61,-1
+0021200629,298,2,1,3,8:34 PM,6:56,,,MISS DeRozan 17' Jump Shot,,
+0021200629,300,4,0,3,8:34 PM,6:54,,,Johnson REBOUND (Off:2 Def:4),,
+0021200629,299,1,4,3,8:34 PM,6:54,,,Johnson 2' Tip Shot (21 PTS),64 - 61,-3
+0021200629,301,5,36,3,8:34 PM,6:45,Redick Illegal Screen Turnover (P2.T10),,,,
+0021200629,302,2,1,3,8:34 PM,6:27,,,MISS Davis 11' Jump Shot,,
+0021200629,303,4,0,3,8:34 PM,6:26,Redick REBOUND (Off:0 Def:2),,,,
+0021200629,304,2,1,3,8:35 PM,6:19,MISS Redick 25' 3PT Jump Shot,,,,
+0021200629,305,4,0,3,8:35 PM,6:18,,,Davis REBOUND (Off:1 Def:4),,
+0021200629,306,1,1,3,8:35 PM,6:09,,,Fields 19' Jump Shot (4 PTS) (Calderon 5 AST),66 - 61,-5
+0021200629,307,2,5,3,8:35 PM,5:50,MISS Davis 2' Layup,,Davis BLOCK (3 BLK),,
+0021200629,308,4,0,3,8:35 PM,5:48,,,DeRozan REBOUND (Off:0 Def:3),,
+0021200629,309,1,8,3,8:35 PM,5:44,,,Davis  Slam Dunk (10 PTS) (Fields 2 AST),68 - 61,-7
+0021200629,310,6,1,3,8:36 PM,5:26,,,Fields P.FOUL (P2.T3),,
+0021200629,311,8,0,3,8:36 PM,5:26,SUB: Harkless FOR Redick,,,,
+0021200629,312,6,2,3,8:36 PM,5:21,,,Johnson S.FOUL (P3.T4),,
+0021200629,313,3,11,3,8:36 PM,5:21,Afflalo Free Throw 1 of 2 (12 PTS),,,68 - 62,-6
+0021200629,314,3,12,3,8:37 PM,5:21,Afflalo Free Throw 2 of 2 (13 PTS),,,68 - 63,-5
+0021200629,316,2,5,3,8:38 PM,5:02,Vucevic BLOCK (2 BLK),,MISS Johnson 2' Layup,,
+0021200629,332,4,0,3,8:38 PM,5:01,,,Johnson REBOUND (Off:3 Def:4),,
+0021200629,334,2,40,3,8:38 PM,4:59,Vucevic BLOCK (3 BLK),,MISS Johnson 2' Layup,,
+0021200629,317,4,0,3,8:38 PM,4:57,,,Raptors Rebound,,
+0021200629,319,8,0,3,8:38 PM,4:56,,,SUB: Ross FOR Fields,,
+0021200629,320,2,1,3,8:38 PM,4:51,,,MISS Johnson 16' Jump Shot,,
+0021200629,321,4,0,3,8:38 PM,4:50,,,Davis REBOUND (Off:2 Def:4),,
+0021200629,322,2,1,3,8:38 PM,4:39,,,MISS DeRozan 22' Jump Shot,,
+0021200629,323,4,0,3,8:38 PM,4:38,Harkless REBOUND (Off:0 Def:2),,,,
+0021200629,324,2,5,3,8:39 PM,4:27,MISS Nelson 1' Layup,,Johnson BLOCK (3 BLK),,
+0021200629,325,4,0,3,8:39 PM,4:24,Harkless REBOUND (Off:1 Def:2),,,,
+0021200629,326,2,1,3,8:39 PM,4:17,MISS Nelson 24' 3PT Jump Shot,,,,
+0021200629,327,4,0,3,8:39 PM,4:16,,,Ross REBOUND (Off:0 Def:1),,
+0021200629,328,5,4,3,8:39 PM,4:09,,,Johnson Traveling Turnover (P2.T6),,
+0021200629,329,5,1,3,8:39 PM,3:52,Afflalo Bad Pass Turnover (P3.T11),,,,
+0021200629,333,1,1,3,8:40 PM,3:34,,,Davis 10' Jump Shot (12 PTS),70 - 63,-7
+0021200629,335,2,1,3,8:40 PM,3:14,MISS Afflalo 21' Jump Shot,,,,
+0021200629,336,4,0,3,8:40 PM,3:11,,,Davis REBOUND (Off:2 Def:5),,
+0021200629,337,2,1,3,8:40 PM,3:02,,,MISS Ross 24' 3PT Jump Shot,,
+0021200629,338,4,0,3,8:40 PM,3:01,Nelson REBOUND (Off:1 Def:4),,,,
+0021200629,339,1,1,3,8:41 PM,2:52,Davis 17' Jump Shot (10 PTS) (Nelson 8 AST),,,70 - 65,-5
+0021200629,340,9,1,3,8:41 PM,2:46,,,Raptors Timeout: Regular (Reg.3 Short 1),,
+0021200629,342,8,0,3,8:43 PM,2:46,,,SUB: Anderson FOR Davis,,
+0021200629,343,8,0,3,8:43 PM,2:46,SUB: Ayon FOR Davis,,,,
+0021200629,344,1,45,3,8:43 PM,2:36,,,Calderon 22' Jump Shot (10 PTS) (DeRozan 5 AST),72 - 65,-7
+0021200629,345,5,40,3,8:44 PM,2:14,Afflalo Out of Bounds Lost Ball Turnover (P4.T12),,,,
+0021200629,346,8,0,3,8:44 PM,2:14,,,SUB: Lowry FOR Calderon,,
+0021200629,347,8,0,3,8:44 PM,2:14,SUB: Moore FOR Ayon,,,,
+0021200629,348,5,39,3,8:44 PM,1:56,,,DeRozan Step Out of Bounds Turnover (P1.T7),,
+0021200629,349,2,1,3,8:45 PM,1:41,MISS Harkless  3PT Jump Shot,,,,
+0021200629,350,4,0,3,8:45 PM,1:40,,,Johnson REBOUND (Off:3 Def:5),,
+0021200629,351,1,1,3,8:45 PM,1:16,,,Ross 25' 3PT Jump Shot (6 PTS) (DeRozan 6 AST),75 - 65,-10
+0021200629,352,2,1,3,8:46 PM,0:54,MISS Nelson 28' 3PT Jump Shot,,,,
+0021200629,353,4,0,3,8:46 PM,0:54,MAGIC Rebound,,,,
+0021200629,354,6,3,3,8:46 PM,0:54,,,Anderson L.B.FOUL (P1.PN),,
+0021200629,355,3,11,3,8:46 PM,0:54,MISS Vucevic Free Throw 1 of 2,,,,
+0021200629,356,4,1,3,8:46 PM,0:54,MAGIC Rebound,,,,
+0021200629,357,8,0,3,8:46 PM,0:54,SUB: Redick FOR Nelson,,,,
+0021200629,358,3,12,3,8:47 PM,0:54,Vucevic Free Throw 2 of 2 (19 PTS),,,75 - 66,-9
+0021200629,360,2,3,3,8:48 PM,0:39,,,MISS Johnson 3' Hook Shot,,
+0021200629,361,4,0,3,8:48 PM,0:38,Vucevic REBOUND (Off:3 Def:9),,,,
+0021200629,362,2,1,3,8:48 PM,0:30,MISS Vucevic 7' Jump Shot,,,,
+0021200629,364,4,0,3,8:48 PM,0:29,Vucevic REBOUND (Off:4 Def:9),,,,
+0021200629,363,2,4,3,8:48 PM,0:29,MISS Vucevic 1' Tip Shot,,,,
+0021200629,365,4,0,3,8:48 PM,0:27,,,DeRozan REBOUND (Off:0 Def:4),,
+0021200629,366,2,1,3,8:48 PM,0:04,,,MISS Johnson 20' Jump Shot,,
+0021200629,367,4,0,3,8:48 PM,0:03,Vucevic REBOUND (Off:4 Def:10),,,,
+0021200629,368,2,1,3,8:48 PM,0:00,MISS Afflalo 41' 3PT Jump Shot,,,,
+0021200629,369,4,0,3,8:48 PM,0:00,MAGIC Rebound,,,,
+0021200629,373,18,1,3,8:49 PM,0:00,,,,,
+0021200629,374,13,0,3,8:50 PM,0:00,,,,75 - 66,-9
+0021200629,376,12,0,4,8:51 PM,12:00,,,,75 - 66,-9
+0021200629,377,1,84,4,8:51 PM,11:48,,,DeRozan 8' Running Bank Shot (10 PTS) (Lowry 5 AST),77 - 66,-11
+0021200629,378,1,49,4,8:52 PM,11:35,Harkless 1' Driving Dunk (2 PTS) (Smith 1 AST),,,77 - 68,-9
+0021200629,379,2,79,4,8:52 PM,11:23,,,MISS Ross 9' Pullup Jump Shot,,
+0021200629,380,4,0,4,8:52 PM,11:23,Ayon REBOUND (Off:0 Def:1),,,,
+0021200629,381,2,5,4,8:52 PM,11:12,MISS Smith 2' Layup,,,,
+0021200629,382,4,0,4,8:52 PM,11:11,,,Davis REBOUND (Off:2 Def:6),,
+0021200629,383,5,1,4,8:52 PM,10:58,Ayon STEAL (1 STL),,Lowry Bad Pass Turnover (P2.T8),,
+0021200629,384,1,5,4,8:52 PM,10:47,Ayon 2' Layup (4 PTS) (Redick 3 AST),,,77 - 70,-7
+0021200629,385,1,1,4,8:53 PM,10:33,,,DeRozan 17' Jump Shot (12 PTS),79 - 70,-9
+0021200629,386,2,78,4,8:53 PM,10:14,MISS Moore 11' Floating Jump Shot,,,,
+0021200629,387,4,0,4,8:53 PM,10:13,MAGIC Rebound,,,,
+0021200629,388,6,3,4,8:53 PM,10:13,,,Davis L.B.FOUL (P4.T1),,
+0021200629,389,8,0,4,8:53 PM,10:13,SUB: Davis FOR Ayon,,,,
+0021200629,390,8,0,4,8:53 PM,10:13,SUB: Nelson FOR Smith,,,,
+0021200629,391,1,73,4,8:54 PM,10:03,Davis 1' Driving Reverse Layup (12 PTS) (Nelson 9 AST),,,79 - 72,-7
+0021200629,392,6,2,4,8:54 PM,10:03,,,DeRozan S.FOUL (P2.T2),,
+0021200629,393,3,10,4,8:54 PM,10:03,MISS Davis Free Throw 1 of 1,,,,
+0021200629,395,4,0,4,8:54 PM,10:02,,,Ross REBOUND (Off:0 Def:2),,
+0021200629,396,6,1,4,8:54 PM,9:43,Moore P.FOUL (P1.T1),,,,
+0021200629,397,2,1,4,8:55 PM,9:37,,,MISS Ross 20' Jump Shot,,
+0021200629,398,4,0,4,8:55 PM,9:35,Nelson REBOUND (Off:1 Def:5),,,,
+0021200629,399,1,79,4,8:55 PM,9:25,Redick 13' Pullup Jump Shot (6 PTS) (Nelson 10 AST),,,79 - 74,-5
+0021200629,400,1,49,4,8:55 PM,9:07,,,DeRozan  Driving Dunk (14 PTS) (Lowry 6 AST),81 - 74,-7
+0021200629,401,2,1,4,8:56 PM,8:49,MISS Moore  3PT Jump Shot,,,,
+0021200629,402,4,0,4,8:56 PM,8:48,,,Lowry REBOUND (Off:0 Def:4),,
+0021200629,403,5,2,4,8:56 PM,8:38,Harkless STEAL (1 STL),,Lowry Lost Ball Turnover (P3.T9),,
+0021200629,404,5,1,4,8:56 PM,8:35,Moore Bad Pass Turnover (P1.T13),,,,
+0021200629,405,9,4,4,8:56 PM,8:35,,,,,
+0021200629,407,8,0,4,8:58 PM,8:35,SUB: Afflalo FOR Harkless,,,,
+0021200629,409,2,46,4,8:58 PM,8:18,,,MISS DeRozan 6' Running Jump Shot,,
+0021200629,410,4,0,4,8:59 PM,8:16,Davis REBOUND (Off:1 Def:3),,,,
+0021200629,411,2,1,4,8:59 PM,8:02,MISS Redick 18' Jump Shot,,,,
+0021200629,412,4,0,4,8:59 PM,8:01,,,Anderson REBOUND (Off:0 Def:3),,
+0021200629,413,2,1,4,8:59 PM,7:43,,,MISS Lowry 24' 3PT Jump Shot,,
+0021200629,414,4,0,4,8:59 PM,7:41,Afflalo REBOUND (Off:0 Def:3),,,,
+0021200629,415,2,47,4,8:59 PM,7:28,MISS Afflalo 11' Turnaround Jump Shot,,,,
+0021200629,416,4,0,4,8:59 PM,7:26,Moore REBOUND (Off:1 Def:1),,,,
+0021200629,417,1,1,4,8:59 PM,7:21,Afflalo 24' 3PT Jump Shot (16 PTS) (Moore 1 AST),,,81 - 77,-4
+0021200629,418,2,1,4,9:00 PM,6:56,,,MISS Anderson 24' 3PT Jump Shot,,
+0021200629,419,4,0,4,9:00 PM,6:56,Nelson REBOUND (Off:1 Def:6),,,,
+0021200629,420,1,44,4,9:00 PM,6:50,Davis 1' Reverse Layup (14 PTS) (Nelson 11 AST),,,81 - 79,-2
+0021200629,421,6,2,4,9:00 PM,6:50,,,DeRozan S.FOUL (P3.T3),,
+0021200629,422,3,10,4,9:00 PM,6:50,Davis Free Throw 1 of 1 (15 PTS),,,81 - 80,-1
+0021200629,424,1,79,4,9:01 PM,6:25,,,Ross 22' Pullup Jump Shot (8 PTS) (Anderson 3 AST),83 - 80,-3
+0021200629,425,1,86,4,9:01 PM,6:07,Redick 6' Turnaround Fadeaway (8 PTS),,,83 - 82,-1
+0021200629,426,5,2,4,9:02 PM,5:43,Davis STEAL (1 STL),,Lowry Lost Ball Turnover (P4.T10),,
+0021200629,427,2,79,4,9:02 PM,5:31,MISS Nelson 25' 3PT Pullup Jump Shot,,,,
+0021200629,428,4,0,4,9:02 PM,5:30,Davis REBOUND (Off:2 Def:3),,,,
+0021200629,429,1,5,4,9:02 PM,5:25,Nelson 2' Layup (11 PTS) (Davis 2 AST),,,83 - 84,1
+0021200629,430,9,1,4,9:02 PM,5:19,,,Raptors Timeout: Regular (Reg.4 Short 1),,
+0021200629,432,8,0,4,9:04 PM,5:19,,,SUB: Calderon FOR Davis,,
+0021200629,433,8,0,4,9:04 PM,5:19,,,SUB: Johnson FOR Lowry,,
+0021200629,435,1,42,4,9:05 PM,5:05,,,Anderson 2' Driving Layup (11 PTS) (DeRozan 7 AST),85 - 84,-1
+0021200629,436,2,63,4,9:05 PM,4:46,MISS Afflalo 13' Fadeaway Jumper,,,,
+0021200629,437,4,0,4,9:05 PM,4:45,,,Johnson REBOUND (Off:3 Def:6),,
+0021200629,438,1,1,4,9:06 PM,4:21,,,Ross 23' Jump Shot (10 PTS),87 - 84,-3
+0021200629,439,1,86,4,9:06 PM,4:00,Nelson 9' Turnaround Fadeaway (13 PTS),,,87 - 86,-1
+0021200629,440,2,1,4,9:06 PM,3:39,,,MISS Calderon 24' 3PT Jump Shot,,
+0021200629,441,4,0,4,9:06 PM,3:39,Afflalo REBOUND (Off:0 Def:4),,,,
+0021200629,442,2,1,4,9:07 PM,3:25,MISS Nelson 16' Jump Shot,,,,
+0021200629,443,4,0,4,9:07 PM,3:24,,,Johnson REBOUND (Off:3 Def:7),,
+0021200629,444,2,1,4,9:07 PM,3:10,,,MISS Ross 24' 3PT Jump Shot,,
+0021200629,445,4,0,4,9:07 PM,3:09,Davis REBOUND (Off:2 Def:4),,,,
+0021200629,447,9,1,4,9:07 PM,3:05,MAGIC Timeout: Regular (Full 4 Short 1),,,,
+0021200629,451,5,38,4,9:10 PM,3:04,MAGIC Turnover: 5 Second Inbound (T#14),,,,
+0021200629,453,1,63,4,9:10 PM,2:48,,,DeRozan 11' Fadeaway Jumper (16 PTS),89 - 86,-3
+0021200629,454,2,5,4,9:10 PM,2:32,MISS Davis 2' Layup,,,,
+0021200629,455,4,0,4,9:10 PM,2:31,,,Anderson REBOUND (Off:0 Def:4),,
+0021200629,456,1,42,4,9:11 PM,2:09,,,Anderson 2' Driving Layup (13 PTS) (Calderon 6 AST),91 - 86,-5
+0021200629,457,6,2,4,9:11 PM,1:53,,,Calderon S.FOUL (P2.T4),,
+0021200629,458,3,11,4,9:11 PM,1:53,MISS Nelson Free Throw 1 of 2,,,,
+0021200629,459,4,1,4,9:11 PM,1:53,MAGIC Rebound,,,,
+0021200629,460,3,12,4,9:12 PM,1:53,Nelson Free Throw 2 of 2 (14 PTS),,,91 - 87,-4
+0021200629,462,1,1,4,9:12 PM,1:36,,,DeRozan 21' Jump Shot (18 PTS),93 - 87,-6
+0021200629,463,6,1,4,9:12 PM,1:25,,,Ross P.FOUL (P3.PN),,
+0021200629,464,3,11,4,9:12 PM,1:25,Redick Free Throw 1 of 2 (9 PTS),,,93 - 88,-5
+0021200629,466,3,12,4,9:13 PM,1:25,Redick Free Throw 2 of 2 (10 PTS),,,93 - 89,-4
+0021200629,468,2,5,4,9:13 PM,1:08,,,MISS Anderson 2' Layup,,
+0021200629,469,4,0,4,9:13 PM,1:07,Davis REBOUND (Off:2 Def:5),,,,
+0021200629,470,9,1,4,9:14 PM,1:05,MAGIC Timeout: Regular (Full 5 Short 1),,,,
+0021200629,472,9,2,4,9:15 PM,1:05,MAGIC Timeout: Short (Full 5 Short 2),,,,
+0021200629,475,1,1,4,9:16 PM,0:53,Redick 26' 3PT Jump Shot (13 PTS) (Afflalo 2 AST),,,93 - 92,-1
+0021200629,476,6,2,4,9:16 PM,0:53,,,Ross S.FOUL (P4.PN),,
+0021200629,477,3,10,4,9:17 PM,0:53,Redick Free Throw 1 of 1 (14 PTS),,,93 - 93,TIE
+0021200629,479,1,80,4,9:18 PM,0:38,,,DeRozan 12' Step Back Jump Shot (20 PTS),95 - 93,-2
+0021200629,480,2,1,4,9:18 PM,0:22,MISS Afflalo 25' 3PT Jump Shot,,,,
+0021200629,481,4,0,4,9:18 PM,0:21,Moore REBOUND (Off:2 Def:1),,,,
+0021200629,482,1,1,4,9:18 PM,0:20,Moore 7' Jump Shot (11 PTS),,,95 - 95,TIE
+0021200629,483,9,1,4,9:18 PM,0:20,,,Raptors Timeout: Regular (Reg.5 Short 1),,
+0021200629,487,6,1,4,9:21 PM,0:04,Davis P.FOUL (P5.T2),,,,
+0021200629,488,9,2,4,9:21 PM,0:04,,,Raptors Timeout: Short (Reg.5 Short 2),,
+0021200629,492,1,63,4,9:22 PM,0:00,,,DeRozan 22' Fadeaway Jumper (22 PTS),97 - 95,-2
+0021200629,493,18,0,4,9:22 PM,0:00,,,,,
+0021200629,494,13,0,4,9:23 PM,0:00,,,,97 - 95,-2

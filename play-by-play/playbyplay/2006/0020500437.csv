@@ -1,0 +1,435 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020500437,0,12,0,1,7:20 PM,12:00,,,,,
+0020500437,1,10,0,1,7:20 PM,12:00,Jump Ball Harrison vs. Lewis: Tip to Wilkins,,,,
+0020500437,2,2,1,1,7:21 PM,11:43,,,MISS Lewis 5' Jump Shot,,
+0020500437,3,4,0,1,7:21 PM,11:42,,,Lewis REBOUND (Off:1 Def:0),,
+0020500437,4,1,1,1,7:21 PM,11:41,,,Lewis 6' Jump Shot (2 PTS),2 - 0,-2
+0020500437,5,1,42,1,7:21 PM,11:24,Jackson 2' Driving Layup (2 PTS),,,2 - 2,TIE
+0020500437,6,5,1,1,7:21 PM,11:11,,,Allen Bad Pass Turnover (P1.T1),,
+0020500437,7,1,42,1,7:22 PM,10:58,Croshere 2' Driving Layup (2 PTS),,,2 - 4,2
+0020500437,8,2,1,1,7:22 PM,10:35,,,MISS Evans 6' Jump Shot,,
+0020500437,9,4,0,1,7:22 PM,10:34,Jackson REBOUND (Off:0 Def:1),,,,
+0020500437,10,1,1,1,7:22 PM,10:17,Johnson 24' 3PT Jump Shot (3 PTS) (Jackson 1 AST),,,2 - 7,5
+0020500437,11,6,1,1,7:23 PM,10:02,Croshere P.FOUL (P1.T1),,,,
+0020500437,12,6,1,1,7:23 PM,10:00,Granger P.FOUL (P1.T2),,,,
+0020500437,13,2,1,1,7:23 PM,9:49,,,MISS Lewis 13' Jump Shot,,
+0020500437,14,4,0,1,7:23 PM,9:47,Croshere REBOUND (Off:0 Def:1),,,,
+0020500437,15,1,47,1,7:23 PM,9:42,Jackson 4' Turnaround Jump Shot (4 PTS) (Johnson 1 AST),,,2 - 9,7
+0020500437,16,6,2,1,7:23 PM,9:42,,,Allen S.FOUL (P1.T1),,
+0020500437,17,3,10,1,7:24 PM,9:42,MISS Jackson Free Throw 1 of 1,,,,
+0020500437,18,4,0,1,7:24 PM,9:42,,,Evans REBOUND (Off:0 Def:1),,
+0020500437,19,5,1,1,7:24 PM,9:32,,,Wilkins Bad Pass Turnover (P1.T2),,
+0020500437,20,1,5,1,7:24 PM,9:21,Harrison 2' Layup (2 PTS) (Johnson 2 AST),,,2 - 11,9
+0020500437,21,9,1,1,7:24 PM,9:16,,,SuperSonics Timeout: Regular (Reg.1 Short 0),,
+0020500437,23,2,1,1,7:26 PM,9:04,,,MISS Potapenko 4' Jump Shot,,
+0020500437,24,4,0,1,7:26 PM,9:03,,,Evans REBOUND (Off:1 Def:1),,
+0020500437,25,1,1,1,7:27 PM,8:51,,,Lewis 25' 3PT Jump Shot (5 PTS) (Evans 1 AST),5 - 11,6
+0020500437,26,1,5,1,7:27 PM,8:33,Granger 3' Layup (2 PTS) (Johnson 3 AST),,,5 - 13,8
+0020500437,27,1,1,1,7:27 PM,8:25,,,Allen 19' Jump Shot (2 PTS),7 - 13,6
+0020500437,28,1,1,1,7:27 PM,8:09,Jackson  3PT Jump Shot (7 PTS) (Granger 1 AST),,,7 - 16,9
+0020500437,29,6,1,1,7:28 PM,7:59,Harrison P.FOUL (P1.T3),,,,
+0020500437,30,6,2,1,7:28 PM,7:53,Granger S.FOUL (P2.T4),,,,
+0020500437,31,3,11,1,7:28 PM,7:53,,,MISS Evans Free Throw 1 of 2,,
+0020500437,32,4,1,1,7:28 PM,7:53,,,SuperSonics Rebound,,
+0020500437,33,8,0,1,7:28 PM,7:53,SUB: Jones FOR Granger,,,,
+0020500437,34,3,12,1,7:29 PM,7:53,,,Evans Free Throw 2 of 2 (1 PTS),8 - 16,8
+0020500437,35,2,1,1,7:29 PM,7:41,MISS Jackson 25' 3PT Jump Shot,,,,
+0020500437,36,4,0,1,7:29 PM,7:39,,,Potapenko REBOUND (Off:0 Def:1),,
+0020500437,37,2,1,1,7:29 PM,7:23,,,MISS Evans 8' Jump Shot,,
+0020500437,38,4,0,1,7:29 PM,7:22,Croshere REBOUND (Off:0 Def:2),,,,
+0020500437,39,6,1,1,7:29 PM,7:17,,,Potapenko P.FOUL (P1.T2),,
+0020500437,40,2,1,1,7:30 PM,7:08,MISS Harrison 10' Jump Shot,,,,
+0020500437,41,4,0,1,7:30 PM,7:05,,,SuperSonics Rebound,,
+0020500437,42,2,5,1,7:30 PM,6:55,Harrison BLOCK (1 BLK),,MISS Evans 3' Layup,,
+0020500437,43,4,0,1,7:30 PM,6:53,Jackson REBOUND (Off:0 Def:2),,,,
+0020500437,44,1,1,1,7:30 PM,6:45,Johnson 26' 3PT Jump Shot (6 PTS),,,8 - 19,11
+0020500437,45,2,1,1,7:31 PM,6:36,,,MISS Allen 19' Jump Shot,,
+0020500437,46,4,0,1,7:31 PM,6:34,Harrison REBOUND (Off:0 Def:1),,,,
+0020500437,47,2,1,1,7:31 PM,6:19,MISS Johnson 10' Jump Shot,,,,
+0020500437,48,4,0,1,7:31 PM,6:17,Croshere REBOUND (Off:1 Def:2),,,,
+0020500437,49,1,1,1,7:31 PM,6:07,Jones 18' Jump Shot (2 PTS) (Harrison 1 AST),,,8 - 21,13
+0020500437,50,2,1,1,7:31 PM,5:44,,,MISS Lewis 7' Jump Shot,,
+0020500437,51,4,0,1,7:31 PM,5:43,,,Evans REBOUND (Off:2 Def:1),,
+0020500437,52,5,40,1,7:31 PM,5:42,,,Evans Out of Bounds Lost Ball Turnover (P1.T3),,
+0020500437,53,8,0,1,7:32 PM,5:42,,,SUB: Collison FOR Potapenko,,
+0020500437,54,1,42,1,7:32 PM,5:30,Jones 2' Driving Layup (4 PTS),,,8 - 23,15
+0020500437,55,6,2,1,7:32 PM,5:30,,,Evans S.FOUL (P1.T3),,
+0020500437,56,8,0,1,7:32 PM,5:30,SUB: Foster FOR Harrison,,,,
+0020500437,57,8,0,1,7:32 PM,5:30,,,SUB: Ridnour FOR Wilkins,,
+0020500437,58,9,1,1,7:32 PM,5:30,,,SuperSonics Timeout: Regular (Reg.2 Short 0),,
+0020500437,60,3,10,1,7:34 PM,5:30,Jones Free Throw 1 of 1 (5 PTS),,,8 - 24,16
+0020500437,61,2,1,1,7:35 PM,5:20,,,MISS Allen 25' 3PT Jump Shot,,
+0020500437,62,4,0,1,7:35 PM,5:18,,,Collison REBOUND (Off:1 Def:0),,
+0020500437,63,2,1,1,7:35 PM,5:15,,,MISS Lewis 26' 3PT Jump Shot,,
+0020500437,64,4,0,1,7:35 PM,5:14,Johnson REBOUND (Off:0 Def:1),,,,
+0020500437,65,6,3,1,7:35 PM,5:14,,,Collison L.B.FOUL (P1.T4),,
+0020500437,66,1,1,1,7:35 PM,4:56,Jackson 25' 3PT Jump Shot (10 PTS) (Johnson 4 AST),,,8 - 27,19
+0020500437,67,2,1,1,7:35 PM,4:38,,,MISS Allen 13' Jump Shot,,
+0020500437,68,4,0,1,7:35 PM,4:36,,,Evans REBOUND (Off:3 Def:1),,
+0020500437,69,1,5,1,7:35 PM,4:34,,,Evans 2' Layup (3 PTS),10 - 27,17
+0020500437,70,6,2,1,7:35 PM,4:34,Foster S.FOUL (P1.PN),,,,
+0020500437,71,8,0,1,7:36 PM,4:34,SUB: Jasikevicius FOR Johnson,,,,
+0020500437,72,3,10,1,7:36 PM,4:34,,,Evans Free Throw 1 of 1 (4 PTS),11 - 27,16
+0020500437,73,1,1,1,7:36 PM,4:16,Jackson 25' 3PT Jump Shot (13 PTS) (Jones 1 AST),,,11 - 30,19
+0020500437,74,1,42,1,7:37 PM,4:05,,,Allen 3' Driving Layup (4 PTS),13 - 30,17
+0020500437,75,1,1,1,7:37 PM,3:42,Jones 25' 3PT Jump Shot (8 PTS),,,13 - 33,20
+0020500437,76,5,4,1,7:37 PM,3:25,,,Ridnour Traveling Turnover (P1.T4),,
+0020500437,77,2,1,1,7:38 PM,3:10,MISS Jasikevicius 12' Jump Shot,,,,
+0020500437,78,4,0,1,7:38 PM,3:08,Jasikevicius REBOUND (Off:1 Def:0),,,,
+0020500437,79,5,2,1,7:38 PM,3:07,Jasikevicius Lost Ball Turnover (P1.T1),,Lewis STEAL (1 STL),,
+0020500437,80,1,46,1,7:38 PM,2:42,,,Ridnour 9' Running Jump Shot (2 PTS),15 - 33,18
+0020500437,81,2,1,1,7:38 PM,2:21,MISS Jackson 26' 3PT Jump Shot,,,,
+0020500437,82,4,0,1,7:38 PM,2:19,,,Collison REBOUND (Off:1 Def:1),,
+0020500437,83,2,1,1,7:39 PM,2:13,,,MISS Lewis 9' Jump Shot,,
+0020500437,84,4,0,1,7:39 PM,2:11,,,Evans REBOUND (Off:4 Def:1),,
+0020500437,85,1,5,1,7:39 PM,2:10,,,Evans 1' Layup (6 PTS),17 - 33,16
+0020500437,86,9,1,1,7:39 PM,2:03,PACERS Timeout: Regular (Full 1 Short 0),,,,
+0020500437,88,8,0,1,7:41 PM,2:03,SUB: Gill FOR Jackson,,,,
+0020500437,89,8,0,1,7:41 PM,2:03,SUB: Pollard FOR Croshere,,,,
+0020500437,90,5,1,1,7:41 PM,1:50,Pollard Bad Pass Turnover (P1.T2),,Allen STEAL (1 STL),,
+0020500437,91,2,5,1,7:41 PM,1:45,,,MISS Allen 2' Layup,,
+0020500437,92,4,0,1,7:41 PM,1:43,Foster REBOUND (Off:0 Def:1),,,,
+0020500437,93,1,1,1,7:41 PM,1:35,Jasikevicius 25' 3PT Jump Shot (3 PTS) (Jones 2 AST),,,17 - 36,19
+0020500437,94,1,62,1,7:42 PM,1:11,,,Evans 3' Turnaround Finger Roll (8 PTS),19 - 36,17
+0020500437,95,5,1,1,7:42 PM,0:59,Gill Bad Pass Turnover (P1.T3),,Lewis STEAL (2 STL),,
+0020500437,96,1,1,1,7:42 PM,0:56,,,Ridnour 15' Jump Shot (4 PTS),21 - 36,15
+0020500437,97,2,1,1,7:43 PM,0:38,MISS Gill 4' Jump Shot,,,,
+0020500437,98,4,0,1,7:43 PM,0:36,Foster REBOUND (Off:1 Def:1),,,,
+0020500437,99,2,1,1,7:43 PM,0:31,MISS Gill 24' 3PT Jump Shot,,,,
+0020500437,100,4,0,1,7:43 PM,0:30,,,Ridnour REBOUND (Off:0 Def:1),,
+0020500437,101,1,8,1,7:43 PM,0:25,,,Evans 2' Slam Dunk (10 PTS) (Ridnour 1 AST),23 - 36,13
+0020500437,102,6,2,1,7:43 PM,0:05,,,Collison S.FOUL (P2.PN),,
+0020500437,103,3,11,1,7:44 PM,0:05,Jasikevicius Free Throw 1 of 2 (4 PTS),,,23 - 37,14
+0020500437,105,8,0,1,7:44 PM,0:05,SUB: Harrison FOR Foster,,,,
+0020500437,106,3,12,1,7:44 PM,0:05,Jasikevicius Free Throw 2 of 2 (5 PTS),,,23 - 38,15
+0020500437,107,2,1,1,7:44 PM,0:00,,,MISS Lewis 25' 3PT Jump Shot,,
+0020500437,108,4,0,1,7:44 PM,0:00,,,SuperSonics Rebound,,
+0020500437,109,13,0,1,7:44 PM,0:00,,,,23 - 38,15
+0020500437,111,12,0,2,7:47 PM,12:00,,,,23 - 38,15
+0020500437,112,1,58,2,7:47 PM,11:43,Harrison 5' Turnaround Hook Shot (4 PTS),,,23 - 40,17
+0020500437,113,5,1,2,7:48 PM,11:32,Jasikevicius STEAL (1 STL),,Ridnour Bad Pass Turnover (P2.T5),,
+0020500437,114,5,40,2,7:48 PM,11:17,Jackson Out of Bounds Lost Ball Turnover (P1.T4),,,,
+0020500437,115,1,1,2,7:48 PM,10:54,,,Lewis 18' Jump Shot (7 PTS),25 - 40,15
+0020500437,116,6,1,2,7:49 PM,10:43,,,Fortson P.FOUL (P1.T1),,
+0020500437,117,1,46,2,7:49 PM,10:37,Jones 14' Running Jump Shot (10 PTS) (Pollard 1 AST),,,25 - 42,17
+0020500437,118,2,1,2,7:49 PM,10:22,,,MISS Collison 17' Jump Shot,,
+0020500437,119,4,0,2,7:49 PM,10:21,,,SuperSonics Rebound,,
+0020500437,120,6,3,2,7:49 PM,10:21,Pollard L.B.FOUL (P1.T1),,,,
+0020500437,121,2,1,2,7:50 PM,10:12,,,MISS Murray 10' Jump Shot,,
+0020500437,123,4,0,2,7:50 PM,10:09,,,Murray REBOUND (Off:1 Def:0),,
+0020500437,122,2,5,2,7:50 PM,10:09,,,MISS Murray 2' Layup,,
+0020500437,124,4,0,2,7:50 PM,10:08,,,Murray REBOUND (Off:2 Def:0),,
+0020500437,125,1,46,2,7:50 PM,9:52,,,Murray 10' Running Jump Shot (2 PTS),27 - 42,15
+0020500437,126,6,2,2,7:50 PM,9:31,,,Ridnour S.FOUL (P1.T2),,
+0020500437,127,3,11,2,7:50 PM,9:31,Jackson Free Throw 1 of 2 (14 PTS),,,27 - 43,16
+0020500437,128,3,12,2,7:51 PM,9:31,Jackson Free Throw 2 of 2 (15 PTS),,,27 - 44,17
+0020500437,129,1,5,2,7:51 PM,9:21,,,Fortson 2' Layup (2 PTS),29 - 44,15
+0020500437,130,2,1,2,7:51 PM,9:08,MISS Jackson 3' Jump Shot,,,,
+0020500437,131,4,0,2,7:51 PM,9:07,,,Collison REBOUND (Off:1 Def:2),,
+0020500437,132,1,1,2,7:51 PM,8:56,,,Murray 13' Jump Shot (4 PTS),31 - 44,13
+0020500437,133,6,4,2,7:52 PM,8:39,Pollard OFF.Foul (P2),,,,
+0020500437,134,5,5,2,7:52 PM,8:39,Pollard Foul Turnover (P2.T5),,,,
+0020500437,135,9,4,2,7:52 PM,8:39,,,,,
+0020500437,137,8,0,2,7:54 PM,8:39,,,SUB: Radmanovic FOR Collison,,
+0020500437,138,8,0,2,7:54 PM,8:39,SUB: Foster FOR Pollard,,,,
+0020500437,139,8,0,2,7:54 PM,8:39,SUB: Croshere FOR Harrison,,,,
+0020500437,140,2,1,2,7:54 PM,8:22,,,MISS Murray 17' Jump Shot,,
+0020500437,141,4,0,2,7:54 PM,8:21,Jones REBOUND (Off:0 Def:1),,,,
+0020500437,142,1,5,2,7:55 PM,8:07,Foster 2' Layup (2 PTS) (Jones 3 AST),,,31 - 46,15
+0020500437,143,2,1,2,7:55 PM,7:49,,,MISS Radmanovic 18' Jump Shot,,
+0020500437,144,4,0,2,7:55 PM,7:47,Foster REBOUND (Off:1 Def:2),,,,
+0020500437,145,5,7,2,7:55 PM,7:44,Jackson Discontinue Dribble Turnover (P2.T6),,,,
+0020500437,146,8,0,2,7:55 PM,7:44,,,SUB: Wilkins FOR Ridnour,,
+0020500437,147,8,0,2,7:55 PM,7:44,,,SUB: Allen FOR Lewis,,
+0020500437,148,1,1,2,7:56 PM,7:33,,,Murray 19' Jump Shot (6 PTS),33 - 46,13
+0020500437,149,1,42,2,7:56 PM,7:15,Croshere 3' Driving Layup (4 PTS),,,33 - 48,15
+0020500437,150,6,2,2,7:56 PM,7:15,,,Radmanovic S.FOUL (P1.T3),,
+0020500437,151,8,0,2,7:56 PM,7:15,SUB: Johnson FOR Jasikevicius,,,,
+0020500437,152,3,10,2,7:56 PM,7:15,Croshere Free Throw 1 of 1 (5 PTS),,,33 - 49,16
+0020500437,153,1,1,2,7:57 PM,7:01,,,Allen 18' Jump Shot (6 PTS) (Murray 1 AST),35 - 49,14
+0020500437,154,5,4,2,7:57 PM,6:44,Jackson Traveling Turnover (P3.T7),,,,
+0020500437,155,2,1,2,7:57 PM,6:41,,,MISS Allen 26' 3PT Jump Shot,,
+0020500437,156,4,0,2,7:57 PM,6:39,,,Wilkins REBOUND (Off:1 Def:0),,
+0020500437,157,1,1,2,7:57 PM,6:35,,,Murray 25' 3PT Jump Shot (9 PTS) (Wilkins 1 AST),38 - 49,11
+0020500437,158,9,1,2,7:57 PM,6:33,PACERS Timeout: Regular (Full 2 Short 0),,,,
+0020500437,160,1,42,2,8:00 PM,6:24,Jones 2' Driving Layup (12 PTS),,,38 - 51,13
+0020500437,161,2,1,2,8:00 PM,6:06,,,MISS Radmanovic 25' 3PT Jump Shot,,
+0020500437,162,4,0,2,8:00 PM,6:05,PACERS Rebound,,,,
+0020500437,163,2,1,2,8:00 PM,5:52,MISS Jones 3' Jump Shot,,Wilkins BLOCK (1 BLK),,
+0020500437,164,4,0,2,8:00 PM,5:51,,,Murray REBOUND (Off:2 Def:1),,
+0020500437,165,1,5,2,8:00 PM,5:47,,,Radmanovic 2' Layup (2 PTS) (Murray 2 AST),40 - 51,11
+0020500437,166,9,2,2,8:01 PM,5:35,PACERS Timeout: Short (Full 2 Short 1),,,,
+0020500437,168,8,0,2,8:01 PM,5:35,SUB: Jasikevicius FOR Jones,,,,
+0020500437,169,6,1,2,8:02 PM,5:24,,,Wilkins P.FOUL (P1.T4),,
+0020500437,170,6,2,2,8:02 PM,5:15,,,Radmanovic S.FOUL (P2.PN),,
+0020500437,171,3,11,2,8:03 PM,5:15,MISS Johnson Free Throw 1 of 2,,,,
+0020500437,172,4,1,2,8:03 PM,5:15,PACERS Rebound,,,,
+0020500437,173,8,0,2,8:03 PM,5:15,,,SUB: Lewis FOR Radmanovic,,
+0020500437,174,3,12,2,8:03 PM,5:15,Johnson Free Throw 2 of 2 (7 PTS),,,40 - 52,12
+0020500437,175,2,1,2,8:04 PM,4:59,,,MISS Allen 18' Jump Shot,,
+0020500437,176,4,0,2,8:04 PM,4:57,Croshere REBOUND (Off:1 Def:3),,,,
+0020500437,177,1,8,2,8:04 PM,4:50,Foster 2' Slam Dunk (4 PTS) (Johnson 5 AST),,,40 - 54,14
+0020500437,178,1,46,2,8:04 PM,4:37,,,Wilkins 9' Running Jump Shot (2 PTS),42 - 54,12
+0020500437,179,2,1,2,8:04 PM,4:11,MISS Croshere 25' 3PT Jump Shot,,,,
+0020500437,180,4,0,2,8:04 PM,4:09,Jackson REBOUND (Off:1 Def:2),,,,
+0020500437,181,2,1,2,8:05 PM,3:47,MISS Jasikevicius 26' 3PT Jump Shot,,,,
+0020500437,182,4,0,2,8:05 PM,3:46,,,Lewis REBOUND (Off:1 Def:1),,
+0020500437,183,1,42,2,8:05 PM,3:36,,,Allen 1' Driving Layup (8 PTS),44 - 54,10
+0020500437,184,6,2,2,8:05 PM,3:36,Foster S.FOUL (P2.T2),,,,
+0020500437,185,3,10,2,8:05 PM,3:36,,,Allen Free Throw 1 of 1 (9 PTS),45 - 54,9
+0020500437,186,6,2,2,8:06 PM,3:18,,,Fortson S.FOUL (P2.PN),,
+0020500437,187,3,11,2,8:06 PM,3:18,Jackson Free Throw 1 of 2 (16 PTS),,,45 - 55,10
+0020500437,188,8,0,2,8:06 PM,3:18,SUB: Harrison FOR Foster,,,,
+0020500437,189,8,0,2,8:06 PM,3:18,SUB: Granger FOR Croshere,,,,
+0020500437,190,3,12,2,8:06 PM,3:18,Jackson Free Throw 2 of 2 (17 PTS),,,45 - 56,11
+0020500437,191,5,8,2,8:07 PM,3:02,,,Fortson 3 Second Violation Turnover (P1.T6),,
+0020500437,192,5,1,2,8:07 PM,2:50,Johnson Bad Pass Turnover (P1.T8),,Fortson STEAL (1 STL),,
+0020500437,193,5,2,2,8:07 PM,2:46,Jackson STEAL (1 STL),,Murray Lost Ball Turnover (P1.T7),,
+0020500437,194,9,1,2,8:07 PM,2:46,,,SuperSonics Timeout: Regular (Reg.3 Short 0),,
+0020500437,196,1,61,2,8:10 PM,2:33,Harrison 2' Driving Finger Roll (6 PTS) (Jasikevicius 1 AST),,,45 - 58,13
+0020500437,197,2,1,2,8:10 PM,2:12,,,MISS Murray 16' Jump Shot,,
+0020500437,199,4,0,2,8:10 PM,2:10,,,Fortson REBOUND (Off:1 Def:0),,
+0020500437,198,2,5,2,8:10 PM,2:10,,,MISS Fortson 3' Layup,,
+0020500437,200,4,0,2,8:10 PM,2:09,Jackson REBOUND (Off:1 Def:3),,,,
+0020500437,201,5,1,2,8:10 PM,2:04,Johnson Bad Pass Turnover (P2.T9),,Murray STEAL (1 STL),,
+0020500437,202,2,1,2,8:10 PM,2:00,,,MISS Wilkins 3' Jump Shot,,
+0020500437,204,4,0,2,8:10 PM,1:59,,,Lewis REBOUND (Off:2 Def:1),,
+0020500437,203,1,4,2,8:10 PM,1:59,,,Lewis 2' Tip Shot (9 PTS),47 - 58,11
+0020500437,205,6,1,2,8:11 PM,1:42,,,Fortson P.FOUL (P3.PN),,
+0020500437,206,3,11,2,8:11 PM,1:42,Harrison Free Throw 1 of 2 (7 PTS),,,47 - 59,12
+0020500437,207,8,0,2,8:11 PM,1:42,,,SUB: Evans FOR Fortson,,
+0020500437,208,3,12,2,8:11 PM,1:42,MISS Harrison Free Throw 2 of 2,,,,
+0020500437,209,4,0,2,8:12 PM,1:42,,,Evans REBOUND (Off:4 Def:2),,
+0020500437,210,5,11,2,8:12 PM,1:16,,,SuperSonics Turnover: Shot Clock (T#8),,
+0020500437,211,6,1,2,8:12 PM,1:11,,,Wilkins P.FOUL (P2.PN),,
+0020500437,213,3,11,2,8:13 PM,1:11,Jackson Free Throw 1 of 2 (18 PTS),,,47 - 60,13
+0020500437,214,3,12,2,8:13 PM,1:11,MISS Jackson Free Throw 2 of 2,,,,
+0020500437,215,4,0,2,8:13 PM,1:10,Granger REBOUND (Off:1 Def:0),,,,
+0020500437,216,2,1,2,8:13 PM,0:57,MISS Granger 16' Jump Shot,,,,
+0020500437,218,4,0,2,8:13 PM,0:56,Harrison REBOUND (Off:1 Def:1),,,,
+0020500437,217,2,5,2,8:13 PM,0:56,MISS Harrison 2' Layup,,,,
+0020500437,219,4,0,2,8:13 PM,0:55,,,SuperSonics Rebound,,
+0020500437,220,6,1,2,8:13 PM,0:47,Harrison P.FOUL (P2.T3),,,,
+0020500437,221,8,0,2,8:14 PM,0:47,SUB: Foster FOR Harrison,,,,
+0020500437,222,8,0,2,8:14 PM,0:47,SUB: Jones FOR Granger,,,,
+0020500437,223,2,1,2,8:14 PM,0:30,,,MISS Allen  3PT Jump Shot,,
+0020500437,224,4,0,2,8:14 PM,0:28,Jasikevicius REBOUND (Off:1 Def:1),,,,
+0020500437,226,7,2,2,8:15 PM,0:08,,,Lewis Violation:Defensive Goaltending,,
+0020500437,225,1,1,2,8:15 PM,0:08,Jones 5' Jump Shot (14 PTS),,,47 - 62,15
+0020500437,227,6,2,2,8:15 PM,0:08,,,Murray S.FOUL (P1.PN),,
+0020500437,228,3,10,2,8:15 PM,0:08,Jones Free Throw 1 of 1 (15 PTS),,,47 - 63,16
+0020500437,229,8,0,2,8:15 PM,0:08,SUB: Croshere FOR Foster,,,,
+0020500437,230,2,1,2,8:15 PM,0:02,,,MISS Murray 25' 3PT Jump Shot,,
+0020500437,231,4,0,2,8:15 PM,0:00,Johnson REBOUND (Off:0 Def:2),,,,
+0020500437,232,13,0,2,8:16 PM,0:00,,,,47 - 63,16
+0020500437,234,12,0,3,8:32 PM,12:00,,,,47 - 63,16
+0020500437,235,6,2,3,8:33 PM,11:42,,,Petro S.FOUL (P1.T1),,
+0020500437,236,3,11,3,8:33 PM,11:42,Johnson Free Throw 1 of 2 (8 PTS),,,47 - 64,17
+0020500437,237,3,12,3,8:33 PM,11:42,Johnson Free Throw 2 of 2 (9 PTS),,,47 - 65,18
+0020500437,238,2,1,3,8:34 PM,11:19,,,MISS Lewis  3PT Jump Shot,,
+0020500437,239,4,0,3,8:34 PM,11:17,Croshere REBOUND (Off:1 Def:4),,,,
+0020500437,240,1,8,3,8:34 PM,11:01,Harrison 1' Slam Dunk (9 PTS) (Johnson 6 AST),,,47 - 67,20
+0020500437,241,5,1,3,8:34 PM,10:48,Granger STEAL (1 STL),,Evans Bad Pass Turnover (P2.T9),,
+0020500437,242,1,1,3,8:35 PM,10:31,Johnson 24' 3PT Jump Shot (12 PTS) (Jackson 2 AST),,,47 - 70,23
+0020500437,243,9,1,3,8:35 PM,10:28,,,SuperSonics Timeout: Regular (Reg.4 Short 0),,
+0020500437,245,5,2,3,8:37 PM,10:10,Harrison STEAL (1 STL),,Allen Lost Ball Turnover (P2.T10),,
+0020500437,246,2,1,3,8:37 PM,9:50,MISS Johnson 25' 3PT Jump Shot,,,,
+0020500437,247,4,0,3,8:37 PM,9:49,,,Lewis REBOUND (Off:2 Def:2),,
+0020500437,248,1,1,3,8:37 PM,9:40,,,Allen 25' 3PT Jump Shot (12 PTS),50 - 70,20
+0020500437,249,6,1,3,8:38 PM,9:18,,,Petro P.FOUL (P2.T2),,
+0020500437,250,6,2,3,8:38 PM,9:11,,,Lewis S.FOUL (P1.T3),,
+0020500437,251,3,11,3,8:38 PM,9:11,Granger Free Throw 1 of 2 (3 PTS),,,50 - 71,21
+0020500437,252,3,12,3,8:39 PM,9:11,Granger Free Throw 2 of 2 (4 PTS),,,50 - 72,22
+0020500437,253,2,1,3,8:39 PM,9:00,,,MISS Allen 25' 3PT Jump Shot,,
+0020500437,254,4,0,3,8:39 PM,8:58,Harrison REBOUND (Off:1 Def:2),,,,
+0020500437,255,5,1,3,8:39 PM,8:54,Johnson Bad Pass Turnover (P3.T10),,,,
+0020500437,256,2,1,3,8:40 PM,8:41,,,MISS Ridnour 26' 3PT Jump Shot,,
+0020500437,257,4,0,3,8:40 PM,8:39,Croshere REBOUND (Off:1 Def:5),,,,
+0020500437,258,2,1,3,8:40 PM,8:23,MISS Croshere 25' 3PT Jump Shot,,,,
+0020500437,259,4,0,3,8:40 PM,8:21,,,Allen REBOUND (Off:0 Def:1),,
+0020500437,260,6,2,3,8:40 PM,8:15,Jackson S.FOUL (P1.T1),,,,
+0020500437,261,3,11,3,8:40 PM,8:15,,,Allen Free Throw 1 of 2 (13 PTS),51 - 72,21
+0020500437,262,3,12,3,8:40 PM,8:15,,,Allen Free Throw 2 of 2 (14 PTS),52 - 72,20
+0020500437,263,1,1,3,8:41 PM,7:57,Jackson 21' Jump Shot (20 PTS),,,52 - 74,22
+0020500437,264,5,1,3,8:41 PM,7:41,Croshere STEAL (1 STL),,Lewis Bad Pass Turnover (P1.T11),,
+0020500437,265,2,1,3,8:42 PM,7:25,MISS Granger 16' Jump Shot,,,,
+0020500437,266,4,0,3,8:42 PM,7:23,,,Evans REBOUND (Off:4 Def:3),,
+0020500437,267,1,62,3,8:42 PM,7:08,,,Evans 2' Turnaround Finger Roll (12 PTS),54 - 74,20
+0020500437,268,6,1,3,8:42 PM,6:45,,,Petro P.FOUL (P3.T4),,
+0020500437,269,2,5,3,8:43 PM,6:35,MISS Jackson 2' Layup,,,,
+0020500437,270,10,0,3,8:43 PM,6:34,Jump Ball Croshere vs. Evans: Tip to Johnson,,,,
+0020500437,271,4,0,3,8:43 PM,6:34,Croshere REBOUND (Off:2 Def:5),,,,
+0020500437,272,2,1,3,8:43 PM,6:08,MISS Jackson 26' 3PT Jump Shot,,,,
+0020500437,273,4,0,3,8:43 PM,6:05,Granger REBOUND (Off:2 Def:0),,,,
+0020500437,274,1,1,3,8:44 PM,6:03,Johnson 19' Jump Shot (14 PTS) (Granger 2 AST),,,54 - 76,22
+0020500437,275,1,1,3,8:44 PM,5:48,,,Allen 25' 3PT Jump Shot (17 PTS) (Ridnour 2 AST),57 - 76,19
+0020500437,276,6,2,3,8:44 PM,5:24,,,Petro S.FOUL (P4.PN),,
+0020500437,277,3,11,3,8:44 PM,5:24,Jackson Free Throw 1 of 2 (21 PTS),,,57 - 77,20
+0020500437,278,8,0,3,8:45 PM,5:24,,,SUB: Collison FOR Petro,,
+0020500437,279,3,12,3,8:45 PM,5:24,Jackson Free Throw 2 of 2 (22 PTS),,,57 - 78,21
+0020500437,280,2,1,3,8:45 PM,5:00,,,MISS Ridnour 5' Jump Shot,,
+0020500437,281,4,0,3,8:45 PM,4:59,,,SuperSonics Rebound,,
+0020500437,282,5,11,3,8:45 PM,4:59,,,SuperSonics Turnover: Shot Clock (T#12),,
+0020500437,283,8,0,3,8:46 PM,4:59,SUB: Foster FOR Harrison,,,,
+0020500437,284,2,1,3,8:46 PM,4:38,MISS Granger 25' 3PT Jump Shot,,,,
+0020500437,285,4,0,3,8:46 PM,4:36,,,Allen REBOUND (Off:0 Def:2),,
+0020500437,286,1,1,3,8:46 PM,4:30,,,Lewis 24' 3PT Jump Shot (12 PTS) (Allen 1 AST),60 - 78,18
+0020500437,287,9,1,3,8:46 PM,4:21,PACERS Timeout: Regular (Full 3 Short 1),,,,
+0020500437,289,8,0,3,8:48 PM,4:21,,,SUB: Murray FOR Ridnour,,
+0020500437,290,8,0,3,8:48 PM,4:21,SUB: Jasikevicius FOR Johnson,,,,
+0020500437,291,8,0,3,8:48 PM,4:21,SUB: Jones FOR Granger,,,,
+0020500437,292,2,1,3,8:49 PM,4:12,MISS Croshere 25' 3PT Jump Shot,,,,
+0020500437,293,4,0,3,8:49 PM,4:10,,,Collison REBOUND (Off:1 Def:3),,
+0020500437,294,2,5,3,8:49 PM,4:03,,,MISS Collison 3' Layup,,
+0020500437,295,4,0,3,8:49 PM,4:02,,,Evans REBOUND (Off:5 Def:3),,
+0020500437,296,1,5,3,8:49 PM,4:02,,,Evans 2' Layup (14 PTS),62 - 78,16
+0020500437,297,6,2,3,8:49 PM,4:02,Jasikevicius S.FOUL (P1.T2),,,,
+0020500437,298,3,10,3,8:49 PM,4:02,,,MISS Evans Free Throw 1 of 1,,
+0020500437,299,4,0,3,8:49 PM,4:02,Croshere REBOUND (Off:2 Def:6),,,,
+0020500437,300,1,1,3,8:50 PM,3:41,Jones 17' Jump Shot (17 PTS),,,62 - 80,18
+0020500437,301,1,1,3,8:50 PM,3:34,,,Allen 28' 3PT Jump Shot (20 PTS),65 - 80,15
+0020500437,302,6,1,3,8:50 PM,3:14,,,Evans P.FOUL (P2.PN),,
+0020500437,303,3,11,3,8:50 PM,3:14,Jones Free Throw 1 of 2 (18 PTS),,,65 - 81,16
+0020500437,305,8,0,3,8:51 PM,3:14,SUB: Pollard FOR Croshere,,,,
+0020500437,306,3,12,3,8:51 PM,3:14,Jones Free Throw 2 of 2 (19 PTS),,,65 - 82,17
+0020500437,307,1,41,3,8:51 PM,3:05,,,Collison 1' Running Layup (2 PTS) (Allen 2 AST),67 - 82,15
+0020500437,308,2,1,3,8:52 PM,2:43,MISS Jones 18' Jump Shot,,,,
+0020500437,309,4,0,3,8:52 PM,2:40,,,Allen REBOUND (Off:0 Def:3),,
+0020500437,310,2,1,3,8:52 PM,2:29,,,MISS Lewis 24' 3PT Jump Shot,,
+0020500437,311,4,0,3,8:52 PM,2:28,Jackson REBOUND (Off:1 Def:4),,,,
+0020500437,312,2,1,3,8:52 PM,2:08,MISS Jackson 25' 3PT Jump Shot,,,,
+0020500437,313,4,0,3,8:52 PM,2:06,Pollard REBOUND (Off:1 Def:0),,,,
+0020500437,314,2,1,3,8:52 PM,2:02,MISS Jones 25' 3PT Jump Shot,,,,
+0020500437,315,4,0,3,8:52 PM,2:00,,,Evans REBOUND (Off:5 Def:4),,
+0020500437,316,2,1,3,8:52 PM,1:49,,,MISS Lewis  3PT Jump Shot,,
+0020500437,317,4,0,3,8:52 PM,1:48,Foster REBOUND (Off:1 Def:3),,,,
+0020500437,318,6,2,3,8:53 PM,1:28,,,Evans S.FOUL (P3.PN),,
+0020500437,319,8,0,3,8:53 PM,1:28,,,SUB: Wilkins FOR Lewis,,
+0020500437,320,8,0,3,8:53 PM,1:28,SUB: Granger FOR Jackson,,,,
+0020500437,321,3,11,3,8:53 PM,1:28,MISS Pollard Free Throw 1 of 2,,,,
+0020500437,322,4,1,3,8:53 PM,1:28,PACERS Rebound,,,,
+0020500437,323,3,12,3,8:53 PM,1:28,Pollard Free Throw 2 of 2 (1 PTS),,,67 - 83,16
+0020500437,324,2,1,3,8:54 PM,1:05,,,MISS Evans 5' Jump Shot,,
+0020500437,325,4,0,3,8:54 PM,1:04,Foster REBOUND (Off:1 Def:4),,,,
+0020500437,326,5,1,3,8:54 PM,0:52,Jasikevicius Bad Pass Turnover (P2.T11),,,,
+0020500437,327,1,42,3,8:55 PM,0:45,,,Murray 2' Driving Layup (11 PTS),69 - 83,14
+0020500437,328,1,1,3,8:55 PM,0:29,Jasikevicius  3PT Jump Shot (8 PTS) (Jones 4 AST),,,69 - 86,17
+0020500437,329,1,1,3,8:55 PM,0:05,,,Allen 11' Jump Shot (22 PTS),71 - 86,15
+0020500437,330,1,1,3,8:56 PM,0:00,Jones 26' 3PT Jump Shot (22 PTS),,,71 - 89,18
+0020500437,331,13,0,3,8:56 PM,0:00,,,,71 - 89,18
+0020500437,333,12,0,4,8:59 PM,12:00,,,,71 - 89,18
+0020500437,334,6,2,4,9:00 PM,11:45,Pollard S.FOUL (P3.T1),,,,
+0020500437,335,3,11,4,9:00 PM,11:45,,,Wilkins Free Throw 1 of 2 (3 PTS),72 - 89,17
+0020500437,336,3,12,4,9:00 PM,11:45,,,Wilkins Free Throw 2 of 2 (4 PTS),73 - 89,16
+0020500437,337,6,1,4,9:00 PM,11:32,,,Allen P.FOUL (P2.T1),,
+0020500437,338,6,1,4,9:01 PM,11:22,,,Wilkins P.FOUL (P3.T2),,
+0020500437,339,1,61,4,9:01 PM,11:15,Jones 3' Driving Finger Roll (24 PTS),,,73 - 91,18
+0020500437,340,2,1,4,9:01 PM,11:00,,,MISS Allen 25' 3PT Jump Shot,,
+0020500437,341,4,0,4,9:01 PM,10:59,Granger REBOUND (Off:2 Def:1),,,,
+0020500437,342,6,2,4,9:02 PM,10:38,,,Wilkins S.FOUL (P4.T3),,
+0020500437,343,3,13,4,9:02 PM,10:38,Jasikevicius Free Throw 1 of 3 (9 PTS),,,73 - 92,19
+0020500437,344,3,14,4,9:02 PM,10:38,Jasikevicius Free Throw 2 of 3 (10 PTS),,,73 - 93,20
+0020500437,345,3,15,4,9:03 PM,10:38,Jasikevicius Free Throw 3 of 3 (11 PTS),,,73 - 94,21
+0020500437,346,2,1,4,9:03 PM,10:21,Jasikevicius BLOCK (1 BLK),,MISS Wilkins 5' Jump Shot,,
+0020500437,347,4,0,4,9:03 PM,10:18,Pollard REBOUND (Off:1 Def:1),,,,
+0020500437,348,6,1,4,9:03 PM,10:14,,,Allen P.FOUL (P3.T4),,
+0020500437,349,8,0,4,9:04 PM,10:14,,,SUB: Ridnour FOR Allen,,
+0020500437,350,8,0,4,9:04 PM,10:14,,,SUB: Radmanovic FOR Collison,,
+0020500437,351,2,1,4,9:04 PM,10:04,MISS Jones 21' Jump Shot,,,,
+0020500437,353,4,0,4,9:04 PM,10:02,Pollard REBOUND (Off:2 Def:1),,,,
+0020500437,352,2,5,4,9:04 PM,10:02,MISS Pollard 1' Layup,,,,
+0020500437,354,4,0,4,9:04 PM,10:01,,,Wilkins REBOUND (Off:1 Def:1),,
+0020500437,355,6,2,4,9:04 PM,9:56,Granger S.FOUL (P3.T2),,,,
+0020500437,356,3,11,4,9:04 PM,9:56,,,Wilkins Free Throw 1 of 2 (5 PTS),74 - 94,20
+0020500437,357,8,0,4,9:05 PM,9:56,SUB: Jackson FOR Pollard,,,,
+0020500437,358,3,12,4,9:05 PM,9:56,,,Wilkins Free Throw 2 of 2 (6 PTS),75 - 94,19
+0020500437,359,2,1,4,9:05 PM,9:31,MISS Foster 18' Jump Shot,,,,
+0020500437,360,4,0,4,9:05 PM,9:31,PACERS Rebound,,,,
+0020500437,361,5,11,4,9:06 PM,9:31,PACERS Turnover: Shot Clock (T#12),,,,
+0020500437,362,2,5,4,9:06 PM,9:20,,,MISS Lewis 1' Layup,,
+0020500437,363,4,0,4,9:06 PM,9:18,Foster REBOUND (Off:1 Def:5),,,,
+0020500437,364,2,1,4,9:06 PM,9:09,MISS Jasikevicius 26' 3PT Jump Shot,,,,
+0020500437,365,4,0,4,9:06 PM,9:07,,,Radmanovic REBOUND (Off:0 Def:1),,
+0020500437,366,1,5,4,9:06 PM,8:58,,,Wilkins 2' Layup (8 PTS),77 - 94,17
+0020500437,367,9,1,4,9:06 PM,8:55,PACERS Timeout: Regular (Full 4 Short 1),,,,
+0020500437,369,2,1,4,9:09 PM,8:38,MISS Jasikevicius 25' 3PT Jump Shot,,,,
+0020500437,370,4,0,4,9:09 PM,8:37,,,Wilkins REBOUND (Off:1 Def:2),,
+0020500437,371,1,8,4,9:09 PM,8:33,,,Murray 2' Slam Dunk (13 PTS) (Wilkins 2 AST),79 - 94,15
+0020500437,372,1,1,4,9:09 PM,8:10,Jasikevicius 21' Jump Shot (13 PTS),,,79 - 96,17
+0020500437,373,1,66,4,9:09 PM,7:54,,,Murray 13' Jump Bank Shot (15 PTS),81 - 96,15
+0020500437,374,6,1,4,9:10 PM,7:41,,,Radmanovic P.FOUL (P3.PN),,
+0020500437,375,3,11,4,9:10 PM,7:41,Jasikevicius Free Throw 1 of 2 (14 PTS),,,81 - 97,16
+0020500437,376,3,12,4,9:10 PM,7:41,Jasikevicius Free Throw 2 of 2 (15 PTS),,,81 - 98,17
+0020500437,377,2,1,4,9:10 PM,7:31,,,MISS Radmanovic 26' 3PT Jump Shot,,
+0020500437,378,4,0,4,9:10 PM,7:30,Granger REBOUND (Off:2 Def:2),,,,
+0020500437,379,1,1,4,9:10 PM,7:18,Jasikevicius  3PT Jump Shot (18 PTS),,,81 - 101,20
+0020500437,380,1,5,4,9:11 PM,7:10,,,Radmanovic 2' Layup (4 PTS) (Wilkins 3 AST),83 - 101,18
+0020500437,381,1,44,4,9:11 PM,6:49,Foster 1' Reverse Layup (6 PTS) (Jasikevicius 2 AST),,,83 - 103,20
+0020500437,382,1,42,4,9:11 PM,6:42,,,Ridnour 2' Driving Layup (6 PTS),85 - 103,18
+0020500437,383,1,66,4,9:11 PM,6:24,Jasikevicius 11' Jump Bank Shot (20 PTS),,,85 - 105,20
+0020500437,384,5,1,4,9:11 PM,6:17,,,Ridnour Bad Pass Turnover (P3.T13),,
+0020500437,385,8,0,4,9:12 PM,6:17,SUB: Johnson FOR Jasikevicius,,,,
+0020500437,386,8,0,4,9:12 PM,6:17,,,SUB: Allen FOR Ridnour,,
+0020500437,387,6,2,4,9:12 PM,5:57,,,Lewis S.FOUL (P2.PN),,
+0020500437,388,9,4,4,9:12 PM,5:57,,,,,
+0020500437,390,8,0,4,9:14 PM,5:57,,,SUB: Evans FOR Radmanovic,,
+0020500437,391,3,11,4,9:14 PM,5:57,Granger Free Throw 1 of 2 (5 PTS),,,85 - 106,21
+0020500437,392,3,12,4,9:15 PM,5:57,Granger Free Throw 2 of 2 (6 PTS),,,85 - 107,22
+0020500437,393,6,1,4,9:15 PM,5:40,Granger P.FOUL (P4.T3),,,,
+0020500437,394,1,61,4,9:15 PM,5:33,,,Allen 2' Driving Finger Roll (24 PTS),87 - 107,20
+0020500437,395,2,1,4,9:16 PM,5:13,MISS Jones 11' Jump Shot,,,,
+0020500437,396,4,0,4,9:16 PM,5:11,,,Allen REBOUND (Off:0 Def:4),,
+0020500437,397,2,1,4,9:16 PM,5:03,Johnson BLOCK (1 BLK),,MISS Wilkins 12' Jump Shot,,
+0020500437,398,4,0,4,9:16 PM,5:01,Jackson REBOUND (Off:1 Def:5),,,,
+0020500437,399,2,1,4,9:16 PM,4:50,MISS Johnson 12' Jump Shot,,,,
+0020500437,400,4,0,4,9:16 PM,4:48,,,Wilkins REBOUND (Off:1 Def:3),,
+0020500437,401,2,1,4,9:16 PM,4:40,,,MISS Allen 25' 3PT Jump Shot,,
+0020500437,402,4,0,4,9:16 PM,4:38,,,Evans REBOUND (Off:6 Def:4),,
+0020500437,403,2,1,4,9:16 PM,4:30,,,MISS Murray 24' 3PT Jump Shot,,
+0020500437,404,4,0,4,9:16 PM,4:28,Johnson REBOUND (Off:0 Def:3),,,,
+0020500437,405,5,1,4,9:17 PM,4:12,Jones Bad Pass Turnover (P1.T13),,,,
+0020500437,406,1,5,4,9:17 PM,4:07,,,Wilkins 2' Layup (10 PTS) (Murray 3 AST),89 - 107,18
+0020500437,407,9,2,4,9:17 PM,4:05,PACERS Timeout: Short (Full 4 Short 2),,,,
+0020500437,409,8,0,4,9:18 PM,4:05,SUB: Harrison FOR Foster,,,,
+0020500437,410,1,8,4,9:18 PM,3:54,Jones 2' Slam Dunk (26 PTS) (Harrison 2 AST),,,89 - 109,20
+0020500437,411,2,1,4,9:18 PM,3:33,,,MISS Allen 10' Jump Shot,,
+0020500437,413,4,0,4,9:18 PM,3:29,,,Evans REBOUND (Off:7 Def:4),,
+0020500437,412,2,5,4,9:18 PM,3:29,,,MISS Evans 3' Layup,,
+0020500437,415,4,0,4,9:18 PM,3:28,,,Evans REBOUND (Off:8 Def:4),,
+0020500437,414,1,5,4,9:18 PM,3:28,,,Evans 1' Layup (16 PTS),91 - 109,18
+0020500437,416,1,5,4,9:19 PM,3:17,Harrison 3' Layup (11 PTS) (Jones 5 AST),,,91 - 111,20
+0020500437,417,2,1,4,9:19 PM,2:55,,,MISS Allen 10' Jump Shot,,
+0020500437,418,4,0,4,9:19 PM,2:54,,,SuperSonics Rebound,,
+0020500437,419,9,1,4,9:19 PM,2:54,,,SuperSonics Timeout: Regular (Reg.5 Short 0),,
+0020500437,421,8,0,4,9:21 PM,2:54,,,SUB: Moore FOR Evans,,
+0020500437,422,8,0,4,9:21 PM,2:54,,,SUB: Ridnour FOR Allen,,
+0020500437,423,8,0,4,9:21 PM,2:54,,,SUB: Petro FOR Lewis,,
+0020500437,424,5,1,4,9:22 PM,2:47,Harrison STEAL (2 STL),,Murray Bad Pass Turnover (P2.T14),,
+0020500437,425,2,5,4,9:22 PM,2:28,MISS Granger 2' Layup,,,,
+0020500437,426,4,0,4,9:22 PM,2:27,,,Petro REBOUND (Off:0 Def:1),,
+0020500437,427,2,1,4,9:22 PM,2:21,,,MISS Ridnour 19' Jump Shot,,
+0020500437,428,4,0,4,9:22 PM,2:17,Harrison REBOUND (Off:1 Def:3),,,,
+0020500437,429,6,14,4,9:22 PM,2:12,,,Petro FLAGRANT.FOUL.TYPE1 (P5.PN),,
+0020500437,430,3,18,4,9:23 PM,2:12,Granger Free Throw Flagrant 1 of 2 (7 PTS),,,91 - 112,21
+0020500437,431,8,0,4,9:23 PM,2:12,SUB: Jasikevicius FOR Johnson,,,,
+0020500437,432,8,0,4,9:23 PM,2:12,SUB: Gill FOR Jackson,,,,
+0020500437,433,3,19,4,9:23 PM,2:12,Granger Free Throw Flagrant 2 of 2 (8 PTS),,,91 - 113,22
+0020500437,434,5,1,4,9:24 PM,2:04,Harrison Bad Pass Turnover (P1.T14),,Murray STEAL (2 STL),,
+0020500437,435,1,61,4,9:24 PM,2:01,,,Murray 1' Driving Finger Roll (17 PTS),93 - 113,20
+0020500437,436,6,2,4,9:24 PM,2:01,Granger S.FOUL (P5.T4),,,,
+0020500437,437,3,10,4,9:24 PM,2:01,,,Murray Free Throw 1 of 1 (18 PTS),94 - 113,19
+0020500437,438,1,1,4,9:24 PM,1:44,Granger 16' Jump Shot (10 PTS) (Gill 1 AST),,,94 - 115,21
+0020500437,439,2,1,4,9:25 PM,1:26,,,MISS Wilkins 15' Jump Shot,,
+0020500437,440,4,0,4,9:25 PM,1:24,Granger REBOUND (Off:2 Def:3),,,,
+0020500437,441,2,5,4,9:25 PM,1:16,MISS Jones 2' Layup,,,,
+0020500437,442,4,0,4,9:25 PM,1:15,,,Petro REBOUND (Off:0 Def:2),,
+0020500437,443,2,1,4,9:25 PM,1:08,,,MISS Murray 19' Jump Shot,,
+0020500437,444,4,0,4,9:25 PM,1:07,Granger REBOUND (Off:2 Def:4),,,,
+0020500437,445,2,1,4,9:25 PM,0:45,MISS Jasikevicius 26' 3PT Jump Shot,,,,
+0020500437,446,4,0,4,9:25 PM,0:43,,,Petro REBOUND (Off:0 Def:3),,
+0020500437,447,1,1,4,9:26 PM,0:36,,,Moore 22' Jump Shot (2 PTS) (Murray 4 AST),96 - 115,19
+0020500437,448,2,1,4,9:26 PM,0:13,MISS Granger 17' Jump Shot,,,,
+0020500437,449,4,0,4,9:26 PM,0:12,,,Petro REBOUND (Off:0 Def:4),,
+0020500437,450,2,5,4,9:26 PM,0:07,,,MISS Murray 3' Layup,,
+0020500437,451,4,0,4,9:26 PM,0:05,Granger REBOUND (Off:2 Def:5),,,,
+0020500437,452,13,0,4,9:26 PM,0:00,,,,96 - 115,19

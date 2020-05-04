@@ -1,0 +1,398 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021100876,0,12,0,1,7:12 PM,12:00,,,,,
+0021100876,1,10,0,1,7:13 PM,12:00,Jump Ball Davis vs. Smith: Tip to Johnson,,,,
+0021100876,2,1,65,1,7:13 PM,11:44,,,Smith 8' Jump Hook Shot (2 PTS),2 - 0,-2
+0021100876,3,1,1,1,7:13 PM,11:27,Redick 21' Jump Shot (2 PTS),,,2 - 2,TIE
+0021100876,4,1,1,1,7:14 PM,11:08,,,Smith 20' Jump Shot (4 PTS),4 - 2,-2
+0021100876,5,2,1,1,7:14 PM,10:47,MISS Anderson  3PT Jump Shot,,,,
+0021100876,6,4,0,1,7:14 PM,10:45,,,Pachulia REBOUND (Off:0 Def:1),,
+0021100876,7,5,1,1,7:14 PM,10:26,Redick STEAL (1 STL),,Smith Bad Pass Turnover (P1.T1),,
+0021100876,8,1,1,1,7:14 PM,10:14,Richardson 22' Jump Shot (2 PTS),,,4 - 4,TIE
+0021100876,9,1,5,1,7:15 PM,9:54,,,Pachulia 1' Layup (2 PTS) (Smith 1 AST),6 - 4,-2
+0021100876,10,1,42,1,7:15 PM,9:41,Nelson 1' Driving Layup (2 PTS),,,6 - 6,TIE
+0021100876,11,1,1,1,7:15 PM,9:24,,,Johnson 18' Jump Shot (2 PTS) (Pachulia 1 AST),8 - 6,-2
+0021100876,12,2,1,1,7:16 PM,9:06,MISS Richardson 24' 3PT Jump Shot,,,,
+0021100876,13,4,0,1,7:16 PM,9:05,,,Hinrich REBOUND (Off:0 Def:1),,
+0021100876,14,2,1,1,7:16 PM,8:57,,,MISS Teague 25' 3PT Jump Shot,,
+0021100876,15,4,0,1,7:16 PM,8:56,Davis REBOUND (Off:0 Def:1),,,,
+0021100876,16,6,1,1,7:16 PM,8:47,,,Hinrich P.FOUL (P1.T1),,
+0021100876,17,6,2,1,7:16 PM,8:42,,,Teague S.FOUL (P1.T2),,
+0021100876,18,3,11,1,7:16 PM,8:42,Redick Free Throw 1 of 2 (3 PTS),,,8 - 7,-1
+0021100876,20,3,12,1,7:17 PM,8:42,Redick Free Throw 2 of 2 (4 PTS),,,8 - 8,TIE
+0021100876,22,2,1,1,7:17 PM,8:21,,,MISS Hinrich 24' 3PT Jump Shot,,
+0021100876,23,4,0,1,7:17 PM,8:20,Richardson REBOUND (Off:0 Def:1),,,,
+0021100876,25,2,5,1,7:18 PM,8:00,MISS Anderson 2' Layup,,,,
+0021100876,26,4,0,1,7:18 PM,7:59,,,Teague REBOUND (Off:0 Def:1),,
+0021100876,27,1,5,1,7:18 PM,7:55,,,Teague 2' Layup (2 PTS),10 - 8,-2
+0021100876,28,6,2,1,7:18 PM,7:55,Redick S.FOUL (P1.T1),,,,
+0021100876,29,3,10,1,7:18 PM,7:55,,,Teague Free Throw 1 of 1 (3 PTS),11 - 8,-3
+0021100876,31,2,46,1,7:19 PM,7:45,MISS Nelson 8' Running Jump Shot,,,,
+0021100876,32,4,0,1,7:19 PM,7:43,,,Smith REBOUND (Off:0 Def:1),,
+0021100876,33,1,1,1,7:19 PM,7:34,,,Hinrich  3PT Jump Shot (3 PTS) (Johnson 1 AST),14 - 8,-6
+0021100876,34,9,1,1,7:19 PM,7:27,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0021100876,36,1,5,1,7:21 PM,7:18,Davis 2' Layup (2 PTS) (Nelson 1 AST),,,14 - 10,-4
+0021100876,37,2,1,1,7:22 PM,6:57,,,MISS Smith 9' Jump Shot,,
+0021100876,38,4,0,1,7:22 PM,6:56,Davis REBOUND (Off:0 Def:2),,,,
+0021100876,39,1,5,1,7:22 PM,6:50,Richardson  Layup (4 PTS) (Nelson 2 AST),,,14 - 12,-2
+0021100876,40,2,1,1,7:22 PM,6:26,,,MISS Teague 25' 3PT Jump Shot,,
+0021100876,41,4,0,1,7:22 PM,6:25,Anderson REBOUND (Off:0 Def:1),,,,
+0021100876,42,2,1,1,7:23 PM,6:06,MISS Redick 28' 3PT Jump Shot,,,,
+0021100876,43,4,0,1,7:23 PM,6:04,,,Smith REBOUND (Off:0 Def:2),,
+0021100876,44,1,1,1,7:23 PM,5:53,,,Johnson 25' 3PT Jump Shot (5 PTS) (Smith 2 AST),17 - 12,-5
+0021100876,45,2,1,1,7:23 PM,5:38,MISS Richardson 22' Jump Shot,,,,
+0021100876,46,4,0,1,7:23 PM,5:37,,,Smith REBOUND (Off:0 Def:3),,
+0021100876,47,6,2,1,7:23 PM,5:33,Redick S.FOUL (P2.T2),,,,
+0021100876,49,6,11,1,7:24 PM,5:33,Redick T.FOUL (P2.T2),,,,
+0021100876,50,3,16,1,7:24 PM,5:33,,,MISS Johnson Free Throw Technical,,
+0021100876,51,4,1,1,7:24 PM,5:33,,,Hawks Rebound,,
+0021100876,53,3,11,1,7:24 PM,5:33,,,Pachulia Free Throw 1 of 2 (3 PTS),18 - 12,-6
+0021100876,55,8,0,1,7:24 PM,5:33,SUB: Wafer FOR Redick,,,,
+0021100876,56,8,0,1,7:24 PM,5:33,,,SUB: Williams FOR Hinrich,,
+0021100876,57,3,12,1,7:24 PM,5:33,,,Pachulia Free Throw 2 of 2 (4 PTS),19 - 12,-7
+0021100876,59,2,46,1,7:25 PM,5:07,MISS Nelson 8' Running Jump Shot,,,,
+0021100876,60,4,0,1,7:25 PM,5:06,,,Pachulia REBOUND (Off:0 Def:2),,
+0021100876,61,1,5,1,7:25 PM,5:03,,,Williams 2' Layup (2 PTS) (Teague 1 AST),21 - 12,-9
+0021100876,62,9,1,1,7:25 PM,4:55,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0021100876,66,2,5,1,7:28 PM,4:45,MISS Davis 2' Layup,,,,
+0021100876,68,4,0,1,7:28 PM,4:44,Davis REBOUND (Off:1 Def:2),,,,
+0021100876,67,1,72,1,7:28 PM,4:44,Davis 1' Putback Layup (4 PTS),,,21 - 14,-7
+0021100876,69,5,2,1,7:28 PM,4:22,Nelson STEAL (1 STL),,Johnson Lost Ball Turnover (P1.T2),,
+0021100876,70,1,5,1,7:28 PM,4:16,Nelson 2' Layup (4 PTS) (Richardson 1 AST),,,21 - 16,-5
+0021100876,71,1,5,1,7:28 PM,4:03,,,Pachulia 1' Layup (6 PTS) (Teague 2 AST),23 - 16,-7
+0021100876,72,1,42,1,7:29 PM,3:43,Wafer 1' Driving Layup (2 PTS),,,23 - 18,-5
+0021100876,73,1,1,1,7:29 PM,3:28,,,Smith 22' Jump Shot (6 PTS) (Teague 3 AST),25 - 18,-7
+0021100876,74,5,1,1,7:29 PM,3:10,Richardson Bad Pass Turnover (P1.T1),,Williams STEAL (1 STL),,
+0021100876,75,2,5,1,7:29 PM,3:05,Richardson BLOCK (1 BLK),,MISS Pachulia 2' Layup,,
+0021100876,76,4,0,1,7:29 PM,3:03,Richardson REBOUND (Off:0 Def:2),,,,
+0021100876,77,1,5,1,7:29 PM,2:57,Davis 2' Layup (6 PTS) (Wafer 1 AST),,,25 - 20,-5
+0021100876,78,1,1,1,7:30 PM,2:34,,,Johnson 6' Jump Shot (7 PTS),27 - 20,-7
+0021100876,79,2,47,1,7:30 PM,2:12,MISS Richardson 19' Turnaround Jump Shot,,Johnson BLOCK (1 BLK),,
+0021100876,80,4,0,1,7:30 PM,2:10,Richardson REBOUND (Off:1 Def:2),,,,
+0021100876,81,1,1,1,7:30 PM,2:07,Richardson 15' Jump Shot (6 PTS),,,27 - 22,-5
+0021100876,82,5,2,1,7:30 PM,1:59,Nelson STEAL (2 STL),,Johnson Lost Ball Turnover (P2.T3),,
+0021100876,83,2,5,1,7:31 PM,1:54,MISS Nelson 1' Layup,,,,
+0021100876,84,4,0,1,7:31 PM,1:52,,,Johnson REBOUND (Off:0 Def:1),,
+0021100876,85,1,52,1,7:31 PM,1:47,,,Smith 2' Alley Oop Dunk (8 PTS) (Williams 1 AST),29 - 22,-7
+0021100876,86,5,2,1,7:31 PM,1:26,Wafer Lost Ball Turnover (P1.T2),,Smith STEAL (1 STL),,
+0021100876,87,6,26,1,7:31 PM,1:20,,,Smith Offensive Charge Foul (P1.T3),,
+0021100876,88,5,5,1,7:31 PM,1:20,,,Smith Foul Turnover (P2.T4),,
+0021100876,89,8,0,1,7:31 PM,1:20,,,SUB: McGrady FOR Johnson,,
+0021100876,90,8,0,1,7:32 PM,1:20,SUB: Richardson FOR Richardson,,,,
+0021100876,91,8,0,1,7:32 PM,1:20,SUB: Clark FOR Anderson,,,,
+0021100876,92,8,0,1,7:32 PM,1:20,,,SUB: Pargo FOR Smith,,
+0021100876,93,6,2,1,7:32 PM,1:09,,,Teague S.FOUL (P2.PN),,
+0021100876,94,3,11,1,7:32 PM,1:09,MISS Wafer Free Throw 1 of 2,,,,
+0021100876,95,4,1,1,7:32 PM,1:09,MAGIC Rebound,,,,
+0021100876,96,8,0,1,7:33 PM,1:09,,,SUB: Hinrich FOR Teague,,
+0021100876,97,3,12,1,7:33 PM,1:09,Wafer Free Throw 2 of 2 (3 PTS),,,29 - 23,-6
+0021100876,99,1,79,1,7:33 PM,0:56,,,Hinrich 21' Pullup Jump Shot (5 PTS),31 - 23,-8
+0021100876,100,6,4,1,7:33 PM,0:47,Davis OFF.Foul (P1),,,,
+0021100876,101,5,5,1,7:33 PM,0:47,Davis Foul Turnover (P1.T3),,,,
+0021100876,102,1,78,1,7:34 PM,0:31,,,Williams 9' Floating Jump Shot (4 PTS),33 - 23,-10
+0021100876,103,2,42,1,7:34 PM,0:12,MISS Nelson 1' Driving Layup,,,,
+0021100876,104,4,0,1,7:34 PM,0:11,,,Williams REBOUND (Off:0 Def:1),,
+0021100876,105,1,1,1,7:34 PM,0:01,,,Hinrich 25' 3PT Jump Shot (8 PTS) (Pachulia 2 AST),36 - 23,-13
+0021100876,106,13,0,1,7:35 PM,0:00,,,,36 - 23,-13
+0021100876,108,12,0,2,7:37 PM,12:00,,,,36 - 23,-13
+0021100876,109,5,1,2,7:38 PM,11:45,Smith Bad Pass Turnover (P1.T4),,Pargo STEAL (1 STL),,
+0021100876,110,2,1,2,7:38 PM,11:38,,,MISS Pargo 17' Jump Shot,,
+0021100876,111,4,0,2,7:38 PM,11:37,Richardson REBOUND (Off:0 Def:1),,,,
+0021100876,112,1,1,2,7:38 PM,11:20,Wafer 25' 3PT Jump Shot (6 PTS) (Smith 1 AST),,,36 - 26,-10
+0021100876,113,2,1,2,7:39 PM,10:56,,,MISS Radmanovic 25' 3PT Jump Shot,,
+0021100876,114,4,0,2,7:39 PM,10:55,Wafer REBOUND (Off:0 Def:1),,,,
+0021100876,115,2,1,2,7:39 PM,10:42,MISS Anderson 25' 3PT Jump Shot,,,,
+0021100876,116,4,0,2,7:39 PM,10:41,,,Hinrich REBOUND (Off:0 Def:2),,
+0021100876,117,2,1,2,7:39 PM,10:32,,,MISS Williams 25' 3PT Jump Shot,,
+0021100876,118,4,0,2,7:39 PM,10:31,Wafer REBOUND (Off:0 Def:2),,,,
+0021100876,119,2,5,2,7:39 PM,10:19,MISS Anderson 2' Layup,,,,
+0021100876,120,4,0,2,7:39 PM,10:18,Anderson REBOUND (Off:1 Def:1),,,,
+0021100876,121,6,2,2,7:39 PM,10:18,,,Radmanovic S.FOUL (P1.T1),,
+0021100876,122,3,11,2,7:40 PM,10:18,Anderson Free Throw 1 of 2 (1 PTS),,,36 - 27,-9
+0021100876,124,3,12,2,7:40 PM,10:18,Anderson Free Throw 2 of 2 (2 PTS),,,36 - 28,-8
+0021100876,126,1,1,2,7:40 PM,10:03,,,Pargo  3PT Jump Shot (3 PTS) (Williams 2 AST),39 - 28,-11
+0021100876,127,1,46,2,7:40 PM,9:49,Smith 5' Running Jump Shot (2 PTS),,,39 - 30,-9
+0021100876,128,2,1,2,7:41 PM,9:35,,,MISS Hinrich 25' 3PT Jump Shot,,
+0021100876,129,4,0,2,7:41 PM,9:34,Clark REBOUND (Off:0 Def:1),,,,
+0021100876,131,1,1,2,7:41 PM,9:21,Smith 15' Jump Shot (4 PTS),,,39 - 32,-7
+0021100876,132,9,1,2,7:41 PM,9:13,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0021100876,137,6,2,2,7:44 PM,8:59,Clark S.FOUL (P1.T1),,,,
+0021100876,138,3,11,2,7:44 PM,8:59,,,Williams Free Throw 1 of 2 (5 PTS),40 - 32,-8
+0021100876,140,3,12,2,7:44 PM,8:59,,,Williams Free Throw 2 of 2 (6 PTS),41 - 32,-9
+0021100876,142,5,2,2,7:45 PM,8:40,Smith Lost Ball Turnover (P2.T5),,Pargo STEAL (2 STL),,
+0021100876,143,5,2,2,7:45 PM,8:36,Smith STEAL (1 STL),,Hinrich Lost Ball Turnover (P1.T5),,
+0021100876,144,2,1,2,7:45 PM,8:29,MISS Anderson 26' 3PT Jump Shot,,,,
+0021100876,145,4,0,2,7:45 PM,8:28,,,McGrady REBOUND (Off:0 Def:1),,
+0021100876,146,2,1,2,7:45 PM,8:14,,,MISS Radmanovic 25' 3PT Jump Shot,,
+0021100876,147,4,0,2,7:45 PM,8:13,Smith REBOUND (Off:0 Def:1),,,,
+0021100876,148,5,2,2,7:45 PM,8:06,Smith Lost Ball Turnover (P3.T6),,McGrady STEAL (1 STL),,
+0021100876,149,2,5,2,7:46 PM,8:00,,,MISS Hinrich 2' Layup,,
+0021100876,150,4,0,2,7:46 PM,7:58,Richardson REBOUND (Off:0 Def:2),,,,
+0021100876,151,1,1,2,7:46 PM,7:47,Richardson 25' 3PT Jump Shot (3 PTS) (Wafer 2 AST),,,41 - 35,-6
+0021100876,152,6,1,2,7:46 PM,7:31,Richardson P.FOUL (P1.T2),,,,
+0021100876,153,8,0,2,7:46 PM,7:31,,,SUB: Smith FOR Radmanovic,,
+0021100876,154,8,0,2,7:46 PM,7:31,,,SUB: Johnson FOR Williams,,
+0021100876,155,1,1,2,7:47 PM,7:17,,,Pargo 25' 3PT Jump Shot (6 PTS) (Hinrich 1 AST),44 - 35,-9
+0021100876,156,1,5,2,7:47 PM,6:51,Clark 2' Layup (2 PTS) (Wafer 3 AST),,,44 - 37,-7
+0021100876,157,1,65,2,7:48 PM,6:29,,,McGrady 6' Jump Hook Shot (2 PTS),46 - 37,-9
+0021100876,159,2,1,2,7:48 PM,6:13,MISS Anderson 25' 3PT Jump Shot,,,,
+0021100876,160,4,0,2,7:48 PM,6:11,,,Johnson REBOUND (Off:0 Def:2),,
+0021100876,161,6,2,2,7:48 PM,6:02,Anderson S.FOUL (P1.T3),,,,
+0021100876,163,3,11,2,7:49 PM,6:02,,,Smith Free Throw 1 of 2 (9 PTS),47 - 37,-10
+0021100876,165,8,0,2,7:49 PM,6:02,SUB: Nelson FOR Smith,,,,
+0021100876,166,8,0,2,7:49 PM,6:02,SUB: Davis FOR Clark,,,,
+0021100876,167,3,12,2,7:49 PM,6:02,,,Smith Free Throw 2 of 2 (10 PTS),48 - 37,-11
+0021100876,170,2,1,2,7:50 PM,5:41,MISS Richardson 25' 3PT Jump Shot,,,,
+0021100876,171,4,0,2,7:50 PM,5:40,,,Hinrich REBOUND (Off:0 Def:3),,
+0021100876,172,2,1,2,7:50 PM,5:31,,,MISS Hinrich 25' 3PT Jump Shot,,
+0021100876,173,4,0,2,7:50 PM,5:29,Richardson REBOUND (Off:0 Def:3),,,,
+0021100876,174,5,2,2,7:50 PM,5:18,Davis Lost Ball Turnover (P2.T7),,Johnson STEAL (1 STL),,
+0021100876,175,5,1,2,7:50 PM,5:14,Davis STEAL (1 STL),,Pargo Bad Pass Turnover (P1.T6),,
+0021100876,176,5,1,2,7:50 PM,5:07,Nelson Bad Pass Turnover (P1.T8),,,,
+0021100876,177,9,4,2,7:50 PM,5:07,,,,,
+0021100876,179,8,0,2,7:52 PM,5:07,,,SUB: Pachulia FOR Pargo,,
+0021100876,180,8,0,2,7:52 PM,5:07,SUB: Redick FOR Wafer,,,,
+0021100876,181,1,1,2,7:53 PM,4:54,,,McGrady 6' Jump Shot (4 PTS),50 - 37,-13
+0021100876,182,6,3,2,7:53 PM,4:53,,,Pachulia L.B.FOUL (P1.T2),,
+0021100876,183,9,2,2,7:53 PM,4:53,MAGIC Timeout: Short (Full 2 Short 1),,,,
+0021100876,185,8,0,2,7:55 PM,4:53,SUB: Richardson FOR Richardson,,,,
+0021100876,186,1,5,2,7:55 PM,4:38,Davis 2' Layup (8 PTS) (Nelson 3 AST),,,50 - 39,-11
+0021100876,187,6,2,2,7:55 PM,4:38,,,Pachulia S.FOUL (P2.T3),,
+0021100876,188,3,10,2,7:55 PM,4:38,MISS Davis Free Throw 1 of 1,,,,
+0021100876,190,4,0,2,7:56 PM,4:38,,,Pachulia REBOUND (Off:0 Def:3),,
+0021100876,191,2,1,2,7:56 PM,4:23,,,MISS Johnson 25' 3PT Jump Shot,,
+0021100876,192,4,0,2,7:56 PM,4:22,,,Smith REBOUND (Off:1 Def:3),,
+0021100876,193,1,1,2,7:56 PM,4:18,,,McGrady 26' 3PT Jump Shot (7 PTS) (Smith 3 AST),53 - 39,-14
+0021100876,194,2,1,2,7:56 PM,4:02,MISS Nelson  3PT Jump Shot,,,,
+0021100876,195,4,0,2,7:56 PM,4:01,,,Johnson REBOUND (Off:0 Def:3),,
+0021100876,196,1,1,2,7:56 PM,3:51,,,Pachulia 17' Jump Shot (8 PTS) (Johnson 2 AST),55 - 39,-16
+0021100876,197,2,1,2,7:57 PM,3:37,MISS Anderson  3PT Jump Shot,,,,
+0021100876,198,4,0,2,7:57 PM,3:36,,,Hinrich REBOUND (Off:0 Def:4),,
+0021100876,199,2,1,2,7:57 PM,3:26,,,MISS Smith 21' Jump Shot,,
+0021100876,200,4,0,2,7:57 PM,3:25,Redick REBOUND (Off:0 Def:1),,,,
+0021100876,201,2,42,2,7:57 PM,3:16,MISS Redick 2' Driving Layup,,,,
+0021100876,202,4,0,2,7:57 PM,3:15,,,McGrady REBOUND (Off:0 Def:2),,
+0021100876,203,2,1,2,7:57 PM,3:01,,,MISS Hinrich 25' 3PT Jump Shot,,
+0021100876,204,4,0,2,7:57 PM,3:00,Davis REBOUND (Off:1 Def:3),,,,
+0021100876,205,5,1,2,7:57 PM,2:57,Davis Bad Pass Turnover (P3.T9),,Hinrich STEAL (1 STL),,
+0021100876,206,6,2,2,7:57 PM,2:54,Nelson S.FOUL (P1.T4),,,,
+0021100876,207,9,1,2,7:58 PM,2:54,MAGIC Timeout: Regular (Full 3 Short 1),,,,
+0021100876,211,3,11,2,8:00 PM,2:54,,,Johnson Free Throw 1 of 2 (8 PTS),56 - 39,-17
+0021100876,213,3,12,2,8:00 PM,2:54,,,Johnson Free Throw 2 of 2 (9 PTS),57 - 39,-18
+0021100876,215,2,1,2,8:01 PM,2:36,MISS Richardson 26' 3PT Jump Shot,,,,
+0021100876,216,4,0,2,8:01 PM,2:35,Anderson REBOUND (Off:2 Def:1),,,,
+0021100876,217,1,1,2,8:01 PM,2:30,Redick 26' 3PT Jump Shot (7 PTS) (Davis 1 AST),,,57 - 42,-15
+0021100876,218,6,1,2,8:01 PM,2:16,Redick P.FOUL (P3.PN),,,,
+0021100876,219,3,11,2,8:01 PM,2:16,,,Johnson Free Throw 1 of 2 (10 PTS),58 - 42,-16
+0021100876,221,8,0,2,8:02 PM,2:16,SUB: Wafer FOR Redick,,,,
+0021100876,222,8,0,2,8:02 PM,2:16,,,SUB: Williams FOR Smith,,
+0021100876,223,3,12,2,8:02 PM,2:16,,,Johnson Free Throw 2 of 2 (11 PTS),59 - 42,-17
+0021100876,225,2,1,2,8:02 PM,1:59,MISS Nelson 25' 3PT Jump Shot,,,,
+0021100876,226,4,0,2,8:02 PM,1:57,,,McGrady REBOUND (Off:0 Def:3),,
+0021100876,227,1,42,2,8:02 PM,1:48,,,McGrady 2' Driving Layup (9 PTS),61 - 42,-19
+0021100876,228,2,47,2,8:03 PM,1:29,MISS Richardson 14' Turnaround Jump Shot,,Hinrich BLOCK (1 BLK),,
+0021100876,229,4,0,2,8:03 PM,1:28,,,Pachulia REBOUND (Off:0 Def:4),,
+0021100876,230,2,1,2,8:03 PM,1:19,,,MISS Johnson 24' 3PT Jump Shot,,
+0021100876,231,4,0,2,8:03 PM,1:18,Nelson REBOUND (Off:0 Def:1),,,,
+0021100876,232,2,5,2,8:03 PM,1:16,MISS Nelson 2' Layup,,,,
+0021100876,233,4,0,2,8:03 PM,1:16,MAGIC Rebound,,,,
+0021100876,234,8,0,2,8:03 PM,1:16,,,SUB: Collins FOR Pachulia,,
+0021100876,235,2,1,2,8:04 PM,1:08,MISS Davis 20' Jump Shot,,,,
+0021100876,236,4,0,2,8:04 PM,1:07,,,Hinrich REBOUND (Off:0 Def:5),,
+0021100876,237,2,1,2,8:04 PM,0:49,,,MISS McGrady 26' 3PT Jump Shot,,
+0021100876,238,4,0,2,8:04 PM,0:48,Wafer REBOUND (Off:0 Def:3),,,,
+0021100876,239,6,4,2,8:04 PM,0:33,Wafer OFF.Foul (P1),,,,
+0021100876,240,5,5,2,8:04 PM,0:33,Wafer Foul Turnover (P2.T10),,,,
+0021100876,241,6,11,2,8:05 PM,0:31,,,,,
+0021100876,242,3,16,2,8:05 PM,0:31,,,Williams Free Throw Technical (7 PTS),62 - 42,-20
+0021100876,244,5,13,2,8:05 PM,0:12,,,Hinrich Backcourt Turnover (P2.T7),,
+0021100876,246,2,1,2,8:06 PM,0:01,MISS Nelson 29' 3PT Jump Shot,,,,
+0021100876,247,4,0,2,8:06 PM,0:00,Wafer REBOUND (Off:1 Def:3),,,,
+0021100876,248,2,1,2,8:06 PM,0:00,MISS Wafer 25' 3PT Jump Shot,,,,
+0021100876,249,4,0,2,8:06 PM,0:00,MAGIC Rebound,,,,
+0021100876,250,13,0,2,8:06 PM,0:00,,,,62 - 42,-20
+0021100876,252,12,0,3,8:23 PM,12:00,,,,62 - 42,-20
+0021100876,253,1,3,3,8:23 PM,11:36,Davis 8' Hook Shot (10 PTS),,,62 - 44,-18
+0021100876,254,2,1,3,8:23 PM,11:18,,,MISS Smith 17' Jump Shot,,
+0021100876,255,4,0,3,8:23 PM,11:17,Nelson REBOUND (Off:0 Def:2),,,,
+0021100876,256,2,42,3,8:24 PM,11:08,MISS Richardson 2' Driving Layup,,,,
+0021100876,257,4,0,3,8:24 PM,11:07,Davis REBOUND (Off:2 Def:3),,,,
+0021100876,258,2,3,3,8:24 PM,10:59,MISS Davis 5' Hook Shot,,,,
+0021100876,259,4,0,3,8:24 PM,10:57,,,Smith REBOUND (Off:1 Def:4),,
+0021100876,260,2,1,3,8:24 PM,10:50,,,MISS Teague 5' Jump Shot,,
+0021100876,261,4,0,3,8:24 PM,10:48,Redick REBOUND (Off:0 Def:2),,,,
+0021100876,262,2,42,3,8:24 PM,10:41,MISS Redick 2' Driving Layup,,,,
+0021100876,263,4,0,3,8:24 PM,10:40,,,Smith REBOUND (Off:1 Def:5),,
+0021100876,264,1,1,3,8:24 PM,10:21,,,Williams  3PT Jump Shot (10 PTS) (Hinrich 2 AST),65 - 44,-21
+0021100876,265,2,1,3,8:25 PM,10:07,MISS Nelson 25' 3PT Jump Shot,,,,
+0021100876,266,4,0,3,8:25 PM,10:06,,,Williams REBOUND (Off:0 Def:2),,
+0021100876,267,2,1,3,8:25 PM,9:58,,,MISS Johnson 24' 3PT Jump Shot,,
+0021100876,268,4,0,3,8:25 PM,9:57,Anderson REBOUND (Off:2 Def:2),,,,
+0021100876,269,1,7,3,8:25 PM,9:53,Richardson 1' Dunk (8 PTS) (Nelson 4 AST),,,65 - 46,-19
+0021100876,270,6,2,3,8:25 PM,9:53,,,Teague S.FOUL (P3.T1),,
+0021100876,271,3,10,3,8:25 PM,9:53,Richardson Free Throw 1 of 1 (9 PTS),,,65 - 47,-18
+0021100876,273,6,4,3,8:26 PM,9:38,,,Hinrich OFF.Foul (P2),,
+0021100876,274,5,5,3,8:26 PM,9:38,,,Hinrich Foul Turnover (P3.T8),,
+0021100876,275,1,3,3,8:26 PM,9:17,Davis 6' Hook Shot (12 PTS),,,65 - 49,-16
+0021100876,276,1,80,3,8:27 PM,8:52,,,Johnson 15' Step Back Jump Shot (13 PTS),67 - 49,-18
+0021100876,277,6,1,3,8:27 PM,8:40,,,Teague P.FOUL (P4.T2),,
+0021100876,278,8,0,3,8:27 PM,8:40,,,SUB: Pargo FOR Teague,,
+0021100876,279,2,1,3,8:28 PM,8:27,MISS Richardson 26' 3PT Jump Shot,,,,
+0021100876,280,4,0,3,8:28 PM,8:25,Davis REBOUND (Off:3 Def:3),,,,
+0021100876,281,5,2,3,8:28 PM,8:21,Davis Lost Ball Turnover (P4.T11),,Pargo STEAL (3 STL),,
+0021100876,282,2,5,3,8:28 PM,8:16,,,MISS Williams 1' Layup,,
+0021100876,283,4,0,3,8:28 PM,8:13,Redick REBOUND (Off:0 Def:3),,,,
+0021100876,284,2,1,3,8:28 PM,8:08,MISS Redick 25' 3PT Jump Shot,,,,
+0021100876,285,4,0,3,8:28 PM,8:08,,,Hawks Rebound,,
+0021100876,286,2,1,3,8:28 PM,7:50,,,MISS Williams 26' 3PT Jump Shot,,
+0021100876,287,4,0,3,8:28 PM,7:49,Richardson REBOUND (Off:1 Def:3),,,,
+0021100876,288,1,5,3,8:28 PM,7:37,Davis 2' Layup (14 PTS) (Redick 1 AST),,,67 - 51,-16
+0021100876,289,6,2,3,8:29 PM,7:25,Davis S.FOUL (P2.T1),,,,
+0021100876,290,3,11,3,8:29 PM,7:25,,,Smith Free Throw 1 of 2 (11 PTS),68 - 51,-17
+0021100876,292,3,12,3,8:29 PM,7:25,,,Smith Free Throw 2 of 2 (12 PTS),69 - 51,-18
+0021100876,294,2,1,3,8:30 PM,7:10,MISS Anderson 26' 3PT Jump Shot,,,,
+0021100876,295,4,0,3,8:30 PM,7:08,Nelson REBOUND (Off:1 Def:2),,,,
+0021100876,296,1,5,3,8:30 PM,7:02,Nelson 1' Layup (6 PTS),,,69 - 53,-16
+0021100876,297,2,1,3,8:30 PM,6:51,,,MISS Smith 14' Jump Shot,,
+0021100876,298,4,0,3,8:30 PM,6:50,Davis REBOUND (Off:3 Def:4),,,,
+0021100876,299,1,1,3,8:30 PM,6:34,Anderson 16' Jump Shot (4 PTS),,,69 - 55,-14
+0021100876,300,2,1,3,8:31 PM,6:14,,,MISS Williams 16' Jump Shot,,
+0021100876,301,4,0,3,8:31 PM,6:14,,,Hawks Rebound,,
+0021100876,303,1,1,3,8:31 PM,6:04,,,Johnson 25' 3PT Jump Shot (16 PTS) (Hinrich 3 AST),72 - 55,-17
+0021100876,304,5,4,3,8:31 PM,5:49,Nelson Traveling Turnover (P2.T12),,,,
+0021100876,305,9,1,3,8:31 PM,5:49,MAGIC Timeout: Regular (Full 4 Short 1),,,,
+0021100876,306,1,65,3,8:34 PM,5:33,,,Smith 11' Jump Hook Shot (14 PTS),74 - 55,-19
+0021100876,307,2,3,3,8:35 PM,5:09,MISS Davis 4' Hook Shot,,,,
+0021100876,308,4,0,3,8:35 PM,5:08,Davis REBOUND (Off:4 Def:4),,,,
+0021100876,309,1,3,3,8:35 PM,5:04,Davis 6' Hook Shot (16 PTS),,,74 - 57,-17
+0021100876,310,5,1,3,8:35 PM,4:53,,,Smith Bad Pass Turnover (P3.T9),,
+0021100876,311,1,1,3,8:35 PM,4:39,Nelson 26' 3PT Jump Shot (9 PTS),,,74 - 60,-14
+0021100876,312,1,1,3,8:36 PM,4:11,,,Pargo 26' 3PT Jump Shot (9 PTS) (Smith 4 AST),77 - 60,-17
+0021100876,313,2,66,3,8:36 PM,3:56,MISS Nelson 6' Jump Bank Shot,,,,
+0021100876,314,4,0,3,8:36 PM,3:56,,,Hawks Rebound,,
+0021100876,315,8,0,3,8:36 PM,3:56,,,SUB: McGrady FOR Hinrich,,
+0021100876,316,1,1,3,8:36 PM,3:41,,,Smith 20' Jump Shot (16 PTS) (Williams 3 AST),79 - 60,-19
+0021100876,317,9,1,3,8:37 PM,3:37,MAGIC Timeout: Regular (Full 5 Short 1),,,,
+0021100876,322,2,1,3,8:39 PM,3:18,MISS Redick 25' 3PT Jump Shot,,,,
+0021100876,323,4,0,3,8:39 PM,3:17,,,McGrady REBOUND (Off:0 Def:4),,
+0021100876,324,2,1,3,8:40 PM,2:51,,,MISS Williams 25' 3PT Jump Shot,,
+0021100876,325,4,0,3,8:40 PM,2:50,,,Smith REBOUND (Off:2 Def:5),,
+0021100876,326,1,1,3,8:40 PM,2:36,,,Pargo 27' 3PT Jump Shot (12 PTS) (Johnson 3 AST),82 - 60,-22
+0021100876,327,2,1,3,8:40 PM,2:15,MISS Anderson 26' 3PT Jump Shot,,,,
+0021100876,328,4,0,3,8:40 PM,2:14,,,Johnson REBOUND (Off:0 Def:4),,
+0021100876,329,1,5,3,8:41 PM,2:03,,,Williams 2' Layup (12 PTS) (McGrady 1 AST),84 - 60,-24
+0021100876,330,2,1,3,8:41 PM,1:38,MISS Davis 16' Jump Shot,,,,
+0021100876,331,4,0,3,8:41 PM,1:37,Anderson REBOUND (Off:3 Def:2),,,,
+0021100876,332,1,5,3,8:41 PM,1:32,Anderson 2' Layup (6 PTS),,,84 - 62,-22
+0021100876,333,2,1,3,8:41 PM,1:10,,,MISS Johnson 25' 3PT Jump Shot,,
+0021100876,334,4,0,3,8:42 PM,1:08,,,Pargo REBOUND (Off:1 Def:0),,
+0021100876,335,1,8,3,8:42 PM,0:58,,,Williams 1' Slam Dunk (14 PTS) (Pargo 1 AST),86 - 62,-24
+0021100876,336,2,1,3,8:42 PM,0:43,MISS Anderson  3PT Jump Shot,,,,
+0021100876,337,4,0,3,8:42 PM,0:41,,,Pargo REBOUND (Off:1 Def:1),,
+0021100876,338,1,1,3,8:42 PM,0:38,,,Pargo 26' 3PT Jump Shot (15 PTS),89 - 62,-27
+0021100876,339,9,1,3,8:42 PM,0:38,MAGIC Timeout: Regular (Full 6 Short 1),,,,
+0021100876,341,8,0,3,8:44 PM,0:38,,,SUB: Stackhouse FOR Johnson,,
+0021100876,342,8,0,3,8:44 PM,0:38,SUB: Clark FOR Anderson,,,,
+0021100876,343,8,0,3,8:44 PM,0:38,SUB: Wafer FOR Redick,,,,
+0021100876,344,6,2,3,8:45 PM,0:21,,,Smith S.FOUL (P2.T3),,
+0021100876,345,3,11,3,8:45 PM,0:21,Clark Free Throw 1 of 2 (3 PTS),,,89 - 63,-26
+0021100876,347,3,12,3,8:45 PM,0:21,Clark Free Throw 2 of 2 (4 PTS),,,89 - 64,-25
+0021100876,349,2,44,3,8:46 PM,0:03,,,MISS Smith 2' Reverse Layup,,
+0021100876,351,4,0,3,8:46 PM,0:00,,,Smith REBOUND (Off:3 Def:5),,
+0021100876,350,2,4,3,8:46 PM,0:00,,,MISS Smith 2' Tip Shot,,
+0021100876,352,4,0,3,8:46 PM,0:00,Davis REBOUND (Off:4 Def:5),,,,
+0021100876,354,13,0,3,8:46 PM,0:00,,,,89 - 64,-25
+0021100876,357,12,0,4,8:49 PM,12:00,,,,89 - 64,-25
+0021100876,358,1,83,4,8:49 PM,11:44,,,Stackhouse 8' Fadeaway Bank Shot (2 PTS) (Radmanovic 1 AST),91 - 64,-27
+0021100876,360,5,1,4,8:50 PM,11:22,Liggins Bad Pass Turnover (P1.T13),,,,
+0021100876,361,1,1,4,8:50 PM,11:02,,,Radmanovic 24' 3PT Jump Shot (3 PTS) (Stackhouse 1 AST),94 - 64,-30
+0021100876,362,2,51,4,8:51 PM,10:41,MISS Wafer 2' Reverse Dunk,,Radmanovic BLOCK (1 BLK),,
+0021100876,363,4,0,4,8:51 PM,10:39,Wafer REBOUND (Off:2 Def:3),,,,
+0021100876,364,1,78,4,8:51 PM,10:34,Wafer 7' Floating Jump Shot (8 PTS),,,94 - 66,-28
+0021100876,365,6,4,4,8:51 PM,10:23,,,Pargo OFF.Foul (P1),,
+0021100876,366,5,5,4,8:51 PM,10:23,,,Pargo Foul Turnover (P2.T10),,
+0021100876,367,8,0,4,8:51 PM,10:23,SUB: Harper FOR Davis,,,,
+0021100876,368,2,1,4,8:51 PM,10:09,MISS Smith 18' Jump Shot,,,,
+0021100876,369,4,0,4,8:51 PM,10:08,,,McGrady REBOUND (Off:0 Def:5),,
+0021100876,371,5,1,4,8:52 PM,9:53,,,McGrady Bad Pass Turnover (P1.T11),,
+0021100876,372,1,1,4,8:53 PM,9:35,Wafer 25' 3PT Jump Shot (11 PTS) (Clark 1 AST),,,94 - 69,-25
+0021100876,373,7,5,4,8:53 PM,9:20,Smith Violation:Kicked Ball,,,,
+0021100876,374,2,1,4,8:53 PM,9:12,,,MISS Pargo 25' 3PT Jump Shot,,
+0021100876,375,4,0,4,8:53 PM,9:11,Clark REBOUND (Off:0 Def:2),,,,
+0021100876,376,2,80,4,8:53 PM,8:56,MISS Wafer 20' Step Back Jump Shot,,,,
+0021100876,377,4,0,4,8:53 PM,8:55,,,Williams REBOUND (Off:0 Def:3),,
+0021100876,378,2,5,4,8:54 PM,8:35,,,MISS Williams 1' Layup,,
+0021100876,380,4,0,4,8:54 PM,8:33,,,Williams REBOUND (Off:1 Def:3),,
+0021100876,379,1,4,4,8:54 PM,8:33,,,Williams 2' Tip Shot (16 PTS),96 - 69,-27
+0021100876,381,1,73,4,8:54 PM,8:18,Smith 2' Driving Reverse Layup (6 PTS),,,96 - 71,-25
+0021100876,382,2,1,4,8:54 PM,8:06,,,MISS McGrady 20' Jump Shot,,
+0021100876,383,4,0,4,8:54 PM,8:04,Smith REBOUND (Off:0 Def:2),,,,
+0021100876,384,5,1,4,8:55 PM,7:50,Liggins Bad Pass Turnover (P2.T14),,Stackhouse STEAL (1 STL),,
+0021100876,385,2,1,4,8:55 PM,7:41,,,MISS Pargo 24' 3PT Jump Shot,,
+0021100876,386,4,0,4,8:55 PM,7:40,Smith REBOUND (Off:0 Def:3),,,,
+0021100876,387,6,2,4,8:55 PM,7:23,,,McGrady S.FOUL (P1.T1),,
+0021100876,388,9,4,4,8:55 PM,7:23,,,,,
+0021100876,392,3,11,4,8:58 PM,7:23,Liggins Free Throw 1 of 2 (1 PTS),,,96 - 72,-24
+0021100876,394,3,12,4,8:58 PM,7:23,MISS Liggins Free Throw 2 of 2,,,,
+0021100876,396,4,0,4,8:58 PM,7:21,,,McGrady REBOUND (Off:0 Def:6),,
+0021100876,397,1,1,4,8:58 PM,6:59,,,Pargo 19' Jump Shot (17 PTS) (McGrady 2 AST),98 - 72,-26
+0021100876,398,2,1,4,8:59 PM,6:36,MISS Harper 20' Jump Shot,,,,
+0021100876,399,4,0,4,8:59 PM,6:35,,,Hawks Rebound,,
+0021100876,400,1,1,4,8:59 PM,6:23,,,Stackhouse 25' 3PT Jump Shot (5 PTS) (Pargo 2 AST),101 - 72,-29
+0021100876,401,1,73,4,8:59 PM,6:05,Liggins 2' Driving Reverse Layup (3 PTS) (Smith 2 AST),,,101 - 74,-27
+0021100876,402,1,47,4,9:00 PM,5:50,,,Stackhouse 9' Turnaround Jump Shot (7 PTS),103 - 74,-29
+0021100876,403,2,7,4,9:00 PM,5:37,MISS Wafer 1' Dunk,,,,
+0021100876,404,4,0,4,9:00 PM,5:36,Liggins REBOUND (Off:1 Def:0),,,,
+0021100876,405,2,5,4,9:00 PM,5:32,MISS Liggins 3' Layup,,,,
+0021100876,406,4,0,4,9:00 PM,5:31,,,Radmanovic REBOUND (Off:0 Def:1),,
+0021100876,407,5,39,4,9:00 PM,5:27,,,Williams Step Out of Bounds Turnover (P1.T12),,
+0021100876,408,9,1,4,9:00 PM,5:27,MAGIC Timeout: Regular (Full 7 Short 1),,,,
+0021100876,410,6,25,4,9:01 PM,5:27,MAGIC Excess Timeout Technical,,,,
+0021100876,411,5,42,4,9:01 PM,5:27,MAGIC Turnover:  (T#15),,,,
+0021100876,413,8,0,4,9:02 PM,5:27,,,SUB: Collins FOR Williams,,
+0021100876,415,8,0,4,9:02 PM,5:27,SUB: Orton FOR Clark,,,,
+0021100876,416,3,16,4,9:02 PM,5:27,,,Stackhouse Free Throw Technical (8 PTS),104 - 74,-30
+0021100876,419,1,1,4,9:03 PM,5:18,,,McGrady 18' Jump Shot (11 PTS),106 - 74,-32
+0021100876,420,2,1,4,9:04 PM,4:57,MISS Wafer 21' Jump Shot,,,,
+0021100876,421,4,0,4,9:04 PM,4:56,,,Radmanovic REBOUND (Off:0 Def:2),,
+0021100876,422,1,1,4,9:04 PM,4:48,,,Stackhouse  3PT Jump Shot (11 PTS) (Pargo 3 AST),109 - 74,-35
+0021100876,423,2,1,4,9:04 PM,4:31,MISS Smith 16' Jump Shot,,,,
+0021100876,424,4,0,4,9:04 PM,4:30,,,Radmanovic REBOUND (Off:0 Def:3),,
+0021100876,425,2,1,4,9:04 PM,4:21,,,MISS Collins 17' Jump Shot,,
+0021100876,426,4,0,4,9:04 PM,4:19,MAGIC Rebound,,,,
+0021100876,427,8,0,4,9:04 PM,4:19,,,SUB: Dampier FOR McGrady,,
+0021100876,428,2,1,4,9:05 PM,4:00,MISS Smith 12' Jump Shot,,,,
+0021100876,430,4,0,4,9:05 PM,3:58,Orton REBOUND (Off:1 Def:0),,,,
+0021100876,429,2,5,4,9:05 PM,3:58,MISS Orton 1' Layup,,,,
+0021100876,431,4,0,4,9:05 PM,3:56,,,Radmanovic REBOUND (Off:0 Def:4),,
+0021100876,432,2,1,4,9:05 PM,3:45,,,MISS Pargo 24' 3PT Jump Shot,,
+0021100876,433,4,0,4,9:05 PM,3:43,Harper REBOUND (Off:0 Def:1),,,,
+0021100876,435,2,1,4,9:05 PM,3:33,MISS Harper 25' 3PT Jump Shot,,,,
+0021100876,436,4,0,4,9:05 PM,3:32,,,Radmanovic REBOUND (Off:0 Def:5),,
+0021100876,437,2,1,4,9:06 PM,3:17,,,MISS Radmanovic 26' 3PT Jump Shot,,
+0021100876,438,4,0,4,9:06 PM,3:16,Wafer REBOUND (Off:2 Def:4),,,,
+0021100876,439,5,1,4,9:06 PM,3:09,Wafer Bad Pass Turnover (P3.T16),,,,
+0021100876,440,5,1,4,9:06 PM,3:00,,,Stackhouse Bad Pass Turnover (P1.T13),,
+0021100876,441,6,2,4,9:07 PM,2:47,,,Collins S.FOUL (P1.T2),,
+0021100876,442,9,1,4,9:07 PM,2:47,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0021100876,447,3,11,4,9:09 PM,2:47,MISS Liggins Free Throw 1 of 2,,,,
+0021100876,448,4,1,4,9:09 PM,2:47,MAGIC Rebound,,,,
+0021100876,449,3,12,4,9:09 PM,2:47,MISS Liggins Free Throw 2 of 2,,,,
+0021100876,451,4,0,4,9:09 PM,2:45,,,Radmanovic REBOUND (Off:0 Def:6),,
+0021100876,452,5,1,4,9:10 PM,2:31,Orton STEAL (1 STL),,Stackhouse Bad Pass Turnover (P2.T14),,
+0021100876,453,2,7,4,9:10 PM,2:16,MISS Liggins 1' Dunk,,,,
+0021100876,454,4,0,4,9:10 PM,2:15,,,Pargo REBOUND (Off:1 Def:2),,
+0021100876,455,2,47,4,9:10 PM,2:07,,,MISS Stackhouse 13' Turnaround Jump Shot,,
+0021100876,456,4,0,4,9:10 PM,2:05,Wafer REBOUND (Off:2 Def:5),,,,
+0021100876,457,1,1,4,9:10 PM,1:52,Wafer 26' 3PT Jump Shot (14 PTS),,,109 - 77,-32
+0021100876,458,2,56,4,9:10 PM,1:38,,,MISS Dampier 9' Running Hook Shot,,
+0021100876,459,4,0,4,9:11 PM,1:37,Liggins REBOUND (Off:1 Def:1),,,,
+0021100876,460,2,1,4,9:11 PM,1:29,MISS Harper  3PT Jump Shot,,,,
+0021100876,461,4,0,4,9:11 PM,1:28,,,Radmanovic REBOUND (Off:0 Def:7),,
+0021100876,462,2,80,4,9:11 PM,1:08,,,MISS Collins 16' Step Back Jump Shot,,
+0021100876,463,4,0,4,9:11 PM,1:07,Wafer REBOUND (Off:2 Def:6),,,,
+0021100876,464,1,42,4,9:11 PM,1:00,Wafer 3' Driving Layup (16 PTS),,,109 - 79,-30
+0021100876,465,5,1,4,9:12 PM,0:42,Liggins STEAL (1 STL),,Radmanovic Bad Pass Turnover (P1.T15),,
+0021100876,466,1,7,4,9:12 PM,0:39,Liggins  Dunk (5 PTS) (Wafer 4 AST),,,109 - 81,-28
+0021100876,467,2,1,4,9:12 PM,0:19,,,MISS Stackhouse  3PT Jump Shot,,
+0021100876,468,4,0,4,9:12 PM,0:18,,,Dampier REBOUND (Off:1 Def:0),,
+0021100876,470,13,0,4,9:12 PM,0:00,,,,109 - 81,-28

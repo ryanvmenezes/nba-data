@@ -1,0 +1,482 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021300020,0,12,0,1,7:09 PM,12:00,,,,,
+0021300020,1,10,0,1,7:10 PM,12:00,Jump Ball Biyombo vs. Thompson: Tip to Walker,,,,
+0021300020,2,2,1,1,7:10 PM,11:41,MISS McRoberts 25' 3PT Jump Shot,,,,
+0021300020,3,4,0,1,7:10 PM,11:40,,,Irving REBOUND (Off:0 Def:1),,
+0021300020,4,2,58,1,7:10 PM,11:16,,,MISS Thompson 12' Turnaround Hook Shot,,
+0021300020,5,4,0,1,7:10 PM,11:14,Biyombo REBOUND (Off:0 Def:1),,,,
+0021300020,6,1,42,1,7:11 PM,10:50,Kidd-Gilchrist 1' Driving Layup (2 PTS) (McRoberts 1 AST),,,0 - 2,2
+0021300020,7,5,1,1,7:11 PM,10:38,,,Waiters Bad Pass Turnover (P1.T1),,
+0021300020,8,2,1,1,7:11 PM,10:20,MISS Henderson 12' Jump Shot,,,,
+0021300020,9,4,0,1,7:11 PM,10:18,Biyombo REBOUND (Off:1 Def:1),,,,
+0021300020,10,2,1,1,7:12 PM,10:04,MISS Kidd-Gilchrist 6' Jump Shot,,,,
+0021300020,11,4,0,1,7:12 PM,10:03,,,Clark REBOUND (Off:0 Def:1),,
+0021300020,12,2,1,1,7:12 PM,9:57,,,MISS Waiters 20' Jump Shot,,
+0021300020,13,4,0,1,7:12 PM,9:54,Biyombo REBOUND (Off:1 Def:2),,,,
+0021300020,14,2,1,1,7:12 PM,9:32,MISS Walker 16' Jump Shot,,,,
+0021300020,15,4,0,1,7:12 PM,9:31,,,Thompson REBOUND (Off:0 Def:1),,
+0021300020,16,1,42,1,7:12 PM,9:25,,,Irving 1' Driving Layup (2 PTS),2 - 2,TIE
+0021300020,17,6,2,1,7:12 PM,9:25,Kidd-Gilchrist S.FOUL (P1.T1),,,,
+0021300020,18,3,10,1,7:13 PM,9:25,,,Irving Free Throw 1 of 1 (3 PTS),3 - 2,-1
+0021300020,20,6,2,1,7:13 PM,9:11,,,Irving S.FOUL (P1.T1),,
+0021300020,21,3,11,1,7:13 PM,9:11,Walker Free Throw 1 of 2 (1 PTS),,,3 - 3,TIE
+0021300020,23,3,12,1,7:14 PM,9:11,Walker Free Throw 2 of 2 (2 PTS),,,3 - 4,1
+0021300020,25,5,21,1,7:14 PM,8:56,,,Waiters Palming Turnover (P2.T2),,
+0021300020,27,1,1,1,7:15 PM,8:35,Biyombo 14' Jump Shot (2 PTS) (McRoberts 2 AST),,,3 - 6,3
+0021300020,28,2,42,1,7:15 PM,8:23,,,MISS Thompson 3' Driving Layup,,
+0021300020,29,4,0,1,7:15 PM,8:22,Biyombo REBOUND (Off:1 Def:3),,,,
+0021300020,30,2,1,1,7:15 PM,8:13,MISS Walker 25' 3PT Jump Shot,,,,
+0021300020,31,4,0,1,7:15 PM,8:13,BOBCATS Rebound,,,,
+0021300020,32,6,3,1,7:15 PM,8:13,,,Varejao L.B.FOUL (P1.T2),,
+0021300020,33,5,1,1,7:16 PM,8:07,Henderson Bad Pass Turnover (P1.T1),,,,
+0021300020,34,1,1,1,7:16 PM,7:54,,,Waiters 19' Jump Shot (2 PTS) (Irving 1 AST),5 - 6,1
+0021300020,35,1,66,1,7:16 PM,7:37,Kidd-Gilchrist 7' Jump Bank Shot (4 PTS) (Walker 1 AST),,,5 - 8,3
+0021300020,36,6,2,1,7:16 PM,7:37,,,Thompson S.FOUL (P1.T3),,
+0021300020,37,3,10,1,7:17 PM,7:37,Kidd-Gilchrist Free Throw 1 of 1 (5 PTS),,,5 - 9,4
+0021300020,39,2,1,1,7:17 PM,7:14,Walker BLOCK (1 BLK),,MISS Irving 14' Jump Shot,,
+0021300020,40,4,0,1,7:17 PM,7:12,,,Irving REBOUND (Off:1 Def:1),,
+0021300020,41,1,1,1,7:17 PM,7:06,,,Irving 13' Jump Shot (5 PTS),7 - 9,2
+0021300020,42,2,1,1,7:17 PM,6:59,MISS Henderson 19' Jump Shot,,,,
+0021300020,43,4,0,1,7:17 PM,6:58,,,Clark REBOUND (Off:0 Def:2),,
+0021300020,44,2,1,1,7:17 PM,6:48,,,MISS Thompson 18' Jump Shot,,
+0021300020,45,4,0,1,7:17 PM,6:44,Biyombo REBOUND (Off:1 Def:4),,,,
+0021300020,46,6,1,1,7:18 PM,6:32,,,Waiters P.FOUL (P1.T4),,
+0021300020,47,1,79,1,7:18 PM,6:24,Walker 18' Pullup Jump Shot (4 PTS),,,7 - 11,4
+0021300020,48,1,7,1,7:18 PM,6:11,,,Thompson 1' Dunk (2 PTS) (Irving 2 AST),9 - 11,2
+0021300020,49,1,5,1,7:19 PM,5:59,Kidd-Gilchrist 2' Layup (7 PTS) (McRoberts 3 AST),,,9 - 13,4
+0021300020,50,6,29,1,7:19 PM,5:59,,,Varejao Shooting Block Foul (P2.PN),,
+0021300020,51,9,1,1,7:19 PM,5:59,BOBCATS Timeout: Regular (Full 1 Short 0),,,,
+0021300020,53,8,0,1,7:21 PM,5:59,,,SUB: Jack FOR Clark,,
+0021300020,54,8,0,1,7:21 PM,5:59,,,SUB: Gee FOR Waiters,,
+0021300020,55,3,10,1,7:21 PM,5:59,Kidd-Gilchrist Free Throw 1 of 1 (8 PTS),,,9 - 14,5
+0021300020,57,2,1,1,7:22 PM,5:37,Kidd-Gilchrist BLOCK (1 BLK),,MISS Varejao 16' Jump Shot,,
+0021300020,58,4,0,1,7:22 PM,5:34,,,Varejao REBOUND (Off:1 Def:0),,
+0021300020,59,2,1,1,7:22 PM,5:34,,,MISS Varejao  3PT Jump Shot,,
+0021300020,60,4,0,1,7:22 PM,5:34,BOBCATS Rebound,,,,
+0021300020,61,6,2,1,7:22 PM,5:13,,,Gee S.FOUL (P1.PN),,
+0021300020,62,3,11,1,7:23 PM,5:13,Henderson Free Throw 1 of 2 (1 PTS),,,9 - 15,6
+0021300020,64,8,0,1,7:23 PM,5:13,,,SUB: Bynum FOR Varejao,,
+0021300020,65,3,12,1,7:23 PM,5:13,MISS Henderson Free Throw 2 of 2,,,,
+0021300020,67,4,0,1,7:23 PM,5:11,,,Thompson REBOUND (Off:0 Def:2),,
+0021300020,68,2,58,1,7:24 PM,4:49,,,MISS Bynum 1' Turnaround Hook Shot,,
+0021300020,69,4,0,1,7:24 PM,4:47,McRoberts REBOUND (Off:0 Def:1),,,,
+0021300020,70,2,5,1,7:24 PM,4:38,MISS Kidd-Gilchrist 1' Layup,,,,
+0021300020,71,4,0,1,7:24 PM,4:37,,,Bynum REBOUND (Off:0 Def:1),,
+0021300020,72,1,42,1,7:24 PM,4:28,,,Irving 1' Driving Layup (7 PTS),11 - 15,4
+0021300020,73,1,1,1,7:24 PM,4:07,Walker 25' 3PT Jump Shot (7 PTS) (McRoberts 4 AST),,,11 - 18,7
+0021300020,74,6,1,1,7:25 PM,3:55,Henderson P.FOUL (P1.T2),,,,
+0021300020,75,8,0,1,7:25 PM,3:55,SUB: Zeller FOR McRoberts,,,,
+0021300020,76,8,0,1,7:25 PM,3:55,SUB: Taylor FOR Kidd-Gilchrist,,,,
+0021300020,77,2,42,1,7:25 PM,3:47,,,MISS Irving 1' Driving Layup,,
+0021300020,79,4,0,1,7:25 PM,3:45,,,Bynum REBOUND (Off:1 Def:1),,
+0021300020,78,1,4,1,7:25 PM,3:45,,,Bynum  Tip Shot (2 PTS),13 - 18,5
+0021300020,80,5,1,1,7:25 PM,3:35,Henderson Bad Pass Turnover (P2.T2),,Gee STEAL (1 STL),,
+0021300020,81,6,2,1,7:26 PM,3:31,Henderson S.FOUL (P2.T3),,,,
+0021300020,82,3,11,1,7:26 PM,3:31,,,Gee Free Throw 1 of 2 (1 PTS),14 - 18,4
+0021300020,84,8,0,1,7:26 PM,3:31,SUB: Sessions FOR Henderson,,,,
+0021300020,85,3,12,1,7:26 PM,3:31,,,MISS Gee Free Throw 2 of 2,,
+0021300020,87,4,0,1,7:26 PM,3:29,Walker REBOUND (Off:0 Def:1),,,,
+0021300020,88,1,1,1,7:26 PM,3:23,Sessions 15' Jump Shot (2 PTS) (Walker 2 AST),,,14 - 20,6
+0021300020,89,1,1,1,7:27 PM,3:09,,,Irving 18' Jump Shot (9 PTS) (Gee 1 AST),16 - 20,4
+0021300020,90,1,1,1,7:27 PM,2:43,Sessions 19' Jump Shot (4 PTS),,,16 - 22,6
+0021300020,91,5,1,1,7:27 PM,2:26,Walker STEAL (1 STL),,Thompson Bad Pass Turnover (P1.T3),,
+0021300020,92,1,5,1,7:27 PM,2:25,Sessions 1' Layup (6 PTS),,,16 - 24,8
+0021300020,93,6,2,1,7:27 PM,2:25,,,Irving S.FOUL (P2.PN),,
+0021300020,121,9,1,1,7:30 PM,2:25,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,
+0021300020,95,8,0,1,7:30 PM,2:25,,,SUB: Miles FOR Thompson,,
+0021300020,96,8,0,1,7:30 PM,2:25,,,SUB: Bennett FOR Irving,,
+0021300020,97,3,10,1,7:30 PM,2:25,MISS Sessions Free Throw 1 of 1,,,,
+0021300020,99,4,0,1,7:30 PM,2:23,,,Gee REBOUND (Off:0 Def:1),,
+0021300020,100,1,58,1,7:30 PM,2:06,,,Bynum 4' Turnaround Hook Shot (4 PTS),18 - 24,6
+0021300020,101,1,84,1,7:31 PM,1:51,Taylor 4' Running Bank Shot (2 PTS),,,18 - 26,8
+0021300020,102,2,1,1,7:31 PM,1:27,,,MISS Bynum 10' Jump Shot,,
+0021300020,103,4,0,1,7:31 PM,1:26,Biyombo REBOUND (Off:1 Def:5),,,,
+0021300020,104,1,79,1,7:31 PM,1:17,Walker 7' Pullup Jump Shot (9 PTS),,,18 - 28,10
+0021300020,105,2,1,1,7:31 PM,1:02,,,MISS Miles 17' Jump Shot,,
+0021300020,106,4,0,1,7:32 PM,1:00,Biyombo REBOUND (Off:1 Def:6),,,,
+0021300020,107,2,1,1,7:32 PM,0:51,MISS Zeller 18' Jump Shot,,,,
+0021300020,108,4,0,1,7:32 PM,0:50,,,Jack REBOUND (Off:0 Def:1),,
+0021300020,109,6,1,1,7:32 PM,0:41,Walker P.FOUL (P1.T4),,,,
+0021300020,110,1,78,1,7:32 PM,0:36,,,Jack 9' Floating Jump Shot (2 PTS),20 - 28,8
+0021300020,111,1,1,1,7:33 PM,0:19,Zeller 19' Jump Shot (2 PTS) (Walker 3 AST),,,20 - 30,10
+0021300020,112,1,1,1,7:33 PM,0:02,,,Jack 25' 3PT Jump Shot (5 PTS),23 - 30,7
+0021300020,113,2,1,1,7:33 PM,0:00,MISS Taylor 48' 3PT Jump Shot,,,,
+0021300020,115,4,0,1,7:33 PM,0:00,BOBCATS Rebound,,,,
+0021300020,114,13,0,1,7:33 PM,0:00,,,,23 - 30,7
+0021300020,117,12,0,2,7:36 PM,12:00,,,,23 - 30,7
+0021300020,118,2,1,2,7:36 PM,11:44,,,MISS Gee 8' Jump Shot,,
+0021300020,119,4,0,2,7:36 PM,11:38,Kidd-Gilchrist REBOUND (Off:0 Def:1),,,,
+0021300020,120,1,5,2,7:36 PM,11:30,Zeller 1' Layup (4 PTS) (Sessions 1 AST),,,23 - 32,9
+0021300020,122,1,5,2,7:37 PM,11:13,,,Miles 2' Layup (2 PTS) (Jack 1 AST),25 - 32,7
+0021300020,123,2,1,2,7:37 PM,10:48,MISS Taylor 24' 3PT Jump Shot,,,,
+0021300020,124,4,0,2,7:37 PM,10:46,,,Jack REBOUND (Off:0 Def:2),,
+0021300020,126,1,1,2,7:37 PM,10:37,,,Jack 16' Jump Shot (7 PTS),27 - 32,5
+0021300020,130,9,1,2,7:38 PM,10:27,BOBCATS Timeout: Regular (Full 2 Short 0),,,,
+0021300020,133,1,1,2,7:40 PM,10:19,Zeller 15' Jump Shot (6 PTS) (Sessions 2 AST),,,27 - 34,7
+0021300020,134,2,58,2,7:40 PM,9:59,,,MISS Bynum 5' Turnaround Hook Shot,,
+0021300020,135,4,0,2,7:40 PM,9:57,Zeller REBOUND (Off:0 Def:1),,,,
+0021300020,136,2,1,2,7:41 PM,9:49,MISS Sessions 19' Jump Shot,,,,
+0021300020,137,4,0,2,7:41 PM,9:48,,,Bennett REBOUND (Off:0 Def:1),,
+0021300020,138,2,1,2,7:41 PM,9:40,,,MISS Bennett 26' 3PT Jump Shot,,
+0021300020,139,4,0,2,7:41 PM,9:39,Adrien REBOUND (Off:0 Def:1),,,,
+0021300020,140,6,27,2,7:41 PM,9:34,,,Bennett Personal Block Foul (P1.T1),,
+0021300020,141,1,5,2,7:41 PM,9:23,Adrien 1' Layup (2 PTS) (Sessions 3 AST),,,27 - 36,9
+0021300020,142,1,42,2,7:42 PM,9:00,,,Jack 1' Driving Layup (9 PTS),29 - 36,7
+0021300020,143,1,45,2,7:42 PM,8:39,Sessions 13' Jump Shot (8 PTS) (Taylor 1 AST),,,29 - 38,9
+0021300020,144,6,3,2,7:42 PM,8:39,,,Gee L.B.FOUL (P2.T2),,
+0021300020,145,3,10,2,7:43 PM,8:39,Adrien Free Throw 1 of 1 (3 PTS),,,29 - 39,10
+0021300020,147,2,3,2,7:43 PM,8:22,,,MISS Bynum 4' Hook Shot,,
+0021300020,148,4,0,2,7:43 PM,8:20,Adrien REBOUND (Off:0 Def:2),,,,
+0021300020,149,6,2,2,7:44 PM,8:19,,,Miles S.FOUL (P1.T3),,
+0021300020,150,3,11,2,7:44 PM,8:19,MISS Kidd-Gilchrist Free Throw 1 of 2,,,,
+0021300020,151,4,1,2,7:44 PM,8:19,BOBCATS Rebound,,,,
+0021300020,152,3,12,2,7:44 PM,8:19,Kidd-Gilchrist Free Throw 2 of 2 (9 PTS),,,29 - 40,11
+0021300020,154,1,1,2,7:44 PM,8:03,,,Miles 25' 3PT Jump Shot (5 PTS) (Jack 2 AST),32 - 40,8
+0021300020,156,2,1,2,7:45 PM,7:50,MISS Taylor 25' 3PT Jump Shot,,,,
+0021300020,157,4,0,2,7:45 PM,7:50,BOBCATS Rebound,,,,
+0021300020,158,6,3,2,7:45 PM,7:50,,,Bennett L.B.FOUL (P2.T4),,
+0021300020,159,8,0,2,7:45 PM,7:50,,,SUB: Thompson FOR Bennett,,
+0021300020,160,2,78,2,7:45 PM,7:40,MISS Sessions 8' Floating Jump Shot,,,,
+0021300020,161,4,0,2,7:45 PM,7:39,BOBCATS Rebound,,,,
+0021300020,164,2,1,2,7:46 PM,7:33,MISS Zeller 20' Jump Shot,,,,
+0021300020,165,4,0,2,7:46 PM,7:33,BOBCATS Rebound,,,,
+0021300020,166,6,3,2,7:46 PM,7:33,,,Bynum L.B.FOUL (P1.PN),,
+0021300020,168,3,11,2,7:46 PM,7:33,Adrien Free Throw 1 of 2 (4 PTS),,,32 - 41,9
+0021300020,171,3,12,2,7:46 PM,7:33,Adrien Free Throw 2 of 2 (5 PTS),,,32 - 42,10
+0021300020,173,2,1,2,7:47 PM,7:17,Adrien BLOCK (1 BLK),,MISS Bynum 3' Jump Shot,,
+0021300020,174,4,0,2,7:47 PM,7:17,,,Cavaliers Rebound,,
+0021300020,175,8,0,2,7:47 PM,7:17,SUB: McRoberts FOR Zeller,,,,
+0021300020,176,1,42,2,7:47 PM,7:10,,,Thompson 2' Driving Layup (4 PTS),34 - 42,8
+0021300020,177,2,1,2,7:47 PM,7:01,MISS Kidd-Gilchrist 19' Jump Shot,,,,
+0021300020,178,4,0,2,7:47 PM,6:59,,,Bynum REBOUND (Off:1 Def:2),,
+0021300020,179,6,2,2,7:48 PM,6:49,McRoberts S.FOUL (P1.T1),,,,
+0021300020,180,3,11,2,7:48 PM,6:49,,,MISS Bynum Free Throw 1 of 2,,
+0021300020,181,4,1,2,7:48 PM,6:49,,,Cavaliers Rebound,,
+0021300020,182,3,12,2,7:48 PM,6:49,,,Bynum Free Throw 2 of 2 (5 PTS),35 - 42,7
+0021300020,184,2,1,2,7:48 PM,6:35,MISS Taylor 17' Jump Shot,,,,
+0021300020,185,4,0,2,7:48 PM,6:34,,,Thompson REBOUND (Off:0 Def:3),,
+0021300020,186,5,40,2,7:49 PM,6:27,,,Miles Out of Bounds Lost Ball Turnover (P1.T4),,
+0021300020,187,8,0,2,7:49 PM,6:27,,,SUB: Waiters FOR Jack,,
+0021300020,188,8,0,2,7:49 PM,6:27,,,SUB: Irving FOR Bynum,,
+0021300020,189,8,0,2,7:49 PM,6:27,,,SUB: Varejao FOR Miles,,
+0021300020,190,8,0,2,7:49 PM,6:27,SUB: Biyombo FOR Adrien,,,,
+0021300020,191,2,73,2,7:49 PM,6:07,MISS Sessions 1' Driving Reverse Layup,,,,
+0021300020,192,4,0,2,7:49 PM,6:06,,,Varejao REBOUND (Off:1 Def:1),,
+0021300020,193,1,5,2,7:49 PM,5:54,,,Thompson 2' Layup (6 PTS),37 - 42,5
+0021300020,194,6,2,2,7:50 PM,5:38,,,Waiters S.FOUL (P2.PN),,
+0021300020,195,9,4,2,7:50 PM,5:38,,,,,
+0021300020,197,8,0,2,7:52 PM,5:38,,,SUB: Clark FOR Gee,,
+0021300020,198,8,0,2,7:52 PM,5:38,SUB: Walker FOR Sessions,,,,
+0021300020,199,3,11,2,7:52 PM,5:38,MISS Taylor Free Throw 1 of 2,,,,
+0021300020,200,4,1,2,7:52 PM,5:38,BOBCATS Rebound,,,,
+0021300020,201,3,12,2,7:53 PM,5:38,Taylor Free Throw 2 of 2 (3 PTS),,,37 - 43,6
+0021300020,203,6,17,2,7:53 PM,5:24,BOBCATS T.Foul (Def. 3 Sec Biyombo ),,,,
+0021300020,204,3,16,2,7:53 PM,5:24,,,Irving Free Throw Technical (10 PTS),38 - 43,5
+0021300020,206,8,0,2,7:53 PM,5:24,SUB: Henderson FOR Taylor,,,,
+0021300020,207,1,1,2,7:54 PM,5:09,,,Thompson 13' Jump Shot (8 PTS),40 - 43,3
+0021300020,208,1,73,2,7:54 PM,4:46,Walker 1' Driving Reverse Layup (11 PTS),,,40 - 45,5
+0021300020,209,2,42,2,7:54 PM,4:33,,,MISS Irving 2' Driving Layup,,
+0021300020,211,4,0,2,7:54 PM,4:31,,,Irving REBOUND (Off:2 Def:1),,
+0021300020,210,1,4,2,7:54 PM,4:31,,,Irving 1' Tip Shot (12 PTS),42 - 45,3
+0021300020,212,2,1,2,7:55 PM,4:19,MISS Henderson 20' Jump Shot,,,,
+0021300020,213,4,0,2,7:55 PM,4:18,,,Thompson REBOUND (Off:0 Def:4),,
+0021300020,214,2,1,2,7:55 PM,4:03,,,MISS Waiters 26' 3PT Jump Shot,,
+0021300020,215,4,0,2,7:55 PM,4:03,,,Cavaliers Rebound,,
+0021300020,216,6,3,2,7:55 PM,4:03,Kidd-Gilchrist L.B.FOUL (P2.T2),,,,
+0021300020,217,2,1,2,7:55 PM,3:55,,,MISS Irving  3PT Jump Shot,,
+0021300020,218,4,0,2,7:56 PM,3:54,Kidd-Gilchrist REBOUND (Off:0 Def:2),,,,
+0021300020,219,1,7,2,7:56 PM,3:41,Biyombo  Dunk (4 PTS) (McRoberts 5 AST),,,42 - 47,5
+0021300020,220,9,1,2,7:56 PM,3:41,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,
+0021300020,224,5,40,2,7:59 PM,3:26,,,Thompson Out of Bounds Lost Ball Turnover (P2.T5),,
+0021300020,225,2,1,2,7:59 PM,3:09,MISS Kidd-Gilchrist 23' Jump Shot,,,,
+0021300020,226,4,0,2,7:59 PM,3:08,,,Varejao REBOUND (Off:1 Def:2),,
+0021300020,227,2,1,2,7:59 PM,2:56,,,MISS Clark 21' Jump Shot,,
+0021300020,228,4,0,2,7:59 PM,2:55,,,Cavaliers Rebound,,
+0021300020,229,6,3,2,7:59 PM,2:55,McRoberts L.B.FOUL (P2.T3),,,,
+0021300020,230,8,0,2,8:00 PM,2:55,SUB: Zeller FOR McRoberts,,,,
+0021300020,232,2,1,2,8:00 PM,2:37,,,MISS Clark 10' Jump Shot,,
+0021300020,233,4,0,2,8:00 PM,2:37,,,Varejao REBOUND (Off:2 Def:2),,
+0021300020,234,6,2,2,8:00 PM,2:37,Henderson S.FOUL (P3.T4),,,,
+0021300020,235,3,11,2,8:01 PM,2:37,,,Varejao Free Throw 1 of 2 (1 PTS),43 - 47,4
+0021300020,237,8,0,2,8:01 PM,2:37,SUB: Sessions FOR Henderson,,,,
+0021300020,238,3,12,2,8:01 PM,2:37,,,Varejao Free Throw 2 of 2 (2 PTS),44 - 47,3
+0021300020,240,1,5,2,8:01 PM,2:16,Biyombo 2' Layup (6 PTS),,,44 - 49,5
+0021300020,241,2,1,2,8:02 PM,1:54,Biyombo BLOCK (1 BLK),,MISS Waiters 6' Jump Shot,,
+0021300020,242,4,0,2,8:02 PM,1:52,Walker REBOUND (Off:0 Def:2),,,,
+0021300020,243,1,7,2,8:02 PM,1:49,Zeller 1' Dunk (8 PTS) (Walker 4 AST),,,44 - 51,7
+0021300020,244,2,1,2,8:02 PM,1:40,,,MISS Irving 11' Jump Shot,,
+0021300020,245,4,0,2,8:02 PM,1:39,Sessions REBOUND (Off:0 Def:1),,,,
+0021300020,246,2,5,2,8:02 PM,1:27,MISS Zeller 2' Layup,,,,
+0021300020,247,4,0,2,8:02 PM,1:26,,,Thompson REBOUND (Off:0 Def:5),,
+0021300020,248,6,1,2,8:02 PM,1:22,Kidd-Gilchrist P.FOUL (P3.PN),,,,
+0021300020,249,3,11,2,8:03 PM,1:22,,,Thompson Free Throw 1 of 2 (9 PTS),45 - 51,6
+0021300020,251,8,0,2,8:03 PM,1:22,SUB: Taylor FOR Kidd-Gilchrist,,,,
+0021300020,252,3,12,2,8:03 PM,1:22,,,Thompson Free Throw 2 of 2 (10 PTS),46 - 51,5
+0021300020,254,1,80,2,8:04 PM,0:58,Taylor 18' Step Back Jump Shot (5 PTS),,,46 - 53,7
+0021300020,255,2,46,2,8:04 PM,0:45,,,MISS Waiters 6' Running Jump Shot,,
+0021300020,256,4,0,2,8:04 PM,0:43,,,Thompson REBOUND (Off:1 Def:5),,
+0021300020,257,6,2,2,8:04 PM,0:43,Zeller S.FOUL (P1.PN),,,,
+0021300020,258,3,11,2,8:04 PM,0:43,,,Thompson Free Throw 1 of 2 (11 PTS),47 - 53,6
+0021300020,260,8,0,2,8:05 PM,0:43,,,SUB: Jack FOR Irving,,
+0021300020,261,8,0,2,8:05 PM,0:43,,,SUB: Zeller FOR Varejao,,
+0021300020,262,8,0,2,8:05 PM,0:43,,,SUB: Miles FOR Waiters,,
+0021300020,263,3,12,2,8:05 PM,0:43,,,Thompson Free Throw 2 of 2 (12 PTS),48 - 53,5
+0021300020,265,6,1,2,8:05 PM,0:37,,,Zeller P.FOUL (P1.PN),,
+0021300020,266,3,11,2,8:05 PM,0:37,MISS Walker Free Throw 1 of 2,,,,
+0021300020,267,4,1,2,8:05 PM,0:37,BOBCATS Rebound,,,,
+0021300020,268,3,12,2,8:05 PM,0:37,Walker Free Throw 2 of 2 (12 PTS),,,48 - 54,6
+0021300020,270,2,1,2,8:06 PM,0:21,,,MISS Zeller 6' Jump Shot,,
+0021300020,271,4,0,2,8:06 PM,0:21,,,Thompson REBOUND (Off:2 Def:5),,
+0021300020,272,6,2,2,8:06 PM,0:21,Biyombo S.FOUL (P1.PN),,,,
+0021300020,273,3,11,2,8:06 PM,0:21,,,Thompson Free Throw 1 of 2 (13 PTS),49 - 54,5
+0021300020,275,3,12,2,8:07 PM,0:21,,,MISS Thompson Free Throw 2 of 2,,
+0021300020,277,4,0,2,8:07 PM,0:17,Zeller REBOUND (Off:0 Def:2),,,,
+0021300020,278,2,42,2,8:07 PM,0:01,MISS Sessions 2' Driving Layup,,,,
+0021300020,279,4,0,2,8:07 PM,0:00,,,Zeller REBOUND (Off:0 Def:1),,
+0021300020,280,18,0,2,8:07 PM,0:00,,,,,
+0021300020,281,13,0,2,8:08 PM,0:00,,,,49 - 54,5
+0021300020,283,12,0,3,8:24 PM,12:00,,,,49 - 54,5
+0021300020,284,1,47,3,8:24 PM,11:46,,,Irving 15' Turnaround Jump Shot (14 PTS) (Varejao 1 AST),51 - 54,3
+0021300020,285,1,7,3,8:24 PM,11:28,Biyombo 1' Dunk (8 PTS) (Walker 5 AST),,,51 - 56,5
+0021300020,286,2,5,3,8:25 PM,11:05,Biyombo BLOCK (2 BLK),,MISS Clark 2' Layup,,
+0021300020,287,4,0,3,8:25 PM,11:03,Kidd-Gilchrist REBOUND (Off:0 Def:3),,,,
+0021300020,288,1,42,3,8:25 PM,10:59,Kidd-Gilchrist 1' Driving Layup (11 PTS),,,51 - 58,7
+0021300020,289,2,1,3,8:25 PM,10:45,,,MISS Varejao 15' Jump Shot,,
+0021300020,290,4,0,3,8:25 PM,10:42,Henderson REBOUND (Off:0 Def:1),,,,
+0021300020,291,2,1,3,8:25 PM,10:26,MISS Henderson 19' Jump Shot,,,,
+0021300020,292,4,0,3,8:25 PM,10:24,Kidd-Gilchrist REBOUND (Off:1 Def:3),,,,
+0021300020,293,2,42,3,8:25 PM,10:18,MISS Walker 2' Driving Layup,,,,
+0021300020,294,4,0,3,8:25 PM,10:18,,,Cavaliers Rebound,,
+0021300020,295,5,1,3,8:26 PM,10:08,Kidd-Gilchrist STEAL (1 STL),,Irving Bad Pass Turnover (P1.T6),,
+0021300020,296,1,42,3,8:26 PM,10:04,Kidd-Gilchrist 1' Driving Layup (13 PTS),,,51 - 60,9
+0021300020,297,5,1,3,8:26 PM,9:52,Henderson STEAL (1 STL),,Irving Bad Pass Turnover (P2.T7),,
+0021300020,298,2,5,3,8:26 PM,9:46,MISS Kidd-Gilchrist 2' Layup,,,,
+0021300020,299,4,0,3,8:26 PM,9:43,McRoberts REBOUND (Off:1 Def:1),,,,
+0021300020,300,2,1,3,8:26 PM,9:40,MISS Walker 25' 3PT Jump Shot,,,,
+0021300020,301,4,0,3,8:26 PM,9:39,McRoberts REBOUND (Off:2 Def:1),,,,
+0021300020,302,5,41,3,8:26 PM,9:21,McRoberts Poss Lost Ball Turnover (P1.T3),,,,
+0021300020,303,6,3,3,8:27 PM,9:21,McRoberts L.B.FOUL (P3.T1),,,,
+0021300020,306,8,0,3,8:27 PM,9:21,,,SUB: Miles FOR Waiters,,
+0021300020,304,2,1,3,8:27 PM,9:07,,,MISS Clark 18' Jump Shot,,
+0021300020,305,4,0,3,8:27 PM,9:06,Kidd-Gilchrist REBOUND (Off:1 Def:4),,,,
+0021300020,307,5,4,3,8:27 PM,8:59,Henderson Traveling Turnover (P3.T4),,,,
+0021300020,308,2,1,3,8:28 PM,8:43,,,MISS Irving 18' Jump Shot,,
+0021300020,309,4,0,3,8:28 PM,8:41,,,Varejao REBOUND (Off:3 Def:2),,
+0021300020,310,1,1,3,8:28 PM,8:29,,,Miles 26' 3PT Jump Shot (8 PTS) (Irving 3 AST),54 - 60,6
+0021300020,311,10,0,3,8:29 PM,8:07,Jump Ball Walker vs. Irving: Tip to Kidd-Gilchrist,,,,
+0021300020,313,5,1,3,8:29 PM,7:58,Walker Bad Pass Turnover (P1.T5),,Clark STEAL (1 STL),,
+0021300020,314,5,40,3,8:29 PM,7:50,,,Clark Out of Bounds Lost Ball Turnover (P1.T8),,
+0021300020,315,1,1,3,8:30 PM,7:27,Biyombo 15' Jump Shot (10 PTS) (McRoberts 6 AST),,,54 - 62,8
+0021300020,316,1,1,3,8:30 PM,7:12,,,Miles 17' Jump Shot (10 PTS) (Irving 4 AST),56 - 62,6
+0021300020,317,2,58,3,8:30 PM,6:55,MISS Biyombo 6' Turnaround Hook Shot,,,,
+0021300020,318,4,0,3,8:30 PM,6:53,,,Clark REBOUND (Off:0 Def:3),,
+0021300020,319,6,4,3,8:31 PM,6:40,,,Varejao OFF.Foul (P3),,
+0021300020,320,5,5,3,8:31 PM,6:40,,,Varejao Foul Turnover (P1.T9),,
+0021300020,321,8,0,3,8:31 PM,6:40,,,SUB: Gee FOR Clark,,
+0021300020,322,2,1,3,8:31 PM,6:27,MISS McRoberts 15' Jump Shot,,,,
+0021300020,323,4,0,3,8:31 PM,6:26,,,Irving REBOUND (Off:2 Def:2),,
+0021300020,324,2,1,3,8:31 PM,6:18,,,MISS Miles 27' 3PT Jump Shot,,
+0021300020,325,4,0,3,8:31 PM,6:17,Biyombo REBOUND (Off:1 Def:7),,,,
+0021300020,326,5,1,3,8:31 PM,6:08,Walker Bad Pass Turnover (P2.T6),,Miles STEAL (1 STL),,
+0021300020,327,1,52,3,8:31 PM,6:03,,,Thompson 1' Alley Oop Dunk (15 PTS) (Irving 5 AST),58 - 62,4
+0021300020,328,2,77,3,8:32 PM,5:41,MISS Kidd-Gilchrist 6' Driving Jump Shot,,,,
+0021300020,329,4,0,3,8:32 PM,5:40,,,Thompson REBOUND (Off:2 Def:6),,
+0021300020,330,5,39,3,8:32 PM,5:36,,,Irving Step Out of Bounds Turnover (P3.T10),,
+0021300020,331,9,1,3,8:32 PM,5:36,BOBCATS Timeout: Regular (Full 3 Short 0),,,,
+0021300020,333,8,0,3,8:34 PM,5:36,SUB: Taylor FOR Kidd-Gilchrist,,,,
+0021300020,335,6,2,3,8:35 PM,5:24,,,Thompson S.FOUL (P2.T1),,
+0021300020,336,3,11,3,8:35 PM,5:24,Henderson Free Throw 1 of 2 (2 PTS),,,58 - 63,5
+0021300020,338,3,12,3,8:35 PM,5:24,Henderson Free Throw 2 of 2 (3 PTS),,,58 - 64,6
+0021300020,340,1,1,3,8:36 PM,5:00,,,Thompson 14' Jump Shot (17 PTS) (Irving 6 AST),60 - 64,4
+0021300020,341,2,1,3,8:36 PM,4:47,MISS Taylor 26' 3PT Jump Shot,,,,
+0021300020,342,4,0,3,8:36 PM,4:44,,,Miles REBOUND (Off:0 Def:1),,
+0021300020,343,2,1,3,8:36 PM,4:39,,,MISS Gee 24' 3PT Jump Shot,,
+0021300020,344,4,0,3,8:36 PM,4:39,BOBCATS Rebound,,,,
+0021300020,345,6,1,3,8:36 PM,4:39,,,Thompson P.FOUL (P3.T2),,
+0021300020,346,8,0,3,8:37 PM,4:39,SUB: Zeller FOR McRoberts,,,,
+0021300020,347,8,0,3,8:37 PM,4:39,,,SUB: Bennett FOR Thompson,,
+0021300020,348,1,1,3,8:37 PM,4:27,Henderson 17' Jump Shot (5 PTS) (Walker 6 AST),,,60 - 66,6
+0021300020,349,1,5,3,8:37 PM,4:15,,,Miles 3' Layup (12 PTS) (Irving 7 AST),62 - 66,4
+0021300020,350,2,1,3,8:37 PM,3:58,MISS Henderson 17' Jump Shot,,,,
+0021300020,351,4,0,3,8:37 PM,3:57,,,Varejao REBOUND (Off:3 Def:3),,
+0021300020,352,1,42,3,8:38 PM,3:51,,,Irving 3' Driving Layup (16 PTS),64 - 66,2
+0021300020,353,6,2,3,8:38 PM,3:51,Zeller S.FOUL (P2.T2),,,,
+0021300020,354,3,10,3,8:38 PM,3:51,,,MISS Irving Free Throw 1 of 1,,
+0021300020,356,4,0,3,8:38 PM,3:49,Walker REBOUND (Off:0 Def:3),,,,
+0021300020,357,6,2,3,8:38 PM,3:45,,,Gee S.FOUL (P3.T3),,
+0021300020,358,3,11,3,8:38 PM,3:45,MISS Taylor Free Throw 1 of 2,,,,
+0021300020,359,4,1,3,8:38 PM,3:45,BOBCATS Rebound,,,,
+0021300020,360,3,12,3,8:39 PM,3:45,Taylor Free Throw 2 of 2 (6 PTS),,,64 - 67,3
+0021300020,362,2,43,3,8:39 PM,3:32,,,MISS Irving 1' Alley Oop Layup,,
+0021300020,363,4,0,3,8:39 PM,3:31,Zeller REBOUND (Off:0 Def:3),,,,
+0021300020,364,5,4,3,8:39 PM,3:24,Taylor Traveling Turnover (P1.T7),,,,
+0021300020,365,8,0,3,8:39 PM,3:24,,,SUB: Jack FOR Irving,,
+0021300020,366,1,77,3,8:40 PM,3:09,,,Jack 5' Driving Jump Shot (11 PTS),66 - 67,1
+0021300020,367,6,2,3,8:40 PM,2:58,,,Varejao S.FOUL (P4.T4),,
+0021300020,368,9,1,3,8:40 PM,2:58,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,
+0021300020,370,8,0,3,8:42 PM,2:58,SUB: Sessions FOR Biyombo,,,,
+0021300020,371,8,0,3,8:42 PM,2:58,SUB: Adrien FOR Henderson,,,,
+0021300020,372,8,0,3,8:43 PM,2:58,,,SUB: Thompson FOR Varejao,,
+0021300020,373,3,11,3,8:43 PM,2:58,MISS Zeller Free Throw 1 of 2,,,,
+0021300020,374,4,1,3,8:43 PM,2:58,BOBCATS Rebound,,,,
+0021300020,375,3,12,3,8:43 PM,2:58,Zeller Free Throw 2 of 2 (9 PTS),,,66 - 68,2
+0021300020,377,2,1,3,8:43 PM,2:43,Adrien BLOCK (2 BLK),,MISS Thompson 5' Jump Shot,,
+0021300020,378,4,0,3,8:43 PM,2:43,,,Cavaliers Rebound,,
+0021300020,379,2,1,3,8:44 PM,2:38,,,MISS Jack 17' Jump Shot,,
+0021300020,380,4,0,3,8:44 PM,2:36,Taylor REBOUND (Off:0 Def:1),,,,
+0021300020,381,5,1,3,8:44 PM,2:28,Walker Bad Pass Turnover (P3.T8),,Bennett STEAL (1 STL),,
+0021300020,382,2,5,3,8:44 PM,2:14,,,MISS Jack 2' Layup,,
+0021300020,383,4,0,3,8:44 PM,2:13,,,Thompson REBOUND (Off:3 Def:6),,
+0021300020,384,6,26,3,8:44 PM,2:13,,,Thompson Offensive Charge Foul (P4.PN),,
+0021300020,385,5,5,3,8:44 PM,2:13,,,Thompson Foul Turnover (P3.T11),,
+0021300020,386,8,0,3,8:45 PM,2:13,,,SUB: Zeller FOR Thompson,,
+0021300020,387,1,1,3,8:45 PM,1:49,Walker 25' 3PT Jump Shot (15 PTS) (Sessions 4 AST),,,66 - 71,5
+0021300020,388,2,1,3,8:46 PM,1:35,,,MISS Miles 20' Jump Shot,,
+0021300020,389,4,0,3,8:46 PM,1:34,Zeller REBOUND (Off:0 Def:4),,,,
+0021300020,391,6,2,3,8:46 PM,1:27,,,Bennett S.FOUL (P3.PN),,
+0021300020,392,3,11,3,8:46 PM,1:27,MISS Walker Free Throw 1 of 2,,,,
+0021300020,393,4,1,3,8:46 PM,1:27,BOBCATS Rebound,,,,
+0021300020,394,3,12,3,8:46 PM,1:27,MISS Walker Free Throw 2 of 2,,,,
+0021300020,396,4,0,3,8:46 PM,1:25,,,Gee REBOUND (Off:0 Def:2),,
+0021300020,397,2,1,3,8:47 PM,1:13,,,MISS Bennett 5' Jump Shot,,
+0021300020,398,4,0,3,8:47 PM,1:13,Walker REBOUND (Off:0 Def:4),,,,
+0021300020,399,5,40,3,8:47 PM,1:11,Walker Out of Bounds Lost Ball Turnover (P4.T9),,,,
+0021300020,400,5,2,3,8:47 PM,0:58,Walker STEAL (2 STL),,Jack Lost Ball Turnover (P1.T12),,
+0021300020,401,1,5,3,8:47 PM,0:54,Walker 2' Layup (17 PTS),,,66 - 73,7
+0021300020,402,2,1,3,8:47 PM,0:37,,,MISS Bennett 25' 3PT Jump Shot,,
+0021300020,403,4,0,3,8:48 PM,0:36,Adrien REBOUND (Off:0 Def:3),,,,
+0021300020,404,5,1,3,8:48 PM,0:29,Sessions Bad Pass Turnover (P1.T10),,Miles STEAL (2 STL),,
+0021300020,405,6,1,3,8:48 PM,0:11,Walker P.FOUL (P2.T3),,,,
+0021300020,406,5,2,3,8:48 PM,0:05,Walker STEAL (3 STL),,Jack Lost Ball Turnover (P2.T13),,
+0021300020,407,1,5,3,8:48 PM,0:02,Taylor 1' Layup (8 PTS) (Walker 7 AST),,,66 - 75,9
+0021300020,408,2,1,3,8:49 PM,0:01,,,MISS Jack 45' 3PT Jump Shot,,
+0021300020,410,4,0,3,8:49 PM,0:00,,,Cavaliers Rebound,,
+0021300020,409,13,0,3,8:49 PM,0:00,,,,66 - 75,9
+0021300020,412,12,0,4,8:51 PM,12:00,,,,66 - 75,9
+0021300020,413,6,2,4,8:52 PM,11:49,,,Zeller S.FOUL (P2.T1),,
+0021300020,414,3,11,4,8:52 PM,11:49,Sessions Free Throw 1 of 2 (9 PTS),,,66 - 76,10
+0021300020,416,3,12,4,8:52 PM,11:49,MISS Sessions Free Throw 2 of 2,,,,
+0021300020,418,4,0,4,8:52 PM,11:48,,,Gee REBOUND (Off:0 Def:3),,
+0021300020,419,1,1,4,8:52 PM,11:32,,,Miles 25' 3PT Jump Shot (15 PTS) (Jack 3 AST),69 - 76,7
+0021300020,420,5,1,4,8:53 PM,11:15,Taylor Bad Pass Turnover (P2.T11),,Gee STEAL (2 STL),,
+0021300020,421,5,40,4,8:53 PM,11:05,,,Gee Out of Bounds Lost Ball Turnover (P1.T14),,
+0021300020,422,2,1,4,8:53 PM,10:52,MISS Zeller 21' Jump Shot,,,,
+0021300020,423,4,0,4,8:53 PM,10:51,BOBCATS Rebound,,,,
+0021300020,424,6,3,4,8:53 PM,10:51,,,Bennett L.B.FOUL (P4.T2),,
+0021300020,425,6,1,4,8:54 PM,10:42,,,Miles P.FOUL (P2.T3),,
+0021300020,426,8,0,4,8:54 PM,10:42,,,SUB: Thompson FOR Bennett,,
+0021300020,427,2,1,4,8:54 PM,10:33,MISS Zeller 5' Jump Shot,,,,
+0021300020,428,4,0,4,8:54 PM,10:31,,,Miles REBOUND (Off:0 Def:2),,
+0021300020,429,6,2,4,8:55 PM,10:20,Adrien S.FOUL (P1.T1),,,,
+0021300020,430,3,11,4,8:55 PM,10:20,,,Thompson Free Throw 1 of 2 (18 PTS),70 - 76,6
+0021300020,432,3,12,4,8:55 PM,10:20,,,Thompson Free Throw 2 of 2 (19 PTS),71 - 76,5
+0021300020,434,5,1,4,8:55 PM,10:05,Sessions Bad Pass Turnover (P2.T12),,Thompson STEAL (1 STL),,
+0021300020,435,6,1,4,8:56 PM,10:01,Sessions P.FOUL (P1.T2),,,,
+0021300020,436,2,1,4,8:56 PM,9:54,,,MISS Jack 9' Jump Shot,,
+0021300020,437,4,0,4,8:56 PM,9:53,Zeller REBOUND (Off:0 Def:5),,,,
+0021300020,438,5,1,4,8:56 PM,9:33,Sessions Bad Pass Turnover (P3.T13),,Zeller STEAL (1 STL),,
+0021300020,439,1,79,4,8:56 PM,9:27,,,Jack 18' Pullup Jump Shot (13 PTS),73 - 76,3
+0021300020,440,9,1,4,8:57 PM,9:20,BOBCATS Timeout: Regular (Full 4 Short 0),,,,
+0021300020,442,8,0,4,8:58 PM,9:20,SUB: McRoberts FOR Zeller,,,,
+0021300020,443,8,0,4,8:58 PM,9:20,SUB: Biyombo FOR Adrien,,,,
+0021300020,445,2,1,4,8:59 PM,9:07,MISS Sessions 26' 3PT Jump Shot,,,,
+0021300020,446,4,0,4,8:59 PM,9:06,,,Jack REBOUND (Off:0 Def:3),,
+0021300020,447,2,1,4,8:59 PM,8:47,,,MISS Miles 25' 3PT Jump Shot,,
+0021300020,449,4,0,4,9:00 PM,8:45,,,Zeller REBOUND (Off:1 Def:1),,
+0021300020,448,10,0,4,9:00 PM,8:45,Jump Ball McRoberts vs. Zeller: Tip to Jack,,,,
+0021300020,450,2,5,4,9:01 PM,8:24,,,MISS Thompson 2' Layup,,
+0021300020,451,4,0,4,9:01 PM,8:22,,,Thompson REBOUND (Off:4 Def:6),,
+0021300020,452,1,42,4,9:01 PM,8:20,,,Miles 1' Driving Layup (17 PTS),75 - 76,1
+0021300020,453,6,2,4,9:01 PM,8:20,Biyombo S.FOUL (P2.T3),,,,
+0021300020,454,3,10,4,9:01 PM,8:20,,,Miles Free Throw 1 of 1 (18 PTS),76 - 76,TIE
+0021300020,456,2,5,4,9:02 PM,8:00,MISS McRoberts 1' Layup,,Thompson BLOCK (1 BLK),,
+0021300020,457,4,0,4,9:02 PM,7:57,Kidd-Gilchrist REBOUND (Off:2 Def:4),,,,
+0021300020,458,2,1,4,9:02 PM,7:53,MISS Sessions 15' Jump Shot,,,,
+0021300020,459,4,0,4,9:02 PM,7:53,BOBCATS Rebound,,,,
+0021300020,460,6,3,4,9:02 PM,7:53,,,Thompson L.B.FOUL (P5.T4),,
+0021300020,461,8,0,4,9:02 PM,7:53,SUB: Walker FOR Sessions,,,,
+0021300020,462,8,0,4,9:02 PM,7:53,SUB: Henderson FOR Taylor,,,,
+0021300020,463,8,0,4,9:02 PM,7:53,,,SUB: Varejao FOR Thompson,,
+0021300020,464,2,1,4,9:03 PM,7:40,MISS Henderson 19' Jump Shot,,,,
+0021300020,465,4,0,4,9:03 PM,7:40,BOBCATS Rebound,,,,
+0021300020,466,6,3,4,9:03 PM,7:40,,,Zeller L.B.FOUL (P3.PN),,
+0021300020,467,3,11,4,9:03 PM,7:40,MISS Biyombo Free Throw 1 of 2,,,,
+0021300020,468,4,1,4,9:03 PM,7:40,BOBCATS Rebound,,,,
+0021300020,469,3,12,4,9:03 PM,7:40,Biyombo Free Throw 2 of 2 (11 PTS),,,76 - 77,1
+0021300020,471,2,1,4,9:04 PM,7:26,McRoberts BLOCK (1 BLK),,MISS Jack 9' Jump Shot,,
+0021300020,484,4,0,4,9:04 PM,7:24,Biyombo REBOUND (Off:1 Def:8),,,,
+0021300020,472,1,5,4,9:04 PM,7:14,Kidd-Gilchrist 1' Layup (15 PTS) (McRoberts 7 AST),,,76 - 79,3
+0021300020,473,2,1,4,9:04 PM,6:59,,,MISS Zeller 3' Jump Shot,,
+0021300020,474,4,0,4,9:04 PM,6:59,,,Cavaliers Rebound,,
+0021300020,475,8,0,4,9:04 PM,6:59,,,SUB: Irving FOR Miles,,
+0021300020,476,2,1,4,9:05 PM,6:45,,,MISS Irving 8' Jump Shot,,
+0021300020,477,4,0,4,9:05 PM,6:45,,,Cavaliers Rebound,,
+0021300020,478,6,3,4,9:05 PM,6:45,McRoberts L.B.FOUL (P4.T4),,,,
+0021300020,480,2,5,4,9:05 PM,6:38,Walker BLOCK (2 BLK),,MISS Varejao 2' Layup,,
+0021300020,481,4,0,4,9:05 PM,6:36,McRoberts REBOUND (Off:2 Def:2),,,,
+0021300020,482,1,79,4,9:05 PM,6:23,Walker 17' Pullup Jump Shot (19 PTS) (McRoberts 8 AST),,,76 - 81,5
+0021300020,483,9,1,4,9:06 PM,6:21,,,Cavaliers Timeout: Regular (Reg.4 Short 0),,
+0021300020,486,8,0,4,9:08 PM,6:21,,,SUB: Thompson FOR Gee,,
+0021300020,487,8,0,4,9:08 PM,6:21,,,SUB: Miles FOR Zeller,,
+0021300020,489,1,7,4,9:08 PM,6:09,,,Miles 1' Dunk (20 PTS) (Varejao 2 AST),78 - 81,3
+0021300020,490,2,86,4,9:09 PM,5:43,MISS Henderson 12' Turnaround Fadeaway Shot,,,,
+0021300020,491,4,0,4,9:09 PM,5:40,,,Miles REBOUND (Off:0 Def:3),,
+0021300020,492,1,1,4,9:09 PM,5:28,,,Jack 21' Jump Shot (15 PTS) (Miles 1 AST),80 - 81,1
+0021300020,493,6,1,4,9:09 PM,5:09,,,Miles P.FOUL (P3.PN),,
+0021300020,494,3,11,4,9:10 PM,5:09,MISS Henderson Free Throw 1 of 2,,,,
+0021300020,495,4,1,4,9:10 PM,5:09,BOBCATS Rebound,,,,
+0021300020,496,3,12,4,9:10 PM,5:09,Henderson Free Throw 2 of 2 (6 PTS),,,80 - 82,2
+0021300020,498,5,1,4,9:10 PM,4:59,,,Varejao Bad Pass Turnover (P2.T15),,
+0021300020,499,2,79,4,9:11 PM,4:46,MISS Walker 17' Pullup Jump Shot,,,,
+0021300020,500,4,0,4,9:11 PM,4:43,,,Miles REBOUND (Off:0 Def:4),,
+0021300020,501,6,1,4,9:11 PM,4:36,Biyombo P.FOUL (P3.PN),,,,
+0021300020,502,3,11,4,9:11 PM,4:36,,,MISS Irving Free Throw 1 of 2,,
+0021300020,503,4,1,4,9:11 PM,4:36,,,Cavaliers Rebound,,
+0021300020,504,3,12,4,9:12 PM,4:36,,,MISS Irving Free Throw 2 of 2,,
+0021300020,506,4,0,4,9:12 PM,4:34,Henderson REBOUND (Off:0 Def:2),,,,
+0021300020,507,5,1,4,9:12 PM,4:20,McRoberts Bad Pass Turnover (P2.T14),,Miles STEAL (3 STL),,
+0021300020,508,2,1,4,9:12 PM,4:02,,,MISS Miles 26' 3PT Jump Shot,,
+0021300020,509,4,0,4,9:12 PM,4:01,BOBCATS Rebound,,,,
+0021300020,510,5,11,4,9:13 PM,3:37,BOBCATS Turnover: Shot Clock (T#15),,,,
+0021300020,511,2,1,4,9:13 PM,3:22,,,MISS Irving 26' 3PT Jump Shot,,
+0021300020,512,4,0,4,9:14 PM,3:22,,,Cavaliers Rebound,,
+0021300020,513,6,3,4,9:14 PM,3:22,McRoberts L.B.FOUL (P5.PN),,,,
+0021300020,514,3,11,4,9:14 PM,3:22,,,Thompson Free Throw 1 of 2 (20 PTS),81 - 82,1
+0021300020,516,3,12,4,9:14 PM,3:22,,,Thompson Free Throw 2 of 2 (21 PTS),82 - 82,TIE
+0021300020,518,1,1,4,9:15 PM,3:04,Henderson 14' Jump Shot (8 PTS),,,82 - 84,2
+0021300020,519,5,1,4,9:15 PM,2:46,McRoberts STEAL (1 STL),,Jack Bad Pass Turnover (P3.T16),,
+0021300020,520,2,86,4,9:15 PM,2:24,MISS Henderson 16' Turnaround Fadeaway Shot,,,,
+0021300020,521,4,0,4,9:15 PM,2:23,,,Thompson REBOUND (Off:4 Def:7),,
+0021300020,522,1,42,4,9:16 PM,2:08,,,Miles 2' Driving Layup (22 PTS),84 - 84,TIE
+0021300020,523,9,2,4,9:16 PM,1:55,BOBCATS Timeout: Short (Full 4 Short 1),,,,
+0021300020,524,9,4,4,9:16 PM,1:55,,,,,
+0021300020,528,5,15,4,9:19 PM,1:42,Biyombo Offensive Goaltending Turnover (P1.T16),,,,
+0021300020,529,18,0,4,9:20 PM,1:42,,,,,
+0021300020,530,2,1,4,9:22 PM,1:20,,,MISS Miles 17' Jump Shot,,
+0021300020,531,4,0,4,9:22 PM,1:18,Henderson REBOUND (Off:0 Def:3),,,,
+0021300020,532,1,1,4,9:22 PM,0:58,Walker 25' 3PT Jump Shot (22 PTS) (Henderson 1 AST),,,84 - 87,3
+0021300020,533,5,2,4,9:22 PM,0:42,McRoberts STEAL (2 STL),,Thompson Lost Ball Turnover (P4.T17),,
+0021300020,534,2,1,4,9:23 PM,0:17,MISS Walker 25' 3PT Jump Shot,,,,
+0021300020,535,4,0,4,9:23 PM,0:17,,,Varejao REBOUND (Off:3 Def:4),,
+0021300020,536,9,1,4,9:23 PM,0:17,,,Cavaliers Timeout: Regular (Reg.5 Short 0),,
+0021300020,540,2,1,4,9:25 PM,0:12,,,MISS Jack 27' 3PT Jump Shot,,
+0021300020,541,4,0,4,9:25 PM,0:12,BOBCATS Rebound,,,,
+0021300020,542,18,0,4,9:26 PM,0:12,,,,,
+0021300020,544,8,0,4,9:28 PM,0:12,SUB: Sessions FOR Kidd-Gilchrist,,,,
+0021300020,545,8,0,4,9:28 PM,0:12,,,SUB: Gee FOR Thompson,,
+0021300020,546,6,28,4,9:29 PM,0:11,,,Gee Personal Take Foul (P4.PN),,
+0021300020,547,3,11,4,9:29 PM,0:11,Henderson Free Throw 1 of 2 (9 PTS),,,84 - 88,4
+0021300020,549,8,0,4,9:29 PM,0:11,SUB: Kidd-Gilchrist FOR Sessions,,,,
+0021300020,550,8,0,4,9:29 PM,0:11,,,SUB: Thompson FOR Gee,,
+0021300020,551,3,12,4,9:29 PM,0:11,Henderson Free Throw 2 of 2 (10 PTS),,,84 - 89,5
+0021300020,553,9,2,4,9:29 PM,0:11,,,Cavaliers Timeout: Short (Reg.5 Short 1),,
+0021300020,557,2,1,4,9:31 PM,0:08,,,MISS Miles 28' 3PT Jump Shot,,
+0021300020,558,4,0,4,9:31 PM,0:06,Biyombo REBOUND (Off:1 Def:9),,,,
+0021300020,559,6,28,4,9:31 PM,0:05,,,Irving Personal Take Foul (P3.PN),,
+0021300020,560,3,11,4,9:31 PM,0:05,Walker Free Throw 1 of 2 (23 PTS),,,84 - 90,6
+0021300020,562,3,12,4,9:31 PM,0:05,MISS Walker Free Throw 2 of 2,,,,
+0021300020,564,4,0,4,9:32 PM,0:05,,,Miles REBOUND (Off:0 Def:5),,
+0021300020,565,9,2,4,9:32 PM,0:05,,,Cavaliers Timeout: Short (Reg.5 Short 2),,
+0021300020,566,2,1,4,9:33 PM,0:00,,,MISS Irving 25' 3PT Jump Shot,,
+0021300020,568,4,0,4,9:33 PM,0:00,,,Cavaliers Rebound,,
+0021300020,567,13,0,4,9:33 PM,0:00,,,,84 - 90,6

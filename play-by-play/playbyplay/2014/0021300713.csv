@@ -1,0 +1,475 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021300713,0,12,0,1,7:42 PM,12:00,,,,,
+0021300713,1,10,0,1,7:42 PM,12:00,Jump Ball Bosh vs. Drummond: Tip to James,,,,
+0021300713,2,1,7,1,7:42 PM,11:44,Wade 1' Dunk (2 PTS) (James 1 AST),,,0 - 2,2
+0021300713,3,5,1,1,7:42 PM,11:27,James STEAL (1 STL),,Monroe Bad Pass Turnover (P1.T1),,
+0021300713,4,5,1,1,7:42 PM,11:23,Wade Bad Pass Turnover (P1.T1),,,,
+0021300713,5,2,1,1,7:43 PM,11:11,,,MISS Smith 17' Jump Shot,,
+0021300713,6,4,0,1,7:43 PM,11:10,,,Drummond REBOUND (Off:1 Def:0),,
+0021300713,7,6,2,1,7:43 PM,11:10,Wade S.FOUL (P1.T1),,,,
+0021300713,8,3,11,1,7:43 PM,11:10,,,Drummond Free Throw 1 of 2 (1 PTS),1 - 2,1
+0021300713,10,3,12,1,7:43 PM,11:10,,,Drummond Free Throw 2 of 2 (2 PTS),2 - 2,TIE
+0021300713,12,6,2,1,7:44 PM,10:56,,,Drummond S.FOUL (P1.T1),,
+0021300713,13,3,11,1,7:44 PM,10:56,Bosh Free Throw 1 of 2 (1 PTS),,,2 - 3,1
+0021300713,15,3,12,1,7:44 PM,10:56,Bosh Free Throw 2 of 2 (2 PTS),,,2 - 4,2
+0021300713,17,1,1,1,7:45 PM,10:36,,,Jennings 25' 3PT Jump Shot (3 PTS) (Smith 1 AST),5 - 4,-1
+0021300713,18,1,79,1,7:45 PM,10:27,Wade 19' Pullup Jump Shot (4 PTS),,,5 - 6,1
+0021300713,19,6,2,1,7:45 PM,10:27,,,Caldwell-Pope S.FOUL (P1.T2),,
+0021300713,20,3,10,1,7:45 PM,10:27,Wade Free Throw 1 of 1 (5 PTS),,,5 - 7,2
+0021300713,22,2,1,1,7:45 PM,10:07,,,MISS Smith 21' Jump Shot,,
+0021300713,23,4,0,1,7:46 PM,10:06,James REBOUND (Off:0 Def:1),,,,
+0021300713,24,6,1,1,7:46 PM,10:00,,,Drummond P.FOUL (P2.T3),,
+0021300713,25,3,11,1,7:46 PM,10:00,Bosh Free Throw 1 of 2 (3 PTS),,,5 - 8,3
+0021300713,27,8,0,1,7:46 PM,10:00,,,SUB: Singler FOR Drummond,,
+0021300713,28,8,0,1,7:46 PM,10:00,,,SUB: Stuckey FOR Caldwell-Pope,,
+0021300713,29,3,12,1,7:46 PM,10:00,Bosh Free Throw 2 of 2 (4 PTS),,,5 - 9,4
+0021300713,31,2,1,1,7:47 PM,9:47,,,MISS Singler 24' 3PT Jump Shot,,
+0021300713,32,4,0,1,7:47 PM,9:46,Chalmers REBOUND (Off:0 Def:1),,,,
+0021300713,33,1,42,1,7:47 PM,9:27,Wade 1' Driving Layup (7 PTS) (James 2 AST),,,5 - 11,6
+0021300713,34,2,79,1,7:47 PM,9:12,,,MISS Stuckey 15' Pullup Jump Shot,,
+0021300713,35,4,0,1,7:47 PM,9:11,Wade REBOUND (Off:0 Def:1),,,,
+0021300713,36,5,1,1,7:47 PM,9:09,Wade Bad Pass Turnover (P2.T2),,Smith STEAL (1 STL),,
+0021300713,37,1,1,1,7:47 PM,9:04,,,Jennings 25' 3PT Jump Shot (6 PTS) (Smith 2 AST),8 - 11,3
+0021300713,38,1,7,1,7:48 PM,8:44,Bosh  Dunk (6 PTS) (Chalmers 1 AST),,,8 - 13,5
+0021300713,39,2,1,1,7:48 PM,8:28,,,MISS Jennings 24' 3PT Jump Shot,,
+0021300713,40,4,0,1,7:48 PM,8:27,Battier REBOUND (Off:0 Def:1),,,,
+0021300713,41,2,1,1,7:48 PM,8:13,MISS Chalmers 24' 3PT Jump Shot,,,,
+0021300713,42,4,0,1,7:48 PM,8:12,Bosh REBOUND (Off:1 Def:0),,,,
+0021300713,43,2,1,1,7:49 PM,7:50,MISS Battier 24' 3PT Jump Shot,,,,
+0021300713,44,4,0,1,7:49 PM,7:49,,,Stuckey REBOUND (Off:0 Def:1),,
+0021300713,45,2,42,1,7:49 PM,7:45,James BLOCK (1 BLK),,MISS Stuckey 2' Driving Layup,,
+0021300713,46,4,0,1,7:49 PM,7:43,,,Singler REBOUND (Off:1 Def:0),,
+0021300713,47,2,56,1,7:49 PM,7:34,,,MISS Smith 6' Running Hook Shot,,
+0021300713,48,4,0,1,7:49 PM,7:32,,,Monroe REBOUND (Off:1 Def:0),,
+0021300713,49,1,5,1,7:49 PM,7:30,,,Monroe 2' Layup (2 PTS),10 - 13,3
+0021300713,53,2,1,1,7:50 PM,7:11,MISS Chalmers 26' 3PT Jump Shot,,,,
+0021300713,54,4,0,1,7:50 PM,7:10,Bosh REBOUND (Off:2 Def:0),,,,
+0021300713,55,2,75,1,7:50 PM,7:02,MISS Chalmers 2' Driving Finger Roll Layup,,,,
+0021300713,56,4,0,1,7:50 PM,7:01,,,Monroe REBOUND (Off:1 Def:1),,
+0021300713,57,2,78,1,7:50 PM,6:54,,,MISS Stuckey 8' Floating Jump Shot,,
+0021300713,58,4,0,1,7:50 PM,6:53,,,Jennings REBOUND (Off:1 Def:0),,
+0021300713,59,1,4,1,7:50 PM,6:51,,,Jennings 1' Tip Shot (8 PTS),12 - 13,1
+0021300713,60,5,1,1,7:50 PM,6:48,Chalmers Bad Pass Turnover (P1.T3),,,,
+0021300713,62,2,3,1,7:50 PM,6:37,,,MISS Smith 6' Hook Shot,,
+0021300713,63,4,0,1,7:50 PM,6:36,Battier REBOUND (Off:0 Def:2),,,,
+0021300713,64,1,42,1,7:51 PM,6:19,James 2' Driving Layup (2 PTS) (Wade 1 AST),,,12 - 15,3
+0021300713,65,2,3,1,7:51 PM,6:07,,,MISS Smith 5' Hook Shot,,
+0021300713,66,4,0,1,7:51 PM,6:06,Bosh REBOUND (Off:2 Def:1),,,,
+0021300713,67,1,1,1,7:51 PM,5:53,Bosh 5' Jump Shot (8 PTS) (James 3 AST),,,12 - 17,5
+0021300713,68,6,2,1,7:51 PM,5:53,,,Monroe S.FOUL (P1.T4),,
+0021300713,69,9,1,1,7:51 PM,5:53,HEAT Timeout: Regular (Full 1 Short 0),,,,
+0021300713,73,3,10,1,7:54 PM,5:53,Bosh Free Throw 1 of 1 (9 PTS),,,12 - 18,6
+0021300713,75,1,58,1,7:55 PM,5:39,,,Monroe 7' Turnaround Hook Shot (4 PTS),14 - 18,4
+0021300713,76,1,47,1,7:55 PM,5:23,Wade 8' Turnaround Jump Shot (9 PTS) (James 4 AST),,,14 - 20,6
+0021300713,77,2,3,1,7:56 PM,5:00,,,MISS Monroe 9' Hook Shot,,
+0021300713,78,4,0,1,7:56 PM,4:59,,,Smith REBOUND (Off:1 Def:0),,
+0021300713,79,1,7,1,7:56 PM,4:58,,,Smith 1' Dunk (2 PTS),16 - 20,4
+0021300713,80,1,1,1,7:56 PM,4:35,Battier 25' 3PT Jump Shot (3 PTS) (Wade 2 AST),,,16 - 23,7
+0021300713,81,1,5,1,7:56 PM,4:25,,,Monroe 3' Layup (6 PTS) (Smith 3 AST),18 - 23,5
+0021300713,82,6,2,1,7:56 PM,4:25,Bosh S.FOUL (P1.T2),,,,
+0021300713,83,8,0,1,7:56 PM,4:25,SUB: Andersen FOR Bosh,,,,
+0021300713,84,3,10,1,7:57 PM,4:25,,,Monroe Free Throw 1 of 1 (7 PTS),19 - 23,4
+0021300713,86,1,47,1,7:57 PM,4:05,James 7' Turnaround Jump Shot (4 PTS) (Wade 3 AST),,,19 - 25,6
+0021300713,87,6,2,1,7:57 PM,4:05,,,Stuckey S.FOUL (P1.PN),,
+0021300713,88,8,0,1,7:57 PM,4:05,SUB: Allen FOR Wade,,,,
+0021300713,89,3,10,1,7:57 PM,4:05,MISS James Free Throw 1 of 1,,,,
+0021300713,91,4,0,1,7:57 PM,4:04,,,Smith REBOUND (Off:1 Def:1),,
+0021300713,92,1,1,1,7:58 PM,3:56,,,Jennings 18' Jump Shot (10 PTS),21 - 25,4
+0021300713,93,2,66,1,7:58 PM,3:37,MISS Chalmers 12' Jump Bank Shot,,,,
+0021300713,94,4,0,1,7:58 PM,3:36,Andersen REBOUND (Off:1 Def:0),,,,
+0021300713,95,1,4,1,7:58 PM,3:33,Andersen 1' Tip Shot (2 PTS),,,21 - 27,6
+0021300713,96,2,1,1,7:58 PM,3:16,,,MISS Monroe 18' Jump Shot,,
+0021300713,97,4,0,1,7:58 PM,3:15,James REBOUND (Off:0 Def:2),,,,
+0021300713,98,1,1,1,7:58 PM,3:10,Allen 26' 3PT Jump Shot (3 PTS) (James 5 AST),,,21 - 30,9
+0021300713,99,9,1,1,7:59 PM,3:02,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0021300713,101,18,0,1,7:59 PM,3:02,,,,,
+0021300713,103,8,0,1,8:01 PM,3:02,SUB: Cole FOR Chalmers,,,,
+0021300713,104,1,1,1,8:02 PM,2:52,,,Stuckey 24' 3PT Jump Shot (3 PTS) (Jennings 1 AST),24 - 30,6
+0021300713,105,5,1,1,8:02 PM,2:38,Cole Bad Pass Turnover (P1.T4),,,,
+0021300713,106,6,2,1,8:02 PM,2:25,Cole S.FOUL (P1.T3),,,,
+0021300713,107,3,13,1,8:02 PM,2:25,,,Jennings Free Throw 1 of 3 (11 PTS),25 - 30,5
+0021300713,109,3,14,1,8:03 PM,2:25,,,Jennings Free Throw 2 of 3 (12 PTS),26 - 30,4
+0021300713,111,3,15,1,8:03 PM,2:25,,,Jennings Free Throw 3 of 3 (13 PTS),27 - 30,3
+0021300713,113,2,42,1,8:03 PM,2:12,MISS Cole 2' Driving Layup,,Jennings BLOCK (1 BLK),,
+0021300713,114,4,0,1,8:03 PM,2:11,,,Monroe REBOUND (Off:1 Def:2),,
+0021300713,115,2,77,1,8:03 PM,1:52,,,MISS Singler 7' Driving Jump Shot,,
+0021300713,116,4,0,1,8:04 PM,1:51,,,Monroe REBOUND (Off:2 Def:2),,
+0021300713,117,2,5,1,8:04 PM,1:50,,,MISS Monroe 2' Layup,,
+0021300713,118,4,0,1,8:04 PM,1:49,Allen REBOUND (Off:0 Def:1),,,,
+0021300713,119,6,2,1,8:04 PM,1:43,,,Smith S.FOUL (P1.PN),,
+0021300713,120,3,11,1,8:04 PM,1:43,James Free Throw 1 of 2 (5 PTS),,,27 - 31,4
+0021300713,122,8,0,1,8:04 PM,1:43,SUB: Beasley FOR Battier,,,,
+0021300713,123,3,12,1,8:04 PM,1:43,James Free Throw 2 of 2 (6 PTS),,,27 - 32,5
+0021300713,125,1,5,1,8:05 PM,1:28,,,Monroe 1' Layup (9 PTS) (Stuckey 1 AST),29 - 32,3
+0021300713,126,2,47,1,8:05 PM,1:08,MISS Beasley 12' Turnaround Jump Shot,,,,
+0021300713,127,4,0,1,8:05 PM,1:07,,,Monroe REBOUND (Off:2 Def:3),,
+0021300713,128,2,1,1,8:05 PM,0:59,,,MISS Jennings 20' Jump Shot,,
+0021300713,129,4,0,1,8:05 PM,0:58,,,Singler REBOUND (Off:2 Def:0),,
+0021300713,130,2,5,1,8:05 PM,0:55,Andersen BLOCK (1 BLK),,MISS Singler 3' Layup,,
+0021300713,131,4,0,1,8:05 PM,0:54,,,Singler REBOUND (Off:3 Def:0),,
+0021300713,132,2,1,1,8:06 PM,0:42,,,MISS Monroe 2' Jump Shot,,
+0021300713,133,4,0,1,8:06 PM,0:41,,,Pistons Rebound,,
+0021300713,134,6,3,1,8:06 PM,0:41,Beasley L.B.FOUL (P1.T4),,,,
+0021300713,145,8,0,1,8:06 PM,0:41,,,SUB: Jerebko FOR Smith,,
+0021300713,135,2,42,1,8:06 PM,0:34,Beasley BLOCK (1 BLK),,MISS Stuckey 2' Driving Layup,,
+0021300713,137,4,0,1,8:06 PM,0:33,,,Stuckey REBOUND (Off:1 Def:1),,
+0021300713,136,2,5,1,8:06 PM,0:32,,,MISS Stuckey 1' Layup,,
+0021300713,138,4,0,1,8:06 PM,0:31,Beasley REBOUND (Off:0 Def:1),,,,
+0021300713,139,2,1,1,8:06 PM,0:24,MISS Cole  3PT Jump Shot,,,,
+0021300713,140,4,0,1,8:06 PM,0:23,Beasley REBOUND (Off:1 Def:1),,,,
+0021300713,141,2,1,1,8:07 PM,0:06,MISS Cole 16' Jump Shot,,Jennings BLOCK (2 BLK),,
+0021300713,142,4,0,1,8:07 PM,0:05,,,Monroe REBOUND (Off:2 Def:4),,
+0021300713,143,2,1,1,8:07 PM,0:02,,,MISS Jennings 25' 3PT Jump Shot,,
+0021300713,144,4,0,1,8:07 PM,0:00,,,Pistons Rebound,,
+0021300713,146,13,0,1,8:08 PM,0:00,,,,29 - 32,3
+0021300713,148,12,0,2,8:10 PM,12:00,,,,29 - 32,3
+0021300713,149,2,5,2,8:10 PM,11:37,Andersen BLOCK (2 BLK),,MISS Jerebko 2' Layup,,
+0021300713,150,4,0,2,8:10 PM,11:36,Andersen REBOUND (Off:1 Def:1),,,,
+0021300713,151,1,42,2,8:11 PM,11:27,Beasley 1' Driving Layup (2 PTS),,,29 - 34,5
+0021300713,153,2,1,2,8:11 PM,11:04,,,MISS Stuckey 11' Jump Shot,,
+0021300713,154,4,0,2,8:11 PM,11:03,Allen REBOUND (Off:0 Def:2),,,,
+0021300713,155,5,1,2,8:11 PM,10:51,Cole Bad Pass Turnover (P2.T5),,Stuckey STEAL (1 STL),,
+0021300713,156,1,42,2,8:11 PM,10:48,,,Stuckey 2' Driving Layup (5 PTS),31 - 34,3
+0021300713,157,6,2,2,8:11 PM,10:48,Wade S.FOUL (P2.T1),,,,
+0021300713,158,3,10,2,8:12 PM,10:48,,,MISS Stuckey Free Throw 1 of 1,,
+0021300713,161,4,0,2,8:12 PM,10:47,,,Drummond REBOUND (Off:2 Def:0),,
+0021300713,160,1,4,2,8:12 PM,10:46,,,Drummond 1' Tip Shot (4 PTS),33 - 34,1
+0021300713,162,1,1,2,8:12 PM,10:28,Wade 6' Jump Shot (11 PTS),,,33 - 36,3
+0021300713,163,6,2,2,8:12 PM,10:28,,,Stuckey S.FOUL (P2.T1),,
+0021300713,164,3,10,2,8:12 PM,10:28,Wade Free Throw 1 of 1 (12 PTS),,,33 - 37,4
+0021300713,166,6,2,2,8:13 PM,10:15,Andersen S.FOUL (P1.T2),,,,
+0021300713,167,3,11,2,8:13 PM,10:15,,,Stuckey Free Throw 1 of 2 (6 PTS),34 - 37,3
+0021300713,169,8,0,2,8:13 PM,10:15,SUB: Bosh FOR Beasley,,,,
+0021300713,170,3,12,2,8:13 PM,10:15,,,Stuckey Free Throw 2 of 2 (7 PTS),35 - 37,2
+0021300713,172,2,1,2,8:14 PM,9:59,MISS Wade 19' Jump Shot,,,,
+0021300713,173,4,0,2,8:14 PM,9:58,,,Bynum REBOUND (Off:0 Def:1),,
+0021300713,174,5,2,2,8:14 PM,9:54,Cole STEAL (1 STL),,Bynum Lost Ball Turnover (P1.T2),,
+0021300713,175,1,5,2,8:14 PM,9:49,Wade 1' Layup (14 PTS) (Cole 1 AST),,,35 - 39,4
+0021300713,176,6,4,2,8:14 PM,9:38,,,Drummond OFF.Foul (P3),,
+0021300713,177,5,5,2,8:14 PM,9:38,,,Drummond Foul Turnover (P1.T3),,
+0021300713,178,8,0,2,8:15 PM,9:38,,,SUB: Monroe FOR Drummond,,
+0021300713,179,2,1,2,8:15 PM,9:21,MISS Cole 19' Jump Shot,,,,
+0021300713,180,4,0,2,8:15 PM,9:20,,,Monroe REBOUND (Off:2 Def:5),,
+0021300713,181,1,75,2,8:15 PM,9:14,,,Stuckey 1' Driving Finger Roll Layup (9 PTS),37 - 39,2
+0021300713,183,2,1,2,8:15 PM,9:03,MISS Wade 19' Jump Shot,,,,
+0021300713,184,4,0,2,8:15 PM,9:02,,,Monroe REBOUND (Off:2 Def:6),,
+0021300713,186,6,2,2,8:16 PM,8:58,Cole S.FOUL (P2.T3),,,,
+0021300713,187,9,4,2,8:16 PM,8:58,,,,,
+0021300713,191,3,11,2,8:19 PM,8:58,,,Bynum Free Throw 1 of 2 (1 PTS),38 - 39,1
+0021300713,193,3,12,2,8:19 PM,8:58,,,Bynum Free Throw 2 of 2 (2 PTS),39 - 39,TIE
+0021300713,195,2,1,2,8:20 PM,8:34,MISS Allen 25' 3PT Jump Shot,,,,
+0021300713,196,4,0,2,8:20 PM,8:33,Andersen REBOUND (Off:2 Def:1),,,,
+0021300713,197,2,1,2,8:20 PM,8:19,MISS Wade 6' Jump Shot,,,,
+0021300713,198,4,0,2,8:20 PM,8:18,,,Monroe REBOUND (Off:2 Def:7),,
+0021300713,199,2,5,2,8:20 PM,7:57,,,MISS Jerebko 2' Layup,,
+0021300713,200,4,0,2,8:20 PM,7:56,HEAT Rebound,,,,
+0021300713,201,8,0,2,8:21 PM,7:56,,,SUB: Jennings FOR Singler,,
+0021300713,202,2,1,2,8:21 PM,7:41,MISS Allen 7' Jump Shot,,,,
+0021300713,203,4,0,2,8:21 PM,7:40,,,Jerebko REBOUND (Off:0 Def:1),,
+0021300713,204,2,5,2,8:21 PM,7:30,,,MISS Stuckey 1' Layup,,
+0021300713,205,4,0,2,8:21 PM,7:29,Wade REBOUND (Off:0 Def:2),,,,
+0021300713,206,5,40,2,8:21 PM,7:21,Bosh Out of Bounds Lost Ball Turnover (P1.T6),,,,
+0021300713,207,8,0,2,8:22 PM,7:21,SUB: James FOR Allen,,,,
+0021300713,209,8,0,2,8:22 PM,7:20,,,SUB: Smith FOR Jerebko,,
+0021300713,210,2,1,2,8:22 PM,7:07,,,MISS Smith 15' Jump Shot,,
+0021300713,211,4,0,2,8:22 PM,7:06,James REBOUND (Off:0 Def:3),,,,
+0021300713,212,1,63,2,8:23 PM,6:56,James 14' Fadeaway Jumper (8 PTS),,,39 - 41,2
+0021300713,213,5,1,2,8:23 PM,6:42,Andersen STEAL (1 STL),,Bynum Bad Pass Turnover (P2.T4),,
+0021300713,214,5,1,2,8:23 PM,6:38,James Bad Pass Turnover (P1.T7),,Jennings STEAL (1 STL),,
+0021300713,215,1,5,2,8:23 PM,6:32,,,Monroe 1' Layup (11 PTS) (Jennings 2 AST),41 - 41,TIE
+0021300713,216,9,1,2,8:23 PM,6:24,HEAT Timeout: Regular (Full 2 Short 0),,,,
+0021300713,219,8,0,2,8:26 PM,6:24,SUB: Oden FOR Andersen,,,,
+0021300713,220,8,0,2,8:26 PM,6:24,SUB: Chalmers FOR Cole,,,,
+0021300713,221,2,1,2,8:26 PM,6:08,MISS Chalmers  3PT Jump Shot,,,,
+0021300713,222,4,0,2,8:26 PM,6:07,,,Stuckey REBOUND (Off:1 Def:2),,
+0021300713,223,2,5,2,8:26 PM,5:59,Chalmers BLOCK (1 BLK),,MISS Monroe 2' Layup,,
+0021300713,224,4,0,2,8:26 PM,5:58,,,Smith REBOUND (Off:2 Def:1),,
+0021300713,225,5,1,2,8:26 PM,5:55,Chalmers STEAL (1 STL),,Smith Bad Pass Turnover (P1.T5),,
+0021300713,226,1,7,2,8:26 PM,5:51,Wade 1' Dunk (16 PTS) (James 6 AST),,,41 - 43,2
+0021300713,227,5,1,2,8:27 PM,5:28,Oden STEAL (1 STL),,Smith Bad Pass Turnover (P2.T6),,
+0021300713,228,1,52,2,8:27 PM,5:24,James 1' Alley Oop Dunk (10 PTS) (Chalmers 2 AST),,,41 - 45,4
+0021300713,229,9,1,2,8:27 PM,5:20,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0021300713,231,6,11,2,8:27 PM,5:20,,,,,
+0021300713,234,8,0,2,8:29 PM,5:20,SUB: Cole FOR Wade,,,,
+0021300713,235,3,16,2,8:29 PM,5:20,MISS Bosh Free Throw Technical,,,,
+0021300713,236,4,1,2,8:29 PM,5:20,,,Pistons Rebound,,
+0021300713,237,1,1,2,8:30 PM,5:03,,,Smith 25' 3PT Jump Shot (5 PTS) (Bynum 1 AST),44 - 45,1
+0021300713,238,1,1,2,8:30 PM,4:42,Chalmers 9' Jump Shot (2 PTS) (James 7 AST),,,44 - 47,3
+0021300713,239,1,1,2,8:31 PM,4:36,,,Bynum 24' 3PT Jump Shot (5 PTS) (Jennings 3 AST),47 - 47,TIE
+0021300713,240,6,6,2,8:31 PM,4:36,Chalmers AWAY.FROM.PLAY.FOUL (P1.T4),,,,
+0021300713,241,18,0,2,8:31 PM,4:36,,,,,
+0021300713,242,3,10,2,8:33 PM,4:36,,,Jennings Free Throw 1 of 1 (14 PTS),48 - 47,-1
+0021300713,243,6,1,2,8:33 PM,4:23,,,Stuckey P.FOUL (P3.T2),,
+0021300713,244,8,0,2,8:33 PM,4:23,,,SUB: Singler FOR Stuckey,,
+0021300713,245,1,1,2,8:34 PM,4:14,Bosh 26' 3PT Jump Shot (12 PTS) (James 8 AST),,,48 - 50,2
+0021300713,246,2,56,2,8:34 PM,3:57,,,MISS Smith 9' Running Hook Shot,,
+0021300713,247,4,0,2,8:34 PM,3:56,Chalmers REBOUND (Off:0 Def:2),,,,
+0021300713,248,2,42,2,8:34 PM,3:52,MISS James  Driving Layup,,,,
+0021300713,250,4,0,2,8:34 PM,3:51,HEAT Rebound,,,,
+0021300713,251,6,3,2,8:34 PM,3:51,,,Monroe L.B.FOUL (P2.T3),,
+0021300713,252,1,42,2,8:35 PM,3:38,Bosh 2' Driving Layup (14 PTS) (Chalmers 3 AST),,,48 - 52,4
+0021300713,253,6,2,2,8:35 PM,3:38,,,Singler S.FOUL (P1.T4),,
+0021300713,254,3,10,2,8:35 PM,3:38,Bosh Free Throw 1 of 1 (15 PTS),,,48 - 53,5
+0021300713,257,6,2,2,8:36 PM,3:28,Oden S.FOUL (P1.PN),,,,
+0021300713,258,6,11,2,8:36 PM,3:28,,,Smith T.FOUL (P1.T4),,
+0021300713,259,3,16,2,8:36 PM,3:28,Chalmers Free Throw Technical (3 PTS),,,48 - 54,6
+0021300713,262,3,11,2,8:37 PM,3:28,,,Monroe Free Throw 1 of 2 (12 PTS),49 - 54,5
+0021300713,264,3,12,2,8:37 PM,3:28,,,Monroe Free Throw 2 of 2 (13 PTS),50 - 54,4
+0021300713,267,2,1,2,8:37 PM,3:06,MISS James 25' 3PT Jump Shot,,,,
+0021300713,268,4,0,2,8:37 PM,3:05,Bosh REBOUND (Off:3 Def:1),,,,
+0021300713,269,6,2,2,8:37 PM,3:00,,,Bynum S.FOUL (P1.PN),,
+0021300713,270,3,11,2,8:38 PM,3:00,James Free Throw 1 of 2 (11 PTS),,,50 - 55,5
+0021300713,272,3,12,2,8:38 PM,3:00,James Free Throw 2 of 2 (12 PTS),,,50 - 56,6
+0021300713,275,6,11,2,8:38 PM,2:51,,,Monroe T.FOUL (P2.PN),,
+0021300713,276,3,16,2,8:38 PM,2:51,Chalmers Free Throw Technical (4 PTS),,,50 - 57,7
+0021300713,278,8,0,2,8:39 PM,2:51,SUB: Wade FOR Cole,,,,
+0021300713,279,5,1,2,8:39 PM,2:44,Chalmers STEAL (2 STL),,Jennings Bad Pass Turnover (P1.T7),,
+0021300713,280,1,52,2,8:39 PM,2:39,James 1' Alley Oop Dunk (14 PTS) (Wade 4 AST),,,50 - 59,9
+0021300713,281,2,1,2,8:39 PM,2:22,,,MISS Smith 24' 3PT Jump Shot,,
+0021300713,282,4,0,2,8:39 PM,2:21,Wade REBOUND (Off:0 Def:3),,,,
+0021300713,283,5,8,2,8:40 PM,2:03,Oden 3 Second Violation Turnover (P1.T8),,,,
+0021300713,284,2,80,2,8:40 PM,1:43,,,MISS Jennings 24' 3PT Step Back Jump Shot,,
+0021300713,285,4,0,2,8:40 PM,1:42,Bosh REBOUND (Off:3 Def:2),,,,
+0021300713,286,2,5,2,8:40 PM,1:37,MISS Wade 2' Layup,,,,
+0021300713,287,4,0,2,8:40 PM,1:36,,,Smith REBOUND (Off:2 Def:2),,
+0021300713,288,5,1,2,8:41 PM,1:31,,,Smith Bad Pass Turnover (P3.T8),,
+0021300713,289,2,1,2,8:41 PM,1:16,MISS Bosh 25' 3PT Jump Shot,,,,
+0021300713,290,4,0,2,8:41 PM,1:15,,,Monroe REBOUND (Off:2 Def:8),,
+0021300713,291,2,1,2,8:41 PM,1:06,,,MISS Bynum 25' 3PT Jump Shot,,
+0021300713,292,4,0,2,8:41 PM,1:05,James REBOUND (Off:0 Def:4),,,,
+0021300713,293,1,66,2,8:41 PM,0:56,Chalmers 8' Jump Bank Shot (6 PTS) (Bosh 1 AST),,,50 - 61,11
+0021300713,294,6,2,2,8:42 PM,0:44,Oden S.FOUL (P2.PN),,,,
+0021300713,295,3,11,2,8:42 PM,0:44,,,Monroe Free Throw 1 of 2 (14 PTS),51 - 61,10
+0021300713,297,8,0,2,8:42 PM,0:44,SUB: Battier FOR Oden,,,,
+0021300713,298,3,12,2,8:42 PM,0:44,,,MISS Monroe Free Throw 2 of 2,,
+0021300713,300,4,0,2,8:43 PM,0:42,James REBOUND (Off:0 Def:5),,,,
+0021300713,301,1,5,2,8:43 PM,0:34,Wade 3' Layup (18 PTS) (Chalmers 4 AST),,,51 - 63,12
+0021300713,302,1,5,2,8:43 PM,0:27,,,Smith 1' Layup (7 PTS) (Bynum 2 AST),53 - 63,10
+0021300713,303,6,2,2,8:43 PM,0:27,Battier S.FOUL (P1.PN),,,,
+0021300713,305,8,0,2,8:43 PM,0:27,,,SUB: Jerebko FOR Monroe,,
+0021300713,306,8,0,2,8:43 PM,0:27,,,SUB: Caldwell-Pope FOR Bynum,,
+0021300713,307,3,10,2,8:43 PM,0:27,,,Smith Free Throw 1 of 1 (8 PTS),54 - 63,9
+0021300713,309,5,1,2,8:44 PM,0:08,Chalmers Bad Pass Turnover (P2.T9),,Jennings STEAL (2 STL),,
+0021300713,310,6,1,2,8:44 PM,0:06,Chalmers P.FOUL (P2.PN),,,,
+0021300713,311,3,11,2,8:44 PM,0:06,,,Jennings Free Throw 1 of 2 (15 PTS),55 - 63,8
+0021300713,314,8,0,2,8:45 PM,0:06,SUB: Allen FOR Battier,,,,
+0021300713,315,3,12,2,8:45 PM,0:06,,,MISS Jennings Free Throw 2 of 2,,
+0021300713,317,4,0,2,8:45 PM,0:05,,,Jerebko REBOUND (Off:1 Def:1),,
+0021300713,318,1,47,2,8:45 PM,0:02,,,Jerebko 15' Turnaround Jump Shot (2 PTS),57 - 63,6
+0021300713,319,2,1,2,8:45 PM,0:00,MISS James 40' 3PT Jump Shot,,,,
+0021300713,320,4,0,2,8:46 PM,0:00,HEAT Rebound,,,,
+0021300713,321,13,0,2,8:46 PM,0:00,,,,57 - 63,6
+0021300713,323,12,0,3,9:02 PM,12:00,,,,57 - 63,6
+0021300713,324,2,1,3,9:03 PM,11:34,,,MISS Jennings 25' 3PT Jump Shot,,
+0021300713,325,4,0,3,9:03 PM,11:33,James REBOUND (Off:0 Def:6),,,,
+0021300713,327,2,47,3,9:03 PM,11:12,MISS James 14' Turnaround Jump Shot,,,,
+0021300713,328,4,0,3,9:03 PM,11:11,,,Jennings REBOUND (Off:1 Def:1),,
+0021300713,329,1,5,3,9:04 PM,11:05,,,Smith 1' Layup (10 PTS) (Jennings 4 AST),59 - 63,4
+0021300713,330,2,63,3,9:04 PM,10:58,MISS James 12' Fadeaway Jumper,,,,
+0021300713,331,4,0,3,9:04 PM,10:57,,,Drummond REBOUND (Off:2 Def:1),,
+0021300713,332,5,1,3,9:04 PM,10:51,Chalmers STEAL (3 STL),,Jennings Bad Pass Turnover (P2.T9),,
+0021300713,333,6,2,3,9:04 PM,10:49,,,Caldwell-Pope S.FOUL (P2.T1),,
+0021300713,334,3,11,3,9:04 PM,10:49,James Free Throw 1 of 2 (15 PTS),,,59 - 64,5
+0021300713,336,3,12,3,9:04 PM,10:49,MISS James Free Throw 2 of 2,,,,
+0021300713,338,4,0,3,9:04 PM,10:48,,,Monroe REBOUND (Off:2 Def:9),,
+0021300713,339,2,1,3,9:05 PM,10:32,,,MISS Caldwell-Pope 12' Jump Shot,,
+0021300713,340,4,0,3,9:05 PM,10:31,Bosh REBOUND (Off:3 Def:3),,,,
+0021300713,341,5,1,3,9:05 PM,10:24,Bosh Bad Pass Turnover (P2.T10),,Jennings STEAL (3 STL),,
+0021300713,342,6,1,3,9:05 PM,10:22,Bosh P.FOUL (P2.T1),,,,
+0021300713,343,6,1,3,9:05 PM,10:12,Battier P.FOUL (P2.T2),,,,
+0021300713,344,1,5,3,9:06 PM,10:05,,,Drummond 1' Layup (6 PTS) (Monroe 1 AST),61 - 64,3
+0021300713,345,2,3,3,9:06 PM,9:42,MISS Bosh 8' Hook Shot,,,,
+0021300713,346,4,0,3,9:06 PM,9:41,,,Drummond REBOUND (Off:2 Def:2),,
+0021300713,347,2,7,3,9:06 PM,9:33,,,MISS Drummond 1' Dunk,,
+0021300713,348,4,0,3,9:06 PM,9:32,Wade REBOUND (Off:0 Def:4),,,,
+0021300713,349,1,57,3,9:06 PM,9:19,Wade 8' Driving Hook Shot (20 PTS),,,61 - 66,5
+0021300713,350,2,3,3,9:07 PM,9:05,,,MISS Smith 7' Hook Shot,,
+0021300713,351,4,0,3,9:07 PM,9:04,Wade REBOUND (Off:0 Def:5),,,,
+0021300713,352,1,7,3,9:07 PM,9:00,James 1' Dunk (17 PTS) (Wade 5 AST),,,61 - 68,7
+0021300713,353,2,1,3,9:07 PM,8:39,,,MISS Smith 17' Jump Shot,,
+0021300713,354,4,0,3,9:07 PM,8:37,,,Drummond REBOUND (Off:3 Def:2),,
+0021300713,355,6,2,3,9:07 PM,8:37,Bosh S.FOUL (P3.T3),,,,
+0021300713,356,3,11,3,9:07 PM,8:37,,,MISS Drummond Free Throw 1 of 2,,
+0021300713,357,4,1,3,9:07 PM,8:37,,,Pistons Rebound,,
+0021300713,358,3,12,3,9:08 PM,8:37,,,MISS Drummond Free Throw 2 of 2,,
+0021300713,360,4,0,3,9:08 PM,8:36,Bosh REBOUND (Off:3 Def:4),,,,
+0021300713,361,2,78,3,9:08 PM,8:19,MISS Battier 13' Floating Jump Shot,,,,
+0021300713,362,4,0,3,9:08 PM,8:18,Battier REBOUND (Off:1 Def:2),,,,
+0021300713,363,2,78,3,9:08 PM,8:13,MISS Chalmers 7' Floating Jump Shot,,,,
+0021300713,364,4,0,3,9:08 PM,8:11,,,Drummond REBOUND (Off:3 Def:3),,
+0021300713,365,6,1,3,9:08 PM,8:11,Chalmers P.FOUL (P3.T4),,,,
+0021300713,366,1,42,3,9:09 PM,7:51,,,Jennings 3' Driving Layup (17 PTS),63 - 68,5
+0021300713,367,6,2,3,9:09 PM,7:51,Chalmers S.FOUL (P4.PN),,,,
+0021300713,368,8,0,3,9:09 PM,7:51,SUB: Cole FOR Chalmers,,,,
+0021300713,369,3,10,3,9:09 PM,7:51,,,Jennings Free Throw 1 of 1 (18 PTS),64 - 68,4
+0021300713,371,2,1,3,9:10 PM,7:35,MISS Battier 24' 3PT Jump Shot,,,,
+0021300713,372,4,0,3,9:10 PM,7:34,,,Drummond REBOUND (Off:3 Def:4),,
+0021300713,373,2,1,3,9:10 PM,7:15,,,MISS Smith 8' Jump Shot,,
+0021300713,374,4,0,3,9:10 PM,7:14,James REBOUND (Off:0 Def:7),,,,
+0021300713,377,7,2,3,9:10 PM,7:09,,,Drummond Violation:Defensive Goaltending,,
+0021300713,375,1,42,3,9:10 PM,7:09,James 4' Driving Layup (19 PTS),,,64 - 70,6
+0021300713,376,6,2,3,9:10 PM,7:09,,,Smith S.FOUL (P2.T2),,
+0021300713,378,3,10,3,9:11 PM,7:09,James Free Throw 1 of 1 (20 PTS),,,64 - 71,7
+0021300713,380,9,1,3,9:11 PM,7:09,,,Pistons Timeout: Regular (Reg.3 Short 0),,
+0021300713,384,2,42,3,9:14 PM,6:56,James BLOCK (2 BLK),,MISS Monroe 1' Driving Layup,,
+0021300713,385,4,0,3,9:14 PM,6:55,,,Caldwell-Pope REBOUND (Off:1 Def:0),,
+0021300713,386,2,1,3,9:14 PM,6:48,,,MISS Jennings 24' 3PT Jump Shot,,
+0021300713,387,4,0,3,9:14 PM,6:47,,,Drummond REBOUND (Off:4 Def:4),,
+0021300713,388,5,1,3,9:14 PM,6:43,Battier STEAL (1 STL),,Drummond Bad Pass Turnover (P2.T10),,
+0021300713,389,2,75,3,9:14 PM,6:39,MISS Cole 2' Driving Finger Roll Layup,,,,
+0021300713,390,4,0,3,9:14 PM,6:38,James REBOUND (Off:1 Def:7),,,,
+0021300713,391,6,2,3,9:14 PM,6:31,,,Caldwell-Pope S.FOUL (P3.T3),,
+0021300713,392,3,11,3,9:14 PM,6:31,Wade Free Throw 1 of 2 (21 PTS),,,64 - 72,8
+0021300713,394,8,0,3,9:15 PM,6:31,,,SUB: Stuckey FOR Caldwell-Pope,,
+0021300713,395,3,12,3,9:15 PM,6:31,MISS Wade Free Throw 2 of 2,,,,
+0021300713,397,4,0,3,9:15 PM,6:30,,,Drummond REBOUND (Off:4 Def:5),,
+0021300713,398,5,1,3,9:15 PM,6:19,James STEAL (2 STL),,Jennings Bad Pass Turnover (P3.T11),,
+0021300713,399,1,1,3,9:15 PM,6:13,Cole  3PT Jump Shot (3 PTS) (James 9 AST),,,64 - 75,11
+0021300713,400,1,5,3,9:15 PM,5:51,,,Monroe 1' Layup (16 PTS) (Smith 4 AST),66 - 75,9
+0021300713,401,2,1,3,9:16 PM,5:28,MISS Battier 24' 3PT Jump Shot,,,,
+0021300713,402,4,0,3,9:16 PM,5:27,,,Stuckey REBOUND (Off:1 Def:3),,
+0021300713,403,2,42,3,9:16 PM,5:22,,,MISS Jennings 1' Driving Layup,,
+0021300713,405,4,0,3,9:16 PM,5:21,,,Drummond REBOUND (Off:5 Def:5),,
+0021300713,404,1,4,3,9:16 PM,5:20,,,Drummond 1' Tip Shot (8 PTS),68 - 75,7
+0021300713,406,9,1,3,9:16 PM,5:20,HEAT Timeout: Regular (Full 3 Short 0),,,,
+0021300713,409,8,0,3,9:18 PM,5:20,SUB: Oden FOR Bosh,,,,
+0021300713,410,1,7,3,9:19 PM,5:00,Oden 1' Dunk (2 PTS) (James 10 AST),,,68 - 77,9
+0021300713,411,5,1,3,9:19 PM,4:47,Oden STEAL (2 STL),,Smith Bad Pass Turnover (P4.T12),,
+0021300713,412,2,5,3,9:19 PM,4:43,MISS Cole 1' Layup,,,,
+0021300713,413,4,0,3,9:19 PM,4:42,,,Stuckey REBOUND (Off:1 Def:4),,
+0021300713,415,2,1,3,9:20 PM,4:19,,,MISS Monroe 8' Jump Shot,,
+0021300713,416,4,0,3,9:20 PM,4:17,,,Drummond REBOUND (Off:6 Def:5),,
+0021300713,417,8,0,3,9:20 PM,4:17,SUB: Allen FOR Wade,,,,
+0021300713,418,10,0,3,9:21 PM,4:17,Jump Ball Oden vs. Drummond: Tip to Smith,,,,
+0021300713,419,6,1,3,9:21 PM,4:11,James P.FOUL (P1.PN),,,,
+0021300713,420,3,11,3,9:21 PM,4:11,,,MISS Monroe Free Throw 1 of 2,,
+0021300713,421,4,1,3,9:21 PM,4:11,,,Pistons Rebound,,
+0021300713,422,3,12,3,9:21 PM,4:11,,,Monroe Free Throw 2 of 2 (17 PTS),69 - 77,8
+0021300713,424,2,1,3,9:22 PM,3:54,MISS James 20' Jump Shot,,,,
+0021300713,426,4,0,3,9:22 PM,3:53,Oden REBOUND (Off:1 Def:0),,,,
+0021300713,425,1,4,3,9:22 PM,3:52,Oden  Tip Shot (4 PTS),,,69 - 79,10
+0021300713,427,1,1,3,9:23 PM,3:26,,,Stuckey 26' 3PT Jump Shot (12 PTS) (Smith 5 AST),72 - 79,7
+0021300713,428,2,1,3,9:23 PM,3:04,MISS Allen 13' Jump Shot,,,,
+0021300713,429,4,0,3,9:23 PM,3:03,Oden REBOUND (Off:2 Def:0),,,,
+0021300713,431,5,15,3,9:23 PM,2:50,Oden Offensive Goaltending Turnover (P2.T11),,,,
+0021300713,432,8,0,3,9:24 PM,2:50,,,SUB: Singler FOR Monroe,,
+0021300713,433,5,4,3,9:24 PM,2:40,,,Stuckey Traveling Turnover (P1.T13),,
+0021300713,434,5,1,3,9:24 PM,2:24,Allen Bad Pass Turnover (P1.T12),,Smith STEAL (2 STL),,
+0021300713,435,1,52,3,9:24 PM,2:20,,,Smith 1' Alley Oop Dunk (12 PTS) (Jennings 5 AST),74 - 79,5
+0021300713,436,2,1,3,9:25 PM,2:00,MISS James 24' 3PT Jump Shot,,,,
+0021300713,437,4,0,3,9:25 PM,1:59,,,Stuckey REBOUND (Off:1 Def:5),,
+0021300713,438,2,79,3,9:25 PM,1:53,,,MISS Stuckey 13' Pullup Jump Shot,,
+0021300713,439,4,0,3,9:25 PM,1:52,Allen REBOUND (Off:0 Def:3),,,,
+0021300713,441,8,0,3,9:25 PM,1:37,SUB: Bosh FOR Battier,,,,
+0021300713,442,1,1,3,9:25 PM,1:31,James 21' Jump Shot (22 PTS),,,74 - 81,7
+0021300713,443,1,5,3,9:26 PM,1:22,,,Jennings 3' Layup (20 PTS),76 - 81,5
+0021300713,444,5,1,3,9:26 PM,1:05,Cole Bad Pass Turnover (P3.T13),,Drummond STEAL (1 STL),,
+0021300713,445,1,43,3,9:26 PM,1:00,,,Stuckey 2' Alley Oop Layup (14 PTS) (Drummond 1 AST),78 - 81,3
+0021300713,446,5,1,3,9:26 PM,0:44,Bosh Bad Pass Turnover (P3.T14),,Smith STEAL (3 STL),,
+0021300713,447,1,5,3,9:26 PM,0:41,,,Jennings 1' Layup (22 PTS) (Smith 6 AST),80 - 81,1
+0021300713,448,2,75,3,9:27 PM,0:28,MISS Cole 3' Driving Finger Roll Layup,,,,
+0021300713,449,4,0,3,9:27 PM,0:27,Oden REBOUND (Off:3 Def:0),,,,
+0021300713,450,2,7,3,9:27 PM,0:21,MISS Oden 2' Dunk,,Drummond BLOCK (1 BLK),,
+0021300713,451,4,0,3,9:27 PM,0:20,,,Smith REBOUND (Off:2 Def:3),,
+0021300713,452,6,26,3,9:27 PM,0:16,,,Stuckey Offensive Charge Foul (P4.T4),,
+0021300713,453,5,5,3,9:27 PM,0:16,,,Stuckey Foul Turnover (P2.T14),,
+0021300713,454,1,1,3,9:28 PM,0:00,Allen 24' 3PT Jump Shot (6 PTS) (James 11 AST),,,80 - 84,4
+0021300713,457,18,0,3,9:28 PM,0:00,,,,,
+0021300713,458,13,0,3,9:28 PM,0:00,,,,80 - 84,4
+0021300713,460,12,0,4,9:31 PM,12:00,,,,80 - 84,4
+0021300713,461,6,1,4,9:32 PM,11:46,,,Singler P.FOUL (P2.T1),,
+0021300713,462,2,1,4,9:32 PM,11:35,MISS Bosh 15' Jump Shot,,,,
+0021300713,463,4,0,4,9:32 PM,11:34,,,Bynum REBOUND (Off:0 Def:2),,
+0021300713,465,5,1,4,9:33 PM,11:13,Bosh STEAL (1 STL),,Stuckey Bad Pass Turnover (P3.T15),,
+0021300713,466,1,1,4,9:33 PM,10:56,Allen  3PT Jump Shot (9 PTS) (Cole 2 AST),,,80 - 87,7
+0021300713,467,6,1,4,9:34 PM,10:32,Cole P.FOUL (P3.T1),,,,
+0021300713,468,8,0,4,9:34 PM,10:32,,,SUB: Monroe FOR Drummond,,
+0021300713,469,5,1,4,9:34 PM,10:29,,,Monroe Bad Pass Turnover (P2.T16),,
+0021300713,470,5,1,4,9:34 PM,10:15,Allen Bad Pass Turnover (P2.T15),,,,
+0021300713,471,5,4,4,9:35 PM,9:58,,,Jerebko Traveling Turnover (P1.T17),,
+0021300713,472,1,79,4,9:35 PM,9:45,Wade 17' Pullup Jump Shot (23 PTS),,,80 - 89,9
+0021300713,473,9,1,4,9:35 PM,9:45,,,Pistons Timeout: Regular (Reg.4 Short 0),,
+0021300713,477,1,79,4,9:38 PM,9:23,,,Stuckey 19' Pullup Jump Shot (16 PTS),82 - 89,7
+0021300713,478,2,1,4,9:38 PM,9:02,MISS Wade 19' Jump Shot,,,,
+0021300713,479,4,0,4,9:38 PM,9:01,,,Jerebko REBOUND (Off:1 Def:2),,
+0021300713,480,6,1,4,9:39 PM,8:48,Cole P.FOUL (P4.T2),,,,
+0021300713,481,8,0,4,9:39 PM,8:48,,,SUB: Jennings FOR Bynum,,
+0021300713,482,2,3,4,9:39 PM,8:41,,,MISS Jerebko 5' Hook Shot,,
+0021300713,483,4,0,4,9:39 PM,8:40,Cole REBOUND (Off:0 Def:1),,,,
+0021300713,484,5,1,4,9:39 PM,8:28,Wade Bad Pass Turnover (P3.T16),,Singler STEAL (1 STL),,
+0021300713,485,5,1,4,9:39 PM,8:24,Allen STEAL (1 STL),,Singler Bad Pass Turnover (P1.T18),,
+0021300713,486,1,5,4,9:39 PM,8:16,Bosh 1' Layup (17 PTS) (Allen 1 AST),,,82 - 91,9
+0021300713,487,1,63,4,9:40 PM,7:59,,,Singler 12' Fadeaway Jumper (2 PTS),84 - 91,7
+0021300713,488,2,1,4,9:40 PM,7:41,MISS Allen 20' Jump Shot,,,,
+0021300713,489,4,0,4,9:40 PM,7:40,,,Jerebko REBOUND (Off:1 Def:3),,
+0021300713,490,5,1,4,9:40 PM,7:34,Andersen STEAL (2 STL),,Stuckey Bad Pass Turnover (P4.T19),,
+0021300713,491,2,1,4,9:41 PM,7:16,MISS Wade 19' Jump Shot,,,,
+0021300713,492,4,0,4,9:41 PM,7:15,,,Jerebko REBOUND (Off:1 Def:4),,
+0021300713,493,2,80,4,9:41 PM,7:03,,,MISS Jennings 15' Step Back Jump Shot,,
+0021300713,494,4,0,4,9:41 PM,7:02,Cole REBOUND (Off:0 Def:2),,,,
+0021300713,495,6,16,4,9:41 PM,6:58,,,,,
+0021300713,496,9,1,4,9:41 PM,6:58,HEAT Timeout: Regular (Full 4 Short 0),,,,
+0021300713,498,8,0,4,9:43 PM,6:58,,,SUB: Smith FOR Jerebko,,
+0021300713,499,8,0,4,9:43 PM,6:58,SUB: James FOR Bosh,,,,
+0021300713,500,5,8,4,9:44 PM,6:46,Andersen 3 Second Violation Turnover (P1.T17),,,,
+0021300713,501,6,2,4,9:44 PM,6:33,Cole S.FOUL (P5.T3),,,,
+0021300713,502,3,11,4,9:45 PM,6:33,,,MISS Jennings Free Throw 1 of 2,,
+0021300713,503,4,1,4,9:45 PM,6:33,,,Pistons Rebound,,
+0021300713,504,8,0,4,9:45 PM,6:33,SUB: Chalmers FOR Cole,,,,
+0021300713,505,3,12,4,9:45 PM,6:33,,,Jennings Free Throw 2 of 2 (23 PTS),85 - 91,6
+0021300713,507,2,1,4,9:45 PM,6:18,MISS Andersen 20' Jump Shot,,,,
+0021300713,508,4,0,4,9:45 PM,6:17,HEAT Rebound,,,,
+0021300713,509,6,3,4,9:45 PM,6:17,,,Stuckey L.B.FOUL (P5.T2),,
+0021300713,510,8,0,4,9:46 PM,6:17,,,SUB: Drummond FOR Monroe,,
+0021300713,511,2,75,4,9:46 PM,6:04,MISS James 2' Driving Finger Roll Layup,,,,
+0021300713,512,4,0,4,9:46 PM,6:03,,,Smith REBOUND (Off:2 Def:4),,
+0021300713,513,5,40,4,9:46 PM,6:01,,,Smith Out of Bounds Lost Ball Turnover (P5.T20),,
+0021300713,514,6,1,4,9:47 PM,5:53,,,Jennings P.FOUL (P1.T3),,
+0021300713,515,1,66,4,9:47 PM,5:44,Wade 10' Jump Bank Shot (25 PTS),,,85 - 93,8
+0021300713,516,2,1,4,9:47 PM,5:31,,,MISS Stuckey 25' 3PT Jump Shot,,
+0021300713,517,4,0,4,9:47 PM,5:30,Wade REBOUND (Off:0 Def:6),,,,
+0021300713,518,2,1,4,9:48 PM,5:10,MISS Chalmers 25' 3PT Jump Shot,,,,
+0021300713,519,4,0,4,9:48 PM,5:09,Wade REBOUND (Off:1 Def:6),,,,
+0021300713,520,6,1,4,9:48 PM,5:09,,,Singler P.FOUL (P3.T4),,
+0021300713,521,1,82,4,9:48 PM,4:49,Chalmers 3' Driving Bank Shot (8 PTS),,,85 - 95,10
+0021300713,522,5,1,4,9:49 PM,4:33,,,Smith Bad Pass Turnover (P6.T21),,
+0021300713,523,2,78,4,9:49 PM,4:18,MISS Chalmers 5' Floating Jump Shot,,Drummond BLOCK (2 BLK),,
+0021300713,524,4,0,4,9:49 PM,4:17,Wade REBOUND (Off:2 Def:6),,,,
+0021300713,525,1,1,4,9:49 PM,4:12,Wade 24' 3PT Jump Shot (28 PTS),,,85 - 98,13
+0021300713,526,9,1,4,9:49 PM,4:11,,,Pistons Timeout: Regular (Reg.5 Short 0),,
+0021300713,530,2,1,4,9:52 PM,3:58,,,MISS Smith 21' Jump Shot,,
+0021300713,531,4,0,4,9:52 PM,3:57,,,Jennings REBOUND (Off:2 Def:1),,
+0021300713,532,2,1,4,9:52 PM,3:51,,,MISS Singler 25' 3PT Jump Shot,,
+0021300713,533,4,0,4,9:52 PM,3:50,Wade REBOUND (Off:2 Def:7),,,,
+0021300713,534,1,57,4,9:52 PM,3:41,Wade 8' Driving Hook Shot (30 PTS),,,85 - 100,15
+0021300713,535,6,1,4,9:52 PM,3:29,Chalmers P.FOUL (P5.T4),,,,
+0021300713,536,3,13,4,9:53 PM,3:29,,,Jennings Free Throw 1 of 3 (24 PTS),86 - 100,14
+0021300713,538,3,14,4,9:53 PM,3:29,,,Jennings Free Throw 2 of 3 (25 PTS),87 - 100,13
+0021300713,540,8,0,4,9:53 PM,3:29,SUB: Bosh FOR Chalmers,,,,
+0021300713,541,3,15,4,9:53 PM,3:29,,,Jennings Free Throw 3 of 3 (26 PTS),88 - 100,12
+0021300713,543,5,1,4,9:54 PM,3:13,Wade Bad Pass Turnover (P4.T18),,,,
+0021300713,545,2,1,4,9:54 PM,2:56,,,MISS Smith 13' Jump Shot,,
+0021300713,546,4,0,4,9:54 PM,2:55,Allen REBOUND (Off:0 Def:4),,,,
+0021300713,548,5,2,4,9:54 PM,2:41,Wade Lost Ball Turnover (P5.T19),,Singler STEAL (2 STL),,
+0021300713,549,1,5,4,9:54 PM,2:38,,,Stuckey 2' Layup (18 PTS) (Singler 1 AST),90 - 100,10
+0021300713,550,2,1,4,9:55 PM,2:10,MISS Allen 6' Jump Shot,,,,
+0021300713,551,4,0,4,9:55 PM,2:09,HEAT Rebound,,,,
+0021300713,552,1,79,4,9:55 PM,1:49,James 13' Pullup Jump Shot (24 PTS),,,90 - 102,12
+0021300713,553,1,5,4,9:56 PM,1:44,,,Drummond 1' Layup (10 PTS) (Jennings 6 AST),92 - 102,10
+0021300713,554,2,63,4,9:56 PM,1:22,MISS James 16' Fadeaway Jumper,,,,
+0021300713,555,4,0,4,9:56 PM,1:21,,,Stuckey REBOUND (Off:1 Def:6),,
+0021300713,557,2,1,4,9:56 PM,1:08,,,MISS Smith 24' 3PT Jump Shot,,
+0021300713,558,4,0,4,9:56 PM,1:07,,,Jennings REBOUND (Off:3 Def:1),,
+0021300713,559,1,47,4,9:57 PM,1:00,,,Stuckey 3' Turnaround Jump Shot (20 PTS) (Jennings 7 AST),94 - 102,8
+0021300713,560,9,1,4,9:57 PM,0:49,HEAT Timeout: Regular (Full 5 Short 0),,,,
+0021300713,564,5,1,4,9:59 PM,0:42,Wade Bad Pass Turnover (P6.T20),,Drummond STEAL (2 STL),,
+0021300713,565,1,50,4,9:59 PM,0:38,,,Drummond 1' Running Dunk (12 PTS),96 - 102,6
+0021300713,566,9,2,4,9:59 PM,0:38,HEAT Timeout: Short (Full 5 Short 1),,,,
+0021300713,568,8,0,4,10:01 PM,0:38,SUB: Chalmers FOR Andersen,,,,
+0021300713,569,2,1,4,10:01 PM,0:18,MISS James 22' Jump Shot,,,,
+0021300713,570,4,0,4,10:01 PM,0:17,,,Drummond REBOUND (Off:6 Def:6),,
+0021300713,571,9,1,4,10:01 PM,0:17,,,Pistons Timeout: Regular (Reg.6 Short 0),,
+0021300713,574,8,0,4,10:03 PM,0:17,SUB: Andersen FOR Allen,,,,
+0021300713,575,2,1,4,10:03 PM,0:12,,,MISS Smith 26' 3PT Jump Shot,,
+0021300713,576,4,0,4,10:03 PM,0:11,Wade REBOUND (Off:2 Def:8),,,,
+0021300713,577,13,0,4,10:03 PM,0:00,,,,96 - 102,6

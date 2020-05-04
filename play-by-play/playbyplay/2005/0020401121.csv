@@ -1,0 +1,428 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020401121,0,12,0,1,4:00 AM,12:00,,,,,
+0020401121,1,10,0,1,7:10 PM,12:00,Jump Ball Cato vs. Wallace: Tip to Wallace,,,,
+0020401121,2,6,1,1,7:10 PM,11:45,Cato P.FOUL (P1.T1),,,,
+0020401121,3,2,63,1,7:11 PM,11:32,,,MISS Wallace 16' Fadeaway Jumper,,
+0020401121,4,4,0,1,7:11 PM,11:30,Augmon REBOUND (Off:0 Def:1),,,,
+0020401121,5,5,2,1,7:11 PM,11:18,Francis Lost Ball Turnover (P1.T1),,Billups STEAL (1 STL),,
+0020401121,6,1,1,1,7:11 PM,11:05,,,Hamilton 12' Jump Shot (2 PTS) (Wallace 1 AST),2 - 0,-2
+0020401121,7,1,1,1,7:11 PM,10:49,Augmon 15' Jump Shot (2 PTS),,,2 - 2,TIE
+0020401121,8,2,1,1,7:12 PM,10:30,,,MISS Wallace 16' Jump Shot,,
+0020401121,9,4,0,1,7:12 PM,10:29,Cato REBOUND (Off:0 Def:1),,,,
+0020401121,10,6,1,1,7:12 PM,10:17,,,Wallace P.FOUL (P1.T1),,
+0020401121,11,1,1,1,7:12 PM,10:10,Stevenson 17' Jump Shot (2 PTS) (Francis 1 AST),,,2 - 4,2
+0020401121,12,1,1,1,7:13 PM,9:52,,,Wallace 13' Jump Shot (2 PTS) (Hamilton 1 AST),4 - 4,TIE
+0020401121,13,5,4,1,7:13 PM,9:37,Augmon Traveling Turnover (P1.T2),,,,
+0020401121,14,2,5,1,7:13 PM,9:23,Augmon BLOCK (1 BLK),,MISS Wallace  Layup,,
+0020401121,15,4,0,1,7:13 PM,9:20,Cato REBOUND (Off:0 Def:2),,,,
+0020401121,16,2,3,1,7:13 PM,9:16,MISS Howard 4' Hook Shot,,Wallace BLOCK (1 BLK),,
+0020401121,17,4,0,1,7:14 PM,9:14,,,Prince REBOUND (Off:0 Def:1),,
+0020401121,18,6,2,1,7:14 PM,9:09,Howard S.FOUL (P1.T2),,,,
+0020401121,19,3,11,1,7:14 PM,9:09,,,MISS Wallace Free Throw 1 of 2,,
+0020401121,20,4,1,1,7:14 PM,9:09,,,Pistons Rebound,,
+0020401121,21,3,12,1,7:14 PM,9:09,,,Wallace Free Throw 2 of 2 (1 PTS),5 - 4,-1
+0020401121,22,5,1,1,7:15 PM,8:48,Francis Bad Pass Turnover (P2.T3),,Hamilton STEAL (1 STL),,
+0020401121,23,5,1,1,7:15 PM,8:44,,,Hamilton Bad Pass Turnover (P1.T1),,
+0020401121,24,1,1,1,7:15 PM,8:29,Augmon 12' Jump Shot (4 PTS) (Francis 2 AST),,,5 - 6,1
+0020401121,25,6,1,1,7:15 PM,8:17,Augmon P.FOUL (P1.T3),,,,
+0020401121,26,1,42,1,7:16 PM,8:10,,,Billups  Driving Layup (2 PTS),7 - 6,-1
+0020401121,27,1,1,1,7:16 PM,7:59,Francis 11' Jump Shot (2 PTS) (Stevenson 1 AST),,,7 - 8,1
+0020401121,28,1,1,1,7:16 PM,7:41,,,Wallace 25' 3PT Jump Shot (5 PTS) (Billups 1 AST),10 - 8,-2
+0020401121,29,9,1,1,7:17 PM,7:34,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0020401121,30,2,1,1,7:20 PM,7:24,MISS Stevenson 17' Jump Shot,,,,
+0020401121,31,4,0,1,7:20 PM,7:23,,,Wallace REBOUND (Off:0 Def:1),,
+0020401121,32,1,8,1,7:20 PM,7:08,,,Wallace  Slam Dunk (3 PTS) (Wallace 1 AST),12 - 8,-4
+0020401121,33,2,63,1,7:20 PM,6:47,MISS Cato 14' Fadeaway Jumper,,,,
+0020401121,34,4,0,1,7:20 PM,6:45,,,Prince REBOUND (Off:0 Def:2),,
+0020401121,35,5,1,1,7:21 PM,6:31,Francis STEAL (1 STL),,Hamilton Bad Pass Turnover (P2.T2),,
+0020401121,36,1,42,1,7:21 PM,6:26,Francis  Driving Layup (4 PTS),,,12 - 10,-2
+0020401121,37,2,5,1,7:21 PM,6:03,,,MISS Wallace  Layup,,
+0020401121,38,4,0,1,7:21 PM,6:02,Howard REBOUND (Off:0 Def:1),,,,
+0020401121,39,2,5,1,7:21 PM,5:57,MISS Stevenson  Layup,,,,
+0020401121,40,4,0,1,7:21 PM,5:57,MAGIC Rebound,,,,
+0020401121,41,2,5,1,7:22 PM,5:52,MISS Stevenson  Layup,,,,
+0020401121,43,4,0,1,7:22 PM,5:51,Howard REBOUND (Off:1 Def:1),,,,
+0020401121,42,1,7,1,7:22 PM,5:51,Howard  Dunk (2 PTS),,,12 - 12,TIE
+0020401121,44,6,2,1,7:22 PM,5:51,,,Wallace S.FOUL (P1.T2),,
+0020401121,45,3,10,1,7:22 PM,5:51,MISS Howard Free Throw 1 of 1,,,,
+0020401121,46,4,0,1,7:22 PM,5:48,,,Prince REBOUND (Off:0 Def:3),,
+0020401121,47,2,5,1,7:22 PM,5:40,,,MISS Wallace  Layup,,
+0020401121,49,4,0,1,7:22 PM,5:38,,,Wallace REBOUND (Off:1 Def:0),,
+0020401121,48,1,64,1,7:22 PM,5:38,,,Wallace  Follow Up Dunk (5 PTS),14 - 12,-2
+0020401121,51,8,0,1,7:23 PM,5:32,,,SUB: Hunter FOR Billups,,
+0020401121,52,5,2,1,7:24 PM,5:14,Howard Lost Ball Turnover (P1.T4),,Wallace STEAL (1 STL),,
+0020401121,53,1,1,1,7:25 PM,4:55,,,Prince 19' Jump Shot (2 PTS) (Hunter 1 AST),16 - 12,-4
+0020401121,54,2,1,1,7:25 PM,4:46,MISS Francis 26' 3PT Jump Shot,,,,
+0020401121,55,4,0,1,7:25 PM,4:44,,,Wallace REBOUND (Off:0 Def:2),,
+0020401121,56,6,2,1,7:26 PM,4:30,Stevenson S.FOUL (P1.T4),,,,
+0020401121,57,3,11,1,7:26 PM,4:30,,,Hamilton Free Throw 1 of 2 (3 PTS),17 - 12,-5
+0020401121,58,3,12,1,7:26 PM,4:30,,,MISS Hamilton Free Throw 2 of 2,,
+0020401121,59,4,0,1,7:26 PM,4:29,Francis REBOUND (Off:0 Def:1),,,,
+0020401121,60,2,1,1,7:26 PM,4:18,MISS Francis 21' Jump Shot,,,,
+0020401121,61,4,0,1,7:26 PM,4:15,,,Hamilton REBOUND (Off:0 Def:1),,
+0020401121,62,1,1,1,7:27 PM,3:59,,,Prince 19' Jump Shot (4 PTS) (Wallace 2 AST),19 - 12,-7
+0020401121,63,2,1,1,7:27 PM,3:44,MISS Stevenson 9' Jump Shot,,,,
+0020401121,64,4,0,1,7:27 PM,3:42,,,Hamilton REBOUND (Off:0 Def:2),,
+0020401121,65,1,5,1,7:27 PM,3:37,,,Prince  Layup (6 PTS) (Hunter 2 AST),21 - 12,-9
+0020401121,66,5,4,1,7:28 PM,3:31,Howard Traveling Turnover (P2.T5),,,,
+0020401121,67,8,0,1,7:28 PM,3:31,SUB: Nelson FOR Augmon,,,,
+0020401121,68,2,1,1,7:28 PM,3:14,,,MISS Prince 26' 3PT Jump Shot,,
+0020401121,69,4,0,1,7:28 PM,3:12,Cato REBOUND (Off:0 Def:3),,,,
+0020401121,70,5,1,1,7:28 PM,3:01,Nelson Bad Pass Turnover (P1.T6),,Prince STEAL (1 STL),,
+0020401121,71,6,2,1,7:28 PM,2:59,Francis S.FOUL (P1.PN),,,,
+0020401121,72,9,1,1,7:29 PM,2:59,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0020401121,74,8,0,1,7:31 PM,2:59,SUB: Battie FOR Cato,,,,
+0020401121,75,3,11,1,7:32 PM,2:59,,,Prince Free Throw 1 of 2 (7 PTS),22 - 12,-10
+0020401121,76,3,12,1,7:32 PM,2:59,,,Prince Free Throw 2 of 2 (8 PTS),23 - 12,-11
+0020401121,77,2,1,1,7:32 PM,2:46,MISS Nelson 28' 3PT Jump Shot,,,,
+0020401121,78,4,0,1,7:32 PM,2:44,,,Wallace REBOUND (Off:0 Def:3),,
+0020401121,79,1,47,1,7:32 PM,2:33,,,Prince 13' Turnaround Jump Shot (10 PTS),25 - 12,-13
+0020401121,80,1,5,1,7:33 PM,2:15,Stevenson  Layup (4 PTS) (Battie 1 AST),,,25 - 14,-11
+0020401121,81,1,51,1,7:33 PM,1:53,,,Wallace  Reverse Dunk (7 PTS) (Hamilton 2 AST),27 - 14,-13
+0020401121,82,1,5,1,7:33 PM,1:32,Francis  Layup (6 PTS) (Nelson 1 AST),,,27 - 16,-11
+0020401121,83,2,3,1,7:34 PM,1:10,,,MISS Prince 8' Hook Shot,,
+0020401121,84,4,0,1,7:34 PM,1:08,Stevenson REBOUND (Off:0 Def:1),,,,
+0020401121,85,1,1,1,7:34 PM,0:58,Stevenson 16' Jump Shot (6 PTS) (Francis 3 AST),,,27 - 18,-9
+0020401121,86,2,1,1,7:34 PM,0:43,,,MISS Prince 19' Jump Shot,,
+0020401121,87,4,0,1,7:34 PM,0:42,Battie REBOUND (Off:0 Def:1),,,,
+0020401121,88,1,5,1,7:34 PM,0:39,Francis  Layup (8 PTS) (Battie 2 AST),,,27 - 20,-7
+0020401121,89,6,2,1,7:34 PM,0:39,,,Hamilton S.FOUL (P1.T3),,
+0020401121,90,8,0,1,7:35 PM,0:39,,,SUB: McDyess FOR Wallace,,
+0020401121,91,8,0,1,7:35 PM,0:39,,,SUB: Arroyo FOR Hunter,,
+0020401121,92,3,10,1,7:35 PM,0:39,Francis Free Throw 1 of 1 (9 PTS),,,27 - 21,-6
+0020401121,93,2,1,1,7:36 PM,0:31,,,MISS Arroyo 17' Jump Shot,,
+0020401121,94,4,0,1,7:36 PM,0:29,Howard REBOUND (Off:1 Def:2),,,,
+0020401121,95,1,5,1,7:36 PM,0:27,Francis  Layup (11 PTS) (Howard 1 AST),,,27 - 23,-4
+0020401121,96,2,5,1,7:36 PM,0:16,,,MISS Wallace  Layup,,
+0020401121,97,4,0,1,7:36 PM,0:15,,,Prince REBOUND (Off:1 Def:3),,
+0020401121,98,6,2,1,7:36 PM,0:15,Nelson S.FOUL (P1.PN),,,,
+0020401121,99,3,11,1,7:36 PM,0:15,,,Prince Free Throw 1 of 2 (11 PTS),28 - 23,-5
+0020401121,100,8,0,1,7:37 PM,0:15,,,SUB: Hunter FOR Hamilton,,
+0020401121,101,3,12,1,7:37 PM,0:15,,,Prince Free Throw 2 of 2 (12 PTS),29 - 23,-6
+0020401121,102,2,1,1,7:37 PM,0:01,MISS Nelson 26' 3PT Jump Shot,,Wallace BLOCK (1 BLK),,
+0020401121,103,4,0,1,7:37 PM,0:00,,,Wallace REBOUND (Off:1 Def:1),,
+0020401121,105,13,0,1,7:37 PM,0:00,,,,29 - 23,-6
+0020401121,106,12,0,2,7:41 PM,12:00,,,,29 - 23,-6
+0020401121,107,2,1,2,7:41 PM,11:45,MISS Jones 16' Jump Shot,,,,
+0020401121,108,4,0,2,7:41 PM,11:43,,,Arroyo REBOUND (Off:0 Def:1),,
+0020401121,109,1,5,2,7:41 PM,11:29,,,Hamilton  Layup (5 PTS) (Arroyo 1 AST),31 - 23,-8
+0020401121,110,2,1,2,7:42 PM,11:13,MISS Battie 14' Jump Shot,,,,
+0020401121,111,4,0,2,7:42 PM,11:11,,,McDyess REBOUND (Off:0 Def:1),,
+0020401121,112,1,1,2,7:42 PM,10:49,,,Hamilton 19' Jump Shot (7 PTS) (Prince 1 AST),33 - 23,-10
+0020401121,113,1,1,2,7:43 PM,10:28,Nelson 25' 3PT Jump Shot (3 PTS) (Francis 4 AST),,,33 - 26,-7
+0020401121,114,2,1,2,7:43 PM,10:01,,,MISS Wallace 17' Jump Shot,,
+0020401121,115,4,0,2,7:43 PM,9:59,,,McDyess REBOUND (Off:1 Def:1),,
+0020401121,116,2,44,2,7:43 PM,9:47,,,MISS Arroyo  Reverse Layup,,
+0020401121,117,4,0,2,7:43 PM,9:46,Jones REBOUND (Off:0 Def:1),,,,
+0020401121,118,1,5,2,7:43 PM,9:36,Kasun  Layup (2 PTS) (Nelson 2 AST),,,33 - 28,-5
+0020401121,119,6,2,2,7:44 PM,9:17,Jones S.FOUL (P1.T1),,,,
+0020401121,120,8,0,2,7:44 PM,9:17,,,SUB: Billups FOR Hamilton,,
+0020401121,121,3,11,2,7:44 PM,9:17,,,Prince Free Throw 1 of 2 (13 PTS),34 - 28,-6
+0020401121,122,8,0,2,7:44 PM,9:17,SUB: Barrett FOR Nelson,,,,
+0020401121,123,3,12,2,7:44 PM,9:17,,,Prince Free Throw 2 of 2 (14 PTS),35 - 28,-7
+0020401121,124,2,1,2,7:45 PM,9:01,MISS Jones 16' Jump Shot,,Wallace BLOCK (2 BLK),,
+0020401121,125,4,0,2,7:45 PM,8:58,,,McDyess REBOUND (Off:1 Def:2),,
+0020401121,126,5,1,2,7:45 PM,8:46,Kasun STEAL (1 STL),,Arroyo Bad Pass Turnover (P1.T3),,
+0020401121,127,1,5,2,7:45 PM,8:40,Kasun  Layup (4 PTS) (Francis 5 AST),,,35 - 30,-5
+0020401121,128,2,1,2,7:45 PM,8:22,Jones BLOCK (1 BLK),,MISS Prince 12' Jump Shot,,
+0020401121,129,4,0,2,7:45 PM,8:20,Kasun REBOUND (Off:0 Def:1),,,,
+0020401121,130,6,2,2,7:46 PM,8:08,,,McDyess S.FOUL (P1.T1),,
+0020401121,131,9,4,2,7:46 PM,8:08,,,,,
+0020401121,133,8,0,2,7:48 PM,8:08,,,SUB: Wallace FOR Wallace,,
+0020401121,134,8,0,2,7:48 PM,8:08,,,SUB: Hamilton FOR Arroyo,,
+0020401121,135,8,0,2,7:49 PM,8:08,SUB: Howard FOR Battie,,,,
+0020401121,136,3,11,2,7:49 PM,8:08,Kasun Free Throw 1 of 2 (5 PTS),,,35 - 31,-4
+0020401121,137,3,12,2,7:49 PM,8:08,Kasun Free Throw 2 of 2 (6 PTS),,,35 - 32,-3
+0020401121,139,7,2,2,7:50 PM,7:54,Howard Violation:Defensive Goaltending,,,,
+0020401121,138,1,1,2,7:50 PM,7:54,,,Hamilton 10' Jump Shot (9 PTS),37 - 32,-5
+0020401121,140,2,3,2,7:50 PM,7:39,MISS Howard 9' Hook Shot,,,,
+0020401121,141,4,0,2,7:50 PM,7:38,,,Hamilton REBOUND (Off:0 Def:3),,
+0020401121,142,2,5,2,7:50 PM,7:31,,,MISS McDyess  Layup,,
+0020401121,143,4,0,2,7:50 PM,7:29,Barrett REBOUND (Off:0 Def:1),,,,
+0020401121,144,2,66,2,7:50 PM,7:23,MISS Francis 17' Jump Bank Shot,,,,
+0020401121,145,4,0,2,7:50 PM,7:21,,,Prince REBOUND (Off:1 Def:4),,
+0020401121,146,2,5,2,7:50 PM,7:15,,,MISS Billups  Layup,,
+0020401121,147,4,0,2,7:50 PM,7:14,Jones REBOUND (Off:0 Def:2),,,,
+0020401121,148,5,1,2,7:51 PM,6:52,Barrett Bad Pass Turnover (P1.T7),,Hamilton STEAL (2 STL),,
+0020401121,149,2,1,2,7:51 PM,6:47,,,MISS Billups 17' Jump Shot,,
+0020401121,150,4,0,2,7:51 PM,6:45,,,Prince REBOUND (Off:2 Def:4),,
+0020401121,151,6,2,2,7:51 PM,6:45,Kasun S.FOUL (P1.T2),,,,
+0020401121,152,3,11,2,7:51 PM,6:45,,,Prince Free Throw 1 of 2 (15 PTS),38 - 32,-6
+0020401121,153,8,0,2,7:51 PM,6:45,SUB: Stevenson FOR Jones,,,,
+0020401121,154,3,12,2,7:51 PM,6:45,,,MISS Prince Free Throw 2 of 2,,
+0020401121,155,4,0,2,7:51 PM,6:43,Howard REBOUND (Off:1 Def:3),,,,
+0020401121,156,2,1,2,7:52 PM,6:36,MISS Barrett 17' Jump Shot,,,,
+0020401121,157,4,0,2,7:52 PM,6:34,,,Wallace REBOUND (Off:0 Def:4),,
+0020401121,158,1,5,2,7:52 PM,6:25,,,Prince  Layup (17 PTS),40 - 32,-8
+0020401121,159,1,1,2,7:52 PM,6:06,Stevenson 19' Jump Shot (8 PTS),,,40 - 34,-6
+0020401121,160,6,1,2,7:52 PM,5:50,Barrett P.FOUL (P1.T3),,,,
+0020401121,161,9,1,2,7:52 PM,5:50,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0020401121,163,8,0,2,7:55 PM,5:50,SUB: Cato FOR Kasun,,,,
+0020401121,164,8,0,2,7:55 PM,5:50,SUB: Nelson FOR Barrett,,,,
+0020401121,165,8,0,2,7:55 PM,5:50,,,SUB: Hunter FOR Prince,,
+0020401121,166,2,5,2,7:56 PM,5:35,Howard BLOCK (1 BLK),,MISS Hunter  Layup,,
+0020401121,167,4,0,2,7:56 PM,5:32,,,McDyess REBOUND (Off:2 Def:2),,
+0020401121,168,2,5,2,7:56 PM,5:30,,,MISS McDyess  Layup,,
+0020401121,169,4,0,2,7:56 PM,5:29,Nelson REBOUND (Off:0 Def:1),,,,
+0020401121,170,1,1,2,7:56 PM,5:25,Nelson 17' Jump Shot (5 PTS) (Stevenson 2 AST),,,40 - 36,-4
+0020401121,171,2,1,2,7:56 PM,5:09,Howard BLOCK (2 BLK),,MISS McDyess 14' Jump Shot,,
+0020401121,172,4,0,2,7:56 PM,5:07,Howard REBOUND (Off:1 Def:4),,,,
+0020401121,173,1,8,2,7:57 PM,4:59,Howard  Slam Dunk (4 PTS) (Stevenson 3 AST),,,40 - 38,-2
+0020401121,174,2,1,2,7:57 PM,4:34,,,MISS McDyess 16' Jump Shot,,
+0020401121,175,4,0,2,7:57 PM,4:33,Cato REBOUND (Off:0 Def:4),,,,
+0020401121,176,6,2,2,7:57 PM,4:30,,,Billups S.FOUL (P1.T2),,
+0020401121,177,3,11,2,7:57 PM,4:30,Francis Free Throw 1 of 2 (12 PTS),,,40 - 39,-1
+0020401121,178,3,12,2,7:58 PM,4:30,Francis Free Throw 2 of 2 (13 PTS),,,40 - 40,TIE
+0020401121,179,5,1,2,7:58 PM,4:14,Francis STEAL (2 STL),,McDyess Bad Pass Turnover (P1.T4),,
+0020401121,180,2,1,2,7:58 PM,4:06,MISS Cato 8' Jump Shot,,,,
+0020401121,181,4,0,2,7:58 PM,4:03,Cato REBOUND (Off:1 Def:4),,,,
+0020401121,182,5,1,2,7:59 PM,3:52,Francis Bad Pass Turnover (P3.T8),,McDyess STEAL (1 STL),,
+0020401121,183,1,5,2,7:59 PM,3:46,,,Hunter  Layup (2 PTS) (Billups 2 AST),42 - 40,-2
+0020401121,184,6,2,2,7:59 PM,3:46,Howard S.FOUL (P2.T4),,,,
+0020401121,185,8,0,2,7:59 PM,3:46,,,SUB: Wallace FOR McDyess,,
+0020401121,186,3,10,2,7:59 PM,3:46,,,Hunter Free Throw 1 of 1 (3 PTS),43 - 40,-3
+0020401121,187,1,46,2,8:00 PM,3:36,Nelson 6' Running Jump Shot (7 PTS),,,43 - 42,-1
+0020401121,188,6,1,2,8:00 PM,3:21,Nelson P.FOUL (P2.PN),,,,
+0020401121,189,3,11,2,8:01 PM,3:21,,,Billups Free Throw 1 of 2 (3 PTS),44 - 42,-2
+0020401121,190,3,12,2,8:01 PM,3:21,,,Billups Free Throw 2 of 2 (4 PTS),45 - 42,-3
+0020401121,191,2,42,2,8:01 PM,3:12,MISS Nelson  Driving Layup,,,,
+0020401121,192,4,0,2,8:01 PM,3:10,Nelson REBOUND (Off:1 Def:1),,,,
+0020401121,193,2,5,2,8:02 PM,3:01,MISS Francis  Layup,,,,
+0020401121,194,4,0,2,8:02 PM,2:59,,,Wallace REBOUND (Off:0 Def:5),,
+0020401121,195,1,52,2,8:02 PM,2:55,,,Wallace  Alley Oop Dunk (9 PTS) (Hamilton 3 AST),47 - 42,-5
+0020401121,196,6,1,2,8:02 PM,2:47,,,Billups P.FOUL (P2.T3),,
+0020401121,197,9,1,2,8:02 PM,2:47,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0020401121,199,8,0,2,8:05 PM,2:47,,,SUB: McDyess FOR Wallace,,
+0020401121,200,6,1,2,8:05 PM,2:39,,,Wallace P.FOUL (P2.T4),,
+0020401121,201,2,1,2,8:06 PM,2:28,MISS Francis 17' Jump Shot,,,,
+0020401121,202,4,0,2,8:06 PM,2:27,,,Hamilton REBOUND (Off:0 Def:4),,
+0020401121,203,1,47,2,8:06 PM,2:14,,,McDyess 10' Turnaround Jump Shot (2 PTS) (Billups 3 AST),49 - 42,-7
+0020401121,204,1,1,2,8:06 PM,1:54,Stevenson 21' Jump Shot (10 PTS),,,49 - 44,-5
+0020401121,205,5,1,2,8:07 PM,1:33,,,Hamilton Bad Pass Turnover (P3.T5),,
+0020401121,206,8,0,2,8:07 PM,1:33,SUB: Jones FOR Howard,,,,
+0020401121,207,8,0,2,8:07 PM,1:33,,,SUB: Wallace FOR Wallace,,
+0020401121,208,8,0,2,8:07 PM,1:33,SUB: Battie FOR Francis,,,,
+0020401121,209,2,1,2,8:07 PM,1:17,MISS Jones 19' Jump Shot,,,,
+0020401121,210,4,0,2,8:07 PM,1:16,,,McDyess REBOUND (Off:2 Def:3),,
+0020401121,211,5,1,2,8:07 PM,1:06,Cato STEAL (1 STL),,Hunter Bad Pass Turnover (P1.T6),,
+0020401121,212,2,1,2,8:08 PM,0:48,MISS Nelson 20' Jump Shot,,,,
+0020401121,213,4,0,2,8:08 PM,0:46,,,Wallace REBOUND (Off:0 Def:6),,
+0020401121,214,2,8,2,8:08 PM,0:41,,,MISS Hamilton  Slam Dunk,,
+0020401121,215,4,0,2,8:08 PM,0:39,Stevenson REBOUND (Off:0 Def:2),,,,
+0020401121,216,2,1,2,8:08 PM,0:31,MISS Stevenson 19' Jump Shot,,,,
+0020401121,217,4,0,2,8:08 PM,0:30,Jones REBOUND (Off:1 Def:2),,,,
+0020401121,218,6,2,2,8:08 PM,0:30,,,Wallace S.FOUL (P2.PN),,
+0020401121,219,8,0,2,8:08 PM,0:30,SUB: Kasun FOR Cato,,,,
+0020401121,220,8,0,2,8:08 PM,0:30,SUB: Barrett FOR Nelson,,,,
+0020401121,221,8,0,2,8:08 PM,0:30,,,SUB: Prince FOR Wallace,,
+0020401121,222,3,11,2,8:09 PM,0:30,MISS Jones Free Throw 1 of 2,,,,
+0020401121,223,4,1,2,8:09 PM,0:30,MAGIC Rebound,,,,
+0020401121,224,3,12,2,8:09 PM,0:30,Jones Free Throw 2 of 2 (1 PTS),,,49 - 45,-4
+0020401121,225,1,52,2,8:09 PM,0:25,,,McDyess  Alley Oop Dunk (4 PTS) (Hamilton 4 AST),51 - 45,-6
+0020401121,227,2,1,2,8:10 PM,0:00,MISS Stevenson 21' Jump Shot,,,,
+0020401121,228,4,0,2,8:10 PM,0:00,,,Hamilton REBOUND (Off:0 Def:5),,
+0020401121,229,13,0,2,8:10 PM,0:00,,,,51 - 45,-6
+0020401121,231,12,0,3,8:28 PM,12:00,,,,51 - 45,-6
+0020401121,232,1,1,3,8:29 PM,11:39,Cato 17' Jump Shot (2 PTS) (Augmon 1 AST),,,51 - 47,-4
+0020401121,233,1,1,3,8:29 PM,11:21,,,Wallace 12' Jump Shot (7 PTS) (Hamilton 5 AST),53 - 47,-6
+0020401121,234,2,1,3,8:29 PM,11:07,MISS Augmon 19' Jump Shot,,,,
+0020401121,235,4,0,3,8:29 PM,11:04,,,Hamilton REBOUND (Off:0 Def:6),,
+0020401121,236,5,7,3,8:30 PM,10:50,,,Hamilton Discontinue Dribble Turnover (P4.T7),,
+0020401121,237,1,65,3,8:30 PM,10:32,Howard 8' Jump Hook Shot (6 PTS),,,53 - 49,-4
+0020401121,238,1,1,3,8:31 PM,10:14,,,Wallace 10' Jump Shot (9 PTS) (Hamilton 6 AST),55 - 49,-6
+0020401121,239,1,5,3,8:31 PM,9:51,Cato  Layup (4 PTS) (Francis 6 AST),,,55 - 51,-4
+0020401121,240,2,1,3,8:31 PM,9:35,,,MISS Prince 15' Jump Shot,,
+0020401121,241,4,0,3,8:31 PM,9:33,Cato REBOUND (Off:1 Def:5),,,,
+0020401121,242,1,1,3,8:31 PM,9:26,Francis 12' Jump Shot (15 PTS),,,55 - 53,-2
+0020401121,243,1,1,3,8:32 PM,9:07,,,Hamilton 12' Jump Shot (11 PTS) (Billups 4 AST),57 - 53,-4
+0020401121,244,2,1,3,8:32 PM,8:45,MISS Augmon 15' Jump Shot,,,,
+0020401121,246,4,0,3,8:32 PM,8:43,Howard REBOUND (Off:2 Def:4),,,,
+0020401121,245,1,64,3,8:32 PM,8:43,Howard  Follow Up Dunk (8 PTS),,,57 - 55,-2
+0020401121,247,1,1,3,8:33 PM,8:17,,,Billups 8' Jump Shot (6 PTS),59 - 55,-4
+0020401121,248,2,1,3,8:33 PM,7:53,MISS Cato 13' Jump Shot,,,,
+0020401121,249,4,0,3,8:33 PM,7:51,Howard REBOUND (Off:3 Def:4),,,,
+0020401121,250,6,1,3,8:33 PM,7:51,,,Prince P.FOUL (P1.T1),,
+0020401121,251,1,1,3,8:34 PM,7:34,Francis 15' Jump Shot (17 PTS),,,59 - 57,-2
+0020401121,252,2,5,3,8:34 PM,7:15,,,MISS Wallace  Layup,,
+0020401121,254,4,0,3,8:34 PM,7:14,,,Wallace REBOUND (Off:1 Def:6),,
+0020401121,253,2,4,3,8:34 PM,7:14,,,MISS Wallace  Tip Shot,,
+0020401121,256,4,0,3,8:34 PM,7:11,,,Wallace REBOUND (Off:2 Def:1),,
+0020401121,255,1,7,3,8:34 PM,7:11,,,Wallace  Dunk (11 PTS),61 - 57,-4
+0020401121,257,5,4,3,8:34 PM,7:02,Francis Traveling Turnover (P4.T9),,,,
+0020401121,258,1,1,3,8:35 PM,6:50,,,Billups 26' 3PT Jump Shot (9 PTS),64 - 57,-7
+0020401121,259,1,42,3,8:35 PM,6:35,Francis  Driving Layup (19 PTS),,,64 - 59,-5
+0020401121,260,1,1,3,8:35 PM,6:12,,,Billups 27' 3PT Jump Shot (12 PTS) (Wallace 3 AST),67 - 59,-8
+0020401121,261,1,5,3,8:36 PM,5:53,Howard  Layup (10 PTS),,,67 - 61,-6
+0020401121,262,6,2,3,8:36 PM,5:53,,,Prince S.FOUL (P2.T2),,
+0020401121,264,9,1,3,8:36 PM,5:53,MAGIC Timeout: Regular (Full 3 Short 0),,,,
+0020401121,267,3,10,3,8:39 PM,5:53,MISS Howard Free Throw 1 of 1,,,,
+0020401121,268,4,0,3,8:40 PM,5:51,,,Wallace REBOUND (Off:2 Def:2),,
+0020401121,269,2,1,3,8:40 PM,5:31,,,MISS Wallace 27' 3PT Jump Shot,,
+0020401121,270,4,0,3,8:40 PM,5:29,,,Wallace REBOUND (Off:3 Def:2),,
+0020401121,271,2,5,3,8:40 PM,5:28,,,MISS Wallace  Layup,,
+0020401121,272,4,0,3,8:40 PM,5:26,,,Wallace REBOUND (Off:4 Def:2),,
+0020401121,273,2,1,3,8:40 PM,5:23,,,MISS Billups 26' 3PT Jump Shot,,
+0020401121,274,4,0,3,8:40 PM,5:21,Howard REBOUND (Off:3 Def:5),,,,
+0020401121,275,5,1,3,8:40 PM,5:13,Stevenson Bad Pass Turnover (P1.T10),,,,
+0020401121,276,1,1,3,8:41 PM,4:57,,,Prince 9' Jump Shot (19 PTS) (Billups 5 AST),69 - 61,-8
+0020401121,277,2,1,3,8:41 PM,4:47,MISS Stevenson 24' 3PT Jump Shot,,,,
+0020401121,278,4,0,3,8:41 PM,4:45,Augmon REBOUND (Off:1 Def:1),,,,
+0020401121,279,2,3,3,8:41 PM,4:44,MISS Augmon 4' Hook Shot,,,,
+0020401121,280,4,0,3,8:41 PM,4:43,,,Prince REBOUND (Off:2 Def:5),,
+0020401121,281,1,5,3,8:41 PM,4:38,,,Hamilton  Layup (13 PTS) (Prince 2 AST),71 - 61,-10
+0020401121,282,2,66,3,8:41 PM,4:11,MISS Stevenson 11' Jump Bank Shot,,,,
+0020401121,283,4,0,3,8:41 PM,4:10,,,Hamilton REBOUND (Off:0 Def:7),,
+0020401121,284,6,1,3,8:41 PM,4:09,Francis P.FOUL (P2.T1),,,,
+0020401121,285,8,0,3,8:42 PM,4:09,SUB: Nelson FOR Augmon,,,,
+0020401121,286,2,1,3,8:42 PM,3:57,,,MISS Wallace 14' Jump Shot,,
+0020401121,287,4,0,3,8:42 PM,3:55,Cato REBOUND (Off:1 Def:6),,,,
+0020401121,288,6,2,3,8:42 PM,3:52,,,Billups S.FOUL (P3.T3),,
+0020401121,289,3,11,3,8:43 PM,3:52,Francis Free Throw 1 of 2 (20 PTS),,,71 - 62,-9
+0020401121,290,8,0,3,8:43 PM,3:52,SUB: Battie FOR Cato,,,,
+0020401121,291,3,12,3,8:43 PM,3:52,Francis Free Throw 2 of 2 (21 PTS),,,71 - 63,-8
+0020401121,292,1,1,3,8:43 PM,3:40,,,Wallace 9' Jump Shot (11 PTS) (Billups 6 AST),73 - 63,-10
+0020401121,293,2,1,3,8:43 PM,3:29,MISS Francis 17' Jump Shot,,,,
+0020401121,294,4,0,3,8:43 PM,3:27,Howard REBOUND (Off:4 Def:5),,,,
+0020401121,295,1,3,3,8:44 PM,3:24,Howard 5' Hook Shot (12 PTS),,,73 - 65,-8
+0020401121,296,1,1,3,8:44 PM,3:00,,,Billups 28' 3PT Jump Shot (15 PTS),76 - 65,-11
+0020401121,297,5,1,3,8:44 PM,2:42,Francis Bad Pass Turnover (P5.T11),,Wallace STEAL (2 STL),,
+0020401121,298,1,43,3,8:44 PM,2:38,,,Prince  Alley Oop Layup (21 PTS) (Hamilton 7 AST),78 - 65,-13
+0020401121,299,2,66,3,8:45 PM,2:15,MISS Howard 18' Jump Bank Shot,,,,
+0020401121,300,4,0,3,8:45 PM,2:13,,,Hamilton REBOUND (Off:0 Def:8),,
+0020401121,301,6,2,3,8:45 PM,2:03,Stevenson S.FOUL (P2.T2),,,,
+0020401121,302,9,1,3,8:45 PM,2:03,,,Pistons Timeout: Regular (Reg.3 Short 0),,
+0020401121,304,8,0,3,8:48 PM,2:03,SUB: Augmon FOR Stevenson,,,,
+0020401121,306,3,11,3,8:48 PM,2:03,,,Wallace Free Throw 1 of 2 (12 PTS),79 - 65,-14
+0020401121,307,3,12,3,8:48 PM,2:03,,,MISS Wallace Free Throw 2 of 2,,
+0020401121,308,4,0,3,8:48 PM,2:01,Howard REBOUND (Off:4 Def:6),,,,
+0020401121,309,2,1,3,8:49 PM,1:43,MISS Augmon 17' Jump Shot,,,,
+0020401121,310,4,0,3,8:49 PM,1:41,,,Wallace REBOUND (Off:4 Def:3),,
+0020401121,311,6,1,3,8:49 PM,1:27,Nelson P.FOUL (P3.T3),,,,
+0020401121,312,6,2,3,8:50 PM,1:14,Augmon S.FOUL (P2.PN),,,,
+0020401121,313,3,11,3,8:50 PM,1:14,,,MISS Wallace Free Throw 1 of 2,,
+0020401121,314,4,1,3,8:50 PM,1:14,,,Pistons Rebound,,
+0020401121,315,3,12,3,8:50 PM,1:14,,,MISS Wallace Free Throw 2 of 2,,
+0020401121,317,4,0,3,8:50 PM,1:12,,,Billups REBOUND (Off:1 Def:0),,
+0020401121,316,2,4,3,8:50 PM,1:12,,,MISS Billups  Tip Shot,,
+0020401121,318,4,0,3,8:50 PM,1:10,,,Billups REBOUND (Off:2 Def:0),,
+0020401121,319,6,2,3,8:50 PM,1:08,Battie S.FOUL (P1.PN),,,,
+0020401121,320,3,11,3,8:51 PM,1:08,,,Wallace Free Throw 1 of 2 (12 PTS),80 - 65,-15
+0020401121,321,8,0,3,8:51 PM,1:08,SUB: Garrity FOR Augmon,,,,
+0020401121,322,8,0,3,8:51 PM,1:08,,,SUB: Hunter FOR Billups,,
+0020401121,323,3,12,3,8:51 PM,1:08,,,Wallace Free Throw 2 of 2 (13 PTS),81 - 65,-16
+0020401121,324,5,1,3,8:52 PM,0:51,Garrity Bad Pass Turnover (P1.T12),,Wallace STEAL (3 STL),,
+0020401121,325,1,1,3,8:52 PM,0:34,,,Hunter 26' 3PT Jump Shot (6 PTS) (Wallace 2 AST),84 - 65,-19
+0020401121,326,2,5,3,8:52 PM,0:28,MISS Nelson  Layup,,,,
+0020401121,328,4,0,3,8:52 PM,0:27,Howard REBOUND (Off:5 Def:6),,,,
+0020401121,327,1,64,3,8:52 PM,0:27,Howard  Follow Up Dunk (14 PTS),,,84 - 67,-17
+0020401121,329,2,5,3,8:53 PM,0:05,Battie BLOCK (1 BLK),,MISS Prince  Layup,,
+0020401121,330,4,0,3,8:53 PM,0:03,Howard REBOUND (Off:5 Def:7),,,,
+0020401121,333,2,45,3,8:53 PM,0:00,MISS Nelson 71' 3PT Jump Shot,,,,
+0020401121,332,4,0,3,8:53 PM,0:00,MAGIC Rebound,,,,
+0020401121,335,13,0,3,8:54 PM,0:00,,,,84 - 67,-17
+0020401121,337,12,0,4,8:56 PM,12:00,,,,84 - 67,-17
+0020401121,338,1,1,4,8:57 PM,11:41,,,McDyess 19' Jump Shot (6 PTS) (Prince 3 AST),86 - 67,-19
+0020401121,339,1,1,4,8:57 PM,11:20,Battie 12' Jump Shot (2 PTS) (Jones 1 AST),,,86 - 69,-17
+0020401121,340,5,1,4,8:57 PM,11:05,,,Billups Bad Pass Turnover (P1.T8),,
+0020401121,341,2,5,4,8:58 PM,10:53,MISS Nelson  Layup,,Wallace BLOCK (3 BLK),,
+0020401121,342,4,0,4,8:58 PM,10:51,Garrity REBOUND (Off:1 Def:0),,,,
+0020401121,343,2,1,4,8:58 PM,10:44,MISS Nelson 28' 3PT Jump Shot,,,,
+0020401121,344,4,0,4,8:58 PM,10:42,,,Wallace REBOUND (Off:4 Def:4),,
+0020401121,345,6,4,4,8:58 PM,10:28,,,McDyess OFF.Foul (P2),,
+0020401121,346,5,5,4,8:58 PM,10:28,,,McDyess Foul Turnover (P2.T9),,
+0020401121,347,8,0,4,8:58 PM,10:28,SUB: Kasun FOR Howard,,,,
+0020401121,348,2,1,4,8:59 PM,10:04,MISS Battie 23' Jump Shot,,,,
+0020401121,349,4,0,4,8:59 PM,10:02,,,Prince REBOUND (Off:2 Def:6),,
+0020401121,350,6,1,4,8:59 PM,9:47,Kasun P.FOUL (P2.T1),,,,
+0020401121,351,8,0,4,9:00 PM,9:47,SUB: Francis FOR Jones,,,,
+0020401121,352,2,1,4,9:00 PM,9:39,,,MISS Hunter 19' Jump Shot,,
+0020401121,353,4,0,4,9:00 PM,9:37,,,Wallace REBOUND (Off:5 Def:4),,
+0020401121,354,1,1,4,9:00 PM,9:14,,,Billups  3PT Jump Shot (18 PTS) (Hunter 3 AST),89 - 69,-20
+0020401121,355,6,1,4,9:01 PM,8:56,,,Hunter P.FOUL (P1.T1),,
+0020401121,356,9,4,4,9:01 PM,8:56,,,,,
+0020401121,358,8,0,4,9:03 PM,8:56,SUB: Stevenson FOR Nelson,,,,
+0020401121,359,8,0,4,9:03 PM,8:56,SUB: Hunter FOR Battie,,,,
+0020401121,360,8,0,4,9:04 PM,8:56,,,SUB: Wallace FOR Wallace,,
+0020401121,361,6,2,4,9:04 PM,8:49,,,Hunter S.FOUL (P2.T2),,
+0020401121,362,3,11,4,9:04 PM,8:49,Francis Free Throw 1 of 2 (22 PTS),,,89 - 70,-19
+0020401121,363,3,12,4,9:04 PM,8:49,Francis Free Throw 2 of 2 (23 PTS),,,89 - 71,-18
+0020401121,364,2,1,4,9:06 PM,8:26,,,MISS McDyess 14' Jump Shot,,
+0020401121,365,4,0,4,9:06 PM,8:25,Garrity REBOUND (Off:1 Def:1),,,,
+0020401121,366,1,44,4,9:06 PM,8:16,Hunter  Reverse Layup (2 PTS) (Francis 7 AST),,,89 - 73,-16
+0020401121,367,9,2,4,9:07 PM,8:08,,,Pistons Timeout: Short (Reg.3 Short 1),,
+0020401121,369,1,1,4,9:08 PM,8:01,,,Billups 26' 3PT Jump Shot (21 PTS),92 - 73,-19
+0020401121,370,2,1,4,9:08 PM,7:59,MISS Stevenson 20' Jump Shot,,,,
+0020401121,371,4,0,4,9:08 PM,7:59,Kasun REBOUND (Off:1 Def:1),,,,
+0020401121,372,6,1,4,9:08 PM,7:59,,,Wallace P.FOUL (P3.T3),,
+0020401121,373,1,1,4,9:08 PM,7:44,Stevenson 27' 3PT Jump Shot (13 PTS) (Francis 8 AST),,,92 - 76,-16
+0020401121,375,6,2,4,9:09 PM,7:18,Kasun S.FOUL (P3.T2),,,,
+0020401121,376,8,0,4,9:09 PM,7:18,,,SUB: Hamilton FOR Hunter,,
+0020401121,377,8,0,4,9:09 PM,7:18,SUB: Howard FOR Hunter,,,,
+0020401121,378,3,11,4,9:10 PM,7:18,,,Wallace Free Throw 1 of 2 (14 PTS),93 - 76,-17
+0020401121,379,3,12,4,9:10 PM,7:18,,,Wallace Free Throw 2 of 2 (15 PTS),94 - 76,-18
+0020401121,380,1,1,4,9:10 PM,7:05,Stevenson 27' 3PT Jump Shot (16 PTS) (Francis 9 AST),,,94 - 79,-15
+0020401121,381,1,66,4,9:11 PM,6:41,,,McDyess 12' Jump Bank Shot (8 PTS),96 - 79,-17
+0020401121,382,6,4,4,9:11 PM,6:34,Francis OFF.Foul (P3),,,,
+0020401121,383,5,5,4,9:11 PM,6:34,Francis Foul Turnover (P6.T13),,,,
+0020401121,384,6,1,4,9:11 PM,6:16,Francis P.FOUL (P4.T3),,,,
+0020401121,385,6,2,4,9:12 PM,6:08,Howard S.FOUL (P3.T4),,,,
+0020401121,386,3,11,4,9:12 PM,6:08,,,Prince Free Throw 1 of 2 (22 PTS),97 - 79,-18
+0020401121,387,3,12,4,9:13 PM,6:08,,,MISS Prince Free Throw 2 of 2,,
+0020401121,388,4,0,4,9:13 PM,6:05,,,McDyess REBOUND (Off:3 Def:3),,
+0020401121,389,1,8,4,9:13 PM,5:51,,,Wallace  Slam Dunk (17 PTS) (McDyess 1 AST),99 - 79,-20
+0020401121,390,6,2,4,9:13 PM,5:51,Francis S.FOUL (P5.PN),,,,
+0020401121,391,9,1,4,9:13 PM,5:51,MAGIC Timeout: Regular (Full 4 Short 0),,,,
+0020401121,393,8,0,4,9:16 PM,5:51,SUB: Nelson FOR Kasun,,,,
+0020401121,395,3,10,4,9:16 PM,5:51,,,Wallace Free Throw 1 of 1 (18 PTS),100 - 79,-21
+0020401121,396,1,1,4,9:17 PM,5:44,Stevenson 26' 3PT Jump Shot (19 PTS) (Nelson 3 AST),,,100 - 82,-18
+0020401121,397,5,1,4,9:17 PM,5:38,,,Wallace Bad Pass Turnover (P1.T10),,
+0020401121,398,1,8,4,9:17 PM,5:34,Howard  Slam Dunk (16 PTS),,,100 - 84,-16
+0020401121,399,6,2,4,9:17 PM,5:34,,,Prince S.FOUL (P3.T4),,
+0020401121,401,3,10,4,9:18 PM,5:34,Howard Free Throw 1 of 1 (17 PTS),,,100 - 85,-15
+0020401121,402,5,1,4,9:18 PM,5:32,,,Wallace Bad Pass Turnover (P2.T11),,
+0020401121,403,1,42,4,9:18 PM,5:18,Stevenson  Driving Layup (21 PTS),,,100 - 87,-13
+0020401121,404,6,2,4,9:18 PM,5:18,,,McDyess S.FOUL (P3.PN),,
+0020401121,405,3,10,4,9:19 PM,5:18,Stevenson Free Throw 1 of 1 (22 PTS),,,100 - 88,-12
+0020401121,406,6,1,4,9:19 PM,5:15,Garrity P.FOUL (P1.PN),,,,
+0020401121,407,3,11,4,9:19 PM,5:15,,,Billups Free Throw 1 of 2 (22 PTS),101 - 88,-13
+0020401121,408,3,12,4,9:19 PM,5:15,,,Billups Free Throw 2 of 2 (23 PTS),102 - 88,-14
+0020401121,409,1,1,4,9:20 PM,5:06,Stevenson 27' 3PT Jump Shot (25 PTS) (Nelson 4 AST),,,102 - 91,-11
+0020401121,410,5,1,4,9:20 PM,4:59,Garrity STEAL (1 STL),,Billups Bad Pass Turnover (P2.T12),,
+0020401121,411,2,40,4,9:20 PM,4:55,MISS Nelson  Layup,,,,
+0020401121,412,4,0,4,9:20 PM,4:53,,,Prince REBOUND (Off:2 Def:7),,
+0020401121,413,1,8,4,9:20 PM,4:47,,,Prince  Slam Dunk (24 PTS) (Wallace 3 AST),104 - 91,-13
+0020401121,414,1,1,4,9:20 PM,4:28,Nelson 26' 3PT Jump Shot (10 PTS) (Stevenson 4 AST),,,104 - 94,-10
+0020401121,415,1,52,4,9:21 PM,4:14,,,McDyess  Alley Oop Dunk (10 PTS) (Hamilton 8 AST),106 - 94,-12
+0020401121,416,2,1,4,9:21 PM,3:53,MISS Stevenson 26' 3PT Jump Shot,,Prince BLOCK (1 BLK),,
+0020401121,417,4,0,4,9:21 PM,3:49,,,Hamilton REBOUND (Off:0 Def:9),,
+0020401121,418,1,5,4,9:21 PM,3:45,,,Prince  Layup (26 PTS) (Wallace 4 AST),108 - 94,-14
+0020401121,419,9,1,4,9:21 PM,3:39,MAGIC Timeout: Regular (Full 5 Short 0),,,,
+0020401121,423,8,0,4,9:24 PM,3:39,,,SUB: Wallace FOR McDyess,,
+0020401121,424,1,46,4,9:25 PM,3:32,Garrity 7' Running Jump Shot (2 PTS),,,108 - 96,-12
+0020401121,425,1,63,4,9:25 PM,3:14,,,Wallace 11' Fadeaway Jumper (20 PTS) (Prince 4 AST),110 - 96,-14
+0020401121,426,2,1,4,9:25 PM,2:52,MISS Nelson 26' 3PT Jump Shot,,,,
+0020401121,427,4,0,4,9:25 PM,2:51,,,Hamilton REBOUND (Off:0 Def:10),,
+0020401121,428,1,1,4,9:26 PM,2:29,,,Wallace 15' Jump Shot (22 PTS) (Billups 7 AST),112 - 96,-16
+0020401121,429,2,5,4,9:26 PM,2:09,MISS Francis  Layup,,Wallace BLOCK (4 BLK),,
+0020401121,430,4,0,4,9:26 PM,2:07,,,Hamilton REBOUND (Off:0 Def:11),,
+0020401121,431,9,1,4,9:26 PM,2:03,,,Pistons Timeout: Regular (Reg.4 Short 1),,
+0020401121,434,8,0,4,9:28 PM,2:03,,,SUB: Hunter FOR Prince,,
+0020401121,435,8,0,4,9:28 PM,2:03,,,SUB: Arroyo FOR Wallace,,
+0020401121,436,8,0,4,9:28 PM,2:03,,,SUB: Delfino FOR Wallace,,
+0020401121,437,8,0,4,9:28 PM,2:03,,,SUB: Milicic FOR Hamilton,,
+0020401121,438,8,0,4,9:28 PM,2:03,,,SUB: Campbell FOR Billups,,
+0020401121,439,8,0,4,9:29 PM,2:03,SUB: Barrett FOR Stevenson,,,,
+0020401121,440,8,0,4,9:29 PM,2:03,SUB: Jones FOR Francis,,,,
+0020401121,441,6,2,4,9:29 PM,1:51,Garrity S.FOUL (P2.PN),,,,
+0020401121,442,3,11,4,9:29 PM,1:51,,,Campbell Free Throw 1 of 2 (1 PTS),113 - 96,-17
+0020401121,443,3,12,4,9:29 PM,1:51,,,Campbell Free Throw 2 of 2 (2 PTS),114 - 96,-18
+0020401121,444,1,1,4,9:30 PM,1:37,Garrity 16' Jump Shot (4 PTS),,,114 - 98,-16
+0020401121,445,2,1,4,9:30 PM,1:15,,,MISS Delfino 18' Jump Shot,,
+0020401121,447,4,0,4,9:30 PM,1:13,,,Campbell REBOUND (Off:1 Def:0),,
+0020401121,446,2,4,4,9:30 PM,1:13,,,MISS Campbell  Tip Shot,,
+0020401121,448,4,0,4,9:30 PM,1:11,Howard REBOUND (Off:5 Def:8),,,,
+0020401121,449,1,8,4,9:30 PM,0:56,Howard  Slam Dunk (19 PTS) (Garrity 1 AST),,,114 - 100,-14
+0020401121,450,2,1,4,9:31 PM,0:32,,,MISS Campbell 10' Jump Shot,,
+0020401121,451,4,0,4,9:31 PM,0:30,Barrett REBOUND (Off:0 Def:2),,,,
+0020401121,452,1,66,4,9:31 PM,0:17,Howard 23' Jump Bank Shot (21 PTS),,,114 - 102,-12
+0020401121,453,13,0,4,9:32 PM,0:00,,,,114 - 102,-12

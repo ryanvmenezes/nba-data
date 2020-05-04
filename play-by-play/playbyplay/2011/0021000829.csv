@@ -1,0 +1,409 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000829,0,12,0,1,7:47 PM,12:00,,,,,
+0021000829,1,10,0,1,7:47 PM,12:00,Jump Ball Mozgov vs. Smith: Tip to Johnson,,,,
+0021000829,2,6,1,1,7:47 PM,11:42,Mozgov P.FOUL (P1.T1),,,,
+0021000829,3,2,5,1,7:48 PM,11:34,Mozgov BLOCK (1 BLK),,MISS Horford 2' Layup,,
+0021000829,4,4,0,1,7:48 PM,11:32,,,Horford REBOUND (Off:1 Def:0),,
+0021000829,5,1,5,1,7:48 PM,11:30,,,Horford 2' Layup (2 PTS),2 - 0,-2
+0021000829,6,5,2,1,7:48 PM,11:14,Stoudemire Lost Ball Turnover (P1.T1),,Williams STEAL (1 STL),,
+0021000829,7,1,3,1,7:48 PM,11:02,,,Johnson 5' Hook Shot (2 PTS),4 - 0,-4
+0021000829,8,2,5,1,7:49 PM,10:51,MISS Stoudemire 1' Layup,,Smith BLOCK (1 BLK),,
+0021000829,9,4,0,1,7:49 PM,10:48,,,Johnson REBOUND (Off:0 Def:1),,
+0021000829,10,2,1,1,7:49 PM,10:44,,,MISS Williams 20' Jump Shot,,
+0021000829,11,4,0,1,7:49 PM,10:42,Fields REBOUND (Off:0 Def:1),,,,
+0021000829,12,1,5,1,7:49 PM,10:22,Mozgov 2' Layup (2 PTS) (Fields 1 AST),,,4 - 2,-2
+0021000829,13,2,47,1,7:49 PM,9:55,Stoudemire BLOCK (1 BLK),,MISS Johnson 8' Turnaround Jump Shot,,
+0021000829,14,4,0,1,7:49 PM,9:54,Gallinari REBOUND (Off:0 Def:1),,,,
+0021000829,15,6,1,1,7:50 PM,9:52,,,Johnson P.FOUL (P1.T1),,
+0021000829,16,1,8,1,7:50 PM,9:40,Gallinari 1' Slam Dunk (2 PTS) (Stoudemire 1 AST),,,4 - 4,TIE
+0021000829,17,2,1,1,7:50 PM,9:22,,,MISS Smith 18' Jump Shot,,
+0021000829,18,4,0,1,7:50 PM,9:21,Fields REBOUND (Off:0 Def:2),,,,
+0021000829,19,2,1,1,7:50 PM,9:12,MISS Felton 17' Jump Shot,,,,
+0021000829,20,4,0,1,7:50 PM,9:10,,,Horford REBOUND (Off:1 Def:1),,
+0021000829,21,2,1,1,7:51 PM,9:00,,,MISS Smith 25' 3PT Jump Shot,,
+0021000829,22,4,0,1,7:51 PM,8:58,Fields REBOUND (Off:0 Def:3),,,,
+0021000829,23,6,4,1,7:51 PM,8:51,Stoudemire OFF.Foul (P1),,,,
+0021000829,24,5,5,1,7:51 PM,8:51,Stoudemire Foul Turnover (P2.T2),,,,
+0021000829,25,1,1,1,7:51 PM,8:34,,,Bibby 25' 3PT Jump Shot (3 PTS) (Horford 1 AST),7 - 4,-3
+0021000829,26,1,1,1,7:52 PM,8:17,Stoudemire 19' Jump Shot (2 PTS),,,7 - 6,-1
+0021000829,27,5,1,1,7:52 PM,8:05,Felton STEAL (1 STL),,Bibby Bad Pass Turnover (P1.T1),,
+0021000829,28,1,5,1,7:52 PM,8:00,Felton 1' Layup (2 PTS) (Stoudemire 2 AST),,,7 - 8,1
+0021000829,29,2,1,1,7:52 PM,7:42,,,MISS Bibby  3PT Jump Shot,,
+0021000829,30,4,0,1,7:52 PM,7:41,,,Johnson REBOUND (Off:1 Def:1),,
+0021000829,31,2,1,1,7:52 PM,7:37,,,MISS Smith 21' Jump Shot,,
+0021000829,33,4,0,1,7:52 PM,7:36,,,Johnson REBOUND (Off:2 Def:1),,
+0021000829,32,2,4,1,7:52 PM,7:36,,,MISS Johnson 1' Tip Shot,,
+0021000829,34,4,0,1,7:52 PM,7:34,Fields REBOUND (Off:0 Def:4),,,,
+0021000829,35,2,1,1,7:52 PM,7:25,MISS Felton 17' Jump Shot,,,,
+0021000829,36,4,0,1,7:52 PM,7:23,,,Horford REBOUND (Off:1 Def:2),,
+0021000829,37,2,80,1,7:53 PM,7:06,,,MISS Horford 8' Step Back Jump Shot,,
+0021000829,38,4,0,1,7:53 PM,7:04,Stoudemire REBOUND (Off:0 Def:1),,,,
+0021000829,39,2,1,1,7:53 PM,6:48,MISS Mozgov 18' Jump Shot,,,,
+0021000829,40,4,0,1,7:53 PM,6:46,,,Williams REBOUND (Off:0 Def:1),,
+0021000829,41,1,47,1,7:53 PM,6:31,,,Williams 7' Turnaround Jump Shot (2 PTS),9 - 8,-1
+0021000829,42,5,1,1,7:54 PM,6:11,Felton Bad Pass Turnover (P1.T3),,,,
+0021000829,43,1,3,1,7:54 PM,5:56,,,Johnson 6' Hook Shot (4 PTS),11 - 8,-3
+0021000829,44,2,1,1,7:54 PM,5:35,MISS Fields 18' Jump Shot,,,,
+0021000829,45,4,0,1,7:54 PM,5:34,,,Bibby REBOUND (Off:0 Def:1),,
+0021000829,46,2,1,1,7:55 PM,5:28,,,MISS Williams 18' Jump Shot,,
+0021000829,47,4,0,1,7:55 PM,5:27,Gallinari REBOUND (Off:0 Def:2),,,,
+0021000829,48,2,1,1,7:55 PM,5:18,MISS Stoudemire 18' Jump Shot,,,,
+0021000829,49,4,0,1,7:55 PM,5:16,,,Williams REBOUND (Off:0 Def:2),,
+0021000829,50,9,1,1,7:55 PM,5:11,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0021000829,52,8,0,1,7:57 PM,5:11,,,SUB: Crawford FOR Bibby,,
+0021000829,53,8,0,1,7:57 PM,5:11,SUB: Chandler FOR Mozgov,,,,
+0021000829,54,2,44,1,7:58 PM,4:56,,,MISS Smith 2' Reverse Layup,,
+0021000829,55,4,0,1,7:58 PM,4:56,Stoudemire REBOUND (Off:0 Def:2),,,,
+0021000829,56,6,1,1,7:58 PM,4:56,,,Smith P.FOUL (P1.T2),,
+0021000829,57,2,1,1,7:59 PM,4:44,MISS Gallinari 24' 3PT Jump Shot,,,,
+0021000829,58,4,0,1,7:59 PM,4:42,,,Horford REBOUND (Off:1 Def:3),,
+0021000829,59,5,2,1,7:59 PM,4:25,Gallinari STEAL (1 STL),,Horford Lost Ball Turnover (P1.T2),,
+0021000829,60,1,44,1,7:59 PM,4:18,Stoudemire 1' Reverse Layup (4 PTS) (Gallinari 1 AST),,,11 - 10,-1
+0021000829,61,2,5,1,7:59 PM,4:05,,,MISS Williams 2' Layup,,
+0021000829,62,4,0,1,7:59 PM,4:04,Fields REBOUND (Off:0 Def:5),,,,
+0021000829,63,1,5,1,7:59 PM,3:54,Fields 1' Layup (2 PTS) (Felton 1 AST),,,11 - 12,1
+0021000829,64,2,1,1,8:00 PM,3:27,,,MISS Smith 4' Jump Shot,,
+0021000829,65,4,0,1,8:00 PM,3:26,Fields REBOUND (Off:0 Def:6),,,,
+0021000829,66,1,42,1,8:00 PM,3:22,Felton 1' Driving Layup (4 PTS),,,11 - 14,3
+0021000829,67,6,2,1,8:00 PM,3:22,,,Crawford S.FOUL (P1.T3),,
+0021000829,68,3,10,1,8:00 PM,3:22,Felton Free Throw 1 of 1 (5 PTS),,,11 - 15,4
+0021000829,70,2,42,1,8:01 PM,3:09,,,MISS Crawford 2' Driving Layup,,
+0021000829,71,4,0,1,8:01 PM,3:07,Stoudemire REBOUND (Off:0 Def:3),,,,
+0021000829,72,1,8,1,8:01 PM,3:03,Gallinari 1' Slam Dunk (4 PTS) (Felton 2 AST),,,11 - 17,6
+0021000829,73,1,1,1,8:01 PM,2:39,,,Williams  3PT Jump Shot (5 PTS) (Johnson 1 AST),14 - 17,3
+0021000829,74,6,2,1,8:01 PM,2:22,,,Horford S.FOUL (P1.T4),,
+0021000829,75,9,1,1,8:02 PM,2:22,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0021000829,77,8,0,1,8:04 PM,2:22,,,SUB: Evans FOR Smith,,
+0021000829,78,8,0,1,8:04 PM,2:22,SUB: Walker FOR Fields,,,,
+0021000829,79,3,11,1,8:04 PM,2:22,Stoudemire Free Throw 1 of 2 (5 PTS),,,14 - 18,4
+0021000829,81,3,12,1,8:05 PM,2:22,Stoudemire Free Throw 2 of 2 (6 PTS),,,14 - 19,5
+0021000829,84,8,0,1,8:05 PM,2:01,SUB: Turiaf FOR Stoudemire,,,,
+0021000829,85,8,0,1,8:05 PM,2:01,SUB: Douglas FOR Gallinari,,,,
+0021000829,86,8,0,1,8:06 PM,2:01,,,SUB: Pachulia FOR Williams,,
+0021000829,87,2,1,1,8:06 PM,1:59,,,MISS Crawford 24' 3PT Jump Shot,,
+0021000829,88,4,0,1,8:06 PM,1:58,,,Hawks Rebound,,
+0021000829,89,5,11,1,8:06 PM,1:58,,,Hawks Turnover: Shot Clock (T#3),,
+0021000829,90,1,52,1,8:06 PM,1:49,Turiaf 1' Alley Oop Dunk (2 PTS) (Felton 3 AST),,,14 - 21,7
+0021000829,91,5,1,1,8:07 PM,1:26,Felton STEAL (2 STL),,Horford Bad Pass Turnover (P2.T4),,
+0021000829,92,1,79,1,8:07 PM,1:20,Chandler 20' Pullup Jump Shot (2 PTS),,,14 - 23,9
+0021000829,93,1,1,1,8:07 PM,1:01,,,Evans 21' Jump Shot (2 PTS) (Pachulia 1 AST),16 - 23,7
+0021000829,94,2,1,1,8:07 PM,0:51,MISS Chandler 25' 3PT Jump Shot,,,,
+0021000829,95,4,0,1,8:07 PM,0:51,,,Hawks Rebound,,
+0021000829,96,6,3,1,8:08 PM,0:51,Turiaf L.B.FOUL (P1.T2),,,,
+0021000829,97,2,1,1,8:08 PM,0:44,,,MISS Johnson 7' Jump Shot,,
+0021000829,98,4,0,1,8:08 PM,0:42,Turiaf REBOUND (Off:0 Def:1),,,,
+0021000829,99,1,1,1,8:08 PM,0:31,Felton 20' Jump Shot (7 PTS) (Turiaf 1 AST),,,16 - 25,9
+0021000829,100,1,1,1,8:08 PM,0:11,,,Evans 24' 3PT Jump Shot (5 PTS) (Johnson 2 AST),19 - 25,6
+0021000829,101,6,2,1,8:09 PM,0:00,,,Johnson S.FOUL (P2.PN),,
+0021000829,102,18,0,1,8:09 PM,0:00,,,,,
+0021000829,103,3,11,1,8:10 PM,0:00,Douglas Free Throw 1 of 2 (1 PTS),,,19 - 26,7
+0021000829,106,8,0,1,8:10 PM,0:00,,,SUB: Bibby FOR Johnson,,
+0021000829,107,3,12,1,8:10 PM,0:00,MISS Douglas Free Throw 2 of 2,,,,
+0021000829,109,4,0,1,8:10 PM,0:00,,,Pachulia REBOUND (Off:0 Def:1),,
+0021000829,110,13,0,1,8:11 PM,0:00,,,,19 - 26,7
+0021000829,112,12,0,2,8:14 PM,12:00,,,,19 - 26,7
+0021000829,113,1,1,2,8:14 PM,11:45,Shaw. Williams  3PT Jump Shot (3 PTS) (Douglas 1 AST),,,19 - 29,10
+0021000829,114,1,1,2,8:14 PM,11:22,,,Smith 19' Jump Shot (2 PTS) (Bibby 1 AST),21 - 29,8
+0021000829,115,2,77,2,8:15 PM,11:03,MISS Douglas 18' Driving Jump Shot,,,,
+0021000829,116,4,0,2,8:15 PM,11:01,Douglas REBOUND (Off:1 Def:0),,,,
+0021000829,117,1,78,2,8:15 PM,10:57,Shaw. Williams 11' Floating Jump Shot (5 PTS),,,21 - 31,10
+0021000829,118,6,2,2,8:15 PM,10:40,Turiaf S.FOUL (P2.T1),,,,
+0021000829,119,3,11,2,8:15 PM,10:40,,,Pachulia Free Throw 1 of 2 (1 PTS),22 - 31,9
+0021000829,121,3,12,2,8:15 PM,10:40,,,Pachulia Free Throw 2 of 2 (2 PTS),23 - 31,8
+0021000829,123,6,17,2,8:16 PM,10:28,,,Hawks T.Foul (Def. 3 Sec Smith ),,
+0021000829,124,3,16,2,8:16 PM,10:28,Douglas Free Throw Technical (2 PTS),,,23 - 32,9
+0021000829,126,5,11,2,8:17 PM,10:14,KNICKS Turnover: Shot Clock (T#4),,,,
+0021000829,127,2,1,2,8:18 PM,9:54,,,MISS Pachulia 4' Jump Shot,,
+0021000829,128,4,0,2,8:18 PM,9:54,KNICKS Rebound,,,,
+0021000829,129,6,3,2,8:18 PM,9:54,,,Pachulia L.B.FOUL (P1.T1),,
+0021000829,130,1,46,2,8:18 PM,9:43,Chandler 6' Running Jump Shot (4 PTS),,,23 - 34,11
+0021000829,131,2,1,2,8:18 PM,9:17,Chandler BLOCK (1 BLK),,MISS Pachulia 4' Jump Shot,,
+0021000829,132,4,0,2,8:18 PM,9:15,Shaw. Williams REBOUND (Off:0 Def:1),,,,
+0021000829,133,2,1,2,8:19 PM,9:07,MISS Shaw. Williams 25' 3PT Jump Shot,,,,
+0021000829,134,4,0,2,8:19 PM,9:05,,,Smith REBOUND (Off:0 Def:1),,
+0021000829,135,2,1,2,8:19 PM,8:58,,,MISS Crawford 19' Jump Shot,,
+0021000829,136,4,0,2,8:19 PM,8:56,Walker REBOUND (Off:0 Def:1),,,,
+0021000829,137,1,1,2,8:19 PM,8:50,Chandler 25' 3PT Jump Shot (7 PTS) (Douglas 2 AST),,,23 - 37,14
+0021000829,138,9,1,2,8:19 PM,8:38,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0021000829,141,8,0,2,8:22 PM,8:38,,,SUB: Williams FOR Crawford,,
+0021000829,142,8,0,2,8:22 PM,8:38,,,SUB: Horford FOR Evans,,
+0021000829,143,8,0,2,8:22 PM,8:38,,,SUB: Johnson FOR Pachulia,,
+0021000829,144,2,1,2,8:22 PM,8:26,,,MISS Johnson 25' 3PT Jump Shot,,
+0021000829,145,4,0,2,8:22 PM,8:24,Chandler REBOUND (Off:0 Def:1),,,,
+0021000829,146,5,4,2,8:22 PM,8:13,Turiaf Traveling Turnover (P1.T5),,,,
+0021000829,147,1,1,2,8:23 PM,7:56,,,Bibby 24' 3PT Jump Shot (6 PTS) (Johnson 3 AST),26 - 37,11
+0021000829,148,2,1,2,8:23 PM,7:40,MISS Douglas 25' 3PT Jump Shot,,,,
+0021000829,149,4,0,2,8:23 PM,7:38,Turiaf REBOUND (Off:1 Def:1),,,,
+0021000829,150,5,2,2,8:23 PM,7:28,Chandler Lost Ball Turnover (P1.T6),,Smith STEAL (1 STL),,
+0021000829,151,1,41,2,8:23 PM,7:25,,,Smith 2' Running Layup (4 PTS) (Williams 1 AST),28 - 37,9
+0021000829,152,6,2,2,8:23 PM,7:25,Chandler S.FOUL (P1.T2),,,,
+0021000829,153,8,0,2,8:24 PM,7:25,SUB: Fields FOR Walker,,,,
+0021000829,154,8,0,2,8:24 PM,7:25,SUB: Stoudemire FOR Shaw. Williams,,,,
+0021000829,155,3,10,2,8:24 PM,7:25,,,MISS Smith Free Throw 1 of 1,,
+0021000829,157,4,0,2,8:24 PM,7:24,Turiaf REBOUND (Off:1 Def:2),,,,
+0021000829,158,2,1,2,8:24 PM,7:08,MISS Stoudemire 5' Jump Shot,,,,
+0021000829,159,4,0,2,8:24 PM,7:07,,,Horford REBOUND (Off:1 Def:4),,
+0021000829,160,2,1,2,8:25 PM,6:53,,,MISS Johnson 5' Jump Shot,,
+0021000829,161,4,0,2,8:25 PM,6:52,Fields REBOUND (Off:0 Def:7),,,,
+0021000829,162,2,1,2,8:25 PM,6:41,MISS Douglas 15' Jump Shot,,,,
+0021000829,163,4,0,2,8:25 PM,6:40,,,Williams REBOUND (Off:0 Def:3),,
+0021000829,164,1,1,2,8:25 PM,6:29,,,Bibby 25' 3PT Jump Shot (9 PTS) (Horford 2 AST),31 - 37,6
+0021000829,165,9,1,2,8:25 PM,6:27,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0021000829,168,8,0,2,8:28 PM,6:27,SUB: Felton FOR Turiaf,,,,
+0021000829,169,8,0,2,8:28 PM,6:27,SUB: Gallinari FOR Douglas,,,,
+0021000829,170,1,1,2,8:28 PM,6:15,Felton 20' Jump Shot (9 PTS) (Stoudemire 3 AST),,,31 - 39,8
+0021000829,171,2,1,2,8:28 PM,5:55,,,MISS Horford 18' Jump Shot,,
+0021000829,172,4,0,2,8:28 PM,5:53,Chandler REBOUND (Off:0 Def:2),,,,
+0021000829,173,5,4,2,8:28 PM,5:49,Stoudemire Traveling Turnover (P3.T7),,,,
+0021000829,175,10,0,2,8:29 PM,5:37,Jump Ball Chandler vs. Bibby: Tip to Stoudemire,,,,
+0021000829,176,5,2,2,8:29 PM,5:37,Chandler STEAL (1 STL),,Bibby Lost Ball Turnover (P2.T5),,
+0021000829,177,6,1,2,8:29 PM,5:27,,,Bibby P.FOUL (P1.T2),,
+0021000829,178,1,42,2,8:29 PM,5:21,Felton 2' Driving Layup (11 PTS),,,31 - 41,10
+0021000829,179,2,1,2,8:30 PM,5:11,,,MISS Horford 6' Jump Shot,,
+0021000829,180,4,0,2,8:30 PM,5:10,Chandler REBOUND (Off:0 Def:3),,,,
+0021000829,181,2,1,2,8:30 PM,4:53,MISS Chandler 25' 3PT Jump Shot,,,,
+0021000829,183,4,0,2,8:30 PM,4:51,Gallinari REBOUND (Off:1 Def:2),,,,
+0021000829,182,2,4,2,8:30 PM,4:51,MISS Gallinari 1' Tip Shot,,,,
+0021000829,184,4,0,2,8:30 PM,4:49,,,Johnson REBOUND (Off:2 Def:2),,
+0021000829,185,6,2,2,8:30 PM,4:45,Gallinari S.FOUL (P1.T3),,,,
+0021000829,186,3,11,2,8:30 PM,4:45,,,MISS Williams Free Throw 1 of 2,,
+0021000829,187,4,1,2,8:30 PM,4:45,,,Hawks Rebound,,
+0021000829,188,3,12,2,8:30 PM,4:45,,,Williams Free Throw 2 of 2 (6 PTS),32 - 41,9
+0021000829,190,1,42,2,8:31 PM,4:33,Stoudemire 3' Driving Layup (8 PTS) (Fields 2 AST),,,32 - 43,11
+0021000829,191,1,63,2,8:31 PM,4:10,,,Johnson 9' Fadeaway Jumper (6 PTS),34 - 43,9
+0021000829,192,2,1,2,8:32 PM,3:51,MISS Gallinari 25' 3PT Jump Shot,,,,
+0021000829,193,4,0,2,8:32 PM,3:49,,,Johnson REBOUND (Off:2 Def:3),,
+0021000829,194,6,2,2,8:32 PM,3:43,Stoudemire S.FOUL (P2.T4),,,,
+0021000829,195,3,11,2,8:32 PM,3:43,,,Smith Free Throw 1 of 2 (5 PTS),35 - 43,8
+0021000829,197,3,12,2,8:32 PM,3:43,,,Smith Free Throw 2 of 2 (6 PTS),36 - 43,7
+0021000829,199,1,1,2,8:33 PM,3:24,Gallinari  3PT Jump Shot (7 PTS) (Felton 4 AST),,,36 - 46,10
+0021000829,200,1,1,2,8:34 PM,3:01,,,Williams  3PT Jump Shot (9 PTS) (Johnson 4 AST),39 - 46,7
+0021000829,201,1,1,2,8:34 PM,2:42,Stoudemire 18' Jump Shot (10 PTS) (Felton 5 AST),,,39 - 48,9
+0021000829,202,1,47,2,8:34 PM,2:24,,,Williams 10' Turnaround Jump Shot (11 PTS),41 - 48,7
+0021000829,203,6,2,2,8:34 PM,2:15,,,Horford S.FOUL (P2.T3),,
+0021000829,204,9,4,2,8:34 PM,2:15,,,,,
+0021000829,208,3,11,2,8:37 PM,2:15,Stoudemire Free Throw 1 of 2 (11 PTS),,,41 - 49,8
+0021000829,210,3,12,2,8:37 PM,2:15,Stoudemire Free Throw 2 of 2 (12 PTS),,,41 - 50,9
+0021000829,212,2,1,2,8:38 PM,1:57,,,MISS Williams  3PT Jump Shot,,
+0021000829,213,4,0,2,8:38 PM,1:55,Gallinari REBOUND (Off:1 Def:3),,,,
+0021000829,214,2,1,2,8:38 PM,1:39,MISS Stoudemire 18' Jump Shot,,,,
+0021000829,215,4,0,2,8:38 PM,1:37,,,Williams REBOUND (Off:0 Def:4),,
+0021000829,216,1,49,2,8:38 PM,1:24,,,Horford 1' Driving Dunk (4 PTS),43 - 50,7
+0021000829,217,2,1,2,8:39 PM,1:08,MISS Felton 22' Jump Shot,,,,
+0021000829,218,4,0,2,8:39 PM,1:06,,,Horford REBOUND (Off:1 Def:5),,
+0021000829,219,9,2,2,8:39 PM,1:00,,,Hawks Timeout: Short (Reg.2 Short 1),,
+0021000829,221,8,0,2,8:40 PM,1:00,,,SUB: Wilkins FOR Horford,,
+0021000829,222,8,0,2,8:40 PM,1:00,,,SUB: Evans FOR Johnson,,
+0021000829,223,9,2,2,8:40 PM,1:00,KNICKS Timeout: Short (Full 2 Short 1),,,,
+0021000829,224,8,0,2,8:40 PM,1:00,SUB: Mozgov FOR Stoudemire,,,,
+0021000829,226,1,85,2,8:41 PM,0:50,,,Smith 10' Turnaround Bank Shot (8 PTS),45 - 50,5
+0021000829,227,1,1,2,8:41 PM,0:32,Chandler 6' Jump Shot (9 PTS),,,45 - 52,7
+0021000829,228,2,1,2,8:42 PM,0:11,,,MISS Wilkins 12' Jump Shot,,
+0021000829,229,4,0,2,8:42 PM,0:10,Gallinari REBOUND (Off:1 Def:4),,,,
+0021000829,230,6,28,2,8:42 PM,0:05,,,Evans Personal Take Foul (P1.T4),,
+0021000829,231,2,1,2,8:42 PM,0:01,MISS Felton 27' 3PT Jump Shot,,,,
+0021000829,232,4,0,2,8:43 PM,0:00,,,Wilkins REBOUND (Off:0 Def:1),,
+0021000829,233,13,0,2,8:43 PM,0:00,,,,45 - 52,7
+0021000829,235,12,0,3,9:00 PM,12:00,,,,45 - 52,7
+0021000829,236,2,1,3,9:01 PM,11:43,MISS Felton 10' Jump Shot,,,,
+0021000829,237,4,0,3,9:01 PM,11:41,,,Smith REBOUND (Off:0 Def:2),,
+0021000829,238,2,1,3,9:01 PM,11:25,,,MISS Williams 25' 3PT Jump Shot,,
+0021000829,239,4,0,3,9:01 PM,11:22,Gallinari REBOUND (Off:1 Def:5),,,,
+0021000829,240,1,1,3,9:01 PM,11:09,Gallinari 25' 3PT Jump Shot (10 PTS) (Felton 6 AST),,,45 - 55,10
+0021000829,241,1,1,3,9:02 PM,10:45,,,Smith 15' Jump Shot (10 PTS) (Horford 3 AST),47 - 55,8
+0021000829,242,2,1,3,9:02 PM,10:33,MISS Stoudemire 18' Jump Shot,,,,
+0021000829,243,4,0,3,9:02 PM,10:32,,,Hawks Rebound,,
+0021000829,244,2,1,3,9:02 PM,10:13,,,MISS Horford 18' Jump Shot,,
+0021000829,245,4,0,3,9:02 PM,10:12,Fields REBOUND (Off:0 Def:8),,,,
+0021000829,246,2,5,3,9:02 PM,10:06,MISS Felton 1' Layup,,,,
+0021000829,248,4,0,3,9:02 PM,10:04,Mozgov REBOUND (Off:1 Def:0),,,,
+0021000829,247,1,4,3,9:02 PM,10:04,Mozgov  Tip Shot (4 PTS),,,47 - 57,10
+0021000829,249,2,1,3,9:03 PM,9:45,Felton BLOCK (1 BLK),,MISS Bibby 13' Jump Shot,,
+0021000829,250,4,0,3,9:03 PM,9:44,Stoudemire REBOUND (Off:0 Def:4),,,,
+0021000829,251,6,1,3,9:03 PM,9:43,,,Bibby P.FOUL (P2.T1),,
+0021000829,252,1,47,3,9:03 PM,9:30,Stoudemire 5' Turnaround Jump Shot (14 PTS) (Fields 3 AST),,,47 - 59,12
+0021000829,253,1,1,3,9:04 PM,9:17,,,Smith 22' Jump Shot (12 PTS) (Horford 4 AST),49 - 59,10
+0021000829,254,1,1,3,9:04 PM,9:01,Fields 25' 3PT Jump Shot (5 PTS) (Mozgov 1 AST),,,49 - 62,13
+0021000829,255,6,1,3,9:04 PM,8:41,Gallinari P.FOUL (P2.T1),,,,
+0021000829,256,1,7,3,9:04 PM,8:36,,,Williams 1' Dunk (13 PTS) (Smith 1 AST),51 - 62,11
+0021000829,257,5,1,3,9:05 PM,8:21,Fields Bad Pass Turnover (P1.T8),,,,
+0021000829,258,5,1,3,9:05 PM,8:10,,,Smith Bad Pass Turnover (P1.T6),,
+0021000829,259,1,8,3,9:05 PM,7:55,Stoudemire 2' Slam Dunk (16 PTS),,,51 - 64,13
+0021000829,260,6,2,3,9:05 PM,7:55,,,Smith S.FOUL (P2.T2),,
+0021000829,261,3,10,3,9:06 PM,7:55,Stoudemire Free Throw 1 of 1 (17 PTS),,,51 - 65,14
+0021000829,263,1,1,3,9:06 PM,7:36,,,Johnson 17' Jump Shot (8 PTS),53 - 65,12
+0021000829,264,1,66,3,9:07 PM,7:19,Fields 6' Jump Bank Shot (7 PTS),,,53 - 67,14
+0021000829,265,1,49,3,9:07 PM,7:02,,,Horford  Driving Dunk (6 PTS) (Bibby 2 AST),55 - 67,12
+0021000829,266,2,1,3,9:07 PM,6:38,MISS Gallinari  3PT Jump Shot,,,,
+0021000829,267,4,0,3,9:07 PM,6:37,,,Hawks Rebound,,
+0021000829,268,6,1,3,9:08 PM,6:37,Gallinari P.FOUL (P3.T2),,,,
+0021000829,269,6,11,3,9:08 PM,6:37,Gallinari T.FOUL (P3.T2),,,,
+0021000829,270,3,16,3,9:08 PM,6:37,,,MISS Johnson Free Throw Technical,,
+0021000829,271,4,1,3,9:08 PM,6:37,,,Hawks Rebound,,
+0021000829,272,1,1,3,9:08 PM,6:16,,,Johnson 25' 3PT Jump Shot (11 PTS),58 - 67,9
+0021000829,273,1,1,3,9:09 PM,6:05,Fields 24' 3PT Jump Shot (10 PTS) (Felton 7 AST),,,58 - 70,12
+0021000829,274,5,1,3,9:09 PM,5:52,,,Smith Bad Pass Turnover (P2.T7),,
+0021000829,275,9,1,3,9:09 PM,5:52,KNICKS Timeout: Regular (Full 3 Short 1),,,,
+0021000829,278,8,0,3,9:11 PM,5:52,SUB: Chandler FOR Mozgov,,,,
+0021000829,279,6,2,3,9:12 PM,5:44,,,Horford S.FOUL (P3.T3),,
+0021000829,280,3,11,3,9:12 PM,5:44,Stoudemire Free Throw 1 of 2 (18 PTS),,,58 - 71,13
+0021000829,282,3,12,3,9:12 PM,5:44,Stoudemire Free Throw 2 of 2 (19 PTS),,,58 - 72,14
+0021000829,284,7,5,3,9:13 PM,5:35,Felton Violation:Kicked Ball,,,,
+0021000829,285,2,1,3,9:13 PM,5:25,,,MISS Smith 5' Jump Shot,,
+0021000829,286,4,0,3,9:13 PM,5:24,Stoudemire REBOUND (Off:0 Def:5),,,,
+0021000829,287,5,2,3,9:13 PM,5:12,Stoudemire Lost Ball Turnover (P4.T9),,Smith STEAL (2 STL),,
+0021000829,289,8,0,3,9:14 PM,5:05,,,SUB: Crawford FOR Bibby,,
+0021000829,290,2,1,3,9:14 PM,4:54,,,MISS Johnson 15' Jump Shot,,
+0021000829,291,4,0,3,9:14 PM,4:52,Felton REBOUND (Off:0 Def:1),,,,
+0021000829,292,2,1,3,9:14 PM,4:45,MISS Felton 10' Jump Shot,,,,
+0021000829,293,4,0,3,9:14 PM,4:44,,,Horford REBOUND (Off:1 Def:6),,
+0021000829,294,2,1,3,9:14 PM,4:34,,,MISS Smith 24' 3PT Jump Shot,,
+0021000829,295,4,0,3,9:15 PM,4:32,Gallinari REBOUND (Off:1 Def:6),,,,
+0021000829,296,2,77,3,9:15 PM,4:11,MISS Stoudemire 6' Driving Jump Shot,,Horford BLOCK (1 BLK),,
+0021000829,297,10,0,3,9:15 PM,4:11,Jump Ball Stoudemire vs. Horford: Tip to,,,,
+0021000829,298,4,0,3,9:15 PM,4:11,KNICKS Rebound,,,,
+0021000829,299,5,21,3,9:16 PM,4:06,Stoudemire Palming Turnover (P5.T10),,,,
+0021000829,300,2,79,3,9:16 PM,3:51,,,MISS Crawford 20' Pullup Jump Shot,,
+0021000829,301,4,0,3,9:16 PM,3:50,Gallinari REBOUND (Off:1 Def:7),,,,
+0021000829,302,1,46,3,9:16 PM,3:40,Chandler 13' Running Jump Shot (11 PTS) (Felton 8 AST),,,58 - 74,16
+0021000829,303,6,1,3,9:17 PM,3:26,Fields P.FOUL (P1.T3),,,,
+0021000829,304,8,0,3,9:17 PM,3:26,,,SUB: Evans FOR Johnson,,
+0021000829,305,1,84,3,9:17 PM,3:12,,,Crawford 8' Running Bank Shot (2 PTS) (Smith 2 AST),60 - 74,14
+0021000829,306,2,5,3,9:17 PM,2:59,MISS Stoudemire 3' Layup,,,,
+0021000829,307,4,0,3,9:17 PM,2:57,,,Horford REBOUND (Off:1 Def:7),,
+0021000829,308,2,1,3,9:18 PM,2:49,,,MISS Smith 21' Jump Shot,,
+0021000829,309,4,0,3,9:18 PM,2:47,Fields REBOUND (Off:0 Def:9),,,,
+0021000829,310,2,5,3,9:18 PM,2:40,MISS Felton 1' Layup,,,,
+0021000829,311,4,0,3,9:18 PM,2:39,,,Smith REBOUND (Off:0 Def:3),,
+0021000829,312,2,1,3,9:18 PM,2:34,,,MISS Evans 19' Jump Shot,,
+0021000829,313,4,0,3,9:18 PM,2:32,Gallinari REBOUND (Off:1 Def:8),,,,
+0021000829,314,2,1,3,9:18 PM,2:19,MISS Chandler 25' 3PT Jump Shot,,,,
+0021000829,315,4,0,3,9:18 PM,2:17,,,Smith REBOUND (Off:0 Def:4),,
+0021000829,316,2,1,3,9:18 PM,2:09,,,MISS Crawford  3PT Jump Shot,,
+0021000829,317,4,0,3,9:18 PM,2:07,,,Evans REBOUND (Off:1 Def:0),,
+0021000829,318,2,1,3,9:18 PM,2:06,,,MISS Evans 6' Jump Shot,,
+0021000829,319,4,0,3,9:18 PM,2:05,,,Horford REBOUND (Off:2 Def:7),,
+0021000829,320,9,1,3,9:18 PM,2:02,,,Hawks Timeout: Regular (Reg.3 Short 1),,
+0021000829,322,8,0,3,9:21 PM,2:02,,,SUB: Bibby FOR Smith,,
+0021000829,323,8,0,3,9:21 PM,2:02,SUB: Turiaf FOR Stoudemire,,,,
+0021000829,324,8,0,3,9:21 PM,2:02,SUB: Douglas FOR Fields,,,,
+0021000829,325,2,1,3,9:21 PM,1:48,Turiaf BLOCK (1 BLK),,MISS Williams 3' Jump Shot,,
+0021000829,326,4,0,3,9:21 PM,1:46,,,Horford REBOUND (Off:3 Def:7),,
+0021000829,327,1,5,3,9:21 PM,1:45,,,Horford 1' Layup (8 PTS),62 - 74,12
+0021000829,328,6,1,3,9:22 PM,1:26,,,Evans P.FOUL (P2.T4),,
+0021000829,329,5,1,3,9:22 PM,1:19,Felton Bad Pass Turnover (P2.T11),,Horford STEAL (1 STL),,
+0021000829,330,1,1,3,9:22 PM,1:08,,,Bibby 25' 3PT Jump Shot (12 PTS) (Williams 2 AST),65 - 74,9
+0021000829,331,2,5,3,9:23 PM,0:48,MISS Turiaf 2' Layup,,,,
+0021000829,332,4,0,3,9:23 PM,0:47,KNICKS Rebound,,,,
+0021000829,333,6,1,3,9:23 PM,0:36,,,Bibby P.FOUL (P3.PN),,
+0021000829,334,3,11,3,9:23 PM,0:36,Gallinari Free Throw 1 of 2 (11 PTS),,,65 - 75,10
+0021000829,336,3,12,3,9:24 PM,0:36,Gallinari Free Throw 2 of 2 (12 PTS),,,65 - 76,11
+0021000829,338,2,1,3,9:24 PM,0:29,,,MISS Crawford 15' Jump Shot,,
+0021000829,339,4,0,3,9:24 PM,0:28,Felton REBOUND (Off:0 Def:2),,,,
+0021000829,340,6,3,3,9:24 PM,0:28,,,Horford L.B.FOUL (P4.PN),,
+0021000829,341,3,11,3,9:24 PM,0:28,Gallinari Free Throw 1 of 2 (13 PTS),,,65 - 77,12
+0021000829,343,8,0,3,9:25 PM,0:28,,,SUB: Wilkins FOR Horford,,
+0021000829,344,3,12,3,9:25 PM,0:28,Gallinari Free Throw 2 of 2 (14 PTS),,,65 - 78,13
+0021000829,347,5,11,3,9:26 PM,0:04,,,Hawks Turnover: Shot Clock (T#8),,
+0021000829,348,2,46,3,9:26 PM,0:01,MISS Felton 34' 3PT Running Jump Shot,,,,
+0021000829,349,4,0,3,9:26 PM,0:00,,,Williams REBOUND (Off:0 Def:5),,
+0021000829,350,13,0,3,9:26 PM,0:00,,,,65 - 78,13
+0021000829,352,12,0,4,9:29 PM,12:00,,,,65 - 78,13
+0021000829,353,1,1,4,9:30 PM,11:41,,,Bibby 25' 3PT Jump Shot (15 PTS) (Williams 3 AST),68 - 78,10
+0021000829,354,1,1,4,9:30 PM,11:24,Gallinari 24' 3PT Jump Shot (17 PTS) (Douglas 3 AST),,,68 - 81,13
+0021000829,356,1,83,4,9:31 PM,10:57,,,Smith 9' Fadeaway Bank Shot (14 PTS),70 - 81,11
+0021000829,357,2,1,4,9:31 PM,10:40,MISS Gallinari 25' 3PT Jump Shot,,,,
+0021000829,358,4,0,4,9:31 PM,10:38,Turiaf REBOUND (Off:2 Def:2),,,,
+0021000829,359,1,46,4,9:31 PM,10:28,Chandler 10' Running Jump Shot (13 PTS),,,70 - 83,13
+0021000829,360,2,5,4,9:32 PM,9:59,,,MISS Smith 2' Layup,,
+0021000829,361,4,0,4,9:32 PM,9:57,Turiaf REBOUND (Off:2 Def:3),,,,
+0021000829,362,1,46,4,9:32 PM,9:52,Douglas 25' 3PT Running Jump Shot (5 PTS),,,70 - 86,16
+0021000829,363,9,1,4,9:32 PM,9:49,,,Hawks Timeout: Regular (Reg.4 Short 1),,
+0021000829,365,8,0,4,9:34 PM,9:49,SUB: Fields FOR Gallinari,,,,
+0021000829,366,8,0,4,9:34 PM,9:49,,,SUB: Johnson FOR Evans,,
+0021000829,367,1,79,4,9:35 PM,9:33,,,Crawford 17' Pullup Jump Shot (4 PTS) (Johnson 5 AST),72 - 86,14
+0021000829,368,5,4,4,9:35 PM,9:16,Chandler Traveling Turnover (P2.T12),,,,
+0021000829,369,2,1,4,9:35 PM,9:02,,,MISS Johnson 20' Jump Shot,,
+0021000829,370,4,0,4,9:35 PM,9:01,Shaw. Williams REBOUND (Off:0 Def:2),,,,
+0021000829,372,6,2,4,9:36 PM,8:39,,,Smith S.FOUL (P3.T1),,
+0021000829,373,3,11,4,9:36 PM,8:39,Turiaf Free Throw 1 of 2 (3 PTS),,,72 - 87,15
+0021000829,375,3,12,4,9:36 PM,8:39,Turiaf Free Throw 2 of 2 (4 PTS),,,72 - 88,16
+0021000829,377,1,1,4,9:37 PM,8:20,,,Crawford  3PT Jump Shot (7 PTS) (Johnson 6 AST),75 - 88,13
+0021000829,378,2,1,4,9:37 PM,8:00,MISS Douglas 20' Jump Shot,,,,
+0021000829,379,4,0,4,9:37 PM,7:59,,,Johnson REBOUND (Off:2 Def:4),,
+0021000829,380,2,1,4,9:38 PM,7:45,,,MISS Smith 25' 3PT Jump Shot,,
+0021000829,381,4,0,4,9:38 PM,7:43,Shaw. Williams REBOUND (Off:0 Def:3),,,,
+0021000829,382,2,1,4,9:38 PM,7:32,MISS Chandler 24' 3PT Jump Shot,,,,
+0021000829,383,4,0,4,9:38 PM,7:30,,,Williams REBOUND (Off:0 Def:6),,
+0021000829,384,5,1,4,9:38 PM,7:22,Fields STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T9),,
+0021000829,385,6,2,4,9:38 PM,7:19,,,Bibby S.FOUL (P4.T2),,
+0021000829,386,8,0,4,9:38 PM,7:19,,,SUB: Horford FOR Williams,,
+0021000829,387,3,11,4,9:38 PM,7:19,MISS Fields Free Throw 1 of 2,,,,
+0021000829,389,4,0,4,9:39 PM,7:19,KNICKS Rebound,,,,
+0021000829,388,3,12,4,9:39 PM,7:19,Fields Free Throw 2 of 2 (11 PTS),,,75 - 89,14
+0021000829,391,5,1,4,9:39 PM,6:59,Fields STEAL (2 STL),,Johnson Bad Pass Turnover (P2.T10),,
+0021000829,392,2,42,4,9:39 PM,6:54,MISS Chandler 2' Driving Layup,,,,
+0021000829,393,4,0,4,9:39 PM,6:53,,,Johnson REBOUND (Off:2 Def:5),,
+0021000829,394,5,1,4,9:40 PM,6:46,Douglas STEAL (1 STL),,Smith Bad Pass Turnover (P3.T11),,
+0021000829,395,2,1,4,9:40 PM,6:26,MISS Shaw. Williams 24' 3PT Jump Shot,,,,
+0021000829,396,4,0,4,9:40 PM,6:24,,,Smith REBOUND (Off:0 Def:5),,
+0021000829,397,2,46,4,9:40 PM,6:16,,,MISS Crawford 11' Running Jump Shot,,
+0021000829,398,4,0,4,9:40 PM,6:14,Turiaf REBOUND (Off:2 Def:4),,,,
+0021000829,399,9,1,4,9:40 PM,6:14,KNICKS Timeout: Regular (Full 4 Short 1),,,,
+0021000829,401,8,0,4,9:41 PM,6:14,SUB: Gallinari FOR Shaw. Williams,,,,
+0021000829,402,8,0,4,9:43 PM,6:14,SUB: Stoudemire FOR Turiaf,,,,
+0021000829,403,8,0,4,9:43 PM,6:14,SUB: Felton FOR Douglas,,,,
+0021000829,404,1,47,4,9:43 PM,6:05,Stoudemire 15' Turnaround Jump Shot (21 PTS) (Fields 4 AST),,,75 - 91,16
+0021000829,405,2,5,4,9:44 PM,5:46,Stoudemire BLOCK (2 BLK),,MISS Horford 1' Layup,,
+0021000829,406,4,0,4,9:44 PM,5:45,,,Hawks Rebound,,
+0021000829,407,1,5,4,9:44 PM,5:39,,,Horford 2' Layup (10 PTS),77 - 91,14
+0021000829,408,2,1,4,9:44 PM,5:21,MISS Chandler 16' Jump Shot,,,,
+0021000829,409,4,0,4,9:44 PM,5:19,,,Horford REBOUND (Off:3 Def:8),,
+0021000829,410,2,42,4,9:45 PM,5:07,,,MISS Crawford 2' Driving Layup,,
+0021000829,411,4,0,4,9:45 PM,5:05,Stoudemire REBOUND (Off:0 Def:6),,,,
+0021000829,412,1,46,4,9:45 PM,5:00,Stoudemire 3' Running Jump Shot (23 PTS) (Felton 9 AST),,,77 - 93,16
+0021000829,413,6,2,4,9:45 PM,5:00,,,Johnson S.FOUL (P3.T3),,
+0021000829,415,8,0,4,9:45 PM,5:00,,,SUB: Williams FOR Johnson,,
+0021000829,416,3,10,4,9:45 PM,5:00,MISS Stoudemire Free Throw 1 of 1,,,,
+0021000829,418,4,0,4,9:46 PM,4:59,,,Williams REBOUND (Off:0 Def:7),,
+0021000829,419,2,1,4,9:46 PM,4:47,,,MISS Bibby 25' 3PT Jump Shot,,
+0021000829,420,4,0,4,9:46 PM,4:45,Chandler REBOUND (Off:0 Def:4),,,,
+0021000829,421,1,52,4,9:46 PM,4:36,Chandler 2' Alley Oop Dunk (15 PTS) (Felton 10 AST),,,77 - 95,18
+0021000829,422,1,3,4,9:46 PM,4:13,,,Horford 5' Hook Shot (12 PTS),79 - 95,16
+0021000829,423,6,11,4,9:46 PM,4:12,,,Horford T.FOUL (P4.T3),,
+0021000829,424,3,16,4,9:47 PM,4:12,MISS Felton Free Throw Technical,,,,
+0021000829,425,4,1,4,9:47 PM,4:12,KNICKS Rebound,,,,
+0021000829,426,1,42,4,9:47 PM,4:03,Chandler 1' Driving Layup (17 PTS) (Felton 11 AST),,,79 - 97,18
+0021000829,427,6,1,4,9:48 PM,3:49,Felton P.FOUL (P1.T1),,,,
+0021000829,428,6,11,4,9:48 PM,3:49,Felton T.FOUL (P1.T1),,,,
+0021000829,429,3,16,4,9:48 PM,3:49,,,MISS Crawford Free Throw Technical,,
+0021000829,430,4,1,4,9:48 PM,3:49,,,Hawks Rebound,,
+0021000829,431,8,0,4,9:49 PM,3:49,,,SUB: Powell FOR Horford,,
+0021000829,432,8,0,4,9:49 PM,3:49,,,SUB: Teague FOR Bibby,,
+0021000829,433,1,1,4,9:49 PM,3:39,,,Williams 18' Jump Shot (15 PTS),81 - 97,16
+0021000829,434,6,1,4,9:49 PM,3:26,,,Powell P.FOUL (P1.T4),,
+0021000829,435,8,0,4,9:50 PM,3:26,,,SUB: Wilkins FOR Smith,,
+0021000829,436,2,1,4,9:50 PM,3:16,MISS Stoudemire 21' Jump Shot,,,,
+0021000829,437,4,0,4,9:50 PM,3:15,,,Teague REBOUND (Off:0 Def:1),,
+0021000829,438,1,42,4,9:50 PM,3:11,,,Teague 2' Driving Layup (2 PTS),83 - 97,14
+0021000829,439,9,1,4,9:50 PM,3:10,KNICKS Timeout: Regular (Full 5 Short 1),,,,
+0021000829,443,2,5,4,9:53 PM,2:56,MISS Felton 3' Layup,,,,
+0021000829,444,4,0,4,9:53 PM,2:54,Stoudemire REBOUND (Off:1 Def:6),,,,
+0021000829,445,2,1,4,9:53 PM,2:40,MISS Stoudemire 4' Jump Shot,,,,
+0021000829,446,4,0,4,9:53 PM,2:39,,,Williams REBOUND (Off:0 Def:8),,
+0021000829,447,2,42,4,9:53 PM,2:35,Stoudemire BLOCK (3 BLK),,MISS Teague 2' Driving Layup,,
+0021000829,448,4,0,4,9:53 PM,2:33,Chandler REBOUND (Off:0 Def:5),,,,
+0021000829,449,2,5,4,9:53 PM,2:24,MISS Gallinari 1' Layup,,,,
+0021000829,450,4,0,4,9:53 PM,2:22,,,Powell REBOUND (Off:0 Def:1),,
+0021000829,451,2,1,4,9:53 PM,2:13,,,MISS Williams 25' 3PT Jump Shot,,
+0021000829,452,4,0,4,9:53 PM,2:11,KNICKS Rebound,,,,
+0021000829,453,2,1,4,9:54 PM,1:54,MISS Gallinari 25' 3PT Jump Shot,,,,
+0021000829,454,4,0,4,9:54 PM,1:52,,,Powell REBOUND (Off:0 Def:2),,
+0021000829,455,1,5,4,9:54 PM,1:32,,,Powell 2' Layup (2 PTS) (Crawford 1 AST),85 - 97,12
+0021000829,456,1,1,4,9:55 PM,1:17,Felton 18' Jump Shot (13 PTS),,,85 - 99,14
+0021000829,457,5,1,4,9:55 PM,0:56,,,Crawford Bad Pass Turnover (P1.T12),,
+0021000829,458,1,1,4,9:55 PM,0:39,Chandler  3PT Jump Shot (20 PTS) (Fields 5 AST),,,85 - 102,17
+0021000829,459,1,1,4,9:56 PM,0:27,,,Teague 25' 3PT Jump Shot (5 PTS) (Wilkins 1 AST),88 - 102,14
+0021000829,460,5,1,4,9:56 PM,0:05,Felton Bad Pass Turnover (P3.T13),,Williams STEAL (2 STL),,
+0021000829,461,1,49,4,9:56 PM,0:02,,,Williams 1' Driving Dunk (17 PTS),90 - 102,12
+0021000829,462,13,0,4,9:56 PM,0:00,,,,90 - 102,12

@@ -1,0 +1,427 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021100609,0,12,0,1,9:12 PM,12:00,,,,,
+0021100609,1,10,0,1,9:13 PM,12:00,Jump Ball Thompson vs. Smith: Tip to Thomas,,,,
+0021100609,3,2,1,1,9:13 PM,11:36,MISS Cousins 22' Jump Shot,,,,
+0021100609,4,4,0,1,9:13 PM,11:36,,,Smith REBOUND (Off:0 Def:1),,
+0021100609,5,1,42,1,9:13 PM,11:26,,,Pachulia 2' Driving Layup (2 PTS) (Smith 1 AST),2 - 0,-2
+0021100609,6,5,1,1,9:14 PM,11:20,Evans Bad Pass Turnover (P1.T1),,Teague STEAL (1 STL),,
+0021100609,7,1,42,1,9:14 PM,11:07,,,Teague 2' Driving Layup (2 PTS) (Hinrich 1 AST),4 - 0,-4
+0021100609,8,1,5,1,9:14 PM,10:53,Cousins 2' Layup (2 PTS) (Evans 1 AST),,,4 - 2,-2
+0021100609,9,2,1,1,9:14 PM,10:27,,,MISS Smith 14' Jump Shot,,
+0021100609,10,4,0,1,9:14 PM,10:26,Evans REBOUND (Off:0 Def:1),,,,
+0021100609,11,5,2,1,9:14 PM,10:22,Evans Lost Ball Turnover (P2.T2),,Johnson STEAL (1 STL),,
+0021100609,12,5,1,1,9:15 PM,10:18,Cousins STEAL (1 STL),,Teague Bad Pass Turnover (P1.T1),,
+0021100609,13,1,42,1,9:15 PM,10:14,Cousins 2' Driving Layup (4 PTS),,,4 - 4,TIE
+0021100609,14,1,1,1,9:15 PM,10:00,,,Hinrich  3PT Jump Shot (3 PTS) (Pachulia 1 AST),7 - 4,-3
+0021100609,15,5,1,1,9:15 PM,9:43,Thornton Bad Pass Turnover (P1.T3),,Teague STEAL (2 STL),,
+0021100609,16,1,65,1,9:15 PM,9:30,,,Smith 8' Jump Hook Shot (2 PTS),9 - 4,-5
+0021100609,17,9,2,1,9:15 PM,9:26,KINGS Timeout: Short (Full 0 Short 1),,,,
+0021100609,19,2,1,1,9:16 PM,9:20,MISS Thornton 25' 3PT Jump Shot,,,,
+0021100609,20,4,0,1,9:16 PM,9:19,Thompson REBOUND (Off:1 Def:0),,,,
+0021100609,21,1,7,1,9:16 PM,9:18,Thompson 1' Dunk (2 PTS),,,9 - 6,-3
+0021100609,22,6,1,1,9:17 PM,9:04,Evans P.FOUL (P1.T1),,,,
+0021100609,23,2,1,1,9:17 PM,8:58,,,MISS Johnson 9' Jump Shot,,
+0021100609,24,4,0,1,9:17 PM,8:57,,,Pachulia REBOUND (Off:1 Def:0),,
+0021100609,25,1,5,1,9:17 PM,8:55,,,Pachulia 1' Layup (4 PTS),11 - 6,-5
+0021100609,26,2,1,1,9:17 PM,8:34,MISS Thompson 11' Jump Shot,,,,
+0021100609,27,4,0,1,9:17 PM,8:33,,,Pachulia REBOUND (Off:1 Def:1),,
+0021100609,28,2,5,1,9:18 PM,8:26,,,MISS Pachulia 2' Layup,,
+0021100609,29,4,0,1,9:18 PM,8:24,,,Hinrich REBOUND (Off:1 Def:0),,
+0021100609,30,5,1,1,9:18 PM,8:17,,,Johnson Bad Pass Turnover (P1.T2),,
+0021100609,31,2,5,1,9:18 PM,8:09,MISS Thompson 3' Layup,,Smith BLOCK (1 BLK),,
+0021100609,32,4,0,1,9:18 PM,8:08,,,Pachulia REBOUND (Off:1 Def:2),,
+0021100609,33,2,1,1,9:18 PM,8:03,,,MISS Teague 18' Jump Shot,,
+0021100609,34,4,0,1,9:18 PM,8:02,Evans REBOUND (Off:0 Def:2),,,,
+0021100609,35,2,5,1,9:18 PM,7:57,MISS Evans 2' Layup,,,,
+0021100609,37,4,0,1,9:18 PM,7:55,Thompson REBOUND (Off:2 Def:0),,,,
+0021100609,36,1,87,1,9:18 PM,7:55,Thompson 1' Putback Dunk (4 PTS),,,11 - 8,-3
+0021100609,38,2,65,1,9:19 PM,7:34,,,MISS Smith 5' Jump Hook Shot,,
+0021100609,39,4,0,1,9:19 PM,7:33,Cousins REBOUND (Off:0 Def:1),,,,
+0021100609,40,1,71,1,9:19 PM,7:16,Cousins 3' Finger Roll Layup (6 PTS),,,11 - 10,-1
+0021100609,41,2,1,1,9:19 PM,7:01,,,MISS Johnson 25' 3PT Jump Shot,,
+0021100609,42,4,0,1,9:19 PM,7:00,Cousins REBOUND (Off:0 Def:2),,,,
+0021100609,43,5,1,1,9:20 PM,6:52,Thomas Bad Pass Turnover (P1.T4),,Smith STEAL (1 STL),,
+0021100609,44,6,1,1,9:20 PM,6:44,Thomas P.FOUL (P1.T2),,,,
+0021100609,45,6,2,1,9:20 PM,6:44,Thompson S.FOUL (P1.T3),,,,
+0021100609,46,3,11,1,9:20 PM,6:44,,,MISS Smith Free Throw 1 of 2,,
+0021100609,47,4,1,1,9:20 PM,6:44,,,Hawks Rebound,,
+0021100609,48,3,12,1,9:21 PM,6:44,,,MISS Smith Free Throw 2 of 2,,
+0021100609,50,4,0,1,9:21 PM,6:44,Thomas REBOUND (Off:0 Def:1),,,,
+0021100609,51,2,1,1,9:21 PM,6:37,MISS Evans 5' Jump Shot,,,,
+0021100609,52,4,0,1,9:21 PM,6:36,,,Pachulia REBOUND (Off:1 Def:3),,
+0021100609,53,1,7,1,9:21 PM,6:31,,,Teague 2' Dunk (4 PTS) (Johnson 1 AST),13 - 10,-3
+0021100609,54,1,80,1,9:21 PM,6:05,Cousins 20' Step Back Jump Shot (8 PTS),,,13 - 12,-1
+0021100609,55,6,2,1,9:22 PM,5:54,Cousins S.FOUL (P1.T4),,,,
+0021100609,56,9,1,1,9:22 PM,5:54,KINGS Timeout: Regular (Full 1 Short 1),,,,
+0021100609,58,3,11,1,9:24 PM,5:54,,,Pachulia Free Throw 1 of 2 (5 PTS),14 - 12,-2
+0021100609,60,3,12,1,9:25 PM,5:54,,,Pachulia Free Throw 2 of 2 (6 PTS),15 - 12,-3
+0021100609,62,1,1,1,9:25 PM,5:38,Thornton 7' Jump Shot (2 PTS),,,15 - 14,-1
+0021100609,63,6,2,1,9:25 PM,5:18,Thompson S.FOUL (P2.PN),,,,
+0021100609,64,3,11,1,9:26 PM,5:18,,,MISS Smith Free Throw 1 of 2,,
+0021100609,65,4,1,1,9:26 PM,5:18,,,Hawks Rebound,,
+0021100609,66,3,12,1,9:26 PM,5:18,,,MISS Smith Free Throw 2 of 2,,
+0021100609,68,4,0,1,9:26 PM,5:16,Evans REBOUND (Off:0 Def:3),,,,
+0021100609,69,5,1,1,9:26 PM,5:05,Thomas Bad Pass Turnover (P2.T5),,Smith STEAL (2 STL),,
+0021100609,70,1,49,1,9:26 PM,5:02,,,Smith 1' Driving Dunk (4 PTS),17 - 14,-3
+0021100609,71,2,1,1,9:27 PM,4:42,MISS Evans 25' 3PT Jump Shot,,,,
+0021100609,72,4,0,1,9:27 PM,4:41,,,Pachulia REBOUND (Off:1 Def:4),,
+0021100609,73,1,42,1,9:27 PM,4:37,,,Teague 2' Driving Layup (6 PTS),19 - 14,-5
+0021100609,74,6,2,1,9:27 PM,4:37,Thomas S.FOUL (P2.PN),,,,
+0021100609,75,3,10,1,9:27 PM,4:37,,,MISS Teague Free Throw 1 of 1,,
+0021100609,77,4,0,1,9:27 PM,4:36,Cousins REBOUND (Off:0 Def:3),,,,
+0021100609,78,5,1,1,9:28 PM,4:18,Thornton Bad Pass Turnover (P2.T6),,Hinrich STEAL (1 STL),,
+0021100609,79,1,8,1,9:28 PM,4:15,,,Smith 1' Slam Dunk (6 PTS) (Teague 1 AST),21 - 14,-7
+0021100609,80,1,5,1,9:28 PM,3:56,Evans 3' Layup (2 PTS) (Cousins 1 AST),,,21 - 16,-5
+0021100609,81,2,1,1,9:28 PM,3:38,,,MISS Johnson 25' 3PT Jump Shot,,
+0021100609,82,4,0,1,9:28 PM,3:38,Thornton REBOUND (Off:0 Def:1),,,,
+0021100609,83,1,1,1,9:28 PM,3:24,Thornton 24' 3PT Jump Shot (5 PTS) (Evans 2 AST),,,21 - 19,-2
+0021100609,84,5,4,1,9:29 PM,3:03,,,Johnson Traveling Turnover (P2.T3),,
+0021100609,85,8,0,1,9:29 PM,3:03,,,SUB: Williams FOR Hinrich,,
+0021100609,86,8,0,1,9:29 PM,3:03,SUB: Fredette FOR Thornton,,,,
+0021100609,87,8,0,1,9:29 PM,3:03,SUB: Garcia FOR Thomas,,,,
+0021100609,88,2,46,1,9:29 PM,2:45,MISS Fredette 13' Running Jump Shot,,,,
+0021100609,89,4,0,1,9:29 PM,2:45,,,Pachulia REBOUND (Off:1 Def:5),,
+0021100609,90,5,11,1,9:30 PM,2:21,,,Hawks Turnover: Shot Clock (T#4),,
+0021100609,91,9,1,1,9:30 PM,2:21,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0021100609,94,8,0,1,9:33 PM,2:21,SUB: Greene FOR Thompson,,,,
+0021100609,95,6,1,1,9:33 PM,2:09,,,Pachulia P.FOUL (P1.T1),,
+0021100609,96,8,0,1,9:33 PM,2:09,,,SUB: Pargo FOR Teague,,
+0021100609,97,1,94,1,9:34 PM,1:55,Greene 11' Jump Bank Hook Shot (2 PTS),,,21 - 21,TIE
+0021100609,98,2,1,1,9:34 PM,1:31,,,MISS Williams  3PT Jump Shot,,
+0021100609,99,4,0,1,9:34 PM,1:30,Greene REBOUND (Off:0 Def:1),,,,
+0021100609,100,2,1,1,9:34 PM,1:22,MISS Greene 25' 3PT Jump Shot,,,,
+0021100609,101,4,0,1,9:34 PM,1:21,,,Pachulia REBOUND (Off:1 Def:6),,
+0021100609,102,2,1,1,9:35 PM,1:00,,,MISS Smith 17' Jump Shot,,
+0021100609,103,4,0,1,9:35 PM,0:58,,,Hawks Rebound,,
+0021100609,104,8,0,1,9:35 PM,0:58,,,SUB: Radmanovic FOR Smith,,
+0021100609,105,1,1,1,9:35 PM,0:48,,,Radmanovic 20' Jump Shot (2 PTS) (Johnson 2 AST),23 - 21,-2
+0021100609,106,2,65,1,9:35 PM,0:38,MISS Cousins 8' Jump Hook Shot,,,,
+0021100609,107,4,0,1,9:35 PM,0:38,,,Radmanovic REBOUND (Off:0 Def:1),,
+0021100609,108,5,1,1,9:36 PM,0:28,Cousins STEAL (2 STL),,Pargo Bad Pass Turnover (P1.T5),,
+0021100609,109,1,1,1,9:36 PM,0:06,Fredette 25' 3PT Jump Shot (3 PTS),,,23 - 24,1
+0021100609,110,2,1,1,9:36 PM,0:01,,,MISS Radmanovic 25' 3PT Jump Shot,,
+0021100609,111,4,0,1,9:36 PM,0:00,Cousins REBOUND (Off:0 Def:4),,,,
+0021100609,112,2,1,1,9:36 PM,0:00,MISS Cousins 62' 3PT Jump Shot,,,,
+0021100609,114,4,0,1,9:36 PM,0:00,KINGS Rebound,,,,
+0021100609,113,13,0,1,9:36 PM,0:00,,,,23 - 24,1
+0021100609,116,12,0,2,9:39 PM,12:00,,,,23 - 24,1
+0021100609,117,5,21,2,9:39 PM,11:45,,,Pargo Palming Turnover (P2.T6),,
+0021100609,118,2,1,2,9:40 PM,11:31,MISS Fredette 24' 3PT Jump Shot,,,,
+0021100609,119,4,0,2,9:40 PM,11:31,,,Hawks Rebound,,
+0021100609,120,2,1,2,9:40 PM,11:19,,,MISS Pargo 16' Jump Shot,,
+0021100609,121,4,0,2,9:40 PM,11:19,Fredette REBOUND (Off:0 Def:1),,,,
+0021100609,123,6,3,2,9:41 PM,11:07,,,Williams L.B.FOUL (P1.T1),,
+0021100609,124,1,5,2,9:41 PM,10:57,Evans 2' Layup (4 PTS) (Fredette 1 AST),,,23 - 26,3
+0021100609,125,5,1,2,9:41 PM,10:52,Garcia STEAL (1 STL),,Dampier Bad Pass Turnover (P1.T7),,
+0021100609,126,2,5,2,9:41 PM,10:49,MISS Evans 3' Layup,,Dampier BLOCK (1 BLK),,
+0021100609,127,4,0,2,9:41 PM,10:48,Cousins REBOUND (Off:1 Def:4),,,,
+0021100609,128,1,1,2,9:41 PM,10:46,Cousins 5' Jump Shot (10 PTS),,,23 - 28,5
+0021100609,129,1,42,2,9:42 PM,10:32,,,Hinrich 2' Driving Layup (5 PTS),25 - 28,3
+0021100609,130,6,2,2,9:42 PM,10:17,,,Dampier S.FOUL (P1.T2),,
+0021100609,131,3,11,2,9:42 PM,10:17,Cousins Free Throw 1 of 2 (11 PTS),,,25 - 29,4
+0021100609,133,8,0,2,9:42 PM,10:17,SUB: Salmons FOR Evans,,,,
+0021100609,134,3,12,2,9:43 PM,10:17,Cousins Free Throw 2 of 2 (12 PTS),,,25 - 30,5
+0021100609,136,2,1,2,9:43 PM,10:04,,,MISS Pargo 24' 3PT Jump Shot,,
+0021100609,137,4,0,2,9:43 PM,10:03,Cousins REBOUND (Off:1 Def:5),,,,
+0021100609,138,6,1,2,9:43 PM,10:02,,,Williams P.FOUL (P2.T3),,
+0021100609,139,2,1,2,9:44 PM,9:38,MISS Cousins 22' Jump Shot,,,,
+0021100609,140,4,0,2,9:44 PM,9:37,,,Williams REBOUND (Off:0 Def:1),,
+0021100609,141,1,1,2,9:44 PM,9:24,,,Pargo 4' Jump Shot (2 PTS) (Dampier 1 AST),27 - 30,3
+0021100609,142,2,1,2,9:44 PM,9:02,MISS Fredette 25' 3PT Jump Shot,,,,
+0021100609,143,4,0,2,9:44 PM,9:01,,,Pargo REBOUND (Off:0 Def:1),,
+0021100609,144,6,1,2,9:45 PM,8:57,Cousins P.FOUL (P2.T1),,,,
+0021100609,145,9,4,2,9:45 PM,8:57,,,,,
+0021100609,147,8,0,2,9:47 PM,8:57,SUB: Hayes FOR Cousins,,,,
+0021100609,148,1,49,2,9:47 PM,8:43,,,Williams 3' Driving Dunk (2 PTS),29 - 30,1
+0021100609,149,1,63,2,9:48 PM,8:22,Greene 18' Fadeaway Jumper (4 PTS) (Garcia 1 AST),,,29 - 32,3
+0021100609,150,1,1,2,9:48 PM,7:59,,,Williams 15' Jump Shot (4 PTS),31 - 32,1
+0021100609,151,1,5,2,9:48 PM,7:45,Fredette 3' Layup (5 PTS) (Hayes 1 AST),,,31 - 34,3
+0021100609,152,1,42,2,9:49 PM,7:21,,,Hinrich 3' Driving Layup (7 PTS),33 - 34,1
+0021100609,153,1,1,2,9:49 PM,7:12,Salmons 16' Jump Shot (2 PTS),,,33 - 36,3
+0021100609,154,6,2,2,9:49 PM,7:12,,,Hinrich S.FOUL (P1.T4),,
+0021100609,155,8,0,2,9:49 PM,7:12,,,SUB: Teague FOR Pargo,,
+0021100609,156,8,0,2,9:49 PM,7:12,,,SUB: Pachulia FOR Dampier,,
+0021100609,157,3,10,2,9:50 PM,7:12,MISS Salmons Free Throw 1 of 1,,,,
+0021100609,159,4,0,2,9:50 PM,7:11,,,Pachulia REBOUND (Off:1 Def:7),,
+0021100609,160,1,1,2,9:50 PM,6:54,,,Pachulia 18' Jump Shot (8 PTS) (Teague 2 AST),35 - 36,1
+0021100609,161,1,1,2,9:50 PM,6:44,Fredette 21' Jump Shot (7 PTS),,,35 - 38,3
+0021100609,162,2,42,2,9:50 PM,6:19,Greene BLOCK (1 BLK),,MISS Williams 4' Driving Layup,,
+0021100609,163,4,0,2,9:50 PM,6:17,,,Williams REBOUND (Off:1 Def:1),,
+0021100609,164,1,5,2,9:51 PM,6:16,,,Williams 2' Layup (6 PTS),37 - 38,1
+0021100609,165,2,1,2,9:51 PM,5:57,MISS Salmons 13' Jump Shot,,,,
+0021100609,166,4,0,2,9:51 PM,5:56,,,Radmanovic REBOUND (Off:0 Def:2),,
+0021100609,167,1,46,2,9:51 PM,5:46,,,Teague 6' Running Jump Shot (8 PTS),39 - 38,-1
+0021100609,168,2,5,2,9:51 PM,5:28,MISS Hayes 3' Layup,,,,
+0021100609,169,4,0,2,9:51 PM,5:27,,,Radmanovic REBOUND (Off:0 Def:3),,
+0021100609,170,2,1,2,9:51 PM,5:17,,,MISS Hinrich 25' 3PT Jump Shot,,
+0021100609,172,4,0,2,9:52 PM,5:16,,,Radmanovic REBOUND (Off:1 Def:3),,
+0021100609,171,2,53,2,9:52 PM,5:16,,,MISS Radmanovic 2' Tip Shot,,
+0021100609,174,4,0,2,9:52 PM,5:15,,,Radmanovic REBOUND (Off:2 Def:3),,
+0021100609,173,2,53,2,9:52 PM,5:15,,,MISS Radmanovic 2' Tip Shot,,
+0021100609,175,4,0,2,9:52 PM,5:14,,,Pachulia REBOUND (Off:2 Def:7),,
+0021100609,176,2,1,2,9:52 PM,5:10,,,MISS Williams 25' 3PT Jump Shot,,
+0021100609,177,4,0,2,9:52 PM,5:09,Hayes REBOUND (Off:0 Def:1),,,,
+0021100609,178,1,1,2,9:52 PM,5:00,Salmons 24' 3PT Jump Shot (5 PTS) (Fredette 2 AST),,,39 - 41,2
+0021100609,179,9,1,2,9:52 PM,4:50,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0021100609,181,8,0,2,9:54 PM,4:50,SUB: Thompson FOR Greene,,,,
+0021100609,182,8,0,2,9:54 PM,4:50,,,SUB: Johnson FOR Williams,,
+0021100609,183,8,0,2,9:54 PM,4:50,,,SUB: Smith FOR Radmanovic,,
+0021100609,184,2,1,2,9:55 PM,4:39,,,MISS Smith 25' 3PT Jump Shot,,
+0021100609,185,4,0,2,9:55 PM,4:38,,,Pachulia REBOUND (Off:3 Def:7),,
+0021100609,186,1,1,2,9:55 PM,4:30,,,Pachulia 16' Jump Shot (10 PTS) (Johnson 3 AST),41 - 41,TIE
+0021100609,187,1,5,2,9:55 PM,4:09,Hayes 2' Layup (2 PTS) (Fredette 3 AST),,,41 - 43,2
+0021100609,188,6,1,2,9:56 PM,3:52,Thompson P.FOUL (P3.T2),,,,
+0021100609,189,8,0,2,9:56 PM,3:52,SUB: Cousins FOR Thompson,,,,
+0021100609,190,2,1,2,9:56 PM,3:42,,,MISS Johnson 15' Jump Shot,,
+0021100609,191,4,0,2,9:56 PM,3:41,KINGS Rebound,,,,
+0021100609,192,6,3,2,9:56 PM,3:41,,,Pachulia L.B.FOUL (P2.PN),,
+0021100609,193,3,11,2,9:57 PM,3:41,Cousins Free Throw 1 of 2 (13 PTS),,,41 - 44,3
+0021100609,195,3,12,2,9:57 PM,3:41,Cousins Free Throw 2 of 2 (14 PTS),,,41 - 45,4
+0021100609,197,5,11,2,9:58 PM,3:16,,,Hawks Turnover: Shot Clock (T#8),,
+0021100609,198,1,5,2,9:58 PM,3:06,Cousins 1' Layup (16 PTS) (Salmons 1 AST),,,41 - 47,6
+0021100609,199,6,2,2,9:58 PM,3:06,,,Smith S.FOUL (P1.PN),,
+0021100609,201,8,0,2,9:58 PM,3:06,,,SUB: Dampier FOR Pachulia,,
+0021100609,202,3,10,2,9:59 PM,3:06,MISS Cousins Free Throw 1 of 1,,,,
+0021100609,204,4,0,2,9:59 PM,3:05,,,Dampier REBOUND (Off:0 Def:1),,
+0021100609,205,2,1,2,9:59 PM,2:47,,,MISS Johnson 18' Jump Shot,,
+0021100609,206,4,0,2,9:59 PM,2:46,,,Dampier REBOUND (Off:1 Def:1),,
+0021100609,209,1,1,2,9:59 PM,2:25,,,Smith 24' 3PT Jump Shot (9 PTS) (Johnson 4 AST),44 - 47,3
+0021100609,210,6,1,2,10:00 PM,2:11,,,Dampier P.FOUL (P2.PN),,
+0021100609,211,9,1,2,10:00 PM,2:11,KINGS Timeout: Regular (Full 2 Short 1),,,,
+0021100609,214,3,11,2,10:02 PM,2:11,Cousins Free Throw 1 of 2 (17 PTS),,,44 - 48,4
+0021100609,216,3,12,2,10:02 PM,2:11,Cousins Free Throw 2 of 2 (18 PTS),,,44 - 49,5
+0021100609,218,6,2,2,10:03 PM,1:51,Cousins S.FOUL (P3.T3),,,,
+0021100609,219,3,11,2,10:03 PM,1:51,,,Johnson Free Throw 1 of 2 (1 PTS),45 - 49,4
+0021100609,221,8,0,2,10:03 PM,1:51,,,SUB: Williams FOR Dampier,,
+0021100609,222,8,0,2,10:03 PM,1:51,SUB: Evans FOR Cousins,,,,
+0021100609,223,3,12,2,10:03 PM,1:51,,,Johnson Free Throw 2 of 2 (2 PTS),46 - 49,3
+0021100609,225,7,5,2,10:04 PM,1:40,,,Smith Violation:Kicked Ball,,
+0021100609,226,2,1,2,10:04 PM,1:32,MISS Evans 25' 3PT Jump Shot,,,,
+0021100609,227,4,0,2,10:04 PM,1:31,,,Williams REBOUND (Off:1 Def:2),,
+0021100609,228,1,1,2,10:04 PM,1:23,,,Williams 17' Jump Shot (8 PTS) (Teague 3 AST),48 - 49,1
+0021100609,229,6,2,2,10:05 PM,1:08,,,Hinrich S.FOUL (P2.PN),,
+0021100609,230,3,11,2,10:05 PM,1:08,MISS Salmons Free Throw 1 of 2,,,,
+0021100609,231,4,1,2,10:05 PM,1:08,KINGS Rebound,,,,
+0021100609,233,8,0,2,10:05 PM,1:08,SUB: Thornton FOR Fredette,,,,
+0021100609,234,3,12,2,10:05 PM,1:08,Salmons Free Throw 2 of 2 (6 PTS),,,48 - 50,2
+0021100609,236,5,2,2,10:06 PM,0:49,Thornton STEAL (1 STL),,Williams Lost Ball Turnover (P1.T9),,
+0021100609,237,2,1,2,10:06 PM,0:40,MISS Garcia 25' 3PT Jump Shot,,,,
+0021100609,238,4,0,2,10:06 PM,0:40,,,Smith REBOUND (Off:0 Def:2),,
+0021100609,239,1,1,2,10:06 PM,0:34,,,Johnson 24' 3PT Jump Shot (5 PTS) (Smith 2 AST),51 - 50,-1
+0021100609,240,1,42,2,10:06 PM,0:15,Evans 3' Driving Layup (6 PTS),,,51 - 52,1
+0021100609,241,2,1,2,10:07 PM,0:00,,,MISS Smith 25' 3PT Jump Shot,,
+0021100609,243,4,0,2,10:07 PM,0:00,,,Hawks Rebound,,
+0021100609,242,13,0,2,10:07 PM,0:00,,,,51 - 52,1
+0021100609,245,12,0,3,10:24 PM,12:00,,,,51 - 52,1
+0021100609,246,1,65,3,10:24 PM,11:43,,,Smith 4' Jump Hook Shot (11 PTS),53 - 52,-1
+0021100609,247,1,1,3,10:24 PM,11:19,Thornton 15' Jump Shot (7 PTS),,,53 - 54,1
+0021100609,248,5,1,3,10:25 PM,11:06,Thompson STEAL (1 STL),,Teague Bad Pass Turnover (P2.T10),,
+0021100609,249,5,2,3,10:25 PM,10:51,Evans Lost Ball Turnover (P3.T7),,Johnson STEAL (2 STL),,
+0021100609,250,1,5,3,10:25 PM,10:46,,,Johnson 3' Layup (7 PTS) (Teague 4 AST),55 - 54,-1
+0021100609,251,1,1,3,10:25 PM,10:25,Thomas 26' 3PT Jump Shot (3 PTS),,,55 - 57,2
+0021100609,252,1,1,3,10:26 PM,10:09,,,Smith 22' Jump Shot (13 PTS) (Teague 5 AST),57 - 57,TIE
+0021100609,253,1,1,3,10:26 PM,9:49,Thomas 24' 3PT Jump Shot (6 PTS) (Evans 3 AST),,,57 - 60,3
+0021100609,254,2,1,3,10:26 PM,9:34,,,MISS Hinrich 24' 3PT Jump Shot,,
+0021100609,255,4,0,3,10:26 PM,9:34,Thompson REBOUND (Off:2 Def:1),,,,
+0021100609,256,2,1,3,10:26 PM,9:23,MISS Thomas 17' Jump Shot,,Teague BLOCK (1 BLK),,
+0021100609,257,4,0,3,10:26 PM,9:21,Thornton REBOUND (Off:1 Def:1),,,,
+0021100609,258,5,1,3,10:26 PM,9:16,Thornton Bad Pass Turnover (P3.T8),,Johnson STEAL (3 STL),,
+0021100609,259,5,1,3,10:27 PM,9:13,,,Johnson Bad Pass Turnover (P3.T11),,
+0021100609,260,2,1,3,10:27 PM,9:00,MISS Thornton 25' 3PT Jump Shot,,,,
+0021100609,261,4,0,3,10:27 PM,9:00,,,Smith REBOUND (Off:0 Def:3),,
+0021100609,262,1,1,3,10:27 PM,8:44,,,Smith 19' Jump Shot (15 PTS) (Johnson 5 AST),59 - 60,1
+0021100609,263,6,2,3,10:28 PM,8:25,,,Pachulia S.FOUL (P3.T1),,
+0021100609,264,3,11,3,10:28 PM,8:25,Thornton Free Throw 1 of 2 (8 PTS),,,59 - 61,2
+0021100609,266,3,12,3,10:28 PM,8:25,Thornton Free Throw 2 of 2 (9 PTS),,,59 - 62,3
+0021100609,268,1,1,3,10:29 PM,8:07,,,Johnson 6' Jump Shot (9 PTS),61 - 62,1
+0021100609,269,6,2,3,10:29 PM,8:07,Evans S.FOUL (P2.T1),,,,
+0021100609,270,3,10,3,10:29 PM,8:07,,,Johnson Free Throw 1 of 1 (10 PTS),62 - 62,TIE
+0021100609,272,2,1,3,10:29 PM,7:49,MISS Cousins 18' Jump Shot,,,,
+0021100609,273,4,0,3,10:29 PM,7:48,,,Teague REBOUND (Off:0 Def:1),,
+0021100609,274,2,1,3,10:30 PM,7:31,,,MISS Hinrich  3PT Jump Shot,,
+0021100609,275,4,0,3,10:30 PM,7:31,Thomas REBOUND (Off:0 Def:2),,,,
+0021100609,276,2,1,3,10:30 PM,7:11,MISS Thomas 18' Jump Shot,,,,
+0021100609,277,4,0,3,10:30 PM,7:10,Thornton REBOUND (Off:2 Def:1),,,,
+0021100609,278,6,2,3,10:30 PM,7:08,,,Smith S.FOUL (P2.T2),,
+0021100609,279,3,11,3,10:30 PM,7:08,Cousins Free Throw 1 of 2 (19 PTS),,,62 - 63,1
+0021100609,281,3,12,3,10:31 PM,7:08,Cousins Free Throw 2 of 2 (20 PTS),,,62 - 64,2
+0021100609,284,1,1,3,10:31 PM,6:47,,,Smith 16' Jump Shot (17 PTS) (Hinrich 2 AST),64 - 64,TIE
+0021100609,286,2,1,3,10:31 PM,6:26,MISS Thomas 25' 3PT Jump Shot,,,,
+0021100609,287,4,0,3,10:31 PM,6:26,,,Pachulia REBOUND (Off:3 Def:8),,
+0021100609,288,5,1,3,10:31 PM,6:24,Thomas STEAL (1 STL),,Pachulia Bad Pass Turnover (P1.T12),,
+0021100609,289,2,5,3,10:32 PM,6:21,MISS Thomas 4' Layup,,,,
+0021100609,290,4,0,3,10:32 PM,6:20,,,Pachulia REBOUND (Off:3 Def:9),,
+0021100609,291,1,42,3,10:32 PM,6:14,,,Teague 3' Driving Layup (10 PTS),66 - 64,-2
+0021100609,292,2,1,3,10:32 PM,5:54,MISS Thompson 9' Jump Shot,,,,
+0021100609,293,4,0,3,10:32 PM,5:54,Thomas REBOUND (Off:1 Def:2),,,,
+0021100609,294,2,1,3,10:32 PM,5:47,MISS Evans 26' 3PT Jump Shot,,,,
+0021100609,295,4,0,3,10:32 PM,5:46,,,Pachulia REBOUND (Off:3 Def:10),,
+0021100609,296,5,2,3,10:32 PM,5:39,Cousins STEAL (3 STL),,Teague Lost Ball Turnover (P3.T13),,
+0021100609,297,1,42,3,10:32 PM,5:36,Evans 2' Driving Layup (8 PTS),,,66 - 66,TIE
+0021100609,298,2,1,3,10:33 PM,5:17,,,MISS Johnson 15' Jump Shot,,
+0021100609,299,4,0,3,10:33 PM,5:16,KINGS Rebound,,,,
+0021100609,300,9,1,3,10:33 PM,5:16,KINGS Timeout: Regular (Full 3 Short 1),,,,
+0021100609,302,8,0,3,10:35 PM,5:16,SUB: Greene FOR Thompson,,,,
+0021100609,303,1,65,3,10:35 PM,4:55,Cousins 6' Jump Hook Shot (22 PTS),,,66 - 68,2
+0021100609,304,1,46,3,10:36 PM,4:31,,,Smith 6' Running Jump Shot (19 PTS),68 - 68,TIE
+0021100609,305,5,2,3,10:36 PM,4:13,Cousins Lost Ball Turnover (P1.T9),,Pachulia STEAL (1 STL),,
+0021100609,306,1,1,3,10:36 PM,4:05,,,Teague 25' 3PT Jump Shot (13 PTS) (Hinrich 3 AST),71 - 68,-3
+0021100609,307,1,1,3,10:37 PM,3:44,Cousins 19' Jump Shot (24 PTS) (Evans 4 AST),,,71 - 70,-1
+0021100609,308,1,49,3,10:37 PM,3:21,,,Teague 2' Driving Dunk (15 PTS),73 - 70,-3
+0021100609,309,6,4,3,10:37 PM,3:03,Thomas OFF.Foul (P3),,,,
+0021100609,310,5,5,3,10:37 PM,3:03,Thomas Foul Turnover (P3.T10),,,,
+0021100609,311,8,0,3,10:38 PM,3:03,,,SUB: Williams FOR Hinrich,,
+0021100609,312,1,1,3,10:38 PM,2:49,,,Johnson 18' Jump Shot (12 PTS),75 - 70,-5
+0021100609,313,1,5,3,10:38 PM,2:33,Cousins 2' Layup (26 PTS) (Evans 5 AST),,,75 - 72,-3
+0021100609,314,2,1,3,10:39 PM,2:12,,,MISS Pachulia 17' Jump Shot,,
+0021100609,316,4,0,3,10:39 PM,2:10,,,Smith REBOUND (Off:1 Def:3),,
+0021100609,315,1,4,3,10:39 PM,2:10,,,Smith 2' Tip Shot (21 PTS),77 - 72,-5
+0021100609,317,6,1,3,10:39 PM,1:55,,,Pachulia P.FOUL (P4.T3),,
+0021100609,318,9,1,3,10:39 PM,1:55,,,Hawks Timeout: Regular (Reg.3 Short 0),,
+0021100609,320,8,0,3,10:42 PM,1:55,,,SUB: Radmanovic FOR Pachulia,,
+0021100609,322,2,1,3,10:42 PM,1:42,MISS Evans 4' Jump Shot,,Smith BLOCK (2 BLK),,
+0021100609,323,4,0,3,10:42 PM,1:41,Thornton REBOUND (Off:3 Def:1),,,,
+0021100609,324,2,1,3,10:42 PM,1:38,MISS Thornton 27' 3PT Jump Shot,,,,
+0021100609,325,4,0,3,10:42 PM,1:37,,,Radmanovic REBOUND (Off:2 Def:4),,
+0021100609,326,2,1,3,10:43 PM,1:15,,,MISS Williams 21' Jump Shot,,
+0021100609,327,4,0,3,10:43 PM,1:15,KINGS Rebound,,,,
+0021100609,328,2,5,3,10:43 PM,1:02,MISS Evans 3' Layup,,,,
+0021100609,329,4,0,3,10:43 PM,1:00,,,Radmanovic REBOUND (Off:2 Def:5),,
+0021100609,330,2,1,3,10:44 PM,0:45,Evans BLOCK (1 BLK),,MISS Smith 4' Jump Shot,,
+0021100609,331,4,0,3,10:44 PM,0:45,,,Hawks Rebound,,
+0021100609,332,1,1,3,10:44 PM,0:40,,,Radmanovic 24' 3PT Jump Shot (5 PTS) (Teague 6 AST),80 - 72,-8
+0021100609,333,2,1,3,10:44 PM,0:28,MISS Greene  3PT Jump Shot,,,,
+0021100609,334,4,0,3,10:44 PM,0:28,KINGS Rebound,,,,
+0021100609,335,6,3,3,10:44 PM,0:28,,,Williams L.B.FOUL (P3.PN),,
+0021100609,336,3,11,3,10:44 PM,0:28,Thomas Free Throw 1 of 2 (7 PTS),,,80 - 73,-7
+0021100609,338,8,0,3,10:45 PM,0:28,,,SUB: Hinrich FOR Johnson,,
+0021100609,339,3,12,3,10:45 PM,0:28,Thomas Free Throw 2 of 2 (8 PTS),,,80 - 74,-6
+0021100609,341,2,1,3,10:45 PM,0:06,Thomas BLOCK (1 BLK),,MISS Hinrich 13' Jump Shot,,
+0021100609,342,4,0,3,10:45 PM,0:04,Evans REBOUND (Off:0 Def:4),,,,
+0021100609,343,13,0,3,10:46 PM,0:00,,,,80 - 74,-6
+0021100609,345,12,0,4,10:49 PM,12:00,,,,80 - 74,-6
+0021100609,346,2,1,4,10:49 PM,11:46,MISS Thornton 5' Jump Shot,,,,
+0021100609,347,4,0,4,10:49 PM,11:45,,,Radmanovic REBOUND (Off:2 Def:6),,
+0021100609,348,1,1,4,10:49 PM,11:36,,,Hinrich  3PT Jump Shot (10 PTS) (Teague 7 AST),83 - 74,-9
+0021100609,349,6,26,4,10:49 PM,11:20,Cousins Offensive Charge Foul (P4.T1),,,,
+0021100609,350,5,5,4,10:49 PM,11:20,Cousins Foul Turnover (P2.T11),,,,
+0021100609,351,8,0,4,10:50 PM,11:20,SUB: Hayes FOR Cousins,,,,
+0021100609,352,8,0,4,10:50 PM,11:20,SUB: Garcia FOR Thornton,,,,
+0021100609,353,1,1,4,10:50 PM,11:06,,,Smith 15' Jump Shot (23 PTS) (Hinrich 4 AST),85 - 74,-11
+0021100609,354,2,1,4,10:50 PM,10:46,MISS Thomas 25' 3PT Jump Shot,,,,
+0021100609,355,4,0,4,10:50 PM,10:46,,,Hawks Rebound,,
+0021100609,356,2,1,4,10:51 PM,10:32,,,MISS Smith 25' 3PT Jump Shot,,
+0021100609,357,4,0,4,10:51 PM,10:31,Garcia REBOUND (Off:0 Def:1),,,,
+0021100609,358,1,1,4,10:51 PM,10:20,Hayes 5' Jump Shot (4 PTS) (Evans 6 AST),,,85 - 76,-9
+0021100609,359,1,1,4,10:51 PM,10:02,,,Smith 22' Jump Shot (25 PTS) (Williams 1 AST),87 - 76,-11
+0021100609,360,2,1,4,10:51 PM,9:49,MISS Evans 18' Jump Shot,,,,
+0021100609,361,4,0,4,10:51 PM,9:48,,,Williams REBOUND (Off:1 Def:3),,
+0021100609,362,6,3,4,10:52 PM,9:44,Evans L.B.FOUL (P3.T2),,,,
+0021100609,363,8,0,4,10:52 PM,9:44,SUB: Salmons FOR Thomas,,,,
+0021100609,364,8,0,4,10:52 PM,9:44,SUB: Fredette FOR Greene,,,,
+0021100609,365,2,1,4,10:52 PM,9:31,,,MISS Teague 6' Jump Shot,,
+0021100609,366,4,0,4,10:52 PM,9:30,Garcia REBOUND (Off:0 Def:2),,,,
+0021100609,367,5,1,4,10:52 PM,9:19,Evans Bad Pass Turnover (P4.T12),,Smith STEAL (3 STL),,
+0021100609,368,2,5,4,10:52 PM,9:14,,,MISS Teague 1' Layup,,
+0021100609,369,4,0,4,10:53 PM,9:12,,,Smith REBOUND (Off:2 Def:3),,
+0021100609,370,6,2,4,10:53 PM,9:12,Salmons S.FOUL (P1.T3),,,,
+0021100609,371,9,1,4,10:53 PM,9:12,KINGS Timeout: Regular (Full 4 Short 1),,,,
+0021100609,374,8,0,4,10:55 PM,9:12,,,SUB: Johnson FOR Teague,,
+0021100609,375,3,11,4,10:55 PM,9:12,,,Smith Free Throw 1 of 2 (26 PTS),88 - 76,-12
+0021100609,377,3,12,4,10:56 PM,9:12,,,MISS Smith Free Throw 2 of 2,,
+0021100609,379,4,0,4,10:56 PM,9:11,Garcia REBOUND (Off:0 Def:3),,,,
+0021100609,380,6,1,4,10:56 PM,8:57,,,Smith P.FOUL (P3.T1),,
+0021100609,381,2,1,4,10:56 PM,8:45,MISS Salmons 13' Jump Shot,,,,
+0021100609,382,4,0,4,10:57 PM,8:44,,,Radmanovic REBOUND (Off:2 Def:7),,
+0021100609,383,2,1,4,10:57 PM,8:26,Salmons BLOCK (1 BLK),,MISS Williams 4' Jump Shot,,
+0021100609,384,4,0,4,10:57 PM,8:24,Salmons REBOUND (Off:0 Def:1),,,,
+0021100609,385,1,1,4,10:57 PM,8:19,Salmons 25' 3PT Jump Shot (9 PTS) (Evans 7 AST),,,88 - 79,-9
+0021100609,386,2,1,4,10:57 PM,7:57,,,MISS Johnson 21' Jump Shot,,
+0021100609,387,4,0,4,10:57 PM,7:56,Hayes REBOUND (Off:0 Def:2),,,,
+0021100609,388,5,2,4,10:58 PM,7:45,Fredette Lost Ball Turnover (P1.T13),,Johnson STEAL (4 STL),,
+0021100609,389,1,42,4,10:58 PM,7:24,,,Hinrich 2' Driving Layup (12 PTS),90 - 79,-11
+0021100609,390,2,1,4,10:58 PM,7:09,MISS Salmons 25' 3PT Jump Shot,,,,
+0021100609,391,4,0,4,10:58 PM,7:08,Evans REBOUND (Off:1 Def:4),,,,
+0021100609,392,2,5,4,10:58 PM,6:56,MISS Evans 2' Layup,,,,
+0021100609,393,4,0,4,10:58 PM,6:55,,,Johnson REBOUND (Off:0 Def:1),,
+0021100609,394,6,29,4,10:59 PM,6:53,Fredette Shooting Block Foul (P1.T4),,,,
+0021100609,395,3,11,4,10:59 PM,6:53,,,Williams Free Throw 1 of 2 (9 PTS),91 - 79,-12
+0021100609,397,8,0,4,10:59 PM,6:53,SUB: Cousins FOR Evans,,,,
+0021100609,398,8,0,4,10:59 PM,6:53,SUB: Thornton FOR Hayes,,,,
+0021100609,399,3,12,4,10:59 PM,6:53,,,MISS Williams Free Throw 2 of 2,,
+0021100609,401,4,0,4,10:59 PM,6:51,Cousins REBOUND (Off:1 Def:6),,,,
+0021100609,402,1,1,4,11:00 PM,6:33,Fredette 25' 3PT Jump Shot (10 PTS) (Cousins 2 AST),,,91 - 82,-9
+0021100609,403,2,1,4,11:00 PM,6:08,,,MISS Smith 16' Jump Shot,,
+0021100609,404,4,0,4,11:00 PM,6:08,Salmons REBOUND (Off:0 Def:2),,,,
+0021100609,405,5,1,4,11:00 PM,6:03,Salmons Bad Pass Turnover (P1.T14),,Johnson STEAL (5 STL),,
+0021100609,406,5,1,4,11:00 PM,5:59,Fredette STEAL (1 STL),,Radmanovic Bad Pass Turnover (P1.T14),,
+0021100609,407,2,1,4,11:00 PM,5:54,MISS Garcia 24' 3PT Jump Shot,,,,
+0021100609,408,4,0,4,11:00 PM,5:53,,,Radmanovic REBOUND (Off:2 Def:8),,
+0021100609,409,9,1,4,11:00 PM,5:49,,,Hawks Timeout: Regular (Reg.4 Short 0),,
+0021100609,412,8,0,4,11:03 PM,5:49,,,SUB: Teague FOR Williams,,
+0021100609,413,8,0,4,11:03 PM,5:49,,,SUB: Pachulia FOR Radmanovic,,
+0021100609,414,1,1,4,11:03 PM,5:32,,,Johnson  3PT Jump Shot (15 PTS) (Smith 3 AST),94 - 82,-12
+0021100609,415,1,1,4,11:04 PM,5:15,Cousins 5' Jump Shot (28 PTS),,,94 - 84,-10
+0021100609,416,6,2,4,11:04 PM,5:15,,,Pachulia S.FOUL (P5.T2),,
+0021100609,417,3,10,4,11:04 PM,5:15,MISS Cousins Free Throw 1 of 1,,,,
+0021100609,419,4,0,4,11:04 PM,5:14,,,Johnson REBOUND (Off:0 Def:2),,
+0021100609,420,2,1,4,11:04 PM,4:55,,,MISS Smith 10' Jump Shot,,
+0021100609,421,4,0,4,11:05 PM,4:54,,,Hawks Rebound,,
+0021100609,422,5,2,4,11:05 PM,4:46,Garcia STEAL (2 STL),,Johnson Lost Ball Turnover (P4.T15),,
+0021100609,423,2,1,4,11:05 PM,4:34,MISS Fredette 25' 3PT Jump Shot,,,,
+0021100609,424,4,0,4,11:05 PM,4:34,,,Smith REBOUND (Off:2 Def:4),,
+0021100609,425,6,1,4,11:05 PM,4:34,Cousins P.FOUL (P5.PN),,,,
+0021100609,426,5,1,4,11:06 PM,4:29,Salmons STEAL (1 STL),,Hinrich Bad Pass Turnover (P1.T16),,
+0021100609,427,1,7,4,11:06 PM,4:27,Salmons 1' Dunk (11 PTS),,,94 - 86,-8
+0021100609,428,2,1,4,11:06 PM,4:03,,,MISS Smith 24' 3PT Jump Shot,,
+0021100609,429,4,0,4,11:06 PM,4:02,,,Hinrich REBOUND (Off:2 Def:0),,
+0021100609,430,2,5,4,11:06 PM,4:01,Cousins BLOCK (1 BLK),,MISS Hinrich 3' Layup,,
+0021100609,431,4,0,4,11:06 PM,3:59,Cousins REBOUND (Off:1 Def:7),,,,
+0021100609,432,5,1,4,11:06 PM,3:55,Cousins Bad Pass Turnover (P3.T15),,Teague STEAL (3 STL),,
+0021100609,433,2,5,4,11:07 PM,3:38,,,MISS Teague 2' Layup,,
+0021100609,434,4,0,4,11:07 PM,3:37,Cousins REBOUND (Off:1 Def:8),,,,
+0021100609,435,1,1,4,11:07 PM,3:32,Thornton 24' 3PT Jump Shot (12 PTS) (Fredette 4 AST),,,94 - 89,-5
+0021100609,436,1,65,4,11:07 PM,3:02,,,Smith 7' Jump Hook Shot (28 PTS) (Johnson 6 AST),96 - 89,-7
+0021100609,437,1,1,4,11:08 PM,2:42,Garcia 17' Jump Shot (2 PTS) (Salmons 2 AST),,,96 - 91,-5
+0021100609,438,6,4,4,11:08 PM,2:16,,,Pachulia OFF.Foul (P6),,
+0021100609,439,5,5,4,11:08 PM,2:16,,,Pachulia Foul Turnover (P2.T17),,
+0021100609,440,9,4,4,11:08 PM,2:16,,,,,
+0021100609,442,8,0,4,11:10 PM,2:16,,,SUB: Williams FOR Pachulia,,
+0021100609,444,2,42,4,11:11 PM,1:57,MISS Thornton 2' Driving Layup,,Williams BLOCK (1 BLK),,
+0021100609,445,4,0,4,11:11 PM,1:54,,,Johnson REBOUND (Off:0 Def:3),,
+0021100609,446,2,1,4,11:11 PM,1:34,,,MISS Johnson 11' Jump Shot,,
+0021100609,447,4,0,4,11:11 PM,1:33,Cousins REBOUND (Off:1 Def:9),,,,
+0021100609,448,2,5,4,11:12 PM,1:25,MISS Cousins 3' Layup,,,,
+0021100609,450,4,0,4,11:12 PM,1:24,Cousins REBOUND (Off:2 Def:9),,,,
+0021100609,449,2,4,4,11:12 PM,1:24,MISS Cousins 3' Tip Shot,,,,
+0021100609,451,4,0,4,11:12 PM,1:23,,,Hinrich REBOUND (Off:2 Def:1),,
+0021100609,452,2,1,4,11:12 PM,1:03,,,MISS Williams 24' 3PT Jump Shot,,
+0021100609,453,4,0,4,11:12 PM,1:02,Cousins REBOUND (Off:2 Def:10),,,,
+0021100609,454,2,1,4,11:12 PM,0:44,MISS Thornton 25' 3PT Jump Shot,,,,
+0021100609,455,4,0,4,11:12 PM,0:44,,,Williams REBOUND (Off:1 Def:4),,
+0021100609,456,6,28,4,11:12 PM,0:33,Garcia Personal Take Foul (P1.PN),,,,
+0021100609,457,3,11,4,11:13 PM,0:33,,,Johnson Free Throw 1 of 2 (16 PTS),97 - 91,-6
+0021100609,459,3,12,4,11:13 PM,0:33,,,Johnson Free Throw 2 of 2 (17 PTS),98 - 91,-7
+0021100609,461,9,2,4,11:13 PM,0:33,KINGS Timeout: Short (Full 4 Short 2),,,,
+0021100609,464,5,1,4,11:15 PM,0:31,Cousins Bad Pass Turnover (P4.T16),,Williams STEAL (1 STL),,
+0021100609,465,1,49,4,11:15 PM,0:27,,,Williams  Driving Dunk (11 PTS),100 - 91,-9
+0021100609,466,6,2,4,11:15 PM,0:27,Cousins S.FOUL (P6.PN),,,,
+0021100609,467,8,0,4,11:15 PM,0:27,SUB: Hayes FOR Cousins,,,,
+0021100609,468,3,10,4,11:16 PM,0:27,,,Williams Free Throw 1 of 1 (12 PTS),101 - 91,-10
+0021100609,470,1,1,4,11:16 PM,0:19,Garcia  3PT Jump Shot (5 PTS) (Salmons 3 AST),,,101 - 94,-7
+0021100609,471,6,28,4,11:16 PM,0:18,Salmons Personal Take Foul (P2.PN),,,,
+0021100609,472,3,11,4,11:16 PM,0:18,,,Johnson Free Throw 1 of 2 (18 PTS),102 - 94,-8
+0021100609,474,3,12,4,11:17 PM,0:18,,,Johnson Free Throw 2 of 2 (19 PTS),103 - 94,-9
+0021100609,476,1,5,4,11:17 PM,0:14,Fredette 1' Layup (12 PTS) (Salmons 4 AST),,,103 - 96,-7
+0021100609,477,6,28,4,11:17 PM,0:14,Fredette Personal Take Foul (P2.PN),,,,
+0021100609,478,3,11,4,11:17 PM,0:14,,,MISS Teague Free Throw 1 of 2,,
+0021100609,479,4,1,4,11:17 PM,0:14,,,Hawks Rebound,,
+0021100609,480,3,12,4,11:18 PM,0:14,,,Teague Free Throw 2 of 2 (16 PTS),104 - 96,-8
+0021100609,482,1,1,4,11:18 PM,0:08,Salmons 26' 3PT Jump Shot (14 PTS),,,104 - 99,-5
+0021100609,483,6,28,4,11:18 PM,0:07,Salmons Personal Take Foul (P3.PN),,,,
+0021100609,484,3,11,4,11:18 PM,0:07,,,Johnson Free Throw 1 of 2 (20 PTS),105 - 99,-6
+0021100609,486,3,12,4,11:18 PM,0:07,,,Johnson Free Throw 2 of 2 (21 PTS),106 - 99,-7
+0021100609,488,9,2,4,11:19 PM,0:07,KINGS Timeout: Short (Full 4 Short 3),,,,
+0021100609,492,2,1,4,11:20 PM,0:03,MISS Thornton 26' 3PT Jump Shot,,,,
+0021100609,493,4,0,4,11:20 PM,0:02,,,Teague REBOUND (Off:0 Def:2),,
+0021100609,494,13,0,4,11:20 PM,0:00,,,,106 - 99,-7

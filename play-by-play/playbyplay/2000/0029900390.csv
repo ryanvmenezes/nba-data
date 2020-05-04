@@ -1,0 +1,441 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029900390,0,12,0,1,11:42 AM,12:00,,,,,
+0029900390,1,10,0,1,11:42 AM,12:00,Jump Ball Wallace vs. Garnett: Tip to Armstrong,,,,
+0029900390,2,6,1,1,11:42 AM,11:53,,,Szczerbiak P.FOUL (P1.T1),,
+0029900390,3,2,1,1,11:43 AM,11:44,MISS Williams 7' Jump Shot,,,,
+0029900390,4,4,0,1,11:43 AM,11:41,Abdul-Wahad REBOUND (Off:1 Def:0),,,,
+0029900390,5,1,5,1,11:43 AM,11:40,Abdul-Wahad  Layup (2 PTS),,,0 - 2,2
+0029900390,6,1,1,1,11:43 AM,11:24,,,Brandon 18' Jump Shot (2 PTS) (Nesterovic 1 AST),2 - 2,TIE
+0029900390,7,1,1,1,11:43 AM,11:14,Doleac 18' Jump Shot (2 PTS) (Armstrong 1 AST),,,2 - 4,2
+0029900390,8,1,1,1,11:44 AM,11:00,,,Garnett 21' Jump Shot (2 PTS) (Nesterovic 2 AST),4 - 4,TIE
+0029900390,9,2,1,1,11:44 AM,10:48,MISS Armstrong 22' Jump Shot,,,,
+0029900390,10,4,0,1,11:44 AM,10:46,,,Garnett REBOUND (Off:0 Def:1),,
+0029900390,11,1,1,1,11:44 AM,10:37,,,Brandon 21' Jump Shot (4 PTS) (Garnett 1 AST),6 - 4,-2
+0029900390,12,2,1,1,11:44 AM,10:21,MISS Williams 17' Jump Shot,,,,
+0029900390,13,4,0,1,11:44 AM,10:19,,,Garnett REBOUND (Off:0 Def:2),,
+0029900390,14,1,5,1,11:44 AM,10:14,,,Sealy  Layup (2 PTS) (Brandon 1 AST),8 - 4,-4
+0029900390,15,2,5,1,11:45 AM,9:58,MISS Doleac  Layup,,Garnett BLOCK (1 BLK),,
+0029900390,16,4,0,1,11:45 AM,9:55,,,Nesterovic REBOUND (Off:0 Def:1),,
+0029900390,17,2,2,1,11:45 AM,9:50,,,MISS Szczerbiak 9' Running Jump Shot,,
+0029900390,18,4,0,1,11:45 AM,9:49,Wallace REBOUND (Off:0 Def:1),,,,
+0029900390,19,6,2,1,11:45 AM,9:46,,,Nesterovic S.FOUL (P1.T2),,
+0029900390,20,3,11,1,11:45 AM,9:46,Williams Free Throw 1 of 2 (1 PTS),,,8 - 5,-3
+0029900390,21,3,12,1,11:45 AM,9:46,Williams Free Throw 2 of 2 (2 PTS),,,8 - 6,-2
+0029900390,22,1,1,1,11:46 AM,9:34,,,Brandon 15' Jump Shot (6 PTS) (Garnett 2 AST),10 - 6,-4
+0029900390,23,5,12,1,11:46 AM,9:31,Wallace Inbound Turnover (P1.T1),,,,
+0029900390,25,2,1,1,11:46 AM,9:14,,,MISS Nesterovic 14' Jump Shot,,
+0029900390,26,4,0,1,11:46 AM,9:13,Abdul-Wahad REBOUND (Off:1 Def:1),,,,
+0029900390,27,2,1,1,11:46 AM,9:02,MISS Williams 18' Jump Shot,,,,
+0029900390,28,4,0,1,11:46 AM,9:01,,,Brandon REBOUND (Off:0 Def:1),,
+0029900390,29,2,1,1,11:47 AM,8:44,,,MISS Garnett 16' Jump Shot,,
+0029900390,30,4,0,1,11:47 AM,8:43,Williams REBOUND (Off:0 Def:1),,,,
+0029900390,31,1,5,1,11:47 AM,8:33,Wallace  Layup (2 PTS),,,10 - 8,-2
+0029900390,32,2,1,1,11:47 AM,8:14,,,MISS Sealy 15' Jump Shot,,
+0029900390,33,4,0,1,11:47 AM,8:12,MAGIC Rebound,,,,
+0029900390,34,2,2,1,11:48 AM,8:00,MISS Armstrong 8' Running Jump Shot,,,,
+0029900390,35,4,0,1,11:48 AM,7:59,,,Nesterovic REBOUND (Off:0 Def:2),,
+0029900390,36,1,1,1,11:48 AM,7:41,,,Sealy 20' Jump Shot (4 PTS) (Nesterovic 3 AST),12 - 8,-4
+0029900390,37,2,5,1,11:48 AM,7:28,MISS Abdul-Wahad  Layup,,Garnett BLOCK (2 BLK),,
+0029900390,38,4,0,1,11:48 AM,7:27,Wallace REBOUND (Off:1 Def:1),,,,
+0029900390,39,2,5,1,11:48 AM,7:25,MISS Wallace  Layup,,Nesterovic BLOCK (1 BLK),,
+0029900390,40,4,0,1,11:48 AM,7:23,,,Brandon REBOUND (Off:0 Def:2),,
+0029900390,41,2,5,1,11:48 AM,7:20,,,MISS Szczerbiak  Layup,,
+0029900390,43,4,0,1,11:48 AM,7:19,,,Garnett REBOUND (Off:1 Def:2),,
+0029900390,42,1,4,1,11:48 AM,7:19,,,Garnett  Tip Shot (4 PTS),14 - 8,-6
+0029900390,44,1,5,1,11:49 AM,7:03,Doleac  Layup (4 PTS),,,14 - 10,-4
+0029900390,45,5,1,1,11:49 AM,6:50,Abdul-Wahad STEAL (1 STL),,Brandon Bad Pass Turnover (P1.T1),,
+0029900390,46,1,5,1,11:49 AM,6:46,Armstrong  Layup (2 PTS) (Abdul-Wahad 1 AST),,,14 - 12,-2
+0029900390,47,6,1,1,11:49 AM,6:28,Doleac P.FOUL (P1.T1),,,,
+0029900390,48,9,1,1,11:49 AM,6:28,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0029900390,50,2,1,1,11:52 AM,6:22,,,MISS Nesterovic 15' Jump Shot,,
+0029900390,52,4,0,1,11:52 AM,6:20,,,Garnett REBOUND (Off:2 Def:2),,
+0029900390,51,2,4,1,11:52 AM,6:20,,,MISS Garnett  Tip Shot,,
+0029900390,54,4,0,1,11:52 AM,6:19,,,Garnett REBOUND (Off:3 Def:2),,
+0029900390,53,2,4,1,11:52 AM,6:19,,,MISS Garnett  Tip Shot,,
+0029900390,55,4,0,1,11:52 AM,6:18,Abdul-Wahad REBOUND (Off:1 Def:2),,,,
+0029900390,56,1,1,1,11:52 AM,6:14,Abdul-Wahad 19' Jump Shot (4 PTS),,,14 - 14,TIE
+0029900390,57,2,1,1,11:52 AM,5:48,,,MISS Garnett 19' Jump Shot,,
+0029900390,58,4,0,1,11:52 AM,5:46,Abdul-Wahad REBOUND (Off:1 Def:3),,,,
+0029900390,59,2,6,1,11:53 AM,5:41,MISS Abdul-Wahad  Driving Layup,,Garnett BLOCK (3 BLK),,
+0029900390,60,4,0,1,11:53 AM,5:40,,,Garnett REBOUND (Off:3 Def:3),,
+0029900390,61,1,1,1,11:53 AM,5:34,,,Szczerbiak 9' Jump Shot (2 PTS) (Brandon 2 AST),16 - 14,-2
+0029900390,62,5,1,1,11:53 AM,5:29,Armstrong Bad Pass Turnover (P1.T2),,,,
+0029900390,63,1,1,1,11:53 AM,5:15,,,Szczerbiak 24' 3PT Jump Shot (5 PTS) (Garnett 3 AST),19 - 14,-5
+0029900390,64,2,1,1,11:53 AM,5:02,MISS Williams 18' Jump Shot,,,,
+0029900390,65,4,0,1,11:53 AM,5:00,,,Garnett REBOUND (Off:3 Def:4),,
+0029900390,66,1,5,1,11:53 AM,4:53,,,Nesterovic  Layup (2 PTS) (Brandon 3 AST),21 - 14,-7
+0029900390,67,2,1,1,11:54 AM,4:37,MISS Abdul-Wahad 7' Jump Shot,,,,
+0029900390,69,4,0,1,11:54 AM,4:35,Wallace REBOUND (Off:2 Def:1),,,,
+0029900390,68,1,7,1,11:54 AM,4:35,Wallace  Dunk (4 PTS),,,21 - 16,-5
+0029900390,70,5,1,1,11:54 AM,4:21,Armstrong STEAL (1 STL),,Nesterovic Bad Pass Turnover (P1.T2),,
+0029900390,71,1,6,1,11:54 AM,4:18,Armstrong  Driving Layup (4 PTS) (Wallace 1 AST),,,21 - 18,-3
+0029900390,72,1,5,1,11:54 AM,4:11,,,Sealy  Layup (6 PTS) (Brandon 4 AST),23 - 18,-5
+0029900390,73,1,6,1,11:54 AM,4:01,Williams  Driving Layup (4 PTS),,,23 - 20,-3
+0029900390,74,6,1,1,11:55 AM,3:49,Abdul-Wahad P.FOUL (P1.T2),,,,
+0029900390,75,8,0,1,11:55 AM,3:49,,,SUB: Smith FOR Nesterovic,,
+0029900390,76,8,0,1,11:55 AM,3:49,SUB: Maggette FOR Abdul-Wahad,,,,
+0029900390,77,3,11,1,11:55 AM,3:49,,,MISS Sealy Free Throw 1 of 2,,
+0029900390,78,4,1,1,11:55 AM,3:49,,,Timberwolves Rebound,,
+0029900390,79,3,12,1,11:55 AM,3:49,,,Sealy Free Throw 2 of 2 (7 PTS),24 - 20,-4
+0029900390,80,2,1,1,11:56 AM,3:36,MISS Doleac 18' Jump Shot,,,,
+0029900390,81,4,0,1,11:56 AM,3:34,Wallace REBOUND (Off:3 Def:1),,,,
+0029900390,82,2,1,1,11:56 AM,3:32,MISS Armstrong 25' 3PT Jump Shot,,Brandon BLOCK (1 BLK),,
+0029900390,83,4,0,1,11:56 AM,3:28,,,Garnett REBOUND (Off:3 Def:5),,
+0029900390,84,5,1,1,11:56 AM,3:26,Armstrong STEAL (2 STL),,Sealy Bad Pass Turnover (P1.T3),,
+0029900390,85,5,1,1,11:56 AM,3:24,Armstrong Bad Pass Turnover (P2.T3),,Brandon STEAL (1 STL),,
+0029900390,86,5,1,1,11:56 AM,3:22,Maggette STEAL (1 STL),,Brandon Bad Pass Turnover (P2.T4),,
+0029900390,90,7,3,1,11:56 AM,3:18,,,Garnett Violation:Lane,,
+0029900390,88,1,6,1,11:56 AM,3:18,Williams  Driving Layup (6 PTS),,,24 - 22,-2
+0029900390,91,5,1,1,11:57 AM,2:58,Armstrong STEAL (3 STL),,Sealy Bad Pass Turnover (P2.T5),,
+0029900390,92,1,8,1,11:57 AM,2:54,Armstrong  Slam Dunk (6 PTS),,,24 - 24,TIE
+0029900390,93,9,1,1,11:57 AM,2:51,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,
+0029900390,96,8,0,1,11:59 AM,2:51,,,SUB: Mitchell FOR Szczerbiak,,
+0029900390,97,8,0,1,11:59 AM,2:51,,,SUB: Peeler FOR Sealy,,
+0029900390,98,8,0,1,11:59 AM,2:51,SUB: Gatling FOR Williams,,,,
+0029900390,99,8,0,1,11:59 AM,2:51,SUB: Outlaw FOR Doleac,,,,
+0029900390,100,6,2,1,12:00 PM,2:35,Gatling S.FOUL (P1.T3),,,,
+0029900390,101,3,11,1,12:00 PM,2:35,,,MISS Garnett Free Throw 1 of 2,,
+0029900390,102,4,1,1,12:00 PM,2:35,,,Timberwolves Rebound,,
+0029900390,103,3,12,1,12:00 PM,2:35,,,Garnett Free Throw 2 of 2 (5 PTS),25 - 24,-1
+0029900390,104,2,8,1,12:00 PM,2:22,MISS Armstrong  Slam Dunk,,,,
+0029900390,105,4,0,1,12:00 PM,2:20,Outlaw REBOUND (Off:1 Def:0),,,,
+0029900390,106,2,1,1,12:01 PM,2:12,MISS Maggette 18' Jump Shot,,,,
+0029900390,107,4,0,1,12:01 PM,2:09,,,Garnett REBOUND (Off:3 Def:6),,
+0029900390,108,2,1,1,12:01 PM,1:52,,,MISS Mitchell 19' Jump Shot,,
+0029900390,109,4,0,1,12:01 PM,1:50,,,Garnett REBOUND (Off:4 Def:6),,
+0029900390,110,1,3,1,12:01 PM,1:48,,,Garnett 6' Hook Shot (7 PTS),27 - 24,-3
+0029900390,111,2,1,1,12:01 PM,1:34,MISS Armstrong 25' 3PT Jump Shot,,,,
+0029900390,112,4,0,1,12:01 PM,1:32,,,Garnett REBOUND (Off:4 Def:7),,
+0029900390,113,5,2,1,12:02 PM,1:16,Outlaw STEAL (1 STL),,Smith Lost Ball Turnover (P1.T6),,
+0029900390,114,1,8,1,12:02 PM,0:51,Wallace  Slam Dunk (6 PTS),,,27 - 26,-1
+0029900390,115,1,6,1,12:02 PM,0:35,,,Mitchell  Driving Layup (2 PTS),29 - 26,-3
+0029900390,116,6,2,1,12:02 PM,0:29,,,Garnett S.FOUL (P1.T3),,
+0029900390,118,8,0,1,12:03 PM,0:29,SUB: Atkins FOR Armstrong,,,,
+0029900390,120,3,11,1,12:03 PM,0:29,MISS Wallace Free Throw 1 of 2,,,,
+0029900390,122,4,0,1,12:03 PM,0:29,MAGIC Rebound,,,,
+0029900390,121,3,12,1,12:03 PM,0:29,MISS Wallace Free Throw 2 of 2,,,,
+0029900390,124,4,0,1,12:03 PM,0:29,,,Garnett REBOUND (Off:4 Def:8),,
+0029900390,125,6,1,1,12:04 PM,0:09,Atkins P.FOUL (P1.T4),,,,
+0029900390,126,8,0,1,12:04 PM,0:09,SUB: Amaechi FOR Wallace,,,,
+0029900390,127,2,1,1,12:04 PM,0:02,Atkins BLOCK (1 BLK),,MISS Brandon 19' Jump Shot,,
+0029900390,128,4,0,1,12:04 PM,0:00,,,Timberwolves Rebound,,
+0029900390,129,13,0,1,12:04 PM,0:00,,,,29 - 26,-3
+0029900390,131,12,0,2,12:07 PM,12:00,,,,29 - 26,-3
+0029900390,132,2,1,2,12:07 PM,11:43,,,MISS Smith 13' Jump Shot,,
+0029900390,133,4,0,2,12:07 PM,11:41,Maggette REBOUND (Off:0 Def:1),,,,
+0029900390,134,1,1,2,12:07 PM,11:34,Maggette 13' Jump Shot (2 PTS),,,29 - 28,-1
+0029900390,135,6,2,2,12:08 PM,11:15,Amaechi S.FOUL (P1.T1),,,,
+0029900390,136,3,11,2,12:08 PM,11:15,,,MISS Mitchell Free Throw 1 of 2,,
+0029900390,137,4,1,2,12:08 PM,11:15,,,Timberwolves Rebound,,
+0029900390,138,3,12,2,12:08 PM,11:15,,,Mitchell Free Throw 2 of 2 (3 PTS),30 - 28,-2
+0029900390,139,2,1,2,12:09 PM,11:01,MISS Maggette 19' Jump Shot,,,,
+0029900390,140,4,0,2,12:09 PM,10:59,,,Avery REBOUND (Off:0 Def:1),,
+0029900390,141,6,2,2,12:09 PM,10:55,Maggette S.FOUL (P1.T2),,,,
+0029900390,142,3,11,2,12:09 PM,10:55,,,MISS Peeler Free Throw 1 of 2,,
+0029900390,143,4,1,2,12:09 PM,10:55,,,Timberwolves Rebound,,
+0029900390,144,3,12,2,12:09 PM,10:55,,,Peeler Free Throw 2 of 2 (1 PTS),31 - 28,-3
+0029900390,145,1,5,2,12:10 PM,10:41,Gatling  Layup (2 PTS) (Atkins 1 AST),,,31 - 30,-1
+0029900390,146,6,2,2,12:10 PM,10:41,,,Smith S.FOUL (P1.T1),,
+0029900390,147,3,10,2,12:10 PM,10:41,MISS Gatling Free Throw 1 of 1,,,,
+0029900390,148,4,0,2,12:10 PM,10:40,,,Mitchell REBOUND (Off:0 Def:1),,
+0029900390,149,1,5,2,12:11 PM,10:24,,,Smith  Layup (2 PTS) (Peeler 1 AST),33 - 30,-3
+0029900390,150,2,1,2,12:11 PM,10:08,MISS Amaechi 18' Jump Shot,,,,
+0029900390,151,4,0,2,12:11 PM,10:05,,,Timberwolves Rebound,,
+0029900390,152,5,1,2,12:11 PM,9:52,Outlaw STEAL (2 STL),,Garnett Bad Pass Turnover (P1.T7),,
+0029900390,153,5,1,2,12:12 PM,9:41,Gatling Bad Pass Turnover (P1.T4),,,,
+0029900390,154,9,4,2,12:12 PM,9:41,,,,,
+0029900390,157,1,1,2,12:14 PM,9:25,,,Avery 19' Jump Shot (2 PTS) (Garnett 4 AST),35 - 30,-5
+0029900390,158,2,1,2,12:15 PM,9:07,MISS Atkins 19' Jump Shot,,,,
+0029900390,159,4,0,2,12:15 PM,9:05,,,Garnett REBOUND (Off:4 Def:9),,
+0029900390,160,1,1,2,12:15 PM,8:58,,,Garnett 24' 3PT Jump Shot (10 PTS) (Avery 1 AST),38 - 30,-8
+0029900390,161,6,2,2,12:15 PM,8:33,,,Mitchell S.FOUL (P1.T2),,
+0029900390,162,8,0,2,12:16 PM,8:33,SUB: Garrity FOR Amaechi,,,,
+0029900390,163,3,11,2,12:16 PM,8:33,Maggette Free Throw 1 of 2 (3 PTS),,,38 - 31,-7
+0029900390,164,3,12,2,12:16 PM,8:33,Maggette Free Throw 2 of 2 (4 PTS),,,38 - 32,-6
+0029900390,165,6,2,2,12:17 PM,8:20,Gatling S.FOUL (P2.T3),,,,
+0029900390,166,3,11,2,12:17 PM,8:20,,,Garnett Free Throw 1 of 2 (11 PTS),39 - 32,-7
+0029900390,167,3,12,2,12:17 PM,8:20,,,MISS Garnett Free Throw 2 of 2,,
+0029900390,168,4,0,2,12:17 PM,8:19,Gatling REBOUND (Off:0 Def:1),,,,
+0029900390,169,5,1,2,12:17 PM,8:06,Gatling Bad Pass Turnover (P2.T5),,Avery STEAL (1 STL),,
+0029900390,170,5,1,2,12:17 PM,8:03,,,Avery Bad Pass Turnover (P1.T8),,
+0029900390,171,5,1,2,12:18 PM,7:51,Garrity Bad Pass Turnover (P1.T6),,Mitchell STEAL (1 STL),,
+0029900390,172,2,1,2,12:18 PM,7:46,,,MISS Avery 14' Jump Shot,,
+0029900390,173,4,0,2,12:18 PM,7:44,,,Garnett REBOUND (Off:5 Def:9),,
+0029900390,174,1,1,2,12:18 PM,7:31,,,Garnett 20' Jump Shot (13 PTS) (Avery 2 AST),41 - 32,-9
+0029900390,175,9,1,2,12:18 PM,7:25,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0029900390,176,8,0,2,12:20 PM,7:25,SUB: Williams FOR Gatling,,,,
+0029900390,177,8,0,2,12:20 PM,7:25,SUB: Wallace FOR Outlaw,,,,
+0029900390,178,8,0,2,12:20 PM,7:25,,,SUB: Szczerbiak FOR Garnett,,
+0029900390,179,6,1,2,12:21 PM,7:17,,,Szczerbiak P.FOUL (P2.T3),,
+0029900390,180,1,7,2,12:21 PM,7:09,Wallace  Dunk (8 PTS) (Williams 1 AST),,,41 - 34,-7
+0029900390,181,1,1,2,12:21 PM,6:48,,,Mitchell 20' Jump Shot (5 PTS) (Smith 1 AST),43 - 34,-9
+0029900390,182,6,1,2,12:21 PM,6:37,,,Avery P.FOUL (P1.T4),,
+0029900390,183,1,1,2,12:22 PM,6:28,Garrity 19' Jump Shot (2 PTS) (Atkins 2 AST),,,43 - 36,-7
+0029900390,184,2,6,2,12:22 PM,6:04,,,MISS Smith  Driving Layup,,
+0029900390,185,4,0,2,12:22 PM,6:03,,,Smith REBOUND (Off:1 Def:0),,
+0029900390,186,1,7,2,12:22 PM,6:02,,,Smith  Dunk (4 PTS),45 - 36,-9
+0029900390,187,1,2,2,12:22 PM,5:54,Maggette 3' Running Jump Shot (6 PTS),,,45 - 38,-7
+0029900390,188,6,1,2,12:23 PM,5:43,Wallace P.FOUL (P1.T4),,,,
+0029900390,189,8,0,2,12:23 PM,5:43,SUB: Outlaw FOR Wallace,,,,
+0029900390,190,8,0,2,12:23 PM,5:43,,,SUB: Brandon FOR Avery,,
+0029900390,191,8,0,2,12:23 PM,5:43,SUB: Armstrong FOR Atkins,,,,
+0029900390,192,1,1,2,12:24 PM,5:30,,,Mitchell 20' Jump Shot (7 PTS) (Brandon 5 AST),47 - 38,-9
+0029900390,193,1,1,2,12:24 PM,5:21,Outlaw 3' Jump Shot (2 PTS),,,47 - 40,-7
+0029900390,194,6,4,2,12:24 PM,5:09,,,Smith OFF.Foul (P2),,
+0029900390,195,5,5,2,12:24 PM,5:09,,,Smith Foul Turnover (P2.T9),,
+0029900390,196,8,0,2,12:24 PM,5:09,SUB: Abdul-Wahad FOR Maggette,,,,
+0029900390,197,8,0,2,12:24 PM,5:09,,,SUB: Sealy FOR Peeler,,
+0029900390,198,1,1,2,12:25 PM,4:53,Garrity 24' 3PT Jump Shot (5 PTS) (Williams 2 AST),,,47 - 43,-4
+0029900390,199,9,1,2,12:25 PM,4:43,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,
+0029900390,202,8,0,2,12:27 PM,4:43,,,SUB: Garnett FOR Mitchell,,
+0029900390,203,2,3,2,12:27 PM,4:30,,,MISS Smith 3' Hook Shot,,
+0029900390,204,4,0,2,12:27 PM,4:28,Abdul-Wahad REBOUND (Off:1 Def:4),,,,
+0029900390,205,1,6,2,12:27 PM,4:22,Abdul-Wahad  Driving Layup (6 PTS),,,47 - 45,-2
+0029900390,206,1,1,2,12:28 PM,4:05,,,Szczerbiak 22' Jump Shot (7 PTS) (Brandon 6 AST),49 - 45,-4
+0029900390,207,2,1,2,12:28 PM,3:56,MISS Williams 13' Jump Shot,,,,
+0029900390,208,4,0,2,12:28 PM,3:54,,,Garnett REBOUND (Off:5 Def:10),,
+0029900390,209,2,1,2,12:28 PM,3:45,,,MISS Sealy 17' Jump Shot,,
+0029900390,210,4,0,2,12:28 PM,3:42,Williams REBOUND (Off:0 Def:2),,,,
+0029900390,211,2,1,2,12:28 PM,3:38,MISS Armstrong 25' 3PT Jump Shot,,,,
+0029900390,212,4,0,2,12:28 PM,3:36,,,Szczerbiak REBOUND (Off:0 Def:1),,
+0029900390,213,2,1,2,12:28 PM,3:26,,,MISS Szczerbiak 24' 3PT Jump Shot,,
+0029900390,214,4,0,2,12:28 PM,3:25,,,Sealy REBOUND (Off:1 Def:0),,
+0029900390,215,2,1,2,12:29 PM,3:11,,,MISS Smith 18' Jump Shot,,
+0029900390,216,4,0,2,12:29 PM,3:09,,,Garnett REBOUND (Off:6 Def:10),,
+0029900390,217,2,1,2,12:29 PM,2:51,,,MISS Brandon 17' Jump Shot,,
+0029900390,218,4,0,2,12:29 PM,2:49,MAGIC Rebound,,,,
+0029900390,219,1,1,2,12:29 PM,2:40,Armstrong 16' Jump Shot (8 PTS),,,49 - 47,-2
+0029900390,220,1,6,2,12:30 PM,2:26,,,Szczerbiak  Driving Layup (9 PTS) (Smith 2 AST),51 - 47,-4
+0029900390,221,1,6,2,12:30 PM,2:15,Abdul-Wahad  Driving Layup (8 PTS) (Armstrong 2 AST),,,51 - 49,-2
+0029900390,222,6,2,2,12:30 PM,2:15,,,Sealy S.FOUL (P1.PN),,
+0029900390,223,3,10,2,12:30 PM,2:15,MISS Abdul-Wahad Free Throw 1 of 1,,,,
+0029900390,224,4,0,2,12:30 PM,2:15,,,Garnett REBOUND (Off:6 Def:11),,
+0029900390,225,1,1,2,12:31 PM,1:55,,,Brandon 19' Jump Shot (8 PTS) (Garnett 5 AST),53 - 49,-4
+0029900390,226,1,1,2,12:31 PM,1:39,Abdul-Wahad 13' Jump Shot (10 PTS),,,53 - 51,-2
+0029900390,227,1,1,2,12:31 PM,1:25,,,Smith 18' Jump Shot (6 PTS) (Brandon 7 AST),55 - 51,-4
+0029900390,228,2,1,2,12:31 PM,1:14,MISS Armstrong 19' Jump Shot,,,,
+0029900390,229,4,0,2,12:31 PM,1:12,,,Sealy REBOUND (Off:1 Def:1),,
+0029900390,230,2,1,2,12:32 PM,0:51,,,MISS Brandon 17' Jump Shot,,
+0029900390,232,4,0,2,12:32 PM,0:47,,,Garnett REBOUND (Off:7 Def:11),,
+0029900390,231,2,4,2,12:32 PM,0:47,,,MISS Garnett  Tip Shot,,
+0029900390,233,4,0,2,12:32 PM,0:46,,,Garnett REBOUND (Off:8 Def:11),,
+0029900390,234,1,7,2,12:32 PM,0:45,,,Garnett  Dunk (15 PTS),57 - 51,-6
+0029900390,235,2,1,2,12:32 PM,0:29,MISS Outlaw 5' Jump Shot,,,,
+0029900390,236,4,0,2,12:32 PM,0:27,,,Smith REBOUND (Off:1 Def:1),,
+0029900390,237,6,1,2,12:32 PM,0:26,Armstrong P.FOUL (P1.PN),,,,
+0029900390,238,3,11,2,12:33 PM,0:26,,,Smith Free Throw 1 of 2 (7 PTS),58 - 51,-7
+0029900390,239,8,0,2,12:33 PM,0:26,,,SUB: Mitchell FOR Garnett,,
+0029900390,240,8,0,2,12:33 PM,0:26,,,SUB: Avery FOR Brandon,,
+0029900390,241,3,12,2,12:33 PM,0:26,,,Smith Free Throw 2 of 2 (8 PTS),59 - 51,-8
+0029900390,242,9,2,2,12:33 PM,0:24,MAGIC Timeout: Short (Full 2 Short 1),,,,
+0029900390,244,8,0,2,12:34 PM,0:24,SUB: Atkins FOR Outlaw,,,,
+0029900390,245,8,0,2,12:34 PM,0:24,,,SUB: Brandon FOR Szczerbiak,,
+0029900390,246,1,1,2,12:35 PM,0:04,Armstrong 25' 3PT Jump Shot (11 PTS),,,59 - 54,-5
+0029900390,247,9,2,2,12:35 PM,0:04,,,Timberwolves Timeout: Short (Reg.2 Short 1),,
+0029900390,249,5,1,2,12:36 PM,0:04,Abdul-Wahad STEAL (2 STL),,Mitchell Bad Pass Turnover (P1.T10),,
+0029900390,250,6,1,2,12:36 PM,0:01,,,Avery P.FOUL (P2.PN),,
+0029900390,251,3,11,2,12:37 PM,0:01,Abdul-Wahad Free Throw 1 of 2 (11 PTS),,,59 - 55,-4
+0029900390,252,3,12,2,12:37 PM,0:01,Abdul-Wahad Free Throw 2 of 2 (12 PTS),,,59 - 56,-3
+0029900390,253,13,0,2,12:37 PM,0:00,,,,59 - 56,-3
+0029900390,256,12,0,3,12:53 PM,12:00,,,,59 - 56,-3
+0029900390,257,1,6,3,12:54 PM,11:44,,,Sealy  Driving Layup (9 PTS) (Garnett 6 AST),61 - 56,-5
+0029900390,258,2,1,3,12:54 PM,11:32,MISS Doleac 16' Jump Shot,,,,
+0029900390,259,4,0,3,12:54 PM,11:30,Doleac REBOUND (Off:1 Def:0),,,,
+0029900390,260,5,2,3,12:54 PM,11:29,Doleac Lost Ball Turnover (P1.T7),,Sealy STEAL (1 STL),,
+0029900390,261,2,1,3,12:54 PM,11:14,,,MISS Garnett 6' Jump Shot,,
+0029900390,262,4,0,3,12:54 PM,11:12,Wallace REBOUND (Off:3 Def:2),,,,
+0029900390,263,2,6,3,12:54 PM,11:03,MISS Williams  Driving Layup,,,,
+0029900390,264,4,0,3,12:54 PM,11:00,,,Timberwolves Rebound,,
+0029900390,265,2,3,3,12:55 PM,10:46,,,MISS Sealy 5' Hook Shot,,
+0029900390,266,4,0,3,12:55 PM,10:44,,,Timberwolves Rebound,,
+0029900390,267,2,1,3,12:55 PM,10:31,,,MISS Sealy 18' Jump Shot,,
+0029900390,268,4,0,3,12:55 PM,10:29,Abdul-Wahad REBOUND (Off:1 Def:5),,,,
+0029900390,269,5,2,3,12:55 PM,10:28,Doleac Lost Ball Turnover (P2.T8),,,,
+0029900390,270,2,1,3,12:56 PM,10:17,,,MISS Nesterovic 10' Jump Shot,,
+0029900390,271,4,0,3,12:56 PM,10:16,,,Sealy REBOUND (Off:2 Def:1),,
+0029900390,272,1,1,3,12:56 PM,10:05,,,Garnett 9' Jump Shot (17 PTS),63 - 56,-7
+0029900390,273,2,1,3,12:57 PM,9:44,MISS Armstrong 24' 3PT Jump Shot,,,,
+0029900390,274,4,0,3,12:57 PM,9:42,,,Sealy REBOUND (Off:2 Def:2),,
+0029900390,275,1,5,3,12:57 PM,9:40,,,Brandon  Layup (10 PTS) (Sealy 1 AST),65 - 56,-9
+0029900390,276,9,1,3,12:57 PM,9:38,MAGIC Timeout: Regular (Full 3 Short 1),,,,
+0029900390,279,5,1,3,12:59 PM,9:22,Williams Bad Pass Turnover (P1.T9),,,,
+0029900390,280,6,2,3,1:00 PM,9:04,Doleac S.FOUL (P2.T1),,,,
+0029900390,281,3,11,3,1:00 PM,9:04,,,Garnett Free Throw 1 of 2 (18 PTS),66 - 56,-10
+0029900390,282,3,12,3,1:00 PM,9:04,,,Garnett Free Throw 2 of 2 (19 PTS),67 - 56,-11
+0029900390,283,1,1,3,1:01 PM,8:56,Abdul-Wahad 5' Jump Shot (14 PTS),,,67 - 58,-9
+0029900390,284,6,2,3,1:01 PM,8:56,,,Sealy S.FOUL (P2.T1),,
+0029900390,285,8,0,3,1:01 PM,8:56,SUB: Gatling FOR Doleac,,,,
+0029900390,286,8,0,3,1:01 PM,8:56,SUB: Garrity FOR Wallace,,,,
+0029900390,287,3,10,3,1:01 PM,8:56,Abdul-Wahad Free Throw 1 of 1 (15 PTS),,,67 - 59,-8
+0029900390,288,2,1,3,1:02 PM,8:42,,,MISS Szczerbiak 17' Jump Shot,,
+0029900390,289,4,0,3,1:02 PM,8:41,Abdul-Wahad REBOUND (Off:1 Def:6),,,,
+0029900390,290,6,1,3,1:02 PM,8:30,,,Nesterovic P.FOUL (P2.T2),,
+0029900390,291,8,0,3,1:02 PM,8:30,,,SUB: Smith FOR Nesterovic,,
+0029900390,292,2,1,3,1:02 PM,8:19,MISS Garrity 24' 3PT Jump Shot,,,,
+0029900390,293,10,0,3,1:03 PM,8:16,Jump Ball Gatling vs. Sealy: Tip to Smith,,,,
+0029900390,294,4,0,3,1:03 PM,8:16,,,Timberwolves Rebound,,
+0029900390,295,1,6,3,1:03 PM,8:01,,,Smith  Driving Layup (10 PTS) (Brandon 8 AST),69 - 59,-10
+0029900390,296,2,1,3,1:03 PM,7:45,MISS Abdul-Wahad 18' Jump Shot,,,,
+0029900390,297,4,0,3,1:03 PM,7:43,,,Smith REBOUND (Off:1 Def:2),,
+0029900390,298,2,1,3,1:04 PM,7:27,,,MISS Brandon 22' Jump Shot,,
+0029900390,299,4,0,3,1:04 PM,7:25,MAGIC Rebound,,,,
+0029900390,300,6,3,3,1:04 PM,7:25,,,Szczerbiak L.B.FOUL (P3.T3),,
+0029900390,301,8,0,3,1:04 PM,7:25,SUB: Outlaw FOR Williams,,,,
+0029900390,302,6,1,3,1:04 PM,7:16,,,Garnett P.FOUL (P2.T4),,
+0029900390,303,2,5,3,1:05 PM,7:09,MISS Gatling  Layup,,,,
+0029900390,304,4,0,3,1:05 PM,7:08,Abdul-Wahad REBOUND (Off:2 Def:6),,,,
+0029900390,306,6,2,3,1:05 PM,7:07,,,Smith S.FOUL (P3.PN),,
+0029900390,307,3,11,3,1:05 PM,7:07,MISS Abdul-Wahad Free Throw 1 of 2,,,,
+0029900390,308,4,1,3,1:05 PM,7:07,MAGIC Rebound,,,,
+0029900390,309,3,12,3,1:05 PM,7:07,Abdul-Wahad Free Throw 2 of 2 (16 PTS),,,69 - 60,-9
+0029900390,310,1,3,3,1:06 PM,6:47,,,Smith 8' Hook Shot (12 PTS),71 - 60,-11
+0029900390,311,2,6,3,1:06 PM,6:28,MISS Gatling  Driving Layup,,Garnett BLOCK (4 BLK),,
+0029900390,312,4,0,3,1:06 PM,6:26,MAGIC Rebound,,,,
+0029900390,315,2,1,3,1:07 PM,6:24,MISS Abdul-Wahad 15' Jump Shot,,,,
+0029900390,316,4,0,3,1:07 PM,6:22,MAGIC Rebound,,,,
+0029900390,317,2,1,3,1:07 PM,6:12,MISS Garrity 25' 3PT Jump Shot,,,,
+0029900390,318,4,0,3,1:07 PM,6:10,,,Garnett REBOUND (Off:8 Def:12),,
+0029900390,319,1,1,3,1:07 PM,5:54,,,Garnett 18' Jump Shot (21 PTS) (Brandon 9 AST),73 - 60,-13
+0029900390,320,6,2,3,1:08 PM,5:45,,,Sealy S.FOUL (P3.PN),,
+0029900390,321,8,0,3,1:08 PM,5:45,SUB: Maggette FOR Abdul-Wahad,,,,
+0029900390,322,3,11,3,1:08 PM,5:45,MISS Gatling Free Throw 1 of 2,,,,
+0029900390,323,4,1,3,1:08 PM,5:45,MAGIC Rebound,,,,
+0029900390,324,8,0,3,1:08 PM,5:45,,,SUB: Peeler FOR Sealy,,
+0029900390,325,3,12,3,1:08 PM,5:45,Gatling Free Throw 2 of 2 (3 PTS),,,73 - 61,-12
+0029900390,326,2,3,3,1:09 PM,5:34,,,MISS Smith 5' Hook Shot,,
+0029900390,327,4,0,3,1:09 PM,5:31,,,Smith REBOUND (Off:2 Def:2),,
+0029900390,328,6,4,3,1:09 PM,5:26,,,Szczerbiak OFF.Foul (P4),,
+0029900390,329,5,5,3,1:09 PM,5:26,,,Szczerbiak Foul Turnover (P1.T11),,
+0029900390,330,8,0,3,1:09 PM,5:26,,,SUB: Mitchell FOR Szczerbiak,,
+0029900390,331,1,2,3,1:09 PM,5:14,Armstrong 10' Running Jump Shot (13 PTS),,,73 - 63,-10
+0029900390,333,7,3,3,1:10 PM,4:57,Outlaw Violation:Lane,,,,
+0029900390,332,1,5,3,1:10 PM,4:57,,,Peeler  Layup (3 PTS) (Brandon 10 AST),75 - 63,-12
+0029900390,334,1,2,3,1:10 PM,4:41,Maggette 5' Running Jump Shot (8 PTS),,,75 - 65,-10
+0029900390,335,6,2,3,1:10 PM,4:41,,,Mitchell S.FOUL (P2.PN),,
+0029900390,336,3,10,3,1:10 PM,4:41,Maggette Free Throw 1 of 1 (9 PTS),,,75 - 66,-9
+0029900390,337,1,1,3,1:11 PM,4:19,,,Peeler 19' Jump Shot (5 PTS) (Mitchell 1 AST),77 - 66,-11
+0029900390,338,1,2,3,1:11 PM,4:07,Gatling 3' Running Jump Shot (5 PTS),,,77 - 68,-9
+0029900390,339,1,1,3,1:12 PM,3:44,,,Mitchell 18' Jump Shot (9 PTS) (Brandon 11 AST),79 - 68,-11
+0029900390,340,5,4,3,1:12 PM,3:27,Maggette Traveling Turnover (P1.T10),,,,
+0029900390,341,1,1,3,1:13 PM,3:09,,,Mitchell 19' Jump Shot (11 PTS) (Peeler 2 AST),81 - 68,-13
+0029900390,342,1,1,3,1:13 PM,2:56,Armstrong 25' 3PT Jump Shot (16 PTS),,,81 - 71,-10
+0029900390,343,2,1,3,1:13 PM,2:30,,,MISS Peeler 25' 3PT Jump Shot,,
+0029900390,344,4,0,3,1:13 PM,2:28,Gatling REBOUND (Off:0 Def:2),,,,
+0029900390,345,2,1,3,1:13 PM,2:23,MISS Armstrong 24' 3PT Jump Shot,,,,
+0029900390,346,4,0,3,1:13 PM,2:21,MAGIC Rebound,,,,
+0029900390,347,9,1,3,1:13 PM,2:21,,,Timberwolves Timeout: Regular (Reg.3 Short 1),,
+0029900390,351,1,1,3,1:16 PM,2:18,Garrity 19' Jump Shot (7 PTS) (Armstrong 3 AST),,,81 - 73,-8
+0029900390,352,2,1,3,1:16 PM,1:50,,,MISS Garnett 11' Jump Shot,,
+0029900390,353,4,0,3,1:16 PM,1:48,Gatling REBOUND (Off:0 Def:3),,,,
+0029900390,354,1,7,3,1:16 PM,1:43,Maggette  Dunk (11 PTS) (Outlaw 1 AST),,,81 - 75,-6
+0029900390,355,1,1,3,1:17 PM,1:23,,,Brandon 19' Jump Shot (12 PTS) (Peeler 3 AST),83 - 75,-8
+0029900390,356,2,6,3,1:17 PM,1:08,MISS Armstrong  Driving Layup,,,,
+0029900390,358,4,0,3,1:17 PM,1:07,Outlaw REBOUND (Off:2 Def:0),,,,
+0029900390,357,1,4,3,1:17 PM,1:07,Outlaw  Tip Shot (4 PTS),,,83 - 77,-6
+0029900390,359,2,3,3,1:17 PM,0:57,Outlaw BLOCK (1 BLK),,MISS Garnett 5' Hook Shot,,
+0029900390,360,4,0,3,1:17 PM,0:55,Outlaw REBOUND (Off:2 Def:1),,,,
+0029900390,361,2,1,3,1:17 PM,0:50,MISS Armstrong 22' Jump Shot,,,,
+0029900390,362,4,0,3,1:17 PM,0:49,,,Timberwolves Rebound,,
+0029900390,363,6,1,3,1:18 PM,0:39,Outlaw P.FOUL (P1.T2),,,,
+0029900390,365,6,2,3,1:18 PM,0:36,Outlaw S.FOUL (P2.PN),,,,
+0029900390,366,3,11,3,1:19 PM,0:36,,,Smith Free Throw 1 of 2 (13 PTS),84 - 77,-7
+0029900390,367,3,12,3,1:19 PM,0:36,,,Smith Free Throw 2 of 2 (14 PTS),85 - 77,-8
+0029900390,368,1,9,3,1:19 PM,0:22,Gatling  Driving Dunk (7 PTS),,,85 - 79,-6
+0029900390,369,1,1,3,1:20 PM,0:01,,,Smith 19' Jump Shot (16 PTS) (Brandon 12 AST),87 - 79,-8
+0029900390,370,13,0,3,1:20 PM,0:00,,,,87 - 79,-8
+0029900390,372,12,0,4,1:23 PM,12:00,,,,87 - 79,-8
+0029900390,373,2,1,4,1:23 PM,11:47,MISS Gatling 4' Jump Shot,,Smith BLOCK (1 BLK),,
+0029900390,374,4,0,4,1:23 PM,11:45,,,Smith REBOUND (Off:2 Def:3),,
+0029900390,376,7,3,4,1:23 PM,11:24,Gatling Violation:Lane,,,,
+0029900390,375,1,5,4,1:23 PM,11:24,,,Peeler  Layup (7 PTS) (Brandon 13 AST),89 - 79,-10
+0029900390,377,1,1,4,1:24 PM,11:13,Atkins 18' Jump Shot (2 PTS) (Outlaw 2 AST),,,89 - 81,-8
+0029900390,378,6,2,4,1:24 PM,10:58,Atkins S.FOUL (P2.T1),,,,
+0029900390,379,3,11,4,1:24 PM,10:58,,,Brandon Free Throw 1 of 2 (13 PTS),90 - 81,-9
+0029900390,380,3,12,4,1:25 PM,10:58,,,Brandon Free Throw 2 of 2 (14 PTS),91 - 81,-10
+0029900390,381,8,0,4,1:25 PM,10:47,,,SUB: Avery FOR Brandon,,
+0029900390,382,1,1,4,1:26 PM,10:37,Garrity 25' 3PT Jump Shot (10 PTS) (Atkins 3 AST),,,91 - 84,-7
+0029900390,383,5,4,4,1:26 PM,10:20,,,Smith Traveling Turnover (P3.T12),,
+0029900390,384,1,6,4,1:26 PM,10:08,Gatling  Driving Layup (9 PTS),,,91 - 86,-5
+0029900390,385,9,1,4,1:26 PM,10:05,,,Timberwolves Timeout: Regular (Reg.4 Short 1),,
+0029900390,388,2,1,4,1:29 PM,9:47,,,MISS Garnett 15' Jump Shot,,
+0029900390,389,4,0,4,1:29 PM,9:45,Gatling REBOUND (Off:0 Def:4),,,,
+0029900390,390,5,1,4,1:29 PM,9:36,Outlaw Bad Pass Turnover (P1.T11),,,,
+0029900390,391,8,0,4,1:29 PM,9:36,,,SUB: Szczerbiak FOR Mitchell,,
+0029900390,392,2,1,4,1:30 PM,9:22,,,MISS Peeler  3PT Jump Shot,,
+0029900390,393,4,0,4,1:30 PM,9:19,Gatling REBOUND (Off:0 Def:5),,,,
+0029900390,394,2,1,4,1:30 PM,9:15,MISS Garrity 20' Jump Shot,,,,
+0029900390,395,4,0,4,1:30 PM,9:13,,,Peeler REBOUND (Off:0 Def:1),,
+0029900390,396,1,6,4,1:30 PM,8:58,,,Garnett  Driving Layup (23 PTS) (Avery 3 AST),93 - 86,-7
+0029900390,397,1,1,4,1:31 PM,8:36,Garrity 10' Jump Shot (12 PTS),,,93 - 88,-5
+0029900390,398,1,3,4,1:31 PM,8:14,,,Smith 6' Hook Shot (18 PTS) (Garnett 7 AST),95 - 88,-7
+0029900390,399,1,9,4,1:31 PM,7:59,Maggette  Driving Dunk (13 PTS),,,95 - 90,-5
+0029900390,400,6,1,4,1:32 PM,7:37,Gatling P.FOUL (P3.T2),,,,
+0029900390,401,8,0,4,1:32 PM,7:37,,,SUB: Brandon FOR Avery,,
+0029900390,402,2,1,4,1:32 PM,7:27,,,MISS Garnett 20' Jump Shot,,
+0029900390,403,4,0,4,1:32 PM,7:23,,,Peeler REBOUND (Off:1 Def:1),,
+0029900390,404,2,1,4,1:33 PM,7:03,,,MISS Peeler  3PT Jump Shot,,
+0029900390,405,4,0,4,1:33 PM,7:01,Atkins REBOUND (Off:0 Def:1),,,,
+0029900390,406,1,2,4,1:33 PM,6:55,Atkins 9' Running Jump Shot (4 PTS),,,95 - 92,-3
+0029900390,407,2,5,4,1:33 PM,6:31,Outlaw BLOCK (2 BLK),,MISS Peeler  Layup,,
+0029900390,408,4,0,4,1:33 PM,6:29,,,Smith REBOUND (Off:3 Def:3),,
+0029900390,409,5,11,4,1:33 PM,6:27,,,Timberwolves Turnover: Shot Clock (T#13),,
+0029900390,410,9,4,4,1:33 PM,6:27,,,,,
+0029900390,412,8,0,4,1:35 PM,6:27,,,SUB: Sealy FOR Peeler,,
+0029900390,414,1,2,4,1:36 PM,6:09,Atkins 5' Running Jump Shot (6 PTS),,,95 - 94,-1
+0029900390,415,2,6,4,1:36 PM,5:45,,,MISS Brandon  Driving Layup,,
+0029900390,416,4,0,4,1:36 PM,5:43,Outlaw REBOUND (Off:2 Def:2),,,,
+0029900390,417,2,1,4,1:37 PM,5:36,MISS Atkins 20' Jump Shot,,,,
+0029900390,418,4,0,4,1:37 PM,5:34,,,Timberwolves Rebound,,
+0029900390,419,1,1,4,1:37 PM,5:20,,,Garnett 15' Jump Shot (25 PTS) (Brandon 14 AST),97 - 94,-3
+0029900390,421,5,8,4,1:37 PM,5:03,Gatling 3 Second Violation Turnover (P3.T12),,,,
+0029900390,422,2,1,4,1:38 PM,4:48,,,MISS Szczerbiak 20' Jump Shot,,
+0029900390,423,4,0,4,1:38 PM,4:46,Outlaw REBOUND (Off:2 Def:3),,,,
+0029900390,424,6,2,4,1:38 PM,4:36,,,Smith S.FOUL (P4.T1),,
+0029900390,425,3,11,4,1:38 PM,4:36,Gatling Free Throw 1 of 2 (10 PTS),,,97 - 95,-2
+0029900390,426,3,12,4,1:39 PM,4:36,MISS Gatling Free Throw 2 of 2,,,,
+0029900390,427,4,0,4,1:39 PM,4:34,,,Garnett REBOUND (Off:8 Def:13),,
+0029900390,428,2,1,4,1:39 PM,4:17,,,MISS Brandon 12' Jump Shot,,
+0029900390,429,4,0,4,1:39 PM,4:15,Garrity REBOUND (Off:0 Def:1),,,,
+0029900390,430,6,1,4,1:39 PM,4:14,,,Smith P.FOUL (P5.T2),,
+0029900390,431,8,0,4,1:39 PM,4:14,,,SUB: Mitchell FOR Smith,,
+0029900390,432,2,1,4,1:40 PM,4:01,MISS Garrity 15' Jump Shot,,,,
+0029900390,433,4,0,4,1:40 PM,4:00,,,Garnett REBOUND (Off:8 Def:14),,
+0029900390,435,1,1,4,1:40 PM,3:38,,,Brandon 19' Jump Shot (16 PTS),99 - 95,-4
+0029900390,436,1,6,4,1:40 PM,3:29,Atkins  Driving Layup (8 PTS),,,99 - 97,-2
+0029900390,437,5,2,4,1:41 PM,3:09,,,Garnett Lost Ball Turnover (P2.T14),,
+0029900390,438,1,6,4,1:41 PM,2:58,Atkins  Driving Layup (10 PTS),,,99 - 99,TIE
+0029900390,439,2,1,4,1:42 PM,2:38,,,MISS Brandon 13' Jump Shot,,
+0029900390,440,4,0,4,1:42 PM,2:37,Maggette REBOUND (Off:0 Def:2),,,,
+0029900390,441,1,1,4,1:42 PM,2:22,Atkins 19' Jump Shot (12 PTS),,,99 - 101,2
+0029900390,442,9,2,4,1:42 PM,2:20,,,Timberwolves Timeout: Short (Reg.4 Short 2),,
+0029900390,443,9,1,4,1:43 PM,2:20,MAGIC Timeout: Regular (Full 4 Short 1),,,,
+0029900390,446,8,0,4,1:44 PM,2:20,,,SUB: Smith FOR Szczerbiak,,
+0029900390,447,2,1,4,1:45 PM,2:06,,,MISS Brandon 10' Jump Shot,,
+0029900390,448,4,0,4,1:45 PM,2:04,,,Garnett REBOUND (Off:9 Def:14),,
+0029900390,449,6,2,4,1:45 PM,2:03,Maggette S.FOUL (P2.T3),,,,
+0029900390,450,8,0,4,1:45 PM,2:03,SUB: Armstrong FOR Maggette,,,,
+0029900390,451,3,11,4,1:45 PM,2:03,,,MISS Garnett Free Throw 1 of 2,,
+0029900390,452,4,1,4,1:45 PM,2:03,,,Timberwolves Rebound,,
+0029900390,453,3,12,4,1:45 PM,2:03,,,Garnett Free Throw 2 of 2 (26 PTS),100 - 101,1
+0029900390,454,2,6,4,1:46 PM,1:50,MISS Atkins  Driving Layup,,,,
+0029900390,455,4,0,4,1:46 PM,1:48,Gatling REBOUND (Off:1 Def:5),,,,
+0029900390,456,1,3,4,1:46 PM,1:47,Gatling 5' Hook Shot (12 PTS),,,100 - 103,3
+0029900390,457,1,1,4,1:46 PM,1:32,,,Mitchell 25' 3PT Jump Shot (14 PTS) (Brandon 15 AST),103 - 103,TIE
+0029900390,458,2,1,4,1:47 PM,1:06,MISS Armstrong  3PT Jump Shot,,,,
+0029900390,459,4,0,4,1:47 PM,1:06,MAGIC Rebound,,,,
+0029900390,460,5,11,4,1:47 PM,1:06,MAGIC Turnover: Shot Clock (T#13),,,,
+0029900390,461,8,0,4,1:47 PM,1:06,SUB: Maggette FOR Armstrong,,,,
+0029900390,462,9,1,4,1:47 PM,1:06,,,Timberwolves Timeout: Regular (Reg.5 Short 2),,
+0029900390,465,1,6,4,1:49 PM,0:51,,,Brandon  Driving Layup (18 PTS),105 - 103,-2
+0029900390,466,9,1,4,1:50 PM,0:38,MAGIC Timeout: Regular (Full 5 Short 1),,,,
+0029900390,468,8,0,4,1:52 PM,0:38,SUB: Armstrong FOR Maggette,,,,
+0029900390,469,1,5,4,1:52 PM,0:27,Outlaw  Layup (6 PTS) (Garrity 1 AST),,,105 - 105,TIE
+0029900390,470,9,1,4,1:52 PM,0:27,,,Timberwolves Timeout: Regular (Reg.6 Short 2),,
+0029900390,472,8,0,4,1:54 PM,0:27,SUB: Williams FOR Armstrong,,,,
+0029900390,473,8,0,4,1:54 PM,0:27,SUB: Abdul-Wahad FOR Garrity,,,,
+0029900390,475,2,1,4,1:55 PM,0:06,,,MISS Garnett 14' Jump Shot,,
+0029900390,477,4,0,4,1:55 PM,0:02,,,Mitchell REBOUND (Off:1 Def:1),,
+0029900390,476,2,4,4,1:55 PM,0:02,,,MISS Mitchell 6' Tip Shot,,
+0029900390,479,4,0,4,1:55 PM,0:00,,,Sealy REBOUND (Off:3 Def:2),,
+0029900390,478,1,5,4,1:55 PM,0:00,,,Sealy  Layup (11 PTS),107 - 105,-2
+0029900390,481,13,0,4,1:56 PM,0:00,,,,107 - 105,-2

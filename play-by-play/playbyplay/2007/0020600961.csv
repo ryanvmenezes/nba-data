@@ -1,0 +1,460 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020600961,0,12,0,1,7:09 PM,12:00,,,,,
+0020600961,1,10,0,1,7:09 PM,12:00,Jump Ball O'Neal vs. Haywood: Tip to McLeod,,,,
+0020600961,2,2,1,1,7:10 PM,11:42,MISS O'Neal 6' Jump Shot,,,,
+0020600961,3,4,0,1,7:10 PM,11:40,,,Butler REBOUND (Off:0 Def:1),,
+0020600961,4,2,5,1,7:10 PM,11:18,O'Neal BLOCK (1 BLK),,MISS Arenas 3' Layup,,
+0020600961,5,4,0,1,7:10 PM,11:16,Granger REBOUND (Off:0 Def:1),,,,
+0020600961,6,2,1,1,7:10 PM,11:09,MISS Murphy 18' Jump Shot,,,,
+0020600961,7,4,0,1,7:10 PM,11:07,,,Haywood REBOUND (Off:0 Def:1),,
+0020600961,8,2,1,1,7:11 PM,10:56,O'Neal BLOCK (2 BLK),,MISS Haywood 13' Jump Shot,,
+0020600961,9,4,0,1,7:11 PM,10:54,McLeod REBOUND (Off:0 Def:1),,,,
+0020600961,10,1,1,1,7:11 PM,10:48,O'Neal 5' Jump Shot (2 PTS) (McLeod 1 AST),,,0 - 2,2
+0020600961,11,1,1,1,7:11 PM,10:34,,,Butler 17' Jump Shot (2 PTS) (Arenas 1 AST),2 - 2,TIE
+0020600961,12,1,1,1,7:11 PM,10:10,Granger 26' 3PT Jump Shot (3 PTS) (McLeod 2 AST),,,2 - 5,3
+0020600961,13,6,1,1,7:11 PM,10:00,McLeod P.FOUL (P1.T1),,,,
+0020600961,14,2,1,1,7:12 PM,9:53,,,MISS Haywood 6' Jump Shot,,
+0020600961,15,4,0,1,7:12 PM,9:52,Murphy REBOUND (Off:0 Def:1),,,,
+0020600961,16,1,1,1,7:12 PM,9:41,Dunleavy 18' Jump Shot (2 PTS) (Murphy 1 AST),,,2 - 7,5
+0020600961,17,2,1,1,7:12 PM,9:26,,,MISS Stevenson 21' Jump Shot,,
+0020600961,18,4,0,1,7:12 PM,9:24,O'Neal REBOUND (Off:0 Def:1),,,,
+0020600961,19,2,1,1,7:13 PM,9:04,MISS O'Neal 14' Jump Shot,,,,
+0020600961,20,4,0,1,7:13 PM,9:03,,,Arenas REBOUND (Off:0 Def:1),,
+0020600961,21,2,1,1,7:13 PM,8:51,,,MISS Jamison 26' 3PT Jump Shot,,
+0020600961,22,4,0,1,7:13 PM,8:49,Granger REBOUND (Off:0 Def:2),,,,
+0020600961,23,2,1,1,7:14 PM,8:29,MISS O'Neal 6' Jump Shot,,Jamison BLOCK (1 BLK),,
+0020600961,24,4,0,1,7:14 PM,8:27,,,Jamison REBOUND (Off:0 Def:1),,
+0020600961,25,6,1,1,7:14 PM,8:23,McLeod P.FOUL (P2.T2),,,,
+0020600961,26,8,0,1,7:14 PM,8:23,SUB: Armstrong FOR McLeod,,,,
+0020600961,27,1,42,1,7:14 PM,8:16,,,Jamison 3' Driving Layup (2 PTS),4 - 7,3
+0020600961,28,1,1,1,7:15 PM,8:01,Murphy 21' Jump Shot (2 PTS) (O'Neal 1 AST),,,4 - 9,5
+0020600961,29,1,1,1,7:15 PM,7:49,,,Jamison 17' Jump Shot (4 PTS),6 - 9,3
+0020600961,30,6,2,1,7:15 PM,7:49,Murphy S.FOUL (P1.T3),,,,
+0020600961,31,3,10,1,7:15 PM,7:49,,,MISS Jamison Free Throw 1 of 1,,
+0020600961,32,4,0,1,7:15 PM,7:49,O'Neal REBOUND (Off:0 Def:2),,,,
+0020600961,33,6,4,1,7:16 PM,7:31,O'Neal OFF.Foul (P1),,,,
+0020600961,34,5,5,1,7:16 PM,7:31,O'Neal Foul Turnover (P1.T1),,,,
+0020600961,35,5,4,1,7:16 PM,7:19,,,Butler Traveling Turnover (P1.T1),,
+0020600961,36,6,2,1,7:17 PM,7:05,,,Haywood S.FOUL (P1.T1),,
+0020600961,37,3,11,1,7:17 PM,7:05,Murphy Free Throw 1 of 2 (3 PTS),,,6 - 10,4
+0020600961,38,3,12,1,7:17 PM,7:05,Murphy Free Throw 2 of 2 (4 PTS),,,6 - 11,5
+0020600961,39,6,4,1,7:17 PM,6:56,,,Stevenson OFF.Foul (P1),,
+0020600961,40,5,5,1,7:17 PM,6:56,,,Stevenson Foul Turnover (P1.T2),,
+0020600961,41,5,4,1,7:18 PM,6:45,Murphy Traveling Turnover (P1.T2),,,,
+0020600961,42,1,47,1,7:18 PM,6:30,,,Haywood 10' Turnaround Jump Shot (2 PTS),8 - 11,3
+0020600961,43,6,1,1,7:18 PM,6:16,,,Jamison P.FOUL (P1.T2),,
+0020600961,44,1,1,1,7:19 PM,6:10,Granger 19' Jump Shot (5 PTS) (Murphy 2 AST),,,8 - 13,5
+0020600961,45,2,1,1,7:19 PM,5:53,,,MISS Stevenson 18' Jump Shot,,
+0020600961,46,4,0,1,7:19 PM,5:51,Dunleavy REBOUND (Off:0 Def:1),,,,
+0020600961,47,1,1,1,7:19 PM,5:44,Murphy 16' Jump Shot (6 PTS) (Granger 1 AST),,,8 - 15,7
+0020600961,48,9,1,1,7:19 PM,5:37,,,Wizards Timeout: Regular (Reg.1 Short 0),,
+0020600961,50,1,1,1,7:22 PM,5:25,,,Jamison 25' 3PT Jump Shot (7 PTS) (Arenas 2 AST),11 - 15,4
+0020600961,51,2,1,1,7:22 PM,5:02,MISS O'Neal 14' Jump Shot,,,,
+0020600961,52,4,0,1,7:22 PM,5:00,,,Arenas REBOUND (Off:0 Def:2),,
+0020600961,53,2,1,1,7:22 PM,4:54,,,MISS Butler 17' Jump Shot,,
+0020600961,54,4,0,1,7:22 PM,4:52,O'Neal REBOUND (Off:0 Def:3),,,,
+0020600961,55,6,2,1,7:23 PM,4:31,,,Haywood S.FOUL (P2.T3),,
+0020600961,56,3,11,1,7:23 PM,4:31,O'Neal Free Throw 1 of 2 (3 PTS),,,11 - 16,5
+0020600961,57,3,12,1,7:23 PM,4:31,O'Neal Free Throw 2 of 2 (4 PTS),,,11 - 17,6
+0020600961,58,1,46,1,7:24 PM,4:16,,,Jamison 10' Running Jump Shot (9 PTS) (Arenas 3 AST),13 - 17,4
+0020600961,59,1,47,1,7:24 PM,3:59,O'Neal 9' Turnaround Jump Shot (6 PTS),,,13 - 19,6
+0020600961,60,1,42,1,7:25 PM,3:47,,,Arenas 3' Driving Layup (2 PTS),15 - 19,4
+0020600961,61,9,1,1,7:25 PM,3:39,PACERS Timeout: Regular (Full 1 Short 0),,,,
+0020600961,63,8,0,1,7:27 PM,3:39,,,SUB: Thomas FOR Haywood,,
+0020600961,65,8,0,1,7:27 PM,3:39,SUB: Harrison FOR O'Neal,,,,
+0020600961,66,8,0,1,7:27 PM,3:39,SUB: Shaw. Williams FOR Dunleavy,,,,
+0020600961,67,5,2,1,7:27 PM,3:35,Shaw. Williams Lost Ball Turnover (P1.T3),,Jamison STEAL (1 STL),,
+0020600961,68,1,1,1,7:27 PM,3:29,,,Arenas 19' Jump Shot (4 PTS),17 - 19,2
+0020600961,69,1,1,1,7:28 PM,3:14,Murphy 17' Jump Shot (8 PTS) (Shaw. Williams 1 AST),,,17 - 21,4
+0020600961,70,1,65,1,7:28 PM,2:53,,,Thomas 6' Jump Hook Shot (2 PTS),19 - 21,2
+0020600961,71,2,5,1,7:28 PM,2:37,MISS Shaw. Williams 2' Layup,,Stevenson BLOCK (1 BLK),,
+0020600961,72,4,0,1,7:28 PM,2:36,Shaw. Williams REBOUND (Off:1 Def:0),,,,
+0020600961,73,2,5,1,7:28 PM,2:28,MISS Harrison 1' Layup,,,,
+0020600961,74,4,0,1,7:28 PM,2:27,,,Jamison REBOUND (Off:0 Def:2),,
+0020600961,75,1,42,1,7:29 PM,2:19,,,Stevenson 3' Driving Layup (2 PTS),21 - 21,TIE
+0020600961,76,5,8,1,7:29 PM,1:59,Harrison 3 Second Violation Turnover (P1.T4),,,,
+0020600961,77,2,1,1,7:29 PM,1:42,,,MISS Stevenson 16' Jump Shot,,
+0020600961,78,4,0,1,7:29 PM,1:40,Murphy REBOUND (Off:0 Def:2),,,,
+0020600961,79,2,1,1,7:30 PM,1:33,MISS Armstrong 20' Jump Shot,,,,
+0020600961,80,4,0,1,7:30 PM,1:31,,,Arenas REBOUND (Off:0 Def:3),,
+0020600961,81,6,4,1,7:30 PM,1:27,,,Jamison OFF.Foul (P2),,
+0020600961,82,5,5,1,7:30 PM,1:27,,,Jamison Foul Turnover (P1.T3),,
+0020600961,83,2,1,1,7:31 PM,1:07,MISS Armstrong 6' Jump Shot,,Arenas BLOCK (1 BLK),,
+0020600961,84,4,0,1,7:31 PM,1:04,,,Thomas REBOUND (Off:0 Def:1),,
+0020600961,85,1,5,1,7:31 PM,0:55,,,Jamison 2' Layup (11 PTS) (Butler 1 AST),23 - 21,-2
+0020600961,86,2,1,1,7:31 PM,0:40,MISS Shaw. Williams 26' 3PT Jump Shot,,,,
+0020600961,87,4,0,1,7:31 PM,0:38,,,Jamison REBOUND (Off:0 Def:3),,
+0020600961,88,2,1,1,7:31 PM,0:30,,,MISS Jamison 14' Jump Shot,,
+0020600961,89,4,0,1,7:31 PM,0:28,,,Thomas REBOUND (Off:1 Def:1),,
+0020600961,90,2,5,1,7:31 PM,0:26,,,MISS Thomas 3' Layup,,
+0020600961,91,4,0,1,7:31 PM,0:25,Shaw. Williams REBOUND (Off:1 Def:1),,,,
+0020600961,92,1,1,1,7:32 PM,0:03,Armstrong 25' 3PT Jump Shot (3 PTS),,,23 - 24,1
+0020600961,93,6,1,1,7:32 PM,0:01,Armstrong P.FOUL (P1.T4),,,,
+0020600961,94,8,0,1,7:32 PM,0:01,SUB: Greene FOR Armstrong,,,,
+0020600961,95,2,1,1,7:33 PM,0:00,,,MISS Jamison 27' 3PT Jump Shot,,
+0020600961,96,4,0,1,7:33 PM,0:00,,,Wizards Rebound,,
+0020600961,97,13,0,1,7:33 PM,0:00,,,,23 - 24,1
+0020600961,99,12,0,2,7:36 PM,12:00,,,,23 - 24,1
+0020600961,100,2,1,2,7:36 PM,11:36,,,MISS Arenas 17' Jump Shot,,
+0020600961,101,4,0,2,7:36 PM,11:35,O'Neal REBOUND (Off:0 Def:4),,,,
+0020600961,102,2,1,2,7:36 PM,11:22,MISS Dunleavy 8' Jump Shot,,,,
+0020600961,103,4,0,2,7:36 PM,11:21,,,Butler REBOUND (Off:0 Def:2),,
+0020600961,104,2,1,2,7:37 PM,11:16,,,MISS Arenas 17' Jump Shot,,
+0020600961,105,4,0,2,7:37 PM,11:15,Diogu REBOUND (Off:0 Def:1),,,,
+0020600961,106,5,4,2,7:37 PM,11:14,Diogu Traveling Turnover (P1.T5),,,,
+0020600961,107,2,1,2,7:37 PM,10:59,,,MISS Arenas 16' Jump Shot,,
+0020600961,108,4,0,2,7:37 PM,10:57,Dunleavy REBOUND (Off:0 Def:2),,,,
+0020600961,109,6,2,2,7:38 PM,10:40,,,Songaila S.FOUL (P1.T1),,
+0020600961,110,3,11,2,7:38 PM,10:40,MISS O'Neal Free Throw 1 of 2,,,,
+0020600961,111,4,1,2,7:38 PM,10:40,PACERS Rebound,,,,
+0020600961,112,8,0,2,7:38 PM,10:40,,,SUB: Hayes FOR Butler,,
+0020600961,113,3,12,2,7:38 PM,10:40,O'Neal Free Throw 2 of 2 (7 PTS),,,23 - 25,2
+0020600961,114,1,1,2,7:39 PM,10:22,,,Songaila 18' Jump Shot (2 PTS) (Daniels 1 AST),25 - 25,TIE
+0020600961,115,10,0,2,7:39 PM,10:13,Jump Ball Diogu vs. Songaila: Tip to Thomas,,,,
+0020600961,116,5,2,2,7:39 PM,10:13,Diogu Lost Ball Turnover (P2.T6),,Songaila STEAL (1 STL),,
+0020600961,117,1,1,2,7:40 PM,9:55,,,Hayes 16' Jump Shot (2 PTS),27 - 25,-2
+0020600961,118,2,1,2,7:40 PM,9:38,MISS Dunleavy 9' Jump Shot,,,,
+0020600961,119,4,0,2,7:40 PM,9:37,,,Thomas REBOUND (Off:1 Def:2),,
+0020600961,120,6,2,2,7:40 PM,9:25,Diogu S.FOUL (P1.T1),,,,
+0020600961,121,8,0,2,7:40 PM,9:25,,,SUB: Mason Jr. FOR Arenas,,
+0020600961,122,3,11,2,7:40 PM,9:25,,,Songaila Free Throw 1 of 2 (3 PTS),28 - 25,-3
+0020600961,123,8,0,2,7:41 PM,9:25,SUB: McLeod FOR Armstrong,,,,
+0020600961,124,3,12,2,7:41 PM,9:25,,,Songaila Free Throw 2 of 2 (4 PTS),29 - 25,-4
+0020600961,125,1,47,2,7:41 PM,9:11,O'Neal 9' Turnaround Jump Shot (9 PTS) (Shaw. Williams 2 AST),,,29 - 27,-2
+0020600961,126,1,5,2,7:42 PM,8:47,,,Songaila 3' Layup (6 PTS) (Daniels 2 AST),31 - 27,-4
+0020600961,127,9,1,2,7:42 PM,8:40,PACERS Timeout: Regular (Full 2 Short 0),,,,
+0020600961,129,8,0,2,7:44 PM,8:40,SUB: Granger FOR Diogu,,,,
+0020600961,130,6,1,2,7:44 PM,8:26,,,Thomas P.FOUL (P1.T2),,
+0020600961,131,1,42,2,7:45 PM,8:13,Shaw. Williams 2' Driving Layup (2 PTS),,,31 - 29,-2
+0020600961,132,2,1,2,7:45 PM,7:58,,,MISS Mason Jr. 21' Jump Shot,,
+0020600961,133,4,0,2,7:45 PM,7:56,Shaw. Williams REBOUND (Off:1 Def:2),,,,
+0020600961,134,2,5,2,7:45 PM,7:47,MISS McLeod 3' Layup,,Thomas BLOCK (1 BLK),,
+0020600961,135,4,0,2,7:45 PM,7:45,,,Songaila REBOUND (Off:0 Def:1),,
+0020600961,136,1,1,2,7:45 PM,7:38,,,Daniels 16' Jump Shot (2 PTS),33 - 29,-4
+0020600961,137,2,1,2,7:46 PM,7:18,MISS Shaw. Williams 17' Jump Shot,,,,
+0020600961,138,4,0,2,7:46 PM,7:16,,,Hayes REBOUND (Off:0 Def:1),,
+0020600961,139,2,1,2,7:46 PM,7:03,,,MISS Thomas 5' Jump Shot,,
+0020600961,140,4,0,2,7:46 PM,7:01,,,Thomas REBOUND (Off:2 Def:2),,
+0020600961,141,1,65,2,7:46 PM,7:00,,,Thomas 5' Jump Hook Shot (4 PTS),35 - 29,-6
+0020600961,142,9,2,2,7:46 PM,6:51,PACERS Timeout: Short (Full 2 Short 1),,,,
+0020600961,144,8,0,2,7:47 PM,6:51,,,SUB: Ruffin FOR Thomas,,
+0020600961,147,8,0,2,7:48 PM,6:51,SUB: Murphy FOR O'Neal,,,,
+0020600961,148,2,1,2,7:48 PM,6:36,MISS Murphy 16' Jump Shot,,,,
+0020600961,149,4,0,2,7:48 PM,6:34,,,Mason Jr. REBOUND (Off:0 Def:1),,
+0020600961,150,6,3,2,7:48 PM,6:32,Shaw. Williams L.B.FOUL (P1.T2),,,,
+0020600961,151,1,1,2,7:48 PM,6:17,,,Hayes 25' 3PT Jump Shot (5 PTS),38 - 29,-9
+0020600961,153,9,4,2,7:49 PM,5:54,,,,,
+0020600961,155,8,0,2,7:51 PM,5:54,,,SUB: Jamison FOR Songaila,,
+0020600961,156,8,0,2,7:51 PM,5:54,SUB: Diogu FOR Shaw. Williams,,,,
+0020600961,157,1,1,2,7:51 PM,5:49,McLeod 18' Jump Shot (2 PTS),,,38 - 31,-7
+0020600961,158,2,1,2,7:51 PM,5:34,,,MISS Mason Jr. 21' Jump Shot,,
+0020600961,159,4,0,2,7:51 PM,5:31,McLeod REBOUND (Off:0 Def:2),,,,
+0020600961,160,1,5,2,7:51 PM,5:27,Dunleavy 1' Layup (4 PTS) (McLeod 3 AST),,,38 - 33,-5
+0020600961,161,2,1,2,7:52 PM,5:10,,,MISS Jamison 21' Jump Shot,,
+0020600961,162,4,0,2,7:52 PM,5:08,Dunleavy REBOUND (Off:0 Def:3),,,,
+0020600961,163,5,4,2,7:52 PM,4:53,Diogu Traveling Turnover (P3.T7),,,,
+0020600961,164,8,0,2,7:52 PM,4:53,,,SUB: Stevenson FOR Mason Jr.,,
+0020600961,165,8,0,2,7:52 PM,4:53,,,SUB: Arenas FOR Daniels,,
+0020600961,166,6,2,2,7:52 PM,4:39,Diogu S.FOUL (P2.T3),,,,
+0020600961,167,3,11,2,7:52 PM,4:39,,,MISS Stevenson Free Throw 1 of 2,,
+0020600961,168,4,1,2,7:52 PM,4:39,,,Wizards Rebound,,
+0020600961,169,3,12,2,7:53 PM,4:39,,,Stevenson Free Throw 2 of 2 (3 PTS),39 - 33,-6
+0020600961,170,1,1,2,7:53 PM,4:23,Granger 20' Jump Shot (7 PTS) (McLeod 4 AST),,,39 - 35,-4
+0020600961,171,1,1,2,7:53 PM,4:12,,,Jamison 22' Jump Shot (13 PTS) (Arenas 4 AST),41 - 35,-6
+0020600961,172,5,2,2,7:54 PM,3:47,Granger Lost Ball Turnover (P1.T8),,Arenas STEAL (1 STL),,
+0020600961,173,6,2,2,7:54 PM,3:44,McLeod S.FOUL (P3.T4),,,,
+0020600961,174,3,11,2,7:54 PM,3:44,,,Stevenson Free Throw 1 of 2 (4 PTS),42 - 35,-7
+0020600961,175,8,0,2,7:55 PM,3:44,SUB: Armstrong FOR McLeod,,,,
+0020600961,176,8,0,2,7:55 PM,3:44,SUB: O'Neal FOR Diogu,,,,
+0020600961,177,3,12,2,7:55 PM,3:44,,,MISS Stevenson Free Throw 2 of 2,,
+0020600961,178,4,0,2,7:55 PM,3:44,Murphy REBOUND (Off:0 Def:3),,,,
+0020600961,179,2,1,2,7:55 PM,3:26,MISS O'Neal 3' Jump Shot,,,,
+0020600961,180,4,0,2,7:55 PM,3:25,O'Neal REBOUND (Off:1 Def:4),,,,
+0020600961,181,6,2,2,7:55 PM,3:25,,,Ruffin S.FOUL (P1.T3),,
+0020600961,182,3,11,2,7:55 PM,3:25,O'Neal Free Throw 1 of 2 (10 PTS),,,42 - 36,-6
+0020600961,183,3,12,2,7:56 PM,3:25,MISS O'Neal Free Throw 2 of 2,,,,
+0020600961,184,4,0,2,7:56 PM,3:25,,,Stevenson REBOUND (Off:0 Def:1),,
+0020600961,185,1,1,2,7:56 PM,3:09,,,Jamison 19' Jump Shot (15 PTS),44 - 36,-8
+0020600961,186,1,61,2,7:57 PM,2:52,Murphy 4' Driving Finger Roll (10 PTS),,,44 - 38,-6
+0020600961,187,6,2,2,7:57 PM,2:37,O'Neal S.FOUL (P2.PN),,,,
+0020600961,188,9,1,2,7:57 PM,2:37,,,Wizards Timeout: Regular (Reg.2 Short 0),,
+0020600961,190,8,0,2,7:59 PM,2:37,,,SUB: Haywood FOR Ruffin,,
+0020600961,191,3,11,2,8:00 PM,2:37,,,MISS Arenas Free Throw 1 of 2,,
+0020600961,192,4,1,2,8:00 PM,2:37,,,Wizards Rebound,,
+0020600961,193,3,12,2,8:00 PM,2:37,,,Arenas Free Throw 2 of 2 (5 PTS),45 - 38,-7
+0020600961,194,1,1,2,8:00 PM,2:24,Granger 21' Jump Shot (9 PTS) (O'Neal 2 AST),,,45 - 40,-5
+0020600961,195,2,1,2,8:01 PM,1:58,,,MISS Stevenson  3PT Jump Shot,,
+0020600961,196,4,0,2,8:01 PM,1:57,Dunleavy REBOUND (Off:0 Def:4),,,,
+0020600961,197,2,1,2,8:02 PM,1:38,MISS Dunleavy 24' 3PT Jump Shot,,,,
+0020600961,198,4,0,2,8:02 PM,1:36,,,Hayes REBOUND (Off:0 Def:2),,
+0020600961,199,5,1,2,8:02 PM,1:29,Dunleavy STEAL (1 STL),,Jamison Bad Pass Turnover (P2.T4),,
+0020600961,200,2,1,2,8:02 PM,1:22,MISS Granger 19' Jump Shot,,,,
+0020600961,201,4,0,2,8:02 PM,1:21,,,Arenas REBOUND (Off:0 Def:4),,
+0020600961,202,2,1,2,8:02 PM,1:15,,,MISS Jamison 26' 3PT Jump Shot,,
+0020600961,203,4,0,2,8:02 PM,1:13,Armstrong REBOUND (Off:0 Def:1),,,,
+0020600961,204,6,2,2,8:02 PM,1:07,,,Hayes S.FOUL (P1.T4),,
+0020600961,205,3,11,2,8:02 PM,1:07,Granger Free Throw 1 of 2 (10 PTS),,,45 - 41,-4
+0020600961,207,8,0,2,8:03 PM,1:07,SUB: Shaw. Williams FOR O'Neal,,,,
+0020600961,208,3,12,2,8:03 PM,1:07,Granger Free Throw 2 of 2 (11 PTS),,,45 - 42,-3
+0020600961,209,2,1,2,8:03 PM,0:54,,,MISS Arenas 17' Jump Shot,,
+0020600961,211,4,0,2,8:03 PM,0:54,,,Jamison REBOUND (Off:1 Def:3),,
+0020600961,210,1,4,2,8:03 PM,0:54,,,Jamison 2' Tip Shot (17 PTS),47 - 42,-5
+0020600961,212,2,1,2,8:03 PM,0:45,MISS Armstrong 26' 3PT Jump Shot,,,,
+0020600961,213,4,0,2,8:03 PM,0:44,,,Hayes REBOUND (Off:0 Def:3),,
+0020600961,214,5,1,2,8:03 PM,0:39,Armstrong STEAL (1 STL),,Arenas Bad Pass Turnover (P1.T5),,
+0020600961,215,6,2,2,8:04 PM,0:36,,,Arenas S.FOUL (P1.PN),,
+0020600961,216,3,11,2,8:04 PM,0:36,Armstrong Free Throw 1 of 2 (4 PTS),,,47 - 43,-4
+0020600961,217,3,12,2,8:04 PM,0:36,Armstrong Free Throw 2 of 2 (5 PTS),,,47 - 44,-3
+0020600961,218,1,66,2,8:04 PM,0:31,,,Arenas 13' Jump Bank Shot (7 PTS),49 - 44,-5
+0020600961,219,6,2,2,8:04 PM,0:31,Armstrong S.FOUL (P2.PN),,,,
+0020600961,220,8,0,2,8:05 PM,0:31,,,SUB: Ruffin FOR Haywood,,
+0020600961,221,3,10,2,8:05 PM,0:31,,,MISS Arenas Free Throw 1 of 1,,
+0020600961,222,4,0,2,8:05 PM,0:31,Armstrong REBOUND (Off:0 Def:2),,,,
+0020600961,223,1,47,2,8:05 PM,0:10,Dunleavy 11' Turnaround Jump Shot (6 PTS),,,49 - 46,-3
+0020600961,224,2,1,2,8:06 PM,0:00,,,MISS Arenas 25' 3PT Jump Shot,,
+0020600961,225,4,0,2,8:06 PM,0:00,,,Wizards Rebound,,
+0020600961,226,13,0,2,8:06 PM,0:00,,,,49 - 46,-3
+0020600961,228,12,0,3,8:22 PM,12:00,,,,49 - 46,-3
+0020600961,229,6,4,3,8:22 PM,11:44,,,Arenas OFF.Foul (P2),,
+0020600961,230,5,5,3,8:22 PM,11:44,,,Arenas Foul Turnover (P2.T6),,
+0020600961,231,6,4,3,8:23 PM,11:27,Dunleavy OFF.Foul (P1),,,,
+0020600961,232,5,5,3,8:23 PM,11:27,Dunleavy Foul Turnover (P1.T9),,,,
+0020600961,233,2,1,3,8:23 PM,11:13,,,MISS Hayes 24' 3PT Jump Shot,,
+0020600961,234,4,0,3,8:23 PM,11:10,Dunleavy REBOUND (Off:0 Def:5),,,,
+0020600961,235,1,1,3,8:23 PM,11:04,Dunleavy 15' Jump Shot (8 PTS),,,49 - 48,-1
+0020600961,236,1,42,3,8:24 PM,10:56,,,Arenas 2' Driving Layup (9 PTS),51 - 48,-3
+0020600961,237,1,1,3,8:24 PM,10:34,Murphy 10' Jump Shot (12 PTS),,,51 - 50,-1
+0020600961,238,6,1,3,8:24 PM,10:27,McLeod P.FOUL (P4.T1),,,,
+0020600961,239,8,0,3,8:24 PM,10:27,SUB: Armstrong FOR McLeod,,,,
+0020600961,240,6,1,3,8:25 PM,10:24,Murphy P.FOUL (P2.T2),,,,
+0020600961,241,5,39,3,8:25 PM,10:19,,,Stevenson Step Out of Bounds Turnover (P2.T7),,
+0020600961,242,1,47,3,8:26 PM,9:58,O'Neal 6' Turnaround Jump Shot (12 PTS),,,51 - 52,1
+0020600961,243,1,5,3,8:26 PM,9:39,,,Hayes 2' Layup (7 PTS) (Arenas 5 AST),53 - 52,-1
+0020600961,244,2,1,3,8:26 PM,9:27,MISS O'Neal 7' Jump Shot,,,,
+0020600961,245,4,0,3,8:26 PM,9:26,,,Jamison REBOUND (Off:1 Def:4),,
+0020600961,246,6,2,3,8:27 PM,9:16,O'Neal S.FOUL (P3.T3),,,,
+0020600961,247,6,11,3,8:27 PM,9:16,O'Neal T.FOUL (P3.T3),,,,
+0020600961,248,3,16,3,8:27 PM,9:16,,,Arenas Free Throw Technical (10 PTS),54 - 52,-2
+0020600961,249,3,11,3,8:27 PM,9:16,,,Arenas Free Throw 1 of 2 (11 PTS),55 - 52,-3
+0020600961,250,3,12,3,8:28 PM,9:16,,,Arenas Free Throw 2 of 2 (12 PTS),56 - 52,-4
+0020600961,251,2,1,3,8:28 PM,9:03,MISS Granger  3PT Jump Shot,,,,
+0020600961,252,4,0,3,8:28 PM,9:01,Murphy REBOUND (Off:1 Def:3),,,,
+0020600961,253,2,1,3,8:28 PM,8:56,MISS Dunleavy 26' 3PT Jump Shot,,,,
+0020600961,254,4,0,3,8:28 PM,8:54,,,Jamison REBOUND (Off:1 Def:5),,
+0020600961,255,6,2,3,8:29 PM,8:44,Granger S.FOUL (P1.T4),,,,
+0020600961,256,3,11,3,8:29 PM,8:44,,,Arenas Free Throw 1 of 2 (13 PTS),57 - 52,-5
+0020600961,257,3,12,3,8:29 PM,8:44,,,Arenas Free Throw 2 of 2 (14 PTS),58 - 52,-6
+0020600961,258,5,40,3,8:29 PM,8:38,Dunleavy Out of Bounds Lost Ball Turnover (P2.T10),,,,
+0020600961,259,1,1,3,8:30 PM,8:24,,,Arenas 25' 3PT Jump Shot (17 PTS),61 - 52,-9
+0020600961,260,9,1,3,8:30 PM,8:23,PACERS Timeout: Regular (Full 3 Short 1),,,,
+0020600961,262,2,1,3,8:32 PM,8:09,MISS Dunleavy 19' Jump Shot,,,,
+0020600961,263,4,0,3,8:32 PM,8:07,,,Haywood REBOUND (Off:0 Def:2),,
+0020600961,264,5,2,3,8:32 PM,7:58,Granger STEAL (1 STL),,Haywood Lost Ball Turnover (P1.T8),,
+0020600961,265,6,2,3,8:32 PM,7:51,,,Haywood S.FOUL (P3.T1),,
+0020600961,266,3,11,3,8:32 PM,7:51,O'Neal Free Throw 1 of 2 (13 PTS),,,61 - 53,-8
+0020600961,267,3,12,3,8:33 PM,7:51,O'Neal Free Throw 2 of 2 (14 PTS),,,61 - 54,-7
+0020600961,268,1,66,3,8:33 PM,7:38,,,Jamison 11' Jump Bank Shot (19 PTS),63 - 54,-9
+0020600961,269,1,62,3,8:34 PM,7:19,O'Neal 4' Turnaround Finger Roll (16 PTS) (Armstrong 1 AST),,,63 - 56,-7
+0020600961,270,1,1,3,8:34 PM,7:00,,,Jamison 20' Jump Shot (21 PTS) (Arenas 6 AST),65 - 56,-9
+0020600961,271,1,42,3,8:34 PM,6:45,Granger 3' Driving Layup (13 PTS),,,65 - 58,-7
+0020600961,272,6,2,3,8:35 PM,6:31,O'Neal S.FOUL (P4.PN),,,,
+0020600961,273,3,11,3,8:35 PM,6:31,,,Arenas Free Throw 1 of 2 (18 PTS),66 - 58,-8
+0020600961,274,8,0,3,8:35 PM,6:31,,,SUB: Daniels FOR Stevenson,,
+0020600961,275,8,0,3,8:35 PM,6:31,SUB: Diogu FOR O'Neal,,,,
+0020600961,276,8,0,3,8:35 PM,6:31,,,SUB: Ruffin FOR Haywood,,
+0020600961,277,3,12,3,8:35 PM,6:31,,,Arenas Free Throw 2 of 2 (19 PTS),67 - 58,-9
+0020600961,278,6,2,3,8:36 PM,6:21,,,Ruffin S.FOUL (P2.T2),,
+0020600961,279,3,11,3,8:36 PM,6:21,MISS Armstrong Free Throw 1 of 2,,,,
+0020600961,280,4,1,3,8:36 PM,6:21,PACERS Rebound,,,,
+0020600961,281,3,12,3,8:36 PM,6:21,Armstrong Free Throw 2 of 2 (6 PTS),,,67 - 59,-8
+0020600961,282,2,1,3,8:37 PM,6:06,,,MISS Arenas 24' 3PT Jump Shot,,
+0020600961,283,4,0,3,8:37 PM,6:04,Granger REBOUND (Off:0 Def:3),,,,
+0020600961,284,2,1,3,8:37 PM,5:56,MISS Murphy 18' Jump Shot,,,,
+0020600961,285,4,0,3,8:37 PM,5:55,,,Daniels REBOUND (Off:0 Def:1),,
+0020600961,286,6,4,3,8:37 PM,5:51,,,Hayes OFF.Foul (P2),,
+0020600961,287,5,5,3,8:37 PM,5:51,,,Hayes Foul Turnover (P1.T9),,
+0020600961,288,2,1,3,8:37 PM,5:35,MISS Diogu 10' Jump Shot,,,,
+0020600961,289,4,0,3,8:37 PM,5:34,,,Ruffin REBOUND (Off:0 Def:1),,
+0020600961,290,2,1,3,8:38 PM,5:29,,,MISS Jamison 4' Jump Shot,,
+0020600961,291,4,0,3,8:38 PM,5:28,Murphy REBOUND (Off:1 Def:4),,,,
+0020600961,292,6,1,3,8:38 PM,5:28,,,Jamison P.FOUL (P3.T3),,
+0020600961,293,8,0,3,8:38 PM,5:28,,,SUB: Songaila FOR Hayes,,
+0020600961,294,8,0,3,8:38 PM,5:28,SUB: Shaw. Williams FOR Diogu,,,,
+0020600961,295,1,1,3,8:38 PM,5:12,Murphy 17' Jump Shot (14 PTS) (Shaw. Williams 3 AST),,,67 - 61,-6
+0020600961,296,2,1,3,8:39 PM,4:58,,,MISS Arenas 9' Jump Shot,,
+0020600961,298,4,0,3,8:39 PM,4:55,,,Ruffin REBOUND (Off:1 Def:1),,
+0020600961,297,2,5,3,8:39 PM,4:55,,,MISS Ruffin 3' Layup,,
+0020600961,299,4,0,3,8:39 PM,4:54,Shaw. Williams REBOUND (Off:1 Def:3),,,,
+0020600961,300,1,1,3,8:39 PM,4:45,Armstrong 22' Jump Shot (8 PTS) (Murphy 3 AST),,,67 - 63,-4
+0020600961,301,1,5,3,8:39 PM,4:30,,,Songaila 3' Layup (8 PTS) (Arenas 7 AST),69 - 63,-6
+0020600961,302,6,2,3,8:39 PM,4:07,,,Ruffin S.FOUL (P3.T4),,
+0020600961,303,3,13,3,8:40 PM,4:07,Armstrong Free Throw 1 of 3 (9 PTS),,,69 - 64,-5
+0020600961,304,3,14,3,8:40 PM,4:07,Armstrong Free Throw 2 of 3 (10 PTS),,,69 - 65,-4
+0020600961,305,8,0,3,8:40 PM,4:07,SUB: Greene FOR Dunleavy,,,,
+0020600961,306,3,15,3,8:40 PM,4:07,Armstrong Free Throw 3 of 3 (11 PTS),,,69 - 66,-3
+0020600961,307,2,1,3,8:41 PM,3:58,,,MISS Arenas 9' Jump Shot,,
+0020600961,308,4,0,3,8:41 PM,3:57,PACERS Rebound,,,,
+0020600961,309,5,2,3,8:41 PM,3:48,Armstrong Lost Ball Turnover (P1.T11),,Arenas STEAL (2 STL),,
+0020600961,310,6,1,3,8:41 PM,3:47,Armstrong P.FOUL (P3.PN),,,,
+0020600961,311,3,11,3,8:41 PM,3:47,,,Arenas Free Throw 1 of 2 (20 PTS),70 - 66,-4
+0020600961,312,3,12,3,8:42 PM,3:47,,,Arenas Free Throw 2 of 2 (21 PTS),71 - 66,-5
+0020600961,313,5,1,3,8:42 PM,3:30,Murphy Bad Pass Turnover (P2.T12),,Jamison STEAL (2 STL),,
+0020600961,314,6,1,3,8:42 PM,3:30,Granger P.FOUL (P2.PN),,,,
+0020600961,315,3,11,3,8:43 PM,3:30,,,Jamison Free Throw 1 of 2 (22 PTS),72 - 66,-6
+0020600961,316,3,12,3,8:43 PM,3:30,,,Jamison Free Throw 2 of 2 (23 PTS),73 - 66,-7
+0020600961,317,1,42,3,8:43 PM,3:25,Granger 1' Driving Layup (15 PTS),,,73 - 68,-5
+0020600961,318,6,2,3,8:43 PM,3:25,,,Songaila S.FOUL (P2.PN),,
+0020600961,319,3,10,3,8:44 PM,3:25,Granger Free Throw 1 of 1 (16 PTS),,,73 - 69,-4
+0020600961,320,1,1,3,8:44 PM,3:14,,,Arenas 26' 3PT Jump Shot (24 PTS) (Ruffin 1 AST),76 - 69,-7
+0020600961,321,1,61,3,8:44 PM,2:52,Greene 3' Driving Finger Roll (2 PTS),,,76 - 71,-5
+0020600961,322,1,1,3,8:45 PM,2:33,,,Arenas 24' 3PT Jump Shot (27 PTS) (Daniels 3 AST),79 - 71,-8
+0020600961,323,1,1,3,8:45 PM,2:16,Murphy 25' 3PT Jump Shot (17 PTS) (Greene 1 AST),,,79 - 74,-5
+0020600961,324,5,1,3,8:45 PM,2:10,,,Arenas Bad Pass Turnover (P3.T10),,
+0020600961,325,9,1,3,8:45 PM,2:10,,,Wizards Timeout: Regular (Reg.3 Short 0),,
+0020600961,327,8,0,3,8:47 PM,2:10,,,SUB: Hayes FOR Jamison,,
+0020600961,328,8,0,3,8:47 PM,2:10,,,SUB: Stevenson FOR Arenas,,
+0020600961,329,8,0,3,8:48 PM,2:03,SUB: Dunleavy FOR Greene,,,,
+0020600961,330,2,1,3,8:48 PM,1:47,MISS Granger 20' Jump Shot,,,,
+0020600961,331,4,0,3,8:48 PM,1:45,Dunleavy REBOUND (Off:1 Def:5),,,,
+0020600961,332,2,1,3,8:48 PM,1:41,MISS Armstrong 26' 3PT Jump Shot,,,,
+0020600961,333,4,0,3,8:48 PM,1:40,,,Hayes REBOUND (Off:0 Def:4),,
+0020600961,334,1,43,3,8:48 PM,1:29,,,Stevenson 2' Alley Oop Layup (6 PTS) (Daniels 4 AST),81 - 74,-7
+0020600961,335,2,1,3,8:49 PM,1:10,MISS Murphy  3PT Jump Shot,,,,
+0020600961,336,4,0,3,8:49 PM,1:08,,,Stevenson REBOUND (Off:0 Def:2),,
+0020600961,337,2,1,3,8:49 PM,0:58,,,MISS Hayes 24' 3PT Jump Shot,,
+0020600961,338,4,0,3,8:49 PM,0:56,,,Ruffin REBOUND (Off:2 Def:1),,
+0020600961,339,6,2,3,8:49 PM,0:56,Murphy S.FOUL (P3.PN),,,,
+0020600961,340,3,11,3,8:49 PM,0:56,,,MISS Ruffin Free Throw 1 of 2,,
+0020600961,341,4,1,3,8:49 PM,0:56,,,Wizards Rebound,,
+0020600961,342,8,0,3,8:50 PM,0:56,SUB: Diogu FOR Murphy,,,,
+0020600961,343,3,12,3,8:50 PM,0:56,,,MISS Ruffin Free Throw 2 of 2,,
+0020600961,344,4,0,3,8:50 PM,0:56,Shaw. Williams REBOUND (Off:1 Def:4),,,,
+0020600961,345,2,1,3,8:50 PM,0:33,MISS Dunleavy 25' 3PT Jump Shot,,,,
+0020600961,346,4,0,3,8:50 PM,0:32,,,Daniels REBOUND (Off:0 Def:2),,
+0020600961,347,1,1,3,8:50 PM,0:25,,,Stevenson  3PT Jump Shot (9 PTS) (Daniels 5 AST),84 - 74,-10
+0020600961,348,5,11,3,8:51 PM,0:01,PACERS Turnover: Shot Clock (T#13),,,,
+0020600961,349,8,0,3,8:52 PM,0:01,SUB: Greene FOR Armstrong,,,,
+0020600961,350,2,1,3,8:52 PM,0:00,,,MISS Hayes 25' 3PT Jump Shot,,
+0020600961,351,4,0,3,8:52 PM,0:00,,,Wizards Rebound,,
+0020600961,352,13,0,3,8:52 PM,0:00,,,,84 - 74,-10
+0020600961,354,12,0,4,8:55 PM,12:00,,,,84 - 74,-10
+0020600961,355,1,1,4,8:55 PM,11:50,Dunleavy 20' Jump Shot (10 PTS) (McLeod 5 AST),,,84 - 76,-8
+0020600961,356,7,5,4,8:55 PM,11:32,O'Neal Violation:Kicked Ball,,,,
+0020600961,357,5,2,4,8:56 PM,11:23,McLeod STEAL (1 STL),,Daniels Lost Ball Turnover (P1.T11),,
+0020600961,358,1,5,4,8:56 PM,11:06,O'Neal 3' Layup (18 PTS),,,84 - 78,-6
+0020600961,359,6,2,4,8:56 PM,11:06,,,Ruffin S.FOUL (P4.T1),,
+0020600961,360,3,10,4,8:56 PM,11:06,O'Neal Free Throw 1 of 1 (19 PTS),,,84 - 79,-5
+0020600961,361,2,1,4,8:57 PM,10:50,,,MISS Stevenson  3PT Jump Shot,,
+0020600961,362,4,0,4,8:57 PM,10:46,,,Ruffin REBOUND (Off:3 Def:1),,
+0020600961,363,1,65,4,8:57 PM,10:30,,,Songaila 5' Jump Hook Shot (10 PTS),86 - 79,-7
+0020600961,364,6,2,4,8:57 PM,10:17,,,Ruffin S.FOUL (P5.T2),,
+0020600961,365,8,0,4,8:57 PM,10:17,,,SUB: Haywood FOR Ruffin,,
+0020600961,366,3,11,4,8:57 PM,10:17,O'Neal Free Throw 1 of 2 (20 PTS),,,86 - 80,-6
+0020600961,367,3,12,4,8:58 PM,10:17,MISS O'Neal Free Throw 2 of 2,,,,
+0020600961,368,4,0,4,8:58 PM,10:17,,,Songaila REBOUND (Off:0 Def:2),,
+0020600961,369,2,1,4,8:58 PM,9:58,,,MISS Hayes 16' Jump Shot,,
+0020600961,370,4,0,4,8:58 PM,9:56,Dunleavy REBOUND (Off:1 Def:6),,,,
+0020600961,371,5,2,4,8:59 PM,9:41,O'Neal Lost Ball Turnover (P2.T14),,Haywood STEAL (1 STL),,
+0020600961,372,6,2,4,8:59 PM,9:36,Dunleavy S.FOUL (P2.T1),,,,
+0020600961,374,8,0,4,8:59 PM,9:36,,,SUB: Arenas FOR Hayes,,
+0020600961,375,3,11,4,8:59 PM,9:36,,,Daniels Free Throw 1 of 2 (3 PTS),87 - 80,-7
+0020600961,376,8,0,4,8:59 PM,9:36,,,SUB: Jamison FOR Songaila,,
+0020600961,377,3,12,4,9:00 PM,9:36,,,Daniels Free Throw 2 of 2 (4 PTS),88 - 80,-8
+0020600961,379,2,5,4,9:00 PM,9:25,MISS Dunleavy 2' Layup,,,,
+0020600961,380,4,0,4,9:00 PM,9:24,,,Jamison REBOUND (Off:1 Def:6),,
+0020600961,381,6,1,4,9:00 PM,9:24,Dunleavy P.FOUL (P3.T2),,,,
+0020600961,382,2,5,4,9:00 PM,9:07,,,MISS Arenas 1' Layup,,
+0020600961,383,4,0,4,9:00 PM,9:06,Murphy REBOUND (Off:1 Def:5),,,,
+0020600961,384,2,1,4,9:00 PM,9:00,MISS Dunleavy 7' Jump Shot,,,,
+0020600961,385,4,0,4,9:00 PM,8:59,O'Neal REBOUND (Off:2 Def:4),,,,
+0020600961,386,6,2,4,9:01 PM,8:59,,,Arenas S.FOUL (P3.T3),,
+0020600961,387,9,4,4,9:01 PM,8:59,,,,,
+0020600961,389,3,11,4,9:03 PM,8:59,MISS O'Neal Free Throw 1 of 2,,,,
+0020600961,390,4,1,4,9:03 PM,8:59,PACERS Rebound,,,,
+0020600961,391,3,12,4,9:03 PM,8:59,MISS O'Neal Free Throw 2 of 2,,,,
+0020600961,392,4,0,4,9:03 PM,8:59,,,Haywood REBOUND (Off:0 Def:3),,
+0020600961,393,6,1,4,9:04 PM,8:39,Dunleavy P.FOUL (P4.T3),,,,
+0020600961,394,2,1,4,9:04 PM,8:35,,,MISS Haywood 9' Jump Shot,,
+0020600961,395,4,0,4,9:04 PM,8:33,Granger REBOUND (Off:0 Def:4),,,,
+0020600961,396,6,2,4,9:04 PM,8:20,,,Haywood S.FOUL (P4.T4),,
+0020600961,397,3,11,4,9:04 PM,8:20,O'Neal Free Throw 1 of 2 (21 PTS),,,88 - 81,-7
+0020600961,398,3,12,4,9:05 PM,8:20,O'Neal Free Throw 2 of 2 (22 PTS),,,88 - 82,-6
+0020600961,399,1,46,4,9:05 PM,8:01,,,Jamison 13' Running Jump Shot (25 PTS),90 - 82,-8
+0020600961,400,6,4,4,9:06 PM,7:48,Granger OFF.Foul (P3),,,,
+0020600961,401,5,5,4,9:06 PM,7:48,Granger Foul Turnover (P2.T15),,,,
+0020600961,402,2,1,4,9:06 PM,7:41,Murphy BLOCK (1 BLK),,MISS Jamison  3PT Jump Shot,,
+0020600961,403,4,0,4,9:06 PM,7:39,O'Neal REBOUND (Off:2 Def:5),,,,
+0020600961,404,2,1,4,9:06 PM,7:21,MISS McLeod 21' Jump Shot,,,,
+0020600961,405,4,0,4,9:06 PM,7:19,,,Daniels REBOUND (Off:0 Def:3),,
+0020600961,406,1,1,4,9:07 PM,7:12,,,Arenas 25' 3PT Jump Shot (30 PTS) (Daniels 6 AST),93 - 82,-11
+0020600961,407,9,1,4,9:07 PM,7:05,PACERS Timeout: Regular (Full 4 Short 1),,,,
+0020600961,408,6,16,4,9:07 PM,7:05,,,,,
+0020600961,410,1,42,4,9:09 PM,6:47,O'Neal 3' Driving Layup (24 PTS),,,93 - 84,-9
+0020600961,411,1,1,4,9:10 PM,6:30,,,Arenas 24' 3PT Jump Shot (33 PTS) (Daniels 7 AST),96 - 84,-12
+0020600961,412,2,1,4,9:10 PM,6:15,MISS O'Neal 4' Jump Shot,,Haywood BLOCK (1 BLK),,
+0020600961,413,4,0,4,9:10 PM,6:14,,,Haywood REBOUND (Off:0 Def:4),,
+0020600961,414,6,2,4,9:10 PM,6:07,O'Neal S.FOUL (P5.T4),,,,
+0020600961,415,3,11,4,9:10 PM,6:07,,,Haywood Free Throw 1 of 2 (3 PTS),97 - 84,-13
+0020600961,416,3,12,4,9:10 PM,6:07,,,Haywood Free Throw 2 of 2 (4 PTS),98 - 84,-14
+0020600961,417,2,1,4,9:11 PM,5:57,MISS Murphy 25' 3PT Jump Shot,,,,
+0020600961,418,4,0,4,9:11 PM,5:56,,,Arenas REBOUND (Off:0 Def:5),,
+0020600961,419,1,5,4,9:11 PM,5:54,,,Jamison 2' Layup (27 PTS) (Arenas 8 AST),100 - 84,-16
+0020600961,420,9,1,4,9:11 PM,5:52,PACERS Timeout: Regular (Full 5 Short 1),,,,
+0020600961,422,6,17,4,9:14 PM,5:38,,,Wizards T.Foul (Def. 3 Sec Jamison ),,
+0020600961,423,3,16,4,9:14 PM,5:38,Granger Free Throw Technical (17 PTS),,,100 - 85,-15
+0020600961,424,1,5,4,9:14 PM,5:26,Dunleavy 1' Layup (12 PTS) (O'Neal 3 AST),,,100 - 87,-13
+0020600961,425,2,1,4,9:15 PM,5:05,,,MISS Jamison 19' Jump Shot,,
+0020600961,426,4,0,4,9:15 PM,5:03,Dunleavy REBOUND (Off:1 Def:7),,,,
+0020600961,427,5,8,4,9:15 PM,4:47,Murphy 3 Second Violation Turnover (P3.T16),,,,
+0020600961,428,2,1,4,9:15 PM,4:37,,,MISS Arenas 25' 3PT Jump Shot,,
+0020600961,429,4,0,4,9:15 PM,4:35,Granger REBOUND (Off:0 Def:5),,,,
+0020600961,430,5,1,4,9:16 PM,4:32,Granger Bad Pass Turnover (P3.T17),,Daniels STEAL (1 STL),,
+0020600961,431,1,8,4,9:16 PM,4:29,,,Daniels 3' Slam Dunk (6 PTS),102 - 87,-15
+0020600961,432,2,1,4,9:16 PM,4:11,MISS Granger 25' 3PT Jump Shot,,,,
+0020600961,433,4,0,4,9:16 PM,4:09,,,Jamison REBOUND (Off:1 Def:7),,
+0020600961,434,1,5,4,9:16 PM,4:05,,,Arenas 2' Layup (35 PTS) (Daniels 8 AST),104 - 87,-17
+0020600961,435,6,2,4,9:16 PM,4:05,Granger S.FOUL (P4.PN),,,,
+0020600961,436,9,1,4,9:16 PM,4:05,PACERS Timeout: Regular (Full 6 Short 1),,,,
+0020600961,438,8,0,4,9:18 PM,4:05,SUB: Shaw. Williams FOR O'Neal,,,,
+0020600961,439,3,10,4,9:18 PM,4:05,,,MISS Arenas Free Throw 1 of 1,,
+0020600961,440,4,0,4,9:18 PM,4:05,Murphy REBOUND (Off:1 Def:6),,,,
+0020600961,441,2,1,4,9:19 PM,3:49,MISS Dunleavy  3PT Jump Shot,,,,
+0020600961,442,4,0,4,9:19 PM,3:48,,,Haywood REBOUND (Off:0 Def:5),,
+0020600961,443,2,1,4,9:19 PM,3:33,,,MISS Arenas 19' Jump Shot,,
+0020600961,445,4,0,4,9:19 PM,3:32,,,Haywood REBOUND (Off:1 Def:5),,
+0020600961,444,1,4,4,9:19 PM,3:32,,,Haywood 1' Tip Shot (6 PTS),106 - 87,-19
+0020600961,446,1,8,4,9:19 PM,3:21,Granger 1' Slam Dunk (19 PTS) (McLeod 6 AST),,,106 - 89,-17
+0020600961,447,2,1,4,9:20 PM,2:59,,,MISS Stevenson 20' Jump Shot,,
+0020600961,448,4,0,4,9:20 PM,2:57,Dunleavy REBOUND (Off:1 Def:8),,,,
+0020600961,449,1,47,4,9:20 PM,2:49,Shaw. Williams 13' Turnaround Jump Shot (4 PTS) (Dunleavy 1 AST),,,106 - 91,-15
+0020600961,450,5,4,4,9:20 PM,2:28,,,Haywood Traveling Turnover (P2.T12),,
+0020600961,451,8,0,4,9:20 PM,2:28,,,SUB: Ruffin FOR Haywood,,
+0020600961,452,8,0,4,9:20 PM,2:28,SUB: Diogu FOR Granger,,,,
+0020600961,453,8,0,4,9:20 PM,2:28,SUB: Marshall FOR Murphy,,,,
+0020600961,454,8,0,4,9:20 PM,2:28,SUB: Greene FOR Dunleavy,,,,
+0020600961,456,7,2,4,9:21 PM,2:13,,,Ruffin Violation:Defensive Goaltending,,
+0020600961,455,1,42,4,9:21 PM,2:13,Shaw. Williams 2' Driving Layup (6 PTS),,,106 - 93,-13
+0020600961,457,6,2,4,9:21 PM,2:00,Shaw. Williams S.FOUL (P2.PN),,,,
+0020600961,458,8,0,4,9:21 PM,2:00,,,SUB: Songaila FOR Jamison,,
+0020600961,459,8,0,4,9:21 PM,2:00,,,SUB: Hayes FOR Arenas,,
+0020600961,460,3,11,4,9:21 PM,2:00,,,Daniels Free Throw 1 of 2 (7 PTS),107 - 93,-14
+0020600961,461,3,12,4,9:22 PM,2:00,,,Daniels Free Throw 2 of 2 (8 PTS),108 - 93,-15
+0020600961,462,2,1,4,9:22 PM,1:53,MISS Marshall 12' Jump Shot,,,,
+0020600961,463,4,0,4,9:22 PM,1:51,,,Ruffin REBOUND (Off:3 Def:2),,
+0020600961,464,1,1,4,9:22 PM,1:29,,,Songaila 6' Jump Shot (12 PTS) (Daniels 9 AST),110 - 93,-17
+0020600961,465,6,2,4,9:23 PM,1:11,,,Songaila S.FOUL (P3.PN),,
+0020600961,466,8,0,4,9:23 PM,1:11,,,SUB: Mason Jr. FOR Stevenson,,
+0020600961,467,3,11,4,9:23 PM,1:11,MISS Shaw. Williams Free Throw 1 of 2,,,,
+0020600961,468,4,1,4,9:23 PM,1:11,PACERS Rebound,,,,
+0020600961,469,3,12,4,9:23 PM,1:11,MISS Shaw. Williams Free Throw 2 of 2,,,,
+0020600961,470,4,0,4,9:23 PM,1:11,,,Ruffin REBOUND (Off:3 Def:3),,
+0020600961,471,5,10,4,9:24 PM,1:03,,,Wizards Turnover: 8 Second Violation (T#13),,
+0020600961,473,2,1,4,9:24 PM,0:45,MISS McLeod 24' 3PT Jump Shot,,,,
+0020600961,474,4,0,4,9:24 PM,0:43,Greene REBOUND (Off:1 Def:0),,,,
+0020600961,475,1,1,4,9:24 PM,0:39,Shaw. Williams  3PT Jump Shot (9 PTS) (Marshall 1 AST),,,110 - 96,-14
+0020600961,476,6,2,4,9:25 PM,0:30,McLeod S.FOUL (P5.PN),,,,
+0020600961,477,3,11,4,9:25 PM,0:30,,,Daniels Free Throw 1 of 2 (9 PTS),111 - 96,-15
+0020600961,478,3,12,4,9:25 PM,0:30,,,Daniels Free Throw 2 of 2 (10 PTS),112 - 96,-16
+0020600961,479,2,7,4,9:25 PM,0:16,MISS Shaw. Williams 2' Dunk,,,,
+0020600961,480,4,0,4,9:25 PM,0:14,,,Hayes REBOUND (Off:0 Def:5),,
+0020600961,481,13,0,4,9:26 PM,0:00,,,,112 - 96,-16

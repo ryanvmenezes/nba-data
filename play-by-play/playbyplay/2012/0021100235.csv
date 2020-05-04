@@ -1,0 +1,420 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021100235,1,12,0,1,8:03 PM,12:00,,,,,
+0021100235,2,10,0,1,8:05 PM,12:00,Jump Ball Dalembert vs. Blair: Tip to Martin,,,,
+0021100235,3,6,2,1,8:05 PM,11:44,,,Blair S.FOUL (P1.T1),,
+0021100235,4,3,11,1,8:05 PM,11:44,Dalembert Free Throw 1 of 2 (1 PTS),,,0 - 1,1
+0021100235,6,3,12,1,8:05 PM,11:44,Dalembert Free Throw 2 of 2 (2 PTS),,,0 - 2,2
+0021100235,9,2,47,1,8:06 PM,11:23,Dalembert BLOCK (1 BLK),,MISS Leonard 8' Turnaround Jump Shot,,
+0021100235,10,4,0,1,8:06 PM,11:22,,,Spurs Rebound,,
+0021100235,11,2,1,1,8:07 PM,11:18,,,MISS Bonner 25' 3PT Jump Shot,,
+0021100235,12,4,0,1,8:07 PM,11:18,,,Spurs Rebound,,
+0021100235,13,5,11,1,8:07 PM,11:18,,,Spurs Turnover: Shot Clock (T#1),,
+0021100235,15,6,2,1,8:07 PM,10:55,,,Jefferson S.FOUL (P1.T2),,
+0021100235,16,3,11,1,8:08 PM,10:55,Lowry Free Throw 1 of 2 (1 PTS),,,0 - 3,3
+0021100235,18,3,12,1,8:08 PM,10:55,Lowry Free Throw 2 of 2 (2 PTS),,,0 - 4,4
+0021100235,20,2,1,1,8:08 PM,10:41,,,MISS Bonner 26' 3PT Jump Shot,,
+0021100235,21,4,0,1,8:08 PM,10:40,Lowry REBOUND (Off:0 Def:1),,,,
+0021100235,22,1,1,1,8:09 PM,10:25,Parsons 25' 3PT Jump Shot (3 PTS) (Martin 1 AST),,,0 - 7,7
+0021100235,23,2,79,1,8:09 PM,10:07,,,MISS Leonard 11' Pullup Jump Shot,,
+0021100235,24,4,0,1,8:09 PM,10:05,Scola REBOUND (Off:0 Def:1),,,,
+0021100235,25,5,1,1,8:09 PM,10:00,Lowry Bad Pass Turnover (P1.T1),,,,
+0021100235,26,5,1,1,8:09 PM,9:47,Dalembert STEAL (1 STL),,Bonner Bad Pass Turnover (P1.T2),,
+0021100235,27,5,40,1,8:09 PM,9:45,Dalembert Out of Bounds Lost Ball Turnover (P1.T2),,,,
+0021100235,28,5,1,1,8:10 PM,9:40,,,Jefferson Bad Pass Turnover (P1.T3),,
+0021100235,29,1,1,1,8:10 PM,9:26,Martin 21' Jump Shot (2 PTS) (Lowry 1 AST),,,0 - 9,9
+0021100235,30,9,1,1,8:10 PM,9:25,,,Spurs Timeout: Regular (Reg.1 Short 0),,
+0021100235,32,6,1,1,8:13 PM,9:17,Scola P.FOUL (P1.T1),,,,
+0021100235,33,1,5,1,8:13 PM,9:10,,,Blair 1' Layup (2 PTS) (Parker 1 AST),2 - 9,7
+0021100235,34,2,1,1,8:13 PM,8:58,MISS Martin 23' Jump Shot,,,,
+0021100235,35,4,0,1,8:13 PM,8:56,Dalembert REBOUND (Off:1 Def:0),,,,
+0021100235,36,2,5,1,8:13 PM,8:55,MISS Dalembert 1' Layup,,,,
+0021100235,37,4,0,1,8:13 PM,8:55,,,Blair REBOUND (Off:0 Def:1),,
+0021100235,38,2,1,1,8:13 PM,8:46,,,MISS Jefferson 25' 3PT Jump Shot,,
+0021100235,39,4,0,1,8:13 PM,8:45,,,Blair REBOUND (Off:1 Def:1),,
+0021100235,40,2,5,1,8:14 PM,8:41,,,MISS Blair 2' Layup,,
+0021100235,41,4,0,1,8:14 PM,8:40,,,Blair REBOUND (Off:2 Def:1),,
+0021100235,42,2,5,1,8:14 PM,8:38,Dalembert BLOCK (2 BLK),,MISS Blair 2' Layup,,
+0021100235,43,4,0,1,8:14 PM,8:36,,,Jefferson REBOUND (Off:1 Def:0),,
+0021100235,44,2,79,1,8:14 PM,8:29,,,MISS Parker 19' Pullup Jump Shot,,
+0021100235,45,4,0,1,8:14 PM,8:28,,,Spurs Rebound,,
+0021100235,46,2,1,1,8:14 PM,8:24,,,MISS Parker 12' Jump Shot,,
+0021100235,47,4,0,1,8:14 PM,8:23,Lowry REBOUND (Off:0 Def:2),,,,
+0021100235,48,1,5,1,8:14 PM,8:18,Martin 2' Layup (4 PTS) (Lowry 2 AST),,,2 - 11,9
+0021100235,49,1,5,1,8:14 PM,8:05,,,Blair 2' Layup (4 PTS) (Parker 2 AST),4 - 11,7
+0021100235,51,1,1,1,8:15 PM,7:48,Scola 10' Jump Shot (2 PTS),,,4 - 13,9
+0021100235,52,1,80,1,8:15 PM,7:31,,,Bonner 26' 3PT Step Back Jump Shot (3 PTS) (Parker 3 AST),7 - 13,6
+0021100235,53,2,1,1,8:15 PM,7:08,MISS Martin 26' 3PT Jump Shot,,,,
+0021100235,54,4,0,1,8:15 PM,7:06,,,Blair REBOUND (Off:2 Def:2),,
+0021100235,55,1,5,1,8:16 PM,6:57,,,Blair 3' Layup (6 PTS) (Parker 4 AST),9 - 13,4
+0021100235,56,2,1,1,8:16 PM,6:38,MISS Dalembert 18' Jump Shot,,,,
+0021100235,57,4,0,1,8:16 PM,6:37,,,Leonard REBOUND (Off:0 Def:1),,
+0021100235,58,5,4,1,8:16 PM,6:30,,,Parker Traveling Turnover (P1.T4),,
+0021100235,59,8,0,1,8:16 PM,6:30,,,SUB: Green FOR Parker,,
+0021100235,60,8,0,1,8:16 PM,6:30,,,SUB: Joseph FOR Jefferson,,
+0021100235,61,6,1,1,8:16 PM,6:22,,,Leonard P.FOUL (P1.T3),,
+0021100235,62,1,63,1,8:17 PM,6:07,Lowry 13' Fadeaway Jumper (4 PTS),,,9 - 15,6
+0021100235,63,2,5,1,8:17 PM,5:55,,,MISS Green 4' Layup,,
+0021100235,64,4,0,1,8:17 PM,5:54,Scola REBOUND (Off:0 Def:2),,,,
+0021100235,65,5,4,1,8:17 PM,5:46,Martin Traveling Turnover (P1.T3),,,,
+0021100235,66,1,5,1,8:18 PM,5:26,,,Leonard 3' Layup (2 PTS),11 - 15,4
+0021100235,67,1,1,1,8:18 PM,5:05,Martin 25' 3PT Jump Shot (7 PTS) (Scola 1 AST),,,11 - 18,7
+0021100235,69,8,0,1,8:19 PM,4:56,SUB: Dragic FOR Lowry,,,,
+0021100235,70,2,47,1,8:19 PM,4:43,Dalembert BLOCK (3 BLK),,MISS Blair 5' Turnaround Jump Shot,,
+0021100235,71,4,0,1,8:19 PM,4:43,,,Spurs Rebound,,
+0021100235,72,2,47,1,8:19 PM,4:39,,,MISS Green 24' 3PT Turnaround Jump Shot,,
+0021100235,73,4,0,1,8:19 PM,4:37,Scola REBOUND (Off:0 Def:3),,,,
+0021100235,74,2,1,1,8:20 PM,4:28,MISS Parsons 22' Jump Shot,,,,
+0021100235,75,4,0,1,8:20 PM,4:26,ROCKETS Rebound,,,,
+0021100235,77,8,0,1,8:20 PM,4:26,SUB: Patterson FOR Dalembert,,,,
+0021100235,78,8,0,1,8:20 PM,4:26,,,SUB: Neal FOR Leonard,,
+0021100235,79,8,0,1,8:20 PM,4:26,,,SUB: Splitter FOR Blair,,
+0021100235,80,2,1,1,8:20 PM,4:21,MISS Martin 27' 3PT Jump Shot,,,,
+0021100235,81,4,0,1,8:20 PM,4:19,,,Bonner REBOUND (Off:0 Def:1),,
+0021100235,82,5,2,1,8:20 PM,4:06,Martin STEAL (1 STL),,Splitter Lost Ball Turnover (P1.T5),,
+0021100235,83,1,5,1,8:21 PM,4:01,Dragic 2' Layup (2 PTS) (Martin 2 AST),,,11 - 20,9
+0021100235,84,6,1,1,8:21 PM,3:52,Dragic P.FOUL (P1.T2),,,,
+0021100235,88,1,77,1,8:21 PM,3:41,,,Green 10' Driving Jump Shot (2 PTS),13 - 20,7
+0021100235,85,6,29,1,8:21 PM,3:41,Parsons Shooting Block Foul (P1.T3),,,,
+0021100235,86,3,10,1,8:22 PM,3:41,,,Green Free Throw 1 of 1 (3 PTS),14 - 20,6
+0021100235,89,5,40,1,8:23 PM,3:22,Parsons Out of Bounds Lost Ball Turnover (P1.T4),,,,
+0021100235,90,1,3,1,8:23 PM,3:04,,,Splitter 9' Hook Shot (2 PTS) (Green 1 AST),16 - 20,4
+0021100235,92,1,58,1,8:23 PM,2:47,Scola 12' Turnaround Hook Shot (4 PTS) (Patterson 1 AST),,,16 - 22,6
+0021100235,94,2,1,1,8:23 PM,2:26,,,MISS Bonner 25' 3PT Jump Shot,,
+0021100235,95,4,0,1,8:23 PM,2:25,Parsons REBOUND (Off:0 Def:1),,,,
+0021100235,96,1,73,1,8:24 PM,2:10,Dragic 2' Driving Reverse Layup (4 PTS),,,16 - 24,8
+0021100235,97,2,1,1,8:24 PM,1:48,,,MISS Green 19' Jump Shot,,
+0021100235,98,4,0,1,8:24 PM,1:46,Patterson REBOUND (Off:0 Def:1),,,,
+0021100235,99,1,1,1,8:24 PM,1:35,Scola 16' Jump Shot (6 PTS) (Dragic 1 AST),,,16 - 26,10
+0021100235,100,1,5,1,8:25 PM,1:18,,,Splitter 2' Layup (4 PTS) (Joseph 1 AST),18 - 26,8
+0021100235,101,2,1,1,8:25 PM,1:06,MISS Parsons 25' 3PT Jump Shot,,,,
+0021100235,102,4,0,1,8:25 PM,1:05,,,Joseph REBOUND (Off:0 Def:1),,
+0021100235,103,1,1,1,8:25 PM,0:57,,,Bonner 25' 3PT Jump Shot (6 PTS) (Joseph 2 AST),21 - 26,5
+0021100235,104,2,1,1,8:25 PM,0:34,MISS Martin 3' Jump Shot,,,,
+0021100235,105,4,0,1,8:25 PM,0:33,Parsons REBOUND (Off:1 Def:1),,,,
+0021100235,106,2,1,1,8:25 PM,0:29,MISS Martin  3PT Jump Shot,,,,
+0021100235,107,4,0,1,8:25 PM,0:27,,,Splitter REBOUND (Off:0 Def:1),,
+0021100235,108,6,1,1,8:26 PM,0:07,Dragic P.FOUL (P2.T4),,,,
+0021100235,109,9,1,1,8:26 PM,0:07,ROCKETS Timeout: Regular (Full 1 Short 0),,,,
+0021100235,111,8,0,1,8:28 PM,0:07,SUB: Hill FOR Scola,,,,
+0021100235,113,1,1,1,8:28 PM,0:02,,,Neal 21' Jump Shot (2 PTS) (Splitter 1 AST),23 - 26,3
+0021100235,114,1,1,1,8:29 PM,0:00,Dragic 23' Jump Shot (6 PTS),,,23 - 28,5
+0021100235,115,18,0,1,8:29 PM,0:00,,,,,
+0021100235,116,13,0,1,8:30 PM,0:00,,,,23 - 28,5
+0021100235,118,12,0,2,8:31 PM,12:00,,,,23 - 28,5
+0021100235,119,1,1,2,8:32 PM,11:43,,,Neal 10' Jump Shot (4 PTS) (Splitter 2 AST),25 - 28,3
+0021100235,120,1,85,2,8:32 PM,11:29,Patterson 8' Turnaround Bank Shot (2 PTS) (Dragic 2 AST),,,25 - 30,5
+0021100235,121,2,1,2,8:32 PM,11:07,,,MISS Parker 25' 3PT Jump Shot,,
+0021100235,122,4,0,2,8:32 PM,11:05,Hill REBOUND (Off:0 Def:1),,,,
+0021100235,123,2,1,2,8:32 PM,10:58,MISS Lowry 25' 3PT Jump Shot,,,,
+0021100235,124,4,0,2,8:32 PM,10:57,,,Parker REBOUND (Off:0 Def:1),,
+0021100235,125,2,46,2,8:33 PM,10:42,,,MISS Parker 10' Running Jump Shot,,
+0021100235,126,4,0,2,8:33 PM,10:40,Dragic REBOUND (Off:0 Def:1),,,,
+0021100235,127,5,2,2,8:33 PM,10:36,Dragic Lost Ball Turnover (P1.T5),,Blair STEAL (1 STL),,
+0021100235,128,6,26,2,8:33 PM,10:35,,,Blair Offensive Charge Foul (P2.T1),,
+0021100235,129,5,5,2,8:33 PM,10:35,,,Blair Foul Turnover (P1.T6),,
+0021100235,130,6,1,2,8:33 PM,10:23,,,Blair P.FOUL (P3.T2),,
+0021100235,131,8,0,2,8:34 PM,10:23,,,SUB: Jefferson FOR Blair,,
+0021100235,132,1,1,2,8:34 PM,10:11,Lee 25' 3PT Jump Shot (3 PTS) (Patterson 2 AST),,,25 - 33,8
+0021100235,133,5,1,2,8:34 PM,9:52,,,Green Bad Pass Turnover (P1.T7),,
+0021100235,134,1,79,2,8:35 PM,9:36,Lee 18' Pullup Jump Shot (5 PTS),,,25 - 35,10
+0021100235,135,9,1,2,8:35 PM,9:35,,,Spurs Timeout: Regular (Reg.2 Short 0),,
+0021100235,137,1,42,2,8:37 PM,9:27,,,Parker 3' Driving Layup (2 PTS),27 - 35,8
+0021100235,138,6,2,2,8:37 PM,9:27,Hill S.FOUL (P1.T1),,,,
+0021100235,139,3,10,2,8:38 PM,9:27,,,Parker Free Throw 1 of 1 (3 PTS),28 - 35,7
+0021100235,141,1,8,2,8:38 PM,9:08,Hill 1' Slam Dunk (2 PTS) (Lowry 3 AST),,,28 - 37,9
+0021100235,142,1,44,2,8:38 PM,8:53,,,Splitter 2' Reverse Layup (6 PTS) (Parker 5 AST),30 - 37,7
+0021100235,143,2,1,2,8:39 PM,8:35,MISS Lee 25' 3PT Jump Shot,,,,
+0021100235,144,4,0,2,8:39 PM,8:34,,,Splitter REBOUND (Off:0 Def:2),,
+0021100235,145,1,7,2,8:39 PM,8:26,,,Splitter 1' Dunk (8 PTS) (Parker 6 AST),32 - 37,5
+0021100235,146,6,2,2,8:39 PM,8:26,Patterson S.FOUL (P1.T2),,,,
+0021100235,148,8,0,2,8:39 PM,8:26,SUB: Dalembert FOR Hill,,,,
+0021100235,150,3,10,2,8:40 PM,8:26,,,Splitter Free Throw 1 of 1 (9 PTS),33 - 37,4
+0021100235,154,7,2,2,8:40 PM,8:05,,,Splitter Violation:Defensive Goaltending,,
+0021100235,153,1,5,2,8:40 PM,8:05,Patterson 3' Layup (4 PTS),,,33 - 39,6
+0021100235,155,1,79,2,8:41 PM,7:54,,,Parker 14' Pullup Jump Shot (5 PTS),35 - 39,4
+0021100235,156,2,1,2,8:41 PM,7:32,MISS Dragic 25' 3PT Jump Shot,,,,
+0021100235,157,4,0,2,8:41 PM,7:30,,,Splitter REBOUND (Off:0 Def:3),,
+0021100235,159,6,2,2,8:42 PM,7:11,Dragic S.FOUL (P3.T3),,,,
+0021100235,160,3,11,2,8:42 PM,7:11,,,Parker Free Throw 1 of 2 (6 PTS),36 - 39,3
+0021100235,162,8,0,2,8:42 PM,7:11,SUB: Martin FOR Dragic,,,,
+0021100235,163,8,0,2,8:42 PM,7:11,,,SUB: Leonard FOR Green,,
+0021100235,164,3,12,2,8:42 PM,7:11,,,Parker Free Throw 2 of 2 (7 PTS),37 - 39,2
+0021100235,166,1,5,2,8:43 PM,6:55,Patterson 2' Layup (6 PTS) (Dalembert 1 AST),,,37 - 41,4
+0021100235,167,2,79,2,8:43 PM,6:39,,,MISS Parker 13' Pullup Jump Shot,,
+0021100235,168,4,0,2,8:43 PM,6:37,Patterson REBOUND (Off:0 Def:2),,,,
+0021100235,169,5,1,2,8:43 PM,6:22,Lee Bad Pass Turnover (P1.T6),,Parker STEAL (1 STL),,
+0021100235,170,1,5,2,8:43 PM,6:19,,,Parker 1' Layup (9 PTS),39 - 41,2
+0021100235,171,2,1,2,8:44 PM,6:07,MISS Martin 19' Jump Shot,,,,
+0021100235,172,4,0,2,8:44 PM,6:06,,,Splitter REBOUND (Off:0 Def:4),,
+0021100235,173,1,1,2,8:44 PM,5:54,,,Parker 6' Jump Shot (11 PTS),41 - 41,TIE
+0021100235,174,9,1,2,8:44 PM,5:48,ROCKETS Timeout: Regular (Full 2 Short 0),,,,
+0021100235,176,8,0,2,8:46 PM,5:48,,,SUB: Joseph FOR Jefferson,,
+0021100235,177,8,0,2,8:46 PM,5:48,,,SUB: Bonner FOR Parker,,
+0021100235,179,2,7,2,8:47 PM,5:37,MISS Patterson 2' Dunk,,,,
+0021100235,180,4,0,2,8:47 PM,5:36,,,Bonner REBOUND (Off:0 Def:2),,
+0021100235,181,6,1,2,8:47 PM,5:26,Dalembert P.FOUL (P1.T4),,,,
+0021100235,182,2,1,2,8:47 PM,5:17,Dalembert BLOCK (4 BLK),,MISS Neal 4' Jump Shot,,
+0021100235,183,4,0,2,8:47 PM,5:15,Lee REBOUND (Off:0 Def:1),,,,
+0021100235,184,1,79,2,8:47 PM,5:11,Lee 16' Pullup Jump Shot (7 PTS),,,41 - 43,2
+0021100235,185,1,1,2,8:48 PM,4:50,,,Bonner 22' Jump Shot (8 PTS) (Neal 1 AST),43 - 43,TIE
+0021100235,186,1,58,2,8:48 PM,4:25,Dalembert 6' Turnaround Hook Shot (4 PTS),,,43 - 45,2
+0021100235,187,2,1,2,8:48 PM,4:11,,,MISS Bonner 25' 3PT Jump Shot,,
+0021100235,189,4,0,2,8:48 PM,4:07,,,Leonard REBOUND (Off:1 Def:1),,
+0021100235,188,2,5,2,8:48 PM,4:07,,,MISS Leonard 2' Layup,,
+0021100235,190,4,0,2,8:49 PM,4:05,Lowry REBOUND (Off:0 Def:3),,,,
+0021100235,191,2,1,2,8:49 PM,3:59,MISS Martin 23' Jump Shot,,,,
+0021100235,192,4,0,2,8:49 PM,3:59,ROCKETS Rebound,,,,
+0021100235,193,6,1,2,8:49 PM,3:59,,,Splitter P.FOUL (P1.T3),,
+0021100235,194,8,0,2,8:49 PM,3:59,SUB: Scola FOR Patterson,,,,
+0021100235,195,8,0,2,8:49 PM,3:59,,,SUB: Parker FOR Joseph,,
+0021100235,196,1,79,2,8:49 PM,3:53,Lee 19' Pullup Jump Shot (9 PTS) (Lowry 4 AST),,,43 - 47,4
+0021100235,197,2,5,2,8:49 PM,3:32,Dalembert BLOCK (5 BLK),,MISS Splitter 3' Layup,,
+0021100235,198,4,0,2,8:50 PM,3:31,Lowry REBOUND (Off:0 Def:4),,,,
+0021100235,199,2,1,2,8:50 PM,3:25,MISS Lee 25' 3PT Jump Shot,,,,
+0021100235,200,4,0,2,8:50 PM,3:23,,,Bonner REBOUND (Off:0 Def:3),,
+0021100235,201,2,1,2,8:50 PM,3:09,,,MISS Bonner 26' 3PT Jump Shot,,
+0021100235,202,4,0,2,8:50 PM,3:08,,,Parker REBOUND (Off:1 Def:1),,
+0021100235,203,2,46,2,8:50 PM,3:04,,,MISS Parker 10' Running Jump Shot,,
+0021100235,204,4,0,2,8:50 PM,3:02,Lee REBOUND (Off:0 Def:2),,,,
+0021100235,205,1,43,2,8:50 PM,2:57,Martin 2' Alley Oop Layup (9 PTS) (Lowry 5 AST),,,43 - 49,6
+0021100235,206,9,2,2,8:50 PM,2:56,,,Spurs Timeout: Short (Reg.2 Short 1),,
+0021100235,208,9,1,2,8:51 PM,2:56,,,,,
+0021100235,209,8,0,2,8:53 PM,2:56,,,SUB: Green FOR Neal,,
+0021100235,210,5,40,2,8:53 PM,2:43,,,Leonard Out of Bounds Lost Ball Turnover (P1.T8),,
+0021100235,211,5,36,2,8:54 PM,2:38,Dalembert Illegal Screen Turnover (P2.T7),,,,
+0021100235,213,1,81,2,8:54 PM,2:29,,,Parker 9' Pullup Bank Shot (13 PTS),45 - 49,4
+0021100235,214,1,1,2,8:54 PM,2:12,Scola 10' Jump Shot (8 PTS),,,45 - 51,6
+0021100235,215,1,5,2,8:55 PM,1:51,,,Splitter 2' Layup (11 PTS) (Parker 7 AST),47 - 51,4
+0021100235,216,1,46,2,8:55 PM,1:38,Martin 11' Running Jump Shot (11 PTS) (Lowry 6 AST),,,47 - 53,6
+0021100235,218,1,5,2,8:55 PM,1:20,,,Leonard 2' Layup (4 PTS) (Splitter 3 AST),49 - 53,4
+0021100235,219,6,1,2,8:56 PM,1:05,,,Leonard P.FOUL (P2.T4),,
+0021100235,220,1,8,2,8:56 PM,0:55,Dalembert 1' Slam Dunk (6 PTS) (Lee 1 AST),,,49 - 55,6
+0021100235,221,5,4,2,8:56 PM,0:39,,,Parker Traveling Turnover (P2.T9),,
+0021100235,222,2,1,2,8:57 PM,0:29,MISS Lowry 27' 3PT Jump Shot,,,,
+0021100235,223,4,0,2,8:57 PM,0:27,,,Green REBOUND (Off:0 Def:1),,
+0021100235,224,2,1,2,8:57 PM,0:03,,,MISS Bonner 26' 3PT Jump Shot,,
+0021100235,225,4,0,2,8:57 PM,0:02,Dalembert REBOUND (Off:1 Def:1),,,,
+0021100235,226,5,1,2,8:57 PM,0:01,Dalembert Bad Pass Turnover (P3.T8),,Splitter STEAL (1 STL),,
+0021100235,227,2,47,2,8:57 PM,0:00,,,MISS Splitter 22' Turnaround Jump Shot,,
+0021100235,228,4,0,2,8:57 PM,0:00,,,Spurs Rebound,,
+0021100235,229,13,0,2,8:57 PM,0:00,,,,49 - 55,6
+0021100235,231,12,0,3,9:13 PM,12:00,,,,49 - 55,6
+0021100235,232,2,1,3,9:14 PM,11:36,,,MISS Jefferson  3PT Jump Shot,,
+0021100235,233,4,0,3,9:14 PM,11:34,,,Blair REBOUND (Off:3 Def:2),,
+0021100235,234,1,1,3,9:14 PM,11:20,,,Bonner  3PT Jump Shot (11 PTS) (Jefferson 1 AST),52 - 55,3
+0021100235,235,2,66,3,9:15 PM,11:03,MISS Scola 11' Jump Bank Shot,,,,
+0021100235,236,4,0,3,9:15 PM,11:01,,,Jefferson REBOUND (Off:1 Def:1),,
+0021100235,237,2,5,3,9:15 PM,10:51,,,MISS Blair 1' Layup,,
+0021100235,238,4,0,3,9:15 PM,10:50,Scola REBOUND (Off:0 Def:4),,,,
+0021100235,239,2,79,3,9:15 PM,10:44,MISS Lowry 22' Pullup Jump Shot,,,,
+0021100235,240,4,0,3,9:15 PM,10:42,,,Jefferson REBOUND (Off:1 Def:2),,
+0021100235,241,1,1,3,9:15 PM,10:31,,,Jefferson 25' 3PT Jump Shot (3 PTS) (Parker 8 AST),55 - 55,TIE
+0021100235,242,2,46,3,9:15 PM,10:10,MISS Martin 10' Running Jump Shot,,,,
+0021100235,243,4,0,3,9:15 PM,10:08,,,Parker REBOUND (Off:1 Def:2),,
+0021100235,244,5,1,3,9:16 PM,9:54,Martin STEAL (2 STL),,Parker Bad Pass Turnover (P3.T10),,
+0021100235,245,1,5,3,9:16 PM,9:50,Martin 2' Layup (13 PTS),,,55 - 57,2
+0021100235,246,2,1,3,9:16 PM,9:27,,,MISS Blair 12' Jump Shot,,
+0021100235,247,4,0,3,9:16 PM,9:26,Parsons REBOUND (Off:1 Def:2),,,,
+0021100235,248,1,84,3,9:16 PM,9:19,Martin 10' Running Bank Shot (15 PTS),,,55 - 59,4
+0021100235,249,2,1,3,9:17 PM,9:00,,,MISS Parker 19' Jump Shot,,
+0021100235,250,4,0,3,9:17 PM,8:58,Scola REBOUND (Off:0 Def:5),,,,
+0021100235,251,2,1,3,9:17 PM,8:49,MISS Parsons 24' 3PT Jump Shot,,,,
+0021100235,252,4,0,3,9:17 PM,8:48,,,Leonard REBOUND (Off:1 Def:2),,
+0021100235,253,2,1,3,9:17 PM,8:41,,,MISS Jefferson 24' 3PT Jump Shot,,
+0021100235,254,4,0,3,9:17 PM,8:39,,,Spurs Rebound,,
+0021100235,255,2,1,3,9:17 PM,8:35,,,MISS Jefferson 21' Jump Shot,,
+0021100235,256,4,0,3,9:17 PM,8:34,Parsons REBOUND (Off:1 Def:3),,,,
+0021100235,257,1,1,3,9:17 PM,8:29,Martin 26' 3PT Jump Shot (18 PTS) (Lowry 7 AST),,,55 - 62,7
+0021100235,258,9,1,3,9:18 PM,8:28,,,Spurs Timeout: Regular (Reg.3 Short 1),,
+0021100235,261,1,42,3,9:20 PM,8:17,,,Parker 4' Driving Layup (15 PTS),57 - 62,5
+0021100235,262,1,42,3,9:20 PM,7:56,Parsons 3' Driving Layup (5 PTS) (Scola 2 AST),,,57 - 64,7
+0021100235,263,1,79,3,9:20 PM,7:41,,,Parker 10' Pullup Jump Shot (17 PTS),59 - 64,5
+0021100235,264,1,5,3,9:21 PM,7:25,Scola 3' Layup (10 PTS),,,59 - 66,7
+0021100235,265,2,65,3,9:21 PM,7:08,,,MISS Jefferson 10' Jump Hook Shot,,
+0021100235,266,4,0,3,9:21 PM,7:06,Scola REBOUND (Off:0 Def:6),,,,
+0021100235,267,1,43,3,9:21 PM,6:44,Dalembert 1' Alley Oop Layup (8 PTS) (Lowry 8 AST),,,59 - 68,9
+0021100235,268,1,5,3,9:22 PM,6:22,,,Blair 2' Layup (8 PTS) (Parker 9 AST),61 - 68,7
+0021100235,269,2,46,3,9:22 PM,6:07,MISS Martin 14' Running Jump Shot,,,,
+0021100235,270,4,0,3,9:22 PM,6:05,,,Leonard REBOUND (Off:1 Def:3),,
+0021100235,271,6,28,3,9:22 PM,5:57,Lowry Personal Take Foul (P1.T1),,,,
+0021100235,272,8,0,3,9:23 PM,5:57,,,SUB: Green FOR Jefferson,,
+0021100235,273,8,0,3,9:23 PM,5:57,,,SUB: Joseph FOR Blair,,
+0021100235,274,8,0,3,9:23 PM,5:57,,,SUB: Splitter FOR Parker,,
+0021100235,275,1,5,3,9:23 PM,5:48,,,Splitter 3' Layup (13 PTS),63 - 68,5
+0021100235,276,6,2,3,9:23 PM,5:48,Dalembert S.FOUL (P2.T2),,,,
+0021100235,277,3,10,3,9:23 PM,5:48,,,MISS Splitter Free Throw 1 of 1,,
+0021100235,279,4,0,3,9:24 PM,5:48,Scola REBOUND (Off:0 Def:7),,,,
+0021100235,280,5,8,3,9:24 PM,5:36,Dalembert 3 Second Violation Turnover (P4.T9),,,,
+0021100235,281,6,4,3,9:24 PM,5:21,,,Splitter OFF.Foul (P2),,
+0021100235,282,5,5,3,9:24 PM,5:21,,,Splitter Foul Turnover (P2.T11),,
+0021100235,283,2,1,3,9:25 PM,5:09,MISS Martin 22' Jump Shot,,,,
+0021100235,284,4,0,3,9:25 PM,5:07,,,Splitter REBOUND (Off:0 Def:5),,
+0021100235,285,2,1,3,9:25 PM,4:48,,,MISS Leonard 25' 3PT Jump Shot,,
+0021100235,286,4,0,3,9:25 PM,4:46,Parsons REBOUND (Off:1 Def:4),,,,
+0021100235,287,2,1,3,9:25 PM,4:39,MISS Parsons 25' 3PT Jump Shot,,,,
+0021100235,288,4,0,3,9:25 PM,4:39,,,Spurs Rebound,,
+0021100235,289,6,3,3,9:25 PM,4:39,Dalembert L.B.FOUL (P3.T3),,,,
+0021100235,290,1,8,3,9:26 PM,4:27,,,Leonard 1' Slam Dunk (6 PTS) (Bonner 1 AST),65 - 68,3
+0021100235,291,2,5,3,9:26 PM,4:04,MISS Scola 3' Layup,,Green BLOCK (1 BLK),,
+0021100235,292,4,0,3,9:26 PM,4:02,,,Splitter REBOUND (Off:0 Def:6),,
+0021100235,293,2,1,3,9:26 PM,3:54,,,MISS Bonner 25' 3PT Jump Shot,,
+0021100235,294,4,0,3,9:26 PM,3:54,,,Spurs Rebound,,
+0021100235,295,6,3,3,9:26 PM,3:54,Parsons L.B.FOUL (P2.T4),,,,
+0021100235,296,8,0,3,9:26 PM,3:54,SUB: Patterson FOR Dalembert,,,,
+0021100235,297,2,46,3,9:27 PM,3:50,,,MISS Green 10' Running Jump Shot,,
+0021100235,298,4,0,3,9:27 PM,3:49,,,Bonner REBOUND (Off:1 Def:3),,
+0021100235,299,6,2,3,9:27 PM,3:49,Lowry S.FOUL (P2.PN),,,,
+0021100235,300,3,11,3,9:27 PM,3:49,,,Bonner Free Throw 1 of 2 (12 PTS),66 - 68,2
+0021100235,302,3,12,3,9:27 PM,3:49,,,Bonner Free Throw 2 of 2 (13 PTS),67 - 68,1
+0021100235,304,1,84,3,9:28 PM,3:36,Martin 9' Running Bank Shot (20 PTS),,,67 - 70,3
+0021100235,305,2,1,3,9:28 PM,3:16,Parsons BLOCK (1 BLK),,MISS Leonard 10' Jump Shot,,
+0021100235,306,4,0,3,9:28 PM,3:14,,,Leonard REBOUND (Off:2 Def:3),,
+0021100235,307,2,5,3,9:28 PM,3:13,Parsons BLOCK (2 BLK),,MISS Leonard 2' Layup,,
+0021100235,308,4,0,3,9:28 PM,3:12,Patterson REBOUND (Off:0 Def:3),,,,
+0021100235,309,2,1,3,9:28 PM,3:05,MISS Lowry 26' 3PT Jump Shot,,,,
+0021100235,310,4,0,3,9:28 PM,3:00,,,Green REBOUND (Off:0 Def:2),,
+0021100235,311,1,5,3,9:28 PM,2:54,,,Leonard 1' Layup (8 PTS) (Green 2 AST),69 - 70,1
+0021100235,313,1,1,3,9:29 PM,2:40,Scola 17' Jump Shot (12 PTS) (Martin 3 AST),,,69 - 72,3
+0021100235,314,1,5,3,9:29 PM,2:21,,,Splitter 1' Layup (15 PTS),71 - 72,1
+0021100235,315,9,1,3,9:29 PM,2:12,ROCKETS Timeout: Regular (Full 3 Short 0),,,,
+0021100235,317,8,0,3,9:31 PM,2:12,SUB: Dragic FOR Parsons,,,,
+0021100235,318,8,0,3,9:31 PM,2:12,SUB: Lee FOR Lowry,,,,
+0021100235,319,8,0,3,9:31 PM,2:12,,,SUB: Parker FOR Bonner,,
+0021100235,320,8,0,3,9:31 PM,2:12,,,SUB: Jefferson FOR Joseph,,
+0021100235,321,1,46,3,9:32 PM,2:03,Martin 15' Running Jump Shot (22 PTS),,,71 - 74,3
+0021100235,323,2,84,3,9:32 PM,1:47,,,MISS Parker 8' Running Bank Shot,,
+0021100235,324,4,0,3,9:32 PM,1:45,,,Splitter REBOUND (Off:1 Def:6),,
+0021100235,325,6,2,3,9:32 PM,1:44,Patterson S.FOUL (P2.PN),,,,
+0021100235,326,3,11,3,9:32 PM,1:44,,,MISS Splitter Free Throw 1 of 2,,
+0021100235,327,4,1,3,9:32 PM,1:44,,,Spurs Rebound,,
+0021100235,328,3,12,3,9:32 PM,1:44,,,Splitter Free Throw 2 of 2 (16 PTS),72 - 74,2
+0021100235,330,2,1,3,9:33 PM,1:22,MISS Martin 27' 3PT Jump Shot,,,,
+0021100235,331,4,0,3,9:33 PM,1:21,,,Parker REBOUND (Off:1 Def:3),,
+0021100235,332,2,1,3,9:33 PM,1:15,,,MISS Parker 6' Jump Shot,,
+0021100235,333,4,0,3,9:33 PM,1:12,,,Leonard REBOUND (Off:3 Def:3),,
+0021100235,334,2,1,3,9:33 PM,1:10,Lee BLOCK (1 BLK),,MISS Leonard 4' Jump Shot,,
+0021100235,335,4,0,3,9:33 PM,1:08,,,Jefferson REBOUND (Off:2 Def:2),,
+0021100235,337,8,0,3,9:34 PM,1:08,SUB: Hill FOR Scola,,,,
+0021100235,338,6,1,3,9:34 PM,0:57,Martin P.FOUL (P1.PN),,,,
+0021100235,339,3,11,3,9:34 PM,0:57,,,MISS Jefferson Free Throw 1 of 2,,
+0021100235,351,4,0,3,9:35 PM,0:57,,,Spurs Rebound,,
+0021100235,341,3,12,3,9:35 PM,0:57,,,Jefferson Free Throw 2 of 2 (4 PTS),73 - 74,1
+0021100235,343,2,1,3,9:35 PM,0:41,MISS Lee 24' 3PT Jump Shot,,,,
+0021100235,344,4,0,3,9:35 PM,0:41,ROCKETS Rebound,,,,
+0021100235,345,6,3,3,9:35 PM,0:41,,,Green L.B.FOUL (P1.T1),,
+0021100235,346,1,47,3,9:36 PM,0:28,Dragic 9' Turnaround Jump Shot (8 PTS),,,73 - 76,3
+0021100235,357,5,0,3,9:36 PM,0:06,Lee STEAL (1 STL),,Leonard No Turnover (P2.T12),,
+0021100235,347,6,1,3,9:36 PM,0:05,,,Leonard P.FOUL (P3.PN),,
+0021100235,349,3,11,3,9:37 PM,0:05,Martin Free Throw 1 of 2 (23 PTS),,,73 - 77,4
+0021100235,352,3,12,3,9:37 PM,0:05,MISS Martin Free Throw 2 of 2,,,,
+0021100235,354,4,0,3,9:37 PM,0:05,,,Splitter REBOUND (Off:1 Def:7),,
+0021100235,355,1,1,3,9:37 PM,0:00,,,Parker 23' Jump Shot (19 PTS),75 - 77,2
+0021100235,356,18,0,3,9:37 PM,0:00,,,,,
+0021100235,359,13,0,3,9:38 PM,0:00,,,,75 - 77,2
+0021100235,361,12,0,4,9:40 PM,12:00,,,,75 - 77,2
+0021100235,362,2,1,4,9:40 PM,11:45,MISS Hill 16' Jump Shot,,,,
+0021100235,363,4,0,4,9:40 PM,11:44,,,Jefferson REBOUND (Off:2 Def:3),,
+0021100235,364,1,5,4,9:40 PM,11:29,,,Splitter 3' Layup (18 PTS),77 - 77,TIE
+0021100235,368,6,2,4,9:41 PM,11:08,,,Green S.FOUL (P2.T1),,
+0021100235,369,3,11,4,9:41 PM,11:08,Dragic Free Throw 1 of 2 (9 PTS),,,77 - 78,1
+0021100235,371,8,0,4,9:41 PM,11:08,,,SUB: Neal FOR Green,,
+0021100235,372,3,12,4,9:41 PM,11:08,Dragic Free Throw 2 of 2 (10 PTS),,,77 - 79,2
+0021100235,374,1,5,4,9:42 PM,10:51,,,Splitter 2' Layup (20 PTS) (Parker 10 AST),79 - 79,TIE
+0021100235,375,6,4,4,9:42 PM,10:36,Patterson OFF.Foul (P3),,,,
+0021100235,376,5,5,4,9:42 PM,10:36,Patterson Foul Turnover (P1.T10),,,,
+0021100235,377,8,0,4,9:42 PM,10:36,SUB: Lowry FOR Martin,,,,
+0021100235,378,2,1,4,9:43 PM,10:15,,,MISS Parker 22' Jump Shot,,
+0021100235,379,4,0,4,9:43 PM,10:13,Hill REBOUND (Off:0 Def:2),,,,
+0021100235,380,5,2,4,9:43 PM,10:02,Hill Lost Ball Turnover (P1.T11),,Jefferson STEAL (1 STL),,
+0021100235,381,1,1,4,9:43 PM,9:56,,,Neal 25' 3PT Jump Shot (7 PTS) (Parker 11 AST),82 - 79,-3
+0021100235,382,2,1,4,9:44 PM,9:36,MISS Lowry 8' Jump Shot,,Leonard BLOCK (1 BLK),,
+0021100235,383,4,0,4,9:44 PM,9:35,,,Spurs Rebound,,
+0021100235,384,8,0,4,9:44 PM,9:35,,,SUB: Joseph FOR Parker,,
+0021100235,385,10,0,4,9:44 PM,9:35,Jump Ball Hill vs. Splitter: Tip to Jefferson,,,,
+0021100235,388,7,5,4,9:45 PM,9:19,Patterson Violation:Kicked Ball,,,,
+0021100235,389,8,0,4,9:45 PM,9:19,SUB: Dalembert FOR Hill,,,,
+0021100235,390,9,1,4,9:45 PM,9:19,,,Spurs Timeout: Regular (Reg.4 Short 1),,
+0021100235,393,1,1,4,9:47 PM,9:15,,,Neal 20' Jump Shot (9 PTS) (Splitter 4 AST),84 - 79,-5
+0021100235,394,1,5,4,9:47 PM,9:01,Patterson 3' Layup (8 PTS) (Dragic 3 AST),,,84 - 81,-3
+0021100235,396,5,2,4,9:48 PM,8:51,Patterson STEAL (1 STL),,Joseph Lost Ball Turnover (P1.T13),,
+0021100235,397,2,79,4,9:48 PM,8:39,MISS Dragic 10' Pullup Jump Shot,,,,
+0021100235,398,4,0,4,9:48 PM,8:38,Dalembert REBOUND (Off:2 Def:1),,,,
+0021100235,399,6,2,4,9:48 PM,8:38,,,Jefferson S.FOUL (P2.T2),,
+0021100235,400,3,11,4,9:48 PM,8:38,Dalembert Free Throw 1 of 2 (9 PTS),,,84 - 82,-2
+0021100235,402,8,0,4,9:49 PM,8:38,,,SUB: Blair FOR Splitter,,
+0021100235,403,3,12,4,9:49 PM,8:38,Dalembert Free Throw 2 of 2 (10 PTS),,,84 - 83,-1
+0021100235,406,2,1,4,9:50 PM,8:16,,,MISS Jefferson 20' Jump Shot,,
+0021100235,407,4,0,4,9:50 PM,8:15,,,Leonard REBOUND (Off:4 Def:3),,
+0021100235,408,2,5,4,9:50 PM,8:01,Dalembert BLOCK (6 BLK),,MISS Blair 1' Layup,,
+0021100235,409,4,0,4,9:50 PM,7:59,,,Leonard REBOUND (Off:5 Def:3),,
+0021100235,410,2,1,4,9:50 PM,7:55,,,MISS Jefferson 19' Jump Shot,,
+0021100235,411,4,0,4,9:50 PM,7:54,,,Leonard REBOUND (Off:6 Def:3),,
+0021100235,412,2,1,4,9:50 PM,7:40,,,MISS Leonard 20' Jump Shot,,
+0021100235,413,4,0,4,9:50 PM,7:39,ROCKETS Rebound,,,,
+0021100235,414,6,3,4,9:50 PM,7:39,,,Blair L.B.FOUL (P4.T3),,
+0021100235,415,8,0,4,9:50 PM,7:39,,,SUB: Parker FOR Joseph,,
+0021100235,416,2,79,4,9:51 PM,7:22,MISS Lee 18' Pullup Jump Shot,,,,
+0021100235,417,4,0,4,9:51 PM,7:20,Patterson REBOUND (Off:1 Def:3),,,,
+0021100235,418,1,1,4,9:51 PM,7:18,Patterson 7' Jump Shot (10 PTS),,,84 - 85,1
+0021100235,419,2,1,4,9:51 PM,7:04,,,MISS Jefferson 21' Jump Shot,,
+0021100235,420,4,0,4,9:51 PM,7:02,Dalembert REBOUND (Off:2 Def:2),,,,
+0021100235,421,1,1,4,9:51 PM,6:49,Dalembert 17' Jump Shot (12 PTS) (Lee 2 AST),,,84 - 87,3
+0021100235,422,1,78,4,9:52 PM,6:32,,,Parker 14' Floating Jump Shot (21 PTS),86 - 87,1
+0021100235,423,1,80,4,9:52 PM,6:18,Lowry 22' Step Back Jump Shot (6 PTS),,,86 - 89,3
+0021100235,424,2,1,4,9:52 PM,5:49,,,MISS Jefferson 20' Jump Shot,,
+0021100235,425,4,0,4,9:52 PM,5:48,ROCKETS Rebound,,,,
+0021100235,426,9,1,4,9:52 PM,5:48,,,,,
+0021100235,429,8,0,4,9:55 PM,5:48,,,SUB: Bonner FOR Jefferson,,
+0021100235,430,8,0,4,9:55 PM,5:48,,,SUB: Splitter FOR Blair,,
+0021100235,431,1,79,4,9:55 PM,5:33,Lowry 25' 3PT Pullup Jump Shot (9 PTS),,,86 - 92,6
+0021100235,432,5,40,4,9:55 PM,5:18,,,Parker Out of Bounds Lost Ball Turnover (P4.T14),,
+0021100235,433,2,1,4,9:56 PM,5:00,MISS Dragic  3PT Jump Shot,,,,
+0021100235,434,4,0,4,9:56 PM,4:59,,,Splitter REBOUND (Off:1 Def:8),,
+0021100235,435,6,2,4,9:56 PM,4:52,Dalembert S.FOUL (P4.T1),,,,
+0021100235,436,3,11,4,9:56 PM,4:52,,,MISS Parker Free Throw 1 of 2,,
+0021100235,437,4,1,4,9:56 PM,4:52,,,Spurs Rebound,,
+0021100235,438,3,12,4,9:57 PM,4:52,,,Parker Free Throw 2 of 2 (22 PTS),87 - 92,5
+0021100235,440,1,5,4,9:57 PM,4:28,Patterson 3' Layup (12 PTS) (Dragic 4 AST),,,87 - 94,7
+0021100235,441,1,1,4,9:58 PM,4:15,,,Splitter 3' Jump Shot (22 PTS) (Parker 12 AST),89 - 94,5
+0021100235,442,6,2,4,9:58 PM,4:15,Lowry S.FOUL (P3.T2),,,,
+0021100235,443,3,10,4,9:58 PM,4:15,,,Splitter Free Throw 1 of 1 (23 PTS),90 - 94,4
+0021100235,445,1,42,4,9:59 PM,3:54,Lowry 2' Driving Layup (11 PTS),,,90 - 96,6
+0021100235,446,2,77,4,9:59 PM,3:32,,,MISS Parker 3' Driving Jump Shot,,
+0021100235,448,4,0,4,9:59 PM,3:31,,,Splitter REBOUND (Off:2 Def:8),,
+0021100235,447,1,72,4,9:59 PM,3:31,,,Splitter 1' Putback Layup (25 PTS),92 - 96,4
+0021100235,449,6,1,4,9:59 PM,3:20,,,Splitter P.FOUL (P3.T4),,
+0021100235,450,1,79,4,10:00 PM,3:07,Lowry 25' 3PT Pullup Jump Shot (14 PTS),,,92 - 99,7
+0021100235,451,1,46,4,10:00 PM,2:52,,,Parker 11' Running Jump Shot (24 PTS),94 - 99,5
+0021100235,452,1,42,4,10:00 PM,2:35,Dragic 2' Driving Layup (12 PTS),,,94 - 101,7
+0021100235,453,9,2,4,10:00 PM,2:34,,,Spurs Timeout: Short (Reg.4 Short 2),,
+0021100235,455,9,1,4,10:01 PM,2:34,ROCKETS Timeout: Regular (Full 4 Short 0),,,,
+0021100235,460,1,1,4,10:03 PM,2:21,,,Bonner 25' 3PT Jump Shot (16 PTS) (Parker 13 AST),97 - 101,4
+0021100235,461,2,1,4,10:03 PM,1:56,MISS Dragic 25' 3PT Jump Shot,,,,
+0021100235,462,4,0,4,10:03 PM,1:54,,,Leonard REBOUND (Off:6 Def:4),,
+0021100235,463,2,1,4,10:04 PM,1:44,,,MISS Parker 25' 3PT Jump Shot,,
+0021100235,464,4,0,4,10:04 PM,1:43,Patterson REBOUND (Off:1 Def:4),,,,
+0021100235,465,5,1,4,10:04 PM,1:27,Lowry Bad Pass Turnover (P2.T12),,Leonard STEAL (1 STL),,
+0021100235,466,1,46,4,10:04 PM,1:19,,,Neal 16' Running Jump Shot (11 PTS),99 - 101,2
+0021100235,467,9,1,4,10:04 PM,1:15,ROCKETS Timeout: Regular (Full 5 Short 0),,,,
+0021100235,469,8,0,4,10:06 PM,1:15,SUB: Martin FOR Lee,,,,
+0021100235,470,1,1,4,10:06 PM,0:54,Dragic 11' Jump Shot (14 PTS),,,99 - 103,4
+0021100235,471,2,77,4,10:07 PM,0:44,,,MISS Parker 3' Driving Jump Shot,,
+0021100235,472,4,0,4,10:07 PM,0:43,,,Leonard REBOUND (Off:7 Def:4),,
+0021100235,473,2,3,4,10:07 PM,0:39,,,MISS Leonard 6' Hook Shot,,
+0021100235,474,4,0,4,10:07 PM,0:37,Dragic REBOUND (Off:0 Def:2),,,,
+0021100235,476,9,2,4,10:07 PM,0:19,ROCKETS Timeout: Short (Full 5 Short 1),,,,
+0021100235,479,2,79,4,10:08 PM,0:15,MISS Lowry 22' Pullup Jump Shot,,,,
+0021100235,480,4,0,4,10:08 PM,0:14,,,Bonner REBOUND (Off:1 Def:4),,
+0021100235,481,9,2,4,10:09 PM,0:13,,,Spurs Timeout: Short (Reg.4 Short 3),,
+0021100235,483,8,0,4,10:09 PM,0:13,SUB: Parsons FOR Patterson,,,,
+0021100235,484,8,0,4,10:09 PM,0:13,,,SUB: Jefferson FOR Leonard,,
+0021100235,485,1,80,4,10:10 PM,0:10,,,Jefferson 25' 3PT Step Back Jump Shot (7 PTS),102 - 103,1
+0021100235,486,6,28,4,10:10 PM,0:09,,,Neal Personal Take Foul (P1.PN),,
+0021100235,487,3,11,4,10:11 PM,0:09,Martin Free Throw 1 of 2 (24 PTS),,,102 - 104,2
+0021100235,489,3,12,4,10:11 PM,0:09,Martin Free Throw 2 of 2 (25 PTS),,,102 - 105,3
+0021100235,491,9,1,4,10:11 PM,0:09,,,Spurs Timeout: Regular (Reg.5 Short 3),,
+0021100235,493,8,0,4,10:12 PM,0:09,SUB: Lee FOR Dalembert,,,,
+0021100235,495,2,1,4,10:13 PM,0:04,,,MISS Neal 27' 3PT Jump Shot,,
+0021100235,496,4,0,4,10:13 PM,0:03,Lowry REBOUND (Off:0 Def:5),,,,
+0021100235,497,5,1,4,10:13 PM,0:00,Lowry Bad Pass Turnover (P3.T13),,Jefferson STEAL (2 STL),,
+0021100235,498,13,0,4,10:13 PM,0:00,,,,102 - 105,3

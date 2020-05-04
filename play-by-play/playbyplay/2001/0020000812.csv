@@ -1,0 +1,428 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000812,0,12,0,1,12:42 PM,12:00,,,,,
+0020000812,1,10,0,1,12:43 PM,12:00,Jump Ball Olajuwon vs. Wallace: Tip to Francis,,,,
+0020000812,2,1,46,1,12:43 PM,11:39,Francis 6' Running Jump Shot (2 PTS),,,0 - 2,2
+0020000812,3,2,5,1,12:44 PM,11:26,Francis BLOCK (1 BLK),,MISS Wells  Layup,,
+0020000812,4,4,0,1,12:44 PM,11:24,,,Wallace REBOUND (Off:1 Def:0),,
+0020000812,5,2,55,1,12:44 PM,11:16,,,MISS Pippen 5' Hook Shot,,
+0020000812,6,4,0,1,12:44 PM,11:15,Olajuwon REBOUND (Off:0 Def:1),,,,
+0020000812,7,5,4,1,12:44 PM,11:02,Taylor Traveling Turnover (P1.T1),,,,
+0020000812,8,6,2,1,12:44 PM,10:45,Taylor S.FOUL (P1.T1),,,,
+0020000812,9,3,11,1,12:45 PM,10:45,,,MISS Wallace Free Throw 1 of 2,,
+0020000812,10,4,1,1,12:45 PM,10:45,,,Trail Blazers Rebound,,
+0020000812,11,3,12,1,12:45 PM,10:45,,,Wallace Free Throw 2 of 2 (1 PTS),1 - 2,1
+0020000812,12,6,2,1,12:46 PM,10:25,,,Davis S.FOUL (P1.T1),,
+0020000812,13,3,11,1,12:46 PM,10:25,Olajuwon Free Throw 1 of 2 (1 PTS),,,1 - 3,2
+0020000812,14,3,12,1,12:46 PM,10:25,MISS Olajuwon Free Throw 2 of 2,,,,
+0020000812,15,4,0,1,12:46 PM,10:25,Mobley REBOUND (Off:1 Def:0),,,,
+0020000812,16,2,1,1,12:46 PM,10:16,MISS Olajuwon 16' Jump Shot,,,,
+0020000812,17,4,0,1,12:47 PM,10:14,,,Stoudamire REBOUND (Off:0 Def:1),,
+0020000812,18,2,5,1,12:47 PM,10:05,Olajuwon BLOCK (1 BLK),,MISS Pippen  Layup,,
+0020000812,19,4,0,1,12:47 PM,10:03,,,Pippen REBOUND (Off:1 Def:0),,
+0020000812,20,1,5,1,12:47 PM,10:01,,,Pippen  Layup (2 PTS),3 - 3,TIE
+0020000812,21,1,1,1,12:47 PM,9:39,Anderson 24' 3PT Jump Shot (3 PTS) (Olajuwon 1 AST),,,3 - 6,3
+0020000812,22,1,42,1,12:47 PM,9:19,,,Pippen  Driving Layup (4 PTS),5 - 6,1
+0020000812,23,2,1,1,12:48 PM,8:55,MISS Anderson 24' 3PT Jump Shot,,,,
+0020000812,24,4,0,1,12:48 PM,8:53,,,Stoudamire REBOUND (Off:0 Def:2),,
+0020000812,25,1,1,1,12:48 PM,8:45,,,Stoudamire 20' Jump Shot (2 PTS),7 - 6,-1
+0020000812,26,2,1,1,12:48 PM,8:26,MISS Mobley 19' Jump Shot,,,,
+0020000812,27,4,0,1,12:48 PM,8:24,,,Pippen REBOUND (Off:1 Def:1),,
+0020000812,28,5,1,1,12:48 PM,8:19,,,Pippen Bad Pass Turnover (P1.T1),,
+0020000812,29,2,1,1,12:49 PM,8:02,MISS Olajuwon 6' Jump Shot,,,,
+0020000812,30,4,0,1,12:49 PM,8:00,,,Davis REBOUND (Off:0 Def:1),,
+0020000812,31,2,5,1,12:49 PM,7:56,Anderson BLOCK (1 BLK),,MISS Wells  Layup,,
+0020000812,32,4,0,1,12:49 PM,7:53,Mobley REBOUND (Off:1 Def:1),,,,
+0020000812,33,6,2,1,12:49 PM,7:48,,,Davis S.FOUL (P2.T2),,
+0020000812,34,3,11,1,12:49 PM,7:48,Anderson Free Throw 1 of 2 (4 PTS),,,7 - 7,TIE
+0020000812,35,8,0,1,12:50 PM,7:48,,,SUB: Sabonis FOR Davis,,
+0020000812,36,3,12,1,12:50 PM,7:48,Anderson Free Throw 2 of 2 (5 PTS),,,7 - 8,1
+0020000812,37,2,5,1,12:50 PM,7:33,,,MISS Pippen  Layup,,
+0020000812,38,4,0,1,12:50 PM,7:32,Francis REBOUND (Off:0 Def:1),,,,
+0020000812,39,1,7,1,12:50 PM,7:26,Anderson  Dunk (7 PTS) (Francis 1 AST),,,7 - 10,3
+0020000812,40,1,59,1,12:51 PM,7:05,,,Wallace 5' Finger Roll (3 PTS) (Pippen 1 AST),9 - 10,1
+0020000812,41,1,42,1,12:51 PM,6:47,Anderson  Driving Layup (9 PTS) (Francis 2 AST),,,9 - 12,3
+0020000812,42,1,1,1,12:51 PM,6:33,,,Wells 16' Jump Shot (2 PTS) (Stoudamire 1 AST),11 - 12,1
+0020000812,43,1,44,1,12:51 PM,6:18,Taylor  Reverse Layup (2 PTS) (Francis 3 AST),,,11 - 14,3
+0020000812,44,2,47,1,12:52 PM,6:01,,,MISS Wells 13' Turnaround Jump Shot,,
+0020000812,45,4,0,1,12:52 PM,5:59,Taylor REBOUND (Off:0 Def:1),,,,
+0020000812,46,1,1,1,12:52 PM,5:46,Olajuwon 14' Jump Shot (3 PTS) (Francis 4 AST),,,11 - 16,5
+0020000812,47,2,1,1,12:52 PM,5:29,,,MISS Stoudamire 25' 3PT Jump Shot,,
+0020000812,48,4,0,1,12:52 PM,5:27,Olajuwon REBOUND (Off:0 Def:2),,,,
+0020000812,49,2,1,1,12:52 PM,5:16,MISS Olajuwon 15' Jump Shot,,,,
+0020000812,50,4,0,1,12:52 PM,5:14,Taylor REBOUND (Off:1 Def:1),,,,
+0020000812,51,1,5,1,12:52 PM,5:12,Taylor  Layup (4 PTS),,,11 - 18,7
+0020000812,52,6,2,1,12:53 PM,4:53,Anderson S.FOUL (P1.T2),,,,
+0020000812,53,9,1,1,12:53 PM,4:53,ROCKETS Timeout: Regular (Full 1 Short 0),,,,
+0020000812,55,3,11,1,12:55 PM,4:53,,,MISS Pippen Free Throw 1 of 2,,
+0020000812,56,4,1,1,12:55 PM,4:53,,,Trail Blazers Rebound,,
+0020000812,57,3,12,1,12:55 PM,4:53,,,MISS Pippen Free Throw 2 of 2,,
+0020000812,58,4,0,1,12:56 PM,4:53,ROCKETS Rebound,,,,
+0020000812,59,6,3,1,12:56 PM,4:53,,,Sabonis L.B.FOUL (P1.T3),,
+0020000812,60,2,5,1,12:56 PM,4:41,MISS Mobley  Layup,,,,
+0020000812,61,4,0,1,12:56 PM,4:40,,,Wallace REBOUND (Off:1 Def:1),,
+0020000812,62,6,2,1,12:56 PM,4:35,Taylor S.FOUL (P2.T3),,,,
+0020000812,63,8,0,1,12:57 PM,4:35,SUB: Thomas FOR Taylor,,,,
+0020000812,64,3,11,1,12:57 PM,4:35,,,Pippen Free Throw 1 of 2 (5 PTS),12 - 18,6
+0020000812,65,3,12,1,12:57 PM,4:35,,,Pippen Free Throw 2 of 2 (6 PTS),13 - 18,5
+0020000812,66,5,1,1,12:57 PM,4:22,Thomas Bad Pass Turnover (P1.T2),,Wells STEAL (1 STL),,
+0020000812,67,2,1,1,12:57 PM,4:12,,,MISS Wallace 13' Jump Shot,,
+0020000812,68,4,0,1,12:58 PM,4:10,Francis REBOUND (Off:0 Def:2),,,,
+0020000812,69,5,4,1,12:58 PM,4:09,Francis Traveling Turnover (P1.T3),,,,
+0020000812,70,1,1,1,12:58 PM,3:55,,,Stoudamire 24' 3PT Jump Shot (5 PTS) (Sabonis 1 AST),16 - 18,2
+0020000812,71,2,1,1,12:58 PM,3:35,MISS Thomas 19' Jump Shot,,,,
+0020000812,72,4,0,1,12:59 PM,3:34,,,Sabonis REBOUND (Off:0 Def:1),,
+0020000812,73,6,1,1,12:59 PM,3:34,Olajuwon P.FOUL (P1.T4),,,,
+0020000812,74,2,5,1,12:59 PM,3:25,Anderson BLOCK (2 BLK),,MISS Pippen  Layup,,
+0020000812,75,4,0,1,12:59 PM,3:24,ROCKETS Rebound,,,,
+0020000812,76,1,42,1,12:59 PM,3:11,Mobley  Driving Layup (2 PTS),,,16 - 20,4
+0020000812,77,1,42,1,1:00 PM,2:59,,,Stoudamire  Driving Layup (7 PTS),18 - 20,2
+0020000812,78,6,1,1,1:00 PM,2:43,,,Wells P.FOUL (P1.T4),,
+0020000812,79,9,1,1,1:00 PM,2:43,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,
+0020000812,81,8,0,1,1:02 PM,2:43,,,SUB: Smith FOR Pippen,,
+0020000812,82,8,0,1,1:02 PM,2:43,,,SUB: Augmon FOR Wells,,
+0020000812,83,1,42,1,1:03 PM,2:33,Mobley  Driving Layup (4 PTS),,,18 - 22,4
+0020000812,84,1,1,1,1:03 PM,2:09,,,Sabonis 23' Jump Shot (2 PTS) (Wallace 1 AST),20 - 22,2
+0020000812,85,5,1,1,1:03 PM,1:52,Mobley Bad Pass Turnover (P1.T4),,Stoudamire STEAL (1 STL),,
+0020000812,86,6,4,1,1:03 PM,1:47,,,Augmon OFF.Foul (P1),,
+0020000812,87,5,5,1,1:03 PM,1:47,,,Augmon Foul Turnover (P1.T2),,
+0020000812,88,1,1,1,1:04 PM,1:27,Olajuwon 18' Jump Shot (5 PTS) (Francis 5 AST),,,20 - 24,4
+0020000812,89,1,3,1,1:04 PM,1:05,,,Sabonis 4' Hook Shot (4 PTS) (Wallace 2 AST),22 - 24,2
+0020000812,90,1,1,1,1:05 PM,0:47,Mobley 24' 3PT Jump Shot (7 PTS) (Anderson 1 AST),,,22 - 27,5
+0020000812,91,2,1,1,1:05 PM,0:37,,,MISS Stoudamire 18' Jump Shot,,
+0020000812,92,4,0,1,1:05 PM,0:36,Olajuwon REBOUND (Off:0 Def:3),,,,
+0020000812,93,6,2,1,1:05 PM,0:18,,,Wallace S.FOUL (P1.PN),,
+0020000812,94,3,11,1,1:05 PM,0:18,MISS Francis Free Throw 1 of 2,,,,
+0020000812,95,4,1,1,1:05 PM,0:18,ROCKETS Rebound,,,,
+0020000812,96,8,0,1,1:06 PM,0:18,SUB: Cato FOR Olajuwon,,,,
+0020000812,97,3,12,1,1:06 PM,0:18,Francis Free Throw 2 of 2 (3 PTS),,,22 - 28,6
+0020000812,98,2,1,1,1:06 PM,0:02,,,MISS Sabonis 10' Jump Shot,,
+0020000812,99,4,0,1,1:06 PM,0:00,,,Trail Blazers Rebound,,
+0020000812,100,13,0,1,1:06 PM,0:00,,,,22 - 28,6
+0020000812,101,12,0,2,1:09 PM,12:00,,,,22 - 28,6
+0020000812,102,1,58,2,1:10 PM,11:46,,,Sabonis 9' Turnaround Hook Shot (6 PTS) (Wallace 3 AST),24 - 28,4
+0020000812,103,2,46,2,1:10 PM,11:24,MISS Anderson 10' Running Jump Shot,,,,
+0020000812,104,4,0,2,1:10 PM,11:22,,,Augmon REBOUND (Off:0 Def:1),,
+0020000812,105,5,1,2,1:10 PM,11:19,,,Augmon Bad Pass Turnover (P2.T3),,
+0020000812,106,1,1,2,1:11 PM,11:06,Thomas 5' Jump Shot (2 PTS) (Francis 6 AST),,,24 - 30,6
+0020000812,107,2,1,2,1:11 PM,10:47,,,MISS Sabonis 25' 3PT Jump Shot,,
+0020000812,108,4,0,2,1:11 PM,10:46,Anderson REBOUND (Off:0 Def:1),,,,
+0020000812,109,2,1,2,1:11 PM,10:30,MISS Mobley 25' 3PT Jump Shot,,,,
+0020000812,110,4,0,2,1:11 PM,10:28,,,Wallace REBOUND (Off:1 Def:2),,
+0020000812,111,5,1,2,1:12 PM,10:20,,,Pippen Bad Pass Turnover (P2.T4),,
+0020000812,112,1,1,2,1:12 PM,9:59,Francis  3PT Jump Shot (6 PTS) (Thomas 1 AST),,,24 - 33,9
+0020000812,113,2,1,2,1:12 PM,9:41,,,MISS Augmon 16' Jump Shot,,
+0020000812,114,4,0,2,1:12 PM,9:40,,,Trail Blazers Rebound,,
+0020000812,115,6,3,2,1:12 PM,9:40,Cato L.B.FOUL (P1.T1),,,,
+0020000812,116,8,0,2,1:13 PM,9:40,SUB: Williams FOR Anderson,,,,
+0020000812,117,8,0,2,1:13 PM,9:40,,,SUB: Schrempf FOR Wallace,,
+0020000812,118,1,1,2,1:13 PM,9:27,,,Augmon 20' Jump Shot (2 PTS) (Smith 1 AST),26 - 33,7
+0020000812,119,1,46,2,1:13 PM,9:05,Williams 9' Running Jump Shot (2 PTS),,,26 - 35,9
+0020000812,120,2,5,2,1:14 PM,8:45,,,MISS Augmon  Layup,,
+0020000812,121,4,0,2,1:14 PM,8:43,Thomas REBOUND (Off:0 Def:1),,,,
+0020000812,122,2,5,2,1:14 PM,8:37,MISS Mobley  Layup,,,,
+0020000812,123,4,0,2,1:14 PM,8:34,Mobley REBOUND (Off:2 Def:1),,,,
+0020000812,124,2,1,2,1:14 PM,8:24,MISS Mobley 14' Jump Shot,,,,
+0020000812,125,4,0,2,1:14 PM,8:22,,,Schrempf REBOUND (Off:0 Def:1),,
+0020000812,126,2,1,2,1:14 PM,8:04,,,MISS Smith 24' 3PT Jump Shot,,
+0020000812,127,4,0,2,1:14 PM,8:03,Cato REBOUND (Off:0 Def:1),,,,
+0020000812,128,1,5,2,1:15 PM,7:49,Thomas  Layup (4 PTS) (Mobley 1 AST),,,26 - 37,11
+0020000812,129,2,3,2,1:15 PM,7:29,,,MISS Sabonis 11' Hook Shot,,
+0020000812,130,4,0,2,1:15 PM,7:28,Francis REBOUND (Off:0 Def:3),,,,
+0020000812,131,6,2,2,1:15 PM,7:13,,,Schrempf S.FOUL (P1.T1),,
+0020000812,132,9,4,2,1:15 PM,7:13,,,,,
+0020000812,134,8,0,2,1:18 PM,7:13,,,SUB: Wallace FOR Sabonis,,
+0020000812,135,8,0,2,1:18 PM,7:13,,,SUB: Stoudamire FOR Augmon,,
+0020000812,136,3,11,2,1:18 PM,7:13,Thomas Free Throw 1 of 2 (5 PTS),,,26 - 38,12
+0020000812,137,8,0,2,1:19 PM,7:13,SUB: Norris FOR Francis,,,,
+0020000812,138,3,12,2,1:19 PM,7:13,MISS Thomas Free Throw 2 of 2,,,,
+0020000812,139,4,0,2,1:19 PM,7:13,,,Schrempf REBOUND (Off:0 Def:2),,
+0020000812,140,1,1,2,1:19 PM,7:01,,,Pippen 22' Jump Shot (8 PTS) (Smith 2 AST),28 - 38,10
+0020000812,141,1,1,2,1:19 PM,6:47,Williams 20' Jump Shot (4 PTS) (Mobley 2 AST),,,28 - 40,12
+0020000812,142,1,5,2,1:20 PM,6:31,,,Pippen  Layup (10 PTS) (Smith 3 AST),30 - 40,10
+0020000812,143,6,11,2,1:20 PM,6:29,,,Pippen T.FOUL (P0.T1),,
+0020000812,144,3,16,2,1:20 PM,6:29,MISS Mobley Free Throw Technical,,,,
+0020000812,145,4,1,2,1:20 PM,6:29,ROCKETS Rebound,,,,
+0020000812,146,6,2,2,1:21 PM,6:17,,,Smith S.FOUL (P1.T2),,
+0020000812,147,3,11,2,1:21 PM,6:17,MISS Williams Free Throw 1 of 2,,,,
+0020000812,148,4,1,2,1:21 PM,6:17,ROCKETS Rebound,,,,
+0020000812,149,3,12,2,1:21 PM,6:17,Williams Free Throw 2 of 2 (5 PTS),,,30 - 41,11
+0020000812,151,2,1,2,1:21 PM,6:06,,,MISS Wallace 14' Jump Shot,,
+0020000812,152,4,0,2,1:21 PM,6:05,Thomas REBOUND (Off:0 Def:2),,,,
+0020000812,153,2,5,2,1:21 PM,5:58,MISS Cato  Layup,,,,
+0020000812,154,4,0,2,1:22 PM,5:57,Cato REBOUND (Off:1 Def:1),,,,
+0020000812,155,5,1,2,1:22 PM,5:55,Cato Bad Pass Turnover (P1.T5),,Stoudamire STEAL (2 STL),,
+0020000812,156,2,1,2,1:22 PM,5:49,,,MISS Pippen 25' 3PT Jump Shot,,
+0020000812,157,4,0,2,1:22 PM,5:47,Mobley REBOUND (Off:2 Def:2),,,,
+0020000812,158,6,4,2,1:22 PM,5:38,Mobley OFF.Foul (P1),,,,
+0020000812,159,5,5,2,1:22 PM,5:38,Mobley Foul Turnover (P2.T6),,,,
+0020000812,160,9,1,2,1:22 PM,5:38,ROCKETS Timeout: Regular (Full 2 Short 0),,,,
+0020000812,162,8,0,2,1:24 PM,5:38,SUB: Olajuwon FOR Cato,,,,
+0020000812,163,8,0,2,1:24 PM,5:38,,,SUB: Wells FOR Pippen,,
+0020000812,164,8,0,2,1:24 PM,5:38,,,SUB: Davis FOR Schrempf,,
+0020000812,165,1,1,2,1:24 PM,5:25,,,Wallace 16' Jump Shot (5 PTS) (Davis 1 AST),32 - 41,9
+0020000812,166,1,1,2,1:25 PM,5:05,Williams 25' 3PT Jump Shot (8 PTS) (Norris 1 AST),,,32 - 44,12
+0020000812,167,6,1,2,1:25 PM,4:50,Williams P.FOUL (P1.T2),,,,
+0020000812,168,8,0,2,1:25 PM,4:50,SUB: Francis FOR Mobley,,,,
+0020000812,169,8,0,2,1:25 PM,4:50,SUB: Taylor FOR Thomas,,,,
+0020000812,170,7,2,2,1:26 PM,4:45,ROCKETS Violation: Def. Goaltending Violation,,,,
+0020000812,171,1,3,2,1:26 PM,4:34,,,Wallace 11' Hook Shot (7 PTS),34 - 44,10
+0020000812,172,1,46,2,1:26 PM,4:17,Taylor 5' Running Jump Shot (6 PTS),,,34 - 46,12
+0020000812,173,1,44,2,1:26 PM,4:06,,,Wells  Reverse Layup (4 PTS) (Stoudamire 2 AST),36 - 46,10
+0020000812,174,2,1,2,1:27 PM,3:41,MISS Francis 6' Jump Shot,,,,
+0020000812,176,4,0,2,1:27 PM,3:37,Francis REBOUND (Off:1 Def:3),,,,
+0020000812,175,1,4,2,1:27 PM,3:37,Francis  Tip Shot (8 PTS),,,36 - 48,12
+0020000812,178,2,1,2,1:27 PM,3:23,,,MISS Wallace 25' 3PT Jump Shot,,
+0020000812,179,4,0,2,1:27 PM,3:21,Williams REBOUND (Off:0 Def:1),,,,
+0020000812,180,5,4,2,1:28 PM,3:10,Taylor Traveling Turnover (P2.T7),,,,
+0020000812,181,1,1,2,1:28 PM,2:54,,,Stoudamire 6' Jump Shot (9 PTS),38 - 48,10
+0020000812,182,2,1,2,1:28 PM,2:28,MISS Francis 16' Jump Shot,,,,
+0020000812,183,4,0,2,1:29 PM,2:27,ROCKETS Rebound,,,,
+0020000812,184,5,11,2,1:29 PM,2:27,ROCKETS Turnover: Shot Clock (T#8),,,,
+0020000812,185,9,1,2,1:29 PM,2:27,,,Trail Blazers Timeout: Regular (Reg.2 Short 0),,
+0020000812,187,1,1,2,1:31 PM,2:08,,,Stoudamire 25' 3PT Jump Shot (12 PTS) (Smith 4 AST),41 - 48,7
+0020000812,188,1,52,2,1:31 PM,1:56,Olajuwon  Alley Oop Dunk (7 PTS) (Williams 1 AST),,,41 - 50,9
+0020000812,189,6,2,2,1:32 PM,1:46,Francis S.FOUL (P1.T3),,,,
+0020000812,190,3,11,2,1:32 PM,1:46,,,MISS Wells Free Throw 1 of 2,,
+0020000812,191,4,1,2,1:32 PM,1:46,,,Trail Blazers Rebound,,
+0020000812,192,8,0,2,1:32 PM,1:46,SUB: Thomas FOR Taylor,,,,
+0020000812,193,3,12,2,1:32 PM,1:46,,,Wells Free Throw 2 of 2 (5 PTS),42 - 50,8
+0020000812,194,2,5,2,1:33 PM,1:30,MISS Francis  Layup,,Wallace BLOCK (1 BLK),,
+0020000812,195,4,0,2,1:33 PM,1:30,,,Trail Blazers Rebound,,
+0020000812,196,10,0,2,1:33 PM,1:30,Jump Ball Francis vs. Wallace: Tip to Davis,,,,
+0020000812,197,1,52,2,1:34 PM,1:14,,,Wells  Alley Oop Dunk (7 PTS) (Davis 2 AST),44 - 50,6
+0020000812,198,7,2,2,1:34 PM,1:03,,,Trail Blazers Violation: Def. Goaltending Violation,,
+0020000812,199,1,5,2,1:35 PM,0:54,Olajuwon  Layup (9 PTS) (Williams 2 AST),,,44 - 52,8
+0020000812,200,1,1,2,1:35 PM,0:40,,,Smith 8' Jump Shot (2 PTS) (Stoudamire 3 AST),46 - 52,6
+0020000812,202,5,1,2,1:36 PM,0:27,Thomas Bad Pass Turnover (P2.T9),,,,
+0020000812,203,1,1,2,1:36 PM,0:13,,,Smith 6' Jump Shot (4 PTS),48 - 52,4
+0020000812,204,1,1,2,1:37 PM,0:03,Williams  3PT Jump Shot (11 PTS) (Francis 7 AST),,,48 - 55,7
+0020000812,205,13,0,2,1:37 PM,0:00,,,,48 - 55,7
+0020000812,207,12,0,3,1:54 PM,12:00,,,,48 - 55,7
+0020000812,208,2,1,3,1:54 PM,11:43,,,MISS Wallace 14' Jump Shot,,
+0020000812,209,4,0,3,1:54 PM,11:42,Anderson REBOUND (Off:0 Def:2),,,,
+0020000812,210,2,1,3,1:54 PM,11:29,MISS Taylor 18' Jump Shot,,,,
+0020000812,211,4,0,3,1:54 PM,11:27,,,Davis REBOUND (Off:0 Def:2),,
+0020000812,212,2,1,3,1:55 PM,11:13,,,MISS Wells 18' Jump Shot,,
+0020000812,213,4,0,3,1:55 PM,11:11,Olajuwon REBOUND (Off:0 Def:4),,,,
+0020000812,214,2,1,3,1:55 PM,11:03,MISS Anderson 24' 3PT Jump Shot,,,,
+0020000812,215,4,0,3,1:55 PM,11:02,,,Davis REBOUND (Off:0 Def:3),,
+0020000812,216,2,5,3,1:55 PM,10:56,Olajuwon BLOCK (2 BLK),,MISS Wells  Layup,,
+0020000812,217,4,0,3,1:55 PM,10:53,,,Davis REBOUND (Off:1 Def:3),,
+0020000812,218,5,1,3,1:55 PM,10:45,,,Wells Bad Pass Turnover (P1.T5),,
+0020000812,219,2,1,3,1:56 PM,10:31,MISS Olajuwon 11' Jump Shot,,,,
+0020000812,220,4,0,3,1:56 PM,10:29,,,Wallace REBOUND (Off:1 Def:3),,
+0020000812,221,1,1,3,1:56 PM,10:18,,,Wallace 21' Jump Shot (9 PTS) (Pippen 2 AST),50 - 55,5
+0020000812,222,6,4,3,1:56 PM,10:00,Mobley OFF.Foul (P2),,,,
+0020000812,223,5,5,3,1:56 PM,10:00,Mobley Foul Turnover (P3.T10),,,,
+0020000812,224,7,1,3,1:56 PM,10:00,ROCKETS Violation: Delay of game Violation,,,,
+0020000812,225,2,1,3,1:57 PM,9:46,,,MISS Davis 16' Jump Shot,,
+0020000812,226,4,0,3,1:57 PM,9:44,Anderson REBOUND (Off:0 Def:3),,,,
+0020000812,227,2,1,3,1:57 PM,9:38,MISS Francis 25' 3PT Jump Shot,,,,
+0020000812,228,4,0,3,1:57 PM,9:36,,,Davis REBOUND (Off:1 Def:4),,
+0020000812,229,1,52,3,1:57 PM,9:30,,,Wells  Alley Oop Dunk (9 PTS) (Pippen 3 AST),52 - 55,3
+0020000812,230,1,1,3,1:57 PM,9:10,Taylor 16' Jump Shot (8 PTS),,,52 - 57,5
+0020000812,231,1,1,3,1:58 PM,8:51,,,Wells 4' Jump Shot (11 PTS) (Stoudamire 4 AST),54 - 57,3
+0020000812,232,6,2,3,1:58 PM,8:38,,,Davis S.FOUL (P3.T1),,
+0020000812,233,3,11,3,1:58 PM,8:38,Mobley Free Throw 1 of 2 (8 PTS),,,54 - 58,4
+0020000812,234,3,12,3,1:58 PM,8:38,Mobley Free Throw 2 of 2 (9 PTS),,,54 - 59,5
+0020000812,235,2,1,3,1:59 PM,8:24,,,MISS Stoudamire 25' 3PT Jump Shot,,
+0020000812,236,4,0,3,1:59 PM,8:22,,,Davis REBOUND (Off:2 Def:4),,
+0020000812,237,1,1,3,1:59 PM,8:20,,,Stoudamire  3PT Jump Shot (15 PTS) (Davis 3 AST),57 - 59,2
+0020000812,238,5,1,3,1:59 PM,7:59,Anderson Bad Pass Turnover (P1.T11),,Wells STEAL (2 STL),,
+0020000812,239,1,1,3,1:59 PM,7:50,,,Stoudamire  3PT Jump Shot (18 PTS) (Davis 4 AST),60 - 59,-1
+0020000812,240,9,1,3,1:59 PM,7:48,ROCKETS Timeout: Regular (Full 3 Short 0),,,,
+0020000812,242,5,1,3,2:02 PM,7:34,Anderson Bad Pass Turnover (P2.T12),,,,
+0020000812,243,2,47,3,2:02 PM,7:23,,,MISS Wallace 16' Turnaround Jump Shot,,
+0020000812,244,4,0,3,2:02 PM,7:22,ROCKETS Rebound,,,,
+0020000812,245,1,42,3,2:03 PM,7:07,Francis  Driving Layup (10 PTS),,,60 - 61,1
+0020000812,246,2,1,3,2:03 PM,6:59,,,MISS Stoudamire 26' 3PT Jump Shot,,
+0020000812,247,4,0,3,2:03 PM,6:56,Olajuwon REBOUND (Off:0 Def:5),,,,
+0020000812,248,1,5,3,2:03 PM,6:41,Olajuwon  Layup (11 PTS) (Francis 8 AST),,,60 - 63,3
+0020000812,249,5,8,3,2:04 PM,6:16,,,Wallace 3 Second Violation Turnover (P1.T6),,
+0020000812,250,2,1,3,2:04 PM,6:01,MISS Taylor 22' Jump Shot,,,,
+0020000812,251,4,0,3,2:04 PM,5:59,Taylor REBOUND (Off:2 Def:1),,,,
+0020000812,252,2,5,3,2:04 PM,5:47,MISS Anderson  Layup,,,,
+0020000812,253,4,0,3,2:04 PM,5:46,Anderson REBOUND (Off:1 Def:3),,,,
+0020000812,254,1,5,3,2:04 PM,5:44,Anderson  Layup (11 PTS),,,60 - 65,5
+0020000812,255,1,7,3,2:05 PM,5:24,,,Wallace  Dunk (11 PTS) (Stoudamire 5 AST),62 - 65,3
+0020000812,256,2,1,3,2:05 PM,5:01,MISS Francis 25' 3PT Jump Shot,,,,
+0020000812,257,4,0,3,2:05 PM,5:00,,,Davis REBOUND (Off:2 Def:5),,
+0020000812,258,6,2,3,2:05 PM,4:50,Olajuwon S.FOUL (P2.T1),,,,
+0020000812,259,3,11,3,2:06 PM,4:50,,,MISS Davis Free Throw 1 of 2,,
+0020000812,295,4,0,3,2:06 PM,4:50,,,Trail Blazers Rebound,,
+0020000812,260,3,12,3,2:06 PM,4:50,,,Davis Free Throw 2 of 2 (1 PTS),63 - 65,2
+0020000812,261,6,1,3,2:06 PM,4:39,,,Stoudamire P.FOUL (P1.T2),,
+0020000812,262,2,1,3,2:07 PM,4:31,MISS Taylor 15' Jump Shot,,,,
+0020000812,263,4,0,3,2:07 PM,4:30,,,Wallace REBOUND (Off:1 Def:4),,
+0020000812,264,6,2,3,2:07 PM,4:15,Francis S.FOUL (P2.T2),,,,
+0020000812,265,3,11,3,2:07 PM,4:15,,,Wells Free Throw 1 of 2 (12 PTS),64 - 65,1
+0020000812,266,3,12,3,2:08 PM,4:15,,,Wells Free Throw 2 of 2 (13 PTS),65 - 65,TIE
+0020000812,267,1,1,3,2:08 PM,4:03,Mobley 14' Jump Shot (11 PTS),,,65 - 67,2
+0020000812,268,2,5,3,2:08 PM,3:54,,,MISS Davis  Layup,,
+0020000812,269,4,0,3,2:08 PM,3:53,,,Davis REBOUND (Off:3 Def:5),,
+0020000812,270,5,2,3,2:08 PM,3:51,Olajuwon STEAL (1 STL),,Davis Lost Ball Turnover (P1.T7),,
+0020000812,271,1,49,3,2:08 PM,3:47,Anderson  Driving Dunk (13 PTS),,,65 - 69,4
+0020000812,272,2,1,3,2:09 PM,3:31,,,MISS Stoudamire 22' Jump Shot,,
+0020000812,273,4,0,3,2:09 PM,3:28,,,Wallace REBOUND (Off:2 Def:4),,
+0020000812,274,2,5,3,2:09 PM,3:27,,,MISS Wallace  Layup,,
+0020000812,275,4,0,3,2:09 PM,3:26,,,Davis REBOUND (Off:4 Def:5),,
+0020000812,276,2,5,3,2:09 PM,3:24,,,MISS Davis  Layup,,
+0020000812,277,4,0,3,2:09 PM,3:23,,,Trail Blazers Rebound,,
+0020000812,278,8,0,3,2:09 PM,3:23,,,SUB: Smith FOR Wells,,
+0020000812,279,1,1,3,2:09 PM,3:21,,,Wallace 22' Jump Shot (13 PTS) (Pippen 4 AST),67 - 69,2
+0020000812,280,2,1,3,2:10 PM,2:57,MISS Taylor 12' Jump Shot,,,,
+0020000812,281,4,0,3,2:10 PM,2:55,,,Smith REBOUND (Off:0 Def:1),,
+0020000812,282,2,5,3,2:10 PM,2:36,Francis BLOCK (2 BLK),,MISS Stoudamire  Layup,,
+0020000812,283,4,0,3,2:10 PM,2:34,Olajuwon REBOUND (Off:0 Def:6),,,,
+0020000812,284,2,5,3,2:10 PM,2:33,MISS Anderson  Layup,,,,
+0020000812,285,4,0,3,2:10 PM,2:31,,,Pippen REBOUND (Off:1 Def:2),,
+0020000812,286,2,1,3,2:10 PM,2:25,,,MISS Pippen 25' 3PT Jump Shot,,
+0020000812,287,4,0,3,2:10 PM,2:23,,,Stoudamire REBOUND (Off:1 Def:2),,
+0020000812,288,2,1,3,2:10 PM,2:17,,,MISS Pippen 25' 3PT Jump Shot,,
+0020000812,289,4,0,3,2:10 PM,2:14,Olajuwon REBOUND (Off:0 Def:7),,,,
+0020000812,290,2,1,3,2:11 PM,1:57,MISS Mobley  3PT Jump Shot,,,,
+0020000812,291,4,0,3,2:11 PM,1:55,Francis REBOUND (Off:2 Def:3),,,,
+0020000812,292,6,2,3,2:11 PM,1:52,,,Pippen S.FOUL (P1.T3),,
+0020000812,293,9,1,3,2:11 PM,1:52,,,Trail Blazers Timeout: Regular (Reg.3 Short 0),,
+0020000812,296,8,0,3,2:13 PM,1:52,,,SUB: Wells FOR Pippen,,
+0020000812,297,3,11,3,2:13 PM,1:52,Olajuwon Free Throw 1 of 2 (12 PTS),,,67 - 70,3
+0020000812,298,3,12,3,2:14 PM,1:52,Olajuwon Free Throw 2 of 2 (13 PTS),,,67 - 71,4
+0020000812,299,2,1,3,2:14 PM,1:36,,,MISS Wallace 17' Jump Shot,,
+0020000812,300,4,0,3,2:14 PM,1:34,Olajuwon REBOUND (Off:0 Def:8),,,,
+0020000812,301,6,2,3,2:15 PM,1:18,,,Stoudamire S.FOUL (P2.PN),,
+0020000812,302,3,11,3,2:15 PM,1:18,Anderson Free Throw 1 of 2 (14 PTS),,,67 - 72,5
+0020000812,303,3,12,3,2:15 PM,1:18,Anderson Free Throw 2 of 2 (15 PTS),,,67 - 73,6
+0020000812,304,6,4,3,2:16 PM,1:03,,,Davis OFF.Foul (P4),,
+0020000812,305,5,5,3,2:16 PM,1:03,,,Davis Foul Turnover (P2.T8),,
+0020000812,306,8,0,3,2:16 PM,1:03,,,SUB: Sabonis FOR Davis,,
+0020000812,307,6,4,3,2:16 PM,0:56,Taylor OFF.Foul (P3),,,,
+0020000812,308,5,5,3,2:16 PM,0:56,Taylor Foul Turnover (P3.T13),,,,
+0020000812,309,1,1,3,2:16 PM,0:46,,,Wallace 18' Jump Shot (15 PTS) (Stoudamire 6 AST),69 - 73,4
+0020000812,310,2,1,3,2:17 PM,0:36,MISS Francis 21' Jump Shot,,,,
+0020000812,311,4,0,3,2:17 PM,0:35,,,Stoudamire REBOUND (Off:1 Def:3),,
+0020000812,312,2,1,3,2:17 PM,0:20,,,MISS Wells 15' Jump Shot,,
+0020000812,313,4,0,3,2:17 PM,0:17,Olajuwon REBOUND (Off:0 Def:9),,,,
+0020000812,314,1,42,3,2:17 PM,0:03,Mobley  Driving Layup (13 PTS),,,69 - 75,6
+0020000812,315,2,1,3,2:17 PM,0:00,,,MISS Stoudamire 14' Jump Shot,,
+0020000812,316,4,0,3,2:17 PM,0:00,,,Trail Blazers Rebound,,
+0020000812,317,13,0,3,2:17 PM,0:00,,,,69 - 75,6
+0020000812,319,12,0,4,2:20 PM,12:00,,,,69 - 75,6
+0020000812,320,6,4,4,2:20 PM,11:45,Anderson OFF.Foul (P2),,,,
+0020000812,321,5,5,4,2:20 PM,11:45,Anderson Foul Turnover (P3.T14),,,,
+0020000812,322,1,1,4,2:21 PM,11:29,,,Wallace 25' 3PT Jump Shot (18 PTS) (Wells 1 AST),72 - 75,3
+0020000812,323,2,1,4,2:21 PM,11:11,MISS Cato 12' Jump Shot,,,,
+0020000812,324,4,0,4,2:21 PM,11:09,,,Sabonis REBOUND (Off:0 Def:2),,
+0020000812,325,5,4,4,2:21 PM,11:06,,,Wells Traveling Turnover (P2.T9),,
+0020000812,326,6,1,4,2:22 PM,10:58,,,Smith P.FOUL (P2.T1),,
+0020000812,327,6,17,4,2:22 PM,10:52,,,Trail Blazers Foul,,
+0020000812,328,3,16,4,2:22 PM,10:52,Francis Free Throw Technical (11 PTS),,,72 - 76,4
+0020000812,329,2,1,4,2:23 PM,10:45,MISS Taylor 20' Jump Shot,,,,
+0020000812,330,4,0,4,2:23 PM,10:43,,,Pippen REBOUND (Off:1 Def:3),,
+0020000812,331,2,1,4,2:23 PM,10:28,,,MISS Smith 12' Jump Shot,,
+0020000812,332,4,0,4,2:23 PM,10:26,Taylor REBOUND (Off:2 Def:2),,,,
+0020000812,333,1,47,4,2:23 PM,10:16,Cato 8' Turnaround Jump Shot (2 PTS) (Taylor 1 AST),,,72 - 78,6
+0020000812,334,6,1,4,2:24 PM,10:06,Francis P.FOUL (P3.T1),,,,
+0020000812,335,8,0,4,2:24 PM,10:06,SUB: Thomas FOR Taylor,,,,
+0020000812,336,2,1,4,2:24 PM,9:57,,,MISS Wallace 26' 3PT Jump Shot,,
+0020000812,337,4,0,4,2:24 PM,9:55,Mobley REBOUND (Off:2 Def:3),,,,
+0020000812,338,2,5,4,2:25 PM,9:41,MISS Francis  Layup,,Sabonis BLOCK (1 BLK),,
+0020000812,339,4,0,4,2:25 PM,9:40,,,Trail Blazers Rebound,,
+0020000812,340,10,0,4,2:25 PM,9:40,Jump Ball Francis vs. Sabonis: Tip to Smith,,,,
+0020000812,341,6,1,4,2:25 PM,9:33,Francis P.FOUL (P4.T2),,,,
+0020000812,342,1,1,4,2:25 PM,9:22,,,Sabonis 22' Jump Shot (8 PTS) (Wallace 4 AST),74 - 78,4
+0020000812,343,2,1,4,2:26 PM,9:03,MISS Thomas 22' Jump Shot,,,,
+0020000812,344,4,0,4,2:26 PM,9:00,,,Pippen REBOUND (Off:1 Def:4),,
+0020000812,345,5,4,4,2:26 PM,8:51,,,Pippen Traveling Turnover (P3.T10),,
+0020000812,346,9,4,4,2:26 PM,8:51,,,,,
+0020000812,347,8,0,4,2:28 PM,8:51,SUB: Williams FOR Anderson,,,,
+0020000812,348,2,1,4,2:29 PM,8:41,MISS Mobley 16' Jump Shot,,,,
+0020000812,349,4,0,4,2:29 PM,8:39,Cato REBOUND (Off:2 Def:1),,,,
+0020000812,350,5,2,4,2:29 PM,8:31,Francis Lost Ball Turnover (P2.T15),,Pippen STEAL (1 STL),,
+0020000812,351,2,1,4,2:29 PM,8:15,,,MISS Wells 6' Jump Shot,,
+0020000812,352,4,0,4,2:29 PM,8:14,,,Wells REBOUND (Off:1 Def:0),,
+0020000812,353,6,2,4,2:29 PM,8:13,Cato S.FOUL (P2.T3),,,,
+0020000812,354,3,11,4,2:29 PM,8:13,,,Wells Free Throw 1 of 2 (14 PTS),75 - 78,3
+0020000812,355,3,12,4,2:30 PM,8:13,,,Wells Free Throw 2 of 2 (15 PTS),76 - 78,2
+0020000812,356,2,1,4,2:30 PM,7:59,MISS Williams 24' 3PT Jump Shot,,,,
+0020000812,357,4,0,4,2:30 PM,7:57,,,Wells REBOUND (Off:1 Def:1),,
+0020000812,358,6,4,4,2:31 PM,7:46,,,Pippen OFF.Foul (P2),,
+0020000812,359,5,5,4,2:31 PM,7:46,,,Pippen Foul Turnover (P4.T11),,
+0020000812,360,8,0,4,2:31 PM,7:46,,,SUB: Stoudamire FOR Wells,,
+0020000812,361,5,1,4,2:31 PM,7:32,Thomas Bad Pass Turnover (P3.T16),,,,
+0020000812,362,6,3,4,2:31 PM,7:32,Francis L.B.FOUL (P5.T4),,,,
+0020000812,363,8,0,4,2:31 PM,7:32,SUB: Norris FOR Francis,,,,
+0020000812,364,6,2,4,2:32 PM,7:22,Cato S.FOUL (P3.PN),,,,
+0020000812,365,8,0,4,2:32 PM,7:22,SUB: Olajuwon FOR Cato,,,,
+0020000812,366,3,11,4,2:32 PM,7:22,,,Sabonis Free Throw 1 of 2 (9 PTS),77 - 78,1
+0020000812,367,3,12,4,2:32 PM,7:22,,,MISS Sabonis Free Throw 2 of 2,,
+0020000812,368,4,0,4,2:33 PM,7:22,Olajuwon REBOUND (Off:0 Def:10),,,,
+0020000812,369,2,1,4,2:33 PM,6:59,MISS Thomas 16' Jump Shot,,,,
+0020000812,370,4,0,4,2:33 PM,6:57,,,Stoudamire REBOUND (Off:1 Def:4),,
+0020000812,371,2,1,4,2:33 PM,6:51,,,MISS Smith 25' 3PT Jump Shot,,
+0020000812,372,4,0,4,2:33 PM,6:50,Williams REBOUND (Off:0 Def:2),,,,
+0020000812,373,6,2,4,2:34 PM,6:33,,,Sabonis S.FOUL (P2.T2),,
+0020000812,374,3,11,4,2:34 PM,6:33,Thomas Free Throw 1 of 2 (6 PTS),,,77 - 79,2
+0020000812,375,3,12,4,2:34 PM,6:33,MISS Thomas Free Throw 2 of 2,,,,
+0020000812,376,4,0,4,2:34 PM,6:32,,,Trail Blazers Rebound,,
+0020000812,377,6,3,4,2:35 PM,6:32,Olajuwon L.B.FOUL (P3.PN),,,,
+0020000812,378,3,11,4,2:35 PM,6:32,,,Wallace Free Throw 1 of 2 (19 PTS),78 - 79,1
+0020000812,379,3,12,4,2:35 PM,6:32,,,Wallace Free Throw 2 of 2 (20 PTS),79 - 79,TIE
+0020000812,380,5,2,4,2:36 PM,6:22,Mobley Lost Ball Turnover (P4.T17),,Sabonis STEAL (1 STL),,
+0020000812,381,8,0,4,2:36 PM,6:09,SUB: Taylor FOR Thomas,,,,
+0020000812,382,1,1,4,2:36 PM,6:07,,,Smith 15' Jump Shot (6 PTS) (Pippen 5 AST),81 - 79,-2
+0020000812,383,2,1,4,2:36 PM,5:51,MISS Taylor 18' Jump Shot,,,,
+0020000812,384,4,0,4,2:36 PM,5:48,,,Stoudamire REBOUND (Off:1 Def:5),,
+0020000812,385,1,1,4,2:37 PM,5:31,,,Wallace 25' 3PT Jump Shot (23 PTS) (Pippen 6 AST),84 - 79,-5
+0020000812,386,9,1,4,2:37 PM,5:29,ROCKETS Timeout: Regular (Full 4 Short 0),,,,
+0020000812,388,1,5,4,2:40 PM,5:11,Taylor  Layup (10 PTS) (Norris 2 AST),,,84 - 81,-3
+0020000812,389,6,2,4,2:40 PM,4:52,Williams S.FOUL (P2.PN),,,,
+0020000812,390,3,11,4,2:40 PM,4:52,,,Sabonis Free Throw 1 of 2 (10 PTS),85 - 81,-4
+0020000812,391,3,12,4,2:41 PM,4:52,,,Sabonis Free Throw 2 of 2 (11 PTS),86 - 81,-5
+0020000812,392,2,1,4,2:41 PM,4:34,MISS Taylor 23' Jump Shot,,,,
+0020000812,393,4,0,4,2:41 PM,4:32,,,Stoudamire REBOUND (Off:1 Def:6),,
+0020000812,394,5,2,4,2:41 PM,4:30,Norris STEAL (1 STL),,Stoudamire Lost Ball Turnover (P1.T12),,
+0020000812,395,2,5,4,2:41 PM,4:22,MISS Norris  Layup,,Pippen BLOCK (1 BLK),,
+0020000812,396,4,0,4,2:41 PM,4:21,,,Sabonis REBOUND (Off:0 Def:3),,
+0020000812,397,5,4,4,2:42 PM,4:10,,,Pippen Traveling Turnover (P5.T13),,
+0020000812,398,1,42,4,2:42 PM,3:59,Olajuwon  Driving Layup (15 PTS),,,86 - 83,-3
+0020000812,400,5,2,4,2:42 PM,3:46,,,Stoudamire Lost Ball Turnover (P2.T14),,
+0020000812,401,8,0,4,2:42 PM,3:46,SUB: Francis FOR Norris,,,,
+0020000812,402,2,1,4,2:43 PM,3:37,MISS Olajuwon 16' Jump Shot,,,,
+0020000812,403,4,0,4,2:43 PM,3:34,,,Sabonis REBOUND (Off:0 Def:4),,
+0020000812,404,1,1,4,2:43 PM,3:30,,,Wallace 11' Jump Shot (25 PTS) (Stoudamire 7 AST),88 - 83,-5
+0020000812,405,6,2,4,2:43 PM,3:12,,,Pippen S.FOUL (P3.T3),,
+0020000812,406,3,11,4,2:44 PM,3:12,MISS Taylor Free Throw 1 of 2,,,,
+0020000812,407,4,1,4,2:44 PM,3:12,ROCKETS Rebound,,,,
+0020000812,408,3,12,4,2:44 PM,3:12,MISS Taylor Free Throw 2 of 2,,,,
+0020000812,409,4,0,4,2:44 PM,3:12,,,Stoudamire REBOUND (Off:1 Def:7),,
+0020000812,410,2,1,4,2:44 PM,2:57,,,MISS Wallace 25' 3PT Jump Shot,,
+0020000812,411,4,0,4,2:44 PM,2:55,Olajuwon REBOUND (Off:0 Def:11),,,,
+0020000812,412,2,5,4,2:44 PM,2:48,MISS Francis  Layup,,Sabonis BLOCK (2 BLK),,
+0020000812,413,4,0,4,2:45 PM,2:47,,,Trail Blazers Rebound,,
+0020000812,414,9,1,4,2:45 PM,2:47,,,Trail Blazers Timeout: Regular (Reg.4 Short 0),,
+0020000812,416,1,1,4,2:47 PM,2:31,,,Wallace 18' Jump Shot (27 PTS) (Smith 5 AST),90 - 83,-7
+0020000812,417,6,1,4,2:47 PM,2:18,,,Stoudamire P.FOUL (P3.T4),,
+0020000812,418,6,1,4,2:48 PM,2:15,,,Stoudamire P.FOUL (P4.PN),,
+0020000812,419,3,11,4,2:48 PM,2:15,Francis Free Throw 1 of 2 (12 PTS),,,90 - 84,-6
+0020000812,420,3,12,4,2:48 PM,2:15,MISS Francis Free Throw 2 of 2,,,,
+0020000812,421,4,0,4,2:48 PM,2:15,,,Stoudamire REBOUND (Off:1 Def:8),,
+0020000812,422,2,1,4,2:49 PM,1:54,,,MISS Wallace 25' 3PT Jump Shot,,
+0020000812,423,4,0,4,2:49 PM,1:52,Francis REBOUND (Off:2 Def:4),,,,
+0020000812,424,1,7,4,2:49 PM,1:47,Taylor  Dunk (12 PTS) (Francis 9 AST),,,90 - 86,-4
+0020000812,425,1,1,4,2:49 PM,1:28,,,Smith  3PT Jump Shot (9 PTS) (Sabonis 2 AST),93 - 86,-7
+0020000812,426,7,6,4,2:49 PM,1:19,,,Sabonis Violation:Double Lane,,
+0020000812,427,9,1,4,2:49 PM,1:19,ROCKETS Timeout: Regular (Full 5 Short 0),,,,
+0020000812,429,6,1,4,2:52 PM,1:14,,,Wallace P.FOUL (P2.PN),,
+0020000812,430,3,11,4,2:52 PM,1:14,Olajuwon Free Throw 1 of 2 (16 PTS),,,93 - 87,-6
+0020000812,431,3,12,4,2:53 PM,1:14,MISS Olajuwon Free Throw 2 of 2,,,,
+0020000812,432,4,0,4,2:53 PM,1:14,,,Pippen REBOUND (Off:1 Def:5),,
+0020000812,433,5,1,4,2:53 PM,0:51,Mobley STEAL (1 STL),,Smith Bad Pass Turnover (P1.T15),,
+0020000812,434,1,46,4,2:53 PM,0:46,Francis 6' Running Jump Shot (14 PTS),,,93 - 89,-4
+0020000812,435,6,2,4,2:54 PM,0:24,Mobley S.FOUL (P3.PN),,,,
+0020000812,436,3,11,4,2:54 PM,0:24,,,Smith Free Throw 1 of 2 (10 PTS),94 - 89,-5
+0020000812,437,8,0,4,2:54 PM,0:24,,,SUB: Davis FOR Sabonis,,
+0020000812,438,3,12,4,2:54 PM,0:24,,,Smith Free Throw 2 of 2 (11 PTS),95 - 89,-6
+0020000812,439,9,1,4,2:55 PM,0:24,ROCKETS Timeout: Regular (Full 6 Short 0),,,,
+0020000812,441,2,1,4,2:57 PM,0:16,MISS Taylor 26' 3PT Jump Shot,,,,
+0020000812,442,4,0,4,2:57 PM,0:15,,,Pippen REBOUND (Off:1 Def:6),,
+0020000812,443,13,0,4,2:57 PM,0:00,,,,95 - 89,-6

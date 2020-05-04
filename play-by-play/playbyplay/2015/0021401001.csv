@@ -1,0 +1,521 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021401001,0,12,0,1,7:41 PM,12:00,,,,,
+0021401001,1,10,0,1,7:41 PM,12:00,Jump Ball Amundson vs. Duncan: Tip to Thomas,,,,
+0021401001,2,2,63,1,7:42 PM,11:45,MISS Bargnani 12' Fadeaway Jumper,,,,
+0021401001,3,4,0,1,7:42 PM,11:44,,,Green REBOUND (Off:0 Def:1),,
+0021401001,4,1,88,1,7:42 PM,11:29,,,Duncan  Driving Slam Dunk (2 PTS) (Splitter 1 AST),2 - 0,-2
+0021401001,5,2,1,1,7:42 PM,11:05,MISS Thomas 17' Jump Shot,,,,
+0021401001,6,4,0,1,7:42 PM,11:04,,,Duncan REBOUND (Off:0 Def:1),,
+0021401001,7,1,71,1,7:43 PM,10:49,,,Parker 3' Finger Roll Layup (2 PTS),4 - 0,-4
+0021401001,8,2,42,1,7:43 PM,10:39,MISS Thomas 3' Driving Layup,,,,
+0021401001,9,4,0,1,7:43 PM,10:38,,,Splitter REBOUND (Off:0 Def:1),,
+0021401001,10,6,2,1,7:43 PM,10:34,Shved S.FOUL (P1.T1),,,,
+0021401001,11,3,11,1,7:43 PM,10:34,,,Leonard Free Throw 1 of 2 (1 PTS),5 - 0,-5
+0021401001,13,3,12,1,7:43 PM,10:34,,,Leonard Free Throw 2 of 2 (2 PTS),6 - 0,-6
+0021401001,15,2,42,1,7:44 PM,10:13,MISS Shved 3' Driving Layup,,Leonard BLOCK (1 BLK),,
+0021401001,16,4,0,1,7:44 PM,10:12,Thomas REBOUND (Off:1 Def:0),,,,
+0021401001,31,2,45,1,7:44 PM,10:10,MISS Thomas 20' Jump Shot,,,,
+0021401001,30,4,0,1,7:44 PM,10:09,Amundson REBOUND (Off:1 Def:0),,,,
+0021401001,17,2,5,1,7:44 PM,10:08,MISS Amundson 3' Layup,,,,
+0021401001,18,4,0,1,7:44 PM,10:07,Amundson REBOUND (Off:2 Def:0),,,,
+0021401001,19,2,5,1,7:44 PM,10:06,MISS Amundson 2' Layup,,Splitter BLOCK (1 BLK),,
+0021401001,20,4,0,1,7:44 PM,10:05,KNICKS Rebound,,,,
+0021401001,21,6,2,1,7:45 PM,9:54,,,Splitter S.FOUL (P1.T1),,
+0021401001,22,3,11,1,7:45 PM,9:54,Bargnani Free Throw 1 of 2 (1 PTS),,,6 - 1,-5
+0021401001,24,3,12,1,7:45 PM,9:54,Bargnani Free Throw 2 of 2 (2 PTS),,,6 - 2,-4
+0021401001,26,1,52,1,7:45 PM,9:45,,,Leonard  Alley Oop Dunk (4 PTS) (Duncan 1 AST),8 - 2,-6
+0021401001,27,1,46,1,7:46 PM,9:21,Bargnani 4' Running Jump Shot (4 PTS),,,8 - 4,-4
+0021401001,28,2,1,1,7:46 PM,9:01,,,MISS Duncan 20' Jump Shot,,
+0021401001,29,4,0,1,7:46 PM,9:00,Bargnani REBOUND (Off:0 Def:1),,,,
+0021401001,32,6,2,1,7:46 PM,8:53,,,Green S.FOUL (P1.T2),,
+0021401001,34,3,11,1,7:47 PM,8:53,Shved Free Throw 1 of 2 (1 PTS),,,8 - 5,-3
+0021401001,36,8,0,1,7:47 PM,8:53,,,SUB: Belinelli FOR Green,,
+0021401001,37,3,12,1,7:47 PM,8:53,Shved Free Throw 2 of 2 (2 PTS),,,8 - 6,-2
+0021401001,40,2,47,1,7:47 PM,8:36,,,MISS Duncan 10' Turnaround Jump Shot,,
+0021401001,41,4,0,1,7:47 PM,8:34,Bargnani REBOUND (Off:0 Def:2),,,,
+0021401001,42,1,8,1,7:47 PM,8:30,Amundson  Slam Dunk (2 PTS) (Shved 1 AST),,,8 - 8,TIE
+0021401001,43,2,5,1,7:48 PM,8:08,,,MISS Belinelli 1' Layup,,
+0021401001,44,4,0,1,7:48 PM,8:07,Shved REBOUND (Off:0 Def:1),,,,
+0021401001,45,2,1,1,7:48 PM,8:01,MISS Galloway 25' 3PT Jump Shot,,,,
+0021401001,46,4,0,1,7:48 PM,8:00,Bargnani REBOUND (Off:1 Def:2),,,,
+0021401001,47,5,1,1,7:48 PM,7:59,Bargnani Bad Pass Turnover (P1.T1),,,,
+0021401001,48,8,0,1,7:48 PM,7:59,,,SUB: Williams FOR Leonard,,
+0021401001,49,6,2,1,7:49 PM,7:39,Amundson S.FOUL (P1.T2),,,,
+0021401001,50,3,11,1,7:49 PM,7:39,,,Duncan Free Throw 1 of 2 (3 PTS),9 - 8,-1
+0021401001,52,3,12,1,7:49 PM,7:39,,,Duncan Free Throw 2 of 2 (4 PTS),10 - 8,-2
+0021401001,54,5,1,1,7:50 PM,7:19,Galloway Bad Pass Turnover (P1.T2),,Williams STEAL (1 STL),,
+0021401001,55,2,1,1,7:50 PM,7:10,,,MISS Parker 19' Jump Shot,,
+0021401001,56,4,0,1,7:50 PM,7:09,KNICKS Rebound,,,,
+0021401001,57,1,1,1,7:50 PM,6:51,Bargnani 19' Jump Shot (6 PTS) (Amundson 1 AST),,,10 - 10,TIE
+0021401001,58,1,5,1,7:51 PM,6:32,,,Parker 1' Layup (4 PTS) (Duncan 2 AST),12 - 10,-2
+0021401001,59,1,42,1,7:51 PM,6:22,Galloway 2' Driving Layup (2 PTS) (Amundson 2 AST),,,12 - 12,TIE
+0021401001,60,9,1,1,7:51 PM,6:21,,,Spurs Timeout: Regular (Reg.1 Short 0),,
+0021401001,62,8,0,1,7:53 PM,6:21,,,SUB: Diaw FOR Splitter,,
+0021401001,64,2,42,1,7:54 PM,5:59,,,MISS Belinelli 2' Driving Layup,,
+0021401001,65,4,0,1,7:54 PM,5:58,Amundson REBOUND (Off:2 Def:1),,,,
+0021401001,66,5,1,1,7:54 PM,5:41,Amundson Bad Pass Turnover (P1.T3),,Belinelli STEAL (1 STL),,
+0021401001,67,1,5,1,7:54 PM,5:35,,,Parker 1' Layup (6 PTS) (Belinelli 1 AST),14 - 12,-2
+0021401001,68,5,1,1,7:55 PM,5:13,Shved Bad Pass Turnover (P1.T4),,Belinelli STEAL (2 STL),,
+0021401001,69,6,2,1,7:55 PM,5:06,Amundson S.FOUL (P2.T3),,,,
+0021401001,70,3,11,1,7:55 PM,5:06,,,Belinelli Free Throw 1 of 2 (1 PTS),15 - 12,-3
+0021401001,72,8,0,1,7:55 PM,5:06,SUB: Aldrich FOR Amundson,,,,
+0021401001,73,3,12,1,7:56 PM,5:06,,,Belinelli Free Throw 2 of 2 (2 PTS),16 - 12,-4
+0021401001,75,1,1,1,7:56 PM,4:47,Bargnani 15' Jump Shot (8 PTS) (Shved 2 AST),,,16 - 14,-2
+0021401001,76,2,1,1,7:56 PM,4:30,,,MISS Diaw 12' Jump Shot,,
+0021401001,77,4,0,1,7:56 PM,4:29,Bargnani REBOUND (Off:1 Def:3),,,,
+0021401001,78,6,2,1,7:57 PM,4:15,,,Williams S.FOUL (P1.T3),,
+0021401001,79,3,11,1,7:57 PM,4:15,Shved Free Throw 1 of 2 (3 PTS),,,16 - 15,-1
+0021401001,81,3,12,1,7:57 PM,4:15,Shved Free Throw 2 of 2 (4 PTS),,,16 - 16,TIE
+0021401001,83,1,80,1,7:57 PM,4:01,,,Diaw 21' Step Back Jump Shot (2 PTS) (Parker 1 AST),18 - 16,-2
+0021401001,84,1,86,1,7:58 PM,3:40,Thomas 4' Turnaround Fadeaway (2 PTS) (Bargnani 1 AST),,,18 - 18,TIE
+0021401001,85,1,78,1,7:58 PM,3:22,,,Parker 5' Floating Jump Shot (8 PTS),20 - 18,-2
+0021401001,86,1,1,1,7:58 PM,3:05,Thomas 15' Jump Shot (4 PTS),,,20 - 20,TIE
+0021401001,87,1,66,1,7:59 PM,2:46,,,Duncan 9' Jump Bank Shot (6 PTS) (Parker 2 AST),22 - 20,-2
+0021401001,88,6,2,1,7:59 PM,2:33,,,Duncan S.FOUL (P1.T4),,
+0021401001,89,9,1,1,7:59 PM,2:33,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0021401001,91,8,0,1,8:01 PM,2:33,,,SUB: Mills FOR Duncan,,
+0021401001,92,8,0,1,8:01 PM,2:33,,,SUB: Leonard FOR Parker,,
+0021401001,93,8,0,1,8:01 PM,2:33,,,SUB: Splitter FOR Williams,,
+0021401001,94,8,0,1,8:01 PM,2:33,SUB: Smith FOR Thomas,,,,
+0021401001,95,8,0,1,8:01 PM,2:33,SUB: Wear FOR Bargnani,,,,
+0021401001,96,3,11,1,8:02 PM,2:33,MISS Shved Free Throw 1 of 2,,,,
+0021401001,97,4,1,1,8:02 PM,2:33,KNICKS Rebound,,,,
+0021401001,99,8,0,1,8:02 PM,2:33,SUB: Larkin FOR Galloway,,,,
+0021401001,100,3,12,1,8:02 PM,2:33,MISS Shved Free Throw 2 of 2,,,,
+0021401001,102,4,0,1,8:02 PM,2:32,,,Splitter REBOUND (Off:0 Def:2),,
+0021401001,103,1,1,1,8:02 PM,2:19,,,Leonard 25' 3PT Jump Shot (7 PTS) (Diaw 1 AST),25 - 20,-5
+0021401001,104,2,1,1,8:03 PM,2:04,MISS Larkin 17' Jump Shot,,,,
+0021401001,105,4,0,1,8:03 PM,2:03,,,Belinelli REBOUND (Off:0 Def:1),,
+0021401001,106,2,86,1,8:03 PM,1:50,,,MISS Leonard 10' Turnaround Fadeaway Shot,,
+0021401001,107,4,0,1,8:03 PM,1:48,Aldrich REBOUND (Off:0 Def:1),,,,
+0021401001,108,2,42,1,8:03 PM,1:39,MISS Shved 1' Driving Layup,,,,
+0021401001,109,4,0,1,8:03 PM,1:38,,,Diaw REBOUND (Off:0 Def:1),,
+0021401001,110,5,1,1,8:03 PM,1:30,Larkin STEAL (1 STL),,Mills Bad Pass Turnover (P1.T1),,
+0021401001,111,2,42,1,8:03 PM,1:24,MISS Shved 3' Driving Layup,,,,
+0021401001,112,4,0,1,8:03 PM,1:23,,,Belinelli REBOUND (Off:0 Def:2),,
+0021401001,113,2,1,1,8:03 PM,1:06,,,MISS Mills 25' 3PT Jump Shot,,
+0021401001,114,4,0,1,8:04 PM,1:05,,,Splitter REBOUND (Off:1 Def:2),,
+0021401001,115,6,1,1,8:04 PM,1:03,Aldrich P.FOUL (P1.T4),,,,
+0021401001,116,8,0,1,8:04 PM,1:03,SUB: Galloway FOR Shved,,,,
+0021401001,117,6,2,1,8:04 PM,0:58,Wear S.FOUL (P1.PN),,,,
+0021401001,118,3,11,1,8:05 PM,0:58,,,Leonard Free Throw 1 of 2 (8 PTS),26 - 20,-6
+0021401001,120,3,12,1,8:05 PM,0:58,,,Leonard Free Throw 2 of 2 (9 PTS),27 - 20,-7
+0021401001,122,1,82,1,8:05 PM,0:43,Larkin 4' Driving Bank Shot (2 PTS) (Galloway 1 AST),,,27 - 22,-5
+0021401001,124,6,2,1,8:06 PM,0:43,,,Mills S.FOUL (P1.PN),,
+0021401001,126,3,10,1,8:06 PM,0:43,Larkin Free Throw 1 of 1 (3 PTS),,,27 - 23,-4
+0021401001,129,2,45,1,8:06 PM,0:35,Larkin BLOCK (1 BLK),,MISS Mills 15' Jump Shot,,
+0021401001,130,4,0,1,8:06 PM,0:34,Aldrich REBOUND (Off:0 Def:2),,,,
+0021401001,131,1,78,1,8:06 PM,0:21,Galloway 7' Floating Jump Shot (4 PTS),,,27 - 25,-2
+0021401001,185,2,46,1,8:06 PM,0:04,,,MISS Diaw 5' Running Jump Shot,,
+0021401001,191,4,0,1,8:06 PM,0:03,,,Mills REBOUND (Off:1 Def:0),,
+0021401001,134,2,53,1,8:06 PM,0:03,,,MISS Mills 2' Tip Shot,,
+0021401001,136,4,0,1,8:06 PM,0:02,,,Splitter REBOUND (Off:2 Def:2),,
+0021401001,132,1,53,1,8:06 PM,0:02,,,Splitter 2' Tip Shot (2 PTS),29 - 25,-4
+0021401001,137,13,0,1,8:08 PM,0:00,,,,29 - 25,-4
+0021401001,139,12,0,2,8:09 PM,12:00,,,,29 - 25,-4
+0021401001,141,6,2,2,8:10 PM,11:48,Larkin S.FOUL (P1.T1),,,,
+0021401001,142,3,11,2,8:10 PM,11:48,,,MISS Mills Free Throw 1 of 2,,
+0021401001,143,4,1,2,8:10 PM,11:48,,,Spurs Rebound,,
+0021401001,144,8,0,2,8:10 PM,11:48,,,SUB: Green FOR Belinelli,,
+0021401001,145,3,12,2,8:10 PM,11:48,,,Mills Free Throw 2 of 2 (1 PTS),30 - 25,-5
+0021401001,147,2,1,2,8:11 PM,11:24,MISS Smith 16' Jump Shot,,,,
+0021401001,148,4,0,2,8:11 PM,11:23,,,Splitter REBOUND (Off:2 Def:3),,
+0021401001,149,2,1,2,8:11 PM,11:09,,,MISS Mills 26' 3PT Jump Shot,,
+0021401001,150,4,0,2,8:11 PM,11:08,Aldrich REBOUND (Off:0 Def:3),,,,
+0021401001,151,2,5,2,8:11 PM,10:49,MISS Smith 2' Layup,,,,
+0021401001,152,4,0,2,8:11 PM,10:48,,,Splitter REBOUND (Off:2 Def:4),,
+0021401001,154,2,1,2,8:11 PM,10:35,,,MISS Green 25' 3PT Jump Shot,,
+0021401001,155,4,0,2,8:11 PM,10:33,,,Splitter REBOUND (Off:3 Def:4),,
+0021401001,156,2,1,2,8:12 PM,10:13,,,MISS Leonard 20' Jump Shot,,
+0021401001,157,4,0,2,8:12 PM,10:12,,,Splitter REBOUND (Off:4 Def:4),,
+0021401001,158,2,1,2,8:12 PM,10:10,,,MISS Diaw 38' 3PT Jump Shot,,
+0021401001,159,4,0,2,8:12 PM,10:09,,,Spurs Rebound,,
+0021401001,160,5,11,2,8:12 PM,10:09,,,Spurs Turnover: Shot Clock (T#2),,
+0021401001,161,1,5,2,8:12 PM,9:52,Smith 2' Layup (2 PTS),,,30 - 27,-3
+0021401001,162,1,42,2,8:13 PM,9:40,,,Diaw  Driving Layup (4 PTS) (Mills 1 AST),32 - 27,-5
+0021401001,163,6,2,2,8:13 PM,9:29,,,Leonard S.FOUL (P1.T1),,
+0021401001,164,3,11,2,8:13 PM,9:29,Wear Free Throw 1 of 2 (1 PTS),,,32 - 28,-4
+0021401001,166,8,0,2,8:13 PM,9:29,,,SUB: Bonner FOR Diaw,,
+0021401001,167,9,1,2,8:13 PM,9:29,,,Spurs Timeout: Regular (Reg.2 Short 0),,
+0021401001,171,3,12,2,8:16 PM,9:29,Wear Free Throw 2 of 2 (2 PTS),,,32 - 29,-3
+0021401001,173,1,3,2,8:16 PM,9:14,,,Bonner 9' Hook Shot (2 PTS),34 - 29,-5
+0021401001,174,6,4,2,8:16 PM,9:03,Wear OFF.Foul (P2),,,,
+0021401001,175,5,5,2,8:16 PM,9:03,Wear Foul Turnover (P1.T5),,,,
+0021401001,176,2,1,2,8:17 PM,8:50,,,MISS Mills 20' Jump Shot,,
+0021401001,177,4,0,2,8:17 PM,8:49,,,Spurs Rebound,,
+0021401001,178,8,0,2,8:17 PM,8:49,,,SUB: Parker FOR Mills,,
+0021401001,179,1,1,2,8:17 PM,8:41,,,Green 21' Jump Shot (2 PTS),36 - 29,-7
+0021401001,180,2,1,2,8:17 PM,8:24,MISS Smith 9' Jump Shot,,,,
+0021401001,181,4,0,2,8:17 PM,8:23,,,Green REBOUND (Off:0 Def:2),,
+0021401001,182,2,5,2,8:18 PM,8:16,Aldrich BLOCK (1 BLK),,MISS Splitter 2' Layup,,
+0021401001,183,4,0,2,8:18 PM,8:15,,,Splitter REBOUND (Off:5 Def:4),,
+0021401001,184,6,2,2,8:18 PM,8:14,Aldrich S.FOUL (P2.T2),,,,
+0021401001,186,3,11,2,8:18 PM,8:14,,,Splitter Free Throw 1 of 2 (3 PTS),37 - 29,-8
+0021401001,189,8,0,2,8:18 PM,8:14,SUB: Bargnani FOR Aldrich,,,,
+0021401001,190,8,0,2,8:18 PM,8:14,SUB: Shved FOR Larkin,,,,
+0021401001,192,3,12,2,8:18 PM,8:14,,,Splitter Free Throw 2 of 2 (4 PTS),38 - 29,-9
+0021401001,195,5,1,2,8:19 PM,7:56,Bargnani Bad Pass Turnover (P2.T6),,Green STEAL (1 STL),,
+0021401001,196,1,3,2,8:19 PM,7:44,,,Splitter 5' Hook Shot (6 PTS),40 - 29,-11
+0021401001,197,9,1,2,8:19 PM,7:43,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0021401001,200,8,0,2,8:21 PM,7:43,SUB: Thomas FOR Wear,,,,
+0021401001,201,2,1,2,8:22 PM,7:24,MISS Bargnani 13' Jump Shot,,,,
+0021401001,202,4,0,2,8:22 PM,7:23,,,Green REBOUND (Off:0 Def:3),,
+0021401001,203,1,44,2,8:22 PM,7:14,,,Splitter 2' Reverse Layup (8 PTS) (Parker 3 AST),42 - 29,-13
+0021401001,204,1,42,2,8:22 PM,6:51,Shved 2' Driving Layup (6 PTS),,,42 - 31,-11
+0021401001,205,1,78,2,8:22 PM,6:35,,,Parker 5' Floating Jump Shot (10 PTS),44 - 31,-13
+0021401001,207,1,42,2,8:23 PM,6:19,Shved 1' Driving Layup (8 PTS) (Bargnani 2 AST),,,44 - 33,-11
+0021401001,208,2,5,2,8:23 PM,5:59,,,MISS Splitter 2' Layup,,
+0021401001,209,4,0,2,8:23 PM,5:58,,,Splitter REBOUND (Off:6 Def:4),,
+0021401001,210,2,4,2,8:23 PM,5:58,,,MISS Splitter 1' Tip Shot,,
+0021401001,211,4,0,2,8:23 PM,5:57,Smith REBOUND (Off:0 Def:1),,,,
+0021401001,212,2,1,2,8:23 PM,5:48,MISS Smith 25' 3PT Jump Shot,,,,
+0021401001,213,4,0,2,8:23 PM,5:47,,,Leonard REBOUND (Off:0 Def:1),,
+0021401001,214,1,3,2,8:23 PM,5:34,,,Splitter 5' Hook Shot (10 PTS),46 - 33,-13
+0021401001,215,1,1,2,8:24 PM,5:13,Thomas 16' Jump Shot (6 PTS) (Shved 3 AST),,,46 - 35,-11
+0021401001,216,6,1,2,8:24 PM,4:56,Thomas P.FOUL (P1.T3),,,,
+0021401001,217,8,0,2,8:24 PM,4:56,,,SUB: Duncan FOR Splitter,,
+0021401001,218,8,0,2,8:25 PM,4:56,SUB: Amundson FOR Smith,,,,
+0021401001,219,1,46,2,8:25 PM,4:50,,,Parker 5' Running Jump Shot (12 PTS),48 - 35,-13
+0021401001,220,1,42,2,8:25 PM,4:34,Shved 1' Driving Layup (10 PTS),,,48 - 37,-11
+0021401001,221,2,1,2,8:25 PM,4:14,,,MISS Duncan 4' Jump Shot,,
+0021401001,222,4,0,2,8:25 PM,4:13,Bargnani REBOUND (Off:1 Def:4),,,,
+0021401001,223,2,1,2,8:26 PM,3:58,MISS Thomas 16' Jump Shot,,Leonard BLOCK (2 BLK),,
+0021401001,224,4,0,2,8:26 PM,3:57,,,Spurs Rebound,,
+0021401001,225,8,0,2,8:26 PM,3:57,,,SUB: Belinelli FOR Leonard,,
+0021401001,226,2,1,2,8:26 PM,3:39,,,MISS Bonner 6' Jump Shot,,
+0021401001,227,4,0,2,8:26 PM,3:38,Amundson REBOUND (Off:2 Def:2),,,,
+0021401001,228,2,1,2,8:26 PM,3:30,MISS Shved 25' 3PT Jump Shot,,,,
+0021401001,229,4,0,2,8:26 PM,3:29,,,Parker REBOUND (Off:0 Def:1),,
+0021401001,230,5,1,2,8:27 PM,3:21,Shved STEAL (1 STL),,Parker Bad Pass Turnover (P1.T3),,
+0021401001,231,6,1,2,8:27 PM,3:17,,,Belinelli P.FOUL (P1.T2),,
+0021401001,232,8,0,2,8:27 PM,3:17,SUB: Larkin FOR Shved,,,,
+0021401001,234,2,1,2,8:28 PM,2:58,MISS Galloway 21' Jump Shot,,,,
+0021401001,235,4,0,2,8:28 PM,2:57,,,Parker REBOUND (Off:0 Def:2),,
+0021401001,236,6,27,2,8:28 PM,2:54,Galloway Personal Block Foul (P1.T4),,,,
+0021401001,237,9,4,2,8:28 PM,2:54,,,,,
+0021401001,241,8,0,2,8:31 PM,2:54,,,SUB: Joseph FOR Parker,,
+0021401001,242,2,1,2,8:31 PM,2:34,,,MISS Green 26' 3PT Jump Shot,,
+0021401001,243,4,0,2,8:31 PM,2:33,Amundson REBOUND (Off:2 Def:3),,,,
+0021401001,244,1,1,2,8:31 PM,2:23,Galloway 26' 3PT Jump Shot (7 PTS),,,48 - 40,-8
+0021401001,245,5,1,2,8:32 PM,2:01,Galloway STEAL (1 STL),,Belinelli Bad Pass Turnover (P1.T4),,
+0021401001,246,2,42,2,8:32 PM,1:57,MISS Galloway 3' Driving Layup,,,,
+0021401001,247,4,0,2,8:32 PM,1:56,Amundson REBOUND (Off:3 Def:3),,,,
+0021401001,248,1,72,2,8:32 PM,1:56,Amundson 3' Putback Layup (4 PTS),,,48 - 42,-6
+0021401001,249,1,66,2,8:32 PM,1:33,,,Duncan 4' Jump Bank Shot (8 PTS),50 - 42,-8
+0021401001,250,2,1,2,8:33 PM,1:15,MISS Amundson 14' Jump Shot,,,,
+0021401001,251,4,0,2,8:33 PM,1:14,,,Belinelli REBOUND (Off:0 Def:3),,
+0021401001,252,2,1,2,8:33 PM,1:05,,,MISS Green 20' Jump Shot,,
+0021401001,253,4,0,2,8:33 PM,1:04,Bargnani REBOUND (Off:1 Def:5),,,,
+0021401001,254,2,1,2,8:33 PM,0:52,MISS Bargnani 27' 3PT Jump Shot,,,,
+0021401001,255,4,0,2,8:33 PM,0:50,,,Joseph REBOUND (Off:0 Def:1),,
+0021401001,256,1,84,2,8:33 PM,0:32,,,Duncan 4' Running Bank Shot (10 PTS),52 - 42,-10
+0021401001,257,9,2,2,8:34 PM,0:26,KNICKS Timeout: Short (Full 2 Short 1),,,,
+0021401001,259,8,0,2,8:34 PM,0:26,,,SUB: Diaw FOR Bonner,,
+0021401001,260,8,0,2,8:34 PM,0:26,SUB: Shved FOR Larkin,,,,
+0021401001,261,2,1,2,8:35 PM,0:15,MISS Bargnani 15' Jump Shot,,,,
+0021401001,262,4,0,2,8:35 PM,0:14,Shved REBOUND (Off:1 Def:1),,,,
+0021401001,263,2,78,2,8:35 PM,0:09,MISS Shved 4' Floating Jump Shot,,,,
+0021401001,264,4,0,2,8:35 PM,0:08,,,Duncan REBOUND (Off:0 Def:2),,
+0021401001,265,2,40,2,8:35 PM,0:02,Bargnani BLOCK (1 BLK),,MISS Joseph 3' Layup,,
+0021401001,266,4,0,2,8:35 PM,0:01,Amundson REBOUND (Off:3 Def:4),,,,
+0021401001,267,2,1,2,8:35 PM,0:00,MISS Amundson 49' 3PT Jump Shot,,,,
+0021401001,268,4,0,2,8:36 PM,0:00,KNICKS Rebound,,,,
+0021401001,269,13,0,2,8:36 PM,0:00,,,,52 - 42,-10
+0021401001,271,12,0,3,8:52 PM,12:00,,,,52 - 42,-10
+0021401001,272,6,2,3,8:53 PM,11:40,Galloway S.FOUL (P2.T1),,,,
+0021401001,274,3,11,3,8:53 PM,11:40,,,Duncan Free Throw 1 of 2 (11 PTS),53 - 42,-11
+0021401001,276,3,12,3,8:53 PM,11:40,,,Duncan Free Throw 2 of 2 (12 PTS),54 - 42,-12
+0021401001,278,2,1,3,8:53 PM,11:26,MISS Bargnani 17' Jump Shot,,,,
+0021401001,279,4,0,3,8:53 PM,11:25,Amundson REBOUND (Off:4 Def:4),,,,
+0021401001,280,1,1,3,8:53 PM,11:14,Bargnani 16' Jump Shot (10 PTS) (Shved 4 AST),,,54 - 44,-10
+0021401001,281,2,5,3,8:54 PM,11:07,Bargnani BLOCK (2 BLK),,MISS Splitter 2' Layup,,
+0021401001,282,4,0,3,8:54 PM,11:06,Amundson REBOUND (Off:4 Def:5),,,,
+0021401001,284,5,1,3,8:54 PM,10:43,Bargnani Bad Pass Turnover (P3.T7),,Parker STEAL (1 STL),,
+0021401001,285,2,5,3,8:54 PM,10:34,Amundson BLOCK (1 BLK),,MISS Parker 1' Layup,,
+0021401001,286,4,0,3,8:54 PM,10:33,Galloway REBOUND (Off:0 Def:1),,,,
+0021401001,287,1,1,3,8:54 PM,10:27,Bargnani 11' Jump Shot (12 PTS) (Galloway 2 AST),,,54 - 46,-8
+0021401001,288,6,4,3,8:55 PM,10:18,,,Parker OFF.Foul (P1),,
+0021401001,289,5,5,3,8:55 PM,10:18,,,Parker Foul Turnover (P2.T5),,
+0021401001,290,2,1,3,8:55 PM,9:55,MISS Galloway 19' Jump Shot,,,,
+0021401001,291,4,0,3,8:55 PM,9:54,Amundson REBOUND (Off:5 Def:5),,,,
+0021401001,292,2,5,3,8:55 PM,9:52,MISS Amundson 3' Layup,,Green BLOCK (1 BLK),,
+0021401001,293,4,0,3,8:55 PM,9:51,Amundson REBOUND (Off:6 Def:5),,,,
+0021401001,295,2,1,3,8:56 PM,9:38,MISS Thomas 20' Jump Shot,,,,
+0021401001,296,4,0,3,8:56 PM,9:37,,,Parker REBOUND (Off:0 Def:3),,
+0021401001,297,1,88,3,8:56 PM,9:30,,,Splitter  Driving Slam Dunk (12 PTS) (Parker 4 AST),56 - 46,-10
+0021401001,298,2,86,3,8:56 PM,9:05,MISS Amundson 6' Turnaround Fadeaway Shot,,,,
+0021401001,299,4,0,3,8:56 PM,9:03,,,Splitter REBOUND (Off:6 Def:5),,
+0021401001,301,2,1,3,8:57 PM,8:47,,,MISS Green 15' Jump Shot,,
+0021401001,302,4,0,3,8:57 PM,8:46,Amundson REBOUND (Off:6 Def:6),,,,
+0021401001,303,2,1,3,8:57 PM,8:38,MISS Shved 4' Jump Shot,,Duncan BLOCK (1 BLK),,
+0021401001,304,4,0,3,8:57 PM,8:37,,,Duncan REBOUND (Off:0 Def:3),,
+0021401001,305,1,1,3,8:57 PM,8:28,,,Green 24' 3PT Jump Shot (5 PTS) (Parker 5 AST),59 - 46,-13
+0021401001,306,9,1,3,8:57 PM,8:23,KNICKS Timeout: Regular (Full 3 Short 1),,,,
+0021401001,308,8,0,3,8:59 PM,8:23,,,SUB: Diaw FOR Splitter,,
+0021401001,310,1,1,3,9:00 PM,8:17,Galloway 26' 3PT Jump Shot (10 PTS) (Shved 5 AST),,,59 - 49,-10
+0021401001,311,2,63,3,9:00 PM,8:00,,,MISS Diaw 7' Fadeaway Jumper,,
+0021401001,312,4,0,3,9:00 PM,7:58,Amundson REBOUND (Off:6 Def:7),,,,
+0021401001,313,2,1,3,9:00 PM,7:43,MISS Bargnani 15' Jump Shot,,,,
+0021401001,314,4,0,3,9:00 PM,7:42,Amundson REBOUND (Off:7 Def:7),,,,
+0021401001,315,1,72,3,9:00 PM,7:42,Amundson 1' Putback Layup (6 PTS),,,59 - 51,-8
+0021401001,316,6,1,3,9:01 PM,7:27,Amundson P.FOUL (P3.T2),,,,
+0021401001,317,2,5,3,9:01 PM,7:14,,,MISS Green 1' Layup,,
+0021401001,319,4,0,3,9:01 PM,7:13,,,Duncan REBOUND (Off:1 Def:3),,
+0021401001,318,1,72,3,9:01 PM,7:13,,,Duncan 3' Putback Layup (14 PTS),61 - 51,-10
+0021401001,320,1,42,3,9:02 PM,6:48,Shved 2' Driving Layup (12 PTS),,,61 - 53,-8
+0021401001,321,6,2,3,9:02 PM,6:48,,,Duncan S.FOUL (P2.T1),,
+0021401001,322,8,0,3,9:02 PM,6:48,SUB: Wear FOR Thomas,,,,
+0021401001,323,3,10,3,9:02 PM,6:48,MISS Shved Free Throw 1 of 1,,,,
+0021401001,325,4,0,3,9:02 PM,6:47,,,Duncan REBOUND (Off:1 Def:4),,
+0021401001,326,2,1,3,9:03 PM,6:34,,,MISS Duncan 21' Jump Shot,,
+0021401001,327,4,0,3,9:03 PM,6:33,Galloway REBOUND (Off:0 Def:2),,,,
+0021401001,328,1,5,3,9:03 PM,6:24,Bargnani 1' Layup (14 PTS) (Galloway 3 AST),,,61 - 55,-6
+0021401001,329,1,5,3,9:03 PM,6:17,,,Green 2' Layup (7 PTS) (Diaw 2 AST),63 - 55,-8
+0021401001,330,6,2,3,9:03 PM,6:17,Shved S.FOUL (P2.T3),,,,
+0021401001,331,3,10,3,9:03 PM,6:17,,,Green Free Throw 1 of 1 (8 PTS),64 - 55,-9
+0021401001,332,1,1,3,9:04 PM,6:05,Galloway 15' Jump Shot (12 PTS),,,64 - 57,-7
+0021401001,333,5,2,3,9:04 PM,5:53,Wear STEAL (1 STL),,Leonard Lost Ball Turnover (P1.T6),,
+0021401001,335,1,1,3,9:04 PM,5:35,Galloway 21' Jump Shot (14 PTS) (Wear 1 AST),,,64 - 59,-5
+0021401001,336,2,5,3,9:05 PM,5:20,Amundson BLOCK (2 BLK),,MISS Parker 2' Layup,,
+0021401001,337,4,0,3,9:05 PM,5:19,Bargnani REBOUND (Off:1 Def:6),,,,
+0021401001,338,1,79,3,9:05 PM,5:15,Galloway 15' Pullup Jump Shot (16 PTS),,,64 - 61,-3
+0021401001,339,9,1,3,9:05 PM,5:14,,,Spurs Timeout: Regular (Reg.3 Short 0),,
+0021401001,343,2,1,3,9:08 PM,4:58,,,MISS Leonard 10' Jump Shot,,
+0021401001,344,4,0,3,9:08 PM,4:56,KNICKS Rebound,,,,
+0021401001,345,2,1,3,9:08 PM,4:41,MISS Wear 24' 3PT Jump Shot,,,,
+0021401001,346,4,0,3,9:08 PM,4:40,,,Leonard REBOUND (Off:0 Def:2),,
+0021401001,347,1,5,3,9:08 PM,4:33,,,Diaw 2' Layup (6 PTS) (Leonard 1 AST),66 - 61,-5
+0021401001,348,1,1,3,9:09 PM,4:12,Amundson 12' Jump Shot (8 PTS) (Galloway 4 AST),,,66 - 63,-3
+0021401001,349,2,1,3,9:09 PM,3:55,,,MISS Diaw 20' Jump Shot,,
+0021401001,350,4,0,3,9:09 PM,3:54,Wear REBOUND (Off:0 Def:1),,,,
+0021401001,351,2,1,3,9:09 PM,3:47,MISS Shved 26' 3PT Jump Shot,,,,
+0021401001,352,4,0,3,9:09 PM,3:46,,,Green REBOUND (Off:0 Def:4),,
+0021401001,353,6,2,3,9:09 PM,3:40,Wear S.FOUL (P3.T4),,,,
+0021401001,354,3,11,3,9:09 PM,3:40,,,Parker Free Throw 1 of 2 (13 PTS),67 - 63,-4
+0021401001,356,8,0,3,9:10 PM,3:40,,,SUB: Belinelli FOR Green,,
+0021401001,357,8,0,3,9:10 PM,3:40,,,SUB: Ayres FOR Duncan,,
+0021401001,358,8,0,3,9:10 PM,3:40,SUB: Smith FOR Bargnani,,,,
+0021401001,359,3,12,3,9:10 PM,3:40,,,Parker Free Throw 2 of 2 (14 PTS),68 - 63,-5
+0021401001,361,5,1,3,9:10 PM,3:20,Amundson Bad Pass Turnover (P2.T8),,Diaw STEAL (1 STL),,
+0021401001,362,1,46,3,9:10 PM,3:07,,,Diaw 5' Running Jump Shot (8 PTS),70 - 63,-7
+0021401001,363,6,2,3,9:11 PM,2:47,,,Diaw S.FOUL (P1.T2),,
+0021401001,364,3,11,3,9:11 PM,2:47,MISS Amundson Free Throw 1 of 2,,,,
+0021401001,365,4,1,3,9:11 PM,2:47,KNICKS Rebound,,,,
+0021401001,366,8,0,3,9:11 PM,2:47,,,SUB: Joseph FOR Parker,,
+0021401001,367,3,12,3,9:11 PM,2:47,Amundson Free Throw 2 of 2 (9 PTS),,,70 - 64,-6
+0021401001,369,1,1,3,9:12 PM,2:33,,,Belinelli 26' 3PT Jump Shot (5 PTS) (Joseph 1 AST),73 - 64,-9
+0021401001,370,2,1,3,9:12 PM,2:11,MISS Smith 16' Jump Shot,,,,
+0021401001,371,4,0,3,9:12 PM,2:10,,,Leonard REBOUND (Off:0 Def:3),,
+0021401001,372,2,1,3,9:12 PM,2:00,,,MISS Diaw 25' 3PT Jump Shot,,
+0021401001,373,4,0,3,9:12 PM,1:59,,,Ayres REBOUND (Off:1 Def:0),,
+0021401001,374,2,5,3,9:13 PM,1:52,,,MISS Joseph 1' Layup,,
+0021401001,375,4,0,3,9:13 PM,1:51,,,Ayres REBOUND (Off:2 Def:0),,
+0021401001,376,1,72,3,9:13 PM,1:51,,,Ayres 2' Putback Layup (2 PTS),75 - 64,-11
+0021401001,377,1,42,3,9:13 PM,1:26,Shved 2' Driving Layup (14 PTS),,,75 - 66,-9
+0021401001,378,2,1,3,9:13 PM,1:19,,,MISS Leonard 4' Jump Shot,,
+0021401001,379,4,0,3,9:13 PM,1:18,,,Spurs Rebound,,
+0021401001,380,8,0,3,9:13 PM,1:18,SUB: Aldrich FOR Amundson,,,,
+0021401001,382,8,0,3,9:13 PM,1:18,SUB: Larkin FOR Shved,,,,
+0021401001,381,8,0,3,9:13 PM,1:18,,,SUB: Green FOR Leonard,,
+0021401001,383,6,4,3,9:14 PM,1:12,,,Belinelli OFF.Foul (P2),,
+0021401001,384,5,5,3,9:14 PM,1:12,,,Belinelli Foul Turnover (P2.T7),,
+0021401001,385,2,1,3,9:14 PM,1:03,MISS Galloway 18' Jump Shot,,,,
+0021401001,386,4,0,3,9:14 PM,1:02,,,Joseph REBOUND (Off:0 Def:2),,
+0021401001,387,2,3,3,9:14 PM,0:53,,,MISS Ayres 6' Hook Shot,,
+0021401001,388,4,0,3,9:14 PM,0:51,Aldrich REBOUND (Off:0 Def:4),,,,
+0021401001,389,1,42,3,9:15 PM,0:32,Galloway 1' Driving Layup (18 PTS),,,75 - 68,-7
+0021401001,390,2,5,3,9:15 PM,0:18,,,MISS Ayres 1' Layup,,
+0021401001,391,4,0,3,9:15 PM,0:17,Smith REBOUND (Off:0 Def:2),,,,
+0021401001,392,2,1,3,9:15 PM,0:02,MISS Smith 19' Jump Shot,,,,
+0021401001,393,4,0,3,9:15 PM,0:00,,,Belinelli REBOUND (Off:0 Def:4),,
+0021401001,394,13,0,3,9:15 PM,0:00,,,,75 - 68,-7
+0021401001,396,12,0,4,9:18 PM,12:00,,,,75 - 68,-7
+0021401001,397,1,1,4,9:19 PM,11:43,Wear 15' Jump Shot (4 PTS) (Shved 6 AST),,,75 - 70,-5
+0021401001,398,5,1,4,9:19 PM,11:33,Shved STEAL (2 STL),,Green Bad Pass Turnover (P1.T8),,
+0021401001,399,9,2,4,9:19 PM,11:32,KNICKS Timeout: Short (Full 3 Short 2),,,,
+0021401001,402,6,29,4,9:20 PM,11:14,,,Ayres Shooting Block Foul (P1.T1),,
+0021401001,403,3,11,4,9:21 PM,11:14,Smith Free Throw 1 of 2 (3 PTS),,,75 - 71,-4
+0021401001,405,3,12,4,9:21 PM,11:14,Smith Free Throw 2 of 2 (4 PTS),,,75 - 72,-3
+0021401001,407,2,40,4,9:21 PM,11:02,Smith BLOCK (1 BLK),,MISS Joseph 3' Layup,,
+0021401001,408,4,0,4,9:21 PM,11:01,,,Spurs Rebound,,
+0021401001,409,2,1,4,9:22 PM,10:49,,,MISS Green  3PT Jump Shot,,
+0021401001,410,4,0,4,9:22 PM,10:48,Shved REBOUND (Off:1 Def:2),,,,
+0021401001,411,1,1,4,9:22 PM,10:26,Wear 17' Jump Shot (6 PTS) (Smith 1 AST),,,75 - 74,-1
+0021401001,412,2,5,4,9:22 PM,10:01,,,MISS Diaw 2' Layup,,
+0021401001,414,4,0,4,9:22 PM,10:00,,,Ayres REBOUND (Off:3 Def:0),,
+0021401001,413,1,4,4,9:22 PM,10:00,,,Ayres 1' Tip Shot (4 PTS),77 - 74,-3
+0021401001,415,1,1,4,9:23 PM,9:44,Shved 24' 3PT Jump Shot (17 PTS),,,77 - 77,TIE
+0021401001,416,2,5,4,9:23 PM,9:32,Aldrich BLOCK (2 BLK),,MISS Green 3' Layup,,
+0021401001,417,4,0,4,9:23 PM,9:31,,,Spurs Rebound,,
+0021401001,418,8,0,4,9:23 PM,9:31,,,SUB: Splitter FOR Ayres,,
+0021401001,419,8,0,4,9:23 PM,9:31,,,SUB: Bonner FOR Diaw,,
+0021401001,420,1,1,4,9:24 PM,9:20,,,Joseph 15' Jump Shot (2 PTS),79 - 77,-2
+0021401001,421,6,2,4,9:24 PM,8:59,,,Bonner S.FOUL (P1.T2),,
+0021401001,422,9,4,4,9:24 PM,8:59,,,,,
+0021401001,425,3,11,4,9:26 PM,8:59,Aldrich Free Throw 1 of 2 (1 PTS),,,79 - 78,-1
+0021401001,427,3,12,4,9:27 PM,8:59,MISS Aldrich Free Throw 2 of 2,,,,
+0021401001,429,4,0,4,9:27 PM,8:58,,,Joseph REBOUND (Off:0 Def:3),,
+0021401001,430,6,2,4,9:27 PM,8:43,Shved S.FOUL (P3.T1),,,,
+0021401001,431,3,13,4,9:27 PM,8:43,,,Belinelli Free Throw 1 of 3 (6 PTS),80 - 78,-2
+0021401001,433,3,14,4,9:27 PM,8:43,,,Belinelli Free Throw 2 of 3 (7 PTS),81 - 78,-3
+0021401001,435,8,0,4,9:28 PM,8:43,,,SUB: Parker FOR Joseph,,
+0021401001,436,3,15,4,9:28 PM,8:43,,,Belinelli Free Throw 3 of 3 (8 PTS),82 - 78,-4
+0021401001,438,5,11,4,9:28 PM,8:19,KNICKS Turnover: Shot Clock (T#9),,,,
+0021401001,439,6,2,4,9:29 PM,8:06,Wear S.FOUL (P4.T2),,,,
+0021401001,440,3,11,4,9:29 PM,8:06,,,Belinelli Free Throw 1 of 2 (9 PTS),83 - 78,-5
+0021401001,442,8,0,4,9:29 PM,8:06,SUB: Galloway FOR Shved,,,,
+0021401001,443,3,12,4,9:29 PM,8:06,,,Belinelli Free Throw 2 of 2 (10 PTS),84 - 78,-6
+0021401001,445,1,1,4,9:30 PM,7:48,Smith 14' Jump Shot (6 PTS) (Larkin 1 AST),,,84 - 80,-4
+0021401001,446,2,8,4,9:30 PM,7:37,,,MISS Green  Slam Dunk,,
+0021401001,447,4,0,4,9:30 PM,7:35,Galloway REBOUND (Off:0 Def:3),,,,
+0021401001,448,2,40,4,9:30 PM,7:29,MISS Aldrich 3' Layup,,,,
+0021401001,449,4,0,4,9:30 PM,7:28,KNICKS Rebound,,,,
+0021401001,450,6,3,4,9:30 PM,7:28,,,Belinelli L.B.FOUL (P3.T3),,
+0021401001,451,1,1,4,9:31 PM,7:17,Galloway 22' Jump Shot (20 PTS),,,84 - 82,-2
+0021401001,452,2,1,4,9:31 PM,7:04,,,MISS Parker 24' 3PT Jump Shot,,
+0021401001,453,4,0,4,9:31 PM,7:03,Smith REBOUND (Off:0 Def:3),,,,
+0021401001,454,1,1,4,9:31 PM,6:48,Smith 16' Jump Shot (8 PTS) (Aldrich 1 AST),,,84 - 84,TIE
+0021401001,455,2,1,4,9:32 PM,6:31,,,MISS Belinelli 24' 3PT Jump Shot,,
+0021401001,456,4,0,4,9:32 PM,6:30,Wear REBOUND (Off:0 Def:2),,,,
+0021401001,457,2,1,4,9:32 PM,6:07,MISS Wear 21' Jump Shot,,,,
+0021401001,458,4,0,4,9:32 PM,6:06,Aldrich REBOUND (Off:1 Def:4),,,,
+0021401001,459,1,3,4,9:32 PM,6:02,Aldrich 4' Hook Shot (3 PTS),,,84 - 86,2
+0021401001,460,6,2,4,9:32 PM,5:53,Larkin S.FOUL (P2.T3),,,,
+0021401001,461,9,1,4,9:32 PM,5:53,KNICKS Timeout: Regular (Full 4 Short 2),,,,
+0021401001,463,8,0,4,9:35 PM,5:53,,,SUB: Leonard FOR Green,,
+0021401001,464,8,0,4,9:35 PM,5:53,,,SUB: Duncan FOR Bonner,,
+0021401001,466,3,11,4,9:35 PM,5:53,,,MISS Parker Free Throw 1 of 2,,
+0021401001,467,4,1,4,9:35 PM,5:53,,,Spurs Rebound,,
+0021401001,468,3,12,4,9:35 PM,5:53,,,Parker Free Throw 2 of 2 (15 PTS),85 - 86,1
+0021401001,470,2,1,4,9:36 PM,5:36,MISS Galloway 25' 3PT Jump Shot,,,,
+0021401001,471,4,0,4,9:36 PM,5:35,Smith REBOUND (Off:1 Def:3),,,,
+0021401001,472,1,1,4,9:36 PM,5:26,Galloway 19' Jump Shot (22 PTS) (Smith 2 AST),,,85 - 88,3
+0021401001,473,2,1,4,9:36 PM,4:58,,,MISS Parker 12' Jump Shot,,
+0021401001,474,4,0,4,9:36 PM,4:57,Aldrich REBOUND (Off:1 Def:5),,,,
+0021401001,475,2,78,4,9:36 PM,4:47,MISS Larkin 8' Floating Jump Shot,,,,
+0021401001,476,4,0,4,9:36 PM,4:46,,,Splitter REBOUND (Off:6 Def:6),,
+0021401001,477,1,78,4,9:37 PM,4:32,,,Parker 7' Floating Jump Shot (17 PTS),87 - 88,1
+0021401001,478,1,42,4,9:37 PM,4:07,Larkin 3' Driving Layup (5 PTS) (Aldrich 2 AST),,,87 - 90,3
+0021401001,479,1,1,4,9:37 PM,3:55,,,Leonard 17' Jump Shot (11 PTS) (Duncan 3 AST),89 - 90,1
+0021401001,480,2,1,4,9:38 PM,3:40,MISS Galloway 11' Jump Shot,,,,
+0021401001,481,4,0,4,9:38 PM,3:39,Aldrich REBOUND (Off:2 Def:5),,,,
+0021401001,482,2,4,4,9:38 PM,3:39,MISS Aldrich 3' Tip Shot,,,,
+0021401001,483,4,0,4,9:38 PM,3:38,,,Leonard REBOUND (Off:0 Def:4),,
+0021401001,484,2,1,4,9:38 PM,3:33,,,MISS Parker 9' Jump Shot,,
+0021401001,485,4,0,4,9:38 PM,3:31,Wear REBOUND (Off:0 Def:3),,,,
+0021401001,487,5,11,4,9:38 PM,3:07,KNICKS Turnover: Shot Clock (T#10),,,,
+0021401001,488,9,1,4,9:39 PM,3:07,,,Spurs Timeout: Regular (Reg.4 Short 0),,
+0021401001,491,8,0,4,9:41 PM,3:07,SUB: Amundson FOR Aldrich,,,,
+0021401001,492,8,0,4,9:41 PM,3:07,SUB: Thomas FOR Wear,,,,
+0021401001,493,1,66,4,9:41 PM,2:54,,,Duncan 6' Jump Bank Shot (16 PTS) (Splitter 2 AST),91 - 90,-1
+0021401001,494,1,86,4,9:42 PM,2:29,Smith 9' Turnaround Fadeaway (10 PTS),,,91 - 92,1
+0021401001,496,6,4,4,9:42 PM,2:12,,,Leonard OFF.Foul (P2),,
+0021401001,497,5,5,4,9:42 PM,2:12,,,Leonard Foul Turnover (P2.T9),,
+0021401001,498,7,5,4,9:42 PM,2:02,,,Splitter Violation:Kicked Ball,,
+0021401001,499,5,2,4,9:43 PM,1:49,Galloway Lost Ball Turnover (P2.T11),,Leonard STEAL (1 STL),,
+0021401001,501,7,2,4,9:43 PM,1:40,Amundson Violation:Defensive Goaltending,,,,
+0021401001,500,1,5,4,9:43 PM,1:40,,,Parker 1' Layup (19 PTS),93 - 92,-1
+0021401001,502,9,1,4,9:43 PM,1:40,KNICKS Timeout: Regular (Full 5 Short 2),,,,
+0021401001,506,1,42,4,9:45 PM,1:27,Thomas 2' Driving Layup (8 PTS) (Larkin 2 AST),,,93 - 94,1
+0021401001,507,6,2,4,9:46 PM,1:14,Thomas S.FOUL (P2.T4),,,,
+0021401001,508,3,11,4,9:46 PM,1:14,,,MISS Leonard Free Throw 1 of 2,,
+0021401001,509,4,1,4,9:46 PM,1:14,,,Spurs Rebound,,
+0021401001,510,3,12,4,9:46 PM,1:14,,,Leonard Free Throw 2 of 2 (12 PTS),94 - 94,TIE
+0021401001,512,2,1,4,9:47 PM,0:54,MISS Larkin 25' 3PT Jump Shot,,,,
+0021401001,513,4,0,4,9:47 PM,0:53,,,Parker REBOUND (Off:0 Def:4),,
+0021401001,514,2,1,4,9:47 PM,0:35,,,MISS Parker 21' Jump Shot,,
+0021401001,515,4,0,4,9:47 PM,0:33,,,Splitter REBOUND (Off:7 Def:6),,
+0021401001,516,2,5,4,9:47 PM,0:32,Larkin BLOCK (2 BLK),,MISS Splitter 1' Layup,,
+0021401001,517,4,0,4,9:47 PM,0:31,,,Spurs Rebound,,
+0021401001,518,9,1,4,9:47 PM,0:31,,,Spurs Timeout: Regular (Reg.5 Short 0),,
+0021401001,520,8,0,4,9:49 PM,0:31,,,SUB: Diaw FOR Splitter,,
+0021401001,521,8,0,4,9:49 PM,0:31,SUB: Aldrich FOR Smith,,,,
+0021401001,522,1,1,4,9:50 PM,0:24,,,Belinelli 21' Jump Shot (12 PTS) (Parker 6 AST),96 - 94,-2
+0021401001,523,9,2,4,9:50 PM,0:20,KNICKS Timeout: Short (Full 5 Short 3),,,,
+0021401001,525,8,0,4,9:51 PM,0:20,SUB: Smith FOR Thomas,,,,
+0021401001,526,8,0,4,9:51 PM,0:20,SUB: Shved FOR Aldrich,,,,
+0021401001,527,6,28,4,9:51 PM,0:11,,,Duncan Personal Take Foul (P3.T4),,
+0021401001,528,1,5,4,9:52 PM,0:05,Amundson 1' Layup (11 PTS) (Shved 7 AST),,,96 - 96,TIE
+0021401001,529,9,2,4,9:52 PM,0:05,,,Spurs Timeout: Short (Reg.5 Short 1),,
+0021401001,531,8,0,4,9:53 PM,0:05,SUB: Thomas FOR Shved,,,,
+0021401001,533,2,1,4,9:54 PM,0:03,,,MISS Leonard 18' Jump Shot,,
+0021401001,534,4,0,4,9:54 PM,0:01,,,Diaw REBOUND (Off:1 Def:1),,
+0021401001,535,13,0,4,9:54 PM,0:00,,,,96 - 96,TIE
+0021401001,537,12,0,5,9:57 PM,5:00,,,,96 - 96,TIE
+0021401001,538,10,0,5,9:57 PM,5:00,Jump Ball Amundson vs. Duncan: Tip to Parker,,,,
+0021401001,540,1,1,5,9:57 PM,4:43,,,Parker 9' Jump Shot (21 PTS),98 - 96,-2
+0021401001,542,2,1,5,9:57 PM,4:21,MISS Galloway 26' 3PT Jump Shot,,,,
+0021401001,543,4,0,5,9:58 PM,4:20,Bargnani REBOUND (Off:2 Def:6),,,,
+0021401001,544,1,5,5,9:58 PM,4:16,Bargnani 2' Layup (16 PTS),,,98 - 98,TIE
+0021401001,545,5,1,5,9:58 PM,4:03,,,Parker Bad Pass Turnover (P3.T10),,
+0021401001,546,2,1,5,9:58 PM,3:49,MISS Bargnani 17' Jump Shot,,,,
+0021401001,547,4,0,5,9:58 PM,3:48,,,Leonard REBOUND (Off:0 Def:5),,
+0021401001,548,2,82,5,9:58 PM,3:37,,,MISS Parker 5' Driving Bank Shot,,
+0021401001,549,4,0,5,9:58 PM,3:36,,,Parker REBOUND (Off:1 Def:4),,
+0021401001,550,2,5,5,9:59 PM,3:34,Bargnani BLOCK (3 BLK),,MISS Parker 1' Layup,,
+0021401001,551,4,0,5,9:59 PM,3:33,Galloway REBOUND (Off:0 Def:4),,,,
+0021401001,552,2,1,5,9:59 PM,3:26,MISS Bargnani 12' Jump Shot,,,,
+0021401001,553,4,0,5,9:59 PM,3:25,,,Spurs Rebound,,
+0021401001,554,6,2,5,9:59 PM,3:08,Thomas S.FOUL (P3.T1),,,,
+0021401001,555,3,11,5,9:59 PM,3:08,,,MISS Leonard Free Throw 1 of 2,,
+0021401001,556,4,1,5,9:59 PM,3:08,,,Spurs Rebound,,
+0021401001,557,3,12,5,10:00 PM,3:08,,,Leonard Free Throw 2 of 2 (13 PTS),99 - 98,-1
+0021401001,559,2,44,5,10:00 PM,2:55,MISS Thomas 2' Reverse Layup,,,,
+0021401001,560,4,0,5,10:00 PM,2:54,,,Duncan REBOUND (Off:1 Def:5),,
+0021401001,561,2,1,5,10:00 PM,2:45,,,MISS Leonard 6' Jump Shot,,
+0021401001,562,4,0,5,10:00 PM,2:44,Bargnani REBOUND (Off:2 Def:7),,,,
+0021401001,563,2,1,5,10:01 PM,2:24,MISS Bargnani 4' Jump Shot,,,,
+0021401001,564,4,0,5,10:01 PM,2:23,,,Duncan REBOUND (Off:1 Def:6),,
+0021401001,565,2,5,5,10:01 PM,2:04,,,MISS Duncan 3' Layup,,
+0021401001,566,4,0,5,10:01 PM,2:03,Bargnani REBOUND (Off:2 Def:8),,,,
+0021401001,567,9,1,5,10:01 PM,1:57,KNICKS Timeout: Regular (Full 6 Short 3),,,,
+0021401001,569,8,0,5,10:03 PM,1:57,,,SUB: Belinelli FOR Green,,
+0021401001,571,6,2,5,10:03 PM,1:44,,,Diaw S.FOUL (P2.T1),,
+0021401001,572,3,13,5,10:04 PM,1:44,Shved Free Throw 1 of 3 (18 PTS),,,99 - 99,TIE
+0021401001,576,3,14,5,10:04 PM,1:44,MISS Shved Free Throw 2 of 3,,,,
+0021401001,579,4,0,5,10:04 PM,1:44,KNICKS Rebound,,,,
+0021401001,578,3,15,5,10:04 PM,1:44,Shved Free Throw 3 of 3 (19 PTS),,,99 - 100,1
+0021401001,581,2,78,5,10:05 PM,1:25,,,MISS Parker 8' Floating Jump Shot,,
+0021401001,582,4,0,5,10:05 PM,1:24,,,Duncan REBOUND (Off:2 Def:6),,
+0021401001,583,2,4,5,10:05 PM,1:24,,,MISS Duncan 2' Tip Shot,,
+0021401001,584,4,0,5,10:05 PM,1:23,Amundson REBOUND (Off:7 Def:8),,,,
+0021401001,585,2,1,5,10:05 PM,1:02,MISS Shved 28' 3PT Jump Shot,,,,
+0021401001,586,4,0,5,10:05 PM,1:01,Amundson REBOUND (Off:8 Def:8),,,,
+0021401001,587,5,40,5,10:05 PM,0:41,Amundson Out of Bounds Lost Ball Turnover (P3.T12),,,,
+0021401001,588,18,1,5,10:06 PM,0:41,,,,,
+0021401001,591,5,1,5,10:07 PM,0:28,Thomas STEAL (1 STL),,Leonard Bad Pass Turnover (P3.T11),,
+0021401001,592,5,40,5,10:07 PM,0:26,Thomas Out of Bounds Lost Ball Turnover (P1.T13),,,,
+0021401001,594,18,1,5,10:07 PM,0:26,,,,,
+0021401001,599,8,0,5,10:10 PM,0:26,,,SUB: Green FOR Belinelli,,
+0021401001,596,8,0,5,10:10 PM,0:26,SUB: Smith FOR Bargnani,,,,
+0021401001,600,2,1,5,10:11 PM,0:22,,,MISS Green 25' 3PT Jump Shot,,
+0021401001,601,4,0,5,10:11 PM,0:19,Smith REBOUND (Off:1 Def:4),,,,
+0021401001,604,6,28,5,10:11 PM,0:16,,,Diaw Personal Take Foul (P3.PN),,
+0021401001,605,3,11,5,10:11 PM,0:16,Smith Free Throw 1 of 2 (11 PTS),,,99 - 101,2
+0021401001,606,3,12,5,10:11 PM,0:16,MISS Smith Free Throw 2 of 2,,,,
+0021401001,608,4,0,5,10:11 PM,0:15,,,Parker REBOUND (Off:1 Def:5),,
+0021401001,609,9,1,5,10:12 PM,0:14,,,Spurs Timeout: Regular (Reg.6 Short 1),,
+0021401001,612,6,2,5,10:14 PM,0:09,Amundson S.FOUL (P4.T2),,,,
+0021401001,613,3,11,5,10:14 PM,0:09,,,Duncan Free Throw 1 of 2 (17 PTS),100 - 101,1
+0021401001,615,3,12,5,10:14 PM,0:09,,,MISS Duncan Free Throw 2 of 2,,
+0021401001,617,4,0,5,10:14 PM,0:08,Amundson REBOUND (Off:8 Def:9),,,,
+0021401001,618,6,28,5,10:14 PM,0:08,,,Diaw Personal Take Foul (P4.PN),,
+0021401001,620,3,11,5,10:15 PM,0:08,MISS Amundson Free Throw 1 of 2,,,,
+0021401001,621,4,1,5,10:15 PM,0:08,KNICKS Rebound,,,,
+0021401001,622,8,0,5,10:15 PM,0:08,,,SUB: Splitter FOR Parker,,
+0021401001,624,8,0,5,10:15 PM,0:08,SUB: Aldrich FOR Thomas,,,,
+0021401001,625,3,12,5,10:15 PM,0:08,Amundson Free Throw 2 of 2 (12 PTS),,,100 - 102,2
+0021401001,627,9,2,5,10:15 PM,0:08,,,Spurs Timeout: Short (Reg.6 Short 2),,
+0021401001,630,8,0,5,10:16 PM,0:08,,,SUB: Belinelli FOR Splitter,,
+0021401001,631,8,0,5,10:16 PM,0:08,,,SUB: Parker FOR Diaw,,
+0021401001,629,8,0,5,10:17 PM,0:08,SUB: Thomas FOR Aldrich,,,,
+0021401001,632,8,0,5,10:17 PM,0:08,SUB: Wear FOR Smith,,,,
+0021401001,633,5,1,5,10:17 PM,0:04,Shved STEAL (3 STL),,Duncan Bad Pass Turnover (P1.T12),,
+0021401001,634,6,28,5,10:17 PM,0:03,,,Parker Personal Take Foul (P2.PN),,
+0021401001,635,3,11,5,10:18 PM,0:03,Shved Free Throw 1 of 2 (20 PTS),,,100 - 103,3
+0021401001,638,3,12,5,10:18 PM,0:03,Shved Free Throw 2 of 2 (21 PTS),,,100 - 104,4
+0021401001,640,9,2,5,10:18 PM,0:03,,,Spurs Timeout: Short (Reg.6 Short 3),,
+0021401001,643,8,0,5,10:19 PM,0:03,,,SUB: Diaw FOR Green,,
+0021401001,645,2,1,5,10:20 PM,0:00,,,MISS Parker 25' 3PT Jump Shot,,
+0021401001,646,4,0,5,10:20 PM,0:00,,,Spurs Rebound,,
+0021401001,647,13,0,5,10:20 PM,0:00,,,,100 - 104,4

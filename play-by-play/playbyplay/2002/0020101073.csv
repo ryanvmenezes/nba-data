@@ -1,0 +1,443 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020101073,0,12,0,1,8:11 PM,12:00,,,,,
+0020101073,1,10,0,1,8:12 PM,12:00,Jump Ball Garnett vs. Gasol: Tip to Nesterovic,,,,
+0020101073,2,2,1,1,8:12 PM,11:50,MISS Billups 18' Jump Shot,,,,
+0020101073,3,4,0,1,8:12 PM,11:47,,,Gasol REBOUND (Off:0 Def:1),,
+0020101073,4,2,1,1,8:12 PM,11:30,,,MISS Gasol 7' Jump Shot,,
+0020101073,5,4,0,1,8:12 PM,11:28,,,Grizzlies Rebound,,
+0020101073,6,2,1,1,8:13 PM,11:17,,,MISS Williams 19' Jump Shot,,
+0020101073,7,4,0,1,8:13 PM,11:16,Billups REBOUND (Off:0 Def:1),,,,
+0020101073,8,2,1,1,8:13 PM,11:07,MISS Nesterovic 7' Jump Shot,,Massenburg BLOCK (1 BLK),,
+0020101073,9,4,0,1,8:13 PM,11:05,,,Massenburg REBOUND (Off:0 Def:1),,
+0020101073,10,5,1,1,8:13 PM,10:43,,,Long Bad Pass Turnover (P1.T1),,
+0020101073,11,1,1,1,8:14 PM,10:29,Mitchell 21' Jump Shot (2 PTS) (Garnett 1 AST),,,0 - 2,2
+0020101073,12,2,1,1,8:14 PM,10:16,,,MISS Gasol 6' Jump Shot,,
+0020101073,13,4,0,1,8:14 PM,10:15,Garnett REBOUND (Off:0 Def:1),,,,
+0020101073,14,6,3,1,8:14 PM,10:15,,,Gasol L.B.FOUL (P1.T1),,
+0020101073,15,1,1,1,8:14 PM,10:05,Billups 19' Jump Shot (2 PTS) (Garnett 2 AST),,,0 - 4,4
+0020101073,16,2,1,1,8:14 PM,9:50,,,MISS Williams 17' Jump Shot,,
+0020101073,17,4,0,1,8:14 PM,9:48,Mitchell REBOUND (Off:0 Def:1),,,,
+0020101073,18,2,1,1,8:15 PM,9:40,MISS Garnett 19' Jump Shot,,,,
+0020101073,19,4,0,1,8:15 PM,9:39,,,Long REBOUND (Off:0 Def:1),,
+0020101073,20,2,1,1,8:15 PM,9:33,,,MISS Battier 10' Jump Shot,,
+0020101073,21,4,0,1,8:15 PM,9:32,,,Grizzlies Rebound,,
+0020101073,22,9,2,1,8:15 PM,9:32,,,Grizzlies Timeout: Short (Reg.0 Short 1),,
+0020101073,24,2,1,1,8:16 PM,9:15,,,MISS Massenburg 8' Jump Shot,,
+0020101073,25,4,0,1,8:16 PM,9:13,Nesterovic REBOUND (Off:0 Def:1),,,,
+0020101073,26,2,1,1,8:16 PM,9:08,MISS Mitchell 18' Jump Shot,,,,
+0020101073,27,4,0,1,8:16 PM,9:06,,,Massenburg REBOUND (Off:0 Def:2),,
+0020101073,28,2,1,1,8:16 PM,8:53,,,MISS Battier 19' Jump Shot,,
+0020101073,29,4,0,1,8:16 PM,8:51,Nesterovic REBOUND (Off:0 Def:2),,,,
+0020101073,30,1,1,1,8:17 PM,8:43,Billups 26' 3PT Jump Shot (5 PTS) (Szczerbiak 1 AST),,,0 - 7,7
+0020101073,31,2,1,1,8:17 PM,8:24,,,MISS Long 18' Jump Shot,,
+0020101073,32,4,0,1,8:17 PM,8:22,Garnett REBOUND (Off:0 Def:2),,,,
+0020101073,33,2,1,1,8:17 PM,8:01,MISS Garnett 19' Jump Shot,,,,
+0020101073,34,4,0,1,8:17 PM,7:58,,,Long REBOUND (Off:0 Def:2),,
+0020101073,35,6,1,1,8:18 PM,7:52,Garnett P.FOUL (P1.T1),,,,
+0020101073,36,1,1,1,8:18 PM,7:42,,,Gasol 13' Jump Shot (2 PTS),2 - 7,5
+0020101073,37,2,1,1,8:18 PM,7:29,MISS Szczerbiak 19' Jump Shot,,,,
+0020101073,38,4,0,1,8:18 PM,7:28,,,Massenburg REBOUND (Off:0 Def:3),,
+0020101073,39,1,1,1,8:18 PM,7:21,,,Williams 25' 3PT Jump Shot (3 PTS),5 - 7,2
+0020101073,40,1,1,1,8:19 PM,7:07,Szczerbiak 19' Jump Shot (2 PTS) (Billups 1 AST),,,5 - 9,4
+0020101073,41,2,5,1,8:19 PM,6:40,,,MISS Massenburg  Layup,,
+0020101073,42,4,0,1,8:19 PM,6:39,Garnett REBOUND (Off:0 Def:3),,,,
+0020101073,43,2,1,1,8:19 PM,6:23,MISS Szczerbiak 20' Jump Shot,,,,
+0020101073,44,4,0,1,8:19 PM,6:21,,,Williams REBOUND (Off:0 Def:1),,
+0020101073,45,1,56,1,8:20 PM,6:01,,,Gasol 6' Running Hook Shot (4 PTS) (Long 1 AST),7 - 9,2
+0020101073,46,2,5,1,8:20 PM,5:48,MISS Garnett  Layup,,,,
+0020101073,47,4,0,1,8:20 PM,5:47,Garnett REBOUND (Off:1 Def:3),,,,
+0020101073,48,6,2,1,8:20 PM,5:46,,,Battier S.FOUL (P1.T2),,
+0020101073,49,9,1,1,8:20 PM,5:46,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,
+0020101073,51,8,0,1,8:22 PM,5:46,SUB: Lopez FOR Szczerbiak,,,,
+0020101073,52,8,0,1,8:22 PM,5:46,,,SUB: Swift FOR Massenburg,,
+0020101073,53,3,11,1,8:22 PM,5:46,Garnett Free Throw 1 of 2 (1 PTS),,,7 - 10,3
+0020101073,54,3,12,1,8:23 PM,5:46,Garnett Free Throw 2 of 2 (2 PTS),,,7 - 11,4
+0020101073,55,2,1,1,8:23 PM,5:30,,,MISS Swift 7' Jump Shot,,
+0020101073,57,4,0,1,8:23 PM,5:26,,,Swift REBOUND (Off:1 Def:0),,
+0020101073,56,2,5,1,8:23 PM,5:26,,,MISS Swift  Layup,,
+0020101073,58,4,0,1,8:23 PM,5:25,Nesterovic REBOUND (Off:0 Def:3),,,,
+0020101073,59,6,1,1,8:23 PM,5:14,,,Swift P.FOUL (P1.T3),,
+0020101073,60,1,1,1,8:24 PM,5:09,Mitchell 17' Jump Shot (4 PTS) (Garnett 3 AST),,,7 - 13,6
+0020101073,61,2,1,1,8:24 PM,4:43,,,MISS Gasol 16' Jump Shot,,
+0020101073,62,4,0,1,8:24 PM,4:40,,,Swift REBOUND (Off:2 Def:0),,
+0020101073,63,6,2,1,8:24 PM,4:39,Mitchell S.FOUL (P1.T2),,,,
+0020101073,64,8,0,1,8:24 PM,4:39,,,SUB: Buford FOR Long,,
+0020101073,65,3,11,1,8:25 PM,4:39,,,Swift Free Throw 1 of 2 (1 PTS),8 - 13,5
+0020101073,66,8,0,1,8:25 PM,4:39,SUB: Szczerbiak FOR Mitchell,,,,
+0020101073,67,3,12,1,8:25 PM,4:39,,,Swift Free Throw 2 of 2 (2 PTS),9 - 13,4
+0020101073,68,1,3,1,8:25 PM,4:22,Nesterovic 7' Hook Shot (2 PTS) (Billups 2 AST),,,9 - 15,6
+0020101073,69,2,1,1,8:26 PM,4:01,,,MISS Buford 16' Jump Shot,,
+0020101073,70,4,0,1,8:26 PM,3:59,,,Swift REBOUND (Off:3 Def:0),,
+0020101073,71,1,5,1,8:26 PM,3:57,,,Swift  Layup (4 PTS),11 - 15,4
+0020101073,72,2,3,1,8:26 PM,3:43,MISS Nesterovic 8' Hook Shot,,Swift BLOCK (1 BLK),,
+0020101073,74,4,0,1,8:26 PM,3:42,Garnett REBOUND (Off:2 Def:3),,,,
+0020101073,73,1,8,1,8:26 PM,3:42,Garnett  Slam Dunk (4 PTS),,,11 - 17,6
+0020101073,75,1,52,1,8:26 PM,3:21,,,Swift  Alley Oop Dunk (6 PTS) (Buford 1 AST),13 - 17,4
+0020101073,76,2,1,1,8:27 PM,2:57,MISS Lopez 19' Jump Shot,,,,
+0020101073,77,4,0,1,8:27 PM,2:55,,,Gasol REBOUND (Off:0 Def:2),,
+0020101073,78,6,2,1,8:27 PM,2:49,Szczerbiak S.FOUL (P1.T3),,,,
+0020101073,79,9,1,1,8:27 PM,2:49,,,Grizzlies Timeout: Regular (Reg.1 Short 1),,
+0020101073,81,8,0,1,8:29 PM,2:49,SUB: Peeler FOR Lopez,,,,
+0020101073,82,3,11,1,8:29 PM,2:49,,,Battier Free Throw 1 of 2 (1 PTS),14 - 17,3
+0020101073,83,3,12,1,8:29 PM,2:49,,,MISS Battier Free Throw 2 of 2,,
+0020101073,84,4,0,1,8:29 PM,2:49,Nesterovic REBOUND (Off:0 Def:4),,,,
+0020101073,85,1,5,1,8:30 PM,2:36,Nesterovic  Layup (4 PTS) (Billups 3 AST),,,14 - 19,5
+0020101073,86,2,1,1,8:30 PM,2:14,,,MISS Williams 17' Jump Shot,,
+0020101073,87,4,0,1,8:30 PM,2:13,Garnett REBOUND (Off:2 Def:4),,,,
+0020101073,88,1,5,1,8:30 PM,2:02,Nesterovic  Layup (6 PTS) (Garnett 4 AST),,,14 - 21,7
+0020101073,89,2,5,1,8:30 PM,1:44,Garnett BLOCK (1 BLK),,MISS Swift  Layup,,
+0020101073,90,4,0,1,8:30 PM,1:42,,,Buford REBOUND (Off:1 Def:0),,
+0020101073,91,1,47,1,8:31 PM,1:35,,,Buford 20' Turnaround Jump Shot (2 PTS) (Gasol 1 AST),16 - 21,5
+0020101073,92,2,1,1,8:31 PM,1:18,MISS Garnett 8' Jump Shot,,,,
+0020101073,93,4,0,1,8:31 PM,1:17,,,Swift REBOUND (Off:3 Def:1),,
+0020101073,94,6,1,1,8:31 PM,1:09,Szczerbiak P.FOUL (P2.T4),,,,
+0020101073,95,8,0,1,8:31 PM,1:09,SUB: Lopez FOR Szczerbiak,,,,
+0020101073,96,2,1,1,8:32 PM,0:55,,,MISS Gasol 8' Jump Shot,,
+0020101073,97,4,0,1,8:32 PM,0:54,TIMBERWOLVES Rebound,,,,
+0020101073,98,6,3,1,8:32 PM,0:54,,,Buford L.B.FOUL (P1.T4),,
+0020101073,99,6,4,1,8:32 PM,0:40,Billups OFF.Foul (P1),,,,
+0020101073,100,5,5,1,8:32 PM,0:40,Billups Foul Turnover (P1.T1),,,,
+0020101073,101,1,7,1,8:33 PM,0:23,,,Gasol  Dunk (6 PTS) (Williams 1 AST),18 - 21,3
+0020101073,102,2,1,1,8:33 PM,0:03,MISS Peeler 25' 3PT Jump Shot,,,,
+0020101073,103,4,0,1,8:33 PM,0:01,TIMBERWOLVES Rebound,,,,
+0020101073,104,2,1,1,8:33 PM,0:00,MISS Billups 18' Jump Shot,,,,
+0020101073,105,4,0,1,8:33 PM,0:00,TIMBERWOLVES Rebound,,,,
+0020101073,106,13,0,1,8:33 PM,0:00,,,,18 - 21,3
+0020101073,108,12,0,2,8:36 PM,12:00,,,,18 - 21,3
+0020101073,109,2,1,2,8:36 PM,11:45,,,MISS Battier 18' Jump Shot,,
+0020101073,110,4,0,2,8:36 PM,11:44,Billups REBOUND (Off:0 Def:2),,,,
+0020101073,111,1,59,2,8:36 PM,11:38,Billups  Finger Roll (7 PTS) (Garnett 5 AST),,,18 - 23,5
+0020101073,112,6,4,2,8:37 PM,11:19,,,Massenburg OFF.Foul (P1),,
+0020101073,113,5,5,2,8:37 PM,11:19,,,Massenburg Foul Turnover (P1.T2),,
+0020101073,114,8,0,2,8:37 PM,11:19,SUB: Pack FOR Billups,,,,
+0020101073,115,6,2,2,8:37 PM,11:03,,,Massenburg S.FOUL (P2.T1),,
+0020101073,116,3,11,2,8:38 PM,11:03,Garnett Free Throw 1 of 2 (5 PTS),,,18 - 24,6
+0020101073,118,3,12,2,8:38 PM,11:03,Garnett Free Throw 2 of 2 (6 PTS),,,18 - 25,7
+0020101073,119,6,1,2,8:38 PM,10:53,Pack P.FOUL (P1.T1),,,,
+0020101073,120,2,1,2,8:39 PM,10:48,,,MISS Battier 10' Jump Shot,,
+0020101073,121,4,0,2,8:39 PM,10:47,,,Battier REBOUND (Off:1 Def:0),,
+0020101073,122,2,1,2,8:39 PM,10:46,,,MISS Battier 7' Jump Shot,,
+0020101073,123,4,0,2,8:39 PM,10:44,,,Massenburg REBOUND (Off:1 Def:3),,
+0020101073,124,1,5,2,8:39 PM,10:44,,,Massenburg  Layup (2 PTS),20 - 25,5
+0020101073,125,2,1,2,8:39 PM,10:28,MISS Garnett 5' Jump Shot,,,,
+0020101073,127,4,0,2,8:39 PM,10:26,Garnett REBOUND (Off:3 Def:4),,,,
+0020101073,126,2,4,2,8:39 PM,10:26,MISS Garnett  Tip Shot,,,,
+0020101073,128,4,0,2,8:39 PM,10:24,Garnett REBOUND (Off:4 Def:4),,,,
+0020101073,129,2,1,2,8:39 PM,10:23,MISS Garnett 8' Jump Shot,,,,
+0020101073,130,4,0,2,8:39 PM,10:21,,,Massenburg REBOUND (Off:1 Def:4),,
+0020101073,131,2,1,2,8:39 PM,10:03,,,MISS Williams 17' Jump Shot,,
+0020101073,132,4,0,2,8:39 PM,10:01,Garnett REBOUND (Off:4 Def:5),,,,
+0020101073,133,5,2,2,8:40 PM,9:40,Smith Lost Ball Turnover (P1.T2),,Massenburg STEAL (1 STL),,
+0020101073,134,6,1,2,8:40 PM,9:39,Peeler P.FOUL (P1.T2),,,,
+0020101073,135,8,0,2,8:40 PM,9:39,SUB: Trent FOR Garnett,,,,
+0020101073,136,5,1,2,8:41 PM,9:18,Smith STEAL (1 STL),,Massenburg Bad Pass Turnover (P2.T3),,
+0020101073,137,1,1,2,8:41 PM,9:06,Trent 5' Jump Shot (2 PTS) (Pack 1 AST),,,20 - 27,7
+0020101073,138,6,2,2,8:41 PM,8:49,Trent S.FOUL (P1.T3),,,,
+0020101073,139,9,1,2,8:41 PM,8:49,,,,,
+0020101073,141,8,0,2,8:43 PM,8:49,,,SUB: Long FOR Battier,,
+0020101073,142,3,11,2,8:43 PM,8:49,,,MISS Swift Free Throw 1 of 2,,
+0020101073,143,4,1,2,8:43 PM,8:49,,,Grizzlies Rebound,,
+0020101073,144,3,12,2,8:43 PM,8:49,,,MISS Swift Free Throw 2 of 2,,
+0020101073,145,4,0,2,8:44 PM,8:48,Lopez REBOUND (Off:0 Def:1),,,,
+0020101073,146,1,1,2,8:44 PM,8:35,Trent 17' Jump Shot (4 PTS) (Smith 1 AST),,,20 - 29,9
+0020101073,147,2,1,2,8:44 PM,8:07,,,MISS Williams 21' Jump Shot,,
+0020101073,148,4,0,2,8:44 PM,8:06,Trent REBOUND (Off:0 Def:1),,,,
+0020101073,149,5,11,2,8:45 PM,7:42,TIMBERWOLVES Turnover: Shot Clock (T#3),,,,
+0020101073,150,8,0,2,8:45 PM,7:42,,,SUB: Gasol FOR Swift,,
+0020101073,151,1,1,2,8:46 PM,7:22,,,Buford 16' Jump Shot (4 PTS) (Massenburg 1 AST),22 - 29,7
+0020101073,152,1,1,2,8:46 PM,7:09,Peeler 24' 3PT Jump Shot (3 PTS) (Smith 2 AST),,,22 - 32,10
+0020101073,153,1,1,2,8:46 PM,6:56,,,Buford 20' Jump Shot (6 PTS) (Massenburg 2 AST),24 - 32,8
+0020101073,154,2,1,2,8:47 PM,6:29,MISS Pack 26' 3PT Jump Shot,,,,
+0020101073,155,4,0,2,8:47 PM,6:28,,,Grizzlies Rebound,,
+0020101073,156,8,0,2,8:47 PM,6:28,SUB: Mitchell FOR Lopez,,,,
+0020101073,157,1,1,2,8:47 PM,6:12,,,Williams 25' 3PT Jump Shot (6 PTS),27 - 32,5
+0020101073,158,2,1,2,8:47 PM,5:57,MISS Peeler  3PT Jump Shot,,,,
+0020101073,159,4,0,2,8:47 PM,5:55,Trent REBOUND (Off:1 Def:1),,,,
+0020101073,160,1,1,2,8:47 PM,5:46,Peeler 24' 3PT Jump Shot (6 PTS) (Smith 3 AST),,,27 - 35,8
+0020101073,161,1,1,2,8:48 PM,5:32,,,Williams 24' 3PT Jump Shot (9 PTS) (Gasol 2 AST),30 - 35,5
+0020101073,162,5,1,2,8:48 PM,5:20,Smith Bad Pass Turnover (P2.T4),,,,
+0020101073,163,9,1,2,8:48 PM,5:20,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,
+0020101073,165,8,0,2,8:50 PM,5:20,SUB: Garnett FOR Smith,,,,
+0020101073,166,8,0,2,8:50 PM,5:20,SUB: Billups FOR Pack,,,,
+0020101073,167,1,3,2,8:51 PM,5:00,,,Massenburg 9' Hook Shot (4 PTS),32 - 35,3
+0020101073,168,2,1,2,8:51 PM,4:47,MISS Garnett 11' Jump Shot,,,,
+0020101073,169,4,0,2,8:51 PM,4:46,,,Williams REBOUND (Off:0 Def:2),,
+0020101073,170,1,1,2,8:51 PM,4:37,,,Buford 10' Jump Shot (8 PTS) (Williams 2 AST),34 - 35,1
+0020101073,171,1,1,2,8:51 PM,4:23,Billups 24' 3PT Jump Shot (10 PTS) (Mitchell 1 AST),,,34 - 38,4
+0020101073,172,2,1,2,8:51 PM,4:09,,,MISS Long 19' Jump Shot,,
+0020101073,173,4,0,2,8:51 PM,4:07,Garnett REBOUND (Off:4 Def:6),,,,
+0020101073,174,5,2,2,8:52 PM,4:02,Trent Lost Ball Turnover (P1.T5),,Massenburg STEAL (2 STL),,
+0020101073,175,2,1,2,8:52 PM,3:53,,,MISS Williams 25' 3PT Jump Shot,,
+0020101073,176,4,0,2,8:52 PM,3:52,TIMBERWOLVES Rebound,,,,
+0020101073,177,8,0,2,8:52 PM,3:52,,,SUB: Battier FOR Buford,,
+0020101073,178,8,0,2,8:52 PM,3:52,SUB: Szczerbiak FOR Peeler,,,,
+0020101073,179,8,0,2,8:52 PM,3:52,SUB: Nesterovic FOR Trent,,,,
+0020101073,180,5,1,2,8:52 PM,3:41,Szczerbiak Bad Pass Turnover (P1.T6),,Williams STEAL (1 STL),,
+0020101073,181,1,1,2,8:52 PM,3:32,,,Battier 17' Jump Shot (3 PTS) (Williams 3 AST),36 - 38,2
+0020101073,182,2,1,2,8:53 PM,3:17,MISS Szczerbiak 25' 3PT Jump Shot,,,,
+0020101073,183,4,0,2,8:53 PM,3:15,,,Massenburg REBOUND (Off:1 Def:5),,
+0020101073,184,2,1,2,8:53 PM,3:05,,,MISS Battier 25' 3PT Jump Shot,,
+0020101073,185,4,0,2,8:53 PM,3:03,Garnett REBOUND (Off:4 Def:7),,,,
+0020101073,186,2,1,2,8:53 PM,2:56,MISS Billups 24' 3PT Jump Shot,,,,
+0020101073,187,4,0,2,8:53 PM,2:54,,,Gasol REBOUND (Off:0 Def:3),,
+0020101073,188,1,42,2,8:53 PM,2:48,,,Williams  Driving Layup (11 PTS),38 - 38,TIE
+0020101073,189,9,2,2,8:53 PM,2:41,TIMBERWOLVES Timeout: Short (Full 2 Short 1),,,,
+0020101073,190,9,1,2,8:53 PM,2:41,,,Grizzlies Timeout: Regular (Reg.2 Short 1),,
+0020101073,192,5,13,2,8:56 PM,2:39,Billups Backcourt Turnover (P2.T7),,,,
+0020101073,193,5,1,2,8:56 PM,2:30,Billups STEAL (1 STL),,Williams Bad Pass Turnover (P1.T4),,
+0020101073,194,6,1,2,8:56 PM,2:26,,,Williams P.FOUL (P1.T2),,
+0020101073,195,2,1,2,8:57 PM,2:09,MISS Garnett 13' Jump Shot,,,,
+0020101073,196,4,0,2,8:57 PM,2:08,,,Battier REBOUND (Off:1 Def:1),,
+0020101073,197,6,1,2,8:57 PM,1:58,Szczerbiak P.FOUL (P3.T4),,,,
+0020101073,198,8,0,2,8:57 PM,1:58,SUB: Peeler FOR Szczerbiak,,,,
+0020101073,199,2,5,2,8:58 PM,1:46,Nesterovic BLOCK (1 BLK),,MISS Gasol  Layup,,
+0020101073,200,4,0,2,8:58 PM,1:45,Nesterovic REBOUND (Off:0 Def:5),,,,
+0020101073,201,5,2,2,8:58 PM,1:40,Billups Lost Ball Turnover (P3.T8),,,,
+0020101073,202,2,1,2,8:58 PM,1:30,,,MISS Long 18' Jump Shot,,
+0020101073,203,4,0,2,8:58 PM,1:28,Nesterovic REBOUND (Off:0 Def:6),,,,
+0020101073,204,6,2,2,8:58 PM,1:25,,,Williams S.FOUL (P2.T3),,
+0020101073,205,3,11,2,8:58 PM,1:25,Billups Free Throw 1 of 2 (11 PTS),,,38 - 39,1
+0020101073,206,3,12,2,8:59 PM,1:25,MISS Billups Free Throw 2 of 2,,,,
+0020101073,207,4,0,2,8:59 PM,1:25,,,Gasol REBOUND (Off:0 Def:4),,
+0020101073,208,2,1,2,8:59 PM,1:03,,,MISS Massenburg 6' Jump Shot,,
+0020101073,209,4,0,2,8:59 PM,1:02,Mitchell REBOUND (Off:0 Def:2),,,,
+0020101073,210,2,1,2,8:59 PM,0:54,MISS Peeler 25' 3PT Jump Shot,,,,
+0020101073,211,4,0,2,8:59 PM,0:53,Billups REBOUND (Off:1 Def:2),,,,
+0020101073,212,1,1,2,8:59 PM,0:46,Peeler 26' 3PT Jump Shot (9 PTS) (Mitchell 2 AST),,,38 - 42,4
+0020101073,213,5,1,2,9:00 PM,0:29,Nesterovic STEAL (1 STL),,Long Bad Pass Turnover (P2.T5),,
+0020101073,214,5,1,2,9:00 PM,0:26,Nesterovic Bad Pass Turnover (P1.T9),,Williams STEAL (2 STL),,
+0020101073,215,1,1,2,9:00 PM,0:21,,,Williams 15' Jump Shot (13 PTS),40 - 42,2
+0020101073,216,1,1,2,9:00 PM,0:07,Mitchell 25' 3PT Jump Shot (7 PTS) (Billups 4 AST),,,40 - 45,5
+0020101073,217,2,1,2,9:00 PM,0:01,Nesterovic BLOCK (2 BLK),,MISS Williams 10' Jump Shot,,
+0020101073,218,4,0,2,9:00 PM,0:00,Billups REBOUND (Off:1 Def:3),,,,
+0020101073,219,13,0,2,9:00 PM,0:00,,,,40 - 45,5
+0020101073,221,12,0,3,9:17 PM,12:00,,,,40 - 45,5
+0020101073,222,2,1,3,9:17 PM,11:40,,,MISS Williams 24' 3PT Jump Shot,,
+0020101073,223,4,0,3,9:17 PM,11:38,Billups REBOUND (Off:1 Def:4),,,,
+0020101073,224,1,1,3,9:17 PM,11:32,Garnett 18' Jump Shot (8 PTS) (Billups 5 AST),,,40 - 47,7
+0020101073,225,1,3,3,9:18 PM,11:07,,,Massenburg 6' Hook Shot (6 PTS) (Williams 4 AST),42 - 47,5
+0020101073,226,2,3,3,9:18 PM,10:45,MISS Nesterovic 9' Hook Shot,,,,
+0020101073,227,4,0,3,9:18 PM,10:44,Billups REBOUND (Off:2 Def:4),,,,
+0020101073,228,2,1,3,9:18 PM,10:42,MISS Billups 16' Jump Shot,,,,
+0020101073,229,4,0,3,9:18 PM,10:41,Billups REBOUND (Off:3 Def:4),,,,
+0020101073,230,6,2,3,9:18 PM,10:32,,,Massenburg S.FOUL (P3.T1),,
+0020101073,231,3,11,3,9:19 PM,10:32,Garnett Free Throw 1 of 2 (9 PTS),,,42 - 48,6
+0020101073,232,3,12,3,9:19 PM,10:32,MISS Garnett Free Throw 2 of 2,,,,
+0020101073,233,4,0,3,9:19 PM,10:31,Mitchell REBOUND (Off:1 Def:2),,,,
+0020101073,234,1,1,3,9:19 PM,10:20,Szczerbiak 17' Jump Shot (4 PTS) (Mitchell 3 AST),,,42 - 50,8
+0020101073,235,2,1,3,9:20 PM,10:01,Nesterovic BLOCK (3 BLK),,MISS Gasol 9' Jump Shot,,
+0020101073,236,4,0,3,9:20 PM,9:58,,,Massenburg REBOUND (Off:2 Def:5),,
+0020101073,237,1,7,3,9:20 PM,9:55,,,Massenburg  Dunk (8 PTS),44 - 50,6
+0020101073,238,2,1,3,9:20 PM,9:41,MISS Mitchell 25' 3PT Jump Shot,,Gasol BLOCK (1 BLK),,
+0020101073,239,4,0,3,9:20 PM,9:39,Garnett REBOUND (Off:5 Def:7),,,,
+0020101073,240,1,1,3,9:20 PM,9:37,Mitchell 20' Jump Shot (9 PTS) (Garnett 6 AST),,,44 - 52,8
+0020101073,241,1,1,3,9:21 PM,9:10,,,Gasol 20' Jump Shot (8 PTS) (Williams 5 AST),46 - 52,6
+0020101073,242,1,1,3,9:21 PM,8:53,Billups 26' 3PT Jump Shot (14 PTS) (Nesterovic 1 AST),,,46 - 55,9
+0020101073,243,2,1,3,9:21 PM,8:31,,,MISS Gasol 17' Jump Shot,,
+0020101073,244,4,0,3,9:21 PM,8:29,Billups REBOUND (Off:3 Def:5),,,,
+0020101073,245,6,2,3,9:21 PM,8:21,,,Gasol S.FOUL (P2.T2),,
+0020101073,246,9,1,3,9:22 PM,8:21,,,Grizzlies Timeout: Regular (Reg.3 Short 1),,
+0020101073,248,3,11,3,9:24 PM,8:21,Szczerbiak Free Throw 1 of 2 (5 PTS),,,46 - 56,10
+0020101073,249,3,12,3,9:24 PM,8:21,MISS Szczerbiak Free Throw 2 of 2,,,,
+0020101073,250,4,0,3,9:24 PM,8:21,,,Massenburg REBOUND (Off:2 Def:6),,
+0020101073,251,1,1,3,9:24 PM,8:07,,,Williams 19' Jump Shot (15 PTS),48 - 56,8
+0020101073,252,1,1,3,9:25 PM,7:52,Nesterovic 8' Jump Shot (8 PTS),,,48 - 58,10
+0020101073,253,6,4,3,9:25 PM,7:36,,,Massenburg OFF.Foul (P4),,
+0020101073,254,5,5,3,9:25 PM,7:36,,,Massenburg Foul Turnover (P3.T6),,
+0020101073,255,8,0,3,9:25 PM,7:36,,,SUB: Swift FOR Massenburg,,
+0020101073,256,2,1,3,9:26 PM,7:28,MISS Szczerbiak 17' Jump Shot,,,,
+0020101073,258,4,0,3,9:26 PM,7:26,Nesterovic REBOUND (Off:1 Def:6),,,,
+0020101073,257,1,4,3,9:26 PM,7:26,Nesterovic  Tip Shot (10 PTS),,,48 - 60,12
+0020101073,259,2,1,3,9:26 PM,7:13,,,MISS Swift 17' Jump Shot,,
+0020101073,260,4,0,3,9:26 PM,7:08,Billups REBOUND (Off:3 Def:6),,,,
+0020101073,261,2,3,3,9:26 PM,7:01,MISS Nesterovic 6' Hook Shot,,Swift BLOCK (2 BLK),,
+0020101073,262,4,0,3,9:26 PM,6:59,,,Battier REBOUND (Off:1 Def:2),,
+0020101073,263,5,3,3,9:26 PM,6:52,,,Long Out Of Bounds Turnover (P3.T7),,
+0020101073,264,1,47,3,9:27 PM,6:39,Garnett 13' Turnaround Jump Shot (11 PTS) (Billups 6 AST),,,48 - 62,14
+0020101073,265,2,1,3,9:27 PM,6:13,,,MISS Battier 21' Jump Shot,,
+0020101073,266,4,0,3,9:27 PM,6:12,Billups REBOUND (Off:3 Def:7),,,,
+0020101073,267,2,1,3,9:27 PM,6:05,MISS Szczerbiak 21' Jump Shot,,,,
+0020101073,268,4,0,3,9:27 PM,6:03,Garnett REBOUND (Off:6 Def:7),,,,
+0020101073,269,2,5,3,9:27 PM,6:02,MISS Szczerbiak  Layup,,Swift BLOCK (3 BLK),,
+0020101073,270,4,0,3,9:27 PM,6:00,Szczerbiak REBOUND (Off:1 Def:0),,,,
+0020101073,271,2,1,3,9:27 PM,5:43,MISS Billups  3PT Jump Shot,,,,
+0020101073,272,4,0,3,9:27 PM,5:42,,,Grizzlies Rebound,,
+0020101073,274,1,8,3,9:28 PM,5:29,,,Swift  Slam Dunk (8 PTS) (Williams 6 AST),50 - 62,12
+0020101073,276,2,5,3,9:28 PM,5:07,MISS Nesterovic  Layup,,,,
+0020101073,277,4,0,3,9:28 PM,5:03,,,Williams REBOUND (Off:0 Def:3),,
+0020101073,278,2,5,3,9:28 PM,4:58,,,MISS Long  Layup,,
+0020101073,280,4,0,3,9:28 PM,4:57,,,Gasol REBOUND (Off:1 Def:4),,
+0020101073,279,1,4,3,9:28 PM,4:57,,,Gasol  Tip Shot (10 PTS),52 - 62,10
+0020101073,281,6,1,3,9:29 PM,4:40,,,Long P.FOUL (P1.T3),,
+0020101073,282,8,0,3,9:29 PM,4:40,,,SUB: Buford FOR Long,,
+0020101073,283,8,0,3,9:29 PM,4:33,SUB: Lopez FOR Mitchell,,,,
+0020101073,284,5,1,3,9:30 PM,4:29,Billups Bad Pass Turnover (P4.T10),,Swift STEAL (1 STL),,
+0020101073,285,2,1,3,9:30 PM,4:19,Nesterovic BLOCK (4 BLK),,MISS Gasol 8' Jump Shot,,
+0020101073,286,4,0,3,9:30 PM,4:17,TIMBERWOLVES Rebound,,,,
+0020101073,287,2,1,3,9:30 PM,4:00,MISS Garnett 6' Jump Shot,,,,
+0020101073,288,4,0,3,9:30 PM,3:58,,,Gasol REBOUND (Off:1 Def:5),,
+0020101073,289,5,1,3,9:31 PM,3:42,,,Swift Bad Pass Turnover (P1.T8),,
+0020101073,290,9,1,3,9:31 PM,3:42,TIMBERWOLVES Timeout: Regular (Full 3 Short 1),,,,
+0020101073,292,2,1,3,9:33 PM,3:32,MISS Nesterovic 7' Jump Shot,,,,
+0020101073,293,4,0,3,9:33 PM,3:30,,,Buford REBOUND (Off:1 Def:1),,
+0020101073,294,2,1,3,9:33 PM,3:11,,,MISS Swift 5' Jump Shot,,
+0020101073,295,4,0,3,9:33 PM,3:09,,,Gasol REBOUND (Off:2 Def:5),,
+0020101073,296,1,3,3,9:33 PM,3:08,,,Gasol 7' Hook Shot (12 PTS),54 - 62,8
+0020101073,297,1,1,3,9:34 PM,2:55,Billups 19' Jump Shot (16 PTS) (Garnett 7 AST),,,54 - 64,10
+0020101073,298,2,1,3,9:34 PM,2:37,Nesterovic BLOCK (5 BLK),,MISS Williams 6' Jump Shot,,
+0020101073,299,4,0,3,9:34 PM,2:35,Garnett REBOUND (Off:6 Def:8),,,,
+0020101073,300,2,5,3,9:34 PM,2:33,MISS Lopez  Layup,,Battier BLOCK (1 BLK),,
+0020101073,301,4,0,3,9:34 PM,2:31,Szczerbiak REBOUND (Off:2 Def:0),,,,
+0020101073,302,1,1,3,9:34 PM,2:30,Szczerbiak 10' Jump Shot (7 PTS),,,54 - 66,12
+0020101073,303,2,1,3,9:34 PM,2:07,,,MISS Buford 16' Jump Shot,,
+0020101073,304,4,0,3,9:34 PM,2:06,Nesterovic REBOUND (Off:1 Def:7),,,,
+0020101073,305,1,1,3,9:35 PM,1:54,Billups 17' Jump Shot (18 PTS),,,54 - 68,14
+0020101073,306,9,2,3,9:35 PM,1:48,,,Grizzlies Timeout: Short (Reg.3 Short 2),,
+0020101073,308,1,3,3,9:36 PM,1:36,,,Buford 8' Hook Shot (10 PTS) (Williams 7 AST),56 - 68,12
+0020101073,309,6,2,3,9:36 PM,1:13,,,Battier S.FOUL (P2.T4),,
+0020101073,310,8,0,3,9:37 PM,1:13,SUB: Trent FOR Garnett,,,,
+0020101073,311,3,11,3,9:37 PM,1:13,Szczerbiak Free Throw 1 of 2 (8 PTS),,,56 - 69,13
+0020101073,312,3,12,3,9:37 PM,1:13,Szczerbiak Free Throw 2 of 2 (9 PTS),,,56 - 70,14
+0020101073,313,2,1,3,9:38 PM,0:58,,,MISS Buford 20' Jump Shot,,
+0020101073,314,4,0,3,9:38 PM,0:56,Nesterovic REBOUND (Off:1 Def:8),,,,
+0020101073,315,2,5,3,9:38 PM,0:51,MISS Szczerbiak  Layup,,Buford BLOCK (1 BLK),,
+0020101073,316,4,0,3,9:38 PM,0:50,,,Buford REBOUND (Off:1 Def:2),,
+0020101073,317,2,1,3,9:38 PM,0:42,,,MISS Buford  3PT Jump Shot,,
+0020101073,318,4,0,3,9:38 PM,0:40,,,Swift REBOUND (Off:4 Def:1),,
+0020101073,319,2,1,3,9:38 PM,0:40,,,MISS Swift 11' Jump Shot,,
+0020101073,320,4,0,3,9:38 PM,0:39,,,Gasol REBOUND (Off:3 Def:5),,
+0020101073,321,6,2,3,9:38 PM,0:38,Trent S.FOUL (P2.T1),,,,
+0020101073,322,8,0,3,9:39 PM,0:38,,,SUB: Solomon FOR Williams,,
+0020101073,323,8,0,3,9:39 PM,0:38,SUB: Peeler FOR Szczerbiak,,,,
+0020101073,324,3,11,3,9:39 PM,0:38,,,MISS Gasol Free Throw 1 of 2,,
+0020101073,325,4,1,3,9:39 PM,0:38,,,Grizzlies Rebound,,
+0020101073,326,3,12,3,9:39 PM,0:38,,,Gasol Free Throw 2 of 2 (13 PTS),57 - 70,13
+0020101073,327,2,1,3,9:39 PM,0:28,MISS Billups 26' 3PT Jump Shot,,,,
+0020101073,328,4,0,3,9:39 PM,0:26,Trent REBOUND (Off:2 Def:1),,,,
+0020101073,329,2,1,3,9:39 PM,0:22,MISS Peeler 24' 3PT Jump Shot,,,,
+0020101073,330,4,0,3,9:39 PM,0:21,Nesterovic REBOUND (Off:2 Def:8),,,,
+0020101073,331,5,1,3,9:39 PM,0:03,Trent Bad Pass Turnover (P2.T11),,Battier STEAL (1 STL),,
+0020101073,332,2,1,3,9:40 PM,0:01,,,MISS Battier 40' 3PT Jump Shot,,
+0020101073,333,4,0,3,9:40 PM,0:00,,,Grizzlies Rebound,,
+0020101073,334,13,0,3,9:40 PM,0:00,,,,57 - 70,13
+0020101073,336,12,0,4,9:42 PM,12:00,,,,57 - 70,13
+0020101073,337,2,5,4,9:42 PM,11:47,MISS Trent  Layup,,,,
+0020101073,338,4,0,4,9:42 PM,11:45,,,Battier REBOUND (Off:1 Def:3),,
+0020101073,339,6,1,4,9:43 PM,11:31,Nesterovic P.FOUL (P1.T1),,,,
+0020101073,340,8,0,4,9:43 PM,11:31,SUB: Smith FOR Nesterovic,,,,
+0020101073,341,1,7,4,9:43 PM,11:24,,,Swift  Dunk (10 PTS) (Gasol 3 AST),59 - 70,11
+0020101073,342,6,2,4,9:43 PM,11:24,Peeler S.FOUL (P2.T2),,,,
+0020101073,343,3,10,4,9:43 PM,11:24,,,Swift Free Throw 1 of 1 (11 PTS),60 - 70,10
+0020101073,344,1,44,4,9:44 PM,11:14,Billups  Reverse Layup (20 PTS),,,60 - 72,12
+0020101073,345,2,5,4,9:44 PM,10:57,Szczerbiak BLOCK (1 BLK),,MISS Battier  Layup,,
+0020101073,347,4,0,4,9:44 PM,10:54,,,Battier REBOUND (Off:2 Def:3),,
+0020101073,346,1,5,4,9:44 PM,10:54,,,Battier  Layup (5 PTS),62 - 72,10
+0020101073,348,2,1,4,9:44 PM,10:37,MISS Peeler 21' Jump Shot,,,,
+0020101073,349,4,0,4,9:44 PM,10:36,,,Buford REBOUND (Off:1 Def:3),,
+0020101073,352,6,2,4,9:45 PM,10:19,Smith S.FOUL (P1.T3),,,,
+0020101073,353,3,11,4,9:45 PM,10:19,,,Gasol Free Throw 1 of 2 (14 PTS),63 - 72,9
+0020101073,354,3,12,4,9:45 PM,10:19,,,Gasol Free Throw 2 of 2 (15 PTS),64 - 72,8
+0020101073,355,2,1,4,9:46 PM,10:07,MISS Billups 20' Jump Shot,,,,
+0020101073,356,4,0,4,9:46 PM,10:06,,,Buford REBOUND (Off:1 Def:4),,
+0020101073,357,2,5,4,9:46 PM,9:51,,,MISS Gasol  Layup,,
+0020101073,358,4,0,4,9:46 PM,9:50,,,Swift REBOUND (Off:5 Def:1),,
+0020101073,359,6,2,4,9:46 PM,9:49,Trent S.FOUL (P3.T4),,,,
+0020101073,360,9,1,4,9:46 PM,9:49,TIMBERWOLVES Timeout: Regular (Full 4 Short 1),,,,
+0020101073,362,8,0,4,9:48 PM,9:49,SUB: Garnett FOR Szczerbiak,,,,
+0020101073,363,3,11,4,9:48 PM,9:49,,,MISS Swift Free Throw 1 of 2,,
+0020101073,364,4,1,4,9:48 PM,9:49,,,Grizzlies Rebound,,
+0020101073,365,3,12,4,9:49 PM,9:49,,,Swift Free Throw 2 of 2 (12 PTS),65 - 72,7
+0020101073,366,2,1,4,9:49 PM,9:36,MISS Garnett 19' Jump Shot,,,,
+0020101073,367,4,0,4,9:49 PM,9:34,,,Buford REBOUND (Off:1 Def:5),,
+0020101073,368,2,5,4,9:49 PM,9:16,Smith BLOCK (1 BLK),,MISS Buford  Layup,,
+0020101073,369,4,0,4,9:49 PM,9:13,Smith REBOUND (Off:0 Def:1),,,,
+0020101073,370,6,11,4,9:50 PM,9:10,,,Buford T.FOUL (P1.T0),,
+0020101073,371,3,16,4,9:50 PM,9:10,Billups Free Throw Technical (21 PTS),,,65 - 73,8
+0020101073,372,2,1,4,9:50 PM,8:57,MISS Trent 18' Jump Shot,,,,
+0020101073,373,4,0,4,9:50 PM,8:55,,,Buford REBOUND (Off:1 Def:6),,
+0020101073,375,2,1,4,9:51 PM,8:45,,,MISS Swift 13' Jump Shot,,
+0020101073,376,4,0,4,9:51 PM,8:43,Trent REBOUND (Off:2 Def:2),,,,
+0020101073,377,2,1,4,9:51 PM,8:33,MISS Garnett 13' Jump Shot,,,,
+0020101073,379,4,0,4,9:51 PM,8:30,Trent REBOUND (Off:3 Def:2),,,,
+0020101073,378,1,5,4,9:51 PM,8:30,Trent  Layup (6 PTS),,,65 - 75,10
+0020101073,380,2,1,4,9:51 PM,8:13,,,MISS Gasol 13' Jump Shot,,
+0020101073,381,4,0,4,9:51 PM,8:10,Garnett REBOUND (Off:6 Def:9),,,,
+0020101073,382,2,1,4,9:51 PM,8:03,MISS Garnett 19' Jump Shot,,,,
+0020101073,383,4,0,4,9:51 PM,8:01,,,Buford REBOUND (Off:1 Def:7),,
+0020101073,384,2,5,4,9:51 PM,7:44,Garnett BLOCK (2 BLK),,MISS Battier  Layup,,
+0020101073,385,4,0,4,9:52 PM,7:43,Trent REBOUND (Off:3 Def:3),,,,
+0020101073,386,6,11,4,9:52 PM,7:29,,,,,
+0020101073,387,3,16,4,9:52 PM,7:29,Billups Free Throw Technical (22 PTS),,,65 - 76,11
+0020101073,388,8,0,4,9:52 PM,7:29,SUB: Pack FOR Billups,,,,
+0020101073,389,8,0,4,9:52 PM,7:29,,,SUB: Williams FOR Solomon,,
+0020101073,390,2,1,4,9:53 PM,7:19,MISS Trent 16' Jump Shot,,,,
+0020101073,391,4,0,4,9:53 PM,7:19,TIMBERWOLVES Rebound,,,,
+0020101073,392,5,11,4,9:53 PM,7:19,TIMBERWOLVES Turnover: Shot Clock (T#12),,,,
+0020101073,393,1,8,4,9:53 PM,7:05,,,Buford  Slam Dunk (12 PTS) (Swift 1 AST),67 - 76,9
+0020101073,394,2,1,4,9:54 PM,6:48,MISS Peeler 25' 3PT Jump Shot,,,,
+0020101073,395,4,0,4,9:54 PM,6:45,,,Gasol REBOUND (Off:3 Def:6),,
+0020101073,396,6,1,4,9:54 PM,6:37,Garnett P.FOUL (P2.PN),,,,
+0020101073,397,8,0,4,9:54 PM,6:37,SUB: Szczerbiak FOR Peeler,,,,
+0020101073,398,3,11,4,9:54 PM,6:37,,,MISS Gasol Free Throw 1 of 2,,
+0020101073,399,4,1,4,9:54 PM,6:37,,,Grizzlies Rebound,,
+0020101073,400,3,12,4,9:54 PM,6:37,,,Gasol Free Throw 2 of 2 (16 PTS),68 - 76,8
+0020101073,401,2,1,4,9:55 PM,6:14,MISS Garnett 9' Jump Shot,,,,
+0020101073,402,4,0,4,9:55 PM,6:11,,,Buford REBOUND (Off:1 Def:8),,
+0020101073,403,1,46,4,9:55 PM,5:58,,,Swift 8' Running Jump Shot (14 PTS),70 - 76,6
+0020101073,404,2,1,4,9:55 PM,5:42,MISS Smith 12' Jump Shot,,,,
+0020101073,405,4,0,4,9:55 PM,5:40,,,Gasol REBOUND (Off:3 Def:7),,
+0020101073,406,2,1,4,9:56 PM,5:33,,,MISS Williams 25' 3PT Jump Shot,,
+0020101073,407,4,0,4,9:56 PM,5:31,Trent REBOUND (Off:3 Def:4),,,,
+0020101073,408,9,2,4,9:56 PM,5:24,TIMBERWOLVES Timeout: Short (Full 4 Short 2),,,,
+0020101073,409,9,1,4,9:56 PM,5:24,,,,,
+0020101073,411,8,0,4,9:57 PM,5:24,SUB: Mitchell FOR Smith,,,,
+0020101073,412,8,0,4,9:57 PM,5:24,SUB: Nesterovic FOR Trent,,,,
+0020101073,414,8,0,4,9:57 PM,5:24,SUB: Billups FOR Pack,,,,
+0020101073,413,1,1,4,9:59 PM,5:13,Billups 18' Jump Shot (24 PTS) (Garnett 8 AST),,,70 - 78,8
+0020101073,415,2,1,4,9:59 PM,4:52,,,MISS Gasol 16' Jump Shot,,
+0020101073,416,4,0,4,9:59 PM,4:51,Nesterovic REBOUND (Off:2 Def:9),,,,
+0020101073,417,2,1,4,9:59 PM,4:46,MISS Szczerbiak 20' Jump Shot,,,,
+0020101073,418,4,0,4,9:59 PM,4:44,,,Battier REBOUND (Off:2 Def:4),,
+0020101073,419,6,1,4,9:59 PM,4:44,Mitchell P.FOUL (P2.PN),,,,
+0020101073,420,3,11,4,10:00 PM,4:44,,,Battier Free Throw 1 of 2 (6 PTS),71 - 78,7
+0020101073,421,3,12,4,10:00 PM,4:44,,,Battier Free Throw 2 of 2 (7 PTS),72 - 78,6
+0020101073,422,2,1,4,10:00 PM,4:24,MISS Mitchell 9' Jump Shot,,,,
+0020101073,423,4,0,4,10:00 PM,4:22,,,Gasol REBOUND (Off:3 Def:8),,
+0020101073,424,6,2,4,10:01 PM,4:02,Garnett S.FOUL (P3.PN),,,,
+0020101073,425,3,11,4,10:01 PM,4:02,,,Gasol Free Throw 1 of 2 (17 PTS),73 - 78,5
+0020101073,426,3,12,4,10:01 PM,4:02,,,Gasol Free Throw 2 of 2 (18 PTS),74 - 78,4
+0020101073,427,2,1,4,10:02 PM,3:49,MISS Garnett 7' Jump Shot,,Gasol BLOCK (2 BLK),,
+0020101073,428,4,0,4,10:02 PM,3:48,Garnett REBOUND (Off:7 Def:9),,,,
+0020101073,429,6,2,4,10:02 PM,3:47,,,Battier S.FOUL (P3.T1),,
+0020101073,430,3,11,4,10:02 PM,3:47,Garnett Free Throw 1 of 2 (12 PTS),,,74 - 79,5
+0020101073,431,3,12,4,10:02 PM,3:47,MISS Garnett Free Throw 2 of 2,,,,
+0020101073,432,4,0,4,10:03 PM,3:45,,,Swift REBOUND (Off:5 Def:2),,
+0020101073,433,2,1,4,10:03 PM,3:33,,,MISS Battier 25' 3PT Jump Shot,,
+0020101073,434,4,0,4,10:03 PM,3:32,Billups REBOUND (Off:3 Def:8),,,,
+0020101073,435,1,1,4,10:03 PM,3:16,Szczerbiak  3PT Jump Shot (12 PTS) (Billups 7 AST),,,74 - 82,8
+0020101073,436,9,1,4,10:03 PM,3:12,,,Grizzlies Timeout: Regular (Reg.4 Short 2),,
+0020101073,438,2,1,4,10:06 PM,2:55,,,MISS Gasol 11' Jump Shot,,
+0020101073,439,4,0,4,10:06 PM,2:53,Nesterovic REBOUND (Off:2 Def:10),,,,
+0020101073,440,2,1,4,10:06 PM,2:31,MISS Garnett 15' Jump Shot,,,,
+0020101073,441,4,0,4,10:06 PM,2:30,,,Swift REBOUND (Off:5 Def:3),,
+0020101073,442,5,1,4,10:06 PM,2:22,Garnett STEAL (1 STL),,Buford Bad Pass Turnover (P1.T9),,
+0020101073,443,1,42,4,10:06 PM,2:17,Szczerbiak  Driving Layup (14 PTS) (Billups 8 AST),,,74 - 84,10
+0020101073,444,6,2,4,10:07 PM,1:57,Nesterovic S.FOUL (P2.PN),,,,
+0020101073,445,3,11,4,10:07 PM,1:57,,,Swift Free Throw 1 of 2 (15 PTS),75 - 84,9
+0020101073,446,3,12,4,10:07 PM,1:57,,,Swift Free Throw 2 of 2 (16 PTS),76 - 84,8
+0020101073,447,1,1,4,10:08 PM,1:41,Billups 19' Jump Shot (26 PTS),,,76 - 86,10
+0020101073,448,1,1,4,10:08 PM,1:33,,,Williams 16' Jump Shot (17 PTS),78 - 86,8
+0020101073,449,2,1,4,10:08 PM,1:14,MISS Mitchell 21' Jump Shot,,,,
+0020101073,450,4,0,4,10:08 PM,1:13,Garnett REBOUND (Off:8 Def:9),,,,
+0020101073,451,6,1,4,10:08 PM,1:00,,,Williams P.FOUL (P3.T2),,
+0020101073,452,1,1,4,10:09 PM,0:49,Garnett 17' Jump Shot (14 PTS) (Billups 9 AST),,,78 - 88,10
+0020101073,453,9,1,4,10:09 PM,0:49,,,Grizzlies Timeout: Regular (Reg.5 Short 2),,
+0020101073,455,8,0,4,10:11 PM,0:49,SUB: Lopez FOR Nesterovic,,,,
+0020101073,456,8,0,4,10:11 PM,0:49,,,SUB: Solomon FOR Gasol,,
+0020101073,457,5,3,4,10:12 PM,0:44,,,Battier Out Of Bounds Turnover (P1.T10),,
+0020101073,458,1,5,4,10:12 PM,0:34,Garnett  Layup (16 PTS) (Szczerbiak 2 AST),,,78 - 90,12
+0020101073,459,2,1,4,10:13 PM,0:27,,,MISS Buford 25' 3PT Jump Shot,,
+0020101073,460,4,0,4,10:13 PM,0:26,Mitchell REBOUND (Off:1 Def:3),,,,
+0020101073,461,1,1,4,10:13 PM,0:13,Garnett 20' Jump Shot (18 PTS) (Billups 10 AST),,,78 - 92,14
+0020101073,463,1,1,4,10:13 PM,0:00,,,Battier 25' 3PT Jump Shot (10 PTS) (Solomon 1 AST),81 - 92,11
+0020101073,465,13,0,4,10:13 PM,0:00,,,,81 - 92,11

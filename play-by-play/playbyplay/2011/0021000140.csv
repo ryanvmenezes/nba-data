@@ -1,0 +1,420 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000140,0,12,0,1,6:13 PM,12:00,,,,,
+0021000140,1,10,0,1,6:14 PM,12:00,Jump Ball Dalembert vs. Wallace: Tip to Udrih,,,,
+0021000140,2,2,1,1,6:14 PM,11:44,MISS Landry 8' Jump Shot,,,,
+0021000140,3,4,0,1,6:14 PM,11:43,Landry REBOUND (Off:1 Def:0),,,,
+0021000140,4,1,65,1,6:14 PM,11:39,Landry 6' Jump Hook Shot (2 PTS),,,0 - 2,2
+0021000140,5,2,1,1,6:15 PM,11:20,,,MISS Hamilton 13' Jump Shot,,
+0021000140,6,4,0,1,6:15 PM,11:18,Dalembert REBOUND (Off:0 Def:1),,,,
+0021000140,7,2,1,1,6:15 PM,11:04,MISS Evans 25' 3PT Jump Shot,,,,
+0021000140,9,4,0,1,6:15 PM,11:02,Dalembert REBOUND (Off:1 Def:1),,,,
+0021000140,8,1,4,1,6:15 PM,11:02,Dalembert 1' Tip Shot (2 PTS),,,0 - 4,4
+0021000140,10,1,5,1,6:15 PM,10:35,,,Maxiell 3' Layup (2 PTS) (Stuckey 1 AST),2 - 4,2
+0021000140,11,1,80,1,6:16 PM,10:18,Evans 18' Step Back Jump Shot (2 PTS),,,2 - 6,4
+0021000140,12,6,2,1,6:16 PM,10:12,Evans S.FOUL (P1.T1),,,,
+0021000140,13,3,11,1,6:16 PM,10:12,,,Stuckey Free Throw 1 of 2 (1 PTS),3 - 6,3
+0021000140,15,3,12,1,6:16 PM,10:12,,,Stuckey Free Throw 2 of 2 (2 PTS),4 - 6,2
+0021000140,17,2,63,1,6:17 PM,9:54,MISS Casspi 15' Fadeaway Jumper,,,,
+0021000140,18,4,0,1,6:17 PM,9:53,,,Pistons Rebound,,
+0021000140,19,7,1,1,6:17 PM,9:53,KINGS Violation: Delay of game Violation,,,,
+0021000140,20,2,1,1,6:17 PM,9:34,,,MISS Hamilton 17' Jump Shot,,
+0021000140,21,4,0,1,6:17 PM,9:34,Casspi REBOUND (Off:0 Def:1),,,,
+0021000140,22,5,1,1,6:18 PM,9:22,Evans Bad Pass Turnover (P1.T1),,Stuckey STEAL (1 STL),,
+0021000140,23,1,7,1,6:18 PM,9:19,,,Prince  Dunk (2 PTS) (Stuckey 2 AST),6 - 6,TIE
+0021000140,24,2,65,1,6:18 PM,8:53,MISS Dalembert 8' Jump Hook Shot,,,,
+0021000140,25,4,0,1,6:18 PM,8:52,,,Maxiell REBOUND (Off:0 Def:1),,
+0021000140,26,1,5,1,6:18 PM,8:47,,,Stuckey 2' Layup (4 PTS) (Hamilton 1 AST),8 - 6,-2
+0021000140,27,2,1,1,6:18 PM,8:38,MISS Udrih 18' Jump Shot,,,,
+0021000140,28,4,0,1,6:18 PM,8:37,,,Maxiell REBOUND (Off:0 Def:2),,
+0021000140,29,5,1,1,6:19 PM,8:15,,,Hamilton Bad Pass Turnover (P1.T1),,
+0021000140,30,2,1,1,6:19 PM,7:51,MISS Udrih 25' 3PT Jump Shot,,,,
+0021000140,31,4,0,1,6:19 PM,7:50,,,Wallace REBOUND (Off:0 Def:1),,
+0021000140,33,1,1,1,6:20 PM,7:27,,,Hamilton 9' Jump Shot (2 PTS),10 - 6,-4
+0021000140,34,1,1,1,6:20 PM,7:10,Landry 17' Jump Shot (4 PTS),,,10 - 8,-2
+0021000140,35,5,1,1,6:21 PM,6:52,Casspi STEAL (1 STL),,Stuckey Bad Pass Turnover (P1.T2),,
+0021000140,36,2,1,1,6:21 PM,6:43,MISS Casspi 7' Jump Shot,,,,
+0021000140,38,4,0,1,6:21 PM,6:42,Dalembert REBOUND (Off:2 Def:1),,,,
+0021000140,37,1,4,1,6:21 PM,6:42,Dalembert 1' Tip Shot (4 PTS),,,10 - 10,TIE
+0021000140,39,1,42,1,6:21 PM,6:27,,,Hamilton 2' Driving Layup (4 PTS) (Maxiell 1 AST),12 - 10,-2
+0021000140,40,2,1,1,6:21 PM,6:14,MISS Evans 20' Jump Shot,,,,
+0021000140,41,4,0,1,6:21 PM,6:14,,,Maxiell REBOUND (Off:0 Def:3),,
+0021000140,42,2,1,1,6:21 PM,6:09,,,MISS Stuckey 4' Jump Shot,,
+0021000140,43,4,0,1,6:21 PM,6:07,,,Stuckey REBOUND (Off:1 Def:0),,
+0021000140,44,1,47,1,6:22 PM,5:50,,,Hamilton 16' Turnaround Jump Shot (6 PTS) (Stuckey 3 AST),14 - 10,-4
+0021000140,45,1,1,1,6:22 PM,5:33,Casspi 24' 3PT Jump Shot (3 PTS) (Udrih 1 AST),,,14 - 13,-1
+0021000140,46,1,1,1,6:22 PM,5:08,,,Hamilton 17' Jump Shot (8 PTS),16 - 13,-3
+0021000140,47,7,5,1,6:23 PM,4:51,,,Wallace Violation:Kicked Ball,,
+0021000140,49,9,1,1,6:24 PM,4:51,KINGS Timeout: Regular (Full 1 Short 0),,,,
+0021000140,52,8,0,1,6:25 PM,4:51,SUB: Head FOR Udrih,,,,
+0021000140,51,8,0,1,6:25 PM,4:51,SUB: Cousins FOR Dalembert,,,,
+0021000140,53,1,42,1,6:26 PM,4:42,Head 2' Driving Layup (2 PTS),,,16 - 15,-1
+0021000140,54,2,1,1,6:26 PM,4:23,,,MISS Hamilton 12' Jump Shot,,
+0021000140,55,4,0,1,6:26 PM,4:23,,,Pistons Rebound,,
+0021000140,56,8,0,1,6:26 PM,4:23,,,SUB: McGrady FOR Prince,,
+0021000140,57,2,1,1,6:26 PM,4:21,,,MISS Hamilton 5' Jump Shot,,
+0021000140,58,4,0,1,6:26 PM,4:19,Casspi REBOUND (Off:0 Def:2),,,,
+0021000140,59,5,1,1,6:27 PM,4:03,Casspi Bad Pass Turnover (P1.T2),,McGrady STEAL (1 STL),,
+0021000140,60,1,5,1,6:27 PM,3:59,,,Stuckey 2' Layup (6 PTS),18 - 15,-3
+0021000140,61,5,8,1,6:27 PM,3:46,Cousins 3 Second Violation Turnover (P1.T3),,,,
+0021000140,62,1,65,1,6:28 PM,3:23,,,Wallace 6' Jump Hook Shot (2 PTS) (Stuckey 4 AST),20 - 15,-5
+0021000140,63,2,1,1,6:28 PM,3:03,MISS Head  3PT Jump Shot,,,,
+0021000140,64,4,0,1,6:28 PM,3:02,Landry REBOUND (Off:2 Def:0),,,,
+0021000140,65,2,1,1,6:28 PM,2:55,MISS Evans 6' Jump Shot,,Wallace BLOCK (1 BLK),,
+0021000140,66,4,0,1,6:28 PM,2:55,KINGS Rebound,,,,
+0021000140,67,9,1,1,6:28 PM,2:55,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0021000140,69,8,0,1,6:31 PM,2:55,,,SUB: Gordon FOR Hamilton,,
+0021000140,70,8,0,1,6:31 PM,2:55,SUB: Garcia FOR Casspi,,,,
+0021000140,71,6,2,1,6:31 PM,2:48,,,Maxiell S.FOUL (P1.T1),,
+0021000140,72,3,11,1,6:31 PM,2:48,Landry Free Throw 1 of 2 (5 PTS),,,20 - 16,-4
+0021000140,74,3,12,1,6:32 PM,2:48,Landry Free Throw 2 of 2 (6 PTS),,,20 - 17,-3
+0021000140,76,1,1,1,6:32 PM,2:30,,,Stuckey 19' Jump Shot (8 PTS) (Wallace 1 AST),22 - 17,-5
+0021000140,77,2,1,1,6:33 PM,2:12,MISS Garcia 24' 3PT Jump Shot,,,,
+0021000140,78,4,0,1,6:33 PM,2:12,,,Pistons Rebound,,
+0021000140,79,6,3,1,6:33 PM,2:12,Cousins L.B.FOUL (P1.T2),,,,
+0021000140,80,8,0,1,6:33 PM,2:12,,,SUB: Villanueva FOR Maxiell,,
+0021000140,81,5,2,1,6:33 PM,1:48,Evans STEAL (1 STL),,Stuckey Lost Ball Turnover (P2.T3),,
+0021000140,82,2,5,1,6:33 PM,1:44,MISS Evans 3' Layup,,,,
+0021000140,83,4,0,1,6:33 PM,1:42,Landry REBOUND (Off:3 Def:0),,,,
+0021000140,84,2,5,1,6:33 PM,1:41,MISS Landry 1' Layup,,Villanueva BLOCK (1 BLK),,
+0021000140,85,4,0,1,6:33 PM,1:39,Landry REBOUND (Off:4 Def:0),,,,
+0021000140,86,1,5,1,6:33 PM,1:38,Landry 1' Layup (8 PTS),,,22 - 19,-3
+0021000140,87,2,1,1,6:34 PM,1:23,,,MISS Gordon 16' Jump Shot,,
+0021000140,88,4,0,1,6:34 PM,1:23,Cousins REBOUND (Off:0 Def:1),,,,
+0021000140,89,2,1,1,6:34 PM,1:12,MISS Cousins 19' Jump Shot,,,,
+0021000140,90,4,0,1,6:34 PM,1:11,,,Villanueva REBOUND (Off:0 Def:1),,
+0021000140,91,6,1,1,6:34 PM,0:56,Garcia P.FOUL (P1.T3),,,,
+0021000140,92,2,1,1,6:35 PM,0:50,,,MISS Stuckey 20' Jump Shot,,
+0021000140,93,4,0,1,6:35 PM,0:50,Landry REBOUND (Off:4 Def:1),,,,
+0021000140,94,6,2,1,6:35 PM,0:38,,,Villanueva S.FOUL (P1.T2),,
+0021000140,95,3,11,1,6:35 PM,0:38,MISS Landry Free Throw 1 of 2,,,,
+0021000140,96,4,1,1,6:35 PM,0:38,KINGS Rebound,,,,
+0021000140,97,8,0,1,6:36 PM,0:38,SUB: Wright FOR Evans,,,,
+0021000140,98,8,0,1,6:36 PM,0:38,SUB: Dalembert FOR Cousins,,,,
+0021000140,99,3,12,1,6:36 PM,0:38,MISS Landry Free Throw 2 of 2,,,,
+0021000140,101,4,0,1,6:36 PM,0:37,,,Wallace REBOUND (Off:0 Def:2),,
+0021000140,102,2,65,1,6:36 PM,0:24,,,MISS Villanueva 11' Jump Hook Shot,,
+0021000140,103,4,0,1,6:36 PM,0:24,Landry REBOUND (Off:4 Def:2),,,,
+0021000140,104,2,1,1,6:36 PM,0:00,MISS Landry 16' Jump Shot,,,,
+0021000140,105,4,0,1,6:36 PM,0:00,,,Wallace REBOUND (Off:0 Def:3),,
+0021000140,106,13,0,1,6:36 PM,0:00,,,,22 - 19,-3
+0021000140,108,12,0,2,6:39 PM,12:00,,,,22 - 19,-3
+0021000140,109,1,1,2,6:40 PM,11:46,,,McGrady 18' Jump Shot (2 PTS),24 - 19,-5
+0021000140,112,5,1,2,6:40 PM,11:22,Cousins Bad Pass Turnover (P2.T4),,Monroe STEAL (1 STL),,
+0021000140,113,1,42,2,6:40 PM,11:16,,,Bynum 3' Driving Layup (2 PTS),26 - 19,-7
+0021000140,114,2,1,2,6:40 PM,11:04,MISS Cousins 6' Jump Shot,,,,
+0021000140,115,4,0,2,6:40 PM,11:03,,,Villanueva REBOUND (Off:0 Def:2),,
+0021000140,116,5,2,2,6:41 PM,10:54,Cousins STEAL (1 STL),,Bynum Lost Ball Turnover (P1.T4),,
+0021000140,117,6,1,2,6:41 PM,10:53,,,Bynum P.FOUL (P1.T1),,
+0021000140,118,1,65,2,6:41 PM,10:40,Cousins 6' Jump Hook Shot (2 PTS),,,26 - 21,-5
+0021000140,119,6,2,2,6:41 PM,10:40,,,Monroe S.FOUL (P1.T2),,
+0021000140,120,3,10,2,6:41 PM,10:40,MISS Cousins Free Throw 1 of 1,,,,
+0021000140,122,4,0,2,6:41 PM,10:39,,,Monroe REBOUND (Off:0 Def:1),,
+0021000140,123,5,2,2,6:42 PM,10:25,Wright STEAL (1 STL),,Monroe Lost Ball Turnover (P1.T5),,
+0021000140,124,1,1,2,6:42 PM,10:19,Head  3PT Jump Shot (5 PTS) (Garcia 1 AST),,,26 - 24,-2
+0021000140,125,2,1,2,6:42 PM,9:54,Thompson BLOCK (1 BLK),,MISS Monroe 6' Jump Shot,,
+0021000140,126,4,0,2,6:42 PM,9:54,KINGS Rebound,,,,
+0021000140,127,6,4,2,6:43 PM,9:42,Cousins OFF.Foul (P2),,,,
+0021000140,128,5,5,2,6:43 PM,9:42,Cousins Foul Turnover (P3.T5),,,,
+0021000140,129,9,1,2,6:43 PM,9:37,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0021000140,130,6,11,2,6:43 PM,9:37,Cousins T.FOUL (P2.T0),,,,
+0021000140,134,3,16,2,6:46 PM,9:37,,,Gordon Free Throw Technical (1 PTS),27 - 24,-3
+0021000140,136,1,1,2,6:46 PM,9:29,,,McGrady 16' Jump Shot (4 PTS),29 - 24,-5
+0021000140,137,2,63,2,6:46 PM,9:09,MISS Cousins 7' Fadeaway Jumper,,,,
+0021000140,138,4,0,2,6:46 PM,9:08,Wright REBOUND (Off:1 Def:0),,,,
+0021000140,139,1,5,2,6:47 PM,9:03,Wright 3' Layup (2 PTS),,,29 - 26,-3
+0021000140,140,1,42,2,6:47 PM,8:55,,,Bynum 2' Driving Layup (4 PTS),31 - 26,-5
+0021000140,141,1,5,2,6:47 PM,8:37,Head 4' Layup (7 PTS) (Cousins 1 AST),,,31 - 28,-3
+0021000140,142,6,1,2,6:47 PM,8:26,Wright P.FOUL (P1.T1),,,,
+0021000140,143,2,1,2,6:48 PM,8:10,,,MISS Villanueva  3PT Jump Shot,,
+0021000140,144,4,0,2,6:48 PM,8:09,Thompson REBOUND (Off:0 Def:1),,,,
+0021000140,145,6,1,2,6:48 PM,8:09,,,McGrady P.FOUL (P1.T3),,
+0021000140,147,2,1,2,6:48 PM,7:57,MISS Garcia 15' Jump Shot,,,,
+0021000140,148,4,0,2,6:48 PM,7:56,,,Monroe REBOUND (Off:0 Def:2),,
+0021000140,149,2,1,2,6:49 PM,7:40,,,MISS Monroe 15' Jump Shot,,
+0021000140,150,4,0,2,6:49 PM,7:38,Head REBOUND (Off:0 Def:1),,,,
+0021000140,151,2,1,2,6:49 PM,7:31,MISS Garcia 25' 3PT Jump Shot,,,,
+0021000140,152,4,0,2,6:49 PM,7:30,Head REBOUND (Off:1 Def:1),,,,
+0021000140,153,1,78,2,6:49 PM,7:27,Head 8' Floating Jump Shot (9 PTS),,,31 - 30,-1
+0021000140,154,6,2,2,6:49 PM,7:18,Cousins S.FOUL (P3.T2),,,,
+0021000140,155,3,11,2,6:50 PM,7:18,,,Gordon Free Throw 1 of 2 (2 PTS),32 - 30,-2
+0021000140,157,8,0,2,6:50 PM,7:18,SUB: Dalembert FOR Cousins,,,,
+0021000140,158,8,0,2,6:50 PM,7:18,SUB: Evans FOR Garcia,,,,
+0021000140,159,3,12,2,6:50 PM,7:18,,,Gordon Free Throw 2 of 2 (3 PTS),33 - 30,-3
+0021000140,161,1,65,2,6:50 PM,7:01,Thompson 8' Jump Hook Shot (2 PTS),,,33 - 32,-1
+0021000140,162,2,42,2,6:51 PM,6:49,,,MISS Bynum 2' Driving Layup,,
+0021000140,163,4,0,2,6:51 PM,6:48,,,Monroe REBOUND (Off:1 Def:2),,
+0021000140,164,1,5,2,6:51 PM,6:46,,,Monroe 1' Layup (2 PTS),35 - 32,-3
+0021000140,165,6,2,2,6:51 PM,6:30,,,Gordon S.FOUL (P1.T4),,
+0021000140,166,3,11,2,6:51 PM,6:30,MISS Evans Free Throw 1 of 2,,,,
+0021000140,167,4,1,2,6:51 PM,6:30,KINGS Rebound,,,,
+0021000140,168,8,0,2,6:51 PM,6:30,,,SUB: Stuckey FOR Bynum,,
+0021000140,169,3,12,2,6:52 PM,6:30,Evans Free Throw 2 of 2 (3 PTS),,,35 - 33,-2
+0021000140,171,1,63,2,6:52 PM,6:14,,,McGrady 19' Fadeaway Jumper (6 PTS),37 - 33,-4
+0021000140,172,2,1,2,6:52 PM,5:50,MISS Evans 18' Jump Shot,,,,
+0021000140,183,4,0,2,6:52 PM,5:49,Dalembert REBOUND (Off:3 Def:1),,,,
+0021000140,182,2,53,2,6:52 PM,5:49,MISS Dalembert 2' Tip Shot,,,,
+0021000140,173,4,0,2,6:52 PM,5:48,Dalembert REBOUND (Off:4 Def:1),,,,
+0021000140,174,1,1,2,6:52 PM,5:46,Dalembert 5' Jump Shot (6 PTS),,,37 - 35,-2
+0021000140,175,1,5,2,6:53 PM,5:31,,,Monroe 3' Layup (4 PTS) (McGrady 1 AST),39 - 35,-4
+0021000140,176,2,1,2,6:53 PM,5:22,MISS Evans 4' Jump Shot,,,,
+0021000140,177,4,0,2,6:53 PM,5:21,Evans REBOUND (Off:1 Def:0),,,,
+0021000140,178,2,1,2,6:53 PM,5:09,MISS Wright  3PT Jump Shot,,,,
+0021000140,179,4,0,2,6:53 PM,5:08,,,Monroe REBOUND (Off:1 Def:3),,
+0021000140,180,6,2,2,6:54 PM,4:44,Head S.FOUL (P1.T3),,,,
+0021000140,181,9,4,2,6:54 PM,4:44,,,,,
+0021000140,186,8,0,2,6:56 PM,4:44,SUB: Casspi FOR Head,,,,
+0021000140,187,8,0,2,6:56 PM,4:44,SUB: Udrih FOR Wright,,,,
+0021000140,188,8,0,2,6:56 PM,4:44,SUB: Landry FOR Thompson,,,,
+0021000140,189,3,11,2,6:56 PM,4:44,,,Gordon Free Throw 1 of 2 (4 PTS),40 - 35,-5
+0021000140,191,3,12,2,6:57 PM,4:44,,,Gordon Free Throw 2 of 2 (5 PTS),41 - 35,-6
+0021000140,193,2,1,2,6:57 PM,4:29,MISS Casspi 26' 3PT Jump Shot,,,,
+0021000140,194,4,0,2,6:57 PM,4:29,,,Monroe REBOUND (Off:1 Def:4),,
+0021000140,195,6,17,2,6:57 PM,4:17,KINGS T.Foul (Def. 3 Sec Dalembert ),,,,
+0021000140,196,3,16,2,6:58 PM,4:17,,,Gordon Free Throw Technical (6 PTS),42 - 35,-7
+0021000140,198,8,0,2,6:58 PM,4:17,,,SUB: Prince FOR McGrady,,
+0021000140,199,1,80,2,6:58 PM,4:08,,,Gordon 15' Step Back Jump Shot (8 PTS),44 - 35,-9
+0021000140,200,2,1,2,6:58 PM,3:52,MISS Landry 18' Jump Shot,,,,
+0021000140,201,4,0,2,6:58 PM,3:51,,,Gordon REBOUND (Off:0 Def:1),,
+0021000140,202,2,1,2,6:59 PM,3:37,,,MISS Stuckey 17' Jump Shot,,
+0021000140,203,4,0,2,6:59 PM,3:36,Evans REBOUND (Off:1 Def:1),,,,
+0021000140,204,2,1,2,6:59 PM,3:27,MISS Evans 19' Jump Shot,,,,
+0021000140,205,4,0,2,6:59 PM,3:27,KINGS Rebound,,,,
+0021000140,206,6,1,2,6:59 PM,3:27,,,Villanueva P.FOUL (P2.PN),,
+0021000140,207,3,11,2,6:59 PM,3:27,Landry Free Throw 1 of 2 (9 PTS),,,44 - 36,-8
+0021000140,209,3,12,2,6:59 PM,3:27,Landry Free Throw 2 of 2 (10 PTS),,,44 - 37,-7
+0021000140,211,5,1,2,7:00 PM,3:13,Evans STEAL (2 STL),,Gordon Bad Pass Turnover (P1.T6),,
+0021000140,212,1,5,2,7:00 PM,3:09,Casspi 2' Layup (5 PTS) (Udrih 2 AST),,,44 - 39,-5
+0021000140,213,1,5,2,7:01 PM,2:44,,,Villanueva 3' Layup (2 PTS) (Gordon 1 AST),46 - 39,-7
+0021000140,214,7,5,2,7:01 PM,2:34,,,Villanueva Violation:Kicked Ball,,
+0021000140,215,9,1,2,7:01 PM,2:34,KINGS Timeout: Regular (Full 2 Short 0),,,,
+0021000140,217,8,0,2,7:03 PM,2:34,,,SUB: Wallace FOR Villanueva,,
+0021000140,218,8,0,2,7:03 PM,2:34,,,SUB: Maxiell FOR Monroe,,
+0021000140,220,5,2,2,7:04 PM,2:27,Evans Lost Ball Turnover (P2.T6),,Gordon STEAL (1 STL),,
+0021000140,221,2,65,2,7:04 PM,2:17,,,MISS Prince 7' Jump Hook Shot,,
+0021000140,222,4,0,2,7:04 PM,2:15,,,Maxiell REBOUND (Off:1 Def:3),,
+0021000140,223,5,1,2,7:04 PM,2:01,Udrih STEAL (1 STL),,Prince Bad Pass Turnover (P1.T7),,
+0021000140,224,1,5,2,7:04 PM,1:57,Evans 2' Layup (5 PTS) (Udrih 3 AST),,,46 - 41,-5
+0021000140,225,5,41,2,7:05 PM,1:32,Dalembert STEAL (1 STL),,Stuckey Poss Lost Ball Turnover (P3.T8),,
+0021000140,226,6,1,2,7:05 PM,1:32,,,Stuckey P.FOUL (P1.PN),,
+0021000140,227,3,11,2,7:05 PM,1:32,MISS Dalembert Free Throw 1 of 2,,,,
+0021000140,228,4,1,2,7:05 PM,1:32,KINGS Rebound,,,,
+0021000140,229,3,12,2,7:05 PM,1:32,MISS Dalembert Free Throw 2 of 2,,,,
+0021000140,231,4,0,2,7:06 PM,1:30,,,Wallace REBOUND (Off:0 Def:4),,
+0021000140,232,2,1,2,7:06 PM,1:14,,,MISS Maxiell 16' Jump Shot,,
+0021000140,233,4,0,2,7:06 PM,1:13,,,Wallace REBOUND (Off:1 Def:4),,
+0021000140,234,1,77,2,7:06 PM,1:05,,,Stuckey 5' Driving Jump Shot (10 PTS),48 - 41,-7
+0021000140,235,1,5,2,7:06 PM,0:50,Evans 3' Layup (7 PTS) (Udrih 4 AST),,,48 - 43,-5
+0021000140,237,1,1,2,7:06 PM,0:36,,,Stuckey 11' Jump Shot (12 PTS) (Prince 1 AST),50 - 43,-7
+0021000140,238,1,1,2,7:07 PM,0:21,Landry 4' Jump Shot (12 PTS) (Udrih 5 AST),,,50 - 45,-5
+0021000140,239,2,46,2,7:07 PM,0:02,,,MISS Stuckey 5' Running Jump Shot,,
+0021000140,241,4,0,2,7:07 PM,0:00,,,Pistons Rebound,,
+0021000140,240,13,0,2,7:07 PM,0:00,,,,50 - 45,-5
+0021000140,243,12,0,3,7:24 PM,12:00,,,,50 - 45,-5
+0021000140,244,2,5,3,7:24 PM,11:39,,,MISS Hamilton 2' Layup,,
+0021000140,245,4,0,3,7:24 PM,11:38,Casspi REBOUND (Off:0 Def:3),,,,
+0021000140,246,2,1,3,7:24 PM,11:27,MISS Casspi 26' 3PT Jump Shot,,,,
+0021000140,247,4,0,3,7:25 PM,11:26,,,Hamilton REBOUND (Off:0 Def:1),,
+0021000140,248,1,1,3,7:25 PM,11:13,,,Prince 13' Jump Shot (4 PTS),52 - 45,-7
+0021000140,249,1,42,3,7:25 PM,10:55,Udrih 3' Driving Layup (2 PTS),,,52 - 47,-5
+0021000140,250,6,2,3,7:25 PM,10:55,,,Hamilton S.FOUL (P1.T1),,
+0021000140,251,3,10,3,7:25 PM,10:55,Udrih Free Throw 1 of 1 (3 PTS),,,52 - 48,-4
+0021000140,253,2,1,3,7:26 PM,10:36,Dalembert BLOCK (1 BLK),,MISS Maxiell 4' Jump Shot,,
+0021000140,254,4,0,3,7:26 PM,10:33,Dalembert REBOUND (Off:4 Def:2),,,,
+0021000140,255,1,7,3,7:26 PM,10:30,Landry  Dunk (14 PTS) (Udrih 6 AST),,,52 - 50,-2
+0021000140,256,6,2,3,7:26 PM,10:30,,,Maxiell S.FOUL (P2.T2),,
+0021000140,257,3,10,3,7:26 PM,10:30,Landry Free Throw 1 of 1 (15 PTS),,,52 - 51,-1
+0021000140,259,1,5,3,7:27 PM,10:12,,,Wallace 3' Layup (4 PTS),54 - 51,-3
+0021000140,260,5,1,3,7:27 PM,9:56,Udrih Bad Pass Turnover (P1.T7),,,,
+0021000140,261,2,1,3,7:28 PM,9:35,,,MISS Maxiell 16' Jump Shot,,
+0021000140,262,4,0,3,7:28 PM,9:34,KINGS Rebound,,,,
+0021000140,263,1,1,3,7:28 PM,9:21,Evans 18' Jump Shot (9 PTS) (Udrih 7 AST),,,54 - 53,-1
+0021000140,264,6,17,3,7:28 PM,9:04,KINGS T.Foul (Def. 3 Sec Dalembert ),,,,
+0021000140,265,3,16,3,7:29 PM,9:04,,,Hamilton Free Throw Technical (9 PTS),55 - 53,-2
+0021000140,267,1,1,3,7:29 PM,8:53,,,Stuckey 10' Jump Shot (14 PTS) (Hamilton 2 AST),57 - 53,-4
+0021000140,270,2,40,3,7:29 PM,8:37,MISS Evans 3' Layup,,,,
+0021000140,276,4,0,3,7:29 PM,8:36,Dalembert REBOUND (Off:5 Def:2),,,,
+0021000140,268,1,4,3,7:30 PM,8:36,Dalembert 1' Tip Shot (8 PTS),,,57 - 55,-2
+0021000140,269,6,2,3,7:30 PM,8:30,Udrih S.FOUL (P1.T1),,,,
+0021000140,271,3,11,3,7:30 PM,8:30,,,Stuckey Free Throw 1 of 2 (15 PTS),58 - 55,-3
+0021000140,274,3,12,3,7:30 PM,8:30,,,Stuckey Free Throw 2 of 2 (16 PTS),59 - 55,-4
+0021000140,277,1,58,3,7:31 PM,8:15,Landry 6' Turnaround Hook Shot (17 PTS) (Udrih 8 AST),,,59 - 57,-2
+0021000140,278,5,1,3,7:31 PM,8:01,Casspi STEAL (2 STL),,Stuckey Bad Pass Turnover (P4.T9),,
+0021000140,279,6,2,3,7:31 PM,7:59,,,Stuckey S.FOUL (P2.T3),,
+0021000140,281,3,11,3,7:32 PM,7:59,Casspi Free Throw 1 of 2 (6 PTS),,,59 - 58,-1
+0021000140,284,3,12,3,7:32 PM,7:59,Casspi Free Throw 2 of 2 (7 PTS),,,59 - 59,TIE
+0021000140,287,1,7,3,7:32 PM,7:41,,,Maxiell 2' Dunk (4 PTS) (Stuckey 5 AST),61 - 59,-2
+0021000140,289,2,1,3,7:33 PM,7:24,MISS Udrih  3PT Jump Shot,,,,
+0021000140,290,4,0,3,7:33 PM,7:23,,,Wallace REBOUND (Off:1 Def:5),,
+0021000140,291,1,5,3,7:33 PM,7:19,,,Prince 1' Layup (6 PTS) (Wallace 2 AST),63 - 59,-4
+0021000140,292,1,1,3,7:33 PM,7:03,Udrih 13' Jump Shot (5 PTS),,,63 - 61,-2
+0021000140,293,2,1,3,7:33 PM,6:42,,,MISS Hamilton 24' 3PT Jump Shot,,
+0021000140,294,4,0,3,7:33 PM,6:41,Udrih REBOUND (Off:0 Def:1),,,,
+0021000140,295,2,1,3,7:34 PM,6:25,MISS Udrih 15' Jump Shot,,,,
+0021000140,296,4,0,3,7:34 PM,6:24,,,Wallace REBOUND (Off:1 Def:6),,
+0021000140,297,6,1,3,7:34 PM,6:21,Casspi P.FOUL (P1.T2),,,,
+0021000140,299,2,1,3,7:34 PM,6:01,,,MISS Stuckey 18' Jump Shot,,
+0021000140,300,4,0,3,7:34 PM,6:00,Casspi REBOUND (Off:0 Def:4),,,,
+0021000140,301,2,1,3,7:35 PM,5:43,MISS Casspi 25' 3PT Jump Shot,,Prince BLOCK (1 BLK),,
+0021000140,302,4,0,3,7:35 PM,5:41,,,Wallace REBOUND (Off:1 Def:7),,
+0021000140,303,6,2,3,7:35 PM,5:40,Udrih S.FOUL (P2.T3),,,,
+0021000140,304,9,1,3,7:35 PM,5:40,KINGS Timeout: Regular (Full 3 Short 0),,,,
+0021000140,306,8,0,3,7:37 PM,5:40,SUB: Cousins FOR Dalembert,,,,
+0021000140,307,8,0,3,7:37 PM,5:40,SUB: Head FOR Udrih,,,,
+0021000140,309,3,11,3,7:38 PM,5:40,,,MISS Prince Free Throw 1 of 2,,
+0021000140,310,4,1,3,7:38 PM,5:40,,,Pistons Rebound,,
+0021000140,311,3,12,3,7:38 PM,5:40,,,MISS Prince Free Throw 2 of 2,,
+0021000140,313,4,0,3,7:38 PM,5:39,Cousins REBOUND (Off:0 Def:2),,,,
+0021000140,314,5,2,3,7:38 PM,5:35,Cousins Lost Ball Turnover (P4.T8),,Wallace STEAL (1 STL),,
+0021000140,315,2,1,3,7:38 PM,5:19,,,MISS Hamilton 9' Jump Shot,,
+0021000140,316,4,0,3,7:38 PM,5:18,Cousins REBOUND (Off:0 Def:3),,,,
+0021000140,317,1,42,3,7:39 PM,5:04,Evans 3' Driving Layup (11 PTS) (Head 1 AST),,,63 - 63,TIE
+0021000140,318,1,1,3,7:39 PM,4:39,,,Hamilton 14' Jump Shot (11 PTS),65 - 63,-2
+0021000140,319,5,2,3,7:39 PM,4:23,Cousins Lost Ball Turnover (P5.T9),,Wallace STEAL (2 STL),,
+0021000140,320,2,5,3,7:39 PM,4:19,,,MISS Stuckey 2' Layup,,
+0021000140,321,4,0,3,7:40 PM,4:17,,,Stuckey REBOUND (Off:2 Def:0),,
+0021000140,322,1,7,3,7:40 PM,4:15,,,Prince 1' Dunk (8 PTS) (Stuckey 6 AST),67 - 63,-4
+0021000140,323,2,1,3,7:40 PM,3:54,MISS Casspi 25' 3PT Jump Shot,,,,
+0021000140,324,4,0,3,7:40 PM,3:53,Landry REBOUND (Off:5 Def:2),,,,
+0021000140,325,1,65,3,7:40 PM,3:52,Landry 5' Jump Hook Shot (19 PTS),,,67 - 65,-2
+0021000140,327,1,1,3,7:40 PM,3:30,,,Prince 15' Jump Shot (10 PTS),69 - 65,-4
+0021000140,329,2,1,3,7:41 PM,3:15,MISS Head 21' Jump Shot,,,,
+0021000140,330,4,0,3,7:41 PM,3:14,,,Maxiell REBOUND (Off:1 Def:4),,
+0021000140,331,1,1,3,7:41 PM,3:06,,,Prince 14' Jump Shot (12 PTS) (Stuckey 7 AST),71 - 65,-6
+0021000140,332,1,63,3,7:41 PM,2:42,Evans 14' Fadeaway Jumper (13 PTS),,,71 - 67,-4
+0021000140,333,5,1,3,7:41 PM,2:25,,,Hamilton Bad Pass Turnover (P2.T10),,
+0021000140,334,9,1,3,7:42 PM,2:25,,,Pistons Timeout: Regular (Reg.3 Short 0),,
+0021000140,336,8,0,3,7:44 PM,2:25,SUB: Garcia FOR Casspi,,,,
+0021000140,337,8,0,3,7:44 PM,2:25,SUB: Thompson FOR Landry,,,,
+0021000140,338,8,0,3,7:44 PM,2:25,,,SUB: McGrady FOR Prince,,
+0021000140,339,8,0,3,7:44 PM,2:25,,,SUB: Bynum FOR Maxiell,,
+0021000140,340,8,0,3,7:44 PM,2:25,,,SUB: Villanueva FOR Stuckey,,
+0021000140,341,6,2,3,7:44 PM,2:17,,,Villanueva S.FOUL (P3.T4),,
+0021000140,342,3,11,3,7:45 PM,2:17,Evans Free Throw 1 of 2 (14 PTS),,,71 - 68,-3
+0021000140,344,3,12,3,7:45 PM,2:17,MISS Evans Free Throw 2 of 2,,,,
+0021000140,346,4,0,3,7:45 PM,2:17,,,Bynum REBOUND (Off:0 Def:1),,
+0021000140,347,1,46,3,7:46 PM,2:01,,,Hamilton 7' Running Jump Shot (13 PTS),73 - 68,-5
+0021000140,348,2,1,3,7:46 PM,1:37,MISS Head 26' 3PT Jump Shot,,,,
+0021000140,349,4,0,3,7:46 PM,1:36,,,Wallace REBOUND (Off:1 Def:8),,
+0021000140,350,2,1,3,7:46 PM,1:20,,,MISS Villanueva 8' Jump Shot,,
+0021000140,351,4,0,3,7:46 PM,1:20,Cousins REBOUND (Off:0 Def:4),,,,
+0021000140,352,6,2,3,7:46 PM,1:12,,,McGrady S.FOUL (P2.PN),,
+0021000140,353,3,11,3,7:47 PM,1:12,Thompson Free Throw 1 of 2 (3 PTS),,,73 - 69,-4
+0021000140,355,8,0,3,7:47 PM,1:12,SUB: Wright FOR Evans,,,,
+0021000140,356,3,12,3,7:47 PM,1:12,Thompson Free Throw 2 of 2 (4 PTS),,,73 - 70,-3
+0021000140,358,2,1,3,7:47 PM,0:59,,,MISS Hamilton 14' Jump Shot,,
+0021000140,359,4,0,3,7:47 PM,0:58,Cousins REBOUND (Off:0 Def:5),,,,
+0021000140,360,1,1,3,7:47 PM,0:46,Head 17' Jump Shot (11 PTS),,,73 - 72,-1
+0021000140,361,1,79,3,7:48 PM,0:21,,,McGrady 21' Pullup Jump Shot (8 PTS),75 - 72,-3
+0021000140,362,18,0,3,7:49 PM,0:00,,,,75 - 72,-3
+0021000140,363,13,0,3,7:49 PM,0:00,,,,75 - 72,-3
+0021000140,365,12,0,4,7:52 PM,12:00,,,,75 - 72,-3
+0021000140,366,2,63,4,7:52 PM,11:45,MISS Garcia 7' Fadeaway Jumper,,,,
+0021000140,367,4,0,4,7:52 PM,11:42,,,Gordon REBOUND (Off:0 Def:2),,
+0021000140,368,6,1,4,7:52 PM,11:27,Wright P.FOUL (P2.T1),,,,
+0021000140,369,5,1,4,7:53 PM,11:18,Thompson STEAL (1 STL),,McGrady Bad Pass Turnover (P1.T11),,
+0021000140,370,2,1,4,7:53 PM,11:07,MISS Wright 25' 3PT Jump Shot,,,,
+0021000140,371,4,0,4,7:53 PM,11:06,,,Monroe REBOUND (Off:1 Def:5),,
+0021000140,372,1,1,4,7:53 PM,10:50,,,Villanueva 17' Jump Shot (4 PTS) (Gordon 2 AST),77 - 72,-5
+0021000140,373,2,1,4,7:53 PM,10:32,MISS Garcia  3PT Jump Shot,,,,
+0021000140,374,4,0,4,7:53 PM,10:31,,,Monroe REBOUND (Off:1 Def:6),,
+0021000140,375,1,1,4,7:54 PM,10:17,,,Villanueva 26' 3PT Jump Shot (7 PTS) (Bynum 1 AST),80 - 72,-8
+0021000140,376,9,1,4,7:54 PM,10:17,KINGS Timeout: Regular (Full 4 Short 0),,,,
+0021000140,380,8,0,4,7:56 PM,10:17,SUB: Evans FOR Wright,,,,
+0021000140,381,2,1,4,7:56 PM,10:08,MISS Evans 25' 3PT Jump Shot,,,,
+0021000140,382,4,0,4,7:56 PM,10:07,Cousins REBOUND (Off:1 Def:5),,,,
+0021000140,383,1,5,4,7:56 PM,10:06,Cousins 2' Layup (4 PTS),,,80 - 74,-6
+0021000140,384,2,1,4,7:57 PM,9:47,,,MISS Bynum  3PT Jump Shot,,
+0021000140,385,4,0,4,7:57 PM,9:46,Garcia REBOUND (Off:0 Def:1),,,,
+0021000140,386,2,1,4,7:57 PM,9:35,MISS Evans 6' Jump Shot,,,,
+0021000140,388,4,0,4,7:57 PM,9:34,Thompson REBOUND (Off:1 Def:1),,,,
+0021000140,387,1,4,4,7:57 PM,9:34,Thompson 2' Tip Shot (6 PTS),,,80 - 76,-4
+0021000140,389,1,46,4,7:57 PM,9:16,,,Bynum 5' Running Jump Shot (6 PTS),82 - 76,-6
+0021000140,390,1,5,4,7:57 PM,9:10,Garcia 1' Layup (2 PTS) (Head 2 AST),,,82 - 78,-4
+0021000140,391,6,1,4,7:57 PM,8:59,Garcia P.FOUL (P2.T2),,,,
+0021000140,392,2,1,4,7:58 PM,8:47,,,MISS McGrady 21' Jump Shot,,
+0021000140,393,4,0,4,7:58 PM,8:47,Cousins REBOUND (Off:1 Def:6),,,,
+0021000140,394,2,1,4,7:58 PM,8:34,MISS Garcia 17' Jump Shot,,McGrady BLOCK (1 BLK),,
+0021000140,395,4,0,4,7:58 PM,8:32,Garcia REBOUND (Off:1 Def:1),,,,
+0021000140,396,5,1,4,7:58 PM,8:28,Cousins Bad Pass Turnover (P6.T10),,Monroe STEAL (2 STL),,
+0021000140,397,2,1,4,7:58 PM,8:16,,,MISS Bynum 18' Jump Shot,,
+0021000140,398,4,0,4,7:58 PM,8:15,Cousins REBOUND (Off:1 Def:7),,,,
+0021000140,399,6,2,4,7:59 PM,8:05,,,Bynum S.FOUL (P2.T1),,
+0021000140,400,3,11,4,7:59 PM,8:05,Head Free Throw 1 of 2 (12 PTS),,,82 - 79,-3
+0021000140,402,3,12,4,7:59 PM,8:05,Head Free Throw 2 of 2 (13 PTS),,,82 - 80,-2
+0021000140,404,5,2,4,8:00 PM,7:53,Garcia STEAL (1 STL),,McGrady Lost Ball Turnover (P2.T12),,
+0021000140,405,2,5,4,8:00 PM,7:49,MISS Garcia 2' Layup,,,,
+0021000140,407,4,0,4,8:00 PM,7:47,Thompson REBOUND (Off:2 Def:1),,,,
+0021000140,406,1,4,4,8:00 PM,7:47,Thompson 2' Tip Shot (8 PTS),,,82 - 82,TIE
+0021000140,408,2,1,4,8:00 PM,7:26,Garcia BLOCK (1 BLK),,MISS Bynum 7' Jump Shot,,
+0021000140,409,4,0,4,8:00 PM,7:22,,,Monroe REBOUND (Off:2 Def:6),,
+0021000140,410,1,5,4,8:00 PM,7:20,,,Monroe 2' Layup (6 PTS),84 - 82,-2
+0021000140,411,6,1,4,8:01 PM,7:04,,,Bynum P.FOUL (P3.T2),,
+0021000140,412,2,1,4,8:01 PM,6:53,MISS Cousins 5' Jump Shot,,,,
+0021000140,413,4,0,4,8:01 PM,6:52,Thompson REBOUND (Off:3 Def:1),,,,
+0021000140,414,1,5,4,8:01 PM,6:51,Thompson 1' Layup (10 PTS),,,84 - 84,TIE
+0021000140,415,1,1,4,8:01 PM,6:31,,,Gordon 20' Jump Shot (10 PTS),86 - 84,-2
+0021000140,416,1,63,4,8:02 PM,6:12,Evans 18' Fadeaway Jumper (16 PTS),,,86 - 86,TIE
+0021000140,417,1,1,4,8:02 PM,6:03,,,Gordon 25' 3PT Jump Shot (13 PTS),89 - 86,-3
+0021000140,418,6,1,4,8:02 PM,5:51,,,Gordon P.FOUL (P2.T3),,
+0021000140,419,9,4,4,8:02 PM,5:51,,,,,
+0021000140,421,8,0,4,8:05 PM,5:51,,,SUB: Stuckey FOR McGrady,,
+0021000140,422,8,0,4,8:05 PM,5:51,,,SUB: Prince FOR Monroe,,
+0021000140,423,8,0,4,8:05 PM,5:51,,,SUB: Maxiell FOR Bynum,,
+0021000140,425,1,77,4,8:06 PM,5:38,Evans 4' Driving Jump Shot (18 PTS),,,89 - 88,-1
+0021000140,426,1,1,4,8:06 PM,5:15,,,Villanueva 8' Jump Shot (9 PTS),91 - 88,-3
+0021000140,427,5,4,4,8:06 PM,4:57,Head Traveling Turnover (P1.T11),,,,
+0021000140,428,2,1,4,8:07 PM,4:39,,,MISS Prince  3PT Jump Shot,,
+0021000140,429,4,0,4,8:07 PM,4:38,Thompson REBOUND (Off:3 Def:2),,,,
+0021000140,430,6,26,4,8:07 PM,4:33,Evans Offensive Charge Foul (P2.T3),,,,
+0021000140,431,5,5,4,8:07 PM,4:33,Evans Foul Turnover (P3.T12),,,,
+0021000140,432,6,2,4,8:08 PM,4:16,Thompson S.FOUL (P1.T4),,,,
+0021000140,433,3,11,4,8:08 PM,4:16,,,MISS Maxiell Free Throw 1 of 2,,
+0021000140,434,4,1,4,8:08 PM,4:16,,,Pistons Rebound,,
+0021000140,435,8,0,4,8:08 PM,4:16,SUB: Dalembert FOR Head,,,,
+0021000140,436,8,0,4,8:08 PM,4:16,SUB: Udrih FOR Cousins,,,,
+0021000140,437,8,0,4,8:08 PM,4:16,SUB: Landry FOR Thompson,,,,
+0021000140,438,3,12,4,8:09 PM,4:16,,,Maxiell Free Throw 2 of 2 (5 PTS),92 - 88,-4
+0021000140,440,2,1,4,8:10 PM,4:03,MISS Landry 4' Jump Shot,,,,
+0021000140,441,4,0,4,8:10 PM,4:02,,,Villanueva REBOUND (Off:0 Def:3),,
+0021000140,442,2,1,4,8:10 PM,3:45,,,MISS Villanueva 25' 3PT Jump Shot,,
+0021000140,443,4,0,4,8:10 PM,3:44,,,Prince REBOUND (Off:1 Def:0),,
+0021000140,444,2,1,4,8:10 PM,3:21,,,MISS Gordon 26' 3PT Jump Shot,,
+0021000140,445,4,0,4,8:10 PM,3:21,,,Maxiell REBOUND (Off:2 Def:4),,
+0021000140,446,2,1,4,8:11 PM,3:02,,,MISS Stuckey 7' Jump Shot,,
+0021000140,447,4,0,4,8:11 PM,3:00,Evans REBOUND (Off:1 Def:2),,,,
+0021000140,448,1,42,4,8:11 PM,2:57,Evans 1' Driving Layup (20 PTS),,,92 - 90,-2
+0021000140,449,6,2,4,8:11 PM,2:31,Landry S.FOUL (P1.PN),,,,
+0021000140,450,9,1,4,8:11 PM,2:31,,,Pistons Timeout: Regular (Reg.4 Short 0),,
+0021000140,454,3,11,4,8:14 PM,2:31,,,Villanueva Free Throw 1 of 2 (10 PTS),93 - 90,-3
+0021000140,456,8,0,4,8:14 PM,2:31,SUB: Cousins FOR Dalembert,,,,
+0021000140,457,3,12,4,8:14 PM,2:31,,,Villanueva Free Throw 2 of 2 (11 PTS),94 - 90,-4
+0021000140,459,2,1,4,8:15 PM,2:14,MISS Landry 17' Jump Shot,,,,
+0021000140,460,4,0,4,8:15 PM,2:13,,,Gordon REBOUND (Off:0 Def:3),,
+0021000140,461,2,1,4,8:15 PM,2:07,,,MISS Villanueva 4' Jump Shot,,
+0021000140,462,4,0,4,8:15 PM,2:06,Landry REBOUND (Off:5 Def:3),,,,
+0021000140,463,1,5,4,8:15 PM,1:50,Cousins 3' Layup (6 PTS) (Evans 1 AST),,,94 - 92,-2
+0021000140,464,2,63,4,8:16 PM,1:23,,,MISS Prince 16' Fadeaway Jumper,,
+0021000140,465,4,0,4,8:16 PM,1:22,,,Maxiell REBOUND (Off:3 Def:4),,
+0021000140,469,18,0,4,8:17 PM,1:22,,,,,
+0021000140,473,8,0,4,8:18 PM,1:22,SUB: Head FOR Udrih,,,,
+0021000140,470,1,79,4,8:19 PM,1:02,,,Prince 13' Pullup Jump Shot (14 PTS),96 - 92,-4
+0021000140,471,9,2,4,8:19 PM,1:02,KINGS Timeout: Short (Full 4 Short 1),,,,
+0021000140,474,8,0,4,8:20 PM,1:02,SUB: Udrih FOR Head,,,,
+0021000140,475,8,0,4,8:20 PM,1:02,,,SUB: Wallace FOR Villanueva,,
+0021000140,476,6,1,4,8:20 PM,0:57,,,Wallace P.FOUL (P1.T4),,
+0021000140,477,1,1,4,8:21 PM,0:45,Garcia 21' Jump Shot (4 PTS) (Udrih 9 AST),,,96 - 94,-2
+0021000140,478,1,1,4,8:21 PM,0:23,,,Gordon  3PT Jump Shot (16 PTS) (Prince 2 AST),99 - 94,-5
+0021000140,479,9,1,4,8:22 PM,0:23,KINGS Timeout: Regular (Full 5 Short 1),,,,
+0021000140,481,8,0,4,8:23 PM,0:23,SUB: Casspi FOR Landry,,,,
+0021000140,483,8,0,4,8:23 PM,0:23,,,SUB: Hamilton FOR Maxiell,,
+0021000140,484,2,46,4,8:24 PM,0:16,MISS Evans 5' Running Jump Shot,,Wallace BLOCK (2 BLK),,
+0021000140,485,4,0,4,8:24 PM,0:16,KINGS Rebound,,,,
+0021000140,486,2,1,4,8:24 PM,0:10,MISS Cousins 4' Jump Shot,,,,
+0021000140,487,4,0,4,8:24 PM,0:09,,,Stuckey REBOUND (Off:2 Def:1),,
+0021000140,488,6,1,4,8:24 PM,0:09,Cousins P.FOUL (P4.PN),,,,
+0021000140,489,3,11,4,8:25 PM,0:09,,,MISS Stuckey Free Throw 1 of 2,,
+0021000140,490,4,1,4,8:25 PM,0:09,,,Pistons Rebound,,
+0021000140,491,3,12,4,8:25 PM,0:09,,,Stuckey Free Throw 2 of 2 (17 PTS),100 - 94,-6
+0021000140,493,2,1,4,8:25 PM,0:00,MISS Evans 24' 3PT Jump Shot,,,,
+0021000140,494,4,0,4,8:25 PM,0:00,,,Wallace REBOUND (Off:1 Def:9),,
+0021000140,495,13,0,4,8:25 PM,0:00,,,,100 - 94,-6

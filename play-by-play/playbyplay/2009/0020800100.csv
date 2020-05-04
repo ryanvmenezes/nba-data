@@ -1,0 +1,445 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020800100,1,12,0,1,7:10 PM,12:00,,,,,
+0020800100,2,10,0,1,7:10 PM,12:00,Jump Ball Dalembert vs. Koufos: Tip to Brand,,,,
+0020800100,3,2,5,1,7:10 PM,11:43,MISS Brand  Layup,,,,
+0020800100,4,4,0,1,7:10 PM,11:41,,,Koufos REBOUND (Off:0 Def:1),,
+0020800100,5,5,40,1,7:11 PM,11:37,,,Koufos Out of Bounds Lost Ball Turnover (P1.T1),,
+0020800100,6,2,5,1,7:11 PM,11:19,MISS Dalembert  Layup,,,,
+0020800100,7,4,0,1,7:11 PM,11:18,,,Brewer REBOUND (Off:0 Def:1),,
+0020800100,8,2,5,1,7:11 PM,11:06,Brand BLOCK (1 BLK),,MISS Boozer  Layup,,
+0020800100,9,4,0,1,7:11 PM,11:04,Dalembert REBOUND (Off:0 Def:1),,,,
+0020800100,10,2,1,1,7:12 PM,10:55,MISS Miller 15' Jump Shot,,D. Williams BLOCK (1 BLK),,
+0020800100,11,4,0,1,7:12 PM,10:52,,,Boozer REBOUND (Off:0 Def:1),,
+0020800100,12,6,2,1,7:12 PM,10:49,Young S.FOUL (P1.T1),,,,
+0020800100,13,3,11,1,7:12 PM,10:49,,,D. Williams Free Throw 1 of 2 (1 PTS),1 - 0,-1
+0020800100,15,3,12,1,7:12 PM,10:49,,,MISS D. Williams Free Throw 2 of 2,,
+0020800100,17,4,0,1,7:12 PM,10:47,Miller REBOUND (Off:0 Def:1),,,,
+0020800100,18,6,2,1,7:13 PM,10:43,,,D. Williams S.FOUL (P1.T1),,
+0020800100,19,3,11,1,7:13 PM,10:43,Miller Free Throw 1 of 2 (1 PTS),,,1 - 1,TIE
+0020800100,21,3,12,1,7:13 PM,10:43,MISS Miller Free Throw 2 of 2,,,,
+0020800100,23,4,0,1,7:13 PM,10:42,,,Boozer REBOUND (Off:0 Def:2),,
+0020800100,24,5,40,1,7:14 PM,10:28,,,Brewer Out of Bounds Lost Ball Turnover (P1.T2),,
+0020800100,25,5,4,1,7:14 PM,10:14,Iguodala Traveling Turnover (P1.T1),,,,
+0020800100,26,2,5,1,7:14 PM,10:07,,,MISS D. Williams  Layup,,
+0020800100,27,4,0,1,7:14 PM,10:06,Dalembert REBOUND (Off:0 Def:2),,,,
+0020800100,28,5,1,1,7:14 PM,10:05,Dalembert Bad Pass Turnover (P1.T2),,Brewer STEAL (1 STL),,
+0020800100,29,6,1,1,7:14 PM,10:04,Dalembert P.FOUL (P1.T2),,,,
+0020800100,30,2,1,1,7:15 PM,9:47,,,MISS Koufos 18' Jump Shot,,
+0020800100,31,4,0,1,7:15 PM,9:45,Dalembert REBOUND (Off:0 Def:3),,,,
+0020800100,32,2,5,1,7:15 PM,9:35,MISS Miller  Layup,,,,
+0020800100,33,4,0,1,7:15 PM,9:34,Dalembert REBOUND (Off:1 Def:3),,,,
+0020800100,34,2,5,1,7:15 PM,9:33,MISS Dalembert  Layup,,Koufos BLOCK (1 BLK),,
+0020800100,35,4,0,1,7:15 PM,9:31,,,Boozer REBOUND (Off:0 Def:3),,
+0020800100,36,2,1,1,7:15 PM,9:16,,,MISS Miles 14' Jump Shot,,
+0020800100,37,4,0,1,7:15 PM,9:14,,,Boozer REBOUND (Off:1 Def:3),,
+0020800100,38,2,5,1,7:15 PM,9:12,Dalembert BLOCK (1 BLK),,MISS Koufos  Layup,,
+0020800100,39,4,0,1,7:15 PM,9:10,Brand REBOUND (Off:0 Def:1),,,,
+0020800100,40,1,47,1,7:16 PM,8:58,Brand 9' Turnaround Jump Shot (2 PTS),,,1 - 3,2
+0020800100,41,2,1,1,7:16 PM,8:36,,,MISS Miles 10' Jump Shot,,
+0020800100,42,4,0,1,7:16 PM,8:35,Dalembert REBOUND (Off:1 Def:4),,,,
+0020800100,43,5,2,1,7:16 PM,8:28,Young Lost Ball Turnover (P1.T3),,Boozer STEAL (1 STL),,
+0020800100,44,2,1,1,7:16 PM,8:14,,,MISS Brewer 26' 3PT Jump Shot,,
+0020800100,45,4,0,1,7:16 PM,8:12,Brand REBOUND (Off:0 Def:2),,,,
+0020800100,46,6,2,1,7:17 PM,8:07,,,Koufos S.FOUL (P1.T2),,
+0020800100,47,3,11,1,7:17 PM,8:07,Miller Free Throw 1 of 2 (2 PTS),,,1 - 4,3
+0020800100,49,3,12,1,7:17 PM,8:07,Miller Free Throw 2 of 2 (3 PTS),,,1 - 5,4
+0020800100,51,1,1,1,7:18 PM,7:47,,,D. Williams 25' 3PT Jump Shot (4 PTS) (Brewer 1 AST),4 - 5,1
+0020800100,52,1,5,1,7:18 PM,7:32,Brand  Layup (4 PTS) (Miller 1 AST),,,4 - 7,3
+0020800100,53,6,2,1,7:18 PM,7:32,,,Boozer S.FOUL (P1.T3),,
+0020800100,54,3,10,1,7:19 PM,7:32,Brand Free Throw 1 of 1 (5 PTS),,,4 - 8,4
+0020800100,56,1,88,1,7:19 PM,7:09,,,Miles  Driving Slam Dunk (2 PTS) (Brewer 2 AST),6 - 8,2
+0020800100,57,1,1,1,7:19 PM,6:56,Miller 4' Jump Shot (5 PTS),,,6 - 10,4
+0020800100,58,1,5,1,7:20 PM,6:45,,,Boozer  Layup (2 PTS) (D. Williams 1 AST),8 - 10,2
+0020800100,59,6,2,1,7:20 PM,6:45,Brand S.FOUL (P1.T3),,,,
+0020800100,60,3,10,1,7:20 PM,6:45,,,Boozer Free Throw 1 of 1 (3 PTS),9 - 10,1
+0020800100,62,2,1,1,7:20 PM,6:34,MISS Brand 16' Jump Shot,,,,
+0020800100,63,4,0,1,7:20 PM,6:32,,,D. Williams REBOUND (Off:0 Def:1),,
+0020800100,64,2,1,1,7:21 PM,6:16,,,MISS Brewer 27' 3PT Jump Shot,,
+0020800100,65,4,0,1,7:21 PM,6:14,Young REBOUND (Off:0 Def:1),,,,
+0020800100,66,1,63,1,7:21 PM,6:04,Brand 16' Fadeaway Jumper (7 PTS) (Miller 2 AST),,,9 - 12,3
+0020800100,67,1,5,1,7:21 PM,5:49,,,Boozer  Layup (5 PTS) (D. Williams 2 AST),11 - 12,1
+0020800100,68,9,1,1,7:22 PM,5:41,76ERS Timeout: Regular (Full 1 Short 0),,,,
+0020800100,70,1,1,1,7:24 PM,5:31,Miller 10' Jump Shot (7 PTS) (Iguodala 1 AST),,,11 - 14,3
+0020800100,71,1,52,1,7:24 PM,5:13,,,Koufos  Alley Oop Dunk (2 PTS) (Brewer 3 AST),13 - 14,1
+0020800100,72,5,1,1,7:25 PM,5:03,Brand Bad Pass Turnover (P1.T4),,Brewer STEAL (2 STL),,
+0020800100,73,1,41,1,7:25 PM,4:53,,,Boozer  Running Layup (7 PTS) (Miles 1 AST),15 - 14,-1
+0020800100,74,1,1,1,7:25 PM,4:38,Iguodala 12' Jump Shot (2 PTS) (Miller 3 AST),,,15 - 16,1
+0020800100,75,2,1,1,7:25 PM,4:22,,,MISS Boozer 8' Jump Shot,,
+0020800100,76,4,0,1,7:25 PM,4:21,,,Jazz Rebound,,
+0020800100,77,6,3,1,7:26 PM,4:21,Brand L.B.FOUL (P2.T4),,,,
+0020800100,78,8,0,1,7:26 PM,4:21,SUB: Williams FOR Dalembert,,,,
+0020800100,79,8,0,1,7:26 PM,4:21,,,SUB: Millsap FOR Koufos,,
+0020800100,80,2,1,1,7:26 PM,4:14,,,MISS Brewer 17' Jump Shot,,
+0020800100,81,4,0,1,7:26 PM,4:13,Brand REBOUND (Off:0 Def:3),,,,
+0020800100,82,1,42,1,7:26 PM,4:05,Miller  Driving Layup (9 PTS),,,15 - 18,3
+0020800100,83,2,1,1,7:27 PM,3:44,,,MISS Brewer 13' Jump Shot,,
+0020800100,84,4,0,1,7:27 PM,3:43,Brand REBOUND (Off:0 Def:4),,,,
+0020800100,85,5,1,1,7:27 PM,3:40,Miller Bad Pass Turnover (P1.T5),,,,
+0020800100,86,8,0,1,7:27 PM,3:40,,,SUB: Kirilenko FOR Miles,,
+0020800100,87,8,0,1,7:27 PM,3:40,SUB: Speights FOR Brand,,,,
+0020800100,88,2,5,1,7:27 PM,3:20,,,MISS Millsap  Layup,,
+0020800100,90,4,0,1,7:27 PM,3:19,,,Boozer REBOUND (Off:2 Def:3),,
+0020800100,89,1,92,1,7:27 PM,3:19,,,Boozer  Putback Slam Dunk (9 PTS),17 - 18,1
+0020800100,91,2,1,1,7:27 PM,3:05,MISS Iguodala 26' 3PT Jump Shot,,,,
+0020800100,92,4,0,1,7:27 PM,3:03,Iguodala REBOUND (Off:1 Def:0),,,,
+0020800100,93,2,44,1,7:28 PM,3:00,MISS Miller  Reverse Layup,,,,
+0020800100,94,4,0,1,7:28 PM,2:59,,,Boozer REBOUND (Off:2 Def:4),,
+0020800100,95,1,5,1,7:28 PM,2:37,,,Boozer  Layup (11 PTS),19 - 18,-1
+0020800100,96,9,1,1,7:28 PM,2:26,,,Jazz Timeout: Regular (Reg.1 Short 0),,
+0020800100,98,8,0,1,7:30 PM,2:26,SUB: Green FOR Young,,,,
+0020800100,99,8,0,1,7:30 PM,2:26,,,SUB: Price FOR D. Williams,,
+0020800100,100,2,1,1,7:31 PM,2:16,MISS Speights 8' Jump Shot,,,,
+0020800100,101,4,0,1,7:31 PM,2:15,,,Kirilenko REBOUND (Off:0 Def:1),,
+0020800100,102,5,1,1,7:31 PM,1:54,Iguodala STEAL (1 STL),,Brewer Bad Pass Turnover (P2.T3),,
+0020800100,103,5,2,1,7:31 PM,1:50,Williams Lost Ball Turnover (P1.T6),,Price STEAL (1 STL),,
+0020800100,104,1,5,1,7:31 PM,1:46,,,Millsap  Layup (2 PTS) (Brewer 4 AST),21 - 18,-3
+0020800100,105,2,1,1,7:32 PM,1:24,MISS Williams  3PT Jump Shot,,,,
+0020800100,106,4,0,1,7:32 PM,1:22,,,Brewer REBOUND (Off:0 Def:2),,
+0020800100,107,1,50,1,7:32 PM,1:08,,,Kirilenko  Running Dunk (2 PTS) (Boozer 1 AST),23 - 18,-5
+0020800100,108,2,1,1,7:32 PM,0:39,MISS Iguodala 5' Jump Shot,,,,
+0020800100,109,4,0,1,7:32 PM,0:39,76ERS Rebound,,,,
+0020800100,110,5,11,1,7:32 PM,0:39,76ERS Turnover: Shot Clock (T#7),,,,
+0020800100,111,8,0,1,7:33 PM,0:39,SUB: Evans FOR Miller,,,,
+0020800100,112,1,1,1,7:33 PM,0:29,,,Price  3PT Jump Shot (3 PTS) (Brewer 5 AST),26 - 18,-8
+0020800100,113,6,1,1,7:33 PM,0:08,,,Price P.FOUL (P1.T4),,
+0020800100,114,1,79,1,7:34 PM,0:01,Williams 15' Pullup Jump Shot (2 PTS),,,26 - 20,-6
+0020800100,118,2,1,1,7:35 PM,0:00,,,MISS Brewer 51' 3PT Jump Shot,,
+0020800100,119,4,0,1,7:35 PM,0:00,,,Jazz Rebound,,
+0020800100,120,13,0,1,7:35 PM,0:00,,,,26 - 20,-6
+0020800100,122,12,0,2,7:37 PM,12:00,,,,26 - 20,-6
+0020800100,124,2,1,2,7:37 PM,11:45,,,MISS Korver 25' 3PT Jump Shot,,
+0020800100,125,4,0,2,7:37 PM,11:43,,,Kirilenko REBOUND (Off:1 Def:1),,
+0020800100,126,1,7,2,7:37 PM,11:39,,,Kirilenko  Dunk (4 PTS) (Price 1 AST),28 - 20,-8
+0020800100,127,6,1,2,7:37 PM,11:25,,,Kirilenko P.FOUL (P1.T1),,
+0020800100,128,5,4,2,7:38 PM,11:23,Williams Traveling Turnover (P2.T8),,,,
+0020800100,129,2,1,2,7:38 PM,10:59,Williams BLOCK (1 BLK),,MISS Price 26' 3PT Jump Shot,,
+0020800100,130,4,0,2,7:38 PM,10:58,,,Koufos REBOUND (Off:1 Def:1),,
+0020800100,131,5,11,2,7:38 PM,10:58,,,Jazz Turnover: Shot Clock (T#4),,
+0020800100,132,2,1,2,7:39 PM,10:43,MISS Young 24' 3PT Jump Shot,,,,
+0020800100,133,4,0,2,7:39 PM,10:41,,,Kirilenko REBOUND (Off:1 Def:2),,
+0020800100,134,6,1,2,7:39 PM,10:30,Green P.FOUL (P1.T1),,,,
+0020800100,135,8,0,2,7:39 PM,10:30,SUB: Brand FOR Speights,,,,
+0020800100,136,1,1,2,7:39 PM,10:22,,,Millsap 6' Jump Shot (4 PTS) (Korver 1 AST),30 - 20,-10
+0020800100,137,2,1,2,7:40 PM,10:04,MISS Young 7' Jump Shot,,,,
+0020800100,138,4,0,2,7:40 PM,10:02,,,Korver REBOUND (Off:0 Def:1),,
+0020800100,139,2,1,2,7:40 PM,9:55,,,MISS Korver 21' Jump Shot,,
+0020800100,140,4,0,2,7:40 PM,9:52,Young REBOUND (Off:0 Def:2),,,,
+0020800100,141,5,1,2,7:40 PM,9:49,Young Bad Pass Turnover (P2.T9),,Price STEAL (2 STL),,
+0020800100,142,2,1,2,7:40 PM,9:36,,,MISS Kirilenko 16' Jump Shot,,
+0020800100,143,4,0,2,7:40 PM,9:34,Evans REBOUND (Off:0 Def:1),,,,
+0020800100,144,1,46,2,7:40 PM,9:29,Williams 7' Running Jump Shot (4 PTS),,,30 - 22,-8
+0020800100,145,6,2,2,7:40 PM,9:29,,,Price S.FOUL (P2.T2),,
+0020800100,146,8,0,2,7:41 PM,9:29,SUB: Iguodala FOR Young,,,,
+0020800100,147,3,10,2,7:41 PM,9:29,Williams Free Throw 1 of 1 (5 PTS),,,30 - 23,-7
+0020800100,149,2,5,2,7:41 PM,9:11,Williams BLOCK (2 BLK),,MISS Korver  Layup,,
+0020800100,150,4,0,2,7:41 PM,9:09,Evans REBOUND (Off:0 Def:2),,,,
+0020800100,151,6,2,2,7:42 PM,8:58,,,Millsap S.FOUL (P1.T3),,
+0020800100,152,9,4,2,7:42 PM,8:58,,,,,
+0020800100,153,3,11,2,7:44 PM,8:58,MISS Iguodala Free Throw 1 of 2,,,,
+0020800100,155,4,1,2,7:44 PM,8:58,76ERS Rebound,,,,
+0020800100,154,8,0,2,7:44 PM,8:58,,,SUB: D. Williams FOR Price,,
+0020800100,156,3,12,2,7:44 PM,8:58,Iguodala Free Throw 2 of 2 (3 PTS),,,30 - 24,-6
+0020800100,158,2,1,2,7:45 PM,8:32,,,MISS D. Williams 26' 3PT Jump Shot,,
+0020800100,159,4,0,2,7:45 PM,8:30,Evans REBOUND (Off:0 Def:3),,,,
+0020800100,160,2,1,2,7:45 PM,8:23,MISS Iguodala 16' Jump Shot,,,,
+0020800100,161,4,0,2,7:45 PM,8:21,,,Koufos REBOUND (Off:1 Def:2),,
+0020800100,162,1,3,2,7:46 PM,8:05,,,Koufos 5' Hook Shot (4 PTS) (Millsap 1 AST),32 - 24,-8
+0020800100,163,10,0,2,7:46 PM,7:51,Jump Ball Brand vs. Koufos: Tip to Kirilenko,,,,
+0020800100,164,8,0,2,7:46 PM,7:51,SUB: Miller FOR Evans,,,,
+0020800100,166,5,2,2,7:46 PM,7:51,Brand Lost Ball Turnover (P2.T10),,Koufos STEAL (1 STL),,
+0020800100,165,8,0,2,7:46 PM,7:51,SUB: Young FOR Green,,,,
+0020800100,168,6,4,2,7:47 PM,7:27,,,Korver OFF.Foul (P1),,
+0020800100,169,5,5,2,7:47 PM,7:27,,,Korver Foul Turnover (P1.T5),,
+0020800100,171,6,1,2,7:48 PM,7:19,,,D. Williams P.FOUL (P2.T4),,
+0020800100,173,2,5,2,7:48 PM,7:13,MISS Williams  Layup,,Millsap BLOCK (1 BLK),,
+0020800100,175,10,0,2,7:48 PM,7:12,Jump Ball Brand vs. Millsap: Tip to Millsap,,,,
+0020800100,176,4,0,2,7:48 PM,7:12,,,Jazz Rebound,,
+0020800100,177,1,79,2,7:48 PM,6:59,,,Kirilenko 22' Pullup Jump Shot (6 PTS) (D. Williams 3 AST),34 - 24,-10
+0020800100,178,6,1,2,7:49 PM,6:47,,,Millsap P.FOUL (P2.PN),,
+0020800100,179,3,11,2,7:49 PM,6:47,Miller Free Throw 1 of 2 (10 PTS),,,34 - 25,-9
+0020800100,181,3,12,2,7:49 PM,6:47,Miller Free Throw 2 of 2 (11 PTS),,,34 - 26,-8
+0020800100,183,5,1,2,7:50 PM,6:36,,,D. Williams Bad Pass Turnover (P1.T6),,
+0020800100,184,8,0,2,7:50 PM,6:36,,,SUB: Boozer FOR Koufos,,
+0020800100,185,2,5,2,7:50 PM,6:16,MISS Young  Layup,,,,
+0020800100,186,4,0,2,7:50 PM,6:15,,,Boozer REBOUND (Off:2 Def:5),,
+0020800100,187,1,5,2,7:51 PM,6:04,,,Millsap  Layup (6 PTS) (D. Williams 4 AST),36 - 26,-10
+0020800100,188,2,1,2,7:51 PM,5:51,MISS Williams 12' Jump Shot,,,,
+0020800100,190,4,0,2,7:51 PM,5:48,Young REBOUND (Off:1 Def:2),,,,
+0020800100,189,1,5,2,7:51 PM,5:48,Young  Layup (2 PTS),,,36 - 28,-8
+0020800100,191,2,1,2,7:51 PM,5:22,,,MISS D. Williams 9' Jump Shot,,
+0020800100,192,4,0,2,7:51 PM,5:19,Young REBOUND (Off:1 Def:3),,,,
+0020800100,193,1,42,2,7:51 PM,5:15,Miller  Driving Layup (13 PTS),,,36 - 30,-6
+0020800100,194,1,86,2,7:52 PM,4:59,,,Boozer 8' Turnaround Fadeaway (13 PTS),38 - 30,-8
+0020800100,195,9,1,2,7:52 PM,4:54,76ERS Timeout: Regular (Full 2 Short 0),,,,
+0020800100,197,8,0,2,7:54 PM,4:54,SUB: Rush FOR Williams,,,,
+0020800100,198,8,0,2,7:54 PM,4:54,SUB: Dalembert FOR Young,,,,
+0020800100,199,2,5,2,7:54 PM,4:43,MISS Iguodala  Layup,,Kirilenko BLOCK (1 BLK),,
+0020800100,200,4,0,2,7:54 PM,4:42,76ERS Rebound,,,,
+0020800100,201,1,1,2,7:55 PM,4:36,Rush 26' 3PT Jump Shot (3 PTS) (Iguodala 2 AST),,,38 - 33,-5
+0020800100,202,8,0,2,7:55 PM,4:17,SUB: Young FOR Brand,,,,
+0020800100,203,2,5,2,7:55 PM,4:10,Iguodala BLOCK (1 BLK),,MISS D. Williams  Layup,,
+0020800100,204,4,0,2,7:55 PM,4:08,Iguodala REBOUND (Off:1 Def:1),,,,
+0020800100,205,2,5,2,7:56 PM,4:04,MISS Rush  Layup,,,,
+0020800100,207,4,0,2,7:56 PM,4:01,Iguodala REBOUND (Off:2 Def:1),,,,
+0020800100,206,1,5,2,7:56 PM,4:01,Iguodala  Layup (5 PTS),,,38 - 35,-3
+0020800100,208,2,1,2,7:56 PM,3:40,,,MISS Korver 25' 3PT Jump Shot,,
+0020800100,209,4,0,2,7:56 PM,3:37,Dalembert REBOUND (Off:1 Def:5),,,,
+0020800100,210,2,1,2,7:56 PM,3:31,MISS Rush 26' 3PT Jump Shot,,,,
+0020800100,211,4,0,2,7:56 PM,3:29,,,Boozer REBOUND (Off:2 Def:6),,
+0020800100,212,1,80,2,7:56 PM,3:19,,,Millsap 9' Step Back Jump Shot (8 PTS) (D. Williams 5 AST),40 - 35,-5
+0020800100,213,2,5,2,7:57 PM,2:56,MISS Rush  Layup,,,,
+0020800100,214,4,0,2,7:57 PM,2:55,,,Millsap REBOUND (Off:0 Def:1),,
+0020800100,215,1,1,2,7:57 PM,2:49,,,Korver 26' 3PT Jump Shot (3 PTS) (D. Williams 6 AST),43 - 35,-8
+0020800100,216,2,1,2,7:57 PM,2:26,MISS Young 6' Jump Shot,,,,
+0020800100,217,4,0,2,7:57 PM,2:24,,,D. Williams REBOUND (Off:0 Def:2),,
+0020800100,218,1,42,2,7:57 PM,2:18,,,Millsap  Driving Layup (10 PTS) (D. Williams 7 AST),45 - 35,-10
+0020800100,219,9,2,2,7:57 PM,2:18,76ERS Timeout: Short (Full 2 Short 1),,,,
+0020800100,221,9,1,2,7:59 PM,2:18,,,Jazz Timeout: Regular (Reg.2 Short 0),,
+0020800100,222,8,0,2,8:00 PM,2:18,,,SUB: Brewer FOR Korver,,
+0020800100,223,1,58,2,8:00 PM,2:02,Dalembert 5' Turnaround Hook Shot (2 PTS) (Young 1 AST),,,45 - 37,-8
+0020800100,224,1,5,2,8:01 PM,1:41,,,Boozer  Layup (15 PTS) (D. Williams 8 AST),47 - 37,-10
+0020800100,225,2,5,2,8:01 PM,1:26,MISS Iguodala  Layup,,,,
+0020800100,226,4,0,2,8:01 PM,1:25,,,Boozer REBOUND (Off:2 Def:7),,
+0020800100,227,6,2,2,8:01 PM,1:13,Rush S.FOUL (P1.T2),,,,
+0020800100,228,3,11,2,8:02 PM,1:13,,,MISS Boozer Free Throw 1 of 2,,
+0020800100,229,4,1,2,8:02 PM,1:13,,,Jazz Rebound,,
+0020800100,230,8,0,2,8:02 PM,1:13,,,SUB: Koufos FOR Millsap,,
+0020800100,231,8,0,2,8:02 PM,1:13,,,SUB: Knight FOR D. Williams,,
+0020800100,232,3,12,2,8:02 PM,1:13,,,MISS Boozer Free Throw 2 of 2,,
+0020800100,234,4,0,2,8:02 PM,1:11,Iguodala REBOUND (Off:2 Def:2),,,,
+0020800100,235,5,2,2,8:02 PM,0:53,Iguodala Lost Ball Turnover (P2.T11),,Brewer STEAL (3 STL),,
+0020800100,236,2,5,2,8:03 PM,0:48,,,MISS Brewer  Layup,,
+0020800100,237,4,0,2,8:03 PM,0:47,,,Jazz Rebound,,
+0020800100,238,1,1,2,8:03 PM,0:45,,,Kirilenko 21' Jump Shot (8 PTS) (Koufos 1 AST),49 - 37,-12
+0020800100,239,2,1,2,8:03 PM,0:28,MISS Young 27' 3PT Jump Shot,,,,
+0020800100,240,4,0,2,8:03 PM,0:26,,,Boozer REBOUND (Off:2 Def:8),,
+0020800100,241,2,5,2,8:04 PM,0:04,,,MISS Boozer  Layup,,
+0020800100,242,4,0,2,8:04 PM,0:03,Young REBOUND (Off:1 Def:4),,,,
+0020800100,246,18,0,2,8:05 PM,0:00,,,,49 - 37,-12
+0020800100,247,13,0,2,8:05 PM,0:00,,,,49 - 37,-12
+0020800100,250,12,0,3,8:20 PM,12:00,,,,49 - 37,-12
+0020800100,251,2,5,3,8:21 PM,11:48,Brand BLOCK (2 BLK),,MISS Koufos  Layup,,
+0020800100,252,4,0,3,8:21 PM,11:47,,,Koufos REBOUND (Off:2 Def:2),,
+0020800100,253,1,5,3,8:21 PM,11:46,,,Miles  Layup (4 PTS) (Brewer 6 AST),51 - 37,-14
+0020800100,254,6,2,3,8:21 PM,11:46,Dalembert S.FOUL (P2.T1),,,,
+0020800100,260,3,10,3,8:21 PM,11:46,,,MISS Miles Free Throw 1 of 1,,
+0020800100,263,4,0,3,8:21 PM,11:46,Dalembert REBOUND (Off:1 Def:6),,,,
+0020800100,258,1,1,3,8:22 PM,11:31,Brand 13' Jump Shot (9 PTS) (Iguodala 3 AST),,,51 - 39,-12
+0020800100,259,5,4,3,8:22 PM,11:16,,,Boozer Traveling Turnover (P1.T7),,
+0020800100,261,2,1,3,8:22 PM,10:58,MISS Brand 7' Jump Shot,,,,
+0020800100,262,4,0,3,8:22 PM,10:57,,,Brewer REBOUND (Off:0 Def:3),,
+0020800100,264,1,65,3,8:23 PM,10:42,,,Koufos 7' Jump Hook Shot (6 PTS) (Miles 2 AST),53 - 39,-14
+0020800100,267,6,2,3,8:23 PM,10:23,,,Boozer S.FOUL (P2.T1),,
+0020800100,268,3,11,3,8:23 PM,10:23,MISS Young Free Throw 1 of 2,,,,
+0020800100,271,4,0,3,8:23 PM,10:23,76ERS Rebound,,,,
+0020800100,270,3,12,3,8:23 PM,10:23,Young Free Throw 2 of 2 (3 PTS),,,53 - 40,-13
+0020800100,274,2,1,3,8:24 PM,10:10,,,MISS Boozer 8' Jump Shot,,
+0020800100,275,4,0,3,8:24 PM,10:07,,,Miles REBOUND (Off:1 Def:0),,
+0020800100,276,5,2,3,8:24 PM,10:01,Iguodala STEAL (2 STL),,Brewer Lost Ball Turnover (P3.T8),,
+0020800100,277,2,5,3,8:24 PM,9:56,MISS Young  Layup,,Koufos BLOCK (2 BLK),,
+0020800100,278,4,0,3,8:24 PM,9:53,,,Boozer REBOUND (Off:2 Def:9),,
+0020800100,279,2,1,3,8:24 PM,9:47,,,MISS Miles 28' 3PT Jump Shot,,
+0020800100,280,4,0,3,8:24 PM,9:46,Dalembert REBOUND (Off:1 Def:7),,,,
+0020800100,281,6,2,3,8:24 PM,9:41,,,Miles S.FOUL (P1.T2),,
+0020800100,282,3,11,3,8:25 PM,9:41,Iguodala Free Throw 1 of 2 (6 PTS),,,53 - 41,-12
+0020800100,284,3,12,3,8:25 PM,9:41,Iguodala Free Throw 2 of 2 (7 PTS),,,53 - 42,-11
+0020800100,287,2,1,3,8:25 PM,9:27,,,MISS Koufos 8' Jump Shot,,
+0020800100,288,4,0,3,8:25 PM,9:25,,,Koufos REBOUND (Off:3 Def:2),,
+0020800100,289,2,5,3,8:25 PM,9:15,,,MISS D. Williams  Layup,,
+0020800100,290,4,0,3,8:25 PM,9:13,Brand REBOUND (Off:0 Def:5),,,,
+0020800100,291,1,1,3,8:26 PM,9:00,Iguodala 26' 3PT Jump Shot (10 PTS) (Miller 4 AST),,,53 - 45,-8
+0020800100,292,6,2,3,8:26 PM,8:43,Dalembert S.FOUL (P3.T2),,,,
+0020800100,293,3,11,3,8:26 PM,8:43,,,D. Williams Free Throw 1 of 2 (5 PTS),54 - 45,-9
+0020800100,295,3,12,3,8:26 PM,8:43,,,MISS D. Williams Free Throw 2 of 2,,
+0020800100,297,4,0,3,8:28 PM,8:43,,,Boozer REBOUND (Off:3 Def:9),,
+0020800100,298,1,1,3,8:28 PM,8:27,,,Miles 24' 3PT Jump Shot (7 PTS) (Brewer 7 AST),57 - 45,-12
+0020800100,299,9,1,3,8:28 PM,8:16,76ERS Timeout: Regular (Full 3 Short 1),,,,
+0020800100,300,2,1,3,8:31 PM,8:03,MISS Young 20' Jump Shot,,,,
+0020800100,301,4,0,3,8:31 PM,8:02,76ERS Rebound,,,,
+0020800100,302,1,1,3,8:31 PM,7:57,Iguodala 17' Jump Shot (12 PTS),,,57 - 47,-10
+0020800100,303,2,1,3,8:32 PM,7:39,,,MISS Miles 24' 3PT Jump Shot,,
+0020800100,304,4,0,3,8:32 PM,7:37,,,Boozer REBOUND (Off:4 Def:9),,
+0020800100,305,2,5,3,8:32 PM,7:35,,,MISS Boozer  Layup,,
+0020800100,306,4,0,3,8:32 PM,7:33,Iguodala REBOUND (Off:2 Def:3),,,,
+0020800100,307,1,5,3,8:32 PM,7:29,Miller  Layup (15 PTS) (Young 2 AST),,,57 - 49,-8
+0020800100,308,2,1,3,8:32 PM,7:11,,,MISS Miles 19' Jump Shot,,
+0020800100,309,4,0,3,8:32 PM,7:09,Iguodala REBOUND (Off:2 Def:4),,,,
+0020800100,310,6,1,3,8:32 PM,7:02,,,Miles P.FOUL (P2.T3),,
+0020800100,311,5,40,3,8:33 PM,6:58,Iguodala Out of Bounds Lost Ball Turnover (P3.T12),,,,
+0020800100,312,2,1,3,8:33 PM,6:49,,,MISS Koufos 16' Jump Shot,,
+0020800100,313,4,0,3,8:33 PM,6:48,Dalembert REBOUND (Off:1 Def:8),,,,
+0020800100,314,1,42,3,8:33 PM,6:27,Young  Driving Layup (5 PTS) (Miller 5 AST),,,57 - 51,-6
+0020800100,315,1,63,3,8:34 PM,6:04,,,Boozer 14' Fadeaway Jumper (17 PTS) (Brewer 8 AST),59 - 51,-8
+0020800100,316,1,5,3,8:34 PM,5:57,Miller  Layup (17 PTS),,,59 - 53,-6
+0020800100,317,2,1,3,8:34 PM,5:36,,,MISS D. Williams 26' 3PT Jump Shot,,
+0020800100,318,4,0,3,8:34 PM,5:33,Iguodala REBOUND (Off:2 Def:5),,,,
+0020800100,319,1,5,3,8:34 PM,5:30,Miller  Layup (19 PTS) (Iguodala 4 AST),,,59 - 55,-4
+0020800100,320,9,1,3,8:34 PM,5:19,,,Jazz Timeout: Regular (Reg.3 Short 0),,
+0020800100,322,8,0,3,8:37 PM,5:19,,,SUB: Millsap FOR Koufos,,
+0020800100,323,8,0,3,8:37 PM,5:19,,,SUB: Kirilenko FOR Miles,,
+0020800100,324,5,1,3,8:37 PM,5:05,,,D. Williams Bad Pass Turnover (P2.T9),,
+0020800100,325,2,1,3,8:38 PM,4:48,MISS Brand 9' Jump Shot,,,,
+0020800100,326,4,0,3,8:38 PM,4:47,Dalembert REBOUND (Off:2 Def:8),,,,
+0020800100,327,6,2,3,8:38 PM,4:47,,,Brewer S.FOUL (P1.T4),,
+0020800100,328,3,11,3,8:38 PM,4:47,Dalembert Free Throw 1 of 2 (3 PTS),,,59 - 56,-3
+0020800100,330,3,12,3,8:38 PM,4:47,Dalembert Free Throw 2 of 2 (4 PTS),,,59 - 57,-2
+0020800100,332,2,1,3,8:39 PM,4:31,Brand BLOCK (3 BLK),,MISS Boozer 10' Jump Shot,,
+0020800100,333,4,0,3,8:39 PM,4:29,76ERS Rebound,,,,
+0020800100,334,1,42,3,8:39 PM,4:18,Miller  Driving Layup (21 PTS) (Brand 1 AST),,,59 - 59,TIE
+0020800100,335,2,5,3,8:39 PM,3:59,Dalembert BLOCK (2 BLK),,MISS Brewer  Layup,,
+0020800100,336,4,0,3,8:39 PM,3:57,Young REBOUND (Off:1 Def:5),,,,
+0020800100,337,1,44,3,8:39 PM,3:47,Miller  Reverse Layup (23 PTS) (Dalembert 1 AST),,,59 - 61,2
+0020800100,338,2,1,3,8:40 PM,3:31,,,MISS Millsap 13' Jump Shot,,
+0020800100,339,4,0,3,8:40 PM,3:29,Iguodala REBOUND (Off:2 Def:6),,,,
+0020800100,340,5,40,3,8:40 PM,3:16,Brand Out of Bounds Lost Ball Turnover (P3.T13),,,,
+0020800100,341,8,0,3,8:40 PM,3:16,,,SUB: Knight FOR D. Williams,,
+0020800100,342,5,8,3,8:41 PM,2:57,,,Millsap 3 Second Violation Turnover (P1.T10),,
+0020800100,343,2,1,3,8:41 PM,2:41,MISS Brand 13' Jump Shot,,,,
+0020800100,344,4,0,3,8:41 PM,2:40,,,Boozer REBOUND (Off:4 Def:10),,
+0020800100,345,1,5,3,8:41 PM,2:21,,,Kirilenko  Layup (10 PTS) (Knight 1 AST),61 - 61,TIE
+0020800100,346,1,47,3,8:42 PM,1:58,Dalembert 15' Turnaround Jump Shot (6 PTS) (Young 3 AST),,,61 - 63,2
+0020800100,347,2,1,3,8:42 PM,1:38,Brand BLOCK (4 BLK),,MISS Millsap 8' Jump Shot,,
+0020800100,348,4,0,3,8:42 PM,1:35,Iguodala REBOUND (Off:2 Def:7),,,,
+0020800100,349,1,5,3,8:42 PM,1:30,Brand  Layup (11 PTS) (Iguodala 5 AST),,,61 - 65,4
+0020800100,350,6,1,3,8:43 PM,1:12,Brand P.FOUL (P3.T3),,,,
+0020800100,351,8,0,3,8:43 PM,1:12,SUB: Williams FOR Young,,,,
+0020800100,352,8,0,3,8:43 PM,1:12,SUB: Speights FOR Brand,,,,
+0020800100,353,1,63,3,8:44 PM,0:57,,,Millsap 22' Fadeaway Jumper (12 PTS) (Boozer 2 AST),63 - 65,2
+0020800100,354,2,1,3,8:44 PM,0:44,MISS Williams  3PT Jump Shot,,,,
+0020800100,355,4,0,3,8:44 PM,0:43,76ERS Rebound,,,,
+0020800100,356,6,3,3,8:44 PM,0:43,,,Boozer L.B.FOUL (P3.PN),,
+0020800100,357,3,11,3,8:44 PM,0:43,Speights Free Throw 1 of 2 (1 PTS),,,63 - 66,3
+0020800100,359,8,0,3,8:44 PM,0:43,SUB: Green FOR Miller,,,,
+0020800100,361,8,0,3,8:45 PM,0:43,,,SUB: Korver FOR Boozer,,
+0020800100,362,3,12,3,8:45 PM,0:43,Speights Free Throw 2 of 2 (2 PTS),,,63 - 67,4
+0020800100,364,2,1,3,8:45 PM,0:29,,,MISS Brewer 21' Jump Shot,,
+0020800100,365,4,0,3,8:45 PM,0:27,Iguodala REBOUND (Off:2 Def:8),,,,
+0020800100,366,2,5,3,8:45 PM,0:05,MISS Williams  Layup,,,,
+0020800100,367,4,0,3,8:45 PM,0:04,,,Korver REBOUND (Off:0 Def:2),,
+0020800100,370,18,0,3,8:46 PM,0:00,,,,63 - 67,4
+0020800100,371,13,0,3,8:47 PM,0:00,,,,63 - 67,4
+0020800100,374,12,0,4,8:48 PM,12:00,,,,63 - 67,4
+0020800100,375,2,7,4,8:49 PM,11:48,MISS Speights  Dunk,,,,
+0020800100,376,4,0,4,8:49 PM,11:47,,,Brewer REBOUND (Off:0 Def:4),,
+0020800100,377,2,5,4,8:49 PM,11:23,Speights BLOCK (1 BLK),,MISS Millsap  Layup,,
+0020800100,379,4,0,4,8:49 PM,11:20,,,Kirilenko REBOUND (Off:2 Def:2),,
+0020800100,378,2,4,4,8:49 PM,11:20,,,MISS Kirilenko  Tip Shot,,
+0020800100,381,4,0,4,8:49 PM,11:19,,,Kirilenko REBOUND (Off:3 Def:2),,
+0020800100,380,1,4,4,8:49 PM,11:19,,,Kirilenko  Tip Shot (12 PTS),65 - 67,2
+0020800100,382,5,2,4,8:49 PM,11:06,Williams Lost Ball Turnover (P3.T14),,Knight STEAL (1 STL),,
+0020800100,383,2,1,4,8:49 PM,10:59,,,MISS Knight 14' Jump Shot,,
+0020800100,384,4,0,4,8:50 PM,10:58,,,Jazz Rebound,,
+0020800100,385,6,3,4,8:50 PM,10:58,Speights L.B.FOUL (P1.T1),,,,
+0020800100,386,8,0,4,8:50 PM,10:58,SUB: Young FOR Iguodala,,,,
+0020800100,387,2,5,4,8:50 PM,10:48,Young BLOCK (1 BLK),,MISS Brewer  Layup,,
+0020800100,388,4,0,4,8:50 PM,10:46,,,Millsap REBOUND (Off:1 Def:1),,
+0020800100,389,1,5,4,8:50 PM,10:44,,,Brewer  Layup (2 PTS) (Millsap 2 AST),67 - 67,TIE
+0020800100,390,6,2,4,8:50 PM,10:44,Speights S.FOUL (P2.T2),,,,
+0020800100,391,3,10,4,8:50 PM,10:44,,,Brewer Free Throw 1 of 1 (3 PTS),68 - 67,-1
+0020800100,394,2,1,4,8:51 PM,10:25,MISS Green 26' 3PT Jump Shot,,,,
+0020800100,395,4,0,4,8:51 PM,10:22,,,Jazz Rebound,,
+0020800100,396,8,0,4,8:51 PM,10:22,SUB: Brand FOR Dalembert,,,,
+0020800100,397,1,1,4,8:52 PM,10:09,,,Brewer 17' Jump Shot (5 PTS) (Kirilenko 1 AST),70 - 67,-3
+0020800100,398,5,39,4,8:52 PM,9:47,Brand Step Out of Bounds Turnover (P4.T15),,,,
+0020800100,400,5,4,4,8:53 PM,9:25,,,Brewer Traveling Turnover (P4.T11),,
+0020800100,401,8,0,4,8:53 PM,9:25,SUB: Rush FOR Speights,,,,
+0020800100,402,10,0,4,8:53 PM,9:17,Jump Ball Brand vs. Millsap: Tip to Kirilenko,,,,
+0020800100,403,5,2,4,8:53 PM,9:17,Brand Lost Ball Turnover (P5.T16),,Millsap STEAL (1 STL),,
+0020800100,404,5,1,4,8:53 PM,9:14,Williams STEAL (1 STL),,Kirilenko Bad Pass Turnover (P1.T12),,
+0020800100,405,2,5,4,8:54 PM,9:11,MISS Williams  Layup,,,,
+0020800100,406,4,0,4,8:54 PM,9:10,,,Millsap REBOUND (Off:1 Def:2),,
+0020800100,407,6,2,4,8:54 PM,8:59,Williams S.FOUL (P1.T3),,,,
+0020800100,408,9,4,4,8:54 PM,8:59,,,,,
+0020800100,409,3,11,4,8:56 PM,8:59,,,Kirilenko Free Throw 1 of 2 (13 PTS),71 - 67,-4
+0020800100,411,3,12,4,8:56 PM,8:59,,,Kirilenko Free Throw 2 of 2 (14 PTS),72 - 67,-5
+0020800100,413,2,5,4,8:57 PM,8:38,MISS Brand  Layup,,,,
+0020800100,415,4,0,4,8:57 PM,8:36,Young REBOUND (Off:2 Def:5),,,,
+0020800100,414,2,4,4,8:57 PM,8:36,MISS Young  Tip Shot,,,,
+0020800100,417,4,0,4,8:57 PM,8:34,Young REBOUND (Off:3 Def:5),,,,
+0020800100,416,1,4,4,8:57 PM,8:34,Young  Tip Shot (7 PTS),,,72 - 69,-3
+0020800100,418,1,5,4,8:57 PM,8:18,,,Brewer  Layup (7 PTS) (Kirilenko 2 AST),74 - 69,-5
+0020800100,419,6,1,4,8:58 PM,8:04,,,Knight P.FOUL (P1.T1),,
+0020800100,420,8,0,4,8:58 PM,8:04,SUB: Miller FOR Rush,,,,
+0020800100,421,8,0,4,8:58 PM,8:04,SUB: Iguodala FOR Williams,,,,
+0020800100,422,2,5,4,8:58 PM,7:53,MISS Young  Layup,,,,
+0020800100,424,4,0,4,8:58 PM,7:50,Young REBOUND (Off:4 Def:5),,,,
+0020800100,423,2,5,4,8:58 PM,7:50,MISS Young  Layup,,,,
+0020800100,425,4,0,4,8:58 PM,7:49,,,Jazz Rebound,,
+0020800100,426,6,3,4,8:58 PM,7:49,Brand L.B.FOUL (P4.T4),,,,
+0020800100,428,2,1,4,8:59 PM,7:28,,,MISS Korver  3PT Jump Shot,,
+0020800100,429,4,0,4,8:59 PM,7:26,Green REBOUND (Off:0 Def:1),,,,
+0020800100,430,2,1,4,8:59 PM,7:10,MISS Young 7' Jump Shot,,,,
+0020800100,431,4,0,4,8:59 PM,7:08,,,Brewer REBOUND (Off:0 Def:5),,
+0020800100,432,2,5,4,8:59 PM,6:55,,,MISS Knight  Layup,,
+0020800100,433,4,0,4,8:59 PM,6:54,,,Brewer REBOUND (Off:1 Def:5),,
+0020800100,434,6,2,4,9:00 PM,6:54,Green S.FOUL (P2.PN),,,,
+0020800100,435,3,11,4,9:00 PM,6:54,,,Brewer Free Throw 1 of 2 (8 PTS),75 - 69,-6
+0020800100,437,8,0,4,9:00 PM,6:54,SUB: Dalembert FOR Green,,,,
+0020800100,438,3,12,4,9:00 PM,6:54,,,Brewer Free Throw 2 of 2 (9 PTS),76 - 69,-7
+0020800100,440,2,5,4,9:00 PM,6:38,MISS Miller  Layup,,Millsap BLOCK (2 BLK),,
+0020800100,441,4,0,4,9:01 PM,6:36,,,Knight REBOUND (Off:0 Def:1),,
+0020800100,442,2,1,4,9:01 PM,6:19,,,MISS Korver 24' 3PT Jump Shot,,
+0020800100,443,4,0,4,9:01 PM,6:16,,,Millsap REBOUND (Off:2 Def:2),,
+0020800100,444,5,4,4,9:01 PM,6:15,,,Knight Traveling Turnover (P1.T13),,
+0020800100,445,1,79,4,9:02 PM,6:04,Iguodala 20' Pullup Jump Shot (14 PTS),,,76 - 71,-5
+0020800100,446,2,1,4,9:02 PM,5:41,,,MISS Knight 19' Jump Shot,,
+0020800100,447,4,0,4,9:02 PM,5:39,Young REBOUND (Off:4 Def:6),,,,
+0020800100,448,2,5,4,9:02 PM,5:28,MISS Miller  Layup,,Millsap BLOCK (3 BLK),,
+0020800100,449,4,0,4,9:02 PM,5:25,,,Kirilenko REBOUND (Off:3 Def:3),,
+0020800100,450,2,5,4,9:03 PM,5:11,Brand BLOCK (5 BLK),,MISS Brewer  Layup,,
+0020800100,452,4,0,4,9:03 PM,5:09,,,Millsap REBOUND (Off:3 Def:2),,
+0020800100,451,1,72,4,9:03 PM,5:09,,,Millsap  Putback Layup (14 PTS),78 - 71,-7
+0020800100,453,9,1,4,9:03 PM,5:03,76ERS Timeout: Regular (Full 4 Short 1),,,,
+0020800100,454,8,0,4,9:05 PM,5:03,,,SUB: D. Williams FOR Knight,,
+0020800100,455,8,0,4,9:05 PM,5:01,,,SUB: Boozer FOR Korver,,
+0020800100,456,6,1,4,9:06 PM,4:56,,,Millsap P.FOUL (P3.T2),,
+0020800100,457,8,0,4,9:06 PM,4:56,,,SUB: Korver FOR Millsap,,
+0020800100,458,2,1,4,9:07 PM,4:44,MISS Miller 19' Jump Shot,,,,
+0020800100,459,4,0,4,9:07 PM,4:43,,,Kirilenko REBOUND (Off:3 Def:4),,
+0020800100,460,6,1,4,9:07 PM,4:43,Dalembert P.FOUL (P4.PN),,,,
+0020800100,461,3,11,4,9:07 PM,4:43,,,Kirilenko Free Throw 1 of 2 (15 PTS),79 - 71,-8
+0020800100,463,3,12,4,9:07 PM,4:43,,,Kirilenko Free Throw 2 of 2 (16 PTS),80 - 71,-9
+0020800100,465,6,2,4,9:08 PM,4:28,,,Korver S.FOUL (P2.T3),,
+0020800100,466,3,11,4,9:08 PM,4:28,Young Free Throw 1 of 2 (8 PTS),,,80 - 72,-8
+0020800100,468,8,0,4,9:08 PM,4:28,,,SUB: Millsap FOR Korver,,
+0020800100,469,3,12,4,9:08 PM,4:28,Young Free Throw 2 of 2 (9 PTS),,,80 - 73,-7
+0020800100,471,1,85,4,9:09 PM,4:11,,,Brewer 12' Turnaround Bank Shot (11 PTS),82 - 73,-9
+0020800100,472,6,2,4,9:09 PM,4:11,Iguodala S.FOUL (P1.PN),,,,
+0020800100,473,3,10,4,9:09 PM,4:11,,,Brewer Free Throw 1 of 1 (12 PTS),83 - 73,-10
+0020800100,475,1,1,4,9:10 PM,3:56,Brand 13' Jump Shot (13 PTS) (Miller 6 AST),,,83 - 75,-8
+0020800100,476,6,4,4,9:10 PM,3:32,,,Brewer OFF.Foul (P2),,
+0020800100,477,5,5,4,9:10 PM,3:32,,,Brewer Foul Turnover (P5.T14),,
+0020800100,478,5,2,4,9:10 PM,3:22,Iguodala Lost Ball Turnover (P4.T17),,Brewer STEAL (4 STL),,
+0020800100,479,1,8,4,9:10 PM,3:19,,,Brewer  Slam Dunk (14 PTS),85 - 75,-10
+0020800100,480,6,2,4,9:11 PM,3:03,,,Millsap S.FOUL (P4.T4),,
+0020800100,481,3,11,4,9:11 PM,3:03,MISS Iguodala Free Throw 1 of 2,,,,
+0020800100,482,4,1,4,9:11 PM,3:03,76ERS Rebound,,,,
+0020800100,483,3,12,4,9:11 PM,3:03,Iguodala Free Throw 2 of 2 (15 PTS),,,85 - 76,-9
+0020800100,485,9,1,4,9:12 PM,2:51,,,Jazz Timeout: Regular (Reg.4 Short 0),,
+0020800100,486,1,44,4,9:14 PM,2:47,,,Boozer  Reverse Layup (19 PTS) (D. Williams 9 AST),87 - 76,-11
+0020800100,487,2,1,4,9:15 PM,2:31,MISS Brand 11' Jump Shot,,,,
+0020800100,488,4,0,4,9:15 PM,2:29,,,Boozer REBOUND (Off:4 Def:11),,
+0020800100,489,1,1,4,9:15 PM,2:10,,,Brewer 16' Jump Shot (16 PTS) (Kirilenko 3 AST),89 - 76,-13
+0020800100,490,9,1,4,9:15 PM,2:03,76ERS Timeout: Regular (Full 5 Short 1),,,,
+0020800100,491,2,1,4,9:17 PM,1:57,MISS Miller 11' Jump Shot,,,,
+0020800100,492,4,0,4,9:17 PM,1:56,,,Kirilenko REBOUND (Off:3 Def:5),,
+0020800100,493,2,1,4,9:17 PM,1:34,,,MISS D. Williams 28' 3PT Jump Shot,,
+0020800100,494,4,0,4,9:17 PM,1:32,Dalembert REBOUND (Off:2 Def:9),,,,
+0020800100,495,6,2,4,9:17 PM,1:28,,,D. Williams S.FOUL (P3.PN),,
+0020800100,496,3,11,4,9:18 PM,1:28,Miller Free Throw 1 of 2 (24 PTS),,,89 - 77,-12
+0020800100,497,8,0,4,9:18 PM,1:28,SUB: Speights FOR Brand,,,,
+0020800100,499,3,12,4,9:18 PM,1:28,Miller Free Throw 2 of 2 (25 PTS),,,89 - 78,-11
+0020800100,501,6,1,4,9:19 PM,1:10,Miller P.FOUL (P1.PN),,,,
+0020800100,502,8,0,4,9:19 PM,1:10,SUB: Ivey FOR Miller,,,,
+0020800100,503,3,11,4,9:19 PM,1:10,,,D. Williams Free Throw 1 of 2 (6 PTS),90 - 78,-12
+0020800100,505,3,12,4,9:19 PM,1:10,,,D. Williams Free Throw 2 of 2 (7 PTS),91 - 78,-13
+0020800100,507,2,1,4,9:19 PM,0:58,MISS Iguodala 21' Jump Shot,,,,
+0020800100,508,4,0,4,9:19 PM,0:56,,,Boozer REBOUND (Off:4 Def:12),,
+0020800100,509,5,1,4,9:20 PM,0:53,Ivey STEAL (1 STL),,Boozer Bad Pass Turnover (P2.T15),,
+0020800100,510,1,5,4,9:20 PM,0:46,Speights  Layup (4 PTS) (Young 4 AST),,,91 - 80,-11
+0020800100,511,1,5,4,9:20 PM,0:24,,,Millsap  Layup (16 PTS) (Brewer 9 AST),93 - 80,-13
+0020800100,512,2,1,4,9:20 PM,0:12,MISS Young 8' Jump Shot,,,,
+0020800100,513,4,0,4,9:20 PM,0:10,Young REBOUND (Off:5 Def:6),,,,
+0020800100,514,2,1,4,9:20 PM,0:04,MISS Dalembert 13' Jump Shot,,,,
+0020800100,515,4,0,4,9:20 PM,0:02,,,Millsap REBOUND (Off:3 Def:3),,
+0020800100,516,13,0,4,9:21 PM,0:00,,,,93 - 80,-13

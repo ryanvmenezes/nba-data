@@ -1,0 +1,442 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000506,0,12,0,1,7:44 PM,12:00,,,,,
+0021000506,1,10,0,1,7:44 PM,12:00,Jump Ball Stoudemire vs. Duncan: Tip to Parker,,,,
+0021000506,2,1,3,1,7:44 PM,11:43,,,Duncan 3' Hook Shot (2 PTS),2 - 0,-2
+0021000506,3,1,52,1,7:45 PM,11:34,Fields 1' Alley Oop Dunk (2 PTS) (Stoudemire 1 AST),,,2 - 2,TIE
+0021000506,4,7,5,1,7:45 PM,11:23,Stoudemire Violation:Kicked Ball,,,,
+0021000506,5,1,5,1,7:45 PM,11:08,,,Blair 2' Layup (2 PTS) (Ginobili 1 AST),4 - 2,-2
+0021000506,6,2,5,1,7:45 PM,10:55,MISS Stoudemire 2' Layup,,,,
+0021000506,7,4,0,1,7:45 PM,10:55,,,Spurs Rebound,,
+0021000506,8,1,5,1,7:46 PM,10:39,,,Blair 1' Layup (4 PTS),6 - 2,-4
+0021000506,9,1,1,1,7:46 PM,10:18,Felton 17' Jump Shot (2 PTS),,,6 - 4,-2
+0021000506,10,1,5,1,7:47 PM,10:02,,,Blair 3' Layup (6 PTS) (Ginobili 2 AST),8 - 4,-4
+0021000506,11,1,80,1,7:47 PM,9:52,Fields 19' Step Back Jump Shot (4 PTS) (Stoudemire 2 AST),,,8 - 6,-2
+0021000506,12,5,1,1,7:47 PM,9:41,Fields STEAL (1 STL),,Jefferson Bad Pass Turnover (P1.T1),,
+0021000506,13,1,8,1,7:47 PM,9:34,Turiaf 1' Slam Dunk (2 PTS) (Fields 1 AST),,,8 - 8,TIE
+0021000506,14,1,78,1,7:47 PM,9:17,,,Ginobili 5' Floating Jump Shot (2 PTS) (Parker 1 AST),10 - 8,-2
+0021000506,15,1,42,1,7:48 PM,8:55,Felton 1' Driving Layup (4 PTS),,,10 - 10,TIE
+0021000506,16,5,1,1,7:48 PM,8:45,,,Duncan Bad Pass Turnover (P1.T2),,
+0021000506,17,1,1,1,7:48 PM,8:31,Stoudemire 18' Jump Shot (2 PTS) (Chandler 1 AST),,,10 - 12,2
+0021000506,18,9,1,1,7:48 PM,8:28,,,Spurs Timeout: Regular (Reg.1 Short 0),,
+0021000506,22,2,1,1,7:52 PM,8:13,,,MISS Duncan 7' Jump Shot,,
+0021000506,23,4,0,1,7:52 PM,8:10,,,Blair REBOUND (Off:1 Def:0),,
+0021000506,24,1,4,1,7:52 PM,8:10,,,Blair 3' Tip Shot (8 PTS),12 - 12,TIE
+0021000506,25,1,1,1,7:52 PM,7:54,Felton 20' Jump Shot (6 PTS),,,12 - 14,2
+0021000506,26,1,1,1,7:52 PM,7:40,,,Jefferson 21' Jump Shot (2 PTS) (Parker 2 AST),14 - 14,TIE
+0021000506,27,6,1,1,7:53 PM,7:24,,,Ginobili P.FOUL (P1.T1),,
+0021000506,28,2,1,1,7:53 PM,7:18,MISS Chandler 25' 3PT Jump Shot,,,,
+0021000506,29,4,0,1,7:53 PM,7:18,Fields REBOUND (Off:1 Def:0),,,,
+0021000506,30,1,1,1,7:53 PM,7:04,Chandler 24' 3PT Jump Shot (3 PTS) (Stoudemire 3 AST),,,14 - 17,3
+0021000506,31,1,1,1,7:53 PM,6:50,,,Parker 19' Jump Shot (2 PTS),16 - 17,1
+0021000506,32,2,1,1,7:53 PM,6:42,MISS Felton 26' 3PT Jump Shot,,,,
+0021000506,33,4,0,1,7:53 PM,6:41,,,Ginobili REBOUND (Off:0 Def:1),,
+0021000506,34,2,1,1,7:53 PM,6:35,,,MISS Duncan 5' Jump Shot,,
+0021000506,35,4,0,1,7:53 PM,6:33,,,Blair REBOUND (Off:2 Def:0),,
+0021000506,36,2,5,1,7:54 PM,6:33,Fields BLOCK (1 BLK),,MISS Blair 3' Layup,,
+0021000506,37,4,0,1,7:54 PM,6:32,Felton REBOUND (Off:0 Def:1),,,,
+0021000506,38,6,1,1,7:54 PM,6:21,,,Blair P.FOUL (P1.T2),,
+0021000506,39,3,11,1,7:54 PM,6:21,Stoudemire Free Throw 1 of 2 (3 PTS),,,16 - 18,2
+0021000506,41,3,12,1,7:54 PM,6:21,MISS Stoudemire Free Throw 2 of 2,,,,
+0021000506,43,4,0,1,7:55 PM,6:20,,,Blair REBOUND (Off:2 Def:1),,
+0021000506,44,2,1,1,7:55 PM,6:04,,,MISS Duncan 18' Jump Shot,,
+0021000506,45,4,0,1,7:55 PM,6:04,Felton REBOUND (Off:0 Def:2),,,,
+0021000506,46,1,42,1,7:55 PM,5:58,Chandler 2' Driving Layup (5 PTS),,,16 - 20,4
+0021000506,47,6,2,1,7:55 PM,5:51,Felton S.FOUL (P1.T1),,,,
+0021000506,48,3,11,1,7:55 PM,5:51,,,MISS Parker Free Throw 1 of 2,,
+0021000506,49,4,1,1,7:55 PM,5:51,,,Spurs Rebound,,
+0021000506,50,3,12,1,7:55 PM,5:51,,,Parker Free Throw 2 of 2 (3 PTS),17 - 20,3
+0021000506,52,5,2,1,7:56 PM,5:34,Chandler Lost Ball Turnover (P1.T1),,Parker STEAL (1 STL),,
+0021000506,53,6,1,1,7:56 PM,5:31,Stoudemire P.FOUL (P1.T2),,,,
+0021000506,54,3,11,1,7:56 PM,5:31,,,Jefferson Free Throw 1 of 2 (3 PTS),18 - 20,2
+0021000506,56,8,0,1,7:57 PM,5:31,,,SUB: Hill FOR Ginobili,,
+0021000506,57,8,0,1,7:57 PM,5:31,,,SUB: Bonner FOR Blair,,
+0021000506,58,8,0,1,7:57 PM,5:31,SUB: Douglas FOR Fields,,,,
+0021000506,59,3,12,1,7:57 PM,5:31,,,MISS Jefferson Free Throw 2 of 2,,
+0021000506,61,4,0,1,7:57 PM,5:29,Chandler REBOUND (Off:0 Def:1),,,,
+0021000506,62,1,1,1,7:57 PM,5:16,Stoudemire 16' Jump Shot (5 PTS) (Douglas 1 AST),,,18 - 22,4
+0021000506,63,6,2,1,7:57 PM,5:01,Turiaf S.FOUL (P1.T3),,,,
+0021000506,64,3,11,1,7:58 PM,5:01,,,Duncan Free Throw 1 of 2 (3 PTS),19 - 22,3
+0021000506,66,8,0,1,7:58 PM,5:01,SUB: Shaw. Williams FOR Turiaf,,,,
+0021000506,67,3,12,1,7:58 PM,5:01,,,Duncan Free Throw 2 of 2 (4 PTS),20 - 22,2
+0021000506,69,6,2,1,7:58 PM,4:51,,,Duncan S.FOUL (P1.T3),,
+0021000506,70,3,11,1,7:59 PM,4:51,Stoudemire Free Throw 1 of 2 (6 PTS),,,20 - 23,3
+0021000506,72,3,12,1,7:59 PM,4:51,Stoudemire Free Throw 2 of 2 (7 PTS),,,20 - 24,4
+0021000506,74,2,1,1,7:59 PM,4:30,,,MISS Parker  3PT Jump Shot,,
+0021000506,75,4,0,1,7:59 PM,4:30,,,Bonner REBOUND (Off:1 Def:0),,
+0021000506,76,2,1,1,8:00 PM,4:06,,,MISS Duncan 9' Jump Shot,,
+0021000506,77,4,0,1,8:00 PM,4:06,Chandler REBOUND (Off:0 Def:2),,,,
+0021000506,78,1,1,1,8:00 PM,3:52,Chandler 26' 3PT Jump Shot (8 PTS) (Stoudemire 4 AST),,,20 - 27,7
+0021000506,79,1,1,1,8:00 PM,3:32,,,Jefferson 20' Jump Shot (5 PTS) (Bonner 1 AST),22 - 27,5
+0021000506,80,1,5,1,8:01 PM,3:24,Chandler 3' Layup (10 PTS) (Felton 1 AST),,,22 - 29,7
+0021000506,82,7,2,1,8:01 PM,3:11,Stoudemire Violation:Defensive Goaltending,,,,
+0021000506,81,1,5,1,8:01 PM,3:11,,,Parker 1' Layup (5 PTS),24 - 29,5
+0021000506,83,6,2,1,8:01 PM,3:11,Shaw. Williams S.FOUL (P1.T4),,,,
+0021000506,84,8,0,1,8:01 PM,3:11,,,SUB: McDyess FOR Duncan,,
+0021000506,85,3,10,1,8:01 PM,3:11,,,Parker Free Throw 1 of 1 (6 PTS),25 - 29,4
+0021000506,87,2,1,1,8:02 PM,2:57,MISS Stoudemire 11' Jump Shot,,,,
+0021000506,88,4,0,1,8:02 PM,2:56,,,McDyess REBOUND (Off:0 Def:1),,
+0021000506,89,5,1,1,8:02 PM,2:54,Douglas STEAL (1 STL),,McDyess Bad Pass Turnover (P1.T3),,
+0021000506,90,5,1,1,8:02 PM,2:53,Douglas Bad Pass Turnover (P1.T2),,Parker STEAL (2 STL),,
+0021000506,91,6,2,1,8:02 PM,2:50,Shaw. Williams S.FOUL (P2.PN),,,,
+0021000506,92,9,1,1,8:02 PM,2:50,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0021000506,95,8,0,1,8:05 PM,2:50,SUB: Walker FOR Stoudemire,,,,
+0021000506,96,3,11,1,8:05 PM,2:50,,,Parker Free Throw 1 of 2 (7 PTS),26 - 29,3
+0021000506,98,3,12,1,8:05 PM,2:50,,,Parker Free Throw 2 of 2 (8 PTS),27 - 29,2
+0021000506,100,2,1,1,8:06 PM,2:31,MISS Shaw. Williams 21' Jump Shot,,,,
+0021000506,101,4,0,1,8:06 PM,2:30,,,Bonner REBOUND (Off:1 Def:1),,
+0021000506,102,1,42,1,8:06 PM,2:17,,,Parker 1' Driving Layup (10 PTS),29 - 29,TIE
+0021000506,103,2,1,1,8:06 PM,2:03,MISS Douglas 25' 3PT Jump Shot,,,,
+0021000506,104,4,0,1,8:06 PM,2:02,,,Hill REBOUND (Off:0 Def:1),,
+0021000506,105,2,1,1,8:06 PM,1:51,,,MISS Parker 17' Jump Shot,,
+0021000506,106,4,0,1,8:06 PM,1:50,,,Spurs Rebound,,
+0021000506,107,8,0,1,8:07 PM,1:49,,,SUB: Ginobili FOR Parker,,
+0021000506,108,8,0,1,8:07 PM,1:49,,,SUB: Neal FOR Jefferson,,
+0021000506,109,8,0,1,8:07 PM,1:49,SUB: Fields FOR Felton,,,,
+0021000506,110,1,1,1,8:07 PM,1:46,,,Ginobili 15' Jump Shot (4 PTS) (Bonner 2 AST),31 - 29,-2
+0021000506,111,1,44,1,8:07 PM,1:21,Shaw. Williams 2' Reverse Layup (2 PTS),,,31 - 31,TIE
+0021000506,112,5,1,1,8:08 PM,1:12,Douglas STEAL (2 STL),,McDyess Bad Pass Turnover (P2.T4),,
+0021000506,113,6,3,1,8:08 PM,1:12,,,Neal L.B.FOUL (P1.T4),,
+0021000506,114,1,1,1,8:08 PM,1:02,Walker 25' 3PT Jump Shot (3 PTS) (Douglas 2 AST),,,31 - 34,3
+0021000506,115,1,1,1,8:08 PM,0:43,,,Hill 21' Jump Shot (2 PTS),33 - 34,1
+0021000506,116,1,63,1,8:09 PM,0:34,Chandler 14' Fadeaway Jumper (12 PTS) (Douglas 3 AST),,,33 - 36,3
+0021000506,117,1,42,1,8:09 PM,0:14,,,Hill 2' Driving Layup (4 PTS),35 - 36,1
+0021000506,118,2,1,1,8:09 PM,0:06,MISS Walker 25' 3PT Jump Shot,,,,
+0021000506,119,4,0,1,8:09 PM,0:06,Chandler REBOUND (Off:1 Def:2),,,,
+0021000506,120,2,1,1,8:09 PM,0:02,MISS Chandler 8' Jump Shot,,,,
+0021000506,121,4,0,1,8:09 PM,0:00,,,McDyess REBOUND (Off:0 Def:2),,
+0021000506,122,2,1,1,8:09 PM,0:00,,,MISS Neal 62' 3PT Jump Shot,,
+0021000506,123,4,0,1,8:09 PM,0:00,,,Spurs Rebound,,
+0021000506,124,13,0,1,8:10 PM,0:00,,,,35 - 36,1
+0021000506,126,12,0,2,8:12 PM,12:00,,,,35 - 36,1
+0021000506,127,5,2,2,8:12 PM,11:56,Walker Lost Ball Turnover (P1.T3),,Ginobili STEAL (1 STL),,
+0021000506,128,6,1,2,8:13 PM,11:55,Walker P.FOUL (P1.T1),,,,
+0021000506,129,2,1,2,8:13 PM,11:48,,,MISS Ginobili 17' Jump Shot,,
+0021000506,130,4,0,2,8:13 PM,11:48,Walker REBOUND (Off:0 Def:1),,,,
+0021000506,131,2,1,2,8:13 PM,11:31,MISS Walker 24' 3PT Jump Shot,,,,
+0021000506,132,4,0,2,8:13 PM,11:31,,,Ginobili REBOUND (Off:0 Def:2),,
+0021000506,133,2,1,2,8:13 PM,11:11,,,MISS Ginobili 24' 3PT Jump Shot,,
+0021000506,134,4,0,2,8:14 PM,11:11,Walker REBOUND (Off:0 Def:2),,,,
+0021000506,135,1,78,2,8:14 PM,11:00,Douglas 7' Floating Jump Shot (2 PTS),,,35 - 38,3
+0021000506,136,6,2,2,8:14 PM,11:00,,,Neal S.FOUL (P2.T1),,
+0021000506,137,3,10,2,8:14 PM,11:00,MISS Douglas Free Throw 1 of 1,,,,
+0021000506,139,4,0,2,8:14 PM,11:00,,,McDyess REBOUND (Off:0 Def:3),,
+0021000506,140,6,1,2,8:14 PM,10:49,Douglas P.FOUL (P1.T2),,,,
+0021000506,141,1,1,2,8:15 PM,10:43,,,Hill 25' 3PT Jump Shot (7 PTS),38 - 38,TIE
+0021000506,142,2,1,2,8:15 PM,10:31,MISS Douglas 25' 3PT Jump Shot,,,,
+0021000506,143,4,0,2,8:15 PM,10:31,,,Bonner REBOUND (Off:1 Def:2),,
+0021000506,144,5,2,2,8:15 PM,10:23,Turiaf STEAL (1 STL),,Hill Lost Ball Turnover (P1.T5),,
+0021000506,145,2,5,2,8:15 PM,10:19,MISS Douglas 3' Layup,,,,
+0021000506,147,4,0,2,8:15 PM,10:17,Fields REBOUND (Off:2 Def:0),,,,
+0021000506,146,1,72,2,8:15 PM,10:17,Fields 2' Putback Layup (6 PTS),,,38 - 40,2
+0021000506,148,1,7,2,8:16 PM,9:52,,,McDyess 2' Dunk (2 PTS) (Bonner 3 AST),40 - 40,TIE
+0021000506,149,1,88,2,8:16 PM,9:37,Shaw. Williams 2' Driving Slam Dunk (4 PTS),,,40 - 42,2
+0021000506,150,5,4,2,8:16 PM,9:21,,,Ginobili Traveling Turnover (P1.T6),,
+0021000506,151,1,1,2,8:17 PM,9:08,Shaw. Williams 20' Jump Shot (6 PTS) (Walker 1 AST),,,40 - 44,4
+0021000506,152,9,1,2,8:17 PM,9:07,,,Spurs Timeout: Regular (Reg.2 Short 0),,
+0021000506,155,8,0,2,8:19 PM,9:07,,,SUB: Jefferson FOR Bonner,,
+0021000506,156,1,1,2,8:20 PM,8:50,,,Ginobili 7' Jump Shot (6 PTS),42 - 44,2
+0021000506,157,1,1,2,8:20 PM,8:38,Fields 6' Jump Shot (8 PTS),,,42 - 46,4
+0021000506,158,5,1,2,8:20 PM,8:31,Fields STEAL (2 STL),,Ginobili Bad Pass Turnover (P2.T7),,
+0021000506,159,2,1,2,8:20 PM,8:14,MISS Fields 10' Jump Shot,,,,
+0021000506,160,4,0,2,8:20 PM,8:13,,,Ginobili REBOUND (Off:0 Def:3),,
+0021000506,161,1,5,2,8:21 PM,8:07,,,Jefferson 1' Layup (7 PTS) (Ginobili 3 AST),44 - 46,2
+0021000506,162,2,1,2,8:21 PM,7:54,MISS Walker 26' 3PT Jump Shot,,,,
+0021000506,163,4,0,2,8:21 PM,7:54,Turiaf REBOUND (Off:1 Def:0),,,,
+0021000506,164,1,5,2,8:21 PM,7:51,Walker 3' Layup (5 PTS) (Turiaf 1 AST),,,44 - 48,4
+0021000506,165,6,2,2,8:21 PM,7:51,,,Hill S.FOUL (P1.T2),,
+0021000506,166,8,0,2,8:21 PM,7:51,SUB: Stoudemire FOR Turiaf,,,,
+0021000506,167,8,0,2,8:21 PM,7:51,,,SUB: Parker FOR Neal,,
+0021000506,168,3,10,2,8:21 PM,7:51,Walker Free Throw 1 of 1 (6 PTS),,,44 - 49,5
+0021000506,170,2,1,2,8:22 PM,7:36,,,MISS Jefferson  3PT Jump Shot,,
+0021000506,171,4,0,2,8:22 PM,7:36,,,Spurs Rebound,,
+0021000506,172,5,1,2,8:22 PM,7:28,,,McDyess Bad Pass Turnover (P3.T8),,
+0021000506,173,1,1,2,8:23 PM,7:15,Stoudemire 17' Jump Shot (9 PTS),,,44 - 51,7
+0021000506,174,2,1,2,8:23 PM,6:57,,,MISS Ginobili 17' Jump Shot,,
+0021000506,175,4,0,2,8:23 PM,6:57,Douglas REBOUND (Off:0 Def:1),,,,
+0021000506,176,2,1,2,8:23 PM,6:45,MISS Stoudemire 21' Jump Shot,,,,
+0021000506,177,4,0,2,8:23 PM,6:45,,,Jefferson REBOUND (Off:0 Def:1),,
+0021000506,178,2,1,2,8:23 PM,6:36,,,MISS Jefferson 25' 3PT Jump Shot,,
+0021000506,179,4,0,2,8:23 PM,6:36,Stoudemire REBOUND (Off:0 Def:1),,,,
+0021000506,180,2,1,2,8:23 PM,6:18,MISS Fields 23' Jump Shot,,,,
+0021000506,181,4,0,2,8:24 PM,6:17,Shaw. Williams REBOUND (Off:1 Def:0),,,,
+0021000506,182,1,1,2,8:24 PM,6:07,Stoudemire 5' Jump Shot (11 PTS),,,44 - 53,9
+0021000506,183,1,1,2,8:24 PM,5:55,,,Parker 7' Jump Shot (12 PTS),46 - 53,7
+0021000506,184,2,1,2,8:24 PM,5:38,MISS Shaw. Williams 25' 3PT Jump Shot,,,,
+0021000506,185,4,0,2,8:24 PM,5:37,,,Ginobili REBOUND (Off:0 Def:4),,
+0021000506,186,1,1,2,8:24 PM,5:24,,,Hill 14' Jump Shot (9 PTS),48 - 53,5
+0021000506,187,9,1,2,8:24 PM,5:20,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0021000506,189,8,0,2,8:27 PM,5:20,SUB: Chandler FOR Douglas,,,,
+0021000506,190,8,0,2,8:27 PM,5:20,SUB: Felton FOR Shaw. Williams,,,,
+0021000506,191,8,0,2,8:27 PM,5:20,,,SUB: Blair FOR Ginobili,,
+0021000506,192,8,0,2,8:27 PM,5:20,,,SUB: Neal FOR Hill,,
+0021000506,193,8,0,2,8:27 PM,5:20,,,SUB: Duncan FOR McDyess,,
+0021000506,194,2,1,2,8:28 PM,5:05,MISS Walker 25' 3PT Jump Shot,,,,
+0021000506,195,4,0,2,8:28 PM,5:04,,,Blair REBOUND (Off:2 Def:2),,
+0021000506,196,1,1,2,8:28 PM,4:54,,,Neal 24' 3PT Jump Shot (3 PTS) (Parker 3 AST),51 - 53,2
+0021000506,197,6,2,2,8:28 PM,4:39,,,Neal S.FOUL (P3.T3),,
+0021000506,198,3,11,2,8:28 PM,4:39,Fields Free Throw 1 of 2 (9 PTS),,,51 - 54,3
+0021000506,200,3,12,2,8:29 PM,4:39,Fields Free Throw 2 of 2 (10 PTS),,,51 - 55,4
+0021000506,202,1,78,2,8:29 PM,4:24,,,Parker 8' Floating Jump Shot (14 PTS),53 - 55,2
+0021000506,203,2,1,2,8:30 PM,4:01,MISS Chandler 20' Jump Shot,,,,
+0021000506,204,4,0,2,8:30 PM,4:01,Chandler REBOUND (Off:2 Def:2),,,,
+0021000506,205,1,1,2,8:30 PM,3:58,Chandler 14' Jump Shot (14 PTS),,,53 - 57,4
+0021000506,206,1,44,2,8:30 PM,3:45,,,Parker 1' Reverse Layup (16 PTS) (Duncan 1 AST),55 - 57,2
+0021000506,207,1,47,2,8:30 PM,3:32,Chandler 9' Turnaround Jump Shot (16 PTS),,,55 - 59,4
+0021000506,208,6,2,2,8:31 PM,3:19,Felton S.FOUL (P2.T3),,,,
+0021000506,209,3,11,2,8:31 PM,3:19,,,Duncan Free Throw 1 of 2 (5 PTS),56 - 59,3
+0021000506,211,8,0,2,8:31 PM,3:19,,,SUB: Hill FOR Neal,,
+0021000506,212,8,0,2,8:31 PM,3:19,SUB: Turiaf FOR Walker,,,,
+0021000506,213,3,12,2,8:31 PM,3:19,,,Duncan Free Throw 2 of 2 (6 PTS),57 - 59,2
+0021000506,215,6,2,2,8:32 PM,3:11,,,Blair S.FOUL (P2.T4),,
+0021000506,216,3,11,2,8:32 PM,3:11,Stoudemire Free Throw 1 of 2 (12 PTS),,,57 - 60,3
+0021000506,218,3,12,2,8:32 PM,3:11,Stoudemire Free Throw 2 of 2 (13 PTS),,,57 - 61,4
+0021000506,220,2,5,2,8:33 PM,2:55,,,MISS Parker 2' Layup,,
+0021000506,221,4,0,2,8:33 PM,2:54,,,Spurs Rebound,,
+0021000506,222,5,19,2,8:33 PM,2:54,,,Parker Kicked Ball Violation Turnover (P1.T9),,
+0021000506,223,9,4,2,8:33 PM,2:54,,,,,
+0021000506,227,1,3,2,8:36 PM,2:38,Stoudemire 8' Hook Shot (15 PTS),,,57 - 63,6
+0021000506,228,2,7,2,8:36 PM,2:26,Stoudemire BLOCK (1 BLK),,MISS Jefferson 2' Dunk,,
+0021000506,229,4,0,2,8:36 PM,2:23,Fields REBOUND (Off:2 Def:1),,,,
+0021000506,230,2,1,2,8:36 PM,2:12,MISS Fields 25' 3PT Jump Shot,,,,
+0021000506,231,4,0,2,8:36 PM,2:11,,,Blair REBOUND (Off:2 Def:3),,
+0021000506,232,2,1,2,8:36 PM,2:07,Stoudemire BLOCK (2 BLK),,MISS Parker 6' Jump Shot,,
+0021000506,233,4,0,2,8:36 PM,2:06,,,Spurs Rebound,,
+0021000506,234,1,8,2,8:37 PM,2:00,,,Blair 1' Slam Dunk (10 PTS) (Hill 1 AST),59 - 63,4
+0021000506,235,6,11,2,8:37 PM,2:00,Turiaf T.FOUL (P1.T3),,,,
+0021000506,236,3,16,2,8:38 PM,2:00,,,Hill Free Throw Technical (10 PTS),60 - 63,3
+0021000506,238,5,2,2,8:38 PM,1:49,Chandler Lost Ball Turnover (P2.T4),,Blair STEAL (1 STL),,
+0021000506,239,1,42,2,8:38 PM,1:44,,,Blair 3' Driving Layup (12 PTS),62 - 63,1
+0021000506,240,6,2,2,8:39 PM,1:31,,,Parker S.FOUL (P1.PN),,
+0021000506,241,3,11,2,8:39 PM,1:31,Felton Free Throw 1 of 2 (7 PTS),,,62 - 64,2
+0021000506,243,8,0,2,8:39 PM,1:31,,,SUB: Ginobili FOR Jefferson,,
+0021000506,244,3,12,2,8:39 PM,1:31,Felton Free Throw 2 of 2 (8 PTS),,,62 - 65,3
+0021000506,246,2,1,2,8:40 PM,1:17,,,MISS Parker 17' Jump Shot,,
+0021000506,247,4,0,2,8:40 PM,1:17,Stoudemire REBOUND (Off:0 Def:2),,,,
+0021000506,248,6,1,2,8:40 PM,1:10,,,Parker P.FOUL (P2.PN),,
+0021000506,249,3,11,2,8:40 PM,1:10,Felton Free Throw 1 of 2 (9 PTS),,,62 - 66,4
+0021000506,251,3,12,2,8:40 PM,1:10,Felton Free Throw 2 of 2 (10 PTS),,,62 - 67,5
+0021000506,253,6,2,2,8:41 PM,0:56,Turiaf S.FOUL (P2.T4),,,,
+0021000506,254,3,11,2,8:41 PM,0:56,,,Blair Free Throw 1 of 2 (13 PTS),63 - 67,4
+0021000506,256,8,0,2,8:41 PM,0:56,SUB: Shaw. Williams FOR Turiaf,,,,
+0021000506,257,3,12,2,8:41 PM,0:56,,,MISS Blair Free Throw 2 of 2,,
+0021000506,259,4,0,2,8:41 PM,0:55,Stoudemire REBOUND (Off:0 Def:3),,,,
+0021000506,260,1,1,2,8:42 PM,0:36,Shaw. Williams  3PT Jump Shot (9 PTS) (Felton 2 AST),,,63 - 70,7
+0021000506,261,6,2,2,8:42 PM,0:32,Stoudemire S.FOUL (P2.PN),,,,
+0021000506,262,6,11,2,8:42 PM,0:32,Stoudemire T.FOUL (P2.PN),,,,
+0021000506,263,3,16,2,8:42 PM,0:32,,,Hill Free Throw Technical (11 PTS),64 - 70,6
+0021000506,265,3,11,2,8:42 PM,0:32,,,Parker Free Throw 1 of 2 (17 PTS),65 - 70,5
+0021000506,267,8,0,2,8:43 PM,0:32,,,SUB: Jefferson FOR Blair,,
+0021000506,268,3,12,2,8:43 PM,0:32,,,Parker Free Throw 2 of 2 (18 PTS),66 - 70,4
+0021000506,270,1,78,2,8:43 PM,0:14,Felton 15' Floating Jump Shot (12 PTS),,,66 - 72,6
+0021000506,271,1,1,2,8:44 PM,0:00,,,Jefferson 24' 3PT Jump Shot (10 PTS) (Parker 4 AST),69 - 72,3
+0021000506,272,13,0,2,8:44 PM,0:00,,,,69 - 72,3
+0021000506,274,12,0,3,9:01 PM,12:00,,,,69 - 72,3
+0021000506,275,1,42,3,9:01 PM,11:37,Chandler 2' Driving Layup (18 PTS),,,69 - 74,5
+0021000506,276,1,1,3,9:02 PM,11:08,,,Ginobili 25' 3PT Jump Shot (9 PTS) (Parker 5 AST),72 - 74,2
+0021000506,277,2,1,3,9:02 PM,10:56,MISS Stoudemire 21' Jump Shot,,,,
+0021000506,278,4,0,3,9:02 PM,10:56,,,Duncan REBOUND (Off:0 Def:1),,
+0021000506,279,2,1,3,9:02 PM,10:46,,,MISS Parker 17' Jump Shot,,
+0021000506,280,4,0,3,9:02 PM,10:46,Fields REBOUND (Off:2 Def:2),,,,
+0021000506,281,1,5,3,9:02 PM,10:32,Turiaf 1' Layup (4 PTS) (Chandler 2 AST),,,72 - 76,4
+0021000506,282,2,1,3,9:03 PM,10:18,,,MISS Ginobili 26' 3PT Jump Shot,,
+0021000506,284,4,0,3,9:03 PM,10:17,,,Blair REBOUND (Off:3 Def:3),,
+0021000506,283,2,4,3,9:03 PM,10:17,,,MISS Blair 2' Tip Shot,,
+0021000506,285,4,0,3,9:03 PM,10:16,Chandler REBOUND (Off:2 Def:3),,,,
+0021000506,286,2,1,3,9:03 PM,10:08,MISS Felton 20' Jump Shot,,,,
+0021000506,287,4,0,3,9:03 PM,10:07,,,Duncan REBOUND (Off:0 Def:2),,
+0021000506,288,1,42,3,9:03 PM,10:03,,,Parker 1' Driving Layup (20 PTS) (Jefferson 1 AST),74 - 76,2
+0021000506,289,2,1,3,9:03 PM,9:36,MISS Chandler 22' Jump Shot,,,,
+0021000506,290,4,0,3,9:03 PM,9:36,,,Blair REBOUND (Off:3 Def:4),,
+0021000506,291,2,1,3,9:04 PM,9:21,,,MISS Duncan 5' Jump Shot,,
+0021000506,293,4,0,3,9:04 PM,9:20,,,Blair REBOUND (Off:4 Def:4),,
+0021000506,292,1,4,3,9:04 PM,9:20,,,Blair 1' Tip Shot (15 PTS),76 - 76,TIE
+0021000506,295,1,47,3,9:04 PM,8:55,Stoudemire 13' Turnaround Jump Shot (17 PTS) (Felton 3 AST),,,76 - 78,2
+0021000506,296,1,1,3,9:05 PM,8:40,,,Duncan 17' Jump Shot (8 PTS) (Ginobili 4 AST),78 - 78,TIE
+0021000506,297,1,1,3,9:05 PM,8:18,Stoudemire 14' Jump Shot (19 PTS),,,78 - 80,2
+0021000506,298,2,1,3,9:05 PM,8:08,,,MISS Blair 14' Jump Shot,,
+0021000506,299,4,0,3,9:05 PM,8:08,Turiaf REBOUND (Off:1 Def:1),,,,
+0021000506,301,1,1,3,9:06 PM,7:53,Stoudemire 20' Jump Shot (21 PTS) (Felton 4 AST),,,78 - 82,4
+0021000506,302,5,1,3,9:06 PM,7:37,Chandler STEAL (1 STL),,Jefferson Bad Pass Turnover (P2.T10),,
+0021000506,303,1,42,3,9:06 PM,7:33,Fields 2' Driving Layup (12 PTS) (Chandler 3 AST),,,78 - 84,6
+0021000506,304,6,2,3,9:06 PM,7:33,,,Ginobili S.FOUL (P2.T1),,
+0021000506,305,9,1,3,9:06 PM,7:33,,,Spurs Timeout: Regular (Reg.3 Short 0),,
+0021000506,309,3,10,3,9:09 PM,7:33,Fields Free Throw 1 of 1 (13 PTS),,,78 - 85,7
+0021000506,312,7,2,3,9:10 PM,7:20,Stoudemire Violation:Defensive Goaltending,,,,
+0021000506,311,1,1,3,9:10 PM,7:20,,,Blair 6' Jump Shot (17 PTS) (Ginobili 5 AST),80 - 85,5
+0021000506,313,1,1,3,9:10 PM,7:02,Chandler 24' 3PT Jump Shot (21 PTS) (Stoudemire 5 AST),,,80 - 88,8
+0021000506,314,1,5,3,9:11 PM,6:40,,,Duncan 3' Layup (10 PTS),82 - 88,6
+0021000506,315,1,1,3,9:11 PM,6:28,Felton 21' Jump Shot (14 PTS),,,82 - 90,8
+0021000506,316,2,1,3,9:11 PM,6:03,,,MISS Blair 3' Jump Shot,,
+0021000506,317,4,0,3,9:11 PM,6:03,Stoudemire REBOUND (Off:0 Def:4),,,,
+0021000506,318,2,1,3,9:11 PM,5:53,MISS Felton 17' Jump Shot,,,,
+0021000506,319,4,0,3,9:11 PM,5:52,,,Duncan REBOUND (Off:0 Def:3),,
+0021000506,320,6,2,3,9:12 PM,5:42,Turiaf S.FOUL (P3.T1),,,,
+0021000506,321,8,0,3,9:12 PM,5:42,,,SUB: McDyess FOR Blair,,
+0021000506,324,8,0,3,9:12 PM,5:42,,,SUB: Hill FOR Jefferson,,
+0021000506,325,8,0,3,9:12 PM,5:42,,,SUB: Neal FOR Parker,,
+0021000506,322,3,11,3,9:12 PM,5:42,,,Ginobili Free Throw 1 of 2 (10 PTS),83 - 90,7
+0021000506,326,3,12,3,9:12 PM,5:42,,,Ginobili Free Throw 2 of 2 (11 PTS),84 - 90,6
+0021000506,328,2,1,3,9:13 PM,5:32,MISS Felton 3' Jump Shot,,Duncan BLOCK (1 BLK),,
+0021000506,329,4,0,3,9:13 PM,5:30,,,Neal REBOUND (Off:0 Def:1),,
+0021000506,330,1,77,3,9:13 PM,5:26,,,Neal 3' Driving Jump Shot (5 PTS),86 - 90,4
+0021000506,331,2,1,3,9:13 PM,5:03,MISS Fields  3PT Jump Shot,,,,
+0021000506,332,4,0,3,9:13 PM,5:03,,,Neal REBOUND (Off:0 Def:2),,
+0021000506,333,6,2,3,9:13 PM,4:55,Stoudemire S.FOUL (P3.T2),,,,
+0021000506,334,8,0,3,9:14 PM,4:55,SUB: Douglas FOR Turiaf,,,,
+0021000506,335,3,11,3,9:14 PM,4:55,,,Ginobili Free Throw 1 of 2 (12 PTS),87 - 90,3
+0021000506,337,3,12,3,9:14 PM,4:55,,,Ginobili Free Throw 2 of 2 (13 PTS),88 - 90,2
+0021000506,339,1,42,3,9:14 PM,4:40,Chandler 3' Driving Layup (23 PTS),,,88 - 92,4
+0021000506,340,5,1,3,9:15 PM,4:30,Douglas STEAL (3 STL),,Ginobili Bad Pass Turnover (P3.T11),,
+0021000506,341,1,44,3,9:15 PM,4:20,Felton 1' Reverse Layup (16 PTS),,,88 - 94,6
+0021000506,342,2,1,3,9:15 PM,4:02,,,MISS Neal 25' 3PT Jump Shot,,
+0021000506,343,4,0,3,9:15 PM,4:01,Stoudemire REBOUND (Off:0 Def:5),,,,
+0021000506,344,2,1,3,9:15 PM,3:48,MISS Douglas 11' Jump Shot,,,,
+0021000506,345,4,0,3,9:15 PM,3:47,,,Ginobili REBOUND (Off:0 Def:5),,
+0021000506,346,5,4,3,9:15 PM,3:41,,,Duncan Traveling Turnover (P2.T12),,
+0021000506,347,8,0,3,9:15 PM,3:41,,,SUB: Parker FOR Ginobili,,
+0021000506,348,2,1,3,9:16 PM,3:27,MISS Chandler  3PT Jump Shot,,,,
+0021000506,349,4,0,3,9:16 PM,3:27,,,Parker REBOUND (Off:0 Def:1),,
+0021000506,350,2,1,3,9:16 PM,3:11,,,MISS Duncan 3' Jump Shot,,
+0021000506,351,4,0,3,9:16 PM,3:10,,,Duncan REBOUND (Off:1 Def:3),,
+0021000506,352,6,4,3,9:16 PM,3:05,,,Duncan OFF.Foul (P2),,
+0021000506,353,5,5,3,9:16 PM,3:05,,,Duncan Foul Turnover (P3.T13),,
+0021000506,354,8,0,3,9:17 PM,3:05,SUB: Shaw. Williams FOR Fields,,,,
+0021000506,355,8,0,3,9:17 PM,3:05,,,SUB: Bonner FOR Duncan,,
+0021000506,356,2,1,3,9:17 PM,2:41,MISS Stoudemire 23' Jump Shot,,,,
+0021000506,357,4,0,3,9:17 PM,2:41,Shaw. Williams REBOUND (Off:2 Def:0),,,,
+0021000506,358,5,4,3,9:17 PM,2:31,Stoudemire Traveling Turnover (P1.T5),,,,
+0021000506,359,9,1,3,9:18 PM,2:31,KNICKS Timeout: Regular (Full 3 Short 0),,,,
+0021000506,362,8,0,3,9:20 PM,2:31,SUB: Walker FOR Stoudemire,,,,
+0021000506,363,5,1,3,9:20 PM,2:20,Walker STEAL (1 STL),,Hill Bad Pass Turnover (P2.T14),,
+0021000506,364,6,2,3,9:21 PM,2:11,,,Bonner S.FOUL (P1.T2),,
+0021000506,365,3,11,3,9:21 PM,2:11,Chandler Free Throw 1 of 2 (24 PTS),,,88 - 95,7
+0021000506,367,3,12,3,9:21 PM,2:11,Chandler Free Throw 2 of 2 (25 PTS),,,88 - 96,8
+0021000506,369,1,7,3,9:22 PM,1:51,,,Bonner 1' Dunk (2 PTS) (Parker 6 AST),90 - 96,6
+0021000506,370,1,5,3,9:22 PM,1:43,Chandler 2' Layup (27 PTS) (Felton 5 AST),,,90 - 98,8
+0021000506,371,6,2,3,9:22 PM,1:32,Douglas S.FOUL (P2.T3),,,,
+0021000506,372,3,11,3,9:22 PM,1:32,,,Parker Free Throw 1 of 2 (21 PTS),91 - 98,7
+0021000506,374,8,0,3,9:22 PM,1:32,,,SUB: Jefferson FOR Bonner,,
+0021000506,375,3,12,3,9:23 PM,1:32,,,MISS Parker Free Throw 2 of 2,,
+0021000506,377,4,0,3,9:23 PM,1:31,Shaw. Williams REBOUND (Off:2 Def:1),,,,
+0021000506,378,6,1,3,9:23 PM,1:17,,,Hill P.FOUL (P2.T3),,
+0021000506,379,1,1,3,9:23 PM,1:12,Felton 25' 3PT Jump Shot (19 PTS) (Shaw. Williams 1 AST),,,91 - 101,10
+0021000506,380,2,1,3,9:24 PM,0:54,,,MISS Neal 11' Jump Shot,,
+0021000506,381,4,0,3,9:24 PM,0:53,,,McDyess REBOUND (Off:1 Def:3),,
+0021000506,382,1,44,3,9:24 PM,0:52,,,McDyess 2' Reverse Layup (4 PTS),93 - 101,8
+0021000506,383,2,5,3,9:24 PM,0:37,MISS Shaw. Williams 2' Layup,,McDyess BLOCK (1 BLK),,
+0021000506,384,4,0,3,9:24 PM,0:36,,,Spurs Rebound,,
+0021000506,385,1,42,3,9:24 PM,0:30,,,Parker 2' Driving Layup (23 PTS),95 - 101,6
+0021000506,386,2,1,3,9:25 PM,0:06,MISS Felton 25' 3PT Jump Shot,,,,
+0021000506,387,4,0,3,9:25 PM,0:06,,,Jefferson REBOUND (Off:0 Def:2),,
+0021000506,388,2,1,3,9:25 PM,0:01,,,MISS Neal 25' 3PT Jump Shot,,
+0021000506,389,4,0,3,9:25 PM,0:00,Chandler REBOUND (Off:2 Def:4),,,,
+0021000506,390,13,0,3,9:25 PM,0:00,,,,95 - 101,6
+0021000506,392,12,0,4,9:28 PM,12:00,,,,95 - 101,6
+0021000506,393,2,1,4,9:29 PM,11:40,,,MISS Neal 18' Jump Shot,,
+0021000506,394,4,0,4,9:29 PM,11:40,Felton REBOUND (Off:0 Def:3),,,,
+0021000506,395,2,1,4,9:29 PM,11:24,MISS Shaw. Williams 16' Jump Shot,,,,
+0021000506,396,4,0,4,9:29 PM,11:23,,,Parker REBOUND (Off:0 Def:2),,
+0021000506,397,5,40,4,9:29 PM,11:19,,,Parker Out of Bounds Lost Ball Turnover (P2.T15),,
+0021000506,398,8,0,4,9:29 PM,11:19,,,SUB: Hill FOR Parker,,
+0021000506,399,1,5,4,9:30 PM,11:00,Chandler 2' Layup (29 PTS) (Felton 6 AST),,,95 - 103,8
+0021000506,400,1,1,4,9:30 PM,10:48,,,Neal 6' Jump Shot (7 PTS),97 - 103,6
+0021000506,401,6,2,4,9:30 PM,10:48,Walker S.FOUL (P2.T1),,,,
+0021000506,402,8,0,4,9:30 PM,10:48,SUB: Stoudemire FOR Chandler,,,,
+0021000506,403,8,0,4,9:30 PM,10:48,SUB: Fields FOR Felton,,,,
+0021000506,404,3,10,4,9:30 PM,10:48,,,Neal Free Throw 1 of 1 (8 PTS),98 - 103,5
+0021000506,406,1,1,4,9:31 PM,10:32,Douglas 17' Jump Shot (4 PTS) (Fields 2 AST),,,98 - 105,7
+0021000506,407,1,42,4,9:31 PM,10:20,,,Ginobili 2' Driving Layup (15 PTS),100 - 105,5
+0021000506,408,1,1,4,9:31 PM,10:04,Stoudemire 7' Jump Shot (23 PTS),,,100 - 107,7
+0021000506,409,2,1,4,9:32 PM,9:37,,,MISS Neal 25' 3PT Jump Shot,,
+0021000506,410,4,0,4,9:32 PM,9:36,,,Hill REBOUND (Off:1 Def:1),,
+0021000506,411,5,1,4,9:32 PM,9:24,Fields STEAL (3 STL),,Hill Bad Pass Turnover (P3.T16),,
+0021000506,412,2,5,4,9:32 PM,9:20,MISS Douglas 2' Layup,,Ginobili BLOCK (1 BLK),,
+0021000506,413,4,0,4,9:32 PM,9:19,KNICKS Rebound,,,,
+0021000506,414,2,1,4,9:33 PM,9:16,MISS Shaw. Williams 24' 3PT Jump Shot,,,,
+0021000506,415,4,0,4,9:33 PM,9:15,,,Neal REBOUND (Off:0 Def:3),,
+0021000506,418,6,2,4,9:33 PM,9:12,Shaw. Williams S.FOUL (P3.T2),,,,
+0021000506,419,3,11,4,9:33 PM,9:12,,,Jefferson Free Throw 1 of 2 (11 PTS),101 - 107,6
+0021000506,421,8,0,4,9:33 PM,9:12,,,SUB: Duncan FOR McDyess,,
+0021000506,422,3,12,4,9:33 PM,9:12,,,MISS Jefferson Free Throw 2 of 2,,
+0021000506,424,4,0,4,9:34 PM,9:11,Shaw. Williams REBOUND (Off:2 Def:2),,,,
+0021000506,425,6,2,4,9:34 PM,9:00,,,Duncan S.FOUL (P3.T1),,
+0021000506,426,3,11,4,9:34 PM,9:00,MISS Stoudemire Free Throw 1 of 2,,,,
+0021000506,427,4,1,4,9:34 PM,9:00,KNICKS Rebound,,,,
+0021000506,428,3,12,4,9:34 PM,9:00,Stoudemire Free Throw 2 of 2 (24 PTS),,,101 - 108,7
+0021000506,430,2,1,4,9:35 PM,8:47,,,MISS Ginobili 17' Jump Shot,,
+0021000506,431,4,0,4,9:35 PM,8:47,Stoudemire REBOUND (Off:0 Def:6),,,,
+0021000506,432,5,2,4,9:35 PM,8:27,Stoudemire Lost Ball Turnover (P2.T6),,Duncan STEAL (1 STL),,
+0021000506,433,2,5,4,9:35 PM,8:23,,,MISS Hill 2' Layup,,
+0021000506,435,4,0,4,9:35 PM,8:22,,,Jefferson REBOUND (Off:1 Def:2),,
+0021000506,434,1,72,4,9:35 PM,8:22,,,Jefferson 1' Putback Layup (13 PTS),103 - 108,5
+0021000506,436,9,1,4,9:35 PM,8:14,KNICKS Timeout: Regular (Full 4 Short 0),,,,
+0021000506,438,8,0,4,9:37 PM,8:14,SUB: Chandler FOR Shaw. Williams,,,,
+0021000506,439,8,0,4,9:37 PM,8:14,SUB: Felton FOR Walker,,,,
+0021000506,441,2,1,4,9:38 PM,8:05,MISS Fields 25' 3PT Jump Shot,,,,
+0021000506,443,4,0,4,9:38 PM,8:03,Stoudemire REBOUND (Off:1 Def:6),,,,
+0021000506,442,2,4,4,9:38 PM,8:03,MISS Stoudemire 1' Tip Shot,,,,
+0021000506,444,4,0,4,9:38 PM,8:02,,,Spurs Rebound,,
+0021000506,445,1,1,4,9:39 PM,7:49,,,Hill 18' Jump Shot (13 PTS),105 - 108,3
+0021000506,446,6,2,4,9:39 PM,7:25,,,Hill S.FOUL (P3.T2),,
+0021000506,447,3,11,4,9:39 PM,7:25,Felton Free Throw 1 of 2 (20 PTS),,,105 - 109,4
+0021000506,449,3,12,4,9:40 PM,7:25,Felton Free Throw 2 of 2 (21 PTS),,,105 - 110,5
+0021000506,451,2,1,4,9:40 PM,7:12,,,MISS Neal 25' 3PT Jump Shot,,
+0021000506,452,4,0,4,9:40 PM,7:12,Chandler REBOUND (Off:2 Def:5),,,,
+0021000506,453,2,1,4,9:40 PM,7:03,MISS Felton 25' 3PT Jump Shot,,,,
+0021000506,454,4,0,4,9:40 PM,7:02,,,Spurs Rebound,,
+0021000506,455,2,1,4,9:41 PM,6:43,,,MISS Ginobili 25' 3PT Jump Shot,,
+0021000506,456,4,0,4,9:41 PM,6:42,Chandler REBOUND (Off:2 Def:6),,,,
+0021000506,457,1,42,4,9:41 PM,6:26,Chandler 2' Driving Layup (31 PTS),,,105 - 112,7
+0021000506,458,9,1,4,9:41 PM,6:25,,,Spurs Timeout: Regular (Reg.4 Short 0),,
+0021000506,460,8,0,4,9:44 PM,6:25,,,SUB: Parker FOR Neal,,
+0021000506,462,2,1,4,9:44 PM,6:08,Stoudemire BLOCK (3 BLK),,MISS Duncan 6' Jump Shot,,
+0021000506,464,4,0,4,9:45 PM,6:07,,,Duncan REBOUND (Off:2 Def:3),,
+0021000506,463,1,3,4,9:45 PM,6:07,,,Duncan 4' Hook Shot (12 PTS),107 - 112,5
+0021000506,465,1,1,4,9:45 PM,5:50,Douglas 24' 3PT Jump Shot (7 PTS) (Chandler 4 AST),,,107 - 115,8
+0021000506,466,1,66,4,9:45 PM,5:27,,,Duncan 4' Jump Bank Shot (14 PTS),109 - 115,6
+0021000506,467,2,1,4,9:46 PM,5:03,MISS Douglas 12' Jump Shot,,,,
+0021000506,468,4,0,4,9:46 PM,5:02,,,Duncan REBOUND (Off:2 Def:4),,
+0021000506,469,2,5,4,9:46 PM,4:51,,,MISS Duncan 2' Layup,,
+0021000506,470,4,0,4,9:46 PM,4:49,Stoudemire REBOUND (Off:1 Def:7),,,,
+0021000506,471,1,1,4,9:46 PM,4:33,Felton 24' 3PT Jump Shot (24 PTS) (Stoudemire 6 AST),,,109 - 118,9
+0021000506,472,1,46,4,9:46 PM,4:18,,,Parker 8' Running Jump Shot (25 PTS),111 - 118,7
+0021000506,473,1,1,4,9:47 PM,4:00,Felton 22' Jump Shot (26 PTS),,,111 - 120,9
+0021000506,474,2,5,4,9:47 PM,3:43,,,MISS Duncan 2' Layup,,
+0021000506,475,4,0,4,9:47 PM,3:41,Felton REBOUND (Off:0 Def:4),,,,
+0021000506,476,2,1,4,9:47 PM,3:31,MISS Felton 4' Jump Shot,,,,
+0021000506,477,4,0,4,9:47 PM,3:29,Fields REBOUND (Off:3 Def:2),,,,
+0021000506,478,1,5,4,9:47 PM,3:27,Stoudemire 2' Layup (26 PTS) (Fields 3 AST),,,111 - 122,11
+0021000506,479,6,2,4,9:48 PM,3:13,Douglas S.FOUL (P3.T3),,,,
+0021000506,480,8,0,4,9:48 PM,3:13,,,SUB: Udoka FOR Duncan,,
+0021000506,481,8,0,4,9:48 PM,3:13,,,SUB: Neal FOR Jefferson,,
+0021000506,482,8,0,4,9:48 PM,3:13,,,SUB: Splitter FOR Ginobili,,
+0021000506,483,3,11,4,9:48 PM,3:13,,,MISS Parker Free Throw 1 of 2,,
+0021000506,484,4,1,4,9:48 PM,3:13,,,Spurs Rebound,,
+0021000506,485,3,12,4,9:48 PM,3:13,,,Parker Free Throw 2 of 2 (26 PTS),112 - 122,10
+0021000506,487,6,1,4,9:49 PM,3:11,,,Parker P.FOUL (P3.T3),,
+0021000506,488,8,0,4,9:49 PM,3:11,,,SUB: Quinn FOR Parker,,
+0021000506,489,2,1,4,9:49 PM,2:53,MISS Chandler 26' 3PT Jump Shot,,,,
+0021000506,490,4,0,4,9:49 PM,2:52,KNICKS Rebound,,,,
+0021000506,491,9,4,4,9:49 PM,2:52,,,,,
+0021000506,493,8,0,4,9:52 PM,2:52,,,SUB: Bonner FOR Hill,,
+0021000506,495,1,55,4,9:53 PM,2:32,Stoudemire 4' Hook Shot (28 PTS) (Felton 7 AST),,,112 - 124,12
+0021000506,496,1,1,4,9:53 PM,2:08,,,Quinn 26' 3PT Jump Shot (3 PTS) (Neal 1 AST),115 - 124,9
+0021000506,497,1,78,4,9:53 PM,1:43,Felton 6' Floating Jump Shot (28 PTS),,,115 - 126,11
+0021000506,498,2,1,4,9:54 PM,1:34,,,MISS Quinn 25' 3PT Jump Shot,,
+0021000506,499,4,0,4,9:54 PM,1:34,Stoudemire REBOUND (Off:1 Def:8),,,,
+0021000506,500,6,2,4,9:54 PM,1:12,,,Quinn S.FOUL (P1.T4),,
+0021000506,501,3,11,4,9:54 PM,1:12,Douglas Free Throw 1 of 2 (8 PTS),,,115 - 127,12
+0021000506,503,8,0,4,9:55 PM,1:12,SUB: Shaw. Williams FOR Stoudemire,,,,
+0021000506,504,3,12,4,9:55 PM,1:12,Douglas Free Throw 2 of 2 (9 PTS),,,115 - 128,13
+0021000506,506,6,2,4,9:55 PM,1:03,Chandler S.FOUL (P1.T4),,,,
+0021000506,507,3,11,4,9:55 PM,1:03,,,MISS Udoka Free Throw 1 of 2,,
+0021000506,508,4,1,4,9:55 PM,1:03,,,Spurs Rebound,,
+0021000506,509,3,12,4,9:55 PM,1:03,,,MISS Udoka Free Throw 2 of 2,,
+0021000506,511,4,0,4,9:56 PM,1:03,Chandler REBOUND (Off:2 Def:7),,,,
+0021000506,512,2,1,4,9:56 PM,0:44,MISS Shaw. Williams  3PT Jump Shot,,,,
+0021000506,513,4,0,4,9:56 PM,0:44,Fields REBOUND (Off:4 Def:2),,,,
+0021000506,514,2,1,4,9:56 PM,0:25,MISS Douglas 26' 3PT Jump Shot,,,,
+0021000506,515,4,0,4,9:56 PM,0:24,,,Splitter REBOUND (Off:0 Def:1),,
+0021000506,516,2,1,4,9:57 PM,0:09,,,MISS Neal 24' 3PT Jump Shot,,
+0021000506,517,4,0,4,9:57 PM,0:08,Shaw. Williams REBOUND (Off:2 Def:3),,,,
+0021000506,518,13,0,4,9:57 PM,0:00,,,,115 - 128,13

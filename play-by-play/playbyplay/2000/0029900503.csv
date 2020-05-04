@@ -1,0 +1,503 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029900503,0,12,0,1,2:41 PM,12:00,,,,,
+0029900503,1,10,0,1,2:41 PM,12:00,Jump Ball Foyle vs. Bullard: Tip to Caffey,,,,
+0029900503,2,6,2,1,2:41 PM,11:46,,,Miller S.FOUL (P1.T1),,
+0029900503,3,3,11,1,2:42 PM,11:46,Caffey Free Throw 1 of 2 (1 PTS),,,0 - 1,1
+0029900503,4,3,12,1,2:42 PM,11:46,Caffey Free Throw 2 of 2 (2 PTS),,,0 - 2,2
+0029900503,5,2,1,1,2:42 PM,11:33,Caffey BLOCK (1 BLK),,MISS Miller 4' Jump Shot,,
+0029900503,6,4,0,1,2:42 PM,11:33,,,Rockets Rebound,,
+0029900503,7,2,1,1,2:43 PM,11:26,,,MISS Bullard  3PT Jump Shot,,
+0029900503,8,4,0,1,2:43 PM,11:24,Blaylock REBOUND (Off:0 Def:1),,,,
+0029900503,9,2,6,1,2:43 PM,11:19,MISS Blaylock  Driving Layup,,,,
+0029900503,10,4,0,1,2:43 PM,11:18,,,Anderson REBOUND (Off:0 Def:1),,
+0029900503,11,2,1,1,2:43 PM,11:13,,,MISS Bullard 16' Jump Shot,,
+0029900503,12,4,0,1,2:43 PM,11:12,Cummings REBOUND (Off:0 Def:1),,,,
+0029900503,13,2,1,1,2:43 PM,10:57,MISS Foyle 12' Jump Shot,,,,
+0029900503,14,4,0,1,2:43 PM,10:56,,,Bullard REBOUND (Off:0 Def:1),,
+0029900503,15,1,5,1,2:43 PM,10:49,,,Anderson  Layup (2 PTS) (Francis 1 AST),2 - 2,TIE
+0029900503,16,2,6,1,2:44 PM,10:28,MISS Cummings  Driving Layup,,,,
+0029900503,17,4,0,1,2:44 PM,10:27,,,Miller REBOUND (Off:0 Def:1),,
+0029900503,18,5,1,1,2:44 PM,10:26,Jamison STEAL (1 STL),,Miller Bad Pass Turnover (P1.T1),,
+0029900503,19,1,1,1,2:44 PM,10:22,Jamison 15' Jump Shot (2 PTS),,,2 - 4,2
+0029900503,20,2,1,1,2:44 PM,10:05,,,MISS Francis 17' Jump Shot,,
+0029900503,21,4,0,1,2:44 PM,10:03,Foyle REBOUND (Off:0 Def:1),,,,
+0029900503,22,1,3,1,2:44 PM,9:47,Caffey 7' Hook Shot (4 PTS) (Cummings 1 AST),,,2 - 6,4
+0029900503,23,2,1,1,2:45 PM,9:31,,,MISS Bullard 19' Jump Shot,,
+0029900503,24,4,0,1,2:45 PM,9:30,,,Anderson REBOUND (Off:1 Def:1),,
+0029900503,25,1,5,1,2:45 PM,9:29,,,Anderson  Layup (4 PTS),4 - 6,2
+0029900503,26,6,2,1,2:45 PM,9:29,Cummings S.FOUL (P1.T1),,,,
+0029900503,27,3,10,1,2:45 PM,9:29,,,MISS Anderson Free Throw 1 of 1,,
+0029900503,28,4,0,1,2:45 PM,9:28,Caffey REBOUND (Off:0 Def:1),,,,
+0029900503,29,2,1,1,2:45 PM,9:18,MISS Jamison 10' Jump Shot,,Miller BLOCK (1 BLK),,
+0029900503,30,4,0,1,2:45 PM,9:16,,,Williams REBOUND (Off:0 Def:1),,
+0029900503,31,2,1,1,2:45 PM,9:10,,,MISS Anderson  3PT Jump Shot,,
+0029900503,32,4,0,1,2:45 PM,9:08,Foyle REBOUND (Off:0 Def:2),,,,
+0029900503,33,2,1,1,2:46 PM,8:58,MISS Caffey 4' Jump Shot,,Williams BLOCK (1 BLK),,
+0029900503,34,4,0,1,2:46 PM,8:52,,,Bullard REBOUND (Off:0 Def:2),,
+0029900503,35,1,5,1,2:46 PM,8:46,,,Miller  Layup (2 PTS) (Francis 2 AST),6 - 6,TIE
+0029900503,36,9,2,1,2:46 PM,8:45,WARRIORS Timeout: Short (Full 0 Short 1),,,,
+0029900503,37,5,1,1,2:47 PM,8:37,Jamison Bad Pass Turnover (P1.T1),,,,
+0029900503,38,6,1,1,2:47 PM,8:25,Caffey P.FOUL (P1.T2),,,,
+0029900503,39,5,2,1,2:47 PM,8:17,Cummings STEAL (1 STL),,Anderson Lost Ball Turnover (P1.T2),,
+0029900503,40,2,1,1,2:48 PM,8:09,MISS Jamison 14' Jump Shot,,,,
+0029900503,41,4,0,1,2:48 PM,8:08,Foyle REBOUND (Off:1 Def:2),,,,
+0029900503,42,5,2,1,2:48 PM,8:07,Jamison Lost Ball Turnover (P2.T2),,Williams STEAL (1 STL),,
+0029900503,43,2,1,1,2:48 PM,7:53,,,MISS Bullard 18' Jump Shot,,
+0029900503,44,4,0,1,2:48 PM,7:51,Foyle REBOUND (Off:1 Def:3),,,,
+0029900503,45,1,1,1,2:48 PM,7:44,Cummings 24' 3PT Jump Shot (3 PTS) (Blaylock 1 AST),,,6 - 9,3
+0029900503,46,1,1,1,2:48 PM,7:28,,,Williams 20' Jump Shot (2 PTS) (Francis 3 AST),8 - 9,1
+0029900503,47,1,1,1,2:49 PM,7:09,Blaylock 21' Jump Shot (2 PTS) (Jamison 1 AST),,,8 - 11,3
+0029900503,48,2,1,1,2:49 PM,6:55,,,MISS Bullard 24' 3PT Jump Shot,,
+0029900503,49,4,0,1,2:49 PM,6:54,Blaylock REBOUND (Off:0 Def:2),,,,
+0029900503,50,2,1,1,2:49 PM,6:38,MISS Blaylock 25' 3PT Jump Shot,,,,
+0029900503,51,4,0,1,2:49 PM,6:36,,,Bullard REBOUND (Off:0 Def:3),,
+0029900503,52,9,1,1,2:49 PM,6:31,WARRIORS Timeout: Regular (Full 1 Short 1),,,,
+0029900503,54,2,1,1,2:52 PM,6:26,,,MISS Bullard 15' Jump Shot,,
+0029900503,56,4,0,1,2:52 PM,6:25,,,Miller REBOUND (Off:1 Def:1),,
+0029900503,55,2,4,1,2:52 PM,6:24,,,MISS Miller  Tip Shot,,
+0029900503,57,4,0,1,2:52 PM,6:22,Blaylock REBOUND (Off:0 Def:3),,,,
+0029900503,58,5,1,1,2:52 PM,6:06,Jamison Bad Pass Turnover (P3.T3),,Anderson STEAL (1 STL),,
+0029900503,59,1,6,1,2:52 PM,6:00,,,Francis  Driving Layup (2 PTS),10 - 11,1
+0029900503,60,2,1,1,2:52 PM,5:48,MISS Blaylock 24' 3PT Jump Shot,,,,
+0029900503,61,4,0,1,2:53 PM,5:47,,,Williams REBOUND (Off:0 Def:2),,
+0029900503,62,2,6,1,2:53 PM,5:25,,,MISS Francis  Driving Layup,,
+0029900503,63,4,0,1,2:53 PM,5:24,Caffey REBOUND (Off:0 Def:2),,,,
+0029900503,64,6,1,1,2:53 PM,5:22,,,Williams P.FOUL (P1.T2),,
+0029900503,67,3,11,1,2:53 PM,5:22,Jamison Free Throw 1 of 2 (3 PTS),,,10 - 12,2
+0029900503,65,8,0,1,2:53 PM,5:22,SUB: Marshall FOR Foyle,,,,
+0029900503,66,8,0,1,2:53 PM,5:22,SUB: Mack FOR Cummings,,,,
+0029900503,68,3,12,1,2:54 PM,5:22,Jamison Free Throw 2 of 2 (4 PTS),,,10 - 13,3
+0029900503,69,2,1,1,2:54 PM,5:04,,,MISS Williams 25' 3PT Jump Shot,,
+0029900503,70,4,0,1,2:54 PM,5:01,,,Bullard REBOUND (Off:1 Def:3),,
+0029900503,71,1,1,1,2:54 PM,4:58,,,Williams 25' 3PT Jump Shot (5 PTS) (Bullard 1 AST),13 - 13,TIE
+0029900503,72,5,1,1,2:55 PM,4:43,Blaylock Bad Pass Turnover (P1.T4),,,,
+0029900503,73,6,4,1,2:55 PM,4:31,,,Miller OFF.Foul (P2),,
+0029900503,74,5,5,1,2:55 PM,4:31,,,Miller Foul Turnover (P2.T3),,
+0029900503,75,8,0,1,2:55 PM,4:31,,,SUB: Thomas FOR Miller,,
+0029900503,76,6,4,1,2:55 PM,4:23,Mack OFF.Foul (P1),,,,
+0029900503,77,5,5,1,2:55 PM,4:23,Mack Foul Turnover (P1.T5),,,,
+0029900503,78,5,1,1,2:56 PM,4:11,Mack STEAL (1 STL),,Francis Bad Pass Turnover (P1.T4),,
+0029900503,79,1,1,1,2:56 PM,4:06,Blaylock 18' Jump Shot (4 PTS) (Mack 1 AST),,,13 - 15,2
+0029900503,80,2,1,1,2:56 PM,3:40,,,MISS Bullard 17' Jump Shot,,
+0029900503,81,4,0,1,2:56 PM,3:38,Caffey REBOUND (Off:0 Def:3),,,,
+0029900503,82,1,8,1,2:56 PM,3:31,Jamison  Slam Dunk (6 PTS) (Marshall 1 AST),,,13 - 17,4
+0029900503,83,9,1,1,2:57 PM,3:24,,,Rockets Timeout: Regular (Reg.1 Short 0),,
+0029900503,85,8,0,1,2:58 PM,3:24,,,SUB: Mobley FOR Bullard,,
+0029900503,86,8,0,1,2:59 PM,3:24,SUB: Cummings FOR Blaylock,,,,
+0029900503,87,2,1,1,2:59 PM,3:16,Cummings BLOCK (1 BLK),,MISS Francis 16' Jump Shot,,
+0029900503,88,4,0,1,2:59 PM,3:14,Caffey REBOUND (Off:0 Def:4),,,,
+0029900503,89,1,1,1,2:59 PM,3:10,Cummings 24' 3PT Jump Shot (6 PTS),,,13 - 20,7
+0029900503,90,2,6,1,2:59 PM,2:52,,,MISS Mobley  Driving Layup,,
+0029900503,91,4,0,1,2:59 PM,2:50,,,Rockets Rebound,,
+0029900503,92,6,3,1,2:59 PM,2:50,Caffey L.B.FOUL (P2.T3),,,,
+0029900503,93,8,0,1,3:00 PM,2:50,SUB: Thomas FOR Caffey,,,,
+0029900503,94,2,1,1,3:00 PM,2:37,,,MISS Francis 25' 3PT Jump Shot,,
+0029900503,95,4,0,1,3:00 PM,2:35,Cummings REBOUND (Off:0 Def:2),,,,
+0029900503,96,2,1,1,3:00 PM,2:26,MISS Mack 18' Jump Shot,,,,
+0029900503,97,4,0,1,3:00 PM,2:24,,,Thomas REBOUND (Off:0 Def:1),,
+0029900503,98,5,7,1,3:01 PM,2:21,,,Mobley Discontinue Dribble Turnover (P1.T5),,
+0029900503,99,2,6,1,3:01 PM,2:09,MISS Mack  Driving Layup,,,,
+0029900503,101,4,0,1,3:01 PM,2:08,Jamison REBOUND (Off:1 Def:0),,,,
+0029900503,100,1,8,1,3:01 PM,2:07,Jamison  Slam Dunk (8 PTS),,,13 - 22,9
+0029900503,102,1,5,1,3:01 PM,1:51,,,Williams  Layup (7 PTS) (Francis 4 AST),15 - 22,7
+0029900503,103,6,2,1,3:01 PM,1:51,Mack S.FOUL (P2.T4),,,,
+0029900503,104,3,10,1,3:01 PM,1:51,,,MISS Williams Free Throw 1 of 1,,
+0029900503,105,4,0,1,3:02 PM,1:50,Marshall REBOUND (Off:0 Def:1),,,,
+0029900503,106,2,1,1,3:02 PM,1:25,MISS Thomas  3PT Jump Shot,,,,
+0029900503,107,4,0,1,3:02 PM,1:25,WARRIORS Rebound,,,,
+0029900503,108,5,11,1,3:02 PM,1:25,WARRIORS Turnover: Shot Clock (T#6),,,,
+0029900503,109,6,1,1,3:03 PM,1:16,Jamison P.FOUL (P1.PN),,,,
+0029900503,110,3,11,1,3:03 PM,1:16,,,Francis Free Throw 1 of 2 (3 PTS),16 - 22,6
+0029900503,111,3,12,1,3:03 PM,1:16,,,Francis Free Throw 2 of 2 (4 PTS),17 - 22,5
+0029900503,112,2,1,1,3:03 PM,1:07,MISS Cummings 22' Jump Shot,,,,
+0029900503,113,4,0,1,3:03 PM,1:04,Thomas REBOUND (Off:1 Def:0),,,,
+0029900503,114,5,2,1,3:03 PM,1:02,Thomas Lost Ball Turnover (P1.T7),,Anderson STEAL (2 STL),,
+0029900503,115,2,5,1,3:03 PM,0:56,,,MISS Anderson  Layup,,
+0029900503,116,4,0,1,3:03 PM,0:55,Cummings REBOUND (Off:0 Def:3),,,,
+0029900503,117,1,8,1,3:03 PM,0:52,Jamison  Slam Dunk (10 PTS) (Thomas 1 AST),,,17 - 24,7
+0029900503,118,2,1,1,3:04 PM,0:39,,,MISS Francis 26' 3PT Jump Shot,,
+0029900503,119,4,0,1,3:04 PM,0:37,,,Francis REBOUND (Off:1 Def:0),,
+0029900503,120,1,1,1,3:04 PM,0:32,,,Williams 25' 3PT Jump Shot (10 PTS) (Francis 5 AST),20 - 24,4
+0029900503,121,6,1,1,3:04 PM,0:23,,,Williams P.FOUL (P2.T3),,
+0029900503,122,8,0,1,3:05 PM,0:23,,,SUB: Drew FOR Williams,,
+0029900503,123,2,1,1,3:05 PM,0:11,MISS Thomas  3PT Jump Shot,,,,
+0029900503,124,4,0,1,3:05 PM,0:09,,,Rockets Rebound,,
+0029900503,125,1,1,1,3:05 PM,0:01,,,Mobley 25' 3PT Jump Shot (3 PTS) (Francis 6 AST),23 - 24,1
+0029900503,126,2,1,1,3:05 PM,0:00,MISS Cummings 43' 3PT Jump Shot,,,,
+0029900503,127,4,0,1,3:05 PM,0:00,WARRIORS Rebound,,,,
+0029900503,128,13,0,1,3:05 PM,0:00,,,,23 - 24,1
+0029900503,130,12,0,2,3:08 PM,12:00,,,,23 - 24,1
+0029900503,131,1,1,2,3:08 PM,11:45,,,Drew  3PT Jump Shot (3 PTS) (Francis 7 AST),26 - 24,-2
+0029900503,132,2,1,2,3:09 PM,11:26,MISS Marshall 21' Jump Shot,,,,
+0029900503,133,4,0,2,3:09 PM,11:24,,,Mobley REBOUND (Off:0 Def:1),,
+0029900503,134,2,1,2,3:09 PM,11:10,,,MISS Mobley 16' Jump Shot,,
+0029900503,135,4,0,2,3:09 PM,11:08,Marshall REBOUND (Off:0 Def:2),,,,
+0029900503,136,1,1,2,3:09 PM,11:00,Mack 24' 3PT Jump Shot (3 PTS) (Thomas 2 AST),,,26 - 27,1
+0029900503,137,2,5,2,3:10 PM,10:31,,,MISS Francis 3' Layup,,
+0029900503,138,4,0,2,3:10 PM,10:29,,,Francis REBOUND (Off:2 Def:0),,
+0029900503,139,2,5,2,3:10 PM,10:27,,,MISS Francis 3' Layup,,
+0029900503,140,4,0,2,3:10 PM,10:25,,,Rockets Rebound,,
+0029900503,141,8,0,2,3:10 PM,10:25,SUB: Jacobson FOR Thomas,,,,
+0029900503,142,1,1,2,3:10 PM,10:22,,,Mobley 15' Jump Shot (5 PTS) (Drew 1 AST),28 - 27,-1
+0029900503,143,1,6,2,3:10 PM,10:03,Jamison  Driving Layup (12 PTS),,,28 - 29,1
+0029900503,144,6,2,2,3:11 PM,9:57,Marshall S.FOUL (P1.T1),,,,
+0029900503,145,9,4,2,3:11 PM,9:57,,,,,
+0029900503,147,8,0,2,3:13 PM,9:57,SUB: Blaylock FOR Mack,,,,
+0029900503,148,3,11,2,3:13 PM,9:57,,,Anderson Free Throw 1 of 2 (5 PTS),29 - 29,TIE
+0029900503,149,3,12,2,3:13 PM,9:57,,,Anderson Free Throw 2 of 2 (6 PTS),30 - 29,-1
+0029900503,150,1,6,2,3:14 PM,9:48,Blaylock  Driving Layup (6 PTS),,,30 - 31,1
+0029900503,151,6,2,2,3:14 PM,9:48,,,Drew S.FOUL (P1.T1),,
+0029900503,152,3,10,2,3:14 PM,9:48,Blaylock Free Throw 1 of 1 (7 PTS),,,30 - 32,2
+0029900503,153,1,1,2,3:14 PM,9:38,,,Thomas 17' Jump Shot (2 PTS),32 - 32,TIE
+0029900503,154,1,1,2,3:15 PM,9:20,Jamison 10' Jump Shot (14 PTS),,,32 - 34,2
+0029900503,155,2,1,2,3:15 PM,9:02,,,MISS Mobley 18' Jump Shot,,
+0029900503,156,4,0,2,3:15 PM,9:01,,,Thomas REBOUND (Off:1 Def:1),,
+0029900503,157,2,5,2,3:15 PM,9:00,,,MISS Thomas  Layup,,
+0029900503,158,4,0,2,3:15 PM,8:59,Marshall REBOUND (Off:0 Def:3),,,,
+0029900503,159,6,3,2,3:15 PM,8:59,,,Francis L.B.FOUL (P1.T2),,
+0029900503,160,1,1,2,3:15 PM,8:49,Blaylock 19' Jump Shot (9 PTS),,,32 - 36,4
+0029900503,161,5,7,2,3:16 PM,8:36,,,Drew Discontinue Dribble Turnover (P1.T6),,
+0029900503,162,8,0,2,3:16 PM,8:36,SUB: Caffey FOR Jamison,,,,
+0029900503,163,2,1,2,3:16 PM,8:25,MISS Cummings 17' Jump Shot,,Mobley BLOCK (1 BLK),,
+0029900503,164,4,0,2,3:16 PM,8:23,Cummings REBOUND (Off:1 Def:3),,,,
+0029900503,165,2,1,2,3:16 PM,8:13,MISS Blaylock 16' Jump Shot,,,,
+0029900503,166,4,0,2,3:16 PM,8:11,Caffey REBOUND (Off:1 Def:4),,,,
+0029900503,167,1,1,2,3:17 PM,8:05,Marshall  3PT Jump Shot (3 PTS) (Blaylock 2 AST),,,32 - 39,7
+0029900503,168,2,1,2,3:17 PM,7:44,,,MISS Mobley 24' 3PT Jump Shot,,
+0029900503,169,4,0,2,3:17 PM,7:42,,,Anderson REBOUND (Off:2 Def:1),,
+0029900503,170,1,6,2,3:17 PM,7:38,,,Mobley  Driving Layup (7 PTS) (Anderson 1 AST),34 - 39,5
+0029900503,171,1,1,2,3:17 PM,7:18,Jacobson 12' Jump Shot (2 PTS) (Marshall 2 AST),,,34 - 41,7
+0029900503,172,6,4,2,3:18 PM,7:05,,,Thomas OFF.Foul (P1),,
+0029900503,173,5,5,2,3:18 PM,7:05,,,Thomas Foul Turnover (P1.T7),,
+0029900503,174,8,0,2,3:18 PM,7:05,,,SUB: Curley FOR Anderson,,
+0029900503,175,2,5,2,3:18 PM,6:54,MISS Jacobson  Layup,,,,
+0029900503,176,4,0,2,3:18 PM,6:53,,,Francis REBOUND (Off:2 Def:1),,
+0029900503,177,6,1,2,3:18 PM,6:49,Cummings P.FOUL (P2.T2),,,,
+0029900503,178,9,1,2,3:18 PM,6:49,WARRIORS Timeout: Regular (Full 2 Short 1),,,,
+0029900503,180,8,0,2,3:20 PM,6:49,SUB: Mack FOR Cummings,,,,
+0029900503,181,2,5,2,3:21 PM,6:37,,,MISS Drew  Layup,,
+0029900503,183,4,0,2,3:21 PM,6:36,,,Thomas REBOUND (Off:2 Def:1),,
+0029900503,182,1,8,2,3:21 PM,6:35,,,Thomas  Slam Dunk (4 PTS),36 - 41,5
+0029900503,184,5,11,2,3:22 PM,6:07,WARRIORS Turnover: Shot Clock (T#8),,,,
+0029900503,185,1,5,2,3:22 PM,5:54,,,Curley  Layup (2 PTS) (Francis 8 AST),38 - 41,3
+0029900503,186,2,1,2,3:23 PM,5:30,MISS Marshall 25' 3PT Jump Shot,,,,
+0029900503,187,4,0,2,3:23 PM,5:28,,,Francis REBOUND (Off:2 Def:2),,
+0029900503,188,2,5,2,3:23 PM,5:14,,,MISS Curley 2' Layup,,
+0029900503,189,4,0,2,3:23 PM,5:12,Jacobson REBOUND (Off:0 Def:1),,,,
+0029900503,190,1,6,2,3:23 PM,5:07,Caffey  Driving Layup (6 PTS) (Blaylock 3 AST),,,38 - 43,5
+0029900503,191,6,2,2,3:23 PM,5:07,,,Curley S.FOUL (P1.T3),,
+0029900503,192,8,0,2,3:23 PM,5:07,SUB: Jamison FOR Marshall,,,,
+0029900503,193,8,0,2,3:23 PM,5:07,,,SUB: Anderson FOR Francis,,
+0029900503,194,3,10,2,3:23 PM,5:07,MISS Caffey Free Throw 1 of 1,,,,
+0029900503,195,4,0,2,3:24 PM,5:06,,,Curley REBOUND (Off:0 Def:1),,
+0029900503,196,6,1,2,3:24 PM,4:47,Mack P.FOUL (P3.T3),,,,
+0029900503,197,8,0,2,3:24 PM,4:47,SUB: Cummings FOR Mack,,,,
+0029900503,198,5,2,2,3:25 PM,4:36,Jacobson STEAL (1 STL),,Curley Lost Ball Turnover (P1.T8),,
+0029900503,199,6,4,2,3:25 PM,4:30,Cummings OFF.Foul (P3),,,,
+0029900503,200,5,5,2,3:25 PM,4:30,Cummings Foul Turnover (P1.T9),,,,
+0029900503,201,2,1,2,3:25 PM,4:18,,,MISS Curley 17' Jump Shot,,
+0029900503,202,4,0,2,3:25 PM,4:17,Blaylock REBOUND (Off:0 Def:4),,,,
+0029900503,203,1,1,2,3:25 PM,4:12,Jacobson 24' 3PT Jump Shot (5 PTS) (Blaylock 4 AST),,,38 - 46,8
+0029900503,204,6,1,2,3:26 PM,4:01,Jacobson P.FOUL (P1.T4),,,,
+0029900503,205,8,0,2,3:26 PM,4:01,,,SUB: Miller FOR Curley,,
+0029900503,206,1,2,2,3:26 PM,3:56,,,Drew 5' Running Jump Shot (5 PTS),40 - 46,6
+0029900503,207,2,1,2,3:26 PM,3:39,MISS Jamison 18' Jump Shot,,,,
+0029900503,208,4,0,2,3:26 PM,3:37,,,Thomas REBOUND (Off:2 Def:2),,
+0029900503,209,1,6,2,3:26 PM,3:33,,,Drew  Driving Layup (7 PTS) (Anderson 2 AST),42 - 46,4
+0029900503,210,6,1,2,3:27 PM,3:17,,,Thomas P.FOUL (P2.T4),,
+0029900503,211,2,1,2,3:27 PM,3:08,MISS Caffey 12' Jump Shot,,,,
+0029900503,212,4,0,2,3:27 PM,3:05,,,Miller REBOUND (Off:1 Def:2),,
+0029900503,213,5,1,2,3:27 PM,2:55,,,Drew Bad Pass Turnover (P2.T9),,
+0029900503,214,9,1,2,3:27 PM,2:55,,,Rockets Timeout: Regular (Reg.2 Short 0),,
+0029900503,216,2,1,2,3:30 PM,2:47,MISS Jamison 8' Jump Shot,,,,
+0029900503,217,4,0,2,3:30 PM,2:45,,,Miller REBOUND (Off:1 Def:3),,
+0029900503,218,2,1,2,3:30 PM,2:28,,,MISS Drew 24' 3PT Jump Shot,,
+0029900503,219,4,0,2,3:30 PM,2:27,,,Rockets Rebound,,
+0029900503,220,6,3,2,3:30 PM,2:27,Jamison L.B.FOUL (P2.PN),,,,
+0029900503,221,8,0,2,3:30 PM,2:27,SUB: Farmer FOR Cummings,,,,
+0029900503,222,3,11,2,3:30 PM,2:27,,,Anderson Free Throw 1 of 2 (7 PTS),43 - 46,3
+0029900503,223,3,12,2,3:31 PM,2:27,,,Anderson Free Throw 2 of 2 (8 PTS),44 - 46,2
+0029900503,224,2,5,2,3:31 PM,2:15,MISS Caffey 3' Layup,,Anderson BLOCK (1 BLK),,
+0029900503,225,4,0,2,3:31 PM,2:13,,,Thomas REBOUND (Off:2 Def:3),,
+0029900503,226,1,6,2,3:31 PM,2:11,,,Mobley  Driving Layup (9 PTS) (Thomas 1 AST),46 - 46,TIE
+0029900503,227,7,6,2,3:31 PM,1:59,,,Drew Violation:Double Lane,,
+0029900503,228,1,3,2,3:32 PM,1:52,Caffey 5' Hook Shot (8 PTS) (Jacobson 1 AST),,,46 - 48,2
+0029900503,229,1,3,2,3:32 PM,1:34,,,Thomas 5' Hook Shot (6 PTS) (Drew 2 AST),48 - 48,TIE
+0029900503,230,2,1,2,3:32 PM,1:13,MISS Farmer 25' 3PT Jump Shot,,,,
+0029900503,231,4,0,2,3:32 PM,1:10,,,Rockets Rebound,,
+0029900503,232,2,1,2,3:33 PM,0:53,,,MISS Drew 25' 3PT Jump Shot,,
+0029900503,233,4,0,2,3:33 PM,0:51,Farmer REBOUND (Off:0 Def:1),,,,
+0029900503,234,1,1,2,3:33 PM,0:41,Blaylock 17' Jump Shot (11 PTS),,,48 - 50,2
+0029900503,235,1,6,2,3:33 PM,0:31,,,Anderson  Driving Layup (10 PTS),50 - 50,TIE
+0029900503,236,6,4,2,3:33 PM,0:21,Farmer OFF.Foul (P1),,,,
+0029900503,237,5,5,2,3:33 PM,0:21,Farmer Foul Turnover (P1.T10),,,,
+0029900503,238,9,2,2,3:34 PM,0:21,,,Rockets Timeout: Short (Reg.2 Short 1),,
+0029900503,239,8,0,2,3:34 PM,0:21,SUB: Marshall FOR Caffey,,,,
+0029900503,240,5,2,2,3:35 PM,0:06,Blaylock STEAL (1 STL),,Drew Lost Ball Turnover (P3.T10),,
+0029900503,241,1,6,2,3:35 PM,0:02,Blaylock  Driving Layup (13 PTS),,,50 - 52,2
+0029900503,242,6,2,2,3:35 PM,0:02,,,Thomas S.FOUL (P3.PN),,
+0029900503,243,3,10,2,3:35 PM,0:02,Blaylock Free Throw 1 of 1 (14 PTS),,,50 - 53,3
+0029900503,244,1,2,2,3:35 PM,0:00,,,Drew 40' 3PT Running Jump Shot (10 PTS),53 - 53,TIE
+0029900503,245,13,0,2,3:35 PM,0:00,,,,53 - 53,TIE
+0029900503,247,12,0,3,3:52 PM,12:00,,,,53 - 53,TIE
+0029900503,248,2,1,3,3:52 PM,11:46,,,MISS Williams 18' Jump Shot,,
+0029900503,249,4,0,3,3:52 PM,11:44,,,Rockets Rebound,,
+0029900503,250,2,1,3,3:53 PM,11:34,,,MISS Anderson 20' Jump Shot,,
+0029900503,251,4,0,3,3:53 PM,11:32,,,Francis REBOUND (Off:3 Def:2),,
+0029900503,252,2,1,3,3:53 PM,11:30,Foyle BLOCK (1 BLK),,MISS Miller 5' Jump Shot,,
+0029900503,253,4,0,3,3:53 PM,11:28,Caffey REBOUND (Off:1 Def:5),,,,
+0029900503,254,5,1,3,3:53 PM,11:15,Blaylock Bad Pass Turnover (P2.T11),,Miller STEAL (1 STL),,
+0029900503,255,2,5,3,3:53 PM,11:07,,,MISS Francis  Layup,,
+0029900503,256,4,0,3,3:53 PM,11:06,Jamison REBOUND (Off:1 Def:1),,,,
+0029900503,257,1,5,3,3:53 PM,11:04,Blaylock  Layup (16 PTS) (Jamison 2 AST),,,53 - 55,2
+0029900503,258,2,1,3,3:54 PM,10:36,,,MISS Williams 25' 3PT Jump Shot,,
+0029900503,259,4,0,3,3:54 PM,10:35,Caffey REBOUND (Off:1 Def:6),,,,
+0029900503,260,6,3,3,3:54 PM,10:34,,,Miller L.B.FOUL (P3.T1),,
+0029900503,261,2,1,3,3:54 PM,10:12,MISS Jamison 10' Jump Shot,,,,
+0029900503,262,4,0,3,3:54 PM,10:10,,,Miller REBOUND (Off:1 Def:4),,
+0029900503,263,2,1,3,3:55 PM,10:01,,,MISS Bullard 21' Jump Shot,,
+0029900503,264,4,0,3,3:55 PM,9:59,,,Francis REBOUND (Off:4 Def:2),,
+0029900503,265,1,1,3,3:55 PM,9:54,,,Francis 25' 3PT Jump Shot (7 PTS),56 - 55,-1
+0029900503,266,1,1,3,3:55 PM,9:40,Mack 18' Jump Shot (5 PTS) (Blaylock 5 AST),,,56 - 57,1
+0029900503,267,2,1,3,3:55 PM,9:28,,,MISS Francis 26' 3PT Jump Shot,,
+0029900503,268,4,0,3,3:55 PM,9:27,Mack REBOUND (Off:0 Def:1),,,,
+0029900503,269,5,1,3,3:55 PM,9:26,Mack Bad Pass Turnover (P2.T12),,Anderson STEAL (3 STL),,
+0029900503,270,1,5,3,3:55 PM,9:25,,,Anderson  Layup (12 PTS),58 - 57,-1
+0029900503,271,6,2,3,3:55 PM,9:25,Mack S.FOUL (P4.T1),,,,
+0029900503,272,3,10,3,3:56 PM,9:25,,,Anderson Free Throw 1 of 1 (13 PTS),59 - 57,-2
+0029900503,273,5,2,3,3:56 PM,9:10,Blaylock Lost Ball Turnover (P3.T13),,Francis STEAL (1 STL),,
+0029900503,274,1,6,3,3:56 PM,9:07,,,Francis  Driving Layup (9 PTS),61 - 57,-4
+0029900503,275,1,1,3,3:56 PM,8:51,Mack 16' Jump Shot (7 PTS) (Blaylock 6 AST),,,61 - 59,-2
+0029900503,276,2,5,3,3:57 PM,8:37,Foyle BLOCK (2 BLK),,MISS Anderson 3' Layup,,
+0029900503,277,4,0,3,3:57 PM,8:36,,,Rockets Rebound,,
+0029900503,278,8,0,3,3:57 PM,8:36,SUB: Jacobson FOR Mack,,,,
+0029900503,279,2,1,3,3:57 PM,8:28,,,MISS Anderson 24' 3PT Jump Shot,,
+0029900503,280,4,0,3,3:57 PM,8:26,Foyle REBOUND (Off:1 Def:4),,,,
+0029900503,281,2,1,3,3:57 PM,8:21,MISS Jamison 5' Jump Shot,,,,
+0029900503,282,4,0,3,3:57 PM,8:19,,,Williams REBOUND (Off:0 Def:3),,
+0029900503,283,6,4,3,3:57 PM,8:14,,,Francis OFF.Foul (P2),,
+0029900503,284,5,5,3,3:57 PM,8:14,,,Francis Foul Turnover (P2.T11),,
+0029900503,285,6,1,3,3:58 PM,8:01,,,Bullard P.FOUL (P1.T2),,
+0029900503,286,6,11,3,3:58 PM,8:01,,,,,
+0029900503,287,3,16,3,3:58 PM,8:01,,,Williams Free Throw Technical (11 PTS),62 - 59,-3
+0029900503,288,2,5,3,3:59 PM,7:49,MISS Foyle  Layup,,Miller BLOCK (2 BLK),,
+0029900503,289,4,0,3,3:59 PM,7:47,,,Rockets Rebound,,
+0029900503,290,6,2,3,4:00 PM,7:37,Jacobson S.FOUL (P2.T2),,,,
+0029900503,291,3,11,3,4:00 PM,7:37,,,MISS Miller Free Throw 1 of 2,,
+0029900503,292,4,1,3,4:00 PM,7:37,,,Rockets Rebound,,
+0029900503,293,8,0,3,4:00 PM,7:37,SUB: Cummings FOR Jacobson,,,,
+0029900503,294,8,0,3,4:00 PM,7:37,SUB: Marshall FOR Foyle,,,,
+0029900503,295,3,12,3,4:00 PM,7:37,,,Miller Free Throw 2 of 2 (3 PTS),63 - 59,-4
+0029900503,296,2,1,3,4:01 PM,7:13,MISS Caffey 11' Jump Shot,,,,
+0029900503,297,4,0,3,4:01 PM,7:11,,,Bullard REBOUND (Off:1 Def:4),,
+0029900503,298,5,1,3,4:01 PM,7:06,Blaylock STEAL (2 STL),,Williams Bad Pass Turnover (P1.T12),,
+0029900503,299,2,1,3,4:01 PM,6:53,MISS Cummings 7' Jump Shot,,,,
+0029900503,300,4,0,3,4:01 PM,6:51,,,Miller REBOUND (Off:1 Def:5),,
+0029900503,301,1,8,3,4:01 PM,6:47,,,Francis  Slam Dunk (11 PTS) (Bullard 2 AST),65 - 59,-6
+0029900503,302,9,1,3,4:01 PM,6:41,WARRIORS Timeout: Regular (Full 3 Short 1),,,,
+0029900503,304,2,1,3,4:04 PM,6:24,MISS Jamison 6' Jump Shot,,,,
+0029900503,306,4,0,3,4:04 PM,6:23,Cummings REBOUND (Off:2 Def:3),,,,
+0029900503,305,1,7,3,4:04 PM,6:22,Cummings  Dunk (8 PTS),,,65 - 61,-4
+0029900503,307,2,1,3,4:04 PM,5:52,,,MISS Bullard 20' Jump Shot,,
+0029900503,308,4,0,3,4:04 PM,5:49,,,Francis REBOUND (Off:5 Def:2),,
+0029900503,309,2,6,3,4:05 PM,5:46,,,MISS Williams  Driving Layup,,
+0029900503,310,4,0,3,4:05 PM,5:44,Jamison REBOUND (Off:1 Def:2),,,,
+0029900503,311,2,5,3,4:05 PM,5:37,MISS Marshall  Layup,,Bullard BLOCK (1 BLK),,
+0029900503,312,4,0,3,4:05 PM,5:36,,,Miller REBOUND (Off:1 Def:6),,
+0029900503,313,1,6,3,4:05 PM,5:32,,,Anderson  Driving Layup (15 PTS) (Francis 9 AST),67 - 61,-6
+0029900503,314,2,1,3,4:05 PM,5:10,MISS Marshall 21' Jump Shot,,,,
+0029900503,315,4,0,3,4:05 PM,5:08,Cummings REBOUND (Off:3 Def:3),,,,
+0029900503,316,6,1,3,4:05 PM,4:59,,,Anderson P.FOUL (P1.T3),,
+0029900503,317,8,0,3,4:05 PM,4:59,,,SUB: Thomas FOR Bullard,,
+0029900503,318,3,11,3,4:06 PM,4:59,Caffey Free Throw 1 of 2 (9 PTS),,,67 - 62,-5
+0029900503,319,3,12,3,4:06 PM,4:59,Caffey Free Throw 2 of 2 (10 PTS),,,67 - 63,-4
+0029900503,320,2,1,3,4:07 PM,4:44,,,MISS Williams 19' Jump Shot,,
+0029900503,321,4,0,3,4:07 PM,4:43,Marshall REBOUND (Off:0 Def:4),,,,
+0029900503,322,2,1,3,4:07 PM,4:36,MISS Blaylock 21' Jump Shot,,,,
+0029900503,323,4,0,3,4:07 PM,4:34,,,Thomas REBOUND (Off:2 Def:4),,
+0029900503,324,5,2,3,4:07 PM,4:33,Cummings STEAL (2 STL),,Francis Lost Ball Turnover (P3.T13),,
+0029900503,325,6,1,3,4:07 PM,4:31,,,Anderson P.FOUL (P2.T4),,
+0029900503,326,2,1,3,4:07 PM,4:21,MISS Jamison 5' Jump Shot,,,,
+0029900503,327,4,0,3,4:07 PM,4:20,,,Miller REBOUND (Off:1 Def:7),,
+0029900503,328,6,2,3,4:08 PM,4:08,Jamison S.FOUL (P3.T3),,,,
+0029900503,329,3,11,3,4:08 PM,4:08,,,Francis Free Throw 1 of 2 (12 PTS),68 - 63,-5
+0029900503,330,3,12,3,4:08 PM,4:08,,,MISS Francis Free Throw 2 of 2,,
+0029900503,331,4,0,3,4:08 PM,4:06,,,Thomas REBOUND (Off:3 Def:4),,
+0029900503,332,1,5,3,4:08 PM,4:05,,,Thomas  Layup (8 PTS),70 - 63,-7
+0029900503,333,6,1,3,4:09 PM,3:48,,,Miller P.FOUL (P4.PN),,
+0029900503,334,3,11,3,4:09 PM,3:48,MISS Caffey Free Throw 1 of 2,,,,
+0029900503,335,4,1,3,4:09 PM,3:48,WARRIORS Rebound,,,,
+0029900503,336,8,0,3,4:09 PM,3:48,,,SUB: Curley FOR Miller,,
+0029900503,337,3,12,3,4:10 PM,3:48,Caffey Free Throw 2 of 2 (11 PTS),,,70 - 64,-6
+0029900503,338,1,3,3,4:10 PM,3:33,,,Curley 4' Hook Shot (4 PTS) (Francis 10 AST),72 - 64,-8
+0029900503,339,1,1,3,4:10 PM,3:21,Blaylock 24' 3PT Jump Shot (19 PTS) (Caffey 1 AST),,,72 - 67,-5
+0029900503,340,9,1,3,4:10 PM,3:12,,,Rockets Timeout: Regular (Reg.3 Short 1),,
+0029900503,342,2,2,3,4:13 PM,2:52,,,MISS Francis 10' Running Jump Shot,,
+0029900503,343,4,0,3,4:13 PM,2:50,Marshall REBOUND (Off:0 Def:5),,,,
+0029900503,344,6,1,3,4:14 PM,2:33,,,Curley P.FOUL (P2.PN),,
+0029900503,345,3,11,3,4:14 PM,2:33,Caffey Free Throw 1 of 2 (12 PTS),,,72 - 68,-4
+0029900503,346,3,12,3,4:14 PM,2:33,MISS Caffey Free Throw 2 of 2,,,,
+0029900503,347,4,0,3,4:14 PM,2:31,,,Thomas REBOUND (Off:3 Def:5),,
+0029900503,348,5,2,3,4:14 PM,2:17,Cummings STEAL (3 STL),,Thomas Lost Ball Turnover (P2.T14),,
+0029900503,349,1,5,3,4:14 PM,2:13,Cummings  Layup (10 PTS) (Blaylock 7 AST),,,72 - 70,-2
+0029900503,350,2,5,3,4:15 PM,1:58,Jamison BLOCK (1 BLK),,MISS Anderson 1' Layup,,
+0029900503,351,4,0,3,4:15 PM,1:55,Marshall REBOUND (Off:0 Def:6),,,,
+0029900503,352,1,8,3,4:15 PM,1:53,Caffey  Slam Dunk (14 PTS) (Blaylock 8 AST),,,72 - 72,TIE
+0029900503,353,6,1,3,4:15 PM,1:36,Blaylock P.FOUL (P1.T4),,,,
+0029900503,354,8,0,3,4:15 PM,1:36,SUB: Jacobson FOR Blaylock,,,,
+0029900503,355,2,1,3,4:16 PM,1:31,,,MISS Francis 25' 3PT Jump Shot,,
+0029900503,356,4,0,3,4:16 PM,1:29,Jacobson REBOUND (Off:0 Def:2),,,,
+0029900503,357,5,1,3,4:16 PM,1:20,Cummings Bad Pass Turnover (P2.T14),,Williams STEAL (2 STL),,
+0029900503,358,1,6,3,4:16 PM,1:18,,,Williams  Driving Layup (13 PTS),74 - 72,-2
+0029900503,359,6,2,3,4:16 PM,1:18,Cummings S.FOUL (P4.PN),,,,
+0029900503,360,8,0,3,4:16 PM,1:18,,,SUB: Mobley FOR Anderson,,
+0029900503,361,3,10,3,4:16 PM,1:18,,,MISS Williams Free Throw 1 of 1,,
+0029900503,362,4,0,3,4:16 PM,1:16,,,Curley REBOUND (Off:1 Def:1),,
+0029900503,363,1,5,3,4:16 PM,1:15,,,Curley  Layup (6 PTS),76 - 72,-4
+0029900503,364,6,2,3,4:17 PM,0:50,,,Curley S.FOUL (P3.PN),,
+0029900503,365,3,11,3,4:17 PM,0:50,Caffey Free Throw 1 of 2 (15 PTS),,,76 - 73,-3
+0029900503,366,3,12,3,4:17 PM,0:50,Caffey Free Throw 2 of 2 (16 PTS),,,76 - 74,-2
+0029900503,367,1,8,3,4:18 PM,0:38,,,Thomas  Slam Dunk (10 PTS) (Williams 1 AST),78 - 74,-4
+0029900503,368,2,1,3,4:18 PM,0:26,MISS Marshall 24' 3PT Jump Shot,,,,
+0029900503,369,4,0,3,4:18 PM,0:24,,,Mobley REBOUND (Off:0 Def:2),,
+0029900503,370,1,5,3,4:18 PM,0:20,,,Francis  Layup (14 PTS) (Williams 2 AST),80 - 74,-6
+0029900503,371,6,2,3,4:18 PM,0:14,,,Thomas S.FOUL (P4.PN),,
+0029900503,372,3,11,3,4:19 PM,0:14,Cummings Free Throw 1 of 2 (11 PTS),,,80 - 75,-5
+0029900503,373,3,12,3,4:19 PM,0:14,MISS Cummings Free Throw 2 of 2,,,,
+0029900503,374,4,0,3,4:19 PM,0:13,Marshall REBOUND (Off:1 Def:6),,,,
+0029900503,375,5,1,3,4:19 PM,0:12,Marshall Bad Pass Turnover (P1.T15),,,,
+0029900503,376,2,1,3,4:20 PM,0:00,Marshall BLOCK (1 BLK),,MISS Francis 5' Jump Shot,,
+0029900503,377,4,0,3,4:20 PM,0:00,,,Rockets Rebound,,
+0029900503,378,13,0,3,4:20 PM,0:00,,,,80 - 75,-5
+0029900503,380,12,0,4,4:22 PM,12:00,,,,80 - 75,-5
+0029900503,381,2,5,4,4:23 PM,11:44,MISS Caffey 2' Layup,,,,
+0029900503,382,4,0,4,4:23 PM,11:42,WARRIORS Rebound,,,,
+0029900503,383,2,1,4,4:23 PM,11:29,MISS Jacobson 14' Jump Shot,,,,
+0029900503,385,4,0,4,4:23 PM,11:27,Jamison REBOUND (Off:2 Def:2),,,,
+0029900503,384,1,5,4,4:23 PM,11:26,Jamison  Layup (16 PTS),,,80 - 77,-3
+0029900503,386,2,5,4,4:24 PM,11:10,Jamison BLOCK (2 BLK),,MISS Thomas 3' Layup,,
+0029900503,387,4,0,4,4:24 PM,11:09,,,Rockets Rebound,,
+0029900503,388,8,0,4,4:24 PM,11:09,SUB: Blaylock FOR Cummings,,,,
+0029900503,389,8,0,4,4:24 PM,11:09,SUB: Mack FOR Jamison,,,,
+0029900503,390,8,0,4,4:24 PM,11:09,,,SUB: Miller FOR Thomas,,
+0029900503,391,2,1,4,4:24 PM,11:02,,,MISS Drew 21' Jump Shot,,
+0029900503,392,4,0,4,4:24 PM,11:00,Marshall REBOUND (Off:1 Def:7),,,,
+0029900503,393,5,2,4,4:24 PM,10:57,Jacobson Lost Ball Turnover (P1.T16),,,,
+0029900503,394,2,1,4,4:25 PM,10:38,,,MISS Williams  3PT Jump Shot,,
+0029900503,395,4,0,4,4:25 PM,10:37,Blaylock REBOUND (Off:0 Def:5),,,,
+0029900503,396,1,5,4,4:25 PM,10:29,Caffey 2' Layup (18 PTS) (Blaylock 9 AST),,,80 - 79,-1
+0029900503,397,6,2,4,4:25 PM,10:29,,,Curley S.FOUL (P4.T1),,
+0029900503,398,8,0,4,4:25 PM,10:29,,,SUB: Anderson FOR Williams,,
+0029900503,399,3,10,4,4:25 PM,10:29,MISS Caffey Free Throw 1 of 1,,,,
+0029900503,400,4,0,4,4:26 PM,10:28,,,Miller REBOUND (Off:1 Def:8),,
+0029900503,401,6,1,4,4:26 PM,10:21,Jacobson P.FOUL (P3.T1),,,,
+0029900503,402,1,5,4,4:26 PM,10:09,,,Curley  Layup (8 PTS) (Drew 3 AST),82 - 79,-3
+0029900503,403,6,1,4,4:27 PM,9:58,,,Curley P.FOUL (P5.T2),,
+0029900503,404,9,4,4,4:27 PM,9:58,,,,,
+0029900503,406,8,0,4,4:29 PM,9:58,SUB: Cummings FOR Jacobson,,,,
+0029900503,407,8,0,4,4:29 PM,9:58,SUB: Jamison FOR Marshall,,,,
+0029900503,408,2,1,4,4:29 PM,9:49,MISS Caffey 12' Jump Shot,,,,
+0029900503,409,4,0,4,4:29 PM,9:47,,,Miller REBOUND (Off:1 Def:9),,
+0029900503,410,6,1,4,4:29 PM,9:30,Cummings P.FOUL (P5.T2),,,,
+0029900503,411,3,11,4,4:30 PM,9:30,,,Mobley Free Throw 1 of 2 (10 PTS),83 - 79,-4
+0029900503,412,3,12,4,4:30 PM,9:30,,,Mobley Free Throw 2 of 2 (11 PTS),84 - 79,-5
+0029900503,413,2,1,4,4:30 PM,9:20,MISS Mack 12' Jump Shot,,,,
+0029900503,414,4,0,4,4:30 PM,9:17,Caffey REBOUND (Off:2 Def:6),,,,
+0029900503,415,5,1,4,4:30 PM,9:14,Caffey Bad Pass Turnover (P1.T17),,Mobley STEAL (1 STL),,
+0029900503,416,5,7,4,4:31 PM,9:10,,,Mobley Discontinue Dribble Turnover (P2.T15),,
+0029900503,417,6,2,4,4:31 PM,8:58,,,Miller S.FOUL (P5.T3),,
+0029900503,418,3,11,4,4:31 PM,8:58,MISS Jamison Free Throw 1 of 2,,,,
+0029900503,419,4,1,4,4:31 PM,8:58,WARRIORS Rebound,,,,
+0029900503,420,8,0,4,4:31 PM,8:58,SUB: Jacobson FOR Cummings,,,,
+0029900503,421,8,0,4,4:32 PM,8:58,,,SUB: Bullard FOR Miller,,
+0029900503,422,3,12,4,4:32 PM,8:58,Jamison Free Throw 2 of 2 (17 PTS),,,84 - 80,-4
+0029900503,423,2,1,4,4:32 PM,8:44,,,MISS Mobley 11' Jump Shot,,
+0029900503,424,4,0,4,4:32 PM,8:43,Jamison REBOUND (Off:2 Def:3),,,,
+0029900503,425,1,1,4,4:32 PM,8:37,Blaylock 15' Jump Shot (21 PTS),,,84 - 82,-2
+0029900503,426,2,1,4,4:33 PM,8:18,,,MISS Mobley 25' 3PT Jump Shot,,
+0029900503,427,4,0,4,4:33 PM,8:16,Caffey REBOUND (Off:2 Def:7),,,,
+0029900503,428,2,1,4,4:33 PM,8:10,MISS Mack 25' 3PT Jump Shot,,,,
+0029900503,429,4,0,4,4:33 PM,8:08,,,Curley REBOUND (Off:1 Def:2),,
+0029900503,430,2,2,4,4:33 PM,7:53,,,MISS Drew 6' Running Jump Shot,,
+0029900503,431,4,0,4,4:33 PM,7:51,Mack REBOUND (Off:0 Def:2),,,,
+0029900503,432,5,2,4,4:33 PM,7:46,Mack Lost Ball Turnover (P3.T18),,Anderson STEAL (4 STL),,
+0029900503,433,6,2,4,4:33 PM,7:42,Mack S.FOUL (P5.T3),,,,
+0029900503,434,3,11,4,4:33 PM,7:42,,,MISS Mobley Free Throw 1 of 2,,
+0029900503,435,4,1,4,4:33 PM,7:42,,,Rockets Rebound,,
+0029900503,436,8,0,4,4:34 PM,7:42,,,SUB: Thomas FOR Bullard,,
+0029900503,437,3,12,4,4:34 PM,7:42,,,Mobley Free Throw 2 of 2 (12 PTS),85 - 82,-3
+0029900503,438,1,6,4,4:34 PM,7:33,Blaylock  Driving Layup (23 PTS),,,85 - 84,-1
+0029900503,439,2,1,4,4:34 PM,7:16,,,MISS Drew  3PT Jump Shot,,
+0029900503,440,4,0,4,4:34 PM,7:13,Caffey REBOUND (Off:2 Def:8),,,,
+0029900503,441,5,1,4,4:35 PM,7:04,Blaylock Bad Pass Turnover (P4.T19),,Anderson STEAL (5 STL),,
+0029900503,442,2,1,4,4:35 PM,6:56,,,MISS Mobley 22' Jump Shot,,
+0029900503,443,4,0,4,4:35 PM,6:53,,,Anderson REBOUND (Off:3 Def:1),,
+0029900503,444,1,5,4,4:35 PM,6:51,,,Mobley  Layup (14 PTS) (Anderson 3 AST),87 - 84,-3
+0029900503,445,6,2,4,4:35 PM,6:51,Jamison S.FOUL (P4.T4),,,,
+0029900503,446,9,1,4,4:35 PM,6:51,WARRIORS Timeout: Regular (Full 4 Short 1),,,,
+0029900503,448,3,10,4,4:37 PM,6:51,,,Mobley Free Throw 1 of 1 (15 PTS),88 - 84,-4
+0029900503,449,1,2,4,4:38 PM,6:41,Jamison 9' Running Jump Shot (19 PTS) (Blaylock 10 AST),,,88 - 86,-2
+0029900503,450,1,6,4,4:38 PM,6:21,,,Mobley  Driving Layup (17 PTS),90 - 86,-4
+0029900503,451,1,2,4,4:38 PM,6:05,Mack 4' Running Jump Shot (9 PTS),,,90 - 88,-2
+0029900503,452,6,2,4,4:38 PM,6:05,,,Curley S.FOUL (P6.T4),,
+0029900503,453,8,0,4,4:39 PM,6:05,SUB: Cummings FOR Jacobson,,,,
+0029900503,454,8,0,4,4:39 PM,6:05,,,SUB: Francis FOR Drew,,
+0029900503,455,8,0,4,4:39 PM,6:05,,,SUB: Miller FOR Curley,,
+0029900503,457,3,10,4,4:39 PM,6:05,Mack Free Throw 1 of 1 (10 PTS),,,90 - 89,-1
+0029900503,458,1,1,4,4:39 PM,5:49,,,Mobley 18' Jump Shot (19 PTS),92 - 89,-3
+0029900503,459,2,1,4,4:39 PM,5:39,MISS Blaylock 21' Jump Shot,,,,
+0029900503,460,4,0,4,4:39 PM,5:37,,,Anderson REBOUND (Off:3 Def:2),,
+0029900503,461,2,1,4,4:40 PM,5:24,,,MISS Mobley 9' Jump Shot,,
+0029900503,462,4,0,4,4:40 PM,5:22,,,Thomas REBOUND (Off:4 Def:5),,
+0029900503,463,2,1,4,4:40 PM,5:08,,,MISS Mobley 25' 3PT Jump Shot,,
+0029900503,464,4,0,4,4:40 PM,5:06,,,Thomas REBOUND (Off:5 Def:5),,
+0029900503,465,1,1,4,4:40 PM,4:48,,,Francis 20' Jump Shot (16 PTS),94 - 89,-5
+0029900503,466,6,1,4,4:41 PM,4:36,,,Anderson P.FOUL (P3.PN),,
+0029900503,467,3,11,4,4:41 PM,4:36,Mack Free Throw 1 of 2 (11 PTS),,,94 - 90,-4
+0029900503,468,3,12,4,4:41 PM,4:36,MISS Mack Free Throw 2 of 2,,,,
+0029900503,469,4,0,4,4:41 PM,4:36,,,Miller REBOUND (Off:1 Def:10),,
+0029900503,470,2,1,4,4:42 PM,4:23,,,MISS Mobley 24' 3PT Jump Shot,,
+0029900503,471,4,0,4,4:42 PM,4:21,Blaylock REBOUND (Off:0 Def:6),,,,
+0029900503,472,2,1,4,4:42 PM,4:08,MISS Blaylock 19' Jump Shot,,,,
+0029900503,473,4,0,4,4:42 PM,4:06,Jamison REBOUND (Off:3 Def:3),,,,
+0029900503,474,5,1,4,4:42 PM,4:02,Cummings Bad Pass Turnover (P3.T20),,Anderson STEAL (6 STL),,
+0029900503,475,5,1,4,4:42 PM,3:59,Cummings STEAL (4 STL),,Anderson Bad Pass Turnover (P2.T16),,
+0029900503,476,1,1,4,4:42 PM,3:44,Caffey 4' Jump Shot (20 PTS),,,94 - 92,-2
+0029900503,477,1,6,4,4:43 PM,3:26,,,Francis  Driving Layup (18 PTS),96 - 92,-4
+0029900503,478,6,2,4,4:43 PM,3:26,Caffey S.FOUL (P3.PN),,,,
+0029900503,479,8,0,4,4:43 PM,3:26,SUB: Jacobson FOR Mack,,,,
+0029900503,480,3,10,4,4:43 PM,3:26,,,Francis Free Throw 1 of 1 (19 PTS),97 - 92,-5
+0029900503,481,2,3,4,4:43 PM,3:13,MISS Jamison 7' Hook Shot,,,,
+0029900503,482,4,0,4,4:43 PM,3:11,,,Thomas REBOUND (Off:5 Def:6),,
+0029900503,483,9,1,4,4:44 PM,3:05,,,Rockets Timeout: Regular (Reg.4 Short 1),,
+0029900503,485,5,2,4,4:46 PM,2:56,Jamison STEAL (2 STL),,Francis Lost Ball Turnover (P4.T17),,
+0029900503,486,6,1,4,4:46 PM,2:55,,,Francis P.FOUL (P3.PN),,
+0029900503,487,3,11,4,4:47 PM,2:55,Jamison Free Throw 1 of 2 (20 PTS),,,97 - 93,-4
+0029900503,488,3,12,4,4:47 PM,2:55,Jamison Free Throw 2 of 2 (21 PTS),,,97 - 94,-3
+0029900503,489,1,6,4,4:47 PM,2:39,,,Thomas  Driving Layup (12 PTS),99 - 94,-5
+0029900503,490,6,2,4,4:47 PM,2:39,Jacobson S.FOUL (P4.PN),,,,
+0029900503,491,3,10,4,4:48 PM,2:39,,,Thomas Free Throw 1 of 1 (13 PTS),100 - 94,-6
+0029900503,492,1,1,4,4:48 PM,2:23,Caffey 4' Jump Shot (22 PTS) (Blaylock 11 AST),,,100 - 96,-4
+0029900503,493,1,6,4,4:49 PM,2:04,,,Mobley  Driving Layup (21 PTS),102 - 96,-6
+0029900503,494,2,1,4,4:49 PM,1:50,MISS Cummings 16' Jump Shot,,,,
+0029900503,495,4,0,4,4:49 PM,1:49,,,Miller REBOUND (Off:1 Def:11),,
+0029900503,496,2,6,4,4:49 PM,1:29,,,MISS Mobley  Driving Layup,,
+0029900503,498,4,0,4,4:49 PM,1:28,,,Miller REBOUND (Off:2 Def:11),,
+0029900503,497,1,5,4,4:49 PM,1:27,,,Miller  Layup (5 PTS),104 - 96,-8
+0029900503,499,9,1,4,4:49 PM,1:27,WARRIORS Timeout: Regular (Full 5 Short 1),,,,
+0029900503,501,6,2,4,4:52 PM,1:19,,,Thomas S.FOUL (P5.PN),,
+0029900503,502,3,11,4,4:52 PM,1:19,Caffey Free Throw 1 of 2 (23 PTS),,,104 - 97,-7
+0029900503,503,3,12,4,4:52 PM,1:19,Caffey Free Throw 2 of 2 (24 PTS),,,104 - 98,-6
+0029900503,504,1,6,4,4:53 PM,0:59,,,Mobley  Driving Layup (23 PTS),106 - 98,-8
+0029900503,505,6,1,4,4:53 PM,0:50,,,Miller P.FOUL (P6.PN),,
+0029900503,507,8,0,4,4:54 PM,0:50,,,SUB: Bullard FOR Miller,,
+0029900503,508,9,2,4,4:54 PM,0:50,WARRIORS Timeout: Short (Full 5 Short 2),,,,
+0029900503,509,3,11,4,4:54 PM,0:50,MISS Caffey Free Throw 1 of 2,,,,
+0029900503,510,4,1,4,4:54 PM,0:50,WARRIORS Rebound,,,,
+0029900503,511,3,12,4,4:55 PM,0:50,MISS Caffey Free Throw 2 of 2,,,,
+0029900503,512,4,0,4,4:55 PM,0:48,,,Anderson REBOUND (Off:3 Def:3),,
+0029900503,513,2,1,4,4:55 PM,0:29,,,MISS Mobley 12' Jump Shot,,
+0029900503,514,4,0,4,4:55 PM,0:27,,,Thomas REBOUND (Off:6 Def:6),,
+0029900503,515,1,6,4,4:56 PM,0:06,,,Anderson  Driving Layup (17 PTS),108 - 98,-10
+0029900503,516,1,5,4,4:56 PM,0:00,Blaylock  Layup (25 PTS),,,108 - 100,-8
+0029900503,517,13,0,4,4:56 PM,0:00,,,,108 - 100,-8

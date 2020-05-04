@@ -1,0 +1,473 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020200909,0,12,0,1,7:44 PM,12:00,,,,,
+0020200909,1,10,0,1,7:44 PM,12:00,Jump Ball Grant vs. Ostertag: Tip to Malone,,,,
+0020200909,2,2,1,1,7:45 PM,11:38,,,MISS Cheaney 17' Jump Shot,,
+0020200909,3,4,0,1,7:45 PM,11:36,Grant REBOUND (Off:0 Def:1),,,,
+0020200909,4,6,1,1,7:46 PM,11:17,,,Malone P.FOUL (P1.T1),,
+0020200909,5,3,11,1,7:46 PM,11:17,Allen Free Throw 1 of 2 (1 PTS),,,0 - 1,1
+0020200909,6,3,12,1,7:46 PM,11:17,Allen Free Throw 2 of 2 (2 PTS),,,0 - 2,2
+0020200909,7,6,2,1,7:46 PM,11:03,Allen S.FOUL (P1.T1),,,,
+0020200909,8,3,11,1,7:46 PM,11:03,,,Malone Free Throw 1 of 2 (1 PTS),1 - 2,1
+0020200909,9,3,12,1,7:47 PM,11:03,,,Malone Free Throw 2 of 2 (2 PTS),2 - 2,TIE
+0020200909,10,2,42,1,7:47 PM,10:50,MISS Best  Driving Layup,,,,
+0020200909,11,4,0,1,7:47 PM,10:48,,,Malone REBOUND (Off:0 Def:1),,
+0020200909,12,6,1,1,7:47 PM,10:48,Allen P.FOUL (P2.T2),,,,
+0020200909,13,6,4,1,7:48 PM,10:38,,,Cheaney OFF.Foul (P1),,
+0020200909,14,5,5,1,7:48 PM,10:38,,,Cheaney Foul Turnover (P1.T1),,
+0020200909,15,5,2,1,7:48 PM,10:29,Butler Lost Ball Turnover (P1.T1),,Stockton STEAL (1 STL),,
+0020200909,16,2,1,1,7:48 PM,10:23,,,MISS Malone 19' Jump Shot,,
+0020200909,17,4,0,1,7:48 PM,10:21,Butler REBOUND (Off:0 Def:1),,,,
+0020200909,18,2,42,1,7:48 PM,10:04,MISS Grant  Driving Layup,,,,
+0020200909,20,4,0,1,7:48 PM,10:03,Grant REBOUND (Off:1 Def:1),,,,
+0020200909,19,2,4,1,7:48 PM,10:02,MISS Grant  Tip Shot,,,,
+0020200909,21,4,0,1,7:48 PM,10:01,,,Malone REBOUND (Off:0 Def:2),,
+0020200909,22,1,5,1,7:49 PM,9:56,,,Harpring  Layup (2 PTS) (Stockton 1 AST),4 - 2,-2
+0020200909,23,5,2,1,7:49 PM,9:42,Butler Lost Ball Turnover (P2.T2),,,,
+0020200909,24,8,0,1,7:49 PM,9:42,SUB: Stepania FOR Allen,,,,
+0020200909,25,1,5,1,7:49 PM,9:28,,,Stockton  Layup (2 PTS) (Malone 1 AST),6 - 2,-4
+0020200909,26,2,1,1,7:50 PM,9:05,MISS Butler 22' Jump Shot,,,,
+0020200909,27,4,0,1,7:50 PM,9:03,,,Ostertag REBOUND (Off:0 Def:1),,
+0020200909,28,1,5,1,7:50 PM,8:51,,,Malone  Layup (4 PTS) (Cheaney 1 AST),8 - 2,-6
+0020200909,29,2,1,1,7:50 PM,8:29,MISS Butler 21' Jump Shot,,,,
+0020200909,30,4,0,1,7:50 PM,8:27,Best REBOUND (Off:1 Def:0),,,,
+0020200909,31,2,42,1,7:50 PM,8:19,MISS Best  Driving Layup,,Ostertag BLOCK (1 BLK),,
+0020200909,32,4,0,1,7:50 PM,8:18,HEAT Rebound,,,,
+0020200909,33,6,4,1,7:51 PM,8:17,Grant OFF.Foul (P1),,,,
+0020200909,34,5,5,1,7:51 PM,8:17,Grant Foul Turnover (P1.T3),,,,
+0020200909,35,5,1,1,7:51 PM,8:02,,,Stockton Bad Pass Turnover (P1.T2),,
+0020200909,36,1,1,1,7:52 PM,7:46,Grant 20' Jump Shot (2 PTS) (Butler 1 AST),,,8 - 4,-4
+0020200909,37,5,1,1,7:52 PM,7:24,,,Cheaney Bad Pass Turnover (P2.T3),,
+0020200909,38,1,1,1,7:52 PM,7:08,Best 25' 3PT Jump Shot (3 PTS) (Butler 1 AST),,,8 - 7,-1
+0020200909,39,2,1,1,7:53 PM,6:43,,,MISS Harpring 24' 3PT Jump Shot,,
+0020200909,40,4,0,1,7:53 PM,6:41,,,Jazz Rebound,,
+0020200909,41,2,1,1,7:54 PM,6:40,,,MISS Cheaney 18' Jump Shot,,
+0020200909,42,4,0,1,7:54 PM,6:38,Best REBOUND (Off:1 Def:1),,,,
+0020200909,43,2,1,1,7:54 PM,6:27,MISS Butler 25' 3PT Jump Shot,,,,
+0020200909,44,4,0,1,7:54 PM,6:25,,,Ostertag REBOUND (Off:0 Def:2),,
+0020200909,45,2,1,1,7:54 PM,6:19,,,MISS Malone 20' Jump Shot,,
+0020200909,46,4,0,1,7:54 PM,6:17,,,Jazz Rebound,,
+0020200909,47,5,1,1,7:54 PM,6:16,Butler STEAL (1 STL),,Malone Bad Pass Turnover (P1.T4),,
+0020200909,48,2,49,1,7:54 PM,6:10,MISS Butler  Driving Dunk,,Ostertag BLOCK (2 BLK),,
+0020200909,49,4,0,1,7:54 PM,6:08,Butler REBOUND (Off:1 Def:1),,,,
+0020200909,50,2,5,1,7:54 PM,6:06,MISS Stepania  Layup,,,,
+0020200909,51,4,0,1,7:54 PM,6:04,HEAT Rebound,,,,
+0020200909,52,9,1,1,7:55 PM,6:04,HEAT Timeout: Regular (Full 1 Short 0),,,,
+0020200909,54,5,2,1,7:57 PM,5:52,Butler Lost Ball Turnover (P3.T4),,,,
+0020200909,55,6,17,1,7:58 PM,5:40,HEAT T.Foul (Def. 3 Sec Stepania ),,,,
+0020200909,56,3,16,1,7:58 PM,5:40,,,Stockton Free Throw Technical (3 PTS),9 - 7,-2
+0020200909,57,8,0,1,7:58 PM,5:40,,,SUB: Jackson FOR Stockton,,
+0020200909,58,1,1,1,7:59 PM,5:32,,,Malone 19' Jump Shot (6 PTS),11 - 7,-4
+0020200909,59,6,2,1,7:59 PM,5:10,,,Harpring S.FOUL (P1.T2),,
+0020200909,60,3,11,1,7:59 PM,5:10,Grant Free Throw 1 of 2 (3 PTS),,,11 - 8,-3
+0020200909,61,3,12,1,7:59 PM,5:10,MISS Grant Free Throw 2 of 2,,,,
+0020200909,62,4,0,1,8:00 PM,5:08,Stepania REBOUND (Off:1 Def:0),,,,
+0020200909,63,2,1,1,8:00 PM,4:52,MISS Best 24' 3PT Jump Shot,,,,
+0020200909,64,4,0,1,8:00 PM,4:50,Stepania REBOUND (Off:2 Def:0),,,,
+0020200909,65,2,1,1,8:00 PM,4:48,MISS Stepania 5' Jump Shot,,,,
+0020200909,66,4,0,1,8:00 PM,4:46,,,Ostertag REBOUND (Off:0 Def:3),,
+0020200909,67,2,1,1,8:00 PM,4:33,,,MISS Malone 14' Jump Shot,,
+0020200909,68,4,0,1,8:00 PM,4:31,Stepania REBOUND (Off:2 Def:1),,,,
+0020200909,69,1,42,1,8:00 PM,4:24,Grant  Driving Layup (5 PTS) (Butler 2 AST),,,11 - 10,-1
+0020200909,70,1,1,1,8:01 PM,4:05,,,Harpring 20' Jump Shot (4 PTS),13 - 10,-3
+0020200909,71,8,0,1,8:01 PM,3:53,,,SUB: Kirilenko FOR Harpring,,
+0020200909,72,2,1,1,8:01 PM,3:41,MISS Best 24' 3PT Jump Shot,,,,
+0020200909,73,4,0,1,8:02 PM,3:39,Stepania REBOUND (Off:3 Def:1),,,,
+0020200909,74,2,1,1,8:02 PM,3:27,MISS Butler 25' 3PT Jump Shot,,,,
+0020200909,75,4,0,1,8:02 PM,3:25,,,Malone REBOUND (Off:0 Def:3),,
+0020200909,76,6,1,1,8:02 PM,3:21,Best P.FOUL (P1.T3),,,,
+0020200909,77,5,1,1,8:02 PM,3:14,,,Jackson Bad Pass Turnover (P1.T5),,
+0020200909,78,5,1,1,8:03 PM,3:05,Butler Bad Pass Turnover (P1.T5),,Kirilenko STEAL (1 STL),,
+0020200909,79,2,43,1,8:03 PM,2:59,Butler BLOCK (1 BLK),,MISS Kirilenko  Alley Oop Layup,,
+0020200909,80,4,0,1,8:03 PM,2:55,HEAT Rebound,,,,
+0020200909,81,6,3,1,8:03 PM,2:55,,,Cheaney L.B.FOUL (P2.T3),,
+0020200909,82,9,1,1,8:03 PM,2:55,,,Jazz Timeout: Regular (Reg.1 Short 0),,
+0020200909,85,8,0,1,8:05 PM,2:55,,,SUB: Stevenson FOR Cheaney,,
+0020200909,86,2,1,1,8:06 PM,2:43,MISS Best 21' Jump Shot,,,,
+0020200909,87,4,0,1,8:06 PM,2:42,,,Ostertag REBOUND (Off:0 Def:4),,
+0020200909,88,2,1,1,8:07 PM,2:18,,,MISS Stevenson 21' Jump Shot,,
+0020200909,89,4,0,1,8:07 PM,2:16,Best REBOUND (Off:1 Def:2),,,,
+0020200909,90,6,17,1,8:07 PM,2:04,,,Jazz T.Foul (Def. 3 Sec Ostertag ),,
+0020200909,91,8,0,1,8:07 PM,2:04,SUB: James FOR Butler,,,,
+0020200909,92,3,16,1,8:07 PM,2:04,MISS Butler Free Throw Technical,,,,
+0020200909,93,4,1,1,8:07 PM,2:04,HEAT Rebound,,,,
+0020200909,94,2,1,1,8:08 PM,1:52,MISS Grant 7' Jump Shot,,,,
+0020200909,95,4,0,1,8:08 PM,1:50,,,Malone REBOUND (Off:0 Def:4),,
+0020200909,96,2,1,1,8:08 PM,1:44,,,MISS Malone 19' Jump Shot,,
+0020200909,97,4,0,1,8:08 PM,1:42,Butler REBOUND (Off:0 Def:1),,,,
+0020200909,98,1,1,1,8:08 PM,1:18,Butler 21' Jump Shot (2 PTS) (Best 1 AST),,,13 - 12,-1
+0020200909,99,2,5,1,8:09 PM,0:59,,,MISS Kirilenko  Layup,,
+0020200909,100,4,0,1,8:09 PM,0:58,Butler REBOUND (Off:0 Def:2),,,,
+0020200909,101,2,42,1,8:09 PM,0:53,MISS Best  Driving Layup,,Ostertag BLOCK (3 BLK),,
+0020200909,102,4,0,1,8:09 PM,0:51,,,Malone REBOUND (Off:0 Def:5),,
+0020200909,103,2,1,1,8:09 PM,0:43,,,MISS Stevenson 20' Jump Shot,,
+0020200909,104,4,0,1,8:09 PM,0:41,,,Kirilenko REBOUND (Off:1 Def:0),,
+0020200909,105,6,1,1,8:09 PM,0:30,James P.FOUL (P1.T4),,,,
+0020200909,106,8,0,1,8:09 PM,0:30,,,SUB: Padgett FOR Malone,,
+0020200909,107,8,0,1,8:10 PM,0:30,SUB: Ellis FOR Grant,,,,
+0020200909,108,1,46,1,8:10 PM,0:24,,,Jackson 13' Running Jump Shot (2 PTS),15 - 12,-3
+0020200909,109,2,5,1,8:10 PM,0:13,MISS Stepania  Layup,,,,
+0020200909,110,4,0,1,8:10 PM,0:11,,,Kirilenko REBOUND (Off:1 Def:1),,
+0020200909,111,2,1,1,8:10 PM,0:01,,,MISS Ostertag 7' Jump Shot,,
+0020200909,112,4,0,1,8:11 PM,0:00,,,Kirilenko REBOUND (Off:2 Def:1),,
+0020200909,113,13,0,1,8:11 PM,0:00,,,,15 - 12,-3
+0020200909,116,12,0,2,8:14 PM,12:00,,,,15 - 12,-3
+0020200909,117,6,1,2,8:14 PM,11:49,,,Padgett P.FOUL (P1.T1),,
+0020200909,118,2,1,2,8:15 PM,11:42,MISS James 21' Jump Shot,,,,
+0020200909,119,4,0,2,8:15 PM,11:40,,,Jackson REBOUND (Off:0 Def:1),,
+0020200909,120,2,1,2,8:15 PM,11:20,,,MISS Kirilenko 12' Jump Shot,,
+0020200909,121,4,0,2,8:15 PM,11:18,,,Jackson REBOUND (Off:1 Def:1),,
+0020200909,122,2,1,2,8:15 PM,11:16,,,MISS Jackson 21' Jump Shot,,
+0020200909,123,4,0,2,8:15 PM,11:14,,,Padgett REBOUND (Off:1 Def:0),,
+0020200909,124,1,1,2,8:15 PM,11:02,,,Stevenson 15' Jump Shot (2 PTS) (Jackson 1 AST),17 - 12,-5
+0020200909,125,1,1,2,8:16 PM,10:39,Ellis 25' 3PT Jump Shot (3 PTS) (Best 2 AST),,,17 - 15,-2
+0020200909,126,5,11,2,8:16 PM,10:11,,,Jazz Turnover: Shot Clock (T#6),,
+0020200909,127,8,0,2,8:16 PM,10:11,SUB: Carter FOR Best,,,,
+0020200909,128,5,1,2,8:17 PM,9:58,Carter Bad Pass Turnover (P1.T6),,Kirilenko STEAL (2 STL),,
+0020200909,129,6,2,2,8:17 PM,9:54,Ellis S.FOUL (P1.T1),,,,
+0020200909,130,3,11,2,8:17 PM,9:54,,,Padgett Free Throw 1 of 2 (1 PTS),18 - 15,-3
+0020200909,131,3,12,2,8:17 PM,9:54,,,MISS Padgett Free Throw 2 of 2,,
+0020200909,132,4,0,2,8:17 PM,9:53,,,Ostertag REBOUND (Off:1 Def:4),,
+0020200909,133,1,1,2,8:18 PM,9:39,,,Padgett 21' Jump Shot (3 PTS),20 - 15,-5
+0020200909,134,2,1,2,8:18 PM,9:19,MISS Butler 24' 3PT Jump Shot,,,,
+0020200909,135,4,0,2,8:18 PM,9:17,,,Stevenson REBOUND (Off:0 Def:1),,
+0020200909,136,2,56,2,8:18 PM,9:04,,,MISS Padgett 8' Running Hook Shot,,
+0020200909,137,4,0,2,8:18 PM,9:02,,,Padgett REBOUND (Off:2 Def:0),,
+0020200909,138,1,1,2,8:18 PM,8:44,,,Padgett 9' Jump Shot (5 PTS),22 - 15,-7
+0020200909,139,2,1,2,8:19 PM,8:34,MISS Ellis 16' Jump Shot,,,,
+0020200909,140,4,0,2,8:19 PM,8:32,,,Kirilenko REBOUND (Off:2 Def:2),,
+0020200909,141,9,1,2,8:19 PM,8:25,,,Jazz Timeout: Regular (Reg.2 Short 0),,
+0020200909,143,8,0,2,8:21 PM,8:25,SUB: Butler FOR Butler,,,,
+0020200909,144,6,1,2,8:21 PM,8:22,Ellis P.FOUL (P2.T2),,,,
+0020200909,145,2,1,2,8:22 PM,8:08,,,MISS Kirilenko 8' Jump Shot,,
+0020200909,146,4,0,2,8:22 PM,8:06,Ellis REBOUND (Off:0 Def:1),,,,
+0020200909,147,6,4,2,8:22 PM,8:03,Stepania OFF.Foul (P1),,,,
+0020200909,148,5,5,2,8:22 PM,8:03,Stepania Foul Turnover (P1.T7),,,,
+0020200909,149,8,0,2,8:22 PM,8:03,,,SUB: Malone FOR Ostertag,,
+0020200909,150,8,0,2,8:22 PM,8:03,,,SUB: Stockton FOR Jackson,,
+0020200909,151,2,5,2,8:23 PM,7:49,,,MISS Padgett  Layup,,
+0020200909,152,4,0,2,8:23 PM,7:47,Stepania REBOUND (Off:3 Def:2),,,,
+0020200909,153,6,1,2,8:23 PM,7:45,,,Malone P.FOUL (P2.T2),,
+0020200909,154,8,0,2,8:23 PM,7:45,SUB: Grant FOR Stepania,,,,
+0020200909,155,8,0,2,8:23 PM,7:45,SUB: Allen FOR Ellis,,,,
+0020200909,156,5,2,2,8:24 PM,7:25,Allen Lost Ball Turnover (P1.T8),,Padgett STEAL (1 STL),,
+0020200909,157,1,5,2,8:24 PM,7:09,,,Malone  Layup (8 PTS) (Padgett 1 AST),24 - 15,-9
+0020200909,158,1,42,2,8:24 PM,7:01,James  Driving Layup (2 PTS),,,24 - 17,-7
+0020200909,159,2,1,2,8:24 PM,6:42,,,MISS Kirilenko 8' Jump Shot,,
+0020200909,160,4,0,2,8:24 PM,6:40,Grant REBOUND (Off:1 Def:2),,,,
+0020200909,161,1,47,2,8:24 PM,6:29,Butler 19' Turnaround Jump Shot (2 PTS),,,24 - 19,-5
+0020200909,162,2,44,2,8:25 PM,6:09,Allen BLOCK (1 BLK),,MISS Padgett  Reverse Layup,,
+0020200909,163,4,0,2,8:25 PM,6:07,Grant REBOUND (Off:1 Def:3),,,,
+0020200909,164,6,2,2,8:25 PM,6:03,,,Stevenson S.FOUL (P1.T3),,
+0020200909,165,8,0,2,8:25 PM,6:03,,,SUB: Harpring FOR Kirilenko,,
+0020200909,166,3,11,2,8:25 PM,6:03,MISS Butler Free Throw 1 of 2,,,,
+0020200909,168,4,0,2,8:25 PM,6:03,HEAT Rebound,,,,
+0020200909,167,3,12,2,8:25 PM,6:03,Butler Free Throw 2 of 2 (3 PTS),,,24 - 20,-4
+0020200909,169,5,1,2,8:26 PM,5:48,,,Stevenson Bad Pass Turnover (P1.T7),,
+0020200909,170,9,4,2,8:26 PM,5:48,,,,,
+0020200909,172,2,1,2,8:29 PM,5:29,MISS Butler 25' 3PT Jump Shot,,,,
+0020200909,173,4,0,2,8:29 PM,5:27,,,Stockton REBOUND (Off:0 Def:1),,
+0020200909,174,1,46,2,8:29 PM,5:21,,,Stockton 12' Running Jump Shot (5 PTS),26 - 20,-6
+0020200909,175,1,5,2,8:29 PM,5:12,Grant  Layup (7 PTS) (Carter 1 AST),,,26 - 22,-4
+0020200909,176,2,1,2,8:29 PM,4:52,,,MISS Stevenson 19' Jump Shot,,
+0020200909,177,4,0,2,8:29 PM,4:50,Grant REBOUND (Off:1 Def:4),,,,
+0020200909,178,2,1,2,8:30 PM,4:41,MISS James  3PT Jump Shot,,,,
+0020200909,179,4,0,2,8:30 PM,4:39,,,Malone REBOUND (Off:0 Def:6),,
+0020200909,180,6,2,2,8:30 PM,4:33,Butler S.FOUL (P1.T3),,,,
+0020200909,181,3,11,2,8:30 PM,4:33,,,Padgett Free Throw 1 of 2 (6 PTS),27 - 22,-5
+0020200909,183,8,0,2,8:30 PM,4:33,,,SUB: Arroyo FOR Stevenson,,
+0020200909,182,3,12,2,8:30 PM,4:33,,,Padgett Free Throw 2 of 2 (7 PTS),28 - 22,-6
+0020200909,184,2,42,2,8:31 PM,4:21,MISS Carter  Driving Layup,,,,
+0020200909,185,4,0,2,8:31 PM,4:19,,,Malone REBOUND (Off:0 Def:7),,
+0020200909,186,1,1,2,8:31 PM,4:08,,,Harpring 15' Jump Shot (6 PTS) (Malone 2 AST),30 - 22,-8
+0020200909,187,6,4,2,8:31 PM,3:57,Allen OFF.Foul (P3),,,,
+0020200909,188,5,5,2,8:31 PM,3:57,Allen Foul Turnover (P2.T9),,,,
+0020200909,189,8,0,2,8:31 PM,3:57,,,SUB: Ostertag FOR Padgett,,
+0020200909,190,2,1,2,8:32 PM,3:45,,,MISS Malone 16' Jump Shot,,
+0020200909,192,4,0,2,8:32 PM,3:43,,,Stockton REBOUND (Off:1 Def:1),,
+0020200909,193,1,1,2,8:32 PM,3:33,,,Malone 16' Jump Shot (10 PTS),32 - 22,-10
+0020200909,194,9,1,2,8:32 PM,3:25,HEAT Timeout: Regular (Full 2 Short 0),,,,
+0020200909,196,8,0,2,8:35 PM,3:25,SUB: Stepania FOR Allen,,,,
+0020200909,197,6,1,2,8:35 PM,3:16,,,Arroyo P.FOUL (P1.T4),,
+0020200909,198,8,0,2,8:35 PM,3:16,SUB: Butler FOR James,,,,
+0020200909,199,8,0,2,8:36 PM,3:16,SUB: Best FOR Carter,,,,
+0020200909,200,1,46,2,8:36 PM,3:03,Best 4' Running Jump Shot (5 PTS),,,32 - 24,-8
+0020200909,201,1,1,2,8:36 PM,2:36,,,Harpring 12' Jump Shot (8 PTS),34 - 24,-10
+0020200909,202,2,1,2,8:37 PM,2:15,MISS Best 13' Jump Shot,,,,
+0020200909,203,4,0,2,8:37 PM,2:14,Best REBOUND (Off:2 Def:2),,,,
+0020200909,204,6,1,2,8:37 PM,2:14,,,Arroyo P.FOUL (P2.PN),,
+0020200909,205,3,11,2,8:37 PM,2:14,Best Free Throw 1 of 2 (6 PTS),,,34 - 25,-9
+0020200909,206,3,12,2,8:37 PM,2:14,MISS Best Free Throw 2 of 2,,,,
+0020200909,207,4,0,2,8:38 PM,2:12,,,Malone REBOUND (Off:0 Def:8),,
+0020200909,208,1,5,2,8:38 PM,2:01,,,Malone  Layup (12 PTS) (Harpring 1 AST),36 - 25,-11
+0020200909,209,6,2,2,8:38 PM,2:01,Best S.FOUL (P2.T4),,,,
+0020200909,211,3,10,2,8:38 PM,2:01,,,Malone Free Throw 1 of 1 (13 PTS),37 - 25,-12
+0020200909,212,1,1,2,8:38 PM,1:47,Best 17' Jump Shot (8 PTS),,,37 - 27,-10
+0020200909,213,2,1,2,8:39 PM,1:22,,,MISS Arroyo 19' Jump Shot,,
+0020200909,214,4,0,2,8:39 PM,1:20,Grant REBOUND (Off:1 Def:5),,,,
+0020200909,215,1,5,2,8:39 PM,1:14,Butler  Layup (4 PTS) (Best 3 AST),,,37 - 29,-8
+0020200909,216,6,2,2,8:39 PM,1:14,,,Arroyo S.FOUL (P3.PN),,
+0020200909,217,3,10,2,8:39 PM,1:14,Butler Free Throw 1 of 1 (5 PTS),,,37 - 30,-7
+0020200909,218,6,1,2,8:40 PM,1:01,Grant P.FOUL (P2.PN),,,,
+0020200909,219,3,11,2,8:40 PM,1:01,,,Malone Free Throw 1 of 2 (14 PTS),38 - 30,-8
+0020200909,220,8,0,2,8:40 PM,1:01,SUB: Ellis FOR Grant,,,,
+0020200909,221,3,12,2,8:41 PM,1:01,,,Malone Free Throw 2 of 2 (15 PTS),39 - 30,-9
+0020200909,222,2,1,2,8:41 PM,0:50,MISS Best 25' 3PT Jump Shot,,,,
+0020200909,223,4,0,2,8:41 PM,0:48,Butler REBOUND (Off:1 Def:2),,,,
+0020200909,224,5,4,2,8:42 PM,0:25,Ellis Traveling Turnover (P1.T10),,,,
+0020200909,225,8,0,2,8:42 PM,0:25,,,SUB: Padgett FOR Malone,,
+0020200909,226,5,4,2,8:43 PM,0:02,,,Arroyo Traveling Turnover (P1.T8),,
+0020200909,227,2,1,2,8:43 PM,0:01,MISS Butler 25' 3PT Jump Shot,,,,
+0020200909,228,4,0,2,8:43 PM,0:00,HEAT Rebound,,,,
+0020200909,229,13,0,2,8:43 PM,0:00,,,,39 - 30,-9
+0020200909,231,12,0,3,8:59 PM,12:00,,,,39 - 30,-9
+0020200909,232,6,4,3,9:00 PM,11:50,Butler OFF.Foul (P1),,,,
+0020200909,233,5,5,3,9:00 PM,11:50,Butler Foul Turnover (P4.T11),,,,
+0020200909,234,6,1,3,9:00 PM,11:41,Best P.FOUL (P3.T1),,,,
+0020200909,235,1,1,3,9:01 PM,11:31,,,Cheaney 18' Jump Shot (2 PTS) (Harpring 2 AST),41 - 30,-11
+0020200909,236,6,1,3,9:01 PM,11:16,,,Harpring P.FOUL (P2.T1),,
+0020200909,237,2,46,3,9:01 PM,11:07,MISS Allen 12' Running Jump Shot,,,,
+0020200909,238,4,0,3,9:02 PM,11:05,,,Cheaney REBOUND (Off:0 Def:1),,
+0020200909,239,6,2,3,9:02 PM,10:59,Butler S.FOUL (P2.T2),,,,
+0020200909,240,3,11,3,9:02 PM,10:59,,,Harpring Free Throw 1 of 2 (9 PTS),42 - 30,-12
+0020200909,241,3,12,3,9:02 PM,10:59,,,Harpring Free Throw 2 of 2 (10 PTS),43 - 30,-13
+0020200909,242,2,1,3,9:03 PM,10:41,MISS Butler 24' 3PT Jump Shot,,,,
+0020200909,243,4,0,3,9:03 PM,10:40,Grant REBOUND (Off:2 Def:5),,,,
+0020200909,244,5,2,3,9:03 PM,10:35,Grant Lost Ball Turnover (P2.T12),,Cheaney STEAL (1 STL),,
+0020200909,245,6,2,3,9:03 PM,10:28,Grant S.FOUL (P3.T3),,,,
+0020200909,246,3,11,3,9:03 PM,10:28,,,Malone Free Throw 1 of 2 (16 PTS),44 - 30,-14
+0020200909,247,3,12,3,9:03 PM,10:28,,,MISS Malone Free Throw 2 of 2,,
+0020200909,248,4,0,3,9:04 PM,10:27,Grant REBOUND (Off:2 Def:6),,,,
+0020200909,249,1,1,3,9:04 PM,10:10,Butler 20' Jump Shot (7 PTS) (Best 4 AST),,,44 - 32,-12
+0020200909,250,6,1,3,9:04 PM,9:50,Best P.FOUL (P4.T4),,,,
+0020200909,251,8,0,3,9:05 PM,9:50,SUB: James FOR Best,,,,
+0020200909,252,5,1,3,9:05 PM,9:46,Grant STEAL (1 STL),,Stockton Bad Pass Turnover (P2.T9),,
+0020200909,253,2,1,3,9:05 PM,9:37,MISS Butler 5' Jump Shot,,,,
+0020200909,254,4,0,3,9:05 PM,9:34,Butler REBOUND (Off:2 Def:1),,,,
+0020200909,255,2,1,3,9:05 PM,9:33,MISS Butler 5' Jump Shot,,,,
+0020200909,256,4,0,3,9:05 PM,9:32,,,Stockton REBOUND (Off:1 Def:2),,
+0020200909,257,1,5,3,9:05 PM,9:27,,,Cheaney  Layup (4 PTS),46 - 32,-14
+0020200909,258,9,1,3,9:06 PM,9:21,HEAT Timeout: Regular (Full 3 Short 0),,,,
+0020200909,260,1,42,3,9:08 PM,9:04,Butler  Driving Layup (9 PTS),,,46 - 34,-12
+0020200909,261,5,3,3,9:08 PM,9:01,,,Ostertag Out Of Bounds Turnover (P1.T10),,
+0020200909,262,1,1,3,9:09 PM,8:51,Allen 17' Jump Shot (4 PTS) (Butler 3 AST),,,46 - 36,-10
+0020200909,263,6,1,3,9:09 PM,8:38,Allen P.FOUL (P4.PN),,,,
+0020200909,264,3,11,3,9:09 PM,8:38,,,Stockton Free Throw 1 of 2 (6 PTS),47 - 36,-11
+0020200909,265,3,12,3,9:10 PM,8:38,,,Stockton Free Throw 2 of 2 (7 PTS),48 - 36,-12
+0020200909,266,2,1,3,9:11 PM,8:15,MISS James 20' Jump Shot,,,,
+0020200909,267,4,0,3,9:11 PM,8:13,,,Cheaney REBOUND (Off:0 Def:2),,
+0020200909,268,2,1,3,9:11 PM,8:06,,,MISS Malone 19' Jump Shot,,
+0020200909,269,4,0,3,9:11 PM,8:03,HEAT Rebound,,,,
+0020200909,270,1,1,3,9:11 PM,7:48,Butler 20' Jump Shot (5 PTS) (James 1 AST),,,48 - 38,-10
+0020200909,271,2,1,3,9:12 PM,7:31,,,MISS Stockton 16' Jump Shot,,
+0020200909,272,4,0,3,9:12 PM,7:29,Butler REBOUND (Off:2 Def:2),,,,
+0020200909,273,1,1,3,9:12 PM,7:21,Butler  3PT Jump Shot (12 PTS) (James 2 AST),,,48 - 41,-7
+0020200909,274,2,42,3,9:12 PM,6:59,,,MISS Stockton  Driving Layup,,
+0020200909,275,4,0,3,9:12 PM,6:57,Grant REBOUND (Off:2 Def:7),,,,
+0020200909,369,2,40,3,9:12 PM,6:57,MISS Allen  Layup,,Cheaney BLOCK (1 BLK),,
+0020200909,374,4,0,3,9:12 PM,6:47,Allen REBOUND (Off:1 Def:0),,,,
+0020200909,276,2,1,3,9:12 PM,6:47,MISS Allen 5' Jump Shot,,,,
+0020200909,277,4,0,3,9:12 PM,6:45,,,Harpring REBOUND (Off:0 Def:1),,
+0020200909,278,6,11,3,9:13 PM,6:45,,,,,
+0020200909,279,3,16,3,9:13 PM,6:45,,,MISS Stockton Free Throw Technical,,
+0020200909,280,4,1,3,9:13 PM,6:45,,,Jazz Rebound,,
+0020200909,282,6,2,3,9:14 PM,6:34,Grant S.FOUL (P4.PN),,,,
+0020200909,283,6,11,3,9:14 PM,6:34,Grant T.FOUL (P4.PN),,,,
+0020200909,285,3,16,3,9:14 PM,6:34,,,Stockton Free Throw Technical (8 PTS),49 - 41,-8
+0020200909,284,6,11,3,9:14 PM,6:34,,,,,
+0020200909,287,11,1,3,9:15 PM,6:34,,,,,
+0020200909,286,3,16,3,9:15 PM,6:34,,,Stockton Free Throw Technical (9 PTS),50 - 41,-9
+0020200909,288,8,0,3,9:15 PM,6:34,SUB: Stepania FOR Grant,,,,
+0020200909,289,8,0,3,9:15 PM,6:34,SUB: Ellis FOR Allen,,,,
+0020200909,290,3,11,3,9:15 PM,6:34,,,Stockton Free Throw 1 of 2 (10 PTS),51 - 41,-10
+0020200909,292,3,12,3,9:16 PM,6:34,,,Stockton Free Throw 2 of 2 (11 PTS),52 - 41,-11
+0020200909,294,1,1,3,9:16 PM,6:16,Butler  3PT Jump Shot (15 PTS) (James 3 AST),,,52 - 44,-8
+0020200909,295,1,47,3,9:17 PM,5:54,,,Malone 6' Turnaround Jump Shot (18 PTS) (Harpring 3 AST),54 - 44,-10
+0020200909,296,5,1,3,9:17 PM,5:41,James Bad Pass Turnover (P1.T13),,Malone STEAL (1 STL),,
+0020200909,297,2,1,3,9:17 PM,5:34,,,MISS Malone 18' Jump Shot,,
+0020200909,299,4,0,3,9:17 PM,5:32,,,Stockton REBOUND (Off:2 Def:2),,
+0020200909,300,2,5,3,9:17 PM,5:22,,,MISS Malone  Layup,,
+0020200909,301,4,0,3,9:17 PM,5:21,James REBOUND (Off:0 Def:1),,,,
+0020200909,303,2,1,3,9:17 PM,5:10,MISS Butler  3PT Jump Shot,,,,
+0020200909,304,4,0,3,9:17 PM,5:08,,,Cheaney REBOUND (Off:0 Def:3),,
+0020200909,305,1,5,3,9:17 PM,5:02,,,Malone  Layup (20 PTS) (Stockton 2 AST),56 - 44,-12
+0020200909,306,9,2,3,9:18 PM,4:49,HEAT Timeout: Short (Full 3 Short 1),,,,
+0020200909,308,8,0,3,9:19 PM,4:49,,,SUB: Jackson FOR Stockton,,
+0020200909,309,8,0,3,9:19 PM,4:49,SUB: Carter FOR Butler,,,,
+0020200909,311,6,2,3,9:19 PM,4:40,,,Ostertag S.FOUL (P1.T2),,
+0020200909,312,3,11,3,9:19 PM,4:40,MISS Stepania Free Throw 1 of 2,,,,
+0020200909,313,4,1,3,9:19 PM,4:40,HEAT Rebound,,,,
+0020200909,314,3,12,3,9:19 PM,4:40,Stepania Free Throw 2 of 2 (1 PTS),,,56 - 45,-11
+0020200909,315,5,1,3,9:20 PM,4:30,Butler STEAL (2 STL),,Jackson Bad Pass Turnover (P2.T11),,
+0020200909,316,1,41,3,9:20 PM,4:25,Butler  Running Layup (17 PTS),,,56 - 47,-9
+0020200909,318,1,46,3,9:20 PM,4:04,,,Cheaney 9' Running Jump Shot (6 PTS) (Malone 3 AST),58 - 47,-11
+0020200909,319,2,1,3,9:20 PM,3:55,MISS Ellis 24' 3PT Jump Shot,,,,
+0020200909,320,4,0,3,9:20 PM,3:53,,,Malone REBOUND (Off:0 Def:9),,
+0020200909,321,1,44,3,9:21 PM,3:40,,,Cheaney  Reverse Layup (8 PTS) (Malone 4 AST),60 - 47,-13
+0020200909,323,6,17,3,9:21 PM,3:26,,,Jazz T.Foul (Def. 3 Sec Ostertag ),,
+0020200909,324,3,16,3,9:21 PM,3:26,Butler Free Throw Technical (18 PTS),,,60 - 48,-12
+0020200909,325,2,1,3,9:22 PM,3:16,MISS Stepania 19' Jump Shot,,,,
+0020200909,326,4,0,3,9:22 PM,3:14,,,Malone REBOUND (Off:0 Def:10),,
+0020200909,328,6,1,3,9:22 PM,3:00,Stepania P.FOUL (P2.PN),,,,
+0020200909,329,3,11,3,9:22 PM,3:00,,,Malone Free Throw 1 of 2 (21 PTS),61 - 48,-13
+0020200909,330,3,12,3,9:23 PM,3:00,,,Malone Free Throw 2 of 2 (22 PTS),62 - 48,-14
+0020200909,331,6,2,3,9:23 PM,2:48,,,Ostertag S.FOUL (P2.T3),,
+0020200909,332,9,1,3,9:23 PM,2:48,,,Jazz Timeout: Regular (Reg.3 Short 0),,
+0020200909,334,3,11,3,9:26 PM,2:48,MISS Carter Free Throw 1 of 2,,,,
+0020200909,335,4,1,3,9:26 PM,2:48,HEAT Rebound,,,,
+0020200909,336,3,12,3,9:26 PM,2:48,Carter Free Throw 2 of 2 (1 PTS),,,62 - 49,-13
+0020200909,337,1,1,3,9:27 PM,2:32,,,Cheaney 20' Jump Shot (10 PTS) (Jackson 2 AST),64 - 49,-15
+0020200909,338,2,46,3,9:27 PM,2:14,MISS James 8' Running Jump Shot,,,,
+0020200909,340,4,0,3,9:27 PM,2:12,Stepania REBOUND (Off:4 Def:2),,,,
+0020200909,339,1,4,3,9:27 PM,2:10,Stepania  Tip Shot (3 PTS),,,64 - 51,-13
+0020200909,341,6,4,3,9:27 PM,1:51,,,Malone OFF.Foul (P3),,
+0020200909,342,5,5,3,9:27 PM,1:51,,,Malone Foul Turnover (P2.T12),,
+0020200909,343,8,0,3,9:27 PM,1:51,,,SUB: Kirilenko FOR Harpring,,
+0020200909,344,8,0,3,9:27 PM,1:51,SUB: Best FOR Carter,,,,
+0020200909,345,8,0,3,9:28 PM,1:51,,,SUB: Padgett FOR Malone,,
+0020200909,346,6,1,3,9:28 PM,1:41,,,Ostertag P.FOUL (P3.T4),,
+0020200909,348,8,0,3,9:28 PM,1:41,,,SUB: Massenburg FOR Ostertag,,
+0020200909,349,3,11,3,9:29 PM,1:41,MISS Butler Free Throw 1 of 2,,,,
+0020200909,350,4,1,3,9:29 PM,1:41,HEAT Rebound,,,,
+0020200909,351,3,12,3,9:29 PM,1:41,Butler Free Throw 2 of 2 (19 PTS),,,64 - 52,-12
+0020200909,352,1,5,3,9:29 PM,1:23,,,Padgett  Layup (9 PTS) (Cheaney 2 AST),66 - 52,-14
+0020200909,353,5,2,3,9:30 PM,1:01,James Lost Ball Turnover (P2.T14),,,,
+0020200909,354,5,1,3,9:30 PM,0:44,Butler STEAL (3 STL),,Jackson Bad Pass Turnover (P3.T13),,
+0020200909,355,1,42,3,9:30 PM,0:41,Butler  Driving Layup (21 PTS),,,66 - 54,-12
+0020200909,356,6,2,3,9:30 PM,0:41,,,Padgett S.FOUL (P2.PN),,
+0020200909,357,3,10,3,9:30 PM,0:41,Butler Free Throw 1 of 1 (22 PTS),,,66 - 55,-11
+0020200909,358,2,1,3,9:31 PM,0:28,,,MISS Cheaney 21' Jump Shot,,
+0020200909,359,4,0,3,9:31 PM,0:26,HEAT Rebound,,,,
+0020200909,360,6,3,3,9:31 PM,0:26,,,Kirilenko L.B.FOUL (P1.PN),,
+0020200909,361,3,11,3,9:31 PM,0:26,Butler Free Throw 1 of 2 (23 PTS),,,66 - 56,-10
+0020200909,362,8,0,3,9:31 PM,0:26,SUB: Butler FOR Best,,,,
+0020200909,363,3,12,3,9:31 PM,0:26,Butler Free Throw 2 of 2 (24 PTS),,,66 - 57,-9
+0020200909,364,5,11,3,9:32 PM,0:02,,,Jazz Turnover: Shot Clock (T#14),,
+0020200909,365,2,1,3,9:33 PM,0:01,MISS James 22' Jump Shot,,,,
+0020200909,366,4,0,3,9:33 PM,0:00,HEAT Rebound,,,,
+0020200909,367,13,0,3,9:33 PM,0:00,,,,66 - 57,-9
+0020200909,370,12,0,4,9:35 PM,12:00,,,,66 - 57,-9
+0020200909,372,6,4,4,9:36 PM,11:46,,,Padgett OFF.Foul (P3),,
+0020200909,373,5,5,4,9:36 PM,11:46,,,Padgett Foul Turnover (P1.T15),,
+0020200909,376,2,46,4,9:36 PM,11:32,MISS Best 4' Running Jump Shot,,,,
+0020200909,377,4,0,4,9:36 PM,11:31,HEAT Rebound,,,,
+0020200909,378,6,3,4,9:36 PM,11:31,,,Cheaney L.B.FOUL (P3.T1),,
+0020200909,379,2,56,4,9:37 PM,11:20,MISS Stepania 5' Running Hook Shot,,,,
+0020200909,380,4,0,4,9:37 PM,11:18,Stepania REBOUND (Off:5 Def:2),,,,
+0020200909,381,2,1,4,9:37 PM,11:02,MISS Butler  3PT Jump Shot,,,,
+0020200909,382,4,0,4,9:37 PM,11:00,,,Padgett REBOUND (Off:2 Def:1),,
+0020200909,383,6,2,4,9:37 PM,10:46,Ellis S.FOUL (P3.T1),,,,
+0020200909,384,8,0,4,9:37 PM,10:46,SUB: Grant FOR Stepania,,,,
+0020200909,385,8,0,4,9:38 PM,10:46,,,SUB: Harpring FOR Cheaney,,
+0020200909,386,3,11,4,9:38 PM,10:46,,,MISS Padgett Free Throw 1 of 2,,
+0020200909,387,4,1,4,9:38 PM,10:46,,,Jazz Rebound,,
+0020200909,388,3,12,4,9:38 PM,10:46,,,MISS Padgett Free Throw 2 of 2,,
+0020200909,389,4,0,4,9:38 PM,10:45,Butler REBOUND (Off:2 Def:3),,,,
+0020200909,390,2,1,4,9:38 PM,10:24,MISS James 24' 3PT Jump Shot,,,,
+0020200909,391,4,0,4,9:38 PM,10:22,,,Massenburg REBOUND (Off:0 Def:1),,
+0020200909,392,2,1,4,9:39 PM,10:12,,,MISS Padgett 22' Jump Shot,,
+0020200909,393,4,0,4,9:39 PM,10:10,Grant REBOUND (Off:2 Def:8),,,,
+0020200909,394,2,1,4,9:39 PM,9:52,MISS Ellis 24' 3PT Jump Shot,,,,
+0020200909,395,4,0,4,9:39 PM,9:50,,,Massenburg REBOUND (Off:0 Def:2),,
+0020200909,396,2,42,4,9:39 PM,9:32,,,MISS Padgett  Driving Layup,,
+0020200909,397,4,0,4,9:39 PM,9:31,,,Harpring REBOUND (Off:1 Def:1),,
+0020200909,398,5,2,4,9:39 PM,9:30,,,Harpring Lost Ball Turnover (P1.T16),,
+0020200909,399,8,0,4,9:39 PM,9:30,SUB: Allen FOR Ellis,,,,
+0020200909,400,8,0,4,9:40 PM,9:30,,,SUB: Stockton FOR Jackson,,
+0020200909,401,8,0,4,9:40 PM,9:30,,,SUB: Malone FOR Padgett,,
+0020200909,402,2,1,4,9:40 PM,9:17,MISS Best 24' 3PT Jump Shot,,,,
+0020200909,403,4,0,4,9:40 PM,9:15,,,Harpring REBOUND (Off:1 Def:2),,
+0020200909,404,1,44,4,9:40 PM,8:58,,,Stockton  Reverse Layup (13 PTS),68 - 57,-11
+0020200909,405,2,1,4,9:40 PM,8:40,MISS Butler 19' Jump Shot,,,,
+0020200909,406,4,0,4,9:41 PM,8:38,,,Kirilenko REBOUND (Off:2 Def:3),,
+0020200909,407,6,2,4,9:41 PM,8:34,Grant S.FOUL (P5.T2),,,,
+0020200909,408,9,4,4,9:41 PM,8:34,,,,,
+0020200909,411,8,0,4,9:43 PM,8:34,SUB: Butler FOR Grant,,,,
+0020200909,412,8,0,4,9:43 PM,8:34,SUB: Stepania FOR James,,,,
+0020200909,413,3,11,4,9:43 PM,8:34,,,MISS Harpring Free Throw 1 of 2,,
+0020200909,414,4,1,4,9:43 PM,8:34,,,Jazz Rebound,,
+0020200909,415,3,12,4,9:43 PM,8:34,,,Harpring Free Throw 2 of 2 (11 PTS),69 - 57,-12
+0020200909,416,2,42,4,9:44 PM,8:23,MISS Butler  Driving Layup,,,,
+0020200909,417,4,0,4,9:44 PM,8:20,Butler REBOUND (Off:2 Def:2),,,,
+0020200909,421,5,15,4,9:45 PM,8:19,Stepania Offensive Goaltending Turnover (P2.T15),,,,
+0020200909,422,9,1,4,9:45 PM,8:19,HEAT Timeout: Regular (Full 4 Short 1),,,,
+0020200909,424,8,0,4,9:47 PM,8:19,SUB: James FOR Butler,,,,
+0020200909,425,5,1,4,9:47 PM,8:14,,,Malone Bad Pass Turnover (P3.T17),,
+0020200909,426,6,2,4,9:47 PM,8:08,,,Massenburg S.FOUL (P1.T2),,
+0020200909,427,3,11,4,9:47 PM,8:08,Butler Free Throw 1 of 2 (6 PTS),,,69 - 58,-11
+0020200909,428,8,0,4,9:48 PM,8:08,,,SUB: Ostertag FOR Massenburg,,
+0020200909,429,3,12,4,9:48 PM,8:08,Butler Free Throw 2 of 2 (7 PTS),,,69 - 59,-10
+0020200909,430,2,1,4,9:48 PM,7:44,,,MISS Malone 18' Jump Shot,,
+0020200909,431,4,0,4,9:48 PM,7:42,,,Malone REBOUND (Off:1 Def:10),,
+0020200909,432,1,1,4,9:48 PM,7:40,,,Malone 12' Jump Shot (24 PTS),71 - 59,-12
+0020200909,433,1,1,4,9:49 PM,7:19,Stepania 20' Jump Shot (5 PTS) (Best 5 AST),,,71 - 61,-10
+0020200909,434,1,42,4,9:49 PM,6:53,,,Malone  Driving Layup (26 PTS),73 - 61,-12
+0020200909,435,2,42,4,9:49 PM,6:38,MISS Stepania  Driving Layup,,,,
+0020200909,436,4,0,4,9:49 PM,6:36,,,Jazz Rebound,,
+0020200909,437,6,3,4,9:49 PM,6:36,Stepania L.B.FOUL (P3.T3),,,,
+0020200909,438,2,1,4,9:50 PM,6:18,,,MISS Malone 18' Jump Shot,,
+0020200909,439,4,0,4,9:50 PM,6:16,Allen REBOUND (Off:1 Def:1),,,,
+0020200909,440,2,1,4,9:50 PM,5:54,MISS James 7' Jump Shot,,,,
+0020200909,441,4,0,4,9:50 PM,5:52,Stepania REBOUND (Off:6 Def:2),,,,
+0020200909,442,1,5,4,9:50 PM,5:50,Stepania  Layup (7 PTS),,,73 - 63,-10
+0020200909,443,1,5,4,9:51 PM,5:24,,,Harpring  Layup (13 PTS) (Malone 5 AST),75 - 63,-12
+0020200909,444,6,2,4,9:51 PM,5:24,James S.FOUL (P2.T4),,,,
+0020200909,445,8,0,4,9:51 PM,5:24,SUB: Grant FOR Stepania,,,,
+0020200909,446,8,0,4,9:51 PM,5:24,SUB: Butler FOR Butler,,,,
+0020200909,447,3,10,4,9:51 PM,5:24,,,Harpring Free Throw 1 of 1 (14 PTS),76 - 63,-13
+0020200909,448,6,1,4,9:52 PM,5:18,,,Ostertag P.FOUL (P4.T3),,
+0020200909,449,2,1,4,9:52 PM,5:09,MISS James 25' 3PT Jump Shot,,,,
+0020200909,450,4,0,4,9:52 PM,5:07,Grant REBOUND (Off:3 Def:8),,,,
+0020200909,451,5,2,4,9:52 PM,5:03,Grant Lost Ball Turnover (P3.T16),,Stockton STEAL (2 STL),,
+0020200909,452,2,1,4,9:53 PM,4:42,,,MISS Harpring 24' 3PT Jump Shot,,
+0020200909,453,4,0,4,9:53 PM,4:41,HEAT Rebound,,,,
+0020200909,454,1,47,4,9:53 PM,4:25,Allen 13' Turnaround Jump Shot (6 PTS) (Grant 1 AST),,,76 - 65,-11
+0020200909,455,6,2,4,9:54 PM,4:10,Best S.FOUL (P5.PN),,,,
+0020200909,456,3,11,4,9:54 PM,4:10,,,MISS Harpring Free Throw 1 of 2,,
+0020200909,458,4,0,4,9:54 PM,4:10,,,Jazz Rebound,,
+0020200909,457,3,12,4,9:54 PM,4:10,,,Harpring Free Throw 2 of 2 (15 PTS),77 - 65,-12
+0020200909,459,2,1,4,9:55 PM,3:50,MISS James 25' 3PT Jump Shot,,,,
+0020200909,460,4,0,4,9:55 PM,3:48,Grant REBOUND (Off:4 Def:8),,,,
+0020200909,461,1,5,4,9:55 PM,3:46,Grant  Layup (9 PTS),,,77 - 67,-10
+0020200909,462,6,2,4,9:55 PM,3:46,,,Kirilenko S.FOUL (P2.T4),,
+0020200909,463,3,10,4,9:55 PM,3:46,MISS Grant Free Throw 1 of 1,,,,
+0020200909,464,4,0,4,9:55 PM,3:45,,,Malone REBOUND (Off:1 Def:11),,
+0020200909,465,5,2,4,9:55 PM,3:34,Best STEAL (1 STL),,Stockton Lost Ball Turnover (P3.T18),,
+0020200909,466,2,7,4,9:55 PM,3:30,MISS Butler  Dunk,,,,
+0020200909,467,4,0,4,9:56 PM,3:28,James REBOUND (Off:1 Def:1),,,,
+0020200909,468,5,2,4,9:56 PM,3:24,Butler Lost Ball Turnover (P5.T17),,Kirilenko STEAL (3 STL),,
+0020200909,469,6,4,4,9:56 PM,3:20,,,Malone OFF.Foul (P4),,
+0020200909,470,5,5,4,9:56 PM,3:20,,,Malone Foul Turnover (P4.T19),,
+0020200909,471,5,1,4,9:56 PM,3:11,James Bad Pass Turnover (P3.T18),,Kirilenko STEAL (4 STL),,
+0020200909,472,2,1,4,9:56 PM,2:55,,,MISS Malone 19' Jump Shot,,
+0020200909,473,4,0,4,9:57 PM,2:54,HEAT Rebound,,,,
+0020200909,474,9,1,4,9:57 PM,2:54,,,Jazz Timeout: Regular (Reg.4 Short 0),,
+0020200909,476,1,42,4,9:59 PM,2:44,James  Driving Layup (4 PTS),,,77 - 69,-8
+0020200909,477,5,1,4,9:59 PM,2:41,,,Ostertag Bad Pass Turnover (P2.T20),,
+0020200909,478,5,4,4,9:59 PM,2:31,Allen Traveling Turnover (P3.T19),,,,
+0020200909,479,6,1,4,10:00 PM,2:25,Best P.FOUL (P6.PN),,,,
+0020200909,480,8,0,4,10:00 PM,2:25,SUB: Butler FOR Best,,,,
+0020200909,481,3,11,4,10:00 PM,2:25,,,MISS Stockton Free Throw 1 of 2,,
+0020200909,482,4,1,4,10:00 PM,2:25,,,Jazz Rebound,,
+0020200909,483,3,12,4,10:00 PM,2:25,,,Stockton Free Throw 2 of 2 (14 PTS),78 - 69,-9
+0020200909,484,1,44,4,10:01 PM,2:16,James  Reverse Layup (6 PTS),,,78 - 71,-7
+0020200909,485,1,47,4,10:01 PM,2:01,,,Malone 14' Turnaround Jump Shot (28 PTS),80 - 71,-9
+0020200909,486,1,56,4,10:01 PM,1:46,Allen 8' Running Hook Shot (8 PTS),,,80 - 73,-7
+0020200909,487,2,1,4,10:02 PM,1:27,,,MISS Malone 19' Jump Shot,,
+0020200909,488,4,0,4,10:02 PM,1:25,Butler REBOUND (Off:2 Def:4),,,,
+0020200909,489,2,1,4,10:02 PM,1:07,MISS Butler  3PT Jump Shot,,,,
+0020200909,490,4,0,4,10:02 PM,1:05,,,Ostertag REBOUND (Off:1 Def:5),,
+0020200909,491,6,2,4,10:02 PM,1:00,Butler S.FOUL (P2.PN),,,,
+0020200909,492,3,11,4,10:03 PM,1:00,,,Harpring Free Throw 1 of 2 (16 PTS),81 - 73,-8
+0020200909,493,3,12,4,10:03 PM,1:00,,,Harpring Free Throw 2 of 2 (17 PTS),82 - 73,-9
+0020200909,494,2,1,4,10:03 PM,0:48,MISS Butler 24' 3PT Jump Shot,,,,
+0020200909,495,4,0,4,10:03 PM,0:46,James REBOUND (Off:2 Def:1),,,,
+0020200909,496,2,1,4,10:03 PM,0:37,MISS Allen 10' Jump Shot,,,,
+0020200909,497,4,0,4,10:03 PM,0:36,,,Malone REBOUND (Off:1 Def:12),,
+0020200909,498,6,1,4,10:04 PM,0:36,Allen P.FOUL (P5.PN),,,,
+0020200909,499,3,11,4,10:04 PM,0:36,,,Malone Free Throw 1 of 2 (29 PTS),83 - 73,-10
+0020200909,500,3,12,4,10:04 PM,0:36,,,MISS Malone Free Throw 2 of 2,,
+0020200909,501,4,0,4,10:04 PM,0:35,Butler REBOUND (Off:2 Def:5),,,,
+0020200909,502,9,1,4,10:04 PM,0:34,HEAT Timeout: Regular (Full 5 Short 1),,,,
+0020200909,504,2,42,4,10:06 PM,0:24,MISS Butler  Driving Layup,,,,
+0020200909,505,4,0,4,10:06 PM,0:21,,,Harpring REBOUND (Off:1 Def:3),,
+0020200909,506,13,0,4,10:07 PM,0:00,,,,83 - 73,-10

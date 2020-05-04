@@ -1,0 +1,474 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900587,0,12,0,1,7:41 PM,12:00,,,,,
+0020900587,1,10,0,1,7:43 PM,12:00,Jump Ball Wallace vs. Jeffries: Tip to Stuckey,,,,
+0020900587,2,2,5,1,7:44 PM,11:44,MISS Wallace  Layup,,,,
+0020900587,3,4,0,1,7:44 PM,11:43,Wilcox REBOUND (Off:1 Def:0),,,,
+0020900587,4,1,72,1,7:44 PM,11:41,Wilcox  Putback Layup (2 PTS),,,0 - 2,2
+0020900587,5,2,1,1,7:45 PM,11:18,,,MISS Gallinari 8' Jump Shot,,
+0020900587,6,4,0,1,7:45 PM,11:16,Jerebko REBOUND (Off:0 Def:1),,,,
+0020900587,7,1,42,1,7:45 PM,11:12,Stuckey  Driving Layup (2 PTS),,,0 - 4,4
+0020900587,8,6,1,1,7:45 PM,11:00,Jerebko P.FOUL (P1.T1),,,,
+0020900587,9,1,5,1,7:45 PM,10:56,,,Gallinari  Layup (2 PTS) (Lee 1 AST),2 - 4,2
+0020900587,10,2,1,1,7:46 PM,10:38,MISS Hamilton 16' Jump Shot,,,,
+0020900587,11,4,0,1,7:46 PM,10:37,,,Lee REBOUND (Off:0 Def:1),,
+0020900587,12,2,5,1,7:46 PM,10:29,,,MISS Jeffries  Layup,,
+0020900587,13,4,0,1,7:46 PM,10:28,Wilcox REBOUND (Off:1 Def:1),,,,
+0020900587,14,5,4,1,7:46 PM,10:24,Stuckey Traveling Turnover (P1.T1),,,,
+0020900587,15,5,1,1,7:46 PM,10:10,Stuckey STEAL (1 STL),,Chandler Bad Pass Turnover (P1.T1),,
+0020900587,16,1,1,1,7:46 PM,10:04,Hamilton 17' Jump Shot (2 PTS) (Stuckey 1 AST),,,2 - 6,4
+0020900587,17,6,1,1,7:47 PM,9:38,Jerebko P.FOUL (P2.T2),,,,
+0020900587,18,2,1,1,7:47 PM,9:32,,,MISS Lee 20' Jump Shot,,
+0020900587,19,4,0,1,7:47 PM,9:32,PISTONS Rebound,,,,
+0020900587,20,6,1,1,7:47 PM,9:32,,,Jeffries P.FOUL (P1.T1),,
+0020900587,21,1,67,1,7:48 PM,9:20,Wilcox 7' Hook Bank Shot (4 PTS) (Stuckey 2 AST),,,2 - 8,6
+0020900587,22,2,1,1,7:48 PM,9:03,Hamilton BLOCK (1 BLK),,MISS Chandler 8' Jump Shot,,
+0020900587,23,4,0,1,7:48 PM,9:02,,,Chandler REBOUND (Off:1 Def:0),,
+0020900587,24,2,5,1,7:48 PM,9:00,,,MISS Chandler  Layup,,
+0020900587,25,4,0,1,7:48 PM,8:59,Wilcox REBOUND (Off:1 Def:2),,,,
+0020900587,26,5,2,1,7:48 PM,8:53,Hamilton Lost Ball Turnover (P1.T2),,Gallinari STEAL (1 STL),,
+0020900587,27,1,5,1,7:48 PM,8:43,,,Lee  Layup (2 PTS) (Duhon 1 AST),4 - 8,4
+0020900587,28,2,56,1,7:49 PM,8:17,MISS Stuckey 6' Running Hook Shot,,,,
+0020900587,29,4,0,1,7:49 PM,8:14,,,Jeffries REBOUND (Off:0 Def:1),,
+0020900587,31,6,4,1,7:49 PM,8:11,,,Chandler OFF.Foul (P1),,
+0020900587,32,5,5,1,7:49 PM,8:11,,,Chandler Foul Turnover (P2.T2),,
+0020900587,33,2,47,1,7:49 PM,7:55,MISS Wilcox 10' Turnaround Jump Shot,,,,
+0020900587,34,4,0,1,7:49 PM,7:54,,,Chandler REBOUND (Off:1 Def:1),,
+0020900587,35,2,1,1,7:50 PM,7:43,,,MISS Lee 19' Jump Shot,,
+0020900587,36,4,0,1,7:50 PM,7:42,Wilcox REBOUND (Off:1 Def:3),,,,
+0020900587,37,2,46,1,7:50 PM,7:33,MISS Hamilton 9' Running Jump Shot,,,,
+0020900587,38,4,0,1,7:50 PM,7:32,,,Gallinari REBOUND (Off:0 Def:1),,
+0020900587,39,2,44,1,7:50 PM,7:24,,,MISS Lee  Reverse Layup,,
+0020900587,40,4,0,1,7:50 PM,7:23,Wilcox REBOUND (Off:1 Def:4),,,,
+0020900587,41,1,42,1,7:50 PM,7:17,Stuckey  Driving Layup (4 PTS),,,4 - 10,6
+0020900587,42,1,7,1,7:50 PM,7:03,,,Lee  Dunk (4 PTS) (Duhon 2 AST),6 - 10,4
+0020900587,43,9,1,1,7:52 PM,6:43,,,Knicks Timeout: Regular (Reg.1 Short 0),,
+0020900587,45,1,43,1,7:55 PM,6:33,Wilcox  Alley Oop Layup (6 PTS) (Hamilton 1 AST),,,6 - 12,6
+0020900587,46,1,66,1,7:55 PM,6:09,,,Chandler 5' Jump Bank Shot (2 PTS),8 - 12,4
+0020900587,47,2,1,1,7:55 PM,5:58,MISS Hamilton 13' Jump Shot,,,,
+0020900587,48,4,0,1,7:55 PM,5:57,PISTONS Rebound,,,,
+0020900587,49,2,79,1,7:56 PM,5:46,MISS Stuckey 18' Pullup Jump Shot,,,,
+0020900587,50,4,0,1,7:56 PM,5:45,,,Gallinari REBOUND (Off:0 Def:2),,
+0020900587,51,1,57,1,7:56 PM,5:30,,,Lee 6' Driving Hook Shot (6 PTS),10 - 12,2
+0020900587,52,5,1,1,7:56 PM,5:09,Wilcox Bad Pass Turnover (P1.T3),,,,
+0020900587,53,8,0,1,7:57 PM,5:09,SUB: Villanueva FOR Wallace,,,,
+0020900587,54,8,0,1,7:57 PM,5:09,,,SUB: Harrington FOR Gallinari,,
+0020900587,55,1,5,1,7:57 PM,4:53,,,Lee  Layup (8 PTS) (Chandler 1 AST),12 - 12,TIE
+0020900587,56,6,2,1,7:57 PM,4:53,Villanueva S.FOUL (P1.T3),,,,
+0020900587,57,3,10,1,7:57 PM,4:53,,,Lee Free Throw 1 of 1 (9 PTS),13 - 12,-1
+0020900587,59,2,1,1,7:58 PM,4:36,MISS Hamilton 16' Jump Shot,,,,
+0020900587,60,4,0,1,7:58 PM,4:35,Wilcox REBOUND (Off:2 Def:4),,,,
+0020900587,61,1,4,1,7:58 PM,4:34,Wilcox  Tip Shot (8 PTS),,,13 - 14,1
+0020900587,62,2,1,1,7:58 PM,4:23,,,MISS Chandler 19' Jump Shot,,
+0020900587,63,4,0,1,7:58 PM,4:23,,,Lee REBOUND (Off:1 Def:1),,
+0020900587,64,1,72,1,7:58 PM,4:22,,,Lee  Putback Layup (11 PTS),15 - 14,-1
+0020900587,65,6,1,1,7:58 PM,4:04,,,Duhon P.FOUL (P1.T2),,
+0020900587,66,2,1,1,7:59 PM,3:48,MISS Hamilton 19' Jump Shot,,,,
+0020900587,67,4,0,1,7:59 PM,3:47,,,Knicks Rebound,,
+0020900587,68,2,1,1,7:59 PM,3:37,,,MISS Duhon 27' 3PT Jump Shot,,
+0020900587,69,4,0,1,7:59 PM,3:36,Villanueva REBOUND (Off:0 Def:1),,,,
+0020900587,70,1,42,1,7:59 PM,3:27,Stuckey  Driving Layup (6 PTS),,,15 - 16,1
+0020900587,71,1,5,1,8:00 PM,3:06,,,Chandler  Layup (4 PTS) (Lee 2 AST),17 - 16,-1
+0020900587,72,2,5,1,8:00 PM,2:46,MISS Stuckey  Layup,,Jeffries BLOCK (1 BLK),,
+0020900587,73,4,0,1,8:00 PM,2:46,PISTONS Rebound,,,,
+0020900587,74,9,1,1,8:00 PM,2:46,PISTONS Timeout: Regular (Full 1 Short 0),,,,
+0020900587,76,8,0,1,8:02 PM,2:46,,,SUB: Robinson FOR Duhon,,
+0020900587,77,8,0,1,8:03 PM,2:46,SUB: Maxiell FOR Wilcox,,,,
+0020900587,78,8,0,1,8:03 PM,2:46,SUB: Atkins FOR Stuckey,,,,
+0020900587,79,1,52,1,8:03 PM,2:41,Villanueva  Alley Oop Dunk (2 PTS) (Atkins 1 AST),,,17 - 18,1
+0020900587,80,5,1,1,8:03 PM,2:20,,,Jeffries Bad Pass Turnover (P1.T3),,
+0020900587,81,1,3,1,8:04 PM,2:02,Villanueva 7' Hook Shot (4 PTS) (Atkins 2 AST),,,17 - 20,3
+0020900587,82,2,1,1,8:04 PM,1:44,,,MISS Harrington 26' 3PT Jump Shot,,
+0020900587,83,4,0,1,8:04 PM,1:43,Hamilton REBOUND (Off:0 Def:1),,,,
+0020900587,84,1,79,1,8:04 PM,1:36,Hamilton 18' Pullup Jump Shot (4 PTS),,,17 - 22,5
+0020900587,85,1,42,1,8:05 PM,1:20,,,Lee  Driving Layup (13 PTS),19 - 22,3
+0020900587,86,6,2,1,8:05 PM,1:20,Maxiell S.FOUL (P1.T4),,,,
+0020900587,87,8,0,1,8:05 PM,1:20,SUB: Daye FOR Jerebko,,,,
+0020900587,88,3,10,1,8:05 PM,1:20,,,Lee Free Throw 1 of 1 (14 PTS),20 - 22,2
+0020900587,90,5,1,1,8:05 PM,1:04,Atkins Bad Pass Turnover (P1.T4),,Jeffries STEAL (1 STL),,
+0020900587,91,1,5,1,8:06 PM,0:56,,,Lee  Layup (16 PTS) (Robinson 1 AST),22 - 22,TIE
+0020900587,92,5,2,1,8:06 PM,0:40,Villanueva Lost Ball Turnover (P1.T5),,Jeffries STEAL (2 STL),,
+0020900587,93,1,7,1,8:06 PM,0:31,,,Chandler  Dunk (6 PTS),24 - 22,-2
+0020900587,94,6,2,1,8:06 PM,0:18,,,Robinson S.FOUL (P1.T3),,
+0020900587,95,3,11,1,8:07 PM,0:18,MISS Maxiell Free Throw 1 of 2,,,,
+0020900587,96,4,1,1,8:07 PM,0:18,PISTONS Rebound,,,,
+0020900587,97,3,12,1,8:07 PM,0:18,Maxiell Free Throw 2 of 2 (1 PTS),,,24 - 23,-1
+0020900587,99,5,4,1,8:08 PM,0:04,,,Chandler Traveling Turnover (P3.T4),,
+0020900587,100,2,1,1,8:08 PM,0:02,MISS Villanueva 26' 3PT Jump Shot,,,,
+0020900587,101,4,0,1,8:08 PM,0:00,Daye REBOUND (Off:1 Def:0),,,,
+0020900587,102,2,4,1,8:08 PM,0:00,MISS Daye  Tip Shot,,,,
+0020900587,103,4,0,1,8:08 PM,0:00,PISTONS Rebound,,,,
+0020900587,104,13,0,1,8:08 PM,0:00,,,,24 - 23,-1
+0020900587,106,12,0,2,8:11 PM,12:00,,,,24 - 23,-1
+0020900587,107,2,5,2,8:11 PM,11:47,,,MISS Robinson  Layup,,
+0020900587,108,4,0,2,8:11 PM,11:46,Daye REBOUND (Off:1 Def:1),,,,
+0020900587,109,2,3,2,8:11 PM,11:27,MISS Maxiell 6' Hook Shot,,,,
+0020900587,110,4,0,2,8:11 PM,11:26,,,Lee REBOUND (Off:1 Def:2),,
+0020900587,111,5,1,2,8:12 PM,11:16,Villanueva STEAL (1 STL),,Lee Bad Pass Turnover (P1.T5),,
+0020900587,112,2,46,2,8:12 PM,11:08,MISS Stuckey 7' Running Jump Shot,,,,
+0020900587,113,4,0,2,8:12 PM,11:07,Maxiell REBOUND (Off:1 Def:0),,,,
+0020900587,114,6,2,2,8:12 PM,11:02,,,Lee S.FOUL (P1.T1),,
+0020900587,115,3,11,2,8:12 PM,11:02,Stuckey Free Throw 1 of 2 (7 PTS),,,24 - 24,TIE
+0020900587,117,3,12,2,8:12 PM,11:02,Stuckey Free Throw 2 of 2 (8 PTS),,,24 - 25,1
+0020900587,119,2,1,2,8:13 PM,10:45,,,MISS Harrington 21' Jump Shot,,
+0020900587,120,4,0,2,8:13 PM,10:44,Atkins REBOUND (Off:0 Def:1),,,,
+0020900587,121,2,47,2,8:13 PM,10:34,MISS Maxiell 5' Turnaround Jump Shot,,,,
+0020900587,122,4,0,2,8:13 PM,10:33,,,Hughes REBOUND (Off:0 Def:1),,
+0020900587,123,2,5,2,8:13 PM,10:22,,,MISS Gallinari  Layup,,
+0020900587,124,4,0,2,8:13 PM,10:20,Maxiell REBOUND (Off:1 Def:1),,,,
+0020900587,125,6,2,2,8:14 PM,10:17,,,Hughes S.FOUL (P1.T2),,
+0020900587,126,3,11,2,8:14 PM,10:17,MISS Stuckey Free Throw 1 of 2,,,,
+0020900587,127,4,1,2,8:14 PM,10:17,PISTONS Rebound,,,,
+0020900587,128,3,12,2,8:14 PM,10:17,Stuckey Free Throw 2 of 2 (9 PTS),,,24 - 26,2
+0020900587,130,6,1,2,8:14 PM,10:10,Daye P.FOUL (P1.T1),,,,
+0020900587,131,1,85,2,8:15 PM,9:59,,,Harrington 9' Turnaround Bank Shot (2 PTS),26 - 26,TIE
+0020900587,132,2,58,2,8:15 PM,9:42,MISS Villanueva 9' Turnaround Hook Shot,,,,
+0020900587,133,4,0,2,8:15 PM,9:40,,,Harrington REBOUND (Off:0 Def:1),,
+0020900587,134,2,1,2,8:15 PM,9:33,,,MISS Gallinari 26' 3PT Jump Shot,,
+0020900587,135,4,0,2,8:15 PM,9:32,,,Harrington REBOUND (Off:1 Def:1),,
+0020900587,136,2,1,2,8:15 PM,9:28,,,MISS Harrington 16' Jump Shot,,
+0020900587,137,4,0,2,8:15 PM,9:27,Villanueva REBOUND (Off:0 Def:2),,,,
+0020900587,138,2,1,2,8:16 PM,9:10,MISS Stuckey 19' Jump Shot,,,,
+0020900587,139,4,0,2,8:16 PM,9:10,,,Knicks Rebound,,
+0020900587,140,6,3,2,8:16 PM,9:08,Maxiell L.B.FOUL (P2.T2),,,,
+0020900587,141,2,1,2,8:16 PM,8:58,,,MISS Hughes 18' Jump Shot,,
+0020900587,142,4,0,2,8:16 PM,8:57,,,Robinson REBOUND (Off:1 Def:0),,
+0020900587,143,2,46,2,8:16 PM,8:51,,,MISS Hughes 10' Running Jump Shot,,
+0020900587,144,4,0,2,8:16 PM,8:50,Villanueva REBOUND (Off:0 Def:3),,,,
+0020900587,145,1,42,2,8:16 PM,8:38,Atkins  Driving Layup (2 PTS),,,26 - 28,2
+0020900587,146,2,1,2,8:17 PM,8:23,,,MISS Harrington  3PT Jump Shot,,
+0020900587,147,4,0,2,8:17 PM,8:22,Stuckey REBOUND (Off:0 Def:1),,,,
+0020900587,148,1,42,2,8:17 PM,8:16,Stuckey  Driving Layup (11 PTS),,,26 - 30,4
+0020900587,149,2,1,2,8:17 PM,7:56,,,MISS Gallinari 20' Jump Shot,,
+0020900587,150,4,0,2,8:17 PM,7:55,Stuckey REBOUND (Off:0 Def:2),,,,
+0020900587,151,6,2,2,8:18 PM,7:36,,,Gallinari S.FOUL (P1.T3),,
+0020900587,152,9,4,2,8:18 PM,7:36,,,,,
+0020900587,154,3,11,2,8:20 PM,7:36,Daye Free Throw 1 of 2 (1 PTS),,,26 - 31,5
+0020900587,156,3,12,2,8:20 PM,7:36,Daye Free Throw 2 of 2 (2 PTS),,,26 - 32,6
+0020900587,158,6,1,2,8:21 PM,7:27,Villanueva P.FOUL (P2.T3),,,,
+0020900587,159,1,1,2,8:21 PM,7:12,,,Gallinari 26' 3PT Jump Shot (5 PTS) (Lee 3 AST),29 - 32,3
+0020900587,160,1,3,2,8:21 PM,6:57,Villanueva 11' Hook Shot (6 PTS) (Stuckey 3 AST),,,29 - 34,5
+0020900587,161,6,2,2,8:21 PM,6:57,,,Harrington S.FOUL (P1.T4),,
+0020900587,162,8,0,2,8:22 PM,6:57,,,SUB: Duhon FOR Robinson,,
+0020900587,163,8,0,2,8:22 PM,6:57,,,SUB: Chandler FOR Harrington,,
+0020900587,164,3,10,2,8:22 PM,6:57,Villanueva Free Throw 1 of 1 (7 PTS),,,29 - 35,6
+0020900587,166,1,5,2,8:22 PM,6:48,,,Gallinari  Layup (7 PTS) (Hughes 1 AST),31 - 35,4
+0020900587,167,6,2,2,8:22 PM,6:48,Daye S.FOUL (P2.T4),,,,
+0020900587,168,3,10,2,8:22 PM,6:48,,,Gallinari Free Throw 1 of 1 (8 PTS),32 - 35,3
+0020900587,170,1,3,2,8:23 PM,6:31,Villanueva 7' Hook Shot (9 PTS),,,32 - 37,5
+0020900587,171,2,46,2,8:23 PM,6:04,,,MISS Duhon 10' Running Jump Shot,,
+0020900587,172,4,0,2,8:24 PM,6:04,,,Knicks Rebound,,
+0020900587,173,5,11,2,8:24 PM,6:04,,,Knicks Turnover: Shot Clock (T#6),,
+0020900587,174,1,3,2,8:24 PM,5:45,Villanueva 10' Hook Shot (11 PTS),,,32 - 39,7
+0020900587,175,6,2,2,8:24 PM,5:33,Daye S.FOUL (P3.PN),,,,
+0020900587,176,9,1,2,8:24 PM,5:33,PISTONS Timeout: Regular (Full 2 Short 0),,,,
+0020900587,177,8,0,2,8:27 PM,5:33,SUB: Hamilton FOR Daye,,,,
+0020900587,178,3,11,2,8:27 PM,5:33,,,Lee Free Throw 1 of 2 (17 PTS),33 - 39,6
+0020900587,180,3,12,2,8:27 PM,5:33,,,Lee Free Throw 2 of 2 (18 PTS),34 - 39,5
+0020900587,182,8,0,2,8:28 PM,5:20,,,SUB: Jeffries FOR Lee,,
+0020900587,183,2,1,2,8:28 PM,5:15,MISS Villanueva 27' 3PT Jump Shot,,,,
+0020900587,184,4,0,2,8:28 PM,5:14,Hamilton REBOUND (Off:1 Def:1),,,,
+0020900587,185,6,4,2,8:29 PM,4:56,Stuckey OFF.Foul (P1),,,,
+0020900587,186,5,5,2,8:29 PM,4:56,Stuckey Foul Turnover (P2.T6),,,,
+0020900587,187,5,1,2,8:29 PM,4:40,Stuckey STEAL (2 STL),,Duhon Bad Pass Turnover (P1.T7),,
+0020900587,188,2,47,2,8:29 PM,4:31,MISS Maxiell 9' Turnaround Jump Shot,,,,
+0020900587,189,4,0,2,8:29 PM,4:30,,,Jeffries REBOUND (Off:0 Def:2),,
+0020900587,190,2,46,2,8:30 PM,4:15,,,MISS Jeffries 7' Running Jump Shot,,
+0020900587,191,4,0,2,8:30 PM,4:15,PISTONS Rebound,,,,
+0020900587,192,6,3,2,8:30 PM,4:15,,,Jeffries L.B.FOUL (P2.PN),,
+0020900587,193,8,0,2,8:30 PM,4:15,SUB: Wallace FOR Maxiell,,,,
+0020900587,194,3,11,2,8:30 PM,4:15,Villanueva Free Throw 1 of 2 (12 PTS),,,34 - 40,6
+0020900587,196,3,12,2,8:30 PM,4:15,MISS Villanueva Free Throw 2 of 2,,,,
+0020900587,198,4,0,2,8:31 PM,4:15,,,Chandler REBOUND (Off:1 Def:2),,
+0020900587,199,2,1,2,8:31 PM,3:58,,,MISS Hughes 26' 3PT Jump Shot,,
+0020900587,200,4,0,2,8:31 PM,3:56,Villanueva REBOUND (Off:0 Def:4),,,,
+0020900587,201,1,1,2,8:31 PM,3:48,Atkins 24' 3PT Jump Shot (5 PTS),,,34 - 43,9
+0020900587,202,2,45,2,8:31 PM,3:38,Villanueva BLOCK (1 BLK),,MISS Hughes 14' Jump Shot,,
+0020900587,211,4,0,2,8:31 PM,3:36,PISTONS Rebound,,,,
+0020900587,203,8,0,2,8:31 PM,3:36,,,SUB: Lee FOR Hughes,,
+0020900587,204,2,47,2,8:32 PM,3:18,MISS Hamilton 13' Turnaround Jump Shot,,,,
+0020900587,205,4,0,2,8:32 PM,3:17,Wallace REBOUND (Off:1 Def:0),,,,
+0020900587,206,5,1,2,8:32 PM,3:01,Villanueva Bad Pass Turnover (P2.T7),,Chandler STEAL (1 STL),,
+0020900587,207,5,2,2,8:32 PM,2:58,Stuckey STEAL (3 STL),,Gallinari Lost Ball Turnover (P1.T8),,
+0020900587,208,1,1,2,8:32 PM,2:52,Hamilton 18' Jump Shot (6 PTS) (Stuckey 4 AST),,,34 - 45,11
+0020900587,209,5,4,2,8:33 PM,2:32,,,Chandler Traveling Turnover (P4.T9),,
+0020900587,210,9,1,2,8:33 PM,2:32,,,Knicks Timeout: Regular (Reg.2 Short 0),,
+0020900587,213,1,79,2,8:36 PM,2:09,Stuckey 19' Pullup Jump Shot (13 PTS),,,34 - 47,13
+0020900587,214,5,1,2,8:36 PM,1:57,Wallace STEAL (1 STL),,Duhon Bad Pass Turnover (P2.T10),,
+0020900587,215,1,7,2,8:36 PM,1:53,Stuckey  Dunk (15 PTS) (Wallace 1 AST),,,34 - 49,15
+0020900587,216,2,5,2,8:36 PM,1:38,,,MISS Gallinari  Layup,,
+0020900587,217,4,0,2,8:36 PM,1:36,Wallace REBOUND (Off:1 Def:1),,,,
+0020900587,218,2,3,2,8:37 PM,1:24,MISS Villanueva 6' Hook Shot,,Jeffries BLOCK (2 BLK),,
+0020900587,219,4,0,2,8:37 PM,1:22,Hamilton REBOUND (Off:2 Def:1),,,,
+0020900587,220,1,1,2,8:37 PM,1:17,Hamilton 18' Jump Shot (8 PTS),,,34 - 51,17
+0020900587,221,2,1,2,8:37 PM,1:00,,,MISS Chandler 24' 3PT Jump Shot,,
+0020900587,222,4,0,2,8:37 PM,0:59,,,Knicks Rebound,,
+0020900587,224,8,0,2,8:37 PM,0:56,,,SUB: Harrington FOR Duhon,,
+0020900587,225,2,1,2,8:38 PM,0:53,,,MISS Lee 21' Jump Shot,,
+0020900587,226,4,0,2,8:38 PM,0:52,Wallace REBOUND (Off:1 Def:2),,,,
+0020900587,227,2,3,2,8:38 PM,0:40,MISS Villanueva 7' Hook Shot,,,,
+0020900587,228,4,0,2,8:38 PM,0:39,,,Lee REBOUND (Off:1 Def:3),,
+0020900587,229,1,1,2,8:38 PM,0:33,,,Gallinari 24' 3PT Jump Shot (11 PTS) (Lee 4 AST),37 - 51,14
+0020900587,230,2,1,2,8:38 PM,0:09,MISS Hamilton 19' Jump Shot,,,,
+0020900587,231,4,0,2,8:38 PM,0:08,,,Gallinari REBOUND (Off:0 Def:3),,
+0020900587,232,2,1,2,8:39 PM,0:01,,,MISS Harrington 26' 3PT Jump Shot,,
+0020900587,233,4,0,2,8:39 PM,0:00,,,Knicks Rebound,,
+0020900587,234,13,0,2,8:39 PM,0:00,,,,37 - 51,14
+0020900587,236,12,0,3,8:57 PM,12:00,,,,37 - 51,14
+0020900587,237,1,1,3,8:57 PM,11:44,,,Gallinari 22' Jump Shot (13 PTS) (Duhon 3 AST),39 - 51,12
+0020900587,238,6,1,3,8:57 PM,11:29,,,Gallinari P.FOUL (P2.T1),,
+0020900587,239,2,1,3,8:58 PM,11:17,MISS Stuckey 17' Jump Shot,,,,
+0020900587,240,4,0,3,8:58 PM,11:16,,,Lee REBOUND (Off:1 Def:4),,
+0020900587,241,5,1,3,8:58 PM,11:03,,,Gallinari Bad Pass Turnover (P2.T11),,
+0020900587,242,2,1,3,8:59 PM,10:38,MISS Wilcox 10' Jump Shot,,,,
+0020900587,243,4,0,3,8:59 PM,10:37,Wallace REBOUND (Off:2 Def:2),,,,
+0020900587,244,1,87,3,8:59 PM,10:36,Wallace  Putback Dunk (2 PTS),,,39 - 53,14
+0020900587,245,2,1,3,8:59 PM,10:15,,,MISS Lee 18' Jump Shot,,
+0020900587,246,4,0,3,8:59 PM,10:15,,,Knicks Rebound,,
+0020900587,247,6,3,3,8:59 PM,10:15,Wilcox L.B.FOUL (P1.T1),,,,
+0020900587,248,2,1,3,9:00 PM,10:05,,,MISS Lee 19' Jump Shot,,
+0020900587,249,4,0,3,9:00 PM,10:04,Jerebko REBOUND (Off:0 Def:2),,,,
+0020900587,250,2,63,3,9:00 PM,9:53,MISS Wallace 9' Fadeaway Jumper,,,,
+0020900587,251,4,0,3,9:00 PM,9:52,,,Lee REBOUND (Off:1 Def:5),,
+0020900587,252,5,1,3,9:00 PM,9:48,,,Duhon Bad Pass Turnover (P3.T12),,
+0020900587,275,10,0,3,9:00 PM,9:30,Jump Ball Wallace vs. Lee: Tip to Stuckey,,,,
+0020900587,253,6,2,3,9:01 PM,9:26,,,Jeffries S.FOUL (P3.T2),,
+0020900587,254,3,11,3,9:01 PM,9:26,Stuckey Free Throw 1 of 2 (16 PTS),,,39 - 54,15
+0020900587,256,3,12,3,9:02 PM,9:26,Stuckey Free Throw 2 of 2 (17 PTS),,,39 - 55,16
+0020900587,258,5,40,3,9:02 PM,9:17,,,Duhon Out of Bounds Lost Ball Turnover (P4.T13),,
+0020900587,259,2,5,3,9:02 PM,9:08,MISS Stuckey  Layup,,,,
+0020900587,260,4,0,3,9:02 PM,9:07,,,Lee REBOUND (Off:1 Def:6),,
+0020900587,261,2,1,3,9:03 PM,8:56,,,MISS Duhon 27' 3PT Jump Shot,,
+0020900587,262,4,0,3,9:03 PM,8:55,Wilcox REBOUND (Off:2 Def:5),,,,
+0020900587,263,6,2,3,9:03 PM,8:40,,,Chandler S.FOUL (P2.T3),,
+0020900587,264,8,0,3,9:03 PM,8:40,,,SUB: Harrington FOR Duhon,,
+0020900587,265,3,11,3,9:03 PM,8:40,Wallace Free Throw 1 of 2 (3 PTS),,,39 - 56,17
+0020900587,267,3,12,3,9:03 PM,8:40,MISS Wallace Free Throw 2 of 2,,,,
+0020900587,269,4,0,3,9:04 PM,8:40,Wilcox REBOUND (Off:3 Def:5),,,,
+0020900587,270,1,4,3,9:04 PM,8:39,Wilcox  Tip Shot (10 PTS),,,39 - 58,19
+0020900587,271,2,5,3,9:04 PM,8:22,Wallace BLOCK (1 BLK),,MISS Lee  Layup,,
+0020900587,272,4,0,3,9:04 PM,8:19,Wilcox REBOUND (Off:3 Def:6),,,,
+0020900587,273,1,52,3,9:04 PM,8:05,Wilcox  Alley Oop Dunk (12 PTS) (Hamilton 2 AST),,,39 - 60,21
+0020900587,274,9,1,3,9:04 PM,8:03,,,Knicks Timeout: Regular (Reg.3 Short 0),,
+0020900587,277,1,1,3,9:07 PM,7:43,,,Lee 18' Jump Shot (20 PTS) (Chandler 2 AST),41 - 60,19
+0020900587,278,1,5,3,9:07 PM,7:18,Jerebko  Layup (2 PTS) (Wilcox 1 AST),,,41 - 62,21
+0020900587,279,6,2,3,9:08 PM,7:05,Stuckey S.FOUL (P2.T2),,,,
+0020900587,280,3,11,3,9:08 PM,7:05,,,Gallinari Free Throw 1 of 2 (14 PTS),42 - 62,20
+0020900587,282,3,12,3,9:08 PM,7:05,,,Gallinari Free Throw 2 of 2 (15 PTS),43 - 62,19
+0020900587,284,2,1,3,9:09 PM,6:47,MISS Hamilton 19' Jump Shot,,,,
+0020900587,285,4,0,3,9:09 PM,6:46,Wilcox REBOUND (Off:4 Def:6),,,,
+0020900587,286,1,72,3,9:09 PM,6:44,Wilcox  Putback Layup (14 PTS),,,43 - 64,21
+0020900587,287,6,1,3,9:09 PM,6:33,Hamilton P.FOUL (P1.T3),,,,
+0020900587,288,5,6,3,9:09 PM,6:23,,,Harrington Double Dribble Turnover (P1.T14),,
+0020900587,289,2,1,3,9:10 PM,6:07,MISS Stuckey 17' Jump Shot,,,,
+0020900587,290,4,0,3,9:10 PM,6:06,,,Jeffries REBOUND (Off:0 Def:3),,
+0020900587,291,6,2,3,9:10 PM,6:02,Jerebko S.FOUL (P3.T4),,,,
+0020900587,292,3,11,3,9:10 PM,6:02,,,Jeffries Free Throw 1 of 2 (1 PTS),44 - 64,20
+0020900587,294,3,12,3,9:10 PM,6:02,,,Jeffries Free Throw 2 of 2 (2 PTS),45 - 64,19
+0020900587,296,5,1,3,9:11 PM,5:45,Wilcox Bad Pass Turnover (P2.T8),,,,
+0020900587,297,2,66,3,9:11 PM,5:28,Wilcox BLOCK (1 BLK),,MISS Chandler 7' Jump Bank Shot,,
+0020900587,298,4,0,3,9:11 PM,5:26,,,Chandler REBOUND (Off:2 Def:2),,
+0020900587,299,1,1,3,9:11 PM,5:20,,,Harrington 26' 3PT Jump Shot (5 PTS) (Chandler 3 AST),48 - 64,16
+0020900587,300,5,1,3,9:12 PM,5:06,Wallace Bad Pass Turnover (P1.T9),,Chandler STEAL (2 STL),,
+0020900587,301,1,1,3,9:12 PM,4:53,,,Gallinari 26' 3PT Jump Shot (18 PTS) (Lee 5 AST),51 - 64,13
+0020900587,302,9,1,3,9:12 PM,4:53,PISTONS Timeout: Regular (Full 3 Short 0),,,,
+0020900587,304,8,0,3,9:14 PM,4:53,SUB: Villanueva FOR Wilcox,,,,
+0020900587,306,2,1,3,9:14 PM,4:34,MISS Hamilton 26' 3PT Jump Shot,,,,
+0020900587,307,4,0,3,9:14 PM,4:34,PISTONS Rebound,,,,
+0020900587,308,6,3,3,9:15 PM,4:34,,,Lee L.B.FOUL (P2.T4),,
+0020900587,309,1,1,3,9:15 PM,4:17,Villanueva 25' 3PT Jump Shot (15 PTS) (Hamilton 3 AST),,,51 - 67,16
+0020900587,312,5,1,3,9:16 PM,3:56,,,Chandler Bad Pass Turnover (P5.T15),,
+0020900587,313,6,3,3,9:16 PM,3:56,,,Harrington L.B.FOUL (P2.PN),,
+0020900587,314,3,11,3,9:16 PM,3:56,MISS Jerebko Free Throw 1 of 2,,,,
+0020900587,315,4,1,3,9:16 PM,3:56,PISTONS Rebound,,,,
+0020900587,316,3,12,3,9:16 PM,3:56,MISS Jerebko Free Throw 2 of 2,,,,
+0020900587,318,4,0,3,9:16 PM,3:55,,,Knicks Rebound,,
+0020900587,319,2,1,3,9:17 PM,3:31,Wallace BLOCK (2 BLK),,MISS Lee 9' Jump Shot,,
+0020900587,320,4,0,3,9:17 PM,3:30,,,Lee REBOUND (Off:2 Def:6),,
+0020900587,321,2,3,3,9:17 PM,3:27,Wallace BLOCK (3 BLK),,MISS Lee 7' Hook Shot,,
+0020900587,322,4,0,3,9:17 PM,3:25,Hamilton REBOUND (Off:2 Def:2),,,,
+0020900587,323,2,1,3,9:17 PM,3:06,MISS Villanueva 26' 3PT Jump Shot,,,,
+0020900587,324,4,0,3,9:17 PM,3:03,,,Lee REBOUND (Off:2 Def:7),,
+0020900587,325,5,1,3,9:17 PM,3:02,Hamilton STEAL (1 STL),,Lee Bad Pass Turnover (P2.T16),,
+0020900587,326,6,1,3,9:18 PM,2:59,,,Gallinari P.FOUL (P3.PN),,
+0020900587,327,8,0,3,9:18 PM,2:59,SUB: Atkins FOR Stuckey,,,,
+0020900587,328,8,0,3,9:18 PM,2:59,,,SUB: Robinson FOR Gallinari,,
+0020900587,329,3,11,3,9:18 PM,2:59,Jerebko Free Throw 1 of 2 (3 PTS),,,51 - 68,17
+0020900587,331,3,12,3,9:18 PM,2:59,Jerebko Free Throw 2 of 2 (4 PTS),,,51 - 69,18
+0020900587,333,2,5,3,9:19 PM,2:48,,,MISS Harrington  Layup,,
+0020900587,334,4,0,3,9:19 PM,2:47,,,Harrington REBOUND (Off:2 Def:1),,
+0020900587,335,1,72,3,9:19 PM,2:47,,,Harrington  Putback Layup (7 PTS),53 - 69,16
+0020900587,336,6,2,3,9:19 PM,2:47,Villanueva S.FOUL (P3.PN),,,,
+0020900587,337,8,0,3,9:19 PM,2:47,SUB: Maxiell FOR Wallace,,,,
+0020900587,338,3,10,3,9:19 PM,2:47,,,Harrington Free Throw 1 of 1 (8 PTS),54 - 69,15
+0020900587,340,5,2,3,9:20 PM,2:26,Villanueva Lost Ball Turnover (P3.T10),,Lee STEAL (1 STL),,
+0020900587,341,6,4,3,9:20 PM,2:21,,,Jeffries OFF.Foul (P4),,
+0020900587,342,5,5,3,9:20 PM,2:21,,,Jeffries Foul Turnover (P2.T17),,
+0020900587,343,6,11,3,9:20 PM,2:21,,,Harrington T.FOUL (P2.PN),,
+0020900587,344,3,16,3,9:20 PM,2:21,Hamilton Free Throw Technical (9 PTS),,,54 - 70,16
+0020900587,346,5,1,3,9:21 PM,2:10,Hamilton Bad Pass Turnover (P2.T11),,Robinson STEAL (1 STL),,
+0020900587,347,2,5,3,9:21 PM,2:06,,,MISS Robinson  Layup,,
+0020900587,348,4,0,3,9:21 PM,2:05,Villanueva REBOUND (Off:0 Def:5),,,,
+0020900587,349,2,1,3,9:21 PM,1:57,MISS Atkins 19' Jump Shot,,,,
+0020900587,350,4,0,3,9:21 PM,1:56,Maxiell REBOUND (Off:2 Def:1),,,,
+0020900587,351,1,1,3,9:21 PM,1:50,Atkins 24' 3PT Jump Shot (8 PTS) (Hamilton 4 AST),,,54 - 73,19
+0020900587,352,6,2,3,9:21 PM,1:42,Maxiell S.FOUL (P3.PN),,,,
+0020900587,353,3,11,3,9:21 PM,1:42,,,Lee Free Throw 1 of 2 (21 PTS),55 - 73,18
+0020900587,355,3,12,3,9:21 PM,1:42,,,Lee Free Throw 2 of 2 (22 PTS),56 - 73,17
+0020900587,357,1,1,3,9:22 PM,1:19,Jerebko 26' 3PT Jump Shot (7 PTS) (Hamilton 5 AST),,,56 - 76,20
+0020900587,358,2,66,3,9:22 PM,1:03,,,MISS Chandler 7' Jump Bank Shot,,
+0020900587,359,4,0,3,9:22 PM,1:02,Maxiell REBOUND (Off:2 Def:2),,,,
+0020900587,360,2,1,3,9:22 PM,0:56,MISS Hamilton 19' Jump Shot,,,,
+0020900587,361,4,0,3,9:22 PM,0:55,Jerebko REBOUND (Off:1 Def:2),,,,
+0020900587,362,2,1,3,9:23 PM,0:50,MISS Villanueva 28' 3PT Jump Shot,,,,
+0020900587,363,4,0,3,9:23 PM,0:50,Jerebko REBOUND (Off:2 Def:2),,,,
+0020900587,364,6,3,3,9:23 PM,0:50,,,Lee L.B.FOUL (P3.PN),,
+0020900587,365,3,11,3,9:23 PM,0:50,MISS Jerebko Free Throw 1 of 2,,,,
+0020900587,366,4,1,3,9:23 PM,0:50,PISTONS Rebound,,,,
+0020900587,367,8,0,3,9:23 PM,0:50,,,SUB: Hill FOR Harrington,,
+0020900587,368,3,12,3,9:23 PM,0:50,Jerebko Free Throw 2 of 2 (8 PTS),,,56 - 77,21
+0020900587,370,6,1,3,9:24 PM,0:41,Maxiell P.FOUL (P4.PN),,,,
+0020900587,371,3,11,3,9:24 PM,0:41,,,Lee Free Throw 1 of 2 (23 PTS),57 - 77,20
+0020900587,373,3,12,3,9:24 PM,0:41,,,Lee Free Throw 2 of 2 (24 PTS),58 - 77,19
+0020900587,375,2,1,3,9:25 PM,0:33,MISS Hamilton 18' Jump Shot,,,,
+0020900587,376,4,0,3,9:25 PM,0:32,,,Lee REBOUND (Off:2 Def:8),,
+0020900587,377,1,5,3,9:25 PM,0:26,,,Chandler  Layup (8 PTS) (Lee 6 AST),60 - 77,17
+0020900587,378,6,4,3,9:25 PM,0:06,Atkins OFF.Foul (P1),,,,
+0020900587,379,5,5,3,9:25 PM,0:06,Atkins Foul Turnover (P2.T12),,,,
+0020900587,380,5,1,3,9:26 PM,0:02,Jerebko STEAL (1 STL),,Robinson Bad Pass Turnover (P1.T18),,
+0020900587,381,13,0,3,9:26 PM,0:00,,,,60 - 77,17
+0020900587,383,12,0,4,9:28 PM,12:00,,,,60 - 77,17
+0020900587,385,6,4,4,9:29 PM,11:51,Maxiell OFF.Foul (P5),,,,
+0020900587,386,5,5,4,9:29 PM,11:51,Maxiell Foul Turnover (P1.T13),,,,
+0020900587,387,2,46,4,9:29 PM,11:38,,,MISS Robinson 8' Running Jump Shot,,
+0020900587,388,4,0,4,9:29 PM,11:37,,,Jeffries REBOUND (Off:1 Def:3),,
+0020900587,389,1,5,4,9:29 PM,11:32,,,Hill  Layup (2 PTS) (Robinson 2 AST),62 - 77,15
+0020900587,390,6,2,4,9:29 PM,11:32,Villanueva S.FOUL (P4.T1),,,,
+0020900587,391,3,10,4,9:30 PM,11:32,,,MISS Hill Free Throw 1 of 1,,
+0020900587,393,4,0,4,9:30 PM,11:31,Daye REBOUND (Off:1 Def:2),,,,
+0020900587,394,2,1,4,9:30 PM,11:09,MISS Maxiell 21' Jump Shot,,,,
+0020900587,395,4,0,4,9:30 PM,11:08,,,Lee REBOUND (Off:2 Def:9),,
+0020900587,396,2,1,4,9:30 PM,10:57,,,MISS Hill 17' Jump Shot,,
+0020900587,397,4,0,4,9:30 PM,10:56,,,Jeffries REBOUND (Off:2 Def:3),,
+0020900587,398,1,5,4,9:30 PM,10:53,,,Jeffries  Layup (4 PTS),64 - 77,13
+0020900587,399,6,2,4,9:30 PM,10:53,Daye S.FOUL (P4.T2),,,,
+0020900587,400,3,10,4,9:31 PM,10:53,,,MISS Jeffries Free Throw 1 of 1,,
+0020900587,402,4,0,4,9:31 PM,10:52,Stuckey REBOUND (Off:0 Def:3),,,,
+0020900587,403,1,42,4,9:31 PM,10:33,Stuckey  Driving Layup (19 PTS) (Villanueva 1 AST),,,64 - 79,15
+0020900587,404,2,1,4,9:31 PM,10:16,,,MISS Hill 18' Jump Shot,,
+0020900587,405,4,0,4,9:31 PM,10:15,Maxiell REBOUND (Off:2 Def:3),,,,
+0020900587,406,2,1,4,9:32 PM,9:54,MISS Villanueva 18' Jump Shot,,,,
+0020900587,407,4,0,4,9:32 PM,9:53,,,Gallinari REBOUND (Off:0 Def:4),,
+0020900587,408,1,79,4,9:32 PM,9:42,,,Robinson 20' Pullup Jump Shot (2 PTS),66 - 79,13
+0020900587,409,2,1,4,9:32 PM,9:18,MISS Stuckey 16' Jump Shot,,,,
+0020900587,410,4,0,4,9:32 PM,9:17,Villanueva REBOUND (Off:1 Def:5),,,,
+0020900587,411,2,5,4,9:32 PM,9:15,MISS Villanueva  Layup,,,,
+0020900587,412,4,0,4,9:32 PM,9:14,Villanueva REBOUND (Off:2 Def:5),,,,
+0020900587,415,2,5,4,9:33 PM,9:12,MISS Villanueva  Layup,,,,
+0020900587,416,4,0,4,9:33 PM,9:12,PISTONS Rebound,,,,
+0020900587,417,6,3,4,9:33 PM,9:12,,,Lee L.B.FOUL (P4.T1),,
+0020900587,418,8,0,4,9:33 PM,9:12,SUB: Hamilton FOR Daye,,,,
+0020900587,419,8,0,4,9:33 PM,9:12,SUB: Wallace FOR Maxiell,,,,
+0020900587,420,6,2,4,9:33 PM,8:57,,,Gallinari S.FOUL (P4.T2),,
+0020900587,421,9,4,4,9:34 PM,8:57,,,,,
+0020900587,423,8,0,4,9:36 PM,8:57,,,SUB: Chandler FOR Jeffries,,
+0020900587,424,3,11,4,9:36 PM,8:57,Stuckey Free Throw 1 of 2 (20 PTS),,,66 - 80,14
+0020900587,426,3,12,4,9:37 PM,8:57,MISS Stuckey Free Throw 2 of 2,,,,
+0020900587,428,4,0,4,9:37 PM,8:55,,,Lee REBOUND (Off:2 Def:10),,
+0020900587,429,2,1,4,9:37 PM,8:35,,,MISS Gallinari 25' 3PT Jump Shot,,
+0020900587,430,4,0,4,9:37 PM,8:34,Villanueva REBOUND (Off:2 Def:6),,,,
+0020900587,431,5,1,4,9:38 PM,8:13,Villanueva Bad Pass Turnover (P4.T14),,Robinson STEAL (2 STL),,
+0020900587,432,5,1,4,9:38 PM,8:10,Atkins STEAL (1 STL),,Robinson Bad Pass Turnover (P2.T19),,
+0020900587,433,6,2,4,9:38 PM,8:09,,,Robinson S.FOUL (P2.T3),,
+0020900587,434,3,11,4,9:38 PM,8:09,Wallace Free Throw 1 of 2 (4 PTS),,,66 - 81,15
+0020900587,436,3,12,4,9:38 PM,8:09,Wallace Free Throw 2 of 2 (5 PTS),,,66 - 82,16
+0020900587,438,1,5,4,9:39 PM,7:53,,,Hill  Layup (4 PTS) (Gallinari 1 AST),68 - 82,14
+0020900587,439,6,4,4,9:39 PM,7:28,Stuckey OFF.Foul (P3),,,,
+0020900587,440,5,5,4,9:39 PM,7:28,Stuckey Foul Turnover (P3.T15),,,,
+0020900587,441,6,2,4,9:39 PM,7:20,Hamilton S.FOUL (P2.T3),,,,
+0020900587,442,3,11,4,9:40 PM,7:20,,,Gallinari Free Throw 1 of 2 (19 PTS),69 - 82,13
+0020900587,444,3,12,4,9:40 PM,7:20,,,Gallinari Free Throw 2 of 2 (20 PTS),70 - 82,12
+0020900587,446,6,2,4,9:40 PM,7:05,,,Hill S.FOUL (P1.T4),,
+0020900587,447,3,11,4,9:40 PM,7:05,Hamilton Free Throw 1 of 2 (10 PTS),,,70 - 83,13
+0020900587,451,3,12,4,9:41 PM,7:05,Hamilton Free Throw 2 of 2 (11 PTS),,,70 - 84,14
+0020900587,453,2,5,4,9:41 PM,6:50,Villanueva BLOCK (2 BLK),,MISS Robinson  Layup,,
+0020900587,454,4,0,4,9:41 PM,6:48,,,Robinson REBOUND (Off:2 Def:0),,
+0020900587,455,1,1,4,9:41 PM,6:43,,,Lee 20' Jump Shot (26 PTS) (Robinson 3 AST),72 - 84,12
+0020900587,456,2,1,4,9:42 PM,6:17,MISS Atkins 26' 3PT Jump Shot,,,,
+0020900587,457,4,0,4,9:42 PM,6:16,,,Hill REBOUND (Off:0 Def:1),,
+0020900587,458,1,5,4,9:42 PM,6:05,,,Gallinari  Layup (22 PTS) (Lee 7 AST),74 - 84,10
+0020900587,460,9,1,4,9:42 PM,6:02,PISTONS Timeout: Regular (Full 4 Short 0),,,,
+0020900587,461,8,0,4,9:45 PM,6:02,SUB: Jerebko FOR Atkins,,,,
+0020900587,462,2,1,4,9:45 PM,5:39,MISS Stuckey 20' Jump Shot,,,,
+0020900587,463,4,0,4,9:45 PM,5:37,,,Hill REBOUND (Off:0 Def:2),,
+0020900587,464,2,1,4,9:45 PM,5:20,,,MISS Gallinari 20' Jump Shot,,
+0020900587,465,4,0,4,9:45 PM,5:19,,,Lee REBOUND (Off:3 Def:10),,
+0020900587,466,1,1,4,9:45 PM,5:14,,,Robinson 27' 3PT Jump Shot (5 PTS) (Lee 8 AST),77 - 84,7
+0020900587,467,2,3,4,9:46 PM,4:51,MISS Villanueva 10' Hook Shot,,,,
+0020900587,468,4,0,4,9:46 PM,4:50,Wallace REBOUND (Off:3 Def:2),,,,
+0020900587,469,1,3,4,9:46 PM,4:42,Villanueva 6' Hook Shot (17 PTS) (Wallace 2 AST),,,77 - 86,9
+0020900587,470,2,1,4,9:46 PM,4:36,,,MISS Lee 21' Jump Shot,,
+0020900587,471,4,0,4,9:46 PM,4:35,Villanueva REBOUND (Off:2 Def:7),,,,
+0020900587,472,2,1,4,9:46 PM,4:17,MISS Villanueva 26' 3PT Jump Shot,,,,
+0020900587,473,4,0,4,9:46 PM,4:16,,,Lee REBOUND (Off:3 Def:11),,
+0020900587,474,2,1,4,9:47 PM,4:07,,,MISS Chandler 19' Jump Shot,,
+0020900587,475,4,0,4,9:47 PM,4:06,,,Lee REBOUND (Off:4 Def:11),,
+0020900587,476,1,1,4,9:47 PM,4:02,,,Robinson 28' 3PT Jump Shot (8 PTS) (Lee 9 AST),80 - 86,6
+0020900587,477,6,4,4,9:47 PM,3:37,Wallace OFF.Foul (P1),,,,
+0020900587,478,5,5,4,9:47 PM,3:37,Wallace Foul Turnover (P2.T16),,,,
+0020900587,479,2,5,4,9:47 PM,3:26,,,MISS Robinson  Layup,,
+0020900587,480,4,0,4,9:47 PM,3:24,Wallace REBOUND (Off:3 Def:3),,,,
+0020900587,481,2,1,4,9:48 PM,3:13,MISS Jerebko 24' 3PT Jump Shot,,,,
+0020900587,482,4,0,4,9:48 PM,3:12,Villanueva REBOUND (Off:3 Def:7),,,,
+0020900587,483,6,1,4,9:48 PM,3:12,,,Robinson P.FOUL (P3.PN),,
+0020900587,484,3,11,4,9:48 PM,3:12,Villanueva Free Throw 1 of 2 (18 PTS),,,80 - 87,7
+0020900587,486,3,12,4,9:48 PM,3:12,Villanueva Free Throw 2 of 2 (19 PTS),,,80 - 88,8
+0020900587,488,1,47,4,9:49 PM,2:57,,,Hill 9' Turnaround Jump Shot (6 PTS) (Robinson 4 AST),82 - 88,6
+0020900587,489,2,5,4,9:49 PM,2:32,MISS Wallace  Layup,,,,
+0020900587,490,4,0,4,9:49 PM,2:31,Wallace REBOUND (Off:4 Def:3),,,,
+0020900587,491,6,2,4,9:49 PM,2:31,,,Hill S.FOUL (P2.PN),,
+0020900587,492,9,1,4,9:49 PM,2:31,,,Knicks Timeout: Regular (Reg.4 Short 0),,
+0020900587,494,3,11,4,9:52 PM,2:31,MISS Wallace Free Throw 1 of 2,,,,
+0020900587,495,4,1,4,9:52 PM,2:31,PISTONS Rebound,,,,
+0020900587,496,3,12,4,9:52 PM,2:31,MISS Wallace Free Throw 2 of 2,,,,
+0020900587,498,4,0,4,9:52 PM,2:30,Jerebko REBOUND (Off:3 Def:2),,,,
+0020900587,499,2,1,4,9:53 PM,2:10,MISS Hamilton 27' 3PT Jump Shot,,,,
+0020900587,500,4,0,4,9:53 PM,2:09,,,Hill REBOUND (Off:0 Def:3),,
+0020900587,501,2,5,4,9:53 PM,1:49,Wallace BLOCK (4 BLK),,MISS Chandler  Layup,,
+0020900587,502,4,0,4,9:53 PM,1:47,Stuckey REBOUND (Off:0 Def:4),,,,
+0020900587,503,2,5,4,9:53 PM,1:34,MISS Stuckey  Layup,,Hill BLOCK (1 BLK),,
+0020900587,504,4,0,4,9:53 PM,1:32,Hamilton REBOUND (Off:3 Def:2),,,,
+0020900587,505,1,5,4,9:53 PM,1:24,Hamilton  Layup (13 PTS) (Wallace 3 AST),,,82 - 90,8
+0020900587,506,9,1,4,9:53 PM,1:24,,,Knicks Timeout: Regular (Reg.5 Short 0),,
+0020900587,507,1,1,4,9:56 PM,1:21,,,Robinson 24' 3PT Jump Shot (11 PTS) (Gallinari 2 AST),85 - 90,5
+0020900587,508,2,1,4,9:56 PM,0:59,MISS Hamilton 18' Jump Shot,,,,
+0020900587,509,4,0,4,9:56 PM,0:58,,,Lee REBOUND (Off:4 Def:12),,
+0020900587,510,1,1,4,9:56 PM,0:48,,,Gallinari 20' Jump Shot (24 PTS) (Robinson 5 AST),87 - 90,3
+0020900587,511,9,1,4,9:57 PM,0:39,PISTONS Timeout: Regular (Full 5 Short 0),,,,
+0020900587,513,2,3,4,9:59 PM,0:27,MISS Villanueva 9' Hook Shot,,,,
+0020900587,514,4,0,4,9:59 PM,0:27,,,Lee REBOUND (Off:4 Def:13),,
+0020900587,515,9,2,4,9:59 PM,0:27,,,Knicks Timeout: Short (Reg.5 Short 1),,
+0020900587,516,2,66,4,10:01 PM,0:19,,,MISS Robinson 16' Jump Bank Shot,,
+0020900587,517,4,0,4,10:01 PM,0:17,PISTONS Rebound,,,,
+0020900587,518,18,0,4,10:01 PM,0:17,,,,87 - 90,3
+0020900587,519,8,0,4,10:02 PM,0:17,,,SUB: Jeffries FOR Gallinari,,
+0020900587,520,6,1,4,10:03 PM,0:17,,,Robinson P.FOUL (P4.PN),,
+0020900587,522,3,11,4,10:03 PM,0:17,Hamilton Free Throw 1 of 2 (14 PTS),,,87 - 91,4
+0020900587,526,8,0,4,10:03 PM,0:17,,,SUB: Gallinari FOR Jeffries,,
+0020900587,527,3,12,4,10:03 PM,0:17,Hamilton Free Throw 2 of 2 (15 PTS),,,87 - 92,5
+0020900587,529,6,2,4,10:04 PM,0:17,Jerebko S.FOUL (P4.T4),,,,
+0020900587,530,3,13,4,10:04 PM,0:17,,,Gallinari Free Throw 1 of 3 (25 PTS),88 - 92,4
+0020900587,532,3,14,4,10:05 PM,0:17,,,Gallinari Free Throw 2 of 3 (26 PTS),89 - 92,3
+0020900587,534,3,15,4,10:05 PM,0:17,,,Gallinari Free Throw 3 of 3 (27 PTS),90 - 92,2
+0020900587,536,9,2,4,10:05 PM,0:17,PISTONS Timeout: Short (Full 5 Short 1),,,,
+0020900587,537,8,0,4,10:06 PM,0:17,SUB: Atkins FOR Wallace,,,,
+0020900587,538,8,0,4,10:06 PM,0:17,,,SUB: Jeffries FOR Gallinari,,
+0020900587,539,6,1,4,10:07 PM,0:09,,,Robinson P.FOUL (P5.PN),,
+0020900587,540,3,11,4,10:07 PM,0:09,Atkins Free Throw 1 of 2 (9 PTS),,,90 - 93,3
+0020900587,542,8,0,4,10:07 PM,0:09,SUB: Wallace FOR Villanueva,,,,
+0020900587,543,3,12,4,10:07 PM,0:09,Atkins Free Throw 2 of 2 (10 PTS),,,90 - 94,4
+0020900587,545,9,2,4,10:08 PM,0:09,,,Knicks Timeout: Short (Reg.5 Short 2),,
+0020900587,546,8,0,4,10:08 PM,0:09,SUB: Villanueva FOR Atkins,,,,
+0020900587,549,8,0,4,10:08 PM,0:09,,,SUB: Gallinari FOR Jeffries,,
+0020900587,547,2,1,4,10:09 PM,0:09,,,MISS Gallinari 26' 3PT Jump Shot,,
+0020900587,548,4,0,4,10:09 PM,0:07,Hamilton REBOUND (Off:3 Def:3),,,,
+0020900587,550,13,0,4,10:10 PM,0:00,,,,90 - 94,4

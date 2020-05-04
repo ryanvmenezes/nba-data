@@ -1,0 +1,459 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020400886,0,12,0,1,7:12 PM,12:00,,,,,
+0020400886,1,10,0,1,7:12 PM,12:00,Jump Ball Dalembert vs. Foyle: Tip to Dunleavy,,,,
+0020400886,2,5,1,1,7:12 PM,11:44,Iverson STEAL (1 STL),,Richardson Bad Pass Turnover (P1.T1),,
+0020400886,3,1,1,1,7:12 PM,11:38,Korver 25' 3PT Jump Shot (3 PTS) (Iverson 1 AST),,,0 - 3,3
+0020400886,4,5,2,1,7:13 PM,11:23,Korver STEAL (1 STL),,Fisher Lost Ball Turnover (P1.T2),,
+0020400886,5,1,42,1,7:13 PM,11:17,Iverson  Driving Layup (2 PTS),,,0 - 5,5
+0020400886,6,5,2,1,7:13 PM,10:56,Iguodala STEAL (1 STL),,Richardson Lost Ball Turnover (P2.T3),,
+0020400886,7,2,1,1,7:13 PM,10:47,MISS Iverson 5' Jump Shot,,,,
+0020400886,8,4,0,1,7:13 PM,10:46,Webber REBOUND (Off:1 Def:0),,,,
+0020400886,9,1,1,1,7:13 PM,10:41,Korver 26' 3PT Jump Shot (6 PTS) (Webber 1 AST),,,0 - 8,8
+0020400886,10,2,1,1,7:14 PM,10:18,Webber BLOCK (1 BLK),,MISS Dunleavy 5' Jump Shot,,
+0020400886,12,10,0,1,7:14 PM,10:18,Jump Ball Webber vs. Dunleavy: Tip to Murphy,,,,
+0020400886,13,4,0,1,7:14 PM,10:18,,,Dunleavy REBOUND (Off:1 Def:0),,
+0020400886,14,1,7,1,7:14 PM,10:13,,,Murphy  Dunk (2 PTS),2 - 8,6
+0020400886,15,6,1,1,7:14 PM,10:03,,,Richardson P.FOUL (P1.T1),,
+0020400886,16,2,1,1,7:15 PM,9:57,MISS Iverson 25' 3PT Jump Shot,,,,
+0020400886,17,4,0,1,7:15 PM,9:56,,,Fisher REBOUND (Off:0 Def:1),,
+0020400886,18,1,1,1,7:15 PM,9:45,,,Fisher 27' 3PT Jump Shot (3 PTS) (Dunleavy 1 AST),5 - 8,3
+0020400886,19,1,1,1,7:15 PM,9:31,Webber 17' Jump Shot (2 PTS),,,5 - 10,5
+0020400886,20,2,1,1,7:15 PM,9:15,,,MISS Richardson 14' Jump Shot,,
+0020400886,21,4,0,1,7:15 PM,9:12,,,Foyle REBOUND (Off:1 Def:0),,
+0020400886,22,2,1,1,7:15 PM,9:06,,,MISS Dunleavy 25' 3PT Jump Shot,,
+0020400886,23,4,0,1,7:15 PM,9:05,,,Murphy REBOUND (Off:1 Def:0),,
+0020400886,24,1,1,1,7:16 PM,9:02,,,Murphy 12' Jump Shot (4 PTS),7 - 10,3
+0020400886,25,2,1,1,7:16 PM,8:47,MISS Webber 16' Jump Shot,,,,
+0020400886,26,4,0,1,7:16 PM,8:47,76ERS Rebound,,,,
+0020400886,27,2,1,1,7:16 PM,8:44,MISS Korver 27' 3PT Jump Shot,,,,
+0020400886,28,4,0,1,7:16 PM,8:42,,,Fisher REBOUND (Off:0 Def:2),,
+0020400886,29,1,41,1,7:17 PM,8:33,,,Dunleavy  Running Layup (2 PTS) (Richardson 1 AST),9 - 10,1
+0020400886,30,2,1,1,7:17 PM,8:14,MISS Korver 24' 3PT Jump Shot,,,,
+0020400886,31,4,0,1,7:17 PM,8:13,,,Murphy REBOUND (Off:1 Def:1),,
+0020400886,32,1,1,1,7:17 PM,8:07,,,Richardson 25' 3PT Jump Shot (3 PTS) (Dunleavy 2 AST),12 - 10,-2
+0020400886,33,2,1,1,7:17 PM,7:50,MISS Webber 15' Jump Shot,,,,
+0020400886,34,4,0,1,7:17 PM,7:49,,,Richardson REBOUND (Off:0 Def:1),,
+0020400886,35,2,1,1,7:17 PM,7:39,,,MISS Murphy 16' Jump Shot,,
+0020400886,36,4,0,1,7:17 PM,7:38,Iguodala REBOUND (Off:0 Def:1),,,,
+0020400886,37,1,1,1,7:18 PM,7:32,Iverson 11' Jump Shot (4 PTS) (Iguodala 1 AST),,,12 - 12,TIE
+0020400886,38,1,1,1,7:18 PM,7:11,,,Murphy 16' Jump Shot (6 PTS) (Richardson 2 AST),14 - 12,-2
+0020400886,39,2,1,1,7:18 PM,6:49,MISS Iverson 25' 3PT Jump Shot,,,,
+0020400886,40,4,0,1,7:18 PM,6:48,,,Foyle REBOUND (Off:1 Def:1),,
+0020400886,41,6,2,1,7:19 PM,6:31,Webber S.FOUL (P1.T1),,,,
+0020400886,42,3,11,1,7:19 PM,6:31,,,Murphy Free Throw 1 of 2 (7 PTS),15 - 12,-3
+0020400886,43,3,12,1,7:19 PM,6:31,,,Murphy Free Throw 2 of 2 (8 PTS),16 - 12,-4
+0020400886,44,1,1,1,7:20 PM,6:19,Korver 20' Jump Shot (8 PTS) (Webber 2 AST),,,16 - 14,-2
+0020400886,45,6,17,1,7:20 PM,6:05,76ERS T.Foul (Def. 3 Sec Webber ),,,,
+0020400886,46,3,16,1,7:20 PM,6:05,,,Fisher Free Throw Technical (4 PTS),17 - 14,-3
+0020400886,47,2,1,1,7:21 PM,5:57,,,MISS Richardson 26' 3PT Jump Shot,,
+0020400886,48,4,0,1,7:21 PM,5:55,Dalembert REBOUND (Off:0 Def:1),,,,
+0020400886,49,6,1,1,7:21 PM,5:48,,,Fisher P.FOUL (P1.T2),,
+0020400886,50,9,1,1,7:21 PM,5:48,76ERS Timeout: Regular (Full 1 Short 0),,,,
+0020400886,51,1,1,1,7:23 PM,5:40,Korver 18' Jump Shot (10 PTS) (Webber 3 AST),,,17 - 16,-1
+0020400886,52,2,1,1,7:24 PM,5:23,,,MISS Dunleavy 26' 3PT Jump Shot,,
+0020400886,53,4,0,1,7:24 PM,5:21,Dalembert REBOUND (Off:0 Def:2),,,,
+0020400886,54,6,2,1,7:24 PM,5:17,,,Fisher S.FOUL (P2.T3),,
+0020400886,55,3,11,1,7:24 PM,5:17,Iverson Free Throw 1 of 2 (5 PTS),,,17 - 17,TIE
+0020400886,56,8,0,1,7:24 PM,5:17,,,SUB: Davis FOR Fisher,,
+0020400886,57,3,12,1,7:24 PM,5:17,Iverson Free Throw 2 of 2 (6 PTS),,,17 - 18,1
+0020400886,58,2,1,1,7:25 PM,4:54,,,MISS Davis 25' 3PT Jump Shot,,
+0020400886,59,4,0,1,7:25 PM,4:52,,,Murphy REBOUND (Off:2 Def:1),,
+0020400886,60,2,1,1,7:25 PM,4:41,,,MISS Murphy 19' Jump Shot,,
+0020400886,61,4,0,1,7:25 PM,4:39,Webber REBOUND (Off:1 Def:1),,,,
+0020400886,62,2,1,1,7:26 PM,4:27,MISS Dalembert 17' Jump Shot,,Foyle BLOCK (1 BLK),,
+0020400886,63,4,0,1,7:26 PM,4:25,Dalembert REBOUND (Off:1 Def:2),,,,
+0020400886,64,1,63,1,7:26 PM,4:23,Dalembert 16' Fadeaway Jumper (2 PTS),,,17 - 20,3
+0020400886,65,2,5,1,7:26 PM,4:12,,,MISS Richardson  Layup,,
+0020400886,66,4,0,1,7:26 PM,4:11,Iguodala REBOUND (Off:0 Def:2),,,,
+0020400886,67,5,1,1,7:26 PM,4:02,Iverson Bad Pass Turnover (P1.T1),,Foyle STEAL (1 STL),,
+0020400886,68,1,5,1,7:26 PM,3:55,,,Dunleavy  Layup (4 PTS) (Richardson 3 AST),19 - 20,1
+0020400886,69,5,1,1,7:26 PM,3:31,Iverson Bad Pass Turnover (P2.T2),,Richardson STEAL (1 STL),,
+0020400886,70,5,1,1,7:27 PM,3:20,Dalembert STEAL (1 STL),,Davis Bad Pass Turnover (P1.T4),,
+0020400886,71,5,1,1,7:27 PM,3:14,Korver Bad Pass Turnover (P1.T3),,,,
+0020400886,72,6,1,1,7:28 PM,2:52,Webber P.FOUL (P2.T2),,,,
+0020400886,73,9,1,1,7:28 PM,2:52,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020400886,74,8,0,1,7:30 PM,2:52,SUB: McKie FOR Webber,,,,
+0020400886,75,8,0,1,7:30 PM,2:52,SUB: Rogers FOR Iguodala,,,,
+0020400886,77,1,1,1,7:30 PM,2:37,,,Richardson 25' 3PT Jump Shot (6 PTS) (Dunleavy 3 AST),22 - 20,-2
+0020400886,78,2,1,1,7:31 PM,2:11,MISS Iverson 25' 3PT Jump Shot,,,,
+0020400886,79,4,0,1,7:31 PM,2:10,,,Dunleavy REBOUND (Off:1 Def:1),,
+0020400886,80,5,1,1,7:31 PM,2:06,McKie STEAL (1 STL),,Richardson Bad Pass Turnover (P3.T5),,
+0020400886,81,2,1,1,7:31 PM,1:56,MISS Dalembert 5' Jump Shot,,,,
+0020400886,82,4,0,1,7:31 PM,1:55,,,Richardson REBOUND (Off:0 Def:2),,
+0020400886,83,2,1,1,7:31 PM,1:45,,,MISS Murphy 18' Jump Shot,,
+0020400886,84,4,0,1,7:31 PM,1:43,Dalembert REBOUND (Off:1 Def:3),,,,
+0020400886,85,5,2,1,7:32 PM,1:26,Rogers Lost Ball Turnover (P1.T4),,Foyle STEAL (2 STL),,
+0020400886,86,2,5,1,7:32 PM,1:20,McKie BLOCK (1 BLK),,MISS Murphy  Layup,,
+0020400886,87,4,0,1,7:32 PM,1:18,McKie REBOUND (Off:0 Def:1),,,,
+0020400886,88,2,44,1,7:32 PM,1:13,MISS Iverson  Reverse Layup,,,,
+0020400886,89,4,0,1,7:32 PM,1:12,,,Foyle REBOUND (Off:1 Def:2),,
+0020400886,90,2,5,1,7:32 PM,1:01,McKie BLOCK (2 BLK),,MISS Dunleavy  Layup,,
+0020400886,91,4,0,1,7:32 PM,0:59,McKie REBOUND (Off:0 Def:2),,,,
+0020400886,92,1,46,1,7:32 PM,0:54,Iverson 7' Running Jump Shot (8 PTS),,,22 - 22,TIE
+0020400886,93,2,1,1,7:32 PM,0:41,,,MISS Murphy 6' Jump Shot,,
+0020400886,94,4,0,1,7:32 PM,0:39,Rogers REBOUND (Off:0 Def:1),,,,
+0020400886,95,5,2,1,7:33 PM,0:34,Iverson Lost Ball Turnover (P3.T5),,Davis STEAL (1 STL),,
+0020400886,96,1,42,1,7:33 PM,0:30,,,Davis  Driving Layup (2 PTS),24 - 22,-2
+0020400886,97,6,2,1,7:33 PM,0:10,,,Foyle S.FOUL (P1.T4),,
+0020400886,98,8,0,1,7:33 PM,0:10,SUB: Jackson FOR Korver,,,,
+0020400886,99,8,0,1,7:33 PM,0:10,,,SUB: Cabarkapa FOR Foyle,,
+0020400886,100,8,0,1,7:33 PM,0:10,,,SUB: Biedrins FOR Murphy,,
+0020400886,102,8,0,1,7:34 PM,0:10,SUB: Iguodala FOR Dalembert,,,,
+0020400886,104,3,11,1,7:34 PM,0:10,MISS Iverson Free Throw 1 of 2,,,,
+0020400886,105,4,1,1,7:34 PM,0:10,76ERS Rebound,,,,
+0020400886,106,3,12,1,7:34 PM,0:10,Iverson Free Throw 2 of 2 (9 PTS),,,24 - 23,-1
+0020400886,107,6,1,1,7:34 PM,0:05,Iverson P.FOUL (P1.T3),,,,
+0020400886,110,5,1,1,7:34 PM,0:01,,,Davis Bad Pass Turnover (P2.T6),,
+0020400886,111,5,1,1,7:35 PM,0:00,Iguodala Bad Pass Turnover (P1.T6),,Dunleavy STEAL (1 STL),,
+0020400886,113,13,0,1,7:35 PM,0:00,,,,24 - 23,-1
+0020400886,115,12,0,2,7:37 PM,12:00,,,,24 - 23,-1
+0020400886,116,5,1,2,7:38 PM,11:49,Iguodala Bad Pass Turnover (P2.T7),,Dunleavy STEAL (2 STL),,
+0020400886,117,2,1,2,7:38 PM,11:38,,,MISS Dunleavy 24' 3PT Jump Shot,,
+0020400886,118,4,0,2,7:38 PM,11:36,,,Cabarkapa REBOUND (Off:1 Def:0),,
+0020400886,119,1,3,2,7:38 PM,11:34,,,Cabarkapa 5' Hook Shot (2 PTS),26 - 23,-3
+0020400886,120,5,2,2,7:38 PM,11:11,Rogers Lost Ball Turnover (P2.T8),,Biedrins STEAL (1 STL),,
+0020400886,121,2,1,2,7:38 PM,11:02,,,MISS Cabarkapa 7' Jump Shot,,
+0020400886,122,4,0,2,7:38 PM,11:01,Iverson REBOUND (Off:0 Def:1),,,,
+0020400886,123,5,2,2,7:38 PM,10:59,Iverson Lost Ball Turnover (P4.T9),,Richardson STEAL (2 STL),,
+0020400886,124,1,47,2,7:38 PM,10:55,,,Richardson 8' Turnaround Jump Shot (8 PTS),28 - 23,-5
+0020400886,125,2,1,2,7:39 PM,10:41,MISS Rogers 26' 3PT Jump Shot,,,,
+0020400886,126,4,0,2,7:39 PM,10:41,,,Warriors Rebound,,
+0020400886,127,6,3,2,7:39 PM,10:41,Jackson L.B.FOUL (P1.T1),,,,
+0020400886,128,8,0,2,7:39 PM,10:41,,,SUB: Pietrus FOR Dunleavy,,
+0020400886,129,5,1,2,7:39 PM,10:24,Iverson STEAL (2 STL),,Cabarkapa Bad Pass Turnover (P1.T7),,
+0020400886,130,1,42,2,7:39 PM,10:21,Iverson  Driving Layup (11 PTS),,,28 - 25,-3
+0020400886,131,1,1,2,7:40 PM,9:51,,,Pietrus 26' 3PT Jump Shot (3 PTS) (Davis 1 AST),31 - 25,-6
+0020400886,132,6,2,2,7:40 PM,9:30,,,Biedrins S.FOUL (P1.T1),,
+0020400886,133,3,11,2,7:41 PM,9:30,Jackson Free Throw 1 of 2 (1 PTS),,,31 - 26,-5
+0020400886,134,3,12,2,7:41 PM,9:30,MISS Jackson Free Throw 2 of 2,,,,
+0020400886,135,4,0,2,7:41 PM,9:30,Rogers REBOUND (Off:1 Def:1),,,,
+0020400886,136,1,4,2,7:41 PM,9:30,Rogers  Tip Shot (2 PTS),,,31 - 28,-3
+0020400886,137,2,1,2,7:41 PM,9:14,,,MISS Richardson 11' Jump Shot,,
+0020400886,138,4,0,2,7:41 PM,9:13,Rogers REBOUND (Off:1 Def:2),,,,
+0020400886,139,1,52,2,7:42 PM,9:09,Iguodala  Alley Oop Dunk (2 PTS) (Iverson 2 AST),,,31 - 30,-1
+0020400886,140,1,1,2,7:42 PM,8:54,,,Pietrus 25' 3PT Jump Shot (6 PTS) (Richardson 4 AST),34 - 30,-4
+0020400886,141,1,1,2,7:42 PM,8:38,McKie 21' Jump Shot (2 PTS),,,34 - 32,-2
+0020400886,142,9,4,2,7:42 PM,8:25,,,,,
+0020400886,144,8,0,2,7:44 PM,8:25,,,SUB: Foyle FOR Biedrins,,
+0020400886,145,2,1,2,7:45 PM,8:19,,,MISS Davis 25' 3PT Jump Shot,,
+0020400886,146,4,0,2,7:45 PM,8:17,Jackson REBOUND (Off:0 Def:1),,,,
+0020400886,147,6,2,2,7:45 PM,8:04,,,Pietrus S.FOUL (P1.T2),,
+0020400886,148,3,11,2,7:45 PM,8:04,Iverson Free Throw 1 of 2 (12 PTS),,,34 - 33,-1
+0020400886,149,8,0,2,7:45 PM,8:04,SUB: Webber FOR Jackson,,,,
+0020400886,150,8,0,2,7:45 PM,8:04,SUB: Korver FOR McKie,,,,
+0020400886,151,3,12,2,7:45 PM,8:04,Iverson Free Throw 2 of 2 (13 PTS),,,34 - 34,TIE
+0020400886,152,5,2,2,7:46 PM,7:49,Rogers STEAL (1 STL),,Richardson Lost Ball Turnover (P4.T8),,
+0020400886,153,1,49,2,7:46 PM,7:37,Rogers  Driving Dunk (4 PTS) (Iverson 3 AST),,,34 - 36,2
+0020400886,154,1,46,2,7:46 PM,7:17,,,Davis 7' Running Jump Shot (4 PTS),36 - 36,TIE
+0020400886,155,2,3,2,7:47 PM,6:59,MISS Rogers 4' Hook Shot,,,,
+0020400886,156,4,0,2,7:47 PM,6:58,,,Davis REBOUND (Off:0 Def:1),,
+0020400886,157,2,1,2,7:47 PM,6:45,,,MISS Richardson 25' 3PT Jump Shot,,
+0020400886,158,4,0,2,7:47 PM,6:44,,,Warriors Rebound,,
+0020400886,159,6,3,2,7:47 PM,6:44,Rogers L.B.FOUL (P1.T2),,,,
+0020400886,160,8,0,2,7:47 PM,6:44,,,SUB: Murphy FOR Richardson,,
+0020400886,161,8,0,2,7:47 PM,6:44,,,SUB: Dunleavy FOR Cabarkapa,,
+0020400886,162,2,1,2,7:48 PM,6:37,,,MISS Davis 26' 3PT Jump Shot,,
+0020400886,163,4,0,2,7:48 PM,6:36,Iguodala REBOUND (Off:0 Def:3),,,,
+0020400886,164,2,1,2,7:48 PM,6:30,MISS Iverson 18' Jump Shot,,,,
+0020400886,165,4,0,2,7:48 PM,6:28,,,Dunleavy REBOUND (Off:1 Def:2),,
+0020400886,166,1,1,2,7:48 PM,6:18,,,Pietrus 22' Jump Shot (8 PTS) (Davis 2 AST),38 - 36,-2
+0020400886,167,2,3,2,7:48 PM,5:52,MISS Webber 9' Hook Shot,,,,
+0020400886,168,4,0,2,7:48 PM,5:51,,,Foyle REBOUND (Off:1 Def:3),,
+0020400886,169,6,2,2,7:48 PM,5:45,Iguodala S.FOUL (P1.T3),,,,
+0020400886,170,9,1,2,7:49 PM,5:45,76ERS Timeout: Regular (Full 2 Short 0),,,,
+0020400886,172,8,0,2,7:50 PM,5:45,,,SUB: Fisher FOR Davis,,
+0020400886,173,8,0,2,7:51 PM,5:45,SUB: Dalembert FOR Rogers,,,,
+0020400886,174,3,11,2,7:51 PM,5:45,,,Dunleavy Free Throw 1 of 2 (5 PTS),39 - 36,-3
+0020400886,175,3,12,2,7:51 PM,5:45,,,Dunleavy Free Throw 2 of 2 (6 PTS),40 - 36,-4
+0020400886,177,2,1,2,7:51 PM,5:33,MISS Korver 25' 3PT Jump Shot,,,,
+0020400886,178,4,0,2,7:51 PM,5:31,,,Fisher REBOUND (Off:0 Def:3),,
+0020400886,179,6,2,2,7:51 PM,5:26,Iguodala S.FOUL (P2.T4),,,,
+0020400886,180,3,11,2,7:52 PM,5:26,,,Pietrus Free Throw 1 of 2 (9 PTS),41 - 36,-5
+0020400886,181,3,12,2,7:52 PM,5:26,,,Pietrus Free Throw 2 of 2 (10 PTS),42 - 36,-6
+0020400886,182,5,2,2,7:52 PM,5:12,Iguodala Lost Ball Turnover (P3.T10),,Pietrus STEAL (1 STL),,
+0020400886,183,2,1,2,7:52 PM,5:04,,,MISS Dunleavy 8' Jump Shot,,
+0020400886,184,4,0,2,7:52 PM,5:02,Iverson REBOUND (Off:0 Def:2),,,,
+0020400886,185,2,1,2,7:53 PM,4:48,MISS Iverson 8' Jump Shot,,,,
+0020400886,186,4,0,2,7:53 PM,4:47,,,Fisher REBOUND (Off:0 Def:4),,
+0020400886,187,1,1,2,7:53 PM,4:40,,,Dunleavy 17' Jump Shot (8 PTS) (Fisher 1 AST),44 - 36,-8
+0020400886,188,9,2,2,7:53 PM,4:32,76ERS Timeout: Short (Full 2 Short 1),,,,
+0020400886,189,1,5,2,7:54 PM,4:23,Webber  Layup (4 PTS),,,44 - 38,-6
+0020400886,190,2,1,2,7:54 PM,4:07,,,MISS Murphy 26' 3PT Jump Shot,,
+0020400886,191,4,0,2,7:54 PM,4:06,Iverson REBOUND (Off:0 Def:3),,,,
+0020400886,192,5,2,2,7:54 PM,4:02,Iverson Lost Ball Turnover (P5.T11),,Pietrus STEAL (2 STL),,
+0020400886,193,1,5,2,7:54 PM,3:58,,,Dunleavy  Layup (10 PTS) (Pietrus 1 AST),46 - 38,-8
+0020400886,194,1,7,2,7:54 PM,3:52,Dalembert  Dunk (4 PTS) (Iverson 4 AST),,,46 - 40,-6
+0020400886,195,6,2,2,7:54 PM,3:52,,,Pietrus S.FOUL (P2.T3),,
+0020400886,196,3,10,2,7:55 PM,3:52,Dalembert Free Throw 1 of 1 (5 PTS),,,46 - 41,-5
+0020400886,197,2,5,2,7:55 PM,3:39,Webber BLOCK (2 BLK),,MISS Murphy  Layup,,
+0020400886,198,10,0,2,7:55 PM,3:39,Jump Ball Webber vs. Murphy: Tip to Iguodala,,,,
+0020400886,199,4,0,2,7:55 PM,3:39,Webber REBOUND (Off:1 Def:2),,,,
+0020400886,200,6,2,2,7:56 PM,3:26,,,Murphy S.FOUL (P1.T4),,
+0020400886,201,3,11,2,7:56 PM,3:26,MISS Dalembert Free Throw 1 of 2,,,,
+0020400886,202,4,1,2,7:56 PM,3:26,76ERS Rebound,,,,
+0020400886,203,3,12,2,7:56 PM,3:26,Dalembert Free Throw 2 of 2 (6 PTS),,,46 - 42,-4
+0020400886,204,1,47,2,7:57 PM,3:06,,,Foyle 5' Turnaround Jump Shot (2 PTS) (Fisher 2 AST),48 - 42,-6
+0020400886,205,6,2,2,7:57 PM,2:53,,,Foyle S.FOUL (P2.PN),,
+0020400886,206,9,1,2,7:57 PM,2:53,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020400886,208,8,0,2,7:59 PM,2:53,SUB: McKie FOR Iguodala,,,,
+0020400886,209,3,11,2,7:59 PM,2:53,Webber Free Throw 1 of 2 (5 PTS),,,48 - 43,-5
+0020400886,210,3,12,2,7:59 PM,2:53,Webber Free Throw 2 of 2 (6 PTS),,,48 - 44,-4
+0020400886,211,2,1,2,8:00 PM,2:39,,,MISS Pietrus 19' Jump Shot,,
+0020400886,212,4,0,2,8:00 PM,2:37,Korver REBOUND (Off:0 Def:1),,,,
+0020400886,213,2,1,2,8:00 PM,2:29,MISS Webber 15' Jump Shot,,,,
+0020400886,214,4,0,2,8:00 PM,2:27,,,Fisher REBOUND (Off:0 Def:5),,
+0020400886,215,2,1,2,8:00 PM,2:17,,,MISS Foyle 16' Jump Shot,,
+0020400886,216,4,0,2,8:00 PM,2:16,McKie REBOUND (Off:0 Def:3),,,,
+0020400886,217,1,42,2,8:01 PM,1:58,Webber  Driving Layup (8 PTS),,,48 - 46,-2
+0020400886,218,2,1,2,8:01 PM,1:38,,,MISS Murphy 25' 3PT Jump Shot,,
+0020400886,219,4,0,2,8:01 PM,1:37,,,Pietrus REBOUND (Off:1 Def:0),,
+0020400886,220,1,1,2,8:01 PM,1:30,,,Fisher 25' 3PT Jump Shot (7 PTS) (Pietrus 2 AST),51 - 46,-5
+0020400886,221,8,0,2,8:02 PM,1:13,,,SUB: Richardson FOR Pietrus,,
+0020400886,222,5,40,2,8:02 PM,1:07,McKie Out of Bounds Lost Ball Turnover (P1.T12),,,,
+0020400886,224,6,2,2,8:02 PM,0:56,Dalembert S.FOUL (P1.PN),,,,
+0020400886,225,3,11,2,8:02 PM,0:56,,,Foyle Free Throw 1 of 2 (3 PTS),52 - 46,-6
+0020400886,226,8,0,2,8:02 PM,0:56,,,SUB: Pietrus FOR Fisher,,
+0020400886,227,3,12,2,8:02 PM,0:56,,,MISS Foyle Free Throw 2 of 2,,
+0020400886,228,4,0,2,8:03 PM,0:55,Webber REBOUND (Off:1 Def:3),,,,
+0020400886,229,6,1,2,8:03 PM,0:44,,,Foyle P.FOUL (P3.PN),,
+0020400886,230,3,11,2,8:03 PM,0:44,Iverson Free Throw 1 of 2 (14 PTS),,,52 - 47,-5
+0020400886,231,8,0,2,8:03 PM,0:44,SUB: Rogers FOR Webber,,,,
+0020400886,232,3,12,2,8:04 PM,0:44,Iverson Free Throw 2 of 2 (15 PTS),,,52 - 48,-4
+0020400886,233,8,0,2,8:04 PM,0:44,,,SUB: Biedrins FOR Foyle,,
+0020400886,235,2,1,2,8:04 PM,0:28,Iverson BLOCK (1 BLK),,MISS Pietrus 5' Jump Shot,,
+0020400886,236,4,0,2,8:04 PM,0:27,Dalembert REBOUND (Off:1 Def:4),,,,
+0020400886,237,6,1,2,8:05 PM,0:07,,,Pietrus P.FOUL (P3.PN),,
+0020400886,238,3,11,2,8:05 PM,0:07,Iverson Free Throw 1 of 2 (16 PTS),,,52 - 49,-3
+0020400886,239,3,12,2,8:05 PM,0:07,Iverson Free Throw 2 of 2 (17 PTS),,,52 - 50,-2
+0020400886,240,8,0,2,8:06 PM,0:07,,,SUB: Fisher FOR Pietrus,,
+0020400886,241,6,2,2,8:06 PM,0:01,Korver S.FOUL (P1.PN),,,,
+0020400886,242,3,11,2,8:06 PM,0:01,,,Dunleavy Free Throw 1 of 2 (11 PTS),53 - 50,-3
+0020400886,243,3,12,2,8:06 PM,0:01,,,MISS Dunleavy Free Throw 2 of 2,,
+0020400886,244,4,0,2,8:06 PM,0:00,Korver REBOUND (Off:0 Def:2),,,,
+0020400886,245,13,0,2,8:06 PM,0:00,,,,53 - 50,-3
+0020400886,247,12,0,3,8:22 PM,12:00,,,,53 - 50,-3
+0020400886,248,2,1,3,8:23 PM,11:45,MISS Iguodala 6' Jump Shot,,,,
+0020400886,249,4,0,3,8:23 PM,11:44,,,Murphy REBOUND (Off:2 Def:2),,
+0020400886,253,5,41,3,8:23 PM,11:30,Iverson STEAL (3 STL),,Dunleavy Poss Lost Ball Turnover (P1.T9),,
+0020400886,251,6,1,3,8:23 PM,11:29,,,Dunleavy P.FOUL (P1.T1),,
+0020400886,254,5,8,3,8:24 PM,11:15,Dalembert 3 Second Violation Turnover (P1.T13),,,,
+0020400886,255,6,1,3,8:24 PM,11:07,Korver P.FOUL (P2.T1),,,,
+0020400886,257,2,1,3,8:25 PM,10:58,,,MISS Richardson 21' Jump Shot,,
+0020400886,258,4,0,3,8:25 PM,10:57,76ERS Rebound,,,,
+0020400886,259,2,1,3,8:25 PM,10:49,MISS Webber 17' Jump Shot,,,,
+0020400886,260,4,0,3,8:25 PM,10:48,,,Fisher REBOUND (Off:0 Def:6),,
+0020400886,261,1,1,3,8:25 PM,10:41,,,Fisher 23' Jump Shot (9 PTS),55 - 50,-5
+0020400886,262,2,1,3,8:25 PM,10:23,MISS Webber 7' Jump Shot,,,,
+0020400886,263,4,0,3,8:25 PM,10:21,,,Foyle REBOUND (Off:1 Def:4),,
+0020400886,264,6,2,3,8:26 PM,10:17,Iguodala S.FOUL (P3.T2),,,,
+0020400886,265,3,11,3,8:26 PM,10:17,,,Dunleavy Free Throw 1 of 2 (12 PTS),56 - 50,-6
+0020400886,266,3,12,3,8:26 PM,10:17,,,MISS Dunleavy Free Throw 2 of 2,,
+0020400886,267,4,0,3,8:26 PM,10:16,Dalembert REBOUND (Off:1 Def:5),,,,
+0020400886,268,5,1,3,8:26 PM,10:08,Iverson Bad Pass Turnover (P6.T14),,Richardson STEAL (3 STL),,
+0020400886,269,1,42,3,8:26 PM,10:04,,,Richardson  Driving Layup (10 PTS),58 - 50,-8
+0020400886,270,2,1,3,8:27 PM,9:53,MISS Iguodala 17' Jump Shot,,,,
+0020400886,271,4,0,3,8:27 PM,9:51,Iguodala REBOUND (Off:1 Def:3),,,,
+0020400886,272,2,1,3,8:27 PM,9:43,MISS Iverson 25' 3PT Jump Shot,,,,
+0020400886,273,4,0,3,8:27 PM,9:42,,,Murphy REBOUND (Off:2 Def:3),,
+0020400886,274,6,1,3,8:27 PM,9:38,Webber P.FOUL (P3.T3),,,,
+0020400886,275,6,2,3,8:27 PM,9:27,Webber S.FOUL (P4.T4),,,,
+0020400886,276,3,11,3,8:27 PM,9:27,,,MISS Murphy Free Throw 1 of 2,,
+0020400886,277,4,1,3,8:27 PM,9:27,,,Warriors Rebound,,
+0020400886,278,3,12,3,8:28 PM,9:27,,,Murphy Free Throw 2 of 2 (9 PTS),59 - 50,-9
+0020400886,279,2,1,3,8:28 PM,9:14,MISS Dalembert 8' Jump Shot,,,,
+0020400886,280,4,0,3,8:28 PM,9:12,,,Dunleavy REBOUND (Off:1 Def:3),,
+0020400886,281,2,1,3,8:28 PM,9:04,,,MISS Murphy 27' 3PT Jump Shot,,
+0020400886,282,4,0,3,8:28 PM,9:02,Iguodala REBOUND (Off:1 Def:4),,,,
+0020400886,283,1,1,3,8:29 PM,8:54,Iverson 17' Jump Shot (19 PTS),,,59 - 52,-7
+0020400886,284,1,1,3,8:29 PM,8:40,,,Richardson 25' 3PT Jump Shot (13 PTS),62 - 52,-10
+0020400886,285,2,5,3,8:29 PM,8:22,MISS Iverson  Layup,,Foyle BLOCK (2 BLK),,
+0020400886,286,4,0,3,8:29 PM,8:20,,,Richardson REBOUND (Off:0 Def:3),,
+0020400886,287,1,5,3,8:29 PM,8:16,,,Foyle  Layup (5 PTS) (Richardson 5 AST),64 - 52,-12
+0020400886,288,9,1,3,8:29 PM,8:14,76ERS Timeout: Regular (Full 3 Short 1),,,,
+0020400886,289,1,1,3,8:31 PM,8:01,Korver 26' 3PT Jump Shot (13 PTS) (Webber 4 AST),,,64 - 55,-9
+0020400886,290,1,42,3,8:32 PM,7:43,,,Richardson  Driving Layup (15 PTS),66 - 55,-11
+0020400886,291,6,1,3,8:32 PM,7:34,,,Dunleavy P.FOUL (P2.T2),,
+0020400886,292,1,42,3,8:32 PM,7:30,Iverson  Driving Layup (21 PTS),,,66 - 57,-9
+0020400886,293,5,39,3,8:33 PM,7:04,,,Richardson Step Out of Bounds Turnover (P5.T10),,
+0020400886,294,6,1,3,8:33 PM,7:04,,,Fisher P.FOUL (P3.T3),,
+0020400886,295,5,39,3,8:33 PM,6:57,Iguodala Step Out of Bounds Turnover (P4.T15),,,,
+0020400886,296,1,1,3,8:34 PM,6:44,,,Murphy 17' Jump Shot (11 PTS) (Richardson 6 AST),68 - 57,-11
+0020400886,297,5,1,3,8:34 PM,6:32,Iverson Bad Pass Turnover (P7.T16),,Richardson STEAL (4 STL),,
+0020400886,298,1,8,3,8:34 PM,6:29,,,Richardson  Slam Dunk (17 PTS),70 - 57,-13
+0020400886,299,5,1,3,8:34 PM,6:13,Iverson Bad Pass Turnover (P8.T17),,Foyle STEAL (3 STL),,
+0020400886,300,2,5,3,8:34 PM,6:05,,,MISS Foyle  Layup,,
+0020400886,301,4,0,3,8:34 PM,6:03,Dalembert REBOUND (Off:1 Def:6),,,,
+0020400886,302,2,1,3,8:34 PM,5:54,MISS Iguodala 8' Jump Shot,,,,
+0020400886,303,4,0,3,8:34 PM,5:53,,,Murphy REBOUND (Off:2 Def:4),,
+0020400886,304,5,4,3,8:35 PM,5:49,,,Dunleavy Traveling Turnover (P2.T11),,
+0020400886,305,8,0,3,8:35 PM,5:49,SUB: McKie FOR Iguodala,,,,
+0020400886,306,5,1,3,8:35 PM,5:36,Webber Bad Pass Turnover (P1.T18),,,,
+0020400886,307,8,0,3,8:35 PM,5:36,SUB: Jackson FOR Dalembert,,,,
+0020400886,308,2,1,3,8:36 PM,5:21,,,MISS Murphy 7' Jump Shot,,
+0020400886,309,4,0,3,8:36 PM,5:19,McKie REBOUND (Off:0 Def:4),,,,
+0020400886,310,2,1,3,8:36 PM,5:13,MISS Korver 26' 3PT Jump Shot,,,,
+0020400886,311,4,0,3,8:36 PM,5:11,,,Fisher REBOUND (Off:0 Def:7),,
+0020400886,312,2,1,3,8:36 PM,5:05,,,MISS Richardson 27' 3PT Jump Shot,,
+0020400886,313,4,0,3,8:36 PM,5:03,Jackson REBOUND (Off:0 Def:2),,,,
+0020400886,314,6,4,3,8:36 PM,4:57,Iverson OFF.Foul (P2),,,,
+0020400886,315,5,5,3,8:36 PM,4:57,Iverson Foul Turnover (P9.T19),,,,
+0020400886,316,1,7,3,8:37 PM,4:46,,,Murphy  Dunk (13 PTS) (Fisher 3 AST),72 - 57,-15
+0020400886,317,9,1,3,8:37 PM,4:38,76ERS Timeout: Regular (Full 4 Short 1),,,,
+0020400886,318,8,0,3,8:39 PM,4:38,SUB: Rogers FOR Korver,,,,
+0020400886,319,8,0,3,8:39 PM,4:38,SUB: Green FOR Webber,,,,
+0020400886,320,8,0,3,8:39 PM,4:38,,,SUB: Davis FOR Foyle,,
+0020400886,321,8,0,3,8:39 PM,4:38,,,SUB: Biedrins FOR Dunleavy,,
+0020400886,322,2,1,3,8:40 PM,4:21,MISS Green 16' Jump Shot,,,,
+0020400886,323,4,0,3,8:40 PM,4:19,,,Davis REBOUND (Off:0 Def:2),,
+0020400886,324,2,5,3,8:40 PM,4:14,McKie BLOCK (3 BLK),,MISS Murphy  Layup,,
+0020400886,325,4,0,3,8:40 PM,4:12,Rogers REBOUND (Off:1 Def:3),,,,
+0020400886,326,1,1,3,8:40 PM,4:00,Iverson 24' 3PT Jump Shot (24 PTS) (Jackson 1 AST),,,72 - 60,-12
+0020400886,327,2,1,3,8:40 PM,3:43,,,MISS Fisher 26' 3PT Jump Shot,,
+0020400886,328,4,0,3,8:40 PM,3:42,76ERS Rebound,,,,
+0020400886,329,1,61,3,8:41 PM,3:26,Jackson  Driving Finger Roll (3 PTS) (Rogers 1 AST),,,72 - 62,-10
+0020400886,330,1,1,3,8:41 PM,3:05,,,Fisher 17' Jump Shot (11 PTS) (Richardson 7 AST),74 - 62,-12
+0020400886,331,2,1,3,8:41 PM,2:56,MISS Iverson 25' 3PT Jump Shot,,,,
+0020400886,332,4,0,3,8:41 PM,2:54,,,Richardson REBOUND (Off:0 Def:4),,
+0020400886,333,2,1,3,8:41 PM,2:43,,,MISS Davis 27' 3PT Jump Shot,,
+0020400886,334,4,0,3,8:42 PM,2:41,Iverson REBOUND (Off:0 Def:4),,,,
+0020400886,335,2,1,3,8:42 PM,2:32,MISS Rogers 26' 3PT Jump Shot,,,,
+0020400886,336,4,0,3,8:42 PM,2:31,,,Biedrins REBOUND (Off:0 Def:1),,
+0020400886,337,5,1,3,8:42 PM,2:17,McKie STEAL (2 STL),,Davis Bad Pass Turnover (P3.T12),,
+0020400886,338,2,1,3,8:42 PM,2:12,MISS Iverson 17' Jump Shot,,,,
+0020400886,339,4,0,3,8:42 PM,2:10,,,Biedrins REBOUND (Off:0 Def:2),,
+0020400886,340,2,1,3,8:43 PM,1:54,,,MISS Murphy 19' Jump Shot,,
+0020400886,341,4,0,3,8:43 PM,1:53,76ERS Rebound,,,,
+0020400886,342,6,3,3,8:43 PM,1:53,,,Murphy L.B.FOUL (P2.T4),,
+0020400886,343,8,0,3,8:43 PM,1:53,,,SUB: Pietrus FOR Fisher,,
+0020400886,344,2,5,3,8:43 PM,1:42,MISS Jackson  Layup,,Biedrins BLOCK (1 BLK),,
+0020400886,345,4,0,3,8:43 PM,1:42,Jackson REBOUND (Off:1 Def:2),,,,
+0020400886,348,6,4,3,8:44 PM,1:42,Jackson OFF.Foul (P2),,,,
+0020400886,363,5,37,3,8:44 PM,1:42,Jackson Offensive Foul Turnover (P1.T20),,,,
+0020400886,349,2,1,3,8:44 PM,1:21,,,MISS Pietrus 26' 3PT Jump Shot,,
+0020400886,351,4,0,3,8:44 PM,1:18,,,Murphy REBOUND (Off:3 Def:4),,
+0020400886,350,1,5,3,8:44 PM,1:18,,,Murphy  Layup (15 PTS),76 - 62,-14
+0020400886,352,1,1,3,8:44 PM,1:04,Rogers 27' 3PT Jump Shot (7 PTS) (Green 1 AST),,,76 - 65,-11
+0020400886,353,2,1,3,8:45 PM,0:41,,,MISS Richardson 14' Jump Shot,,
+0020400886,354,4,0,3,8:45 PM,0:40,Iverson REBOUND (Off:0 Def:5),,,,
+0020400886,355,5,1,3,8:45 PM,0:37,Iverson Bad Pass Turnover (P10.T21),,Davis STEAL (2 STL),,
+0020400886,356,5,1,3,8:45 PM,0:28,Rogers STEAL (2 STL),,Davis Bad Pass Turnover (P4.T13),,
+0020400886,357,1,5,3,8:45 PM,0:24,Iverson  Layup (26 PTS),,,76 - 67,-9
+0020400886,358,9,1,3,8:45 PM,0:02,,,Warriors Timeout: Regular (Reg.3 Short 0),,
+0020400886,359,2,1,3,8:48 PM,0:00,,,MISS Richardson 26' 3PT Jump Shot,,
+0020400886,360,4,0,3,8:48 PM,0:00,76ERS Rebound,,,,
+0020400886,361,13,0,3,8:48 PM,0:00,,,,76 - 67,-9
+0020400886,365,12,0,4,8:50 PM,12:00,,,,76 - 67,-9
+0020400886,366,2,1,4,8:51 PM,11:43,,,MISS Dunleavy 27' 3PT Jump Shot,,
+0020400886,367,4,0,4,8:51 PM,11:42,McKie REBOUND (Off:0 Def:5),,,,
+0020400886,368,2,5,4,8:51 PM,11:32,MISS Iverson  Layup,,,,
+0020400886,369,4,0,4,8:51 PM,11:31,,,Murphy REBOUND (Off:3 Def:5),,
+0020400886,370,6,1,4,8:51 PM,11:21,Green P.FOUL (P1.T1),,,,
+0020400886,371,6,1,4,8:51 PM,11:13,Iverson P.FOUL (P3.T2),,,,
+0020400886,372,1,42,4,8:52 PM,11:10,,,Murphy  Driving Layup (17 PTS) (Davis 3 AST),78 - 67,-11
+0020400886,373,2,1,4,8:52 PM,10:48,MISS Green 9' Jump Shot,,,,
+0020400886,374,4,0,4,8:52 PM,10:47,,,Foyle REBOUND (Off:1 Def:5),,
+0020400886,375,5,40,4,8:52 PM,10:44,,,Pietrus Out of Bounds Lost Ball Turnover (P1.T14),,
+0020400886,376,6,2,4,8:53 PM,10:37,,,Murphy S.FOUL (P3.T1),,
+0020400886,377,3,11,4,8:53 PM,10:37,Jackson Free Throw 1 of 2 (4 PTS),,,78 - 68,-10
+0020400886,378,3,12,4,8:53 PM,10:37,Jackson Free Throw 2 of 2 (5 PTS),,,78 - 69,-9
+0020400886,379,8,0,4,8:54 PM,10:37,,,SUB: Richardson FOR Murphy,,
+0020400886,381,1,42,4,8:54 PM,10:28,,,Dunleavy  Driving Layup (14 PTS),80 - 69,-11
+0020400886,382,6,2,4,8:54 PM,10:16,,,Dunleavy S.FOUL (P3.T2),,
+0020400886,383,3,11,4,8:54 PM,10:16,Iverson Free Throw 1 of 2 (27 PTS),,,80 - 70,-10
+0020400886,384,8,0,4,8:55 PM,10:16,SUB: Webber FOR Rogers,,,,
+0020400886,385,3,12,4,8:55 PM,10:16,Iverson Free Throw 2 of 2 (28 PTS),,,80 - 71,-9
+0020400886,386,2,1,4,8:55 PM,10:01,,,MISS Dunleavy 21' Jump Shot,,
+0020400886,387,4,0,4,8:55 PM,9:59,,,Warriors Rebound,,
+0020400886,388,8,0,4,8:56 PM,9:59,SUB: Rogers FOR Jackson,,,,
+0020400886,389,2,1,4,8:56 PM,9:57,,,MISS Richardson 10' Jump Shot,,
+0020400886,390,4,0,4,8:56 PM,9:56,Rogers REBOUND (Off:1 Def:4),,,,
+0020400886,391,2,5,4,8:56 PM,9:50,MISS Webber  Layup,,,,
+0020400886,392,4,0,4,8:56 PM,9:49,,,Dunleavy REBOUND (Off:1 Def:4),,
+0020400886,393,1,1,4,8:56 PM,9:31,,,Dunleavy  3PT Jump Shot (17 PTS) (Davis 4 AST),83 - 71,-12
+0020400886,394,2,1,4,8:57 PM,9:17,MISS Iverson 7' Jump Shot,,Dunleavy BLOCK (1 BLK),,
+0020400886,395,4,0,4,8:57 PM,9:13,,,Richardson REBOUND (Off:0 Def:5),,
+0020400886,396,6,2,4,8:57 PM,9:13,Rogers S.FOUL (P2.T3),,,,
+0020400886,397,3,11,4,8:57 PM,9:13,,,Pietrus Free Throw 1 of 2 (11 PTS),84 - 71,-13
+0020400886,398,3,12,4,8:57 PM,9:13,,,Pietrus Free Throw 2 of 2 (12 PTS),85 - 71,-14
+0020400886,399,1,44,4,8:57 PM,9:02,Green  Reverse Layup (2 PTS) (Webber 5 AST),,,85 - 73,-12
+0020400886,400,6,1,4,8:58 PM,8:43,Rogers P.FOUL (P3.T4),,,,
+0020400886,401,9,4,4,8:58 PM,8:43,,,,,
+0020400886,402,3,13,4,9:00 PM,8:43,,,Dunleavy Free Throw 1 of 3 (18 PTS),86 - 73,-13
+0020400886,403,3,14,4,9:01 PM,8:43,,,MISS Dunleavy Free Throw 2 of 3,,
+0020400886,404,4,1,4,9:01 PM,8:43,,,Warriors Rebound,,
+0020400886,405,3,15,4,9:01 PM,8:43,,,Dunleavy Free Throw 3 of 3 (19 PTS),87 - 73,-14
+0020400886,406,2,1,4,9:01 PM,8:31,MISS Webber 18' Jump Shot,,,,
+0020400886,407,4,0,4,9:01 PM,8:29,,,Foyle REBOUND (Off:1 Def:6),,
+0020400886,408,1,1,4,9:02 PM,8:15,,,Davis 26' 3PT Jump Shot (7 PTS),90 - 73,-17
+0020400886,409,1,1,4,9:02 PM,8:00,Rogers 27' 3PT Jump Shot (10 PTS) (Iverson 5 AST),,,90 - 76,-14
+0020400886,410,2,1,4,9:02 PM,7:38,,,MISS Richardson 25' 3PT Jump Shot,,
+0020400886,411,4,0,4,9:02 PM,7:36,Green REBOUND (Off:0 Def:1),,,,
+0020400886,412,2,5,4,9:02 PM,7:29,MISS Green  Layup,,Foyle BLOCK (3 BLK),,
+0020400886,413,4,0,4,9:02 PM,7:29,76ERS Rebound,,,,
+0020400886,414,2,1,4,9:03 PM,7:24,MISS Iverson 26' 3PT Jump Shot,,,,
+0020400886,415,4,0,4,9:03 PM,7:23,,,Dunleavy REBOUND (Off:1 Def:5),,
+0020400886,416,2,5,4,9:03 PM,7:00,,,MISS Davis  Layup,,
+0020400886,417,4,0,4,9:03 PM,6:59,Iverson REBOUND (Off:0 Def:6),,,,
+0020400886,418,2,5,4,9:03 PM,6:52,MISS Green  Layup,,Richardson BLOCK (1 BLK),,
+0020400886,419,4,0,4,9:03 PM,6:52,76ERS Rebound,,,,
+0020400886,420,5,4,4,9:04 PM,6:50,Green Traveling Turnover (P1.T22),,,,
+0020400886,421,5,1,4,9:04 PM,6:30,Iverson STEAL (4 STL),,Richardson Bad Pass Turnover (P6.T15),,
+0020400886,422,2,1,4,9:04 PM,6:24,MISS Iverson 13' Jump Shot,,,,
+0020400886,424,4,0,4,9:04 PM,6:21,Webber REBOUND (Off:2 Def:3),,,,
+0020400886,423,2,1,4,9:04 PM,6:21,MISS Webber 4' Jump Shot,,,,
+0020400886,425,4,0,4,9:05 PM,6:20,,,Richardson REBOUND (Off:0 Def:6),,
+0020400886,426,2,1,4,9:05 PM,6:00,,,MISS Dunleavy 28' 3PT Jump Shot,,
+0020400886,428,4,0,4,9:05 PM,5:59,,,Pietrus REBOUND (Off:2 Def:0),,
+0020400886,427,1,4,4,9:05 PM,5:59,,,Pietrus  Tip Shot (14 PTS),92 - 76,-16
+0020400886,429,9,1,4,9:05 PM,5:57,76ERS Timeout: Regular (Full 5 Short 1),,,,
+0020400886,430,8,0,4,9:07 PM,5:57,SUB: Iguodala FOR McKie,,,,
+0020400886,431,8,0,4,9:07 PM,5:57,SUB: Korver FOR Rogers,,,,
+0020400886,432,1,42,4,9:07 PM,5:50,Iverson  Driving Layup (30 PTS),,,92 - 78,-14
+0020400886,433,2,1,4,9:08 PM,5:22,,,MISS Davis 26' 3PT Jump Shot,,
+0020400886,434,4,0,4,9:08 PM,5:20,Iguodala REBOUND (Off:1 Def:5),,,,
+0020400886,435,5,1,4,9:08 PM,5:07,Iverson Bad Pass Turnover (P11.T23),,Richardson STEAL (5 STL),,
+0020400886,436,6,1,4,9:08 PM,5:07,Iguodala P.FOUL (P4.PN),,,,
+0020400886,438,3,11,4,9:09 PM,5:07,,,Richardson Free Throw 1 of 2 (18 PTS),93 - 78,-15
+0020400886,439,8,0,4,9:09 PM,5:07,,,SUB: Fisher FOR Pietrus,,
+0020400886,440,3,12,4,9:09 PM,5:07,,,Richardson Free Throw 2 of 2 (19 PTS),94 - 78,-16
+0020400886,441,5,2,4,9:09 PM,4:55,Iverson Lost Ball Turnover (P12.T24),,Dunleavy STEAL (3 STL),,
+0020400886,442,1,66,4,9:09 PM,4:51,,,Dunleavy 6' Jump Bank Shot (21 PTS),96 - 78,-18
+0020400886,443,1,1,4,9:10 PM,4:31,Iverson 25' 3PT Jump Shot (33 PTS) (Iguodala 2 AST),,,96 - 81,-15
+0020400886,444,1,47,4,9:10 PM,4:06,,,Davis 13' Turnaround Jump Shot (9 PTS),98 - 81,-17
+0020400886,445,2,1,4,9:10 PM,3:54,MISS Korver 18' Jump Shot,,,,
+0020400886,447,4,0,4,9:10 PM,3:51,Green REBOUND (Off:1 Def:1),,,,
+0020400886,446,2,1,4,9:10 PM,3:51,MISS Green 14' Jump Shot,,,,
+0020400886,448,4,0,4,9:10 PM,3:49,,,Dunleavy REBOUND (Off:1 Def:6),,
+0020400886,449,1,1,4,9:11 PM,3:32,,,Richardson 28' 3PT Jump Shot (22 PTS) (Davis 5 AST),101 - 81,-20
+0020400886,450,9,1,4,9:11 PM,3:25,76ERS Timeout: Regular (Full 6 Short 1),,,,
+0020400886,451,8,0,4,9:11 PM,3:25,SUB: Ollie FOR Iverson,,,,
+0020400886,452,8,0,4,9:13 PM,3:25,SUB: Davis FOR Webber,,,,
+0020400886,453,8,0,4,9:13 PM,3:25,SUB: Dalembert FOR Green,,,,
+0020400886,454,2,5,4,9:13 PM,3:12,MISS Davis  Layup,,,,
+0020400886,455,4,0,4,9:13 PM,3:11,,,Foyle REBOUND (Off:1 Def:7),,
+0020400886,456,2,1,4,9:14 PM,2:48,,,MISS Richardson 29' 3PT Jump Shot,,
+0020400886,457,4,0,4,9:14 PM,2:46,76ERS Rebound,,,,
+0020400886,458,1,1,4,9:14 PM,2:26,Iguodala 22' Jump Shot (4 PTS) (Korver 1 AST),,,101 - 83,-18
+0020400886,459,5,1,4,9:15 PM,2:06,Korver STEAL (2 STL),,Davis Bad Pass Turnover (P5.T16),,
+0020400886,485,6,1,4,9:15 PM,2:00,,,Fisher P.FOUL (P4.T3),,
+0020400886,464,8,0,4,9:15 PM,2:00,,,SUB: Pietrus FOR Richardson,,
+0020400886,460,8,0,4,9:15 PM,2:00,,,SUB: Biedrins FOR Dunleavy,,
+0020400886,461,8,0,4,9:15 PM,2:00,,,SUB: Tskitishvili FOR Foyle,,
+0020400886,462,8,0,4,9:15 PM,2:00,,,SUB: White FOR Davis,,
+0020400886,463,5,1,4,9:15 PM,1:54,Davis Bad Pass Turnover (P1.T25),,Biedrins STEAL (2 STL),,
+0020400886,465,5,2,4,9:16 PM,1:39,Korver STEAL (3 STL),,Tskitishvili Lost Ball Turnover (P1.T17),,
+0020400886,466,2,1,4,9:16 PM,1:34,MISS Korver 26' 3PT Jump Shot,,,,
+0020400886,467,4,0,4,9:16 PM,1:32,Iguodala REBOUND (Off:2 Def:5),,,,
+0020400886,468,2,1,4,9:16 PM,1:27,MISS Davis  3PT Jump Shot,,,,
+0020400886,469,4,0,4,9:16 PM,1:25,,,Pietrus REBOUND (Off:2 Def:1),,
+0020400886,470,2,1,4,9:16 PM,1:13,,,MISS White 18' Jump Shot,,
+0020400886,471,4,0,4,9:16 PM,1:11,Ollie REBOUND (Off:0 Def:1),,,,
+0020400886,473,1,63,4,9:17 PM,0:52,Iguodala 13' Fadeaway Jumper (6 PTS) (Ollie 1 AST),,,101 - 85,-16
+0020400886,474,1,1,4,9:17 PM,0:41,,,Tskitishvili  3PT Jump Shot (3 PTS),104 - 85,-19
+0020400886,475,2,1,4,9:17 PM,0:32,MISS Iguodala 25' 3PT Jump Shot,,,,
+0020400886,477,4,0,4,9:17 PM,0:29,Dalembert REBOUND (Off:2 Def:6),,,,
+0020400886,476,2,1,4,9:17 PM,0:29,MISS Dalembert 4' Jump Shot,,,,
+0020400886,478,4,0,4,9:17 PM,0:27,Korver REBOUND (Off:1 Def:2),,,,
+0020400886,479,2,1,4,9:17 PM,0:22,MISS Korver 27' 3PT Jump Shot,,,,
+0020400886,480,4,0,4,9:17 PM,0:19,,,Biedrins REBOUND (Off:0 Def:3),,
+0020400886,482,13,0,4,9:18 PM,0:00,,,,104 - 85,-19

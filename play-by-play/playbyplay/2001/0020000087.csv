@@ -1,0 +1,465 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000087,0,12,0,1,5:12 AM,12:00,,,,,
+0020000087,1,10,0,1,5:12 AM,12:00,Jump Ball Martin vs. Ewing: Tip to Payton,,,,
+0020000087,2,2,1,1,5:12 AM,11:46,,,MISS Payton 18' Jump Shot,,
+0020000087,3,4,0,1,5:12 AM,11:44,Eschmeyer REBOUND (Off:0 Def:1),,,,
+0020000087,4,1,42,1,5:13 AM,11:27,Marbury  Driving Layup (2 PTS) (Martin 1 AST),,,0 - 2,2
+0020000087,5,1,42,1,5:13 AM,11:21,,,Payton  Driving Layup (2 PTS),2 - 2,TIE
+0020000087,6,2,42,1,5:13 AM,11:13,MISS Marbury  Driving Layup,,,,
+0020000087,7,4,0,1,5:13 AM,11:12,Gill REBOUND (Off:1 Def:0),,,,
+0020000087,8,1,5,1,5:13 AM,11:08,Gill  Layup (2 PTS),,,2 - 4,2
+0020000087,9,5,1,1,5:13 AM,10:51,Martin STEAL (1 STL),,Ewing Bad Pass Turnover (P1.T1),,
+0020000087,10,6,2,1,5:13 AM,10:46,,,Mason S.FOUL (P1.T1),,
+0020000087,11,3,11,1,5:14 AM,10:46,Jackson Free Throw 1 of 2 (1 PTS),,,2 - 5,3
+0020000087,12,3,12,1,5:14 AM,10:46,Jackson Free Throw 2 of 2 (2 PTS),,,2 - 6,4
+0020000087,13,2,1,1,5:14 AM,10:28,,,MISS Ewing 7' Jump Shot,,
+0020000087,14,4,0,1,5:14 AM,10:26,Eschmeyer REBOUND (Off:0 Def:2),,,,
+0020000087,15,2,5,1,5:15 AM,10:14,MISS Eschmeyer  Layup,,,,
+0020000087,16,4,0,1,5:15 AM,10:13,Eschmeyer REBOUND (Off:1 Def:2),,,,
+0020000087,17,1,3,1,5:15 AM,10:11,Eschmeyer 5' Hook Shot (2 PTS),,,2 - 8,6
+0020000087,18,1,1,1,5:15 AM,9:58,,,Lewis 16' Jump Shot (2 PTS) (Payton 1 AST),4 - 8,4
+0020000087,19,2,1,1,5:15 AM,9:46,MISS Marbury 9' Jump Shot,,,,
+0020000087,20,4,0,1,5:15 AM,9:44,,,Lewis REBOUND (Off:0 Def:1),,
+0020000087,21,1,1,1,5:15 AM,9:33,,,Ewing 18' Jump Shot (2 PTS) (Payton 2 AST),6 - 8,2
+0020000087,22,1,1,1,5:15 AM,9:20,Jackson 21' Jump Shot (4 PTS) (Marbury 1 AST),,,6 - 10,4
+0020000087,23,1,1,1,5:16 AM,9:07,,,Payton 18' Jump Shot (4 PTS),8 - 10,2
+0020000087,24,6,1,1,5:16 AM,8:49,,,Mason P.FOUL (P2.T2),,
+0020000087,25,5,2,1,5:16 AM,8:47,Martin Lost Ball Turnover (P1.T1),,,,
+0020000087,26,5,1,1,5:17 AM,8:38,Gill STEAL (1 STL),,Ewing Bad Pass Turnover (P2.T2),,
+0020000087,27,1,49,1,5:17 AM,8:34,Gill  Driving Dunk (4 PTS),,,8 - 12,4
+0020000087,28,1,5,1,5:17 AM,8:20,,,Payton  Layup (6 PTS) (Baker 1 AST),10 - 12,2
+0020000087,29,5,1,1,5:17 AM,8:02,Eschmeyer Bad Pass Turnover (P1.T2),,Baker STEAL (1 STL),,
+0020000087,31,7,3,1,5:17 AM,7:57,Martin Violation:Lane,,,,
+0020000087,30,1,42,1,5:17 AM,7:57,,,Payton  Driving Layup (8 PTS) (Mason 1 AST),12 - 12,TIE
+0020000087,32,5,4,1,5:18 AM,7:47,Marbury Traveling Turnover (P1.T3),,,,
+0020000087,33,2,1,1,5:18 AM,7:33,,,MISS Lewis 8' Jump Shot,,
+0020000087,34,4,0,1,5:18 AM,7:31,Eschmeyer REBOUND (Off:1 Def:3),,,,
+0020000087,35,2,1,1,5:18 AM,7:24,MISS Gill 18' Jump Shot,,,,
+0020000087,36,4,0,1,5:18 AM,7:23,,,Baker REBOUND (Off:0 Def:1),,
+0020000087,37,5,2,1,5:18 AM,7:13,Martin STEAL (2 STL),,Baker Lost Ball Turnover (P1.T3),,
+0020000087,38,1,42,1,5:18 AM,7:07,Marbury  Driving Layup (4 PTS) (Gill 1 AST),,,12 - 14,2
+0020000087,39,5,4,1,5:19 AM,6:52,,,Payton Traveling Turnover (P1.T4),,
+0020000087,40,5,2,1,5:19 AM,6:41,Jackson Lost Ball Turnover (P1.T4),,,,
+0020000087,41,6,1,1,5:19 AM,6:32,Marbury P.FOUL (P1.T1),,,,
+0020000087,42,1,1,1,5:20 AM,6:24,,,Lewis 25' 3PT Jump Shot (5 PTS) (Mason 2 AST),15 - 14,-1
+0020000087,43,1,8,1,5:20 AM,6:16,Jackson  Slam Dunk (6 PTS) (Marbury 2 AST),,,15 - 16,1
+0020000087,44,5,1,1,5:20 AM,6:00,Eschmeyer STEAL (1 STL),,Payton Bad Pass Turnover (P2.T5),,
+0020000087,45,1,46,1,5:20 AM,5:52,Marbury 22' Running Jump Shot (6 PTS),,,15 - 18,3
+0020000087,46,5,2,1,5:20 AM,5:41,Jackson STEAL (1 STL),,Payton Lost Ball Turnover (P3.T6),,
+0020000087,47,1,8,1,5:20 AM,5:36,Martin  Slam Dunk (2 PTS) (Eschmeyer 1 AST),,,15 - 20,5
+0020000087,48,9,1,1,5:21 AM,5:35,,,SuperSonics Timeout: Regular (Reg.1 Short 0),,
+0020000087,50,1,1,1,5:23 AM,5:26,,,Lewis  3PT Jump Shot (8 PTS) (Payton 3 AST),18 - 20,2
+0020000087,51,1,1,1,5:23 AM,5:08,Gill 16' Jump Shot (6 PTS),,,18 - 22,4
+0020000087,52,2,1,1,5:23 AM,4:48,,,MISS Ewing 7' Jump Shot,,
+0020000087,53,4,0,1,5:23 AM,4:47,Eschmeyer REBOUND (Off:1 Def:4),,,,
+0020000087,54,1,1,1,5:24 AM,4:39,Gill 15' Jump Shot (8 PTS) (Marbury 3 AST),,,18 - 24,6
+0020000087,55,6,1,1,5:24 AM,4:27,Martin P.FOUL (P1.T2),,,,
+0020000087,56,1,1,1,5:24 AM,4:23,,,Mason 21' Jump Shot (2 PTS) (Payton 4 AST),20 - 24,4
+0020000087,57,1,46,1,5:25 AM,4:08,Marbury 10' Running Jump Shot (8 PTS) (Gill 2 AST),,,20 - 26,6
+0020000087,58,6,2,1,5:25 AM,4:08,,,Ewing S.FOUL (P1.T3),,
+0020000087,59,3,10,1,5:25 AM,4:08,MISS Marbury Free Throw 1 of 1,,,,
+0020000087,60,4,0,1,5:25 AM,4:07,,,Ewing REBOUND (Off:0 Def:1),,
+0020000087,61,2,5,1,5:25 AM,3:52,,,MISS Baker  Layup,,
+0020000087,62,4,0,1,5:25 AM,3:50,,,Mason REBOUND (Off:1 Def:0),,
+0020000087,63,1,4,1,5:25 AM,3:48,,,Mason  Tip Shot (4 PTS),22 - 26,4
+0020000087,64,6,2,1,5:25 AM,3:43,,,Baker S.FOUL (P1.T4),,
+0020000087,65,3,11,1,5:26 AM,3:43,MISS Martin Free Throw 1 of 2,,,,
+0020000087,66,4,1,1,5:26 AM,3:43,NETS Rebound,,,,
+0020000087,67,8,0,1,5:26 AM,3:43,,,SUB: Wolkowyski FOR Ewing,,
+0020000087,68,3,12,1,5:26 AM,3:43,MISS Martin Free Throw 2 of 2,,,,
+0020000087,69,4,0,1,5:26 AM,3:42,,,Wolkowyski REBOUND (Off:0 Def:1),,
+0020000087,70,7,2,1,5:27 AM,3:34,NETS Violation: Def. Goaltending Violation,,,,
+0020000087,71,6,2,1,5:27 AM,3:21,Martin S.FOUL (P2.T3),,,,
+0020000087,72,3,11,1,5:27 AM,3:21,,,Baker Free Throw 1 of 2 (1 PTS),23 - 26,3
+0020000087,73,8,0,1,5:28 AM,3:21,SUB: Williams FOR Martin,,,,
+0020000087,74,8,0,1,5:28 AM,3:21,SUB: McIlvaine FOR Eschmeyer,,,,
+0020000087,75,3,12,1,5:28 AM,3:21,,,Baker Free Throw 2 of 2 (2 PTS),24 - 26,2
+0020000087,76,1,42,1,5:28 AM,3:06,McIlvaine  Driving Layup (2 PTS) (Marbury 4 AST),,,24 - 28,4
+0020000087,77,1,42,1,5:28 AM,2:57,,,Payton  Driving Layup (10 PTS),26 - 28,2
+0020000087,78,2,46,1,5:29 AM,2:46,MISS Gill 17' Running Jump Shot,,,,
+0020000087,79,4,0,1,5:29 AM,2:44,,,SuperSonics Rebound,,
+0020000087,80,9,1,1,5:29 AM,2:44,NETS Timeout: Regular (Full 1 Short 0),,,,
+0020000087,82,8,0,1,5:31 AM,2:44,,,SUB: Barry FOR Mason,,
+0020000087,83,1,1,1,5:31 AM,2:27,,,Lewis  3PT Jump Shot (11 PTS) (Wolkowyski 1 AST),29 - 28,-1
+0020000087,84,5,1,1,5:31 AM,2:09,Williams Bad Pass Turnover (P1.T5),,Lewis STEAL (1 STL),,
+0020000087,85,2,1,1,5:32 AM,2:01,,,MISS Payton 15' Jump Shot,,
+0020000087,86,4,0,1,5:32 AM,1:59,,,Barry REBOUND (Off:1 Def:0),,
+0020000087,87,2,1,1,5:32 AM,1:56,,,MISS Payton 24' 3PT Jump Shot,,
+0020000087,88,4,0,1,5:32 AM,1:54,Marbury REBOUND (Off:0 Def:1),,,,
+0020000087,89,1,42,1,5:32 AM,1:43,Gill  Driving Layup (10 PTS),,,29 - 30,1
+0020000087,90,6,1,1,5:32 AM,1:24,Williams P.FOUL (P1.T4),,,,
+0020000087,91,6,2,1,5:33 AM,1:24,Jackson S.FOUL (P1.PN),,,,
+0020000087,92,3,11,1,5:33 AM,1:24,,,Lewis Free Throw 1 of 2 (12 PTS),30 - 30,TIE
+0020000087,93,3,12,1,5:33 AM,1:24,,,Lewis Free Throw 2 of 2 (13 PTS),31 - 30,-1
+0020000087,94,2,1,1,5:33 AM,1:08,MISS Gill 20' Jump Shot,,,,
+0020000087,95,4,0,1,5:33 AM,1:06,,,Barry REBOUND (Off:1 Def:1),,
+0020000087,96,1,42,1,5:34 AM,1:02,,,Lewis  Driving Layup (15 PTS) (Barry 1 AST),33 - 30,-3
+0020000087,97,2,46,1,5:34 AM,0:53,MISS Marbury 7' Running Jump Shot,,Baker BLOCK (1 BLK),,
+0020000087,98,4,0,1,5:34 AM,0:52,NETS Rebound,,,,
+0020000087,99,8,0,1,5:34 AM,0:52,SUB: Newman FOR Jackson,,,,
+0020000087,100,2,1,1,5:34 AM,0:47,MISS Marbury 24' 3PT Jump Shot,,,,
+0020000087,101,4,0,1,5:34 AM,0:45,,,Wolkowyski REBOUND (Off:0 Def:2),,
+0020000087,102,6,4,1,5:35 AM,0:35,,,Baker OFF.Foul (P2),,
+0020000087,103,5,5,1,5:35 AM,0:35,,,Baker Foul Turnover (P2.T7),,
+0020000087,104,2,47,1,5:35 AM,0:24,MISS Gill  Turnaround Jump Shot,,,,
+0020000087,105,4,0,1,5:35 AM,0:23,McIlvaine REBOUND (Off:1 Def:0),,,,
+0020000087,106,1,4,1,5:35 AM,0:22,McIlvaine  Tip Shot (4 PTS),,,33 - 32,-1
+0020000087,107,1,1,1,5:35 AM,0:01,,,Payton 9' Jump Shot (12 PTS),35 - 32,-3
+0020000087,108,13,0,1,5:36 AM,0:00,,,,35 - 32,-3
+0020000087,110,12,0,2,5:38 AM,12:00,,,,35 - 32,-3
+0020000087,111,1,1,2,5:38 AM,11:48,Newman 24' 3PT Jump Shot (3 PTS) (Harris 1 AST),,,35 - 35,TIE
+0020000087,112,6,4,2,5:39 AM,11:24,,,Wolkowyski OFF.Foul (P1),,
+0020000087,113,5,5,2,5:39 AM,11:24,,,Wolkowyski Foul Turnover (P1.T8),,
+0020000087,114,2,7,2,5:39 AM,11:10,MISS Williams  Dunk,,Wolkowyski BLOCK (1 BLK),,
+0020000087,115,4,0,2,5:40 AM,11:08,Williams REBOUND (Off:1 Def:0),,,,
+0020000087,116,1,8,2,5:40 AM,11:07,Williams  Slam Dunk (2 PTS),,,35 - 37,2
+0020000087,117,2,1,2,5:40 AM,10:46,,,MISS Williams 17' Jump Shot,,
+0020000087,118,4,0,2,5:40 AM,10:45,Williams REBOUND (Off:1 Def:1),,,,
+0020000087,119,6,4,2,5:40 AM,10:35,Martin OFF.Foul (P3),,,,
+0020000087,120,5,5,2,5:40 AM,10:35,Martin Foul Turnover (P2.T6),,,,
+0020000087,265,6,1,2,5:40 AM,10:25,Williams P.FOUL (P2.T1),,,,
+0020000087,166,2,40,2,5:40 AM,10:18,Martin BLOCK (1 BLK),,MISS Wolkowyski  Layup,,
+0020000087,125,4,0,2,5:41 AM,10:17,NETS Rebound,,,,
+0020000087,235,6,1,2,5:41 AM,10:07,,,Lewis P.FOUL (P1.T1),,
+0020000087,263,8,0,2,5:41 AM,10:07,,,SUB: Patterson FOR Lewis,,
+0020000087,266,8,0,2,5:41 AM,10:07,SUB: Eschmeyer FOR Martin,,,,
+0020000087,126,1,1,2,5:42 AM,9:58,Harris 16' Jump Shot (2 PTS) (Newman 1 AST),,,35 - 39,4
+0020000087,127,2,1,2,5:42 AM,9:43,,,MISS Baker 15' Jump Shot,,
+0020000087,128,4,0,2,5:42 AM,9:42,,,SuperSonics Rebound,,
+0020000087,129,6,3,2,5:42 AM,9:42,Eschmeyer L.B.FOUL (P1.T2),,,,
+0020000087,130,1,1,2,5:42 AM,9:33,,,Wolkowyski 21' Jump Shot (2 PTS) (Barry 2 AST),37 - 39,2
+0020000087,131,1,5,2,5:43 AM,9:14,Newman  Layup (5 PTS) (Douglas 1 AST),,,37 - 41,4
+0020000087,132,6,2,2,5:43 AM,8:52,Williams S.FOUL (P3.T3),,,,
+0020000087,133,9,4,2,5:43 AM,8:52,,,,,
+0020000087,134,8,0,2,5:45 AM,8:52,,,SUB: Payton FOR Barry,,
+0020000087,135,3,11,2,5:46 AM,8:52,,,Baker Free Throw 1 of 2 (3 PTS),38 - 41,3
+0020000087,136,3,12,2,5:46 AM,8:52,,,MISS Baker Free Throw 2 of 2,,
+0020000087,137,4,0,2,5:46 AM,8:52,Williams REBOUND (Off:1 Def:2),,,,
+0020000087,138,2,42,2,5:46 AM,8:41,MISS Douglas  Driving Layup,,,,
+0020000087,139,4,0,2,5:46 AM,8:40,Williams REBOUND (Off:2 Def:2),,,,
+0020000087,140,1,4,2,5:46 AM,8:39,Williams  Tip Shot (4 PTS),,,38 - 43,5
+0020000087,142,6,1,2,5:46 AM,8:28,Douglas P.FOUL (P1.T4),,,,
+0020000087,143,8,0,2,5:46 AM,8:28,SUB: Jackson FOR Williams,,,,
+0020000087,144,2,1,2,5:47 AM,8:21,,,MISS Williams 25' 3PT Jump Shot,,
+0020000087,145,4,0,2,5:47 AM,8:19,Eschmeyer REBOUND (Off:1 Def:5),,,,
+0020000087,146,1,42,2,5:47 AM,8:14,Harris  Driving Layup (4 PTS) (Eschmeyer 2 AST),,,38 - 45,7
+0020000087,147,6,2,2,5:47 AM,8:08,Newman S.FOUL (P1.PN),,,,
+0020000087,149,3,11,2,5:48 AM,8:08,,,Baker Free Throw 1 of 2 (4 PTS),39 - 45,6
+0020000087,150,8,0,2,5:48 AM,8:08,,,SUB: Ewing FOR Wolkowyski,,
+0020000087,152,3,12,2,5:48 AM,8:08,,,Baker Free Throw 2 of 2 (5 PTS),40 - 45,5
+0020000087,153,1,1,2,5:48 AM,7:54,Harris 19' Jump Shot (6 PTS),,,40 - 47,7
+0020000087,154,8,0,2,5:49 AM,7:41,SUB: McIlvaine FOR Jackson,,,,
+0020000087,155,8,0,2,5:49 AM,7:41,,,SUB: McCoy FOR Baker,,
+0020000087,156,2,1,2,5:49 AM,7:27,,,MISS Ewing 16' Jump Shot,,
+0020000087,157,4,0,2,5:49 AM,7:25,,,Williams REBOUND (Off:1 Def:0),,
+0020000087,158,1,1,2,5:49 AM,7:22,,,Payton 24' 3PT Jump Shot (15 PTS) (Williams 1 AST),43 - 47,4
+0020000087,159,1,3,2,5:49 AM,7:04,McIlvaine 11' Hook Shot (6 PTS) (Douglas 2 AST),,,43 - 49,6
+0020000087,160,6,4,2,5:50 AM,6:51,,,Williams OFF.Foul (P1),,
+0020000087,161,5,5,2,5:50 AM,6:51,,,Williams Foul Turnover (P1.T9),,
+0020000087,162,5,4,2,5:50 AM,6:34,Newman Traveling Turnover (P1.T7),,,,
+0020000087,163,1,5,2,5:51 AM,6:22,,,Ewing  Layup (4 PTS),45 - 49,4
+0020000087,164,7,2,2,5:51 AM,6:02,,,SuperSonics Violation: Def. Goaltending Violation,,
+0020000087,165,9,1,2,5:51 AM,6:02,NETS Timeout: Regular (Full 2 Short 0),,,,
+0020000087,167,8,0,2,5:53 AM,6:02,,,SUB: Mason FOR Williams,,
+0020000087,168,8,0,2,5:53 AM,6:01,SUB: Gill FOR Harris,,,,
+0020000087,169,8,0,2,5:53 AM,5:59,SUB: Marbury FOR Douglas,,,,
+0020000087,170,2,1,2,5:53 AM,5:50,MISS Gill 14' Jump Shot,,,,
+0020000087,171,4,0,2,5:54 AM,5:47,,,Patterson REBOUND (Off:0 Def:1),,
+0020000087,172,5,2,2,5:54 AM,5:38,McIlvaine STEAL (1 STL),,Ewing Lost Ball Turnover (P3.T10),,
+0020000087,173,1,1,2,5:54 AM,5:34,Marbury 18' Jump Shot (10 PTS),,,45 - 51,6
+0020000087,177,1,42,2,5:55 AM,5:06,,,Ewing  Driving Layup (6 PTS),47 - 51,4
+0020000087,178,6,2,2,5:55 AM,5:06,McIlvaine S.FOUL (P1.PN),,,,
+0020000087,180,3,10,2,5:55 AM,5:06,,,MISS Ewing Free Throw 1 of 1,,
+0020000087,181,4,0,2,5:55 AM,5:06,,,McCoy REBOUND (Off:1 Def:0),,
+0020000087,182,6,2,2,5:55 AM,5:06,McIlvaine S.FOUL (P2.PN),,,,
+0020000087,183,3,11,2,5:55 AM,5:06,,,MISS McCoy Free Throw 1 of 2,,
+0020000087,185,4,0,2,5:55 AM,5:06,,,SuperSonics Rebound,,
+0020000087,189,5,17,2,5:55 AM,5:06,,,Patterson Lane Violation Turnover (P1.T11),,
+0020000087,188,5,2,2,5:56 AM,4:56,Gill Lost Ball Turnover (P1.T8),,Patterson STEAL (1 STL),,
+0020000087,190,5,2,2,5:56 AM,4:51,Newman STEAL (1 STL),,Patterson Lost Ball Turnover (P2.T12),,
+0020000087,191,8,0,2,5:57 AM,4:43,,,SUB: Baker FOR McCoy,,
+0020000087,192,6,2,2,5:57 AM,4:38,,,Payton S.FOUL (P1.T2),,
+0020000087,193,3,11,2,5:57 AM,4:38,McIlvaine Free Throw 1 of 2 (7 PTS),,,47 - 52,5
+0020000087,194,3,12,2,5:57 AM,4:38,McIlvaine Free Throw 2 of 2 (8 PTS),,,47 - 53,6
+0020000087,195,6,1,2,5:58 AM,4:25,Eschmeyer P.FOUL (P2.PN),,,,
+0020000087,198,3,11,2,5:58 AM,4:25,,,MISS Ewing Free Throw 1 of 2,,
+0020000087,199,4,1,2,5:58 AM,4:25,,,SuperSonics Rebound,,
+0020000087,200,3,12,2,5:59 AM,4:25,,,MISS Ewing Free Throw 2 of 2,,
+0020000087,201,4,0,2,5:59 AM,4:24,McIlvaine REBOUND (Off:1 Def:1),,,,
+0020000087,203,5,2,2,5:59 AM,4:09,Newman Lost Ball Turnover (P2.T9),,,,
+0020000087,204,8,0,2,5:59 AM,4:09,,,SUB: Lewis FOR Patterson,,
+0020000087,205,2,1,2,5:59 AM,4:00,,,MISS Payton 24' 3PT Jump Shot,,
+0020000087,206,4,0,2,5:59 AM,3:58,,,SuperSonics Rebound,,
+0020000087,208,6,2,2,6:00 AM,3:49,McIlvaine S.FOUL (P3.PN),,,,
+0020000087,210,3,11,2,6:00 AM,3:49,,,MISS Ewing Free Throw 1 of 2,,
+0020000087,211,4,1,2,6:00 AM,3:49,,,SuperSonics Rebound,,
+0020000087,212,3,12,2,6:01 AM,3:49,,,Ewing Free Throw 2 of 2 (7 PTS),48 - 53,5
+0020000087,215,2,1,2,6:01 AM,3:41,MISS Marbury 26' 3PT Jump Shot,,,,
+0020000087,216,4,0,2,6:01 AM,3:39,,,Baker REBOUND (Off:0 Def:2),,
+0020000087,217,5,2,2,6:01 AM,3:28,Marbury STEAL (1 STL),,Payton Lost Ball Turnover (P4.T13),,
+0020000087,218,1,42,2,6:01 AM,3:24,Marbury  Driving Layup (12 PTS),,,48 - 55,7
+0020000087,219,6,2,2,6:02 AM,3:18,Eschmeyer S.FOUL (P3.PN),,,,
+0020000087,220,3,11,2,6:02 AM,3:18,,,MISS Mason Free Throw 1 of 2,,
+0020000087,221,4,1,2,6:02 AM,3:18,,,SuperSonics Rebound,,
+0020000087,222,8,0,2,6:02 AM,3:18,SUB: Samake FOR McIlvaine,,,,
+0020000087,223,3,12,2,6:02 AM,3:18,,,Mason Free Throw 2 of 2 (5 PTS),49 - 55,6
+0020000087,224,2,1,2,6:02 AM,3:07,MISS Newman 24' 3PT Jump Shot,,,,
+0020000087,225,4,0,2,6:03 AM,3:05,Samake REBOUND (Off:1 Def:0),,,,
+0020000087,226,2,1,2,6:03 AM,3:03,MISS Samake 4' Jump Shot,,Ewing BLOCK (1 BLK),,
+0020000087,227,4,0,2,6:03 AM,3:02,NETS Rebound,,,,
+0020000087,228,2,1,2,6:03 AM,2:54,MISS Marbury 21' Jump Shot,,,,
+0020000087,229,4,0,2,6:03 AM,2:53,,,SuperSonics Rebound,,
+0020000087,230,9,1,2,6:03 AM,2:53,,,SuperSonics Timeout: Regular (Reg.2 Short 0),,
+0020000087,231,8,0,2,6:05 AM,2:53,,,SUB: Barry FOR Mason,,
+0020000087,232,2,1,2,6:05 AM,2:38,,,MISS Ewing 7' Jump Shot,,
+0020000087,233,4,0,2,6:05 AM,2:36,Marbury REBOUND (Off:0 Def:2),,,,
+0020000087,234,1,42,2,6:06 AM,2:22,Gill  Driving Layup (12 PTS),,,49 - 57,8
+0020000087,236,1,3,2,6:06 AM,2:05,,,Payton 11' Hook Shot (17 PTS),51 - 57,6
+0020000087,237,6,1,2,6:06 AM,1:59,,,Barry P.FOUL (P1.T3),,
+0020000087,238,8,0,2,6:06 AM,1:59,,,SUB: Mason FOR Baker,,
+0020000087,239,1,1,2,6:07 AM,1:49,Marbury 24' 3PT Jump Shot (15 PTS),,,51 - 60,9
+0020000087,240,2,1,2,6:07 AM,1:36,,,MISS Ewing 13' Jump Shot,,
+0020000087,241,4,0,2,6:08 AM,1:34,Newman REBOUND (Off:0 Def:1),,,,
+0020000087,242,6,2,2,6:08 AM,1:28,,,Barry S.FOUL (P2.PN),,
+0020000087,243,8,0,2,6:08 AM,1:28,SUB: Jackson FOR Eschmeyer,,,,
+0020000087,244,3,11,2,6:08 AM,1:28,Marbury Free Throw 1 of 2 (16 PTS),,,51 - 61,10
+0020000087,245,3,12,2,6:08 AM,1:28,Marbury Free Throw 2 of 2 (17 PTS),,,51 - 62,11
+0020000087,246,5,2,2,6:09 AM,1:13,Gill STEAL (2 STL),,Payton Lost Ball Turnover (P5.T14),,
+0020000087,247,1,7,2,6:09 AM,1:09,Gill  Dunk (14 PTS) (Marbury 5 AST),,,51 - 64,13
+0020000087,248,1,5,2,6:09 AM,1:00,,,Ewing  Layup (9 PTS) (Payton 5 AST),53 - 64,11
+0020000087,249,2,1,2,6:09 AM,0:44,MISS Marbury 17' Jump Shot,,,,
+0020000087,250,4,0,2,6:09 AM,0:42,,,Ewing REBOUND (Off:0 Def:2),,
+0020000087,252,7,3,2,6:09 AM,0:34,Samake Violation:Lane,,,,
+0020000087,251,1,42,2,6:09 AM,0:34,,,Payton  Driving Layup (19 PTS),55 - 64,9
+0020000087,253,1,42,2,6:10 AM,0:23,Marbury  Driving Layup (19 PTS),,,55 - 66,11
+0020000087,254,6,2,2,6:10 AM,0:23,,,Mason S.FOUL (P3.PN),,
+0020000087,255,3,10,2,6:10 AM,0:23,MISS Marbury Free Throw 1 of 1,,,,
+0020000087,256,4,0,2,6:10 AM,0:22,Marbury REBOUND (Off:1 Def:2),,,,
+0020000087,257,6,2,2,6:11 AM,0:02,,,Barry S.FOUL (P3.PN),,
+0020000087,258,3,11,2,6:11 AM,0:02,Jackson Free Throw 1 of 2 (7 PTS),,,55 - 67,12
+0020000087,259,3,12,2,6:11 AM,0:02,MISS Jackson Free Throw 2 of 2,,,,
+0020000087,260,4,0,2,6:11 AM,0:01,,,Lewis REBOUND (Off:0 Def:2),,
+0020000087,261,13,0,2,6:11 AM,0:00,,,,55 - 67,12
+0020000087,268,12,0,3,6:27 AM,12:00,,,,55 - 67,12
+0020000087,269,2,1,3,6:27 AM,11:47,MISS Martin 14' Jump Shot,,,,
+0020000087,270,4,0,3,6:27 AM,11:45,,,Payton REBOUND (Off:0 Def:1),,
+0020000087,271,1,1,3,6:28 AM,11:31,,,Baker 18' Jump Shot (7 PTS) (Payton 6 AST),57 - 67,10
+0020000087,272,2,1,3,6:28 AM,11:14,MISS Marbury 12' Jump Shot,,,,
+0020000087,273,4,0,3,6:28 AM,11:13,,,Payton REBOUND (Off:0 Def:2),,
+0020000087,274,2,1,3,6:28 AM,11:05,,,MISS Mason 25' 3PT Jump Shot,,
+0020000087,275,4,0,3,6:28 AM,11:03,Martin REBOUND (Off:0 Def:1),,,,
+0020000087,276,1,42,3,6:28 AM,10:57,Marbury  Driving Layup (21 PTS),,,57 - 69,12
+0020000087,277,6,1,3,6:28 AM,10:43,Martin P.FOUL (P4.T1),,,,
+0020000087,278,5,2,3,6:29 AM,10:31,Gill STEAL (3 STL),,Ewing Lost Ball Turnover (P4.T15),,
+0020000087,279,1,42,3,6:29 AM,10:27,Marbury  Driving Layup (23 PTS),,,57 - 71,14
+0020000087,280,6,2,3,6:29 AM,10:27,,,Lewis S.FOUL (P2.T1),,
+0020000087,281,3,10,3,6:29 AM,10:27,Marbury Free Throw 1 of 1 (24 PTS),,,57 - 72,15
+0020000087,282,6,2,3,6:30 AM,10:13,Marbury S.FOUL (P2.T2),,,,
+0020000087,283,3,11,3,6:30 AM,10:13,,,MISS Lewis Free Throw 1 of 2,,
+0020000087,284,4,1,3,6:30 AM,10:13,,,SuperSonics Rebound,,
+0020000087,285,3,12,3,6:30 AM,10:13,,,Lewis Free Throw 2 of 2 (16 PTS),58 - 72,14
+0020000087,286,2,1,3,6:30 AM,9:59,MISS Gill 19' Jump Shot,,,,
+0020000087,287,4,0,3,6:30 AM,9:58,Eschmeyer REBOUND (Off:2 Def:5),,,,
+0020000087,288,2,5,3,6:30 AM,9:56,MISS Eschmeyer  Layup,,Ewing BLOCK (2 BLK),,
+0020000087,289,4,0,3,6:30 AM,9:54,,,Ewing REBOUND (Off:0 Def:3),,
+0020000087,290,2,1,3,6:31 AM,9:46,,,MISS Ewing 17' Jump Shot,,
+0020000087,291,4,0,3,6:31 AM,9:44,Marbury REBOUND (Off:1 Def:3),,,,
+0020000087,292,1,5,3,6:31 AM,9:36,Jackson  Layup (9 PTS) (Marbury 6 AST),,,58 - 74,16
+0020000087,293,6,1,3,6:31 AM,9:24,Gill P.FOUL (P1.T3),,,,
+0020000087,294,2,1,3,6:31 AM,9:19,,,MISS Payton 27' 3PT Jump Shot,,
+0020000087,295,4,0,3,6:31 AM,9:17,Eschmeyer REBOUND (Off:2 Def:6),,,,
+0020000087,296,1,42,3,6:31 AM,9:12,Marbury  Driving Layup (26 PTS),,,58 - 76,18
+0020000087,297,9,1,3,6:31 AM,9:09,,,SuperSonics Timeout: Regular (Reg.3 Short 0),,
+0020000087,299,8,0,3,6:33 AM,9:09,,,SUB: Davis FOR Lewis,,
+0020000087,300,8,0,3,6:33 AM,9:09,,,SUB: Patterson FOR Mason,,
+0020000087,301,6,4,3,6:34 AM,8:55,,,Baker OFF.Foul (P3),,
+0020000087,302,5,5,3,6:34 AM,8:55,,,Baker Foul Turnover (P3.T16),,
+0020000087,303,2,46,3,6:34 AM,8:33,MISS Jackson 6' Running Jump Shot,,Ewing BLOCK (3 BLK),,
+0020000087,304,4,0,3,6:34 AM,8:32,NETS Rebound,,,,
+0020000087,305,5,11,3,6:35 AM,8:31,NETS Turnover: Shot Clock (T#10),,,,
+0020000087,306,2,42,3,6:35 AM,8:15,,,MISS Ewing  Driving Layup,,
+0020000087,307,4,0,3,6:35 AM,8:14,Martin REBOUND (Off:0 Def:2),,,,
+0020000087,308,1,49,3,6:35 AM,8:09,Jackson  Driving Dunk (11 PTS) (Marbury 7 AST),,,58 - 78,20
+0020000087,309,9,2,3,6:36 AM,7:58,,,SuperSonics Timeout: Short (Reg.3 Short 1),,
+0020000087,311,6,1,3,6:36 AM,7:44,Jackson P.FOUL (P2.T4),,,,
+0020000087,312,5,1,3,6:37 AM,7:32,,,Payton Bad Pass Turnover (P6.T17),,
+0020000087,313,1,42,3,6:37 AM,7:27,Marbury  Driving Layup (28 PTS) (Eschmeyer 3 AST),,,58 - 80,22
+0020000087,314,2,1,3,6:38 AM,7:12,,,MISS Baker 26' 3PT Jump Shot,,
+0020000087,315,4,0,3,6:38 AM,7:10,NETS Rebound,,,,
+0020000087,316,1,1,3,6:38 AM,6:54,Marbury 14' Jump Shot (30 PTS) (Martin 2 AST),,,58 - 82,24
+0020000087,317,5,1,3,6:38 AM,6:48,Marbury STEAL (2 STL),,Ewing Bad Pass Turnover (P5.T18),,
+0020000087,318,1,1,3,6:38 AM,6:44,Gill 10' Jump Shot (16 PTS) (Marbury 8 AST),,,58 - 84,26
+0020000087,319,2,42,3,6:38 AM,6:22,,,MISS Patterson  Driving Layup,,
+0020000087,320,4,0,3,6:38 AM,6:21,,,Ewing REBOUND (Off:1 Def:3),,
+0020000087,321,6,2,3,6:39 AM,6:19,Jackson S.FOUL (P3.PN),,,,
+0020000087,322,8,0,3,6:39 AM,6:19,SUB: Williams FOR Martin,,,,
+0020000087,323,3,11,3,6:39 AM,6:19,,,Ewing Free Throw 1 of 2 (10 PTS),59 - 84,25
+0020000087,324,3,12,3,6:39 AM,6:19,,,Ewing Free Throw 2 of 2 (11 PTS),60 - 84,24
+0020000087,325,1,1,3,6:40 AM,6:06,Marbury 26' 3PT Jump Shot (33 PTS) (Gill 3 AST),,,60 - 87,27
+0020000087,326,5,2,3,6:40 AM,5:49,Jackson STEAL (2 STL),,Payton Lost Ball Turnover (P7.T19),,
+0020000087,327,1,42,3,6:40 AM,5:44,Gill  Driving Layup (18 PTS) (Jackson 1 AST),,,60 - 89,29
+0020000087,328,9,1,3,6:40 AM,5:43,,,SuperSonics Timeout: Regular (Reg.4 Short 1),,
+0020000087,329,6,11,3,6:40 AM,5:43,,,,,
+0020000087,331,3,16,3,6:42 AM,5:43,Marbury Free Throw Technical (34 PTS),,,60 - 90,30
+0020000087,332,5,1,3,6:42 AM,5:34,Jackson STEAL (3 STL),,Davis Bad Pass Turnover (P1.T20),,
+0020000087,333,5,1,3,6:42 AM,5:29,Jackson Bad Pass Turnover (P2.T11),,Davis STEAL (1 STL),,
+0020000087,334,1,8,3,6:42 AM,5:25,,,Patterson  Slam Dunk (2 PTS) (Payton 7 AST),62 - 90,28
+0020000087,335,6,2,3,6:43 AM,5:07,,,Baker S.FOUL (P4.T2),,
+0020000087,336,3,11,3,6:43 AM,5:07,Marbury Free Throw 1 of 2 (35 PTS),,,62 - 91,29
+0020000087,337,3,12,3,6:43 AM,5:07,MISS Marbury Free Throw 2 of 2,,,,
+0020000087,338,4,0,3,6:43 AM,5:06,,,Ewing REBOUND (Off:1 Def:4),,
+0020000087,339,2,1,3,6:44 AM,4:52,,,MISS Payton 7' Jump Shot,,
+0020000087,340,4,0,3,6:44 AM,4:50,Williams REBOUND (Off:2 Def:3),,,,
+0020000087,341,1,42,3,6:44 AM,4:43,Marbury  Driving Layup (37 PTS),,,62 - 93,31
+0020000087,342,6,1,3,6:44 AM,4:25,Eschmeyer P.FOUL (P4.PN),,,,
+0020000087,343,3,11,3,6:44 AM,4:25,,,Ewing Free Throw 1 of 2 (12 PTS),63 - 93,30
+0020000087,344,3,12,3,6:44 AM,4:25,,,Ewing Free Throw 2 of 2 (13 PTS),64 - 93,29
+0020000087,345,6,1,3,6:45 AM,4:13,,,Baker P.FOUL (P5.T3),,
+0020000087,346,8,0,3,6:45 AM,4:13,,,SUB: McCoy FOR Ewing,,
+0020000087,347,2,1,3,6:45 AM,4:10,MISS Jackson 26' 3PT Jump Shot,,,,
+0020000087,348,4,0,3,6:45 AM,4:09,,,SuperSonics Rebound,,
+0020000087,349,6,1,3,6:46 AM,3:58,Gill P.FOUL (P2.PN),,,,
+0020000087,350,3,11,3,6:46 AM,3:58,,,McCoy Free Throw 1 of 2 (1 PTS),65 - 93,28
+0020000087,351,8,0,3,6:46 AM,3:58,,,SUB: Lewis FOR Davis,,
+0020000087,352,3,12,3,6:46 AM,3:58,,,McCoy Free Throw 2 of 2 (2 PTS),66 - 93,27
+0020000087,353,1,42,3,6:47 AM,3:42,Eschmeyer  Driving Layup (4 PTS) (Jackson 2 AST),,,66 - 95,29
+0020000087,354,6,2,3,6:47 AM,3:32,Marbury S.FOUL (P3.PN),,,,
+0020000087,355,3,11,3,6:47 AM,3:32,,,Payton Free Throw 1 of 2 (20 PTS),67 - 95,28
+0020000087,356,3,12,3,6:47 AM,3:32,,,Payton Free Throw 2 of 2 (21 PTS),68 - 95,27
+0020000087,357,5,4,3,6:48 AM,3:17,Marbury Traveling Turnover (P2.T12),,,,
+0020000087,358,6,17,3,6:48 AM,3:10,NETS Foul,,,,
+0020000087,359,3,16,3,6:48 AM,3:10,,,Payton Free Throw Technical (22 PTS),69 - 95,26
+0020000087,360,5,1,3,6:49 AM,2:57,Eschmeyer STEAL (2 STL),,Payton Bad Pass Turnover (P8.T21),,
+0020000087,361,9,1,3,6:49 AM,2:57,NETS Timeout: Regular (Full 3 Short 0),,,,
+0020000087,363,1,46,3,6:50 AM,2:44,Gill 10' Running Jump Shot (20 PTS),,,69 - 97,28
+0020000087,364,2,1,3,6:51 AM,2:25,,,MISS Baker 14' Jump Shot,,
+0020000087,365,4,0,3,6:51 AM,2:24,Jackson REBOUND (Off:0 Def:1),,,,
+0020000087,366,2,1,3,6:51 AM,2:05,MISS Williams 16' Jump Shot,,,,
+0020000087,367,4,0,3,6:51 AM,2:03,Marbury REBOUND (Off:2 Def:3),,,,
+0020000087,368,2,4,3,6:51 AM,2:02,MISS Marbury  Tip Shot,,,,
+0020000087,369,4,0,3,6:51 AM,2:01,,,Patterson REBOUND (Off:0 Def:2),,
+0020000087,370,5,4,3,6:51 AM,1:58,,,Patterson Traveling Turnover (P3.T22),,
+0020000087,371,1,42,3,6:52 AM,1:43,Marbury  Driving Layup (39 PTS),,,69 - 99,30
+0020000087,372,1,1,3,6:52 AM,1:28,,,Lewis 26' 3PT Jump Shot (19 PTS) (Payton 8 AST),72 - 99,27
+0020000087,373,1,1,3,6:52 AM,1:16,Jackson 17' Jump Shot (13 PTS) (Marbury 9 AST),,,72 - 101,29
+0020000087,374,2,42,3,6:52 AM,1:06,,,MISS Payton  Driving Layup,,
+0020000087,375,4,0,3,6:52 AM,1:04,Williams REBOUND (Off:2 Def:4),,,,
+0020000087,376,1,42,3,6:52 AM,0:59,Marbury  Driving Layup (41 PTS),,,72 - 103,31
+0020000087,377,9,1,3,6:53 AM,0:59,,,SuperSonics Timeout: Regular (Reg.5 Short 1),,
+0020000087,379,8,0,3,6:54 AM,0:59,SUB: Douglas FOR Marbury,,,,
+0020000087,380,8,0,3,6:54 AM,0:59,SUB: McIlvaine FOR Eschmeyer,,,,
+0020000087,381,1,5,3,6:54 AM,0:43,,,McCoy  Layup (4 PTS),74 - 103,29
+0020000087,382,6,2,3,6:54 AM,0:43,McIlvaine S.FOUL (P4.PN),,,,
+0020000087,383,3,10,3,6:54 AM,0:43,,,McCoy Free Throw 1 of 1 (5 PTS),75 - 103,28
+0020000087,384,1,1,3,6:55 AM,0:24,Gill 14' Jump Shot (22 PTS),,,75 - 105,30
+0020000087,385,5,2,3,6:55 AM,0:03,Gill STEAL (4 STL),,Payton Lost Ball Turnover (P9.T23),,
+0020000087,386,5,2,3,6:55 AM,0:00,Jackson Lost Ball Turnover (P3.T13),,Lewis STEAL (2 STL),,
+0020000087,387,13,0,3,6:56 AM,0:00,,,,75 - 105,30
+0020000087,389,12,0,4,6:58 AM,12:00,,,,75 - 105,30
+0020000087,390,5,2,4,6:59 AM,11:41,Douglas STEAL (1 STL),,Wolkowyski Lost Ball Turnover (P2.T24),,
+0020000087,391,2,1,4,6:59 AM,11:22,MISS Newman 18' Jump Shot,,,,
+0020000087,392,4,0,4,6:59 AM,11:20,,,Mason REBOUND (Off:1 Def:1),,
+0020000087,393,2,1,4,6:59 AM,11:12,,,MISS Lewis  3PT Jump Shot,,
+0020000087,394,4,0,4,6:59 AM,11:10,Williams REBOUND (Off:2 Def:5),,,,
+0020000087,395,1,1,4,6:59 AM,10:53,Douglas 18' Jump Shot (2 PTS),,,75 - 107,32
+0020000087,396,6,2,4,7:00 AM,10:34,Williams S.FOUL (P4.T1),,,,
+0020000087,397,3,11,4,7:00 AM,10:34,,,Wolkowyski Free Throw 1 of 2 (3 PTS),76 - 107,31
+0020000087,398,3,12,4,7:00 AM,10:34,,,MISS Wolkowyski Free Throw 2 of 2,,
+0020000087,399,4,0,4,7:00 AM,10:33,Williams REBOUND (Off:2 Def:6),,,,
+0020000087,400,2,1,4,7:01 AM,10:13,MISS McIlvaine 14' Jump Shot,,,,
+0020000087,401,4,0,4,7:01 AM,10:11,,,Mason REBOUND (Off:1 Def:2),,
+0020000087,402,1,1,4,7:01 AM,10:06,,,Williams 22' Jump Shot (2 PTS),78 - 107,29
+0020000087,403,6,4,4,7:01 AM,9:47,Williams OFF.Foul (P5),,,,
+0020000087,404,5,5,4,7:01 AM,9:47,Williams Foul Turnover (P2.T14),,,,
+0020000087,405,2,47,4,7:01 AM,9:31,,,MISS McCoy 10' Turnaround Jump Shot,,
+0020000087,406,4,0,4,7:01 AM,9:30,Newman REBOUND (Off:0 Def:2),,,,
+0020000087,407,1,1,4,7:02 AM,9:11,Williams 18' Jump Shot (6 PTS) (Harris 2 AST),,,78 - 109,31
+0020000087,408,2,1,4,7:02 AM,9:02,,,MISS Williams 19' Jump Shot,,
+0020000087,409,4,0,4,7:02 AM,9:01,Williams REBOUND (Off:2 Def:7),,,,
+0020000087,410,6,14,4,7:02 AM,8:48,,,Mason FLAGRANT.FOUL.TYPE1 (P4.T1),,
+0020000087,411,9,4,4,7:03 AM,8:48,,,,,
+0020000087,413,3,18,4,7:04 AM,8:48,MISS Harris Free Throw Flagrant 1 of 2,,,,
+0020000087,414,4,1,4,7:04 AM,8:48,NETS Rebound,,,,
+0020000087,415,3,19,4,7:04 AM,8:48,Harris Free Throw Flagrant 2 of 2 (7 PTS),,,78 - 110,32
+0020000087,416,5,1,4,7:05 AM,8:43,Harris Bad Pass Turnover (P1.T15),,Lewis STEAL (3 STL),,
+0020000087,417,1,49,4,7:05 AM,8:40,,,Lewis  Driving Dunk (21 PTS),80 - 110,30
+0020000087,418,2,7,4,7:05 AM,8:17,MISS Williams  Dunk,,Wolkowyski BLOCK (2 BLK),,
+0020000087,419,4,0,4,7:05 AM,8:15,Harris REBOUND (Off:1 Def:0),,,,
+0020000087,420,1,1,4,7:05 AM,8:09,Harris 14' Jump Shot (9 PTS),,,80 - 112,32
+0020000087,421,6,2,4,7:06 AM,7:53,McIlvaine S.FOUL (P5.T2),,,,
+0020000087,422,3,11,4,7:06 AM,7:53,,,MISS McCoy Free Throw 1 of 2,,
+0020000087,423,4,1,4,7:06 AM,7:53,,,SuperSonics Rebound,,
+0020000087,424,3,12,4,7:06 AM,7:53,,,McCoy Free Throw 2 of 2 (6 PTS),81 - 112,31
+0020000087,426,5,1,4,7:07 AM,7:39,Newman Bad Pass Turnover (P3.T16),,Lewis STEAL (4 STL),,
+0020000087,427,2,1,4,7:07 AM,7:22,,,MISS McCoy 13' Jump Shot,,
+0020000087,428,4,0,4,7:07 AM,7:20,,,Lewis REBOUND (Off:1 Def:2),,
+0020000087,429,6,4,4,7:07 AM,7:17,,,Lewis OFF.Foul (P3),,
+0020000087,430,5,5,4,7:07 AM,7:17,,,Lewis Foul Turnover (P1.T25),,
+0020000087,431,6,4,4,7:08 AM,7:00,Williams OFF.Foul (P6),,,,
+0020000087,432,5,5,4,7:08 AM,7:00,Williams Foul Turnover (P3.T17),,,,
+0020000087,433,8,0,4,7:08 AM,7:00,SUB: Martin FOR Williams,,,,
+0020000087,434,2,3,4,7:08 AM,6:50,,,MISS Mason 10' Hook Shot,,
+0020000087,435,4,0,4,7:08 AM,6:48,McIlvaine REBOUND (Off:1 Def:2),,,,
+0020000087,436,1,1,4,7:09 AM,6:27,Harris 20' Jump Shot (11 PTS),,,81 - 114,33
+0020000087,437,2,5,4,7:09 AM,6:10,Martin BLOCK (2 BLK),,MISS Wolkowyski  Layup,,
+0020000087,438,4,0,4,7:09 AM,6:09,,,SuperSonics Rebound,,
+0020000087,439,8,0,4,7:09 AM,6:09,,,SUB: Patterson FOR Lewis,,
+0020000087,440,5,4,4,7:09 AM,6:02,,,McCoy Traveling Turnover (P1.T26),,
+0020000087,441,6,2,4,7:10 AM,5:53,,,Williams S.FOUL (P2.T2),,
+0020000087,442,9,1,4,7:10 AM,5:53,NETS Timeout: Regular (Full 4 Short 0),,,,
+0020000087,445,8,0,4,7:12 AM,5:53,,,SUB: Barry FOR Mason,,
+0020000087,446,3,11,4,7:12 AM,5:53,Newman Free Throw 1 of 2 (6 PTS),,,81 - 115,34
+0020000087,447,3,12,4,7:12 AM,5:53,Newman Free Throw 2 of 2 (7 PTS),,,81 - 116,35
+0020000087,448,6,1,4,7:12 AM,5:43,Douglas P.FOUL (P2.T3),,,,
+0020000087,449,8,0,4,7:12 AM,5:43,SUB: Samake FOR McIlvaine,,,,
+0020000087,450,8,0,4,7:12 AM,5:43,SUB: Ollie FOR Newman,,,,
+0020000087,451,5,1,4,7:13 AM,5:37,Douglas STEAL (2 STL),,Wolkowyski Bad Pass Turnover (P3.T27),,
+0020000087,452,1,42,4,7:13 AM,5:34,Douglas  Driving Layup (4 PTS),,,81 - 118,37
+0020000087,453,1,42,4,7:13 AM,5:28,,,Williams  Driving Layup (4 PTS),83 - 118,35
+0020000087,454,5,1,4,7:13 AM,5:06,Douglas Bad Pass Turnover (P1.T18),,Wolkowyski STEAL (1 STL),,
+0020000087,455,6,10,4,7:14 AM,4:58,,,,,
+0020000087,457,1,1,4,7:14 AM,4:45,,,Barry 23' Jump Shot (2 PTS) (Williams 2 AST),85 - 118,33
+0020000087,458,2,1,4,7:14 AM,4:26,MISS Douglas 19' Jump Shot,,,,
+0020000087,459,4,0,4,7:14 AM,4:24,,,McCoy REBOUND (Off:1 Def:1),,
+0020000087,460,5,1,4,7:14 AM,4:18,Harris STEAL (1 STL),,McCoy Bad Pass Turnover (P2.T28),,
+0020000087,461,2,42,4,7:15 AM,4:15,MISS Harris  Driving Layup,,Patterson BLOCK (1 BLK),,
+0020000087,462,4,0,4,7:15 AM,4:14,NETS Rebound,,,,
+0020000087,463,2,1,4,7:15 AM,3:55,MISS Douglas 25' 3PT Jump Shot,,,,
+0020000087,464,4,0,4,7:15 AM,3:53,Samake REBOUND (Off:2 Def:0),,,,
+0020000087,465,2,5,4,7:15 AM,3:51,MISS Samake  Layup,,,,
+0020000087,466,4,0,4,7:15 AM,3:50,,,McCoy REBOUND (Off:1 Def:2),,
+0020000087,467,5,2,4,7:15 AM,3:40,,,McCoy Lost Ball Turnover (P3.T29),,
+0020000087,468,2,42,4,7:16 AM,3:26,MISS Douglas  Driving Layup,,,,
+0020000087,469,4,0,4,7:16 AM,3:25,Samake REBOUND (Off:3 Def:0),,,,
+0020000087,470,1,8,4,7:16 AM,3:24,Samake  Slam Dunk (2 PTS),,,85 - 120,35
+0020000087,471,5,11,4,7:16 AM,2:55,,,SuperSonics Turnover: Shot Clock (T#30),,
+0020000087,472,9,1,4,7:16 AM,2:55,,,SuperSonics Timeout: Regular (Reg.6 Short 1),,
+0020000087,474,2,1,4,7:19 AM,2:38,MISS Martin 25' 3PT Jump Shot,,,,
+0020000087,475,4,0,4,7:19 AM,2:36,,,McCoy REBOUND (Off:1 Def:3),,
+0020000087,476,2,44,4,7:19 AM,2:21,,,MISS Patterson  Reverse Layup,,
+0020000087,477,4,0,4,7:19 AM,2:19,Douglas REBOUND (Off:0 Def:1),,,,
+0020000087,478,6,2,4,7:19 AM,2:16,,,Patterson S.FOUL (P2.T3),,
+0020000087,479,3,11,4,7:19 AM,2:16,MISS Harris Free Throw 1 of 2,,,,
+0020000087,480,4,1,4,7:19 AM,2:16,NETS Rebound,,,,
+0020000087,481,3,12,4,7:19 AM,2:16,Harris Free Throw 2 of 2 (12 PTS),,,85 - 121,36
+0020000087,482,6,2,4,7:20 AM,2:01,Douglas S.FOUL (P3.T4),,,,
+0020000087,483,3,11,4,7:20 AM,2:01,,,Williams Free Throw 1 of 2 (5 PTS),86 - 121,35
+0020000087,484,3,12,4,7:20 AM,2:01,,,MISS Williams Free Throw 2 of 2,,
+0020000087,485,4,0,4,7:20 AM,2:00,,,SuperSonics Rebound,,
+0020000087,486,1,1,4,7:21 AM,1:56,,,Williams 24' 3PT Jump Shot (8 PTS) (Barry 3 AST),89 - 121,32
+0020000087,487,1,1,4,7:21 AM,1:34,Douglas 25' 3PT Jump Shot (7 PTS) (Harris 3 AST),,,89 - 124,35
+0020000087,488,1,3,4,7:21 AM,1:20,,,McCoy 4' Hook Shot (8 PTS) (Patterson 1 AST),91 - 124,33
+0020000087,489,6,1,4,7:22 AM,1:13,,,Patterson P.FOUL (P3.T4),,
+0020000087,490,6,11,4,7:22 AM,1:13,,,Patterson T.FOUL (P3.T4),,
+0020000087,491,3,16,4,7:22 AM,1:13,MISS Ollie Free Throw Technical,,,,
+0020000087,492,4,1,4,7:22 AM,1:13,NETS Rebound,,,,
+0020000087,493,2,42,4,7:22 AM,1:07,MISS Ollie  Driving Layup,,,,
+0020000087,494,4,0,4,7:22 AM,1:06,Samake REBOUND (Off:4 Def:0),,,,
+0020000087,495,1,5,4,7:22 AM,1:04,Samake  Layup (4 PTS),,,91 - 126,35
+0020000087,496,2,1,4,7:23 AM,0:54,,,MISS Wolkowyski 12' Jump Shot,,
+0020000087,497,4,0,4,7:23 AM,0:52,Ollie REBOUND (Off:0 Def:1),,,,
+0020000087,498,2,1,4,7:23 AM,0:38,MISS Samake 14' Jump Shot,,,,
+0020000087,499,4,0,4,7:23 AM,0:36,,,Barry REBOUND (Off:1 Def:2),,
+0020000087,500,5,1,4,7:23 AM,0:31,,,Barry Bad Pass Turnover (P1.T31),,
+0020000087,501,7,6,4,7:24 AM,0:10,,,Barry Violation:Double Lane,,
+0020000087,502,13,0,4,7:24 AM,0:00,,,,91 - 126,35

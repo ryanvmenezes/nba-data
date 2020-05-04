@@ -1,0 +1,493 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000991,0,12,0,1,11:47 AM,12:00,,,,,
+0020000991,1,10,0,1,11:47 AM,12:00,Jump Ball Thomas vs. Van Horn: Tip to Houston,,,,
+0020000991,2,7,2,1,11:47 AM,11:49,,,Eschmeyer Violation:Defensive Goaltending,,
+0020000991,3,1,1,1,11:48 AM,11:44,Thomas 9' Jump Shot (2 PTS) (Houston 1 AST),,,0 - 2,2
+0020000991,4,1,1,1,11:48 AM,11:20,,,Newman 21' Jump Shot (2 PTS),2 - 2,TIE
+0020000991,5,1,46,1,11:49 AM,11:03,Thomas 5' Running Jump Shot (4 PTS),,,2 - 4,2
+0020000991,6,6,1,1,11:49 AM,10:53,Thomas P.FOUL (P1.T1),,,,
+0020000991,7,2,1,1,11:49 AM,10:47,,,MISS Jackson 21' Jump Shot,,
+0020000991,8,4,0,1,11:49 AM,10:44,Jackson REBOUND (Off:0 Def:1),,,,
+0020000991,9,2,1,1,11:50 AM,10:36,MISS Houston 22' Jump Shot,,,,
+0020000991,10,4,0,1,11:50 AM,10:34,,,Eschmeyer REBOUND (Off:0 Def:1),,
+0020000991,11,2,1,1,11:50 AM,10:28,,,MISS Marbury 26' 3PT Jump Shot,,
+0020000991,12,4,0,1,11:50 AM,10:26,Sprewell REBOUND (Off:0 Def:1),,,,
+0020000991,13,5,21,1,11:50 AM,10:22,Sprewell Palming Turnover (P1.T1),,,,
+0020000991,14,2,5,1,11:50 AM,10:07,,,MISS Van Horn  Layup,,
+0020000991,16,4,0,1,11:50 AM,10:06,,,Jackson REBOUND (Off:1 Def:0),,
+0020000991,15,2,40,1,11:50 AM,10:06,,,MISS Jackson  Layup,,
+0020000991,17,4,0,1,11:50 AM,10:05,,,Nets Rebound,,
+0020000991,18,2,1,1,11:51 AM,9:57,,,MISS Marbury 16' Jump Shot,,
+0020000991,19,4,0,1,11:51 AM,9:55,,,Eschmeyer REBOUND (Off:1 Def:1),,
+0020000991,20,2,1,1,11:51 AM,9:54,,,MISS Eschmeyer 7' Jump Shot,,
+0020000991,21,4,0,1,11:51 AM,9:53,Thomas REBOUND (Off:0 Def:1),,,,
+0020000991,22,6,1,1,11:51 AM,9:48,,,Jackson P.FOUL (P1.T1),,
+0020000991,23,6,1,1,11:51 AM,9:40,,,Newman P.FOUL (P1.T2),,
+0020000991,24,2,1,1,11:52 AM,9:33,MISS Sprewell 13' Jump Shot,,,,
+0020000991,25,4,0,1,11:52 AM,9:31,,,Van Horn REBOUND (Off:0 Def:1),,
+0020000991,26,2,3,1,11:52 AM,9:10,,,MISS Van Horn 6' Hook Shot,,
+0020000991,27,4,0,1,11:52 AM,9:08,Harrington REBOUND (Off:0 Def:1),,,,
+0020000991,28,2,1,1,11:52 AM,9:01,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020000991,29,4,0,1,11:52 AM,8:59,Thomas REBOUND (Off:1 Def:1),,,,
+0020000991,30,2,1,1,11:53 AM,8:48,MISS Thomas 5' Jump Shot,,,,
+0020000991,31,4,0,1,11:53 AM,8:45,,,Eschmeyer REBOUND (Off:1 Def:2),,
+0020000991,32,2,1,1,11:53 AM,8:40,,,MISS Jackson 17' Jump Shot,,
+0020000991,33,4,0,1,11:53 AM,8:38,Jackson REBOUND (Off:0 Def:2),,,,
+0020000991,34,5,2,1,11:53 AM,8:21,Harrington Lost Ball Turnover (P1.T2),,Newman STEAL (1 STL),,
+0020000991,35,2,5,1,11:53 AM,8:12,,,MISS Marbury  Layup,,
+0020000991,37,4,0,1,11:53 AM,8:08,,,Eschmeyer REBOUND (Off:2 Def:2),,
+0020000991,36,2,4,1,11:53 AM,8:08,Thomas BLOCK (1 BLK),,MISS Eschmeyer  Tip Shot,,
+0020000991,38,4,0,1,11:53 AM,8:06,,,Van Horn REBOUND (Off:1 Def:1),,
+0020000991,39,5,1,1,11:53 AM,8:04,Jackson STEAL (1 STL),,Jackson Bad Pass Turnover (P1.T1),,
+0020000991,40,1,5,1,11:53 AM,8:00,Sprewell  Layup (2 PTS) (Jackson 1 AST),,,2 - 6,4
+0020000991,41,6,2,1,11:53 AM,8:00,,,Marbury S.FOUL (P1.T3),,
+0020000991,42,3,10,1,11:54 AM,8:00,Sprewell Free Throw 1 of 1 (3 PTS),,,2 - 7,5
+0020000991,43,5,1,1,11:54 AM,7:50,Sprewell STEAL (1 STL),,Marbury Bad Pass Turnover (P1.T2),,
+0020000991,44,1,42,1,11:54 AM,7:47,Sprewell  Driving Layup (5 PTS),,,2 - 9,7
+0020000991,45,9,1,1,11:54 AM,7:35,,,Nets Timeout: Regular (Reg.1 Short 0),,
+0020000991,47,2,3,1,11:57 AM,7:26,,,MISS Van Horn 5' Hook Shot,,
+0020000991,48,4,0,1,11:57 AM,7:24,Harrington REBOUND (Off:0 Def:2),,,,
+0020000991,49,2,5,1,11:57 AM,7:15,MISS Harrington  Layup,,,,
+0020000991,50,4,0,1,11:57 AM,7:13,,,Van Horn REBOUND (Off:1 Def:2),,
+0020000991,51,6,4,1,11:57 AM,6:59,,,Marbury OFF.Foul (P2),,
+0020000991,52,5,5,1,11:57 AM,6:59,,,Marbury Foul Turnover (P2.T3),,
+0020000991,53,2,5,1,11:58 AM,6:44,MISS Houston  Layup,,,,
+0020000991,54,4,0,1,11:58 AM,6:42,,,Eschmeyer REBOUND (Off:2 Def:3),,
+0020000991,55,2,5,1,11:58 AM,6:30,Thomas BLOCK (2 BLK),,MISS Marbury  Layup,,
+0020000991,56,4,0,1,11:58 AM,6:28,Jackson REBOUND (Off:0 Def:3),,,,
+0020000991,57,6,2,1,11:58 AM,6:24,,,Eschmeyer S.FOUL (P1.T4),,
+0020000991,58,3,11,1,11:58 AM,6:24,Harrington Free Throw 1 of 2 (1 PTS),,,2 - 10,8
+0020000991,59,8,0,1,11:59 AM,6:24,,,SUB: Overton FOR Marbury,,
+0020000991,60,3,12,1,11:59 AM,6:24,MISS Harrington Free Throw 2 of 2,,,,
+0020000991,61,4,0,1,11:59 AM,6:23,,,Van Horn REBOUND (Off:1 Def:3),,
+0020000991,62,1,1,1,11:59 AM,6:05,,,Jackson 20' Jump Shot (2 PTS) (Van Horn 1 AST),4 - 10,6
+0020000991,63,2,5,1,12:00 PM,5:41,MISS Jackson  Layup,,,,
+0020000991,64,4,0,1,12:00 PM,5:39,,,Van Horn REBOUND (Off:1 Def:4),,
+0020000991,65,5,1,1,12:00 PM,5:18,Harrington STEAL (1 STL),,Jackson Bad Pass Turnover (P2.T4),,
+0020000991,66,1,49,1,12:00 PM,5:14,Harrington  Driving Dunk (3 PTS),,,4 - 12,8
+0020000991,67,2,5,1,12:00 PM,4:56,,,MISS Van Horn  Layup,,
+0020000991,68,4,0,1,12:00 PM,4:55,,,Nets Rebound,,
+0020000991,69,6,3,1,12:00 PM,4:55,Houston L.B.FOUL (P1.T2),,,,
+0020000991,70,8,0,1,12:01 PM,4:55,,,SUB: Williams FOR Jackson,,
+0020000991,71,1,8,1,12:01 PM,4:47,,,Van Horn  Slam Dunk (2 PTS) (Williams 1 AST),6 - 12,6
+0020000991,72,2,1,1,12:01 PM,4:28,MISS Jackson 24' 3PT Jump Shot,,,,
+0020000991,73,4,0,1,12:01 PM,4:26,,,Van Horn REBOUND (Off:1 Def:5),,
+0020000991,74,2,1,1,12:02 PM,4:13,,,MISS Newman 18' Jump Shot,,
+0020000991,75,4,0,1,12:02 PM,4:11,Thomas REBOUND (Off:1 Def:2),,,,
+0020000991,76,2,1,1,12:02 PM,4:00,MISS Jackson 6' Jump Shot,,,,
+0020000991,77,4,0,1,12:02 PM,3:59,KNICKS Rebound,,,,
+0020000991,78,6,3,1,12:02 PM,3:59,,,Eschmeyer L.B.FOUL (P2.PN),,
+0020000991,79,3,11,1,12:02 PM,3:59,Harrington Free Throw 1 of 2 (4 PTS),,,6 - 13,7
+0020000991,80,3,12,1,12:02 PM,3:59,Harrington Free Throw 2 of 2 (5 PTS),,,6 - 14,8
+0020000991,81,2,1,1,12:03 PM,3:48,,,MISS Overton 25' 3PT Jump Shot,,
+0020000991,82,4,0,1,12:03 PM,3:46,Thomas REBOUND (Off:1 Def:3),,,,
+0020000991,83,2,1,1,12:03 PM,3:41,MISS Houston 22' Jump Shot,,,,
+0020000991,84,4,0,1,12:03 PM,3:40,,,Overton REBOUND (Off:0 Def:1),,
+0020000991,85,6,2,1,12:03 PM,3:34,Harrington S.FOUL (P1.T3),,,,
+0020000991,86,3,11,1,12:03 PM,3:34,,,Van Horn Free Throw 1 of 2 (3 PTS),7 - 14,7
+0020000991,88,8,0,1,12:04 PM,3:34,SUB: Ward FOR Jackson,,,,
+0020000991,90,8,0,1,12:04 PM,3:34,,,SUB: Marbury FOR Eschmeyer,,
+0020000991,91,3,12,1,12:04 PM,3:34,,,Van Horn Free Throw 2 of 2 (4 PTS),8 - 14,6
+0020000991,92,2,5,1,12:04 PM,3:17,MISS Houston  Layup,,,,
+0020000991,93,4,0,1,12:05 PM,3:15,Houston REBOUND (Off:1 Def:0),,,,
+0020000991,94,2,5,1,12:05 PM,3:14,MISS Houston  Layup,,Williams BLOCK (1 BLK),,
+0020000991,95,4,0,1,12:05 PM,3:13,,,Williams REBOUND (Off:0 Def:1),,
+0020000991,96,6,3,1,12:05 PM,3:13,Thomas L.B.FOUL (P2.T4),,,,
+0020000991,97,8,0,1,12:05 PM,3:13,SUB: Knight FOR Thomas,,,,
+0020000991,98,2,1,1,12:05 PM,3:03,,,MISS Newman 24' 3PT Jump Shot,,
+0020000991,99,4,0,1,12:05 PM,3:01,Knight REBOUND (Off:0 Def:1),,,,
+0020000991,102,6,3,1,12:05 PM,3:01,,,Van Horn L.B.FOUL (P1.PN),,
+0020000991,103,3,11,1,12:06 PM,3:01,MISS Knight Free Throw 1 of 2,,,,
+0020000991,104,4,1,1,12:06 PM,3:01,KNICKS Rebound,,,,
+0020000991,105,3,12,1,12:06 PM,3:01,MISS Knight Free Throw 2 of 2,,,,
+0020000991,106,4,0,1,12:06 PM,3:01,,,Williams REBOUND (Off:0 Def:2),,
+0020000991,107,1,1,1,12:06 PM,2:41,,,Newman 15' Jump Shot (4 PTS),10 - 14,4
+0020000991,108,1,1,1,12:07 PM,2:24,Sprewell 6' Jump Shot (7 PTS) (Ward 1 AST),,,10 - 16,6
+0020000991,109,5,1,1,12:07 PM,2:11,Knight STEAL (1 STL),,Marbury Bad Pass Turnover (P3.T5),,
+0020000991,110,1,42,1,12:07 PM,2:06,Sprewell  Driving Layup (9 PTS) (Ward 2 AST),,,10 - 18,8
+0020000991,111,7,2,1,12:07 PM,1:51,Knight Violation:Defensive Goaltending,,,,
+0020000991,113,9,1,1,12:07 PM,1:51,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0020000991,115,6,1,1,12:10 PM,1:46,Harrington P.FOUL (P2.PN),,,,
+0020000991,116,3,11,1,12:10 PM,1:46,,,Williams Free Throw 1 of 2 (1 PTS),11 - 18,7
+0020000991,117,8,0,1,12:10 PM,1:46,SUB: Spencer FOR Harrington,,,,
+0020000991,118,3,12,1,12:10 PM,1:46,,,Williams Free Throw 2 of 2 (2 PTS),12 - 18,6
+0020000991,119,5,1,1,12:11 PM,1:32,Sprewell Bad Pass Turnover (P2.T3),,Williams STEAL (1 STL),,
+0020000991,120,6,4,1,12:11 PM,1:26,,,Williams OFF.Foul (P1),,
+0020000991,121,5,5,1,12:11 PM,1:26,,,Williams Foul Turnover (P1.T6),,
+0020000991,122,2,1,1,12:11 PM,1:14,MISS Sprewell 7' Jump Shot,,,,
+0020000991,123,4,0,1,12:11 PM,1:12,,,Marbury REBOUND (Off:0 Def:1),,
+0020000991,124,2,1,1,12:11 PM,1:07,,,MISS Marbury 20' Jump Shot,,
+0020000991,125,4,0,1,12:11 PM,1:05,Sprewell REBOUND (Off:0 Def:2),,,,
+0020000991,126,2,5,1,12:12 PM,0:58,MISS Spencer  Layup,,Williams BLOCK (2 BLK),,
+0020000991,127,4,0,1,12:12 PM,0:57,Spencer REBOUND (Off:1 Def:0),,,,
+0020000991,128,1,5,1,12:12 PM,0:56,Spencer  Layup (2 PTS),,,12 - 20,8
+0020000991,129,6,2,1,12:12 PM,0:42,Houston S.FOUL (P2.PN),,,,
+0020000991,130,3,11,1,12:12 PM,0:42,,,Newman Free Throw 1 of 2 (5 PTS),13 - 20,7
+0020000991,131,8,0,1,12:13 PM,0:42,SUB: Postell FOR Houston,,,,
+0020000991,132,3,12,1,12:13 PM,0:42,,,Newman Free Throw 2 of 2 (6 PTS),14 - 20,6
+0020000991,133,1,1,1,12:13 PM,0:26,Knight 18' Jump Shot (2 PTS) (Sprewell 1 AST),,,14 - 22,8
+0020000991,134,1,1,1,12:14 PM,0:06,,,Overton 25' 3PT Jump Shot (3 PTS) (Marbury 1 AST),17 - 22,5
+0020000991,135,2,1,1,12:14 PM,0:01,MISS Ward 28' 3PT Jump Shot,,,,
+0020000991,136,4,0,1,12:14 PM,0:00,,,Marbury REBOUND (Off:0 Def:2),,
+0020000991,137,13,0,1,12:14 PM,0:00,,,,17 - 22,5
+0020000991,139,12,0,2,12:17 PM,12:00,,,,17 - 22,5
+0020000991,140,2,1,2,12:17 PM,11:41,,,MISS Marbury 24' 3PT Jump Shot,,
+0020000991,141,4,0,2,12:17 PM,11:39,Postell REBOUND (Off:0 Def:1),,,,
+0020000991,142,2,5,2,12:17 PM,11:26,MISS Spencer  Layup,,,,
+0020000991,144,4,0,2,12:17 PM,11:24,Knight REBOUND (Off:1 Def:1),,,,
+0020000991,143,1,4,2,12:17 PM,11:24,Knight  Tip Shot (4 PTS),,,17 - 24,7
+0020000991,145,6,2,2,12:18 PM,11:03,Knight S.FOUL (P1.T1),,,,
+0020000991,146,3,11,2,12:18 PM,11:03,,,Van Horn Free Throw 1 of 2 (5 PTS),18 - 24,6
+0020000991,147,3,12,2,12:18 PM,11:03,,,Van Horn Free Throw 2 of 2 (6 PTS),19 - 24,5
+0020000991,148,1,1,2,12:19 PM,10:49,Sprewell 21' Jump Shot (11 PTS) (Spencer 1 AST),,,19 - 26,7
+0020000991,149,2,1,2,12:19 PM,10:31,,,MISS Overton 25' 3PT Jump Shot,,
+0020000991,150,4,0,2,12:19 PM,10:29,Sprewell REBOUND (Off:0 Def:3),,,,
+0020000991,151,2,1,2,12:19 PM,10:22,MISS Sprewell 20' Jump Shot,,,,
+0020000991,152,4,0,2,12:19 PM,10:21,,,Nets Rebound,,
+0020000991,153,8,0,2,12:19 PM,10:21,,,SUB: Eschmeyer FOR Van Horn,,
+0020000991,154,1,1,2,12:20 PM,10:08,,,Newman 16' Jump Shot (8 PTS),21 - 26,5
+0020000991,155,6,2,2,12:20 PM,10:08,Sprewell S.FOUL (P1.T2),,,,
+0020000991,157,8,0,2,12:20 PM,10:08,SUB: Thomas FOR Spencer,,,,
+0020000991,158,3,10,2,12:20 PM,10:08,,,Newman Free Throw 1 of 1 (9 PTS),22 - 26,4
+0020000991,159,1,1,2,12:21 PM,9:49,Sprewell 7' Jump Shot (13 PTS) (Ward 3 AST),,,22 - 28,6
+0020000991,160,6,17,2,12:21 PM,9:35,KNICKS T.Foul (Def. 3 Sec Postell ),,,,
+0020000991,161,3,16,2,12:21 PM,9:35,,,MISS Marbury Free Throw Technical,,
+0020000991,162,4,1,2,12:21 PM,9:35,,,Nets Rebound,,
+0020000991,163,2,1,2,12:22 PM,9:29,,,MISS Overton 23' Jump Shot,,
+0020000991,164,4,0,2,12:22 PM,9:27,Sprewell REBOUND (Off:0 Def:4),,,,
+0020000991,165,6,2,2,12:22 PM,9:18,,,Williams S.FOUL (P2.T1),,
+0020000991,166,3,11,2,12:22 PM,9:18,Knight Free Throw 1 of 2 (5 PTS),,,22 - 29,7
+0020000991,167,8,0,2,12:22 PM,9:18,,,SUB: Jackson FOR Newman,,
+0020000991,168,3,12,2,12:22 PM,9:18,Knight Free Throw 2 of 2 (6 PTS),,,22 - 30,8
+0020000991,169,2,1,2,12:23 PM,9:00,,,MISS Overton 25' 3PT Jump Shot,,
+0020000991,170,4,0,2,12:23 PM,8:58,Sprewell REBOUND (Off:0 Def:5),,,,
+0020000991,171,2,5,2,12:23 PM,8:54,MISS Postell  Layup,,,,
+0020000991,172,4,0,2,12:23 PM,8:52,,,Overton REBOUND (Off:0 Def:2),,
+0020000991,173,2,5,2,12:23 PM,8:45,Knight BLOCK (1 BLK),,MISS Marbury  Layup,,
+0020000991,174,4,0,2,12:23 PM,8:42,,,Marbury REBOUND (Off:1 Def:2),,
+0020000991,175,1,5,2,12:23 PM,8:42,,,Marbury  Layup (2 PTS),24 - 30,6
+0020000991,176,6,2,2,12:23 PM,8:26,,,Jackson S.FOUL (P2.T2),,
+0020000991,177,9,4,2,12:24 PM,8:26,,,,,
+0020000991,179,8,0,2,12:26 PM,8:26,,,SUB: Van Horn FOR Overton,,
+0020000991,181,3,11,2,12:26 PM,8:26,Sprewell Free Throw 1 of 2 (14 PTS),,,24 - 31,7
+0020000991,182,3,12,2,12:26 PM,8:26,Sprewell Free Throw 2 of 2 (15 PTS),,,24 - 32,8
+0020000991,183,1,8,2,12:27 PM,8:17,,,Eschmeyer  Slam Dunk (2 PTS) (Williams 2 AST),26 - 32,6
+0020000991,184,6,1,2,12:27 PM,8:05,,,Jackson P.FOUL (P3.T3),,
+0020000991,185,8,0,2,12:27 PM,8:05,,,SUB: Newman FOR Jackson,,
+0020000991,186,5,2,2,12:27 PM,7:59,Sprewell Lost Ball Turnover (P3.T4),,,,
+0020000991,187,1,1,2,12:28 PM,7:40,,,Newman 21' Jump Shot (11 PTS) (Marbury 2 AST),28 - 32,4
+0020000991,188,2,1,2,12:28 PM,7:14,MISS Knight 17' Jump Shot,,,,
+0020000991,189,4,0,2,12:28 PM,7:12,,,Van Horn REBOUND (Off:1 Def:6),,
+0020000991,190,1,1,2,12:28 PM,7:05,,,Marbury 20' Jump Shot (4 PTS),30 - 32,2
+0020000991,191,9,1,2,12:28 PM,6:58,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0020000991,193,8,0,2,12:31 PM,6:58,SUB: Houston FOR Sprewell,,,,
+0020000991,194,8,0,2,12:31 PM,6:58,SUB: Jackson FOR Knight,,,,
+0020000991,195,8,0,2,12:31 PM,6:58,SUB: Harrington FOR Postell,,,,
+0020000991,196,2,5,2,12:31 PM,6:50,MISS Harrington  Layup,,Williams BLOCK (3 BLK),,
+0020000991,197,4,0,2,12:31 PM,6:47,,,Eschmeyer REBOUND (Off:2 Def:4),,
+0020000991,198,2,40,2,12:31 PM,6:36,,,MISS Williams  Layup,,
+0020000991,200,4,0,2,12:31 PM,6:34,,,Williams REBOUND (Off:1 Def:2),,
+0020000991,199,2,4,2,12:31 PM,6:34,,,MISS Williams  Tip Shot,,
+0020000991,201,4,0,2,12:31 PM,6:32,Thomas REBOUND (Off:1 Def:4),,,,
+0020000991,202,2,1,2,12:32 PM,6:27,MISS Houston  3PT Jump Shot,,,,
+0020000991,203,4,0,2,12:32 PM,6:25,Houston REBOUND (Off:2 Def:0),,,,
+0020000991,204,2,1,2,12:32 PM,6:21,MISS Ward 24' 3PT Jump Shot,,,,
+0020000991,205,4,0,2,12:32 PM,6:19,Harrington REBOUND (Off:1 Def:2),,,,
+0020000991,206,5,1,2,12:32 PM,6:15,Jackson Bad Pass Turnover (P1.T5),,Williams STEAL (2 STL),,
+0020000991,207,10,0,2,12:32 PM,6:08,Jump Ball Harrington vs. Williams: Tip to Thomas,,,,
+0020000991,208,5,1,2,12:32 PM,6:08,Harrington STEAL (2 STL),,Marbury Bad Pass Turnover (P4.T7),,
+0020000991,209,2,1,2,12:32 PM,5:54,MISS Houston 16' Jump Shot,,,,
+0020000991,210,4,0,2,12:33 PM,5:52,,,Marbury REBOUND (Off:1 Def:3),,
+0020000991,211,2,1,2,12:33 PM,5:42,,,MISS Williams 18' Jump Shot,,
+0020000991,212,4,0,2,12:33 PM,5:40,Thomas REBOUND (Off:1 Def:5),,,,
+0020000991,213,2,1,2,12:33 PM,5:24,MISS Harrington 6' Jump Shot,,,,
+0020000991,214,4,0,2,12:33 PM,5:22,,,Eschmeyer REBOUND (Off:2 Def:5),,
+0020000991,215,1,1,2,12:33 PM,5:18,,,Marbury 24' 3PT Jump Shot (7 PTS),33 - 32,-1
+0020000991,216,6,2,2,12:33 PM,4:59,,,Williams S.FOUL (P3.T4),,
+0020000991,217,8,0,2,12:34 PM,4:59,SUB: Sprewell FOR Ward,,,,
+0020000991,218,3,11,2,12:34 PM,4:59,Thomas Free Throw 1 of 2 (5 PTS),,,33 - 33,TIE
+0020000991,219,8,0,2,12:34 PM,4:59,,,SUB: Samake FOR Williams,,
+0020000991,221,7,4,2,12:34 PM,4:59,,,Van Horn Violation:Jump Ball,,
+0020000991,222,3,12,2,12:34 PM,4:59,MISS Thomas Free Throw 2 of 2,,,,
+0020000991,223,4,0,2,12:35 PM,4:58,,,Marbury REBOUND (Off:1 Def:4),,
+0020000991,224,1,5,2,12:35 PM,4:40,,,Eschmeyer  Layup (4 PTS) (Marbury 3 AST),35 - 33,-2
+0020000991,225,6,1,2,12:35 PM,4:28,,,Eschmeyer P.FOUL (P3.PN),,
+0020000991,226,3,11,2,12:36 PM,4:28,MISS Thomas Free Throw 1 of 2,,,,
+0020000991,227,4,1,2,12:36 PM,4:28,KNICKS Rebound,,,,
+0020000991,229,8,0,2,12:36 PM,4:28,,,SUB: Stepania FOR Eschmeyer,,
+0020000991,230,3,12,2,12:36 PM,4:28,Thomas Free Throw 2 of 2 (6 PTS),,,35 - 34,-1
+0020000991,231,1,1,2,12:36 PM,4:17,,,Newman 25' 3PT Jump Shot (14 PTS) (Marbury 4 AST),38 - 34,-4
+0020000991,232,2,1,2,12:37 PM,3:58,MISS Thomas 18' Jump Shot,,,,
+0020000991,233,4,0,2,12:37 PM,3:56,,,Van Horn REBOUND (Off:1 Def:7),,
+0020000991,234,1,46,2,12:37 PM,3:49,,,Marbury 9' Running Jump Shot (9 PTS),40 - 34,-6
+0020000991,235,9,2,2,12:37 PM,3:42,KNICKS Timeout: Short (Full 2 Short 1),,,,
+0020000991,236,2,1,2,12:38 PM,3:26,MISS Houston 18' Jump Shot,,,,
+0020000991,237,4,0,2,12:38 PM,3:24,,,Van Horn REBOUND (Off:1 Def:8),,
+0020000991,238,5,3,2,12:39 PM,3:08,,,Newman Out Of Bounds Turnover (P1.T8),,
+0020000991,239,8,0,2,12:39 PM,3:08,SUB: Ward FOR Jackson,,,,
+0020000991,240,6,2,2,12:39 PM,2:57,,,Stepania S.FOUL (P1.PN),,
+0020000991,241,9,1,2,12:39 PM,2:57,,,Nets Timeout: Regular (Reg.2 Short 0),,
+0020000991,243,3,11,2,12:42 PM,2:57,MISS Thomas Free Throw 1 of 2,,,,
+0020000991,244,4,1,2,12:42 PM,2:57,KNICKS Rebound,,,,
+0020000991,245,3,12,2,12:42 PM,2:57,Thomas Free Throw 2 of 2 (7 PTS),,,40 - 35,-5
+0020000991,246,1,1,2,12:42 PM,2:43,,,Marbury 27' 3PT Jump Shot (12 PTS) (Newman 1 AST),43 - 35,-8
+0020000991,247,2,1,2,12:43 PM,2:25,MISS Ward 25' 3PT Jump Shot,,,,
+0020000991,248,4,0,2,12:43 PM,2:21,,,Stepania REBOUND (Off:0 Def:1),,
+0020000991,249,1,5,2,12:43 PM,2:19,,,Marbury  Layup (14 PTS) (Stepania 1 AST),45 - 35,-10
+0020000991,250,6,2,2,12:43 PM,2:19,Ward S.FOUL (P1.T3),,,,
+0020000991,251,3,10,2,12:43 PM,2:19,,,MISS Marbury Free Throw 1 of 1,,
+0020000991,252,4,0,2,12:43 PM,2:18,Houston REBOUND (Off:2 Def:1),,,,
+0020000991,253,6,2,2,12:43 PM,2:05,,,Stepania S.FOUL (P2.PN),,
+0020000991,254,3,11,2,12:43 PM,2:05,Houston Free Throw 1 of 2 (1 PTS),,,45 - 36,-9
+0020000991,255,8,0,2,12:44 PM,2:05,SUB: Knight FOR Thomas,,,,
+0020000991,256,3,12,2,12:44 PM,2:05,Houston Free Throw 2 of 2 (2 PTS),,,45 - 37,-8
+0020000991,257,1,42,2,12:44 PM,1:53,,,Marbury  Driving Layup (16 PTS),47 - 37,-10
+0020000991,258,1,1,2,12:45 PM,1:34,Ward  3PT Jump Shot (3 PTS) (Sprewell 2 AST),,,47 - 40,-7
+0020000991,259,6,2,2,12:45 PM,1:07,Harrington S.FOUL (P3.T4),,,,
+0020000991,260,3,11,2,12:45 PM,1:07,,,Newman Free Throw 1 of 2 (15 PTS),48 - 40,-8
+0020000991,261,8,0,2,12:45 PM,1:07,SUB: Postell FOR Harrington,,,,
+0020000991,262,3,12,2,12:46 PM,1:07,,,MISS Newman Free Throw 2 of 2,,
+0020000991,263,4,0,2,12:46 PM,1:07,,,Samake REBOUND (Off:1 Def:0),,
+0020000991,264,1,5,2,12:46 PM,1:05,,,Samake  Layup (2 PTS),50 - 40,-10
+0020000991,265,1,1,2,12:46 PM,0:49,Houston 25' 3PT Jump Shot (5 PTS),,,50 - 43,-7
+0020000991,266,1,1,2,12:46 PM,0:34,,,Van Horn 25' 3PT Jump Shot (9 PTS) (Marbury 5 AST),53 - 43,-10
+0020000991,267,2,1,2,12:47 PM,0:12,MISS Houston 25' 3PT Jump Shot,,,,
+0020000991,268,4,0,2,12:47 PM,0:11,,,Nets Rebound,,
+0020000991,269,8,0,2,12:47 PM,0:11,SUB: Jackson FOR Houston,,,,
+0020000991,270,8,0,2,12:47 PM,0:11,SUB: Spencer FOR Postell,,,,
+0020000991,271,5,1,2,12:48 PM,0:02,,,Marbury Bad Pass Turnover (P5.T9),,
+0020000991,272,13,0,2,12:48 PM,0:00,,,,53 - 43,-10
+0020000991,274,12,0,3,1:05 PM,12:00,,,,53 - 43,-10
+0020000991,275,2,1,3,1:05 PM,11:39,,,MISS Marbury 25' 3PT Jump Shot,,
+0020000991,276,4,0,3,1:05 PM,11:37,,,Eschmeyer REBOUND (Off:3 Def:5),,
+0020000991,277,2,5,3,1:05 PM,11:31,Harrington BLOCK (1 BLK),,MISS Marbury  Layup,,
+0020000991,278,4,0,3,1:05 PM,11:29,Jackson REBOUND (Off:0 Def:4),,,,
+0020000991,279,1,5,3,1:05 PM,11:23,Harrington  Layup (7 PTS) (Jackson 2 AST),,,53 - 45,-8
+0020000991,280,1,5,3,1:06 PM,11:11,,,Jackson  Layup (4 PTS) (Marbury 6 AST),55 - 45,-10
+0020000991,281,2,5,3,1:06 PM,10:50,MISS Jackson  Layup,,,,
+0020000991,282,4,0,3,1:06 PM,10:48,,,Van Horn REBOUND (Off:1 Def:9),,
+0020000991,283,6,2,3,1:06 PM,10:46,Houston S.FOUL (P3.T1),,,,
+0020000991,284,3,11,3,1:06 PM,10:46,,,Marbury Free Throw 1 of 2 (17 PTS),56 - 45,-11
+0020000991,285,3,12,3,1:07 PM,10:46,,,Marbury Free Throw 2 of 2 (18 PTS),57 - 45,-12
+0020000991,286,2,1,3,1:07 PM,10:28,MISS Houston 17' Jump Shot,,,,
+0020000991,287,4,0,3,1:07 PM,10:26,,,Newman REBOUND (Off:0 Def:1),,
+0020000991,288,6,1,3,1:07 PM,10:18,Thomas P.FOUL (P3.T2),,,,
+0020000991,289,1,3,3,1:08 PM,10:11,,,Van Horn 12' Hook Shot (11 PTS) (Jackson 1 AST),59 - 45,-14
+0020000991,290,2,5,3,1:08 PM,9:58,MISS Thomas  Layup,,Eschmeyer BLOCK (1 BLK),,
+0020000991,291,4,0,3,1:08 PM,9:57,Thomas REBOUND (Off:2 Def:5),,,,
+0020000991,292,5,4,3,1:08 PM,9:56,Thomas Traveling Turnover (P1.T6),,,,
+0020000991,293,2,1,3,1:08 PM,9:42,,,MISS Jackson 24' 3PT Jump Shot,,
+0020000991,294,4,0,3,1:08 PM,9:40,Thomas REBOUND (Off:2 Def:6),,,,
+0020000991,295,1,1,3,1:08 PM,9:36,Sprewell 20' Jump Shot (17 PTS) (Jackson 3 AST),,,59 - 47,-12
+0020000991,296,2,1,3,1:09 PM,9:15,,,MISS Van Horn 20' Jump Shot,,
+0020000991,297,4,0,3,1:09 PM,9:13,Jackson REBOUND (Off:0 Def:5),,,,
+0020000991,298,1,1,3,1:09 PM,9:09,Sprewell 22' Jump Shot (19 PTS),,,59 - 49,-10
+0020000991,299,5,1,3,1:09 PM,8:50,Houston STEAL (1 STL),,Van Horn Bad Pass Turnover (P1.T10),,
+0020000991,300,5,1,3,1:09 PM,8:45,Houston Bad Pass Turnover (P1.T7),,Jackson STEAL (1 STL),,
+0020000991,301,2,1,3,1:09 PM,8:41,,,MISS Marbury 24' 3PT Jump Shot,,
+0020000991,302,4,0,3,1:09 PM,8:38,,,Jackson REBOUND (Off:2 Def:0),,
+0020000991,303,2,5,3,1:09 PM,8:37,,,MISS Jackson  Layup,,
+0020000991,304,4,0,3,1:09 PM,8:35,Harrington REBOUND (Off:1 Def:3),,,,
+0020000991,305,6,1,3,1:09 PM,8:33,,,Marbury P.FOUL (P3.T1),,
+0020000991,306,2,1,3,1:10 PM,8:16,MISS Houston 25' 3PT Jump Shot,,,,
+0020000991,307,4,0,3,1:10 PM,8:14,,,Nets Rebound,,
+0020000991,308,6,3,3,1:10 PM,8:14,Harrington L.B.FOUL (P4.T3),,,,
+0020000991,309,1,1,3,1:11 PM,7:58,,,Van Horn 21' Jump Shot (13 PTS) (Marbury 7 AST),61 - 49,-12
+0020000991,310,9,1,3,1:11 PM,7:51,KNICKS Timeout: Regular (Full 3 Short 1),,,,
+0020000991,313,2,1,3,1:13 PM,7:33,MISS Jackson 24' 3PT Jump Shot,,,,
+0020000991,314,4,0,3,1:13 PM,7:31,,,Newman REBOUND (Off:0 Def:2),,
+0020000991,315,6,1,3,1:13 PM,7:16,Thomas P.FOUL (P4.T4),,,,
+0020000991,316,3,11,3,1:14 PM,7:16,,,Newman Free Throw 1 of 2 (16 PTS),62 - 49,-13
+0020000991,317,8,0,3,1:14 PM,7:16,SUB: Knight FOR Thomas,,,,
+0020000991,318,3,12,3,1:14 PM,7:16,,,MISS Newman Free Throw 2 of 2,,
+0020000991,319,4,0,3,1:14 PM,7:15,Jackson REBOUND (Off:0 Def:6),,,,
+0020000991,320,2,1,3,1:14 PM,7:09,MISS Sprewell 19' Jump Shot,,,,
+0020000991,321,4,0,3,1:14 PM,7:07,,,Nets Rebound,,
+0020000991,322,2,1,3,1:15 PM,6:51,,,MISS Jackson 21' Jump Shot,,
+0020000991,323,4,0,3,1:15 PM,6:49,Knight REBOUND (Off:1 Def:2),,,,
+0020000991,324,2,5,3,1:15 PM,6:35,MISS Harrington  Layup,,,,
+0020000991,325,4,0,3,1:15 PM,6:33,,,Nets Rebound,,
+0020000991,326,6,3,3,1:15 PM,6:33,Knight L.B.FOUL (P2.PN),,,,
+0020000991,327,3,11,3,1:16 PM,6:33,,,Newman Free Throw 1 of 2 (17 PTS),63 - 49,-14
+0020000991,329,9,2,3,1:16 PM,6:33,KNICKS Timeout: Short (Full 3 Short 2),,,,
+0020000991,330,3,12,3,1:17 PM,6:33,,,Newman Free Throw 2 of 2 (18 PTS),64 - 49,-15
+0020000991,331,2,5,3,1:17 PM,6:19,MISS Harrington  Layup,,Eschmeyer BLOCK (2 BLK),,
+0020000991,332,10,0,3,1:17 PM,6:19,Jump Ball Harrington vs. Eschmeyer: Tip to Sprewell,,,,
+0020000991,333,4,0,3,1:17 PM,6:19,KNICKS Rebound,,,,
+0020000991,334,1,42,3,1:18 PM,6:07,Jackson  Driving Layup (2 PTS),,,64 - 51,-13
+0020000991,335,2,1,3,1:18 PM,5:44,Harrington BLOCK (2 BLK),,MISS Van Horn 13' Jump Shot,,
+0020000991,336,4,0,3,1:18 PM,5:42,Knight REBOUND (Off:1 Def:3),,,,
+0020000991,337,1,1,3,1:18 PM,5:38,Houston 7' Jump Shot (7 PTS),,,64 - 53,-11
+0020000991,338,9,1,3,1:18 PM,5:29,,,Nets Timeout: Regular (Reg.3 Short 0),,
+0020000991,340,1,49,3,1:21 PM,5:17,,,Jackson  Driving Dunk (6 PTS) (Van Horn 2 AST),66 - 53,-13
+0020000991,341,2,1,3,1:21 PM,5:00,MISS Jackson 14' Jump Shot,,,,
+0020000991,342,4,0,3,1:21 PM,4:58,,,Newman REBOUND (Off:0 Def:3),,
+0020000991,343,2,1,3,1:22 PM,4:40,,,MISS Newman 24' 3PT Jump Shot,,
+0020000991,344,4,0,3,1:22 PM,4:38,Knight REBOUND (Off:1 Def:4),,,,
+0020000991,345,2,1,3,1:22 PM,4:25,MISS Knight 18' Jump Shot,,,,
+0020000991,346,4,0,3,1:22 PM,4:24,Jackson REBOUND (Off:1 Def:6),,,,
+0020000991,347,1,5,3,1:22 PM,4:23,Jackson  Layup (4 PTS),,,66 - 55,-11
+0020000991,348,2,1,3,1:22 PM,4:05,,,MISS Van Horn 9' Jump Shot,,
+0020000991,349,4,0,3,1:22 PM,4:04,Houston REBOUND (Off:2 Def:2),,,,
+0020000991,350,6,1,3,1:23 PM,4:02,,,Marbury P.FOUL (P4.T2),,
+0020000991,351,8,0,3,1:23 PM,4:02,SUB: Thomas FOR Harrington,,,,
+0020000991,352,8,0,3,1:23 PM,4:02,,,SUB: Williams FOR Van Horn,,
+0020000991,353,6,1,3,1:23 PM,3:48,,,Williams P.FOUL (P4.T3),,
+0020000991,354,2,1,3,1:24 PM,3:41,MISS Houston 6' Jump Shot,,,,
+0020000991,355,4,0,3,1:24 PM,3:39,,,Eschmeyer REBOUND (Off:3 Def:6),,
+0020000991,356,2,1,3,1:24 PM,3:30,,,MISS Marbury 26' 3PT Jump Shot,,
+0020000991,357,4,0,3,1:24 PM,3:28,Houston REBOUND (Off:2 Def:3),,,,
+0020000991,358,2,1,3,1:24 PM,3:11,MISS Sprewell 24' 3PT Jump Shot,,,,
+0020000991,359,4,0,3,1:24 PM,3:10,Jackson REBOUND (Off:2 Def:6),,,,
+0020000991,360,6,2,3,1:24 PM,3:08,,,Eschmeyer S.FOUL (P4.T4),,
+0020000991,361,3,11,3,1:24 PM,3:08,Sprewell Free Throw 1 of 2 (20 PTS),,,66 - 56,-10
+0020000991,362,3,12,3,1:25 PM,3:08,Sprewell Free Throw 2 of 2 (21 PTS),,,66 - 57,-9
+0020000991,363,1,1,3,1:26 PM,2:45,,,Jackson 18' Jump Shot (8 PTS) (Eschmeyer 1 AST),68 - 57,-11
+0020000991,364,5,2,3,1:26 PM,2:21,Jackson Lost Ball Turnover (P2.T8),,Eschmeyer STEAL (1 STL),,
+0020000991,365,6,1,3,1:26 PM,2:09,Thomas P.FOUL (P5.PN),,,,
+0020000991,366,3,11,3,1:27 PM,2:09,,,Newman Free Throw 1 of 2 (19 PTS),69 - 57,-12
+0020000991,367,8,0,3,1:27 PM,2:09,SUB: Harrington FOR Thomas,,,,
+0020000991,368,8,0,3,1:27 PM,2:09,,,SUB: Overton FOR Marbury,,
+0020000991,369,3,12,3,1:27 PM,2:09,,,Newman Free Throw 2 of 2 (20 PTS),70 - 57,-13
+0020000991,370,2,1,3,1:28 PM,1:50,MISS Knight 5' Jump Shot,,,,
+0020000991,371,4,0,3,1:28 PM,1:49,,,Nets Rebound,,
+0020000991,373,2,40,3,1:28 PM,1:33,,,MISS Williams  Layup,,
+0020000991,375,4,0,3,1:28 PM,1:31,,,Williams REBOUND (Off:2 Def:2),,
+0020000991,374,1,4,3,1:28 PM,1:31,,,Williams  Tip Shot (4 PTS),72 - 57,-15
+0020000991,376,1,42,3,1:28 PM,1:10,Houston  Driving Layup (9 PTS),,,72 - 59,-13
+0020000991,377,1,3,3,1:29 PM,0:45,,,Williams 4' Hook Shot (6 PTS),74 - 59,-15
+0020000991,378,1,42,3,1:29 PM,0:34,Jackson  Driving Layup (6 PTS),,,74 - 61,-13
+0020000991,379,6,2,3,1:29 PM,0:34,,,Eschmeyer S.FOUL (P5.PN),,
+0020000991,380,8,0,3,1:29 PM,0:34,SUB: Ward FOR Knight,,,,
+0020000991,381,8,0,3,1:29 PM,0:34,,,SUB: Samake FOR Eschmeyer,,
+0020000991,382,3,10,3,1:30 PM,0:34,Jackson Free Throw 1 of 1 (7 PTS),,,74 - 62,-12
+0020000991,383,1,1,3,1:30 PM,0:15,,,Newman 16' Jump Shot (22 PTS),76 - 62,-14
+0020000991,384,2,1,3,1:30 PM,0:05,MISS Jackson  3PT Jump Shot,,,,
+0020000991,385,4,0,3,1:30 PM,0:03,,,Williams REBOUND (Off:2 Def:3),,
+0020000991,386,2,1,3,1:31 PM,0:00,,,MISS Jackson 40' 3PT Jump Shot,,
+0020000991,387,4,0,3,1:31 PM,0:00,,,Nets Rebound,,
+0020000991,388,13,0,3,1:31 PM,0:00,,,,76 - 62,-14
+0020000991,390,12,0,4,1:33 PM,12:00,,,,76 - 62,-14
+0020000991,391,1,1,4,1:33 PM,11:49,Ward 16' Jump Shot (5 PTS),,,76 - 64,-12
+0020000991,392,6,2,4,1:33 PM,11:49,,,Newman S.FOUL (P2.T1),,
+0020000991,393,3,10,4,1:33 PM,11:49,MISS Ward Free Throw 1 of 1,,,,
+0020000991,394,4,0,4,1:34 PM,11:48,KNICKS Rebound,,,,
+0020000991,395,6,3,4,1:34 PM,11:48,,,Williams L.B.FOUL (P5.T2),,
+0020000991,396,1,1,4,1:34 PM,11:35,Sprewell 7' Jump Shot (23 PTS),,,76 - 66,-10
+0020000991,397,2,1,4,1:35 PM,11:16,,,MISS Newman 19' Jump Shot,,
+0020000991,398,4,0,4,1:35 PM,11:14,Thomas REBOUND (Off:2 Def:7),,,,
+0020000991,399,2,1,4,1:35 PM,11:06,MISS Houston 8' Jump Shot,,,,
+0020000991,400,4,0,4,1:35 PM,11:04,,,Jackson REBOUND (Off:2 Def:1),,
+0020000991,401,5,1,4,1:35 PM,10:48,Harrington STEAL (3 STL),,Van Horn Bad Pass Turnover (P2.T11),,
+0020000991,402,2,1,4,1:35 PM,10:42,MISS Houston 21' Jump Shot,,,,
+0020000991,403,4,0,4,1:35 PM,10:39,,,Newman REBOUND (Off:0 Def:4),,
+0020000991,404,2,1,4,1:36 PM,10:18,Harrington BLOCK (3 BLK),,MISS Van Horn 21' Jump Shot,,
+0020000991,405,4,0,4,1:36 PM,10:16,Thomas REBOUND (Off:2 Def:8),,,,
+0020000991,406,2,5,4,1:36 PM,10:01,MISS Sprewell  Layup,,,,
+0020000991,408,4,0,4,1:36 PM,9:59,Harrington REBOUND (Off:2 Def:3),,,,
+0020000991,407,2,4,4,1:36 PM,9:59,MISS Harrington  Tip Shot,,,,
+0020000991,409,8,0,4,1:36 PM,9:59,,,SUB: Marbury FOR Jackson,,
+0020000991,411,10,0,4,1:36 PM,9:59,Jump Ball Harrington vs. Williams: Tip to Van Horn,,,,
+0020000991,410,4,0,4,1:37 PM,9:59,,,Nets Rebound,,
+0020000991,413,2,1,4,1:37 PM,9:35,,,MISS Newman 16' Jump Shot,,
+0020000991,414,4,0,4,1:37 PM,9:32,Sprewell REBOUND (Off:0 Def:6),,,,
+0020000991,415,1,42,4,1:37 PM,9:23,Ward  Driving Layup (7 PTS) (Sprewell 3 AST),,,76 - 68,-8
+0020000991,416,2,1,4,1:37 PM,9:05,,,MISS Van Horn 21' Jump Shot,,
+0020000991,417,4,0,4,1:37 PM,9:03,Houston REBOUND (Off:2 Def:4),,,,
+0020000991,418,1,5,4,1:38 PM,9:00,Thomas  Layup (9 PTS) (Houston 2 AST),,,76 - 70,-6
+0020000991,421,9,1,4,1:38 PM,8:58,,,Nets Timeout: Regular (Reg.4 Short 0),,
+0020000991,423,2,1,4,1:40 PM,8:46,,,MISS Marbury 25' 3PT Jump Shot,,
+0020000991,424,4,0,4,1:40 PM,8:44,Houston REBOUND (Off:2 Def:5),,,,
+0020000991,425,2,5,4,1:40 PM,8:38,MISS Houston  Layup,,Williams BLOCK (4 BLK),,
+0020000991,426,4,0,4,1:40 PM,8:36,Ward REBOUND (Off:1 Def:0),,,,
+0020000991,427,6,1,4,1:40 PM,8:33,,,Williams P.FOUL (P6.T3),,
+0020000991,428,8,0,4,1:41 PM,8:33,,,SUB: Eschmeyer FOR Williams,,
+0020000991,429,6,1,4,1:41 PM,8:27,,,Newman P.FOUL (P3.T4),,
+0020000991,430,2,1,4,1:41 PM,8:19,MISS Sprewell 16' Jump Shot,,,,
+0020000991,431,4,0,4,1:41 PM,8:17,,,Eschmeyer REBOUND (Off:3 Def:7),,
+0020000991,432,1,42,4,1:42 PM,8:04,,,Marbury  Driving Layup (20 PTS),78 - 70,-8
+0020000991,433,1,44,4,1:42 PM,7:48,Harrington  Reverse Layup (9 PTS) (Houston 3 AST),,,78 - 72,-6
+0020000991,434,2,1,4,1:42 PM,7:32,,,MISS Newman 17' Jump Shot,,
+0020000991,435,4,0,4,1:42 PM,7:30,,,Van Horn REBOUND (Off:2 Def:9),,
+0020000991,436,1,5,4,1:42 PM,7:27,,,Van Horn  Layup (15 PTS),80 - 72,-8
+0020000991,437,2,1,4,1:42 PM,7:13,MISS Houston 17' Jump Shot,,,,
+0020000991,438,4,0,4,1:43 PM,7:12,Ward REBOUND (Off:2 Def:0),,,,
+0020000991,439,2,1,4,1:43 PM,7:08,MISS Ward 6' Jump Shot,,,,
+0020000991,440,4,0,4,1:43 PM,7:08,KNICKS Rebound,,,,
+0020000991,441,6,1,4,1:43 PM,7:08,,,Eschmeyer P.FOUL (P6.PN),,
+0020000991,442,8,0,4,1:43 PM,7:08,,,SUB: Jackson FOR Overton,,
+0020000991,443,8,0,4,1:43 PM,7:08,,,SUB: Stepania FOR Eschmeyer,,
+0020000991,444,3,11,4,1:43 PM,7:08,Harrington Free Throw 1 of 2 (10 PTS),,,80 - 73,-7
+0020000991,445,3,12,4,1:43 PM,7:08,Harrington Free Throw 2 of 2 (11 PTS),,,80 - 74,-6
+0020000991,446,1,42,4,1:44 PM,6:49,,,Newman  Driving Layup (24 PTS),82 - 74,-8
+0020000991,447,6,2,4,1:44 PM,6:49,Harrington S.FOUL (P5.T1),,,,
+0020000991,448,3,10,4,1:44 PM,6:49,,,MISS Newman Free Throw 1 of 1,,
+0020000991,449,4,0,4,1:45 PM,6:49,Ward REBOUND (Off:2 Def:1),,,,
+0020000991,450,2,1,4,1:45 PM,6:33,MISS Houston 16' Jump Shot,,,,
+0020000991,451,4,0,4,1:45 PM,6:31,,,Nets Rebound,,
+0020000991,452,6,2,4,1:45 PM,6:19,Thomas S.FOUL (P6.T2),,,,
+0020000991,453,9,1,4,1:45 PM,6:19,KNICKS Timeout: Regular (Full 4 Short 2),,,,
+0020000991,455,8,0,4,1:48 PM,6:19,SUB: Jackson FOR Thomas,,,,
+0020000991,456,3,11,4,1:48 PM,6:19,,,Stepania Free Throw 1 of 2 (1 PTS),83 - 74,-9
+0020000991,457,3,12,4,1:48 PM,6:19,,,Stepania Free Throw 2 of 2 (2 PTS),84 - 74,-10
+0020000991,458,5,8,4,1:49 PM,6:00,Harrington 3 Second Violation Turnover (P2.T9),,,,
+0020000991,459,2,1,4,1:49 PM,5:47,,,MISS Marbury 6' Jump Shot,,
+0020000991,460,4,0,4,1:49 PM,5:46,Sprewell REBOUND (Off:0 Def:7),,,,
+0020000991,461,2,1,4,1:50 PM,5:40,MISS Sprewell 18' Jump Shot,,,,
+0020000991,462,4,0,4,1:50 PM,5:38,,,Marbury REBOUND (Off:1 Def:5),,
+0020000991,463,2,1,4,1:50 PM,5:19,,,MISS Jackson 24' 3PT Jump Shot,,
+0020000991,464,4,0,4,1:50 PM,5:17,,,Nets Rebound,,
+0020000991,465,5,2,4,1:50 PM,5:11,Jackson STEAL (2 STL),,Van Horn Lost Ball Turnover (P3.T12),,
+0020000991,467,5,1,4,1:51 PM,5:03,Ward Bad Pass Turnover (P1.T10),,Newman STEAL (2 STL),,
+0020000991,468,6,2,4,1:51 PM,4:46,Ward S.FOUL (P2.T3),,,,
+0020000991,469,9,1,4,1:51 PM,4:46,KNICKS Timeout: Regular (Full 5 Short 2),,,,
+0020000991,471,3,11,4,1:53 PM,4:46,,,Jackson Free Throw 1 of 2 (9 PTS),85 - 74,-11
+0020000991,472,3,12,4,1:53 PM,4:46,,,Jackson Free Throw 2 of 2 (10 PTS),86 - 74,-12
+0020000991,473,2,1,4,1:54 PM,4:31,MISS Ward 25' 3PT Jump Shot,,,,
+0020000991,474,4,0,4,1:54 PM,4:29,,,Jackson REBOUND (Off:2 Def:2),,
+0020000991,475,2,5,4,1:54 PM,4:08,,,MISS Newman  Layup,,
+0020000991,476,4,0,4,1:54 PM,4:06,Houston REBOUND (Off:2 Def:6),,,,
+0020000991,477,1,1,4,1:54 PM,4:00,Houston 22' Jump Shot (11 PTS),,,86 - 76,-10
+0020000991,478,1,1,4,1:55 PM,3:42,,,Van Horn 16' Jump Shot (17 PTS) (Stepania 2 AST),88 - 76,-12
+0020000991,479,2,1,4,1:55 PM,3:18,MISS Ward 15' Jump Shot,,,,
+0020000991,480,4,0,4,1:55 PM,3:17,Jackson REBOUND (Off:3 Def:6),,,,
+0020000991,481,2,3,4,1:55 PM,3:14,MISS Jackson 6' Hook Shot,,Stepania BLOCK (1 BLK),,
+0020000991,482,4,0,4,1:55 PM,3:11,,,Van Horn REBOUND (Off:2 Def:10),,
+0020000991,483,1,42,4,1:55 PM,2:58,,,Marbury  Driving Layup (22 PTS),90 - 76,-14
+0020000991,484,5,4,4,1:56 PM,2:38,Harrington Traveling Turnover (P3.T11),,,,
+0020000991,485,2,1,4,1:56 PM,2:17,,,MISS Jackson 15' Jump Shot,,
+0020000991,486,4,0,4,1:56 PM,2:15,,,Stepania REBOUND (Off:1 Def:1),,
+0020000991,487,5,2,4,1:56 PM,2:14,Harrington STEAL (4 STL),,Stepania Lost Ball Turnover (P1.T13),,
+0020000991,488,1,42,4,1:56 PM,2:05,Harrington  Driving Layup (13 PTS) (Jackson 4 AST),,,90 - 78,-12
+0020000991,489,6,2,4,1:56 PM,2:05,,,Stepania S.FOUL (P3.PN),,
+0020000991,490,3,10,4,1:57 PM,2:05,MISS Harrington Free Throw 1 of 1,,,,
+0020000991,491,4,0,4,1:57 PM,2:04,,,Stepania REBOUND (Off:1 Def:2),,
+0020000991,492,5,2,4,1:57 PM,1:55,Houston STEAL (2 STL),,Van Horn Lost Ball Turnover (P4.T14),,
+0020000991,493,2,1,4,1:57 PM,1:49,MISS Houston 25' 3PT Jump Shot,,,,
+0020000991,494,4,0,4,1:57 PM,1:48,,,Nets Rebound,,
+0020000991,495,6,3,4,1:57 PM,1:48,Harrington L.B.FOUL (P6.T4),,,,
+0020000991,496,8,0,4,1:58 PM,1:48,SUB: Postell FOR Harrington,,,,
+0020000991,497,9,1,4,1:58 PM,1:48,,,Nets Timeout: Regular (Reg.5 Short 0),,
+0020000991,499,8,0,4,1:59 PM,1:48,,,SUB: Overton FOR Stepania,,
+0020000991,500,9,2,4,2:00 PM,1:34,,,Nets Timeout: Short (Reg.5 Short 1),,
+0020000991,501,2,1,4,2:01 PM,1:27,,,MISS Newman 25' 3PT Jump Shot,,
+0020000991,502,4,0,4,2:01 PM,1:25,Houston REBOUND (Off:2 Def:7),,,,
+0020000991,503,2,1,4,2:01 PM,1:17,MISS Postell 24' 3PT Jump Shot,,,,
+0020000991,504,4,0,4,2:01 PM,1:15,,,Van Horn REBOUND (Off:2 Def:11),,
+0020000991,505,5,2,4,2:01 PM,1:00,Houston STEAL (3 STL),,Jackson Lost Ball Turnover (P3.T15),,
+0020000991,506,1,42,4,2:01 PM,0:57,Ward  Driving Layup (9 PTS) (Houston 4 AST),,,90 - 80,-10
+0020000991,507,6,2,4,2:02 PM,0:48,Postell S.FOUL (P1.PN),,,,
+0020000991,508,3,11,4,2:02 PM,0:48,,,Newman Free Throw 1 of 2 (25 PTS),91 - 80,-11
+0020000991,509,3,12,4,2:02 PM,0:48,,,Newman Free Throw 2 of 2 (26 PTS),92 - 80,-12
+0020000991,510,1,42,4,2:02 PM,0:43,Sprewell  Driving Layup (25 PTS),,,92 - 82,-10
+0020000991,512,6,2,4,2:02 PM,0:43,,,Jackson S.FOUL (P4.PN),,
+0020000991,513,3,10,4,2:03 PM,0:43,Sprewell Free Throw 1 of 1 (26 PTS),,,92 - 83,-9
+0020000991,514,1,7,4,2:03 PM,0:36,,,Van Horn  Dunk (19 PTS) (Overton 1 AST),94 - 83,-11
+0020000991,515,1,1,4,2:03 PM,0:31,Sprewell 25' 3PT Jump Shot (29 PTS),,,94 - 86,-8
+0020000991,516,6,1,4,2:03 PM,0:29,Ward P.FOUL (P3.PN),,,,
+0020000991,517,3,11,4,2:04 PM,0:29,,,Overton Free Throw 1 of 2 (4 PTS),95 - 86,-9
+0020000991,518,3,12,4,2:04 PM,0:29,,,MISS Overton Free Throw 2 of 2,,
+0020000991,519,4,0,4,2:04 PM,0:29,Sprewell REBOUND (Off:0 Def:8),,,,
+0020000991,520,2,1,4,2:04 PM,0:23,MISS Sprewell 25' 3PT Jump Shot,,,,
+0020000991,521,4,0,4,2:04 PM,0:21,,,Overton REBOUND (Off:0 Def:3),,
+0020000991,522,13,0,4,2:04 PM,0:00,,,,95 - 86,-9

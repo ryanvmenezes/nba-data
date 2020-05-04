@@ -1,0 +1,532 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021201012,0,12,0,1,8:10 PM,12:00,,,,,
+0021201012,1,10,0,1,8:10 PM,12:00,Jump Ball Randolph vs. Ibaka: Tip to Durant,,,,
+0021201012,2,2,79,1,8:10 PM,11:44,,,MISS Durant 21' Pullup Jump Shot,,
+0021201012,3,4,0,1,8:10 PM,11:42,,,Thunder Rebound,,
+0021201012,4,6,4,1,8:11 PM,11:40,,,Perkins OFF.Foul (P1),,
+0021201012,5,5,5,1,8:11 PM,11:40,,,Perkins Foul Turnover (P1.T1),,
+0021201012,6,2,1,1,8:11 PM,11:24,MISS Prince 15' Jump Shot,,,,
+0021201012,8,4,0,1,8:11 PM,11:20,Randolph REBOUND (Off:1 Def:0),,,,
+0021201012,7,1,5,1,8:11 PM,11:20,Randolph 2' Layup (2 PTS),,,0 - 2,2
+0021201012,9,2,79,1,8:11 PM,11:03,,,MISS Durant 16' Pullup Jump Shot,,
+0021201012,10,4,0,1,8:12 PM,11:01,Gasol REBOUND (Off:0 Def:1),,,,
+0021201012,11,5,1,1,8:12 PM,10:59,Gasol Bad Pass Turnover (P1.T1),,Westbrook STEAL (1 STL),,
+0021201012,12,2,1,1,8:12 PM,10:54,,,MISS Sefolosha 25' 3PT Jump Shot,,
+0021201012,13,4,0,1,8:12 PM,10:52,Randolph REBOUND (Off:1 Def:1),,,,
+0021201012,14,1,79,1,8:12 PM,10:41,Conley 20' Pullup Jump Shot (2 PTS),,,0 - 4,4
+0021201012,15,7,5,1,8:12 PM,10:21,Gasol Violation:Kicked Ball,,,,
+0021201012,16,2,42,1,8:13 PM,10:15,Allen BLOCK (1 BLK),,MISS Westbrook 2' Driving Layup,,
+0021201012,17,4,0,1,8:13 PM,10:14,,,Westbrook REBOUND (Off:1 Def:0),,
+0021201012,65,2,40,1,8:13 PM,10:12,Conley BLOCK (1 BLK),,MISS Westbrook 2' Layup,,
+0021201012,18,4,1,1,8:13 PM,10:12,Conley REBOUND (Off:0 Def:1),,,,
+0021201012,19,1,1,1,8:13 PM,10:06,Prince  3PT Jump Shot (3 PTS) (Allen 1 AST),,,0 - 7,7
+0021201012,20,6,11,1,8:13 PM,10:06,,,Westbrook T.FOUL (P0.T0),,
+0021201012,21,3,16,1,8:13 PM,10:06,Conley Free Throw Technical (3 PTS),,,0 - 8,8
+0021201012,23,2,42,1,8:14 PM,9:58,,,MISS Westbrook 1' Driving Layup,,
+0021201012,24,4,0,1,8:14 PM,9:55,Randolph REBOUND (Off:1 Def:2),,,,
+0021201012,25,6,1,1,8:14 PM,9:53,,,Westbrook P.FOUL (P1.T1),,
+0021201012,26,2,80,1,8:14 PM,9:40,MISS Randolph 14' Step Back Jump Shot,,Ibaka BLOCK (1 BLK),,
+0021201012,27,4,0,1,8:14 PM,9:38,,,Perkins REBOUND (Off:0 Def:1),,
+0021201012,29,1,46,1,8:15 PM,9:33,,,Durant 8' Running Jump Shot (2 PTS),2 - 8,6
+0021201012,30,1,1,1,8:15 PM,9:12,Conley 25' 3PT Jump Shot (6 PTS) (Prince 1 AST),,,2 - 11,9
+0021201012,31,6,2,1,8:16 PM,8:54,Allen S.FOUL (P1.T1),,,,
+0021201012,32,3,11,1,8:16 PM,8:54,,,Sefolosha Free Throw 1 of 2 (1 PTS),3 - 11,8
+0021201012,34,3,12,1,8:16 PM,8:54,,,Sefolosha Free Throw 2 of 2 (2 PTS),4 - 11,7
+0021201012,36,5,1,1,8:17 PM,8:32,Conley Bad Pass Turnover (P1.T2),,Ibaka STEAL (1 STL),,
+0021201012,37,6,2,1,8:17 PM,8:26,Allen S.FOUL (P2.T2),,,,
+0021201012,38,3,11,1,8:17 PM,8:26,,,MISS Sefolosha Free Throw 1 of 2,,
+0021201012,39,4,1,1,8:17 PM,8:26,,,Thunder Rebound,,
+0021201012,40,3,12,1,8:17 PM,8:26,,,Sefolosha Free Throw 2 of 2 (3 PTS),5 - 11,6
+0021201012,42,6,2,1,8:18 PM,8:07,,,Ibaka S.FOUL (P1.T2),,
+0021201012,43,3,11,1,8:18 PM,8:07,Randolph Free Throw 1 of 2 (3 PTS),,,5 - 12,7
+0021201012,45,3,12,1,8:19 PM,8:07,Randolph Free Throw 2 of 2 (4 PTS),,,5 - 13,8
+0021201012,47,1,1,1,8:19 PM,7:42,,,Ibaka 12' Jump Shot (2 PTS) (Durant 1 AST),7 - 13,6
+0021201012,48,1,5,1,8:20 PM,7:17,Randolph 1' Layup (6 PTS) (Allen 2 AST),,,7 - 15,8
+0021201012,49,6,2,1,8:20 PM,7:00,Conley S.FOUL (P1.T3),,,,
+0021201012,50,3,11,1,8:20 PM,7:00,,,Durant Free Throw 1 of 2 (3 PTS),8 - 15,7
+0021201012,52,3,12,1,8:21 PM,7:00,,,Durant Free Throw 2 of 2 (4 PTS),9 - 15,6
+0021201012,54,2,1,1,8:21 PM,6:40,MISS Allen 22' Jump Shot,,,,
+0021201012,55,4,0,1,8:21 PM,6:39,,,Ibaka REBOUND (Off:0 Def:1),,
+0021201012,56,2,1,1,8:21 PM,6:32,,,MISS Westbrook 26' 3PT Jump Shot,,
+0021201012,57,4,0,1,8:21 PM,6:30,Gasol REBOUND (Off:0 Def:2),,,,
+0021201012,58,2,3,1,8:22 PM,6:18,MISS Randolph 8' Hook Shot,,,,
+0021201012,59,4,0,1,8:22 PM,6:16,,,Perkins REBOUND (Off:0 Def:2),,
+0021201012,60,2,47,1,8:22 PM,6:09,,,MISS Durant 14' Turnaround Jump Shot,,
+0021201012,61,4,0,1,8:22 PM,6:06,Gasol REBOUND (Off:0 Def:3),,,,
+0021201012,62,2,5,1,8:22 PM,5:58,MISS Randolph 3' Layup,,,,
+0021201012,64,4,0,1,8:22 PM,5:56,Allen REBOUND (Off:1 Def:0),,,,
+0021201012,63,1,4,1,8:22 PM,5:56,Allen 1' Tip Shot (2 PTS),,,9 - 17,8
+0021201012,66,5,2,1,8:22 PM,5:37,Conley STEAL (1 STL),,Durant Lost Ball Turnover (P1.T2),,
+0021201012,67,2,1,1,8:22 PM,5:30,MISS Conley 27' 3PT Jump Shot,,,,
+0021201012,68,4,0,1,8:22 PM,5:28,,,Perkins REBOUND (Off:0 Def:3),,
+0021201012,69,9,1,1,8:23 PM,5:25,,,Thunder Timeout: Regular (Reg.1 Short 0),,
+0021201012,71,8,0,1,8:25 PM,5:25,,,SUB: Martin FOR Sefolosha,,
+0021201012,73,5,8,1,8:25 PM,5:17,,,Ibaka 3 Second Violation Turnover (P1.T3),,
+0021201012,74,2,1,1,8:26 PM,5:04,MISS Conley 27' 3PT Jump Shot,,,,
+0021201012,75,4,0,1,8:26 PM,5:03,,,Ibaka REBOUND (Off:0 Def:2),,
+0021201012,76,2,1,1,8:26 PM,4:45,,,MISS Ibaka 16' Jump Shot,,
+0021201012,77,4,0,1,8:26 PM,4:44,Allen REBOUND (Off:1 Def:1),,,,
+0021201012,78,5,8,1,8:27 PM,4:34,Randolph 3 Second Violation Turnover (P1.T3),,,,
+0021201012,79,2,79,1,8:27 PM,4:09,,,MISS Durant 19' Pullup Jump Shot,,
+0021201012,80,4,0,1,8:27 PM,4:06,Conley REBOUND (Off:0 Def:2),,,,
+0021201012,81,2,78,1,8:27 PM,3:58,MISS Conley 10' Floating Jump Shot,,,,
+0021201012,82,4,0,1,8:27 PM,3:56,Randolph REBOUND (Off:2 Def:2),,,,
+0021201012,83,2,5,1,8:27 PM,3:55,MISS Randolph 3' Layup,,,,
+0021201012,84,4,0,1,8:27 PM,3:55,,,Thunder Rebound,,
+0021201012,85,6,3,1,8:28 PM,3:55,Allen L.B.FOUL (P3.T4),,,,
+0021201012,86,8,0,1,8:28 PM,3:55,SUB: Bayless FOR Allen,,,,
+0021201012,89,8,0,1,8:28 PM,3:55,,,SUB: Collison FOR Ibaka,,
+0021201012,87,2,1,1,8:28 PM,3:39,,,MISS Westbrook 15' Jump Shot,,
+0021201012,88,4,0,1,8:28 PM,3:38,Conley REBOUND (Off:0 Def:3),,,,
+0021201012,90,1,1,1,8:28 PM,3:24,Prince 21' Jump Shot (5 PTS) (Bayless 1 AST),,,9 - 19,10
+0021201012,91,2,1,1,8:29 PM,3:06,,,MISS Martin 25' 3PT Jump Shot,,
+0021201012,92,4,0,1,8:29 PM,3:05,Randolph REBOUND (Off:2 Def:3),,,,
+0021201012,93,2,1,1,8:29 PM,2:48,MISS Randolph 7' Jump Shot,,Durant BLOCK (1 BLK),,
+0021201012,94,4,0,1,8:29 PM,2:47,Randolph REBOUND (Off:3 Def:3),,,,
+0021201012,95,2,1,1,8:29 PM,2:44,MISS Bayless 26' 3PT Jump Shot,,,,
+0021201012,96,4,0,1,8:29 PM,2:43,Bayless REBOUND (Off:1 Def:0),,,,
+0021201012,97,2,1,1,8:29 PM,2:29,MISS Prince 19' Jump Shot,,,,
+0021201012,98,4,0,1,8:29 PM,2:29,,,Thunder Rebound,,
+0021201012,99,6,3,1,8:29 PM,2:29,Randolph L.B.FOUL (P1.PN),,,,
+0021201012,100,9,1,1,8:30 PM,2:29,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,
+0021201012,102,8,0,1,8:32 PM,2:29,SUB: Davis FOR Gasol,,,,
+0021201012,103,8,0,1,8:32 PM,2:29,,,SUB: Thabeet FOR Durant,,
+0021201012,104,8,0,1,8:32 PM,2:29,,,SUB: Jackson FOR Perkins,,
+0021201012,123,8,0,1,8:32 PM,2:29,SUB: Gasol FOR Randolph,,,,
+0021201012,105,3,11,1,8:32 PM,2:29,,,Collison Free Throw 1 of 2 (1 PTS),10 - 19,9
+0021201012,107,3,12,1,8:33 PM,2:29,,,Collison Free Throw 2 of 2 (2 PTS),11 - 19,8
+0021201012,109,6,1,1,8:33 PM,2:22,,,Thabeet P.FOUL (P1.T3),,
+0021201012,110,8,0,1,8:33 PM,2:22,SUB: Wroten FOR Conley,,,,
+0021201012,111,2,58,1,8:34 PM,2:06,MISS Prince 9' Turnaround Hook Shot,,,,
+0021201012,112,4,0,1,8:34 PM,2:04,,,Collison REBOUND (Off:0 Def:1),,
+0021201012,113,1,66,1,8:34 PM,1:50,,,Martin 10' Jump Bank Shot (2 PTS),13 - 19,6
+0021201012,114,6,26,1,8:34 PM,1:41,Wroten Offensive Charge Foul (P1.PN),,,,
+0021201012,115,5,5,1,8:34 PM,1:41,Wroten Foul Turnover (P1.T4),,,,
+0021201012,116,5,2,1,8:35 PM,1:20,Bayless STEAL (1 STL),,Westbrook Lost Ball Turnover (P1.T4),,
+0021201012,117,2,7,1,8:35 PM,1:15,MISS Prince  Dunk,,,,
+0021201012,118,4,0,1,8:35 PM,1:12,,,Collison REBOUND (Off:0 Def:2),,
+0021201012,119,1,79,1,8:35 PM,1:07,,,Jackson 12' Pullup Jump Shot (2 PTS),15 - 19,4
+0021201012,120,6,1,1,8:35 PM,0:54,,,Thabeet P.FOUL (P2.T4),,
+0021201012,121,8,0,1,8:35 PM,0:54,SUB: Pondexter FOR Prince,,,,
+0021201012,122,1,52,1,8:36 PM,0:51,Bayless  Alley Oop Dunk (2 PTS) (Wroten 1 AST),,,15 - 21,6
+0021201012,124,2,1,1,8:36 PM,0:33,,,MISS Martin 18' Jump Shot,,
+0021201012,125,4,0,1,8:36 PM,0:32,Gasol REBOUND (Off:0 Def:4),,,,
+0021201012,126,5,1,1,8:36 PM,0:11,Gasol Bad Pass Turnover (P2.T5),,,,
+0021201012,127,2,1,1,8:37 PM,0:01,,,MISS Westbrook 25' 3PT Jump Shot,,
+0021201012,128,4,0,1,8:37 PM,0:00,,,Thabeet REBOUND (Off:1 Def:0),,
+0021201012,130,13,0,1,8:37 PM,0:00,,,,15 - 21,6
+0021201012,132,12,0,2,8:39 PM,12:00,,,,15 - 21,6
+0021201012,133,2,1,2,8:40 PM,11:43,MISS Gasol 10' Jump Shot,,,,
+0021201012,134,4,0,2,8:40 PM,11:42,,,Thabeet REBOUND (Off:1 Def:1),,
+0021201012,135,7,5,2,8:40 PM,11:29,Davis Violation:Kicked Ball,,,,
+0021201012,136,6,1,2,8:40 PM,11:29,Pondexter P.FOUL (P1.T1),,,,
+0021201012,137,1,1,2,8:40 PM,11:18,,,Martin 4' Jump Shot (4 PTS),17 - 21,4
+0021201012,138,1,56,2,8:41 PM,10:57,Gasol 7' Running Hook Shot (2 PTS),,,17 - 23,6
+0021201012,139,2,1,2,8:41 PM,10:36,Davis BLOCK (1 BLK),,MISS Martin 7' Jump Shot,,
+0021201012,140,4,0,2,8:41 PM,10:35,Gasol REBOUND (Off:0 Def:5),,,,
+0021201012,141,6,26,2,8:41 PM,10:31,Wroten Offensive Charge Foul (P2.T2),,,,
+0021201012,142,5,5,2,8:41 PM,10:31,Wroten Foul Turnover (P2.T6),,,,
+0021201012,143,1,5,2,8:42 PM,10:17,,,Martin 1' Layup (6 PTS) (Collison 1 AST),19 - 23,4
+0021201012,144,6,2,2,8:42 PM,10:17,Pondexter S.FOUL (P2.T3),,,,
+0021201012,145,3,10,2,8:42 PM,10:17,,,MISS Martin Free Throw 1 of 1,,
+0021201012,147,4,0,2,8:42 PM,10:17,Gasol REBOUND (Off:0 Def:6),,,,
+0021201012,148,5,13,2,8:43 PM,9:57,Gasol Backcourt Turnover (P3.T7),,,,
+0021201012,149,2,1,2,8:43 PM,9:40,,,MISS Fisher 26' 3PT Jump Shot,,
+0021201012,150,4,0,2,8:43 PM,9:38,GRIZZLIES Rebound,,,,
+0021201012,151,6,2,2,8:44 PM,9:27,,,Thabeet S.FOUL (P3.T1),,
+0021201012,152,3,11,2,8:44 PM,9:27,Wroten Free Throw 1 of 2 (1 PTS),,,19 - 24,5
+0021201012,155,8,0,2,8:44 PM,9:27,,,SUB: Durant FOR Thabeet,,
+0021201012,156,3,12,2,8:44 PM,9:27,Wroten Free Throw 2 of 2 (2 PTS),,,19 - 25,6
+0021201012,158,6,2,2,8:45 PM,9:10,Davis S.FOUL (P1.T4),,,,
+0021201012,159,3,11,2,8:45 PM,9:10,,,Durant Free Throw 1 of 2 (5 PTS),20 - 25,5
+0021201012,161,8,0,2,8:46 PM,9:10,SUB: Prince FOR Gasol,,,,
+0021201012,162,8,0,2,8:46 PM,9:10,SUB: Randolph FOR Davis,,,,
+0021201012,163,8,0,2,8:46 PM,9:10,SUB: Conley FOR Wroten,,,,
+0021201012,164,3,12,2,8:46 PM,9:10,,,MISS Durant Free Throw 2 of 2,,
+0021201012,166,4,0,2,8:46 PM,9:08,,,Collison REBOUND (Off:1 Def:2),,
+0021201012,167,5,4,2,8:46 PM,9:03,,,Martin Traveling Turnover (P1.T5),,
+0021201012,168,2,1,2,8:46 PM,8:46,MISS Bayless 20' Jump Shot,,,,
+0021201012,169,4,0,2,8:46 PM,8:45,,,Jackson REBOUND (Off:0 Def:1),,
+0021201012,170,2,1,2,8:47 PM,8:38,,,MISS Jackson 4' Jump Shot,,
+0021201012,171,4,0,2,8:47 PM,8:36,,,Durant REBOUND (Off:1 Def:0),,
+0021201012,172,1,71,2,8:47 PM,8:36,,,Durant 1' Finger Roll Layup (7 PTS),22 - 25,3
+0021201012,173,9,1,2,8:47 PM,8:30,GRIZZLIES Timeout: Regular (Full 2 Short 0),,,,
+0021201012,177,5,1,2,8:50 PM,8:13,Randolph Bad Pass Turnover (P2.T8),,,,
+0021201012,178,6,2,2,8:50 PM,8:04,Bayless S.FOUL (P1.PN),,,,
+0021201012,179,3,11,2,8:50 PM,8:04,,,Martin Free Throw 1 of 2 (7 PTS),23 - 25,2
+0021201012,181,3,12,2,8:50 PM,8:04,,,Martin Free Throw 2 of 2 (8 PTS),24 - 25,1
+0021201012,183,1,47,2,8:51 PM,7:44,Randolph 11' Turnaround Jump Shot (8 PTS),,,24 - 27,3
+0021201012,184,2,80,2,8:51 PM,7:23,,,MISS Durant 20' Step Back Jump Shot,,
+0021201012,185,4,0,2,8:51 PM,7:22,Randolph REBOUND (Off:3 Def:4),,,,
+0021201012,186,2,1,2,8:52 PM,7:02,MISS Bayless 26' 3PT Jump Shot,,,,
+0021201012,187,4,0,2,8:52 PM,7:00,Prince REBOUND (Off:1 Def:0),,,,
+0021201012,188,2,1,2,8:52 PM,6:56,MISS Pondexter 24' 3PT Jump Shot,,,,
+0021201012,189,4,0,2,8:52 PM,6:55,Conley REBOUND (Off:1 Def:3),,,,
+0021201012,190,1,1,2,8:52 PM,6:52,Randolph 4' Jump Shot (10 PTS) (Conley 1 AST),,,24 - 29,5
+0021201012,191,1,79,2,8:52 PM,6:29,,,Jackson 10' Pullup Jump Shot (4 PTS),26 - 29,3
+0021201012,192,2,1,2,8:53 PM,6:07,MISS Conley 17' Jump Shot,,,,
+0021201012,193,4,0,2,8:53 PM,6:06,GRIZZLIES Rebound,,,,
+0021201012,194,8,0,2,8:53 PM,6:06,,,SUB: Westbrook FOR Fisher,,
+0021201012,195,8,0,2,8:53 PM,6:06,,,SUB: Perkins FOR Collison,,
+0021201012,196,1,1,2,8:53 PM,5:51,Randolph 5' Jump Shot (12 PTS),,,26 - 31,5
+0021201012,197,2,1,2,8:54 PM,5:23,,,MISS Martin 24' 3PT Jump Shot,,
+0021201012,198,4,0,2,8:54 PM,5:21,Randolph REBOUND (Off:3 Def:5),,,,
+0021201012,199,1,1,2,8:54 PM,5:04,Bayless 26' 3PT Jump Shot (5 PTS) (Conley 2 AST),,,26 - 34,8
+0021201012,200,9,1,2,8:54 PM,4:57,,,Thunder Timeout: Regular (Reg.2 Short 0),,
+0021201012,203,8,0,2,8:57 PM,4:57,,,SUB: Ibaka FOR Jackson,,
+0021201012,204,8,0,2,8:57 PM,4:57,SUB: Gasol FOR Pondexter,,,,
+0021201012,205,1,79,2,8:57 PM,4:49,,,Martin 18' Pullup Jump Shot (10 PTS) (Westbrook 1 AST),28 - 34,6
+0021201012,206,1,79,2,8:58 PM,4:20,Bayless 25' 3PT Pullup Jump Shot (8 PTS),,,28 - 37,9
+0021201012,207,6,1,2,8:58 PM,4:12,Bayless P.FOUL (P2.PN),,,,
+0021201012,208,3,11,2,8:58 PM,4:12,,,MISS Westbrook Free Throw 1 of 2,,
+0021201012,209,4,1,2,8:58 PM,4:12,,,Thunder Rebound,,
+0021201012,210,3,12,2,8:58 PM,4:12,,,Westbrook Free Throw 2 of 2 (1 PTS),29 - 37,8
+0021201012,212,1,1,2,8:59 PM,3:58,Gasol 13' Jump Shot (4 PTS) (Conley 3 AST),,,29 - 39,10
+0021201012,213,1,1,2,8:59 PM,3:44,,,Westbrook 21' Jump Shot (3 PTS),31 - 39,8
+0021201012,214,1,42,2,9:00 PM,3:27,Gasol 1' Driving Layup (6 PTS),,,31 - 41,10
+0021201012,215,2,1,2,9:00 PM,3:11,,,MISS Durant 15' Jump Shot,,
+0021201012,216,4,0,2,9:00 PM,3:11,GRIZZLIES Rebound,,,,
+0021201012,217,6,3,2,9:00 PM,3:11,,,Ibaka L.B.FOUL (P2.T2),,
+0021201012,218,6,1,2,9:00 PM,3:00,,,Perkins P.FOUL (P2.T3),,
+0021201012,219,6,4,2,9:01 PM,2:54,Randolph OFF.Foul (P2),,,,
+0021201012,220,5,5,2,9:01 PM,2:54,Randolph Foul Turnover (P3.T9),,,,
+0021201012,222,9,4,2,9:01 PM,2:54,,,,,
+0021201012,224,2,5,2,9:04 PM,2:38,Gasol BLOCK (1 BLK),,MISS Westbrook 2' Layup,,
+0021201012,225,4,0,2,9:04 PM,2:38,,,Thunder Rebound,,
+0021201012,226,2,46,2,9:04 PM,2:28,,,MISS Martin 13' Running Jump Shot,,
+0021201012,227,4,0,2,9:04 PM,2:27,Gasol REBOUND (Off:0 Def:7),,,,
+0021201012,228,2,80,2,9:04 PM,2:08,MISS Prince 12' Step Back Jump Shot,,,,
+0021201012,229,4,0,2,9:04 PM,2:07,Randolph REBOUND (Off:4 Def:5),,,,
+0021201012,230,2,5,2,9:04 PM,2:06,MISS Randolph 1' Layup,,,,
+0021201012,231,4,0,2,9:04 PM,2:05,,,Perkins REBOUND (Off:0 Def:4),,
+0021201012,232,1,1,2,9:05 PM,1:57,,,Durant 26' 3PT Jump Shot (10 PTS) (Westbrook 2 AST),34 - 41,7
+0021201012,233,2,1,2,9:05 PM,1:33,MISS Gasol 12' Jump Shot,,,,
+0021201012,234,4,0,2,9:05 PM,1:32,,,Ibaka REBOUND (Off:0 Def:3),,
+0021201012,235,2,5,2,9:05 PM,1:26,,,MISS Westbrook 2' Layup,,
+0021201012,236,4,0,2,9:05 PM,1:25,Gasol REBOUND (Off:0 Def:8),,,,
+0021201012,237,1,77,2,9:05 PM,1:20,Conley 5' Driving Jump Shot (8 PTS),,,34 - 43,9
+0021201012,238,6,2,2,9:05 PM,1:20,,,Martin S.FOUL (P1.T4),,
+0021201012,239,3,10,2,9:06 PM,1:20,Conley Free Throw 1 of 1 (9 PTS),,,34 - 44,10
+0021201012,241,1,79,2,9:06 PM,1:09,,,Westbrook 15' Pullup Jump Shot (5 PTS),36 - 44,8
+0021201012,242,2,1,2,9:06 PM,0:48,MISS Prince 19' Jump Shot,,,,
+0021201012,243,4,0,2,9:06 PM,0:47,,,Ibaka REBOUND (Off:0 Def:4),,
+0021201012,244,6,26,2,9:06 PM,0:39,,,Durant Offensive Charge Foul (P1.PN),,
+0021201012,245,5,5,2,9:06 PM,0:39,,,Durant Foul Turnover (P2.T6),,
+0021201012,246,8,0,2,9:07 PM,0:39,SUB: Pondexter FOR Randolph,,,,
+0021201012,247,2,1,2,9:07 PM,0:27,MISS Pondexter 24' 3PT Jump Shot,,,,
+0021201012,248,4,0,2,9:07 PM,0:27,,,Perkins REBOUND (Off:0 Def:5),,
+0021201012,249,2,1,2,9:08 PM,0:05,,,MISS Martin 19' Jump Shot,,
+0021201012,251,4,0,2,9:08 PM,0:04,,,Ibaka REBOUND (Off:1 Def:4),,
+0021201012,250,2,4,2,9:08 PM,0:04,,,MISS Ibaka  Tip Shot,,
+0021201012,252,4,0,2,9:08 PM,0:02,Bayless REBOUND (Off:1 Def:1),,,,
+0021201012,253,5,2,2,9:08 PM,0:00,Bayless Lost Ball Turnover (P1.T10),,Westbrook STEAL (2 STL),,
+0021201012,254,1,1,2,9:08 PM,0:00,,,Westbrook 13' Jump Shot (7 PTS),38 - 44,6
+0021201012,255,18,0,2,9:08 PM,0:00,,,,,
+0021201012,256,13,0,2,9:08 PM,0:00,,,,38 - 44,6
+0021201012,258,12,0,3,9:24 PM,12:00,,,,38 - 44,6
+0021201012,259,2,47,3,9:25 PM,11:47,MISS Gasol 7' Turnaround Jump Shot,,,,
+0021201012,260,4,0,3,9:25 PM,11:45,,,Durant REBOUND (Off:1 Def:1),,
+0021201012,261,6,26,3,9:25 PM,11:26,,,Ibaka Offensive Charge Foul (P3.T1),,
+0021201012,262,5,5,3,9:25 PM,11:26,,,Ibaka Foul Turnover (P2.T7),,
+0021201012,263,2,1,3,9:26 PM,11:09,MISS Allen 20' Jump Shot,,,,
+0021201012,264,4,0,3,9:26 PM,11:08,,,Perkins REBOUND (Off:0 Def:6),,
+0021201012,265,2,1,3,9:26 PM,10:58,,,MISS Perkins 11' Jump Shot,,
+0021201012,266,4,0,3,9:26 PM,10:57,Randolph REBOUND (Off:4 Def:6),,,,
+0021201012,267,2,63,3,9:26 PM,10:37,MISS Randolph 14' Fadeaway Jumper,,,,
+0021201012,268,4,0,3,9:26 PM,10:36,Gasol REBOUND (Off:1 Def:8),,,,
+0021201012,269,2,42,3,9:26 PM,10:27,MISS Allen 3' Driving Layup,,,,
+0021201012,270,4,0,3,9:26 PM,10:26,GRIZZLIES Rebound,,,,
+0021201012,271,1,3,3,9:27 PM,10:14,Prince 4' Hook Shot (7 PTS),,,38 - 46,8
+0021201012,272,2,47,3,9:27 PM,9:54,,,MISS Durant 7' Turnaround Jump Shot,,
+0021201012,273,4,0,3,9:27 PM,9:52,Conley REBOUND (Off:1 Def:4),,,,
+0021201012,274,2,1,3,9:28 PM,9:38,MISS Randolph 6' Jump Shot,,Ibaka BLOCK (2 BLK),,
+0021201012,275,4,0,3,9:28 PM,9:36,,,Westbrook REBOUND (Off:1 Def:1),,
+0021201012,276,6,28,3,9:28 PM,9:36,Prince Personal Take Foul (P1.T1),,,,
+0021201012,277,2,1,3,9:28 PM,9:25,,,MISS Westbrook 15' Jump Shot,,
+0021201012,278,4,0,3,9:28 PM,9:24,,,Perkins REBOUND (Off:1 Def:6),,
+0021201012,279,5,1,3,9:28 PM,9:21,Allen STEAL (1 STL),,Perkins Bad Pass Turnover (P2.T8),,
+0021201012,280,2,42,3,9:28 PM,9:05,MISS Conley 2' Driving Layup,,,,
+0021201012,281,4,0,3,9:29 PM,9:03,,,Perkins REBOUND (Off:1 Def:7),,
+0021201012,282,6,26,3,9:29 PM,9:00,,,Sefolosha Offensive Charge Foul (P1.T2),,
+0021201012,283,5,5,3,9:29 PM,9:00,,,Sefolosha Foul Turnover (P1.T9),,
+0021201012,284,6,1,3,9:29 PM,8:43,,,Sefolosha P.FOUL (P2.T3),,
+0021201012,285,1,80,3,9:30 PM,8:31,Conley 15' Step Back Jump Shot (11 PTS),,,38 - 48,10
+0021201012,286,5,1,3,9:30 PM,8:26,Allen STEAL (2 STL),,Perkins Bad Pass Turnover (P3.T10),,
+0021201012,287,2,42,3,9:30 PM,8:10,MISS Randolph 1' Driving Layup,,,,
+0021201012,288,4,0,3,9:30 PM,8:08,Conley REBOUND (Off:2 Def:4),,,,
+0021201012,289,2,1,3,9:30 PM,8:04,MISS Prince 26' 3PT Jump Shot,,,,
+0021201012,290,4,0,3,9:30 PM,8:03,,,Thunder Rebound,,
+0021201012,291,2,1,3,9:31 PM,7:49,,,MISS Durant 15' Jump Shot,,
+0021201012,292,4,0,3,9:31 PM,7:48,,,Perkins REBOUND (Off:2 Def:7),,
+0021201012,293,2,5,3,9:31 PM,7:47,Gasol BLOCK (2 BLK),,MISS Perkins 2' Layup,,
+0021201012,294,4,0,3,9:31 PM,7:45,Allen REBOUND (Off:1 Def:2),,,,
+0021201012,295,2,1,3,9:31 PM,7:32,MISS Gasol 20' Jump Shot,,,,
+0021201012,296,4,0,3,9:31 PM,7:32,Prince REBOUND (Off:2 Def:0),,,,
+0021201012,297,2,47,3,9:31 PM,7:18,MISS Gasol 11' Turnaround Jump Shot,,,,
+0021201012,298,4,0,3,9:31 PM,7:16,,,Durant REBOUND (Off:1 Def:2),,
+0021201012,299,2,47,3,9:31 PM,7:10,,,MISS Durant 7' Turnaround Jump Shot,,
+0021201012,301,4,0,3,9:31 PM,7:08,,,Westbrook REBOUND (Off:2 Def:1),,
+0021201012,300,1,4,3,9:31 PM,7:08,,,Westbrook 1' Tip Shot (9 PTS),40 - 48,8
+0021201012,302,2,1,3,9:32 PM,6:39,MISS Prince 20' Jump Shot,,,,
+0021201012,303,4,0,3,9:32 PM,6:38,,,Perkins REBOUND (Off:2 Def:8),,
+0021201012,304,2,1,3,9:32 PM,6:32,,,MISS Westbrook 5' Jump Shot,,
+0021201012,306,4,0,3,9:32 PM,6:30,,,Ibaka REBOUND (Off:2 Def:4),,
+0021201012,305,1,87,3,9:32 PM,6:30,,,Ibaka 1' Putback Dunk (4 PTS),42 - 48,6
+0021201012,307,9,1,3,9:32 PM,6:30,GRIZZLIES Timeout: Regular (Full 3 Short 0),,,,
+0021201012,310,6,1,3,9:35 PM,6:22,,,Perkins P.FOUL (P3.T4),,
+0021201012,311,1,46,3,9:35 PM,6:11,Conley 10' Running Jump Shot (13 PTS),,,42 - 50,8
+0021201012,312,1,47,3,9:36 PM,5:48,,,Durant 10' Turnaround Jump Shot (12 PTS),44 - 50,6
+0021201012,313,5,8,3,9:36 PM,5:29,Randolph 3 Second Violation Turnover (P4.T11),,,,
+0021201012,314,2,1,3,9:36 PM,5:17,,,MISS Ibaka 18' Jump Shot,,
+0021201012,315,4,0,3,9:36 PM,5:16,Allen REBOUND (Off:1 Def:3),,,,
+0021201012,316,2,77,3,9:37 PM,5:04,MISS Conley 4' Driving Jump Shot,,Sefolosha BLOCK (1 BLK),,
+0021201012,317,4,0,3,9:37 PM,5:03,Conley REBOUND (Off:3 Def:4),,,,
+0021201012,318,6,1,3,9:37 PM,5:03,,,Sefolosha P.FOUL (P3.PN),,
+0021201012,319,6,2,3,9:37 PM,4:56,,,Westbrook S.FOUL (P2.PN),,
+0021201012,320,3,11,3,9:37 PM,4:56,MISS Gasol Free Throw 1 of 2,,,,
+0021201012,322,4,0,3,9:38 PM,4:56,GRIZZLIES Rebound,,,,
+0021201012,321,3,12,3,9:38 PM,4:56,Gasol Free Throw 2 of 2 (7 PTS),,,44 - 51,7
+0021201012,324,2,1,3,9:38 PM,4:35,,,MISS Durant 12' Jump Shot,,
+0021201012,325,4,0,3,9:38 PM,4:34,,,Ibaka REBOUND (Off:3 Def:4),,
+0021201012,326,5,4,3,9:38 PM,4:33,,,Ibaka Traveling Turnover (P3.T11),,
+0021201012,327,5,8,3,9:39 PM,4:20,Randolph 3 Second Violation Turnover (P5.T12),,,,
+0021201012,329,2,1,3,9:40 PM,3:58,,,MISS Westbrook 25' 3PT Jump Shot,,
+0021201012,330,4,0,3,9:40 PM,3:57,GRIZZLIES Rebound,,,,
+0021201012,331,1,1,3,9:40 PM,3:40,Allen 14' Jump Shot (4 PTS) (Gasol 1 AST),,,44 - 53,9
+0021201012,332,1,1,3,9:41 PM,3:24,,,Durant 21' Jump Shot (14 PTS) (Westbrook 3 AST),46 - 53,7
+0021201012,333,2,1,3,9:41 PM,3:05,MISS Allen 9' Jump Shot,,,,
+0021201012,334,4,0,3,9:41 PM,3:04,,,Perkins REBOUND (Off:2 Def:9),,
+0021201012,335,2,1,3,9:41 PM,2:54,,,MISS Westbrook 18' Jump Shot,,
+0021201012,336,4,0,3,9:41 PM,2:52,Gasol REBOUND (Off:1 Def:9),,,,
+0021201012,337,6,2,3,9:41 PM,2:44,,,Ibaka S.FOUL (P4.PN),,
+0021201012,338,9,1,3,9:41 PM,2:44,,,Thunder Timeout: Regular (Reg.3 Short 0),,
+0021201012,340,8,0,3,9:44 PM,2:44,SUB: Bayless FOR Allen,,,,
+0021201012,341,8,0,3,9:44 PM,2:44,,,SUB: Jackson FOR Sefolosha,,
+0021201012,342,8,0,3,9:44 PM,2:44,,,SUB: Martin FOR Westbrook,,
+0021201012,343,3,11,3,9:44 PM,2:44,MISS Randolph Free Throw 1 of 2,,,,
+0021201012,344,4,1,3,9:44 PM,2:44,GRIZZLIES Rebound,,,,
+0021201012,345,8,0,3,9:44 PM,2:44,,,SUB: Collison FOR Ibaka,,
+0021201012,346,3,12,3,9:44 PM,2:44,Randolph Free Throw 2 of 2 (13 PTS),,,46 - 54,8
+0021201012,348,6,2,3,9:45 PM,2:28,Prince S.FOUL (P2.T2),,,,
+0021201012,349,3,11,3,9:45 PM,2:28,,,Durant Free Throw 1 of 2 (15 PTS),47 - 54,7
+0021201012,351,8,0,3,9:46 PM,2:28,SUB: Davis FOR Randolph,,,,
+0021201012,352,3,12,3,9:46 PM,2:28,,,Durant Free Throw 2 of 2 (16 PTS),48 - 54,6
+0021201012,354,2,1,3,9:46 PM,2:14,MISS Gasol 20' Jump Shot,,,,
+0021201012,355,4,0,3,9:46 PM,2:13,,,Jackson REBOUND (Off:0 Def:2),,
+0021201012,356,6,3,3,9:46 PM,2:13,Davis L.B.FOUL (P2.T3),,,,
+0021201012,357,6,2,3,9:47 PM,1:54,Davis S.FOUL (P3.T4),,,,
+0021201012,358,3,11,3,9:47 PM,1:54,,,Durant Free Throw 1 of 2 (17 PTS),49 - 54,5
+0021201012,360,3,12,3,9:47 PM,1:54,,,Durant Free Throw 2 of 2 (18 PTS),50 - 54,4
+0021201012,362,6,27,3,9:48 PM,1:33,,,Collison Personal Block Foul (P1.PN),,
+0021201012,363,3,11,3,9:48 PM,1:33,Bayless Free Throw 1 of 2 (9 PTS),,,50 - 55,5
+0021201012,365,8,0,3,9:48 PM,1:33,,,SUB: Fisher FOR Perkins,,
+0021201012,367,8,0,3,9:49 PM,1:33,SUB: Allen FOR Davis,,,,
+0021201012,368,3,12,3,9:49 PM,1:33,Bayless Free Throw 2 of 2 (10 PTS),,,50 - 56,6
+0021201012,370,1,5,3,9:49 PM,1:18,,,Durant 2' Layup (20 PTS),52 - 56,4
+0021201012,371,6,2,3,9:49 PM,1:18,Bayless S.FOUL (P3.PN),,,,
+0021201012,372,3,10,3,9:50 PM,1:18,,,Durant Free Throw 1 of 1 (21 PTS),53 - 56,3
+0021201012,374,5,1,3,9:50 PM,1:04,Prince Bad Pass Turnover (P1.T13),,Martin STEAL (1 STL),,
+0021201012,375,1,80,3,9:50 PM,0:51,,,Durant 7' Step Back Jump Shot (23 PTS),55 - 56,1
+0021201012,376,2,75,3,9:51 PM,0:44,MISS Conley 1' Driving Finger Roll Layup,,,,
+0021201012,377,4,0,3,9:51 PM,0:41,,,Martin REBOUND (Off:0 Def:1),,
+0021201012,378,1,66,3,9:51 PM,0:29,,,Durant 8' Jump Bank Shot (25 PTS),57 - 56,-1
+0021201012,379,6,1,3,9:51 PM,0:16,,,Collison P.FOUL (P2.PN),,
+0021201012,380,3,11,3,9:51 PM,0:16,Gasol Free Throw 1 of 2 (8 PTS),,,57 - 57,TIE
+0021201012,382,8,0,3,9:52 PM,0:16,SUB: Pondexter FOR Allen,,,,
+0021201012,383,3,12,3,9:52 PM,0:16,Gasol Free Throw 2 of 2 (9 PTS),,,57 - 58,1
+0021201012,385,2,1,3,9:52 PM,0:00,,,MISS Fisher  3PT Jump Shot,,
+0021201012,387,4,0,3,9:52 PM,0:00,,,Thunder Rebound,,
+0021201012,386,13,0,3,9:52 PM,0:00,,,,57 - 58,1
+0021201012,389,12,0,4,9:55 PM,12:00,,,,57 - 58,1
+0021201012,390,6,1,4,9:56 PM,11:50,Gasol P.FOUL (P1.T1),,,,
+0021201012,391,1,1,4,9:56 PM,11:44,,,Durant 15' Jump Shot (27 PTS) (Collison 2 AST),59 - 58,-1
+0021201012,393,5,2,4,9:57 PM,11:23,Bayless Lost Ball Turnover (P2.T14),,,,
+0021201012,392,10,0,4,9:57 PM,11:23,Jump Ball Bayless vs. Collison: Tip to Durant,,,,
+0021201012,394,2,1,4,9:57 PM,10:59,,,MISS Fisher 10' Jump Shot,,
+0021201012,395,4,0,4,9:58 PM,10:58,Gasol REBOUND (Off:1 Def:10),,,,
+0021201012,396,6,3,4,9:58 PM,10:58,,,Fisher L.B.FOUL (P1.T1),,
+0021201012,397,5,1,4,9:58 PM,10:46,Bayless Bad Pass Turnover (P3.T15),,Collison STEAL (1 STL),,
+0021201012,398,2,79,4,9:58 PM,10:37,,,MISS Fisher 12' Pullup Jump Shot,,
+0021201012,399,4,0,4,9:58 PM,10:33,Pondexter REBOUND (Off:0 Def:1),,,,
+0021201012,400,5,1,4,9:58 PM,10:30,Pondexter Bad Pass Turnover (P1.T16),,Martin STEAL (2 STL),,
+0021201012,401,2,1,4,9:58 PM,10:26,,,MISS Martin 28' 3PT Jump Shot,,
+0021201012,402,4,0,4,9:58 PM,10:24,Pondexter REBOUND (Off:0 Def:2),,,,
+0021201012,403,1,5,4,9:59 PM,10:08,Conley 2' Layup (15 PTS),,,59 - 60,1
+0021201012,404,6,2,4,9:59 PM,9:49,Bayless S.FOUL (P4.T2),,,,
+0021201012,405,3,11,4,9:59 PM,9:49,,,Martin Free Throw 1 of 2 (11 PTS),60 - 60,TIE
+0021201012,407,8,0,4,9:59 PM,9:49,SUB: Randolph FOR Gasol,,,,
+0021201012,408,3,12,4,9:59 PM,9:49,,,Martin Free Throw 2 of 2 (12 PTS),61 - 60,-1
+0021201012,410,2,1,4,10:00 PM,9:28,MISS Bayless 20' Jump Shot,,,,
+0021201012,411,4,0,4,10:00 PM,9:27,Pondexter REBOUND (Off:1 Def:2),,,,
+0021201012,412,1,66,4,10:00 PM,9:09,Conley 3' Jump Bank Shot (17 PTS),,,61 - 62,1
+0021201012,413,5,1,4,10:01 PM,8:56,,,Collison Bad Pass Turnover (P1.T12),,
+0021201012,414,9,4,4,10:01 PM,8:56,,,,,
+0021201012,418,1,42,4,10:04 PM,8:45,Conley 1' Driving Layup (19 PTS),,,61 - 64,3
+0021201012,419,1,1,4,10:04 PM,8:24,,,Jackson 6' Jump Shot (6 PTS),63 - 64,1
+0021201012,420,6,2,4,10:04 PM,8:24,Bayless S.FOUL (P5.T3),,,,
+0021201012,421,8,0,4,10:04 PM,8:24,,,SUB: Westbrook FOR Fisher,,
+0021201012,422,3,10,4,10:04 PM,8:24,,,Jackson Free Throw 1 of 1 (7 PTS),64 - 64,TIE
+0021201012,424,1,1,4,10:05 PM,8:03,Bayless 26' 3PT Jump Shot (13 PTS) (Conley 4 AST),,,64 - 67,3
+0021201012,425,1,7,4,10:05 PM,7:47,,,Collison  Dunk (4 PTS) (Durant 2 AST),66 - 67,1
+0021201012,426,2,1,4,10:06 PM,7:25,MISS Conley 25' 3PT Jump Shot,,,,
+0021201012,427,4,0,4,10:06 PM,7:24,GRIZZLIES Rebound,,,,
+0021201012,428,5,1,4,10:06 PM,7:23,Allen Bad Pass Turnover (P1.T17),,Westbrook STEAL (3 STL),,
+0021201012,429,2,71,4,10:06 PM,7:18,,,MISS Westbrook  Finger Roll Layup,,
+0021201012,431,4,0,4,10:06 PM,7:17,,,Durant REBOUND (Off:2 Def:2),,
+0021201012,430,1,72,4,10:06 PM,7:17,,,Durant  Putback Layup (29 PTS),68 - 67,-1
+0021201012,433,9,1,4,10:06 PM,7:16,GRIZZLIES Timeout: Regular (Full 4 Short 0),,,,
+0021201012,436,1,43,4,10:09 PM,7:06,Allen  Alley Oop Layup (6 PTS) (Conley 5 AST),,,68 - 69,1
+0021201012,437,6,4,4,10:09 PM,6:53,,,Westbrook OFF.Foul (P3),,
+0021201012,438,5,5,4,10:09 PM,6:53,,,Westbrook Foul Turnover (P2.T13),,
+0021201012,439,6,4,4,10:10 PM,6:43,Randolph OFF.Foul (P3),,,,
+0021201012,440,5,5,4,10:10 PM,6:43,Randolph Foul Turnover (P6.T18),,,,
+0021201012,441,1,79,4,10:10 PM,6:24,,,Martin 20' Pullup Jump Shot (14 PTS) (Durant 3 AST),70 - 69,-1
+0021201012,442,6,1,4,10:11 PM,6:01,,,Westbrook P.FOUL (P4.T2),,
+0021201012,443,8,0,4,10:11 PM,6:01,SUB: Prince FOR Pondexter,,,,
+0021201012,444,2,5,4,10:11 PM,5:50,MISS Randolph 2' Layup,,,,
+0021201012,445,4,0,4,10:11 PM,5:49,,,Durant REBOUND (Off:2 Def:3),,
+0021201012,446,2,63,4,10:12 PM,5:29,,,MISS Durant 13' Fadeaway Jumper,,
+0021201012,447,4,0,4,10:12 PM,5:28,Randolph REBOUND (Off:4 Def:7),,,,
+0021201012,448,2,1,4,10:12 PM,5:15,MISS Randolph 3' Jump Shot,,Collison BLOCK (1 BLK),,
+0021201012,449,4,0,4,10:12 PM,5:13,Randolph REBOUND (Off:5 Def:7),,,,
+0021201012,450,2,5,4,10:12 PM,5:12,MISS Randolph  Layup,,,,
+0021201012,452,4,0,4,10:12 PM,5:09,Randolph REBOUND (Off:6 Def:7),,,,
+0021201012,451,1,5,4,10:12 PM,5:09,Randolph  Layup (15 PTS),,,70 - 71,1
+0021201012,453,1,1,4,10:12 PM,4:46,,,Westbrook 20' Jump Shot (11 PTS),72 - 71,-1
+0021201012,454,2,1,4,10:13 PM,4:24,MISS Randolph 4' Jump Shot,,Jackson BLOCK (1 BLK),,
+0021201012,455,4,0,4,10:13 PM,4:22,,,Jackson REBOUND (Off:0 Def:3),,
+0021201012,456,2,77,4,10:13 PM,4:09,,,MISS Westbrook 3' Driving Jump Shot,,
+0021201012,457,4,0,4,10:13 PM,4:06,Randolph REBOUND (Off:6 Def:8),,,,
+0021201012,458,2,1,4,10:13 PM,4:02,MISS Bayless 22' Jump Shot,,,,
+0021201012,459,4,0,4,10:13 PM,4:01,,,Durant REBOUND (Off:2 Def:4),,
+0021201012,460,2,1,4,10:13 PM,3:47,,,MISS Durant 5' Jump Shot,,
+0021201012,461,4,0,4,10:13 PM,3:46,Randolph REBOUND (Off:6 Def:9),,,,
+0021201012,462,5,40,4,10:14 PM,3:29,Randolph Out of Bounds Lost Ball Turnover (P7.T19),,,,
+0021201012,464,6,11,4,10:14 PM,3:29,Randolph T.FOUL (P3.T3),,,,
+0021201012,465,9,1,4,10:14 PM,3:29,,,Thunder Timeout: Regular (Reg.4 Short 0),,
+0021201012,467,8,0,4,10:16 PM,3:29,SUB: Gasol FOR Bayless,,,,
+0021201012,469,3,16,4,10:17 PM,3:29,,,Durant Free Throw Technical (30 PTS),73 - 71,-2
+0021201012,471,2,1,4,10:17 PM,3:05,,,MISS Westbrook 25' 3PT Jump Shot,,
+0021201012,472,4,0,4,10:17 PM,3:03,,,Collison REBOUND (Off:2 Def:2),,
+0021201012,473,1,79,4,10:18 PM,2:47,,,Westbrook 21' Pullup Jump Shot (13 PTS),75 - 71,-4
+0021201012,474,2,1,4,10:18 PM,2:23,MISS Conley 10' Jump Shot,,,,
+0021201012,475,4,0,4,10:18 PM,2:22,,,Westbrook REBOUND (Off:2 Def:2),,
+0021201012,476,2,1,4,10:19 PM,1:59,,,MISS Jackson 25' 3PT Jump Shot,,
+0021201012,477,4,0,4,10:19 PM,1:58,Prince REBOUND (Off:2 Def:1),,,,
+0021201012,478,6,2,4,10:19 PM,1:45,,,Martin S.FOUL (P2.T3),,
+0021201012,479,3,11,4,10:19 PM,1:45,Conley Free Throw 1 of 2 (20 PTS),,,75 - 72,-3
+0021201012,481,8,0,4,10:19 PM,1:45,,,SUB: Perkins FOR Jackson,,
+0021201012,482,3,12,4,10:19 PM,1:45,MISS Conley Free Throw 2 of 2,,,,
+0021201012,484,4,0,4,10:20 PM,1:44,,,Perkins REBOUND (Off:2 Def:10),,
+0021201012,485,1,1,4,10:20 PM,1:26,,,Martin 26' 3PT Jump Shot (17 PTS) (Perkins 1 AST),78 - 72,-6
+0021201012,486,2,1,4,10:20 PM,1:17,MISS Randolph 5' Jump Shot,,,,
+0021201012,487,4,0,4,10:20 PM,1:14,,,Perkins REBOUND (Off:2 Def:11),,
+0021201012,488,6,4,4,10:21 PM,1:03,,,Durant OFF.Foul (P2),,
+0021201012,489,5,5,4,10:21 PM,1:03,,,Durant Foul Turnover (P3.T14),,
+0021201012,490,8,0,4,10:21 PM,1:03,SUB: Bayless FOR Allen,,,,
+0021201012,491,6,1,4,10:21 PM,0:46,,,Durant P.FOUL (P3.PN),,
+0021201012,492,3,11,4,10:22 PM,0:46,Conley Free Throw 1 of 2 (21 PTS),,,78 - 73,-5
+0021201012,494,8,0,4,10:22 PM,0:46,SUB: Allen FOR Bayless,,,,
+0021201012,495,3,12,4,10:22 PM,0:46,Conley Free Throw 2 of 2 (22 PTS),,,78 - 74,-4
+0021201012,497,2,1,4,10:23 PM,0:26,,,MISS Durant 27' 3PT Jump Shot,,
+0021201012,498,4,0,4,10:23 PM,0:25,Gasol REBOUND (Off:1 Def:11),,,,
+0021201012,499,1,42,4,10:23 PM,0:15,Conley 2' Driving Layup (24 PTS),,,78 - 76,-2
+0021201012,500,9,1,4,10:23 PM,0:15,,,Thunder Timeout: Regular (Reg.5 Short 0),,
+0021201012,502,8,0,4,10:24 PM,0:15,,,SUB: Fisher FOR Perkins,,
+0021201012,503,8,0,4,10:24 PM,0:15,,,SUB: Sefolosha FOR Collison,,
+0021201012,505,6,28,4,10:25 PM,0:14,Allen Personal Take Foul (P4.T4),,,,
+0021201012,506,8,0,4,10:26 PM,0:14,SUB: Pondexter FOR Randolph,,,,
+0021201012,508,9,2,4,10:26 PM,0:14,,,Thunder Timeout: Short (Reg.5 Short 1),,
+0021201012,511,6,28,4,10:27 PM,0:12,Prince Personal Take Foul (P3.PN),,,,
+0021201012,512,3,11,4,10:27 PM,0:12,,,MISS Westbrook Free Throw 1 of 2,,
+0021201012,513,4,1,4,10:27 PM,0:12,,,Thunder Rebound,,
+0021201012,514,8,0,4,10:28 PM,0:12,SUB: Randolph FOR Pondexter,,,,
+0021201012,515,8,0,4,10:28 PM,0:12,,,SUB: Perkins FOR Martin,,
+0021201012,516,8,0,4,10:28 PM,0:12,,,SUB: Collison FOR Fisher,,
+0021201012,517,3,12,4,10:28 PM,0:12,,,Westbrook Free Throw 2 of 2 (14 PTS),79 - 76,-3
+0021201012,519,9,1,4,10:28 PM,0:12,GRIZZLIES Timeout: Regular (Full 5 Short 0),,,,
+0021201012,522,8,0,4,10:31 PM,0:12,SUB: Pondexter FOR Randolph,,,,
+0021201012,523,8,0,4,10:31 PM,0:12,SUB: Bayless FOR Allen,,,,
+0021201012,524,6,2,4,10:31 PM,0:11,,,Sefolosha S.FOUL (P4.PN),,
+0021201012,525,3,11,4,10:31 PM,0:11,Bayless Free Throw 1 of 2 (14 PTS),,,79 - 77,-2
+0021201012,526,8,0,4,10:31 PM,0:11,SUB: Randolph FOR Pondexter,,,,
+0021201012,527,3,12,4,10:31 PM,0:11,Bayless Free Throw 2 of 2 (15 PTS),,,79 - 78,-1
+0021201012,529,6,28,4,10:32 PM,0:11,Conley Personal Take Foul (P2.PN),,,,
+0021201012,530,3,11,4,10:32 PM,0:11,,,Westbrook Free Throw 1 of 2 (15 PTS),80 - 78,-2
+0021201012,532,3,12,4,10:33 PM,0:11,,,Westbrook Free Throw 2 of 2 (16 PTS),81 - 78,-3
+0021201012,534,9,2,4,10:33 PM,0:11,GRIZZLIES Timeout: Short (Full 5 Short 1),,,,
+0021201012,536,8,0,4,10:34 PM,0:11,SUB: Daye FOR Randolph,,,,
+0021201012,537,6,2,4,10:34 PM,0:10,,,Sefolosha S.FOUL (P5.PN),,
+0021201012,538,3,11,4,10:35 PM,0:10,Bayless Free Throw 1 of 2 (16 PTS),,,81 - 79,-2
+0021201012,540,8,0,4,10:35 PM,0:10,SUB: Randolph FOR Daye,,,,
+0021201012,541,3,12,4,10:35 PM,0:10,Bayless Free Throw 2 of 2 (17 PTS),,,81 - 80,-1
+0021201012,543,6,28,4,10:36 PM,0:09,Conley Personal Take Foul (P3.PN),,,,
+0021201012,544,3,11,4,10:36 PM,0:09,,,Westbrook Free Throw 1 of 2 (17 PTS),82 - 80,-2
+0021201012,546,3,12,4,10:36 PM,0:09,,,Westbrook Free Throw 2 of 2 (18 PTS),83 - 80,-3
+0021201012,548,9,2,4,10:37 PM,0:09,GRIZZLIES Timeout: Short (Full 5 Short 2),,,,
+0021201012,549,8,0,4,10:38 PM,0:09,,,SUB: Jackson FOR Collison,,
+0021201012,550,8,0,4,10:38 PM,0:09,SUB: Daye FOR Randolph,,,,
+0021201012,551,1,1,4,10:38 PM,0:03,Bayless 25' 3PT Jump Shot (20 PTS),,,83 - 83,TIE
+0021201012,552,9,2,4,10:38 PM,0:03,,,Thunder Timeout: Short (Reg.5 Short 2),,
+0021201012,554,8,0,4,10:39 PM,0:03,,,SUB: Martin FOR Jackson,,
+0021201012,555,8,0,4,10:40 PM,0:03,SUB: Allen FOR Bayless,,,,
+0021201012,556,8,0,4,10:40 PM,0:03,SUB: Randolph FOR Daye,,,,
+0021201012,557,5,2,4,10:40 PM,0:01,Conley STEAL (2 STL),,Durant Lost Ball Turnover (P4.T15),,
+0021201012,560,2,45,4,10:40 PM,0:00,MISS Conley 64' 3PT Jump Shot,,,,
+0021201012,559,4,0,4,10:40 PM,0:00,GRIZZLIES Rebound,,,,
+0021201012,558,13,0,4,10:40 PM,0:00,,,,83 - 83,TIE
+0021201012,562,12,0,5,10:43 PM,5:00,,,,83 - 83,TIE
+0021201012,563,10,0,5,10:43 PM,5:00,Jump Ball Gasol vs. Durant: Tip to Conley,,,,
+0021201012,564,2,1,5,10:43 PM,4:39,MISS Conley 20' Jump Shot,,,,
+0021201012,565,4,0,5,10:43 PM,4:38,Randolph REBOUND (Off:7 Def:9),,,,
+0021201012,566,2,5,5,10:43 PM,4:37,MISS Randolph 2' Layup,,Collison BLOCK (2 BLK),,
+0021201012,567,4,0,5,10:43 PM,4:35,,,Collison REBOUND (Off:2 Def:3),,
+0021201012,568,2,1,5,10:43 PM,4:13,,,MISS Durant 27' 3PT Jump Shot,,
+0021201012,569,4,0,5,10:44 PM,4:12,Allen REBOUND (Off:1 Def:4),,,,
+0021201012,570,2,1,5,10:44 PM,3:53,MISS Randolph 5' Jump Shot,,,,
+0021201012,571,4,0,5,10:44 PM,3:52,,,Durant REBOUND (Off:2 Def:5),,
+0021201012,572,2,1,5,10:44 PM,3:27,,,MISS Durant 26' 3PT Jump Shot,,
+0021201012,573,4,0,5,10:44 PM,3:26,,,Sefolosha REBOUND (Off:1 Def:0),,
+0021201012,574,6,2,5,10:44 PM,3:25,Gasol S.FOUL (P2.T1),,,,
+0021201012,575,3,11,5,10:45 PM,3:25,,,Sefolosha Free Throw 1 of 2 (4 PTS),84 - 83,-1
+0021201012,578,8,0,5,10:45 PM,3:25,SUB: Bayless FOR Allen,,,,
+0021201012,579,3,12,5,10:45 PM,3:25,,,Sefolosha Free Throw 2 of 2 (5 PTS),85 - 83,-2
+0021201012,581,6,2,5,10:46 PM,3:08,,,Perkins S.FOUL (P4.T1),,
+0021201012,582,3,11,5,10:46 PM,3:08,MISS Gasol Free Throw 1 of 2,,,,
+0021201012,583,4,1,5,10:46 PM,3:08,GRIZZLIES Rebound,,,,
+0021201012,584,8,0,5,10:46 PM,3:08,SUB: Allen FOR Bayless,,,,
+0021201012,585,3,12,5,10:46 PM,3:08,Gasol Free Throw 2 of 2 (10 PTS),,,85 - 84,-1
+0021201012,587,2,63,5,10:47 PM,2:48,,,MISS Westbrook 15' Fadeaway Jumper,,
+0021201012,588,4,0,5,10:47 PM,2:46,Randolph REBOUND (Off:7 Def:10),,,,
+0021201012,589,2,5,5,10:47 PM,2:42,MISS Conley 1' Layup,,,,
+0021201012,593,4,0,5,10:47 PM,2:42,Allen REBOUND (Off:2 Def:4),,,,
+0021201012,592,1,53,5,10:47 PM,2:42,Allen 2' Tip Shot (8 PTS),,,85 - 86,1
+0021201012,594,18,1,5,10:47 PM,2:42,,,,,
+0021201012,598,2,1,5,10:49 PM,2:18,,,MISS Westbrook 31' 3PT Jump Shot,,
+0021201012,599,4,0,5,10:49 PM,2:17,Gasol REBOUND (Off:1 Def:12),,,,
+0021201012,600,2,79,5,10:49 PM,1:56,MISS Prince 12' Pullup Jump Shot,,,,
+0021201012,601,4,0,5,10:49 PM,1:55,Gasol REBOUND (Off:2 Def:12),,,,
+0021201012,602,1,56,5,10:50 PM,1:37,Gasol 7' Running Hook Shot (12 PTS),,,85 - 88,3
+0021201012,603,9,1,5,10:50 PM,1:37,,,Thunder Timeout: Regular (Reg.6 Short 2),,
+0021201012,605,8,0,5,10:51 PM,1:37,,,SUB: Martin FOR Sefolosha,,
+0021201012,606,2,1,5,10:52 PM,1:33,,,MISS Durant 14' Jump Shot,,
+0021201012,608,4,0,5,10:52 PM,1:30,,,Durant REBOUND (Off:3 Def:5),,
+0021201012,607,2,1,5,10:52 PM,1:30,,,MISS Durant 11' Jump Shot,,
+0021201012,609,4,0,5,10:52 PM,1:28,Randolph REBOUND (Off:7 Def:11),,,,
+0021201012,610,2,47,5,10:53 PM,1:07,MISS Prince 10' Turnaround Jump Shot,,,,
+0021201012,611,4,0,5,10:53 PM,1:05,,,Perkins REBOUND (Off:2 Def:12),,
+0021201012,612,1,78,5,10:53 PM,0:56,,,Durant 6' Floating Jump Shot (32 PTS),87 - 88,1
+0021201012,613,2,46,5,10:53 PM,0:32,MISS Gasol 15' Running Jump Shot,,,,
+0021201012,614,4,0,5,10:53 PM,0:31,,,Perkins REBOUND (Off:2 Def:13),,
+0021201012,615,9,2,5,10:53 PM,0:23,,,Thunder Timeout: Short (Reg.6 Short 3),,
+0021201012,617,8,0,5,10:54 PM,0:23,,,SUB: Sefolosha FOR Perkins,,
+0021201012,619,1,76,5,10:55 PM,0:13,,,Westbrook 2' Running Finger Roll Layup (20 PTS),89 - 88,-1
+0021201012,620,9,1,5,10:55 PM,0:13,GRIZZLIES Timeout: Regular (Full 6 Short 2),,,,
+0021201012,622,8,0,5,10:56 PM,0:13,,,SUB: Perkins FOR Martin,,
+0021201012,623,8,0,5,10:56 PM,0:13,SUB: Bayless FOR Allen,,,,
+0021201012,624,2,1,5,10:57 PM,0:01,MISS Randolph 7' Jump Shot,,,,
+0021201012,626,4,0,5,10:57 PM,0:00,Gasol REBOUND (Off:3 Def:12),,,,
+0021201012,625,1,4,5,10:57 PM,0:00,Gasol 2' Tip Shot (14 PTS),,,89 - 90,1
+0021201012,627,2,1,5,10:57 PM,0:00,,,MISS Westbrook 51' 3PT Jump Shot,,
+0021201012,629,4,0,5,10:57 PM,0:00,,,Thunder Rebound,,
+0021201012,628,13,0,5,10:57 PM,0:00,,,,89 - 90,1

@@ -1,0 +1,536 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021200414,0,12,0,1,7:40 PM,12:00,,,,,
+0021200414,1,10,0,1,7:40 PM,12:00,Jump Ball Smith vs. Monroe: Tip to Korver,,,,
+0021200414,2,2,1,1,7:40 PM,11:47,MISS Williams 24' 3PT Jump Shot,,,,
+0021200414,3,4,0,1,7:40 PM,11:45,,,Prince REBOUND (Off:0 Def:1),,
+0021200414,4,2,47,1,7:41 PM,11:25,,,MISS Singler 6' Turnaround Jump Shot,,
+0021200414,8,4,0,1,7:41 PM,11:18,,,Prince REBOUND (Off:1 Def:1),,
+0021200414,7,1,72,1,7:41 PM,11:18,,,Prince 1' Putback Layup (2 PTS),2 - 0,-2
+0021200414,9,2,1,1,7:41 PM,11:02,MISS Korver 24' 3PT Jump Shot,,,,
+0021200414,10,4,0,1,7:41 PM,11:01,,,Knight REBOUND (Off:0 Def:1),,
+0021200414,11,5,6,1,7:41 PM,10:51,,,Knight Double Dribble Turnover (P1.T1),,
+0021200414,13,1,77,1,7:42 PM,10:28,Williams 8' Driving Jump Shot (2 PTS) (Teague 1 AST),,,2 - 2,TIE
+0021200414,14,5,1,1,7:42 PM,10:12,Smith STEAL (1 STL),,Knight Bad Pass Turnover (P2.T2),,
+0021200414,15,2,42,1,7:42 PM,10:01,MISS Teague 3' Driving Layup,,,,
+0021200414,16,4,0,1,7:42 PM,10:00,,,Knight REBOUND (Off:0 Def:2),,
+0021200414,17,1,42,1,7:42 PM,9:54,,,Knight 3' Driving Layup (2 PTS),4 - 2,-2
+0021200414,18,5,4,1,7:42 PM,9:47,Teague Traveling Turnover (P1.T1),,,,
+0021200414,20,2,47,1,7:43 PM,9:31,,,MISS Prince 11' Turnaround Jump Shot,,
+0021200414,21,4,0,1,7:43 PM,9:30,Smith REBOUND (Off:0 Def:1),,,,
+0021200414,22,6,2,1,7:43 PM,9:26,,,Maxiell S.FOUL (P1.T1),,
+0021200414,23,3,11,1,7:43 PM,9:26,Smith Free Throw 1 of 2 (1 PTS),,,4 - 3,-1
+0021200414,25,3,12,1,7:44 PM,9:26,Smith Free Throw 2 of 2 (2 PTS),,,4 - 4,TIE
+0021200414,28,2,77,1,7:44 PM,9:11,,,MISS Prince 4' Driving Jump Shot,,
+0021200414,29,4,0,1,7:44 PM,9:10,,,Maxiell REBOUND (Off:1 Def:0),,
+0021200414,30,6,2,1,7:44 PM,9:10,Smith S.FOUL (P1.T1),,,,
+0021200414,31,3,11,1,7:44 PM,9:10,,,Maxiell Free Throw 1 of 2 (1 PTS),5 - 4,-1
+0021200414,33,3,12,1,7:45 PM,9:10,,,MISS Maxiell Free Throw 2 of 2,,
+0021200414,35,4,0,1,7:45 PM,9:09,Korver REBOUND (Off:0 Def:1),,,,
+0021200414,36,2,1,1,7:45 PM,8:54,MISS Teague 25' 3PT Jump Shot,,,,
+0021200414,37,4,0,1,7:45 PM,8:52,,,Singler REBOUND (Off:0 Def:1),,
+0021200414,38,5,1,1,7:45 PM,8:41,Horford STEAL (1 STL),,Monroe Bad Pass Turnover (P1.T3),,
+0021200414,39,2,41,1,7:45 PM,8:37,MISS Williams 1' Running Layup,,Singler BLOCK (1 BLK),,
+0021200414,40,4,0,1,7:45 PM,8:37,HAWKS Rebound,,,,
+0021200414,41,2,1,1,7:46 PM,8:30,MISS Korver 19' Jump Shot,,,,
+0021200414,42,4,0,1,7:46 PM,8:28,Smith REBOUND (Off:1 Def:1),,,,
+0021200414,43,1,88,1,7:46 PM,8:18,Smith 1' Driving Slam Dunk (4 PTS) (Teague 2 AST),,,5 - 6,1
+0021200414,44,2,1,1,7:46 PM,8:02,,,MISS Monroe 4' Jump Shot,,
+0021200414,46,4,0,1,7:46 PM,8:00,,,Maxiell REBOUND (Off:2 Def:0),,
+0021200414,45,2,4,1,7:46 PM,8:00,,,MISS Maxiell 1' Tip Shot,,
+0021200414,47,4,0,1,7:46 PM,7:59,Williams REBOUND (Off:0 Def:1),,,,
+0021200414,48,2,1,1,7:46 PM,7:53,MISS Korver 25' 3PT Jump Shot,,,,
+0021200414,49,4,0,1,7:46 PM,7:51,,,Maxiell REBOUND (Off:2 Def:1),,
+0021200414,50,5,1,1,7:47 PM,7:43,Williams STEAL (1 STL),,Singler Bad Pass Turnover (P1.T4),,
+0021200414,51,1,50,1,7:47 PM,7:38,Smith 1' Running Dunk (6 PTS) (Teague 3 AST),,,5 - 8,3
+0021200414,52,2,42,1,7:47 PM,7:18,,,MISS Prince 1' Driving Layup,,
+0021200414,53,4,0,1,7:47 PM,7:16,Horford REBOUND (Off:0 Def:1),,,,
+0021200414,54,1,1,1,7:47 PM,7:10,Korver 25' 3PT Jump Shot (3 PTS) (Horford 1 AST),,,5 - 11,6
+0021200414,55,9,1,1,7:47 PM,6:59,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0021200414,57,8,0,1,7:50 PM,6:59,,,SUB: Stuckey FOR Prince,,
+0021200414,58,2,1,1,7:50 PM,6:52,,,MISS Singler  3PT Jump Shot,,
+0021200414,59,4,0,1,7:50 PM,6:51,,,Maxiell REBOUND (Off:3 Def:1),,
+0021200414,60,1,1,1,7:50 PM,6:33,,,Knight 25' 3PT Jump Shot (5 PTS) (Stuckey 1 AST),8 - 11,3
+0021200414,62,8,0,1,7:51 PM,6:11,SUB: Stevenson FOR Williams,,,,
+0021200414,63,1,1,1,7:51 PM,6:08,Smith 19' Jump Shot (8 PTS) (Stevenson 1 AST),,,8 - 13,5
+0021200414,64,1,1,1,7:51 PM,5:46,,,Monroe 19' Jump Shot (2 PTS) (Knight 1 AST),10 - 13,3
+0021200414,65,1,43,1,7:52 PM,5:35,Horford 3' Alley Oop Layup (2 PTS) (Korver 1 AST),,,10 - 15,5
+0021200414,66,5,1,1,7:52 PM,5:24,Smith STEAL (2 STL),,Knight Bad Pass Turnover (P3.T5),,
+0021200414,67,1,50,1,7:52 PM,5:20,Smith 1' Running Dunk (10 PTS),,,10 - 17,7
+0021200414,68,2,56,1,7:52 PM,5:02,,,MISS Monroe 5' Running Hook Shot,,
+0021200414,69,4,0,1,7:52 PM,5:01,Korver REBOUND (Off:0 Def:2),,,,
+0021200414,70,2,1,1,7:52 PM,4:46,MISS Smith 17' Jump Shot,,,,
+0021200414,71,4,0,1,7:53 PM,4:45,,,Singler REBOUND (Off:0 Def:2),,
+0021200414,72,5,1,1,7:53 PM,4:36,Korver STEAL (1 STL),,Monroe Bad Pass Turnover (P2.T6),,
+0021200414,73,2,1,1,7:53 PM,4:23,MISS Smith 19' Jump Shot,,,,
+0021200414,74,4,0,1,7:53 PM,4:22,,,Monroe REBOUND (Off:0 Def:1),,
+0021200414,75,2,42,1,7:53 PM,4:13,,,MISS Knight 2' Driving Layup,,
+0021200414,76,4,0,1,7:53 PM,4:12,Smith REBOUND (Off:1 Def:2),,,,
+0021200414,77,2,1,1,7:53 PM,3:54,MISS Horford 20' Jump Shot,,,,
+0021200414,78,4,0,1,7:53 PM,3:53,,,Knight REBOUND (Off:0 Def:3),,
+0021200414,79,2,1,1,7:54 PM,3:43,,,MISS Maxiell 18' Jump Shot,,
+0021200414,80,4,0,1,7:54 PM,3:42,Teague REBOUND (Off:0 Def:1),,,,
+0021200414,81,1,41,1,7:54 PM,3:36,Smith  Running Layup (12 PTS) (Teague 4 AST),,,10 - 19,9
+0021200414,82,5,40,1,7:54 PM,3:08,,,Singler Out of Bounds Lost Ball Turnover (P2.T7),,
+0021200414,83,8,0,1,7:54 PM,3:08,SUB: Pachulia FOR Horford,,,,
+0021200414,84,8,0,1,7:54 PM,3:08,,,SUB: Drummond FOR Monroe,,
+0021200414,85,8,0,1,7:54 PM,3:08,,,SUB: Prince FOR Singler,,
+0021200414,86,2,5,1,7:55 PM,2:56,MISS Smith 1' Layup,,Drummond BLOCK (1 BLK),,
+0021200414,87,4,0,1,7:55 PM,2:55,,,Prince REBOUND (Off:1 Def:2),,
+0021200414,88,6,1,1,7:55 PM,2:45,Teague P.FOUL (P1.T2),,,,
+0021200414,89,9,1,1,7:55 PM,2:45,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0021200414,91,8,0,1,7:57 PM,2:45,SUB: Morrow FOR Korver,,,,
+0021200414,92,8,0,1,7:57 PM,2:45,,,SUB: Bynum FOR Knight,,
+0021200414,93,2,42,1,7:58 PM,2:34,,,MISS Stuckey 3' Driving Layup,,
+0021200414,94,4,0,1,7:58 PM,2:33,Smith REBOUND (Off:1 Def:3),,,,
+0021200414,95,6,2,1,7:58 PM,2:16,,,Maxiell S.FOUL (P2.T2),,
+0021200414,96,3,11,1,7:58 PM,2:16,Pachulia Free Throw 1 of 2 (1 PTS),,,10 - 20,10
+0021200414,98,3,12,1,7:58 PM,2:16,Pachulia Free Throw 2 of 2 (2 PTS),,,10 - 21,11
+0021200414,101,2,1,1,7:59 PM,1:56,Teague BLOCK (1 BLK),,MISS Bynum 25' 3PT Jump Shot,,
+0021200414,102,4,0,1,7:59 PM,1:54,Teague REBOUND (Off:0 Def:2),,,,
+0021200414,103,5,1,1,7:59 PM,1:50,Teague Bad Pass Turnover (P2.T2),,Drummond STEAL (1 STL),,
+0021200414,104,2,41,1,7:59 PM,1:45,,,MISS Bynum  Running Layup,,
+0021200414,105,4,0,1,7:59 PM,1:44,Pachulia REBOUND (Off:0 Def:1),,,,
+0021200414,106,1,43,1,7:59 PM,1:38,Smith 2' Alley Oop Layup (14 PTS) (Teague 5 AST),,,10 - 23,13
+0021200414,107,2,1,1,8:00 PM,1:10,,,MISS Stuckey 17' Jump Shot,,
+0021200414,108,4,0,1,8:00 PM,1:10,HAWKS Rebound,,,,
+0021200414,109,8,0,1,8:00 PM,1:10,SUB: Williams FOR Smith,,,,
+0021200414,110,8,0,1,8:00 PM,1:10,SUB: Horford FOR Teague,,,,
+0021200414,116,8,0,1,8:00 PM,1:10,,,SUB: Villanueva FOR Maxiell,,
+0021200414,111,2,5,1,8:00 PM,1:00,MISS Horford 2' Layup,,,,
+0021200414,112,4,0,1,8:00 PM,0:59,,,Prince REBOUND (Off:1 Def:3),,
+0021200414,113,2,42,1,8:01 PM,0:41,,,MISS Prince  Driving Layup,,
+0021200414,114,4,0,1,8:01 PM,0:39,Horford REBOUND (Off:0 Def:2),,,,
+0021200414,115,1,1,1,8:01 PM,0:35,Morrow 25' 3PT Jump Shot (3 PTS) (Horford 2 AST),,,10 - 26,16
+0021200414,117,1,1,1,8:01 PM,0:16,,,Prince  3PT Jump Shot (5 PTS) (Bynum 1 AST),13 - 26,13
+0021200414,118,2,1,1,8:01 PM,0:04,MISS Morrow 24' 3PT Jump Shot,,,,
+0021200414,119,4,0,1,8:01 PM,0:02,Horford REBOUND (Off:1 Def:2),,,,
+0021200414,120,1,1,1,8:01 PM,0:00,Horford 20' Jump Shot (4 PTS),,,13 - 28,15
+0021200414,121,13,0,1,8:02 PM,0:00,,,,13 - 28,15
+0021200414,123,12,0,2,8:04 PM,12:00,,,,13 - 28,15
+0021200414,124,2,1,2,8:04 PM,11:37,,,MISS Villanueva 24' 3PT Jump Shot,,
+0021200414,125,4,0,2,8:05 PM,11:35,,,Bynum REBOUND (Off:1 Def:0),,
+0021200414,126,1,72,2,8:05 PM,11:34,,,Bynum 1' Putback Layup (2 PTS),15 - 28,13
+0021200414,127,2,3,2,8:05 PM,11:12,MISS Horford 3' Hook Shot,,,,
+0021200414,128,4,0,2,8:05 PM,11:10,,,Prince REBOUND (Off:1 Def:4),,
+0021200414,129,6,2,2,8:05 PM,10:55,Horford S.FOUL (P1.T1),,,,
+0021200414,130,3,11,2,8:06 PM,10:55,,,MISS Drummond Free Throw 1 of 2,,
+0021200414,131,4,1,2,8:06 PM,10:55,,,Pistons Rebound,,
+0021200414,132,3,12,2,8:06 PM,10:55,,,MISS Drummond Free Throw 2 of 2,,
+0021200414,134,4,0,2,8:06 PM,10:54,Pachulia REBOUND (Off:0 Def:2),,,,
+0021200414,135,1,42,2,8:06 PM,10:39,Pachulia 2' Driving Layup (4 PTS),,,15 - 30,15
+0021200414,137,5,15,2,8:07 PM,10:24,,,Drummond Offensive Goaltending Turnover (P1.T8),,
+0021200414,138,2,1,2,8:07 PM,10:09,MISS Stevenson 24' 3PT Jump Shot,,,,
+0021200414,139,4,0,2,8:07 PM,10:06,,,Pistons Rebound,,
+0021200414,141,1,1,2,8:07 PM,9:52,,,Villanueva 25' 3PT Jump Shot (3 PTS) (Stuckey 2 AST),18 - 30,12
+0021200414,142,5,1,2,8:08 PM,9:35,Williams Bad Pass Turnover (P1.T3),,Drummond STEAL (2 STL),,
+0021200414,143,2,1,2,8:08 PM,9:30,,,MISS Villanueva 24' 3PT Jump Shot,,
+0021200414,144,4,0,2,8:08 PM,9:28,Williams REBOUND (Off:0 Def:2),,,,
+0021200414,145,1,7,2,8:08 PM,9:24,Stevenson  Dunk (2 PTS) (Williams 1 AST),,,18 - 32,14
+0021200414,146,2,5,2,8:08 PM,9:04,,,MISS Drummond 1' Layup,,
+0021200414,148,4,0,2,8:08 PM,9:03,,,Drummond REBOUND (Off:1 Def:0),,
+0021200414,147,1,4,2,8:08 PM,9:03,,,Drummond 1' Tip Shot (2 PTS),20 - 32,12
+0021200414,149,6,11,2,8:08 PM,9:03,,,Drummond T.FOUL (P0.T0),,
+0021200414,150,3,16,2,8:08 PM,9:03,Morrow Free Throw Technical (4 PTS),,,20 - 33,13
+0021200414,152,8,0,2,8:09 PM,9:03,,,SUB: Daye FOR Prince,,
+0021200414,153,2,1,2,8:09 PM,8:47,MISS Pachulia 17' Jump Shot,,,,
+0021200414,154,4,0,2,8:09 PM,8:45,,,Villanueva REBOUND (Off:0 Def:1),,
+0021200414,155,1,47,2,8:09 PM,8:34,,,Stuckey 6' Turnaround Jump Shot (2 PTS),22 - 33,11
+0021200414,156,9,1,2,8:10 PM,8:27,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0021200414,158,8,0,2,8:11 PM,8:27,SUB: Korver FOR Morrow,,,,
+0021200414,160,5,1,2,8:12 PM,8:16,Pachulia Bad Pass Turnover (P1.T4),,Daye STEAL (1 STL),,
+0021200414,161,1,7,2,8:13 PM,8:00,,,Drummond 2' Dunk (4 PTS) (Stuckey 3 AST),24 - 33,9
+0021200414,162,6,1,2,8:13 PM,7:43,,,Villanueva P.FOUL (P1.T1),,
+0021200414,163,8,0,2,8:13 PM,7:43,SUB: Smith FOR Pachulia,,,,
+0021200414,164,8,0,2,8:13 PM,7:43,SUB: Teague FOR Stevenson,,,,
+0021200414,165,1,1,2,8:14 PM,7:35,Smith 18' Jump Shot (16 PTS) (Williams 2 AST),,,24 - 35,11
+0021200414,166,2,1,2,8:14 PM,7:14,,,MISS Stuckey 5' Jump Shot,,
+0021200414,167,4,0,2,8:14 PM,7:12,,,Stuckey REBOUND (Off:1 Def:0),,
+0021200414,168,2,72,2,8:14 PM,7:11,Smith BLOCK (1 BLK),,MISS Stuckey 1' Putback Layup,,
+0021200414,169,4,0,2,8:14 PM,7:08,Williams REBOUND (Off:0 Def:3),,,,
+0021200414,170,6,2,2,8:14 PM,7:07,,,Daye S.FOUL (P1.T2),,
+0021200414,171,3,11,2,8:14 PM,7:07,Horford Free Throw 1 of 2 (5 PTS),,,24 - 36,12
+0021200414,173,3,12,2,8:15 PM,7:07,Horford Free Throw 2 of 2 (6 PTS),,,24 - 37,13
+0021200414,175,5,1,2,8:15 PM,6:52,Williams STEAL (2 STL),,Drummond Bad Pass Turnover (P2.T9),,
+0021200414,176,1,41,2,8:15 PM,6:47,Williams 1' Running Layup (4 PTS),,,24 - 39,15
+0021200414,178,1,1,2,8:15 PM,6:26,,,Bynum 25' 3PT Jump Shot (5 PTS) (Stuckey 4 AST),27 - 39,12
+0021200414,179,2,58,2,8:16 PM,6:15,MISS Horford 4' Turnaround Hook Shot,,,,
+0021200414,180,4,0,2,8:16 PM,6:14,,,Villanueva REBOUND (Off:0 Def:2),,
+0021200414,187,2,40,2,8:16 PM,5:59,,,MISS Bynum  Layup,,
+0021200414,188,4,0,2,8:16 PM,5:58,,,Drummond REBOUND (Off:2 Def:0),,
+0021200414,181,1,5,2,8:16 PM,5:56,,,Drummond 2' Layup (6 PTS),29 - 39,10
+0021200414,182,2,77,2,8:16 PM,5:42,MISS Williams 13' Driving Jump Shot,,,,
+0021200414,183,4,0,2,8:16 PM,5:40,,,Drummond REBOUND (Off:2 Def:1),,
+0021200414,184,1,42,2,8:16 PM,5:32,,,Stuckey 1' Driving Layup (4 PTS) (Villanueva 1 AST),31 - 39,8
+0021200414,185,6,2,2,8:16 PM,5:32,Teague S.FOUL (P2.T2),,,,
+0021200414,186,9,4,2,8:17 PM,5:32,,,,,
+0021200414,189,8,0,2,8:19 PM,5:32,,,SUB: Monroe FOR Drummond,,
+0021200414,190,8,0,2,8:19 PM,5:32,SUB: Johnson FOR Teague,,,,
+0021200414,191,3,10,2,8:19 PM,5:32,,,Stuckey Free Throw 1 of 1 (5 PTS),32 - 39,7
+0021200414,193,1,52,2,8:19 PM,5:21,Horford 2' Alley Oop Dunk (8 PTS) (Smith 1 AST),,,32 - 41,9
+0021200414,194,2,1,2,8:20 PM,5:00,Williams BLOCK (1 BLK),,MISS Bynum 26' 3PT Jump Shot,,
+0021200414,195,4,0,2,8:20 PM,4:58,Smith REBOUND (Off:1 Def:4),,,,
+0021200414,196,6,1,2,8:20 PM,4:58,,,Bynum P.FOUL (P1.T3),,
+0021200414,197,8,0,2,8:20 PM,4:58,,,SUB: Knight FOR Stuckey,,
+0021200414,198,1,50,2,8:20 PM,4:45,Horford 1' Running Dunk (10 PTS) (Korver 2 AST),,,32 - 43,11
+0021200414,199,1,47,2,8:21 PM,4:25,,,Daye 5' Turnaround Jump Shot (2 PTS) (Monroe 1 AST),34 - 43,9
+0021200414,200,2,1,2,8:21 PM,4:07,MISS Korver 19' Jump Shot,,,,
+0021200414,201,4,0,2,8:21 PM,4:06,,,Daye REBOUND (Off:0 Def:1),,
+0021200414,202,1,77,2,8:21 PM,3:48,,,Monroe 4' Driving Jump Shot (4 PTS),36 - 43,7
+0021200414,203,1,42,2,8:21 PM,3:33,Johnson 1' Driving Layup (2 PTS) (Williams 3 AST),,,36 - 45,9
+0021200414,204,9,1,2,8:22 PM,3:26,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0021200414,207,8,0,2,8:24 PM,3:26,,,SUB: Maxiell FOR Bynum,,
+0021200414,208,8,0,2,8:24 PM,3:26,,,SUB: Stuckey FOR Villanueva,,
+0021200414,209,2,5,2,8:24 PM,3:10,,,MISS Stuckey 2' Layup,,
+0021200414,210,4,0,2,8:24 PM,3:10,,,Monroe REBOUND (Off:1 Def:1),,
+0021200414,211,6,2,2,8:24 PM,3:10,Horford S.FOUL (P2.T3),,,,
+0021200414,212,8,0,2,8:25 PM,3:10,SUB: Pachulia FOR Horford,,,,
+0021200414,213,2,1,2,8:25 PM,2:57,,,MISS Daye 21' Jump Shot,,
+0021200414,214,4,0,2,8:25 PM,2:55,Johnson REBOUND (Off:0 Def:1),,,,
+0021200414,216,2,1,2,8:25 PM,2:39,MISS Johnson 16' Jump Shot,,Knight BLOCK (1 BLK),,
+0021200414,217,4,0,2,8:25 PM,2:38,Johnson REBOUND (Off:1 Def:1),,,,
+0021200414,218,1,1,2,8:25 PM,2:34,Smith 26' 3PT Jump Shot (19 PTS) (Johnson 1 AST),,,36 - 48,12
+0021200414,219,6,1,2,8:26 PM,2:19,Williams P.FOUL (P1.T4),,,,
+0021200414,220,6,2,2,8:26 PM,2:14,Williams S.FOUL (P2.PN),,,,
+0021200414,221,3,11,2,8:26 PM,2:14,,,Knight Free Throw 1 of 2 (6 PTS),37 - 48,11
+0021200414,223,3,12,2,8:27 PM,2:14,,,Knight Free Throw 2 of 2 (7 PTS),38 - 48,10
+0021200414,226,6,1,2,8:27 PM,2:05,,,Daye P.FOUL (P2.T4),,
+0021200414,228,2,1,2,8:28 PM,1:50,MISS Williams 26' 3PT Jump Shot,,,,
+0021200414,229,4,0,2,8:28 PM,1:48,,,Stuckey REBOUND (Off:1 Def:1),,
+0021200414,230,2,42,2,8:28 PM,1:38,Korver BLOCK (1 BLK),,MISS Knight 2' Driving Layup,,
+0021200414,231,4,0,2,8:28 PM,1:36,Williams REBOUND (Off:0 Def:4),,,,
+0021200414,232,2,1,2,8:28 PM,1:27,MISS Korver 24' 3PT Jump Shot,,,,
+0021200414,233,4,0,2,8:28 PM,1:25,,,Daye REBOUND (Off:0 Def:2),,
+0021200414,234,2,5,2,8:28 PM,1:13,,,MISS Stuckey  Layup,,
+0021200414,236,4,0,2,8:28 PM,1:11,,,Maxiell REBOUND (Off:4 Def:1),,
+0021200414,235,2,4,2,8:28 PM,1:11,,,MISS Maxiell 1' Tip Shot,,
+0021200414,237,4,0,2,8:28 PM,1:10,Johnson REBOUND (Off:1 Def:2),,,,
+0021200414,238,2,1,2,8:28 PM,1:05,MISS Korver 25' 3PT Jump Shot,,,,
+0021200414,239,4,0,2,8:28 PM,1:03,,,Maxiell REBOUND (Off:4 Def:2),,
+0021200414,240,1,1,2,8:28 PM,0:56,,,Daye 26' 3PT Jump Shot (5 PTS) (Knight 2 AST),41 - 48,7
+0021200414,241,5,2,2,8:29 PM,0:45,Williams Lost Ball Turnover (P2.T5),,Monroe STEAL (1 STL),,
+0021200414,242,2,41,2,8:29 PM,0:41,,,MISS Monroe 2' Running Layup,,
+0021200414,244,4,0,2,8:29 PM,0:41,,,Knight REBOUND (Off:1 Def:3),,
+0021200414,243,1,4,2,8:29 PM,0:41,,,Knight 1' Tip Shot (9 PTS),43 - 48,5
+0021200414,245,1,5,2,8:29 PM,0:25,Smith 1' Layup (21 PTS) (Williams 4 AST),,,43 - 50,7
+0021200414,248,9,2,2,8:30 PM,0:05,,,Pistons Timeout: Short (Reg.2 Short 1),,
+0021200414,249,8,0,2,8:30 PM,0:05,SUB: Stevenson FOR Williams,,,,
+0021200414,251,1,42,2,8:31 PM,0:00,,,Stuckey 2' Driving Layup (7 PTS),45 - 50,5
+0021200414,252,2,1,2,8:31 PM,0:00,MISS Johnson 73' 3PT Jump Shot,,,,
+0021200414,253,4,0,2,8:31 PM,0:00,HAWKS Rebound,,,,
+0021200414,254,13,0,2,8:31 PM,0:00,,,,45 - 50,5
+0021200414,256,12,0,3,8:47 PM,12:00,,,,45 - 50,5
+0021200414,257,1,42,3,8:48 PM,11:39,,,Monroe 1' Driving Layup (6 PTS),47 - 50,3
+0021200414,258,1,77,3,8:48 PM,11:11,Teague 5' Driving Jump Shot (2 PTS) (Korver 3 AST),,,47 - 52,5
+0021200414,259,6,1,3,8:49 PM,10:51,Horford P.FOUL (P3.T1),,,,
+0021200414,260,1,49,3,8:49 PM,10:39,,,Prince 1' Driving Dunk (7 PTS),49 - 52,3
+0021200414,261,1,49,3,8:49 PM,10:21,Smith 1' Driving Dunk (23 PTS),,,49 - 54,5
+0021200414,262,5,2,3,8:50 PM,10:06,Teague STEAL (1 STL),,Monroe Lost Ball Turnover (P3.T10),,
+0021200414,263,6,1,3,8:50 PM,9:57,,,Maxiell P.FOUL (P3.T1),,
+0021200414,264,1,1,3,8:50 PM,9:41,Horford 4' Jump Shot (12 PTS) (Teague 6 AST),,,49 - 56,7
+0021200414,265,2,3,3,8:51 PM,9:23,,,MISS Monroe 4' Hook Shot,,
+0021200414,266,4,0,3,8:51 PM,9:22,,,Monroe REBOUND (Off:2 Def:1),,
+0021200414,267,10,0,3,8:51 PM,9:22,Jump Ball Horford vs. Monroe: Tip to Monroe,,,,
+0021200414,268,1,5,3,8:52 PM,9:15,,,Monroe 3' Layup (8 PTS),51 - 56,5
+0021200414,269,1,42,3,8:52 PM,9:05,Smith 1' Driving Layup (25 PTS) (Teague 7 AST),,,51 - 58,7
+0021200414,270,2,1,3,8:52 PM,8:47,,,MISS Knight 26' 3PT Jump Shot,,
+0021200414,271,4,0,3,8:52 PM,8:46,Smith REBOUND (Off:1 Def:5),,,,
+0021200414,272,2,1,3,8:52 PM,8:36,MISS Horford 21' Jump Shot,,,,
+0021200414,273,4,0,3,8:52 PM,8:35,,,Pistons Rebound,,
+0021200414,274,6,3,3,8:52 PM,8:35,Smith L.B.FOUL (P2.T2),,,,
+0021200414,275,2,1,3,8:53 PM,8:13,,,MISS Monroe 19' Jump Shot,,
+0021200414,276,4,0,3,8:53 PM,8:12,Teague REBOUND (Off:0 Def:3),,,,
+0021200414,277,6,26,3,8:53 PM,8:08,Teague Offensive Charge Foul (P3.T3),,,,
+0021200414,278,5,5,3,8:53 PM,8:08,Teague Foul Turnover (P3.T6),,,,
+0021200414,280,1,1,3,8:54 PM,7:45,,,Prince 19' Jump Shot (9 PTS) (Monroe 2 AST),53 - 58,5
+0021200414,282,1,1,3,8:54 PM,7:31,Horford 7' Jump Shot (14 PTS) (Teague 8 AST),,,53 - 60,7
+0021200414,283,2,42,3,8:54 PM,7:14,Smith BLOCK (2 BLK),,MISS Singler 3' Driving Layup,,
+0021200414,284,4,0,3,8:54 PM,7:13,Korver REBOUND (Off:0 Def:3),,,,
+0021200414,285,6,2,3,8:54 PM,7:11,,,Knight S.FOUL (P1.T2),,
+0021200414,286,3,11,3,8:55 PM,7:11,Teague Free Throw 1 of 2 (3 PTS),,,53 - 61,8
+0021200414,288,3,12,3,8:55 PM,7:11,Teague Free Throw 2 of 2 (4 PTS),,,53 - 62,9
+0021200414,292,6,2,3,8:56 PM,6:50,Horford S.FOUL (P4.T4),,,,
+0021200414,293,3,11,3,8:56 PM,6:50,,,Monroe Free Throw 1 of 2 (9 PTS),54 - 62,8
+0021200414,295,8,0,3,8:56 PM,6:50,SUB: Pachulia FOR Horford,,,,
+0021200414,296,8,0,3,8:56 PM,6:50,,,SUB: Stuckey FOR Singler,,
+0021200414,297,3,12,3,8:56 PM,6:50,,,Monroe Free Throw 2 of 2 (10 PTS),55 - 62,7
+0021200414,299,2,1,3,8:57 PM,6:35,MISS Smith 18' Jump Shot,,,,
+0021200414,300,4,0,3,8:57 PM,6:33,Pachulia REBOUND (Off:1 Def:2),,,,
+0021200414,301,2,1,3,8:57 PM,6:24,MISS Korver 25' 3PT Jump Shot,,,,
+0021200414,302,4,0,3,8:57 PM,6:23,,,Monroe REBOUND (Off:2 Def:2),,
+0021200414,303,5,1,3,8:57 PM,6:15,Pachulia STEAL (1 STL),,Stuckey Bad Pass Turnover (P1.T11),,
+0021200414,304,1,41,3,8:57 PM,6:09,Teague 1' Running Layup (6 PTS),,,55 - 64,9
+0021200414,305,9,1,3,8:57 PM,6:09,,,Pistons Timeout: Regular (Reg.3 Short 1),,
+0021200414,309,2,1,3,9:00 PM,5:49,,,MISS Knight 25' 3PT Jump Shot,,
+0021200414,310,4,0,3,9:00 PM,5:47,Williams REBOUND (Off:0 Def:5),,,,
+0021200414,311,1,7,3,9:00 PM,5:43,Smith 1' Dunk (27 PTS) (Williams 5 AST),,,55 - 66,11
+0021200414,312,1,1,3,9:01 PM,5:18,,,Prince 14' Jump Shot (11 PTS),57 - 66,9
+0021200414,313,1,3,3,9:01 PM,5:03,Smith 5' Hook Shot (29 PTS) (Teague 9 AST),,,57 - 68,11
+0021200414,314,2,42,3,9:01 PM,4:37,,,MISS Knight 2' Driving Layup,,
+0021200414,315,4,0,3,9:01 PM,4:36,Williams REBOUND (Off:0 Def:6),,,,
+0021200414,316,6,2,3,9:02 PM,4:26,,,Maxiell S.FOUL (P4.T3),,
+0021200414,317,3,11,3,9:02 PM,4:26,MISS Smith Free Throw 1 of 2,,,,
+0021200414,318,4,1,3,9:02 PM,4:26,HAWKS Rebound,,,,
+0021200414,319,8,0,3,9:02 PM,4:26,,,SUB: Drummond FOR Maxiell,,
+0021200414,320,8,0,3,9:02 PM,4:26,SUB: Stevenson FOR Korver,,,,
+0021200414,321,3,12,3,9:02 PM,4:26,Smith Free Throw 2 of 2 (30 PTS),,,57 - 69,12
+0021200414,323,1,1,3,9:03 PM,4:10,,,Prince  3PT Jump Shot (14 PTS) (Stuckey 5 AST),60 - 69,9
+0021200414,324,6,1,3,9:03 PM,3:51,,,Monroe P.FOUL (P1.T4),,
+0021200414,325,8,0,3,9:03 PM,3:51,SUB: Morrow FOR Teague,,,,
+0021200414,326,1,42,3,9:03 PM,3:45,Williams 2' Driving Layup (6 PTS),,,60 - 71,11
+0021200414,327,5,1,3,9:04 PM,3:18,Morrow STEAL (1 STL),,Knight Bad Pass Turnover (P4.T12),,
+0021200414,328,1,1,3,9:04 PM,3:05,Williams 21' Jump Shot (8 PTS),,,60 - 73,13
+0021200414,329,9,2,3,9:04 PM,3:05,,,Pistons Timeout: Short (Reg.3 Short 2),,
+0021200414,331,8,0,3,9:05 PM,3:05,,,SUB: Bynum FOR Knight,,
+0021200414,332,2,42,3,9:05 PM,2:54,,,MISS Monroe 2' Driving Layup,,
+0021200414,334,4,0,3,9:05 PM,2:53,,,Drummond REBOUND (Off:3 Def:1),,
+0021200414,333,1,4,3,9:05 PM,2:53,,,Drummond 1' Tip Shot (8 PTS),62 - 73,11
+0021200414,335,7,1,3,9:06 PM,2:53,,,Pistons Violation: Delay of game Violation,,
+0021200414,336,2,43,3,9:06 PM,2:41,MISS Smith 2' Alley Oop Layup,,,,
+0021200414,337,4,0,3,9:06 PM,2:38,,,Drummond REBOUND (Off:3 Def:2),,
+0021200414,338,2,1,3,9:06 PM,2:18,,,MISS Bynum 18' Jump Shot,,
+0021200414,339,4,0,3,9:06 PM,2:17,Smith REBOUND (Off:1 Def:6),,,,
+0021200414,340,1,1,3,9:06 PM,2:11,Morrow 24' 3PT Jump Shot (7 PTS) (Smith 2 AST),,,62 - 76,14
+0021200414,342,9,1,3,9:07 PM,1:48,HAWKS Timeout: Regular (Full 3 Short 0),,,,
+0021200414,346,2,63,3,9:09 PM,1:43,,,MISS Stuckey 12' Fadeaway Jumper,,
+0021200414,347,4,0,3,9:09 PM,1:41,Williams REBOUND (Off:0 Def:7),,,,
+0021200414,348,1,5,3,9:10 PM,1:21,Morrow 2' Layup (9 PTS) (Smith 3 AST),,,62 - 78,16
+0021200414,349,2,1,3,9:10 PM,0:52,,,MISS Stuckey 25' 3PT Jump Shot,,
+0021200414,350,4,0,3,9:10 PM,0:50,Stevenson REBOUND (Off:0 Def:1),,,,
+0021200414,351,5,1,3,9:11 PM,0:34,Williams Bad Pass Turnover (P3.T7),,,,
+0021200414,352,8,0,3,9:11 PM,0:34,,,SUB: Daye FOR Prince,,
+0021200414,353,8,0,3,9:11 PM,0:34,SUB: Johnson FOR Smith,,,,
+0021200414,354,2,42,3,9:11 PM,0:17,,,MISS Monroe 1' Driving Layup,,
+0021200414,355,4,0,3,9:11 PM,0:15,Johnson REBOUND (Off:1 Def:3),,,,
+0021200414,356,1,1,3,9:11 PM,0:12,Stevenson 25' 3PT Jump Shot (5 PTS) (Johnson 2 AST),,,62 - 81,19
+0021200414,357,2,1,3,9:12 PM,0:00,,,MISS Stuckey 25' 3PT Jump Shot,,
+0021200414,358,4,0,3,9:12 PM,0:00,,,Drummond REBOUND (Off:4 Def:2),,
+0021200414,359,13,0,3,9:12 PM,0:00,,,,62 - 81,19
+0021200414,361,12,0,4,9:14 PM,12:00,,,,62 - 81,19
+0021200414,362,2,42,4,9:15 PM,11:41,MISS Morrow 3' Driving Layup,,Villanueva BLOCK (1 BLK),,
+0021200414,363,4,0,4,9:15 PM,11:41,,,Stuckey REBOUND (Off:1 Def:2),,
+0021200414,364,6,1,4,9:15 PM,11:41,Pachulia P.FOUL (P1.T1),,,,
+0021200414,365,2,47,4,9:15 PM,11:22,,,MISS Villanueva 14' Turnaround Jump Shot,,
+0021200414,366,4,0,4,9:15 PM,11:22,,,Pistons Rebound,,
+0021200414,367,6,3,4,9:15 PM,11:22,Teague L.B.FOUL (P4.T2),,,,
+0021200414,368,2,42,4,9:16 PM,11:16,,,MISS Bynum 2' Driving Layup,,
+0021200414,369,4,0,4,9:16 PM,11:14,Pachulia REBOUND (Off:1 Def:3),,,,
+0021200414,370,1,1,4,9:16 PM,10:58,Stevenson  3PT Jump Shot (8 PTS) (Teague 10 AST),,,62 - 84,22
+0021200414,371,5,1,4,9:16 PM,10:43,Pachulia STEAL (2 STL),,Stuckey Bad Pass Turnover (P2.T13),,
+0021200414,372,2,1,4,9:17 PM,10:31,MISS Stevenson 24' 3PT Jump Shot,,,,
+0021200414,373,4,0,4,9:17 PM,10:30,,,Daye REBOUND (Off:0 Def:3),,
+0021200414,374,1,1,4,9:17 PM,10:19,,,Villanueva 26' 3PT Jump Shot (6 PTS) (Stuckey 6 AST),65 - 84,19
+0021200414,375,1,1,4,9:17 PM,9:53,Morrow 16' Jump Shot (11 PTS) (Stevenson 2 AST),,,65 - 86,21
+0021200414,377,1,1,4,9:17 PM,9:39,,,Bynum 26' 3PT Jump Shot (8 PTS),68 - 86,18
+0021200414,378,1,1,4,9:18 PM,9:21,Morrow  3PT Jump Shot (14 PTS) (Stevenson 3 AST),,,68 - 89,21
+0021200414,379,1,1,4,9:18 PM,9:06,,,Villanueva 24' 3PT Jump Shot (9 PTS) (Stuckey 7 AST),71 - 89,18
+0021200414,380,2,1,4,9:18 PM,8:41,MISS Pachulia 16' Jump Shot,,,,
+0021200414,381,4,0,4,9:18 PM,8:40,,,Daye REBOUND (Off:0 Def:4),,
+0021200414,382,1,1,4,9:19 PM,8:30,,,Bynum 26' 3PT Jump Shot (11 PTS),74 - 89,15
+0021200414,383,9,1,4,9:19 PM,8:30,HAWKS Timeout: Regular (Full 4 Short 0),,,,
+0021200414,387,5,2,4,9:21 PM,8:22,Teague Lost Ball Turnover (P4.T8),,Bynum STEAL (1 STL),,
+0021200414,388,6,2,4,9:21 PM,8:20,Johnson S.FOUL (P1.T3),,,,
+0021200414,389,3,11,4,9:21 PM,8:20,,,MISS Villanueva Free Throw 1 of 2,,
+0021200414,390,4,1,4,9:21 PM,8:20,,,Pistons Rebound,,
+0021200414,391,8,0,4,9:22 PM,8:20,SUB: Williams FOR Teague,,,,
+0021200414,392,8,0,4,9:22 PM,8:20,SUB: Smith FOR Johnson,,,,
+0021200414,393,8,0,4,9:22 PM,8:20,SUB: Horford FOR Pachulia,,,,
+0021200414,394,3,12,4,9:22 PM,8:20,,,MISS Villanueva Free Throw 2 of 2,,
+0021200414,396,4,0,4,9:22 PM,8:16,Smith REBOUND (Off:1 Def:7),,,,
+0021200414,397,1,46,4,9:22 PM,8:00,Morrow 5' Running Jump Shot (16 PTS) (Horford 3 AST),,,74 - 91,17
+0021200414,398,2,57,4,9:23 PM,7:42,,,MISS Villanueva 13' Driving Hook Shot,,
+0021200414,399,4,0,4,9:23 PM,7:41,Horford REBOUND (Off:1 Def:3),,,,
+0021200414,400,6,1,4,9:23 PM,7:33,,,Bynum P.FOUL (P2.T1),,
+0021200414,401,5,1,4,9:23 PM,7:26,Williams Bad Pass Turnover (P4.T9),,,,
+0021200414,403,5,15,4,9:24 PM,7:13,,,Drummond Offensive Goaltending Turnover (P3.T14),,
+0021200414,404,1,1,4,9:24 PM,6:51,Williams 25' 3PT Jump Shot (11 PTS) (Smith 4 AST),,,74 - 94,20
+0021200414,405,1,1,4,9:24 PM,6:35,,,Villanueva 25' 3PT Jump Shot (12 PTS) (Stuckey 8 AST),77 - 94,17
+0021200414,406,2,1,4,9:25 PM,6:15,MISS Smith 21' Jump Shot,,,,
+0021200414,407,4,0,4,9:25 PM,6:14,Horford REBOUND (Off:2 Def:3),,,,
+0021200414,408,2,1,4,9:25 PM,6:00,MISS Williams 24' 3PT Jump Shot,,,,
+0021200414,409,4,0,4,9:25 PM,5:58,Morrow REBOUND (Off:1 Def:0),,,,
+0021200414,410,2,1,4,9:25 PM,5:55,MISS Morrow 18' Jump Shot,,,,
+0021200414,411,4,0,4,9:25 PM,5:54,,,Villanueva REBOUND (Off:0 Def:3),,
+0021200414,412,1,52,4,9:25 PM,5:41,,,Villanueva 1' Alley Oop Dunk (14 PTS) (Stuckey 9 AST),79 - 94,15
+0021200414,414,2,3,4,9:26 PM,5:18,MISS Smith 6' Hook Shot,,,,
+0021200414,415,4,0,4,9:26 PM,5:16,,,Drummond REBOUND (Off:4 Def:3),,
+0021200414,416,1,1,4,9:26 PM,5:12,,,Bynum 25' 3PT Jump Shot (14 PTS),82 - 94,12
+0021200414,417,2,1,4,9:26 PM,4:48,MISS Morrow 25' 3PT Jump Shot,,,,
+0021200414,418,4,0,4,9:26 PM,4:46,,,Bynum REBOUND (Off:1 Def:1),,
+0021200414,419,1,7,4,9:26 PM,4:38,,,Drummond 1' Dunk (10 PTS) (Bynum 2 AST),84 - 94,10
+0021200414,420,9,2,4,9:26 PM,4:38,HAWKS Timeout: Short (Full 4 Short 1),,,,
+0021200414,422,9,4,4,9:28 PM,4:38,,,,,
+0021200414,423,8,0,4,9:28 PM,4:38,SUB: Korver FOR Morrow,,,,
+0021200414,425,1,43,4,9:29 PM,4:28,Horford 1' Alley Oop Layup (16 PTS) (Williams 6 AST),,,84 - 96,12
+0021200414,426,2,1,4,9:29 PM,4:10,,,MISS Villanueva 26' 3PT Jump Shot,,
+0021200414,427,4,0,4,9:29 PM,4:07,,,Drummond REBOUND (Off:5 Def:3),,
+0021200414,428,1,42,4,9:30 PM,3:58,,,Bynum 1' Driving Layup (16 PTS),86 - 96,10
+0021200414,429,1,43,4,9:30 PM,3:38,Horford 1' Alley Oop Layup (18 PTS) (Smith 5 AST),,,86 - 98,12
+0021200414,430,1,42,4,9:30 PM,3:22,,,Stuckey 1' Driving Layup (9 PTS),88 - 98,10
+0021200414,431,6,2,4,9:31 PM,3:02,,,Stuckey S.FOUL (P1.T2),,
+0021200414,432,3,11,4,9:31 PM,3:02,Horford Free Throw 1 of 2 (19 PTS),,,88 - 99,11
+0021200414,434,3,12,4,9:31 PM,3:02,MISS Horford Free Throw 2 of 2,,,,
+0021200414,436,4,0,4,9:31 PM,3:01,,,Drummond REBOUND (Off:5 Def:4),,
+0021200414,438,1,86,4,9:31 PM,2:47,,,Stuckey 14' Turnaround Fadeaway (11 PTS),90 - 99,9
+0021200414,439,2,1,4,9:32 PM,2:30,MISS Stevenson 24' 3PT Jump Shot,,,,
+0021200414,440,4,0,4,9:32 PM,2:29,,,Daye REBOUND (Off:0 Def:5),,
+0021200414,441,1,77,4,9:32 PM,2:15,,,Bynum 5' Driving Jump Shot (18 PTS),92 - 99,7
+0021200414,442,2,1,4,9:33 PM,1:47,MISS Korver  3PT Jump Shot,,,,
+0021200414,443,4,0,4,9:33 PM,1:45,Smith REBOUND (Off:2 Def:7),,,,
+0021200414,444,6,2,4,9:33 PM,1:45,,,Villanueva S.FOUL (P2.T3),,
+0021200414,445,9,1,4,9:33 PM,1:45,,,Pistons Timeout: Regular (Reg.4 Short 2),,
+0021200414,448,3,11,4,9:35 PM,1:45,MISS Smith Free Throw 1 of 2,,,,
+0021200414,449,4,1,4,9:35 PM,1:45,HAWKS Rebound,,,,
+0021200414,450,3,12,4,9:35 PM,1:45,Smith Free Throw 2 of 2 (31 PTS),,,92 - 100,8
+0021200414,453,1,1,4,9:36 PM,1:34,,,Bynum 20' Jump Shot (20 PTS),94 - 100,6
+0021200414,455,2,1,4,9:36 PM,1:15,MISS Stevenson 24' 3PT Jump Shot,,,,
+0021200414,456,4,0,4,9:37 PM,1:13,,,Stuckey REBOUND (Off:1 Def:3),,
+0021200414,458,7,2,4,9:37 PM,1:10,Smith Violation:Defensive Goaltending,,,,
+0021200414,457,1,41,4,9:37 PM,1:10,,,Stuckey 1' Running Layup (13 PTS),96 - 100,4
+0021200414,460,18,0,4,9:37 PM,1:10,,,,,
+0021200414,462,6,1,4,9:41 PM,0:52,,,Villanueva P.FOUL (P3.PN),,
+0021200414,463,3,11,4,9:41 PM,0:52,MISS Smith Free Throw 1 of 2,,,,
+0021200414,464,4,1,4,9:41 PM,0:52,HAWKS Rebound,,,,
+0021200414,465,8,0,4,9:41 PM,0:52,SUB: Teague FOR Williams,,,,
+0021200414,466,8,0,4,9:41 PM,0:52,SUB: Pachulia FOR Stevenson,,,,
+0021200414,467,3,12,4,9:41 PM,0:52,MISS Smith Free Throw 2 of 2,,,,
+0021200414,469,4,0,4,9:42 PM,0:51,,,Stuckey REBOUND (Off:1 Def:4),,
+0021200414,471,2,42,4,9:42 PM,0:42,,,MISS Stuckey 2' Driving Layup,,
+0021200414,472,4,0,4,9:42 PM,0:42,,,Pistons Rebound,,
+0021200414,475,6,1,4,9:42 PM,0:42,Pachulia P.FOUL (P2.T4),,,,
+0021200414,476,1,7,4,9:42 PM,0:35,,,Drummond  Dunk (12 PTS) (Bynum 3 AST),98 - 100,2
+0021200414,477,2,1,4,9:43 PM,0:14,MISS Smith  3PT Jump Shot,,,,
+0021200414,478,4,0,4,9:43 PM,0:12,,,Daye REBOUND (Off:0 Def:6),,
+0021200414,479,1,1,4,9:43 PM,0:04,,,Daye 24' 3PT Jump Shot (8 PTS) (Bynum 4 AST),101 - 100,-1
+0021200414,480,9,1,4,9:43 PM,0:04,HAWKS Timeout: Regular (Full 5 Short 1),,,,
+0021200414,482,8,0,4,9:44 PM,0:04,SUB: Williams FOR Pachulia,,,,
+0021200414,484,6,2,4,9:45 PM,0:01,,,Villanueva S.FOUL (P4.PN),,
+0021200414,485,9,2,4,9:45 PM,0:01,,,Pistons Timeout: Short (Reg.4 Short 3),,
+0021200414,486,8,0,4,9:47 PM,0:01,,,SUB: Prince FOR Stuckey,,
+0021200414,487,3,11,4,9:47 PM,0:01,Horford Free Throw 1 of 2 (20 PTS),,,101 - 101,TIE
+0021200414,489,3,12,4,9:48 PM,0:01,MISS Horford Free Throw 2 of 2,,,,
+0021200414,491,4,0,4,9:48 PM,0:00,,,Daye REBOUND (Off:0 Def:7),,
+0021200414,492,2,1,4,9:48 PM,0:00,,,MISS Daye 65' 3PT Jump Shot,,
+0021200414,493,4,0,4,9:48 PM,0:00,,,Pistons Rebound,,
+0021200414,494,13,0,4,9:48 PM,0:00,,,,101 - 101,TIE
+0021200414,496,12,0,5,9:50 PM,5:00,,,,101 - 101,TIE
+0021200414,497,10,0,5,9:51 PM,5:00,Jump Ball Smith vs. Drummond: Tip to Villanueva,,,,
+0021200414,498,6,2,5,9:51 PM,4:48,Pachulia S.FOUL (P3.T1),,,,
+0021200414,499,3,11,5,9:51 PM,4:48,,,Drummond Free Throw 1 of 2 (13 PTS),102 - 101,-1
+0021200414,501,3,12,5,9:52 PM,4:48,,,Drummond Free Throw 2 of 2 (14 PTS),103 - 101,-2
+0021200414,503,2,78,5,9:52 PM,4:35,MISS Teague 8' Floating Jump Shot,,,,
+0021200414,504,4,0,5,9:52 PM,4:35,Horford REBOUND (Off:3 Def:3),,,,
+0021200414,505,6,2,5,9:52 PM,4:35,,,Villanueva S.FOUL (P5.T1),,
+0021200414,506,3,11,5,9:52 PM,4:35,MISS Horford Free Throw 1 of 2,,,,
+0021200414,507,4,1,5,9:52 PM,4:35,HAWKS Rebound,,,,
+0021200414,508,3,12,5,9:53 PM,4:35,MISS Horford Free Throw 2 of 2,,,,
+0021200414,510,4,0,5,9:53 PM,4:34,,,Pistons Rebound,,
+0021200414,511,18,1,5,9:53 PM,4:34,,,,,
+0021200414,512,8,0,5,9:54 PM,4:34,SUB: Williams FOR Pachulia,,,,
+0021200414,514,2,1,5,9:55 PM,4:23,,,MISS Bynum 21' Jump Shot,,
+0021200414,515,4,0,5,9:55 PM,4:21,Horford REBOUND (Off:3 Def:4),,,,
+0021200414,516,2,1,5,9:55 PM,4:11,MISS Smith 25' 3PT Jump Shot,,,,
+0021200414,517,4,0,5,9:55 PM,4:10,,,Bynum REBOUND (Off:1 Def:2),,
+0021200414,518,5,40,5,9:55 PM,4:05,,,Bynum Out of Bounds Lost Ball Turnover (P1.T15),,
+0021200414,520,2,1,5,9:56 PM,3:51,MISS Korver 25' 3PT Jump Shot,,,,
+0021200414,521,4,0,5,9:56 PM,3:50,,,Prince REBOUND (Off:1 Def:5),,
+0021200414,522,2,1,5,9:56 PM,3:27,,,MISS Prince 6' Jump Shot,,
+0021200414,524,4,0,5,9:56 PM,3:26,,,Drummond REBOUND (Off:6 Def:4),,
+0021200414,523,2,4,5,9:56 PM,3:25,,,MISS Drummond 1' Tip Shot,,
+0021200414,542,4,0,5,9:56 PM,3:23,,,Daye REBOUND (Off:1 Def:7),,
+0021200414,546,2,53,5,9:56 PM,3:23,,,MISS Daye  Tip Shot,,
+0021200414,526,4,0,5,9:56 PM,3:22,,,Prince REBOUND (Off:2 Def:5),,
+0021200414,525,2,4,5,9:56 PM,3:22,,,MISS Prince 1' Tip Shot,,
+0021200414,527,4,0,5,9:56 PM,3:20,,,Drummond REBOUND (Off:7 Def:4),,
+0021200414,528,2,42,5,9:56 PM,3:15,,,MISS Bynum 1' Driving Layup,,
+0021200414,529,4,0,5,9:56 PM,3:13,Smith REBOUND (Off:2 Def:8),,,,
+0021200414,530,1,1,5,9:57 PM,2:55,Williams  3PT Jump Shot (14 PTS) (Smith 6 AST),,,103 - 104,1
+0021200414,531,6,2,5,9:57 PM,2:41,Teague S.FOUL (P5.T2),,,,
+0021200414,532,3,11,5,9:57 PM,2:41,,,MISS Bynum Free Throw 1 of 2,,
+0021200414,533,4,1,5,9:57 PM,2:41,,,Pistons Rebound,,
+0021200414,534,8,0,5,9:58 PM,2:41,,,SUB: Stuckey FOR Prince,,
+0021200414,535,3,12,5,9:58 PM,2:41,,,Bynum Free Throw 2 of 2 (21 PTS),104 - 104,TIE
+0021200414,538,2,1,5,9:58 PM,2:27,MISS Williams 26' 3PT Jump Shot,,,,
+0021200414,539,4,0,5,9:58 PM,2:26,,,Villanueva REBOUND (Off:0 Def:4),,
+0021200414,540,1,1,5,9:58 PM,2:14,,,Bynum 19' Jump Shot (23 PTS),106 - 104,-2
+0021200414,541,2,58,5,9:59 PM,1:56,MISS Smith 11' Turnaround Hook Shot,,,,
+0021200414,543,4,0,5,9:59 PM,1:53,,,Villanueva REBOUND (Off:0 Def:5),,
+0021200414,544,1,73,5,9:59 PM,1:41,,,Bynum 2' Driving Reverse Layup (25 PTS),108 - 104,-4
+0021200414,545,9,1,5,9:59 PM,1:41,HAWKS Timeout: Regular (Full 6 Short 1),,,,
+0021200414,550,1,42,5,10:01 PM,1:33,Horford 2' Driving Layup (22 PTS) (Williams 7 AST),,,108 - 106,-2
+0021200414,551,5,11,5,10:02 PM,1:09,,,Pistons Turnover: Shot Clock (T#16),,
+0021200414,552,6,2,5,10:02 PM,1:05,,,Drummond S.FOUL (P1.T2),,
+0021200414,553,3,11,5,10:03 PM,1:05,Teague Free Throw 1 of 2 (7 PTS),,,108 - 107,-1
+0021200414,555,3,12,5,10:03 PM,1:05,Teague Free Throw 2 of 2 (8 PTS),,,108 - 108,TIE
+0021200414,557,2,42,5,10:03 PM,0:51,,,MISS Bynum 2' Driving Layup,,
+0021200414,558,4,0,5,10:03 PM,0:50,Teague REBOUND (Off:0 Def:4),,,,
+0021200414,559,2,41,5,10:03 PM,0:46,MISS Teague 2' Running Layup,,Villanueva BLOCK (2 BLK),,
+0021200414,560,4,0,5,10:03 PM,0:46,HAWKS Rebound,,,,
+0021200414,561,9,2,5,10:04 PM,0:46,HAWKS Timeout: Short (Full 6 Short 2),,,,
+0021200414,563,2,47,5,10:05 PM,0:34,MISS Teague 10' Turnaround Jump Shot,,,,
+0021200414,564,4,0,5,10:05 PM,0:34,,,Drummond REBOUND (Off:7 Def:5),,
+0021200414,565,9,1,5,10:05 PM,0:34,,,Pistons Timeout: Regular (Reg.5 Short 3),,
+0021200414,567,6,1,5,10:07 PM,0:17,Smith P.FOUL (P3.T3),,,,
+0021200414,568,9,2,5,10:08 PM,0:17,,,Pistons Timeout: Short (Reg.5 Short 4),,
+0021200414,569,8,0,5,10:08 PM,0:17,SUB: Stevenson FOR Williams,,,,
+0021200414,570,2,42,5,10:09 PM,0:03,,,MISS Bynum 2' Driving Layup,,
+0021200414,571,4,0,5,10:09 PM,0:03,Korver REBOUND (Off:0 Def:4),,,,
+0021200414,572,9,2,5,10:09 PM,0:03,HAWKS Timeout: Short (Full 6 Short 3),,,,
+0021200414,574,8,0,5,10:09 PM,0:03,SUB: Williams FOR Stevenson,,,,
+0021200414,575,2,86,5,10:10 PM,0:00,MISS Smith 11' Turnaround Fadeaway Shot,,,,
+0021200414,576,4,0,5,10:10 PM,0:00,HAWKS Rebound,,,,
+0021200414,577,13,0,5,10:10 PM,0:00,,,,108 - 108,TIE
+0021200414,579,12,0,6,10:12 PM,5:00,,,,108 - 108,TIE
+0021200414,580,10,0,6,10:13 PM,5:00,Jump Ball Smith vs. Drummond: Tip to Teague,,,,
+0021200414,581,2,1,6,10:13 PM,4:37,MISS Smith 18' Jump Shot,,,,
+0021200414,582,4,0,6,10:13 PM,4:35,,,Daye REBOUND (Off:1 Def:8),,
+0021200414,583,2,86,6,10:14 PM,4:17,,,MISS Stuckey 11' Turnaround Fadeaway Shot,,
+0021200414,584,4,0,6,10:14 PM,4:15,Korver REBOUND (Off:0 Def:5),,,,
+0021200414,585,2,1,6,10:14 PM,4:06,MISS Teague 10' Jump Shot,,,,
+0021200414,586,4,0,6,10:14 PM,4:04,,,Daye REBOUND (Off:1 Def:9),,
+0021200414,587,2,77,6,10:14 PM,3:51,,,MISS Stuckey 8' Driving Jump Shot,,
+0021200414,588,4,0,6,10:14 PM,3:50,Horford REBOUND (Off:3 Def:5),,,,
+0021200414,589,6,2,6,10:14 PM,3:45,,,Stuckey S.FOUL (P2.T1),,
+0021200414,590,3,11,6,10:15 PM,3:45,Williams Free Throw 1 of 2 (15 PTS),,,108 - 109,1
+0021200414,592,3,12,6,10:15 PM,3:45,Williams Free Throw 2 of 2 (16 PTS),,,108 - 110,2
+0021200414,594,1,52,6,10:15 PM,3:33,,,Drummond  Alley Oop Dunk (16 PTS) (Stuckey 10 AST),110 - 110,TIE
+0021200414,595,2,58,6,10:15 PM,3:11,MISS Horford 2' Turnaround Hook Shot,,,,
+0021200414,596,4,0,6,10:15 PM,3:10,,,Villanueva REBOUND (Off:0 Def:6),,
+0021200414,597,1,77,6,10:16 PM,3:03,,,Bynum 5' Driving Jump Shot (27 PTS),112 - 110,-2
+0021200414,599,1,1,6,10:16 PM,2:46,Teague 25' 3PT Jump Shot (11 PTS),,,112 - 113,1
+0021200414,600,5,2,6,10:16 PM,2:30,Teague STEAL (2 STL),,Bynum Lost Ball Turnover (P2.T17),,
+0021200414,601,6,9,6,10:16 PM,2:30,,,Bynum C.P.FOUL (P3.T2),,
+0021200414,602,18,0,6,10:17 PM,2:30,,,,,
+0021200414,603,3,25,6,10:18 PM,2:30,Teague Free Throw Clear Path 1 of 2 (12 PTS),,,112 - 114,2
+0021200414,605,3,26,6,10:18 PM,2:30,Teague Free Throw Clear Path 2 of 2 (13 PTS),,,112 - 115,3
+0021200414,608,5,1,6,10:19 PM,2:20,Smith Bad Pass Turnover (P1.T10),,,,
+0021200414,609,6,26,6,10:19 PM,2:13,,,Stuckey Offensive Charge Foul (P3.T3),,
+0021200414,610,5,5,6,10:19 PM,2:13,,,Stuckey Foul Turnover (P3.T18),,
+0021200414,611,1,42,6,10:19 PM,2:00,Teague 1' Driving Layup (15 PTS),,,112 - 117,5
+0021200414,612,9,1,6,10:20 PM,2:00,,,Pistons Timeout: Regular (Reg.6 Short 4),,
+0021200414,614,1,78,6,10:22 PM,1:52,,,Bynum 5' Floating Jump Shot (29 PTS),114 - 117,3
+0021200414,615,1,1,6,10:22 PM,1:40,Korver 25' 3PT Jump Shot (6 PTS) (Teague 11 AST),,,114 - 120,6
+0021200414,621,2,46,6,10:22 PM,1:31,Teague BLOCK (2 BLK),,MISS Bynum 6' Running Jump Shot,,
+0021200414,624,4,0,6,10:22 PM,1:27,,,Bynum REBOUND (Off:2 Def:2),,
+0021200414,616,2,1,6,10:22 PM,1:20,,,MISS Villanueva 26' 3PT Jump Shot,,
+0021200414,617,4,0,6,10:22 PM,1:17,Williams REBOUND (Off:0 Def:8),,,,
+0021200414,618,1,1,6,10:23 PM,0:58,Williams 18' Jump Shot (18 PTS),,,114 - 122,8
+0021200414,619,9,2,6,10:23 PM,0:58,,,Pistons Timeout: Short (Reg.6 Short 5),,
+0021200414,622,1,77,6,10:24 PM,0:55,,,Bynum 5' Driving Jump Shot (31 PTS) (Stuckey 11 AST),116 - 122,6
+0021200414,625,6,28,6,10:24 PM,0:41,,,Drummond Personal Take Foul (P2.PN),,
+0021200414,626,2,1,6,10:25 PM,0:29,MISS Williams 26' 3PT Jump Shot,,,,
+0021200414,627,4,0,6,10:25 PM,0:27,,,Villanueva REBOUND (Off:0 Def:7),,
+0021200414,628,2,42,6,10:25 PM,0:19,,,MISS Bynum 3' Driving Layup,,
+0021200414,629,4,0,6,10:25 PM,0:18,Horford REBOUND (Off:3 Def:6),,,,
+0021200414,630,6,28,6,10:25 PM,0:17,,,Bynum Personal Take Foul (P4.PN),,
+0021200414,631,3,11,6,10:26 PM,0:17,Korver Free Throw 1 of 2 (7 PTS),,,116 - 123,7
+0021200414,633,3,12,6,10:26 PM,0:17,Korver Free Throw 2 of 2 (8 PTS),,,116 - 124,8
+0021200414,635,9,2,6,10:26 PM,0:17,,,Pistons Timeout: Short (Reg.6 Short 6),,
+0021200414,637,2,1,6,10:27 PM,0:14,,,MISS Villanueva 25' 3PT Jump Shot,,
+0021200414,638,4,0,6,10:27 PM,0:12,,,Daye REBOUND (Off:2 Def:9),,
+0021200414,639,1,1,6,10:27 PM,0:10,,,Stuckey 24' 3PT Jump Shot (16 PTS) (Daye 1 AST),119 - 124,5
+0021200414,640,6,28,6,10:27 PM,0:09,,,Stuckey Personal Take Foul (P4.PN),,
+0021200414,641,3,11,6,10:28 PM,0:09,Teague Free Throw 1 of 2 (16 PTS),,,119 - 125,6
+0021200414,643,3,12,6,10:28 PM,0:09,Teague Free Throw 2 of 2 (17 PTS),,,119 - 126,7
+0021200414,645,2,42,6,10:28 PM,0:02,,,MISS Bynum 1' Driving Layup,,
+0021200414,646,4,0,6,10:28 PM,0:00,Horford REBOUND (Off:3 Def:7),,,,
+0021200414,647,13,0,6,10:29 PM,0:00,,,,119 - 126,7

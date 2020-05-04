@@ -1,0 +1,422 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000245,0,12,0,1,3:42 PM,12:00,,,,,
+0021000245,1,10,0,1,3:42 PM,12:00,Jump Ball Jordan vs. Jefferson: Tip to Aminu,,,,
+0021000245,2,6,26,1,3:43 PM,11:51,Jordan Offensive Charge Foul (P1.T1),,,,
+0021000245,3,5,5,1,3:43 PM,11:51,Jordan Foul Turnover (P1.T1),,,,
+0021000245,4,6,1,1,3:43 PM,11:45,Bledsoe P.FOUL (P1.T2),,,,
+0021000245,5,2,1,1,3:44 PM,11:36,,,MISS Millsap 18' Jump Shot,,
+0021000245,6,4,0,1,3:44 PM,11:35,Jordan REBOUND (Off:0 Def:1),,,,
+0021000245,7,6,26,1,3:44 PM,11:31,Bledsoe Offensive Charge Foul (P2.T3),,,,
+0021000245,8,5,5,1,3:44 PM,11:31,Bledsoe Foul Turnover (P1.T2),,,,
+0021000245,9,1,5,1,3:44 PM,11:23,,,D. Williams 1' Layup (2 PTS) (Kirilenko 1 AST),2 - 0,-2
+0021000245,10,5,1,1,3:44 PM,11:09,Bledsoe Bad Pass Turnover (P2.T3),,,,
+0021000245,11,1,44,1,3:45 PM,10:49,,,Millsap 1' Reverse Layup (2 PTS) (Jefferson 1 AST),4 - 0,-4
+0021000245,12,1,1,1,3:45 PM,10:35,Aminu 25' 3PT Jump Shot (3 PTS) (Bledsoe 1 AST),,,4 - 3,-1
+0021000245,13,1,49,1,3:45 PM,10:24,,,Kirilenko 2' Driving Dunk (2 PTS) (D. Williams 1 AST),6 - 3,-3
+0021000245,14,1,1,1,3:46 PM,10:07,Gordon 26' 3PT Jump Shot (3 PTS) (Griffin 1 AST),,,6 - 6,TIE
+0021000245,15,2,1,1,3:46 PM,9:49,,,MISS Jefferson 18' Jump Shot,,
+0021000245,16,4,0,1,3:46 PM,9:48,Jordan REBOUND (Off:0 Def:2),,,,
+0021000245,17,1,5,1,3:46 PM,9:40,Griffin 2' Layup (2 PTS) (Gordon 1 AST),,,6 - 8,2
+0021000245,18,5,1,1,3:46 PM,9:19,,,D. Williams Bad Pass Turnover (P1.T1),,
+0021000245,19,2,1,1,3:47 PM,9:08,MISS Gordon 25' 3PT Jump Shot,,,,
+0021000245,20,4,0,1,3:47 PM,9:07,Griffin REBOUND (Off:1 Def:0),,,,
+0021000245,21,6,2,1,3:47 PM,9:06,,,Millsap S.FOUL (P1.T1),,
+0021000245,22,3,11,1,3:47 PM,9:06,MISS Griffin Free Throw 1 of 2,,,,
+0021000245,23,4,1,1,3:47 PM,9:06,CLIPPERS Rebound,,,,
+0021000245,25,3,12,1,3:47 PM,9:06,Griffin Free Throw 2 of 2 (3 PTS),,,6 - 9,3
+0021000245,27,1,5,1,3:48 PM,8:53,,,Kirilenko 3' Layup (4 PTS) (D. Williams 2 AST),8 - 9,1
+0021000245,95,5,41,1,3:48 PM,8:37,Aminu Poss Lost Ball Turnover (P1.T4),,Kirilenko STEAL (1 STL),,
+0021000245,29,1,1,1,3:48 PM,8:21,,,D. Williams 27' 3PT Jump Shot (5 PTS),11 - 9,-2
+0021000245,37,2,47,1,3:48 PM,8:05,MISS Jordan 7' Turnaround Jump Shot,,Jefferson BLOCK (1 BLK),,
+0021000245,42,4,0,1,3:48 PM,8:04,,,Bell REBOUND (Off:0 Def:1),,
+0021000245,31,1,5,1,3:49 PM,7:53,,,Millsap 2' Layup (4 PTS) (Jefferson 2 AST),13 - 9,-4
+0021000245,32,1,47,1,3:49 PM,7:32,Griffin 15' Turnaround Jump Shot (5 PTS),,,13 - 11,-2
+0021000245,33,1,1,1,3:49 PM,7:19,,,Bell 25' 3PT Jump Shot (3 PTS) (D. Williams 3 AST),16 - 11,-5
+0021000245,34,2,1,1,3:50 PM,6:56,MISS Gordon 21' Jump Shot,,,,
+0021000245,36,4,0,1,3:50 PM,6:54,Jordan REBOUND (Off:1 Def:2),,,,
+0021000245,35,1,4,1,3:50 PM,6:54,Jordan 2' Tip Shot (2 PTS),,,16 - 13,-3
+0021000245,38,1,47,1,3:50 PM,6:36,,,Bell 8' Turnaround Jump Shot (5 PTS) (Millsap 1 AST),18 - 13,-5
+0021000245,40,2,1,1,3:50 PM,6:17,MISS Griffin 11' Jump Shot,,,,
+0021000245,41,4,0,1,3:50 PM,6:16,,,Millsap REBOUND (Off:0 Def:1),,
+0021000245,43,2,1,1,3:50 PM,6:06,,,MISS D. Williams 25' 3PT Jump Shot,,
+0021000245,44,4,0,1,3:50 PM,6:05,Jordan REBOUND (Off:1 Def:3),,,,
+0021000245,45,6,1,1,3:51 PM,5:53,,,D. Williams P.FOUL (P1.T2),,
+0021000245,46,9,1,1,3:51 PM,5:53,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,
+0021000245,48,8,0,1,3:54 PM,5:53,SUB: Collins FOR Jordan,,,,
+0021000245,49,8,0,1,3:54 PM,5:53,SUB: Warren FOR Bledsoe,,,,
+0021000245,51,1,5,1,3:54 PM,5:46,Griffin 2' Layup (7 PTS) (Gordon 2 AST),,,18 - 15,-3
+0021000245,52,1,1,1,3:54 PM,5:29,,,Jefferson 15' Jump Shot (2 PTS) (Millsap 2 AST),20 - 15,-5
+0021000245,53,1,1,1,3:55 PM,5:08,Griffin 3' Jump Shot (9 PTS),,,20 - 17,-3
+0021000245,55,2,1,1,3:55 PM,4:45,,,MISS Jefferson 11' Jump Shot,,
+0021000245,56,4,0,1,3:55 PM,4:42,Griffin REBOUND (Off:1 Def:1),,,,
+0021000245,58,5,4,1,3:55 PM,4:39,Aminu Traveling Turnover (P2.T5),,,,
+0021000245,59,2,1,1,3:56 PM,4:22,,,MISS D. Williams 19' Jump Shot,,
+0021000245,60,4,0,1,3:56 PM,4:21,Aminu REBOUND (Off:0 Def:1),,,,
+0021000245,61,6,2,1,3:56 PM,4:15,,,Kirilenko S.FOUL (P1.T3),,
+0021000245,62,3,11,1,3:56 PM,4:15,Griffin Free Throw 1 of 2 (10 PTS),,,20 - 18,-2
+0021000245,64,3,12,1,3:56 PM,4:15,MISS Griffin Free Throw 2 of 2,,,,
+0021000245,66,4,0,1,3:56 PM,4:14,,,Jefferson REBOUND (Off:0 Def:1),,
+0021000245,67,2,1,1,3:57 PM,3:56,,,MISS Kirilenko 27' 3PT Jump Shot,,
+0021000245,68,4,0,1,3:57 PM,3:55,,,Bell REBOUND (Off:1 Def:1),,
+0021000245,69,6,26,1,3:57 PM,3:53,,,D. Williams Offensive Charge Foul (P2.T4),,
+0021000245,70,5,5,1,3:57 PM,3:53,,,D. Williams Foul Turnover (P2.T2),,
+0021000245,72,8,0,1,3:57 PM,3:53,,,SUB: Watson FOR D. Williams,,
+0021000245,73,8,0,1,3:57 PM,3:53,,,SUB: Miles FOR Kirilenko,,
+0021000245,75,1,46,1,3:58 PM,3:39,Gordon 9' Running Jump Shot (5 PTS) (Griffin 2 AST),,,20 - 20,TIE
+0021000245,76,6,2,1,3:58 PM,3:39,,,Bell S.FOUL (P1.PN),,
+0021000245,77,3,10,1,3:58 PM,3:39,Gordon Free Throw 1 of 1 (6 PTS),,,20 - 21,1
+0021000245,79,6,1,1,3:58 PM,3:26,Collins P.FOUL (P1.T4),,,,
+0021000245,81,1,47,1,3:59 PM,3:11,,,Jefferson 18' Turnaround Jump Shot (4 PTS) (Miles 1 AST),22 - 21,-1
+0021000245,82,1,1,1,3:59 PM,2:51,Griffin 20' Jump Shot (12 PTS) (Gordon 3 AST),,,22 - 23,1
+0021000245,84,2,1,1,4:00 PM,2:29,,,MISS Bell 27' 3PT Jump Shot,,
+0021000245,86,4,0,1,4:00 PM,2:28,,,Miles REBOUND (Off:1 Def:0),,
+0021000245,85,1,87,1,4:00 PM,2:28,,,Miles 2' Putback Dunk (2 PTS),24 - 23,-1
+0021000245,87,1,1,1,4:00 PM,2:03,Gordon 26' 3PT Jump Shot (9 PTS) (Griffin 3 AST),,,24 - 26,2
+0021000245,88,1,1,1,4:00 PM,1:48,,,Millsap 19' Jump Shot (6 PTS) (Watson 1 AST),26 - 26,TIE
+0021000245,89,1,1,1,4:01 PM,1:22,Aminu  3PT Jump Shot (6 PTS) (Gordon 4 AST),,,26 - 29,3
+0021000245,90,1,84,1,4:01 PM,1:02,,,Millsap 5' Running Bank Shot (8 PTS),28 - 29,1
+0021000245,91,1,1,1,4:01 PM,0:45,Warren 26' 3PT Jump Shot (3 PTS) (Gordon 5 AST),,,28 - 32,4
+0021000245,92,9,1,1,4:01 PM,0:41,,,Jazz Timeout: Regular (Reg.1 Short 0),,
+0021000245,93,6,11,1,4:02 PM,0:41,,,Bell T.FOUL (P1.PN),,
+0021000245,96,8,0,1,4:04 PM,0:41,,,SUB: Fesenko FOR Jefferson,,
+0021000245,97,8,0,1,4:05 PM,0:41,SUB: Butler FOR Aminu,,,,
+0021000245,98,3,16,1,4:05 PM,0:41,MISS Gordon Free Throw Technical,,,,
+0021000245,99,4,1,1,4:05 PM,0:41,,,Jazz Rebound,,
+0021000245,101,8,0,1,4:05 PM,0:41,SUB: Gomes FOR Gordon,,,,
+0021000245,103,2,1,1,4:05 PM,0:29,,,MISS Watson 19' Jump Shot,,
+0021000245,104,4,0,1,4:05 PM,0:27,Gomes REBOUND (Off:0 Def:1),,,,
+0021000245,105,2,66,1,4:06 PM,0:06,MISS Griffin 12' Jump Bank Shot,,,,
+0021000245,106,4,0,1,4:06 PM,0:04,,,Watson REBOUND (Off:0 Def:1),,
+0021000245,107,1,73,1,4:06 PM,0:01,,,Millsap 1' Driving Reverse Layup (10 PTS) (Watson 2 AST),30 - 32,2
+0021000245,108,13,0,1,4:06 PM,0:00,,,,30 - 32,2
+0021000245,110,12,0,2,4:09 PM,12:00,,,,30 - 32,2
+0021000245,111,1,3,2,4:09 PM,11:38,,,Fesenko 7' Hook Shot (2 PTS) (Price 1 AST),32 - 32,TIE
+0021000245,112,2,1,2,4:10 PM,11:17,MISS Butler 24' 3PT Jump Shot,,,,
+0021000245,113,4,0,2,4:10 PM,11:16,,,Price REBOUND (Off:0 Def:1),,
+0021000245,114,6,2,2,4:10 PM,11:12,Warren S.FOUL (P1.T1),,,,
+0021000245,115,3,11,2,4:10 PM,11:12,,,Price Free Throw 1 of 2 (1 PTS),33 - 32,-1
+0021000245,117,3,12,2,4:10 PM,11:12,,,MISS Price Free Throw 2 of 2,,
+0021000245,119,4,0,2,4:10 PM,11:11,Gomes REBOUND (Off:0 Def:2),,,,
+0021000245,120,6,1,2,4:10 PM,11:10,,,Price P.FOUL (P1.T1),,
+0021000245,121,6,2,2,4:11 PM,11:00,,,Fesenko S.FOUL (P1.T2),,
+0021000245,122,3,11,2,4:11 PM,11:00,Warren Free Throw 1 of 2 (4 PTS),,,33 - 33,TIE
+0021000245,124,3,12,2,4:11 PM,11:00,Warren Free Throw 2 of 2 (5 PTS),,,33 - 34,1
+0021000245,126,1,7,2,4:12 PM,10:42,,,Fesenko 3' Dunk (4 PTS) (Elson 1 AST),35 - 34,-1
+0021000245,127,5,1,2,4:12 PM,10:26,Warren Bad Pass Turnover (P1.T6),,Elson STEAL (1 STL),,
+0021000245,128,2,1,2,4:12 PM,10:22,,,MISS Watson 16' Jump Shot,,
+0021000245,129,4,0,2,4:12 PM,10:19,Gomes REBOUND (Off:0 Def:3),,,,
+0021000245,130,5,1,2,4:13 PM,10:02,Collins Bad Pass Turnover (P1.T7),,Miles STEAL (1 STL),,
+0021000245,131,6,26,2,4:13 PM,9:59,,,Miles Offensive Charge Foul (P1.T3),,
+0021000245,132,5,5,2,4:13 PM,9:59,,,Miles Foul Turnover (P1.T3),,
+0021000245,133,8,0,2,4:13 PM,9:59,SUB: Bledsoe FOR Warren,,,,
+0021000245,134,8,0,2,4:13 PM,9:59,SUB: Smith FOR Griffin,,,,
+0021000245,135,1,1,2,4:13 PM,9:46,Gomes 20' Jump Shot (2 PTS) (Smith 1 AST),,,35 - 36,1
+0021000245,136,7,5,2,4:14 PM,9:25,Smith Violation:Kicked Ball,,,,
+0021000245,137,1,1,2,4:14 PM,9:13,,,Watson 26' 3PT Jump Shot (3 PTS) (Miles 2 AST),38 - 36,-2
+0021000245,138,1,1,2,4:15 PM,8:55,Smith 3' Jump Shot (2 PTS) (Bledsoe 2 AST),,,38 - 38,TIE
+0021000245,139,1,5,2,4:15 PM,8:30,,,Miles 3' Layup (4 PTS),40 - 38,-2
+0021000245,140,1,42,2,4:15 PM,8:10,Smith 1' Driving Layup (4 PTS) (Gomes 1 AST),,,40 - 40,TIE
+0021000245,141,2,1,2,4:16 PM,7:50,,,MISS Miles 21' Jump Shot,,
+0021000245,142,4,0,2,4:16 PM,7:48,Collins REBOUND (Off:0 Def:1),,,,
+0021000245,143,2,1,2,4:16 PM,7:39,MISS Bledsoe 19' Jump Shot,,,,
+0021000245,144,4,0,2,4:16 PM,7:39,,,Elson REBOUND (Off:0 Def:1),,
+0021000245,146,5,7,2,4:16 PM,7:33,,,Watson Discontinue Dribble Turnover (P1.T4),,
+0021000245,147,9,4,2,4:16 PM,7:33,,,,,
+0021000245,148,6,11,2,4:16 PM,7:33,,,Watson T.FOUL (P0.T3),,
+0021000245,150,8,0,2,4:18 PM,7:33,,,SUB: Jefferson FOR Watson,,
+0021000245,151,8,0,2,4:18 PM,7:33,,,SUB: D. Williams FOR Fesenko,,
+0021000245,153,8,0,2,4:19 PM,7:33,SUB: Cook FOR Collins,,,,
+0021000245,155,3,16,2,4:19 PM,7:33,MISS Butler Free Throw Technical,,,,
+0021000245,156,4,1,2,4:19 PM,7:33,CLIPPERS Rebound,,,,
+0021000245,157,2,1,2,4:19 PM,7:14,MISS Smith 18' Jump Shot,,,,
+0021000245,159,4,0,2,4:19 PM,7:12,Butler REBOUND (Off:1 Def:0),,,,
+0021000245,158,2,4,2,4:19 PM,7:12,MISS Butler 2' Tip Shot,,,,
+0021000245,160,4,0,2,4:20 PM,7:08,,,Miles REBOUND (Off:1 Def:1),,
+0021000245,162,8,0,2,4:20 PM,7:01,SUB: Gordon FOR Butler,,,,
+0021000245,163,10,0,2,4:20 PM,7:01,Jump Ball Bledsoe vs. Jefferson: Tip to Price,,,,
+0021000245,165,5,2,2,4:20 PM,6:51,Gordon STEAL (1 STL),,D. Williams Lost Ball Turnover (P3.T5),,
+0021000245,166,1,49,2,4:20 PM,6:46,Gordon 2' Driving Dunk (11 PTS) (Cook 1 AST),,,40 - 42,2
+0021000245,167,1,5,2,4:21 PM,6:29,,,D. Williams 3' Layup (7 PTS) (Elson 2 AST),42 - 42,TIE
+0021000245,168,2,78,2,4:21 PM,6:15,MISS Smith 4' Floating Jump Shot,,,,
+0021000245,169,4,0,2,4:21 PM,6:13,,,Jefferson REBOUND (Off:0 Def:2),,
+0021000245,170,2,1,2,4:21 PM,5:51,,,MISS Price 26' 3PT Jump Shot,,
+0021000245,171,4,0,2,4:21 PM,5:50,Smith REBOUND (Off:0 Def:1),,,,
+0021000245,172,6,1,2,4:22 PM,5:32,,,Price P.FOUL (P2.T4),,
+0021000245,173,6,11,2,4:22 PM,5:32,,,Price T.FOUL (P2.T4),,
+0021000245,174,9,1,2,4:22 PM,5:32,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,
+0021000245,176,8,0,2,4:24 PM,5:32,,,SUB: Kirilenko FOR Miles,,
+0021000245,177,8,0,2,4:24 PM,5:32,,,SUB: Bell FOR Price,,
+0021000245,178,8,0,2,4:24 PM,5:32,,,SUB: Millsap FOR Elson,,
+0021000245,179,3,16,2,4:25 PM,5:32,Gordon Free Throw Technical (12 PTS),,,42 - 43,1
+0021000245,181,2,1,2,4:25 PM,5:20,MISS Cook 20' Jump Shot,,,,
+0021000245,182,4,0,2,4:25 PM,5:19,,,D. Williams REBOUND (Off:0 Def:1),,
+0021000245,183,6,2,2,4:25 PM,5:03,Cook S.FOUL (P1.T2),,,,
+0021000245,184,3,11,2,4:26 PM,5:03,,,Jefferson Free Throw 1 of 2 (5 PTS),43 - 43,TIE
+0021000245,186,8,0,2,4:26 PM,5:03,SUB: Griffin FOR Smith,,,,
+0021000245,187,3,12,2,4:26 PM,5:03,,,Jefferson Free Throw 2 of 2 (6 PTS),44 - 43,-1
+0021000245,190,2,1,2,4:26 PM,4:49,MISS Griffin 9' Jump Shot,,Jefferson BLOCK (2 BLK),,
+0021000245,191,4,0,2,4:26 PM,4:49,CLIPPERS Rebound,,,,
+0021000245,192,2,1,2,4:27 PM,4:40,MISS Gordon 10' Jump Shot,,,,
+0021000245,193,4,0,2,4:27 PM,4:39,Gomes REBOUND (Off:1 Def:3),,,,
+0021000245,194,2,5,2,4:27 PM,4:39,MISS Gomes 3' Layup,,D. Williams BLOCK (1 BLK),,
+0021000245,195,4,0,2,4:27 PM,4:39,,,Jazz Rebound,,
+0021000245,196,1,1,2,4:27 PM,4:33,,,D. Williams 18' Jump Shot (9 PTS),46 - 43,-3
+0021000245,197,2,65,2,4:28 PM,4:18,MISS Griffin 5' Jump Hook Shot,,,,
+0021000245,199,4,0,2,4:28 PM,4:16,Griffin REBOUND (Off:2 Def:1),,,,
+0021000245,198,1,44,2,4:28 PM,4:16,Griffin 1' Reverse Layup (14 PTS),,,46 - 45,-1
+0021000245,200,6,2,2,4:28 PM,4:05,Cook S.FOUL (P2.T3),,,,
+0021000245,201,3,11,2,4:28 PM,4:05,,,D. Williams Free Throw 1 of 2 (10 PTS),47 - 45,-2
+0021000245,204,3,12,2,4:28 PM,4:05,,,D. Williams Free Throw 2 of 2 (11 PTS),48 - 45,-3
+0021000245,206,1,46,2,4:29 PM,3:51,Griffin 9' Running Jump Shot (16 PTS) (Gordon 6 AST),,,48 - 47,-1
+0021000245,207,2,1,2,4:29 PM,3:27,,,MISS Jefferson 3' Jump Shot,,
+0021000245,208,4,0,2,4:29 PM,3:26,Cook REBOUND (Off:0 Def:1),,,,
+0021000245,209,1,84,2,4:30 PM,3:12,Griffin 6' Running Bank Shot (18 PTS) (Bledsoe 3 AST),,,48 - 49,1
+0021000245,210,6,2,2,4:30 PM,3:12,,,Millsap S.FOUL (P2.PN),,
+0021000245,211,3,10,2,4:30 PM,3:12,Griffin Free Throw 1 of 1 (19 PTS),,,48 - 50,2
+0021000245,214,2,1,2,4:30 PM,2:56,Cook BLOCK (1 BLK),,MISS Millsap 3' Jump Shot,,
+0021000245,215,4,0,2,4:30 PM,2:55,Griffin REBOUND (Off:2 Def:2),,,,
+0021000245,216,1,3,2,4:31 PM,2:45,Griffin 7' Hook Shot (21 PTS) (Bledsoe 4 AST),,,48 - 52,4
+0021000245,217,6,2,2,4:31 PM,2:45,,,Jefferson S.FOUL (P1.PN),,
+0021000245,218,9,1,2,4:31 PM,2:45,,,Jazz Timeout: Regular (Reg.2 Short 0),,
+0021000245,221,3,10,2,4:33 PM,2:45,MISS Griffin Free Throw 1 of 1,,,,
+0021000245,223,4,0,2,4:34 PM,2:44,,,Jefferson REBOUND (Off:0 Def:3),,
+0021000245,224,2,1,2,4:34 PM,2:23,,,MISS Millsap 3' Jump Shot,,
+0021000245,225,10,0,2,4:34 PM,2:23,Jump Ball Griffin vs. Millsap: Tip to Kirilenko,,,,
+0021000245,226,4,0,2,4:34 PM,2:23,,,Jazz Rebound,,
+0021000245,227,2,44,2,4:35 PM,2:17,Cook BLOCK (2 BLK),,MISS Kirilenko 2' Reverse Layup,,
+0021000245,228,4,0,2,4:35 PM,2:15,,,Jefferson REBOUND (Off:1 Def:3),,
+0021000245,229,2,3,2,4:35 PM,2:13,,,MISS Jefferson 4' Hook Shot,,
+0021000245,230,4,0,2,4:35 PM,2:10,Griffin REBOUND (Off:2 Def:3),,,,
+0021000245,231,1,5,2,4:35 PM,1:57,Gomes 2' Layup (4 PTS) (Griffin 4 AST),,,48 - 54,6
+0021000245,232,2,3,2,4:35 PM,1:41,,,MISS Jefferson 5' Hook Shot,,
+0021000245,233,4,0,2,4:35 PM,1:38,Gomes REBOUND (Off:1 Def:4),,,,
+0021000245,234,2,1,2,4:35 PM,1:24,MISS Cook 25' 3PT Jump Shot,,,,
+0021000245,235,4,0,2,4:36 PM,1:22,Bledsoe REBOUND (Off:1 Def:0),,,,
+0021000245,236,1,5,2,4:36 PM,1:05,Bledsoe 2' Layup (2 PTS) (Griffin 5 AST),,,48 - 56,8
+0021000245,237,1,1,2,4:36 PM,0:42,,,Bell 18' Jump Shot (7 PTS) (D. Williams 4 AST),50 - 56,6
+0021000245,238,6,1,2,4:36 PM,0:37,,,D. Williams P.FOUL (P3.PN),,
+0021000245,239,8,0,2,4:37 PM,0:37,,,SUB: Watson FOR D. Williams,,
+0021000245,240,3,11,2,4:37 PM,0:37,Bledsoe Free Throw 1 of 2 (3 PTS),,,50 - 57,7
+0021000245,242,8,0,2,4:37 PM,0:37,,,SUB: Elson FOR Millsap,,
+0021000245,243,3,12,2,4:37 PM,0:37,Bledsoe Free Throw 2 of 2 (4 PTS),,,50 - 58,8
+0021000245,245,1,1,2,4:37 PM,0:15,,,Elson 20' Jump Shot (2 PTS) (Watson 3 AST),52 - 58,6
+0021000245,246,1,71,2,4:38 PM,0:00,Bledsoe 2' Finger Roll Layup (6 PTS),,,52 - 60,8
+0021000245,247,13,0,2,4:38 PM,0:00,,,,52 - 60,8
+0021000245,249,12,0,3,4:54 PM,12:00,,,,52 - 60,8
+0021000245,250,6,1,3,4:55 PM,11:45,Aminu P.FOUL (P1.T1),,,,
+0021000245,251,2,1,3,4:55 PM,11:31,,,MISS Bell 27' 3PT Jump Shot,,
+0021000245,252,4,0,3,4:55 PM,11:30,Jordan REBOUND (Off:1 Def:4),,,,
+0021000245,253,1,66,3,4:56 PM,11:11,Griffin 13' Jump Bank Shot (23 PTS) (Gordon 7 AST),,,52 - 62,10
+0021000245,254,6,1,3,4:56 PM,10:58,Aminu P.FOUL (P2.T2),,,,
+0021000245,255,2,1,3,4:56 PM,10:55,Jordan BLOCK (1 BLK),,MISS Millsap 4' Jump Shot,,
+0021000245,256,4,0,3,4:56 PM,10:53,Griffin REBOUND (Off:2 Def:4),,,,
+0021000245,257,2,5,3,4:56 PM,10:48,MISS Aminu 2' Layup,,,,
+0021000245,258,4,0,3,4:56 PM,10:48,Aminu REBOUND (Off:1 Def:1),,,,
+0021000245,259,2,5,3,4:56 PM,10:48,MISS Aminu  Layup,,Jefferson BLOCK (3 BLK),,
+0021000245,260,4,0,3,4:56 PM,10:48,,,Jazz Rebound,,
+0021000245,261,5,1,3,4:57 PM,10:29,Bledsoe STEAL (1 STL),,Millsap Bad Pass Turnover (P1.T6),,
+0021000245,262,7,5,3,4:57 PM,10:18,,,Bell Violation:Kicked Ball,,
+0021000245,263,2,1,3,4:57 PM,10:12,MISS Griffin 20' Jump Shot,,,,
+0021000245,264,4,0,3,4:57 PM,10:11,Bledsoe REBOUND (Off:2 Def:0),,,,
+0021000245,265,2,1,3,4:58 PM,9:49,MISS Aminu 21' Jump Shot,,,,
+0021000245,266,4,0,3,4:58 PM,9:48,,,D. Williams REBOUND (Off:0 Def:2),,
+0021000245,267,2,1,3,4:58 PM,9:42,,,MISS D. Williams 25' 3PT Jump Shot,,
+0021000245,268,4,0,3,4:58 PM,9:41,Jordan REBOUND (Off:1 Def:5),,,,
+0021000245,269,2,1,3,4:58 PM,9:26,MISS Jordan 3' Jump Shot,,Kirilenko BLOCK (1 BLK),,
+0021000245,270,4,0,3,4:58 PM,9:24,,,D. Williams REBOUND (Off:0 Def:3),,
+0021000245,271,1,1,3,4:58 PM,9:19,,,Kirilenko 25' 3PT Jump Shot (7 PTS) (D. Williams 5 AST),55 - 62,7
+0021000245,272,6,1,3,4:58 PM,9:02,,,Bell P.FOUL (P2.T1),,
+0021000245,273,5,8,3,4:59 PM,8:55,Jordan 3 Second Violation Turnover (P2.T8),,,,
+0021000245,274,1,1,3,4:59 PM,8:42,,,Bell 22' Jump Shot (9 PTS) (D. Williams 6 AST),57 - 62,5
+0021000245,275,2,1,3,5:00 PM,8:25,MISS Aminu 18' Jump Shot,,Kirilenko BLOCK (2 BLK),,
+0021000245,276,4,0,3,5:00 PM,8:23,,,Kirilenko REBOUND (Off:0 Def:1),,
+0021000245,277,1,1,3,5:00 PM,8:15,,,D. Williams 25' 3PT Jump Shot (14 PTS) (Kirilenko 2 AST),60 - 62,2
+0021000245,278,9,1,3,5:00 PM,8:06,CLIPPERS Timeout: Regular (Full 3 Short 0),,,,
+0021000245,280,5,1,3,5:03 PM,7:59,Gordon Bad Pass Turnover (P1.T9),,Jefferson STEAL (1 STL),,
+0021000245,282,2,1,3,5:03 PM,7:49,,,MISS Jefferson 14' Jump Shot,,
+0021000245,283,4,0,3,5:03 PM,7:48,,,Millsap REBOUND (Off:1 Def:1),,
+0021000245,284,1,42,3,5:03 PM,7:39,,,Millsap 2' Driving Layup (12 PTS) (Bell 1 AST),62 - 62,TIE
+0021000245,285,5,4,3,5:03 PM,7:21,Griffin Traveling Turnover (P1.T10),,,,
+0021000245,286,1,1,3,5:04 PM,7:04,,,Bell 27' 3PT Jump Shot (12 PTS) (D. Williams 7 AST),65 - 62,-3
+0021000245,287,6,26,3,5:04 PM,6:40,Aminu Offensive Charge Foul (P3.T3),,,,
+0021000245,288,5,5,3,5:04 PM,6:40,Aminu Foul Turnover (P3.T11),,,,
+0021000245,289,8,0,3,5:05 PM,6:40,SUB: Gomes FOR Aminu,,,,
+0021000245,290,2,1,3,5:05 PM,6:19,,,MISS D. Williams 26' 3PT Jump Shot,,
+0021000245,291,4,0,3,5:05 PM,6:18,Jordan REBOUND (Off:1 Def:6),,,,
+0021000245,292,6,1,3,5:05 PM,6:15,,,Millsap P.FOUL (P3.T2),,
+0021000245,293,1,42,3,5:06 PM,6:06,Bledsoe 1' Driving Layup (8 PTS) (Gordon 8 AST),,,65 - 64,-1
+0021000245,294,5,2,3,5:06 PM,5:48,Gomes STEAL (1 STL),,Jefferson Lost Ball Turnover (P1.T7),,
+0021000245,295,2,5,3,5:06 PM,5:43,MISS Bledsoe 3' Layup,,,,
+0021000245,297,4,0,3,5:06 PM,5:39,Griffin REBOUND (Off:3 Def:4),,,,
+0021000245,296,1,4,3,5:06 PM,5:39,Griffin 1' Tip Shot (25 PTS),,,65 - 66,1
+0021000245,298,1,7,3,5:06 PM,5:25,,,Millsap 2' Dunk (14 PTS) (Jefferson 3 AST),67 - 66,-1
+0021000245,300,2,1,3,5:07 PM,5:06,MISS Gomes  3PT Jump Shot,,,,
+0021000245,301,4,0,3,5:07 PM,5:06,CLIPPERS Rebound,,,,
+0021000245,302,6,3,3,5:07 PM,5:06,,,Jefferson L.B.FOUL (P2.T3),,
+0021000245,303,8,0,3,5:07 PM,5:06,SUB: Collins FOR Jordan,,,,
+0021000245,304,2,1,3,5:07 PM,4:57,MISS Gordon 25' 3PT Jump Shot,,,,
+0021000245,305,4,0,3,5:07 PM,4:56,,,Kirilenko REBOUND (Off:0 Def:2),,
+0021000245,306,6,2,3,5:07 PM,4:52,Collins S.FOUL (P2.T4),,,,
+0021000245,307,3,11,3,5:08 PM,4:52,,,Millsap Free Throw 1 of 2 (15 PTS),68 - 66,-2
+0021000245,309,3,12,3,5:08 PM,4:52,,,MISS Millsap Free Throw 2 of 2,,
+0021000245,311,4,0,3,5:08 PM,4:50,Griffin REBOUND (Off:3 Def:5),,,,
+0021000245,312,10,0,3,5:08 PM,4:36,Jump Ball Griffin vs. Millsap: Tip to D. Williams,,,,
+0021000245,313,5,2,3,5:08 PM,4:36,Griffin Lost Ball Turnover (P2.T12),,Millsap STEAL (1 STL),,
+0021000245,314,5,41,3,5:09 PM,4:31,,,D. Williams Poss Lost Ball Turnover (P4.T8),,
+0021000245,316,2,1,3,5:09 PM,4:12,MISS Gordon 26' 3PT Jump Shot,,,,
+0021000245,317,4,0,3,5:09 PM,4:10,,,D. Williams REBOUND (Off:0 Def:4),,
+0021000245,318,6,2,3,5:10 PM,3:59,Collins S.FOUL (P3.PN),,,,
+0021000245,320,3,11,3,5:10 PM,3:59,,,MISS Jefferson Free Throw 1 of 2,,
+0021000245,322,4,1,3,5:10 PM,3:59,,,Jazz Rebound,,
+0021000245,323,3,12,3,5:10 PM,3:59,,,MISS Jefferson Free Throw 2 of 2,,
+0021000245,325,4,0,3,5:10 PM,3:58,Griffin REBOUND (Off:3 Def:6),,,,
+0021000245,326,1,71,3,5:10 PM,3:44,Bledsoe 3' Finger Roll Layup (10 PTS),,,68 - 68,TIE
+0021000245,327,1,42,3,5:11 PM,3:36,,,D. Williams 2' Driving Layup (16 PTS),70 - 68,-2
+0021000245,328,6,2,3,5:11 PM,3:36,Collins S.FOUL (P4.PN),,,,
+0021000245,329,8,0,3,5:11 PM,3:36,,,SUB: Miles FOR Kirilenko,,
+0021000245,330,8,0,3,5:11 PM,3:36,SUB: Warren FOR Bledsoe,,,,
+0021000245,331,3,10,3,5:11 PM,3:36,,,D. Williams Free Throw 1 of 1 (17 PTS),71 - 68,-3
+0021000245,333,5,2,3,5:12 PM,3:20,Griffin Lost Ball Turnover (P3.T13),,D. Williams STEAL (1 STL),,
+0021000245,334,6,1,3,5:12 PM,3:20,Griffin P.FOUL (P1.PN),,,,
+0021000245,335,3,11,3,5:12 PM,3:20,,,D. Williams Free Throw 1 of 2 (18 PTS),72 - 68,-4
+0021000245,337,3,12,3,5:12 PM,3:20,,,D. Williams Free Throw 2 of 2 (19 PTS),73 - 68,-5
+0021000245,339,5,1,3,5:13 PM,3:03,Gordon Bad Pass Turnover (P2.T14),,,,
+0021000245,340,1,3,3,5:13 PM,2:52,,,Jefferson 7' Hook Shot (8 PTS),75 - 68,-7
+0021000245,341,2,44,3,5:13 PM,2:33,MISS Gordon 1' Reverse Layup,,,,
+0021000245,343,4,0,3,5:13 PM,2:32,Griffin REBOUND (Off:4 Def:6),,,,
+0021000245,342,1,7,3,5:13 PM,2:32,Griffin 1' Dunk (27 PTS),,,75 - 70,-5
+0021000245,344,1,1,3,5:14 PM,2:14,,,Jefferson 17' Jump Shot (10 PTS) (D. Williams 8 AST),77 - 70,-7
+0021000245,345,6,2,3,5:14 PM,1:51,,,Jefferson S.FOUL (P3.T4),,
+0021000245,346,9,1,3,5:14 PM,1:51,,,Jazz Timeout: Regular (Reg.3 Short 0),,
+0021000245,348,8,0,3,5:17 PM,1:51,SUB: Cook FOR Gordon,,,,
+0021000245,349,8,0,3,5:17 PM,1:51,SUB: Butler FOR Collins,,,,
+0021000245,350,8,0,3,5:17 PM,1:51,,,SUB: Elson FOR Jefferson,,
+0021000245,351,3,11,3,5:17 PM,1:51,Griffin Free Throw 1 of 2 (28 PTS),,,77 - 71,-6
+0021000245,353,3,12,3,5:17 PM,1:51,Griffin Free Throw 2 of 2 (29 PTS),,,77 - 72,-5
+0021000245,355,2,1,3,5:18 PM,1:43,,,MISS D. Williams 25' 3PT Jump Shot,,
+0021000245,356,4,0,3,5:18 PM,1:41,Griffin REBOUND (Off:4 Def:7),,,,
+0021000245,357,2,1,3,5:18 PM,1:31,MISS Gomes 18' Jump Shot,,,,
+0021000245,358,4,0,3,5:18 PM,1:30,,,Bell REBOUND (Off:1 Def:2),,
+0021000245,359,6,1,3,5:18 PM,1:16,Warren P.FOUL (P2.PN),,,,
+0021000245,360,3,11,3,5:18 PM,1:16,,,D. Williams Free Throw 1 of 2 (20 PTS),78 - 72,-6
+0021000245,362,8,0,3,5:19 PM,1:16,,,SUB: Kirilenko FOR Millsap,,
+0021000245,363,3,12,3,5:19 PM,1:16,,,D. Williams Free Throw 2 of 2 (21 PTS),79 - 72,-7
+0021000245,365,2,1,3,5:19 PM,0:55,MISS Cook 27' 3PT Jump Shot,,,,
+0021000245,366,4,0,3,5:19 PM,0:54,Griffin REBOUND (Off:5 Def:7),,,,
+0021000245,368,6,2,3,5:20 PM,0:38,,,Miles S.FOUL (P2.PN),,
+0021000245,369,3,11,3,5:20 PM,0:38,Griffin Free Throw 1 of 2 (30 PTS),,,79 - 73,-6
+0021000245,371,8,0,3,5:20 PM,0:38,,,SUB: Watson FOR D. Williams,,
+0021000245,372,3,12,3,5:21 PM,0:38,Griffin Free Throw 2 of 2 (31 PTS),,,79 - 74,-5
+0021000245,374,2,1,3,5:21 PM,0:29,,,MISS Kirilenko 24' 3PT Jump Shot,,
+0021000245,375,4,0,3,5:21 PM,0:27,Griffin REBOUND (Off:5 Def:8),,,,
+0021000245,376,2,1,3,5:21 PM,0:04,MISS Warren 28' 3PT Jump Shot,,,,
+0021000245,377,4,0,3,5:21 PM,0:02,Gomes REBOUND (Off:2 Def:4),,,,
+0021000245,378,5,11,3,5:21 PM,0:02,CLIPPERS Turnover: Shot Clock (T#15),,,,
+0021000245,379,2,1,3,5:22 PM,0:00,,,MISS Watson 44' 3PT Jump Shot,,
+0021000245,380,4,0,3,5:22 PM,0:00,,,Jazz Rebound,,
+0021000245,381,13,0,3,5:22 PM,0:00,,,,79 - 74,-5
+0021000245,383,12,0,4,5:25 PM,12:00,,,,79 - 74,-5
+0021000245,384,2,1,4,5:25 PM,11:44,MISS Cook 7' Jump Shot,,,,
+0021000245,385,4,0,4,5:25 PM,11:43,,,Elson REBOUND (Off:0 Def:2),,
+0021000245,386,6,3,4,5:25 PM,11:43,Cook L.B.FOUL (P3.T1),,,,
+0021000245,387,6,11,4,5:25 PM,11:43,Smith T.FOUL (P0.T1),,,,
+0021000245,388,3,16,4,5:26 PM,11:43,,,Miles Free Throw Technical (5 PTS),80 - 74,-6
+0021000245,390,6,1,4,5:26 PM,11:30,Smith P.FOUL (P1.T2),,,,
+0021000245,391,1,1,4,5:27 PM,11:21,,,Miles 16' Jump Shot (7 PTS) (Watson 4 AST),82 - 74,-8
+0021000245,392,2,1,4,5:27 PM,11:03,MISS Cook 26' 3PT Jump Shot,,,,
+0021000245,393,4,0,4,5:27 PM,11:01,Butler REBOUND (Off:2 Def:0),,,,
+0021000245,394,6,2,4,5:27 PM,10:55,,,Elson S.FOUL (P1.T1),,
+0021000245,395,3,11,4,5:27 PM,10:55,Smith Free Throw 1 of 2 (5 PTS),,,82 - 75,-7
+0021000245,397,3,12,4,5:27 PM,10:55,Smith Free Throw 2 of 2 (6 PTS),,,82 - 76,-6
+0021000245,400,5,11,4,5:29 PM,10:30,,,Jazz Turnover: Shot Clock (T#9),,
+0021000245,401,6,1,4,5:29 PM,10:19,,,Price P.FOUL (P3.T2),,
+0021000245,402,5,1,4,5:30 PM,10:08,Smith Bad Pass Turnover (P1.T16),,,,
+0021000245,403,5,1,4,5:30 PM,9:48,Gordon STEAL (2 STL),,Price Bad Pass Turnover (P1.T10),,
+0021000245,404,6,1,4,5:30 PM,9:41,,,Price P.FOUL (P4.T3),,
+0021000245,405,8,0,4,5:30 PM,9:41,SUB: Bledsoe FOR Butler,,,,
+0021000245,406,8,0,4,5:30 PM,9:41,,,SUB: D. Williams FOR Price,,
+0021000245,408,2,1,4,5:31 PM,9:26,MISS Cook 12' Jump Shot,,,,
+0021000245,409,4,0,4,5:31 PM,9:25,,,Miles REBOUND (Off:1 Def:2),,
+0021000245,411,6,2,4,5:31 PM,9:06,Cook S.FOUL (P4.T3),,,,
+0021000245,412,3,11,4,5:32 PM,9:06,,,Miles Free Throw 1 of 2 (8 PTS),83 - 76,-7
+0021000245,415,8,0,4,5:32 PM,9:06,SUB: Aminu FOR Cook,,,,
+0021000245,416,3,12,4,5:32 PM,9:06,,,Miles Free Throw 2 of 2 (9 PTS),84 - 76,-8
+0021000245,418,2,5,4,5:33 PM,8:49,MISS Smith 1' Layup,,Miles BLOCK (1 BLK),,
+0021000245,419,4,0,4,5:33 PM,8:47,,,Kirilenko REBOUND (Off:0 Def:3),,
+0021000245,420,1,5,4,5:33 PM,8:41,,,Elson 2' Layup (4 PTS) (Kirilenko 3 AST),86 - 76,-10
+0021000245,421,9,1,4,5:33 PM,8:34,CLIPPERS Timeout: Regular (Full 4 Short 0),,,,
+0021000245,423,8,0,4,5:35 PM,8:34,SUB: Griffin FOR Smith,,,,
+0021000245,425,6,2,4,5:36 PM,8:24,,,Watson S.FOUL (P1.T4),,
+0021000245,426,3,11,4,5:36 PM,8:24,Gordon Free Throw 1 of 2 (13 PTS),,,86 - 77,-9
+0021000245,428,3,12,4,5:36 PM,8:24,Gordon Free Throw 2 of 2 (14 PTS),,,86 - 78,-8
+0021000245,430,1,1,4,5:37 PM,8:01,,,Miles 25' 3PT Jump Shot (12 PTS) (D. Williams 9 AST),89 - 78,-11
+0021000245,431,5,2,4,5:37 PM,7:44,Griffin Lost Ball Turnover (P4.T17),,Elson STEAL (2 STL),,
+0021000245,432,1,5,4,5:37 PM,7:40,,,Elson 1' Layup (6 PTS) (Watson 5 AST),91 - 78,-13
+0021000245,433,6,2,4,5:37 PM,7:40,Griffin S.FOUL (P2.T4),,,,
+0021000245,434,3,10,4,5:37 PM,7:40,,,Elson Free Throw 1 of 1 (7 PTS),92 - 78,-14
+0021000245,436,2,5,4,5:38 PM,7:26,MISS Griffin 3' Layup,,Kirilenko BLOCK (3 BLK),,
+0021000245,437,4,0,4,5:38 PM,7:24,,,Kirilenko REBOUND (Off:0 Def:4),,
+0021000245,438,2,66,4,5:38 PM,7:01,,,MISS Kirilenko 11' Jump Bank Shot,,
+0021000245,439,4,0,4,5:38 PM,6:59,Griffin REBOUND (Off:5 Def:9),,,,
+0021000245,440,2,1,4,5:38 PM,6:53,MISS Gordon 24' 3PT Jump Shot,,,,
+0021000245,441,4,0,4,5:39 PM,6:52,Bledsoe REBOUND (Off:3 Def:0),,,,
+0021000245,443,6,2,4,5:39 PM,6:38,,,Kirilenko S.FOUL (P2.PN),,
+0021000245,444,3,11,4,5:39 PM,6:38,Gordon Free Throw 1 of 2 (15 PTS),,,92 - 79,-13
+0021000245,446,3,12,4,5:39 PM,6:38,Gordon Free Throw 2 of 2 (16 PTS),,,92 - 80,-12
+0021000245,448,1,66,4,5:40 PM,6:23,,,D. Williams 5' Jump Bank Shot (23 PTS) (Watson 6 AST),94 - 80,-14
+0021000245,449,10,0,4,5:40 PM,6:13,Jump Ball Gordon vs. Elson: Tip to Aminu,,,,
+0021000245,450,5,2,4,5:41 PM,6:06,Aminu Lost Ball Turnover (P4.T18),,Miles STEAL (2 STL),,
+0021000245,451,5,40,4,5:41 PM,5:59,,,Miles Out of Bounds Lost Ball Turnover (P2.T11),,
+0021000245,452,9,4,4,5:41 PM,5:59,,,,,
+0021000245,455,1,5,4,5:44 PM,5:49,Griffin 1' Layup (33 PTS),,,94 - 82,-12
+0021000245,456,1,5,4,5:44 PM,5:27,,,Miles 2' Layup (14 PTS) (Watson 7 AST),96 - 82,-14
+0021000245,457,2,1,4,5:44 PM,5:13,MISS Griffin 19' Jump Shot,,,,
+0021000245,458,4,0,4,5:44 PM,5:12,,,Miles REBOUND (Off:1 Def:3),,
+0021000245,459,2,1,4,5:45 PM,4:49,,,MISS Watson 28' 3PT Jump Shot,,
+0021000245,460,4,0,4,5:45 PM,4:48,Aminu REBOUND (Off:1 Def:2),,,,
+0021000245,461,1,1,4,5:45 PM,4:34,Bledsoe 15' Jump Shot (12 PTS) (Griffin 6 AST),,,96 - 84,-12
+0021000245,462,6,2,4,5:45 PM,4:09,Bledsoe S.FOUL (P3.PN),,,,
+0021000245,463,3,11,4,5:46 PM,4:09,,,MISS Kirilenko Free Throw 1 of 2,,
+0021000245,477,4,0,4,5:46 PM,4:09,,,Jazz Rebound,,
+0021000245,465,3,12,4,5:46 PM,4:09,,,Kirilenko Free Throw 2 of 2 (8 PTS),97 - 84,-13
+0021000245,467,6,2,4,5:46 PM,3:53,,,D. Williams S.FOUL (P4.PN),,
+0021000245,468,3,11,4,5:47 PM,3:53,MISS Gordon Free Throw 1 of 2,,,,
+0021000245,469,4,1,4,5:47 PM,3:53,CLIPPERS Rebound,,,,
+0021000245,470,8,0,4,5:47 PM,3:53,,,SUB: Millsap FOR Watson,,
+0021000245,472,3,12,4,5:47 PM,3:53,MISS Gordon Free Throw 2 of 2,,,,
+0021000245,475,4,0,4,5:47 PM,3:49,,,Elson REBOUND (Off:0 Def:3),,
+0021000245,478,1,43,4,5:47 PM,3:38,,,Miles 3' Alley Oop Layup (16 PTS) (Millsap 3 AST),99 - 84,-15
+0021000245,479,1,1,4,5:47 PM,3:22,Aminu 25' 3PT Jump Shot (9 PTS) (Gordon 9 AST),,,99 - 87,-12
+0021000245,481,1,1,4,5:48 PM,3:05,,,Kirilenko 3' Jump Shot (10 PTS) (Elson 3 AST),101 - 87,-14
+0021000245,482,1,1,4,5:48 PM,2:49,Gordon 26' 3PT Jump Shot (19 PTS) (Bledsoe 5 AST),,,101 - 90,-11
+0021000245,483,1,1,4,5:48 PM,2:31,,,D. Williams 21' Jump Shot (25 PTS) (Miles 3 AST),103 - 90,-13
+0021000245,484,6,2,4,5:49 PM,2:25,,,Miles S.FOUL (P3.PN),,
+0021000245,485,9,1,4,5:49 PM,2:25,,,Jazz Timeout: Regular (Reg.4 Short 0),,
+0021000245,487,3,11,4,5:51 PM,2:25,Gordon Free Throw 1 of 2 (20 PTS),,,103 - 91,-12
+0021000245,489,3,12,4,5:51 PM,2:25,Gordon Free Throw 2 of 2 (21 PTS),,,103 - 92,-11
+0021000245,491,1,1,4,5:52 PM,2:02,,,Kirilenko 25' 3PT Jump Shot (13 PTS) (Elson 4 AST),106 - 92,-14
+0021000245,492,1,1,4,5:52 PM,1:46,Aminu 26' 3PT Jump Shot (12 PTS) (Griffin 7 AST),,,106 - 95,-11
+0021000245,493,2,1,4,5:53 PM,1:22,,,MISS D. Williams 25' 3PT Jump Shot,,
+0021000245,494,4,0,4,5:53 PM,1:21,Gordon REBOUND (Off:0 Def:1),,,,
+0021000245,495,6,2,4,5:53 PM,1:18,,,D. Williams S.FOUL (P5.PN),,
+0021000245,496,3,11,4,5:53 PM,1:18,Griffin Free Throw 1 of 2 (34 PTS),,,106 - 96,-10
+0021000245,498,3,12,4,5:53 PM,1:18,Griffin Free Throw 2 of 2 (35 PTS),,,106 - 97,-9
+0021000245,501,6,2,4,5:54 PM,1:08,Gomes S.FOUL (P1.PN),,,,
+0021000245,502,3,11,4,5:54 PM,1:08,,,Kirilenko Free Throw 1 of 2 (14 PTS),107 - 97,-10
+0021000245,504,3,12,4,5:54 PM,1:08,,,Kirilenko Free Throw 2 of 2 (15 PTS),108 - 97,-11
+0021000245,506,9,1,4,5:54 PM,1:08,CLIPPERS Timeout: Regular (Full 5 Short 0),,,,
+0021000245,508,2,5,4,5:57 PM,0:51,MISS Griffin 3' Layup,,,,
+0021000245,509,4,0,4,5:57 PM,0:50,,,Elson REBOUND (Off:0 Def:4),,
+0021000245,510,2,1,4,5:57 PM,0:32,,,MISS Kirilenko  3PT Jump Shot,,
+0021000245,511,4,0,4,5:57 PM,0:31,,,Jazz Rebound,,
+0021000245,512,9,2,4,5:57 PM,0:31,,,Jazz Timeout: Short (Reg.4 Short 1),,
+0021000245,513,8,0,4,5:58 PM,0:31,SUB: Smith FOR Griffin,,,,
+0021000245,514,8,0,4,5:58 PM,0:31,SUB: Butler FOR Gordon,,,,
+0021000245,515,8,0,4,5:58 PM,0:31,SUB: Warren FOR Bledsoe,,,,
+0021000245,516,6,2,4,5:59 PM,0:12,Smith S.FOUL (P2.PN),,,,
+0021000245,517,3,11,4,5:59 PM,0:12,,,MISS D. Williams Free Throw 1 of 2,,
+0021000245,518,4,1,4,5:59 PM,0:12,,,Jazz Rebound,,
+0021000245,519,3,12,4,5:59 PM,0:12,,,D. Williams Free Throw 2 of 2 (26 PTS),109 - 97,-12
+0021000245,521,2,1,4,6:00 PM,0:05,MISS Gomes 26' 3PT Jump Shot,,,,
+0021000245,522,4,0,4,6:00 PM,0:03,,,D. Williams REBOUND (Off:0 Def:5),,
+0021000245,523,13,0,4,6:00 PM,0:00,,,,109 - 97,-12

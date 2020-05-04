@@ -1,0 +1,441 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020401002,0,12,0,1,8:08 PM,12:00,,,,,
+0020401002,1,10,0,1,8:09 PM,12:00,Jump Ball Dalembert vs. Wallace: Tip to Korver,,,,
+0020401002,2,1,1,1,8:09 PM,11:44,Webber 16' Jump Shot (2 PTS),,,0 - 2,2
+0020401002,3,1,1,1,8:10 PM,11:20,,,Billups 17' Jump Shot (2 PTS) (Delfino 1 AST),2 - 2,TIE
+0020401002,4,1,1,1,8:10 PM,11:04,Webber 25' 3PT Jump Shot (5 PTS) (Iverson 1 AST),,,2 - 5,3
+0020401002,5,1,5,1,8:10 PM,10:42,,,Prince  Layup (2 PTS) (Wallace 1 AST),4 - 5,1
+0020401002,7,7,2,1,8:11 PM,10:25,,,Wallace Violation:Defensive Goaltending,,
+0020401002,6,1,44,1,8:11 PM,10:25,Iverson  Reverse Layup (2 PTS),,,4 - 7,3
+0020401002,8,2,5,1,8:11 PM,10:16,,,MISS Prince  Layup,,
+0020401002,9,4,0,1,8:11 PM,10:15,Dalembert REBOUND (Off:0 Def:1),,,,
+0020401002,10,1,7,1,8:11 PM,10:03,Dalembert  Dunk (2 PTS) (Iverson 2 AST),,,4 - 9,5
+0020401002,11,2,1,1,8:11 PM,9:42,,,MISS Delfino 27' 3PT Jump Shot,,
+0020401002,12,4,0,1,8:12 PM,9:40,Iguodala REBOUND (Off:0 Def:1),,,,
+0020401002,13,1,59,1,8:12 PM,9:35,Dalembert  Finger Roll (4 PTS) (Iguodala 1 AST),,,4 - 11,7
+0020401002,14,9,1,1,8:12 PM,9:28,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0020401002,16,2,5,1,8:15 PM,9:12,Dalembert BLOCK (1 BLK),,MISS Delfino  Layup,,
+0020401002,17,4,0,1,8:15 PM,9:11,Iverson REBOUND (Off:0 Def:1),,,,
+0020401002,18,1,1,1,8:15 PM,9:06,Korver 26' 3PT Jump Shot (3 PTS) (Iverson 3 AST),,,4 - 14,10
+0020401002,19,2,7,1,8:16 PM,8:51,,,MISS Wallace  Dunk,,
+0020401002,20,4,0,1,8:16 PM,8:49,Iguodala REBOUND (Off:0 Def:2),,,,
+0020401002,21,1,46,1,8:16 PM,8:34,Iverson 19' Running Jump Shot (4 PTS),,,4 - 16,12
+0020401002,22,1,61,1,8:16 PM,8:14,,,Wallace  Driving Finger Roll (2 PTS),6 - 16,10
+0020401002,23,6,1,1,8:17 PM,7:52,,,Wallace P.FOUL (P1.T1),,
+0020401002,24,1,51,1,8:17 PM,7:42,Dalembert  Reverse Dunk (6 PTS) (Iverson 4 AST),,,6 - 18,12
+0020401002,25,2,44,1,8:17 PM,7:16,,,MISS Wallace  Reverse Layup,,
+0020401002,26,4,0,1,8:18 PM,7:14,Dalembert REBOUND (Off:0 Def:2),,,,
+0020401002,27,2,44,1,8:18 PM,7:09,MISS Iverson  Reverse Layup,,,,
+0020401002,28,4,0,1,8:18 PM,7:08,,,Prince REBOUND (Off:0 Def:1),,
+0020401002,30,5,1,1,8:18 PM,7:01,Iverson STEAL (1 STL),,Prince Bad Pass Turnover (P1.T1),,
+0020401002,31,5,1,1,8:18 PM,6:49,Iverson Bad Pass Turnover (P1.T1),,Prince STEAL (1 STL),,
+0020401002,32,2,5,1,8:18 PM,6:43,,,MISS Delfino  Layup,,
+0020401002,33,4,0,1,8:18 PM,6:43,76ERS Rebound,,,,
+0020401002,34,6,1,1,8:18 PM,6:34,,,Wallace P.FOUL (P1.T2),,
+0020401002,35,6,2,1,8:19 PM,6:26,,,Wallace S.FOUL (P2.T3),,
+0020401002,36,8,0,1,8:19 PM,6:26,,,SUB: McDyess FOR Wallace,,
+0020401002,37,3,11,1,8:19 PM,6:26,MISS Webber Free Throw 1 of 2,,,,
+0020401002,38,4,1,1,8:19 PM,6:26,76ERS Rebound,,,,
+0020401002,39,8,0,1,8:19 PM,6:26,,,SUB: Hunter FOR Delfino,,
+0020401002,40,3,12,1,8:19 PM,6:26,MISS Webber Free Throw 2 of 2,,,,
+0020401002,41,4,0,1,8:20 PM,6:24,,,McDyess REBOUND (Off:0 Def:1),,
+0020401002,42,1,1,1,8:20 PM,6:17,,,Billups 25' 3PT Jump Shot (5 PTS),9 - 18,9
+0020401002,43,1,1,1,8:20 PM,6:05,Korver 24' 3PT Jump Shot (6 PTS) (Iguodala 2 AST),,,9 - 21,12
+0020401002,44,1,66,1,8:21 PM,5:43,,,McDyess 10' Jump Bank Shot (2 PTS) (Billups 1 AST),11 - 21,10
+0020401002,45,1,47,1,8:21 PM,5:22,Webber 17' Turnaround Jump Shot (7 PTS) (Korver 1 AST),,,11 - 23,12
+0020401002,46,2,1,1,8:22 PM,4:55,Dalembert BLOCK (2 BLK),,MISS McDyess 16' Jump Shot,,
+0020401002,47,4,0,1,8:22 PM,4:55,,,Pistons Rebound,,
+0020401002,48,5,11,1,8:22 PM,4:55,,,Pistons Turnover: Shot Clock (T#2),,
+0020401002,49,2,1,1,8:22 PM,4:44,MISS Korver 25' 3PT Jump Shot,,,,
+0020401002,50,4,0,1,8:22 PM,4:42,,,Wallace REBOUND (Off:0 Def:1),,
+0020401002,51,5,1,1,8:22 PM,4:38,Iguodala STEAL (1 STL),,Wallace Bad Pass Turnover (P1.T3),,
+0020401002,52,1,1,1,8:22 PM,4:32,Iverson 24' 3PT Jump Shot (7 PTS) (Iguodala 3 AST),,,11 - 26,15
+0020401002,53,6,2,1,8:23 PM,4:13,Dalembert S.FOUL (P1.T1),,,,
+0020401002,54,3,11,1,8:23 PM,4:13,,,Wallace Free Throw 1 of 2 (1 PTS),12 - 26,14
+0020401002,55,3,12,1,8:23 PM,4:13,,,Wallace Free Throw 2 of 2 (2 PTS),13 - 26,13
+0020401002,56,2,1,1,8:24 PM,3:58,MISS Iguodala 22' Jump Shot,,,,
+0020401002,57,4,0,1,8:24 PM,3:56,,,Hunter REBOUND (Off:0 Def:1),,
+0020401002,58,2,1,1,8:24 PM,3:39,,,MISS Wallace 25' 3PT Jump Shot,,
+0020401002,59,4,0,1,8:24 PM,3:36,Korver REBOUND (Off:0 Def:1),,,,
+0020401002,60,2,1,1,8:24 PM,3:29,MISS Webber 12' Jump Shot,,,,
+0020401002,61,4,0,1,8:24 PM,3:28,,,Pistons Rebound,,
+0020401002,62,8,0,1,8:24 PM,3:28,,,SUB: Campbell FOR Wallace,,
+0020401002,63,1,50,1,8:25 PM,3:05,,,Campbell  Running Dunk (2 PTS) (McDyess 1 AST),15 - 26,11
+0020401002,64,1,63,1,8:25 PM,2:50,Iverson 19' Fadeaway Jumper (9 PTS),,,15 - 28,13
+0020401002,66,6,1,1,8:26 PM,2:27,Iguodala P.FOUL (P1.T2),,,,
+0020401002,67,9,1,1,8:26 PM,2:27,76ERS Timeout: Regular (Full 1 Short 0),,,,
+0020401002,69,8,0,1,8:29 PM,2:27,SUB: McKie FOR Iguodala,,,,
+0020401002,70,5,1,1,8:29 PM,2:23,,,Billups Bad Pass Turnover (P1.T4),,
+0020401002,71,2,1,1,8:30 PM,2:06,MISS Webber 6' Jump Shot,,,,
+0020401002,72,4,0,1,8:30 PM,2:04,,,McDyess REBOUND (Off:0 Def:2),,
+0020401002,73,6,1,1,8:30 PM,1:55,Webber P.FOUL (P1.T3),,,,
+0020401002,74,2,1,1,8:30 PM,1:48,,,MISS Prince 6' Jump Shot,,
+0020401002,75,4,0,1,8:30 PM,1:47,76ERS Rebound,,,,
+0020401002,76,6,3,1,8:30 PM,1:47,,,McDyess L.B.FOUL (P1.T4),,
+0020401002,77,2,5,1,8:31 PM,1:35,MISS Webber  Layup,,,,
+0020401002,78,4,0,1,8:31 PM,1:34,Dalembert REBOUND (Off:1 Def:2),,,,
+0020401002,79,6,2,1,8:31 PM,1:34,,,Campbell S.FOUL (P1.PN),,
+0020401002,80,3,11,1,8:31 PM,1:34,MISS Dalembert Free Throw 1 of 2,,,,
+0020401002,81,4,1,1,8:31 PM,1:34,76ERS Rebound,,,,
+0020401002,82,8,0,1,8:31 PM,1:34,,,SUB: Arroyo FOR Billups,,
+0020401002,83,3,12,1,8:32 PM,1:34,Dalembert Free Throw 2 of 2 (7 PTS),,,15 - 29,14
+0020401002,84,2,3,1,8:32 PM,1:16,,,MISS Campbell 4' Hook Shot,,
+0020401002,85,4,0,1,8:32 PM,1:14,Webber REBOUND (Off:0 Def:1),,,,
+0020401002,86,2,1,1,8:32 PM,1:07,MISS Iverson 10' Jump Shot,,,,
+0020401002,87,4,0,1,8:32 PM,1:05,,,Campbell REBOUND (Off:0 Def:1),,
+0020401002,88,1,42,1,8:32 PM,0:56,,,Arroyo  Driving Layup (2 PTS),17 - 29,12
+0020401002,89,1,42,1,8:32 PM,0:51,Iverson  Driving Layup (11 PTS),,,17 - 31,14
+0020401002,90,2,1,1,8:33 PM,0:37,,,MISS Hunter 25' 3PT Jump Shot,,
+0020401002,91,4,0,1,8:33 PM,0:35,McKie REBOUND (Off:0 Def:1),,,,
+0020401002,92,2,1,1,8:33 PM,0:30,MISS Iverson 26' 3PT Jump Shot,,,,
+0020401002,93,4,0,1,8:33 PM,0:28,Webber REBOUND (Off:1 Def:1),,,,
+0020401002,94,2,1,1,8:33 PM,0:06,MISS Dalembert 15' Jump Shot,,,,
+0020401002,95,4,0,1,8:33 PM,0:01,Webber REBOUND (Off:2 Def:1),,,,
+0020401002,96,2,1,1,8:33 PM,0:00,MISS Webber 8' Jump Shot,,,,
+0020401002,97,4,0,1,8:33 PM,0:00,,,Prince REBOUND (Off:0 Def:2),,
+0020401002,98,13,0,1,8:33 PM,0:00,,,,17 - 31,14
+0020401002,101,12,0,2,8:37 PM,12:00,,,,17 - 31,14
+0020401002,102,2,3,2,8:38 PM,11:44,,,MISS Campbell 5' Hook Shot,,
+0020401002,103,4,0,2,8:38 PM,11:42,Iguodala REBOUND (Off:0 Def:3),,,,
+0020401002,104,5,40,2,8:38 PM,11:37,Rogers Out of Bounds Lost Ball Turnover (P1.T2),,,,
+0020401002,106,5,2,2,8:38 PM,11:20,McKie STEAL (1 STL),,Campbell Lost Ball Turnover (P1.T5),,
+0020401002,107,2,1,2,8:38 PM,11:12,MISS Rogers 25' 3PT Jump Shot,,,,
+0020401002,108,4,0,2,8:38 PM,11:10,,,Campbell REBOUND (Off:0 Def:2),,
+0020401002,109,2,1,2,8:39 PM,10:56,,,MISS Campbell 15' Jump Shot,,
+0020401002,110,4,0,2,8:39 PM,10:54,McKie REBOUND (Off:0 Def:2),,,,
+0020401002,111,1,1,2,8:39 PM,10:44,Dalembert 11' Jump Shot (9 PTS) (Iguodala 4 AST),,,17 - 33,16
+0020401002,112,6,1,2,8:39 PM,10:35,McKie P.FOUL (P1.T1),,,,
+0020401002,113,6,2,2,8:40 PM,10:23,Rogers S.FOUL (P1.T2),,,,
+0020401002,114,3,11,2,8:40 PM,10:23,,,MISS Campbell Free Throw 1 of 2,,
+0020401002,115,4,1,2,8:40 PM,10:23,,,Pistons Rebound,,
+0020401002,116,3,12,2,8:40 PM,10:23,,,MISS Campbell Free Throw 2 of 2,,
+0020401002,117,4,0,2,8:40 PM,10:22,McKie REBOUND (Off:0 Def:3),,,,
+0020401002,118,2,1,2,8:41 PM,10:09,MISS Iverson 15' Jump Shot,,,,
+0020401002,119,4,0,2,8:41 PM,10:07,,,McDyess REBOUND (Off:0 Def:3),,
+0020401002,120,6,4,2,8:41 PM,10:02,,,Campbell OFF.Foul (P2),,
+0020401002,121,5,5,2,8:41 PM,10:02,,,Campbell Foul Turnover (P2.T6),,
+0020401002,122,8,0,2,8:41 PM,10:02,,,SUB: Wallace FOR Campbell,,
+0020401002,123,2,5,2,8:41 PM,9:50,MISS McKie  Layup,,Prince BLOCK (1 BLK),,
+0020401002,124,4,0,2,8:41 PM,9:48,,,Hunter REBOUND (Off:0 Def:2),,
+0020401002,125,2,5,2,8:41 PM,9:44,,,MISS Hunter  Layup,,
+0020401002,126,4,0,2,8:41 PM,9:43,,,Pistons Rebound,,
+0020401002,127,8,0,2,8:41 PM,9:42,SUB: Jackson FOR Dalembert,,,,
+0020401002,128,2,1,2,8:42 PM,9:32,,,MISS Hunter 17' Jump Shot,,
+0020401002,130,4,0,2,8:42 PM,9:30,,,McDyess REBOUND (Off:1 Def:3),,
+0020401002,129,2,4,2,8:42 PM,9:30,,,MISS McDyess  Tip Shot,,
+0020401002,131,4,0,2,8:42 PM,9:29,Jackson REBOUND (Off:0 Def:1),,,,
+0020401002,132,2,44,2,8:42 PM,9:19,MISS Iguodala  Reverse Layup,,,,
+0020401002,133,4,0,2,8:42 PM,9:17,,,Prince REBOUND (Off:0 Def:3),,
+0020401002,134,6,2,2,8:42 PM,9:04,Jackson S.FOUL (P1.T3),,,,
+0020401002,135,3,11,2,8:42 PM,9:04,,,MISS Wallace Free Throw 1 of 2,,
+0020401002,138,4,1,2,8:42 PM,9:04,,,Pistons Rebound,,
+0020401002,136,8,0,2,8:42 PM,9:04,,,SUB: Billups FOR Hunter,,
+0020401002,137,8,0,2,8:43 PM,9:04,,,SUB: Delfino FOR Prince,,
+0020401002,139,3,12,2,8:43 PM,9:04,,,MISS Wallace Free Throw 2 of 2,,
+0020401002,140,4,0,2,8:43 PM,9:03,Rogers REBOUND (Off:0 Def:1),,,,
+0020401002,141,6,1,2,8:43 PM,8:49,,,Arroyo P.FOUL (P1.T1),,
+0020401002,142,9,4,2,8:43 PM,8:49,,,,,
+0020401002,144,8,0,2,8:46 PM,8:49,SUB: Korver FOR McKie,,,,
+0020401002,145,1,1,2,8:47 PM,8:45,Korver 25' 3PT Jump Shot (9 PTS) (Jackson 1 AST),,,17 - 36,19
+0020401002,146,6,17,2,8:47 PM,8:36,76ERS T.Foul (Def. 3 Sec Rogers ),,,,
+0020401002,147,3,16,2,8:47 PM,8:36,,,Billups Free Throw Technical (6 PTS),18 - 36,18
+0020401002,148,1,1,2,8:47 PM,8:26,,,Billups 25' 3PT Jump Shot (9 PTS) (Delfino 2 AST),21 - 36,15
+0020401002,149,2,1,2,8:48 PM,8:09,MISS Rogers  3PT Jump Shot,,,,
+0020401002,150,4,0,2,8:48 PM,8:07,,,McDyess REBOUND (Off:1 Def:4),,
+0020401002,151,2,1,2,8:48 PM,8:01,,,MISS Billups 15' Jump Shot,,
+0020401002,152,4,0,2,8:48 PM,7:59,Rogers REBOUND (Off:0 Def:2),,,,
+0020401002,153,1,46,2,8:48 PM,7:52,Iverson 9' Running Jump Shot (13 PTS),,,21 - 38,17
+0020401002,154,1,42,2,8:48 PM,7:28,,,Arroyo  Driving Layup (4 PTS),23 - 38,15
+0020401002,155,6,1,2,8:49 PM,7:19,,,Delfino P.FOUL (P1.T2),,
+0020401002,156,8,0,2,8:49 PM,7:19,SUB: Webber FOR Rogers,,,,
+0020401002,157,1,1,2,8:49 PM,7:13,Iverson 25' 3PT Jump Shot (16 PTS) (Iguodala 5 AST),,,23 - 41,18
+0020401002,158,2,1,2,8:49 PM,6:58,,,MISS Wallace 14' Jump Shot,,
+0020401002,159,4,0,2,8:49 PM,6:56,76ERS Rebound,,,,
+0020401002,160,2,1,2,8:50 PM,6:37,MISS Iverson 25' 3PT Jump Shot,,,,
+0020401002,161,4,0,2,8:50 PM,6:35,Iguodala REBOUND (Off:1 Def:3),,,,
+0020401002,162,1,44,2,8:50 PM,6:27,Iverson  Reverse Layup (18 PTS),,,23 - 43,20
+0020401002,163,6,2,2,8:50 PM,6:09,Jackson S.FOUL (P2.T4),,,,
+0020401002,164,3,11,2,8:50 PM,6:09,,,Arroyo Free Throw 1 of 2 (5 PTS),24 - 43,19
+0020401002,165,3,12,2,8:51 PM,6:09,,,Arroyo Free Throw 2 of 2 (6 PTS),25 - 43,18
+0020401002,166,2,1,2,8:51 PM,5:54,MISS Webber 20' Jump Shot,,,,
+0020401002,167,4,0,2,8:51 PM,5:52,,,McDyess REBOUND (Off:1 Def:5),,
+0020401002,168,9,1,2,8:52 PM,5:45,76ERS Timeout: Regular (Full 2 Short 0),,,,
+0020401002,170,8,0,2,8:54 PM,5:45,,,SUB: Wallace FOR Arroyo,,
+0020401002,171,8,0,2,8:54 PM,5:45,,,SUB: Hunter FOR McDyess,,
+0020401002,172,2,5,2,8:55 PM,5:34,,,MISS Wallace  Layup,,
+0020401002,174,4,0,2,8:55 PM,5:33,,,Wallace REBOUND (Off:1 Def:0),,
+0020401002,173,2,4,2,8:55 PM,5:33,,,MISS Wallace  Tip Shot,,
+0020401002,175,4,0,2,8:55 PM,5:32,Iguodala REBOUND (Off:1 Def:4),,,,
+0020401002,176,1,43,2,8:55 PM,5:25,Webber  Alley Oop Layup (9 PTS) (Iguodala 6 AST),,,25 - 45,20
+0020401002,177,6,1,2,8:56 PM,5:05,Webber P.FOUL (P2.PN),,,,
+0020401002,178,3,11,2,8:56 PM,5:05,,,Wallace Free Throw 1 of 2 (3 PTS),26 - 45,19
+0020401002,179,3,12,2,8:56 PM,5:05,,,Wallace Free Throw 2 of 2 (4 PTS),27 - 45,18
+0020401002,180,2,1,2,8:56 PM,4:52,MISS Iverson 20' Jump Shot,,Hunter BLOCK (1 BLK),,
+0020401002,181,4,0,2,8:56 PM,4:52,,,Hunter REBOUND (Off:0 Def:3),,
+0020401002,182,6,1,2,8:57 PM,4:52,Iverson P.FOUL (P1.PN),,,,
+0020401002,183,3,11,2,8:57 PM,4:52,,,Hunter Free Throw 1 of 2 (1 PTS),28 - 45,17
+0020401002,184,8,0,2,8:57 PM,4:52,,,SUB: Prince FOR Delfino,,
+0020401002,185,8,0,2,8:57 PM,4:52,SUB: McKie FOR Korver,,,,
+0020401002,186,3,12,2,8:57 PM,4:52,,,Hunter Free Throw 2 of 2 (2 PTS),29 - 45,16
+0020401002,188,6,1,2,8:58 PM,4:41,,,Hunter P.FOUL (P1.T3),,
+0020401002,189,1,5,2,8:58 PM,4:32,Webber  Layup (11 PTS) (Jackson 2 AST),,,29 - 47,18
+0020401002,190,6,1,2,8:58 PM,4:11,Webber P.FOUL (P3.PN),,,,
+0020401002,191,8,0,2,8:59 PM,4:11,SUB: Dalembert FOR Webber,,,,
+0020401002,192,3,11,2,8:59 PM,4:11,,,Prince Free Throw 1 of 2 (3 PTS),30 - 47,17
+0020401002,193,3,12,2,8:59 PM,4:11,,,Prince Free Throw 2 of 2 (4 PTS),31 - 47,16
+0020401002,194,1,46,2,9:00 PM,4:00,Jackson 9' Running Jump Shot (2 PTS) (McKie 1 AST),,,31 - 49,18
+0020401002,195,2,1,2,9:00 PM,3:48,,,MISS Billups 26' 3PT Jump Shot,,
+0020401002,196,4,0,2,9:00 PM,3:46,Iguodala REBOUND (Off:1 Def:5),,,,
+0020401002,197,1,5,2,9:00 PM,3:43,McKie  Layup (2 PTS) (Iguodala 7 AST),,,31 - 51,20
+0020401002,198,5,2,2,9:00 PM,3:29,McKie STEAL (2 STL),,Billups Lost Ball Turnover (P2.T7),,
+0020401002,199,6,9,2,9:00 PM,3:29,,,Billups C.P.FOUL (P1.T4),,
+0020401002,200,3,17,2,9:00 PM,3:29,McKie Free Throw Clear Path (3 PTS),,,31 - 52,21
+0020401002,201,6,1,2,9:01 PM,3:19,,,Billups P.FOUL (P2.PN),,
+0020401002,202,3,11,2,9:01 PM,3:19,McKie Free Throw 1 of 2 (4 PTS),,,31 - 53,22
+0020401002,203,3,12,2,9:02 PM,3:19,McKie Free Throw 2 of 2 (5 PTS),,,31 - 54,23
+0020401002,204,9,1,2,9:02 PM,3:14,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0020401002,206,6,2,2,9:06 PM,3:01,Jackson S.FOUL (P3.PN),,,,
+0020401002,207,8,0,2,9:07 PM,3:01,SUB: Rogers FOR Jackson,,,,
+0020401002,208,3,11,2,9:07 PM,3:01,,,MISS Wallace Free Throw 1 of 2,,
+0020401002,209,4,1,2,9:07 PM,3:01,,,Pistons Rebound,,
+0020401002,210,3,12,2,9:07 PM,3:01,,,Wallace Free Throw 2 of 2 (5 PTS),32 - 54,22
+0020401002,211,2,1,2,9:08 PM,2:38,MISS Dalembert 12' Jump Shot,,,,
+0020401002,212,4,0,2,9:08 PM,2:37,,,Wallace REBOUND (Off:0 Def:2),,
+0020401002,213,2,1,2,9:08 PM,2:27,,,MISS Wallace 5' Jump Shot,,
+0020401002,214,4,0,2,9:08 PM,2:26,,,Wallace REBOUND (Off:1 Def:2),,
+0020401002,215,2,1,2,9:08 PM,2:25,,,MISS Wallace 5' Jump Shot,,
+0020401002,217,4,0,2,9:08 PM,2:24,,,Wallace REBOUND (Off:2 Def:2),,
+0020401002,216,2,4,2,9:08 PM,2:24,,,MISS Wallace  Tip Shot,,
+0020401002,218,4,0,2,9:08 PM,2:24,,,Pistons Rebound,,
+0020401002,219,6,3,2,9:08 PM,2:24,Rogers L.B.FOUL (P2.PN),,,,
+0020401002,220,3,11,2,9:08 PM,2:24,,,MISS Wallace Free Throw 1 of 2,,
+0020401002,221,4,1,2,9:08 PM,2:24,,,Pistons Rebound,,
+0020401002,222,3,12,2,9:08 PM,2:24,,,Wallace Free Throw 2 of 2 (6 PTS),33 - 54,21
+0020401002,223,9,2,2,9:09 PM,2:24,76ERS Timeout: Short (Full 2 Short 1),,,,
+0020401002,225,1,1,2,9:10 PM,2:12,Iverson 12' Jump Shot (20 PTS),,,33 - 56,23
+0020401002,226,1,42,2,9:11 PM,1:56,,,Prince  Driving Layup (6 PTS),35 - 56,21
+0020401002,227,6,2,2,9:11 PM,1:56,Iguodala S.FOUL (P2.PN),,,,
+0020401002,228,8,0,2,9:11 PM,1:56,,,SUB: Arroyo FOR Hunter,,
+0020401002,229,3,10,2,9:11 PM,1:56,,,Prince Free Throw 1 of 1 (7 PTS),36 - 56,20
+0020401002,230,6,1,2,9:11 PM,1:40,,,Prince P.FOUL (P1.PN),,
+0020401002,231,3,11,2,9:12 PM,1:40,Iverson Free Throw 1 of 2 (21 PTS),,,36 - 57,21
+0020401002,232,8,0,2,9:12 PM,1:40,SUB: Korver FOR Iguodala,,,,
+0020401002,233,3,12,2,9:12 PM,1:40,Iverson Free Throw 2 of 2 (22 PTS),,,36 - 58,22
+0020401002,234,2,1,2,9:12 PM,1:18,,,MISS Wallace 19' Jump Shot,,
+0020401002,236,4,0,2,9:12 PM,1:15,,,Prince REBOUND (Off:1 Def:3),,
+0020401002,235,2,5,2,9:12 PM,1:15,,,MISS Prince  Layup,,
+0020401002,238,4,0,2,9:13 PM,1:13,,,Wallace REBOUND (Off:3 Def:2),,
+0020401002,237,2,5,2,9:13 PM,1:13,,,MISS Wallace  Layup,,
+0020401002,239,4,0,2,9:13 PM,1:03,Korver REBOUND (Off:0 Def:2),,,,
+0020401002,240,5,1,2,9:13 PM,1:01,Iverson Bad Pass Turnover (P2.T3),,Wallace STEAL (1 STL),,
+0020401002,241,6,2,2,9:13 PM,0:58,Korver S.FOUL (P1.PN),,,,
+0020401002,242,3,11,2,9:13 PM,0:58,,,Prince Free Throw 1 of 2 (8 PTS),37 - 58,21
+0020401002,243,3,12,2,9:13 PM,0:58,,,Prince Free Throw 2 of 2 (9 PTS),38 - 58,20
+0020401002,244,2,3,2,9:14 PM,0:36,MISS Dalembert 6' Hook Shot,,,,
+0020401002,245,4,0,2,9:14 PM,0:35,,,Wallace REBOUND (Off:3 Def:3),,
+0020401002,246,2,1,2,9:14 PM,0:28,,,MISS Prince  3PT Jump Shot,,
+0020401002,247,4,0,2,9:14 PM,0:26,Dalembert REBOUND (Off:1 Def:3),,,,
+0020401002,249,1,42,2,9:14 PM,0:05,Iverson  Driving Layup (24 PTS),,,38 - 60,22
+0020401002,250,2,5,2,9:14 PM,0:00,,,MISS Arroyo  Layup,,
+0020401002,251,4,0,2,9:15 PM,0:00,McKie REBOUND (Off:0 Def:4),,,,
+0020401002,252,13,0,2,9:15 PM,0:00,,,,38 - 60,22
+0020401002,254,12,0,3,9:34 PM,12:00,,,,38 - 60,22
+0020401002,255,2,1,3,9:35 PM,11:39,,,MISS Delfino 16' Jump Shot,,
+0020401002,256,4,0,3,9:35 PM,11:37,Webber REBOUND (Off:2 Def:2),,,,
+0020401002,257,2,1,3,9:35 PM,11:20,MISS Iverson 22' Jump Shot,,,,
+0020401002,258,4,0,3,9:35 PM,11:18,,,Wallace REBOUND (Off:1 Def:1),,
+0020401002,259,5,1,3,9:35 PM,11:07,Iguodala STEAL (2 STL),,Prince Bad Pass Turnover (P2.T8),,
+0020401002,260,1,5,3,9:35 PM,11:03,Iverson  Layup (26 PTS) (Webber 1 AST),,,38 - 62,24
+0020401002,261,1,1,3,9:36 PM,10:41,,,Wallace 17' Jump Shot (4 PTS),40 - 62,22
+0020401002,262,1,1,3,9:36 PM,10:28,Iverson 16' Jump Shot (28 PTS),,,40 - 64,24
+0020401002,263,5,1,3,9:36 PM,10:09,Iguodala STEAL (3 STL),,Billups Bad Pass Turnover (P3.T9),,
+0020401002,264,2,1,3,9:36 PM,10:01,MISS Webber 17' Jump Shot,,,,
+0020401002,265,4,0,3,9:36 PM,9:59,,,Delfino REBOUND (Off:0 Def:1),,
+0020401002,266,2,5,3,9:36 PM,9:53,,,MISS Delfino  Layup,,
+0020401002,268,4,0,3,9:36 PM,9:53,,,Delfino REBOUND (Off:1 Def:1),,
+0020401002,269,7,2,3,9:36 PM,9:53,Dalembert Violation:Defensive Goaltending,,,,
+0020401002,267,1,42,3,9:36 PM,9:53,,,Delfino  Driving Layup (2 PTS),42 - 64,22
+0020401002,270,2,1,3,9:37 PM,9:42,MISS Iverson 20' Jump Shot,,,,
+0020401002,271,4,0,3,9:37 PM,9:40,,,Wallace REBOUND (Off:1 Def:2),,
+0020401002,272,1,46,3,9:37 PM,9:23,,,Wallace 5' Running Jump Shot (8 PTS) (Delfino 3 AST),44 - 64,20
+0020401002,273,1,1,3,9:37 PM,9:03,Webber 17' Jump Shot (13 PTS) (Iguodala 8 AST),,,44 - 66,22
+0020401002,274,1,1,3,9:38 PM,8:41,,,Billups  3PT Jump Shot (12 PTS) (Wallace 1 AST),47 - 66,19
+0020401002,275,6,1,3,9:38 PM,8:25,,,Wallace P.FOUL (P2.T1),,
+0020401002,276,2,1,3,9:38 PM,8:17,MISS Iguodala 17' Jump Shot,,,,
+0020401002,277,4,0,3,9:38 PM,8:16,,,Wallace REBOUND (Off:1 Def:3),,
+0020401002,278,1,7,3,9:39 PM,8:06,,,Wallace  Dunk (6 PTS) (Billups 2 AST),49 - 66,17
+0020401002,279,6,2,3,9:39 PM,8:06,Korver S.FOUL (P2.T1),,,,
+0020401002,280,3,10,3,9:39 PM,8:06,,,Wallace Free Throw 1 of 1 (7 PTS),50 - 66,16
+0020401002,281,2,5,3,9:40 PM,7:45,MISS Webber  Layup,,,,
+0020401002,282,4,0,3,9:40 PM,7:44,,,Pistons Rebound,,
+0020401002,283,1,42,3,9:40 PM,7:32,,,Wallace  Driving Layup (10 PTS),52 - 66,14
+0020401002,285,6,2,3,9:40 PM,7:32,Korver S.FOUL (P3.T2),,,,
+0020401002,287,3,10,3,9:41 PM,7:32,,,MISS Wallace Free Throw 1 of 1,,
+0020401002,289,4,0,3,9:41 PM,7:22,,,Wallace REBOUND (Off:4 Def:3),,
+0020401002,290,1,1,3,9:41 PM,7:20,,,Wallace 25' 3PT Jump Shot (10 PTS) (Billups 3 AST),55 - 66,11
+0020401002,291,9,1,3,9:41 PM,7:20,76ERS Timeout: Regular (Full 3 Short 1),,,,
+0020401002,293,8,0,3,9:44 PM,7:20,SUB: McKie FOR Korver,,,,
+0020401002,294,1,1,3,9:44 PM,7:01,Webber 17' Jump Shot (15 PTS) (Iverson 5 AST),,,55 - 68,13
+0020401002,295,2,1,3,9:45 PM,6:42,,,MISS Wallace 24' 3PT Jump Shot,,
+0020401002,296,4,0,3,9:45 PM,6:40,McKie REBOUND (Off:0 Def:5),,,,
+0020401002,297,1,1,3,9:45 PM,6:32,Webber 16' Jump Shot (17 PTS) (Iverson 6 AST),,,55 - 70,15
+0020401002,298,1,1,3,9:45 PM,6:18,,,Billups 18' Jump Shot (14 PTS),57 - 70,13
+0020401002,299,1,1,3,9:46 PM,5:54,Iguodala  3PT Jump Shot (3 PTS) (McKie 2 AST),,,57 - 73,16
+0020401002,300,2,1,3,9:46 PM,5:34,,,MISS Delfino 24' 3PT Jump Shot,,
+0020401002,301,4,0,3,9:46 PM,5:32,Webber REBOUND (Off:2 Def:3),,,,
+0020401002,302,1,42,3,9:46 PM,5:22,Iverson  Driving Layup (30 PTS),,,57 - 75,18
+0020401002,303,5,2,3,9:47 PM,4:57,McKie STEAL (3 STL),,Billups Lost Ball Turnover (P4.T10),,
+0020401002,304,1,52,3,9:47 PM,4:53,Iguodala  Alley Oop Dunk (5 PTS) (Iverson 7 AST),,,57 - 77,20
+0020401002,305,9,1,3,9:47 PM,4:47,,,Pistons Timeout: Regular (Reg.3 Short 0),,
+0020401002,306,6,11,3,9:47 PM,4:47,,,Billups T.FOUL (P2.T1),,
+0020401002,307,3,16,3,9:50 PM,4:47,Iverson Free Throw Technical (31 PTS),,,57 - 78,21
+0020401002,308,5,1,3,9:51 PM,4:29,Iverson STEAL (2 STL),,Delfino Bad Pass Turnover (P1.T11),,
+0020401002,309,2,1,3,9:51 PM,4:23,MISS McKie 21' Jump Shot,,,,
+0020401002,310,4,0,3,9:51 PM,4:22,,,Wallace REBOUND (Off:4 Def:4),,
+0020401002,311,5,2,3,9:51 PM,4:05,Webber STEAL (1 STL),,Wallace Lost Ball Turnover (P1.T12),,
+0020401002,312,2,1,3,9:51 PM,3:52,MISS Webber 17' Jump Shot,,,,
+0020401002,313,4,0,3,9:51 PM,3:50,,,Wallace REBOUND (Off:4 Def:5),,
+0020401002,314,6,2,3,9:52 PM,3:35,Dalembert S.FOUL (P2.T3),,,,
+0020401002,315,8,0,3,9:52 PM,3:35,,,SUB: McDyess FOR Wallace,,
+0020401002,316,3,11,3,9:52 PM,3:35,,,MISS Delfino Free Throw 1 of 2,,
+0020401002,317,4,1,3,9:52 PM,3:35,,,Pistons Rebound,,
+0020401002,318,3,12,3,9:52 PM,3:35,,,Delfino Free Throw 2 of 2 (3 PTS),58 - 78,20
+0020401002,319,5,40,3,9:53 PM,3:21,Iverson Out of Bounds Lost Ball Turnover (P3.T4),,,,
+0020401002,320,8,0,3,9:53 PM,3:21,,,SUB: Hunter FOR Delfino,,
+0020401002,321,2,1,3,9:53 PM,3:06,Dalembert BLOCK (3 BLK),,MISS Prince 7' Jump Shot,,
+0020401002,323,4,0,3,9:53 PM,3:04,,,McDyess REBOUND (Off:2 Def:5),,
+0020401002,322,2,5,3,9:53 PM,3:04,,,MISS McDyess  Layup,,
+0020401002,324,4,0,3,9:53 PM,3:03,,,Pistons Rebound,,
+0020401002,325,5,2,3,9:54 PM,2:54,Iverson STEAL (3 STL),,Hunter Lost Ball Turnover (P1.T13),,
+0020401002,326,5,39,3,9:54 PM,2:52,Iverson Step Out of Bounds Turnover (P4.T5),,,,
+0020401002,327,5,1,3,9:55 PM,2:47,Iverson STEAL (4 STL),,Billups Bad Pass Turnover (P5.T14),,
+0020401002,328,1,7,3,9:55 PM,2:43,Iverson  Dunk (33 PTS),,,58 - 80,22
+0020401002,329,2,1,3,9:55 PM,2:20,,,MISS Hunter 27' 3PT Jump Shot,,
+0020401002,330,4,0,3,9:55 PM,2:18,Iverson REBOUND (Off:0 Def:2),,,,
+0020401002,331,8,0,3,9:55 PM,2:12,,,SUB: Arroyo FOR Billups,,
+0020401002,333,1,1,3,9:56 PM,2:04,Webber 17' Jump Shot (19 PTS) (Iguodala 9 AST),,,58 - 82,24
+0020401002,334,2,5,3,9:56 PM,1:40,,,MISS Wallace  Layup,,
+0020401002,335,4,0,3,9:56 PM,1:39,76ERS Rebound,,,,
+0020401002,336,5,2,3,9:57 PM,1:22,Webber Lost Ball Turnover (P1.T6),,Wallace STEAL (2 STL),,
+0020401002,337,6,1,3,9:57 PM,1:22,Iverson P.FOUL (P2.T4),,,,
+0020401002,338,8,0,3,9:57 PM,1:22,SUB: Jackson FOR Webber,,,,
+0020401002,339,6,4,3,9:57 PM,1:02,,,Hunter OFF.Foul (P2),,
+0020401002,340,5,5,3,9:57 PM,1:02,,,Hunter Foul Turnover (P2.T15),,
+0020401002,341,1,52,3,9:58 PM,0:46,Dalembert  Alley Oop Dunk (11 PTS) (Iverson 8 AST),,,58 - 84,26
+0020401002,342,6,1,3,9:58 PM,0:27,Iguodala P.FOUL (P3.PN),,,,
+0020401002,343,3,11,3,9:59 PM,0:27,,,Prince Free Throw 1 of 2 (10 PTS),59 - 84,25
+0020401002,344,8,0,3,9:59 PM,0:27,SUB: Korver FOR Iguodala,,,,
+0020401002,345,3,12,3,9:59 PM,0:27,,,Prince Free Throw 2 of 2 (11 PTS),60 - 84,24
+0020401002,346,6,1,3,9:59 PM,0:12,,,Hunter P.FOUL (P3.T2),,
+0020401002,347,2,1,3,10:00 PM,0:04,MISS Iverson 25' 3PT Jump Shot,,,,
+0020401002,348,4,0,3,10:00 PM,0:01,Dalembert REBOUND (Off:2 Def:3),,,,
+0020401002,349,13,0,3,10:00 PM,0:00,,,,60 - 84,24
+0020401002,350,12,0,4,10:03 PM,12:00,,,,60 - 84,24
+0020401002,351,2,1,4,10:04 PM,11:35,MISS Iverson 16' Jump Shot,,,,
+0020401002,352,4,0,4,10:04 PM,11:34,,,Arroyo REBOUND (Off:0 Def:1),,
+0020401002,353,6,2,4,10:04 PM,11:22,Dalembert S.FOUL (P3.T1),,,,
+0020401002,354,3,11,4,10:05 PM,11:22,,,MISS McDyess Free Throw 1 of 2,,
+0020401002,355,4,1,4,10:05 PM,11:22,,,Pistons Rebound,,
+0020401002,356,3,12,4,10:05 PM,11:22,,,MISS McDyess Free Throw 2 of 2,,
+0020401002,357,8,0,4,10:05 PM,11:22,SUB: Iguodala FOR McKie,,,,
+0020401002,358,4,0,4,10:05 PM,11:20,Iguodala REBOUND (Off:1 Def:6),,,,
+0020401002,359,5,1,4,10:06 PM,10:58,Jackson Bad Pass Turnover (P1.T7),,,,
+0020401002,360,6,17,4,10:07 PM,10:48,76ERS T.Foul (Def. 3 Sec Dalembert ),,,,
+0020401002,361,3,16,4,10:07 PM,10:48,,,Prince Free Throw Technical (12 PTS),61 - 84,23
+0020401002,362,2,1,4,10:07 PM,10:40,,,MISS Hunter 24' 3PT Jump Shot,,
+0020401002,363,4,0,4,10:07 PM,10:38,Iguodala REBOUND (Off:1 Def:7),,,,
+0020401002,364,5,2,4,10:08 PM,10:35,Iverson Lost Ball Turnover (P5.T8),,Hunter STEAL (1 STL),,
+0020401002,365,6,3,4,10:08 PM,10:32,Korver L.B.FOUL (P4.T2),,,,
+0020401002,366,8,0,4,10:08 PM,10:32,SUB: McKie FOR Korver,,,,
+0020401002,367,2,1,4,10:08 PM,10:11,,,MISS Wallace  3PT Jump Shot,,
+0020401002,368,4,0,4,10:08 PM,10:09,McKie REBOUND (Off:0 Def:6),,,,
+0020401002,369,6,2,4,10:08 PM,10:06,,,Hunter S.FOUL (P4.T1),,
+0020401002,370,3,11,4,10:09 PM,10:06,MISS Iverson Free Throw 1 of 2,,,,
+0020401002,371,4,1,4,10:09 PM,10:06,76ERS Rebound,,,,
+0020401002,372,3,12,4,10:09 PM,10:06,Iverson Free Throw 2 of 2 (34 PTS),,,61 - 85,24
+0020401002,373,2,1,4,10:09 PM,9:49,,,MISS Prince  3PT Jump Shot,,
+0020401002,374,4,0,4,10:09 PM,9:47,,,McDyess REBOUND (Off:3 Def:5),,
+0020401002,375,1,58,4,10:10 PM,9:36,,,Wallace 7' Turnaround Hook Shot (12 PTS),63 - 85,22
+0020401002,376,6,2,4,10:10 PM,9:36,Dalembert S.FOUL (P4.T3),,,,
+0020401002,377,3,10,4,10:10 PM,9:36,,,Wallace Free Throw 1 of 1 (13 PTS),64 - 85,21
+0020401002,378,8,0,4,10:10 PM,9:36,,,SUB: Dupree FOR Prince,,
+0020401002,379,8,0,4,10:10 PM,9:36,,,SUB: Billups FOR Hunter,,
+0020401002,380,8,0,4,10:10 PM,9:36,SUB: Webber FOR Dalembert,,,,
+0020401002,382,2,1,4,10:11 PM,9:16,MISS Webber 17' Jump Shot,,,,
+0020401002,383,4,0,4,10:11 PM,9:15,,,McDyess REBOUND (Off:3 Def:6),,
+0020401002,384,5,1,4,10:11 PM,9:05,Iverson STEAL (5 STL),,Arroyo Bad Pass Turnover (P1.T16),,
+0020401002,385,5,1,4,10:11 PM,8:59,Iverson Bad Pass Turnover (P6.T9),,Dupree STEAL (1 STL),,
+0020401002,386,1,61,4,10:11 PM,8:54,,,Wallace  Driving Finger Roll (15 PTS) (Billups 4 AST),66 - 85,19
+0020401002,387,6,2,4,10:11 PM,8:35,,,McDyess S.FOUL (P2.T2),,
+0020401002,388,9,4,4,10:12 PM,8:35,,,,,
+0020401002,389,3,11,4,10:12 PM,8:35,Jackson Free Throw 1 of 2 (3 PTS),,,66 - 86,20
+0020401002,390,3,12,4,10:16 PM,8:35,Jackson Free Throw 2 of 2 (4 PTS),,,66 - 87,21
+0020401002,391,1,1,4,10:16 PM,8:19,,,Wallace 14' Jump Shot (17 PTS),68 - 87,19
+0020401002,392,5,1,4,10:17 PM,8:02,Iverson Bad Pass Turnover (P7.T10),,Arroyo STEAL (1 STL),,
+0020401002,393,6,9,4,10:17 PM,8:00,Iverson C.P.FOUL (P3.T4),,,,
+0020401002,394,3,17,4,10:17 PM,8:00,,,Arroyo Free Throw Clear Path (7 PTS),69 - 87,18
+0020401002,395,2,1,4,10:18 PM,7:47,,,MISS Wallace 18' Jump Shot,,
+0020401002,396,4,0,4,10:18 PM,7:45,McKie REBOUND (Off:0 Def:7),,,,
+0020401002,397,2,1,4,10:18 PM,7:31,MISS Webber 17' Jump Shot,,,,
+0020401002,398,4,0,4,10:18 PM,7:30,,,Dupree REBOUND (Off:0 Def:1),,
+0020401002,399,5,2,4,10:18 PM,7:26,McKie STEAL (4 STL),,Dupree Lost Ball Turnover (P1.T17),,
+0020401002,400,5,2,4,10:18 PM,7:22,Iverson Lost Ball Turnover (P8.T11),,Billups STEAL (1 STL),,
+0020401002,401,5,1,4,10:18 PM,7:18,McKie STEAL (5 STL),,Billups Bad Pass Turnover (P6.T18),,
+0020401002,402,1,1,4,10:18 PM,7:00,Iguodala 25' 3PT Jump Shot (8 PTS) (Iverson 9 AST),,,69 - 90,21
+0020401002,403,2,1,4,10:19 PM,6:44,,,MISS Wallace 17' Jump Shot,,
+0020401002,404,4,0,4,10:19 PM,6:42,McKie REBOUND (Off:0 Def:8),,,,
+0020401002,405,6,1,4,10:19 PM,6:35,,,Arroyo P.FOUL (P2.T3),,
+0020401002,406,2,1,4,10:19 PM,6:21,MISS Iguodala 18' Jump Shot,,,,
+0020401002,407,4,0,4,10:20 PM,6:21,,,Pistons Rebound,,
+0020401002,408,2,1,4,10:20 PM,6:06,,,MISS Wallace 14' Jump Shot,,
+0020401002,409,4,0,4,10:20 PM,6:05,,,Arroyo REBOUND (Off:1 Def:1),,
+0020401002,410,1,8,4,10:20 PM,6:02,,,Dupree  Slam Dunk (2 PTS) (Arroyo 1 AST),71 - 90,19
+0020401002,411,6,2,4,10:20 PM,5:41,,,Wallace S.FOUL (P3.T4),,
+0020401002,412,9,1,4,10:21 PM,5:41,76ERS Timeout: Regular (Full 4 Short 1),,,,
+0020401002,413,8,0,4,10:23 PM,5:41,SUB: Korver FOR McKie,,,,
+0020401002,414,3,11,4,10:23 PM,5:41,Jackson Free Throw 1 of 2 (5 PTS),,,71 - 91,20
+0020401002,415,3,12,4,10:24 PM,5:41,Jackson Free Throw 2 of 2 (6 PTS),,,71 - 92,21
+0020401002,416,6,17,4,10:24 PM,5:33,76ERS T.Foul (Def. 3 Sec Webber ),,,,
+0020401002,417,3,16,4,10:24 PM,5:33,,,Billups Free Throw Technical (15 PTS),72 - 92,20
+0020401002,418,1,1,4,10:25 PM,5:27,,,Arroyo 18' Jump Shot (9 PTS),74 - 92,18
+0020401002,419,1,1,4,10:25 PM,5:12,Jackson 19' Jump Shot (8 PTS) (Iverson 10 AST),,,74 - 94,20
+0020401002,420,1,47,4,10:25 PM,4:55,,,McDyess 14' Turnaround Jump Shot (4 PTS),76 - 94,18
+0020401002,421,2,1,4,10:26 PM,4:39,MISS Iverson 17' Jump Shot,,,,
+0020401002,422,4,0,4,10:26 PM,4:37,Iguodala REBOUND (Off:2 Def:7),,,,
+0020401002,423,1,1,4,10:26 PM,4:35,Iguodala 20' Jump Shot (10 PTS),,,76 - 96,20
+0020401002,424,1,8,4,10:26 PM,4:18,,,McDyess  Slam Dunk (6 PTS),78 - 96,18
+0020401002,425,6,1,4,10:26 PM,3:58,,,Arroyo P.FOUL (P3.PN),,
+0020401002,426,8,0,4,10:27 PM,3:58,,,SUB: Milicic FOR Wallace,,
+0020401002,427,8,0,4,10:27 PM,3:58,,,SUB: Delfino FOR Billups,,
+0020401002,428,3,11,4,10:27 PM,3:58,MISS Iverson Free Throw 1 of 2,,,,
+0020401002,429,4,1,4,10:27 PM,3:58,76ERS Rebound,,,,
+0020401002,430,8,0,4,10:27 PM,3:58,,,SUB: Campbell FOR McDyess,,
+0020401002,431,8,0,4,10:27 PM,3:58,SUB: Dalembert FOR Jackson,,,,
+0020401002,432,3,12,4,10:27 PM,3:58,Iverson Free Throw 2 of 2 (35 PTS),,,78 - 97,19
+0020401002,433,1,42,4,10:28 PM,3:38,,,Dupree  Driving Layup (4 PTS) (Arroyo 2 AST),80 - 97,17
+0020401002,434,6,1,4,10:28 PM,3:17,,,Campbell P.FOUL (P3.PN),,
+0020401002,435,3,11,4,10:28 PM,3:17,Iverson Free Throw 1 of 2 (36 PTS),,,80 - 98,18
+0020401002,436,8,0,4,10:29 PM,3:17,SUB: Green FOR Iguodala,,,,
+0020401002,437,3,12,4,10:29 PM,3:17,Iverson Free Throw 2 of 2 (37 PTS),,,80 - 99,19
+0020401002,438,1,1,4,10:29 PM,3:01,,,Arroyo 17' Jump Shot (11 PTS),82 - 99,17
+0020401002,439,1,42,4,10:30 PM,2:38,Iverson  Driving Layup (39 PTS) (Webber 2 AST),,,82 - 101,19
+0020401002,440,1,47,4,10:30 PM,2:20,,,Campbell 12' Turnaround Jump Shot (4 PTS),84 - 101,17
+0020401002,441,9,2,4,10:30 PM,2:18,76ERS Timeout: Short (Full 4 Short 2),,,,
+0020401002,442,9,1,4,10:31 PM,2:18,,,Pistons Timeout: Regular (Reg.4 Short 0),,
+0020401002,443,8,0,4,10:32 PM,2:18,SUB: Davis FOR Iverson,,,,
+0020401002,444,8,0,4,10:33 PM,2:18,SUB: Iguodala FOR Webber,,,,
+0020401002,445,1,1,4,10:33 PM,1:55,Green 25' 3PT Jump Shot (3 PTS),,,84 - 104,20
+0020401002,446,2,5,4,10:33 PM,1:49,,,MISS Delfino  Layup,,
+0020401002,447,4,0,4,10:33 PM,1:47,Dalembert REBOUND (Off:2 Def:4),,,,
+0020401002,448,1,1,4,10:33 PM,1:34,Davis 26' 3PT Jump Shot (3 PTS) (Iguodala 10 AST),,,84 - 107,23
+0020401002,449,2,1,4,10:34 PM,1:20,,,MISS Arroyo 22' Jump Shot,,
+0020401002,450,4,0,4,10:34 PM,1:18,Dalembert REBOUND (Off:2 Def:5),,,,
+0020401002,451,2,1,4,10:34 PM,1:10,MISS Green 26' 3PT Jump Shot,,,,
+0020401002,452,4,0,4,10:34 PM,1:09,,,Dupree REBOUND (Off:0 Def:2),,
+0020401002,453,2,1,4,10:34 PM,0:54,,,MISS Delfino 26' 3PT Jump Shot,,
+0020401002,454,4,0,4,10:34 PM,0:52,Iguodala REBOUND (Off:2 Def:8),,,,
+0020401002,455,5,1,4,10:35 PM,0:34,Green Bad Pass Turnover (P1.T12),,Delfino STEAL (1 STL),,
+0020401002,456,5,1,4,10:35 PM,0:32,Iguodala STEAL (4 STL),,Delfino Bad Pass Turnover (P2.T19),,
+0020401002,457,2,1,4,10:35 PM,0:09,MISS Green 17' Jump Shot,,,,
+0020401002,458,4,0,4,10:35 PM,0:07,,,Campbell REBOUND (Off:0 Def:3),,
+0020401002,460,13,0,4,10:35 PM,0:00,,,,84 - 107,23

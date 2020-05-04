@@ -1,0 +1,441 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020900204,0,12,0,1,8:43 PM,12:00,,,,,
+0020900204,2,7,4,1,8:43 PM,12:00,Gooden Violation:Jump Ball,,,,
+0020900204,1,10,0,1,8:43 PM,12:00,Jump Ball Gooden vs. Moore: Tip to,,,,
+0020900204,4,6,4,1,8:44 PM,11:52,,,Moore OFF.Foul (P1),,
+0020900204,5,5,5,1,8:44 PM,11:52,,,Moore Foul Turnover (P1.T1),,
+0020900204,7,2,1,1,8:44 PM,11:36,MISS Nowitzki 11' Jump Shot,,,,
+0020900204,8,4,0,1,8:44 PM,11:35,Beaubois REBOUND (Off:1 Def:0),,,,
+0020900204,9,1,65,1,8:44 PM,11:24,Gooden 7' Jump Hook Shot (2 PTS) (Kidd 1 AST),,,0 - 2,2
+0020900204,10,5,2,1,8:45 PM,11:13,Ross STEAL (1 STL),,Curry Lost Ball Turnover (P1.T2),,
+0020900204,11,6,2,1,8:45 PM,11:09,,,Ellis S.FOUL (P1.T1),,
+0020900204,12,3,11,1,8:45 PM,11:09,Gooden Free Throw 1 of 2 (3 PTS),,,0 - 3,3
+0020900204,14,3,12,1,8:45 PM,11:09,Gooden Free Throw 2 of 2 (4 PTS),,,0 - 4,4
+0020900204,16,5,8,1,8:46 PM,10:59,,,Moore 3 Second Violation Turnover (P2.T3),,
+0020900204,18,5,2,1,8:46 PM,10:45,Nowitzki Lost Ball Turnover (P1.T1),,Morrow STEAL (1 STL),,
+0020900204,19,1,42,1,8:46 PM,10:41,,,Morrow  Driving Layup (2 PTS),2 - 4,2
+0020900204,20,6,2,1,8:46 PM,10:41,Ross S.FOUL (P1.T1),,,,
+0020900204,21,3,10,1,8:46 PM,10:41,,,Morrow Free Throw 1 of 1 (3 PTS),3 - 4,1
+0020900204,23,2,57,1,8:47 PM,10:25,MISS Gooden 7' Driving Hook Shot,,,,
+0020900204,24,4,0,1,8:47 PM,10:24,Nowitzki REBOUND (Off:1 Def:0),,,,
+0020900204,25,1,72,1,8:47 PM,10:23,Nowitzki  Putback Layup (2 PTS),,,3 - 6,3
+0020900204,26,2,1,1,8:47 PM,10:14,,,MISS Curry 25' 3PT Jump Shot,,
+0020900204,27,4,0,1,8:47 PM,10:13,Gooden REBOUND (Off:0 Def:1),,,,
+0020900204,28,5,1,1,8:47 PM,10:07,Kidd Bad Pass Turnover (P1.T2),,Radmanovic STEAL (1 STL),,
+0020900204,29,5,1,1,8:47 PM,10:03,Ross STEAL (2 STL),,Ellis Bad Pass Turnover (P1.T4),,
+0020900204,30,1,1,1,8:48 PM,9:41,Ross 18' Jump Shot (2 PTS) (Kidd 2 AST),,,3 - 8,5
+0020900204,31,2,73,1,8:48 PM,9:32,,,MISS Ellis  Driving Reverse Layup,,
+0020900204,32,4,0,1,8:48 PM,9:31,Gooden REBOUND (Off:0 Def:2),,,,
+0020900204,33,1,1,1,8:48 PM,9:24,Ross 18' Jump Shot (4 PTS) (Kidd 3 AST),,,3 - 10,7
+0020900204,34,9,1,1,8:48 PM,9:18,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0020900204,38,6,1,1,8:51 PM,9:14,Nowitzki P.FOUL (P1.T2),,,,
+0020900204,39,2,1,1,8:51 PM,9:05,,,MISS Ellis 25' 3PT Jump Shot,,
+0020900204,40,4,0,1,8:51 PM,9:04,Kidd REBOUND (Off:0 Def:1),,,,
+0020900204,41,2,58,1,8:51 PM,8:44,MISS Gooden 8' Turnaround Hook Shot,,,,
+0020900204,42,4,0,1,8:51 PM,8:44,,,Morrow REBOUND (Off:0 Def:1),,
+0020900204,43,2,1,1,8:51 PM,8:37,,,MISS Morrow 15' Jump Shot,,
+0020900204,44,4,0,1,8:51 PM,8:36,,,Moore REBOUND (Off:1 Def:0),,
+0020900204,45,6,1,1,8:52 PM,8:29,Beaubois P.FOUL (P1.T3),,,,
+0020900204,46,2,1,1,8:52 PM,8:19,,,MISS Morrow 24' 3PT Jump Shot,,
+0020900204,47,4,0,1,8:52 PM,8:18,Gooden REBOUND (Off:0 Def:3),,,,
+0020900204,48,5,1,1,8:52 PM,8:15,Beaubois Bad Pass Turnover (P1.T3),,Curry STEAL (1 STL),,
+0020900204,49,1,75,1,8:52 PM,8:09,,,Ellis  Driving Finger Roll Layup (2 PTS),5 - 10,5
+0020900204,50,1,1,1,8:52 PM,7:55,Nowitzki 18' Jump Shot (4 PTS) (Kidd 4 AST),,,5 - 12,7
+0020900204,51,6,2,1,8:52 PM,7:55,,,Radmanovic S.FOUL (P1.T2),,
+0020900204,52,3,10,1,8:53 PM,7:55,Nowitzki Free Throw 1 of 1 (5 PTS),,,5 - 13,8
+0020900204,54,5,4,1,8:53 PM,7:41,,,Ellis Traveling Turnover (P2.T5),,
+0020900204,55,2,1,1,8:54 PM,7:30,MISS Beaubois 24' 3PT Jump Shot,,,,
+0020900204,56,4,0,1,8:54 PM,7:29,,,Radmanovic REBOUND (Off:0 Def:1),,
+0020900204,57,1,42,1,8:54 PM,7:23,,,Ellis  Driving Layup (4 PTS),7 - 13,6
+0020900204,58,6,2,1,8:54 PM,7:23,Ross S.FOUL (P2.T4),,,,
+0020900204,59,3,10,1,8:54 PM,7:23,,,Ellis Free Throw 1 of 1 (5 PTS),8 - 13,5
+0020900204,61,2,1,1,8:55 PM,7:06,MISS Nowitzki 20' Jump Shot,,,,
+0020900204,62,4,0,1,8:55 PM,7:05,,,Moore REBOUND (Off:1 Def:1),,
+0020900204,63,1,42,1,8:55 PM,6:57,,,Ellis  Driving Layup (7 PTS),10 - 13,3
+0020900204,64,2,1,1,8:55 PM,6:43,MISS Ross 24' 3PT Jump Shot,,,,
+0020900204,65,4,0,1,8:55 PM,6:42,,,Moore REBOUND (Off:1 Def:2),,
+0020900204,66,1,1,1,8:55 PM,6:35,,,Ellis 15' Jump Shot (9 PTS),12 - 13,1
+0020900204,67,9,2,1,8:55 PM,6:29,MAVERICKS Timeout: Short (Full 0 Short 1),,,,
+0020900204,69,8,0,1,8:56 PM,6:29,SUB: Terry FOR Ross,,,,
+0020900204,71,2,1,1,8:56 PM,6:21,MISS Terry 17' Jump Shot,,,,
+0020900204,72,4,0,1,8:57 PM,6:19,,,Curry REBOUND (Off:0 Def:1),,
+0020900204,73,5,1,1,8:57 PM,6:10,Gooden STEAL (1 STL),,Curry Bad Pass Turnover (P2.T6),,
+0020900204,74,1,42,1,8:57 PM,6:06,Beaubois  Driving Layup (2 PTS),,,12 - 15,3
+0020900204,75,2,1,1,8:57 PM,5:54,,,MISS Radmanovic 25' 3PT Jump Shot,,
+0020900204,76,4,0,1,8:57 PM,5:53,Nowitzki REBOUND (Off:1 Def:1),,,,
+0020900204,77,2,1,1,8:57 PM,5:42,MISS Nowitzki 17' Jump Shot,,,,
+0020900204,78,4,0,1,8:57 PM,5:41,,,Curry REBOUND (Off:0 Def:2),,
+0020900204,79,5,1,1,8:57 PM,5:34,Nowitzki STEAL (1 STL),,Ellis Bad Pass Turnover (P3.T7),,
+0020900204,80,2,1,1,8:57 PM,5:27,MISS Kidd 14' Jump Shot,,,,
+0020900204,81,4,0,1,8:57 PM,5:26,,,Morrow REBOUND (Off:0 Def:2),,
+0020900204,82,5,1,1,8:57 PM,5:21,Terry STEAL (1 STL),,Curry Bad Pass Turnover (P3.T8),,
+0020900204,83,2,1,1,8:58 PM,5:11,MISS Nowitzki 14' Jump Shot,,,,
+0020900204,84,4,0,1,8:58 PM,5:10,Gooden REBOUND (Off:1 Def:3),,,,
+0020900204,85,2,86,1,8:58 PM,4:58,MISS Gooden 8' Turnaround Fadeaway Shot,,,,
+0020900204,86,4,0,1,8:58 PM,4:57,,,Radmanovic REBOUND (Off:0 Def:2),,
+0020900204,87,1,46,1,8:58 PM,4:43,,,Curry 12' Running Jump Shot (2 PTS),14 - 15,1
+0020900204,88,5,1,1,8:58 PM,4:27,Beaubois Bad Pass Turnover (P2.T4),,Morrow STEAL (2 STL),,
+0020900204,89,5,1,1,8:59 PM,4:23,Terry STEAL (2 STL),,Morrow Bad Pass Turnover (P1.T9),,
+0020900204,90,5,1,1,8:59 PM,4:23,Terry Bad Pass Turnover (P1.T5),,,,
+0020900204,92,9,1,1,8:59 PM,4:23,MAVERICKS Timeout: Regular (Full 1 Short 1),,,,
+0020900204,93,8,0,1,9:01 PM,4:23,SUB: Thomas FOR Nowitzki,,,,
+0020900204,94,8,0,1,9:01 PM,4:23,,,SUB: Randolph FOR Curry,,
+0020900204,95,1,1,1,9:01 PM,4:06,,,Morrow 25' 3PT Jump Shot (6 PTS) (Moore 1 AST),17 - 15,-2
+0020900204,96,1,65,1,9:02 PM,3:47,Gooden 4' Jump Hook Shot (6 PTS),,,17 - 17,TIE
+0020900204,97,6,1,1,9:02 PM,3:32,Thomas P.FOUL (P1.PN),,,,
+0020900204,98,3,11,1,9:03 PM,3:32,,,Randolph Free Throw 1 of 2 (1 PTS),18 - 17,-1
+0020900204,100,3,12,1,9:03 PM,3:32,,,Randolph Free Throw 2 of 2 (2 PTS),19 - 17,-2
+0020900204,102,1,47,1,9:03 PM,3:13,Thomas 11' Turnaround Jump Shot (2 PTS) (Kidd 5 AST),,,19 - 19,TIE
+0020900204,103,2,42,1,9:04 PM,2:58,Gooden BLOCK (1 BLK),,MISS Morrow  Driving Layup,,
+0020900204,104,4,0,1,9:04 PM,2:57,Kidd REBOUND (Off:0 Def:2),,,,
+0020900204,105,2,1,1,9:04 PM,2:47,MISS Beaubois  3PT Jump Shot,,,,
+0020900204,106,4,0,1,9:04 PM,2:46,,,Moore REBOUND (Off:1 Def:3),,
+0020900204,107,2,1,1,9:04 PM,2:39,,,MISS Ellis 24' 3PT Jump Shot,,
+0020900204,108,4,0,1,9:04 PM,2:37,Kidd REBOUND (Off:0 Def:3),,,,
+0020900204,109,1,42,1,9:04 PM,2:33,Beaubois  Driving Layup (4 PTS) (Kidd 6 AST),,,19 - 21,2
+0020900204,110,6,2,1,9:04 PM,2:28,Gooden S.FOUL (P1.PN),,,,
+0020900204,111,8,0,1,9:04 PM,2:28,SUB: Humphries FOR Gooden,,,,
+0020900204,112,3,11,1,9:05 PM,2:28,,,MISS Ellis Free Throw 1 of 2,,
+0020900204,113,4,1,1,9:05 PM,2:28,,,Warriors Rebound,,
+0020900204,114,8,0,1,9:05 PM,2:28,SUB: Barea FOR Kidd,,,,
+0020900204,115,3,12,1,9:05 PM,2:28,,,Ellis Free Throw 2 of 2 (10 PTS),20 - 21,1
+0020900204,117,1,47,1,9:06 PM,2:12,Thomas 8' Turnaround Jump Shot (4 PTS),,,20 - 23,3
+0020900204,118,2,1,1,9:06 PM,1:50,,,MISS Radmanovic 9' Jump Shot,,
+0020900204,119,4,0,1,9:06 PM,1:49,,,Radmanovic REBOUND (Off:1 Def:2),,
+0020900204,122,7,2,1,9:06 PM,1:49,Humphries Violation:Defensive Goaltending,,,,
+0020900204,121,1,5,1,9:06 PM,1:49,,,Radmanovic  Layup (2 PTS),22 - 23,1
+0020900204,123,6,2,1,9:07 PM,1:40,,,Ellis S.FOUL (P2.T3),,
+0020900204,124,3,11,1,9:07 PM,1:40,Beaubois Free Throw 1 of 2 (5 PTS),,,22 - 24,2
+0020900204,126,3,12,1,9:07 PM,1:40,Beaubois Free Throw 2 of 2 (6 PTS),,,22 - 25,3
+0020900204,128,2,1,1,9:07 PM,1:22,,,MISS Morrow 24' 3PT Jump Shot,,
+0020900204,129,4,0,1,9:07 PM,1:21,Barea REBOUND (Off:0 Def:1),,,,
+0020900204,130,2,1,1,9:08 PM,1:04,MISS Humphries 17' Jump Shot,,,,
+0020900204,131,4,0,1,9:08 PM,1:04,,,Ellis REBOUND (Off:0 Def:1),,
+0020900204,132,1,42,1,9:08 PM,0:55,,,Ellis  Driving Layup (12 PTS),24 - 25,1
+0020900204,133,6,1,1,9:08 PM,0:38,,,Randolph P.FOUL (P1.PN),,
+0020900204,134,3,11,1,9:09 PM,0:38,Thomas Free Throw 1 of 2 (5 PTS),,,24 - 26,2
+0020900204,136,3,12,1,9:09 PM,0:38,Thomas Free Throw 2 of 2 (6 PTS),,,24 - 27,3
+0020900204,138,2,1,1,9:09 PM,0:28,,,MISS Ellis 17' Jump Shot,,
+0020900204,139,4,0,1,9:09 PM,0:27,,,Randolph REBOUND (Off:1 Def:0),,
+0020900204,140,6,1,1,9:10 PM,0:25,Humphries P.FOUL (P1.PN),,,,
+0020900204,141,3,11,1,9:10 PM,0:25,,,Randolph Free Throw 1 of 2 (3 PTS),25 - 27,2
+0020900204,143,3,12,1,9:10 PM,0:25,,,MISS Randolph Free Throw 2 of 2,,
+0020900204,145,4,0,1,9:10 PM,0:24,Humphries REBOUND (Off:0 Def:1),,,,
+0020900204,146,2,1,1,9:11 PM,0:00,MISS Barea 25' 3PT Jump Shot,,,,
+0020900204,147,4,0,1,9:11 PM,0:00,,,Randolph REBOUND (Off:1 Def:1),,
+0020900204,148,13,0,1,9:11 PM,0:00,,,,25 - 27,2
+0020900204,150,12,0,2,9:13 PM,12:00,,,,25 - 27,2
+0020900204,151,5,2,2,9:14 PM,11:47,Thomas Lost Ball Turnover (P1.T6),,Radmanovic STEAL (2 STL),,
+0020900204,152,2,77,2,9:14 PM,11:36,,,MISS Randolph 5' Driving Jump Shot,,
+0020900204,153,4,0,2,9:14 PM,11:35,Nowitzki REBOUND (Off:1 Def:2),,,,
+0020900204,154,6,2,2,9:14 PM,11:23,,,Randolph S.FOUL (P2.T1),,
+0020900204,155,3,11,2,9:15 PM,11:23,Nowitzki Free Throw 1 of 2 (6 PTS),,,25 - 28,3
+0020900204,157,8,0,2,9:15 PM,11:23,,,SUB: Curry FOR Moore,,
+0020900204,158,3,12,2,9:15 PM,11:23,MISS Nowitzki Free Throw 2 of 2,,,,
+0020900204,160,4,0,2,9:15 PM,11:22,,,Randolph REBOUND (Off:1 Def:2),,
+0020900204,161,6,1,2,9:15 PM,11:12,Humphries P.FOUL (P2.T1),,,,
+0020900204,162,1,1,2,9:16 PM,11:02,,,Ellis 16' Jump Shot (14 PTS),27 - 28,1
+0020900204,163,6,2,2,9:16 PM,10:47,,,Curry S.FOUL (P1.T2),,
+0020900204,164,3,11,2,9:16 PM,10:47,Terry Free Throw 1 of 2 (1 PTS),,,27 - 29,2
+0020900204,166,3,12,2,9:16 PM,10:47,Terry Free Throw 2 of 2 (2 PTS),,,27 - 30,3
+0020900204,168,1,1,2,9:17 PM,10:28,,,Morrow  3PT Jump Shot (9 PTS) (Ellis 1 AST),30 - 30,TIE
+0020900204,169,2,42,2,9:17 PM,10:08,MISS Terry  Driving Layup,,,,
+0020900204,170,4,0,2,9:17 PM,10:07,,,Morrow REBOUND (Off:0 Def:3),,
+0020900204,171,1,42,2,9:17 PM,10:02,,,Curry  Driving Layup (4 PTS) (Morrow 1 AST),32 - 30,-2
+0020900204,172,1,79,2,9:18 PM,9:38,Nowitzki 16' Pullup Jump Shot (8 PTS),,,32 - 32,TIE
+0020900204,173,6,4,2,9:18 PM,9:22,,,Curry OFF.Foul (P2),,
+0020900204,174,5,5,2,9:18 PM,9:22,,,Curry Foul Turnover (P4.T10),,
+0020900204,175,8,0,2,9:18 PM,9:22,SUB: Ross FOR Thomas,,,,
+0020900204,176,6,2,2,9:19 PM,9:07,,,Radmanovic S.FOUL (P2.T3),,
+0020900204,177,3,11,2,9:19 PM,9:07,Nowitzki Free Throw 1 of 2 (9 PTS),,,32 - 33,1
+0020900204,179,3,12,2,9:19 PM,9:07,Nowitzki Free Throw 2 of 2 (10 PTS),,,32 - 34,2
+0020900204,181,1,50,2,9:20 PM,8:45,,,Randolph  Running Dunk (5 PTS) (Morrow 2 AST),34 - 34,TIE
+0020900204,182,2,42,2,9:20 PM,8:21,MISS Barea  Driving Layup,,,,
+0020900204,184,4,0,2,9:20 PM,8:19,Humphries REBOUND (Off:1 Def:1),,,,
+0020900204,183,2,4,2,9:20 PM,8:19,MISS Humphries  Tip Shot,,,,
+0020900204,185,4,0,2,9:20 PM,8:18,,,Radmanovic REBOUND (Off:1 Def:3),,
+0020900204,186,2,1,2,9:20 PM,8:09,,,MISS Ellis 18' Jump Shot,,
+0020900204,187,4,0,2,9:20 PM,8:08,Nowitzki REBOUND (Off:1 Def:3),,,,
+0020900204,188,2,5,2,9:21 PM,7:56,MISS Ross  Layup,,,,
+0020900204,189,4,0,2,9:21 PM,7:54,,,Radmanovic REBOUND (Off:1 Def:4),,
+0020900204,190,1,50,2,9:21 PM,7:50,,,Radmanovic  Running Dunk (4 PTS) (Ellis 2 AST),36 - 34,-2
+0020900204,191,9,1,2,9:21 PM,7:43,MAVERICKS Timeout: Regular (Full 2 Short 1),,,,
+0020900204,195,1,86,2,9:24 PM,7:30,Nowitzki 9' Turnaround Fadeaway (12 PTS),,,36 - 36,TIE
+0020900204,196,2,1,2,9:24 PM,7:16,,,MISS Curry 17' Jump Shot,,
+0020900204,197,4,0,2,9:24 PM,7:15,Nowitzki REBOUND (Off:1 Def:4),,,,
+0020900204,198,1,1,2,9:24 PM,7:06,Humphries 16' Jump Shot (2 PTS) (Barea 1 AST),,,36 - 38,2
+0020900204,199,2,42,2,9:24 PM,6:52,Humphries BLOCK (1 BLK),,MISS Randolph  Driving Layup,,
+0020900204,200,4,0,2,9:24 PM,6:52,,,Warriors Rebound,,
+0020900204,201,2,1,2,9:25 PM,6:44,,,MISS Radmanovic 18' Jump Shot,,
+0020900204,202,4,0,2,9:25 PM,6:42,,,Morrow REBOUND (Off:1 Def:3),,
+0020900204,203,1,1,2,9:25 PM,6:20,,,Radmanovic  3PT Jump Shot (7 PTS) (Ellis 3 AST),39 - 38,-1
+0020900204,204,6,2,2,9:25 PM,6:07,,,Morrow S.FOUL (P1.T4),,
+0020900204,206,3,11,2,9:26 PM,6:07,Humphries Free Throw 1 of 2 (3 PTS),,,39 - 39,TIE
+0020900204,209,8,0,2,9:26 PM,6:07,SUB: Kidd FOR Barea,,,,
+0020900204,210,3,12,2,9:26 PM,6:07,Humphries Free Throw 2 of 2 (4 PTS),,,39 - 40,1
+0020900204,212,1,47,2,9:27 PM,5:45,,,Randolph 5' Turnaround Jump Shot (7 PTS),41 - 40,-1
+0020900204,213,2,1,2,9:27 PM,5:21,MISS Nowitzki 21' Jump Shot,,,,
+0020900204,214,4,0,2,9:27 PM,5:20,,,Morrow REBOUND (Off:1 Def:4),,
+0020900204,215,2,1,2,9:27 PM,5:11,,,MISS Ellis 19' Jump Shot,,
+0020900204,216,4,0,2,9:27 PM,5:10,Kidd REBOUND (Off:0 Def:4),,,,
+0020900204,217,2,1,2,9:27 PM,4:57,MISS Humphries 15' Jump Shot,,,,
+0020900204,218,4,0,2,9:27 PM,4:56,,,Radmanovic REBOUND (Off:1 Def:5),,
+0020900204,219,5,1,2,9:28 PM,4:53,,,Radmanovic Bad Pass Turnover (P1.T11),,
+0020900204,220,9,4,2,9:28 PM,4:53,,,,,
+0020900204,222,8,0,2,9:30 PM,4:53,SUB: Barea FOR Terry,,,,
+0020900204,223,8,0,2,9:30 PM,4:53,SUB: Gooden FOR Humphries,,,,
+0020900204,225,5,1,2,9:31 PM,4:36,Nowitzki Bad Pass Turnover (P2.T7),,Morrow STEAL (3 STL),,
+0020900204,226,1,1,2,9:31 PM,4:28,,,Curry 25' 3PT Jump Shot (7 PTS) (Morrow 3 AST),44 - 40,-4
+0020900204,227,2,42,2,9:31 PM,4:06,MISS Barea  Driving Layup,,,,
+0020900204,228,4,0,2,9:31 PM,4:05,,,Morrow REBOUND (Off:1 Def:5),,
+0020900204,229,5,2,2,9:31 PM,4:01,Barea STEAL (1 STL),,Morrow Lost Ball Turnover (P2.T12),,
+0020900204,230,6,1,2,9:32 PM,3:52,,,Morrow P.FOUL (P2.PN),,
+0020900204,231,3,11,2,9:32 PM,3:52,MISS Nowitzki Free Throw 1 of 2,,,,
+0020900204,232,4,1,2,9:32 PM,3:52,MAVERICKS Rebound,,,,
+0020900204,233,9,1,2,9:32 PM,3:52,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0020900204,236,3,12,2,9:35 PM,3:52,Nowitzki Free Throw 2 of 2 (13 PTS),,,44 - 41,-3
+0020900204,238,2,1,2,9:35 PM,3:33,,,MISS Ellis 5' Jump Shot,,
+0020900204,239,4,0,2,9:35 PM,3:32,MAVERICKS Rebound,,,,
+0020900204,240,1,1,2,9:35 PM,3:19,Nowitzki 15' Jump Shot (15 PTS) (Kidd 7 AST),,,44 - 43,-1
+0020900204,241,1,1,2,9:36 PM,3:01,,,Morrow 16' Jump Shot (11 PTS) (Curry 1 AST),46 - 43,-3
+0020900204,242,2,1,2,9:36 PM,2:40,MISS Ross  3PT Jump Shot,,,,
+0020900204,243,4,0,2,9:36 PM,2:39,,,Radmanovic REBOUND (Off:1 Def:6),,
+0020900204,244,2,1,2,9:36 PM,2:29,,,MISS Curry 19' Jump Shot,,
+0020900204,245,4,0,2,9:36 PM,2:28,Gooden REBOUND (Off:1 Def:4),,,,
+0020900204,246,1,44,2,9:36 PM,2:18,Gooden  Reverse Layup (8 PTS) (Barea 2 AST),,,46 - 45,-1
+0020900204,247,2,1,2,9:37 PM,1:59,,,MISS Curry  3PT Jump Shot,,
+0020900204,248,4,0,2,9:37 PM,1:58,Nowitzki REBOUND (Off:1 Def:5),,,,
+0020900204,249,6,2,2,9:37 PM,1:46,,,Curry S.FOUL (P3.PN),,
+0020900204,250,8,0,2,9:37 PM,1:46,SUB: Terry FOR Ross,,,,
+0020900204,251,3,11,2,9:37 PM,1:46,Kidd Free Throw 1 of 2 (1 PTS),,,46 - 46,TIE
+0020900204,253,8,0,2,9:38 PM,1:46,,,SUB: Moore FOR Curry,,
+0020900204,254,3,12,2,9:38 PM,1:46,Kidd Free Throw 2 of 2 (2 PTS),,,46 - 47,1
+0020900204,256,2,42,2,9:38 PM,1:34,,,MISS Ellis  Driving Layup,,
+0020900204,257,4,0,2,9:38 PM,1:33,Kidd REBOUND (Off:0 Def:5),,,,
+0020900204,258,1,1,2,9:38 PM,1:23,Kidd 24' 3PT Jump Shot (5 PTS) (Nowitzki 1 AST),,,46 - 50,4
+0020900204,259,2,1,2,9:39 PM,1:01,,,MISS Randolph 18' Jump Shot,,
+0020900204,260,4,0,2,9:39 PM,1:00,Barea REBOUND (Off:0 Def:2),,,,
+0020900204,261,2,1,2,9:39 PM,0:52,MISS Kidd 25' 3PT Jump Shot,,,,
+0020900204,262,4,0,2,9:39 PM,0:51,Nowitzki REBOUND (Off:2 Def:5),,,,
+0020900204,263,5,2,2,9:39 PM,0:47,Nowitzki Lost Ball Turnover (P3.T8),,Ellis STEAL (1 STL),,
+0020900204,264,1,75,2,9:39 PM,0:43,,,Radmanovic  Driving Finger Roll Layup (9 PTS) (Morrow 4 AST),48 - 50,2
+0020900204,265,6,1,2,9:40 PM,0:43,,,Moore P.FOUL (P2.PN),,
+0020900204,266,3,11,2,9:40 PM,0:43,Nowitzki Free Throw 1 of 2 (16 PTS),,,48 - 51,3
+0020900204,268,3,12,2,9:40 PM,0:43,Nowitzki Free Throw 2 of 2 (17 PTS),,,48 - 52,4
+0020900204,270,1,47,2,9:41 PM,0:30,,,Morrow 13' Turnaround Jump Shot (13 PTS) (Ellis 4 AST),50 - 52,2
+0020900204,271,2,80,2,9:41 PM,0:07,MISS Nowitzki 11' Step Back Jump Shot,,,,
+0020900204,273,4,0,2,9:41 PM,0:07,Gooden REBOUND (Off:2 Def:4),,,,
+0020900204,272,1,4,2,9:41 PM,0:07,Gooden  Tip Shot (10 PTS),,,50 - 54,4
+0020900204,274,2,1,2,9:41 PM,0:00,,,MISS Morrow 19' Jump Shot,,
+0020900204,276,4,0,2,9:41 PM,0:00,,,Randolph REBOUND (Off:2 Def:2),,
+0020900204,275,2,4,2,9:41 PM,0:00,,,MISS Randolph  Tip Shot,,
+0020900204,278,4,0,2,9:41 PM,0:00,,,Moore REBOUND (Off:2 Def:3),,
+0020900204,277,2,4,2,9:41 PM,0:00,,,MISS Moore  Tip Shot,,
+0020900204,279,4,0,2,9:41 PM,0:00,,,Warriors Rebound,,
+0020900204,280,13,0,2,9:41 PM,0:00,,,,50 - 54,4
+0020900204,282,12,0,3,9:59 PM,12:00,,,,50 - 54,4
+0020900204,283,5,1,3,10:00 PM,11:38,Kidd Bad Pass Turnover (P2.T9),,Ellis STEAL (2 STL),,
+0020900204,284,5,1,3,10:00 PM,11:32,Terry STEAL (3 STL),,Ellis Bad Pass Turnover (P4.T13),,
+0020900204,285,2,5,3,10:00 PM,11:27,MISS Gooden  Layup,,,,
+0020900204,286,4,0,3,10:00 PM,11:26,,,Radmanovic REBOUND (Off:1 Def:7),,
+0020900204,287,1,1,3,10:00 PM,11:19,,,Radmanovic 24' 3PT Jump Shot (12 PTS) (Curry 2 AST),53 - 54,1
+0020900204,288,1,56,3,10:00 PM,11:04,Gooden 8' Running Hook Shot (12 PTS) (Kidd 8 AST),,,53 - 56,3
+0020900204,289,2,1,3,10:01 PM,10:48,Beaubois BLOCK (1 BLK),,MISS Ellis 6' Jump Shot,,
+0020900204,290,4,0,3,10:01 PM,10:47,Kidd REBOUND (Off:0 Def:6),,,,
+0020900204,291,2,3,3,10:01 PM,10:31,MISS Gooden 12' Hook Shot,,,,
+0020900204,292,4,0,3,10:01 PM,10:30,,,Curry REBOUND (Off:0 Def:3),,
+0020900204,293,2,1,3,10:01 PM,10:20,,,MISS Moore 21' Jump Shot,,
+0020900204,294,4,0,3,10:01 PM,10:19,,,Curry REBOUND (Off:1 Def:3),,
+0020900204,295,1,5,3,10:01 PM,10:16,,,Radmanovic  Layup (14 PTS) (Curry 3 AST),55 - 56,1
+0020900204,296,5,1,3,10:01 PM,9:59,Terry Bad Pass Turnover (P2.T10),,Ellis STEAL (3 STL),,
+0020900204,297,1,42,3,10:02 PM,9:55,,,Moore  Driving Layup (2 PTS) (Morrow 5 AST),57 - 56,-1
+0020900204,298,6,2,3,10:02 PM,9:55,Gooden S.FOUL (P2.T1),,,,
+0020900204,299,3,10,3,10:02 PM,9:55,,,MISS Moore Free Throw 1 of 1,,
+0020900204,301,4,0,3,10:02 PM,9:54,Nowitzki REBOUND (Off:2 Def:6),,,,
+0020900204,302,5,1,3,10:02 PM,9:38,Terry Bad Pass Turnover (P3.T11),,Radmanovic STEAL (3 STL),,
+0020900204,303,2,5,3,10:02 PM,9:32,,,MISS Ellis  Layup,,
+0020900204,304,4,0,3,10:02 PM,9:30,Gooden REBOUND (Off:2 Def:5),,,,
+0020900204,305,1,44,3,10:02 PM,9:22,Beaubois  Reverse Layup (8 PTS),,,57 - 58,1
+0020900204,306,5,4,3,10:03 PM,9:01,,,Ellis Traveling Turnover (P5.T14),,
+0020900204,307,1,1,3,10:03 PM,8:49,Nowitzki 19' Jump Shot (19 PTS) (Beaubois 1 AST),,,57 - 60,3
+0020900204,308,1,75,3,10:04 PM,8:25,,,Ellis  Driving Finger Roll Layup (16 PTS),59 - 60,1
+0020900204,309,2,42,3,10:04 PM,8:13,MISS Beaubois  Driving Layup,,,,
+0020900204,310,4,0,3,10:04 PM,8:11,,,Radmanovic REBOUND (Off:1 Def:8),,
+0020900204,311,1,1,3,10:04 PM,8:04,,,Morrow 24' 3PT Jump Shot (16 PTS) (Ellis 5 AST),62 - 60,-2
+0020900204,312,2,1,3,10:05 PM,7:42,MISS Kidd 12' Jump Shot,,,,
+0020900204,313,4,0,3,10:05 PM,7:41,,,Moore REBOUND (Off:2 Def:4),,
+0020900204,314,1,1,3,10:05 PM,7:32,,,Morrow  3PT Jump Shot (19 PTS) (Ellis 6 AST),65 - 60,-5
+0020900204,316,9,1,3,10:05 PM,7:30,MAVERICKS Timeout: Regular (Full 3 Short 1),,,,
+0020900204,319,1,1,3,10:08 PM,7:16,Terry 19' Jump Shot (4 PTS) (Nowitzki 2 AST),,,65 - 62,-3
+0020900204,320,2,46,3,10:08 PM,7:00,Nowitzki BLOCK (1 BLK),,MISS Moore 4' Running Jump Shot,,
+0020900204,321,4,0,3,10:08 PM,7:00,,,Warriors Rebound,,
+0020900204,322,2,47,3,10:09 PM,6:51,,,MISS Moore 7' Turnaround Jump Shot,,
+0020900204,323,4,0,3,10:09 PM,6:51,Kidd REBOUND (Off:0 Def:7),,,,
+0020900204,324,6,3,3,10:09 PM,6:51,,,Morrow L.B.FOUL (P3.T1),,
+0020900204,325,1,75,3,10:09 PM,6:36,Terry  Driving Finger Roll Layup (6 PTS),,,65 - 64,-1
+0020900204,326,1,42,3,10:09 PM,6:23,,,Ellis  Driving Layup (18 PTS),67 - 64,-3
+0020900204,327,6,2,3,10:09 PM,6:23,Nowitzki S.FOUL (P2.T2),,,,
+0020900204,328,3,10,3,10:10 PM,6:23,,,MISS Ellis Free Throw 1 of 1,,
+0020900204,330,4,0,3,10:10 PM,6:22,Nowitzki REBOUND (Off:2 Def:7),,,,
+0020900204,331,2,1,3,10:10 PM,6:02,MISS Beaubois 24' 3PT Jump Shot,,,,
+0020900204,332,4,0,3,10:10 PM,6:01,,,Moore REBOUND (Off:2 Def:5),,
+0020900204,333,1,82,3,10:10 PM,5:51,,,Ellis 4' Driving Bank Shot (20 PTS),69 - 64,-5
+0020900204,334,6,2,3,10:10 PM,5:51,Beaubois S.FOUL (P2.T3),,,,
+0020900204,335,3,10,3,10:11 PM,5:51,,,Ellis Free Throw 1 of 1 (21 PTS),70 - 64,-6
+0020900204,337,1,63,3,10:11 PM,5:30,Nowitzki 18' Fadeaway Jumper (21 PTS),,,70 - 66,-4
+0020900204,338,1,1,3,10:11 PM,5:14,,,Morrow 24' 3PT Jump Shot (22 PTS) (Curry 4 AST),73 - 66,-7
+0020900204,339,1,1,3,10:12 PM,4:54,Terry 16' Jump Shot (8 PTS) (Kidd 9 AST),,,73 - 68,-5
+0020900204,340,5,2,3,10:12 PM,4:39,Nowitzki STEAL (2 STL),,Ellis Lost Ball Turnover (P6.T15),,
+0020900204,341,5,1,3,10:12 PM,4:30,Kidd Bad Pass Turnover (P3.T12),,Curry STEAL (2 STL),,
+0020900204,342,2,1,3,10:12 PM,4:19,,,MISS Radmanovic 24' 3PT Jump Shot,,
+0020900204,343,4,0,3,10:12 PM,4:18,Beaubois REBOUND (Off:1 Def:1),,,,
+0020900204,344,5,2,3,10:12 PM,4:14,Nowitzki Lost Ball Turnover (P4.T13),,Curry STEAL (3 STL),,
+0020900204,345,5,4,3,10:13 PM,4:10,,,Radmanovic Traveling Turnover (P2.T16),,
+0020900204,346,1,86,3,10:13 PM,3:53,Nowitzki 13' Turnaround Fadeaway (23 PTS),,,73 - 70,-3
+0020900204,347,9,1,3,10:13 PM,3:46,,,Warriors Timeout: Regular (Reg.3 Short 0),,
+0020900204,349,8,0,3,10:16 PM,3:46,SUB: Barea FOR Beaubois,,,,
+0020900204,351,5,2,3,10:16 PM,3:36,Terry STEAL (4 STL),,Ellis Lost Ball Turnover (P7.T17),,
+0020900204,352,1,1,3,10:16 PM,3:25,Nowitzki 18' Jump Shot (25 PTS) (Terry 1 AST),,,73 - 72,-1
+0020900204,353,2,1,3,10:17 PM,3:12,,,MISS Ellis 18' Jump Shot,,
+0020900204,354,4,0,3,10:17 PM,3:11,Gooden REBOUND (Off:2 Def:6),,,,
+0020900204,355,1,79,3,10:17 PM,3:05,Terry 17' Pullup Jump Shot (10 PTS) (Kidd 10 AST),,,73 - 74,1
+0020900204,356,2,1,3,10:17 PM,2:37,,,MISS Morrow 19' Jump Shot,,
+0020900204,357,4,0,3,10:17 PM,2:36,Kidd REBOUND (Off:0 Def:8),,,,
+0020900204,358,6,11,3,10:17 PM,2:35,,,,,
+0020900204,359,3,16,3,10:18 PM,2:35,Nowitzki Free Throw Technical (26 PTS),,,73 - 75,2
+0020900204,361,1,5,3,10:18 PM,2:23,Gooden  Layup (14 PTS) (Nowitzki 3 AST),,,73 - 77,4
+0020900204,362,2,1,3,10:18 PM,2:06,,,MISS Curry 18' Jump Shot,,
+0020900204,363,4,0,3,10:18 PM,2:05,Kidd REBOUND (Off:0 Def:9),,,,
+0020900204,364,1,42,3,10:18 PM,2:02,Barea  Driving Layup (2 PTS) (Kidd 11 AST),,,73 - 79,6
+0020900204,365,6,2,3,10:18 PM,2:02,,,Curry S.FOUL (P4.T2),,
+0020900204,366,8,0,3,10:19 PM,2:02,,,SUB: Randolph FOR Curry,,
+0020900204,367,3,10,3,10:19 PM,2:02,Barea Free Throw 1 of 1 (3 PTS),,,73 - 80,7
+0020900204,369,2,1,3,10:20 PM,1:41,Gooden BLOCK (2 BLK),,MISS Radmanovic 17' Jump Shot,,
+0020900204,370,4,0,3,10:20 PM,1:41,,,Warriors Rebound,,
+0020900204,371,2,1,3,10:20 PM,1:36,,,MISS Randolph 19' Jump Shot,,
+0020900204,372,4,0,3,10:20 PM,1:36,,,Moore REBOUND (Off:3 Def:5),,
+0020900204,373,2,1,3,10:21 PM,1:26,,,MISS Ellis 16' Jump Shot,,
+0020900204,375,4,0,3,10:21 PM,1:24,,,Moore REBOUND (Off:4 Def:5),,
+0020900204,374,1,4,3,10:21 PM,1:24,,,Moore  Tip Shot (4 PTS),75 - 80,5
+0020900204,376,2,1,3,10:21 PM,1:04,MISS Barea  3PT Jump Shot,,,,
+0020900204,377,4,0,3,10:21 PM,1:03,,,Moore REBOUND (Off:4 Def:6),,
+0020900204,378,2,77,3,10:21 PM,0:56,,,MISS Ellis 11' Driving Jump Shot,,
+0020900204,379,4,0,3,10:21 PM,0:56,Gooden REBOUND (Off:2 Def:7),,,,
+0020900204,380,6,3,3,10:22 PM,0:56,,,Randolph L.B.FOUL (P3.T3),,
+0020900204,381,2,1,3,10:22 PM,0:42,MISS Terry 11' Jump Shot,,,,
+0020900204,382,4,0,3,10:22 PM,0:40,,,Moore REBOUND (Off:4 Def:7),,
+0020900204,383,2,1,3,10:22 PM,0:29,,,MISS Randolph 6' Jump Shot,,
+0020900204,384,4,0,3,10:22 PM,0:28,Gooden REBOUND (Off:2 Def:8),,,,
+0020900204,385,6,1,3,10:23 PM,0:13,,,Moore P.FOUL (P3.PN),,
+0020900204,386,3,11,3,10:23 PM,0:13,Nowitzki Free Throw 1 of 2 (27 PTS),,,75 - 81,6
+0020900204,388,8,0,3,10:23 PM,0:13,SUB: Beaubois FOR Kidd,,,,
+0020900204,389,8,0,3,10:23 PM,0:13,,,SUB: Curry FOR Moore,,
+0020900204,390,3,12,3,10:23 PM,0:13,Nowitzki Free Throw 2 of 2 (28 PTS),,,75 - 82,7
+0020900204,392,1,75,3,10:24 PM,0:07,,,Ellis  Driving Finger Roll Layup (23 PTS),77 - 82,5
+0020900204,393,6,2,3,10:24 PM,0:07,Gooden S.FOUL (P3.T4),,,,
+0020900204,394,8,0,3,10:24 PM,0:07,,,SUB: Moore FOR Curry,,
+0020900204,395,8,0,3,10:24 PM,0:07,SUB: Thomas FOR Gooden,,,,
+0020900204,396,3,10,3,10:24 PM,0:07,,,Ellis Free Throw 1 of 1 (24 PTS),78 - 82,4
+0020900204,398,2,42,3,10:24 PM,0:02,MISS Beaubois  Driving Layup,,,,
+0020900204,399,4,0,3,10:24 PM,0:01,,,Randolph REBOUND (Off:2 Def:3),,
+0020900204,400,2,46,3,10:25 PM,0:00,,,MISS Randolph 69' 3PT Running Jump Shot,,
+0020900204,401,4,0,3,10:25 PM,0:00,,,Warriors Rebound,,
+0020900204,402,13,0,3,10:25 PM,0:00,,,,78 - 82,4
+0020900204,405,12,0,4,10:28 PM,12:00,,,,78 - 82,4
+0020900204,406,2,46,4,10:28 PM,11:46,,,MISS Morrow 12' Running Jump Shot,,
+0020900204,407,4,0,4,10:28 PM,11:44,,,Ellis REBOUND (Off:1 Def:1),,
+0020900204,408,1,42,4,10:28 PM,11:30,,,Ellis  Driving Layup (26 PTS),80 - 82,2
+0020900204,409,5,2,4,10:29 PM,11:07,Barea Lost Ball Turnover (P1.T14),,Ellis STEAL (4 STL),,
+0020900204,410,1,77,4,10:29 PM,11:01,,,Ellis 8' Driving Jump Shot (28 PTS),82 - 82,TIE
+0020900204,411,6,2,4,10:29 PM,11:01,Barea S.FOUL (P1.T1),,,,
+0020900204,412,3,10,4,10:29 PM,11:01,,,Ellis Free Throw 1 of 1 (29 PTS),83 - 82,-1
+0020900204,414,1,1,4,10:30 PM,10:45,Barea 24' 3PT Jump Shot (6 PTS) (Terry 2 AST),,,83 - 85,2
+0020900204,415,5,1,4,10:30 PM,10:35,,,Ellis Bad Pass Turnover (P8.T18),,
+0020900204,416,2,1,4,10:30 PM,10:28,MISS Terry 24' 3PT Jump Shot,,,,
+0020900204,417,4,0,4,10:30 PM,10:28,Humphries REBOUND (Off:2 Def:1),,,,
+0020900204,418,6,3,4,10:30 PM,10:28,,,Radmanovic L.B.FOUL (P3.T1),,
+0020900204,419,1,1,4,10:31 PM,10:15,Thomas 25' 3PT Jump Shot (9 PTS) (Terry 3 AST),,,83 - 88,5
+0020900204,420,1,1,4,10:31 PM,10:00,,,Moore 4' Jump Shot (6 PTS) (Ellis 7 AST),85 - 88,3
+0020900204,421,1,50,4,10:31 PM,9:38,Humphries  Running Dunk (6 PTS) (Barea 3 AST),,,85 - 90,5
+0020900204,422,2,1,4,10:32 PM,9:20,,,MISS Radmanovic 23' Jump Shot,,
+0020900204,423,4,0,4,10:32 PM,9:19,Thomas REBOUND (Off:0 Def:1),,,,
+0020900204,424,1,1,4,10:32 PM,9:14,Terry 16' Jump Shot (12 PTS) (Kidd 12 AST),,,85 - 92,7
+0020900204,425,6,2,4,10:32 PM,8:51,Barea S.FOUL (P2.T2),,,,
+0020900204,426,9,4,4,10:32 PM,8:51,,,,,
+0020900204,429,8,0,4,10:35 PM,8:51,SUB: Nowitzki FOR Kidd,,,,
+0020900204,431,3,11,4,10:35 PM,8:51,,,Ellis Free Throw 1 of 2 (30 PTS),86 - 92,6
+0020900204,433,3,12,4,10:36 PM,8:51,,,Ellis Free Throw 2 of 2 (31 PTS),87 - 92,5
+0020900204,435,5,2,4,10:36 PM,8:33,Thomas Lost Ball Turnover (P2.T15),,Randolph STEAL (1 STL),,
+0020900204,436,5,2,4,10:36 PM,8:19,Thomas STEAL (1 STL),,Ellis Lost Ball Turnover (P9.T19),,
+0020900204,437,2,42,4,10:36 PM,8:14,MISS Terry  Driving Layup,,Moore BLOCK (1 BLK),,
+0020900204,438,4,0,4,10:36 PM,8:11,,,Radmanovic REBOUND (Off:1 Def:9),,
+0020900204,439,6,1,4,10:37 PM,8:00,Thomas P.FOUL (P2.T3),,,,
+0020900204,440,2,77,4,10:37 PM,7:54,,,MISS Ellis 8' Driving Jump Shot,,
+0020900204,441,4,0,4,10:37 PM,7:53,Barea REBOUND (Off:0 Def:3),,,,
+0020900204,442,1,78,4,10:37 PM,7:48,Terry 14' Floating Jump Shot (14 PTS) (Humphries 1 AST),,,87 - 94,7
+0020900204,443,6,4,4,10:37 PM,7:30,,,Ellis OFF.Foul (P3),,
+0020900204,444,5,5,4,10:37 PM,7:30,,,Ellis Foul Turnover (P10.T20),,
+0020900204,445,8,0,4,10:38 PM,7:30,,,SUB: Curry FOR Moore,,
+0020900204,446,1,73,4,10:38 PM,7:18,Barea  Driving Reverse Layup (8 PTS),,,87 - 96,9
+0020900204,447,6,1,4,10:38 PM,7:03,Barea P.FOUL (P3.T4),,,,
+0020900204,448,1,73,4,10:39 PM,6:50,,,Ellis  Driving Reverse Layup (33 PTS),89 - 96,7
+0020900204,449,6,4,4,10:39 PM,6:39,Nowitzki OFF.Foul (P3),,,,
+0020900204,450,5,5,4,10:39 PM,6:39,Nowitzki Foul Turnover (P5.T16),,,,
+0020900204,451,9,1,4,10:39 PM,6:39,,,Warriors Timeout: Regular (Reg.4 Short 0),,
+0020900204,455,2,1,4,10:42 PM,6:25,,,MISS Radmanovic 24' 3PT Jump Shot,,
+0020900204,456,4,0,4,10:42 PM,6:24,Nowitzki REBOUND (Off:2 Def:8),,,,
+0020900204,457,1,1,4,10:42 PM,6:09,Terry 14' Jump Shot (16 PTS) (Barea 4 AST),,,89 - 98,9
+0020900204,458,1,1,4,10:42 PM,6:00,,,Morrow 24' 3PT Jump Shot (25 PTS) (Curry 5 AST),92 - 98,6
+0020900204,459,2,1,4,10:43 PM,5:41,MISS Nowitzki 18' Jump Shot,,,,
+0020900204,460,4,0,4,10:43 PM,5:41,,,Morrow REBOUND (Off:1 Def:6),,
+0020900204,461,6,3,4,10:43 PM,5:41,Humphries L.B.FOUL (P3.PN),,,,
+0020900204,462,8,0,4,10:43 PM,5:41,SUB: Gooden FOR Humphries,,,,
+0020900204,464,3,11,4,10:43 PM,5:41,,,Morrow Free Throw 1 of 2 (26 PTS),93 - 98,5
+0020900204,466,3,12,4,10:43 PM,5:41,,,Morrow Free Throw 2 of 2 (27 PTS),94 - 98,4
+0020900204,468,2,1,4,10:44 PM,5:25,MISS Terry 20' Jump Shot,,,,
+0020900204,469,4,0,4,10:44 PM,5:24,Gooden REBOUND (Off:3 Def:8),,,,
+0020900204,470,2,1,4,10:44 PM,5:14,MISS Barea 9' Jump Shot,,,,
+0020900204,471,4,0,4,10:44 PM,5:13,,,Morrow REBOUND (Off:1 Def:7),,
+0020900204,472,1,52,4,10:44 PM,5:07,,,Randolph  Alley Oop Dunk (9 PTS) (Curry 6 AST),96 - 98,2
+0020900204,474,9,1,4,10:44 PM,5:06,MAVERICKS Timeout: Regular (Full 4 Short 1),,,,
+0020900204,475,8,0,4,10:46 PM,5:06,SUB: Kidd FOR Thomas,,,,
+0020900204,477,2,1,4,10:47 PM,4:53,MISS Nowitzki 15' Jump Shot,,,,
+0020900204,478,4,0,4,10:47 PM,4:52,Gooden REBOUND (Off:4 Def:8),,,,
+0020900204,479,6,1,4,10:47 PM,4:41,,,Curry P.FOUL (P5.T2),,
+0020900204,480,2,77,4,10:48 PM,4:29,MISS Nowitzki 4' Driving Jump Shot,,Randolph BLOCK (1 BLK),,
+0020900204,481,4,0,4,10:48 PM,4:27,,,Radmanovic REBOUND (Off:1 Def:10),,
+0020900204,482,5,2,4,10:48 PM,4:22,Kidd STEAL (1 STL),,Ellis Lost Ball Turnover (P11.T21),,
+0020900204,483,2,79,4,10:48 PM,4:08,MISS Terry 8' Pullup Jump Shot,,,,
+0020900204,484,4,0,4,10:48 PM,4:07,,,Radmanovic REBOUND (Off:1 Def:11),,
+0020900204,485,2,5,4,10:48 PM,4:01,Gooden BLOCK (3 BLK),,MISS Curry  Layup,,
+0020900204,486,4,0,4,10:48 PM,4:01,,,Warriors Rebound,,
+0020900204,487,1,1,4,10:49 PM,3:51,,,Curry 19' Jump Shot (9 PTS),98 - 98,TIE
+0020900204,488,2,1,4,10:50 PM,3:30,MISS Terry 15' Jump Shot,,,,
+0020900204,489,4,0,4,10:50 PM,3:29,,,Morrow REBOUND (Off:1 Def:8),,
+0020900204,490,2,1,4,10:50 PM,3:16,,,MISS Radmanovic  3PT Jump Shot,,
+0020900204,491,4,0,4,10:50 PM,3:15,Kidd REBOUND (Off:0 Def:10),,,,
+0020900204,492,6,1,4,10:50 PM,3:10,,,Radmanovic P.FOUL (P4.T3),,
+0020900204,493,1,42,4,10:50 PM,3:07,Terry  Driving Layup (18 PTS) (Kidd 13 AST),,,98 - 100,2
+0020900204,494,6,1,4,10:51 PM,2:51,Barea P.FOUL (P4.PN),,,,
+0020900204,495,3,11,4,10:51 PM,2:51,,,Curry Free Throw 1 of 2 (10 PTS),99 - 100,1
+0020900204,497,3,12,4,10:51 PM,2:51,,,Curry Free Throw 2 of 2 (11 PTS),100 - 100,TIE
+0020900204,499,2,1,4,10:52 PM,2:29,MISS Terry 21' Jump Shot,,,,
+0020900204,500,4,0,4,10:52 PM,2:28,,,Ellis REBOUND (Off:1 Def:2),,
+0020900204,501,1,1,4,10:52 PM,2:21,,,Curry 24' 3PT Jump Shot (14 PTS) (Ellis 8 AST),103 - 100,-3
+0020900204,503,9,1,4,10:52 PM,2:20,MAVERICKS Timeout: Regular (Full 5 Short 1),,,,
+0020900204,506,2,1,4,10:54 PM,2:02,MISS Barea 24' 3PT Jump Shot,,,,
+0020900204,507,4,0,4,10:54 PM,2:01,,,Ellis REBOUND (Off:1 Def:3),,
+0020900204,508,1,42,4,10:54 PM,1:49,,,Ellis  Driving Layup (35 PTS),105 - 100,-5
+0020900204,509,6,1,4,10:54 PM,1:38,,,Radmanovic P.FOUL (P5.T4),,
+0020900204,510,1,1,4,10:55 PM,1:24,Terry 24' 3PT Jump Shot (21 PTS) (Barea 5 AST),,,105 - 103,-2
+0020900204,511,1,46,4,10:55 PM,1:08,,,Curry 9' Running Jump Shot (16 PTS),107 - 103,-4
+0020900204,512,5,2,4,10:56 PM,0:51,Terry Lost Ball Turnover (P4.T17),,Radmanovic STEAL (4 STL),,
+0020900204,514,1,5,4,10:56 PM,0:28,,,Ellis  Layup (37 PTS),109 - 103,-6
+0020900204,516,9,1,4,10:56 PM,0:28,MAVERICKS Timeout: Regular (Full 6 Short 1),,,,
+0020900204,519,2,1,4,10:58 PM,0:25,MISS Terry 24' 3PT Jump Shot,,,,
+0020900204,520,4,0,4,10:58 PM,0:24,,,Randolph REBOUND (Off:2 Def:4),,
+0020900204,521,6,1,4,10:58 PM,0:22,Barea P.FOUL (P5.PN),,,,
+0020900204,522,3,11,4,10:59 PM,0:22,,,Curry Free Throw 1 of 2 (17 PTS),110 - 103,-7
+0020900204,525,3,12,4,10:59 PM,0:22,,,Curry Free Throw 2 of 2 (18 PTS),111 - 103,-8
+0020900204,527,5,40,4,10:59 PM,0:18,Barea Out of Bounds Lost Ball Turnover (P2.T18),,,,
+0020900204,529,13,0,4,10:59 PM,0:00,,,,111 - 103,-8

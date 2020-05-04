@@ -1,0 +1,435 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029900651,0,12,0,1,12:40 PM,12:00,,,,,
+0029900651,1,10,0,1,1:12 PM,12:00,Jump Ball Polynice vs. Johnson: Tip to Cassell,,,,
+0029900651,2,2,1,1,1:13 PM,11:46,Hornacek BLOCK (1 BLK),,MISS Allen 13' Jump Shot,,
+0029900651,3,4,0,1,1:13 PM,11:43,Stockton REBOUND (Off:0 Def:1),,,,
+0029900651,4,6,2,1,1:13 PM,11:31,,,Johnson S.FOUL (P1.T1),,
+0029900651,5,3,11,1,1:13 PM,11:31,Malone Free Throw 1 of 2 (1 PTS),,,0 - 1,1
+0029900651,6,3,12,1,1:13 PM,11:31,Malone Free Throw 2 of 2 (2 PTS),,,0 - 2,2
+0029900651,7,6,2,1,1:14 PM,11:20,Stockton S.FOUL (P1.T1),,,,
+0029900651,8,3,11,1,1:14 PM,11:20,,,Cassell Free Throw 1 of 2 (1 PTS),1 - 2,1
+0029900651,9,3,12,1,1:14 PM,11:20,,,Cassell Free Throw 2 of 2 (2 PTS),2 - 2,TIE
+0029900651,10,2,6,1,1:15 PM,11:06,MISS Russell  Driving Layup,,,,
+0029900651,11,4,0,1,1:15 PM,11:04,,,Johnson REBOUND (Off:0 Def:1),,
+0029900651,12,1,6,1,1:15 PM,10:58,,,Allen  Driving Layup (2 PTS),4 - 2,-2
+0029900651,13,1,3,1,1:15 PM,10:37,Polynice 8' Hook Shot (2 PTS) (Russell 1 AST),,,4 - 4,TIE
+0029900651,14,5,2,1,1:16 PM,10:19,Hornacek STEAL (1 STL),,Allen Lost Ball Turnover (P1.T1),,
+0029900651,15,2,5,1,1:16 PM,10:12,MISS Russell  Layup,,,,
+0029900651,16,4,0,1,1:16 PM,10:10,,,Williams REBOUND (Off:0 Def:1),,
+0029900651,17,6,1,1,1:16 PM,9:58,Russell P.FOUL (P1.T2),,,,
+0029900651,18,1,1,1,1:16 PM,9:51,,,Robinson 18' Jump Shot (2 PTS) (Cassell 1 AST),6 - 4,-2
+0029900651,19,6,1,1,1:17 PM,9:40,,,Robinson P.FOUL (P1.T2),,
+0029900651,20,5,1,1,1:17 PM,9:34,Malone Bad Pass Turnover (P1.T1),,,,
+0029900651,21,6,1,1,1:17 PM,9:26,Polynice P.FOUL (P1.T3),,,,
+0029900651,22,5,2,1,1:18 PM,9:13,Hornacek STEAL (2 STL),,Allen Lost Ball Turnover (P2.T2),,
+0029900651,23,1,6,1,1:18 PM,9:08,Stockton  Driving Layup (2 PTS),,,6 - 6,TIE
+0029900651,24,2,1,1,1:18 PM,9:01,,,MISS Cassell 20' Jump Shot,,
+0029900651,25,4,0,1,1:18 PM,8:58,Malone REBOUND (Off:0 Def:1),,,,
+0029900651,26,2,1,1,1:18 PM,8:50,MISS Russell 22' Jump Shot,,,,
+0029900651,27,4,0,1,1:18 PM,8:47,,,Robinson REBOUND (Off:0 Def:1),,
+0029900651,28,2,1,1,1:18 PM,8:39,,,MISS Robinson 19' Jump Shot,,
+0029900651,29,4,0,1,1:18 PM,8:36,,,Johnson REBOUND (Off:1 Def:1),,
+0029900651,30,5,1,1,1:18 PM,8:32,,,Cassell Bad Pass Turnover (P1.T3),,
+0029900651,31,6,1,1,1:19 PM,8:24,,,Williams P.FOUL (P1.T3),,
+0029900651,32,1,1,1,1:19 PM,8:18,Hornacek 19' Jump Shot (2 PTS) (Malone 1 AST),,,6 - 8,2
+0029900651,33,2,1,1,1:19 PM,7:59,,,MISS Allen 20' Jump Shot,,
+0029900651,34,4,0,1,1:19 PM,7:57,,,Johnson REBOUND (Off:2 Def:1),,
+0029900651,35,5,4,1,1:19 PM,7:56,,,Johnson Traveling Turnover (P1.T4),,
+0029900651,36,5,2,1,1:20 PM,7:40,Polynice Lost Ball Turnover (P1.T2),,Cassell STEAL (1 STL),,
+0029900651,37,5,2,1,1:20 PM,7:31,Stockton STEAL (1 STL),,Robinson Lost Ball Turnover (P1.T5),,
+0029900651,38,5,1,1,1:20 PM,7:25,Malone Bad Pass Turnover (P2.T3),,Williams STEAL (1 STL),,
+0029900651,39,9,1,1,1:20 PM,7:18,,,Bucks Timeout: Regular (Reg.1 Short 0),,
+0029900651,41,1,1,1,1:23 PM,7:10,,,Cassell 16' Jump Shot (4 PTS),8 - 8,TIE
+0029900651,42,1,1,1,1:23 PM,6:57,Hornacek 21' Jump Shot (4 PTS) (Stockton 1 AST),,,8 - 10,2
+0029900651,43,1,1,1,1:23 PM,6:48,,,Allen 24' 3PT Jump Shot (5 PTS) (Cassell 2 AST),11 - 10,-1
+0029900651,45,5,1,1,1:24 PM,6:30,Stockton Bad Pass Turnover (P1.T4),,Johnson STEAL (1 STL),,
+0029900651,46,2,1,1,1:24 PM,6:19,Polynice BLOCK (1 BLK),,MISS Cassell 9' Jump Shot,,
+0029900651,47,4,0,1,1:25 PM,6:17,Russell REBOUND (Off:0 Def:1),,,,
+0029900651,48,1,5,1,1:25 PM,6:08,Malone  Layup (4 PTS) (Hornacek 1 AST),,,11 - 12,1
+0029900651,49,2,1,1,1:25 PM,5:53,Malone BLOCK (1 BLK),,MISS Johnson 5' Jump Shot,,
+0029900651,51,4,0,1,1:25 PM,5:50,,,Allen REBOUND (Off:1 Def:0),,
+0029900651,50,1,1,1,1:25 PM,5:50,,,Allen 15' Jump Shot (7 PTS),13 - 12,-1
+0029900651,52,2,1,1,1:25 PM,5:30,MISS Hornacek 19' Jump Shot,,,,
+0029900651,53,4,0,1,1:25 PM,5:28,,,Johnson REBOUND (Off:2 Def:2),,
+0029900651,54,1,1,1,1:25 PM,5:21,,,Robinson 12' Jump Shot (4 PTS),15 - 12,-3
+0029900651,55,8,0,1,1:26 PM,5:09,SUB: Eisley FOR Stockton,,,,
+0029900651,56,1,1,1,1:26 PM,5:01,Eisley 21' Jump Shot (2 PTS) (Malone 2 AST),,,15 - 14,-1
+0029900651,57,2,1,1,1:26 PM,4:50,,,MISS Robinson 18' Jump Shot,,
+0029900651,58,4,0,1,1:26 PM,4:47,,,Johnson REBOUND (Off:3 Def:2),,
+0029900651,59,2,1,1,1:26 PM,4:45,,,MISS Cassell 25' 3PT Jump Shot,,
+0029900651,60,4,0,1,1:26 PM,4:43,Polynice REBOUND (Off:0 Def:1),,,,
+0029900651,61,2,1,1,1:26 PM,4:35,MISS Hornacek 19' Jump Shot,,,,
+0029900651,62,4,0,1,1:26 PM,4:34,,,Williams REBOUND (Off:0 Def:2),,
+0029900651,63,2,1,1,1:27 PM,4:27,,,MISS Cassell 16' Jump Shot,,
+0029900651,64,4,0,1,1:27 PM,4:26,,,Johnson REBOUND (Off:4 Def:2),,
+0029900651,65,6,3,1,1:27 PM,4:26,Malone L.B.FOUL (P1.T4),,,,
+0029900651,66,1,1,1,1:27 PM,4:21,,,Williams 10' Jump Shot (2 PTS) (Robinson 1 AST),17 - 14,-3
+0029900651,67,2,1,1,1:27 PM,3:53,MISS Polynice 11' Jump Shot,,,,
+0029900651,68,4,0,1,1:27 PM,3:50,,,Cassell REBOUND (Off:0 Def:1),,
+0029900651,69,1,5,1,1:28 PM,3:44,,,Williams  Layup (4 PTS) (Cassell 3 AST),19 - 14,-5
+0029900651,70,5,2,1,1:28 PM,3:31,Polynice Lost Ball Turnover (P2.T5),,Cassell STEAL (2 STL),,
+0029900651,71,6,2,1,1:28 PM,3:27,Russell S.FOUL (P2.PN),,,,
+0029900651,72,3,11,1,1:28 PM,3:27,,,Cassell Free Throw 1 of 2 (5 PTS),20 - 14,-6
+0029900651,73,8,0,1,1:28 PM,3:27,SUB: Lewis FOR Russell,,,,
+0029900651,74,8,0,1,1:28 PM,3:27,,,SUB: Del Negro FOR Allen,,
+0029900651,75,3,12,1,1:29 PM,3:27,,,MISS Cassell Free Throw 2 of 2,,
+0029900651,76,4,0,1,1:29 PM,3:23,,,Williams REBOUND (Off:1 Def:2),,
+0029900651,77,1,1,1,1:29 PM,3:15,,,Cassell 15' Jump Shot (7 PTS),22 - 14,-8
+0029900651,78,1,1,1,1:29 PM,2:59,Malone 18' Jump Shot (6 PTS) (Eisley 1 AST),,,22 - 16,-6
+0029900651,79,2,1,1,1:29 PM,2:48,,,MISS Cassell 17' Jump Shot,,
+0029900651,80,4,0,1,1:29 PM,2:47,JAZZ Rebound,,,,
+0029900651,81,9,1,1,1:29 PM,2:47,JAZZ Timeout: Regular (Full 1 Short 0),,,,
+0029900651,83,8,0,1,1:31 PM,2:47,,,SUB: Thomas FOR Williams,,
+0029900651,84,8,0,1,1:31 PM,2:47,SUB: Ostertag FOR Polynice,,,,
+0029900651,85,2,6,1,1:32 PM,2:39,MISS Lewis 6' Driving Layup,,Thomas BLOCK (1 BLK),,
+0029900651,86,4,0,1,1:32 PM,2:35,,,Cassell REBOUND (Off:0 Def:2),,
+0029900651,87,1,1,1,1:32 PM,2:30,,,Del Negro 14' Jump Shot (2 PTS) (Cassell 4 AST),24 - 16,-8
+0029900651,88,1,5,1,1:32 PM,2:26,Hornacek  Layup (6 PTS) (Malone 3 AST),,,24 - 18,-6
+0029900651,89,2,1,1,1:32 PM,2:17,,,MISS Cassell 17' Jump Shot,,
+0029900651,90,4,0,1,1:32 PM,2:15,Lewis REBOUND (Off:0 Def:1),,,,
+0029900651,91,7,2,1,1:32 PM,2:07,,,Johnson Violation:Defensive Goaltending,,
+0029900651,92,2,1,1,1:33 PM,2:03,MISS Malone 21' Jump Shot,,,,
+0029900651,94,4,0,1,1:33 PM,2:01,Ostertag REBOUND (Off:1 Def:0),,,,
+0029900651,93,2,7,1,1:33 PM,2:01,MISS Ostertag  Dunk,,,,
+0029900651,95,4,0,1,1:33 PM,2:00,JAZZ Rebound,,,,
+0029900651,96,5,1,1,1:33 PM,1:49,Malone Bad Pass Turnover (P3.T6),,Johnson STEAL (2 STL),,
+0029900651,97,2,1,1,1:33 PM,1:42,,,MISS Del Negro 21' Jump Shot,,
+0029900651,98,4,0,1,1:33 PM,1:40,Hornacek REBOUND (Off:0 Def:1),,,,
+0029900651,99,1,5,1,1:34 PM,1:28,Malone  Layup (8 PTS) (Hornacek 2 AST),,,24 - 20,-4
+0029900651,100,2,1,1,1:34 PM,1:05,,,MISS Del Negro 24' 3PT Jump Shot,,
+0029900651,101,4,0,1,1:34 PM,1:02,Lewis REBOUND (Off:0 Def:2),,,,
+0029900651,102,2,5,1,1:34 PM,0:58,MISS Ostertag  Layup,,,,
+0029900651,103,4,0,1,1:34 PM,0:55,,,Robinson REBOUND (Off:0 Def:2),,
+0029900651,104,2,1,1,1:34 PM,0:49,,,MISS Robinson 18' Jump Shot,,
+0029900651,105,4,0,1,1:34 PM,0:46,Lewis REBOUND (Off:0 Def:3),,,,
+0029900651,106,1,5,1,1:34 PM,0:41,Malone  Layup (10 PTS) (Lewis 1 AST),,,24 - 22,-2
+0029900651,107,5,1,1,1:35 PM,0:28,Ostertag STEAL (1 STL),,Cassell Bad Pass Turnover (P2.T6),,
+0029900651,108,2,6,1,1:35 PM,0:21,MISS Hornacek  Driving Layup,,,,
+0029900651,109,4,0,1,1:35 PM,0:19,,,Johnson REBOUND (Off:4 Def:3),,
+0029900651,110,1,1,1,1:35 PM,0:01,,,Robinson  3PT Jump Shot (7 PTS) (Thomas 1 AST),27 - 22,-5
+0029900651,112,13,0,1,1:35 PM,0:00,,,,27 - 22,-5
+0029900651,113,12,0,2,1:38 PM,12:00,,,,27 - 22,-5
+0029900651,114,1,1,2,1:38 PM,11:37,Lewis 24' 3PT Jump Shot (3 PTS) (Stockton 2 AST),,,27 - 25,-2
+0029900651,115,2,1,2,1:38 PM,11:20,,,MISS Del Negro 16' Jump Shot,,
+0029900651,116,4,0,2,1:38 PM,11:17,Malone REBOUND (Off:0 Def:2),,,,
+0029900651,117,2,5,2,1:39 PM,11:02,MISS Malone  Layup,,Johnson BLOCK (1 BLK),,
+0029900651,118,4,0,2,1:39 PM,11:02,JAZZ Rebound,,,,
+0029900651,119,8,0,2,1:39 PM,11:02,SUB: Gilliam FOR Malone,,,,
+0029900651,120,1,2,2,1:39 PM,10:59,Stockton 7' Running Jump Shot (4 PTS),,,27 - 27,TIE
+0029900651,121,2,1,2,1:39 PM,10:41,,,MISS Cassell 10' Jump Shot,,
+0029900651,122,4,0,2,1:39 PM,10:39,Stockton REBOUND (Off:0 Def:2),,,,
+0029900651,123,5,1,2,1:40 PM,10:31,Stockton Bad Pass Turnover (P2.T7),,Manning STEAL (1 STL),,
+0029900651,124,2,1,2,1:40 PM,10:16,,,MISS Manning 18' Jump Shot,,
+0029900651,125,4,0,2,1:40 PM,10:14,Gilliam REBOUND (Off:0 Def:1),,,,
+0029900651,126,8,0,2,1:40 PM,10:07,,,SUB: Allen FOR Cassell,,
+0029900651,127,8,0,2,1:40 PM,10:07,,,SUB: Williams FOR Johnson,,
+0029900651,128,1,1,2,1:41 PM,9:54,Stockton 21' Jump Shot (6 PTS) (Gilliam 1 AST),,,27 - 29,2
+0029900651,129,1,1,2,1:41 PM,9:40,,,Allen 21' Jump Shot (9 PTS),29 - 29,TIE
+0029900651,130,6,17,2,1:41 PM,9:18,,,Bucks T.Foul (Def. 3 Sec Manning ),,
+0029900651,131,9,4,2,1:42 PM,9:18,,,,,
+0029900651,133,3,16,2,1:44 PM,9:18,Stockton Free Throw Technical (7 PTS),,,29 - 30,1
+0029900651,134,2,1,2,1:44 PM,9:06,MISS Stockton 17' Jump Shot,,,,
+0029900651,135,4,0,2,1:44 PM,9:04,,,Williams REBOUND (Off:1 Def:3),,
+0029900651,136,2,1,2,1:44 PM,8:51,,,MISS Manning 18' Jump Shot,,
+0029900651,137,4,0,2,1:44 PM,8:48,Lewis REBOUND (Off:0 Def:4),,,,
+0029900651,138,6,1,2,1:45 PM,8:43,,,Manning P.FOUL (P1.T1),,
+0029900651,139,1,1,2,1:45 PM,8:32,Gilliam 15' Jump Shot (2 PTS) (Stockton 3 AST),,,29 - 32,3
+0029900651,140,2,1,2,1:46 PM,8:07,,,MISS Thomas 21' Jump Shot,,
+0029900651,141,4,0,2,1:46 PM,8:04,Eisley REBOUND (Off:0 Def:1),,,,
+0029900651,142,5,2,2,1:46 PM,8:02,Eisley Lost Ball Turnover (P1.T8),,,,
+0029900651,143,6,2,2,1:46 PM,7:52,Eisley S.FOUL (P1.T1),,,,
+0029900651,144,3,11,2,1:47 PM,7:52,,,Thomas Free Throw 1 of 2 (1 PTS),30 - 32,2
+0029900651,145,3,12,2,1:47 PM,7:52,,,Thomas Free Throw 2 of 2 (2 PTS),31 - 32,1
+0029900651,146,5,2,2,1:47 PM,7:41,Gilliam Lost Ball Turnover (P1.T9),,Allen STEAL (1 STL),,
+0029900651,147,6,2,2,1:47 PM,7:41,Lewis S.FOUL (P1.T2),,,,
+0029900651,148,3,11,2,1:48 PM,7:41,,,Allen Free Throw 1 of 2 (10 PTS),32 - 32,TIE
+0029900651,149,3,12,2,1:48 PM,7:41,,,Allen Free Throw 2 of 2 (11 PTS),33 - 32,-1
+0029900651,150,2,1,2,1:48 PM,7:27,MISS Eisley 21' Jump Shot,,,,
+0029900651,151,4,0,2,1:48 PM,7:25,JAZZ Rebound,,,,
+0029900651,152,6,3,2,1:48 PM,7:25,,,Williams L.B.FOUL (P2.T2),,
+0029900651,153,5,1,2,1:49 PM,7:17,Stockton Bad Pass Turnover (P3.T10),,Williams STEAL (2 STL),,
+0029900651,154,2,1,2,1:49 PM,7:06,,,MISS Thomas 7' Jump Shot,,
+0029900651,155,4,0,2,1:49 PM,7:04,Gilliam REBOUND (Off:0 Def:2),,,,
+0029900651,156,1,6,2,1:49 PM,6:58,Stockton  Driving Layup (9 PTS),,,33 - 34,1
+0029900651,157,6,2,2,1:49 PM,6:36,Gilliam S.FOUL (P1.T3),,,,
+0029900651,158,9,1,2,1:49 PM,6:36,JAZZ Timeout: Regular (Full 2 Short 0),,,,
+0029900651,160,8,0,2,1:51 PM,6:36,,,SUB: Robinson FOR Thomas,,
+0029900651,161,8,0,2,1:51 PM,6:36,SUB: Russell FOR Lewis,,,,
+0029900651,162,3,11,2,1:52 PM,6:36,,,Del Negro Free Throw 1 of 2 (3 PTS),34 - 34,TIE
+0029900651,163,3,12,2,1:52 PM,6:36,,,Del Negro Free Throw 2 of 2 (4 PTS),35 - 34,-1
+0029900651,164,2,3,2,1:52 PM,6:21,MISS Gilliam 6' Hook Shot,,,,
+0029900651,166,4,0,2,1:52 PM,6:18,Ostertag REBOUND (Off:2 Def:0),,,,
+0029900651,165,2,5,2,1:52 PM,6:18,MISS Ostertag  Layup,,,,
+0029900651,167,4,0,2,1:52 PM,6:17,,,Robinson REBOUND (Off:0 Def:3),,
+0029900651,168,1,1,2,1:53 PM,6:02,,,Williams 12' Jump Shot (6 PTS) (Robinson 2 AST),37 - 34,-3
+0029900651,169,1,1,2,1:53 PM,5:44,Stockton 18' Jump Shot (11 PTS) (Gilliam 2 AST),,,37 - 36,-1
+0029900651,170,1,1,2,1:53 PM,5:24,,,Del Negro 21' Jump Shot (6 PTS) (Allen 1 AST),39 - 36,-3
+0029900651,171,1,1,2,1:54 PM,5:05,Russell 24' 3PT Jump Shot (3 PTS) (Stockton 4 AST),,,39 - 39,TIE
+0029900651,172,2,1,2,1:54 PM,4:48,,,MISS Robinson 9' Jump Shot,,
+0029900651,173,4,0,2,1:54 PM,4:45,Ostertag REBOUND (Off:2 Def:1),,,,
+0029900651,174,2,1,2,1:54 PM,4:32,MISS Eisley 24' 3PT Jump Shot,,,,
+0029900651,175,4,0,2,1:54 PM,4:29,Russell REBOUND (Off:1 Def:1),,,,
+0029900651,176,1,5,2,1:55 PM,4:21,Gilliam  Layup (4 PTS) (Eisley 2 AST),,,39 - 41,2
+0029900651,177,1,1,2,1:55 PM,4:03,,,Robinson 20' Jump Shot (9 PTS) (Del Negro 1 AST),41 - 41,TIE
+0029900651,178,1,1,2,1:55 PM,3:46,Russell 24' 3PT Jump Shot (6 PTS) (Eisley 3 AST),,,41 - 44,3
+0029900651,179,8,0,2,1:56 PM,3:28,,,SUB: Cassell FOR Del Negro,,
+0029900651,180,1,1,2,1:56 PM,3:23,,,Allen 24' 3PT Jump Shot (14 PTS) (Cassell 5 AST),44 - 44,TIE
+0029900651,181,2,1,2,1:56 PM,2:50,MISS Eisley 18' Jump Shot,,Manning BLOCK (1 BLK),,
+0029900651,182,4,0,2,1:56 PM,2:45,,,Allen REBOUND (Off:1 Def:1),,
+0029900651,183,1,1,2,1:57 PM,2:44,,,Allen 24' 3PT Jump Shot (17 PTS),47 - 44,-3
+0029900651,184,9,2,2,1:57 PM,2:38,JAZZ Timeout: Short (Full 2 Short 1),,,,
+0029900651,185,9,1,2,1:57 PM,2:38,,,Bucks Timeout: Regular (Reg.2 Short 0),,
+0029900651,187,8,0,2,1:59 PM,2:38,SUB: Malone FOR Gilliam,,,,
+0029900651,188,8,0,2,1:59 PM,2:38,SUB: Hornacek FOR Eisley,,,,
+0029900651,189,6,17,2,2:00 PM,2:25,,,Bucks T.Foul (Def. 3 Sec Robinson ),,
+0029900651,190,3,16,2,2:00 PM,2:25,Hornacek Free Throw Technical (7 PTS),,,47 - 45,-2
+0029900651,191,5,1,2,2:00 PM,2:16,Hornacek Bad Pass Turnover (P1.T11),,Allen STEAL (2 STL),,
+0029900651,192,6,1,2,2:00 PM,2:12,Stockton P.FOUL (P2.T4),,,,
+0029900651,193,2,5,2,2:01 PM,2:04,Ostertag BLOCK (1 BLK),,MISS Allen  Layup,,
+0029900651,194,4,0,2,2:01 PM,2:01,,,Williams REBOUND (Off:2 Def:3),,
+0029900651,195,5,2,2,2:01 PM,1:59,Hornacek STEAL (3 STL),,Williams Lost Ball Turnover (P1.T7),,
+0029900651,196,1,1,2,2:01 PM,1:52,Russell  3PT Jump Shot (9 PTS) (Hornacek 3 AST),,,47 - 48,1
+0029900651,197,1,1,2,2:01 PM,1:34,,,Williams 16' Jump Shot (8 PTS) (Cassell 6 AST),49 - 48,-1
+0029900651,198,1,5,2,2:01 PM,1:21,Malone  Layup (12 PTS) (Hornacek 4 AST),,,49 - 50,1
+0029900651,199,2,1,2,2:02 PM,1:07,,,MISS Robinson 20' Jump Shot,,
+0029900651,200,4,0,2,2:02 PM,1:02,,,Allen REBOUND (Off:2 Def:1),,
+0029900651,201,1,1,2,2:02 PM,0:59,,,Robinson 24' 3PT Jump Shot (12 PTS) (Manning 1 AST),52 - 50,-2
+0029900651,202,8,0,2,2:02 PM,0:53,,,SUB: Johnson FOR Williams,,
+0029900651,203,8,0,2,2:02 PM,0:53,,,SUB: Thomas FOR Manning,,
+0029900651,204,2,1,2,2:02 PM,0:42,MISS Malone 14' Jump Shot,,Allen BLOCK (1 BLK),,
+0029900651,205,4,0,2,2:03 PM,0:34,,,Thomas REBOUND (Off:0 Def:1),,
+0029900651,206,2,1,2,2:03 PM,0:31,,,MISS Thomas 8' Jump Shot,,
+0029900651,207,4,0,2,2:03 PM,0:28,Stockton REBOUND (Off:0 Def:3),,,,
+0029900651,208,2,1,2,2:03 PM,0:25,MISS Stockton 24' 3PT Jump Shot,,,,
+0029900651,209,4,0,2,2:03 PM,0:23,Malone REBOUND (Off:1 Def:2),,,,
+0029900651,210,6,1,2,2:03 PM,0:06,,,Cassell P.FOUL (P1.T3),,
+0029900651,211,6,1,2,2:03 PM,0:02,,,Cassell P.FOUL (P2.PN),,
+0029900651,212,3,11,2,2:04 PM,0:02,MISS Malone Free Throw 1 of 2,,,,
+0029900651,213,4,1,2,2:04 PM,0:02,JAZZ Rebound,,,,
+0029900651,214,8,0,2,2:04 PM,0:02,SUB: Vaughn FOR Stockton,,,,
+0029900651,215,8,0,2,2:04 PM,0:02,SUB: Lewis FOR Russell,,,,
+0029900651,216,3,12,2,2:04 PM,0:02,Malone Free Throw 2 of 2 (13 PTS),,,52 - 51,-1
+0029900651,217,2,1,2,2:05 PM,0:00,,,MISS Allen 64' 3PT Jump Shot,,
+0029900651,219,4,0,2,2:05 PM,0:00,,,Bucks Rebound,,
+0029900651,220,13,0,2,2:05 PM,0:00,,,,52 - 51,-1
+0029900651,222,12,0,3,2:21 PM,12:00,,,,52 - 51,-1
+0029900651,223,6,1,3,2:21 PM,11:46,,,Allen P.FOUL (P1.T1),,
+0029900651,224,9,2,3,2:21 PM,11:46,,,Bucks Timeout: Short (Reg.2 Short 1),,
+0029900651,225,5,1,3,2:22 PM,11:34,Hornacek Bad Pass Turnover (P2.T12),,Williams STEAL (3 STL),,
+0029900651,226,1,5,3,2:22 PM,11:29,,,Williams  Layup (10 PTS),54 - 51,-3
+0029900651,227,6,2,3,2:23 PM,11:16,,,Johnson S.FOUL (P2.T2),,
+0029900651,228,3,11,3,2:23 PM,11:16,MISS Malone Free Throw 1 of 2,,,,
+0029900651,229,4,1,3,2:23 PM,11:16,JAZZ Rebound,,,,
+0029900651,230,3,12,3,2:23 PM,11:16,Malone Free Throw 2 of 2 (14 PTS),,,54 - 52,-2
+0029900651,231,2,1,3,2:24 PM,10:58,,,MISS Robinson 15' Jump Shot,,
+0029900651,232,4,0,3,2:24 PM,10:57,Stockton REBOUND (Off:0 Def:4),,,,
+0029900651,233,6,3,3,2:24 PM,10:57,,,Williams L.B.FOUL (P3.T3),,
+0029900651,234,6,1,3,2:24 PM,10:52,,,Robinson P.FOUL (P2.T4),,
+0029900651,235,2,1,3,2:24 PM,10:41,MISS Russell 20' Jump Shot,,,,
+0029900651,236,4,0,3,2:24 PM,10:39,,,Bucks Rebound,,
+0029900651,237,6,3,3,2:24 PM,10:39,Malone L.B.FOUL (P2.T1),,,,
+0029900651,238,1,1,3,2:25 PM,10:29,,,Allen 17' Jump Shot (19 PTS) (Cassell 7 AST),56 - 52,-4
+0029900651,239,1,1,3,2:25 PM,10:07,Stockton 21' Jump Shot (13 PTS) (Russell 2 AST),,,56 - 54,-2
+0029900651,240,1,1,3,2:25 PM,9:55,,,Allen 7' Jump Shot (21 PTS),58 - 54,-4
+0029900651,241,2,1,3,2:26 PM,9:37,MISS Russell 24' 3PT Jump Shot,,,,
+0029900651,242,4,0,3,2:26 PM,9:37,,,Allen REBOUND (Off:2 Def:2),,
+0029900651,243,6,3,3,2:26 PM,9:37,Hornacek L.B.FOUL (P1.T2),,,,
+0029900651,244,5,7,3,2:26 PM,9:25,,,Cassell Discontinue Dribble Turnover (P3.T8),,
+0029900651,245,1,1,3,2:27 PM,9:13,Polynice 12' Jump Shot (4 PTS) (Russell 3 AST),,,58 - 56,-2
+0029900651,246,1,1,3,2:27 PM,9:00,,,Robinson 18' Jump Shot (14 PTS) (Cassell 8 AST),60 - 56,-4
+0029900651,247,6,1,3,2:27 PM,8:46,,,Robinson P.FOUL (P3.PN),,
+0029900651,248,3,11,3,2:27 PM,8:46,Russell Free Throw 1 of 2 (10 PTS),,,60 - 57,-3
+0029900651,249,3,12,3,2:27 PM,8:46,Russell Free Throw 2 of 2 (11 PTS),,,60 - 58,-2
+0029900651,250,1,1,3,2:28 PM,8:34,,,Robinson 13' Jump Shot (16 PTS),62 - 58,-4
+0029900651,251,1,1,3,2:28 PM,8:12,Hornacek  3PT Jump Shot (10 PTS) (Russell 4 AST),,,62 - 61,-1
+0029900651,252,1,1,3,2:28 PM,8:02,,,Allen 17' Jump Shot (23 PTS),64 - 61,-3
+0029900651,253,6,1,3,2:29 PM,7:48,,,Cassell P.FOUL (P3.PN),,
+0029900651,254,3,11,3,2:29 PM,7:48,Stockton Free Throw 1 of 2 (14 PTS),,,64 - 62,-2
+0029900651,255,3,12,3,2:29 PM,7:48,Stockton Free Throw 2 of 2 (15 PTS),,,64 - 63,-1
+0029900651,256,2,1,3,2:30 PM,7:37,,,MISS Allen 25' 3PT Jump Shot,,
+0029900651,257,4,0,3,2:30 PM,7:35,Russell REBOUND (Off:1 Def:2),,,,
+0029900651,258,5,1,3,2:30 PM,7:31,Russell Bad Pass Turnover (P1.T13),,Cassell STEAL (3 STL),,
+0029900651,259,5,1,3,2:30 PM,7:27,,,Cassell Bad Pass Turnover (P4.T9),,
+0029900651,260,2,5,3,2:30 PM,7:14,MISS Malone  Layup,,Johnson BLOCK (2 BLK),,
+0029900651,261,4,0,3,2:30 PM,7:10,,,Williams REBOUND (Off:2 Def:4),,
+0029900651,262,6,1,3,2:30 PM,7:06,Stockton P.FOUL (P3.T3),,,,
+0029900651,263,2,1,3,2:31 PM,7:01,,,MISS Cassell 17' Jump Shot,,
+0029900651,264,4,0,3,2:31 PM,6:59,Russell REBOUND (Off:1 Def:3),,,,
+0029900651,265,2,1,3,2:31 PM,6:41,MISS Malone 19' Jump Shot,,,,
+0029900651,266,4,0,3,2:31 PM,6:39,,,Williams REBOUND (Off:2 Def:5),,
+0029900651,267,2,1,3,2:31 PM,6:23,,,MISS Williams 20' Jump Shot,,
+0029900651,268,4,0,3,2:31 PM,6:21,Polynice REBOUND (Off:0 Def:2),,,,
+0029900651,269,2,1,3,2:32 PM,6:10,MISS Malone 4' Jump Shot,,,,
+0029900651,270,4,0,3,2:32 PM,6:08,Polynice REBOUND (Off:1 Def:2),,,,
+0029900651,271,5,1,3,2:32 PM,6:03,Polynice Bad Pass Turnover (P3.T14),,,,
+0029900651,272,9,1,3,2:32 PM,6:03,JAZZ Timeout: Regular (Full 3 Short 1),,,,
+0029900651,274,2,1,3,2:34 PM,5:46,,,MISS Robinson 13' Jump Shot,,
+0029900651,275,4,0,3,2:34 PM,5:43,Russell REBOUND (Off:1 Def:4),,,,
+0029900651,276,1,5,3,2:34 PM,5:36,Malone  Layup (16 PTS) (Hornacek 5 AST),,,64 - 65,1
+0029900651,277,6,4,3,2:35 PM,5:18,,,Cassell OFF.Foul (P4),,
+0029900651,278,5,5,3,2:35 PM,5:18,,,Cassell Foul Turnover (P5.T10),,
+0029900651,279,8,0,3,2:35 PM,5:18,SUB: Eisley FOR Stockton,,,,
+0029900651,280,2,1,3,2:35 PM,4:59,MISS Malone 14' Jump Shot,,,,
+0029900651,281,4,0,3,2:35 PM,4:56,,,Johnson REBOUND (Off:4 Def:4),,
+0029900651,282,1,7,3,2:35 PM,4:41,,,Johnson  Dunk (2 PTS) (Allen 2 AST),66 - 65,-1
+0029900651,283,1,1,3,2:36 PM,4:28,Hornacek 21' Jump Shot (12 PTS) (Eisley 4 AST),,,66 - 67,1
+0029900651,284,2,1,3,2:36 PM,4:18,,,MISS Cassell 16' Jump Shot,,
+0029900651,285,4,0,3,2:36 PM,4:17,Malone REBOUND (Off:1 Def:3),,,,
+0029900651,286,2,1,3,2:37 PM,4:03,MISS Hornacek 25' 3PT Jump Shot,,,,
+0029900651,288,4,0,3,2:37 PM,4:01,Polynice REBOUND (Off:2 Def:2),,,,
+0029900651,287,2,5,3,2:37 PM,4:01,MISS Polynice  Layup,,,,
+0029900651,289,4,0,3,2:37 PM,4:00,,,Williams REBOUND (Off:2 Def:6),,
+0029900651,290,1,1,3,2:37 PM,3:51,,,Allen 20' Jump Shot (25 PTS),68 - 67,-1
+0029900651,291,5,3,3,2:37 PM,3:34,Russell Out Of Bounds Turnover (P2.T15),,,,
+0029900651,292,8,0,3,2:37 PM,3:34,,,SUB: Del Negro FOR Cassell,,
+0029900651,293,8,0,3,2:37 PM,3:34,,,SUB: Thomas FOR Williams,,
+0029900651,294,6,2,3,2:38 PM,3:18,Russell S.FOUL (P3.T4),,,,
+0029900651,295,3,11,3,2:38 PM,3:18,,,Robinson Free Throw 1 of 2 (17 PTS),69 - 67,-2
+0029900651,296,8,0,3,2:38 PM,3:18,SUB: Lewis FOR Russell,,,,
+0029900651,297,3,12,3,2:38 PM,3:18,,,Robinson Free Throw 2 of 2 (18 PTS),70 - 67,-3
+0029900651,298,2,1,3,2:39 PM,3:06,MISS Malone 20' Jump Shot,,,,
+0029900651,300,4,0,3,2:39 PM,3:02,Lewis REBOUND (Off:1 Def:4),,,,
+0029900651,299,2,4,3,2:39 PM,3:02,MISS Lewis  Tip Shot,,,,
+0029900651,301,4,0,3,2:39 PM,3:00,,,Allen REBOUND (Off:2 Def:3),,
+0029900651,302,1,1,3,2:39 PM,2:54,,,Thomas 9' Jump Shot (4 PTS) (Del Negro 2 AST),72 - 67,-5
+0029900651,303,2,5,3,2:39 PM,2:29,MISS Malone  Layup,,,,
+0029900651,305,4,0,3,2:39 PM,2:28,Malone REBOUND (Off:2 Def:3),,,,
+0029900651,304,1,5,3,2:39 PM,2:28,Malone  Layup (18 PTS),,,72 - 69,-3
+0029900651,306,6,2,3,2:40 PM,2:06,Lewis S.FOUL (P2.PN),,,,
+0029900651,307,9,1,3,2:40 PM,2:06,,,Bucks Timeout: Regular (Reg.3 Short 1),,
+0029900651,309,8,0,3,2:42 PM,2:06,SUB: Ostertag FOR Polynice,,,,
+0029900651,310,8,0,3,2:42 PM,2:06,SUB: Keefe FOR Hornacek,,,,
+0029900651,311,3,11,3,2:42 PM,2:06,,,Robinson Free Throw 1 of 2 (19 PTS),73 - 69,-4
+0029900651,312,3,12,3,2:42 PM,2:06,,,Robinson Free Throw 2 of 2 (20 PTS),74 - 69,-5
+0029900651,313,1,6,3,2:43 PM,1:55,Eisley  Driving Layup (4 PTS),,,74 - 71,-3
+0029900651,314,2,5,3,2:43 PM,1:41,Ostertag BLOCK (2 BLK),,MISS Thomas  Layup,,
+0029900651,315,4,0,3,2:43 PM,1:41,Malone REBOUND (Off:2 Def:4),,,,
+0029900651,316,6,3,3,2:43 PM,1:41,,,Johnson L.B.FOUL (P3.PN),,
+0029900651,317,3,11,3,2:43 PM,1:41,Malone Free Throw 1 of 2 (19 PTS),,,74 - 72,-2
+0029900651,318,3,12,3,2:44 PM,1:41,Malone Free Throw 2 of 2 (20 PTS),,,74 - 73,-1
+0029900651,319,1,1,3,2:44 PM,1:26,,,Allen 25' 3PT Jump Shot (28 PTS),77 - 73,-4
+0029900651,320,1,5,3,2:44 PM,1:10,Lewis  Layup (5 PTS) (Eisley 5 AST),,,77 - 75,-2
+0029900651,321,2,1,3,2:45 PM,0:51,,,MISS Robinson 15' Jump Shot,,
+0029900651,322,4,0,3,2:45 PM,0:47,Lewis REBOUND (Off:1 Def:5),,,,
+0029900651,323,2,1,3,2:45 PM,0:34,MISS Malone 13' Jump Shot,,,,
+0029900651,324,4,0,3,2:45 PM,0:33,,,Allen REBOUND (Off:2 Def:4),,
+0029900651,325,2,1,3,2:45 PM,0:26,,,MISS Thomas  3PT Jump Shot,,
+0029900651,326,4,0,3,2:45 PM,0:24,Malone REBOUND (Off:2 Def:5),,,,
+0029900651,327,2,1,3,2:46 PM,0:01,MISS Eisley 16' Jump Shot,,Allen BLOCK (2 BLK),,
+0029900651,328,4,0,3,2:46 PM,0:00,,,Johnson REBOUND (Off:4 Def:5),,
+0029900651,330,13,0,3,2:46 PM,0:00,,,,77 - 75,-2
+0029900651,331,12,0,4,2:48 PM,12:00,,,,77 - 75,-2
+0029900651,332,2,1,4,2:49 PM,11:38,,,MISS Del Negro 22' Jump Shot,,
+0029900651,333,4,0,4,2:49 PM,11:35,Keefe REBOUND (Off:0 Def:1),,,,
+0029900651,334,5,1,4,2:49 PM,11:28,Ostertag Bad Pass Turnover (P1.T16),,Manning STEAL (2 STL),,
+0029900651,335,2,1,4,2:49 PM,11:23,,,MISS Del Negro 19' Jump Shot,,
+0029900651,336,4,0,4,2:49 PM,11:21,Malone REBOUND (Off:2 Def:6),,,,
+0029900651,337,1,1,4,2:49 PM,10:58,Eisley 22' Jump Shot (6 PTS) (Stockton 5 AST),,,77 - 77,TIE
+0029900651,338,2,1,4,2:50 PM,10:36,,,MISS Thomas 21' Jump Shot,,
+0029900651,339,4,0,4,2:50 PM,10:34,Malone REBOUND (Off:2 Def:7),,,,
+0029900651,340,2,1,4,2:50 PM,10:20,MISS Eisley 25' 3PT Jump Shot,,,,
+0029900651,341,4,0,4,2:50 PM,10:17,Stockton REBOUND (Off:1 Def:4),,,,
+0029900651,342,2,5,4,2:50 PM,10:00,MISS Stockton  Layup,,Thomas BLOCK (2 BLK),,
+0029900651,343,4,0,4,2:50 PM,9:56,Keefe REBOUND (Off:1 Def:1),,,,
+0029900651,344,1,1,4,2:50 PM,9:55,Malone 19' Jump Shot (22 PTS) (Keefe 1 AST),,,77 - 79,2
+0029900651,345,6,1,4,2:51 PM,9:31,Keefe P.FOUL (P1.T1),,,,
+0029900651,346,9,4,4,2:51 PM,9:31,,,,,
+0029900651,348,8,0,4,2:53 PM,9:31,SUB: Gilliam FOR Malone,,,,
+0029900651,349,8,0,4,2:53 PM,9:31,,,SUB: Cassell FOR Allen,,
+0029900651,350,1,6,4,2:53 PM,9:20,,,Thomas  Driving Layup (6 PTS),79 - 79,TIE
+0029900651,351,2,1,4,2:54 PM,8:54,MISS Gilliam 10' Jump Shot,,,,
+0029900651,352,4,0,4,2:54 PM,8:53,JAZZ Rebound,,,,
+0029900651,353,6,3,4,2:54 PM,8:53,,,Thomas L.B.FOUL (P1.T1),,
+0029900651,354,8,0,4,2:54 PM,8:53,,,SUB: Williams FOR Johnson,,
+0029900651,355,1,1,4,2:54 PM,8:44,Eisley 24' 3PT Jump Shot (9 PTS) (Stockton 6 AST),,,79 - 82,3
+0029900651,356,1,1,4,2:55 PM,8:23,,,Thomas 19' Jump Shot (8 PTS),81 - 82,1
+0029900651,357,6,2,4,2:55 PM,8:04,,,Thomas S.FOUL (P2.T2),,
+0029900651,358,3,11,4,2:55 PM,8:04,MISS Ostertag Free Throw 1 of 2,,,,
+0029900651,359,4,1,4,2:55 PM,8:04,JAZZ Rebound,,,,
+0029900651,360,3,12,4,2:55 PM,8:04,Ostertag Free Throw 2 of 2 (1 PTS),,,81 - 83,2
+0029900651,361,2,1,4,2:56 PM,7:43,,,MISS Thomas 24' 3PT Jump Shot,,
+0029900651,362,4,0,4,2:56 PM,7:42,Ostertag REBOUND (Off:2 Def:2),,,,
+0029900651,363,6,3,4,2:56 PM,7:42,,,Williams L.B.FOUL (P4.T3),,
+0029900651,364,8,0,4,2:56 PM,7:28,,,SUB: Robinson FOR Thomas,,
+0029900651,365,2,1,4,2:57 PM,7:16,MISS Eisley 14' Jump Shot,,,,
+0029900651,367,4,0,4,2:57 PM,7:14,Keefe REBOUND (Off:2 Def:1),,,,
+0029900651,366,1,4,4,2:57 PM,7:14,Keefe  Tip Shot (2 PTS),,,81 - 85,4
+0029900651,370,6,1,4,2:57 PM,7:03,Eisley P.FOUL (P2.T2),,,,
+0029900651,371,2,1,4,2:58 PM,6:49,,,MISS Robinson 12' Jump Shot,,
+0029900651,372,4,0,4,2:58 PM,6:48,Ostertag REBOUND (Off:2 Def:3),,,,
+0029900651,373,2,1,4,2:58 PM,6:30,MISS Gilliam 16' Jump Shot,,Manning BLOCK (2 BLK),,
+0029900651,374,4,0,4,2:58 PM,6:28,,,Bucks Rebound,,
+0029900651,375,6,3,4,2:58 PM,6:28,Keefe L.B.FOUL (P2.T3),,,,
+0029900651,376,9,1,4,2:58 PM,6:28,JAZZ Timeout: Regular (Full 4 Short 1),,,,
+0029900651,377,8,0,4,3:00 PM,6:28,SUB: Malone FOR Gilliam,,,,
+0029900651,378,8,0,4,3:00 PM,6:28,,,SUB: Allen FOR Del Negro,,
+0029900651,379,1,1,4,3:01 PM,6:13,,,Cassell 12' Jump Shot (9 PTS),83 - 85,2
+0029900651,380,1,1,4,3:01 PM,5:57,Keefe 11' Jump Shot (4 PTS) (Malone 4 AST),,,83 - 87,4
+0029900651,381,2,1,4,3:01 PM,5:30,,,MISS Robinson 12' Jump Shot,,
+0029900651,382,4,0,4,3:02 PM,5:30,,,Bucks Rebound,,
+0029900651,383,8,0,4,3:02 PM,5:30,,,SUB: Johnson FOR Williams,,
+0029900651,384,2,1,4,3:02 PM,5:23,,,MISS Cassell 16' Jump Shot,,
+0029900651,385,4,0,4,3:02 PM,5:22,JAZZ Rebound,,,,
+0029900651,386,2,1,4,3:03 PM,4:56,MISS Keefe 17' Jump Shot,,,,
+0029900651,387,4,0,4,3:03 PM,4:55,,,Manning REBOUND (Off:0 Def:1),,
+0029900651,388,1,1,4,3:03 PM,4:49,,,Robinson 24' 3PT Jump Shot (23 PTS) (Cassell 9 AST),86 - 87,1
+0029900651,389,1,3,4,3:03 PM,4:29,Malone 7' Hook Shot (24 PTS),,,86 - 89,3
+0029900651,390,8,0,4,3:03 PM,4:08,,,SUB: Thomas FOR Manning,,
+0029900651,391,5,1,4,3:04 PM,4:01,,,Thomas Bad Pass Turnover (P1.T11),,
+0029900651,392,1,1,4,3:04 PM,3:49,Malone 19' Jump Shot (26 PTS) (Stockton 7 AST),,,86 - 91,5
+0029900651,393,6,1,4,3:05 PM,3:33,Stockton P.FOUL (P4.T4),,,,
+0029900651,394,6,2,4,3:05 PM,3:24,Ostertag S.FOUL (P1.PN),,,,
+0029900651,395,3,11,4,3:05 PM,3:24,,,Allen Free Throw 1 of 2 (29 PTS),87 - 91,4
+0029900651,396,3,12,4,3:05 PM,3:24,,,Allen Free Throw 2 of 2 (30 PTS),88 - 91,3
+0029900651,397,2,1,4,3:06 PM,3:09,MISS Malone 20' Jump Shot,,,,
+0029900651,398,4,0,4,3:06 PM,3:07,,,Cassell REBOUND (Off:0 Def:3),,
+0029900651,399,1,1,4,3:06 PM,3:01,,,Allen 26' 3PT Jump Shot (33 PTS) (Cassell 10 AST),91 - 91,TIE
+0029900651,400,6,2,4,3:07 PM,2:38,,,Allen S.FOUL (P2.T4),,
+0029900651,401,9,1,4,3:07 PM,2:38,,,Bucks Timeout: Regular (Reg.4 Short 1),,
+0029900651,403,8,0,4,3:08 PM,2:38,SUB: Russell FOR Keefe,,,,
+0029900651,404,3,11,4,3:09 PM,2:38,Stockton Free Throw 1 of 2 (16 PTS),,,91 - 92,1
+0029900651,405,3,12,4,3:09 PM,2:38,MISS Stockton Free Throw 2 of 2,,,,
+0029900651,406,4,0,4,3:09 PM,2:38,,,Johnson REBOUND (Off:4 Def:6),,
+0029900651,407,5,2,4,3:09 PM,2:25,Stockton STEAL (2 STL),,Allen Lost Ball Turnover (P3.T12),,
+0029900651,408,2,1,4,3:10 PM,2:03,MISS Russell 8' Jump Shot,,,,
+0029900651,409,4,0,4,3:10 PM,2:03,,,Johnson REBOUND (Off:4 Def:7),,
+0029900651,410,6,3,4,3:10 PM,2:03,Malone L.B.FOUL (P3.PN),,,,
+0029900651,411,3,11,4,3:10 PM,2:03,,,Johnson Free Throw 1 of 2 (3 PTS),92 - 92,TIE
+0029900651,412,3,12,4,3:10 PM,2:03,,,MISS Johnson Free Throw 2 of 2,,
+0029900651,413,4,0,4,3:11 PM,1:59,Ostertag REBOUND (Off:2 Def:4),,,,
+0029900651,414,2,1,4,3:11 PM,1:41,MISS Malone 20' Jump Shot,,,,
+0029900651,416,4,0,4,3:11 PM,1:40,Russell REBOUND (Off:2 Def:4),,,,
+0029900651,415,1,5,4,3:11 PM,1:40,Russell  Layup (13 PTS),,,92 - 94,2
+0029900651,417,6,2,4,3:11 PM,1:40,,,Allen S.FOUL (P3.PN),,
+0029900651,418,3,10,4,3:11 PM,1:40,Russell Free Throw 1 of 1 (14 PTS),,,92 - 95,3
+0029900651,419,1,1,4,3:12 PM,1:26,,,Robinson 13' Jump Shot (25 PTS),94 - 95,1
+0029900651,420,2,5,4,3:12 PM,1:08,MISS Russell  Layup,,Thomas BLOCK (3 BLK),,
+0029900651,421,4,0,4,3:12 PM,1:02,Ostertag REBOUND (Off:3 Def:4),,,,
+0029900651,422,2,5,4,3:12 PM,0:59,MISS Ostertag  Layup,,Johnson BLOCK (3 BLK),,
+0029900651,423,4,0,4,3:12 PM,0:58,,,Allen REBOUND (Off:2 Def:5),,
+0029900651,424,1,1,4,3:12 PM,0:54,,,Robinson 13' Jump Shot (27 PTS) (Thomas 2 AST),96 - 95,-1
+0029900651,425,6,2,4,3:13 PM,0:43,,,Johnson S.FOUL (P4.PN),,
+0029900651,426,3,11,4,3:13 PM,0:43,Malone Free Throw 1 of 2 (27 PTS),,,96 - 96,TIE
+0029900651,427,3,12,4,3:13 PM,0:43,Malone Free Throw 2 of 2 (28 PTS),,,96 - 97,1
+0029900651,428,9,1,4,3:14 PM,0:43,,,Bucks Timeout: Regular (Reg.5 Short 1),,
+0029900651,430,2,1,4,3:16 PM,0:37,,,MISS Allen 17' Jump Shot,,
+0029900651,431,4,0,4,3:16 PM,0:35,,,Thomas REBOUND (Off:1 Def:1),,
+0029900651,432,6,1,4,3:16 PM,0:24,Eisley P.FOUL (P3.PN),,,,
+0029900651,433,3,11,4,3:16 PM,0:24,,,Allen Free Throw 1 of 2 (34 PTS),97 - 97,TIE
+0029900651,434,3,12,4,3:17 PM,0:24,,,Allen Free Throw 2 of 2 (35 PTS),98 - 97,-1
+0029900651,435,2,1,4,3:17 PM,0:12,MISS Malone 22' Jump Shot,,,,
+0029900651,436,4,0,4,3:17 PM,0:10,Russell REBOUND (Off:3 Def:4),,,,
+0029900651,437,2,1,4,3:17 PM,0:08,MISS Stockton 16' Jump Shot,,Thomas BLOCK (4 BLK),,
+0029900651,438,4,0,4,3:17 PM,0:08,,,Allen REBOUND (Off:2 Def:6),,
+0029900651,439,6,1,4,3:18 PM,0:08,Eisley P.FOUL (P4.PN),,,,
+0029900651,440,3,11,4,3:18 PM,0:08,,,Allen Free Throw 1 of 2 (36 PTS),99 - 97,-2
+0029900651,441,3,12,4,3:18 PM,0:08,,,MISS Allen Free Throw 2 of 2,,
+0029900651,442,4,0,4,3:18 PM,0:08,Malone REBOUND (Off:2 Def:8),,,,
+0029900651,444,9,1,4,3:18 PM,0:08,JAZZ Timeout: Regular (Full 5 Short 1),,,,
+0029900651,445,8,0,4,3:20 PM,0:08,SUB: Hornacek FOR Ostertag,,,,
+0029900651,446,1,6,4,3:20 PM,0:02,Stockton  Driving Layup (18 PTS),,,99 - 99,TIE
+0029900651,447,9,1,4,3:20 PM,0:02,,,Bucks Timeout: Regular (Reg.6 Short 1),,
+0029900651,449,8,0,4,3:22 PM,0:02,,,SUB: Del Negro FOR Johnson,,
+0029900651,450,8,0,4,3:22 PM,0:02,SUB: Keefe FOR Hornacek,,,,
+0029900651,451,1,1,4,3:23 PM,0:00,,,Robinson 26' 3PT Jump Shot (30 PTS) (Del Negro 3 AST),102 - 99,-3
+0029900651,453,13,0,4,3:23 PM,0:00,,,,102 - 99,-3

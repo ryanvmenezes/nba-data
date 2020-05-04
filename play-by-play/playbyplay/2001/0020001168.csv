@@ -1,0 +1,501 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020001168,0,12,0,1,2:41 PM,12:00,,,,,
+0020001168,1,10,0,1,2:42 PM,12:00,Jump Ball Foyle vs. Bradley: Tip to Dampier,,,,
+0020001168,2,1,1,1,2:43 PM,11:47,Cummings 15' Jump Shot (2 PTS),,,0 - 2,2
+0020001168,3,2,1,1,2:43 PM,11:36,,,MISS Howard 9' Jump Shot,,
+0020001168,4,4,0,1,2:43 PM,11:35,Jamison REBOUND (Off:0 Def:1),,,,
+0020001168,5,2,1,1,2:43 PM,11:24,MISS Foyle 5' Jump Shot,,Howard BLOCK (1 BLK),,
+0020001168,6,4,0,1,2:43 PM,11:22,,,Nash REBOUND (Off:0 Def:1),,
+0020001168,7,1,1,1,2:43 PM,11:03,,,Bradley 17' Jump Shot (2 PTS) (Nowitzki 1 AST),2 - 2,TIE
+0020001168,8,2,3,1,2:44 PM,10:46,MISS Dampier 4' Hook Shot,,,,
+0020001168,9,4,0,1,2:44 PM,10:45,,,Bradley REBOUND (Off:0 Def:1),,
+0020001168,11,1,46,1,2:44 PM,10:27,,,Nowitzki 14' Running Jump Shot (2 PTS) (Nash 1 AST),4 - 2,-2
+0020001168,12,1,1,1,2:45 PM,10:04,Jamison 23' Jump Shot (2 PTS) (Dampier 1 AST),,,4 - 4,TIE
+0020001168,13,1,58,1,2:45 PM,9:48,,,Howard 8' Turnaround Hook Shot (2 PTS) (Finley 1 AST),6 - 4,-2
+0020001168,14,1,1,1,2:45 PM,9:36,Porter 17' Jump Shot (2 PTS) (Cummings 1 AST),,,6 - 6,TIE
+0020001168,15,6,2,1,2:46 PM,9:24,Dampier S.FOUL (P1.T1),,,,
+0020001168,16,3,11,1,2:46 PM,9:24,,,Bradley Free Throw 1 of 2 (3 PTS),7 - 6,-1
+0020001168,17,3,12,1,2:46 PM,9:24,,,Bradley Free Throw 2 of 2 (4 PTS),8 - 6,-2
+0020001168,18,2,57,1,2:47 PM,9:12,MISS Dampier 6' Driving Hook Shot,,Bradley BLOCK (1 BLK),,
+0020001168,19,4,0,1,2:47 PM,9:10,Dampier REBOUND (Off:1 Def:0),,,,
+0020001168,20,1,58,1,2:47 PM,9:04,Dampier 6' Turnaround Hook Shot (2 PTS),,,8 - 8,TIE
+0020001168,21,5,2,1,2:47 PM,8:50,,,Howard Lost Ball Turnover (P1.T1),,
+0020001168,22,2,1,1,2:47 PM,8:43,MISS Cummings 17' Jump Shot,,,,
+0020001168,23,4,0,1,2:47 PM,8:42,,,Howard REBOUND (Off:0 Def:1),,
+0020001168,24,2,1,1,2:47 PM,8:30,,,MISS Howard 13' Jump Shot,,
+0020001168,25,4,0,1,2:47 PM,8:29,Porter REBOUND (Off:0 Def:1),,,,
+0020001168,26,2,46,1,2:48 PM,8:11,MISS Jamison 7' Running Jump Shot,,,,
+0020001168,28,4,0,1,2:48 PM,8:10,Porter REBOUND (Off:1 Def:1),,,,
+0020001168,27,2,7,1,2:48 PM,8:09,MISS Porter  Dunk,,,,
+0020001168,29,4,0,1,2:48 PM,8:06,,,Finley REBOUND (Off:0 Def:1),,
+0020001168,30,1,42,1,2:48 PM,8:04,,,Howard  Driving Layup (4 PTS) (Finley 2 AST),10 - 8,-2
+0020001168,31,6,1,1,2:48 PM,7:55,,,Bradley P.FOUL (P1.T1),,
+0020001168,32,6,2,1,2:48 PM,7:47,,,Bradley S.FOUL (P2.T2),,
+0020001168,33,3,11,1,2:49 PM,7:47,MISS Jamison Free Throw 1 of 2,,,,
+0020001168,34,4,1,1,2:49 PM,7:47,WARRIORS Rebound,,,,
+0020001168,35,8,0,1,2:49 PM,7:47,,,SUB: Booth FOR Bradley,,
+0020001168,36,9,1,1,2:49 PM,7:47,,,Mavericks Timeout: Regular (Reg.1 Short 0),,
+0020001168,38,3,12,1,2:51 PM,7:47,Jamison Free Throw 2 of 2 (3 PTS),,,10 - 9,-1
+0020001168,39,2,1,1,2:51 PM,7:39,,,MISS Nowitzki 25' 3PT Jump Shot,,
+0020001168,40,4,0,1,2:51 PM,7:38,Foyle REBOUND (Off:0 Def:1),,,,
+0020001168,41,6,3,1,2:52 PM,7:38,,,Booth L.B.FOUL (P1.T3),,
+0020001168,42,2,1,1,2:52 PM,7:22,MISS Porter 5' Jump Shot,,Booth BLOCK (1 BLK),,
+0020001168,43,4,0,1,2:52 PM,7:20,Porter REBOUND (Off:2 Def:1),,,,
+0020001168,44,2,1,1,2:52 PM,7:19,MISS Porter 4' Jump Shot,,,,
+0020001168,45,4,0,1,2:52 PM,7:18,,,Finley REBOUND (Off:0 Def:2),,
+0020001168,46,1,1,1,2:52 PM,7:12,,,Finley 20' Jump Shot (2 PTS),12 - 9,-3
+0020001168,47,2,1,1,2:52 PM,6:55,MISS Jamison 24' 3PT Jump Shot,,,,
+0020001168,48,4,0,1,2:52 PM,6:53,,,Nash REBOUND (Off:0 Def:2),,
+0020001168,49,5,1,1,2:52 PM,6:50,,,Nash Bad Pass Turnover (P1.T2),,
+0020001168,50,2,1,1,2:53 PM,6:28,MISS Cummings 12' Jump Shot,,,,
+0020001168,51,4,0,1,2:53 PM,6:26,,,Mavericks Rebound,,
+0020001168,52,6,2,1,2:54 PM,6:13,Dampier S.FOUL (P2.T2),,,,
+0020001168,53,3,11,1,2:54 PM,6:13,,,MISS Nowitzki Free Throw 1 of 2,,
+0020001168,54,4,1,1,2:54 PM,6:13,,,Mavericks Rebound,,
+0020001168,55,3,12,1,2:54 PM,6:13,,,Nowitzki Free Throw 2 of 2 (3 PTS),13 - 9,-4
+0020001168,56,7,2,1,2:54 PM,6:01,,,Howard Violation:Defensive Goaltending,,
+0020001168,57,9,1,1,2:54 PM,6:01,WARRIORS Timeout: Regular (Full 1 Short 0),,,,
+0020001168,59,1,5,1,2:57 PM,5:49,Jamison  Layup (5 PTS) (Cummings 2 AST),,,13 - 11,-2
+0020001168,60,1,58,1,2:57 PM,5:30,,,Howard 10' Turnaround Hook Shot (6 PTS) (Nash 2 AST),15 - 11,-4
+0020001168,61,1,42,1,2:58 PM,5:17,Porter  Driving Layup (4 PTS) (Jamison 1 AST),,,15 - 13,-2
+0020001168,62,6,1,1,2:58 PM,4:59,Porter P.FOUL (P1.T3),,,,
+0020001168,63,8,0,1,2:58 PM,4:59,,,SUB: Eisley FOR Nash,,
+0020001168,64,1,56,1,2:59 PM,4:46,,,Howard 6' Running Hook Shot (8 PTS) (Eisley 1 AST),17 - 13,-4
+0020001168,65,2,1,1,2:59 PM,4:26,MISS Dampier 12' Jump Shot,,,,
+0020001168,66,4,0,1,2:59 PM,4:24,Foyle REBOUND (Off:1 Def:1),,,,
+0020001168,67,2,1,1,2:59 PM,4:21,MISS Foyle 5' Jump Shot,,,,
+0020001168,68,4,0,1,2:59 PM,4:20,,,Nowitzki REBOUND (Off:0 Def:1),,
+0020001168,69,1,46,1,2:59 PM,4:13,,,Nowitzki 6' Running Jump Shot (5 PTS),19 - 13,-6
+0020001168,70,9,2,1,2:59 PM,4:08,WARRIORS Timeout: Short (Full 1 Short 1),,,,
+0020001168,72,8,0,1,3:00 PM,4:08,SUB: Blount FOR Foyle,,,,
+0020001168,73,8,0,1,3:00 PM,4:08,,,SUB: Zhi-zhi FOR Booth,,
+0020001168,74,6,2,1,3:01 PM,3:59,,,Zhi-zhi S.FOUL (P1.T4),,
+0020001168,75,3,11,1,3:01 PM,3:59,Jamison Free Throw 1 of 2 (6 PTS),,,19 - 14,-5
+0020001168,76,3,12,1,3:01 PM,3:59,Jamison Free Throw 2 of 2 (7 PTS),,,19 - 15,-4
+0020001168,77,1,1,1,3:02 PM,3:49,,,Finley 25' 3PT Jump Shot (5 PTS) (Nowitzki 2 AST),22 - 15,-7
+0020001168,78,5,13,1,3:02 PM,3:28,Jamison Backcourt Turnover (P1.T1),,,,
+0020001168,79,2,1,1,3:02 PM,3:19,,,MISS Finley 17' Jump Shot,,
+0020001168,80,4,0,1,3:02 PM,3:17,Dampier REBOUND (Off:1 Def:1),,,,
+0020001168,81,6,2,1,3:03 PM,3:09,,,Zhi-zhi S.FOUL (P2.PN),,
+0020001168,82,3,11,1,3:03 PM,3:09,MISS Cummings Free Throw 1 of 2,,,,
+0020001168,83,4,1,1,3:03 PM,3:09,WARRIORS Rebound,,,,
+0020001168,84,3,12,1,3:03 PM,3:09,Cummings Free Throw 2 of 2 (3 PTS),,,22 - 16,-6
+0020001168,85,7,2,1,3:04 PM,2:54,Blount Violation:Defensive Goaltending,,,,
+0020001168,86,2,1,1,3:04 PM,2:46,Blount BLOCK (1 BLK),,MISS Zhi-zhi 18' Jump Shot,,
+0020001168,87,4,0,1,3:04 PM,2:44,Dampier REBOUND (Off:1 Def:2),,,,
+0020001168,88,2,1,1,3:04 PM,2:34,MISS Blount 19' Jump Shot,,,,
+0020001168,89,4,0,1,3:04 PM,2:33,,,Finley REBOUND (Off:0 Def:3),,
+0020001168,90,6,2,1,3:04 PM,2:25,Blount S.FOUL (P1.T4),,,,
+0020001168,91,3,11,1,3:04 PM,2:25,,,Nowitzki Free Throw 1 of 2 (6 PTS),23 - 16,-7
+0020001168,92,8,0,1,3:05 PM,2:25,SUB: Foyle FOR Dampier,,,,
+0020001168,93,3,12,1,3:05 PM,2:25,,,Nowitzki Free Throw 2 of 2 (7 PTS),24 - 16,-8
+0020001168,94,1,1,1,3:05 PM,2:14,Porter 18' Jump Shot (6 PTS),,,24 - 18,-6
+0020001168,95,2,1,1,3:05 PM,2:06,Foyle BLOCK (1 BLK),,MISS Howard 4' Jump Shot,,
+0020001168,96,4,0,1,3:05 PM,2:04,,,Howard REBOUND (Off:1 Def:1),,
+0020001168,97,1,5,1,3:05 PM,2:03,,,Howard  Layup (10 PTS),26 - 18,-8
+0020001168,98,1,42,1,3:05 PM,1:55,Cummings  Driving Layup (5 PTS),,,26 - 20,-6
+0020001168,99,6,2,1,3:05 PM,1:55,,,Nowitzki S.FOUL (P1.PN),,
+0020001168,100,3,10,1,3:06 PM,1:55,Cummings Free Throw 1 of 1 (6 PTS),,,26 - 21,-5
+0020001168,101,2,1,1,3:06 PM,1:37,,,MISS Nowitzki 24' 3PT Jump Shot,,
+0020001168,102,4,0,1,3:06 PM,1:36,Blount REBOUND (Off:0 Def:1),,,,
+0020001168,103,1,1,1,3:06 PM,1:26,Blount 15' Jump Shot (2 PTS),,,26 - 23,-3
+0020001168,104,5,2,1,3:07 PM,1:10,Cummings STEAL (1 STL),,Howard Lost Ball Turnover (P2.T3),,
+0020001168,105,5,2,1,3:07 PM,0:54,Foyle Lost Ball Turnover (P1.T2),,Eisley STEAL (1 STL),,
+0020001168,106,1,1,1,3:07 PM,0:46,,,Zhi-zhi 16' Jump Shot (2 PTS) (Eisley 2 AST),28 - 23,-5
+0020001168,107,5,2,1,3:07 PM,0:40,Blount Lost Ball Turnover (P1.T3),,Eisley STEAL (2 STL),,
+0020001168,108,6,4,1,3:07 PM,0:35,,,Howard OFF.Foul (P1),,
+0020001168,109,5,5,1,3:07 PM,0:35,,,Howard Foul Turnover (P3.T4),,
+0020001168,110,8,0,1,3:07 PM,0:35,SUB: Keefe FOR Jamison,,,,
+0020001168,111,8,0,1,3:07 PM,0:35,SUB: Garner FOR Cummings,,,,
+0020001168,112,8,0,1,3:08 PM,0:35,,,SUB: Najera FOR Howard,,
+0020001168,113,1,1,1,3:08 PM,0:18,Blount 15' Jump Shot (4 PTS) (Garner 1 AST),,,28 - 25,-3
+0020001168,114,2,1,1,3:08 PM,0:00,,,MISS Finley 16' Jump Shot,,
+0020001168,115,4,0,1,3:08 PM,0:00,,,Nowitzki REBOUND (Off:1 Def:1),,
+0020001168,116,13,0,1,3:09 PM,0:00,,,,28 - 25,-3
+0020001168,118,12,0,2,3:10 PM,12:00,,,,28 - 25,-3
+0020001168,119,2,5,2,3:11 PM,11:52,Garner BLOCK (1 BLK),,MISS Najera 3' Layup,,
+0020001168,120,4,0,2,3:11 PM,11:49,,,Zhi-zhi REBOUND (Off:1 Def:0),,
+0020001168,121,2,1,2,3:11 PM,11:41,,,MISS Zhi-zhi 15' Jump Shot,,
+0020001168,122,4,0,2,3:12 PM,11:40,,,Mavericks Rebound,,
+0020001168,123,6,3,2,3:12 PM,11:40,Foyle L.B.FOUL (P1.T1),,,,
+0020001168,124,6,2,2,3:12 PM,11:27,Garner S.FOUL (P1.T2),,,,
+0020001168,125,3,13,2,3:12 PM,11:27,,,Nowitzki Free Throw 1 of 3 (8 PTS),29 - 25,-4
+0020001168,126,3,14,2,3:12 PM,11:27,,,MISS Nowitzki Free Throw 2 of 3,,
+0020001168,127,4,1,2,3:12 PM,11:27,,,Mavericks Rebound,,
+0020001168,128,3,15,2,3:13 PM,11:27,,,Nowitzki Free Throw 3 of 3 (9 PTS),30 - 25,-5
+0020001168,129,5,1,2,3:13 PM,11:09,Garner Bad Pass Turnover (P1.T4),,,,
+0020001168,130,6,2,2,3:14 PM,11:06,Foyle S.FOUL (P2.T3),,,,
+0020001168,131,3,11,2,3:14 PM,11:06,,,MISS Zhi-zhi Free Throw 1 of 2,,
+0020001168,132,4,1,2,3:14 PM,11:06,,,Mavericks Rebound,,
+0020001168,133,3,12,2,3:14 PM,11:06,,,Zhi-zhi Free Throw 2 of 2 (3 PTS),31 - 25,-6
+0020001168,134,1,1,2,3:14 PM,10:51,Porter 18' Jump Shot (8 PTS) (Blount 1 AST),,,31 - 27,-4
+0020001168,135,6,2,2,3:15 PM,10:43,Foyle S.FOUL (P3.T4),,,,
+0020001168,136,3,11,2,3:15 PM,10:43,,,Zhi-zhi Free Throw 1 of 2 (4 PTS),32 - 27,-5
+0020001168,137,8,0,2,3:15 PM,10:43,SUB: Jamison FOR Foyle,,,,
+0020001168,138,8,0,2,3:15 PM,10:43,,,SUB: Maxwell FOR Eisley,,
+0020001168,139,3,12,2,3:15 PM,10:43,,,Zhi-zhi Free Throw 2 of 2 (5 PTS),33 - 27,-6
+0020001168,140,1,1,2,3:15 PM,10:29,Keefe 14' Jump Shot (2 PTS) (Porter 1 AST),,,33 - 29,-4
+0020001168,141,6,1,2,3:16 PM,10:15,Keefe P.FOUL (P1.PN),,,,
+0020001168,142,3,11,2,3:16 PM,10:15,,,Nash Free Throw 1 of 2 (1 PTS),34 - 29,-5
+0020001168,143,3,12,2,3:16 PM,10:15,,,Nash Free Throw 2 of 2 (2 PTS),35 - 29,-6
+0020001168,144,6,1,2,3:17 PM,10:01,,,Maxwell P.FOUL (P1.T1),,
+0020001168,145,2,1,2,3:17 PM,9:53,MISS Garner 24' 3PT Jump Shot,,,,
+0020001168,146,4,0,2,3:17 PM,9:52,,,Mavericks Rebound,,
+0020001168,147,1,42,2,3:18 PM,9:34,,,Nash  Driving Layup (4 PTS),37 - 29,-8
+0020001168,148,6,2,2,3:18 PM,9:18,,,Nash S.FOUL (P1.T2),,
+0020001168,149,3,11,2,3:18 PM,9:18,MISS Jamison Free Throw 1 of 2,,,,
+0020001168,150,4,1,2,3:18 PM,9:18,WARRIORS Rebound,,,,
+0020001168,151,8,0,2,3:18 PM,9:18,SUB: Cummings FOR Porter,,,,
+0020001168,152,8,0,2,3:18 PM,9:18,,,SUB: Finley FOR Nowitzki,,
+0020001168,154,7,4,2,3:19 PM,9:18,,,Nash Violation:Jump Ball,,
+0020001168,155,3,12,2,3:19 PM,9:18,Jamison Free Throw 2 of 2 (8 PTS),,,37 - 30,-7
+0020001168,156,5,1,2,3:19 PM,9:17,,,Najera Bad Pass Turnover (P1.T5),,
+0020001168,157,6,1,2,3:19 PM,9:09,,,Najera P.FOUL (P1.T3),,
+0020001168,158,2,1,2,3:20 PM,9:05,MISS Cummings 23' Jump Shot,,,,
+0020001168,159,4,0,2,3:20 PM,9:03,,,Nash REBOUND (Off:0 Def:3),,
+0020001168,160,5,2,2,3:20 PM,9:01,Garner STEAL (1 STL),,Nash Lost Ball Turnover (P2.T6),,
+0020001168,161,2,1,2,3:20 PM,8:55,MISS Garner 25' 3PT Jump Shot,,,,
+0020001168,162,4,0,2,3:20 PM,8:54,,,Najera REBOUND (Off:0 Def:1),,
+0020001168,163,1,1,2,3:20 PM,8:30,,,Finley 22' Jump Shot (7 PTS) (Maxwell 1 AST),39 - 30,-9
+0020001168,164,5,1,2,3:21 PM,8:16,Cummings Bad Pass Turnover (P1.T5),,,,
+0020001168,165,9,4,2,3:21 PM,8:16,,,,,
+0020001168,167,5,1,2,3:23 PM,8:09,Blount STEAL (1 STL),,Maxwell Bad Pass Turnover (P1.T7),,
+0020001168,168,1,7,2,3:23 PM,7:52,Keefe  Dunk (4 PTS) (Blount 2 AST),,,39 - 32,-7
+0020001168,169,5,2,2,3:24 PM,7:32,Keefe STEAL (1 STL),,Zhi-zhi Lost Ball Turnover (P1.T8),,
+0020001168,170,5,21,2,3:24 PM,7:18,Garner Palming Turnover (P2.T6),,,,
+0020001168,171,8,0,2,3:24 PM,7:18,,,SUB: Booth FOR Zhi-zhi,,
+0020001168,172,1,1,2,3:24 PM,7:07,,,Nash 25' 3PT Jump Shot (7 PTS) (Booth 1 AST),42 - 32,-10
+0020001168,173,6,1,2,3:24 PM,6:52,,,Maxwell P.FOUL (P2.T4),,
+0020001168,174,8,0,2,3:25 PM,6:52,SUB: Dampier FOR Blount,,,,
+0020001168,175,1,8,2,3:25 PM,6:40,Keefe  Slam Dunk (6 PTS) (Dampier 2 AST),,,42 - 34,-8
+0020001168,176,2,47,2,3:25 PM,6:17,,,MISS Nash 12' Turnaround Jump Shot,,
+0020001168,177,4,0,2,3:25 PM,6:16,Keefe REBOUND (Off:0 Def:1),,,,
+0020001168,178,6,2,2,3:26 PM,6:09,,,Maxwell S.FOUL (P3.PN),,
+0020001168,179,3,11,2,3:26 PM,6:09,Cummings Free Throw 1 of 2 (7 PTS),,,42 - 35,-7
+0020001168,180,8,0,2,3:26 PM,6:09,,,SUB: Nowitzki FOR Najera,,
+0020001168,181,3,12,2,3:26 PM,6:09,Cummings Free Throw 2 of 2 (8 PTS),,,42 - 36,-6
+0020001168,182,6,1,2,3:27 PM,5:54,Garner P.FOUL (P2.PN),,,,
+0020001168,183,9,1,2,3:27 PM,5:54,WARRIORS Timeout: Regular (Full 2 Short 1),,,,
+0020001168,185,8,0,2,3:29 PM,5:54,SUB: Porter FOR Garner,,,,
+0020001168,186,3,11,2,3:29 PM,5:54,,,Finley Free Throw 1 of 2 (8 PTS),43 - 36,-7
+0020001168,187,3,12,2,3:29 PM,5:54,,,MISS Finley Free Throw 2 of 2,,
+0020001168,188,4,0,2,3:29 PM,5:53,Dampier REBOUND (Off:1 Def:3),,,,
+0020001168,189,6,17,2,3:30 PM,5:40,,,Mavericks Foul,,
+0020001168,190,3,16,2,3:30 PM,5:40,Jamison Free Throw Technical (9 PTS),,,43 - 37,-6
+0020001168,191,2,56,2,3:31 PM,5:33,MISS Porter 7' Running Hook Shot,,,,
+0020001168,192,4,0,2,3:31 PM,5:32,,,Nowitzki REBOUND (Off:1 Def:2),,
+0020001168,193,1,1,2,3:31 PM,5:20,,,Booth 8' Jump Shot (2 PTS) (Nash 3 AST),45 - 37,-8
+0020001168,194,1,1,2,3:31 PM,4:59,Porter 7' Jump Shot (10 PTS),,,45 - 39,-6
+0020001168,195,2,1,2,3:31 PM,4:45,,,MISS Maxwell 16' Jump Shot,,
+0020001168,196,4,0,2,3:31 PM,4:44,Keefe REBOUND (Off:0 Def:2),,,,
+0020001168,197,8,0,2,3:32 PM,4:36,,,SUB: Eisley FOR Nash,,
+0020001168,198,8,0,2,3:32 PM,4:36,,,SUB: Howard FOR Maxwell,,
+0020001168,199,2,1,2,3:32 PM,4:29,MISS Jamison 17' Jump Shot,,,,
+0020001168,200,4,0,2,3:32 PM,4:28,,,Booth REBOUND (Off:0 Def:1),,
+0020001168,201,2,1,2,3:32 PM,4:18,,,MISS Finley 18' Jump Shot,,
+0020001168,202,4,0,2,3:32 PM,4:17,Jamison REBOUND (Off:0 Def:2),,,,
+0020001168,203,6,4,2,3:32 PM,4:12,Jamison OFF.Foul (P1),,,,
+0020001168,204,5,5,2,3:32 PM,4:12,Jamison Foul Turnover (P2.T7),,,,
+0020001168,205,5,1,2,3:33 PM,4:00,,,Booth Bad Pass Turnover (P1.T9),,
+0020001168,206,6,1,2,3:33 PM,3:49,,,Booth P.FOUL (P2.PN),,
+0020001168,207,3,11,2,3:33 PM,3:49,MISS Cummings Free Throw 1 of 2,,,,
+0020001168,208,4,1,2,3:33 PM,3:49,WARRIORS Rebound,,,,
+0020001168,209,3,12,2,3:34 PM,3:49,Cummings Free Throw 2 of 2 (9 PTS),,,45 - 40,-5
+0020001168,210,2,1,2,3:34 PM,3:35,,,MISS Finley  3PT Jump Shot,,
+0020001168,211,4,0,2,3:34 PM,3:31,,,Nowitzki REBOUND (Off:2 Def:2),,
+0020001168,212,5,1,2,3:34 PM,3:29,Porter STEAL (1 STL),,Howard Bad Pass Turnover (P4.T10),,
+0020001168,213,1,42,2,3:34 PM,3:26,Jamison  Driving Layup (11 PTS),,,45 - 42,-3
+0020001168,214,6,2,2,3:34 PM,3:26,,,Howard S.FOUL (P2.PN),,
+0020001168,215,3,10,2,3:35 PM,3:26,Jamison Free Throw 1 of 1 (12 PTS),,,45 - 43,-2
+0020001168,216,5,2,2,3:35 PM,3:20,Jamison STEAL (1 STL),,Booth Lost Ball Turnover (P2.T11),,
+0020001168,217,1,42,2,3:35 PM,3:15,Keefe  Driving Layup (8 PTS),,,45 - 45,TIE
+0020001168,218,9,1,2,3:35 PM,3:09,,,Mavericks Timeout: Regular (Reg.2 Short 0),,
+0020001168,220,6,2,2,3:37 PM,3:01,Porter S.FOUL (P2.PN),,,,
+0020001168,221,3,11,2,3:38 PM,3:01,,,Finley Free Throw 1 of 2 (9 PTS),46 - 45,-1
+0020001168,222,3,12,2,3:38 PM,3:01,,,MISS Finley Free Throw 2 of 2,,
+0020001168,223,4,0,2,3:38 PM,3:00,Dampier REBOUND (Off:1 Def:4),,,,
+0020001168,224,6,2,2,3:38 PM,2:47,,,Booth S.FOUL (P3.PN),,
+0020001168,225,3,11,2,3:39 PM,2:47,Porter Free Throw 1 of 2 (11 PTS),,,46 - 46,TIE
+0020001168,226,8,0,2,3:39 PM,2:47,,,SUB: Bradley FOR Booth,,
+0020001168,227,3,12,2,3:39 PM,2:47,Porter Free Throw 2 of 2 (12 PTS),,,46 - 47,1
+0020001168,228,2,1,2,3:39 PM,2:36,,,MISS Nowitzki 22' Jump Shot,,
+0020001168,229,4,0,2,3:39 PM,2:35,Dampier REBOUND (Off:1 Def:5),,,,
+0020001168,230,1,1,2,3:39 PM,2:26,Dampier 17' Jump Shot (4 PTS) (Cummings 3 AST),,,46 - 49,3
+0020001168,231,1,47,2,3:40 PM,2:07,,,Howard 10' Turnaround Jump Shot (12 PTS) (Eisley 3 AST),48 - 49,1
+0020001168,232,1,8,2,3:40 PM,1:52,Dampier  Slam Dunk (6 PTS) (Cummings 4 AST),,,48 - 51,3
+0020001168,233,6,1,2,3:40 PM,1:37,Dampier P.FOUL (P3.PN),,,,
+0020001168,234,3,11,2,3:40 PM,1:37,,,Bradley Free Throw 1 of 2 (5 PTS),49 - 51,2
+0020001168,235,8,0,2,3:41 PM,1:37,SUB: Blount FOR Dampier,,,,
+0020001168,236,3,12,2,3:41 PM,1:37,,,Bradley Free Throw 2 of 2 (6 PTS),50 - 51,1
+0020001168,237,2,1,2,3:41 PM,1:23,MISS Jamison 5' Jump Shot,,Bradley BLOCK (2 BLK),,
+0020001168,238,4,0,2,3:41 PM,1:21,Blount REBOUND (Off:1 Def:1),,,,
+0020001168,245,2,53,2,3:41 PM,1:18,MISS Blount  Tip Shot,,,,
+0020001168,258,4,0,2,3:41 PM,1:16,Jamison REBOUND (Off:1 Def:2),,,,
+0020001168,240,2,1,2,3:41 PM,1:15,MISS Jamison 4' Jump Shot,,,,
+0020001168,241,4,0,2,3:41 PM,1:15,,,Finley REBOUND (Off:0 Def:4),,
+0020001168,242,1,8,2,3:42 PM,1:11,,,Howard  Slam Dunk (14 PTS) (Nowitzki 3 AST),52 - 51,-1
+0020001168,243,6,2,2,3:42 PM,1:11,Blount S.FOUL (P2.PN),,,,
+0020001168,244,3,10,2,3:42 PM,1:11,,,Howard Free Throw 1 of 1 (15 PTS),53 - 51,-2
+0020001168,246,2,1,2,3:42 PM,0:58,MISS Jamison 24' 3PT Jump Shot,,,,
+0020001168,248,4,0,2,3:42 PM,0:55,,,Eisley REBOUND (Off:0 Def:1),,
+0020001168,249,2,5,2,3:43 PM,0:51,Jamison BLOCK (1 BLK),,MISS Finley 3' Layup,,
+0020001168,250,4,0,2,3:43 PM,0:50,,,Mavericks Rebound,,
+0020001168,251,1,1,2,3:43 PM,0:42,,,Howard 9' Jump Shot (17 PTS) (Nowitzki 4 AST),55 - 51,-4
+0020001168,252,1,1,2,3:43 PM,0:28,Cummings 10' Jump Shot (11 PTS),,,55 - 53,-2
+0020001168,253,2,1,2,3:43 PM,0:04,,,MISS Finley 18' Jump Shot,,
+0020001168,254,4,0,2,3:43 PM,0:01,Blount REBOUND (Off:1 Def:2),,,,
+0020001168,255,5,1,2,3:43 PM,0:00,Blount Bad Pass Turnover (P2.T8),,Eisley STEAL (3 STL),,
+0020001168,256,1,1,2,3:44 PM,0:00,,,Eisley 20' Jump Shot (2 PTS),57 - 53,-4
+0020001168,257,13,0,2,3:44 PM,0:00,,,,57 - 53,-4
+0020001168,260,12,0,3,4:00 PM,12:00,,,,57 - 53,-4
+0020001168,261,2,56,3,4:01 PM,11:43,,,MISS Howard 5' Running Hook Shot,,
+0020001168,262,4,0,3,4:01 PM,11:42,Jamison REBOUND (Off:1 Def:3),,,,
+0020001168,263,2,1,3,4:02 PM,11:25,MISS Porter 15' Jump Shot,,,,
+0020001168,264,4,0,3,4:02 PM,11:24,WARRIORS Rebound,,,,
+0020001168,265,6,10,3,4:02 PM,11:24,,,,,
+0020001168,267,10,0,3,4:02 PM,11:23,Jump Ball Dampier vs. Bradley: Tip to Cummings,,,,
+0020001168,268,1,1,3,4:02 PM,11:17,Jamison 18' Jump Shot (14 PTS) (Cummings 5 AST),,,57 - 55,-2
+0020001168,269,6,2,3,4:02 PM,11:02,Jamison S.FOUL (P2.T1),,,,
+0020001168,270,3,11,3,4:03 PM,11:02,,,Nowitzki Free Throw 1 of 2 (10 PTS),58 - 55,-3
+0020001168,271,3,12,3,4:03 PM,11:02,,,Nowitzki Free Throw 2 of 2 (11 PTS),59 - 55,-4
+0020001168,272,5,1,3,4:03 PM,10:50,Dampier Bad Pass Turnover (P1.T9),,,,
+0020001168,273,1,8,3,4:03 PM,10:38,,,Bradley  Slam Dunk (8 PTS) (Finley 3 AST),61 - 55,-6
+0020001168,274,6,4,3,4:04 PM,10:23,Dampier OFF.Foul (P5),,,,
+0020001168,275,5,5,3,4:04 PM,10:23,Dampier Foul Turnover (P2.T10),,,,
+0020001168,276,8,0,3,4:04 PM,10:23,SUB: Blount FOR Dampier,,,,
+0020001168,278,2,1,3,4:04 PM,10:02,,,MISS Nash 15' Jump Shot,,
+0020001168,279,4,0,3,4:04 PM,10:01,Jamison REBOUND (Off:1 Def:4),,,,
+0020001168,280,6,2,3,4:05 PM,9:57,,,Nowitzki S.FOUL (P2.T1),,
+0020001168,281,3,11,3,4:05 PM,9:57,Jamison Free Throw 1 of 2 (15 PTS),,,61 - 56,-5
+0020001168,282,3,12,3,4:05 PM,9:57,Jamison Free Throw 2 of 2 (16 PTS),,,61 - 57,-4
+0020001168,283,1,1,3,4:05 PM,9:50,,,Finley 24' 3PT Jump Shot (12 PTS) (Nash 4 AST),64 - 57,-7
+0020001168,284,2,44,3,4:06 PM,9:28,MISS Foyle  Reverse Layup,,,,
+0020001168,285,4,0,3,4:06 PM,9:26,,,Bradley REBOUND (Off:0 Def:2),,
+0020001168,286,1,8,3,4:06 PM,9:23,,,Howard  Slam Dunk (19 PTS) (Nash 5 AST),66 - 57,-9
+0020001168,287,9,1,3,4:06 PM,9:12,WARRIORS Timeout: Regular (Full 3 Short 1),,,,
+0020001168,289,2,1,3,4:08 PM,8:57,MISS Cummings 6' Jump Shot,,,,
+0020001168,290,4,0,3,4:08 PM,8:55,,,Bradley REBOUND (Off:0 Def:3),,
+0020001168,291,1,46,3,4:08 PM,8:50,,,Nash 19' Running Jump Shot (9 PTS),68 - 57,-11
+0020001168,292,1,1,3,4:09 PM,8:42,Blount 17' Jump Shot (6 PTS) (Cummings 6 AST),,,68 - 59,-9
+0020001168,293,2,1,3,4:09 PM,8:23,,,MISS Nowitzki 21' Jump Shot,,
+0020001168,294,4,0,3,4:09 PM,8:22,Foyle REBOUND (Off:1 Def:2),,,,
+0020001168,295,1,58,3,4:09 PM,8:11,Blount 4' Turnaround Hook Shot (8 PTS) (Cummings 7 AST),,,68 - 61,-7
+0020001168,296,5,1,3,4:09 PM,7:56,Cummings STEAL (2 STL),,Nash Bad Pass Turnover (P3.T12),,
+0020001168,297,2,5,3,4:09 PM,7:52,MISS Cummings 3' Layup,,Howard BLOCK (2 BLK),,
+0020001168,298,4,0,3,4:10 PM,7:51,WARRIORS Rebound,,,,
+0020001168,299,2,1,3,4:10 PM,7:43,MISS Blount 4' Jump Shot,,Howard BLOCK (3 BLK),,
+0020001168,300,4,0,3,4:10 PM,7:41,,,Bradley REBOUND (Off:0 Def:4),,
+0020001168,301,5,1,3,4:10 PM,7:34,Foyle STEAL (1 STL),,Nash Bad Pass Turnover (P4.T13),,
+0020001168,302,7,6,3,4:10 PM,7:23,,,Bradley Violation:Double Lane,,
+0020001168,303,8,0,3,4:10 PM,7:23,,,SUB: Eisley FOR Nash,,
+0020001168,304,2,1,3,4:11 PM,7:14,MISS Blount 14' Jump Shot,,,,
+0020001168,305,4,0,3,4:11 PM,7:13,,,Bradley REBOUND (Off:0 Def:5),,
+0020001168,306,2,1,3,4:11 PM,7:04,,,MISS Nowitzki 16' Jump Shot,,
+0020001168,308,4,0,3,4:11 PM,7:02,,,Finley REBOUND (Off:1 Def:4),,
+0020001168,307,1,8,3,4:11 PM,7:02,,,Finley  Slam Dunk (14 PTS),70 - 61,-9
+0020001168,309,2,1,3,4:11 PM,6:51,MISS Jamison 17' Jump Shot,,,,
+0020001168,310,4,0,3,4:11 PM,6:50,,,Bradley REBOUND (Off:0 Def:6),,
+0020001168,311,6,3,3,4:11 PM,6:50,Porter L.B.FOUL (P3.T2),,,,
+0020001168,312,6,4,3,4:12 PM,6:38,,,Bradley OFF.Foul (P4),,
+0020001168,313,5,5,3,4:12 PM,6:38,,,Bradley Foul Turnover (P1.T14),,
+0020001168,314,6,1,3,4:12 PM,6:27,,,Finley P.FOUL (P1.T2),,
+0020001168,315,8,0,3,4:12 PM,6:27,SUB: Keefe FOR Porter,,,,
+0020001168,316,8,0,3,4:12 PM,6:27,,,SUB: Booth FOR Bradley,,
+0020001168,317,6,1,3,4:13 PM,6:19,,,Howard P.FOUL (P3.T3),,
+0020001168,318,1,1,3,4:13 PM,6:14,Jamison 6' Jump Shot (18 PTS) (Cummings 8 AST),,,70 - 63,-7
+0020001168,319,2,1,3,4:13 PM,5:57,,,MISS Finley 17' Jump Shot,,
+0020001168,320,4,0,3,4:13 PM,5:56,Blount REBOUND (Off:1 Def:3),,,,
+0020001168,321,1,42,3,4:14 PM,5:39,Cummings  Driving Layup (13 PTS),,,70 - 65,-5
+0020001168,322,5,4,3,4:14 PM,5:29,,,Booth Traveling Turnover (P3.T15),,
+0020001168,323,1,1,3,4:14 PM,5:16,Cummings 19' Jump Shot (15 PTS),,,70 - 67,-3
+0020001168,324,5,1,3,4:14 PM,5:01,Keefe STEAL (2 STL),,Howard Bad Pass Turnover (P5.T16),,
+0020001168,325,1,1,3,4:15 PM,4:46,Cummings 24' 3PT Jump Shot (18 PTS),,,70 - 70,TIE
+0020001168,326,9,1,3,4:15 PM,4:41,,,Mavericks Timeout: Regular (Reg.3 Short 0),,
+0020001168,328,1,1,3,4:17 PM,4:23,,,Finley 25' 3PT Jump Shot (17 PTS) (Eisley 4 AST),73 - 70,-3
+0020001168,329,2,1,3,4:18 PM,4:02,MISS Cummings 25' 3PT Jump Shot,,,,
+0020001168,330,4,0,3,4:18 PM,3:59,Foyle REBOUND (Off:2 Def:2),,,,
+0020001168,331,2,5,3,4:18 PM,3:57,MISS Keefe 3' Layup,,Booth BLOCK (2 BLK),,
+0020001168,332,4,0,3,4:18 PM,3:55,,,Howard REBOUND (Off:1 Def:2),,
+0020001168,333,6,2,3,4:18 PM,3:48,Cummings S.FOUL (P1.T3),,,,
+0020001168,334,3,11,3,4:18 PM,3:48,,,Nowitzki Free Throw 1 of 2 (12 PTS),74 - 70,-4
+0020001168,335,3,12,3,4:18 PM,3:48,,,Nowitzki Free Throw 2 of 2 (13 PTS),75 - 70,-5
+0020001168,336,1,46,3,4:19 PM,3:31,Jamison 6' Running Jump Shot (20 PTS),,,75 - 72,-3
+0020001168,337,6,1,3,4:19 PM,3:09,Jamison P.FOUL (P3.T4),,,,
+0020001168,338,1,1,3,4:20 PM,3:05,,,Howard 15' Jump Shot (21 PTS) (Finley 4 AST),77 - 72,-5
+0020001168,339,6,4,3,4:20 PM,2:46,Keefe OFF.Foul (P2),,,,
+0020001168,340,5,5,3,4:20 PM,2:46,Keefe Foul Turnover (P1.T11),,,,
+0020001168,341,2,1,3,4:20 PM,2:34,,,MISS Eisley 17' Jump Shot,,
+0020001168,343,4,0,3,4:21 PM,2:33,,,Howard REBOUND (Off:2 Def:2),,
+0020001168,342,2,4,3,4:21 PM,2:33,,,MISS Howard  Tip Shot,,
+0020001168,344,4,0,3,4:21 PM,2:32,,,Howard REBOUND (Off:3 Def:2),,
+0020001168,345,6,1,3,4:21 PM,2:32,Blount P.FOUL (P3.PN),,,,
+0020001168,346,3,11,3,4:21 PM,2:32,,,MISS Howard Free Throw 1 of 2,,
+0020001168,347,4,1,3,4:21 PM,2:32,,,Mavericks Rebound,,
+0020001168,348,3,12,3,4:21 PM,2:32,,,Howard Free Throw 2 of 2 (22 PTS),78 - 72,-6
+0020001168,349,2,1,3,4:22 PM,2:09,MISS Blount 16' Jump Shot,,,,
+0020001168,350,4,0,3,4:22 PM,2:08,Blount REBOUND (Off:2 Def:3),,,,
+0020001168,351,6,1,3,4:22 PM,2:08,,,Nowitzki P.FOUL (P3.T4),,
+0020001168,353,1,1,3,4:22 PM,2:02,Jamison 17' Jump Shot (22 PTS) (Blount 3 AST),,,78 - 74,-4
+0020001168,354,5,1,3,4:22 PM,1:47,Jamison STEAL (2 STL),,Nowitzki Bad Pass Turnover (P1.T17),,
+0020001168,355,2,1,3,4:22 PM,1:37,MISS Jamison 4' Jump Shot,,,,
+0020001168,356,4,0,3,4:23 PM,1:35,Foyle REBOUND (Off:3 Def:2),,,,
+0020001168,357,2,5,3,4:23 PM,1:34,MISS Foyle 3' Layup,,,,
+0020001168,358,4,0,3,4:23 PM,1:33,,,Mavericks Rebound,,
+0020001168,359,8,0,3,4:23 PM,1:33,,,SUB: Najera FOR Nowitzki,,
+0020001168,360,8,0,3,4:23 PM,1:33,SUB: Garner FOR Cummings,,,,
+0020001168,361,2,1,3,4:23 PM,1:20,,,MISS Howard 18' Jump Shot,,
+0020001168,362,4,0,3,4:23 PM,1:19,Blount REBOUND (Off:2 Def:4),,,,
+0020001168,363,2,1,3,4:24 PM,1:01,MISS Garner 21' Jump Shot,,,,
+0020001168,364,4,0,3,4:24 PM,1:00,,,Howard REBOUND (Off:3 Def:3),,
+0020001168,365,1,1,3,4:24 PM,0:51,,,Eisley 25' 3PT Jump Shot (5 PTS) (Najera 1 AST),81 - 74,-7
+0020001168,366,6,1,3,4:24 PM,0:44,,,Najera P.FOUL (P2.PN),,
+0020001168,367,8,0,3,4:24 PM,0:44,,,SUB: Nash FOR Eisley,,
+0020001168,368,3,11,3,4:24 PM,0:44,Jamison Free Throw 1 of 2 (23 PTS),,,81 - 75,-6
+0020001168,369,8,0,3,4:25 PM,0:44,,,SUB: Eisley FOR Howard,,
+0020001168,370,3,12,3,4:25 PM,0:44,Jamison Free Throw 2 of 2 (24 PTS),,,81 - 76,-5
+0020001168,371,1,42,3,4:25 PM,0:37,,,Eisley  Driving Layup (7 PTS),83 - 76,-7
+0020001168,372,5,8,3,4:25 PM,0:26,Blount 3 Second Violation Turnover (P3.T12),,,,
+0020001168,373,5,9,3,4:25 PM,0:10,,,Mavericks Turnover: 5 Second Violation (T#18),,
+0020001168,374,2,1,3,4:25 PM,0:06,MISS Garner 4' Jump Shot,,Finley BLOCK (1 BLK),,
+0020001168,375,4,0,3,4:25 PM,0:02,,,Booth REBOUND (Off:0 Def:2),,
+0020001168,376,2,1,3,4:26 PM,0:00,,,MISS Najera 12' Jump Shot,,
+0020001168,377,4,0,3,4:26 PM,0:00,,,Nash REBOUND (Off:1 Def:3),,
+0020001168,378,13,0,3,4:26 PM,0:00,,,,83 - 76,-7
+0020001168,380,12,0,4,4:28 PM,12:00,,,,83 - 76,-7
+0020001168,381,2,1,4,4:29 PM,11:44,MISS Keefe 15' Jump Shot,,,,
+0020001168,382,4,0,4,4:29 PM,11:43,,,Najera REBOUND (Off:0 Def:2),,
+0020001168,383,1,1,4,4:30 PM,11:34,,,Nash 24' 3PT Jump Shot (12 PTS) (Eisley 5 AST),86 - 76,-10
+0020001168,384,6,17,4,4:30 PM,11:20,,,Mavericks T.Foul (Def. 3 Sec Eisley ),,
+0020001168,385,3,16,4,4:30 PM,11:20,MISS Jamison Free Throw Technical,,,,
+0020001168,386,4,1,4,4:30 PM,11:20,WARRIORS Rebound,,,,
+0020001168,387,8,0,4,4:30 PM,11:20,SUB: Cummings FOR Garner,,,,
+0020001168,388,8,0,4,4:30 PM,11:20,SUB: Porter FOR Keefe,,,,
+0020001168,390,6,1,4,4:31 PM,11:13,,,Eisley P.FOUL (P1.T1),,
+0020001168,391,1,1,4,4:31 PM,11:07,Jamison 19' Jump Shot (26 PTS) (Cummings 9 AST),,,86 - 78,-8
+0020001168,392,1,1,4,4:31 PM,10:55,,,Nash 24' 3PT Jump Shot (15 PTS),89 - 78,-11
+0020001168,393,2,46,4,4:32 PM,10:40,MISS Cummings 10' Running Jump Shot,,,,
+0020001168,394,4,0,4,4:32 PM,10:39,,,Finley REBOUND (Off:1 Def:5),,
+0020001168,395,2,1,4,4:32 PM,10:16,,,MISS Finley 4' Jump Shot,,
+0020001168,396,4,0,4,4:32 PM,10:13,Jamison REBOUND (Off:1 Def:5),,,,
+0020001168,397,2,1,4,4:32 PM,10:10,MISS Cummings 8' Jump Shot,,,,
+0020001168,399,4,0,4,4:32 PM,10:08,Porter REBOUND (Off:3 Def:1),,,,
+0020001168,398,1,4,4,4:32 PM,10:08,Porter  Tip Shot (14 PTS),,,89 - 80,-9
+0020001168,400,7,1,4,4:32 PM,10:08,,,Mavericks Violation: Delay of game Violation,,
+0020001168,401,6,2,4,4:33 PM,9:55,Foyle S.FOUL (P4.T1),,,,
+0020001168,402,3,11,4,4:33 PM,9:55,,,Booth Free Throw 1 of 2 (3 PTS),90 - 80,-10
+0020001168,403,8,0,4,4:33 PM,9:55,,,SUB: Nowitzki FOR Najera,,
+0020001168,404,3,12,4,4:33 PM,9:55,,,Booth Free Throw 2 of 2 (4 PTS),91 - 80,-11
+0020001168,406,6,2,4,4:34 PM,9:41,,,Nowitzki S.FOUL (P4.T2),,
+0020001168,407,3,11,4,4:34 PM,9:41,MISS Foyle Free Throw 1 of 2,,,,
+0020001168,408,4,1,4,4:34 PM,9:41,WARRIORS Rebound,,,,
+0020001168,409,3,12,4,4:34 PM,9:41,Foyle Free Throw 2 of 2 (1 PTS),,,91 - 81,-10
+0020001168,410,1,1,4,4:35 PM,9:17,,,Finley 16' Jump Shot (19 PTS) (Eisley 6 AST),93 - 81,-12
+0020001168,411,2,1,4,4:35 PM,8:56,MISS Cummings 20' Jump Shot,,,,
+0020001168,412,4,0,4,4:35 PM,8:56,,,Mavericks Rebound,,
+0020001168,413,6,3,4,4:35 PM,8:56,Foyle L.B.FOUL (P5.T2),,,,
+0020001168,414,9,4,4,4:35 PM,8:56,,,,,
+0020001168,416,8,0,4,4:38 PM,8:56,SUB: Dampier FOR Foyle,,,,
+0020001168,417,2,5,4,4:38 PM,8:46,Blount BLOCK (2 BLK),,MISS Nowitzki 3' Layup,,
+0020001168,418,4,0,4,4:38 PM,8:44,Cummings REBOUND (Off:0 Def:1),,,,
+0020001168,419,6,2,4,4:38 PM,8:41,,,Eisley S.FOUL (P2.T3),,
+0020001168,420,3,11,4,4:39 PM,8:41,MISS Porter Free Throw 1 of 2,,,,
+0020001168,421,4,1,4,4:39 PM,8:41,WARRIORS Rebound,,,,
+0020001168,422,3,12,4,4:39 PM,8:41,Porter Free Throw 2 of 2 (15 PTS),,,93 - 82,-11
+0020001168,423,2,1,4,4:39 PM,8:24,,,MISS Finley 18' Jump Shot,,
+0020001168,424,4,0,4,4:39 PM,8:23,Cummings REBOUND (Off:0 Def:2),,,,
+0020001168,425,2,1,4,4:39 PM,8:14,MISS Porter 14' Jump Shot,,,,
+0020001168,426,4,0,4,4:39 PM,8:13,Jamison REBOUND (Off:2 Def:5),,,,
+0020001168,427,2,1,4,4:39 PM,8:11,MISS Jamison 4' Jump Shot,,,,
+0020001168,428,4,0,4,4:40 PM,8:10,,,Booth REBOUND (Off:0 Def:3),,
+0020001168,429,6,2,4,4:40 PM,8:07,Cummings S.FOUL (P2.T3),,,,
+0020001168,430,3,11,4,4:40 PM,8:07,,,MISS Nowitzki Free Throw 1 of 2,,
+0020001168,431,4,1,4,4:40 PM,8:07,,,Mavericks Rebound,,
+0020001168,432,3,12,4,4:40 PM,8:07,,,Nowitzki Free Throw 2 of 2 (14 PTS),94 - 82,-12
+0020001168,433,6,2,4,4:41 PM,7:49,,,Nowitzki S.FOUL (P5.T4),,
+0020001168,434,3,11,4,4:41 PM,7:49,MISS Jamison Free Throw 1 of 2,,,,
+0020001168,435,4,1,4,4:41 PM,7:49,WARRIORS Rebound,,,,
+0020001168,436,3,12,4,4:41 PM,7:49,Jamison Free Throw 2 of 2 (27 PTS),,,94 - 83,-11
+0020001168,437,6,2,4,4:42 PM,7:26,Porter S.FOUL (P4.T4),,,,
+0020001168,438,3,11,4,4:42 PM,7:26,,,Eisley Free Throw 1 of 2 (8 PTS),95 - 83,-12
+0020001168,439,3,12,4,4:42 PM,7:26,,,Eisley Free Throw 2 of 2 (9 PTS),96 - 83,-13
+0020001168,440,2,1,4,4:43 PM,7:11,MISS Cummings 11' Jump Shot,,Nowitzki BLOCK (1 BLK),,
+0020001168,441,4,0,4,4:43 PM,7:09,Blount REBOUND (Off:3 Def:4),,,,
+0020001168,442,6,2,4,4:43 PM,7:05,,,Nowitzki S.FOUL (P6.PN),,
+0020001168,444,8,0,4,4:44 PM,7:05,,,SUB: Howard FOR Nowitzki,,
+0020001168,445,3,11,4,4:44 PM,7:05,MISS Jamison Free Throw 1 of 2,,,,
+0020001168,446,4,1,4,4:44 PM,7:05,WARRIORS Rebound,,,,
+0020001168,447,3,12,4,4:44 PM,7:05,Jamison Free Throw 2 of 2 (28 PTS),,,96 - 84,-12
+0020001168,448,2,1,4,4:44 PM,6:53,,,MISS Booth 8' Jump Shot,,
+0020001168,449,4,0,4,4:44 PM,6:52,Dampier REBOUND (Off:1 Def:6),,,,
+0020001168,450,6,1,4,4:45 PM,6:42,,,Eisley P.FOUL (P3.PN),,
+0020001168,451,3,11,4,4:45 PM,6:42,Porter Free Throw 1 of 2 (16 PTS),,,96 - 85,-11
+0020001168,452,3,12,4,4:45 PM,6:42,Porter Free Throw 2 of 2 (17 PTS),,,96 - 86,-10
+0020001168,453,5,2,4,4:46 PM,6:21,Jamison STEAL (3 STL),,Nash Lost Ball Turnover (P5.T19),,
+0020001168,454,1,5,4,4:46 PM,6:18,Porter  Layup (19 PTS) (Jamison 2 AST),,,96 - 88,-8
+0020001168,455,6,2,4,4:46 PM,6:18,,,Eisley S.FOUL (P4.PN),,
+0020001168,456,3,10,4,4:46 PM,6:18,MISS Porter Free Throw 1 of 1,,,,
+0020001168,457,4,0,4,4:46 PM,6:16,,,Eisley REBOUND (Off:0 Def:2),,
+0020001168,458,1,5,4,4:46 PM,6:04,,,Howard  Layup (24 PTS) (Booth 2 AST),98 - 88,-10
+0020001168,459,2,1,4,4:47 PM,5:47,MISS Dampier 11' Jump Shot,,,,
+0020001168,460,4,0,4,4:47 PM,5:46,Jamison REBOUND (Off:3 Def:5),,,,
+0020001168,461,1,5,4,4:47 PM,5:46,Jamison  Layup (30 PTS),,,98 - 90,-8
+0020001168,462,6,2,4,4:47 PM,5:46,,,Eisley S.FOUL (P5.PN),,
+0020001168,463,9,1,4,4:47 PM,5:46,WARRIORS Timeout: Regular (Full 4 Short 1),,,,
+0020001168,465,8,0,4,4:49 PM,5:46,,,SUB: Bradley FOR Booth,,
+0020001168,466,3,10,4,4:49 PM,5:46,Jamison Free Throw 1 of 1 (31 PTS),,,98 - 91,-7
+0020001168,467,1,46,4,4:50 PM,5:36,,,Finley 5' Running Jump Shot (21 PTS),100 - 91,-9
+0020001168,468,6,2,4,4:50 PM,5:36,Dampier S.FOUL (P6.PN),,,,
+0020001168,469,8,0,4,4:50 PM,5:36,SUB: Foyle FOR Dampier,,,,
+0020001168,471,3,10,4,4:50 PM,5:36,,,MISS Finley Free Throw 1 of 1,,
+0020001168,472,4,0,4,4:51 PM,5:35,WARRIORS Rebound,,,,
+0020001168,473,6,3,4,4:51 PM,5:35,,,Howard L.B.FOUL (P4.PN),,
+0020001168,475,3,11,4,4:51 PM,5:35,MISS Blount Free Throw 1 of 2,,,,
+0020001168,476,4,1,4,4:51 PM,5:35,WARRIORS Rebound,,,,
+0020001168,477,3,12,4,4:51 PM,5:35,MISS Blount Free Throw 2 of 2,,,,
+0020001168,478,4,0,4,4:51 PM,5:33,,,Bradley REBOUND (Off:0 Def:7),,
+0020001168,479,6,1,4,4:51 PM,5:20,Blount P.FOUL (P4.PN),,,,
+0020001168,480,3,11,4,4:52 PM,5:20,,,Howard Free Throw 1 of 2 (25 PTS),101 - 91,-10
+0020001168,481,3,12,4,4:52 PM,5:20,,,Howard Free Throw 2 of 2 (26 PTS),102 - 91,-11
+0020001168,482,5,1,4,4:52 PM,5:11,Jamison Bad Pass Turnover (P3.T13),,Bradley STEAL (1 STL),,
+0020001168,483,2,1,4,4:52 PM,5:02,,,MISS Finley 25' 3PT Jump Shot,,
+0020001168,484,4,0,4,4:53 PM,5:01,Blount REBOUND (Off:3 Def:5),,,,
+0020001168,485,2,1,4,4:53 PM,4:50,MISS Porter 16' Jump Shot,,,,
+0020001168,486,4,0,4,4:53 PM,4:48,Blount REBOUND (Off:4 Def:5),,,,
+0020001168,487,6,1,4,4:53 PM,4:47,,,Eisley P.FOUL (P6.PN),,
+0020001168,489,8,0,4,4:53 PM,4:47,,,SUB: Booth FOR Eisley,,
+0020001168,490,3,11,4,4:53 PM,4:47,Porter Free Throw 1 of 2 (20 PTS),,,102 - 92,-10
+0020001168,491,3,12,4,4:54 PM,4:47,Porter Free Throw 2 of 2 (21 PTS),,,102 - 93,-9
+0020001168,492,2,1,4,4:54 PM,4:33,,,MISS Booth 13' Jump Shot,,
+0020001168,493,4,0,4,4:54 PM,4:32,WARRIORS Rebound,,,,
+0020001168,494,2,1,4,4:54 PM,4:10,MISS Jamison 5' Jump Shot,,,,
+0020001168,495,4,0,4,4:55 PM,4:09,,,Bradley REBOUND (Off:0 Def:8),,
+0020001168,496,5,13,4,4:55 PM,3:51,,,Nash Backcourt Turnover (P6.T20),,
+0020001168,497,9,1,4,4:55 PM,3:51,WARRIORS Timeout: Regular (Full 5 Short 1),,,,
+0020001168,499,6,2,4,4:58 PM,3:34,,,Booth S.FOUL (P4.PN),,
+0020001168,500,3,11,4,4:58 PM,3:34,Cummings Free Throw 1 of 2 (19 PTS),,,102 - 94,-8
+0020001168,501,3,12,4,4:58 PM,3:34,Cummings Free Throw 2 of 2 (20 PTS),,,102 - 95,-7
+0020001168,502,1,1,4,4:58 PM,3:18,,,Bradley 18' Jump Shot (10 PTS) (Nash 6 AST),104 - 95,-9
+0020001168,503,2,1,4,4:59 PM,3:04,MISS Cummings 4' Jump Shot,,Bradley BLOCK (3 BLK),,
+0020001168,504,4,0,4,4:59 PM,3:01,,,Booth REBOUND (Off:0 Def:4),,
+0020001168,505,1,42,4,4:59 PM,2:58,,,Howard  Driving Layup (28 PTS) (Booth 3 AST),106 - 95,-11
+0020001168,506,9,1,4,4:59 PM,2:53,WARRIORS Timeout: Regular (Full 6 Short 1),,,,
+0020001168,508,8,0,4,5:01 PM,2:53,SUB: Garner FOR Jamison,,,,
+0020001168,509,1,56,4,5:01 PM,2:31,Foyle 5' Running Hook Shot (3 PTS) (Cummings 10 AST),,,106 - 97,-9
+0020001168,510,6,1,4,5:02 PM,2:17,Blount P.FOUL (P5.PN),,,,
+0020001168,511,3,11,4,5:02 PM,2:17,,,Howard Free Throw 1 of 2 (29 PTS),107 - 97,-10
+0020001168,512,3,12,4,5:02 PM,2:17,,,Howard Free Throw 2 of 2 (30 PTS),108 - 97,-11
+0020001168,513,6,2,4,5:03 PM,2:02,,,Finley S.FOUL (P2.PN),,
+0020001168,514,3,11,4,5:03 PM,2:02,Cummings Free Throw 1 of 2 (21 PTS),,,108 - 98,-10
+0020001168,515,3,12,4,5:03 PM,2:02,Cummings Free Throw 2 of 2 (22 PTS),,,108 - 99,-9
+0020001168,516,5,8,4,5:04 PM,1:41,,,Bradley 3 Second Violation Turnover (P2.T21),,
+0020001168,517,2,1,4,5:04 PM,1:29,MISS Blount 19' Jump Shot,,,,
+0020001168,518,4,0,4,5:04 PM,1:28,,,Bradley REBOUND (Off:0 Def:9),,
+0020001168,519,2,46,4,5:04 PM,1:03,,,MISS Nash 9' Running Jump Shot,,
+0020001168,520,4,0,4,5:04 PM,1:01,Porter REBOUND (Off:3 Def:2),,,,
+0020001168,521,5,1,4,5:05 PM,0:53,Garner Bad Pass Turnover (P3.T14),,Finley STEAL (1 STL),,
+0020001168,522,9,2,4,5:06 PM,0:53,,,Mavericks Timeout: Short (Reg.3 Short 1),,
+0020001168,523,1,42,4,5:06 PM,0:32,,,Nash  Driving Layup (17 PTS),110 - 99,-11
+0020001168,524,2,1,4,5:06 PM,0:20,MISS Cummings 22' Jump Shot,,,,
+0020001168,526,4,0,4,5:06 PM,0:19,Foyle REBOUND (Off:4 Def:2),,,,
+0020001168,525,1,5,4,5:06 PM,0:18,Blount  Layup (10 PTS) (Foyle 1 AST),,,110 - 101,-9
+0020001168,527,13,0,4,5:07 PM,0:00,,,,110 - 101,-9

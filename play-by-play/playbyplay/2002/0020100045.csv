@@ -1,0 +1,480 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100045,0,12,0,1,3:12 PM,12:00,,,,,
+0020100045,1,10,0,1,3:13 PM,12:00,Jump Ball Swift vs. Bradley: Tip to Nash,,,,
+0020100045,2,2,1,1,3:14 PM,11:47,,,MISS Finley 15' Jump Shot,,
+0020100045,3,4,0,1,3:14 PM,11:46,Swift REBOUND (Off:0 Def:1),,,,
+0020100045,4,1,1,1,3:14 PM,11:23,Williams 19' Jump Shot (2 PTS),,,0 - 2,2
+0020100045,5,2,1,1,3:14 PM,11:05,,,MISS Howard 15' Jump Shot,,
+0020100045,6,4,0,1,3:14 PM,11:03,Williams REBOUND (Off:0 Def:1),,,,
+0020100045,7,1,1,1,3:14 PM,10:55,Williams 15' Jump Shot (4 PTS),,,0 - 4,4
+0020100045,8,2,1,1,3:15 PM,10:41,,,MISS Nash 24' 3PT Jump Shot,,
+0020100045,9,4,0,1,3:15 PM,10:38,Wright REBOUND (Off:0 Def:1),,,,
+0020100045,10,1,1,1,3:15 PM,10:30,Wright 17' Jump Shot (2 PTS) (Williams 1 AST),,,0 - 6,6
+0020100045,11,2,1,1,3:15 PM,10:11,,,MISS Finley 14' Jump Shot,,
+0020100045,12,4,0,1,3:15 PM,10:09,Williams REBOUND (Off:0 Def:2),,,,
+0020100045,13,2,1,1,3:15 PM,10:03,MISS Dickerson  3PT Jump Shot,,,,
+0020100045,14,4,0,1,3:15 PM,9:59,,,Manning REBOUND (Off:0 Def:1),,
+0020100045,15,1,7,1,3:15 PM,9:55,,,Howard  Dunk (2 PTS) (Finley 1 AST),2 - 6,4
+0020100045,16,2,1,1,3:16 PM,9:28,MISS Wright 16' Jump Shot,,,,
+0020100045,17,4,0,1,3:16 PM,9:26,,,Manning REBOUND (Off:0 Def:2),,
+0020100045,18,2,1,1,3:16 PM,9:21,,,MISS Nash 19' Jump Shot,,
+0020100045,19,4,0,1,3:16 PM,9:19,Wright REBOUND (Off:0 Def:2),,,,
+0020100045,20,1,1,1,3:16 PM,9:14,Williams 17' Jump Shot (6 PTS),,,2 - 8,6
+0020100045,21,6,17,1,3:16 PM,9:00,GRIZZLIES T.Foul (Def. 3 Sec Wright ),,,,
+0020100045,22,3,16,1,3:17 PM,9:00,,,Nash Free Throw Technical (1 PTS),3 - 8,5
+0020100045,24,7,2,1,3:17 PM,8:57,Swift Violation:Defensive Goaltending,,,,
+0020100045,23,1,47,1,3:17 PM,8:57,,,Howard 6' Turnaround Jump Shot (4 PTS),5 - 8,3
+0020100045,25,2,1,1,3:17 PM,8:43,MISS Williams 18' Jump Shot,,,,
+0020100045,26,4,0,1,3:17 PM,8:40,,,Manning REBOUND (Off:0 Def:3),,
+0020100045,27,5,2,1,3:18 PM,8:38,,,Nash Lost Ball Turnover (P1.T1),,
+0020100045,28,5,1,1,3:18 PM,8:24,Battier Bad Pass Turnover (P1.T1),,Manning STEAL (1 STL),,
+0020100045,29,5,1,1,3:18 PM,8:10,Battier STEAL (1 STL),,Manning Bad Pass Turnover (P1.T2),,
+0020100045,30,2,1,1,3:18 PM,8:04,MISS Swift  Jump Shot,,,,
+0020100045,31,4,0,1,3:18 PM,8:03,,,Nash REBOUND (Off:0 Def:1),,
+0020100045,32,1,1,1,3:19 PM,7:48,,,Howard 11' Jump Shot (6 PTS) (Nash 1 AST),7 - 8,1
+0020100045,33,1,1,1,3:19 PM,7:45,Wright 10' Jump Shot (4 PTS) (Williams 2 AST),,,7 - 10,3
+0020100045,34,1,1,1,3:19 PM,7:34,,,Howard 17' Jump Shot (8 PTS) (Bradley 1 AST),9 - 10,1
+0020100045,35,1,1,1,3:19 PM,7:19,Wright 17' Jump Shot (6 PTS) (Williams 3 AST),,,9 - 12,3
+0020100045,36,1,3,1,3:19 PM,7:03,,,Bradley 3' Hook Shot (2 PTS),11 - 12,1
+0020100045,38,6,2,1,3:20 PM,6:51,,,Nash S.FOUL (P1.T1),,
+0020100045,40,3,11,1,3:20 PM,6:51,Williams Free Throw 1 of 2 (7 PTS),,,11 - 13,2
+0020100045,41,3,12,1,3:20 PM,6:51,Williams Free Throw 2 of 2 (8 PTS),,,11 - 14,3
+0020100045,42,1,1,1,3:20 PM,6:37,,,Howard 17' Jump Shot (10 PTS) (Bradley 2 AST),13 - 14,1
+0020100045,43,2,1,1,3:21 PM,6:17,MISS Williams 19' Jump Shot,,,,
+0020100045,44,4,0,1,3:21 PM,6:14,,,Finley REBOUND (Off:0 Def:1),,
+0020100045,45,1,7,1,3:21 PM,6:08,,,Howard  Dunk (12 PTS) (Finley 2 AST),15 - 14,-1
+0020100045,46,9,1,1,3:21 PM,5:58,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,
+0020100045,48,8,0,1,3:23 PM,5:58,SUB: Gasol FOR Swift,,,,
+0020100045,49,2,3,1,3:24 PM,5:39,MISS Wright 8' Hook Shot,,,,
+0020100045,50,4,0,1,3:24 PM,5:37,GRIZZLIES Rebound,,,,
+0020100045,51,6,1,1,3:25 PM,5:35,,,Bradley P.FOUL (P1.T2),,
+0020100045,52,5,1,1,3:25 PM,5:23,Dickerson Bad Pass Turnover (P1.T2),,Bradley STEAL (1 STL),,
+0020100045,53,1,1,1,3:25 PM,5:07,,,Howard 15' Jump Shot (14 PTS) (Manning 1 AST),17 - 14,-3
+0020100045,54,5,1,1,3:26 PM,4:55,Williams Bad Pass Turnover (P1.T3),,Howard STEAL (1 STL),,
+0020100045,55,5,1,1,3:26 PM,4:51,Battier STEAL (2 STL),,Nash Bad Pass Turnover (P2.T3),,
+0020100045,56,2,1,1,3:26 PM,4:42,MISS Wright 4' Jump Shot,,Bradley BLOCK (1 BLK),,
+0020100045,57,10,0,1,3:26 PM,4:41,Jump Ball Battier vs. Manning: Tip to Bradley,,,,
+0020100045,58,4,0,1,3:26 PM,4:41,,,Mavericks Rebound,,
+0020100045,59,5,1,1,3:26 PM,4:37,Battier STEAL (3 STL),,Bradley Bad Pass Turnover (P1.T4),,
+0020100045,60,6,1,1,3:26 PM,4:37,,,Bradley P.FOUL (P2.T3),,
+0020100045,61,8,0,1,3:27 PM,4:37,,,SUB: Eschmeyer FOR Bradley,,
+0020100045,62,6,11,1,3:27 PM,4:37,,,Bradley T.FOUL (P2.T3),,
+0020100045,63,3,16,1,3:27 PM,4:37,Williams Free Throw Technical (9 PTS),,,17 - 15,-2
+0020100045,64,2,3,1,3:27 PM,4:26,MISS Gasol 7' Hook Shot,,Manning BLOCK (1 BLK),,
+0020100045,65,4,0,1,3:27 PM,4:23,,,Manning REBOUND (Off:0 Def:4),,
+0020100045,66,2,1,1,3:28 PM,4:12,Gasol BLOCK (1 BLK),,MISS Howard  Jump Shot,,
+0020100045,67,4,0,1,3:28 PM,4:10,Gasol REBOUND (Off:0 Def:1),,,,
+0020100045,68,6,11,1,3:28 PM,4:09,,,,,
+0020100045,69,3,16,1,3:28 PM,4:09,Williams Free Throw Technical (10 PTS),,,17 - 16,-1
+0020100045,70,2,1,1,3:29 PM,3:57,MISS Dickerson 15' Jump Shot,,Finley BLOCK (1 BLK),,
+0020100045,71,4,0,1,3:29 PM,3:53,,,Howard REBOUND (Off:0 Def:1),,
+0020100045,72,2,1,1,3:29 PM,3:44,,,MISS Nash 25' 3PT Jump Shot,,
+0020100045,73,4,0,1,3:29 PM,3:41,,,Finley REBOUND (Off:1 Def:1),,
+0020100045,74,1,1,1,3:29 PM,3:38,,,Finley 15' Jump Shot (2 PTS),19 - 16,-3
+0020100045,75,6,2,1,3:29 PM,3:32,,,Eschmeyer S.FOUL (P1.T4),,
+0020100045,76,3,11,1,3:29 PM,3:32,Wright Free Throw 1 of 2 (7 PTS),,,19 - 17,-2
+0020100045,77,8,0,1,3:30 PM,3:32,SUB: Anderson FOR Dickerson,,,,
+0020100045,78,3,12,1,3:30 PM,3:32,Wright Free Throw 2 of 2 (8 PTS),,,19 - 18,-1
+0020100045,79,1,1,1,3:30 PM,3:17,,,Nash 15' Jump Shot (3 PTS) (Manning 2 AST),21 - 18,-3
+0020100045,80,5,1,1,3:30 PM,3:12,Williams Bad Pass Turnover (P2.T4),,,,
+0020100045,81,2,1,1,3:30 PM,3:01,,,MISS Nash 18' Jump Shot,,
+0020100045,82,4,0,1,3:31 PM,3:00,GRIZZLIES Rebound,,,,
+0020100045,83,2,1,1,3:31 PM,2:55,MISS Williams 25' 3PT Jump Shot,,,,
+0020100045,84,4,0,1,3:31 PM,2:52,,,Manning REBOUND (Off:0 Def:5),,
+0020100045,85,2,1,1,3:31 PM,2:44,,,MISS Finley 24' 3PT Jump Shot,,
+0020100045,86,4,0,1,3:31 PM,2:43,Wright REBOUND (Off:0 Def:3),,,,
+0020100045,87,6,1,1,3:31 PM,2:43,,,Eschmeyer P.FOUL (P2.PN),,
+0020100045,88,9,1,1,3:32 PM,2:43,,,Mavericks Timeout: Regular (Reg.1 Short 0),,
+0020100045,90,8,0,1,3:33 PM,2:43,,,SUB: Harvey FOR Eschmeyer,,
+0020100045,91,3,11,1,3:34 PM,2:43,Wright Free Throw 1 of 2 (9 PTS),,,21 - 19,-2
+0020100045,92,3,12,1,3:34 PM,2:43,Wright Free Throw 2 of 2 (10 PTS),,,21 - 20,-1
+0020100045,93,2,1,1,3:34 PM,2:31,,,MISS Manning 13' Jump Shot,,
+0020100045,94,4,0,1,3:34 PM,2:29,Williams REBOUND (Off:0 Def:3),,,,
+0020100045,95,1,1,1,3:35 PM,2:09,Battier 24' 3PT Jump Shot (3 PTS) (Wright 1 AST),,,21 - 23,2
+0020100045,96,6,2,1,3:35 PM,1:53,Battier S.FOUL (P1.T1),,,,
+0020100045,97,3,11,1,3:35 PM,1:53,,,MISS Manning Free Throw 1 of 2,,
+0020100045,98,4,1,1,3:35 PM,1:53,,,Mavericks Rebound,,
+0020100045,99,3,12,1,3:35 PM,1:53,,,MISS Manning Free Throw 2 of 2,,
+0020100045,100,4,0,1,3:36 PM,1:52,Wright REBOUND (Off:0 Def:4),,,,
+0020100045,101,1,42,1,3:36 PM,1:31,Battier  Driving Layup (5 PTS),,,21 - 25,4
+0020100045,102,1,63,1,3:36 PM,1:11,,,Howard 11' Fadeaway Jumper (16 PTS),23 - 25,2
+0020100045,103,2,1,1,3:37 PM,0:53,MISS Gasol 8' Jump Shot,,,,
+0020100045,104,4,0,1,3:37 PM,0:50,,,Harvey REBOUND (Off:0 Def:1),,
+0020100045,105,2,1,1,3:37 PM,0:47,,,MISS Finley 24' 3PT Jump Shot,,
+0020100045,106,4,0,1,3:37 PM,0:42,Battier REBOUND (Off:0 Def:1),,,,
+0020100045,107,2,1,1,3:37 PM,0:33,MISS Battier  3PT Jump Shot,,,,
+0020100045,108,4,0,1,3:37 PM,0:29,Gasol REBOUND (Off:1 Def:1),,,,
+0020100045,109,8,0,1,3:37 PM,0:27,,,SUB: Hardaway FOR Nash,,
+0020100045,110,1,1,1,3:37 PM,0:25,Anderson 24' 3PT Jump Shot (3 PTS) (Battier 1 AST),,,23 - 28,5
+0020100045,111,2,1,1,3:38 PM,0:05,,,MISS Hardaway 24' 3PT Jump Shot,,
+0020100045,112,4,0,1,3:38 PM,0:02,,,Finley REBOUND (Off:2 Def:1),,
+0020100045,113,1,7,1,3:38 PM,0:01,,,Finley  Dunk (4 PTS),25 - 28,3
+0020100045,114,2,1,1,3:38 PM,0:00,MISS Williams 43' 3PT Jump Shot,,,,
+0020100045,116,4,0,1,3:38 PM,0:00,GRIZZLIES Rebound,,,,
+0020100045,115,13,0,1,3:38 PM,0:00,,,,25 - 28,3
+0020100045,118,12,0,2,3:41 PM,12:00,,,,25 - 28,3
+0020100045,119,2,1,2,3:41 PM,11:51,MISS Anderson  3PT Jump Shot,,,,
+0020100045,120,4,0,2,3:41 PM,11:49,,,Harvey REBOUND (Off:0 Def:2),,
+0020100045,121,1,1,2,3:42 PM,11:32,,,Howard 16' Jump Shot (18 PTS) (Manning 3 AST),27 - 28,1
+0020100045,122,2,1,2,3:42 PM,11:10,MISS Anderson 26' 3PT Jump Shot,,,,
+0020100045,123,4,0,2,3:42 PM,11:08,,,Hardaway REBOUND (Off:0 Def:1),,
+0020100045,124,1,1,2,3:42 PM,11:03,,,Hardaway 18' Jump Shot (2 PTS) (Finley 3 AST),29 - 28,-1
+0020100045,125,1,1,2,3:43 PM,10:37,Knight 17' Jump Shot (2 PTS) (Battier 2 AST),,,29 - 30,1
+0020100045,126,1,58,2,3:43 PM,10:21,,,Manning 5' Turnaround Hook Shot (2 PTS) (Finley 4 AST),31 - 30,-1
+0020100045,127,2,1,2,3:43 PM,10:03,MISS Battier  3PT Jump Shot,,,,
+0020100045,128,4,0,2,3:43 PM,10:01,Wright REBOUND (Off:1 Def:4),,,,
+0020100045,129,6,4,2,3:43 PM,10:01,Wright OFF.Foul (P1),,,,
+0020100045,130,5,5,2,3:43 PM,10:01,Wright Foul Turnover (P1.T5),,,,
+0020100045,131,9,2,2,3:43 PM,10:01,GRIZZLIES Timeout: Short (Full 1 Short 1),,,,
+0020100045,133,6,1,2,3:45 PM,9:45,Gasol P.FOUL (P1.T1),,,,
+0020100045,134,2,1,2,3:45 PM,9:35,Gasol BLOCK (2 BLK),,MISS Howard 9' Jump Shot,,
+0020100045,135,4,0,2,3:45 PM,9:33,Wright REBOUND (Off:1 Def:5),,,,
+0020100045,136,5,1,2,3:45 PM,9:24,Gasol Bad Pass Turnover (P1.T6),,Harvey STEAL (1 STL),,
+0020100045,137,2,1,2,3:45 PM,9:14,,,MISS Finley 17' Jump Shot,,
+0020100045,138,4,0,2,3:45 PM,9:12,Anderson REBOUND (Off:0 Def:1),,,,
+0020100045,139,5,2,2,3:45 PM,9:07,Gasol Lost Ball Turnover (P2.T7),,,,
+0020100045,140,8,0,2,3:46 PM,9:07,SUB: Massenburg FOR Wright,,,,
+0020100045,141,6,17,2,3:46 PM,8:56,GRIZZLIES T.Foul (Def. 3 Sec Massenburg ),,,,
+0020100045,142,9,4,2,3:46 PM,8:56,,,,,
+0020100045,144,8,0,2,3:48 PM,8:56,,,SUB: Bradley FOR Manning,,
+0020100045,145,3,16,2,3:48 PM,8:56,,,MISS Finley Free Throw Technical,,
+0020100045,146,4,1,2,3:48 PM,8:56,,,Mavericks Rebound,,
+0020100045,147,1,1,2,3:49 PM,8:49,,,Hardaway 4' Jump Shot (4 PTS) (Harvey 1 AST),33 - 30,-3
+0020100045,148,6,2,2,3:49 PM,8:49,Knight S.FOUL (P1.T2),,,,
+0020100045,149,3,10,2,3:49 PM,8:49,,,Hardaway Free Throw 1 of 1 (5 PTS),34 - 30,-4
+0020100045,150,6,1,2,3:49 PM,8:39,,,Howard P.FOUL (P1.T1),,
+0020100045,151,8,0,2,3:50 PM,8:39,SUB: Dickerson FOR Battier,,,,
+0020100045,152,6,4,2,3:50 PM,8:31,Massenburg OFF.Foul (P1),,,,
+0020100045,153,5,5,2,3:50 PM,8:31,Massenburg Foul Turnover (P1.T8),,,,
+0020100045,154,2,1,2,3:50 PM,8:19,,,MISS Hardaway 25' 3PT Jump Shot,,
+0020100045,155,4,0,2,3:50 PM,8:16,,,Howard REBOUND (Off:1 Def:1),,
+0020100045,156,2,1,2,3:51 PM,8:14,Anderson BLOCK (1 BLK),,MISS Harvey  Jump Shot,,
+0020100045,157,4,0,2,3:51 PM,8:11,Anderson REBOUND (Off:0 Def:2),,,,
+0020100045,158,5,4,2,3:51 PM,8:07,Gasol Traveling Turnover (P3.T9),,,,
+0020100045,159,6,1,2,3:51 PM,7:57,Gasol P.FOUL (P2.T3),,,,
+0020100045,160,8,0,2,3:51 PM,7:57,SUB: Swift FOR Gasol,,,,
+0020100045,161,6,2,2,3:52 PM,7:47,Dickerson S.FOUL (P1.T4),,,,
+0020100045,162,3,11,2,3:52 PM,7:47,,,Finley Free Throw 1 of 2 (5 PTS),35 - 30,-5
+0020100045,163,3,12,2,3:52 PM,7:47,,,Finley Free Throw 2 of 2 (6 PTS),36 - 30,-6
+0020100045,164,6,1,2,3:52 PM,7:42,,,Hardaway P.FOUL (P1.T2),,
+0020100045,165,2,1,2,3:53 PM,7:34,MISS Anderson 24' 3PT Jump Shot,,,,
+0020100045,166,4,0,2,3:53 PM,7:30,,,Finley REBOUND (Off:2 Def:2),,
+0020100045,167,1,1,2,3:53 PM,7:23,,,Howard 16' Jump Shot (20 PTS) (Harvey 2 AST),38 - 30,-8
+0020100045,168,9,1,2,3:53 PM,7:16,GRIZZLIES Timeout: Regular (Full 2 Short 1),,,,
+0020100045,170,8,0,2,3:55 PM,7:16,SUB: Battier FOR Anderson,,,,
+0020100045,171,2,1,2,3:55 PM,6:58,MISS Dickerson 19' Jump Shot,,,,
+0020100045,172,4,0,2,3:55 PM,6:56,,,Harvey REBOUND (Off:0 Def:3),,
+0020100045,173,6,2,2,3:56 PM,6:47,Swift S.FOUL (P1.PN),,,,
+0020100045,174,8,0,2,3:56 PM,6:47,,,SUB: Nash FOR Finley,,
+0020100045,175,3,11,2,3:56 PM,6:47,,,Howard Free Throw 1 of 2 (21 PTS),39 - 30,-9
+0020100045,177,8,0,2,3:56 PM,6:47,SUB: Williams FOR Knight,,,,
+0020100045,178,3,12,2,3:56 PM,6:47,,,MISS Howard Free Throw 2 of 2,,
+0020100045,179,4,0,2,3:56 PM,6:42,Swift REBOUND (Off:0 Def:2),,,,
+0020100045,180,6,1,2,3:57 PM,6:26,,,Harvey P.FOUL (P1.T3),,
+0020100045,181,1,7,2,3:57 PM,6:15,Swift  Dunk (2 PTS) (Battier 3 AST),,,39 - 32,-7
+0020100045,182,2,1,2,3:57 PM,6:00,,,MISS Howard 8' Jump Shot,,
+0020100045,183,4,0,2,3:57 PM,5:58,Dickerson REBOUND (Off:0 Def:1),,,,
+0020100045,184,2,1,2,3:58 PM,5:52,MISS Swift 14' Jump Shot,,,,
+0020100045,185,4,0,2,3:58 PM,5:49,Swift REBOUND (Off:1 Def:2),,,,
+0020100045,186,6,1,2,3:58 PM,5:42,,,Harvey P.FOUL (P2.T4),,
+0020100045,187,8,0,2,3:58 PM,5:42,,,SUB: Manning FOR Harvey,,
+0020100045,188,2,1,2,3:58 PM,5:34,MISS Battier 10' Jump Shot,,,,
+0020100045,189,4,0,2,3:58 PM,5:32,,,Howard REBOUND (Off:1 Def:2),,
+0020100045,190,5,2,2,3:59 PM,5:19,Massenburg STEAL (1 STL),,Nash Lost Ball Turnover (P3.T5),,
+0020100045,191,6,1,2,3:59 PM,5:04,,,Manning P.FOUL (P1.PN),,
+0020100045,192,8,0,2,3:59 PM,5:04,SUB: Wright FOR Massenburg,,,,
+0020100045,193,3,11,2,3:59 PM,5:04,Battier Free Throw 1 of 2 (6 PTS),,,39 - 33,-6
+0020100045,194,3,12,2,3:59 PM,5:04,Battier Free Throw 2 of 2 (7 PTS),,,39 - 34,-5
+0020100045,195,1,3,2,4:00 PM,4:47,,,Howard 3' Hook Shot (23 PTS),41 - 34,-7
+0020100045,196,1,1,2,4:00 PM,4:29,Wright 14' Jump Shot (12 PTS) (Williams 4 AST),,,41 - 36,-5
+0020100045,197,6,1,2,4:00 PM,4:21,Wright P.FOUL (P2.PN),,,,
+0020100045,198,3,11,2,4:00 PM,4:21,,,MISS Howard Free Throw 1 of 2,,
+0020100045,199,4,1,2,4:00 PM,4:21,,,Mavericks Rebound,,
+0020100045,201,6,11,2,4:01 PM,4:21,Wright T.FOUL (P2.PN),,,,
+0020100045,202,3,16,2,4:01 PM,4:21,,,Nash Free Throw Technical (4 PTS),42 - 36,-6
+0020100045,200,3,12,2,4:02 PM,4:21,,,Howard Free Throw 2 of 2 (24 PTS),43 - 36,-7
+0020100045,204,1,1,2,4:02 PM,3:57,Battier 24' 3PT Jump Shot (10 PTS) (Dickerson 1 AST),,,43 - 39,-4
+0020100045,205,2,1,2,4:02 PM,3:53,,,MISS Nash 24' 3PT Jump Shot,,
+0020100045,206,4,0,2,4:02 PM,3:50,Wright REBOUND (Off:1 Def:6),,,,
+0020100045,207,2,1,2,4:02 PM,3:47,MISS Dickerson 24' 3PT Jump Shot,,,,
+0020100045,208,4,0,2,4:02 PM,3:45,,,Hardaway REBOUND (Off:0 Def:2),,
+0020100045,209,6,1,2,4:02 PM,3:42,Swift P.FOUL (P2.PN),,,,
+0020100045,210,3,11,2,4:03 PM,3:42,,,MISS Howard Free Throw 1 of 2,,
+0020100045,211,4,1,2,4:03 PM,3:42,,,Mavericks Rebound,,
+0020100045,212,3,12,2,4:03 PM,3:42,,,MISS Howard Free Throw 2 of 2,,
+0020100045,213,4,0,2,4:03 PM,3:40,Wright REBOUND (Off:1 Def:7),,,,
+0020100045,214,2,1,2,4:03 PM,3:20,MISS Swift 14' Jump Shot,,,,
+0020100045,215,4,0,2,4:03 PM,3:16,,,Nash REBOUND (Off:0 Def:2),,
+0020100045,216,2,1,2,4:03 PM,3:13,,,MISS Nash 9' Jump Shot,,
+0020100045,217,4,0,2,4:03 PM,3:12,Swift REBOUND (Off:1 Def:3),,,,
+0020100045,218,5,2,2,4:04 PM,3:06,Wright Lost Ball Turnover (P2.T10),,,,
+0020100045,219,2,1,2,4:04 PM,3:00,,,MISS Hardaway 17' Jump Shot,,
+0020100045,220,4,0,2,4:04 PM,2:57,Wright REBOUND (Off:1 Def:8),,,,
+0020100045,221,2,1,2,4:04 PM,2:44,MISS Battier 20' Jump Shot,,,,
+0020100045,222,4,0,2,4:04 PM,2:42,Wright REBOUND (Off:2 Def:8),,,,
+0020100045,223,5,1,2,4:04 PM,2:41,Wright Bad Pass Turnover (P3.T11),,Hardaway STEAL (1 STL),,
+0020100045,224,1,5,2,4:04 PM,2:37,,,Manning  Layup (4 PTS) (Nash 2 AST),45 - 39,-6
+0020100045,225,2,1,2,4:04 PM,2:21,MISS Williams  3PT Jump Shot,,,,
+0020100045,226,4,0,2,4:04 PM,2:17,,,Nash REBOUND (Off:0 Def:3),,
+0020100045,227,5,1,2,4:04 PM,2:13,Wright STEAL (1 STL),,Nash Bad Pass Turnover (P4.T6),,
+0020100045,228,2,1,2,4:05 PM,2:01,MISS Wright 17' Jump Shot,,,,
+0020100045,229,4,0,2,4:05 PM,1:59,,,Nash REBOUND (Off:0 Def:4),,
+0020100045,230,1,7,2,4:05 PM,1:56,,,Howard  Dunk (26 PTS) (Nash 3 AST),47 - 39,-8
+0020100045,231,5,2,2,4:05 PM,1:23,Williams Lost Ball Turnover (P3.T12),,Bradley STEAL (2 STL),,
+0020100045,232,5,1,2,4:05 PM,1:17,Battier STEAL (4 STL),,Bradley Bad Pass Turnover (P2.T7),,
+0020100045,233,1,5,2,4:06 PM,1:04,Wright  Layup (14 PTS) (Battier 4 AST),,,47 - 41,-6
+0020100045,234,6,2,2,4:06 PM,1:04,,,Hardaway S.FOUL (P2.PN),,
+0020100045,235,9,1,2,4:06 PM,1:04,,,Mavericks Timeout: Regular (Reg.2 Short 0),,
+0020100045,237,8,0,2,4:08 PM,1:04,,,SUB: Harvey FOR Howard,,
+0020100045,241,8,0,2,4:08 PM,1:04,,,SUB: Finley FOR Bradley,,
+0020100045,238,3,10,2,4:08 PM,1:04,MISS Wright Free Throw 1 of 1,,,,
+0020100045,239,4,0,2,4:09 PM,1:00,Wright REBOUND (Off:3 Def:8),,,,
+0020100045,240,1,5,2,4:09 PM,0:59,Wright  Layup (16 PTS),,,47 - 43,-4
+0020100045,242,2,1,2,4:10 PM,0:41,,,MISS Nash 24' 3PT Jump Shot,,
+0020100045,243,4,0,2,4:10 PM,0:38,,,Manning REBOUND (Off:1 Def:5),,
+0020100045,244,1,1,2,4:10 PM,0:34,,,Hardaway 25' 3PT Jump Shot (8 PTS),50 - 43,-7
+0020100045,245,2,1,2,4:10 PM,0:14,MISS Swift 8' Jump Shot,,,,
+0020100045,246,4,0,2,4:10 PM,0:12,Wright REBOUND (Off:4 Def:8),,,,
+0020100045,247,2,5,2,4:11 PM,0:01,MISS Williams  Layup,,,,
+0020100045,248,4,0,2,4:11 PM,0:00,,,Hardaway REBOUND (Off:0 Def:3),,
+0020100045,249,2,1,2,4:11 PM,0:00,,,MISS Hardaway 40' 3PT Jump Shot,,
+0020100045,251,4,0,2,4:11 PM,0:00,,,Mavericks Rebound,,
+0020100045,250,13,0,2,4:11 PM,0:00,,,,50 - 43,-7
+0020100045,253,12,0,3,4:29 PM,12:00,,,,50 - 43,-7
+0020100045,254,2,1,3,4:29 PM,11:42,MISS Battier 24' 3PT Jump Shot,,,,
+0020100045,255,4,0,3,4:29 PM,11:40,Wright REBOUND (Off:5 Def:8),,,,
+0020100045,256,1,1,3,4:29 PM,11:36,Dickerson 24' 3PT Jump Shot (3 PTS) (Wright 2 AST),,,50 - 46,-4
+0020100045,257,2,1,3,4:29 PM,11:16,,,MISS Nash 20' Jump Shot,,
+0020100045,258,4,0,3,4:29 PM,11:13,Wright REBOUND (Off:5 Def:9),,,,
+0020100045,259,2,1,3,4:30 PM,11:00,MISS Wright 20' Jump Shot,,,,
+0020100045,260,4,0,3,4:30 PM,10:59,,,Howard REBOUND (Off:1 Def:3),,
+0020100045,261,2,1,3,4:30 PM,10:46,,,MISS Finley 14' Jump Shot,,
+0020100045,262,4,0,3,4:30 PM,10:43,Swift REBOUND (Off:1 Def:4),,,,
+0020100045,263,6,2,3,4:30 PM,10:41,,,Nash S.FOUL (P2.T1),,
+0020100045,264,3,11,3,4:30 PM,10:41,MISS Williams Free Throw 1 of 2,,,,
+0020100045,265,4,1,3,4:30 PM,10:41,GRIZZLIES Rebound,,,,
+0020100045,266,3,12,3,4:30 PM,10:41,Williams Free Throw 2 of 2 (11 PTS),,,50 - 47,-3
+0020100045,267,6,17,3,4:31 PM,10:33,GRIZZLIES T.Foul (Def. 3 Sec Swift ),,,,
+0020100045,268,3,16,3,4:31 PM,10:33,,,MISS Nash Free Throw Technical,,
+0020100045,269,4,1,3,4:31 PM,10:33,,,Mavericks Rebound,,
+0020100045,270,2,1,3,4:32 PM,10:19,,,MISS Manning 24' 3PT Jump Shot,,
+0020100045,271,4,0,3,4:32 PM,10:17,,,Howard REBOUND (Off:2 Def:3),,
+0020100045,272,2,44,3,4:32 PM,10:15,,,MISS Howard  Reverse Layup,,
+0020100045,273,4,0,3,4:32 PM,10:13,Battier REBOUND (Off:0 Def:2),,,,
+0020100045,274,2,1,3,4:32 PM,10:09,MISS Dickerson 25' 3PT Jump Shot,,,,
+0020100045,275,4,0,3,4:32 PM,10:07,Wright REBOUND (Off:6 Def:9),,,,
+0020100045,276,6,1,3,4:32 PM,10:07,,,Bradley P.FOUL (P3.T2),,
+0020100045,277,2,1,3,4:32 PM,9:53,MISS Battier 6' Jump Shot,,,,
+0020100045,278,4,0,3,4:33 PM,9:50,,,Howard REBOUND (Off:2 Def:4),,
+0020100045,280,5,8,3,4:33 PM,9:34,,,Howard 3 Second Violation Turnover (P1.T8),,
+0020100045,281,1,1,3,4:33 PM,9:22,Williams 18' Jump Shot (13 PTS),,,50 - 49,-1
+0020100045,282,9,1,3,4:33 PM,9:17,,,Mavericks Timeout: Regular (Reg.3 Short 0),,
+0020100045,284,8,0,3,4:35 PM,9:17,,,SUB: Harvey FOR Manning,,
+0020100045,285,1,1,3,4:36 PM,9:03,,,Finley 16' Jump Shot (8 PTS),52 - 49,-3
+0020100045,286,2,1,3,4:36 PM,8:43,MISS Swift 20' Jump Shot,,,,
+0020100045,287,4,0,3,4:36 PM,8:41,Battier REBOUND (Off:1 Def:2),,,,
+0020100045,288,6,2,3,4:36 PM,8:41,,,Harvey S.FOUL (P3.T3),,
+0020100045,289,3,11,3,4:36 PM,8:41,Battier Free Throw 1 of 2 (11 PTS),,,52 - 50,-2
+0020100045,290,3,12,3,4:37 PM,8:41,MISS Battier Free Throw 2 of 2,,,,
+0020100045,291,4,0,3,4:37 PM,8:40,,,Harvey REBOUND (Off:0 Def:4),,
+0020100045,292,1,46,3,4:37 PM,8:25,,,Howard 7' Running Jump Shot (28 PTS),54 - 50,-4
+0020100045,293,6,2,3,4:37 PM,8:06,,,Howard S.FOUL (P2.T4),,
+0020100045,294,3,11,3,4:37 PM,8:06,MISS Swift Free Throw 1 of 2,,,,
+0020100045,295,4,1,3,4:37 PM,8:06,GRIZZLIES Rebound,,,,
+0020100045,296,3,12,3,4:38 PM,8:06,Swift Free Throw 2 of 2 (3 PTS),,,54 - 51,-3
+0020100045,297,1,63,3,4:38 PM,7:51,,,Finley 14' Fadeaway Jumper (10 PTS) (Nash 4 AST),56 - 51,-5
+0020100045,298,6,2,3,4:39 PM,7:38,,,Bradley S.FOUL (P4.PN),,
+0020100045,299,3,11,3,4:39 PM,7:38,Swift Free Throw 1 of 2 (4 PTS),,,56 - 52,-4
+0020100045,300,3,12,3,4:39 PM,7:38,Swift Free Throw 2 of 2 (5 PTS),,,56 - 53,-3
+0020100045,301,6,2,3,4:40 PM,7:27,Battier S.FOUL (P2.T1),,,,
+0020100045,302,3,11,3,4:40 PM,7:27,,,Howard Free Throw 1 of 2 (29 PTS),57 - 53,-4
+0020100045,303,3,12,3,4:40 PM,7:27,,,Howard Free Throw 2 of 2 (30 PTS),58 - 53,-5
+0020100045,304,2,1,3,4:41 PM,7:01,MISS Wright 13' Jump Shot,,,,
+0020100045,305,4,0,3,4:41 PM,6:59,,,Howard REBOUND (Off:2 Def:5),,
+0020100045,306,5,1,3,4:41 PM,6:51,,,Finley Bad Pass Turnover (P1.T9),,
+0020100045,307,6,2,3,4:41 PM,6:51,,,Howard S.FOUL (P3.PN),,
+0020100045,308,3,11,3,4:42 PM,6:51,Swift Free Throw 1 of 2 (6 PTS),,,58 - 54,-4
+0020100045,309,3,12,3,4:42 PM,6:51,Swift Free Throw 2 of 2 (7 PTS),,,58 - 55,-3
+0020100045,310,2,1,3,4:42 PM,6:41,,,MISS Finley 24' 3PT Jump Shot,,
+0020100045,311,4,0,3,4:42 PM,6:38,Williams REBOUND (Off:0 Def:4),,,,
+0020100045,312,2,1,3,4:42 PM,6:34,MISS Dickerson 18' Jump Shot,,,,
+0020100045,313,4,0,3,4:42 PM,6:34,,,Finley REBOUND (Off:2 Def:3),,
+0020100045,314,6,1,3,4:42 PM,6:34,Battier P.FOUL (P3.T2),,,,
+0020100045,315,1,1,3,4:43 PM,6:21,,,Finley 10' Jump Shot (12 PTS) (Howard 1 AST),60 - 55,-5
+0020100045,316,2,1,3,4:43 PM,6:14,MISS Williams 18' Jump Shot,,,,
+0020100045,317,4,0,3,4:43 PM,6:12,,,Mavericks Rebound,,
+0020100045,318,6,1,3,4:43 PM,6:12,Dickerson P.FOUL (P2.T3),,,,
+0020100045,319,9,1,3,4:43 PM,6:12,GRIZZLIES Timeout: Regular (Full 3 Short 1),,,,
+0020100045,321,6,2,3,4:46 PM,5:57,Dickerson S.FOUL (P3.T4),,,,
+0020100045,322,3,11,3,4:46 PM,5:57,,,Finley Free Throw 1 of 2 (13 PTS),61 - 55,-6
+0020100045,323,3,12,3,4:46 PM,5:57,,,MISS Finley Free Throw 2 of 2,,
+0020100045,324,4,0,3,4:46 PM,5:55,Williams REBOUND (Off:0 Def:5),,,,
+0020100045,325,1,1,3,4:47 PM,5:49,Williams 17' Jump Shot (15 PTS),,,61 - 57,-4
+0020100045,327,6,4,3,4:47 PM,5:34,,,Howard OFF.Foul (P4),,
+0020100045,353,5,5,3,4:47 PM,5:14,,,Howard Foul Turnover (P2.T10),,
+0020100045,328,2,1,3,4:47 PM,5:14,MISS Swift 7' Jump Shot,,,,
+0020100045,330,4,0,3,4:47 PM,5:12,Wright REBOUND (Off:7 Def:9),,,,
+0020100045,329,1,4,3,4:47 PM,5:12,Wright  Tip Shot (18 PTS),,,61 - 59,-2
+0020100045,331,5,1,3,4:48 PM,5:00,Swift STEAL (1 STL),,Howard Bad Pass Turnover (P3.T11),,
+0020100045,332,1,1,3,4:49 PM,4:41,Williams 14' Jump Shot (17 PTS),,,61 - 61,TIE
+0020100045,333,8,0,3,4:49 PM,4:18,,,SUB: Hardaway FOR Nash,,
+0020100045,334,8,0,3,4:49 PM,4:18,,,SUB: Manning FOR Howard,,
+0020100045,335,1,1,3,4:50 PM,4:12,,,Finley 16' Jump Shot (15 PTS),63 - 61,-2
+0020100045,336,2,1,3,4:50 PM,4:00,MISS Williams 26' 3PT Jump Shot,,,,
+0020100045,337,4,0,3,4:50 PM,3:58,,,Manning REBOUND (Off:1 Def:6),,
+0020100045,338,2,1,3,4:50 PM,3:49,,,MISS Manning 10' Jump Shot,,
+0020100045,339,4,0,3,4:50 PM,3:47,Wright REBOUND (Off:7 Def:10),,,,
+0020100045,340,6,2,3,4:50 PM,3:38,,,Bradley S.FOUL (P5.PN),,
+0020100045,341,3,11,3,4:50 PM,3:38,Wright Free Throw 1 of 2 (19 PTS),,,63 - 62,-1
+0020100045,342,8,0,3,4:51 PM,3:38,SUB: Anderson FOR Dickerson,,,,
+0020100045,343,8,0,3,4:51 PM,3:38,SUB: Long FOR Battier,,,,
+0020100045,344,8,0,3,4:51 PM,3:38,,,SUB: Eschmeyer FOR Bradley,,
+0020100045,345,3,12,3,4:51 PM,3:38,Wright Free Throw 2 of 2 (20 PTS),,,63 - 63,TIE
+0020100045,346,1,1,3,4:51 PM,3:26,,,Harvey 6' Jump Shot (2 PTS) (Hardaway 1 AST),65 - 63,-2
+0020100045,347,2,1,3,4:52 PM,3:08,MISS Wright 9' Jump Shot,,Harvey BLOCK (1 BLK),,
+0020100045,348,4,0,3,4:52 PM,3:04,,,Manning REBOUND (Off:1 Def:7),,
+0020100045,349,1,1,3,4:52 PM,2:56,,,Finley 7' Jump Shot (17 PTS),67 - 63,-4
+0020100045,350,5,2,3,4:52 PM,2:28,Williams Lost Ball Turnover (P4.T13),,Finley STEAL (1 STL),,
+0020100045,351,9,2,3,4:52 PM,2:28,,,Mavericks Timeout: Short (Reg.3 Short 1),,
+0020100045,354,2,1,3,4:54 PM,2:16,,,MISS Finley 17' Jump Shot,,
+0020100045,355,4,0,3,4:54 PM,2:12,Anderson REBOUND (Off:0 Def:3),,,,
+0020100045,356,2,1,3,4:54 PM,2:04,MISS Wright 7' Jump Shot,,,,
+0020100045,357,4,0,3,4:54 PM,2:03,Wright REBOUND (Off:8 Def:10),,,,
+0020100045,358,6,3,3,4:54 PM,2:03,,,Harvey L.B.FOUL (P4.PN),,
+0020100045,359,3,11,3,4:54 PM,2:03,Wright Free Throw 1 of 2 (21 PTS),,,67 - 64,-3
+0020100045,361,8,0,3,4:55 PM,2:03,SUB: Gasol FOR Swift,,,,
+0020100045,362,3,12,3,4:55 PM,2:03,MISS Wright Free Throw 2 of 2,,,,
+0020100045,363,4,0,3,4:55 PM,2:02,,,Eschmeyer REBOUND (Off:0 Def:1),,
+0020100045,364,6,2,3,4:55 PM,1:50,Anderson S.FOUL (P1.PN),,,,
+0020100045,365,3,11,3,4:55 PM,1:50,,,Harvey Free Throw 1 of 2 (3 PTS),68 - 64,-4
+0020100045,366,3,12,3,4:56 PM,1:50,,,MISS Harvey Free Throw 2 of 2,,
+0020100045,367,4,0,3,4:56 PM,1:50,Williams REBOUND (Off:0 Def:6),,,,
+0020100045,368,2,1,3,4:56 PM,1:30,MISS Long 19' Jump Shot,,,,
+0020100045,369,4,0,3,4:56 PM,1:28,,,Manning REBOUND (Off:1 Def:8),,
+0020100045,370,1,1,3,4:56 PM,1:16,,,Manning 17' Jump Shot (6 PTS) (Hardaway 2 AST),70 - 64,-6
+0020100045,371,5,1,3,4:57 PM,0:59,Anderson Bad Pass Turnover (P1.T14),,Manning STEAL (2 STL),,
+0020100045,372,2,1,3,4:57 PM,0:51,,,MISS Hardaway 20' Jump Shot,,
+0020100045,373,4,0,3,4:57 PM,0:50,Gasol REBOUND (Off:1 Def:2),,,,
+0020100045,374,1,1,3,4:57 PM,0:36,Wright 15' Jump Shot (23 PTS) (Gasol 1 AST),,,70 - 66,-4
+0020100045,375,6,2,3,4:58 PM,0:30,Williams S.FOUL (P1.PN),,,,
+0020100045,376,3,13,3,4:58 PM,0:30,,,Hardaway Free Throw 1 of 3 (9 PTS),71 - 66,-5
+0020100045,377,3,14,3,4:58 PM,0:30,,,MISS Hardaway Free Throw 2 of 3,,
+0020100045,378,4,1,3,4:58 PM,0:30,,,Mavericks Rebound,,
+0020100045,379,3,15,3,4:58 PM,0:30,,,Hardaway Free Throw 3 of 3 (10 PTS),72 - 66,-6
+0020100045,380,2,46,3,4:59 PM,0:12,MISS Wright 8' Running Jump Shot,,,,
+0020100045,381,4,0,3,4:59 PM,0:11,,,Eschmeyer REBOUND (Off:0 Def:2),,
+0020100045,382,2,1,3,4:59 PM,0:00,Williams BLOCK (1 BLK),,MISS Hardaway 19' Jump Shot,,
+0020100045,385,4,0,3,4:59 PM,0:00,Wright REBOUND (Off:8 Def:11),,,,
+0020100045,386,13,0,3,5:00 PM,0:00,,,,72 - 66,-6
+0020100045,388,12,0,4,5:02 PM,12:00,,,,72 - 66,-6
+0020100045,389,1,1,4,5:02 PM,11:41,,,Finley 17' Jump Shot (19 PTS) (Hardaway 3 AST),74 - 66,-8
+0020100045,390,6,2,4,5:02 PM,11:41,Anderson S.FOUL (P2.T1),,,,
+0020100045,391,3,10,4,5:03 PM,11:41,,,MISS Finley Free Throw 1 of 1,,
+0020100045,392,4,0,4,5:03 PM,11:40,Gasol REBOUND (Off:1 Def:3),,,,
+0020100045,393,5,1,4,5:03 PM,11:18,Knight Bad Pass Turnover (P1.T15),,,,
+0020100045,394,1,1,4,5:03 PM,11:04,,,Manning 15' Jump Shot (8 PTS) (Howard 2 AST),76 - 66,-10
+0020100045,395,6,2,4,5:04 PM,10:42,,,Eschmeyer S.FOUL (P3.T1),,
+0020100045,396,3,11,4,5:04 PM,10:42,MISS Wright Free Throw 1 of 2,,,,
+0020100045,397,4,1,4,5:04 PM,10:42,GRIZZLIES Rebound,,,,
+0020100045,398,8,0,4,5:04 PM,10:42,SUB: Battier FOR Long,,,,
+0020100045,399,3,12,4,5:04 PM,10:42,MISS Wright Free Throw 2 of 2,,,,
+0020100045,400,4,0,4,5:05 PM,10:42,,,Manning REBOUND (Off:1 Def:9),,
+0020100045,401,5,1,4,5:05 PM,10:22,,,Finley Bad Pass Turnover (P2.T12),,
+0020100045,402,2,1,4,5:05 PM,10:02,MISS Anderson 22' Jump Shot,,,,
+0020100045,403,4,0,4,5:05 PM,10:00,,,Howard REBOUND (Off:2 Def:6),,
+0020100045,404,2,1,4,5:06 PM,9:47,Wright BLOCK (1 BLK),,MISS Howard 5' Jump Shot,,
+0020100045,405,4,0,4,5:06 PM,9:43,Wright REBOUND (Off:8 Def:12),,,,
+0020100045,406,2,1,4,5:06 PM,9:37,MISS Wright 17' Jump Shot,,,,
+0020100045,407,4,0,4,5:06 PM,9:33,,,Manning REBOUND (Off:1 Def:10),,
+0020100045,408,2,1,4,5:06 PM,9:23,,,MISS Finley 19' Jump Shot,,
+0020100045,409,4,0,4,5:06 PM,9:21,Wright REBOUND (Off:8 Def:13),,,,
+0020100045,410,1,3,4,5:06 PM,9:12,Gasol 6' Hook Shot (2 PTS) (Knight 1 AST),,,76 - 68,-8
+0020100045,411,5,1,4,5:07 PM,8:56,Gasol STEAL (1 STL),,Hardaway Bad Pass Turnover (P1.T13),,
+0020100045,412,6,2,4,5:07 PM,8:50,,,Manning S.FOUL (P2.T2),,
+0020100045,413,9,4,4,5:07 PM,8:50,,,,,
+0020100045,415,8,0,4,5:09 PM,8:50,,,SUB: Nash FOR Eschmeyer,,
+0020100045,416,3,11,4,5:10 PM,8:50,Anderson Free Throw 1 of 2 (4 PTS),,,76 - 69,-7
+0020100045,417,3,12,4,5:10 PM,8:50,Anderson Free Throw 2 of 2 (5 PTS),,,76 - 70,-6
+0020100045,418,1,1,4,5:10 PM,8:31,,,Hardaway 25' 3PT Jump Shot (13 PTS) (Howard 3 AST),79 - 70,-9
+0020100045,419,5,21,4,5:10 PM,8:12,Gasol Palming Turnover (P4.T16),,,,
+0020100045,420,6,1,4,5:11 PM,7:56,Knight P.FOUL (P2.T2),,,,
+0020100045,421,1,42,4,5:11 PM,7:50,,,Howard  Driving Layup (32 PTS),81 - 70,-11
+0020100045,422,5,1,4,5:12 PM,7:35,Battier Bad Pass Turnover (P2.T17),,Manning STEAL (3 STL),,
+0020100045,423,2,1,4,5:12 PM,7:26,,,MISS Hardaway 25' 3PT Jump Shot,,
+0020100045,424,4,0,4,5:12 PM,7:22,Anderson REBOUND (Off:0 Def:4),,,,
+0020100045,425,6,2,4,5:12 PM,7:12,,,Finley S.FOUL (P1.T3),,
+0020100045,426,3,11,4,5:12 PM,7:12,Wright Free Throw 1 of 2 (24 PTS),,,81 - 71,-10
+0020100045,427,3,12,4,5:13 PM,7:12,Wright Free Throw 2 of 2 (25 PTS),,,81 - 72,-9
+0020100045,428,6,2,4,5:13 PM,6:51,Knight S.FOUL (P3.T3),,,,
+0020100045,429,3,11,4,5:13 PM,6:51,,,Nash Free Throw 1 of 2 (5 PTS),82 - 72,-10
+0020100045,430,8,0,4,5:14 PM,6:51,SUB: Swift FOR Gasol,,,,
+0020100045,431,3,12,4,5:14 PM,6:51,,,Nash Free Throw 2 of 2 (6 PTS),83 - 72,-11
+0020100045,432,6,2,4,5:14 PM,6:33,,,Manning S.FOUL (P3.T4),,
+0020100045,433,3,11,4,5:14 PM,6:33,Wright Free Throw 1 of 2 (26 PTS),,,83 - 73,-10
+0020100045,434,8,0,4,5:15 PM,6:33,SUB: Williams FOR Knight,,,,
+0020100045,435,3,12,4,5:15 PM,6:33,Wright Free Throw 2 of 2 (27 PTS),,,83 - 74,-9
+0020100045,436,2,1,4,5:16 PM,6:23,,,MISS Nash 19' Jump Shot,,
+0020100045,437,4,0,4,5:16 PM,6:22,Wright REBOUND (Off:8 Def:14),,,,
+0020100045,438,6,1,4,5:16 PM,6:22,,,Manning P.FOUL (P4.PN),,
+0020100045,439,3,11,4,5:16 PM,6:22,Wright Free Throw 1 of 2 (28 PTS),,,83 - 75,-8
+0020100045,440,3,12,4,5:16 PM,6:22,Wright Free Throw 2 of 2 (29 PTS),,,83 - 76,-7
+0020100045,441,2,3,4,5:17 PM,6:11,,,MISS Howard 3' Hook Shot,,
+0020100045,442,4,0,4,5:17 PM,6:09,,,Mavericks Rebound,,
+0020100045,443,8,0,4,5:17 PM,6:09,SUB: Dickerson FOR Anderson,,,,
+0020100045,444,2,46,4,5:17 PM,6:00,,,MISS Manning 6' Running Jump Shot,,
+0020100045,445,4,0,4,5:17 PM,5:58,Dickerson REBOUND (Off:0 Def:2),,,,
+0020100045,446,1,44,4,5:17 PM,5:48,Wright 3' Reverse Layup (31 PTS) (Dickerson 2 AST),,,83 - 78,-5
+0020100045,447,1,5,4,5:18 PM,5:30,,,Nash  Layup (8 PTS) (Hardaway 4 AST),85 - 78,-7
+0020100045,448,9,1,4,5:18 PM,5:23,GRIZZLIES Timeout: Regular (Full 4 Short 1),,,,
+0020100045,450,8,0,4,5:20 PM,5:23,,,SUB: Bradley FOR Manning,,
+0020100045,451,5,4,4,5:21 PM,5:10,Wright Traveling Turnover (P4.T18),,,,
+0020100045,452,1,1,4,5:21 PM,4:51,,,Howard 6' Jump Shot (34 PTS),87 - 78,-9
+0020100045,453,2,1,4,5:21 PM,4:34,MISS Williams 26' 3PT Jump Shot,,,,
+0020100045,454,4,0,4,5:21 PM,4:32,Wright REBOUND (Off:9 Def:14),,,,
+0020100045,455,5,1,4,5:21 PM,4:24,Wright Bad Pass Turnover (P5.T19),,Finley STEAL (2 STL),,
+0020100045,456,2,1,4,5:22 PM,4:13,,,MISS Hardaway 25' 3PT Jump Shot,,
+0020100045,457,4,0,4,5:22 PM,4:10,Wright REBOUND (Off:9 Def:15),,,,
+0020100045,458,1,1,4,5:22 PM,4:05,Williams 18' Jump Shot (19 PTS) (Battier 5 AST),,,87 - 80,-7
+0020100045,459,5,2,4,5:22 PM,3:41,Williams STEAL (1 STL),,Hardaway Lost Ball Turnover (P2.T14),,
+0020100045,460,2,1,4,5:23 PM,3:21,MISS Dickerson 25' 3PT Jump Shot,,,,
+0020100045,461,4,0,4,5:23 PM,3:20,,,Finley REBOUND (Off:2 Def:4),,
+0020100045,462,1,7,4,5:23 PM,3:16,,,Howard  Dunk (36 PTS) (Finley 5 AST),89 - 80,-9
+0020100045,464,7,2,4,5:23 PM,3:00,,,Bradley Violation:Defensive Goaltending,,
+0020100045,463,1,5,4,5:23 PM,3:00,Wright  Layup (33 PTS),,,89 - 82,-7
+0020100045,465,2,1,4,5:24 PM,2:42,,,MISS Nash 25' 3PT Jump Shot,,
+0020100045,466,4,0,4,5:24 PM,2:38,Wright REBOUND (Off:9 Def:16),,,,
+0020100045,467,1,1,4,5:24 PM,2:35,Williams 21' Jump Shot (21 PTS),,,89 - 84,-5
+0020100045,468,2,1,4,5:24 PM,2:16,,,MISS Nash 25' 3PT Jump Shot,,
+0020100045,469,4,0,4,5:25 PM,2:13,Swift REBOUND (Off:1 Def:5),,,,
+0020100045,470,5,1,4,5:25 PM,2:08,Williams Bad Pass Turnover (P5.T20),,Hardaway STEAL (2 STL),,
+0020100045,471,1,7,4,5:25 PM,2:04,,,Finley  Dunk (21 PTS) (Hardaway 5 AST),91 - 84,-7
+0020100045,472,9,2,4,5:25 PM,2:01,GRIZZLIES Timeout: Short (Full 4 Short 2),,,,
+0020100045,475,9,1,4,5:26 PM,2:01,,,Mavericks Timeout: Regular (Reg.4 Short 1),,
+0020100045,476,2,1,4,5:28 PM,1:49,MISS Wright 15' Jump Shot,,,,
+0020100045,477,4,0,4,5:28 PM,1:47,,,Hardaway REBOUND (Off:0 Def:4),,
+0020100045,478,6,1,4,5:28 PM,1:46,Swift P.FOUL (P3.T4),,,,
+0020100045,479,6,2,4,5:29 PM,1:27,Battier S.FOUL (P4.PN),,,,
+0020100045,480,3,11,4,5:29 PM,1:27,,,MISS Finley Free Throw 1 of 2,,
+0020100045,481,4,1,4,5:29 PM,1:27,,,Mavericks Rebound,,
+0020100045,482,3,12,4,5:29 PM,1:27,,,Finley Free Throw 2 of 2 (22 PTS),92 - 84,-8
+0020100045,484,6,1,4,5:30 PM,1:17,,,Howard P.FOUL (P5.PN),,
+0020100045,486,3,11,4,5:30 PM,1:17,Swift Free Throw 1 of 2 (8 PTS),,,92 - 85,-7
+0020100045,487,3,12,4,5:30 PM,1:17,MISS Swift Free Throw 2 of 2,,,,
+0020100045,488,4,0,4,5:30 PM,1:14,,,Finley REBOUND (Off:2 Def:5),,
+0020100045,489,10,0,4,5:31 PM,1:03,Jump Ball Swift vs. Finley: Tip to Dickerson,,,,
+0020100045,490,5,2,4,5:31 PM,1:03,Swift STEAL (2 STL),,Finley Lost Ball Turnover (P3.T15),,
+0020100045,491,2,5,4,5:31 PM,0:48,MISS Dickerson  Layup,,Bradley BLOCK (2 BLK),,
+0020100045,492,4,0,4,5:31 PM,0:48,GRIZZLIES Rebound,,,,
+0020100045,493,9,1,4,5:32 PM,0:48,GRIZZLIES Timeout: Regular (Full 5 Short 2),,,,
+0020100045,496,2,1,4,5:33 PM,0:45,MISS Dickerson 26' 3PT Jump Shot,,,,
+0020100045,497,4,0,4,5:33 PM,0:43,,,Finley REBOUND (Off:2 Def:6),,
+0020100045,498,6,1,4,5:33 PM,0:41,Swift P.FOUL (P4.PN),,,,
+0020100045,499,3,11,4,5:34 PM,0:41,,,Finley Free Throw 1 of 2 (23 PTS),93 - 85,-8
+0020100045,500,3,12,4,5:34 PM,0:41,,,Finley Free Throw 2 of 2 (24 PTS),94 - 85,-9
+0020100045,501,2,1,4,5:34 PM,0:30,MISS Swift 5' Jump Shot,,,,
+0020100045,502,4,0,4,5:34 PM,0:26,Swift REBOUND (Off:2 Def:5),,,,
+0020100045,503,2,5,4,5:34 PM,0:25,MISS Swift  Layup,,,,
+0020100045,504,4,0,4,5:34 PM,0:24,,,Bradley REBOUND (Off:0 Def:1),,
+0020100045,505,2,1,4,5:35 PM,0:01,,,MISS Hardaway 28' 3PT Jump Shot,,
+0020100045,506,4,0,4,5:35 PM,0:00,Wright REBOUND (Off:9 Def:17),,,,
+0020100045,507,13,0,4,5:35 PM,0:00,,,,94 - 85,-9

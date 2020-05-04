@@ -1,0 +1,430 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020200380,0,12,0,1,10:40 PM,12:00,,,,,
+0020200380,1,10,0,1,10:40 PM,12:00,Jump Ball Dampier vs. Wallace: Tip to Arenas,,,,
+0020200380,2,1,1,1,10:41 PM,11:40,Richardson 26' 3PT Jump Shot (3 PTS) (Murphy 1 AST),,,0 - 3,3
+0020200380,3,1,59,1,10:41 PM,11:19,,,Wallace 4' Finger Roll (2 PTS) (Wells 1 AST),2 - 3,1
+0020200380,4,5,1,1,10:41 PM,11:07,Arenas Bad Pass Turnover (P1.T1),,Davis STEAL (1 STL),,
+0020200380,5,6,1,1,10:41 PM,11:01,Arenas P.FOUL (P1.T1),,,,
+0020200380,6,1,46,1,10:42 PM,10:49,,,Wells 4' Running Jump Shot (2 PTS) (Anderson 1 AST),4 - 3,-1
+0020200380,7,5,1,1,10:42 PM,10:38,Dampier Bad Pass Turnover (P1.T2),,Pippen STEAL (1 STL),,
+0020200380,8,6,2,1,10:42 PM,10:28,Dampier S.FOUL (P1.T2),,,,
+0020200380,9,3,11,1,10:42 PM,10:28,,,MISS Wells Free Throw 1 of 2,,
+0020200380,10,4,1,1,10:42 PM,10:28,,,Trail Blazers Rebound,,
+0020200380,11,3,12,1,10:43 PM,10:28,,,Wells Free Throw 2 of 2 (3 PTS),5 - 3,-2
+0020200380,12,2,1,1,10:43 PM,10:13,MISS Jamison 18' Jump Shot,,,,
+0020200380,13,4,0,1,10:43 PM,10:12,Dampier REBOUND (Off:1 Def:0),,,,
+0020200380,14,6,2,1,10:43 PM,10:12,,,Davis S.FOUL (P1.T1),,
+0020200380,15,3,11,1,10:43 PM,10:12,Dampier Free Throw 1 of 2 (1 PTS),,,5 - 4,-1
+0020200380,16,3,12,1,10:44 PM,10:12,Dampier Free Throw 2 of 2 (2 PTS),,,5 - 5,TIE
+0020200380,17,2,1,1,10:44 PM,10:01,,,MISS Anderson 26' 3PT Jump Shot,,
+0020200380,18,4,0,1,10:44 PM,9:59,Murphy REBOUND (Off:0 Def:1),,,,
+0020200380,19,1,1,1,10:44 PM,9:46,Richardson 25' 3PT Jump Shot (6 PTS),,,5 - 8,3
+0020200380,20,2,1,1,10:45 PM,9:31,,,MISS Wallace 20' Jump Shot,,
+0020200380,21,4,0,1,10:45 PM,9:29,,,Davis REBOUND (Off:1 Def:0),,
+0020200380,22,1,7,1,10:45 PM,9:26,,,Pippen  Dunk (2 PTS) (Davis 1 AST),7 - 8,1
+0020200380,23,6,1,1,10:45 PM,9:10,,,Wallace P.FOUL (P1.T2),,
+0020200380,24,2,1,1,10:45 PM,9:07,MISS Arenas 18' Jump Shot,,,,
+0020200380,25,4,0,1,10:45 PM,9:05,,,Wallace REBOUND (Off:0 Def:1),,
+0020200380,26,1,47,1,10:45 PM,8:57,,,Wells 12' Turnaround Jump Shot (5 PTS) (Pippen 1 AST),9 - 8,-1
+0020200380,27,5,2,1,10:46 PM,8:45,Richardson Lost Ball Turnover (P1.T3),,Pippen STEAL (2 STL),,
+0020200380,28,1,47,1,10:46 PM,8:40,,,Anderson 20' Turnaround Jump Shot (2 PTS) (Pippen 2 AST),11 - 8,-3
+0020200380,29,1,1,1,10:46 PM,8:25,Murphy 19' Jump Shot (2 PTS) (Arenas 1 AST),,,11 - 10,-1
+0020200380,30,5,1,1,10:46 PM,8:12,Richardson STEAL (1 STL),,Pippen Bad Pass Turnover (P1.T1),,
+0020200380,31,1,1,1,10:47 PM,8:06,Richardson 15' Jump Shot (8 PTS) (Jamison 1 AST),,,11 - 12,1
+0020200380,32,2,1,1,10:47 PM,7:49,,,MISS Davis 14' Jump Shot,,
+0020200380,33,4,0,1,10:47 PM,7:49,,,Trail Blazers Rebound,,
+0020200380,34,1,5,1,10:47 PM,7:40,,,Wells  Layup (7 PTS) (Wallace 1 AST),13 - 12,-1
+0020200380,35,2,1,1,10:48 PM,7:23,MISS Murphy 19' Jump Shot,,,,
+0020200380,36,4,0,1,10:48 PM,7:21,,,Wells REBOUND (Off:0 Def:1),,
+0020200380,37,5,2,1,10:48 PM,7:14,,,Pippen Lost Ball Turnover (P2.T2),,
+0020200380,38,2,1,1,10:48 PM,6:59,MISS Richardson 18' Jump Shot,,,,
+0020200380,39,4,0,1,10:48 PM,6:58,Jamison REBOUND (Off:1 Def:0),,,,
+0020200380,40,6,2,1,10:48 PM,6:58,,,Wallace S.FOUL (P2.T3),,
+0020200380,41,3,11,1,10:49 PM,6:58,Jamison Free Throw 1 of 2 (1 PTS),,,13 - 13,TIE
+0020200380,42,8,0,1,10:49 PM,6:58,,,SUB: Randolph FOR Wallace,,
+0020200380,43,3,12,1,10:49 PM,6:58,Jamison Free Throw 2 of 2 (2 PTS),,,13 - 14,1
+0020200380,44,2,1,1,10:49 PM,6:46,,,MISS Pippen 5' Jump Shot,,
+0020200380,45,4,0,1,10:49 PM,6:46,,,Randolph REBOUND (Off:1 Def:0),,
+0020200380,46,6,2,1,10:50 PM,6:46,Murphy S.FOUL (P1.T3),,,,
+0020200380,47,3,11,1,10:50 PM,6:46,,,MISS Randolph Free Throw 1 of 2,,
+0020200380,48,4,1,1,10:50 PM,6:46,,,Trail Blazers Rebound,,
+0020200380,49,3,12,1,10:50 PM,6:46,,,Randolph Free Throw 2 of 2 (1 PTS),14 - 14,TIE
+0020200380,50,2,42,1,10:50 PM,6:38,MISS Richardson  Driving Layup,,,,
+0020200380,51,4,0,1,10:50 PM,6:37,Richardson REBOUND (Off:1 Def:0),,,,
+0020200380,52,1,5,1,10:50 PM,6:36,Richardson  Layup (10 PTS),,,14 - 16,2
+0020200380,53,1,42,1,10:50 PM,6:29,,,Wells  Driving Layup (9 PTS) (Pippen 3 AST),16 - 16,TIE
+0020200380,54,2,46,1,10:50 PM,6:17,MISS Jamison 7' Running Jump Shot,,,,
+0020200380,56,4,0,1,10:51 PM,6:16,Jamison REBOUND (Off:2 Def:0),,,,
+0020200380,55,1,4,1,10:51 PM,6:16,Jamison  Tip Shot (4 PTS),,,16 - 18,2
+0020200380,57,2,1,1,10:51 PM,5:58,,,MISS Wells 25' 3PT Jump Shot,,
+0020200380,58,4,0,1,10:51 PM,5:56,Dampier REBOUND (Off:1 Def:1),,,,
+0020200380,59,1,51,1,10:51 PM,5:46,Murphy  Reverse Dunk (4 PTS) (Richardson 1 AST),,,16 - 20,4
+0020200380,60,2,1,1,10:51 PM,5:28,,,MISS Pippen 26' 3PT Jump Shot,,
+0020200380,61,4,0,1,10:51 PM,5:26,Dampier REBOUND (Off:1 Def:2),,,,
+0020200380,62,5,2,1,10:51 PM,5:23,Arenas Lost Ball Turnover (P2.T4),,,,
+0020200380,231,9,1,1,10:52 PM,5:23,WARRIORS Timeout: Regular (Full 1 Short 0),,,,
+0020200380,64,1,1,1,10:54 PM,5:04,,,Pippen 15' Jump Shot (4 PTS),18 - 20,2
+0020200380,65,2,1,1,10:55 PM,4:47,MISS Murphy 17' Jump Shot,,,,
+0020200380,66,4,0,1,10:55 PM,4:45,,,Anderson REBOUND (Off:0 Def:1),,
+0020200380,67,1,42,1,10:55 PM,4:39,,,Wells  Driving Layup (11 PTS) (Anderson 2 AST),20 - 20,TIE
+0020200380,68,1,46,1,10:55 PM,4:27,Jamison 5' Running Jump Shot (6 PTS) (Arenas 2 AST),,,20 - 22,2
+0020200380,69,6,2,1,10:55 PM,4:11,Dampier S.FOUL (P2.T4),,,,
+0020200380,70,3,11,1,10:55 PM,4:11,,,Davis Free Throw 1 of 2 (1 PTS),21 - 22,1
+0020200380,71,3,12,1,10:56 PM,4:11,,,Davis Free Throw 2 of 2 (2 PTS),22 - 22,TIE
+0020200380,72,2,44,1,10:56 PM,4:00,MISS Arenas  Reverse Layup,,,,
+0020200380,73,4,0,1,10:56 PM,3:58,Arenas REBOUND (Off:1 Def:0),,,,
+0020200380,74,1,42,1,10:56 PM,3:57,Arenas  Driving Layup (2 PTS),,,22 - 24,2
+0020200380,75,6,2,1,10:56 PM,3:57,,,Randolph S.FOUL (P1.T4),,
+0020200380,76,3,10,1,10:57 PM,3:57,Arenas Free Throw 1 of 1 (3 PTS),,,22 - 25,3
+0020200380,77,6,4,1,10:57 PM,3:40,,,Pippen OFF.Foul (P1),,
+0020200380,78,5,5,1,10:57 PM,3:40,,,Pippen Foul Turnover (P3.T3),,
+0020200380,79,1,1,1,10:57 PM,3:29,Arenas 25' 3PT Jump Shot (6 PTS),,,22 - 28,6
+0020200380,80,2,1,1,10:58 PM,3:18,,,MISS Wells 25' 3PT Jump Shot,,
+0020200380,81,4,0,1,10:58 PM,3:16,Arenas REBOUND (Off:1 Def:1),,,,
+0020200380,82,1,5,1,10:58 PM,3:10,Richardson  Layup (12 PTS),,,22 - 30,8
+0020200380,83,9,1,1,10:58 PM,3:02,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,
+0020200380,85,8,0,1,11:01 PM,3:02,,,SUB: Patterson FOR Randolph,,
+0020200380,86,2,1,1,11:01 PM,2:48,,,MISS Wells 13' Jump Shot,,
+0020200380,87,4,0,1,11:01 PM,2:46,,,Patterson REBOUND (Off:1 Def:0),,
+0020200380,88,5,2,1,11:01 PM,2:45,Jamison STEAL (1 STL),,Patterson Lost Ball Turnover (P1.T4),,
+0020200380,89,5,1,1,11:01 PM,2:39,Jamison Bad Pass Turnover (P1.T5),,,,
+0020200380,90,1,42,1,11:01 PM,2:28,,,Patterson  Driving Layup (2 PTS),24 - 30,6
+0020200380,91,1,47,1,11:02 PM,2:08,Richardson 13' Turnaround Jump Shot (14 PTS),,,24 - 32,8
+0020200380,92,2,1,1,11:02 PM,1:47,Dampier BLOCK (1 BLK),,MISS Pippen 5' Jump Shot,,
+0020200380,93,4,0,1,11:02 PM,1:45,Murphy REBOUND (Off:0 Def:2),,,,
+0020200380,94,5,1,1,11:02 PM,1:41,Arenas Bad Pass Turnover (P3.T6),,,,
+0020200380,95,8,0,1,11:02 PM,1:41,,,SUB: McInnis FOR Pippen,,
+0020200380,96,6,1,1,11:03 PM,1:33,Richardson P.FOUL (P1.PN),,,,
+0020200380,97,3,11,1,11:03 PM,1:33,,,Anderson Free Throw 1 of 2 (3 PTS),25 - 32,7
+0020200380,98,3,12,1,11:03 PM,1:33,,,Anderson Free Throw 2 of 2 (4 PTS),26 - 32,6
+0020200380,99,2,1,1,11:03 PM,1:16,MISS Jamison 16' Jump Shot,,,,
+0020200380,100,4,0,1,11:03 PM,1:15,WARRIORS Rebound,,,,
+0020200380,101,6,3,1,11:03 PM,1:15,,,Davis L.B.FOUL (P2.PN),,
+0020200380,102,3,11,1,11:04 PM,1:15,Murphy Free Throw 1 of 2 (5 PTS),,,26 - 33,7
+0020200380,103,8,0,1,11:04 PM,1:15,,,SUB: Sabonis FOR Davis,,
+0020200380,104,3,12,1,11:04 PM,1:15,Murphy Free Throw 2 of 2 (6 PTS),,,26 - 34,8
+0020200380,105,2,5,1,11:04 PM,1:02,,,MISS Wells  Layup,,
+0020200380,106,4,0,1,11:04 PM,1:00,,,Patterson REBOUND (Off:2 Def:0),,
+0020200380,107,2,1,1,11:05 PM,0:58,,,MISS Patterson 5' Jump Shot,,
+0020200380,108,4,0,1,11:05 PM,0:56,Dampier REBOUND (Off:1 Def:3),,,,
+0020200380,109,2,1,1,11:05 PM,0:48,MISS Richardson 25' 3PT Jump Shot,,,,
+0020200380,110,4,0,1,11:05 PM,0:46,,,Sabonis REBOUND (Off:0 Def:1),,
+0020200380,111,1,46,1,11:05 PM,0:38,,,McInnis 10' Running Jump Shot (2 PTS) (Wells 2 AST),28 - 34,6
+0020200380,112,5,2,1,11:05 PM,0:32,Richardson Lost Ball Turnover (P2.T7),,Anderson STEAL (1 STL),,
+0020200380,113,1,8,1,11:05 PM,0:30,,,Patterson  Slam Dunk (4 PTS) (Anderson 3 AST),30 - 34,4
+0020200380,114,2,5,1,11:06 PM,0:07,MISS Arenas  Layup,,,,
+0020200380,115,4,0,1,11:06 PM,0:06,Jamison REBOUND (Off:3 Def:0),,,,
+0020200380,116,2,5,1,11:06 PM,0:06,MISS Jamison 3' Layup,,Sabonis BLOCK (1 BLK),,
+0020200380,117,4,0,1,11:06 PM,0:06,Dampier REBOUND (Off:2 Def:3),,,,
+0020200380,118,5,11,1,11:06 PM,0:06,WARRIORS Turnover: Shot Clock (T#8),,,,
+0020200380,119,2,1,1,11:06 PM,0:01,,,MISS Wells 26' 3PT Jump Shot,,
+0020200380,120,4,0,1,11:06 PM,0:00,Murphy REBOUND (Off:0 Def:3),,,,
+0020200380,121,13,0,1,11:06 PM,0:00,,,,30 - 34,4
+0020200380,123,12,0,2,11:09 PM,12:00,,,,30 - 34,4
+0020200380,124,1,1,2,11:09 PM,11:47,,,Anderson 20' Jump Shot (6 PTS) (Patterson 1 AST),32 - 34,2
+0020200380,125,1,1,2,11:10 PM,11:26,Murphy 18' Jump Shot (8 PTS) (Mills 1 AST),,,32 - 36,4
+0020200380,126,2,1,2,11:10 PM,11:12,,,MISS McInnis 6' Jump Shot,,
+0020200380,127,4,0,2,11:10 PM,11:11,Mills REBOUND (Off:0 Def:1),,,,
+0020200380,128,6,1,2,11:10 PM,11:05,,,Patterson P.FOUL (P1.T1),,
+0020200380,129,2,1,2,11:10 PM,10:49,MISS Foyle 14' Jump Shot,,,,
+0020200380,130,4,0,2,11:11 PM,10:47,,,Wallace REBOUND (Off:0 Def:2),,
+0020200380,131,1,1,2,11:11 PM,10:33,,,Patterson 18' Jump Shot (6 PTS) (Sabonis 1 AST),34 - 36,2
+0020200380,132,1,1,2,11:11 PM,10:08,Murphy 16' Jump Shot (10 PTS) (Boykins 1 AST),,,34 - 38,4
+0020200380,133,6,1,2,11:12 PM,9:53,Murphy P.FOUL (P2.T1),,,,
+0020200380,134,3,11,2,11:12 PM,9:53,,,Sabonis Free Throw 1 of 2 (1 PTS),35 - 38,3
+0020200380,135,8,0,2,11:12 PM,9:53,SUB: Dunleavy FOR Richardson,,,,
+0020200380,136,3,12,2,11:12 PM,9:53,,,Sabonis Free Throw 2 of 2 (2 PTS),36 - 38,2
+0020200380,137,2,1,2,11:13 PM,9:35,MISS Dunleavy 24' 3PT Jump Shot,,,,
+0020200380,138,4,0,2,11:13 PM,9:33,,,Trail Blazers Rebound,,
+0020200380,139,8,0,2,11:13 PM,9:33,SUB: Jamison FOR Murphy,,,,
+0020200380,140,2,47,2,11:13 PM,9:20,,,MISS Sabonis 15' Turnaround Jump Shot,,
+0020200380,141,4,0,2,11:13 PM,9:18,Foyle REBOUND (Off:0 Def:1),,,,
+0020200380,142,6,1,2,11:13 PM,9:15,,,Wallace P.FOUL (P3.T2),,
+0020200380,143,8,0,2,11:13 PM,9:15,,,SUB: Randolph FOR Wallace,,
+0020200380,144,1,1,2,11:14 PM,9:08,Mills 18' Jump Shot (2 PTS) (Boykins 2 AST),,,36 - 40,4
+0020200380,145,6,17,2,11:14 PM,8:56,WARRIORS T.Foul (Def. 3 Sec Foyle ),,,,
+0020200380,146,9,4,2,11:14 PM,8:56,,,,,
+0020200380,148,3,16,2,11:16 PM,8:56,,,Anderson Free Throw Technical (7 PTS),37 - 40,3
+0020200380,149,1,8,2,11:17 PM,8:47,,,Sabonis  Slam Dunk (4 PTS) (Anderson 4 AST),39 - 40,1
+0020200380,150,2,1,2,11:17 PM,8:29,MISS Jamison 21' Jump Shot,,,,
+0020200380,151,4,0,2,11:17 PM,8:27,,,Randolph REBOUND (Off:1 Def:1),,
+0020200380,152,2,56,2,11:17 PM,8:19,,,MISS McInnis 15' Running Hook Shot,,
+0020200380,153,4,0,2,11:17 PM,8:17,,,Randolph REBOUND (Off:2 Def:1),,
+0020200380,154,5,8,2,11:17 PM,8:14,,,Randolph 3 Second Violation Turnover (P1.T5),,
+0020200380,155,5,2,2,11:18 PM,7:55,Dunleavy Lost Ball Turnover (P1.T9),,Sabonis STEAL (1 STL),,
+0020200380,156,1,42,2,11:18 PM,7:49,,,McInnis  Driving Layup (4 PTS),41 - 40,-1
+0020200380,157,8,0,2,11:18 PM,7:31,SUB: Richardson FOR Dunleavy,,,,
+0020200380,158,8,0,2,11:18 PM,7:31,,,SUB: Wells FOR Anderson,,
+0020200380,159,1,58,2,11:19 PM,7:28,Jamison 8' Turnaround Hook Shot (8 PTS) (Boykins 3 AST),,,41 - 42,1
+0020200380,160,5,1,2,11:19 PM,7:08,Boykins STEAL (1 STL),,Sabonis Bad Pass Turnover (P1.T6),,
+0020200380,161,2,1,2,11:19 PM,7:02,MISS Boykins 5' Jump Shot,,,,
+0020200380,162,4,0,2,11:19 PM,7:01,,,Sabonis REBOUND (Off:0 Def:2),,
+0020200380,163,1,8,2,11:19 PM,6:58,,,Wells  Slam Dunk (13 PTS) (McInnis 1 AST),43 - 42,-1
+0020200380,164,2,1,2,11:19 PM,6:48,MISS Mills 25' 3PT Jump Shot,,,,
+0020200380,165,4,0,2,11:19 PM,6:47,,,Trail Blazers Rebound,,
+0020200380,166,6,3,2,11:19 PM,6:47,Jamison L.B.FOUL (P1.T2),,,,
+0020200380,167,1,56,2,11:20 PM,6:37,,,Randolph 7' Running Hook Shot (3 PTS) (Sabonis 2 AST),45 - 42,-3
+0020200380,168,1,42,2,11:20 PM,6:21,Richardson  Driving Layup (16 PTS),,,45 - 44,-1
+0020200380,169,1,41,2,11:20 PM,6:04,,,Randolph  Running Layup (5 PTS) (McInnis 2 AST),47 - 44,-3
+0020200380,170,6,2,2,11:20 PM,6:04,Jamison S.FOUL (P2.T3),,,,
+0020200380,171,3,10,2,11:21 PM,6:04,,,Randolph Free Throw 1 of 1 (6 PTS),48 - 44,-4
+0020200380,175,2,45,2,11:21 PM,5:56,MISS Jamison 21' Jump Shot,,,,
+0020200380,172,4,0,2,11:21 PM,5:54,,,Wells REBOUND (Off:0 Def:2),,
+0020200380,173,6,4,2,11:21 PM,5:50,,,Randolph OFF.Foul (P2),,
+0020200380,174,5,5,2,11:21 PM,5:50,,,Randolph Foul Turnover (P2.T7),,
+0020200380,177,9,1,2,11:22 PM,5:50,WARRIORS Timeout: Regular (Full 2 Short 0),,,,
+0020200380,179,8,0,2,11:23 PM,5:50,SUB: Murphy FOR Mills,,,,
+0020200380,180,8,0,2,11:23 PM,5:50,SUB: Arenas FOR Boykins,,,,
+0020200380,181,1,1,2,11:24 PM,5:39,Richardson 20' Jump Shot (18 PTS),,,48 - 46,-2
+0020200380,182,6,2,2,11:24 PM,5:21,Foyle S.FOUL (P1.T4),,,,
+0020200380,183,3,11,2,11:24 PM,5:21,,,Wells Free Throw 1 of 2 (14 PTS),49 - 46,-3
+0020200380,184,3,12,2,11:24 PM,5:21,,,Wells Free Throw 2 of 2 (15 PTS),50 - 46,-4
+0020200380,185,1,46,2,11:25 PM,5:09,Richardson 5' Running Jump Shot (20 PTS) (Arenas 3 AST),,,50 - 48,-2
+0020200380,186,2,1,2,11:25 PM,4:52,,,MISS Randolph 17' Jump Shot,,
+0020200380,187,4,0,2,11:25 PM,4:51,Foyle REBOUND (Off:0 Def:2),,,,
+0020200380,188,6,3,2,11:25 PM,4:51,,,Sabonis L.B.FOUL (P1.T3),,
+0020200380,189,5,8,2,11:26 PM,4:37,Jamison 3 Second Violation Turnover (P2.T10),,,,
+0020200380,190,9,2,2,11:26 PM,4:37,WARRIORS Timeout: Short (Full 2 Short 1),,,,
+0020200380,191,8,0,2,11:26 PM,4:37,SUB: Boykins FOR Arenas,,,,
+0020200380,193,6,2,2,11:27 PM,4:23,Jamison S.FOUL (P3.PN),,,,
+0020200380,194,3,11,2,11:27 PM,4:23,,,Patterson Free Throw 1 of 2 (7 PTS),51 - 48,-3
+0020200380,195,8,0,2,11:28 PM,4:23,SUB: Mills FOR Jamison,,,,
+0020200380,196,3,12,2,11:28 PM,4:23,,,Patterson Free Throw 2 of 2 (8 PTS),52 - 48,-4
+0020200380,197,1,1,2,11:28 PM,4:06,Richardson 25' 3PT Jump Shot (23 PTS) (Mills 2 AST),,,52 - 51,-1
+0020200380,198,2,65,2,11:29 PM,3:45,,,MISS Sabonis 7' Jump Hook Shot,,
+0020200380,199,4,0,2,11:29 PM,3:43,Foyle REBOUND (Off:0 Def:3),,,,
+0020200380,200,2,1,2,11:29 PM,3:37,MISS Richardson 25' 3PT Jump Shot,,,,
+0020200380,201,4,0,2,11:29 PM,3:35,,,Sabonis REBOUND (Off:0 Def:3),,
+0020200380,202,2,1,2,11:29 PM,3:15,,,MISS Patterson 7' Jump Shot,,
+0020200380,203,4,0,2,11:29 PM,3:13,Richardson REBOUND (Off:1 Def:1),,,,
+0020200380,204,1,1,2,11:29 PM,3:07,Mills 25' 3PT Jump Shot (5 PTS) (Richardson 2 AST),,,52 - 54,2
+0020200380,205,9,1,2,11:29 PM,2:56,,,Trail Blazers Timeout: Regular (Reg.2 Short 0),,
+0020200380,207,8,0,2,11:32 PM,2:56,,,SUB: Pippen FOR Patterson,,
+0020200380,208,5,1,2,11:32 PM,2:53,Foyle STEAL (1 STL),,Pippen Bad Pass Turnover (P4.T8),,
+0020200380,209,1,42,2,11:32 PM,2:50,Foyle  Driving Layup (2 PTS),,,52 - 56,4
+0020200380,210,2,1,2,11:32 PM,2:32,,,MISS McInnis 6' Jump Shot,,
+0020200380,211,4,0,2,11:32 PM,2:30,Murphy REBOUND (Off:0 Def:4),,,,
+0020200380,212,2,1,2,11:32 PM,2:23,MISS Mills  3PT Jump Shot,,,,
+0020200380,213,4,0,2,11:32 PM,2:21,,,Wells REBOUND (Off:0 Def:3),,
+0020200380,214,1,1,2,11:32 PM,2:12,,,Sabonis 18' Jump Shot (6 PTS) (Wells 3 AST),54 - 56,2
+0020200380,215,5,1,2,11:32 PM,2:04,Boykins Bad Pass Turnover (P1.T11),,Pippen STEAL (3 STL),,
+0020200380,216,1,8,2,11:33 PM,1:58,,,Randolph  Slam Dunk (8 PTS) (Pippen 4 AST),56 - 56,TIE
+0020200380,217,1,1,2,11:33 PM,1:32,Boykins 25' 3PT Jump Shot (3 PTS) (Richardson 3 AST),,,56 - 59,3
+0020200380,218,1,65,2,11:33 PM,1:08,,,Randolph 6' Jump Hook Shot (10 PTS),58 - 59,1
+0020200380,219,2,1,2,11:34 PM,0:48,MISS Murphy 19' Jump Shot,,,,
+0020200380,220,4,0,2,11:34 PM,0:47,WARRIORS Rebound,,,,
+0020200380,221,8,0,2,11:34 PM,0:47,,,SUB: Patterson FOR Randolph,,
+0020200380,222,5,2,2,11:34 PM,0:42,Boykins Lost Ball Turnover (P2.T12),,Pippen STEAL (4 STL),,
+0020200380,223,9,2,2,11:34 PM,0:41,,,Trail Blazers Timeout: Short (Reg.2 Short 1),,
+0020200380,225,2,47,2,11:36 PM,0:26,,,MISS Wells 6' Turnaround Jump Shot,,
+0020200380,226,4,0,2,11:36 PM,0:24,Foyle REBOUND (Off:0 Def:4),,,,
+0020200380,227,6,1,2,11:36 PM,0:02,,,McInnis P.FOUL (P1.T4),,
+0020200380,228,1,41,2,11:36 PM,0:02,Foyle 3' Running Layup (4 PTS) (Boykins 4 AST),,,58 - 61,3
+0020200380,229,13,0,2,11:36 PM,0:00,,,,58 - 61,3
+0020200380,232,12,0,3,11:53 PM,12:00,,,,58 - 61,3
+0020200380,233,5,1,3,11:53 PM,11:45,Jamison STEAL (2 STL),,Anderson Bad Pass Turnover (P1.T9),,
+0020200380,234,2,46,3,11:53 PM,11:39,MISS Jamison 5' Running Jump Shot,,,,
+0020200380,236,4,0,3,11:53 PM,11:37,Arenas REBOUND (Off:2 Def:1),,,,
+0020200380,235,1,4,3,11:53 PM,11:37,Arenas  Tip Shot (8 PTS),,,58 - 63,5
+0020200380,237,1,1,3,11:53 PM,11:20,,,Wells 7' Jump Shot (17 PTS) (Pippen 5 AST),60 - 63,3
+0020200380,238,1,56,3,11:54 PM,11:08,Jamison 5' Running Hook Shot (10 PTS),,,60 - 65,5
+0020200380,239,5,1,3,11:54 PM,10:48,Richardson STEAL (2 STL),,Wells Bad Pass Turnover (P1.T10),,
+0020200380,240,1,1,3,11:54 PM,10:28,Arenas 20' Jump Shot (10 PTS),,,60 - 67,7
+0020200380,241,9,2,3,11:54 PM,10:27,,,Trail Blazers Timeout: Short (Reg.2 Short 2),,
+0020200380,243,1,5,3,11:55 PM,10:11,,,Wallace  Layup (4 PTS) (Anderson 5 AST),62 - 67,5
+0020200380,244,5,1,3,11:56 PM,9:51,Richardson Bad Pass Turnover (P3.T13),,Wells STEAL (1 STL),,
+0020200380,245,1,5,3,11:56 PM,9:48,,,Wells  Layup (19 PTS),64 - 67,3
+0020200380,246,5,1,3,11:56 PM,9:39,Jamison Bad Pass Turnover (P3.T14),,Pippen STEAL (5 STL),,
+0020200380,247,2,5,3,11:56 PM,9:34,,,MISS Wells 3' Layup,,
+0020200380,248,4,0,3,11:56 PM,9:33,Murphy REBOUND (Off:0 Def:5),,,,
+0020200380,249,5,1,3,11:56 PM,9:33,Murphy Bad Pass Turnover (P1.T15),,,,
+0020200380,250,1,1,3,11:57 PM,9:19,,,Anderson 26' 3PT Jump Shot (10 PTS) (Pippen 6 AST),67 - 67,TIE
+0020200380,251,2,1,3,11:57 PM,8:59,MISS Murphy 19' Jump Shot,,,,
+0020200380,252,4,0,3,11:57 PM,8:57,,,Pippen REBOUND (Off:0 Def:1),,
+0020200380,253,1,65,3,11:57 PM,8:50,,,Wallace 8' Jump Hook Shot (6 PTS) (Wells 4 AST),69 - 67,-2
+0020200380,254,9,1,3,11:57 PM,8:48,WARRIORS Timeout: Regular (Full 3 Short 1),,,,
+0020200380,256,1,42,3,12:00 PM,8:24,Arenas  Driving Layup (12 PTS),,,69 - 69,TIE
+0020200380,257,6,2,3,12:00 PM,8:24,,,Anderson S.FOUL (P1.T1),,
+0020200380,258,3,10,3,12:00 PM,8:24,Arenas Free Throw 1 of 1 (13 PTS),,,69 - 70,1
+0020200380,259,6,1,3,12:01 PM,8:08,Arenas P.FOUL (P2.T1),,,,
+0020200380,260,1,1,3,12:01 PM,7:59,,,Anderson 26' 3PT Jump Shot (13 PTS),72 - 70,-2
+0020200380,261,2,1,3,12:01 PM,7:34,MISS Richardson 25' 3PT Jump Shot,,,,
+0020200380,262,4,0,3,12:01 PM,7:32,,,Wells REBOUND (Off:0 Def:4),,
+0020200380,263,2,1,3,12:02 PM,7:25,,,MISS Wallace 23' Jump Shot,,
+0020200380,264,4,0,3,12:02 PM,7:23,,,Anderson REBOUND (Off:1 Def:1),,
+0020200380,265,1,5,3,12:02 PM,7:21,,,Anderson  Layup (15 PTS),74 - 70,-4
+0020200380,266,5,2,3,12:02 PM,7:10,Dampier Lost Ball Turnover (P2.T16),,Davis STEAL (2 STL),,
+0020200380,267,2,1,3,12:02 PM,6:48,,,MISS Wallace 25' 3PT Jump Shot,,
+0020200380,268,4,0,3,12:02 PM,6:43,,,Wallace REBOUND (Off:1 Def:2),,
+0020200380,269,2,1,3,12:02 PM,6:33,,,MISS Wells 7' Jump Shot,,
+0020200380,270,4,0,3,12:02 PM,6:31,Richardson REBOUND (Off:1 Def:2),,,,
+0020200380,271,2,1,3,12:03 PM,6:19,MISS Arenas 25' 3PT Jump Shot,,,,
+0020200380,272,4,0,3,12:03 PM,6:17,,,Wells REBOUND (Off:0 Def:5),,
+0020200380,274,7,2,3,12:03 PM,6:14,Arenas Violation:Defensive Goaltending,,,,
+0020200380,273,1,5,3,12:03 PM,6:14,,,Pippen  Layup (6 PTS) (Wells 5 AST),76 - 70,-6
+0020200380,275,8,0,3,12:03 PM,6:01,SUB: Foyle FOR Dampier,,,,
+0020200380,276,2,1,3,12:04 PM,5:53,MISS Richardson 15' Jump Shot,,Wallace BLOCK (1 BLK),,
+0020200380,277,4,0,3,12:04 PM,5:51,Jamison REBOUND (Off:4 Def:0),,,,
+0020200380,278,1,60,3,12:04 PM,5:50,Jamison 6' Running Finger Roll (12 PTS),,,76 - 72,-4
+0020200380,279,1,42,3,12:04 PM,5:38,,,Wells  Driving Layup (21 PTS) (Anderson 6 AST),78 - 72,-6
+0020200380,280,6,1,3,12:04 PM,5:14,,,Wells P.FOUL (P1.T2),,
+0020200380,281,1,1,3,12:05 PM,5:08,Jamison 26' 3PT Jump Shot (15 PTS) (Murphy 2 AST),,,78 - 75,-3
+0020200380,282,2,1,3,12:05 PM,4:52,Foyle BLOCK (1 BLK),,MISS Wallace 4' Jump Shot,,
+0020200380,283,4,0,3,12:05 PM,4:50,,,Wallace REBOUND (Off:2 Def:2),,
+0020200380,284,1,5,3,12:05 PM,4:48,,,Wallace  Layup (8 PTS),80 - 75,-5
+0020200380,285,1,58,3,12:05 PM,4:32,Jamison 8' Turnaround Hook Shot (17 PTS) (Arenas 4 AST),,,80 - 77,-3
+0020200380,286,1,47,3,12:06 PM,4:18,,,Wells 8' Turnaround Jump Shot (23 PTS),82 - 77,-5
+0020200380,287,6,2,3,12:06 PM,4:04,,,Pippen S.FOUL (P2.T3),,
+0020200380,288,3,11,3,12:06 PM,4:04,MISS Arenas Free Throw 1 of 2,,,,
+0020200380,289,4,1,3,12:06 PM,4:04,WARRIORS Rebound,,,,
+0020200380,290,3,12,3,12:06 PM,4:04,Arenas Free Throw 2 of 2 (14 PTS),,,82 - 78,-4
+0020200380,291,2,1,3,12:07 PM,3:49,Foyle BLOCK (2 BLK),,MISS Pippen 4' Jump Shot,,
+0020200380,292,4,0,3,12:07 PM,3:48,,,Trail Blazers Rebound,,
+0020200380,293,5,19,3,12:07 PM,3:38,,,Davis Kicked Ball Violation Turnover (P1.T11),,
+0020200380,294,2,1,3,12:07 PM,3:35,MISS Jamison 7' Jump Shot,,,,
+0020200380,295,4,0,3,12:07 PM,3:33,,,Anderson REBOUND (Off:1 Def:2),,
+0020200380,296,9,1,3,12:07 PM,3:29,,,Trail Blazers Timeout: Regular (Reg.3 Short 2),,
+0020200380,298,2,47,3,12:10 PM,3:19,,,MISS Wallace 17' Turnaround Jump Shot,,
+0020200380,299,4,0,3,12:10 PM,3:17,Richardson REBOUND (Off:1 Def:3),,,,
+0020200380,300,2,1,3,12:10 PM,3:00,MISS Richardson 18' Jump Shot,,,,
+0020200380,301,4,0,3,12:10 PM,2:58,,,Pippen REBOUND (Off:0 Def:2),,
+0020200380,302,2,47,3,12:11 PM,2:45,,,MISS Davis 10' Turnaround Jump Shot,,
+0020200380,303,4,0,3,12:11 PM,2:43,Jamison REBOUND (Off:4 Def:1),,,,
+0020200380,304,2,1,3,12:11 PM,2:37,MISS Murphy 15' Jump Shot,,,,
+0020200380,305,4,0,3,12:11 PM,2:35,,,Anderson REBOUND (Off:1 Def:3),,
+0020200380,306,6,1,3,12:11 PM,2:23,Richardson P.FOUL (P2.T2),,,,
+0020200380,307,1,1,3,12:11 PM,2:14,,,Pippen 24' 3PT Jump Shot (9 PTS) (Anderson 7 AST),85 - 78,-7
+0020200380,308,6,2,3,12:12 PM,1:52,,,Davis S.FOUL (P3.T4),,
+0020200380,309,3,11,3,12:12 PM,1:52,Arenas Free Throw 1 of 2 (15 PTS),,,85 - 79,-6
+0020200380,310,8,0,3,12:12 PM,1:52,SUB: Boykins FOR Richardson,,,,
+0020200380,311,3,12,3,12:12 PM,1:52,Arenas Free Throw 2 of 2 (16 PTS),,,85 - 80,-5
+0020200380,312,2,47,3,12:13 PM,1:39,,,MISS Wells 11' Turnaround Jump Shot,,
+0020200380,313,4,0,3,12:13 PM,1:37,Jamison REBOUND (Off:4 Def:2),,,,
+0020200380,314,1,1,3,12:13 PM,1:23,Arenas 17' Jump Shot (18 PTS),,,85 - 82,-3
+0020200380,315,1,44,3,12:13 PM,1:12,,,Wells  Reverse Layup (25 PTS) (Wallace 2 AST),87 - 82,-5
+0020200380,316,6,2,3,12:13 PM,1:12,Murphy S.FOUL (P3.T3),,,,
+0020200380,317,3,10,3,12:13 PM,1:12,,,Wells Free Throw 1 of 1 (26 PTS),88 - 82,-6
+0020200380,318,2,1,3,12:14 PM,0:54,MISS Murphy 5' Jump Shot,,,,
+0020200380,319,4,0,3,12:14 PM,0:52,Foyle REBOUND (Off:1 Def:4),,,,
+0020200380,320,1,3,3,12:14 PM,0:52,Foyle 4' Hook Shot (6 PTS),,,88 - 84,-4
+0020200380,321,2,1,3,12:14 PM,0:36,,,MISS Pippen 26' 3PT Jump Shot,,
+0020200380,322,4,0,3,12:14 PM,0:34,Foyle REBOUND (Off:1 Def:5),,,,
+0020200380,323,6,2,3,12:14 PM,0:30,,,Wells S.FOUL (P2.PN),,
+0020200380,324,8,0,3,12:15 PM,0:30,,,SUB: Sabonis FOR Davis,,
+0020200380,325,3,11,3,12:15 PM,0:30,Arenas Free Throw 1 of 2 (19 PTS),,,88 - 85,-3
+0020200380,326,3,12,3,12:15 PM,0:30,Arenas Free Throw 2 of 2 (20 PTS),,,88 - 86,-2
+0020200380,327,6,4,3,12:15 PM,0:17,,,Wells OFF.Foul (P3),,
+0020200380,328,5,5,3,12:15 PM,0:17,,,Wells Foul Turnover (P2.T12),,
+0020200380,329,8,0,3,12:16 PM,0:17,SUB: Mills FOR Foyle,,,,
+0020200380,330,8,0,3,12:16 PM,0:17,,,SUB: Patterson FOR Sabonis,,
+0020200380,331,6,1,3,12:17 PM,0:05,,,Pippen P.FOUL (P3.PN),,
+0020200380,332,3,11,3,12:17 PM,0:05,Arenas Free Throw 1 of 2 (21 PTS),,,88 - 87,-1
+0020200380,333,8,0,3,12:17 PM,0:05,SUB: Foyle FOR Jamison,,,,
+0020200380,334,8,0,3,12:17 PM,0:05,,,SUB: Sabonis FOR Patterson,,
+0020200380,335,8,0,3,12:17 PM,0:05,SUB: Torres FOR Murphy,,,,
+0020200380,336,3,12,3,12:17 PM,0:05,Arenas Free Throw 2 of 2 (22 PTS),,,88 - 88,TIE
+0020200380,337,2,1,3,12:17 PM,0:00,,,MISS Anderson 26' 3PT Jump Shot,,
+0020200380,338,4,0,3,12:17 PM,0:00,Arenas REBOUND (Off:2 Def:2),,,,
+0020200380,339,13,0,3,12:17 PM,0:00,,,,88 - 88,TIE
+0020200380,341,12,0,4,12:21 PM,12:00,,,,88 - 88,TIE
+0020200380,342,2,1,4,12:21 PM,11:42,MISS Jamison 18' Jump Shot,,,,
+0020200380,343,4,0,4,12:21 PM,11:40,,,Sabonis REBOUND (Off:0 Def:4),,
+0020200380,344,6,4,4,12:21 PM,11:24,,,McInnis OFF.Foul (P2),,
+0020200380,345,5,5,4,12:21 PM,11:24,,,McInnis Foul Turnover (P1.T13),,
+0020200380,346,2,1,4,12:22 PM,11:04,MISS Arenas 8' Jump Shot,,,,
+0020200380,347,4,0,4,12:22 PM,11:02,,,Anderson REBOUND (Off:1 Def:4),,
+0020200380,348,1,5,4,12:22 PM,10:46,,,Sabonis  Layup (8 PTS) (Patterson 2 AST),90 - 88,-2
+0020200380,349,6,2,4,12:22 PM,10:46,Mills S.FOUL (P1.T1),,,,
+0020200380,350,3,10,4,12:22 PM,10:46,,,Sabonis Free Throw 1 of 1 (9 PTS),91 - 88,-3
+0020200380,351,1,42,4,12:23 PM,10:27,Boykins  Driving Layup (5 PTS),,,91 - 90,-1
+0020200380,352,2,1,4,12:23 PM,9:59,,,MISS Wallace 26' 3PT Jump Shot,,
+0020200380,353,4,0,4,12:23 PM,9:57,Foyle REBOUND (Off:1 Def:6),,,,
+0020200380,354,1,8,4,12:23 PM,9:51,Jamison  Slam Dunk (19 PTS) (Arenas 5 AST),,,91 - 92,1
+0020200380,355,8,0,4,12:24 PM,9:36,,,SUB: Randolph FOR Wallace,,
+0020200380,356,2,65,4,12:24 PM,9:30,,,MISS Patterson 4' Jump Hook Shot,,
+0020200380,357,4,0,4,12:24 PM,9:28,Foyle REBOUND (Off:1 Def:7),,,,
+0020200380,358,6,2,4,12:24 PM,9:24,,,Sabonis S.FOUL (P2.T1),,
+0020200380,359,3,11,4,12:24 PM,9:24,Arenas Free Throw 1 of 2 (23 PTS),,,91 - 93,2
+0020200380,360,3,12,4,12:25 PM,9:24,MISS Arenas Free Throw 2 of 2,,,,
+0020200380,361,4,0,4,12:25 PM,9:23,,,Sabonis REBOUND (Off:0 Def:5),,
+0020200380,362,2,56,4,12:25 PM,9:09,,,MISS Sabonis 5' Running Hook Shot,,
+0020200380,363,4,0,4,12:25 PM,9:07,Mills REBOUND (Off:0 Def:2),,,,
+0020200380,364,2,1,4,12:25 PM,8:59,MISS Jamison 25' 3PT Jump Shot,,,,
+0020200380,365,4,0,4,12:25 PM,8:57,,,Sabonis REBOUND (Off:0 Def:6),,
+0020200380,366,2,1,4,12:26 PM,8:39,,,MISS McInnis 8' Jump Shot,,
+0020200380,367,4,0,4,12:26 PM,8:35,Foyle REBOUND (Off:1 Def:8),,,,
+0020200380,368,9,4,4,12:26 PM,8:35,,,,,
+0020200380,370,8,0,4,12:28 PM,8:35,,,SUB: Wells FOR Anderson,,
+0020200380,371,10,0,4,12:28 PM,8:35,Jump Ball Foyle vs. Patterson: Tip to McInnis,,,,
+0020200380,372,5,2,4,12:28 PM,8:35,Foyle Lost Ball Turnover (P1.T17),,Patterson STEAL (1 STL),,
+0020200380,373,1,47,4,12:29 PM,8:16,,,McInnis 11' Turnaround Jump Shot (6 PTS) (Sabonis 3 AST),93 - 93,TIE
+0020200380,374,6,1,4,12:29 PM,7:58,,,Patterson P.FOUL (P2.T2),,
+0020200380,375,2,1,4,12:29 PM,7:49,MISS Jamison 18' Jump Shot,,,,
+0020200380,376,4,0,4,12:29 PM,7:47,,,Randolph REBOUND (Off:2 Def:2),,
+0020200380,377,6,4,4,12:30 PM,7:43,,,Randolph OFF.Foul (P3),,
+0020200380,378,5,5,4,12:30 PM,7:43,,,Randolph Foul Turnover (P3.T14),,
+0020200380,379,8,0,4,12:30 PM,7:43,SUB: Richardson FOR Arenas,,,,
+0020200380,380,1,56,4,12:30 PM,7:27,Mills 6' Running Hook Shot (7 PTS),,,93 - 95,2
+0020200380,381,2,1,4,12:30 PM,7:18,,,MISS Wells 11' Jump Shot,,
+0020200380,382,4,0,4,12:30 PM,7:16,Foyle REBOUND (Off:1 Def:9),,,,
+0020200380,383,2,1,4,12:30 PM,7:04,MISS Richardson 16' Jump Shot,,,,
+0020200380,384,4,0,4,12:30 PM,7:02,,,Patterson REBOUND (Off:2 Def:1),,
+0020200380,385,1,42,4,12:31 PM,6:57,,,Patterson  Driving Layup (10 PTS),95 - 95,TIE
+0020200380,386,6,2,4,12:31 PM,6:57,Foyle S.FOUL (P2.T2),,,,
+0020200380,387,8,0,4,12:31 PM,6:57,,,SUB: Wallace FOR Randolph,,
+0020200380,388,8,0,4,12:31 PM,6:57,SUB: Murphy FOR Mills,,,,
+0020200380,389,3,10,4,12:31 PM,6:57,,,Patterson Free Throw 1 of 1 (11 PTS),96 - 95,-1
+0020200380,390,1,1,4,12:32 PM,6:37,Boykins 25' 3PT Jump Shot (8 PTS) (Jamison 2 AST),,,96 - 98,2
+0020200380,391,1,61,4,12:32 PM,6:17,,,McInnis  Driving Finger Roll (8 PTS),98 - 98,TIE
+0020200380,392,2,1,4,12:32 PM,6:02,MISS Murphy 17' Jump Shot,,,,
+0020200380,393,4,0,4,12:32 PM,6:00,,,Patterson REBOUND (Off:2 Def:2),,
+0020200380,394,1,42,4,12:32 PM,5:55,,,Patterson  Driving Layup (13 PTS) (McInnis 3 AST),100 - 98,-2
+0020200380,395,6,2,4,12:32 PM,5:55,Richardson S.FOUL (P3.T3),,,,
+0020200380,396,9,1,4,12:33 PM,5:55,WARRIORS Timeout: Regular (Full 4 Short 1),,,,
+0020200380,398,3,10,4,12:35 PM,5:55,,,Patterson Free Throw 1 of 1 (14 PTS),101 - 98,-3
+0020200380,399,1,46,4,12:35 PM,5:31,Murphy 7' Running Jump Shot (12 PTS) (Richardson 4 AST),,,101 - 100,-1
+0020200380,400,1,46,4,12:36 PM,5:14,,,McInnis 12' Running Jump Shot (10 PTS),103 - 100,-3
+0020200380,401,5,2,4,12:36 PM,4:52,Jamison Lost Ball Turnover (P4.T18),,Wells STEAL (2 STL),,
+0020200380,402,2,1,4,12:36 PM,4:43,,,MISS Wallace 7' Jump Shot,,
+0020200380,404,4,0,4,12:36 PM,4:41,,,Patterson REBOUND (Off:3 Def:2),,
+0020200380,403,2,5,4,12:36 PM,4:41,,,MISS Patterson  Layup,,
+0020200380,405,4,0,4,12:36 PM,4:40,Richardson REBOUND (Off:1 Def:4),,,,
+0020200380,406,2,1,4,12:36 PM,4:36,MISS Jamison 5' Jump Shot,,Sabonis BLOCK (2 BLK),,
+0020200380,407,4,0,4,12:36 PM,4:33,Boykins REBOUND (Off:1 Def:0),,,,
+0020200380,408,1,1,4,12:36 PM,4:31,Boykins 13' Jump Shot (10 PTS),,,103 - 102,-1
+0020200380,409,6,2,4,12:37 PM,4:07,Foyle S.FOUL (P3.T4),,,,
+0020200380,410,3,11,4,12:37 PM,4:07,,,Wallace Free Throw 1 of 2 (9 PTS),104 - 102,-2
+0020200380,411,3,12,4,12:37 PM,4:07,,,Wallace Free Throw 2 of 2 (10 PTS),105 - 102,-3
+0020200380,412,1,46,4,12:38 PM,3:56,Boykins 5' Running Jump Shot (12 PTS),,,105 - 104,-1
+0020200380,413,6,2,4,12:38 PM,3:56,,,McInnis S.FOUL (P3.T3),,
+0020200380,414,3,10,4,12:38 PM,3:56,Boykins Free Throw 1 of 1 (13 PTS),,,105 - 105,TIE
+0020200380,415,2,1,4,12:38 PM,3:40,,,MISS Wallace 16' Jump Shot,,
+0020200380,416,4,0,4,12:39 PM,3:39,Murphy REBOUND (Off:0 Def:6),,,,
+0020200380,417,1,46,4,12:39 PM,3:20,Jamison 6' Running Jump Shot (21 PTS) (Boykins 5 AST),,,105 - 107,2
+0020200380,418,9,1,4,12:39 PM,3:18,,,Trail Blazers Timeout: Regular (Reg.4 Short 2),,
+0020200380,420,5,2,4,12:41 PM,3:05,Murphy STEAL (1 STL),,Wallace Lost Ball Turnover (P1.T15),,
+0020200380,421,1,1,4,12:42 PM,2:45,Murphy 16' Jump Shot (14 PTS) (Boykins 6 AST),,,105 - 109,4
+0020200380,422,1,63,4,12:42 PM,2:19,,,Wells 17' Fadeaway Jumper (28 PTS) (Wallace 3 AST),107 - 109,2
+0020200380,423,2,46,4,12:42 PM,2:04,MISS Jamison 5' Running Jump Shot,,,,
+0020200380,424,4,0,4,12:42 PM,2:03,,,Wells REBOUND (Off:0 Def:6),,
+0020200380,425,2,1,4,12:43 PM,1:50,,,MISS Wallace 5' Jump Shot,,
+0020200380,426,4,0,4,12:43 PM,1:49,WARRIORS Rebound,,,,
+0020200380,427,6,3,4,12:43 PM,1:49,,,Patterson L.B.FOUL (P3.T4),,
+0020200380,428,8,0,4,12:43 PM,1:49,,,SUB: Anderson FOR McInnis,,
+0020200380,429,8,0,4,12:43 PM,1:49,,,SUB: Pippen FOR Patterson,,
+0020200380,430,2,1,4,12:43 PM,1:31,MISS Richardson 7' Jump Shot,,Wallace BLOCK (2 BLK),,
+0020200380,432,4,0,4,12:43 PM,1:29,Foyle REBOUND (Off:2 Def:9),,,,
+0020200380,431,1,5,4,12:43 PM,1:29,Foyle  Layup (8 PTS),,,107 - 111,4
+0020200380,433,6,2,4,12:44 PM,1:14,Foyle S.FOUL (P4.PN),,,,
+0020200380,434,3,11,4,12:44 PM,1:14,,,Wallace Free Throw 1 of 2 (11 PTS),108 - 111,3
+0020200380,435,3,12,4,12:44 PM,1:14,,,Wallace Free Throw 2 of 2 (12 PTS),109 - 111,2
+0020200380,436,2,1,4,12:45 PM,0:56,MISS Boykins 14' Jump Shot,,,,
+0020200380,437,4,0,4,12:45 PM,0:54,,,Trail Blazers Rebound,,
+0020200380,438,1,61,4,12:45 PM,0:37,,,Wallace 4' Driving Finger Roll (14 PTS),111 - 111,TIE
+0020200380,439,2,1,4,12:46 PM,0:15,MISS Murphy 15' Jump Shot,,,,
+0020200380,440,4,0,4,12:46 PM,0:14,,,Sabonis REBOUND (Off:0 Def:7),,
+0020200380,442,9,1,4,12:47 PM,0:13,,,Trail Blazers Timeout: Regular (Reg.5 Short 2),,
+0020200380,444,8,0,4,12:47 PM,0:13,SUB: Arenas FOR Boykins,,,,
+0020200380,445,8,0,4,12:47 PM,0:13,SUB: Mills FOR Jamison,,,,
+0020200380,446,1,47,4,12:48 PM,0:00,,,Wallace 16' Turnaround Jump Shot (16 PTS) (Pippen 7 AST),113 - 111,-2
+0020200380,448,13,0,4,12:49 PM,0:00,,,,113 - 111,-2

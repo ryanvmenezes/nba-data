@@ -1,0 +1,479 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021000024,0,12,0,1,8:14 PM,12:00,,,,,
+0021000024,1,10,0,1,8:16 PM,12:00,Jump Ball Wallace vs. Krstic: Tip to Green,,,,
+0021000024,2,2,1,1,8:17 PM,11:45,,,MISS Green 26' 3PT Jump Shot,,
+0021000024,3,4,0,1,8:17 PM,11:44,PISTONS Rebound,,,,
+0021000024,4,1,3,1,8:18 PM,11:22,Prince 8' Hook Shot (2 PTS),,,0 - 2,2
+0021000024,5,2,5,1,8:18 PM,11:05,,,MISS Durant  Layup,,
+0021000024,6,4,0,1,8:18 PM,11:04,Hamilton REBOUND (Off:0 Def:1),,,,
+0021000024,7,2,5,1,8:18 PM,10:57,MISS Daye 1' Layup,,,,
+0021000024,8,4,0,1,8:18 PM,10:54,,,Krstic REBOUND (Off:0 Def:1),,
+0021000024,9,2,79,1,8:18 PM,10:50,,,MISS Westbrook 18' Pullup Jump Shot,,
+0021000024,10,4,0,1,8:18 PM,10:49,,,Krstic REBOUND (Off:1 Def:1),,
+0021000024,11,2,1,1,8:18 PM,10:37,,,MISS Green 17' Jump Shot,,
+0021000024,12,4,0,1,8:18 PM,10:36,Wallace REBOUND (Off:0 Def:1),,,,
+0021000024,13,1,1,1,8:19 PM,10:20,Hamilton 8' Jump Shot (2 PTS) (Stuckey 1 AST),,,0 - 4,4
+0021000024,14,2,1,1,8:19 PM,10:10,,,MISS Durant 18' Jump Shot,,
+0021000024,15,4,0,1,8:19 PM,10:09,Daye REBOUND (Off:0 Def:1),,,,
+0021000024,16,1,79,1,8:19 PM,9:59,Stuckey 13' Pullup Jump Shot (2 PTS),,,0 - 6,6
+0021000024,17,1,3,1,8:19 PM,9:36,,,Green 8' Hook Shot (2 PTS),2 - 6,4
+0021000024,18,2,1,1,8:20 PM,9:24,MISS Daye 28' 3PT Jump Shot,,,,
+0021000024,19,4,0,1,8:20 PM,9:23,,,Krstic REBOUND (Off:1 Def:2),,
+0021000024,20,6,27,1,8:20 PM,9:21,Wallace Personal Block Foul (P1.T1),,,,
+0021000024,23,6,2,1,8:21 PM,9:06,Prince S.FOUL (P1.T2),,,,
+0021000024,24,3,11,1,8:21 PM,9:06,,,Durant Free Throw 1 of 2 (1 PTS),3 - 6,3
+0021000024,26,3,12,1,8:21 PM,9:06,,,Durant Free Throw 2 of 2 (2 PTS),4 - 6,2
+0021000024,28,2,1,1,8:21 PM,8:53,MISS Daye 20' Jump Shot,,,,
+0021000024,29,4,0,1,8:21 PM,8:53,,,Thunder Rebound,,
+0021000024,30,5,4,1,8:22 PM,8:36,,,Green Traveling Turnover (P1.T1),,
+0021000024,31,5,1,1,8:22 PM,8:33,Hamilton Bad Pass Turnover (P1.T1),,Westbrook STEAL (1 STL),,
+0021000024,32,1,42,1,8:22 PM,8:28,,,Westbrook 1' Driving Layup (2 PTS),6 - 6,TIE
+0021000024,33,5,1,1,8:22 PM,8:08,Hamilton Bad Pass Turnover (P2.T2),,Green STEAL (1 STL),,
+0021000024,34,1,42,1,8:23 PM,8:04,,,Green  Driving Layup (4 PTS),8 - 6,-2
+0021000024,35,1,5,1,8:23 PM,7:42,Stuckey  Layup (4 PTS) (Wallace 1 AST),,,8 - 8,TIE
+0021000024,36,1,1,1,8:23 PM,7:19,,,Krstic 13' Jump Shot (2 PTS) (Westbrook 1 AST),10 - 8,-2
+0021000024,37,6,2,1,8:24 PM,7:01,,,Sefolosha S.FOUL (P1.T1),,
+0021000024,38,3,11,1,8:24 PM,7:01,Hamilton Free Throw 1 of 2 (3 PTS),,,10 - 9,-1
+0021000024,40,3,12,1,8:24 PM,7:01,Hamilton Free Throw 2 of 2 (4 PTS),,,10 - 10,TIE
+0021000024,42,1,1,1,8:25 PM,6:51,,,Krstic 20' Jump Shot (4 PTS) (Westbrook 2 AST),12 - 10,-2
+0021000024,43,1,5,1,8:25 PM,6:31,Prince  Layup (4 PTS),,,12 - 12,TIE
+0021000024,44,1,79,1,8:25 PM,6:22,,,Durant 16' Pullup Jump Shot (4 PTS),14 - 12,-2
+0021000024,45,1,42,1,8:25 PM,6:12,Stuckey  Driving Layup (6 PTS),,,14 - 14,TIE
+0021000024,46,2,3,1,8:26 PM,5:52,,,MISS Krstic 6' Hook Shot,,
+0021000024,47,4,0,1,8:26 PM,5:51,Daye REBOUND (Off:0 Def:2),,,,
+0021000024,48,5,1,1,8:26 PM,5:43,Daye Bad Pass Turnover (P1.T3),,Durant STEAL (1 STL),,
+0021000024,49,6,2,1,8:26 PM,5:41,Daye S.FOUL (P1.T3),,,,
+0021000024,51,9,1,1,8:26 PM,5:41,PISTONS Timeout: Regular (Full 1 Short 0),,,,
+0021000024,52,3,11,1,8:29 PM,5:41,,,Durant Free Throw 1 of 2 (5 PTS),15 - 14,-1
+0021000024,54,3,12,1,8:29 PM,5:41,,,Durant Free Throw 2 of 2 (6 PTS),16 - 14,-2
+0021000024,56,2,1,1,8:29 PM,5:26,MISS Stuckey 8' Jump Shot,,,,
+0021000024,57,4,0,1,8:29 PM,5:24,,,Sefolosha REBOUND (Off:0 Def:1),,
+0021000024,58,2,1,1,8:30 PM,5:08,,,MISS Krstic 14' Jump Shot,,
+0021000024,59,4,0,1,8:30 PM,5:07,Wallace REBOUND (Off:0 Def:2),,,,
+0021000024,60,2,1,1,8:30 PM,4:54,MISS Daye 13' Jump Shot,,,,
+0021000024,61,4,0,1,8:30 PM,4:53,,,Durant REBOUND (Off:0 Def:1),,
+0021000024,62,2,1,1,8:30 PM,4:45,,,MISS Green 25' 3PT Jump Shot,,
+0021000024,63,4,0,1,8:30 PM,4:44,Wallace REBOUND (Off:0 Def:3),,,,
+0021000024,64,5,1,1,8:30 PM,4:39,Prince Bad Pass Turnover (P1.T4),,Sefolosha STEAL (1 STL),,
+0021000024,65,1,44,1,8:30 PM,4:34,,,Krstic  Reverse Layup (6 PTS) (Westbrook 3 AST),18 - 14,-4
+0021000024,66,2,1,1,8:31 PM,4:09,MISS Stuckey 21' Jump Shot,,,,
+0021000024,67,4,0,1,8:31 PM,4:08,Wallace REBOUND (Off:1 Def:3),,,,
+0021000024,68,2,1,1,8:31 PM,3:58,MISS Hamilton 17' Jump Shot,,,,
+0021000024,69,4,0,1,8:31 PM,3:56,,,Green REBOUND (Off:0 Def:1),,
+0021000024,71,8,0,1,8:31 PM,3:51,SUB: Villanueva FOR Daye,,,,
+0021000024,72,5,1,1,8:31 PM,3:46,,,Westbrook Bad Pass Turnover (P1.T2),,
+0021000024,73,2,56,1,8:32 PM,3:28,MISS Prince 7' Running Hook Shot,,,,
+0021000024,74,4,0,1,8:32 PM,3:25,,,Sefolosha REBOUND (Off:0 Def:2),,
+0021000024,75,2,1,1,8:32 PM,3:04,,,MISS Green 24' 3PT Jump Shot,,
+0021000024,76,4,0,1,8:32 PM,3:03,,,Durant REBOUND (Off:1 Def:1),,
+0021000024,77,2,4,1,8:32 PM,2:59,Wallace BLOCK (1 BLK),,MISS Durant 1' Tip Shot,,
+0021000024,78,4,0,1,8:32 PM,2:59,,,Durant REBOUND (Off:2 Def:1),,
+0021000024,79,1,5,1,8:32 PM,2:57,,,Durant  Layup (8 PTS),20 - 14,-6
+0021000024,80,5,1,1,8:33 PM,2:37,Hamilton Bad Pass Turnover (P3.T5),,Durant STEAL (2 STL),,
+0021000024,81,1,7,1,8:33 PM,2:33,,,Durant  Dunk (10 PTS) (Westbrook 4 AST),22 - 14,-8
+0021000024,82,9,2,1,8:33 PM,2:33,PISTONS Timeout: Short (Full 1 Short 1),,,,
+0021000024,84,9,1,1,8:33 PM,2:33,,,Thunder Timeout: Regular (Reg.1 Short 0),,
+0021000024,85,8,0,1,8:35 PM,2:33,SUB: McGrady FOR Prince,,,,
+0021000024,86,8,0,1,8:36 PM,2:33,,,SUB: Ibaka FOR Krstic,,
+0021000024,87,8,0,1,8:36 PM,2:33,,,SUB: Harden FOR Sefolosha,,
+0021000024,88,1,1,1,8:36 PM,2:16,Hamilton  3PT Jump Shot (7 PTS) (Stuckey 2 AST),,,22 - 17,-5
+0021000024,89,2,1,1,8:36 PM,2:01,,,MISS Green 24' 3PT Jump Shot,,
+0021000024,90,4,0,1,8:36 PM,2:00,McGrady REBOUND (Off:0 Def:1),,,,
+0021000024,91,5,1,1,8:37 PM,1:42,Wallace Bad Pass Turnover (P1.T6),,,,
+0021000024,92,6,2,1,8:37 PM,1:29,Villanueva S.FOUL (P1.T4),,,,
+0021000024,93,3,11,1,8:37 PM,1:29,,,Green Free Throw 1 of 2 (5 PTS),23 - 17,-6
+0021000024,95,3,12,1,8:37 PM,1:29,,,Green Free Throw 2 of 2 (6 PTS),24 - 17,-7
+0021000024,97,1,79,1,8:38 PM,1:08,Stuckey 18' Pullup Jump Shot (8 PTS),,,24 - 19,-5
+0021000024,98,6,1,1,8:39 PM,0:50,Hamilton P.FOUL (P1.PN),,,,
+0021000024,99,3,11,1,8:39 PM,0:50,,,Durant Free Throw 1 of 2 (11 PTS),25 - 19,-6
+0021000024,101,8,0,1,8:39 PM,0:50,,,SUB: Cook FOR Green,,
+0021000024,102,3,12,1,8:39 PM,0:50,,,Durant Free Throw 2 of 2 (12 PTS),26 - 19,-7
+0021000024,104,2,5,1,8:39 PM,0:45,MISS Stuckey  Layup,,,,
+0021000024,105,4,0,1,8:39 PM,0:45,Villanueva REBOUND (Off:1 Def:0),,,,
+0021000024,106,1,5,1,8:39 PM,0:45,Villanueva 1' Layup (2 PTS),,,26 - 21,-5
+0021000024,107,2,1,1,8:40 PM,0:34,,,MISS Westbrook 20' Jump Shot,,
+0021000024,108,4,0,1,8:40 PM,0:33,McGrady REBOUND (Off:0 Def:2),,,,
+0021000024,109,6,1,1,8:40 PM,0:23,,,Cook P.FOUL (P1.T2),,
+0021000024,110,5,1,1,8:40 PM,0:16,Stuckey Bad Pass Turnover (P1.T7),,Cook STEAL (1 STL),,
+0021000024,111,5,39,1,8:41 PM,0:00,,,Harden Step Out of Bounds Turnover (P1.T3),,
+0021000024,112,13,0,1,8:41 PM,0:00,,,,26 - 21,-5
+0021000024,114,12,0,2,8:44 PM,12:00,,,,26 - 21,-5
+0021000024,115,5,2,2,8:44 PM,11:45,Maxiell Lost Ball Turnover (P1.T8),,Harden STEAL (1 STL),,
+0021000024,116,2,1,2,8:44 PM,11:37,,,MISS Maynor 25' 3PT Jump Shot,,
+0021000024,117,4,0,2,8:44 PM,11:35,,,Ibaka REBOUND (Off:1 Def:0),,
+0021000024,118,1,7,2,8:44 PM,11:33,,,Ibaka  Dunk (2 PTS),28 - 21,-7
+0021000024,119,2,1,2,8:45 PM,11:10,MISS Prince 20' Jump Shot,,,,
+0021000024,120,4,0,2,8:45 PM,11:10,PISTONS Rebound,,,,
+0021000024,121,6,3,2,8:45 PM,11:10,,,Ibaka L.B.FOUL (P1.T1),,
+0021000024,122,2,1,2,8:45 PM,11:03,MISS Gordon 21' Jump Shot,,,,
+0021000024,123,4,0,2,8:45 PM,11:02,,,Cook REBOUND (Off:0 Def:1),,
+0021000024,124,5,1,2,8:46 PM,10:40,,,Durant Bad Pass Turnover (P1.T4),,
+0021000024,125,6,2,2,8:46 PM,10:24,,,Maynor S.FOUL (P1.T2),,
+0021000024,126,3,11,2,8:46 PM,10:24,Gordon Free Throw 1 of 2 (1 PTS),,,28 - 22,-6
+0021000024,128,3,12,2,8:46 PM,10:24,MISS Gordon Free Throw 2 of 2,,,,
+0021000024,130,4,0,2,8:47 PM,10:22,Villanueva REBOUND (Off:2 Def:0),,,,
+0021000024,131,1,5,2,8:47 PM,10:20,Villanueva  Layup (4 PTS),,,28 - 24,-4
+0021000024,132,2,1,2,8:47 PM,10:01,,,MISS Durant 27' 3PT Jump Shot,,
+0021000024,133,4,0,2,8:47 PM,10:00,,,Maynor REBOUND (Off:1 Def:0),,
+0021000024,134,2,1,2,8:47 PM,9:55,,,MISS Cook 24' 3PT Jump Shot,,
+0021000024,135,4,0,2,8:47 PM,9:54,Gordon REBOUND (Off:0 Def:1),,,,
+0021000024,136,2,3,2,8:47 PM,9:44,MISS Villanueva 11' Hook Shot,,,,
+0021000024,137,4,0,2,8:47 PM,9:43,PISTONS Rebound,,,,
+0021000024,138,6,17,2,8:48 PM,9:35,,,Thunder T.Foul (Def. 3 Sec Harden ),,
+0021000024,139,8,0,2,8:48 PM,9:35,,,SUB: Green FOR Durant,,
+0021000024,140,3,16,2,8:48 PM,9:35,Gordon Free Throw Technical (2 PTS),,,28 - 25,-3
+0021000024,142,5,1,2,8:49 PM,9:29,McGrady Bad Pass Turnover (P1.T9),,,,
+0021000024,143,1,46,2,8:49 PM,9:14,,,Maynor 13' Running Jump Shot (2 PTS),30 - 25,-5
+0021000024,144,1,1,2,8:49 PM,8:52,Villanueva 25' 3PT Jump Shot (7 PTS) (McGrady 1 AST),,,30 - 28,-2
+0021000024,145,5,4,2,8:50 PM,8:32,,,Cook Traveling Turnover (P1.T5),,
+0021000024,146,9,4,2,8:50 PM,8:32,,,,,
+0021000024,148,8,0,2,8:52 PM,8:32,SUB: Hamilton FOR McGrady,,,,
+0021000024,149,2,78,2,8:53 PM,8:14,MISS Prince 5' Floating Jump Shot,,,,
+0021000024,150,4,0,2,8:53 PM,8:13,Maxiell REBOUND (Off:1 Def:0),,,,
+0021000024,151,1,5,2,8:53 PM,8:12,Maxiell 1' Layup (2 PTS),,,30 - 30,TIE
+0021000024,152,2,5,2,8:53 PM,7:57,,,MISS Harden 1' Layup,,
+0021000024,153,4,0,2,8:53 PM,7:55,,,Ibaka REBOUND (Off:2 Def:0),,
+0021000024,154,5,4,2,8:53 PM,7:54,,,Ibaka Traveling Turnover (P1.T6),,
+0021000024,155,5,1,2,8:54 PM,7:34,Hamilton Bad Pass Turnover (P4.T10),,Cook STEAL (2 STL),,
+0021000024,156,2,5,2,8:54 PM,7:29,,,MISS Harden 1' Layup,,
+0021000024,157,4,0,2,8:54 PM,7:28,,,Ibaka REBOUND (Off:3 Def:0),,
+0021000024,158,1,4,2,8:54 PM,7:26,,,Ibaka  Tip Shot (4 PTS),32 - 30,-2
+0021000024,159,2,1,2,8:54 PM,7:07,MISS Hamilton 13' Jump Shot,,,,
+0021000024,160,4,0,2,8:54 PM,7:06,,,Maynor REBOUND (Off:1 Def:1),,
+0021000024,161,6,2,2,8:54 PM,7:00,Villanueva S.FOUL (P2.T1),,,,
+0021000024,162,3,11,2,8:55 PM,7:00,,,Ibaka Free Throw 1 of 2 (5 PTS),33 - 30,-3
+0021000024,164,8,0,2,8:55 PM,7:00,SUB: Stuckey FOR Hamilton,,,,
+0021000024,165,3,12,2,8:55 PM,7:00,,,Ibaka Free Throw 2 of 2 (6 PTS),34 - 30,-4
+0021000024,167,5,1,2,8:55 PM,6:58,Prince Bad Pass Turnover (P2.T11),,Maynor STEAL (1 STL),,
+0021000024,169,6,4,2,8:55 PM,6:57,,,Green OFF.Foul (P1),,
+0021000024,170,5,5,2,8:55 PM,6:57,,,Green Foul Turnover (P2.T7),,
+0021000024,171,5,2,2,8:56 PM,6:34,Villanueva Lost Ball Turnover (P1.T12),,Maynor STEAL (2 STL),,
+0021000024,172,1,7,2,8:56 PM,6:30,,,Ibaka 1' Dunk (8 PTS) (Maynor 1 AST),36 - 30,-6
+0021000024,173,2,5,2,8:56 PM,6:11,MISS Stuckey  Layup,,Harden BLOCK (1 BLK),,
+0021000024,174,4,0,2,8:56 PM,6:08,,,Ibaka REBOUND (Off:3 Def:1),,
+0021000024,175,2,1,2,8:56 PM,6:02,,,MISS Harden 27' 3PT Jump Shot,,
+0021000024,176,4,0,2,8:56 PM,6:01,Villanueva REBOUND (Off:2 Def:1),,,,
+0021000024,177,2,5,2,8:57 PM,5:54,MISS Maxiell  Layup,,,,
+0021000024,178,4,0,2,8:57 PM,5:52,,,Ibaka REBOUND (Off:3 Def:2),,
+0021000024,179,2,1,2,8:57 PM,5:44,,,MISS Cook 24' 3PT Jump Shot,,
+0021000024,180,4,0,2,8:57 PM,5:42,Gordon REBOUND (Off:0 Def:2),,,,
+0021000024,181,1,1,2,8:57 PM,5:36,Gordon 26' 3PT Jump Shot (5 PTS),,,36 - 33,-3
+0021000024,182,9,1,2,8:57 PM,5:25,,,Thunder Timeout: Regular (Reg.2 Short 0),,
+0021000024,184,8,0,2,8:59 PM,5:25,,,SUB: Durant FOR Harden,,
+0021000024,185,8,0,2,8:59 PM,5:25,,,SUB: Westbrook FOR Cook,,
+0021000024,186,8,0,2,8:59 PM,5:25,,,SUB: Sefolosha FOR Maynor,,
+0021000024,187,1,75,2,9:00 PM,5:19,,,Westbrook  Driving Finger Roll Layup (4 PTS),38 - 33,-5
+0021000024,188,2,1,2,9:00 PM,4:56,MISS Villanueva 27' 3PT Jump Shot,,,,
+0021000024,189,4,0,2,9:00 PM,4:55,,,Durant REBOUND (Off:2 Def:2),,
+0021000024,190,6,2,2,9:00 PM,4:46,Villanueva S.FOUL (P3.T2),,,,
+0021000024,191,3,11,2,9:00 PM,4:46,,,Green Free Throw 1 of 2 (7 PTS),39 - 33,-6
+0021000024,193,8,0,2,9:01 PM,4:46,SUB: Daye FOR Villanueva,,,,
+0021000024,194,3,12,2,9:01 PM,4:46,,,Green Free Throw 2 of 2 (8 PTS),40 - 33,-7
+0021000024,196,2,1,2,9:02 PM,4:22,MISS Daye 13' Jump Shot,,,,
+0021000024,197,4,0,2,9:02 PM,4:21,Prince REBOUND (Off:1 Def:0),,,,
+0021000024,198,1,5,2,9:02 PM,4:20,Prince  Layup (6 PTS),,,40 - 35,-5
+0021000024,199,5,4,2,9:02 PM,4:10,,,Westbrook Traveling Turnover (P2.T8),,
+0021000024,200,1,1,2,9:02 PM,4:01,Prince 18' Jump Shot (8 PTS),,,40 - 37,-3
+0021000024,201,2,1,2,9:02 PM,3:46,,,MISS Green 24' 3PT Jump Shot,,
+0021000024,202,4,0,2,9:02 PM,3:45,,,Ibaka REBOUND (Off:4 Def:2),,
+0021000024,203,1,87,2,9:03 PM,3:43,,,Ibaka 1' Putback Dunk (10 PTS),42 - 37,-5
+0021000024,204,1,1,2,9:03 PM,3:30,Gordon 27' 3PT Jump Shot (8 PTS) (Stuckey 3 AST),,,42 - 40,-2
+0021000024,205,1,1,2,9:03 PM,3:19,,,Durant 19' Jump Shot (14 PTS) (Westbrook 5 AST),44 - 40,-4
+0021000024,206,1,42,2,9:03 PM,3:11,Stuckey  Driving Layup (10 PTS),,,44 - 42,-2
+0021000024,207,6,2,2,9:03 PM,3:11,,,Green S.FOUL (P2.T3),,
+0021000024,208,8,0,2,9:03 PM,3:11,,,SUB: Krstic FOR Ibaka,,
+0021000024,209,3,10,2,9:03 PM,3:11,MISS Stuckey Free Throw 1 of 1,,,,
+0021000024,211,4,0,2,9:04 PM,3:11,,,Sefolosha REBOUND (Off:0 Def:3),,
+0021000024,212,6,2,2,9:04 PM,2:55,Gordon S.FOUL (P1.T3),,,,
+0021000024,214,9,1,2,9:05 PM,2:55,PISTONS Timeout: Regular (Full 2 Short 1),,,,
+0021000024,216,3,11,2,9:07 PM,2:55,,,Krstic Free Throw 1 of 2 (7 PTS),45 - 42,-3
+0021000024,218,3,12,2,9:07 PM,2:55,,,Krstic Free Throw 2 of 2 (8 PTS),46 - 42,-4
+0021000024,220,1,79,2,9:08 PM,2:36,Gordon 18' Pullup Jump Shot (10 PTS) (Prince 1 AST),,,46 - 44,-2
+0021000024,221,5,1,2,9:08 PM,2:21,,,Green Bad Pass Turnover (P3.T9),,
+0021000024,222,2,1,2,9:09 PM,1:59,MISS Prince 19' Jump Shot,,,,
+0021000024,223,4,0,2,9:09 PM,1:58,,,Sefolosha REBOUND (Off:0 Def:4),,
+0021000024,224,2,1,2,9:09 PM,1:49,,,MISS Westbrook 19' Jump Shot,,
+0021000024,225,4,0,2,9:09 PM,1:48,,,Sefolosha REBOUND (Off:1 Def:4),,
+0021000024,226,2,1,2,9:09 PM,1:36,Prince BLOCK (1 BLK),,MISS Durant 9' Jump Shot,,
+0021000024,227,4,0,2,9:09 PM,1:34,,,Westbrook REBOUND (Off:1 Def:0),,
+0021000024,228,6,2,2,9:09 PM,1:30,Prince S.FOUL (P2.T4),,,,
+0021000024,229,3,11,2,9:10 PM,1:30,,,Durant Free Throw 1 of 2 (15 PTS),47 - 44,-3
+0021000024,231,3,12,2,9:10 PM,1:30,,,Durant Free Throw 2 of 2 (16 PTS),48 - 44,-4
+0021000024,233,5,2,2,9:10 PM,1:24,Stuckey Lost Ball Turnover (P2.T13),,Westbrook STEAL (2 STL),,
+0021000024,234,1,5,2,9:10 PM,1:19,,,Sefolosha  Layup (2 PTS),50 - 44,-6
+0021000024,235,1,42,2,9:10 PM,1:10,Gordon 1' Driving Layup (12 PTS),,,50 - 46,-4
+0021000024,236,1,1,2,9:10 PM,0:52,,,Green 26' 3PT Jump Shot (11 PTS) (Westbrook 6 AST),53 - 46,-7
+0021000024,237,1,1,2,9:11 PM,0:35,Daye 27' 3PT Jump Shot (3 PTS) (Stuckey 4 AST),,,53 - 49,-4
+0021000024,238,2,1,2,9:11 PM,0:27,,,MISS Westbrook 28' 3PT Jump Shot,,
+0021000024,239,4,0,2,9:11 PM,0:26,,,Krstic REBOUND (Off:2 Def:2),,
+0021000024,240,1,3,2,9:11 PM,0:25,,,Krstic 5' Hook Shot (10 PTS),55 - 49,-6
+0021000024,241,6,2,2,9:11 PM,0:25,Maxiell S.FOUL (P1.PN),,,,
+0021000024,242,3,10,2,9:11 PM,0:25,,,Krstic Free Throw 1 of 1 (11 PTS),56 - 49,-7
+0021000024,244,6,1,2,9:12 PM,0:08,,,Westbrook P.FOUL (P1.T4),,
+0021000024,245,8,0,2,9:12 PM,0:08,SUB: Villanueva FOR Maxiell,,,,
+0021000024,246,8,0,2,9:12 PM,0:08,,,SUB: Ibaka FOR Krstic,,
+0021000024,247,1,56,2,9:13 PM,0:04,Prince 9' Running Hook Shot (10 PTS) (Villanueva 1 AST),,,56 - 51,-5
+0021000024,248,2,1,2,9:13 PM,0:00,,,MISS Green 27' 3PT Jump Shot,,
+0021000024,249,4,0,2,9:13 PM,0:00,,,Thunder Rebound,,
+0021000024,250,13,0,2,9:13 PM,0:00,,,,56 - 51,-5
+0021000024,252,12,0,3,9:30 PM,12:00,,,,56 - 51,-5
+0021000024,253,2,1,3,9:31 PM,11:37,MISS Stuckey 20' Jump Shot,,,,
+0021000024,254,4,0,3,9:31 PM,11:36,,,Westbrook REBOUND (Off:1 Def:1),,
+0021000024,255,2,3,3,9:31 PM,11:21,,,MISS Green 6' Hook Shot,,
+0021000024,256,4,0,3,9:31 PM,11:20,,,Krstic REBOUND (Off:3 Def:2),,
+0021000024,257,2,5,3,9:31 PM,11:19,Daye BLOCK (1 BLK),,MISS Krstic  Layup,,
+0021000024,258,4,0,3,9:31 PM,11:19,,,Thunder Rebound,,
+0021000024,259,2,1,3,9:32 PM,11:11,,,MISS Durant 20' Jump Shot,,
+0021000024,260,4,0,3,9:32 PM,11:10,Wallace REBOUND (Off:1 Def:4),,,,
+0021000024,261,2,1,3,9:32 PM,11:02,MISS Daye 19' Jump Shot,,,,
+0021000024,262,4,0,3,9:32 PM,11:01,Prince REBOUND (Off:2 Def:0),,,,
+0021000024,263,2,5,3,9:32 PM,10:41,MISS Wallace  Layup,,,,
+0021000024,264,4,0,3,9:32 PM,10:40,,,Westbrook REBOUND (Off:1 Def:2),,
+0021000024,265,6,1,3,9:32 PM,10:38,Stuckey P.FOUL (P1.T1),,,,
+0021000024,266,2,5,3,9:33 PM,10:22,Wallace BLOCK (2 BLK),,MISS Krstic 1' Layup,,
+0021000024,267,4,0,3,9:33 PM,10:20,,,Durant REBOUND (Off:3 Def:2),,
+0021000024,268,6,2,3,9:33 PM,10:19,Wallace S.FOUL (P2.T2),,,,
+0021000024,269,3,11,3,9:33 PM,10:19,,,Westbrook Free Throw 1 of 2 (5 PTS),57 - 51,-6
+0021000024,271,3,12,3,9:34 PM,10:19,,,Westbrook Free Throw 2 of 2 (6 PTS),58 - 51,-7
+0021000024,272,2,1,3,9:34 PM,9:56,MISS Hamilton 18' Jump Shot,,,,
+0021000024,273,4,0,3,9:34 PM,9:55,,,Westbrook REBOUND (Off:1 Def:3),,
+0021000024,274,6,1,3,9:34 PM,9:45,Daye P.FOUL (P2.T3),,,,
+0021000024,275,2,1,3,9:35 PM,9:38,,,MISS Durant 11' Jump Shot,,
+0021000024,276,4,0,3,9:35 PM,9:37,,,Durant REBOUND (Off:4 Def:2),,
+0021000024,277,2,5,3,9:35 PM,9:36,Wallace BLOCK (3 BLK),,MISS Durant  Layup,,
+0021000024,278,4,0,3,9:35 PM,9:33,,,Krstic REBOUND (Off:4 Def:2),,
+0021000024,279,2,5,3,9:35 PM,9:33,,,MISS Krstic  Layup,,
+0021000024,280,4,0,3,9:35 PM,9:33,,,Krstic REBOUND (Off:5 Def:2),,
+0021000024,281,1,5,3,9:35 PM,9:33,,,Krstic  Layup (13 PTS),60 - 51,-9
+0021000024,282,6,2,3,9:35 PM,9:33,Prince S.FOUL (P3.T4),,,,
+0021000024,283,3,10,3,9:35 PM,9:33,,,Krstic Free Throw 1 of 1 (14 PTS),61 - 51,-10
+0021000024,285,2,5,3,9:36 PM,9:16,MISS Daye 1' Layup,,,,
+0021000024,286,4,0,3,9:36 PM,9:15,Daye REBOUND (Off:1 Def:2),,,,
+0021000024,287,2,4,3,9:36 PM,9:13,MISS Daye 1' Tip Shot,,,,
+0021000024,288,4,0,3,9:36 PM,9:12,,,Green REBOUND (Off:0 Def:2),,
+0021000024,289,6,2,3,9:36 PM,9:09,Hamilton S.FOUL (P2.PN),,,,
+0021000024,290,3,11,3,9:36 PM,9:09,,,Sefolosha Free Throw 1 of 2 (3 PTS),62 - 51,-11
+0021000024,292,3,12,3,9:36 PM,9:09,,,Sefolosha Free Throw 2 of 2 (4 PTS),63 - 51,-12
+0021000024,294,2,1,3,9:37 PM,8:54,MISS Prince 18' Jump Shot,,,,
+0021000024,295,4,0,3,9:37 PM,8:52,,,Green REBOUND (Off:0 Def:3),,
+0021000024,296,2,79,3,9:37 PM,8:46,,,MISS Westbrook 19' Pullup Jump Shot,,
+0021000024,297,4,0,3,9:37 PM,8:45,Prince REBOUND (Off:2 Def:1),,,,
+0021000024,298,2,1,3,9:37 PM,8:22,MISS Stuckey 20' Jump Shot,,,,
+0021000024,299,4,0,3,9:37 PM,8:21,Wallace REBOUND (Off:2 Def:4),,,,
+0021000024,300,2,5,3,9:37 PM,8:20,MISS Wallace  Layup,,,,
+0021000024,301,4,0,3,9:37 PM,8:18,Prince REBOUND (Off:3 Def:1),,,,
+0021000024,302,1,4,3,9:37 PM,8:15,Prince  Tip Shot (12 PTS),,,63 - 53,-10
+0021000024,303,5,1,3,9:37 PM,8:05,,,Krstic Bad Pass Turnover (P1.T10),,
+0021000024,304,1,1,3,9:38 PM,7:46,Hamilton 17' Jump Shot (9 PTS) (Prince 2 AST),,,63 - 55,-8
+0021000024,305,1,1,3,9:38 PM,7:26,,,Durant 17' Jump Shot (18 PTS) (Westbrook 7 AST),65 - 55,-10
+0021000024,306,2,1,3,9:39 PM,7:01,MISS Wallace 6' Jump Shot,,,,
+0021000024,307,4,0,3,9:39 PM,7:01,Wallace REBOUND (Off:3 Def:4),,,,
+0021000024,308,2,1,3,9:39 PM,7:01,MISS Wallace 5' Jump Shot,,,,
+0021000024,309,4,0,3,9:39 PM,7:01,Wallace REBOUND (Off:4 Def:4),,,,
+0021000024,310,1,5,3,9:39 PM,7:01,Wallace  Layup (2 PTS),,,65 - 57,-8
+0021000024,311,6,2,3,9:39 PM,7:01,,,Krstic S.FOUL (P1.T1),,
+0021000024,312,8,0,3,9:39 PM,7:01,SUB: Gordon FOR Prince,,,,
+0021000024,313,3,10,3,9:39 PM,7:01,MISS Wallace Free Throw 1 of 1,,,,
+0021000024,314,4,0,3,9:39 PM,6:59,,,Green REBOUND (Off:0 Def:4),,
+0021000024,315,2,1,3,9:40 PM,6:46,,,MISS Durant 16' Jump Shot,,
+0021000024,316,4,0,3,9:40 PM,6:45,Daye REBOUND (Off:1 Def:3),,,,
+0021000024,317,1,77,3,9:40 PM,6:36,Stuckey 5' Driving Jump Shot (12 PTS),,,65 - 59,-6
+0021000024,318,9,1,3,9:40 PM,6:21,PISTONS Timeout: Regular (Full 3 Short 1),,,,
+0021000024,320,10,0,3,9:43 PM,6:21,Jump Ball Stuckey vs. Krstic: Tip to Westbrook,,,,
+0021000024,321,1,5,3,9:43 PM,6:16,,,Westbrook  Layup (8 PTS) (Krstic 1 AST),67 - 59,-8
+0021000024,322,1,1,3,9:44 PM,5:59,Daye 26' 3PT Jump Shot (6 PTS) (Stuckey 5 AST),,,67 - 62,-5
+0021000024,323,1,7,3,9:44 PM,5:41,,,Green  Dunk (13 PTS) (Westbrook 8 AST),69 - 62,-7
+0021000024,324,6,27,3,9:44 PM,5:29,,,Krstic Personal Block Foul (P2.T2),,
+0021000024,326,1,49,3,9:45 PM,5:17,Stuckey  Driving Dunk (14 PTS),,,69 - 64,-5
+0021000024,327,5,1,3,9:45 PM,5:01,Hamilton STEAL (1 STL),,Sefolosha Bad Pass Turnover (P1.T11),,
+0021000024,328,5,2,3,9:45 PM,4:57,Stuckey Lost Ball Turnover (P3.T14),,Krstic STEAL (1 STL),,
+0021000024,329,1,1,3,9:46 PM,4:51,,,Durant 27' 3PT Jump Shot (21 PTS) (Sefolosha 1 AST),72 - 64,-8
+0021000024,330,2,1,3,9:46 PM,4:34,MISS Hamilton 16' Jump Shot,,,,
+0021000024,331,4,0,3,9:46 PM,4:34,PISTONS Rebound,,,,
+0021000024,332,6,3,3,9:46 PM,4:34,,,Krstic L.B.FOUL (P3.T3),,
+0021000024,333,8,0,3,9:46 PM,4:34,,,SUB: Harden FOR Sefolosha,,
+0021000024,334,8,0,3,9:46 PM,4:34,,,SUB: Ibaka FOR Krstic,,
+0021000024,335,6,2,3,9:47 PM,4:25,,,Harden S.FOUL (P1.T4),,
+0021000024,336,3,11,3,9:47 PM,4:25,Stuckey Free Throw 1 of 2 (15 PTS),,,72 - 65,-7
+0021000024,338,3,12,3,9:47 PM,4:25,Stuckey Free Throw 2 of 2 (16 PTS),,,72 - 66,-6
+0021000024,340,6,1,3,9:48 PM,4:23,Gordon P.FOUL (P2.PN),,,,
+0021000024,341,3,11,3,9:48 PM,4:23,,,Westbrook Free Throw 1 of 2 (9 PTS),73 - 66,-7
+0021000024,343,3,12,3,9:48 PM,4:23,,,Westbrook Free Throw 2 of 2 (10 PTS),74 - 66,-8
+0021000024,345,1,1,3,9:48 PM,4:07,Gordon 18' Jump Shot (14 PTS) (Stuckey 6 AST),,,74 - 68,-6
+0021000024,346,2,1,3,9:49 PM,3:47,,,MISS Ibaka 17' Jump Shot,,
+0021000024,347,4,0,3,9:49 PM,3:47,,,Thunder Rebound,,
+0021000024,348,6,3,3,9:49 PM,3:47,Stuckey L.B.FOUL (P2.PN),,,,
+0021000024,349,3,11,3,9:49 PM,3:47,,,MISS Green Free Throw 1 of 2,,
+0021000024,350,4,1,3,9:49 PM,3:47,,,Thunder Rebound,,
+0021000024,351,3,12,3,9:49 PM,3:47,,,Green Free Throw 2 of 2 (14 PTS),75 - 68,-7
+0021000024,353,2,1,3,9:50 PM,3:29,MISS Gordon 21' Jump Shot,,,,
+0021000024,354,4,0,3,9:50 PM,3:29,,,Thunder Rebound,,
+0021000024,355,8,0,3,9:50 PM,3:29,SUB: Villanueva FOR Wallace,,,,
+0021000024,356,1,42,3,9:50 PM,3:17,,,Westbrook  Driving Layup (12 PTS),77 - 68,-9
+0021000024,357,1,42,3,9:51 PM,3:02,Gordon 1' Driving Layup (16 PTS),,,77 - 70,-7
+0021000024,358,6,26,3,9:51 PM,2:46,,,Westbrook Offensive Charge Foul (P2.PN),,
+0021000024,359,5,5,3,9:51 PM,2:46,,,Westbrook Foul Turnover (P3.T12),,
+0021000024,360,9,1,3,9:51 PM,2:46,,,Thunder Timeout: Regular (Reg.3 Short 0),,
+0021000024,362,18,0,3,9:51 PM,2:46,,,,,
+0021000024,363,8,0,3,9:54 PM,2:46,,,SUB: Cook FOR Green,,
+0021000024,364,2,5,3,9:54 PM,2:26,MISS Gordon 1' Layup,,,,
+0021000024,365,4,0,3,9:55 PM,2:25,,,Westbrook REBOUND (Off:1 Def:4),,
+0021000024,366,2,5,3,9:55 PM,2:13,,,MISS Westbrook  Layup,,
+0021000024,367,4,0,3,9:55 PM,2:11,Villanueva REBOUND (Off:2 Def:2),,,,
+0021000024,368,2,1,3,9:55 PM,2:06,MISS Daye 27' 3PT Jump Shot,,,,
+0021000024,369,4,0,3,9:55 PM,2:04,,,Westbrook REBOUND (Off:1 Def:5),,
+0021000024,370,1,7,3,9:55 PM,1:52,,,Ibaka  Dunk (12 PTS) (Durant 1 AST),79 - 70,-9
+0021000024,371,1,42,3,9:55 PM,1:39,Stuckey 1' Driving Layup (18 PTS),,,79 - 72,-7
+0021000024,372,2,63,3,9:56 PM,1:21,,,MISS Durant 20' Fadeaway Jumper,,
+0021000024,373,4,0,3,9:56 PM,1:20,Stuckey REBOUND (Off:0 Def:1),,,,
+0021000024,374,1,1,3,9:56 PM,1:10,Hamilton 24' 3PT Jump Shot (12 PTS) (Stuckey 7 AST),,,79 - 75,-4
+0021000024,375,6,17,3,9:56 PM,0:50,PISTONS T.Foul (Def. 3 Sec Hamilton ),,,,
+0021000024,376,3,16,3,9:56 PM,0:50,,,Durant Free Throw Technical (22 PTS),80 - 75,-5
+0021000024,380,1,1,3,9:58 PM,0:32,,,Durant 19' Jump Shot (24 PTS),82 - 75,-7
+0021000024,381,6,2,3,9:58 PM,0:32,Daye S.FOUL (P3.PN),,,,
+0021000024,382,3,10,3,9:58 PM,0:32,,,Durant Free Throw 1 of 1 (25 PTS),83 - 75,-8
+0021000024,384,1,42,3,9:58 PM,0:32,Stuckey  Driving Layup (20 PTS),,,83 - 77,-6
+0021000024,385,6,2,3,9:58 PM,0:32,,,Cook S.FOUL (P2.PN),,
+0021000024,386,3,10,3,9:58 PM,0:32,MISS Stuckey Free Throw 1 of 1,,,,
+0021000024,388,4,0,3,9:58 PM,0:28,,,Harden REBOUND (Off:0 Def:1),,
+0021000024,389,2,1,3,9:58 PM,0:17,,,MISS Westbrook 15' Jump Shot,,
+0021000024,390,4,0,3,9:58 PM,0:17,PISTONS Rebound,,,,
+0021000024,391,1,42,3,9:59 PM,0:00,Gordon 1' Driving Layup (18 PTS) (Stuckey 8 AST),,,83 - 79,-4
+0021000024,393,13,0,3,9:59 PM,0:00,,,,83 - 79,-4
+0021000024,395,12,0,4,10:02 PM,12:00,,,,83 - 79,-4
+0021000024,396,6,1,4,10:03 PM,11:57,Gordon P.FOUL (P3.T1),,,,
+0021000024,397,6,2,4,10:03 PM,11:45,Prince S.FOUL (P4.T2),,,,
+0021000024,398,3,11,4,10:03 PM,11:45,,,Harden Free Throw 1 of 2 (1 PTS),84 - 79,-5
+0021000024,399,3,12,4,10:03 PM,11:45,,,MISS Harden Free Throw 2 of 2,,
+0021000024,401,4,0,4,10:04 PM,11:44,Hamilton REBOUND (Off:0 Def:2),,,,
+0021000024,402,6,1,4,10:04 PM,11:34,,,Harden P.FOUL (P2.T1),,
+0021000024,403,5,1,4,10:04 PM,11:24,Prince Bad Pass Turnover (P3.T15),,Green STEAL (2 STL),,
+0021000024,404,2,1,4,10:05 PM,11:16,,,MISS Green 6' Jump Shot,,
+0021000024,405,4,0,4,10:05 PM,11:14,Gordon REBOUND (Off:0 Def:3),,,,
+0021000024,406,2,5,4,10:05 PM,11:09,MISS Villanueva  Layup,,,,
+0021000024,407,4,0,4,10:05 PM,11:08,Villanueva REBOUND (Off:3 Def:2),,,,
+0021000024,408,2,5,4,10:05 PM,11:07,MISS Villanueva 1' Layup,,,,
+0021000024,409,4,0,4,10:05 PM,11:06,,,Green REBOUND (Off:0 Def:5),,
+0021000024,410,1,5,4,10:05 PM,11:00,,,Green  Layup (16 PTS),86 - 79,-7
+0021000024,411,6,1,4,10:05 PM,10:46,,,Cook P.FOUL (P3.T2),,
+0021000024,412,8,0,4,10:05 PM,10:46,,,SUB: Maynor FOR Westbrook,,
+0021000024,413,6,2,4,10:06 PM,10:39,,,Maynor S.FOUL (P2.T3),,
+0021000024,414,3,11,4,10:06 PM,10:39,Gordon Free Throw 1 of 2 (19 PTS),,,86 - 80,-6
+0021000024,416,3,12,4,10:06 PM,10:39,Gordon Free Throw 2 of 2 (20 PTS),,,86 - 81,-5
+0021000024,418,2,5,4,10:07 PM,10:26,Maxiell BLOCK (1 BLK),,MISS Harden  Layup,,
+0021000024,419,4,0,4,10:07 PM,10:23,Hamilton REBOUND (Off:0 Def:3),,,,
+0021000024,420,5,1,4,10:07 PM,10:21,Gordon Bad Pass Turnover (P1.T16),,,,
+0021000024,421,2,5,4,10:07 PM,10:04,,,MISS Harden  Layup,,
+0021000024,422,4,0,4,10:07 PM,10:03,Maxiell REBOUND (Off:1 Def:1),,,,
+0021000024,423,5,1,4,10:08 PM,9:47,Villanueva Bad Pass Turnover (P2.T17),,,,
+0021000024,424,2,1,4,10:08 PM,9:35,,,MISS Maynor 16' Jump Shot,,
+0021000024,425,4,0,4,10:08 PM,9:33,Gordon REBOUND (Off:0 Def:4),,,,
+0021000024,426,1,42,4,10:08 PM,9:27,Hamilton  Driving Layup (14 PTS),,,86 - 83,-3
+0021000024,427,9,1,4,10:08 PM,9:17,,,Thunder Timeout: Regular (Reg.4 Short 0),,
+0021000024,429,8,0,4,10:11 PM,9:17,,,SUB: Durant FOR Harden,,
+0021000024,431,2,1,4,10:12 PM,9:09,,,MISS Durant 19' Jump Shot,,
+0021000024,432,4,0,4,10:12 PM,9:08,Hamilton REBOUND (Off:0 Def:4),,,,
+0021000024,433,2,1,4,10:12 PM,8:53,MISS Hamilton 16' Jump Shot,,,,
+0021000024,434,4,0,4,10:12 PM,8:52,,,Ibaka REBOUND (Off:4 Def:3),,
+0021000024,435,2,1,4,10:12 PM,8:39,,,MISS Ibaka 15' Jump Shot,,
+0021000024,436,4,0,4,10:12 PM,8:38,Villanueva REBOUND (Off:3 Def:3),,,,
+0021000024,437,1,1,4,10:12 PM,8:26,Gordon 20' Jump Shot (22 PTS) (Prince 3 AST),,,86 - 85,-1
+0021000024,438,1,5,4,10:13 PM,8:08,,,Ibaka 1' Layup (14 PTS) (Maynor 2 AST),88 - 85,-3
+0021000024,439,6,2,4,10:13 PM,8:08,Maxiell S.FOUL (P2.T3),,,,
+0021000024,440,8,0,4,10:13 PM,8:08,,,SUB: Westbrook FOR Maynor,,
+0021000024,442,6,11,4,10:13 PM,8:08,,,,,
+0021000024,443,3,16,4,10:14 PM,8:08,,,MISS Durant Free Throw Technical,,
+0021000024,444,4,1,4,10:14 PM,8:08,,,Thunder Rebound,,
+0021000024,445,8,0,4,10:14 PM,8:08,SUB: Stuckey FOR Hamilton,,,,
+0021000024,446,3,10,4,10:14 PM,8:08,,,Ibaka Free Throw 1 of 1 (15 PTS),89 - 85,-4
+0021000024,448,2,46,4,10:14 PM,7:53,MISS Villanueva 15' Running Jump Shot,,,,
+0021000024,449,4,0,4,10:14 PM,7:50,Maxiell REBOUND (Off:2 Def:1),,,,
+0021000024,450,5,2,4,10:14 PM,7:47,Villanueva Lost Ball Turnover (P3.T18),,Green STEAL (3 STL),,
+0021000024,451,6,2,4,10:15 PM,7:42,Stuckey S.FOUL (P3.T4),,,,
+0021000024,452,3,11,4,10:15 PM,7:42,,,Westbrook Free Throw 1 of 2 (13 PTS),90 - 85,-5
+0021000024,454,3,12,4,10:15 PM,7:42,,,MISS Westbrook Free Throw 2 of 2,,
+0021000024,456,4,0,4,10:15 PM,7:41,Prince REBOUND (Off:3 Def:2),,,,
+0021000024,457,1,1,4,10:15 PM,7:26,Gordon 19' Jump Shot (24 PTS) (Stuckey 9 AST),,,90 - 87,-3
+0021000024,458,2,1,4,10:16 PM,7:08,,,MISS Green 24' 3PT Jump Shot,,
+0021000024,459,4,0,4,10:16 PM,7:07,Stuckey REBOUND (Off:0 Def:2),,,,
+0021000024,460,2,1,4,10:16 PM,6:51,MISS Maxiell 17' Jump Shot,,,,
+0021000024,461,4,0,4,10:16 PM,6:50,,,Durant REBOUND (Off:4 Def:3),,
+0021000024,462,6,2,4,10:16 PM,6:40,Gordon S.FOUL (P4.PN),,,,
+0021000024,463,3,11,4,10:16 PM,6:40,,,Westbrook Free Throw 1 of 2 (14 PTS),91 - 87,-4
+0021000024,465,3,12,4,10:17 PM,6:40,,,Westbrook Free Throw 2 of 2 (15 PTS),92 - 87,-5
+0021000024,467,6,2,4,10:17 PM,6:25,,,Cook S.FOUL (P4.T4),,
+0021000024,468,3,11,4,10:17 PM,6:25,Gordon Free Throw 1 of 2 (25 PTS),,,92 - 88,-4
+0021000024,470,8,0,4,10:18 PM,6:25,,,SUB: Sefolosha FOR Cook,,
+0021000024,471,3,12,4,10:18 PM,6:25,Gordon Free Throw 2 of 2 (26 PTS),,,92 - 89,-3
+0021000024,472,2,1,4,10:19 PM,6:07,,,MISS Green 20' Jump Shot,,
+0021000024,473,4,0,4,10:19 PM,6:06,Stuckey REBOUND (Off:0 Def:3),,,,
+0021000024,474,2,1,4,10:19 PM,5:56,MISS Stuckey 5' Jump Shot,,Ibaka BLOCK (1 BLK),,
+0021000024,475,4,0,4,10:19 PM,5:54,,,Sefolosha REBOUND (Off:1 Def:5),,
+0021000024,476,1,43,4,10:19 PM,5:49,,,Durant 1' Alley Oop Layup (27 PTS) (Westbrook 9 AST),94 - 89,-5
+0021000024,477,1,1,4,10:19 PM,5:26,Stuckey 18' Jump Shot (22 PTS),,,94 - 91,-3
+0021000024,478,2,5,4,10:20 PM,5:07,Maxiell BLOCK (2 BLK),,MISS Westbrook  Layup,,
+0021000024,479,4,0,4,10:20 PM,5:07,,,Thunder Rebound,,
+0021000024,480,9,4,4,10:20 PM,5:07,,,,,
+0021000024,482,2,1,4,10:23 PM,5:00,,,MISS Durant 16' Jump Shot,,
+0021000024,483,4,0,4,10:23 PM,4:59,PISTONS Rebound,,,,
+0021000024,484,6,2,4,10:23 PM,4:49,,,Sefolosha S.FOUL (P2.PN),,
+0021000024,485,3,11,4,10:23 PM,4:49,Stuckey Free Throw 1 of 2 (23 PTS),,,94 - 92,-2
+0021000024,486,3,12,4,10:24 PM,4:49,Stuckey Free Throw 2 of 2 (24 PTS),,,94 - 93,-1
+0021000024,488,1,3,4,10:24 PM,4:30,,,Green 4' Hook Shot (18 PTS) (Westbrook 10 AST),96 - 93,-3
+0021000024,489,1,42,4,10:25 PM,4:11,Gordon  Driving Layup (28 PTS),,,96 - 95,-1
+0021000024,490,6,27,4,10:25 PM,3:54,Maxiell Personal Block Foul (P3.PN),,,,
+0021000024,491,3,11,4,10:25 PM,3:54,,,Westbrook Free Throw 1 of 2 (16 PTS),97 - 95,-2
+0021000024,493,3,12,4,10:25 PM,3:54,,,Westbrook Free Throw 2 of 2 (17 PTS),98 - 95,-3
+0021000024,495,1,1,4,10:26 PM,3:31,Gordon 16' Jump Shot (30 PTS),,,98 - 97,-1
+0021000024,496,2,1,4,10:27 PM,3:11,,,MISS Westbrook 12' Jump Shot,,
+0021000024,497,4,0,4,10:27 PM,3:11,,,Thunder Rebound,,
+0021000024,498,6,3,4,10:27 PM,3:11,Villanueva L.B.FOUL (P4.PN),,,,
+0021000024,499,3,11,4,10:27 PM,3:11,,,MISS Green Free Throw 1 of 2,,
+0021000024,500,4,1,4,10:27 PM,3:11,,,Thunder Rebound,,
+0021000024,501,3,12,4,10:27 PM,3:11,,,Green Free Throw 2 of 2 (19 PTS),99 - 97,-2
+0021000024,503,2,3,4,10:28 PM,2:50,MISS Villanueva 7' Hook Shot,,,,
+0021000024,504,4,0,4,10:28 PM,2:49,,,Sefolosha REBOUND (Off:1 Def:6),,
+0021000024,505,1,1,4,10:28 PM,2:37,,,Durant 18' Jump Shot (29 PTS) (Westbrook 11 AST),101 - 97,-4
+0021000024,506,2,78,4,10:28 PM,2:15,MISS Gordon 7' Floating Jump Shot,,Ibaka BLOCK (2 BLK),,
+0021000024,507,4,0,4,10:28 PM,2:13,,,Ibaka REBOUND (Off:4 Def:4),,
+0021000024,508,2,1,4,10:29 PM,1:57,,,MISS Durant 20' Jump Shot,,
+0021000024,509,4,0,4,10:29 PM,1:56,Stuckey REBOUND (Off:0 Def:4),,,,
+0021000024,510,9,1,4,10:29 PM,1:53,PISTONS Timeout: Regular (Full 4 Short 1),,,,
+0021000024,512,2,1,4,10:32 PM,1:31,MISS Stuckey 5' Jump Shot,,Green BLOCK (1 BLK),,
+0021000024,513,4,0,4,10:32 PM,1:28,Villanueva REBOUND (Off:4 Def:3),,,,
+0021000024,514,2,5,4,10:32 PM,1:27,MISS Villanueva 1' Layup,,,,
+0021000024,515,4,0,4,10:32 PM,1:25,Maxiell REBOUND (Off:3 Def:1),,,,
+0021000024,516,2,1,4,10:33 PM,1:22,MISS Gordon 29' 3PT Jump Shot,,,,
+0021000024,517,4,0,4,10:33 PM,1:21,,,Durant REBOUND (Off:4 Def:4),,
+0021000024,518,2,1,4,10:33 PM,1:03,,,MISS Durant 20' Jump Shot,,
+0021000024,519,4,0,4,10:33 PM,1:02,Stuckey REBOUND (Off:0 Def:5),,,,
+0021000024,520,6,2,4,10:34 PM,0:46,,,Ibaka S.FOUL (P2.PN),,
+0021000024,521,3,11,4,10:34 PM,0:46,Villanueva Free Throw 1 of 2 (8 PTS),,,101 - 98,-3
+0021000024,523,3,12,4,10:34 PM,0:46,Villanueva Free Throw 2 of 2 (9 PTS),,,101 - 99,-2
+0021000024,525,2,1,4,10:34 PM,0:21,,,MISS Durant 10' Jump Shot,,
+0021000024,526,4,0,4,10:34 PM,0:20,,,Ibaka REBOUND (Off:5 Def:4),,
+0021000024,527,2,5,4,10:34 PM,0:19,,,MISS Ibaka  Layup,,
+0021000024,528,4,0,4,10:34 PM,0:18,,,Ibaka REBOUND (Off:6 Def:4),,
+0021000024,529,6,2,4,10:35 PM,0:18,Villanueva S.FOUL (P5.PN),,,,
+0021000024,530,3,11,4,10:35 PM,0:18,,,MISS Ibaka Free Throw 1 of 2,,
+0021000024,532,4,0,4,10:35 PM,0:18,,,Thunder Rebound,,
+0021000024,531,3,12,4,10:35 PM,0:18,,,Ibaka Free Throw 2 of 2 (16 PTS),102 - 99,-3
+0021000024,534,9,2,4,10:36 PM,0:18,PISTONS Timeout: Short (Full 4 Short 2),,,,
+0021000024,536,6,2,4,10:37 PM,0:15,,,Westbrook S.FOUL (P3.PN),,
+0021000024,537,3,11,4,10:38 PM,0:15,Gordon Free Throw 1 of 2 (31 PTS),,,102 - 100,-2
+0021000024,539,8,0,4,10:38 PM,0:15,SUB: Hamilton FOR Villanueva,,,,
+0021000024,540,3,12,4,10:38 PM,0:15,Gordon Free Throw 2 of 2 (32 PTS),,,102 - 101,-1
+0021000024,542,9,2,4,10:39 PM,0:15,,,Thunder Timeout: Short (Reg.4 Short 1),,
+0021000024,543,8,0,4,10:40 PM,0:15,SUB: Summers FOR Maxiell,,,,
+0021000024,544,6,1,4,10:41 PM,0:14,Summers P.FOUL (P1.PN),,,,
+0021000024,545,3,11,4,10:41 PM,0:14,,,MISS Durant Free Throw 1 of 2,,
+0021000024,546,4,1,4,10:41 PM,0:14,,,Thunder Rebound,,
+0021000024,547,3,12,4,10:41 PM,0:14,,,Durant Free Throw 2 of 2 (30 PTS),103 - 101,-2
+0021000024,549,9,2,4,10:41 PM,0:14,PISTONS Timeout: Short (Full 4 Short 3),,,,
+0021000024,551,8,0,4,10:42 PM,0:14,SUB: Maxiell FOR Summers,,,,
+0021000024,552,8,0,4,10:42 PM,0:14,SUB: Villanueva FOR Hamilton,,,,
+0021000024,553,1,1,4,10:43 PM,0:07,Villanueva  3PT Jump Shot (12 PTS) (Gordon 1 AST),,,103 - 104,1
+0021000024,554,9,2,4,10:43 PM,0:07,,,Thunder Timeout: Short (Reg.4 Short 2),,
+0021000024,555,8,0,4,10:44 PM,0:07,SUB: Wallace FOR Villanueva,,,,
+0021000024,556,1,42,4,10:45 PM,0:02,,,Green  Driving Layup (21 PTS),105 - 104,-1
+0021000024,557,13,0,4,10:45 PM,0:00,,,,105 - 104,-1

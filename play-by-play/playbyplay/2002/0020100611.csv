@@ -1,0 +1,565 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100611,0,12,0,1,3:03 PM,12:00,,,,,
+0020100611,1,10,0,1,3:03 PM,12:00,Jump Ball Przybilla vs. Camby: Tip to Allen,,,,
+0020100611,2,2,5,1,3:03 PM,11:54,MISS Allen  Layup,,Camby BLOCK (1 BLK),,
+0020100611,3,4,0,1,3:04 PM,11:52,,,Houston REBOUND (Off:0 Def:1),,
+0020100611,4,1,1,1,3:04 PM,11:46,,,Jackson 14' Jump Shot (2 PTS),2 - 0,-2
+0020100611,5,1,5,1,3:04 PM,11:29,Mason  Layup (2 PTS) (Cassell 1 AST),,,2 - 2,TIE
+0020100611,6,2,1,1,3:04 PM,11:10,,,MISS Sprewell 26' 3PT Jump Shot,,
+0020100611,7,4,0,1,3:04 PM,11:08,Mason REBOUND (Off:0 Def:1),,,,
+0020100611,8,2,5,1,3:04 PM,10:59,MISS Thomas  Layup,,,,
+0020100611,9,4,0,1,3:04 PM,10:58,Thomas REBOUND (Off:1 Def:0),,,,
+0020100611,10,1,7,1,3:04 PM,10:57,Thomas  Dunk (2 PTS),,,2 - 4,2
+0020100611,11,2,1,1,3:05 PM,10:40,,,MISS Sprewell 10' Jump Shot,,
+0020100611,12,4,0,1,3:05 PM,10:38,Cassell REBOUND (Off:0 Def:1),,,,
+0020100611,13,2,1,1,3:05 PM,10:26,MISS Allen  3PT Jump Shot,,,,
+0020100611,14,4,0,1,3:05 PM,10:24,,,Camby REBOUND (Off:0 Def:1),,
+0020100611,15,1,1,1,3:05 PM,10:06,,,Houston 25' 3PT Jump Shot (3 PTS) (Jackson 1 AST),5 - 4,-1
+0020100611,16,2,1,1,3:06 PM,9:50,MISS Mason 9' Jump Shot,,Thomas BLOCK (1 BLK),,
+0020100611,17,4,0,1,3:06 PM,9:47,,,Camby REBOUND (Off:0 Def:2),,
+0020100611,18,1,1,1,3:06 PM,9:38,,,Sprewell 24' 3PT Jump Shot (3 PTS) (Houston 1 AST),8 - 4,-4
+0020100611,19,1,1,1,3:06 PM,9:12,Cassell 19' Jump Shot (2 PTS) (Mason 1 AST),,,8 - 6,-2
+0020100611,20,2,1,1,3:06 PM,8:58,,,MISS Sprewell 21' Jump Shot,,
+0020100611,21,4,0,1,3:06 PM,8:57,BUCKS Rebound,,,,
+0020100611,22,2,5,1,3:07 PM,8:44,MISS Mason  Layup,,,,
+0020100611,23,4,0,1,3:07 PM,8:43,,,Camby REBOUND (Off:0 Def:3),,
+0020100611,24,1,1,1,3:07 PM,8:31,,,Thomas 9' Jump Shot (2 PTS) (Sprewell 1 AST),10 - 6,-4
+0020100611,25,1,7,1,3:07 PM,8:19,Przybilla  Dunk (2 PTS) (Cassell 2 AST),,,10 - 8,-2
+0020100611,26,6,2,1,3:07 PM,8:19,,,Thomas S.FOUL (P1.T1),,
+0020100611,27,3,10,1,3:08 PM,8:19,Przybilla Free Throw 1 of 1 (3 PTS),,,10 - 9,-1
+0020100611,28,1,5,1,3:08 PM,8:04,,,Thomas  Layup (4 PTS) (Houston 2 AST),12 - 9,-3
+0020100611,29,2,1,1,3:08 PM,7:54,MISS Allen 15' Jump Shot,,,,
+0020100611,30,4,0,1,3:08 PM,7:51,,,Camby REBOUND (Off:0 Def:4),,
+0020100611,31,2,1,1,3:08 PM,7:43,,,MISS Sprewell 19' Jump Shot,,
+0020100611,32,4,0,1,3:08 PM,7:41,Mason REBOUND (Off:0 Def:2),,,,
+0020100611,33,2,1,1,3:09 PM,7:28,MISS Thomas 9' Jump Shot,,,,
+0020100611,34,4,0,1,3:09 PM,7:27,,,Knicks Rebound,,
+0020100611,35,2,1,1,3:09 PM,7:15,,,MISS Camby 13' Jump Shot,,
+0020100611,36,4,0,1,3:09 PM,7:13,,,Thomas REBOUND (Off:1 Def:0),,
+0020100611,37,1,1,1,3:09 PM,7:03,,,Houston 26' 3PT Jump Shot (6 PTS) (Jackson 2 AST),15 - 9,-6
+0020100611,38,1,46,1,3:09 PM,6:38,Mason 5' Running Jump Shot (4 PTS),,,15 - 11,-4
+0020100611,39,6,2,1,3:10 PM,6:23,Mason S.FOUL (P1.T1),,,,
+0020100611,40,3,11,1,3:10 PM,6:23,,,Camby Free Throw 1 of 2 (1 PTS),16 - 11,-5
+0020100611,41,3,12,1,3:10 PM,6:23,,,Camby Free Throw 2 of 2 (2 PTS),17 - 11,-6
+0020100611,42,1,5,1,3:11 PM,6:11,Mason  Layup (6 PTS) (Przybilla 1 AST),,,17 - 13,-4
+0020100611,43,6,2,1,3:11 PM,6:11,,,Camby S.FOUL (P1.T2),,
+0020100611,44,3,10,1,3:11 PM,6:11,Mason Free Throw 1 of 1 (7 PTS),,,17 - 14,-3
+0020100611,45,1,1,1,3:11 PM,6:02,,,Houston 16' Jump Shot (8 PTS) (Jackson 3 AST),19 - 14,-5
+0020100611,46,2,1,1,3:11 PM,5:46,MISS Mason 13' Jump Shot,,,,
+0020100611,47,4,0,1,3:11 PM,5:45,Allen REBOUND (Off:1 Def:0),,,,
+0020100611,48,1,5,1,3:11 PM,5:44,Allen  Layup (2 PTS),,,19 - 16,-3
+0020100611,49,2,1,1,3:12 PM,5:29,,,MISS Houston 14' Jump Shot,,
+0020100611,50,4,0,1,3:12 PM,5:27,BUCKS Rebound,,,,
+0020100611,51,9,1,1,3:12 PM,5:27,BUCKS Timeout: Regular (Full 1 Short 0),,,,
+0020100611,53,6,2,1,3:15 PM,5:15,,,Sprewell S.FOUL (P1.T3),,
+0020100611,54,3,11,1,3:15 PM,5:15,Thomas Free Throw 1 of 2 (3 PTS),,,19 - 17,-2
+0020100611,55,3,12,1,3:15 PM,5:15,Thomas Free Throw 2 of 2 (4 PTS),,,19 - 18,-1
+0020100611,56,2,1,1,3:16 PM,4:59,,,MISS Sprewell 24' 3PT Jump Shot,,
+0020100611,57,4,0,1,3:16 PM,4:56,,,Camby REBOUND (Off:1 Def:4),,
+0020100611,58,2,53,1,3:16 PM,4:55,,,MISS Camby  Tip Shot,,
+0020100611,60,4,0,1,3:16 PM,4:54,,,Sprewell REBOUND (Off:1 Def:0),,
+0020100611,59,2,53,1,3:16 PM,4:54,,,MISS Sprewell  Tip Shot,,
+0020100611,61,4,0,1,3:16 PM,4:52,Mason REBOUND (Off:0 Def:3),,,,
+0020100611,62,2,1,1,3:16 PM,4:47,MISS Thomas 24' 3PT Jump Shot,,,,
+0020100611,63,4,0,1,3:16 PM,4:44,,,Jackson REBOUND (Off:0 Def:1),,
+0020100611,64,7,5,1,3:16 PM,4:42,Cassell Violation:Kicked Ball,,,,
+0020100611,65,8,0,1,3:16 PM,4:42,SUB: Robinson FOR Przybilla,,,,
+0020100611,66,2,1,1,3:17 PM,4:32,,,MISS Jackson 25' 3PT Jump Shot,,
+0020100611,67,4,0,1,3:17 PM,4:30,Mason REBOUND (Off:0 Def:4),,,,
+0020100611,68,1,7,1,3:17 PM,4:19,Allen  Dunk (4 PTS),,,19 - 20,1
+0020100611,69,6,2,1,3:17 PM,4:02,Allen S.FOUL (P1.T2),,,,
+0020100611,70,3,11,1,3:17 PM,4:02,,,Houston Free Throw 1 of 2 (9 PTS),20 - 20,TIE
+0020100611,71,3,12,1,3:18 PM,4:02,,,Houston Free Throw 2 of 2 (10 PTS),21 - 20,-1
+0020100611,72,2,1,1,3:18 PM,3:53,MISS Allen 19' Jump Shot,,,,
+0020100611,73,4,0,1,3:18 PM,3:51,,,Thomas REBOUND (Off:1 Def:1),,
+0020100611,74,2,46,1,3:18 PM,3:33,,,MISS Houston 5' Running Jump Shot,,
+0020100611,75,4,0,1,3:18 PM,3:31,Robinson REBOUND (Off:0 Def:1),,,,
+0020100611,76,1,1,1,3:19 PM,3:17,Robinson 10' Jump Shot (2 PTS),,,21 - 22,1
+0020100611,77,1,41,1,3:19 PM,3:00,,,Jackson  Running Layup (4 PTS),23 - 22,-1
+0020100611,78,5,1,1,3:19 PM,2:39,Robinson Bad Pass Turnover (P1.T1),,,,
+0020100611,79,9,1,1,3:19 PM,2:39,,,Knicks Timeout: Regular (Reg.1 Short 0),,
+0020100611,81,8,0,1,3:22 PM,2:39,SUB: Johnson FOR Thomas,,,,
+0020100611,82,1,1,1,3:23 PM,2:27,,,Houston 26' 3PT Jump Shot (13 PTS) (Sprewell 2 AST),26 - 22,-4
+0020100611,83,2,1,1,3:23 PM,2:09,MISS Robinson 8' Jump Shot,,,,
+0020100611,84,4,0,1,3:23 PM,2:07,,,Thomas REBOUND (Off:1 Def:2),,
+0020100611,85,1,8,1,3:23 PM,1:54,,,Camby  Slam Dunk (4 PTS) (Sprewell 3 AST),28 - 22,-6
+0020100611,86,5,1,1,3:23 PM,1:46,Allen Bad Pass Turnover (P1.T2),,Jackson STEAL (1 STL),,
+0020100611,87,1,1,1,3:24 PM,1:32,,,Houston 14' Jump Shot (15 PTS) (Sprewell 4 AST),30 - 22,-8
+0020100611,88,1,5,1,3:24 PM,1:15,Robinson  Layup (4 PTS) (Mason 2 AST),,,30 - 24,-6
+0020100611,89,2,1,1,3:24 PM,0:55,,,MISS Sprewell 17' Jump Shot,,
+0020100611,90,4,0,1,3:24 PM,0:53,,,Camby REBOUND (Off:2 Def:4),,
+0020100611,91,2,5,1,3:24 PM,0:48,Johnson BLOCK (1 BLK),,MISS Jackson  Layup,,
+0020100611,92,4,0,1,3:24 PM,0:46,,,Sprewell REBOUND (Off:2 Def:0),,
+0020100611,93,5,2,1,3:24 PM,0:44,Cassell STEAL (1 STL),,Sprewell Lost Ball Turnover (P1.T1),,
+0020100611,94,1,44,1,3:25 PM,0:33,Robinson  Reverse Layup (6 PTS),,,30 - 26,-4
+0020100611,95,2,1,1,3:25 PM,0:07,,,MISS Sprewell 18' Jump Shot,,
+0020100611,96,4,0,1,3:25 PM,0:05,Mason REBOUND (Off:0 Def:5),,,,
+0020100611,97,1,1,1,3:25 PM,0:00,Cassell 19' Jump Shot (4 PTS) (Mason 3 AST),,,30 - 28,-2
+0020100611,98,13,0,1,3:25 PM,0:00,,,,30 - 28,-2
+0020100611,100,12,0,2,3:28 PM,12:00,,,,30 - 28,-2
+0020100611,101,2,1,2,3:29 PM,11:46,,,MISS Anderson 13' Jump Shot,,
+0020100611,102,4,0,2,3:29 PM,11:43,Robinson REBOUND (Off:0 Def:2),,,,
+0020100611,103,2,1,2,3:29 PM,11:40,MISS Cassell 18' Jump Shot,,,,
+0020100611,104,4,0,2,3:29 PM,11:38,Redd REBOUND (Off:1 Def:0),,,,
+0020100611,105,1,1,2,3:29 PM,11:27,Robinson 12' Jump Shot (8 PTS) (Redd 1 AST),,,30 - 30,TIE
+0020100611,106,2,1,2,3:29 PM,11:00,,,MISS Camby 14' Jump Shot,,
+0020100611,107,4,0,2,3:30 PM,11:00,,,Knicks Rebound,,
+0020100611,108,10,0,2,3:31 PM,11:00,Jump Ball Johnson vs. Camby: Tip to Ward,,,,
+0020100611,109,6,2,2,3:31 PM,10:47,Robinson S.FOUL (P1.T1),,,,
+0020100611,110,3,11,2,3:31 PM,10:47,,,Houston Free Throw 1 of 2 (16 PTS),31 - 30,-1
+0020100611,111,8,0,2,3:31 PM,10:47,SUB: Ham FOR Mason,,,,
+0020100611,112,3,12,2,3:31 PM,10:47,,,Houston Free Throw 2 of 2 (17 PTS),32 - 30,-2
+0020100611,114,1,1,2,3:32 PM,10:33,Redd 16' Jump Shot (2 PTS),,,32 - 32,TIE
+0020100611,115,2,5,2,3:32 PM,10:19,Johnson BLOCK (2 BLK),,MISS Thomas  Layup,,
+0020100611,116,4,0,2,3:32 PM,10:18,,,Thomas REBOUND (Off:2 Def:2),,
+0020100611,117,1,1,2,3:32 PM,10:17,,,Thomas 12' Jump Shot (6 PTS),34 - 32,-2
+0020100611,118,2,1,2,3:32 PM,10:07,MISS Robinson 18' Jump Shot,,,,
+0020100611,119,4,0,2,3:32 PM,10:05,,,Houston REBOUND (Off:0 Def:2),,
+0020100611,120,1,1,2,3:32 PM,9:57,,,Houston 20' Jump Shot (19 PTS),36 - 32,-4
+0020100611,121,6,2,2,3:33 PM,9:39,,,Ward S.FOUL (P1.T1),,
+0020100611,122,3,11,2,3:33 PM,9:39,MISS Robinson Free Throw 1 of 2,,,,
+0020100611,123,4,1,2,3:33 PM,9:39,BUCKS Rebound,,,,
+0020100611,124,8,0,2,3:33 PM,9:39,,,SUB: Weatherspoon FOR Camby,,
+0020100611,125,3,12,2,3:33 PM,9:39,Robinson Free Throw 2 of 2 (9 PTS),,,36 - 33,-3
+0020100611,126,2,1,2,3:34 PM,9:27,,,MISS Houston 26' 3PT Jump Shot,,
+0020100611,127,4,0,2,3:34 PM,9:25,Johnson REBOUND (Off:0 Def:1),,,,
+0020100611,128,5,2,2,3:34 PM,9:16,Ham Lost Ball Turnover (P1.T3),,Weatherspoon STEAL (1 STL),,
+0020100611,129,2,1,2,3:34 PM,9:09,,,MISS Houston 21' Jump Shot,,
+0020100611,130,4,0,2,3:34 PM,9:08,Robinson REBOUND (Off:0 Def:3),,,,
+0020100611,131,2,1,2,3:34 PM,8:52,MISS Robinson 15' Jump Shot,,,,
+0020100611,132,4,0,2,3:34 PM,8:51,,,Ward REBOUND (Off:0 Def:1),,
+0020100611,133,1,1,2,3:35 PM,8:34,,,Ward 27' 3PT Jump Shot (3 PTS) (Anderson 1 AST),39 - 33,-6
+0020100611,134,9,1,2,3:35 PM,8:26,BUCKS Timeout: Regular (Full 2 Short 0),,,,
+0020100611,136,8,0,2,3:36 PM,8:26,SUB: Thomas FOR Robinson,,,,
+0020100611,137,8,0,2,3:37 PM,8:26,,,SUB: Sprewell FOR Thomas,,
+0020100611,138,8,0,2,3:37 PM,8:26,,,SUB: Harrington FOR Houston,,
+0020100611,139,2,1,2,3:37 PM,8:13,MISS Thomas  3PT Jump Shot,,,,
+0020100611,140,4,0,2,3:38 PM,8:11,BUCKS Rebound,,,,
+0020100611,141,2,1,2,3:38 PM,8:00,MISS Redd 20' Jump Shot,,,,
+0020100611,142,4,0,2,3:38 PM,7:59,,,Knicks Rebound,,
+0020100611,143,6,3,2,3:38 PM,7:59,Ham L.B.FOUL (P1.T2),,,,
+0020100611,144,2,5,2,3:39 PM,7:44,,,MISS Weatherspoon  Layup,,
+0020100611,145,4,0,2,3:39 PM,7:43,Johnson REBOUND (Off:0 Def:2),,,,
+0020100611,146,1,41,2,3:39 PM,7:36,Cassell  Running Layup (6 PTS),,,39 - 35,-4
+0020100611,147,2,1,2,3:39 PM,7:17,,,MISS Anderson 24' 3PT Jump Shot,,
+0020100611,148,4,0,2,3:39 PM,7:15,Cassell REBOUND (Off:0 Def:2),,,,
+0020100611,149,1,1,2,3:39 PM,7:05,Cassell 11' Jump Shot (8 PTS),,,39 - 37,-2
+0020100611,150,1,1,2,3:39 PM,6:49,,,Sprewell 20' Jump Shot (5 PTS) (Ward 1 AST),41 - 37,-4
+0020100611,151,1,1,2,3:40 PM,6:38,Cassell 13' Jump Shot (10 PTS),,,41 - 39,-2
+0020100611,152,6,2,2,3:40 PM,6:38,,,Weatherspoon S.FOUL (P1.T2),,
+0020100611,153,9,2,2,3:40 PM,6:38,,,Knicks Timeout: Short (Reg.1 Short 1),,
+0020100611,154,3,10,2,3:41 PM,6:38,Cassell Free Throw 1 of 1 (11 PTS),,,41 - 40,-1
+0020100611,155,2,1,2,3:41 PM,6:24,,,MISS Sprewell 26' 3PT Jump Shot,,
+0020100611,156,4,0,2,3:41 PM,6:21,,,Knicks Rebound,,
+0020100611,157,8,0,2,3:41 PM,6:21,SUB: Allen FOR Cassell,,,,
+0020100611,158,6,2,2,3:42 PM,6:16,Thomas S.FOUL (P1.T3),,,,
+0020100611,159,3,11,2,3:42 PM,6:16,,,Sprewell Free Throw 1 of 2 (6 PTS),42 - 40,-2
+0020100611,160,3,12,2,3:42 PM,6:16,,,Sprewell Free Throw 2 of 2 (7 PTS),43 - 40,-3
+0020100611,161,2,5,2,3:43 PM,5:59,MISS Thomas  Layup,,,,
+0020100611,163,4,0,2,3:43 PM,5:57,Ham REBOUND (Off:1 Def:0),,,,
+0020100611,162,2,4,2,3:43 PM,5:57,MISS Ham  Tip Shot,,,,
+0020100611,164,4,0,2,3:43 PM,5:55,,,Ward REBOUND (Off:0 Def:2),,
+0020100611,165,2,1,2,3:43 PM,5:46,,,MISS Harrington 12' Jump Shot,,
+0020100611,166,4,0,2,3:43 PM,5:45,,,Weatherspoon REBOUND (Off:1 Def:0),,
+0020100611,167,6,3,2,3:43 PM,5:45,Johnson L.B.FOUL (P1.T4),,,,
+0020100611,168,9,4,2,3:43 PM,5:45,,,,,
+0020100611,170,8,0,2,3:45 PM,5:45,SUB: Mason FOR Ham,,,,
+0020100611,171,2,1,2,3:46 PM,5:36,,,MISS Anderson 24' 3PT Jump Shot,,
+0020100611,172,4,0,2,3:46 PM,5:34,Thomas REBOUND (Off:1 Def:1),,,,
+0020100611,173,2,1,2,3:47 PM,5:19,MISS Allen 10' Jump Shot,,,,
+0020100611,174,4,0,2,3:47 PM,5:17,,,Weatherspoon REBOUND (Off:1 Def:1),,
+0020100611,175,2,1,2,3:47 PM,5:08,,,MISS Harrington 11' Jump Shot,,
+0020100611,176,4,0,2,3:47 PM,5:06,Mason REBOUND (Off:0 Def:6),,,,
+0020100611,177,2,1,2,3:47 PM,4:54,MISS Redd 28' 3PT Jump Shot,,,,
+0020100611,178,4,0,2,3:47 PM,4:54,BUCKS Rebound,,,,
+0020100611,179,6,3,2,3:47 PM,4:54,,,Harrington L.B.FOUL (P1.T3),,
+0020100611,180,8,0,2,3:47 PM,4:54,,,SUB: Jackson FOR Anderson,,
+0020100611,181,8,0,2,3:47 PM,4:54,,,SUB: Camby FOR Ward,,
+0020100611,182,8,0,2,3:47 PM,4:54,,,SUB: Houston FOR Harrington,,
+0020100611,183,8,0,2,3:47 PM,4:54,SUB: Robinson FOR Redd,,,,
+0020100611,184,8,0,2,3:47 PM,4:54,SUB: Cassell FOR Johnson,,,,
+0020100611,185,2,1,2,3:47 PM,4:50,MISS Allen 25' 3PT Jump Shot,,,,
+0020100611,186,4,0,2,3:47 PM,4:48,,,Jackson REBOUND (Off:0 Def:2),,
+0020100611,187,2,1,2,3:48 PM,4:30,,,MISS Jackson 5' Jump Shot,,
+0020100611,188,4,0,2,3:48 PM,4:28,,,Sprewell REBOUND (Off:3 Def:0),,
+0020100611,189,1,1,2,3:48 PM,4:24,,,Sprewell 8' Jump Shot (9 PTS),45 - 40,-5
+0020100611,190,2,1,2,3:48 PM,4:02,MISS Thomas 26' 3PT Jump Shot,,,,
+0020100611,191,4,0,2,3:48 PM,4:00,,,Camby REBOUND (Off:2 Def:5),,
+0020100611,192,1,1,2,3:48 PM,3:50,,,Weatherspoon 8' Jump Shot (2 PTS) (Jackson 4 AST),47 - 40,-7
+0020100611,193,2,1,2,3:49 PM,3:37,MISS Robinson 9' Jump Shot,,,,
+0020100611,194,4,0,2,3:49 PM,3:35,,,Camby REBOUND (Off:2 Def:6),,
+0020100611,195,5,1,2,3:49 PM,3:33,Thomas STEAL (1 STL),,Camby Bad Pass Turnover (P1.T2),,
+0020100611,196,1,5,2,3:49 PM,3:27,Robinson  Layup (11 PTS) (Mason 4 AST),,,47 - 42,-5
+0020100611,197,5,2,2,3:49 PM,3:07,,,Sprewell Lost Ball Turnover (P2.T3),,
+0020100611,198,2,1,2,3:49 PM,3:02,MISS Cassell 21' Jump Shot,,,,
+0020100611,199,4,0,2,3:49 PM,3:00,Robinson REBOUND (Off:1 Def:3),,,,
+0020100611,200,6,3,2,3:49 PM,3:00,,,Jackson L.B.FOUL (P1.T4),,
+0020100611,201,9,1,2,3:50 PM,3:00,,,Knicks Timeout: Regular (Reg.2 Short 1),,
+0020100611,203,7,5,2,3:52 PM,2:54,,,Camby Violation:Kicked Ball,,
+0020100611,204,5,2,2,3:53 PM,2:46,Robinson Lost Ball Turnover (P2.T4),,Sprewell STEAL (1 STL),,
+0020100611,205,6,9,2,3:53 PM,2:44,Thomas C.P.FOUL (P2.PN),,,,
+0020100611,206,3,17,2,3:53 PM,2:44,,,Sprewell Free Throw Clear Path (10 PTS),48 - 42,-6
+0020100611,207,5,1,2,3:54 PM,2:41,Cassell STEAL (2 STL),,Sprewell Bad Pass Turnover (P3.T4),,
+0020100611,208,1,5,2,3:54 PM,2:35,Robinson  Layup (13 PTS),,,48 - 44,-4
+0020100611,209,1,5,2,3:54 PM,2:16,,,Houston  Layup (21 PTS),50 - 44,-6
+0020100611,210,6,1,2,3:54 PM,2:03,,,Houston P.FOUL (P1.PN),,
+0020100611,211,3,11,2,3:55 PM,2:03,Allen Free Throw 1 of 2 (5 PTS),,,50 - 45,-5
+0020100611,212,3,12,2,3:55 PM,2:03,Allen Free Throw 2 of 2 (6 PTS),,,50 - 46,-4
+0020100611,213,1,1,2,3:55 PM,1:49,,,Houston 13' Jump Shot (23 PTS) (Jackson 5 AST),52 - 46,-6
+0020100611,214,2,1,2,3:56 PM,1:33,MISS Allen 15' Jump Shot,,,,
+0020100611,215,4,0,2,3:56 PM,1:32,,,Knicks Rebound,,
+0020100611,216,1,1,2,3:56 PM,1:17,,,Houston 26' 3PT Jump Shot (26 PTS) (Jackson 6 AST),55 - 46,-9
+0020100611,217,1,5,2,3:56 PM,1:01,Thomas  Layup (6 PTS) (Allen 1 AST),,,55 - 48,-7
+0020100611,218,1,1,2,3:57 PM,0:37,,,Sprewell 17' Jump Shot (12 PTS),57 - 48,-9
+0020100611,219,2,1,2,3:57 PM,0:31,MISS Robinson 11' Jump Shot,,,,
+0020100611,220,4,0,2,3:57 PM,0:29,Mason REBOUND (Off:1 Def:6),,,,
+0020100611,221,6,2,2,3:57 PM,0:24,,,Camby S.FOUL (P2.PN),,
+0020100611,222,8,0,2,3:57 PM,0:24,SUB: Johnson FOR Thomas,,,,
+0020100611,223,3,13,2,3:57 PM,0:24,Robinson Free Throw 1 of 3 (14 PTS),,,57 - 49,-8
+0020100611,224,3,14,2,3:57 PM,0:24,Robinson Free Throw 2 of 3 (15 PTS),,,57 - 50,-7
+0020100611,225,3,15,2,3:58 PM,0:24,Robinson Free Throw 3 of 3 (16 PTS),,,57 - 51,-6
+0020100611,226,2,1,2,3:58 PM,0:04,,,MISS Houston 15' Jump Shot,,
+0020100611,227,4,0,2,3:58 PM,0:02,Johnson REBOUND (Off:0 Def:3),,,,
+0020100611,228,13,0,2,3:58 PM,0:00,,,,57 - 51,-6
+0020100611,230,12,0,3,4:17 PM,12:00,,,,57 - 51,-6
+0020100611,231,6,2,3,4:18 PM,11:42,Przybilla S.FOUL (P1.T1),,,,
+0020100611,232,3,11,3,4:18 PM,11:42,,,Camby Free Throw 1 of 2 (5 PTS),58 - 51,-7
+0020100611,233,3,12,3,4:18 PM,11:42,,,MISS Camby Free Throw 2 of 2,,
+0020100611,234,4,0,3,4:18 PM,11:39,Mason REBOUND (Off:1 Def:7),,,,
+0020100611,235,2,5,3,4:18 PM,11:25,MISS Mason  Layup,,,,
+0020100611,237,4,0,3,4:18 PM,11:24,Przybilla REBOUND (Off:1 Def:0),,,,
+0020100611,236,2,4,3,4:18 PM,11:24,MISS Przybilla  Tip Shot,,,,
+0020100611,238,4,0,3,4:18 PM,11:21,,,Camby REBOUND (Off:2 Def:7),,
+0020100611,239,5,2,3,4:19 PM,11:12,Allen STEAL (1 STL),,Jackson Lost Ball Turnover (P1.T5),,
+0020100611,240,1,7,3,4:19 PM,11:07,Allen  Dunk (8 PTS),,,58 - 53,-5
+0020100611,241,1,1,3,4:19 PM,10:49,,,Sprewell 15' Jump Shot (14 PTS) (Jackson 7 AST),60 - 53,-7
+0020100611,242,2,1,3,4:19 PM,10:33,MISS Mason 16' Jump Shot,,,,
+0020100611,243,4,0,3,4:19 PM,10:30,Przybilla REBOUND (Off:2 Def:0),,,,
+0020100611,244,2,1,3,4:19 PM,10:28,MISS Cassell 26' 3PT Jump Shot,,,,
+0020100611,245,4,0,3,4:19 PM,10:28,,,Knicks Rebound,,
+0020100611,246,6,1,3,4:20 PM,10:10,Przybilla P.FOUL (P2.T2),,,,
+0020100611,247,2,1,3,4:20 PM,10:07,,,MISS Houston 20' Jump Shot,,
+0020100611,248,4,0,3,4:20 PM,10:04,Przybilla REBOUND (Off:2 Def:1),,,,
+0020100611,249,2,1,3,4:20 PM,9:55,MISS Allen 25' 3PT Jump Shot,,,,
+0020100611,250,4,0,3,4:20 PM,9:53,,,Sprewell REBOUND (Off:3 Def:1),,
+0020100611,251,5,4,3,4:21 PM,9:38,,,Sprewell Traveling Turnover (P4.T6),,
+0020100611,252,1,1,3,4:21 PM,9:28,Cassell 10' Jump Shot (13 PTS),,,60 - 55,-5
+0020100611,253,2,1,3,4:21 PM,9:06,Przybilla BLOCK (1 BLK),,MISS Sprewell 9' Jump Shot,,
+0020100611,254,4,0,3,4:21 PM,9:04,Mason REBOUND (Off:1 Def:8),,,,
+0020100611,255,6,1,3,4:21 PM,8:59,,,Houston P.FOUL (P2.T1),,
+0020100611,256,2,1,3,4:22 PM,8:53,MISS Allen 12' Jump Shot,,,,
+0020100611,257,4,0,3,4:22 PM,8:51,,,Camby REBOUND (Off:2 Def:8),,
+0020100611,258,1,46,3,4:22 PM,8:31,,,Thomas 8' Running Jump Shot (8 PTS),62 - 55,-7
+0020100611,259,1,5,3,4:23 PM,8:16,Mason  Layup (9 PTS) (Cassell 3 AST),,,62 - 57,-5
+0020100611,260,6,1,3,4:23 PM,8:07,Thomas P.FOUL (P3.T3),,,,
+0020100611,261,1,1,3,4:23 PM,7:57,,,Houston 13' Jump Shot (28 PTS) (Jackson 8 AST),64 - 57,-7
+0020100611,262,1,5,3,4:23 PM,7:46,Mason  Layup (11 PTS) (Allen 2 AST),,,64 - 59,-5
+0020100611,263,9,1,3,4:23 PM,7:37,,,Knicks Timeout: Regular (Reg.3 Short 1),,
+0020100611,264,2,1,3,4:26 PM,7:25,,,MISS Thomas 11' Jump Shot,,
+0020100611,266,4,0,3,4:26 PM,7:23,,,Camby REBOUND (Off:3 Def:8),,
+0020100611,265,2,4,3,4:26 PM,7:23,,,MISS Camby  Tip Shot,,
+0020100611,267,4,0,3,4:26 PM,7:22,Mason REBOUND (Off:1 Def:9),,,,
+0020100611,268,1,46,3,4:26 PM,7:15,Thomas 7' Running Jump Shot (8 PTS) (Mason 5 AST),,,64 - 61,-3
+0020100611,269,5,2,3,4:27 PM,6:56,,,Camby Lost Ball Turnover (P2.T7),,
+0020100611,270,6,2,3,4:27 PM,6:48,,,Thomas S.FOUL (P2.T2),,
+0020100611,271,3,11,3,4:27 PM,6:48,MISS Allen Free Throw 1 of 2,,,,
+0020100611,272,4,1,3,4:27 PM,6:48,BUCKS Rebound,,,,
+0020100611,273,3,12,3,4:27 PM,6:48,Allen Free Throw 2 of 2 (9 PTS),,,64 - 62,-2
+0020100611,274,1,1,3,4:28 PM,6:33,,,Thomas 10' Jump Shot (10 PTS) (Houston 3 AST),66 - 62,-4
+0020100611,275,2,1,3,4:28 PM,6:06,MISS Thomas 25' 3PT Jump Shot,,,,
+0020100611,276,4,0,3,4:28 PM,6:05,,,Camby REBOUND (Off:3 Def:9),,
+0020100611,277,8,0,3,4:29 PM,5:42,SUB: Robinson FOR Przybilla,,,,
+0020100611,278,5,11,3,4:29 PM,5:41,,,Knicks Turnover: Shot Clock (T#8),,
+0020100611,279,2,5,3,4:30 PM,5:20,MISS Thomas  Layup,,,,
+0020100611,280,4,0,3,4:30 PM,5:18,Mason REBOUND (Off:2 Def:9),,,,
+0020100611,281,2,4,3,4:30 PM,5:17,MISS Mason  Tip Shot,,,,
+0020100611,282,4,0,3,4:30 PM,5:16,Mason REBOUND (Off:3 Def:9),,,,
+0020100611,283,1,3,3,4:30 PM,5:14,Mason 3' Hook Shot (13 PTS),,,66 - 64,-2
+0020100611,284,6,1,3,4:30 PM,5:04,Thomas P.FOUL (P4.T4),,,,
+0020100611,285,8,0,3,4:30 PM,5:04,SUB: Ham FOR Thomas,,,,
+0020100611,286,1,1,3,4:30 PM,5:01,,,Houston 17' Jump Shot (30 PTS) (Jackson 9 AST),68 - 64,-4
+0020100611,287,2,1,3,4:31 PM,4:41,MISS Robinson 25' 3PT Jump Shot,,,,
+0020100611,288,4,0,3,4:31 PM,4:40,BUCKS Rebound,,,,
+0020100611,289,6,1,3,4:31 PM,4:36,,,Jackson P.FOUL (P2.T3),,
+0020100611,290,1,5,3,4:32 PM,4:26,Mason  Layup (15 PTS) (Cassell 4 AST),,,68 - 66,-2
+0020100611,291,6,1,3,4:32 PM,4:13,Ham P.FOUL (P2.PN),,,,
+0020100611,292,3,11,3,4:32 PM,4:13,,,Thomas Free Throw 1 of 2 (11 PTS),69 - 66,-3
+0020100611,293,3,12,3,4:32 PM,4:13,,,Thomas Free Throw 2 of 2 (12 PTS),70 - 66,-4
+0020100611,294,2,1,3,4:33 PM,4:00,MISS Robinson 13' Jump Shot,,,,
+0020100611,295,4,0,3,4:33 PM,3:58,,,Jackson REBOUND (Off:0 Def:3),,
+0020100611,296,1,1,3,4:33 PM,3:49,,,Thomas 6' Jump Shot (14 PTS) (Houston 4 AST),72 - 66,-6
+0020100611,297,2,1,3,4:33 PM,3:34,MISS Allen 14' Jump Shot,,,,
+0020100611,298,4,0,3,4:34 PM,3:32,,,Knicks Rebound,,
+0020100611,299,6,3,3,4:34 PM,3:32,Robinson L.B.FOUL (P2.PN),,,,
+0020100611,300,8,0,3,4:34 PM,3:32,SUB: Redd FOR Allen,,,,
+0020100611,301,3,11,3,4:34 PM,3:32,,,Thomas Free Throw 1 of 2 (15 PTS),73 - 66,-7
+0020100611,302,3,12,3,4:34 PM,3:32,,,Thomas Free Throw 2 of 2 (16 PTS),74 - 66,-8
+0020100611,303,1,1,3,4:35 PM,3:14,Robinson 9' Jump Shot (18 PTS) (Mason 6 AST),,,74 - 68,-6
+0020100611,304,2,1,3,4:35 PM,3:00,,,MISS Houston 18' Jump Shot,,
+0020100611,305,4,0,3,4:35 PM,2:59,,,Camby REBOUND (Off:4 Def:9),,
+0020100611,306,2,5,3,4:35 PM,2:52,Mason BLOCK (1 BLK),,MISS Sprewell  Layup,,
+0020100611,307,4,0,3,4:35 PM,2:50,,,Thomas REBOUND (Off:3 Def:2),,
+0020100611,308,2,5,3,4:35 PM,2:48,,,MISS Thomas  Layup,,
+0020100611,310,4,0,3,4:35 PM,2:47,,,Camby REBOUND (Off:5 Def:9),,
+0020100611,309,1,4,3,4:35 PM,2:46,,,Camby  Tip Shot (7 PTS),76 - 68,-8
+0020100611,311,2,5,3,4:36 PM,2:24,MISS Ham  Layup,,,,
+0020100611,312,4,0,3,4:36 PM,2:24,BUCKS Rebound,,,,
+0020100611,313,6,3,3,4:36 PM,2:24,,,Thomas L.B.FOUL (P3.T4),,
+0020100611,314,9,1,3,4:36 PM,2:24,BUCKS Timeout: Regular (Full 3 Short 0),,,,
+0020100611,316,8,0,3,4:38 PM,2:24,SUB: Johnson FOR Ham,,,,
+0020100611,317,1,1,3,4:39 PM,2:18,Robinson 10' Jump Shot (20 PTS) (Cassell 5 AST),,,76 - 70,-6
+0020100611,318,2,1,3,4:39 PM,1:57,,,MISS Thomas 7' Jump Shot,,
+0020100611,319,4,0,3,4:39 PM,1:54,Johnson REBOUND (Off:0 Def:4),,,,
+0020100611,320,1,5,3,4:40 PM,1:44,Redd  Layup (4 PTS),,,76 - 72,-4
+0020100611,321,5,1,3,4:40 PM,1:29,,,Jackson Bad Pass Turnover (P2.T9),,
+0020100611,322,1,1,3,4:40 PM,1:14,Robinson 12' Jump Shot (22 PTS) (Cassell 6 AST),,,76 - 74,-2
+0020100611,323,2,5,3,4:41 PM,0:47,,,MISS Camby  Layup,,
+0020100611,324,4,0,3,4:41 PM,0:46,,,Knicks Rebound,,
+0020100611,325,6,3,3,4:41 PM,0:46,Cassell L.B.FOUL (P1.PN),,,,
+0020100611,326,3,11,3,4:41 PM,0:46,,,Jackson Free Throw 1 of 2 (5 PTS),77 - 74,-3
+0020100611,327,3,12,3,4:41 PM,0:46,,,Jackson Free Throw 2 of 2 (6 PTS),78 - 74,-4
+0020100611,329,6,2,3,4:42 PM,0:35,,,Camby S.FOUL (P3.PN),,
+0020100611,330,3,11,3,4:42 PM,0:35,MISS Cassell Free Throw 1 of 2,,,,
+0020100611,331,4,1,3,4:42 PM,0:35,BUCKS Rebound,,,,
+0020100611,332,3,12,3,4:43 PM,0:35,Cassell Free Throw 2 of 2 (14 PTS),,,78 - 75,-3
+0020100611,333,2,1,3,4:43 PM,0:19,,,MISS Jackson 26' 3PT Jump Shot,,
+0020100611,334,4,0,3,4:43 PM,0:16,,,Camby REBOUND (Off:6 Def:9),,
+0020100611,335,2,5,3,4:43 PM,0:09,,,MISS Sprewell  Layup,,
+0020100611,336,4,0,3,4:43 PM,0:07,Cassell REBOUND (Off:0 Def:3),,,,
+0020100611,337,5,1,3,4:43 PM,0:01,Cassell Bad Pass Turnover (P1.T5),,Houston STEAL (1 STL),,
+0020100611,338,2,1,3,4:44 PM,0:00,,,MISS Jackson 70' 3PT Jump Shot,,
+0020100611,339,4,0,3,4:44 PM,0:00,,,Knicks Rebound,,
+0020100611,340,13,0,3,4:44 PM,0:00,,,,78 - 75,-3
+0020100611,342,12,0,4,4:46 PM,12:00,,,,78 - 75,-3
+0020100611,343,1,44,4,4:47 PM,11:47,Robinson  Reverse Layup (24 PTS) (Redd 2 AST),,,78 - 77,-1
+0020100611,344,5,2,4,4:47 PM,11:24,Redd STEAL (1 STL),,Camby Lost Ball Turnover (P3.T10),,
+0020100611,345,2,5,4,4:47 PM,11:17,MISS Robinson  Layup,,,,
+0020100611,346,4,0,4,4:47 PM,11:16,,,Thomas REBOUND (Off:3 Def:3),,
+0020100611,347,1,1,4,4:47 PM,11:10,,,Sprewell 26' 3PT Jump Shot (17 PTS) (Jackson 10 AST),81 - 77,-4
+0020100611,348,2,1,4,4:47 PM,10:55,MISS Redd 14' Jump Shot,,,,
+0020100611,349,4,0,4,4:48 PM,10:53,,,Camby REBOUND (Off:6 Def:10),,
+0020100611,350,1,1,4,4:48 PM,10:45,,,Sprewell  3PT Jump Shot (20 PTS) (Houston 5 AST),84 - 77,-7
+0020100611,351,9,1,4,4:48 PM,10:42,BUCKS Timeout: Regular (Full 4 Short 0),,,,
+0020100611,353,8,0,4,4:50 PM,10:42,,,SUB: Weatherspoon FOR Camby,,
+0020100611,354,1,5,4,4:51 PM,10:29,Redd  Layup (6 PTS) (Ham 1 AST),,,84 - 79,-5
+0020100611,355,6,2,4,4:51 PM,10:29,,,Houston S.FOUL (P3.T1),,
+0020100611,356,3,10,4,4:51 PM,10:29,Redd Free Throw 1 of 1 (7 PTS),,,84 - 80,-4
+0020100611,357,1,1,4,4:51 PM,10:15,,,Sprewell 26' 3PT Jump Shot (23 PTS),87 - 80,-7
+0020100611,358,1,1,4,4:52 PM,9:53,Robinson 15' Jump Shot (26 PTS) (Redd 3 AST),,,87 - 82,-5
+0020100611,359,9,1,4,4:52 PM,9:34,,,Knicks Timeout: Regular (Reg.4 Short 1),,
+0020100611,360,8,0,4,4:54 PM,9:34,,,SUB: Anderson FOR Houston,,
+0020100611,361,8,0,4,4:54 PM,9:34,SUB: Thomas FOR Robinson,,,,
+0020100611,362,8,0,4,4:54 PM,9:34,SUB: Allen FOR Cassell,,,,
+0020100611,363,1,1,4,4:55 PM,9:32,,,Sprewell 27' 3PT Jump Shot (26 PTS) (Jackson 11 AST),90 - 82,-8
+0020100611,364,9,2,4,4:55 PM,9:18,BUCKS Timeout: Short (Full 4 Short 1),,,,
+0020100611,365,6,1,4,4:56 PM,9:13,,,Thomas P.FOUL (P4.T2),,
+0020100611,366,9,1,4,4:57 PM,9:13,BUCKS Timeout: Regular (Full 5 Short 1),,,,
+0020100611,367,8,0,4,4:57 PM,9:13,SUB: Robinson FOR Thomas,,,,
+0020100611,368,6,4,4,5:00 PM,9:07,Ham OFF.Foul (P3),,,,
+0020100611,369,5,5,4,5:00 PM,9:07,Ham Foul Turnover (P2.T6),,,,
+0020100611,370,6,2,4,5:00 PM,8:50,Ham S.FOUL (P4.T1),,,,
+0020100611,371,8,0,4,5:00 PM,8:50,SUB: Cassell FOR Redd,,,,
+0020100611,372,3,11,4,5:00 PM,8:50,,,MISS Sprewell Free Throw 1 of 2,,
+0020100611,373,4,1,4,5:00 PM,8:50,,,Knicks Rebound,,
+0020100611,374,3,12,4,5:01 PM,8:50,,,Sprewell Free Throw 2 of 2 (27 PTS),91 - 82,-9
+0020100611,375,2,1,4,5:01 PM,8:37,MISS Robinson 14' Jump Shot,,,,
+0020100611,376,4,0,4,5:01 PM,8:36,Ham REBOUND (Off:2 Def:0),,,,
+0020100611,377,6,3,4,5:01 PM,8:36,,,Anderson L.B.FOUL (P1.T3),,
+0020100611,378,8,0,4,5:01 PM,8:36,SUB: Mason FOR Ham,,,,
+0020100611,379,2,1,4,5:02 PM,8:26,MISS Johnson 12' Jump Shot,,,,
+0020100611,380,4,0,4,5:02 PM,8:25,,,Anderson REBOUND (Off:0 Def:1),,
+0020100611,381,2,1,4,5:02 PM,8:12,,,MISS Sprewell 24' 3PT Jump Shot,,
+0020100611,382,4,0,4,5:02 PM,8:10,Mason REBOUND (Off:3 Def:10),,,,
+0020100611,383,2,1,4,5:02 PM,7:58,MISS Robinson 12' Jump Shot,,,,
+0020100611,384,4,0,4,5:02 PM,7:55,,,Thomas REBOUND (Off:3 Def:4),,
+0020100611,385,2,1,4,5:02 PM,7:47,Robinson BLOCK (1 BLK),,MISS Thomas 13' Jump Shot,,
+0020100611,386,4,0,4,5:02 PM,7:45,Robinson REBOUND (Off:1 Def:4),,,,
+0020100611,387,2,5,4,5:03 PM,7:33,MISS Allen  Layup,,,,
+0020100611,389,4,0,4,5:03 PM,7:32,Allen REBOUND (Off:2 Def:0),,,,
+0020100611,388,1,4,4,5:03 PM,7:32,Allen  Tip Shot (11 PTS),,,91 - 84,-7
+0020100611,390,1,1,4,5:03 PM,7:07,,,Thomas 17' Jump Shot (18 PTS) (Sprewell 5 AST),93 - 84,-9
+0020100611,391,2,1,4,5:03 PM,6:51,MISS Cassell 21' Jump Shot,,,,
+0020100611,392,4,0,4,5:03 PM,6:48,,,Weatherspoon REBOUND (Off:1 Def:2),,
+0020100611,393,2,1,4,5:04 PM,6:30,,,MISS Sprewell 10' Jump Shot,,
+0020100611,394,4,0,4,5:04 PM,6:28,Mason REBOUND (Off:3 Def:11),,,,
+0020100611,395,6,2,4,5:04 PM,6:21,,,Thomas S.FOUL (P5.T4),,
+0020100611,396,8,0,4,5:04 PM,6:21,,,SUB: Camby FOR Thomas,,
+0020100611,397,3,11,4,5:04 PM,6:21,MISS Mason Free Throw 1 of 2,,,,
+0020100611,398,4,1,4,5:04 PM,6:21,BUCKS Rebound,,,,
+0020100611,400,7,3,4,5:05 PM,6:21,,,Weatherspoon Violation:Lane,,
+0020100611,401,3,12,4,5:05 PM,6:21,MISS Mason Free Throw 2 of 2,,,,
+0020100611,402,4,0,4,5:05 PM,6:19,,,Camby REBOUND (Off:6 Def:11),,
+0020100611,403,2,1,4,5:05 PM,5:59,,,MISS Sprewell 14' Jump Shot,,
+0020100611,404,4,0,4,5:05 PM,5:58,,,Knicks Rebound,,
+0020100611,405,6,3,4,5:05 PM,5:58,Johnson L.B.FOUL (P2.T2),,,,
+0020100611,406,8,0,4,5:05 PM,5:58,,,SUB: Houston FOR Anderson,,
+0020100611,407,1,1,4,5:06 PM,5:46,,,Houston 19' Jump Shot (32 PTS) (Jackson 12 AST),95 - 84,-11
+0020100611,408,1,1,4,5:06 PM,5:31,Allen 25' 3PT Jump Shot (14 PTS) (Cassell 7 AST),,,95 - 87,-8
+0020100611,409,1,1,4,5:07 PM,5:14,,,Sprewell 26' 3PT Jump Shot (30 PTS),98 - 87,-11
+0020100611,410,1,1,4,5:07 PM,4:49,Robinson 26' 3PT Jump Shot (29 PTS) (Allen 3 AST),,,98 - 90,-8
+0020100611,411,1,1,4,5:07 PM,4:37,,,Sprewell 18' Jump Shot (32 PTS) (Jackson 13 AST),100 - 90,-10
+0020100611,412,6,2,4,5:08 PM,4:16,,,Camby S.FOUL (P4.PN),,
+0020100611,413,3,11,4,5:08 PM,4:16,MISS Mason Free Throw 1 of 2,,,,
+0020100611,414,4,1,4,5:08 PM,4:16,BUCKS Rebound,,,,
+0020100611,415,3,12,4,5:08 PM,4:16,Mason Free Throw 2 of 2 (16 PTS),,,100 - 91,-9
+0020100611,416,1,1,4,5:09 PM,3:58,,,Sprewell 15' Jump Shot (34 PTS) (Jackson 14 AST),102 - 91,-11
+0020100611,417,6,1,4,5:09 PM,3:41,,,Camby P.FOUL (P5.PN),,
+0020100611,418,8,0,4,5:09 PM,3:41,SUB: Redd FOR Johnson,,,,
+0020100611,419,3,11,4,5:09 PM,3:41,Cassell Free Throw 1 of 2 (15 PTS),,,102 - 92,-10
+0020100611,420,3,12,4,5:09 PM,3:41,Cassell Free Throw 2 of 2 (16 PTS),,,102 - 93,-9
+0020100611,421,5,1,4,5:10 PM,3:17,Robinson STEAL (1 STL),,Jackson Bad Pass Turnover (P3.T11),,
+0020100611,422,5,1,4,5:10 PM,3:04,Redd Bad Pass Turnover (P1.T7),,,,
+0020100611,423,2,1,4,5:11 PM,2:49,,,MISS Sprewell 25' 3PT Jump Shot,,
+0020100611,424,4,0,4,5:11 PM,2:48,Robinson REBOUND (Off:1 Def:5),,,,
+0020100611,425,1,1,4,5:11 PM,2:43,Allen  3PT Jump Shot (17 PTS) (Cassell 8 AST),,,102 - 96,-6
+0020100611,426,6,1,4,5:11 PM,2:21,Mason P.FOUL (P2.T3),,,,
+0020100611,427,8,0,4,5:11 PM,2:21,,,SUB: Thomas FOR Weatherspoon,,
+0020100611,428,6,2,4,5:12 PM,2:07,Allen S.FOUL (P2.T4),,,,
+0020100611,429,3,11,4,5:12 PM,2:07,,,Sprewell Free Throw 1 of 2 (35 PTS),103 - 96,-7
+0020100611,430,3,12,4,5:12 PM,2:07,,,MISS Sprewell Free Throw 2 of 2,,
+0020100611,431,4,0,4,5:13 PM,2:07,Cassell REBOUND (Off:0 Def:4),,,,
+0020100611,432,1,1,4,5:13 PM,2:00,Allen  3PT Jump Shot (20 PTS) (Cassell 9 AST),,,103 - 99,-4
+0020100611,433,2,1,4,5:13 PM,1:44,,,MISS Houston 16' Jump Shot,,
+0020100611,434,4,0,4,5:13 PM,1:42,Robinson REBOUND (Off:1 Def:6),,,,
+0020100611,435,1,7,4,5:13 PM,1:31,Mason  Dunk (18 PTS) (Cassell 10 AST),,,103 - 101,-2
+0020100611,436,9,1,4,5:13 PM,1:31,,,Knicks Timeout: Regular (Reg.5 Short 1),,
+0020100611,438,2,5,4,5:17 PM,1:13,,,MISS Camby  Layup,,
+0020100611,439,4,0,4,5:17 PM,1:12,Redd REBOUND (Off:1 Def:1),,,,
+0020100611,440,6,4,4,5:17 PM,1:00,Redd OFF.Foul (P1),,,,
+0020100611,441,5,5,4,5:17 PM,1:00,Redd Foul Turnover (P2.T8),,,,
+0020100611,442,2,1,4,5:18 PM,0:40,,,MISS Sprewell 13' Jump Shot,,
+0020100611,443,4,0,4,5:18 PM,0:37,Mason REBOUND (Off:3 Def:12),,,,
+0020100611,444,5,2,4,5:18 PM,0:33,Mason Lost Ball Turnover (P1.T9),,Camby STEAL (1 STL),,
+0020100611,445,6,1,4,5:18 PM,0:15,Cassell P.FOUL (P2.PN),,,,
+0020100611,446,3,11,4,5:19 PM,0:15,,,Jackson Free Throw 1 of 2 (7 PTS),104 - 101,-3
+0020100611,447,3,12,4,5:19 PM,0:15,,,Jackson Free Throw 2 of 2 (8 PTS),105 - 101,-4
+0020100611,448,9,1,4,5:19 PM,0:15,BUCKS Timeout: Regular (Full 6 Short 1),,,,
+0020100611,449,8,0,4,5:21 PM,0:15,,,SUB: Anderson FOR Thomas,,
+0020100611,450,8,0,4,5:21 PM,0:15,,,SUB: Ward FOR Houston,,
+0020100611,452,7,2,4,5:22 PM,0:07,,,Camby Violation:Defensive Goaltending,,
+0020100611,451,1,1,4,5:22 PM,0:07,Robinson 24' 3PT Jump Shot (32 PTS),,,105 - 104,-1
+0020100611,453,9,1,4,5:22 PM,0:07,,,Knicks Timeout: Regular (Reg.6 Short 1),,
+0020100611,454,8,0,4,5:24 PM,0:07,SUB: Ham FOR Robinson,,,,
+0020100611,456,8,0,4,5:24 PM,0:07,,,SUB: Thomas FOR Anderson,,
+0020100611,457,8,0,4,5:24 PM,0:07,,,SUB: Houston FOR Ward,,
+0020100611,458,9,2,4,5:24 PM,0:07,,,Knicks Timeout: Short (Reg.6 Short 2),,
+0020100611,459,6,1,4,5:26 PM,0:05,Allen P.FOUL (P3.PN),,,,
+0020100611,460,3,11,4,5:26 PM,0:05,,,Houston Free Throw 1 of 2 (33 PTS),106 - 104,-2
+0020100611,461,8,0,4,5:26 PM,0:05,SUB: Robinson FOR Ham,,,,
+0020100611,462,8,0,4,5:27 PM,0:05,,,SUB: Anderson FOR Thomas,,
+0020100611,463,3,12,4,5:27 PM,0:05,,,Houston Free Throw 2 of 2 (34 PTS),107 - 104,-3
+0020100611,464,1,1,4,5:27 PM,0:00,Allen 26' 3PT Jump Shot (23 PTS),,,107 - 107,TIE
+0020100611,465,13,0,4,5:27 PM,0:00,,,,107 - 107,TIE
+0020100611,466,12,0,5,5:30 PM,5:00,,,,107 - 107,TIE
+0020100611,467,10,0,5,5:31 PM,5:00,Jump Ball Robinson vs. Camby: Tip to Allen,,,,
+0020100611,468,2,1,5,5:31 PM,4:48,MISS Cassell 26' 3PT Jump Shot,,,,
+0020100611,469,4,0,5,5:31 PM,4:46,Allen REBOUND (Off:3 Def:0),,,,
+0020100611,470,2,1,5,5:31 PM,4:38,MISS Allen 16' Jump Shot,,,,
+0020100611,471,4,0,5,5:31 PM,4:36,,,Sprewell REBOUND (Off:3 Def:2),,
+0020100611,472,1,1,5,5:31 PM,4:22,,,Sprewell 25' 3PT Jump Shot (38 PTS) (Jackson 15 AST),110 - 107,-3
+0020100611,473,2,1,5,5:32 PM,4:08,MISS Allen 24' 3PT Jump Shot,,,,
+0020100611,474,4,0,5,5:32 PM,4:08,,,Jackson REBOUND (Off:0 Def:4),,
+0020100611,475,6,3,5,5:32 PM,4:08,Cassell L.B.FOUL (P3.T1),,,,
+0020100611,476,2,1,5,5:32 PM,3:57,,,MISS Jackson 16' Jump Shot,,
+0020100611,477,4,0,5,5:32 PM,3:55,Mason REBOUND (Off:3 Def:13),,,,
+0020100611,478,1,44,5,5:32 PM,3:41,Robinson  Reverse Layup (34 PTS) (Cassell 11 AST),,,110 - 109,-1
+0020100611,479,1,42,5,5:32 PM,3:23,,,Sprewell  Driving Layup (40 PTS),112 - 109,-3
+0020100611,480,2,1,5,5:33 PM,3:09,MISS Cassell 12' Jump Shot,,,,
+0020100611,481,4,0,5,5:33 PM,3:08,,,Camby REBOUND (Off:6 Def:12),,
+0020100611,482,1,1,5,5:33 PM,2:45,,,Sprewell 10' Jump Shot (42 PTS),114 - 109,-5
+0020100611,483,1,1,5,5:33 PM,2:29,Redd 27' 3PT Jump Shot (10 PTS) (Cassell 12 AST),,,114 - 112,-2
+0020100611,484,6,4,5,5:34 PM,2:06,,,Sprewell OFF.Foul (P2),,
+0020100611,485,5,5,5,5:34 PM,2:06,,,Sprewell Foul Turnover (P5.T12),,
+0020100611,486,5,2,5,5:34 PM,1:50,Allen Lost Ball Turnover (P2.T10),,Sprewell STEAL (2 STL),,
+0020100611,487,2,5,5,5:34 PM,1:46,,,MISS Sprewell  Layup,,
+0020100611,489,4,0,5,5:35 PM,1:45,,,Thomas REBOUND (Off:4 Def:4),,
+0020100611,488,2,53,5,5:35 PM,1:45,,,MISS Thomas  Tip Shot,,
+0020100611,490,4,0,5,5:35 PM,1:42,,,Jackson REBOUND (Off:1 Def:4),,
+0020100611,491,2,1,5,5:35 PM,1:38,,,MISS Houston 25' 3PT Jump Shot,,
+0020100611,492,4,0,5,5:35 PM,1:36,Mason REBOUND (Off:3 Def:14),,,,
+0020100611,493,1,1,5,5:35 PM,1:30,Cassell 13' Jump Shot (18 PTS),,,114 - 114,TIE
+0020100611,494,9,1,5,5:35 PM,1:30,,,Knicks Timeout: Regular (Reg.7 Short 2),,
+0020100611,495,1,1,5,5:38 PM,1:15,,,Sprewell 26' 3PT Jump Shot (45 PTS),117 - 114,-3
+0020100611,496,2,1,5,5:38 PM,1:04,MISS Robinson 26' 3PT Jump Shot,,,,
+0020100611,497,4,0,5,5:38 PM,1:02,,,Sprewell REBOUND (Off:3 Def:3),,
+0020100611,498,5,4,5,5:38 PM,0:46,,,Sprewell Traveling Turnover (P6.T13),,
+0020100611,499,9,1,5,5:38 PM,0:46,BUCKS Timeout: Regular (Full 7 Short 1),,,,
+0020100611,500,8,0,5,5:41 PM,0:46,,,SUB: Anderson FOR Thomas,,
+0020100611,501,2,1,5,5:41 PM,0:34,MISS Robinson 9' Jump Shot,,,,
+0020100611,502,4,0,5,5:41 PM,0:34,,,Knicks Rebound,,
+0020100611,503,6,3,5,5:41 PM,0:34,Mason L.B.FOUL (P3.T2),,,,
+0020100611,504,2,1,5,5:42 PM,0:12,,,MISS Houston  3PT Jump Shot,,
+0020100611,505,4,0,5,5:42 PM,0:10,Cassell REBOUND (Off:0 Def:5),,,,
+0020100611,506,9,1,5,5:42 PM,0:05,BUCKS Timeout: Regular (Full 8 Short 1),,,,
+0020100611,507,6,1,5,5:44 PM,0:03,,,Camby P.FOUL (P6.T1),,
+0020100611,508,8,0,5,5:44 PM,0:03,,,SUB: Thomas FOR Camby,,
+0020100611,509,1,1,5,5:44 PM,0:01,Redd 25' 3PT Jump Shot (13 PTS) (Allen 4 AST),,,117 - 117,TIE
+0020100611,510,2,1,5,5:45 PM,0:00,,,MISS Jackson 39' 3PT Jump Shot,,
+0020100611,511,4,0,5,5:45 PM,0:00,,,Knicks Rebound,,
+0020100611,512,13,0,5,5:45 PM,0:00,,,,117 - 117,TIE
+0020100611,513,12,0,6,5:48 PM,5:00,,,,117 - 117,TIE
+0020100611,514,10,0,6,5:48 PM,5:00,Jump Ball Robinson vs. Weatherspoon: Tip to Redd,,,,
+0020100611,515,2,1,6,5:48 PM,4:43,MISS Allen 11' Jump Shot,,,,
+0020100611,516,4,0,6,5:48 PM,4:42,,,Houston REBOUND (Off:0 Def:3),,
+0020100611,517,1,65,6,5:48 PM,4:33,,,Jackson 3' Jump Hook Shot (10 PTS),119 - 117,-2
+0020100611,518,2,5,6,5:49 PM,4:17,MISS Redd  Layup,,Weatherspoon BLOCK (1 BLK),,
+0020100611,519,4,0,6,5:49 PM,4:15,,,Anderson REBOUND (Off:0 Def:2),,
+0020100611,520,1,65,6,5:49 PM,4:04,,,Jackson 3' Jump Hook Shot (12 PTS),121 - 117,-4
+0020100611,521,6,2,6,5:49 PM,3:52,,,Weatherspoon S.FOUL (P2.T1),,
+0020100611,522,3,11,6,5:49 PM,3:52,Cassell Free Throw 1 of 2 (19 PTS),,,121 - 118,-3
+0020100611,523,3,12,6,5:49 PM,3:52,Cassell Free Throw 2 of 2 (20 PTS),,,121 - 119,-2
+0020100611,524,6,1,6,5:50 PM,3:41,Cassell P.FOUL (P4.T1),,,,
+0020100611,525,5,2,6,5:50 PM,3:30,,,Houston Lost Ball Turnover (P1.T14),,
+0020100611,526,2,1,6,5:51 PM,3:13,MISS Allen 10' Jump Shot,,,,
+0020100611,527,4,0,6,5:51 PM,3:10,,,Weatherspoon REBOUND (Off:1 Def:3),,
+0020100611,528,2,1,6,5:51 PM,2:48,,,MISS Sprewell 5' Jump Shot,,
+0020100611,529,4,0,6,5:51 PM,2:44,Cassell REBOUND (Off:0 Def:6),,,,
+0020100611,530,6,2,6,5:52 PM,2:35,,,Weatherspoon S.FOUL (P3.T2),,
+0020100611,531,3,10,6,5:52 PM,2:35,MISS Mason Free Throw 1 of 1,,,,
+0020100611,532,4,1,6,5:52 PM,2:35,BUCKS Rebound,,,,
+0020100611,534,7,3,6,5:52 PM,2:35,Robinson Violation:Lane,,,,
+0020100611,541,5,17,6,5:52 PM,2:35,Robinson Lane Violation Turnover (P3.T11),,,,
+0020100611,535,1,1,6,5:53 PM,2:18,,,Jackson  3PT Jump Shot (15 PTS) (Sprewell 6 AST),124 - 119,-5
+0020100611,536,6,2,6,5:53 PM,2:06,,,Anderson S.FOUL (P2.T3),,
+0020100611,538,3,11,6,5:53 PM,2:06,Mason Free Throw 1 of 2 (19 PTS),,,124 - 120,-4
+0020100611,540,9,1,6,5:53 PM,2:06,,,Knicks Timeout: Regular (Reg.8 Short 2),,
+0020100611,543,3,12,6,5:56 PM,2:06,Mason Free Throw 2 of 2 (20 PTS),,,124 - 121,-3
+0020100611,544,2,1,6,5:56 PM,1:46,,,MISS Jackson 11' Jump Shot,,
+0020100611,545,4,0,6,5:56 PM,1:43,Redd REBOUND (Off:1 Def:2),,,,
+0020100611,546,2,1,6,5:57 PM,1:31,MISS Robinson 17' Jump Shot,,,,
+0020100611,547,4,0,6,5:57 PM,1:31,Mason REBOUND (Off:4 Def:14),,,,
+0020100611,548,6,3,6,5:57 PM,1:31,,,Jackson L.B.FOUL (P3.PN),,
+0020100611,550,3,11,6,5:57 PM,1:31,Mason Free Throw 1 of 2 (21 PTS),,,124 - 122,-2
+0020100611,551,3,12,6,5:57 PM,1:31,Mason Free Throw 2 of 2 (22 PTS),,,124 - 123,-1
+0020100611,552,2,1,6,5:58 PM,1:15,,,MISS Houston 13' Jump Shot,,
+0020100611,553,4,0,6,5:58 PM,1:13,Robinson REBOUND (Off:1 Def:7),,,,
+0020100611,554,2,1,6,5:58 PM,1:02,MISS Allen 27' 3PT Jump Shot,,,,
+0020100611,555,4,0,6,5:58 PM,1:00,,,Sprewell REBOUND (Off:3 Def:4),,
+0020100611,557,2,1,6,5:58 PM,0:40,,,MISS Houston 24' 3PT Jump Shot,,
+0020100611,558,4,0,6,5:58 PM,0:38,Cassell REBOUND (Off:0 Def:7),,,,
+0020100611,559,6,2,6,5:59 PM,0:31,,,Houston S.FOUL (P4.PN),,
+0020100611,560,3,11,6,5:59 PM,0:31,Robinson Free Throw 1 of 2 (35 PTS),,,124 - 124,TIE
+0020100611,561,3,12,6,5:59 PM,0:31,Robinson Free Throw 2 of 2 (36 PTS),,,124 - 125,1
+0020100611,562,9,1,6,5:59 PM,0:31,,,Knicks Timeout: Regular (Reg.9 Short 2),,
+0020100611,564,8,0,6,6:01 PM,0:31,SUB: Ham FOR Cassell,,,,
+0020100611,565,8,0,6,6:01 PM,0:31,,,SUB: Thomas FOR Anderson,,
+0020100611,566,1,1,6,6:02 PM,0:10,,,Sprewell 26' 3PT Jump Shot (48 PTS),127 - 125,-2
+0020100611,567,9,1,6,6:02 PM,0:09,BUCKS Timeout: Regular (Full 9 Short 1),,,,
+0020100611,568,8,0,6,6:03 PM,0:09,SUB: Cassell FOR Ham,,,,
+0020100611,569,8,0,6,6:04 PM,0:09,,,SUB: Anderson FOR Thomas,,
+0020100611,570,8,0,6,6:04 PM,0:09,,,SUB: Ward FOR Houston,,
+0020100611,571,1,1,6,6:04 PM,0:03,Robinson 10' Jump Shot (38 PTS) (Allen 5 AST),,,127 - 127,TIE
+0020100611,572,9,1,6,6:04 PM,0:03,,,Knicks Timeout: Regular (Reg.10 Short 2),,
+0020100611,573,8,0,6,6:06 PM,0:03,SUB: Ham FOR Cassell,,,,
+0020100611,574,8,0,6,6:06 PM,0:03,,,SUB: Houston FOR Ward,,
+0020100611,575,8,0,6,6:06 PM,0:03,,,SUB: Thomas FOR Anderson,,
+0020100611,576,6,2,6,6:07 PM,0:01,Ham S.FOUL (P5.T2),,,,
+0020100611,577,3,11,6,6:07 PM,0:01,,,Weatherspoon Free Throw 1 of 2 (3 PTS),128 - 127,-1
+0020100611,578,3,12,6,6:07 PM,0:01,,,Weatherspoon Free Throw 2 of 2 (4 PTS),129 - 127,-2
+0020100611,579,9,1,6,6:07 PM,0:01,BUCKS Timeout: Regular (Full 10 Short 1),,,,
+0020100611,580,8,0,6,6:09 PM,0:01,SUB: Cassell FOR Ham,,,,
+0020100611,581,8,0,6,6:09 PM,0:01,,,SUB: Anderson FOR Thomas,,
+0020100611,582,8,0,6,6:09 PM,0:01,,,SUB: Ward FOR Houston,,
+0020100611,583,2,1,6,6:09 PM,0:00,MISS Redd 20' Jump Shot,,,,
+0020100611,584,4,0,6,6:09 PM,0:00,BUCKS Rebound,,,,
+0020100611,585,13,0,6,6:09 PM,0:00,,,,129 - 127,-2

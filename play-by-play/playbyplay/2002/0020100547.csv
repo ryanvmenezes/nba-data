@@ -1,0 +1,432 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020100547,1,12,0,1,9:11 PM,12:00,,,,,
+0020100547,2,10,0,1,9:11 PM,12:00,Jump Ball Robinson vs. Collins: Tip to Kirilenko,,,,
+0020100547,3,2,1,1,9:12 PM,11:50,,,MISS Malone 19' Jump Shot,,
+0020100547,4,4,0,1,9:12 PM,11:48,Duncan REBOUND (Off:0 Def:1),,,,
+0020100547,5,2,5,1,9:12 PM,11:24,MISS Duncan  Layup,,,,
+0020100547,6,4,0,1,9:12 PM,11:23,,,Malone REBOUND (Off:0 Def:1),,
+0020100547,7,2,5,1,9:12 PM,11:04,,,MISS Kirilenko  Layup,,
+0020100547,8,4,0,1,9:12 PM,11:03,,,Jazz Rebound,,
+0020100547,9,1,1,1,9:13 PM,10:53,,,Stevenson 18' Jump Shot (2 PTS) (Malone 1 AST),2 - 0,-2
+0020100547,10,2,1,1,9:13 PM,10:30,MISS Duncan 16' Jump Shot,,,,
+0020100547,11,4,0,1,9:13 PM,10:28,,,Malone REBOUND (Off:0 Def:2),,
+0020100547,12,6,2,1,9:13 PM,10:24,Robinson S.FOUL (P1.T1),,,,
+0020100547,13,3,11,1,9:14 PM,10:24,,,MISS Malone Free Throw 1 of 2,,
+0020100547,14,4,1,1,9:14 PM,10:24,,,Jazz Rebound,,
+0020100547,15,3,12,1,9:14 PM,10:24,,,MISS Malone Free Throw 2 of 2,,
+0020100547,16,4,0,1,9:14 PM,10:24,Robinson REBOUND (Off:0 Def:1),,,,
+0020100547,17,2,1,1,9:14 PM,10:09,MISS Smith 21' Jump Shot,,,,
+0020100547,18,4,0,1,9:14 PM,10:08,Robinson REBOUND (Off:1 Def:1),,,,
+0020100547,19,5,2,1,9:14 PM,10:04,Smith Lost Ball Turnover (P1.T1),,Kirilenko STEAL (1 STL),,
+0020100547,20,1,5,1,9:14 PM,10:01,,,Stevenson 1' Layup (4 PTS) (Kirilenko 1 AST),4 - 0,-4
+0020100547,21,2,1,1,9:15 PM,9:45,MISS Smith 4' Jump Shot,,Stevenson BLOCK (1 BLK),,
+0020100547,22,4,0,1,9:15 PM,9:44,SPURS Rebound,,,,
+0020100547,23,1,1,1,9:15 PM,9:38,Smith 23' Jump Shot (2 PTS),,,4 - 2,-2
+0020100547,24,1,1,1,9:15 PM,9:23,,,Stockton 17' Jump Shot (2 PTS) (Collins 1 AST),6 - 2,-4
+0020100547,25,1,59,1,9:16 PM,9:01,Daniels 1' Finger Roll (2 PTS) (Robinson 1 AST),,,6 - 4,-2
+0020100547,26,1,5,1,9:16 PM,8:37,,,Collins 1' Layup (2 PTS) (Stockton 1 AST),8 - 4,-4
+0020100547,27,6,2,1,9:16 PM,8:37,Smith S.FOUL (P1.T2),,,,
+0020100547,28,3,10,1,9:16 PM,8:37,,,Collins Free Throw 1 of 1 (3 PTS),9 - 4,-5
+0020100547,29,6,2,1,9:17 PM,8:21,,,Stockton S.FOUL (P1.T1),,
+0020100547,30,3,11,1,9:17 PM,8:21,Duncan Free Throw 1 of 2 (1 PTS),,,9 - 5,-4
+0020100547,31,3,12,1,9:17 PM,8:21,Duncan Free Throw 2 of 2 (2 PTS),,,9 - 6,-3
+0020100547,32,1,1,1,9:18 PM,8:10,,,Malone 18' Jump Shot (2 PTS) (Stockton 2 AST),11 - 6,-5
+0020100547,33,2,5,1,9:18 PM,7:49,MISS Duncan 2' Layup,,Collins BLOCK (1 BLK),,
+0020100547,34,4,0,1,9:18 PM,7:45,,,Collins REBOUND (Off:0 Def:1),,
+0020100547,35,1,8,1,9:19 PM,7:35,,,Kirilenko  Slam Dunk (2 PTS) (Malone 2 AST),13 - 6,-7
+0020100547,36,9,1,1,9:19 PM,7:29,SPURS Timeout: Regular (Full 1 Short 0),,,,
+0020100547,38,6,2,1,9:21 PM,7:20,,,Collins S.FOUL (P1.T2),,
+0020100547,39,3,11,1,9:22 PM,7:20,Duncan Free Throw 1 of 2 (3 PTS),,,13 - 7,-6
+0020100547,40,3,12,1,9:22 PM,7:20,Duncan Free Throw 2 of 2 (4 PTS),,,13 - 8,-5
+0020100547,41,1,5,1,9:22 PM,7:10,,,Stockton 1' Layup (4 PTS) (Malone 3 AST),15 - 8,-7
+0020100547,42,1,5,1,9:22 PM,6:56,Smith 2' Layup (4 PTS) (Duncan 1 AST),,,15 - 10,-5
+0020100547,43,1,5,1,9:23 PM,6:43,,,Collins 1' Layup (5 PTS) (Stevenson 1 AST),17 - 10,-7
+0020100547,44,6,2,1,9:23 PM,6:25,,,Collins S.FOUL (P2.T3),,
+0020100547,45,3,11,1,9:23 PM,6:25,Daniels Free Throw 1 of 2 (3 PTS),,,17 - 11,-6
+0020100547,46,8,0,1,9:23 PM,6:25,,,SUB: Ostertag FOR Collins,,
+0020100547,47,3,12,1,9:24 PM,6:25,Daniels Free Throw 2 of 2 (4 PTS),,,17 - 12,-5
+0020100547,48,2,1,1,9:24 PM,6:05,,,MISS Stockton 16' Jump Shot,,
+0020100547,49,4,0,1,9:24 PM,6:03,,,Stockton REBOUND (Off:1 Def:0),,
+0020100547,50,1,1,1,9:25 PM,5:48,,,Malone 24' 3PT Jump Shot (5 PTS),20 - 12,-8
+0020100547,51,6,1,1,9:25 PM,5:33,,,Malone P.FOUL (P1.T4),,
+0020100547,52,1,7,1,9:25 PM,5:25,Duncan  Dunk (6 PTS) (Daniels 1 AST),,,20 - 14,-6
+0020100547,53,2,1,1,9:26 PM,5:07,,,MISS Stevenson 13' Jump Shot,,
+0020100547,55,4,0,1,9:26 PM,5:05,,,Malone REBOUND (Off:1 Def:2),,
+0020100547,54,1,5,1,9:26 PM,5:05,,,Malone 1' Layup (7 PTS),22 - 14,-8
+0020100547,56,2,1,1,9:26 PM,4:51,MISS Smith 25' 3PT Jump Shot,,,,
+0020100547,57,4,0,1,9:26 PM,4:49,Duncan REBOUND (Off:1 Def:1),,,,
+0020100547,58,6,1,1,9:26 PM,4:41,,,Ostertag P.FOUL (P1.PN),,
+0020100547,59,8,0,1,9:26 PM,4:41,,,SUB: Starks FOR Stockton,,
+0020100547,60,3,11,1,9:26 PM,4:41,Duncan Free Throw 1 of 2 (7 PTS),,,22 - 15,-7
+0020100547,61,3,12,1,9:27 PM,4:41,Duncan Free Throw 2 of 2 (8 PTS),,,22 - 16,-6
+0020100547,62,6,1,1,9:27 PM,4:32,Smith P.FOUL (P1.T3),,,,
+0020100547,63,1,5,1,9:28 PM,4:24,,,Kirilenko  Layup (4 PTS) (Malone 4 AST),24 - 16,-8
+0020100547,64,6,2,1,9:28 PM,4:24,Smith S.FOUL (P2.T4),,,,
+0020100547,65,3,10,1,9:28 PM,4:24,,,Kirilenko Free Throw 1 of 1 (5 PTS),25 - 16,-9
+0020100547,66,8,0,1,9:28 PM,4:07,SUB: Jackson FOR Smith,,,,
+0020100547,67,10,0,1,9:29 PM,4:07,Jump Ball Duncan vs. Ostertag: Tip to Daniels,,,,
+0020100547,68,1,1,1,9:29 PM,3:58,Daniels 22' Jump Shot (6 PTS),,,25 - 18,-7
+0020100547,69,2,5,1,9:29 PM,3:45,Duncan BLOCK (1 BLK),,MISS Stevenson 1' Layup,,
+0020100547,70,4,0,1,9:29 PM,3:42,Duncan REBOUND (Off:1 Def:2),,,,
+0020100547,71,2,5,1,9:29 PM,3:39,MISS Smith  Layup,,,,
+0020100547,72,4,0,1,9:29 PM,3:35,,,Malone REBOUND (Off:1 Def:3),,
+0020100547,73,5,2,1,9:30 PM,3:21,Jackson STEAL (1 STL),,Kirilenko Lost Ball Turnover (P1.T1),,
+0020100547,74,6,2,1,9:30 PM,3:19,,,Starks S.FOUL (P1.PN),,
+0020100547,75,3,11,1,9:30 PM,3:19,Jackson Free Throw 1 of 2 (1 PTS),,,25 - 19,-6
+0020100547,76,8,0,1,9:30 PM,3:19,,,SUB: Russell FOR Kirilenko,,
+0020100547,77,8,0,1,9:30 PM,3:19,SUB: Rose FOR Robinson,,,,
+0020100547,78,3,12,1,9:30 PM,3:19,Jackson Free Throw 2 of 2 (2 PTS),,,25 - 20,-5
+0020100547,79,2,1,1,9:31 PM,2:57,,,MISS Russell 14' Jump Shot,,
+0020100547,80,4,0,1,9:31 PM,2:55,Daniels REBOUND (Off:0 Def:1),,,,
+0020100547,81,2,1,1,9:31 PM,2:49,MISS Smith 24' 3PT Jump Shot,,,,
+0020100547,82,4,0,1,9:31 PM,2:46,,,Malone REBOUND (Off:1 Def:4),,
+0020100547,83,2,5,1,9:31 PM,2:31,,,MISS Stevenson 1' Layup,,
+0020100547,85,4,0,1,9:31 PM,2:29,,,Ostertag REBOUND (Off:1 Def:0),,
+0020100547,84,2,5,1,9:31 PM,2:29,,,MISS Ostertag 2' Layup,,
+0020100547,86,4,0,1,9:31 PM,2:27,Duncan REBOUND (Off:1 Def:3),,,,
+0020100547,87,6,2,1,9:31 PM,2:23,,,Ostertag S.FOUL (P2.PN),,
+0020100547,88,9,1,1,9:32 PM,2:23,,,Jazz Timeout: Regular (Reg.1 Short 0),,
+0020100547,90,8,0,1,9:34 PM,2:23,SUB: Porter FOR Daniels,,,,
+0020100547,91,8,0,1,9:34 PM,2:23,,,SUB: Amaechi FOR Ostertag,,
+0020100547,92,3,11,1,9:34 PM,2:23,Duncan Free Throw 1 of 2 (9 PTS),,,25 - 21,-4
+0020100547,93,3,12,1,9:34 PM,2:23,Duncan Free Throw 2 of 2 (10 PTS),,,25 - 22,-3
+0020100547,94,1,1,1,9:35 PM,2:13,,,Starks 22' Jump Shot (2 PTS) (Amaechi 1 AST),27 - 22,-5
+0020100547,95,1,5,1,9:35 PM,2:00,Duncan  Layup (12 PTS) (Jackson 1 AST),,,27 - 24,-3
+0020100547,96,2,1,1,9:35 PM,1:41,,,MISS Amaechi 19' Jump Shot,,
+0020100547,97,4,0,1,9:35 PM,1:39,,,Malone REBOUND (Off:2 Def:4),,
+0020100547,98,1,1,1,9:36 PM,1:24,,,Stevenson 18' Jump Shot (6 PTS) (Amaechi 2 AST),29 - 24,-5
+0020100547,99,2,1,1,9:36 PM,1:00,MISS Porter 20' Jump Shot,,,,
+0020100547,100,4,0,1,9:36 PM,0:57,,,Malone REBOUND (Off:2 Def:5),,
+0020100547,101,2,1,1,9:36 PM,0:40,,,MISS Amaechi 7' Jump Shot,,
+0020100547,102,4,0,1,9:36 PM,0:38,Duncan REBOUND (Off:1 Def:4),,,,
+0020100547,103,1,1,1,9:37 PM,0:28,Smith 25' 3PT Jump Shot (7 PTS) (Porter 1 AST),,,29 - 27,-2
+0020100547,104,1,1,1,9:37 PM,0:04,,,Malone 18' Jump Shot (9 PTS) (Stevenson 2 AST),31 - 27,-4
+0020100547,105,2,1,1,9:37 PM,0:00,MISS Smith 33' 3PT Jump Shot,,,,
+0020100547,106,4,0,1,9:37 PM,0:00,SPURS Rebound,,,,
+0020100547,107,13,0,1,9:37 PM,0:00,,,,31 - 27,-4
+0020100547,109,12,0,2,9:40 PM,12:00,,,,31 - 27,-4
+0020100547,110,2,5,2,9:41 PM,11:46,MISS Jackson 2' Layup,,Amaechi BLOCK (1 BLK),,
+0020100547,111,4,0,2,9:41 PM,11:43,,,Russell REBOUND (Off:0 Def:1),,
+0020100547,112,5,1,2,9:41 PM,11:27,Jackson STEAL (2 STL),,Collins Bad Pass Turnover (P1.T2),,
+0020100547,113,1,1,2,9:41 PM,11:16,Jackson 22' Jump Shot (4 PTS),,,31 - 29,-2
+0020100547,114,2,1,2,9:42 PM,10:55,Duncan BLOCK (2 BLK),,MISS Collins 9' Jump Shot,,
+0020100547,115,4,0,2,9:42 PM,10:52,Jackson REBOUND (Off:0 Def:1),,,,
+0020100547,116,2,5,2,9:42 PM,10:39,MISS Rose 1' Layup,,Russell BLOCK (1 BLK),,
+0020100547,117,4,0,2,9:42 PM,10:35,,,Stockton REBOUND (Off:1 Def:1),,
+0020100547,118,5,3,2,9:42 PM,10:31,,,Russell Out Of Bounds Turnover (P1.T3),,
+0020100547,119,8,0,2,9:42 PM,10:31,SUB: Robinson FOR Smith,,,,
+0020100547,120,8,0,2,9:42 PM,10:31,SUB: Daniels FOR Duncan,,,,
+0020100547,121,8,0,2,9:42 PM,10:31,,,SUB: Kirilenko FOR Starks,,
+0020100547,122,2,1,2,9:43 PM,10:11,MISS Jackson 24' 3PT Jump Shot,,,,
+0020100547,123,4,0,2,9:43 PM,10:09,,,Collins REBOUND (Off:0 Def:2),,
+0020100547,124,6,1,2,9:43 PM,9:59,Robinson P.FOUL (P2.T1),,,,
+0020100547,125,1,47,2,9:43 PM,9:53,,,Kirilenko 11' Turnaround Jump Shot (7 PTS),33 - 29,-4
+0020100547,126,2,44,2,9:44 PM,9:32,MISS Daniels 1' Reverse Layup,,,,
+0020100547,127,4,0,2,9:44 PM,9:29,,,Kirilenko REBOUND (Off:0 Def:1),,
+0020100547,128,2,1,2,9:44 PM,9:23,,,MISS Russell 24' 3PT Jump Shot,,
+0020100547,129,4,0,2,9:44 PM,9:20,Robinson REBOUND (Off:1 Def:2),,,,
+0020100547,130,6,1,2,9:44 PM,9:10,,,Stockton P.FOUL (P2.T1),,
+0020100547,131,2,5,2,9:44 PM,9:02,MISS Porter 1' Layup,,,,
+0020100547,133,4,0,2,9:44 PM,9:00,Robinson REBOUND (Off:2 Def:2),,,,
+0020100547,132,1,64,2,9:44 PM,9:00,Robinson  Follow Up Dunk (2 PTS),,,33 - 31,-2
+0020100547,134,2,42,2,9:45 PM,8:51,Rose BLOCK (1 BLK),,MISS Collins 3' Driving Layup,,
+0020100547,139,4,0,2,9:45 PM,8:50,Daniels REBOUND (Off:0 Def:2),,,,
+0020100547,135,5,3,2,9:45 PM,8:49,Daniels Out Of Bounds Turnover (P1.T2),,,,
+0020100547,138,6,11,2,9:45 PM,8:49,,,,,
+0020100547,176,9,3,2,9:45 PM,8:49,,,,,
+0020100547,141,8,0,2,9:47 PM,8:49,,,SUB: Malone FOR Amaechi,,
+0020100547,142,3,16,2,9:48 PM,8:49,Porter Free Throw Technical (1 PTS),,,33 - 32,-1
+0020100547,143,1,1,2,9:48 PM,8:29,,,Stockton 17' Jump Shot (6 PTS),35 - 32,-3
+0020100547,144,2,1,2,9:49 PM,8:16,MISS Rose 17' Jump Shot,,,,
+0020100547,145,4,0,2,9:49 PM,8:14,,,Kirilenko REBOUND (Off:0 Def:2),,
+0020100547,146,5,2,2,9:49 PM,7:55,Rose STEAL (1 STL),,Stockton Lost Ball Turnover (P1.T4),,
+0020100547,147,6,1,2,9:49 PM,7:55,,,Stockton P.FOUL (P3.T2),,
+0020100547,148,8,0,2,9:49 PM,7:55,,,SUB: Stevenson FOR Stockton,,
+0020100547,149,2,1,2,9:50 PM,7:41,MISS Robinson 11' Jump Shot,,,,
+0020100547,150,4,0,2,9:50 PM,7:41,SPURS Rebound,,,,
+0020100547,151,6,3,2,9:50 PM,7:41,,,Collins L.B.FOUL (P3.T3),,
+0020100547,152,8,0,2,9:50 PM,7:41,,,SUB: Padgett FOR Collins,,
+0020100547,153,2,1,2,9:50 PM,7:36,MISS Porter 18' Jump Shot,,,,
+0020100547,154,4,0,2,9:50 PM,7:34,,,Kirilenko REBOUND (Off:0 Def:3),,
+0020100547,155,1,1,2,9:51 PM,7:18,,,Kirilenko 25' 3PT Jump Shot (10 PTS) (Padgett 1 AST),38 - 32,-6
+0020100547,156,1,1,2,9:51 PM,7:10,Jackson 22' Jump Shot (6 PTS) (Daniels 2 AST),,,38 - 34,-4
+0020100547,157,5,2,2,9:51 PM,6:56,Robinson STEAL (1 STL),,Malone Lost Ball Turnover (P1.T5),,
+0020100547,158,5,1,2,9:51 PM,6:50,Porter Bad Pass Turnover (P1.T3),,Kirilenko STEAL (2 STL),,
+0020100547,159,6,2,2,9:51 PM,6:45,Porter S.FOUL (P1.T2),,,,
+0020100547,160,8,0,2,9:51 PM,6:45,SUB: Duncan FOR Rose,,,,
+0020100547,161,8,0,2,9:51 PM,6:45,SUB: Smith FOR Porter,,,,
+0020100547,162,3,11,2,9:52 PM,6:45,,,Kirilenko Free Throw 1 of 2 (11 PTS),39 - 34,-5
+0020100547,163,3,12,2,9:52 PM,6:45,,,Kirilenko Free Throw 2 of 2 (12 PTS),40 - 34,-6
+0020100547,164,2,1,2,9:52 PM,6:32,MISS Smith 24' 3PT Jump Shot,,,,
+0020100547,166,4,0,2,9:52 PM,6:29,Robinson REBOUND (Off:3 Def:2),,,,
+0020100547,165,2,4,2,9:52 PM,6:29,MISS Robinson 2' Tip Shot,,,,
+0020100547,167,4,0,2,9:52 PM,6:29,SPURS Rebound,,,,
+0020100547,168,6,1,2,9:53 PM,6:29,,,Padgett P.FOUL (P1.T4),,
+0020100547,169,2,1,2,9:53 PM,6:13,MISS Jackson 24' 3PT Jump Shot,,,,
+0020100547,170,4,0,2,9:53 PM,6:11,Daniels REBOUND (Off:1 Def:2),,,,
+0020100547,171,9,1,2,9:54 PM,6:08,SPURS Timeout: Regular (Full 2 Short 0),,,,
+0020100547,174,6,2,2,9:56 PM,5:52,,,Stevenson S.FOUL (P1.PN),,
+0020100547,175,3,11,2,9:57 PM,5:52,Daniels Free Throw 1 of 2 (7 PTS),,,40 - 35,-5
+0020100547,177,3,12,2,9:57 PM,5:52,Daniels Free Throw 2 of 2 (8 PTS),,,40 - 36,-4
+0020100547,178,5,1,2,9:57 PM,5:38,Jackson STEAL (3 STL),,Kirilenko Bad Pass Turnover (P2.T6),,
+0020100547,179,2,1,2,9:58 PM,5:21,MISS Duncan 9' Jump Shot,,Kirilenko BLOCK (1 BLK),,
+0020100547,180,4,0,2,9:58 PM,5:17,Duncan REBOUND (Off:2 Def:4),,,,
+0020100547,181,6,2,2,9:58 PM,5:14,,,Malone S.FOUL (P2.PN),,
+0020100547,182,3,11,2,9:58 PM,5:14,Daniels Free Throw 1 of 2 (9 PTS),,,40 - 37,-3
+0020100547,183,8,0,2,9:58 PM,5:14,SUB: Smith FOR Jackson,,,,
+0020100547,184,3,12,2,9:58 PM,5:14,MISS Daniels Free Throw 2 of 2,,,,
+0020100547,185,4,0,2,9:59 PM,5:13,,,Padgett REBOUND (Off:0 Def:1),,
+0020100547,186,6,4,2,9:59 PM,5:02,,,Russell OFF.Foul (P1),,
+0020100547,187,5,5,2,9:59 PM,5:02,,,Russell Foul Turnover (P2.T7),,
+0020100547,188,1,1,2,9:59 PM,4:43,Smith 13' Jump Shot (2 PTS),,,40 - 39,-1
+0020100547,189,1,1,2,10:00 PM,4:24,,,Malone 15' Jump Shot (11 PTS) (Padgett 2 AST),42 - 39,-3
+0020100547,190,10,0,2,10:00 PM,4:09,Jump Ball Robinson vs. Kirilenko: Tip to Padgett,,,,
+0020100547,191,5,2,2,10:00 PM,4:09,Robinson Lost Ball Turnover (P1.T4),,Kirilenko STEAL (3 STL),,
+0020100547,192,2,5,2,10:01 PM,3:56,Duncan BLOCK (3 BLK),,MISS Kirilenko 2' Layup,,
+0020100547,193,4,0,2,10:01 PM,3:54,Smith REBOUND (Off:0 Def:1),,,,
+0020100547,194,2,1,2,10:01 PM,3:49,MISS Daniels 6' Jump Shot,,,,
+0020100547,195,4,0,2,10:01 PM,3:49,,,Jazz Rebound,,
+0020100547,196,6,3,2,10:01 PM,3:49,Duncan L.B.FOUL (P1.T3),,,,
+0020100547,197,2,1,2,10:01 PM,3:40,,,MISS Russell 16' Jump Shot,,
+0020100547,198,4,0,2,10:01 PM,3:38,,,Kirilenko REBOUND (Off:1 Def:3),,
+0020100547,199,2,5,2,10:02 PM,3:28,,,MISS Padgett 2' Layup,,
+0020100547,201,4,0,2,10:02 PM,3:26,,,Kirilenko REBOUND (Off:2 Def:3),,
+0020100547,200,2,5,2,10:02 PM,3:26,,,MISS Kirilenko 2' Layup,,
+0020100547,203,4,0,2,10:02 PM,3:23,,,Malone REBOUND (Off:3 Def:5),,
+0020100547,202,1,1,2,10:02 PM,3:23,,,Malone 16' Jump Shot (13 PTS),44 - 39,-5
+0020100547,204,5,1,2,10:02 PM,3:12,Robinson Bad Pass Turnover (P2.T5),,,,
+0020100547,205,1,1,2,10:02 PM,2:54,,,Malone 12' Jump Shot (15 PTS),46 - 39,-7
+0020100547,206,1,1,2,10:03 PM,2:32,Duncan 6' Jump Shot (14 PTS),,,46 - 41,-5
+0020100547,207,1,1,2,10:03 PM,2:13,,,Padgett 24' 3PT Jump Shot (3 PTS) (Russell 1 AST),49 - 41,-8
+0020100547,208,1,7,2,10:03 PM,1:49,Robinson 1' Dunk (4 PTS) (Daniels 3 AST),,,49 - 43,-6
+0020100547,209,2,1,2,10:04 PM,1:25,,,MISS Russell 21' Jump Shot,,
+0020100547,210,4,0,2,10:04 PM,1:22,Robinson REBOUND (Off:3 Def:3),,,,
+0020100547,211,9,1,2,10:04 PM,1:22,,,Jazz Timeout: Regular (Reg.2 Short 0),,
+0020100547,214,8,0,2,10:06 PM,1:22,,,SUB: Starks FOR Russell,,
+0020100547,215,1,1,2,10:07 PM,1:07,Duncan 6' Jump Shot (16 PTS),,,49 - 45,-4
+0020100547,216,6,2,2,10:07 PM,1:07,,,Stevenson S.FOUL (P2.PN),,
+0020100547,217,8,0,2,10:07 PM,1:07,SUB: Rose FOR Robinson,,,,
+0020100547,218,3,10,2,10:07 PM,1:07,Duncan Free Throw 1 of 1 (17 PTS),,,49 - 46,-3
+0020100547,219,2,1,2,10:08 PM,0:52,,,MISS Stevenson 16' Jump Shot,,
+0020100547,220,4,0,2,10:08 PM,0:51,Smith REBOUND (Off:0 Def:2),,,,
+0020100547,221,1,5,2,10:08 PM,0:33,Smith 2' Layup (9 PTS),,,49 - 48,-1
+0020100547,222,1,1,2,10:08 PM,0:19,,,Starks 24' 3PT Jump Shot (5 PTS) (Kirilenko 2 AST),52 - 48,-4
+0020100547,223,2,1,2,10:09 PM,0:02,MISS Rose 12' Jump Shot,,,,
+0020100547,224,4,0,2,10:09 PM,0:01,,,Malone REBOUND (Off:3 Def:6),,
+0020100547,225,13,0,2,10:09 PM,0:00,,,,52 - 48,-4
+0020100547,227,12,0,3,10:28 PM,12:00,,,,52 - 48,-4
+0020100547,228,1,1,3,10:28 PM,11:46,Smith 8' Jump Shot (11 PTS) (Duncan 2 AST),,,52 - 50,-2
+0020100547,229,6,1,3,10:29 PM,11:26,Robinson P.FOUL (P3.T1),,,,
+0020100547,230,6,2,3,10:29 PM,11:17,Duncan S.FOUL (P2.T2),,,,
+0020100547,231,3,11,3,10:29 PM,11:17,,,Collins Free Throw 1 of 2 (6 PTS),53 - 50,-3
+0020100547,232,3,12,3,10:29 PM,11:17,,,Collins Free Throw 2 of 2 (7 PTS),54 - 50,-4
+0020100547,233,1,8,3,10:30 PM,11:07,Daniels  Slam Dunk (11 PTS),,,54 - 52,-2
+0020100547,234,2,5,3,10:30 PM,10:55,Duncan BLOCK (4 BLK),,MISS Kirilenko  Layup,,
+0020100547,235,4,0,3,10:30 PM,10:52,Duncan REBOUND (Off:2 Def:5),,,,
+0020100547,236,2,1,3,10:30 PM,10:46,MISS Smith 24' 3PT Jump Shot,,,,
+0020100547,237,4,0,3,10:30 PM,10:44,,,Collins REBOUND (Off:0 Def:3),,
+0020100547,238,5,2,3,10:30 PM,10:37,Smith STEAL (1 STL),,Stockton Lost Ball Turnover (P2.T8),,
+0020100547,239,1,8,3,10:30 PM,10:32,Daniels  Slam Dunk (13 PTS) (Smith 1 AST),,,54 - 54,TIE
+0020100547,240,1,47,3,10:31 PM,10:05,,,Collins 3' Turnaround Jump Shot (9 PTS),56 - 54,-2
+0020100547,241,5,2,3,10:31 PM,9:51,Smith Lost Ball Turnover (P2.T6),,Kirilenko STEAL (4 STL),,
+0020100547,242,6,1,3,10:31 PM,9:48,Robinson P.FOUL (P4.T3),,,,
+0020100547,243,8,0,3,10:31 PM,9:48,SUB: Rose FOR Robinson,,,,
+0020100547,244,1,1,3,10:32 PM,9:37,,,Collins 15' Jump Shot (11 PTS),58 - 54,-4
+0020100547,245,1,46,3,10:32 PM,9:23,Daniels 9' Running Jump Shot (15 PTS),,,58 - 56,-2
+0020100547,246,2,1,3,10:32 PM,9:04,,,MISS Stockton 19' Jump Shot,,
+0020100547,247,4,0,3,10:32 PM,9:02,Smith REBOUND (Off:0 Def:3),,,,
+0020100547,248,6,4,3,10:32 PM,8:58,Daniels OFF.Foul (P1),,,,
+0020100547,249,5,5,3,10:32 PM,8:58,Daniels Foul Turnover (P2.T7),,,,
+0020100547,250,6,2,3,10:33 PM,8:43,Rose S.FOUL (P1.T4),,,,
+0020100547,251,9,2,3,10:33 PM,8:43,,,Jazz Timeout: Short (Reg.2 Short 1),,
+0020100547,253,8,0,3,10:34 PM,8:43,,,SUB: Starks FOR Stockton,,
+0020100547,254,3,11,3,10:35 PM,8:43,,,Malone Free Throw 1 of 2 (16 PTS),59 - 56,-3
+0020100547,255,3,12,3,10:35 PM,8:43,,,Malone Free Throw 2 of 2 (17 PTS),60 - 56,-4
+0020100547,256,2,1,3,10:35 PM,8:26,MISS Smith 25' 3PT Jump Shot,,,,
+0020100547,258,4,0,3,10:35 PM,8:23,Smith REBOUND (Off:1 Def:0),,,,
+0020100547,257,2,64,3,10:35 PM,8:23,MISS Smith  Follow Up Dunk,,,,
+0020100547,259,4,0,3,10:36 PM,8:18,Daniels REBOUND (Off:2 Def:2),,,,
+0020100547,260,2,1,3,10:36 PM,8:10,MISS Daniels 25' 3PT Jump Shot,,,,
+0020100547,261,4,0,3,10:36 PM,8:08,,,Collins REBOUND (Off:0 Def:4),,
+0020100547,262,2,47,3,10:36 PM,7:53,,,MISS Malone 15' Turnaround Jump Shot,,
+0020100547,263,4,0,3,10:36 PM,7:50,Smith REBOUND (Off:0 Def:4),,,,
+0020100547,264,5,1,3,10:36 PM,7:45,Smith Bad Pass Turnover (P1.T8),,Kirilenko STEAL (5 STL),,
+0020100547,265,1,7,3,10:36 PM,7:40,,,Kirilenko 2' Dunk (14 PTS) (Starks 1 AST),62 - 56,-6
+0020100547,266,6,17,3,10:37 PM,7:22,,,Jazz T.Foul (Def. 3 Sec Starks ),,
+0020100547,267,8,0,3,10:37 PM,7:22,,,SUB: Stockton FOR Starks,,
+0020100547,268,3,16,3,10:37 PM,7:22,Smith Free Throw Technical (3 PTS),,,62 - 57,-5
+0020100547,269,2,1,3,10:37 PM,7:12,MISS Rose 18' Jump Shot,,,,
+0020100547,270,4,0,3,10:37 PM,7:10,,,Stevenson REBOUND (Off:0 Def:1),,
+0020100547,271,6,1,3,10:38 PM,7:03,Rose P.FOUL (P2.PN),,,,
+0020100547,272,3,11,3,10:38 PM,7:03,,,MISS Malone Free Throw 1 of 2,,
+0020100547,273,4,1,3,10:38 PM,7:03,,,Jazz Rebound,,
+0020100547,274,3,12,3,10:38 PM,7:03,,,Malone Free Throw 2 of 2 (18 PTS),63 - 57,-6
+0020100547,275,1,1,3,10:39 PM,6:51,Duncan 8' Jump Shot (19 PTS),,,63 - 59,-4
+0020100547,276,2,1,3,10:39 PM,6:34,,,MISS Collins 6' Jump Shot,,
+0020100547,278,4,0,3,10:39 PM,6:32,,,Collins REBOUND (Off:1 Def:4),,
+0020100547,277,2,1,3,10:39 PM,6:32,,,MISS Collins 3' Jump Shot,,
+0020100547,279,4,0,3,10:39 PM,6:30,Rose REBOUND (Off:0 Def:1),,,,
+0020100547,280,1,5,3,10:39 PM,6:19,Duncan 1' Layup (21 PTS),,,63 - 61,-2
+0020100547,281,2,1,3,10:40 PM,6:02,,,MISS Stevenson 19' Jump Shot,,
+0020100547,282,4,0,3,10:40 PM,6:00,Duncan REBOUND (Off:2 Def:6),,,,
+0020100547,283,5,2,3,10:40 PM,5:52,Smith Lost Ball Turnover (P3.T9),,Kirilenko STEAL (6 STL),,
+0020100547,284,1,7,3,10:40 PM,5:49,,,Kirilenko 1' Dunk (16 PTS),65 - 61,-4
+0020100547,285,1,5,3,10:40 PM,5:28,Smith 1' Layup (5 PTS),,,65 - 63,-2
+0020100547,286,7,1,3,10:40 PM,5:26,SPURS Violation: Delay of game Violation,,,,
+0020100547,287,2,1,3,10:41 PM,5:08,,,MISS Malone 15' Jump Shot,,
+0020100547,288,4,0,3,10:41 PM,5:06,,,Collins REBOUND (Off:2 Def:4),,
+0020100547,289,2,5,3,10:41 PM,5:05,Rose BLOCK (2 BLK),,MISS Collins 1' Layup,,
+0020100547,290,4,0,3,10:41 PM,5:02,Smith REBOUND (Off:1 Def:1),,,,
+0020100547,291,1,7,3,10:41 PM,4:57,Rose 1' Dunk (2 PTS) (Daniels 4 AST),,,65 - 65,TIE
+0020100547,292,2,1,3,10:41 PM,4:41,,,MISS Malone 19' Jump Shot,,
+0020100547,293,4,0,3,10:41 PM,4:39,,,Collins REBOUND (Off:3 Def:4),,
+0020100547,294,1,8,3,10:41 PM,4:32,,,Stevenson 1' Slam Dunk (8 PTS) (Kirilenko 3 AST),67 - 65,-2
+0020100547,295,6,2,3,10:42 PM,4:12,,,Malone S.FOUL (P3.T1),,
+0020100547,296,9,1,3,10:42 PM,4:12,SPURS Timeout: Regular (Full 3 Short 0),,,,
+0020100547,297,8,0,3,10:44 PM,4:12,,,SUB: Starks FOR Stockton,,
+0020100547,298,3,11,3,10:44 PM,4:12,Duncan Free Throw 1 of 2 (22 PTS),,,67 - 66,-1
+0020100547,299,3,12,3,10:44 PM,4:12,Duncan Free Throw 2 of 2 (23 PTS),,,67 - 67,TIE
+0020100547,300,1,47,3,10:45 PM,3:50,,,Malone 16' Turnaround Jump Shot (20 PTS),69 - 67,-2
+0020100547,301,1,47,3,10:46 PM,3:27,Smith 8' Turnaround Jump Shot (7 PTS) (Daniels 5 AST),,,69 - 69,TIE
+0020100547,302,2,1,3,10:46 PM,3:05,,,MISS Starks 24' 3PT Jump Shot,,
+0020100547,303,4,0,3,10:46 PM,3:02,,,Kirilenko REBOUND (Off:3 Def:3),,
+0020100547,304,6,2,3,10:46 PM,3:01,Rose S.FOUL (P3.PN),,,,
+0020100547,305,3,11,3,10:46 PM,3:01,,,Kirilenko Free Throw 1 of 2 (17 PTS),70 - 69,-1
+0020100547,306,3,12,3,10:46 PM,3:01,,,Kirilenko Free Throw 2 of 2 (18 PTS),71 - 69,-2
+0020100547,307,2,5,3,10:47 PM,2:44,MISS Smith  Layup,,,,
+0020100547,308,4,0,3,10:47 PM,2:44,,,Jazz Rebound,,
+0020100547,310,9,1,3,10:50 PM,2:44,,,Jazz Timeout: Regular (Reg.3 Short 1),,
+0020100547,311,6,4,3,10:50 PM,2:34,,,Starks OFF.Foul (P2),,
+0020100547,312,5,5,3,10:50 PM,2:34,,,Starks Foul Turnover (P1.T9),,
+0020100547,313,8,0,3,10:50 PM,2:34,SUB: Porter FOR Daniels,,,,
+0020100547,314,5,1,3,10:51 PM,2:17,Smith Bad Pass Turnover (P4.T10),,Malone STEAL (1 STL),,
+0020100547,315,5,2,3,10:51 PM,2:08,Smith STEAL (1 STL),,Starks Lost Ball Turnover (P2.T10),,
+0020100547,316,1,42,3,10:51 PM,1:53,Smith 1' Driving Layup (13 PTS) (Duncan 3 AST),,,71 - 71,TIE
+0020100547,317,5,11,3,10:51 PM,1:26,,,Jazz Turnover: Shot Clock (T#11),,
+0020100547,318,8,0,3,10:52 PM,1:26,,,SUB: Russell FOR Kirilenko,,
+0020100547,319,6,1,3,10:52 PM,1:09,,,Collins P.FOUL (P4.T2),,
+0020100547,320,8,0,3,10:52 PM,1:09,,,SUB: Ostertag FOR Collins,,
+0020100547,321,1,5,3,10:53 PM,0:58,Duncan  Layup (25 PTS),,,71 - 73,2
+0020100547,322,1,1,3,10:53 PM,0:46,,,Malone 16' Jump Shot (22 PTS),73 - 73,TIE
+0020100547,323,2,5,3,10:53 PM,0:26,MISS Porter  Layup,,Ostertag BLOCK (1 BLK),,
+0020100547,324,4,0,3,10:53 PM,0:23,,,Malone REBOUND (Off:3 Def:7),,
+0020100547,325,2,1,3,10:54 PM,0:03,,,MISS Stevenson 17' Jump Shot,,
+0020100547,326,4,0,3,10:54 PM,0:01,Smith REBOUND (Off:0 Def:5),,,,
+0020100547,327,13,0,3,10:54 PM,0:00,,,,73 - 73,TIE
+0020100547,329,12,0,4,10:57 PM,12:00,,,,73 - 73,TIE
+0020100547,330,5,1,4,10:58 PM,11:49,Smith STEAL (2 STL),,Malone Bad Pass Turnover (P2.T12),,
+0020100547,331,6,2,4,10:58 PM,11:46,,,Starks S.FOUL (P3.T1),,
+0020100547,332,3,11,4,10:58 PM,11:46,Smith Free Throw 1 of 2 (14 PTS),,,73 - 74,1
+0020100547,333,3,12,4,10:58 PM,11:46,Smith Free Throw 2 of 2 (15 PTS),,,73 - 75,2
+0020100547,334,2,1,4,10:59 PM,11:27,,,MISS Stockton 18' Jump Shot,,
+0020100547,335,4,0,4,10:59 PM,11:25,Smith REBOUND (Off:0 Def:6),,,,
+0020100547,336,2,47,4,10:59 PM,11:06,MISS Duncan 9' Turnaround Jump Shot,,,,
+0020100547,337,4,0,4,10:59 PM,11:03,,,Malone REBOUND (Off:3 Def:8),,
+0020100547,338,6,1,4,10:59 PM,10:54,Rose P.FOUL (P4.T1),,,,
+0020100547,339,1,1,4,11:00 PM,10:41,,,Ostertag 9' Jump Shot (2 PTS) (Malone 5 AST),75 - 75,TIE
+0020100547,340,1,46,4,11:00 PM,10:24,Smith 6' Running Jump Shot (17 PTS),,,75 - 77,2
+0020100547,341,6,2,4,11:01 PM,10:09,Jackson S.FOUL (P1.T2),,,,
+0020100547,342,8,0,4,11:01 PM,10:09,SUB: Robinson FOR Rose,,,,
+0020100547,343,3,11,4,11:01 PM,10:09,,,Russell Free Throw 1 of 2 (1 PTS),76 - 77,1
+0020100547,344,3,12,4,11:01 PM,10:09,,,Russell Free Throw 2 of 2 (2 PTS),77 - 77,TIE
+0020100547,345,2,1,4,11:02 PM,9:57,MISS Smith 15' Jump Shot,,,,
+0020100547,346,4,0,4,11:02 PM,9:55,Robinson REBOUND (Off:4 Def:3),,,,
+0020100547,347,1,1,4,11:02 PM,9:51,Jackson 24' 3PT Jump Shot (9 PTS) (Smith 1 AST),,,77 - 80,3
+0020100547,348,5,1,4,11:02 PM,9:37,Robinson STEAL (2 STL),,Malone Bad Pass Turnover (P3.T13),,
+0020100547,349,1,5,4,11:02 PM,9:30,Smith 1' Layup (19 PTS),,,77 - 82,5
+0020100547,350,9,1,4,11:02 PM,9:22,,,Jazz Timeout: Regular (Reg.4 Short 1),,
+0020100547,352,8,0,4,11:04 PM,9:22,SUB: Daniels FOR Smith,,,,
+0020100547,353,8,0,4,11:04 PM,9:22,,,SUB: Kirilenko FOR Starks,,
+0020100547,354,2,1,4,11:05 PM,9:15,,,MISS Malone 18' Jump Shot,,
+0020100547,355,4,0,4,11:05 PM,9:13,,,Stockton REBOUND (Off:2 Def:1),,
+0020100547,356,2,5,4,11:05 PM,9:09,Duncan BLOCK (5 BLK),,MISS Ostertag  Layup,,
+0020100547,357,4,0,4,11:05 PM,9:06,Porter REBOUND (Off:0 Def:1),,,,
+0020100547,359,1,1,4,11:05 PM,8:54,Jackson 24' 3PT Jump Shot (12 PTS),,,77 - 85,8
+0020100547,360,6,2,4,11:05 PM,8:38,Jackson S.FOUL (P2.T3),,,,
+0020100547,361,3,11,4,11:06 PM,8:38,,,Kirilenko Free Throw 1 of 2 (19 PTS),78 - 85,7
+0020100547,362,8,0,4,11:06 PM,8:38,,,SUB: Collins FOR Ostertag,,
+0020100547,363,3,12,4,11:06 PM,8:38,,,MISS Kirilenko Free Throw 2 of 2,,
+0020100547,364,4,0,4,11:06 PM,8:37,SPURS Rebound,,,,
+0020100547,365,6,2,4,11:07 PM,8:26,,,Collins S.FOUL (P5.T2),,
+0020100547,366,3,11,4,11:07 PM,8:26,Duncan Free Throw 1 of 2 (26 PTS),,,78 - 86,8
+0020100547,367,3,12,4,11:07 PM,8:26,Duncan Free Throw 2 of 2 (27 PTS),,,78 - 87,9
+0020100547,368,6,2,4,11:08 PM,8:11,Duncan S.FOUL (P3.T4),,,,
+0020100547,369,3,11,4,11:08 PM,8:11,,,Malone Free Throw 1 of 2 (23 PTS),79 - 87,8
+0020100547,370,3,12,4,11:08 PM,8:11,,,Malone Free Throw 2 of 2 (24 PTS),80 - 87,7
+0020100547,371,2,1,4,11:09 PM,7:52,MISS Duncan 7' Jump Shot,,,,
+0020100547,372,4,0,4,11:09 PM,7:49,,,Russell REBOUND (Off:0 Def:2),,
+0020100547,373,6,17,4,11:09 PM,7:41,SPURS T.Foul (Def. 3 Sec Robinson ),,,,
+0020100547,374,3,16,4,11:09 PM,7:41,,,Stockton Free Throw Technical (7 PTS),81 - 87,6
+0020100547,375,1,41,4,11:10 PM,7:33,,,Stockton 1' Running Layup (9 PTS),83 - 87,4
+0020100547,376,6,17,4,11:10 PM,7:13,,,Jazz T.Foul (Def. 3 Sec Stockton ),,
+0020100547,377,3,16,4,11:10 PM,7:13,Porter Free Throw Technical (2 PTS),,,83 - 88,5
+0020100547,378,8,0,4,11:10 PM,7:13,SUB: Smith FOR Porter,,,,
+0020100547,379,2,1,4,11:11 PM,7:04,MISS Duncan 11' Jump Shot,,,,
+0020100547,380,4,0,4,11:11 PM,7:01,,,Malone REBOUND (Off:3 Def:9),,
+0020100547,381,6,2,4,11:11 PM,6:39,Daniels S.FOUL (P2.PN),,,,
+0020100547,382,3,11,4,11:11 PM,6:39,,,Malone Free Throw 1 of 2 (25 PTS),84 - 88,4
+0020100547,383,3,12,4,11:12 PM,6:39,,,Malone Free Throw 2 of 2 (26 PTS),85 - 88,3
+0020100547,384,1,1,4,11:13 PM,6:20,Duncan 7' Jump Shot (29 PTS),,,85 - 90,5
+0020100547,385,7,5,4,11:13 PM,5:59,Robinson Violation:Kicked Ball,,,,
+0020100547,386,9,3,4,11:13 PM,5:59,,,,,
+0020100547,388,8,0,4,11:15 PM,5:59,SUB: Smith FOR Jackson,,,,
+0020100547,389,2,1,4,11:16 PM,5:47,,,MISS Russell 25' 3PT Jump Shot,,
+0020100547,390,4,0,4,11:16 PM,5:45,Daniels REBOUND (Off:2 Def:3),,,,
+0020100547,391,2,1,4,11:16 PM,5:24,MISS Daniels 20' Jump Shot,,,,
+0020100547,392,4,0,4,11:16 PM,5:22,,,Malone REBOUND (Off:3 Def:10),,
+0020100547,393,2,1,4,11:16 PM,5:05,,,MISS Stockton 24' 3PT Jump Shot,,
+0020100547,394,4,0,4,11:16 PM,5:04,SPURS Rebound,,,,
+0020100547,395,2,1,4,11:17 PM,4:49,MISS Duncan 3' Jump Shot,,,,
+0020100547,396,4,0,4,11:17 PM,4:46,,,Kirilenko REBOUND (Off:3 Def:4),,
+0020100547,397,1,5,4,11:17 PM,4:41,,,Kirilenko 1' Layup (21 PTS),87 - 90,3
+0020100547,398,2,1,4,11:17 PM,4:19,MISS Smith 25' 3PT Jump Shot,,,,
+0020100547,399,4,0,4,11:17 PM,4:17,,,Collins REBOUND (Off:3 Def:5),,
+0020100547,400,2,5,4,11:17 PM,4:10,,,MISS Russell  Layup,,
+0020100547,402,4,0,4,11:18 PM,4:07,,,Collins REBOUND (Off:4 Def:5),,
+0020100547,401,2,53,4,11:18 PM,4:07,,,MISS Collins  Tip Shot,,
+0020100547,403,4,0,4,11:18 PM,4:06,,,Jazz Rebound,,
+0020100547,404,1,5,4,11:18 PM,3:57,,,Stockton 1' Layup (11 PTS),89 - 90,1
+0020100547,405,9,1,4,11:18 PM,3:52,SPURS Timeout: Regular (Full 4 Short 0),,,,
+0020100547,407,6,2,4,11:21 PM,3:44,,,Russell S.FOUL (P2.T3),,
+0020100547,408,3,11,4,11:21 PM,3:44,Duncan Free Throw 1 of 2 (30 PTS),,,89 - 91,2
+0020100547,409,3,12,4,11:21 PM,3:44,Duncan Free Throw 2 of 2 (31 PTS),,,89 - 92,3
+0020100547,410,1,1,4,11:22 PM,3:31,,,Stockton 19' Jump Shot (13 PTS),91 - 92,1
+0020100547,411,1,1,4,11:22 PM,3:10,Smith  3PT Jump Shot (10 PTS) (Daniels 6 AST),,,91 - 95,4
+0020100547,412,2,1,4,11:22 PM,2:45,,,MISS Malone 18' Jump Shot,,
+0020100547,413,4,0,4,11:23 PM,2:45,,,Jazz Rebound,,
+0020100547,414,6,3,4,11:23 PM,2:45,Smith L.B.FOUL (P2.PN),,,,
+0020100547,415,3,11,4,11:23 PM,2:45,,,Kirilenko Free Throw 1 of 2 (22 PTS),92 - 95,3
+0020100547,416,3,12,4,11:23 PM,2:45,,,MISS Kirilenko Free Throw 2 of 2,,
+0020100547,417,4,0,4,11:23 PM,2:44,Robinson REBOUND (Off:4 Def:4),,,,
+0020100547,418,1,47,4,11:23 PM,2:27,Duncan 8' Turnaround Jump Shot (33 PTS),,,92 - 97,5
+0020100547,419,1,5,4,11:24 PM,2:12,,,Malone  Layup (28 PTS) (Stockton 3 AST),94 - 97,3
+0020100547,420,1,47,4,11:24 PM,1:57,Daniels 7' Turnaround Jump Shot (17 PTS),,,94 - 99,5
+0020100547,421,1,1,4,11:24 PM,1:39,,,Malone 17' Jump Shot (30 PTS) (Stockton 4 AST),96 - 99,3
+0020100547,422,2,1,4,11:25 PM,1:14,MISS Robinson 15' Jump Shot,,,,
+0020100547,424,4,0,4,11:25 PM,1:12,Robinson REBOUND (Off:5 Def:4),,,,
+0020100547,423,2,53,4,11:25 PM,1:12,MISS Robinson 2' Tip Shot,,,,
+0020100547,425,4,0,4,11:25 PM,1:10,,,Stockton REBOUND (Off:2 Def:2),,
+0020100547,426,6,4,4,11:25 PM,1:07,,,Russell OFF.Foul (P3),,
+0020100547,427,5,5,4,11:25 PM,1:07,,,Russell Foul Turnover (P3.T14),,
+0020100547,428,6,1,4,11:26 PM,0:46,,,Collins P.FOUL (P6.T4),,
+0020100547,429,8,0,4,11:26 PM,0:46,,,SUB: Padgett FOR Collins,,
+0020100547,430,2,1,4,11:27 PM,0:21,MISS Daniels 26' 3PT Jump Shot,,,,
+0020100547,431,4,0,4,11:27 PM,0:19,,,Malone REBOUND (Off:3 Def:11),,
+0020100547,432,1,7,4,11:27 PM,0:17,,,Kirilenko 1' Dunk (24 PTS) (Malone 6 AST),98 - 99,1
+0020100547,433,6,1,4,11:27 PM,0:16,,,Stockton P.FOUL (P4.PN),,
+0020100547,434,3,11,4,11:27 PM,0:16,Daniels Free Throw 1 of 2 (18 PTS),,,98 - 100,2
+0020100547,435,3,12,4,11:28 PM,0:16,MISS Daniels Free Throw 2 of 2,,,,
+0020100547,436,4,0,4,11:28 PM,0:15,Duncan REBOUND (Off:3 Def:6),,,,
+0020100547,437,6,1,4,11:28 PM,0:15,,,Padgett P.FOUL (P2.PN),,
+0020100547,438,3,11,4,11:29 PM,0:15,Duncan Free Throw 1 of 2 (34 PTS),,,98 - 101,3
+0020100547,440,8,0,4,11:29 PM,0:15,,,SUB: Ostertag FOR Padgett,,
+0020100547,441,3,12,4,11:29 PM,0:15,Duncan Free Throw 2 of 2 (35 PTS),,,98 - 102,4
+0020100547,442,9,1,4,11:29 PM,0:15,,,Jazz Timeout: Regular (Reg.5 Short 1),,
+0020100547,444,8,0,4,11:31 PM,0:15,,,SUB: Padgett FOR Ostertag,,
+0020100547,445,2,1,4,11:31 PM,0:08,,,MISS Kirilenko 25' 3PT Jump Shot,,
+0020100547,446,4,0,4,11:31 PM,0:06,,,Russell REBOUND (Off:1 Def:2),,
+0020100547,447,2,1,4,11:31 PM,0:04,,,MISS Padgett 24' 3PT Jump Shot,,
+0020100547,448,4,0,4,11:31 PM,0:02,,,Kirilenko REBOUND (Off:4 Def:4),,
+0020100547,449,2,1,4,11:31 PM,0:01,,,MISS Padgett 24' 3PT Jump Shot,,
+0020100547,450,4,0,4,11:31 PM,0:00,Duncan REBOUND (Off:3 Def:7),,,,
+0020100547,451,13,0,4,11:31 PM,0:00,,,,98 - 102,4

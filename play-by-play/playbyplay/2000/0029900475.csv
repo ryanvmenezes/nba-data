@@ -1,0 +1,483 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029900475,0,12,0,1,7:08 AM,12:00,,,,,
+0029900475,1,10,0,1,7:08 AM,12:00,Jump Ball Davis vs. Reeves: Tip to Oakley,,,,
+0029900475,2,6,1,1,7:09 AM,11:47,,,Reeves P.FOUL (P1.T1),,
+0029900475,3,1,1,1,7:09 AM,11:40,Davis 14' Jump Shot (2 PTS) (Carter 1 AST),,,0 - 2,2
+0029900475,5,1,1,1,7:09 AM,11:24,,,Dickerson 16' Jump Shot (2 PTS) (Bibby 1 AST),2 - 2,TIE
+0029900475,6,6,2,1,7:09 AM,11:24,Christie S.FOUL (P1.T1),,,,
+0029900475,7,3,10,1,7:10 AM,11:24,,,MISS Dickerson Free Throw 1 of 1,,
+0029900475,8,4,0,1,7:10 AM,11:24,Oakley REBOUND (Off:0 Def:1),,,,
+0029900475,9,1,1,1,7:10 AM,11:11,Oakley 19' Jump Shot (2 PTS) (Williams 1 AST),,,2 - 4,2
+0029900475,10,1,1,1,7:10 AM,10:46,,,Reeves 15' Jump Shot (2 PTS) (Abdur-Rahim 1 AST),4 - 4,TIE
+0029900475,11,1,1,1,7:11 AM,10:32,Carter 12' Jump Shot (2 PTS) (Williams 2 AST),,,4 - 6,2
+0029900475,12,2,3,1,7:11 AM,10:12,,,MISS Harrington 10' Hook Shot,,
+0029900475,13,4,0,1,7:11 AM,10:09,,,Abdur-Rahim REBOUND (Off:1 Def:0),,
+0029900475,14,2,7,1,7:11 AM,10:07,Carter BLOCK (1 BLK),,MISS Abdur-Rahim  Dunk,,
+0029900475,15,4,0,1,7:11 AM,10:05,Davis REBOUND (Off:0 Def:1),,,,
+0029900475,16,1,1,1,7:11 AM,9:57,Carter 18' Jump Shot (4 PTS) (Oakley 1 AST),,,4 - 8,4
+0029900475,17,1,7,1,7:12 AM,9:39,,,Reeves  Dunk (4 PTS) (Bibby 2 AST),6 - 8,2
+0029900475,18,2,6,1,7:12 AM,9:18,MISS Christie  Driving Layup,,Dickerson BLOCK (1 BLK),,
+0029900475,19,4,0,1,7:12 AM,9:15,Christie REBOUND (Off:1 Def:0),,,,
+0029900475,20,1,5,1,7:12 AM,9:13,Christie  Layup (2 PTS),,,6 - 10,4
+0029900475,22,6,2,1,7:12 AM,8:57,Davis S.FOUL (P1.T2),,,,
+0029900475,23,3,11,1,7:13 AM,8:57,,,Abdur-Rahim Free Throw 1 of 2 (1 PTS),7 - 10,3
+0029900475,24,3,12,1,7:13 AM,8:57,,,Abdur-Rahim Free Throw 2 of 2 (2 PTS),8 - 10,2
+0029900475,25,1,8,1,7:13 AM,8:48,Carter  Slam Dunk (6 PTS) (Christie 1 AST),,,8 - 12,4
+0029900475,26,2,1,1,7:14 AM,8:25,,,MISS Harrington 15' Jump Shot,,
+0029900475,27,4,0,1,7:14 AM,8:23,Carter REBOUND (Off:0 Def:1),,,,
+0029900475,28,1,2,1,7:14 AM,8:17,Carter 9' Running Jump Shot (8 PTS),,,8 - 14,6
+0029900475,29,9,1,1,7:14 AM,8:07,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,
+0029900475,33,2,1,1,7:17 AM,7:56,Oakley BLOCK (1 BLK),,MISS Reeves 10' Jump Shot,,
+0029900475,34,4,0,1,7:17 AM,7:55,Oakley REBOUND (Off:0 Def:2),,,,
+0029900475,35,2,5,1,7:17 AM,7:40,MISS Davis  Layup,,,,
+0029900475,36,4,0,1,7:17 AM,7:39,,,Harrington REBOUND (Off:0 Def:1),,
+0029900475,37,1,2,1,7:18 AM,7:22,,,Abdur-Rahim 7' Running Jump Shot (4 PTS),10 - 14,4
+0029900475,38,6,2,1,7:18 AM,7:03,,,Harrington S.FOUL (P1.T2),,
+0029900475,39,3,11,1,7:18 AM,7:03,Davis Free Throw 1 of 2 (3 PTS),,,10 - 15,5
+0029900475,40,3,12,1,7:18 AM,7:03,Davis Free Throw 2 of 2 (4 PTS),,,10 - 16,6
+0029900475,42,2,1,1,7:19 AM,6:52,,,MISS Dickerson 17' Jump Shot,,
+0029900475,43,4,0,1,7:19 AM,6:50,Oakley REBOUND (Off:0 Def:3),,,,
+0029900475,44,5,2,1,7:19 AM,6:44,Christie Lost Ball Turnover (P1.T1),,Bibby STEAL (1 STL),,
+0029900475,45,5,2,1,7:19 AM,6:33,Carter STEAL (1 STL),,Bibby Lost Ball Turnover (P1.T1),,
+0029900475,46,1,7,1,7:19 AM,6:28,Christie  Dunk (4 PTS) (Carter 2 AST),,,10 - 18,8
+0029900475,47,2,1,1,7:20 AM,6:08,,,MISS Reeves 12' Jump Shot,,
+0029900475,48,4,0,1,7:20 AM,6:07,Davis REBOUND (Off:0 Def:2),,,,
+0029900475,49,2,1,1,7:20 AM,5:52,MISS Oakley 17' Jump Shot,,,,
+0029900475,50,4,0,1,7:20 AM,5:51,,,Reeves REBOUND (Off:0 Def:1),,
+0029900475,51,1,5,1,7:20 AM,5:36,,,Reeves  Layup (6 PTS) (Harrington 1 AST),12 - 18,6
+0029900475,52,6,1,1,7:20 AM,5:18,,,Abdur-Rahim P.FOUL (P1.T3),,
+0029900475,53,2,1,1,7:21 AM,5:12,MISS Carter 16' Jump Shot,,,,
+0029900475,54,4,0,1,7:21 AM,5:09,,,Reeves REBOUND (Off:0 Def:2),,
+0029900475,55,2,1,1,7:21 AM,5:02,,,MISS Reeves 16' Jump Shot,,
+0029900475,56,4,0,1,7:21 AM,5:00,Oakley REBOUND (Off:0 Def:4),,,,
+0029900475,57,1,1,1,7:21 AM,4:54,Oakley 17' Jump Shot (4 PTS) (Christie 2 AST),,,12 - 20,8
+0029900475,59,6,1,1,7:22 AM,4:32,Williams P.FOUL (P1.T3),,,,
+0029900475,60,1,5,1,7:22 AM,4:26,,,Dickerson  Layup (4 PTS) (Bibby 3 AST),14 - 20,6
+0029900475,61,5,1,1,7:22 AM,4:13,Oakley Bad Pass Turnover (P1.T2),,Reeves STEAL (1 STL),,
+0029900475,62,1,8,1,7:22 AM,4:08,,,Dickerson  Slam Dunk (6 PTS) (Bibby 4 AST),16 - 20,4
+0029900475,63,1,6,1,7:23 AM,3:49,Davis  Driving Layup (6 PTS) (Christie 3 AST),,,16 - 22,6
+0029900475,64,1,1,1,7:23 AM,3:34,,,Dickerson  3PT Jump Shot (9 PTS),19 - 22,3
+0029900475,65,2,1,1,7:23 AM,3:11,MISS Williams 24' 3PT Jump Shot,,,,
+0029900475,66,4,0,1,7:23 AM,3:09,,,Abdur-Rahim REBOUND (Off:1 Def:1),,
+0029900475,67,2,1,1,7:23 AM,3:03,,,MISS Bibby 21' Jump Shot,,
+0029900475,68,4,0,1,7:24 AM,3:01,Carter REBOUND (Off:0 Def:2),,,,
+0029900475,69,5,3,1,7:24 AM,2:56,Carter Out Of Bounds Turnover (P1.T3),,,,
+0029900475,70,9,3,1,7:24 AM,2:56,RAPTORS Timeout: Official TV (Full 0 Short 0),,,,
+0029900475,72,8,0,1,7:26 AM,2:56,SUB: Willis FOR Davis,,,,
+0029900475,73,1,1,1,7:27 AM,2:34,,,Reeves 12' Jump Shot (8 PTS),21 - 22,1
+0029900475,74,2,4,1,7:27 AM,2:17,MISS Carter  Tip Shot,,Abdur-Rahim BLOCK (1 BLK),,
+0029900475,75,4,0,1,7:27 AM,2:15,,,Bibby REBOUND (Off:0 Def:1),,
+0029900475,76,1,9,1,7:27 AM,2:11,,,Abdur-Rahim  Driving Dunk (6 PTS) (Bibby 5 AST),23 - 22,-1
+0029900475,77,2,1,1,7:27 AM,1:48,MISS Carter 19' Jump Shot,,Abdur-Rahim BLOCK (2 BLK),,
+0029900475,78,4,0,1,7:28 AM,1:47,,,Reeves REBOUND (Off:0 Def:3),,
+0029900475,79,2,1,1,7:28 AM,1:34,,,MISS Dickerson 16' Jump Shot,,
+0029900475,80,4,0,1,7:28 AM,1:32,Willis REBOUND (Off:0 Def:1),,,,
+0029900475,81,2,1,1,7:28 AM,1:24,MISS Williams 17' Jump Shot,,,,
+0029900475,82,4,0,1,7:28 AM,1:21,,,Bibby REBOUND (Off:0 Def:2),,
+0029900475,83,2,1,1,7:28 AM,1:15,,,MISS Dickerson 21' Jump Shot,,
+0029900475,84,4,0,1,7:28 AM,1:14,Williams REBOUND (Off:0 Def:1),,,,
+0029900475,85,1,1,1,7:28 AM,0:59,Oakley 14' Jump Shot (6 PTS) (Williams 3 AST),,,23 - 24,1
+0029900475,86,1,6,1,7:29 AM,0:46,,,Bibby  Driving Layup (2 PTS),25 - 24,-1
+0029900475,87,2,6,1,7:29 AM,0:39,MISS Williams  Driving Layup,,,,
+0029900475,88,4,0,1,7:29 AM,0:38,Willis REBOUND (Off:1 Def:1),,,,
+0029900475,89,1,5,1,7:29 AM,0:37,Willis  Layup (2 PTS),,,25 - 26,1
+0029900475,91,9,2,1,7:30 AM,0:17,,,Grizzlies Timeout: Short (Reg.1 Short 1),,
+0029900475,92,8,0,1,7:30 AM,0:17,,,SUB: Long FOR Harrington,,
+0029900475,93,8,0,1,7:30 AM,0:17,,,SUB: Carr FOR Reeves,,
+0029900475,94,8,0,1,7:31 AM,0:17,SUB: Bogues FOR Oakley,,,,
+0029900475,95,8,0,1,7:31 AM,0:17,SUB: Thomas FOR Christie,,,,
+0029900475,96,2,1,1,7:31 AM,0:13,,,MISS Dickerson 24' 3PT Jump Shot,,
+0029900475,97,4,0,1,7:31 AM,0:13,,,Grizzlies Rebound,,
+0029900475,98,5,11,1,7:31 AM,0:13,,,Grizzlies Turnover: Shot Clock (T#2),,
+0029900475,99,8,0,1,7:31 AM,0:13,,,SUB: Lopez FOR Abdur-Rahim,,
+0029900475,101,2,1,1,7:31 AM,0:01,MISS Bogues 19' Jump Shot,,,,
+0029900475,102,4,0,1,7:31 AM,0:00,,,Carr REBOUND (Off:0 Def:1),,
+0029900475,103,13,0,1,7:32 AM,0:00,,,,25 - 26,1
+0029900475,105,12,0,2,7:35 AM,12:00,,,,25 - 26,1
+0029900475,107,1,1,2,7:35 AM,11:39,,,Dickerson 18' Jump Shot (11 PTS) (Lopez 1 AST),27 - 26,-1
+0029900475,108,6,2,2,7:35 AM,11:39,McGrady S.FOUL (P1.T1),,,,
+0029900475,109,3,10,2,7:35 AM,11:39,,,MISS Dickerson Free Throw 1 of 1,,
+0029900475,110,4,0,2,7:35 AM,11:39,Bogues REBOUND (Off:0 Def:1),,,,
+0029900475,112,6,1,2,7:36 AM,11:21,,,Lopez P.FOUL (P1.T1),,
+0029900475,113,2,1,2,7:36 AM,11:17,MISS Thomas 17' Jump Shot,,,,
+0029900475,114,4,0,2,7:36 AM,11:15,,,Carr REBOUND (Off:0 Def:2),,
+0029900475,115,1,1,2,7:36 AM,11:08,,,Bibby 18' Jump Shot (4 PTS),29 - 26,-3
+0029900475,116,2,1,2,7:37 AM,10:49,MISS Willis 16' Jump Shot,,,,
+0029900475,117,4,0,2,7:37 AM,10:47,,,Long REBOUND (Off:0 Def:1),,
+0029900475,118,6,2,2,7:37 AM,10:41,Bogues S.FOUL (P1.T2),,,,
+0029900475,119,3,11,2,7:37 AM,10:41,,,Lopez Free Throw 1 of 2 (1 PTS),30 - 26,-4
+0029900475,120,3,12,2,7:37 AM,10:41,,,Lopez Free Throw 2 of 2 (2 PTS),31 - 26,-5
+0029900475,121,6,2,2,7:38 AM,10:24,,,Carr S.FOUL (P1.T2),,
+0029900475,122,3,11,2,7:38 AM,10:24,Thomas Free Throw 1 of 2 (1 PTS),,,31 - 27,-4
+0029900475,123,3,12,2,7:38 AM,10:24,MISS Thomas Free Throw 2 of 2,,,,
+0029900475,124,4,0,2,7:38 AM,10:23,,,Long REBOUND (Off:0 Def:2),,
+0029900475,125,2,1,2,7:39 AM,10:08,,,MISS Long 19' Jump Shot,,
+0029900475,126,4,0,2,7:39 AM,10:06,Carter REBOUND (Off:0 Def:3),,,,
+0029900475,127,2,1,2,7:39 AM,9:57,MISS Carter 24' 3PT Jump Shot,,,,
+0029900475,128,4,0,2,7:39 AM,9:55,,,Long REBOUND (Off:0 Def:3),,
+0029900475,129,2,6,2,7:39 AM,9:49,,,MISS Bibby  Driving Layup,,
+0029900475,130,4,0,2,7:39 AM,9:47,Willis REBOUND (Off:1 Def:2),,,,
+0029900475,131,1,5,2,7:39 AM,9:40,McGrady  Layup (2 PTS) (Bogues 1 AST),,,31 - 29,-2
+0029900475,132,6,1,2,7:40 AM,9:18,Thomas P.FOUL (P1.T3),,,,
+0029900475,133,9,3,2,7:40 AM,9:18,,,,,
+0029900475,137,2,5,2,7:42 AM,9:10,,,MISS Carr  Layup,,
+0029900475,138,4,0,2,7:42 AM,9:07,,,Long REBOUND (Off:1 Def:3),,
+0029900475,139,6,2,2,7:42 AM,9:06,Thomas S.FOUL (P2.T4),,,,
+0029900475,140,8,0,2,7:43 AM,9:06,,,SUB: Palacio FOR Bibby,,
+0029900475,141,8,0,2,7:43 AM,9:06,SUB: Davis FOR Thomas,,,,
+0029900475,142,3,11,2,7:43 AM,9:06,,,MISS Long Free Throw 1 of 2,,
+0029900475,143,4,1,2,7:43 AM,9:06,,,Grizzlies Rebound,,
+0029900475,144,8,0,2,7:43 AM,9:06,SUB: Christie FOR Carter,,,,
+0029900475,145,8,0,2,7:43 AM,9:06,,,SUB: Abdur-Rahim FOR Dickerson,,
+0029900475,146,3,12,2,7:43 AM,9:06,,,Long Free Throw 2 of 2 (1 PTS),32 - 29,-3
+0029900475,147,6,2,2,7:44 AM,8:44,,,Long S.FOUL (P1.T3),,
+0029900475,148,3,11,2,7:44 AM,8:44,McGrady Free Throw 1 of 2 (3 PTS),,,32 - 30,-2
+0029900475,149,3,12,2,7:44 AM,8:44,McGrady Free Throw 2 of 2 (4 PTS),,,32 - 31,-1
+0029900475,150,2,1,2,7:45 AM,8:20,Davis BLOCK (1 BLK),,MISS Long 13' Jump Shot,,
+0029900475,151,4,0,2,7:45 AM,8:17,,,Lopez REBOUND (Off:1 Def:0),,
+0029900475,152,1,4,2,7:45 AM,8:15,,,Lopez  Tip Shot (4 PTS),34 - 31,-3
+0029900475,153,2,6,2,7:45 AM,7:57,MISS Willis  Driving Layup,,,,
+0029900475,154,4,0,2,7:45 AM,7:55,,,Carr REBOUND (Off:0 Def:3),,
+0029900475,155,1,1,2,7:46 AM,7:50,,,Abdur-Rahim 14' Jump Shot (8 PTS) (Palacio 1 AST),36 - 31,-5
+0029900475,157,5,1,2,7:46 AM,7:30,McGrady Bad Pass Turnover (P1.T4),,Lopez STEAL (1 STL),,
+0029900475,158,1,4,2,7:46 AM,7:25,,,Palacio  Tip Shot (2 PTS) (Abdur-Rahim 2 AST),38 - 31,-7
+0029900475,159,9,1,2,7:46 AM,7:15,RAPTORS Timeout: Regular (Full 1 Short 0),,,,
+0029900475,162,8,0,2,7:48 AM,7:15,SUB: Oakley FOR Willis,,,,
+0029900475,163,1,1,2,7:49 AM,7:01,Christie  3PT Jump Shot (7 PTS) (Oakley 2 AST),,,38 - 34,-4
+0029900475,164,5,2,2,7:49 AM,6:45,McGrady STEAL (1 STL),,Abdur-Rahim Lost Ball Turnover (P1.T3),,
+0029900475,165,9,2,2,7:49 AM,6:41,RAPTORS Timeout: Short (Full 1 Short 1),,,,
+0029900475,169,2,1,2,7:50 AM,6:24,MISS McGrady 17' Jump Shot,,Abdur-Rahim BLOCK (3 BLK),,
+0029900475,170,4,0,2,7:50 AM,6:22,,,Lopez REBOUND (Off:1 Def:1),,
+0029900475,171,5,4,2,7:51 AM,6:18,,,Lopez Traveling Turnover (P1.T4),,
+0029900475,172,6,2,2,7:51 AM,6:04,,,Lopez S.FOUL (P2.T4),,
+0029900475,173,8,0,2,7:51 AM,6:04,,,SUB: Harrington FOR Carr,,
+0029900475,174,3,11,2,7:51 AM,6:04,Davis Free Throw 1 of 2 (7 PTS),,,38 - 35,-3
+0029900475,175,3,12,2,7:52 AM,6:04,Davis Free Throw 2 of 2 (8 PTS),,,38 - 36,-2
+0029900475,176,7,2,2,7:52 AM,5:55,Oakley Violation:Defensive Goaltending,,,,
+0029900475,177,8,0,2,7:52 AM,5:55,,,SUB: Dickerson FOR Lopez,,
+0029900475,181,7,3,2,7:53 AM,5:48,Davis Violation:Lane,,,,
+0029900475,180,1,2,2,7:53 AM,5:48,,,Abdur-Rahim 8' Running Jump Shot (10 PTS),40 - 36,-4
+0029900475,182,6,13,2,7:53 AM,5:48,Davis HANGING.TECH.FOUL (P1.T4),,,,
+0029900475,183,3,16,2,7:53 AM,5:48,,,Dickerson Free Throw Technical (12 PTS),41 - 36,-5
+0029900475,185,5,2,2,7:54 AM,5:45,McGrady Lost Ball Turnover (P2.T5),,,,
+0029900475,186,2,1,2,7:54 AM,5:30,McGrady BLOCK (1 BLK),,MISS Abdur-Rahim 11' Jump Shot,,
+0029900475,187,4,0,2,7:54 AM,5:28,,,Harrington REBOUND (Off:1 Def:1),,
+0029900475,188,2,5,2,7:54 AM,5:27,McGrady BLOCK (2 BLK),,MISS Harrington  Layup,,
+0029900475,189,4,0,2,7:54 AM,5:25,,,Palacio REBOUND (Off:1 Def:0),,
+0029900475,190,2,1,2,7:54 AM,5:22,,,MISS Palacio 12' Jump Shot,,
+0029900475,191,4,0,2,7:54 AM,5:21,,,Dickerson REBOUND (Off:1 Def:0),,
+0029900475,193,1,3,2,7:55 AM,5:16,,,Harrington 8' Hook Shot (2 PTS) (Palacio 2 AST),43 - 36,-7
+0029900475,194,6,1,2,7:55 AM,5:04,,,Harrington P.FOUL (P2.PN),,
+0029900475,195,8,0,2,7:55 AM,5:04,SUB: Carter FOR Bogues,,,,
+0029900475,196,3,11,2,7:55 AM,5:04,MISS Davis Free Throw 1 of 2,,,,
+0029900475,197,4,1,2,7:55 AM,5:04,RAPTORS Rebound,,,,
+0029900475,198,8,0,2,7:56 AM,5:04,,,SUB: Bibby FOR Palacio,,
+0029900475,199,3,12,2,7:56 AM,5:04,Davis Free Throw 2 of 2 (9 PTS),,,43 - 37,-6
+0029900475,200,1,1,2,7:56 AM,4:41,,,Abdur-Rahim 10' Jump Shot (12 PTS),45 - 37,-8
+0029900475,202,2,3,2,7:57 AM,4:14,MISS Davis 9' Hook Shot,,,,
+0029900475,203,4,0,2,7:57 AM,4:12,Oakley REBOUND (Off:1 Def:4),,,,
+0029900475,204,1,4,2,7:57 AM,4:11,Oakley  Tip Shot (8 PTS),,,45 - 39,-6
+0029900475,205,1,3,2,7:57 AM,3:50,,,Harrington 9' Hook Shot (4 PTS),47 - 39,-8
+0029900475,206,6,10,2,7:57 AM,3:49,,,,,
+0029900475,208,6,16,2,7:58 AM,3:38,,,,,
+0029900475,209,6,1,2,7:58 AM,3:38,,,Abdur-Rahim P.FOUL (P2.PN),,
+0029900475,210,3,11,2,7:58 AM,3:38,Carter Free Throw 1 of 2 (9 PTS),,,47 - 40,-7
+0029900475,212,3,12,2,7:59 AM,3:38,MISS Carter Free Throw 2 of 2,,,,
+0029900475,213,4,0,2,7:59 AM,3:38,,,Bibby REBOUND (Off:0 Def:3),,
+0029900475,215,2,1,2,7:59 AM,3:29,,,MISS Bibby 17' Jump Shot,,
+0029900475,216,4,0,2,7:59 AM,3:28,McGrady REBOUND (Off:0 Def:1),,,,
+0029900475,217,5,1,2,7:59 AM,3:15,McGrady Bad Pass Turnover (P3.T6),,Long STEAL (1 STL),,
+0029900475,218,5,1,2,7:59 AM,3:10,,,Bibby Bad Pass Turnover (P2.T5),,
+0029900475,219,1,4,2,8:00 AM,2:54,McGrady  Tip Shot (6 PTS) (Oakley 3 AST),,,47 - 42,-5
+0029900475,220,1,3,2,8:00 AM,2:32,,,Harrington 5' Hook Shot (6 PTS) (Abdur-Rahim 3 AST),49 - 42,-7
+0029900475,221,2,1,2,8:01 AM,2:08,MISS Oakley 18' Jump Shot,,,,
+0029900475,222,4,0,2,8:01 AM,2:07,RAPTORS Rebound,,,,
+0029900475,223,6,1,2,8:01 AM,2:05,,,Dickerson P.FOUL (P1.PN),,
+0029900475,224,9,3,2,8:01 AM,2:05,,,Grizzlies Timeout: Official TV (Reg.1 Short 1),,
+0029900475,227,8,0,2,8:03 AM,2:05,,,SUB: Reeves FOR Long,,
+0029900475,228,3,11,2,8:04 AM,2:05,Davis Free Throw 1 of 2 (10 PTS),,,49 - 43,-6
+0029900475,229,3,12,2,8:04 AM,2:05,Davis Free Throw 2 of 2 (11 PTS),,,49 - 44,-5
+0029900475,230,2,5,2,8:05 AM,1:42,Oakley BLOCK (2 BLK),,MISS Harrington  Layup,,
+0029900475,231,4,0,2,8:05 AM,1:42,RAPTORS Rebound,,,,
+0029900475,232,2,3,2,8:05 AM,1:28,MISS Davis 7' Hook Shot,,,,
+0029900475,233,4,0,2,8:05 AM,1:26,,,Bibby REBOUND (Off:0 Def:4),,
+0029900475,234,1,1,2,8:05 AM,1:20,,,Bibby 17' Jump Shot (6 PTS),51 - 44,-7
+0029900475,235,2,1,2,8:05 AM,0:59,MISS Carter 19' Jump Shot,,,,
+0029900475,236,4,0,2,8:05 AM,0:57,,,Reeves REBOUND (Off:0 Def:4),,
+0029900475,237,1,5,2,8:05 AM,0:52,,,Harrington  Layup (8 PTS) (Bibby 6 AST),53 - 44,-9
+0029900475,238,2,2,2,8:06 AM,0:43,MISS McGrady 12' Running Jump Shot,,,,
+0029900475,239,4,0,2,8:06 AM,0:41,McGrady REBOUND (Off:1 Def:1),,,,
+0029900475,240,2,4,2,8:06 AM,0:38,MISS McGrady  Tip Shot,,,,
+0029900475,241,4,0,2,8:06 AM,0:37,McGrady REBOUND (Off:2 Def:1),,,,
+0029900475,242,2,4,2,8:06 AM,0:36,MISS McGrady  Tip Shot,,,,
+0029900475,243,4,0,2,8:06 AM,0:35,,,Abdur-Rahim REBOUND (Off:1 Def:2),,
+0029900475,245,2,5,2,8:06 AM,0:27,Carter BLOCK (2 BLK),,MISS Reeves  Layup,,
+0029900475,246,4,0,2,8:06 AM,0:25,,,Bibby REBOUND (Off:1 Def:4),,
+0029900475,247,2,2,2,8:06 AM,0:18,Oakley BLOCK (3 BLK),,MISS Bibby 7' Running Jump Shot,,
+0029900475,249,4,0,2,8:06 AM,0:13,Oakley REBOUND (Off:1 Def:5),,,,
+0029900475,248,5,1,2,8:06 AM,0:13,Oakley Bad Pass Turnover (P2.T7),,Dickerson STEAL (1 STL),,
+0029900475,250,6,2,2,8:06 AM,0:03,Oakley S.FOUL (P2.PN),,,,
+0029900475,252,3,11,2,8:07 AM,0:03,,,Harrington Free Throw 1 of 2 (9 PTS),54 - 44,-10
+0029900475,253,8,0,2,8:07 AM,0:03,,,SUB: Lopez FOR Bibby,,
+0029900475,255,3,12,2,8:07 AM,0:03,,,Harrington Free Throw 2 of 2 (10 PTS),55 - 44,-11
+0029900475,257,2,1,2,8:07 AM,0:01,MISS Christie 25' 3PT Jump Shot,,,,
+0029900475,258,4,0,2,8:07 AM,0:00,,,Harrington REBOUND (Off:1 Def:2),,
+0029900475,260,13,0,2,8:08 AM,0:00,,,,55 - 44,-11
+0029900475,262,12,0,3,8:26 AM,12:00,,,,55 - 44,-11
+0029900475,263,2,1,3,8:27 AM,11:42,,,MISS Reeves 16' Jump Shot,,
+0029900475,264,4,0,3,8:27 AM,11:41,Davis REBOUND (Off:0 Def:3),,,,
+0029900475,265,1,5,3,8:27 AM,11:24,Davis  Layup (13 PTS) (Williams 4 AST),,,55 - 46,-9
+0029900475,266,6,1,3,8:27 AM,11:10,Christie P.FOUL (P2.T1),,,,
+0029900475,267,2,1,3,8:28 AM,10:58,Davis BLOCK (2 BLK),,MISS Harrington 17' Jump Shot,,
+0029900475,268,4,0,3,8:28 AM,10:56,Carter REBOUND (Off:0 Def:4),,,,
+0029900475,269,2,2,3,8:28 AM,10:37,MISS Christie 11' Running Jump Shot,,,,
+0029900475,270,4,0,3,8:28 AM,10:36,,,Abdur-Rahim REBOUND (Off:1 Def:3),,
+0029900475,271,2,1,3,8:28 AM,10:23,,,MISS Reeves 16' Jump Shot,,
+0029900475,272,4,0,3,8:29 AM,10:22,Davis REBOUND (Off:0 Def:4),,,,
+0029900475,273,2,6,3,8:29 AM,10:15,MISS Williams  Driving Layup,,,,
+0029900475,274,4,0,3,8:29 AM,10:13,Carter REBOUND (Off:1 Def:4),,,,
+0029900475,275,1,5,3,8:29 AM,10:11,Carter  Layup (11 PTS),,,55 - 48,-7
+0029900475,276,2,6,3,8:29 AM,9:56,Davis BLOCK (3 BLK),,MISS Dickerson  Driving Layup,,
+0029900475,277,4,0,3,8:29 AM,9:55,Williams REBOUND (Off:0 Def:2),,,,
+0029900475,278,1,1,3,8:29 AM,9:43,Williams 19' Jump Shot (2 PTS) (Oakley 4 AST),,,55 - 50,-5
+0029900475,279,9,2,3,8:29 AM,9:40,,,Grizzlies Timeout: Short (Reg.1 Short 2),,
+0029900475,283,2,1,3,8:30 AM,9:26,,,MISS Reeves 13' Jump Shot,,
+0029900475,284,4,0,3,8:30 AM,9:24,Davis REBOUND (Off:0 Def:5),,,,
+0029900475,285,2,6,3,8:31 AM,9:06,MISS Oakley  Driving Layup,,Reeves BLOCK (1 BLK),,
+0029900475,286,4,0,3,8:31 AM,9:03,,,Abdur-Rahim REBOUND (Off:1 Def:4),,
+0029900475,287,6,2,3,8:31 AM,9:00,Williams S.FOUL (P2.T2),,,,
+0029900475,288,3,11,3,8:31 AM,9:00,,,Bibby Free Throw 1 of 2 (7 PTS),56 - 50,-6
+0029900475,289,8,0,3,8:31 AM,9:00,,,SUB: Scott FOR Reeves,,
+0029900475,290,3,12,3,8:31 AM,9:00,,,Bibby Free Throw 2 of 2 (8 PTS),57 - 50,-7
+0029900475,291,2,5,3,8:32 AM,8:47,MISS Davis  Layup,,,,
+0029900475,292,4,0,3,8:32 AM,8:46,,,Dickerson REBOUND (Off:1 Def:1),,
+0029900475,293,2,1,3,8:32 AM,8:31,,,MISS Harrington 6' Jump Shot,,
+0029900475,294,4,0,3,8:32 AM,8:29,Carter REBOUND (Off:1 Def:5),,,,
+0029900475,295,2,6,3,8:32 AM,8:24,MISS Carter  Driving Layup,,,,
+0029900475,296,4,0,3,8:32 AM,8:23,Carter REBOUND (Off:2 Def:5),,,,
+0029900475,297,1,4,3,8:32 AM,8:20,Carter  Tip Shot (13 PTS),,,57 - 52,-5
+0029900475,298,6,1,3,8:33 AM,8:07,Carter P.FOUL (P1.T3),,,,
+0029900475,300,6,2,3,8:33 AM,7:58,Christie S.FOUL (P3.T4),,,,
+0029900475,301,3,11,3,8:33 AM,7:58,,,Abdur-Rahim Free Throw 1 of 2 (13 PTS),58 - 52,-6
+0029900475,302,3,12,3,8:33 AM,7:58,,,Abdur-Rahim Free Throw 2 of 2 (14 PTS),59 - 52,-7
+0029900475,303,1,5,3,8:34 AM,7:41,Davis  Layup (15 PTS) (Carter 3 AST),,,59 - 54,-5
+0029900475,304,1,3,3,8:34 AM,7:21,,,Abdur-Rahim 8' Hook Shot (16 PTS),61 - 54,-7
+0029900475,305,6,2,3,8:35 AM,7:05,,,Harrington S.FOUL (P3.T1),,
+0029900475,306,3,11,3,8:35 AM,7:05,Carter Free Throw 1 of 2 (14 PTS),,,61 - 55,-6
+0029900475,307,3,12,3,8:35 AM,7:05,Carter Free Throw 2 of 2 (15 PTS),,,61 - 56,-5
+0029900475,308,6,2,3,8:36 AM,6:47,Oakley S.FOUL (P3.PN),,,,
+0029900475,309,9,3,3,8:36 AM,6:47,RAPTORS Timeout: Official TV (Full 1 Short 1),,,,
+0029900475,312,3,11,3,8:38 AM,6:47,,,Abdur-Rahim Free Throw 1 of 2 (17 PTS),62 - 56,-6
+0029900475,313,3,12,3,8:39 AM,6:47,,,Abdur-Rahim Free Throw 2 of 2 (18 PTS),63 - 56,-7
+0029900475,314,6,1,3,8:39 AM,6:36,,,Scott P.FOUL (P1.T2),,
+0029900475,316,6,2,3,8:39 AM,6:30,,,Scott S.FOUL (P2.T3),,
+0029900475,317,3,11,3,8:40 AM,6:30,MISS Davis Free Throw 1 of 2,,,,
+0029900475,318,4,1,3,8:40 AM,6:30,RAPTORS Rebound,,,,
+0029900475,319,3,12,3,8:40 AM,6:30,Davis Free Throw 2 of 2 (16 PTS),,,63 - 57,-6
+0029900475,320,2,1,3,8:40 AM,6:15,,,MISS Abdur-Rahim 21' Jump Shot,,
+0029900475,321,4,0,3,8:40 AM,6:13,Carter REBOUND (Off:2 Def:6),,,,
+0029900475,322,1,1,3,8:41 AM,6:02,Oakley 17' Jump Shot (10 PTS) (Carter 4 AST),,,63 - 59,-4
+0029900475,323,7,6,3,8:41 AM,5:47,Williams Violation:Double Lane,,,,
+0029900475,324,1,1,3,8:41 AM,5:37,,,Abdur-Rahim 13' Jump Shot (20 PTS),65 - 59,-6
+0029900475,325,1,1,3,8:42 AM,5:18,Williams 20' Jump Shot (4 PTS) (Christie 4 AST),,,65 - 61,-4
+0029900475,327,6,1,3,8:42 AM,5:00,Davis P.FOUL (P2.PN),,,,
+0029900475,328,3,11,3,8:42 AM,5:00,,,Abdur-Rahim Free Throw 1 of 2 (21 PTS),66 - 61,-5
+0029900475,329,3,12,3,8:43 AM,5:00,,,Abdur-Rahim Free Throw 2 of 2 (22 PTS),67 - 61,-6
+0029900475,330,1,1,3,8:43 AM,4:44,Carter 15' Jump Shot (17 PTS),,,67 - 63,-4
+0029900475,331,5,1,3,8:43 AM,4:27,Carter STEAL (2 STL),,Bibby Bad Pass Turnover (P3.T6),,
+0029900475,332,5,3,3,8:44 AM,4:21,Williams Out Of Bounds Turnover (P1.T8),,,,
+0029900475,333,8,0,3,8:44 AM,4:21,SUB: McGrady FOR Davis,,,,
+0029900475,334,2,1,3,8:44 AM,3:58,,,MISS Harrington 10' Jump Shot,,
+0029900475,335,4,0,3,8:44 AM,3:57,,,Scott REBOUND (Off:1 Def:0),,
+0029900475,336,1,1,3,8:44 AM,3:56,,,Scott 4' Jump Shot (2 PTS),69 - 63,-6
+0029900475,337,2,1,3,8:44 AM,3:39,MISS Christie  3PT Jump Shot,,,,
+0029900475,338,4,0,3,8:45 AM,3:37,Christie REBOUND (Off:2 Def:0),,,,
+0029900475,339,1,6,3,8:45 AM,3:32,Christie  Driving Layup (9 PTS),,,69 - 65,-4
+0029900475,340,5,2,3,8:45 AM,3:12,Williams STEAL (1 STL),,Harrington Lost Ball Turnover (P1.T7),,
+0029900475,341,2,1,3,8:45 AM,3:03,MISS Williams 24' 3PT Jump Shot,,,,
+0029900475,342,4,0,3,8:45 AM,3:02,Carter REBOUND (Off:3 Def:6),,,,
+0029900475,343,2,1,3,8:45 AM,2:59,MISS Christie 25' 3PT Jump Shot,,,,
+0029900475,344,4,0,3,8:45 AM,2:57,,,Scott REBOUND (Off:1 Def:1),,
+0029900475,346,9,1,3,8:45 AM,2:48,,,Grizzlies Timeout: Regular (Reg.2 Short 2),,
+0029900475,348,8,0,3,8:48 AM,2:48,SUB: Bogues FOR Williams,,,,
+0029900475,349,2,1,3,8:48 AM,2:34,,,MISS Harrington 15' Jump Shot,,
+0029900475,350,4,0,3,8:48 AM,2:33,Christie REBOUND (Off:2 Def:1),,,,
+0029900475,351,1,1,3,8:49 AM,2:14,McGrady 20' Jump Shot (8 PTS) (Oakley 5 AST),,,69 - 67,-2
+0029900475,352,2,1,3,8:49 AM,1:58,,,MISS Bibby 19' Jump Shot,,
+0029900475,353,4,0,3,8:49 AM,1:56,,,Scott REBOUND (Off:2 Def:1),,
+0029900475,354,2,3,3,8:49 AM,1:54,,,MISS Scott 3' Hook Shot,,
+0029900475,355,4,0,3,8:49 AM,1:53,,,Harrington REBOUND (Off:2 Def:2),,
+0029900475,356,1,4,3,8:49 AM,1:52,,,Harrington  Tip Shot (12 PTS),71 - 67,-4
+0029900475,358,1,1,3,8:49 AM,1:30,Oakley 19' Jump Shot (12 PTS) (Carter 5 AST),,,71 - 69,-2
+0029900475,359,6,2,3,8:50 AM,1:09,Carter S.FOUL (P2.PN),,,,
+0029900475,360,8,0,3,8:50 AM,1:09,,,SUB: Reeves FOR Harrington,,
+0029900475,361,3,11,3,8:50 AM,1:09,,,Abdur-Rahim Free Throw 1 of 2 (23 PTS),72 - 69,-3
+0029900475,362,3,12,3,8:50 AM,1:09,,,Abdur-Rahim Free Throw 2 of 2 (24 PTS),73 - 69,-4
+0029900475,363,1,1,3,8:50 AM,0:57,Oakley 18' Jump Shot (14 PTS) (Bogues 2 AST),,,73 - 71,-2
+0029900475,364,6,2,3,8:51 AM,0:45,Oakley S.FOUL (P4.PN),,,,
+0029900475,365,3,11,3,8:51 AM,0:45,,,Dickerson Free Throw 1 of 2 (13 PTS),74 - 71,-3
+0029900475,366,8,0,3,8:51 AM,0:45,,,SUB: Long FOR Reeves,,
+0029900475,367,8,0,3,8:51 AM,0:45,,,SUB: Lopez FOR Scott,,
+0029900475,368,3,12,3,8:51 AM,0:45,,,Dickerson Free Throw 2 of 2 (14 PTS),75 - 71,-4
+0029900475,369,5,2,3,8:52 AM,0:35,Carter Lost Ball Turnover (P2.T9),,,,
+0029900475,370,8,0,3,8:52 AM,0:35,,,SUB: Scott FOR Long,,
+0029900475,371,6,1,3,8:52 AM,0:16,Bogues P.FOUL (P2.PN),,,,
+0029900475,372,8,0,3,8:53 AM,0:16,,,SUB: Long FOR Scott,,
+0029900475,373,3,11,3,8:53 AM,0:16,,,Abdur-Rahim Free Throw 1 of 2 (25 PTS),76 - 71,-5
+0029900475,375,8,0,3,8:53 AM,0:16,,,SUB: Palacio FOR Bibby,,
+0029900475,376,3,12,3,8:53 AM,0:16,,,Abdur-Rahim Free Throw 2 of 2 (26 PTS),77 - 71,-6
+0029900475,377,6,1,3,8:54 AM,0:05,,,Lopez P.FOUL (P3.T4),,
+0029900475,378,2,2,3,8:54 AM,0:02,MISS Christie 5' Running Jump Shot,,,,
+0029900475,379,4,0,3,8:54 AM,0:00,,,Long REBOUND (Off:1 Def:4),,
+0029900475,380,5,2,3,8:54 AM,0:00,Oakley STEAL (1 STL),,Palacio Lost Ball Turnover (P1.T8),,
+0029900475,381,13,0,3,8:54 AM,0:00,,,,77 - 71,-6
+0029900475,383,12,0,4,8:57 AM,12:00,,,,77 - 71,-6
+0029900475,384,6,2,4,8:57 AM,11:42,,,Lopez S.FOUL (P4.T1),,
+0029900475,385,3,11,4,8:58 AM,11:42,MISS Carter Free Throw 1 of 2,,,,
+0029900475,386,4,1,4,8:58 AM,11:42,RAPTORS Rebound,,,,
+0029900475,387,3,12,4,8:58 AM,11:42,Carter Free Throw 2 of 2 (18 PTS),,,77 - 72,-5
+0029900475,389,2,6,4,8:58 AM,11:29,,,MISS Dickerson  Driving Layup,,
+0029900475,390,4,0,4,8:58 AM,11:28,,,Long REBOUND (Off:2 Def:4),,
+0029900475,391,1,8,4,8:59 AM,11:25,,,Long  Slam Dunk (3 PTS),79 - 72,-7
+0029900475,392,2,6,4,8:59 AM,11:03,MISS Carter  Driving Layup,,,,
+0029900475,393,4,0,4,8:59 AM,11:01,McGrady REBOUND (Off:3 Def:1),,,,
+0029900475,394,1,4,4,8:59 AM,11:00,McGrady  Tip Shot (10 PTS),,,79 - 74,-5
+0029900475,395,1,3,4,8:59 AM,10:42,,,Palacio 6' Hook Shot (4 PTS),81 - 74,-7
+0029900475,396,7,2,4,9:00 AM,10:22,,,Palacio Violation:Defensive Goaltending,,
+0029900475,397,8,0,4,9:00 AM,10:22,SUB: Williams FOR Christie,,,,
+0029900475,398,2,1,4,9:00 AM,10:19,MISS Oakley 18' Jump Shot,,,,
+0029900475,399,4,0,4,9:00 AM,10:18,,,Abdur-Rahim REBOUND (Off:1 Def:5),,
+0029900475,400,1,6,4,9:00 AM,10:05,,,Dickerson  Driving Layup (16 PTS),83 - 74,-9
+0029900475,401,6,2,4,9:00 AM,10:05,Williams S.FOUL (P3.T1),,,,
+0029900475,402,8,0,4,9:01 AM,10:05,SUB: Davis FOR Oakley,,,,
+0029900475,403,3,10,4,9:01 AM,10:05,,,Dickerson Free Throw 1 of 1 (17 PTS),84 - 74,-10
+0029900475,404,2,5,4,9:01 AM,9:55,MISS McGrady  Layup,,,,
+0029900475,405,4,0,4,9:01 AM,9:53,Carter REBOUND (Off:4 Def:6),,,,
+0029900475,406,1,5,4,9:01 AM,9:52,Carter  Layup (20 PTS),,,84 - 76,-8
+0029900475,407,2,2,4,9:01 AM,9:37,,,MISS Dickerson 10' Running Jump Shot,,
+0029900475,408,4,0,4,9:01 AM,9:36,Davis REBOUND (Off:0 Def:6),,,,
+0029900475,409,2,5,4,9:01 AM,9:30,MISS Carter  Layup,,,,
+0029900475,410,4,0,4,9:01 AM,9:28,,,Dickerson REBOUND (Off:1 Def:2),,
+0029900475,411,1,1,4,9:02 AM,9:21,,,Long 14' Jump Shot (5 PTS) (Dickerson 1 AST),86 - 76,-10
+0029900475,412,9,1,4,9:02 AM,9:17,RAPTORS Timeout: Regular (Full 2 Short 1),,,,
+0029900475,415,8,0,4,9:04 AM,9:17,,,SUB: Bibby FOR Abdur-Rahim,,
+0029900475,416,6,1,4,9:04 AM,9:01,,,Long P.FOUL (P3.T2),,
+0029900475,417,1,9,4,9:05 AM,8:53,McGrady  Driving Dunk (12 PTS),,,86 - 78,-8
+0029900475,418,10,0,4,9:05 AM,8:39,Jump Ball McGrady vs. Dickerson: Tip to Williams,,,,
+0029900475,419,5,2,4,9:05 AM,8:39,McGrady STEAL (2 STL),,Dickerson Lost Ball Turnover (P1.T9),,
+0029900475,420,5,2,4,9:06 AM,8:26,Carter Lost Ball Turnover (P3.T10),,Lopez STEAL (2 STL),,
+0029900475,421,5,1,4,9:06 AM,8:22,McGrady STEAL (3 STL),,Bibby Bad Pass Turnover (P4.T10),,
+0029900475,422,6,1,4,9:06 AM,8:21,,,Palacio P.FOUL (P1.T3),,
+0029900475,423,8,0,4,9:06 AM,8:21,,,SUB: Harrington FOR Long,,
+0029900475,424,2,2,4,9:06 AM,8:02,MISS McGrady 8' Running Jump Shot,,,,
+0029900475,425,4,0,4,9:06 AM,8:00,,,Palacio REBOUND (Off:1 Def:1),,
+0029900475,426,6,1,4,9:07 AM,7:49,McGrady P.FOUL (P2.T2),,,,
+0029900475,427,1,1,4,9:07 AM,7:38,,,Palacio 17' Jump Shot (6 PTS) (Dickerson 2 AST),88 - 78,-10
+0029900475,428,1,1,4,9:08 AM,7:18,McGrady 8' Jump Shot (14 PTS),,,88 - 80,-8
+0029900475,429,6,1,4,9:08 AM,7:07,Williams P.FOUL (P4.T3),,,,
+0029900475,430,8,0,4,9:08 AM,7:07,SUB: Christie FOR McGrady,,,,
+0029900475,431,8,0,4,9:08 AM,7:07,,,SUB: Abdur-Rahim FOR Lopez,,
+0029900475,432,2,1,4,9:08 AM,6:57,,,MISS Harrington 16' Jump Shot,,
+0029900475,433,4,0,4,9:08 AM,6:56,,,Palacio REBOUND (Off:2 Def:1),,
+0029900475,434,6,4,4,9:09 AM,6:41,,,Abdur-Rahim OFF.Foul (P3),,
+0029900475,435,5,5,4,9:09 AM,6:41,,,Abdur-Rahim Foul Turnover (P2.T11),,
+0029900475,436,9,3,4,9:09 AM,6:41,,,,,
+0029900475,438,8,0,4,9:11 AM,6:41,SUB: Oakley FOR Carter,,,,
+0029900475,439,6,1,4,9:11 AM,6:29,,,Harrington P.FOUL (P4.T4),,
+0029900475,441,5,1,4,9:12 AM,6:18,Christie Bad Pass Turnover (P2.T11),,Bibby STEAL (2 STL),,
+0029900475,442,6,1,4,9:12 AM,6:18,Davis P.FOUL (P3.T4),,,,
+0029900475,443,2,6,4,9:13 AM,5:58,,,MISS Dickerson  Driving Layup,,
+0029900475,444,4,0,4,9:13 AM,5:57,,,Harrington REBOUND (Off:3 Def:2),,
+0029900475,445,1,5,4,9:13 AM,5:55,,,Harrington  Layup (14 PTS),90 - 80,-10
+0029900475,446,2,1,4,9:13 AM,5:38,MISS Christie 24' 3PT Jump Shot,,,,
+0029900475,447,4,0,4,9:13 AM,5:36,,,Palacio REBOUND (Off:2 Def:2),,
+0029900475,449,6,4,4,9:13 AM,5:21,,,Palacio OFF.Foul (P2),,
+0029900475,450,5,5,4,9:13 AM,5:21,,,Palacio Foul Turnover (P2.T12),,
+0029900475,451,8,0,4,9:14 AM,5:21,SUB: McGrady FOR Williams,,,,
+0029900475,452,8,0,4,9:14 AM,5:21,SUB: Carter FOR Christie,,,,
+0029900475,453,1,5,4,9:14 AM,5:06,Davis  Layup (18 PTS) (Oakley 6 AST),,,90 - 82,-8
+0029900475,454,6,2,4,9:14 AM,4:49,Oakley S.FOUL (P5.PN),,,,
+0029900475,455,8,0,4,9:15 AM,4:49,,,SUB: Long FOR Palacio,,
+0029900475,456,3,11,4,9:15 AM,4:49,,,Abdur-Rahim Free Throw 1 of 2 (27 PTS),91 - 82,-9
+0029900475,457,3,12,4,9:15 AM,4:49,,,Abdur-Rahim Free Throw 2 of 2 (28 PTS),92 - 82,-10
+0029900475,458,2,1,4,9:15 AM,4:41,MISS Oakley 21' Jump Shot,,,,
+0029900475,459,4,0,4,9:15 AM,4:39,,,Harrington REBOUND (Off:3 Def:3),,
+0029900475,460,6,2,4,9:16 AM,4:28,McGrady S.FOUL (P3.PN),,,,
+0029900475,461,3,11,4,9:16 AM,4:28,,,Dickerson Free Throw 1 of 2 (18 PTS),93 - 82,-11
+0029900475,462,3,12,4,9:16 AM,4:28,,,Dickerson Free Throw 2 of 2 (19 PTS),94 - 82,-12
+0029900475,463,6,4,4,9:16 AM,4:16,Davis OFF.Foul (P4),,,,
+0029900475,464,5,5,4,9:16 AM,4:16,Davis Foul Turnover (P1.T12),,,,
+0029900475,466,6,4,4,9:17 AM,3:55,,,Harrington OFF.Foul (P5),,
+0029900475,467,5,5,4,9:17 AM,3:55,,,Harrington Foul Turnover (P2.T13),,
+0029900475,468,5,1,4,9:17 AM,3:49,Carter Bad Pass Turnover (P4.T13),,Long STEAL (2 STL),,
+0029900475,469,6,4,4,9:18 AM,3:44,,,Abdur-Rahim OFF.Foul (P4),,
+0029900475,470,5,5,4,9:18 AM,3:44,,,Abdur-Rahim Foul Turnover (P3.T14),,
+0029900475,471,2,1,4,9:18 AM,3:23,MISS Oakley 17' Jump Shot,,,,
+0029900475,472,4,0,4,9:18 AM,3:22,,,Bibby REBOUND (Off:1 Def:5),,
+0029900475,473,6,1,4,9:18 AM,3:06,Carter P.FOUL (P3.PN),,,,
+0029900475,474,9,1,4,9:19 AM,3:06,,,Grizzlies Timeout: Regular (Reg.3 Short 2),,
+0029900475,478,3,11,4,9:21 AM,3:06,,,MISS Abdur-Rahim Free Throw 1 of 2,,
+0029900475,479,4,1,4,9:21 AM,3:06,,,Grizzlies Rebound,,
+0029900475,480,3,12,4,9:22 AM,3:06,,,Abdur-Rahim Free Throw 2 of 2 (29 PTS),95 - 82,-13
+0029900475,481,1,6,4,9:22 AM,2:50,McGrady  Driving Layup (16 PTS),,,95 - 84,-11
+0029900475,482,2,1,4,9:22 AM,2:26,,,MISS Dickerson 18' Jump Shot,,
+0029900475,483,4,0,4,9:22 AM,2:24,Oakley REBOUND (Off:1 Def:6),,,,
+0029900475,484,1,1,4,9:23 AM,2:05,Oakley 19' Jump Shot (16 PTS) (McGrady 1 AST),,,95 - 86,-9
+0029900475,485,6,4,4,9:23 AM,1:46,,,Abdur-Rahim OFF.Foul (P5),,
+0029900475,486,5,5,4,9:23 AM,1:46,,,Abdur-Rahim Foul Turnover (P4.T15),,
+0029900475,487,1,1,4,9:23 AM,1:36,Oakley 19' Jump Shot (18 PTS) (Carter 6 AST),,,95 - 88,-7
+0029900475,488,2,1,4,9:24 AM,1:22,,,MISS Long 17' Jump Shot,,
+0029900475,489,4,0,4,9:24 AM,1:20,,,Harrington REBOUND (Off:4 Def:3),,
+0029900475,490,6,1,4,9:24 AM,1:20,Oakley P.FOUL (P6.PN),,,,
+0029900475,491,8,0,4,9:24 AM,1:20,SUB: Christie FOR Oakley,,,,
+0029900475,492,3,11,4,9:24 AM,1:20,,,Harrington Free Throw 1 of 2 (15 PTS),96 - 88,-8
+0029900475,493,8,0,4,9:25 AM,1:20,,,SUB: Palacio FOR Long,,
+0029900475,494,3,12,4,9:25 AM,1:20,,,Harrington Free Throw 2 of 2 (16 PTS),97 - 88,-9
+0029900475,495,9,1,4,9:25 AM,1:20,RAPTORS Timeout: Regular (Full 3 Short 1),,,,
+0029900475,499,1,5,4,9:27 AM,1:13,Davis  Layup (20 PTS) (Bogues 3 AST),,,97 - 90,-7
+0029900475,500,5,1,4,9:27 AM,1:12,Carter STEAL (3 STL),,Harrington Bad Pass Turnover (P3.T16),,
+0029900475,501,2,5,4,9:27 AM,1:09,MISS Carter  Layup,,,,
+0029900475,502,4,0,4,9:27 AM,1:08,McGrady REBOUND (Off:4 Def:1),,,,
+0029900475,503,2,5,4,9:27 AM,1:06,MISS McGrady  Layup,,Harrington BLOCK (1 BLK),,
+0029900475,504,4,0,4,9:28 AM,1:06,McGrady REBOUND (Off:5 Def:1),,,,
+0029900475,505,6,2,4,9:28 AM,1:06,,,Abdur-Rahim S.FOUL (P6.PN),,
+0029900475,506,8,0,4,9:28 AM,1:06,,,SUB: Lopez FOR Abdur-Rahim,,
+0029900475,508,3,11,4,9:29 AM,1:06,MISS McGrady Free Throw 1 of 2,,,,
+0029900475,509,4,1,4,9:29 AM,1:06,RAPTORS Rebound,,,,
+0029900475,510,8,0,4,9:29 AM,1:06,,,SUB: Long FOR Harrington,,
+0029900475,511,3,12,4,9:29 AM,1:06,McGrady Free Throw 2 of 2 (17 PTS),,,97 - 91,-6
+0029900475,512,6,1,4,9:29 AM,1:03,Carter P.FOUL (P4.PN),,,,
+0029900475,513,3,11,4,9:30 AM,1:03,,,MISS Palacio Free Throw 1 of 2,,
+0029900475,514,4,1,4,9:30 AM,1:03,,,Grizzlies Rebound,,
+0029900475,515,3,12,4,9:30 AM,1:03,,,Palacio Free Throw 2 of 2 (7 PTS),98 - 91,-7
+0029900475,516,9,2,4,9:30 AM,1:03,RAPTORS Timeout: Short (Full 3 Short 2),,,,
+0029900475,520,6,4,4,9:31 AM,1:00,Carter OFF.Foul (P5),,,,
+0029900475,521,5,5,4,9:31 AM,1:00,Carter Foul Turnover (P5.T14),,,,
+0029900475,522,6,1,4,9:32 AM,0:45,Bogues P.FOUL (P3.PN),,,,
+0029900475,523,3,11,4,9:32 AM,0:45,,,Bibby Free Throw 1 of 2 (9 PTS),99 - 91,-8
+0029900475,524,3,12,4,9:32 AM,0:45,,,MISS Bibby Free Throw 2 of 2,,
+0029900475,525,4,0,4,9:32 AM,0:45,,,Long REBOUND (Off:3 Def:4),,
+0029900475,526,6,1,4,9:33 AM,0:39,Bogues P.FOUL (P4.PN),,,,
+0029900475,527,3,11,4,9:33 AM,0:39,,,Palacio Free Throw 1 of 2 (8 PTS),100 - 91,-9
+0029900475,528,3,12,4,9:33 AM,0:39,,,Palacio Free Throw 2 of 2 (9 PTS),101 - 91,-10
+0029900475,529,9,1,4,9:33 AM,0:39,RAPTORS Timeout: Regular (Full 4 Short 2),,,,
+0029900475,533,5,1,4,9:36 AM,0:38,McGrady Bad Pass Turnover (P4.T15),,,,
+0029900475,534,8,0,4,9:36 AM,0:38,,,SUB: Scott FOR Long,,
+0029900475,535,6,1,4,9:36 AM,0:37,Christie P.FOUL (P4.PN),,,,
+0029900475,536,8,0,4,9:36 AM,0:37,,,SUB: Long FOR Scott,,
+0029900475,537,3,11,4,9:36 AM,0:37,,,Dickerson Free Throw 1 of 2 (20 PTS),102 - 91,-11
+0029900475,538,3,12,4,9:37 AM,0:37,,,Dickerson Free Throw 2 of 2 (21 PTS),103 - 91,-12
+0029900475,539,9,1,4,9:37 AM,0:37,RAPTORS Timeout: Regular (Full 5 Short 2),,,,
+0029900475,542,1,5,4,9:39 AM,0:30,Christie  Layup (11 PTS) (Bogues 4 AST),,,103 - 93,-10
+0029900475,543,6,1,4,9:39 AM,0:27,McGrady P.FOUL (P4.PN),,,,
+0029900475,544,3,11,4,9:39 AM,0:27,,,Palacio Free Throw 1 of 2 (10 PTS),104 - 93,-11
+0029900475,545,8,0,4,9:39 AM,0:27,SUB: Williams FOR Davis,,,,
+0029900475,546,3,12,4,9:40 AM,0:27,,,Palacio Free Throw 2 of 2 (11 PTS),105 - 93,-12
+0029900475,547,2,2,4,9:40 AM,0:21,MISS Williams 9' Running Jump Shot,,,,
+0029900475,548,4,0,4,9:40 AM,0:21,McGrady REBOUND (Off:6 Def:1),,,,
+0029900475,549,1,8,4,9:40 AM,0:21,McGrady  Slam Dunk (19 PTS),,,105 - 95,-10
+0029900475,550,6,1,4,9:40 AM,0:19,Williams P.FOUL (P5.PN),,,,
+0029900475,551,3,11,4,9:40 AM,0:19,,,Bibby Free Throw 1 of 2 (10 PTS),106 - 95,-11
+0029900475,552,3,12,4,9:40 AM,0:19,,,Bibby Free Throw 2 of 2 (11 PTS),107 - 95,-12
+0029900475,553,1,6,4,9:41 AM,0:14,Bogues  Driving Layup (2 PTS),,,107 - 97,-10
+0029900475,554,13,0,4,9:41 AM,0:00,,,,107 - 97,-10

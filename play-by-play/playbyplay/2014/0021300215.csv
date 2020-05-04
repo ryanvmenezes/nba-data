@@ -1,0 +1,503 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021300215,0,12,0,1,7:10 PM,12:00,,,,,
+0021300215,1,10,0,1,7:11 PM,12:00,Jump Ball McRoberts vs. Hibbert: Tip to George,,,,
+0021300215,3,1,1,1,7:11 PM,11:37,,,West 18' Jump Shot (2 PTS) (Hill 1 AST),2 - 0,-2
+0021300215,4,2,1,1,7:11 PM,11:21,MISS Henderson 16' Jump Shot,,,,
+0021300215,5,4,0,1,7:11 PM,11:19,,,Hill REBOUND (Off:0 Def:1),,
+0021300215,6,2,1,1,7:12 PM,10:57,,,MISS West 20' Jump Shot,,
+0021300215,7,4,0,1,7:12 PM,10:56,Kidd-Gilchrist REBOUND (Off:0 Def:1),,,,
+0021300215,8,2,1,1,7:12 PM,10:39,MISS Jefferson 8' Jump Shot,,Hibbert BLOCK (1 BLK),,
+0021300215,9,4,0,1,7:12 PM,10:36,,,West REBOUND (Off:0 Def:1),,
+0021300215,10,2,1,1,7:12 PM,10:20,,,MISS Hill 27' 3PT Jump Shot,,
+0021300215,11,4,0,1,7:12 PM,10:18,Kidd-Gilchrist REBOUND (Off:0 Def:2),,,,
+0021300215,12,1,1,1,7:13 PM,10:06,McRoberts 19' Jump Shot (2 PTS) (Kidd-Gilchrist 1 AST),,,2 - 2,TIE
+0021300215,13,2,3,1,7:13 PM,9:45,,,MISS Hibbert 7' Hook Shot,,
+0021300215,14,4,0,1,7:13 PM,9:44,Henderson REBOUND (Off:0 Def:1),,,,
+0021300215,15,2,1,1,7:13 PM,9:35,MISS Walker 19' Jump Shot,,,,
+0021300215,16,4,0,1,7:13 PM,9:34,Kidd-Gilchrist REBOUND (Off:1 Def:2),,,,
+0021300215,20,5,2,1,7:14 PM,9:16,Jefferson Lost Ball Turnover (P1.T1),,George STEAL (1 STL),,
+0021300215,21,6,4,1,7:14 PM,9:11,,,George OFF.Foul (P1),,
+0021300215,22,5,5,1,7:14 PM,9:11,,,George Foul Turnover (P1.T1),,
+0021300215,23,2,1,1,7:14 PM,9:03,MISS Henderson 20' Jump Shot,,,,
+0021300215,24,4,0,1,7:14 PM,9:02,,,Hibbert REBOUND (Off:0 Def:1),,
+0021300215,25,5,1,1,7:14 PM,8:50,,,George Bad Pass Turnover (P2.T2),,
+0021300215,26,2,5,1,7:15 PM,8:38,MISS Henderson  Layup,,Hibbert BLOCK (2 BLK),,
+0021300215,27,4,0,1,7:15 PM,8:36,,,George REBOUND (Off:0 Def:1),,
+0021300215,29,2,1,1,7:15 PM,8:20,,,MISS Stephenson 25' 3PT Jump Shot,,
+0021300215,30,4,0,1,7:15 PM,8:19,Walker REBOUND (Off:0 Def:1),,,,
+0021300215,31,2,1,1,7:15 PM,8:11,MISS McRoberts 28' 3PT Jump Shot,,,,
+0021300215,32,4,0,1,7:15 PM,8:09,,,West REBOUND (Off:0 Def:2),,
+0021300215,33,6,27,1,7:16 PM,7:54,McRoberts Personal Block Foul (P1.T1),,,,
+0021300215,34,1,1,1,7:16 PM,7:49,,,George 7' Jump Shot (2 PTS),4 - 2,-2
+0021300215,35,1,1,1,7:16 PM,7:31,Kidd-Gilchrist 18' Jump Shot (2 PTS) (McRoberts 1 AST),,,4 - 4,TIE
+0021300215,36,5,4,1,7:16 PM,7:16,,,Stephenson Traveling Turnover (P1.T3),,
+0021300215,37,2,1,1,7:17 PM,6:58,MISS Walker 25' 3PT Jump Shot,,,,
+0021300215,38,4,0,1,7:17 PM,6:57,,,Pacers Rebound,,
+0021300215,39,2,1,1,7:17 PM,6:49,,,MISS George 14' Jump Shot,,
+0021300215,40,4,0,1,7:17 PM,6:47,Jefferson REBOUND (Off:0 Def:1),,,,
+0021300215,41,2,1,1,7:17 PM,6:37,MISS Henderson 13' Jump Shot,,,,
+0021300215,42,4,0,1,7:17 PM,6:36,,,West REBOUND (Off:0 Def:3),,
+0021300215,43,2,5,1,7:18 PM,6:23,,,MISS Hibbert 2' Layup,,
+0021300215,44,4,0,1,7:18 PM,6:21,,,Hibbert REBOUND (Off:1 Def:1),,
+0021300215,45,2,4,1,7:18 PM,6:20,,,MISS Hibbert 1' Tip Shot,,
+0021300215,46,4,0,1,7:18 PM,6:18,,,Hibbert REBOUND (Off:2 Def:1),,
+0021300215,47,1,4,1,7:18 PM,6:16,,,Hibbert 2' Tip Shot (2 PTS),6 - 4,-2
+0021300215,48,2,1,1,7:18 PM,6:02,MISS McRoberts 17' Jump Shot,,,,
+0021300215,49,4,0,1,7:18 PM,6:01,,,Stephenson REBOUND (Off:0 Def:1),,
+0021300215,50,6,2,1,7:18 PM,5:50,Henderson S.FOUL (P1.T2),,,,
+0021300215,51,9,1,1,7:19 PM,5:50,BOBCATS Timeout: Regular (Full 1 Short 0),,,,
+0021300215,53,8,0,1,7:21 PM,5:50,,,SUB: Johnson FOR Stephenson,,
+0021300215,54,8,0,1,7:21 PM,5:50,SUB: Taylor FOR Kidd-Gilchrist,,,,
+0021300215,55,3,11,1,7:21 PM,5:50,,,MISS West Free Throw 1 of 2,,
+0021300215,56,4,1,1,7:21 PM,5:50,,,Pacers Rebound,,
+0021300215,57,3,12,1,7:21 PM,5:50,,,West Free Throw 2 of 2 (3 PTS),7 - 4,-3
+0021300215,59,5,4,1,7:22 PM,5:35,Jefferson Traveling Turnover (P2.T2),,,,
+0021300215,60,2,1,1,7:22 PM,5:22,,,MISS George 27' 3PT Jump Shot,,
+0021300215,61,4,0,1,7:22 PM,5:20,Jefferson REBOUND (Off:0 Def:2),,,,
+0021300215,62,1,1,1,7:22 PM,5:09,Walker 25' 3PT Jump Shot (3 PTS),,,7 - 7,TIE
+0021300215,63,2,1,1,7:23 PM,4:54,,,MISS West 11' Jump Shot,,
+0021300215,65,4,0,1,7:23 PM,4:52,,,Hibbert REBOUND (Off:3 Def:1),,
+0021300215,64,1,4,1,7:23 PM,4:52,,,Hibbert 1' Tip Shot (4 PTS),9 - 7,-2
+0021300215,66,6,2,1,7:23 PM,4:35,,,Johnson S.FOUL (P1.T1),,
+0021300215,67,3,11,1,7:23 PM,4:35,MISS McRoberts Free Throw 1 of 2,,,,
+0021300215,68,4,1,1,7:23 PM,4:35,BOBCATS Rebound,,,,
+0021300215,69,8,0,1,7:23 PM,4:35,SUB: Adrien FOR Jefferson,,,,
+0021300215,70,3,12,1,7:23 PM,4:35,MISS McRoberts Free Throw 2 of 2,,,,
+0021300215,72,4,0,1,7:24 PM,4:34,,,West REBOUND (Off:0 Def:4),,
+0021300215,73,1,1,1,7:24 PM,4:20,,,Hibbert 4' Jump Shot (6 PTS) (West 1 AST),11 - 7,-4
+0021300215,74,6,2,1,7:24 PM,4:20,Adrien S.FOUL (P1.T3),,,,
+0021300215,75,3,10,1,7:24 PM,4:20,,,Hibbert Free Throw 1 of 1 (7 PTS),12 - 7,-5
+0021300215,77,2,1,1,7:25 PM,4:07,MISS Henderson 16' Jump Shot,,,,
+0021300215,78,4,0,1,7:25 PM,4:04,Adrien REBOUND (Off:1 Def:0),,,,
+0021300215,79,2,4,1,7:25 PM,4:02,MISS Adrien 1' Tip Shot,,,,
+0021300215,80,4,0,1,7:25 PM,4:01,,,Hill REBOUND (Off:0 Def:2),,
+0021300215,81,1,1,1,7:25 PM,3:55,,,Hill 27' 3PT Jump Shot (3 PTS),15 - 7,-8
+0021300215,82,9,2,1,7:25 PM,3:48,BOBCATS Timeout: Short (Full 1 Short 1),,,,
+0021300215,84,8,0,1,7:26 PM,3:48,,,SUB: Scola FOR West,,
+0021300215,85,8,0,1,7:26 PM,3:48,SUB: Zeller FOR McRoberts,,,,
+0021300215,86,2,1,1,7:26 PM,3:40,MISS Zeller 19' Jump Shot,,,,
+0021300215,87,4,0,1,7:26 PM,3:37,Zeller REBOUND (Off:1 Def:0),,,,
+0021300215,89,7,2,1,7:26 PM,3:35,,,Hibbert Violation:Defensive Goaltending,,
+0021300215,88,1,5,1,7:26 PM,3:35,Zeller 2' Layup (2 PTS),,,15 - 9,-6
+0021300215,90,2,5,1,7:27 PM,3:24,,,MISS Hibbert 2' Layup,,
+0021300215,91,4,0,1,7:27 PM,3:22,,,Hill REBOUND (Off:1 Def:2),,
+0021300215,92,1,3,1,7:27 PM,3:09,,,Hibbert 8' Hook Shot (9 PTS) (Hill 2 AST),17 - 9,-8
+0021300215,93,2,1,1,7:27 PM,2:48,MISS Taylor 26' 3PT Jump Shot,,,,
+0021300215,94,4,0,1,7:27 PM,2:47,,,Hibbert REBOUND (Off:3 Def:2),,
+0021300215,95,1,1,1,7:27 PM,2:36,,,George 12' Jump Shot (4 PTS),19 - 9,-10
+0021300215,96,6,2,1,7:28 PM,2:19,,,Hill S.FOUL (P1.T2),,
+0021300215,97,9,1,1,7:28 PM,2:19,,,Pacers Timeout: Regular (Reg.1 Short 0),,
+0021300215,99,8,0,1,7:30 PM,2:19,SUB: Sessions FOR Henderson,,,,
+0021300215,100,3,11,1,7:30 PM,2:19,Walker Free Throw 1 of 2 (4 PTS),,,19 - 10,-9
+0021300215,102,3,12,1,7:30 PM,2:19,Walker Free Throw 2 of 2 (5 PTS),,,19 - 11,-8
+0021300215,104,2,1,1,7:31 PM,2:01,,,MISS Hill 13' Jump Shot,,
+0021300215,105,4,0,1,7:31 PM,2:00,Zeller REBOUND (Off:1 Def:1),,,,
+0021300215,106,2,1,1,7:31 PM,1:51,MISS Sessions 7' Jump Shot,,,,
+0021300215,107,4,0,1,7:31 PM,1:50,,,Scola REBOUND (Off:0 Def:1),,
+0021300215,108,6,1,1,7:31 PM,1:41,Adrien P.FOUL (P2.T4),,,,
+0021300215,109,1,52,1,7:32 PM,1:36,,,George 2' Alley Oop Dunk (6 PTS) (Hibbert 1 AST),21 - 11,-10
+0021300215,112,6,1,1,7:32 PM,1:21,,,Scola P.FOUL (P1.T3),,
+0021300215,113,2,1,1,7:32 PM,1:15,MISS Walker 13' Jump Shot,,,,
+0021300215,114,4,0,1,7:32 PM,1:14,,,Scola REBOUND (Off:0 Def:2),,
+0021300215,115,5,4,1,7:33 PM,1:07,,,Hibbert Traveling Turnover (P1.T4),,
+0021300215,116,2,1,1,7:33 PM,0:55,MISS Walker 26' 3PT Jump Shot,,,,
+0021300215,117,4,0,1,7:33 PM,0:54,,,Hill REBOUND (Off:1 Def:3),,
+0021300215,118,2,1,1,7:33 PM,0:44,,,MISS Hill 19' Jump Shot,,
+0021300215,119,4,0,1,7:33 PM,0:44,,,Pacers Rebound,,
+0021300215,120,6,3,1,7:33 PM,0:44,Adrien L.B.FOUL (P3.PN),,,,
+0021300215,121,3,11,1,7:33 PM,0:44,,,MISS Hibbert Free Throw 1 of 2,,
+0021300215,122,4,1,1,7:33 PM,0:44,,,Pacers Rebound,,
+0021300215,123,8,0,1,7:34 PM,0:44,,,SUB: Watson FOR Hill,,
+0021300215,124,3,12,1,7:34 PM,0:44,,,Hibbert Free Throw 2 of 2 (10 PTS),22 - 11,-11
+0021300215,126,2,1,1,7:35 PM,0:35,MISS Taylor 21' Jump Shot,,,,
+0021300215,127,4,0,1,7:35 PM,0:33,,,Scola REBOUND (Off:0 Def:3),,
+0021300215,128,2,1,1,7:35 PM,0:26,,,MISS Johnson 26' 3PT Jump Shot,,
+0021300215,129,4,0,1,7:35 PM,0:23,Zeller REBOUND (Off:1 Def:2),,,,
+0021300215,130,2,1,1,7:35 PM,0:02,MISS Sessions 5' Jump Shot,,,,
+0021300215,131,4,0,1,7:35 PM,0:01,,,Scola REBOUND (Off:0 Def:4),,
+0021300215,132,2,1,1,7:35 PM,0:01,,,MISS George 26' 3PT Jump Shot,,
+0021300215,134,4,0,1,7:36 PM,0:00,,,Pacers Rebound,,
+0021300215,133,13,0,1,7:36 PM,0:00,,,,22 - 11,-11
+0021300215,136,12,0,2,7:38 PM,12:00,,,,22 - 11,-11
+0021300215,137,1,5,2,7:38 PM,11:39,Jefferson 1' Layup (2 PTS),,,22 - 13,-9
+0021300215,138,1,1,2,7:39 PM,11:23,,,Watson 25' 3PT Jump Shot (3 PTS) (Stephenson 1 AST),25 - 13,-12
+0021300215,139,2,1,2,7:39 PM,11:04,MISS Zeller 18' Jump Shot,,,,
+0021300215,140,4,0,2,7:39 PM,11:03,Kidd-Gilchrist REBOUND (Off:2 Def:2),,,,
+0021300215,141,2,5,2,7:39 PM,10:58,MISS Sessions 1' Layup,,,,
+0021300215,142,4,0,2,7:39 PM,10:56,,,Copeland REBOUND (Off:0 Def:1),,
+0021300215,143,2,1,2,7:39 PM,10:47,,,MISS Copeland 27' 3PT Jump Shot,,
+0021300215,144,4,0,2,7:39 PM,10:46,Jefferson REBOUND (Off:0 Def:3),,,,
+0021300215,145,1,42,2,7:39 PM,10:31,Sessions 1' Driving Layup (2 PTS),,,25 - 15,-10
+0021300215,146,2,1,2,7:40 PM,10:09,,,MISS Scola 20' Jump Shot,,
+0021300215,147,4,0,2,7:40 PM,10:07,Kidd-Gilchrist REBOUND (Off:2 Def:3),,,,
+0021300215,148,1,1,2,7:40 PM,9:54,Zeller 22' Jump Shot (4 PTS) (Kidd-Gilchrist 2 AST),,,25 - 17,-8
+0021300215,149,2,1,2,7:40 PM,9:29,,,MISS Watson 20' Jump Shot,,
+0021300215,150,4,0,2,7:41 PM,9:27,Jefferson REBOUND (Off:0 Def:4),,,,
+0021300215,151,2,5,2,7:41 PM,9:23,MISS Taylor 1' Layup,,,,
+0021300215,152,4,0,2,7:41 PM,9:23,,,Pacers Rebound,,
+0021300215,153,6,3,2,7:41 PM,9:23,Zeller L.B.FOUL (P1.T1),,,,
+0021300215,154,1,1,2,7:41 PM,9:08,,,Scola 16' Jump Shot (2 PTS) (Watson 1 AST),27 - 17,-10
+0021300215,155,6,1,2,7:41 PM,8:56,,,Scola P.FOUL (P2.T1),,
+0021300215,156,9,4,2,7:42 PM,8:56,,,,,
+0021300215,158,1,1,2,7:44 PM,8:45,Taylor 18' Jump Shot (2 PTS) (Zeller 1 AST),,,27 - 19,-8
+0021300215,159,6,1,2,7:44 PM,8:35,Zeller P.FOUL (P2.T2),,,,
+0021300215,160,2,1,2,7:45 PM,8:25,,,MISS Copeland 26' 3PT Jump Shot,,
+0021300215,161,4,0,2,7:45 PM,8:22,Taylor REBOUND (Off:0 Def:1),,,,
+0021300215,162,6,2,2,7:45 PM,8:11,,,Mahinmi S.FOUL (P1.T2),,
+0021300215,163,3,11,2,7:45 PM,8:11,Jefferson Free Throw 1 of 2 (3 PTS),,,27 - 20,-7
+0021300215,165,3,12,2,7:45 PM,8:11,Jefferson Free Throw 2 of 2 (4 PTS),,,27 - 21,-6
+0021300215,167,5,2,2,7:46 PM,7:59,Kidd-Gilchrist STEAL (1 STL),,Watson Lost Ball Turnover (P1.T5),,
+0021300215,168,5,40,2,7:46 PM,7:56,Kidd-Gilchrist Out of Bounds Lost Ball Turnover (P1.T3),,,,
+0021300215,169,2,1,2,7:46 PM,7:41,,,MISS Mahinmi 20' Jump Shot,,
+0021300215,170,4,0,2,7:46 PM,7:39,Taylor REBOUND (Off:0 Def:2),,,,
+0021300215,171,2,47,2,7:46 PM,7:25,MISS Jefferson 8' Turnaround Jump Shot,,,,
+0021300215,172,4,0,2,7:46 PM,7:21,,,Scola REBOUND (Off:0 Def:5),,
+0021300215,173,2,63,2,7:47 PM,7:12,,,MISS Scola 4' Fadeaway Jumper,,
+0021300215,174,4,0,2,7:47 PM,7:12,,,Pacers Rebound,,
+0021300215,175,6,3,2,7:47 PM,7:12,Taylor L.B.FOUL (P1.T3),,,,
+0021300215,176,8,0,2,7:47 PM,7:12,SUB: Henderson FOR Taylor,,,,
+0021300215,177,2,5,2,7:47 PM,6:59,Zeller BLOCK (1 BLK),,MISS Mahinmi 1' Layup,,
+0021300215,178,4,0,2,7:47 PM,6:56,,,Mahinmi REBOUND (Off:1 Def:0),,
+0021300215,179,2,5,2,7:47 PM,6:56,Jefferson BLOCK (1 BLK),,MISS Mahinmi 1' Layup,,
+0021300215,180,4,0,2,7:48 PM,6:56,BOBCATS Rebound,,,,
+0021300215,181,1,1,2,7:48 PM,6:36,Henderson 12' Jump Shot (2 PTS),,,27 - 23,-4
+0021300215,182,6,2,2,7:48 PM,6:19,Zeller S.FOUL (P3.T4),,,,
+0021300215,183,3,11,2,7:48 PM,6:19,,,Mahinmi Free Throw 1 of 2 (1 PTS),28 - 23,-5
+0021300215,185,8,0,2,7:49 PM,6:19,SUB: McRoberts FOR Zeller,,,,
+0021300215,186,3,12,2,7:49 PM,6:19,,,Mahinmi Free Throw 2 of 2 (2 PTS),29 - 23,-6
+0021300215,188,1,1,2,7:49 PM,6:04,Jefferson 13' Jump Shot (6 PTS) (McRoberts 2 AST),,,29 - 25,-4
+0021300215,189,6,2,2,7:50 PM,5:43,McRoberts S.FOUL (P2.PN),,,,
+0021300215,190,9,1,2,7:50 PM,5:43,BOBCATS Timeout: Regular (Full 2 Short 1),,,,
+0021300215,192,8,0,2,7:52 PM,5:43,,,SUB: Hill FOR Copeland,,
+0021300215,193,3,11,2,7:52 PM,5:43,,,Scola Free Throw 1 of 2 (3 PTS),30 - 25,-5
+0021300215,195,3,12,2,7:53 PM,5:43,,,Scola Free Throw 2 of 2 (4 PTS),31 - 25,-6
+0021300215,197,1,1,2,7:53 PM,5:30,Jefferson 18' Jump Shot (8 PTS) (Henderson 1 AST),,,31 - 27,-4
+0021300215,198,1,1,2,7:53 PM,5:10,,,Scola 16' Jump Shot (6 PTS) (Stephenson 2 AST),33 - 27,-6
+0021300215,199,2,1,2,7:54 PM,4:48,MISS Kidd-Gilchrist 18' Jump Shot,,,,
+0021300215,200,4,0,2,7:54 PM,4:46,McRoberts REBOUND (Off:1 Def:0),,,,
+0021300215,201,5,4,2,7:54 PM,4:39,Henderson Traveling Turnover (P1.T4),,,,
+0021300215,202,8,0,2,7:54 PM,4:39,,,SUB: West FOR Scola,,
+0021300215,203,8,0,2,7:54 PM,4:39,SUB: Walker FOR Sessions,,,,
+0021300215,204,2,46,2,7:55 PM,4:20,,,MISS Hill 4' Running Jump Shot,,
+0021300215,206,4,0,2,7:55 PM,4:20,,,Hill REBOUND (Off:2 Def:3),,
+0021300215,205,1,72,2,7:55 PM,4:20,,,Hill  Putback Layup (5 PTS),35 - 27,-8
+0021300215,207,6,2,2,7:55 PM,4:20,McRoberts S.FOUL (P3.PN),,,,
+0021300215,208,8,0,2,7:55 PM,4:20,SUB: Tolliver FOR McRoberts,,,,
+0021300215,209,3,10,2,7:55 PM,4:20,,,Hill Free Throw 1 of 1 (6 PTS),36 - 27,-9
+0021300215,211,5,1,2,7:56 PM,4:02,Henderson Bad Pass Turnover (P2.T5),,Hill STEAL (1 STL),,
+0021300215,212,2,5,2,7:56 PM,3:58,Henderson BLOCK (1 BLK),,MISS Hill 2' Layup,,
+0021300215,213,4,0,2,7:56 PM,3:55,Kidd-Gilchrist REBOUND (Off:2 Def:4),,,,
+0021300215,214,2,1,2,7:56 PM,3:42,MISS Henderson 6' Jump Shot,,,,
+0021300215,215,4,0,2,7:56 PM,3:39,,,Watson REBOUND (Off:0 Def:1),,
+0021300215,216,2,1,2,7:56 PM,3:34,,,MISS Mahinmi 11' Jump Shot,,
+0021300215,217,4,0,2,7:56 PM,3:32,Walker REBOUND (Off:0 Def:2),,,,
+0021300215,218,1,5,2,7:57 PM,3:24,Kidd-Gilchrist 2' Layup (4 PTS) (Jefferson 1 AST),,,36 - 29,-7
+0021300215,219,6,2,2,7:57 PM,3:24,,,Hill S.FOUL (P2.T3),,
+0021300215,220,8,0,2,7:57 PM,3:24,,,SUB: George FOR Watson,,
+0021300215,221,8,0,2,7:57 PM,3:24,,,SUB: Hibbert FOR Mahinmi,,
+0021300215,222,3,10,2,7:57 PM,3:24,Kidd-Gilchrist Free Throw 1 of 1 (5 PTS),,,36 - 30,-6
+0021300215,224,1,1,2,7:57 PM,3:12,,,George 27' 3PT Jump Shot (9 PTS) (Hill 3 AST),39 - 30,-9
+0021300215,225,5,2,2,7:57 PM,2:56,Tolliver Lost Ball Turnover (P1.T6),,West STEAL (1 STL),,
+0021300215,226,6,1,2,7:58 PM,2:49,Tolliver P.FOUL (P1.PN),,,,
+0021300215,227,9,1,2,7:58 PM,2:49,,,Pacers Timeout: Regular (Reg.2 Short 0),,
+0021300215,229,3,11,2,8:00 PM,2:49,,,MISS West Free Throw 1 of 2,,
+0021300215,230,4,1,2,8:00 PM,2:49,,,Pacers Rebound,,
+0021300215,231,3,12,2,8:00 PM,2:49,,,West Free Throw 2 of 2 (4 PTS),40 - 30,-10
+0021300215,233,1,1,2,8:01 PM,2:36,Jefferson 17' Jump Shot (10 PTS) (Walker 1 AST),,,40 - 32,-8
+0021300215,234,2,1,2,8:01 PM,2:19,,,MISS West 3' Jump Shot,,
+0021300215,235,4,0,2,8:01 PM,2:17,,,West REBOUND (Off:1 Def:4),,
+0021300215,236,2,3,2,8:01 PM,2:15,,,MISS West 1' Hook Shot,,
+0021300215,237,4,0,2,8:01 PM,2:11,Kidd-Gilchrist REBOUND (Off:2 Def:5),,,,
+0021300215,238,6,2,2,8:01 PM,2:10,,,Stephenson S.FOUL (P1.T4),,
+0021300215,239,3,11,2,8:02 PM,2:10,Walker Free Throw 1 of 2 (6 PTS),,,40 - 33,-7
+0021300215,241,3,12,2,8:02 PM,2:10,Walker Free Throw 2 of 2 (7 PTS),,,40 - 34,-6
+0021300215,243,5,1,2,8:02 PM,2:00,Walker STEAL (1 STL),,Stephenson Bad Pass Turnover (P2.T6),,
+0021300215,244,2,1,2,8:02 PM,1:53,MISS Walker 17' Jump Shot,,,,
+0021300215,245,4,0,2,8:02 PM,1:48,,,Stephenson REBOUND (Off:0 Def:2),,
+0021300215,246,6,2,2,8:03 PM,1:37,Kidd-Gilchrist S.FOUL (P1.PN),,,,
+0021300215,247,3,11,2,8:03 PM,1:37,,,George Free Throw 1 of 2 (10 PTS),41 - 34,-7
+0021300215,249,3,12,2,8:03 PM,1:37,,,Free Throw 2 of 2,,
+0021300215,250,4,1,2,8:03 PM,1:37,BOBCATS Rebound,,,,
+0021300215,252,2,1,2,8:04 PM,1:21,MISS Henderson 10' Jump Shot,,,,
+0021300215,253,4,0,2,8:04 PM,1:19,,,West REBOUND (Off:1 Def:5),,
+0021300215,254,5,4,2,8:04 PM,1:16,,,Stephenson Traveling Turnover (P3.T7),,
+0021300215,255,2,1,2,8:04 PM,0:57,MISS Jefferson 5' Jump Shot,,,,
+0021300215,256,4,0,2,8:04 PM,0:56,,,George REBOUND (Off:0 Def:2),,
+0021300215,257,6,4,2,8:05 PM,0:49,,,Hibbert OFF.Foul (P1),,
+0021300215,258,5,5,2,8:05 PM,0:49,,,Hibbert Foul Turnover (P2.T8),,
+0021300215,259,2,1,2,8:05 PM,0:42,MISS Walker 15' Jump Shot,,,,
+0021300215,260,4,0,2,8:05 PM,0:41,BOBCATS Rebound,,,,
+0021300215,261,8,0,2,8:05 PM,0:41,,,SUB: Watson FOR Hill,,
+0021300215,262,6,1,2,8:06 PM,0:36,,,George P.FOUL (P2.PN),,
+0021300215,263,3,11,2,8:06 PM,0:36,Henderson Free Throw 1 of 2 (3 PTS),,,41 - 35,-6
+0021300215,265,3,12,2,8:06 PM,0:36,Henderson Free Throw 2 of 2 (4 PTS),,,41 - 36,-5
+0021300215,267,1,1,2,8:07 PM,0:26,,,George 10' Jump Shot (12 PTS),43 - 36,-7
+0021300215,268,1,1,2,8:07 PM,0:01,Henderson 8' Jump Shot (6 PTS),,,43 - 38,-5
+0021300215,269,2,1,2,8:07 PM,0:00,,,MISS George 52' 3PT Jump Shot,,
+0021300215,271,4,0,2,8:08 PM,0:00,,,Pacers Rebound,,
+0021300215,270,13,0,2,8:08 PM,0:00,,,,43 - 38,-5
+0021300215,273,12,0,3,8:23 PM,12:00,,,,43 - 38,-5
+0021300215,274,5,1,3,8:23 PM,11:46,Walker Bad Pass Turnover (P1.T7),,,,
+0021300215,275,6,4,3,8:24 PM,11:31,,,George OFF.Foul (P3),,
+0021300215,276,5,5,3,8:24 PM,11:31,,,George Foul Turnover (P3.T9),,
+0021300215,277,5,4,3,8:24 PM,11:18,Jefferson Traveling Turnover (P3.T8),,,,
+0021300215,278,2,3,3,8:25 PM,10:59,,,MISS Hibbert 4' Hook Shot,,
+0021300215,279,4,0,3,8:25 PM,10:54,Henderson REBOUND (Off:0 Def:2),,,,
+0021300215,280,2,1,3,8:25 PM,10:46,MISS Jefferson 15' Jump Shot,,,,
+0021300215,281,4,0,3,8:25 PM,10:45,,,George REBOUND (Off:0 Def:3),,
+0021300215,282,2,1,3,8:25 PM,10:35,,,MISS George 16' Jump Shot,,
+0021300215,283,4,0,3,8:25 PM,10:34,Jefferson REBOUND (Off:0 Def:5),,,,
+0021300215,284,2,1,3,8:25 PM,10:28,MISS Henderson 13' Jump Shot,,,,
+0021300215,285,4,0,3,8:25 PM,10:24,,,George REBOUND (Off:0 Def:4),,
+0021300215,286,2,63,3,8:26 PM,10:07,,,MISS George 11' Fadeaway Jumper,,
+0021300215,287,4,0,3,8:26 PM,10:05,McRoberts REBOUND (Off:1 Def:1),,,,
+0021300215,288,6,2,3,8:26 PM,10:02,,,George S.FOUL (P4.T1),,
+0021300215,289,3,11,3,8:26 PM,10:02,Henderson Free Throw 1 of 2 (7 PTS),,,43 - 39,-4
+0021300215,291,8,0,3,8:26 PM,10:02,,,SUB: Watson FOR George,,
+0021300215,292,3,12,3,8:26 PM,10:02,Henderson Free Throw 2 of 2 (8 PTS),,,43 - 40,-3
+0021300215,294,6,1,3,8:27 PM,9:52,Kidd-Gilchrist P.FOUL (P2.T1),,,,
+0021300215,295,6,2,3,8:27 PM,9:49,McRoberts S.FOUL (P4.T2),,,,
+0021300215,296,3,11,3,8:28 PM,9:49,,,West Free Throw 1 of 2 (5 PTS),44 - 40,-4
+0021300215,298,8,0,3,8:28 PM,9:49,SUB: Zeller FOR McRoberts,,,,
+0021300215,299,3,12,3,8:28 PM,9:49,,,MISS West Free Throw 2 of 2,,
+0021300215,301,4,0,3,8:28 PM,9:47,,,Hibbert REBOUND (Off:4 Def:2),,
+0021300215,302,2,1,3,8:28 PM,9:41,,,MISS Hill 27' 3PT Jump Shot,,
+0021300215,303,4,0,3,8:28 PM,9:40,Walker REBOUND (Off:0 Def:3),,,,
+0021300215,304,2,1,3,8:29 PM,9:28,MISS Walker 14' Jump Shot,,,,
+0021300215,305,4,0,3,8:29 PM,9:27,,,West REBOUND (Off:1 Def:6),,
+0021300215,306,6,1,3,8:29 PM,9:20,Jefferson P.FOUL (P1.T3),,,,
+0021300215,307,6,1,3,8:29 PM,9:18,Henderson P.FOUL (P2.T4),,,,
+0021300215,308,6,1,3,8:30 PM,9:12,Zeller P.FOUL (P4.PN),,,,
+0021300215,309,3,11,3,8:30 PM,9:12,,,West Free Throw 1 of 2 (6 PTS),45 - 40,-5
+0021300215,311,3,12,3,8:30 PM,9:12,,,West Free Throw 2 of 2 (7 PTS),46 - 40,-6
+0021300215,313,6,2,3,8:31 PM,8:55,,,Hibbert S.FOUL (P2.T2),,
+0021300215,314,3,11,3,8:31 PM,8:55,MISS Jefferson Free Throw 1 of 2,,,,
+0021300215,315,4,1,3,8:31 PM,8:55,BOBCATS Rebound,,,,
+0021300215,316,6,11,3,8:32 PM,8:55,,,,,
+0021300215,317,3,16,3,8:32 PM,8:55,,,Hill Free Throw Technical (7 PTS),47 - 40,-7
+0021300215,319,3,12,3,8:32 PM,8:55,MISS Jefferson Free Throw 2 of 2,,,,
+0021300215,321,4,0,3,8:32 PM,8:54,,,Watson REBOUND (Off:0 Def:2),,
+0021300215,323,7,2,3,8:32 PM,8:45,Henderson Violation:Defensive Goaltending,,,,
+0021300215,322,1,5,3,8:32 PM,8:45,,,West 2' Layup (9 PTS) (Hibbert 2 AST),49 - 40,-9
+0021300215,325,2,1,3,8:34 PM,8:29,MISS Walker 15' Jump Shot,,,,
+0021300215,326,4,0,3,8:34 PM,8:28,,,Hibbert REBOUND (Off:4 Def:3),,
+0021300215,327,2,58,3,8:35 PM,8:08,,,MISS Hibbert 7' Turnaround Hook Shot,,
+0021300215,328,4,0,3,8:35 PM,8:04,Henderson REBOUND (Off:0 Def:3),,,,
+0021300215,329,2,1,3,8:35 PM,7:55,MISS Kidd-Gilchrist 19' Jump Shot,,,,
+0021300215,330,4,0,3,8:35 PM,7:54,,,Hill REBOUND (Off:2 Def:4),,
+0021300215,331,2,1,3,8:35 PM,7:39,,,MISS Stephenson 27' 3PT Jump Shot,,
+0021300215,332,4,0,3,8:35 PM,7:38,,,Hibbert REBOUND (Off:5 Def:3),,
+0021300215,333,2,5,3,8:35 PM,7:36,,,MISS Hibbert 1' Layup,,
+0021300215,334,4,0,3,8:35 PM,7:36,,,Hibbert REBOUND (Off:6 Def:3),,
+0021300215,335,2,5,3,8:35 PM,7:36,Jefferson BLOCK (2 BLK),,MISS Hibbert 3' Layup,,
+0021300215,336,4,0,3,8:35 PM,7:36,,,Pacers Rebound,,
+0021300215,337,2,1,3,8:36 PM,7:33,,,MISS Stephenson 18' Jump Shot,,
+0021300215,338,4,0,3,8:36 PM,7:31,Zeller REBOUND (Off:1 Def:3),,,,
+0021300215,339,2,47,3,8:36 PM,7:17,MISS Henderson 6' Turnaround Jump Shot,,,,
+0021300215,340,4,0,3,8:36 PM,7:15,Jefferson REBOUND (Off:1 Def:5),,,,
+0021300215,341,6,2,3,8:36 PM,7:08,,,Hibbert S.FOUL (P3.T3),,
+0021300215,342,3,11,3,8:36 PM,7:08,Walker Free Throw 1 of 2 (8 PTS),,,49 - 41,-8
+0021300215,344,3,12,3,8:36 PM,7:08,Walker Free Throw 2 of 2 (9 PTS),,,49 - 42,-7
+0021300215,346,1,1,3,8:37 PM,6:54,,,West 17' Jump Shot (11 PTS) (Hill 4 AST),51 - 42,-9
+0021300215,347,1,42,3,8:37 PM,6:32,Henderson 1' Driving Layup (10 PTS),,,51 - 44,-7
+0021300215,348,2,3,3,8:38 PM,6:08,,,MISS Hibbert 9' Hook Shot,,
+0021300215,349,4,0,3,8:38 PM,6:07,Zeller REBOUND (Off:1 Def:4),,,,
+0021300215,350,1,1,3,8:38 PM,5:58,Jefferson 17' Jump Shot (12 PTS) (Walker 2 AST),,,51 - 46,-5
+0021300215,351,2,1,3,8:38 PM,5:38,,,MISS Watson 18' Jump Shot,,
+0021300215,352,4,0,3,8:38 PM,5:37,,,Stephenson REBOUND (Off:1 Def:2),,
+0021300215,353,1,5,3,8:38 PM,5:37,,,Stephenson  Layup (2 PTS),53 - 46,-7
+0021300215,354,6,2,3,8:38 PM,5:37,Kidd-Gilchrist S.FOUL (P3.PN),,,,
+0021300215,355,9,1,3,8:39 PM,5:37,BOBCATS Timeout: Regular (Full 3 Short 1),,,,
+0021300215,357,8,0,3,8:41 PM,5:37,SUB: Taylor FOR Kidd-Gilchrist,,,,
+0021300215,359,3,10,3,8:41 PM,5:37,,,Stephenson Free Throw 1 of 1 (3 PTS),54 - 46,-8
+0021300215,361,2,80,3,8:42 PM,5:20,MISS Jefferson 17' Step Back Jump Shot,,,,
+0021300215,362,4,0,3,8:42 PM,5:19,,,Stephenson REBOUND (Off:1 Def:3),,
+0021300215,363,6,2,3,8:42 PM,5:17,Jefferson S.FOUL (P2.PN),,,,
+0021300215,364,3,11,3,8:42 PM,5:17,,,Hibbert Free Throw 1 of 2 (11 PTS),55 - 46,-9
+0021300215,366,3,12,3,8:42 PM,5:17,,,Hibbert Free Throw 2 of 2 (12 PTS),56 - 46,-10
+0021300215,368,6,4,3,8:43 PM,5:02,Zeller OFF.Foul (P5),,,,
+0021300215,369,5,5,3,8:43 PM,5:02,Zeller Foul Turnover (P1.T9),,,,
+0021300215,370,8,0,3,8:43 PM,5:02,SUB: Tolliver FOR Zeller,,,,
+0021300215,371,2,1,3,8:43 PM,4:44,,,MISS Hibbert 8' Jump Shot,,
+0021300215,372,4,0,3,8:43 PM,4:43,Walker REBOUND (Off:0 Def:4),,,,
+0021300215,373,2,5,3,8:43 PM,4:38,MISS Walker 3' Layup,,Hill BLOCK (1 BLK),,
+0021300215,374,4,0,3,8:43 PM,4:35,,,Stephenson REBOUND (Off:1 Def:4),,
+0021300215,375,2,5,3,8:44 PM,4:20,Jefferson BLOCK (3 BLK),,MISS Stephenson 1' Layup,,
+0021300215,376,4,0,3,8:44 PM,4:15,Jefferson REBOUND (Off:1 Def:6),,,,
+0021300215,377,2,5,3,8:44 PM,4:15,MISS Taylor 2' Layup,,Hill BLOCK (2 BLK),,
+0021300215,378,4,0,3,8:44 PM,4:15,,,Pacers Rebound,,
+0021300215,379,8,0,3,8:44 PM,4:15,SUB: Biyombo FOR Jefferson,,,,
+0021300215,380,6,2,3,8:44 PM,4:05,Taylor S.FOUL (P2.PN),,,,
+0021300215,381,9,1,3,8:45 PM,4:05,BOBCATS Timeout: Regular (Full 4 Short 1),,,,
+0021300215,383,8,0,3,8:47 PM,4:05,,,SUB: Mahinmi FOR Hibbert,,
+0021300215,384,3,11,3,8:47 PM,4:05,,,MISS Stephenson Free Throw 1 of 2,,
+0021300215,385,4,1,3,8:47 PM,4:05,,,Pacers Rebound,,
+0021300215,386,3,12,3,8:47 PM,4:05,,,Stephenson Free Throw 2 of 2 (4 PTS),57 - 46,-11
+0021300215,388,5,2,3,8:47 PM,3:55,Walker Lost Ball Turnover (P2.T10),,Stephenson STEAL (1 STL),,
+0021300215,389,2,1,3,8:48 PM,3:49,,,MISS Hill 28' 3PT Jump Shot,,
+0021300215,390,4,0,3,8:48 PM,3:46,Henderson REBOUND (Off:0 Def:4),,,,
+0021300215,393,2,1,3,8:48 PM,3:37,MISS Tolliver  3PT Jump Shot,,,,
+0021300215,394,4,0,3,8:48 PM,3:35,,,Stephenson REBOUND (Off:1 Def:5),,
+0021300215,395,6,1,3,8:48 PM,3:27,Taylor P.FOUL (P3.PN),,,,
+0021300215,396,3,11,3,8:49 PM,3:27,,,Stephenson Free Throw 1 of 2 (5 PTS),58 - 46,-12
+0021300215,398,3,12,3,8:49 PM,3:27,,,Stephenson Free Throw 2 of 2 (6 PTS),59 - 46,-13
+0021300215,400,6,3,3,8:49 PM,3:27,,,West L.B.FOUL (P1.T4),,
+0021300215,401,2,5,3,8:50 PM,3:05,MISS Henderson 2' Layup,,,,
+0021300215,402,4,0,3,8:50 PM,3:04,Biyombo REBOUND (Off:1 Def:0),,,,
+0021300215,403,6,2,3,8:50 PM,3:04,,,Mahinmi S.FOUL (P2.PN),,
+0021300215,405,3,11,3,8:50 PM,3:04,MISS Biyombo Free Throw 1 of 2,,,,
+0021300215,406,4,1,3,8:50 PM,3:04,BOBCATS Rebound,,,,
+0021300215,408,8,0,3,8:50 PM,3:04,SUB: Sessions FOR Henderson,,,,
+0021300215,409,3,12,3,8:51 PM,3:04,MISS Biyombo Free Throw 2 of 2,,,,
+0021300215,411,4,0,3,8:51 PM,3:00,,,Watson REBOUND (Off:0 Def:3),,
+0021300215,413,2,1,3,8:51 PM,2:48,,,MISS West 7' Jump Shot,,
+0021300215,414,4,0,3,8:51 PM,2:47,Biyombo REBOUND (Off:1 Def:1),,,,
+0021300215,415,6,10,3,8:51 PM,2:47,,,,,
+0021300215,417,2,1,3,8:52 PM,2:33,MISS Walker 15' Jump Shot,,,,
+0021300215,418,4,0,3,8:52 PM,2:32,,,West REBOUND (Off:1 Def:7),,
+0021300215,420,2,5,3,8:52 PM,2:12,,,MISS West 2' Layup,,
+0021300215,421,4,0,3,8:52 PM,2:11,Biyombo REBOUND (Off:1 Def:2),,,,
+0021300215,422,1,42,3,8:52 PM,1:56,Sessions 2' Driving Layup (4 PTS),,,59 - 48,-11
+0021300215,423,6,4,3,8:52 PM,1:52,,,Hill OFF.Foul (P3),,
+0021300215,424,5,5,3,8:52 PM,1:52,,,Hill Foul Turnover (P1.T10),,
+0021300215,425,7,1,3,8:53 PM,1:52,,,Pacers Violation: Delay of game Violation,,
+0021300215,429,10,0,3,8:53 PM,1:52,Jump Ball Biyombo vs. Mahinmi: Tip to Walker,,,,
+0021300215,449,2,45,3,8:53 PM,1:30,MISS Tolliver  3PT Jump Shot,,,,
+0021300215,455,4,0,3,8:53 PM,1:29,,,Hill REBOUND (Off:2 Def:5),,
+0021300215,426,2,1,3,8:54 PM,1:25,,,MISS Stephenson 29' 3PT Jump Shot,,
+0021300215,427,4,0,3,8:54 PM,1:25,,,Pacers Rebound,,
+0021300215,428,6,3,3,8:54 PM,1:25,Taylor L.B.FOUL (P5.PN),,,,
+0021300215,431,3,11,3,8:54 PM,1:25,,,Mahinmi Free Throw 1 of 2 (3 PTS),60 - 48,-12
+0021300215,430,8,0,3,8:54 PM,1:25,SUB: Kidd-Gilchrist FOR Taylor,,,,
+0021300215,435,7,6,3,8:55 PM,1:25,,,Mahinmi Violation:Double Lane,,
+0021300215,438,10,0,3,8:55 PM,1:25,Jump Ball Biyombo vs. Mahinmi: Tip to Walker,,,,
+0021300215,440,2,5,3,8:55 PM,1:11,MISS Tolliver  Layup,,,,
+0021300215,441,4,0,3,8:55 PM,1:10,Biyombo REBOUND (Off:2 Def:2),,,,
+0021300215,442,6,2,3,8:56 PM,1:10,,,West S.FOUL (P2.PN),,
+0021300215,443,3,11,3,8:56 PM,1:10,Biyombo Free Throw 1 of 2 (1 PTS),,,60 - 49,-11
+0021300215,445,9,1,3,8:56 PM,1:10,,,Pacers Timeout: Regular (Reg.3 Short 0),,
+0021300215,446,3,12,3,8:58 PM,1:10,Biyombo Free Throw 2 of 2 (2 PTS),,,60 - 50,-10
+0021300215,448,5,4,3,8:58 PM,0:54,,,Mahinmi Traveling Turnover (P1.T11),,
+0021300215,450,2,1,3,8:59 PM,0:41,MISS Walker 12' Jump Shot,,,,
+0021300215,451,4,0,3,8:59 PM,0:37,BOBCATS Rebound,,,,
+0021300215,452,1,42,3,9:00 PM,0:27,Walker 3' Driving Layup (11 PTS),,,60 - 52,-8
+0021300215,454,7,1,3,9:00 PM,0:26,BOBCATS Violation: Delay of game Violation,,,,
+0021300215,456,2,1,3,9:01 PM,0:10,,,MISS Hill 27' 3PT Jump Shot,,
+0021300215,457,4,0,3,9:01 PM,0:10,BOBCATS Rebound,,,,
+0021300215,458,2,1,3,9:01 PM,0:01,MISS Walker 15' Jump Shot,,,,
+0021300215,459,4,0,3,9:01 PM,0:00,,,Stephenson REBOUND (Off:1 Def:6),,
+0021300215,461,13,0,3,9:01 PM,0:00,,,,60 - 52,-8
+0021300215,463,12,0,4,9:04 PM,12:00,,,,60 - 52,-8
+0021300215,464,2,5,4,9:04 PM,11:36,Kidd-Gilchrist BLOCK (1 BLK),,MISS George 1' Layup,,
+0021300215,465,4,0,4,9:04 PM,11:35,Walker REBOUND (Off:0 Def:5),,,,
+0021300215,466,5,1,4,9:04 PM,11:26,Sessions Bad Pass Turnover (P1.T11),,George STEAL (2 STL),,
+0021300215,467,5,1,4,9:04 PM,11:21,,,George Bad Pass Turnover (P4.T12),,
+0021300215,468,1,5,4,9:05 PM,11:07,Biyombo 1' Layup (4 PTS),,,60 - 54,-6
+0021300215,470,6,18,4,9:05 PM,11:06,BOBCATS Foul,,,,
+0021300215,471,3,16,4,9:05 PM,11:06,,,George Free Throw Technical (13 PTS),61 - 54,-7
+0021300215,473,5,1,4,9:06 PM,10:56,Walker STEAL (2 STL),,George Bad Pass Turnover (P5.T13),,
+0021300215,474,5,2,4,9:06 PM,10:52,Walker Lost Ball Turnover (P3.T12),,George STEAL (3 STL),,
+0021300215,475,2,5,4,9:06 PM,10:40,,,MISS Scola 1' Layup,,
+0021300215,477,4,0,4,9:06 PM,10:38,,,Scola REBOUND (Off:1 Def:5),,
+0021300215,476,1,5,4,9:06 PM,10:38,,,Scola  Layup (8 PTS),63 - 54,-9
+0021300215,479,6,18,4,9:06 PM,10:38,,,Pacers Foul,,
+0021300215,480,3,16,4,9:06 PM,10:38,Walker Free Throw Technical (12 PTS),,,63 - 55,-8
+0021300215,482,2,5,4,9:07 PM,10:25,MISS Walker  Layup,,,,
+0021300215,484,4,0,4,9:07 PM,10:23,,,Watson REBOUND (Off:0 Def:4),,
+0021300215,485,1,1,4,9:07 PM,10:17,,,Watson 25' 3PT Jump Shot (6 PTS),66 - 55,-11
+0021300215,486,9,1,4,9:07 PM,10:10,BOBCATS Timeout: Regular (Full 5 Short 1),,,,
+0021300215,488,8,0,4,9:09 PM,10:10,SUB: McRoberts FOR Sessions,,,,
+0021300215,489,8,0,4,9:09 PM,10:10,SUB: Jefferson FOR Tolliver,,,,
+0021300215,490,8,0,4,9:09 PM,10:10,SUB: Henderson FOR Biyombo,,,,
+0021300215,492,2,5,4,9:10 PM,9:54,MISS Jefferson 3' Layup,,,,
+0021300215,493,4,0,4,9:10 PM,9:53,,,Mahinmi REBOUND (Off:1 Def:1),,
+0021300215,494,1,1,4,9:10 PM,9:37,,,Watson 25' 3PT Jump Shot (9 PTS) (George 1 AST),69 - 55,-14
+0021300215,495,1,1,4,9:10 PM,9:17,McRoberts 3' Jump Shot (4 PTS) (Walker 3 AST),,,69 - 57,-12
+0021300215,496,2,1,4,9:11 PM,9:02,,,MISS George 6' Jump Shot,,
+0021300215,497,4,0,4,9:11 PM,9:00,McRoberts REBOUND (Off:1 Def:2),,,,
+0021300215,498,6,2,4,9:11 PM,8:53,,,Scola S.FOUL (P3.T1),,
+0021300215,499,3,11,4,9:11 PM,8:53,MISS McRoberts Free Throw 1 of 2,,,,
+0021300215,500,4,1,4,9:11 PM,8:53,BOBCATS Rebound,,,,
+0021300215,501,8,0,4,9:11 PM,8:53,,,SUB: Stephenson FOR Johnson,,
+0021300215,502,8,0,4,9:11 PM,8:53,,,SUB: Hibbert FOR Mahinmi,,
+0021300215,503,3,12,4,9:12 PM,8:53,MISS McRoberts Free Throw 2 of 2,,,,
+0021300215,505,4,0,4,9:12 PM,8:51,Jefferson REBOUND (Off:2 Def:6),,,,
+0021300215,506,1,1,4,9:12 PM,8:45,Walker 27' 3PT Jump Shot (15 PTS) (Jefferson 2 AST),,,69 - 60,-9
+0021300215,507,1,1,4,9:12 PM,8:27,,,Watson 26' 3PT Jump Shot (12 PTS) (George 2 AST),72 - 60,-12
+0021300215,508,1,1,4,9:12 PM,8:13,Jefferson 3' Jump Shot (14 PTS),,,72 - 62,-10
+0021300215,509,6,2,4,9:13 PM,7:52,McRoberts S.FOUL (P5.T1),,,,
+0021300215,510,3,11,4,9:13 PM,7:52,,,Hibbert Free Throw 1 of 2 (13 PTS),73 - 62,-11
+0021300215,512,3,12,4,9:13 PM,7:52,,,Hibbert Free Throw 2 of 2 (14 PTS),74 - 62,-12
+0021300215,514,2,1,4,9:14 PM,7:31,MISS Walker 4' Jump Shot,,,,
+0021300215,515,4,0,4,9:14 PM,7:30,,,Watson REBOUND (Off:0 Def:5),,
+0021300215,516,1,1,4,9:14 PM,7:14,,,George 14' Jump Shot (15 PTS),76 - 62,-14
+0021300215,517,5,1,4,9:14 PM,6:51,McRoberts Bad Pass Turnover (P1.T13),,Stephenson STEAL (2 STL),,
+0021300215,518,1,1,4,9:15 PM,6:45,,,Watson 26' 3PT Jump Shot (15 PTS) (Scola 1 AST),79 - 62,-17
+0021300215,519,9,1,4,9:15 PM,6:43,BOBCATS Timeout: Regular (Full 6 Short 1),,,,
+0021300215,521,2,1,4,9:17 PM,6:31,MISS Henderson 5' Jump Shot,,,,
+0021300215,523,4,0,4,9:17 PM,6:30,Jefferson REBOUND (Off:3 Def:6),,,,
+0021300215,522,1,72,4,9:17 PM,6:30,Jefferson 1' Putback Layup (16 PTS),,,79 - 64,-15
+0021300215,524,6,2,4,9:18 PM,6:15,Henderson S.FOUL (P3.T2),,,,
+0021300215,525,3,11,4,9:18 PM,6:15,,,MISS Stephenson Free Throw 1 of 2,,
+0021300215,526,4,1,4,9:18 PM,6:15,,,Pacers Rebound,,
+0021300215,527,3,12,4,9:18 PM,6:15,,,Stephenson Free Throw 2 of 2 (7 PTS),80 - 64,-16
+0021300215,529,2,1,4,9:18 PM,6:01,MISS Jefferson 4' Jump Shot,,,,
+0021300215,530,4,0,4,9:18 PM,6:00,,,George REBOUND (Off:0 Def:5),,
+0021300215,531,1,5,4,9:19 PM,5:39,,,Stephenson 2' Layup (9 PTS) (George 3 AST),82 - 64,-18
+0021300215,563,2,45,4,9:19 PM,5:30,MISS Henderson 16' Jump Shot,,,,
+0021300215,532,4,0,4,9:19 PM,5:29,,,Stephenson REBOUND (Off:1 Def:7),,
+0021300215,533,1,5,4,9:19 PM,5:21,,,Stephenson  Layup (11 PTS) (George 4 AST),84 - 64,-20
+0021300215,534,2,1,4,9:19 PM,5:04,MISS Jefferson 19' Jump Shot,,,,
+0021300215,535,4,0,4,9:19 PM,5:02,,,Hibbert REBOUND (Off:6 Def:4),,
+0021300215,537,5,8,4,9:20 PM,4:52,,,Scola 3 Second Violation Turnover (P1.T14),,
+0021300215,539,8,0,4,9:20 PM,4:52,SUB: Zeller FOR McRoberts,,,,
+0021300215,540,8,0,4,9:20 PM,4:52,SUB: Pargo FOR Jefferson,,,,
+0021300215,541,8,0,4,9:20 PM,4:52,SUB: Taylor FOR Henderson,,,,
+0021300215,542,8,0,4,9:20 PM,4:52,SUB: Biyombo FOR Walker,,,,
+0021300215,543,2,1,4,9:20 PM,4:40,MISS Taylor 18' Jump Shot,,,,
+0021300215,544,4,0,4,9:20 PM,4:39,,,Stephenson REBOUND (Off:1 Def:8),,
+0021300215,545,2,1,4,9:21 PM,4:27,,,MISS George 11' Jump Shot,,
+0021300215,546,8,0,4,9:21 PM,4:26,SUB: Tolliver FOR Kidd-Gilchrist,,,,
+0021300215,547,10,0,4,9:21 PM,4:26,Jump Ball Biyombo vs. Scola: Tip to Pargo,,,,
+0021300215,604,4,0,4,9:21 PM,4:26,BOBCATS Rebound,,,,
+0021300215,549,1,7,4,9:21 PM,4:19,Taylor 1' Dunk (4 PTS) (Pargo 1 AST),,,84 - 66,-18
+0021300215,550,1,5,4,9:21 PM,4:00,,,Stephenson 2' Layup (13 PTS) (Scola 2 AST),86 - 66,-20
+0021300215,551,2,1,4,9:22 PM,3:43,MISS Tolliver 18' Jump Shot,,,,
+0021300215,552,4,0,4,9:22 PM,3:41,,,Scola REBOUND (Off:1 Def:6),,
+0021300215,553,1,5,4,9:22 PM,3:29,,,Stephenson 2' Layup (15 PTS) (Scola 3 AST),88 - 66,-22
+0021300215,554,2,1,4,9:22 PM,3:19,MISS Zeller 20' Jump Shot,,,,
+0021300215,555,4,0,4,9:22 PM,3:18,,,Stephenson REBOUND (Off:1 Def:9),,
+0021300215,556,1,1,4,9:22 PM,3:12,,,Watson 27' 3PT Jump Shot (18 PTS) (Stephenson 3 AST),91 - 66,-25
+0021300215,557,2,1,4,9:23 PM,2:53,MISS Zeller 4' Jump Shot,,,,
+0021300215,558,4,0,4,9:23 PM,2:51,,,Watson REBOUND (Off:0 Def:6),,
+0021300215,559,2,1,4,9:23 PM,2:46,,,MISS Watson 25' 3PT Jump Shot,,
+0021300215,560,4,0,4,9:23 PM,2:45,Taylor REBOUND (Off:0 Def:3),,,,
+0021300215,561,1,1,4,9:23 PM,2:34,Pargo 19' Jump Shot (2 PTS),,,91 - 68,-23
+0021300215,562,9,1,4,9:23 PM,2:27,,,Pacers Timeout: Regular (Reg.4 Short 0),,
+0021300215,565,8,0,4,9:25 PM,2:27,,,SUB: Mahinmi FOR George,,
+0021300215,567,8,0,4,9:25 PM,2:27,,,SUB: Copeland FOR Hibbert,,
+0021300215,568,8,0,4,9:25 PM,2:27,,,SUB: Sloan FOR Stephenson,,
+0021300215,569,8,0,4,9:25 PM,2:27,,,SUB: Hill FOR Scola,,
+0021300215,570,8,0,4,9:25 PM,2:27,,,SUB: Butler FOR Watson,,
+0021300215,571,5,4,4,9:25 PM,2:23,,,Copeland Traveling Turnover (P1.T15),,
+0021300215,572,2,1,4,9:26 PM,2:11,MISS Pargo 18' Jump Shot,,,,
+0021300215,573,4,0,4,9:26 PM,2:10,,,Butler REBOUND (Off:0 Def:1),,
+0021300215,574,2,1,4,9:26 PM,1:56,,,MISS Copeland 27' 3PT Jump Shot,,
+0021300215,575,4,0,4,9:26 PM,1:55,Tolliver REBOUND (Off:0 Def:1),,,,
+0021300215,576,2,1,4,9:26 PM,1:46,MISS Zeller 18' Jump Shot,,,,
+0021300215,577,4,0,4,9:26 PM,1:46,BOBCATS Rebound,,,,
+0021300215,578,6,3,4,9:26 PM,1:46,,,Mahinmi L.B.FOUL (P3.T2),,
+0021300215,579,1,1,4,9:27 PM,1:36,Pargo 24' 3PT Jump Shot (5 PTS) (Zeller 2 AST),,,91 - 71,-20
+0021300215,581,1,1,4,9:27 PM,1:20,,,Sloan 26' 3PT Jump Shot (3 PTS) (Copeland 1 AST),94 - 71,-23
+0021300215,583,6,2,4,9:27 PM,1:13,,,Hill S.FOUL (P1.PN),,
+0021300215,585,3,11,4,9:28 PM,1:13,Zeller Free Throw 1 of 2 (5 PTS),,,94 - 72,-22
+0021300215,588,3,12,4,9:28 PM,1:13,MISS Zeller Free Throw 2 of 2,,,,
+0021300215,590,4,0,4,9:28 PM,1:10,Zeller REBOUND (Off:2 Def:4),,,,
+0021300215,591,5,1,4,9:28 PM,1:03,Zeller Bad Pass Turnover (P2.T14),,Sloan STEAL (1 STL),,
+0021300215,592,1,5,4,9:28 PM,1:00,,,Sloan 1' Layup (5 PTS),96 - 72,-24
+0021300215,594,5,15,4,9:28 PM,0:47,Zeller Offensive Goaltending Turnover (P3.T15),,,,
+0021300215,595,1,1,4,9:29 PM,0:32,,,Butler 24' 3PT Jump Shot (3 PTS) (Hill 1 AST),99 - 72,-27
+0021300215,597,6,2,4,9:29 PM,0:22,,,Butler S.FOUL (P1.PN),,
+0021300215,598,3,11,4,9:29 PM,0:22,Zeller Free Throw 1 of 2 (6 PTS),,,99 - 73,-26
+0021300215,600,3,12,4,9:29 PM,0:22,Zeller Free Throw 2 of 2 (7 PTS),,,99 - 74,-25
+0021300215,607,13,0,4,9:41 PM,0:00,,,,99 - 74,-25

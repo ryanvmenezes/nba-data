@@ -1,0 +1,400 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029700546,0,12,0,1,6:42 AM,12:00,,,,,
+0029700546,1,10,0,1,6:43 AM,12:00,Jump Ball Longley vs. Willis: Tip to Jordan,,,,
+0029700546,2,1,1,1,6:43 AM,11:41,Jordan 18' Jump Shot (2 PTS),,,0 - 2,2
+0029700546,3,1,1,1,6:44 AM,11:24,,,Rhodes 19' Jump Shot (2 PTS) (Elie 1 AST),2 - 2,TIE
+0029700546,4,1,2,1,6:44 AM,11:13,Longley 7' Running Jump Shot (2 PTS) (Jordan 1 AST),,,2 - 4,2
+0029700546,5,1,1,1,6:44 AM,10:47,,,Barkley 11' Jump Shot (2 PTS),4 - 4,TIE
+0029700546,6,1,1,1,6:44 AM,10:27,Jordan 18' Jump Shot (4 PTS) (Pippen 1 AST),,,4 - 6,2
+0029700546,7,5,2,1,6:45 AM,10:12,Pippen STEAL (1 STL),,Rhodes Lost Ball Turnover (P1.T1),,
+0029700546,8,1,3,1,6:45 AM,10:00,Longley 5' Hook Shot (4 PTS),,,4 - 8,4
+0029700546,9,1,1,1,6:45 AM,9:33,,,Willis 14' Jump Shot (2 PTS) (Maloney 1 AST),6 - 8,2
+0029700546,10,1,2,1,6:46 AM,9:19,Jordan 14' Running Jump Shot (6 PTS) (Rodman 1 AST),,,6 - 10,4
+0029700546,11,1,1,1,6:46 AM,8:56,,,Barkley 24' 3PT Jump Shot (5 PTS) (Willis 1 AST),9 - 10,1
+0029700546,12,1,1,1,6:46 AM,8:38,Pippen 26' 3PT Jump Shot (3 PTS) (Rodman 2 AST),,,9 - 13,4
+0029700546,13,2,5,1,6:47 AM,8:24,,,MISS Barkley  Layup,,
+0029700546,14,4,0,1,6:47 AM,8:18,Longley REBOUND (Off:0 Def:1),,,,
+0029700546,15,2,1,1,6:47 AM,8:11,MISS Harper 26' 3PT Jump Shot,,,,
+0029700546,16,4,0,1,6:47 AM,8:07,,,Willis REBOUND (Off:0 Def:1),,
+0029700546,17,2,5,1,6:47 AM,8:03,,,MISS Maloney  Layup,,
+0029700546,18,4,0,1,6:47 AM,7:59,,,Rhodes REBOUND (Off:1 Def:0),,
+0029700546,19,2,1,1,6:47 AM,7:53,,,MISS Maloney 27' 3PT Jump Shot,,
+0029700546,20,4,0,1,6:47 AM,7:50,Harper REBOUND (Off:0 Def:1),,,,
+0029700546,21,1,6,1,6:47 AM,7:32,Longley  Driving Layup (6 PTS) (Rodman 3 AST),,,9 - 15,6
+0029700546,22,9,1,1,6:48 AM,7:29,,,Rockets Timeout: Regular (Reg.1 Short 0),,
+0029700546,24,6,2,1,6:50 AM,7:19,Pippen S.FOUL (P1.T1),,,,
+0029700546,25,3,11,1,6:50 AM,7:19,,,Rhodes Free Throw 1 of 2 (3 PTS),10 - 15,5
+0029700546,26,3,12,1,6:51 AM,7:19,,,Rhodes Free Throw 2 of 2 (4 PTS),11 - 15,4
+0029700546,27,1,1,1,6:51 AM,6:58,Longley 11' Jump Shot (8 PTS) (Harper 1 AST),,,11 - 17,6
+0029700546,28,5,2,1,6:51 AM,6:44,Longley STEAL (1 STL),,Willis Lost Ball Turnover (P1.T2),,
+0029700546,29,1,1,1,6:52 AM,6:34,Jordan 17' Jump Shot (8 PTS) (Pippen 2 AST),,,11 - 19,8
+0029700546,30,1,2,1,6:52 AM,6:14,,,Elie 7' Running Jump Shot (2 PTS),13 - 19,6
+0029700546,31,6,2,1,6:52 AM,5:56,,,Elie S.FOUL (P1.T1),,
+0029700546,32,3,11,1,6:53 AM,5:56,Jordan Free Throw 1 of 2 (9 PTS),,,13 - 20,7
+0029700546,33,3,12,1,6:53 AM,5:56,Jordan Free Throw 2 of 2 (10 PTS),,,13 - 21,8
+0029700546,34,5,1,1,6:53 AM,5:38,,,Barkley Bad Pass Turnover (P1.T3),,
+0029700546,35,1,1,1,6:54 AM,5:24,Pippen 26' 3PT Jump Shot (6 PTS) (Longley 1 AST),,,13 - 24,11
+0029700546,36,6,2,1,6:54 AM,5:08,Rodman S.FOUL (P1.T2),,,,
+0029700546,37,3,11,1,6:54 AM,5:08,,,Barkley Free Throw 1 of 2 (6 PTS),14 - 24,10
+0029700546,38,3,12,1,6:55 AM,5:08,,,MISS Barkley Free Throw 2 of 2,,
+0029700546,39,4,0,1,6:55 AM,5:06,Pippen REBOUND (Off:0 Def:1),,,,
+0029700546,40,1,6,1,6:55 AM,4:54,Jordan  Driving Layup (12 PTS) (Pippen 3 AST),,,14 - 26,12
+0029700546,43,1,3,1,6:56 AM,4:32,,,Willis  Hook Shot (4 PTS),16 - 26,10
+0029700546,44,6,3,1,6:56 AM,4:26,,,Barkley L.B.FOUL (P1.T2),,
+0029700546,45,6,4,1,6:56 AM,4:23,Pippen OFF.Foul (P2),,,,
+0029700546,46,5,5,1,6:56 AM,4:23,Pippen Foul Turnover (P1.T1),,,,
+0029700546,47,8,0,1,6:56 AM,4:23,SUB: Kukoc FOR Pippen,,,,
+0029700546,48,2,5,1,6:57 AM,4:00,Harper BLOCK (1 BLK),,MISS Barkley  Layup,,
+0029700546,50,4,0,1,6:57 AM,3:58,,,Willis REBOUND (Off:1 Def:1),,
+0029700546,49,2,4,1,6:57 AM,3:58,,,MISS Willis  Tip Shot,,
+0029700546,51,4,0,1,6:57 AM,3:53,Longley REBOUND (Off:0 Def:2),,,,
+0029700546,52,1,1,1,6:57 AM,3:39,Jordan 19' Jump Shot (14 PTS),,,16 - 28,12
+0029700546,53,2,1,1,6:57 AM,3:13,,,MISS Willis 21' Jump Shot,,
+0029700546,54,4,0,1,6:57 AM,3:09,Rodman REBOUND (Off:0 Def:1),,,,
+0029700546,55,2,1,1,6:58 AM,2:54,MISS Harper 14' Jump Shot,,,,
+0029700546,57,4,0,1,6:58 AM,2:54,,,Rockets Rebound,,
+0029700546,56,6,3,1,6:58 AM,2:54,Rodman L.B.FOUL (P2.T3),,,,
+0029700546,59,9,1,1,6:58 AM,2:54,BULLS Timeout: Regular (Full 1 Short 0),,,,
+0029700546,61,8,0,1,7:00 AM,2:54,,,SUB: Harrington FOR Barkley,,
+0029700546,62,8,0,1,7:00 AM,2:54,SUB: Caffey FOR Rodman,,,,
+0029700546,63,2,6,1,7:01 AM,2:43,,,MISS Rhodes  Driving Layup,,
+0029700546,64,4,0,1,7:01 AM,2:35,Harper REBOUND (Off:0 Def:2),,,,
+0029700546,65,2,1,1,7:01 AM,2:19,MISS Jordan 20' Jump Shot,,,,
+0029700546,66,4,0,1,7:01 AM,2:16,,,Willis REBOUND (Off:1 Def:2),,
+0029700546,67,5,1,1,7:01 AM,2:07,Jordan STEAL (1 STL),,Harrington Bad Pass Turnover (P1.T4),,
+0029700546,68,6,2,1,7:02 AM,2:05,,,Maloney S.FOUL (P1.T3),,
+0029700546,69,3,11,1,7:02 AM,2:05,Jordan Free Throw 1 of 2 (15 PTS),,,16 - 29,13
+0029700546,70,3,12,1,7:02 AM,2:05,Jordan Free Throw 2 of 2 (16 PTS),,,16 - 30,14
+0029700546,71,5,2,1,7:03 AM,1:44,Caffey STEAL (1 STL),,Rhodes Lost Ball Turnover (P2.T5),,
+0029700546,72,1,1,1,7:03 AM,1:28,Caffey 7' Jump Shot (2 PTS) (Harper 2 AST),,,16 - 32,16
+0029700546,73,1,3,1,7:03 AM,1:09,,,Willis 6' Hook Shot (6 PTS) (Rhodes 1 AST),18 - 32,14
+0029700546,74,5,1,1,7:04 AM,0:55,Caffey Bad Pass Turnover (P1.T2),,Willis STEAL (1 STL),,
+0029700546,75,6,1,1,7:04 AM,0:45,Harper P.FOUL (P1.T4),,,,
+0029700546,76,8,0,1,7:04 AM,0:45,SUB: Brown FOR Harper,,,,
+0029700546,77,8,0,1,7:04 AM,0:45,SUB: Burrell FOR Jordan,,,,
+0029700546,78,8,0,1,7:04 AM,0:45,,,SUB: Johnson FOR Rhodes,,
+0029700546,79,2,1,1,7:04 AM,0:33,,,MISS Harrington 12' Jump Shot,,
+0029700546,80,4,0,1,7:04 AM,0:30,Burrell REBOUND (Off:0 Def:1),,,,
+0029700546,81,2,1,1,7:05 AM,0:13,MISS Burrell 7' Jump Shot,,Harrington BLOCK (1 BLK),,
+0029700546,82,4,0,1,7:05 AM,0:08,,,Willis REBOUND (Off:1 Def:3),,
+0029700546,83,5,1,1,7:05 AM,0:06,Longley STEAL (2 STL),,Elie Bad Pass Turnover (P1.T6),,
+0029700546,84,6,2,1,7:05 AM,0:03,,,Harrington S.FOUL (P1.T4),,
+0029700546,85,3,11,1,7:05 AM,0:03,Burrell Free Throw 1 of 2 (1 PTS),,,18 - 33,15
+0029700546,86,8,0,1,7:06 AM,0:03,SUB: LaRue FOR Longley,,,,
+0029700546,87,8,0,1,7:06 AM,0:03,,,SUB: Price FOR Elie,,
+0029700546,88,8,0,1,7:06 AM,0:03,,,SUB: Davis FOR Maloney,,
+0029700546,89,3,12,1,7:06 AM,0:03,Burrell Free Throw 2 of 2 (2 PTS),,,18 - 34,16
+0029700546,90,13,0,1,7:06 AM,0:00,,,,18 - 34,16
+0029700546,92,12,0,2,7:09 AM,12:00,,,,18 - 34,16
+0029700546,93,1,1,2,7:09 AM,11:47,,,Johnson 20' Jump Shot (2 PTS) (Davis 1 AST),20 - 34,14
+0029700546,94,1,1,2,7:10 AM,11:20,Burrell 17' Jump Shot (4 PTS) (Harper 3 AST),,,20 - 36,16
+0029700546,95,1,3,2,7:10 AM,10:53,,,Harrington 5' Hook Shot (2 PTS) (Price 1 AST),22 - 36,14
+0029700546,96,2,1,2,7:11 AM,10:33,MISS Burrell 27' 3PT Jump Shot,,,,
+0029700546,97,4,0,2,7:11 AM,10:29,,,Willis REBOUND (Off:1 Def:4),,
+0029700546,98,6,1,2,7:11 AM,10:19,Kukoc P.FOUL (P1.T1),,,,
+0029700546,99,1,1,2,7:11 AM,10:05,,,Davis 25' 3PT Jump Shot (3 PTS) (Harrington 1 AST),25 - 36,11
+0029700546,100,1,1,2,7:12 AM,9:44,Kukoc 19' Jump Shot (2 PTS) (Brown 1 AST),,,25 - 38,13
+0029700546,101,2,1,2,7:12 AM,9:26,,,MISS Johnson 26' 3PT Jump Shot,,
+0029700546,102,4,0,2,7:12 AM,9:22,Kukoc REBOUND (Off:0 Def:1),,,,
+0029700546,103,2,1,2,7:12 AM,9:16,MISS Brown 14' Jump Shot,,,,
+0029700546,104,4,0,2,7:12 AM,9:12,Harper REBOUND (Off:1 Def:2),,,,
+0029700546,105,1,1,2,7:12 AM,9:08,Kukoc 14' Jump Shot (4 PTS) (Harper 4 AST),,,25 - 40,15
+0029700546,106,6,1,2,7:12 AM,9:00,Brown P.FOUL (P1.T2),,,,
+0029700546,107,9,1,2,7:13 AM,9:00,,,,,
+0029700546,109,8,0,2,7:15 AM,9:00,,,SUB: Barkley FOR Willis,,
+0029700546,110,8,0,2,7:15 AM,9:00,SUB: Rodman FOR Longley,,,,
+0029700546,111,8,0,2,7:15 AM,9:00,SUB: Pippen FOR Burrell,,,,
+0029700546,112,2,1,2,7:15 AM,8:43,,,MISS Davis 26' 3PT Jump Shot,,
+0029700546,113,4,0,2,7:15 AM,8:40,Brown REBOUND (Off:0 Def:1),,,,
+0029700546,114,2,1,2,7:16 AM,8:29,MISS Kukoc 20' Jump Shot,,,,
+0029700546,115,4,0,2,7:16 AM,8:27,,,Harrington REBOUND (Off:0 Def:1),,
+0029700546,116,1,1,2,7:16 AM,8:13,,,Harrington 10' Jump Shot (4 PTS) (Davis 2 AST),27 - 40,13
+0029700546,117,2,1,2,7:16 AM,7:48,MISS Harper 14' Jump Shot,,,,
+0029700546,118,4,0,2,7:16 AM,7:48,BULLS Rebound,,,,
+0029700546,119,8,0,2,7:16 AM,7:48,SUB: Jordan FOR Harper,,,,
+0029700546,120,6,2,2,7:17 AM,7:41,,,Price S.FOUL (P1.T1),,
+0029700546,121,3,11,2,7:17 AM,7:41,Jordan Free Throw 1 of 2 (17 PTS),,,27 - 41,14
+0029700546,122,8,0,2,7:17 AM,7:41,,,SUB: Elie FOR Price,,
+0029700546,123,3,12,2,7:17 AM,7:41,Jordan Free Throw 2 of 2 (18 PTS),,,27 - 42,15
+0029700546,124,2,1,2,7:18 AM,7:32,,,MISS Harrington 21' Jump Shot,,
+0029700546,126,4,0,2,7:18 AM,7:27,,,Barkley REBOUND (Off:1 Def:0),,
+0029700546,125,1,4,2,7:18 AM,7:27,,,Barkley  Tip Shot (8 PTS),29 - 42,13
+0029700546,127,5,1,2,7:18 AM,7:14,Kukoc Bad Pass Turnover (P1.T3),,Elie STEAL (1 STL),,
+0029700546,128,1,5,2,7:18 AM,7:07,,,Davis  Layup (5 PTS) (Harrington 2 AST),31 - 42,11
+0029700546,129,2,5,2,7:18 AM,6:59,MISS Jordan  Layup,,,,
+0029700546,130,4,0,2,7:19 AM,6:54,,,Rockets Rebound,,
+0029700546,131,5,14,2,7:19 AM,6:54,,,Elie Illegal Pick Turnover (P2.T7),,
+0029700546,132,9,1,2,7:19 AM,6:54,BULLS Timeout: Regular (Full 2 Short 0),,,,
+0029700546,134,8,0,2,7:21 AM,6:54,,,SUB: Rhodes FOR Elie,,
+0029700546,135,1,1,2,7:21 AM,6:42,Brown 14' Jump Shot (2 PTS) (Pippen 4 AST),,,31 - 44,13
+0029700546,136,2,1,2,7:22 AM,6:19,,,MISS Harrington 11' Jump Shot,,
+0029700546,138,4,0,2,7:22 AM,5:56,,,Rhodes REBOUND (Off:2 Def:0),,
+0029700546,139,2,1,2,7:22 AM,5:40,,,MISS Johnson 15' Jump Shot,,
+0029700546,140,4,0,2,7:22 AM,5:31,Rodman REBOUND (Off:0 Def:2),,,,
+0029700546,141,2,5,2,7:22 AM,5:29,MISS Brown  Layup,,,,
+0029700546,142,4,0,2,7:23 AM,5:18,,,Harrington REBOUND (Off:0 Def:2),,
+0029700546,143,2,5,2,7:23 AM,5:14,Pippen BLOCK (1 BLK),,MISS Harrington  Layup,,
+0029700546,144,4,0,2,7:23 AM,5:12,,,Harrington REBOUND (Off:1 Def:2),,
+0029700546,145,1,5,2,7:23 AM,5:10,,,Harrington  Layup (6 PTS),33 - 44,11
+0029700546,146,2,1,2,7:23 AM,5:07,MISS Pippen 14' Jump Shot,,,,
+0029700546,147,4,0,2,7:23 AM,5:03,,,Harrington REBOUND (Off:1 Def:3),,
+0029700546,148,5,1,2,7:23 AM,5:03,,,Johnson Bad Pass Turnover (P1.T8),,
+0029700546,149,8,0,2,7:23 AM,5:03,SUB: Caffey FOR Kukoc,,,,
+0029700546,150,2,1,2,7:23 AM,4:45,MISS Caffey 11' Jump Shot,,,,
+0029700546,151,4,0,2,7:23 AM,4:42,Rodman REBOUND (Off:1 Def:2),,,,
+0029700546,152,1,1,2,7:23 AM,4:40,Brown 13' Jump Shot (4 PTS) (Rodman 4 AST),,,33 - 46,13
+0029700546,153,1,1,2,7:24 AM,4:10,,,Rhodes 23' Jump Shot (6 PTS) (Davis 3 AST),35 - 46,11
+0029700546,154,8,0,2,7:24 AM,3:54,SUB: Kleine FOR Brown,,,,
+0029700546,155,8,0,2,7:24 AM,3:54,,,SUB: Maloney FOR Davis,,
+0029700546,156,8,0,2,7:25 AM,3:54,,,SUB: Willis FOR Harrington,,
+0029700546,157,2,1,2,7:25 AM,3:45,MISS Pippen 13' Jump Shot,,,,
+0029700546,158,4,0,2,7:25 AM,3:41,,,Johnson REBOUND (Off:0 Def:1),,
+0029700546,159,1,1,2,7:25 AM,3:26,,,Rhodes 10' Jump Shot (8 PTS) (Maloney 2 AST),37 - 46,9
+0029700546,160,6,2,2,7:25 AM,3:09,,,Maloney S.FOUL (P2.T2),,
+0029700546,161,8,0,2,7:26 AM,3:09,,,SUB: Bullard FOR Maloney,,
+0029700546,162,3,11,2,7:26 AM,3:09,Pippen Free Throw 1 of 2 (7 PTS),,,37 - 47,10
+0029700546,163,3,12,2,7:26 AM,3:09,Pippen Free Throw 2 of 2 (8 PTS),,,37 - 48,11
+0029700546,164,9,1,2,7:26 AM,3:09,,,Rockets Timeout: Regular (Reg.2 Short 0),,
+0029700546,166,8,0,2,7:28 AM,3:09,SUB: Kukoc FOR Rodman,,,,
+0029700546,167,1,1,2,7:29 AM,2:48,,,Barkley 12' Jump Shot (10 PTS),39 - 48,9
+0029700546,168,1,1,2,7:29 AM,2:35,Jordan 22' Jump Shot (20 PTS) (Kleine 1 AST),,,39 - 50,11
+0029700546,169,1,6,2,7:29 AM,2:16,,,Rhodes  Driving Layup (10 PTS),41 - 50,9
+0029700546,170,2,1,2,7:30 AM,2:02,MISS Kukoc 19' Jump Shot,,,,
+0029700546,171,4,0,2,7:30 AM,2:00,Caffey REBOUND (Off:1 Def:0),,,,
+0029700546,172,6,1,2,7:30 AM,2:00,,,Rhodes P.FOUL (P1.T3),,
+0029700546,173,1,7,2,7:30 AM,1:44,Caffey  Dunk (4 PTS) (Pippen 5 AST),,,41 - 52,11
+0029700546,174,6,2,2,7:31 AM,1:25,Kleine S.FOUL (P1.T3),,,,
+0029700546,175,3,11,2,7:31 AM,1:25,,,Willis Free Throw 1 of 2 (7 PTS),42 - 52,10
+0029700546,176,3,12,2,7:31 AM,1:25,,,Willis Free Throw 2 of 2 (8 PTS),43 - 52,9
+0029700546,177,2,1,2,7:31 AM,1:03,MISS Jordan 11' Jump Shot,,,,
+0029700546,178,4,0,2,7:32 AM,1:00,,,Willis REBOUND (Off:1 Def:5),,
+0029700546,179,5,1,2,7:32 AM,0:50,Jordan STEAL (2 STL),,Willis Bad Pass Turnover (P2.T9),,
+0029700546,180,6,2,2,7:32 AM,0:48,,,Rhodes S.FOUL (P2.PN),,
+0029700546,181,3,11,2,7:32 AM,0:48,Jordan Free Throw 1 of 2 (21 PTS),,,43 - 53,10
+0029700546,182,8,0,2,7:32 AM,0:48,SUB: Burrell FOR Pippen,,,,
+0029700546,183,3,12,2,7:32 AM,0:48,MISS Jordan Free Throw 2 of 2,,,,
+0029700546,184,4,0,2,7:33 AM,0:46,,,Willis REBOUND (Off:1 Def:6),,
+0029700546,185,9,2,2,7:33 AM,0:46,,,Rockets Timeout: Short (Reg.2 Short 1),,
+0029700546,187,2,1,2,7:34 AM,0:33,Jordan BLOCK (1 BLK),,MISS Rhodes 8' Jump Shot,,
+0029700546,188,4,0,2,7:34 AM,0:26,Kleine REBOUND (Off:0 Def:1),,,,
+0029700546,189,2,1,2,7:34 AM,0:23,MISS Jordan 13' Jump Shot,,,,
+0029700546,190,4,0,2,7:34 AM,0:22,,,Barkley REBOUND (Off:1 Def:1),,
+0029700546,191,6,1,2,7:34 AM,0:22,Caffey P.FOUL (P1.PN),,,,
+0029700546,192,6,11,2,7:35 AM,0:22,,,Barkley T.FOUL (P1.PN),,
+0029700546,193,3,16,2,7:35 AM,0:22,MISS Kleine Free Throw Technical,,,,
+0029700546,194,4,0,2,7:35 AM,0:22,,,Rockets Rebound,,
+0029700546,195,3,11,2,7:35 AM,0:22,,,Barkley Free Throw 1 of 2 (11 PTS),44 - 53,9
+0029700546,196,8,0,2,7:36 AM,0:22,SUB: Buechler FOR Caffey,,,,
+0029700546,197,3,12,2,7:36 AM,0:22,,,Barkley Free Throw 2 of 2 (12 PTS),45 - 53,8
+0029700546,198,2,1,2,7:36 AM,0:03,MISS Kleine 16' Jump Shot,,,,
+0029700546,199,4,0,2,7:37 AM,0:02,BULLS Rebound,,,,
+0029700546,200,8,0,2,7:37 AM,0:02,,,SUB: Davis FOR Rhodes,,
+0029700546,201,9,2,2,7:37 AM,0:02,BULLS Timeout: Short (Full 2 Short 1),,,,
+0029700546,203,1,1,2,7:38 AM,0:01,Buechler 26' 3PT Jump Shot (3 PTS) (Kukoc 1 AST),,,45 - 56,11
+0029700546,204,13,0,2,7:38 AM,0:00,,,,45 - 56,11
+0029700546,206,12,0,3,7:57 AM,12:00,,,,45 - 56,11
+0029700546,207,2,3,3,7:59 AM,11:38,,,MISS Willis 9' Hook Shot,,
+0029700546,208,4,0,3,7:59 AM,11:37,Rodman REBOUND (Off:1 Def:3),,,,
+0029700546,209,5,3,3,7:59 AM,11:37,Rodman Out Of Bounds Turnover (P1.T4),,,,
+0029700546,210,2,1,3,7:59 AM,11:34,,,MISS Johnson 16' Jump Shot,,
+0029700546,211,4,0,3,7:59 AM,11:31,Harper REBOUND (Off:1 Def:3),,,,
+0029700546,212,1,5,3,7:59 AM,11:28,Pippen  Layup (10 PTS) (Rodman 5 AST),,,45 - 58,13
+0029700546,213,6,2,3,8:00 AM,11:07,Longley S.FOUL (P1.T1),,,,
+0029700546,214,3,11,3,8:00 AM,11:07,,,Barkley Free Throw 1 of 2 (13 PTS),46 - 58,12
+0029700546,215,3,12,3,8:00 AM,11:07,,,Barkley Free Throw 2 of 2 (14 PTS),47 - 58,11
+0029700546,216,2,1,3,8:01 AM,10:49,MISS Jordan 14' Jump Shot,,,,
+0029700546,217,4,0,3,8:01 AM,10:45,Longley REBOUND (Off:1 Def:2),,,,
+0029700546,218,1,1,3,8:01 AM,10:43,Pippen 25' 3PT Jump Shot (13 PTS) (Longley 2 AST),,,47 - 61,14
+0029700546,219,1,6,3,8:01 AM,10:25,,,Johnson  Driving Layup (4 PTS),49 - 61,12
+0029700546,220,1,1,3,8:02 AM,10:09,Harper 18' Jump Shot (2 PTS) (Jordan 2 AST),,,49 - 63,14
+0029700546,221,5,4,3,8:02 AM,9:55,,,Willis Traveling Turnover (P3.T10),,
+0029700546,222,2,5,3,8:02 AM,9:38,MISS Longley  Layup,,,,
+0029700546,223,4,0,3,8:02 AM,9:33,,,Willis REBOUND (Off:1 Def:7),,
+0029700546,224,5,1,3,8:02 AM,9:32,Pippen STEAL (2 STL),,Rhodes Bad Pass Turnover (P3.T11),,
+0029700546,225,5,2,3,8:02 AM,9:28,Harper Lost Ball Turnover (P1.T5),,,,
+0029700546,226,1,1,3,8:03 AM,9:12,,,Barkley 17' Jump Shot (16 PTS),51 - 63,12
+0029700546,227,1,1,3,8:03 AM,8:47,Jordan 12' Jump Shot (23 PTS) (Pippen 6 AST),,,51 - 65,14
+0029700546,228,6,1,3,8:04 AM,8:31,Longley P.FOUL (P2.T2),,,,
+0029700546,229,5,2,3,8:04 AM,8:16,Jordan STEAL (3 STL),,Willis Lost Ball Turnover (P4.T12),,
+0029700546,230,1,1,3,8:04 AM,8:10,Jordan 20' Jump Shot (25 PTS),,,51 - 67,16
+0029700546,231,1,5,3,8:04 AM,7:49,,,Willis  Layup (10 PTS) (Rhodes 2 AST),53 - 67,14
+0029700546,232,9,1,3,8:05 AM,7:39,BULLS Timeout: Regular (Full 3 Short 1),,,,
+0029700546,234,5,1,3,8:08 AM,7:30,Jordan Bad Pass Turnover (P1.T6),,Rhodes STEAL (1 STL),,
+0029700546,235,1,7,3,8:08 AM,7:26,,,Rhodes  Dunk (12 PTS),55 - 67,12
+0029700546,236,5,2,3,8:08 AM,7:13,Jordan Lost Ball Turnover (P2.T7),,,,
+0029700546,237,2,1,3,8:08 AM,6:55,,,MISS Willis 16' Jump Shot,,
+0029700546,238,4,0,3,8:08 AM,6:51,Jordan REBOUND (Off:0 Def:1),,,,
+0029700546,239,5,2,3,8:08 AM,6:48,Harper Lost Ball Turnover (P2.T8),,Rhodes STEAL (2 STL),,
+0029700546,240,1,1,3,8:09 AM,6:35,,,Maloney 26' 3PT Jump Shot (3 PTS) (Willis 2 AST),58 - 67,9
+0029700546,241,2,1,3,8:09 AM,6:16,MISS Longley 14' Jump Shot,,,,
+0029700546,242,4,0,3,8:09 AM,6:13,,,Barkley REBOUND (Off:1 Def:2),,
+0029700546,243,2,1,3,8:09 AM,5:55,,,MISS Maloney 26' 3PT Jump Shot,,
+0029700546,244,4,0,3,8:09 AM,5:52,Pippen REBOUND (Off:0 Def:2),,,,
+0029700546,245,2,1,3,8:09 AM,5:41,MISS Jordan 16' Jump Shot,,Maloney BLOCK (1 BLK),,
+0029700546,246,4,0,3,8:10 AM,5:36,,,Barkley REBOUND (Off:1 Def:3),,
+0029700546,247,1,5,3,8:10 AM,5:30,,,Barkley  Layup (18 PTS),60 - 67,7
+0029700546,248,6,1,3,8:10 AM,5:29,,,Rhodes P.FOUL (P3.T1),,
+0029700546,249,2,1,3,8:10 AM,5:24,MISS Jordan 18' Jump Shot,,,,
+0029700546,250,4,0,3,8:10 AM,5:19,Pippen REBOUND (Off:1 Def:2),,,,
+0029700546,251,1,5,3,8:10 AM,5:18,Pippen  Layup (15 PTS),,,60 - 69,9
+0029700546,252,9,1,3,8:10 AM,5:10,,,Rockets Timeout: Regular (Reg.3 Short 1),,
+0029700546,254,2,1,3,8:14 AM,4:58,,,MISS Johnson 19' Jump Shot,,
+0029700546,255,4,0,3,8:14 AM,4:54,,,Barkley REBOUND (Off:2 Def:3),,
+0029700546,256,5,1,3,8:14 AM,4:48,Pippen STEAL (3 STL),,Barkley Bad Pass Turnover (P2.T13),,
+0029700546,257,5,1,3,8:14 AM,4:41,Jordan Bad Pass Turnover (P3.T9),,Barkley STEAL (1 STL),,
+0029700546,258,1,1,3,8:14 AM,4:33,,,Barkley 24' 3PT Jump Shot (21 PTS),63 - 69,6
+0029700546,259,1,7,3,8:14 AM,4:08,Longley  Dunk (10 PTS) (Pippen 7 AST),,,63 - 71,8
+0029700546,260,6,1,3,8:15 AM,3:53,Pippen P.FOUL (P3.T3),,,,
+0029700546,261,6,1,3,8:15 AM,3:40,Longley P.FOUL (P3.T4),,,,
+0029700546,262,1,1,3,8:16 AM,3:20,,,Rhodes 23' Jump Shot (14 PTS) (Johnson 1 AST),65 - 71,6
+0029700546,263,1,1,3,8:16 AM,3:12,Pippen 25' 3PT Jump Shot (18 PTS),,,65 - 74,9
+0029700546,264,6,1,3,8:16 AM,2:52,Jordan P.FOUL (P1.PN),,,,
+0029700546,266,3,11,3,8:17 AM,2:52,,,MISS Barkley Free Throw 1 of 2,,
+0029700546,267,4,0,3,8:17 AM,2:52,,,Rockets Rebound,,
+0029700546,268,8,0,3,8:17 AM,2:52,,,SUB: Jones FOR Willis,,
+0029700546,269,3,12,3,8:17 AM,2:52,,,Barkley Free Throw 2 of 2 (22 PTS),66 - 74,8
+0029700546,270,2,1,3,8:18 AM,2:34,MISS Longley 8' Jump Shot,,,,
+0029700546,271,4,0,3,8:18 AM,2:29,,,Barkley REBOUND (Off:2 Def:4),,
+0029700546,272,1,1,3,8:18 AM,2:22,,,Barkley 17' Jump Shot (24 PTS),68 - 74,6
+0029700546,273,1,1,3,8:18 AM,2:05,Jordan 16' Jump Shot (27 PTS) (Pippen 8 AST),,,68 - 76,8
+0029700546,274,8,0,3,8:19 AM,1:49,SUB: Kukoc FOR Rodman,,,,
+0029700546,275,8,0,3,8:19 AM,1:49,SUB: Caffey FOR Longley,,,,
+0029700546,276,8,0,3,8:19 AM,1:49,,,SUB: Harrington FOR Jones,,
+0029700546,277,2,1,3,8:19 AM,1:34,,,MISS Harrington 9' Jump Shot,,
+0029700546,278,4,0,3,8:19 AM,1:29,Caffey REBOUND (Off:1 Def:1),,,,
+0029700546,279,6,1,3,8:20 AM,1:27,,,Rhodes P.FOUL (P4.T2),,
+0029700546,280,2,1,3,8:20 AM,1:20,MISS Jordan  Jump Shot,,Maloney BLOCK (2 BLK),,
+0029700546,281,4,0,3,8:20 AM,1:15,,,Rhodes REBOUND (Off:2 Def:1),,
+0029700546,282,2,1,3,8:20 AM,1:12,,,MISS Maloney 27' 3PT Jump Shot,,
+0029700546,283,4,0,3,8:20 AM,1:08,,,Maloney REBOUND (Off:1 Def:0),,
+0029700546,284,5,2,3,8:20 AM,1:03,Kukoc STEAL (1 STL),,Barkley Lost Ball Turnover (P3.T14),,
+0029700546,285,1,1,3,8:20 AM,0:58,Jordan 13' Jump Shot (29 PTS) (Kukoc 2 AST),,,68 - 78,10
+0029700546,286,1,6,3,8:21 AM,0:46,,,Maloney  Driving Layup (5 PTS),70 - 78,8
+0029700546,287,6,1,3,8:21 AM,0:41,,,Rhodes P.FOUL (P5.PN),,
+0029700546,288,8,0,3,8:21 AM,0:41,,,SUB: Davis FOR Rhodes,,
+0029700546,289,3,11,3,8:21 AM,0:41,Jordan Free Throw 1 of 2 (30 PTS),,,70 - 79,9
+0029700546,290,8,0,3,8:21 AM,0:41,SUB: Brown FOR Harper,,,,
+0029700546,291,3,12,3,8:21 AM,0:41,Jordan Free Throw 2 of 2 (31 PTS),,,70 - 80,10
+0029700546,293,2,5,3,8:22 AM,0:22,,,MISS Johnson  Layup,,
+0029700546,294,4,0,3,8:22 AM,0:04,Jordan REBOUND (Off:0 Def:2),,,,
+0029700546,295,1,1,3,8:22 AM,0:03,Jordan 14' Jump Shot (33 PTS),,,70 - 82,12
+0029700546,296,13,0,3,8:22 AM,0:00,,,,70 - 82,12
+0029700546,298,12,0,4,8:26 AM,12:00,,,,70 - 82,12
+0029700546,299,1,6,4,8:26 AM,11:48,Pippen  Driving Layup (20 PTS) (Longley 3 AST),,,70 - 84,14
+0029700546,300,6,2,4,8:27 AM,11:31,Kukoc S.FOUL (P2.T1),,,,
+0029700546,301,3,11,4,8:27 AM,11:31,,,Johnson Free Throw 1 of 2 (5 PTS),71 - 84,13
+0029700546,302,8,0,4,8:27 AM,11:31,SUB: Burrell FOR Pippen,,,,
+0029700546,303,3,12,4,8:27 AM,11:31,,,Johnson Free Throw 2 of 2 (6 PTS),72 - 84,12
+0029700546,304,2,1,4,8:28 AM,11:07,MISS Kukoc 23' Jump Shot,,,,
+0029700546,305,4,0,4,8:28 AM,11:07,,,Rockets Rebound,,
+0029700546,306,6,3,4,8:28 AM,11:07,Longley L.B.FOUL (P4.T2),,,,
+0029700546,307,6,2,4,8:28 AM,10:51,Caffey S.FOUL (P2.T3),,,,
+0029700546,308,3,11,4,8:28 AM,10:51,,,Barkley Free Throw 1 of 2 (25 PTS),73 - 84,11
+0029700546,309,3,12,4,8:29 AM,10:51,,,MISS Barkley Free Throw 2 of 2,,
+0029700546,310,4,0,4,8:29 AM,10:49,,,Barkley REBOUND (Off:3 Def:4),,
+0029700546,311,6,2,4,8:29 AM,10:36,Caffey S.FOUL (P3.T4),,,,
+0029700546,312,3,11,4,8:29 AM,10:36,,,Barkley Free Throw 1 of 2 (26 PTS),74 - 84,10
+0029700546,313,3,12,4,8:30 AM,10:36,,,MISS Barkley Free Throw 2 of 2,,
+0029700546,314,4,0,4,8:30 AM,10:33,,,Harrington REBOUND (Off:2 Def:3),,
+0029700546,315,2,1,4,8:30 AM,10:29,,,MISS Barkley 25' 3PT Jump Shot,,
+0029700546,316,4,0,4,8:30 AM,10:25,Burrell REBOUND (Off:0 Def:2),,,,
+0029700546,317,1,1,4,8:30 AM,10:08,Caffey 16' Jump Shot (6 PTS) (Burrell 1 AST),,,74 - 86,12
+0029700546,318,6,1,4,8:31 AM,9:52,Caffey P.FOUL (P4.PN),,,,
+0029700546,319,9,1,4,8:31 AM,9:52,,,,,
+0029700546,320,8,0,4,8:33 AM,9:52,,,SUB: Price FOR Maloney,,
+0029700546,321,8,0,4,8:33 AM,9:52,SUB: Jordan FOR Longley,,,,
+0029700546,322,8,0,4,8:33 AM,9:52,SUB: Rodman FOR Caffey,,,,
+0029700546,323,3,11,4,8:33 AM,9:52,,,Barkley Free Throw 1 of 2 (27 PTS),75 - 86,11
+0029700546,325,3,12,4,8:34 AM,9:52,,,Barkley Free Throw 2 of 2 (28 PTS),76 - 86,10
+0029700546,326,1,1,4,8:34 AM,9:38,Jordan 17' Jump Shot (35 PTS) (Burrell 2 AST),,,76 - 88,12
+0029700546,327,2,1,4,8:34 AM,9:25,,,MISS Johnson 19' Jump Shot,,
+0029700546,328,4,0,4,8:34 AM,9:23,,,Harrington REBOUND (Off:3 Def:3),,
+0029700546,329,6,1,4,8:34 AM,9:23,Kukoc P.FOUL (P3.PN),,,,
+0029700546,330,3,11,4,8:35 AM,9:23,,,Harrington Free Throw 1 of 2 (7 PTS),77 - 88,11
+0029700546,331,8,0,4,8:35 AM,9:23,SUB: Caffey FOR Kukoc,,,,
+0029700546,332,3,12,4,8:35 AM,9:23,,,Harrington Free Throw 2 of 2 (8 PTS),78 - 88,10
+0029700546,333,2,1,4,8:36 AM,9:07,MISS Caffey 11' Jump Shot,,,,
+0029700546,334,4,0,4,8:36 AM,9:00,,,Johnson REBOUND (Off:0 Def:2),,
+0029700546,335,1,3,4,8:36 AM,8:51,,,Harrington 5' Hook Shot (10 PTS),80 - 88,8
+0029700546,336,2,1,4,8:36 AM,8:26,MISS Brown 18' Jump Shot,,,,
+0029700546,337,4,0,4,8:36 AM,8:22,,,Barkley REBOUND (Off:3 Def:5),,
+0029700546,338,1,1,4,8:37 AM,8:03,,,Davis 25' 3PT Jump Shot (8 PTS) (Price 2 AST),83 - 88,5
+0029700546,339,2,1,4,8:37 AM,7:45,MISS Jordan 14' Jump Shot,,,,
+0029700546,340,4,0,4,8:37 AM,7:42,Rodman REBOUND (Off:2 Def:3),,,,
+0029700546,341,1,1,4,8:37 AM,7:28,Jordan 12' Jump Shot (37 PTS) (Rodman 6 AST),,,83 - 90,7
+0029700546,342,1,5,4,8:38 AM,7:09,,,Barkley  Layup (30 PTS),85 - 90,5
+0029700546,343,2,1,4,8:38 AM,6:42,MISS Jordan 13' Jump Shot,,,,
+0029700546,344,4,0,4,8:38 AM,6:42,,,Rockets Rebound,,
+0029700546,345,6,3,4,8:38 AM,6:42,Rodman L.B.FOUL (P3.PN),,,,
+0029700546,346,9,1,4,8:38 AM,6:42,BULLS Timeout: Regular (Full 4 Short 1),,,,
+0029700546,347,8,0,4,8:40 AM,6:42,SUB: Pippen FOR Caffey,,,,
+0029700546,348,8,0,4,8:41 AM,6:42,SUB: Longley FOR Brown,,,,
+0029700546,349,3,11,4,8:41 AM,6:42,,,Harrington Free Throw 1 of 2 (11 PTS),86 - 90,4
+0029700546,350,3,12,4,8:41 AM,6:42,,,Harrington Free Throw 2 of 2 (12 PTS),87 - 90,3
+0029700546,351,1,1,4,8:42 AM,6:21,Jordan 26' 3PT Jump Shot (40 PTS) (Longley 4 AST),,,87 - 93,6
+0029700546,352,6,4,4,8:42 AM,5:59,,,Barkley OFF.Foul (P2),,
+0029700546,353,5,5,4,8:42 AM,5:59,,,Barkley Foul Turnover (P4.T15),,
+0029700546,354,8,0,4,8:42 AM,5:59,,,SUB: Rhodes FOR Davis,,
+0029700546,355,6,2,4,8:43 AM,5:46,,,Barkley S.FOUL (P3.T1),,
+0029700546,356,3,11,4,8:43 AM,5:46,MISS Pippen Free Throw 1 of 2,,,,
+0029700546,357,4,0,4,8:43 AM,5:46,BULLS Rebound,,,,
+0029700546,358,8,0,4,8:43 AM,5:46,,,SUB: Willis FOR Harrington,,
+0029700546,359,8,0,4,8:43 AM,5:46,,,SUB: Bullard FOR Price,,
+0029700546,360,3,12,4,8:43 AM,5:46,Pippen Free Throw 2 of 2 (21 PTS),,,87 - 94,7
+0029700546,361,6,2,4,8:44 AM,5:32,Rodman S.FOUL (P4.PN),,,,
+0029700546,362,3,11,4,8:44 AM,5:32,,,Barkley Free Throw 1 of 2 (31 PTS),88 - 94,6
+0029700546,363,3,12,4,8:44 AM,5:32,,,MISS Barkley Free Throw 2 of 2,,
+0029700546,364,4,0,4,8:45 AM,5:31,Pippen REBOUND (Off:1 Def:3),,,,
+0029700546,365,1,1,4,8:45 AM,5:13,Jordan 26' 3PT Jump Shot (43 PTS) (Rodman 7 AST),,,88 - 97,9
+0029700546,366,6,2,4,8:45 AM,4:50,Burrell S.FOUL (P1.PN),,,,
+0029700546,367,3,11,4,8:46 AM,4:50,,,Bullard Free Throw 1 of 2 (1 PTS),89 - 97,8
+0029700546,368,3,12,4,8:46 AM,4:50,,,Bullard Free Throw 2 of 2 (2 PTS),90 - 97,7
+0029700546,369,2,1,4,8:46 AM,4:32,MISS Pippen 10' Jump Shot,,,,
+0029700546,370,4,0,4,8:46 AM,4:29,Longley REBOUND (Off:2 Def:2),,,,
+0029700546,371,1,1,4,8:46 AM,4:25,Burrell  3PT Jump Shot (7 PTS) (Pippen 9 AST),,,90 - 100,10
+0029700546,372,9,1,4,8:47 AM,4:21,,,Rockets Timeout: Regular (Reg.4 Short 1),,
+0029700546,374,6,1,4,8:49 AM,4:14,Jordan P.FOUL (P2.PN),,,,
+0029700546,375,3,11,4,8:50 AM,4:14,,,MISS Rhodes Free Throw 1 of 2,,
+0029700546,376,4,0,4,8:50 AM,4:14,,,Rockets Rebound,,
+0029700546,377,3,12,4,8:50 AM,4:14,,,Rhodes Free Throw 2 of 2 (15 PTS),91 - 100,9
+0029700546,378,6,1,4,8:50 AM,4:06,,,Barkley P.FOUL (P4.T2),,
+0029700546,379,2,1,4,8:51 AM,3:54,MISS Jordan 15' Jump Shot,,,,
+0029700546,380,4,0,4,8:51 AM,3:50,,,Barkley REBOUND (Off:3 Def:6),,
+0029700546,381,5,2,4,8:51 AM,3:44,Longley STEAL (3 STL),,Willis Lost Ball Turnover (P5.T16),,
+0029700546,382,1,9,4,8:51 AM,3:38,Pippen  Driving Dunk (23 PTS) (Jordan 3 AST),,,91 - 102,11
+0029700546,383,2,1,4,8:51 AM,3:18,,,MISS Willis 14' Jump Shot,,
+0029700546,384,4,0,4,8:52 AM,3:12,,,Barkley REBOUND (Off:4 Def:6),,
+0029700546,385,1,5,4,8:52 AM,3:11,,,Barkley  Layup (33 PTS),93 - 102,9
+0029700546,386,2,1,4,8:52 AM,3:01,MISS Pippen 26' 3PT Jump Shot,,,,
+0029700546,387,4,0,4,8:52 AM,2:58,,,Barkley REBOUND (Off:4 Def:7),,
+0029700546,388,6,2,4,8:52 AM,2:43,Pippen S.FOUL (P4.PN),,,,
+0029700546,389,3,11,4,8:52 AM,2:43,,,MISS Bullard Free Throw 1 of 2,,
+0029700546,390,4,0,4,8:52 AM,2:43,,,Rockets Rebound,,
+0029700546,391,3,12,4,8:52 AM,2:43,,,Bullard Free Throw 2 of 2 (3 PTS),94 - 102,8
+0029700546,392,1,7,4,8:53 AM,2:36,Burrell  Dunk (9 PTS) (Pippen 10 AST),,,94 - 104,10
+0029700546,393,9,1,4,8:53 AM,2:33,,,Rockets Timeout: Regular (Reg.5 Short 1),,
+0029700546,395,1,1,4,8:56 AM,2:19,,,Bullard 26' 3PT Jump Shot (6 PTS) (Barkley 1 AST),97 - 104,7
+0029700546,396,2,5,4,8:57 AM,1:51,MISS Burrell  Layup,,,,
+0029700546,397,4,0,4,8:57 AM,1:48,,,Barkley REBOUND (Off:4 Def:8),,
+0029700546,398,2,5,4,8:57 AM,1:38,,,MISS Willis  Layup,,
+0029700546,400,4,0,4,8:57 AM,1:34,,,Barkley REBOUND (Off:5 Def:8),,
+0029700546,399,1,4,4,8:57 AM,1:34,,,Barkley  Tip Shot (35 PTS),99 - 104,5
+0029700546,401,6,1,4,8:57 AM,1:28,,,Willis P.FOUL (P1.T3),,
+0029700546,402,5,2,4,8:58 AM,1:18,Jordan Lost Ball Turnover (P4.T10),,Rhodes STEAL (3 STL),,
+0029700546,403,2,5,4,8:58 AM,1:03,,,MISS Willis  Layup,,
+0029700546,404,4,0,4,8:58 AM,1:01,Longley REBOUND (Off:2 Def:3),,,,
+0029700546,405,2,5,4,8:58 AM,0:45,MISS Jordan  Layup,,,,
+0029700546,406,4,0,4,8:58 AM,0:42,,,Bullard REBOUND (Off:0 Def:1),,
+0029700546,407,9,1,4,8:58 AM,0:39,,,Rockets Timeout: Regular (Reg.6 Short 1),,
+0029700546,409,6,1,4,9:01 AM,0:38,Pippen P.FOUL (P5.PN),,,,
+0029700546,410,3,11,4,9:01 AM,0:38,,,MISS Willis Free Throw 1 of 2,,
+0029700546,411,4,0,4,9:01 AM,0:38,,,Rockets Rebound,,
+0029700546,412,3,12,4,9:01 AM,0:38,,,Willis Free Throw 2 of 2 (11 PTS),100 - 104,4
+0029700546,413,2,5,4,9:02 AM,0:14,MISS Jordan  Layup,,,,
+0029700546,414,4,0,4,9:02 AM,0:11,,,Barkley REBOUND (Off:5 Def:9),,
+0029700546,415,2,6,4,9:02 AM,0:05,,,MISS Rhodes  Driving Layup,,
+0029700546,416,4,0,4,9:02 AM,0:02,Jordan REBOUND (Off:0 Def:3),,,,
+0029700546,417,6,1,4,9:02 AM,0:02,,,Willis P.FOUL (P2.PN),,
+0029700546,418,3,11,4,9:03 AM,0:02,Jordan Free Throw 1 of 2 (44 PTS),,,100 - 105,5
+0029700546,419,3,12,4,9:03 AM,0:02,Jordan Free Throw 2 of 2 (45 PTS),,,100 - 106,6
+0029700546,420,13,0,4,9:04 AM,0:00,,,,100 - 106,6

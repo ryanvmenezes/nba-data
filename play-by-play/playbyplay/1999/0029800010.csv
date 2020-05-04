@@ -1,0 +1,506 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029800010,1,10,0,1,11:44 PM,12:00,Jump Ball Wright vs. Longley: Tip to Kidd,,,,
+0029800010,2,2,5,1,11:44 PM,11:49,,,MISS Kidd  Layup,,
+0029800010,3,4,0,1,11:45 PM,11:46,Rogers REBOUND (Off:0 Def:1),,,,
+0029800010,4,1,1,1,11:45 PM,11:37,Murray 24' Jump Shot (2 PTS),,,0 - 2,2
+0029800010,5,2,1,1,11:45 PM,11:22,,,MISS McCloud 23' Jump Shot,,
+0029800010,6,4,0,1,11:45 PM,11:20,,,Suns Rebound,,
+0029800010,7,2,1,1,11:45 PM,11:18,,,MISS Gugliotta 18' Jump Shot,,
+0029800010,8,4,0,1,11:45 PM,11:15,Rogers REBOUND (Off:0 Def:2),,,,
+0029800010,9,1,2,1,11:45 PM,11:09,Piatkowski 9' Running Jump Shot (2 PTS),,,0 - 4,4
+0029800010,10,1,2,1,11:46 PM,10:53,,,Robinson 7' Running Jump Shot (2 PTS),2 - 4,2
+0029800010,11,6,4,1,11:46 PM,10:41,Rogers OFF.Foul (P1),,,,
+0029800010,12,5,5,1,11:46 PM,10:41,Rogers Foul Turnover (P1.T1),,,,
+0029800010,13,6,2,1,11:46 PM,10:30,Wright S.FOUL (P1.T1),,,,
+0029800010,14,3,11,1,11:47 PM,10:30,,,MISS Gugliotta Free Throw 1 of 2,,
+0029800010,15,4,2,1,11:47 PM,10:30,,,Suns Rebound,,
+0029800010,16,3,12,1,11:47 PM,10:30,,,Gugliotta Free Throw 2 of 2 (1 PTS),3 - 4,1
+0029800010,17,2,1,1,11:47 PM,10:07,MISS Martin 25' 3PT Jump Shot,,,,
+0029800010,18,4,0,1,11:47 PM,10:03,,,Gugliotta REBOUND (Off:0 Def:1),,
+0029800010,19,2,1,1,11:47 PM,9:58,,,MISS Robinson 9' Jump Shot,,
+0029800010,20,4,0,1,11:47 PM,9:55,Rogers REBOUND (Off:0 Def:3),,,,
+0029800010,21,2,1,1,11:48 PM,9:46,MISS Murray 17' Jump Shot,,,,
+0029800010,22,4,0,1,11:48 PM,9:44,,,Gugliotta REBOUND (Off:0 Def:2),,
+0029800010,23,1,6,1,11:48 PM,9:39,,,Longley  Driving Layup (2 PTS) (Kidd 1 AST),5 - 4,-1
+0029800010,24,1,1,1,11:48 PM,9:22,Murray 23' Jump Shot (4 PTS) (Martin 1 AST),,,5 - 6,1
+0029800010,25,2,1,1,11:48 PM,9:11,Murray BLOCK (1 BLK),,MISS Robinson 8' Jump Shot,,
+0029800010,26,4,0,1,11:48 PM,9:10,Wright REBOUND (Off:0 Def:1),,,,
+0029800010,27,1,6,1,11:48 PM,9:05,Piatkowski  Driving Layup (4 PTS) (Martin 2 AST),,,5 - 8,3
+0029800010,28,5,2,1,11:49 PM,8:47,Wright STEAL (1 STL),,Longley Lost Ball Turnover (P1.T1),,
+0029800010,29,1,8,1,11:49 PM,8:37,Wright  Slam Dunk (2 PTS) (Rogers 1 AST),,,5 - 10,5
+0029800010,30,1,5,1,11:49 PM,8:21,,,Robinson  Layup (4 PTS) (McCloud 1 AST),7 - 10,3
+0029800010,31,2,1,1,11:49 PM,7:54,MISS Rogers 8' Jump Shot,,,,
+0029800010,33,4,0,1,11:50 PM,7:51,Wright REBOUND (Off:1 Def:1),,,,
+0029800010,32,1,4,1,11:50 PM,7:51,Wright  Tip Shot (4 PTS),,,7 - 12,5
+0029800010,34,2,1,1,11:50 PM,7:45,,,MISS McCloud 12' Jump Shot,,
+0029800010,35,4,0,1,11:50 PM,7:43,Murray REBOUND (Off:0 Def:1),,,,
+0029800010,36,6,2,1,11:50 PM,7:39,,,Longley S.FOUL (P1.T1),,
+0029800010,37,3,11,1,11:50 PM,7:39,Piatkowski Free Throw 1 of 2 (5 PTS),,,7 - 13,6
+0029800010,38,3,12,1,11:50 PM,7:39,MISS Piatkowski Free Throw 2 of 2,,,,
+0029800010,39,4,0,1,11:50 PM,7:36,,,Longley REBOUND (Off:0 Def:1),,
+0029800010,40,2,1,1,11:51 PM,7:28,,,MISS Robinson 7' Jump Shot,,
+0029800010,41,4,0,1,11:51 PM,7:26,,,McCloud REBOUND (Off:1 Def:0),,
+0029800010,42,1,3,1,11:51 PM,7:20,,,Longley 5' Hook Shot (4 PTS),9 - 13,4
+0029800010,43,1,1,1,11:51 PM,7:05,Wright 17' Jump Shot (6 PTS) (Piatkowski 1 AST),,,9 - 15,6
+0029800010,44,2,1,1,11:51 PM,6:51,,,MISS Longley 8' Jump Shot,,
+0029800010,46,4,0,1,11:51 PM,6:49,,,McCloud REBOUND (Off:2 Def:0),,
+0029800010,45,1,5,1,11:51 PM,6:48,,,McCloud  Layup (2 PTS),11 - 15,4
+0029800010,47,6,2,1,11:52 PM,6:23,,,Gugliotta S.FOUL (P1.T2),,
+0029800010,48,9,1,1,11:52 PM,6:23,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,
+0029800010,49,3,11,1,11:54 PM,6:23,MISS Rogers Free Throw 1 of 2,,,,
+0029800010,50,4,2,1,11:54 PM,6:23,CLIPPERS Rebound,,,,
+0029800010,51,3,12,1,11:54 PM,6:23,MISS Rogers Free Throw 2 of 2,,,,
+0029800010,52,4,0,1,11:55 PM,6:21,,,Longley REBOUND (Off:0 Def:2),,
+0029800010,53,1,1,1,11:55 PM,6:03,,,Gugliotta 17' Jump Shot (3 PTS),13 - 15,2
+0029800010,54,1,1,1,11:55 PM,5:40,Piatkowski 27' 3PT Jump Shot (8 PTS) (Martin 3 AST),,,13 - 18,5
+0029800010,55,1,1,1,11:56 PM,5:26,,,McCloud 25' 3PT Jump Shot (5 PTS) (Kidd 2 AST),16 - 18,2
+0029800010,56,1,1,1,11:56 PM,5:02,Piatkowski 26' 3PT Jump Shot (11 PTS) (Martin 4 AST),,,16 - 21,5
+0029800010,57,1,1,1,11:56 PM,4:52,,,McCloud 24' 3PT Jump Shot (8 PTS) (Kidd 3 AST),19 - 21,2
+0029800010,58,2,1,1,11:56 PM,4:33,MISS Murray 19' Jump Shot,,,,
+0029800010,59,4,0,1,11:57 PM,4:33,Wright REBOUND (Off:2 Def:1),,,,
+0029800010,60,5,15,1,11:57 PM,4:33,Wright Offensive Goaltending Turnover (P1.T2),,,,
+0029800010,61,8,0,1,11:57 PM,4:33,SUB: Taylor FOR Rogers,,,,
+0029800010,62,5,1,1,11:57 PM,4:19,Taylor STEAL (1 STL),,McCloud Bad Pass Turnover (P1.T2),,
+0029800010,63,7,6,1,11:57 PM,4:19,,,Gugliotta Violation:Double Lane,,
+0029800010,64,2,1,1,11:57 PM,4:11,MISS Martin 27' 3PT Jump Shot,,Robinson BLOCK (1 BLK),,
+0029800010,65,4,0,1,11:57 PM,4:08,Martin REBOUND (Off:1 Def:0),,,,
+0029800010,66,2,1,1,11:58 PM,4:02,MISS Taylor 8' Jump Shot,,,,
+0029800010,67,4,0,1,11:58 PM,4:01,,,Gugliotta REBOUND (Off:0 Def:3),,
+0029800010,68,6,2,1,11:58 PM,3:58,Taylor S.FOUL (P1.T2),,,,
+0029800010,69,3,11,1,11:58 PM,3:58,,,MISS Robinson Free Throw 1 of 2,,
+0029800010,70,4,2,1,11:58 PM,3:58,,,Suns Rebound,,
+0029800010,71,3,12,1,11:58 PM,3:58,,,MISS Robinson Free Throw 2 of 2,,
+0029800010,72,4,0,1,11:58 PM,3:56,Taylor REBOUND (Off:0 Def:1),,,,
+0029800010,73,5,1,1,11:58 PM,3:42,Taylor Bad Pass Turnover (P1.T3),,,,
+0029800010,74,6,2,1,11:59 PM,3:28,Taylor S.FOUL (P2.T3),,,,
+0029800010,75,3,11,1,11:59 PM,3:28,,,Longley Free Throw 1 of 2 (5 PTS),20 - 21,1
+0029800010,76,3,12,1,11:59 PM,3:28,,,Longley Free Throw 2 of 2 (6 PTS),21 - 21,TIE
+0029800010,77,6,1,1,12:00 AM,3:19,,,Kidd P.FOUL (P1.T3),,
+0029800010,78,8,0,1,12:00 AM,3:19,,,SUB: Respert FOR McCloud,,
+0029800010,79,8,0,1,12:00 AM,3:17,,,SUB: Manning FOR Longley,,
+0029800010,80,1,1,1,12:00 AM,3:03,Murray 8' Jump Shot (6 PTS) (Martin 5 AST),,,21 - 23,2
+0029800010,81,2,1,1,12:01 AM,2:49,,,MISS Manning 17' Jump Shot,,
+0029800010,82,4,0,1,12:01 AM,2:47,Murray REBOUND (Off:0 Def:2),,,,
+0029800010,83,2,1,1,12:01 AM,2:39,MISS Piatkowski 25' 3PT Jump Shot,,,,
+0029800010,84,4,0,1,12:01 AM,2:35,,,Gugliotta REBOUND (Off:0 Def:4),,
+0029800010,85,5,1,1,12:01 AM,2:32,Wright STEAL (2 STL),,Kidd Bad Pass Turnover (P1.T3),,
+0029800010,86,9,1,1,12:01 AM,2:32,,,Suns Timeout: Regular (Reg.1 Short 0),,
+0029800010,88,2,3,1,12:03 AM,2:17,MISS Murray 7' Hook Shot,,,,
+0029800010,89,4,0,1,12:04 AM,2:13,,,Gugliotta REBOUND (Off:0 Def:5),,
+0029800010,90,2,1,1,12:04 AM,2:09,,,MISS Manning 9' Jump Shot,,
+0029800010,91,4,0,1,12:04 AM,2:07,Wright REBOUND (Off:2 Def:2),,,,
+0029800010,92,1,1,1,12:04 AM,1:56,Taylor 7' Jump Shot (2 PTS) (Martin 6 AST),,,21 - 25,4
+0029800010,93,6,2,1,12:04 AM,1:44,Wright S.FOUL (P2.T4),,,,
+0029800010,94,3,11,1,12:04 AM,1:44,,,Gugliotta Free Throw 1 of 2 (4 PTS),22 - 25,3
+0029800010,95,8,0,1,12:05 AM,1:44,SUB: Robinson FOR Piatkowski,,,,
+0029800010,96,8,0,1,12:05 AM,1:44,SUB: Olowokandi FOR Wright,,,,
+0029800010,97,3,12,1,12:05 AM,1:44,,,Gugliotta Free Throw 2 of 2 (5 PTS),23 - 25,2
+0029800010,98,2,1,1,12:05 AM,1:28,MISS Taylor 16' Jump Shot,,,,
+0029800010,99,4,0,1,12:05 AM,1:24,,,Gugliotta REBOUND (Off:0 Def:6),,
+0029800010,100,1,2,1,12:05 AM,1:20,,,Kidd 14' Running Jump Shot (2 PTS),25 - 25,TIE
+0029800010,101,2,1,1,12:06 AM,0:57,MISS Olowokandi 12' Jump Shot,,,,
+0029800010,102,4,0,1,12:06 AM,0:54,,,Gugliotta REBOUND (Off:0 Def:7),,
+0029800010,103,2,1,1,12:06 AM,0:48,,,MISS Gugliotta 20' Jump Shot,,
+0029800010,104,4,0,1,12:06 AM,0:44,Murray REBOUND (Off:0 Def:3),,,,
+0029800010,105,2,1,1,12:07 AM,0:27,MISS Robinson 21' Jump Shot,,,,
+0029800010,106,4,0,1,12:07 AM,0:25,,,Manning REBOUND (Off:0 Def:1),,
+0029800010,107,1,6,1,12:07 AM,0:22,,,Kidd  Driving Layup (4 PTS),27 - 25,-2
+0029800010,108,6,2,1,12:07 AM,0:22,Martin S.FOUL (P1.PN),,,,
+0029800010,109,3,10,1,12:07 AM,0:22,,,Kidd Free Throw 1 of 1 (5 PTS),28 - 25,-3
+0029800010,110,2,3,1,12:07 AM,0:03,MISS Murray 9' Hook Shot,,,,
+0029800010,111,4,0,1,12:07 AM,0:01,,,Manning REBOUND (Off:0 Def:2),,
+0029800010,113,13,0,1,12:08 AM,0:00,,,,28 - 25,-3
+0029800010,115,12,0,2,12:11 AM,12:00,,,,28 - 25,-3
+0029800010,149,6,1,2,12:11 AM,11:51,,,Milic P.FOUL (P1.T1),,
+0029800010,151,6,1,2,12:11 AM,11:42,,,Garrity P.FOUL (P1.T2),,
+0029800010,153,2,1,2,12:11 AM,11:29,MISS Taylor  Jump Shot,,,,
+0029800010,155,4,0,2,12:11 AM,11:28,,,Respert REBOUND (Off:0 Def:1),,
+0029800010,156,6,1,2,12:11 AM,11:21,Robinson P.FOUL (P1.T1),,,,
+0029800010,157,5,4,2,12:11 AM,11:11,,,Milic Traveling Turnover (P1.T4),,
+0029800010,158,1,1,2,12:11 AM,10:53,Olowokandi  Jump Shot (2 PTS),,,28 - 27,-1
+0029800010,159,2,7,2,12:11 AM,10:40,Olowokandi BLOCK (1 BLK),,MISS Garrity  Dunk,,
+0029800010,162,4,0,2,12:11 AM,10:39,,,Suns Rebound,,
+0029800010,130,8,0,2,12:11 AM,10:39,SUB: Richardson FOR Martin,,,,
+0029800010,118,8,0,2,12:12 AM,10:39,SUB: Rogers FOR Taylor,,,,
+0029800010,165,1,1,2,12:12 AM,10:34,,,Manning  Jump Shot (2 PTS),30 - 27,-3
+0029800010,168,1,3,2,12:12 AM,10:19,Olowokandi  Hook Shot (4 PTS) (Rogers 2 AST),,,30 - 29,-1
+0029800010,136,2,5,2,12:12 AM,10:04,Robinson BLOCK (1 BLK),,MISS Milic  Layup,,
+0029800010,143,4,0,2,12:12 AM,10:03,Murray REBOUND (Off:0 Def:4),,,,
+0029800010,128,5,1,2,12:13 AM,9:55,Rogers Bad Pass Turnover (P2.T4),,Manning STEAL (1 STL),,
+0029800010,119,1,6,2,12:13 AM,9:53,,,Milic  Driving Layup (2 PTS) (McCloud 2 AST),32 - 29,-3
+0029800010,116,2,1,2,12:14 AM,9:26,MISS Robinson 27' 3PT Jump Shot,,,,
+0029800010,117,4,0,2,12:14 AM,9:23,,,McCloud REBOUND (Off:2 Def:1),,
+0029800010,120,1,1,2,12:14 AM,9:10,,,McCloud 26' 3PT Jump Shot (11 PTS) (Garrity 1 AST),35 - 29,-6
+0029800010,121,1,1,2,12:15 AM,8:52,Rogers  Jump Shot (2 PTS) (Richardson 1 AST),,,35 - 31,-4
+0029800010,122,5,1,2,12:15 AM,8:31,Murray STEAL (1 STL),,Manning Bad Pass Turnover (P1.T5),,
+0029800010,124,5,1,2,12:15 AM,8:24,Murray Bad Pass Turnover (P1.T5),,McCloud STEAL (1 STL),,
+0029800010,125,5,1,2,12:15 AM,8:16,Murray STEAL (2 STL),,Manning Bad Pass Turnover (P2.T6),,
+0029800010,126,6,1,2,12:16 AM,8:06,,,Garrity P.FOUL (P2.T3),,
+0029800010,127,9,4,2,12:16 AM,8:06,,,,,
+0029800010,131,8,0,2,12:18 AM,8:06,SUB: Wright FOR Murray,,,,
+0029800010,132,8,0,2,12:18 AM,8:06,SUB: Nesby FOR Olowokandi,,,,
+0029800010,133,8,0,2,12:18 AM,8:06,,,SUB: Gugliotta FOR Garrity,,
+0029800010,134,8,0,2,12:18 AM,8:06,,,SUB: Kidd FOR Milic,,
+0029800010,135,2,1,2,12:18 AM,7:55,MISS Rogers 7' Jump Shot,,,,
+0029800010,138,4,0,2,12:18 AM,7:53,Rogers REBOUND (Off:1 Def:3),,,,
+0029800010,137,2,5,2,12:18 AM,7:51,MISS Rogers  Layup,,McCloud BLOCK (1 BLK),,
+0029800010,139,4,0,2,12:18 AM,7:47,,,McCloud REBOUND (Off:2 Def:2),,
+0029800010,140,2,1,2,12:19 AM,7:35,,,MISS Kidd 18' Jump Shot,,
+0029800010,142,4,0,2,12:19 AM,7:31,,,Gugliotta REBOUND (Off:1 Def:7),,
+0029800010,144,1,1,2,12:19 AM,7:28,,,Gugliotta 14' Jump Shot (7 PTS),37 - 31,-6
+0029800010,145,2,1,2,12:19 AM,7:13,MISS Richardson 13' Jump Shot,,,,
+0029800010,146,4,0,2,12:19 AM,7:12,Rogers REBOUND (Off:2 Def:3),,,,
+0029800010,147,2,1,2,12:19 AM,7:03,MISS Rogers 16' Jump Shot,,Manning BLOCK (1 BLK),,
+0029800010,148,4,0,2,12:19 AM,7:03,CLIPPERS Rebound,,,,
+0029800010,150,6,2,2,12:20 AM,6:59,,,McCloud S.FOUL (P1.T4),,
+0029800010,152,9,1,2,12:20 AM,6:59,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,
+0029800010,160,3,11,2,12:22 AM,6:59,Robinson Free Throw 1 of 2 (1 PTS),,,37 - 32,-5
+0029800010,163,3,12,2,12:22 AM,6:59,Robinson Free Throw 2 of 2 (2 PTS),,,37 - 33,-4
+0029800010,166,1,6,2,12:23 AM,6:45,,,Respert 4' Driving Layup (2 PTS),39 - 33,-6
+0029800010,167,1,1,2,12:23 AM,6:35,Rogers 27' 3PT Jump Shot (5 PTS) (Richardson 2 AST),,,39 - 36,-3
+0029800010,169,2,1,2,12:23 AM,6:18,,,MISS Kidd 21' Jump Shot,,
+0029800010,170,4,0,2,12:23 AM,6:15,,,Respert REBOUND (Off:1 Def:1),,
+0029800010,171,1,1,2,12:23 AM,6:05,,,Gugliotta 19' Jump Shot (9 PTS) (Respert 1 AST),41 - 36,-5
+0029800010,172,2,6,2,12:24 AM,5:45,MISS Robinson  Driving Layup,,,,
+0029800010,173,4,0,2,12:24 AM,5:40,,,Manning REBOUND (Off:0 Def:3),,
+0029800010,174,1,1,2,12:24 AM,5:36,,,McCloud 11' Jump Shot (13 PTS) (Kidd 4 AST),43 - 36,-7
+0029800010,175,2,1,2,12:24 AM,5:17,MISS Richardson 22' Jump Shot,,,,
+0029800010,176,4,0,2,12:24 AM,5:14,CLIPPERS Rebound,,,,
+0029800010,177,7,6,2,12:24 AM,5:14,,,Respert Violation:Double Lane,,
+0029800010,178,8,0,2,12:24 AM,5:14,,,SUB: Brown FOR Respert,,
+0029800010,179,8,0,2,12:24 AM,5:14,SUB: Murray FOR Richardson,,,,
+0029800010,180,8,0,2,12:24 AM,5:14,SUB: Martin FOR Nesby,,,,
+0029800010,181,8,0,2,12:25 AM,5:14,,,SUB: Robinson FOR Manning,,
+0029800010,182,2,1,2,12:25 AM,5:00,MISS Wright 7' Jump Shot,,,,
+0029800010,184,4,0,2,12:25 AM,4:58,Murray REBOUND (Off:1 Def:4),,,,
+0029800010,183,2,4,2,12:25 AM,4:58,MISS Murray  Tip Shot,,,,
+0029800010,185,4,0,2,12:25 AM,4:55,,,McCloud REBOUND (Off:2 Def:3),,
+0029800010,186,2,1,2,12:25 AM,4:51,,,MISS Gugliotta 17' Jump Shot,,
+0029800010,187,4,0,2,12:25 AM,4:48,Wright REBOUND (Off:2 Def:3),,,,
+0029800010,189,6,11,2,12:26 AM,4:41,,,McCloud T.FOUL (P1.T4),,
+0029800010,190,3,16,2,12:26 AM,4:41,Martin Free Throw Technical (1 PTS),,,43 - 37,-6
+0029800010,188,6,2,2,12:26 AM,4:41,,,Robinson S.FOUL (P1.PN),,
+0029800010,191,3,11,2,12:26 AM,4:41,MISS Murray Free Throw 1 of 2,,,,
+0029800010,192,4,2,2,12:26 AM,4:41,CLIPPERS Rebound,,,,
+0029800010,193,3,12,2,12:26 AM,4:41,MISS Murray Free Throw 2 of 2,,,,
+0029800010,194,4,0,2,12:27 AM,4:40,Rogers REBOUND (Off:3 Def:3),,,,
+0029800010,195,6,2,2,12:27 AM,4:38,,,Brown S.FOUL (P1.PN),,
+0029800010,196,3,11,2,12:27 AM,4:38,MISS Murray Free Throw 1 of 2,,,,
+0029800010,197,4,2,2,12:27 AM,4:38,CLIPPERS Rebound,,,,
+0029800010,198,3,12,2,12:27 AM,4:38,Murray Free Throw 2 of 2 (7 PTS),,,43 - 38,-5
+0029800010,199,5,1,2,12:27 AM,4:29,,,Gugliotta Bad Pass Turnover (P1.T7),,
+0029800010,200,2,1,2,12:28 AM,4:18,MISS Rogers 7' Jump Shot,,,,
+0029800010,201,4,0,2,12:28 AM,4:15,,,McCloud REBOUND (Off:2 Def:4),,
+0029800010,202,6,1,2,12:28 AM,4:13,Rogers P.FOUL (P2.T2),,,,
+0029800010,203,8,0,2,12:28 AM,4:13,SUB: Piatkowski FOR Robinson,,,,
+0029800010,204,8,0,2,12:28 AM,4:13,,,SUB: Longley FOR McCloud,,
+0029800010,205,7,6,2,12:28 AM,4:07,Martin Violation:Double Lane,,,,
+0029800010,206,8,0,2,12:29 AM,4:07,SUB: Olowokandi FOR Wright,,,,
+0029800010,207,5,1,2,12:29 AM,4:01,Martin STEAL (1 STL),,Gugliotta Bad Pass Turnover (P2.T8),,
+0029800010,208,1,1,2,12:29 AM,3:51,Martin 26' 3PT Jump Shot (4 PTS) (Rogers 3 AST),,,43 - 41,-2
+0029800010,209,6,1,2,12:29 AM,3:37,Olowokandi P.FOUL (P1.T3),,,,
+0029800010,210,2,1,2,12:30 AM,3:28,,,MISS Gugliotta 18' Jump Shot,,
+0029800010,211,4,0,2,12:30 AM,3:25,Martin REBOUND (Off:1 Def:1),,,,
+0029800010,212,1,1,2,12:30 AM,3:20,Martin 28' 3PT Jump Shot (7 PTS),,,43 - 44,1
+0029800010,213,7,2,2,12:30 AM,3:10,CLIPPERS Violation: Def. Goaltending Violation,,,,
+0029800010,214,1,6,2,12:30 AM,3:05,,,Gugliotta  Driving Layup (11 PTS),45 - 44,-1
+0029800010,215,6,2,2,12:30 AM,3:05,Martin S.FOUL (P2.T4),,,,
+0029800010,216,8,0,2,12:31 AM,3:05,SUB: Taylor FOR Rogers,,,,
+0029800010,217,3,10,2,12:31 AM,3:05,,,Gugliotta Free Throw 1 of 1 (12 PTS),46 - 44,-2
+0029800010,218,6,1,2,12:31 AM,2:55,,,Brown P.FOUL (P2.PN),,
+0029800010,219,9,1,2,12:31 AM,2:55,,,Suns Timeout: Regular (Reg.2 Short 0),,
+0029800010,221,3,11,2,12:33 AM,2:55,Martin Free Throw 1 of 2 (8 PTS),,,46 - 45,-1
+0029800010,222,3,12,2,12:34 AM,2:55,Martin Free Throw 2 of 2 (9 PTS),,,46 - 46,TIE
+0029800010,223,1,1,2,12:34 AM,2:43,,,Brown 27' 3PT Jump Shot (3 PTS) (Gugliotta 1 AST),49 - 46,-3
+0029800010,224,1,6,2,12:34 AM,2:21,Taylor  Driving Layup (4 PTS),,,49 - 48,-1
+0029800010,225,6,1,2,12:35 AM,2:12,Taylor P.FOUL (P3.PN),,,,
+0029800010,226,3,11,2,12:35 AM,2:12,,,Gugliotta Free Throw 1 of 2 (13 PTS),50 - 48,-2
+0029800010,227,8,0,2,12:35 AM,2:12,SUB: Nesby FOR Taylor,,,,
+0029800010,228,3,12,2,12:35 AM,2:12,,,Gugliotta Free Throw 2 of 2 (14 PTS),51 - 48,-3
+0029800010,229,2,1,2,12:36 AM,1:56,MISS Piatkowski 28' 3PT Jump Shot,,,,
+0029800010,230,4,0,2,12:36 AM,1:54,,,Gugliotta REBOUND (Off:1 Def:8),,
+0029800010,231,2,5,2,12:36 AM,1:45,,,MISS Robinson  Layup,,
+0029800010,232,4,0,2,12:36 AM,1:43,Olowokandi REBOUND (Off:0 Def:1),,,,
+0029800010,234,2,1,2,12:36 AM,1:28,MISS Murray 16' Jump Shot,,,,
+0029800010,235,4,0,2,12:36 AM,1:27,,,Longley REBOUND (Off:0 Def:3),,
+0029800010,236,7,2,2,12:36 AM,1:17,CLIPPERS Violation: Def. Goaltending Violation,,,,
+0029800010,237,6,17,2,12:37 AM,1:17,CLIPPERS Foul,,,,
+0029800010,244,3,16,2,12:37 AM,1:17,,,MISS Kidd Free Throw Technical,,
+0029800010,274,4,2,2,12:37 AM,1:17,,,Suns Rebound,,
+0029800010,239,9,2,2,12:37 AM,1:17,CLIPPERS Timeout: Short (Full 2 Short 1),,,,
+0029800010,241,8,0,2,12:38 AM,1:17,SUB: Rogers FOR Nesby,,,,
+0029800010,243,1,5,2,12:38 AM,1:00,,,Gugliotta  Layup (16 PTS),53 - 48,-5
+0029800010,245,8,0,2,12:39 AM,1:00,SUB: Nesby FOR Rogers,,,,
+0029800010,248,1,8,2,12:40 AM,0:41,Olowokandi  Slam Dunk (6 PTS),,,53 - 50,-3
+0029800010,250,6,2,2,12:40 AM,0:41,,,Longley S.FOUL (P2.PN),,
+0029800010,251,3,10,2,12:40 AM,0:41,MISS Olowokandi Free Throw 1 of 1,,,,
+0029800010,252,4,0,2,12:40 AM,0:41,,,Longley REBOUND (Off:0 Def:4),,
+0029800010,253,6,1,2,12:40 AM,0:34,Nesby P.FOUL (P1.PN),,,,
+0029800010,255,3,11,2,12:41 AM,0:34,,,MISS Kidd Free Throw 1 of 2,,
+0029800010,257,4,2,2,12:41 AM,0:34,,,Suns Rebound,,
+0029800010,258,3,12,2,12:41 AM,0:34,,,MISS Kidd Free Throw 2 of 2,,
+0029800010,259,4,0,2,12:41 AM,0:33,Olowokandi REBOUND (Off:0 Def:2),,,,
+0029800010,260,7,2,2,12:41 AM,0:17,,,Suns Violation: Def. Goaltending Violation,,
+0029800010,261,6,17,2,12:42 AM,0:17,,,Suns Foul,,
+0029800010,262,3,16,2,12:42 AM,0:17,Martin Free Throw Technical (10 PTS),,,53 - 51,-2
+0029800010,263,1,6,2,12:42 AM,0:14,Nesby  Driving Layup (2 PTS),,,53 - 53,TIE
+0029800010,264,6,2,2,12:42 AM,0:14,,,Gugliotta S.FOUL (P2.PN),,
+0029800010,265,8,0,2,12:42 AM,0:14,,,SUB: McCloud FOR Longley,,
+0029800010,266,8,0,2,12:42 AM,0:14,SUB: Robinson FOR Olowokandi,,,,
+0029800010,267,3,10,2,12:43 AM,0:14,MISS Nesby Free Throw 1 of 1,,,,
+0029800010,268,4,0,2,12:43 AM,0:14,,,Gugliotta REBOUND (Off:1 Def:9),,
+0029800010,269,2,1,2,12:43 AM,0:02,,,MISS Kidd 12' Jump Shot,,
+0029800010,270,4,0,2,12:43 AM,0:01,Murray REBOUND (Off:1 Def:5),,,,
+0029800010,271,1,1,2,12:43 AM,0:00,Murray 39' 3PT Jump Shot (10 PTS),,,53 - 56,3
+0029800010,272,13,0,2,12:43 AM,0:00,,,,53 - 56,3
+0029800010,275,12,0,3,12:59 AM,12:00,,,,53 - 56,3
+0029800010,276,5,1,3,1:00 AM,11:44,Piatkowski Bad Pass Turnover (P1.T6),,Gugliotta STEAL (1 STL),,
+0029800010,277,1,6,3,1:00 AM,11:40,,,Kidd  Driving Layup (7 PTS),55 - 56,1
+0029800010,278,6,4,3,1:00 AM,11:18,Rogers OFF.Foul (P3),,,,
+0029800010,279,5,5,3,1:00 AM,11:18,Rogers Foul Turnover (P3.T7),,,,
+0029800010,280,2,1,3,1:01 AM,10:50,,,MISS Robinson 8' Jump Shot,,
+0029800010,282,4,0,3,1:01 AM,10:48,,,Longley REBOUND (Off:1 Def:4),,
+0029800010,281,1,4,3,1:01 AM,10:48,,,Robinson  Tip Shot (6 PTS),57 - 56,-1
+0029800010,283,2,1,3,1:01 AM,10:41,MISS Wright 15' Jump Shot,,,,
+0029800010,284,4,0,3,1:01 AM,10:40,,,Suns Rebound,,
+0029800010,285,2,1,3,1:01 AM,10:24,Wright BLOCK (1 BLK),,MISS Gugliotta 4' Jump Shot,,
+0029800010,286,4,0,3,1:01 AM,10:24,,,Suns Rebound,,
+0029800010,287,2,1,3,1:02 AM,10:14,,,MISS Robinson 7' Jump Shot,,
+0029800010,288,4,0,3,1:02 AM,10:12,Wright REBOUND (Off:2 Def:4),,,,
+0029800010,289,5,4,3,1:02 AM,10:06,Rogers Traveling Turnover (P4.T8),,,,
+0029800010,290,7,1,3,1:02 AM,10:06,CLIPPERS Violation: Delay of game Violation,,,,
+0029800010,291,6,2,3,1:02 AM,9:58,Piatkowski S.FOUL (P1.T1),,,,
+0029800010,292,3,11,3,1:03 AM,9:58,,,MISS McCloud Free Throw 1 of 2,,
+0029800010,293,4,2,3,1:03 AM,9:58,,,Suns Rebound,,
+0029800010,294,3,12,3,1:03 AM,9:58,,,McCloud Free Throw 2 of 2 (14 PTS),58 - 56,-2
+0029800010,295,2,1,3,1:03 AM,9:50,MISS Martin 21' Jump Shot,,,,
+0029800010,296,4,0,3,1:03 AM,9:48,,,Longley REBOUND (Off:1 Def:5),,
+0029800010,297,1,8,3,1:03 AM,9:45,,,Robinson  Slam Dunk (8 PTS) (Kidd 5 AST),60 - 56,-4
+0029800010,298,2,1,3,1:04 AM,9:21,MISS Rogers 27' 3PT Jump Shot,,,,
+0029800010,299,4,0,3,1:04 AM,9:19,,,Gugliotta REBOUND (Off:1 Def:10),,
+0029800010,300,5,1,3,1:04 AM,9:16,Martin STEAL (2 STL),,Gugliotta Bad Pass Turnover (P3.T9),,
+0029800010,301,5,2,3,1:04 AM,9:15,Martin Lost Ball Turnover (P1.T9),,,,
+0029800010,302,1,9,3,1:04 AM,9:01,,,Robinson  Driving Dunk (10 PTS),62 - 56,-6
+0029800010,303,9,1,3,1:04 AM,8:59,CLIPPERS Timeout: Regular (Full 3 Short 1),,,,
+0029800010,305,2,1,3,1:07 AM,8:46,MISS Murray 13' Jump Shot,,,,
+0029800010,306,4,0,3,1:07 AM,8:44,,,Longley REBOUND (Off:1 Def:6),,
+0029800010,307,1,5,3,1:07 AM,8:38,,,Gugliotta  Layup (18 PTS) (Robinson 1 AST),64 - 56,-8
+0029800010,308,8,0,3,1:07 AM,8:25,SUB: Taylor FOR Rogers,,,,
+0029800010,309,8,0,3,1:07 AM,8:25,SUB: Olowokandi FOR Wright,,,,
+0029800010,310,5,1,3,1:08 AM,8:23,Piatkowski Bad Pass Turnover (P2.T10),,,,
+0029800010,311,6,2,3,1:08 AM,8:07,Taylor S.FOUL (P4.T2),,,,
+0029800010,312,3,11,3,1:09 AM,8:07,,,Robinson Free Throw 1 of 2 (11 PTS),65 - 56,-9
+0029800010,313,3,12,3,1:09 AM,8:07,,,Robinson Free Throw 2 of 2 (12 PTS),66 - 56,-10
+0029800010,314,6,1,3,1:09 AM,7:54,,,Robinson P.FOUL (P2.T1),,
+0029800010,315,6,1,3,1:10 AM,7:42,,,Longley P.FOUL (P3.T2),,
+0029800010,316,6,4,3,1:10 AM,7:37,Olowokandi OFF.Foul (P2),,,,
+0029800010,317,5,5,3,1:10 AM,7:37,Olowokandi Foul Turnover (P1.T11),,,,
+0029800010,318,1,5,3,1:10 AM,7:24,,,Gugliotta  Layup (20 PTS) (McCloud 3 AST),68 - 56,-12
+0029800010,319,2,1,3,1:11 AM,7:09,MISS Taylor 21' Jump Shot,,,,
+0029800010,320,4,0,3,1:11 AM,7:07,,,Gugliotta REBOUND (Off:1 Def:11),,
+0029800010,321,5,2,3,1:11 AM,7:03,,,Kidd Lost Ball Turnover (P2.T10),,
+0029800010,322,2,3,3,1:11 AM,6:47,MISS Olowokandi 9' Hook Shot,,Longley BLOCK (1 BLK),,
+0029800010,323,4,0,3,1:11 AM,6:41,,,Gugliotta REBOUND (Off:1 Def:12),,
+0029800010,324,1,5,3,1:12 AM,6:30,,,Robinson  Layup (14 PTS) (Longley 1 AST),70 - 56,-14
+0029800010,325,9,1,3,1:12 AM,6:29,CLIPPERS Timeout: Regular (Full 4 Short 1),,,,
+0029800010,327,2,1,3,1:14 AM,6:10,MISS Murray 20' Jump Shot,,,,
+0029800010,328,4,0,3,1:14 AM,6:07,Taylor REBOUND (Off:1 Def:1),,,,
+0029800010,329,1,3,3,1:14 AM,6:06,Taylor 6' Hook Shot (6 PTS),,,70 - 58,-12
+0029800010,330,2,1,3,1:14 AM,5:53,,,MISS Gugliotta 13' Jump Shot,,
+0029800010,331,4,0,3,1:14 AM,5:51,,,Longley REBOUND (Off:2 Def:6),,
+0029800010,332,5,8,3,1:14 AM,5:49,,,McCloud 3 Second Violation Turnover (P2.T11),,
+0029800010,333,2,1,3,1:15 AM,5:31,MISS Taylor 7' Jump Shot,,,,
+0029800010,334,4,0,3,1:15 AM,5:29,,,Gugliotta REBOUND (Off:1 Def:13),,
+0029800010,335,1,6,3,1:15 AM,5:22,,,Kidd  Driving Layup (9 PTS),72 - 58,-14
+0029800010,336,9,2,3,1:15 AM,5:17,CLIPPERS Timeout: Short (Full 4 Short 2),,,,
+0029800010,338,6,4,3,1:16 AM,5:01,Martin OFF.Foul (P3),,,,
+0029800010,339,5,5,3,1:16 AM,5:01,Martin Foul Turnover (P2.T12),,,,
+0029800010,340,1,1,3,1:17 AM,4:48,,,Kidd 14' Jump Shot (11 PTS),74 - 58,-16
+0029800010,341,1,1,3,1:17 AM,4:28,Piatkowski 26' 3PT Jump Shot (14 PTS) (Murray 1 AST),,,74 - 61,-13
+0029800010,342,5,1,3,1:17 AM,4:20,Martin STEAL (3 STL),,Kidd Bad Pass Turnover (P3.T12),,
+0029800010,343,5,7,3,1:17 AM,4:15,Taylor Discontinue Dribble Turnover (P2.T13),,,,
+0029800010,344,8,0,3,1:17 AM,4:15,SUB: Douglas FOR Piatkowski,,,,
+0029800010,345,8,0,3,1:17 AM,4:15,SUB: Robinson FOR Martin,,,,
+0029800010,346,6,2,3,1:18 AM,4:02,Taylor S.FOUL (P5.T3),,,,
+0029800010,347,3,11,3,1:18 AM,4:02,,,Kidd Free Throw 1 of 2 (12 PTS),75 - 61,-14
+0029800010,348,8,0,3,1:18 AM,4:02,SUB: Rogers FOR Taylor,,,,
+0029800010,350,8,0,3,1:19 AM,4:02,,,SUB: Respert FOR McCloud,,
+0029800010,351,3,12,3,1:19 AM,4:02,,,Kidd Free Throw 2 of 2 (13 PTS),76 - 61,-15
+0029800010,352,1,1,3,1:19 AM,3:41,Robinson 14' Jump Shot (4 PTS),,,76 - 63,-13
+0029800010,353,6,2,3,1:19 AM,3:35,Rogers S.FOUL (P4.T4),,,,
+0029800010,354,3,11,3,1:19 AM,3:35,,,Gugliotta Free Throw 1 of 2 (21 PTS),77 - 63,-14
+0029800010,355,3,12,3,1:20 AM,3:35,,,MISS Gugliotta Free Throw 2 of 2,,
+0029800010,356,4,0,3,1:20 AM,3:34,CLIPPERS Rebound,,,,
+0029800010,357,5,1,3,1:20 AM,3:12,Douglas Bad Pass Turnover (P1.T14),,Longley STEAL (1 STL),,
+0029800010,358,5,2,3,1:20 AM,3:11,Douglas STEAL (1 STL),,Longley Lost Ball Turnover (P2.T13),,
+0029800010,359,6,1,3,1:20 AM,3:10,,,Longley P.FOUL (P4.T3),,
+0029800010,360,8,0,3,1:21 AM,3:10,,,SUB: Manning FOR Longley,,
+0029800010,361,2,1,3,1:21 AM,2:55,MISS Murray 26' 3PT Jump Shot,,,,
+0029800010,362,4,0,3,1:21 AM,2:51,,,Kidd REBOUND (Off:0 Def:1),,
+0029800010,363,1,1,3,1:21 AM,2:45,,,Respert 13' Jump Shot (4 PTS) (Kidd 6 AST),79 - 63,-16
+0029800010,364,1,1,3,1:22 AM,2:30,Robinson 27' 3PT Jump Shot (7 PTS) (Douglas 1 AST),,,79 - 66,-13
+0029800010,365,9,1,3,1:22 AM,2:16,,,Suns Timeout: Regular (Reg.3 Short 0),,
+0029800010,367,8,0,3,1:24 AM,2:16,SUB: Wright FOR Olowokandi,,,,
+0029800010,368,8,0,3,1:24 AM,2:16,,,SUB: Garrity FOR Gugliotta,,
+0029800010,369,8,0,3,1:24 AM,2:16,,,SUB: Brown FOR Kidd,,
+0029800010,370,5,1,3,1:24 AM,2:14,Robinson STEAL (1 STL),,Brown Bad Pass Turnover (P1.T14),,
+0029800010,371,2,6,3,1:24 AM,2:09,MISS Douglas  Driving Layup,,,,
+0029800010,372,4,0,3,1:24 AM,2:06,,,Brown REBOUND (Off:0 Def:1),,
+0029800010,373,5,2,3,1:24 AM,2:02,Murray STEAL (3 STL),,Brown Lost Ball Turnover (P2.T15),,
+0029800010,374,2,6,3,1:24 AM,1:58,MISS Douglas  Driving Layup,,Robinson BLOCK (2 BLK),,
+0029800010,375,4,0,3,1:24 AM,1:54,Murray REBOUND (Off:2 Def:5),,,,
+0029800010,376,1,5,3,1:24 AM,1:52,Murray  Layup (12 PTS),,,79 - 68,-11
+0029800010,377,2,1,3,1:25 AM,1:33,,,MISS Respert 20' Jump Shot,,
+0029800010,378,4,0,3,1:25 AM,1:31,Murray REBOUND (Off:2 Def:6),,,,
+0029800010,379,5,2,3,1:25 AM,1:30,Murray Lost Ball Turnover (P2.T15),,Robinson STEAL (1 STL),,
+0029800010,380,6,1,3,1:25 AM,1:30,Murray P.FOUL (P1.PN),,,,
+0029800010,381,3,11,3,1:25 AM,1:30,,,MISS Robinson Free Throw 1 of 2,,
+0029800010,382,4,2,3,1:25 AM,1:30,,,Suns Rebound,,
+0029800010,383,3,12,3,1:25 AM,1:30,,,MISS Robinson Free Throw 2 of 2,,
+0029800010,384,4,0,3,1:26 AM,1:28,Wright REBOUND (Off:2 Def:5),,,,
+0029800010,385,1,5,3,1:26 AM,1:20,Wright  Layup (8 PTS) (Douglas 2 AST),,,79 - 70,-9
+0029800010,386,6,2,3,1:26 AM,1:20,,,Robinson S.FOUL (P3.T4),,
+0029800010,387,3,10,3,1:26 AM,1:20,Wright Free Throw 1 of 1 (9 PTS),,,79 - 71,-8
+0029800010,388,6,1,3,1:27 AM,1:03,Douglas P.FOUL (P1.PN),,,,
+0029800010,390,8,0,3,1:27 AM,1:03,,,SUB: McCloud FOR Robinson,,
+0029800010,391,3,11,3,1:27 AM,1:03,,,MISS Respert Free Throw 1 of 2,,
+0029800010,392,4,2,3,1:27 AM,1:03,,,Suns Rebound,,
+0029800010,393,3,12,3,1:28 AM,1:03,,,Respert Free Throw 2 of 2 (5 PTS),80 - 71,-9
+0029800010,395,2,1,3,1:28 AM,0:50,MISS Rogers 27' 3PT Jump Shot,,,,
+0029800010,396,4,0,3,1:28 AM,0:48,,,McCloud REBOUND (Off:2 Def:5),,
+0029800010,397,2,1,3,1:28 AM,0:40,,,MISS Manning 16' Jump Shot,,
+0029800010,398,4,0,3,1:28 AM,0:37,Wright REBOUND (Off:2 Def:6),,,,
+0029800010,399,1,1,3,1:29 AM,0:17,Wright 17' Jump Shot (11 PTS),,,80 - 73,-7
+0029800010,400,2,1,3,1:29 AM,0:02,,,MISS Respert 28' 3PT Jump Shot,,
+0029800010,401,4,0,3,1:29 AM,0:00,Rogers REBOUND (Off:3 Def:4),,,,
+0029800010,403,13,0,3,1:29 AM,0:00,,,,80 - 73,-7
+0029800010,405,12,0,4,1:32 AM,12:00,,,,80 - 73,-7
+0029800010,406,2,1,4,1:32 AM,11:46,,,MISS McCloud 26' 3PT Jump Shot,,
+0029800010,407,4,0,4,1:32 AM,11:44,,,Gugliotta REBOUND (Off:2 Def:13),,
+0029800010,408,2,3,4,1:32 AM,11:38,,,MISS Longley 6' Hook Shot,,
+0029800010,409,4,0,4,1:32 AM,11:36,,,Suns Rebound,,
+0029800010,410,5,3,4,1:32 AM,11:35,,,Respert Out Of Bounds Turnover (P1.T16),,
+0029800010,411,2,1,4,1:33 AM,11:24,MISS Robinson 15' Jump Shot,,,,
+0029800010,412,4,0,4,1:33 AM,11:20,,,Kidd REBOUND (Off:0 Def:2),,
+0029800010,413,2,1,4,1:33 AM,11:07,,,MISS Respert 27' 3PT Jump Shot,,
+0029800010,414,4,0,4,1:33 AM,11:05,,,Gugliotta REBOUND (Off:3 Def:13),,
+0029800010,415,2,5,4,1:33 AM,10:58,,,MISS Respert  Layup,,
+0029800010,416,4,0,4,1:33 AM,10:54,Wright REBOUND (Off:2 Def:7),,,,
+0029800010,417,2,1,4,1:33 AM,10:36,MISS Rogers 10' Jump Shot,,,,
+0029800010,418,4,0,4,1:33 AM,10:34,,,Kidd REBOUND (Off:0 Def:3),,
+0029800010,419,6,1,4,1:33 AM,10:33,Robinson P.FOUL (P2.T1),,,,
+0029800010,420,1,5,4,1:34 AM,10:29,,,Longley  Layup (8 PTS) (Kidd 7 AST),82 - 73,-9
+0029800010,421,5,2,4,1:34 AM,10:08,Nesby Lost Ball Turnover (P1.T16),,Kidd STEAL (1 STL),,
+0029800010,422,1,5,4,1:34 AM,9:53,,,Respert  Layup (7 PTS) (Kidd 8 AST),84 - 73,-11
+0029800010,423,9,1,4,1:34 AM,9:51,CLIPPERS Timeout: Regular (Full 5 Short 2),,,,
+0029800010,425,8,0,4,1:37 AM,9:51,SUB: Murray FOR Nesby,,,,
+0029800010,427,6,1,4,1:37 AM,9:37,,,McCloud P.FOUL (P2.T1),,
+0029800010,428,6,2,4,1:38 AM,9:24,,,Longley S.FOUL (P5.T2),,
+0029800010,429,3,11,4,1:38 AM,9:24,Rogers Free Throw 1 of 2 (6 PTS),,,84 - 74,-10
+0029800010,430,3,12,4,1:38 AM,9:24,Rogers Free Throw 2 of 2 (7 PTS),,,84 - 75,-9
+0029800010,431,6,1,4,1:39 AM,9:06,Murray P.FOUL (P2.T2),,,,
+0029800010,432,8,0,4,1:39 AM,9:06,,,SUB: Robinson FOR Longley,,
+0029800010,433,6,1,4,1:39 AM,9:03,Wright P.FOUL (P3.T3),,,,
+0029800010,434,2,1,4,1:40 AM,8:52,,,MISS Robinson 8' Jump Shot,,
+0029800010,435,4,0,4,1:40 AM,8:50,Rogers REBOUND (Off:3 Def:5),,,,
+0029800010,436,5,2,4,1:40 AM,8:32,Murray Lost Ball Turnover (P3.T17),,McCloud STEAL (2 STL),,
+0029800010,437,2,1,4,1:40 AM,8:26,,,MISS Respert 22' Jump Shot,,
+0029800010,438,4,0,4,1:40 AM,8:24,Murray REBOUND (Off:2 Def:7),,,,
+0029800010,439,5,2,4,1:40 AM,8:16,Martin Lost Ball Turnover (P3.T18),,Respert STEAL (1 STL),,
+0029800010,440,1,5,4,1:40 AM,8:10,,,Robinson  Layup (16 PTS) (Kidd 9 AST),86 - 75,-11
+0029800010,441,2,1,4,1:41 AM,7:40,MISS Murray 27' 3PT Jump Shot,,,,
+0029800010,442,4,0,4,1:41 AM,7:38,Rogers REBOUND (Off:4 Def:5),,,,
+0029800010,443,6,2,4,1:41 AM,7:38,,,Gugliotta S.FOUL (P3.T3),,
+0029800010,444,8,0,4,1:41 AM,7:38,SUB: Piatkowski FOR Robinson,,,,
+0029800010,445,3,11,4,1:41 AM,7:38,Rogers Free Throw 1 of 2 (8 PTS),,,86 - 76,-10
+0029800010,447,8,0,4,1:41 AM,7:38,,,SUB: Manning FOR Respert,,
+0029800010,448,3,12,4,1:41 AM,7:38,Rogers Free Throw 2 of 2 (9 PTS),,,86 - 77,-9
+0029800010,449,6,2,4,1:42 AM,7:29,Wright S.FOUL (P4.T4),,,,
+0029800010,450,8,0,4,1:42 AM,7:29,SUB: Taylor FOR Rogers,,,,
+0029800010,451,3,11,4,1:42 AM,7:29,,,MISS Gugliotta Free Throw 1 of 2,,
+0029800010,452,4,2,4,1:42 AM,7:29,,,Suns Rebound,,
+0029800010,453,3,12,4,1:43 AM,7:29,,,Gugliotta Free Throw 2 of 2 (22 PTS),87 - 77,-10
+0029800010,454,2,2,4,1:43 AM,7:11,MISS Piatkowski 11' Running Jump Shot,,,,
+0029800010,455,4,0,4,1:43 AM,7:08,,,Gugliotta REBOUND (Off:3 Def:14),,
+0029800010,456,2,6,4,1:43 AM,7:04,,,MISS Kidd 4' Driving Layup,,
+0029800010,457,4,0,4,1:43 AM,6:59,Wright REBOUND (Off:2 Def:8),,,,
+0029800010,458,7,6,4,1:43 AM,6:55,,,Kidd Violation:Double Lane,,
+0029800010,459,9,4,4,1:44 AM,6:55,,,,,
+0029800010,463,5,4,4,1:46 AM,6:45,Taylor Traveling Turnover (P3.T19),,,,
+0029800010,464,2,1,4,1:47 AM,6:27,,,MISS Manning 17' Jump Shot,,
+0029800010,465,4,0,4,1:47 AM,6:24,Murray REBOUND (Off:2 Def:8),,,,
+0029800010,466,6,2,4,1:47 AM,6:18,,,Kidd S.FOUL (P2.T4),,
+0029800010,467,3,11,4,1:47 AM,6:18,MISS Taylor Free Throw 1 of 2,,,,
+0029800010,468,4,2,4,1:47 AM,6:18,CLIPPERS Rebound,,,,
+0029800010,469,3,12,4,1:47 AM,6:18,MISS Taylor Free Throw 2 of 2,,,,
+0029800010,470,4,0,4,1:47 AM,6:17,,,Robinson REBOUND (Off:0 Def:1),,
+0029800010,471,1,1,4,1:48 AM,6:08,,,Kidd 12' Jump Shot (15 PTS),89 - 77,-12
+0029800010,472,7,2,4,1:48 AM,5:50,,,Suns Violation: Def. Goaltending Violation,,
+0029800010,473,6,17,4,1:48 AM,5:50,,,Suns Foul,,
+0029800010,474,8,0,4,1:48 AM,5:50,SUB: Olowokandi FOR Wright,,,,
+0029800010,475,3,16,4,1:48 AM,5:50,Martin Free Throw Technical (11 PTS),,,89 - 78,-11
+0029800010,476,6,1,4,1:49 AM,5:45,,,Manning P.FOUL (P1.PN),,
+0029800010,477,3,11,4,1:49 AM,5:45,Olowokandi Free Throw 1 of 2 (7 PTS),,,89 - 79,-10
+0029800010,478,3,12,4,1:49 AM,5:45,Olowokandi Free Throw 2 of 2 (8 PTS),,,89 - 80,-9
+0029800010,479,1,5,4,1:50 AM,5:30,,,Robinson  Layup (18 PTS) (McCloud 4 AST),91 - 80,-11
+0029800010,480,6,2,4,1:50 AM,5:30,Olowokandi S.FOUL (P3.PN),,,,
+0029800010,481,3,10,4,1:50 AM,5:30,,,Robinson Free Throw 1 of 1 (19 PTS),92 - 80,-12
+0029800010,482,5,1,4,1:51 AM,5:05,Taylor Bad Pass Turnover (P4.T20),,Kidd STEAL (2 STL),,
+0029800010,483,1,8,4,1:51 AM,5:00,,,Kidd  Slam Dunk (17 PTS),94 - 80,-14
+0029800010,484,2,3,4,1:51 AM,4:47,MISS Olowokandi 4' Hook Shot,,,,
+0029800010,485,4,0,4,1:51 AM,4:43,Murray REBOUND (Off:3 Def:8),,,,
+0029800010,486,2,5,4,1:51 AM,4:42,MISS Murray  Layup,,Gugliotta BLOCK (1 BLK),,
+0029800010,487,4,0,4,1:51 AM,4:42,Olowokandi REBOUND (Off:1 Def:2),,,,
+0029800010,488,6,2,4,1:51 AM,4:42,,,Kidd S.FOUL (P3.PN),,
+0029800010,489,3,11,4,1:51 AM,4:42,Olowokandi Free Throw 1 of 2 (9 PTS),,,94 - 81,-13
+0029800010,490,3,12,4,1:51 AM,4:42,Olowokandi Free Throw 2 of 2 (10 PTS),,,94 - 82,-12
+0029800010,491,5,1,4,1:52 AM,4:27,Murray STEAL (4 STL),,McCloud Bad Pass Turnover (P3.T17),,
+0029800010,492,1,6,4,1:52 AM,4:24,Piatkowski  Driving Layup (16 PTS) (Murray 2 AST),,,94 - 84,-10
+0029800010,494,1,3,4,1:52 AM,4:01,,,Manning 7' Hook Shot (4 PTS) (Robinson 2 AST),96 - 84,-12
+0029800010,496,2,1,4,1:53 AM,3:39,MISS Murray 24' 3PT Jump Shot,,,,
+0029800010,497,4,0,4,1:53 AM,3:37,,,McCloud REBOUND (Off:2 Def:6),,
+0029800010,498,6,2,4,1:53 AM,3:33,Murray S.FOUL (P3.PN),,,,
+0029800010,499,8,0,4,1:53 AM,3:33,,,SUB: Longley FOR Manning,,
+0029800010,500,3,11,4,1:53 AM,3:33,,,MISS Robinson Free Throw 1 of 2,,
+0029800010,501,4,2,4,1:53 AM,3:33,,,Suns Rebound,,
+0029800010,502,3,12,4,1:54 AM,3:33,,,MISS Robinson Free Throw 2 of 2,,
+0029800010,503,4,0,4,1:54 AM,3:30,Olowokandi REBOUND (Off:1 Def:3),,,,
+0029800010,504,2,1,4,1:54 AM,3:21,MISS Murray 19' Jump Shot,,,,
+0029800010,505,4,0,4,1:54 AM,3:20,,,Suns Rebound,,
+0029800010,506,6,3,4,1:54 AM,3:20,Taylor L.B.FOUL (P6.PN),,,,
+0029800010,507,8,0,4,1:54 AM,3:20,SUB: Rogers FOR Taylor,,,,
+0029800010,508,3,11,4,1:54 AM,3:20,,,Gugliotta Free Throw 1 of 2 (23 PTS),97 - 84,-13
+0029800010,509,3,12,4,1:55 AM,3:20,,,Gugliotta Free Throw 2 of 2 (24 PTS),98 - 84,-14
+0029800010,510,6,4,4,1:55 AM,3:14,Olowokandi OFF.Foul (P4),,,,
+0029800010,511,5,5,4,1:55 AM,3:14,Olowokandi Foul Turnover (P2.T21),,,,
+0029800010,512,9,1,4,1:55 AM,3:14,,,Suns Timeout: Regular (Reg.4 Short 0),,
+0029800010,514,2,1,4,1:58 AM,3:01,,,MISS McCloud 25' 3PT Jump Shot,,
+0029800010,515,4,0,4,1:58 AM,3:00,CLIPPERS Rebound,,,,
+0029800010,516,2,1,4,1:58 AM,2:50,MISS Piatkowski 27' 3PT Jump Shot,,,,
+0029800010,518,4,0,4,1:58 AM,2:47,Olowokandi REBOUND (Off:2 Def:3),,,,
+0029800010,517,1,8,4,1:58 AM,2:47,Olowokandi  Slam Dunk (12 PTS),,,98 - 86,-12
+0029800010,519,2,1,4,1:58 AM,2:27,,,MISS Gugliotta 13' Jump Shot,,
+0029800010,520,4,0,4,1:58 AM,2:25,Rogers REBOUND (Off:4 Def:6),,,,
+0029800010,521,1,1,4,1:59 AM,2:10,Olowokandi 7' Jump Shot (14 PTS),,,98 - 88,-10
+0029800010,522,1,1,4,1:59 AM,1:50,,,Longley 14' Jump Shot (10 PTS) (Kidd 10 AST),100 - 88,-12
+0029800010,523,2,1,4,1:59 AM,1:29,MISS Martin 26' 3PT Jump Shot,,,,
+0029800010,524,4,0,4,1:59 AM,1:26,Olowokandi REBOUND (Off:3 Def:3),,,,
+0029800010,525,1,3,4,2:00 AM,1:20,Murray 6' Hook Shot (14 PTS),,,100 - 90,-10
+0029800010,526,6,1,4,2:00 AM,1:09,Martin P.FOUL (P4.PN),,,,
+0029800010,527,8,0,4,2:00 AM,1:09,SUB: Nesby FOR Piatkowski,,,,
+0029800010,528,3,11,4,2:00 AM,1:09,,,Kidd Free Throw 1 of 2 (18 PTS),101 - 90,-11
+0029800010,529,8,0,4,2:00 AM,1:09,,,SUB: Brown FOR Robinson,,
+0029800010,530,8,0,4,2:00 AM,1:09,,,SUB: Bailey FOR Gugliotta,,
+0029800010,531,3,12,4,2:01 AM,1:09,,,MISS Kidd Free Throw 2 of 2,,
+0029800010,532,4,0,4,2:01 AM,1:07,,,Bailey REBOUND (Off:1 Def:0),,
+0029800010,533,2,5,4,2:01 AM,1:06,,,MISS Bailey  Layup,,
+0029800010,534,4,0,4,2:01 AM,1:04,Rogers REBOUND (Off:4 Def:7),,,,
+0029800010,535,2,1,4,2:01 AM,0:53,MISS Olowokandi 7' Jump Shot,,,,
+0029800010,536,4,0,4,2:01 AM,0:50,,,McCloud REBOUND (Off:2 Def:7),,
+0029800010,537,5,2,4,2:01 AM,0:27,,,Bailey Lost Ball Turnover (P1.T18),,
+0029800010,538,8,0,4,2:02 AM,0:27,,,SUB: Milic FOR Kidd,,
+0029800010,539,8,0,4,2:02 AM,0:27,,,SUB: Garrity FOR Longley,,
+0029800010,540,1,5,4,2:02 AM,0:17,Rogers  Layup (11 PTS),,,101 - 92,-9
+0029800010,541,2,1,4,2:02 AM,0:02,,,MISS Brown 22' Jump Shot,,
+0029800010,542,4,0,4,2:02 AM,0:00,Nesby REBOUND (Off:0 Def:1),,,,
+0029800010,544,13,0,4,2:02 AM,0:00,,,,101 - 92,-9

@@ -1,0 +1,407 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021200883,0,12,0,1,6:12 PM,12:00,,,,,
+0021200883,1,10,0,1,6:12 PM,12:00,Jump Ball Vucevic vs. Gasol: Tip to Arthur,,,,
+0021200883,2,2,1,1,6:12 PM,11:43,,,MISS Arthur 12' Jump Shot,,
+0021200883,3,4,0,1,6:12 PM,11:41,,,Gasol REBOUND (Off:1 Def:0),,
+0021200883,4,1,1,1,6:12 PM,11:38,,,Prince 26' 3PT Jump Shot (3 PTS) (Gasol 1 AST),3 - 0,-3
+0021200883,5,6,2,1,6:13 PM,11:22,,,Arthur S.FOUL (P1.T1),,
+0021200883,6,3,11,1,6:13 PM,11:22,Nicholson Free Throw 1 of 2 (1 PTS),,,3 - 1,-2
+0021200883,8,3,12,1,6:13 PM,11:22,Nicholson Free Throw 2 of 2 (2 PTS),,,3 - 2,-1
+0021200883,10,2,1,1,6:13 PM,11:07,,,MISS Conley 25' 3PT Jump Shot,,
+0021200883,11,4,0,1,6:13 PM,11:05,MAGIC Rebound,,,,
+0021200883,12,6,17,1,6:14 PM,10:53,,,Grizzlies T.Foul (Def. 3 Sec Allen ),,
+0021200883,13,3,16,1,6:14 PM,10:53,Afflalo Free Throw Technical (1 PTS),,,3 - 3,TIE
+0021200883,15,5,4,1,6:15 PM,10:48,Nicholson Traveling Turnover (P1.T1),,,,
+0021200883,16,1,42,1,6:15 PM,10:29,,,Conley 2' Driving Layup (2 PTS),5 - 3,-2
+0021200883,17,6,2,1,6:15 PM,10:29,Moore S.FOUL (P1.T1),,,,
+0021200883,18,3,10,1,6:15 PM,10:29,,,Conley Free Throw 1 of 1 (3 PTS),6 - 3,-3
+0021200883,20,5,2,1,6:16 PM,10:19,Moore Lost Ball Turnover (P1.T2),,Conley STEAL (1 STL),,
+0021200883,21,1,5,1,6:16 PM,10:13,,,Allen 1' Layup (2 PTS) (Conley 1 AST),8 - 3,-5
+0021200883,22,1,47,1,6:16 PM,9:50,Afflalo 7' Turnaround Jump Shot (3 PTS) (Nicholson 1 AST),,,8 - 5,-3
+0021200883,24,5,4,1,6:17 PM,9:31,,,Gasol Traveling Turnover (P1.T1),,
+0021200883,25,1,1,1,6:17 PM,9:15,Nicholson 16' Jump Shot (4 PTS) (Afflalo 1 AST),,,8 - 7,-1
+0021200883,26,2,46,1,6:17 PM,8:57,,,MISS Allen 6' Running Jump Shot,,
+0021200883,27,4,0,1,6:18 PM,8:56,Nicholson REBOUND (Off:0 Def:1),,,,
+0021200883,28,5,40,1,6:18 PM,8:42,Vucevic Out of Bounds Lost Ball Turnover (P1.T3),,,,
+0021200883,29,1,42,1,6:18 PM,8:23,,,Allen 3' Driving Layup (4 PTS) (Prince 1 AST),10 - 7,-3
+0021200883,30,2,7,1,6:19 PM,8:01,MISS Vucevic 1' Dunk,,,,
+0021200883,31,4,0,1,6:19 PM,7:59,,,Allen REBOUND (Off:0 Def:1),,
+0021200883,32,1,5,1,6:19 PM,7:51,,,Arthur 2' Layup (2 PTS) (Gasol 2 AST),12 - 7,-5
+0021200883,33,6,2,1,6:19 PM,7:51,Afflalo S.FOUL (P1.T2),,,,
+0021200883,34,3,10,1,6:19 PM,7:51,,,Arthur Free Throw 1 of 1 (3 PTS),13 - 7,-6
+0021200883,36,6,1,1,6:20 PM,7:43,,,Allen P.FOUL (P1.T2),,
+0021200883,37,2,1,1,6:20 PM,7:30,MISS Moore 12' Jump Shot,,,,
+0021200883,38,4,0,1,6:20 PM,7:29,Vucevic REBOUND (Off:1 Def:0),,,,
+0021200883,39,2,3,1,6:20 PM,7:25,MISS Vucevic 4' Hook Shot,,,,
+0021200883,40,4,0,1,6:20 PM,7:24,,,Arthur REBOUND (Off:0 Def:1),,
+0021200883,41,5,1,1,6:20 PM,7:17,Moore STEAL (1 STL),,Arthur Bad Pass Turnover (P1.T2),,
+0021200883,42,2,1,1,6:20 PM,7:08,MISS Afflalo 26' 3PT Jump Shot,,,,
+0021200883,43,4,0,1,6:20 PM,7:06,,,Prince REBOUND (Off:0 Def:1),,
+0021200883,44,1,1,1,6:21 PM,6:55,,,Conley 27' 3PT Jump Shot (6 PTS) (Gasol 3 AST),16 - 7,-9
+0021200883,45,9,1,1,6:21 PM,6:49,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0021200883,48,1,78,1,6:23 PM,6:33,Harkless 6' Floating Jump Shot (2 PTS) (Vucevic 1 AST),,,16 - 9,-7
+0021200883,49,1,3,1,6:24 PM,6:15,,,Prince 9' Hook Shot (5 PTS),18 - 9,-9
+0021200883,50,1,66,1,6:24 PM,5:54,Moore 8' Jump Bank Shot (2 PTS),,,18 - 11,-7
+0021200883,51,1,3,1,6:24 PM,5:39,,,Arthur 5' Hook Shot (5 PTS) (Allen 1 AST),20 - 11,-9
+0021200883,52,6,2,1,6:25 PM,5:21,,,Arthur S.FOUL (P2.T3),,
+0021200883,53,3,11,1,6:25 PM,5:21,Nicholson Free Throw 1 of 2 (5 PTS),,,20 - 12,-8
+0021200883,55,8,0,1,6:25 PM,5:21,,,SUB: Davis FOR Arthur,,
+0021200883,56,8,0,1,6:25 PM,5:21,SUB: Udrih FOR Moore,,,,
+0021200883,57,3,12,1,6:25 PM,5:21,Nicholson Free Throw 2 of 2 (6 PTS),,,20 - 13,-7
+0021200883,59,2,1,1,6:26 PM,5:05,,,MISS Prince 15' Jump Shot,,
+0021200883,60,4,0,1,6:26 PM,5:04,Nicholson REBOUND (Off:0 Def:2),,,,
+0021200883,61,2,1,1,6:26 PM,4:52,MISS Vucevic 20' Jump Shot,,,,
+0021200883,62,4,0,1,6:26 PM,4:51,,,Prince REBOUND (Off:0 Def:2),,
+0021200883,63,1,43,1,6:26 PM,4:41,,,Davis 2' Alley Oop Layup (2 PTS) (Gasol 4 AST),22 - 13,-9
+0021200883,64,2,1,1,6:27 PM,4:15,MISS Afflalo 27' 3PT Jump Shot,,Gasol BLOCK (1 BLK),,
+0021200883,65,4,0,1,6:27 PM,4:15,Udrih REBOUND (Off:1 Def:0),,,,
+0021200883,66,5,11,1,6:27 PM,4:15,MAGIC Turnover: Shot Clock (T#4),,,,
+0021200883,67,8,0,1,6:27 PM,4:15,SUB: Harrington FOR Nicholson,,,,
+0021200883,68,8,0,1,6:27 PM,4:15,SUB: Harris FOR Vucevic,,,,
+0021200883,69,2,1,1,6:27 PM,3:57,,,MISS Allen 26' 3PT Jump Shot,,
+0021200883,70,4,0,1,6:27 PM,3:56,MAGIC Rebound,,,,
+0021200883,71,5,2,1,6:28 PM,3:39,Harris Lost Ball Turnover (P1.T5),,Allen STEAL (1 STL),,
+0021200883,72,6,2,1,6:28 PM,3:34,Harris S.FOUL (P1.T3),,,,
+0021200883,73,3,11,1,6:28 PM,3:34,,,MISS Davis Free Throw 1 of 2,,
+0021200883,74,4,1,1,6:28 PM,3:34,,,Grizzlies Rebound,,
+0021200883,75,3,12,1,6:28 PM,3:34,,,MISS Davis Free Throw 2 of 2,,
+0021200883,77,4,0,1,6:29 PM,3:32,Harrington REBOUND (Off:0 Def:1),,,,
+0021200883,78,2,1,1,6:29 PM,3:20,MISS Udrih 15' Jump Shot,,,,
+0021200883,79,4,0,1,6:29 PM,3:19,,,Allen REBOUND (Off:0 Def:2),,
+0021200883,80,1,80,1,6:29 PM,3:00,,,Prince 15' Step Back Jump Shot (7 PTS),24 - 13,-11
+0021200883,82,2,44,1,6:30 PM,2:44,MISS Harkless 1' Reverse Layup,,,,
+0021200883,83,4,0,1,6:30 PM,2:42,,,Davis REBOUND (Off:0 Def:1),,
+0021200883,84,2,1,1,6:30 PM,2:30,,,MISS Conley 26' 3PT Jump Shot,,
+0021200883,86,4,0,1,6:30 PM,2:27,,,Allen REBOUND (Off:1 Def:2),,
+0021200883,85,1,5,1,6:30 PM,2:27,,,Allen 2' Layup (6 PTS),26 - 13,-13
+0021200883,87,7,1,1,6:30 PM,2:25,,,Grizzlies Violation: Delay of game Violation,,
+0021200883,88,9,2,1,6:30 PM,2:25,MAGIC Timeout: Short (Full 1 Short 1),,,,
+0021200883,90,9,1,1,6:31 PM,2:25,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,
+0021200883,91,8,0,1,6:33 PM,2:25,,,SUB: Bayless FOR Conley,,
+0021200883,92,8,0,1,6:33 PM,2:25,SUB: Moore FOR Afflalo,,,,
+0021200883,93,1,66,1,6:33 PM,2:08,Harris 4' Jump Bank Shot (2 PTS),,,26 - 15,-11
+0021200883,95,2,1,1,6:34 PM,1:41,,,MISS Bayless 18' Jump Shot,,
+0021200883,96,4,0,1,6:34 PM,1:40,Harkless REBOUND (Off:0 Def:1),,,,
+0021200883,97,2,1,1,6:34 PM,1:25,MISS Harris 26' 3PT Jump Shot,,,,
+0021200883,98,4,0,1,6:34 PM,1:22,Moore REBOUND (Off:1 Def:0),,,,
+0021200883,99,2,1,1,6:34 PM,1:13,MISS Harrington  3PT Jump Shot,,,,
+0021200883,100,4,0,1,6:35 PM,1:12,Harkless REBOUND (Off:1 Def:1),,,,
+0021200883,101,1,8,1,6:35 PM,1:11,Harkless 2' Slam Dunk (4 PTS),,,26 - 17,-9
+0021200883,102,1,5,1,6:35 PM,0:58,,,Allen 1' Layup (8 PTS) (Gasol 5 AST),28 - 17,-11
+0021200883,103,6,2,1,6:35 PM,0:58,Moore S.FOUL (P2.T4),,,,
+0021200883,104,8,0,1,6:35 PM,0:58,SUB: Afflalo FOR Harkless,,,,
+0021200883,105,3,10,1,6:35 PM,0:58,,,Allen Free Throw 1 of 1 (9 PTS),29 - 17,-12
+0021200883,107,1,79,1,6:36 PM,0:47,Udrih 15' Pullup Jump Shot (2 PTS),,,29 - 19,-10
+0021200883,108,2,1,1,6:36 PM,0:37,,,MISS Prince 17' Jump Shot,,
+0021200883,109,4,0,1,6:36 PM,0:35,Harrington REBOUND (Off:0 Def:2),,,,
+0021200883,110,2,1,1,6:36 PM,0:25,MISS Udrih  3PT Jump Shot,,,,
+0021200883,111,4,0,1,6:36 PM,0:24,,,Gasol REBOUND (Off:1 Def:1),,
+0021200883,112,5,11,1,6:36 PM,0:03,,,Grizzlies Turnover: Shot Clock (T#3),,
+0021200883,113,8,0,1,6:37 PM,0:03,,,SUB: Pondexter FOR Allen,,
+0021200883,114,2,1,1,6:37 PM,0:00,MISS Harris 30' 3PT Jump Shot,,Davis BLOCK (1 BLK),,
+0021200883,115,4,0,1,6:37 PM,0:00,MAGIC Rebound,,,,
+0021200883,116,13,0,1,6:37 PM,0:00,,,,29 - 19,-10
+0021200883,118,12,0,2,6:40 PM,12:00,,,,29 - 19,-10
+0021200883,119,1,78,2,6:40 PM,11:47,Harris 5' Floating Jump Shot (4 PTS) (Udrih 1 AST),,,29 - 21,-8
+0021200883,121,5,4,2,6:40 PM,11:28,,,Davis Traveling Turnover (P1.T4),,
+0021200883,122,2,1,2,6:41 PM,11:15,MISS Moore 21' Jump Shot,,,,
+0021200883,123,4,0,2,6:41 PM,11:14,,,Davis REBOUND (Off:0 Def:2),,
+0021200883,124,1,44,2,6:41 PM,10:57,,,Gasol 2' Reverse Layup (2 PTS) (Pondexter 1 AST),31 - 21,-10
+0021200883,125,2,42,2,6:41 PM,10:43,MISS Afflalo 2' Driving Layup,,Davis BLOCK (2 BLK),,
+0021200883,126,4,0,2,6:41 PM,10:41,,,Davis REBOUND (Off:0 Def:3),,
+0021200883,127,2,3,2,6:41 PM,10:31,,,MISS Davis 3' Hook Shot,,
+0021200883,128,4,0,2,6:41 PM,10:30,Harrington REBOUND (Off:0 Def:3),,,,
+0021200883,129,1,5,2,6:41 PM,10:24,Moore  Layup (4 PTS) (Udrih 2 AST),,,31 - 23,-8
+0021200883,130,1,7,2,6:42 PM,10:05,,,Wroten  Dunk (2 PTS) (Gasol 6 AST),33 - 23,-10
+0021200883,131,2,1,2,6:42 PM,9:43,MISS Harrington 7' Jump Shot,,,,
+0021200883,132,4,0,2,6:42 PM,9:42,,,Davis REBOUND (Off:0 Def:4),,
+0021200883,133,1,1,2,6:42 PM,9:32,,,Pondexter  3PT Jump Shot (3 PTS) (Bayless 1 AST),36 - 23,-13
+0021200883,135,8,0,2,6:43 PM,9:19,SUB: Harkless FOR Udrih,,,,
+0021200883,136,8,0,2,6:43 PM,9:19,,,SUB: Arthur FOR Gasol,,
+0021200883,137,6,2,2,6:43 PM,9:13,,,Pondexter S.FOUL (P1.T1),,
+0021200883,138,3,11,2,6:43 PM,9:13,Afflalo Free Throw 1 of 2 (4 PTS),,,36 - 24,-12
+0021200883,140,3,12,2,6:43 PM,9:13,Afflalo Free Throw 2 of 2 (5 PTS),,,36 - 25,-11
+0021200883,142,2,1,2,6:44 PM,9:00,,,MISS Bayless 18' Jump Shot,,
+0021200883,143,4,0,2,6:44 PM,8:56,Afflalo REBOUND (Off:0 Def:1),,,,
+0021200883,144,5,1,2,6:44 PM,8:45,Harrington Bad Pass Turnover (P1.T6),,,,
+0021200883,145,9,4,2,6:44 PM,8:45,,,,,
+0021200883,147,8,0,2,6:46 PM,8:45,SUB: Nicholson FOR Moore,,,,
+0021200883,149,2,42,2,6:47 PM,8:33,,,MISS Wroten  Driving Layup,,
+0021200883,150,4,0,2,6:47 PM,8:31,,,Arthur REBOUND (Off:1 Def:1),,
+0021200883,151,1,1,2,6:47 PM,8:14,,,Pondexter 19' Jump Shot (5 PTS) (Wroten 1 AST),38 - 25,-13
+0021200883,152,2,1,2,6:47 PM,7:54,MISS Harris 9' Jump Shot,,,,
+0021200883,153,4,0,2,6:47 PM,7:53,Harkless REBOUND (Off:2 Def:1),,,,
+0021200883,154,5,1,2,6:48 PM,7:48,Harkless Bad Pass Turnover (P1.T7),,Bayless STEAL (1 STL),,
+0021200883,155,2,5,2,6:48 PM,7:44,Harris BLOCK (1 BLK),,MISS Pondexter 1' Layup,,
+0021200883,156,4,0,2,6:48 PM,7:40,,,Bayless REBOUND (Off:1 Def:0),,
+0021200883,157,6,2,2,6:48 PM,7:33,Harrington S.FOUL (P1.T1),,,,
+0021200883,164,9,1,2,6:50 PM,7:33,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,
+0021200883,158,18,1,2,6:50 PM,7:33,,,,,
+0021200883,161,3,11,2,6:52 PM,7:33,,,Arthur Free Throw 1 of 2 (6 PTS),39 - 25,-14
+0021200883,165,3,12,2,6:52 PM,7:33,,,Arthur Free Throw 2 of 2 (7 PTS),40 - 25,-15
+0021200883,209,6,1,2,6:52 PM,7:13,,,Wroten P.FOUL (P1.T2),,
+0021200883,168,2,1,2,6:52 PM,7:13,MISS Harris  3PT Jump Shot,,,,
+0021200883,170,4,0,2,6:53 PM,7:12,Harkless REBOUND (Off:3 Def:1),,,,
+0021200883,171,1,92,2,6:53 PM,7:08,Harkless 1' Putback Slam Dunk (6 PTS),,,40 - 27,-13
+0021200883,173,2,1,2,6:53 PM,6:47,,,MISS Arthur 14' Jump Shot,,
+0021200883,174,4,0,2,6:53 PM,6:47,Nicholson REBOUND (Off:0 Def:3),,,,
+0021200883,175,6,1,2,6:53 PM,6:47,,,Wroten P.FOUL (P2.T3),,
+0021200883,177,8,0,2,6:53 PM,6:47,,,SUB: Gasol FOR Arthur,,
+0021200883,178,8,0,2,6:53 PM,6:47,SUB: Vucevic FOR Harrington,,,,
+0021200883,179,8,0,2,6:53 PM,6:47,,,SUB: Conley FOR Wroten,,
+0021200883,181,2,1,2,6:54 PM,6:25,MISS Harris 6' Jump Shot,,,,
+0021200883,182,4,0,2,6:54 PM,6:24,Harris REBOUND (Off:1 Def:0),,,,
+0021200883,183,2,5,2,6:54 PM,6:23,MISS Harris 1' Layup,,,,
+0021200883,184,4,0,2,6:54 PM,6:21,,,Gasol REBOUND (Off:1 Def:2),,
+0021200883,185,2,1,2,6:54 PM,6:14,,,MISS Bayless 24' 3PT Jump Shot,,
+0021200883,186,4,0,2,6:54 PM,6:12,,,Gasol REBOUND (Off:2 Def:2),,
+0021200883,187,6,2,2,6:54 PM,6:03,Harris S.FOUL (P2.T2),,,,
+0021200883,188,3,11,2,6:55 PM,6:03,,,MISS Davis Free Throw 1 of 2,,
+0021200883,189,4,1,2,6:55 PM,6:03,,,Grizzlies Rebound,,
+0021200883,190,8,0,2,6:55 PM,6:03,SUB: Udrih FOR Harris,,,,
+0021200883,191,3,12,2,6:55 PM,6:03,,,MISS Davis Free Throw 2 of 2,,
+0021200883,193,4,0,2,6:55 PM,6:01,Vucevic REBOUND (Off:1 Def:1),,,,
+0021200883,194,6,4,2,6:55 PM,5:53,Nicholson OFF.Foul (P1),,,,
+0021200883,195,5,5,2,6:55 PM,5:53,Nicholson Foul Turnover (P2.T8),,,,
+0021200883,196,2,1,2,6:56 PM,5:36,,,MISS Pondexter 24' 3PT Jump Shot,,
+0021200883,197,4,0,2,6:56 PM,5:35,Afflalo REBOUND (Off:0 Def:2),,,,
+0021200883,198,1,1,2,6:56 PM,5:26,Vucevic 19' Jump Shot (2 PTS) (Afflalo 2 AST),,,40 - 29,-11
+0021200883,199,2,42,2,6:56 PM,5:03,Nicholson BLOCK (1 BLK),,MISS Conley 3' Driving Layup,,
+0021200883,201,4,0,2,6:56 PM,5:00,,,Davis REBOUND (Off:1 Def:4),,
+0021200883,200,1,5,2,6:56 PM,5:00,,,Davis 1' Layup (4 PTS),42 - 29,-13
+0021200883,202,2,1,2,6:57 PM,4:39,MISS Udrih 18' Jump Shot,,,,
+0021200883,203,4,0,2,6:57 PM,4:37,Udrih REBOUND (Off:2 Def:0),,,,
+0021200883,204,5,1,2,6:57 PM,4:35,Udrih Bad Pass Turnover (P1.T9),,Davis STEAL (1 STL),,
+0021200883,205,1,1,2,6:57 PM,4:28,,,Pondexter 24' 3PT Jump Shot (8 PTS) (Conley 2 AST),45 - 29,-16
+0021200883,206,9,1,2,6:57 PM,4:21,MAGIC Timeout: Regular (Full 2 Short 1),,,,
+0021200883,210,8,0,2,6:59 PM,4:21,SUB: Harris FOR Afflalo,,,,
+0021200883,211,8,0,2,6:59 PM,4:21,SUB: Moore FOR Udrih,,,,
+0021200883,212,8,0,2,7:00 PM,4:21,,,SUB: Prince FOR Bayless,,
+0021200883,213,2,1,2,7:00 PM,4:09,MISS Vucevic 19' Jump Shot,,,,
+0021200883,214,4,0,2,7:00 PM,4:08,,,Conley REBOUND (Off:0 Def:1),,
+0021200883,216,2,86,2,7:00 PM,3:49,,,MISS Prince 16' Turnaround Fadeaway Shot,,
+0021200883,217,4,0,2,7:00 PM,3:47,,,Davis REBOUND (Off:2 Def:4),,
+0021200883,218,1,5,2,7:00 PM,3:46,,,Davis 1' Layup (6 PTS),47 - 29,-18
+0021200883,219,2,78,2,7:01 PM,3:26,MISS Moore 4' Floating Jump Shot,,,,
+0021200883,220,4,0,2,7:01 PM,3:24,,,Prince REBOUND (Off:0 Def:3),,
+0021200883,221,1,5,2,7:01 PM,3:17,,,Davis 2' Layup (8 PTS) (Prince 2 AST),49 - 29,-20
+0021200883,222,2,66,2,7:01 PM,2:53,MISS Harris 9' Jump Bank Shot,,,,
+0021200883,223,4,0,2,7:01 PM,2:51,,,Prince REBOUND (Off:0 Def:4),,
+0021200883,224,1,1,2,7:01 PM,2:36,,,Gasol 12' Jump Shot (4 PTS) (Prince 3 AST),51 - 29,-22
+0021200883,225,2,1,2,7:02 PM,2:13,MISS Harris 26' 3PT Jump Shot,,,,
+0021200883,226,4,0,2,7:02 PM,2:12,,,Davis REBOUND (Off:2 Def:5),,
+0021200883,227,1,42,2,7:02 PM,2:03,,,Conley  Driving Layup (8 PTS),53 - 29,-24
+0021200883,229,7,2,2,7:02 PM,1:42,,,Davis Violation:Defensive Goaltending,,
+0021200883,228,1,78,2,7:02 PM,1:42,Moore 6' Floating Jump Shot (6 PTS) (Vucevic 2 AST),,,53 - 31,-22
+0021200883,230,1,3,2,7:03 PM,1:26,,,Prince 6' Hook Shot (9 PTS) (Gasol 7 AST),55 - 31,-24
+0021200883,231,1,1,2,7:03 PM,1:08,Nicholson 20' Jump Shot (8 PTS) (Moore 1 AST),,,55 - 33,-22
+0021200883,232,1,5,2,7:04 PM,0:50,,,Davis 2' Layup (10 PTS) (Gasol 8 AST),57 - 33,-24
+0021200883,233,1,7,2,7:04 PM,0:36,Vucevic 2' Dunk (4 PTS) (Harris 1 AST),,,57 - 35,-22
+0021200883,234,1,1,2,7:04 PM,0:26,,,Conley 25' 3PT Jump Shot (11 PTS),60 - 35,-25
+0021200883,235,6,1,2,7:04 PM,0:12,,,Conley P.FOUL (P1.T4),,
+0021200883,237,2,1,2,7:05 PM,0:04,MISS Moore 19' Jump Shot,,,,
+0021200883,238,4,0,2,7:05 PM,0:02,,,Davis REBOUND (Off:2 Def:6),,
+0021200883,240,13,0,2,7:06 PM,0:00,,,,60 - 35,-25
+0021200883,242,12,0,3,7:21 PM,12:00,,,,60 - 35,-25
+0021200883,243,1,1,3,7:22 PM,11:35,Harkless 25' 3PT Jump Shot (9 PTS) (Moore 2 AST),,,60 - 38,-22
+0021200883,244,5,8,3,7:22 PM,11:11,,,Gasol 3 Second Violation Turnover (P2.T5),,
+0021200883,245,5,11,3,7:23 PM,10:46,MAGIC Turnover: Shot Clock (T#10),,,,
+0021200883,246,6,2,3,7:24 PM,10:29,Moore S.FOUL (P3.T1),,,,
+0021200883,247,3,11,3,7:24 PM,10:29,,,Gasol Free Throw 1 of 2 (5 PTS),61 - 38,-23
+0021200883,249,3,12,3,7:24 PM,10:29,,,Gasol Free Throw 2 of 2 (6 PTS),62 - 38,-24
+0021200883,251,2,1,3,7:25 PM,10:06,MISS Nicholson 16' Jump Shot,,,,
+0021200883,252,4,0,3,7:25 PM,10:05,,,Davis REBOUND (Off:2 Def:7),,
+0021200883,253,1,1,3,7:25 PM,9:45,,,Prince 18' Jump Shot (11 PTS) (Gasol 9 AST),64 - 38,-26
+0021200883,254,1,1,3,7:25 PM,9:29,Vucevic 16' Jump Shot (6 PTS) (Moore 3 AST),,,64 - 40,-24
+0021200883,255,2,1,3,7:26 PM,9:04,,,MISS Allen 19' Jump Shot,,
+0021200883,256,4,0,3,7:26 PM,9:03,Harkless REBOUND (Off:3 Def:2),,,,
+0021200883,257,5,2,3,7:26 PM,8:44,Moore Lost Ball Turnover (P2.T11),,Prince STEAL (1 STL),,
+0021200883,258,2,5,3,7:26 PM,8:40,,,MISS Allen 2' Layup,,
+0021200883,267,4,0,3,7:26 PM,8:39,,,Allen REBOUND (Off:2 Def:2),,
+0021200883,268,2,53,3,7:26 PM,8:39,,,MISS Allen 2' Tip Shot,,
+0021200883,259,4,0,3,7:26 PM,8:36,Harkless REBOUND (Off:3 Def:3),,,,
+0021200883,260,2,1,3,7:26 PM,8:31,MISS Afflalo 26' 3PT Jump Shot,,,,
+0021200883,261,4,0,3,7:27 PM,8:28,,,Davis REBOUND (Off:2 Def:8),,
+0021200883,262,2,1,3,7:27 PM,8:18,,,MISS Allen 25' 3PT Jump Shot,,
+0021200883,263,4,0,3,7:27 PM,8:17,Vucevic REBOUND (Off:1 Def:2),,,,
+0021200883,264,6,26,3,7:27 PM,8:07,Harkless Offensive Charge Foul (P1.T2),,,,
+0021200883,265,5,5,3,7:27 PM,8:07,Harkless Foul Turnover (P2.T12),,,,
+0021200883,266,8,0,3,7:27 PM,8:07,SUB: Harris FOR Nicholson,,,,
+0021200883,269,1,1,3,7:28 PM,7:47,,,Conley 9' Jump Shot (13 PTS) (Gasol 10 AST),66 - 40,-26
+0021200883,270,1,5,3,7:28 PM,7:24,Afflalo 1' Layup (7 PTS),,,66 - 42,-24
+0021200883,271,2,1,3,7:28 PM,6:58,,,MISS Prince 12' Jump Shot,,
+0021200883,273,4,0,3,7:28 PM,6:57,Vucevic REBOUND (Off:1 Def:3),,,,
+0021200883,274,6,1,3,7:28 PM,6:57,,,Davis P.FOUL (P1.T1),,
+0021200883,275,8,0,3,7:29 PM,6:57,SUB: Udrih FOR Moore,,,,
+0021200883,276,6,2,3,7:29 PM,6:45,,,Allen S.FOUL (P2.T2),,
+0021200883,277,3,11,3,7:29 PM,6:45,Afflalo Free Throw 1 of 2 (8 PTS),,,66 - 43,-23
+0021200883,279,3,12,3,7:29 PM,6:45,Afflalo Free Throw 2 of 2 (9 PTS),,,66 - 44,-22
+0021200883,281,2,1,3,7:30 PM,6:21,,,MISS Gasol 14' Jump Shot,,
+0021200883,282,4,0,3,7:30 PM,6:20,Harris REBOUND (Off:1 Def:1),,,,
+0021200883,283,2,1,3,7:31 PM,6:02,MISS Harris 7' Jump Shot,,Davis BLOCK (3 BLK),,
+0021200883,284,4,0,3,7:31 PM,6:02,MAGIC Rebound,,,,
+0021200883,285,2,1,3,7:31 PM,5:57,MISS Harris  3PT Jump Shot,,,,
+0021200883,286,4,0,3,7:31 PM,5:56,,,Allen REBOUND (Off:2 Def:3),,
+0021200883,287,2,1,3,7:31 PM,5:40,,,MISS Prince 6' Jump Shot,,
+0021200883,288,4,0,3,7:31 PM,5:39,Harris REBOUND (Off:1 Def:2),,,,
+0021200883,289,5,1,3,7:31 PM,5:33,Udrih Bad Pass Turnover (P2.T13),,Davis STEAL (2 STL),,
+0021200883,290,5,2,3,7:32 PM,5:22,Udrih STEAL (1 STL),,Davis Lost Ball Turnover (P2.T6),,
+0021200883,291,2,1,3,7:32 PM,5:01,MISS Udrih 18' Jump Shot,,Conley BLOCK (1 BLK),,
+0021200883,292,4,0,3,7:32 PM,4:59,,,Conley REBOUND (Off:0 Def:2),,
+0021200883,293,1,7,3,7:32 PM,4:55,,,Allen 1' Dunk (11 PTS) (Conley 3 AST),68 - 44,-24
+0021200883,295,9,1,3,7:32 PM,4:54,MAGIC Timeout: Regular (Full 3 Short 1),,,,
+0021200883,296,8,0,3,7:34 PM,4:54,,,SUB: Leuer FOR Davis,,
+0021200883,298,6,2,3,7:35 PM,4:45,,,Conley S.FOUL (P2.T3),,
+0021200883,299,3,11,3,7:35 PM,4:45,MISS Udrih Free Throw 1 of 2,,,,
+0021200883,300,4,1,3,7:35 PM,4:45,MAGIC Rebound,,,,
+0021200883,301,3,12,3,7:35 PM,4:45,Udrih Free Throw 2 of 2 (3 PTS),,,68 - 45,-23
+0021200883,303,1,5,3,7:36 PM,4:35,,,Gasol 1' Layup (8 PTS) (Conley 4 AST),70 - 45,-25
+0021200883,304,6,2,3,7:36 PM,4:17,,,Conley S.FOUL (P3.T4),,
+0021200883,305,3,11,3,7:36 PM,4:17,Udrih Free Throw 1 of 2 (4 PTS),,,70 - 46,-24
+0021200883,307,3,12,3,7:36 PM,4:17,Udrih Free Throw 2 of 2 (5 PTS),,,70 - 47,-23
+0021200883,309,1,1,3,7:37 PM,4:01,,,Allen 21' Jump Shot (13 PTS) (Gasol 11 AST),72 - 47,-25
+0021200883,310,1,43,3,7:37 PM,3:48,Harkless 1' Alley Oop Layup (11 PTS) (Udrih 3 AST),,,72 - 49,-23
+0021200883,311,2,1,3,7:38 PM,3:27,,,MISS Conley 28' 3PT Jump Shot,,
+0021200883,312,4,0,3,7:38 PM,3:24,,,Leuer REBOUND (Off:1 Def:0),,
+0021200883,313,6,1,3,7:38 PM,3:24,Harris P.FOUL (P3.T3),,,,
+0021200883,314,8,0,3,7:38 PM,3:24,SUB: Harrington FOR Vucevic,,,,
+0021200883,315,2,1,3,7:38 PM,3:12,,,MISS Allen 22' Jump Shot,,
+0021200883,316,4,0,3,7:38 PM,3:10,,,Leuer REBOUND (Off:2 Def:0),,
+0021200883,317,2,1,3,7:38 PM,3:03,,,MISS Prince 24' 3PT Jump Shot,,
+0021200883,318,4,0,3,7:38 PM,3:03,,,Grizzlies Rebound,,
+0021200883,319,6,3,3,7:38 PM,3:03,Afflalo L.B.FOUL (P2.T4),,,,
+0021200883,320,5,40,3,7:39 PM,2:57,,,Conley Out of Bounds Lost Ball Turnover (P1.T7),,
+0021200883,321,9,1,3,7:39 PM,2:57,,,Grizzlies Timeout: Regular (Reg.3 Short 0),,
+0021200883,324,8,0,3,7:41 PM,2:57,,,SUB: Bayless FOR Allen,,
+0021200883,325,8,0,3,7:41 PM,2:57,,,SUB: Pondexter FOR Conley,,
+0021200883,327,1,1,3,7:42 PM,2:45,Harrington 27' 3PT Jump Shot (3 PTS) (Udrih 4 AST),,,72 - 52,-20
+0021200883,328,1,73,3,7:42 PM,2:21,,,Gasol 2' Driving Reverse Layup (10 PTS),74 - 52,-22
+0021200883,329,1,49,3,7:42 PM,2:10,Harris 1' Driving Dunk (6 PTS) (Afflalo 3 AST),,,74 - 54,-20
+0021200883,330,1,1,3,7:43 PM,1:44,,,Prince 27' 3PT Jump Shot (14 PTS) (Pondexter 2 AST),77 - 54,-23
+0021200883,331,2,46,3,7:43 PM,1:17,MISS Harris 12' Running Jump Shot,,,,
+0021200883,332,4,0,3,7:43 PM,1:16,,,Bayless REBOUND (Off:1 Def:1),,
+0021200883,333,2,1,3,7:43 PM,1:01,,,MISS Pondexter 3' Jump Shot,,
+0021200883,334,4,0,3,7:43 PM,0:59,Harrington REBOUND (Off:0 Def:4),,,,
+0021200883,335,2,1,3,7:44 PM,0:53,MISS Harrington 26' 3PT Jump Shot,,,,
+0021200883,336,4,0,3,7:44 PM,0:51,,,Bayless REBOUND (Off:1 Def:2),,
+0021200883,337,1,47,3,7:44 PM,0:38,,,Leuer 7' Turnaround Jump Shot (2 PTS),79 - 54,-25
+0021200883,338,6,2,3,7:44 PM,0:25,,,Prince S.FOUL (P1.PN),,
+0021200883,339,3,13,3,7:44 PM,0:25,Afflalo Free Throw 1 of 3 (10 PTS),,,79 - 55,-24
+0021200883,341,3,14,3,7:45 PM,0:25,Afflalo Free Throw 2 of 3 (11 PTS),,,79 - 56,-23
+0021200883,343,3,15,3,7:45 PM,0:25,Afflalo Free Throw 3 of 3 (12 PTS),,,79 - 57,-22
+0021200883,345,2,1,3,7:45 PM,0:03,,,MISS Pondexter 27' 3PT Jump Shot,,
+0021200883,346,4,0,3,7:45 PM,0:02,,,Leuer REBOUND (Off:3 Def:0),,
+0021200883,347,1,1,3,7:46 PM,0:00,,,Bayless 25' 3PT Jump Shot (3 PTS) (Leuer 1 AST),82 - 57,-25
+0021200883,352,18,0,3,7:46 PM,0:00,,,,,
+0021200883,353,13,0,3,7:47 PM,0:00,,,,82 - 57,-25
+0021200883,355,12,0,4,7:47 PM,12:00,,,,82 - 57,-25
+0021200883,351,6,11,4,7:47 PM,12:00,Harkless T.FOUL (P1.T0),,,,
+0021200883,356,3,16,4,7:49 PM,12:00,,,Bayless Free Throw Technical (4 PTS),83 - 57,-26
+0021200883,360,2,5,4,7:49 PM,11:48,,,MISS Wroten 2' Layup,,
+0021200883,361,4,0,4,7:49 PM,11:46,Moore REBOUND (Off:1 Def:1),,,,
+0021200883,364,5,1,4,7:50 PM,11:36,Harrington Bad Pass Turnover (P2.T14),,Bayless STEAL (2 STL),,
+0021200883,365,1,1,4,7:50 PM,11:31,,,Wroten 25' 3PT Jump Shot (5 PTS) (Bayless 2 AST),86 - 57,-29
+0021200883,366,2,1,4,7:50 PM,11:16,MISS Harrington 27' 3PT Jump Shot,,,,
+0021200883,367,4,0,4,7:50 PM,11:15,,,Bayless REBOUND (Off:1 Def:3),,
+0021200883,368,2,1,4,7:50 PM,10:56,,,MISS Leuer 21' Jump Shot,,
+0021200883,369,4,0,4,7:50 PM,10:54,O'Quinn REBOUND (Off:0 Def:1),,,,
+0021200883,370,2,65,4,7:51 PM,10:42,MISS O'Quinn 6' Jump Hook Shot,,,,
+0021200883,371,4,0,4,7:51 PM,10:40,,,Gasol REBOUND (Off:2 Def:3),,
+0021200883,373,1,1,4,7:51 PM,10:19,,,Gasol 21' Jump Shot (12 PTS) (Pondexter 3 AST),88 - 57,-31
+0021200883,374,6,1,4,7:51 PM,9:58,,,Leuer P.FOUL (P1.T1),,
+0021200883,376,8,0,4,7:52 PM,9:58,,,SUB: Pittman FOR Gasol,,
+0021200883,377,1,65,4,7:52 PM,9:43,Jones 4' Jump Hook Shot (2 PTS) (Harrington 1 AST),,,88 - 59,-29
+0021200883,378,1,1,4,7:52 PM,9:20,,,Leuer 10' Jump Shot (4 PTS) (Wroten 2 AST),90 - 59,-31
+0021200883,379,2,84,4,7:53 PM,9:04,MISS Harrington 8' Running Bank Shot,,,,
+0021200883,380,4,0,4,7:53 PM,9:00,Jones REBOUND (Off:1 Def:0),,,,
+0021200883,381,1,5,4,7:53 PM,8:41,Harrington 1' Layup (5 PTS) (O'Quinn 1 AST),,,90 - 61,-29
+0021200883,382,5,1,4,7:53 PM,8:38,Harrington STEAL (1 STL),,Leuer Bad Pass Turnover (P1.T8),,
+0021200883,383,2,5,4,7:53 PM,8:38,MISS Harrington 1' Layup,,,,
+0021200883,385,4,0,4,7:53 PM,8:36,Harrington REBOUND (Off:1 Def:4),,,,
+0021200883,384,1,53,4,7:53 PM,8:34,Harrington 2' Tip Shot (7 PTS),,,90 - 63,-27
+0021200883,386,2,1,4,7:53 PM,8:20,,,MISS Pondexter 30' 3PT Jump Shot,,
+0021200883,387,4,0,4,7:53 PM,8:19,O'Quinn REBOUND (Off:0 Def:2),,,,
+0021200883,388,1,42,4,7:54 PM,8:09,Lamb 2' Driving Layup (2 PTS),,,90 - 65,-25
+0021200883,389,9,1,4,7:54 PM,8:09,,,Grizzlies Timeout: Regular (Reg.4 Short 0),,
+0021200883,393,6,2,4,7:56 PM,7:54,Jones S.FOUL (P1.T1),,,,
+0021200883,394,3,11,4,7:57 PM,7:54,,,Pondexter Free Throw 1 of 2 (9 PTS),91 - 65,-26
+0021200883,396,3,12,4,7:57 PM,7:54,,,MISS Pondexter Free Throw 2 of 2,,
+0021200883,398,4,0,4,7:57 PM,7:52,Moore REBOUND (Off:1 Def:2),,,,
+0021200883,399,6,2,4,7:57 PM,7:39,,,Wroten S.FOUL (P3.T2),,
+0021200883,400,3,11,4,7:57 PM,7:39,Moore Free Throw 1 of 2 (7 PTS),,,91 - 66,-25
+0021200883,402,3,12,4,7:58 PM,7:39,Moore Free Throw 2 of 2 (8 PTS),,,91 - 67,-24
+0021200883,404,2,1,4,7:58 PM,7:24,O'Quinn BLOCK (1 BLK),,MISS Pittman 4' Jump Shot,,
+0021200883,405,4,0,4,7:58 PM,7:21,,,Pondexter REBOUND (Off:1 Def:0),,
+0021200883,406,2,5,4,7:58 PM,7:20,Jones BLOCK (1 BLK),,MISS Pittman 1' Layup,,
+0021200883,408,4,0,4,7:58 PM,7:19,,,Pittman REBOUND (Off:1 Def:0),,
+0021200883,407,1,5,4,7:58 PM,7:19,,,Pittman 1' Layup (2 PTS),93 - 67,-26
+0021200883,409,6,2,4,7:58 PM,7:19,Harrington S.FOUL (P2.T2),,,,
+0021200883,410,3,10,4,7:58 PM,7:19,,,MISS Pittman Free Throw 1 of 1,,
+0021200883,412,4,0,4,7:59 PM,7:16,O'Quinn REBOUND (Off:0 Def:3),,,,
+0021200883,413,5,1,4,7:59 PM,7:14,O'Quinn Bad Pass Turnover (P1.T15),,Leuer STEAL (1 STL),,
+0021200883,414,1,5,4,7:59 PM,7:09,,,Leuer 1' Layup (6 PTS),95 - 67,-28
+0021200883,416,2,79,4,7:59 PM,6:58,MISS Moore 21' Pullup Jump Shot,,,,
+0021200883,417,4,0,4,7:59 PM,6:58,,,Grizzlies Rebound,,
+0021200883,419,5,1,4,7:59 PM,6:46,Moore STEAL (2 STL),,Bayless Bad Pass Turnover (P1.T9),,
+0021200883,420,1,88,4,7:59 PM,6:41,Jones 1' Driving Slam Dunk (4 PTS) (Moore 4 AST),,,95 - 69,-26
+0021200883,421,6,1,4,8:00 PM,6:28,O'Quinn P.FOUL (P1.T3),,,,
+0021200883,422,8,0,4,8:00 PM,6:28,SUB: Nicholson FOR Harrington,,,,
+0021200883,423,1,1,4,8:00 PM,6:14,,,Wroten 26' 3PT Jump Shot (8 PTS),98 - 69,-29
+0021200883,424,1,65,4,8:00 PM,5:59,Nicholson 5' Jump Hook Shot (10 PTS),,,98 - 71,-27
+0021200883,425,1,1,4,8:01 PM,5:41,,,Pondexter  3PT Jump Shot (12 PTS) (Wroten 3 AST),101 - 71,-30
+0021200883,426,2,1,4,8:01 PM,5:16,MISS Jones 3' Jump Shot,,,,
+0021200883,427,4,0,4,8:01 PM,5:15,O'Quinn REBOUND (Off:1 Def:3),,,,
+0021200883,428,6,2,4,8:01 PM,5:14,,,Pittman S.FOUL (P1.T3),,
+0021200883,429,9,4,4,8:01 PM,5:14,,,,,
+0021200883,431,8,0,4,8:03 PM,5:14,,,SUB: Daye FOR Pondexter,,
+0021200883,433,3,11,4,8:04 PM,5:14,MISS O'Quinn Free Throw 1 of 2,,,,
+0021200883,434,4,1,4,8:04 PM,5:14,MAGIC Rebound,,,,
+0021200883,435,3,12,4,8:04 PM,5:14,O'Quinn Free Throw 2 of 2 (1 PTS),,,101 - 72,-29
+0021200883,437,5,4,4,8:05 PM,4:55,,,Daye Traveling Turnover (P1.T10),,
+0021200883,438,2,78,4,8:05 PM,4:41,MISS Jones 7' Floating Jump Shot,,,,
+0021200883,439,4,0,4,8:05 PM,4:40,,,Pittman REBOUND (Off:1 Def:1),,
+0021200883,440,5,1,4,8:05 PM,4:30,Lamb STEAL (1 STL),,Wroten Bad Pass Turnover (P1.T11),,
+0021200883,441,1,52,4,8:05 PM,4:26,Jones 1' Alley Oop Dunk (6 PTS) (Moore 5 AST),,,101 - 74,-27
+0021200883,442,6,26,4,8:06 PM,4:05,,,Wroten Offensive Charge Foul (P4.T4),,
+0021200883,443,5,5,4,8:06 PM,4:05,,,Wroten Foul Turnover (P2.T12),,
+0021200883,444,9,1,4,8:06 PM,4:05,MAGIC Timeout: Regular (Full 4 Short 1),,,,
+0021200883,449,2,1,4,8:08 PM,3:50,MISS O'Quinn 20' Jump Shot,,,,
+0021200883,450,4,0,4,8:08 PM,3:48,,,Daye REBOUND (Off:0 Def:1),,
+0021200883,451,1,1,4,8:09 PM,3:35,,,Daye  3PT Jump Shot (3 PTS) (Wroten 4 AST),104 - 74,-30
+0021200883,452,2,78,4,8:09 PM,3:11,MISS Moore 7' Floating Jump Shot,,,,
+0021200883,453,4,0,4,8:09 PM,3:09,Moore REBOUND (Off:2 Def:2),,,,
+0021200883,454,2,1,4,8:09 PM,2:58,MISS O'Quinn 17' Jump Shot,,,,
+0021200883,455,4,0,4,8:09 PM,2:57,,,Leuer REBOUND (Off:3 Def:1),,
+0021200883,456,1,52,4,8:09 PM,2:47,,,Bayless 1' Alley Oop Dunk (6 PTS) (Wroten 5 AST),106 - 74,-32
+0021200883,458,5,40,4,8:10 PM,2:26,Jones Out of Bounds Lost Ball Turnover (P1.T16),,,,
+0021200883,459,2,1,4,8:10 PM,2:14,,,MISS Wroten 24' 3PT Jump Shot,,
+0021200883,460,4,0,4,8:10 PM,2:12,Nicholson REBOUND (Off:0 Def:4),,,,
+0021200883,461,1,1,4,8:10 PM,2:00,Nicholson 20' Jump Shot (12 PTS) (Moore 6 AST),,,106 - 76,-30
+0021200883,462,5,1,4,8:11 PM,1:45,Jones STEAL (1 STL),,Wroten Bad Pass Turnover (P3.T13),,
+0021200883,463,6,2,4,8:11 PM,1:45,,,Daye S.FOUL (P1.PN),,
+0021200883,465,3,11,4,8:11 PM,1:45,MISS Jones Free Throw 1 of 2,,,,
+0021200883,466,4,1,4,8:11 PM,1:45,MAGIC Rebound,,,,
+0021200883,467,3,12,4,8:11 PM,1:45,Jones Free Throw 2 of 2 (7 PTS),,,106 - 77,-29
+0021200883,469,2,1,4,8:12 PM,1:33,,,MISS Daye 27' 3PT Jump Shot,,
+0021200883,470,4,0,4,8:12 PM,1:33,MAGIC Rebound,,,,
+0021200883,471,6,1,4,8:12 PM,1:33,,,Leuer P.FOUL (P2.PN),,
+0021200883,473,3,11,4,8:12 PM,1:33,Moore Free Throw 1 of 2 (9 PTS),,,106 - 78,-28
+0021200883,476,3,12,4,8:12 PM,1:33,Moore Free Throw 2 of 2 (10 PTS),,,106 - 79,-27
+0021200883,479,1,1,4,8:13 PM,1:11,,,Daye 11' Jump Shot (5 PTS) (Bayless 3 AST),108 - 79,-29
+0021200883,480,2,1,4,8:13 PM,0:59,MISS Nicholson 19' Jump Shot,,,,
+0021200883,481,4,0,4,8:13 PM,0:58,,,Daye REBOUND (Off:0 Def:2),,
+0021200883,482,2,1,4,8:13 PM,0:36,,,MISS Bayless 30' 3PT Jump Shot,,
+0021200883,483,4,0,4,8:13 PM,0:34,Moore REBOUND (Off:2 Def:3),,,,
+0021200883,484,1,42,4,8:14 PM,0:32,Moore 1' Driving Layup (12 PTS),,,108 - 81,-27
+0021200883,485,2,1,4,8:14 PM,0:08,,,MISS Daye 8' Jump Shot,,
+0021200883,487,4,0,4,8:14 PM,0:07,,,Pittman REBOUND (Off:2 Def:1),,
+0021200883,486,2,4,4,8:14 PM,0:07,,,MISS Pittman 1' Tip Shot,,
+0021200883,488,4,0,4,8:14 PM,0:05,O'Quinn REBOUND (Off:1 Def:4),,,,
+0021200883,489,6,1,4,8:14 PM,0:03,,,Daye P.FOUL (P2.PN),,
+0021200883,490,3,11,4,8:15 PM,0:03,MISS O'Quinn Free Throw 1 of 2,,,,
+0021200883,491,4,1,4,8:15 PM,0:03,MAGIC Rebound,,,,
+0021200883,492,3,12,4,8:15 PM,0:03,O'Quinn Free Throw 2 of 2 (2 PTS),,,108 - 82,-26
+0021200883,494,5,4,4,8:15 PM,0:02,,,Wroten Traveling Turnover (P4.T14),,
+0021200883,496,2,1,4,8:15 PM,0:00,MISS O'Quinn 32' 3PT Jump Shot,,,,
+0021200883,497,4,0,4,8:15 PM,0:00,MAGIC Rebound,,,,
+0021200883,498,13,0,4,8:15 PM,0:00,,,,108 - 82,-26

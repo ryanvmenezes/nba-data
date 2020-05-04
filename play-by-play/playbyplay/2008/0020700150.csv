@@ -1,0 +1,427 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020700150,0,12,0,1,7:09 PM,12:00,,,,,
+0020700150,1,10,0,1,7:10 PM,12:00,Jump Ball Smith vs. Duncan: Tip to Oberto,,,,
+0020700150,2,1,1,1,7:11 PM,11:39,,,Finley 20' Jump Shot (2 PTS) (Duncan 1 AST),2 - 0,-2
+0020700150,3,1,1,1,7:12 PM,11:16,Pachulia 18' Jump Shot (2 PTS) (Johnson 1 AST),,,2 - 2,TIE
+0020700150,4,5,40,1,7:12 PM,10:57,,,Parker Out of Bounds Lost Ball Turnover (P1.T1),,
+0020700150,5,2,1,1,7:12 PM,10:45,MISS Williams 18' Jump Shot,,,,
+0020700150,6,4,0,1,7:12 PM,10:44,,,Parker REBOUND (Off:0 Def:1),,
+0020700150,7,1,1,1,7:13 PM,10:32,,,Parker 20' Jump Shot (2 PTS) (Finley 1 AST),4 - 2,-2
+0020700150,8,1,1,1,7:13 PM,10:15,Williams 18' Jump Shot (2 PTS) (Johnson 2 AST),,,4 - 4,TIE
+0020700150,10,1,63,1,7:13 PM,9:52,,,Duncan 16' Fadeaway Jumper (2 PTS) (Parker 1 AST),6 - 4,-2
+0020700150,11,1,1,1,7:13 PM,9:41,Smith 20' Jump Shot (2 PTS) (Pachulia 1 AST),,,6 - 6,TIE
+0020700150,12,1,41,1,7:14 PM,9:24,,,Duncan  Running Layup (4 PTS) (Parker 2 AST),8 - 6,-2
+0020700150,13,6,2,1,7:14 PM,9:13,,,Oberto S.FOUL (P1.T1),,
+0020700150,14,3,11,1,7:14 PM,9:13,MISS Pachulia Free Throw 1 of 2,,,,
+0020700150,15,4,1,1,7:14 PM,9:13,HAWKS Rebound,,,,
+0020700150,16,3,12,1,7:14 PM,9:13,MISS Pachulia Free Throw 2 of 2,,,,
+0020700150,17,4,0,1,7:15 PM,9:12,,,Oberto REBOUND (Off:0 Def:1),,
+0020700150,18,2,1,1,7:15 PM,9:00,,,MISS Parker 20' Jump Shot,,
+0020700150,19,4,0,1,7:15 PM,8:58,,,Duncan REBOUND (Off:1 Def:0),,
+0020700150,20,1,87,1,7:15 PM,8:57,,,Duncan  Putback Dunk (6 PTS),10 - 6,-4
+0020700150,21,9,1,1,7:15 PM,8:52,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0020700150,22,1,63,1,7:18 PM,8:44,Johnson 19' Fadeaway Jumper (2 PTS),,,10 - 8,-2
+0020700150,23,2,1,1,7:18 PM,8:24,,,MISS Finley 24' 3PT Jump Shot,,
+0020700150,24,4,0,1,7:18 PM,8:22,,,Duncan REBOUND (Off:2 Def:0),,
+0020700150,25,5,2,1,7:18 PM,8:15,Williams STEAL (1 STL),,Parker Lost Ball Turnover (P2.T2),,
+0020700150,26,1,7,1,7:18 PM,8:10,Williams  Dunk (4 PTS) (Johnson 1 AST),,,10 - 10,TIE
+0020700150,27,2,1,1,7:19 PM,7:49,,,MISS Duncan 7' Jump Shot,,
+0020700150,28,4,0,1,7:19 PM,7:47,,,Bowen REBOUND (Off:1 Def:0),,
+0020700150,29,1,5,1,7:19 PM,7:45,,,Bowen  Layup (2 PTS),12 - 10,-2
+0020700150,30,2,1,1,7:19 PM,7:28,MISS Williams 15' Jump Shot,,,,
+0020700150,31,4,0,1,7:19 PM,7:27,,,Duncan REBOUND (Off:2 Def:1),,
+0020700150,32,2,5,1,7:19 PM,7:11,,,MISS Parker  Layup,,
+0020700150,34,4,0,1,7:19 PM,7:10,,,Oberto REBOUND (Off:1 Def:1),,
+0020700150,33,1,4,1,7:19 PM,7:10,,,Oberto  Tip Shot (2 PTS),14 - 10,-4
+0020700150,35,2,1,1,7:20 PM,6:53,MISS Smith 25' 3PT Jump Shot,,,,
+0020700150,36,4,0,1,7:20 PM,6:51,,,Bowen REBOUND (Off:1 Def:1),,
+0020700150,37,1,1,1,7:20 PM,6:41,,,Finley 26' 3PT Jump Shot (5 PTS) (Bowen 1 AST),17 - 10,-7
+0020700150,38,2,1,1,7:20 PM,6:22,MISS Johnson 20' Jump Shot,,,,
+0020700150,39,4,0,1,7:20 PM,6:21,,,Oberto REBOUND (Off:1 Def:2),,
+0020700150,40,1,5,1,7:20 PM,6:08,,,Oberto  Layup (4 PTS) (Duncan 2 AST),19 - 10,-9
+0020700150,41,1,1,1,7:21 PM,5:52,Johnson 19' Jump Shot (2 PTS),,,19 - 12,-7
+0020700150,42,2,5,1,7:21 PM,5:32,Smith BLOCK (1 BLK),,MISS Oberto  Layup,,
+0020700150,43,4,0,1,7:21 PM,5:29,,,Duncan REBOUND (Off:3 Def:1),,
+0020700150,44,2,1,1,7:21 PM,5:26,,,MISS Duncan 15' Jump Shot,,
+0020700150,45,4,0,1,7:21 PM,5:24,Johnson REBOUND (Off:0 Def:1),,,,
+0020700150,46,2,5,1,7:21 PM,5:15,MISS Pachulia  Layup,,,,
+0020700150,47,4,0,1,7:21 PM,5:14,,,Duncan REBOUND (Off:3 Def:2),,
+0020700150,49,7,2,1,7:21 PM,5:10,Smith Violation:Defensive Goaltending,,,,
+0020700150,48,1,41,1,7:21 PM,5:10,,,Parker  Running Layup (4 PTS),21 - 12,-9
+0020700150,50,1,42,1,7:22 PM,4:55,Smith  Driving Layup (4 PTS),,,21 - 14,-7
+0020700150,51,9,1,1,7:22 PM,4:48,,,Spurs Timeout: Regular (Reg.1 Short 0),,
+0020700150,53,8,0,1,7:24 PM,4:48,SUB: Childress FOR Williams,,,,
+0020700150,54,8,0,1,7:24 PM,4:48,SUB: Horford FOR Pachulia,,,,
+0020700150,55,8,0,1,7:24 PM,4:48,,,SUB: Ginobili FOR Bowen,,
+0020700150,56,6,2,1,7:25 PM,4:35,Horford S.FOUL (P1.T1),,,,
+0020700150,57,3,11,1,7:25 PM,4:35,,,MISS Duncan Free Throw 1 of 2,,
+0020700150,58,4,1,1,7:25 PM,4:35,,,Spurs Rebound,,
+0020700150,60,8,0,1,7:26 PM,4:35,,,SUB: Bonner FOR Oberto,,
+0020700150,61,3,12,1,7:26 PM,4:35,,,Duncan Free Throw 2 of 2 (7 PTS),22 - 14,-8
+0020700150,62,5,4,1,7:26 PM,4:14,Smith Traveling Turnover (P1.T1),,,,
+0020700150,63,2,1,1,7:27 PM,4:03,,,MISS Finley 19' Jump Shot,,
+0020700150,64,4,0,1,7:27 PM,4:02,Horford REBOUND (Off:0 Def:1),,,,
+0020700150,65,6,2,1,7:27 PM,3:56,,,Bonner S.FOUL (P1.T2),,
+0020700150,66,3,11,1,7:27 PM,3:56,Smith Free Throw 1 of 2 (5 PTS),,,22 - 15,-7
+0020700150,67,3,12,1,7:27 PM,3:56,MISS Smith Free Throw 2 of 2,,,,
+0020700150,68,4,0,1,7:27 PM,3:55,,,Ginobili REBOUND (Off:0 Def:1),,
+0020700150,69,6,4,1,7:28 PM,3:42,,,Duncan OFF.Foul (P1),,
+0020700150,70,5,5,1,7:28 PM,3:42,,,Duncan Foul Turnover (P1.T3),,
+0020700150,71,8,0,1,7:28 PM,3:42,,,SUB: Vaughn FOR Parker,,
+0020700150,72,6,4,1,7:28 PM,3:33,Johnson OFF.Foul (P1),,,,
+0020700150,73,5,5,1,7:28 PM,3:33,Johnson Foul Turnover (P1.T2),,,,
+0020700150,74,1,1,1,7:29 PM,3:15,,,Bonner 28' 3PT Jump Shot (3 PTS) (Duncan 3 AST),25 - 15,-10
+0020700150,75,1,1,1,7:29 PM,3:05,Johnson 19' Jump Shot (4 PTS),,,25 - 17,-8
+0020700150,76,5,4,1,7:29 PM,2:51,,,Duncan Traveling Turnover (P2.T4),,
+0020700150,77,2,47,1,7:30 PM,2:26,MISS Johnson 27' 3PT Turnaround Jump Shot,,,,
+0020700150,78,4,0,1,7:30 PM,2:26,HAWKS Rebound,,,,
+0020700150,79,5,11,1,7:30 PM,2:26,HAWKS Turnover: Shot Clock (T#3),,,,
+0020700150,80,6,1,1,7:30 PM,2:18,Horford P.FOUL (P2.T2),,,,
+0020700150,81,8,0,1,7:30 PM,2:18,SUB: Williams FOR Smith,,,,
+0020700150,83,8,0,1,7:31 PM,2:18,SUB: Shel. Williams FOR Horford,,,,
+0020700150,84,8,0,1,7:31 PM,2:18,,,SUB: Bowen FOR Finley,,
+0020700150,85,8,0,1,7:31 PM,2:18,,,SUB: Oberto FOR Duncan,,
+0020700150,86,1,49,1,7:31 PM,2:12,,,Ginobili  Driving Dunk (2 PTS),27 - 17,-10
+0020700150,87,2,1,1,7:31 PM,1:48,MISS Johnson 28' 3PT Jump Shot,,,,
+0020700150,88,4,0,1,7:31 PM,1:47,,,Oberto REBOUND (Off:1 Def:3),,
+0020700150,89,5,4,1,7:32 PM,1:36,,,Bowen Traveling Turnover (P1.T5),,
+0020700150,90,2,41,1,7:32 PM,1:24,MISS Johnson  Running Layup,,,,
+0020700150,91,4,0,1,7:32 PM,1:21,,,Ginobili REBOUND (Off:0 Def:2),,
+0020700150,92,1,42,1,7:32 PM,1:15,,,Ginobili  Driving Layup (4 PTS),29 - 17,-12
+0020700150,93,2,1,1,7:33 PM,0:57,MISS Williams 20' Jump Shot,,,,
+0020700150,94,4,0,1,7:33 PM,0:56,Childress REBOUND (Off:1 Def:0),,,,
+0020700150,95,6,2,1,7:33 PM,0:56,,,Oberto S.FOUL (P2.T3),,
+0020700150,96,3,11,1,7:33 PM,0:56,Childress Free Throw 1 of 2 (1 PTS),,,29 - 18,-11
+0020700150,97,8,0,1,7:33 PM,0:56,,,SUB: Elson FOR Oberto,,
+0020700150,98,3,12,1,7:33 PM,0:56,MISS Childress Free Throw 2 of 2,,,,
+0020700150,99,4,0,1,7:34 PM,0:54,,,Bonner REBOUND (Off:0 Def:1),,
+0020700150,100,2,1,1,7:34 PM,0:41,,,MISS Ginobili 20' Jump Shot,,
+0020700150,101,4,0,1,7:34 PM,0:39,Shel. Williams REBOUND (Off:0 Def:1),,,,
+0020700150,102,10,0,1,7:34 PM,0:25,Jump Ball Childress vs. Vaughn: Tip to Williams,,,,
+0020700150,103,2,5,1,7:35 PM,0:18,MISS Johnson  Layup,,,,
+0020700150,104,4,0,1,7:35 PM,0:17,,,Elson REBOUND (Off:0 Def:1),,
+0020700150,105,6,4,1,7:35 PM,0:09,,,Elson OFF.Foul (P1),,
+0020700150,106,5,5,1,7:35 PM,0:09,,,Elson Foul Turnover (P1.T6),,
+0020700150,107,1,3,1,7:35 PM,0:00,Shel. Williams 6' Hook Shot (2 PTS) (Johnson 2 AST),,,29 - 20,-9
+0020700150,108,13,0,1,7:35 PM,0:00,,,,29 - 20,-9
+0020700150,110,12,0,2,7:38 PM,12:00,,,,29 - 20,-9
+0020700150,111,6,1,2,7:39 PM,11:42,,,Vaughn P.FOUL (P1.T1),,
+0020700150,112,2,47,2,7:40 PM,11:27,MISS Williams 19' Turnaround Jump Shot,,,,
+0020700150,113,4,0,2,7:40 PM,11:27,HAWKS Rebound,,,,
+0020700150,114,5,11,2,7:40 PM,11:27,HAWKS Turnover: Shot Clock (T#4),,,,
+0020700150,115,2,46,2,7:40 PM,11:02,,,MISS Bonner 8' Running Jump Shot,,
+0020700150,116,4,0,2,7:40 PM,11:00,,,Bonner REBOUND (Off:1 Def:1),,
+0020700150,117,1,63,2,7:41 PM,10:50,,,Ginobili 19' Fadeaway Jumper (6 PTS),31 - 20,-11
+0020700150,118,2,1,2,7:41 PM,10:36,MISS Childress 14' Jump Shot,,,,
+0020700150,119,4,0,2,7:41 PM,10:34,,,Bowen REBOUND (Off:1 Def:2),,
+0020700150,120,1,1,2,7:41 PM,10:26,,,Ginobili 27' 3PT Jump Shot (9 PTS) (Vaughn 1 AST),34 - 20,-14
+0020700150,121,8,0,2,7:41 PM,10:09,SUB: Smith FOR Williams,,,,
+0020700150,122,6,2,2,7:42 PM,10:06,,,Elson S.FOUL (P2.T2),,
+0020700150,123,3,11,2,7:42 PM,10:06,Childress Free Throw 1 of 2 (2 PTS),,,34 - 21,-13
+0020700150,124,8,0,2,7:42 PM,10:06,SUB: West FOR Johnson,,,,
+0020700150,125,3,12,2,7:42 PM,10:06,Childress Free Throw 2 of 2 (3 PTS),,,34 - 22,-12
+0020700150,127,6,1,2,7:43 PM,9:55,Shel. Williams P.FOUL (P1.T1),,,,
+0020700150,128,1,1,2,7:43 PM,9:47,,,Elson 18' Jump Shot (2 PTS) (Vaughn 2 AST),36 - 22,-14
+0020700150,129,2,1,2,7:44 PM,9:31,MISS Johnson 19' Jump Shot,,,,
+0020700150,130,4,0,2,7:44 PM,9:29,West REBOUND (Off:1 Def:0),,,,
+0020700150,131,6,2,2,7:44 PM,9:19,,,Bonner S.FOUL (P2.T3),,
+0020700150,132,3,11,2,7:44 PM,9:19,MISS Shel. Williams Free Throw 1 of 2,,,,
+0020700150,133,4,1,2,7:44 PM,9:19,HAWKS Rebound,,,,
+0020700150,134,3,12,2,7:44 PM,9:19,Shel. Williams Free Throw 2 of 2 (3 PTS),,,36 - 23,-13
+0020700150,135,2,1,2,7:45 PM,9:07,,,MISS Ginobili 26' 3PT Jump Shot,,
+0020700150,136,4,0,2,7:45 PM,9:06,Smith REBOUND (Off:0 Def:1),,,,
+0020700150,137,6,4,2,7:45 PM,9:02,Smith OFF.Foul (P1),,,,
+0020700150,138,5,5,2,7:45 PM,9:02,Smith Foul Turnover (P2.T5),,,,
+0020700150,139,8,0,2,7:45 PM,9:02,,,SUB: Parker FOR Vaughn,,
+0020700150,140,1,1,2,7:45 PM,8:49,,,Ginobili 24' 3PT Jump Shot (12 PTS) (Parker 3 AST),39 - 23,-16
+0020700150,141,6,1,2,7:46 PM,8:35,,,Elson P.FOUL (P3.T4),,
+0020700150,142,9,4,2,7:46 PM,8:35,,,,,
+0020700150,143,8,0,2,7:48 PM,8:35,,,SUB: Duncan FOR Elson,,
+0020700150,144,8,0,2,7:48 PM,8:35,,,SUB: Finley FOR Ginobili,,
+0020700150,145,8,0,2,7:48 PM,8:32,SUB: Horford FOR Shel. Williams,,,,
+0020700150,146,2,1,2,7:49 PM,8:22,MISS Smith 19' Jump Shot,,,,
+0020700150,147,4,0,2,7:49 PM,8:21,HAWKS Rebound,,,,
+0020700150,148,5,11,2,7:49 PM,8:20,HAWKS Turnover: Shot Clock (T#6),,,,
+0020700150,149,2,1,2,7:49 PM,8:05,,,MISS Bonner 28' 3PT Jump Shot,,
+0020700150,150,4,0,2,7:49 PM,8:04,Johnson REBOUND (Off:0 Def:1),,,,
+0020700150,151,2,3,2,7:49 PM,7:58,MISS Smith 8' Hook Shot,,,,
+0020700150,152,4,0,2,7:49 PM,7:57,Childress REBOUND (Off:2 Def:0),,,,
+0020700150,153,6,1,2,7:49 PM,7:51,,,Bowen P.FOUL (P1.PN),,
+0020700150,154,3,11,2,7:50 PM,7:51,Smith Free Throw 1 of 2 (6 PTS),,,39 - 24,-15
+0020700150,155,3,12,2,7:50 PM,7:51,Smith Free Throw 2 of 2 (7 PTS),,,39 - 25,-14
+0020700150,156,6,2,2,7:50 PM,7:36,West S.FOUL (P1.T2),,,,
+0020700150,157,8,0,2,7:50 PM,7:36,SUB: Johnson FOR West,,,,
+0020700150,158,3,11,2,7:50 PM,7:36,,,Parker Free Throw 1 of 2 (5 PTS),40 - 25,-15
+0020700150,159,3,12,2,7:51 PM,7:36,,,Parker Free Throw 2 of 2 (6 PTS),41 - 25,-16
+0020700150,160,2,1,2,7:51 PM,7:16,MISS Smith 10' Jump Shot,,,,
+0020700150,161,4,0,2,7:51 PM,7:15,,,Bonner REBOUND (Off:1 Def:2),,
+0020700150,162,1,5,2,7:51 PM,7:12,,,Parker  Layup (8 PTS) (Bonner 1 AST),43 - 25,-18
+0020700150,163,9,1,2,7:51 PM,7:05,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0020700150,166,2,1,2,7:54 PM,6:54,MISS Johnson 21' Jump Shot,,,,
+0020700150,167,4,0,2,7:54 PM,6:52,Childress REBOUND (Off:3 Def:0),,,,
+0020700150,168,1,72,2,7:54 PM,6:51,Childress  Putback Layup (5 PTS),,,43 - 27,-16
+0020700150,169,1,73,2,7:55 PM,6:27,,,Parker  Driving Reverse Layup (10 PTS),45 - 27,-18
+0020700150,170,2,5,2,7:55 PM,6:17,MISS Smith  Layup,,,,
+0020700150,171,4,0,2,7:55 PM,6:15,Smith REBOUND (Off:1 Def:1),,,,
+0020700150,172,2,4,2,7:55 PM,6:14,MISS Smith  Tip Shot,,,,
+0020700150,173,4,0,2,7:55 PM,6:13,Childress REBOUND (Off:4 Def:0),,,,
+0020700150,174,1,72,2,7:55 PM,6:12,Childress  Putback Layup (7 PTS),,,45 - 29,-16
+0020700150,175,2,5,2,7:55 PM,5:51,,,MISS Parker  Layup,,
+0020700150,177,4,0,2,7:55 PM,5:50,,,Bonner REBOUND (Off:2 Def:2),,
+0020700150,176,2,4,2,7:55 PM,5:50,,,MISS Bonner  Tip Shot,,
+0020700150,178,4,0,2,7:55 PM,5:48,,,Bonner REBOUND (Off:3 Def:2),,
+0020700150,179,2,1,2,7:55 PM,5:33,,,MISS Bowen 9' Jump Shot,,
+0020700150,180,4,0,2,7:55 PM,5:32,Johnson REBOUND (Off:0 Def:2),,,,
+0020700150,181,1,42,2,7:56 PM,5:27,Johnson  Driving Layup (6 PTS),,,45 - 31,-14
+0020700150,182,2,1,2,7:56 PM,5:06,,,MISS Bonner 21' Jump Shot,,
+0020700150,183,4,0,2,7:56 PM,5:05,Horford REBOUND (Off:0 Def:2),,,,
+0020700150,184,6,4,2,7:56 PM,4:51,Smith OFF.Foul (P2),,,,
+0020700150,185,5,5,2,7:56 PM,4:51,Smith Foul Turnover (P3.T7),,,,
+0020700150,186,8,0,2,7:56 PM,4:51,SUB: Williams FOR Smith,,,,
+0020700150,187,8,0,2,7:56 PM,4:51,,,SUB: Ginobili FOR Bonner,,
+0020700150,189,5,41,2,7:57 PM,4:40,,,Bowen Poss Lost Ball Turnover (P2.T7),,
+0020700150,190,1,7,2,7:57 PM,4:37,Horford  Dunk (2 PTS) (Johnson 3 AST),,,45 - 33,-12
+0020700150,191,9,1,2,7:57 PM,4:28,,,Spurs Timeout: Regular (Reg.2 Short 0),,
+0020700150,193,1,1,2,8:00 PM,4:16,,,Duncan 12' Jump Shot (9 PTS) (Parker 4 AST),47 - 33,-14
+0020700150,194,2,3,2,8:00 PM,3:59,MISS Williams 6' Hook Shot,,Finley BLOCK (1 BLK),,
+0020700150,195,4,0,2,8:00 PM,3:57,Williams REBOUND (Off:1 Def:0),,,,
+0020700150,196,6,2,2,8:00 PM,3:57,,,Finley S.FOUL (P1.PN),,
+0020700150,197,3,11,2,8:01 PM,3:57,Williams Free Throw 1 of 2 (5 PTS),,,47 - 34,-13
+0020700150,198,3,12,2,8:01 PM,3:57,Williams Free Throw 2 of 2 (6 PTS),,,47 - 35,-12
+0020700150,199,1,1,2,8:01 PM,3:39,,,Parker  3PT Jump Shot (13 PTS) (Bowen 2 AST),50 - 35,-15
+0020700150,200,1,1,2,8:02 PM,3:23,Williams 17' Jump Shot (8 PTS) (Johnson 3 AST),,,50 - 37,-13
+0020700150,201,1,5,2,8:02 PM,3:05,,,Parker  Layup (15 PTS) (Duncan 4 AST),52 - 37,-15
+0020700150,202,2,1,2,8:02 PM,2:47,MISS Johnson 30' 3PT Jump Shot,,,,
+0020700150,203,4,0,2,8:02 PM,2:46,,,Duncan REBOUND (Off:3 Def:3),,
+0020700150,204,1,42,2,8:02 PM,2:36,,,Parker  Driving Layup (17 PTS),54 - 37,-17
+0020700150,205,6,2,2,8:03 PM,2:17,,,Duncan S.FOUL (P2.PN),,
+0020700150,206,3,11,2,8:03 PM,2:17,MISS Horford Free Throw 1 of 2,,,,
+0020700150,207,4,1,2,8:03 PM,2:17,HAWKS Rebound,,,,
+0020700150,208,3,12,2,8:03 PM,2:17,Horford Free Throw 2 of 2 (3 PTS),,,54 - 38,-16
+0020700150,209,1,1,2,8:04 PM,2:02,,,Parker 14' Jump Shot (19 PTS),56 - 38,-18
+0020700150,210,1,1,2,8:04 PM,1:40,Williams 21' Jump Shot (10 PTS) (Johnson 4 AST),,,56 - 40,-16
+0020700150,211,1,42,2,8:04 PM,1:21,,,Parker  Driving Layup (21 PTS),58 - 40,-18
+0020700150,212,6,2,2,8:05 PM,1:10,,,Duncan S.FOUL (P3.PN),,
+0020700150,213,3,11,2,8:05 PM,1:10,Johnson Free Throw 1 of 2 (7 PTS),,,58 - 41,-17
+0020700150,214,8,0,2,8:05 PM,1:10,,,SUB: Oberto FOR Duncan,,
+0020700150,215,8,0,2,8:05 PM,1:10,SUB: Pachulia FOR Horford,,,,
+0020700150,216,3,12,2,8:05 PM,1:10,Johnson Free Throw 2 of 2 (8 PTS),,,58 - 42,-16
+0020700150,217,6,1,2,8:06 PM,1:00,Williams P.FOUL (P1.T3),,,,
+0020700150,219,2,41,2,8:06 PM,0:54,Williams BLOCK (1 BLK),,MISS Oberto  Running Layup,,
+0020700150,220,4,0,2,8:06 PM,0:51,Pachulia REBOUND (Off:0 Def:1),,,,
+0020700150,221,2,63,2,8:06 PM,0:40,MISS Johnson 18' Fadeaway Jumper,,,,
+0020700150,222,4,0,2,8:06 PM,0:39,,,Bowen REBOUND (Off:1 Def:3),,
+0020700150,223,2,46,2,8:07 PM,0:32,,,MISS Parker 16' Running Jump Shot,,
+0020700150,224,4,0,2,8:07 PM,0:30,,,Ginobili REBOUND (Off:1 Def:2),,
+0020700150,225,2,5,2,8:07 PM,0:28,,,MISS Ginobili  Layup,,
+0020700150,226,4,0,2,8:07 PM,0:27,Williams REBOUND (Off:1 Def:1),,,,
+0020700150,227,6,2,2,8:07 PM,0:18,,,Finley S.FOUL (P2.PN),,
+0020700150,228,3,11,2,8:07 PM,0:18,Pachulia Free Throw 1 of 2 (3 PTS),,,58 - 43,-15
+0020700150,229,8,0,2,8:07 PM,0:18,SUB: West FOR Johnson,,,,
+0020700150,230,8,0,2,8:07 PM,0:18,,,SUB: Udoka FOR Bowen,,
+0020700150,231,3,12,2,8:07 PM,0:18,Pachulia Free Throw 2 of 2 (4 PTS),,,58 - 44,-14
+0020700150,232,1,1,2,8:08 PM,0:02,,,Udoka 24' 3PT Jump Shot (3 PTS) (Parker 5 AST),61 - 44,-17
+0020700150,233,2,1,2,8:08 PM,0:00,MISS Childress 52' 3PT Jump Shot,,,,
+0020700150,234,4,0,2,8:08 PM,0:00,HAWKS Rebound,,,,
+0020700150,235,13,0,2,8:08 PM,0:00,,,,61 - 44,-17
+0020700150,237,12,0,3,8:24 PM,12:00,,,,61 - 44,-17
+0020700150,238,2,1,3,8:25 PM,11:38,MISS Smith 20' Jump Shot,,,,
+0020700150,239,4,0,3,8:25 PM,11:35,Johnson REBOUND (Off:1 Def:2),,,,
+0020700150,240,2,5,3,8:25 PM,11:30,MISS Pachulia  Layup,,,,
+0020700150,241,4,0,3,8:25 PM,11:28,,,Duncan REBOUND (Off:3 Def:4),,
+0020700150,242,2,1,3,8:25 PM,11:05,,,MISS Duncan 10' Jump Shot,,
+0020700150,243,4,0,3,8:25 PM,11:03,,,Oberto REBOUND (Off:2 Def:3),,
+0020700150,244,2,47,3,8:26 PM,10:47,,,MISS Duncan 11' Turnaround Jump Shot,,
+0020700150,245,4,0,3,8:26 PM,10:45,Johnson REBOUND (Off:1 Def:3),,,,
+0020700150,246,2,1,3,8:26 PM,10:34,MISS Smith 10' Jump Shot,,,,
+0020700150,247,4,0,3,8:26 PM,10:33,Pachulia REBOUND (Off:1 Def:1),,,,
+0020700150,248,1,1,3,8:26 PM,10:25,Williams 20' Jump Shot (12 PTS) (Smith 1 AST),,,61 - 46,-15
+0020700150,249,2,1,3,8:26 PM,10:06,Smith BLOCK (2 BLK),,MISS Duncan 9' Jump Shot,,
+0020700150,250,4,0,3,8:26 PM,10:05,Smith REBOUND (Off:1 Def:2),,,,
+0020700150,251,2,1,3,8:26 PM,9:55,MISS Pachulia 15' Jump Shot,,,,
+0020700150,252,4,0,3,8:26 PM,9:53,,,Finley REBOUND (Off:0 Def:1),,
+0020700150,253,6,1,3,8:27 PM,9:41,Johnson P.FOUL (P1.T1),,,,
+0020700150,254,1,5,3,8:27 PM,9:34,,,Oberto  Layup (6 PTS) (Duncan 5 AST),63 - 46,-17
+0020700150,255,6,2,3,8:27 PM,9:34,Smith S.FOUL (P3.T2),,,,
+0020700150,256,3,10,3,8:27 PM,9:34,,,MISS Oberto Free Throw 1 of 1,,
+0020700150,257,4,0,3,8:27 PM,9:32,Johnson REBOUND (Off:0 Def:2),,,,
+0020700150,258,2,5,3,8:28 PM,9:19,MISS Pachulia  Layup,,,,
+0020700150,259,4,0,3,8:28 PM,9:17,,,Finley REBOUND (Off:0 Def:2),,
+0020700150,260,1,1,3,8:28 PM,9:08,,,Finley 26' 3PT Jump Shot (8 PTS) (Parker 6 AST),66 - 46,-20
+0020700150,261,1,1,3,8:28 PM,8:55,Pachulia 19' Jump Shot (6 PTS) (Johnson 5 AST),,,66 - 48,-18
+0020700150,262,1,5,3,8:29 PM,8:30,,,Oberto  Layup (8 PTS) (Parker 7 AST),68 - 48,-20
+0020700150,263,9,1,3,8:29 PM,8:25,HAWKS Timeout: Regular (Full 3 Short 0),,,,
+0020700150,264,8,0,3,8:30 PM,8:25,SUB: Horford FOR Pachulia,,,,
+0020700150,265,2,1,3,8:31 PM,8:02,MISS Smith 19' Jump Shot,,,,
+0020700150,266,4,0,3,8:32 PM,8:02,,,Spurs Rebound,,
+0020700150,267,2,1,3,8:32 PM,7:48,,,MISS Finley 24' 3PT Jump Shot,,
+0020700150,268,4,0,3,8:32 PM,7:47,Horford REBOUND (Off:0 Def:3),,,,
+0020700150,269,1,1,3,8:32 PM,7:32,Johnson 16' Jump Shot (10 PTS),,,68 - 50,-18
+0020700150,270,5,1,3,8:32 PM,7:20,Williams STEAL (2 STL),,Finley Bad Pass Turnover (P1.T8),,
+0020700150,271,2,5,3,8:32 PM,7:14,MISS Johnson  Layup,,,,
+0020700150,273,4,0,3,8:32 PM,7:12,Johnson REBOUND (Off:1 Def:2),,,,
+0020700150,272,2,4,3,8:32 PM,7:12,MISS Johnson  Tip Shot,,,,
+0020700150,274,4,0,3,8:32 PM,7:10,,,Bowen REBOUND (Off:1 Def:4),,
+0020700150,275,6,2,3,8:33 PM,7:08,Johnson S.FOUL (P2.T3),,,,
+0020700150,276,3,11,3,8:33 PM,7:08,,,Parker Free Throw 1 of 2 (22 PTS),69 - 50,-19
+0020700150,277,8,0,3,8:33 PM,7:08,,,SUB: Ginobili FOR Bowen,,
+0020700150,278,3,12,3,8:33 PM,7:08,,,Parker Free Throw 2 of 2 (23 PTS),70 - 50,-20
+0020700150,280,1,5,3,8:34 PM,6:51,Smith  Layup (9 PTS) (Johnson 6 AST),,,70 - 52,-18
+0020700150,281,2,1,3,8:34 PM,6:33,,,MISS Finley 26' 3PT Jump Shot,,
+0020700150,282,4,0,3,8:34 PM,6:31,Horford REBOUND (Off:0 Def:4),,,,
+0020700150,283,2,5,3,8:34 PM,6:25,MISS Smith  Layup,,,,
+0020700150,284,4,0,3,8:34 PM,6:24,,,Oberto REBOUND (Off:2 Def:4),,
+0020700150,285,1,5,3,8:34 PM,6:18,,,Ginobili  Layup (14 PTS) (Parker 8 AST),72 - 52,-20
+0020700150,286,6,2,3,8:35 PM,6:03,,,Oberto S.FOUL (P3.T1),,
+0020700150,287,3,11,3,8:35 PM,6:03,Smith Free Throw 1 of 2 (10 PTS),,,72 - 53,-19
+0020700150,288,8,0,3,8:35 PM,6:03,SUB: Childress FOR Williams,,,,
+0020700150,289,3,12,3,8:35 PM,6:03,Smith Free Throw 2 of 2 (11 PTS),,,72 - 54,-18
+0020700150,290,1,1,3,8:36 PM,5:43,,,Parker 19' Jump Shot (25 PTS),74 - 54,-20
+0020700150,291,1,1,3,8:36 PM,5:23,Horford 18' Jump Shot (5 PTS) (Johnson 7 AST),,,74 - 56,-18
+0020700150,292,1,5,3,8:36 PM,5:04,,,Oberto  Layup (10 PTS) (Duncan 6 AST),76 - 56,-20
+0020700150,293,2,42,3,8:37 PM,4:46,MISS Childress  Driving Layup,,Finley BLOCK (2 BLK),,
+0020700150,294,4,0,3,8:37 PM,4:44,,,Oberto REBOUND (Off:2 Def:5),,
+0020700150,295,1,42,3,8:37 PM,4:35,,,Parker  Driving Layup (27 PTS),78 - 56,-22
+0020700150,296,9,1,3,8:37 PM,4:32,HAWKS Timeout: Regular (Full 4 Short 0),,,,
+0020700150,297,8,0,3,8:39 PM,4:32,SUB: West FOR Johnson,,,,
+0020700150,298,8,0,3,8:40 PM,4:32,,,SUB: Vaughn FOR Parker,,
+0020700150,299,8,0,3,8:40 PM,4:32,,,SUB: Bonner FOR Oberto,,
+0020700150,300,1,1,3,8:40 PM,4:18,Horford 11' Jump Shot (7 PTS),,,78 - 58,-20
+0020700150,301,2,1,3,8:40 PM,3:57,,,MISS Finley 25' 3PT Jump Shot,,
+0020700150,302,4,0,3,8:40 PM,3:55,Childress REBOUND (Off:4 Def:1),,,,
+0020700150,303,2,5,3,8:41 PM,3:44,MISS Horford  Layup,,Duncan BLOCK (1 BLK),,
+0020700150,304,4,0,3,8:41 PM,3:43,Horford REBOUND (Off:1 Def:4),,,,
+0020700150,448,2,40,3,8:41 PM,3:43,MISS Horford  Layup,,Duncan BLOCK (2 BLK),,
+0020700150,305,10,0,3,8:41 PM,3:43,Jump Ball Horford vs. Duncan: Tip to,,,,
+0020700150,449,4,0,3,8:41 PM,3:43,HAWKS Rebound,,,,
+0020700150,306,7,4,3,8:41 PM,3:43,,,Duncan Violation:Jump Ball,,
+0020700150,307,2,5,3,8:42 PM,3:32,MISS Smith  Layup,,,,
+0020700150,308,4,0,3,8:42 PM,3:32,,,Spurs Rebound,,
+0020700150,309,6,3,3,8:42 PM,3:32,Smith L.B.FOUL (P4.T4),,,,
+0020700150,310,2,1,3,8:42 PM,3:11,,,MISS Vaughn 19' Jump Shot,,
+0020700150,311,4,0,3,8:42 PM,3:10,Johnson REBOUND (Off:1 Def:3),,,,
+0020700150,312,5,2,3,8:42 PM,2:59,Johnson Lost Ball Turnover (P2.T8),,Ginobili STEAL (1 STL),,
+0020700150,313,6,1,3,8:42 PM,2:56,West P.FOUL (P2.PN),,,,
+0020700150,314,8,0,3,8:42 PM,2:56,SUB: Williams FOR Smith,,,,
+0020700150,315,8,0,3,8:43 PM,2:56,,,SUB: Udoka FOR Finley,,
+0020700150,316,8,0,3,8:43 PM,2:56,,,SUB: Elson FOR Duncan,,
+0020700150,318,3,11,3,8:43 PM,2:56,,,Vaughn Free Throw 1 of 2 (1 PTS),79 - 58,-21
+0020700150,320,8,0,3,8:43 PM,2:56,SUB: Johnson FOR Johnson,,,,
+0020700150,321,3,12,3,8:43 PM,2:56,,,Vaughn Free Throw 2 of 2 (2 PTS),80 - 58,-22
+0020700150,322,2,1,3,8:44 PM,2:40,MISS Childress 17' Jump Shot,,,,
+0020700150,323,4,0,3,8:44 PM,2:38,West REBOUND (Off:2 Def:0),,,,
+0020700150,324,2,1,3,8:44 PM,2:26,MISS Johnson 26' 3PT Jump Shot,,,,
+0020700150,325,4,0,3,8:44 PM,2:25,,,Ginobili REBOUND (Off:1 Def:3),,
+0020700150,326,6,1,3,8:44 PM,2:15,West P.FOUL (P3.PN),,,,
+0020700150,327,3,11,3,8:45 PM,2:15,,,Ginobili Free Throw 1 of 2 (15 PTS),81 - 58,-23
+0020700150,328,3,12,3,8:45 PM,2:15,,,Ginobili Free Throw 2 of 2 (16 PTS),82 - 58,-24
+0020700150,329,6,2,3,8:45 PM,2:01,,,Udoka S.FOUL (P1.T2),,
+0020700150,330,3,11,3,8:45 PM,2:01,MISS West Free Throw 1 of 2,,,,
+0020700150,331,4,1,3,8:45 PM,2:01,HAWKS Rebound,,,,
+0020700150,332,3,12,3,8:46 PM,2:01,West Free Throw 2 of 2 (1 PTS),,,82 - 59,-23
+0020700150,333,6,1,3,8:46 PM,1:46,West P.FOUL (P4.PN),,,,
+0020700150,334,3,11,3,8:46 PM,1:46,,,MISS Ginobili Free Throw 1 of 2,,
+0020700150,335,4,1,3,8:46 PM,1:46,,,Spurs Rebound,,
+0020700150,336,3,12,3,8:47 PM,1:46,,,Ginobili Free Throw 2 of 2 (17 PTS),83 - 59,-24
+0020700150,338,5,1,3,8:47 PM,1:33,Horford Bad Pass Turnover (P1.T9),,Ginobili STEAL (2 STL),,
+0020700150,339,5,2,3,8:47 PM,1:29,West STEAL (1 STL),,Ginobili Lost Ball Turnover (P1.T9),,
+0020700150,340,1,41,3,8:47 PM,1:23,West  Running Layup (3 PTS),,,83 - 61,-22
+0020700150,341,5,1,3,8:47 PM,1:08,West STEAL (2 STL),,Udoka Bad Pass Turnover (P1.T10),,
+0020700150,342,1,50,3,8:48 PM,1:04,West  Running Dunk (5 PTS),,,83 - 63,-20
+0020700150,343,9,1,3,8:48 PM,1:03,,,Spurs Timeout: Regular (Reg.3 Short 0),,
+0020700150,345,2,1,3,8:51 PM,0:42,,,MISS Elson 15' Jump Shot,,
+0020700150,346,4,0,3,8:51 PM,0:40,West REBOUND (Off:2 Def:1),,,,
+0020700150,347,1,1,3,8:51 PM,0:27,Horford 6' Jump Shot (9 PTS) (Williams 1 AST),,,83 - 65,-18
+0020700150,348,2,1,3,8:52 PM,0:04,,,MISS Vaughn 21' Jump Shot,,
+0020700150,349,4,0,3,8:52 PM,0:02,Williams REBOUND (Off:1 Def:2),,,,
+0020700150,355,2,45,3,8:53 PM,0:00,MISS Johnson 31' 3PT Jump Shot,,,,
+0020700150,352,4,0,3,8:53 PM,0:00,HAWKS Rebound,,,,
+0020700150,353,13,0,3,8:53 PM,0:00,,,,83 - 65,-18
+0020700150,356,12,0,4,8:55 PM,12:00,,,,83 - 65,-18
+0020700150,357,5,2,4,8:56 PM,11:43,Williams STEAL (3 STL),,Ginobili Lost Ball Turnover (P2.T11),,
+0020700150,358,1,42,4,8:56 PM,11:38,Childress  Driving Layup (9 PTS) (Williams 2 AST),,,83 - 67,-16
+0020700150,359,6,1,4,8:56 PM,11:27,West P.FOUL (P5.T1),,,,
+0020700150,360,6,1,4,8:56 PM,11:16,West P.FOUL (P6.T2),,,,
+0020700150,361,8,0,4,8:57 PM,11:16,SUB: Johnson FOR West,,,,
+0020700150,362,5,41,4,8:57 PM,11:12,,,Ginobili Poss Lost Ball Turnover (P3.T12),,
+0020700150,363,1,1,4,8:57 PM,10:53,Williams 20' Jump Shot (14 PTS) (Horford 1 AST),,,83 - 69,-14
+0020700150,364,2,1,4,8:58 PM,10:25,,,MISS Udoka 18' Jump Shot,,
+0020700150,365,4,0,4,8:58 PM,10:24,Williams REBOUND (Off:1 Def:3),,,,
+0020700150,366,8,0,4,8:58 PM,10:22,,,SUB: Parker FOR Vaughn,,
+0020700150,367,2,42,4,8:58 PM,10:11,MISS Horford  Driving Layup,,,,
+0020700150,368,4,0,4,8:58 PM,10:09,,,Udoka REBOUND (Off:0 Def:1),,
+0020700150,369,2,1,4,8:59 PM,9:44,,,MISS Udoka 25' 3PT Jump Shot,,
+0020700150,370,4,0,4,8:59 PM,9:43,Williams REBOUND (Off:1 Def:4),,,,
+0020700150,371,5,2,4,8:59 PM,9:41,Williams Lost Ball Turnover (P1.T10),,Elson STEAL (1 STL),,
+0020700150,372,2,42,4,8:59 PM,9:21,Williams BLOCK (2 BLK),,MISS Parker  Driving Layup,,
+0020700150,373,4,0,4,8:59 PM,9:19,Johnson REBOUND (Off:1 Def:4),,,,
+0020700150,374,1,46,4,8:59 PM,9:15,Johnson 8' Running Jump Shot (12 PTS),,,83 - 71,-12
+0020700150,375,2,42,4,9:00 PM,8:47,Horford BLOCK (1 BLK),,MISS Ginobili  Driving Layup,,
+0020700150,376,4,0,4,9:00 PM,8:45,Williams REBOUND (Off:1 Def:5),,,,
+0020700150,377,2,1,4,9:00 PM,8:39,MISS Williams 21' Jump Shot,,,,
+0020700150,378,4,0,4,9:00 PM,8:37,,,Udoka REBOUND (Off:0 Def:2),,
+0020700150,379,2,1,4,9:00 PM,8:15,,,MISS Udoka 24' 3PT Jump Shot,,
+0020700150,380,4,0,4,9:00 PM,8:14,Horford REBOUND (Off:1 Def:5),,,,
+0020700150,381,2,7,4,9:00 PM,8:10,MISS Johnson  Dunk,,,,
+0020700150,382,4,0,4,9:00 PM,8:08,,,Spurs Rebound,,
+0020700150,383,9,4,4,9:01 PM,8:08,,,,,
+0020700150,384,8,0,4,9:03 PM,8:08,,,SUB: Bowen FOR Ginobili,,
+0020700150,385,8,0,4,9:03 PM,8:08,,,SUB: Duncan FOR Bonner,,
+0020700150,386,8,0,4,9:03 PM,8:08,,,SUB: Oberto FOR Elson,,
+0020700150,387,8,0,4,9:03 PM,8:08,,,SUB: Finley FOR Udoka,,
+0020700150,388,1,66,4,9:03 PM,7:42,,,Parker 13' Jump Bank Shot (29 PTS),85 - 71,-14
+0020700150,389,1,46,4,9:04 PM,7:19,Johnson 10' Running Jump Shot (14 PTS),,,85 - 73,-12
+0020700150,390,2,1,4,9:04 PM,6:57,,,MISS Parker 20' Jump Shot,,
+0020700150,391,4,0,4,9:04 PM,6:56,Horford REBOUND (Off:1 Def:6),,,,
+0020700150,392,1,47,4,9:04 PM,6:44,Johnson 9' Turnaround Jump Shot (16 PTS),,,85 - 75,-10
+0020700150,393,7,5,4,9:05 PM,6:26,Childress Violation:Kicked Ball,,,,
+0020700150,394,8,0,4,9:05 PM,6:26,SUB: Smith FOR Johnson,,,,
+0020700150,395,1,1,4,9:05 PM,6:19,,,Finley 21' Jump Shot (10 PTS) (Parker 9 AST),87 - 75,-12
+0020700150,396,5,1,4,9:05 PM,6:03,Childress Bad Pass Turnover (P1.T11),,Bowen STEAL (1 STL),,
+0020700150,397,1,42,4,9:06 PM,5:49,,,Parker  Driving Layup (31 PTS),89 - 75,-14
+0020700150,398,9,1,4,9:06 PM,5:47,HAWKS Timeout: Regular (Full 5 Short 0),,,,
+0020700150,399,1,47,4,9:09 PM,5:25,Johnson 19' Turnaround Jump Shot (18 PTS),,,89 - 77,-12
+0020700150,400,1,5,4,9:10 PM,5:06,,,Duncan  Layup (11 PTS),91 - 77,-14
+0020700150,401,2,5,4,9:10 PM,4:46,MISS Horford  Layup,,,,
+0020700150,402,4,0,4,9:10 PM,4:44,Horford REBOUND (Off:2 Def:6),,,,
+0020700150,403,1,72,4,9:10 PM,4:42,Horford  Putback Layup (11 PTS),,,91 - 79,-12
+0020700150,404,2,42,4,9:10 PM,4:18,,,MISS Bowen  Driving Layup,,
+0020700150,405,4,0,4,9:10 PM,4:16,Smith REBOUND (Off:1 Def:3),,,,
+0020700150,406,5,1,4,9:10 PM,4:13,Smith Bad Pass Turnover (P4.T12),,,,
+0020700150,407,2,1,4,9:11 PM,3:59,,,MISS Parker 18' Jump Shot,,
+0020700150,408,4,0,4,9:11 PM,3:57,,,Oberto REBOUND (Off:3 Def:5),,
+0020700150,410,5,1,4,9:11 PM,3:44,Williams STEAL (4 STL),,Duncan Bad Pass Turnover (P3.T13),,
+0020700150,411,1,50,4,9:11 PM,3:40,Williams  Running Dunk (16 PTS),,,91 - 81,-10
+0020700150,412,6,1,4,9:11 PM,3:26,Horford P.FOUL (P3.T3),,,,
+0020700150,413,8,0,4,9:12 PM,3:26,SUB: Johnson FOR Childress,,,,
+0020700150,414,9,1,4,9:12 PM,3:26,,,Spurs Timeout: Regular (Reg.4 Short 0),,
+0020700150,415,8,0,4,9:14 PM,3:26,,,SUB: Ginobili FOR Finley,,
+0020700150,416,2,1,4,9:14 PM,3:15,,,MISS Duncan 7' Jump Shot,,
+0020700150,417,4,0,4,9:14 PM,3:13,,,Oberto REBOUND (Off:4 Def:5),,
+0020700150,418,6,2,4,9:15 PM,2:56,Horford S.FOUL (P4.T4),,,,
+0020700150,419,3,11,4,9:15 PM,2:56,,,Duncan Free Throw 1 of 2 (12 PTS),92 - 81,-11
+0020700150,420,3,12,4,9:15 PM,2:56,,,Duncan Free Throw 2 of 2 (13 PTS),93 - 81,-12
+0020700150,421,2,5,4,9:16 PM,2:44,MISS Smith  Layup,,,,
+0020700150,422,4,0,4,9:16 PM,2:42,,,Parker REBOUND (Off:0 Def:2),,
+0020700150,423,1,1,4,9:16 PM,2:23,,,Ginobili 17' Jump Shot (19 PTS) (Oberto 1 AST),95 - 81,-14
+0020700150,424,2,3,4,9:17 PM,2:05,MISS Smith  Hook Shot,,,,
+0020700150,425,4,0,4,9:17 PM,2:04,,,Oberto REBOUND (Off:4 Def:6),,
+0020700150,426,2,1,4,9:17 PM,1:40,,,MISS Duncan 25' 3PT Jump Shot,,
+0020700150,427,4,0,4,9:17 PM,1:38,Smith REBOUND (Off:1 Def:4),,,,
+0020700150,428,6,1,4,9:17 PM,1:33,,,Bowen P.FOUL (P2.T1),,
+0020700150,429,8,0,4,9:17 PM,1:33,SUB: Childress FOR Williams,,,,
+0020700150,430,8,0,4,9:17 PM,1:33,,,SUB: Washington FOR Bowen,,
+0020700150,431,8,0,4,9:17 PM,1:33,,,SUB: Bonner FOR Duncan,,
+0020700150,432,8,0,4,9:17 PM,1:33,,,SUB: Udoka FOR Parker,,
+0020700150,433,8,0,4,9:17 PM,1:33,,,SUB: Elson FOR Ginobili,,
+0020700150,434,8,0,4,9:18 PM,1:33,SUB: Jones FOR Horford,,,,
+0020700150,435,8,0,4,9:18 PM,1:33,,,SUB: Vaughn FOR Oberto,,
+0020700150,436,1,1,4,9:18 PM,1:25,Johnson 18' Jump Shot (20 PTS),,,95 - 83,-12
+0020700150,437,5,1,4,9:18 PM,1:05,Smith STEAL (1 STL),,Washington Bad Pass Turnover (P1.T14),,
+0020700150,438,5,1,4,9:18 PM,0:59,Smith Bad Pass Turnover (P5.T13),,,,
+0020700150,440,5,4,4,9:19 PM,0:35,,,Elson Traveling Turnover (P2.T15),,
+0020700150,441,2,1,4,9:19 PM,0:29,MISS Johnson 29' 3PT Jump Shot,,,,
+0020700150,442,4,0,4,9:19 PM,0:27,,,Bonner REBOUND (Off:3 Def:3),,
+0020700150,444,2,1,4,9:20 PM,0:06,,,MISS Washington 28' 3PT Jump Shot,,
+0020700150,445,4,0,4,9:20 PM,0:05,HAWKS Rebound,,,,
+0020700150,446,13,0,4,9:20 PM,0:00,,,,95 - 83,-12

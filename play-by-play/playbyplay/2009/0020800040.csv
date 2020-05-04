@@ -1,0 +1,457 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020800040,1,12,0,1,6:07 PM,12:00,,,,,
+0020800040,5,10,0,1,6:07 PM,12:00,,,Jump Ball Bogut vs. Lee: Tip to Villanueva,,
+0020800040,2,6,1,1,6:07 PM,11:50,Lee P.FOUL (P1.T1),,,,
+0020800040,3,2,5,1,6:07 PM,11:45,,,MISS Villanueva  Layup,,
+0020800040,4,4,0,1,6:07 PM,11:43,Richardson REBOUND (Off:0 Def:1),,,,
+0020800040,6,5,1,1,6:08 PM,11:22,Richardson Bad Pass Turnover (P1.T1),,,,
+0020800040,7,1,3,1,6:08 PM,11:05,,,Bogut  Hook Shot (2 PTS),2 - 0,-2
+0020800040,8,2,1,1,6:08 PM,10:49,MISS Randolph 22' Jump Shot,,,,
+0020800040,9,4,0,1,6:09 PM,10:47,,,Sessions REBOUND (Off:0 Def:1),,
+0020800040,10,1,1,1,6:09 PM,10:40,,,Jefferson 20' Jump Shot (2 PTS),4 - 0,-4
+0020800040,11,1,5,1,6:09 PM,10:25,Randolph  Layup (2 PTS),,,4 - 2,-2
+0020800040,12,2,5,1,6:10 PM,10:03,,,MISS Bogut  Layup,,
+0020800040,13,4,0,1,6:10 PM,10:02,,,Villanueva REBOUND (Off:1 Def:0),,
+0020800040,14,1,4,1,6:10 PM,10:00,,,Villanueva  Tip Shot (2 PTS),6 - 2,-4
+0020800040,15,1,1,1,6:10 PM,9:42,Duhon 24' 3PT Jump Shot (3 PTS) (Randolph 1 AST),,,6 - 5,-1
+0020800040,16,2,1,1,6:10 PM,9:18,,,MISS Bogut 8' Jump Shot,,
+0020800040,17,4,0,1,6:10 PM,9:16,Randolph REBOUND (Off:0 Def:1),,,,
+0020800040,18,2,5,1,6:10 PM,9:08,MISS Crawford  Layup,,Bogut BLOCK (1 BLK),,
+0020800040,19,4,0,1,6:10 PM,9:06,,,Redd REBOUND (Off:0 Def:1),,
+0020800040,20,1,42,1,6:11 PM,8:59,,,Sessions  Driving Layup (2 PTS),8 - 5,-3
+0020800040,21,1,1,1,6:11 PM,8:38,Richardson 16' Jump Shot (2 PTS) (Duhon 1 AST),,,8 - 7,-1
+0020800040,22,1,3,1,6:11 PM,8:13,,,Bogut 9' Hook Shot (4 PTS),10 - 7,-3
+0020800040,23,6,1,1,6:12 PM,7:59,,,Villanueva P.FOUL (P1.T1),,
+0020800040,24,2,1,1,6:12 PM,7:47,MISS Richardson 26' 3PT Jump Shot,,,,
+0020800040,25,4,0,1,6:12 PM,7:45,,,Villanueva REBOUND (Off:1 Def:1),,
+0020800040,26,2,1,1,6:12 PM,7:31,,,MISS Villanueva 25' 3PT Jump Shot,,
+0020800040,27,4,0,1,6:12 PM,7:29,Richardson REBOUND (Off:0 Def:2),,,,
+0020800040,28,5,1,1,6:13 PM,7:21,Duhon Bad Pass Turnover (P1.T2),,Villanueva STEAL (1 STL),,
+0020800040,29,1,1,1,6:13 PM,7:14,,,Sessions 18' Jump Shot (4 PTS) (Jefferson 1 AST),12 - 7,-5
+0020800040,30,2,1,1,6:13 PM,6:55,MISS Randolph 14' Jump Shot,,,,
+0020800040,31,4,0,1,6:13 PM,6:53,,,Bogut REBOUND (Off:0 Def:1),,
+0020800040,32,1,65,1,6:13 PM,6:43,,,Villanueva 13' Jump Hook Shot (4 PTS),14 - 7,-7
+0020800040,33,6,4,1,6:13 PM,6:30,Duhon OFF.Foul (P1),,,,
+0020800040,34,5,5,1,6:13 PM,6:30,Duhon Foul Turnover (P2.T3),,,,
+0020800040,35,8,0,1,6:14 PM,6:30,SUB: Chandler FOR Randolph,,,,
+0020800040,36,8,0,1,6:14 PM,6:30,SUB: Robinson FOR Richardson,,,,
+0020800040,37,6,1,1,6:14 PM,6:18,Lee P.FOUL (P2.T2),,,,
+0020800040,38,8,0,1,6:14 PM,6:18,SUB: Rose FOR Lee,,,,
+0020800040,39,1,1,1,6:15 PM,6:04,,,Villanueva 17' Jump Shot (6 PTS) (Jefferson 2 AST),16 - 7,-9
+0020800040,40,2,1,1,6:15 PM,5:47,MISS Crawford 26' 3PT Jump Shot,,,,
+0020800040,41,4,0,1,6:15 PM,5:45,,,Villanueva REBOUND (Off:1 Def:2),,
+0020800040,42,2,63,1,6:15 PM,5:38,,,MISS Jefferson 18' Fadeaway Jumper,,
+0020800040,43,4,0,1,6:15 PM,5:37,Rose REBOUND (Off:0 Def:1),,,,
+0020800040,44,6,2,1,6:15 PM,5:23,,,Bogut S.FOUL (P1.T2),,
+0020800040,45,9,1,1,6:16 PM,5:23,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0020800040,48,3,11,1,6:18 PM,5:23,Rose Free Throw 1 of 2 (1 PTS),,,16 - 8,-8
+0020800040,50,3,12,1,6:18 PM,5:23,Rose Free Throw 2 of 2 (2 PTS),,,16 - 9,-7
+0020800040,52,2,1,1,6:19 PM,5:06,,,MISS Sessions 18' Jump Shot,,
+0020800040,53,4,0,1,6:19 PM,5:04,Rose REBOUND (Off:0 Def:2),,,,
+0020800040,55,6,17,1,6:19 PM,4:53,,,Bucks T.Foul (Def. 3 Sec Bogut ),,
+0020800040,57,3,16,1,6:20 PM,4:53,Crawford Free Throw Technical (1 PTS),,,16 - 10,-6
+0020800040,59,1,42,1,6:20 PM,4:45,Chandler  Driving Layup (2 PTS),,,16 - 12,-4
+0020800040,60,6,2,1,6:20 PM,4:45,,,Villanueva S.FOUL (P2.T3),,
+0020800040,72,8,0,1,6:20 PM,4:45,,,SUB: Mbah a Moute FOR Villanueva,,
+0020800040,61,3,10,1,6:20 PM,4:45,Chandler Free Throw 1 of 1 (3 PTS),,,16 - 13,-3
+0020800040,63,6,17,1,6:21 PM,4:36,KNICKS T.Foul (Def. 3 Sec Chandler ),,,,
+0020800040,64,3,16,1,6:21 PM,4:36,,,Redd Free Throw Technical (1 PTS),17 - 13,-4
+0020800040,66,2,1,1,6:21 PM,4:20,,,MISS Jefferson 16' Jump Shot,,
+0020800040,67,4,0,1,6:21 PM,4:18,Chandler REBOUND (Off:0 Def:1),,,,
+0020800040,68,2,1,1,6:22 PM,4:06,MISS Crawford 25' 3PT Jump Shot,,,,
+0020800040,69,4,0,1,6:22 PM,4:04,,,Mbah a Moute REBOUND (Off:0 Def:1),,
+0020800040,70,1,5,1,6:22 PM,3:52,,,Bogut  Layup (6 PTS) (Sessions 1 AST),19 - 13,-6
+0020800040,71,6,2,1,6:22 PM,3:52,Robinson S.FOUL (P1.T3),,,,
+0020800040,73,8,0,1,6:22 PM,3:52,SUB: Richardson FOR Crawford,,,,
+0020800040,74,3,10,1,6:22 PM,3:52,,,MISS Bogut Free Throw 1 of 1,,
+0020800040,76,4,0,1,6:22 PM,3:51,Chandler REBOUND (Off:0 Def:2),,,,
+0020800040,77,2,1,1,6:23 PM,3:34,MISS Duhon 24' 3PT Jump Shot,,,,
+0020800040,78,4,0,1,6:23 PM,3:32,,,Bogut REBOUND (Off:0 Def:2),,
+0020800040,79,2,1,1,6:23 PM,3:13,,,MISS Jefferson 26' 3PT Jump Shot,,
+0020800040,80,4,0,1,6:23 PM,3:11,Robinson REBOUND (Off:0 Def:1),,,,
+0020800040,81,5,2,1,6:23 PM,3:02,Robinson Lost Ball Turnover (P1.T4),,Bogut STEAL (1 STL),,
+0020800040,85,6,1,1,6:24 PM,3:01,Robinson P.FOUL (P2.T4),,,,
+0020800040,86,8,0,1,6:24 PM,3:01,SUB: Collins FOR Robinson,,,,
+0020800040,87,8,0,1,6:24 PM,3:01,,,SUB: Alexander FOR Jefferson,,
+0020800040,88,1,1,1,6:24 PM,2:45,,,Sessions 14' Jump Shot (6 PTS),21 - 13,-8
+0020800040,89,1,1,1,6:24 PM,2:26,Richardson 26' 3PT Jump Shot (5 PTS) (Chandler 1 AST),,,21 - 16,-5
+0020800040,90,9,1,1,6:25 PM,2:18,,,Bucks Timeout: Regular (Reg.1 Short 0),,
+0020800040,92,6,2,1,6:28 PM,2:10,Rose S.FOUL (P1.PN),,,,
+0020800040,93,3,11,1,6:28 PM,2:10,,,MISS Bogut Free Throw 1 of 2,,
+0020800040,94,4,1,1,6:28 PM,2:10,,,Bucks Rebound,,
+0020800040,95,3,12,1,6:28 PM,2:10,,,MISS Bogut Free Throw 2 of 2,,
+0020800040,97,4,0,1,6:28 PM,2:09,Rose REBOUND (Off:0 Def:3),,,,
+0020800040,98,6,2,1,6:28 PM,2:00,,,Alexander S.FOUL (P1.T4),,
+0020800040,99,3,11,1,6:29 PM,2:00,Collins Free Throw 1 of 2 (1 PTS),,,21 - 17,-4
+0020800040,101,3,12,1,6:29 PM,2:00,Collins Free Throw 2 of 2 (2 PTS),,,21 - 18,-3
+0020800040,103,5,2,1,6:29 PM,1:41,Chandler STEAL (1 STL),,Bogut Lost Ball Turnover (P1.T1),,
+0020800040,104,2,1,1,6:29 PM,1:33,MISS Chandler 26' 3PT Jump Shot,,,,
+0020800040,105,4,0,1,6:30 PM,1:31,,,Mbah a Moute REBOUND (Off:0 Def:2),,
+0020800040,106,1,5,1,6:30 PM,1:21,,,Bogut  Layup (8 PTS) (Sessions 2 AST),23 - 18,-5
+0020800040,107,2,1,1,6:30 PM,1:10,MISS Collins 24' 3PT Jump Shot,,,,
+0020800040,108,4,0,1,6:30 PM,1:08,,,Alexander REBOUND (Off:0 Def:1),,
+0020800040,109,6,1,1,6:30 PM,1:05,Duhon P.FOUL (P2.PN),,,,
+0020800040,110,8,0,1,6:30 PM,1:05,SUB: Randolph FOR Rose,,,,
+0020800040,111,8,0,1,6:30 PM,1:05,,,SUB: Lue FOR Sessions,,
+0020800040,112,3,11,1,6:30 PM,1:05,,,Redd Free Throw 1 of 2 (2 PTS),24 - 18,-6
+0020800040,114,8,0,1,6:31 PM,1:05,SUB: Robinson FOR Duhon,,,,
+0020800040,115,3,12,1,6:31 PM,1:05,,,Redd Free Throw 2 of 2 (3 PTS),25 - 18,-7
+0020800040,117,1,1,1,6:31 PM,0:54,Robinson  3PT Jump Shot (3 PTS) (Collins 1 AST),,,25 - 21,-4
+0020800040,118,2,42,1,6:31 PM,0:40,,,MISS Redd  Driving Layup,,
+0020800040,119,4,0,1,6:32 PM,0:40,,,Bucks Rebound,,
+0020800040,120,6,3,1,6:32 PM,0:40,Randolph L.B.FOUL (P1.PN),,,,
+0020800040,121,3,11,1,6:32 PM,0:40,,,Mbah a Moute Free Throw 1 of 2 (1 PTS),26 - 21,-5
+0020800040,123,3,12,1,6:32 PM,0:40,,,Mbah a Moute Free Throw 2 of 2 (2 PTS),27 - 21,-6
+0020800040,125,6,4,1,6:32 PM,0:30,Chandler OFF.Foul (P1),,,,
+0020800040,126,5,5,1,6:32 PM,0:30,Chandler Foul Turnover (P1.T5),,,,
+0020800040,127,5,2,1,6:33 PM,0:08,Robinson STEAL (1 STL),,Lue Lost Ball Turnover (P1.T2),,
+0020800040,128,1,42,1,6:33 PM,0:05,Robinson  Driving Layup (5 PTS),,,27 - 23,-4
+0020800040,129,2,1,1,6:33 PM,0:00,,,MISS Alexander 26' 3PT Jump Shot,,
+0020800040,130,4,0,1,6:33 PM,0:00,,,Bucks Rebound,,
+0020800040,131,13,0,1,6:34 PM,0:00,,,,27 - 23,-4
+0020800040,134,12,0,2,6:37 PM,12:00,,,,27 - 23,-4
+0020800040,135,2,1,2,6:37 PM,11:37,MISS Chandler  3PT Jump Shot,,,,
+0020800040,136,4,0,2,6:37 PM,11:35,Randolph REBOUND (Off:1 Def:1),,,,
+0020800040,137,6,2,2,6:37 PM,11:34,,,Gadzuric S.FOUL (P1.T1),,
+0020800040,148,8,0,2,6:37 PM,11:34,SUB: Lee FOR Collins,,,,
+0020800040,138,3,11,2,6:37 PM,11:34,MISS Randolph Free Throw 1 of 2,,,,
+0020800040,139,4,1,2,6:37 PM,11:34,KNICKS Rebound,,,,
+0020800040,140,3,12,2,6:38 PM,11:34,MISS Randolph Free Throw 2 of 2,,,,
+0020800040,142,4,0,2,6:38 PM,11:32,,,Alexander REBOUND (Off:0 Def:2),,
+0020800040,143,2,1,2,6:38 PM,11:13,,,MISS Lue 21' Jump Shot,,
+0020800040,144,4,0,2,6:38 PM,11:11,Randolph REBOUND (Off:1 Def:2),,,,
+0020800040,145,1,1,2,6:39 PM,10:59,Robinson 26' 3PT Jump Shot (8 PTS) (Lee 1 AST),,,27 - 26,-1
+0020800040,146,1,1,2,6:39 PM,10:40,,,Mbah a Moute 17' Jump Shot (4 PTS) (Gadzuric 1 AST),29 - 26,-3
+0020800040,147,6,2,2,6:39 PM,10:32,,,Gadzuric S.FOUL (P2.T2),,
+0020800040,149,3,11,2,6:40 PM,10:32,Lee Free Throw 1 of 2 (1 PTS),,,29 - 27,-2
+0020800040,151,8,0,2,6:40 PM,10:32,,,SUB: Bell FOR Alexander,,
+0020800040,152,3,12,2,6:40 PM,10:32,MISS Lee Free Throw 2 of 2,,,,
+0020800040,154,4,0,2,6:40 PM,10:31,,,Mbah a Moute REBOUND (Off:0 Def:3),,
+0020800040,155,1,46,2,6:40 PM,10:08,,,Jefferson 10' Running Jump Shot (4 PTS),31 - 27,-4
+0020800040,156,2,1,2,6:40 PM,9:55,MISS Randolph 20' Jump Shot,,,,
+0020800040,157,4,0,2,6:41 PM,9:53,,,Gadzuric REBOUND (Off:0 Def:1),,
+0020800040,158,5,1,2,6:41 PM,9:33,Chandler STEAL (2 STL),,Bell Bad Pass Turnover (P1.T3),,
+0020800040,159,2,1,2,6:41 PM,9:26,MISS Chandler 9' Jump Shot,,,,
+0020800040,160,4,0,2,6:41 PM,9:25,Chandler REBOUND (Off:1 Def:2),,,,
+0020800040,161,2,1,2,6:41 PM,9:22,MISS Robinson 24' 3PT Jump Shot,,,,
+0020800040,162,4,0,2,6:41 PM,9:21,KNICKS Rebound,,,,
+0020800040,163,6,3,2,6:41 PM,9:21,,,Mbah a Moute L.B.FOUL (P1.T3),,
+0020800040,164,5,1,2,6:42 PM,9:13,Lee Bad Pass Turnover (P1.T6),,Mbah a Moute STEAL (1 STL),,
+0020800040,165,2,1,2,6:42 PM,8:58,,,MISS Bell 20' Jump Shot,,
+0020800040,166,4,0,2,6:42 PM,8:56,Randolph REBOUND (Off:1 Def:3),,,,
+0020800040,167,1,79,2,6:42 PM,8:47,Richardson 20' Pullup Jump Shot (7 PTS) (Robinson 1 AST),,,31 - 29,-2
+0020800040,168,2,1,2,6:42 PM,8:31,,,MISS Gadzuric 18' Jump Shot,,
+0020800040,169,4,0,2,6:42 PM,8:29,Lee REBOUND (Off:0 Def:1),,,,
+0020800040,170,1,63,2,6:42 PM,8:18,Randolph 15' Fadeaway Jumper (4 PTS) (Chandler 2 AST),,,31 - 31,TIE
+0020800040,171,2,1,2,6:43 PM,7:56,,,MISS Lue 7' Jump Shot,,
+0020800040,172,4,0,2,6:43 PM,7:55,Randolph REBOUND (Off:1 Def:4),,,,
+0020800040,173,5,1,2,6:43 PM,7:46,Robinson Bad Pass Turnover (P2.T7),,,,
+0020800040,174,9,4,2,6:43 PM,7:46,,,,,
+0020800040,176,8,0,2,6:46 PM,7:46,SUB: Crawford FOR Chandler,,,,
+0020800040,177,8,0,2,6:46 PM,7:46,,,SUB: Sessions FOR Mbah a Moute,,
+0020800040,178,8,0,2,6:46 PM,7:46,,,SUB: Villanueva FOR Lue,,
+0020800040,179,8,0,2,6:46 PM,7:46,,,SUB: Bogut FOR Gadzuric,,
+0020800040,180,1,1,2,6:46 PM,7:35,,,Villanueva 19' Jump Shot (8 PTS) (Sessions 3 AST),33 - 31,-2
+0020800040,181,6,2,2,6:46 PM,7:27,,,Bogut S.FOUL (P2.T4),,
+0020800040,182,3,11,2,6:46 PM,7:27,Robinson Free Throw 1 of 2 (9 PTS),,,33 - 32,-1
+0020800040,184,3,12,2,6:46 PM,7:27,Robinson Free Throw 2 of 2 (10 PTS),,,33 - 33,TIE
+0020800040,186,1,5,2,6:47 PM,7:12,,,Bogut  Layup (10 PTS) (Jefferson 3 AST),35 - 33,-2
+0020800040,187,1,5,2,6:47 PM,7:01,Randolph  Layup (6 PTS) (Robinson 2 AST),,,35 - 35,TIE
+0020800040,188,6,1,2,6:48 PM,6:45,Lee P.FOUL (P3.T1),,,,
+0020800040,189,8,0,2,6:48 PM,6:45,SUB: Duhon FOR Lee,,,,
+0020800040,190,2,5,2,6:48 PM,6:33,,,MISS Jefferson  Layup,,
+0020800040,191,4,0,2,6:48 PM,6:31,,,Jefferson REBOUND (Off:1 Def:0),,
+0020800040,192,2,5,2,6:48 PM,6:26,,,MISS Villanueva  Layup,,
+0020800040,193,4,0,2,6:48 PM,6:24,Randolph REBOUND (Off:1 Def:5),,,,
+0020800040,194,1,1,2,6:48 PM,6:16,Richardson 22' Jump Shot (9 PTS),,,35 - 37,2
+0020800040,195,2,5,2,6:49 PM,5:59,,,MISS Bogut  Layup,,
+0020800040,196,4,0,2,6:49 PM,5:58,Richardson REBOUND (Off:0 Def:3),,,,
+0020800040,197,2,1,2,6:49 PM,5:52,MISS Robinson 19' Jump Shot,,,,
+0020800040,198,4,0,2,6:49 PM,5:50,,,Bell REBOUND (Off:0 Def:1),,
+0020800040,199,9,1,2,6:49 PM,5:44,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0020800040,201,2,63,2,6:52 PM,5:34,,,MISS Villanueva 12' Fadeaway Jumper,,
+0020800040,202,4,0,2,6:52 PM,5:32,Randolph REBOUND (Off:1 Def:6),,,,
+0020800040,203,5,1,2,6:52 PM,5:26,Robinson Bad Pass Turnover (P3.T8),,Sessions STEAL (1 STL),,
+0020800040,204,1,42,2,6:52 PM,5:22,,,Sessions  Driving Layup (8 PTS),37 - 37,TIE
+0020800040,205,2,1,2,6:52 PM,5:07,MISS Duhon 26' 3PT Jump Shot,,,,
+0020800040,206,4,0,2,6:52 PM,5:05,Robinson REBOUND (Off:1 Def:1),,,,
+0020800040,207,2,4,2,6:52 PM,5:04,MISS Robinson  Tip Shot,,,,
+0020800040,208,4,0,2,6:52 PM,5:02,,,Bogut REBOUND (Off:0 Def:3),,
+0020800040,209,1,44,2,6:53 PM,4:59,,,Villanueva  Reverse Layup (10 PTS) (Jefferson 4 AST),39 - 37,-2
+0020800040,210,2,1,2,6:53 PM,4:43,MISS Richardson 27' 3PT Jump Shot,,,,
+0020800040,211,4,0,2,6:53 PM,4:42,KNICKS Rebound,,,,
+0020800040,212,8,0,2,6:53 PM,4:42,SUB: Chandler FOR Robinson,,,,
+0020800040,213,8,0,2,6:53 PM,4:42,,,SUB: Redd FOR Bell,,
+0020800040,214,2,1,2,6:54 PM,4:35,MISS Chandler 21' Jump Shot,,,,
+0020800040,215,4,0,2,6:54 PM,4:33,,,Sessions REBOUND (Off:0 Def:2),,
+0020800040,217,5,15,2,6:55 PM,4:22,,,Villanueva Offensive Goaltending Turnover (P1.T4),,
+0020800040,219,2,5,2,6:55 PM,4:12,MISS Duhon  Layup,,Bogut BLOCK (2 BLK),,
+0020800040,220,4,0,2,6:55 PM,4:09,,,Bogut REBOUND (Off:0 Def:4),,
+0020800040,221,2,1,2,6:55 PM,4:05,,,MISS Jefferson 16' Jump Shot,,
+0020800040,222,4,0,2,6:55 PM,4:03,,,Villanueva REBOUND (Off:2 Def:2),,
+0020800040,223,2,1,2,6:55 PM,4:02,,,MISS Villanueva 18' Jump Shot,,
+0020800040,224,4,0,2,6:55 PM,4:00,Randolph REBOUND (Off:1 Def:7),,,,
+0020800040,225,2,1,2,6:55 PM,3:51,MISS Richardson 25' 3PT Jump Shot,,,,
+0020800040,226,4,0,2,6:55 PM,3:49,,,Villanueva REBOUND (Off:2 Def:3),,
+0020800040,227,1,1,2,6:55 PM,3:44,,,Redd 26' 3PT Jump Shot (6 PTS),42 - 37,-5
+0020800040,228,9,2,2,6:55 PM,3:37,KNICKS Timeout: Short (Full 2 Short 1),,,,
+0020800040,230,8,0,2,6:56 PM,3:37,SUB: Roberson FOR Richardson,,,,
+0020800040,231,8,0,2,6:57 PM,3:37,,,SUB: Mbah a Moute FOR Bogut,,
+0020800040,232,1,1,2,6:57 PM,3:30,Roberson 26' 3PT Jump Shot (3 PTS) (Crawford 1 AST),,,42 - 40,-2
+0020800040,234,6,2,2,6:57 PM,3:08,Roberson S.FOUL (P1.T2),,,,
+0020800040,235,3,11,2,6:58 PM,3:08,,,MISS Sessions Free Throw 1 of 2,,
+0020800040,236,4,1,2,6:58 PM,3:08,,,Bucks Rebound,,
+0020800040,237,3,12,2,6:58 PM,3:08,,,Sessions Free Throw 2 of 2 (9 PTS),43 - 40,-3
+0020800040,239,2,1,2,6:58 PM,2:56,MISS Chandler 26' 3PT Jump Shot,,,,
+0020800040,240,4,0,2,6:58 PM,2:54,,,Sessions REBOUND (Off:0 Def:3),,
+0020800040,241,6,1,2,6:59 PM,2:46,Roberson P.FOUL (P2.T3),,,,
+0020800040,242,9,1,2,6:59 PM,2:46,,,Bucks Timeout: Regular (Reg.2 Short 0),,
+0020800040,243,1,42,2,7:02 PM,2:37,,,Redd  Driving Layup (8 PTS),45 - 40,-5
+0020800040,244,5,2,2,7:02 PM,2:19,Randolph Lost Ball Turnover (P1.T9),,Sessions STEAL (2 STL),,
+0020800040,245,1,5,2,7:02 PM,2:14,,,Mbah a Moute  Layup (6 PTS) (Sessions 4 AST),47 - 40,-7
+0020800040,246,6,2,2,7:02 PM,2:14,Chandler S.FOUL (P2.T4),,,,
+0020800040,247,3,10,2,7:02 PM,2:14,,,MISS Mbah a Moute Free Throw 1 of 1,,
+0020800040,249,4,0,2,7:02 PM,2:13,Randolph REBOUND (Off:1 Def:8),,,,
+0020800040,250,1,46,2,7:03 PM,1:59,Chandler 8' Running Jump Shot (5 PTS),,,47 - 42,-5
+0020800040,251,1,1,2,7:03 PM,1:44,,,Villanueva 17' Jump Shot (12 PTS) (Mbah a Moute 1 AST),49 - 42,-7
+0020800040,252,2,1,2,7:03 PM,1:18,MISS Chandler 24' 3PT Jump Shot,,,,
+0020800040,253,4,0,2,7:03 PM,1:16,,,Jefferson REBOUND (Off:1 Def:1),,
+0020800040,254,2,1,2,7:04 PM,0:59,,,MISS Redd 15' Jump Shot,,
+0020800040,255,4,0,2,7:04 PM,0:57,Randolph REBOUND (Off:1 Def:9),,,,
+0020800040,256,2,63,2,7:04 PM,0:45,MISS Randolph 11' Fadeaway Jumper,,,,
+0020800040,257,4,0,2,7:04 PM,0:43,,,Mbah a Moute REBOUND (Off:0 Def:4),,
+0020800040,258,5,2,2,7:04 PM,0:31,Chandler STEAL (3 STL),,Jefferson Lost Ball Turnover (P1.T5),,
+0020800040,259,2,1,2,7:04 PM,0:25,MISS Roberson 24' 3PT Jump Shot,,,,
+0020800040,260,4,0,2,7:04 PM,0:23,Duhon REBOUND (Off:1 Def:0),,,,
+0020800040,261,1,1,2,7:05 PM,0:03,Roberson 26' 3PT Jump Shot (6 PTS) (Crawford 2 AST),,,49 - 45,-4
+0020800040,262,2,1,2,7:05 PM,0:00,,,MISS Sessions 39' 3PT Jump Shot,,
+0020800040,263,4,0,2,7:05 PM,0:00,,,Bucks Rebound,,
+0020800040,264,13,0,2,7:05 PM,0:00,,,,49 - 45,-4
+0020800040,267,12,0,3,7:22 PM,12:00,,,,49 - 45,-4
+0020800040,268,2,1,3,7:22 PM,11:37,MISS Richardson 19' Jump Shot,,,,
+0020800040,269,4,0,3,7:22 PM,11:35,,,Redd REBOUND (Off:0 Def:2),,
+0020800040,270,2,1,3,7:22 PM,11:29,,,MISS Sessions 18' Jump Shot,,
+0020800040,271,4,0,3,7:22 PM,11:28,,,Bucks Rebound,,
+0020800040,272,1,1,3,7:23 PM,11:16,,,Villanueva 12' Jump Shot (14 PTS) (Bogut 1 AST),51 - 45,-6
+0020800040,273,2,1,3,7:23 PM,10:58,MISS Richardson 25' 3PT Jump Shot,,,,
+0020800040,274,4,0,3,7:23 PM,10:56,,,Bogut REBOUND (Off:0 Def:5),,
+0020800040,275,2,47,3,7:23 PM,10:34,,,MISS Bogut 18' Turnaround Jump Shot,,
+0020800040,276,4,0,3,7:23 PM,10:31,Richardson REBOUND (Off:0 Def:4),,,,
+0020800040,277,5,39,3,7:24 PM,10:24,Richardson Step Out of Bounds Turnover (P2.T10),,,,
+0020800040,278,8,0,3,7:24 PM,10:24,,,SUB: Mbah a Moute FOR Villanueva,,
+0020800040,279,6,2,3,7:24 PM,10:15,Richardson S.FOUL (P1.T1),,,,
+0020800040,280,3,11,3,7:24 PM,10:15,,,Jefferson Free Throw 1 of 2 (5 PTS),52 - 45,-7
+0020800040,282,3,12,3,7:25 PM,10:15,,,Jefferson Free Throw 2 of 2 (6 PTS),53 - 45,-8
+0020800040,284,5,4,3,7:25 PM,10:04,Randolph Traveling Turnover (P2.T11),,,,
+0020800040,285,1,63,3,7:25 PM,9:50,,,Jefferson 16' Fadeaway Jumper (8 PTS),55 - 45,-10
+0020800040,286,2,1,3,7:26 PM,9:24,MISS Randolph 18' Jump Shot,,,,
+0020800040,287,4,0,3,7:26 PM,9:22,,,Sessions REBOUND (Off:0 Def:4),,
+0020800040,288,1,1,3,7:26 PM,9:10,,,Jefferson 25' 3PT Jump Shot (11 PTS) (Sessions 5 AST),58 - 45,-13
+0020800040,289,9,1,3,7:26 PM,9:08,KNICKS Timeout: Regular (Full 3 Short 1),,,,
+0020800040,290,2,1,3,7:29 PM,8:51,MISS Crawford 13' Jump Shot,,,,
+0020800040,291,4,0,3,7:29 PM,8:49,,,Sessions REBOUND (Off:0 Def:5),,
+0020800040,292,1,1,3,7:29 PM,8:43,,,Redd 25' 3PT Jump Shot (11 PTS) (Jefferson 5 AST),61 - 45,-16
+0020800040,293,1,73,3,7:29 PM,8:24,Richardson  Driving Reverse Layup (11 PTS),,,61 - 47,-14
+0020800040,294,5,1,3,7:30 PM,8:06,Lee STEAL (1 STL),,Bogut Bad Pass Turnover (P2.T6),,
+0020800040,295,1,42,3,7:30 PM,7:59,Richardson  Driving Layup (13 PTS) (Duhon 2 AST),,,61 - 49,-12
+0020800040,296,2,1,3,7:30 PM,7:29,,,MISS Sessions 17' Jump Shot,,
+0020800040,297,4,0,3,7:30 PM,7:27,,,Mbah a Moute REBOUND (Off:1 Def:4),,
+0020800040,298,2,1,3,7:30 PM,7:12,,,MISS Redd 12' Jump Shot,,
+0020800040,299,4,0,3,7:31 PM,7:10,Richardson REBOUND (Off:0 Def:5),,,,
+0020800040,300,1,1,3,7:31 PM,6:53,Randolph 22' Jump Shot (8 PTS) (Crawford 3 AST),,,61 - 51,-10
+0020800040,301,6,2,3,7:31 PM,6:33,Crawford S.FOUL (P1.T2),,,,
+0020800040,302,8,0,3,7:31 PM,6:33,SUB: Robinson FOR Lee,,,,
+0020800040,304,8,0,3,7:32 PM,6:33,SUB: Chandler FOR Crawford,,,,
+0020800040,305,3,11,3,7:32 PM,6:33,,,Redd Free Throw 1 of 2 (12 PTS),62 - 51,-11
+0020800040,307,3,12,3,7:32 PM,6:33,,,Redd Free Throw 2 of 2 (13 PTS),63 - 51,-12
+0020800040,309,2,1,3,7:32 PM,6:23,MISS Richardson 26' 3PT Jump Shot,,,,
+0020800040,310,4,0,3,7:32 PM,6:21,,,Mbah a Moute REBOUND (Off:1 Def:5),,
+0020800040,311,2,1,3,7:32 PM,6:08,,,MISS Jefferson 27' 3PT Jump Shot,,
+0020800040,312,4,0,3,7:32 PM,6:07,KNICKS Rebound,,,,
+0020800040,313,6,2,3,7:33 PM,6:01,,,Mbah a Moute S.FOUL (P2.T1),,
+0020800040,314,3,11,3,7:33 PM,6:01,Richardson Free Throw 1 of 2 (14 PTS),,,63 - 52,-11
+0020800040,316,3,12,3,7:33 PM,6:01,MISS Richardson Free Throw 2 of 2,,,,
+0020800040,318,4,0,3,7:33 PM,6:00,,,Bogut REBOUND (Off:0 Def:6),,
+0020800040,319,2,1,3,7:34 PM,5:48,,,MISS Sessions 13' Jump Shot,,
+0020800040,320,4,0,3,7:34 PM,5:47,KNICKS Rebound,,,,
+0020800040,321,6,2,3,7:34 PM,5:38,,,Mbah a Moute S.FOUL (P3.T2),,
+0020800040,322,3,11,3,7:34 PM,5:38,Randolph Free Throw 1 of 2 (9 PTS),,,63 - 53,-10
+0020800040,324,3,12,3,7:34 PM,5:38,Randolph Free Throw 2 of 2 (10 PTS),,,63 - 54,-9
+0020800040,326,5,1,3,7:35 PM,5:23,Randolph STEAL (1 STL),,Sessions Bad Pass Turnover (P1.T7),,
+0020800040,327,2,1,3,7:35 PM,5:17,MISS Robinson 25' 3PT Jump Shot,,,,
+0020800040,328,4,0,3,7:35 PM,5:15,,,Bogut REBOUND (Off:0 Def:7),,
+0020800040,329,1,1,3,7:35 PM,5:00,,,Redd 24' 3PT Jump Shot (16 PTS) (Mbah a Moute 2 AST),66 - 54,-12
+0020800040,330,2,42,3,7:35 PM,4:46,MISS Randolph  Driving Layup,,,,
+0020800040,331,4,0,3,7:35 PM,4:45,,,Bucks Rebound,,
+0020800040,332,1,5,3,7:36 PM,4:30,,,Jefferson  Layup (13 PTS) (Redd 1 AST),68 - 54,-14
+0020800040,333,2,1,3,7:36 PM,4:17,MISS Richardson 25' 3PT Jump Shot,,,,
+0020800040,334,4,0,3,7:36 PM,4:15,,,Mbah a Moute REBOUND (Off:1 Def:6),,
+0020800040,335,5,1,3,7:36 PM,4:04,Randolph STEAL (2 STL),,Sessions Bad Pass Turnover (P2.T8),,
+0020800040,336,1,42,3,7:36 PM,4:00,Robinson  Driving Layup (12 PTS) (Randolph 2 AST),,,68 - 56,-12
+0020800040,337,9,1,3,7:36 PM,4:00,,,Bucks Timeout: Regular (Reg.3 Short 0),,
+0020800040,339,8,0,3,7:39 PM,4:00,SUB: Roberson FOR Richardson,,,,
+0020800040,340,8,0,3,7:39 PM,4:00,SUB: Rose FOR Randolph,,,,
+0020800040,341,2,1,3,7:39 PM,3:47,,,MISS Redd 24' Jump Shot,,
+0020800040,342,4,0,3,7:39 PM,3:45,,,Bucks Rebound,,
+0020800040,343,1,1,3,7:40 PM,3:31,,,Mbah a Moute 22' Jump Shot (8 PTS) (Sessions 6 AST),70 - 56,-14
+0020800040,344,2,1,3,7:40 PM,3:18,MISS Roberson 24' 3PT Jump Shot,,,,
+0020800040,345,4,0,3,7:40 PM,3:16,,,Mbah a Moute REBOUND (Off:1 Def:7),,
+0020800040,346,2,5,3,7:40 PM,3:05,,,MISS Sessions  Layup,,
+0020800040,347,4,0,3,7:40 PM,3:04,,,Bogut REBOUND (Off:1 Def:7),,
+0020800040,348,5,13,3,7:40 PM,3:00,,,Bogut Backcourt Turnover (P3.T9),,
+0020800040,349,6,4,3,7:41 PM,2:55,Rose OFF.Foul (P2),,,,
+0020800040,350,5,5,3,7:41 PM,2:55,Rose Foul Turnover (P1.T12),,,,
+0020800040,351,2,1,3,7:41 PM,2:40,,,MISS Mbah a Moute 20' Jump Shot,,
+0020800040,352,4,0,3,7:41 PM,2:38,,,Bogut REBOUND (Off:2 Def:7),,
+0020800040,364,5,1,3,7:41 PM,2:29,Robinson STEAL (2 STL),,Sessions Bad Pass Turnover (P3.T10),,
+0020800040,374,5,41,3,7:41 PM,2:23,Robinson Poss Lost Ball Turnover (P4.T13),,Sessions STEAL (3 STL),,
+0020800040,354,1,5,3,7:42 PM,2:19,,,Bogut  Layup (12 PTS) (Sessions 7 AST),72 - 56,-16
+0020800040,356,1,1,3,7:42 PM,2:07,Duhon 25' 3PT Jump Shot (6 PTS),,,72 - 59,-13
+0020800040,357,7,1,3,7:42 PM,2:05,KNICKS Violation: Delay of game Violation,,,,
+0020800040,358,9,2,3,7:42 PM,2:05,,,Bucks Timeout: Short (Reg.3 Short 1),,
+0020800040,359,8,0,3,7:43 PM,2:05,,,SUB: Bell FOR Redd,,
+0020800040,360,6,2,3,7:44 PM,1:43,Robinson S.FOUL (P3.T3),,,,
+0020800040,362,3,11,3,7:44 PM,1:43,,,MISS Jefferson Free Throw 1 of 2,,
+0020800040,363,4,1,3,7:44 PM,1:43,,,Bucks Rebound,,
+0020800040,365,3,12,3,7:44 PM,1:43,,,Jefferson Free Throw 2 of 2 (14 PTS),73 - 59,-14
+0020800040,367,2,42,3,7:45 PM,1:33,MISS Chandler  Driving Layup,,,,
+0020800040,368,4,0,3,7:45 PM,1:32,Chandler REBOUND (Off:2 Def:2),,,,
+0020800040,369,2,4,3,7:45 PM,1:31,MISS Chandler  Tip Shot,,,,
+0020800040,370,4,0,3,7:45 PM,1:30,Robinson REBOUND (Off:2 Def:1),,,,
+0020800040,371,2,1,3,7:45 PM,1:17,MISS Duhon 28' 3PT Jump Shot,,,,
+0020800040,372,4,0,3,7:45 PM,1:15,,,Jefferson REBOUND (Off:1 Def:2),,
+0020800040,373,2,5,3,7:45 PM,1:00,,,MISS Jefferson  Layup,,
+0020800040,375,4,0,3,7:45 PM,0:59,KNICKS Rebound,,,,
+0020800040,376,6,3,3,7:45 PM,0:56,,,Bell L.B.FOUL (P1.T3),,
+0020800040,377,1,42,3,7:46 PM,0:38,Chandler  Driving Layup (7 PTS),,,73 - 61,-12
+0020800040,378,1,42,3,7:46 PM,0:20,,,Sessions  Driving Layup (11 PTS),75 - 61,-14
+0020800040,379,2,1,3,7:47 PM,0:00,MISS Roberson 24' 3PT Jump Shot,,,,
+0020800040,381,4,0,3,7:47 PM,0:00,KNICKS Rebound,,,,
+0020800040,382,13,0,3,7:47 PM,0:00,,,,75 - 61,-14
+0020800040,385,12,0,4,7:50 PM,12:00,,,,75 - 61,-14
+0020800040,386,6,2,4,7:50 PM,11:43,Chandler S.FOUL (P3.T1),,,,
+0020800040,387,3,11,4,7:50 PM,11:43,,,Mbah a Moute Free Throw 1 of 2 (9 PTS),76 - 61,-15
+0020800040,389,3,12,4,7:50 PM,11:43,,,MISS Mbah a Moute Free Throw 2 of 2,,
+0020800040,391,4,0,4,7:50 PM,11:42,,,Villanueva REBOUND (Off:3 Def:3),,
+0020800040,392,5,1,4,7:51 PM,11:27,,,Sessions Bad Pass Turnover (P4.T11),,
+0020800040,393,6,2,4,7:51 PM,11:15,,,Villanueva S.FOUL (P3.T1),,
+0020800040,394,3,11,4,7:51 PM,11:15,Rose Free Throw 1 of 2 (3 PTS),,,76 - 62,-14
+0020800040,396,8,0,4,7:52 PM,11:15,SUB: Richardson FOR Roberson,,,,
+0020800040,397,3,12,4,7:52 PM,11:15,Rose Free Throw 2 of 2 (4 PTS),,,76 - 63,-13
+0020800040,399,6,1,4,7:52 PM,11:02,Richardson P.FOUL (P2.T2),,,,
+0020800040,400,8,0,4,7:52 PM,11:02,SUB: Lee FOR Rose,,,,
+0020800040,401,2,1,4,7:53 PM,10:52,,,MISS Villanueva 17' Jump Shot,,
+0020800040,402,4,0,4,7:53 PM,10:50,Richardson REBOUND (Off:0 Def:6),,,,
+0020800040,403,1,42,4,7:53 PM,10:34,Lee  Driving Layup (3 PTS) (Richardson 1 AST),,,76 - 65,-11
+0020800040,404,1,1,4,7:53 PM,10:18,,,Mbah a Moute 19' Jump Shot (11 PTS) (Sessions 8 AST),78 - 65,-13
+0020800040,405,5,1,4,7:53 PM,9:59,Lee Bad Pass Turnover (P2.T14),,Mbah a Moute STEAL (2 STL),,
+0020800040,406,2,1,4,7:54 PM,9:47,,,MISS Jefferson 24' 3PT Jump Shot,,
+0020800040,407,4,0,4,7:54 PM,9:45,,,Bucks Rebound,,
+0020800040,408,8,0,4,7:54 PM,9:45,,,SUB: Alexander FOR Jefferson,,
+0020800040,409,2,1,4,7:54 PM,9:29,,,MISS Alexander 18' Jump Shot,,
+0020800040,410,4,0,4,7:54 PM,9:27,,,Villanueva REBOUND (Off:4 Def:3),,
+0020800040,411,2,4,4,7:54 PM,9:25,,,MISS Villanueva  Tip Shot,,
+0020800040,412,4,0,4,7:55 PM,9:24,,,Villanueva REBOUND (Off:5 Def:3),,
+0020800040,413,1,4,4,7:55 PM,9:22,,,Villanueva  Tip Shot (16 PTS),80 - 65,-15
+0020800040,414,1,1,4,7:55 PM,9:15,Richardson 26' 3PT Jump Shot (17 PTS) (Crawford 4 AST),,,80 - 68,-12
+0020800040,415,2,1,4,7:55 PM,8:56,,,MISS Villanueva 17' Jump Shot,,
+0020800040,416,4,0,4,7:55 PM,8:54,Chandler REBOUND (Off:2 Def:3),,,,
+0020800040,417,1,1,4,7:55 PM,8:47,Richardson 24' 3PT Jump Shot (20 PTS) (Robinson 3 AST),,,80 - 71,-9
+0020800040,418,9,1,4,7:55 PM,8:44,,,Bucks Timeout: Regular (Reg.4 Short 1),,
+0020800040,420,5,2,4,7:58 PM,8:36,Robinson STEAL (3 STL),,Sessions Lost Ball Turnover (P5.T12),,
+0020800040,421,1,41,4,7:58 PM,8:29,Robinson  Running Layup (14 PTS),,,80 - 73,-7
+0020800040,422,2,85,4,7:59 PM,8:07,,,MISS Villanueva 12' Turnaround Bank Shot,,
+0020800040,423,4,0,4,7:59 PM,8:05,Lee REBOUND (Off:0 Def:2),,,,
+0020800040,424,5,1,4,7:59 PM,7:56,Robinson Bad Pass Turnover (P5.T15),,,,
+0020800040,425,8,0,4,7:59 PM,7:56,,,SUB: Jefferson FOR Alexander,,
+0020800040,426,8,0,4,7:59 PM,7:56,,,SUB: Bogut FOR Villanueva,,
+0020800040,427,1,1,4,7:59 PM,7:36,,,Sessions 17' Jump Shot (13 PTS) (Mbah a Moute 3 AST),82 - 73,-9
+0020800040,428,2,44,4,8:00 PM,7:17,MISS Lee  Reverse Layup,,,,
+0020800040,429,4,0,4,8:00 PM,7:16,,,Bogut REBOUND (Off:2 Def:8),,
+0020800040,430,6,2,4,8:00 PM,7:03,Richardson S.FOUL (P3.T3),,,,
+0020800040,431,8,0,4,8:00 PM,7:03,SUB: Randolph FOR Lee,,,,
+0020800040,432,8,0,4,8:00 PM,7:03,SUB: Duhon FOR Robinson,,,,
+0020800040,433,3,11,4,8:00 PM,7:03,,,MISS Jefferson Free Throw 1 of 2,,
+0020800040,434,4,1,4,8:00 PM,7:03,,,Bucks Rebound,,
+0020800040,435,3,12,4,8:01 PM,7:03,,,Jefferson Free Throw 2 of 2 (15 PTS),83 - 73,-10
+0020800040,437,2,1,4,8:01 PM,6:45,MISS Chandler 19' Jump Shot,,,,
+0020800040,438,4,0,4,8:01 PM,6:43,,,Jefferson REBOUND (Off:1 Def:3),,
+0020800040,439,1,42,4,8:01 PM,6:28,,,Sessions  Driving Layup (15 PTS),85 - 73,-12
+0020800040,440,2,42,4,8:02 PM,6:13,MISS Randolph  Driving Layup,,,,
+0020800040,441,4,0,4,8:02 PM,6:12,Chandler REBOUND (Off:3 Def:3),,,,
+0020800040,442,2,5,4,8:02 PM,6:10,MISS Chandler  Layup,,,,
+0020800040,443,4,0,4,8:02 PM,6:09,Randolph REBOUND (Off:2 Def:9),,,,
+0020800040,444,2,5,4,8:02 PM,6:08,MISS Randolph  Layup,,,,
+0020800040,445,4,0,4,8:02 PM,6:06,,,Sessions REBOUND (Off:0 Def:6),,
+0020800040,446,5,4,4,8:02 PM,5:49,,,Bell Traveling Turnover (P2.T13),,
+0020800040,447,9,4,4,8:03 PM,5:49,,,,,
+0020800040,449,8,0,4,8:05 PM,5:49,SUB: Collins FOR Chandler,,,,
+0020800040,450,2,1,4,8:05 PM,5:29,MISS Collins 11' Jump Shot,,Bogut BLOCK (3 BLK),,
+0020800040,451,4,0,4,8:05 PM,5:26,Randolph REBOUND (Off:3 Def:9),,,,
+0020800040,452,2,4,4,8:05 PM,5:25,MISS Randolph  Tip Shot,,,,
+0020800040,453,4,0,4,8:05 PM,5:24,Randolph REBOUND (Off:4 Def:9),,,,
+0020800040,454,1,5,4,8:05 PM,5:22,Randolph  Layup (12 PTS),,,85 - 75,-10
+0020800040,455,2,1,4,8:06 PM,5:06,,,MISS Sessions 21' Jump Shot,,
+0020800040,456,4,0,4,8:06 PM,5:02,Duhon REBOUND (Off:1 Def:1),,,,
+0020800040,457,2,1,4,8:06 PM,4:53,MISS Randolph 17' Jump Shot,,,,
+0020800040,458,4,0,4,8:06 PM,4:52,,,Jefferson REBOUND (Off:1 Def:4),,
+0020800040,459,2,42,4,8:06 PM,4:42,,,MISS Sessions  Driving Layup,,
+0020800040,460,4,0,4,8:06 PM,4:40,Richardson REBOUND (Off:0 Def:7),,,,
+0020800040,461,2,42,4,8:06 PM,4:35,MISS Collins  Driving Layup,,,,
+0020800040,462,4,0,4,8:06 PM,4:34,,,Sessions REBOUND (Off:0 Def:7),,
+0020800040,463,6,1,4,8:06 PM,4:14,Randolph P.FOUL (P2.T4),,,,
+0020800040,464,2,1,4,8:07 PM,4:06,,,MISS Jefferson 19' Jump Shot,,
+0020800040,465,4,0,4,8:07 PM,4:05,Duhon REBOUND (Off:1 Def:2),,,,
+0020800040,466,2,1,4,8:07 PM,3:57,MISS Crawford 18' Jump Shot,,,,
+0020800040,467,4,0,4,8:07 PM,3:55,,,Mbah a Moute REBOUND (Off:1 Def:8),,
+0020800040,468,1,1,4,8:07 PM,3:39,,,Jefferson 10' Jump Shot (17 PTS) (Bell 1 AST),87 - 75,-12
+0020800040,469,6,2,4,8:07 PM,3:39,Collins S.FOUL (P1.PN),,,,
+0020800040,470,3,10,4,8:08 PM,3:39,,,MISS Jefferson Free Throw 1 of 1,,
+0020800040,472,4,0,4,8:08 PM,3:38,Richardson REBOUND (Off:0 Def:8),,,,
+0020800040,473,6,1,4,8:08 PM,3:28,,,Mbah a Moute P.FOUL (P4.T2),,
+0020800040,474,6,1,4,8:08 PM,3:21,,,Bell P.FOUL (P2.T3),,
+0020800040,475,5,1,4,8:09 PM,3:13,Crawford Bad Pass Turnover (P1.T16),,Jefferson STEAL (1 STL),,
+0020800040,476,1,5,4,8:09 PM,3:07,,,Sessions  Layup (17 PTS) (Jefferson 6 AST),89 - 75,-14
+0020800040,477,1,5,4,8:09 PM,2:55,Richardson  Layup (22 PTS) (Randolph 3 AST),,,89 - 77,-12
+0020800040,478,6,1,4,8:09 PM,2:45,Duhon P.FOUL (P3.PN),,,,
+0020800040,479,9,1,4,8:10 PM,2:45,KNICKS Timeout: Regular (Full 4 Short 1),,,,
+0020800040,480,8,0,4,8:12 PM,2:45,SUB: Roberson FOR Collins,,,,
+0020800040,481,3,11,4,8:12 PM,2:45,,,MISS Sessions Free Throw 1 of 2,,
+0020800040,482,4,1,4,8:12 PM,2:45,,,Bucks Rebound,,
+0020800040,483,3,12,4,8:12 PM,2:45,,,Sessions Free Throw 2 of 2 (18 PTS),90 - 77,-13
+0020800040,485,2,1,4,8:13 PM,2:33,MISS Crawford 26' 3PT Jump Shot,,,,
+0020800040,486,4,0,4,8:13 PM,2:31,,,Bucks Rebound,,
+0020800040,487,6,4,4,8:13 PM,2:13,,,Bell OFF.Foul (P3),,
+0020800040,488,5,5,4,8:13 PM,2:13,,,Bell Foul Turnover (P3.T14),,
+0020800040,489,1,1,4,8:14 PM,2:04,Richardson 25' 3PT Jump Shot (25 PTS) (Duhon 3 AST),,,90 - 80,-10
+0020800040,490,2,1,4,8:14 PM,1:40,Randolph BLOCK (1 BLK),,MISS Sessions 6' Jump Shot,,
+0020800040,491,4,0,4,8:14 PM,1:37,,,Mbah a Moute REBOUND (Off:2 Def:8),,
+0020800040,492,2,1,4,8:14 PM,1:35,,,MISS Bell 27' 3PT Jump Shot,,
+0020800040,493,4,0,4,8:14 PM,1:34,,,Bucks Rebound,,
+0020800040,494,8,0,4,8:14 PM,1:34,SUB: Robinson FOR Crawford,,,,
+0020800040,495,2,1,4,8:15 PM,1:23,,,MISS Bogut 8' Jump Shot,,
+0020800040,496,4,0,4,8:15 PM,1:20,Richardson REBOUND (Off:0 Def:9),,,,
+0020800040,497,2,1,4,8:15 PM,1:14,MISS Robinson 17' Jump Shot,,,,
+0020800040,498,4,0,4,8:15 PM,1:12,,,Jefferson REBOUND (Off:1 Def:5),,
+0020800040,499,2,1,4,8:15 PM,0:53,,,MISS Mbah a Moute 19' Jump Shot,,
+0020800040,500,4,0,4,8:15 PM,0:51,Robinson REBOUND (Off:2 Def:2),,,,
+0020800040,501,1,1,4,8:15 PM,0:44,Richardson 26' 3PT Jump Shot (28 PTS) (Robinson 4 AST),,,90 - 83,-7
+0020800040,502,6,1,4,8:16 PM,0:27,Randolph P.FOUL (P3.PN),,,,
+0020800040,503,3,11,4,8:16 PM,0:27,,,MISS Jefferson Free Throw 1 of 2,,
+0020800040,504,4,1,4,8:16 PM,0:27,,,Bucks Rebound,,
+0020800040,505,3,12,4,8:16 PM,0:27,,,Jefferson Free Throw 2 of 2 (18 PTS),91 - 83,-8
+0020800040,507,9,1,4,8:17 PM,0:27,KNICKS Timeout: Regular (Full 5 Short 1),,,,
+0020800040,509,1,1,4,8:18 PM,0:23,Randolph 24' 3PT Jump Shot (15 PTS),,,91 - 86,-5
+0020800040,510,6,1,4,8:19 PM,0:21,Robinson P.FOUL (P4.PN),,,,
+0020800040,511,3,11,4,8:19 PM,0:21,,,Bell Free Throw 1 of 2 (1 PTS),92 - 86,-6
+0020800040,513,3,12,4,8:19 PM,0:21,,,Bell Free Throw 2 of 2 (2 PTS),93 - 86,-7
+0020800040,515,9,2,4,8:20 PM,0:21,KNICKS Timeout: Short (Full 5 Short 2),,,,
+0020800040,516,2,1,4,8:20 PM,0:15,MISS Robinson 26' 3PT Jump Shot,,,,
+0020800040,517,4,0,4,8:21 PM,0:13,,,Bogut REBOUND (Off:2 Def:9),,
+0020800040,518,6,1,4,8:21 PM,0:13,Roberson P.FOUL (P3.PN),,,,
+0020800040,519,3,11,4,8:21 PM,0:13,,,MISS Bogut Free Throw 1 of 2,,
+0020800040,520,4,1,4,8:21 PM,0:13,,,Bucks Rebound,,
+0020800040,521,3,12,4,8:21 PM,0:13,,,Bogut Free Throw 2 of 2 (13 PTS),94 - 86,-8
+0020800040,523,2,1,4,8:21 PM,0:05,MISS Randolph 27' 3PT Jump Shot,,,,
+0020800040,524,4,0,4,8:22 PM,0:03,Robinson REBOUND (Off:3 Def:2),,,,
+0020800040,525,13,0,4,8:22 PM,0:00,,,,94 - 86,-8

@@ -1,0 +1,406 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0021001081,0,12,0,1,7:09 PM,12:00,,,,,
+0021001081,2,10,0,1,7:12 PM,12:00,Jump Ball Smith vs. Lopez: Tip to Farmar,,,,
+0021001081,3,2,42,1,7:12 PM,11:47,Horford BLOCK (1 BLK),,MISS Lopez 2' Driving Layup,,
+0021001081,4,4,0,1,7:12 PM,11:46,Horford REBOUND (Off:0 Def:1),,,,
+0021001081,5,2,1,1,7:12 PM,11:38,MISS Horford 20' Jump Shot,,,,
+0021001081,6,4,0,1,7:12 PM,11:37,,,Humphries REBOUND (Off:0 Def:1),,
+0021001081,7,1,42,1,7:13 PM,11:21,,,Morrow 1' Driving Layup (2 PTS) (Lopez 1 AST),2 - 0,-2
+0021001081,8,1,42,1,7:13 PM,11:02,Johnson 1' Driving Layup (2 PTS) (Horford 1 AST),,,2 - 2,TIE
+0021001081,9,6,2,1,7:13 PM,11:02,,,Humphries S.FOUL (P1.T1),,
+0021001081,10,3,10,1,7:13 PM,11:02,Johnson Free Throw 1 of 1 (3 PTS),,,2 - 3,1
+0021001081,12,5,1,1,7:13 PM,11:00,Hinrich STEAL (1 STL),,Humphries Bad Pass Turnover (P1.T1),,
+0021001081,13,1,1,1,7:13 PM,10:55,Hinrich 11' Jump Shot (2 PTS),,,2 - 5,3
+0021001081,14,2,1,1,7:14 PM,10:35,,,MISS Farmar 27' 3PT Jump Shot,,
+0021001081,15,4,0,1,7:14 PM,10:34,Hinrich REBOUND (Off:0 Def:1),,,,
+0021001081,16,1,67,1,7:14 PM,10:24,Smith 11' Hook Bank Shot (2 PTS),,,2 - 7,5
+0021001081,17,5,4,1,7:14 PM,10:14,,,Farmar Traveling Turnover (P1.T2),,
+0021001081,18,1,3,1,7:15 PM,9:45,Horford 9' Hook Shot (2 PTS) (Johnson 1 AST),,,2 - 9,7
+0021001081,19,9,1,1,7:15 PM,9:39,,,Nets Timeout: Regular (Reg.1 Short 0),,
+0021001081,21,2,1,1,7:17 PM,9:20,,,MISS Farmar 25' 3PT Jump Shot,,
+0021001081,22,4,0,1,7:17 PM,9:19,Hinrich REBOUND (Off:0 Def:2),,,,
+0021001081,23,2,1,1,7:17 PM,9:12,MISS Hinrich 21' Jump Shot,,,,
+0021001081,24,4,0,1,7:17 PM,9:09,,,Humphries REBOUND (Off:0 Def:2),,
+0021001081,25,2,1,1,7:18 PM,9:06,,,MISS Vujacic 20' Jump Shot,,
+0021001081,26,4,0,1,7:18 PM,9:02,Williams REBOUND (Off:0 Def:1),,,,
+0021001081,27,6,2,1,7:18 PM,8:51,,,Farmar S.FOUL (P1.T2),,
+0021001081,28,3,11,1,7:18 PM,8:51,Smith Free Throw 1 of 2 (3 PTS),,,2 - 10,8
+0021001081,30,3,12,1,7:18 PM,8:51,Smith Free Throw 2 of 2 (4 PTS),,,2 - 11,9
+0021001081,32,2,1,1,7:19 PM,8:39,,,MISS Morrow 26' 3PT Jump Shot,,
+0021001081,33,4,0,1,7:19 PM,8:37,Johnson REBOUND (Off:0 Def:1),,,,
+0021001081,35,1,1,1,7:19 PM,8:17,Johnson 20' Jump Shot (5 PTS) (Hinrich 1 AST),,,2 - 13,11
+0021001081,36,6,1,1,7:20 PM,8:06,Williams P.FOUL (P1.T1),,,,
+0021001081,37,5,11,1,7:20 PM,7:51,,,Nets Turnover: Shot Clock (T#3),,
+0021001081,38,1,42,1,7:20 PM,7:40,Smith 4' Driving Layup (6 PTS) (Johnson 2 AST),,,2 - 15,13
+0021001081,39,9,2,1,7:20 PM,7:34,,,Nets Timeout: Short (Reg.1 Short 1),,
+0021001081,40,8,0,1,7:21 PM,7:34,,,SUB: Outlaw FOR Farmar,,
+0021001081,41,8,0,1,7:21 PM,7:34,,,SUB: Uzoh FOR Humphries,,
+0021001081,43,2,78,1,7:21 PM,7:16,,,MISS Morrow 11' Floating Jump Shot,,
+0021001081,44,4,0,1,7:22 PM,7:15,,,Uzoh REBOUND (Off:1 Def:0),,
+0021001081,45,2,1,1,7:22 PM,7:12,,,MISS Vujacic 24' Jump Shot,,
+0021001081,46,4,0,1,7:22 PM,7:11,Horford REBOUND (Off:0 Def:2),,,,
+0021001081,47,2,5,1,7:22 PM,7:00,MISS Williams 2' Layup,,Outlaw BLOCK (1 BLK),,
+0021001081,48,4,0,1,7:22 PM,6:58,Williams REBOUND (Off:1 Def:1),,,,
+0021001081,49,1,72,1,7:22 PM,6:57,Williams  Putback Layup (2 PTS),,,2 - 17,15
+0021001081,50,2,63,1,7:22 PM,6:30,,,MISS Outlaw 12' Fadeaway Jumper,,
+0021001081,51,4,0,1,7:22 PM,6:29,,,Nets Rebound,,
+0021001081,53,5,4,1,7:23 PM,6:17,,,Lopez Traveling Turnover (P1.T4),,
+0021001081,54,1,7,1,7:23 PM,6:09,Smith 1' Dunk (8 PTS) (Horford 2 AST),,,2 - 19,17
+0021001081,55,1,1,1,7:23 PM,5:51,,,Vujacic 25' 3PT Jump Shot (3 PTS) (Outlaw 1 AST),5 - 19,14
+0021001081,56,2,1,1,7:24 PM,5:30,MISS Williams 19' Jump Shot,,,,
+0021001081,57,4,0,1,7:24 PM,5:29,,,Outlaw REBOUND (Off:0 Def:1),,
+0021001081,58,1,1,1,7:24 PM,5:18,,,Lopez 20' Jump Shot (2 PTS),7 - 19,12
+0021001081,59,6,1,1,7:24 PM,5:01,,,Outlaw P.FOUL (P1.T3),,
+0021001081,60,8,0,1,7:24 PM,5:01,SUB: Crawford FOR Williams,,,,
+0021001081,62,8,0,1,7:25 PM,5:01,,,SUB: Graham FOR Morrow,,
+0021001081,63,2,1,1,7:25 PM,4:54,MISS Johnson 26' 3PT Jump Shot,,,,
+0021001081,64,4,0,1,7:25 PM,4:53,,,Graham REBOUND (Off:0 Def:1),,
+0021001081,65,2,1,1,7:25 PM,4:44,,,MISS Outlaw 25' 3PT Jump Shot,,
+0021001081,66,4,0,1,7:25 PM,4:42,Horford REBOUND (Off:0 Def:3),,,,
+0021001081,67,1,42,1,7:25 PM,4:35,Hinrich 1' Driving Layup (4 PTS),,,7 - 21,14
+0021001081,68,5,2,1,7:26 PM,4:18,Johnson STEAL (1 STL),,Graham Lost Ball Turnover (P1.T5),,
+0021001081,69,6,1,1,7:26 PM,4:14,,,Outlaw P.FOUL (P2.T4),,
+0021001081,70,8,0,1,7:26 PM,4:14,,,SUB: Petro FOR Lopez,,
+0021001081,71,2,1,1,7:26 PM,3:57,MISS Smith 24' 3PT Jump Shot,,,,
+0021001081,72,4,0,1,7:26 PM,3:56,,,Petro REBOUND (Off:0 Def:1),,
+0021001081,73,5,1,1,7:26 PM,3:44,Smith STEAL (1 STL),,Outlaw Bad Pass Turnover (P1.T6),,
+0021001081,74,1,50,1,7:27 PM,3:39,Smith 1' Running Dunk (10 PTS),,,7 - 23,16
+0021001081,75,2,1,1,7:27 PM,3:18,,,MISS Petro 17' Jump Shot,,
+0021001081,76,4,0,1,7:27 PM,3:17,Smith REBOUND (Off:0 Def:1),,,,
+0021001081,77,1,1,1,7:27 PM,3:06,Hinrich 17' Jump Shot (6 PTS),,,7 - 25,18
+0021001081,78,2,1,1,7:27 PM,2:47,,,MISS Outlaw 18' Jump Shot,,
+0021001081,79,4,0,1,7:27 PM,2:44,Crawford REBOUND (Off:0 Def:1),,,,
+0021001081,80,5,1,1,7:28 PM,2:40,Smith Bad Pass Turnover (P1.T1),,Vujacic STEAL (1 STL),,
+0021001081,81,1,41,1,7:28 PM,2:33,,,Graham 2' Running Layup (2 PTS) (Vujacic 1 AST),9 - 25,16
+0021001081,82,9,1,1,7:28 PM,2:26,HAWKS Timeout: Regular (Full 1 Short 0),,,,
+0021001081,83,8,0,1,7:30 PM,2:26,SUB: Pachulia FOR Smith,,,,
+0021001081,84,8,0,1,7:30 PM,2:26,SUB: Teague FOR Hinrich,,,,
+0021001081,85,8,0,1,7:30 PM,2:26,,,SUB: Farmar FOR Vujacic,,
+0021001081,86,8,0,1,7:30 PM,2:26,,,SUB: Humphries FOR Uzoh,,
+0021001081,87,1,63,1,7:30 PM,2:20,Horford 11' Fadeaway Jumper (4 PTS) (Pachulia 1 AST),,,9 - 27,18
+0021001081,89,1,1,1,7:31 PM,2:03,,,Humphries 18' Jump Shot (2 PTS) (Farmar 1 AST),11 - 27,16
+0021001081,90,2,1,1,7:31 PM,1:47,MISS Crawford 24' 3PT Jump Shot,,,,
+0021001081,91,4,0,1,7:31 PM,1:45,,,Outlaw REBOUND (Off:0 Def:2),,
+0021001081,92,6,1,1,7:31 PM,1:41,Teague P.FOUL (P1.T2),,,,
+0021001081,94,2,1,1,7:32 PM,1:23,,,MISS Humphries 17' Jump Shot,,
+0021001081,95,4,0,1,7:32 PM,1:21,,,Farmar REBOUND (Off:1 Def:0),,
+0021001081,96,1,1,1,7:32 PM,1:09,,,Petro 16' Jump Shot (2 PTS) (Farmar 2 AST),13 - 27,14
+0021001081,97,2,3,1,7:32 PM,0:42,MISS Horford 6' Hook Shot,,,,
+0021001081,98,4,0,1,7:32 PM,0:41,Pachulia REBOUND (Off:1 Def:0),,,,
+0021001081,100,1,1,1,7:33 PM,0:32,Horford 20' Jump Shot (6 PTS) (Teague 1 AST),,,13 - 29,16
+0021001081,101,2,42,1,7:33 PM,0:24,,,MISS Farmar 2' Driving Layup,,
+0021001081,103,4,0,1,7:33 PM,0:23,,,Petro REBOUND (Off:1 Def:1),,
+0021001081,102,1,4,1,7:33 PM,0:23,,,Petro  Tip Shot (4 PTS),15 - 29,14
+0021001081,104,1,1,1,7:33 PM,0:00,Johnson 25' 3PT Jump Shot (8 PTS) (Crawford 1 AST),,,15 - 32,17
+0021001081,105,13,0,1,7:33 PM,0:00,,,,15 - 32,17
+0021001081,107,12,0,2,7:36 PM,12:00,,,,15 - 32,17
+0021001081,108,1,1,2,7:36 PM,11:47,Johnson 16' Jump Shot (10 PTS) (Crawford 2 AST),,,15 - 34,19
+0021001081,109,1,1,2,7:37 PM,11:18,,,Humphries 14' Jump Shot (4 PTS) (Graham 1 AST),17 - 34,17
+0021001081,110,2,1,2,7:37 PM,10:52,MISS Crawford 25' 3PT Jump Shot,,,,
+0021001081,111,4,0,2,7:37 PM,10:52,,,Nets Rebound,,
+0021001081,112,2,7,2,7:38 PM,10:36,,,MISS Humphries 1' Dunk,,
+0021001081,113,4,0,2,7:38 PM,10:34,Horford REBOUND (Off:0 Def:4),,,,
+0021001081,114,1,1,2,7:38 PM,10:28,Horford 4' Jump Shot (8 PTS) (Crawford 3 AST),,,17 - 36,19
+0021001081,115,6,2,2,7:38 PM,10:28,,,Graham S.FOUL (P1.T1),,
+0021001081,116,8,0,2,7:38 PM,10:28,SUB: Williams FOR Johnson,,,,
+0021001081,117,8,0,2,7:38 PM,10:28,,,SUB: Vujacic FOR Graham,,
+0021001081,118,8,0,2,7:38 PM,10:28,,,SUB: Lopez FOR Petro,,
+0021001081,119,3,10,2,7:39 PM,10:28,Horford Free Throw 1 of 1 (9 PTS),,,17 - 37,20
+0021001081,122,5,1,2,7:39 PM,10:12,Horford STEAL (1 STL),,Farmar Bad Pass Turnover (P2.T7),,
+0021001081,123,2,78,2,7:39 PM,10:04,MISS Teague 10' Floating Jump Shot,,,,
+0021001081,124,4,0,2,7:39 PM,10:01,Teague REBOUND (Off:1 Def:0),,,,
+0021001081,125,6,26,2,7:39 PM,9:47,Williams Offensive Charge Foul (P2.T1),,,,
+0021001081,126,5,5,2,7:39 PM,9:47,Williams Foul Turnover (P1.T2),,,,
+0021001081,127,8,0,2,7:39 PM,9:47,SUB: Smith FOR Horford,,,,
+0021001081,128,2,3,2,7:40 PM,9:33,,,MISS Lopez 7' Hook Shot,,
+0021001081,129,4,0,2,7:40 PM,9:31,Smith REBOUND (Off:0 Def:2),,,,
+0021001081,130,1,44,2,7:40 PM,9:25,Smith 1' Reverse Layup (12 PTS) (Crawford 4 AST),,,17 - 39,22
+0021001081,131,2,42,2,7:40 PM,9:04,,,MISS Vujacic 2' Driving Layup,,
+0021001081,132,4,0,2,7:40 PM,9:03,Pachulia REBOUND (Off:1 Def:1),,,,
+0021001081,133,6,2,2,7:40 PM,9:00,,,Morrow S.FOUL (P1.T2),,
+0021001081,134,3,11,2,7:41 PM,9:00,MISS Smith Free Throw 1 of 2,,,,
+0021001081,135,4,1,2,7:41 PM,9:00,HAWKS Rebound,,,,
+0021001081,136,3,12,2,7:41 PM,9:00,Smith Free Throw 2 of 2 (13 PTS),,,17 - 40,23
+0021001081,139,2,77,2,7:41 PM,8:45,,,MISS Morrow 10' Driving Jump Shot,,
+0021001081,140,4,0,2,7:41 PM,8:43,Pachulia REBOUND (Off:1 Def:2),,,,
+0021001081,141,1,63,2,7:42 PM,8:35,Crawford 18' Fadeaway Jumper (2 PTS),,,17 - 42,25
+0021001081,142,9,1,2,7:42 PM,8:27,,,Nets Timeout: Regular (Reg.2 Short 1),,
+0021001081,145,8,0,2,7:44 PM,8:27,,,SUB: Uzoh FOR Farmar,,
+0021001081,146,1,43,2,7:44 PM,8:09,,,Humphries 1' Alley Oop Layup (6 PTS) (Lopez 2 AST),19 - 42,23
+0021001081,147,2,56,2,7:45 PM,7:46,MISS Smith 4' Running Hook Shot,,,,
+0021001081,148,4,0,2,7:45 PM,7:45,,,Morrow REBOUND (Off:0 Def:1),,
+0021001081,149,1,1,2,7:45 PM,7:40,,,Morrow 19' Jump Shot (4 PTS),21 - 42,21
+0021001081,150,2,42,2,7:45 PM,7:17,MISS Williams 1' Driving Layup,,,,
+0021001081,151,4,0,2,7:45 PM,7:16,HAWKS Rebound,,,,
+0021001081,152,8,0,2,7:46 PM,7:16,SUB: Hinrich FOR Teague,,,,
+0021001081,153,1,1,2,7:46 PM,7:13,Crawford 20' Jump Shot (4 PTS) (Williams 1 AST),,,21 - 44,23
+0021001081,155,2,42,2,7:46 PM,6:58,Pachulia BLOCK (1 BLK),,MISS Lopez 4' Driving Layup,,
+0021001081,156,4,0,2,7:46 PM,6:57,Hinrich REBOUND (Off:0 Def:3),,,,
+0021001081,157,1,41,2,7:46 PM,6:54,Williams 2' Running Layup (4 PTS),,,21 - 46,25
+0021001081,158,1,3,2,7:46 PM,6:38,,,Humphries 5' Hook Shot (8 PTS) (Morrow 1 AST),23 - 46,23
+0021001081,159,1,1,2,7:46 PM,6:23,Crawford 19' Jump Shot (6 PTS),,,23 - 48,25
+0021001081,161,5,11,2,7:47 PM,5:55,,,Nets Turnover: Shot Clock (T#8),,
+0021001081,162,9,4,2,7:47 PM,5:55,,,,,
+0021001081,164,8,0,2,7:49 PM,5:55,SUB: Johnson FOR Williams,,,,
+0021001081,165,8,0,2,7:49 PM,5:55,,,SUB: Outlaw FOR Humphries,,
+0021001081,166,8,0,2,7:49 PM,5:55,,,SUB: Petro FOR Uzoh,,
+0021001081,167,1,1,2,7:50 PM,5:43,Crawford 16' Jump Shot (8 PTS) (Smith 1 AST),,,23 - 50,27
+0021001081,168,1,5,2,7:50 PM,5:24,,,Morrow 1' Layup (6 PTS),25 - 50,25
+0021001081,169,1,1,2,7:50 PM,5:03,Pachulia 16' Jump Shot (2 PTS) (Crawford 5 AST),,,25 - 52,27
+0021001081,170,2,1,2,7:51 PM,4:47,,,MISS Vujacic 24' 3PT Jump Shot,,
+0021001081,171,4,0,2,7:51 PM,4:46,Hinrich REBOUND (Off:0 Def:4),,,,
+0021001081,172,5,8,2,7:51 PM,4:30,Smith 3 Second Violation Turnover (P2.T3),,,,
+0021001081,173,8,0,2,7:51 PM,4:30,SUB: Horford FOR Pachulia,,,,
+0021001081,174,8,0,2,7:51 PM,4:30,,,SUB: Farmar FOR Vujacic,,
+0021001081,176,2,1,2,7:51 PM,4:17,,,MISS Morrow 19' Jump Shot,,
+0021001081,177,4,0,2,7:52 PM,4:17,,,Nets Rebound,,
+0021001081,178,6,3,2,7:52 PM,4:17,Smith L.B.FOUL (P1.T2),,,,
+0021001081,179,2,3,2,7:52 PM,4:01,,,MISS Lopez 12' Hook Shot,,
+0021001081,180,4,0,2,7:52 PM,3:59,,,Petro REBOUND (Off:2 Def:1),,
+0021001081,181,2,72,2,7:52 PM,3:58,,,MISS Petro 1' Putback Layup,,
+0021001081,182,4,0,2,7:52 PM,3:55,Horford REBOUND (Off:0 Def:5),,,,
+0021001081,183,5,40,2,7:52 PM,3:44,Smith Out of Bounds Lost Ball Turnover (P3.T4),,,,
+0021001081,185,2,1,2,7:53 PM,3:30,,,MISS Petro 19' Jump Shot,,
+0021001081,186,4,0,2,7:53 PM,3:29,Johnson REBOUND (Off:0 Def:2),,,,
+0021001081,187,2,1,2,7:53 PM,3:21,MISS Crawford 24' 3PT Jump Shot,,,,
+0021001081,188,4,0,2,7:53 PM,3:19,,,Farmar REBOUND (Off:1 Def:1),,
+0021001081,190,8,0,2,7:53 PM,3:07,,,SUB: Wright FOR Lopez,,
+0021001081,191,2,1,2,7:53 PM,3:04,,,MISS Morrow 19' Jump Shot,,
+0021001081,192,4,0,2,7:54 PM,3:02,,,Outlaw REBOUND (Off:1 Def:2),,
+0021001081,193,1,1,2,7:54 PM,2:58,,,Morrow 4' Jump Shot (8 PTS) (Petro 1 AST),27 - 52,25
+0021001081,194,1,1,2,7:54 PM,2:43,Hinrich 25' 3PT Jump Shot (9 PTS) (Johnson 3 AST),,,27 - 55,28
+0021001081,195,1,1,2,7:54 PM,2:17,,,Wright 11' Jump Shot (2 PTS) (Farmar 3 AST),29 - 55,26
+0021001081,197,6,2,2,7:55 PM,2:01,,,Outlaw S.FOUL (P3.T3),,
+0021001081,198,9,1,2,7:55 PM,2:01,HAWKS Timeout: Regular (Full 2 Short 0),,,,
+0021001081,200,8,0,2,7:57 PM,2:01,,,SUB: Graham FOR Morrow,,
+0021001081,201,8,0,2,7:57 PM,2:01,,,SUB: Uzoh FOR Outlaw,,
+0021001081,202,3,11,2,7:57 PM,2:01,MISS Johnson Free Throw 1 of 2,,,,
+0021001081,203,4,1,2,7:57 PM,2:01,HAWKS Rebound,,,,
+0021001081,204,3,12,2,7:57 PM,2:01,MISS Johnson Free Throw 2 of 2,,,,
+0021001081,206,4,0,2,7:57 PM,1:59,,,Graham REBOUND (Off:0 Def:2),,
+0021001081,207,1,58,2,7:58 PM,1:39,,,Petro 12' Turnaround Hook Shot (6 PTS) (Farmar 4 AST),31 - 55,24
+0021001081,208,1,42,2,7:58 PM,1:17,Crawford 3' Driving Layup (10 PTS),,,31 - 57,26
+0021001081,209,2,86,2,7:58 PM,1:01,,,MISS Farmar 10' Turnaround Fadeaway Shot,,
+0021001081,210,4,0,2,7:58 PM,0:58,Hinrich REBOUND (Off:0 Def:5),,,,
+0021001081,211,2,1,2,7:59 PM,0:38,MISS Horford 12' Jump Shot,,,,
+0021001081,212,4,0,2,7:59 PM,0:37,,,Petro REBOUND (Off:2 Def:2),,
+0021001081,213,2,1,2,7:59 PM,0:27,,,MISS Graham 21' Jump Shot,,
+0021001081,214,4,0,2,7:59 PM,0:25,Johnson REBOUND (Off:0 Def:3),,,,
+0021001081,215,6,1,2,7:59 PM,0:08,,,Graham P.FOUL (P2.T4),,
+0021001081,216,8,0,2,8:00 PM,0:08,,,SUB: Vujacic FOR Farmar,,
+0021001081,217,2,46,2,8:00 PM,0:01,MISS Johnson 6' Running Jump Shot,,,,
+0021001081,218,4,0,2,8:00 PM,0:01,,,Graham REBOUND (Off:0 Def:3),,
+0021001081,219,6,1,2,8:01 PM,0:01,Johnson P.FOUL (P1.T3),,,,
+0021001081,220,18,0,2,8:01 PM,0:01,,,,,
+0021001081,221,5,1,2,8:01 PM,0:00,Crawford STEAL (1 STL),,Uzoh Bad Pass Turnover (P1.T9),,
+0021001081,222,2,1,2,8:01 PM,0:00,MISS Crawford 25' 3PT Jump Shot,,,,
+0021001081,223,4,0,2,8:02 PM,0:00,HAWKS Rebound,,,,
+0021001081,224,13,0,2,8:02 PM,0:00,,,,31 - 57,26
+0021001081,227,12,0,3,8:18 PM,12:00,,,,31 - 57,26
+0021001081,228,1,1,3,8:18 PM,11:42,Smith 19' Jump Shot (15 PTS) (Johnson 4 AST),,,31 - 59,28
+0021001081,229,1,1,3,8:18 PM,11:27,,,Farmar 21' Jump Shot (2 PTS) (Vujacic 2 AST),33 - 59,26
+0021001081,230,1,63,3,8:19 PM,11:07,Johnson 15' Fadeaway Jumper (12 PTS),,,33 - 61,28
+0021001081,231,2,1,3,8:19 PM,10:47,,,MISS Lopez 19' Jump Shot,,
+0021001081,232,4,0,3,8:19 PM,10:45,,,Morrow REBOUND (Off:1 Def:1),,
+0021001081,233,1,1,3,8:19 PM,10:42,,,Morrow 20' Jump Shot (10 PTS),35 - 61,26
+0021001081,234,2,1,3,8:20 PM,10:23,MISS Hinrich 18' Jump Shot,,,,
+0021001081,235,4,0,3,8:20 PM,10:22,,,Humphries REBOUND (Off:0 Def:3),,
+0021001081,236,5,1,3,8:20 PM,10:08,Williams STEAL (1 STL),,Humphries Bad Pass Turnover (P2.T10),,
+0021001081,237,9,2,3,8:20 PM,9:57,HAWKS Timeout: Short (Full 2 Short 1),,,,
+0021001081,238,8,0,3,8:20 PM,9:57,SUB: Crawford FOR Johnson,,,,
+0021001081,239,1,1,3,8:21 PM,9:47,Horford 18' Jump Shot (11 PTS) (Hinrich 2 AST),,,35 - 63,28
+0021001081,240,2,1,3,8:21 PM,9:34,,,MISS Morrow 18' Jump Shot,,
+0021001081,241,4,0,3,8:21 PM,9:33,Horford REBOUND (Off:0 Def:6),,,,
+0021001081,242,1,63,3,8:22 PM,9:15,Smith 17' Fadeaway Jumper (17 PTS),,,35 - 65,30
+0021001081,243,1,42,3,8:22 PM,8:58,,,Vujacic 3' Driving Layup (5 PTS),37 - 65,28
+0021001081,244,1,1,3,8:22 PM,8:43,Hinrich 19' Jump Shot (11 PTS),,,37 - 67,30
+0021001081,246,1,1,3,8:22 PM,8:25,,,Lopez 18' Jump Shot (4 PTS) (Farmar 5 AST),39 - 67,28
+0021001081,247,6,2,3,8:23 PM,8:04,,,Humphries S.FOUL (P2.T1),,
+0021001081,248,3,11,3,8:23 PM,8:04,MISS Smith Free Throw 1 of 2,,,,
+0021001081,249,4,1,3,8:23 PM,8:04,HAWKS Rebound,,,,
+0021001081,250,3,12,3,8:23 PM,8:04,Smith Free Throw 2 of 2 (18 PTS),,,39 - 68,29
+0021001081,252,1,1,3,8:24 PM,7:48,,,Vujacic 22' Jump Shot (7 PTS) (Farmar 6 AST),41 - 68,27
+0021001081,253,5,1,3,8:24 PM,7:32,Smith Bad Pass Turnover (P4.T5),,Morrow STEAL (1 STL),,
+0021001081,254,6,1,3,8:24 PM,7:31,Williams P.FOUL (P3.T1),,,,
+0021001081,255,2,1,3,8:25 PM,7:15,,,MISS Morrow 24' 3PT Jump Shot,,
+0021001081,256,4,0,3,8:25 PM,7:13,Horford REBOUND (Off:0 Def:7),,,,
+0021001081,257,2,1,3,8:25 PM,7:02,MISS Hinrich 25' 3PT Jump Shot,,,,
+0021001081,258,4,0,3,8:25 PM,7:00,Williams REBOUND (Off:2 Def:1),,,,
+0021001081,259,1,72,3,8:25 PM,7:00,Williams 1' Putback Layup (6 PTS),,,41 - 70,29
+0021001081,260,6,2,3,8:25 PM,7:00,,,Morrow S.FOUL (P2.T2),,
+0021001081,261,3,10,3,8:25 PM,7:00,Williams Free Throw 1 of 1 (7 PTS),,,41 - 71,30
+0021001081,264,6,1,3,8:26 PM,6:52,Crawford P.FOUL (P1.T2),,,,
+0021001081,265,1,1,3,8:26 PM,6:39,,,Humphries 15' Jump Shot (10 PTS) (Farmar 7 AST),43 - 71,28
+0021001081,266,2,77,3,8:26 PM,6:17,MISS Hinrich 6' Driving Jump Shot,,Humphries BLOCK (1 BLK),,
+0021001081,267,4,0,3,8:26 PM,6:16,Horford REBOUND (Off:1 Def:7),,,,
+0021001081,268,2,72,3,8:26 PM,6:16,MISS Horford 1' Putback Layup,,,,
+0021001081,269,4,0,3,8:27 PM,6:16,Horford REBOUND (Off:2 Def:7),,,,
+0021001081,270,6,1,3,8:27 PM,6:16,,,Morrow P.FOUL (P3.T3),,
+0021001081,271,2,1,3,8:27 PM,6:01,MISS Hinrich 24' 3PT Jump Shot,,,,
+0021001081,272,4,0,3,8:27 PM,6:00,,,Farmar REBOUND (Off:1 Def:2),,
+0021001081,273,2,1,3,8:27 PM,5:49,,,MISS Farmar 17' Jump Shot,,
+0021001081,274,4,0,3,8:27 PM,5:48,Smith REBOUND (Off:0 Def:3),,,,
+0021001081,275,5,1,3,8:27 PM,5:44,Smith Bad Pass Turnover (P5.T6),,,,
+0021001081,276,9,1,3,8:28 PM,5:44,HAWKS Timeout: Regular (Full 3 Short 1),,,,
+0021001081,278,8,0,3,8:29 PM,5:44,,,SUB: Uzoh FOR Farmar,,
+0021001081,280,5,2,3,8:30 PM,5:28,Smith STEAL (2 STL),,Humphries Lost Ball Turnover (P3.T11),,
+0021001081,281,5,1,3,8:30 PM,5:11,Horford Bad Pass Turnover (P1.T7),,Uzoh STEAL (1 STL),,
+0021001081,282,6,2,3,8:31 PM,5:07,Horford S.FOUL (P1.T3),,,,
+0021001081,283,3,11,3,8:31 PM,5:07,,,MISS Uzoh Free Throw 1 of 2,,
+0021001081,284,4,1,3,8:31 PM,5:07,,,Nets Rebound,,
+0021001081,285,8,0,3,8:31 PM,5:07,,,SUB: Petro FOR Humphries,,
+0021001081,286,8,0,3,8:31 PM,5:07,,,SUB: Outlaw FOR Vujacic,,
+0021001081,287,3,12,3,8:31 PM,5:07,,,Uzoh Free Throw 2 of 2 (1 PTS),44 - 71,27
+0021001081,290,1,1,3,8:32 PM,4:56,Crawford 25' 3PT Jump Shot (13 PTS) (Hinrich 3 AST),,,44 - 74,30
+0021001081,291,1,5,3,8:32 PM,4:35,,,Morrow 1' Layup (12 PTS) (Petro 2 AST),46 - 74,28
+0021001081,292,6,2,3,8:32 PM,4:35,Crawford S.FOUL (P2.T4),,,,
+0021001081,293,3,10,3,8:32 PM,4:35,,,Morrow Free Throw 1 of 1 (13 PTS),47 - 74,27
+0021001081,295,2,1,3,8:33 PM,4:22,MISS Crawford 24' 3PT Jump Shot,,,,
+0021001081,296,4,0,3,8:33 PM,4:21,,,Morrow REBOUND (Off:1 Def:2),,
+0021001081,297,1,77,3,8:33 PM,4:12,,,Uzoh 5' Driving Jump Shot (3 PTS),49 - 74,25
+0021001081,298,1,47,3,8:33 PM,3:49,Williams 5' Turnaround Jump Shot (9 PTS),,,49 - 76,27
+0021001081,299,1,1,3,8:33 PM,3:40,,,Lopez 20' Jump Shot (6 PTS) (Uzoh 1 AST),51 - 76,25
+0021001081,300,1,47,3,8:34 PM,3:18,Horford 11' Turnaround Jump Shot (13 PTS) (Williams 2 AST),,,51 - 78,27
+0021001081,301,6,1,3,8:34 PM,3:12,Hinrich P.FOUL (P1.PN),,,,
+0021001081,302,8,0,3,8:34 PM,3:12,,,SUB: Gadzuric FOR Lopez,,
+0021001081,303,3,11,3,8:34 PM,3:12,,,Uzoh Free Throw 1 of 2 (4 PTS),52 - 78,26
+0021001081,305,3,12,3,8:35 PM,3:12,,,Uzoh Free Throw 2 of 2 (5 PTS),53 - 78,25
+0021001081,308,2,1,3,8:35 PM,2:54,MISS Smith 20' Jump Shot,,,,
+0021001081,309,4,0,3,8:35 PM,2:52,Williams REBOUND (Off:3 Def:1),,,,
+0021001081,310,2,72,3,8:35 PM,2:50,MISS Williams 2' Putback Layup,,Petro BLOCK (1 BLK),,
+0021001081,311,4,0,3,8:35 PM,2:48,,,Petro REBOUND (Off:2 Def:3),,
+0021001081,312,1,47,3,8:36 PM,2:37,,,Morrow 17' Turnaround Jump Shot (15 PTS),55 - 78,23
+0021001081,313,1,5,3,8:36 PM,2:17,Horford 3' Layup (15 PTS) (Williams 3 AST),,,55 - 80,25
+0021001081,314,6,2,3,8:36 PM,2:17,,,Gadzuric S.FOUL (P1.T4),,
+0021001081,315,9,1,3,8:36 PM,2:17,,,Nets Timeout: Regular (Reg.3 Short 1),,
+0021001081,316,8,0,3,8:38 PM,2:17,SUB: Pachulia FOR Smith,,,,
+0021001081,317,8,0,3,8:38 PM,2:17,,,SUB: Vujacic FOR Morrow,,
+0021001081,318,3,10,3,8:39 PM,2:17,Horford Free Throw 1 of 1 (16 PTS),,,55 - 81,26
+0021001081,321,6,1,3,8:39 PM,2:06,Williams P.FOUL (P4.PN),,,,
+0021001081,322,3,11,3,8:39 PM,2:06,,,Outlaw Free Throw 1 of 2 (1 PTS),56 - 81,25
+0021001081,324,3,12,3,8:40 PM,2:06,,,Outlaw Free Throw 2 of 2 (2 PTS),57 - 81,24
+0021001081,326,6,2,3,8:40 PM,1:47,,,Petro S.FOUL (P1.PN),,
+0021001081,327,3,11,3,8:40 PM,1:47,MISS Horford Free Throw 1 of 2,,,,
+0021001081,328,4,1,3,8:40 PM,1:47,HAWKS Rebound,,,,
+0021001081,329,8,0,3,8:40 PM,1:47,SUB: Wilkins FOR Williams,,,,
+0021001081,330,3,12,3,8:41 PM,1:47,Horford Free Throw 2 of 2 (17 PTS),,,57 - 82,25
+0021001081,332,2,1,3,8:41 PM,1:32,,,MISS Uzoh 9' Jump Shot,,
+0021001081,333,4,0,3,8:41 PM,1:30,Horford REBOUND (Off:2 Def:8),,,,
+0021001081,334,2,1,3,8:41 PM,1:12,MISS Crawford 19' Jump Shot,,,,
+0021001081,335,4,0,3,8:41 PM,1:11,,,Petro REBOUND (Off:2 Def:4),,
+0021001081,336,1,1,3,8:41 PM,1:04,,,Petro 20' Jump Shot (8 PTS) (Uzoh 2 AST),59 - 82,23
+0021001081,338,5,40,3,8:42 PM,0:40,Horford Out of Bounds Lost Ball Turnover (P2.T8),,,,
+0021001081,339,1,1,3,8:43 PM,0:30,,,Vujacic 21' Jump Shot (9 PTS) (Uzoh 3 AST),61 - 82,21
+0021001081,340,2,1,3,8:43 PM,0:07,MISS Horford 19' Jump Shot,,,,
+0021001081,341,4,0,3,8:43 PM,0:06,,,Uzoh REBOUND (Off:1 Def:1),,
+0021001081,342,2,41,3,8:43 PM,0:00,Horford BLOCK (2 BLK),,MISS Uzoh 1' Running Layup,,
+0021001081,343,4,0,3,8:43 PM,0:00,Hinrich REBOUND (Off:0 Def:6),,,,
+0021001081,344,2,1,3,8:43 PM,0:00,MISS Hinrich 79' 3PT Jump Shot,,,,
+0021001081,345,4,0,3,8:44 PM,0:00,HAWKS Rebound,,,,
+0021001081,346,13,0,3,8:44 PM,0:00,,,,61 - 82,21
+0021001081,348,12,0,4,8:46 PM,12:00,,,,61 - 82,21
+0021001081,349,1,1,4,8:46 PM,11:44,,,Vujacic 20' Jump Shot (11 PTS) (Uzoh 4 AST),63 - 82,19
+0021001081,350,2,1,4,8:46 PM,11:22,MISS Teague 25' 3PT Jump Shot,,,,
+0021001081,351,4,0,4,8:46 PM,11:20,,,Gadzuric REBOUND (Off:0 Def:1),,
+0021001081,352,5,1,4,8:47 PM,11:08,Pachulia STEAL (1 STL),,Petro Bad Pass Turnover (P1.T12),,
+0021001081,353,5,2,4,8:47 PM,10:57,Teague Lost Ball Turnover (P1.T9),,Uzoh STEAL (2 STL),,
+0021001081,354,2,47,4,8:47 PM,10:41,,,MISS Gadzuric 15' Turnaround Jump Shot,,
+0021001081,355,4,0,4,8:47 PM,10:40,HAWKS Rebound,,,,
+0021001081,357,1,1,4,8:47 PM,10:35,Crawford 25' 3PT Jump Shot (16 PTS) (Teague 2 AST),,,63 - 85,22
+0021001081,358,9,1,4,8:47 PM,10:32,,,Nets Timeout: Regular (Reg.4 Short 1),,
+0021001081,360,8,0,4,8:50 PM,10:32,,,SUB: Farmar FOR Uzoh,,
+0021001081,361,1,1,4,8:50 PM,10:19,,,Farmar 25' 3PT Jump Shot (5 PTS) (Petro 3 AST),66 - 85,19
+0021001081,362,2,1,4,8:50 PM,10:03,MISS Crawford 25' 3PT Jump Shot,,,,
+0021001081,363,4,0,4,8:50 PM,10:03,,,Nets Rebound,,
+0021001081,364,2,1,4,8:50 PM,9:49,,,MISS Vujacic 26' 3PT Jump Shot,,
+0021001081,365,4,0,4,8:50 PM,9:47,Pachulia REBOUND (Off:1 Def:3),,,,
+0021001081,366,6,4,4,8:51 PM,9:43,Horford OFF.Foul (P2),,,,
+0021001081,367,5,5,4,8:51 PM,9:43,Horford Foul Turnover (P3.T10),,,,
+0021001081,368,8,0,4,8:51 PM,9:43,,,SUB: Lopez FOR Petro,,
+0021001081,369,8,0,4,8:51 PM,9:43,,,SUB: Humphries FOR Gadzuric,,
+0021001081,370,2,42,4,8:51 PM,9:25,,,MISS Outlaw 1' Driving Layup,,
+0021001081,371,4,0,4,8:51 PM,9:23,Pachulia REBOUND (Off:1 Def:4),,,,
+0021001081,372,2,1,4,8:52 PM,9:04,MISS Wilkins 20' Jump Shot,,,,
+0021001081,373,4,0,4,8:52 PM,9:03,Pachulia REBOUND (Off:2 Def:4),,,,
+0021001081,374,6,2,4,8:52 PM,9:03,,,Vujacic S.FOUL (P1.T1),,
+0021001081,375,3,11,4,8:52 PM,9:03,MISS Pachulia Free Throw 1 of 2,,,,
+0021001081,376,4,1,4,8:52 PM,9:03,HAWKS Rebound,,,,
+0021001081,377,3,12,4,8:52 PM,9:03,Pachulia Free Throw 2 of 2 (3 PTS),,,66 - 86,20
+0021001081,380,5,2,4,8:53 PM,8:49,Pachulia STEAL (2 STL),,Lopez Lost Ball Turnover (P2.T13),,
+0021001081,381,6,1,4,8:53 PM,8:31,,,Humphries P.FOUL (P3.T2),,
+0021001081,382,8,0,4,8:53 PM,8:31,,,SUB: Morrow FOR Outlaw,,
+0021001081,383,5,1,4,8:53 PM,8:27,Crawford Bad Pass Turnover (P1.T11),,Vujacic STEAL (2 STL),,
+0021001081,384,2,1,4,8:53 PM,8:17,,,MISS Lopez 18' Jump Shot,,
+0021001081,385,4,0,4,8:54 PM,8:16,Pachulia REBOUND (Off:2 Def:5),,,,
+0021001081,386,2,5,4,8:54 PM,8:10,MISS Horford 2' Layup,,,,
+0021001081,387,4,0,4,8:54 PM,8:07,,,Vujacic REBOUND (Off:0 Def:1),,
+0021001081,388,6,2,4,8:54 PM,7:52,Teague S.FOUL (P2.T1),,,,
+0021001081,389,3,11,4,8:54 PM,7:52,,,Morrow Free Throw 1 of 2 (16 PTS),67 - 86,19
+0021001081,391,3,12,4,8:55 PM,7:52,,,Morrow Free Throw 2 of 2 (17 PTS),68 - 86,18
+0021001081,394,2,1,4,8:55 PM,7:32,MISS Teague 17' Jump Shot,,,,
+0021001081,395,4,0,4,8:55 PM,7:30,,,Humphries REBOUND (Off:0 Def:4),,
+0021001081,396,1,1,4,8:55 PM,7:24,,,Morrow 19' Jump Shot (19 PTS),70 - 86,16
+0021001081,397,9,1,4,8:55 PM,7:23,HAWKS Timeout: Regular (Full 4 Short 1),,,,
+0021001081,399,8,0,4,8:57 PM,7:23,SUB: Williams FOR Pachulia,,,,
+0021001081,400,8,0,4,8:57 PM,7:23,SUB: Smith FOR Teague,,,,
+0021001081,401,8,0,4,8:57 PM,7:23,SUB: Hinrich FOR Wilkins,,,,
+0021001081,403,1,1,4,8:58 PM,7:00,Smith 21' Jump Shot (20 PTS) (Crawford 6 AST),,,70 - 88,18
+0021001081,404,1,1,4,8:58 PM,6:44,,,Morrow 20' Jump Shot (21 PTS),72 - 88,16
+0021001081,405,6,1,4,8:58 PM,6:31,,,Vujacic P.FOUL (P2.T3),,
+0021001081,406,5,40,4,8:59 PM,6:23,Horford Out of Bounds Lost Ball Turnover (P4.T12),,,,
+0021001081,407,1,1,4,8:59 PM,6:07,,,Morrow 18' Jump Shot (23 PTS),74 - 88,14
+0021001081,408,2,42,4,9:00 PM,5:47,MISS Crawford 2' Driving Layup,,,,
+0021001081,409,4,0,4,9:00 PM,5:44,,,Farmar REBOUND (Off:1 Def:3),,
+0021001081,410,1,41,4,9:00 PM,5:41,,,Vujacic 1' Running Layup (13 PTS) (Farmar 8 AST),76 - 88,12
+0021001081,411,2,77,4,9:00 PM,5:13,MISS Crawford 7' Driving Jump Shot,,,,
+0021001081,412,4,0,4,9:00 PM,5:10,,,Vujacic REBOUND (Off:0 Def:2),,
+0021001081,413,2,1,4,9:00 PM,5:03,,,MISS Morrow  3PT Jump Shot,,
+0021001081,415,4,0,4,9:00 PM,5:02,,,Humphries REBOUND (Off:1 Def:4),,
+0021001081,414,1,4,4,9:00 PM,5:02,,,Humphries  Tip Shot (12 PTS),78 - 88,10
+0021001081,416,9,1,4,9:00 PM,5:02,HAWKS Timeout: Regular (Full 5 Short 1),,,,
+0021001081,420,6,2,4,9:03 PM,4:42,,,Morrow S.FOUL (P4.T4),,
+0021001081,421,3,11,4,9:03 PM,4:42,Horford Free Throw 1 of 2 (18 PTS),,,78 - 89,11
+0021001081,423,3,12,4,9:04 PM,4:42,Horford Free Throw 2 of 2 (19 PTS),,,78 - 90,12
+0021001081,425,2,1,4,9:04 PM,4:29,,,MISS Vujacic 25' 3PT Jump Shot,,
+0021001081,426,4,0,4,9:04 PM,4:28,Horford REBOUND (Off:2 Def:9),,,,
+0021001081,427,1,1,4,9:04 PM,4:02,Horford 19' Jump Shot (21 PTS),,,78 - 92,14
+0021001081,428,6,1,4,9:05 PM,3:51,Williams P.FOUL (P5.T2),,,,
+0021001081,430,2,1,4,9:05 PM,3:40,,,MISS Morrow 16' Jump Shot,,
+0021001081,431,4,0,4,9:05 PM,3:39,Horford REBOUND (Off:2 Def:10),,,,
+0021001081,432,1,1,4,9:06 PM,3:23,Horford 19' Jump Shot (23 PTS) (Hinrich 4 AST),,,78 - 94,16
+0021001081,433,9,1,4,9:06 PM,3:23,,,Nets Timeout: Regular (Reg.5 Short 1),,
+0021001081,435,8,0,4,9:07 PM,3:23,,,SUB: Outlaw FOR Humphries,,
+0021001081,436,1,42,4,9:08 PM,3:07,,,Morrow 3' Driving Layup (25 PTS),80 - 94,14
+0021001081,437,6,1,4,9:08 PM,2:52,,,Vujacic P.FOUL (P3.PN),,
+0021001081,438,8,0,4,9:08 PM,2:52,,,SUB: Petro FOR Lopez,,
+0021001081,439,8,0,4,9:08 PM,2:52,,,SUB: Uzoh FOR Farmar,,
+0021001081,440,3,11,4,9:08 PM,2:52,Smith Free Throw 1 of 2 (21 PTS),,,80 - 95,15
+0021001081,442,3,12,4,9:09 PM,2:52,Smith Free Throw 2 of 2 (22 PTS),,,80 - 96,16
+0021001081,444,1,1,4,9:09 PM,2:41,,,Outlaw 25' 3PT Jump Shot (5 PTS) (Uzoh 5 AST),83 - 96,13
+0021001081,445,2,1,4,9:09 PM,2:21,MISS Horford 19' Jump Shot,,,,
+0021001081,446,4,0,4,9:09 PM,2:19,,,Nets Rebound,,
+0021001081,448,2,42,4,9:10 PM,2:11,,,MISS Uzoh 2' Driving Layup,,
+0021001081,449,4,0,4,9:10 PM,2:09,Smith REBOUND (Off:0 Def:4),,,,
+0021001081,450,2,77,4,9:10 PM,1:48,MISS Crawford 8' Driving Jump Shot,,,,
+0021001081,451,4,0,4,9:10 PM,1:47,,,Petro REBOUND (Off:2 Def:5),,
+0021001081,452,1,1,4,9:10 PM,1:37,,,Petro 13' Jump Shot (10 PTS) (Uzoh 6 AST),85 - 96,11
+0021001081,453,2,1,4,9:11 PM,1:11,MISS Williams 20' Jump Shot,,,,
+0021001081,454,4,0,4,9:11 PM,1:11,,,Petro REBOUND (Off:2 Def:6),,
+0021001081,455,9,2,4,9:11 PM,1:11,,,Nets Timeout: Short (Reg.5 Short 2),,
+0021001081,457,8,0,4,9:12 PM,1:11,,,SUB: Farmar FOR Uzoh,,
+0021001081,458,2,1,4,9:12 PM,1:05,,,MISS Morrow 26' 3PT Jump Shot,,
+0021001081,459,4,0,4,9:12 PM,1:03,Crawford REBOUND (Off:0 Def:2),,,,
+0021001081,460,6,1,4,9:12 PM,1:01,,,Outlaw P.FOUL (P4.PN),,
+0021001081,461,3,11,4,9:12 PM,1:01,Crawford Free Throw 1 of 2 (17 PTS),,,85 - 97,12
+0021001081,463,8,0,4,9:13 PM,1:01,,,SUB: Graham FOR Morrow,,
+0021001081,464,8,0,4,9:13 PM,1:01,,,SUB: Wright FOR Vujacic,,
+0021001081,465,8,0,4,9:13 PM,1:01,,,SUB: Uzoh FOR Farmar,,
+0021001081,466,8,0,4,9:13 PM,1:01,,,SUB: Gadzuric FOR Outlaw,,
+0021001081,467,8,0,4,9:13 PM,1:01,SUB: Pachulia FOR Horford,,,,
+0021001081,468,3,12,4,9:13 PM,1:01,Crawford Free Throw 2 of 2 (18 PTS),,,85 - 98,13
+0021001081,471,1,1,4,9:13 PM,0:50,,,Petro 20' Jump Shot (12 PTS) (Uzoh 7 AST),87 - 98,11
+0021001081,472,2,1,4,9:14 PM,0:28,MISS Smith 25' 3PT Jump Shot,,,,
+0021001081,473,4,0,4,9:14 PM,0:27,Hinrich REBOUND (Off:1 Def:6),,,,
+0021001081,474,2,1,4,9:14 PM,0:03,MISS Crawford 25' 3PT Jump Shot,,,,
+0021001081,475,4,0,4,9:14 PM,0:01,,,Gadzuric REBOUND (Off:0 Def:2),,
+0021001081,476,13,0,4,9:14 PM,0:00,,,,87 - 98,11

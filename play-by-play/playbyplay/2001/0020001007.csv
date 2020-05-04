@@ -1,0 +1,415 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020001007,0,12,0,1,4:11 AM,12:00,,,,,
+0020001007,1,10,0,1,4:11 AM,12:00,Jump Ball Davis vs. Massenburg: Tip to Bibby,,,,
+0020001007,3,2,1,1,4:12 AM,11:46,,,MISS Long 17' Jump Shot,,
+0020001007,4,4,0,1,4:12 AM,11:44,Carter REBOUND (Off:0 Def:1),,,,
+0020001007,5,1,1,1,4:12 AM,11:35,Peterson  3PT Jump Shot (3 PTS) (Carter 1 AST),,,0 - 3,3
+0020001007,6,6,2,1,4:12 AM,11:22,Davis S.FOUL (P1.T1),,,,
+0020001007,7,3,11,1,4:12 AM,11:22,,,Abdur-Rahim Free Throw 1 of 2 (1 PTS),1 - 3,2
+0020001007,8,3,12,1,4:12 AM,11:22,,,Abdur-Rahim Free Throw 2 of 2 (2 PTS),2 - 3,1
+0020001007,9,6,2,1,4:13 AM,11:08,,,Massenburg S.FOUL (P1.T1),,
+0020001007,10,3,11,1,4:13 AM,11:08,MISS Davis Free Throw 1 of 2,,,,
+0020001007,11,4,1,1,4:13 AM,11:08,RAPTORS Rebound,,,,
+0020001007,12,3,12,1,4:13 AM,11:08,MISS Davis Free Throw 2 of 2,,,,
+0020001007,13,4,0,1,4:14 AM,11:07,,,Abdur-Rahim REBOUND (Off:0 Def:1),,
+0020001007,15,1,1,1,4:14 AM,10:49,,,Abdur-Rahim 10' Jump Shot (4 PTS),4 - 3,-1
+0020001007,16,2,47,1,4:14 AM,10:36,MISS Carter 14' Turnaround Jump Shot,,,,
+0020001007,17,4,0,1,4:14 AM,10:34,Peterson REBOUND (Off:1 Def:0),,,,
+0020001007,18,2,4,1,4:14 AM,10:32,MISS Peterson  Tip Shot,,Long BLOCK (1 BLK),,
+0020001007,19,4,0,1,4:14 AM,10:30,,,Abdur-Rahim REBOUND (Off:0 Def:2),,
+0020001007,20,1,5,1,4:14 AM,10:16,,,Massenburg  Layup (2 PTS) (Bibby 1 AST),6 - 3,-3
+0020001007,21,1,1,1,4:15 AM,10:06,Peterson 24' 3PT Jump Shot (6 PTS) (Williams 1 AST),,,6 - 6,TIE
+0020001007,22,5,1,1,4:15 AM,9:59,Williams STEAL (1 STL),,Abdur-Rahim Bad Pass Turnover (P1.T1),,
+0020001007,23,1,1,1,4:15 AM,9:50,Oakley 19' Jump Shot (2 PTS) (Davis 1 AST),,,6 - 8,2
+0020001007,24,2,1,1,4:15 AM,9:30,,,MISS Long 17' Jump Shot,,
+0020001007,25,4,0,1,4:15 AM,9:28,Davis REBOUND (Off:0 Def:1),,,,
+0020001007,26,1,1,1,4:15 AM,9:12,Peterson  3PT Jump Shot (9 PTS) (Oakley 1 AST),,,6 - 11,5
+0020001007,27,1,1,1,4:16 AM,8:52,,,Bibby 21' Jump Shot (2 PTS) (Long 1 AST),8 - 11,3
+0020001007,28,1,8,1,4:16 AM,8:31,Davis  Slam Dunk (2 PTS) (Peterson 1 AST),,,8 - 13,5
+0020001007,29,6,1,1,4:16 AM,8:19,Oakley P.FOUL (P1.T2),,,,
+0020001007,30,2,1,1,4:17 AM,8:13,,,MISS Long 19' Jump Shot,,
+0020001007,31,4,0,1,4:17 AM,8:10,Carter REBOUND (Off:0 Def:2),,,,
+0020001007,32,6,4,1,4:17 AM,8:06,Carter OFF.Foul (P1),,,,
+0020001007,33,5,5,1,4:17 AM,8:06,Carter Foul Turnover (P1.T1),,,,
+0020001007,34,2,46,1,4:17 AM,7:54,,,MISS Bibby 8' Running Jump Shot,,
+0020001007,35,4,0,1,4:17 AM,7:52,,,Bibby REBOUND (Off:1 Def:0),,
+0020001007,36,2,4,1,4:17 AM,7:51,,,MISS Bibby  Tip Shot,,
+0020001007,37,4,0,1,4:17 AM,7:49,Peterson REBOUND (Off:1 Def:1),,,,
+0020001007,38,2,1,1,4:17 AM,7:44,MISS Peterson 21' Jump Shot,,,,
+0020001007,39,4,0,1,4:17 AM,7:43,,,Abdur-Rahim REBOUND (Off:0 Def:3),,
+0020001007,40,5,4,1,4:17 AM,7:39,,,Dickerson Traveling Turnover (P1.T2),,
+0020001007,41,5,1,1,4:18 AM,7:24,Peterson Bad Pass Turnover (P1.T2),,,,
+0020001007,43,1,1,1,4:18 AM,7:09,,,Dickerson 25' 3PT Jump Shot (3 PTS) (Abdur-Rahim 1 AST),11 - 13,2
+0020001007,44,2,1,1,4:19 AM,6:54,MISS Carter 18' Jump Shot,,,,
+0020001007,45,4,0,1,4:19 AM,6:52,,,Bibby REBOUND (Off:1 Def:1),,
+0020001007,46,1,47,1,4:19 AM,6:44,,,Massenburg 15' Turnaround Jump Shot (4 PTS) (Long 2 AST),13 - 13,TIE
+0020001007,47,2,1,1,4:19 AM,6:27,MISS Williams 25' 3PT Jump Shot,,,,
+0020001007,48,4,0,1,4:19 AM,6:25,Davis REBOUND (Off:1 Def:1),,,,
+0020001007,49,2,1,1,4:19 AM,6:17,MISS Davis 11' Jump Shot,,,,
+0020001007,50,4,0,1,4:19 AM,6:15,,,Bibby REBOUND (Off:1 Def:2),,
+0020001007,51,6,4,1,4:19 AM,6:04,,,Massenburg OFF.Foul (P2),,
+0020001007,52,5,5,1,4:19 AM,6:04,,,Massenburg Foul Turnover (P1.T3),,
+0020001007,53,8,0,1,4:20 AM,6:04,,,SUB: Reeves FOR Massenburg,,
+0020001007,55,2,1,1,4:20 AM,5:44,MISS Williams 20' Jump Shot,,,,
+0020001007,56,4,0,1,4:20 AM,5:41,Davis REBOUND (Off:2 Def:1),,,,
+0020001007,57,6,2,1,4:20 AM,5:41,,,Reeves S.FOUL (P1.T2),,
+0020001007,58,9,3,1,4:20 AM,5:41,RAPTORS Timeout: Official TV (Full 0 Short 0),,,,
+0020001007,59,6,11,1,4:20 AM,5:41,Carter T.FOUL (P1.T2),,,,
+0020001007,62,3,16,1,4:23 AM,5:41,,,Abdur-Rahim Free Throw Technical (5 PTS),14 - 13,-1
+0020001007,63,3,11,1,4:23 AM,5:41,Davis Free Throw 1 of 2 (3 PTS),,,14 - 14,TIE
+0020001007,64,3,12,1,4:23 AM,5:41,Davis Free Throw 2 of 2 (4 PTS),,,14 - 15,1
+0020001007,66,5,8,1,4:24 AM,5:29,,,Abdur-Rahim 3 Second Violation Turnover (P2.T4),,
+0020001007,68,1,5,1,4:24 AM,5:17,Carter  Layup (2 PTS) (Peterson 2 AST),,,14 - 17,3
+0020001007,69,2,1,1,4:25 AM,5:02,,,MISS Abdur-Rahim 18' Jump Shot,,
+0020001007,70,4,0,1,4:25 AM,5:01,Williams REBOUND (Off:0 Def:1),,,,
+0020001007,71,2,1,1,4:25 AM,4:49,MISS Oakley 20' Jump Shot,,,,
+0020001007,72,4,0,1,4:25 AM,4:48,,,Grizzlies Rebound,,
+0020001007,73,2,1,1,4:25 AM,4:31,,,MISS Bibby 18' Jump Shot,,
+0020001007,74,4,0,1,4:25 AM,4:29,Williams REBOUND (Off:0 Def:2),,,,
+0020001007,75,2,1,1,4:25 AM,4:20,MISS Peterson 20' Jump Shot,,,,
+0020001007,76,4,0,1,4:26 AM,4:18,,,Bibby REBOUND (Off:1 Def:3),,
+0020001007,77,1,1,1,4:26 AM,4:07,,,Reeves 12' Jump Shot (2 PTS) (Abdur-Rahim 2 AST),16 - 17,1
+0020001007,78,2,1,1,4:26 AM,3:44,MISS Carter 25' 3PT Jump Shot,,,,
+0020001007,79,4,0,1,4:26 AM,3:42,Davis REBOUND (Off:3 Def:1),,,,
+0020001007,80,5,1,1,4:26 AM,3:42,Davis Bad Pass Turnover (P1.T3),,,,
+0020001007,81,2,1,1,4:26 AM,3:30,,,MISS Reeves 16' Jump Shot,,
+0020001007,82,4,0,1,4:26 AM,3:28,Carter REBOUND (Off:0 Def:3),,,,
+0020001007,83,1,1,1,4:27 AM,3:18,Davis 13' Jump Shot (6 PTS),,,16 - 19,3
+0020001007,84,2,1,1,4:27 AM,2:56,,,MISS Long 16' Jump Shot,,
+0020001007,85,4,0,1,4:27 AM,2:54,Davis REBOUND (Off:3 Def:2),,,,
+0020001007,86,1,46,1,4:27 AM,2:50,Peterson 8' Running Jump Shot (11 PTS) (Williams 2 AST),,,16 - 21,5
+0020001007,87,9,1,1,4:27 AM,2:40,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,
+0020001007,89,8,0,1,4:29 AM,2:40,,,SUB: Swift FOR Long,,
+0020001007,90,8,0,1,4:30 AM,2:40,SUB: Clark FOR Oakley,,,,
+0020001007,91,1,8,1,4:30 AM,2:32,,,Abdur-Rahim  Slam Dunk (7 PTS) (Reeves 1 AST),18 - 21,3
+0020001007,92,1,1,1,4:30 AM,2:10,Clark 6' Jump Shot (2 PTS),,,18 - 23,5
+0020001007,93,1,1,1,4:31 AM,1:52,,,Bibby 25' 3PT Jump Shot (5 PTS) (Reeves 2 AST),21 - 23,2
+0020001007,94,6,2,1,4:31 AM,1:32,,,Reeves S.FOUL (P2.T3),,
+0020001007,95,3,11,1,4:31 AM,1:32,Peterson Free Throw 1 of 2 (12 PTS),,,21 - 24,3
+0020001007,96,3,12,1,4:31 AM,1:32,Peterson Free Throw 2 of 2 (13 PTS),,,21 - 25,4
+0020001007,97,1,1,1,4:32 AM,1:19,,,Dickerson  3PT Jump Shot (6 PTS) (Bibby 2 AST),24 - 25,1
+0020001007,98,2,1,1,4:32 AM,1:06,MISS Peterson 25' 3PT Jump Shot,,,,
+0020001007,99,4,0,1,4:32 AM,1:05,,,Grizzlies Rebound,,
+0020001007,100,6,3,1,4:32 AM,1:05,Clark L.B.FOUL (P1.T3),,,,
+0020001007,101,2,1,1,4:33 AM,0:53,,,MISS Dickerson 18' Jump Shot,,
+0020001007,102,4,0,1,4:33 AM,0:51,Williams REBOUND (Off:0 Def:3),,,,
+0020001007,103,1,46,1,4:33 AM,0:44,Carter 8' Running Jump Shot (4 PTS),,,24 - 27,3
+0020001007,104,2,44,1,4:33 AM,0:37,,,MISS Swift  Reverse Layup,,
+0020001007,105,4,0,1,4:33 AM,0:33,,,Swift REBOUND (Off:1 Def:0),,
+0020001007,106,5,1,1,4:33 AM,0:31,Peterson STEAL (1 STL),,Swift Bad Pass Turnover (P1.T5),,
+0020001007,107,2,45,1,4:33 AM,0:21,MISS Clark 6' Jump Shot,,Swift BLOCK (1 BLK),,
+0020001007,108,4,0,1,4:33 AM,0:20,RAPTORS Rebound,,,,
+0020001007,109,5,2,1,4:34 AM,0:13,Carter Lost Ball Turnover (P2.T4),,Reeves STEAL (1 STL),,
+0020001007,110,6,2,1,4:34 AM,0:08,Clark S.FOUL (P2.PN),,,,
+0020001007,111,3,11,1,4:34 AM,0:08,,,Abdur-Rahim Free Throw 1 of 2 (8 PTS),25 - 27,2
+0020001007,112,3,12,1,4:34 AM,0:08,,,Abdur-Rahim Free Throw 2 of 2 (9 PTS),26 - 27,1
+0020001007,113,2,47,1,4:34 AM,0:00,MISS Carter 6' Turnaround Jump Shot,,,,
+0020001007,114,4,0,1,4:35 AM,0:00,Carter REBOUND (Off:1 Def:3),,,,
+0020001007,115,1,4,1,4:35 AM,0:00,Carter  Tip Shot (6 PTS),,,26 - 29,3
+0020001007,117,13,0,1,4:35 AM,0:00,,,,26 - 29,3
+0020001007,118,12,0,2,4:38 AM,12:00,,,,26 - 29,3
+0020001007,119,2,42,2,4:38 AM,11:43,MISS Carter  Driving Layup,,,,
+0020001007,120,4,0,2,4:38 AM,11:42,,,Jones REBOUND (Off:0 Def:1),,
+0020001007,121,6,2,2,4:38 AM,11:38,Clark S.FOUL (P3.T1),,,,
+0020001007,122,3,11,2,4:38 AM,11:38,,,Swift Free Throw 1 of 2 (1 PTS),27 - 29,2
+0020001007,123,8,0,2,4:39 AM,11:38,SUB: Williams FOR Clark,,,,
+0020001007,124,8,0,2,4:39 AM,11:38,SUB: Murray FOR Peterson,,,,
+0020001007,125,3,12,2,4:39 AM,11:38,,,Swift Free Throw 2 of 2 (2 PTS),28 - 29,1
+0020001007,127,5,1,2,4:39 AM,11:23,Davis Bad Pass Turnover (P2.T5),,Swift STEAL (1 STL),,
+0020001007,128,2,1,2,4:39 AM,11:16,,,MISS Swift 6' Jump Shot,,
+0020001007,129,4,0,2,4:39 AM,11:14,Williams REBOUND (Off:0 Def:1),,,,
+0020001007,130,2,1,2,4:40 AM,11:05,MISS Carter 24' 3PT Jump Shot,,,,
+0020001007,131,4,0,2,4:40 AM,11:03,,,Reeves REBOUND (Off:0 Def:1),,
+0020001007,132,1,41,2,4:40 AM,10:59,,,Abdur-Rahim  Running Layup (11 PTS) (Bibby 3 AST),30 - 29,-1
+0020001007,133,6,2,2,4:40 AM,10:37,,,Abdur-Rahim S.FOUL (P1.T1),,
+0020001007,134,3,11,2,4:40 AM,10:37,Davis Free Throw 1 of 2 (7 PTS),,,30 - 30,TIE
+0020001007,135,3,12,2,4:40 AM,10:37,Davis Free Throw 2 of 2 (8 PTS),,,30 - 31,1
+0020001007,137,2,5,2,4:41 AM,10:21,,,MISS Abdur-Rahim  Layup,,
+0020001007,138,4,0,2,4:41 AM,10:19,Carter REBOUND (Off:1 Def:4),,,,
+0020001007,139,1,1,2,4:41 AM,10:13,Murray 21' Jump Shot (2 PTS) (Carter 2 AST),,,30 - 33,3
+0020001007,140,5,1,2,4:41 AM,9:58,Williams STEAL (2 STL),,Bibby Bad Pass Turnover (P1.T6),,
+0020001007,141,1,42,2,4:41 AM,9:53,Williams  Driving Layup (2 PTS),,,30 - 35,5
+0020001007,142,9,2,2,4:42 AM,9:46,,,Grizzlies Timeout: Short (Reg.1 Short 1),,
+0020001007,146,1,47,2,4:43 AM,9:32,,,Reeves 6' Turnaround Jump Shot (4 PTS) (Jones 1 AST),32 - 35,3
+0020001007,147,6,1,2,4:43 AM,9:19,,,Jones P.FOUL (P1.T2),,
+0020001007,148,2,47,2,4:44 AM,9:08,MISS Davis 15' Turnaround Jump Shot,,,,
+0020001007,149,4,0,2,4:44 AM,9:06,,,Abdur-Rahim REBOUND (Off:0 Def:4),,
+0020001007,150,5,4,2,4:44 AM,8:58,,,Reeves Traveling Turnover (P1.T7),,
+0020001007,151,9,3,2,4:44 AM,8:58,,,,,
+0020001007,152,8,0,2,4:46 AM,8:58,SUB: Oakley FOR Davis,,,,
+0020001007,153,8,0,2,4:46 AM,8:58,,,SUB: Dickerson FOR Bibby,,
+0020001007,154,2,1,2,4:46 AM,8:48,MISS Williams 20' Jump Shot,,,,
+0020001007,155,4,0,2,4:46 AM,8:47,,,Abdur-Rahim REBOUND (Off:0 Def:5),,
+0020001007,156,1,43,2,4:46 AM,8:34,,,Swift  Alley Oop Layup (4 PTS) (Jones 2 AST),34 - 35,1
+0020001007,158,2,1,2,4:47 AM,8:14,MISS Murray 25' 3PT Jump Shot,,,,
+0020001007,159,4,0,2,4:47 AM,8:13,,,Reeves REBOUND (Off:0 Def:2),,
+0020001007,160,1,47,2,4:47 AM,7:57,,,Abdur-Rahim 11' Turnaround Jump Shot (13 PTS),36 - 35,-1
+0020001007,161,2,1,2,4:47 AM,7:39,MISS Carter 25' 3PT Jump Shot,,,,
+0020001007,162,4,0,2,4:47 AM,7:36,,,Abdur-Rahim REBOUND (Off:0 Def:6),,
+0020001007,163,1,1,2,4:48 AM,7:24,,,Abdur-Rahim 19' Jump Shot (15 PTS) (Jones 3 AST),38 - 35,-3
+0020001007,164,2,1,2,4:48 AM,7:11,MISS Williams 17' Jump Shot,,,,
+0020001007,165,4,0,2,4:48 AM,7:10,,,Abdur-Rahim REBOUND (Off:0 Def:7),,
+0020001007,166,5,2,2,4:48 AM,7:01,Williams STEAL (3 STL),,Dickerson Lost Ball Turnover (P2.T8),,
+0020001007,167,2,5,2,4:48 AM,6:53,MISS Williams  Layup,,,,
+0020001007,168,4,0,2,4:48 AM,6:51,Williams REBOUND (Off:1 Def:3),,,,
+0020001007,169,1,1,2,4:48 AM,6:47,Murray 25' 3PT Jump Shot (5 PTS) (Williams 3 AST),,,38 - 38,TIE
+0020001007,170,6,2,2,4:49 AM,6:27,Murray S.FOUL (P1.T2),,,,
+0020001007,171,8,0,2,4:49 AM,6:27,SUB: Curry FOR Carter,,,,
+0020001007,172,3,11,2,4:49 AM,6:27,,,Abdur-Rahim Free Throw 1 of 2 (16 PTS),39 - 38,-1
+0020001007,173,3,12,2,4:49 AM,6:27,,,Abdur-Rahim Free Throw 2 of 2 (17 PTS),40 - 38,-2
+0020001007,174,1,1,2,4:50 AM,6:02,Williams 17' Jump Shot (4 PTS) (Murray 1 AST),,,40 - 40,TIE
+0020001007,175,7,2,2,4:50 AM,5:43,Oakley Violation:Defensive Goaltending,,,,
+0020001007,176,9,3,2,4:50 AM,5:43,RAPTORS Timeout: Official TV (Full 0 Short 0),,,,
+0020001007,180,1,47,2,4:53 AM,5:29,,,Abdur-Rahim 14' Turnaround Jump Shot (19 PTS) (Jones 4 AST),42 - 40,-2
+0020001007,181,2,1,2,4:53 AM,5:16,MISS Oakley 19' Jump Shot,,,,
+0020001007,182,4,0,2,4:53 AM,5:13,,,Dickerson REBOUND (Off:0 Def:1),,
+0020001007,183,5,1,2,4:53 AM,5:07,,,Dickerson Bad Pass Turnover (P3.T9),,
+0020001007,184,8,0,2,4:54 AM,5:07,,,SUB: Bibby FOR Abdur-Rahim,,
+0020001007,185,8,0,2,4:54 AM,5:07,SUB: Peterson FOR Murray,,,,
+0020001007,186,2,1,2,4:54 AM,4:53,MISS Oakley 18' Jump Shot,,,,
+0020001007,187,4,0,2,4:54 AM,4:51,,,Grizzlies Rebound,,
+0020001007,188,2,47,2,4:54 AM,4:37,,,MISS Reeves 9' Turnaround Jump Shot,,
+0020001007,189,4,0,2,4:54 AM,4:35,Williams REBOUND (Off:1 Def:4),,,,
+0020001007,190,2,41,2,4:54 AM,4:24,MISS Curry  Running Layup,,,,
+0020001007,191,4,0,2,4:55 AM,4:22,,,Swift REBOUND (Off:1 Def:1),,
+0020001007,192,1,1,2,4:55 AM,4:06,,,Dickerson 16' Jump Shot (8 PTS),44 - 40,-4
+0020001007,193,1,61,2,4:55 AM,3:49,Peterson  Driving Finger Roll (15 PTS) (Williams 4 AST),,,44 - 42,-2
+0020001007,194,1,42,2,4:55 AM,3:33,,,Dickerson  Driving Layup (10 PTS),46 - 42,-4
+0020001007,195,9,1,2,4:56 AM,3:24,RAPTORS Timeout: Regular (Full 1 Short 0),,,,
+0020001007,197,8,0,2,4:58 AM,3:24,SUB: Davis FOR Williams,,,,
+0020001007,198,8,0,2,4:58 AM,3:24,SUB: Carter FOR Williams,,,,
+0020001007,199,8,0,2,4:58 AM,3:24,,,SUB: Abdur-Rahim FOR Jones,,
+0020001007,200,1,1,2,4:58 AM,3:20,Curry 20' Jump Shot (2 PTS) (Carter 3 AST),,,46 - 44,-2
+0020001007,201,2,1,2,4:58 AM,2:57,,,MISS Dickerson 25' 3PT Jump Shot,,
+0020001007,202,4,0,2,4:58 AM,2:56,,,Reeves REBOUND (Off:1 Def:2),,
+0020001007,203,2,40,2,4:58 AM,2:55,,,MISS Reeves  Layup,,
+0020001007,204,4,0,2,4:58 AM,2:54,Davis REBOUND (Off:3 Def:3),,,,
+0020001007,205,1,1,2,4:59 AM,2:40,Curry 24' 3PT Jump Shot (5 PTS),,,46 - 47,1
+0020001007,206,1,42,2,4:59 AM,2:24,,,Reeves  Driving Layup (6 PTS) (Bibby 4 AST),48 - 47,-1
+0020001007,207,5,1,2,4:59 AM,1:59,Carter Bad Pass Turnover (P3.T6),,,,
+0020001007,208,2,1,2,5:00 AM,1:49,,,MISS Dickerson 17' Jump Shot,,
+0020001007,209,4,0,2,5:00 AM,1:47,Oakley REBOUND (Off:0 Def:1),,,,
+0020001007,210,2,42,2,5:00 AM,1:28,MISS Davis  Driving Layup,,Swift BLOCK (2 BLK),,
+0020001007,211,4,0,2,5:00 AM,1:26,,,Swift REBOUND (Off:1 Def:2),,
+0020001007,212,6,2,2,5:00 AM,1:17,Davis S.FOUL (P2.T3),,,,
+0020001007,213,3,11,2,5:01 AM,1:17,,,Dickerson Free Throw 1 of 2 (11 PTS),49 - 47,-2
+0020001007,214,3,12,2,5:01 AM,1:17,,,Dickerson Free Throw 2 of 2 (12 PTS),50 - 47,-3
+0020001007,215,1,1,2,5:01 AM,1:01,Curry 19' Jump Shot (7 PTS) (Carter 4 AST),,,50 - 49,-1
+0020001007,216,2,1,2,5:01 AM,0:51,,,MISS Bibby 21' Jump Shot,,
+0020001007,217,4,0,2,5:01 AM,0:50,Davis REBOUND (Off:3 Def:4),,,,
+0020001007,218,6,2,2,5:02 AM,0:39,,,Abdur-Rahim S.FOUL (P2.T3),,
+0020001007,219,3,11,2,5:02 AM,0:39,Carter Free Throw 1 of 2 (7 PTS),,,50 - 50,TIE
+0020001007,220,8,0,2,5:02 AM,0:39,,,SUB: Jones FOR Abdur-Rahim,,
+0020001007,221,3,12,2,5:02 AM,0:39,MISS Carter Free Throw 2 of 2,,,,
+0020001007,222,4,0,2,5:02 AM,0:38,,,Swift REBOUND (Off:1 Def:3),,
+0020001007,224,1,42,2,5:03 AM,0:26,,,Jones  Driving Layup (2 PTS),52 - 50,-2
+0020001007,225,2,1,2,5:03 AM,0:02,MISS Oakley  3PT Jump Shot,,,,
+0020001007,226,4,0,2,5:03 AM,0:00,,,Reeves REBOUND (Off:1 Def:3),,
+0020001007,227,13,0,2,5:03 AM,0:00,,,,52 - 50,-2
+0020001007,229,12,0,3,5:21 AM,12:00,,,,52 - 50,-2
+0020001007,230,1,1,3,5:21 AM,11:45,Carter 18' Jump Shot (9 PTS) (Williams 5 AST),,,52 - 52,TIE
+0020001007,232,2,40,3,5:22 AM,11:25,Davis BLOCK (1 BLK),,MISS Massenburg  Layup,,
+0020001007,233,4,0,3,5:22 AM,11:22,Oakley REBOUND (Off:0 Def:2),,,,
+0020001007,234,2,1,3,5:22 AM,11:16,MISS Carter 24' 3PT Jump Shot,,,,
+0020001007,235,4,0,3,5:22 AM,11:15,,,Dickerson REBOUND (Off:0 Def:2),,
+0020001007,236,6,2,3,5:22 AM,11:09,Peterson S.FOUL (P1.T1),,,,
+0020001007,237,3,11,3,5:22 AM,11:09,,,Dickerson Free Throw 1 of 2 (13 PTS),53 - 52,-1
+0020001007,238,3,12,3,5:23 AM,11:09,,,Dickerson Free Throw 2 of 2 (14 PTS),54 - 52,-2
+0020001007,239,6,1,3,5:23 AM,10:59,,,Abdur-Rahim P.FOUL (P3.T1),,
+0020001007,241,1,1,3,5:23 AM,10:51,Peterson 22' Jump Shot (17 PTS),,,54 - 54,TIE
+0020001007,242,1,1,3,5:24 AM,10:31,,,Dickerson 25' 3PT Jump Shot (17 PTS) (Long 3 AST),57 - 54,-3
+0020001007,243,2,42,3,5:24 AM,10:05,MISS Peterson  Driving Layup,,,,
+0020001007,244,4,0,3,5:24 AM,10:02,Oakley REBOUND (Off:1 Def:2),,,,
+0020001007,245,1,4,3,5:24 AM,10:01,Oakley  Tip Shot (4 PTS),,,57 - 56,-1
+0020001007,246,2,1,3,5:25 AM,9:42,Davis BLOCK (2 BLK),,MISS Abdur-Rahim 8' Jump Shot,,
+0020001007,247,4,0,3,5:25 AM,9:40,Oakley REBOUND (Off:1 Def:3),,,,
+0020001007,248,5,1,3,5:25 AM,9:37,Oakley Bad Pass Turnover (P1.T7),,,,
+0020001007,249,2,46,3,5:25 AM,9:28,,,MISS Long 7' Running Jump Shot,,
+0020001007,250,4,0,3,5:25 AM,9:27,RAPTORS Rebound,,,,
+0020001007,251,2,1,3,5:25 AM,9:15,MISS Williams 20' Jump Shot,,,,
+0020001007,252,4,0,3,5:25 AM,9:14,Davis REBOUND (Off:4 Def:4),,,,
+0020001007,253,2,1,3,5:25 AM,9:09,MISS Williams 20' Jump Shot,,,,
+0020001007,254,4,0,3,5:25 AM,9:06,Davis REBOUND (Off:5 Def:4),,,,
+0020001007,255,1,5,3,5:26 AM,8:54,Davis  Layup (10 PTS),,,57 - 58,1
+0020001007,257,2,5,3,5:26 AM,8:39,Carter BLOCK (1 BLK),,MISS Abdur-Rahim  Layup,,
+0020001007,258,4,0,3,5:26 AM,8:38,Oakley REBOUND (Off:1 Def:4),,,,
+0020001007,259,1,1,3,5:26 AM,8:31,Carter 25' 3PT Jump Shot (12 PTS),,,57 - 61,4
+0020001007,260,9,1,3,5:26 AM,8:29,,,Grizzlies Timeout: Regular (Reg.2 Short 1),,
+0020001007,263,2,1,3,5:29 AM,8:10,,,MISS Long 19' Jump Shot,,
+0020001007,264,4,0,3,5:29 AM,8:08,Oakley REBOUND (Off:1 Def:5),,,,
+0020001007,265,5,1,3,5:30 AM,8:06,Oakley Bad Pass Turnover (P2.T8),,Long STEAL (1 STL),,
+0020001007,266,5,2,3,5:30 AM,8:03,Carter STEAL (1 STL),,Long Lost Ball Turnover (P1.T10),,
+0020001007,267,2,1,3,5:30 AM,7:53,MISS Carter 20' Jump Shot,,,,
+0020001007,268,4,0,3,5:30 AM,7:52,,,Long REBOUND (Off:0 Def:1),,
+0020001007,269,2,40,3,5:30 AM,7:39,,,MISS Massenburg  Layup,,
+0020001007,270,4,0,3,5:30 AM,7:37,Oakley REBOUND (Off:1 Def:6),,,,
+0020001007,271,1,1,3,5:30 AM,7:28,Oakley 20' Jump Shot (6 PTS) (Peterson 3 AST),,,57 - 63,6
+0020001007,272,2,1,3,5:31 AM,7:09,,,MISS Dickerson 20' Jump Shot,,
+0020001007,273,4,0,3,5:31 AM,7:07,Williams REBOUND (Off:1 Def:5),,,,
+0020001007,274,1,46,3,5:31 AM,7:02,Williams 6' Running Jump Shot (6 PTS),,,57 - 65,8
+0020001007,275,6,2,3,5:31 AM,7:02,,,Dickerson S.FOUL (P1.T2),,
+0020001007,276,8,0,3,5:31 AM,7:02,,,SUB: Swift FOR Long,,
+0020001007,277,3,10,3,5:31 AM,7:02,Williams Free Throw 1 of 1 (7 PTS),,,57 - 66,9
+0020001007,278,2,42,3,5:32 AM,6:46,,,MISS Abdur-Rahim  Driving Layup,,
+0020001007,279,4,0,3,5:32 AM,6:44,Davis REBOUND (Off:5 Def:5),,,,
+0020001007,280,6,1,3,5:32 AM,6:42,,,Bibby P.FOUL (P1.T3),,
+0020001007,281,6,4,3,5:32 AM,6:34,Peterson OFF.Foul (P2),,,,
+0020001007,282,5,5,3,5:32 AM,6:34,Peterson Foul Turnover (P2.T9),,,,
+0020001007,283,6,1,3,5:33 AM,6:22,Peterson P.FOUL (P3.T2),,,,
+0020001007,284,1,1,3,5:33 AM,6:12,,,Swift 16' Jump Shot (6 PTS) (Bibby 5 AST),59 - 66,7
+0020001007,285,2,1,3,5:33 AM,5:54,MISS Oakley 19' Jump Shot,,,,
+0020001007,286,4,0,3,5:33 AM,5:52,,,Abdur-Rahim REBOUND (Off:0 Def:8),,
+0020001007,287,2,47,3,5:34 AM,5:41,,,MISS Massenburg 11' Turnaround Jump Shot,,
+0020001007,288,4,0,3,5:34 AM,5:39,,,Abdur-Rahim REBOUND (Off:1 Def:8),,
+0020001007,289,1,1,3,5:34 AM,5:36,,,Bibby 24' 3PT Jump Shot (8 PTS) (Abdur-Rahim 3 AST),62 - 66,4
+0020001007,290,2,46,3,5:34 AM,5:15,MISS Carter 10' Running Jump Shot,,,,
+0020001007,291,4,0,3,5:34 AM,5:13,,,Bibby REBOUND (Off:1 Def:4),,
+0020001007,292,2,42,3,5:34 AM,5:08,Williams BLOCK (1 BLK),,MISS Abdur-Rahim  Driving Layup,,
+0020001007,293,4,0,3,5:34 AM,5:07,,,Grizzlies Rebound,,
+0020001007,295,2,1,3,5:35 AM,5:01,,,MISS Dickerson 17' Jump Shot,,
+0020001007,296,4,0,3,5:35 AM,4:59,Oakley REBOUND (Off:1 Def:7),,,,
+0020001007,297,1,1,3,5:35 AM,4:44,Peterson 25' 3PT Jump Shot (20 PTS) (Carter 5 AST),,,62 - 69,7
+0020001007,298,1,1,3,5:35 AM,4:32,,,Abdur-Rahim 16' Jump Shot (21 PTS) (Bibby 6 AST),64 - 69,5
+0020001007,299,2,1,3,5:35 AM,4:06,MISS Carter 24' 3PT Jump Shot,,,,
+0020001007,300,4,0,3,5:36 AM,4:04,Oakley REBOUND (Off:2 Def:7),,,,
+0020001007,301,1,52,3,5:36 AM,4:02,Carter  Alley Oop Dunk (14 PTS) (Oakley 2 AST),,,64 - 71,7
+0020001007,302,6,1,3,5:36 AM,3:47,Carter P.FOUL (P2.T3),,,,
+0020001007,303,8,0,3,5:36 AM,3:47,,,SUB: Reeves FOR Massenburg,,
+0020001007,304,1,1,3,5:36 AM,3:41,,,Dickerson 17' Jump Shot (19 PTS) (Bibby 7 AST),66 - 71,5
+0020001007,305,5,1,3,5:37 AM,3:18,Davis Bad Pass Turnover (P3.T10),,Abdur-Rahim STEAL (1 STL),,
+0020001007,306,1,52,3,5:37 AM,3:13,,,Swift  Alley Oop Dunk (8 PTS) (Abdur-Rahim 4 AST),68 - 71,3
+0020001007,307,1,1,3,5:37 AM,2:54,Williams 20' Jump Shot (9 PTS) (Peterson 4 AST),,,68 - 73,5
+0020001007,308,5,1,3,5:37 AM,2:45,Oakley STEAL (1 STL),,Bibby Bad Pass Turnover (P2.T11),,
+0020001007,309,2,1,3,5:37 AM,2:37,MISS Peterson 21' Jump Shot,,,,
+0020001007,310,4,0,3,5:37 AM,2:35,Carter REBOUND (Off:2 Def:4),,,,
+0020001007,311,6,2,3,5:38 AM,2:27,,,Swift S.FOUL (P1.T4),,
+0020001007,312,9,3,3,5:38 AM,2:27,RAPTORS Timeout: Official TV (Full 1 Short 0),,,,
+0020001007,314,8,0,3,5:40 AM,2:27,SUB: Clark FOR Oakley,,,,
+0020001007,316,3,11,3,5:40 AM,2:27,Davis Free Throw 1 of 2 (11 PTS),,,68 - 74,6
+0020001007,317,3,12,3,5:40 AM,2:27,MISS Davis Free Throw 2 of 2,,,,
+0020001007,318,4,0,3,5:40 AM,2:27,,,Reeves REBOUND (Off:1 Def:4),,
+0020001007,319,1,1,3,5:41 AM,2:13,,,Dickerson 24' 3PT Jump Shot (22 PTS) (Abdur-Rahim 5 AST),71 - 74,3
+0020001007,320,2,1,3,5:41 AM,1:56,MISS Clark 17' Jump Shot,,,,
+0020001007,321,4,0,3,5:41 AM,1:54,,,Reeves REBOUND (Off:1 Def:5),,
+0020001007,322,1,43,3,5:41 AM,1:49,,,Swift  Alley Oop Layup (10 PTS) (Bibby 8 AST),73 - 74,1
+0020001007,323,6,4,3,5:41 AM,1:36,Carter OFF.Foul (P3),,,,
+0020001007,324,5,5,3,5:41 AM,1:36,Carter Foul Turnover (P4.T11),,,,
+0020001007,325,2,1,3,5:42 AM,1:12,,,MISS Reeves 24' 3PT Jump Shot,,
+0020001007,326,4,0,3,5:42 AM,1:10,Peterson REBOUND (Off:1 Def:2),,,,
+0020001007,327,2,1,3,5:42 AM,1:03,MISS Davis 17' Jump Shot,,,,
+0020001007,328,4,0,3,5:42 AM,1:01,,,Dickerson REBOUND (Off:0 Def:3),,
+0020001007,329,2,1,3,5:42 AM,0:50,,,MISS Reeves 13' Jump Shot,,
+0020001007,330,4,0,3,5:42 AM,0:49,Clark REBOUND (Off:0 Def:1),,,,
+0020001007,331,1,44,3,5:43 AM,0:39,Carter  Reverse Layup (16 PTS),,,73 - 76,3
+0020001007,332,5,1,3,5:43 AM,0:31,,,Bibby Bad Pass Turnover (P3.T12),,
+0020001007,333,8,0,3,5:43 AM,0:31,,,SUB: Jones FOR Dickerson,,
+0020001007,334,2,1,3,5:43 AM,0:24,MISS Carter 24' 3PT Jump Shot,,,,
+0020001007,335,4,0,3,5:43 AM,0:23,,,Jones REBOUND (Off:0 Def:2),,
+0020001007,336,1,1,3,5:44 AM,0:02,,,Reeves 16' Jump Shot (8 PTS) (Jones 5 AST),75 - 76,1
+0020001007,337,2,46,3,5:44 AM,0:00,MISS Williams 42' 3PT Running Jump Shot,,,,
+0020001007,338,4,0,3,5:44 AM,0:00,RAPTORS Rebound,,,,
+0020001007,339,13,0,3,5:44 AM,0:00,,,,75 - 76,1
+0020001007,341,12,0,4,5:46 AM,12:00,,,,75 - 76,1
+0020001007,342,5,1,4,5:47 AM,11:46,Williams STEAL (4 STL),,Reeves Bad Pass Turnover (P2.T13),,
+0020001007,343,2,47,4,5:47 AM,11:28,MISS Carter 11' Turnaround Jump Shot,,,,
+0020001007,344,4,0,4,5:47 AM,11:26,Davis REBOUND (Off:6 Def:5),,,,
+0020001007,345,2,53,4,5:47 AM,11:25,MISS Davis  Tip Shot,,Swift BLOCK (3 BLK),,
+0020001007,346,4,0,4,5:47 AM,11:23,,,Reeves REBOUND (Off:1 Def:6),,
+0020001007,347,2,1,4,5:47 AM,11:16,,,MISS Bibby 20' Jump Shot,,
+0020001007,348,4,0,4,5:47 AM,11:15,,,Reeves REBOUND (Off:2 Def:6),,
+0020001007,349,1,5,4,5:47 AM,11:07,,,Swift  Layup (12 PTS) (Abdur-Rahim 6 AST),77 - 76,-1
+0020001007,350,2,1,4,5:48 AM,10:51,MISS Williams 22' Jump Shot,,,,
+0020001007,351,4,0,4,5:48 AM,10:50,,,Reeves REBOUND (Off:2 Def:7),,
+0020001007,352,6,1,4,5:48 AM,10:44,Williams P.FOUL (P1.T1),,,,
+0020001007,353,8,0,4,5:48 AM,10:44,,,SUB: Massenburg FOR Reeves,,
+0020001007,354,1,1,4,5:48 AM,10:27,,,Jones 25' 3PT Jump Shot (5 PTS) (Swift 1 AST),80 - 76,-4
+0020001007,355,1,1,4,5:49 AM,10:11,Carter 19' Jump Shot (18 PTS) (Williams 6 AST),,,80 - 78,-2
+0020001007,356,6,2,4,5:49 AM,9:48,Clark S.FOUL (P4.T2),,,,
+0020001007,357,3,11,4,5:49 AM,9:48,,,Swift Free Throw 1 of 2 (13 PTS),81 - 78,-3
+0020001007,358,8,0,4,5:50 AM,9:48,,,SUB: Dickerson FOR Abdur-Rahim,,
+0020001007,359,8,0,4,5:50 AM,9:48,,,SUB: Reeves FOR Massenburg,,
+0020001007,360,3,12,4,5:50 AM,9:48,,,MISS Swift Free Throw 2 of 2,,
+0020001007,361,4,0,4,5:50 AM,9:47,Davis REBOUND (Off:6 Def:6),,,,
+0020001007,362,1,8,4,5:50 AM,9:33,Clark  Slam Dunk (4 PTS) (Davis 2 AST),,,81 - 80,-1
+0020001007,363,6,2,4,5:50 AM,9:33,,,Reeves S.FOUL (P3.T1),,
+0020001007,364,3,10,4,5:51 AM,9:33,Clark Free Throw 1 of 1 (5 PTS),,,81 - 81,TIE
+0020001007,365,2,1,4,5:51 AM,9:22,,,MISS Dickerson 21' Jump Shot,,
+0020001007,366,4,0,4,5:51 AM,9:20,Williams REBOUND (Off:1 Def:6),,,,
+0020001007,367,2,46,4,5:51 AM,9:09,MISS Williams 11' Running Jump Shot,,,,
+0020001007,368,4,0,4,5:51 AM,9:07,Curry REBOUND (Off:1 Def:0),,,,
+0020001007,369,2,1,4,5:51 AM,9:04,MISS Carter 24' 3PT Jump Shot,,,,
+0020001007,370,4,0,4,5:51 AM,9:02,Clark REBOUND (Off:1 Def:1),,,,
+0020001007,371,1,42,4,5:52 AM,9:00,Carter  Driving Layup (20 PTS) (Clark 1 AST),,,81 - 83,2
+0020001007,372,9,1,4,5:52 AM,8:52,,,Grizzlies Timeout: Regular (Reg.3 Short 1),,
+0020001007,374,8,0,4,5:54 AM,8:52,,,SUB: Abdur-Rahim FOR Bibby,,
+0020001007,376,1,58,4,5:54 AM,8:38,,,Abdur-Rahim 9' Turnaround Hook Shot (23 PTS),83 - 83,TIE
+0020001007,377,6,1,4,5:55 AM,8:20,,,Reeves P.FOUL (P4.T2),,
+0020001007,378,1,47,4,5:55 AM,8:12,Curry 18' Turnaround Jump Shot (9 PTS) (Williams 7 AST),,,83 - 85,2
+0020001007,379,2,1,4,5:55 AM,7:48,,,MISS Reeves 18' Jump Shot,,
+0020001007,380,4,0,4,5:55 AM,7:47,Williams REBOUND (Off:1 Def:7),,,,
+0020001007,381,1,1,4,5:56 AM,7:33,Curry 25' 3PT Jump Shot (12 PTS) (Williams 8 AST),,,83 - 88,5
+0020001007,382,2,46,4,5:56 AM,7:13,,,MISS Jones 7' Running Jump Shot,,
+0020001007,383,4,0,4,5:56 AM,7:11,Davis REBOUND (Off:6 Def:7),,,,
+0020001007,384,2,1,4,5:56 AM,6:59,MISS Williams 19' Jump Shot,,,,
+0020001007,385,4,0,4,5:56 AM,6:58,,,Swift REBOUND (Off:1 Def:4),,
+0020001007,386,5,1,4,5:56 AM,6:55,Davis STEAL (1 STL),,Swift Bad Pass Turnover (P2.T14),,
+0020001007,387,1,44,4,5:56 AM,6:52,Clark  Reverse Layup (7 PTS) (Davis 3 AST),,,83 - 90,7
+0020001007,388,5,1,4,5:57 AM,6:32,,,Jones Bad Pass Turnover (P1.T15),,
+0020001007,389,8,0,4,5:57 AM,6:32,,,SUB: Bibby FOR Jones,,
+0020001007,390,6,1,4,5:57 AM,6:23,,,Abdur-Rahim P.FOUL (P4.T3),,
+0020001007,391,1,1,4,5:58 AM,6:10,Carter 20' Jump Shot (22 PTS),,,83 - 92,9
+0020001007,393,9,2,4,5:58 AM,6:01,,,Grizzlies Timeout: Short (Reg.3 Short 2),,
+0020001007,396,2,47,4,5:59 AM,5:50,,,MISS Abdur-Rahim 8' Turnaround Jump Shot,,
+0020001007,397,4,0,4,5:59 AM,5:48,,,Grizzlies Rebound,,
+0020001007,398,9,3,4,5:59 AM,5:48,,,,,
+0020001007,401,2,1,4,6:02 AM,5:43,,,MISS Bibby 17' Jump Shot,,
+0020001007,402,4,0,4,6:02 AM,5:42,Clark REBOUND (Off:1 Def:2),,,,
+0020001007,403,6,1,4,6:03 AM,5:25,,,Swift P.FOUL (P2.T4),,
+0020001007,404,2,1,4,6:03 AM,5:19,MISS Curry 26' 3PT Jump Shot,,,,
+0020001007,405,4,0,4,6:03 AM,5:17,Carter REBOUND (Off:3 Def:4),,,,
+0020001007,406,6,3,4,6:03 AM,5:16,,,Dickerson L.B.FOUL (P2.PN),,
+0020001007,407,3,11,4,6:03 AM,5:16,Carter Free Throw 1 of 2 (23 PTS),,,83 - 93,10
+0020001007,408,3,12,4,6:04 AM,5:16,Carter Free Throw 2 of 2 (24 PTS),,,83 - 94,11
+0020001007,410,2,1,4,6:04 AM,5:01,,,MISS Abdur-Rahim 14' Jump Shot,,
+0020001007,411,4,0,4,6:04 AM,4:59,,,Swift REBOUND (Off:2 Def:4),,
+0020001007,412,1,8,4,6:04 AM,4:58,,,Swift  Slam Dunk (15 PTS),85 - 94,9
+0020001007,413,1,1,4,6:05 AM,4:35,Williams 13' Jump Shot (11 PTS) (Curry 1 AST),,,85 - 96,11
+0020001007,414,1,46,4,6:05 AM,4:22,,,Bibby 6' Running Jump Shot (10 PTS),87 - 96,9
+0020001007,415,1,8,4,6:05 AM,4:06,Davis  Slam Dunk (13 PTS) (Carter 6 AST),,,87 - 98,11
+0020001007,416,2,1,4,6:05 AM,3:39,,,MISS Swift 14' Jump Shot,,
+0020001007,417,4,0,4,6:05 AM,3:37,Carter REBOUND (Off:3 Def:5),,,,
+0020001007,418,2,1,4,6:06 AM,3:19,MISS Davis 16' Jump Shot,,,,
+0020001007,419,4,0,4,6:06 AM,3:17,,,Abdur-Rahim REBOUND (Off:1 Def:9),,
+0020001007,420,2,1,4,6:06 AM,3:11,Curry BLOCK (1 BLK),,MISS Dickerson 25' 3PT Jump Shot,,
+0020001007,421,4,0,4,6:06 AM,3:10,Clark REBOUND (Off:1 Def:3),,,,
+0020001007,422,6,2,4,6:06 AM,2:59,,,Dickerson S.FOUL (P3.PN),,
+0020001007,423,9,3,4,6:06 AM,2:59,RAPTORS Timeout: Official TV (Full 1 Short 0),,,,
+0020001007,426,8,0,4,6:08 AM,2:59,,,SUB: Jones FOR Reeves,,
+0020001007,427,3,11,4,6:09 AM,2:59,Curry Free Throw 1 of 2 (13 PTS),,,87 - 99,12
+0020001007,428,3,12,4,6:09 AM,2:59,Curry Free Throw 2 of 2 (14 PTS),,,87 - 100,13
+0020001007,429,2,1,4,6:09 AM,2:47,,,MISS Abdur-Rahim 14' Jump Shot,,
+0020001007,430,4,0,4,6:09 AM,2:45,,,Swift REBOUND (Off:3 Def:4),,
+0020001007,431,6,1,4,6:09 AM,2:45,Davis P.FOUL (P3.T3),,,,
+0020001007,432,6,1,4,6:10 AM,2:34,Carter P.FOUL (P4.T4),,,,
+0020001007,433,2,1,4,6:11 AM,2:22,Davis BLOCK (3 BLK),,MISS Jones 17' Jump Shot,,
+0020001007,434,4,0,4,6:11 AM,2:20,,,Swift REBOUND (Off:4 Def:4),,
+0020001007,435,5,11,4,6:11 AM,2:19,,,Grizzlies Turnover: Shot Clock (T#16),,
+0020001007,436,5,2,4,6:11 AM,2:00,Clark Lost Ball Turnover (P1.T12),,Swift STEAL (2 STL),,
+0020001007,437,1,1,4,6:11 AM,1:51,,,Abdur-Rahim 18' Jump Shot (25 PTS) (Bibby 9 AST),89 - 100,11
+0020001007,438,2,1,4,6:12 AM,1:35,MISS Curry 25' 3PT Jump Shot,,,,
+0020001007,439,4,0,4,6:12 AM,1:34,Davis REBOUND (Off:7 Def:7),,,,
+0020001007,440,1,1,4,6:12 AM,1:29,Curry 17' Jump Shot (16 PTS) (Davis 4 AST),,,89 - 102,13
+0020001007,442,2,1,4,6:12 AM,1:18,,,MISS Abdur-Rahim 18' Jump Shot,,
+0020001007,443,4,0,4,6:12 AM,1:16,Williams REBOUND (Off:1 Def:8),,,,
+0020001007,444,5,2,4,6:12 AM,0:58,Carter Lost Ball Turnover (P5.T13),,Abdur-Rahim STEAL (2 STL),,
+0020001007,445,6,3,4,6:12 AM,0:58,Carter L.B.FOUL (P5.PN),,,,
+0020001007,447,3,11,4,6:13 AM,0:58,,,Abdur-Rahim Free Throw 1 of 2 (26 PTS),90 - 102,12
+0020001007,448,3,12,4,6:13 AM,0:58,,,MISS Abdur-Rahim Free Throw 2 of 2,,
+0020001007,449,4,0,4,6:13 AM,0:57,Clark REBOUND (Off:1 Def:4),,,,
+0020001007,450,2,1,4,6:13 AM,0:33,MISS Davis 19' Jump Shot,,,,
+0020001007,451,4,0,4,6:13 AM,0:33,RAPTORS Rebound,,,,
+0020001007,452,5,11,4,6:13 AM,0:33,RAPTORS Turnover: Shot Clock (T#14),,,,
+0020001007,453,2,1,4,6:14 AM,0:20,,,MISS Jones  3PT Jump Shot,,
+0020001007,454,4,0,4,6:14 AM,0:18,,,Dickerson REBOUND (Off:1 Def:3),,
+0020001007,455,1,8,4,6:14 AM,0:17,,,Swift  Slam Dunk (17 PTS) (Dickerson 1 AST),92 - 102,10
+0020001007,456,13,0,4,6:15 AM,0:00,,,,92 - 102,10

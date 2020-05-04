@@ -1,0 +1,495 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0029900670,0,12,0,1,5:15 AM,12:00,,,,,
+0029900670,1,10,0,1,5:15 AM,12:00,Jump Ball Van Horn vs. Foyle: Tip to Kittles,,,,
+0029900670,2,1,1,1,5:15 AM,11:45,Marbury 18' Jump Shot (2 PTS) (Gill 1 AST),,,0 - 2,2
+0029900670,3,5,2,1,5:15 AM,11:28,Kittles STEAL (1 STL),,Blaylock Lost Ball Turnover (P1.T1),,
+0029900670,4,2,5,1,5:16 AM,11:22,MISS Van Horn  Layup,,,,
+0029900670,5,4,0,1,5:16 AM,11:21,,,Foyle REBOUND (Off:0 Def:1),,
+0029900670,6,2,5,1,5:16 AM,11:15,,,MISS Marshall  Layup,,
+0029900670,7,4,0,1,5:16 AM,11:14,,,Foyle REBOUND (Off:1 Def:1),,
+0029900670,8,2,4,1,5:16 AM,11:12,,,MISS Jamison  Tip Shot,,
+0029900670,9,4,0,1,5:16 AM,11:11,,,Marshall REBOUND (Off:1 Def:0),,
+0029900670,10,2,4,1,5:16 AM,11:10,,,MISS Marshall  Tip Shot,,
+0029900670,11,4,0,1,5:16 AM,11:08,,,Marshall REBOUND (Off:2 Def:0),,
+0029900670,12,1,3,1,5:16 AM,11:06,,,Marshall  Hook Shot (2 PTS),2 - 2,TIE
+0029900670,13,1,6,1,5:16 AM,10:54,Gill  Driving Layup (2 PTS),,,2 - 4,2
+0029900670,14,2,1,1,5:16 AM,10:32,,,MISS Marshall 11' Jump Shot,,
+0029900670,15,4,0,1,5:16 AM,10:31,Van Horn REBOUND (Off:0 Def:1),,,,
+0029900670,16,1,1,1,5:17 AM,10:20,McIlvaine 13' Jump Shot (2 PTS) (Van Horn 1 AST),,,2 - 6,4
+0029900670,17,1,1,1,5:17 AM,10:08,,,Blaylock 26' 3PT Jump Shot (3 PTS),5 - 6,1
+0029900670,18,2,3,1,5:17 AM,9:50,MISS Van Horn 8' Hook Shot,,,,
+0029900670,19,4,0,1,5:17 AM,9:49,McIlvaine REBOUND (Off:1 Def:0),,,,
+0029900670,20,2,1,1,5:17 AM,9:46,MISS Kittles 19' Jump Shot,,,,
+0029900670,21,4,0,1,5:17 AM,9:44,Van Horn REBOUND (Off:1 Def:1),,,,
+0029900670,22,5,2,1,5:17 AM,9:44,Van Horn Lost Ball Turnover (P1.T1),,,,
+0029900670,24,1,6,1,5:18 AM,9:32,,,Jamison  Driving Layup (2 PTS),7 - 6,-1
+0029900670,25,2,6,1,5:18 AM,9:19,MISS Kittles  Driving Layup,,,,
+0029900670,26,4,0,1,5:18 AM,9:17,McIlvaine REBOUND (Off:2 Def:0),,,,
+0029900670,27,2,4,1,5:18 AM,9:15,MISS McIlvaine  Tip Shot,,,,
+0029900670,28,4,0,1,5:18 AM,9:14,,,Marshall REBOUND (Off:2 Def:1),,
+0029900670,29,2,1,1,5:18 AM,9:10,,,MISS Starks 22' Jump Shot,,
+0029900670,30,4,0,1,5:18 AM,9:08,,,Marshall REBOUND (Off:3 Def:1),,
+0029900670,31,5,1,1,5:18 AM,8:56,Kittles STEAL (2 STL),,Starks Bad Pass Turnover (P1.T2),,
+0029900670,32,6,2,1,5:18 AM,8:52,,,Marshall S.FOUL (P1.T1),,
+0029900670,33,3,11,1,5:19 AM,8:52,MISS Marbury Free Throw 1 of 2,,,,
+0029900670,34,4,1,1,5:19 AM,8:52,NETS Rebound,,,,
+0029900670,35,3,12,1,5:19 AM,8:52,Marbury Free Throw 2 of 2 (3 PTS),,,7 - 7,TIE
+0029900670,36,1,1,1,5:19 AM,8:43,,,Blaylock 22' Jump Shot (5 PTS) (Jamison 1 AST),9 - 7,-2
+0029900670,37,1,6,1,5:19 AM,8:28,Van Horn  Driving Layup (2 PTS) (Marbury 1 AST),,,9 - 9,TIE
+0029900670,38,2,3,1,5:19 AM,8:19,,,MISS Jamison 10' Hook Shot,,
+0029900670,39,4,0,1,5:20 AM,8:17,McIlvaine REBOUND (Off:2 Def:1),,,,
+0029900670,40,2,3,1,5:20 AM,8:04,MISS Van Horn 12' Hook Shot,,,,
+0029900670,41,4,0,1,5:20 AM,8:03,Van Horn REBOUND (Off:2 Def:1),,,,
+0029900670,42,2,3,1,5:20 AM,8:01,MISS Van Horn 5' Hook Shot,,,,
+0029900670,43,4,0,1,5:20 AM,7:59,,,Marshall REBOUND (Off:3 Def:2),,
+0029900670,44,2,5,1,5:20 AM,7:53,Kittles BLOCK (1 BLK),,MISS Jamison  Layup,,
+0029900670,45,4,0,1,5:20 AM,7:51,Marbury REBOUND (Off:0 Def:1),,,,
+0029900670,46,1,6,1,5:20 AM,7:46,Kittles  Driving Layup (2 PTS) (Marbury 2 AST),,,9 - 11,2
+0029900670,47,6,2,1,5:20 AM,7:27,Kittles S.FOUL (P1.T1),,,,
+0029900670,48,3,11,1,5:21 AM,7:27,,,Marshall Free Throw 1 of 2 (3 PTS),10 - 11,1
+0029900670,49,3,12,1,5:21 AM,7:27,,,Marshall Free Throw 2 of 2 (4 PTS),11 - 11,TIE
+0029900670,50,6,4,1,5:21 AM,7:19,McIlvaine OFF.Foul (P1),,,,
+0029900670,51,5,5,1,5:21 AM,7:19,McIlvaine Foul Turnover (P1.T2),,,,
+0029900670,52,2,1,1,5:21 AM,7:10,,,MISS Blaylock 18' Jump Shot,,
+0029900670,53,4,0,1,5:22 AM,7:08,McIlvaine REBOUND (Off:2 Def:2),,,,
+0029900670,54,1,6,1,5:22 AM,7:04,Van Horn  Driving Layup (4 PTS) (Marbury 3 AST),,,11 - 13,2
+0029900670,55,6,2,1,5:22 AM,7:04,,,Starks S.FOUL (P1.T2),,
+0029900670,56,3,10,1,5:22 AM,7:04,Van Horn Free Throw 1 of 1 (5 PTS),,,11 - 14,3
+0029900670,57,1,8,1,5:22 AM,6:49,,,Foyle  Slam Dunk (2 PTS) (Starks 1 AST),13 - 14,1
+0029900670,58,1,6,1,5:23 AM,6:36,Marbury  Driving Layup (5 PTS),,,13 - 16,3
+0029900670,59,6,2,1,5:23 AM,6:36,,,Blaylock S.FOUL (P1.T3),,
+0029900670,60,9,1,1,5:23 AM,6:36,NETS Timeout: Regular (Full 1 Short 0),,,,
+0029900670,61,3,10,1,5:25 AM,6:36,Marbury Free Throw 1 of 1 (6 PTS),,,13 - 17,4
+0029900670,62,2,6,1,5:25 AM,6:24,,,MISS Blaylock  Driving Layup,,
+0029900670,63,4,0,1,5:25 AM,6:22,Van Horn REBOUND (Off:2 Def:2),,,,
+0029900670,64,2,1,1,5:25 AM,6:14,MISS Kittles  3PT Jump Shot,,,,
+0029900670,65,4,0,1,5:25 AM,6:12,,,Warriors Rebound,,
+0029900670,66,2,1,1,5:26 AM,5:51,,,MISS Marshall 24' 3PT Jump Shot,,
+0029900670,67,4,0,1,5:26 AM,5:49,McIlvaine REBOUND (Off:2 Def:3),,,,
+0029900670,68,1,1,1,5:26 AM,5:42,Gill 22' Jump Shot (4 PTS) (Kittles 1 AST),,,13 - 19,6
+0029900670,69,1,1,1,5:26 AM,5:30,,,Jamison 19' Jump Shot (4 PTS) (Blaylock 1 AST),15 - 19,4
+0029900670,70,2,1,1,5:27 AM,5:08,MISS Gill 17' Jump Shot,,,,
+0029900670,71,4,0,1,5:27 AM,5:06,,,Marshall REBOUND (Off:3 Def:3),,
+0029900670,72,1,7,1,5:27 AM,5:01,,,Jamison  Dunk (6 PTS) (Marshall 1 AST),17 - 19,2
+0029900670,73,2,1,1,5:27 AM,4:42,MISS Marbury 24' 3PT Jump Shot,,,,
+0029900670,74,4,0,1,5:27 AM,4:41,McIlvaine REBOUND (Off:3 Def:3),,,,
+0029900670,75,2,1,1,5:28 AM,4:20,MISS Gill 24' 3PT Jump Shot,,,,
+0029900670,76,4,0,1,5:28 AM,4:18,,,Jamison REBOUND (Off:0 Def:1),,
+0029900670,77,1,1,1,5:28 AM,4:14,,,Starks 19' Jump Shot (2 PTS) (Blaylock 2 AST),19 - 19,TIE
+0029900670,78,6,1,1,5:28 AM,4:01,,,Foyle P.FOUL (P1.T4),,
+0029900670,79,8,0,1,5:28 AM,4:01,,,SUB: Caffey FOR Foyle,,
+0029900670,80,5,1,1,5:29 AM,3:55,Marbury Bad Pass Turnover (P1.T3),,Blaylock STEAL (1 STL),,
+0029900670,81,1,5,1,5:29 AM,3:50,,,Jamison  Layup (8 PTS) (Blaylock 3 AST),21 - 19,-2
+0029900670,82,1,6,1,5:29 AM,3:30,Gill  Driving Layup (6 PTS),,,21 - 21,TIE
+0029900670,83,6,2,1,5:29 AM,3:30,,,Marshall S.FOUL (P2.PN),,
+0029900670,84,8,0,1,5:29 AM,3:30,,,SUB: Cummings FOR Marshall,,
+0029900670,85,3,10,1,5:29 AM,3:30,Gill Free Throw 1 of 1 (7 PTS),,,21 - 22,1
+0029900670,86,2,1,1,5:30 AM,3:20,,,MISS Starks 21' Jump Shot,,
+0029900670,87,4,0,1,5:30 AM,3:18,,,Cummings REBOUND (Off:1 Def:0),,
+0029900670,88,1,1,1,5:30 AM,3:16,,,Cummings 13' Jump Shot (2 PTS),23 - 22,-1
+0029900670,89,1,9,1,5:30 AM,2:56,McIlvaine  Driving Dunk (4 PTS) (Kittles 2 AST),,,23 - 24,1
+0029900670,90,6,1,1,5:30 AM,2:33,Van Horn P.FOUL (P1.T2),,,,
+0029900670,91,9,1,1,5:31 AM,2:33,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+0029900670,93,8,0,1,5:32 AM,2:33,SUB: Feick FOR McIlvaine,,,,
+0029900670,94,8,0,1,5:32 AM,2:33,SUB: Burrell FOR Van Horn,,,,
+0029900670,95,5,1,1,5:33 AM,2:27,Burrell STEAL (1 STL),,Caffey Bad Pass Turnover (P1.T3),,
+0029900670,96,2,2,1,5:33 AM,2:07,MISS Kittles 14' Running Jump Shot,,,,
+0029900670,97,4,0,1,5:33 AM,2:05,,,Starks REBOUND (Off:0 Def:1),,
+0029900670,98,6,2,1,5:33 AM,1:53,Burrell S.FOUL (P1.T3),,,,
+0029900670,99,3,11,1,5:34 AM,1:53,,,MISS Caffey Free Throw 1 of 2,,
+0029900670,100,4,1,1,5:34 AM,1:53,,,Warriors Rebound,,
+0029900670,101,8,0,1,5:34 AM,1:53,SUB: Newman FOR Gill,,,,
+0029900670,102,8,0,1,5:34 AM,1:53,,,SUB: Davis FOR Blaylock,,
+0029900670,103,3,12,1,5:34 AM,1:53,,,Caffey Free Throw 2 of 2 (1 PTS),24 - 24,TIE
+0029900670,104,6,4,1,5:34 AM,1:42,Burrell OFF.Foul (P2),,,,
+0029900670,105,5,5,1,5:34 AM,1:42,Burrell Foul Turnover (P1.T4),,,,
+0029900670,106,2,1,1,5:35 AM,1:25,,,MISS Jamison 11' Jump Shot,,
+0029900670,107,4,0,1,5:35 AM,1:23,Kittles REBOUND (Off:0 Def:1),,,,
+0029900670,108,2,1,1,5:35 AM,1:09,MISS Newman  3PT Jump Shot,,,,
+0029900670,109,4,0,1,5:35 AM,1:07,Feick REBOUND (Off:1 Def:0),,,,
+0029900670,110,1,2,1,5:35 AM,0:59,Newman 16' Running Jump Shot (2 PTS) (Burrell 1 AST),,,24 - 26,2
+0029900670,111,1,5,1,5:35 AM,0:45,,,Jamison  Layup (10 PTS) (Starks 2 AST),26 - 26,TIE
+0029900670,112,1,2,1,5:36 AM,0:31,Kittles 20' Running Jump Shot (4 PTS) (Marbury 4 AST),,,26 - 28,2
+0029900670,113,2,2,1,5:36 AM,0:13,,,MISS Cummings 11' Running Jump Shot,,
+0029900670,114,4,0,1,5:36 AM,0:11,,,Caffey REBOUND (Off:1 Def:0),,
+0029900670,115,6,1,1,5:36 AM,0:10,Feick P.FOUL (P1.PN),,,,
+0029900670,116,3,11,1,5:37 AM,0:10,,,MISS Caffey Free Throw 1 of 2,,
+0029900670,117,4,1,1,5:37 AM,0:10,,,Warriors Rebound,,
+0029900670,118,3,12,1,5:37 AM,0:10,,,Caffey Free Throw 2 of 2 (2 PTS),27 - 28,1
+0029900670,120,2,1,1,5:37 AM,0:01,MISS Marbury 25' 3PT Jump Shot,,,,
+0029900670,121,4,0,1,5:37 AM,0:00,,,Jamison REBOUND (Off:0 Def:2),,
+0029900670,122,13,0,1,5:37 AM,0:00,,,,27 - 28,1
+0029900670,124,12,0,2,5:40 AM,12:00,,,,27 - 28,1
+0029900670,125,5,2,2,5:40 AM,11:49,,,Caffey Lost Ball Turnover (P2.T4),,
+0029900670,126,7,6,2,5:40 AM,11:34,,,Davis Violation:Double Lane,,
+0029900670,128,2,1,2,5:41 AM,11:24,MISS Burrell  3PT Jump Shot,,,,
+0029900670,129,4,0,2,5:41 AM,11:23,,,Cummings REBOUND (Off:1 Def:1),,
+0029900670,130,6,2,2,5:41 AM,11:14,Feick S.FOUL (P2.T1),,,,
+0029900670,131,3,11,2,5:41 AM,11:14,,,Caffey Free Throw 1 of 2 (3 PTS),28 - 28,TIE
+0029900670,132,8,0,2,5:41 AM,11:14,SUB: McIlvaine FOR Feick,,,,
+0029900670,133,8,0,2,5:41 AM,11:14,SUB: Van Horn FOR Burrell,,,,
+0029900670,134,3,12,2,5:41 AM,11:14,,,MISS Caffey Free Throw 2 of 2,,
+0029900670,135,4,0,2,5:42 AM,11:12,Van Horn REBOUND (Off:2 Def:3),,,,
+0029900670,136,6,2,2,5:42 AM,10:58,,,Jacobson S.FOUL (P1.T1),,
+0029900670,137,8,0,2,5:42 AM,10:58,,,SUB: Dampier FOR Jamison,,
+0029900670,138,3,11,2,5:42 AM,10:58,MISS Kittles Free Throw 1 of 2,,,,
+0029900670,139,4,1,2,5:42 AM,10:58,NETS Rebound,,,,
+0029900670,140,3,12,2,5:42 AM,10:58,Kittles Free Throw 2 of 2 (5 PTS),,,28 - 29,1
+0029900670,141,2,1,2,5:43 AM,10:45,,,MISS Jacobson 15' Jump Shot,,
+0029900670,142,4,0,2,5:43 AM,10:44,McIlvaine REBOUND (Off:3 Def:4),,,,
+0029900670,143,1,6,2,5:43 AM,10:34,Newman  Driving Layup (4 PTS),,,28 - 31,3
+0029900670,144,2,1,2,5:43 AM,10:27,,,MISS Cummings 18' Jump Shot,,
+0029900670,145,4,0,2,5:43 AM,10:25,,,Caffey REBOUND (Off:2 Def:0),,
+0029900670,146,6,1,2,5:43 AM,10:23,Van Horn P.FOUL (P2.T2),,,,
+0029900670,147,8,0,2,5:43 AM,10:23,SUB: Gill FOR Kittles,,,,
+0029900670,148,2,1,2,5:44 AM,10:16,,,MISS Dampier 7' Jump Shot,,
+0029900670,149,4,0,2,5:44 AM,10:15,,,Warriors Rebound,,
+0029900670,150,6,3,2,5:44 AM,10:15,Newman L.B.FOUL (P1.T3),,,,
+0029900670,151,6,4,2,5:44 AM,10:12,,,Caffey OFF.Foul (P1),,
+0029900670,152,5,5,2,5:44 AM,10:12,,,Caffey Foul Turnover (P3.T5),,
+0029900670,153,5,1,2,5:44 AM,10:02,Marbury Bad Pass Turnover (P2.T5),,Davis STEAL (1 STL),,
+0029900670,154,1,9,2,5:45 AM,10:00,,,Davis  Driving Dunk (2 PTS),30 - 31,1
+0029900670,155,2,1,2,5:45 AM,9:36,MISS Gill 10' Jump Shot,,,,
+0029900670,156,4,0,2,5:45 AM,9:34,Van Horn REBOUND (Off:3 Def:3),,,,
+0029900670,157,2,4,2,5:45 AM,9:33,MISS Van Horn  Tip Shot,,,,
+0029900670,158,4,0,2,5:45 AM,9:32,Van Horn REBOUND (Off:4 Def:3),,,,
+0029900670,159,2,5,2,5:45 AM,9:30,MISS Van Horn  Layup,,,,
+0029900670,160,4,0,2,5:45 AM,9:29,,,Dampier REBOUND (Off:0 Def:1),,
+0029900670,161,5,1,2,5:45 AM,9:27,Marbury STEAL (1 STL),,Dampier Bad Pass Turnover (P1.T6),,
+0029900670,162,9,4,2,5:45 AM,9:21,,,,,
+0029900670,164,5,2,2,5:47 AM,9:16,Newman Lost Ball Turnover (P1.T6),,Cummings STEAL (1 STL),,
+0029900670,165,6,2,2,5:48 AM,9:13,Marbury S.FOUL (P1.T4),,,,
+0029900670,166,3,11,2,5:48 AM,9:13,,,Cummings Free Throw 1 of 2 (3 PTS),31 - 31,TIE
+0029900670,167,3,12,2,5:48 AM,9:13,,,Cummings Free Throw 2 of 2 (4 PTS),32 - 31,-1
+0029900670,168,1,6,2,5:48 AM,9:02,Marbury  Driving Layup (8 PTS),,,32 - 33,1
+0029900670,173,2,1,2,5:49 AM,8:38,,,MISS Cummings 14' Jump Shot,,
+0029900670,169,4,0,2,5:49 AM,8:37,Van Horn REBOUND (Off:4 Def:4),,,,
+0029900670,170,5,1,2,5:49 AM,8:33,Van Horn Bad Pass Turnover (P2.T7),,Jacobson STEAL (1 STL),,
+0029900670,171,6,4,2,5:49 AM,8:30,,,Davis OFF.Foul (P1),,
+0029900670,172,5,5,2,5:49 AM,8:30,,,Davis Foul Turnover (P1.T7),,
+0029900670,174,1,1,2,5:49 AM,8:16,Gill 18' Jump Shot (9 PTS) (Marbury 5 AST),,,32 - 35,3
+0029900670,175,6,1,2,5:50 AM,7:58,Van Horn P.FOUL (P3.PN),,,,
+0029900670,177,8,0,2,5:50 AM,7:58,,,SUB: Blaylock FOR Jacobson,,
+0029900670,178,8,0,2,5:50 AM,7:58,SUB: Burrell FOR Van Horn,,,,
+0029900670,179,3,11,2,5:50 AM,7:58,,,Caffey Free Throw 1 of 2 (4 PTS),33 - 35,2
+0029900670,180,3,12,2,5:50 AM,7:58,,,MISS Caffey Free Throw 2 of 2,,
+0029900670,181,4,0,2,5:50 AM,7:57,Burrell REBOUND (Off:0 Def:1),,,,
+0029900670,182,2,1,2,5:51 AM,7:39,MISS Marbury  3PT Jump Shot,,,,
+0029900670,183,4,0,2,5:51 AM,7:37,,,Blaylock REBOUND (Off:0 Def:1),,
+0029900670,184,2,1,2,5:51 AM,7:30,,,MISS Cummings 17' Jump Shot,,
+0029900670,185,4,0,2,5:51 AM,7:28,NETS Rebound,,,,
+0029900670,186,6,1,2,5:51 AM,7:20,,,Dampier P.FOUL (P1.T2),,
+0029900670,187,8,0,2,5:51 AM,7:20,SUB: Perry FOR Marbury,,,,
+0029900670,188,6,2,2,5:52 AM,7:11,,,Dampier S.FOUL (P2.T3),,
+0029900670,189,3,11,2,5:52 AM,7:11,Newman Free Throw 1 of 2 (5 PTS),,,33 - 36,3
+0029900670,190,8,0,2,5:52 AM,7:11,,,SUB: Marshall FOR Davis,,
+0029900670,191,3,12,2,5:52 AM,7:11,Newman Free Throw 2 of 2 (6 PTS),,,33 - 37,4
+0029900670,192,1,6,2,5:53 AM,6:55,,,Caffey  Driving Layup (6 PTS) (Blaylock 4 AST),35 - 37,2
+0029900670,193,6,2,2,5:53 AM,6:37,,,Cummings S.FOUL (P1.T4),,
+0029900670,194,9,1,2,5:53 AM,6:37,NETS Timeout: Regular (Full 2 Short 0),,,,
+0029900670,196,3,11,2,5:55 AM,6:37,Newman Free Throw 1 of 2 (7 PTS),,,35 - 38,3
+0029900670,197,3,12,2,5:56 AM,6:37,Newman Free Throw 2 of 2 (8 PTS),,,35 - 39,4
+0029900670,198,5,6,2,5:56 AM,6:19,,,Caffey Double Dribble Turnover (P4.T8),,
+0029900670,199,6,1,2,5:56 AM,6:06,,,Cummings P.FOUL (P2.PN),,
+0029900670,200,3,11,2,5:57 AM,6:06,Gill Free Throw 1 of 2 (10 PTS),,,35 - 40,5
+0029900670,201,8,0,2,5:57 AM,6:06,,,SUB: Starks FOR Cummings,,
+0029900670,202,8,0,2,5:57 AM,6:06,,,SUB: Jamison FOR Caffey,,
+0029900670,203,3,12,2,5:57 AM,6:06,Gill Free Throw 2 of 2 (11 PTS),,,35 - 41,6
+0029900670,204,6,1,2,5:57 AM,5:54,Perry P.FOUL (P1.PN),,,,
+0029900670,205,3,11,2,5:58 AM,5:54,,,Marshall Free Throw 1 of 2 (5 PTS),36 - 41,5
+0029900670,206,3,12,2,5:58 AM,5:54,,,Marshall Free Throw 2 of 2 (6 PTS),37 - 41,4
+0029900670,207,2,1,2,5:58 AM,5:39,MISS Newman 20' Jump Shot,,,,
+0029900670,208,4,0,2,5:58 AM,5:36,McIlvaine REBOUND (Off:4 Def:4),,,,
+0029900670,209,5,1,2,5:58 AM,5:33,Perry Bad Pass Turnover (P1.T8),,Blaylock STEAL (2 STL),,
+0029900670,210,2,6,2,5:58 AM,5:29,Burrell BLOCK (1 BLK),,MISS Starks  Driving Layup,,
+0029900670,211,4,0,2,5:58 AM,5:28,,,Marshall REBOUND (Off:4 Def:3),,
+0029900670,212,1,7,2,5:58 AM,5:27,,,Marshall  Dunk (8 PTS),39 - 41,2
+0029900670,213,1,1,2,5:59 AM,5:11,Burrell 20' Jump Shot (2 PTS),,,39 - 43,4
+0029900670,214,2,1,2,5:59 AM,4:45,,,MISS Starks  3PT Jump Shot,,
+0029900670,215,4,0,2,5:59 AM,4:44,Gill REBOUND (Off:0 Def:1),,,,
+0029900670,216,2,3,2,5:59 AM,4:24,MISS McIlvaine 5' Hook Shot,,,,
+0029900670,217,4,0,2,5:59 AM,4:22,Gill REBOUND (Off:1 Def:1),,,,
+0029900670,218,1,5,2,5:59 AM,4:21,Gill  Layup (13 PTS),,,39 - 45,6
+0029900670,219,5,1,2,6:00 AM,4:07,Burrell STEAL (2 STL),,Blaylock Bad Pass Turnover (P2.T9),,
+0029900670,220,2,1,2,6:00 AM,3:53,MISS Perry 25' 3PT Jump Shot,,,,
+0029900670,221,4,0,2,6:00 AM,3:51,Burrell REBOUND (Off:1 Def:1),,,,
+0029900670,222,6,2,2,6:00 AM,3:43,,,Marshall S.FOUL (P3.PN),,
+0029900670,223,8,0,2,6:00 AM,3:43,,,SUB: Foyle FOR Dampier,,
+0029900670,224,3,11,2,6:00 AM,3:43,Newman Free Throw 1 of 2 (9 PTS),,,39 - 46,7
+0029900670,225,3,12,2,6:01 AM,3:43,MISS Newman Free Throw 2 of 2,,,,
+0029900670,226,4,0,2,6:01 AM,3:42,,,Foyle REBOUND (Off:1 Def:2),,
+0029900670,227,6,2,2,6:01 AM,3:29,McIlvaine S.FOUL (P2.PN),,,,
+0029900670,228,3,11,2,6:01 AM,3:29,,,MISS Jamison Free Throw 1 of 2,,
+0029900670,229,4,1,2,6:01 AM,3:29,,,Warriors Rebound,,
+0029900670,230,3,12,2,6:01 AM,3:29,,,Jamison Free Throw 2 of 2 (11 PTS),40 - 46,6
+0029900670,231,2,1,2,6:02 AM,3:17,MISS Burrell 25' 3PT Jump Shot,,,,
+0029900670,232,4,0,2,6:02 AM,3:15,,,Warriors Rebound,,
+0029900670,233,5,1,2,6:02 AM,3:07,Burrell STEAL (3 STL),,Jamison Bad Pass Turnover (P1.T10),,
+0029900670,234,1,6,2,6:02 AM,3:03,Perry  Driving Layup (2 PTS) (Burrell 2 AST),,,40 - 48,8
+0029900670,235,2,1,2,6:03 AM,2:52,,,MISS Blaylock 15' Jump Shot,,
+0029900670,236,4,0,2,6:03 AM,2:50,,,Marshall REBOUND (Off:5 Def:3),,
+0029900670,239,2,5,2,6:03 AM,2:48,,,MISS Marshall  Layup,,
+0029900670,240,4,0,2,6:03 AM,2:47,,,Warriors Rebound,,
+0029900670,241,9,1,2,6:03 AM,2:47,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+0029900670,242,8,0,2,6:05 AM,2:47,SUB: Feick FOR Newman,,,,
+0029900670,243,8,0,2,6:05 AM,2:47,SUB: Kittles FOR Burrell,,,,
+0029900670,244,1,1,2,6:05 AM,2:33,,,Jamison 16' Jump Shot (13 PTS) (Marshall 2 AST),42 - 48,6
+0029900670,245,2,1,2,6:05 AM,2:17,MISS Perry 20' Jump Shot,,,,
+0029900670,246,4,0,2,6:05 AM,2:15,,,Blaylock REBOUND (Off:0 Def:2),,
+0029900670,247,1,9,2,6:05 AM,2:10,,,Jamison  Driving Dunk (15 PTS) (Blaylock 5 AST),44 - 48,4
+0029900670,248,5,1,2,6:06 AM,1:48,Gill Bad Pass Turnover (P1.T9),,Blaylock STEAL (3 STL),,
+0029900670,249,1,1,2,6:06 AM,1:43,,,Jamison 7' Jump Shot (17 PTS) (Blaylock 6 AST),46 - 48,2
+0029900670,250,9,2,2,6:06 AM,1:33,NETS Timeout: Short (Full 2 Short 1),,,,
+0029900670,252,8,0,2,6:07 AM,1:33,SUB: Marbury FOR Perry,,,,
+0029900670,253,2,2,2,6:07 AM,1:19,MISS Kittles 14' Running Jump Shot,,,,
+0029900670,254,4,0,2,6:07 AM,1:18,,,Foyle REBOUND (Off:1 Def:3),,
+0029900670,255,1,1,2,6:07 AM,1:12,,,Starks 15' Jump Shot (4 PTS),48 - 48,TIE
+0029900670,256,6,1,2,6:07 AM,0:57,,,Starks P.FOUL (P2.PN),,
+0029900670,257,3,11,2,6:08 AM,0:57,McIlvaine Free Throw 1 of 2 (5 PTS),,,48 - 49,1
+0029900670,258,3,12,2,6:08 AM,0:57,McIlvaine Free Throw 2 of 2 (6 PTS),,,48 - 50,2
+0029900670,259,9,2,2,6:08 AM,0:53,,,Warriors Timeout: Short (Reg.2 Short 1),,
+0029900670,261,5,2,2,6:09 AM,0:47,Gill STEAL (1 STL),,Marshall Lost Ball Turnover (P1.T11),,
+0029900670,262,6,2,2,6:09 AM,0:31,,,Foyle S.FOUL (P2.PN),,
+0029900670,263,3,11,2,6:09 AM,0:31,Gill Free Throw 1 of 2 (14 PTS),,,48 - 51,3
+0029900670,264,8,0,2,6:10 AM,0:31,,,SUB: Cummings FOR Foyle,,
+0029900670,265,3,12,2,6:10 AM,0:31,Gill Free Throw 2 of 2 (15 PTS),,,48 - 52,4
+0029900670,266,1,1,2,6:10 AM,0:24,,,Blaylock 25' 3PT Jump Shot (8 PTS),51 - 52,1
+0029900670,267,1,6,2,6:10 AM,0:04,Marbury  Driving Layup (10 PTS),,,51 - 54,3
+0029900670,268,2,2,2,6:10 AM,0:01,,,MISS Starks 20' Running Jump Shot,,
+0029900670,269,4,0,2,6:11 AM,0:00,McIlvaine REBOUND (Off:4 Def:5),,,,
+0029900670,270,13,0,2,6:11 AM,0:00,,,,51 - 54,3
+0029900670,272,12,0,3,6:26 AM,12:00,,,,51 - 54,3
+0029900670,273,2,1,3,6:26 AM,11:47,,,MISS Marshall 19' Jump Shot,,
+0029900670,274,4,0,3,6:26 AM,11:46,,,Foyle REBOUND (Off:2 Def:3),,
+0029900670,275,2,7,3,6:26 AM,11:45,,,MISS Foyle  Dunk,,
+0029900670,276,4,0,3,6:26 AM,11:44,NETS Rebound,,,,
+0029900670,277,6,3,3,6:27 AM,11:44,,,Foyle L.B.FOUL (P3.T1),,
+0029900670,278,1,1,3,6:27 AM,11:27,Gill 19' Jump Shot (17 PTS) (Van Horn 2 AST),,,51 - 56,5
+0029900670,279,2,1,3,6:27 AM,11:14,,,MISS Starks 19' Jump Shot,,
+0029900670,280,4,0,3,6:27 AM,11:13,,,Jamison REBOUND (Off:1 Def:2),,
+0029900670,281,2,4,3,6:27 AM,11:12,,,MISS Jamison  Tip Shot,,
+0029900670,282,4,0,3,6:27 AM,11:10,McIlvaine REBOUND (Off:4 Def:6),,,,
+0029900670,283,5,1,3,6:27 AM,11:04,McIlvaine Bad Pass Turnover (P2.T10),,Blaylock STEAL (4 STL),,
+0029900670,284,1,1,3,6:27 AM,11:01,,,Blaylock 24' 3PT Jump Shot (11 PTS),54 - 56,2
+0029900670,285,2,1,3,6:28 AM,10:48,MISS Kittles 24' 3PT Jump Shot,,,,
+0029900670,286,4,0,3,6:28 AM,10:46,,,Foyle REBOUND (Off:2 Def:4),,
+0029900670,287,6,4,3,6:28 AM,10:41,,,Starks OFF.Foul (P3),,
+0029900670,288,5,5,3,6:28 AM,10:41,,,Starks Foul Turnover (P2.T12),,
+0029900670,289,2,1,3,6:28 AM,10:28,MISS Gill  3PT Jump Shot,,,,
+0029900670,290,4,0,3,6:28 AM,10:26,,,Foyle REBOUND (Off:2 Def:5),,
+0029900670,291,1,6,3,6:28 AM,10:18,,,Blaylock  Driving Layup (13 PTS),56 - 56,TIE
+0029900670,292,2,3,3,6:29 AM,9:59,MISS McIlvaine 9' Hook Shot,,,,
+0029900670,293,4,0,3,6:29 AM,9:57,Gill REBOUND (Off:2 Def:1),,,,
+0029900670,294,1,7,3,6:29 AM,9:56,Gill  Dunk (19 PTS),,,56 - 58,2
+0029900670,295,2,1,3,6:29 AM,9:32,,,MISS Blaylock  3PT Jump Shot,,
+0029900670,296,4,0,3,6:29 AM,9:30,Gill REBOUND (Off:2 Def:2),,,,
+0029900670,297,1,1,3,6:29 AM,9:24,Kittles 24' 3PT Jump Shot (8 PTS) (Marbury 6 AST),,,56 - 61,5
+0029900670,298,2,5,3,6:29 AM,9:04,McIlvaine BLOCK (1 BLK),,MISS Jamison  Layup,,
+0029900670,299,4,0,3,6:30 AM,9:03,Marbury REBOUND (Off:0 Def:2),,,,
+0029900670,300,2,6,3,6:30 AM,8:56,MISS Van Horn  Driving Layup,,Foyle BLOCK (1 BLK),,
+0029900670,301,4,0,3,6:30 AM,8:54,Marbury REBOUND (Off:1 Def:2),,,,
+0029900670,302,2,1,3,6:30 AM,8:52,MISS Gill 16' Jump Shot,,,,
+0029900670,303,4,0,3,6:30 AM,8:50,,,Marshall REBOUND (Off:5 Def:4),,
+0029900670,304,2,6,3,6:30 AM,8:43,,,MISS Starks  Driving Layup,,
+0029900670,305,4,0,3,6:30 AM,8:42,NETS Rebound,,,,
+0029900670,307,2,6,3,6:30 AM,8:19,MISS Gill  Driving Layup,,Foyle BLOCK (2 BLK),,
+0029900670,308,4,0,3,6:30 AM,8:18,Van Horn REBOUND (Off:5 Def:4),,,,
+0029900670,309,5,11,3,6:31 AM,8:17,NETS Turnover: Shot Clock (T#11),,,,
+0029900670,310,8,0,3,6:31 AM,8:17,,,SUB: Caffey FOR Foyle,,
+0029900670,311,6,1,3,6:31 AM,7:58,Kittles P.FOUL (P2.T1),,,,
+0029900670,312,1,1,3,6:32 AM,7:49,,,Blaylock 25' 3PT Jump Shot (16 PTS) (Marshall 3 AST),59 - 61,2
+0029900670,313,2,6,3,6:32 AM,7:30,MISS Marbury  Driving Layup,,,,
+0029900670,314,4,0,3,6:32 AM,7:29,McIlvaine REBOUND (Off:5 Def:6),,,,
+0029900670,315,1,4,3,6:32 AM,7:28,McIlvaine  Tip Shot (8 PTS),,,59 - 63,4
+0029900670,316,1,1,3,6:32 AM,7:11,,,Jamison 20' Jump Shot (19 PTS) (Marshall 4 AST),61 - 63,2
+0029900670,317,5,1,3,6:32 AM,6:55,Marbury Bad Pass Turnover (P3.T12),,Blaylock STEAL (5 STL),,
+0029900670,318,2,1,3,6:32 AM,6:51,,,MISS Blaylock 25' 3PT Jump Shot,,
+0029900670,319,4,0,3,6:33 AM,6:49,,,Caffey REBOUND (Off:3 Def:0),,
+0029900670,320,2,4,3,6:33 AM,6:48,,,MISS Caffey  Tip Shot,,
+0029900670,321,4,0,3,6:33 AM,6:47,McIlvaine REBOUND (Off:5 Def:7),,,,
+0029900670,322,1,1,3,6:33 AM,6:38,Kittles 21' Jump Shot (10 PTS) (Marbury 7 AST),,,61 - 65,4
+0029900670,323,5,1,3,6:33 AM,6:23,Kittles STEAL (3 STL),,Blaylock Bad Pass Turnover (P3.T13),,
+0029900670,324,1,6,3,6:33 AM,6:18,Gill  Driving Layup (21 PTS),,,61 - 67,6
+0029900670,325,1,2,3,6:33 AM,5:57,,,Blaylock 17' Running Jump Shot (18 PTS),63 - 67,4
+0029900670,326,2,6,3,6:34 AM,5:44,MISS Marbury  Driving Layup,,,,
+0029900670,327,4,0,3,6:34 AM,5:43,McIlvaine REBOUND (Off:6 Def:7),,,,
+0029900670,328,1,1,3,6:34 AM,5:39,Kittles 24' 3PT Jump Shot (13 PTS) (McIlvaine 1 AST),,,63 - 70,7
+0029900670,329,2,5,3,6:34 AM,5:17,,,MISS Jamison  Layup,,
+0029900670,330,4,0,3,6:34 AM,5:16,McIlvaine REBOUND (Off:6 Def:8),,,,
+0029900670,331,6,2,3,6:34 AM,5:08,,,Marshall S.FOUL (P4.T2),,
+0029900670,332,9,1,3,6:34 AM,5:08,NETS Timeout: Regular (Full 3 Short 1),,,,
+0029900670,335,8,0,3,6:36 AM,5:08,,,SUB: Cummings FOR Marshall,,
+0029900670,336,3,11,3,6:36 AM,5:08,Gill Free Throw 1 of 2 (22 PTS),,,63 - 71,8
+0029900670,337,3,12,3,6:37 AM,5:08,Gill Free Throw 2 of 2 (23 PTS),,,63 - 72,9
+0029900670,338,6,1,3,6:37 AM,4:55,Van Horn P.FOUL (P4.T2),,,,
+0029900670,339,8,0,3,6:37 AM,4:55,SUB: Burrell FOR Van Horn,,,,
+0029900670,340,5,1,3,6:38 AM,4:46,Burrell STEAL (4 STL),,Jamison Bad Pass Turnover (P2.T14),,
+0029900670,341,2,2,3,6:38 AM,4:29,MISS Kittles 16' Running Jump Shot,,,,
+0029900670,342,4,0,3,6:38 AM,4:28,,,Blaylock REBOUND (Off:0 Def:3),,
+0029900670,343,1,1,3,6:38 AM,4:22,,,Starks 24' 3PT Jump Shot (7 PTS) (Blaylock 7 AST),66 - 72,6
+0029900670,344,1,6,3,6:38 AM,4:05,Marbury  Driving Layup (12 PTS),,,66 - 74,8
+0029900670,345,6,2,3,6:38 AM,4:05,,,Caffey S.FOUL (P2.T3),,
+0029900670,346,3,10,3,6:39 AM,4:05,Marbury Free Throw 1 of 1 (13 PTS),,,66 - 75,9
+0029900670,347,6,2,3,6:39 AM,3:53,McIlvaine S.FOUL (P3.T3),,,,
+0029900670,348,3,11,3,6:39 AM,3:53,,,MISS Caffey Free Throw 1 of 2,,
+0029900670,349,4,1,3,6:39 AM,3:53,,,Warriors Rebound,,
+0029900670,350,3,12,3,6:39 AM,3:53,,,Caffey Free Throw 2 of 2 (7 PTS),67 - 75,8
+0029900670,351,6,4,3,6:40 AM,3:44,Gill OFF.Foul (P1),,,,
+0029900670,352,5,5,3,6:40 AM,3:44,Gill Foul Turnover (P2.T13),,,,
+0029900670,353,8,0,3,6:40 AM,3:44,SUB: Eschmeyer FOR McIlvaine,,,,
+0029900670,354,1,5,3,6:40 AM,3:32,,,Jamison  Layup (21 PTS) (Blaylock 8 AST),69 - 75,6
+0029900670,355,7,2,3,6:41 AM,3:17,,,Warriors Violation: Def. Goaltending Violation,,
+0029900670,356,2,1,3,6:41 AM,3:04,MISS Burrell 19' Jump Shot,,,,
+0029900670,357,4,0,3,6:41 AM,3:03,,,Caffey REBOUND (Off:3 Def:1),,
+0029900670,358,2,1,3,6:41 AM,2:57,,,MISS Starks 25' 3PT Jump Shot,,
+0029900670,359,4,0,3,6:41 AM,2:55,,,Cummings REBOUND (Off:2 Def:1),,
+0029900670,360,2,6,3,6:41 AM,2:53,Eschmeyer BLOCK (1 BLK),,MISS Cummings  Driving Layup,,
+0029900670,361,4,0,3,6:42 AM,2:52,,,Warriors Rebound,,
+0029900670,362,9,1,3,6:42 AM,2:52,,,Warriors Timeout: Regular (Reg.3 Short 1),,
+0029900670,364,2,6,3,6:44 AM,2:42,Eschmeyer BLOCK (2 BLK),,MISS Starks  Driving Layup,,
+0029900670,365,4,0,3,6:44 AM,2:40,Burrell REBOUND (Off:1 Def:2),,,,
+0029900670,366,1,6,3,6:44 AM,2:26,Gill  Driving Layup (25 PTS) (Eschmeyer 1 AST),,,69 - 77,8
+0029900670,367,6,1,3,6:44 AM,2:16,Gill P.FOUL (P2.T4),,,,
+0029900670,368,8,0,3,6:44 AM,2:16,SUB: Newman FOR Gill,,,,
+0029900670,369,2,1,3,6:45 AM,2:06,,,MISS Blaylock 17' Jump Shot,,
+0029900670,370,4,0,3,6:45 AM,2:05,NETS Rebound,,,,
+0029900670,371,5,1,3,6:45 AM,1:50,Eschmeyer Bad Pass Turnover (P1.T14),,Caffey STEAL (1 STL),,
+0029900670,372,1,6,3,6:45 AM,1:44,,,Cummings  Driving Layup (6 PTS) (Blaylock 9 AST),71 - 77,6
+0029900670,373,6,2,3,6:46 AM,1:27,,,Blaylock S.FOUL (P2.T4),,
+0029900670,374,3,11,3,6:46 AM,1:27,Newman Free Throw 1 of 2 (10 PTS),,,71 - 78,7
+0029900670,375,8,0,3,6:46 AM,1:27,,,SUB: Davis FOR Starks,,
+0029900670,376,3,12,3,6:46 AM,1:27,Newman Free Throw 2 of 2 (11 PTS),,,71 - 79,8
+0029900670,377,2,2,3,6:46 AM,1:12,,,MISS Cummings 9' Running Jump Shot,,
+0029900670,378,4,0,3,6:47 AM,1:09,,,Jamison REBOUND (Off:2 Def:2),,
+0029900670,379,1,5,3,6:47 AM,1:07,,,Jamison  Layup (23 PTS),73 - 79,6
+0029900670,380,1,1,3,6:47 AM,0:56,Kittles 24' 3PT Jump Shot (16 PTS) (Marbury 8 AST),,,73 - 82,9
+0029900670,381,1,5,3,6:47 AM,0:44,,,Jamison  Layup (25 PTS),75 - 82,7
+0029900670,382,5,13,3,6:47 AM,0:32,NETS Turnover: Backcourt (T#15),,,,
+0029900670,383,2,1,3,6:48 AM,0:27,,,MISS Blaylock 26' 3PT Jump Shot,,
+0029900670,384,4,0,3,6:48 AM,0:25,Burrell REBOUND (Off:1 Def:3),,,,
+0029900670,385,1,1,3,6:48 AM,0:01,Newman  3PT Jump Shot (14 PTS) (Marbury 9 AST),,,75 - 85,10
+0029900670,386,2,1,3,6:48 AM,0:00,,,MISS Blaylock 71' 3PT Jump Shot,,
+0029900670,387,4,0,3,6:49 AM,0:00,NETS Rebound,,,,
+0029900670,388,13,0,3,6:49 AM,0:00,,,,75 - 85,10
+0029900670,391,12,0,4,6:51 AM,12:00,,,,75 - 85,10
+0029900670,392,1,1,4,6:51 AM,11:49,Newman 24' 3PT Jump Shot (17 PTS) (Marbury 10 AST),,,75 - 88,13
+0029900670,393,2,6,4,6:51 AM,11:27,,,MISS Jamison  Driving Layup,,
+0029900670,394,4,0,4,6:52 AM,11:26,Newman REBOUND (Off:0 Def:1),,,,
+0029900670,395,6,4,4,6:52 AM,11:12,Van Horn OFF.Foul (P5),,,,
+0029900670,396,5,5,4,6:52 AM,11:12,Van Horn Foul Turnover (P3.T16),,,,
+0029900670,397,2,2,4,6:52 AM,10:55,,,MISS Marshall 10' Running Jump Shot,,
+0029900670,398,4,0,4,6:52 AM,10:53,,,Jamison REBOUND (Off:3 Def:2),,
+0029900670,399,2,5,4,6:52 AM,10:52,,,MISS Jamison  Layup,,
+0029900670,400,4,0,4,6:52 AM,10:51,Marbury REBOUND (Off:1 Def:3),,,,
+0029900670,401,2,6,4,6:53 AM,10:31,MISS Newman  Driving Layup,,,,
+0029900670,402,4,0,4,6:53 AM,10:29,Van Horn REBOUND (Off:6 Def:4),,,,
+0029900670,403,1,4,4,6:53 AM,10:28,Van Horn  Tip Shot (7 PTS),,,75 - 90,15
+0029900670,404,5,2,4,6:53 AM,10:13,Kittles STEAL (4 STL),,Davis Lost Ball Turnover (P2.T15),,
+0029900670,405,1,9,4,6:53 AM,10:08,Newman  Driving Dunk (19 PTS) (Marbury 11 AST),,,75 - 92,17
+0029900670,406,9,1,4,6:53 AM,10:06,,,Warriors Timeout: Regular (Reg.4 Short 1),,
+0029900670,408,8,0,4,6:55 AM,10:06,,,SUB: Starks FOR Blaylock,,
+0029900670,409,8,0,4,6:55 AM,10:06,SUB: Feick FOR Van Horn,,,,
+0029900670,410,6,1,4,6:55 AM,9:53,Newman P.FOUL (P2.T1),,,,
+0029900670,411,5,2,4,6:56 AM,9:44,Newman STEAL (1 STL),,Jamison Lost Ball Turnover (P3.T16),,
+0029900670,412,1,2,4,6:56 AM,9:20,Marbury 20' Running Jump Shot (15 PTS),,,75 - 94,19
+0029900670,413,2,5,4,6:57 AM,9:00,McIlvaine BLOCK (2 BLK),,MISS Marshall  Layup,,
+0029900670,414,4,0,4,6:57 AM,8:59,,,Marshall REBOUND (Off:6 Def:4),,
+0029900670,415,2,4,4,6:57 AM,8:58,,,MISS Marshall  Tip Shot,,
+0029900670,416,4,0,4,6:57 AM,8:58,,,Warriors Rebound,,
+0029900670,417,5,11,4,6:57 AM,8:52,,,Warriors Turnover: Shot Clock (T#17),,
+0029900670,418,2,2,4,6:58 AM,8:37,MISS Kittles 13' Running Jump Shot,,Davis BLOCK (1 BLK),,
+0029900670,419,4,0,4,6:58 AM,8:35,,,Jamison REBOUND (Off:3 Def:3),,
+0029900670,420,2,1,4,6:58 AM,8:29,,,MISS Starks 23' Jump Shot,,
+0029900670,421,4,0,4,6:58 AM,8:27,,,Davis REBOUND (Off:1 Def:0),,
+0029900670,422,2,1,4,6:58 AM,8:25,,,MISS Starks  3PT Jump Shot,,
+0029900670,423,4,0,4,6:58 AM,8:24,,,Cummings REBOUND (Off:3 Def:1),,
+0029900670,424,2,1,4,6:58 AM,8:22,,,MISS Cummings 16' Jump Shot,,
+0029900670,425,4,0,4,6:58 AM,8:20,McIlvaine REBOUND (Off:6 Def:9),,,,
+0029900670,426,2,1,4,6:58 AM,7:59,MISS Marbury 25' 3PT Jump Shot,,,,
+0029900670,427,10,0,4,6:59 AM,7:57,Jump Ball McIlvaine vs. Marshall: Tip to Cummings,,,,
+0029900670,428,4,0,4,6:59 AM,7:57,,,Warriors Rebound,,
+0029900670,429,6,1,4,6:59 AM,7:45,Feick P.FOUL (P3.T2),,,,
+0029900670,430,2,1,4,6:59 AM,7:42,,,MISS Cummings 18' Jump Shot,,
+0029900670,431,4,0,4,6:59 AM,7:40,Newman REBOUND (Off:0 Def:2),,,,
+0029900670,432,6,2,4,7:00 AM,7:23,,,Starks S.FOUL (P4.T1),,
+0029900670,433,3,11,4,7:00 AM,7:23,Newman Free Throw 1 of 2 (20 PTS),,,75 - 95,20
+0029900670,434,3,12,4,7:00 AM,7:23,MISS Newman Free Throw 2 of 2,,,,
+0029900670,435,4,0,4,7:00 AM,7:22,,,Marshall REBOUND (Off:6 Def:5),,
+0029900670,436,1,1,4,7:01 AM,7:09,,,Cummings  3PT Jump Shot (9 PTS) (Starks 3 AST),78 - 95,17
+0029900670,437,5,1,4,7:01 AM,6:55,Kittles Bad Pass Turnover (P1.T17),,Starks STEAL (1 STL),,
+0029900670,438,1,6,4,7:01 AM,6:50,,,Marshall  Driving Layup (10 PTS) (Starks 4 AST),80 - 95,15
+0029900670,439,9,1,4,7:01 AM,6:48,NETS Timeout: Regular (Full 4 Short 1),,,,
+0029900670,441,8,0,4,7:03 AM,6:48,,,SUB: Jacobson FOR Starks,,
+0029900670,442,8,0,4,7:03 AM,6:48,,,SUB: Dampier FOR Jamison,,
+0029900670,443,6,1,4,7:03 AM,6:34,,,Davis P.FOUL (P2.T2),,
+0029900670,444,8,0,4,7:03 AM,6:34,SUB: Van Horn FOR Feick,,,,
+0029900670,445,6,2,4,7:04 AM,6:25,,,Jacobson S.FOUL (P2.T3),,
+0029900670,446,3,11,4,7:04 AM,6:25,Kittles Free Throw 1 of 2 (17 PTS),,,80 - 96,16
+0029900670,447,3,12,4,7:04 AM,6:25,Kittles Free Throw 2 of 2 (18 PTS),,,80 - 97,17
+0029900670,448,6,1,4,7:05 AM,6:12,Kittles P.FOUL (P3.T3),,,,
+0029900670,449,2,6,4,7:05 AM,6:04,McIlvaine BLOCK (3 BLK),,MISS Dampier  Driving Layup,,
+0029900670,450,4,0,4,7:05 AM,6:02,McIlvaine REBOUND (Off:6 Def:10),,,,
+0029900670,451,2,6,4,7:05 AM,5:47,MISS Van Horn  Driving Layup,,,,
+0029900670,452,4,0,4,7:05 AM,5:45,,,Jacobson REBOUND (Off:0 Def:1),,
+0029900670,453,2,5,4,7:05 AM,5:40,McIlvaine BLOCK (4 BLK),,MISS Marshall  Layup,,
+0029900670,454,4,0,4,7:05 AM,5:38,Kittles REBOUND (Off:0 Def:2),,,,
+0029900670,455,2,5,4,7:05 AM,5:34,MISS Van Horn  Layup,,,,
+0029900670,456,4,0,4,7:05 AM,5:32,Van Horn REBOUND (Off:7 Def:4),,,,
+0029900670,457,6,2,4,7:06 AM,5:32,,,Dampier S.FOUL (P3.T4),,
+0029900670,458,3,11,4,7:06 AM,5:32,Van Horn Free Throw 1 of 2 (8 PTS),,,80 - 98,18
+0029900670,459,8,0,4,7:06 AM,5:32,SUB: Perry FOR Marbury,,,,
+0029900670,460,3,12,4,7:06 AM,5:32,Van Horn Free Throw 2 of 2 (9 PTS),,,80 - 99,19
+0029900670,461,2,1,4,7:07 AM,5:10,,,MISS Cummings  3PT Jump Shot,,
+0029900670,462,4,0,4,7:07 AM,5:09,Kittles REBOUND (Off:0 Def:3),,,,
+0029900670,463,1,2,4,7:07 AM,4:54,Van Horn 7' Running Jump Shot (11 PTS) (Kittles 3 AST),,,80 - 101,21
+0029900670,464,6,2,4,7:07 AM,4:54,,,Jacobson S.FOUL (P3.PN),,
+0029900670,465,3,10,4,7:07 AM,4:54,Van Horn Free Throw 1 of 1 (12 PTS),,,80 - 102,22
+0029900670,466,1,6,4,7:08 AM,4:34,,,Davis  Driving Layup (4 PTS) (Jacobson 1 AST),82 - 102,20
+0029900670,467,2,3,4,7:08 AM,4:16,MISS Van Horn 7' Hook Shot,,,,
+0029900670,468,4,0,4,7:08 AM,4:15,,,Marshall REBOUND (Off:6 Def:6),,
+0029900670,469,2,5,4,7:08 AM,4:09,McIlvaine BLOCK (5 BLK),,MISS Davis  Layup,,
+0029900670,470,4,0,4,7:08 AM,4:07,,,Marshall REBOUND (Off:7 Def:6),,
+0029900670,471,1,5,4,7:08 AM,4:03,,,Marshall  Layup (12 PTS),84 - 102,18
+0029900670,472,1,2,4,7:08 AM,3:50,Kittles 6' Running Jump Shot (20 PTS),,,84 - 104,20
+0029900670,473,6,2,4,7:08 AM,3:50,,,Jacobson S.FOUL (P4.PN),,
+0029900670,474,3,10,4,7:09 AM,3:50,Kittles Free Throw 1 of 1 (21 PTS),,,84 - 105,21
+0029900670,475,5,1,4,7:09 AM,3:40,,,Cummings Bad Pass Turnover (P1.T18),,
+0029900670,476,9,1,4,7:09 AM,3:40,,,Warriors Timeout: Regular (Reg.5 Short 1),,
+0029900670,477,8,0,4,7:11 AM,3:40,,,SUB: Farmer FOR Marshall,,
+0029900670,478,5,1,4,7:11 AM,3:28,Perry Bad Pass Turnover (P2.T18),,Farmer STEAL (1 STL),,
+0029900670,479,8,0,4,7:12 AM,3:09,SUB: Muresan FOR McIlvaine,,,,
+0029900670,480,1,1,4,7:12 AM,3:07,,,Farmer 21' Jump Shot (2 PTS) (Davis 1 AST),86 - 105,19
+0029900670,481,1,1,4,7:12 AM,2:48,Newman 27' 3PT Jump Shot (23 PTS) (Kittles 4 AST),,,86 - 108,22
+0029900670,482,6,1,4,7:12 AM,2:39,Muresan P.FOUL (P1.T4),,,,
+0029900670,483,6,1,4,7:13 AM,2:30,Newman P.FOUL (P3.PN),,,,
+0029900670,484,3,11,4,7:13 AM,2:30,,,Farmer Free Throw 1 of 2 (3 PTS),87 - 108,21
+0029900670,485,3,12,4,7:14 AM,2:30,,,Farmer Free Throw 2 of 2 (4 PTS),88 - 108,20
+0029900670,486,2,6,4,7:14 AM,2:15,MISS Van Horn  Driving Layup,,,,
+0029900670,487,4,0,4,7:14 AM,2:14,,,Dampier REBOUND (Off:0 Def:2),,
+0029900670,488,2,1,4,7:14 AM,2:08,,,MISS Jacobson 19' Jump Shot,,
+0029900670,489,4,0,4,7:14 AM,2:06,Muresan REBOUND (Off:0 Def:1),,,,
+0029900670,490,6,2,4,7:14 AM,2:02,,,Dampier S.FOUL (P4.PN),,
+0029900670,491,3,11,4,7:14 AM,2:02,Van Horn Free Throw 1 of 2 (13 PTS),,,88 - 109,21
+0029900670,492,3,12,4,7:15 AM,2:02,MISS Van Horn Free Throw 2 of 2,,,,
+0029900670,493,4,0,4,7:15 AM,2:01,,,Dampier REBOUND (Off:0 Def:3),,
+0029900670,494,2,1,4,7:15 AM,1:47,,,MISS Dampier 17' Jump Shot,,
+0029900670,495,4,0,4,7:15 AM,1:45,Perry REBOUND (Off:0 Def:1),,,,
+0029900670,496,5,1,4,7:15 AM,1:30,Newman Bad Pass Turnover (P2.T19),,Farmer STEAL (2 STL),,
+0029900670,497,1,7,4,7:15 AM,1:27,,,Jacobson  Dunk (2 PTS) (Farmer 1 AST),90 - 109,19
+0029900670,498,2,1,4,7:16 AM,1:07,MISS Van Horn 25' 3PT Jump Shot,,,,
+0029900670,499,4,0,4,7:16 AM,1:05,,,Davis REBOUND (Off:1 Def:1),,
+0029900670,500,2,6,4,7:16 AM,1:01,,,MISS Cummings  Driving Layup,,
+0029900670,501,4,0,4,7:16 AM,0:58,,,Farmer REBOUND (Off:1 Def:0),,
+0029900670,502,2,4,4,7:16 AM,0:57,,,MISS Farmer  Tip Shot,,
+0029900670,503,4,0,4,7:16 AM,0:57,Perry REBOUND (Off:0 Def:2),,,,
+0029900670,504,6,2,4,7:16 AM,0:53,,,Dampier S.FOUL (P5.PN),,
+0029900670,505,8,0,4,7:16 AM,0:53,SUB: Eschmeyer FOR Van Horn,,,,
+0029900670,506,3,11,4,7:16 AM,0:53,MISS Muresan Free Throw 1 of 2,,,,
+0029900670,507,4,1,4,7:16 AM,0:53,NETS Rebound,,,,
+0029900670,508,3,12,4,7:16 AM,0:53,Muresan Free Throw 2 of 2 (1 PTS),,,90 - 110,20
+0029900670,509,5,1,4,7:17 AM,0:32,,,Davis Bad Pass Turnover (P3.T19),,
+0029900670,510,2,1,4,7:17 AM,0:22,MISS Perry 19' Jump Shot,,,,
+0029900670,511,4,0,4,7:17 AM,0:20,,,Davis REBOUND (Off:1 Def:2),,
+0029900670,512,2,1,4,7:17 AM,0:13,,,MISS Dampier 5' Jump Shot,,
+0029900670,513,4,0,4,7:17 AM,0:12,Eschmeyer REBOUND (Off:0 Def:1),,,,
+0029900670,514,13,0,4,7:18 AM,0:00,,,,90 - 110,20

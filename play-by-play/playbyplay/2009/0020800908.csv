@@ -1,0 +1,433 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020800908,0,12,0,1,7:43 PM,12:00,,,,,
+0020800908,1,10,0,1,7:43 PM,12:00,Jump Ball Chandler vs. Smith: Tip to Hughes,,,,
+0020800908,2,1,1,1,7:43 PM,11:45,Hughes 16' Jump Shot (2 PTS),,,0 - 2,2
+0020800908,3,5,2,1,7:44 PM,11:26,Hughes STEAL (1 STL),,Johnson Lost Ball Turnover (P1.T1),,
+0020800908,4,2,5,1,7:44 PM,11:20,MISS Chandler  Layup,,,,
+0020800908,5,4,0,1,7:44 PM,11:18,,,Horford REBOUND (Off:0 Def:1),,
+0020800908,6,1,5,1,7:44 PM,11:02,,,Horford  Layup (2 PTS) (Bibby 1 AST),2 - 2,TIE
+0020800908,7,6,2,1,7:44 PM,11:02,Harrington S.FOUL (P1.T1),,,,
+0020800908,8,3,10,1,7:44 PM,11:02,,,Horford Free Throw 1 of 1 (3 PTS),3 - 2,-1
+0020800908,10,2,1,1,7:45 PM,10:51,MISS Hughes 17' Jump Shot,,,,
+0020800908,11,4,0,1,7:45 PM,10:49,,,Johnson REBOUND (Off:0 Def:1),,
+0020800908,12,2,1,1,7:45 PM,10:40,,,MISS Bibby 25' 3PT Jump Shot,,
+0020800908,13,4,0,1,7:45 PM,10:38,Lee REBOUND (Off:0 Def:1),,,,
+0020800908,14,1,1,1,7:45 PM,10:31,Duhon 24' 3PT Jump Shot (3 PTS),,,3 - 5,2
+0020800908,15,1,5,1,7:45 PM,10:06,,,Williams  Layup (2 PTS),5 - 5,TIE
+0020800908,16,1,1,1,7:46 PM,9:55,Chandler 18' Jump Shot (2 PTS),,,5 - 7,2
+0020800908,17,1,3,1,7:46 PM,9:33,,,Smith 6' Hook Shot (2 PTS),7 - 7,TIE
+0020800908,18,2,42,1,7:46 PM,9:17,MISS Hughes  Driving Layup,,,,
+0020800908,19,4,0,1,7:46 PM,9:15,Lee REBOUND (Off:1 Def:1),,,,
+0020800908,20,2,5,1,7:46 PM,9:14,MISS Lee  Layup,,,,
+0020800908,21,4,0,1,7:46 PM,9:14,,,Horford REBOUND (Off:0 Def:2),,
+0020800908,22,2,1,1,7:46 PM,9:08,,,MISS Bibby 21' Jump Shot,,
+0020800908,23,4,0,1,7:46 PM,9:06,Lee REBOUND (Off:1 Def:2),,,,
+0020800908,24,1,49,1,7:47 PM,8:54,Harrington  Driving Dunk (2 PTS) (Hughes 1 AST),,,7 - 9,2
+0020800908,25,1,1,1,7:47 PM,8:26,,,Horford 13' Jump Shot (5 PTS),9 - 9,TIE
+0020800908,26,1,75,1,7:47 PM,8:12,Lee  Driving Finger Roll Layup (2 PTS),,,9 - 11,2
+0020800908,27,1,5,1,7:48 PM,7:50,,,Johnson  Layup (2 PTS),11 - 11,TIE
+0020800908,28,2,1,1,7:48 PM,7:29,MISS Chandler  3PT Jump Shot,,,,
+0020800908,29,4,0,1,7:48 PM,7:27,,,Bibby REBOUND (Off:0 Def:1),,
+0020800908,30,2,3,1,7:48 PM,7:19,,,MISS Smith 8' Hook Shot,,
+0020800908,31,4,0,1,7:48 PM,7:17,Harrington REBOUND (Off:0 Def:1),,,,
+0020800908,32,2,1,1,7:48 PM,7:10,MISS Duhon 24' 3PT Jump Shot,,,,
+0020800908,33,4,0,1,7:48 PM,7:08,,,Williams REBOUND (Off:0 Def:1),,
+0020800908,34,2,1,1,7:49 PM,6:54,,,MISS Williams 24' 3PT Jump Shot,,
+0020800908,35,4,0,1,7:49 PM,6:52,Lee REBOUND (Off:1 Def:3),,,,
+0020800908,36,2,1,1,7:49 PM,6:47,MISS Harrington 16' Jump Shot,,,,
+0020800908,37,4,0,1,7:49 PM,6:45,,,Williams REBOUND (Off:0 Def:2),,
+0020800908,40,1,49,1,7:49 PM,6:28,,,Smith  Driving Dunk (4 PTS) (Johnson 1 AST),13 - 11,-2
+0020800908,41,6,2,1,7:49 PM,6:28,Lee S.FOUL (P1.T2),,,,
+0020800908,42,3,10,1,7:49 PM,6:28,,,Smith Free Throw 1 of 1 (5 PTS),14 - 11,-3
+0020800908,44,2,1,1,7:50 PM,6:10,MISS Hughes 24' 3PT Jump Shot,,,,
+0020800908,45,4,0,1,7:50 PM,6:09,,,Bibby REBOUND (Off:0 Def:2),,
+0020800908,46,6,1,1,7:50 PM,6:06,Hughes P.FOUL (P1.T3),,,,
+0020800908,47,8,0,1,7:50 PM,6:06,,,SUB: Evans FOR Smith,,
+0020800908,48,2,1,1,7:51 PM,5:51,,,MISS Johnson 25' 3PT Jump Shot,,
+0020800908,49,4,0,1,7:51 PM,5:49,,,Evans REBOUND (Off:1 Def:0),,
+0020800908,50,5,1,1,7:51 PM,5:36,Chandler STEAL (1 STL),,Bibby Bad Pass Turnover (P1.T2),,
+0020800908,51,1,49,1,7:51 PM,5:32,Chandler  Driving Dunk (4 PTS) (Duhon 1 AST),,,14 - 13,-1
+0020800908,52,1,5,1,7:51 PM,5:07,,,Williams  Layup (4 PTS) (Horford 1 AST),16 - 13,-3
+0020800908,53,2,5,1,7:52 PM,4:54,MISS Duhon  Layup,,,,
+0020800908,54,4,0,1,7:52 PM,4:53,Duhon REBOUND (Off:1 Def:0),,,,
+0020800908,55,2,1,1,7:52 PM,4:50,MISS Chandler 14' Jump Shot,,,,
+0020800908,56,4,0,1,7:52 PM,4:49,Duhon REBOUND (Off:2 Def:0),,,,
+0020800908,57,2,5,1,7:52 PM,4:41,MISS Chandler  Layup,,,,
+0020800908,58,4,0,1,7:52 PM,4:41,,,Bibby REBOUND (Off:0 Def:3),,
+0020800908,59,2,1,1,7:52 PM,4:29,,,MISS Johnson 18' Jump Shot,,
+0020800908,60,4,0,1,7:52 PM,4:26,Hughes REBOUND (Off:0 Def:1),,,,
+0020800908,61,2,1,1,7:52 PM,4:12,MISS Harrington 24' 3PT Jump Shot,,,,
+0020800908,62,4,0,1,7:52 PM,4:10,,,Johnson REBOUND (Off:0 Def:2),,
+0020800908,63,2,1,1,7:52 PM,4:04,,,MISS Evans 24' 3PT Jump Shot,,
+0020800908,64,4,0,1,7:52 PM,4:02,Lee REBOUND (Off:1 Def:4),,,,
+0020800908,65,2,1,1,7:53 PM,3:47,MISS Harrington 17' Jump Shot,,,,
+0020800908,66,4,0,1,7:53 PM,3:45,,,Horford REBOUND (Off:0 Def:3),,
+0020800908,67,9,1,1,7:53 PM,3:41,,,Hawks Timeout: Regular (Reg.1 Short 0),,
+0020800908,69,8,0,1,7:55 PM,3:41,SUB: Richardson FOR Harrington,,,,
+0020800908,70,8,0,1,7:56 PM,3:41,,,SUB: Murray FOR Bibby,,
+0020800908,71,1,5,1,7:56 PM,3:36,,,Williams  Layup (6 PTS) (Murray 1 AST),18 - 13,-5
+0020800908,72,1,77,1,7:56 PM,3:22,Chandler 6' Driving Jump Shot (6 PTS),,,18 - 15,-3
+0020800908,73,1,1,1,7:56 PM,2:59,,,Horford 4' Jump Shot (7 PTS),20 - 15,-5
+0020800908,74,2,1,1,7:57 PM,2:46,MISS Chandler 24' 3PT Jump Shot,,,,
+0020800908,75,4,0,1,7:57 PM,2:44,,,Horford REBOUND (Off:0 Def:4),,
+0020800908,76,2,1,1,7:57 PM,2:28,,,MISS Williams 7' Jump Shot,,
+0020800908,78,4,0,1,7:57 PM,2:26,,,Evans REBOUND (Off:2 Def:0),,
+0020800908,77,1,4,1,7:57 PM,2:26,,,Evans  Tip Shot (2 PTS),22 - 15,-7
+0020800908,79,2,1,1,7:57 PM,2:13,MISS Richardson 24' 3PT Jump Shot,,,,
+0020800908,80,4,0,1,7:57 PM,2:11,,,Williams REBOUND (Off:0 Def:3),,
+0020800908,81,1,1,1,7:58 PM,1:54,,,Murray 9' Jump Shot (2 PTS),24 - 15,-9
+0020800908,82,9,1,1,7:58 PM,1:49,KNICKS Timeout: Regular (Full 1 Short 0),,,,
+0020800908,84,8,0,1,7:59 PM,1:49,SUB: Wilcox FOR Lee,,,,
+0020800908,85,8,0,1,8:00 PM,1:49,,,SUB: Smith FOR Horford,,
+0020800908,86,8,0,1,8:00 PM,1:49,,,SUB: Pachulia FOR Johnson,,
+0020800908,87,2,1,1,8:01 PM,1:30,MISS Chandler 15' Jump Shot,,,,
+0020800908,88,4,0,1,8:01 PM,1:28,,,Pachulia REBOUND (Off:0 Def:1),,
+0020800908,89,2,1,1,8:01 PM,1:14,,,MISS Murray 24' 3PT Jump Shot,,
+0020800908,90,4,0,1,8:01 PM,1:12,Hughes REBOUND (Off:0 Def:2),,,,
+0020800908,91,1,42,1,8:01 PM,1:09,Hughes  Driving Layup (4 PTS),,,24 - 17,-7
+0020800908,92,1,57,1,8:01 PM,0:43,,,Williams 6' Driving Hook Shot (8 PTS),26 - 17,-9
+0020800908,93,1,1,1,8:02 PM,0:32,Hughes 23' Jump Shot (6 PTS) (Chandler 1 AST),,,26 - 19,-7
+0020800908,94,5,1,1,8:02 PM,0:20,,,Smith Bad Pass Turnover (P1.T3),,
+0020800908,95,8,0,1,8:02 PM,0:20,SUB: Gallinari FOR Chandler,,,,
+0020800908,96,1,1,1,8:03 PM,0:03,Gallinari  3PT Jump Shot (3 PTS) (Duhon 2 AST),,,26 - 22,-4
+0020800908,97,2,1,1,8:03 PM,0:00,,,MISS Williams 25' 3PT Jump Shot,,
+0020800908,98,4,0,1,8:03 PM,0:00,,,Hawks Rebound,,
+0020800908,99,13,0,1,8:03 PM,0:00,,,,26 - 22,-4
+0020800908,101,12,0,2,8:06 PM,12:00,,,,26 - 22,-4
+0020800908,102,1,1,2,8:06 PM,11:45,,,Bibby 19' Jump Shot (2 PTS) (Pachulia 1 AST),28 - 22,-6
+0020800908,103,2,1,2,8:06 PM,11:19,MISS Gallinari 18' Jump Shot,,,,
+0020800908,104,4,0,2,8:06 PM,11:17,Harrington REBOUND (Off:1 Def:1),,,,
+0020800908,105,2,1,2,8:07 PM,11:01,MISS Gallinari 14' Jump Shot,,,,
+0020800908,106,4,0,2,8:07 PM,10:59,,,Pachulia REBOUND (Off:0 Def:2),,
+0020800908,107,1,1,2,8:07 PM,10:37,,,Smith 8' Jump Shot (7 PTS),30 - 22,-8
+0020800908,108,1,8,2,8:08 PM,10:18,Wilcox  Slam Dunk (2 PTS),,,30 - 24,-6
+0020800908,109,6,1,2,8:08 PM,9:58,Harrington P.FOUL (P2.T1),,,,
+0020800908,110,2,1,2,8:08 PM,9:51,,,MISS Murray 25' 3PT Jump Shot,,
+0020800908,111,4,0,2,8:09 PM,9:49,,,Pachulia REBOUND (Off:1 Def:2),,
+0020800908,112,6,1,2,8:09 PM,9:49,Richardson P.FOUL (P1.T2),,,,
+0020800908,113,1,73,2,8:09 PM,9:44,,,Bibby  Driving Reverse Layup (4 PTS),32 - 24,-8
+0020800908,114,2,1,2,8:09 PM,9:26,MISS Duhon 24' 3PT Jump Shot,,,,
+0020800908,115,4,0,2,8:09 PM,9:24,Harrington REBOUND (Off:2 Def:1),,,,
+0020800908,116,1,5,2,8:09 PM,9:22,Harrington  Layup (4 PTS),,,32 - 26,-6
+0020800908,117,5,2,2,8:09 PM,9:09,Wilcox STEAL (1 STL),,Smith Lost Ball Turnover (P2.T4),,
+0020800908,118,1,1,2,8:10 PM,9:01,Gallinari 24' 3PT Jump Shot (6 PTS) (Duhon 3 AST),,,32 - 29,-3
+0020800908,119,5,1,2,8:10 PM,8:42,Harrington STEAL (1 STL),,Murray Bad Pass Turnover (P1.T5),,
+0020800908,120,6,1,2,8:10 PM,8:41,,,Murray P.FOUL (P1.T1),,
+0020800908,121,9,4,2,8:10 PM,8:41,,,,,
+0020800908,123,8,0,2,8:12 PM,8:41,SUB: Hughes FOR Duhon,,,,
+0020800908,124,8,0,2,8:13 PM,8:41,,,SUB: Horford FOR Evans,,
+0020800908,125,8,0,2,8:13 PM,8:41,,,SUB: Johnson FOR Pachulia,,
+0020800908,126,7,5,2,8:13 PM,8:31,,,Johnson Violation:Kicked Ball,,
+0020800908,127,6,4,2,8:13 PM,8:26,Hughes OFF.Foul (P2),,,,
+0020800908,128,5,5,2,8:13 PM,8:26,Hughes Foul Turnover (P1.T1),,,,
+0020800908,129,1,8,2,8:14 PM,8:13,,,Smith  Slam Dunk (9 PTS) (Bibby 2 AST),34 - 29,-5
+0020800908,130,2,5,2,8:14 PM,8:00,MISS Wilcox  Layup,,,,
+0020800908,132,4,0,2,8:14 PM,7:59,Richardson REBOUND (Off:1 Def:0),,,,
+0020800908,131,2,5,2,8:14 PM,7:59,MISS Richardson  Layup,,,,
+0020800908,144,4,0,2,8:14 PM,7:58,Wilcox REBOUND (Off:1 Def:0),,,,
+0020800908,142,2,53,2,8:14 PM,7:58,MISS Wilcox  Tip Shot,,,,
+0020800908,133,4,0,2,8:14 PM,7:57,,,Smith REBOUND (Off:0 Def:1),,
+0020800908,134,1,79,2,8:14 PM,7:50,,,Bibby 13' Pullup Jump Shot (6 PTS),36 - 29,-7
+0020800908,135,2,1,2,8:14 PM,7:35,MISS Gallinari 20' Jump Shot,,,,
+0020800908,136,4,0,2,8:14 PM,7:33,,,Johnson REBOUND (Off:0 Def:3),,
+0020800908,137,2,1,2,8:15 PM,7:11,,,MISS Horford 16' Jump Shot,,
+0020800908,138,4,0,2,8:15 PM,7:09,Gallinari REBOUND (Off:0 Def:1),,,,
+0020800908,139,2,5,2,8:15 PM,7:04,MISS Harrington  Layup,,,,
+0020800908,140,4,0,2,8:15 PM,7:03,Harrington REBOUND (Off:3 Def:1),,,,
+0020800908,141,1,5,2,8:15 PM,7:02,Harrington  Layup (6 PTS),,,36 - 31,-5
+0020800908,145,1,1,2,8:15 PM,6:42,,,Smith 6' Jump Shot (11 PTS) (Horford 2 AST),38 - 31,-7
+0020800908,146,5,41,2,8:15 PM,6:37,Harrington Poss Lost Ball Turnover (P1.T2),,,,
+0020800908,147,8,0,2,8:16 PM,6:37,SUB: Chandler FOR Richardson,,,,
+0020800908,148,8,0,2,8:16 PM,6:37,SUB: Lee FOR Wilcox,,,,
+0020800908,149,8,0,2,8:16 PM,6:36,,,SUB: Williams FOR Murray,,
+0020800908,150,5,2,2,8:16 PM,6:26,Lee STEAL (1 STL),,Horford Lost Ball Turnover (P1.T6),,
+0020800908,151,1,42,2,8:16 PM,6:22,Lee  Driving Layup (4 PTS),,,38 - 33,-5
+0020800908,153,2,1,2,8:16 PM,5:56,,,MISS Bibby 19' Jump Shot,,
+0020800908,154,4,0,2,8:16 PM,5:55,Chandler REBOUND (Off:0 Def:1),,,,
+0020800908,155,1,1,2,8:16 PM,5:42,Gallinari 21' Jump Shot (8 PTS) (Chandler 2 AST),,,38 - 35,-3
+0020800908,156,2,1,2,8:17 PM,5:15,,,MISS Williams  3PT Jump Shot,,
+0020800908,157,4,0,2,8:17 PM,5:13,Lee REBOUND (Off:1 Def:5),,,,
+0020800908,158,1,5,2,8:17 PM,5:05,Harrington  Layup (8 PTS),,,38 - 37,-1
+0020800908,159,9,1,2,8:17 PM,4:54,,,Hawks Timeout: Regular (Reg.2 Short 0),,
+0020800908,162,8,0,2,8:20 PM,4:54,,,SUB: Evans FOR Smith,,
+0020800908,163,6,1,2,8:20 PM,4:47,Harrington P.FOUL (P3.T3),,,,
+0020800908,164,8,0,2,8:21 PM,4:47,SUB: Duhon FOR Harrington,,,,
+0020800908,165,2,42,2,8:21 PM,4:39,,,MISS Bibby  Driving Layup,,
+0020800908,166,4,0,2,8:21 PM,4:38,Lee REBOUND (Off:1 Def:6),,,,
+0020800908,167,2,1,2,8:22 PM,4:14,MISS Lee 15' Jump Shot,,,,
+0020800908,168,4,0,2,8:22 PM,4:13,,,Horford REBOUND (Off:0 Def:5),,
+0020800908,169,1,42,2,8:22 PM,4:05,,,Johnson  Driving Layup (4 PTS),40 - 37,-3
+0020800908,170,1,42,2,8:22 PM,3:56,Duhon  Driving Layup (5 PTS),,,40 - 39,-1
+0020800908,171,6,2,2,8:22 PM,3:56,,,Johnson S.FOUL (P1.T2),,
+0020800908,172,3,10,2,8:22 PM,3:56,Duhon Free Throw 1 of 1 (6 PTS),,,40 - 40,TIE
+0020800908,174,1,46,2,8:23 PM,3:39,,,Johnson 6' Running Jump Shot (6 PTS),42 - 40,-2
+0020800908,175,1,1,2,8:23 PM,3:12,Hughes 22' Jump Shot (8 PTS),,,42 - 42,TIE
+0020800908,176,2,1,2,8:24 PM,3:00,,,MISS Horford 15' Jump Shot,,
+0020800908,177,4,0,2,8:24 PM,2:58,Lee REBOUND (Off:1 Def:7),,,,
+0020800908,178,2,1,2,8:24 PM,2:50,MISS Chandler 19' Jump Shot,,,,
+0020800908,179,4,0,2,8:24 PM,2:49,,,Johnson REBOUND (Off:0 Def:4),,
+0020800908,180,1,1,2,8:24 PM,2:40,,,Evans  3PT Jump Shot (5 PTS) (Johnson 2 AST),45 - 42,-3
+0020800908,181,6,17,2,8:24 PM,2:26,,,Hawks T.Foul (Def. 3 Sec Evans ),,
+0020800908,182,9,1,2,8:24 PM,2:26,KNICKS Timeout: Regular (Full 2 Short 0),,,,
+0020800908,186,3,16,2,8:27 PM,2:26,Duhon Free Throw Technical (7 PTS),,,45 - 43,-2
+0020800908,188,1,1,2,8:27 PM,2:17,Hughes 23' Jump Shot (10 PTS) (Duhon 4 AST),,,45 - 45,TIE
+0020800908,189,1,42,2,8:28 PM,1:58,,,Williams  Driving Layup (10 PTS),47 - 45,-2
+0020800908,190,1,42,2,8:28 PM,1:38,Lee  Driving Layup (6 PTS),,,47 - 47,TIE
+0020800908,191,6,1,2,8:28 PM,1:21,Hughes P.FOUL (P3.T4),,,,
+0020800908,192,8,0,2,8:28 PM,1:21,SUB: Richardson FOR Hughes,,,,
+0020800908,193,2,1,2,8:29 PM,1:07,,,MISS Bibby 24' 3PT Jump Shot,,
+0020800908,194,4,0,2,8:29 PM,1:05,,,Williams REBOUND (Off:1 Def:3),,
+0020800908,195,2,5,2,8:29 PM,1:03,,,MISS Williams  Layup,,
+0020800908,196,4,0,2,8:29 PM,1:02,Lee REBOUND (Off:1 Def:8),,,,
+0020800908,197,1,73,2,8:29 PM,0:57,Chandler  Driving Reverse Layup (8 PTS) (Duhon 5 AST),,,47 - 49,2
+0020800908,198,2,1,2,8:29 PM,0:43,,,MISS Horford 7' Jump Shot,,
+0020800908,199,4,0,2,8:29 PM,0:41,,,Evans REBOUND (Off:3 Def:0),,
+0020800908,200,2,5,2,8:29 PM,0:40,Lee BLOCK (1 BLK),,MISS Evans  Layup,,
+0020800908,201,4,0,2,8:29 PM,0:39,Lee REBOUND (Off:1 Def:9),,,,
+0020800908,202,2,1,2,8:30 PM,0:25,MISS Duhon 7' Jump Shot,,,,
+0020800908,203,4,0,2,8:30 PM,0:23,,,Horford REBOUND (Off:0 Def:6),,
+0020800908,204,1,5,2,8:30 PM,0:17,,,Horford  Layup (9 PTS) (Johnson 3 AST),49 - 49,TIE
+0020800908,205,2,1,2,8:30 PM,0:05,MISS Duhon 26' 3PT Jump Shot,,,,
+0020800908,206,4,0,2,8:30 PM,0:04,KNICKS Rebound,,,,
+0020800908,207,6,3,2,8:30 PM,0:04,,,Evans L.B.FOUL (P1.T3),,
+0020800908,208,9,2,2,8:30 PM,0:04,KNICKS Timeout: Short (Full 2 Short 1),,,,
+0020800908,210,8,0,2,8:31 PM,0:04,,,SUB: Smith FOR Bibby,,
+0020800908,212,6,2,2,8:32 PM,0:03,,,Williams S.FOUL (P1.PN),,
+0020800908,213,3,11,2,8:32 PM,0:03,Chandler Free Throw 1 of 2 (9 PTS),,,49 - 50,1
+0020800908,215,3,12,2,8:32 PM,0:03,Chandler Free Throw 2 of 2 (10 PTS),,,49 - 51,2
+0020800908,217,9,2,2,8:33 PM,0:02,,,Hawks Timeout: Short (Reg.2 Short 1),,
+0020800908,218,8,0,2,8:34 PM,0:02,,,SUB: Murray FOR Horford,,
+0020800908,219,2,1,2,8:34 PM,0:00,,,MISS Murray 48' 3PT Jump Shot,,
+0020800908,220,4,0,2,8:34 PM,0:00,,,Hawks Rebound,,
+0020800908,221,13,0,2,8:34 PM,0:00,,,,49 - 51,2
+0020800908,223,12,0,3,8:52 PM,12:00,,,,49 - 51,2
+0020800908,224,1,1,3,8:52 PM,11:37,,,Horford 15' Jump Shot (11 PTS) (Johnson 4 AST),51 - 51,TIE
+0020800908,225,1,1,3,8:52 PM,11:17,Harrington  3PT Jump Shot (11 PTS),,,51 - 54,3
+0020800908,226,2,1,3,8:53 PM,10:58,,,MISS Johnson 7' Jump Shot,,
+0020800908,227,4,0,3,8:53 PM,10:56,,,Johnson REBOUND (Off:1 Def:4),,
+0020800908,228,5,2,3,8:53 PM,10:51,Harrington STEAL (2 STL),,Johnson Lost Ball Turnover (P2.T7),,
+0020800908,229,1,88,3,8:53 PM,10:47,Chandler  Driving Slam Dunk (12 PTS) (Hughes 2 AST),,,51 - 56,5
+0020800908,230,2,1,3,8:53 PM,10:26,,,MISS Bibby 20' Jump Shot,,
+0020800908,231,4,0,3,8:53 PM,10:24,,,Horford REBOUND (Off:1 Def:6),,
+0020800908,232,1,42,3,8:53 PM,10:11,,,Horford  Driving Layup (13 PTS) (Bibby 3 AST),53 - 56,3
+0020800908,233,6,2,3,8:53 PM,10:11,Chandler S.FOUL (P1.T1),,,,
+0020800908,234,3,10,3,8:54 PM,10:11,,,Horford Free Throw 1 of 1 (14 PTS),54 - 56,2
+0020800908,236,1,1,3,8:54 PM,9:58,Hughes 25' 3PT Jump Shot (13 PTS) (Lee 1 AST),,,54 - 59,5
+0020800908,237,1,1,3,8:55 PM,9:32,,,Johnson 20' Jump Shot (8 PTS) (Williams 1 AST),56 - 59,3
+0020800908,238,1,1,3,8:55 PM,9:23,Duhon 19' Jump Shot (9 PTS),,,56 - 61,5
+0020800908,239,2,1,3,8:55 PM,9:00,,,MISS Williams 8' Jump Shot,,
+0020800908,240,4,0,3,8:55 PM,8:58,,,Horford REBOUND (Off:2 Def:6),,
+0020800908,241,1,5,3,8:55 PM,8:56,,,Horford  Layup (16 PTS),58 - 61,3
+0020800908,242,6,2,3,8:55 PM,8:49,,,Horford S.FOUL (P1.T1),,
+0020800908,243,3,11,3,8:56 PM,8:49,Chandler Free Throw 1 of 2 (13 PTS),,,58 - 62,4
+0020800908,245,3,12,3,8:56 PM,8:49,Chandler Free Throw 2 of 2 (14 PTS),,,58 - 63,5
+0020800908,247,5,1,3,8:57 PM,8:31,Lee STEAL (2 STL),,Smith Bad Pass Turnover (P3.T8),,
+0020800908,248,2,1,3,8:57 PM,8:21,MISS Harrington 24' 3PT Jump Shot,,,,
+0020800908,249,4,0,3,8:57 PM,8:20,,,Hawks Rebound,,
+0020800908,250,1,5,3,8:57 PM,8:05,,,Horford  Layup (18 PTS) (Bibby 4 AST),60 - 63,3
+0020800908,251,1,42,3,8:57 PM,7:56,Duhon  Driving Layup (11 PTS),,,60 - 65,5
+0020800908,252,6,1,3,8:58 PM,7:42,Lee P.FOUL (P2.T2),,,,
+0020800908,253,8,0,3,8:58 PM,7:42,,,SUB: Murray FOR Smith,,
+0020800908,254,1,42,3,8:58 PM,7:33,,,Johnson  Driving Layup (10 PTS),62 - 65,3
+0020800908,255,6,2,3,8:58 PM,7:33,Chandler S.FOUL (P2.T3),,,,
+0020800908,256,3,10,3,8:58 PM,7:33,,,MISS Johnson Free Throw 1 of 1,,
+0020800908,258,4,0,3,8:59 PM,7:31,Hughes REBOUND (Off:0 Def:3),,,,
+0020800908,259,5,1,3,8:59 PM,7:25,Duhon Bad Pass Turnover (P1.T3),,,,
+0020800908,260,1,1,3,8:59 PM,7:10,,,Williams 17' Jump Shot (12 PTS) (Murray 2 AST),64 - 65,1
+0020800908,261,6,2,3,8:59 PM,7:02,,,Horford S.FOUL (P2.T2),,
+0020800908,262,3,11,3,8:59 PM,7:02,Lee Free Throw 1 of 2 (7 PTS),,,64 - 66,2
+0020800908,265,9,2,3,9:00 PM,7:02,,,Hawks Timeout: Short (Reg.2 Short 2),,
+0020800908,268,3,12,3,9:01 PM,7:02,Lee Free Throw 2 of 2 (8 PTS),,,64 - 67,3
+0020800908,270,2,1,3,9:02 PM,6:40,,,MISS Williams 8' Jump Shot,,
+0020800908,271,4,0,3,9:02 PM,6:39,KNICKS Rebound,,,,
+0020800908,272,2,42,3,9:02 PM,6:19,MISS Harrington  Driving Layup,,,,
+0020800908,273,4,0,3,9:02 PM,6:18,,,Horford REBOUND (Off:2 Def:7),,
+0020800908,274,2,1,3,9:02 PM,6:08,,,MISS Bibby 25' 3PT Jump Shot,,
+0020800908,275,4,0,3,9:02 PM,6:06,,,Williams REBOUND (Off:2 Def:3),,
+0020800908,276,5,1,3,9:03 PM,5:45,Harrington STEAL (3 STL),,Murray Bad Pass Turnover (P2.T9),,
+0020800908,277,2,46,3,9:03 PM,5:40,MISS Hughes 7' Running Jump Shot,,,,
+0020800908,278,4,0,3,9:03 PM,5:38,,,Williams REBOUND (Off:2 Def:4),,
+0020800908,279,2,5,3,9:03 PM,5:29,Lee BLOCK (2 BLK),,MISS Johnson  Layup,,
+0020800908,280,4,0,3,9:03 PM,5:28,KNICKS Rebound,,,,
+0020800908,281,9,1,3,9:03 PM,5:28,KNICKS Timeout: Regular (Full 3 Short 1),,,,
+0020800908,288,2,45,3,9:06 PM,5:15,MISS Hughes 10' Jump Shot,,,,
+0020800908,285,4,0,3,9:06 PM,5:14,,,Hawks Rebound,,
+0020800908,286,2,1,3,9:07 PM,4:58,,,MISS Horford 9' Jump Shot,,
+0020800908,287,4,0,3,9:07 PM,4:56,Chandler REBOUND (Off:0 Def:2),,,,
+0020800908,289,1,1,3,9:07 PM,4:44,Lee 11' Jump Shot (10 PTS),,,64 - 69,5
+0020800908,290,2,1,3,9:07 PM,4:24,,,MISS Johnson 6' Jump Shot,,
+0020800908,291,4,0,3,9:07 PM,4:22,,,Murray REBOUND (Off:1 Def:0),,
+0020800908,293,2,1,3,9:07 PM,4:13,,,MISS Horford 5' Jump Shot,,
+0020800908,294,4,0,3,9:07 PM,4:12,Harrington REBOUND (Off:3 Def:2),,,,
+0020800908,296,2,5,3,9:07 PM,4:02,MISS Lee  Layup,,Williams BLOCK (1 BLK),,
+0020800908,297,4,0,3,9:08 PM,4:01,Lee REBOUND (Off:2 Def:9),,,,
+0020800908,308,2,53,3,9:08 PM,4:00,MISS Lee  Tip Shot,,,,
+0020800908,309,4,0,3,9:08 PM,3:59,Lee REBOUND (Off:3 Def:9),,,,
+0020800908,299,6,2,3,9:08 PM,3:59,,,Murray S.FOUL (P2.T3),,
+0020800908,300,8,0,3,9:08 PM,3:59,SUB: Richardson FOR Harrington,,,,
+0020800908,301,8,0,3,9:08 PM,3:59,,,SUB: Pachulia FOR Horford,,
+0020800908,302,3,11,3,9:08 PM,3:59,Lee Free Throw 1 of 2 (11 PTS),,,64 - 70,6
+0020800908,305,8,0,3,9:08 PM,3:59,,,SUB: Evans FOR Williams,,
+0020800908,306,3,12,3,9:08 PM,3:59,Lee Free Throw 2 of 2 (12 PTS),,,64 - 71,7
+0020800908,310,1,1,3,9:09 PM,3:35,,,Johnson 15' Jump Shot (12 PTS),66 - 71,5
+0020800908,313,6,2,3,9:09 PM,3:24,,,Pachulia S.FOUL (P1.T4),,
+0020800908,315,3,11,3,9:10 PM,3:24,MISS Lee Free Throw 1 of 2,,,,
+0020800908,316,4,1,3,9:10 PM,3:24,KNICKS Rebound,,,,
+0020800908,317,3,12,3,9:10 PM,3:24,Lee Free Throw 2 of 2 (13 PTS),,,66 - 72,6
+0020800908,320,6,2,3,9:10 PM,3:11,Lee S.FOUL (P3.T4),,,,
+0020800908,321,8,0,3,9:10 PM,3:11,SUB: Wilcox FOR Lee,,,,
+0020800908,322,3,11,3,9:10 PM,3:11,,,Pachulia Free Throw 1 of 2 (1 PTS),67 - 72,5
+0020800908,324,8,0,3,9:11 PM,3:11,,,SUB: Smith FOR Bibby,,
+0020800908,325,3,12,3,9:11 PM,3:11,,,Pachulia Free Throw 2 of 2 (2 PTS),68 - 72,4
+0020800908,327,1,88,3,9:11 PM,3:02,Wilcox  Driving Slam Dunk (4 PTS) (Hughes 3 AST),,,68 - 74,6
+0020800908,328,6,1,3,9:12 PM,2:51,Chandler P.FOUL (P3.PN),,,,
+0020800908,329,9,1,3,9:12 PM,2:51,,,Hawks Timeout: Regular (Reg.3 Short 2),,
+0020800908,332,8,0,3,9:14 PM,2:51,SUB: Gallinari FOR Duhon,,,,
+0020800908,333,3,11,3,9:14 PM,2:51,,,Johnson Free Throw 1 of 2 (13 PTS),69 - 74,5
+0020800908,335,3,12,3,9:14 PM,2:51,,,Johnson Free Throw 2 of 2 (14 PTS),70 - 74,4
+0020800908,337,1,42,3,9:15 PM,2:30,Gallinari  Driving Layup (10 PTS),,,70 - 76,6
+0020800908,338,1,56,3,9:15 PM,2:10,,,Smith 7' Running Hook Shot (13 PTS),72 - 76,4
+0020800908,339,1,1,3,9:16 PM,1:54,Gallinari 24' 3PT Jump Shot (13 PTS),,,72 - 79,7
+0020800908,367,18,0,3,9:16 PM,1:54,,,,72 - 79,7
+0020800908,340,6,1,3,9:16 PM,1:33,Chandler P.FOUL (P4.PN),,,,
+0020800908,341,3,11,3,9:16 PM,1:33,,,MISS Pachulia Free Throw 1 of 2,,
+0020800908,342,4,1,3,9:16 PM,1:33,,,Hawks Rebound,,
+0020800908,343,8,0,3,9:17 PM,1:33,SUB: Harrington FOR Chandler,,,,
+0020800908,344,3,12,3,9:17 PM,1:33,,,Pachulia Free Throw 2 of 2 (3 PTS),73 - 79,6
+0020800908,346,6,17,3,9:18 PM,1:27,,,Hawks T.Foul (Def. 3 Sec Pachulia ),,
+0020800908,347,8,0,3,9:18 PM,1:27,,,SUB: Williams FOR Pachulia,,
+0020800908,348,3,16,3,9:18 PM,1:27,Gallinari Free Throw Technical (14 PTS),,,73 - 80,7
+0020800908,350,6,1,3,9:18 PM,1:24,,,Murray P.FOUL (P3.PN),,
+0020800908,351,3,11,3,9:18 PM,1:24,Hughes Free Throw 1 of 2 (14 PTS),,,73 - 81,8
+0020800908,353,3,12,3,9:19 PM,1:24,Hughes Free Throw 2 of 2 (15 PTS),,,73 - 82,9
+0020800908,355,1,46,3,9:19 PM,1:02,,,Murray 6' Running Jump Shot (4 PTS),75 - 82,7
+0020800908,356,1,1,3,9:19 PM,0:52,Hughes 17' Jump Shot (17 PTS),,,75 - 84,9
+0020800908,357,2,5,3,9:20 PM,0:35,,,MISS Murray  Layup,,
+0020800908,358,4,0,3,9:20 PM,0:34,Harrington REBOUND (Off:3 Def:3),,,,
+0020800908,359,2,1,3,9:20 PM,0:28,MISS Hughes 16' Jump Shot,,,,
+0020800908,360,4,0,3,9:20 PM,0:26,,,Murray REBOUND (Off:1 Def:1),,
+0020800908,361,5,1,3,9:20 PM,0:06,Hughes STEAL (2 STL),,Murray Bad Pass Turnover (P3.T10),,
+0020800908,362,2,1,3,9:21 PM,0:00,MISS Gallinari 20' Jump Shot,,,,
+0020800908,363,4,0,3,9:21 PM,0:00,KNICKS Rebound,,,,
+0020800908,364,13,0,3,9:21 PM,0:00,,,,75 - 84,9
+0020800908,368,12,0,4,9:24 PM,12:00,,,,75 - 84,9
+0020800908,369,1,1,4,9:24 PM,11:41,Gallinari 24' 3PT Jump Shot (17 PTS),,,75 - 87,12
+0020800908,370,6,2,4,9:24 PM,11:25,Gallinari S.FOUL (P1.T1),,,,
+0020800908,371,3,11,4,9:24 PM,11:25,,,MISS Smith Free Throw 1 of 2,,
+0020800908,372,4,1,4,9:24 PM,11:25,,,Hawks Rebound,,
+0020800908,373,3,12,4,9:25 PM,11:25,,,MISS Smith Free Throw 2 of 2,,
+0020800908,375,4,0,4,9:25 PM,11:25,Harrington REBOUND (Off:3 Def:4),,,,
+0020800908,376,2,1,4,9:25 PM,11:14,MISS Hughes 6' Jump Shot,,,,
+0020800908,377,4,0,4,9:25 PM,11:13,,,Smith REBOUND (Off:0 Def:2),,
+0020800908,378,2,42,4,9:25 PM,11:05,,,MISS Smith  Driving Layup,,
+0020800908,379,4,0,4,9:25 PM,11:04,Wilcox REBOUND (Off:1 Def:1),,,,
+0020800908,380,5,1,4,9:25 PM,11:02,Hughes Bad Pass Turnover (P2.T4),,Evans STEAL (1 STL),,
+0020800908,381,1,88,4,9:25 PM,10:59,,,Evans  Driving Slam Dunk (7 PTS),77 - 87,10
+0020800908,382,2,1,4,9:26 PM,10:37,MISS Gallinari 25' 3PT Jump Shot,,,,
+0020800908,383,4,0,4,9:26 PM,10:35,Harrington REBOUND (Off:4 Def:4),,,,
+0020800908,384,6,2,4,9:26 PM,10:34,,,Williams S.FOUL (P2.T1),,
+0020800908,385,3,11,4,9:26 PM,10:34,Harrington Free Throw 1 of 2 (12 PTS),,,77 - 88,11
+0020800908,387,3,12,4,9:26 PM,10:34,MISS Harrington Free Throw 2 of 2,,,,
+0020800908,389,4,0,4,9:27 PM,10:34,,,Johnson REBOUND (Off:1 Def:5),,
+0020800908,390,6,1,4,9:27 PM,10:16,Richardson P.FOUL (P2.T2),,,,
+0020800908,391,2,1,4,9:27 PM,10:04,,,MISS Johnson 25' 3PT Jump Shot,,
+0020800908,392,4,0,4,9:27 PM,10:02,Hughes REBOUND (Off:0 Def:4),,,,
+0020800908,393,1,5,4,9:28 PM,9:53,Harrington  Layup (14 PTS),,,77 - 90,13
+0020800908,394,6,2,4,9:28 PM,9:53,,,Bibby S.FOUL (P1.T2),,
+0020800908,395,8,0,4,9:28 PM,9:53,,,SUB: Horford FOR Smith,,
+0020800908,396,3,10,4,9:28 PM,9:53,Harrington Free Throw 1 of 1 (15 PTS),,,77 - 91,14
+0020800908,398,1,1,4,9:28 PM,9:37,,,Williams 11' Jump Shot (14 PTS) (Johnson 5 AST),79 - 91,12
+0020800908,399,1,5,4,9:29 PM,9:28,Harrington  Layup (17 PTS),,,79 - 93,14
+0020800908,400,6,2,4,9:29 PM,9:28,,,Evans S.FOUL (P2.T3),,
+0020800908,401,3,10,4,9:29 PM,9:28,MISS Harrington Free Throw 1 of 1,,,,
+0020800908,403,4,0,4,9:29 PM,9:27,,,Horford REBOUND (Off:2 Def:8),,
+0020800908,404,5,1,4,9:29 PM,9:08,Wilcox STEAL (2 STL),,Williams Bad Pass Turnover (P1.T11),,
+0020800908,405,1,75,4,9:29 PM,9:04,Hughes  Driving Finger Roll Layup (19 PTS) (Wilcox 1 AST),,,79 - 95,16
+0020800908,406,9,1,4,9:30 PM,9:03,,,Hawks Timeout: Regular (Reg.4 Short 2),,
+0020800908,408,8,0,4,9:32 PM,9:03,,,SUB: Smith FOR Evans,,
+0020800908,410,5,1,4,9:32 PM,8:51,Hughes STEAL (3 STL),,Johnson Bad Pass Turnover (P3.T12),,
+0020800908,411,2,63,4,9:33 PM,8:40,MISS Wilcox 5' Fadeaway Jumper,,,,
+0020800908,412,4,0,4,9:33 PM,8:38,,,Johnson REBOUND (Off:1 Def:6),,
+0020800908,413,2,1,4,9:33 PM,8:23,,,MISS Williams 24' 3PT Jump Shot,,
+0020800908,414,4,0,4,9:33 PM,8:21,Gallinari REBOUND (Off:0 Def:2),,,,
+0020800908,415,2,42,4,9:33 PM,8:04,MISS Harrington  Driving Layup,,,,
+0020800908,416,4,0,4,9:33 PM,8:03,,,Williams REBOUND (Off:2 Def:5),,
+0020800908,417,1,1,4,9:34 PM,7:50,,,Smith 24' 3PT Jump Shot (16 PTS),82 - 95,13
+0020800908,418,2,1,4,9:34 PM,7:30,MISS Hughes 25' 3PT Jump Shot,,,,
+0020800908,419,4,0,4,9:34 PM,7:28,,,Horford REBOUND (Off:2 Def:9),,
+0020800908,420,1,79,4,9:34 PM,7:23,,,Bibby 15' Pullup Jump Shot (8 PTS),84 - 95,11
+0020800908,421,9,1,4,9:34 PM,7:23,KNICKS Timeout: Regular (Full 4 Short 1),,,,
+0020800908,423,8,0,4,9:36 PM,7:23,SUB: Lee FOR Hughes,,,,
+0020800908,424,8,0,4,9:36 PM,7:23,SUB: Chandler FOR Richardson,,,,
+0020800908,425,8,0,4,9:36 PM,7:23,SUB: Duhon FOR Wilcox,,,,
+0020800908,427,5,2,4,9:37 PM,7:02,Lee Lost Ball Turnover (P1.T5),,Smith STEAL (1 STL),,
+0020800908,428,1,1,4,9:37 PM,6:55,,,Bibby 25' 3PT Jump Shot (11 PTS) (Williams 2 AST),87 - 95,8
+0020800908,429,2,5,4,9:38 PM,6:32,MISS Harrington  Layup,,Horford BLOCK (1 BLK),,
+0020800908,430,4,0,4,9:38 PM,6:31,,,Bibby REBOUND (Off:0 Def:4),,
+0020800908,431,2,1,4,9:38 PM,6:19,,,MISS Smith 25' 3PT Jump Shot,,
+0020800908,432,4,0,4,9:38 PM,6:17,Gallinari REBOUND (Off:0 Def:3),,,,
+0020800908,433,5,1,4,9:38 PM,6:08,Duhon Bad Pass Turnover (P2.T6),,Williams STEAL (1 STL),,
+0020800908,434,5,2,4,9:38 PM,5:49,Harrington STEAL (4 STL),,Smith Lost Ball Turnover (P4.T13),,
+0020800908,435,5,1,4,9:39 PM,5:40,Duhon Bad Pass Turnover (P3.T7),,Bibby STEAL (1 STL),,
+0020800908,436,2,1,4,9:39 PM,5:27,,,MISS Bibby 25' 3PT Jump Shot,,
+0020800908,437,4,0,4,9:39 PM,5:25,Lee REBOUND (Off:3 Def:10),,,,
+0020800908,438,1,47,4,9:39 PM,5:11,Chandler 13' Turnaround Jump Shot (16 PTS),,,87 - 97,10
+0020800908,439,6,17,4,9:39 PM,4:56,KNICKS T.Foul (Def. 3 Sec Chandler ),,,,
+0020800908,440,8,0,4,9:40 PM,4:56,SUB: Hughes FOR Gallinari,,,,
+0020800908,441,3,16,4,9:40 PM,4:56,,,Johnson Free Throw Technical (15 PTS),88 - 97,9
+0020800908,443,6,1,4,9:40 PM,4:52,Lee P.FOUL (P4.T3),,,,
+0020800908,444,6,1,4,9:40 PM,4:47,Duhon P.FOUL (P1.T4),,,,
+0020800908,445,2,1,4,9:41 PM,4:40,,,MISS Johnson  3PT Jump Shot,,
+0020800908,446,4,0,4,9:41 PM,4:38,KNICKS Rebound,,,,
+0020800908,447,6,2,4,9:41 PM,4:28,,,Williams S.FOUL (P3.T4),,
+0020800908,448,3,11,4,9:41 PM,4:28,Hughes Free Throw 1 of 2 (20 PTS),,,88 - 98,10
+0020800908,450,3,12,4,9:42 PM,4:28,MISS Hughes Free Throw 2 of 2,,,,
+0020800908,452,4,0,4,9:42 PM,4:27,,,Horford REBOUND (Off:2 Def:10),,
+0020800908,453,2,1,4,9:42 PM,4:14,,,MISS Williams  3PT Jump Shot,,
+0020800908,454,4,0,4,9:42 PM,4:12,Harrington REBOUND (Off:4 Def:5),,,,
+0020800908,455,1,1,4,9:42 PM,3:57,Harrington  3PT Jump Shot (20 PTS) (Hughes 4 AST),,,88 - 101,13
+0020800908,456,9,1,4,9:42 PM,3:55,,,Hawks Timeout: Regular (Reg.5 Short 2),,
+0020800908,458,8,0,4,9:44 PM,3:55,,,SUB: Murray FOR Smith,,
+0020800908,460,6,5,4,9:46 PM,3:37,Harrington IN.FOUL (P4.PN),,,,
+0020800908,461,3,11,4,9:46 PM,3:37,,,MISS Williams Free Throw 1 of 2,,
+0020800908,462,4,1,4,9:46 PM,3:37,,,Hawks Rebound,,
+0020800908,463,3,12,4,9:46 PM,3:37,,,Williams Free Throw 2 of 2 (15 PTS),89 - 101,12
+0020800908,465,1,1,4,9:47 PM,3:22,Hughes 24' 3PT Jump Shot (23 PTS) (Harrington 1 AST),,,89 - 104,15
+0020800908,466,5,40,4,9:47 PM,3:08,,,Williams Out of Bounds Lost Ball Turnover (P2.T14),,
+0020800908,467,2,1,4,9:47 PM,2:55,MISS Harrington 25' 3PT Jump Shot,,,,
+0020800908,468,4,0,4,9:47 PM,2:53,,,Horford REBOUND (Off:2 Def:11),,
+0020800908,469,6,17,4,9:47 PM,2:45,KNICKS T.Foul (Def. 3 Sec Lee ),,,,
+0020800908,470,8,0,4,9:48 PM,2:45,,,SUB: Law FOR Bibby,,
+0020800908,471,3,16,4,9:48 PM,2:45,,,Johnson Free Throw Technical (16 PTS),90 - 104,14
+0020800908,473,6,1,4,9:48 PM,2:39,Hughes P.FOUL (P4.PN),,,,
+0020800908,474,3,11,4,9:48 PM,2:39,,,Johnson Free Throw 1 of 2 (17 PTS),91 - 104,13
+0020800908,476,3,12,4,9:48 PM,2:39,,,Johnson Free Throw 2 of 2 (18 PTS),92 - 104,12
+0020800908,478,2,1,4,9:49 PM,2:16,MISS Harrington 13' Jump Shot,,Horford BLOCK (2 BLK),,
+0020800908,479,4,0,4,9:49 PM,2:15,KNICKS Rebound,,,,
+0020800908,480,5,11,4,9:49 PM,2:15,KNICKS Turnover: Shot Clock (T#8),,,,
+0020800908,481,1,42,4,9:49 PM,2:07,,,Williams  Driving Layup (17 PTS) (Law 1 AST),94 - 104,10
+0020800908,482,2,1,4,9:50 PM,1:45,MISS Chandler 24' 3PT Jump Shot,,,,
+0020800908,483,4,0,4,9:50 PM,1:43,,,Williams REBOUND (Off:2 Def:6),,
+0020800908,484,1,1,4,9:50 PM,1:33,,,Law 24' 3PT Jump Shot (3 PTS) (Johnson 6 AST),97 - 104,7
+0020800908,485,1,42,4,9:50 PM,1:12,Chandler  Driving Layup (18 PTS),,,97 - 106,9
+0020800908,486,2,1,4,9:51 PM,1:04,,,MISS Murray  3PT Jump Shot,,
+0020800908,487,4,0,4,9:51 PM,1:02,Harrington REBOUND (Off:4 Def:6),,,,
+0020800908,488,9,1,4,9:51 PM,0:55,KNICKS Timeout: Regular (Full 5 Short 1),,,,
+0020800908,492,2,1,4,9:53 PM,0:44,MISS Hughes 17' Jump Shot,,,,
+0020800908,493,4,0,4,9:53 PM,0:42,,,Law REBOUND (Off:0 Def:1),,
+0020800908,494,1,1,4,9:53 PM,0:30,,,Murray  3PT Jump Shot (7 PTS) (Law 2 AST),100 - 106,6
+0020800908,495,6,1,4,9:53 PM,0:28,,,Law P.FOUL (P1.PN),,
+0020800908,496,3,11,4,9:54 PM,0:28,Duhon Free Throw 1 of 2 (12 PTS),,,100 - 107,7
+0020800908,498,3,12,4,9:54 PM,0:28,Duhon Free Throw 2 of 2 (13 PTS),,,100 - 108,8
+0020800908,500,1,8,4,9:54 PM,0:21,,,Horford  Slam Dunk (20 PTS) (Law 3 AST),102 - 108,6
+0020800908,501,9,2,4,9:54 PM,0:21,KNICKS Timeout: Short (Full 5 Short 2),,,,
+0020800908,503,6,1,4,9:56 PM,0:18,,,Law P.FOUL (P2.PN),,
+0020800908,504,3,11,4,9:56 PM,0:18,MISS Duhon Free Throw 1 of 2,,,,
+0020800908,505,4,1,4,9:56 PM,0:18,KNICKS Rebound,,,,
+0020800908,506,3,12,4,9:56 PM,0:18,Duhon Free Throw 2 of 2 (14 PTS),,,102 - 109,7
+0020800908,508,1,1,4,9:56 PM,0:10,,,Murray 25' 3PT Jump Shot (10 PTS) (Law 4 AST),105 - 109,4
+0020800908,509,5,40,4,9:57 PM,0:08,Duhon Out of Bounds Lost Ball Turnover (P4.T9),,,,
+0020800908,510,9,1,4,9:57 PM,0:08,,,Hawks Timeout: Regular (Reg.6 Short 2),,
+0020800908,511,2,1,4,9:59 PM,0:06,,,MISS Johnson 24' 3PT Jump Shot,,
+0020800908,512,4,0,4,9:59 PM,0:04,Lee REBOUND (Off:3 Def:11),,,,
+0020800908,513,13,0,4,9:59 PM,0:00,,,,105 - 109,4

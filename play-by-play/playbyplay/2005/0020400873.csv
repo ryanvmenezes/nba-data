@@ -1,0 +1,443 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020400873,0,12,0,1,3:43 PM,12:00,,,,,
+0020400873,1,10,0,1,3:43 PM,12:00,Jump Ball Skinner vs. Wallace: Tip to Billups,,,,
+0020400873,2,6,1,1,3:43 PM,11:49,Skinner P.FOUL (P1.T1),,,,
+0020400873,3,2,1,1,3:43 PM,11:37,,,MISS Wallace 21' Jump Shot,,
+0020400873,4,4,0,1,3:43 PM,11:35,Skinner REBOUND (Off:0 Def:1),,,,
+0020400873,5,2,5,1,3:43 PM,11:21,MISS Evans  Layup,,,,
+0020400873,6,4,0,1,3:43 PM,11:19,Evans REBOUND (Off:1 Def:0),,,,
+0020400873,7,2,5,1,3:44 PM,11:19,MISS Evans  Layup,,,,
+0020400873,8,4,0,1,3:44 PM,11:17,Evans REBOUND (Off:2 Def:0),,,,
+0020400873,9,1,7,1,3:44 PM,11:16,Evans  Dunk (2 PTS),,,0 - 2,2
+0020400873,10,2,1,1,3:44 PM,10:59,,,MISS Prince 20' Jump Shot,,
+0020400873,11,4,0,1,3:44 PM,10:58,Songaila REBOUND (Off:0 Def:1),,,,
+0020400873,12,6,1,1,3:44 PM,10:51,,,Wallace P.FOUL (P1.T1),,
+0020400873,13,2,5,1,3:44 PM,10:47,MISS Stojakovic  Layup,,,,
+0020400873,14,4,0,1,3:44 PM,10:46,,,Wallace REBOUND (Off:0 Def:1),,
+0020400873,15,5,1,1,3:44 PM,10:40,Songaila STEAL (1 STL),,Prince Bad Pass Turnover (P1.T1),,
+0020400873,16,2,1,1,3:44 PM,10:34,MISS Bibby 25' 3PT Jump Shot,,,,
+0020400873,17,4,0,1,3:44 PM,10:33,,,Wallace REBOUND (Off:0 Def:1),,
+0020400873,19,7,2,1,3:45 PM,10:25,Skinner Violation:Defensive Goaltending,,,,
+0020400873,18,1,42,1,3:45 PM,10:25,,,Hamilton  Driving Layup (2 PTS) (Billups 1 AST),2 - 2,TIE
+0020400873,20,1,1,1,3:45 PM,10:10,Songaila 20' Jump Shot (2 PTS) (Stojakovic 1 AST),,,2 - 4,2
+0020400873,21,1,1,1,3:45 PM,9:51,,,Hamilton 8' Jump Shot (4 PTS) (Prince 1 AST),4 - 4,TIE
+0020400873,22,1,7,1,3:46 PM,9:34,Skinner  Dunk (2 PTS) (Songaila 1 AST),,,4 - 6,2
+0020400873,23,5,41,1,3:46 PM,9:15,,,Billups Poss Lost Ball Turnover (P1.T2),,
+0020400873,24,1,1,1,3:46 PM,9:06,Bibby 18' Jump Shot (2 PTS),,,4 - 8,4
+0020400873,25,6,2,1,3:47 PM,8:49,Songaila S.FOUL (P1.T2),,,,
+0020400873,26,3,11,1,3:47 PM,8:49,,,MISS Wallace Free Throw 1 of 2,,
+0020400873,27,4,1,1,3:47 PM,8:49,,,Pistons Rebound,,
+0020400873,28,3,12,1,3:47 PM,8:49,,,MISS Wallace Free Throw 2 of 2,,
+0020400873,29,4,0,1,3:47 PM,8:48,Skinner REBOUND (Off:0 Def:2),,,,
+0020400873,30,1,1,1,3:48 PM,8:31,Songaila 21' Jump Shot (4 PTS) (Bibby 1 AST),,,4 - 10,6
+0020400873,31,1,1,1,3:48 PM,8:07,,,Billups 24' 3PT Jump Shot (3 PTS) (Prince 2 AST),7 - 10,3
+0020400873,32,2,1,1,3:48 PM,7:51,MISS Evans  3PT Jump Shot,,,,
+0020400873,33,4,0,1,3:48 PM,7:49,,,Prince REBOUND (Off:0 Def:1),,
+0020400873,34,2,1,1,3:48 PM,7:42,,,MISS Billups 20' Jump Shot,,
+0020400873,35,4,0,1,3:48 PM,7:41,,,Wallace REBOUND (Off:1 Def:1),,
+0020400873,36,2,5,1,3:48 PM,7:34,,,MISS Billups  Layup,,
+0020400873,37,4,0,1,3:49 PM,7:33,Evans REBOUND (Off:2 Def:1),,,,
+0020400873,38,1,1,1,3:49 PM,7:18,Songaila 18' Jump Shot (6 PTS) (Stojakovic 2 AST),,,7 - 12,5
+0020400873,39,5,1,1,3:49 PM,6:57,,,Hamilton Bad Pass Turnover (P1.T3),,
+0020400873,40,2,1,1,3:49 PM,6:48,MISS Stojakovic 20' Jump Shot,,,,
+0020400873,41,4,0,1,3:49 PM,6:46,,,Wallace REBOUND (Off:0 Def:2),,
+0020400873,42,2,1,1,3:50 PM,6:32,,,MISS Wallace 17' Jump Shot,,
+0020400873,43,4,0,1,3:50 PM,6:31,Stojakovic REBOUND (Off:0 Def:1),,,,
+0020400873,44,2,1,1,3:50 PM,6:19,MISS Evans 10' Jump Shot,,,,
+0020400873,45,4,0,1,3:50 PM,6:17,,,Wallace REBOUND (Off:0 Def:3),,
+0020400873,46,5,1,1,3:50 PM,6:03,Songaila STEAL (2 STL),,Prince Bad Pass Turnover (P2.T4),,
+0020400873,47,5,1,1,3:50 PM,5:55,Stojakovic Bad Pass Turnover (P1.T1),,Wallace STEAL (1 STL),,
+0020400873,48,6,2,1,3:50 PM,5:51,Evans S.FOUL (P1.T3),,,,
+0020400873,49,9,1,1,3:51 PM,5:51,KINGS Timeout: Regular (Full 1 Short 0),,,,
+0020400873,51,3,11,1,3:54 PM,5:51,,,MISS Hamilton Free Throw 1 of 2,,
+0020400873,52,4,1,1,3:54 PM,5:51,,,Pistons Rebound,,
+0020400873,53,3,12,1,3:54 PM,5:51,,,Hamilton Free Throw 2 of 2 (5 PTS),8 - 12,4
+0020400873,54,2,56,1,3:55 PM,5:34,MISS Stojakovic 6' Running Hook Shot,,,,
+0020400873,55,4,0,1,3:55 PM,5:32,,,Wallace REBOUND (Off:1 Def:2),,
+0020400873,56,2,1,1,3:55 PM,5:15,,,MISS Wallace 7' Jump Shot,,
+0020400873,57,4,0,1,3:55 PM,5:13,Skinner REBOUND (Off:0 Def:3),,,,
+0020400873,58,2,1,1,3:56 PM,5:02,MISS Skinner 5' Jump Shot,,Wallace BLOCK (1 BLK),,
+0020400873,59,4,0,1,3:56 PM,5:00,,,Hamilton REBOUND (Off:0 Def:1),,
+0020400873,60,2,1,1,3:56 PM,4:49,,,MISS Prince 18' Jump Shot,,
+0020400873,61,4,0,1,3:56 PM,4:47,Bibby REBOUND (Off:0 Def:1),,,,
+0020400873,62,1,5,1,3:56 PM,4:41,Skinner  Layup (4 PTS) (Bibby 2 AST),,,8 - 14,6
+0020400873,63,2,1,1,3:56 PM,4:13,,,MISS Prince 25' 3PT Jump Shot,,
+0020400873,64,4,0,1,3:56 PM,4:12,Bibby REBOUND (Off:0 Def:2),,,,
+0020400873,65,5,1,1,3:56 PM,4:04,Bibby Bad Pass Turnover (P1.T2),,Hamilton STEAL (1 STL),,
+0020400873,66,1,5,1,3:57 PM,4:00,,,Hamilton  Layup (7 PTS) (Billups 2 AST),10 - 14,4
+0020400873,67,1,7,1,3:57 PM,3:44,Songaila  Dunk (8 PTS) (Stojakovic 3 AST),,,10 - 16,6
+0020400873,68,2,1,1,3:57 PM,3:20,,,MISS Wallace 10' Jump Shot,,
+0020400873,69,4,0,1,3:57 PM,3:19,Songaila REBOUND (Off:0 Def:2),,,,
+0020400873,70,2,1,1,3:57 PM,3:12,MISS Bibby 19' Jump Shot,,,,
+0020400873,71,4,0,1,3:57 PM,3:11,,,Wallace REBOUND (Off:1 Def:3),,
+0020400873,72,9,1,1,3:58 PM,3:09,,,Pistons Timeout: Regular (Reg.1 Short 0),,
+0020400873,74,8,0,1,4:01 PM,3:09,,,SUB: McDyess FOR Billups,,
+0020400873,73,8,0,1,4:01 PM,3:09,,,SUB: Arroyo FOR Wallace,,
+0020400873,75,2,1,1,4:01 PM,2:52,Skinner BLOCK (1 BLK),,MISS McDyess 15' Jump Shot,,
+0020400873,76,4,0,1,4:01 PM,2:49,,,McDyess REBOUND (Off:1 Def:0),,
+0020400873,77,2,1,1,4:01 PM,2:46,,,MISS Arroyo 22' Jump Shot,,
+0020400873,78,4,0,1,4:01 PM,2:43,Evans REBOUND (Off:2 Def:2),,,,
+0020400873,82,2,45,1,4:01 PM,2:30,MISS Bibby  Jump Shot,,,,
+0020400873,112,4,0,1,4:01 PM,2:30,Skinner REBOUND (Off:1 Def:3),,,,
+0020400873,80,2,5,1,4:01 PM,2:30,MISS Skinner  Layup,,,,
+0020400873,81,4,0,1,4:01 PM,2:27,,,McDyess REBOUND (Off:1 Def:1),,
+0020400873,83,1,1,1,4:02 PM,2:12,,,Wallace 18' Jump Shot (2 PTS) (Arroyo 1 AST),12 - 16,4
+0020400873,84,6,1,1,4:02 PM,2:01,,,Hamilton P.FOUL (P1.T2),,
+0020400873,85,2,1,1,4:02 PM,1:51,MISS Songaila 5' Jump Shot,,McDyess BLOCK (1 BLK),,
+0020400873,86,4,0,1,4:02 PM,1:49,,,Arroyo REBOUND (Off:0 Def:1),,
+0020400873,87,2,1,1,4:02 PM,1:45,,,MISS Hamilton 11' Jump Shot,,
+0020400873,89,4,0,1,4:02 PM,1:44,,,McDyess REBOUND (Off:2 Def:1),,
+0020400873,88,2,4,1,4:02 PM,1:44,,,MISS McDyess  Tip Shot,,
+0020400873,90,4,0,1,4:02 PM,1:42,Skinner REBOUND (Off:1 Def:4),,,,
+0020400873,91,2,1,1,4:03 PM,1:37,MISS Evans 18' Jump Shot,,Wallace BLOCK (2 BLK),,
+0020400873,92,4,0,1,4:03 PM,1:35,,,Arroyo REBOUND (Off:0 Def:2),,
+0020400873,93,1,42,1,4:03 PM,1:32,,,McDyess  Driving Layup (2 PTS) (Hamilton 1 AST),14 - 16,2
+0020400873,94,2,56,1,4:03 PM,1:12,MISS Bibby 9' Running Hook Shot,,,,
+0020400873,95,4,0,1,4:03 PM,1:11,Bibby REBOUND (Off:1 Def:2),,,,
+0020400873,96,6,1,1,4:03 PM,1:09,,,Wallace P.FOUL (P1.T3),,
+0020400873,97,8,0,1,4:03 PM,1:09,,,SUB: Dupree FOR Prince,,
+0020400873,98,8,0,1,4:03 PM,1:09,SUB: Thomas FOR Songaila,,,,
+0020400873,99,1,1,1,4:04 PM,1:04,Bibby 20' Jump Shot (4 PTS) (Skinner 1 AST),,,14 - 18,4
+0020400873,100,1,1,1,4:04 PM,0:48,,,Arroyo 18' Jump Shot (2 PTS) (Dupree 1 AST),16 - 18,2
+0020400873,101,1,63,1,4:04 PM,0:29,Stojakovic 20' Fadeaway Jumper (2 PTS),,,16 - 20,4
+0020400873,103,2,1,1,4:05 PM,0:11,,,MISS Hamilton 25' 3PT Jump Shot,,
+0020400873,104,4,0,1,4:05 PM,0:10,Evans REBOUND (Off:2 Def:3),,,,
+0020400873,105,5,2,1,4:05 PM,0:06,Skinner Lost Ball Turnover (P1.T3),,Dupree STEAL (1 STL),,
+0020400873,106,2,5,1,4:05 PM,0:02,,,MISS Wallace  Layup,,
+0020400873,107,4,0,1,4:05 PM,0:00,Bibby REBOUND (Off:1 Def:3),,,,
+0020400873,108,13,0,1,4:05 PM,0:00,,,,16 - 20,4
+0020400873,114,12,0,2,4:09 PM,12:00,,,,16 - 20,4
+0020400873,115,1,1,2,4:09 PM,11:47,Thomas 20' Jump Shot (2 PTS),,,16 - 22,6
+0020400873,116,1,1,2,4:09 PM,11:27,,,Hamilton 25' 3PT Jump Shot (10 PTS) (Arroyo 2 AST),19 - 22,3
+0020400873,117,6,2,2,4:10 PM,11:10,,,Dupree S.FOUL (P1.T1),,
+0020400873,118,3,11,2,4:10 PM,11:10,MISS Thomas Free Throw 1 of 2,,,,
+0020400873,119,4,1,2,4:10 PM,11:10,KINGS Rebound,,,,
+0020400873,120,3,12,2,4:10 PM,11:10,Thomas Free Throw 2 of 2 (3 PTS),,,19 - 23,4
+0020400873,121,5,1,2,4:10 PM,11:04,Martin STEAL (1 STL),,Dupree Bad Pass Turnover (P1.T5),,
+0020400873,122,1,7,2,4:10 PM,11:00,Evans  Dunk (4 PTS) (Martin 1 AST),,,19 - 25,6
+0020400873,123,2,52,2,4:11 PM,10:43,,,MISS Dupree  Alley Oop Dunk,,
+0020400873,124,4,0,2,4:11 PM,10:42,Thomas REBOUND (Off:0 Def:1),,,,
+0020400873,125,1,56,2,4:11 PM,10:35,Bibby 5' Running Hook Shot (6 PTS),,,19 - 27,8
+0020400873,126,5,8,2,4:11 PM,10:19,,,McDyess 3 Second Violation Turnover (P1.T6),,
+0020400873,127,2,44,2,4:12 PM,10:05,MISS Bibby  Reverse Layup,,,,
+0020400873,128,4,0,2,4:12 PM,10:04,Thomas REBOUND (Off:1 Def:1),,,,
+0020400873,129,1,5,2,4:12 PM,10:02,Thomas  Layup (5 PTS),,,19 - 29,10
+0020400873,130,9,1,2,4:12 PM,9:55,,,Pistons Timeout: Regular (Reg.2 Short 0),,
+0020400873,132,8,0,2,4:15 PM,9:55,,,SUB: Billups FOR Hamilton,,
+0020400873,133,2,1,2,4:16 PM,9:43,,,MISS McDyess 16' Jump Shot,,
+0020400873,134,4,0,2,4:16 PM,9:41,Thomas REBOUND (Off:1 Def:2),,,,
+0020400873,135,1,5,2,4:16 PM,9:37,Williamson  Layup (2 PTS) (Bibby 3 AST),,,19 - 31,12
+0020400873,136,6,2,2,4:16 PM,9:37,,,McDyess S.FOUL (P1.T2),,
+0020400873,137,3,10,2,4:16 PM,9:37,Williamson Free Throw 1 of 1 (3 PTS),,,19 - 32,13
+0020400873,138,2,1,2,4:17 PM,9:25,,,MISS Dupree 18' Jump Shot,,
+0020400873,139,4,0,2,4:17 PM,9:23,KINGS Rebound,,,,
+0020400873,140,6,3,2,4:17 PM,9:08,,,Billups L.B.FOUL (P1.T3),,
+0020400873,141,8,0,2,4:17 PM,9:08,,,SUB: Wallace FOR Wallace,,
+0020400873,142,8,0,2,4:17 PM,9:08,,,SUB: Hamilton FOR Dupree,,
+0020400873,143,1,1,2,4:18 PM,8:54,Evans 24' 3PT Jump Shot (7 PTS),,,19 - 35,16
+0020400873,144,1,5,2,4:18 PM,8:42,,,Hamilton  Layup (12 PTS) (McDyess 1 AST),21 - 35,14
+0020400873,145,1,7,2,4:18 PM,8:31,Evans  Dunk (9 PTS) (Thomas 1 AST),,,21 - 37,16
+0020400873,146,2,1,2,4:18 PM,8:12,,,MISS Billups 25' 3PT Jump Shot,,
+0020400873,147,4,0,2,4:18 PM,8:09,Thomas REBOUND (Off:1 Def:3),,,,
+0020400873,148,5,1,2,4:18 PM,8:04,Thomas Bad Pass Turnover (P1.T4),,Hamilton STEAL (2 STL),,
+0020400873,149,1,1,2,4:19 PM,7:59,,,Hamilton 8' Jump Shot (14 PTS) (Arroyo 3 AST),23 - 37,14
+0020400873,150,2,1,2,4:19 PM,7:36,MISS Thomas 20' Jump Shot,,,,
+0020400873,151,4,0,2,4:19 PM,7:35,,,Hamilton REBOUND (Off:0 Def:2),,
+0020400873,152,2,1,2,4:19 PM,7:27,,,MISS McDyess 6' Jump Shot,,
+0020400873,153,4,0,2,4:19 PM,7:25,,,Wallace REBOUND (Off:1 Def:3),,
+0020400873,154,2,5,2,4:19 PM,7:24,,,MISS Wallace  Layup,,
+0020400873,156,4,0,2,4:19 PM,7:23,,,Wallace REBOUND (Off:2 Def:3),,
+0020400873,155,1,4,2,4:19 PM,7:23,,,Wallace  Tip Shot (2 PTS),25 - 37,12
+0020400873,157,9,1,2,4:19 PM,7:17,KINGS Timeout: Regular (Full 2 Short 0),,,,
+0020400873,159,8,0,2,4:23 PM,7:17,,,SUB: Prince FOR Arroyo,,
+0020400873,160,8,0,2,4:23 PM,7:17,SUB: Stojakovic FOR Evans,,,,
+0020400873,161,1,1,2,4:23 PM,6:57,Martin 19' Jump Shot (2 PTS) (Williamson 1 AST),,,25 - 39,14
+0020400873,162,2,1,2,4:24 PM,6:36,,,MISS Hamilton 7' Jump Shot,,
+0020400873,163,4,0,2,4:24 PM,6:34,,,Wallace REBOUND (Off:3 Def:3),,
+0020400873,164,2,1,2,4:24 PM,6:31,,,MISS Billups 24' 3PT Jump Shot,,
+0020400873,165,4,0,2,4:24 PM,6:29,,,Pistons Rebound,,
+0020400873,166,1,47,2,4:24 PM,6:21,,,McDyess 11' Turnaround Jump Shot (4 PTS) (Hamilton 2 AST),27 - 39,12
+0020400873,167,1,7,2,4:24 PM,6:12,Thomas  Dunk (7 PTS) (Bibby 4 AST),,,27 - 41,14
+0020400873,168,6,2,2,4:25 PM,5:59,Thomas S.FOUL (P1.T1),,,,
+0020400873,169,3,11,2,4:25 PM,5:59,,,MISS Wallace Free Throw 1 of 2,,
+0020400873,170,4,1,2,4:25 PM,5:59,,,Pistons Rebound,,
+0020400873,171,3,12,2,4:25 PM,5:59,,,MISS Wallace Free Throw 2 of 2,,
+0020400873,172,4,0,2,4:25 PM,5:58,KINGS Rebound,,,,
+0020400873,173,6,3,2,4:25 PM,5:58,,,McDyess L.B.FOUL (P2.T4),,
+0020400873,174,2,1,2,4:26 PM,5:45,MISS Stojakovic  3PT Jump Shot,,,,
+0020400873,175,4,0,2,4:26 PM,5:43,,,Prince REBOUND (Off:0 Def:2),,
+0020400873,176,5,40,2,4:26 PM,5:32,,,Prince Out of Bounds Lost Ball Turnover (P3.T7),,
+0020400873,177,2,1,2,4:26 PM,5:17,MISS Bibby 26' 3PT Jump Shot,,,,
+0020400873,178,4,0,2,4:26 PM,5:15,,,Pistons Rebound,,
+0020400873,179,1,1,2,4:27 PM,5:05,,,McDyess 4' Jump Shot (6 PTS) (Hamilton 3 AST),29 - 41,12
+0020400873,180,6,2,2,4:27 PM,5:05,Williamson S.FOUL (P1.T2),,,,
+0020400873,181,3,10,2,4:27 PM,5:05,,,MISS McDyess Free Throw 1 of 1,,
+0020400873,182,4,0,2,4:27 PM,5:04,Thomas REBOUND (Off:1 Def:4),,,,
+0020400873,183,6,1,2,4:27 PM,4:51,,,Prince P.FOUL (P1.PN),,
+0020400873,184,8,0,2,4:27 PM,4:51,,,SUB: Wallace FOR McDyess,,
+0020400873,185,8,0,2,4:28 PM,4:51,SUB: Songaila FOR Williamson,,,,
+0020400873,186,3,11,2,4:28 PM,4:51,Stojakovic Free Throw 1 of 2 (3 PTS),,,29 - 42,13
+0020400873,187,3,12,2,4:28 PM,4:51,Stojakovic Free Throw 2 of 2 (4 PTS),,,29 - 43,14
+0020400873,188,2,1,2,4:28 PM,4:36,,,MISS Wallace 11' Jump Shot,,
+0020400873,189,4,0,2,4:28 PM,4:35,Stojakovic REBOUND (Off:0 Def:2),,,,
+0020400873,190,1,1,2,4:29 PM,4:25,Songaila 19' Jump Shot (10 PTS) (Stojakovic 4 AST),,,29 - 45,16
+0020400873,191,9,2,2,4:29 PM,4:16,,,Pistons Timeout: Short (Reg.2 Short 1),,
+0020400873,193,6,1,2,4:30 PM,4:04,Songaila P.FOUL (P2.T3),,,,
+0020400873,194,1,1,2,4:30 PM,3:52,,,Billups 24' 3PT Jump Shot (6 PTS) (Prince 3 AST),32 - 45,13
+0020400873,195,2,1,2,4:31 PM,3:37,MISS Thomas 18' Jump Shot,,,,
+0020400873,196,4,0,2,4:31 PM,3:35,,,Wallace REBOUND (Off:3 Def:4),,
+0020400873,197,6,2,2,4:31 PM,3:33,Songaila S.FOUL (P3.T4),,,,
+0020400873,198,3,11,2,4:31 PM,3:33,,,Billups Free Throw 1 of 2 (7 PTS),33 - 45,12
+0020400873,199,8,0,2,4:31 PM,3:33,SUB: Evans FOR Songaila,,,,
+0020400873,200,8,0,2,4:31 PM,3:33,SUB: Skinner FOR Martin,,,,
+0020400873,201,3,12,2,4:32 PM,3:33,,,Billups Free Throw 2 of 2 (8 PTS),34 - 45,11
+0020400873,202,2,1,2,4:32 PM,3:17,MISS Bibby 17' Jump Shot,,,,
+0020400873,203,4,0,2,4:32 PM,3:16,KINGS Rebound,,,,
+0020400873,204,6,3,2,4:32 PM,3:16,,,Billups L.B.FOUL (P2.PN),,
+0020400873,205,3,11,2,4:32 PM,3:16,Stojakovic Free Throw 1 of 2 (5 PTS),,,34 - 46,12
+0020400873,206,3,12,2,4:33 PM,3:16,Stojakovic Free Throw 2 of 2 (6 PTS),,,34 - 47,13
+0020400873,207,1,58,2,4:33 PM,3:04,,,Prince 8' Turnaround Hook Shot (2 PTS) (Wallace 1 AST),36 - 47,11
+0020400873,208,2,63,2,4:33 PM,2:48,MISS Stojakovic 17' Fadeaway Jumper,,,,
+0020400873,209,4,0,2,4:33 PM,2:47,,,Wallace REBOUND (Off:1 Def:4),,
+0020400873,210,2,5,2,4:33 PM,2:34,,,MISS Wallace  Layup,,
+0020400873,211,4,0,2,4:33 PM,2:33,Stojakovic REBOUND (Off:0 Def:3),,,,
+0020400873,212,6,4,2,4:34 PM,2:28,Thomas OFF.Foul (P2),,,,
+0020400873,213,5,5,2,4:34 PM,2:28,Thomas Foul Turnover (P2.T5),,,,
+0020400873,214,9,4,2,4:34 PM,2:28,,,,,
+0020400873,217,8,0,2,4:37 PM,2:28,,,SUB: Arroyo FOR Billups,,
+0020400873,218,2,47,2,4:38 PM,2:09,,,MISS Wallace 12' Turnaround Jump Shot,,
+0020400873,219,4,0,2,4:38 PM,2:07,,,Prince REBOUND (Off:1 Def:2),,
+0020400873,220,2,5,2,4:38 PM,2:05,Thomas BLOCK (1 BLK),,MISS Prince  Layup,,
+0020400873,221,4,0,2,4:38 PM,2:04,,,Hamilton REBOUND (Off:1 Def:2),,
+0020400873,222,2,1,2,4:38 PM,1:55,,,MISS Hamilton 18' Jump Shot,,
+0020400873,224,4,0,2,4:38 PM,1:52,,,Wallace REBOUND (Off:2 Def:4),,
+0020400873,223,1,4,2,4:38 PM,1:52,,,Wallace  Tip Shot (4 PTS),38 - 47,9
+0020400873,225,1,59,2,4:38 PM,1:33,Thomas  Finger Roll (9 PTS) (Bibby 5 AST),,,38 - 49,11
+0020400873,226,6,2,2,4:39 PM,1:21,Skinner S.FOUL (P2.PN),,,,
+0020400873,227,3,11,2,4:39 PM,1:21,,,Wallace Free Throw 1 of 2 (5 PTS),39 - 49,10
+0020400873,228,3,12,2,4:39 PM,1:21,,,Wallace Free Throw 2 of 2 (6 PTS),40 - 49,9
+0020400873,229,1,1,2,4:40 PM,1:07,Thomas 20' Jump Shot (11 PTS) (Bibby 6 AST),,,40 - 51,11
+0020400873,230,2,1,2,4:40 PM,0:49,,,MISS Arroyo 21' Jump Shot,,
+0020400873,232,4,0,2,4:40 PM,0:49,,,Wallace REBOUND (Off:3 Def:4),,
+0020400873,231,1,64,2,4:40 PM,0:49,,,Wallace  Follow Up Dunk (8 PTS),42 - 51,9
+0020400873,233,1,1,2,4:40 PM,0:40,Thomas 20' Jump Shot (13 PTS) (Bibby 7 AST),,,42 - 53,11
+0020400873,234,1,52,2,4:40 PM,0:38,,,Prince  Alley Oop Dunk (4 PTS) (Hamilton 4 AST),44 - 53,9
+0020400873,235,1,1,2,4:40 PM,0:28,Thomas 16' Jump Shot (15 PTS) (Bibby 8 AST),,,44 - 55,11
+0020400873,236,6,1,2,4:41 PM,0:10,Bibby P.FOUL (P1.PN),,,,
+0020400873,237,3,11,2,4:41 PM,0:10,,,Arroyo Free Throw 1 of 2 (3 PTS),45 - 55,10
+0020400873,238,3,12,2,4:42 PM,0:10,,,Arroyo Free Throw 2 of 2 (4 PTS),46 - 55,9
+0020400873,239,2,5,2,4:42 PM,0:01,MISS Bibby  Layup,,,,
+0020400873,242,4,0,2,4:42 PM,0:01,Bibby REBOUND (Off:2 Def:3),,,,
+0020400873,241,5,1,2,4:42 PM,0:01,Bibby Bad Pass Turnover (P2.T6),,Hamilton STEAL (3 STL),,
+0020400873,243,2,1,2,4:42 PM,0:00,,,MISS Hamilton 43' 3PT Jump Shot,,
+0020400873,246,4,0,2,4:42 PM,0:00,,,Pistons Rebound,,
+0020400873,245,13,0,2,4:42 PM,0:00,,,,46 - 55,9
+0020400873,248,12,0,3,5:00 PM,12:00,,,,46 - 55,9
+0020400873,249,6,1,3,5:01 PM,11:45,,,Billups P.FOUL (P3.T1),,
+0020400873,250,5,2,3,5:01 PM,11:38,Skinner Lost Ball Turnover (P2.T7),,Wallace STEAL (1 STL),,
+0020400873,251,1,1,3,5:01 PM,11:30,,,Prince 14' Jump Shot (6 PTS) (Hamilton 5 AST),48 - 55,7
+0020400873,252,2,1,3,5:01 PM,11:12,MISS Bibby 18' Jump Shot,,,,
+0020400873,253,4,0,3,5:01 PM,11:11,,,Wallace REBOUND (Off:3 Def:5),,
+0020400873,254,6,2,3,5:02 PM,11:05,Songaila S.FOUL (P4.T1),,,,
+0020400873,255,3,11,3,5:02 PM,11:05,,,MISS Wallace Free Throw 1 of 2,,
+0020400873,256,4,1,3,5:02 PM,11:05,,,Pistons Rebound,,
+0020400873,257,8,0,3,5:02 PM,11:05,SUB: Thomas FOR Songaila,,,,
+0020400873,258,3,12,3,5:02 PM,11:05,,,MISS Wallace Free Throw 2 of 2,,
+0020400873,259,4,0,3,5:02 PM,11:03,Thomas REBOUND (Off:1 Def:5),,,,
+0020400873,260,6,1,3,5:02 PM,10:52,,,Hamilton P.FOUL (P2.T2),,
+0020400873,261,2,1,3,5:03 PM,10:44,MISS Stojakovic 18' Jump Shot,,,,
+0020400873,262,4,0,3,5:03 PM,10:43,,,Wallace REBOUND (Off:3 Def:5),,
+0020400873,263,2,1,3,5:03 PM,10:37,,,MISS Billups 25' 3PT Jump Shot,,
+0020400873,264,4,0,3,5:03 PM,10:35,,,Billups REBOUND (Off:1 Def:0),,
+0020400873,265,5,39,3,5:03 PM,10:34,,,Billups Step Out of Bounds Turnover (P2.T8),,
+0020400873,266,2,1,3,5:03 PM,10:17,MISS Stojakovic 19' Jump Shot,,,,
+0020400873,268,4,0,3,5:03 PM,10:14,Evans REBOUND (Off:3 Def:3),,,,
+0020400873,267,2,64,3,5:03 PM,10:14,MISS Evans  Follow Up Dunk,,,,
+0020400873,269,4,0,3,5:03 PM,10:13,,,Wallace REBOUND (Off:3 Def:6),,
+0020400873,270,6,1,3,5:04 PM,10:13,Bibby P.FOUL (P2.T2),,,,
+0020400873,271,6,1,3,5:04 PM,9:57,Stojakovic P.FOUL (P1.T3),,,,
+0020400873,272,2,1,3,5:04 PM,9:48,,,MISS Prince 7' Jump Shot,,
+0020400873,273,4,0,3,5:04 PM,9:47,,,Pistons Rebound,,
+0020400873,274,1,8,3,5:05 PM,9:41,,,Wallace  Slam Dunk (10 PTS) (Hamilton 6 AST),50 - 55,5
+0020400873,275,9,1,3,5:05 PM,9:38,KINGS Timeout: Regular (Full 3 Short 0),,,,
+0020400873,277,2,47,3,5:09 PM,9:15,MISS Skinner 13' Turnaround Jump Shot,,,,
+0020400873,278,4,0,3,5:09 PM,9:13,,,Wallace REBOUND (Off:3 Def:6),,
+0020400873,279,2,1,3,5:09 PM,8:53,,,MISS Hamilton 18' Jump Shot,,
+0020400873,280,4,0,3,5:09 PM,8:52,,,Prince REBOUND (Off:2 Def:2),,
+0020400873,281,1,1,3,5:09 PM,8:47,,,Billups  3PT Jump Shot (11 PTS) (Prince 4 AST),53 - 55,2
+0020400873,282,5,1,3,5:09 PM,8:35,Stojakovic Bad Pass Turnover (P2.T8),,,,
+0020400873,283,2,1,3,5:10 PM,8:13,,,MISS Wallace 15' Jump Shot,,
+0020400873,284,4,0,3,5:10 PM,8:12,,,Wallace REBOUND (Off:4 Def:6),,
+0020400873,285,2,63,3,5:10 PM,7:58,,,MISS Wallace 12' Fadeaway Jumper,,
+0020400873,286,4,0,3,5:10 PM,7:56,Thomas REBOUND (Off:1 Def:6),,,,
+0020400873,287,2,1,3,5:10 PM,7:48,MISS Skinner 4' Jump Shot,,Wallace BLOCK (3 BLK),,
+0020400873,288,4,0,3,5:10 PM,7:46,Skinner REBOUND (Off:2 Def:4),,,,
+0020400873,289,1,1,3,5:10 PM,7:45,Skinner 4' Jump Shot (6 PTS),,,53 - 57,4
+0020400873,291,5,1,3,5:11 PM,7:29,Stojakovic STEAL (1 STL),,Wallace Bad Pass Turnover (P1.T9),,
+0020400873,293,1,1,3,5:11 PM,7:20,Evans 24' 3PT Jump Shot (12 PTS),,,53 - 60,7
+0020400873,294,1,7,3,5:11 PM,7:04,,,Wallace  Dunk (4 PTS) (Billups 3 AST),55 - 60,5
+0020400873,295,1,1,3,5:11 PM,6:45,Stojakovic 25' 3PT Jump Shot (9 PTS) (Skinner 2 AST),,,55 - 63,8
+0020400873,296,6,2,3,5:12 PM,6:27,Thomas S.FOUL (P3.T4),,,,
+0020400873,297,3,11,3,5:12 PM,6:27,,,MISS Billups Free Throw 1 of 2,,
+0020400873,298,4,1,3,5:12 PM,6:27,,,Pistons Rebound,,
+0020400873,299,3,12,3,5:12 PM,6:27,,,Billups Free Throw 2 of 2 (12 PTS),56 - 63,7
+0020400873,300,2,1,3,5:13 PM,6:13,MISS Evans  3PT Jump Shot,,,,
+0020400873,301,4,0,3,5:13 PM,6:11,,,Wallace REBOUND (Off:4 Def:7),,
+0020400873,302,5,1,3,5:13 PM,6:05,Skinner STEAL (1 STL),,Hamilton Bad Pass Turnover (P2.T10),,
+0020400873,303,2,1,3,5:13 PM,5:46,MISS Thomas 16' Jump Shot,,,,
+0020400873,304,4,0,3,5:13 PM,5:44,,,Wallace REBOUND (Off:4 Def:8),,
+0020400873,305,2,2,3,5:13 PM,5:38,Thomas BLOCK (2 BLK),,MISS Prince  Running Jump Shot,,
+0020400873,316,4,0,3,5:14 PM,5:29,Thomas REBOUND (Off:1 Def:7),,,,
+0020400873,306,6,1,3,5:14 PM,5:29,,,Hamilton P.FOUL (P3.T3),,
+0020400873,307,6,4,3,5:14 PM,5:25,Skinner OFF.Foul (P3),,,,
+0020400873,308,5,5,3,5:14 PM,5:25,Skinner Foul Turnover (P3.T9),,,,
+0020400873,309,2,1,3,5:14 PM,5:10,,,MISS Billups 24' 3PT Jump Shot,,
+0020400873,310,4,0,3,5:14 PM,5:08,Skinner REBOUND (Off:2 Def:5),,,,
+0020400873,311,2,42,3,5:15 PM,4:59,MISS Bibby 5' Driving Layup,,,,
+0020400873,313,4,0,3,5:15 PM,4:58,Skinner REBOUND (Off:3 Def:5),,,,
+0020400873,312,1,64,3,5:15 PM,4:58,Skinner  Follow Up Dunk (8 PTS),,,56 - 65,9
+0020400873,314,9,1,3,5:15 PM,4:49,,,Pistons Timeout: Regular (Reg.3 Short 1),,
+0020400873,320,2,1,3,5:18 PM,4:28,,,MISS Billups 23' Jump Shot,,
+0020400873,321,4,0,3,5:18 PM,4:26,Stojakovic REBOUND (Off:0 Def:4),,,,
+0020400873,322,6,2,3,5:18 PM,4:16,,,Hamilton S.FOUL (P4.T4),,
+0020400873,323,3,11,3,5:19 PM,4:16,Bibby Free Throw 1 of 2 (7 PTS),,,56 - 66,10
+0020400873,324,3,12,3,5:19 PM,4:16,Bibby Free Throw 2 of 2 (8 PTS),,,56 - 67,11
+0020400873,326,2,1,3,5:20 PM,3:53,Skinner BLOCK (2 BLK),,MISS Billups 5' Jump Shot,,
+0020400873,327,4,0,3,5:20 PM,3:52,Skinner REBOUND (Off:3 Def:6),,,,
+0020400873,329,1,1,3,5:20 PM,3:42,Stojakovic 25' 3PT Jump Shot (12 PTS) (Thomas 2 AST),,,56 - 70,14
+0020400873,330,6,1,3,5:20 PM,3:30,Stojakovic P.FOUL (P2.PN),,,,
+0020400873,332,3,11,3,5:20 PM,3:30,,,MISS Prince Free Throw 1 of 2,,
+0020400873,333,4,1,3,5:20 PM,3:30,,,Pistons Rebound,,
+0020400873,334,3,12,3,5:20 PM,3:30,,,Prince Free Throw 2 of 2 (7 PTS),57 - 70,13
+0020400873,335,8,0,3,5:21 PM,3:30,,,SUB: Arroyo FOR Hamilton,,
+0020400873,336,1,7,3,5:21 PM,3:15,Skinner  Dunk (10 PTS) (Bibby 9 AST),,,57 - 72,15
+0020400873,337,2,1,3,5:21 PM,2:52,,,MISS Wallace 24' 3PT Jump Shot,,
+0020400873,338,4,0,3,5:21 PM,2:50,,,Wallace REBOUND (Off:5 Def:8),,
+0020400873,339,2,1,3,5:22 PM,2:41,,,MISS Wallace 6' Jump Shot,,
+0020400873,340,4,0,3,5:22 PM,2:39,Evans REBOUND (Off:3 Def:4),,,,
+0020400873,341,5,1,3,5:22 PM,2:23,Bibby Bad Pass Turnover (P3.T10),,Wallace STEAL (2 STL),,
+0020400873,342,1,7,3,5:22 PM,2:09,,,Wallace  Dunk (12 PTS) (Billups 4 AST),59 - 72,13
+0020400873,344,2,1,3,5:23 PM,1:42,MISS Stojakovic 4' Jump Shot,,,,
+0020400873,345,4,0,3,5:23 PM,1:40,,,Wallace REBOUND (Off:5 Def:9),,
+0020400873,346,6,4,3,5:23 PM,1:37,,,Billups OFF.Foul (P4),,
+0020400873,347,5,5,3,5:23 PM,1:37,,,Billups Foul Turnover (P3.T11),,
+0020400873,348,8,0,3,5:23 PM,1:37,,,SUB: Hunter FOR Wallace,,
+0020400873,349,8,0,3,5:23 PM,1:37,,,SUB: McDyess FOR Billups,,
+0020400873,350,6,2,3,5:24 PM,1:28,,,McDyess S.FOUL (P3.PN),,
+0020400873,351,3,11,3,5:24 PM,1:28,Thomas Free Throw 1 of 2 (16 PTS),,,59 - 73,14
+0020400873,352,3,12,3,5:24 PM,1:28,Thomas Free Throw 2 of 2 (17 PTS),,,59 - 74,15
+0020400873,353,2,1,3,5:24 PM,1:11,,,MISS Prince 17' Jump Shot,,
+0020400873,354,4,0,3,5:24 PM,1:09,Evans REBOUND (Off:3 Def:5),,,,
+0020400873,355,5,1,3,5:25 PM,1:02,Bibby Bad Pass Turnover (P4.T11),,,,
+0020400873,356,2,1,3,5:25 PM,0:50,,,MISS Prince 5' Jump Shot,,
+0020400873,357,4,0,3,5:25 PM,0:48,Skinner REBOUND (Off:3 Def:7),,,,
+0020400873,358,2,1,3,5:25 PM,0:37,MISS Thomas 18' Jump Shot,,,,
+0020400873,359,4,0,3,5:25 PM,0:36,,,Prince REBOUND (Off:2 Def:3),,
+0020400873,360,1,5,3,5:25 PM,0:31,,,McDyess  Layup (8 PTS) (Prince 5 AST),61 - 74,13
+0020400873,362,2,1,3,5:26 PM,0:08,MISS Skinner 4' Jump Shot,,Wallace BLOCK (1 BLK),,
+0020400873,363,4,0,3,5:26 PM,0:07,,,Hunter REBOUND (Off:0 Def:1),,
+0020400873,364,1,1,3,5:26 PM,0:01,,,McDyess 17' Jump Shot (10 PTS),63 - 74,11
+0020400873,366,13,0,3,5:26 PM,0:00,,,,63 - 74,11
+0020400873,368,12,0,4,5:30 PM,12:00,,,,63 - 74,11
+0020400873,369,2,1,4,5:31 PM,11:37,Evans BLOCK (1 BLK),,MISS Hamilton 7' Jump Shot,,
+0020400873,370,4,0,4,5:31 PM,11:35,Williamson REBOUND (Off:0 Def:1),,,,
+0020400873,371,2,5,4,5:31 PM,11:26,MISS Stojakovic  Layup,,,,
+0020400873,372,4,0,4,5:31 PM,11:25,Stojakovic REBOUND (Off:1 Def:4),,,,
+0020400873,373,2,5,4,5:31 PM,11:24,MISS Stojakovic  Layup,,,,
+0020400873,374,4,0,4,5:31 PM,11:23,,,McDyess REBOUND (Off:2 Def:2),,
+0020400873,375,1,5,4,5:31 PM,11:17,,,Hunter  Layup (2 PTS) (Arroyo 4 AST),65 - 74,9
+0020400873,376,1,47,4,5:31 PM,10:59,Williamson 12' Turnaround Jump Shot (5 PTS),,,65 - 76,11
+0020400873,377,2,1,4,5:32 PM,10:39,,,MISS Hamilton 24' 3PT Jump Shot,,
+0020400873,378,4,0,4,5:32 PM,10:37,Thomas REBOUND (Off:1 Def:8),,,,
+0020400873,379,2,1,4,5:32 PM,10:22,MISS Evans 16' Jump Shot,,,,
+0020400873,380,4,0,4,5:32 PM,10:21,,,Hunter REBOUND (Off:0 Def:2),,
+0020400873,381,2,1,4,5:32 PM,9:59,,,MISS Arroyo 15' Jump Shot,,
+0020400873,382,4,0,4,5:32 PM,9:58,Evans REBOUND (Off:3 Def:6),,,,
+0020400873,383,6,1,4,5:32 PM,9:58,,,McDyess P.FOUL (P4.T1),,
+0020400873,384,2,5,4,5:33 PM,9:43,MISS Thomas  Layup,,,,
+0020400873,385,4,0,4,5:33 PM,9:42,,,Wallace REBOUND (Off:3 Def:7),,
+0020400873,386,2,5,4,5:33 PM,9:37,,,MISS Hunter  Layup,,
+0020400873,387,4,0,4,5:33 PM,9:35,,,Pistons Rebound,,
+0020400873,388,1,1,4,5:33 PM,9:27,,,Wallace 26' 3PT Jump Shot (15 PTS) (Arroyo 5 AST),68 - 76,8
+0020400873,389,9,1,4,5:33 PM,9:17,KINGS Timeout: Regular (Full 4 Short 0),,,,
+0020400873,391,8,0,4,5:36 PM,9:17,,,SUB: Prince FOR Hamilton,,
+0020400873,392,8,0,4,5:36 PM,9:17,SUB: Bibby FOR Stojakovic,,,,
+0020400873,393,5,1,4,5:37 PM,9:17,Evans Bad Pass Turnover (P1.T12),,,,
+0020400873,394,2,1,4,5:37 PM,8:59,,,MISS Prince 5' Jump Shot,,
+0020400873,395,4,0,4,5:37 PM,8:58,,,Prince REBOUND (Off:3 Def:3),,
+0020400873,396,1,5,4,5:37 PM,8:57,,,Prince  Layup (9 PTS),70 - 76,6
+0020400873,397,5,4,4,5:38 PM,8:38,Williamson Traveling Turnover (P1.T13),,,,
+0020400873,398,8,0,4,5:38 PM,8:38,SUB: Stojakovic FOR Evans,,,,
+0020400873,399,1,42,4,5:38 PM,8:25,,,Arroyo  Driving Layup (6 PTS),72 - 76,4
+0020400873,400,6,1,4,5:39 PM,8:09,,,Arroyo P.FOUL (P1.T2),,
+0020400873,401,8,0,4,5:39 PM,8:09,SUB: Skinner FOR Thomas,,,,
+0020400873,402,8,0,4,5:39 PM,8:09,SUB: Songaila FOR Williamson,,,,
+0020400873,403,6,1,4,5:39 PM,8:07,,,Hunter P.FOUL (P1.T3),,
+0020400873,404,1,1,4,5:39 PM,7:57,Songaila 21' Jump Shot (12 PTS) (Bibby 10 AST),,,72 - 78,6
+0020400873,405,2,1,4,5:40 PM,7:31,,,MISS Wallace 24' 3PT Jump Shot,,
+0020400873,406,4,0,4,5:40 PM,7:29,,,McDyess REBOUND (Off:3 Def:2),,
+0020400873,407,6,1,4,5:40 PM,7:18,Bibby P.FOUL (P3.T1),,,,
+0020400873,408,9,1,4,5:40 PM,7:18,,,Pistons Timeout: Regular (Reg.4 Short 1),,
+0020400873,412,6,4,4,5:44 PM,7:16,,,McDyess OFF.Foul (P5),,
+0020400873,413,5,5,4,5:44 PM,7:16,,,McDyess Foul Turnover (P2.T12),,
+0020400873,414,1,1,4,5:44 PM,7:02,House  3PT Jump Shot (3 PTS) (Songaila 2 AST),,,72 - 81,9
+0020400873,415,1,1,4,5:44 PM,6:44,,,Prince 6' Jump Shot (11 PTS),74 - 81,7
+0020400873,416,6,2,4,5:44 PM,6:44,Stojakovic S.FOUL (P3.T2),,,,
+0020400873,417,8,0,4,5:45 PM,6:44,,,SUB: Hamilton FOR Hunter,,
+0020400873,418,8,0,4,5:45 PM,6:44,,,SUB: Billups FOR Arroyo,,
+0020400873,419,3,10,4,5:45 PM,6:44,,,MISS Prince Free Throw 1 of 1,,
+0020400873,420,4,0,4,5:45 PM,6:42,,,McDyess REBOUND (Off:4 Def:2),,
+0020400873,421,2,5,4,5:45 PM,6:36,Skinner BLOCK (3 BLK),,MISS McDyess  Layup,,
+0020400873,422,4,0,4,5:45 PM,6:35,Skinner REBOUND (Off:3 Def:8),,,,
+0020400873,423,2,1,4,5:45 PM,6:20,MISS Songaila 19' Jump Shot,,,,
+0020400873,424,4,0,4,5:45 PM,6:19,House REBOUND (Off:1 Def:0),,,,
+0020400873,425,1,1,4,5:46 PM,6:09,Skinner 4' Jump Shot (12 PTS) (Songaila 3 AST),,,74 - 83,9
+0020400873,426,5,1,4,5:46 PM,5:54,House STEAL (1 STL),,Hamilton Bad Pass Turnover (P3.T13),,
+0020400873,427,1,5,4,5:46 PM,5:50,Bibby  Layup (10 PTS),,,74 - 85,11
+0020400873,428,9,1,4,5:46 PM,5:47,,,Pistons Timeout: Regular (Reg.5 Short 1),,
+0020400873,432,6,1,4,5:49 PM,5:36,Bibby P.FOUL (P4.T3),,,,
+0020400873,433,1,1,4,5:50 PM,5:25,,,Wallace 14' Jump Shot (17 PTS) (Prince 6 AST),76 - 85,9
+0020400873,434,1,1,4,5:50 PM,5:06,Stojakovic 16' Jump Shot (14 PTS),,,76 - 87,11
+0020400873,435,1,1,4,5:50 PM,4:45,,,Wallace 18' Jump Shot (19 PTS),78 - 87,9
+0020400873,436,1,1,4,5:51 PM,4:25,Bibby 18' Jump Shot (12 PTS),,,78 - 89,11
+0020400873,437,2,47,4,5:51 PM,4:05,,,MISS McDyess 10' Turnaround Jump Shot,,
+0020400873,438,4,0,4,5:51 PM,4:04,Skinner REBOUND (Off:3 Def:9),,,,
+0020400873,439,1,1,4,5:51 PM,3:48,Songaila 20' Jump Shot (14 PTS) (Bibby 11 AST),,,78 - 91,13
+0020400873,440,5,1,4,5:52 PM,3:24,Bibby STEAL (1 STL),,Wallace Bad Pass Turnover (P2.T14),,
+0020400873,441,1,1,4,5:52 PM,3:18,Bibby 25' 3PT Jump Shot (15 PTS) (House 1 AST),,,78 - 94,16
+0020400873,442,9,1,4,5:52 PM,3:14,,,Pistons Timeout: Regular (Reg.6 Short 1),,
+0020400873,444,8,0,4,5:54 PM,3:14,,,SUB: Hunter FOR Hamilton,,
+0020400873,445,8,0,4,5:54 PM,3:14,,,SUB: Arroyo FOR Billups,,
+0020400873,447,6,2,4,5:55 PM,3:04,Songaila S.FOUL (P5.T4),,,,
+0020400873,448,3,11,4,5:55 PM,3:04,,,MISS McDyess Free Throw 1 of 2,,
+0020400873,449,4,1,4,5:55 PM,3:04,,,Pistons Rebound,,
+0020400873,450,3,12,4,5:55 PM,3:04,,,McDyess Free Throw 2 of 2 (11 PTS),79 - 94,15
+0020400873,451,6,1,4,5:55 PM,2:54,,,Arroyo P.FOUL (P2.T4),,
+0020400873,452,6,1,4,5:56 PM,2:47,,,McDyess P.FOUL (P6.PN),,
+0020400873,453,8,0,4,5:56 PM,2:47,,,SUB: Ham FOR McDyess,,
+0020400873,454,8,0,4,5:56 PM,2:47,SUB: Thomas FOR Skinner,,,,
+0020400873,455,3,11,4,5:56 PM,2:47,Bibby Free Throw 1 of 2 (16 PTS),,,79 - 95,16
+0020400873,456,3,12,4,5:57 PM,2:47,Bibby Free Throw 2 of 2 (17 PTS),,,79 - 96,17
+0020400873,457,1,1,4,5:57 PM,2:26,,,Hunter 24' 3PT Jump Shot (5 PTS) (Arroyo 6 AST),82 - 96,14
+0020400873,458,2,5,4,5:57 PM,2:09,MISS Stojakovic  Layup,,,,
+0020400873,459,4,0,4,5:57 PM,2:09,KINGS Rebound,,,,
+0020400873,460,5,4,4,5:57 PM,2:09,Stojakovic Traveling Turnover (P3.T14),,,,
+0020400873,461,2,1,4,5:58 PM,1:51,,,MISS Wallace 23' Jump Shot,,
+0020400873,462,4,0,4,5:58 PM,1:49,House REBOUND (Off:1 Def:1),,,,
+0020400873,463,1,47,4,5:58 PM,1:24,Thomas 14' Turnaround Jump Shot (19 PTS),,,82 - 98,16
+0020400873,464,5,1,4,5:58 PM,1:20,Bibby STEAL (2 STL),,Arroyo Bad Pass Turnover (P1.T15),,
+0020400873,465,1,5,4,5:59 PM,1:17,Bibby  Layup (19 PTS),,,82 - 100,18
+0020400873,466,6,2,4,5:59 PM,1:06,Thomas S.FOUL (P4.PN),,,,
+0020400873,467,8,0,4,5:59 PM,1:06,,,SUB: Dupree FOR Wallace,,
+0020400873,468,8,0,4,5:59 PM,1:06,SUB: Evans FOR Stojakovic,,,,
+0020400873,469,8,0,4,5:59 PM,1:06,SUB: Martin FOR Bibby,,,,
+0020400873,470,3,11,4,5:59 PM,1:06,,,MISS Arroyo Free Throw 1 of 2,,
+0020400873,471,4,1,4,5:59 PM,1:06,,,Pistons Rebound,,
+0020400873,472,3,12,4,6:00 PM,1:06,,,Arroyo Free Throw 2 of 2 (7 PTS),83 - 100,17
+0020400873,474,5,1,4,6:00 PM,0:59,Martin Bad Pass Turnover (P1.T15),,Arroyo STEAL (1 STL),,
+0020400873,475,1,5,4,6:00 PM,0:57,,,Dupree  Layup (2 PTS) (Arroyo 7 AST),85 - 100,15
+0020400873,476,2,47,4,6:00 PM,0:44,MISS Evans 12' Turnaround Jump Shot,,,,
+0020400873,477,4,0,4,6:00 PM,0:42,,,Prince REBOUND (Off:3 Def:4),,
+0020400873,478,2,5,4,6:01 PM,0:21,,,MISS Ham  Layup,,
+0020400873,479,4,0,4,6:01 PM,0:20,Thomas REBOUND (Off:1 Def:9),,,,
+0020400873,480,13,0,4,6:01 PM,0:00,,,,85 - 100,15

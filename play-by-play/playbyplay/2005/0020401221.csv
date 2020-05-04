@@ -1,0 +1,424 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020401221,0,12,0,1,4:00 AM,12:00,,,,,
+0020401221,1,10,0,1,7:15 PM,12:00,Jump Ball Howard vs. Mourning: Tip to Anderson,,,,
+0020401221,2,5,13,1,7:15 PM,11:58,,,Anderson Backcourt Turnover (P1.T1),,
+0020401221,3,2,5,1,7:16 PM,11:40,MISS Howard  Layup,,,,
+0020401221,4,4,0,1,7:16 PM,11:39,,,Haslem REBOUND (Off:0 Def:1),,
+0020401221,5,1,56,1,7:16 PM,11:22,,,Mourning 6' Running Hook Shot (2 PTS),2 - 0,-2
+0020401221,6,6,1,1,7:16 PM,11:12,,,Haslem P.FOUL (P1.T1),,
+0020401221,7,2,1,1,7:17 PM,10:56,MISS Francis 17' Jump Shot,,,,
+0020401221,8,4,0,1,7:17 PM,10:54,,,Haslem REBOUND (Off:0 Def:2),,
+0020401221,9,1,5,1,7:17 PM,10:31,,,Mourning  Layup (4 PTS),4 - 0,-4
+0020401221,10,1,1,1,7:17 PM,10:12,Nelson 25' 3PT Jump Shot (3 PTS) (Stevenson 1 AST),,,4 - 3,-1
+0020401221,11,1,1,1,7:18 PM,9:47,,,Haslem 14' Jump Shot (2 PTS) (Mourning 1 AST),6 - 3,-3
+0020401221,12,1,1,1,7:18 PM,9:35,Nelson 25' 3PT Jump Shot (6 PTS) (Stevenson 2 AST),,,6 - 6,TIE
+0020401221,13,2,1,1,7:19 PM,9:16,,,MISS Jones 25' 3PT Jump Shot,,
+0020401221,14,4,0,1,7:19 PM,9:13,Francis REBOUND (Off:0 Def:1),,,,
+0020401221,15,1,8,1,7:19 PM,9:05,Battie  Slam Dunk (2 PTS) (Francis 1 AST),,,6 - 8,2
+0020401221,16,1,1,1,7:19 PM,8:49,,,Jones 17' Jump Shot (2 PTS) (Jones 1 AST),8 - 8,TIE
+0020401221,17,6,1,1,7:19 PM,8:43,,,Jones P.FOUL (P1.T2),,
+0020401221,18,2,1,1,7:20 PM,8:33,MISS Howard 8' Jump Shot,,Mourning BLOCK (1 BLK),,
+0020401221,19,4,0,1,7:20 PM,8:30,Howard REBOUND (Off:1 Def:0),,,,
+0020401221,20,5,2,1,7:20 PM,8:28,Howard Lost Ball Turnover (P1.T1),,Jones STEAL (1 STL),,
+0020401221,21,5,1,1,7:20 PM,8:23,,,Jones Bad Pass Turnover (P1.T2),,
+0020401221,22,1,1,1,7:20 PM,8:14,Nelson 17' Jump Shot (8 PTS) (Francis 2 AST),,,8 - 10,2
+0020401221,23,2,1,1,7:20 PM,7:58,,,MISS Jones 22' Jump Shot,,
+0020401221,24,4,0,1,7:20 PM,7:56,Francis REBOUND (Off:0 Def:2),,,,
+0020401221,25,5,2,1,7:20 PM,7:51,Francis Lost Ball Turnover (P1.T2),,Haslem STEAL (1 STL),,
+0020401221,26,1,1,1,7:21 PM,7:43,,,Anderson 14' Jump Shot (2 PTS) (Jones 1 AST),10 - 10,TIE
+0020401221,27,5,1,1,7:21 PM,7:38,Battie Bad Pass Turnover (P1.T3),,,,
+0020401221,28,5,2,1,7:21 PM,7:26,Howard STEAL (1 STL),,Jones Lost Ball Turnover (P2.T3),,
+0020401221,29,1,8,1,7:21 PM,7:22,Howard  Slam Dunk (2 PTS),,,10 - 12,2
+0020401221,30,5,11,1,7:22 PM,6:54,,,Heat Turnover: Shot Clock (T#4),,
+0020401221,31,2,1,1,7:22 PM,6:38,MISS Howard 14' Jump Shot,,,,
+0020401221,32,4,0,1,7:22 PM,6:36,,,Anderson REBOUND (Off:0 Def:1),,
+0020401221,33,2,1,1,7:23 PM,6:28,,,MISS Jones 25' 3PT Jump Shot,,
+0020401221,34,4,0,1,7:23 PM,6:26,,,Anderson REBOUND (Off:1 Def:1),,
+0020401221,35,2,1,1,7:23 PM,6:23,,,MISS Jones 26' 3PT Jump Shot,,
+0020401221,36,4,0,1,7:23 PM,6:21,Battie REBOUND (Off:0 Def:1),,,,
+0020401221,37,6,2,1,7:23 PM,6:17,,,Jones S.FOUL (P2.T3),,
+0020401221,38,3,11,1,7:23 PM,6:17,Stevenson Free Throw 1 of 2 (1 PTS),,,10 - 13,3
+0020401221,39,3,12,1,7:23 PM,6:17,MISS Stevenson Free Throw 2 of 2,,,,
+0020401221,40,4,0,1,7:23 PM,6:16,,,Haslem REBOUND (Off:0 Def:3),,
+0020401221,41,1,8,1,7:24 PM,6:00,,,Mourning  Slam Dunk (6 PTS) (Jones 2 AST),12 - 13,1
+0020401221,42,1,42,1,7:24 PM,5:45,Stevenson  Driving Layup (3 PTS),,,12 - 15,3
+0020401221,43,5,1,1,7:24 PM,5:25,Howard STEAL (2 STL),,Anderson Bad Pass Turnover (P2.T5),,
+0020401221,44,5,1,1,7:24 PM,5:21,Francis Bad Pass Turnover (P2.T4),,,,
+0020401221,45,9,1,1,7:24 PM,5:21,MAGIC Timeout: Regular (Full 1 Short 0),,,,
+0020401221,48,8,0,1,7:27 PM,5:21,,,SUB: Doleac FOR Mourning,,
+0020401221,49,5,2,1,7:27 PM,5:10,Battie STEAL (1 STL),,Anderson Lost Ball Turnover (P3.T6),,
+0020401221,50,1,42,1,7:27 PM,5:05,Francis  Driving Layup (2 PTS),,,12 - 17,5
+0020401221,51,1,1,1,7:27 PM,4:56,,,Haslem 14' Jump Shot (4 PTS),14 - 17,3
+0020401221,52,1,66,1,7:28 PM,4:33,Battie 10' Jump Bank Shot (4 PTS),,,14 - 19,5
+0020401221,53,5,8,1,7:28 PM,4:11,,,Haslem 3 Second Violation Turnover (P1.T7),,
+0020401221,54,8,0,1,7:28 PM,4:11,,,SUB: Dooling FOR Jones,,
+0020401221,55,2,1,1,7:28 PM,4:00,MISS Nelson 25' 3PT Jump Shot,,,,
+0020401221,56,4,0,1,7:29 PM,3:58,,,Jones REBOUND (Off:0 Def:1),,
+0020401221,57,6,2,1,7:29 PM,3:54,Francis S.FOUL (P1.T1),,,,
+0020401221,58,8,0,1,7:29 PM,3:54,,,SUB: Butler FOR Anderson,,
+0020401221,59,3,11,1,7:29 PM,3:54,,,Dooling Free Throw 1 of 2 (1 PTS),15 - 19,4
+0020401221,60,8,0,1,7:29 PM,3:54,SUB: Kasun FOR Battie,,,,
+0020401221,61,3,12,1,7:30 PM,3:54,,,Dooling Free Throw 2 of 2 (2 PTS),16 - 19,3
+0020401221,62,2,63,1,7:30 PM,3:34,MISS Francis 18' Fadeaway Jumper,,,,
+0020401221,63,4,0,1,7:30 PM,3:33,,,Heat Rebound,,
+0020401221,64,1,1,1,7:30 PM,3:20,,,Jones 25' 3PT Jump Shot (5 PTS) (Dooling 1 AST),19 - 19,TIE
+0020401221,65,2,42,1,7:31 PM,3:03,MISS Stevenson  Driving Layup,,,,
+0020401221,66,4,0,1,7:31 PM,3:00,,,Haslem REBOUND (Off:0 Def:4),,
+0020401221,67,1,1,1,7:31 PM,2:43,,,Dooling 20' Jump Shot (4 PTS),21 - 19,-2
+0020401221,68,1,1,1,7:31 PM,2:23,Stevenson  3PT Jump Shot (6 PTS) (Francis 3 AST),,,21 - 22,1
+0020401221,69,5,13,1,7:32 PM,2:10,,,Dooling Backcourt Turnover (P1.T8),,
+0020401221,70,9,1,1,7:32 PM,2:10,,,Heat Timeout: Regular (Reg.1 Short 0),,
+0020401221,73,1,1,1,7:34 PM,1:49,Francis 25' 3PT Jump Shot (5 PTS),,,21 - 25,4
+0020401221,74,1,1,1,7:35 PM,1:34,,,Jones 25' 3PT Jump Shot (8 PTS) (Dooling 2 AST),24 - 25,1
+0020401221,75,1,63,1,7:35 PM,1:19,Stevenson 24' 3PT Fadeaway Jumper (9 PTS),,,24 - 28,4
+0020401221,76,2,1,1,7:35 PM,0:59,,,MISS Butler 10' Jump Shot,,
+0020401221,77,4,0,1,7:35 PM,0:58,,,Jones REBOUND (Off:1 Def:1),,
+0020401221,78,6,3,1,7:35 PM,0:58,Howard L.B.FOUL (P1.T2),,,,
+0020401221,80,1,1,1,7:36 PM,0:53,,,Dooling 21' Jump Shot (6 PTS),26 - 28,2
+0020401221,81,2,1,1,7:36 PM,0:36,MISS Nelson 24' 3PT Jump Shot,,,,
+0020401221,82,4,0,1,7:36 PM,0:35,,,Heat Rebound,,
+0020401221,83,1,1,1,7:36 PM,0:20,,,Doleac 17' Jump Shot (2 PTS) (Dooling 3 AST),28 - 28,TIE
+0020401221,84,6,1,1,7:37 PM,0:01,,,Dooling P.FOUL (P1.T4),,
+0020401221,85,2,63,1,7:37 PM,0:00,MISS Francis 25' 3PT Fadeaway Jumper,,,,
+0020401221,86,4,0,1,7:37 PM,0:00,MAGIC Rebound,,,,
+0020401221,88,13,0,1,7:37 PM,0:00,,,,28 - 28,TIE
+0020401221,90,12,0,2,7:40 PM,12:00,,,,28 - 28,TIE
+0020401221,91,2,5,2,7:40 PM,11:42,MISS Howard  Layup,,,,
+0020401221,93,4,0,2,7:40 PM,11:40,Kasun REBOUND (Off:1 Def:0),,,,
+0020401221,92,1,64,2,7:40 PM,11:39,Kasun  Follow Up Dunk (2 PTS),,,28 - 30,2
+0020401221,94,1,5,2,7:41 PM,11:19,,,Wright  Layup (2 PTS) (Laettner 1 AST),30 - 30,TIE
+0020401221,95,2,1,2,7:41 PM,10:56,MISS Francis 21' Jump Shot,,,,
+0020401221,96,4,0,2,7:41 PM,10:54,Kasun REBOUND (Off:2 Def:0),,,,
+0020401221,97,2,1,2,7:41 PM,10:52,MISS Barrett 14' Jump Shot,,,,
+0020401221,98,4,0,2,7:41 PM,10:50,Howard REBOUND (Off:2 Def:0),,,,
+0020401221,99,6,2,2,7:41 PM,10:50,,,Laettner S.FOUL (P1.T1),,
+0020401221,100,3,11,2,7:42 PM,10:50,MISS Howard Free Throw 1 of 2,,,,
+0020401221,101,4,1,2,7:42 PM,10:50,MAGIC Rebound,,,,
+0020401221,102,3,12,2,7:42 PM,10:50,MISS Howard Free Throw 2 of 2,,,,
+0020401221,103,4,0,2,7:42 PM,10:50,,,Doleac REBOUND (Off:0 Def:1),,
+0020401221,104,2,1,2,7:42 PM,10:38,,,MISS Butler 19' Jump Shot,,
+0020401221,105,4,0,2,7:43 PM,10:36,MAGIC Rebound,,,,
+0020401221,106,7,5,2,7:43 PM,10:24,,,Laettner Violation:Kicked Ball,,
+0020401221,107,8,0,2,7:43 PM,10:24,SUB: Jones FOR Stevenson,,,,
+0020401221,108,1,46,2,7:43 PM,10:09,Francis 11' Running Jump Shot (7 PTS),,,30 - 32,2
+0020401221,109,1,46,2,7:44 PM,9:42,,,Dooling 11' Running Jump Shot (8 PTS),32 - 32,TIE
+0020401221,110,2,1,2,7:44 PM,9:32,MISS Barrett 22' Jump Shot,,,,
+0020401221,111,4,0,2,7:44 PM,9:31,Kasun REBOUND (Off:3 Def:0),,,,
+0020401221,112,8,0,2,7:44 PM,9:31,SUB: Hunter FOR Howard,,,,
+0020401221,113,2,65,2,7:45 PM,9:22,MISS Kasun 10' Jump Hook Shot,,,,
+0020401221,115,4,0,2,7:45 PM,9:19,Jones REBOUND (Off:1 Def:0),,,,
+0020401221,114,1,4,2,7:45 PM,9:19,Jones  Tip Shot (2 PTS),,,32 - 34,2
+0020401221,116,6,1,2,7:45 PM,9:06,Kasun P.FOUL (P1.T1),,,,
+0020401221,117,2,1,2,7:45 PM,8:57,,,MISS Dooling 19' Jump Shot,,
+0020401221,118,4,0,2,7:45 PM,8:54,Hunter REBOUND (Off:0 Def:1),,,,
+0020401221,119,6,2,2,7:46 PM,8:47,,,Doleac S.FOUL (P1.T2),,
+0020401221,121,9,4,2,7:46 PM,8:47,,,,,
+0020401221,124,3,11,2,7:48 PM,8:47,MISS Kasun Free Throw 1 of 2,,,,
+0020401221,125,4,1,2,7:48 PM,8:47,MAGIC Rebound,,,,
+0020401221,126,3,12,2,7:48 PM,8:47,Kasun Free Throw 2 of 2 (3 PTS),,,32 - 35,3
+0020401221,127,1,51,2,7:49 PM,8:36,,,Wright  Reverse Dunk (4 PTS) (Doleac 1 AST),34 - 35,1
+0020401221,128,6,4,2,7:49 PM,8:29,Francis OFF.Foul (P2),,,,
+0020401221,129,5,5,2,7:49 PM,8:29,Francis Foul Turnover (P3.T5),,,,
+0020401221,130,8,0,2,7:50 PM,8:29,SUB: Battie FOR Kasun,,,,
+0020401221,131,2,1,2,7:50 PM,8:16,,,MISS Doleac 18' Jump Shot,,
+0020401221,132,4,0,2,7:50 PM,8:14,Francis REBOUND (Off:0 Def:3),,,,
+0020401221,133,6,4,2,7:50 PM,7:57,Francis OFF.Foul (P3),,,,
+0020401221,134,5,5,2,7:50 PM,7:57,Francis Foul Turnover (P4.T6),,,,
+0020401221,135,8,0,2,7:50 PM,7:57,SUB: Stevenson FOR Francis,,,,
+0020401221,136,8,0,2,7:51 PM,7:44,,,SUB: Smith FOR Butler,,
+0020401221,137,2,1,2,7:51 PM,7:36,,,MISS Doleac 17' Jump Shot,,
+0020401221,138,4,0,2,7:51 PM,7:34,Battie REBOUND (Off:0 Def:2),,,,
+0020401221,139,1,42,2,7:52 PM,7:30,Barrett  Driving Layup (2 PTS),,,34 - 37,3
+0020401221,140,6,2,2,7:52 PM,7:30,,,Dooling S.FOUL (P2.T3),,
+0020401221,141,3,10,2,7:52 PM,7:30,Barrett Free Throw 1 of 1 (3 PTS),,,34 - 38,4
+0020401221,142,1,1,2,7:53 PM,7:07,,,Dooling 24' 3PT Jump Shot (11 PTS) (Smith 1 AST),37 - 38,1
+0020401221,143,1,47,2,7:53 PM,6:52,Hunter 9' Turnaround Jump Shot (2 PTS),,,37 - 40,3
+0020401221,144,6,1,2,7:53 PM,6:47,Hunter P.FOUL (P1.T2),,,,
+0020401221,145,5,8,2,7:53 PM,6:32,,,Laettner 3 Second Violation Turnover (P1.T9),,
+0020401221,147,7,2,2,7:54 PM,6:23,,,Wright Violation:Defensive Goaltending,,
+0020401221,146,1,42,2,7:54 PM,6:23,Barrett  Driving Layup (5 PTS),,,37 - 42,5
+0020401221,148,5,1,2,7:54 PM,6:15,,,Laettner Bad Pass Turnover (P2.T10),,
+0020401221,149,1,65,2,7:54 PM,6:02,Hunter 9' Jump Hook Shot (4 PTS),,,37 - 44,7
+0020401221,150,5,1,2,7:55 PM,5:42,Battie STEAL (2 STL),,Laettner Bad Pass Turnover (P3.T11),,
+0020401221,151,2,5,2,7:55 PM,5:29,MISS Hunter  Layup,,Laettner BLOCK (1 BLK),,
+0020401221,153,4,0,2,7:55 PM,5:26,Hunter REBOUND (Off:1 Def:1),,,,
+0020401221,152,2,7,2,7:55 PM,5:26,MISS Hunter  Dunk,,,,
+0020401221,154,4,0,2,7:55 PM,5:25,Battie REBOUND (Off:1 Def:2),,,,
+0020401221,155,1,1,2,7:55 PM,5:22,Battie 19' Jump Shot (6 PTS),,,37 - 46,9
+0020401221,156,1,66,2,7:55 PM,5:08,,,Doleac 12' Jump Bank Shot (4 PTS) (Dooling 4 AST),39 - 46,7
+0020401221,157,1,46,2,7:55 PM,5:00,Barrett 10' Running Jump Shot (7 PTS),,,39 - 48,9
+0020401221,158,5,2,2,7:56 PM,4:54,Jones STEAL (1 STL),,Dooling Lost Ball Turnover (P2.T12),,
+0020401221,159,6,2,2,7:56 PM,4:50,,,Smith S.FOUL (P1.T4),,
+0020401221,161,9,1,2,7:56 PM,4:50,MAGIC Timeout: Regular (Full 2 Short 0),,,,
+0020401221,162,8,0,2,7:58 PM,4:50,,,SUB: Mourning FOR Doleac,,
+0020401221,163,8,0,2,7:58 PM,4:50,,,SUB: Jones FOR Dooling,,
+0020401221,164,8,0,2,7:58 PM,4:50,SUB: Howard FOR Barrett,,,,
+0020401221,165,8,0,2,7:58 PM,4:50,SUB: Nelson FOR Hunter,,,,
+0020401221,166,3,11,2,7:59 PM,4:50,MISS Jones Free Throw 1 of 2,,,,
+0020401221,167,4,1,2,7:59 PM,4:50,MAGIC Rebound,,,,
+0020401221,168,3,12,2,7:59 PM,4:50,Jones Free Throw 2 of 2 (3 PTS),,,39 - 49,10
+0020401221,169,2,1,2,7:59 PM,4:33,,,MISS Jones 26' 3PT Jump Shot,,
+0020401221,170,4,0,2,7:59 PM,4:31,Stevenson REBOUND (Off:0 Def:1),,,,
+0020401221,171,2,1,2,7:59 PM,4:24,MISS Jones 19' Jump Shot,,,,
+0020401221,172,4,0,2,7:59 PM,4:22,,,Mourning REBOUND (Off:0 Def:1),,
+0020401221,173,2,1,2,8:00 PM,4:15,,,MISS Wright 15' Jump Shot,,
+0020401221,174,4,0,2,8:00 PM,4:13,Stevenson REBOUND (Off:0 Def:2),,,,
+0020401221,175,5,1,2,8:00 PM,4:07,Nelson Bad Pass Turnover (P1.T7),,Laettner STEAL (1 STL),,
+0020401221,176,1,1,2,8:00 PM,3:48,,,Smith 17' Jump Shot (2 PTS) (Jones 2 AST),41 - 49,8
+0020401221,177,6,2,2,8:00 PM,3:30,,,Mourning S.FOUL (P1.PN),,
+0020401221,178,8,0,2,8:01 PM,3:30,SUB: Francis FOR Jones,,,,
+0020401221,179,8,0,2,8:01 PM,3:30,,,SUB: Butler FOR Wright,,
+0020401221,180,3,11,2,8:01 PM,3:30,Howard Free Throw 1 of 2 (3 PTS),,,41 - 50,9
+0020401221,181,3,12,2,8:01 PM,3:30,Howard Free Throw 2 of 2 (4 PTS),,,41 - 51,10
+0020401221,182,1,1,2,8:02 PM,3:20,,,Laettner 18' Jump Shot (2 PTS),43 - 51,8
+0020401221,183,1,8,2,8:02 PM,3:07,Howard  Slam Dunk (6 PTS) (Stevenson 3 AST),,,43 - 53,10
+0020401221,184,5,4,2,8:02 PM,2:56,,,Jones Traveling Turnover (P1.T13),,
+0020401221,186,9,1,2,8:02 PM,2:56,,,Heat Timeout: Regular (Reg.2 Short 0),,
+0020401221,189,2,5,2,8:05 PM,2:47,MISS Howard  Layup,,,,
+0020401221,190,4,0,2,8:05 PM,2:45,,,Smith REBOUND (Off:0 Def:1),,
+0020401221,191,1,1,2,8:05 PM,2:34,,,Butler  3PT Jump Shot (3 PTS) (Laettner 2 AST),46 - 53,7
+0020401221,192,2,1,2,8:05 PM,2:26,MISS Stevenson 25' 3PT Jump Shot,,,,
+0020401221,193,4,0,2,8:05 PM,2:24,,,Mourning REBOUND (Off:0 Def:2),,
+0020401221,194,2,47,2,8:06 PM,2:07,,,MISS Smith 12' Turnaround Jump Shot,,
+0020401221,195,4,0,2,8:06 PM,2:05,Battie REBOUND (Off:1 Def:3),,,,
+0020401221,196,2,5,2,8:06 PM,1:54,MISS Francis  Layup,,Mourning BLOCK (2 BLK),,
+0020401221,197,4,0,2,8:06 PM,1:52,,,Butler REBOUND (Off:0 Def:1),,
+0020401221,198,6,1,2,8:06 PM,1:44,Battie P.FOUL (P1.T3),,,,
+0020401221,199,6,2,2,8:07 PM,1:35,Howard S.FOUL (P2.PN),,,,
+0020401221,200,3,11,2,8:07 PM,1:35,,,Laettner Free Throw 1 of 2 (3 PTS),47 - 53,6
+0020401221,201,8,0,2,8:07 PM,1:35,,,SUB: Dooling FOR Jones,,
+0020401221,202,3,12,2,8:08 PM,1:35,,,Laettner Free Throw 2 of 2 (4 PTS),48 - 53,5
+0020401221,203,1,63,2,8:08 PM,1:14,Francis 11' Fadeaway Jumper (9 PTS),,,48 - 55,7
+0020401221,204,6,2,2,8:08 PM,1:02,Battie S.FOUL (P2.PN),,,,
+0020401221,205,3,11,2,8:08 PM,1:02,,,Mourning Free Throw 1 of 2 (7 PTS),49 - 55,6
+0020401221,206,8,0,2,8:09 PM,1:02,SUB: Jones FOR Francis,,,,
+0020401221,207,8,0,2,8:09 PM,1:02,SUB: Hunter FOR Howard,,,,
+0020401221,208,3,12,2,8:09 PM,1:02,,,Mourning Free Throw 2 of 2 (8 PTS),50 - 55,5
+0020401221,209,1,1,2,8:09 PM,0:46,Battie 19' Jump Shot (8 PTS) (Nelson 1 AST),,,50 - 57,7
+0020401221,210,2,1,2,8:10 PM,0:30,,,MISS Laettner 16' Jump Shot,,
+0020401221,211,4,0,2,8:10 PM,0:28,Nelson REBOUND (Off:0 Def:1),,,,
+0020401221,212,2,63,2,8:10 PM,0:05,MISS Nelson 15' Fadeaway Jumper,,,,
+0020401221,213,4,0,2,8:10 PM,0:02,Hunter REBOUND (Off:2 Def:1),,,,
+0020401221,214,2,1,2,8:10 PM,0:00,MISS Stevenson 25' 3PT Jump Shot,,,,
+0020401221,215,4,0,2,8:10 PM,0:00,MAGIC Rebound,,,,
+0020401221,216,13,0,2,8:10 PM,0:00,,,,50 - 57,7
+0020401221,218,12,0,3,8:28 PM,12:00,,,,50 - 57,7
+0020401221,219,5,1,3,8:28 PM,11:47,Francis Bad Pass Turnover (P5.T8),,Jones STEAL (1 STL),,
+0020401221,221,1,1,3,8:28 PM,11:30,,,Butler 22' Jump Shot (5 PTS),52 - 57,5
+0020401221,222,1,3,3,8:29 PM,11:13,Howard 5' Hook Shot (8 PTS),,,52 - 59,7
+0020401221,223,1,1,3,8:29 PM,10:54,,,Anderson 17' Jump Shot (4 PTS),54 - 59,5
+0020401221,224,1,5,3,8:29 PM,10:29,Howard  Layup (10 PTS),,,54 - 61,7
+0020401221,226,2,1,3,8:30 PM,10:14,,,MISS Jones 26' 3PT Jump Shot,,
+0020401221,227,4,0,3,8:30 PM,10:11,,,Butler REBOUND (Off:1 Def:1),,
+0020401221,228,2,1,3,8:30 PM,10:00,,,MISS Butler 16' Jump Shot,,
+0020401221,229,4,0,3,8:30 PM,9:58,Battie REBOUND (Off:1 Def:4),,,,
+0020401221,230,2,1,3,8:30 PM,9:50,MISS Battie 19' Jump Shot,,,,
+0020401221,231,4,0,3,8:30 PM,9:48,,,Mourning REBOUND (Off:0 Def:3),,
+0020401221,232,1,1,3,8:30 PM,9:40,,,Jones 25' 3PT Jump Shot (3 PTS),57 - 61,4
+0020401221,233,2,7,3,8:30 PM,9:21,MISS Howard  Dunk,,,,
+0020401221,234,4,0,3,8:31 PM,9:18,,,Butler REBOUND (Off:1 Def:2),,
+0020401221,235,2,1,3,8:31 PM,9:13,,,MISS Anderson 14' Jump Shot,,
+0020401221,236,4,0,3,8:31 PM,9:12,MAGIC Rebound,,,,
+0020401221,237,6,17,3,8:31 PM,8:56,,,Heat T.Foul (Def. 3 Sec Haslem ),,
+0020401221,238,3,16,3,8:31 PM,8:56,MISS Francis Free Throw Technical,,,,
+0020401221,239,4,1,3,8:31 PM,8:56,MAGIC Rebound,,,,
+0020401221,240,1,1,3,8:32 PM,8:46,Nelson 20' Jump Shot (10 PTS),,,57 - 63,6
+0020401221,241,2,1,3,8:32 PM,8:23,,,MISS Butler 12' Jump Shot,,
+0020401221,242,4,0,3,8:32 PM,8:21,Howard REBOUND (Off:2 Def:1),,,,
+0020401221,243,5,1,3,8:33 PM,8:15,Nelson Bad Pass Turnover (P2.T9),,,,
+0020401221,244,5,1,3,8:33 PM,8:03,Stevenson STEAL (1 STL),,Butler Bad Pass Turnover (P1.T14),,
+0020401221,245,2,1,3,8:33 PM,7:45,MISS Stevenson 25' 3PT Jump Shot,,,,
+0020401221,247,4,0,3,8:33 PM,7:43,Howard REBOUND (Off:3 Def:1),,,,
+0020401221,246,2,4,3,8:33 PM,7:43,MISS Howard  Tip Shot,,,,
+0020401221,248,4,0,3,8:33 PM,7:42,,,Mourning REBOUND (Off:0 Def:4),,
+0020401221,249,6,2,3,8:33 PM,7:39,Stevenson S.FOUL (P1.T1),,,,
+0020401221,250,3,11,3,8:33 PM,7:39,,,Haslem Free Throw 1 of 2 (5 PTS),58 - 63,5
+0020401221,251,8,0,3,8:34 PM,7:39,,,SUB: Doleac FOR Mourning,,
+0020401221,252,3,12,3,8:34 PM,7:39,,,Haslem Free Throw 2 of 2 (6 PTS),59 - 63,4
+0020401221,253,5,1,3,8:34 PM,7:26,Stevenson Bad Pass Turnover (P1.T10),,Jones STEAL (2 STL),,
+0020401221,254,1,8,3,8:34 PM,7:24,,,Butler  Slam Dunk (7 PTS) (Jones 3 AST),61 - 63,2
+0020401221,255,6,2,3,8:34 PM,7:24,Stevenson S.FOUL (P2.T2),,,,
+0020401221,256,3,10,3,8:35 PM,7:24,,,Butler Free Throw 1 of 1 (8 PTS),62 - 63,1
+0020401221,257,2,1,3,8:35 PM,7:09,MISS Stevenson 17' Jump Shot,,,,
+0020401221,258,4,0,3,8:35 PM,7:09,,,Heat Rebound,,
+0020401221,259,2,1,3,8:36 PM,6:54,,,MISS Butler 25' 3PT Jump Shot,,
+0020401221,260,4,0,3,8:36 PM,6:52,Howard REBOUND (Off:3 Def:2),,,,
+0020401221,261,1,65,3,8:36 PM,6:39,Howard 7' Jump Hook Shot (12 PTS),,,62 - 65,3
+0020401221,262,5,2,3,8:37 PM,6:22,Francis STEAL (1 STL),,Anderson Lost Ball Turnover (P4.T15),,
+0020401221,263,1,1,3,8:37 PM,6:09,Francis 23' Jump Shot (11 PTS) (Nelson 2 AST),,,62 - 67,5
+0020401221,264,9,1,3,8:37 PM,6:00,,,Heat Timeout: Regular (Reg.3 Short 0),,
+0020401221,266,8,0,3,8:39 PM,6:00,SUB: Barrett FOR Nelson,,,,
+0020401221,267,8,0,3,8:39 PM,6:00,,,SUB: Dooling FOR Anderson,,
+0020401221,268,8,0,3,8:39 PM,6:00,,,SUB: Wright FOR Jones,,
+0020401221,269,1,66,3,8:40 PM,5:50,,,Wright 10' Jump Bank Shot (6 PTS),64 - 67,3
+0020401221,270,6,1,3,8:40 PM,5:35,,,Doleac P.FOUL (P2.T1),,
+0020401221,271,2,65,3,8:40 PM,5:20,MISS Howard 7' Jump Hook Shot,,,,
+0020401221,272,4,0,3,8:40 PM,5:18,,,Doleac REBOUND (Off:0 Def:2),,
+0020401221,273,2,5,3,8:41 PM,5:07,,,MISS Doleac  Layup,,
+0020401221,274,4,0,3,8:41 PM,5:06,Battie REBOUND (Off:1 Def:5),,,,
+0020401221,275,6,2,3,8:41 PM,5:01,,,Butler S.FOUL (P1.T2),,
+0020401221,276,3,11,3,8:41 PM,5:01,Stevenson Free Throw 1 of 2 (10 PTS),,,64 - 68,4
+0020401221,277,8,0,3,8:41 PM,5:01,SUB: Hunter FOR Battie,,,,
+0020401221,278,3,12,3,8:41 PM,5:01,Stevenson Free Throw 2 of 2 (11 PTS),,,64 - 69,5
+0020401221,279,1,7,3,8:42 PM,4:50,,,Haslem  Dunk (8 PTS) (Butler 1 AST),66 - 69,3
+0020401221,280,1,1,3,8:42 PM,4:31,Barrett 25' 3PT Jump Shot (10 PTS),,,66 - 72,6
+0020401221,281,1,1,3,8:42 PM,4:12,,,Doleac 13' Jump Shot (6 PTS) (Wright 1 AST),68 - 72,4
+0020401221,282,2,63,3,8:43 PM,3:50,MISS Francis 11' Fadeaway Jumper,,,,
+0020401221,283,4,0,3,8:43 PM,3:47,MAGIC Rebound,,,,
+0020401221,284,5,1,3,8:43 PM,3:39,Barrett Bad Pass Turnover (P1.T11),,Wright STEAL (1 STL),,
+0020401221,285,5,2,3,8:43 PM,3:35,Barrett STEAL (1 STL),,Wright Lost Ball Turnover (P1.T16),,
+0020401221,286,2,5,3,8:43 PM,3:29,MISS Stevenson  Layup,,Butler BLOCK (1 BLK),,
+0020401221,287,4,0,3,8:43 PM,3:29,MAGIC Rebound,,,,
+0020401221,288,5,1,3,8:44 PM,3:21,Stevenson Bad Pass Turnover (P2.T12),,Wright STEAL (2 STL),,
+0020401221,289,1,8,3,8:44 PM,3:16,,,Haslem  Slam Dunk (10 PTS) (Wright 2 AST),70 - 72,2
+0020401221,290,9,2,3,8:44 PM,3:09,MAGIC Timeout: Short (Full 2 Short 1),,,,
+0020401221,292,1,1,3,8:45 PM,2:56,Francis 20' Jump Shot (13 PTS),,,70 - 74,4
+0020401221,293,2,1,3,8:46 PM,2:40,,,MISS Wright 14' Jump Shot,,
+0020401221,294,4,0,3,8:46 PM,2:38,,,Doleac REBOUND (Off:1 Def:2),,
+0020401221,295,2,44,3,8:46 PM,2:22,,,MISS Butler  Reverse Layup,,
+0020401221,296,4,0,3,8:46 PM,2:21,Francis REBOUND (Off:0 Def:4),,,,
+0020401221,297,6,2,3,8:46 PM,2:13,,,Butler S.FOUL (P2.T3),,
+0020401221,298,9,1,3,8:46 PM,2:13,MAGIC Timeout: Regular (Full 3 Short 1),,,,
+0020401221,302,3,11,3,8:49 PM,2:13,Howard Free Throw 1 of 2 (13 PTS),,,70 - 75,5
+0020401221,303,3,12,3,8:49 PM,2:13,Howard Free Throw 2 of 2 (14 PTS),,,70 - 76,6
+0020401221,304,2,5,3,8:50 PM,2:01,Howard BLOCK (1 BLK),,MISS Butler  Layup,,
+0020401221,305,4,0,3,8:50 PM,1:59,,,Butler REBOUND (Off:2 Def:2),,
+0020401221,306,2,1,3,8:50 PM,1:57,,,MISS Butler 11' Jump Shot,,
+0020401221,307,4,0,3,8:50 PM,1:54,Stevenson REBOUND (Off:0 Def:3),,,,
+0020401221,308,2,1,3,8:50 PM,1:50,MISS Francis 21' Jump Shot,,,,
+0020401221,309,4,0,3,8:50 PM,1:47,Howard REBOUND (Off:4 Def:2),,,,
+0020401221,310,6,1,3,8:50 PM,1:46,,,Haslem P.FOUL (P2.T4),,
+0020401221,311,8,0,3,8:50 PM,1:46,SUB: Kasun FOR Howard,,,,
+0020401221,312,6,4,3,8:50 PM,1:38,Hunter OFF.Foul (P2),,,,
+0020401221,313,5,5,3,8:50 PM,1:38,Hunter Foul Turnover (P1.T13),,,,
+0020401221,314,2,1,3,8:51 PM,1:23,,,MISS Wright 25' 3PT Jump Shot,,
+0020401221,315,4,0,3,8:51 PM,1:21,Barrett REBOUND (Off:0 Def:1),,,,
+0020401221,316,1,1,3,8:51 PM,1:12,Francis 20' Jump Shot (15 PTS),,,70 - 78,8
+0020401221,317,2,1,3,8:52 PM,0:45,,,MISS Butler 13' Jump Shot,,
+0020401221,318,4,0,3,8:52 PM,0:43,,,Doleac REBOUND (Off:2 Def:2),,
+0020401221,319,6,1,3,8:52 PM,0:41,Barrett P.FOUL (P1.T3),,,,
+0020401221,320,1,5,3,8:52 PM,0:28,,,Haslem  Layup (12 PTS) (Doleac 2 AST),72 - 78,6
+0020401221,321,5,2,3,8:53 PM,0:19,Francis Lost Ball Turnover (P6.T14),,Wright STEAL (3 STL),,
+0020401221,322,6,9,3,8:53 PM,0:18,Francis C.P.FOUL (P4.PN),,,,
+0020401221,323,3,17,3,8:53 PM,0:18,,,Wright Free Throw Clear Path (7 PTS),73 - 78,5
+0020401221,324,8,0,3,8:53 PM,0:18,SUB: Jones FOR Francis,,,,
+0020401221,325,1,47,3,8:54 PM,0:00,,,Dooling 10' Turnaround Jump Shot (13 PTS),75 - 78,3
+0020401221,326,13,0,3,8:54 PM,0:00,,,,75 - 78,3
+0020401221,328,12,0,4,8:57 PM,12:00,,,,75 - 78,3
+0020401221,329,6,1,4,8:57 PM,11:41,Barrett P.FOUL (P2.T1),,,,
+0020401221,330,3,11,4,8:57 PM,11:41,,,Dooling Free Throw 1 of 2 (14 PTS),76 - 78,2
+0020401221,331,8,0,4,8:57 PM,11:41,SUB: Nelson FOR Stevenson,,,,
+0020401221,332,3,12,4,8:58 PM,11:41,,,Dooling Free Throw 2 of 2 (15 PTS),77 - 78,1
+0020401221,333,5,1,4,8:58 PM,11:29,Barrett Bad Pass Turnover (P2.T15),,Laettner STEAL (2 STL),,
+0020401221,334,6,2,4,8:58 PM,11:13,Kasun S.FOUL (P2.T2),,,,
+0020401221,335,3,11,4,8:58 PM,11:13,,,MISS Mourning Free Throw 1 of 2,,
+0020401221,336,4,1,4,8:58 PM,11:13,,,Heat Rebound,,
+0020401221,337,8,0,4,8:59 PM,11:13,SUB: Battie FOR Hunter,,,,
+0020401221,338,3,12,4,8:59 PM,11:13,,,MISS Mourning Free Throw 2 of 2,,
+0020401221,339,4,0,4,8:59 PM,11:12,Kasun REBOUND (Off:3 Def:1),,,,
+0020401221,340,2,1,4,8:59 PM,10:49,MISS Barrett 25' 3PT Jump Shot,,,,
+0020401221,341,4,0,4,8:59 PM,10:48,MAGIC Rebound,,,,
+0020401221,342,5,11,4,8:59 PM,10:48,MAGIC Turnover: Shot Clock (T#16),,,,
+0020401221,343,6,2,4,9:00 PM,10:37,Battie S.FOUL (P3.T3),,,,
+0020401221,344,3,11,4,9:00 PM,10:37,,,MISS Mourning Free Throw 1 of 2,,
+0020401221,345,4,1,4,9:00 PM,10:37,,,Heat Rebound,,
+0020401221,346,3,12,4,9:00 PM,10:37,,,Mourning Free Throw 2 of 2 (9 PTS),78 - 78,TIE
+0020401221,347,2,1,4,9:01 PM,10:27,MISS Nelson 21' Jump Shot,,,,
+0020401221,348,4,0,4,9:01 PM,10:25,,,Laettner REBOUND (Off:0 Def:1),,
+0020401221,349,5,1,4,9:01 PM,10:23,,,Laettner Bad Pass Turnover (P4.T17),,
+0020401221,350,8,0,4,9:01 PM,10:23,SUB: Francis FOR Barrett,,,,
+0020401221,351,2,1,4,9:01 PM,10:08,MISS Jones  3PT Jump Shot,,,,
+0020401221,352,4,0,4,9:01 PM,10:07,MAGIC Rebound,,,,
+0020401221,353,1,1,4,9:02 PM,10:01,Francis  3PT Jump Shot (18 PTS) (Nelson 3 AST),,,78 - 81,3
+0020401221,354,2,1,4,9:02 PM,9:36,,,MISS Smith 25' 3PT Jump Shot,,
+0020401221,355,4,0,4,9:02 PM,9:34,Battie REBOUND (Off:1 Def:6),,,,
+0020401221,356,2,1,4,9:03 PM,9:18,MISS Nelson 19' Jump Shot,,,,
+0020401221,357,4,0,4,9:03 PM,9:14,Kasun REBOUND (Off:4 Def:1),,,,
+0020401221,358,1,5,4,9:03 PM,9:12,Kasun  Layup (5 PTS),,,78 - 83,5
+0020401221,359,1,1,4,9:03 PM,8:57,,,Laettner 18' Jump Shot (6 PTS) (Dooling 5 AST),80 - 83,3
+0020401221,360,2,1,4,9:03 PM,8:45,MISS Francis 22' Jump Shot,,,,
+0020401221,361,4,0,4,9:03 PM,8:42,,,Smith REBOUND (Off:0 Def:2),,
+0020401221,362,1,1,4,9:03 PM,8:32,,,Dooling 23' Jump Shot (17 PTS),82 - 83,1
+0020401221,363,9,1,4,9:03 PM,8:25,MAGIC Timeout: Regular (Full 4 Short 1),,,,
+0020401221,365,8,0,4,9:06 PM,8:25,SUB: Howard FOR Kasun,,,,
+0020401221,366,8,0,4,9:06 PM,8:25,SUB: Stevenson FOR Jones,,,,
+0020401221,367,8,0,4,9:06 PM,8:25,,,SUB: Doleac FOR Mourning,,
+0020401221,368,8,0,4,9:06 PM,8:25,,,SUB: Butler FOR Wright,,
+0020401221,369,1,66,4,9:06 PM,8:10,Francis 21' Jump Bank Shot (20 PTS),,,82 - 85,3
+0020401221,370,2,1,4,9:07 PM,7:51,,,MISS Butler  3PT Jump Shot,,
+0020401221,371,4,0,4,9:07 PM,7:49,Stevenson REBOUND (Off:0 Def:4),,,,
+0020401221,372,6,1,4,9:07 PM,7:36,,,Doleac P.FOUL (P3.T1),,
+0020401221,373,3,11,4,9:07 PM,7:36,Howard Free Throw 1 of 2 (15 PTS),,,82 - 86,4
+0020401221,374,3,12,4,9:07 PM,7:36,Howard Free Throw 2 of 2 (16 PTS),,,82 - 87,5
+0020401221,375,2,5,4,9:08 PM,7:31,Battie BLOCK (1 BLK),,MISS Laettner  Layup,,
+0020401221,376,4,0,4,9:08 PM,7:30,,,Heat Rebound,,
+0020401221,377,6,1,4,9:09 PM,7:16,Nelson P.FOUL (P1.T4),,,,
+0020401221,378,2,1,4,9:09 PM,7:09,,,MISS Dooling 20' Jump Shot,,
+0020401221,379,4,0,4,9:09 PM,7:07,Battie REBOUND (Off:1 Def:7),,,,
+0020401221,380,6,1,4,9:09 PM,7:00,,,Doleac P.FOUL (P4.T2),,
+0020401221,381,2,1,4,9:10 PM,6:42,MISS Francis  3PT Jump Shot,,Butler BLOCK (2 BLK),,
+0020401221,382,4,0,4,9:10 PM,6:42,MAGIC Rebound,,,,
+0020401221,383,5,11,4,9:10 PM,6:42,MAGIC Turnover: Shot Clock (T#17),,,,
+0020401221,384,2,1,4,9:10 PM,6:31,,,MISS Doleac 21' Jump Shot,,
+0020401221,385,4,0,4,9:10 PM,6:29,Francis REBOUND (Off:0 Def:5),,,,
+0020401221,387,2,40,4,9:10 PM,6:20,MISS Howard  Layup,,,,
+0020401221,397,4,0,4,9:10 PM,6:20,MAGIC Rebound,,,,
+0020401221,386,5,15,4,9:10 PM,6:20,Howard Offensive Goaltending Turnover (P2.T18),,,,
+0020401221,388,5,2,4,9:11 PM,6:10,Battie STEAL (3 STL),,Doleac Lost Ball Turnover (P1.T18),,
+0020401221,389,2,1,4,9:11 PM,5:57,MISS Nelson 25' 3PT Jump Shot,,,,
+0020401221,391,4,0,4,9:11 PM,5:55,,,Smith REBOUND (Off:0 Def:3),,
+0020401221,392,1,5,4,9:11 PM,5:48,,,Laettner  Layup (8 PTS) (Smith 2 AST),84 - 87,3
+0020401221,393,1,7,4,9:11 PM,5:31,Howard  Dunk (18 PTS) (Battie 1 AST),,,84 - 89,5
+0020401221,395,6,2,4,9:11 PM,5:31,,,Butler S.FOUL (P3.T3),,
+0020401221,396,9,4,4,9:11 PM,5:31,,,,,
+0020401221,402,3,10,4,9:14 PM,5:31,Howard Free Throw 1 of 1 (19 PTS),,,84 - 90,6
+0020401221,404,1,47,4,9:14 PM,5:12,,,Smith 11' Turnaround Jump Shot (4 PTS),86 - 90,4
+0020401221,405,5,2,4,9:15 PM,4:58,Howard Lost Ball Turnover (P3.T19),,Dooling STEAL (1 STL),,
+0020401221,406,1,49,4,9:15 PM,4:58,,,Dooling  Driving Dunk (19 PTS),88 - 90,2
+0020401221,407,2,1,4,9:15 PM,4:38,MISS Stevenson 25' 3PT Jump Shot,,,,
+0020401221,408,4,0,4,9:15 PM,4:36,,,Butler REBOUND (Off:2 Def:3),,
+0020401221,409,6,1,4,9:16 PM,4:24,Stevenson P.FOUL (P3.PN),,,,
+0020401221,410,8,0,4,9:16 PM,4:24,,,SUB: Wright FOR Butler,,
+0020401221,411,3,11,4,9:16 PM,4:24,,,Smith Free Throw 1 of 2 (5 PTS),89 - 90,1
+0020401221,412,3,12,4,9:16 PM,4:24,,,Smith Free Throw 2 of 2 (6 PTS),90 - 90,TIE
+0020401221,413,5,39,4,9:17 PM,4:07,Francis Step Out of Bounds Turnover (P7.T20),,,,
+0020401221,414,6,1,4,9:17 PM,3:57,Stevenson P.FOUL (P4.PN),,,,
+0020401221,415,3,11,4,9:17 PM,3:57,,,Doleac Free Throw 1 of 2 (7 PTS),91 - 90,-1
+0020401221,416,3,12,4,9:18 PM,3:57,,,Doleac Free Throw 2 of 2 (8 PTS),92 - 90,-2
+0020401221,417,6,1,4,9:18 PM,3:47,,,Smith P.FOUL (P2.T4),,
+0020401221,418,2,1,4,9:18 PM,3:34,MISS Nelson 22' Jump Shot,,,,
+0020401221,419,4,0,4,9:18 PM,3:32,,,Doleac REBOUND (Off:2 Def:3),,
+0020401221,420,2,1,4,9:19 PM,3:08,,,MISS Wright 25' 3PT Jump Shot,,
+0020401221,421,4,0,4,9:19 PM,3:08,,,Heat Rebound,,
+0020401221,422,5,11,4,9:19 PM,3:08,,,Heat Turnover: Shot Clock (T#19),,
+0020401221,423,5,2,4,9:19 PM,2:58,Nelson Lost Ball Turnover (P3.T21),,Dooling STEAL (2 STL),,
+0020401221,424,2,1,4,9:20 PM,2:40,,,MISS Doleac 18' Jump Shot,,
+0020401221,425,4,0,4,9:20 PM,2:38,Stevenson REBOUND (Off:0 Def:5),,,,
+0020401221,426,2,1,4,9:20 PM,2:18,MISS Howard 17' Jump Shot,,,,
+0020401221,427,4,0,4,9:20 PM,2:16,Nelson REBOUND (Off:1 Def:1),,,,
+0020401221,428,2,5,4,9:20 PM,2:10,MISS Francis  Layup,,,,
+0020401221,429,4,0,4,9:20 PM,2:08,,,Laettner REBOUND (Off:0 Def:2),,
+0020401221,430,1,1,4,9:20 PM,1:48,,,Laettner 23' Jump Shot (10 PTS) (Smith 3 AST),94 - 90,-4
+0020401221,431,9,1,4,9:21 PM,1:44,MAGIC Timeout: Regular (Full 5 Short 1),,,,
+0020401221,433,2,1,4,9:23 PM,1:27,MISS Nelson 23' Jump Shot,,,,
+0020401221,434,4,0,4,9:23 PM,1:27,MAGIC Rebound,,,,
+0020401221,435,6,3,4,9:23 PM,1:27,,,Laettner L.B.FOUL (P2.PN),,
+0020401221,437,3,11,4,9:23 PM,1:27,Howard Free Throw 1 of 2 (20 PTS),,,94 - 91,-3
+0020401221,438,3,12,4,9:24 PM,1:27,Howard Free Throw 2 of 2 (21 PTS),,,94 - 92,-2
+0020401221,439,5,2,4,9:24 PM,1:09,Francis STEAL (2 STL),,Dooling Lost Ball Turnover (P3.T20),,
+0020401221,440,5,1,4,9:24 PM,1:06,Howard Bad Pass Turnover (P4.T22),,Doleac STEAL (1 STL),,
+0020401221,441,1,1,4,9:25 PM,0:48,,,Laettner 17' Jump Shot (12 PTS),96 - 92,-4
+0020401221,442,6,1,4,9:25 PM,0:39,,,Dooling P.FOUL (P3.PN),,
+0020401221,444,3,11,4,9:25 PM,0:39,MISS Francis Free Throw 1 of 2,,,,
+0020401221,445,4,1,4,9:25 PM,0:39,MAGIC Rebound,,,,
+0020401221,446,3,12,4,9:25 PM,0:39,Francis Free Throw 2 of 2 (21 PTS),,,96 - 93,-3
+0020401221,447,5,2,4,9:26 PM,0:17,Stevenson STEAL (2 STL),,Dooling Lost Ball Turnover (P4.T21),,
+0020401221,448,2,5,4,9:26 PM,0:12,MISS Nelson  Layup,,,,
+0020401221,449,4,0,4,9:26 PM,0:11,,,Laettner REBOUND (Off:0 Def:3),,
+0020401221,450,6,1,4,9:26 PM,0:11,Nelson P.FOUL (P2.PN),,,,
+0020401221,451,3,11,4,9:27 PM,0:11,,,Laettner Free Throw 1 of 2 (13 PTS),97 - 93,-4
+0020401221,452,3,12,4,9:27 PM,0:11,,,Laettner Free Throw 2 of 2 (14 PTS),98 - 93,-5
+0020401221,453,9,1,4,9:27 PM,0:11,MAGIC Timeout: Regular (Full 6 Short 1),,,,
+0020401221,455,2,1,4,9:29 PM,0:08,MISS Stevenson 25' 3PT Jump Shot,,,,
+0020401221,456,4,0,4,9:29 PM,0:06,,,Doleac REBOUND (Off:2 Def:4),,
+0020401221,457,13,0,4,9:29 PM,0:00,,,,98 - 93,-5

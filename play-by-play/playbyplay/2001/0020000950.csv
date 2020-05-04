@@ -1,0 +1,421 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020000950,0,12,0,1,2:10 PM,12:00,,,,,
+0020000950,1,10,0,1,2:11 PM,12:00,Jump Ball Sabonis vs. Polynice: Tip to Wallace,,,,
+0020000950,2,2,1,1,2:11 PM,11:45,MISS Wallace 20' Jump Shot,,,,
+0020000950,3,4,0,1,2:12 PM,11:43,Sabonis REBOUND (Off:1 Def:0),,,,
+0020000950,4,1,7,1,2:12 PM,11:42,Sabonis  Dunk (2 PTS),,,0 - 2,2
+0020000950,5,1,1,1,2:12 PM,11:19,,,Malone 19' Jump Shot (2 PTS) (Stockton 1 AST),2 - 2,TIE
+0020000950,6,2,1,1,2:12 PM,11:00,MISS Wells 9' Jump Shot,,,,
+0020000950,7,4,0,1,2:12 PM,10:58,TRAIL BLAZERS Rebound,,,,
+0020000950,8,1,46,1,2:13 PM,10:54,Stoudamire 15' Running Jump Shot (2 PTS),,,2 - 4,2
+0020000950,9,2,1,1,2:13 PM,10:36,,,MISS Stockton 17' Jump Shot,,
+0020000950,10,4,0,1,2:13 PM,10:34,Wells REBOUND (Off:0 Def:1),,,,
+0020000950,11,1,7,1,2:13 PM,10:31,Pippen  Dunk (2 PTS) (Stoudamire 1 AST),,,2 - 6,4
+0020000950,12,1,5,1,2:13 PM,10:03,,,Marshall  Layup (2 PTS) (Malone 1 AST),4 - 6,2
+0020000950,13,1,59,1,2:14 PM,9:40,Wells  Finger Roll (2 PTS),,,4 - 8,4
+0020000950,14,2,1,1,2:14 PM,9:21,,,MISS Marshall 21' Jump Shot,,
+0020000950,15,4,0,1,2:14 PM,9:19,,,Malone REBOUND (Off:1 Def:0),,
+0020000950,16,5,8,1,2:14 PM,9:10,,,Malone 3 Second Violation Turnover (P1.T1),,
+0020000950,17,1,1,1,2:15 PM,8:56,Sabonis 19' Jump Shot (4 PTS) (Pippen 1 AST),,,4 - 10,6
+0020000950,18,2,1,1,2:15 PM,8:38,,,MISS Starks 20' Jump Shot,,
+0020000950,19,4,0,1,2:15 PM,8:37,Sabonis REBOUND (Off:1 Def:1),,,,
+0020000950,20,7,6,1,2:15 PM,8:32,,,Marshall Violation:Double Lane,,
+0020000950,21,5,1,1,2:16 PM,8:16,Pippen Bad Pass Turnover (P1.T1),,Polynice STEAL (1 STL),,
+0020000950,22,1,1,1,2:16 PM,7:57,,,Marshall 24' 3PT Jump Shot (5 PTS) (Starks 1 AST),7 - 10,3
+0020000950,23,6,2,1,2:17 PM,7:41,,,Polynice S.FOUL (P1.T1),,
+0020000950,24,3,11,1,2:17 PM,7:41,Sabonis Free Throw 1 of 2 (5 PTS),,,7 - 11,4
+0020000950,25,3,12,1,2:17 PM,7:41,Sabonis Free Throw 2 of 2 (6 PTS),,,7 - 12,5
+0020000950,26,5,2,1,2:17 PM,7:31,Pippen STEAL (1 STL),,Marshall Lost Ball Turnover (P1.T2),,
+0020000950,27,1,49,1,2:17 PM,7:27,Pippen  Driving Dunk (4 PTS),,,7 - 14,7
+0020000950,28,6,1,1,2:18 PM,7:10,Stoudamire P.FOUL (P1.T1),,,,
+0020000950,29,2,1,1,2:18 PM,7:02,,,MISS Stockton 24' 3PT Jump Shot,,
+0020000950,30,4,0,1,2:18 PM,7:00,Pippen REBOUND (Off:0 Def:1),,,,
+0020000950,31,5,1,1,2:18 PM,6:55,Pippen Bad Pass Turnover (P2.T2),,Starks STEAL (1 STL),,
+0020000950,32,5,2,1,2:18 PM,6:50,,,Starks Lost Ball Turnover (P1.T3),,
+0020000950,33,2,47,1,2:19 PM,6:36,MISS Wallace 10' Turnaround Jump Shot,,,,
+0020000950,34,4,0,1,2:19 PM,6:33,,,Polynice REBOUND (Off:0 Def:1),,
+0020000950,35,6,2,1,2:19 PM,6:26,Wallace S.FOUL (P1.T2),,,,
+0020000950,36,3,11,1,2:19 PM,6:26,,,MISS Marshall Free Throw 1 of 2,,
+0020000950,37,4,1,1,2:19 PM,6:26,,,Jazz Rebound,,
+0020000950,38,3,12,1,2:19 PM,6:26,,,Marshall Free Throw 2 of 2 (6 PTS),8 - 14,6
+0020000950,39,5,1,1,2:20 PM,6:12,Pippen Bad Pass Turnover (P3.T3),,Marshall STEAL (1 STL),,
+0020000950,40,5,1,1,2:20 PM,5:56,Wells STEAL (1 STL),,Marshall Bad Pass Turnover (P2.T4),,
+0020000950,41,2,1,1,2:20 PM,5:49,MISS Pippen 25' 3PT Jump Shot,,,,
+0020000950,42,4,0,1,2:20 PM,5:47,Stoudamire REBOUND (Off:1 Def:0),,,,
+0020000950,43,5,1,1,2:20 PM,5:36,Sabonis Bad Pass Turnover (P1.T4),,Starks STEAL (2 STL),,
+0020000950,44,1,5,1,2:20 PM,5:32,,,Stockton  Layup (2 PTS) (Starks 2 AST),10 - 14,4
+0020000950,45,2,1,1,2:21 PM,5:24,MISS Stoudamire 20' Jump Shot,,,,
+0020000950,46,4,0,1,2:21 PM,5:22,,,Malone REBOUND (Off:1 Def:1),,
+0020000950,47,1,5,1,2:21 PM,5:19,,,Starks  Layup (2 PTS) (Malone 2 AST),12 - 14,2
+0020000950,48,5,2,1,2:21 PM,4:55,Wallace Lost Ball Turnover (P1.T5),,Starks STEAL (3 STL),,
+0020000950,49,1,1,1,2:21 PM,4:50,,,Stockton 25' 3PT Jump Shot (5 PTS),15 - 14,-1
+0020000950,50,9,1,1,2:21 PM,4:46,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,
+0020000950,52,8,0,1,2:23 PM,4:46,,,SUB: Vaughn FOR Stockton,,
+0020000950,53,1,1,1,2:24 PM,4:27,Sabonis 19' Jump Shot (8 PTS) (Stoudamire 2 AST),,,15 - 16,1
+0020000950,54,5,1,1,2:24 PM,4:24,,,Malone Bad Pass Turnover (P2.T5),,
+0020000950,55,2,42,1,2:24 PM,4:00,MISS Pippen  Driving Layup,,,,
+0020000950,56,4,0,1,2:25 PM,3:59,,,Marshall REBOUND (Off:0 Def:1),,
+0020000950,57,2,5,1,2:25 PM,3:45,,,MISS Polynice  Layup,,
+0020000950,58,4,0,1,2:25 PM,3:43,Wallace REBOUND (Off:0 Def:1),,,,
+0020000950,59,1,5,1,2:25 PM,3:39,Wells  Layup (4 PTS) (Stoudamire 3 AST),,,15 - 18,3
+0020000950,60,8,0,1,2:25 PM,3:18,,,SUB: Ostertag FOR Polynice,,
+0020000950,61,8,0,1,2:25 PM,3:18,,,SUB: Russell FOR Marshall,,
+0020000950,62,5,1,1,2:26 PM,3:12,Stoudamire STEAL (1 STL),,Starks Bad Pass Turnover (P2.T6),,
+0020000950,63,2,42,1,2:26 PM,3:09,MISS Stoudamire  Driving Layup,,,,
+0020000950,64,4,0,1,2:26 PM,3:06,,,Starks REBOUND (Off:0 Def:1),,
+0020000950,65,7,6,1,2:26 PM,2:54,Pippen Violation:Double Lane,,,,
+0020000950,66,9,1,1,2:26 PM,2:54,,,Jazz Timeout: Regular (Reg.1 Short 0),,
+0020000950,68,8,0,1,2:28 PM,2:54,SUB: Davis FOR Wallace,,,,
+0020000950,69,8,0,1,2:28 PM,2:54,SUB: Strickland FOR Stoudamire,,,,
+0020000950,70,5,1,1,2:28 PM,2:43,Pippen STEAL (2 STL),,Malone Bad Pass Turnover (P3.T7),,
+0020000950,71,6,1,1,2:29 PM,2:33,,,Vaughn P.FOUL (P1.T2),,
+0020000950,72,6,4,1,2:29 PM,2:28,Wells OFF.Foul (P1),,,,
+0020000950,73,5,5,1,2:29 PM,2:28,Wells Foul Turnover (P1.T6),,,,
+0020000950,74,8,0,1,2:29 PM,2:28,SUB: Smith FOR Pippen,,,,
+0020000950,75,2,5,1,2:30 PM,2:14,Sabonis BLOCK (1 BLK),,MISS Russell  Layup,,
+0020000950,76,4,0,1,2:30 PM,2:12,Strickland REBOUND (Off:0 Def:1),,,,
+0020000950,77,6,1,1,2:30 PM,1:59,,,Malone P.FOUL (P1.T3),,
+0020000950,78,5,11,1,2:30 PM,1:44,TRAIL BLAZERS Turnover: Shot Clock (T#7),,,,
+0020000950,79,2,1,1,2:31 PM,1:33,,,MISS Malone 20' Jump Shot,,
+0020000950,80,4,0,1,2:31 PM,1:32,Smith REBOUND (Off:0 Def:1),,,,
+0020000950,81,6,1,1,2:31 PM,1:23,,,Starks P.FOUL (P1.PN),,
+0020000950,82,3,11,1,2:31 PM,1:23,Wells Free Throw 1 of 2 (5 PTS),,,15 - 19,4
+0020000950,83,3,12,1,2:31 PM,1:23,Wells Free Throw 2 of 2 (6 PTS),,,15 - 20,5
+0020000950,84,8,0,1,2:32 PM,1:08,,,SUB: Manning FOR Malone,,
+0020000950,85,2,1,1,2:33 PM,1:01,,,MISS Vaughn 20' Jump Shot,,
+0020000950,86,4,0,1,2:33 PM,0:58,,,Jazz Rebound,,
+0020000950,87,2,1,1,2:33 PM,0:55,,,MISS Manning 22' Jump Shot,,
+0020000950,88,4,0,1,2:33 PM,0:51,Wells REBOUND (Off:0 Def:2),,,,
+0020000950,89,1,46,1,2:33 PM,0:46,Strickland 10' Running Jump Shot (2 PTS),,,15 - 22,7
+0020000950,90,1,1,1,2:33 PM,0:34,,,Vaughn 24' 3PT Jump Shot (3 PTS),18 - 22,4
+0020000950,91,5,8,1,2:34 PM,0:18,Davis 3 Second Violation Turnover (P1.T8),,,,
+0020000950,92,2,1,1,2:34 PM,0:04,,,MISS Starks  3PT Jump Shot,,
+0020000950,93,4,0,1,2:34 PM,0:02,TRAIL BLAZERS Rebound,,,,
+0020000950,94,5,1,1,2:34 PM,0:02,Sabonis Bad Pass Turnover (P2.T9),,Ostertag STEAL (1 STL),,
+0020000950,95,1,1,1,2:35 PM,0:00,,,Ostertag 42' 3PT Jump Shot (3 PTS),21 - 22,1
+0020000950,96,13,0,1,2:35 PM,0:00,,,,21 - 22,1
+0020000950,98,12,0,2,2:37 PM,12:00,,,,21 - 22,1
+0020000950,99,2,1,2,2:37 PM,11:39,,,MISS Benoit 17' Jump Shot,,
+0020000950,100,4,0,2,2:37 PM,11:37,Strickland REBOUND (Off:0 Def:2),,,,
+0020000950,101,2,1,2,2:38 PM,11:15,MISS Smith 26' 3PT Jump Shot,,,,
+0020000950,102,4,0,2,2:38 PM,11:13,,,Manning REBOUND (Off:0 Def:1),,
+0020000950,103,2,42,2,2:38 PM,11:02,,,MISS Manning  Driving Layup,,
+0020000950,104,4,0,2,2:38 PM,11:02,,,Jazz Rebound,,
+0020000950,105,6,3,2,2:38 PM,11:02,Davis L.B.FOUL (P1.T1),,,,
+0020000950,106,5,2,2,2:39 PM,10:48,Pippen STEAL (3 STL),,Russell Lost Ball Turnover (P1.T8),,
+0020000950,107,2,1,2,2:39 PM,10:41,MISS Davis 11' Jump Shot,,,,
+0020000950,108,4,0,2,2:39 PM,10:40,TRAIL BLAZERS Rebound,,,,
+0020000950,109,6,3,2,2:39 PM,10:40,,,Benoit L.B.FOUL (P1.T1),,
+0020000950,110,2,47,2,2:39 PM,10:29,MISS Wallace 10' Turnaround Jump Shot,,,,
+0020000950,111,4,0,2,2:39 PM,10:26,,,Benoit REBOUND (Off:0 Def:1),,
+0020000950,112,1,1,2,2:39 PM,10:17,,,Manning 19' Jump Shot (2 PTS) (Vaughn 1 AST),23 - 22,-1
+0020000950,113,1,1,2,2:40 PM,9:57,Pippen 18' Jump Shot (6 PTS) (Smith 1 AST),,,23 - 24,1
+0020000950,114,1,3,2,2:40 PM,9:36,,,Ostertag 8' Hook Shot (5 PTS) (Vaughn 2 AST),25 - 24,-1
+0020000950,115,1,47,2,2:41 PM,9:14,Wallace 10' Turnaround Jump Shot (2 PTS) (Smith 2 AST),,,25 - 26,1
+0020000950,116,6,2,2,2:41 PM,9:14,,,Manning S.FOUL (P1.T2),,
+0020000950,117,3,10,2,2:41 PM,9:14,Wallace Free Throw 1 of 1 (3 PTS),,,25 - 27,2
+0020000950,118,2,1,2,2:42 PM,8:58,,,MISS Manning 21' Jump Shot,,
+0020000950,119,4,0,2,2:42 PM,8:57,Smith REBOUND (Off:0 Def:2),,,,
+0020000950,120,6,1,2,2:42 PM,8:50,,,Benoit P.FOUL (P2.T3),,
+0020000950,121,9,4,2,2:42 PM,8:50,,,,,
+0020000950,123,8,0,2,2:44 PM,8:50,,,SUB: Stockton FOR Vaughn,,
+0020000950,124,5,8,2,2:45 PM,8:38,Wallace 3 Second Violation Turnover (P2.T10),,,,
+0020000950,125,5,1,2,2:45 PM,8:23,Pippen STEAL (4 STL),,Stockton Bad Pass Turnover (P1.T9),,
+0020000950,126,2,1,2,2:45 PM,8:06,MISS Wallace 13' Jump Shot,,,,
+0020000950,127,4,0,2,2:45 PM,8:05,,,Benoit REBOUND (Off:0 Def:2),,
+0020000950,128,2,1,2,2:45 PM,7:54,,,MISS Manning 21' Jump Shot,,
+0020000950,130,4,0,2,2:45 PM,7:52,,,Ostertag REBOUND (Off:1 Def:0),,
+0020000950,129,2,4,2,2:45 PM,7:52,,,MISS Ostertag  Tip Shot,,
+0020000950,131,4,0,2,2:46 PM,7:50,,,Russell REBOUND (Off:1 Def:0),,
+0020000950,132,2,1,2,2:46 PM,7:35,,,MISS Benoit 22' Jump Shot,,
+0020000950,133,4,0,2,2:46 PM,7:33,Smith REBOUND (Off:0 Def:3),,,,
+0020000950,134,6,1,2,2:46 PM,7:33,,,Benoit P.FOUL (P3.T4),,
+0020000950,135,8,0,2,2:46 PM,7:33,,,SUB: Marshall FOR Benoit,,
+0020000950,136,1,1,2,2:46 PM,7:14,Davis 17' Jump Shot (2 PTS) (Strickland 1 AST),,,25 - 29,4
+0020000950,137,1,1,2,2:47 PM,6:56,,,Marshall 22' Jump Shot (8 PTS) (Ostertag 1 AST),27 - 29,2
+0020000950,138,5,2,2,2:47 PM,6:40,Strickland Lost Ball Turnover (P1.T11),,Manning STEAL (1 STL),,
+0020000950,139,2,7,2,2:47 PM,6:33,Wallace BLOCK (1 BLK),,MISS Marshall  Dunk,,
+0020000950,140,4,0,2,2:47 PM,6:31,Strickland REBOUND (Off:0 Def:3),,,,
+0020000950,141,1,44,2,2:47 PM,6:20,Pippen  Reverse Layup (8 PTS),,,27 - 31,4
+0020000950,142,1,5,2,2:48 PM,6:00,,,Marshall  Layup (10 PTS),29 - 31,2
+0020000950,143,6,2,2,2:48 PM,6:00,Pippen S.FOUL (P1.T2),,,,
+0020000950,144,8,0,2,2:48 PM,6:00,SUB: Stoudamire FOR Strickland,,,,
+0020000950,145,8,0,2,2:48 PM,6:00,,,SUB: Malone FOR Ostertag,,
+0020000950,147,8,0,2,2:48 PM,6:00,SUB: Schrempf FOR Davis,,,,
+0020000950,148,3,10,2,2:48 PM,6:00,,,Marshall Free Throw 1 of 1 (11 PTS),30 - 31,1
+0020000950,149,1,1,2,2:49 PM,5:45,Pippen 22' Jump Shot (10 PTS),,,30 - 33,3
+0020000950,150,5,1,2,2:49 PM,5:31,Pippen STEAL (5 STL),,Malone Bad Pass Turnover (P4.T10),,
+0020000950,151,1,1,2,2:49 PM,5:23,Smith 24' 3PT Jump Shot (3 PTS),,,30 - 36,6
+0020000950,152,5,2,2,2:49 PM,5:01,Pippen STEAL (6 STL),,Marshall Lost Ball Turnover (P3.T11),,
+0020000950,153,9,1,2,2:50 PM,4:52,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,
+0020000950,155,2,1,2,2:52 PM,4:45,MISS Stoudamire 10' Jump Shot,,,,
+0020000950,156,4,0,2,2:52 PM,4:42,,,Malone REBOUND (Off:1 Def:2),,
+0020000950,157,5,1,2,2:53 PM,4:27,,,Malone Bad Pass Turnover (P5.T12),,
+0020000950,158,8,0,2,2:53 PM,4:27,,,SUB: Starks FOR Manning,,
+0020000950,159,6,1,2,2:53 PM,4:09,,,Russell P.FOUL (P1.PN),,
+0020000950,160,3,11,2,2:53 PM,4:09,Pippen Free Throw 1 of 2 (11 PTS),,,30 - 37,7
+0020000950,161,3,12,2,2:54 PM,4:09,Pippen Free Throw 2 of 2 (12 PTS),,,30 - 38,8
+0020000950,162,6,2,2,2:54 PM,3:50,Smith S.FOUL (P1.T3),,,,
+0020000950,163,3,11,2,2:55 PM,3:50,,,Starks Free Throw 1 of 2 (3 PTS),31 - 38,7
+0020000950,164,3,12,2,2:55 PM,3:50,,,Starks Free Throw 2 of 2 (4 PTS),32 - 38,6
+0020000950,165,2,1,2,2:55 PM,3:38,MISS Smith 25' 3PT Jump Shot,,,,
+0020000950,166,4,0,2,2:55 PM,3:35,,,Jazz Rebound,,
+0020000950,167,2,1,2,2:56 PM,3:19,,,MISS Starks 24' 3PT Jump Shot,,
+0020000950,169,4,0,2,2:56 PM,3:16,,,Marshall REBOUND (Off:1 Def:1),,
+0020000950,168,1,5,2,2:56 PM,3:16,,,Marshall  Layup (13 PTS),34 - 38,4
+0020000950,170,1,1,2,2:56 PM,2:59,Smith 24' 3PT Jump Shot (6 PTS) (Stoudamire 4 AST),,,34 - 41,7
+0020000950,171,2,3,2,2:57 PM,2:36,,,MISS Malone 9' Hook Shot,,
+0020000950,172,4,0,2,2:57 PM,2:33,Schrempf REBOUND (Off:0 Def:1),,,,
+0020000950,173,6,2,2,2:57 PM,2:15,,,Stockton S.FOUL (P1.PN),,
+0020000950,174,9,1,2,2:57 PM,2:15,,,Jazz Timeout: Regular (Reg.2 Short 0),,
+0020000950,176,3,11,2,3:00 PM,2:15,Pippen Free Throw 1 of 2 (13 PTS),,,34 - 42,8
+0020000950,177,3,12,2,3:00 PM,2:15,Pippen Free Throw 2 of 2 (14 PTS),,,34 - 43,9
+0020000950,178,1,1,2,3:00 PM,2:03,,,Russell 21' Jump Shot (2 PTS) (Stockton 2 AST),36 - 43,7
+0020000950,179,2,1,2,3:01 PM,1:41,MISS Smith  3PT Jump Shot,,,,
+0020000950,180,4,0,2,3:01 PM,1:38,Wallace REBOUND (Off:1 Def:1),,,,
+0020000950,181,1,1,2,3:01 PM,1:32,Schrempf 16' Jump Shot (2 PTS),,,36 - 45,9
+0020000950,182,1,1,2,3:01 PM,1:05,,,Russell 24' 3PT Jump Shot (5 PTS) (Malone 3 AST),39 - 45,6
+0020000950,183,2,1,2,3:02 PM,0:42,MISS Wallace 20' Jump Shot,,,,
+0020000950,184,4,0,2,3:02 PM,0:40,,,Malone REBOUND (Off:1 Def:3),,
+0020000950,185,1,1,2,3:02 PM,0:33,,,Russell  3PT Jump Shot (8 PTS) (Stockton 3 AST),42 - 45,3
+0020000950,186,2,1,2,3:02 PM,0:26,MISS Pippen 26' 3PT Jump Shot,,,,
+0020000950,187,4,0,2,3:02 PM,0:23,,,Stockton REBOUND (Off:0 Def:1),,
+0020000950,188,2,5,2,3:02 PM,0:20,,,MISS Malone  Layup,,
+0020000950,189,4,0,2,3:02 PM,0:16,Stoudamire REBOUND (Off:1 Def:1),,,,
+0020000950,190,6,1,2,3:02 PM,0:05,,,Russell P.FOUL (P2.PN),,
+0020000950,191,6,16,2,3:03 PM,0:05,,,,,
+0020000950,192,3,11,2,3:03 PM,0:05,Pippen Free Throw 1 of 2 (15 PTS),,,42 - 46,4
+0020000950,193,3,12,2,3:04 PM,0:05,Pippen Free Throw 2 of 2 (16 PTS),,,42 - 47,5
+0020000950,194,6,1,2,3:04 PM,0:00,Smith P.FOUL (P2.T4),,,,
+0020000950,195,5,1,2,3:04 PM,0:00,Smith STEAL (1 STL),,Russell Bad Pass Turnover (P2.T13),,
+0020000950,196,13,0,2,3:04 PM,0:00,,,,42 - 47,5
+0020000950,198,12,0,3,3:20 PM,12:00,,,,42 - 47,5
+0020000950,199,1,5,3,3:21 PM,11:44,,,Malone  Layup (4 PTS) (Stockton 4 AST),44 - 47,3
+0020000950,200,1,5,3,3:21 PM,11:28,Wallace  Layup (5 PTS) (Stoudamire 5 AST),,,44 - 49,5
+0020000950,201,1,1,3,3:21 PM,11:08,,,Marshall 21' Jump Shot (15 PTS),46 - 49,3
+0020000950,202,1,5,3,3:21 PM,10:54,Pippen  Layup (18 PTS),,,46 - 51,5
+0020000950,203,6,1,3,3:22 PM,10:36,Pippen P.FOUL (P2.T1),,,,
+0020000950,204,1,1,3,3:22 PM,10:25,,,Malone 21' Jump Shot (6 PTS) (Starks 3 AST),48 - 51,3
+0020000950,205,6,4,3,3:23 PM,10:06,Wells OFF.Foul (P2),,,,
+0020000950,206,5,5,3,3:23 PM,10:06,Wells Foul Turnover (P2.T12),,,,
+0020000950,207,6,1,3,3:23 PM,9:52,Wallace P.FOUL (P2.T2),,,,
+0020000950,208,1,5,3,3:24 PM,9:46,,,Malone  Layup (8 PTS) (Stockton 5 AST),50 - 51,1
+0020000950,209,6,2,3,3:24 PM,9:46,Wallace S.FOUL (P3.T3),,,,
+0020000950,210,3,10,3,3:24 PM,9:46,,,MISS Malone Free Throw 1 of 1,,
+0020000950,211,4,0,3,3:24 PM,9:45,Pippen REBOUND (Off:0 Def:2),,,,
+0020000950,212,1,5,3,3:24 PM,9:34,Wells  Layup (8 PTS) (Stoudamire 6 AST),,,50 - 53,3
+0020000950,213,2,1,3,3:25 PM,9:13,,,MISS Marshall 21' Jump Shot,,
+0020000950,214,4,0,3,3:25 PM,9:12,Wallace REBOUND (Off:1 Def:2),,,,
+0020000950,215,2,1,3,3:25 PM,9:05,MISS Pippen 25' 3PT Jump Shot,,,,
+0020000950,216,4,0,3,3:25 PM,9:01,,,Polynice REBOUND (Off:0 Def:2),,
+0020000950,217,2,5,3,3:25 PM,8:56,,,MISS Marshall  Layup,,
+0020000950,218,4,0,3,3:25 PM,8:53,,,Malone REBOUND (Off:2 Def:3),,
+0020000950,219,2,5,3,3:25 PM,8:37,Sabonis BLOCK (2 BLK),,MISS Marshall  Layup,,
+0020000950,220,4,0,3,3:25 PM,8:37,TRAIL BLAZERS Rebound,,,,
+0020000950,221,2,44,3,3:26 PM,8:22,MISS Pippen  Reverse Layup,,,,
+0020000950,222,4,0,3,3:26 PM,8:18,Pippen REBOUND (Off:1 Def:2),,,,
+0020000950,223,2,1,3,3:26 PM,8:14,MISS Sabonis 20' Jump Shot,,,,
+0020000950,224,4,0,3,3:26 PM,8:11,,,Malone REBOUND (Off:2 Def:4),,
+0020000950,225,2,1,3,3:26 PM,8:04,,,MISS Stockton 25' 3PT Jump Shot,,
+0020000950,227,4,0,3,3:26 PM,8:02,,,Marshall REBOUND (Off:2 Def:1),,
+0020000950,226,1,4,3,3:26 PM,8:02,,,Marshall  Tip Shot (17 PTS),52 - 53,1
+0020000950,228,6,1,3,3:26 PM,7:47,,,Polynice P.FOUL (P2.T1),,
+0020000950,229,2,1,3,3:27 PM,7:32,MISS Sabonis 9' Jump Shot,,,,
+0020000950,230,4,0,3,3:27 PM,7:30,,,Starks REBOUND (Off:0 Def:2),,
+0020000950,231,1,5,3,3:27 PM,7:24,,,Stockton  Layup (7 PTS) (Starks 4 AST),54 - 53,-1
+0020000950,232,6,1,3,3:27 PM,7:11,,,Polynice P.FOUL (P3.T2),,
+0020000950,233,6,2,3,3:28 PM,7:03,,,Polynice S.FOUL (P4.T3),,
+0020000950,234,8,0,3,3:28 PM,7:03,,,SUB: Ostertag FOR Polynice,,
+0020000950,235,3,11,3,3:28 PM,7:03,Sabonis Free Throw 1 of 2 (9 PTS),,,54 - 54,TIE
+0020000950,236,3,12,3,3:28 PM,7:03,Sabonis Free Throw 2 of 2 (10 PTS),,,54 - 55,1
+0020000950,237,7,2,3,3:29 PM,6:50,Pippen Violation:Defensive Goaltending,,,,
+0020000950,238,1,1,3,3:29 PM,6:38,,,Malone 19' Jump Shot (10 PTS) (Stockton 6 AST),56 - 55,-1
+0020000950,239,6,2,3,3:30 PM,6:23,,,Starks S.FOUL (P2.T4),,
+0020000950,240,3,11,3,3:30 PM,6:23,Wells Free Throw 1 of 2 (9 PTS),,,56 - 56,TIE
+0020000950,241,3,12,3,3:30 PM,6:23,MISS Wells Free Throw 2 of 2,,,,
+0020000950,242,4,0,3,3:30 PM,6:22,,,Ostertag REBOUND (Off:1 Def:1),,
+0020000950,243,2,1,3,3:30 PM,6:08,,,MISS Malone 11' Jump Shot,,
+0020000950,244,4,0,3,3:30 PM,6:06,,,Ostertag REBOUND (Off:2 Def:1),,
+0020000950,245,9,1,3,3:31 PM,6:03,,,Jazz Timeout: Regular (Reg.3 Short 0),,
+0020000950,247,2,1,3,3:33 PM,5:58,,,MISS Marshall 24' 3PT Jump Shot,,
+0020000950,248,4,0,3,3:33 PM,5:56,Sabonis REBOUND (Off:1 Def:2),,,,
+0020000950,249,1,3,3,3:33 PM,5:37,Sabonis 9' Hook Shot (12 PTS),,,56 - 58,2
+0020000950,250,2,1,3,3:34 PM,5:16,,,MISS Starks  3PT Jump Shot,,
+0020000950,251,4,0,3,3:34 PM,5:14,Wallace REBOUND (Off:1 Def:3),,,,
+0020000950,252,2,43,3,3:34 PM,5:10,MISS Wells  Alley Oop Layup,,,,
+0020000950,253,4,0,3,3:34 PM,5:08,,,Malone REBOUND (Off:2 Def:5),,
+0020000950,254,6,1,3,3:34 PM,5:04,Stoudamire P.FOUL (P2.T4),,,,
+0020000950,255,8,0,3,3:34 PM,5:04,,,SUB: Vaughn FOR Stockton,,
+0020000950,256,2,1,3,3:34 PM,4:52,,,MISS Starks 21' Jump Shot,,
+0020000950,257,4,0,3,3:34 PM,4:50,,,Marshall REBOUND (Off:3 Def:1),,
+0020000950,258,6,1,3,3:35 PM,4:49,Wallace P.FOUL (P4.PN),,,,
+0020000950,260,8,0,3,3:35 PM,4:49,SUB: Davis FOR Wallace,,,,
+0020000950,261,3,11,3,3:35 PM,4:49,,,Marshall Free Throw 1 of 2 (18 PTS),57 - 58,1
+0020000950,262,3,12,3,3:35 PM,4:49,,,Marshall Free Throw 2 of 2 (19 PTS),58 - 58,TIE
+0020000950,263,1,42,3,3:36 PM,4:29,Pippen 4' Driving Layup (20 PTS) (Stoudamire 7 AST),,,58 - 60,2
+0020000950,264,2,1,3,3:36 PM,4:04,,,MISS Marshall 25' 3PT Jump Shot,,
+0020000950,265,4,0,3,3:36 PM,4:03,,,Jazz Rebound,,
+0020000950,266,6,3,3,3:36 PM,4:03,Sabonis L.B.FOUL (P1.PN),,,,
+0020000950,267,3,11,3,3:37 PM,4:03,,,MISS Ostertag Free Throw 1 of 2,,
+0020000950,268,4,1,3,3:37 PM,4:03,,,Jazz Rebound,,
+0020000950,269,3,12,3,3:37 PM,4:03,,,MISS Ostertag Free Throw 2 of 2,,
+0020000950,270,4,0,3,3:37 PM,4:02,Sabonis REBOUND (Off:1 Def:3),,,,
+0020000950,271,2,1,3,3:38 PM,3:38,MISS Wells 25' 3PT Jump Shot,,,,
+0020000950,272,4,0,3,3:38 PM,3:38,,,Jazz Rebound,,
+0020000950,273,6,3,3,3:38 PM,3:38,Davis L.B.FOUL (P2.PN),,,,
+0020000950,274,3,11,3,3:38 PM,3:38,,,Marshall Free Throw 1 of 2 (20 PTS),59 - 60,1
+0020000950,275,3,12,3,3:38 PM,3:38,,,Marshall Free Throw 2 of 2 (21 PTS),60 - 60,TIE
+0020000950,276,1,46,3,3:39 PM,3:19,Wells 20' Running Jump Shot (11 PTS),,,60 - 62,2
+0020000950,277,6,2,3,3:39 PM,3:19,,,Starks S.FOUL (P3.PN),,
+0020000950,278,8,0,3,3:39 PM,3:19,,,SUB: Russell FOR Starks,,
+0020000950,279,3,10,3,3:39 PM,3:19,Wells Free Throw 1 of 1 (12 PTS),,,60 - 63,3
+0020000950,280,7,6,3,3:40 PM,3:04,Pippen Violation:Double Lane,,,,
+0020000950,281,2,1,3,3:40 PM,2:52,,,MISS Marshall 25' 3PT Jump Shot,,
+0020000950,282,4,0,3,3:40 PM,2:50,Davis REBOUND (Off:0 Def:1),,,,
+0020000950,283,1,1,3,3:41 PM,2:36,Sabonis 22' Jump Shot (14 PTS) (Wells 1 AST),,,60 - 65,5
+0020000950,284,1,46,3,3:41 PM,2:20,,,Malone 6' Running Jump Shot (12 PTS) (Russell 1 AST),62 - 65,3
+0020000950,285,6,2,3,3:41 PM,2:09,,,Russell S.FOUL (P3.PN),,
+0020000950,286,9,1,3,3:41 PM,2:09,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,,,
+0020000950,288,8,0,3,3:43 PM,2:09,,,SUB: Benoit FOR Marshall,,
+0020000950,289,3,11,3,3:44 PM,2:09,Wells Free Throw 1 of 2 (13 PTS),,,62 - 66,4
+0020000950,291,8,0,3,3:44 PM,2:09,SUB: Smith FOR Pippen,,,,
+0020000950,292,3,12,3,3:44 PM,2:09,MISS Wells Free Throw 2 of 2,,,,
+0020000950,293,4,0,3,3:44 PM,2:08,,,Benoit REBOUND (Off:0 Def:3),,
+0020000950,294,2,42,3,3:44 PM,1:50,,,MISS Russell  Driving Layup,,
+0020000950,295,4,0,3,3:44 PM,1:47,Wells REBOUND (Off:0 Def:3),,,,
+0020000950,296,2,1,3,3:45 PM,1:40,MISS Smith 25' 3PT Jump Shot,,,,
+0020000950,297,4,0,3,3:45 PM,1:38,,,Benoit REBOUND (Off:0 Def:4),,
+0020000950,298,1,43,3,3:45 PM,1:26,,,Ostertag  Alley Oop Layup (7 PTS) (Malone 4 AST),64 - 66,2
+0020000950,299,6,1,3,3:45 PM,1:12,,,Benoit P.FOUL (P4.PN),,
+0020000950,300,8,0,3,3:45 PM,1:12,,,SUB: Padgett FOR Benoit,,
+0020000950,301,3,11,3,3:46 PM,1:12,Wells Free Throw 1 of 2 (14 PTS),,,64 - 67,3
+0020000950,302,3,12,3,3:46 PM,1:12,Wells Free Throw 2 of 2 (15 PTS),,,64 - 68,4
+0020000950,303,6,4,3,3:47 PM,0:52,,,Ostertag OFF.Foul (P1),,
+0020000950,304,5,5,3,3:47 PM,0:52,,,Ostertag Foul Turnover (P1.T14),,
+0020000950,305,1,47,3,3:47 PM,0:40,Sabonis 17' Turnaround Jump Shot (16 PTS) (Smith 3 AST),,,64 - 70,6
+0020000950,306,2,1,3,3:47 PM,0:25,,,MISS Russell 25' 3PT Jump Shot,,
+0020000950,307,4,0,3,3:47 PM,0:22,Smith REBOUND (Off:0 Def:4),,,,
+0020000950,308,1,3,3,3:48 PM,0:01,Sabonis 6' Hook Shot (18 PTS) (Stoudamire 8 AST),,,64 - 72,8
+0020000950,309,13,0,3,3:48 PM,0:00,,,,64 - 72,8
+0020000950,311,12,0,4,3:51 PM,12:00,,,,64 - 72,8
+0020000950,312,2,1,4,3:51 PM,11:36,MISS Wells 20' Jump Shot,,,,
+0020000950,313,4,0,4,3:51 PM,11:36,TRAIL BLAZERS Rebound,,,,
+0020000950,314,5,11,4,3:51 PM,11:36,TRAIL BLAZERS Turnover: Shot Clock (T#13),,,,
+0020000950,315,6,1,4,3:51 PM,11:27,Wells P.FOUL (P3.T1),,,,
+0020000950,316,6,2,4,3:52 PM,11:17,Wallace S.FOUL (P5.T2),,,,
+0020000950,317,3,11,4,3:52 PM,11:17,,,Manning Free Throw 1 of 2 (3 PTS),65 - 72,7
+0020000950,318,8,0,4,3:52 PM,11:17,SUB: Schrempf FOR Wallace,,,,
+0020000950,319,8,0,4,3:52 PM,11:17,SUB: Pippen FOR Wells,,,,
+0020000950,320,3,12,4,3:53 PM,11:17,,,MISS Manning Free Throw 2 of 2,,
+0020000950,322,4,0,4,3:53 PM,11:16,,,Padgett REBOUND (Off:1 Def:0),,
+0020000950,321,1,4,4,3:53 PM,11:16,,,Padgett  Tip Shot (2 PTS),67 - 72,5
+0020000950,323,1,42,4,3:53 PM,10:56,Smith  Driving Layup (8 PTS),,,67 - 74,7
+0020000950,324,2,46,4,3:53 PM,10:33,,,MISS Manning 5' Running Jump Shot,,
+0020000950,325,4,0,4,3:53 PM,10:33,,,Jazz Rebound,,
+0020000950,326,6,3,4,3:53 PM,10:33,Davis L.B.FOUL (P3.T3),,,,
+0020000950,327,2,1,4,3:54 PM,10:20,,,MISS Padgett 12' Jump Shot,,
+0020000950,328,4,0,4,3:54 PM,10:19,TRAIL BLAZERS Rebound,,,,
+0020000950,329,6,1,4,3:54 PM,10:08,,,Padgett P.FOUL (P1.T1),,
+0020000950,330,8,0,4,3:54 PM,10:08,,,SUB: Stockton FOR Vaughn,,
+0020000950,331,5,2,4,3:55 PM,10:04,Schrempf Lost Ball Turnover (P1.T14),,Manning STEAL (2 STL),,
+0020000950,332,6,1,4,3:55 PM,10:04,Schrempf P.FOUL (P1.T4),,,,
+0020000950,333,2,1,4,3:55 PM,9:52,,,MISS Russell 18' Jump Shot,,
+0020000950,334,4,0,4,3:55 PM,9:52,TRAIL BLAZERS Rebound,,,,
+0020000950,335,6,2,4,3:56 PM,9:39,,,Padgett S.FOUL (P2.T2),,
+0020000950,336,3,11,4,3:56 PM,9:39,Smith Free Throw 1 of 2 (9 PTS),,,67 - 75,8
+0020000950,337,8,0,4,3:56 PM,9:39,,,SUB: Marshall FOR Padgett,,
+0020000950,338,3,12,4,3:56 PM,9:39,Smith Free Throw 2 of 2 (10 PTS),,,67 - 76,9
+0020000950,339,2,1,4,3:57 PM,9:24,Davis BLOCK (1 BLK),,MISS Ostertag 14' Jump Shot,,
+0020000950,340,4,0,4,3:57 PM,9:22,,,Stockton REBOUND (Off:1 Def:1),,
+0020000950,341,2,1,4,3:57 PM,9:20,,,MISS Stockton 19' Jump Shot,,
+0020000950,342,4,0,4,3:57 PM,9:18,Smith REBOUND (Off:0 Def:5),,,,
+0020000950,343,2,1,4,3:57 PM,9:11,MISS Davis 13' Jump Shot,,,,
+0020000950,344,4,0,4,3:57 PM,9:09,,,Russell REBOUND (Off:1 Def:1),,
+0020000950,345,5,2,4,3:57 PM,9:03,,,Marshall Lost Ball Turnover (P4.T15),,
+0020000950,346,6,4,4,3:57 PM,8:46,Strickland OFF.Foul (P1),,,,
+0020000950,347,5,5,4,3:57 PM,8:46,Strickland Foul Turnover (P2.T15),,,,
+0020000950,348,9,4,4,3:58 PM,8:46,,,,,
+0020000950,350,8,0,4,4:00 PM,8:46,,,SUB: Malone FOR Ostertag,,
+0020000950,351,5,2,4,4:00 PM,8:39,,,Manning Lost Ball Turnover (P1.T16),,
+0020000950,352,2,1,4,4:00 PM,8:25,MISS Schrempf 25' 3PT Jump Shot,,,,
+0020000950,353,4,0,4,4:00 PM,8:23,TRAIL BLAZERS Rebound,,,,
+0020000950,354,5,2,4,4:01 PM,8:10,Schrempf Lost Ball Turnover (P2.T16),,Manning STEAL (3 STL),,
+0020000950,355,6,1,4,4:01 PM,8:00,Schrempf P.FOUL (P2.PN),,,,
+0020000950,356,3,11,4,4:01 PM,8:00,,,Malone Free Throw 1 of 2 (13 PTS),68 - 76,8
+0020000950,357,3,12,4,4:01 PM,8:00,,,Malone Free Throw 2 of 2 (14 PTS),69 - 76,7
+0020000950,358,2,47,4,4:02 PM,7:37,MISS Smith 16' Turnaround Jump Shot,,,,
+0020000950,359,4,0,4,4:02 PM,7:34,Strickland REBOUND (Off:1 Def:3),,,,
+0020000950,360,1,1,4,4:02 PM,7:33,Schrempf 24' 3PT Jump Shot (5 PTS) (Strickland 2 AST),,,69 - 79,10
+0020000950,361,1,1,4,4:03 PM,7:18,,,Malone 19' Jump Shot (16 PTS) (Russell 2 AST),71 - 79,8
+0020000950,362,6,1,4,4:03 PM,6:55,,,Malone P.FOUL (P2.T3),,
+0020000950,363,6,1,4,4:04 PM,6:52,,,Stockton P.FOUL (P2.T4),,
+0020000950,364,1,1,4,4:04 PM,6:41,Schrempf 19' Jump Shot (7 PTS) (Strickland 3 AST),,,71 - 81,10
+0020000950,365,5,2,4,4:04 PM,6:19,,,Malone Lost Ball Turnover (P6.T17),,
+0020000950,366,2,1,4,4:05 PM,6:03,MISS Smith 5' Jump Shot,,Marshall BLOCK (1 BLK),,
+0020000950,367,4,0,4,4:05 PM,6:01,,,Stockton REBOUND (Off:1 Def:2),,
+0020000950,368,6,17,4,4:05 PM,5:52,TRAIL BLAZERS T.Foul (Def. 3 Sec Pippen ),,,,
+0020000950,369,9,1,4,4:06 PM,5:52,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,,,
+0020000950,371,3,16,4,4:08 PM,5:52,,,Stockton Free Throw Technical (8 PTS),72 - 81,9
+0020000950,372,1,1,4,4:08 PM,5:43,,,Malone 19' Jump Shot (18 PTS) (Stockton 7 AST),74 - 81,7
+0020000950,373,2,5,4,4:09 PM,5:26,MISS Pippen  Layup,,Malone BLOCK (1 BLK),,
+0020000950,374,4,0,4,4:09 PM,5:23,,,Manning REBOUND (Off:0 Def:2),,
+0020000950,375,6,17,4,4:09 PM,5:12,TRAIL BLAZERS T.Foul (Def. 3 Sec Pippen ),,,,
+0020000950,376,3,16,4,4:09 PM,5:12,,,Stockton Free Throw Technical (9 PTS),75 - 81,6
+0020000950,377,7,6,4,4:10 PM,5:03,Strickland Violation:Double Lane,,,,
+0020000950,378,2,5,4,4:10 PM,4:57,Schrempf BLOCK (1 BLK),,MISS Stockton  Layup,,
+0020000950,379,4,0,4,4:10 PM,4:54,Davis REBOUND (Off:0 Def:2),,,,
+0020000950,380,2,42,4,4:10 PM,4:49,MISS Strickland  Driving Layup,,,,
+0020000950,381,4,0,4,4:10 PM,4:46,,,Manning REBOUND (Off:0 Def:3),,
+0020000950,382,2,1,4,4:10 PM,4:30,,,MISS Manning 25' 3PT Jump Shot,,
+0020000950,383,4,0,4,4:10 PM,4:27,Davis REBOUND (Off:0 Def:3),,,,
+0020000950,384,5,2,4,4:11 PM,4:08,Smith Lost Ball Turnover (P1.T17),,Stockton STEAL (1 STL),,
+0020000950,385,5,2,4,4:11 PM,4:04,Strickland STEAL (1 STL),,Stockton Lost Ball Turnover (P2.T18),,
+0020000950,386,1,1,4,4:11 PM,3:59,Smith  3PT Jump Shot (13 PTS) (Davis 1 AST),,,75 - 84,9
+0020000950,387,6,1,4,4:11 PM,3:43,Davis P.FOUL (P4.PN),,,,
+0020000950,388,8,0,4,4:12 PM,3:43,SUB: Wallace FOR Schrempf,,,,
+0020000950,389,3,11,4,4:12 PM,3:43,,,Malone Free Throw 1 of 2 (19 PTS),76 - 84,8
+0020000950,390,8,0,4,4:12 PM,3:43,,,SUB: Starks FOR Manning,,
+0020000950,392,9,2,4,4:12 PM,3:43,TRAIL BLAZERS Timeout: Short (Full 4 Short 1),,,,
+0020000950,394,3,12,4,4:13 PM,3:43,,,Malone Free Throw 2 of 2 (20 PTS),77 - 84,7
+0020000950,395,2,1,4,4:14 PM,3:26,MISS Strickland 18' Jump Shot,,Stockton BLOCK (1 BLK),,
+0020000950,396,4,0,4,4:14 PM,3:22,,,Marshall REBOUND (Off:3 Def:2),,
+0020000950,397,6,4,4,4:14 PM,3:19,,,Russell OFF.Foul (P4),,
+0020000950,398,5,5,4,4:14 PM,3:19,,,Russell Foul Turnover (P3.T19),,
+0020000950,399,8,0,4,4:14 PM,3:19,SUB: Stoudamire FOR Strickland,,,,
+0020000950,400,2,1,4,4:15 PM,3:03,MISS Smith 25' 3PT Jump Shot,,,,
+0020000950,401,4,0,4,4:15 PM,3:00,,,Starks REBOUND (Off:0 Def:3),,
+0020000950,402,1,1,4,4:15 PM,2:54,,,Starks 24' 3PT Jump Shot (7 PTS) (Stockton 8 AST),80 - 84,4
+0020000950,403,1,5,4,4:15 PM,2:34,Wallace  Layup (7 PTS) (Stoudamire 9 AST),,,80 - 86,6
+0020000950,404,2,1,4,4:15 PM,2:15,,,MISS Starks 23' Jump Shot,,
+0020000950,405,4,0,4,4:15 PM,2:13,,,Malone REBOUND (Off:3 Def:5),,
+0020000950,406,1,1,4,4:15 PM,2:10,,,Malone 20' Jump Shot (22 PTS) (Stockton 9 AST),82 - 86,4
+0020000950,407,1,1,4,4:16 PM,1:44,Stoudamire 18' Jump Shot (4 PTS) (Wallace 1 AST),,,82 - 88,6
+0020000950,408,2,5,4,4:16 PM,1:28,,,MISS Malone  Layup,,
+0020000950,409,4,0,4,4:16 PM,1:27,,,Jazz Rebound,,
+0020000950,410,9,1,4,4:16 PM,1:27,,,Jazz Timeout: Regular (Reg.4 Short 0),,
+0020000950,412,2,47,4,4:19 PM,1:23,,,MISS Malone 18' Turnaround Jump Shot,,
+0020000950,413,4,0,4,4:19 PM,1:21,Smith REBOUND (Off:0 Def:6),,,,
+0020000950,414,2,1,4,4:19 PM,0:55,MISS Wallace 24' 3PT Jump Shot,,,,
+0020000950,415,4,0,4,4:19 PM,0:55,TRAIL BLAZERS Rebound,,,,
+0020000950,416,5,11,4,4:19 PM,0:55,TRAIL BLAZERS Turnover: Shot Clock (T#18),,,,
+0020000950,417,1,1,4,4:20 PM,0:46,,,Marshall 26' 3PT Jump Shot (24 PTS) (Stockton 10 AST),85 - 88,3
+0020000950,418,9,1,4,4:20 PM,0:25,TRAIL BLAZERS Timeout: Regular (Full 5 Short 1),,,,
+0020000950,420,2,1,4,4:22 PM,0:23,MISS Stoudamire  3PT Jump Shot,,,,
+0020000950,421,4,0,4,4:22 PM,0:20,,,Starks REBOUND (Off:0 Def:4),,
+0020000950,422,9,2,4,4:22 PM,0:20,,,Jazz Timeout: Short (Reg.4 Short 1),,
+0020000950,424,8,0,4,4:23 PM,0:20,SUB: Schrempf FOR Davis,,,,
+0020000950,425,8,0,4,4:23 PM,0:20,SUB: Wells FOR Stoudamire,,,,
+0020000950,426,6,2,4,4:24 PM,0:14,Pippen S.FOUL (P3.PN),,,,
+0020000950,427,8,0,4,4:24 PM,0:14,SUB: Stoudamire FOR Wells,,,,
+0020000950,428,3,11,4,4:24 PM,0:14,,,Russell Free Throw 1 of 2 (9 PTS),86 - 88,2
+0020000950,429,8,0,4,4:24 PM,0:14,SUB: Sabonis FOR Schrempf,,,,
+0020000950,430,3,12,4,4:25 PM,0:14,,,Russell Free Throw 2 of 2 (10 PTS),87 - 88,1
+0020000950,431,9,1,4,4:25 PM,0:14,TRAIL BLAZERS Timeout: Regular (Full 6 Short 1),,,,
+0020000950,433,6,1,4,4:27 PM,0:14,,,Starks P.FOUL (P4.PN),,
+0020000950,434,3,11,4,4:27 PM,0:14,Smith Free Throw 1 of 2 (14 PTS),,,87 - 89,2
+0020000950,435,8,0,4,4:28 PM,0:14,SUB: Schrempf FOR Sabonis,,,,
+0020000950,436,8,0,4,4:28 PM,0:14,SUB: Wells FOR Stoudamire,,,,
+0020000950,437,3,12,4,4:28 PM,0:14,Smith Free Throw 2 of 2 (15 PTS),,,87 - 90,3
+0020000950,438,2,1,4,4:28 PM,0:05,,,MISS Stockton 25' 3PT Jump Shot,,
+0020000950,439,4,0,4,4:28 PM,0:03,Pippen REBOUND (Off:1 Def:3),,,,
+0020000950,440,13,0,4,4:29 PM,0:00,,,,87 - 90,3

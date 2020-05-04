@@ -1,0 +1,441 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020201092,0,12,0,1,8:15 PM,12:00,,,,,
+0020201092,1,10,0,1,8:16 PM,12:00,Jump Ball Wallace vs. O'Neal: Tip to Robinson,,,,
+0020201092,2,2,1,1,8:17 PM,11:42,MISS Hamilton 16' Jump Shot,,,,
+0020201092,3,4,0,1,8:17 PM,11:40,,,Miller REBOUND (Off:0 Def:1),,
+0020201092,4,1,1,1,8:18 PM,11:25,,,Tinsley 27' 3PT Jump Shot (3 PTS) (World Peace 1 AST),3 - 0,-3
+0020201092,5,1,1,1,8:18 PM,11:01,Billups 24' 3PT Jump Shot (3 PTS) (Robinson 1 AST),,,3 - 3,TIE
+0020201092,6,2,1,1,8:19 PM,10:47,,,MISS Miller 16' Jump Shot,,
+0020201092,7,4,0,1,8:19 PM,10:46,Hamilton REBOUND (Off:0 Def:1),,,,
+0020201092,8,2,1,1,8:19 PM,10:34,MISS Robinson 19' Jump Shot,,,,
+0020201092,9,4,0,1,8:19 PM,10:33,,,Miller REBOUND (Off:0 Def:2),,
+0020201092,10,6,1,1,8:19 PM,10:29,Hamilton P.FOUL (P1.T1),,,,
+0020201092,11,1,1,1,8:19 PM,10:24,,,Miller 19' Jump Shot (2 PTS) (Tinsley 1 AST),5 - 3,-2
+0020201092,12,2,1,1,8:20 PM,9:57,MISS Curry 15' Jump Shot,,,,
+0020201092,13,4,0,1,8:20 PM,9:55,,,Tinsley REBOUND (Off:0 Def:1),,
+0020201092,14,2,1,1,8:20 PM,9:37,,,MISS Miller 18' Jump Shot,,
+0020201092,15,4,0,1,8:20 PM,9:35,Hamilton REBOUND (Off:0 Def:2),,,,
+0020201092,16,5,1,1,8:20 PM,9:29,Billups Bad Pass Turnover (P1.T1),,O'Neal STEAL (1 STL),,
+0020201092,17,1,1,1,8:20 PM,9:21,,,Miller 24' 3PT Jump Shot (5 PTS) (Tinsley 2 AST),8 - 3,-5
+0020201092,18,6,1,1,8:21 PM,9:00,,,Miller P.FOUL (P1.T1),,
+0020201092,19,6,1,1,8:21 PM,8:55,,,World Peace P.FOUL (P1.T2),,
+0020201092,20,6,1,1,8:21 PM,8:47,,,World Peace P.FOUL (P2.T3),,
+0020201092,21,8,0,1,8:22 PM,8:47,,,SUB: Harrington FOR World Peace,,
+0020201092,22,1,1,1,8:22 PM,8:37,Billups 25' 3PT Jump Shot (6 PTS) (Robinson 2 AST),,,8 - 6,-2
+0020201092,23,6,1,1,8:22 PM,8:28,Robinson P.FOUL (P1.T2),,,,
+0020201092,24,2,46,1,8:23 PM,8:19,,,MISS Miller 12' Running Jump Shot,,
+0020201092,25,4,0,1,8:23 PM,8:16,Wallace REBOUND (Off:0 Def:1),,,,
+0020201092,26,2,1,1,8:23 PM,8:11,MISS Billups 26' 3PT Jump Shot,,,,
+0020201092,27,4,0,1,8:23 PM,8:09,,,O'Neal REBOUND (Off:0 Def:1),,
+0020201092,28,1,1,1,8:23 PM,8:02,,,O'Neal 21' Jump Shot (2 PTS) (Tinsley 3 AST),10 - 6,-4
+0020201092,29,1,5,1,8:23 PM,7:43,Hamilton  Layup (2 PTS) (Robinson 3 AST),,,10 - 8,-2
+0020201092,30,6,1,1,8:23 PM,7:34,Billups P.FOUL (P1.T3),,,,
+0020201092,31,2,46,1,8:24 PM,7:30,,,MISS Miller 16' Running Jump Shot,,
+0020201092,32,4,0,1,8:24 PM,7:28,PISTONS Rebound,,,,
+0020201092,33,6,11,1,8:24 PM,7:16,,,Miller T.FOUL (P0.T3),,
+0020201092,34,3,16,1,8:25 PM,7:16,MISS Hamilton Free Throw Technical,,,,
+0020201092,35,4,1,1,8:25 PM,7:16,PISTONS Rebound,,,,
+0020201092,36,6,2,1,8:25 PM,7:16,,,Tinsley S.FOUL (P1.T4),,
+0020201092,37,3,11,1,8:25 PM,7:16,Billups Free Throw 1 of 2 (7 PTS),,,10 - 9,-1
+0020201092,38,3,12,1,8:25 PM,7:16,Billups Free Throw 2 of 2 (8 PTS),,,10 - 10,TIE
+0020201092,39,5,1,1,8:25 PM,7:03,Curry STEAL (1 STL),,Tinsley Bad Pass Turnover (P1.T1),,
+0020201092,40,5,2,1,8:25 PM,6:57,Hamilton Lost Ball Turnover (P1.T2),,Tinsley STEAL (1 STL),,
+0020201092,41,1,1,1,8:26 PM,6:53,,,Miller 22' Jump Shot (7 PTS) (Tinsley 4 AST),12 - 10,-2
+0020201092,42,6,1,1,8:26 PM,6:41,,,Miller P.FOUL (P1.PN),,
+0020201092,43,3,11,1,8:26 PM,6:41,Hamilton Free Throw 1 of 2 (3 PTS),,,12 - 11,-1
+0020201092,44,3,12,1,8:26 PM,6:41,Hamilton Free Throw 2 of 2 (4 PTS),,,12 - 12,TIE
+0020201092,45,6,1,1,8:27 PM,6:30,Hamilton P.FOUL (P2.T4),,,,
+0020201092,46,8,0,1,8:27 PM,6:30,SUB: Barry FOR Hamilton,,,,
+0020201092,47,6,1,1,8:27 PM,6:25,Barry P.FOUL (P1.PN),,,,
+0020201092,48,3,11,1,8:28 PM,6:25,,,Miller Free Throw 1 of 2 (8 PTS),13 - 12,-1
+0020201092,49,3,12,1,8:28 PM,6:25,,,Miller Free Throw 2 of 2 (9 PTS),14 - 12,-2
+0020201092,50,1,1,1,8:28 PM,6:08,Billups 18' Jump Shot (10 PTS) (Robinson 4 AST),,,14 - 14,TIE
+0020201092,51,9,1,1,8:29 PM,6:01,,,Pacers Timeout: Regular (Reg.1 Short 0),,
+0020201092,53,1,1,1,8:31 PM,5:52,,,Miller 27' 3PT Jump Shot (12 PTS) (Tinsley 5 AST),17 - 14,-3
+0020201092,54,1,1,1,8:31 PM,5:36,Barry 20' Jump Shot (2 PTS) (Wallace 1 AST),,,17 - 16,-1
+0020201092,55,1,1,1,8:32 PM,5:15,,,Harrington 17' Jump Shot (2 PTS) (Tinsley 6 AST),19 - 16,-3
+0020201092,56,5,2,1,8:32 PM,4:56,Robinson Lost Ball Turnover (P1.T3),,,,
+0020201092,57,5,1,1,8:32 PM,4:48,Barry STEAL (1 STL),,Tinsley Bad Pass Turnover (P2.T2),,
+0020201092,58,1,1,1,8:32 PM,4:42,Billups 24' 3PT Jump Shot (13 PTS) (Barry 1 AST),,,19 - 19,TIE
+0020201092,59,1,5,1,8:33 PM,4:24,,,Harrington  Layup (4 PTS),21 - 19,-2
+0020201092,60,2,7,1,8:33 PM,4:09,MISS Curry  Dunk,,O'Neal BLOCK (1 BLK),,
+0020201092,61,4,0,1,8:33 PM,4:06,,,Miller REBOUND (Off:0 Def:3),,
+0020201092,63,7,2,1,8:33 PM,4:02,Wallace Violation:Defensive Goaltending,,,,
+0020201092,62,1,42,1,8:33 PM,4:02,,,Tinsley  Driving Layup (5 PTS),23 - 19,-4
+0020201092,64,6,1,1,8:34 PM,3:44,,,Harrington P.FOUL (P1.PN),,
+0020201092,65,8,0,1,8:34 PM,3:44,SUB: Williamson FOR Curry,,,,
+0020201092,66,3,11,1,8:34 PM,3:44,Robinson Free Throw 1 of 2 (1 PTS),,,23 - 20,-3
+0020201092,67,3,12,1,8:34 PM,3:44,Robinson Free Throw 2 of 2 (2 PTS),,,23 - 21,-2
+0020201092,68,2,1,1,8:34 PM,3:31,,,MISS Miller 27' 3PT Jump Shot,,
+0020201092,69,4,0,1,8:35 PM,3:30,PISTONS Rebound,,,,
+0020201092,70,1,42,1,8:35 PM,3:21,Robinson  Driving Layup (4 PTS),,,23 - 23,TIE
+0020201092,71,6,2,1,8:35 PM,3:21,,,O'Neal S.FOUL (P1.PN),,
+0020201092,72,3,10,1,8:35 PM,3:21,MISS Robinson Free Throw 1 of 1,,,,
+0020201092,73,4,0,1,8:35 PM,3:20,,,Miller REBOUND (Off:0 Def:4),,
+0020201092,74,2,1,1,8:35 PM,3:05,,,MISS Tinsley 27' 3PT Jump Shot,,
+0020201092,75,4,0,1,8:35 PM,3:03,Wallace REBOUND (Off:0 Def:2),,,,
+0020201092,76,1,5,1,8:36 PM,2:50,Williamson  Layup (2 PTS) (Billups 1 AST),,,23 - 25,2
+0020201092,77,2,1,1,8:36 PM,2:32,,,MISS Miller 20' Jump Shot,,
+0020201092,78,4,0,1,8:36 PM,2:31,Wallace REBOUND (Off:0 Def:3),,,,
+0020201092,79,2,5,1,8:36 PM,2:26,MISS Billups  Layup,,,,
+0020201092,80,4,0,1,8:36 PM,2:24,Wallace REBOUND (Off:1 Def:3),,,,
+0020201092,81,2,4,1,8:36 PM,2:22,MISS Wallace  Tip Shot,,,,
+0020201092,82,4,0,1,8:36 PM,2:19,,,Harrington REBOUND (Off:0 Def:1),,
+0020201092,83,2,1,1,8:36 PM,2:14,,,MISS Miller 20' Jump Shot,,
+0020201092,84,4,0,1,8:36 PM,2:12,Barry REBOUND (Off:0 Def:1),,,,
+0020201092,85,6,1,1,8:37 PM,2:08,,,Miller P.FOUL (P2.PN),,
+0020201092,86,9,1,1,8:37 PM,2:08,PISTONS Timeout: Regular (Full 1 Short 0),,,,
+0020201092,88,8,0,1,8:39 PM,2:08,,,SUB: Hardaway FOR Tinsley,,
+0020201092,90,8,0,1,8:39 PM,2:08,,,SUB: Bender FOR Miller,,
+0020201092,93,8,0,1,8:39 PM,2:08,,,SUB: Strickland FOR Miller,,
+0020201092,91,3,11,1,8:39 PM,2:08,Billups Free Throw 1 of 2 (14 PTS),,,23 - 26,3
+0020201092,92,3,12,1,8:39 PM,2:08,Billups Free Throw 2 of 2 (15 PTS),,,23 - 27,4
+0020201092,95,7,5,1,8:40 PM,1:54,Billups Violation:Kicked Ball,,,,
+0020201092,96,1,47,1,8:40 PM,1:42,,,O'Neal 11' Turnaround Jump Shot (4 PTS) (Hardaway 1 AST),25 - 27,2
+0020201092,97,2,1,1,8:41 PM,1:20,MISS Barry 24' 3PT Jump Shot,,,,
+0020201092,98,4,0,1,8:41 PM,1:19,,,O'Neal REBOUND (Off:0 Def:2),,
+0020201092,99,5,2,1,8:41 PM,1:08,Billups STEAL (1 STL),,Harrington Lost Ball Turnover (P1.T3),,
+0020201092,100,2,1,1,8:41 PM,1:02,MISS Robinson 19' Jump Shot,,,,
+0020201092,101,4,0,1,8:41 PM,1:00,,,O'Neal REBOUND (Off:0 Def:3),,
+0020201092,102,5,1,1,8:41 PM,0:49,Billups STEAL (2 STL),,Hardaway Bad Pass Turnover (P1.T4),,
+0020201092,103,6,2,1,8:41 PM,0:45,,,Hardaway S.FOUL (P1.PN),,
+0020201092,104,8,0,1,8:41 PM,0:45,SUB: Davis FOR Billups,,,,
+0020201092,105,8,0,1,8:42 PM,0:45,SUB: Okur FOR Robinson,,,,
+0020201092,106,3,11,1,8:42 PM,0:45,Barry Free Throw 1 of 2 (3 PTS),,,25 - 28,3
+0020201092,107,3,12,1,8:42 PM,0:45,Barry Free Throw 2 of 2 (4 PTS),,,25 - 29,4
+0020201092,108,2,1,1,8:42 PM,0:25,,,MISS O'Neal 8' Jump Shot,,
+0020201092,109,4,0,1,8:42 PM,0:23,Wallace REBOUND (Off:1 Def:4),,,,
+0020201092,110,2,3,1,8:43 PM,0:04,MISS Williamson 6' Hook Shot,,,,
+0020201092,111,4,0,1,8:43 PM,0:03,Wallace REBOUND (Off:2 Def:4),,,,
+0020201092,112,1,7,1,8:43 PM,0:02,Wallace  Dunk (2 PTS),,,25 - 31,6
+0020201092,113,2,1,1,8:43 PM,0:01,,,MISS Hardaway 42' 3PT Jump Shot,,
+0020201092,114,4,0,1,8:43 PM,0:00,,,Pacers Rebound,,
+0020201092,115,13,0,1,8:43 PM,0:00,,,,25 - 31,6
+0020201092,117,12,0,2,8:46 PM,12:00,,,,25 - 31,6
+0020201092,118,2,1,2,8:46 PM,11:45,,,MISS Harrington 17' Jump Shot,,
+0020201092,119,4,0,2,8:46 PM,11:43,,,Strickland REBOUND (Off:1 Def:0),,
+0020201092,120,6,2,2,8:46 PM,11:39,Okur S.FOUL (P1.T1),,,,
+0020201092,121,3,11,2,8:46 PM,11:39,,,MISS O'Neal Free Throw 1 of 2,,
+0020201092,122,4,1,2,8:46 PM,11:39,,,Pacers Rebound,,
+0020201092,123,3,12,2,8:47 PM,11:39,,,MISS O'Neal Free Throw 2 of 2,,
+0020201092,124,4,0,2,8:47 PM,11:38,Okur REBOUND (Off:0 Def:1),,,,
+0020201092,125,2,1,2,8:47 PM,11:14,MISS Okur 18' Jump Shot,,,,
+0020201092,126,4,0,2,8:47 PM,11:12,,,Harrington REBOUND (Off:0 Def:2),,
+0020201092,127,1,1,2,8:47 PM,11:02,,,O'Neal 4' Jump Shot (6 PTS) (Hardaway 2 AST),27 - 31,4
+0020201092,128,2,43,2,8:48 PM,10:47,MISS Wallace  Alley Oop Layup,,,,
+0020201092,129,4,0,2,8:48 PM,10:44,,,O'Neal REBOUND (Off:0 Def:4),,
+0020201092,130,2,47,2,8:48 PM,10:33,,,MISS Harrington 11' Turnaround Jump Shot,,
+0020201092,131,4,0,2,8:48 PM,10:30,Davis REBOUND (Off:0 Def:1),,,,
+0020201092,132,6,1,2,8:48 PM,10:20,,,Harrington P.FOUL (P2.T1),,
+0020201092,133,8,0,2,8:48 PM,10:20,,,SUB: World Peace FOR Hardaway,,
+0020201092,134,2,1,2,8:49 PM,10:07,MISS Williamson 13' Jump Shot,,Harrington BLOCK (1 BLK),,
+0020201092,135,4,0,2,8:49 PM,10:03,,,O'Neal REBOUND (Off:0 Def:5),,
+0020201092,136,1,49,2,8:49 PM,10:00,,,Bender  Driving Dunk (2 PTS) (World Peace 2 AST),29 - 31,2
+0020201092,137,1,1,2,8:49 PM,9:42,Davis 24' 3PT Jump Shot (3 PTS) (Barry 2 AST),,,29 - 34,5
+0020201092,138,2,3,2,8:50 PM,9:17,,,MISS O'Neal 7' Hook Shot,,
+0020201092,139,4,0,2,8:50 PM,9:14,Wallace REBOUND (Off:2 Def:5),,,,
+0020201092,140,2,3,2,8:50 PM,9:04,MISS Okur 6' Hook Shot,,,,
+0020201092,141,4,0,2,8:50 PM,9:03,,,Pacers Rebound,,
+0020201092,142,6,3,2,8:50 PM,9:03,Okur L.B.FOUL (P2.T2),,,,
+0020201092,143,2,5,2,8:50 PM,8:49,,,MISS World Peace  Layup,,
+0020201092,144,4,0,2,8:50 PM,8:48,Wallace REBOUND (Off:2 Def:6),,,,
+0020201092,145,1,1,2,8:50 PM,8:43,Barry 27' 3PT Jump Shot (7 PTS),,,29 - 37,8
+0020201092,146,9,1,2,8:51 PM,8:34,,,Pacers Timeout: Regular (Reg.2 Short 0),,
+0020201092,148,2,3,2,8:53 PM,8:26,,,MISS World Peace 4' Hook Shot,,
+0020201092,149,4,0,2,8:53 PM,8:23,Barry REBOUND (Off:0 Def:2),,,,
+0020201092,150,6,2,2,8:54 PM,8:12,,,Bender S.FOUL (P1.T2),,
+0020201092,151,3,11,2,8:54 PM,8:12,Okur Free Throw 1 of 2 (1 PTS),,,29 - 38,9
+0020201092,152,8,0,2,8:54 PM,8:12,,,SUB: Tinsley FOR Strickland,,
+0020201092,153,3,12,2,8:54 PM,8:12,MISS Okur Free Throw 2 of 2,,,,
+0020201092,154,4,0,2,8:54 PM,8:11,,,O'Neal REBOUND (Off:0 Def:6),,
+0020201092,155,2,1,2,8:54 PM,7:56,,,MISS Tinsley 20' Jump Shot,,
+0020201092,156,4,0,2,8:54 PM,7:54,Okur REBOUND (Off:0 Def:2),,,,
+0020201092,157,5,2,2,8:55 PM,7:52,Okur Lost Ball Turnover (P1.T4),,World Peace STEAL (1 STL),,
+0020201092,158,6,4,2,8:55 PM,7:51,,,World Peace OFF.Foul (P3),,
+0020201092,159,5,5,2,8:55 PM,7:51,,,World Peace Foul Turnover (P1.T5),,
+0020201092,160,8,0,2,8:55 PM,7:51,SUB: Robinson FOR Wallace,,,,
+0020201092,161,8,0,2,8:55 PM,7:51,,,SUB: Miller FOR World Peace,,
+0020201092,162,5,11,2,8:56 PM,7:27,PISTONS Turnover: Shot Clock (T#5),,,,
+0020201092,163,8,0,2,8:56 PM,7:27,,,SUB: Miller FOR Bender,,
+0020201092,164,2,46,2,8:56 PM,7:13,,,MISS Miller 11' Running Jump Shot,,
+0020201092,165,4,0,2,8:56 PM,7:10,Barry REBOUND (Off:0 Def:3),,,,
+0020201092,166,5,1,2,8:56 PM,6:54,Barry Bad Pass Turnover (P1.T6),,Tinsley STEAL (2 STL),,
+0020201092,167,6,1,2,8:57 PM,6:45,Robinson P.FOUL (P2.T3),,,,
+0020201092,168,9,1,2,8:57 PM,6:45,,,Pacers Timeout: Regular (Reg.3 Short 0),,
+0020201092,170,8,0,2,8:59 PM,6:45,SUB: Billups FOR Davis,,,,
+0020201092,171,8,0,2,8:59 PM,6:45,SUB: Hamilton FOR Barry,,,,
+0020201092,172,1,1,2,9:00 PM,6:33,,,O'Neal 27' 3PT Jump Shot (9 PTS) (Miller 1 AST),32 - 38,6
+0020201092,173,1,3,2,9:00 PM,6:13,Williamson 5' Hook Shot (4 PTS) (Robinson 5 AST),,,32 - 40,8
+0020201092,174,1,47,2,9:00 PM,6:01,,,O'Neal 7' Turnaround Jump Shot (11 PTS) (Tinsley 7 AST),34 - 40,6
+0020201092,176,5,1,2,9:01 PM,5:38,Billups Bad Pass Turnover (P2.T7),,,,
+0020201092,177,2,5,2,9:01 PM,5:27,Williamson BLOCK (1 BLK),,MISS Miller  Layup,,
+0020201092,178,4,0,2,9:01 PM,5:25,Robinson REBOUND (Off:0 Def:1),,,,
+0020201092,179,2,5,2,9:01 PM,5:21,MISS Hamilton  Layup,,,,
+0020201092,180,4,0,2,9:01 PM,5:19,Hamilton REBOUND (Off:1 Def:2),,,,
+0020201092,181,1,1,2,9:01 PM,5:14,Hamilton 20' Jump Shot (6 PTS),,,34 - 42,8
+0020201092,182,1,1,2,9:01 PM,5:00,,,Tinsley 27' 3PT Jump Shot (8 PTS) (Miller 1 AST),37 - 42,5
+0020201092,183,6,4,2,9:02 PM,4:43,Robinson OFF.Foul (P3),,,,
+0020201092,184,5,5,2,9:02 PM,4:43,Robinson Foul Turnover (P2.T8),,,,
+0020201092,185,8,0,2,9:02 PM,4:43,SUB: Wallace FOR Robinson,,,,
+0020201092,186,8,0,2,9:02 PM,4:43,,,SUB: Croshere FOR Miller,,
+0020201092,187,6,2,2,9:02 PM,4:32,Okur S.FOUL (P3.T4),,,,
+0020201092,188,3,11,2,9:02 PM,4:32,,,O'Neal Free Throw 1 of 2 (12 PTS),38 - 42,4
+0020201092,189,8,0,2,9:03 PM,4:32,SUB: Barry FOR Okur,,,,
+0020201092,190,3,12,2,9:03 PM,4:32,,,O'Neal Free Throw 2 of 2 (13 PTS),39 - 42,3
+0020201092,191,1,42,2,9:03 PM,4:22,Billups  Driving Layup (17 PTS),,,39 - 44,5
+0020201092,192,2,47,2,9:04 PM,4:02,,,MISS O'Neal 10' Turnaround Jump Shot,,
+0020201092,193,4,0,2,9:04 PM,3:59,,,Croshere REBOUND (Off:1 Def:0),,
+0020201092,194,5,1,2,9:04 PM,3:51,Wallace STEAL (1 STL),,Tinsley Bad Pass Turnover (P3.T6),,
+0020201092,195,1,5,2,9:04 PM,3:32,Williamson  Layup (6 PTS) (Barry 3 AST),,,39 - 46,7
+0020201092,196,6,2,2,9:04 PM,3:32,,,Croshere S.FOUL (P1.T3),,
+0020201092,197,3,10,2,9:04 PM,3:32,MISS Williamson Free Throw 1 of 1,,,,
+0020201092,198,4,0,2,9:05 PM,3:31,,,O'Neal REBOUND (Off:0 Def:7),,
+0020201092,199,6,17,2,9:05 PM,3:12,PISTONS T.Foul (Def. 3 Sec Hamilton ),,,,
+0020201092,200,3,16,2,9:05 PM,3:12,,,Miller Free Throw Technical (13 PTS),40 - 46,6
+0020201092,201,2,47,2,9:06 PM,3:03,,,MISS Croshere 12' Turnaround Jump Shot,,
+0020201092,202,4,0,2,9:06 PM,3:02,,,O'Neal REBOUND (Off:1 Def:7),,
+0020201092,203,2,4,2,9:06 PM,3:01,,,MISS O'Neal  Tip Shot,,
+0020201092,204,4,0,2,9:06 PM,3:01,,,O'Neal REBOUND (Off:2 Def:7),,
+0020201092,205,6,2,2,9:06 PM,3:01,Williamson S.FOUL (P1.PN),,,,
+0020201092,206,3,11,2,9:06 PM,3:01,,,O'Neal Free Throw 1 of 2 (14 PTS),41 - 46,5
+0020201092,207,3,12,2,9:07 PM,3:01,,,O'Neal Free Throw 2 of 2 (15 PTS),42 - 46,4
+0020201092,208,1,42,2,9:07 PM,2:47,Billups  Driving Layup (19 PTS),,,42 - 48,6
+0020201092,209,1,47,2,9:07 PM,2:35,,,O'Neal 12' Turnaround Jump Shot (17 PTS) (Miller 2 AST),44 - 48,4
+0020201092,210,9,4,2,9:08 PM,2:28,,,,,
+0020201092,212,1,1,2,9:10 PM,2:17,Hamilton 18' Jump Shot (8 PTS),,,44 - 50,6
+0020201092,213,5,2,2,9:11 PM,1:54,Barry STEAL (2 STL),,Croshere Lost Ball Turnover (P1.T7),,
+0020201092,214,2,1,2,9:11 PM,1:33,MISS Wallace 12' Jump Shot,,,,
+0020201092,215,4,0,2,9:11 PM,1:31,Hamilton REBOUND (Off:2 Def:2),,,,
+0020201092,216,1,1,2,9:11 PM,1:30,Hamilton 13' Jump Shot (10 PTS),,,44 - 52,8
+0020201092,217,2,1,2,9:11 PM,1:06,,,MISS O'Neal 11' Jump Shot,,
+0020201092,218,4,0,2,9:11 PM,1:04,Wallace REBOUND (Off:2 Def:7),,,,
+0020201092,219,2,1,2,9:12 PM,0:56,MISS Billups 26' 3PT Jump Shot,,,,
+0020201092,220,4,0,2,9:12 PM,0:54,,,O'Neal REBOUND (Off:2 Def:8),,
+0020201092,221,9,2,2,9:12 PM,0:50,,,Pacers Timeout: Short (Reg.3 Short 1),,
+0020201092,223,8,0,2,9:12 PM,0:50,,,SUB: Miller FOR Croshere,,
+0020201092,224,2,5,2,9:13 PM,0:36,,,MISS Harrington  Layup,,
+0020201092,225,4,0,2,9:13 PM,0:35,,,Tinsley REBOUND (Off:1 Def:1),,
+0020201092,226,1,3,2,9:13 PM,0:20,,,O'Neal 5' Hook Shot (19 PTS) (Tinsley 8 AST),46 - 52,6
+0020201092,227,6,2,2,9:14 PM,0:03,,,Harrington S.FOUL (P3.T4),,
+0020201092,228,3,11,2,9:14 PM,0:03,Williamson Free Throw 1 of 2 (7 PTS),,,46 - 53,7
+0020201092,229,8,0,2,9:14 PM,0:03,SUB: Davis FOR Hamilton,,,,
+0020201092,230,8,0,2,9:14 PM,0:03,,,SUB: Croshere FOR Miller,,
+0020201092,231,8,0,2,9:14 PM,0:03,,,SUB: Bender FOR Harrington,,
+0020201092,232,3,12,2,9:14 PM,0:03,Williamson Free Throw 2 of 2 (8 PTS),,,46 - 54,8
+0020201092,233,2,1,2,9:15 PM,0:01,,,MISS Tinsley 45' 3PT Jump Shot,,
+0020201092,234,4,0,2,9:15 PM,0:00,,,Pacers Rebound,,
+0020201092,235,13,0,2,9:15 PM,0:00,,,,46 - 54,8
+0020201092,237,12,0,3,9:33 PM,12:00,,,,46 - 54,8
+0020201092,238,2,1,3,9:33 PM,11:48,,,MISS World Peace 14' Jump Shot,,
+0020201092,239,4,0,3,9:33 PM,11:46,Billups REBOUND (Off:0 Def:1),,,,
+0020201092,240,2,7,3,9:33 PM,11:28,MISS Wallace  Dunk,,,,
+0020201092,241,4,0,3,9:33 PM,11:25,Wallace REBOUND (Off:3 Def:7),,,,
+0020201092,242,5,2,3,9:33 PM,11:24,Wallace Lost Ball Turnover (P1.T9),,World Peace STEAL (2 STL),,
+0020201092,244,7,2,3,9:34 PM,11:15,Wallace Violation:Defensive Goaltending,,,,
+0020201092,243,1,42,3,9:34 PM,11:15,,,World Peace  Driving Layup (2 PTS),48 - 54,6
+0020201092,245,2,1,3,9:34 PM,11:03,MISS Robinson 16' Jump Shot,,,,
+0020201092,246,4,0,3,9:34 PM,11:01,,,World Peace REBOUND (Off:0 Def:1),,
+0020201092,247,1,1,3,9:34 PM,10:55,,,Miller 19' Jump Shot (15 PTS) (Tinsley 9 AST),50 - 54,4
+0020201092,248,6,4,3,9:34 PM,10:40,Hamilton OFF.Foul (P3),,,,
+0020201092,249,5,5,3,9:34 PM,10:40,Hamilton Foul Turnover (P2.T10),,,,
+0020201092,250,1,1,3,9:35 PM,10:28,,,Miller 19' Jump Shot (17 PTS) (Miller 2 AST),52 - 54,2
+0020201092,251,9,1,3,9:35 PM,10:26,PISTONS Timeout: Regular (Full 2 Short 0),,,,
+0020201092,253,2,1,3,9:37 PM,10:08,MISS Robinson 19' Jump Shot,,,,
+0020201092,254,4,0,3,9:37 PM,10:08,PISTONS Rebound,,,,
+0020201092,255,6,3,3,9:37 PM,10:08,,,Miller L.B.FOUL (P3.T1),,
+0020201092,256,2,5,3,9:38 PM,9:59,MISS Curry  Layup,,,,
+0020201092,257,4,0,3,9:38 PM,9:58,,,Miller REBOUND (Off:0 Def:5),,
+0020201092,258,6,3,3,9:38 PM,9:57,Curry L.B.FOUL (P1.T1),,,,
+0020201092,259,6,2,3,9:38 PM,9:43,Curry S.FOUL (P2.T2),,,,
+0020201092,260,3,11,3,9:39 PM,9:43,,,World Peace Free Throw 1 of 2 (3 PTS),53 - 54,1
+0020201092,261,3,12,3,9:39 PM,9:43,,,World Peace Free Throw 2 of 2 (4 PTS),54 - 54,TIE
+0020201092,262,1,1,3,9:39 PM,9:25,Hamilton 19' Jump Shot (12 PTS) (Robinson 6 AST),,,54 - 56,2
+0020201092,263,1,1,3,9:40 PM,9:00,,,World Peace 27' 3PT Jump Shot (7 PTS),57 - 56,-1
+0020201092,264,6,2,3,9:40 PM,8:44,,,Miller S.FOUL (P4.T2),,
+0020201092,265,3,11,3,9:40 PM,8:44,Robinson Free Throw 1 of 2 (5 PTS),,,57 - 57,TIE
+0020201092,266,8,0,3,9:40 PM,8:44,,,SUB: Croshere FOR Miller,,
+0020201092,267,3,12,3,9:41 PM,8:44,Robinson Free Throw 2 of 2 (6 PTS),,,57 - 58,1
+0020201092,268,1,5,3,9:41 PM,8:27,,,O'Neal  Layup (21 PTS) (Tinsley 10 AST),59 - 58,-1
+0020201092,269,6,2,3,9:41 PM,8:27,Wallace S.FOUL (P1.T3),,,,
+0020201092,270,3,10,3,9:42 PM,8:27,,,MISS O'Neal Free Throw 1 of 1,,
+0020201092,271,4,0,3,9:42 PM,8:26,Wallace REBOUND (Off:3 Def:8),,,,
+0020201092,272,6,2,3,9:42 PM,8:06,,,Miller S.FOUL (P2.T3),,
+0020201092,273,3,11,3,9:42 PM,8:06,Hamilton Free Throw 1 of 2 (13 PTS),,,59 - 59,TIE
+0020201092,274,3,12,3,9:43 PM,8:06,Hamilton Free Throw 2 of 2 (14 PTS),,,59 - 60,1
+0020201092,275,2,1,3,9:43 PM,7:55,,,MISS Tinsley 18' Jump Shot,,
+0020201092,276,4,0,3,9:43 PM,7:53,Billups REBOUND (Off:0 Def:2),,,,
+0020201092,277,1,47,3,9:43 PM,7:38,Wallace 14' Turnaround Jump Shot (4 PTS),,,59 - 62,3
+0020201092,278,1,1,3,9:44 PM,7:24,,,O'Neal 7' Jump Shot (23 PTS) (Tinsley 11 AST),61 - 62,1
+0020201092,279,2,1,3,9:44 PM,7:11,MISS Billups 21' Jump Shot,,,,
+0020201092,280,4,0,3,9:44 PM,7:08,,,Miller REBOUND (Off:0 Def:1),,
+0020201092,281,2,1,3,9:44 PM,6:55,,,MISS O'Neal 13' Jump Shot,,
+0020201092,282,4,0,3,9:44 PM,6:53,Billups REBOUND (Off:0 Def:3),,,,
+0020201092,283,6,2,3,9:44 PM,6:51,,,Tinsley S.FOUL (P2.T4),,
+0020201092,284,3,11,3,9:44 PM,6:51,Billups Free Throw 1 of 2 (20 PTS),,,61 - 63,2
+0020201092,285,3,12,3,9:45 PM,6:51,Billups Free Throw 2 of 2 (21 PTS),,,61 - 64,3
+0020201092,286,1,1,3,9:45 PM,6:37,,,Tinsley 25' 3PT Jump Shot (11 PTS) (Miller 3 AST),64 - 64,TIE
+0020201092,287,1,1,3,9:45 PM,6:20,Billups  3PT Jump Shot (24 PTS),,,64 - 67,3
+0020201092,288,2,1,3,9:46 PM,5:55,Wallace BLOCK (1 BLK),,MISS Croshere 15' Jump Shot,,
+0020201092,289,4,0,3,9:46 PM,5:52,Hamilton REBOUND (Off:2 Def:3),,,,
+0020201092,290,2,5,3,9:46 PM,5:48,MISS Hamilton  Layup,,World Peace BLOCK (1 BLK),,
+0020201092,291,4,0,3,9:46 PM,5:45,,,Miller REBOUND (Off:0 Def:2),,
+0020201092,292,6,2,3,9:46 PM,5:43,Billups S.FOUL (P2.T4),,,,
+0020201092,293,3,13,3,9:46 PM,5:43,,,Miller Free Throw 1 of 3 (18 PTS),65 - 67,2
+0020201092,294,3,14,3,9:47 PM,5:43,,,Miller Free Throw 2 of 3 (19 PTS),66 - 67,1
+0020201092,295,3,15,3,9:47 PM,5:43,,,Miller Free Throw 3 of 3 (20 PTS),67 - 67,TIE
+0020201092,296,2,1,3,9:47 PM,5:34,MISS Billups 28' 3PT Jump Shot,,,,
+0020201092,297,4,0,3,9:47 PM,5:32,,,Tinsley REBOUND (Off:1 Def:2),,
+0020201092,298,1,49,3,9:47 PM,5:21,,,O'Neal  Driving Dunk (25 PTS),69 - 67,-2
+0020201092,299,9,1,3,9:48 PM,5:17,PISTONS Timeout: Regular (Full 3 Short 0),,,,
+0020201092,301,1,3,3,9:50 PM,5:02,Robinson 10' Hook Shot (8 PTS) (Curry 1 AST),,,69 - 69,TIE
+0020201092,302,2,1,3,9:51 PM,4:41,,,MISS Miller 26' 3PT Jump Shot,,
+0020201092,303,4,0,3,9:51 PM,4:39,Hamilton REBOUND (Off:2 Def:4),,,,
+0020201092,304,6,4,3,9:51 PM,4:28,Wallace OFF.Foul (P2),,,,
+0020201092,305,5,5,3,9:51 PM,4:28,Wallace Foul Turnover (P2.T11),,,,
+0020201092,306,2,1,3,9:52 PM,4:07,,,MISS O'Neal 13' Jump Shot,,
+0020201092,307,4,0,3,9:52 PM,4:05,Wallace REBOUND (Off:3 Def:9),,,,
+0020201092,308,2,5,3,9:52 PM,3:47,MISS Hamilton  Layup,,O'Neal BLOCK (2 BLK),,
+0020201092,309,4,0,3,9:52 PM,3:45,,,Croshere REBOUND (Off:1 Def:1),,
+0020201092,310,2,1,3,9:52 PM,3:39,,,MISS World Peace 18' Jump Shot,,
+0020201092,311,4,0,3,9:52 PM,3:38,,,World Peace REBOUND (Off:1 Def:1),,
+0020201092,312,1,5,3,9:52 PM,3:36,,,World Peace  Layup (9 PTS),71 - 69,-2
+0020201092,313,6,1,3,9:53 PM,3:08,,,Miller P.FOUL (P3.PN),,
+0020201092,314,3,11,3,9:53 PM,3:08,Hamilton Free Throw 1 of 2 (15 PTS),,,71 - 70,-1
+0020201092,316,8,0,3,9:53 PM,3:08,SUB: Williamson FOR Curry,,,,
+0020201092,317,3,12,3,9:53 PM,3:08,Hamilton Free Throw 2 of 2 (16 PTS),,,71 - 71,TIE
+0020201092,318,1,44,3,9:54 PM,2:51,,,World Peace  Reverse Layup (11 PTS),73 - 71,-2
+0020201092,319,1,47,3,9:54 PM,2:29,Williamson 13' Turnaround Jump Shot (10 PTS),,,73 - 73,TIE
+0020201092,320,2,5,3,9:54 PM,2:15,Wallace BLOCK (2 BLK),,MISS World Peace  Layup,,
+0020201092,321,4,0,3,9:54 PM,2:14,,,Pacers Rebound,,
+0020201092,322,8,0,3,9:55 PM,2:14,,,SUB: Harrington FOR Miller,,
+0020201092,323,8,0,3,9:55 PM,2:14,SUB: Barry FOR Hamilton,,,,
+0020201092,324,5,11,3,9:55 PM,2:03,,,Pacers Turnover: Shot Clock (T#8),,
+0020201092,325,1,1,3,9:55 PM,1:52,Billups 20' Jump Shot (26 PTS),,,73 - 75,2
+0020201092,326,6,1,3,9:56 PM,1:31,Williamson P.FOUL (P2.PN),,,,
+0020201092,327,3,11,3,9:56 PM,1:31,,,World Peace Free Throw 1 of 2 (12 PTS),74 - 75,1
+0020201092,328,8,0,3,9:56 PM,1:31,,,SUB: Strickland FOR Tinsley,,
+0020201092,329,3,12,3,9:56 PM,1:31,,,World Peace Free Throw 2 of 2 (13 PTS),75 - 75,TIE
+0020201092,330,6,1,3,9:57 PM,1:20,,,Harrington P.FOUL (P4.PN),,
+0020201092,331,3,11,3,9:57 PM,1:20,MISS Billups Free Throw 1 of 2,,,,
+0020201092,332,4,1,3,9:57 PM,1:20,PISTONS Rebound,,,,
+0020201092,333,8,0,3,9:57 PM,1:20,SUB: Okur FOR Robinson,,,,
+0020201092,334,3,12,3,9:57 PM,1:20,Billups Free Throw 2 of 2 (27 PTS),,,75 - 76,1
+0020201092,335,2,1,3,9:58 PM,1:07,,,MISS World Peace 26' 3PT Jump Shot,,
+0020201092,336,4,0,3,9:58 PM,1:05,Billups REBOUND (Off:0 Def:4),,,,
+0020201092,337,2,5,3,9:58 PM,0:55,MISS Williamson  Layup,,,,
+0020201092,338,4,0,3,9:58 PM,0:52,Wallace REBOUND (Off:4 Def:9),,,,
+0020201092,339,6,1,3,9:58 PM,0:50,,,O'Neal P.FOUL (P2.PN),,
+0020201092,340,3,11,3,9:58 PM,0:50,Williamson Free Throw 1 of 2 (11 PTS),,,75 - 77,2
+0020201092,341,3,12,3,9:58 PM,0:50,Williamson Free Throw 2 of 2 (12 PTS),,,75 - 78,3
+0020201092,342,2,5,3,9:59 PM,0:32,Williamson BLOCK (2 BLK),,MISS Harrington  Layup,,
+0020201092,343,4,0,3,9:59 PM,0:30,,,Croshere REBOUND (Off:2 Def:1),,
+0020201092,344,1,1,3,9:59 PM,0:24,,,Strickland 13' Jump Shot (2 PTS) (World Peace 3 AST),77 - 78,1
+0020201092,345,5,1,3,10:00 PM,0:05,Okur Bad Pass Turnover (P2.T12),,World Peace STEAL (3 STL),,
+0020201092,346,1,5,3,10:00 PM,0:02,,,World Peace  Layup (15 PTS),79 - 78,-1
+0020201092,347,6,2,3,10:00 PM,0:02,Okur S.FOUL (P4.PN),,,,
+0020201092,349,8,0,3,10:00 PM,0:02,,,SUB: Foster FOR O'Neal,,
+0020201092,350,3,10,3,10:00 PM,0:02,,,World Peace Free Throw 1 of 1 (16 PTS),80 - 78,-2
+0020201092,351,13,0,3,10:00 PM,0:00,,,,80 - 78,-2
+0020201092,353,12,0,4,10:04 PM,12:00,,,,80 - 78,-2
+0020201092,354,2,1,4,10:04 PM,11:42,MISS Wallace 18' Jump Shot,,,,
+0020201092,355,4,0,4,10:04 PM,11:40,,,O'Neal REBOUND (Off:2 Def:9),,
+0020201092,356,1,1,4,10:04 PM,11:23,,,World Peace 19' Jump Shot (18 PTS),82 - 78,-4
+0020201092,357,5,2,4,10:05 PM,11:00,Williamson Lost Ball Turnover (P1.T13),,Harrington STEAL (1 STL),,
+0020201092,358,1,7,4,10:05 PM,10:43,,,Harrington  Dunk (6 PTS),84 - 78,-6
+0020201092,359,9,1,4,10:05 PM,10:40,PISTONS Timeout: Regular (Full 4 Short 0),,,,
+0020201092,361,8,0,4,10:07 PM,10:40,SUB: Robinson FOR Okur,,,,
+0020201092,362,2,1,4,10:07 PM,10:23,MISS Davis 21' Jump Shot,,,,
+0020201092,363,4,0,4,10:07 PM,10:21,,,World Peace REBOUND (Off:1 Def:2),,
+0020201092,364,2,3,4,10:08 PM,10:01,,,MISS Harrington 5' Hook Shot,,
+0020201092,365,4,0,4,10:08 PM,9:58,Davis REBOUND (Off:0 Def:2),,,,
+0020201092,366,6,1,4,10:08 PM,9:45,,,O'Neal P.FOUL (P3.T1),,
+0020201092,367,8,0,4,10:08 PM,9:45,SUB: Billups FOR Davis,,,,
+0020201092,368,1,1,4,10:09 PM,9:35,Barry 20' Jump Shot (9 PTS) (Billups 2 AST),,,84 - 80,-4
+0020201092,369,1,47,4,10:09 PM,9:09,,,Harrington 15' Turnaround Jump Shot (8 PTS),86 - 80,-6
+0020201092,370,6,1,4,10:10 PM,8:47,,,O'Neal P.FOUL (P4.T2),,
+0020201092,371,2,1,4,10:11 PM,8:35,MISS Billups 27' 3PT Jump Shot,,,,
+0020201092,372,4,0,4,10:11 PM,8:33,Barry REBOUND (Off:1 Def:3),,,,
+0020201092,373,5,1,4,10:11 PM,8:32,Barry Bad Pass Turnover (P2.T14),,World Peace STEAL (4 STL),,
+0020201092,374,6,1,4,10:11 PM,8:31,Billups P.FOUL (P3.T1),,,,
+0020201092,375,1,1,4,10:12 PM,8:07,,,World Peace 19' Jump Shot (20 PTS) (Strickland 1 AST),88 - 80,-8
+0020201092,376,2,3,4,10:12 PM,7:58,MISS Robinson 9' Hook Shot,,,,
+0020201092,377,4,0,4,10:12 PM,7:57,,,Pacers Rebound,,
+0020201092,378,2,1,4,10:12 PM,7:35,,,MISS O'Neal 18' Jump Shot,,
+0020201092,379,4,0,4,10:12 PM,7:33,Robinson REBOUND (Off:0 Def:2),,,,
+0020201092,380,2,1,4,10:13 PM,7:27,MISS Robinson 26' 3PT Jump Shot,,,,
+0020201092,381,4,0,4,10:13 PM,7:25,Williamson REBOUND (Off:1 Def:0),,,,
+0020201092,382,1,3,4,10:13 PM,7:24,Williamson 6' Hook Shot (14 PTS),,,88 - 82,-6
+0020201092,383,1,1,4,10:13 PM,7:01,,,Harrington 19' Jump Shot (10 PTS),90 - 82,-8
+0020201092,384,2,1,4,10:13 PM,6:36,MISS Billups 28' 3PT Jump Shot,,,,
+0020201092,385,4,0,4,10:13 PM,6:34,,,Harrington REBOUND (Off:0 Def:3),,
+0020201092,386,2,1,4,10:14 PM,6:20,,,MISS Strickland 18' Jump Shot,,
+0020201092,387,4,0,4,10:14 PM,6:17,Wallace REBOUND (Off:4 Def:10),,,,
+0020201092,388,2,1,4,10:14 PM,6:10,MISS Robinson 18' Jump Shot,,,,
+0020201092,389,4,0,4,10:14 PM,6:08,,,O'Neal REBOUND (Off:2 Def:10),,
+0020201092,390,9,1,4,10:14 PM,6:01,,,Pacers Timeout: Regular (Reg.4 Short 1),,
+0020201092,392,8,0,4,10:17 PM,6:01,SUB: Hamilton FOR Barry,,,,
+0020201092,393,2,1,4,10:17 PM,5:46,,,MISS O'Neal 27' 3PT Jump Shot,,
+0020201092,394,4,0,4,10:17 PM,5:45,PISTONS Rebound,,,,
+0020201092,395,6,3,4,10:17 PM,5:45,,,Miller L.B.FOUL (P5.T3),,
+0020201092,396,8,0,4,10:18 PM,5:45,,,SUB: Foster FOR Miller,,
+0020201092,397,2,1,4,10:18 PM,5:24,MISS Wallace 18' Jump Shot,,,,
+0020201092,398,4,0,4,10:18 PM,5:23,,,Harrington REBOUND (Off:0 Def:4),,
+0020201092,399,2,1,4,10:18 PM,5:05,,,MISS World Peace 11' Jump Shot,,
+0020201092,400,4,0,4,10:18 PM,5:03,,,Pacers Rebound,,
+0020201092,401,8,0,4,10:18 PM,5:02,,,SUB: Tinsley FOR Strickland,,
+0020201092,402,2,5,4,10:19 PM,5:01,Wallace BLOCK (3 BLK),,MISS O'Neal  Layup,,
+0020201092,403,4,0,4,10:19 PM,4:58,Robinson REBOUND (Off:0 Def:3),,,,
+0020201092,404,5,1,4,10:19 PM,4:56,Robinson Bad Pass Turnover (P3.T15),,,,
+0020201092,405,6,1,4,10:20 PM,4:44,Hamilton P.FOUL (P4.T2),,,,
+0020201092,406,8,0,4,10:20 PM,4:44,,,SUB: Miller FOR World Peace,,
+0020201092,407,8,0,4,10:20 PM,4:44,,,SUB: Miller FOR Foster,,
+0020201092,408,2,1,4,10:20 PM,4:30,,,MISS Tinsley 19' Jump Shot,,
+0020201092,409,4,0,4,10:20 PM,4:29,Billups REBOUND (Off:0 Def:5),,,,
+0020201092,410,2,5,4,10:20 PM,4:07,MISS Williamson  Layup,,,,
+0020201092,411,4,0,4,10:20 PM,4:06,,,Miller REBOUND (Off:0 Def:6),,
+0020201092,412,2,1,4,10:21 PM,3:47,,,MISS Harrington 18' Jump Shot,,
+0020201092,413,4,0,4,10:21 PM,3:45,Wallace REBOUND (Off:4 Def:11),,,,
+0020201092,414,6,1,4,10:21 PM,3:28,,,Tinsley P.FOUL (P3.T4),,
+0020201092,415,8,0,4,10:21 PM,3:28,,,SUB: World Peace FOR Miller,,
+0020201092,416,2,1,4,10:22 PM,3:16,MISS Billups 26' 3PT Jump Shot,,,,
+0020201092,417,4,0,4,10:22 PM,3:14,,,O'Neal REBOUND (Off:2 Def:11),,
+0020201092,418,6,2,4,10:22 PM,3:07,Hamilton S.FOUL (P5.T3),,,,
+0020201092,419,3,11,4,10:22 PM,3:07,,,O'Neal Free Throw 1 of 2 (26 PTS),91 - 82,-9
+0020201092,420,3,12,4,10:22 PM,3:07,,,O'Neal Free Throw 2 of 2 (27 PTS),92 - 82,-10
+0020201092,421,2,1,4,10:23 PM,2:50,MISS Hamilton 12' Jump Shot,,,,
+0020201092,422,4,0,4,10:23 PM,2:45,Williamson REBOUND (Off:2 Def:0),,,,
+0020201092,423,1,1,4,10:23 PM,2:43,Hamilton 17' Jump Shot (18 PTS) (Robinson 7 AST),,,92 - 84,-8
+0020201092,424,2,5,4,10:24 PM,2:16,Wallace BLOCK (4 BLK),,MISS Harrington  Layup,,
+0020201092,425,4,0,4,10:24 PM,2:14,Hamilton REBOUND (Off:2 Def:5),,,,
+0020201092,426,1,42,4,10:24 PM,2:12,Hamilton  Driving Layup (20 PTS),,,92 - 86,-6
+0020201092,427,9,2,4,10:24 PM,2:12,,,Pacers Timeout: Short (Reg.4 Short 2),,
+0020201092,428,9,4,4,10:25 PM,2:12,,,,,
+0020201092,430,1,3,4,10:27 PM,1:50,,,O'Neal 6' Hook Shot (29 PTS),94 - 86,-8
+0020201092,431,2,1,4,10:27 PM,1:28,MISS Williamson 20' Jump Shot,,,,
+0020201092,432,4,0,4,10:27 PM,1:26,PISTONS Rebound,,,,
+0020201092,433,5,11,4,10:28 PM,1:26,PISTONS Turnover: Shot Clock (T#16),,,,
+0020201092,434,6,2,4,10:29 PM,1:05,Williamson S.FOUL (P3.T4),,,,
+0020201092,435,3,11,4,10:29 PM,1:05,,,Harrington Free Throw 1 of 2 (11 PTS),95 - 86,-9
+0020201092,436,3,12,4,10:29 PM,1:05,,,Harrington Free Throw 2 of 2 (12 PTS),96 - 86,-10
+0020201092,437,9,1,4,10:30 PM,1:05,PISTONS Timeout: Regular (Full 5 Short 0),,,,
+0020201092,439,8,0,4,10:31 PM,1:05,SUB: Barry FOR Wallace,,,,
+0020201092,440,8,0,4,10:32 PM,1:05,,,SUB: Miller FOR Miller,,
+0020201092,441,1,5,4,10:32 PM,0:59,Hamilton  Layup (22 PTS) (Robinson 8 AST),,,96 - 88,-8
+0020201092,442,5,4,4,10:33 PM,0:38,,,World Peace Traveling Turnover (P2.T9),,
+0020201092,443,9,2,4,10:33 PM,0:38,PISTONS Timeout: Short (Full 5 Short 1),,,,
+0020201092,444,6,2,4,10:34 PM,0:31,,,O'Neal S.FOUL (P5.PN),,
+0020201092,445,3,11,4,10:34 PM,0:31,Barry Free Throw 1 of 2 (10 PTS),,,96 - 89,-7
+0020201092,446,3,12,4,10:34 PM,0:31,Barry Free Throw 2 of 2 (11 PTS),,,96 - 90,-6
+0020201092,447,6,1,4,10:35 PM,0:26,Williamson P.FOUL (P4.PN),,,,
+0020201092,448,3,11,4,10:35 PM,0:26,,,MISS Harrington Free Throw 1 of 2,,
+0020201092,449,4,1,4,10:35 PM,0:26,,,Pacers Rebound,,
+0020201092,450,3,12,4,10:35 PM,0:26,,,Harrington Free Throw 2 of 2 (13 PTS),97 - 90,-7
+0020201092,451,2,1,4,10:36 PM,0:17,MISS Williamson 17' Jump Shot,,,,
+0020201092,452,4,0,4,10:36 PM,0:15,,,Tinsley REBOUND (Off:1 Def:3),,
+0020201092,453,6,1,4,10:36 PM,0:15,Robinson P.FOUL (P4.PN),,,,
+0020201092,454,3,11,4,10:36 PM,0:15,,,Tinsley Free Throw 1 of 2 (12 PTS),98 - 90,-8
+0020201092,455,3,12,4,10:36 PM,0:15,,,MISS Tinsley Free Throw 2 of 2,,
+0020201092,456,4,0,4,10:36 PM,0:14,Robinson REBOUND (Off:0 Def:4),,,,
+0020201092,457,9,1,4,10:37 PM,0:10,,,Pacers Timeout: Regular (Reg.5 Short 2),,
+0020201092,459,1,7,4,10:39 PM,0:08,Williamson  Dunk (16 PTS) (Barry 4 AST),,,98 - 92,-6
+0020201092,460,13,0,4,10:39 PM,0:00,,,,98 - 92,-6

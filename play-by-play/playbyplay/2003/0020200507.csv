@@ -1,0 +1,427 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020200507,0,12,0,1,7:12 PM,12:00,,,,,
+0020200507,1,10,0,1,7:13 PM,12:00,Jump Ball Davis vs. Collins: Tip to Jefferson,,,,
+0020200507,3,2,55,1,7:14 PM,11:44,,,MISS Collins 7' Hook Shot,,
+0020200507,4,4,0,1,7:14 PM,11:42,,,Collins REBOUND (Off:1 Def:0),,
+0020200507,5,2,55,1,7:14 PM,11:40,,,MISS Collins 4' Hook Shot,,
+0020200507,6,4,0,1,7:14 PM,11:38,,,Nets Rebound,,
+0020200507,7,2,1,1,7:14 PM,11:30,,,MISS Harris 18' Jump Shot,,
+0020200507,8,4,0,1,7:14 PM,11:29,,,Collins REBOUND (Off:2 Def:0),,
+0020200507,9,1,1,1,7:15 PM,11:13,,,Harris 21' Jump Shot (2 PTS),2 - 0,-2
+0020200507,10,1,1,1,7:15 PM,10:49,Jefferies 11' Jump Shot (2 PTS),,,2 - 2,TIE
+0020200507,11,2,1,1,7:15 PM,10:30,,,MISS Collins 15' Jump Shot,,
+0020200507,12,4,0,1,7:15 PM,10:28,Williams REBOUND (Off:0 Def:1),,,,
+0020200507,13,1,1,1,7:16 PM,10:14,Davis 15' Jump Shot (2 PTS),,,2 - 4,2
+0020200507,14,5,2,1,7:16 PM,9:55,Williams STEAL (1 STL),,Kidd Lost Ball Turnover (P1.T1),,
+0020200507,15,1,42,1,7:16 PM,9:49,Peterson  Driving Layup (2 PTS) (Williams 1 AST),,,2 - 6,4
+0020200507,16,2,59,1,7:16 PM,9:31,,,MISS Martin  Finger Roll,,
+0020200507,17,4,0,1,7:16 PM,9:29,,,Collins REBOUND (Off:3 Def:0),,
+0020200507,18,6,2,1,7:16 PM,9:29,Jefferies S.FOUL (P1.T1),,,,
+0020200507,19,3,11,1,7:17 PM,9:29,,,Collins Free Throw 1 of 2 (1 PTS),3 - 6,3
+0020200507,20,3,12,1,7:17 PM,9:29,,,Collins Free Throw 2 of 2 (2 PTS),4 - 6,2
+0020200507,21,1,1,1,7:17 PM,9:11,Davis 19' Jump Shot (4 PTS) (Peterson 1 AST),,,4 - 8,4
+0020200507,22,1,44,1,7:17 PM,8:57,,,Jefferson  Reverse Layup (2 PTS) (Kidd 1 AST),6 - 8,2
+0020200507,23,6,2,1,7:17 PM,8:57,Jefferies S.FOUL (P2.T2),,,,
+0020200507,24,3,10,1,7:18 PM,8:57,,,Jefferson Free Throw 1 of 1 (3 PTS),7 - 8,1
+0020200507,26,1,1,1,7:18 PM,8:38,Jefferies 21' Jump Shot (4 PTS) (Peterson 2 AST),,,7 - 10,3
+0020200507,27,2,1,1,7:19 PM,8:17,,,MISS Martin 21' Jump Shot,,
+0020200507,28,4,0,1,7:19 PM,8:15,Williams REBOUND (Off:0 Def:2),,,,
+0020200507,29,1,50,1,7:19 PM,8:09,Davis  Running Dunk (6 PTS) (Williams 2 AST),,,7 - 12,5
+0020200507,30,9,1,1,7:19 PM,8:00,,,Nets Timeout: Regular (Reg.1 Short 0),,
+0020200507,33,8,0,1,7:21 PM,8:00,SUB: Hunter FOR Jefferies,,,,
+0020200507,34,1,1,1,7:21 PM,7:49,,,Jefferson 10' Jump Shot (5 PTS),9 - 12,3
+0020200507,35,1,1,1,7:22 PM,7:25,Peterson 20' Jump Shot (4 PTS),,,9 - 14,5
+0020200507,36,2,1,1,7:22 PM,7:12,,,MISS Kidd 26' 3PT Jump Shot,,
+0020200507,37,4,0,1,7:22 PM,7:11,Davis REBOUND (Off:0 Def:1),,,,
+0020200507,38,6,2,1,7:22 PM,6:56,,,Martin S.FOUL (P1.T1),,
+0020200507,39,3,11,1,7:22 PM,6:56,Williams Free Throw 1 of 2 (1 PTS),,,9 - 15,6
+0020200507,40,3,12,1,7:23 PM,6:56,MISS Williams Free Throw 2 of 2,,,,
+0020200507,41,4,0,1,7:23 PM,6:56,,,Martin REBOUND (Off:0 Def:1),,
+0020200507,42,1,58,1,7:23 PM,6:35,,,Martin 9' Turnaround Hook Shot (2 PTS),11 - 15,4
+0020200507,43,6,1,1,7:23 PM,6:21,,,Collins P.FOUL (P1.T2),,
+0020200507,44,8,0,1,7:24 PM,6:21,,,SUB: Johnson FOR Kidd,,
+0020200507,45,8,0,1,7:24 PM,6:21,,,SUB: Rogers FOR Martin,,
+0020200507,46,5,11,1,7:24 PM,6:06,RAPTORS Turnover: Shot Clock (T#1),,,,
+0020200507,48,6,2,1,7:25 PM,5:53,Williams S.FOUL (P1.T3),,,,
+0020200507,49,3,11,1,7:25 PM,5:53,,,Collins Free Throw 1 of 2 (3 PTS),12 - 15,3
+0020200507,50,3,12,1,7:25 PM,5:53,,,Collins Free Throw 2 of 2 (4 PTS),13 - 15,2
+0020200507,51,2,1,1,7:26 PM,5:40,MISS Williams 14' Jump Shot,,,,
+0020200507,52,4,0,1,7:26 PM,5:38,RAPTORS Rebound,,,,
+0020200507,53,6,4,1,7:26 PM,5:31,Davis OFF.Foul (P1),,,,
+0020200507,54,5,5,1,7:26 PM,5:31,Davis Foul Turnover (P1.T2),,,,
+0020200507,55,2,1,1,7:27 PM,5:22,,,MISS Harris 21' Jump Shot,,
+0020200507,56,4,0,1,7:27 PM,5:20,Davis REBOUND (Off:0 Def:2),,,,
+0020200507,57,2,1,1,7:27 PM,5:06,MISS Hunter 17' Jump Shot,,,,
+0020200507,58,4,0,1,7:27 PM,5:04,,,Rogers REBOUND (Off:0 Def:1),,
+0020200507,59,1,1,1,7:27 PM,4:51,,,Johnson 19' Jump Shot (2 PTS) (Collins 1 AST),15 - 15,TIE
+0020200507,60,5,1,1,7:27 PM,4:39,Peterson Bad Pass Turnover (P1.T3),,,,
+0020200507,61,2,46,1,7:28 PM,4:26,,,MISS Rogers 9' Running Jump Shot,,
+0020200507,62,4,0,1,7:28 PM,4:24,Davis REBOUND (Off:0 Def:3),,,,
+0020200507,63,1,61,1,7:28 PM,4:19,Williams  Driving Finger Roll (2 PTS) (Davis 1 AST),,,15 - 17,2
+0020200507,64,2,1,1,7:28 PM,4:01,,,MISS Rogers 20' Jump Shot,,
+0020200507,65,4,0,1,7:28 PM,4:00,,,Nets Rebound,,
+0020200507,66,8,0,1,7:28 PM,3:59,,,SUB: Kittles FOR Harris,,
+0020200507,67,8,0,1,7:28 PM,3:59,SUB: McCoy FOR Davis,,,,
+0020200507,68,8,0,1,7:28 PM,3:59,SUB: Alston FOR Williams,,,,
+0020200507,69,8,0,1,7:28 PM,3:59,,,SUB: Williams FOR Collins,,
+0020200507,71,2,1,1,7:29 PM,3:42,,,MISS Kittles 18' Jump Shot,,
+0020200507,72,4,0,1,7:29 PM,3:41,Williams REBOUND (Off:0 Def:3),,,,
+0020200507,73,5,4,1,7:29 PM,3:26,Hunter Traveling Turnover (P1.T4),,,,
+0020200507,74,1,1,1,7:30 PM,3:18,,,Jefferson 8' Jump Shot (7 PTS),17 - 17,TIE
+0020200507,75,2,61,1,7:30 PM,2:54,MISS Hunter  Driving Finger Roll,,,,
+0020200507,76,4,0,1,7:30 PM,2:51,Williams REBOUND (Off:1 Def:3),,,,
+0020200507,77,1,4,1,7:30 PM,2:49,Williams  Tip Shot (3 PTS),,,17 - 19,2
+0020200507,78,5,2,1,7:30 PM,2:31,Alston STEAL (1 STL),,Rogers Lost Ball Turnover (P1.T2),,
+0020200507,79,6,2,1,7:30 PM,2:27,,,Johnson S.FOUL (P1.T3),,
+0020200507,80,9,3,1,7:31 PM,2:27,RAPTORS Timeout: Official TV (Full 0 Short 0),,,,
+0020200507,84,3,11,1,7:33 PM,2:27,Hunter Free Throw 1 of 2 (1 PTS),,,17 - 20,3
+0020200507,85,3,12,1,7:33 PM,2:27,MISS Hunter Free Throw 2 of 2,,,,
+0020200507,86,4,0,1,7:33 PM,2:27,,,Rogers REBOUND (Off:0 Def:2),,
+0020200507,87,2,1,1,7:34 PM,2:05,,,MISS Johnson 19' Jump Shot,,
+0020200507,88,4,0,1,7:34 PM,2:04,RAPTORS Rebound,,,,
+0020200507,89,6,4,1,7:34 PM,1:47,McCoy OFF.Foul (P1),,,,
+0020200507,90,5,5,1,7:34 PM,1:47,McCoy Foul Turnover (P1.T5),,,,
+0020200507,91,1,1,1,7:35 PM,1:30,,,Rogers 22' Jump Shot (2 PTS) (Johnson 1 AST),19 - 20,1
+0020200507,92,2,5,1,7:35 PM,1:11,MISS Williams  Layup,,Rogers BLOCK (1 BLK),,
+0020200507,93,4,0,1,7:35 PM,1:09,,,Johnson REBOUND (Off:0 Def:1),,
+0020200507,94,1,1,1,7:35 PM,1:00,,,Rogers 25' 3PT Jump Shot (5 PTS) (Kittles 1 AST),22 - 20,-2
+0020200507,95,1,1,1,7:35 PM,0:46,Williams 20' Jump Shot (5 PTS) (Hunter 1 AST),,,22 - 22,TIE
+0020200507,96,2,57,1,7:36 PM,0:28,,,MISS Williams 11' Driving Hook Shot,,
+0020200507,97,4,0,1,7:36 PM,0:26,Alston REBOUND (Off:0 Def:1),,,,
+0020200507,98,2,1,1,7:36 PM,0:12,MISS Peterson 24' 3PT Jump Shot,,,,
+0020200507,99,4,0,1,7:36 PM,0:10,,,Johnson REBOUND (Off:0 Def:2),,
+0020200507,100,6,4,1,7:36 PM,0:01,,,Johnson OFF.Foul (P2),,
+0020200507,101,5,5,1,7:36 PM,0:01,,,Johnson Foul Turnover (P1.T3),,
+0020200507,102,2,46,1,7:37 PM,0:00,MISS Peterson 42' 3PT Running Jump Shot,,,,
+0020200507,103,4,0,1,7:37 PM,0:00,RAPTORS Rebound,,,,
+0020200507,104,13,0,1,7:37 PM,0:00,,,,22 - 22,TIE
+0020200507,106,12,0,2,7:40 PM,12:00,,,,22 - 22,TIE
+0020200507,107,5,2,2,7:40 PM,11:44,Alston Lost Ball Turnover (P1.T6),,Kittles STEAL (1 STL),,
+0020200507,108,2,1,2,7:40 PM,11:36,,,MISS Rogers 13' Jump Shot,,
+0020200507,109,4,0,2,7:40 PM,11:34,Alston REBOUND (Off:0 Def:2),,,,
+0020200507,110,1,44,2,7:40 PM,11:27,McCoy  Reverse Layup (2 PTS) (Alston 1 AST),,,22 - 24,2
+0020200507,111,1,1,2,7:40 PM,11:12,,,Kittles 17' Jump Shot (2 PTS) (Rogers 1 AST),24 - 24,TIE
+0020200507,112,2,46,2,7:41 PM,10:45,MISS Peterson 14' Running Jump Shot,,,,
+0020200507,113,4,0,2,7:41 PM,10:43,,,Martin REBOUND (Off:0 Def:2),,
+0020200507,114,5,2,2,7:41 PM,10:41,Alston STEAL (2 STL),,Martin Lost Ball Turnover (P1.T4),,
+0020200507,115,6,2,2,7:41 PM,10:30,,,Rogers S.FOUL (P1.T1),,
+0020200507,116,8,0,2,7:41 PM,10:30,SUB: Jefferies FOR Peterson,,,,
+0020200507,117,8,0,2,7:41 PM,10:30,SUB: Williams FOR Hunter,,,,
+0020200507,118,3,11,2,7:42 PM,10:30,Williams Free Throw 1 of 2 (6 PTS),,,24 - 25,1
+0020200507,119,3,12,2,7:42 PM,10:30,Williams Free Throw 2 of 2 (7 PTS),,,24 - 26,2
+0020200507,120,2,1,2,7:42 PM,10:20,,,MISS Kittles 18' Jump Shot,,
+0020200507,121,4,0,2,7:42 PM,10:18,McCoy REBOUND (Off:0 Def:1),,,,
+0020200507,122,1,1,2,7:42 PM,10:06,Alston 21' Jump Shot (2 PTS),,,24 - 28,4
+0020200507,123,1,1,2,7:43 PM,9:47,,,Kittles 20' Jump Shot (4 PTS) (Kidd 2 AST),26 - 28,2
+0020200507,124,2,1,2,7:43 PM,9:29,MISS Williams 20' Jump Shot,,,,
+0020200507,125,4,0,2,7:43 PM,9:28,,,Rogers REBOUND (Off:0 Def:3),,
+0020200507,126,1,50,2,7:43 PM,9:23,,,Williams  Running Dunk (2 PTS) (Kidd 3 AST),28 - 28,TIE
+0020200507,127,6,2,2,7:43 PM,9:23,McCoy S.FOUL (P2.T1),,,,
+0020200507,128,8,0,2,7:43 PM,9:23,SUB: Davis FOR Williams,,,,
+0020200507,129,8,0,2,7:44 PM,9:23,SUB: Long FOR McCoy,,,,
+0020200507,130,3,10,2,7:44 PM,9:23,,,Williams Free Throw 1 of 1 (3 PTS),29 - 28,-1
+0020200507,132,2,1,2,7:44 PM,9:04,MISS Williams 24' 3PT Jump Shot,,,,
+0020200507,133,4,0,2,7:44 PM,9:03,Long REBOUND (Off:1 Def:0),,,,
+0020200507,134,1,4,2,7:44 PM,9:01,Long  Tip Shot (2 PTS),,,29 - 30,1
+0020200507,135,2,59,2,7:45 PM,8:45,,,MISS Williams  Finger Roll,,
+0020200507,136,4,0,2,7:45 PM,8:42,,,Williams REBOUND (Off:1 Def:0),,
+0020200507,137,2,4,2,7:45 PM,8:40,,,MISS Williams  Tip Shot,,
+0020200507,138,4,0,2,7:45 PM,8:38,Davis REBOUND (Off:0 Def:4),,,,
+0020200507,139,2,1,2,7:45 PM,8:20,MISS Davis 18' Jump Shot,,,,
+0020200507,140,4,0,2,7:45 PM,8:18,,,Rogers REBOUND (Off:0 Def:4),,
+0020200507,141,2,47,2,7:45 PM,8:07,,,MISS Williams 12' Turnaround Jump Shot,,
+0020200507,142,4,0,2,7:45 PM,8:05,Alston REBOUND (Off:0 Def:3),,,,
+0020200507,143,5,1,2,7:45 PM,8:02,Alston Bad Pass Turnover (P2.T7),,Rogers STEAL (1 STL),,
+0020200507,144,1,50,2,7:45 PM,7:59,,,Kittles  Running Dunk (6 PTS) (Kidd 4 AST),31 - 30,-1
+0020200507,145,5,11,2,7:46 PM,7:27,RAPTORS Turnover: Shot Clock (T#8),,,,
+0020200507,146,9,4,2,7:46 PM,7:27,,,,,
+0020200507,150,1,1,2,7:49 PM,7:21,,,Kidd 21' Jump Shot (2 PTS),33 - 30,-3
+0020200507,151,1,1,2,7:49 PM,6:56,Alston 28' 3PT Jump Shot (5 PTS),,,33 - 33,TIE
+0020200507,152,2,1,2,7:49 PM,6:47,,,MISS Kidd 6' Jump Shot,,
+0020200507,153,4,0,2,7:49 PM,6:46,,,Kidd REBOUND (Off:1 Def:0),,
+0020200507,154,1,59,2,7:49 PM,6:46,,,Kidd  Finger Roll (4 PTS),35 - 33,-2
+0020200507,155,6,2,2,7:49 PM,6:46,Williams S.FOUL (P1.T2),,,,
+0020200507,156,8,0,2,7:50 PM,6:46,,,SUB: Harris FOR Rogers,,
+0020200507,157,8,0,2,7:50 PM,6:46,,,SUB: Jefferson FOR Kittles,,
+0020200507,158,8,0,2,7:50 PM,6:46,,,SUB: Collins FOR Williams,,
+0020200507,159,3,10,2,7:50 PM,6:46,,,Kidd Free Throw 1 of 1 (5 PTS),36 - 33,-3
+0020200507,161,6,1,2,7:50 PM,6:25,,,Collins P.FOUL (P2.T2),,
+0020200507,162,1,1,2,7:51 PM,6:15,Alston 25' 3PT Jump Shot (8 PTS) (Williams 1 AST),,,36 - 36,TIE
+0020200507,163,1,1,2,7:51 PM,5:54,,,Martin 20' Jump Shot (4 PTS) (Kidd 5 AST),38 - 36,-2
+0020200507,164,6,4,2,7:51 PM,5:39,Long OFF.Foul (P1),,,,
+0020200507,165,5,5,2,7:51 PM,5:39,Long Foul Turnover (P1.T9),,,,
+0020200507,166,9,3,2,7:51 PM,5:39,RAPTORS Timeout: Official TV (Full 0 Short 0),,,,
+0020200507,170,1,1,2,7:54 PM,5:21,,,Kidd  3PT Jump Shot (8 PTS) (Collins 2 AST),41 - 36,-5
+0020200507,171,2,63,2,7:54 PM,4:56,MISS Long 19' Fadeaway Jumper,,,,
+0020200507,172,4,0,2,7:54 PM,4:54,Davis REBOUND (Off:1 Def:4),,,,
+0020200507,173,5,1,2,7:54 PM,4:48,Alston Bad Pass Turnover (P3.T10),,Kidd STEAL (1 STL),,
+0020200507,174,2,49,2,7:54 PM,4:44,,,MISS Kidd  Driving Dunk,,
+0020200507,175,4,0,2,7:54 PM,4:41,,,Nets Rebound,,
+0020200507,176,8,0,2,7:55 PM,4:41,SUB: Williams FOR Alston,,,,
+0020200507,177,8,0,2,7:55 PM,4:41,SUB: Peterson FOR Long,,,,
+0020200507,178,2,1,2,7:55 PM,4:22,,,MISS Martin 13' Jump Shot,,
+0020200507,179,4,0,2,7:55 PM,4:20,,,Collins REBOUND (Off:4 Def:0),,
+0020200507,180,1,4,2,7:55 PM,4:18,,,Collins  Tip Shot (6 PTS),43 - 36,-7
+0020200507,181,2,47,2,7:56 PM,3:53,MISS Davis 14' Turnaround Jump Shot,,,,
+0020200507,182,4,0,2,7:56 PM,3:50,,,Kidd REBOUND (Off:1 Def:1),,
+0020200507,183,2,1,2,7:56 PM,3:46,,,MISS Kidd 17' Jump Shot,,
+0020200507,184,4,0,2,7:56 PM,3:45,,,Martin REBOUND (Off:1 Def:2),,
+0020200507,185,1,4,2,7:56 PM,3:43,,,Martin  Tip Shot (6 PTS),45 - 36,-9
+0020200507,186,9,1,2,7:56 PM,3:42,RAPTORS Timeout: Regular (Full 1 Short 0),,,,
+0020200507,190,1,42,2,7:58 PM,3:29,Davis  Driving Layup (8 PTS) (Williams 2 AST),,,45 - 38,-7
+0020200507,191,2,1,2,7:58 PM,3:12,,,MISS Jefferson 19' Jump Shot,,
+0020200507,192,4,0,2,7:59 PM,3:11,,,Martin REBOUND (Off:2 Def:2),,
+0020200507,193,2,44,2,7:59 PM,2:58,Davis BLOCK (1 BLK),,MISS Jefferson  Reverse Layup,,
+0020200507,194,4,0,2,7:59 PM,2:56,,,Jefferson REBOUND (Off:1 Def:0),,
+0020200507,195,2,5,2,7:59 PM,2:53,,,MISS Collins  Layup,,
+0020200507,196,4,0,2,7:59 PM,2:52,,,Nets Rebound,,
+0020200507,197,6,3,2,7:59 PM,2:52,Williams L.B.FOUL (P2.T3),,,,
+0020200507,198,2,5,2,7:59 PM,2:35,,,MISS Martin  Layup,,
+0020200507,199,4,0,2,7:59 PM,2:34,,,Collins REBOUND (Off:5 Def:0),,
+0020200507,200,6,2,2,8:00 PM,2:33,Williams S.FOUL (P2.T4),,,,
+0020200507,201,3,11,2,8:00 PM,2:33,,,MISS Collins Free Throw 1 of 2,,
+0020200507,202,4,1,2,8:00 PM,2:33,,,Nets Rebound,,
+0020200507,205,5,17,2,8:01 PM,2:33,,,Collins Lane Violation Turnover (P1.T5),,
+0020200507,207,1,1,2,8:01 PM,2:13,Williams 20' Jump Shot (4 PTS),,,45 - 40,-5
+0020200507,208,1,5,2,8:01 PM,1:57,,,Harris  Layup (4 PTS) (Kidd 6 AST),47 - 40,-7
+0020200507,209,2,63,2,8:02 PM,1:38,MISS Davis 16' Fadeaway Jumper,,,,
+0020200507,210,4,0,2,8:02 PM,1:36,,,Martin REBOUND (Off:2 Def:3),,
+0020200507,211,5,1,2,8:02 PM,1:24,,,Martin Bad Pass Turnover (P2.T6),,
+0020200507,212,2,1,2,8:02 PM,1:13,MISS Williams 25' 3PT Jump Shot,,,,
+0020200507,213,4,0,2,8:02 PM,1:10,,,Martin REBOUND (Off:2 Def:4),,
+0020200507,214,6,2,2,8:03 PM,0:58,Jefferies S.FOUL (P3.PN),,,,
+0020200507,215,3,11,2,8:03 PM,0:58,,,MISS Jefferson Free Throw 1 of 2,,
+0020200507,216,4,1,2,8:03 PM,0:58,,,Nets Rebound,,
+0020200507,217,8,0,2,8:03 PM,0:58,SUB: Alston FOR Jefferies,,,,
+0020200507,218,3,12,2,8:03 PM,0:58,,,Jefferson Free Throw 2 of 2 (8 PTS),48 - 40,-8
+0020200507,219,6,1,2,8:04 PM,0:48,,,Jefferson P.FOUL (P1.T3),,
+0020200507,220,9,2,2,8:04 PM,0:48,RAPTORS Timeout: Short (Full 1 Short 1),,,,
+0020200507,224,2,1,2,8:05 PM,0:35,MISS Alston 25' 3PT Jump Shot,,,,
+0020200507,225,4,0,2,8:05 PM,0:32,,,Kidd REBOUND (Off:1 Def:2),,
+0020200507,226,1,1,2,8:05 PM,0:28,,,Kidd 26' 3PT Jump Shot (11 PTS),51 - 40,-11
+0020200507,227,6,2,2,8:06 PM,0:07,,,Collins S.FOUL (P3.PN),,
+0020200507,228,3,11,2,8:06 PM,0:07,MISS Williams Free Throw 1 of 2,,,,
+0020200507,229,4,1,2,8:06 PM,0:07,RAPTORS Rebound,,,,
+0020200507,230,8,0,2,8:06 PM,0:07,,,SUB: Williams FOR Collins,,
+0020200507,231,3,12,2,8:06 PM,0:07,MISS Williams Free Throw 2 of 2,,,,
+0020200507,232,4,0,2,8:06 PM,0:06,,,Martin REBOUND (Off:2 Def:5),,
+0020200507,233,5,2,2,8:06 PM,0:02,Alston STEAL (3 STL),,Kidd Lost Ball Turnover (P2.T7),,
+0020200507,234,5,3,2,8:06 PM,0:02,Alston Out Of Bounds Turnover (P4.T11),,,,
+0020200507,235,9,2,2,8:06 PM,0:02,,,Nets Timeout: Short (Reg.1 Short 1),,
+0020200507,237,8,0,2,8:07 PM,0:02,,,SUB: Rogers FOR Williams,,
+0020200507,239,2,1,2,8:07 PM,0:00,,,MISS Rogers 20' Jump Shot,,
+0020200507,240,4,0,2,8:08 PM,0:00,,,Nets Rebound,,
+0020200507,242,13,0,2,8:08 PM,0:00,,,,51 - 40,-11
+0020200507,244,12,0,3,8:24 PM,12:00,,,,51 - 40,-11
+0020200507,245,5,3,3,8:25 PM,11:57,Williams Out Of Bounds Turnover (P1.T12),,,,
+0020200507,246,5,2,3,8:25 PM,11:45,Williams STEAL (2 STL),,Martin Lost Ball Turnover (P3.T8),,
+0020200507,247,1,1,3,8:26 PM,11:22,Peterson 25' 3PT Jump Shot (7 PTS),,,51 - 43,-8
+0020200507,248,1,8,3,8:26 PM,11:14,,,Collins  Slam Dunk (8 PTS) (Kidd 7 AST),53 - 43,-10
+0020200507,250,2,1,3,8:26 PM,10:57,MISS Peterson 24' 3PT Jump Shot,,,,
+0020200507,251,4,0,3,8:26 PM,10:55,,,Kidd REBOUND (Off:1 Def:3),,
+0020200507,252,1,8,3,8:26 PM,10:51,,,Martin  Slam Dunk (8 PTS) (Harris 1 AST),55 - 43,-12
+0020200507,253,9,2,3,8:26 PM,10:46,RAPTORS Timeout: Short (Full 1 Short 2),,,,
+0020200507,255,2,1,3,8:28 PM,10:23,MISS Davis 14' Jump Shot,,,,
+0020200507,256,4,0,3,8:28 PM,10:21,,,Kidd REBOUND (Off:1 Def:4),,
+0020200507,257,2,1,3,8:28 PM,10:04,,,MISS Kidd 25' 3PT Jump Shot,,
+0020200507,258,4,0,3,8:28 PM,10:02,Williams REBOUND (Off:1 Def:4),,,,
+0020200507,259,2,1,3,8:28 PM,9:48,MISS Jefferies 20' Jump Shot,,,,
+0020200507,260,4,0,3,8:28 PM,9:47,Peterson REBOUND (Off:1 Def:0),,,,
+0020200507,261,6,2,3,8:29 PM,9:33,,,Collins S.FOUL (P4.T1),,
+0020200507,262,3,11,3,8:29 PM,9:33,MISS Williams Free Throw 1 of 2,,,,
+0020200507,263,4,1,3,8:29 PM,9:33,RAPTORS Rebound,,,,
+0020200507,264,8,0,3,8:29 PM,9:33,SUB: Alston FOR Williams,,,,
+0020200507,265,3,12,3,8:29 PM,9:33,MISS Williams Free Throw 2 of 2,,,,
+0020200507,266,4,0,3,8:29 PM,9:33,,,Jefferson REBOUND (Off:1 Def:1),,
+0020200507,267,2,1,3,8:30 PM,9:15,,,MISS Harris 16' Jump Shot,,
+0020200507,268,4,0,3,8:30 PM,9:13,Davis REBOUND (Off:1 Def:5),,,,
+0020200507,270,2,1,3,8:30 PM,8:55,MISS Davis 18' Jump Shot,,,,
+0020200507,271,4,0,3,8:30 PM,8:54,,,Jefferson REBOUND (Off:1 Def:2),,
+0020200507,272,5,1,3,8:30 PM,8:48,Peterson STEAL (1 STL),,Kidd Bad Pass Turnover (P3.T9),,
+0020200507,273,2,1,3,8:31 PM,8:35,MISS Peterson 25' 3PT Jump Shot,,,,
+0020200507,274,4,0,3,8:31 PM,8:33,,,Collins REBOUND (Off:5 Def:1),,
+0020200507,275,6,1,3,8:31 PM,8:30,Peterson P.FOUL (P1.T1),,,,
+0020200507,276,8,0,3,8:31 PM,8:30,SUB: Williams FOR Alston,,,,
+0020200507,277,2,1,3,8:31 PM,8:15,,,MISS Kidd 25' 3PT Jump Shot,,
+0020200507,278,4,0,3,8:31 PM,8:13,Davis REBOUND (Off:1 Def:6),,,,
+0020200507,279,2,1,3,8:32 PM,7:59,MISS Williams 17' Jump Shot,,,,
+0020200507,280,4,0,3,8:32 PM,7:57,,,Martin REBOUND (Off:2 Def:6),,
+0020200507,281,5,1,3,8:32 PM,7:55,Williams STEAL (1 STL),,Martin Bad Pass Turnover (P4.T10),,
+0020200507,282,5,2,3,8:32 PM,7:49,Williams Lost Ball Turnover (P2.T13),,Jefferson STEAL (1 STL),,
+0020200507,283,2,1,3,8:32 PM,7:41,,,MISS Jefferson 26' 3PT Jump Shot,,
+0020200507,284,4,0,3,8:32 PM,7:39,Williams REBOUND (Off:1 Def:5),,,,
+0020200507,285,2,47,3,8:32 PM,7:24,MISS Davis 8' Turnaround Jump Shot,,,,
+0020200507,286,4,0,3,8:32 PM,7:22,,,Collins REBOUND (Off:5 Def:2),,
+0020200507,287,5,4,3,8:32 PM,7:18,,,Kidd Traveling Turnover (P4.T11),,
+0020200507,288,8,0,3,8:32 PM,7:18,,,SUB: Williams FOR Collins,,
+0020200507,289,2,1,3,8:33 PM,7:07,MISS Williams 19' Jump Shot,,,,
+0020200507,290,4,0,3,8:33 PM,7:05,Williams REBOUND (Off:2 Def:5),,,,
+0020200507,291,2,1,3,8:33 PM,7:02,MISS Jefferies 26' 3PT Jump Shot,,,,
+0020200507,292,4,0,3,8:33 PM,7:00,,,Kidd REBOUND (Off:1 Def:5),,
+0020200507,293,1,58,3,8:33 PM,6:50,,,Martin 7' Turnaround Hook Shot (10 PTS),57 - 43,-14
+0020200507,294,6,1,3,8:33 PM,6:32,,,Williams P.FOUL (P1.T2),,
+0020200507,295,1,8,3,8:34 PM,6:27,Williams  Slam Dunk (9 PTS) (Peterson 3 AST),,,57 - 45,-12
+0020200507,296,9,1,3,8:34 PM,6:17,,,Nets Timeout: Regular (Reg.2 Short 1),,
+0020200507,300,6,2,3,8:37 PM,6:06,Jefferies S.FOUL (P4.T2),,,,
+0020200507,301,3,11,3,8:37 PM,6:06,,,Jefferson Free Throw 1 of 2 (9 PTS),58 - 45,-13
+0020200507,302,8,0,3,8:37 PM,6:06,SUB: Alston FOR Jefferies,,,,
+0020200507,303,3,12,3,8:37 PM,6:06,,,Jefferson Free Throw 2 of 2 (10 PTS),59 - 45,-14
+0020200507,304,1,42,3,8:38 PM,5:42,Davis  Driving Layup (10 PTS),,,59 - 47,-12
+0020200507,305,1,1,3,8:38 PM,5:23,,,Kidd 23' Jump Shot (13 PTS),61 - 47,-14
+0020200507,306,1,1,3,8:39 PM,4:57,Williams 25' 3PT Jump Shot (7 PTS) (Williams 3 AST),,,61 - 50,-11
+0020200507,307,5,1,3,8:39 PM,4:41,Williams STEAL (3 STL),,Martin Bad Pass Turnover (P5.T12),,
+0020200507,308,2,42,3,8:39 PM,4:36,MISS Williams  Driving Layup,,Williams BLOCK (1 BLK),,
+0020200507,309,4,0,3,8:39 PM,4:34,,,Harris REBOUND (Off:0 Def:1),,
+0020200507,310,2,1,3,8:39 PM,4:17,,,MISS Kidd 18' Jump Shot,,
+0020200507,311,4,0,3,8:39 PM,4:17,RAPTORS Rebound,,,,
+0020200507,312,8,0,3,8:39 PM,4:17,,,SUB: Rogers FOR Jefferson,,
+0020200507,313,5,1,3,8:40 PM,4:01,Alston Bad Pass Turnover (P5.T14),,Harris STEAL (1 STL),,
+0020200507,314,6,2,3,8:40 PM,3:58,Williams S.FOUL (P3.T3),,,,
+0020200507,315,3,11,3,8:40 PM,3:58,,,Kidd Free Throw 1 of 2 (14 PTS),62 - 50,-12
+0020200507,316,3,12,3,8:40 PM,3:58,,,Kidd Free Throw 2 of 2 (15 PTS),63 - 50,-13
+0020200507,317,2,1,3,8:41 PM,3:34,MISS Alston 26' 3PT Jump Shot,,,,
+0020200507,318,4,0,3,8:41 PM,3:32,Peterson REBOUND (Off:2 Def:0),,,,
+0020200507,319,1,1,3,8:41 PM,3:28,Williams 21' Jump Shot (9 PTS) (Alston 2 AST),,,63 - 52,-11
+0020200507,320,8,0,3,8:42 PM,3:09,,,SUB: Kittles FOR Harris,,
+0020200507,321,1,42,3,8:42 PM,3:02,,,Kidd  Driving Layup (17 PTS),65 - 52,-13
+0020200507,322,1,1,3,8:42 PM,2:41,Williams 25' 3PT Jump Shot (12 PTS),,,65 - 55,-10
+0020200507,323,2,1,3,8:42 PM,2:25,,,MISS Rogers 24' 3PT Jump Shot,,
+0020200507,324,4,0,3,8:42 PM,2:23,,,Martin REBOUND (Off:3 Def:6),,
+0020200507,325,6,2,3,8:43 PM,2:12,Peterson S.FOUL (P2.T4),,,,
+0020200507,326,9,3,3,8:43 PM,2:12,RAPTORS Timeout: Official TV (Full 1 Short 2),,,,
+0020200507,328,8,0,3,8:45 PM,2:12,SUB: McCoy FOR Davis,,,,
+0020200507,329,3,11,3,8:45 PM,2:12,,,Rogers Free Throw 1 of 2 (6 PTS),66 - 55,-11
+0020200507,330,3,12,3,8:46 PM,2:12,,,Rogers Free Throw 2 of 2 (7 PTS),67 - 55,-12
+0020200507,331,2,46,3,8:46 PM,1:55,MISS Williams 8' Running Jump Shot,,,,
+0020200507,332,4,0,3,8:46 PM,1:53,Williams REBOUND (Off:3 Def:5),,,,
+0020200507,333,2,57,3,8:46 PM,1:46,MISS Williams 6' Driving Hook Shot,,,,
+0020200507,334,4,0,3,8:46 PM,1:44,,,Kidd REBOUND (Off:1 Def:6),,
+0020200507,335,6,2,3,8:46 PM,1:41,Alston S.FOUL (P1.PN),,,,
+0020200507,336,3,11,3,8:47 PM,1:41,,,MISS Kidd Free Throw 1 of 2,,
+0020200507,337,4,1,3,8:47 PM,1:41,,,Nets Rebound,,
+0020200507,338,3,12,3,8:47 PM,1:41,,,Kidd Free Throw 2 of 2 (18 PTS),68 - 55,-13
+0020200507,339,6,2,3,8:47 PM,1:21,,,Williams S.FOUL (P2.T3),,
+0020200507,340,3,11,3,8:48 PM,1:21,McCoy Free Throw 1 of 2 (3 PTS),,,68 - 56,-12
+0020200507,341,3,12,3,8:48 PM,1:21,McCoy Free Throw 2 of 2 (4 PTS),,,68 - 57,-11
+0020200507,342,2,1,3,8:48 PM,1:08,,,MISS Kittles 20' Jump Shot,,
+0020200507,343,4,0,3,8:48 PM,1:07,McCoy REBOUND (Off:0 Def:2),,,,
+0020200507,344,2,1,3,8:49 PM,0:51,MISS Peterson 18' Jump Shot,,,,
+0020200507,345,4,0,3,8:49 PM,0:48,,,Kittles REBOUND (Off:0 Def:1),,
+0020200507,346,6,2,3,8:49 PM,0:37,Williams S.FOUL (P3.PN),,,,
+0020200507,347,3,11,3,8:49 PM,0:37,,,MISS Martin Free Throw 1 of 2,,
+0020200507,348,4,1,3,8:49 PM,0:37,,,Nets Rebound,,
+0020200507,349,3,12,3,8:49 PM,0:37,,,MISS Martin Free Throw 2 of 2,,
+0020200507,350,4,0,3,8:49 PM,0:37,Williams REBOUND (Off:3 Def:6),,,,
+0020200507,351,1,1,3,8:50 PM,0:14,Peterson 20' Jump Shot (9 PTS) (Williams 3 AST),,,68 - 59,-9
+0020200507,352,1,47,3,8:50 PM,0:00,,,Kidd 17' Turnaround Jump Shot (20 PTS),70 - 59,-11
+0020200507,354,13,0,3,8:50 PM,0:00,,,,70 - 59,-11
+0020200507,356,12,0,4,8:53 PM,12:00,,,,70 - 59,-11
+0020200507,357,6,1,4,8:54 PM,11:47,McCoy P.FOUL (P3.T1),,,,
+0020200507,359,6,1,4,8:54 PM,11:41,Hunter P.FOUL (P1.T2),,,,
+0020200507,360,1,58,4,8:54 PM,11:27,,,Williams 9' Turnaround Hook Shot (5 PTS),72 - 59,-13
+0020200507,361,2,1,4,8:55 PM,11:05,MISS Peterson 20' Jump Shot,,,,
+0020200507,362,4,0,4,8:55 PM,11:04,,,Kittles REBOUND (Off:0 Def:2),,
+0020200507,363,2,43,4,8:55 PM,10:44,,,MISS Williams  Alley Oop Layup,,
+0020200507,364,4,0,4,8:56 PM,10:42,Williams REBOUND (Off:3 Def:7),,,,
+0020200507,365,1,47,4,8:56 PM,10:32,McCoy 11' Turnaround Jump Shot (6 PTS),,,72 - 61,-11
+0020200507,366,1,1,4,8:56 PM,10:08,,,Rogers 25' 3PT Jump Shot (10 PTS),75 - 61,-14
+0020200507,367,6,1,4,8:56 PM,9:50,,,Kittles P.FOUL (P1.T1),,
+0020200507,368,2,56,4,8:57 PM,9:40,MISS Williams 8' Running Hook Shot,,,,
+0020200507,369,4,0,4,8:57 PM,9:39,RAPTORS Rebound,,,,
+0020200507,370,6,1,4,8:57 PM,9:32,,,Jefferson P.FOUL (P2.T2),,
+0020200507,372,6,2,4,8:58 PM,9:23,,,Rogers S.FOUL (P2.T3),,
+0020200507,373,3,11,4,8:58 PM,9:23,MISS Alston Free Throw 1 of 2,,,,
+0020200507,374,4,1,4,8:58 PM,9:23,RAPTORS Rebound,,,,
+0020200507,375,8,0,4,8:58 PM,9:23,SUB: Davis FOR Williams,,,,
+0020200507,376,3,12,4,8:58 PM,9:23,Alston Free Throw 2 of 2 (9 PTS),,,75 - 62,-13
+0020200507,377,6,2,4,8:59 PM,9:08,McCoy S.FOUL (P4.T3),,,,
+0020200507,378,3,11,4,8:59 PM,9:08,,,MISS Johnson Free Throw 1 of 2,,
+0020200507,379,4,1,4,8:59 PM,9:08,,,Nets Rebound,,
+0020200507,380,3,12,4,8:59 PM,9:08,,,MISS Johnson Free Throw 2 of 2,,
+0020200507,381,4,0,4,8:59 PM,9:07,McCoy REBOUND (Off:0 Def:3),,,,
+0020200507,382,2,47,4,8:59 PM,8:50,MISS Davis 14' Turnaround Jump Shot,,,,
+0020200507,383,4,0,4,9:00 PM,8:48,,,Kittles REBOUND (Off:0 Def:3),,
+0020200507,384,2,1,4,9:00 PM,8:36,,,MISS Rogers 17' Jump Shot,,
+0020200507,385,4,0,4,9:00 PM,8:35,McCoy REBOUND (Off:0 Def:4),,,,
+0020200507,386,6,2,4,9:00 PM,8:24,,,Williams S.FOUL (P3.T4),,
+0020200507,387,9,4,4,9:00 PM,8:24,,,,,
+0020200507,389,8,0,4,9:02 PM,8:24,SUB: Williams FOR Peterson,,,,
+0020200507,390,8,0,4,9:02 PM,8:24,,,SUB: Kidd FOR Johnson,,
+0020200507,391,8,0,4,9:02 PM,8:24,,,SUB: Collins FOR Williams,,
+0020200507,392,3,11,4,9:02 PM,8:24,MISS McCoy Free Throw 1 of 2,,,,
+0020200507,393,4,1,4,9:02 PM,8:24,RAPTORS Rebound,,,,
+0020200507,394,3,12,4,9:03 PM,8:24,McCoy Free Throw 2 of 2 (7 PTS),,,75 - 63,-12
+0020200507,396,6,1,4,9:03 PM,8:08,Hunter P.FOUL (P2.T4),,,,
+0020200507,397,2,1,4,9:03 PM,7:54,,,MISS Kidd 19' Jump Shot,,
+0020200507,398,4,0,4,9:04 PM,7:53,Alston REBOUND (Off:0 Def:4),,,,
+0020200507,399,1,1,4,9:04 PM,7:33,Alston 21' Jump Shot (11 PTS),,,75 - 65,-10
+0020200507,400,2,1,4,9:04 PM,7:17,,,MISS Jefferson 22' Jump Shot,,
+0020200507,401,4,0,4,9:04 PM,7:16,RAPTORS Rebound,,,,
+0020200507,402,6,3,4,9:04 PM,7:16,,,Rogers L.B.FOUL (P3.PN),,
+0020200507,403,8,0,4,9:04 PM,7:16,SUB: Jefferies FOR Hunter,,,,
+0020200507,404,3,11,4,9:05 PM,7:16,MISS McCoy Free Throw 1 of 2,,,,
+0020200507,405,4,1,4,9:05 PM,7:16,RAPTORS Rebound,,,,
+0020200507,406,3,12,4,9:05 PM,7:16,MISS McCoy Free Throw 2 of 2,,,,
+0020200507,407,4,0,4,9:05 PM,7:15,Alston REBOUND (Off:1 Def:4),,,,
+0020200507,408,5,4,4,9:05 PM,7:06,McCoy Traveling Turnover (P2.T15),,,,
+0020200507,409,1,1,4,9:05 PM,6:55,,,Kidd 25' 3PT Jump Shot (23 PTS) (Rogers 2 AST),78 - 65,-13
+0020200507,410,6,2,4,9:06 PM,6:30,,,Collins S.FOUL (P5.PN),,
+0020200507,411,3,11,4,9:06 PM,6:30,Davis Free Throw 1 of 2 (11 PTS),,,78 - 66,-12
+0020200507,412,3,12,4,9:06 PM,6:30,MISS Davis Free Throw 2 of 2,,,,
+0020200507,413,4,0,4,9:06 PM,6:30,,,Jefferson REBOUND (Off:1 Def:3),,
+0020200507,415,2,46,4,9:07 PM,6:16,,,MISS Kittles 6' Running Jump Shot,,
+0020200507,416,4,0,4,9:07 PM,6:14,Jefferies REBOUND (Off:0 Def:1),,,,
+0020200507,417,2,1,4,9:07 PM,6:04,MISS Williams 21' Jump Shot,,,,
+0020200507,418,4,0,4,9:07 PM,6:02,,,Collins REBOUND (Off:5 Def:3),,
+0020200507,419,1,50,4,9:07 PM,5:58,,,Jefferson  Running Dunk (12 PTS) (Kidd 8 AST),80 - 66,-14
+0020200507,420,1,46,4,9:07 PM,5:29,Alston 17' Running Jump Shot (13 PTS) (Williams 4 AST),,,80 - 68,-12
+0020200507,421,1,1,4,9:08 PM,5:13,,,Rogers 25' 3PT Jump Shot (13 PTS) (Kittles 2 AST),83 - 68,-15
+0020200507,422,9,1,4,9:08 PM,5:01,RAPTORS Timeout: Regular (Full 2 Short 2),,,,
+0020200507,424,8,0,4,9:10 PM,5:01,,,SUB: Martin FOR Rogers,,
+0020200507,425,8,0,4,9:10 PM,5:01,SUB: Peterson FOR Williams,,,,
+0020200507,426,6,2,4,9:11 PM,4:46,,,Collins S.FOUL (P6.PN),,
+0020200507,427,8,0,4,9:11 PM,4:46,,,SUB: Williams FOR Collins,,
+0020200507,428,3,11,4,9:11 PM,4:46,Davis Free Throw 1 of 2 (12 PTS),,,83 - 69,-14
+0020200507,429,3,12,4,9:11 PM,4:46,Davis Free Throw 2 of 2 (13 PTS),,,83 - 70,-13
+0020200507,430,1,63,4,9:12 PM,4:29,,,Kidd 15' Fadeaway Jumper (25 PTS),85 - 70,-15
+0020200507,431,6,2,4,9:12 PM,4:13,,,Williams S.FOUL (P4.PN),,
+0020200507,432,3,11,4,9:12 PM,4:13,MISS Jefferies Free Throw 1 of 2,,,,
+0020200507,433,4,1,4,9:12 PM,4:13,RAPTORS Rebound,,,,
+0020200507,434,3,12,4,9:12 PM,4:13,Jefferies Free Throw 2 of 2 (5 PTS),,,85 - 71,-14
+0020200507,435,5,1,4,9:13 PM,4:07,McCoy STEAL (1 STL),,Kittles Bad Pass Turnover (P1.T13),,
+0020200507,436,2,1,4,9:13 PM,4:00,MISS Peterson  3PT Jump Shot,,,,
+0020200507,437,4,0,4,9:13 PM,3:58,,,Martin REBOUND (Off:3 Def:7),,
+0020200507,438,1,1,4,9:13 PM,3:46,,,Kittles 20' Jump Shot (8 PTS) (Martin 1 AST),87 - 71,-16
+0020200507,439,1,8,4,9:13 PM,3:18,Jefferies  Slam Dunk (7 PTS) (Peterson 4 AST),,,87 - 73,-14
+0020200507,440,2,1,4,9:14 PM,2:59,,,MISS Kidd 16' Jump Shot,,
+0020200507,441,4,0,4,9:14 PM,2:57,RAPTORS Rebound,,,,
+0020200507,442,9,3,4,9:14 PM,2:57,,,Nets Timeout: Official TV (Reg.2 Short 1),,
+0020200507,444,8,0,4,9:16 PM,2:57,SUB: Long FOR Davis,,,,
+0020200507,446,5,3,4,9:16 PM,2:46,Peterson Out Of Bounds Turnover (P2.T16),,,,
+0020200507,447,2,1,4,9:17 PM,2:24,,,MISS Martin 19' Jump Shot,,
+0020200507,448,4,0,4,9:17 PM,2:23,,,Williams REBOUND (Off:2 Def:0),,
+0020200507,449,2,1,4,9:17 PM,2:11,,,MISS Kidd 25' 3PT Jump Shot,,
+0020200507,450,4,0,4,9:17 PM,2:09,Peterson REBOUND (Off:2 Def:1),,,,
+0020200507,453,7,2,4,9:17 PM,2:01,,,Martin Violation:Defensive Goaltending,,
+0020200507,452,1,42,4,9:17 PM,2:01,Alston  Driving Layup (15 PTS),,,87 - 75,-12
+0020200507,454,6,2,4,9:18 PM,1:49,Peterson S.FOUL (P3.PN),,,,
+0020200507,455,3,11,4,9:18 PM,1:49,,,MISS Kittles Free Throw 1 of 2,,
+0020200507,456,4,1,4,9:18 PM,1:49,,,Nets Rebound,,
+0020200507,457,3,12,4,9:18 PM,1:49,,,Kittles Free Throw 2 of 2 (9 PTS),88 - 75,-13
+0020200507,458,1,61,4,9:18 PM,1:30,Alston  Driving Finger Roll (17 PTS),,,88 - 77,-11
+0020200507,459,1,41,4,9:19 PM,1:12,,,Kittles  Running Layup (11 PTS) (Martin 2 AST),90 - 77,-13
+0020200507,461,2,1,4,9:19 PM,0:55,MISS Long 16' Jump Shot,,,,
+0020200507,462,4,0,4,9:19 PM,0:53,,,Williams REBOUND (Off:2 Def:1),,
+0020200507,463,6,1,4,9:20 PM,0:36,Long P.FOUL (P2.PN),,,,
+0020200507,464,3,11,4,9:20 PM,0:36,,,Kittles Free Throw 1 of 2 (12 PTS),91 - 77,-14
+0020200507,465,8,0,4,9:20 PM,0:36,,,SUB: Johnson FOR Kidd,,
+0020200507,466,8,0,4,9:20 PM,0:36,,,SUB: Slay FOR Martin,,
+0020200507,467,8,0,4,9:20 PM,0:36,,,SUB: Scalabrine FOR Jefferson,,
+0020200507,468,3,12,4,9:20 PM,0:36,,,Kittles Free Throw 2 of 2 (13 PTS),92 - 77,-15
+0020200507,470,2,1,4,9:21 PM,0:18,MISS Alston 20' Jump Shot,,,,
+0020200507,471,4,0,4,9:21 PM,0:16,,,Slay REBOUND (Off:0 Def:1),,
+0020200507,472,6,2,4,9:21 PM,0:13,Peterson S.FOUL (P4.PN),,,,
+0020200507,473,3,11,4,9:21 PM,0:13,,,Johnson Free Throw 1 of 2 (3 PTS),93 - 77,-16
+0020200507,474,3,12,4,9:21 PM,0:13,,,Johnson Free Throw 2 of 2 (4 PTS),94 - 77,-17
+0020200507,475,1,1,4,9:22 PM,0:03,Jefferies 21' Jump Shot (9 PTS) (Alston 3 AST),,,94 - 79,-15
+0020200507,476,13,0,4,9:22 PM,0:00,,,,94 - 79,-15
