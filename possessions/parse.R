@@ -238,5 +238,5 @@ raw.data = tibble(szn = dir(pbp.dir)) %>%
 raw.data
 
 games.tagged = raw.data %>% 
-  head(50) %>% 
+  # head(50) %>% 
   mutate(tagged.game = pmap(list(szn, gameid, data), read.or.tag.game))
