@@ -9,16 +9,68 @@ suppress.read.csv = function(...) {
   )
 }
 
-create.lineups.by.event = function(year, gameid) {
-  pbp = suppress.read.csv(glue('../raw-data/playbyplayv2/{YEAR}/{gameid}.csv'))
-  pbp
+read.pbp = function(year, gameid) {
+  suppress.read.csv(
+    glue('../raw-data/playbyplayv2/{year}/{gameid}.csv'),
+    col_types = cols(
+      GAME_ID = col_character(),
+      EVENTNUM = col_double(),
+      EVENTMSGTYPE = col_double(),
+      EVENTMSGACTIONTYPE = col_double(),
+      PERIOD = col_double(),
+      WCTIMESTRING = col_time(format = ""),
+      PCTIMESTRING = col_time(format = ""),
+      HOMEDESCRIPTION = col_character(),
+      NEUTRALDESCRIPTION = col_logical(),
+      VISITORDESCRIPTION = col_character(),
+      SCORE = col_character(),
+      SCOREMARGIN = col_character(),
+      PERSON1TYPE = col_double(),
+      PLAYER1_ID = col_double(),
+      PLAYER1_NAME = col_character(),
+      PLAYER1_TEAM_ID = col_double(),
+      PLAYER1_TEAM_CITY = col_character(),
+      PLAYER1_TEAM_NICKNAME = col_character(),
+      PLAYER1_TEAM_ABBREVIATION = col_character(),
+      PERSON2TYPE = col_double(),
+      PLAYER2_ID = col_double(),
+      PLAYER2_NAME = col_character(),
+      PLAYER2_TEAM_ID = col_double(),
+      PLAYER2_TEAM_CITY = col_character(),
+      PLAYER2_TEAM_NICKNAME = col_character(),
+      PLAYER2_TEAM_ABBREVIATION = col_character(),
+      PERSON3TYPE = col_double(),
+      PLAYER3_ID = col_double(),
+      PLAYER3_NAME = col_character(),
+      PLAYER3_TEAM_ID = col_double(),
+      PLAYER3_TEAM_CITY = col_character(),
+      PLAYER3_TEAM_NICKNAME = col_character(),
+      PLAYER3_TEAM_ABBREVIATION = col_character(),
+      VIDEO_AVAILABLE_FLAG = col_double()
+    )
+  ) 
+}
+
+read.starters = function(year, gameid) {
+  suppress.read.csv(
+    glue('starters-at-period/{year}/{gameid}.csv'),
+    col_types = cols(
+      PLAYER_NAME = col_character(),
+      PLAYER_ID = col_double(),
+      TEAM_ABBREVIATION = col_character(),
+      PERIOD = col_double()
+    )
+  )
+}
+
+create.lineups.by.event = function(year, gameid, matchup) {
+  pbp = read.pbp(year, gameid)
   
-  starters = suppress.read.csv(glue('starters-at-period/{YEAR}/{gameid}.csv'))
-  starters
+  starters = read.starters(year, gameid)
   
   lineup.table = starters %>%
     left_join(
-      away.home %>% filter(GAME_ID == gameid),
+      matchup,
       by = 'TEAM_ABBREVIATION'
     ) %>% 
     group_by(PERIOD, SIDE) %>% 
@@ -28,8 +80,6 @@ create.lineups.by.event = function(year, gameid) {
     ungroup() %>% 
     select(PERIOD, SIDE_ID, PLAYER_ID) %>%
     pivot_wider(names_from = 'SIDE_ID', values_from = 'PLAYER_ID')
-  
-  lineup.table
   
   sub.list = pbp %>% 
     arrange(EVENTNUM) %>% 
@@ -76,44 +126,82 @@ create.lineups.by.event = function(year, gameid) {
       )
     )
   
-  sub.list
-  
   lineups.by.event = sub.list %>% 
     select(EVENTNUM, PERIOD, lineups) %>% 
     unnest(c(lineups)) %>% 
     distinct(PERIOD, AWAY_1, AWAY_2, AWAY_3, AWAY_4, AWAY_5, HOME_1, HOME_2, HOME_3, HOME_4, HOME_5, .keep_all = TRUE)
-  
-  lineups.by.event
 }
 
-get.or.create.lineups = function(year, gameid) {
-  outpath = glue('players-on-court/{year}/{gameid}.csv')
+get.or.create.lineups = function(year, gameid, matchup) {
+  outfolder = glue('players-on-court/{year}/')
+  if (!dir.exists(outfolder)) {
+    dir.create(outfolder)
+  }
+
+  outpath = glue('{outfolder}{gameid}.csv')
+
   if (file.exists(outpath)) {
     data = suppress.read.csv(outpath)
   } else {
-    data = create.lineups.by.event(year, gameid)
+    data = create.lineups.by.event(year, gameid, matchup)
     write_csv(data, outpath)
   }
+  
+  pb$tick()$print()
+  
   return (data)
 }
 
-YEAR = 2020
+start.year = 2020
+end.year = 2020
 
-game.log = suppress.read.csv(glue('../raw-data/leaguegamelog/log-{YEAR}.csv'))
- 
-away.home = game.log %>%
-  filter(str_detect(MATCHUP, '@')) %>%
-  select(GAME_ID, MATCHUP) %>%
-  separate(MATCHUP, into = c('AWAY', 'HOME'), sep = ' @ ') %>%
-  pivot_longer(-GAME_ID, names_to = 'SIDE', values_to = 'TEAM_ABBREVIATION')
+games = tibble(year = start.year:end.year) %>% 
+  mutate(
+    game.log = map(year, ~suppress.read.csv(glue('../raw-data/leaguegamelog/{.x}.csv'))),
+    away.home = map(
+      game.log,
+      ~.x %>% 
+        filter(str_detect(MATCHUP, '@')) %>%
+        select(GAME_ID, MATCHUP) %>%
+        separate(MATCHUP, into = c('AWAY', 'HOME'), sep = ' @ ') %>%
+        pivot_longer(-GAME_ID, names_to = 'SIDE', values_to = 'TEAM_ABBREVIATION')
+    ),
+    game.ids = map(
+      away.home,
+      ~.x %>% 
+        distinct(game.id = GAME_ID) %>%
+        arrange(game.id)
+    )
+  ) %>% 
+  select(-game.log) %>% 
+  unnest(c(game.ids)) %>% 
+  mutate(matchup = map2(away.home, game.id, ~.x %>% filter(GAME_ID == .y))) %>% 
+  select(-away.home)
 
-away.home
+games
 
-gameids = away.home %>% distinct(GAME_ID) %>% arrange(GAME_ID)
+pb = progress_estimated(nrow(games))
 
-all.lineups = gameids %>% 
-  mutate(lineups = map(GAME_ID, ~get.or.create.lineups(YEAR, .x)))
+pwalk(
+  list(games$year, games$game.id, games$matchup),
+  get.or.create.lineups
+)
 
-all.lineups
-
-beepr::beep()
+# game.log = suppress.read.csv(glue('../raw-data/leaguegamelog/{YEAR}.csv'))
+#  
+# away.home = game.log %>%
+#   filter(str_detect(MATCHUP, '@')) %>%
+#   select(GAME_ID, MATCHUP) %>%
+#   separate(MATCHUP, into = c('AWAY', 'HOME'), sep = ' @ ') %>%
+#   pivot_longer(-GAME_ID, names_to = 'SIDE', values_to = 'TEAM_ABBREVIATION')
+# 
+# away.home
+# 
+# gameids = away.home %>% distinct(GAME_ID) %>% arrange(GAME_ID)
+# 
+# all.lineups = gameids %>% 
+#   mutate(lineups = map(GAME_ID, ~get.or.create.lineups(YEAR, .x)))
+# 
+# all.lineups
+# 
+# beepr::beep()
