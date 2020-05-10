@@ -122,7 +122,7 @@ identify.period.starters = function(year, gameid) {
   starters.at.period
 }
 
-get.or.read.starters = function(year, gameid) {
+get.and.write.starters = function(year, gameid) {
   outfolder = glue('starters-at-period/{year}/')
   if (!dir.exists(outfolder)) {
     dir.create(outfolder)
@@ -130,16 +130,14 @@ get.or.read.starters = function(year, gameid) {
   
   outpath = glue('{outfolder}{gameid}.csv')
   
-  if (file.exists(outpath)) {
-    data = suppress.read.csv(outpath)
-  } else {
+  if (!file.exists(outpath)) {
     data = identify.period.starters(year, gameid)
     write_csv(data, outpath)
   }
   
   pb$tick()$print()
   
-  return (data)
+  return (NULL)
 }
 
 start.year = 2020
@@ -161,7 +159,7 @@ pb = progress_estimated(nrow(game.ids))
 walk2(
   game.ids$year,
   game.ids$game.id,
-  get.or.read.starters
+  get.and.write.starters
 )
 
 beepr::beep()

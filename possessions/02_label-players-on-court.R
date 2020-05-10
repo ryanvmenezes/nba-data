@@ -126,13 +126,13 @@ create.lineups.by.event = function(year, gameid, matchup) {
       )
     )
   
-  lineups.by.event = sub.list %>% 
+  sub.list %>% 
     select(EVENTNUM, PERIOD, lineups) %>% 
     unnest(c(lineups)) %>% 
     distinct(PERIOD, AWAY_1, AWAY_2, AWAY_3, AWAY_4, AWAY_5, HOME_1, HOME_2, HOME_3, HOME_4, HOME_5, .keep_all = TRUE)
 }
 
-get.or.create.lineups = function(year, gameid, matchup) {
+get.and.write.lineups = function(year, gameid, matchup) {
   outfolder = glue('players-on-court/{year}/')
   if (!dir.exists(outfolder)) {
     dir.create(outfolder)
@@ -140,14 +140,12 @@ get.or.create.lineups = function(year, gameid, matchup) {
 
   outpath = glue('{outfolder}{gameid}.csv')
 
-  if (file.exists(outpath)) {
-    data = suppress.read.csv(outpath)
-  } else {
+  if (!file.exists(outpath)) {
     data = create.lineups.by.event(year, gameid, matchup)
     write_csv(data, outpath)
   }
   
-  # pb$tick()$print()
+  pb$tick()$print()
   
   return (data)
 }
@@ -180,16 +178,9 @@ games = tibble(year = start.year:end.year) %>%
 
 games
 
-# pb = progress_estimated(nrow(games))
+pb = progress_estimated(nrow(games))
 
-library(furrr)
-
-availableCores()
-
-plan(multiprocess)
-
-future_pwalk(
+pwalk(
   list(games$year, games$game.id, games$matchup),
-  get.or.create.lineups,
-  .progress = TRUE
+  get.and.write.lineups
 )
