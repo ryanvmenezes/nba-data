@@ -163,3 +163,5 @@ walk2(
   game.ids$game.id,
   get.or.read.starters
 )
+
+beepr::beep()

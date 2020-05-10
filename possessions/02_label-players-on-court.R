@@ -147,13 +147,13 @@ get.or.create.lineups = function(year, gameid, matchup) {
     write_csv(data, outpath)
   }
   
-  pb$tick()$print()
+  # pb$tick()$print()
   
   return (data)
 }
 
 start.year = 2020
-end.year = 2020
+end.year = 2016
 
 games = tibble(year = start.year:end.year) %>% 
   mutate(
@@ -180,28 +180,16 @@ games = tibble(year = start.year:end.year) %>%
 
 games
 
-pb = progress_estimated(nrow(games))
+# pb = progress_estimated(nrow(games))
 
-pwalk(
+library(furrr)
+
+availableCores()
+
+plan(multiprocess)
+
+future_pwalk(
   list(games$year, games$game.id, games$matchup),
-  get.or.create.lineups
+  get.or.create.lineups,
+  .progress = TRUE
 )
-
-# game.log = suppress.read.csv(glue('../raw-data/leaguegamelog/{YEAR}.csv'))
-#  
-# away.home = game.log %>%
-#   filter(str_detect(MATCHUP, '@')) %>%
-#   select(GAME_ID, MATCHUP) %>%
-#   separate(MATCHUP, into = c('AWAY', 'HOME'), sep = ' @ ') %>%
-#   pivot_longer(-GAME_ID, names_to = 'SIDE', values_to = 'TEAM_ABBREVIATION')
-# 
-# away.home
-# 
-# gameids = away.home %>% distinct(GAME_ID) %>% arrange(GAME_ID)
-# 
-# all.lineups = gameids %>% 
-#   mutate(lineups = map(GAME_ID, ~get.or.create.lineups(YEAR, .x)))
-# 
-# all.lineups
-# 
-# beepr::beep()
