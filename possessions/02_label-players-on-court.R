@@ -120,13 +120,15 @@ games = tibble(year = start.year:end.year) %>%
 
 games
 
-future_pmap(
+null.output = future_pmap(
   list(
     games$year,
     games$game.id,
-    games$matchup,
-    games$overwrite
+    games$matchup
+    # games$overwrite
   ),
   get.and.write.lineups,
   .progress = TRUE
 )
+
+beepr::beep()
