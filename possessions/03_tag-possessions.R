@@ -2,8 +2,8 @@ library(glue)
 library(furrr)
 library(tidyverse)
 
-availableCores()
-plan(multisession)
+# availableCores()
+# plan(multisession)
 
 read.pbp = function(fpath) {
   read_csv(
