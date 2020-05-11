@@ -32,15 +32,15 @@ identify.period.starters = function(year, gameid) {
   return(starters.at.period)
 }
 
-get.and.write.starters = function(year, gameid, overwrite = FALSE) {
+write.identified.starters = function(year, gameid, overwrite = FALSE) {
   outfolder = glue('starters-at-period/{year}/')
-  if (!dir.exists(outfolder)) {
+  if(!dir.exists(outfolder)) {
     dir.create(outfolder)
   }
   
   outpath = glue('{outfolder}{gameid}.csv')
   
-  if (!file.exists(outpath) | overwrite) {
+  if(!file.exists(outpath) | overwrite) {
     data = identify.period.starters(year, gameid)
     write_csv(data, outpath)
   }
@@ -65,8 +65,8 @@ game.ids
 null.output = future_map2(
   game.ids$year,
   game.ids$game.id,
-  get.and.write.starters,
-  # ~get.and.write.starters(.x, .y, overwrite = TRUE),
+  write.identified.starters,
+  # ~write.identified.starters(.x, .y, overwrite = TRUE),
   .progress = TRUE
 )
 

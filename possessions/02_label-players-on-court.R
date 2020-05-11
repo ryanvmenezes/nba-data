@@ -41,7 +41,7 @@ create.lineups.by.event = function(year, gameid, matchup) {
       lineups = pmap(
         list(period, sub.team, sub.out, sub.in),
         function(this.event.period, sub.team, sub.out, sub.in) {
-          if (!is.na(sub.team) & sub.team == 'home') {
+          if(!is.na(sub.team) & sub.team == 'home') {
             lineup.table <<- lineup.table %>% 
               mutate(
                 home.1 = case_when(period == this.event.period & sub.out == home.1 ~ sub.in, TRUE ~ home.1),
@@ -52,7 +52,7 @@ create.lineups.by.event = function(year, gameid, matchup) {
               )
           }
           
-          if (!is.na(sub.team) & sub.team == 'away') {
+          if(!is.na(sub.team) & sub.team == 'away') {
             lineup.table <<- lineup.table %>% 
               mutate(
                 away.1 = case_when(period == this.event.period & sub.out == away.1 ~ sub.in, TRUE ~ away.1),
@@ -76,20 +76,20 @@ create.lineups.by.event = function(year, gameid, matchup) {
   return(lineups.changes)
 }
 
-get.and.write.lineups = function(year, gameid, matchup, overwrite = FALSE) {
+write.lineups = function(year, gameid, matchup, overwrite = FALSE) {
   outfolder = glue('players-on-court/{year}/')
-  if (!dir.exists(outfolder)) {
+  if(!dir.exists(outfolder)) {
     dir.create(outfolder)
   }
 
   outpath = glue('{outfolder}{gameid}.csv')
 
-  if (!file.exists(outpath) | overwrite) {
+  if(!file.exists(outpath) | overwrite) {
     data = create.lineups.by.event(year, gameid, matchup)
     write_csv(data, outpath)
   }
   
-  return (NULL)
+  return(NULL)
 }
 
 games = tibble(year = start.year:end.year) %>% 
@@ -127,7 +127,7 @@ null.output = future_pmap(
     games$matchup
     # games$overwrite
   ),
-  get.and.write.lineups,
+  write.lineups,
   .progress = TRUE
 )
 
