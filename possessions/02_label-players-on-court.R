@@ -18,14 +18,13 @@ create.lineups.by.event = function(year, gameid, matchup) {
     ) %>% 
     group_by(period, side) %>% 
     mutate(
-      side.id = str_c(side, row_number(), sep = '_')
+      side.id = str_c(side, row_number(), sep = '.')
     ) %>% 
     ungroup() %>% 
     select(period, side.id, player.id) %>%
     pivot_wider(names_from = 'side.id', values_from = 'player.id')
   
   sub.list = pbp %>% 
-    arrange(eventnum) %>% 
     filter(eventmsgtype == 8) %>% 
     mutate(
       sub.team = case_when(
@@ -41,30 +40,30 @@ create.lineups.by.event = function(year, gameid, matchup) {
     mutate(
       lineups = pmap(
         list(period, sub.team, sub.out, sub.in),
-        function(period, sub.team, sub.out, sub.in) {
+        function(this.event.period, sub.team, sub.out, sub.in) {
           if (!is.na(sub.team) & sub.team == 'home') {
             lineup.table <<- lineup.table %>% 
               mutate(
-                home.1 = case_when(period == period & sub.out == home.1 ~ sub.in, TRUE ~ home.1),
-                home.2 = case_when(period == period & sub.out == home.2 ~ sub.in, TRUE ~ home.2),
-                home.3 = case_when(period == period & sub.out == home.3 ~ sub.in, TRUE ~ home.3),
-                home.4 = case_when(period == period & sub.out == home.4 ~ sub.in, TRUE ~ home.4),
-                home.5 = case_when(period == period & sub.out == home.5 ~ sub.in, TRUE ~ home.5),
+                home.1 = case_when(period == this.event.period & sub.out == home.1 ~ sub.in, TRUE ~ home.1),
+                home.2 = case_when(period == this.event.period & sub.out == home.2 ~ sub.in, TRUE ~ home.2),
+                home.3 = case_when(period == this.event.period & sub.out == home.3 ~ sub.in, TRUE ~ home.3),
+                home.4 = case_when(period == this.event.period & sub.out == home.4 ~ sub.in, TRUE ~ home.4),
+                home.5 = case_when(period == this.event.period & sub.out == home.5 ~ sub.in, TRUE ~ home.5),
               )
           }
           
           if (!is.na(sub.team) & sub.team == 'away') {
             lineup.table <<- lineup.table %>% 
               mutate(
-                away.1 = case_when(period == period & sub.out == away.1 ~ sub.in, TRUE ~ away.1),
-                away.2 = case_when(period == period & sub.out == away.2 ~ sub.in, TRUE ~ away.2),
-                away.3 = case_when(period == period & sub.out == away.3 ~ sub.in, TRUE ~ away.3),
-                away.4 = case_when(period == period & sub.out == away.4 ~ sub.in, TRUE ~ away.4),
-                away.5 = case_when(period == period & sub.out == away.5 ~ sub.in, TRUE ~ away.5),
+                away.1 = case_when(period == this.event.period & sub.out == away.1 ~ sub.in, TRUE ~ away.1),
+                away.2 = case_when(period == this.event.period & sub.out == away.2 ~ sub.in, TRUE ~ away.2),
+                away.3 = case_when(period == this.event.period & sub.out == away.3 ~ sub.in, TRUE ~ away.3),
+                away.4 = case_when(period == this.event.period & sub.out == away.4 ~ sub.in, TRUE ~ away.4),
+                away.5 = case_when(period == this.event.period & sub.out == away.5 ~ sub.in, TRUE ~ away.5),
               )
           }
           
-          return(lineup.table %>% filter(period == period) %>% select(-period))
+          return(lineup.table %>% filter(period == this.event.period) %>% select(-period))
         }
       )
     )
@@ -90,13 +89,8 @@ get.and.write.lineups = function(year, gameid, matchup, overwrite = FALSE) {
     write_csv(data, outpath)
   }
   
-  # pb$tick()$print()
-  
-  return (data)
+  return (NULL)
 }
-
-start.year = 2020
-end.year = 2016
 
 games = tibble(year = start.year:end.year) %>% 
   mutate(
@@ -126,8 +120,6 @@ games = tibble(year = start.year:end.year) %>%
 
 games
 
-# pb = progress_estimated(nrow(games))
-
 future_pmap(
   list(
     games$year,
@@ -135,5 +127,6 @@ future_pmap(
     games$matchup,
     games$overwrite
   ),
-  get.and.write.lineups
+  get.and.write.lineups,
+  .progress = TRUE
 )

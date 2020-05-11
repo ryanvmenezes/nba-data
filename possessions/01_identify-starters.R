@@ -45,13 +45,8 @@ get.and.write.starters = function(year, gameid, overwrite = FALSE) {
     write_csv(data, outpath)
   }
   
-  # pb$tick()$print()
-  
   return(NULL)
 }
-
-start.year = 2020
-end.year = 2011
 
 game.ids = tibble(year = start.year:end.year) %>%
   mutate(
@@ -65,7 +60,7 @@ game.ids = tibble(year = start.year:end.year) %>%
   unnest(c(game.ids)) %>%
   arrange(year, game.id)
 
-# pb = progress_estimated(nrow(game.ids))
+game.ids
 
 null.output = future_map2(
   game.ids$year,
