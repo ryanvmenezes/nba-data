@@ -65,8 +65,7 @@ game.ids
 null.output = future_map2(
   game.ids$year,
   game.ids$game.id,
-  write.identified.starters,
-  # ~write.identified.starters(.x, .y, overwrite = TRUE),
+  ~write.identified.starters(.x, .y, overwrite = overwrite),
   .progress = TRUE
 )
 

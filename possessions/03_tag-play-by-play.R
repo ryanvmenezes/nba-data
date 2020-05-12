@@ -14,21 +14,6 @@ tag.game = function(year, gameid, game) {
       homedescription = replace_na(homedescription, ''),
       neutraldescription = replace_na(neutraldescription, ''),
       visitordescription = replace_na(visitordescription, ''),
-      time.elapsed = map2_dbl(
-        period, pctimestring,
-        function(qtr, clock) {
-          clock.split = str_split(as.character(clock), pattern = ':')[[1]]
-          minutes = as.integer(clock.split[1])
-          seconds = minutes * 60 + as.integer(clock.split[2])
-          elapsed.this.qtr = 720 - seconds
-          elapsed.prev.qtrs = case_when(
-            as.integer(qtr) <= 4 ~ (qtr - 1) * 720,
-            TRUE ~ 720 * 4  + (qtr - 5) * 60 * 5
-          )
-          elapsed = elapsed.prev.qtrs + elapsed.this.qtr
-          return (elapsed)
-        }
-      ),
       is.made.shot = eventmsgtype == 1,
       is.missed.shot = eventmsgtype == 2,
       is.free.throw = eventmsgtype == 3,
@@ -93,7 +78,7 @@ tag.game = function(year, gameid, game) {
       is.1.of.1 = is.free.throw & eventmsgactiontype == 10,
       is.2.of.2 = is.free.throw & eventmsgactiontype == 12,
       is.3.of.3 = is.free.throw & eventmsgactiontype == 15,
-      is.technical = is.free.throw & eventmsgactiontype == 13,
+      is.technical = is.free.throw & eventmsgactiontype == 16,
       is.last.multi.free.throw = is.2.of.2 | is.3.of.3,
       is.last.free.throw = is.1.of.1 | is.last.multi.free.throw,
     ) %>% 
@@ -224,7 +209,7 @@ game.ids
 null.output = future_map2(
   game.ids$year,
   game.ids$game.id,
-  write.tagged.game,
+  ~write.tagged.game(.x, .y, overwrite = overwrite),
   .progress = TRUE
 )
 

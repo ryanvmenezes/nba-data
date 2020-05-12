@@ -1,5 +1,7 @@
+overwrite = TRUE
+
 start.year = 2020
-end.year = 2011
+end.year = 2020
 
 suppress.read.csv = function(...) {
   suppressMessages(
@@ -51,7 +53,25 @@ read.pbp.v2 = function(year, gameid) {
   )
   df = dplyr::rename_all(df, stringr::str_to_lower)
   df = dplyr::rename_all(df, ~stringr::str_replace_all(., '_', '.'))
-  df = dplyr::arrange(df, eventnum)
+  df = dplyr::mutate(
+    df,
+    time.elapsed = purrr::map2_dbl(
+        period, pctimestring,
+        function(qtr, clock) {
+          clock.split = stringr::str_split(as.character(clock), pattern = ':')[[1]]
+          minutes = as.integer(clock.split[1])
+          seconds = minutes * 60 + as.integer(clock.split[2])
+          elapsed.this.qtr = 720 - seconds
+          elapsed.prev.qtrs = dplyr::case_when(
+            as.integer(qtr) <= 4 ~ (qtr - 1) * 720,
+            TRUE ~ 720 * 4  + (qtr - 5) * 60 * 5
+          )
+          elapsed = elapsed.prev.qtrs + elapsed.this.qtr
+          return(elapsed)
+        }
+      )
+  )
+  df = dplyr::arrange(df, time.elapsed, eventnum)
   return(df)
 }
 

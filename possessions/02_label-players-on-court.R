@@ -114,7 +114,7 @@ games = tibble(year = start.year:end.year) %>%
   unnest(c(game.ids)) %>% 
   mutate(
     matchup = map2(away.home, game.id, ~.x %>% filter(game.id == .y)),
-    overwrite = TRUE
+    overwrite = overwrite
   ) %>% 
   select(-away.home)
 
@@ -124,8 +124,8 @@ null.output = future_pmap(
   list(
     games$year,
     games$game.id,
-    games$matchup
-    # games$overwrite
+    games$matchup,
+    games$overwrite
   ),
   write.lineups,
   .progress = TRUE
