@@ -8,8 +8,7 @@ gameid = '0021900001'
 
 pbp = read.pbp.v2(year, gameid)
 
-tagged = read_csv(glue('tagged-pbp/{year}/{gameid}.csv')) %>% 
-  arrange(time.elapsed, eventnum)
+tagged = read_csv(glue('tagged-pbp/{year}/{gameid}.csv'))
 
 tagged
 
@@ -25,6 +24,8 @@ game.team.ids
 this.game.team.ids = game.team.ids %>% 
   filter(game.id == gameid)
 
+this.game.team.ids
+
 on.court = read_csv(glue('players-on-court/{year}/{gameid}.csv'))
 
 on.court
@@ -37,18 +38,8 @@ joined = tagged %>%
     away.team.id = this.game.team.ids$away.team.id,
     home.team.id = this.game.team.ids$home.team.id,
   ) %>% 
-  fill(starts_with('away.'), starts_with('home.'), .direction = 'down') %>% 
+  fill(starts_with('away.'), starts_with('home.'), starts_with('score'), .direction = 'down') %>% 
   mutate(
-    # points = case_when(
-    #   is.free.throw & !is.miss ~ 1,
-    #   is.made.shot & !is.three ~ 2,
-    #   is.made.shot & is.three ~ 3,
-    #   TRUE ~ 0
-    # ),
-    # offensive.rebounds = case_when(
-    #   is.rebound & !is.defensive.rebound ~ 1,
-    #   TRUE ~ 0
-    # ),
     team.at.possession.end = case_when(
       is.na(possession.end) ~ NA_character_,
       possession.end %in% c('last.ft.made', 'made.shot') ~ case_when(
@@ -81,6 +72,8 @@ possession.summary = joined %>%
     period = first(period),
     how.possession.ended = last(possession.end),
     team.with.ball = last(team.at.possession.end),
+    # score = last(score),
+    # scoremargin = last(scoremargin),
     end.time = max(time.elapsed),
     attempts.2p = sum((is.made.shot | is.missed.shot) & !is.three),
     makes.2p = sum(is.made.shot & !is.three),
@@ -88,10 +81,12 @@ possession.summary = joined %>%
     makes.3p = sum(is.made.shot & is.three),
     attempts.ft = sum(is.free.throw),
     makes.ft = sum(is.free.throw & !is.miss),
-    points = makes.ft + 2 * makes.2p + 3 * makes.3p,
+    possession.points = makes.ft + 2 * makes.2p + 3 * makes.3p,
     defensive.fouls = sum(is.foul & eventmsgtype != 4),
-    offensive.rebounds = sum(is.rebound & !is.defensive.rebound)
+    offensive.rebounds = sum(is.rebound & !is.defensive.rebound),
+    # add players on court
   ) %>% 
+  ungroup() %>% 
   mutate(
     team.with.ball = case_when(
       how.possession.ended == 'end.of.period' ~ if_else(lag(team.with.ball) == 'home', 'away', 'home'),
@@ -99,21 +94,30 @@ possession.summary = joined %>%
     )
   ) %>% 
   arrange(possession.id) %>% 
-  group_by(period) %>% 
+  mutate(
+    start.time = lag(end.time, default = 0),
+    poss.time = end.time - start.time,
+    team.with.ball.id = case_when(
+      team.with.ball == 'home' ~ this.game.team.ids$home.team.id,
+      team.with.ball == 'away' ~ this.game.team.ids$away.team.id,
+    )
+  ) %>% 
+  select(
+    possession.id, period, how.possession.ended, team.with.ball, team.with.ball.id,
+    possession.points, poss.time, start.time, end.time,
+    attempts.2p, makes.2p, attempts.3p, makes.3p, attempts.ft, makes.ft,
+    defensive.fouls, offensive.rebounds,
+  ) %>% 
   mutate(
     alternates = team.with.ball != lag(team.with.ball)
-  ) %>% 
-  ungroup()
+  )
   
   
-  
+possession.summary  
 
 possession.summary %>% 
   group_by(team.with.ball) %>%
-  summarise(sum(points))
-
-joined %>% filter(is.free.throw & !is.miss)
-
+  summarise(sum(possession.points))
 
 possession.summary %>% 
   write_csv('tmp.csv', na = '')
