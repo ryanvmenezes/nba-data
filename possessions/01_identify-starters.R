@@ -2,7 +2,7 @@ library(glue)
 library(furrr)
 library(tidyverse)
 
-plan(multisession)
+plan(multiprocess)
 
 source('utils.R')
 
@@ -15,13 +15,13 @@ identify.period.starters = function(year, gameid) {
   
   full.subs = pbp %>% 
     filter(eventmsgtype == 8) %>% 
-    select(period, eventnum, out = player1.id, IN = player2.id) %>% 
-    pivot_longer(-period:-eventnum, names_to = 'sub', values_to = 'player.id') %>% 
-    select(period, player.id, eventnum, sub)
+    select(period, eventorder, out = player1.id, IN = player2.id) %>% 
+    pivot_longer(-period:-eventorder, names_to = 'sub', values_to = 'player.id') %>% 
+    select(period, player.id, eventorder, sub)
   
   first.event.of.period = full.subs %>%
     group_by(period, player.id) %>% 
-    filter(eventnum == min(eventnum))
+    filter(eventorder == min(eventorder))
   
   players.subbed.in = first.event.of.period %>% filter(sub == 'IN')
 

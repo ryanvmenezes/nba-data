@@ -2,7 +2,7 @@ library(glue)
 library(furrr)
 library(tidyverse)
 
-plan(multisession)
+plan(multiprocess)
 
 source('utils.R')
 
@@ -164,11 +164,18 @@ tag.game = function(year, gameid, game) {
         is.end.of.period ~ 'end.of.period',
         TRUE ~ NA_character_
       ),
-      possession.id = cumsum(replace_na(lag(is.end.of.possession), FALSE))
+      possession.id = cumsum(lag(is.end.of.possession, default = FALSE)) + 1
     ) %>% 
     rename(player.1.id = player1.id) %>%
     select(-game.id, -wctimestring, -starts_with('person'), -starts_with('player1'), -starts_with('player2'), -starts_with('player3'), -starts_with('video')) %>% 
-    select(1:8, is.end.of.possession, possession.end, possession.id, everything()) %>% 
+    select(
+      eventorder, eventnum, eventmsgtype, eventmsgactiontype,
+      period, pctimestring, time.elapsed,
+      is.end.of.possession, possession.end, possession.id,
+      homedescription, visitordescription,
+      score, scoremargin, player.1.id,
+      everything() # should be all of the columns starting with 'is.' except is.end.of.possession
+    ) %>% 
     mutate_if(is.logical, ~case_when(. == FALSE ~ '', TRUE ~ 'TRUE'))
   
   return(tagged.game)

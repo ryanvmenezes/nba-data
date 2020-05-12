@@ -56,11 +56,15 @@ read.pbp.v2 = function(year, gameid) {
   df = dplyr::mutate(
     df,
     time.elapsed = purrr::map2_dbl(
-        period, pctimestring,
-        calculate.time.elapsed
-      )
+      period, pctimestring,
+      calculate.time.elapsed
+    )
   )
   df = dplyr::arrange(df, time.elapsed, eventnum)
+  df = dplyr::mutate(
+    df,
+    eventorder = 1:nrow(df)
+  )
   return(df)
 }
 
@@ -173,6 +177,84 @@ read.starters = function(year, gameid) {
       PLAYER_ID = readr::col_double(),
       TEAM_ABBREVIATION = readr::col_character(),
       PERIOD = readr::col_double()
+    )
+  )
+  return(df)
+}
+
+read.tagged = function(year, gameid) {
+  df = suppress.read.csv(
+    glue::glue('tagged-pbp/{year}/{gameid}.csv'),
+    col_types = readr::cols(
+      eventorder = readr::col_double(),
+      eventnum = readr::col_double(),
+      eventmsgtype = readr::col_double(),
+      eventmsgactiontype = readr::col_double(),
+      period = readr::col_double(),
+      pctimestring = readr::col_time(format = ""),
+      time.elapsed = readr::col_double(),
+      is.end.of.possession = readr::col_logical(),
+      possession.end = readr::col_character(),
+      possession.id = readr::col_double(),
+      homedescription = readr::col_character(),
+      visitordescription = readr::col_character(),
+      score = readr::col_character(),
+      scoremargin = readr::col_character(),
+      player.1.id = readr::col_double(),
+      neutraldescription = readr::col_logical(),
+      is.made.shot = readr::col_logical(),
+      is.missed.shot = readr::col_logical(),
+      is.free.throw = readr::col_logical(),
+      is.rebound = readr::col_logical(),
+      is.turnover = readr::col_logical(),
+      is.foul = readr::col_logical(),
+      is.violation = readr::col_logical(),
+      is.substitution = readr::col_logical(),
+      is.timeout = readr::col_logical(),
+      is.jump.ball = readr::col_logical(),
+      is.ejection = readr::col_logical(),
+      is.start.of.period = readr::col_logical(),
+      is.end.of.period = readr::col_logical(),
+      is.miss = readr::col_logical(),
+      is.shooting.foul = readr::col_logical(),
+      is.away.from.play.foul = readr::col_logical(),
+      is.inbound.foul = readr::col_logical(),
+      is.loose.ball.foul = readr::col_logical(),
+      is.team.rebound = readr::col_logical(),
+      is.defensive.rebound = readr::col_logical(),
+      is.missed.free.throw = readr::col_logical(),
+      is.1.of.1 = readr::col_logical(),
+      is.2.of.2 = readr::col_logical(),
+      is.3.of.3 = readr::col_logical(),
+      is.technical = readr::col_logical(),
+      is.last.multi.free.throw = readr::col_logical(),
+      is.last.free.throw = readr::col_logical(),
+      is.last.free.throw.made = readr::col_logical(),
+      is.and.1 = readr::col_logical(),
+      is.make.and.not.and.1 = readr::col_logical(),
+      is.three = readr::col_logical(),
+      is.team.turnover = readr::col_logical()
+    )
+  )
+  return(df)
+}
+
+read.on.court = function(year, gameid) {
+  df = suppress.read.csv(
+    glue::glue('players-on-court/{year}/{gameid}.csv'),
+    col_types = readr::cols(
+      eventorder = readr::col_double(),
+      period = readr::col_double(),
+      away.1 = readr::col_double(),
+      away.2 = readr::col_double(),
+      away.3 = readr::col_double(),
+      away.4 = readr::col_double(),
+      away.5 = readr::col_double(),
+      home.1 = readr::col_double(),
+      home.2 = readr::col_double(),
+      home.3 = readr::col_double(),
+      home.4 = readr::col_double(),
+      home.5 = readr::col_double()
     )
   )
   return(df)

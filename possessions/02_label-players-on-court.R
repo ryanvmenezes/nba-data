@@ -2,7 +2,7 @@ library(glue)
 library(furrr)
 library(tidyverse)
 
-plan(multisession)
+plan(multiprocess)
 
 source('utils.R')
 
@@ -32,10 +32,10 @@ create.lineups.by.event = function(year, gameid, matchup) {
         is.na(homedescription) & !is.na(visitordescription) ~ 'away',
       )
     ) %>% 
-    select(eventnum, period, sub.team, sub.out = player1.id, sub.in = player2.id) %>% 
+    select(eventorder, period, sub.team, sub.out = player1.id, sub.in = player2.id) %>% 
     right_join(
-      pbp %>% select(eventnum, period),
-      by = c("eventnum", "period")
+      pbp %>% select(eventorder, period),
+      by = c("eventorder", "period")
     ) %>% 
     mutate(
       lineups = pmap(
@@ -69,7 +69,7 @@ create.lineups.by.event = function(year, gameid, matchup) {
     )
   
   lineups.changes = sub.list %>% 
-    select(eventnum, period, lineups) %>% 
+    select(eventorder, period, lineups) %>% 
     unnest(c(lineups)) %>% 
     distinct(period, away.1, away.2, away.3, away.4, away.5, home.1, home.2, home.3, home.4, home.5, .keep_all = TRUE)
 
