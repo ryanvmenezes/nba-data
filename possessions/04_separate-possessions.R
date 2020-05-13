@@ -6,9 +6,6 @@ plan(multiprocess)
 
 source('utils.R')
 
-year = 2020
-gameid = '0021900001'
-
 separate.possessions = function(year, gameid, awayteamid, hometeamid) {
   tagged = read.tagged(year, gameid)
 
@@ -83,15 +80,19 @@ separate.possessions = function(year, gameid, awayteamid, hometeamid) {
     arrange(possession.id) %>% 
     mutate(
       start.time = lag(end.time, default = 0),
-      poss.time = end.time - start.time,
+      possession.time = end.time - start.time,
       team.with.ball.id = case_when(
         team.with.ball == 'home' ~ hometeamid,
         team.with.ball == 'away' ~ awayteamid,
-      )
+      ),
+      team.without.ball.id = case_when(
+        team.with.ball == 'home' ~ awayteamid,
+        team.with.ball == 'away' ~ hometeamid,
+      ),
     ) %>% 
     select(
-      possession.id, period, how.possession.ended, team.with.ball, team.with.ball.id,
-      possession.points, poss.time, start.time, end.time,
+      possession.id, period, how.possession.ended, team.with.ball, team.with.ball.id, team.without.ball.id,
+      possession.points, possession.time, start.time, end.time,
       score, scoremargin,
       attempts.2p, makes.2p, attempts.3p, makes.3p, attempts.ft, makes.ft,
       defensive.fouls, offensive.rebounds,
